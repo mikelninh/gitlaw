@@ -10,21 +10,21 @@
 
 Im Sinne dieser Verordnung sind
 
-1.
+1. Geldinstitute Unternehmen, die vor dem 1. Juli 1990 im Währungsgebiet der Mark der Deutschen Demokratischen Republik befugt Bankgeschäfte nach § 1 Abs. 1 des Gesetzes über das Kreditwesen in der Fassung der Bekanntmachung vom 11. Juli 1985 (BGBl. I S. 1472) betrieben haben; die Befugnis kann auf Gesetz, Verordnung, behördlicher Anordnung oder behördlicher Erlaubnis beruhen,
 
-2.
+2. Außenhandelsbetriebe Unternehmen, die vor dem 1. Juli 1990 im Währungsgebiet der Mark der Deutschen Demokratischen Republik im Auftrag staatlicher Stellen im Rahmen des Außenhandels- und Valutamonopols Geschäfte mit Unternehmen oder Ländern außerhalb des Währungsgebietes der Mark der Deutschen Demokratischen Republik betrieben haben. Dazu rechnen auch Unternehmen, die den Geschäftsbetrieb von Außenhandelsbetrieben ganz oder teilweise zum Zwecke der Abwicklung übernommen haben, hinsichtlich des abzuwickelnden Vermögens.
 
 ### § 2 — Einreichung von Unterlagen
 
-(1) Geldinstitute und Außenhandelsbetriebe haben dem Bundesaufsichtsamt für das Kreditwesen (Bundesaufsichtsamt) und der Deutschen Bundesbank bis zum 15. März 1991 einzureichen. Geldinstitute haben ferner den zum Stichtag 1. Juli 1990 ausgefüllten Vordruck 10410/07.90 der Deutschen Bundesbank (Berechnung der Kennziffern der Grundsätze gemäß §§ 10 und 11 des Gesetzes über das Kreditwesen - Grundsatz I -) (Anlage) einzureichen.
+(1) Geldinstitute und Außenhandelsbetriebe haben dem Bundesaufsichtsamt für das Kreditwesen (Bundesaufsichtsamt) und der Deutschen Bundesbank bis zum 15. März 1991
 
-1.
+1. die nach der Anordnung über den Abschluß der Buchführung in Mark der Deutschen Demokratischen Republik zum 30. Juni 1990 vom 27. Juni 1990 (GBl. der DDR Teil I Nr. 40 S. 593) aufgestellte, geprüfte und bestätigte Schlußbilanz sowie Gewinn- und Verlustrechnung zum 30. Juni 1990 in Mark der Deutschen Demokratischen Republik,
 
-2.
+2. die nach dem D-Markbilanzgesetz vom 23. September 1990 (BGBl. 1990 II S. 885, 1169) aufgestellte, geprüfte, festgestellte und mit einem Bestätigungsvermerk versehene Eröffnungsbilanz in Deutscher Mark für den 1. Juli 1990 nebst Anhang und vergleichender Darstellung,
 
-3.
+3. eine Versicherung der Geschäftsleiter, daß sie dem Prüfer alle Unterlagen vorgelegt haben, die mit der Währungsumstellung in Zusammenhang stehen oder stehen können, und ihn über alle Geschäftsvorgänge unterrichtet haben, die mit einer eventuellen Umgestaltung der Geschäftstätigkeit seit dem 1. März 1990 zusammenhängen, sowie
 
-4.
+4. den Bericht über die Prüfung der Eröffnungsbilanz
 
 (2) Haben Außenhandelsbetriebe oder Geldinstitute nach §§ 21, 22 des D-Markbilanzgesetzes eine Konzerneröffnungsbilanz und einen Konzernanhang aufzustellen, so sind diese Unterlagen sowie der Bericht über die Prüfung der Konzerneröffnungsbilanz und des Konzernanhangs bis zum 15. März 1991 dem Bundesaufsichtsamt und der Deutschen Bundesbank einzureichen.
 
@@ -101,5 +101,3 @@ Bundesaufsichtsamtes
 (Inkrafttreten)
 
 ### Anlage — (zu § 2 Abs. 1)
-
-(Inhalt: Nicht darstellbarer Vordruck,

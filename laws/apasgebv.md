@@ -16,9 +16,9 @@ Die Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrko
 
 (2) Auslagen werden nach Maßgabe der § 9 Absatz 1 Satz 1 und 2 sowie § 12 Absatz 1 des Bundesgebührengesetzes erhoben. Darüber hinaus sind Auslagen zu erheben für
 
-1.
+1. Kosten für die Einholung von Gutachten sachverständiger Dritter und
 
-2.
+2. Kosten durch Dienstreisen außerhalb der Bundesrepublik Deutschland.
 
 ### § 3 — Berechnung der Gebühren
 
@@ -30,7 +30,7 @@ Die Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrko
 
 ### § 4 — Gebührenermäßigung
 
-Hat das Gesamthonorar der Praxis, das mit gesetzlichen Abschlussprüfungen bei Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs erzielt worden ist, im Vorjahr weniger als 150 000 Euro betragen, werden die Gebühren nach den Nummern 1 und 9 der Anlage um 25 Prozent ermäßigt. Hat das Gesamthonorar nach Satz 1 im Vorjahr weniger als 50 000 Euro betragen, werden die Gebühren nach den Nummern 1 und 9 der Anlage um 50 Prozent ermäßigt. § 3 Absatz 3 gilt entsprechend.
+Hat das Gesamthonorar der Praxis, das mit gesetzlichen Abschlussprüfungen bei Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs erzielt worden ist, im Vorjahr weniger als 150 000 Euro betragen, werden die Gebühren nach den Nummern 1 und 9 der Anlage um 25 Prozent ermäßigt. Hat das Gesamthonorar nach Satz 1 im Vorjahr weniger als 50 000 Euro betragen, werden die Gebühren nach den Nummern 1 und 9 der Anlage um 50 Prozent ermäßigt. § 3 Absatz 3 gilt entsprechend.
 
 ### § 5 — Laufende Verfahren
 

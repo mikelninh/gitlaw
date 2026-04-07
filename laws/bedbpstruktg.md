@@ -10,11 +10,11 @@
 
 Dieses Gesetz gilt für Beamtinnen und Beamte
 
-1.
+1. des Bundeseisenbahnvermögens, die von Umstrukturierungsmaßnahmen bei der Deutsche Bahn Aktiengesellschaft betroffen sind,
 
-2.
+2. bei einem der Postnachfolgeunternehmen Deutsche Post AG, DB Privat- und Firmenkundenbank AG oder Deutsche Telekom AG (Aktiengesellschaft), die in Bereichen mit Personalüberhang beschäftigt sind, und
 
-3.
+3. der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost, die in Bereichen mit Personalüberhang beschäftigt sind.
 
 ### § 2 — Förderung der anderweitigen Verwendung
 
@@ -29,9 +29,9 @@ Bundeseisenbahnvermögens
 
 (1) Beamtinnen und Beamte des Bundeseisenbahnvermögens, die von Umstrukturierungsmaßnahmen bei der Deutsche Bahn Aktiengesellschaft oder den nach § 2 Abs. 1 sowie § 3 Abs. 3 Satz 1 des Deutsche Bahn Gründungsgesetzes ausgegliederten oder gegründeten Unternehmen betroffen sind, können bis zum 31. Dezember 2006 auf Antrag in den Ruhestand versetzt werden, wenn
 
-1.
+1. sie als Beamtinnen und Beamte des einfachen oder des mittleren Dienstes das 55. Lebensjahr oder als Beamtinnen und Beamte des gehobenen Dienstes das 60. Lebensjahr vollendet haben und
 
-2.
+2. ihre anderweitige Verwendung in der eigenen oder in anderen Verwaltungen nicht möglich oder nach allgemeinen beamtenrechtlichen Grundsätzen nicht zumutbar ist.
 
 (2) § 5 Abs. 3 des Beamtenversorgungsgesetzes ist nicht anzuwenden. § 53 Abs. 2 Nr. 3 des Beamtenversorgungsgesetzes gilt entsprechend.
 
@@ -41,21 +41,15 @@ Bundeseisenbahnvermögens
 
 (1) Beamtinnen und Beamte nach § 1 Nr. 2 können bis zum 31. Dezember 2026 auf Antrag in den Ruhestand versetzt werden, wenn
 
-1.
+1. sie das 55. Lebensjahr vollendet haben,
 
-2.
+2. ihre Verwendung in Bereichen mit Personalbedarf bei der sie beschäftigenden Aktiengesellschaft und in einem Unternehmen im Sinne des § 4 Abs. 4 Satz 2 des Postpersonalrechtsgesetzes nicht möglich ist und der Aktiengesellschaft auch keine Verwendungsmöglichkeit in Verwaltungen bekannt ist,
 
-3.
+3. betriebliche oder betriebswirtschaftliche Belange nicht entgegenstehen und
 
-4.
+4. eine der folgenden Voraussetzungen vorliegt: a)die Beamtinnen oder Beamten nach der Versetzung in den Ruhestand eine Tätigkeit im Bundesfreiwilligendienst nach dem Bundesfreiwilligendienstgesetz ableisten wollen,b)die Beamtinnen oder Beamten eine nach Art und Umfang vergleichbare ehrenamtliche Tätigkeit von mindestens 1 000 Einsatzstunden bei einer Körperschaft, die ausschließlich und unmittelbar gemeinnützige, mildtätige oder kirchliche Zwecke im Sinne des Dritten Abschnitts des Zweiten Teils der Abgabenordnung verfolgt, ausüben wollen oderc)die Beamtinnen oder Beamten die Voraussetzungen für eine familienbedingte Beurlaubung nach § 92 Absatz 1 Satz 1 Nummer 1 des Bundesbeamtengesetzes erfüllen. die Beamtinnen oder Beamten nach der Versetzung in den Ruhestand eine Tätigkeit im Bundesfreiwilligendienst nach dem Bundesfreiwilligendienstgesetz ableisten wollen, die Beamtinnen oder Beamten eine nach Art und Umfang vergleichbare ehrenamtliche Tätigkeit von mindestens 1 000 Einsatzstunden bei einer Körperschaft, die ausschließlich und unmittelbar gemeinnützige, mildtätige oder kirchliche Zwecke im Sinne des Dritten Abschnitts des Zweiten Teils der Abgabenordnung verfolgt, ausüben wollen oder die Beamtinnen oder Beamten die Voraussetzungen für eine familienbedingte Beurlaubung nach § 92 Absatz 1 Satz 1 Nummer 1 des Bundesbeamtengesetzes erfüllen.
 
-a)
-
-b)
-
-c)
-
-(2) Das Ruhegehalt der nach Absatz 1 in den Ruhestand versetzten Beamtinnen und Beamten vermindert sich um einen Versorgungsabschlag entsprechend § 14 Abs. 3 des Beamtenversorgungsgesetzes in der bis zum 11. Februar 2009 geltenden Fassung. Die Beamtin oder der Beamte erhält einen Ausgleichsbetrag zum Ruhegehalt in Höhe des für sie oder ihn geltenden Versorgungsabschlags für die gesamte Dauer des Versorgungsbezugs. Der Ausgleichsbetrag ist Bestandteil des Ruhegehalts nach dem Beamtenversorgungsgesetz. Die Aktiengesellschaft, bei der die Beamtin oder der Beamte beschäftigt ist, zahlt an den Bund den jeweiligen Ausgleichsbetrag bis zur Höhe von 10,8 Prozent. Der Ausgleichsbetrag entfällt mit Wirkung für die Zukunft, wenn die Beamtin oder der Beamte nicht innerhalb eines Zeitraums von drei Jahren nach der Versetzung in den Ruhestand nachweist, dass mindestens zwölf Monate im Bundesfreiwilligendienst oder 1 000 Einsatzstunden in einer vergleichbaren ehrenamtlichen Tätigkeit oder Familienpflegetätigkeiten geleistet worden sind.
+(2) Das Ruhegehalt der nach Absatz 1 in den Ruhestand versetzten Beamtinnen und Beamten vermindert sich um einen Versorgungsabschlag entsprechend § 14 Abs. 3 des Beamtenversorgungsgesetzes in der bis zum 11. Februar 2009 geltenden Fassung. Die Beamtin oder der Beamte erhält einen Ausgleichsbetrag zum Ruhegehalt in Höhe des für sie oder ihn geltenden Versorgungsabschlags für die gesamte Dauer des Versorgungsbezugs. Der Ausgleichsbetrag ist Bestandteil des Ruhegehalts nach dem Beamtenversorgungsgesetz. Die Aktiengesellschaft, bei der die Beamtin oder der Beamte beschäftigt ist, zahlt an den Bund den jeweiligen Ausgleichsbetrag bis zur Höhe von 10,8 Prozent. Der Ausgleichsbetrag entfällt mit Wirkung für die Zukunft, wenn die Beamtin oder der Beamte nicht innerhalb eines Zeitraums von drei Jahren nach der Versetzung in den Ruhestand nachweist, dass mindestens zwölf Monate im Bundesfreiwilligendienst oder 1 000 Einsatzstunden in einer vergleichbaren ehrenamtlichen Tätigkeit oder Familienpflegetätigkeiten geleistet worden sind.
 
 (3) Die nach Absatz 1 in den Ruhestand versetzten Beamtinnen und Beamten, die Erwerbs- oder Erwerbsersatzeinkommen beziehen, sind als Ruhestandsbeamte im Sinne des § 53 Abs. 2 Nr. 3 des Beamtenversorgungsgesetzes anzusehen.
 
@@ -71,10 +65,6 @@ c)
 
 ### Anlage — (zu § 4 Abs. 4)
 
-1.
+1. Der Jahresbetrag der Zahlungsverpflichtung nach § 4 Absatz 4 ist die Summe aus den jährlichen a)Versorgungsbezügen einschließlich 80 Prozent des Kinderzuschlags undb)den Unternehmensbeiträgen nach § 16 Absatz 1 des Postpersonalrechtsgesetzes,jeweils bezogen auf den Einzelfall der Zurruhesetzung nach diesem Gesetz. Versorgungsbezügen einschließlich 80 Prozent des Kinderzuschlags und den Unternehmensbeiträgen nach § 16 Absatz 1 des Postpersonalrechtsgesetzes,
 
-a)
-
-b)
-
-2.
+2. Zahlungszeiträume nach § 4 Absatz 4 in Jahren: Besoldungsgruppen A 2 bis A 6Ruhegehaltfähige DienstzeitAlterbis 22 Jahreüber 22 Jahreüber 32 Jahre55 Jahre6,136,087,3956 Jahre5,625,596,8857 Jahre5,315,136,1858 Jahre4,344,615,4359 Jahre4,144,114,6960 Jahre3,563,513,9361 Jahre2,932,853,1762 Jahre2,172,112,3963 Jahre1,361,331,60ab 64 Jahre0,990,960,98Besoldungsgruppen A 7 bis A 9Ruhegehaltfähige DienstzeitAlterbis 22 Jahreüber 22 Jahreüber 32 Jahre55 Jahre7,194,626,5756 Jahre6,514,235,8357 Jahre5,823,845,2058 Jahre5,133,424,5959 Jahre4,432,994,0560 Jahre3,702,533,4861 Jahre2,942,063,0162 Jahre2,151,592,3763 Jahre1,331,031,62ab 64 Jahre0,950,680,96Besoldungsgruppen A 10 bis B 3Ruhegehaltfähige DienstzeitAlterbis 22 Jahreüber 22 Jahreüber 32 Jahre55 Jahre4,314,446,7456 Jahre4,004,066,0857 Jahre3,763,675,2958 Jahre3,273,264,5759 Jahre2,892,833,9660 Jahre2,412,393,4061 Jahre2,031,922,8762 Jahre1,521,462,2663 Jahre0,861,021,59ab 64 Jahre0,580,550,95

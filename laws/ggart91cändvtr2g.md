@@ -14,5 +14,3 @@
 ### Art 2
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
-
-(2) Das Bundesministerium des Innern und für Heimat gibt den Tag, an dem die Vorschriften des Zweiten IT-Änderungsstaatsvertrags nach seinem Artikel 3 Absatz 1 Satz 1 in Kraft treten, im Bundesgesetzblatt bekannt. Gleiches gilt für den Fall, dass der Zweite IT-Änderungsstaatsvertrag nach seinem Artikel 3 Absatz 1 Satz 2 gegenstandslos wird oder der IT-Staatsvertrag nach seinem § 12 Absatz 2 außer Kraft tritt.

@@ -11,11 +11,11 @@ Auf Grund des § 84 Absatz 2 des Strahlenschutzgesetzes, der zuletzt durch Artik
 
 ### § 1 — Begriffsbestimmungen
 
-(1) Niedrigdosis-Computertomographie ist eine Computertomographie des Thorax, bei deren Anwendung zur Erreichung der erforderlichen Bildqualität zur Lungenkrebsfrüherkennung Auf den Volumen-Computertomographie-Dosisindex der Niedrigdosis-Computertomographie wird der Volumen-Computertomographie-Dosisindex der dazugehörigen Übersichtsaufnahme nicht angerechnet.
+(1) Niedrigdosis-Computertomographie ist eine Computertomographie des Thorax, bei deren Anwendung zur Erreichung der erforderlichen Bildqualität zur Lungenkrebsfrüherkennung
 
-1.
+1. ein Volumen-Computertomographie-Dosisindex von 1,3 Milligray nicht überschritten wird oder
 
-2.
+2. ein höherer Volumen-Computertomographie-Dosisindex als 1,3 Milligray im Einzelfall aufgrund der Körperstatur der zu untersuchenden Person notwendig ist.
 
 (2) Packungsjahr ist die Einheit, in der der Zigarettenkonsum angegeben wird. Zur Ermittlung des Zigarettenkonsums in Packungsjahren ist für jedes Jahr des Zigarettenkonsums die im Jahresdurchschnitt pro Tag gerauchte Anzahl der Zigaretten durch 20 zu teilen. Die nach Satz 2 errechneten Ergebnisse der einzelnen Jahre sind zu addieren. Der Zigarettenkonsum vor einer vollständigen Unterbrechung des Rauchens ist nur dann mitzuzählen, wenn die vollständige Unterbrechung weniger als zehn Jahre beträgt.
 
@@ -29,29 +29,13 @@ Auf Grund des § 84 Absatz 2 des Strahlenschutzgesetzes, der zuletzt durch Artik
 
 (1) Die Untersuchung der Lunge mittels Niedrigdosis-Computertomographie zur Lungenkrebsfrüherkennung ist zulässig bei Personen,
 
-1.
+1. die das 50., aber noch nicht das 76. Lebensjahr vollendet haben,
 
-2.
+2. bei denen die letzte Untersuchung der Lunge mittels Computertomographie, die qualitativ zur Befundung im Hinblick auf ein Lungenkarzinom geeignet gewesen ist, mindestens zwölf Monate zurückliegt,
 
-3.
+3. die über einen Bericht einer Person, die die Anforderungen nach § 6 Absatz 3 erfüllt, verfügen, aus dem Folgendes hervorgeht: a)ein Zigarettenkonsum aa)mit einer Dauer von mindestens 25 Jahren, wobei die Jahre vor einer vollständigen Unterbrechung des Rauchens und die Jahre der vollständigen Unterbrechung selbst nur mitgezählt werden, wenn die Unterbrechung weniger als zehn Jahre beträgt, undbb)von mindestens 15 Packungsjahren sowieb)ein medizinisches Eignungsprofil der zu untersuchenden Person und die hierfür relevanten anamnestischen Daten und ein Zigarettenkonsum aa)mit einer Dauer von mindestens 25 Jahren, wobei die Jahre vor einer vollständigen Unterbrechung des Rauchens und die Jahre der vollständigen Unterbrechung selbst nur mitgezählt werden, wenn die Unterbrechung weniger als zehn Jahre beträgt, undbb)von mindestens 15 Packungsjahren sowie mit einer Dauer von mindestens 25 Jahren, wobei die Jahre vor einer vollständigen Unterbrechung des Rauchens und die Jahre der vollständigen Unterbrechung selbst nur mitgezählt werden, wenn die Unterbrechung weniger als zehn Jahre beträgt, und von mindestens 15 Packungsjahren sowie ein medizinisches Eignungsprofil der zu untersuchenden Person und die hierfür relevanten anamnestischen Daten und
 
-a)
-
-aa)
-
-bb)
-
-b)
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
+4. die durch eine Person, die die Anforderungen nach § 6 Absatz 3 erfüllt, in einem mündlichen Gespräch und durch Aushändigung von Informationen in Textform über Folgendes informiert wurden: a)den Nutzen der Untersuchung zur Lungenkrebsfrüherkennung,b)das mögliche Auftreten und die möglichen Auswirkungen falsch-positiver und falsch-negativer Ergebnisse der Untersuchung zur Lungenkrebsfrüherkennung,c)das weitere Verfahren zur Abklärung im Fall von abklärungsbedürftigen Befunden, insbesondere über die Risiken und Belastungen der Abklärungsuntersuchungen, undd)die Gefahr der Überdiagnose und der Übertherapie.In den Informationen in Textform ist darüber hinaus auf das Strahlenrisiko hinzuweisen. Sonstige Aufklärungs- und Informationspflichten bleiben unberührt. den Nutzen der Untersuchung zur Lungenkrebsfrüherkennung, das mögliche Auftreten und die möglichen Auswirkungen falsch-positiver und falsch-negativer Ergebnisse der Untersuchung zur Lungenkrebsfrüherkennung, das weitere Verfahren zur Abklärung im Fall von abklärungsbedürftigen Befunden, insbesondere über die Risiken und Belastungen der Abklärungsuntersuchungen, und die Gefahr der Überdiagnose und der Übertherapie.
 
 (2) Abweichend von Absatz 1 Satz 1 Nummer 2 ist nach einem kontrollbedürftigen Befund eine Untersuchung zur Lungenkrebsfrüherkennung mittels Niedrigdosis-Computertomographie vor Ablauf von zwölf Monaten zulässig.
 
@@ -59,19 +43,19 @@ d)
 
 Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass eine Person, die die Anforderungen nach § 6 Absatz 1 erfüllt,
 
-1.
+1. die Zulässigkeitsvoraussetzungen nach § 2 prüft und
 
-2.
+2. die rechtfertigende Indikation nach § 83 Absatz 3 des Strahlenschutzgesetzes für die Untersuchung zur Lungenkrebsfrüherkennung bei der zu untersuchenden Person unter Berücksichtigung des Berichts nach § 2 Absatz 1 Satz 1 Nummer 3 stellt.
 
 ### § 4 — Anforderungen an den Computertomographen, den Befundarbeitsplatz und die Durchführung der Untersuchung sowie an die Software zur computerassistierten Detektion
 
 (1) Die Anforderungen an den Computertomographen, den Befundarbeitsplatz und die Durchführung der Untersuchung sowie an die Software zur computerassistierten Detektion richten sich nach der Anlage zu dieser Verordnung. Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die Anforderungen eingehalten werden.
 
-(2) Sofern sich die zu untersuchende Person bereits einer Untersuchung zur Lungenkrebsfrüherkennung unterzogen hat, hat der Strahlenschutzverantwortliche dafür zu sorgen, dass vor der Erstellung einer Computertomographieaufnahme Sofern es nicht möglich ist, die Unterlagen vorzulegen, oder dies zu einem unverhältnismäßigen Aufwand für den Strahlenschutzverantwortlichen führt, kann im Einzelfall auf das Vorliegen der Unterlagen verzichtet werden.
+(2) Sofern sich die zu untersuchende Person bereits einer Untersuchung zur Lungenkrebsfrüherkennung unterzogen hat, hat der Strahlenschutzverantwortliche dafür zu sorgen, dass vor der Erstellung einer Computertomographieaufnahme
 
-1.
+1. die Computertomographieaufnahmen einschließlich der dazugehörigen Befunde, die bei den letzten beiden vorangegangenen Untersuchungen zur Lungenkrebsfrüherkennung erstellt worden sind, vorliegen oder
 
-2.
+2. die Computertomographieaufnahme einschließlich der dazugehörigen Befunde der letzten Untersuchung zur Lungenkrebsfrüherkennung vorliegt, falls es zuvor nur eine Untersuchung zur Lungenkrebsfrüherkennung gegeben hat.
 
 ### § 5 — Befundung der Untersuchung
 
@@ -83,59 +67,45 @@ Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass eine Person, die di
 
 ### § 6 — Anforderungen an das Personal
 
-(1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass jede Person, die Niedrigdosis-Computertomographie im Rahmen der Untersuchung zur Lungenkrebsfrüherkennung anwendet, zusätzlich zu den Anforderungen nach § 145 Absatz 1 der Strahlenschutzverordnung Jede Person, die Niedrigdosis-Computertomographie im Rahmen der Untersuchung zur Lungenkrebsfrüherkennung anwendet, muss die folgende Anzahl an Untersuchungen der Lunge mittels Niedrigdosis-Computertomographie zur Lungenkrebsfrüherkennung befunden und dokumentieren: Wird die Anforderung nach Satz 2 nicht erfüllt, hat der Strahlenschutzverantwortliche dafür zu sorgen, dass die Person eine Fortbildung absolviert, in deren Rahmen Fallbeispiele zu befunden und zu dokumentieren sind. Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass diese Person bis zum Abschluss der Fortbildung keine Untersuchungen zur Lungenkrebsfrüherkennung durchführt.
+(1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass jede Person, die Niedrigdosis-Computertomographie im Rahmen der Untersuchung zur Lungenkrebsfrüherkennung anwendet, zusätzlich zu den Anforderungen nach § 145 Absatz 1 der Strahlenschutzverordnung
 
-1.
+1. über eine abgeschlossene Weiterbildung zum Facharzt auf dem Gebiet der Radiologie verfügt,
 
-2.
+2. mindestens 200 Untersuchungen mittels Thorax-Computertomographie im Jahr vor Aufnahme der Ausübung der Lungenkrebsfrüherkennung befundet und dokumentiert hat und
 
-3.
+3. durch Fortbildung Wissen im Bereich der Untersuchung zur Lungenkrebsfrüherkennung erworben hat.
 
-1.
+(2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass der Zweitbefunder nach § 5 Absatz 2
 
-2.
+1. die Anforderungen nach Absatz 1 Satz 1 erfüllt und
 
-(2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass der Zweitbefunder nach § 5 Absatz 2 Der Zweitbefunder muss die folgende Anzahl an Untersuchungen der Lunge mittels Niedrigdosis-Computertomographie zur Lungenkrebsfrüherkennung befunden und dokumentieren: Absatz 1 Satz 3 und 4 gilt entsprechend.
-
-1.
-
-2.
-
-1.
-
-2.
+2. an einer Einrichtung tätig ist, die auf die Untersuchung und Behandlung von Lungenkrebs spezialisiert ist.
 
 (3) Der Strahlenschutzverantwortliche hat zu prüfen, ob die Person, die einen Bericht nach § 2 Absatz 1 Satz 1 Nummer 3 erstellt und nach § 2 Absatz 1 Satz 1 Nummer 4 die zu untersuchende Person informiert,
 
-1.
+1. als Arzt approbiert ist oder ihr die vorübergehende Ausübung des ärztlichen Berufs erlaubt ist,
 
-2.
+2. über eine abgeschlossene Weiterbildung zum Facharzt auf einem der folgenden Gebiete verfügt oder sich mindestens im dritten Jahr der Weiterbildung zum Facharzt auf einem der folgenden Gebiete befindet: a)der Inneren Medizin,b)der Allgemeinmedizin oderc)der Arbeitsmedizin und der Inneren Medizin, der Allgemeinmedizin oder der Arbeitsmedizin und
 
-a)
-
-b)
-
-c)
-
-3.
+3. im Rahmen der Weiterbildung zum Facharzt oder durch Fortbildung Wissen im Bereich der Lungenkrebsfrüherkennung erworben hat.
 
 ### § 7 — Qualitätssicherung
 
 (1) Der Strahlenschutzverantwortliche hat ein umfassendes Qualitätssicherungssystem einzurichten und zu betreiben. Dieses muss organisatorische, medizinische und technische Aspekte berücksichtigen, insbesondere
 
-1.
+1. die Art und Durchführung der Untersuchungen zur Lungenkrebsfrüherkennung,
 
-2.
+2. die diagnostische Bildqualität der Computertomographieaufnahme,
 
-3.
+3. die physikalisch-technischen Parameter bei der Erstellung der Computertomographieaufnahme und
 
-4.
+4. die Befundung der Computertomographieaufnahme.
 
-(2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass für eine Prozess- und Ergebnisevaluation der Untersuchung zur Lungenkrebsfrüherkennung bei rauchenden Personen anonymisierte Daten über folgende Punkte erhoben und aufgezeichnet werden: Der Strahlenschutzverantwortliche hat die Aufzeichnungen für die Dauer von zehn Jahren aufzubewahren.
+(2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass für eine Prozess- und Ergebnisevaluation der Untersuchung zur Lungenkrebsfrüherkennung bei rauchenden Personen anonymisierte Daten über folgende Punkte erhoben und aufgezeichnet werden:
 
-1.
+1. die Anzahl der untersuchten Personen und
 
-2.
+2. die Anzahl der kontrollbedürftigen und der abklärungsbedürftigen Befunde.
 
 (3) Der Strahlenschutzverantwortliche hat auf Verlangen der ärztlichen Stelle oder der zuständigen Behörde die Informationen nach Absatz 2 zur Verfügung zu stellen.
 

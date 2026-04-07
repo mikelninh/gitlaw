@@ -9,25 +9,25 @@ und Ausländern in der Sozialen Sicherheit
 
 ### Art 1
 
-Dem in Genf am 28. Juni 1962 von der Allgemeinen Konferenz der Internationalen Arbeitsorganisation angenommenen Übereinkommen über die Gleichbehandlung von Inländern und Ausländern in der Sozialen Sicherheit wird mit der Maßgabe zugestimmt, daß die Bundesrepublik Deutschland die Verpflichtungen des Übereinkommens für folgende Zweige der Sozialen Sicherheit übernimmt: Das Übereinkommen wird nachstehend veröffentlicht.
+Dem in Genf am 28. Juni 1962 von der Allgemeinen Konferenz der Internationalen Arbeitsorganisation angenommenen Übereinkommen über die Gleichbehandlung von Inländern und Ausländern in der Sozialen Sicherheit wird mit der Maßgabe zugestimmt, daß die Bundesrepublik Deutschland die Verpflichtungen des Übereinkommens für folgende Zweige der Sozialen Sicherheit übernimmt:
 
-a)
+a) Ärztliche Betreuung;
 
-b)
+b) Krankengeld;
 
-c)
+c) Leistungen bei Mutterschaft;
 
-d)
+d) Leistungen bei Arbeitsunfällen und Berufskrankheiten;
 
-e)
+e) Leistungen bei Arbeitslosigkeit.
 
 ### Art 2
 
 Nach Maßgabe von Artikel 5 Abs. 1 des Übereinkommens sind von dem Tag an, an dem das Übereinkommen für die Bundesrepublik Deutschland in Kraft tritt, nicht mehr anzuwenden:
 
-1.
+1. § 313 Abs. 5 Satz 3 der Reichsversicherungsordnung auf Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes, auf Staatsangehörige anderer Mitgliedstaaten der Internationalen Arbeitsorganisation, welche die Verpflichtungen aus dem Übereinkommen in dem Zweig des Krankengeldes übernommen haben, sowie auf die in Artikel 10 Abs. 1 des Übereinkommens genannten Personen;
 
-2.
+2. § 625 der Reichsversicherungsordnung auf Staatsangehörige anderer Mitgliedstaaten der Internationalen Arbeitsorganisation, welche die Verpflichtungen aus dem Übereinkommen in dem Zweig der Leistungen bei Arbeitsunfällen und Berufskrankheiten übernommen haben, sowie auf die in Artikel 10 Abs. 1 des Übereinkommens genannten Personen.
 
 ### Art 3
 

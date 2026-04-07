@@ -20,23 +20,23 @@ Diese Verordnung regelt für den Anwendungsbereich des Erneuerbare-Energien-Gese
 
 (2) Biomasse im Sinne des Absatzes 1 sind insbesondere:
 
-1.
+1. Pflanzen und Pflanzenbestandteile,
 
-2.
+2. aus Pflanzen oder Pflanzenbestandteilen hergestellte Energieträger, deren sämtliche Bestandteile und Zwischenprodukte aus Biomasse im Sinne des Absatzes 1 erzeugt wurden,
 
-3.
+3. Abfälle und Nebenprodukte pflanzlicher und tierischer Herkunft aus der Land-, Forst- und Fischwirtschaft,
 
-4.
+4. Bioabfälle im Sinne von § 2 Nr. 1 der Bioabfallverordnung,
 
-5.
+5. aus Biomasse im Sinne des Absatzes 1 durch Vergasung oder Pyrolyse erzeugtes Gas und daraus resultierende Folge- und Nebenprodukte,
 
-6.
+6. aus Biomasse im Sinne des Absatzes 1 erzeugte Alkohole, deren Bestandteile, Zwischen-, Folge- und Nebenprodukte aus Biomasse erzeugt wurden.
 
 (3) Unbeschadet von Absatz 1 gelten als Biomasse im Sinne dieser Verordnung:
 
-1.
+1. Treibsel aus Gewässerpflege, Uferpflege und -reinhaltung,
 
-2.
+2. durch anaerobe Vergärung erzeugtes Biogas, sofern zur Vergärung nicht Stoffe nach § 3 Nummer 3, 7 oder 9 oder mehr als 10 Gewichtsprozent Klärschlamm eingesetzt werden.
 
 (4) Stoffe, aus denen in Altanlagen im Sinne von § 2 Abs. 3 Satz 4 des Erneuerbare-Energien-Gesetzes vom 29. März 2000 (BGBl. I S. 305) in der am 31. Juli 2004 geltenden Fassung Strom erzeugt und vor dem 1. April 2000 bereits als Strom aus Biomasse vergütet worden ist, gelten in diesen Anlagen weiterhin als Biomasse. Dies gilt nicht für Stoffe nach § 3 Nr. 4.
 
@@ -46,51 +46,43 @@ Diese Verordnung regelt für den Anwendungsbereich des Erneuerbare-Energien-Gese
 
 Nicht als Biomasse im Sinne dieser Verordnung gelten:
 
-1.
+1. fossile Brennstoffe sowie daraus hergestellte Neben- und Folgeprodukte,
 
-2.
+2. Torf,
 
-3.
+3. gemischte Siedlungsabfälle aus privaten Haushaltungen sowie ähnliche Abfälle aus anderen Herkunftsbereichen einschließlich aus gemischten Siedlungsabfällen herausgelöste Biomassefraktionen,
 
-4.
+4. Altholz mit Ausnahme von Industrierestholz
 
-5.
+5. Papier, Pappe, Karton,
 
-6.
+6. Klärschlämme im Sinne der Klärschlammverordnung,
 
-7.
+7. Hafenschlick und sonstige Gewässerschlämme und -sedimente,
 
-8.
+8. Textilien,
 
-9.
+9. tierische Nebenprodukte im Sinne von Artikel 3 Nummer 1 der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (ABl. L 300 vom 14.11.2009, S. 1), die durch die Richtlinie 2010/63/EU (ABl. L 276 vom 20.10.2010, S. 33) geändert worden ist, soweit es sich a)um Material der Kategorie 1 gemäß Artikel 8 der Verordnung (EG) Nr. 1069/2009 handelt,b)um Material der Kategorie 2 gemäß Artikel 9 der Verordnung (EG) Nr. 1069/2009 mit Ausnahme von Gülle, von Magen und Darm getrenntem Magen- und Darminhalt und Kolostrum im Sinne der genannten Verordnung handelt,c)um Material der Kategorie 3 gemäß Artikel 10 der Verordnung (EG) Nr. 1069/2009 mit Ausnahme von Häuten, Fellen, Hufen, Federn, Wolle, Hörnern, Haaren und Pelzen nach Artikel 10 Buchstaben b Unterbuchstaben iii bis v, h und n handelt, und dieses Material durch Verbrennen direkt als Abfall beseitigt wird, oderd)um Material der Kategorie 3 gemäß Artikel 10 der Verordnung (EG) Nr. 1069/2009 handelt, das in Verarbeitungsbetrieben für Material der Kategorie 1 oder 2 verarbeitet wird, sowie Stoffe, die durch deren dortige Verarbeitung hergestellt worden oder sonst entstanden sind, um Material der Kategorie 1 gemäß Artikel 8 der Verordnung (EG) Nr. 1069/2009 handelt, um Material der Kategorie 2 gemäß Artikel 9 der Verordnung (EG) Nr. 1069/2009 mit Ausnahme von Gülle, von Magen und Darm getrenntem Magen- und Darminhalt und Kolostrum im Sinne der genannten Verordnung handelt, um Material der Kategorie 3 gemäß Artikel 10 der Verordnung (EG) Nr. 1069/2009 mit Ausnahme von Häuten, Fellen, Hufen, Federn, Wolle, Hörnern, Haaren und Pelzen nach Artikel 10 Buchstaben b Unterbuchstaben iii bis v, h und n handelt, und dieses Material durch Verbrennen direkt als Abfall beseitigt wird, oder um Material der Kategorie 3 gemäß Artikel 10 der Verordnung (EG) Nr. 1069/2009 handelt, das in Verarbeitungsbetrieben für Material der Kategorie 1 oder 2 verarbeitet wird, sowie Stoffe, die durch deren dortige Verarbeitung hergestellt worden oder sonst entstanden sind,
 
-a)
+10. Deponiegas,
 
-b)
+11. Klärgas,
 
-c)
-
-d)
-
-10.
-
-11.
-
-12.
+12. Ablaugen der Zellstoffherstellung.
 
 ### § 4 — Technische Verfahren
 
 (1) Als technische Verfahren zur Erzeugung von Strom aus Biomasse im Sinne dieser Verordnung gelten einstufige und mehrstufige Verfahren der Stromerzeugung durch folgende Arten von Anlagen:
 
-1.
+1. Feuerungsanlagen in Kombination mit Dampfturbinen-, Dampfmotor-, Stirlingmotor- und Gasturbinenprozessen, einschließlich Organic-Rankine-Cycle-(ORC)-Prozessen,
 
-2.
+2. Verbrennungsmotoranlagen,
 
-3.
+3. Gasturbinenanlagen,
 
-4.
+4. Brennstoffzellenanlagen,
 
-5.
+5. andere Anlagen, die wie die in Nummern 1 bis 4 genannten technischen Verfahren im Hinblick auf das Ziel des Klima- und Umweltschutzes betrieben werden.
 
 (2) Soweit eine Stromerzeugung aus Biomasse im Sinne dieser Verordnung mit einem Verfahren nach Absatz 1 nur durch eine Zünd- oder Stützfeuerung mit anderen Stoffen als Biomasse möglich ist, können auch solche Stoffe eingesetzt werden.
 

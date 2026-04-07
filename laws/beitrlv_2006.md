@@ -18,10 +18,6 @@ Auf Grund des § 35 Abs. 1 und des § 69 in Verbindung mit § 68 sowie auf Grund
 
 ### § 2 — Beitragszuschuss in der Alterssicherung der Landwirte
 
-(1) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte wird der monatliche Zuschussbetrag für das Kalenderjahr 2006 wie folgt festgesetzt:
-
-(2) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte wird der monatliche Zuschussbetrag für das Beitrittsgebiet für das Kalenderjahr 2006 wie folgt festgesetzt:
-
 ### § 3 — Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2006 in Kraft.

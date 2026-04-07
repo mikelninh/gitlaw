@@ -18,11 +18,11 @@ Der Richter darf eine Nebentätigkeit nur ausüben, wenn dadurch das Vertrauen i
 
 (1) Der Richter darf nur herangezogen werden zu
 
-1.
+1. einer richterlichen Nebentätigkeit,
 
-2.
+2. einer Nebentätigkeit in der Gerichtsverwaltung und,
 
-3.
+3. soweit § 4 des Deutschen Richtergesetzes nicht entgegensteht, einer Nebentätigkeit in der übrigen Rechtspflege.
 
 (2) Vor der Heranziehung soll der Richter gehört werden.
 
@@ -42,11 +42,11 @@ Der Richter darf eine Nebentätigkeit nur ausüben, wenn dadurch das Vertrauen i
 
 Die Genehmigung für eine Nebentätigkeit ist zu versagen, wenn der Richter sie nach den §§ 4, 39, 40 oder 41 des Deutschen Richtergesetzes nicht wahrnehmen darf oder ein sonstiger gesetzlicher Versagungsgrund vorliegt. Dies gilt insbesondere, wenn zu besorgen ist, daß die Nebentätigkeit
 
-1.
+1. das Vertrauen in die Unabhängigkeit, Unparteilichkeit oder Unbefangenheit des Richters gefährdet oder sonst mit dem Ansehen des Richterstandes oder mit dem Wohle der Allgemeinheit unvereinbar ist,
 
-2.
+2. die Arbeitskraft des Richters so stark in Anspruch nimmt, daß die ordnungsgemäße Erfüllung seiner richterlichen Pflichten beeinflußt wird, oder
 
-3.
+3. die Rechtspflege in anderer Weise beeinträchtigt.
 
 ### § 6 — Abgeordnete Richter
 

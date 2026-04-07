@@ -25,23 +25,21 @@ Auf Grund des § 23 Abs. 1 des Bundes-Immissionsschutzgesetzes in der Fassung de
 
 (2) Die Immissionsrichtwerte betragen für Immissionsorte außerhalb von Gebäuden
 
-1.
+1. in Gewerbegebieten tags außerhalb der Ruhezeiten 65 dB(A), tags innerhalb der Ruhezeiten am Morgen 60 dB(A), im Übrigen 65 dB(A), nachts 50 dB(A),
 
-1a.
+1a. in urbanen Gebieten tags außerhalb der Ruhezeiten 63 dB(A), tags innerhalb der Ruhezeiten am Morgen 58 dB(A), im Übrigen 63 dB(A), nachts 45 dB(A),
 
-2.
+2. in Kerngebieten, Dorfgebieten und Mischgebieten tags außerhalb der Ruhezeiten 60 dB(A), tags innerhalb der Ruhezeiten am Morgen 55 dB(A), im Übrigen 60 dB(A), nachts 45 dB(A),
 
-3.
+3. in allgemeinen Wohngebieten und Kleinsiedlungsgebieten tags außerhalb der Ruhezeiten 55 dB(A), tags innerhalb der Ruhezeiten am Morgen 50 dB(A), im Übrigen 55 dB(A), nachts 40 dB(A),
 
-4.
+4. in reinen Wohngebieten tags außerhalb der Ruhezeiten 50 dB(A), tags innerhalb der Ruhezeiten am Morgen 45 dB(A), im Übrigen 50 dB(A), nachts 35 dB(A),
 
-5.
+5. in Kurgebieten, für Krankenhäuser und Pflegeanstalten tags außerhalb der Ruhezeiten 45 dB(A), tags innerhalb der Ruhezeiten 45 dB(A), nachts 35 dB(A).
 
 (3) Werden bei Geräuschübertragung innerhalb von Gebäuden in Aufenthaltsräumen von Wohnungen, die baulich aber nicht betrieblich mit der Sportanlage verbunden sind, von der Sportanlage verursachte Geräuschimmissionen mit einem Beurteilungspegel von mehr als 35 dB(A) tags oder 25 dB(A) nachts festgestellt, hat der Betreiber der Sportanlage Maßnahmen zu treffen, welche die Einhaltung der genannten Immissionsrichtwerte sicherstellen; dies gilt unabhängig von der Lage der Wohnung in einem der in Absatz 2 genannten Gebiete.
 
 (4) Einzelne kurzzeitige Geräuschspitzen sollen die Immissionsrichtwerte nach Absatz 2 tags um nicht mehr als 30 dB(A) sowie nachts um nicht mehr als 20 dB(A) überschreiten; ferner sollen einzelne kurzzeitige Geräuschspitzen die Immissionsrichtwerte nach Absatz 3 um nicht mehr als 10 dB(A) überschreiten.
-
-(5) Die Immissionsrichtwerte beziehen sich auf folgende Zeiten: Die Ruhezeit von 13.00 bis 15.00 Uhr an Sonn- und Feiertagen ist nur zu berücksichtigen, wenn die Nutzungsdauer der Sportanlage oder der Sportanlagen an Sonn- und Feiertagen in der Zeit von 9.00 bis 20.00 Uhr 4 Stunden oder mehr beträgt.
 
 (6) Die Art der in Absatz 2 bezeichneten Gebiete und Anlagen ergibt sich aus den Festsetzungen in den Bebauungsplänen. Sonstige in Bebauungsplänen festgesetzte Flächen für Gebiete und Anlagen sowie Gebiete und Anlagen, für die keine Festsetzungen bestehen, sind nach Absatz 2 entsprechend der Schutzbedürftigkeit zu beurteilen. Weicht die tatsächliche bauliche Nutzung im Einwirkungsbereich der Anlage erheblich von der im Bebauungsplan festgesetzten baulichen Nutzung ab, ist von der tatsächlichen baulichen Nutzung unter Berücksichtigung der vorgesehenen baulichen Entwicklung des Gebietes auszugehen.
 
@@ -51,13 +49,13 @@ Auf Grund des § 23 Abs. 1 des Bundes-Immissionsschutzgesetzes in der Fassung de
 
 Zur Erfüllung der Pflichten nach § 2 Abs. 1 hat der Betreiber insbesondere
 
-1.
+1. an Lautsprecheranlagen und ähnlichen Einrichtungen technische Maßnahmen, wie dezentrale Aufstellung von Lautsprechern und Einbau von Schallpegelbegrenzern, zu treffen,
 
-2.
+2. technische und bauliche Schallschutzmaßnahmen, wie die Verwendung lärmgeminderter oder lärmmindernder Ballfangzäune, Bodenbeläge, Schallschutzwände und -wälle, zu treffen,
 
-3.
+3. Vorkehrungen zu treffen, daß Zuschauer keine übermäßig lärmerzeugenden Instrumente wie pyrotechnische Gegenstände oder druckgasbetriebene Lärmfanfaren verwenden, und
 
-4.
+4. An- und Abfahrtswege und Parkplätze durch Maßnahmen betrieblicher und organisatorischer Art so zu gestalten, daß schädliche Umwelteinwirkungen durch Geräusche auf ein Mindestmaß beschränkt werden.
 
 ### § 4 — Weitergehende Vorschriften
 
@@ -75,9 +73,7 @@ Weitergehende Vorschriften, vor allem zum Schutz der Sonn- und Feiertags-, Mitta
 
 (5) Die zuständige Behörde soll von einer Festsetzung von Betriebszeiten absehen, wenn infolge des Betriebs einer oder mehrerer Sportanlagen bei seltenen Ereignissen nach Nummer 1.5 des Anhangs Überschreitungen der Immissionsrichtwerte nach § 2 Abs. 2
 
-1.
-
-2.
+1. die Geräuschimmissionen außerhalb von Gebäuden die Immissionsrichtwerte nach § 2 Abs. 2 um nicht mehr als 10 dB(A), keinesfalls aber die folgenden Höchstwerte überschreiten:
 
 (6) In dem in Artikel 3 des Einigungsvertrages genannten Gebiet soll die zuständige Behörde für die Durchführung angeordneter Maßnahmen nach § 3 Nr. 1 und 2 eine Frist setzen, die bis zu zehn Jahre betragen kann.
 
@@ -101,132 +97,54 @@ Diese Verordnung tritt drei Monate nach der Verkündung in Kraft.
 
 ### Anhang 1
 
-Ermittlungs- und Beurteilungsverfahren 1.3.2.1
-
-1.
-
-1.1.
-
-a)
-
-b)
-
-c)
-
-d)
-
-1.2
-
-a)
-
-b)
-
-c)
-
-1.3
-
-1.3.1.
-
-1.3.2
-
-1.3.2.2
-
-1.3.2.3
-
-1.3.3
-
-1.3.4.
-
-1.3.5
-
-a)
-
-1.4
-
-1.5
-
-1.6
-
-2.
-
-2.1.
-
-2.2
-
-2.3
-
-2.4
-
-2.5
-
-3.
-
-3.1
-
-3.2
-
-3.2.1
-
-3.2.2
-
-3.2.2.1
-
-a)
-
-b)
-
-c)
-
-3.2.2.2
-
-3.3
+Ermittlungs- und Beurteilungsverfahren
 
 ### Anhang 2
 
 Maßnahmen, die in der Regel keine wesentliche Änderung im Sinne von § 5 Absatz 4 darstellen:
 
-–
+– Flutlichtanlagen,
 
-–
+– nicht überdachte Stellplätze bis insgesamt 100 m2,
 
-–
+– nicht überdachte Lagerflächen bis 300 m2,
 
-–
+– Einrichtung von Sport- und Spielflächen,
 
-–
+– Werbeanlagen,
 
-–
+– Zugänge und Zufahrten,
 
-–
+– Anlagen zur Nutzung erneuerbarer Energien, insbesondere von Solaranlagen in, an und auf Dach- und Außenwandflächen,
 
-–
+– Änderungen der äußeren Gebäudegestaltung,
 
-–
+– Nutzungsänderungen durch Solaranlagen an Dach und Wänden,
 
-–
+– Auswechseln von Belägen auf Sport- und Spielflächen,
 
-–
+– Instandhaltungsmaßnahmen,
 
-–
+– Sanierungs- und Modernisierungsmaßnahmen, insbesondere die Umwandlung von Tennen- oder Rasenspielflächen in Kunststoffrasenspielflächen,
 
-–
+– Erneuerung von Ballfangzäunen, Einzäunungen, Barrieren, Kantsteinen, Zuschauerplätzen,
 
-–
+– Erweiterung der Sanitär- und Umkleidebereiche,
 
-–
+– Neubau von Garagen,
 
-–
+– Umbau der Spielflächen nach dem Stand der Technik,
 
-–
+– Umbau von Anlagen zur Erfüllung immissionsschutzrechtlicher und anderer öffentlich-rechtlicher Anforderungen,
 
-–
+– Beregnungsanlagen,
 
-–
+– Modifizierung der Sportanlage, insbesondere durch den Neubau von Spiel- und Klettergeräten, Trimm- und Kräftigungsgeräten, Kletterwänden oder Boulebahnen,
 
-–
+– Rückbau von Teilen der Anlage,
 
-–
+– Lärmschutzmaßnahmen,
 
-–
+– Neubau von Vereinsheimen und
 
-–
+– Neubau oder Austausch von Lautsprecheranlagen.

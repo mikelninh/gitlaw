@@ -27,5 +27,3 @@ Die Bekanntmachung vom 31. Juli 1954 (Gemeinsames Ministerialblatt S. 378) betr.
 Diese Anordnung tritt am Tage nach ihrer Verkündung im Bundesanzeiger in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister des Innern

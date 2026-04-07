@@ -14,29 +14,25 @@ Auf Grund des § 31 Absatz 4 des Gesetzes über die Deutsche Bundesbank, der dur
 
 Abweichend von § 99 Absatz 1 Satz 2 Nummer 3 und § 100 Absatz 1 Nummer 2 des Bundesbeamtengesetzes dürfen Beamtinnen und Beamte sowie Angestellte der Deutschen Bundesbank nur mit vorheriger Genehmigung
 
-1.
+1. unentgeltlich in Organen von Genossenschaften tätig sein,
 
-2.
+2. aktuelle Fragen der Währungs- und Kreditpolitik schriftstellerisch, wissenschaftlich oder in Vorträgen behandeln.
 
 ### § 2 — Bankzulage
 
 (1) Die Beamtinnen und Beamten sowie die Angestellten erhalten
 
-1.
+1. für eine Verwendung in der Zentrale eine Bankzulage in Höhe von 9 Prozent des nach Absatz 2 maßgeblichen Grundgehalts oder Tabellenentgelts und
 
-2.
+2. für eine Verwendung in den Hauptverwaltungen eine Bankzulage in Höhe von 5 Prozent des nach Absatz 2 maßgeblichen Grundgehalts oder Tabellenentgelts.
 
-(2) Maßgebliches Grundgehalt ist Maßgebliches Tabellenentgelt ist
+(2) Maßgebliches Grundgehalt ist
 
-1.
+1. für die Besoldungsgruppen A 3 bis A 12 der jeweilige Betrag nach Anlage IV des Bundesbesoldungsgesetzes in der am 1. März 2015 geltenden Fassung,
 
-2.
+2. für die Besoldungsgruppen A 13 bis A 16 der jeweilige Betrag nach Anlage IV des Bundesbesoldungsgesetzes in der am 1. März 2012 geltenden Fassung und
 
-3.
-
-1.
-
-2.
+3. für die Besoldungsgruppen der Bundesbesoldungsordnung B der jeweilige Betrag nach Anlage IV des Bundesbesoldungsgesetzes in der am 1. Januar 2011 geltenden Fassung.
 
 (3) Angestellten wird die Bankzulage mindestens in der Höhe gewährt, in der sie Angestellten, die in der nächstniedrigeren Entgeltgruppe eingestuft sind, gewährt wird.
 

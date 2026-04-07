@@ -32,21 +32,21 @@ Diese Verordnung regelt die Anrechnung von strombasierten Kraftstoffen, mitverar
 
 (6) Repowering im Sinne dieser Verordnung ist die Modernisierung einer Anlage zur Erzeugung von Strom aus erneuerbaren Energien, einschließlich des vollständigen oder teilweisen Austauschs von Anlagen oder Betriebssystemen und -geräten zum Austausch von Kapazität oder zur Steigerung der Effizienz oder der Kapazität der Anlage, die mehr als 30 Prozent der Kosten einer Investition verursacht, die für den Bau einer ähnlichen neuen Anlage erforderlich wäre.
 
-(7) Inbetriebnahme im Sinne dieser Verordnung ist Es erfolgt keine Inbetriebnahme gemäß Satz 1, wenn die Produktion von Strom oder erneuerbaren Kraftstoffen nicht biogenen Ursprungs zu Testzwecken aufgenommen wurde.
+(7) Inbetriebnahme im Sinne dieser Verordnung ist
 
-1.
+1. die Inbetriebnahme im Sinne des § 3 Absatz 30 des Erneuerbare-Energien-Gesetzes,
 
-2.
+2. die Aufnahme der Produktion von Strom nach einem Repowering oder
 
-3.
+3. die Aufnahme der Produktion von erneuerbaren Kraftstoffen nicht biogenen Ursprungs.
 
 (8) Gebotszone im Sinne dieser Verordnung ist für EU-Mitgliedstaaten die Zone nach Artikel 2 Nummer 65 der Verordnung (EU) 2019/943 des Europäischen Parlaments und des Rates vom 5. Juni 2019 über den Elektrizitätsbinnenmarkt (ABl. L 158 vom 14.6.2019, S. 54), die durch die Verordnung (EU) 2022/869 (ABl. L 152 vom 3.6.2022, S. 45) geändert worden ist, oder ein gleichwertiges Konzept für Drittländer, wobei es sich hierbei um das Vorliegen ähnlicher Marktvorschriften, die physikalischen Merkmale des Stromnetzes, insbesondere den Verbundgrad, oder, bei Fehlen dieser Voraussetzungen, das Land selbst handeln kann.
 
 (9) Nachweispflichtige im Sinne dieser Verordnung sind
 
-1.
+1. Verpflichtete nach § 37a Absatz 1 Satz 1 oder Absatz 2 Satz 1 des Bundes-Immissionsschutzgesetzes oder
 
-2.
+2. Dritte nach § 37a Absatz 6 Satz 1 des Bundes-Immissionsschutzgesetzes.
 
 (10) Schnittstellen im Sinne dieser Verordnung sind Betriebe einschließlich Betriebsstätten, die erneuerbare Kraftstoffe nicht biogenen Ursprungs herstellen.
 
@@ -56,17 +56,17 @@ Diese Verordnung regelt die Anrechnung von strombasierten Kraftstoffen, mitverar
 
 (13) Anerkannte Zertifizierungssysteme im Sinne dieser Verordnung sind Zertifizierungssysteme, die
 
-1.
+1. von der Europäischen Kommission anerkannt sind auf Grund des Artikels 30 Absatz 4 der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (ABl. L 328 vom 21.12.2018, S. 82; L 311 vom 25.9.2020, S. 11; L 41 vom 22.2.2022, S. 37), die durch die Delegierte Verordnung (EU) 2022/759 (ABl. L 139 vom 18.5.2022, S. 1) geändert worden ist und
 
-2.
+2. auf der Transparenzplattform der Europäischen Kommission als solche veröffentlicht sind.
 
 (14) Zertifikate im Sinne dieser Verordnung sind Konformitätsbescheinigungen darüber, dass Schnittstellen oder Lieferanten einschließlich aller von ihnen unmittelbar oder mittelbar mit der Herstellung, der Lagerung oder dem Transport und dem Vertrieb der erneuerbaren Kraftstoffe nicht biogenen Ursprungs befassten Betriebe die Anforderungen nach dieser Verordnung erfüllen.
 
 (15) Zertifizierungsstellen im Sinne dieser Verordnung sind unabhängige natürliche oder juristische Personen, die in einem anerkannten Zertifizierungssystem
 
-1.
+1. Zertifikate für Schnittstellen und Lieferanten ausstellen, wenn diese die Anforderungen nach dieser Verordnung erfüllen, und
 
-2.
+2. die Erfüllung der Anforderungen nach dieser Verordnung durch Schnittstellen und Lieferanten kontrollieren.
 
 (16) Redispatch im Sinne dieser Verordnung ist Redispatch nach Artikel 2 Nummer 26 der Verordnung (EU) 2019/943 und bezeichnet eine Maßnahme, einschließlich einer Einschränkung, die von einem oder mehreren Übertragungs- oder Verteilernetzbetreibern durch die Veränderung des Erzeugungs- oder des Lastmusters oder von beidem aktiviert wird, um die physikalischen Lastflüsse im Stromsystem zu ändern und physikalische Engpässe zu mindern oder anderweitig für Systemsicherheit zu sorgen.
 
@@ -78,17 +78,13 @@ Diese Verordnung regelt die Anrechnung von strombasierten Kraftstoffen, mitverar
 
 ### § 3 — Anrechenbarkeit von erneuerbaren Kraftstoffen nicht biogenen Ursprungs
 
-(1) Erneuerbare Kraftstoffe nicht biogenen Ursprungs werden auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit Absatz 4 des Bundes-Immissionsschutzgesetzes angerechnet, wenn § 37a Absatz 6 und 7 des Bundes-Immissionsschutzgesetzes gilt entsprechend.
+(1) Erneuerbare Kraftstoffe nicht biogenen Ursprungs werden auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit Absatz 4 des Bundes-Immissionsschutzgesetzes angerechnet, wenn
 
-1.
+1. der zur Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs eingesetzte Strom a)über einen Direktanschluss von Stromerzeugungsanlagen nach Maßgabe des § 4 bezogen wird oderb)aus dem Netz nach den §§ 5 bis 9 entnommen wird und über einen Direktanschluss von Stromerzeugungsanlagen nach Maßgabe des § 4 bezogen wird oder aus dem Netz nach den §§ 5 bis 9 entnommen wird und
 
-a)
+2. der erneuerbare Kraftstoff nicht biogenen Ursprungs die Mindestanforderungen an die Treibhausgaseinsparungen nach § 10 erfüllt und
 
-b)
-
-2.
-
-3.
+3. der erneuerbare Kraftstoff nicht biogenen Ursprungs zum Einsatz als Erfüllungsoption nach § 37a Absatz 5 Satz 1 Nummer 6 bis 8 des Bundes-Immissionsschutzgesetzes in Verkehr gebracht worden ist.
 
 (2) Für das Inverkehrbringen nach Absatz 1 Satz 1 Nummer 3 gilt § 37a Absatz 1 Satz 2 und Absatz 2 Satz 2 des Bundes-Immissionsschutzgesetzes entsprechend. Erneuerbare Kraftstoffe nicht biogenen Ursprungs gelten durch Abgabe an den Letztverbraucher zur Verwendung im Verkehr als in Verkehr gebracht im Sinne des § 37a Absatz 1 Satz 1 und 2 des Bundes-Immissionsschutzgesetzes, wenn diese Kraftstoffe keine Energieerzeugnisse nach § 1 Absatz 2 und 3 des Energiesteuergesetzes sind.
 
@@ -100,17 +96,17 @@ b)
 
 (6) Die Treibhausgasemissionen der erneuerbaren Kraftstoffe nicht biogenen Ursprungs nach Absatz 1 werden berechnet durch Multiplikation der energetischen Menge des erneuerbaren Kraftstoffs nicht biogenen Ursprungs
 
-1.
+1. mit dem Faktor 3 und
 
-2.
+2. mit den im anerkannten Nachweis nach § 14 ausgewiesenen Treibhausgasemissionen der erneuerbaren Kraftstoffe nicht biogenen Ursprungs in Gramm Kohlenstoffdioxid-Äquivalent pro Megajoule sowie
 
-3.
+3. mit dem Anpassungsfaktor für die Antriebseffizienz nach der Anlage zu dieser Verordnung, wenn der erneuerbare Kraftstoff nicht biogenen Ursprungs nachweislich in Straßen- oder Schienenfahrzeugen verwendet wird.
 
 (7) Sofern sich aus den folgenden Bestimmungen nichts anderes ergibt, ist Absatz 1 anzuwenden auf
 
-1.
+1. erneuerbare Kraftstoffe nicht biogenen Ursprungs, die in der Europäischen Union hergestellt worden sind, und
 
-2.
+2. erneuerbare Kraftstoffe nicht biogenen Ursprungs, die aus Staaten, die nicht Mitgliedstaaten der Europäischen Union sind (Drittstaaten), importiert werden.
 
 (8) Werden erneuerbare Kraftstoffe nicht biogenen Ursprungs als Erfüllungsoption nach § 37a Absatz 5 Satz 1 Nummer 7 des Bundes-Immissionsschutzgesetzes verwendet, so berichtet der Nachweispflichtige der zuständigen Behörde über die energetische Menge aller im Verpflichtungsjahr erzeugten Produkte, die aus dem Herstellungsprozess stammen, in dem die erneuerbaren Kraftstoffe nicht biogenen Ursprungs als Zwischenprodukt verwendet wurden. Die zuständige Behörde gibt Näheres über Inhalt und Format im Bundesanzeiger bekannt.
 
@@ -118,11 +114,11 @@ b)
 
 (1) Strom zur Herstellung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs, der über einen Direktanschluss von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs bezogen wird, kann als vollständig erneuerbar angerechnet werden. Ein Direktanschluss nach Satz 1 liegt vor, wenn die Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs
 
-1.
+1. mit der Anlage zur Herstellung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs durch eine direkte Stromleitung verbunden sind oder Stromerzeugung und Herstellung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs in derselben Anlage stattfinden,
 
-2.
+2. über keine Verbindung zum Netz verfügen oder über eine Verbindung zum Netz verfügen, aber durch ein intelligentes Messsystem nach § 21 des Messstellenbetriebsgesetzes vom 29. August 2016 (BGBl. I S. 2034), das zuletzt durch Artikel 2 des Gesetzes vom 22. Mai 2023 (BGBl. 2023 I Nr. 133) geändert worden ist, nachgewiesen wird, dass kein Strom aus dem Netz entnommen wurde, um erneuerbare Kraftstoffe nicht biogenen Ursprungs zu erzeugen und
 
-3.
+3. nicht früher als 36 Monate vor der Anlage zur Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs in Betrieb genommen wurden; wird eine Anlage zur Herstellung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs nach ihrer Inbetriebnahme um zusätzliche Erzeugungskapazität erweitert, so gilt die zusätzliche Erzeugungskapazität als Teil der Anlage, sofern die Erweiterung der Erzeugungskapazität an demselben Standort und spätestens 36 Monate nach der Inbetriebnahme der ursprünglichen Anlage erfolgt.
 
 (2) Wird bei der Herstellung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs neben Strom, der über einen Direktanschluss im Sinne des Absatzes 1 Satz 2 bezogen wird, ebenfalls Strom aus dem Netz verwendet, kann der aus dem Netz entnommene Strom als vollständig erneuerbar angerechnet werden, wenn die Anforderungen nach § 5 erfüllt werden.
 
@@ -130,49 +126,31 @@ b)
 
 Strom zur Herstellung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs, der aus dem Netz entnommen wird, kann als vollständig erneuerbar angerechnet werden, wenn
 
-1.
+1. die folgenden Bedingungen erfüllt sind: a)die Bedingung der zusätzlichen Stromerzeugung aus erneuerbaren Energien nicht biogenen Ursprungs nach § 6,b)die Bedingung der zeitlichen Korrelation zwischen der Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs und der Stromerzeugung aus erneuerbaren Energien nicht biogenen Ursprungs nach § 7 undc)die Bedingung der geografischen Korrelation zwischen dem Standort der Anlage zur Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs und dem Standort der Anlage zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs nach § 8 oder die Bedingung der zusätzlichen Stromerzeugung aus erneuerbaren Energien nicht biogenen Ursprungs nach § 6, die Bedingung der zeitlichen Korrelation zwischen der Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs und der Stromerzeugung aus erneuerbaren Energien nicht biogenen Ursprungs nach § 7 und die Bedingung der geografischen Korrelation zwischen dem Standort der Anlage zur Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs und dem Standort der Anlage zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs nach § 8 oder
 
-a)
-
-b)
-
-c)
-
-2.
+2. die Anforderungen an die Anerkennung von Strom aus dem Netz in Sonderfällen nach § 9 erfüllt sind.
 
 ### § 6 — Zusätzliche Stromerzeugung
 
 (1) Die Bedingung der zusätzlichen Stromerzeugung aus erneuerbaren Energien nicht biogenen Ursprungs ist erfüllt, wenn eine Schnittstelle
 
-1.
+1. eine Menge an Strom aus erneuerbaren Energien nicht biogenen Ursprungs in mindestens der Höhe selbst erzeugt, die für die Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs als vollständig erneuerbar geltend gemacht wird, und a)die Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs nicht früher als 36 Monate vor der Anlage zur Herstellung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs in Betrieb genommen wurden undb)die Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs keine Investitions- oder Betriebsbeihilfen erhalten haben oder zum Zeitpunkt der Stromerzeugung erhalten oder die Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs nicht früher als 36 Monate vor der Anlage zur Herstellung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs in Betrieb genommen wurden und die Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs keine Investitions- oder Betriebsbeihilfen erhalten haben oder zum Zeitpunkt der Stromerzeugung erhalten oder
 
-a)
-
-b)
-
-2.
-
-a)
-
-b)
+2. direkt oder über Mittler mit Betreibern von einer Anlage oder von mehreren Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs mindestens einen Stromabnahmevertrag über eine Menge an Strom aus erneuerbaren Energien nicht biogenen Ursprungs geschlossen hat, die mindestens der Menge an Strom entspricht, die von der Schnittstelle als vollständig erneuerbar geltend gemacht wird, und der geltend gemachte Strom tatsächlich in dieser Anlage beziehungsweise diesen Anlagen erzeugt wird und a)die Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs nicht früher als 36 Monate vor der Anlage zur Herstellung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs in Betrieb genommen wurden undb)die Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs keine Investitions- oder Betriebsbeihilfen erhalten haben oder zum Zeitpunkt der Stromerzeugung erhalten. die Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs nicht früher als 36 Monate vor der Anlage zur Herstellung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs in Betrieb genommen wurden und die Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs keine Investitions- oder Betriebsbeihilfen erhalten haben oder zum Zeitpunkt der Stromerzeugung erhalten.
 
 (2) Als Zeitpunkt der Inbetriebnahme gilt für Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs, für die ein Stromabnahmevertrag gemäß Absatz 1 Nummer 2 geschlossen wurde und für die nach der Beendigung dieses Stromabnahmevertrags ein neuer Stromabnahmevertrag nach Absatz 1 Nummer 2 mit einer anderen Schnittstelle geschlossen wird, der Zeitpunkt der Inbetriebnahme der Anlage zur Herstellung erneuerbarer Kraftstoffe nicht biogenen Ursprungs, für die diese Schnittstelle den neuen Stromabnahmevertrag nach Absatz 1 Nummer 2 geschlossen hat.
 
 (3) Die Voraussetzung nach Absatz 1 Nummer 1 Buchstabe b und Nummer 2 Buchstabe b ist auch dann erfüllt, wenn die Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs Investitions- oder Betriebsbeihilfen erhalten oder erhalten haben und folgende Anforderungen erfüllt sind:
 
-1.
+1. die gewährten Beihilfen wurden vollständig zurückgezahlt,
 
-2.
+2. die Beihilfen wurden für den Erwerb von Grundstücken oder für Netzanschlüsse gewährt,
 
-3.
+3. bei den gewährten Beihilfen handelt es sich um Beihilfen für Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs, die Strom an Anlagen zur Herstellung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs liefern, die für Forschungs-, Test- oder Demonstrationszwecke betrieben werden,
 
-4.
+4. die Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs haben die gewährten Beihilfen vor ihrem Repowering erhalten oder
 
-5.
-
-a)
-
-b)
+5. die Schnittstelle kann bezüglich der gewährten Förderung a)in einer Ex-ante-Bewertung darlegen, dass es unwahrscheinlich ist, dass es zu einer Nettoförderung der beauftragten Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs kommen wird undb)in einem Ex-post-Bericht belegen, dass die beauftragten Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs keine Nettoförderung erhalten haben. in einer Ex-ante-Bewertung darlegen, dass es unwahrscheinlich ist, dass es zu einer Nettoförderung der beauftragten Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs kommen wird und in einem Ex-post-Bericht belegen, dass die beauftragten Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs keine Nettoförderung erhalten haben.
 
 (4) Wird die Anlage zur Herstellung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs nach ihrer Inbetriebnahme um zusätzliche Erzeugungskapazität erweitert, so gilt die zusätzliche Erzeugungskapazität als gleichzeitig mit der ursprünglichen Anlage in Betrieb genommen, sofern die Erweiterung der Erzeugungskapazität an demselben Standort und spätestens 36 Monate nach der Inbetriebnahme der ursprünglichen Anlage erfolgt.
 
@@ -184,67 +162,39 @@ b)
 
 (1) Die Bedingung der zeitlichen Korrelation zwischen der Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs und der Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs ist erfüllt, wenn eine Schnittstelle
 
-1.
+1. die erneuerbaren Kraftstoffe nicht biogenen Ursprungs in demselben Kalendermonat herstellt, in dem der Strom aus erneuerbaren Energien erzeugt wird, der im Rahmen des Stromabnahmevertrags nach § 6 Absatz 1 Nummer 2 von der Schnittstelle abgenommen wird, oder
 
-2.
-
-a)
-
-b)
-
-c)
+2. die erneuerbaren Kraftstoffe nicht biogenen Ursprungs mit Strom aus einer Stromspeicheranlage herstellt, die a)nicht früher als 36 Monate vor der Anlage zur Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs in Betrieb genommen wurde,b)hinter demselben Netzanschlusspunkt wie die Anlage zur Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs oder wie die Anlage zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs liegt undc)in demselben Kalendermonat geladen wird, in dem der Strom aus erneuerbaren Energien nicht biogenen Ursprungs erzeugt wird, der im Rahmen des Stromabnahmevertrags nach § 6 Absatz 1 Nummer 2 von der Schnittstelle abgenommen wird. nicht früher als 36 Monate vor der Anlage zur Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs in Betrieb genommen wurde, hinter demselben Netzanschlusspunkt wie die Anlage zur Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs oder wie die Anlage zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs liegt und in demselben Kalendermonat geladen wird, in dem der Strom aus erneuerbaren Energien nicht biogenen Ursprungs erzeugt wird, der im Rahmen des Stromabnahmevertrags nach § 6 Absatz 1 Nummer 2 von der Schnittstelle abgenommen wird.
 
 (2) Ab dem 1. Januar 2030 ist die Bedingung der zeitlichen Korrelation zwischen der Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs und der Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs nur dann erfüllt, wenn eine Schnittstelle
 
-1.
+1. die erneuerbaren Kraftstoffe nicht biogenen Ursprungs in demselben vollen Ein-Stunden-Zeitraum erzeugt, in dem der Strom aus erneuerbaren Energien erzeugt wird, der im Rahmen des Stromabnahmevertrags nach § 6 Absatz 1 Nummer 2 von der Schnittstelle abgenommen wird, oder
 
-2.
-
-a)
-
-b)
-
-c)
+2. die erneuerbaren Kraftstoffe nicht biogenen Ursprungs mit Strom aus einer Stromspeicheranlage herstellt, die a)nicht früher als 36 Monate vor der Anlage zur Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs in Betrieb genommen wurde,b)hinter demselben Netzanschlusspunkt wie die Anlage zur Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs oder die Anlage zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs liegt undc)in demselben vollen Ein-Stunden-Zeitraum geladen wird, in dem der Strom aus erneuerbaren Energien nicht biogenen Ursprungs erzeugt wird, der im Rahmen des Stromabnahmevertrags nach § 6 Absatz 1 Nummer 2 von der Schnittstelle abgenommen wird. nicht früher als 36 Monate vor der Anlage zur Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs in Betrieb genommen wurde, hinter demselben Netzanschlusspunkt wie die Anlage zur Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs oder die Anlage zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs liegt und in demselben vollen Ein-Stunden-Zeitraum geladen wird, in dem der Strom aus erneuerbaren Energien nicht biogenen Ursprungs erzeugt wird, der im Rahmen des Stromabnahmevertrags nach § 6 Absatz 1 Nummer 2 von der Schnittstelle abgenommen wird.
 
 (3) Abweichend von den Anforderungen in den Absätzen 1 und 2 ist die Bedingung der zeitlichen Korrelation zwischen der Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs und der Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs erfüllt, wenn eine Schnittstelle die erneuerbaren Kraftstoffe nicht biogenen Ursprungs während eines Ein-Stunden-Zeitraums herstellt, in dem der Day-Ahead-Clearingpreis für Strom nach Artikel 39 Absatz 2 Buchstabe a der Verordnung (EU) 2015/1222 der Kommission vom 24. Juli 2015 zur Festlegung einer Leitlinie für die Kapazitätsvergabe und das Engpassmanagement (ABl. L 197 vom 25.7.2015, S. 24), die zuletzt durch die Durchführungsverordnung (EU) 2021/280 (ABl. L 62 vom 23.2.2021, S. 24) geändert worden ist,
 
-1.
+1. höchstens 20 Euro pro Megawattstunde beträgt oder
 
-2.
+2. sich im Rahmen der Anforderungen der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates vom 13. Oktober 2003 über ein System für den Handel mit Treibhausgaszertifikaten in der Gemeinschaft und zur Änderung der Richtlinie 96/61/EG des Rates (ABl. L 275 vom 25.10.2003, S. 32; L 140 vom 14.5.2014, S. 177), die zuletzt durch die Richtlinie (EU) 2023/959 (ABl. L 130 vom 16.5.2023, S. 134) geändert worden ist, auf weniger als das 0,36-Fache des Preises eines Emissionszertifikates für die Emission einer Tonne Kohlenstoffdioxid-Äquivalent in dem betreffenden Zeitraum beläuft.
 
 ### § 8 — Geografische Korrelation
 
 Die Bedingung der geografischen Korrelation zwischen dem Standort der Anlage zur Herstellung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs und dem Standort der Anlage zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs ist erfüllt, wenn
 
-1.
+1. sich die Anlage zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs, über die ein Stromabnahmevertrag nach § 6 Absatz 1 Nummer 2 abgeschlossen worden ist, a)in derselben Gebotszone befindet wie die Anlage zur Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs,b)zur Zeit ihrer Inbetriebnahme in derselben Gebotszone befand wie die Anlage zur Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs, oderc)in einer Gebotszone für Windenergieanlagen auf See nach § 3 Absatz 11 des Windenergie-auf-See-Gesetzes vom 13. Oktober 2016 (BGBl. I S. 2258, 2310), das zuletzt durch Artikel 14 des Gesetzes vom 22. März 2023 (BGBl. 2023 I Nr. 88) geändert worden ist, befindet, die mit der Gebotszone verbunden ist, in der sich die Anlage zur Herstellung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs befindet, oder in derselben Gebotszone befindet wie die Anlage zur Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs, zur Zeit ihrer Inbetriebnahme in derselben Gebotszone befand wie die Anlage zur Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs, oder in einer Gebotszone für Windenergieanlagen auf See nach § 3 Absatz 11 des Windenergie-auf-See-Gesetzes vom 13. Oktober 2016 (BGBl. I S. 2258, 2310), das zuletzt durch Artikel 14 des Gesetzes vom 22. März 2023 (BGBl. 2023 I Nr. 88) geändert worden ist, befindet, die mit der Gebotszone verbunden ist, in der sich die Anlage zur Herstellung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs befindet, oder
 
-a)
-
-b)
-
-c)
-
-2.
+2. sich die Anlage zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs, über die ein Stromabnahmevertrag nach § 6 Absatz 1 Nummer 2 abgeschlossen worden ist, und die Anlage zur Herstellung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs in verbundenen Gebotszonen befinden und der einheitliche Day-Ahead-Clearingpreis für Strom nach Artikel 39 Absatz 2 Buchstabe a der Verordnung (EU) 2015/1222 in der Gebotszone, in der sich die Anlage zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs befindet, mindestens so hoch ist wie in der Gebotszone, in der sich die Anlage zur Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs befindet.
 
 ### § 9 — Anerkennung von Strom aus dem Netz in Sonderfällen
 
 (1) Strom zur Herstellung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs, der aus dem Netz entnommen wird, kann zusätzlich zu Strom aus dem Netz, der die Bedingungen nach den §§ 6 bis 8 erfüllt, als vollständig erneuerbar angerechnet werden, wenn
 
-1.
+1. sich die Schnittstelle innerhalb einer Gebotszone befindet, in der der Quotient aus Bruttoendenergieverbrauch von erneuerbarem Strom, bestimmt entsprechend Artikel 7 Absatz 2 der Richtlinie (EU) 2018/2001, und Bruttostromerzeugung aus allen Energiequellen nach § 2 Absatz 18 im vorhergehenden Kalenderjahr mindestens 90 Prozent betrug und die Herstellung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs nicht eine Höchstzahl von Stunden, berechnet durch Multiplikation der Gesamtstundenanzahl im Kalenderjahr mit dem Quotienten aus Bruttoendenergieverbrauch von erneuerbarem Strom, bestimmt entsprechend Artikel 7 Absatz 2 der Richtlinie (EU) 2018/2001, und Bruttostromerzeugung aus allen Energiequellen nach § 2 Absatz 18 innerhalb der Gebotszone im vorhergehenden Kalenderjahr überschreitet, oder
 
-2.
+2. sich die Schnittstelle innerhalb einer Gebotszone befindet, in der die Treibhausgasemissionsintensität des Stroms aus dem Netz, berechnet nach Teil C des Anhangs zu der Delegierten Verordnung (EU) 2023/1185 der Kommission vom 10. Februar 2023 zur Ergänzung der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates durch Festlegung eines Mindestschwellenwertes für die Treibhausgaseinsparungen durch wiederverwertete kohlenstoffhaltige Kraftstoffe und einer Methode zur Ermittlung der Treibhausgaseinsparungen durch flüssige oder gasförmige erneuerbare Kraftstoffe nicht biogenen Ursprungs für den Verkehr sowie durch wiederverwertete kohlenstoffhaltige Kraftstoffe (ABl. L 157 vom 20.6.2023, S. 20) auf Grundlage der neuesten verfügbaren Daten, weniger als 18 Gramm Kohlenstoffdioxid-Äquivalent pro Megajoule beträgt und a)die Schnittstelle direkt oder über Zwischenhändler mit Betreibern von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs mindestens einen Stromabnahmevertrag nach § 6 Absatz 1 Nummer 2 über eine Menge an Strom aus erneuerbaren Energien nicht biogenen Ursprungs geschlossen hat, die mindestens der Menge an Strom entspricht, die von der Schnittstelle als vollständig erneuerbar geltend gemacht wird und die tatsächlich in den Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs dieser Betreiber produziert wird,b)die Bedingung der zeitlichen Korrelation zwischen der Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs und der Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs nach § 7 erfüllt ist undc)die Bedingung der geografischen Korrelation zwischen dem Standort der Anlage zur Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs und dem Standort der Anlage zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs nach § 8 erfüllt ist oder die Schnittstelle direkt oder über Zwischenhändler mit Betreibern von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs mindestens einen Stromabnahmevertrag nach § 6 Absatz 1 Nummer 2 über eine Menge an Strom aus erneuerbaren Energien nicht biogenen Ursprungs geschlossen hat, die mindestens der Menge an Strom entspricht, die von der Schnittstelle als vollständig erneuerbar geltend gemacht wird und die tatsächlich in den Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs dieser Betreiber produziert wird, die Bedingung der zeitlichen Korrelation zwischen der Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs und der Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs nach § 7 erfüllt ist und die Bedingung der geografischen Korrelation zwischen dem Standort der Anlage zur Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs und dem Standort der Anlage zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs nach § 8 erfüllt ist oder
 
-a)
-
-b)
-
-c)
-
-3.
-
-a)
-
-b)
+3. der Strom während eines Bilanzkreisabrechnungsintervalls verbraucht wird, für die die Schnittstelle anhand von Nachweisen der nationalen Übertragungsnetzbetreiber belegen kann, dass a)ein abwärts gerichteter Redispatch von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs nach Artikel 13 der Verordnung (EU) 2019/943 stattfand oder ohne die Reduktion des Bedarfs dieses Redispatch nach Buchstabe b hätte stattfinden müssen undb)der verbrauchte Strom zu einer Reduktion des Bedarfs dieses Redispatch um eine entsprechende Menge geführt hat. ein abwärts gerichteter Redispatch von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien nicht biogenen Ursprungs nach Artikel 13 der Verordnung (EU) 2019/943 stattfand oder ohne die Reduktion des Bedarfs dieses Redispatch nach Buchstabe b hätte stattfinden müssen und der verbrauchte Strom zu einer Reduktion des Bedarfs dieses Redispatch um eine entsprechende Menge geführt hat.
 
 (2) Die Voraussetzungen nach Absatz 1 Nummer 3 gelten als erfüllt, wenn der Stromverbrauch der Anlage zur Herstellung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs nach Maßgabe von § 13 Absatz 6 oder § 13k des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970, 3621), das zuletzt durch Artikel 1 des Gesetzes vom 5. Februar 2024 (BGBl. 2024 I Nr. 32) geändert worden ist, erfolgt.
 
@@ -254,9 +204,9 @@ b)
 
 (5) Die zuständige Behörde gibt bis zum Ablauf des 31. Oktober jeden Jahres im Bundesanzeiger Folgendes bekannt:
 
-1.
+1. den Quotienten aus Bruttoendenergieverbrauch von erneuerbarem Strom und Bruttostromerzeugung aus allen Energiequellen nach Absatz 1 Nummer 1 im vorhergehenden Kalenderjahr, wenn dieser über 90 Prozent liegt, und
 
-2.
+2. die Treibhausgasemissionsintensität des Stroms aus dem Netz nach Absatz 1 Nummer 2 im vorhergehenden Kalenderjahr, wenn diese unter 18 Gramm Kohlenstoffdioxid-Äquivalent pro Megajoule liegt.
 
 (6) Strom zur Herstellung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs, der aus dem Netz entnommen wird und gemäß Artikel 27 Absatz 3 der Richtlinie (EU) 2018/2001 nicht als vollständig erneuerbar angerechnet werden kann, wird eine Treibhausgasemissionsintensität, bestimmt nach Teil C des Anhangs zu der Delegierten Verordnung (EU) 2023/1185, auf Grundlage der neuesten verfügbaren Daten, zugewiesen.
 
@@ -274,9 +224,9 @@ b)
 
 (1) Für erneuerbare Kraftstoffe nicht biogenen Ursprungs zum Einsatz als Erfüllungsoption nach § 37a Absatz 5 Satz 1 Nummer 8 des Bundes-Immissionsschutzgesetzes, die in einem raffinerietechnischen Verfahren gemeinsam mit mineralölstämmigen Ölen verarbeitet werden und in diesem Verfahren einen konventionellen Einsatzstoff nur teilweise ersetzen, wird nach Teil A Nummer 1 des Anhangs zu der Delegierten Verordnung (EU) 2023/1185 bei der Berechnung der Treibhausgasemissionen der entstehenden Kraftstoffe in Gramm Kohlendioxid-Äquivalent pro Megajoule auf der Grundlage des Energiegehalts der Einsatzstoffe proportional zwischen den folgenden Verfahrensteilen unterschieden:
 
-1.
+1. dem Teil des Verfahrens, in dem der konventionelle Einsatzstoff eingesetzt wird, und
 
-2.
+2. dem Teil des Verfahrens, in dem erneuerbare Kraftstoffe nicht biogenen Ursprungs eingesetzt werden, soweit die weiteren Teile des Verfahrens ansonsten identisch sind.
 
 (2) Nach Teil A Nummer 3 des Anhangs zu der Delegierten Verordnung (EU) 2023/1185 wird der jeweilige Anteil erneuerbarer Kraftstoffe nicht biogenen Ursprungs an der Gesamtproduktion eines Verfahrens nach Absatz 1 bestimmt, indem die relevante Zufuhr von erneuerbarer Energie nicht biogenen Ursprungs in dem Verfahren durch die gesamte relevante Energiezufuhr des Verfahrens geteilt wird.
 
@@ -298,9 +248,9 @@ b)
 
 (1) Biogener Wasserstoff, der in Straßenfahrzeugen eingesetzt wird, ist zusätzlich zu den Biokraftstoffen nach § 37b Absatz 1 Satz 1 des Bundes-Immissionsschutzgesetzes ein Biokraftstoff und ab dem 1. Juli 2023 auf die Erfüllung der Verpflichtung nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit Absatz 4 des Bundes-Immissionsschutzgesetzes anrechenbar, wenn der biogene Wasserstoff
 
-1.
+1. aus Rohstoffen nach Anlage 1 zu der Verordnung zur Festlegung weiterer Bestimmungen zur Treibhausgasminderung bei Kraftstoffen hergestellt worden ist und
 
-2.
+2. den Anforderungen an Biokraftstoffe nach der Biokraftstoff-Nachhaltigkeitsverordnung entspricht.
 
 (2) Energieerzeugnisse, die anteilig aus biogenem Wasserstoff nach Absatz 1 hergestellt worden sind, gelten in Höhe dieses Anteils als Biokraftstoffe. Hierbei gelten die Vorgaben des Artikels 5 der Delegierten Verordnung (EU) 2023/1640.
 
@@ -312,9 +262,9 @@ b)
 
 Als Nachweise über die Erfüllung der Anforderungen an erneuerbare Kraftstoffe nicht biogenen Ursprungs nach § 3 Absatz 1 in Verbindung mit den §§ 4 bis 10 werden anerkannt:
 
-1.
+1. Nachweise, die nach § 16 oder § 22 ausgestellt worden sind, und
 
-2.
+2. Nachweise nach § 21.
 
 ### § 15 — Vorlage der Nachweise
 
@@ -328,23 +278,15 @@ Der Nachweispflichtige hat die Nachweise bei der Biokraftstoffquotenstelle zusam
 
 (2) Eine letzte Schnittstelle kann für erneuerbare Kraftstoffe nicht biogenen Ursprungs, die sie hergestellt hat, einen Nachweis ausstellen, wenn
 
-1.
+1. sie ein gültiges anerkanntes Zertifikat nach § 24 besitzt,
 
-2.
+2. die ihr vorgelagerten Schnittstellen ihr a)jeweils eine Kopie ihrer anerkannten Zertifikate nach § 24 vorlegen, die zu dem Zeitpunkt des in der Schnittstelle vorgenommenen Herstellungs-, Verarbeitungs- oder sonstigen Arbeitsschrittes gültig waren,b)bestätigen, dass bei der Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs die Anforderungen nach den §§ 4 bis 9 erfüllt worden sind,c)die Treibhausgasemissionen mitteilen, die von ihnen und von allen in ihrem Auftrag mit der Herstellung und Lieferung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs unmittelbar oder mittelbar befassten Betrieben, die selbst keine Schnittstellen sind, bei der Herstellung und Lieferung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs verursacht worden sind, soweit diese Treibhausgasemissionen für die Berechnung der Treibhausgaseinsparungen nach § 10 berücksichtigt werden müssen; die Treibhausgasemissionen sind jeweils in Gramm Kohlendioxid-Äquivalent pro Megajoule erneuerbarer Kraftstoffe nicht biogenen Ursprungs auszuweisen, undd)bestätigen, dass für den bei der Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs verwendeten Strom nach den §§ 5 und 9 Absatz 1 entweder keine Strom-Herkunftsnachweise gemäß § 12 der Herkunfts- und Regionalnachweis-Durchführungsverordnung vom 8. November 2018 (BGBl. I S. 1853), die zuletzt durch Artikel 15 des Gesetzes vom 20. Juli 2022 (BGBl. I S. 1237) geändert worden ist, ausgestellt oder sie entsprechend dem Nutzungszweck entwertet wurden, jeweils eine Kopie ihrer anerkannten Zertifikate nach § 24 vorlegen, die zu dem Zeitpunkt des in der Schnittstelle vorgenommenen Herstellungs-, Verarbeitungs- oder sonstigen Arbeitsschrittes gültig waren, bestätigen, dass bei der Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs die Anforderungen nach den §§ 4 bis 9 erfüllt worden sind, die Treibhausgasemissionen mitteilen, die von ihnen und von allen in ihrem Auftrag mit der Herstellung und Lieferung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs unmittelbar oder mittelbar befassten Betrieben, die selbst keine Schnittstellen sind, bei der Herstellung und Lieferung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs verursacht worden sind, soweit diese Treibhausgasemissionen für die Berechnung der Treibhausgaseinsparungen nach § 10 berücksichtigt werden müssen; die Treibhausgasemissionen sind jeweils in Gramm Kohlendioxid-Äquivalent pro Megajoule erneuerbarer Kraftstoffe nicht biogenen Ursprungs auszuweisen, und bestätigen, dass für den bei der Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs verwendeten Strom nach den §§ 5 und 9 Absatz 1 entweder keine Strom-Herkunftsnachweise gemäß § 12 der Herkunfts- und Regionalnachweis-Durchführungsverordnung vom 8. November 2018 (BGBl. I S. 1853), die zuletzt durch Artikel 15 des Gesetzes vom 20. Juli 2022 (BGBl. I S. 1237) geändert worden ist, ausgestellt oder sie entsprechend dem Nutzungszweck entwertet wurden,
 
-a)
+3. bei der Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs die Anforderungen nach den §§ 4 bis 9 erfüllt worden sind,
 
-b)
+4. der erneuerbare Kraftstoff nicht biogenen Ursprungs die Mindestanforderungen an die Treibhausgaseinsparungen nach § 10 erfüllt und
 
-c)
-
-d)
-
-3.
-
-4.
-
-5.
+5. sie bestätigt, dass für den bei der Herstellung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs verwendeten Strom nach den §§ 5 und 9 Absatz 1 entweder keine Strom-Herkunftsnachweise gemäß § 12 der Herkunfts- und Regionalnachweis-Durchführungsverordnung ausgestellt oder entsprechend dem Nutzungszweck entwertet wurden.
 
 (3) Die Richtigkeit der Angaben nach Absatz 2 Nummer 2 Buchstabe b, c, d, Nummer 3, 4 und 5 wird von den anerkannten Zertifizierungsstellen kontrolliert.
 
@@ -360,37 +302,23 @@ d)
 
 (1) Nachweise müssen die folgenden Angaben enthalten:
 
-1.
+1. den Namen und die Anschrift der ausstellenden Schnittstelle,
 
-2.
+2. das Datum der Ausstellung,
 
-3.
+3. eine Nachweisnummer, die sich mindestens zusammensetzt aus a)der Zertifikatsnummer der ausstellenden Schnittstelle undb)einer Nummer, die von der ausstellenden Schnittstelle einmalig zu vergeben ist, der Zertifikatsnummer der ausstellenden Schnittstelle und einer Nummer, die von der ausstellenden Schnittstelle einmalig zu vergeben ist,
 
-a)
+4. den Namen des Zertifizierungssystems, in dem der Nachweis ausgestellt worden ist,
 
-b)
+5. die Menge und die Art des erneuerbaren Kraftstoffs nicht biogenen Ursprungs, auf die sich der Nachweis bezieht,
 
-4.
+6. die folgenden Bestätigungen: a)die Bestätigung, dass die erneuerbaren Kraftstoffe nicht biogenen Ursprungs, auf die sich der Nachweis bezieht, die Anforderungen nach den §§ 4 bis 9 erfüllen, durch Angabe der Informationen, die in Artikel 8 der Delegierten Verordnung (EU) 2023/1184 der Kommission vom 10. Februar 2023 zur Ergänzung der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates durch die Festlegung einer Unionsmethode mit detaillierten Vorschriften für die Erzeugung flüssiger oder gasförmiger erneuerbarer Kraftstoffe nicht biogenen Ursprungs für den Verkehr (ABl. L 157 vom 20.6.2023, S. 11) gefordert sind,b)die Bestätigung des Energiegehalts der erneuerbaren Kraftstoffe nicht biogenen Ursprungs in Megajoule,c)die Bestätigung der Treibhausgasemissionen der erneuerbaren Kraftstoffe nicht biogenen Ursprungs in Gramm Kohlendioxid-Äquivalent pro Megajoule, deren Berechnung nach Teil A Nummer 1 des Anhangs zu der Delegierten Verordnung (EU) 2023/1185 erfolgt,d)die Bestätigung des Vergleichswerts für fossile Brennstoffe, der für die Berechnung der Treibhausgaseinsparungen nach Teil A Nummer 2 des Anhangs zu der Delegierten Verordnung (EU) 2023/1185 verwendet worden ist, unde)die Bestätigung der Staaten oder Regionen, in denen die erneuerbaren Kraftstoffe nicht biogenen Ursprungs eingesetzt werden können, ohne dass die Treibhausgasemissionen, die bei der Herstellung und Lieferung verursacht worden sind, den nach § 10 Absatz 1 vorgeschriebenen Wert der Treibhausgaseinsparungen unterschreiten würde, die Bestätigung, dass die erneuerbaren Kraftstoffe nicht biogenen Ursprungs, auf die sich der Nachweis bezieht, die Anforderungen nach den §§ 4 bis 9 erfüllen, durch Angabe der Informationen, die in Artikel 8 der Delegierten Verordnung (EU) 2023/1184 der Kommission vom 10. Februar 2023 zur Ergänzung der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates durch die Festlegung einer Unionsmethode mit detaillierten Vorschriften für die Erzeugung flüssiger oder gasförmiger erneuerbarer Kraftstoffe nicht biogenen Ursprungs für den Verkehr (ABl. L 157 vom 20.6.2023, S. 11) gefordert sind, die Bestätigung des Energiegehalts der erneuerbaren Kraftstoffe nicht biogenen Ursprungs in Megajoule, die Bestätigung der Treibhausgasemissionen der erneuerbaren Kraftstoffe nicht biogenen Ursprungs in Gramm Kohlendioxid-Äquivalent pro Megajoule, deren Berechnung nach Teil A Nummer 1 des Anhangs zu der Delegierten Verordnung (EU) 2023/1185 erfolgt, die Bestätigung des Vergleichswerts für fossile Brennstoffe, der für die Berechnung der Treibhausgaseinsparungen nach Teil A Nummer 2 des Anhangs zu der Delegierten Verordnung (EU) 2023/1185 verwendet worden ist, und die Bestätigung der Staaten oder Regionen, in denen die erneuerbaren Kraftstoffe nicht biogenen Ursprungs eingesetzt werden können, ohne dass die Treibhausgasemissionen, die bei der Herstellung und Lieferung verursacht worden sind, den nach § 10 Absatz 1 vorgeschriebenen Wert der Treibhausgaseinsparungen unterschreiten würde,
 
-5.
+7. den Namen und die Anschrift des Lieferanten, an den die erneuerbaren Kraftstoffe nicht biogenen Ursprungs weitergegeben werden,
 
-6.
+8. die Bestätigung des letzten Lieferanten nach § 18 Absatz 5 und
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-7.
-
-8.
-
-9.
+9. die Angabe, ob es sich um einen erneuerbaren Kraftstoff nicht biogenen Ursprungs nach § 37a Absatz 5 Satz 1 Nummer 6, 7 oder 8 des Bundes-Immissionsschutzgesetzes handelt.
 
 (2) Nachweise müssen der Biokraftstoffquotenstelle vorgelegt werden. Sie sind in deutscher Sprache vorzulegen.
 
@@ -400,23 +328,15 @@ e)
 
 (1) Um die Herkunft der erneuerbaren Kraftstoffe nicht biogenen Ursprungs von der Schnittstelle, die den Nachweis ausgestellt hat, nachzuweisen,
 
-1.
+1. dürfen die erneuerbaren Kraftstoffe nicht biogenen Ursprungs von der letzten Schnittstelle bis zu den Nachweispflichtigen ausschließlich von Lieferanten geliefert werden, die die Lieferung der Kraftstoffe in einem Massenbilanzsystem dokumentieren, das die Anforderungen nach § 19 Absatz 2 erfüllt, und
 
-2.
+2. muss die Kontrolle der Erfüllung der Anforderung nach Nummer 1 sichergestellt sein.
 
-(2) Die Anforderungen nach Absatz 1 gelten als erfüllt, wenn Bei der Dokumentation nach Satz 1 Nummer 2 sind die berechtigten Interessen der Schnittstellen und Lieferanten, insbesondere ihre Geschäftsgeheimnisse, zu wahren.
+(2) Die Anforderungen nach Absatz 1 gelten als erfüllt, wenn
 
-1.
+1. alle Lieferanten a)sich verpflichtet haben, die Anforderungen eines anerkannten Zertifizierungssystems zu erfüllen, sofern dieses auch Anforderungen an die Lieferung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs enthält, oderb)ihre Lieferungen in einem Massenbilanzsystem erfassen, das regelmäßigen Prüfungen durch die Hauptzollämter zur Überwachung der Einhaltung der Verpflichtung nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit Absatz 4 des Bundes-Immissionsschutzgesetzes unterliegt, und sich verpflichtet haben, die Anforderungen eines anerkannten Zertifizierungssystems zu erfüllen, sofern dieses auch Anforderungen an die Lieferung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs enthält, oder ihre Lieferungen in einem Massenbilanzsystem erfassen, das regelmäßigen Prüfungen durch die Hauptzollämter zur Überwachung der Einhaltung der Verpflichtung nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit Absatz 4 des Bundes-Immissionsschutzgesetzes unterliegt, und
 
-a)
-
-b)
-
-2.
-
-a)
-
-b)
+2. alle Lieferanten in der elektronischen Datenbank der zuständigen Behörde Folgendes dokumentieren: a)den Erhalt und die Weitergabe der erneuerbaren Kraftstoffe nicht biogenen Ursprungs einschließlich der Angaben zum Nachweis nach § 17 Absatz 1 Nummer 7 sowieb)den Ort und das Datum, an dem sie die erneuerbaren Kraftstoffe nicht biogenen Ursprungs erhalten und weitergegeben haben. den Erhalt und die Weitergabe der erneuerbaren Kraftstoffe nicht biogenen Ursprungs einschließlich der Angaben zum Nachweis nach § 17 Absatz 1 Nummer 7 sowie den Ort und das Datum, an dem sie die erneuerbaren Kraftstoffe nicht biogenen Ursprungs erhalten und weitergegeben haben.
 
 (3) Bis zur Aufnahme des Betriebs der elektronischen Datenbank der zuständigen Behörde können die Informationen nach Absatz 2 Satz 1 Nummer 2 auch in Schriftform der zuständigen Behörde vorgelegt werden.
 
@@ -430,13 +350,13 @@ b)
 
 (2) Schnittstellen und Lieferanten sind verpflichtet, ein Massenbilanzsystem zu verwenden, das
 
-1.
+1. es erlaubt, Lieferungen von erneuerbaren Kraftstoffen nicht biogenen Ursprungs mit unterschiedlichen Eigenschaften in Bezug auf die Treibhausgaseinsparungen zu mischen,
 
-2.
+2. es erlaubt, Lieferungen von erneuerbaren Kraftstoffen nicht biogenen Ursprungs mit unterschiedlichem Energiegehalt zur weiteren Verarbeitung zu mischen, sofern der Umfang der Lieferungen nach ihrem Energiegehalt angepasst wird,
 
-3.
+3. vorschreibt, dass dem Gemisch nach den Nummern 1 und 2 weiterhin Angaben über die Eigenschaften in Bezug auf die Treibhausgaseinsparungen und über den jeweiligen Umfang der in Nummer 1 genannten Lieferungen zugeordnet sind und
 
-4.
+4. vorsieht, dass die Summe sämtlicher Lieferungen, die dem Gemisch nach den Nummern 1 und 2 entnommen werden, dieselben Eigenschaften in denselben Mengen hat wie die Summe sämtlicher Lieferungen, die dem Gemisch zugefügt werden, und dass diese Bilanz innerhalb eines angemessenen Zeitraums erreicht wird.
 
 (3) Die zuständige Behörde kann weitergehende Anforderungen an Massenbilanzsysteme festlegen und im Bundesanzeiger bekannt machen.
 
@@ -454,15 +374,9 @@ Wird der Kraftstoff nicht biogenen Ursprungs nicht in dem Staat oder in der Regi
 
 (1) Als anerkannt gelten Nachweise, die
 
-1.
+1. nach dem Recht der Europäischen Union oder eines anderen Mitgliedstaates der Europäischen Union als Nachweis darüber anerkannt werden, dass die Anforderungen nach Artikel 25 Absatz 2 und Artikel 27 Absatz 3 Unterabsatz 5 und 6 der Richtlinie (EU) 2018/2001 erfüllt sind, und
 
-2.
-
-a)
-
-b)
-
-c)
+2. in einem anderen Mitgliedstaat der Europäischen Union ausgestellt worden sind a)von der Behörde, die in diesem Mitgliedstaat der Europäischen Union für die Nachweisführung zuständig ist,b)von der Stelle, die von der nach Buchstabe a zuständigen Behörde für die Nachweisführung anerkannt worden ist, oderc)von einer sonstigen Stelle, die bei der nationalen Akkreditierungsstelle dieses Mitgliedstaates der Europäischen Union auf Grund allgemeiner Kriterien für Stellen, die Produkte zertifizieren, für die Nachweisführung akkreditiert ist. von der Behörde, die in diesem Mitgliedstaat der Europäischen Union für die Nachweisführung zuständig ist, von der Stelle, die von der nach Buchstabe a zuständigen Behörde für die Nachweisführung anerkannt worden ist, oder von einer sonstigen Stelle, die bei der nationalen Akkreditierungsstelle dieses Mitgliedstaates der Europäischen Union auf Grund allgemeiner Kriterien für Stellen, die Produkte zertifizieren, für die Nachweisführung akkreditiert ist.
 
 (2) Die §§ 20 und 23 Absatz 1 Nummer 2 und 3 und Absatz 2 sind entsprechend anzuwenden.
 
@@ -478,17 +392,17 @@ c)
 
 (1) Nachweise sind unwirksam, wenn
 
-1.
+1. Nachweise, die nach § 16 ausgestellt wurden, eine oder mehrere Angaben nach § 17 Absatz 1 nicht enthalten,
 
-2.
+2. sie gefälscht sind oder
 
-3.
+3. sie eine unrichtige Angabe enthalten.
 
-(2) Ist ein Nachweis ausschließlich nach Absatz 1 Nummer 2 oder 3 unwirksam, so entfällt der Anspruch nach § 3 auf Anrechenbarkeit des erneuerbaren Kraftstoffs nicht biogenen Ursprungs nur unter folgenden Voraussetzungen: Satz 1 gilt entsprechend für die Teilmenge an erneuerbarem Kraftstoff nicht biogenen Ursprungs, auf die sich der unwirksame Nachweis bezieht.
+(2) Ist ein Nachweis ausschließlich nach Absatz 1 Nummer 2 oder 3 unwirksam, so entfällt der Anspruch nach § 3 auf Anrechenbarkeit des erneuerbaren Kraftstoffs nicht biogenen Ursprungs nur unter folgenden Voraussetzungen:
 
-1.
+1. dem Nachweispflichtigen waren die Gründe für die Unwirksamkeit des Nachweises zum Zeitpunkt des Einsatzes der Menge erneuerbaren Kraftstoffs nicht biogenen Ursprungs, auf die sich der unwirksame Nachweis bezieht, bekannt oder er hätte die Unwirksamkeit bei Anwendung der im Verkehr üblichen Sorgfalt erkennen können oder
 
-2.
+2. das Zertifikat der ausstellenden Schnittstelle war zum Zeitpunkt der Ausstellung des Nachweises ungültig.
 
 > (+++ § 23 Abs. 1: Zur Anwendung vgl. § 21 Abs. 2 +++)
 
@@ -498,9 +412,9 @@ c)
 
 Anerkannte Zertifikate sind
 
-1.
+1. Zertifikate, die nach § 25 ausgestellt worden sind, und
 
-2.
+2. Zertifikate nach § 29.
 
 ### § 25 — Ausstellung von Zertifikaten
 
@@ -508,65 +422,39 @@ Anerkannte Zertifikate sind
 
 (2) Schnittstellen und Lieferanten kann auf Antrag ein Zertifikat ausgestellt werden, wenn
 
-1.
+1. sie sich verpflichtet haben, bei der Herstellung von erneuerbarem Kraftstoff nicht biogenen Ursprungs im Anwendungsbereich dieser Verordnung mindestens die Anforderungen eines anerkannten Zertifizierungssystems zu erfüllen,
 
-2.
+2. sie sich im Fall von zur Ausstellung von Nachweisen berechtigten Schnittstellen verpflichtet haben, a)bei der Ausstellung von Nachweisen die Anforderungen nach den §§ 16 und 17 zu erfüllen,b)Kopien aller Nachweise, die sie auf Grund dieser Verordnung ausgestellt haben, unverzüglich der Zertifizierungsstelle zu übermitteln, die das Zertifikat ausgestellt hat, undc)alle Nachweise, die sie auf Grund dieser Verordnung ausgestellt haben, sowie alle für die Ausstellung erforderlichen Dokumente zehn Jahre ab dem Datum der Ausstellung des jeweiligen Nachweises aufzubewahren und nach Ablauf der Aufbewahrungsfrist unverzüglich, bei elektronischer Aufbewahrung automatisiert zu löschen, bei der Ausstellung von Nachweisen die Anforderungen nach den §§ 16 und 17 zu erfüllen, Kopien aller Nachweise, die sie auf Grund dieser Verordnung ausgestellt haben, unverzüglich der Zertifizierungsstelle zu übermitteln, die das Zertifikat ausgestellt hat, und alle Nachweise, die sie auf Grund dieser Verordnung ausgestellt haben, sowie alle für die Ausstellung erforderlichen Dokumente zehn Jahre ab dem Datum der Ausstellung des jeweiligen Nachweises aufzubewahren und nach Ablauf der Aufbewahrungsfrist unverzüglich, bei elektronischer Aufbewahrung automatisiert zu löschen,
 
-a)
+3. sie sicherstellen, dass sich alle in ihrem Auftrag mit der Herstellung, der Lagerung oder dem Transport und dem Vertrieb der erneuerbaren Kraftstoffe nicht biogenen Ursprungs befassten Betriebe, die selbst keine Schnittstellen sind, verpflichtet haben, bei der Herstellung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs im Anwendungsbereich dieser Verordnung mindestens die Anforderungen eines nach dieser Verordnung anerkannten Zertifizierungssystems zu erfüllen, und diese Anforderungen auch tatsächlich erfüllen,
 
-b)
+4. sie sich verpflichtet haben, Folgendes zu dokumentieren: a)die Erfüllung der Anforderungen nach den §§ 4, 5 und 10 durch die Schnittstellen und alle in ihrem Auftrag mit der Herstellung oder Lieferung des erneuerbaren Kraftstoffs nicht biogenen Ursprungs unmittelbar oder mittelbar befassten Betriebe, die selbst keine Schnittstellen sind, in dem Zertifizierungssystem,b)die Menge und die Art der zur Herstellung eingesetzten erneuerbaren Kraftstoffe nicht biogenen Ursprungs undc)die Treibhausgasemissionen, die durch die Schnittstellen und alle in ihrem Auftrag mit der Herstellung oder Lieferung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs unmittelbar oder mittelbar befassten Betriebe, die selbst keine Schnittstellen sind, bei der Herstellung und Lieferung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs verursacht worden sind, soweit diese Treibhausgasemissionen für die Berechnung der Treibhausgaseinsparungen nach § 10 berücksichtigt werden müssen; die Treibhausgasemissionen sind jeweils in Gramm Kohlendioxid-Äquivalent pro Megajoule erneuerbaren Kraftstoffs nicht biogenen Ursprungs auszuweisen, und die Erfüllung der Anforderungen nach den §§ 4, 5 und 10 durch die Schnittstellen und alle in ihrem Auftrag mit der Herstellung oder Lieferung des erneuerbaren Kraftstoffs nicht biogenen Ursprungs unmittelbar oder mittelbar befassten Betriebe, die selbst keine Schnittstellen sind, in dem Zertifizierungssystem, die Menge und die Art der zur Herstellung eingesetzten erneuerbaren Kraftstoffe nicht biogenen Ursprungs und die Treibhausgasemissionen, die durch die Schnittstellen und alle in ihrem Auftrag mit der Herstellung oder Lieferung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs unmittelbar oder mittelbar befassten Betriebe, die selbst keine Schnittstellen sind, bei der Herstellung und Lieferung der erneuerbaren Kraftstoffe nicht biogenen Ursprungs verursacht worden sind, soweit diese Treibhausgasemissionen für die Berechnung der Treibhausgaseinsparungen nach § 10 berücksichtigt werden müssen; die Treibhausgasemissionen sind jeweils in Gramm Kohlendioxid-Äquivalent pro Megajoule erneuerbaren Kraftstoffs nicht biogenen Ursprungs auszuweisen, und
 
-c)
+5. die Erfüllung der Anforderungen nach den Nummern 1 bis 4 von der Zertifizierungsstelle kontrolliert wurde.
 
-3.
+(3) Nach Ablauf der Gültigkeit eines Zertifikates kann Schnittstellen und Lieferanten auf Antrag ein neues Zertifikat nur ausgestellt werden, wenn
 
-4.
+1. sie die Anforderungen nach Absatz 2 Nummer 1 bis 4 während der Dauer der Gültigkeit des abgelaufenen Zertifikates erfüllt haben,
 
-a)
+2. die Dokumentation nach Absatz 2 Nummer 4 nachvollziehbar ist und
 
-b)
-
-c)
-
-5.
-
-(3) Nach Ablauf der Gültigkeit eines Zertifikates kann Schnittstellen und Lieferanten auf Antrag ein neues Zertifikat nur ausgestellt werden, wenn Wenn eine Schnittstelle oder ein Lieferant die Anforderungen nach Absatz 2 Nummer 1 bis 4 während der Dauer der Gültigkeit des vorherigen Zertifikates nicht erfüllt hat und der Umfang der Verstöße nicht erheblich ist, kann abweichend von Satz 1 Nummer 1 ein neues Zertifikat auch ausgestellt werden, wenn die Schnittstelle oder der Lieferant die Anforderungen weder vorsätzlich noch grob fahrlässig nicht erfüllt hat und die Erfüllung der Anforderungen für die Dauer der Gültigkeit des neuen Zertifikates sichergestellt ist.
-
-1.
-
-2.
-
-3.
+3. die Kontrollen nach § 38 keine Erkenntnisse erbracht haben, die gegen die Ausstellung eines neuen Zertifikates sprechen.
 
 ### § 26 — Inhalt der Zertifikate
 
 Zertifikate müssen folgende Angaben enthalten:
 
-1.
+1. eine Zertifikatsnummer, die sich mindestens zusammensetzt aus a)der Registriernummer des Zertifizierungssystems,b)der Registriernummer der Zertifizierungsstelle undc)einer Nummer, die von der Zertifizierungsstelle einmal zu vergeben ist, der Registriernummer des Zertifizierungssystems, der Registriernummer der Zertifizierungsstelle und einer Nummer, die von der Zertifizierungsstelle einmal zu vergeben ist,
 
-a)
+2. das Datum der Ausstellung sowie das Datum des Laufzeitbeginns und des Laufzeitendes,
 
-b)
+3. den Namen des Zertifizierungssystems, in dem das Zertifikat ausgestellt worden ist,
 
-c)
+4. im Fall einer zur Ausstellung von Nachweisen berechtigten Schnittstelle a)der Name und die Anschrift der zur Ausstellung von Nachweisen berechtigten Schnittstelle,b)das Datum der ersten Inbetriebnahme der Anlage,c)die maximale Erzeugungskapazität der Anlage undd)die jährliche Herstellungskapazität der Anlage, der Name und die Anschrift der zur Ausstellung von Nachweisen berechtigten Schnittstelle, das Datum der ersten Inbetriebnahme der Anlage, die maximale Erzeugungskapazität der Anlage und die jährliche Herstellungskapazität der Anlage,
 
-2.
+5. die zertifizierten Geltungsbereiche und
 
-3.
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-5.
-
-6.
+6. die Methode der Treibhausgasberechnung.
 
 ### § 27 — Unwirksamkeit von Zertifikaten
 
@@ -582,15 +470,9 @@ Zertifikate sind unwirksam, wenn sie eine oder mehrere Angaben nach § 26 nicht 
 
 Als anerkannt gelten auch Zertifikate, die
 
-1.
+1. nach dem Recht der Europäischen Union oder eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum als Nachweis darüber anerkannt werden, dass eine oder mehrere Schnittstellen die Anforderungen nach Artikel 27 Absatz 3 Unterabsatz 5 und 6 in Verbindung mit Unterabsatz 7 sowie nach Artikel 28 Absatz 5 der Richtlinie (EU) 2018/2001 erfüllen, und
 
-2.
-
-a)
-
-b)
-
-c)
+2. in dem anderen Mitgliedstaat der Europäischen Union ausgestellt worden sind a)von der Behörde, die in diesem Mitgliedstaat der Europäischen Union für die Nachweisführung zuständig ist,b)von der Stelle, die von der nach Buchstabe a zuständigen Behörde für die Nachweisführung anerkannt worden ist, oderc)von einer sonstigen Stelle, die bei der nationalen Akkreditierungsstelle dieses Mitgliedstaates der Europäischen Union auf Grund allgemeiner Kriterien für Stellen, die Produkte zertifizieren, für die Nachweisführung akkreditiert ist. von der Behörde, die in diesem Mitgliedstaat der Europäischen Union für die Nachweisführung zuständig ist, von der Stelle, die von der nach Buchstabe a zuständigen Behörde für die Nachweisführung anerkannt worden ist, oder von einer sonstigen Stelle, die bei der nationalen Akkreditierungsstelle dieses Mitgliedstaates der Europäischen Union auf Grund allgemeiner Kriterien für Stellen, die Produkte zertifizieren, für die Nachweisführung akkreditiert ist.
 
 ## Unterabschnitt 1: Anerkennung von Zertifizierungsstellen
 
@@ -598,39 +480,23 @@ c)
 
 Anerkannte Zertifizierungsstellen sind
 
-1.
+1. Zertifizierungsstellen, die nach § 31 Absatz 1 oder § 43 Absatz 1 anerkannt sind, und
 
-2.
+2. Zertifizierungsstellen nach § 36.
 
 ### § 31 — Anerkennung von Zertifizierungsstellen
 
 (1) Zertifizierungsstellen werden von der zuständigen Behörde auf Antrag anerkannt, wenn sie
 
-1.
+1. folgende Angaben machen: a)die Namen und die Anschriften der verantwortlichen Personen sowieb)die Staaten, in denen sie die Aufgaben nach dieser Verordnung wahrnehmen, die Namen und die Anschriften der verantwortlichen Personen sowie die Staaten, in denen sie die Aufgaben nach dieser Verordnung wahrnehmen,
 
-a)
+2. nachweisen, dass sie a)über die Fachkunde, die Ausrüstung und die Infrastruktur verfügen, die zur Wahrnehmung ihrer Aufgaben erforderlich sind,b)über eine ausreichende Zahl qualifizierter und erfahrener Beschäftigter verfügen undc)im Hinblick auf die Durchführung der ihnen übertragenen Aufgaben unabhängig von den Zertifizierungssystemen, Schnittstellen, Betrieben und Lieferanten sowie frei von jeglichem Interessenkonflikt sind, über die Fachkunde, die Ausrüstung und die Infrastruktur verfügen, die zur Wahrnehmung ihrer Aufgaben erforderlich sind, über eine ausreichende Zahl qualifizierter und erfahrener Beschäftigter verfügen und im Hinblick auf die Durchführung der ihnen übertragenen Aufgaben unabhängig von den Zertifizierungssystemen, Schnittstellen, Betrieben und Lieferanten sowie frei von jeglichem Interessenkonflikt sind,
 
-b)
+3. die Anforderungen der DIN EN/ISO/IEC 17065, Ausgabe Januar 2013, erfüllen und ihre Kontrollen den Anforderungen der DIN EN ISO 19011, Ausgabe Dezember 2018, genügen,
 
-2.
+4. sich schriftlich verpflichten, a)die Anforderungen eines anerkannten Zertifizierungssystems zu erfüllen,b)die Kontrollen und Maßnahmen nach § 42 zu dulden,c)für alle Orte, an denen sie nach dieser Verordnung Tätigkeiten ausüben, auch wenn diese Orte nicht im räumlichen Geltungsbereich dieser Verordnung liegen, der zuständigen Behörde eine dem § 42 entsprechende Kontroll- und Betretungsmöglichkeit zu gewähren und die Anforderungen eines anerkannten Zertifizierungssystems zu erfüllen, die Kontrollen und Maßnahmen nach § 42 zu dulden, für alle Orte, an denen sie nach dieser Verordnung Tätigkeiten ausüben, auch wenn diese Orte nicht im räumlichen Geltungsbereich dieser Verordnung liegen, der zuständigen Behörde eine dem § 42 entsprechende Kontroll- und Betretungsmöglichkeit zu gewähren und
 
-a)
-
-b)
-
-c)
-
-3.
-
-4.
-
-a)
-
-b)
-
-c)
-
-5.
+5. eine zustellungsfähige Anschrift in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum haben.
 
 (2) Der Nachweis darüber, dass die in Absatz 1 genannten Anforderungen erfüllt sind, ist durch Vorlage von Unterlagen über die betriebliche Ausstattung der jeweiligen Zertifizierungsstelle, ihren Aufbau und ihre Beschäftigten entsprechend den Vorgaben der zuständigen Behörde zu erbringen. Die zuständige Behörde kann über die vorgelegten Unterlagen hinaus weitere Unterlagen anfordern und im Rahmen des Anerkennungsverfahrens bei den Zertifizierungsstellen Prüfungen vor Ort vornehmen, soweit dies zur Entscheidung über den Antrag nach Absatz 1 erforderlich ist. Eine Prüfung vor Ort in einem anderen Mitgliedstaat der Europäischen Union oder einem Drittstaat wird nur durchgeführt, wenn der andere Staat dieser Prüfung zustimmt.
 
@@ -638,11 +504,11 @@ c)
 
 (4) Die Anerkennung kann beschränkt werden auf
 
-1.
+1. einzelne Arten von erneuerbaren Kraftstoffen nicht biogenen Ursprungs,
 
-2.
+2. einzelne Staaten, insbesondere, weil nur dort die nach Absatz 2 Satz 3 erforderliche Zustimmung zur Überwachungstätigkeit der zuständigen Behörde nach § 42 erteilt worden ist, oder
 
-3.
+3. einzelne Geltungsbereiche.
 
 > (+++ § 31 Abs. 2: Zur Anwendung vgl. § 42 Abs. 2 +++)
 
@@ -658,29 +524,29 @@ c)
 
 Die Anerkennung einer Zertifizierungsstelle muss die folgenden Angaben enthalten:
 
-1.
+1. die einmal vergebene Registriernummer,
 
-2.
+2. das Datum der Anerkennung und
 
-3.
+3. Angaben zu Beschränkungen nach § 31 Absatz 4.
 
 ### § 34 — Erlöschen der Anerkennung
 
 (1) Die Anerkennung einer Zertifizierungsstelle erlischt, wenn sie zurückgenommen, widerrufen, anderweitig aufgehoben oder durch Zeitablauf oder auf andere Weise erledigt ist. Sie erlischt auch, wenn die Zertifizierungsstelle ihre Tätigkeit
 
-1.
+1. nicht innerhalb eines Jahres nach Erteilung der ersten Anerkennung aufgenommen hat oder
 
-2.
+2. seit Aufnahme der Tätigkeit mehr als ein Jahr nicht mehr ausgeübt hat.
 
 (2) Das Erlöschen der Anerkennung und der Grund für das Erlöschen nach Absatz 1 sind von der zuständigen Behörde im Bundesanzeiger bekannt zu machen.
 
 ### § 35 — Widerruf der Anerkennung
 
-Die Anerkennung einer Zertifizierungsstelle soll widerrufen werden, wenn die Gewähr für eine ordnungsgemäße Durchführung der Aufgaben nach dieser Verordnung nicht mehr gegeben ist. Die Anerkennung soll insbesondere widerrufen werden, wenn Die Anerkennung kann auch widerrufen werden, wenn eine Überwachung vor Ort nicht sichergestellt ist. Die Vorschriften des Verwaltungsverfahrensgesetzes über die Rücknahme und den Widerruf von Verwaltungsakten bleiben im Übrigen unberührt.
+Die Anerkennung einer Zertifizierungsstelle soll widerrufen werden, wenn die Gewähr für eine ordnungsgemäße Durchführung der Aufgaben nach dieser Verordnung nicht mehr gegeben ist. Die Anerkennung soll insbesondere widerrufen werden, wenn
 
-1.
+1. eine Voraussetzung nach § 31 Absatz 1 nicht oder nicht mehr erfüllt ist oder
 
-2.
+2. die Zertifizierungsstelle ihre Pflichten nach den §§ 37 bis 41 nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erfüllt.
 
 ### § 36 — Weitere anerkannte Zertifizierungsstellen
 
@@ -696,11 +562,11 @@ Die Zertifizierungsstellen müssen ein Verzeichnis aller Schnittstellen und Lief
 
 ### § 38 — Kontrolle von Schnittstellen und Lieferanten
 
-(1) Die Zertifizierungsstellen kontrollieren spätestens sechs Monate nach Ausstellung des ersten Zertifikates und danach mindestens einmal im Jahr, ob die Schnittstellen und die Lieferanten die Voraussetzungen für die Ausstellung eines Zertifikates nach § 25 Absatz 2 weiterhin erfüllen. Die zuständige Behörde kann bei begründetem Verdacht, dass die in Satz 1 genannten Voraussetzungen nicht mehr erfüllt werden, insbesondere auf Grund der Berichte nach § 39 Satz 2, Satz 2 gilt auch in den Fällen des § 25 Absatz 3 Satz 2.
+(1) Die Zertifizierungsstellen kontrollieren spätestens sechs Monate nach Ausstellung des ersten Zertifikates und danach mindestens einmal im Jahr, ob die Schnittstellen und die Lieferanten die Voraussetzungen für die Ausstellung eines Zertifikates nach § 25 Absatz 2 weiterhin erfüllen. Die zuständige Behörde kann bei begründetem Verdacht, dass die in Satz 1 genannten Voraussetzungen nicht mehr erfüllt werden, insbesondere auf Grund der Berichte nach § 39 Satz 2,
 
-1.
+1. bestimmen, dass eine Schnittstelle in kürzeren Abständen kontrolliert werden muss und
 
-2.
+2. diese Kontrollen auch selbst durchführen.
 
 (2) Die Beschäftigten der Zertifizierungsstellen und der zuständigen Behörde sowie die von der zuständigen Behörde vertraglich beauftragten Personen sind befugt, während der Geschäfts- oder Betriebszeit Grundstücke, Geschäfts-, Betriebs- und Lagerräume sowie Transportmittel der Schnittstellen und Lieferanten zu betreten, soweit dies für die Kontrolle nach Absatz 1 erforderlich ist. Diese Befugnis bezieht sich auf alle Orte im Geltungsbereich dieser Verordnung, an denen die Schnittstellen und Lieferanten im Zusammenhang mit der Herstellung oder Lieferung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs, für die ein Nachweis nach dieser Verordnung ausgestellt wird, Tätigkeiten ausüben.
 
@@ -716,17 +582,17 @@ Zertifizierungsstellen müssen der zuständigen Behörde jede Vor-Ort-Kontrolle 
 
 (1) Zertifizierungsstellen müssen der zuständigen Behörde nach ihrer Entscheidung über die Ausstellung eines Zertifikates nach § 2 Absatz 14, jedoch spätestens bis zum Laufzeitbeginn des Zertifikates, folgende Dokumente elektronisch übermitteln:
 
-1.
+1. die Berichte nach § 39 Satz 2 und
 
-2.
+2. die Zertifikate, die nach § 25 ausgestellt wurden.
 
 (2) Zertifizierungsstellen müssen der zuständigen Behörde für jedes Kalenderjahr bis zum Ablauf des 28. Februar des folgenden Kalenderjahres und auf Verlangen folgende Berichte und Informationen elektronisch übermitteln:
 
-1.
+1. einen Auszug aus dem Verzeichnis nach § 37 sowie eine Liste aller weiteren Betriebe und Lieferanten, die sie kontrollieren, wobei die Schnittstellen, die weiteren Betriebe und Lieferanten nach den Zertifizierungssystemen aufzuschlüsseln sind,
 
-2.
+2. eine Liste aller Kontrollen, die sie in dem Kalenderjahr bei Schnittstellen, Betrieben und Lieferanten vorgenommen haben, aufgeschlüsselt nach Zertifizierungssystemen, und
 
-3.
+3. einen Bericht über ihre Erfahrungen mit den von ihnen angewendeten Zertifizierungssystemen; dieser Bericht muss alle Angaben enthalten, die für die Beurteilung, ob es Probleme bei der Einhaltung der Systemvorgaben gibt, wesentlich sein könnten.
 
 ### § 41 — Aufbewahrung, Umgang mit Informationen
 
@@ -766,25 +632,25 @@ Zertifizierungsstellen müssen der zuständigen Behörde jede Vor-Ort-Kontrolle 
 
 (2) Die zuständige Behörde ist befugt, zur Führung des Registers für erneuerbare Kraftstoffe nicht biogenen Ursprungs folgende personenbezogene Daten zu erheben, zu speichern und zu verwenden:
 
-1.
+1. Daten zu den nach dieser Verordnung anerkannten Zertifizierungssystemen,
 
-2.
+2. Daten nach den §§ 31, 33 bis 36 und 43 zu den Zertifizierungsstellen,
 
-3.
+3. Daten nach den §§ 26 und 29 zu den Zertifikaten der Schnittstellen,
 
-4.
+4. Daten nach § 17 zu den Nachweisen nach § 16,
 
-5.
+5. Daten zu den Nachweisen nach § 21,
 
-6.
+6. Daten zu den Teilnachweisen nach § 22,
 
-7.
+7. Daten zu Bescheinigungen zur Nachweisführung nach dieser Verordnung,
 
-8.
+8. Daten zu den Berichten nach § 39 Satz 2 und § 41 Absatz 2,
 
-9.
+9. Daten zu den Nachweispflichtigen bei Vorlage der Nachweise nach § 15 und
 
-10.
+10. Daten nach § 23 zur Unwirksamkeit von Nachweisen.
 
 (3) Die zuständige Behörde kann das zentrale Register nach Absatz 1 zusammen mit dem Herkunftsnachweisregister gemäß § 3 Absatz 1 Nummer 3 des Herkunftsnachweisregistergesetzes im Einvernehmen mit der nach § 4 Absatz 1 Nummer 6 des Herkunftsnachweisregistergesetzes benannten zuständigen Stelle als ein Register aufbauen und führen, wenn dabei gewährleistet werden kann, dass die Herkunftsnachweise sowie die anerkannten Nachweise nach § 14 als eigenständige Nachweisinstrumente zu erkennen sind.
 
@@ -804,13 +670,13 @@ Zertifizierungsstellen müssen der zuständigen Behörde jede Vor-Ort-Kontrolle 
 
 Die zuständige Behörde kann von Nachweispflichtigen, Zertifizierungsstellen, Schnittstellen, Lieferanten, Hauptzollämtern, der Biokraftstoffquotenstelle und von Zertifizierungssystemen weitere Informationen verlangen, soweit dies erforderlich ist, um die folgenden Aufgaben zu erfüllen:
 
-1.
+1. die der zuständigen Behörde nach dieser Verordnung übertragenen Aufgaben,
 
-2.
+2. zu überwachen, ob die Anforderungen nach dieser Verordnung erfüllt werden,
 
-3.
+3. die Berichtspflichten der Bundesregierung gegenüber dem Deutschen Bundestag und dem Bundesrat, insbesondere nach § 37g des Bundes-Immissionsschutzgesetzes, oder
 
-4.
+4. die Berichtspflichten der Bundesrepublik Deutschland gegenüber den Organen der Europäischen Union.
 
 ### § 47 — Evaluierung und Bestandsschutz
 
@@ -822,25 +688,15 @@ Die zuständige Behörde kann von Nachweispflichtigen, Zertifizierungsstellen, S
 
 Soweit es zur Durchführung dieser Verordnung oder zur Erfüllung von Berichtspflichten der Bundesregierung erforderlich ist, darf die zuständige Behörde Informationen übermitteln an einen oder mehrere der folgenden Adressaten:
 
-1.
+1. folgende Bundesbehörden: a)das Bundesministerium der Finanzen,b)das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz,c)das Bundesministerium für Wirtschaft und Klimaschutz,d)das Bundesministerium für Ernährung und Landwirtschaft odere)die nachgeordneten Behörden dieser Bundesministerien, insbesondere an die Biokraftstoffquotenstelle, die Bundesnetzagentur und die Hauptzollämter, das Bundesministerium der Finanzen, das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz, das Bundesministerium für Wirtschaft und Klimaschutz, das Bundesministerium für Ernährung und Landwirtschaft oder die nachgeordneten Behörden dieser Bundesministerien, insbesondere an die Biokraftstoffquotenstelle, die Bundesnetzagentur und die Hauptzollämter,
 
-a)
+2. Behörden von anderen Mitgliedstaaten der Europäischen Union sowie von Drittstaaten und ihre Stellen nach § 21 Absatz 1 Nummer 2,
 
-b)
+3. Organe der Europäischen Union,
 
-c)
+4. anerkannte Zertifizierungssysteme nach § 2 Absatz 13 oder
 
-d)
-
-e)
-
-2.
-
-3.
-
-4.
-
-5.
+5. anerkannte Zertifizierungsstellen nach § 30.
 
 ### § 49 — Zuständigkeiten
 
@@ -856,13 +712,13 @@ Die Amtssprache ist deutsch. Alle Anträge, die bei der zuständigen Behörde ge
 
 (1) Für die folgenden Dokumente sind Muster und Vordrucke sowie ein Datensatzformat einer elektronischen Datenübermittlung zu verwenden:
 
-1.
+1. für die Zertifikate nach § 26,
 
-2.
+2. für die Mitteilungen und Berichte nach den §§ 39 und 40,
 
-3.
+3. für die Nachweise nach § 17 und
 
-4.
+4. für die Teilnachweise nach § 22.
 
 (2) Die zuständige Behörde stellt den Zertifizierungsstellen die Dokumente nach Absatz 1 Nummer 1 und 2 zur Verfügung. Sie stellt diese Dokumente auf Anfrage auch den anerkannten Zertifizierungssystemen zur Verfügung.
 

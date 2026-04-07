@@ -20,7 +20,9 @@ Das Verzeichnis der Zuwiderhandlungen im Sinne des Artikels 15 Absatz 3 Satz 1 d
 
 ### § 3
 
-(1) Die Generalzolldirektion, die Zollfahndungsämter und die Hauptzollämter dürfen dienstlich erlangte Informationen einschließlich personenbezogener Daten im Zollinformationssystem nach dem Beschluss 2009/917/JI sowie nach der Verordnung (EG) Nr. 515/97 im automatisierten Verfahren erfassen.(2) Die Daten werden nur erfasst, soweit dies für die Erreichung des mit diesen Datenbanken verfolgten Ziels erforderlich ist und eine Gefährdung des Untersuchungszwecks nicht zu besorgen ist. § 480 Absatz 1 Satz 1 und 2 der Strafprozessordnung findet Anwendung.
+(1) Die Generalzolldirektion, die Zollfahndungsämter und die Hauptzollämter dürfen dienstlich erlangte Informationen einschließlich personenbezogener Daten im Zollinformationssystem nach dem Beschluss 2009/917/JI sowie nach der Verordnung (EG) Nr. 515/97 im automatisierten Verfahren erfassen.
+
+(2) Die Daten werden nur erfasst, soweit dies für die Erreichung des mit diesen Datenbanken verfolgten Ziels erforderlich ist und eine Gefährdung des Untersuchungszwecks nicht zu besorgen ist. § 480 Absatz 1 Satz 1 und 2 der Strafprozessordnung findet Anwendung.
 
 ### § 4
 
@@ -28,11 +30,39 @@ Das Bundeskriminalamt ist berechtigt, Daten aus dem Aktennachweissystem für Zol
 
 ### § 5
 
-(1) Die im Aktennachweissystem für Zollzwecke gespeicherten Daten zu natürlichen Personen sind zu löschen nach Ablauf 1.eines Jahres nach der letzten Ermittlungshandlung in Strafverfahren, bei denen der Abschluss der Ermittlungen noch nicht verfügt ist (§ 169a der Strafprozessordnung), wenn in diesem Zeitpunkt keine Anklage erhoben worden ist,2.von drei Jahren in Strafverfahren, bei denen der Abschluss der Ermittlungen noch nicht verfügt ist (§ 169a der Strafprozessordnung), wenn in diesem Zeitraum keine Anklage erhoben worden ist,3.von sechs Jahren bei Strafverfahren, die zur Erhebung der Anklage, aber noch nicht zu einer rechtskräftigen Verurteilung geführt haben, oder4.von zehn Jahren bei Strafverfahren, die zu einer rechtskräftigen Verurteilung geführt haben.Die Fristen nach Satz 1 Nr. 2 bis 4 beginnen mit dem Tag, an dem die Daten erstmals in der Ermittlungsakte vermerkt werden.(2) Wird in einem Verfahren nach Absatz 1 der Beschuldigte rechtskräftig freigesprochen oder die Eröffnung des Hauptverfahrens gegen ihn unanfechtbar abgelehnt oder das Verfahren nicht nur vorläufig eingestellt, sind seine Daten unverzüglich zu löschen.(3) Bei einer Einstellung nach den §§ 153a, 153c der Strafprozessordnung kann eine Löschung nach Absatz 2 unterbleiben. Absatz 1 Satz 1 Nummer 3 und Satz 2 gilt entsprechend.
+(1) Die im Aktennachweissystem für Zollzwecke gespeicherten Daten zu natürlichen Personen sind zu löschen nach Ablauf
+
+1. eines Jahres nach der letzten Ermittlungshandlung in Strafverfahren, bei denen der Abschluss der Ermittlungen noch nicht verfügt ist (§ 169a der Strafprozessordnung), wenn in diesem Zeitpunkt keine Anklage erhoben worden ist,
+
+2. von drei Jahren in Strafverfahren, bei denen der Abschluss der Ermittlungen noch nicht verfügt ist (§ 169a der Strafprozessordnung), wenn in diesem Zeitraum keine Anklage erhoben worden ist,
+
+3. von sechs Jahren bei Strafverfahren, die zur Erhebung der Anklage, aber noch nicht zu einer rechtskräftigen Verurteilung geführt haben, oder
+
+4. von zehn Jahren bei Strafverfahren, die zu einer rechtskräftigen Verurteilung geführt haben.
+
+(2) Wird in einem Verfahren nach Absatz 1 der Beschuldigte rechtskräftig freigesprochen oder die Eröffnung des Hauptverfahrens gegen ihn unanfechtbar abgelehnt oder das Verfahren nicht nur vorläufig eingestellt, sind seine Daten unverzüglich zu löschen.
+
+(3) Bei einer Einstellung nach den §§ 153a, 153c der Strafprozessordnung kann eine Löschung nach Absatz 2 unterbleiben. Absatz 1 Satz 1 Nummer 3 und Satz 2 gilt entsprechend.
 
 ### § 6
 
-(1) Die in Artikel 16 Absatz 1 Satz 1 und Absatz 2 Buchstabe b) des Beschlusses 2009/917/JI genannten Daten zu Unternehmen dürfen in das Aktennachweissystem für Zollzwecke eingegeben werden, wenn gegen die in § 30 Absatz 1 des Gesetzes über Ordnungswidrigkeiten genannten natürlichen Personen dieser Unternehmen a)Ermittlungen wegen der in § 2 genannten Straftaten oderb)Ermittlungen wegen einer Aufsichtspflichtverletzung (§ 130 des Gesetzes über Ordnungswidrigkeiten), die zu den in § 2 genannten Straftaten geführt haben kann oder ursächlich dafür gewesen sein kann,geführt werden. Daten nach Satz 1 Buchstabe b dürfen nur Hinweise auf die Ermittlungsakten zu den in § 2 genannten Straftaten enthalten.(2) Die im Aktennachweissystem für Zollzwecke gespeicherten Daten zu Unternehmen sind zu löschen, wenn die zu natürlichen Personen nach Absatz 1 eingestellten Daten gemäß § 5 zu löschen sind.(3) Absatz 1 gilt auch, wenn wegen der dort genannten Straftaten ein selbständiges Verfahren nach § 30 Absatz 4 Satz 1 des Gesetzes über Ordnungswidrigkeiten durchgeführt wird. Die Daten sind unverzüglich zu löschen, wenn das Bußgeldverfahren nicht nur vorläufig eingestellt oder eine Bußgeldfestsetzung durch das Gericht rechtskräftig abgelehnt wird. Im Übrigen sind die Daten zu löschen nach Ablauf 1.eines Jahres nach der letzten Ermittlungshandlung, wenn ein Antrag der Staatsanwaltschaft an das Gericht zur Festsetzung einer Geldbuße noch nicht gestellt worden ist,2.von drei Jahren, wenn ein Antrag der Staatsanwaltschaft an das Gericht zur Festsetzung einer Geldbuße noch nicht gestellt worden ist,3.von sechs Jahren, wenn ein Bußgeldbescheid erlassen worden ist, eine Bußgeldfestsetzung jedoch noch nicht rechtskräftig geworden ist oder4.von zehn Jahren, wenn es zu einer rechtskräftigen Bußgeldfestsetzung gekommen ist.§ 5 Absatz 1 Satz 2 gilt entsprechend.
+(1) Die in Artikel 16 Absatz 1 Satz 1 und Absatz 2 Buchstabe b) des Beschlusses 2009/917/JI genannten Daten zu Unternehmen dürfen in das Aktennachweissystem für Zollzwecke eingegeben werden, wenn gegen die in § 30 Absatz 1 des Gesetzes über Ordnungswidrigkeiten genannten natürlichen Personen dieser Unternehmen
+
+a) Ermittlungen wegen der in § 2 genannten Straftaten oder
+
+b) Ermittlungen wegen einer Aufsichtspflichtverletzung (§ 130 des Gesetzes über Ordnungswidrigkeiten), die zu den in § 2 genannten Straftaten geführt haben kann oder ursächlich dafür gewesen sein kann,
+
+(2) Die im Aktennachweissystem für Zollzwecke gespeicherten Daten zu Unternehmen sind zu löschen, wenn die zu natürlichen Personen nach Absatz 1 eingestellten Daten gemäß § 5 zu löschen sind.
+
+(3) Absatz 1 gilt auch, wenn wegen der dort genannten Straftaten ein selbständiges Verfahren nach § 30 Absatz 4 Satz 1 des Gesetzes über Ordnungswidrigkeiten durchgeführt wird. Die Daten sind unverzüglich zu löschen, wenn das Bußgeldverfahren nicht nur vorläufig eingestellt oder eine Bußgeldfestsetzung durch das Gericht rechtskräftig abgelehnt wird. Im Übrigen sind die Daten zu löschen nach Ablauf
+
+1. eines Jahres nach der letzten Ermittlungshandlung, wenn ein Antrag der Staatsanwaltschaft an das Gericht zur Festsetzung einer Geldbuße noch nicht gestellt worden ist,
+
+2. von drei Jahren, wenn ein Antrag der Staatsanwaltschaft an das Gericht zur Festsetzung einer Geldbuße noch nicht gestellt worden ist,
+
+3. von sechs Jahren, wenn ein Bußgeldbescheid erlassen worden ist, eine Bußgeldfestsetzung jedoch noch nicht rechtskräftig geworden ist oder
+
+4. von zehn Jahren, wenn es zu einer rechtskräftigen Bußgeldfestsetzung gekommen ist.
 
 ### § 7
 

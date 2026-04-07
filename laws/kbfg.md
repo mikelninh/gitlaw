@@ -16,7 +16,9 @@ Aus dem Sondervermögen sollen Investitionen zum Ausbau der Betreuung von Kinder
 
 ### § 3 — Stellung im Rechtsverkehr
 
-(1) Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem Namen im Rechtsverkehr handeln, klagen und verklagt werden. Der allgemeine Gerichtsstand des Sondervermögens ist der Sitz der Bundesregierung. Das Bundesministerium für Familie, Senioren, Frauen und Jugend verwaltet das Sondervermögen. Es kann sich hierzu im Einvernehmen mit dem Bundesministerium der Finanzen einer anderen Bundesbehörde oder eines Dritten bedienen.(2) Das Sondervermögen ist von dem übrigen Vermögen des Bundes, seinen Rechten und Verbindlichkeiten zu trennen. Der Bund haftet nicht für die Verbindlichkeiten des Sondervermögens.
+(1) Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem Namen im Rechtsverkehr handeln, klagen und verklagt werden. Der allgemeine Gerichtsstand des Sondervermögens ist der Sitz der Bundesregierung. Das Bundesministerium für Familie, Senioren, Frauen und Jugend verwaltet das Sondervermögen. Es kann sich hierzu im Einvernehmen mit dem Bundesministerium der Finanzen einer anderen Bundesbehörde oder eines Dritten bedienen.
+
+(2) Das Sondervermögen ist von dem übrigen Vermögen des Bundes, seinen Rechten und Verbindlichkeiten zu trennen. Der Bund haftet nicht für die Verbindlichkeiten des Sondervermögens.
 
 ### § 4 — Finanzierung
 
@@ -24,7 +26,9 @@ Der Bund stellt dem Sondervermögen im Jahr 2007 einen einmaligen Betrag in Höh
 
 ### § 4a — Aufstockung des Sondervermögens
 
-(1) Der Bund stellt dem Sondervermögen zur Finanzierung der Errichtung von 30 000 zusätzlichen Betreuungsplätzen für Kinder unter drei Jahren einen zusätzlichen Betrag in Höhe von 580,5 Millionen Euro im Jahr 2012 zur Verfügung.(2) Der Bund stellt dem Sondervermögen zur Finanzierung der Errichtung von zusätzlichen Betreuungsplätzen für Kinder unter drei Jahren einen zusätzlichen Betrag in Höhe von 550 Millionen Euro zur Verfügung. Bewilligungen von Finanzhilfen für Investitionsvorhaben in Höhe des aufgestockten Sondervermögens sind ab dem 31. Dezember 2014 möglich. Der in Satz 1 genannte Betrag beläuft sich im Jahr 2016 auf230 000 000 Euro,im Jahr 2017 auf220 000 000 Euro,im Jahr 2018 auf100 000 000 Euro.(3) Der Bund stellt dem Sondervermögen zur Finanzierung der Errichtung von 100 000 zusätzlichen Betreuungsplätzen für Kinder bis zum Schuleintritt einen zusätzlichen Betrag in Höhe von 1 126 Millionen Euro zur Verfügung. Der in Satz 1 genannte Betrag beläuft sichim Jahr 2017 auf226 000 000 Euro,im Jahr 2018 auf300 000 000 Euro,im Jahr 2019 auf300 000 000 Euro,im Jahr 2020 auf300 000 000 Euro.(4) Der Bund stellt dem Sondervermögen zur Finanzierung der Errichtung von 90 000 zusätzlichen Betreuungsplätzen für Kinder bis zum Schuleintritt einen zusätzlichen Betrag in Höhe von 1 000 Millionen Euro zur Verfügung. Der in Satz 1 genannte Betrag beläuft sich im Jahr 2020 auf 500 000 000 Euro und im Jahr 2021 auf 500 000 000 Euro.
+(1) Der Bund stellt dem Sondervermögen zur Finanzierung der Errichtung von 30 000 zusätzlichen Betreuungsplätzen für Kinder unter drei Jahren einen zusätzlichen Betrag in Höhe von 580,5 Millionen Euro im Jahr 2012 zur Verfügung.
+
+(4) Der Bund stellt dem Sondervermögen zur Finanzierung der Errichtung von 90 000 zusätzlichen Betreuungsplätzen für Kinder bis zum Schuleintritt einen zusätzlichen Betrag in Höhe von 1 000 Millionen Euro zur Verfügung. Der in Satz 1 genannte Betrag beläuft sich im Jahr 2020 auf 500 000 000 Euro und im Jahr 2021 auf 500 000 000 Euro.
 
 ### § 5 — Wirtschaftsplan, Haushaltsrecht
 

@@ -12,13 +12,13 @@
 
 ### § 1 — Erlöschen von Ansprüchen
 
-(1) Ansprüche gegen erlöschen, soweit dieses Gesetz nichts anderes bestimmt.
+(1) Ansprüche gegen
 
-1.
+1. das Deutsche Reich einschließlich der Sondervermögen Deutsche Reichsbahn und Deutsche Reichspost,
 
-2.
+2. das ehemalige Land Preußen,
 
-3.
+3. das Unternehmen Reichsautobahnen
 
 (2) Unberührt bleiben Gesetze der Bundesrepublik Deutschland, ihrer Länder, der Verwaltung des Vereinigten Wirtschaftsgebietes oder Gesetze der Besatzungsmächte, in denen Ansprüche dieser Art geregelt sind oder wegen bisher bestehender Ansprüche dieser Art Leistungen gewährt werden.
 
@@ -28,27 +28,27 @@
 
 Die Vorschriften dieses Gesetzes sind entsprechend anzuwenden auf
 
-1.
+1. Ansprüche, die sich gegen den Bund oder andere öffentliche Rechtsträger nur auf Grund der Übernahme von Vermögen oder der Fortführung von Aufgaben der in § 1 Abs. 1 genannten Rechtsträger richten oder richten könnten;
 
-2.
+2. Ansprüche gegen den Bund oder andere öffentliche Rechtsträger auf Herausgabe von den in § 1 Abs. 1 genannten Rechtsträgern in Besitz genommener Grundstücke;
 
-3.
+3. Ansprüche, die sich gegen den Bund oder andere öffentliche Rechtsträger richten und auf einer Beeinträchtigung oder Verletzung des Eigentums oder eines anderen Rechts an einer Sache oder an einem Recht beruhen, sofern die Beeinträchtigung oder Verletzung von einer nach Artikel 89, 90, 134 oder 135 des Grundgesetzes oder in Durchführung des Gesetzes zur vorläufigen Regelung der Rechtsverhältnisse des Reichsvermögens und der preußischen Beteiligungen vom 21. Juli 1951 (Bundesgesetzbl. I S. 467) in das Eigentum oder in die Verwaltung des Bundes oder eines anderen öffentlichen Rechtsträgers gelangten Sache ausgeht und die der Beeinträchtigung oder Verletzung zugrunde liegende Einwirkung vor dem 24. Mai 1949 verursacht worden ist;
 
-4.
+4. Ansprüche gegen Länder oder Gemeinden (Gemeindeverbände), die aus Maßnahmen entstanden sind, welche diese Rechtsträger vor dem 1. August 1945 zur Durchführung von Anordnungen der Besatzungsmächte oder zur Beseitigung eines kriegsbedingten Notstandes im Rahmen dem Reich obliegender oder vom Reich übertragener Verwaltungsaufgaben getroffen haben. Dies gilt nicht, soweit wegen dieser Ansprüche ein Rechtsträger durch rechtskräftiges Urteil oder Schiedsspruch zur Erfüllung verurteilt oder eine Erfüllungsverpflichtung eines Rechtsträgers rechtskräftig festgestellt worden ist.
 
 ### § 3 — Dem Gesetz nicht unterliegende Schäden und Ansprüche
 
 (1) Einer besonderen gesetzlichen Regelung bleiben vorbehalten
 
-1.
+1. Schäden, die rückerstattungs- oder rückgriffspflichtigen Personen in Durchführung der Vorschriften über die Rückerstattung feststellbarer Vermögensgegenstände entstanden sind mit Ausnahme der Schäden von Personen, die einen der Rückerstattung unterliegenden Gegenstand ohne angemessene Gegenleistung oder mittels eines gegen die guten Sitten verstoßenden Rechtsgeschäfts oder durch eine von ihnen oder zu ihren Gunsten ausgeübte Drohung oder durch widerrechtliche Wegnahme oder durch eine sonstige unerlaubte Handlung erlangt haben;
 
-2.
+2. Schäden, die im Zusammenhang mit den Ereignissen des zweiten Weltkrieges und der folgenden Besatzungszeit natürlichen Personen deutscher Staatsangehörigkeit oder Volkszugehörigkeit oder diesen gleichzustellenden juristischen Personen privaten oder öffentlichen Rechts unmittelbar dadurch entstanden sind oder entstehen werden, daß ihre Vermögenswerte zum Zwecke der Reparation oder Restitution oder zu einem ähnlichen Zwecke auf Grund von Gesetzen oder sonstigen Anordnungen fremder Staaten zur Liquidation deutschen Vermögens im Ausland oder auf Grund von Anordnungen der Besatzungsmächte oder auf Grund von Vereinbarungen, die auf Veranlassung der Besatzungsmächte abgeschlossen werden mußten, endgültig entzogen worden sind;
 
-3.
+3. Ansprüche gegen andere als die in § 1 Abs. 1 genannten nicht mehr bestehende öffentliche Rechtsträger;
 
-4.
+4. Ansprüche gegen die ehemalige Nationalsozialistische Deutsche Arbeiterpartei (NSDAP), ihre Gliederungen, ihre angeschlossenen Verbände und ihre sonstigen aufgelösten Einrichtungen;
 
-5.
+5. Schäden, welche Versicherungsnehmern dadurch entstehen, daß die Garantieverpflichtungen oder die sonstigen Freistellungsverpflichtungen des Deutschen Reichs gegenüber der Deutschen Kriegsversicherungsgemeinschaft oder gegenüber den in § 24 Abs. 5 des Umstellungsgesetzes bezeichneten Versicherungsunternehmen erlöschen.
 
 (2) Auf Grund der in Absatz 1 bezeichneten Tatbestände können Leistungen vom Bund oder einem anderen öffentlichen Rechtsträger bis zum Inkrafttreten der vorbehaltenen gesetzlichen Regelung, längstens jedoch bis zum 31. März 1968, nicht verlangt werden.
 
@@ -58,35 +58,35 @@ Die Vorschriften dieses Gesetzes sind entsprechend anzuwenden auf
 
 (1) Zu erfüllen sind
 
-1.
+1. Ansprüche (§ 1), die nach dem 31. Juli 1945 durch Rechtsgeschäfte begründet worden sind;
 
-2.
+2. Ansprüche (§ 1), die im Zusammenhang mit der Verwaltung im Geltungsbereich dieses Gesetzes belegenen Vermögens der in § 1 Abs. 1 genannten Rechtsträger kraft Gesetzes auf Grund einer nach dem 31. Juli 1945 begangenen Handlung oder Unterlassung entstanden sind;
 
-3.
+3. die nach dem 31. Juli 1945 enstandenen Ansprüche (§ 1) auf Zahlung einer Enteignungsentschädigung für im Geltungsbereich dieses Gesetzes belegene Grundstücke und grundstücksgleiche Rechte.
 
 (2) Absatz 1 ist nicht anzuwenden bei
 
-1.
+1. Ansprüchen auf Herausgabe von Grundstücken im Sinne des § 2 Nr. 2 und Ansprüchen, die auf einer Beeinträchtigung der in § 2 Nr. 3 bezeichneten Art beruhen; § 19 bleibt unberührt;
 
-2.
+2. Ansprüchen auf Erstattung von Verwaltungskosten und sonstigen Aufwendungen, die im Zusammenhang mit der Verwaltung von Vermögen der in § 1 Abs. 1 genannten Rechtsträger anderen öffentlichen Rechtsträgern entstanden sind; insoweit bleibt eine gesetzliche Regelung vorbehalten.
 
 ### § 5 — Versorgungs- und Schadensersatzansprüche
 
 (1) Zu erfüllen sind
 
-1.
+1. Ansprüche (§ 1) auf Zahlung von Renten, die der Versorgung der Berechtigten dienen oder auf einer Verletzung des Lebens, des Körpers, der Gesundheit oder der Freiheit beruhen, sowie Ansprüche aus der Kapitalisierung derartigen Renten, soweit Leistungen aus diesen Ansprüchen für die Zeit nach dem 31. März 1950 geschuldet werden. Bei Rentenansprüchen, die auf Grund oder in sinngemäßer Anwendung des Gesetzes über den Ausgleich bürgerlich-rechtlicher Ansprüche vom 13. Dezember 1934 (Reichsgesetzbl. I S. 1235) zuerkannt worden sind, gilt dies mit der Maßgabe, daß sie in der Höhe zu erfüllen sind, in der sie nach den Vorschriften des bürgerlichen Rechts begründet wären;
 
-2.
+2. Ansprüche (§ 1), die auf einer Verletzung des Lebens, des Körpers, der Gesundheit oder der Freiheit beruhen und nicht auf Zahlung von Renten gerichtet sind, jedoch nicht über den Betrag der Leistungen hinaus, die das Bundesentschädigungsgesetz für Schäden dieser Art vorsieht.
 
-(2) Absatz 1 ist nicht anzuwenden bei Insoweit verbleibt es bei den bundesgesetzlichen Regelungen.
+(2) Absatz 1 ist nicht anzuwenden bei
 
-1.
+1. Ansprüchen auf Zahlung von Vorzugsrenten auf Grund des Gesetzes über die Ablösung öffentlicher Anleihen vom 16. Juli 1925 (Reichsgesetzbl. I S. 137);
 
-2.
+2. Ansprüchen auf Zahlung von Liquidationsrenten zum Ausgleich von im ersten Weltkrieg erlittenen Liquidations- und Gewaltschäden;
 
-3.
+3. Ansprüchen, die unmittelbar oder mittelbar auf nationalsozialistischen Gewaltmaßnahmen im Sinne des § 2 des Bundesentschädigungsgesetzes beruhen;
 
-4.
+4. Ansprüchen, die auf Rechtsverhältnissen der in Artikel 131 des Grundgesetzes bezeichneten Art beruhen.
 
 (3) § 8 des Zweiten Gesetzes zur Überleitung von Lasten und Deckungsmitteln auf den Bund (Zweites Überleitungsgesetz) vom 21. August 1951 (Bundesgesetzbl. I S. 774) wird aufgehoben. Aus § 7 des vorbezeichneten Gesetzes können Ansprüche der Geschädigten gegen den Bund nicht hergeleitet werden. Auf Grund des Zweiten Überleitungsgesetzes durch Rechtsgeschäfte oder gerichtliche Entscheidungen bereits zuerkannte Ansprüche werden durch die Vorschriften dieses Gesetze nicht berührt.
 
@@ -94,35 +94,13 @@ Die Vorschriften dieses Gesetzes sind entsprechend anzuwenden auf
 
 (1) Ansprüche der in § 5 bezeichneten Art sind nur unter der Voraussetzung zu erfüllen, daß sie am 31. Dezember 1952 oder, falls sie später entstanden sind oder entstehen, im Zeitpunkt ihrer Entstehung zugestanden haben oder zustehen natürlichen Personen, die
 
-1.
+1. am 31. Dezember 1952 ihren Wohnsitz oder ständigen Aufenthalt im Geltungsbereich dieses Gesetzes oder in einem Staat hatten, der die Regierung der Bundesrepublik Deutschland am 1. April 1956 anerkannt hatte, oder
 
-2.
+2. am 31. Dezember 1952 Angehörige eines Gläubigerstaates waren, demgegenüber das Abkommen vom 27. Februar 1953 über deutsche Auslandsschulden (Bundesgesetzblatt II S. 331) wirksam ist oder wird, oder
 
-2a.
+2a. nach dem 31. Dezember 1952 aus der sowjetischen Besatzungszone oder aus dem Sowjetsektor von Berlin, ohne daß sie dort durch ihr Verhalten gegen die Grundsätze der Menschlichkeit oder Rechtsstaatlichkeit verstoßen haben, im Wege der Notaufnahme oder eines vergleichbaren Verfahrens zugezogen sind und am 31. Dezember 1961 oder am 31. Dezember 1964 ihren Wohnsitz oder ständigen Aufenthalt im Geltungsbereich dieses Gesetzes gehabt haben oder
 
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-ff)
-
-gg)
+3. nach dem 31. Dezember 1952 im Geltungsbereich dieses Gesetzes ihren Wohnsitz begründet haben oder begründen oder ständigen Aufenthalt genommen haben oder nehmena)als Vertriebene (Aussiedler) gemäß § 11 Abs. 2 Nr. 3 des Lastenausgleichsgesetzes spätestens sechs Monate nach dem Zeitpunkt, in dem sie die zur Zeit unter fremder Verwaltung stehenden deutschen Ostgebiete oder das Gebiet desjenigen Staates, aus dem sie vertrieben oder ausgesiedelt worden sind, verlassen haben; hierbei werden solche Zeiten nicht mitgerechnet, in denen ein Vertriebener nach Verlassen eines der in § 11 Abs. 2 Nr. 3 des Lastenausgleichsgesetzes bezeichneten Staaten, aus dem er vertrieben oder ausgesiedelt worden ist, in einem anderen der dort bezeichneten Staaten sich aufgehalten hat, ferner nicht solche Zeiten, in denen er oder ein mit ihm ausgesiedelter Familienangehöriger im Anschluß an die Aussiedlung erkrankt und infolgedessen zur Fortsetzung der Reise außerstande war, sowie solche Zeiten, in denen er oder ein mit ihm ausgesiedelter Familienangehöriger in der sowjetischen Besatzungszone oder im sowjetisch besetzten Sektor von Berlin aus Gründen, die er nicht zu vertreten hat, gewaltsam festgehalten worden ist; oder b)als Heimkehrer nach den Vorschriften des Heimkehrergesetzes oder c)als Sowjetzonenflüchtlinge im Sinne des § 3 des Bundesvertriebenengesetzes oder d)im Wege der Familienzusammenführung mit einer Person, die schon am 31. Dezember 1952 im Geltungsbereich dieses Gesetzes den Wohnsitz oder ständigen Aufenthalt hatte oder unter Buchstaben a, b oder c oder unter Nummer 2a fällt. Als Familienzusammenführung gilt die Zusammenführungaa)von Ehegatten, bb)von minderjährigen Kindern zu den Eltern, cc)von hilfsbedürftigen Eltern zu Kindern, wobei auch Schwiegerkinder zu berücksichtigen sind, wenn das einzige oder letzte Kind verstorben oder verschollen ist, dd)von hilfsbedürftigen Großeltern zu Enkelkindern, ee)von volljährigen hilfsbedürftigen oder in Ausbildung stehenden Kindern zu den Eltern, ff)von minderjährigen Kindern zu den Großeltern, wenn die Eltern nicht mehr leben oder sich ihrer nicht annehmen können, gg)von Minderjährigen oder Hilfsbedürftigen zu Geschwistern, wenn Verwandte der geraden Linie nicht mehr leben oder sich ihrer nicht annehmen können. Wer das 65. Lebensjahr vollendet hat, gilt als hilfsbedürftig. als Vertriebene (Aussiedler) gemäß § 11 Abs. 2 Nr. 3 des Lastenausgleichsgesetzes spätestens sechs Monate nach dem Zeitpunkt, in dem sie die zur Zeit unter fremder Verwaltung stehenden deutschen Ostgebiete oder das Gebiet desjenigen Staates, aus dem sie vertrieben oder ausgesiedelt worden sind, verlassen haben; hierbei werden solche Zeiten nicht mitgerechnet, in denen ein Vertriebener nach Verlassen eines der in § 11 Abs. 2 Nr. 3 des Lastenausgleichsgesetzes bezeichneten Staaten, aus dem er vertrieben oder ausgesiedelt worden ist, in einem anderen der dort bezeichneten Staaten sich aufgehalten hat, ferner nicht solche Zeiten, in denen er oder ein mit ihm ausgesiedelter Familienangehöriger im Anschluß an die Aussiedlung erkrankt und infolgedessen zur Fortsetzung der Reise außerstande war, sowie solche Zeiten, in denen er oder ein mit ihm ausgesiedelter Familienangehöriger in der sowjetischen Besatzungszone oder im sowjetisch besetzten Sektor von Berlin aus Gründen, die er nicht zu vertreten hat, gewaltsam festgehalten worden ist; oder als Heimkehrer nach den Vorschriften des Heimkehrergesetzes oder als Sowjetzonenflüchtlinge im Sinne des § 3 des Bundesvertriebenengesetzes oder im Wege der Familienzusammenführung mit einer Person, die schon am 31. Dezember 1952 im Geltungsbereich dieses Gesetzes den Wohnsitz oder ständigen Aufenthalt hatte oder unter Buchstaben a, b oder c oder unter Nummer 2a fällt. Als Familienzusammenführung gilt die Zusammenführungaa)von Ehegatten, bb)von minderjährigen Kindern zu den Eltern, cc)von hilfsbedürftigen Eltern zu Kindern, wobei auch Schwiegerkinder zu berücksichtigen sind, wenn das einzige oder letzte Kind verstorben oder verschollen ist, dd)von hilfsbedürftigen Großeltern zu Enkelkindern, ee)von volljährigen hilfsbedürftigen oder in Ausbildung stehenden Kindern zu den Eltern, ff)von minderjährigen Kindern zu den Großeltern, wenn die Eltern nicht mehr leben oder sich ihrer nicht annehmen können, gg)von Minderjährigen oder Hilfsbedürftigen zu Geschwistern, wenn Verwandte der geraden Linie nicht mehr leben oder sich ihrer nicht annehmen können. von Ehegatten, von minderjährigen Kindern zu den Eltern, von hilfsbedürftigen Eltern zu Kindern, wobei auch Schwiegerkinder zu berücksichtigen sind, wenn das einzige oder letzte Kind verstorben oder verschollen ist, von hilfsbedürftigen Großeltern zu Enkelkindern, von volljährigen hilfsbedürftigen oder in Ausbildung stehenden Kindern zu den Eltern, von minderjährigen Kindern zu den Großeltern, wenn die Eltern nicht mehr leben oder sich ihrer nicht annehmen können, von Minderjährigen oder Hilfsbedürftigen zu Geschwistern, wenn Verwandte der geraden Linie nicht mehr leben oder sich ihrer nicht annehmen können. Wer das 65. Lebensjahr vollendet hat, gilt als hilfsbedürftig.
 
 (2) Standen oder stehen zu dem in Absatz 1 bezeichneten Zeitpunkt Ansprüche der in § 5 bezeichneten Art einer Erbengemeinschaft oder ehelichen Gütergemeinschaft zu, so sind die Ansprüche auch dann zu erfüllen, wenn die Voraussetzungen des Absatzes 1 Nr. 1 bis 3 in der Person eines der Mitberechtigten gegeben sind.
 
@@ -134,17 +112,17 @@ gg)
 
 (3) Absatz 1 ist nicht anzuwenden bei
 
-1.
+1. Ansprüchen aus einer vor dem 1. August 1945 begangenen Vertragsverletzung,
 
-2.
+2. Ansprüchen, die daraus hergeleitet werden, daß eine auf Grund des Vertrages zurückzugebende Sache vor dem 1. August 1945 verändert oder verschlechtert worden oder untergegangen ist oder aus einem anderen vor dem 1. August 1945 eingetretenen Grunde nicht zurückgegeben werden kann.
 
 ### § 8 — Auflösung von Verträgen
 
 (1) Ist bei einem Vertrag der in § 7 Abs. 1 bezeichneten Art innerhalb der in § 7 Abs. 1 oder 2 bezeichneten Fristen erklärt worden, daß an dem Vertrag festgehalten werde, so kann der andere Vertragsteil von dem Vertrag zurücktreten, wenn und soweit ihm nach den Umständen die Erfüllung nicht zugemutet werden kann. Die Rücktrittserklärung kann gegenüber dem an dem Vertrag beteiligten Rechtsträger (§ 1 Abs. 1) oder dessen Vermögens- oder Aufgabennachfolger oder in jedem Fall gegenüber dem Bund abgegeben werden. Der Rücktritt kann nur innerhalb von drei Monaten erklärt werden. Die Frist beginnt
 
-1.
+1. mit dem Inkrafttreten dieses Gesetzes, wenn die Erklärung, daß an dem Vertrag festgehalten werde, vor dem Inkrafttreten dieses Gesetzes zugegangen ist,
 
-2.
+2. mit dem Zugang einer solchen Erklärung, wenn sie nach dem Inkrafttreten dieses Gesetzes zugegangen ist.
 
 (2) Ist bei einem Vertrag der in § 7 Abs. 1 bezeichneten Art nicht innerhalb der in § 7 Abs. 1 und 2 bezeichneten Fristen erklärt worden, daß an dem Vertrag festgehalten werde, so gilt der Vertrag als mit dem 31. Juli 1945 aufgelöst.
 
@@ -170,9 +148,9 @@ Ansprüche (§ 1) auf Nutzungsentschädigung, die auf einem vor dem 1. August 19
 
 Zu erfüllen sind
 
-1.
+1. Ansprüche (§ 1) auf Herausgabe von Vermögensgegenständen, die von den in § 1 Abs. 1 genannten Rechtsträgern für einen anderen verwahrt oder verwaltet worden sind, soweit die Vermögensgegenstände bei den Anspruchsschuldnern (§ 25) noch vorhanden sind;
 
-2.
+2. Ansprüche (§ 1) auf Schadensersatz, die auf einer Verletzung der in Nummer 1 bezeichneten Rechtsverhältnisse beruhen, soweit die zum Schadensersatz verpflichtende Handlung oder Unterlassung nach dem 31. Juli 1945 im Geltungsbereich dieses Gesetzes begangen worden ist.
 
 ### § 13 — Ansprüche auf Abgabe von Erklärungen
 
@@ -205,9 +183,9 @@ dieser Rechte
 
 (2) Ansprüche (§ 1), die auf einer sonstigen Beeinträchtigung oder Verletzung des Eigentums oder anderer Rechte an einer Sache oder an einem Recht beruhen, sind nur dann zu erfüllen,
 
-1.
+1. wenn die Erfüllung des Anspruchs zur Abwendung einer unmittelbaren Gefahr für Leben oder Gesundheit erforderlich ist oder
 
-2.
+2. wenn der Beeinträchtigung oder Verletzung eine nach dem 31. Juli 1945 begangene Handlung zugrunde liegt, es sei denn, daß die Beeinträchtigung oder Verletzung auf Veranlassung der Besatzungsmächte erfolgt ist. Bei einem Beseitigungsanspruch kann der Anspruchsschuldner (§ 25) den Anspruchsberechtigten in Geld entschädigen. Dies gilt jedoch nicht, wenn die Voraussetzungen der Nummer 1 vorliegen. Die Entschädigung soll den gemeinen Wert der Sache oder des Rechts nicht übersteigen, den diese ohne Beeinträchtigung haben würden.
 
 (3) Sonstige Ansprüche (§ 1) aus dem Eigentum oder anderen Rechten an einer Sache oder an einem Recht sind zu erfüllen. Dies gilt nicht für Ansprüche auf Zahlung von Geld oder auf Leistung einer sonstigen vertretbaren Sache, die vor dem 1. August 1945 fällig geworden sind.
 
@@ -217,9 +195,9 @@ dieser Rechte
 
 (1) Der Anspruchsschuldner (§ 25) kann, auch wenn ihm ein Recht zum Besitz nicht zusteht, die Herausgabe eines Grundstücks an den Berechtigten verweigern
 
-1.
+1. bis zum Ablauf eines Jahres nach dem Zeitpunkt, in dem der Berechtigte die Herausgabe des Grundstücks vom Schuldner verlangt. Ist der Herausgabeschuldner nicht der Bund, so beginnt die Frist auch dann, wenn der Berechtigte die Herausgabe anstatt vom Schuldner vom Bund verlangt;
 
-2.
+2. bis zur Beendigung eines Enteignungsverfahrens, das innerhalb der in Nummer 1 bezeichneten Frist nach § 22 beantragt wird.
 
 (2) Auf ein Besitzrecht, das nur auf einer vor dem 1. August 1945 vorgenommenen öffentlich-rechtlichen Inanspruchnahme beruht, kann sich der Anspruchsschuldner unbeschadet der Vorschrift des Absatzes 1 nicht berufen.
 
@@ -231,19 +209,19 @@ Ist streitig, ob ein Anspruch (§ 1) erfüllt ist, und sind die Beweismittel inf
 
 (1) Soweit ein Grundstück, das ein in § 1 Abs. 1 genannter Rechtsträger anders als auf Grund eines Kauf- oder Tauschvertrages in Besitz genommen hat, zum Wohle der Allgemeinheit benötigt wird, kann der Anspruchsschuldner (§ 25) die Enteignung nach den Vorschriften des Absatzes 2 innerhalb der in § 20 Abs. 1 Nr. 1 bezeichneten Frist beantragen.
 
-(2) Für die Enteignung gelten die Vorschriften des Zweiten und des Dritten Teils sowie der §§ 67, 68, 71, 73, 74 des Landbeschaffungsgesetzes vom 23. Februar 1957 (Bundesgesetzbl. I S. 134) sinngemäß mit folgender Maßgabe:
+(2) Für die Enteignung gelten die Vorschriften des Zweiten und des Dritten Teils sowie der §§ 67, 68, 71, 73,
 
-1.
+1. Abweichend von § 17 Abs. 3 des genannten Gesetzes ist für die Bemessung der Entschädigung der Zustand des Grundstücks in dem Zeitpunkt maßgebend, in dem ein in § 1 Abs. 1 genannter Rechtsträger das Grundstück in Besitz genommen hat. Ist der Zustand in dem Zeitpunkt schlechter, in dem die Enteignungsbehörde über den Antrag entscheidet, so ist er maßgebend, jedoch ist in diesem Fall eine zusätzliche Entschädigung für eine Wertminderung festzusetzen, die von den in § 1 Abs. 1 genannten oder mit der Verwaltung des Grundstücks betrauten Rechtsträgern nach dem 31. Juli 1945 verursacht worden ist, es sei denn, daß die Wertminderung von den Besatzungsmächten veranlaßt worden ist. Als Verschlechterung des Zustandes gilt nicht eine Veränderung des Grundstücks zu einem Zweck, für den das Grundstück im Zeitpunkt der Enteignung genutzt wird.
 
-2.
+2. Die in § 17 Abs. 4 des genannten Gesetzes vorgesehene Verzinsung beginnt mit dem Zeitpunkt, in dem der Enteignungsbeschluß erlassen wird.
 
-3.
+3. Die Entschädigung ist um bereits geleistete Wertentschädigungen zu mindern, und zwar, soweit sie vor dem 21. Juni 1948 geleistet worden sind, im Verhältnis von einer Reichsmark zu einer Deutschen Mark.
 
-4.
+4. Die Entschädigung kann auf Antrag ganz oder teilweise in Land festgesetzt werden, wenn diese Art der Entschädigung unter gerechter Abwägung der Interessen der Allgemeinheit und der Beteiligten nach pflichtmäßigem Ermessen der Enteignungsbehörde billig ist.
 
-5.
+5. Ist nach § 25 dieses Gesetzes ein anderer Rechtsträger als der Bund der Anspruchsschuldner und hat dieser die Enteignung beantragt, so gelten die Vorschriften des genannten Gesetzes, die den Bund erwähnen, statt für den Bund für diesen Rechtsträger.
 
-6.
+6. §§ 10, 11, 15, 16, 22, 30, 38 bis 42, 55, 57, 63 des genannten Gesetzes sind nicht anzuwenden.
 
 > § 22 Abs. 2 Kursivdruck: Jetzt statt § 74 LandbeschaffungsG 54-3 die Verwaltungsgerichtsordnung; VwGO 340-1
 
@@ -260,11 +238,11 @@ Ist ein Anspruch aus § 1004 des Bürgerlichen Gesetzbuchs im Falle der Beeintr�
 
 (1) In den Fällen der §§ 4 bis 24 ist Anspruchsschuldner der Bund.
 
-(2) Handelt es sich so ist Anspruchsschuldner dieser andere Rechtsträger. Treffen für einen Anspruch sowohl die Voraussetzungen des Satzes 1 Nr. 1 als auch die Voraussetzungen des Satzes 1 Nr. 2 zu und sind hiernach verschiedene Rechtsträger Anspruchsschuldner, so ist in ihrem Verhältnis zueinander der Rechtsträger allein verpflichtet, dessen Haftung sich aus Satz 1 Nr. 2 ergibt.
+(2) Handelt es sich
 
-1.
+1. um einen Anspruch, der in einem rechtlichen oder wirtschaftlichen Zusammenhang mit einem einzelnen Vermögensgegenstand steht, und ist dieser anders als durch Rechtsgeschäft in das Eigentum oder in die Verwaltung eines anderen öffentlichen Rechtsträgers als des Bundes übergegangen, oder
 
-2.
+2. um einen Anspruch, der im Rahmen von Verwaltungsaufgaben entstanden ist, die auf einen anderen öffentlichen Rechtsträger als den Bund übergegangen sind,
 
 (3) In den Fällen des Absatzes 2 kann auch vom Bund Erfüllung des Anspruchs verlangt werden, sofern dieser nicht das Vorliegen der in Absatz 2 bezeichneten Voraussetzungen nachweist.
 
@@ -278,11 +256,11 @@ Auf Grund der nach diesem Gesetz zu erfüllenden Ansprüche können Leistungen n
 
 (1) Anmeldestellen für die nach diesem Gesetz vom Bund zu erfüllenden Ansprüche sind
 
-1.
+1. das Bundesministerium der Finanzen oder eine von ihm zu bestimmende Behörde oder Anstalt seines Geschäftsbereichs, soweit es sich um Ansprüche gegen den Bund, das Deutsche Reich, das ehemalige Land Preußen oder das Unternehmen Reichsautobahnen handelt,
 
-2.
+2. das Bundeseisenbahnvermögen, soweit es sich um Ansprüche gegen die bisherigen Sondervermögen Deutsche Bundesbahn und Deutsche Reichsbahn handelt,
 
-3.
+3. die Bundesanstalt für Post und Telekommunikation Deutsche Bundespost oder die von ihr bestimmten Behörden, soweit es sich um Ansprüche gegen die Deutsche Bundespost oder die Deutsche Reichspost handelt.
 
 (2) Anmeldestellen für die nach diesem Gesetz von anderen als den in Absatz 1 genannten Rechtsträgern zu erfüllenden Ansprüche sind die zuständigen Dienststellen dieser Anspruchsschuldner.
 
@@ -290,15 +268,15 @@ Auf Grund der nach diesem Gesetz zu erfüllenden Ansprüche können Leistungen n
 
 ### § 28 — Anmeldefrist, Nachsichtgewährung
 
-(1) Die in §§ 4, 5, 9, 10, 11, 12 Nr. 2 und § 19 Abs. 2 bezeichneten Ansprüche können nur innerhalb einer Frist von einem Jahr nach dem Inkrafttreten dieses Gesetzes angemeldet werden. In Abweichung hiervon beginnt die Frist, Die Frist gilt auch dann als gewahrt, wenn der Anspruch innerhalb der Frist bei einer unzuständigen Dienststelle im Geltungsbereich dieses Gesetzes angemeldet wird. Einer Anmeldung innerhalb der Frist bedarf es nicht, wenn der Anspruchsschuldner (§ 25) nach dem 31. Juli 1945 auf die Ansprüche Teilleistungen gewährt hat.
+(1) Die in §§ 4, 5, 9, 10, 11, 12 Nr. 2 und § 19 Abs. 2 bezeichneten Ansprüche können nur innerhalb einer Frist von einem Jahr nach dem Inkrafttreten dieses Gesetzes angemeldet werden. In Abweichung hiervon beginnt die Frist,
 
-1.
+1. wenn der Anspruch nach dem Inkrafttreten dieses Gesetzes entsteht, mit seiner Entstehung;
 
-2.
+2. in den Fällen des § 6 Abs. 1 Nr. 3 mit dem Zeitpunkt, in dem der Wohnsitz oder ständige Aufenthalt begründet worden ist, jedoch nicht vor dem Inkrafttreten des Reparationsschädengesetzes vom 12. Februar 1969 (Bundesgesetzbl. I S. 105);
 
-3.
+3. in den Fällen des § 6 Abs. 1 Nr. 2 mit dem Zeitpunkt, in dem nach Inkrafttreten dieses Gesetzes der Beitritt zum Abkommen vom 27. Februar 1953 über deutsche Auslandsschulden wirksam wird;
 
-4.
+4. in den Fällen des § 6 Abs. 1 Nr. 2a mit dem Inkrafttreten des Reparationsschädengesetzes.
 
 (2) War der Antragsteller ohne sein Verschulden verhindert, die Anmeldefrist einzuhalten, so ist ihm auf Antrag Nachsicht zu gewähren. Nach Ablauf eines Jahres, von dem Ende der versäumten Frist an gerechnet, kann Nachsichtgewährung nicht mehr beantragt werden.
 
@@ -383,9 +361,9 @@ Dividendenabgabeverordnung gebildeten Sondervermögen
 
 (2) Bei der Ausschüttung sind nicht zu berücksichtigen
 
-1.
+1. Gesellschaftsanteile, für die Gewinnbeträge an den Anleihestock oder das Treuhandvermögen nicht abgeführt worden sind, soweit die Anteile im Zeitpunkt des Ausschüttungsbeschlusses - unbeschadet einer Gesamtrechtsnachfolge - Gesellschaftern zustehen, die damals von der Begrenzung der Gewinnausschüttung nicht betroffen waren;
 
-2.
+2. Gesellschaftsanteile, die im Zeitpunkt des Ausschüttungsbeschlusses der Kapitalgesellschaft gehören.
 
 (3) Die Kosten des Verfahrens (§ 63) sowie der Verwaltung und Verteilung des Anleihestocks und des Treuhandvermögens trägt die Gesellschaft.
 
@@ -452,11 +430,11 @@ staatenloser Gläubiger
 
 (1) Die in § 27 Abs. 3 genannten Personen können auf Grund von Ansprüchen, für deren Anmeldung nach § 28 Abs. 1 eine Frist vorgesehen ist, bis zum Ablauf der in § 102 Abs. 1 bezeichneten Frist nur Klage auf Feststellung des angemeldeten Anspruchs erheben. Das Gericht hat in jedem Fall zu prüfen, ob der dem Erfüllungsverlangen zugrunde liegende Anspruch (§ 1) besteht oder bis zum Inkrafttreten dieses Gesetzes bestanden hat. Das Gericht hat auf Antrag des Beklagten gleichzeitig zu prüfen und darüber zu entscheiden,
 
-1.
+1. ob der Anspruch nicht unter Artikel 5 des Abkommens vom 27. Februar 1953 über deutsche Auslandsschulden fällt,
 
-2.
+2. ob die in § 28 vorgesehene Frist gewahrt oder die dort bezeichneten Voraussetzungen für eine Nachsichtgewährung gegeben sind und
 
-3.
+3. ob der Anspruch nicht unter § 3 und § 105 fällt.
 
 (2) Absatz 1 ist nicht anzuwenden, wenn der ausländische Staat vor Ablauf der Frist (§ 102 Abs. 1) erklärt hat, daß er nicht beabsichtige, ein Abkommen über eine pauschale Abgeltung abzuschließen.
 
@@ -489,33 +467,33 @@ Die Verwaltungsbehörden und Gerichte, die öffentlich-rechtlichen Körperschaft
 
 ### § 109 — Sondervorschriften für Berlin
 
-Die Vorschriften dieses Gesetzes gelten im Land Berlin mit der Maßgabe, daß treten.
+Die Vorschriften dieses Gesetzes gelten im Land Berlin mit der Maßgabe, daß
 
-1.
+1. in § 3 Abs. 1 Nr. 5 an Stelle des § 24 Abs. 5 des Umstellungsgesetzes Artikel 21 Nr. 53 der Umstellungsverordnung,
 
-2.
+2. in § 18 an Stelle des § 14 des Umstellungsgesetzes Artikel 12 der Umstellungsverordnung,
 
-3.
+3. in § 27 an Stelle der Oberfinanzdirektion der Präsident des Landesfinanzamtes Berlin (Sondervermögens- und Bauverwaltung),
 
-4.
+4. in § 32 an Stelle des 20. Juni 1948 der 24. Juni 1948,
 
-5.
+5. in § 87 an Stelle des 21. Juni 1948 der 25. Juni 1948,
 
-6.
+6. in § 97 an Stelle des § 24 des Umstellungsgesetzes die entsprechenden Vorschriften des Artikels 21 der Umstellungsverordnung
 
 ### § 110 — Sondervorschriften wegen des Saarlandes
 
-(1) Dieses Gesetz gilt wegen der besonderen Verhältnisse im Saarland mit folgender Maßgabe: 6.
+(1) Dieses Gesetz gilt wegen der besonderen Verhältnisse im Saarland mit folgender Maßgabe:
 
-1.
+1. ...
 
-2.
+2. ...
 
-3.
+3. In Ergänzung des § 32 Abs. 1 Nr. 3 werden nicht abgelöst Ansprüche der in § 30 bezeichneten Art, die am 15. November 1947 Geldinstituten und Versicherungs- und Rückversicherungsunternehmen und Bausparkassen zugestanden haben, die ihren Sitz oder den Ort ihrer Geschäftsleitung zu diesem Zeitpunkt im Saarland hatten.
 
-4.
+4. Kammer für Wertpapierbereinigung im Sinne dieses Gesetzes ist im Saarland die Kammer für Handelssachen beim Landgericht Saarbrücken.
 
-5.
+5. §§ 87 bis 91 finden im Saarland keine Anwendung.
 
 (2) Soweit die Anwendung des Gesetzes durch Absatz 1 ausgeschlossen wird, bleibt eine besondere gesetzliche Regelung vorbehalten, wenn dies die Sach- und Rechtslage im Saarland erfordert.
 
@@ -528,5 +506,3 @@ Dieses Gesetz gilt nach Maßgabe der §§ 12, 13 Abs. 1 des Dritten Überleitung
 Das Gesetz tritt am ersten Tage des zweiten Monats nach seiner Verkündung in Kraft.
 
 ### Anlage — (zu § 30)
-
-Fundstelle des Originaltextes: BGBl. Teil III 653-1, S. 50 - 52

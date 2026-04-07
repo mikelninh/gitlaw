@@ -27,4 +27,6 @@ Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung die
 
 ### Art 5
 
-(1) Dieses Gesetz tritt am Tage nach seine Verkündung in Kraft.(2) Der Tag, an dem das Protokoll nach seinem Artikel 8 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
+(1) Dieses Gesetz tritt am Tage nach seine Verkündung in Kraft.
+
+(2) Der Tag, an dem das Protokoll nach seinem Artikel 8 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.

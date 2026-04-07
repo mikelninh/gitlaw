@@ -32,15 +32,13 @@ Der Verpflichtete hat die Biokraftstoffeigenschaft nachzuweisen. Der Nachweis is
 
 ### § 5 — Klimatisch abhängige Anforderungen für beigemischte Fettsäuremethylester (FAME)
 
-Wird FAME Dieselkraftstoff beigemischt, gelten abweichend von § 37b Absatz 2 des Bundes-Immissionsschutzgesetzes in Verbindung mit § 5 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen vom 8. Dezember 2010 (BGBl. I S. 1849), die durch Artikel 1 der Verordnung vom 1. Dezember 2014 (BGBl. I S. 1890) geändert worden ist, die in der DIN EN 14214, Ausgabe April 2010, im Nationalen Anhang NB unter Punkt 3 geregelten klimatisch abhängigen Anforderungen für den FAME-Anteil mit der Maßgabe, dass für den Zeitraum vom 16. November eines Jahres bis zum 28. Februar, in Schaltjahren bis zum 29. Februar, des Folgejahres der CFPP-Wert höchstens -10 Grad C beträgt; der FAME-Anteil muss jedoch so beschaffen sein, dass durch Hinzufügung geeigneter Additive ein CFPP-Wert von -20 Grad C erreicht werden könnte. Der Verpflichtete hat dies der nach § 8 zuständigen Stelle auf deren Verlangen durch eine entsprechende Bescheinigung des Herstellers oder mit Zustimmung der nach § 8 zuständigen Stelle in anderer geeigneter Form nachzuweisen.
-
 ### § 6 — Mitteilungspflichten des Dritten
 
 Der Dritte hat der nach § 8 zuständigen Stelle die nach § 37c Absatz 1 Satz 4 bis 6 des Bundes-Immissionsschutzgesetzes erforderlichen Angaben bis zum 15. April des Jahres, das auf die Entstehung der Quotenverpflichtung folgt, mitzuteilen. Auf Verlangen der nach § 8 zuständigen Stelle ist diese Mitteilung durch die Vorlage der in § 3 Absatz 2 genannten Aufzeichnungen zu belegen.
 
 ### § 7 — Bagatellgrenze
 
-Die Verpflichtung nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 des Bundes-Immissionsschutzgesetzes entsteht erst, wenn im Laufe eines Verpflichtungsjahres insgesamt mindestens 5 000 Liter Otto- und Dieselkraftstoffe, die nach § 2 Absatz 1 Nummer 1 und 4 des Energiesteuergesetzes zu versteuern sind, in Verkehr gebracht werden. Satz 1 gilt entsprechend, wenn ausschließlich Ottokraftstoff oder ausschließlich Dieselkraftstoff in Verkehr gebracht wird.
+Die Verpflichtung nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 des Bundes-Immissionsschutzgesetzes entsteht erst, wenn im Laufe eines Verpflichtungsjahres insgesamt mindestens 5 000 Liter Otto- und Dieselkraftstoffe, die nach § 2 Absatz 1 Nummer 1 und 4 des Energiesteuergesetzes zu versteuern sind, in Verkehr gebracht werden. Satz 1 gilt entsprechend, wenn ausschließlich Ottokraftstoff oder ausschließlich Dieselkraftstoff in Verkehr gebracht wird.
 
 ### § 8 — Zuständige Stelle
 
@@ -54,11 +52,11 @@ Zuständige Stelle im Sinne des § 37d Absatz 1 Satz 1 des Bundes-Immissionsschu
 
 (3) Sofern Biokraftstoffe aus pflanzlichen Fetten oder Ölen, die zum Braten oder Frittieren von Speisen verwendet worden sind, hergestellt wurden, die in Folge ihrer üblichen Verwendung zum Frittieren oder Braten von tierischen Produkten einen Anteil an tierischen Fetten oder Ölen enthalten, finden die Vorgaben von § 37b Absatz 8 Satz 1 Nummer 3 des Bundes-Immissionsschutzgesetzes in Bezug auf diese Biokraftstoffe keine Anwendung.
 
-(4) Sofern Biokraftstoffe durch anaerobe Vergärung hergestellt worden sind und der Betrieb, in dem die Stoffe angefallen sind, nachweislich kein Entgelt für die Abgabe dieser Stoffe erhalten hat, finden die Vorgaben von § 37b Absatz 8 Satz 1 Nummer 3 des Bundes-Immissionsschutzgesetzes in Bezug auf diese Biokraftstoffe keine Anwendung. Satz 1 gilt nur, sofern die tierischen Fette oder Öle den Abfällen oder den getrennt erfassten Bioabfällen nicht zielgerichtet zum Zwecke der Anrechenbarkeit zugefügt wurden. Die Einhaltung der Voraussetzungen nach den Sätzen 1 und 2 ist durch eine Herstellererklärung im Nachweis nach § 14 der Biokraftstoff-Nachhaltigkeitsverordnung nachzuweisen. Die nach § 8 Halbsatz 1 zuständige Stelle, die Zertifizierungsstelle, die ihr das Zertifikat nach § 25 der Biokraftstoff-Nachhaltigkeitsverordnung ausgestellt hat, sowie die Bundesanstalt für Landwirtschaft und Ernährung können verlangen, dass der Betreiber der Biogasanlage ihnen innerhalb einer angemessenen Frist Belege über die Einhaltung der Voraussetzungen nach den Sätzen 1 und 2 zur Verfügung stellt.
+(4) Sofern Biokraftstoffe durch anaerobe Vergärung
 
-1.
+1. von Abfällen, die tierische Fette oder Öle enthalten, und die unter die Abfallschlüssel 02 01 06, 02 02 04, 02 05 02, 02 06 01, 02 06 03, 07 01 99, 19 08 09, 20 01 08, 20 01 25 oder 20 03 02 der Anlage der Abfallverzeichnis-Verordnung vom 10. Dezember 2001 (BGBl. I S. 3379), die zuletzt durch Artikel 1 der Verordnung vom 4. März 2016 (BGBl. I S. 382) geändert worden ist, fallen, oder
 
-2.
+2. von getrennt erfassten Bioabfällen, die tierische Fette oder Öle enthalten, im Sinne des § 2 Nummer 1 in Verbindung mit Anhang 1 Nummer 1 Buchstabe a Spalte 2 und 3 der Bioabfallverordnung in der Fassung der Bekanntmachung vom 4. April 2014 (BGBl. I S. 658), die durch Artikel 5 der Verordnung vom 5. Dezember 2013 (BGBl. I S. 4043) geändert worden ist, zum Abfallschlüssel 20 03 01 der Anlage der Abfallverzeichnis-Verordnung
 
 ### § 10 — Zugänglichkeit der DIN-Normen
 
@@ -69,7 +67,3 @@ DIN-Normen, auf die in dieser Verordnung verwiesen wird, sind im Beuth Verlag Gm
 Die in § 37a Absatz 4 Satz 2 des Bundes-Immissionsschutzgesetzes genannten Prozentsätze für das Kalenderjahr 2024 und die nachfolgenden Kalenderjahre werden um jeweils 0,1 Prozentpunkte angehoben.
 
 ### Anlage — (zu § 4)
-
-(Fundstelle: BGBl. I 2011, 1106 - 1107;
-
-Auf Verlangen der nach § 8 zuständigen Stelle hat der Verpflichtete Proben auf folgende Parameter der jeweils für das Energieerzeugnis gemäß § 37b des Bundes-Immissionsschutzgesetzes in Verbindung mit den Vorschriften der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen geltenden Norm zu untersuchen:

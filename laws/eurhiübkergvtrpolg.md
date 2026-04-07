@@ -16,4 +16,6 @@ Rechtshilfeersuchen polnischer Behörden, denen eine Zuwiderhandlung zugrunde li
 
 ### Art 3
 
-(1) Dieses Gesetz tritt mit Ausnahme des Artikels 2 am Tag nach seiner Verkündung in Kraft. Artikel 2 tritt zusammen mit dem Vertrag in Kraft.(2) Der Tag, an dem der Vertrag nach seinem Artikel 28 Abs. 1 Satz 2 in Kraft tritt, ist im Bundesgesetzblatt bekannt zu geben.
+(1) Dieses Gesetz tritt mit Ausnahme des Artikels 2 am Tag nach seiner Verkündung in Kraft. Artikel 2 tritt zusammen mit dem Vertrag in Kraft.
+
+(2) Der Tag, an dem der Vertrag nach seinem Artikel 28 Abs. 1 Satz 2 in Kraft tritt, ist im Bundesgesetzblatt bekannt zu geben.

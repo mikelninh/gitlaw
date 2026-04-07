@@ -7,13 +7,9 @@
 
 ### Präambel
 
-sowie die  schließen nachstehenden Staatsvertrag:
-
 ### Art 1 — Änderung des Vertrags über die Errichtung des IT-Planungsrats und über die Grundlagen der Zusammenarbeit beim Einsatz der Informationstechnologie in den Verwaltungen von Bund und Ländern – Vertrag zur Ausführung von Artikel 91c GG
 
 ### Art 2 — Bekanntmachungserlaubnis
-
-Der Bund und die Länder können den Wortlaut des IT-Staatsvertrags in der am Tag des Inkrafttretens nach Artikel 3 Absatz 1 Satz 1 geltenden Fassung im Bundesgesetzblatt und in den jeweiligen Landesgesetzblättern bekannt machen.
 
 ### Art 3 — Inkrafttreten
 

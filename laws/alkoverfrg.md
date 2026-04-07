@@ -34,11 +34,11 @@ Schiffe von geringerem als 500 Registertonnen Nettoraumgehalt, die einem Staat a
 
 Die Ausreise der in § 3 bezeichneten Schiffe aus dem Geltungsbereich dieses Gesetzes darf nur erfolgen,
 
-1.
+1. wenn offensichtlich kein Schmuggelhandel vorliegt,
 
-2.
+2. wenn der Kapitän des Schiffes, der Stellvertreter des Kapitäns oder der Ablader der alkoholischen Waren schriftlich erklärt hat, daß die an Bord des Schiffes verladenen alkoholischen Waren rechtmäßig ausgeführt oder sonst aus dem Geltungsbereich dieses Gesetzes verbracht und tatsächlich am Bestimmungsort nach den dort gültigen Bestimmungen eingeführt werden sollen und
 
-3.
+3. wenn die in § 6 vorgeschriebenen Nachweise über die frühere Ausfuhr von alkoholischen Waren geführt sind.
 
 ### § 6
 
@@ -58,9 +58,9 @@ Die zur Durchführung der §§ 2 bis 6 erforderlichen Maßnahmen sind von den Re
 
 (1) Ordnungswidrig handelt, wer als Kapitän oder Stellvertreter des Kapitäns
 
-1.
+1. entgegen § 2 alkoholische Waren befördert, ausführt oder sonst aus dem Geltungsbereich dieses Gesetzes verbringt oder
 
-2.
+2. entgegen § 3 ohne schriftliche Genehmigung der zuständigen Behörde oder entgegen § 5 Nr. 2 ohne schriftliche Erklärung einer dort bezeichneten Person alkoholische Waren ausführt oder sonst aus dem Geltungsbereich dieses Gesetzes verbringt.
 
 (2) Die Ordnungswidrigkeit und der Versuch einer Ordnungswidrigkeit können in den Fällen des Absatzes 1 Nr. 1 mit einer Geldbuße bis zu 10.000 Deutsche Mark, in den Fällen des Absatzes 1 Nr. 2 mit einer Geldbuße bis zu 5.000 Deutsche Mark geahndet werden.
 

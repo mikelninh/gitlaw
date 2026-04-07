@@ -13,13 +13,13 @@ Nach § 108 Absatz 5 Satz 1, § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 d
 
 Die Bearbeitung folgender Angelegenheiten der Beamtinnen und Beamten des Bundesamts für kerntechnische Entsorgung wird dem Bundesverwaltungsamt übertragen:
 
-1.
+1. Besoldungsangelegenheiten,
 
-2.
+2. Beihilfe,
 
-3.
+3. Unfallfürsorge nach dem Beamtenversorgungsgesetz,
 
-4.
+4. Geltendmachung von Schadenersatzansprüchen nach § 76 Satz 1 des Bundesbeamtengesetzes.
 
 ### § 2 — Entscheidung über Widersprüche
 

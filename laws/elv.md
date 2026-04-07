@@ -18,17 +18,11 @@
 
 (2) Als Extraktionslösungsmittel werden zugelassen:
 
-1.
+1. a)destilliertes und demineralisiertes Wasser,b)Wasser, dem Lebensmittelzusatzstoffe zur Regulierung der Azidität oder Alkalität zugesetzt wurden,c)die in Anlage 1 aufgeführten Stoffezur allgemeinen Verwendung unter Einhaltung der nach redlichem Herstellerbrauch üblichen Verfahren; diese gelten als eingehalten, wenn die Stoffe aus dem Lebensmittel vollständig oder soweit entfernt werden, dass Rückstände oder Umwandlungsprodukte nur in technisch unvermeidbaren Resten vorhanden sind, die keine Gefahr für die menschliche Gesundheit darstellen, destilliertes und demineralisiertes Wasser, Wasser, dem Lebensmittelzusatzstoffe zur Regulierung der Azidität oder Alkalität zugesetzt wurden, die in Anlage 1 aufgeführten Stoffe
 
-a)
+2. die in Anlage 2 aufgeführten Stoffe für die dort genannten Verwendungszwecke,
 
-b)
-
-c)
-
-2.
-
-3.
+3. die in Anlage 3 aufgeführten Stoffe für die Herstellung von Aromen aus natürlichen Aromaträgern.
 
 (3) Ferner dürfen Wasser, Ethanol und andere Lebensmittel, die Lösungsmitteleigenschaften haben, als Extraktionslösungsmittel verwendet werden.
 
@@ -46,15 +40,15 @@ Die in den Anlagen 2 und 3 aufgeführten Stoffe dürfen als Extraktionslösungsm
 
 (1) Die in den Anlagen 1 bis 3 aufgeführten Stoffe sowie Ethanol dürfen, sofern sie zur Verwendung als Extraktionslösungsmittel bestimmt sind, nur in den Verkehr gebracht werden, wenn angegeben sind:
 
-1.
+1. die Verkehrsbezeichnung des Stoffes gemäß den Anlagen, bei Ethanol die Verkehrsbezeichnung „Ethanol“,
 
-2.
+2. der Hinweis, dass der Stoff für die Extraktion von Lebensmitteln geeignet ist,
 
-3.
+3. eine Angabe zur Identifizierung der Partie,
 
-4.
+4. der Name oder die Firma und die Anschrift des Herstellers, des Verpackers oder eines in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum niedergelassenen Verkäufers,
 
-5.
+5. erforderlichenfalls Anweisungen für die Aufbewahrung und Verwendung.
 
 (2) Die Angaben nach Absatz 1 sind auf der Packung, dem Behältnis oder einem damit verbundenen Etikett leicht erkennbar, deutlich lesbar und unverwischbar anzubringen. Bei den Angaben nach Absatz 1 Nummer 3, 4 und 5 genügt die Angabe in den Begleitpapieren.
 
@@ -83,8 +77,6 @@ Distickstoffmonoxid
 ### Anlage 2 — (zu § 2 Absatz 2 Nummer 2 und § 3)
 
 ### Anlage 3 — (zu § 2 Absatz 2 Nummer 3 und § 3)
-
-Für den vorgenannten Zweck dürfen außer den in § 2 Absatz 2 Nummer 1 und Absatz 3 bezeichneten Stoffen die nachgenannten Stoffe verwendet werden.
 
 ### Anlage 4 — (zu § 4 Absatz 1)
 

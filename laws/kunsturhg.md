@@ -14,7 +14,17 @@ Bildnisse dürfen nur mit Einwilligung des Abgebildeten verbreitet oder öffentl
 
 ### § 23
 
-(1) Ohne die nach § 22 erforderliche Einwilligung dürfen verbreitet und zur Schau gestellt werden: 1.Bildnisse aus dem Bereiche der Zeitgeschichte; 2.Bilder, auf denen die Personen nur als Beiwerk neben einer Landschaft oder sonstigen Örtlichkeit erscheinen; 3.Bilder von Versammlungen, Aufzügen und ähnlichen Vorgängen, an denen die dargestellten Personen teilgenommen haben; 4.Bildnisse, die nicht auf Bestellung angefertigt sind, sofern die Verbreitung oder Schaustellung einem höheren Interesse der Kunst dient. (2) Die Befugnis erstreckt sich jedoch nicht auf eine Verbreitung und Schaustellung, durch die ein berechtigtes Interesse des Abgebildeten oder, falls dieser verstorben ist, seiner Angehörigen verletzt wird.
+(1) Ohne die nach § 22 erforderliche Einwilligung dürfen verbreitet und zur Schau gestellt werden:
+
+1. Bildnisse aus dem Bereiche der Zeitgeschichte;
+
+2. Bilder, auf denen die Personen nur als Beiwerk neben einer Landschaft oder sonstigen Örtlichkeit erscheinen;
+
+3. Bilder von Versammlungen, Aufzügen und ähnlichen Vorgängen, an denen die dargestellten Personen teilgenommen haben;
+
+4. Bildnisse, die nicht auf Bestellung angefertigt sind, sofern die Verbreitung oder Schaustellung einem höheren Interesse der Kunst dient.
+
+(2) Die Befugnis erstreckt sich jedoch nicht auf eine Verbreitung und Schaustellung, durch die ein berechtigtes Interesse des Abgebildeten oder, falls dieser verstorben ist, seiner Angehörigen verletzt wird.
 
 ### § 24
 
@@ -24,7 +34,9 @@ Für Zwecke der Rechtspflege und der öffentlichen Sicherheit dürfen von den Be
 
 ### § 33
 
-(1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer entgegen den §§ 22, 23 ein Bildnis verbreitet oder öffentlich zur Schau stellt.(2) Die Tat wird nur auf Antrag verfolgt.
+(1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer entgegen den §§ 22, 23 ein Bildnis verbreitet oder öffentlich zur Schau stellt.
+
+(2) Die Tat wird nur auf Antrag verfolgt.
 
 ### § 34
 
@@ -40,7 +52,9 @@ Für Zwecke der Rechtspflege und der öffentlichen Sicherheit dürfen von den Be
 
 ### § 37
 
-(1) Die widerrechtlich hergestellten, verbreiteten oder vorgeführten Exemplare und die zur widerrechtlichen Vervielfältigung oder Vorführung ausschließlich bestimmten Vorrichtungen, wie Formen, Platten, Steine, unterliegen der Vernichtung. Das gleiche gilt von den widerrechtlich verbreiteten oder öffentlich zur Schau gestellten Bildnissen und den zu deren Vervielfältigung ausschließlich bestimmten Vorrichtungen. Ist nur ein Teil des Werkes widerrechtlich hergestellt, verbreitet oder vorgeführt, so ist auf Vernichtung dieses Teiles und der entsprechenden Vorrichtungen zu erkennen.(2) Gegenstand der Vernichtung sind alle Exemplare und Vorrichtungen, welche sich im Eigentume der an der Herstellung, der Verbreitung, der Vorführung oder der Schaustellung Beteiligten sowie der Erben dieser Personen befinden.(3) Auf die Vernichtung ist auch dann zu erkennen, wenn die Herstellung, die Verbreitung, die Vorführung oder die Schaustellung weder vorsätzlich noch fahrlässig erfolgt.Das gleiche gilt, wenn die Herstellung noch nicht vollendet ist.(4) Die Vernichtung hat zu erfolgen, nachdem dem Eigentümer gegenüber rechtskräftig darauf erkannt ist. Soweit die Exemplare oder die Vorrichtungen in anderer Weise als durch Vernichtung unschädlich gemacht werden können, hat dies zu geschehen, falls der Eigentümer die Kosten übernimmt.(5) (weggefallen)
+(4) Die Vernichtung hat zu erfolgen, nachdem dem Eigentümer gegenüber rechtskräftig darauf erkannt ist. Soweit die Exemplare oder die Vorrichtungen in anderer Weise als durch Vernichtung unschädlich gemacht werden können, hat dies zu geschehen, falls der Eigentümer die Kosten übernimmt.
+
+(5) (weggefallen)
 
 > § 37 Abs. 1 bis 3 Kursivdruck u. Abs. 5: Vgl. Fußnote zur Überschrift
 
@@ -66,7 +80,7 @@ Die Vernichtung der Exemplare und der Vorrichtungen kann im Wege des bürgerlich
 
 ### § 43
 
-(1) Auf die Vernichtung von Exemplaren oder Vorrichtungen kann auch im Strafverfahren nur auf besonderen Antrag des Verletzten erkannt werden. Die Zurücknahme des Antrags ist bis zur erfolgten Vernichtung zulässig.(2) Der Verletzte kann die Vernichtung von Exemplaren oder Vorrichtungen selbständig verfolgen. In diesem Falle finden die §§ 477 bis 479 der Strafprozeßordnung mit der Maßgabe Anwendung, daß der Verletzte als Privatkläger auftreten kann.
+(1) Auf die Vernichtung von Exemplaren oder Vorrichtungen kann auch im Strafverfahren nur auf besonderen Antrag des Verletzten erkannt werden. Die Zurücknahme des Antrags ist bis zur erfolgten Vernichtung zulässig.
 
 > § 43 Abs. 2 Kursivdruck: Vgl. jetzt §§ 430 bis 432 StPO 312-2
 
@@ -88,7 +102,7 @@ Die §§ 42, 43 finden auf die Verfolgung des in § 38 bezeichneten Rechtes ents
 
 ### § 48
 
-(1) Der Anspruch auf Schadensersatz und die Strafverfolgung wegen widerrechtlicher Verbreitung oder Vorführung eines Werkes sowie die Strafverfolgung wegen widerrechtlicher Verbreitung oder Schaustellung eines Bildnisses verjähren in drei Jahren.(2) Die Verjährung beginnt mit dem Tage, an welchem die widerrechtliche Handlung zuletzt stattgefunden hat.
+(2) Die Verjährung beginnt mit dem Tage, an welchem die widerrechtliche Handlung zuletzt stattgefunden hat.
 
 > § 48 Abs. 1 Kursivdruck: Vgl. Fußnote zur Überschrift
 
@@ -118,4 +132,6 @@ Der Antrag auf Vernichtung der Exemplare und der Vorrichtungen ist so lange zul�
 
 ### § 55
 
-(1) Das Gesetz tritt mit dem 1. Juli 1907 in Kraft.(2) (Aufhebungsvorschrift)
+(1) Das Gesetz tritt mit dem 1. Juli 1907 in Kraft.
+
+(2) (Aufhebungsvorschrift)

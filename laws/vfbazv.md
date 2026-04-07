@@ -16,15 +16,31 @@ Der für die Höhe der regelmäßigen Zuweisungen nach § 366a Absatz 2 Nummer 1
 
 ### § 2 — Verrechnung
 
-(1) Die Höhe der regelmäßigen Zuweisungen (Zahlungsbetrag) berechnet sich nach folgender Formel: ZB = SBE x ZS + EBet – VA.In dieser Formel bedeutet: ZB:Zahlungsbetrag in Euro,SBE:Summe der im Vorquartal gezahlten ruhegehaltfähigen Dienstbezüge und Entgelte in Euro,ZS:zum Zahlungstermin (§ 3 Absatz 1) geltender Zuweisungssatz in Prozent,EBet:im Vorquartal erzielte Einnahmen aus der Beteiligung anderer Dienstherren an den Versorgungsausgaben der Bundesagentur für Arbeit in Euro,VA:Versorgungsausgaben im Vorquartal in Euro.(2) Ergibt sich ein negativer Zahlungsbetrag, so ist er durch eine Zahlung aus dem Sondervermögen an die Bundesagentur für Arbeit auszugleichen.
+(1) Die Höhe der regelmäßigen Zuweisungen (Zahlungsbetrag) berechnet sich nach folgender Formel: In dieser Formel bedeutet:
+
+ZB:
+
+S
+
+ZS:
+
+E
+
+VA:
+
+(2) Ergibt sich ein negativer Zahlungsbetrag, so ist er durch eine Zahlung aus dem Sondervermögen an die Bundesagentur für Arbeit auszugleichen.
 
 ### § 3 — Zahlverfahren
 
-(1) Die Zahlung des nach § 2 ermittelten Betrages erfolgt quartalsweise jeweils am vorletzten Werktag im ersten Monat eines Quartals.(2) Die weiteren Einzelheiten des Zahlverfahrens vereinbaren die Bundesagentur für Arbeit und die Deutsche Bundesbank.
+(1) Die Zahlung des nach § 2 ermittelten Betrages erfolgt quartalsweise jeweils am vorletzten Werktag im ersten Monat eines Quartals.
+
+(2) Die weiteren Einzelheiten des Zahlverfahrens vereinbaren die Bundesagentur für Arbeit und die Deutsche Bundesbank.
 
 ### § 4 — Revision
 
-(1) Die Bundesagentur für Arbeit überprüft erstmals bis zum 30. September 2008 und danach alle drei Jahre bis zum 30. Juni des jeweiligen Jahres die Höhe des Fondsguthabens und die Höhe des Zuweisungssatzes auf der Grundlage versicherungsmathematischer Berechnungen unter Berücksichtigung der jeweiligen Änderungen des Besoldungs- und Versorgungsrechts. Das Verfahren wird im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium der Finanzen festgelegt. Die Revisionsergebnisse werden im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium der Finanzen festgestellt.(2) Ergeben die nach Absatz 1 durchgeführten Revisionen eine Unter- oder eine Überfinanzierung des Fonds in Höhe von mindestens 250 Millionen Euro, ist der Zuweisungssatz im laufenden Haushaltsjahr, spätestens mit Wirkung ab dem folgenden Haushaltsjahr anzupassen.
+(1) Die Bundesagentur für Arbeit überprüft erstmals bis zum 30. September 2008 und danach alle drei Jahre bis zum 30. Juni des jeweiligen Jahres die Höhe des Fondsguthabens und die Höhe des Zuweisungssatzes auf der Grundlage versicherungsmathematischer Berechnungen unter Berücksichtigung der jeweiligen Änderungen des Besoldungs- und Versorgungsrechts. Das Verfahren wird im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium der Finanzen festgelegt. Die Revisionsergebnisse werden im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium der Finanzen festgestellt.
+
+(2) Ergeben die nach Absatz 1 durchgeführten Revisionen eine Unter- oder eine Überfinanzierung des Fonds in Höhe von mindestens 250 Millionen Euro, ist der Zuweisungssatz im laufenden Haushaltsjahr, spätestens mit Wirkung ab dem folgenden Haushaltsjahr anzupassen.
 
 ### § 5 — Inkrafttreten
 

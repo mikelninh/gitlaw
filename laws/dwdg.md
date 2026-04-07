@@ -32,31 +32,27 @@ Der Deutsche Wetterdienst untersteht der Dienst- und Fachaufsicht des Bundesmini
 
 ### § 4 — Aufgaben
 
-(1) Aufgaben des Deutschen Wetterdienstes sind Zu den amtlichen Warnungen nach Satz 1 Nummer 3 gehören die Informationen, die für die Allgemeinheit für das Verständnis der Warnungen erforderlich sind. Die Durchführung der Aufgabe nach Satz 1 Nummer 10 wird im Einzelnen in einer Verwaltungsvereinbarung zwischen dem Bundesministerium für Digitales und Verkehr und den zuständigen obersten Landesbehörden geregelt. Diese Vereinbarung kann auch im Einverständnis mit weiteren beteiligten Bundesministerien abgeschlossen werden.
+(1) Aufgaben des Deutschen Wetterdienstes sind
 
-1.
+1. die Erbringung meteorologischer und klimatologischer Dienstleistungen für die Allgemeinheit oder einzelne Kunden und Nutzer, insbesondere auf den Gebieten des Verkehrs, der gewerblichen Wirtschaft, der Land- und Forstwirtschaft, des Bauwesens, des Gesundheitswesens, der Wasserwirtschaft einschließlich des vorbeugenden Hochwasserschutzes, des Umwelt- und Naturschutzes und der Wissenschaft,
 
-2.
+2. die meteorologische Sicherung der Luft- und Seefahrt, der Verkehrswege sowie wichtiger Infrastrukturen, insbesondere der Energieversorgung und der Kommunikationssysteme,
 
-3.
+3. die Erstellung, die Herausgabe und die Verbreitung amtlicher Warnungen über Wettererscheinungen, a)die zu einer Gefahr für die öffentliche Sicherheit und Ordnung führen können oderb)die in Bezug zu drohenden Wetter- und Witterungsereignissen mit hohem Schadenspotenzial stehen, die zu einer Gefahr für die öffentliche Sicherheit und Ordnung führen können oder die in Bezug zu drohenden Wetter- und Witterungsereignissen mit hohem Schadenspotenzial stehen,
 
-a)
+4. die kurzfristige und langfristige Erfassung, Überwachung und Bewertung der meteorologischen Prozesse, Struktur und Zusammensetzung der Atmosphäre,
 
-b)
+5. die Erfassung der meteorologischen und klimatologischen Wechselwirkung zwischen der Atmosphäre und anderen Bereichen der Umwelt,
 
-4.
+6. die Analyse und Vorhersage der meteorologischen und klimatologischen Vorgänge sowie die Analyse und Projektion des Klimawandels und dessen Auswirkungen,
 
-5.
+7. die Überwachung der Atmosphäre auf radioaktive Spurenstoffe und die Vorhersage deren Verfrachtung,
 
-6.
+8. der Betrieb der erforderlichen Mess- und Beobachtungssysteme zur Erfüllung der in den Nummern 1 bis 7 genannten Aufgaben als Teil der Geodateninfrastruktur,
 
-7.
+9. die Bereithaltung, Archivierung, Dokumentierung und Abgabe meteorologischer und klimatologischer Geodaten und Dienstleistungen und
 
-8.
-
-9.
-
-10.
+10. die Herausgabe von Frühwarnungen, Lage- und Vorsorgeinformationen über Naturgefahren, die über die in Nummer 3 genannten Gefahren hinausgehen.
 
 (2) Zur Erfüllung seiner Aufgaben betreibt der Deutsche Wetterdienst wissenschaftliche Forschung im Bereich der Meteorologie, Klimatologie und verwandter Wissenschaften und wirkt bei der Entwicklung entsprechender Standards und Normen mit.
 
@@ -72,8 +68,6 @@ b)
 
 (1) Der Deutsche Wetterdienst erbringt seine Dienstleistungen in privatrechtlichen Handlungsformen, soweit dem andere Gesetze nicht entgegenstehen. Er ist berechtigt, sich an Ausschreibungsverfahren von Behörden um die Anbietung meteorologischer Leistungen zu beteiligen.
 
-(2) Der Deutsche Wetterdienst kann zur Erfüllung seiner Aufgaben mit Dritten zusammenarbeiten. Er ist berechtigt, in eigenem Namen zu diesem Zweck auch ein Unternehmen des Inlands zu gründen oder sich an der Gründung eines Unternehmens oder an einem bestehenden Unternehmen des Inlands und des Auslands zu beteiligen. Die §§ 65 bis 69 der Bundeshaushaltsordnung vom 19. August 1969 (BGBl. I S. 1284), zuletzt geändert durch Artikel 2 des Gesetzes vom 2. Mai 1996 (BGBl. I S. 656), gelten unmittelbar, wobei § 65 Abs. 1, einleitender Satzteil und Nummer 1 in der folgenden Fassung anzuwenden ist: "Der Deutsche Wetterdienst soll sich, außer in den Fällen des Absatzes 5, an der Gründung eines Unternehmens in einer Rechtsform des privaten Rechts oder an einem bestehenden Unternehmen in einer solchen Rechtsform nur beteiligen, wenn ein wichtiges Interesse des Deutschen Wetterdienstes vorliegt und sich der vom Deutschen Wetterdienst angestrebte Zweck nicht besser und wirtschaftlicher auf andere Weise erreichen läßt."
-
 (3) Eine Beurlaubung von Beschäftigten des Deutschen Wetterdienstes zur Tätigkeit in derartigen Unternehmen liegt im dienstlichen Interesse. Die Einzelheiten werden zwischen dem Bund und dem Unternehmen vereinbart. Die gegenüber dem betreffenden Beschäftigten mögliche Zusicherung der Berücksichtigung der Beurlaubungszeit als ruhegehaltfähige Dienstzeit nach § 6 Abs. 1 Satz 2 Nr. 5 des Beamtenversorgungsgesetzes in der Fassung der Bekanntmachung vom 16. Dezember 1994 (BGBl. I S. 3858), zuletzt geändert durch Artikel 6 des Gesetzes vom 24. März 1997 (BGBl. I S. 590, 592), ist von der Erhebung eines Versorgungszuschlages seitens des betreffenden Unternehmens abhängig zu machen.
 
 ### § 6 — Vergütungen
@@ -84,11 +78,11 @@ b)
 
 (2a) Sofern nicht auf Grund anderer gesetzlicher Regelungen eine Pflicht zur Entrichtung von Gebühren besteht, sind folgende Dienstleistungen des Deutschen Wetterdienstes entgeltfrei:
 
-1.
+1. jene an Bund, Länder und Gemeinden und Gemeindeverbände nach § 4 Absatz 4,
 
-2.
+2. jene an die Allgemeinheit nach § 4 Absatz 1 Satz 1 Nummer 3 und 7 zur öffentlichen Verbreitung sowie jene nach § 4 Absatz 1 Satz 1 Nummer 10 zur Herausgabe an die Öffentlichkeit,
 
-3.
+3. die Bereitstellung von Geodaten und Geodatendiensten im Sinne des § 3 Absatz 1 und 3 des Geodatenzugangsgesetzes im Geoportal der nationalen Geodateninfrastruktur.
 
 (3) (weggefallen)
 
@@ -98,13 +92,13 @@ b)
 
 (6) Im Sinne des Absatzes 2 sind
 
-1.
+1. meteorologische Daten das unmittelbare Ergebnis der unterschiedlichen Meß- und Beobachtungssysteme;
 
-2.
+2. meteorologische Produkte bearbeitete meteorologische Daten. Sie entstehen entweder manuell oder durch Eingabe in computergesteuerte Verfahren. Für ihre Interpretation ist grundsätzlich meteorologisches Fachwissen erforderlich;
 
-3.
+3. meteorologische Spezialdienstleistungen die Weiterverarbeitung von Daten und Produkten. Sie dienen der Erfüllung spezieller Anforderungen von Kunden und Nutzern;
 
-4.
+4. Dienstleistungen Daten, Produkte und Spezialdienstleistungen, die der Deutsche Wetterdienst an Dritte abgibt.
 
 (7) Der Deutsche Wetterdienst ist verpflichtet, in regelmäßigen Abständen die Einhaltung der Verpflichtungen nach den Absätzen 2 und 4 durch einen unabhängigen Wirtschaftsprüfer nachzuweisen.
 

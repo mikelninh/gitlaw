@@ -17,49 +17,49 @@ Es wird ein Bundesministerium für Digitales und Staatsmodernisierung gebildet.
 
 Es erhalten
 
-1.
+1. das Bundesministerium für Wirtschaft und Klimaschutz die Bezeichnung Bundesministerium für Wirtschaft und Energie;
 
-2.
+2. das Bundesministerium des Innern und für Heimat die Bezeichnung Bundesministerium des Innern;
 
-3.
+3. das Bundesministerium der Justiz die Bezeichnung Bundesministerium der Justiz und für Verbraucherschutz;
 
-4.
+4. das Bundesministerium für Ernährung und Landwirtschaft die Bezeichnung Bundesministerium für Landwirtschaft, Ernährung und Heimat;
 
-5.
+5. das Bundesministerium für Familie, Senioren, Frauen und Jugend die Bezeichnung Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend;
 
-6.
+6. das Bundesministerium für Digitales und Verkehr die Bezeichnung Bundesministerium für Verkehr;
 
-7.
+7. das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz die Bezeichnung Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit;
 
-8.
+8. das Bundesministerium für Bildung und Forschung die Bezeichnung Bundesministerium für Forschung, Technologie und Raumfahrt.
 
 ### III.
 
 Dem Bundesministerium der Finanzen werden übertragen
 
-1.
+1. aus dem Geschäftsbereich des Bundeskanzleramtes die Zuständigkeit des Beauftragten der Bundesregierung für Ostdeutschland als Staatsministerin einschließlich des Arbeitsstabes;
 
-2.
+2. aus dem Geschäftsbereich des Bundesministeriums für Wirtschaft und Energie die Zuständigkeit für Transformationspolitik.
 
 ### IV.
 
 Dem Bundesministerium des Innern werden übertragen
 
-1.
+1. aus dem Geschäftsbereich des Beauftragten der Bundesregierung für Kultur und Medien die Zuständigkeiten für die Kultur und Geschichte der Deutschen im östlichen Europa einschließlich der Stiftung Flucht, Vertreibung, Versöhnung sowie für die Kulturförderung autochthoner Minderheiten;
 
-2.
+2. aus dem Geschäftsbereich des Auswärtigen Amtes die Zuständigkeit für Kultur-, Gesellschafts- und Medienbeziehungen: deutsche Minderheiten.
 
 ### V.
 
 Dem Bundesministerium der Justiz und für Verbraucherschutz werden aus dem Geschäftsbereich des Bundesministeriums für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit die Zuständigkeiten übertragen für
 
-–
+– den Verbraucherschutz,
 
-–
+– die Verbraucherpolitik, insbesondere den Verbraucherschutz im digitalen Raum bei Waren und Produkten, Online-Handel oder Online-Geschäften,
 
-–
+– die Verbraucherrechtsdurchsetzung sowie
 
-–
+– das Verbraucherinformationsgesetz.
 
 ### VI.
 
@@ -77,17 +77,17 @@ Dem Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend werden 
 
 Dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit werden übertragen
 
-1.
+1. aus dem Geschäftsbereich des Bundesministeriums für Wirtschaft und Energie die Zuständigkeit für Klimaschutz sowie die Klimapartnerschaften;
 
-2.
+2. aus dem Geschäftsbereich des Auswärtigen Amtes die Zuständigkeit für die internationale Klimapolitik sowie die fachliche Zuständigkeit für internationale Klimaschutzverhandlungen.
 
 ### X.
 
-Dem Bundesministerium für Forschung, Technologie und Raumfahrt werden übertragen Die Zuständigkeiten für Quantentechnologien und Kernfusion verbleiben beim Bundesministerium für Forschung, Technologie und Raumfahrt.
+Dem Bundesministerium für Forschung, Technologie und Raumfahrt werden übertragen
 
-1.
+1. aus dem Geschäftsbereich des Bundesministeriums für Wirtschaft und Energie die Zuständigkeiten für Raumfahrt einschließlich des Deutschen Zentrums für Luft- und Raumfahrt, Grundsatzfragen der nationalen und internationalen Innovations- und Technologiepolitik, der Entwicklung digitaler Technologien, für die Hightech-Agenda sowie für Gigafactories, SPRIND und Games;
 
-2.
+2. aus dem Geschäftsbereich des Bundesministeriums für Verkehr die Zuständigkeiten für die Förderung von U-Spaces und Advanced Air Mobility, Erdbeobachtung, Satellitennavigation und -kommunikation sowie die Deutsche Galileo-PRS-Behörde.
 
 ### XI.
 
@@ -97,49 +97,17 @@ Dem Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung werden
 
 Dem Bundesministerium für Digitales und Staatsmodernisierung werden übertragen
 
-1.
+1. aus dem Bundeskanzleramt die Zuständigkeiten für –strategische Vorausschau,–Verhaltenswissenschaften und bürgerzentrierte Politik und–Grundsatzfragen der Digitalpolitik; strategische Vorausschau, Verhaltenswissenschaften und bürgerzentrierte Politik und Grundsatzfragen der Digitalpolitik;
 
-–
+2. aus dem Geschäftsbereich des Bundesministeriums des Innern die Zuständigkeiten für –digitale Verwaltung einschließlich Steuerung OZG – ohne Pass- und Ausweiswesen sowie Identitätsmanagement –,–digitale Gesellschaft einschließlich Informationstechnik – ohne Statistik, Integrität, Korruptionsprävention, Sponsoring, die Bundesakademie für öffentliche Verwaltung sowie Datenpolitik des BMI –, sowie die allgemeine IT-Beschaffung (ZIB),–die Steuerung der IT des Bundes einschließlich der zugehörigen Infrastruktur und der darauf begrenzten zugehörigen IT-Sicherheit,–die Netze des Bundes, – wobei die spezifischen Anforderungen der Sicherheitsbehörden an die Netze in der Fachzuständigkeit des Bundesministeriums des Innern bleiben –,–Cybersicherheit in der Bundesverwaltung,–Netzinfrastrukturen, Netzstrategie 2030, Informationsverbund der öffentlichen Verwaltung sowie–das Recht der digitalen Verwaltung; digitale Verwaltung einschließlich Steuerung OZG – ohne Pass- und Ausweiswesen sowie Identitätsmanagement –, digitale Gesellschaft einschließlich Informationstechnik – ohne Statistik, Integrität, Korruptionsprävention, Sponsoring, die Bundesakademie für öffentliche Verwaltung sowie Datenpolitik des BMI –, sowie die allgemeine IT-Beschaffung (ZIB), die Steuerung der IT des Bundes einschließlich der zugehörigen Infrastruktur und der darauf begrenzten zugehörigen IT-Sicherheit, die Netze des Bundes, – wobei die spezifischen Anforderungen der Sicherheitsbehörden an die Netze in der Fachzuständigkeit des Bundesministeriums des Innern bleiben –, Cybersicherheit in der Bundesverwaltung, Netzinfrastrukturen, Netzstrategie 2030, Informationsverbund der öffentlichen Verwaltung sowie das Recht der digitalen Verwaltung;
 
-–
+3. aus dem Geschäftsbereich des Bundesministeriums für Verkehr die Zuständigkeiten für –Digital- und Datenpolitik und–digitale Infrastrukturen; Digital- und Datenpolitik und digitale Infrastrukturen;
 
-–
+4. aus dem Geschäftsbereich des Bundesministeriums für Wirtschaft und Energie die Zuständigkeiten für –europäische und nationale bessere Rechtsetzung und Bürokratieabbau,–Digitalpolitik – ohne Post –,–das Recht der Datennutzung,–digitale Wirtschaft, Datenverfügbarkeit, digitale Souveränität, Investitionsprüfungen und den Digitalgipfel; europäische und nationale bessere Rechtsetzung und Bürokratieabbau, Digitalpolitik – ohne Post –, das Recht der Datennutzung, digitale Wirtschaft, Datenverfügbarkeit, digitale Souveränität, Investitionsprüfungen und den Digitalgipfel;
 
-2.
+5. aus dem Geschäftsbereich des Bundesministeriums der Finanzen die Zuständigkeit für das Informationstechnikzentrum (ITZBund) – ohne diejenigen Aufgaben des ITZBund, die gemäß Artikel 108 des Grundgesetzes vom ITZBund als Bundesfinanzbehörde gemäß § 1 des Finanzverwaltungsgesetzes zu erbringen sind, für die ein neuer IT-Dienstleister im Geschäftsbereich des Bundesministeriums der Finanzen gegründet wird –, sowie die souveräne Cloud;
 
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-3.
-
-–
-
-–
-
-4.
-
-–
-
-–
-
-–
-
-–
-
-5.
-
-6.
+6. aus dem Geschäftsbereich des Bundesministeriums der Justiz und für Verbraucherschutz die Zuständigkeiten für die Geschäftsstelle für Bürokratieabbau, für bessere Rechtssetzung und für den Nationalen Normenkontrollrat sowie die federführende Umsetzung des EU-AI-Acts in Deutschland.
 
 ### XIII.
 
@@ -159,11 +127,11 @@ Im Bundeskanzleramt wird ein Nationaler Sicherheitsrat gebildet.
 
 ### XVII.
 
-Dem Geschäftsbereich des Bundeskanzleramtes werden übertragen Diese Zuständigkeiten werden von einer Staatsministerin beim Bundeskanzler wahrgenommen.
+Dem Geschäftsbereich des Bundeskanzleramtes werden übertragen
 
-1.
+1. aus dem Geschäftsbereich des Bundesministeriums des Innern die Zuständigkeiten für Sportpolitik sowie für das Themenfeld Ehrenamt;
 
-2.
+2. aus dem Geschäftsbereich des Bundesministeriums für Bildung, Familie, Senioren, Frauen und Jugend die Zuständigkeit für die Engagementpolitik.
 
 ### XVIII.
 
@@ -176,5 +144,3 @@ Bei der Errichtung des Bundesministeriums für Digitales und Staatsmodernisierun
 Weitere Einzelheiten des Übergangs werden zwischen den beteiligten Mitgliedern der Bundesregierung geregelt und dem Chef des Bundeskanzleramtes bis zum 1. August 2025 mitgeteilt.
 
 ### Schlussformel
-
-Der Bundeskanzler

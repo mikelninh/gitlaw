@@ -22,11 +22,17 @@ Die Erhebungen werden bei höchstens 20 000 Unternehmen und Einrichtungen zur Au
 
 ### § 4 — Hilfsmerkmale
 
-Hilfsmerkmale sind: 1.Name und Anschrift des Unternehmens oder der Einrichtung zur Ausübung freiberuflicher Tätigkeit;2.Name und Kontaktdaten der für Rückfragen zur Verfügung stehenden Personen.
+Hilfsmerkmale sind:
+
+1. Name und Anschrift des Unternehmens oder der Einrichtung zur Ausübung freiberuflicher Tätigkeit;
+
+2. Name und Kontaktdaten der für Rückfragen zur Verfügung stehenden Personen.
 
 ### § 4a — Durchführung
 
-(1) Die Angaben werden vom Statistischen Bundesamt erhoben und aufbereitet.(2) Das Statistische Bundesamt übermittelt den statistischen Ämtern der Länder die Einzeldatensätze für ihr Land für Sonderaufbereitungen auf regionaler Ebene.
+(1) Die Angaben werden vom Statistischen Bundesamt erhoben und aufbereitet.
+
+(2) Das Statistische Bundesamt übermittelt den statistischen Ämtern der Länder die Einzeldatensätze für ihr Land für Sonderaufbereitungen auf regionaler Ebene.
 
 ### § 5 — Freiwilligkeit der Auskunftserteilung
 

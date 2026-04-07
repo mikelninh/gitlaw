@@ -14,63 +14,47 @@ Diese Verordnung gilt für alle Beamtinnen und Beamten des Bundes, soweit nicht 
 
 Im Sinne dieser Verordnung ist
 
-1.
+1. Abrechnungszeitraum bei Gleitzeit der Zeitraum, in dem ein Über- oder Unterschreiten der regelmäßigen wöchentlichen Arbeitszeit auszugleichen ist,
 
-2.
+2. Arbeitsplatz grundsätzlich die Dienststelle oder ein von der oder dem Dienstvorgesetzten bestimmter Ort, an dem Dienst zu leisten ist,
 
-3.
+3. Arbeitstag grundsätzlich der Werktag,
 
-4.
+4. Bereitschaftsdienst die Pflicht, sich, ohne ständig zur Dienstleistung verpflichtet zu sein, an einer vom Dienstherrn bestimmten Stelle aufzuhalten, um im Bedarfsfall den Dienst aufzunehmen, wenn dabei Zeiten ohne Arbeitsleistung überwiegen,
 
-5.
+5. Blockmodell die Zusammenfassung der Freistellung von der Arbeit bis zu fünf Jahren bei Teilzeitbeschäftigung,
 
-6.
+6. Funktionszeit der Teil der regelmäßigen täglichen Arbeitszeit, in dem der Dienstbetrieb durch Absprache der Beamtinnen und Beamten sichergestellt wird,
 
-7.
+7. Gleitzeit die Arbeitszeit, bei der Beamtinnen und Beamte Beginn und Ende der täglichen Arbeitszeit in gewissen Grenzen selbst bestimmen können,
 
-8.
+8. Gleittag ein mit Zustimmung der oder des unmittelbaren Vorgesetzten gewährter ganztägiger Zeitausgleich im Abrechnungszeitraum bei Gleitzeit, dabei gelten tägliche Arbeitszeiten von weniger als zwei Stunden als Gleittag,
 
-9.
+9. Kernarbeitszeit der Teil der regelmäßigen täglichen Arbeitszeit, in dem grundsätzlich alle Beamtinnen und Beamten in der Dienststelle anwesend sein müssen,
 
-10.
+10. Langzeitkonto ein personenbezogenes Arbeitszeitkonto, auf dem durch erhöhten Arbeitsanfall bedingte Zeitguthaben für Freistellungszeiten angespart werden können,
 
-11.
+11. Nachtdienst ein Dienst, der zwischen 20 Uhr und 6 Uhr zu leisten ist,
 
-12.
+12. regelmäßige wöchentliche Arbeitszeit die innerhalb von zwölf Monaten durchschnittlich zu erbringende wöchentliche Arbeitszeit,
 
-13.
+13. Reisezeit die Zeit ohne Wartezeit (Nummer 17), die die Beamtin oder der Beamte benötigt für den Weg zwischen a)der Wohnung oder der Dienststätte und der Stelle des auswärtigen Dienstgeschäfts oder der auswärtigen Unterkunft (Anreise),b)der Stelle des auswärtigen Dienstgeschäfts oder der auswärtigen Unterkunft und der Stelle eines weiteren auswärtigen Dienstgeschäfts oder einer weiteren auswärtigen Unterkunft,c)der Stelle des auswärtigen Dienstgeschäfts oder der auswärtigen Unterkunft und der Wohnung oder der Dienststätte (Abreise), der Wohnung oder der Dienststätte und der Stelle des auswärtigen Dienstgeschäfts oder der auswärtigen Unterkunft (Anreise), der Stelle des auswärtigen Dienstgeschäfts oder der auswärtigen Unterkunft und der Stelle eines weiteren auswärtigen Dienstgeschäfts oder einer weiteren auswärtigen Unterkunft, der Stelle des auswärtigen Dienstgeschäfts oder der auswärtigen Unterkunft und der Wohnung oder der Dienststätte (Abreise),
 
-a)
+14. Rufbereitschaft die Pflicht, sich außerhalb des Arbeitsplatzes bereitzuhalten, um bei Bedarf sofort zu Dienstleistungen abgerufen werden zu können,
 
-b)
+15. Ruhepause der Zeitraum, in dem Beamtinnen und Beamte keinen Dienst leisten,
 
-c)
+16. Schichtdienst der Dienst nach einem Schichtplan, der einen regelmäßigen Wechsel der täglichen Arbeitszeit in Zeitabschnitten von längstens einem Monat vorsieht,
 
-14.
-
-15.
-
-16.
-
-17.
-
-a)
-
-b)
-
-c)
+17. Wartezeit eine während einer Dienstreise anfallende Zeit ohne Dienstleistung zwischen a)dem Ende der Anreise und dem Beginn der dienstlichen Tätigkeit,b)dem Ende der dienstlichen Tätigkeit an einem Tag und dem Beginn der dienstlichen Tätigkeit an einem anderen Tag,c)dem Ende der dienstlichen Tätigkeit und dem Beginn der Abreise. dem Ende der Anreise und dem Beginn der dienstlichen Tätigkeit, dem Ende der dienstlichen Tätigkeit an einem Tag und dem Beginn der dienstlichen Tätigkeit an einem anderen Tag, dem Ende der dienstlichen Tätigkeit und dem Beginn der Abreise.
 
 ### § 3 — Regelmäßige wöchentliche Arbeitszeit
 
-(1) Die regelmäßige wöchentliche Arbeitszeit beträgt 41 Stunden. Schwerbehinderte Beamtinnen und schwerbehinderte Beamte können eine Verkürzung der regelmäßigen wöchentlichen Arbeitszeit auf 40 Stunden beantragen. Gleiches gilt für Beamtinnen und Beamte, Die Verkürzung beginnt bei Vorliegen der Voraussetzungen mit Beginn des Monats der Antragstellung und endet mit Ablauf des Monats, in dem ihre Voraussetzungen nicht mehr vorliegen. § 116 Abs. 1 des Neunten Buches Sozialgesetzbuch bleibt unberührt. Die Beamtinnen und Beamten sind verpflichtet, jede Änderung unverzüglich anzuzeigen und auf Verlangen entsprechende Nachweise zu erbringen. Bei Teilzeitbeschäftigung wird die regelmäßige wöchentliche Arbeitszeit nach den Sätzen 1 bis 3 entsprechend dem Umfang der bewilligten Teilzeitbeschäftigung verkürzt.
+(1) Die regelmäßige wöchentliche Arbeitszeit beträgt 41 Stunden. Schwerbehinderte Beamtinnen und schwerbehinderte Beamte können eine Verkürzung der regelmäßigen wöchentlichen Arbeitszeit auf 40 Stunden beantragen. Gleiches gilt für Beamtinnen und Beamte,
 
-1.
+1. die für ein Kind unter zwölf Jahren Kindergeld erhalten,
 
-2.
-
-a)
-
-b)
+2. die eine nahe Angehörige oder einen nahen Angehörigen nach § 7 Absatz 3 des Pflegezeitgesetzes im eigenen Haushalt oder im eigenen Haushalt der oder des nahen Angehörigen tatsächlich betreuen oder pflegen, die oder der a)pflegebedürftig ist und die Pflegebedürftigkeit nach § 18 des Elften Buches Sozialgesetzbuch durch eine Bescheinigung der Pflegekasse, des Medizinischen Dienstes der Krankenversicherung, nach einer entsprechenden Bescheinigung einer privaten Pflegeversicherung oder nach einem ärztlichen Gutachten festgestellt worden ist oderb)an einer durch ein ärztliches Zeugnis nachgewiesenen Erkrankung nach § 3 Absatz 6 Satz 1 des Pflegezeitgesetzes leidet. pflegebedürftig ist und die Pflegebedürftigkeit nach § 18 des Elften Buches Sozialgesetzbuch durch eine Bescheinigung der Pflegekasse, des Medizinischen Dienstes der Krankenversicherung, nach einer entsprechenden Bescheinigung einer privaten Pflegeversicherung oder nach einem ärztlichen Gutachten festgestellt worden ist oder an einer durch ein ärztliches Zeugnis nachgewiesenen Erkrankung nach § 3 Absatz 6 Satz 1 des Pflegezeitgesetzes leidet.
 
 (2) Die regelmäßige wöchentliche Arbeitszeit wird bei Vollzeitbeschäftigung und Teilzeitbeschäftigung mit einer Ermäßigung der Arbeitszeit um weniger als 10 Prozent auf Montag bis Freitag verteilt. Aus dienstlichen Gründen kann sie auf sechs Tage verteilt werden.
 
@@ -88,11 +72,11 @@ Die regelmäßige tägliche Arbeitszeit sowie deren Beginn und Ende sind festzul
 
 (1) Die Arbeit ist spätestens nach 6 Stunden durch eine Ruhepause von mindestens 30 Minuten zu unterbrechen. Nach mehr als 9 Stunden beträgt die Ruhepause mindestens 45 Minuten. Ruhepausen können in Zeitabschnitte von jeweils 15 Minuten aufgeteilt werden.
 
-(2) Ruhepausen werden nicht auf die Arbeitszeit angerechnet, es sei denn, dass Bei Teilzeitbeschäftigung verringern sich die nach Satz 1 Nummer 1 erforderlichen Nachtdienststunden entsprechend dem Verhältnis zwischen der ermäßigten und der regelmäßigen wöchentlichen Arbeitszeit.
+(2) Ruhepausen werden nicht auf die Arbeitszeit angerechnet, es sei denn, dass
 
-1.
+1. die Voraussetzungen des § 17a der Erschwerniszulagenverordnung mit der Maßgabe erfüllt sind, dass im Kalendermonat mindestens 35 Nachtdienststunden geleistet werden, oder
 
-2.
+2. die zuständige Behörde die Anrechnung bei operativen Tätigkeiten in Einsatzbereichen, in denen die ständige Einsatzfähigkeit gewährleistet werden muss, zum Ausgleich der damit verbundenen Belastungen zulässt.
 
 (3) Pro 24-Stunden-Zeitraum ist eine Mindestruhezeit von 11 zusammenhängenden Stunden zu gewähren. Pro 7-Tage-Zeitraum ist zusätzlich eine Mindestruhezeit von 24 zusammenhängenden Stunden zu gewähren. Für die Ruhezeit nach Satz 2 gilt ein Bezugszeitraum von 14 Tagen. Von den Regelungen in den Sätzen 1 bis 3 können Ausnahmen zugelassen werden, wenn dienstliche Belange im Sinne des Artikels 17 Absatz 3 Buchstabe c und e sowie Absatz 4 der Richtlinie 2003/88/EG des Europäischen Parlaments und des Rates vom 4. November 2003 über bestimmte Aspekte der Arbeitszeitgestaltung (ABl. L 299 vom 18.11.2003, S. 9) dies erfordern.
 
@@ -128,31 +112,25 @@ Die regelmäßige tägliche Arbeitszeit sowie deren Beginn und Ende sind festzul
 
 (3) Langzeitkonten können nicht geführt werden
 
-1.
+1. für Beamtinnen und Beamte auf Widerruf sowie
 
-2.
+2. für Beamtinnen und Beamte, die jederzeit in den einstweiligen Ruhestand versetzt werden können.
 
 (4) Für Beamtinnen und Beamte, denen die Führung eines Langzeitkontos gestattet worden ist, wird die regelmäßige wöchentliche Arbeitszeit auf ihren Antrag um bis zu drei Stunden verlängert, wenn dies auf Grund erhöhten Arbeitsanfalls für die Erfüllung ihrer dienstlichen Aufgaben angemessen und zweckmäßig ist. Dies kann bis zu vier Wochen rückwirkend erfolgen, in vom Vorgesetzten zu begründenden Ausnahmefällen mit Zustimmung der Personalverwaltung auch zwölf Wochen rückwirkend. Das Vorliegen der Voraussetzungen für die Verlängerung der regelmäßigen wöchentlichen Arbeitszeit ist mindestens alle zwei Jahre sowie bei einem Wechsel der Organisationseinheit zu überprüfen.
 
-(5) Die Differenz zwischen der regelmäßigen wöchentlichen Arbeitszeit nach § 3 Absatz 1 und der tatsächlich geleisteten Arbeitszeit wird dem Langzeitkonto als Zeitguthaben bis zur Höhe der nach Absatz 4 Satz 1 vereinbarten Verlängerung gutgeschrieben. Darüber hinaus geleistete Arbeitszeit ist dem Gleitzeitkonto nach § 7 oder, sofern die Voraussetzungen des § 88 des Bundesbeamtengesetzes vorliegen, dem Mehrarbeitskonto gutzuschreiben. Dem Langzeitkonto können auf Antrag auch Ansprüche auf Dienstbefreiung für dienstlich angeordnete oder genehmigte Mehrarbeit im Umfang von bis zu 40 Stunden im Jahr gutgeschrieben werden. Dem Langzeitkonto kann ein Zeitguthaben bis zur Höhe von 1 400 Stunden gutgeschrieben werden.
+(5) Die Differenz zwischen der regelmäßigen wöchentlichen Arbeitszeit nach § 3 Absatz 1 und der tatsächlich geleisteten Arbeitszeit wird dem Langzeitkonto als Zeitguthaben bis zur Höhe der nach Absatz 4 Satz 1 vereinbarten Verlängerung gutgeschrieben. Darüber hinaus geleistete Arbeitszeit ist dem Gleitzeitkonto nach § 7 oder, sofern die Voraussetzungen des § 88 des Bundesbeamtengesetzes vorliegen, dem Mehrarbeitskonto gutzuschreiben. Dem Langzeitkonto können auf Antrag auch Ansprüche auf Dienstbefreiung für dienstlich angeordnete oder genehmigte Mehrarbeit im Umfang von bis zu 40 Stunden im Jahr gutgeschrieben werden. Dem Langzeitkonto kann ein Zeitguthaben bis zur Höhe von 1 400 Stunden gutgeschrieben werden.
 
-(6) Den in Absatz 7 bestimmten Beamtinnen und Beamten kann die Führung eines Langzeitkontos gestattet werden, mit dem die folgenden Ansprüche als Zeitguthaben angespart werden: Dem Langzeitkonto können auf Antrag Ansprüche im Umfang von bis zu 196 Stunden im Jahr gutgeschrieben werden. Absatz 5 Satz 4 gilt entsprechend.
+(6) Den in Absatz 7 bestimmten Beamtinnen und Beamten kann die Führung eines Langzeitkontos gestattet werden, mit dem die folgenden Ansprüche als Zeitguthaben angespart werden:
 
-1.
+1. Dienstbefreiung für dienstlich angeordnete oder genehmigte Mehrarbeit nach § 88 des Bundesbeamtengesetzes und
 
-2.
+2. einheitlicher Freizeitausgleich bei Einsätzen und Übungen nach § 11 des Bundespolizeibeamtengesetzes.
 
 (7) Absatz 6 gilt für
 
-1.
+1. Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei, die Schicht- oder Einsatzdienst leisten, und
 
-2.
-
-a)
-
-b)
-
-c)
+2. Beamtinnen und Beamte der Zollverwaltung, die Schichtdienst leisten und a)in der Grenzabfertigung verwendet werden,b)in einem Bereich verwendet werden, in dem gemäß Bestimmung des Bundesministeriums der Finanzen typischerweise vollzugspolizeilich geprägte Tätigkeiten wahrgenommen werden, oderc)mit vollzugspolizeilichen Aufgaben betraut sind. in der Grenzabfertigung verwendet werden, in einem Bereich verwendet werden, in dem gemäß Bestimmung des Bundesministeriums der Finanzen typischerweise vollzugspolizeilich geprägte Tätigkeiten wahrgenommen werden, oder mit vollzugspolizeilichen Aufgaben betraut sind.
 
 (8) Den unmittelbaren Vorgesetzten sind ausschließlich für Zwecke des gezielten Personaleinsatzes und für die Überprüfung nach Absatz 4 Satz 3 die Salden der Langzeitkonten ihrer Mitarbeiterinnen und Mitarbeiter mitzuteilen. Daten nach Satz 1 dürfen nicht für eine Kontrolle oder Bewertung der Leistung oder des Verhaltens der Beamtinnen oder Beamten verwendet werden. Die Aufbewahrung und Löschung der Daten erfolgt entsprechend § 7 Absatz 7 Satz 3 und 4.
 
@@ -201,9 +179,9 @@ Bei mobilem Arbeiten kann von der Dienstleistungspflicht am Arbeitsplatz abgewic
 
 (1) Bei Dienstreisen ist die Zeit zur Erledigung von Dienstgeschäften außerhalb der Dienststätte Arbeitszeit. Bei ganz- oder mehrtägigen Dienstreisen gilt die regelmäßige Arbeitszeit des jeweiligen Tages als geleistet. Reisezeiten und Wartezeiten sind keine Arbeitszeit. Sie werden jedoch als Arbeitszeit berücksichtigt, soweit
 
-1.
+1. sie innerhalb der regelmäßigen täglichen Arbeitszeit anfallen oder
 
-2.
+2. die Arbeitszeit innerhalb eines Tages durch Dienstreisen unterbrochen wird.
 
 (2) Bei Teilzeitbeschäftigung wird die Dauer der Dienstreise bis zur Länge der regelmäßigen täglichen Arbeitszeit für Vollzeitbeschäftigung zugrunde gelegt. Fällt eine Dienstreise bei Teilzeitbeschäftigung auf einen nach dem jeweiligen Arbeitszeitmodell dienstfreien Montag bis Freitag, kann dieser Tag mit einem anderen Tag zeitnah getauscht werden.
 

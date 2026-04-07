@@ -15,55 +15,33 @@
 
 (1) Dieses Gesetz gilt für Daten von Datenbereitstellern nach Absatz 2, die
 
-1.
+1. aufgrund eines gesetzlichen Anspruchs auf Zugang bereitgestellt werden,
 
-2.
+2. aufgrund einer gesetzlichen Bereitstellungspflicht bereitgestellt werden oder
 
-3.
+3. auf sonstige Weise öffentlich oder zur ausschließlichen Nutzung bereitgestellt werden.
 
 (2) Datenbereitsteller im Sinne dieses Gesetzes sind:
 
-1.
+1. öffentliche Stellen;
 
-2.
+2. Unternehmen der Daseinsvorsorge, die den Vorschriften über die Vergabe von öffentlichen Aufträgen und Konzessionen unterfallen oder öffentliche Personenverkehrsdienste betreiben;
 
-3.
-
-a)
-
-b)
+3. in Bezug auf Forschungsdaten, die öffentlich finanziert und bereits über ein institutionelles oder thematisches Repositorium öffentlich bereitgestellt wurden: a)Hochschulen, Forschungseinrichtungen und Forschungsfördereinrichtungen,b)Forschende, wenn die Forschungsdaten nicht bereits durch andere durch dieses Gesetz verpflichtete Datenbereitsteller bereitgestellt wurden; Hochschulen, Forschungseinrichtungen und Forschungsfördereinrichtungen, Forschende, wenn die Forschungsdaten nicht bereits durch andere durch dieses Gesetz verpflichtete Datenbereitsteller bereitgestellt wurden;
 
 (3) Dieses Gesetz gilt nicht für
 
-1.
+1. Daten, a)die nicht oder nur eingeschränkt zugänglich sind, wobei eine Einschränkung auch vorliegt, wenn der Zugang nur bei Nachweis eines rechtlichen oder berechtigten Interesses besteht; nicht oder nur eingeschränkt zugänglich sind Daten insbesondere, aa)soweit der Schutz personenbezogener Daten entgegensteht,bb)soweit der Schutz von Geschäftsgeheimnissen entgegensteht,cc)soweit der Schutz der nationalen Sicherheit, der Verteidigung oder der öffentlichen Sicherheit entgegensteht,dd)soweit die Eigenschaft als vertrauliche Informationen über den Schutz kritischer Infrastrukturen entgegensteht oderee)soweit die statistische Geheimhaltung entgegensteht,b)die geistiges Eigentum Dritter betreffen,c)die nach den Vorschriften des Bundes oder der Länder über den Zugang der Öffentlichkeit zu Umweltinformationen zugänglich sind und uneingeschränkt, kostenlos, maschinenlesbar und über eine Anwendungsprogrammierschnittstelle nutzbar sind oderd)deren Bereitstellung nicht unter den durch Rechtsvorschrift festgelegten öffentlichen Auftrag der öffentlichen Stelle fällt; die nicht oder nur eingeschränkt zugänglich sind, wobei eine Einschränkung auch vorliegt, wenn der Zugang nur bei Nachweis eines rechtlichen oder berechtigten Interesses besteht; nicht oder nur eingeschränkt zugänglich sind Daten insbesondere, aa)soweit der Schutz personenbezogener Daten entgegensteht,bb)soweit der Schutz von Geschäftsgeheimnissen entgegensteht,cc)soweit der Schutz der nationalen Sicherheit, der Verteidigung oder der öffentlichen Sicherheit entgegensteht,dd)soweit die Eigenschaft als vertrauliche Informationen über den Schutz kritischer Infrastrukturen entgegensteht oderee)soweit die statistische Geheimhaltung entgegensteht, soweit der Schutz personenbezogener Daten entgegensteht, soweit der Schutz von Geschäftsgeheimnissen entgegensteht, soweit der Schutz der nationalen Sicherheit, der Verteidigung oder der öffentlichen Sicherheit entgegensteht, soweit die Eigenschaft als vertrauliche Informationen über den Schutz kritischer Infrastrukturen entgegensteht oder soweit die statistische Geheimhaltung entgegensteht, die geistiges Eigentum Dritter betreffen, die nach den Vorschriften des Bundes oder der Länder über den Zugang der Öffentlichkeit zu Umweltinformationen zugänglich sind und uneingeschränkt, kostenlos, maschinenlesbar und über eine Anwendungsprogrammierschnittstelle nutzbar sind oder deren Bereitstellung nicht unter den durch Rechtsvorschrift festgelegten öffentlichen Auftrag der öffentlichen Stelle fällt;
 
-a)
+2. Daten von Unternehmen der Daseinsvorsorge, die außerhalb der Tätigkeit nach § 3 Nummer 2 erstellt wurden;
 
-aa)
+3. Logos, Wappen und Insignien;
 
-bb)
+4. Daten von öffentlich-rechtlichen Rundfunkanstalten oder deren Beauftragten, die der Wahrnehmung eines öffentlichen Programm- oder Sendeauftrags dienen;
 
-cc)
+5. Daten von kulturellen Einrichtungen, außer Bibliotheken, Museen und Archiven; Absatz 2 Nummer 3 findet auf Bibliotheken, Museen und Archive keine Anwendung;
 
-dd)
-
-ee)
-
-b)
-
-c)
-
-d)
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
+6. Daten von Bildungseinrichtungen der Sekundarstufe und darunter; bei allen sonstigen Bildungseinrichtungen gilt dieses Gesetz nicht für Daten, die keine Forschungsdaten sind.
 
 (4) Die Bestimmungen zum Schutz personenbezogener Daten und weitergehende Anforderungen an die Bereitstellung und Nutzung der Daten von Datenbereitstellern aus anderen Rechtsvorschriften bleiben unberührt.
 
@@ -73,41 +51,29 @@ d)
 
 Im Sinne dieses Gesetzes
 
-1.
+1. sind öffentliche Stellen a)Gebietskörperschaften, einschließlich ihrer Sondervermögen,b)andere juristische Personen des öffentlichen und des privaten Rechts, die zu dem besonderen Zweck gegründet wurden, im Allgemeininteresse liegende Aufgaben nichtgewerblicher Art zu erfüllen, wenn aa)sie überwiegend von Stellen nach Buchstabe a oder Buchstabe c einzeln oder gemeinsam durch Beteiligung oder auf sonstige Weise finanziert werden,bb)ihre Leitung der Aufsicht durch Stellen nach Buchstabe a oder Buchstabe c unterliegt odercc)mehr als die Hälfte der Mitglieder eines ihrer zur Geschäftsführung oder zur Aufsicht berufenen Organe durch Stellen nach Buchstabe a oder Buchstabe c bestimmt worden sind;dasselbe gilt, wenn diese juristische Person einer anderen juristischen Person des öffentlichen oder privaten Rechts einzeln oder gemeinsam mit anderen die überwiegende Finanzierung gewährt, über deren Leitung die Aufsicht ausübt oder die Mehrheit der Mitglieder eines zur Geschäftsführung oder Aufsicht berufenen Organs bestimmt hat,c)Verbände, deren Mitglieder unter Buchstabe a oder Buchstabe b fallen, Gebietskörperschaften, einschließlich ihrer Sondervermögen, andere juristische Personen des öffentlichen und des privaten Rechts, die zu dem besonderen Zweck gegründet wurden, im Allgemeininteresse liegende Aufgaben nichtgewerblicher Art zu erfüllen, wenn aa)sie überwiegend von Stellen nach Buchstabe a oder Buchstabe c einzeln oder gemeinsam durch Beteiligung oder auf sonstige Weise finanziert werden,bb)ihre Leitung der Aufsicht durch Stellen nach Buchstabe a oder Buchstabe c unterliegt odercc)mehr als die Hälfte der Mitglieder eines ihrer zur Geschäftsführung oder zur Aufsicht berufenen Organe durch Stellen nach Buchstabe a oder Buchstabe c bestimmt worden sind;dasselbe gilt, wenn diese juristische Person einer anderen juristischen Person des öffentlichen oder privaten Rechts einzeln oder gemeinsam mit anderen die überwiegende Finanzierung gewährt, über deren Leitung die Aufsicht ausübt oder die Mehrheit der Mitglieder eines zur Geschäftsführung oder Aufsicht berufenen Organs bestimmt hat, sie überwiegend von Stellen nach Buchstabe a oder Buchstabe c einzeln oder gemeinsam durch Beteiligung oder auf sonstige Weise finanziert werden, ihre Leitung der Aufsicht durch Stellen nach Buchstabe a oder Buchstabe c unterliegt oder mehr als die Hälfte der Mitglieder eines ihrer zur Geschäftsführung oder zur Aufsicht berufenen Organe durch Stellen nach Buchstabe a oder Buchstabe c bestimmt worden sind; Verbände, deren Mitglieder unter Buchstabe a oder Buchstabe b fallen,
 
-a)
+2. ist Unternehmen der Daseinsvorsorge ein Unternehmen im Sinne des § 100 Absatz 1 Nummer 2 des Gesetzes gegen Wettbewerbsbeschränkungen, das eine Tätigkeit im Sinne des § 102 des Gesetzes gegen Wettbewerbsbeschränkungen ausübt oder öffentliche Personenverkehrsdienste betreibt,
 
-b)
+3. sind Daten vorhandene Aufzeichnungen, unabhängig von der Art ihrer Speicherung,
 
-aa)
+4. ist Nutzung jede Verwendung von Daten für kommerzielle oder nichtkommerzielle Zwecke, die über die Erfüllung einer öffentlichen Aufgabe oder die Erbringung von Dienstleistungen von allgemeinem Interesse hinausgeht oder die neben der Erfüllung öffentlicher Aufgaben auch zu eigenen kommerziellen Zwecken erfolgt,
 
-bb)
+5. liegt ein maschinenlesbares Format vor, wenn die Daten durch Software automatisiert ausgelesen und verarbeitet werden können,
 
-cc)
+6. ist offenes Format ein Dateiformat, das nichtproprietär und plattformunabhängig ist und der Öffentlichkeit ohne Einschränkungen, die der Nutzung von Daten hinderlich wären, zugänglich gemacht wird,
 
-c)
+7. ist förmlicher offener Standard ein in Textform niedergelegter Standard, in dem die Anforderungen für die Sicherstellung der Interoperabilität der Software niedergelegt sind,
 
-2.
+8. sind dynamische Daten Aufzeichnungen in digitaler Form, die häufig oder in Echtzeit aktualisiert werden, insbesondere aufgrund ihrer Volatilität oder ihres raschen Veraltens,
 
-3.
+9. sind hochwertige Datensätze die gemäß den Artikeln 13 und 14 der Richtlinie (EU) 2019/1024 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors (ABl. L 172 vom 26.6.2019, S. 56) und gemäß den aufgrund dieser Artikel zu erlassenden Durchführungsrechtsakten ausgewiesenen Datensätze,
 
-4.
+10. sind Forschungsdaten Aufzeichnungen in digitaler Form, bei denen es sich nicht um wissenschaftliche Veröffentlichungen handelt und die im Laufe von wissenschaftlichen Forschungstätigkeiten erfasst oder erzeugt und als Nachweise im Rahmen des Forschungsprozesses verwendet werden oder die in der Forschungsgemeinschaft allgemein für die Validierung von Forschungsfeststellungen und -ergebnissen als notwendig erachtet werden,
 
-5.
+11. ist angemessene Gewinnspanne ein Prozentsatz der Gesamtkosten, der über den zur Deckung der einschlägigen Kosten erforderlichen Betrag hinausgeht, aber höchstens 5 Prozentpunkte über dem von der Europäischen Zentralbank festgesetzten Zinssatz für Hauptrefinanzierungsgeschäfte liegt,
 
-6.
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-12.
+12. ist Anonymisierung der Prozess, in dessen Verlauf personenbezogene Daten in Daten umgewandelt werden, die sich nicht auf eine identifizierte oder identifizierbare natürliche Person beziehen, oder derart in Daten umgewandelt werden, dass die betroffene Person nicht oder nicht mehr identifiziert werden kann.
 
 ### § 4 — Grundsatz der uneingeschränkten Datennutzung; Zulässigkeit von Lizenzen
 
@@ -161,19 +127,19 @@ c)
 
 (1) Die Nutzung von Daten ist unentgeltlich. Es ist jedoch zulässig, die Erstattung von verursachten Grenzkosten für die folgenden Tätigkeiten und Maßnahmen zu verlangen:
 
-1.
+1. die Reproduktion, Bereitstellung und Verbreitung von Daten,
 
-2.
+2. die Anonymisierung personenbezogener Daten und
 
-3.
+3. Maßnahmen zum Schutz vertraulicher Geschäftsinformationen.
 
 (2) Abweichend von Absatz 1 Satz 1 dürfen für die Nutzung von Daten Entgelte verlangen:
 
-1.
+1. öffentliche Stellen, die ausreichende Einnahmen erzielen müssen, um einen wesentlichen Teil ihrer Kosten im Zusammenhang mit der Erfüllung ihrer öffentlichen Aufträge zu decken;
 
-2.
+2. Bibliotheken, einschließlich Hochschulbibliotheken, Museen und Archive;
 
-3.
+3. Unternehmen der Daseinsvorsorge.
 
 (3) Absatz 1 Satz 2 und Absatz 2 Nummer 1 und 3 gelten nicht für hochwertige Datensätze sowie Forschungsdaten.
 

@@ -14,15 +14,15 @@
 
 Im Sinne dieses Gesetzes
 
-1.
+1. ist ein Design die zweidimensionale oder dreidimensionale Erscheinungsform eines ganzen Erzeugnisses oder eines Teils davon, die sich insbesondere aus den Merkmalen der Linien, Konturen, Farben, der Gestalt, Oberflächenstruktur oder der Werkstoffe des Erzeugnisses selbst oder seiner Verzierung ergibt;
 
-2.
+2. ist ein Erzeugnis jeder industrielle oder handwerkliche Gegenstand, einschließlich Verpackung, Ausstattung, grafischer Symbole und typografischer Schriftzeichen sowie von Einzelteilen, die zu einem komplexen Erzeugnis zusammengebaut werden sollen; ein Computerprogramm gilt nicht als Erzeugnis;
 
-3.
+3. ist ein komplexes Erzeugnis ein Erzeugnis aus mehreren Bauelementen, die sich ersetzen lassen, so dass das Erzeugnis auseinander- und wieder zusammengebaut werden kann;
 
-4.
+4. ist eine bestimmungsgemäße Verwendung die Verwendung durch den Endbenutzer, ausgenommen Maßnahmen der Instandhaltung, Wartung oder Reparatur;
 
-5.
+5. gilt als Rechtsinhaber der in das Register eingetragene Inhaber des eingetragenen Designs.
 
 ### § 2 — Designschutz
 
@@ -36,13 +36,13 @@ Im Sinne dieses Gesetzes
 
 (1) Vom Designschutz ausgeschlossen sind
 
-1.
+1. Erscheinungsmerkmale von Erzeugnissen, die ausschließlich durch deren technische Funktion bedingt sind;
 
-2.
+2. Erscheinungsmerkmale von Erzeugnissen, die zwangsläufig in ihrer genauen Form und ihren genauen Abmessungen nachgebildet werden müssen, damit das Erzeugnis, in das das Design aufgenommen oder bei dem es verwendet wird, mit einem anderen Erzeugnis mechanisch zusammengebaut oder verbunden oder in diesem, an diesem oder um dieses herum angebracht werden kann, so dass beide Erzeugnisse ihre Funktion erfüllen;
 
-3.
+3. Designs, die gegen die öffentliche Ordnung oder gegen die guten Sitten verstoßen;
 
-4.
+4. Designs, die eine missbräuchliche Benutzung eines der in Artikel 6ter der Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums aufgeführten Zeichen oder von sonstigen Abzeichen, Emblemen und Wappen von öffentlichem Interesse darstellen.
 
 (2) Erscheinungsmerkmale im Sinne von Absatz 1 Nummer 2 sind vom Designschutz nicht ausgeschlossen, wenn sie dem Zweck dienen, den Zusammenbau oder die Verbindung einer Vielzahl von untereinander austauschbaren Teilen innerhalb eines Bauteilesystems zu ermöglichen.
 
@@ -90,13 +90,13 @@ Der Entwerfer hat gegenüber dem Anmelder oder dem Rechtsinhaber das Recht, im V
 
 (1) Die Anmeldung zur Eintragung eines Designs in das Register ist beim Deutschen Patent- und Markenamt einzureichen. Die Anmeldung kann auch über ein Patentinformationszentrum eingereicht werden, wenn diese Stelle durch Bekanntmachung des Bundesministeriums der Justiz und für Verbraucherschutz im Bundesgesetzblatt dazu bestimmt ist, Designanmeldungen entgegenzunehmen.
 
-(2) Die Anmeldung muss enthalten: Wird ein Antrag nach § 21 Absatz 1 Satz 1 gestellt, kann die Wiedergabe durch einen flächenmäßigen Designabschnitt ersetzt werden.
+(2) Die Anmeldung muss enthalten:
 
-1.
+1. einen Antrag auf Eintragung,
 
-2.
+2. Angaben, die es erlauben, die Identität des Anmelders festzustellen und
 
-3.
+3. eine zur Bekanntmachung geeignete Wiedergabe des Designs.
 
 (3) Die Anmeldung muss eine Angabe der Erzeugnisse enthalten, in die das Design aufgenommen oder bei denen es verwendet werden soll.
 
@@ -104,15 +104,15 @@ Der Entwerfer hat gegenüber dem Anmelder oder dem Rechtsinhaber das Recht, im V
 
 (5) Die Anmeldung kann zusätzlich enthalten:
 
-1.
+1. eine Beschreibung zur Erläuterung der Wiedergabe,
 
-2.
+2. einen Antrag auf Aufschiebung der Bildbekanntmachung nach § 21 Absatz 1 Satz 1,
 
-3.
+3. ein Verzeichnis mit der Warenklasse oder den Warenklassen, in die das Design einzuordnen ist,
 
-4.
+4. die Angabe des Entwerfers oder der Entwerfer,
 
-5.
+5. die Angabe eines Vertreters.
 
 (6) Die Angaben nach den Absätzen 3 und 5 Nummer 3 haben keinen Einfluss auf den Schutzumfang des eingetragenen Designs.
 
@@ -126,11 +126,11 @@ Der Entwerfer hat gegenüber dem Anmelder oder dem Rechtsinhaber das Recht, im V
 
 ### § 13 — Anmeldetag
 
-(1) Der Anmeldetag eines Designs ist der Tag, an dem die Unterlagen mit den Angaben nach § 11 Absatz 2 eingegangen sind.
+(1) Der Anmeldetag eines Designs ist der Tag, an dem die Unterlagen mit den Angaben nach § 11 Absatz 2
 
-1.
+1. beim Deutschen Patent- und Markenamt
 
-2.
+2. oder, wenn diese Stelle durch Bekanntmachung des Bundesministeriums der Justiz und für Verbraucherschutz im Bundesgesetzblatt dazu bestimmt ist, bei einem Patentinformationszentrum
 
 (2) Wird wirksam eine Priorität nach § 14 oder § 15 in Anspruch genommen, tritt bei der Anwendung der §§ 2 bis 6, 12 Absatz 2 Satz 2, § 21 Absatz 1 Satz 1, § 33 Absatz 2 Nummer 2 und § 41 der Prioritätstag an die Stelle des Anmeldetages.
 
@@ -144,11 +144,11 @@ Der Entwerfer hat gegenüber dem Anmelder oder dem Rechtsinhaber das Recht, im V
 
 ### § 15 — Ausstellungspriorität
 
-(1) Hat der Anmelder ein Design zur Schau gestellt, kann er, wenn er die Anmeldung innerhalb einer Frist von sechs Monaten seit der erstmaligen Zurschaustellung einreicht, von diesem Tag an ein Prioritätsrecht in Anspruch nehmen.
+(1) Hat der Anmelder ein Design
 
-1.
+1. auf einer amtlichen oder amtlich anerkannten internationalen Ausstellung im Sinne des am 22. November 1928 in Paris unterzeichneten Abkommens über internationale Ausstellungen oder
 
-2.
+2. auf einer sonstigen inländischen oder ausländischen Ausstellung
 
 (2) Die in Absatz 1 Nummer 1 bezeichneten Ausstellungen werden vom Bundesministerium der Justiz und für Verbraucherschutz im Bundesanzeiger bekannt gemacht.
 
@@ -162,11 +162,11 @@ Der Entwerfer hat gegenüber dem Anmelder oder dem Rechtsinhaber das Recht, im V
 
 (1) Das Deutsche Patent- und Markenamt prüft, ob
 
-1.
+1. die Anmeldegebühren nach § 5 Absatz 1 Satz 1 des Patentkostengesetzes und
 
-2.
+2. die Voraussetzungen für die Zuerkennung des Anmeldetages nach § 11 Absatz 2 vorliegen und
 
-3.
+3. die Anmeldung den sonstigen Anmeldungserfordernissen entspricht.
 
 (2) Werden bei nicht ausreichender Gebührenzahlung innerhalb einer vom Deutschen Patent- und Markenamt gesetzten Frist die Anmeldegebühren für eine Sammelanmeldung nicht in ausreichender Menge nachgezahlt oder wird vom Anmelder keine Bestimmung darüber getroffen, welche Designs durch den gezahlten Gebührenbetrag gedeckt werden sollen, so bestimmt das Deutsche Patent- und Markenamt, welche Designs berücksichtigt werden. Im Übrigen gilt die Anmeldung als zurückgenommen. Das Deutsche Patent- und Markenamt stellt dies fest.
 
@@ -214,31 +214,31 @@ Ist der Gegenstand der Anmeldung kein Design im Sinne des § 1 Nummer 1 oder ist
 
 (1) Die Einsicht in das Register steht jedermann frei. Das Recht, die Wiedergabe eines eingetragenen Designs und die vom Deutschen Patent- und Markenamt über das eingetragene Design geführten Akten einzusehen, besteht, wenn
 
-1.
+1. die Wiedergabe bekannt gemacht worden ist,
 
-2.
+2. der Anmelder oder Rechtsinhaber seine Zustimmung erteilt hat oder
 
-3.
+3. ein berechtigtes Interesse glaubhaft gemacht wird.
 
 (2) Die Einsicht in die Akten nach Absatz 1 Satz 2 kann bei elektronisch geführten Akten auch über das Internet gewährt werden.
 
 (3) Die Akteneinsicht nach den Absätzen 1 und 2 ist ausgeschlossen, soweit
 
-1.
+1. ihr eine Rechtsvorschrift entgegensteht,
 
-2.
+2. das schutzwürdige Interesse der betroffenen Person im Sinne des Artikels 4 Nummer 1 der Verordnung (EU) 679/2016 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung offensichtlich überwiegt oder
 
-3.
+3. sie auf Akteninhalte bezogen ist, die offensichtlich gegen die öffentliche Ordnung oder die guten Sitten verstoßen.
 
 ### § 22a — Datenschutz
 
-Soweit personenbezogene Daten im Register oder in öffentlich zugänglichen elektronischen Informationsdiensten des Deutschen Patent- und Markenamtes enthalten sind, bestehen nicht Das Recht auf Erhalt einer Kopie nach Artikel 15 Absatz 3 der Verordnung (EU) 2016/679 wird dadurch erfüllt, dass die betroffene Person Einsicht in das Register oder in öffentlich zugängliche elektronische Informationsdienste des Deutschen Patent- und Markenamtes nehmen kann.
+Soweit personenbezogene Daten im Register oder in öffentlich zugänglichen elektronischen Informationsdiensten des Deutschen Patent- und Markenamtes enthalten sind, bestehen nicht
 
-1.
+1. die Rechte auf Auskunft gemäß Artikel 15 Absatz 1 Buchstabe c der Verordnung (EU) 2016/679,
 
-2.
+2. die Mitteilungspflicht gemäß Artikel 19 Satz 2 der Verordnung (EU) 2016/679 und
 
-3.
+3. das Recht auf Widerspruch gemäß Artikel 21 Absatz 1 der Verordnung (EU) 2016/679.
 
 ### § 23 — Verfahrensvorschriften, Beschwerde und Rechtsbeschwerde
 
@@ -264,41 +264,41 @@ In Verfahren nach § 23 Absatz 1 erhält der Anmelder auf Antrag unter entsprech
 
 (3) Das Bundesministerium der Justiz und für Verbraucherschutz bestimmt durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
-1.
+1. den Zeitpunkt, von dem an elektronische Dokumente bei dem Deutschen Patent- und Markenamt und den Gerichten eingereicht werden können, die für die Bearbeitung der Dokumente geeignete Form, ob eine elektronische Signatur zu verwenden ist und wie diese Signatur beschaffen ist;
 
-2.
+2. den Zeitpunkt, von dem an die Prozessakten nach Absatz 2 elektronisch geführt werden können, sowie die hierfür geltenden organisatorisch- technischen Rahmenbedingungen für die Bildung, Führung und Aufbewahrung der elektronischen Prozessakten.
 
 ### § 26 — Verordnungsermächtigungen
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz regelt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
-1.
+1. die Einrichtung und den Geschäftsgang des Deutschen Patent- und Markenamts sowie die Form des Verfahrens in Designangelegenheiten, soweit nicht durch Gesetz Bestimmungen darüber getroffen sind,
 
-2.
+2. die Form und die sonstigen Erfordernisse der Anmeldung und der Wiedergabe des Designs,
 
-3.
+3. die zulässigen Abmessungen eines nach § 11 Absatz 2 Satz 2 der Anmeldung beigefügten Designabschnitts,
 
-4.
+4. den Inhalt und Umfang einer der Anmeldung beigefügten Beschreibung zur Erläuterung der Wiedergabe,
 
-5.
+5. die Einteilung der Warenklassen,
 
-6.
+6. die Führung und Gestaltung des Registers einschließlich der in das Register einzutragenden Tatsachen sowie die Einzelheiten der Bekanntmachung,
 
-7.
+7. die Behandlung der einer Anmeldung zur Wiedergabe des eingetragenen Designs beigefügten Erzeugnisse nach Löschung der Eintragung in das Register,
 
-8.
+8. das Verfahren beim Deutschen Patent- und Markenamt für den Schutz von Designs nach dem Haager Abkommen,
 
-9.
+9. das Verfahren vor dem Deutschen Patent- und Markenamt zur Feststellung oder Erklärung der Nichtigkeit eines eingetragenen Designs nach § 34a und
 
-10.
+10. für alle Dienststellen des Deutschen Patent- und Markenamts die Berücksichtigung von gesetzlichen Feiertagen bei Fristen.
 
 (2) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Beamte des gehobenen und mittleren Dienstes sowie vergleichbare Angestellte mit der Wahrnehmung von Geschäften im Verfahren in Registersachen zu betrauen, die ihrer Art nach keine besonderen rechtlichen Schwierigkeiten bieten. Ausgeschlossen davon sind jedoch
 
-1.
+1. die Zurückweisung nach § 18 und die Verweigerung des Schutzes einer internationalen Eintragung nach § 69,
 
-2.
+2. die Entscheidungen im Nichtigkeitsverfahren nach § 34a und
 
-3.
+3. die Abhilfe oder Vorlage der Beschwerde (§ 23 Absatz 4 Satz 4) gegen einen Beschluss im Verfahren nach diesem Gesetz.
 
 (3) Für die Ausschließung und Ablehnung einer nach Maßgabe des Absatzes 2 Satz 1 betrauten Person findet § 23 Absatz 3 Satz 1 und 2 entsprechende Anwendung.
 
@@ -334,9 +334,9 @@ In Verfahren nach § 23 Absatz 1 erhält der Anmelder auf Antrag unter entsprech
 
 (1) Das Recht an einem eingetragenen Design kann
 
-1.
+1. Gegenstand eines dinglichen Rechts sein, insbesondere verpfändet werden, oder
 
-2.
+2. Gegenstand von Maßnahmen der Zwangsvollstreckung sein.
 
 (2) Die in Absatz 1 Nummer 1 genannten Rechte oder die in Absatz 1 Nummer 2 genannten Maßnahmen werden auf Antrag eines Gläubigers oder eines anderen Berechtigten in das Register eingetragen, wenn sie dem Deutschen Patent- und Markenamt nachgewiesen werden.
 
@@ -346,17 +346,17 @@ In Verfahren nach § 23 Absatz 1 erhält der Anmelder auf Antrag unter entsprech
 
 (1) Der Rechtsinhaber kann Lizenzen für das gesamte Gebiet oder einen Teil des Gebiets der Bundesrepublik Deutschland erteilen. Eine Lizenz kann ausschließlich oder nicht ausschließlich sein.
 
-(2) Der Rechtsinhaber kann die Rechte aus dem eingetragenen Design gegen einen Lizenznehmer geltend machen, der hinsichtlich gegen eine Bestimmung des Lizenzvertrags verstößt.
+(2) Der Rechtsinhaber kann die Rechte aus dem eingetragenen Design gegen einen Lizenznehmer geltend machen, der hinsichtlich
 
-1.
+1. der Dauer der Lizenz,
 
-2.
+2. der Form der Nutzung des eingetragenen Designs,
 
-3.
+3. der Auswahl der Erzeugnisse, für die die Lizenz erteilt worden ist,
 
-4.
+4. des Gebiets, für das die Lizenz erteilt worden ist, oder
 
-5.
+5. der Qualität der vom Lizenznehmer hergestellten Erzeugnisse
 
 (3) Unbeschadet der Bestimmungen des Lizenzvertrags kann der Lizenznehmer ein Verfahren wegen Verletzung eines eingetragenen Designs nur mit Zustimmung des Rechtsinhabers anhängig machen. Dies gilt nicht für den Inhaber einer ausschließlichen Lizenz, wenn der Rechtsinhaber, nachdem er dazu aufgefordert wurde, innerhalb einer angemessenen Frist nicht selbst ein Verletzungsverfahren anhängig macht.
 
@@ -374,19 +374,19 @@ Die Vorschriften dieses Abschnitts gelten entsprechend für die Rechte, die durc
 
 (1) Ein eingetragenes Design ist nichtig, wenn
 
-1.
+1. die Erscheinungsform des Erzeugnisses kein Design im Sinne des § 1 Nummer 1 ist,
 
-2.
+2. das Design nicht neu ist oder keine Eigenart hat,
 
-3.
+3. das Design vom Designschutz nach § 3 ausgeschlossen ist.
 
 (2) Ein eingetragenes Design wird für nichtig erklärt, wenn
 
-1.
+1. es eine unerlaubte Benutzung eines durch das Urheberrecht geschützten Werkes darstellt,
 
-2.
+2. es in den Schutzumfang eines eingetragenen Designs mit älterem Zeitrang fällt, auch wenn dieses eingetragene Design erst nach dem Anmeldetag des für nichtig zu erklärenden eingetragenen Designs offenbart wurde,
 
-3.
+3. in ihm ein Zeichen mit Unterscheidungskraft älteren Zeitrangs verwendet wird und der Inhaber des Zeichens berechtigt ist, die Verwendung zu untersagen.
 
 (3) Die Nichtigkeit wird durch Beschluss des Deutschen Patent- und Markenamts oder durch Urteil auf Grund Widerklage im Verletzungsverfahren festgestellt oder erklärt.
 
@@ -410,11 +410,11 @@ Zur Stellung des Antrags auf Feststellung der Nichtigkeit nach § 33 Absatz 1 is
 
 (4) Die Entscheidung ergeht durch Beschluss. Der Tenor kann am Ende der Anhörung verkündet werden. Der Beschluss ist zu begründen und den Beteiligten von Amts wegen in Abschrift zuzustellen; eine Beglaubigung der Abschrift ist nicht erforderlich. Ausfertigungen werden nur auf Antrag eines Beteiligten und nur in Papierform erteilt. § 47 Absatz 2 des Patentgesetzes gilt entsprechend.
 
-(5) In dem Beschluss ist über die Kosten des Verfahrens zu entscheiden; § 62 Absatz 2 und § 84 Absatz 2 Satz 2 des Patentgesetzes gelten entsprechend. In den Fällen des Absatzes 2 Satz 2 und 3 entscheidet das Deutsche Patent- und Markenamt nur auf Antrag über die Kosten des Verfahrens; die Entscheidung über die Kosten kann durch gesonderten Beschluss ergehen. Der Kostenantrag kann wie folgt gestellt werden: Soweit eine Entscheidung über die Kosten nicht getroffen wird, trägt jeder Beteiligte die ihm erwachsenen Kosten selbst.
+(5) In dem Beschluss ist über die Kosten des Verfahrens zu entscheiden; § 62 Absatz 2 und § 84 Absatz 2 Satz 2 des Patentgesetzes gelten entsprechend. In den Fällen des Absatzes 2 Satz 2 und 3 entscheidet das Deutsche Patent- und Markenamt nur auf Antrag über die Kosten des Verfahrens; die Entscheidung über die Kosten kann durch gesonderten Beschluss ergehen. Der Kostenantrag kann wie folgt gestellt werden:
 
-1.
+1. im Falle des Absatzes 2 Satz 2 bis zum Ablauf von einem Monat nach der Unanfechtbarkeit des Beschlusses über die Feststellung oder Erklärung der Nichtigkeit,
 
-2.
+2. im Falle des Absatzes 2 Satz 3 bis zum Ablauf von einem Monat nach Zustellung des Beschlusses über die Einstellung des Verfahrens.
 
 (6) Der Gegenstandswert wird auf Antrag durch Beschluss festgesetzt. Wird eine Entscheidung über die Kosten getroffen, kann von Amts wegen über den Gegenstandswert entschieden werden. Der Beschluss über den Gegenstandswert kann mit der Kostenentscheidung verbunden werden. Für die Festsetzung des Gegenstandswertes gelten § 23 Absatz 3 Satz 2 und § 33 Absatz 1 des Rechtsanwaltsvergütungsgesetzes entsprechend.
 
@@ -424,37 +424,37 @@ Ist oder wird während des Nichtigkeitsverfahrens ein Rechtsstreit anhängig, de
 
 ### § 34c — Beitritt zum Nichtigkeitsverfahren
 
-(1) Ein Dritter kann einem Nichtigkeitsverfahren beitreten, wenn über den Antrag auf Feststellung oder Erklärung der Nichtigkeit noch keine unanfechtbare Entscheidung getroffen wurde und er glaubhaft machen kann, dass Der Beitritt kann innerhalb von drei Monaten ab Einleitung des Verfahrens nach Satz 1 Nummer 1 oder ab Zugang der Unterlassungsaufforderung nach Satz 1 Nummer 2 erklärt werden.
+(1) Ein Dritter kann einem Nichtigkeitsverfahren beitreten, wenn über den Antrag auf Feststellung oder Erklärung der Nichtigkeit noch keine unanfechtbare Entscheidung getroffen wurde und er glaubhaft machen kann, dass
 
-1.
+1. gegen ihn ein Verfahren wegen Verletzung desselben eingetragenen Designs anhängig ist oder
 
-2.
+2. er aufgefordert wurde, eine behauptete Verletzung desselben eingetragenen Designs zu unterlassen.
 
 (2) Der Beitritt erfolgt durch Antragstellung; die §§ 34 und 34a gelten entsprechend. Erfolgt der Beitritt im Beschwerdeverfahren vor dem Bundespatentgericht, erhält der Beitretende die Stellung eines Beschwerdeführers.
 
 ### § 35 — Teilweise Aufrechterhaltung
 
-(1) Ein eingetragenes Design kann in geänderter Form bestehen bleiben, sofern dann die Schutzvoraussetzungen erfüllt werden und das eingetragene Design seine Identität behält.
+(1) Ein eingetragenes Design kann in geänderter Form bestehen bleiben,
 
-1.
+1. durch Feststellung der Teilnichtigkeit oder im Wege der Erklärung eines Teilverzichts durch den Rechtsinhaber, wenn die Nichtigkeit nach § 33 Absatz 1 wegen mangelnder Neuheit oder Eigenart (§ 2 Absatz 2 oder Absatz 3) oder wegen Ausschlusses vom Designschutz (§ 3) festzustellen ist, oder
 
-2.
+2. durch Erklärung der Teilnichtigkeit sowie Einwilligung in die teilweise Löschung oder Erklärung eines Teilverzichts, wenn die Erklärung der Nichtigkeit nach § 33 Absatz 2 Nummer 1 oder 3 verlangt werden kann,
 
 (2) Eine Wiedergabe des Designs in geänderter Form im Sinne des § 11 Absatz 2 Satz 1 Nummer 3 ist beim Deutschen Patent- und Markenamt einzureichen.
 
 ### § 36 — Löschung
 
-(1) Ein eingetragenes Design wird gelöscht Über die Ablehnung der Löschung entscheidet das Deutsche Patent- und Markenamt durch Beschluss.
+(1) Ein eingetragenes Design wird gelöscht
 
-1.
+1. bei Beendigung der Schutzdauer;
 
-2.
+2. bei Verzicht auf Antrag des Rechtsinhabers, wenn die Zustimmung anderer im Register eingetragener Inhaber von Rechten am eingetragenen Design sowie des Klägers im Falle eines Verfahrens nach § 9 vorgelegt wird;
 
-3.
+3. auf Antrag eines Dritten, wenn dieser mit dem Antrag eine öffentliche oder öffentlich beglaubigte Urkunde mit Erklärungen nach Nummer 2 vorlegt;
 
-4.
+4. bei Einwilligung in die Löschung nach § 9 oder § 33 Absatz 6 Satz 1;
 
-5.
+5. auf Grund eines unanfechtbaren Beschlusses oder rechtskräftigen Urteils über die Feststellung oder Erklärung der Nichtigkeit.
 
 (2) Verzichtet der Rechtsinhaber nach Absatz 1 Nummer 2 und 3 nur teilweise auf das eingetragene Design, erklärt er nach Absatz 1 Nummer 4 seine Einwilligung in die Löschung eines Teils des eingetragenen Designs oder wird nach Absatz 1 Nummer 5 eine Teilnichtigkeit festgestellt, so erfolgt statt der Löschung des eingetragenen Designs eine entsprechende Eintragung in das Register.
 
@@ -482,15 +482,15 @@ Zugunsten des Rechtsinhabers wird vermutet, dass die an die Rechtsgültigkeit ei
 
 Rechte aus einem eingetragenen Design können nicht geltend gemacht werden gegenüber
 
-1.
+1. Handlungen, die im privaten Bereich zu nichtgewerblichen Zwecken vorgenommen werden;
 
-2.
+2. Handlungen zu Versuchszwecken;
 
-3.
+3. Wiedergaben zum Zwecke der Zitierung oder der Lehre, vorausgesetzt, solche Wiedergaben sind mit den Gepflogenheiten des redlichen Geschäftsverkehrs vereinbar, beeinträchtigen die normale Verwertung des eingetragenen Designs nicht über Gebühr und geben die Quelle an;
 
-4.
+4. Einrichtungen in Schiffen und Luftfahrzeugen, die im Ausland zugelassen sind und nur vorübergehend in das Inland gelangen;
 
-5.
+5. der Einfuhr von Ersatzteilen und von Zubehör für die Reparatur sowie für die Durchführung von Reparaturen an Schiffen und Luftfahrzeugen im Sinne von Nummer 4.
 
 ### § 40a — Reparaturklausel
 
@@ -536,21 +536,21 @@ Handelt der Verletzer weder vorsätzlich noch fahrlässig, so kann er zur Abwend
 
 (1) Der Verletzte kann den Verletzer auf unverzügliche Auskunft über die Herkunft und den Vertriebsweg der rechtsverletzenden Erzeugnisse in Anspruch nehmen.
 
-(2) In Fällen offensichtlicher Rechtsverletzung oder in Fällen, in denen der Verletzte gegen den Verletzer Klage erhoben hat, besteht der Anspruch unbeschadet von Absatz 1 auch gegen eine Person, die in gewerblichem Ausmaß es sei denn, die Person wäre nach den §§ 383 bis 385 der Zivilprozessordnung im Prozess gegen den Verletzer zur Zeugnisverweigerung berechtigt. Im Fall der gerichtlichen Geltendmachung des Anspruchs nach Satz 1 kann das Gericht den gegen den Verletzer anhängigen Rechtsstreit auf Antrag bis zur Erledigung des wegen des Auskunftsanspruchs geführten Rechtsstreits aussetzen. Der zur Auskunft Verpflichtete kann von dem Verletzten den Ersatz der für die Auskunftserteilung erforderlichen Aufwendungen verlangen.
+(2) In Fällen offensichtlicher Rechtsverletzung oder in Fällen, in denen der Verletzte gegen den Verletzer Klage erhoben hat, besteht der Anspruch unbeschadet von Absatz 1 auch gegen eine Person, die in gewerblichem Ausmaß
 
-1.
+1. rechtsverletzende Erzeugnisse in ihrem Besitz hatte,
 
-2.
+2. rechtsverletzende Dienstleistungen in Anspruch nahm,
 
-3.
+3. für rechtsverletzende Tätigkeiten genutzte Dienstleistungen erbrachte oder
 
-4.
+4. nach den Angaben einer in Nummer 1, 2 oder Nummer 3 genannten Person an der Herstellung, Erzeugung oder am Vertrieb solcher Erzeugnisse beteiligt war,
 
 (3) Der zur Auskunft Verpflichtete hat Angaben zu machen über
 
-1.
+1. Namen und Anschrift der Hersteller, Lieferanten und anderer Vorbesitzer der Erzeugnisse oder Dienstleistungen sowie der gewerblichen Abnehmer und Verkaufsstellen, für die sie bestimmt waren, und
 
-2.
+2. die Menge der hergestellten, ausgelieferten, erhaltenen oder bestellten Erzeugnisse sowie über die Preise, die für die betreffenden Erzeugnisse oder Dienstleistungen bezahlt wurden.
 
 (4) Die Ansprüche nach den Absätzen 1 und 2 sind ausgeschlossen, wenn die Inanspruchnahme im Einzelfall unverhältnismäßig ist.
 
@@ -738,11 +738,11 @@ Werden beim Deutschen Patent- und Markenamt Anmeldungen von Gemeinschaftsgeschma
 
 Soweit deutsches Recht anwendbar ist, sind folgende Vorschriften dieses Gesetzes auf Ansprüche des Inhabers eines Gemeinschaftsgeschmacksmusters, das nach der Verordnung (EG) Nr. 6/2002 Schutz genießt, entsprechend anzuwenden:
 
-1.
+1. die Vorschriften zu Ansprüchen auf Beseitigung der Beeinträchtigung (§ 42 Absatz 1 Satz 1), auf Schadensersatz (§ 42 Absatz 2), auf Vernichtung, auf Rückruf und Überlassung (§ 43), auf Auskunft (§ 46), auf Vorlage und Besichtigung (§ 46a), auf Sicherung von Schadensersatzansprüchen (§ 46b) und auf Urteilsbekanntmachung (§ 47) neben den Ansprüchen nach Artikel 89 Absatz 1 Buchstabe a bis c der Verordnung (EG) Nr. 6/2002;
 
-2.
+2. die Vorschriften zur Haftung des Inhabers eines Unternehmens (§ 44), Entschädigung (§ 45), Verjährung (§ 49) und zu Ansprüchen aus anderen gesetzlichen Vorschriften (§ 50);
 
-3.
+3. die Vorschriften zur Beschlagnahme bei der Einfuhr und Ausfuhr (§§ 55 bis 57).
 
 ### § 63 — Gemeinschaftsgeschmacksmusterstreitsachen
 
@@ -766,13 +766,13 @@ Sind nach Artikel 82 der Verordnung (EG) Nr. 6/2002 deutsche Gemeinschaftsgeschm
 
 (1) Ist dem Insolvenzgericht bekannt, dass zur Insolvenzmasse ein angemeldetes oder eingereichtes Gemeinschaftsgeschmacksmuster gehört, so ersucht es das Harmonisierungsamt für den Binnenmarkt (Marken, Muster und Modelle) im unmittelbaren Verkehr, folgende Angaben in das Register für Gemeinschaftsgeschmacksmuster oder, wenn es sich um eine Anmeldung handelt, in die Akten der Anmeldung einzutragen:
 
-1.
+1. zur Eröffnung des Verfahrens und, soweit nicht bereits im Register enthalten, die Anordnung einer Verfügungsbeschränkung,
 
-2.
+2. zur Freigabe oder Veräußerung des Gemeinschaftsgeschmacksmusters oder der Anmeldung des Gemeinschaftsgeschmacksmusters,
 
-3.
+3. zur rechtskräftigen Einstellung des Verfahrens,
 
-4.
+4. zur rechtskräftigen Aufhebung des Verfahrens, im Falle einer Überwachung des Schuldners jedoch erst nach Beendigung dieser Überwachung, und zu einer Verfügungsbeschränkung.
 
 (2) Die Eintragung in das Register für Gemeinschaftsgeschmacksmuster oder in die Akten der Anmeldung kann auch vom Insolvenzverwalter beantragt werden. Im Falle der Eigenverwaltung tritt der Sachverwalter an die Stelle des Insolvenzverwalters.
 
@@ -826,7 +826,7 @@ Werden beim Deutschen Patent- und Markenamt internationale Anmeldungen von Desig
 
 ### § 72 — Anzuwendendes Recht
 
-(1) Auf eingetragene Designs, die vor dem 1. Juli 1988 nach dem Geschmacksmustergesetz in der im Bundesgesetzblatt Teil III, Gliederungsnummer 442- 1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 8 des Gesetzes vom 23. Juli 2002 (BGBl. I S. 2850), angemeldet worden sind, finden die bis zu diesem Zeitpunkt geltenden Vorschriften weiterhin Anwendung.
+(1) Auf eingetragene Designs, die vor dem 1. Juli 1988 nach dem Geschmacksmustergesetz in der im Bundesgesetzblatt Teil III, Gliederungsnummer 442- 1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 8 des Gesetzes vom 23. Juli 2002 (BGBl. I S. 2850), angemeldet worden sind, finden die bis zu diesem Zeitpunkt geltenden Vorschriften weiterhin Anwendung.
 
 (2) Auf eingetragene Designs, die vor dem 28. Oktober 2001 angemeldet oder eingetragen worden sind, finden weiterhin die für sie zu diesem Zeitpunkt geltenden Bestimmungen über die Voraussetzungen der Schutzfähigkeit Anwendung. Rechte aus diesen eingetragenen Designs können nicht geltend gemacht werden, soweit sie Handlungen im Sinne von § 38 Absatz 1 betreffen, die vor dem 28. Oktober 2001 begonnen wurden und die der Verletzte vor diesem Tag nach den Vorschriften des Geschmacksmustergesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 442-1, veröffentlichten bereinigten Fassung in der zu diesem Zeitpunkt geltenden Fassung nicht hätte verbieten können.
 

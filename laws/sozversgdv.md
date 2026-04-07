@@ -22,5 +22,3 @@ Die Verwaltungen der Sozialversicherung gewährleisten in Zusammenarbeit mit den
 Die Verordnung tritt mit Wirkung vom 15. August 1990 in Kraft.
 
 ### Schlußformel
-
-Der Ministerrat der Deutschen Demokratischen Republik

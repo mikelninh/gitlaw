@@ -15,7 +15,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 1.
 
-2.
+2. Die bis zum Zeitpunkt des Inkrafttretens dieses Gesetzes von der Bundesanstalt für Flugsicherung und dem Luftfahrt-Bundesamt auf der Grundlage des § 32 Abs. 3 Satz 3 des Luftverkehrsgesetzes ohne Zustimmung des Bundesrates erlassenen Rechtsverordnungen werden rückwirkend auf den Tag ihres jeweiligen Inkrafttretens in Kraft gesetzt. Diese Rechtsverordnungen können auf Grund der einschlägigen Ermächtigungen durch Rechtsverordnung geändert werden.
 
 ### (XXXX) Art 4 bis 6
 
@@ -34,8 +34,8 @@ Bundesanstalt für Flugsicherung
 
 (1) Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden Kalendermonats in Kraft, soweit in den Absätzen 2 bis 4 nichts anderes bestimmt ist.
 
-(2) Die nachstehenden Vorschriften treten am 1. Januar 1993 in Kraft: 1.
+(2) Die nachstehenden Vorschriften treten am 1. Januar 1993 in Kraft:
 
-2.
+2. Artikel 2, 4 bis 8.
 
 (3) und (4)

@@ -10,9 +10,9 @@
 
 (1) Das Bundesverwaltungsamt ist zuständige Behörde im Sinne von Artikel 20 Absatz 2 in Verbindung mit Artikel 12 Absatz 4 und 5 der Verordnung (EU) 2019/788 des Europäischen Parlaments und des Rates vom 17. April 2019 über die Europäische Bürgerinitiative (ABl. L 130 vom 17.5.2019, S. 55) für
 
-1.
+1. die Koordinierung der Überprüfung der von deutschen Staatsangehörigen abgegebenen Unterstützungsbekundungen für Europäische Bürgerinitiativen sowie
 
-2.
+2. das Ausstellen der Bescheinigung über die Zahl der gültigen Unterstützungsbekundungen.
 
 (2) Das Bundesverwaltungsamt ist deutsche Kontaktstelle im Sinne von Artikel 4 Absatz 6 der Verordnung (EU) 2019/788.
 
@@ -38,49 +38,45 @@
 
 (3) Zur Überprüfung auf unrichtige Angaben im Sinne von § 4 Nummer 5 kann das Bundesverwaltungsamt bei zentralen Meldedatenbeständen der Länder, sofern solche nicht vorhanden sind, bei sonstigen Stellen, die durch Landesrecht dazu bestimmt sind, oder bei den Meldebehörden sowie bei den Auslandsvertretungen folgende Daten abrufen und mit den Daten der ihm vorliegenden Unterstützungsbekundungen abgleichen:
 
-1.
+1. Familienname,
 
-2.
+2. Vornamen,
 
-3.
+3. Tag der Geburt,
 
-4.
+4. Staatsangehörigkeiten,
 
-5.
+5. derzeitige Anschrift.
 
 ### § 4 — Ungültigkeit von Unterstützungsbekundungen
 
-Eine Unterstützungsbekundung ist ungültig, wenn Für die Gültigkeit einer Unterstützungsbekundung ist der Tag ihrer Abgabe maßgeblich.
+Eine Unterstützungsbekundung ist ungültig, wenn
 
-1.
+1. die unterzeichnende Person nicht die deutsche Staatsangehörigkeit hat,
 
-2.
+2. die unterzeichnende Person noch nicht 16 Jahre alt ist,
 
-3.
+3. sie a)durch Unterzeichnung mit einer elektronischen Signatur im Sinne der Verordnung (EU) Nr. 910/2014 oder in Papierform abgegeben wurde und nicht den in Artikel 9 Absatz 2 in Verbindung mit Anhang III der Verordnung (EU) 2019/788 vorgesehenen Anforderungen entspricht oderb)per notifiziertem elektronischem Identifizierungsmittel abgegeben wurde und nicht den Anforderungen nach Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG in Verbindung mit Artikel 10 Absatz 4 der Verordnung (EU) 2019/788 entspricht, durch Unterzeichnung mit einer elektronischen Signatur im Sinne der Verordnung (EU) Nr. 910/2014 oder in Papierform abgegeben wurde und nicht den in Artikel 9 Absatz 2 in Verbindung mit Anhang III der Verordnung (EU) 2019/788 vorgesehenen Anforderungen entspricht oder per notifiziertem elektronischem Identifizierungsmittel abgegeben wurde und nicht den Anforderungen nach Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG in Verbindung mit Artikel 10 Absatz 4 der Verordnung (EU) 2019/788 entspricht,
 
-a)
+4. sie unleserliche oder unvollständige Angaben in den Pflichtfeldern des Formulars enthält, die die unterzeichnende Person nicht zweifelsfrei erkennen lassen,
 
-b)
+5. sie unrichtige Angaben in den Pflichtfeldern des Formulars enthält, die die unterzeichnende Person nicht zweifelsfrei erkennen lassen,
 
-4.
+6. sie einen Vorbehalt enthält,
 
-5.
+7. sie mehrfach abgegeben wurde,
 
-6.
+8. sie nicht innerhalb der Sammlungsfrist gemäß Artikel 8 Absatz 1 Unterabsatz 1 der Verordnung (EU) 2019/788 gesammelt wurde oder der Sammelzeitraum vor der Abgabe durch die Organisatorengruppe bereits beendet wurde oder
 
-7.
-
-8.
-
-9.
+9. sie nicht von der Person abgegeben worden ist, deren persönliche Daten für die Unterstützung verwendet wurden.
 
 ### § 5 — Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer die Anzahl der von deutschen Staatsangehörigen gesammelten Unterstützungsbekundungen einer Europäischen Bürgerinitiative erhöht, indem er eine Unterstützungsbekundung nach Artikel 9 Absatz 6 in Verbindung mit Anhang III der Verordnung (EU) 2019/788 des Europäischen Parlaments und des Rates vom 17. April 2019 über die Europäische Bürgerinitiative (ABl. L 130 vom 17.5.2019, S. 55; L 334 vom 27.12.2019, S. 168; L 424 vom 15.12.2020, S. 60), die durch die Delegierte Verordnung (EU) 2019/1673 (ABl. L 257 vom 8.10.2019, S. 1) geändert worden ist, abgibt und dabei
+(1) Ordnungswidrig handelt, wer die Anzahl der von deutschen Staatsangehörigen gesammelten Unterstützungsbekundungen einer Europäischen Bürgerinitiative erhöht, indem er eine Unterstützungsbekundung nach Artikel 9 Absatz 6 in Verbindung mit Anhang III der Verordnung (EU) 2019/788 des Europäischen Parlaments und des Rates vom 17. April 2019 über die Europäische Bürgerinitiative (ABl. L 130 vom 17.5.2019, S. 55; L 334 vom 27.12.2019, S. 168; L 424 vom 15.12.2020, S. 60), die durch die Delegierte Verordnung (EU) 2019/1673 (ABl. L 257 vom 8.10.2019, S. 1) geändert worden ist, abgibt und dabei
 
-1.
+1. eigene personenbezogene Daten mehrfach verwendet oder
 
-2.
+2. fremde oder fiktive personenbezogene Daten verwendet.
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig eine in Anhang V Nummer 1 bis 4 oder 5 oder Anhang VII Nummer 1 bis 6 oder 7 der Verordnung (EU) 2019/788 genannte Angabe nicht richtig macht.
 
@@ -90,8 +86,8 @@ b)
 
 ### § 6 — Übergangsregelung
 
-Für Anträge auf Bescheinigungen über die Übereinstimmung eines individuellen Online-Sammelsystems mit der Verordnung (EU) 2019/788 des Europäischen Parlaments und des Rates vom 17. April 2019 über die Europäische Bürgerinitiative (ABl. L 130 vom 17.5.2019, S. 55; L 334 vom 27.12.2019, S. 168; L 424 vom 15.12.2020, S. 60), die durch die Delegierte Verordnung (EU) 2019/1673 (ABl. L 257 vom 8.10.2019, S. 1) geändert worden ist, die ist § 1 Absatz 2 in seiner bis dahin geltenden Fassung in Verbindung mit Artikel 11 der Verordnung (EU) 2019/788 weiter anzuwenden. Das Bundesamt für Sicherheit in der Informationstechnik ist für diese individuellen Online-Sammelsysteme über den 1. Januar 2023 hinaus zuständige Behörde im Sinne von Artikel 20 Absatz 1 in Verbindung mit Artikel 11 Absatz 3 der Verordnung (EU) 2019/788.
+Für Anträge auf Bescheinigungen über die Übereinstimmung eines individuellen Online-Sammelsystems mit der Verordnung (EU) 2019/788 des Europäischen Parlaments und des Rates vom 17. April 2019 über die Europäische Bürgerinitiative (ABl. L 130 vom 17.5.2019, S. 55; L 334 vom 27.12.2019, S. 168; L 424 vom 15.12.2020, S. 60), die durch die Delegierte Verordnung (EU) 2019/1673 (ABl. L 257 vom 8.10.2019, S. 1) geändert worden ist, die
 
-1.
+1. beim Bundesamt für Sicherheit in der Informationstechnik für Europäische Bürgerinitiativen eingereicht werden und
 
-2.
+2. bis einschließlich 31. Dezember 2022 durch die Europäische Kommission registriert worden sind,

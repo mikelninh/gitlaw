@@ -7,11 +7,11 @@
 
 ### I. — Erlaß von Widerspruchsbescheiden
 
-Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 27. Februar 1985 (BGBl. I S. 479) in Verbindung mit § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in der Fassung der Bekanntmachung vom 27. Februar 1985 (BGBl. I S. 462) übertragen wir die Befugnis, Widerspruchsbescheide zu erlassen, im Bereich der Dienststelle für Sozialangelegenheiten des Direktoriums und des Sozialamts der Deutschen Bundespost soweit diese oder ihnen nachgeordnete Behörden den mit dem Widerspruch angefochtenen Verwaltungsakt erlassen oder den Erlaß eines Verwaltungsakts abgelehnt haben.
+Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 27. Februar 1985 (BGBl. I S. 479) in Verbindung mit § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in der Fassung der Bekanntmachung vom 27. Februar 1985 (BGBl. I S. 462) übertragen wir die Befugnis, Widerspruchsbescheide zu erlassen,
 
-a)
+a) den jeweiligen Vorstandsmitgliedern für personelle und soziale Aufgaben der Unternehmen der Deutschen Bundespost,
 
-b)
+b) dem Präsidenten des Sozialamts der Deutschen Bundespost,
 
 ### II. — Vertretung bei Klagen aus dem Beamtenverhältnis
 
@@ -22,5 +22,3 @@ Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes übertragen wir die Vertre
 Diese Anordnung tritt mit Wirkung vom 11. Juni 1990 in Kraft. Gleichzeitig tritt die Anordnung des Bundesministers für das Post- und Fernmeldewesen vom 25. September 1979 (BGBl. I S. 1669) insoweit außer Kraft.
 
 ### Schlußformel
-
-Das Direktorium der Deutschen Bundespost

@@ -37,9 +37,9 @@ Der Anspruch des Witwers auf Rente besteht auch dann, wenn der Unterhalt von der
 
 (2) Den Kindern sind gleichgestellt
 
-1.
+1. die Stiefkinder, die der Verfolgte in seine Wohnung aufgenommen hatte,
 
-2.
+2. die Pflegekinder, die der Verfolgte in seine Wohnung aufgenommen hatte und für deren Unterhalt und deren Erziehung nicht von anderer Seite laufend ein höherer Betrag als 125 Deutsche Mark monatlich,ab 1. Juli 1967ein höherer Betrag als 150 Deutsche Mark monatlich,ab 1. Januar 1971ein höherer Betrag als 200 Deutsche Mark monatlich,ab 1. Februar 1977ein höherer Betrag als 360 Deutsche Mark monatlich,ab 1. März 1978ein höherer Betrag als 430 Deutsche Mark monatlich,ab 1. März 1979ein höherer Betrag als 550 Deutsche Mark monatlich,ab 1. März 1981ein höherer Betrag als 650 Deutsche Mark monatlich,ab 1. Januar 1987ein höherer Betrag als 750 Deutsche Mark monatlich,ab 1. Januar 1990ein höherer Betrag als 850 Deutsche Mark monatlich,ab 1. Januar 2002ein höherer Betrag als 480 Euro monatlich,ab 1. Juni 2008ein höherer Betrag als 520 Euro monatlich,ab 1. Juli 2010ein höherer Betrag als 530 Euro monatlich,ab 1. Oktober 2012ein höherer Betrag als 560 Euro monatlich,ab 1. August 2014ein höherer Betrag als 590 Euro monatlich,ab 1. September 2016ein höherer Betrag als 620 Euro monatlich,ab 1. Januar 2019ein höherer Betrag als 670 Euro monatlich,ab 1. September 2021ein höherer Betrag als 700 Euro monatlich undab 1. Dezember 2023ein höherer Betrag als 780 Euro monatlich
 
 (3) Als in die Wohnung aufgenommen gelten Kinder auch dann, wenn der Verfolgte sie auf seine Kosten anderweit untergebracht hat, ohne daß dadurch die häusliche Verbindung mit ihm aufgehoben werden sollte.
 
@@ -51,9 +51,9 @@ Der Anspruch des Witwers auf Rente besteht auch dann, wenn der Unterhalt von der
 
 (1) Kinder erhalten nach Vollendung des 18. Lebensjahres eine Rente, wenn sie
 
-1.
+1. in einer Schul- oder Berufsausbildung stehen, die ihre Arbeitskraft überwiegend in Anspruch nimmt, sofern sie im Zusammenhang mit ihrer Ausbildung Dienstbezüge, Arbeitsentgelt oder sonstige Zuwendungen in entsprechender Höhe nicht erhalten, bis zur Vollendung des 27. Lebensjahres,
 
-2.
+2. wegen körperlicher oder geistiger Gebrechen dauernd erwerbsunfähig sind, sofern die dauernde Erwerbsunfähigkeit vor Vollendung des 27. Lebensjahres eingetreten ist, ohne Rücksicht auf das Lebensalter, wenn sie nicht ein eigenes Einkommen von mehr als 125 Deutsche Mark monatlich,ab 1. Juli 1967von mehr als 150 Deutsche Mark monatlich,ab 1. Januar 1971von mehr als 200 Deutsche Mark monatlich,ab 1. Februar 1977von mehr als 360 Deutsche Mark monatlich,ab 1. März 1978von mehr als 430 Deutsche Mark monatlich,ab 1. März 1979von mehr als 550 Deutsche Mark monatlich,ab 1. März 1981von mehr als 650 Deutsche Mark monatlich,ab 1. Januar 1987von mehr als 750 Deutsche Mark monatlich,ab 1. Januar 1990von mehr als 850 Deutsche Mark monatlich,ab 1. Januar 2002von mehr als 480 Euro monatlich,ab 1. Juni 2008ein höherer Betrag als 520 Euro monatlich,ab 1. Juli 2010ein höherer Betrag als 530 Euro monatlich,ab 1. Oktober 2012ein höherer Betrag als 560 Euro monatlich,ab 1. August 2014ein höherer Betrag als 590 Euro monatlich,ab 1. September 2016ein höherer Betrag als 620 Euro monatlich,ab 1. Januar 2019von mehr als 670 Euro monatlich,ab 1. September 2021von mehr als 700 Euro monatlich undab 1. Dezember 2023von mehr als 780 Euro monatlich
 
 (2) Hat sich in den Fällen des Absatzes 1 Nr. 1 die Schul- oder Berufsausbildung aus einem Grunde, der nicht in der Person des Verfolgten oder des Kindes liegt, über das 27. Lebensjahr hinaus verzögert, so wird die Rente entsprechend dem Zeitraum der nachgewiesenen Verzögerung auch über das 27. Lebensjahr hinaus gezahlt.
 
@@ -108,31 +108,29 @@ Versorgungsbezüge
 
 (3) Zu den nach § 18 Abs. 2 BEG zu berücksichtigenden Umständen gehören insbesondere
 
-1.
+1. eigener Arbeitsverdienst und eigene Dienstbezüge aus zumutbarer Tätigkeit,
 
-2.
+2. eigener Arbeitsverdienst, den der Hinterbliebene zu erwerben unterläßt, obwohl ihm der Erwerb zuzumuten ist,
 
-3.
+3. Leistungen aus privaten Versicherungsverhältnissen,
 
-4.
+4. Zinsen aus der Anlage von Kapitalvermögen und Erträgnisse aus Wertpapieren, es sei denn, daß es sich nachweisbar um Zinsen oder Erträgnisse aus der Anlage von Leistungen handelt, die der Hinterbliebene im Zuge der Entschädigung für Opfer der nationalsozialistischen Verfolgung erhalten hat,
 
-5.
+5. sonstige Vermögenserträgnisse,
 
-6.
+6. Rentenleistungen, die der Hinterbliebene im Zuge der Entschädigung für Opfer der nationalsozialistischen Verfolgung erhalten hat oder erhält, sofern diese Leistungen nicht bereits nach den §§ 141d bis 141k BEG berücksichtigt werden,
 
-7.
+7. sonstige Versorgungsbezüge.
 
-(4) Nicht zumutbar ist eine Arbeit, die bei der sozialen Stellung des Hinterbliebenen nicht üblich ist. Einer Witwe ist eine Erwerbstätigkeit insbesondere dann nicht zuzumuten, wenn sie Einem Witwer ist eine Erwerbstätigkeit insbesondere dann nicht zuzumuten, wenn er das 65. Lebensjahr vollendet hat oder in seiner Erwerbsfähigkeit um mindestens 50 vom Hundert gemindert ist.
+(4) Nicht zumutbar ist eine Arbeit, die bei der sozialen Stellung des Hinterbliebenen nicht üblich ist. Einer Witwe ist eine Erwerbstätigkeit insbesondere dann nicht zuzumuten, wenn sie
 
-1.
+1. für ein Kind unter 14 Jahren zu sorgen hat,
 
-2.
+2. das 45. Lebensjahr vollendet hat,
 
-3.
+3. keine Berufsausbildung besitzt und bisher nicht erwerbstätig war,
 
-4.
-
-(5) Erzielte und erzielbare Einkünfte werden nur insoweit berücksichtigt, als sie den Betrag monatlich übersteigen. Je volle 50 Deutsche Mark, ab dem 1. Januar 2002 je 26 Euro der zu berücksichtigenden monatlichen Einkünfte führen zu einer Ermäßigung des Hundertsatzes um 10 vom Hundert, höchstens jedoch zu einer Kürzung des Monatsbetrages der Rente um 50 Deutsche Mark, ab dem 1. Januar 2002 um 26 Euro.
+4. in ihrer Erwerbsfähigkeit um mindestens 50 vom Hundert gemindert ist.
 
 ### § 13a — Zusammentreffen von Renten für Schaden an Leben mit
 Renten für Schaden an Körper oder Gesundheit oder mit
@@ -166,15 +164,15 @@ Bei der Anrechnung von Leistungen auf laufende Renten gemäß § 10 BEG soll der
 
 Die Rente erlischt
 
-1.
+1. für jeden Hinterbliebenen mit dem Ende des Monats, in dem er stirbt,
 
-2.
+2. für jeden Hinterbliebenen mit Ausnahme der Kinder, der Verwandten aufsteigender Linie und der Adoptiveltern auch mit dem Ende des Monats, in dem er heiratet oder wiederheiratet,
 
-3.
+3. für Kinder und elternlose Enkel auch mit dem Ende des Monats, der dem Monat folgt, in dem sie das 18. Lebensjahr vollenden, es sei denn, daß die Voraussetzungen des § 7 Abs. 1 und 2 vorliegen,
 
-4.
+4. für Pflegekinder auch mit dem Ende des Monats, der dem Monat folgt, in dem für ihren Unterhalt und ihre Erziehung von anderer Seite laufend ein höherer Betrag als 125 Deutsche Mark monatlich,ab 1. Juli 1967ein höherer Betrag als 150 Deutsche Mark monatlich,ab 1. Januar 1971ein höherer Betrag als 200 Deutsche Mark monatlich,ab 1. Februar 1977ein höherer Betrag als 360 Deutsche Mark monatlich,ab 1. März 1978ein höherer Betrag als 430 Deutsche Mark monatlich,ab 1. März 1979ein höherer Betrag als 550 Deutsche Mark monatlich,ab 1. März 1981ein höherer Betrag als 650 Deutsche Mark monatlich,ab 1. Januar 1987ein höherer Betrag als 750 Deutsche Mark monatlich,ab 1. Januar 1990ein höherer Betrag als 850 Deutsche Mark monatlich,ab 1. Januar 2002ein höherer Betrag als 480 Euro monatlich,ab 1. Juni 2008ein höherer Betrag als 520 Euro monatlich,ab 1. Juli 2010ein höherer Betrag als 530 Euro monatlich,ab 1. Oktober 2012ein höherer Betrag als 560 Euro monatlich,ab 1. August 2014ein höherer Betrag als 590 Euro monatlich,ab 1. September 2016ein höherer Betrag als 620 Euro monatlich,ab 1. Januar 2019ein höherer Betrag als 670 Euro monatlich,ab 1. September 2021ein höherer Betrag als 700 Euro monatlich undab 1. Dezember 2023ein höherer Betrag als 780 Euro monatlich
 
-5.
+5. für Verwandte der aufsteigenden Linie und für Adoptiveltern auch mit dem Ende des Monats, in dem die Bedürftigkeit weggefallen ist.
 
 ### § 18a — Wiederaufleben der Rente
 
@@ -186,17 +184,13 @@ Die Rente erlischt
 
 (1) Der Hinterbliebene ist verpflichtet, der zuständigen Entschädigungsbehörde unverzüglich anzuzeigen:
 
-1.
+1. die in § 13 Abs. 3 genannten Arbeitsverdienste, Leistungen und Erträgnisse sowie die Änderung der Einkommensverhältnisse,
 
-2.
+2. die Verheiratung und Wiederverheiratung,
 
-3.
+3. die Beendigung der Schul- und Berufsausbildung im Falle des § 7 Abs. 1 Nr. 1 und den Bezug von Dienstbezügen, Arbeitsentgelt oder sonstigen Zuwendungen in entsprechender Höhe,
 
-4.
-
-5.
-
-6.
+4. den Fortfall der Erwerbsunfähigkeit im Falle des § 7 Abs. 1 Nr. 2 und den Bezug eines Einkommens von mehr als 125 Deutsche Mark monatlich,ab 1. Juli 1967von mehr als 150 Deutsche Mark monatlich,ab 1. Januar 1971von mehr als 200 Deutsche Mark monatlich,ab 1. Februar 1977von mehr als 360 Deutsche Mark monatlich,ab 1. März 1978von mehr als 430 Deutsche Mark monatlich,ab 1. März 1979von mehr als 550 Deutsche Mark monatlich,ab 1. März 1981von mehr als 650 Deutsche Mark monatlich,ab 1. Januar 1987von mehr als 750 Deutsche Mark monatlich,ab 1. Januar 1990von mehr als 850 Deutsche Mark monatlich,ab 1. Januar 2002von mehr als 480 Euro monatlich,ab 1. Juni 2008von mehr als 520 Euro monatlich,ab 1. Juli 2010von mehr als 530 Euro monatlich,ab 1. Oktober 2012von mehr als 560 Euro monatlich,ab 1. August 2014von mehr als 590 Euro monatlich,ab 1. September 2016von mehr als 620 Euro monatlich,ab 1. Januar 2019von mehr als 670 Euro monatlich,ab 1. September 2021von mehr als 700 Euro monatlich undab 1. Dezember 2023von mehr als 780 Euro monatlich,
 
 (2) Der Hinterbliebene ist verpflichtet, der zuständigen Entschädigungsbehörde auf ihr Verlangen einmal jährlich eine Lebensbescheinigung vorzulegen. Die zuständige Entschädigungsbehörde kann auf die Vorlage verzichten, sofern der Zweck der Vorlage einer Lebensbescheinigung durch einen regelmäßigen Abgleich der erforderlichen Daten zwischen der Entschädigungsbehörde und einem amtlichen Melderegister erreicht werden kann.
 
@@ -262,22 +256,18 @@ Verordnung
 
 (1) Es treten in Kraft
 
-1.
+1. die §§ 1, 3, 4, 5 Abs. 1, Abs. 2 Nr. 1, 2 und 4, § 8 Abs. 2, 3, §§ 9 bis 12, § 13 Abs. 1, 2, 3 Nr. 1 bis 3, 5 bis 7, Abs. 4, §§ 14 bis 16 Abs. 1, § 18 Nr. 1, 5, §§ 20, 21, 22 Abs. 1, 3, 4 und § 23 mit Wirkung vom 1. Oktober 1953;
 
-2.
+2. § 7 Abs. 3, § 18 Nr. 2 mit Wirkung vom 1. April 1957;
 
-3.
+3. § 13 Abs. 5 Satz 2 mit Wirkung vom 1. Juni 1960;
 
-4.
+4. § 7 Abs. 1, 2 und § 18 Nr. 3 mit Wirkung vom 1. Juli 1965;
 
-5.
+5. § 5 Abs. 2 Nr. 3 und 5, Abs. 3, §§ 6, 8 Abs. 1, § 13 Abs. 3 Nr. 4, Abs. 5 Satz 1, § 16 Abs. 2, §§ 17, 18 Nr. 4, §§ 19, 22 Abs. 2, §§ 22a und 22b mit Wirkung vom 18. September 1965;
 
-6.
-
-(2) Es treten außer Kraft die §§ 2, 13a und 18a mit Wirkung vom 18. September 1965.
+6. § 21a mit Wirkung vom 1. Januar 1966.
 
 ### Anlage 1 — (zu § 10 der 1. DV-BEG) Besoldungsübersicht
 
 ### Anlage 2 — (zu § 11 der 1.DV-BEG)
-
-Fundstelle des Originaltextes: BGBl. I 1966, 299

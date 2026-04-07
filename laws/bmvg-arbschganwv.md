@@ -21,13 +21,13 @@ Die Bundesrepublik Deutschland, vertreten durch das Bundesministerium der Vertei
 
 ### § 3 — Tätigkeiten
 
-Tätigkeiten im Sinne dieser Verordnung üben Beschäftigte in Dienststellen der Bundeswehr im Rahmen der diesen nach dem Grundgesetz oder durch ein anderes Gesetz zugewiesenen Aufgaben aus.
+Tätigkeiten im Sinne dieser Verordnung üben Beschäftigte in Dienststellen der Bundeswehr im Rahmen der diesen nach dem Grundgesetz oder durch ein anderes Gesetz zugewiesenen Aufgaben
 
-1.
+1. als Einsatztätigkeiten bei unmittelbaren Einsätzen im Verteidigungs- und Spannungsfall, bei Verwendungen im Rahmen eines Systems gegenseitiger kollektiver Sicherheit, zur Hilfe bei einer Naturkatastrophe oder bei einem besonders schweren Unglücksfall sowie beim Vollzug sonstiger gesetzlicher Aufgaben, insbesondere Gefechts-, Aufklärungs- und Überwachungshandlungen sowie Wach- und Sicherungsaufgaben,
 
-2.
+2. als Einsatzunterstützungstätigkeiten bei den Maßnahmen zur Sicherstellung unmittelbarer Einsätze, insbesondere logistischer Unterstützung, Führungs- und Fernmeldeunterstützung, Erbringung von Leistungen zur Betreuung und Fürsorge sowie administrativer Unterstützung, und
 
-3.
+3. als Einsatzvorbereitungstätigkeiten bei allen auf den Einsatz- und die Einsatzunterstützung bezogenen, diesen vorausgehenden Handlungen, insbesondere Übungen und Ausbildungen,
 
 ### § 4 — Voraussetzungen für ein Abweichen von Vorschriften des
 Arbeitsschutzgesetzes

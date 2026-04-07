@@ -15,8 +15,6 @@
 
 ### § 2 — Geheimhaltungsgrade
 
-(1) VS werden je nach dem Schutz, dessen sie bedürfen, in folgende Geheimhaltungsgrade eingestuft:
-
 (2) Als STRENG GEHEIM eingestuft werden VS, deren Kenntnis durch Unbefugte den Bestand der Bundesrepublik Deutschland oder eines ihrer Länder gefährden würde.
 
 (3) Als GEHEIM eingestuft werden VS, deren Kenntnis durch Unbefugte die Sicherheit der Bundesrepublik Deutschland oder eines ihrer Länder gefährden, ihren Interessen oder ihrem Ansehen schweren Schaden zufügen oder für einen fremden Staat von großem Vorteil sein würde.
@@ -41,11 +39,11 @@
 
 (3) Herausgebende Stelle im Sinne des Absatzes 2 sind bei VS, die innerhalb des Bundestages entstehen,
 
-a)
+a) der Präsident,
 
-b)
+b) die Vorsitzenden der Ausschüsse,
 
-c)
+c) weitere vom Präsidenten ermächtigte Stellen.
 
 ### § 3a — Einsichtnahme in VS
 

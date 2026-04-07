@@ -31,7 +31,13 @@ Die Polizeibehörden sind zur Stellung von Ersuchen im Sinne des Artikels IX des
 
 ### Art 6
 
-(1) Ordnungswidrig handelt, wer in der Schweiz vorsätzlich oder fahrlässig eine Zuwiderhandlung im Straßenverkehr begeht, die dort mit Strafe, Geldbuße oder einer sonstigen Sanktion bedroht ist und die unter Berücksichtigung der am Begehungsort geltenden Verkehrsregeln nach deutschem Recht als Ordnungswidrigkeit zu beurteilen wäre, wenn sie im Geltungsbereich dieses Gesetzes begangen worden wäre. Die Verfolgung ist jedoch nur zulässig, wenn 1.der Betroffenea)zur Zeit der Begehung der Zuwiderhandlung Deutscher war oder es danach geworden ist oder b)im Geltungsbereich dieses Gesetzes seinen gewöhnlichen Aufenthalt hat und 2.die zuständige Behörde des Begehungsortes um die Verfolgung ersucht hat. (2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
+(1) Ordnungswidrig handelt, wer in der Schweiz vorsätzlich oder fahrlässig eine Zuwiderhandlung im Straßenverkehr begeht, die dort mit Strafe, Geldbuße oder einer sonstigen Sanktion bedroht ist und die unter Berücksichtigung der am Begehungsort geltenden Verkehrsregeln nach deutschem Recht als Ordnungswidrigkeit zu beurteilen wäre, wenn sie im Geltungsbereich dieses Gesetzes begangen worden wäre. Die Verfolgung ist jedoch nur zulässig, wenn
+
+1. der Betroffenea)zur Zeit der Begehung der Zuwiderhandlung Deutscher war oder es danach geworden ist oder b)im Geltungsbereich dieses Gesetzes seinen gewöhnlichen Aufenthalt hat und zur Zeit der Begehung der Zuwiderhandlung Deutscher war oder es danach geworden ist oder im Geltungsbereich dieses Gesetzes seinen gewöhnlichen Aufenthalt hat und
+
+2. die zuständige Behörde des Begehungsortes um die Verfolgung ersucht hat.
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 
 ### Art 7
 
@@ -39,4 +45,6 @@ Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung die
 
 ### Art 8
 
-(1) Dieses Gesetz tritt mit Ausnahme der Artikel 2 bis 6 am Tage nach seiner Verkündung in Kraft. Die Artikel 2 bis 6 treten zusammen mit dem Vertrag in Kraft.(2) Der Tag, an dem der Vertrag nach seinem Artikel XVI Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
+(1) Dieses Gesetz tritt mit Ausnahme der Artikel 2 bis 6 am Tage nach seiner Verkündung in Kraft. Die Artikel 2 bis 6 treten zusammen mit dem Vertrag in Kraft.
+
+(2) Der Tag, an dem der Vertrag nach seinem Artikel XVI Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.

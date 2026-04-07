@@ -12,8 +12,6 @@ der Schiffsleute
 
 ### § 2
 
-... Für die Durchführung des Übereinkommens ist die Seemannsordnung maßgebend. ...
-
 > § 2 Satz 2 Kursivdruck: Siehe jetzt Seemannsgesetz 9513-1
 
 ### § 3

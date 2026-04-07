@@ -20,31 +20,31 @@
 
 ### § 2
 
-(1) Um den Einsatz von Erdkabeln auf der Höchstspannungsebene im Übertragungsnetz als Pilotvorhaben zu testen, können folgende der in der Anlage zu diesem Gesetz genannten Leitungen nach Maßgabe des Absatzes 2 als Erdkabel errichtet und betrieben oder geändert werden: Als Erdkabel im Sinne des Satzes 1 gelten alle Erdleitungen einschließlich Kabeltunnel und gasisolierter Rohrleitungen.
+(1) Um den Einsatz von Erdkabeln auf der Höchstspannungsebene im Übertragungsnetz als Pilotvorhaben zu testen, können folgende der in der Anlage zu diesem Gesetz genannten Leitungen nach Maßgabe des Absatzes 2 als Erdkabel errichtet und betrieben oder geändert werden:
 
-1.
+1. Abschnitt Ganderkesee – St. Hülfe der Leitung Ganderkesee – Wehrendorf,
 
-2.
+2. Leitung Dörpen/West – Niederrhein,
 
-3.
+3. Leitung Wahle – Mecklar,
 
-4.
+4. Abschnitt Altenfeld – Redwitz der Leitung Lauchstädt – Redwitz,
 
-5.
+5. Rheinquerung im Abschnitt Wesel – Utfort der Leitung Niederrhein – Utfort – Osterath,
 
-6.
+6. Leitung Wehrendorf – Gütersloh.
 
-(2) Im Falle des Neubaus ist auf Verlangen der für die Zulassung des Vorhabens zuständigen Behörde bei den Vorhaben nach Absatz 1 eine Höchstspannungsleitung auf technisch und wirtschaftlich effizienten Teilabschnitten als Erdkabel zu errichten und zu betreiben oder zu ändern, wenn Der Einsatz von Erdkabeln ist auch dann zulässig, wenn die Voraussetzungen nach Satz 1 nicht auf der gesamten Länge des jeweiligen technisch und wirtschaftlich effizienten Teilabschnitts vorliegen. Zusätzlich ist auf Verlangen der für die Zulassung des Vorhabens zuständigen Behörde im Falle des Absatzes 1 Nummer 4 im Naturpark Thüringer Wald (Verordnung über den Naturpark Thüringer Wald vom 27. Juni 2001, GVBl. für den Freistaat Thüringen S. 300) bei der Querung des Rennsteigs eine Höchstspannungsleitung auf einem technisch und wirtschaftlich effizienten Teilabschnitt als Erdkabel zu errichten und zu betreiben oder zu ändern. Um den Einsatz von Erdkabeln auf der Höchstspannungsebene im Übertragungsnetz auf einer längeren Strecke als Pilotvorhaben zu testen, kann zusätzlich ein 10 bis 20 Kilometer langer Teilabschnitt des Abschnitts Wahle – Lamspringe der in Absatz 1 Satz 1 Nummer 3 genannten Leitung auf Antrag des Vorhabenträgers als Erdkabel errichtet und betrieben oder geändert werden.
+(2) Im Falle des Neubaus ist auf Verlangen der für die Zulassung des Vorhabens zuständigen Behörde bei den Vorhaben nach Absatz 1 eine Höchstspannungsleitung auf technisch und wirtschaftlich effizienten Teilabschnitten als Erdkabel zu errichten und zu betreiben oder zu ändern, wenn
 
-1.
+1. die Leitung in einem Abstand von weniger als 400 Metern zu Wohngebäuden errichtet werden soll, die im Geltungsbereich eines Bebauungsplans oder im unbeplanten Innenbereich im Sinne des § 34 des Baugesetzbuchs liegen, falls diese Gebiete vorwiegend dem Wohnen dienen,
 
-2.
+2. die Leitung in einem Abstand von weniger als 200 Metern zu Wohngebäuden errichtet werden soll, die im Außenbereich im Sinne des § 35 des Baugesetzbuchs liegen,
 
-3.
+3. eine Freileitung gegen die Verbote des § 44 Absatz 1 auch in Verbindung mit Absatz 5 des Bundesnaturschutzgesetzes verstieße und mit dem Einsatz von Erdkabeln eine zumutbare Alternative im Sinne des § 45 Absatz 7 Satz 2 des Bundesnaturschutzgesetzes gegeben ist,
 
-4.
+4. eine Freileitung nach § 34 Absatz 2 des Bundesnaturschutzgesetzes unzulässig wäre und mit dem Einsatz von Erdkabeln eine zumutbare Alternative im Sinne des § 34 Absatz 3 Nummer 2 des Bundesnaturschutzgesetzes gegeben ist oder
 
-5.
+5. die Leitung eine Bundeswasserstraße im Sinne von § 1 Absatz 1 Nummer 1 des Bundeswasserstraßengesetzes queren soll, deren zu querende Breite mindestens 300 Meter beträgt; bei der Bemessung der Breite findet § 1 Absatz 6 des Bundeswasserstraßengesetzes keine Anwendung.
 
 (3) Für die Vorhaben nach Absatz 1 kann ergänzend zu § 43 Absatz 1 Satz 1 Nummer 1 des Energiewirtschaftsgesetzes ein Planfeststellungsverfahren auch für die Errichtung und den Betrieb sowie die Änderung eines Erdkabels nach Maßgabe des Teils 5 des Energiewirtschaftsgesetzes durchgeführt werden.
 
@@ -55,5 +55,3 @@
 > (+++ § 2 Abs. 5: Zur Anwendung vgl. § 3 Abs. 6 u. § 4 Abs. 3 BBPlG +++)
 
 ### Anlage
-
-Vorhaben nach § 1 Abs. 1, für die ein vordringlicher Bedarf besteht:

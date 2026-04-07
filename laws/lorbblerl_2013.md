@@ -11,7 +11,13 @@ Auf Grund des § 3 Absatz 1 des Gesetzes über Titel, Orden und Ehrenzeichen in 
 
 ### Art II
 
-(1) Das Silberne Lorbeerblatt ist ein Ehrenzeichen. Es wird als Auszeichnung für herausragende sportliche Leistungen auf internationaler Ebene verliehen.(2) Bei der Wertung der Leistung wird ein strenger internationaler Maßstab angelegt.(3) Die oder der Auszuzeichnende erhält neben dem Ehrenzeichen eine Verleihungsurkunde.(4) Bei der Auszeichnung einer Mannschaftsleistung erhält die Mannschaft eine vergrößerte Ausführung des Silbernen Lorbeerblattes und eine Verleihungsurkunde.
+(1) Das Silberne Lorbeerblatt ist ein Ehrenzeichen. Es wird als Auszeichnung für herausragende sportliche Leistungen auf internationaler Ebene verliehen.
+
+(2) Bei der Wertung der Leistung wird ein strenger internationaler Maßstab angelegt.
+
+(3) Die oder der Auszuzeichnende erhält neben dem Ehrenzeichen eine Verleihungsurkunde.
+
+(4) Bei der Auszeichnung einer Mannschaftsleistung erhält die Mannschaft eine vergrößerte Ausführung des Silbernen Lorbeerblattes und eine Verleihungsurkunde.
 
 ### Art III
 
@@ -19,11 +25,17 @@ Wurde das Silberne Lorbeerblatt bereits verliehen, erfolgt bei wiederholten spor
 
 ### Art IV
 
-(1) Die Auszeichnung mit dem Silbernen Lorbeerblatt setzt eine vorbildliche menschliche und charakterliche Haltung der oder des Auszuzeichnenden voraus.(2) Ein mit einer Sperre sanktionierter Verstoß gegen Anti-Doping-Bestimmungen durch Sportlerinnen und Sportler schließt eine Auszeichnung grundsätzlich aus. Davon abweichende Vorschläge können frühestens nach Ablauf von zwei Jahren nach dem Ende der verhängten sportrechtlichen Sperre geprüft werden.(3) Auf die Entziehung des Ehrenzeichens findet § 4 Absatz 1 des Gesetzes über Titel, Orden und Ehrenzeichen Anwendung.
+(1) Die Auszeichnung mit dem Silbernen Lorbeerblatt setzt eine vorbildliche menschliche und charakterliche Haltung der oder des Auszuzeichnenden voraus.
+
+(2) Ein mit einer Sperre sanktionierter Verstoß gegen Anti-Doping-Bestimmungen durch Sportlerinnen und Sportler schließt eine Auszeichnung grundsätzlich aus. Davon abweichende Vorschläge können frühestens nach Ablauf von zwei Jahren nach dem Ende der verhängten sportrechtlichen Sperre geprüft werden.
+
+(3) Auf die Entziehung des Ehrenzeichens findet § 4 Absatz 1 des Gesetzes über Titel, Orden und Ehrenzeichen Anwendung.
 
 ### Art V
 
-(1) Das Ehrenzeichen ist eine silberne Anstecknadel in der Form eines waagerechten Lorbeerblattes. Es kann auch in einer Sonderausfertigung verliehen werden. Abbildungen des im Bundesministerium des Innern verwahrten amtlichen Musters des Ehrenzeichens und der vergrößerten Ausführung werden als Anlage zu den Richtlinien (Artikel VIII) veröffentlicht.(2) Wird das Silberne Lorbeerblatt in verkleinerter Ausführung als Miniatur oder an der Bandschnalle getragen, so erhalten diese die olympischen Farben.
+(1) Das Ehrenzeichen ist eine silberne Anstecknadel in der Form eines waagerechten Lorbeerblattes. Es kann auch in einer Sonderausfertigung verliehen werden. Abbildungen des im Bundesministerium des Innern verwahrten amtlichen Musters des Ehrenzeichens und der vergrößerten Ausführung werden als Anlage zu den Richtlinien (Artikel VIII) veröffentlicht.
+
+(2) Wird das Silberne Lorbeerblatt in verkleinerter Ausführung als Miniatur oder an der Bandschnalle getragen, so erhalten diese die olympischen Farben.
 
 ### Art VI
 
@@ -42,5 +54,3 @@ Einzelheiten der Verleihung werden in Richtlinien zu diesem Erlass festgelegt. D
 Dieser Erlass tritt am 1. Juni 2013 in Kraft. Mit Ablauf des 31. Mai 2013 tritt der Erlass über die Stiftung des Silbernen Lorbeerblattes vom 24. März 1964 (BGBl. I S. 242), geändert durch Erlass vom 28. November 1980 (BGBl. I S. 2217), außer Kraft.
 
 ### Schlussformel
-
-Der BundespräsidentDer Bundesminister des Innern

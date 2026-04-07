@@ -24,11 +24,11 @@ Zweck dieses Gesetzes ist es, die Grundlagen für den Handel mit Emissionszertif
 
 (2) Brennstoffe gelten mit dem Entstehen der Energiesteuer nach § 8 Absatz 1, § 9 Absatz 1, § 9a Absatz 4, § 18b Absatz 1, § 19b Absatz 1, § 22 Absatz 1, § 30 Absatz 1, § 32 Absatz 1, den §§ 34, 35, 36 Absatz 1, § 37 Absatz 2 Satz 5 und 6, Absatz 3 Satz 2, Absatz 4 Satz 1, § 38 Absatz 1, § 40 Absatz 1, § 41 Absatz 1, § 43 Absatz 1 oder § 44 Absatz 4 Satz 2 des Energiesteuergesetzes als in Verkehr gebracht. Brennstoffe im Verfahren der steuerfreien Verwendung nach § 37 Absatz 2 Nummer 3 oder Nummer 4 des Energiesteuergesetzes gelten ebenfalls als in Verkehr gebracht, sofern sie nicht in einer dem EU-Emissionshandel unterliegenden Anlage verwendet werden.
 
-(2a) Sofern Brennstoffe nicht bereits nach Absatz 2 als in Verkehr gebracht gelten, gelten sie als in Verkehr gebracht, wenn sie in Anlagen zur Beseitigung oder Verwertung von Abfällen verwendet werden, die nach des Anhangs 1 zu der Verordnung über genehmigungsbedürftige Anlagen einer Genehmigung bedürfen, und der Betreiber einer solchen Anlage nicht der Pflicht zur Abgabe von Berechtigungen nach § 7 Absatz 1 des Treibhausgas-Emissionshandelsgesetzes unterliegt.
+(2a) Sofern Brennstoffe nicht bereits nach Absatz 2 als in Verkehr gebracht gelten, gelten sie als in Verkehr gebracht, wenn sie in Anlagen zur Beseitigung oder Verwertung von Abfällen verwendet werden, die nach
 
-1.
+1. Nummer 8.1.1 oder
 
-2.
+2. Nummer 8.1.2 mit dem Hauptbrennstoff Altöl
 
 (3) Dieses Gesetz gilt auch für Aufgaben im Zusammenhang mit Maßnahmen nach diesem Gesetz zur Kompensation der Doppelerfassung von Emissionen im EU-Emissionshandel und mit Maßnahmen zum Erhalt der internationalen Wettbewerbsfähigkeit sowie zum Ausgleich unzumutbarer Härten.
 
@@ -38,35 +38,27 @@ Zweck dieses Gesetzes ist es, die Grundlagen für den Handel mit Emissionszertif
 
 Im Sinne dieses Gesetzes ist oder sind:
 
-1.
+1. Brennstoffemission: die Menge Kohlendioxid in Tonnen, die bei einer Verbrennung von Brennstoffen nach Anlage 1 freigesetzt werden kann und dem Verantwortlichen infolge des Inverkehrbringens nach § 2 Absatz 2 oder 2a zugerechnet wird;
 
-2.
+2. Emissionszertifikat: das Zertifikat, das zur Emission einer Tonne Treibhausgase in Tonnen Kohlendioxidäquivalent in einem bestimmten Zeitraum berechtigt;
 
-3.
+3. Verantwortlicher: in den Fällen des a)§ 2 Absatz 2 Satz 1 die natürliche oder juristische Person oder Personengesellschaft, die für die dort genannten Tatbestände als Steuerschuldner definiert ist,b)§ 2 Absatz 2 Satz 2 abweichend von Nummer 1 der Erlaubnisinhaber gemäß § 37 Absatz 1 Satz 1 des Energiesteuergesetzes,c)§ 2 Absatz 2a Satz 1 der Betreiber der Anlage,d)§ 7 Absatz 4 Satz 1 des Energiesteuergesetzes der an die Stelle des Steuerlagerinhabers tretende Dritte (Einlagerer); § 2 Absatz 2 Satz 1 die natürliche oder juristische Person oder Personengesellschaft, die für die dort genannten Tatbestände als Steuerschuldner definiert ist, § 2 Absatz 2 Satz 2 abweichend von Nummer 1 der Erlaubnisinhaber gemäß § 37 Absatz 1 Satz 1 des Energiesteuergesetzes, § 2 Absatz 2a Satz 1 der Betreiber der Anlage, § 7 Absatz 4 Satz 1 des Energiesteuergesetzes der an die Stelle des Steuerlagerinhabers tretende Dritte (Einlagerer);
 
-a)
+4. EU-Emissionshandel: das unionsweite System zur Erfassung und Begrenzung von Treibhausgasemissionen, geregelt durch die Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates vom 13. Oktober 2003 über ein System für den Handel mit Treibhausgasemissionszertifikaten in der Gemeinschaft und zur Änderung der Richtlinie 96/61/EG des Rates (ABl. L 275 vom 25.10.2003, S. 32; L 140 vom 14.5.2014, S. 177), die zuletzt durch die Verordnung (EU) 2024/795 vom 29. Februar 2024 (ABl. L, 2024/795, 29.2.2024) geändert worden ist, in der jeweils geltenden Fassung;
 
-b)
+5. EU-Klimaschutzverordnung: die Verordnung (EU) 2018/842 des Europäischen Parlaments und des Rates vom 30. Mai 2018 zur Festlegung verbindlicher nationaler Jahresziele für die Reduzierung der Treibhausgasemissionen im Zeitraum 2021 bis 2030 als Beitrag zu Klimaschutzmaßnahmen zwecks Erfüllung der Verpflichtungen aus dem Übereinkommen von Paris sowie zur Änderung der Verordnung (EU) Nr. 525/2013 (ABl. L 156 vom 19.6.2018, S. 26), die zuletzt durch die Verordnung (EU) 2023/857 vom 19. April 2023 (ABl. L 111 vom 26.4.2023, S. 1) geändert worden ist, in der jeweils geltenden Fassung;
 
-c)
+6. Handelsperiode: der Zeitraum, der dem in der EU-Klimaschutzverordnung festgelegten Zeitraum entspricht;
 
-d)
+7. Kombinierte Nomenklatur: die Warennomenklatur nach Artikel 1 der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 256 vom 7.9.1987, S. 1; L 341 vom 3.12.1987, S. 38; L 378 vom 31.12.1987, S. 120; L 130 vom 26.5.1988, S. 42; L 151 vom 8.6.2016, S. 22) in der durch die Durchführungsverordnung (EU) 2017/1925 (ABl. L 282 vom 31.10.2017, S. 1) geänderten, am 1. Januar 2018 geltenden Fassung;
 
-4.
+8. Überwachungsplan: eine Darstellung der Methode, die ein Verantwortlicher anwendet, um seine Brennstoffemissionen zu ermitteln und darüber Bericht zu erstatten;
 
-5.
+9. Treibhausgase: die in § 3 Nummer 27 des Treibhausgas-Emissionshandelsgesetzes aufgeführten Treibhausgase;
 
-6.
+10. Energiesteuergesetz: das Energiesteuergesetz vom 15. Juli 2006 (BGBl. I S. 1534; 2008 I S. 660, 1007), das zuletzt durch Artikel 3 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 107) geändert worden ist, in der jeweils geltenden Fassung;
 
-7.
-
-8.
-
-9.
-
-10.
-
-11.
+11. Verordnung über genehmigungsbedürftige Anlagen: die Verordnung über genehmigungsbedürftige Anlagen in der Fassung der Bekanntmachung vom 31. Mai 2017 (BGBl. I S. 1440), die zuletzt durch Artikel 1 der Verordnung vom 12. Oktober 2022 (BGBl. I S. 1799) geändert worden ist.
 
 ## Abschnitt 2: Mengenplanung
 
@@ -88,11 +80,11 @@ d)
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Einzelheiten zur Berechnung des zusätzlichen Bedarfs nach Absatz 1 zu regeln, insbesondere zur Berücksichtigung
 
-1.
+1. der Anrechnung möglicher Überschüsse an Emissionszuweisungen durch Minderungen in anderen Sektoren,
 
-2.
+2. der Menge der ausgegebenen, aber nicht abgegebenen Emissionszertifikate in einem Jahr und
 
-3.
+3. der tatsächlichen Schnittmenge, die sich nach § 4 Absatz 3 ergibt.
 
 ## Abschnitt 3: Grundpflichten der Verantwortlichen
 
@@ -104,19 +96,19 @@ d)
 
 (3) Die Genehmigung für den vereinfachten Überwachungsplan ist zu erteilen, wenn der Verantwortliche erklärt, die Brennstoffemissionen nur unter Anwendung von Standardemissionsfaktoren zu ermitteln und die vom Verantwortlichen vorgesehene Methodik zur Erfassung von Art und Menge der in Verkehr gebrachten Brennstoffe den Vorgaben der Rechtsverordnung nach Absatz 5 entspricht. Absatz 2 Satz 2 und 3 gilt entsprechend. Die Genehmigung für den vereinfachten Überwachungsplan gilt als erteilt, wenn die zuständige Behörde den Verantwortlichen nicht innerhalb von zwei Monaten nach Einreichung des vereinfachten Überwachungsplans auffordert, festgestellte Mängel zu beseitigen oder fehlende Erläuterungen nachzureichen.
 
-(4) Der Verantwortliche ist verpflichtet, den Überwachungsplan oder den vereinfachten Überwachungsplan innerhalb einer Handelsperiode unverzüglich anzupassen und bei der zuständigen Behörde einzureichen, wenn Für den angepassten Überwachungsplan nach Satz 1 gelten die Absätze 1 bis 3 entsprechend.
+(4) Der Verantwortliche ist verpflichtet, den Überwachungsplan oder den vereinfachten Überwachungsplan innerhalb einer Handelsperiode unverzüglich anzupassen und bei der zuständigen Behörde einzureichen, wenn
 
-1.
+1. sich die Vorgaben in der Rechtsverordnung nach Absatz 5 ändern,
 
-2.
+2. der Verantwortliche plant, andere Arten von Brennstoffen in Verkehr zu bringen, die eine Änderung der Überwachungsmethodik erfordern, oder
 
-3.
+3. ein Verantwortlicher mit vereinfachtem Überwachungsplan entscheidet, seine Brennstoffemissionen im Folgejahr nicht mehr ausschließlich durch Anwendung von Standardemissionsfaktoren zu ermitteln.
 
 (5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Fristen zur Einreichung des Überwachungsplans oder des vereinfachten Überwachungsplans festzulegen sowie Anforderungen an den Mindestinhalt des Überwachungsplans oder des vereinfachten Überwachungsplans zu bestimmen, insbesondere an
 
-1.
+1. die Dokumentation der Methodik zur Ermittlung der Brennstoffemissionen sowie von Art und Menge der vom Verantwortlichen in Verkehr gebrachten Brennstoffe sowie
 
-2.
+2. Einzelheiten zur Methodik der Berichterstattung über Brennstoffemissionen der Verantwortlichen.
 
 ### § 7 — Ermittlung und Bericht über Brennstoffemissionen
 
@@ -128,23 +120,17 @@ d)
 
 (4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Anforderungen an die Ermittlung der Brennstoffemissionen und die Berichterstattung zu regeln, insbesondere kann sie
 
-1.
+1. Vorgaben an die Emissionsermittlung, die Ermittlungsmethoden, die Berichterstattung und die Verifizierung machen,
 
-2.
+2. Standardwerte für Emissionsfaktoren von Brennstoffen festlegen, wobei die Standardwerte so zu bemessen sind, dass eine Unterschätzung der Brennstoffemissionen des jeweiligen Brennstoffs ausgeschlossen erscheint; dabei sollen a)biogene Brennstoffemissionen bei entsprechendem Nachhaltigkeitsnachweis mit Ausnahme von Brennstoffemissionen aus Rohstoffen mit hohem Risiko indirekter Landnutzungsänderung nach Artikel 3 der Delegierten Verordnung (EU) 2019/807 der Kommission vom 13. März 2019 (ABl. L 133 vom 21.5.2019, S. 1),b)Brennstoffemissionen aus flüssigen oder gasförmigen erneuerbaren Brennstoffen nicht-biogenen Ursprungs, sobald eine Rechtsverordnung weitere Bestimmungen über die Einhaltung der Anforderungen der Richtlinie (EU) 2018/2001 sowie das Nachweisverfahren festlegt, sowiec)Klärschlämmemit dem Emissionsfaktor Null belegt werden, biogene Brennstoffemissionen bei entsprechendem Nachhaltigkeitsnachweis mit Ausnahme von Brennstoffemissionen aus Rohstoffen mit hohem Risiko indirekter Landnutzungsänderung nach Artikel 3 der Delegierten Verordnung (EU) 2019/807 der Kommission vom 13. März 2019 (ABl. L 133 vom 21.5.2019, S. 1), Brennstoffemissionen aus flüssigen oder gasförmigen erneuerbaren Brennstoffen nicht-biogenen Ursprungs, sobald eine Rechtsverordnung weitere Bestimmungen über die Einhaltung der Anforderungen der Richtlinie (EU) 2018/2001 sowie das Nachweisverfahren festlegt, sowie Klärschlämme
 
-a)
+3. Erleichterungen für die Berichterstattung und für die Verifizierung bei ausschließlicher Ermittlung und Berichterstattung nach Standardemissionsfaktoren vorsehen,
 
-b)
+4. anordnen, dass die Ermittlung der Brennstoffemissionen ausschließlich unter Anwendung der Standardemissionsfaktoren vorgenommen wird,
 
-c)
+5. Einzelheiten regeln zur Vermeidung von Doppelerfassungen durch Freistellung von der Berichtspflicht für Brennstoffemissionen, die bereits nachweislich Gegenstand der Emissionsberichterstattung waren,
 
-3.
-
-4.
-
-5.
-
-6.
+6. in den Fällen des § 2 Absatz 2a Ausnahmen von der Berichtspflicht nach Absatz 1 regeln, soweit nach dem nationalen und europäischen Rechtsrahmen für den EU-Emissionshandel entsprechende Ausnahmen für die Berichterstattung der dem EU-Emissionshandel unterliegenden Anlagen vorgesehen sind.
 
 (5) Doppelbelastungen infolge des Einsatzes von Brennstoffen in einer dem EU-Emissionshandel unterliegenden Anlage sind möglichst vorab zu vermeiden. Die Bundesregierung wird bis zum 31. Dezember 2020 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Anforderungen und Verfahren festlegen, wie der Verantwortliche insbesondere im Falle einer Direktlieferung von Brennstoffen an ein Unternehmen und deren Einsatzes in einer dem EU-Emissionshandel unterliegenden Anlage oder im Falle einer direkten Verwendung von Brennstoffen in seiner dem EU-Emissionshandel unterliegenden Anlage eine entsprechende Menge an Brennstoffemissionen von den nach Absatz 1 zu berichtenden Brennstoffemissionen abziehen kann, soweit durch den Emissionsbericht nach § 5 des Treibhausgas-Emissionshandelsgesetzes der Einsatz dieser Brennstoffe nachgewiesen ist.
 
@@ -166,33 +152,29 @@ Der Verantwortliche hat jährlich bis zum 30. September an die zuständige Behö
 
 (1) Die nach § 4 Absatz 1 und 3 festgelegte Menge an Emissionszertifikaten sowie der zusätzliche Bedarf, der sich in der Einführungsphase nach Absatz 2 ergeben kann, werden durch die zuständige Behörde veräußert. Die Emissionszertifikate werden zum Festpreis verkauft und ab 2026 versteigert. Im Falle der Versteigerung wird die in einem Kalenderjahr zur Verfügung stehende Versteigerungsmenge in regelmäßigen Abständen in gleichen Teilmengen angeboten. Die zuständige Behörde stellt sicher, dass die Versteigerungstermine nach Absatz 3 spätestens zwei Monate im Voraus bekannt gemacht werden.
 
-(2) In der Einführungsphase werden die Emissionszertifikate zunächst zum Festpreis verkauft. Für die Dauer des Verkaufs beträgt der Festpreis pro Emissionszertifikat Verantwortliche können bis zu 10 Prozent der in einem der Jahre 2021 bis 2025 erworbenen Emissionszertifikate bis zum 30. September des jeweiligen Folgejahres zur Erfüllung der Abgabepflicht nach § 8 für das Vorjahr zu dem für dieses Jahr festgelegten Festpreis erwerben. Für das Jahr 2026 wird ein Preiskorridor mit einem Mindestpreis von 55 Euro pro Emissionszertifikat und einem Höchstpreis von 65 Euro pro Emissionszertifikat festgelegt.
+(2) In der Einführungsphase werden die Emissionszertifikate zunächst zum Festpreis verkauft. Für die Dauer des Verkaufs beträgt der Festpreis pro Emissionszertifikat
 
-1.
+1. im Zeitraum vom 1. Januar 2021 bis zum 31. Dezember 2021: 25 Euro,
 
-2.
+2. im Zeitraum vom 1. Januar 2022 bis zum 31. Dezember 2022: 30 Euro,
 
-3.
+3. im Zeitraum vom 1. Januar 2023 bis zum 31. Dezember 2023: 30 Euro,
 
-4.
+4. im Zeitraum vom 1. Januar 2024 bis zum 31. Dezember 2024: 45 Euro,
 
-5.
+5. im Zeitraum vom 1. Januar 2025 bis zum 31. Dezember 2025: 55 Euro.
 
 (3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das Versteigerungsverfahren sowie Einzelheiten zum Verkauf zum Festpreis zu regeln. In der Rechtsverordnung können insbesondere festgelegt werden:
 
-1.
+1. die zuständige Stelle sowie die Möglichkeit zur Beauftragung von Dritten durch die zuständige Stelle mit der Durchführung des Veräußerungsverfahrens, einschließlich der Vereinnahmung und Abführung der Veräußerungserlöse, und die Aufsicht über diese beauftragten Dritten;
 
-2.
+2. die Regeln für die Ausgestaltung und Durchführung des Versteigerungsverfahrens; diese müssen objektiv, nachvollziehbar und diskriminierungsfrei sein und Vorkehrungen gegen die Beeinflussung der Preisbildung durch das Verhalten einzelner Bieter treffen;
 
-3.
+3. von Absatz 2 Satz 4 abweichende Preisregelungen für den zusätzlichen Bedarf nach § 5 Absatz 1 sowie Regelungen für den Erwerb von Emissionszertifikaten im Folgejahr;
 
-4.
+4. für den Fall, dass gemäß einer Rechtsverordnung nach § 24 Absatz 2 Nummer 2 für die Jahre ab 2027 eine jährliche Emissionsmenge nach § 4 Absatz 1 Satz 1 verbleibt, abweichend von Absatz 1 Satz 1 und 2 die Fortführung des Verkaufs zu einem marktbasierten Preis, der folgendem Bezugspreis entspricht: a)in den ersten beiden Quartalen des Jahres 2027 dem mengengewichteten Durchschnittspreis der Versteigerungen von Berechtigungen nach § 10 Absatz 1 des Treibhausgas-Emissionshandelsgesetzes in dem jeweils vorletzten vorangegangenen Quartal undb)ab dem dritten Quartal 2027 dem mengengewichteten Durchschnittspreis der Versteigerungen von Emissionszertifikaten nach § 10 Absatz 1 des Treibhausgas-Emissionshandelsgesetzes in dem jeweils vorletzten vorangegangenen Quartal; in den ersten beiden Quartalen des Jahres 2027 dem mengengewichteten Durchschnittspreis der Versteigerungen von Berechtigungen nach § 10 Absatz 1 des Treibhausgas-Emissionshandelsgesetzes in dem jeweils vorletzten vorangegangenen Quartal und ab dem dritten Quartal 2027 dem mengengewichteten Durchschnittspreis der Versteigerungen von Emissionszertifikaten nach § 10 Absatz 1 des Treibhausgas-Emissionshandelsgesetzes in dem jeweils vorletzten vorangegangenen Quartal;
 
-a)
-
-b)
-
-5.
+5. im Fall von Artikel 30k Absatz 2 der Richtlinie 2003/87/EG für das Jahr 2027 abweichend von Absatz 1 Satz 1 und 2 die Fortführung des Verkaufs zum Festpreis, der in jedem Quartal des Jahres 2027 dem mengengewichteten Durchschnittspreis der Versteigerungen von Berechtigungen nach § 10 des Treibhausgas-Emissionshandelsgesetzes in dem jeweils vorletzten vorangegangenen Quartal entspricht.
 
 (4) Die Erlöse aus der Veräußerung stehen dem Bund zu. Die Kosten, die dem Bund durch die Wahrnehmung der ihm im Rahmen dieses Gesetzes zugewiesenen Aufgaben, einschließlich der gemäß § 11 entstehenden Ausgaben, entstehen und nicht durch Gebühren nach § 16 gedeckt sind, werden aus den Erlösen nach Satz 1 gedeckt, mit Ausnahme der Kosten nach § 5.
 
@@ -228,43 +210,43 @@ b)
 
 (1) Die zuständige Behörde hat die Durchführung dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen zu überwachen.
 
-(2) Die Verantwortlichen sind verpflichtet, den Angehörigen der zuständigen Behörde und deren Beauftragten unverzüglich Im Rahmen der Pflichten nach Satz 1 haben die Verantwortlichen Arbeitskräfte sowie Hilfsmittel bereitzustellen.
+(2) Die Verantwortlichen sind verpflichtet, den Angehörigen der zuständigen Behörde und deren Beauftragten unverzüglich
 
-1.
+1. den Zutritt zu den Betriebsräumen oder Grundstücken zu den Geschäftszeiten zu gestatten,
 
-2.
+2. die Vornahme von Prüfungen zu den Geschäftszeiten zu gestatten sowie
 
-3.
+3. auf Anforderung die Auskünfte zu erteilen und die Unterlagen vorzulegen, die zur Erfüllung ihrer Aufgaben erforderlich sind.
 
 (3) Für die zur Auskunft verpflichtete Person gilt § 55 der Strafprozessordnung entsprechend.
 
-(4) Zur Überprüfung der von Verantwortlichen nach § 7 übermittelten Angaben durch die zuständige Behörde ist die Übermittlung der Daten der Verantwortlichen durch eine andere Behörde an die zuständige Behörde zulässig, die im Rahmen von erhoben oder bekannt wurden. Die übermittelten Daten umfassen die der jeweiligen anderen Behörde bekannt gewordenen Daten der Verantwortlichen, soweit diese Daten für die Prüfung der Emissionsberichterstattung oder der Erfüllung der sonstigen emissionshandelsrechtlichen Verpflichtungen dieser Verantwortlichen nach diesem Gesetz erforderlich sind und soweit nicht überwiegende schutzwürdige Interessen der betroffenen Person entgegenstehen. Die Übermittlung von Daten nach den Sätzen 1 und 2 ist auf Ersuchen der zuständigen Behörde anhand angemessener Stichproben außerhalb des automatisierten Abrufverfahrens durchzuführen, bis die für ein automatisiertes Abrufverfahren oder automatisiertes Anfrage- und Auskunftsverfahren erforderlichen technischen und organisatorischen Voraussetzungen in der jeweiligen anderen Behörde für eine Umsetzung der Regelungen einer Rechtsverordnung nach Absatz 5 vorliegen. § 30 Absatz 1 der Abgabenordnung steht Übermittlungen nach den Sätzen 1 bis 3 nicht entgegen.
+(4) Zur Überprüfung der von Verantwortlichen nach § 7 übermittelten Angaben durch die zuständige Behörde ist die Übermittlung der Daten der Verantwortlichen durch eine andere Behörde an die zuständige Behörde zulässig, die im Rahmen von
 
-1.
+1. Besteuerungsverfahren der in § 2 Absatz 2 genannten Tatbestände des Energiesteuergesetzes,
 
-2.
+2. Verfahren nach § 37c Absatz 1 des Bundes-Immissionsschutzgesetzes und
 
-3.
+3. Antragsverfahren nach der Herkunfts- und Regionalnachweis-Durchführungsverordnung zur Ausstellung von Herkunftsnachweisen für Strom aus erneuerbaren Energien zu den zur Stromerzeugung eingesetzten Energieträgern
 
 (5) Die zuständige Behörde ist berechtigt, die im Rahmen der Erfüllung der Aufgaben nach diesem Gesetz von Verantwortlichen übermittelten Daten und Angaben dem Bundesministerium für Wirtschaft und Klimaschutz zu Zwecken der Rechts- und Fachaufsicht in nicht personenbezogener Form zu übermitteln. Sowohl die zuständige Behörde als auch das Bundesministerium für Wirtschaft und Klimaschutz dürfen die Daten und Angaben nach Satz 1 in nicht personenbezogener Form an beauftragte Dritte zu Zwecken der Fortentwicklung dieses Gesetzes übermitteln. Daten und Angaben, die Betriebs- und Geschäftsgeheimnisse darstellen, dürfen an beauftragte Dritte ohne Geheimhaltungsvereinbarung nur übermittelt werden, wenn ein Bezug zu dem Unternehmen nicht mehr hergestellt werden kann.
 
-(6) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, andere Bundesbehörden zur Übermittlung von Daten nach Absatz 4 Satz 1 an die zuständige Behörde in einem automatisierten Abrufverfahren oder automatisierten Anfrage- und Auskunftsverfahren zu verpflichten. In der Rechtsverordnung können Einzelheiten zur Datenübermittlung geregelt werden, insbesondere das Nähere über Im Falle eines automatisierten Abrufverfahrens oder eines automatisierten Anfrage- und Auskunftsverfahrens haben die beteiligten Stellen zu gewährleisten, dass dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit getroffen werden, die insbesondere die Vertraulichkeit und Integrität der Daten gewährleisten; im Falle der Nutzung allgemein zugänglicher Netze sind dem jeweiligen Stand der Technik entsprechende Verschlüsselungsverfahren anzuwenden.
+(6) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, andere Bundesbehörden zur Übermittlung von Daten nach Absatz 4 Satz 1 an die zuständige Behörde in einem automatisierten Abrufverfahren oder automatisierten Anfrage- und Auskunftsverfahren zu verpflichten. In der Rechtsverordnung können Einzelheiten zur Datenübermittlung geregelt werden, insbesondere das Nähere über
 
-1.
+1. den Umfang und die Form der erforderlichen Daten,
 
-2.
+2. die Festlegungen zur Auskunftsfrequenz und zur Bearbeitungsfrist und
 
-3.
+3. die Anforderung an das Verfahren zur Datenübermittlung einschließlich der Art und Weise der Übermittlung der Daten.
 
 ### § 15 — Prüfstellen
 
-(1) Zur Prüfung von Emissionsberichten nach § 7 Absatz 1 sind berechtigt: Für die Prüfung der Emissionsberichte und der Anträge aufgrund von § 11 gelten die Anforderungen nach der Durchführungsverordnung (EU) 2018/2067 der Kommission vom 19. Dezember 2018 über die Prüfung von Daten und die Akkreditierung von Prüfstellen gemäß der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates (ABl. L 334 vom 31.12.2018, S. 94), die zuletzt durch Artikel 1 der Durchführungsverordnung (EU) 2024/1321 vom 8. Mai 2024 (ABl. L, 2024/1321, 13.5.2024) geändert worden ist, in der jeweils geltenden Fassung entsprechend. Die Prüfstelle nimmt die ihr zugewiesenen Aufgaben nur im öffentlichen Interesse wahr.
+(1) Zur Prüfung von Emissionsberichten nach § 7 Absatz 1 sind berechtigt:
 
-1.
+1. die für die Tätigkeitsgruppen nach den Nummern 1a bis 2 des Anhangs I der Durchführungsverordnung (EU) 2018/2067 der Kommission vom 19. Dezember 2018 über die Prüfung von Daten und die Akkreditierung von Prüfstellen gemäß der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates (ABl. L 334 vom 31.12.2018, S. 94) akkreditierten Prüfstellen für Berichte über Brennstoffemissionen in ihrem jeweiligen Tätigkeitsbereich,
 
-2.
+2. die nach dem Umweltauditgesetz in der Fassung der Bekanntmachung vom 4. September 2002 (BGBl. I S. 3490), das zuletzt durch Artikel 13 des Gesetzes vom 27. Juni 2017 (BGBl. I S. 1966) geändert worden ist, in der jeweiligen Fassung zugelassenen Umweltgutachter für Berichte über Brennstoffemissionen von Verantwortlichen in dem Bereich, für den die Umweltgutachter zugelassen sind, sowie
 
-3.
+3. weitere Prüfstellen nach Maßgabe einer Rechtsverordnung nach Absatz 2.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, weiteren sachverständigen Stellen oder Berufsgruppen die Berechtigung zur Prüfung von Emissionsberichten nach Absatz 1 zu erteilen. In der Rechtsverordnung kann diese Berechtigung von einer vorherigen Bekanntgabe durch die zuständige Behörde abhängig gemacht werden; in diesem Falle regelt die Verordnung auch Voraussetzungen und das Verfahren der Zulassungsprüfung sowie die Voraussetzungen und das Verfahren der Bekanntgabe von Prüfstellen.
 
@@ -272,7 +254,7 @@ b)
 
 (1) Für die Eröffnung eines Personen- oder Händlerkontos im nationalen Emissionshandelsregister erhebt die zuständige Behörde von dem Kontoinhaber eine Gebühr von 393 Euro, für die Verwaltung eines Personen- oder Händlerkontos eine Gebühr von 649 Euro pro Handelsperiode, für die Umfirmierung eines Kontos eine Gebühr von 280 Euro sowie für die Änderung eines Kontobevollmächtigten eine Gebühr von jeweils 140 Euro.
 
-(2) Wird ein Widerspruch gegen Entscheidungen nach diesem Gesetz vollständig oder teilweise zurückgewiesen, beträgt die Gebühr entsprechend dem entstandenen Verwaltungsaufwand 480 bis 5 600 Euro. Dies gilt nicht, wenn der Widerspruch nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder Formvorschrift nach § 45 des Verwaltungsverfahrensgesetzes unbeachtlich ist. Wird der Widerspruch nach Beginn der sachlichen Bearbeitung, jedoch vor deren Beendigung zurückgenommen, ermäßigt sich die Gebühr um mindestens 25 Prozent.
+(2) Wird ein Widerspruch gegen Entscheidungen nach diesem Gesetz vollständig oder teilweise zurückgewiesen, beträgt die Gebühr entsprechend dem entstandenen Verwaltungsaufwand 480 bis 5 600 Euro. Dies gilt nicht, wenn der Widerspruch nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder Formvorschrift nach § 45 des Verwaltungsverfahrensgesetzes unbeachtlich ist. Wird der Widerspruch nach Beginn der sachlichen Bearbeitung, jedoch vor deren Beendigung zurückgenommen, ermäßigt sich die Gebühr um mindestens 25 Prozent.
 
 ### § 17 — Elektronische Kommunikation
 
@@ -298,11 +280,11 @@ Kommt ein Verantwortlicher nach Ende der Einführungsphase nach § 10 Absatz 2 S
 
 ### § 21 — Durchsetzung der Abgabepflicht
 
-(1) Kommt ein Verantwortlicher seiner Abgabepflicht nach § 8 nicht nach, so setzt die zuständige Behörde für jede Tonne Kohlendioxidäquivalent, für die der Verantwortliche kein Emissionszertifikat abgegeben hat, eine Zahlungspflicht fest. Die Höhe der Zahlungspflicht entspricht Von einem Leistungsbescheid nach Satz 1 kann abgesehen werden, wenn der Verantwortliche seiner Abgabepflicht nach § 8 aufgrund höherer Gewalt nicht nachkommen konnte. Hat der Verantwortliche über die Brennstoffemissionen nach § 7 berichtet, ist die Festsetzung der Zahlungspflicht nur zulässig, soweit die Menge der abgegebenen Emissionszertifikate geringer ist als die Höhe der verifizierten Brennstoffemissionen im Emissionsbericht.
+(1) Kommt ein Verantwortlicher seiner Abgabepflicht nach § 8 nicht nach, so setzt die zuständige Behörde für jede Tonne Kohlendioxidäquivalent, für die der Verantwortliche kein Emissionszertifikat abgegeben hat, eine Zahlungspflicht fest. Die Höhe der Zahlungspflicht entspricht
 
-1.
+1. in der Einführungsphase nach § 10 Absatz 2 Satz 1 und 2 für die Jahre mit einem Verkauf zum Festpreis für jedes nicht abgegebene Emissionszertifikat dem Doppelten des jeweiligen Festpreises,
 
-2.
+2. ansonsten der Höhe der für das entsprechende Jahr festzusetzenden Zahlungspflicht nach § 46 Absatz 1 Satz 1 und 2 des Treibhausgas-Emissionshandelsgesetzes.
 
 (2) Soweit ein Verantwortlicher nicht ordnungsgemäß über die Brennstoffemissionen berichtet hat, schätzt die zuständige Behörde die dem Verantwortlichen zuzurechnenden Brennstoffemissionen. Die Schätzung ist Basis für die Abgabepflicht nach § 8. Die Schätzung unterbleibt, wenn der Verantwortliche im Rahmen der Anhörung zum Leistungsbescheid nach Absatz 1 seiner Berichtspflicht ordnungsgemäß nachkommt.
 
@@ -316,11 +298,11 @@ Kommt ein Verantwortlicher nach Ende der Einführungsphase nach § 10 Absatz 2 S
 
 (3) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 6 Absatz 1 Satz 1 oder Absatz 4 Satz 1 einen Überwachungsplan nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig einreicht,
 
-2.
+2. entgegen § 14 Absatz 2 eine dort genannte Handlung nicht gestattet, eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt, eine Unterlage nicht, nicht richtig oder nicht rechtzeitig vorlegt oder eine Arbeitskraft oder ein Hilfsmittel nicht oder nicht rechtzeitig bereitstellt oder
 
-3.
+3. entgegen § 18 Absatz 1 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
 (4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 mit einer Geldbuße bis zu fünfhunderttausend Euro und in den Fällen der Absätze 2 und 3 mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
@@ -336,50 +318,44 @@ Kommt ein Verantwortlicher nach Ende der Einführungsphase nach § 10 Absatz 2 S
 
 ### § 24 — Übergangsbestimmungen
 
-(1) Die Verpflichtungen nach § 7 Absatz 1 und § 8 entfallen in Bezug auf Brennstoffemissionen aus Brennstoffen, die nach dem 31. Dezember 2026 In dem in § 10 Absatz 3 Satz 2 Nummer 5 genannten Fall gilt anstelle des in Satz 1 Nummer 1 angegebenen Kalenderjahres das Kalenderjahr 2028.
+(1) Die Verpflichtungen nach § 7 Absatz 1 und § 8 entfallen in Bezug auf Brennstoffemissionen aus Brennstoffen, die nach dem 31. Dezember 2026
 
-1.
+1. nach § 2 Absatz 2 in Verkehr gebracht werden und ab dem 1. Januar 2027 einer Abgabeverpflichtung nach § 7 Absatz 2 des Treibhausgas-Emissionshandelsgesetzes unterliegen,
 
-2.
+2. nach § 2 Absatz 2a als in Verkehr gebracht gelten und einer Abgabeverpflichtung nach § 7 Absatz 1 des Treibhausgas-Emissionshandelsgesetzes unterliegen.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
-1.
+1. für den Fall, dass die Voraussetzungen nach Absatz 1 Satz 1 Nummer 2 vorliegen, zu regeln, dass die Verpflichtungen nach § 7 Absatz 1 und § 8 auch für Brennstoffemissionen aus Brennstoffen, die nach § 2 Absatz 2a als in Verkehr gebracht gelten und in Anlagen mit einer Gesamtfeuerungswärmeleistung von nicht mehr als 20 Megawatt eingesetzt werden, entfallen,
 
-2.
+2. die jährliche Emissionsmenge nach § 4 Absatz 1 Satz 1 für die Jahre ab 2027 anteilig um die Menge der Brennstoffemissionen zu verringern, für die nach Maßgabe von Absatz 1 und Nummer 1 die Abgabepflicht nach § 8 entfällt.
 
 ### Anlage 1 — (zu § 2 Absatz 1)
 
-Brennstoffe im Sinne dieses Gesetzes sind: Als Brennstoffe im Sinne dieses Gesetzes gelten auch andere als die in Satz 1 genannten Waren, sofern sie im Falle des § 2 Absatz 2a in den dort genannten Anlagen eingesetzt werden.
+Brennstoffe im Sinne dieses Gesetzes sind:
 
-1.
+1. Waren der Positionen 1507 bis 1518 der Kombinierten Nomenklatur, die dazu bestimmt sind, als Kraft- oder Heizstoff verwendet zu werden,
 
-2.
+2. Waren der Positionen 2701, 2702 und 2704 bis 2715 der Kombinierten Nomenklatur,
 
-3.
+3. Waren der Positionen 2901 und 2902 der Kombinierten Nomenklatur,
 
-4.
+4. Waren der Unterposition 2905 11 00 der Kombinierten Nomenklatur,
 
-5.
+5. Waren der Positionen 3403, 3811 und 3817 der Kombinierten Nomenklatur,
 
-6.
-
-a)
-
-b)
-
-c)
+6. Waren der Unterpositionen a)3824 99 86, 3824 99 93,b)3824 99 92 und 3824 99 96 (jeweils ausgenommen zubereitete Rostschutzmittel, Amine als wirksame Bestandteile enthaltend, sowie zusammengesetzte anorganische Löse- und Verdünnungsmittel für Lacke und ähnliche Erzeugnisse),c)3826 00 10 und 3826 00 90 der Kombinierten Nomenklatur,die dazu bestimmt sind, als Kraft- oder Heizstoff verwendet zu werden. 3824 99 86, 3824 99 93, 3824 99 92 und 3824 99 96 (jeweils ausgenommen zubereitete Rostschutzmittel, Amine als wirksame Bestandteile enthaltend, sowie zusammengesetzte anorganische Löse- und Verdünnungsmittel für Lacke und ähnliche Erzeugnisse), 3826 00 10 und 3826 00 90 der Kombinierten Nomenklatur,
 
 ### Anlage 2 — (zu § 7 Absatz 2)
 
 Für die Emissionsberichterstattung für die Kalenderjahre 2021 und 2022 sind Brennstoffe im Sinne dieses Gesetzes:
 
-1.
+1. Benzin der Unterpositionen 2710 12 41, 2710 12 45 und 2710 12 49 und der Unterpositionen 2710 12 31, 2710 12 51 und 2710 12 59 der Kombinierten Nomenklatur;
 
-2.
+2. Gasöle der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur;
 
-3.
+3. Heizöle der Unterpositionen 2710 19 62 bis 2710 19 68 und der Unterpositionen 2710 20 31 bis 2710 20 39 der Kombinierten Nomenklatur;
 
-4.
+4. Erdgas: Waren der Unterpositionen 2711 11 (verflüssigtes Erdgas) und 2711 21 der Kombinierten Nomenklatur und gasförmige Energieerzeugnisse, die beim Kohleabbau aufgefangen werden, ohne gasförmige Biokraft- und Bioheizstoffe;
 
-5.
+5. Flüssiggase: Waren der Unterpositionen 2711 12 bis 2711 19 der Kombinierten Nomenklatur.

@@ -42,31 +42,31 @@ Die Akkreditierungsstelle erhebt für individuell zurechenbare öffentliche Leis
 
 (2) Bei der Abrechnung sind alle mit der Erbringung der individuell zurechenbaren öffentlichen Leistung in Zusammenhang stehenden Zeiten zu berücksichtigen, insbesondere für
 
-1.
+1. erforderliche Wartezeiten von Bediensteten der Akkreditierungsstelle, sofern der Gebührenschuldner diese zu vertreten hat,
 
-2.
+2. erforderliche Reisezeiten von Bediensteten der Akkreditierungsstelle innerhalb ihrer regelmäßigen Arbeitszeit,
 
-3.
+3. Rückfragen im Rahmen der Erbringung der individuell zurechenbaren öffentlichen Leistung,
 
-4.
+4. interne Abstimmungen sowie Abstimmungen mit Dritten, die mit der Erbringung der individuell zurechenbaren öffentlichen Leistung in Zusammenhang stehen,
 
-5.
+5. Änderungswünsche des Gebührenschuldners im Rahmen der laufenden Leistungserbringung,
 
-6.
+6. die Überprüfung der Einhaltung erlassener Nebenbestimmungen im Sinne des § 36 des Verwaltungsverfahrensgesetzes,
 
-7.
+7. die Einbeziehung anderer Behörden nach § 2 Absatz 3 und § 4 des Akkreditierungsstellengesetzes.
 
 ### § 4 — Auslagen
 
 (1) Auslagen sind auch zu erheben für
 
-1.
+1. die Vergütung der Beauftragten der Akkreditierungsstelle (Honorar und Reisekosten) für die Begutachtung vor Ort, die Vor-Ort-Beobachtung, die Dokumentenprüfung oder sonstige Überwachungs- und Begutachtungsleistungen einschließlich jeweils der Vor- und Nachbereitungszeiten sowie notwendigen Reise- und Wartezeiten,
 
-2.
+2. Vergütungen von Beauftragten der Akkreditierungsstelle, die dadurch entstanden sind, dass die Beauftragten der Akkreditierungsstelle eine individuell zurechenbare öffentliche Leistung aus Gründen, die der Gebührenschuldner zu vertreten hat, nicht zum festgesetzten Termin erbringen konnten oder sie aus diesen Gründen abbrechen mussten,
 
-3.
+3. Kosten für die zugunsten einer akkreditierten Konformitätsbewertungsstelle beantragten Anerkennung der Akkreditierungsstelle durch ausländische Behörden oder private Vereinigungen sowie die Aufrechterhaltung dieser Anerkennung, durch die die Akzeptanz der von der Konformitätsbewertungsstelle ausgestellten Bestätigungen sichergestellt oder erweitert wird.
 
-(2) Die Leistungen der in Absatz 1 Nummer 1 und 2 genannten Beauftragten sind mit 120 Euro pro Stunde zu vergüten, sofern nicht in Absatz 7 Abweichendes geregelt ist. Sofern die Beauftragten keine Ausbildung für die Durchführung von Begutachtungen von einer nationalen Akkreditierungsstelle im Sinne des Artikels 2 Nummer 11 der Verordnung (EG) Nr. 765/2008 erhalten haben oder diese Ausbildung nicht durch Schulungs- und Fortbildungsmaßnahmen aufrechterhalten haben, sind die Leistungen der Beauftragten mit 95 Euro pro Stunde zu vergüten. Notwendige Reise- und Wartezeiten von Beauftragten werden entsprechend § 3 Absatz 2 Nummer 2 abgegolten. Über die regelmäßige Arbeitszeit hinausgehende notwendige Warte- und Reisezeiten werden zu einem Viertel abgegolten. Bei der Abrechnung ist für jede angefangene Viertelstunde ein Viertel des Stundensatzes anzusetzen.
+(2) Die Leistungen der in Absatz 1 Nummer 1 und 2 genannten Beauftragten sind mit 120 Euro pro Stunde zu vergüten, sofern nicht in Absatz 7 Abweichendes geregelt ist. Sofern die Beauftragten keine Ausbildung für die Durchführung von Begutachtungen von einer nationalen Akkreditierungsstelle im Sinne des Artikels 2 Nummer 11 der Verordnung (EG) Nr. 765/2008 erhalten haben oder diese Ausbildung nicht durch Schulungs- und Fortbildungsmaßnahmen aufrechterhalten haben, sind die Leistungen der Beauftragten mit 95 Euro pro Stunde zu vergüten. Notwendige Reise- und Wartezeiten von Beauftragten werden entsprechend § 3 Absatz 2 Nummer 2 abgegolten. Über die regelmäßige Arbeitszeit hinausgehende notwendige Warte- und Reisezeiten werden zu einem Viertel abgegolten. Bei der Abrechnung ist für jede angefangene Viertelstunde ein Viertel des Stundensatzes anzusetzen.
 
 (3) Mit dem Honorar sind sämtliche sonstigen Kosten und Aufwendungen des Beauftragten außer den Reisekosten abgegolten.
 

@@ -12,7 +12,13 @@ Auf Grund des § 39 Abs. 3 des Arzneimittelgesetzes vom 24. August 1976 (BGBl. I
 
 ### § 1
 
-Homöopathische Arzneimittel sind von der Pflicht zur Einzelregistrierung nach § 38 Abs. 1 Satz 1 freigestellt, wenn 1.sie im Homöopathischen Arzneibuch monographisch beschrieben und in der Anlage aufgeführt sind, 2.sie den Anforderungen des Homöopathischen Arzneibuches und der Anlage entsprechen, 3.für sie keine Zulassung erteilt ist (Standardregistrierung).
+Homöopathische Arzneimittel sind von der Pflicht zur Einzelregistrierung nach § 38 Abs. 1 Satz 1 freigestellt, wenn
+
+1. sie im Homöopathischen Arzneibuch monographisch beschrieben und in der Anlage aufgeführt sind,
+
+2. sie den Anforderungen des Homöopathischen Arzneibuches und der Anlage entsprechen,
+
+3. für sie keine Zulassung erteilt ist (Standardregistrierung).
 
 ### § 2
 
@@ -24,8 +30,4 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Schlußformel
 
-Der Bundesminister für Jugend, Familie und Gesundheit
-
 ### Anlage — Standardregistrierungen
-
-(Inhalt: nicht erfaßter Anlagenband, Fundstelle: BGBl. I Nr. 47 v. 8.12.1982 (Anlagenband II))

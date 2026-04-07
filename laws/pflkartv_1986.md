@@ -14,25 +14,105 @@ Die Vorschriften dieser Verordnung gelten für Pflanzgut von Kartoffel.
 
 ### § 2 — Begriffsbestimmungen
 
-Im Sinne dieser Verordnung sind 1.Kennfarbe: zur Kennzeichnung von Pflanzgut dienende Farbe von Etiketten und Einlegern; die Kennfarbe ist beia)Basispflanzgutweiß,b)Zertifiziertem Pflanzgutblau,c)Vorstufenpflanzgutweiß mit einem von links unten nach rechts oben verlaufenden 5 mm breiten violetten Diagonalstreifen,d)Pflanzgut nicht zugelassener Sorten nach § 3 Absatz 2 des Saatgutverkehrsgesetzesorange;2.Knollenkrankheiten: an der Kartoffelknolle auftretende Krankheiten außer Viruskrankheiten;2a.RNQPs: unionsgeregelte Nicht-Quarantäneschädlinge (regulated non-quarantine pests) im Sinne des Artikels 36 der Verordnung (EU) 2016/2031 des Europäischen Parlaments und des Rates vom 26. Oktober 2016 über Maßnahmen zum Schutz vor Pflanzenschädlingen, zur Änderung der Verordnungen (EU) Nr. 228/2013, (EU) Nr. 652/2014 und (EU) Nr. 1143/2014 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 69/464/EWG, 74/647/EWG, 93/85/EWG, 98/57/EG, 2000/29/EG, 2006/91/EG und 2007/33/EG des Rates (ABl. L 317 vom 23.11.2016, S. 4; L 35 vom 7.2.2020, S. 51), die durch die Verordnung (EU) 2017/625 (ABL. L 95 vom 7.4.2017, S. 1; L 137 vom 24.5.2017, S. 40; L 322 vom 18.12.2018, S. 85) geändert worden ist, in der jeweils geltenden Fassung;3.Pflanzgutklasse PBTC: Vorstufenpflanzgutaus Gewebekultur(Pre-Basic TissueCulture);4.Pflanzgutklasse PB: Vorstufenpflanzgut(Pre-Basic SeedPotatoes).
+Im Sinne dieser Verordnung sind
+
+1. Kennfarbe: zur Kennzeichnung von Pflanzgut dienende Farbe von Etiketten und Einlegern; die Kennfarbe ist beia)Basispflanzgutweiß,b)Zertifiziertem Pflanzgutblau,c)Vorstufenpflanzgutweiß mit einem von links unten nach rechts oben verlaufenden 5 mm breiten violetten Diagonalstreifen,d)Pflanzgut nicht zugelassener Sorten nach § 3 Absatz 2 des Saatgutverkehrsgesetzesorange;
+
+2. Knollenkrankheiten: an der Kartoffelknolle auftretende Krankheiten außer Viruskrankheiten;
+
+2a. RNQPs: unionsgeregelte Nicht-Quarantäneschädlinge (regulated non-quarantine pests) im Sinne des Artikels 36 der Verordnung (EU) 2016/2031 des Europäischen Parlaments und des Rates vom 26. Oktober 2016 über Maßnahmen zum Schutz vor Pflanzenschädlingen, zur Änderung der Verordnungen (EU) Nr. 228/2013, (EU) Nr. 652/2014 und (EU) Nr. 1143/2014 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 69/464/EWG, 74/647/EWG, 93/85/EWG, 98/57/EG, 2000/29/EG, 2006/91/EG und 2007/33/EG des Rates (ABl. L 317 vom 23.11.2016, S. 4; L 35 vom 7.2.2020, S. 51), die durch die Verordnung (EU) 2017/625 (ABL. L 95 vom 7.4.2017, S. 1; L 137 vom 24.5.2017, S. 40; L 322 vom 18.12.2018, S. 85) geändert worden ist, in der jeweils geltenden Fassung;
+
+3. Pflanzgutklasse PBTC: Vorstufenpflanzgutaus Gewebekultur(Pre-Basic TissueCulture);
+
+4. Pflanzgutklasse PB: Vorstufenpflanzgut(Pre-Basic SeedPotatoes).
 
 ## Abschnitt 2: Anerkennung von Pflanzgut
 
 ### § 3 — Vorstufenpflanzgut, Basispflanzgut, Zertifiziertes Pflanzgut, Generationenfolge
 
-(1) Vorstufenpflanzgut wird wie folgt in die Klassen PBTC und PB eingeteilt: 1.Vorstufenpflanzgut der Klasse PBTC a)stammt aus Mikrovermehrung,b)wird nur bis zur ersten Generation, die nicht als Feldgeneration zählt, vermehrt undc)darf nicht zu Vorstufenpflanzgut der Klasse PBTC weitervermehrt werden;2.Vorstufenpflanzgut der Klasse PB darf erwachsen sein aus a)klonaler Selektion (A-Stamm),b)Vorstufenpflanzgut der Klasse PBTC oderc)Vorstufenpflanzgut der Klasse PB.Die Anzahl der Feldgenerationen ist für Vorstufenpflanzgut der Klasse PB auf vier begrenzt. Ist die Feldgeneration nicht auf dem Etikett angegeben und der zuständigen Anerkennungsstelle nicht bekannt, wird das Pflanzgut der vierten Feldgeneration zugerechnet und darf nicht zu Vorstufenpflanzgut weitervermehrt werden. Vorstufenpflanzgut der Klasse PBTC kann als Vorstufenpflanzgut EU-Klasse PBTC, Vorstufenpflanzgut der Klasse PB kann als Vorstufenpflanzgut EU-Klasse PB gekennzeichnet werden.(2) Basispflanzgut wird in die Klassen S, SE und E eingeteilt. Basispflanzgut darf erwachsen sein in der 1.Klasse S aus anerkanntem Vorstufenpflanzgut,2.Klasse SE aus anerkanntem Vorstufenpflanzgut oder aus Basispflanzgut der Klasse S,3.Klasse E aus anerkanntem Vorstufenpflanzgut, aus Basispflanzgut der Klasse S oder aus Basispflanzgut der Klasse SE.Die Anzahl der Feldgenerationen ist für Basispflanzgut auf drei begrenzt. Basispflanzgut der Klasse S kann als Basispflanzgut EU-Klasse S, Basispflanzgut der Klasse SE kann als Basispflanzgut EU-Klasse SE und Basispflanzgut der Klasse E kann als Basispflanzgut EU-Klasse E gekennzeichnet werden.(3) Zertifiziertes Pflanzgut wird in die Klassen A und B eingeteilt. Zertifiziertes Pflanzgut der Klassen A oder B darf erwachsen sein aus 1.anerkanntem Vorstufenpflanzgut,2.Basispflanzgut,3.Zertifiziertem Pflanzgut der Klasse A, sofern dieses in demselben Betrieb unmittelbar aus anerkanntem Vorstufenpflanzgut oder Basispflanzgut erwachsen ist.Die Anzahl der Feldgenerationen ist für Zertifiziertes Pflanzgut auf zwei begrenzt. Ist die Feldgeneration nicht auf dem Etikett angegeben, wird das Pflanzgut der zweiten Feldgeneration Zertifizierten Pflanzguts zugerechnet und darf nicht zu Zertifiziertem Pflanzgut weitervermehrt werden. Zertifiziertes Pflanzgut der Klasse A kann als Zertifiziertes Pflanzgut EU-Klasse A, Zertifiziertes Pflanzgut der Klasse B kann als Zertifiziertes Pflanzgut EU-Klasse B gekennzeichnet werden.
+(1) Vorstufenpflanzgut wird wie folgt in die Klassen PBTC und PB eingeteilt:
+
+1. Vorstufenpflanzgut der Klasse PBTC a)stammt aus Mikrovermehrung,b)wird nur bis zur ersten Generation, die nicht als Feldgeneration zählt, vermehrt undc)darf nicht zu Vorstufenpflanzgut der Klasse PBTC weitervermehrt werden; stammt aus Mikrovermehrung, wird nur bis zur ersten Generation, die nicht als Feldgeneration zählt, vermehrt und darf nicht zu Vorstufenpflanzgut der Klasse PBTC weitervermehrt werden;
+
+2. Vorstufenpflanzgut der Klasse PB darf erwachsen sein aus a)klonaler Selektion (A-Stamm),b)Vorstufenpflanzgut der Klasse PBTC oderc)Vorstufenpflanzgut der Klasse PB. klonaler Selektion (A-Stamm), Vorstufenpflanzgut der Klasse PBTC oder Vorstufenpflanzgut der Klasse PB.
+
+(2) Basispflanzgut wird in die Klassen S, SE und E eingeteilt. Basispflanzgut darf erwachsen sein in der
+
+1. Klasse S aus anerkanntem Vorstufenpflanzgut,
+
+2. Klasse SE aus anerkanntem Vorstufenpflanzgut oder aus Basispflanzgut der Klasse S,
+
+3. Klasse E aus anerkanntem Vorstufenpflanzgut, aus Basispflanzgut der Klasse S oder aus Basispflanzgut der Klasse SE.
+
+(3) Zertifiziertes Pflanzgut wird in die Klassen A und B eingeteilt. Zertifiziertes Pflanzgut der Klassen A oder B darf erwachsen sein aus
+
+1. anerkanntem Vorstufenpflanzgut,
+
+2. Basispflanzgut,
+
+3. Zertifiziertem Pflanzgut der Klasse A, sofern dieses in demselben Betrieb unmittelbar aus anerkanntem Vorstufenpflanzgut oder Basispflanzgut erwachsen ist.
 
 ### § 4 — Anerkennungsstelle
 
-(1) Der Antrag auf Anerkennung ist bei der Anerkennungsstelle zu stellen, in deren Bereich der Betrieb liegt, in dem das Pflanzgut aufwächst. Liegt eine Vermehrungsfläche nicht im Bereich dieser Anerkennungsstelle, so kann der Antrag auf Anerkennung für Pflanzgut von dieser Fläche auch bei der Anerkennungsstelle gestellt werden, in deren Bereich die Vermehrungsfläche liegt; der Antrag ist bei dieser Anerkennungsstelle zu stellen, wenn der Betrieb im Ausland liegt.(2) Wird Pflanzgut außerhalb des Zuständigkeitsbereichs der nach Absatz 1 zuständigen Anerkennungsstelle aufbereitet, so gibt sie das Verfahren auf Antrag an die Anerkennungsstelle ab, in deren Bereich das Pflanzgut aufbereitet wird.
+(1) Der Antrag auf Anerkennung ist bei der Anerkennungsstelle zu stellen, in deren Bereich der Betrieb liegt, in dem das Pflanzgut aufwächst. Liegt eine Vermehrungsfläche nicht im Bereich dieser Anerkennungsstelle, so kann der Antrag auf Anerkennung für Pflanzgut von dieser Fläche auch bei der Anerkennungsstelle gestellt werden, in deren Bereich die Vermehrungsfläche liegt; der Antrag ist bei dieser Anerkennungsstelle zu stellen, wenn der Betrieb im Ausland liegt.
+
+(2) Wird Pflanzgut außerhalb des Zuständigkeitsbereichs der nach Absatz 1 zuständigen Anerkennungsstelle aufbereitet, so gibt sie das Verfahren auf Antrag an die Anerkennungsstelle ab, in deren Bereich das Pflanzgut aufbereitet wird.
 
 ### § 5 — Antrag
 
-(1) Der Antrag auf Anerkennung ist bis zum 15. Mai zu stellen. Die Anerkennungsstelle kann hiervon Ausnahmen genehmigen, wenn Besonderheiten der Pflanzguterzeugung oder des Verfahrens der Sortenzulassung dies rechtfertigen.(2) Für den Antrag ist ein Vordruck der Anerkennungsstelle zu verwenden.(3) Der Antragsteller hat bei Vorstufenpflanzgut im Antrag die Feldgeneration des Ausgangspflanzgutes anzugeben und1.im Antrag zu erklären, dassa)auf den vorgesehenen Vermehrungsflächen drei Jahre vor Antragstellung, bei Anträgen ab dem 1. Januar 2028 vier Jahre vor Antragstellung, keine Kartoffeln angebaut worden sind;b)das Pflanzgut der angegebenen Sorte zugehört und nach den Grundsätzen systematischer Erhaltungszüchtung vom Züchter oder unter seiner Aufsicht und nach seiner Anweisung gewonnen worden ist;c)das verwendete Pflanzgut auf Flächen erwachsen ist, die in den letzten drei Jahren, bei Anträgen ab dem 1. Januar 2028 in den letzten vier Jahren, nicht mit Kartoffeln bestellt waren;d)das verwendete Pflanzgut nicht von den in Anlage 2 Nr. 2.1 genannten Quarantäneschadorganismen befallen ist;e)bei Vorstufenpflanzgut der Klasse PB der Feldbestand aus klonaler Selektion (A-Stamm), Vorstufenpflanzgut der Klasse PBTC oder Vorstufenpflanzgut der Klasse PB erwächst;2.dem Antrag Nachweise aus einer amtlichen oder einer unter amtlicher Überwachung durchgeführten Untersuchung darüber beizufügen, dass die Mutterknolle frei von folgenden RNQPs ist: a)Pectobacterium spp.,b)Dickeya spp.,c)Candidatus Liberibacter solanacearum Liefting et al. (Zebra-Chip),d)Candidatus Phytoplasma solani Quaglino et al. (Stolbur),e)Potato spindle tuber viroid (PSTVd),f)Kartoffelblattrollvirus,g)Kartoffelvirus A,h)Kartoffelvirus M,i)Kartoffelvirus S,j)Kartoffelvirus X,k)Kartoffelvirus Y.(4) Der Antragsteller hat bei Basispflanzgut im Antrag die Feldgeneration des Ausgangspflanzgutes anzugeben und zu erklären, 1.dass auf den vorgesehenen Vermehrungsflächen zwei Jahre vor Antragstellung, bei Anträgen ab dem 1. Januar 2028 vier Jahre vor Antragstellung, keine Kartoffeln angebaut worden sind;2.für die Erzeugung von Basispflanzgut a)der Klasse S, dass der Feldbestand aus anerkanntem Vorstufenpflanzgut erwächst,b)der Klasse SE, dass der Feldbestand aus anerkanntem Vorstufenpflanzgut oder aus Basispflanzgut der Klasse S erwächst,c)der Klasse E, dass der Feldbestand aus anerkanntem Vorstufenpflanzgut, aus Basispflanzgut der Klasse S oder aus Basispflanzgut der Klasse SE erwächst.(5) Der Antragsteller hat bei Zertifiziertem Pflanzgut im Antrag die Feldgeneration des Ausgangspflanzgutes anzugeben und zu erklären, dass 1.auf den vorgesehenen Vermehrungsflächen zwei Jahre vor Antragstellung, bei Anträgen ab dem 1. Januar 2028 vier Jahre vor Antragstellung, keine Kartoffeln angebaut worden sind;2.der Feldbestand aus anerkanntem Vorstufenpflanzgut, aus Basispflanzgut oder aus Zertifiziertem Pflanzgut der Klasse A erwächst.(6) Wird in einem Betrieb, der Pflanzgut für andere vermehrt (Vermehrungsbetrieb), dieselbe Sorte noch für einen anderen Verwendungszweck angebaut, so hat der Antragsteller in dem Antrag die Schlagbezeichnung und die Flächengröße anzugeben und zu erklären, dass in dem Vermehrungsbetrieb eine getrennte Lagerung möglich ist.(7) Erwächst ein Feldbestand aus anerkanntem Pflanzgut, so sind im Antrag die Anerkennungsnummer, die Kategorie, die Klasse und die Feldgeneration des Ausgangspflanzgutes anzugeben, unter der das Pflanzgut anerkannt worden ist; im Falle der Anerkennung im Ausland ist auch die Anerkennungsstelle anzugeben und dem Antrag ist eine Kopie des Etiketts oder das Originaletikett beizufügen.(8) Die Anerkennungsstelle kann Ausnahmen nach § 5 Absatz 3 Nummer 1 Buchstabe a, Absatz 4 Nummer 1 und Absatz 5 Nummer 1 zulassen, sofern dadurch keine phytosanitären Beeinträchtigungen zu erwarten sind.
+(1) Der Antrag auf Anerkennung ist bis zum 15. Mai zu stellen. Die Anerkennungsstelle kann hiervon Ausnahmen genehmigen, wenn Besonderheiten der Pflanzguterzeugung oder des Verfahrens der Sortenzulassung dies rechtfertigen.
+
+(2) Für den Antrag ist ein Vordruck der Anerkennungsstelle zu verwenden.
+
+(3) Der Antragsteller hat bei Vorstufenpflanzgut im Antrag die Feldgeneration des Ausgangspflanzgutes anzugeben und
+
+1. im Antrag zu erklären, dassa)auf den vorgesehenen Vermehrungsflächen drei Jahre vor Antragstellung, bei Anträgen ab dem 1. Januar 2028 vier Jahre vor Antragstellung, keine Kartoffeln angebaut worden sind;b)das Pflanzgut der angegebenen Sorte zugehört und nach den Grundsätzen systematischer Erhaltungszüchtung vom Züchter oder unter seiner Aufsicht und nach seiner Anweisung gewonnen worden ist;c)das verwendete Pflanzgut auf Flächen erwachsen ist, die in den letzten drei Jahren, bei Anträgen ab dem 1. Januar 2028 in den letzten vier Jahren, nicht mit Kartoffeln bestellt waren;d)das verwendete Pflanzgut nicht von den in Anlage 2 Nr. 2.1 genannten Quarantäneschadorganismen befallen ist;e)bei Vorstufenpflanzgut der Klasse PB der Feldbestand aus klonaler Selektion (A-Stamm), Vorstufenpflanzgut der Klasse PBTC oder Vorstufenpflanzgut der Klasse PB erwächst; auf den vorgesehenen Vermehrungsflächen drei Jahre vor Antragstellung, bei Anträgen ab dem 1. Januar 2028 vier Jahre vor Antragstellung, keine Kartoffeln angebaut worden sind; das Pflanzgut der angegebenen Sorte zugehört und nach den Grundsätzen systematischer Erhaltungszüchtung vom Züchter oder unter seiner Aufsicht und nach seiner Anweisung gewonnen worden ist; das verwendete Pflanzgut auf Flächen erwachsen ist, die in den letzten drei Jahren, bei Anträgen ab dem 1. Januar 2028 in den letzten vier Jahren, nicht mit Kartoffeln bestellt waren; das verwendete Pflanzgut nicht von den in Anlage 2 Nr. 2.1 genannten Quarantäneschadorganismen befallen ist; bei Vorstufenpflanzgut der Klasse PB der Feldbestand aus klonaler Selektion (A-Stamm), Vorstufenpflanzgut der Klasse PBTC oder Vorstufenpflanzgut der Klasse PB erwächst;
+
+2. dem Antrag Nachweise aus einer amtlichen oder einer unter amtlicher Überwachung durchgeführten Untersuchung darüber beizufügen, dass die Mutterknolle frei von folgenden RNQPs ist: a)Pectobacterium spp.,b)Dickeya spp.,c)Candidatus Liberibacter solanacearum Liefting et al. (Zebra-Chip),d)Candidatus Phytoplasma solani Quaglino et al. (Stolbur),e)Potato spindle tuber viroid (PSTVd),f)Kartoffelblattrollvirus,g)Kartoffelvirus A,h)Kartoffelvirus M,i)Kartoffelvirus S,j)Kartoffelvirus X,k)Kartoffelvirus Y. Pectobacterium spp., Dickeya spp., Candidatus Liberibacter solanacearum Liefting et al. (Zebra-Chip), Candidatus Phytoplasma solani Quaglino et al. (Stolbur), Potato spindle tuber viroid (PSTVd), Kartoffelblattrollvirus, Kartoffelvirus A, Kartoffelvirus M, Kartoffelvirus S, Kartoffelvirus X, Kartoffelvirus Y.
+
+(4) Der Antragsteller hat bei Basispflanzgut im Antrag die Feldgeneration des Ausgangspflanzgutes anzugeben und zu erklären,
+
+1. dass auf den vorgesehenen Vermehrungsflächen zwei Jahre vor Antragstellung, bei Anträgen ab dem 1. Januar 2028 vier Jahre vor Antragstellung, keine Kartoffeln angebaut worden sind;
+
+2. für die Erzeugung von Basispflanzgut a)der Klasse S, dass der Feldbestand aus anerkanntem Vorstufenpflanzgut erwächst,b)der Klasse SE, dass der Feldbestand aus anerkanntem Vorstufenpflanzgut oder aus Basispflanzgut der Klasse S erwächst,c)der Klasse E, dass der Feldbestand aus anerkanntem Vorstufenpflanzgut, aus Basispflanzgut der Klasse S oder aus Basispflanzgut der Klasse SE erwächst. der Klasse S, dass der Feldbestand aus anerkanntem Vorstufenpflanzgut erwächst, der Klasse SE, dass der Feldbestand aus anerkanntem Vorstufenpflanzgut oder aus Basispflanzgut der Klasse S erwächst, der Klasse E, dass der Feldbestand aus anerkanntem Vorstufenpflanzgut, aus Basispflanzgut der Klasse S oder aus Basispflanzgut der Klasse SE erwächst.
+
+(5) Der Antragsteller hat bei Zertifiziertem Pflanzgut im Antrag die Feldgeneration des Ausgangspflanzgutes anzugeben und zu erklären, dass
+
+1. auf den vorgesehenen Vermehrungsflächen zwei Jahre vor Antragstellung, bei Anträgen ab dem 1. Januar 2028 vier Jahre vor Antragstellung, keine Kartoffeln angebaut worden sind;
+
+2. der Feldbestand aus anerkanntem Vorstufenpflanzgut, aus Basispflanzgut oder aus Zertifiziertem Pflanzgut der Klasse A erwächst.
+
+(6) Wird in einem Betrieb, der Pflanzgut für andere vermehrt (Vermehrungsbetrieb), dieselbe Sorte noch für einen anderen Verwendungszweck angebaut, so hat der Antragsteller in dem Antrag die Schlagbezeichnung und die Flächengröße anzugeben und zu erklären, dass in dem Vermehrungsbetrieb eine getrennte Lagerung möglich ist.
+
+(7) Erwächst ein Feldbestand aus anerkanntem Pflanzgut, so sind im Antrag die Anerkennungsnummer, die Kategorie, die Klasse und die Feldgeneration des Ausgangspflanzgutes anzugeben, unter der das Pflanzgut anerkannt worden ist; im Falle der Anerkennung im Ausland ist auch die Anerkennungsstelle anzugeben und dem Antrag ist eine Kopie des Etiketts oder das Originaletikett beizufügen.
+
+(8) Die Anerkennungsstelle kann Ausnahmen nach § 5 Absatz 3 Nummer 1 Buchstabe a, Absatz 4 Nummer 1 und Absatz 5 Nummer 1 zulassen, sofern dadurch keine phytosanitären Beeinträchtigungen zu erwarten sind.
 
 ### § 6 — Anforderungen an die Vermehrungsfläche und den Vermehrungsbetrieb
 
-(1) Pflanzgut wird nur anerkannt, wenn 1.die Vermehrungsfläche je Sorte mindestens 0,5 Hektar groß ist;2.der Kulturzustand der Vermehrungsfläche eine ordnungsgemäße Bearbeitung und Behandlung erkennen lässt;3.auf dem Vorgewende der Vermehrungsfläche keine Kartoffelpflanzen einer anderen Sorte oder Kategorie aufwachsen;4.es nicht in Unterkulturen von Obstanlagen oder in Zwischenkulturen erwächst und5.in dem Vermehrungsbetrieba)Pflanzgut nur von jeweils einer Kategorie einer Sorte erzeugt wird undb)Pflanzgut einer Sorte nur für einen Vertragspartner erzeugt wird.(2) Die Anerkennungsstelle kann die Anerkennung davon abhängig machen, dass 1.bis zu bestimmten Terminen der Feldbestand mit Mitteln zur Bekämpfung von Blattläusen behandelt, das Kartoffelkraut abgetötet oder das Pflanzgut geerntet ist, wenn dies zur Sicherstellung einer ausreichenden Beschaffenheit des Pflanzgutes notwendig erscheint;2.in einem Vermehrungsbetrieb die Anzahl der Sorten, von denen Pflanzgut erzeugt werden darf, auf fünf beschränkt wird;3.in einem Vermehrungsbetrieb, der Vorstufenpflanzgut oder Basispflanzgut erzeugt, beim Auftreten der in Anlage 1 Nr. 3 oder Anlage 2 Nr. 2.1 genannten Krankheiten die von der Anerkennungsstelle zur Verbesserung der Pflanzgutqualität jeweils festgesetzten zusätzlichen Anforderungen, insbesondere hinsichtlich des Anbaus von Kartoffeln für andere Zwecke, für die Aufbereitung und Lagerung der Pflanzkartoffeln oder hinsichtlich des überbetrieblichen Maschineneinsatzes, erfüllt sind.(3) Die Anerkennungsstelle kann Ausnahmen von Absatz 1 Nummer 1, 3 und 5 genehmigen, soweit keine Beeinträchtigung der Pflanzgutqualität zu erwarten ist. Die Ausnahmegenehmigung kann mit Auflagen insbesondere darüber verbunden werden, dass Partien kenntlich zu machen und getrennt zu lagern sind.(4) Die Vermehrungsflächen sind durch Schilder zu kennzeichnen.
+(1) Pflanzgut wird nur anerkannt, wenn
+
+1. die Vermehrungsfläche je Sorte mindestens 0,5 Hektar groß ist;
+
+2. der Kulturzustand der Vermehrungsfläche eine ordnungsgemäße Bearbeitung und Behandlung erkennen lässt;
+
+3. auf dem Vorgewende der Vermehrungsfläche keine Kartoffelpflanzen einer anderen Sorte oder Kategorie aufwachsen;
+
+4. es nicht in Unterkulturen von Obstanlagen oder in Zwischenkulturen erwächst und
+
+5. in dem Vermehrungsbetrieba)Pflanzgut nur von jeweils einer Kategorie einer Sorte erzeugt wird undb)Pflanzgut einer Sorte nur für einen Vertragspartner erzeugt wird. Pflanzgut nur von jeweils einer Kategorie einer Sorte erzeugt wird und Pflanzgut einer Sorte nur für einen Vertragspartner erzeugt wird.
+
+(2) Die Anerkennungsstelle kann die Anerkennung davon abhängig machen, dass
+
+1. bis zu bestimmten Terminen der Feldbestand mit Mitteln zur Bekämpfung von Blattläusen behandelt, das Kartoffelkraut abgetötet oder das Pflanzgut geerntet ist, wenn dies zur Sicherstellung einer ausreichenden Beschaffenheit des Pflanzgutes notwendig erscheint;
+
+2. in einem Vermehrungsbetrieb die Anzahl der Sorten, von denen Pflanzgut erzeugt werden darf, auf fünf beschränkt wird;
+
+3. in einem Vermehrungsbetrieb, der Vorstufenpflanzgut oder Basispflanzgut erzeugt, beim Auftreten der in Anlage 1 Nr. 3 oder Anlage 2 Nr. 2.1 genannten Krankheiten die von der Anerkennungsstelle zur Verbesserung der Pflanzgutqualität jeweils festgesetzten zusätzlichen Anforderungen, insbesondere hinsichtlich des Anbaus von Kartoffeln für andere Zwecke, für die Aufbereitung und Lagerung der Pflanzkartoffeln oder hinsichtlich des überbetrieblichen Maschineneinsatzes, erfüllt sind.
+
+(3) Die Anerkennungsstelle kann Ausnahmen von Absatz 1 Nummer 1, 3 und 5 genehmigen, soweit keine Beeinträchtigung der Pflanzgutqualität zu erwarten ist. Die Ausnahmegenehmigung kann mit Auflagen insbesondere darüber verbunden werden, dass Partien kenntlich zu machen und getrennt zu lagern sind.
+
+(4) Die Vermehrungsflächen sind durch Schilder zu kennzeichnen.
 
 ### § 7
 
@@ -40,15 +120,25 @@ Im Sinne dieser Verordnung sind 1.Kennfarbe: zur Kennzeichnung von Pflanzgut die
 
 ### § 8 — Anforderungen an den Feldbestand und an die Beschaffenheit des Pflanzgutes
 
-(1) Die Anforderungen an den Feldbestand ergeben sich aus Anlage 1. Die Anforderungen an die Beschaffenheit des Pflanzgutes ergeben sich aus Anlage 2.(2) Stellt sich vor dem Inverkehrbringen des Pflanzgutes zu gewerblichen Zwecken an den Letztverbraucher heraus, dass ein Teil des Pflanzgutes einer Partie die Anforderungen nach Absatz 1 Satz 2 in Verbindung mit Anlage 2 Nummer 2.2 nicht oder nicht mehr erfüllt, so darf dieser Teil ausgesondert werden.
+(1) Die Anforderungen an den Feldbestand ergeben sich aus Anlage 1. Die Anforderungen an die Beschaffenheit des Pflanzgutes ergeben sich aus Anlage 2.
+
+(2) Stellt sich vor dem Inverkehrbringen des Pflanzgutes zu gewerblichen Zwecken an den Letztverbraucher heraus, dass ein Teil des Pflanzgutes einer Partie die Anforderungen nach Absatz 1 Satz 2 in Verbindung mit Anlage 2 Nummer 2.2 nicht oder nicht mehr erfüllt, so darf dieser Teil ausgesondert werden.
 
 ### § 9 — Feldbestandsprüfung
 
-(1) Jede Vermehrungsfläche ist mindestens zweimal vor der Ernte des Pflanzgutes durch Feldbesichtigung auf das Vorliegen der Anforderungen an den Feldbestand zu prüfen.(2) Die Feldbesichtigungen werden nur durchgeführt, wenn der Anerkennungsstelle oder der von ihr bestimmten Stelle oder Person durch Vorlage einer Bescheinigung der zuständigen Behörde nachgewiesen wird, dass diese einen Befall mit Kartoffelnematoden auf der Vermehrungsfläche nicht festgestellt hat. Die Bescheinigung darf nicht älter als ein Jahr sein; sie kann jedoch bis zu zwei Jahre alt sein, wenn der Antragsteller oder Vermehrer der Anerkennungsstelle schriftlich erklärt, dass seit der Entnahme der Bodenprobe, auf Grund derer die Bescheinigung ausgestellt worden war, bis zur Bepflanzung der Vermehrungsfläche keine Kartoffeln oder Tomaten angepflanzt oder gelagert worden waren. Hat die zuständige Behörde den Anbau einer gegen einen bestimmten Pathotyp des Kartoffelnematoden resistenten Kartoffelsorte auf der Vermehrungsfläche gestattet, so kann die Anerkennungsstelle die Durchführung der Feldbesichtigungen ohne Vorlage der Bescheinigung gestatten.(3) Die Anerkennungsstelle kann gestatten, dass Knollen oder Kraut herausgereinigter viruskranker Pflanzen liegenbleibt, wenn sie durch Anordnung geeigneter Maßnahmen sichergestellt hat, dass das Liegenbleiben nicht zu einer Beeinträchtigung des Pflanzgutwertes führt.(4) Erweist sich der Feldbestand auf einem Teil einer zusammenhängenden Vermehrungsfläche als für die Anerkennung nicht geeignet, so wird der Feldbestand der restlichen Vermehrungsfläche nur berücksichtigt, wenn er deutlich abgegrenzt worden ist.
+(1) Jede Vermehrungsfläche ist mindestens zweimal vor der Ernte des Pflanzgutes durch Feldbesichtigung auf das Vorliegen der Anforderungen an den Feldbestand zu prüfen.
+
+(2) Die Feldbesichtigungen werden nur durchgeführt, wenn der Anerkennungsstelle oder der von ihr bestimmten Stelle oder Person durch Vorlage einer Bescheinigung der zuständigen Behörde nachgewiesen wird, dass diese einen Befall mit Kartoffelnematoden auf der Vermehrungsfläche nicht festgestellt hat. Die Bescheinigung darf nicht älter als ein Jahr sein; sie kann jedoch bis zu zwei Jahre alt sein, wenn der Antragsteller oder Vermehrer der Anerkennungsstelle schriftlich erklärt, dass seit der Entnahme der Bodenprobe, auf Grund derer die Bescheinigung ausgestellt worden war, bis zur Bepflanzung der Vermehrungsfläche keine Kartoffeln oder Tomaten angepflanzt oder gelagert worden waren. Hat die zuständige Behörde den Anbau einer gegen einen bestimmten Pathotyp des Kartoffelnematoden resistenten Kartoffelsorte auf der Vermehrungsfläche gestattet, so kann die Anerkennungsstelle die Durchführung der Feldbesichtigungen ohne Vorlage der Bescheinigung gestatten.
+
+(3) Die Anerkennungsstelle kann gestatten, dass Knollen oder Kraut herausgereinigter viruskranker Pflanzen liegenbleibt, wenn sie durch Anordnung geeigneter Maßnahmen sichergestellt hat, dass das Liegenbleiben nicht zu einer Beeinträchtigung des Pflanzgutwertes führt.
+
+(4) Erweist sich der Feldbestand auf einem Teil einer zusammenhängenden Vermehrungsfläche als für die Anerkennung nicht geeignet, so wird der Feldbestand der restlichen Vermehrungsfläche nur berücksichtigt, wenn er deutlich abgegrenzt worden ist.
 
 ### § 10 — Mängel des Feldbestandes
 
-(1) Soweit Mängel des Feldbestandes behoben werden können, wird auf einen spätestens drei Werktage nach Mitteilung der Mängel vom Antragsteller oder Vermehrer gestellten Antrag in angemessener Frist eine Nachbesichtigung durchgeführt. Ist der Mangel durch Viruskrankheiten verursacht, so ist die Frist bis zur Nachbesichtigung so zu bemessen, dass die Beseitigung des Mangels unverzüglich vorgenommen werden muss.(2) Wird bei der Feldbestandsprüfung ein Befall mit Kartoffelnematoden auf einem Teil der Vermehrungsfläche festgestellt, so kann die Anerkennungsstelle das Anerkennungsverfahren fortsetzen, wenn sichergestellt ist, dass nur der Teil der Vermehrungsfläche berücksichtigt wird, der nicht als befallen abgegrenzt ist.
+(1) Soweit Mängel des Feldbestandes behoben werden können, wird auf einen spätestens drei Werktage nach Mitteilung der Mängel vom Antragsteller oder Vermehrer gestellten Antrag in angemessener Frist eine Nachbesichtigung durchgeführt. Ist der Mangel durch Viruskrankheiten verursacht, so ist die Frist bis zur Nachbesichtigung so zu bemessen, dass die Beseitigung des Mangels unverzüglich vorgenommen werden muss.
+
+(2) Wird bei der Feldbestandsprüfung ein Befall mit Kartoffelnematoden auf einem Teil der Vermehrungsfläche festgestellt, so kann die Anerkennungsstelle das Anerkennungsverfahren fortsetzen, wenn sichergestellt ist, dass nur der Teil der Vermehrungsfläche berücksichtigt wird, der nicht als befallen abgegrenzt ist.
 
 ### § 11 — Mitteilung des Ergebnisses der Feldbestandsprüfung
 
@@ -56,7 +146,9 @@ Ergibt die Feldbestandsprüfung, dass die Anforderungen an den Feldbestand nicht
 
 ### § 12 — Wiederholungsbesichtigung
 
-(1) Der Antragsteller oder Vermehrer kann innerhalb von drei Werktagen nach Zugang der Mitteilung nach § 11 eine Wiederholung der Besichtigung (Wiederholungsbesichtigung) beantragen. Die Wiederholungsbesichtigung findet statt, wenn durch Darlegung von Umständen glaubhaft gemacht wird, dass das mitgeteilte Ergebnis der Prüfung nicht den tatsächlichen Verhältnissen entspricht.(2) Die Wiederholungsbesichtigung soll von einem anderen Prüfer vorgenommen werden. In der Zeit zwischen der letzten Besichtigung und der Wiederholungsbesichtigung darf der Feldbestand nicht verändert werden. § 11 gilt entsprechend.
+(1) Der Antragsteller oder Vermehrer kann innerhalb von drei Werktagen nach Zugang der Mitteilung nach § 11 eine Wiederholung der Besichtigung (Wiederholungsbesichtigung) beantragen. Die Wiederholungsbesichtigung findet statt, wenn durch Darlegung von Umständen glaubhaft gemacht wird, dass das mitgeteilte Ergebnis der Prüfung nicht den tatsächlichen Verhältnissen entspricht.
+
+(2) Die Wiederholungsbesichtigung soll von einem anderen Prüfer vorgenommen werden. In der Zeit zwischen der letzten Besichtigung und der Wiederholungsbesichtigung darf der Feldbestand nicht verändert werden. § 11 gilt entsprechend.
 
 ### § 13 — Beschaffenheitsprüfung
 
@@ -65,12 +157,42 @@ Die Beschaffenheitsprüfung besteht aus der Prüfung auf Viruskrankheiten, Bakte
 ### § 14 — Probenahme für die Prüfung auf Viruskrankheiten,
 Bakterielle Ringfäule und Schleimkrankheit
 
-(1) Der von der zuständigen Behörde Beauftragte (Probenehmer) entnimmt die Probe für die Prüfung auf Viruskrankheiten 1.dem Feldbestand kurz vor der Ernte oder, 2.wenn die Proben aus Gründen, die der Erzeuger des Pflanzgutes nicht zu vertreten hat, nicht dem Feldbestand entnommen werden können, dem eingelagerten Pflanzgut. (1a) Der Probenehmer entnimmt die Probe für die Laborprüfung auf Bakterielle Ringfäule und Schleimkrankheit 1.dem Feldbestand kurz vor der Ernte oder 2.dem Pflanzgut während der Einlagerung oder dem eingelagerten Pflanzgut. (2) Die Größe der Fläche oder das Höchstgewicht der Partie, von der jeweils eine Probe zu entnehmen ist, und die Mindestmenge der Probe ergeben sich 1.für Viruskrankheiten aus Anlage 3 Nr. 1, 2.für Bakterielle Ringfäule und Schleimkrankheit aus Anlage 3 Nr. 1a. (3) Derjenige, in dessen Betrieb die Probenahme stattfinden soll, hat der Anerkennungsstelle oder der von ihr bestimmten Stelle oder Person den voraussichtlichen Beginn der Ernte rechtzeitig anzuzeigen.(4) Der Probenehmer entnimmt die Probe dem Pflanzgut nach Absatz 1 Nr. 2 oder Absatz 1a Nr. 2 nur, wenn derjenige, in dessen Betrieb die Probenahme stattfinden soll, der Anerkennungsstelle oder der von ihr bestimmten Stelle oder Person schriftlich erklärt hat, dass die Partie ausschließlich aus Feldbeständen stammt, die sich bei ihrer Prüfung als für die Anerkennung geeignet erwiesen haben oder hinsichtlich derer die Anerkennungsstelle das Anerkennungsverfahren nach § 10 Abs. 2 fortsetzt.(5) Der Probenehmer verweigert die Probenahme, wenn eine Auflage nach § 6 Abs. 3 Satz 2 nicht erfüllt ist.(6) Die nach Absatz 1 entnommenen Proben können auch für eine Nachprüfung auf Sortenechtheit herangezogen werden.(7) Wurde in einem Gebiet Befall mit Bakterieller Ringfäule oder Schleimkrankheit festgestellt oder bestehen Anhaltspunkte für eine Gefahr der Ausbreitung dieser Krankheiten, kann die zuständige Behörde einen über den in Anlage 3 Nr. 1a festgelegten Probenumfang hinausgehenden Probenumfang festlegen.
+(1) Der von der zuständigen Behörde Beauftragte (Probenehmer) entnimmt die Probe für die Prüfung auf Viruskrankheiten
+
+1. dem Feldbestand kurz vor der Ernte oder,
+
+2. wenn die Proben aus Gründen, die der Erzeuger des Pflanzgutes nicht zu vertreten hat, nicht dem Feldbestand entnommen werden können, dem eingelagerten Pflanzgut.
+
+(1a) Der Probenehmer entnimmt die Probe für die Laborprüfung auf Bakterielle Ringfäule und Schleimkrankheit
+
+1. dem Feldbestand kurz vor der Ernte oder
+
+2. dem Pflanzgut während der Einlagerung oder dem eingelagerten Pflanzgut.
+
+(2) Die Größe der Fläche oder das Höchstgewicht der Partie, von der jeweils eine Probe zu entnehmen ist, und die Mindestmenge der Probe ergeben sich
+
+1. für Viruskrankheiten aus Anlage 3 Nr. 1,
+
+2. für Bakterielle Ringfäule und Schleimkrankheit aus Anlage 3 Nr. 1a.
+
+(3) Derjenige, in dessen Betrieb die Probenahme stattfinden soll, hat der Anerkennungsstelle oder der von ihr bestimmten Stelle oder Person den voraussichtlichen Beginn der Ernte rechtzeitig anzuzeigen.
+
+(4) Der Probenehmer entnimmt die Probe dem Pflanzgut nach Absatz 1 Nr. 2 oder Absatz 1a Nr. 2 nur, wenn derjenige, in dessen Betrieb die Probenahme stattfinden soll, der Anerkennungsstelle oder der von ihr bestimmten Stelle oder Person schriftlich erklärt hat, dass die Partie ausschließlich aus Feldbeständen stammt, die sich bei ihrer Prüfung als für die Anerkennung geeignet erwiesen haben oder hinsichtlich derer die Anerkennungsstelle das Anerkennungsverfahren nach § 10 Abs. 2 fortsetzt.
+
+(5) Der Probenehmer verweigert die Probenahme, wenn eine Auflage nach § 6 Abs. 3 Satz 2 nicht erfüllt ist.
+
+(6) Die nach Absatz 1 entnommenen Proben können auch für eine Nachprüfung auf Sortenechtheit herangezogen werden.
+
+(7) Wurde in einem Gebiet Befall mit Bakterieller Ringfäule oder Schleimkrankheit festgestellt oder bestehen Anhaltspunkte für eine Gefahr der Ausbreitung dieser Krankheiten, kann die zuständige Behörde einen über den in Anlage 3 Nr. 1a festgelegten Probenumfang hinausgehenden Probenumfang festlegen.
 
 ### § 15 — Prüfung auf Viruskrankheiten, Bakterielle Ringfäule und
 Schleimkrankheit
 
-(1) Ergibt die Prüfung auf Viruskrankheiten, dass die Anforderungen nicht erfüllt sind, so gestattet die Anerkennungsstelle auf Antrag die Entnahme einer weiteren Probe; für sie gilt Anlage 3 Nr. 2.(2) Die Anerkennungsstelle kann auf die Prüfung auf bestimmte Viruskrankheiten verzichten, soweit das Verhalten der Sorte gegenüber solchen Viruskrankheiten und die Tatsache, dass nur geringe Infektionsmöglichkeiten bestanden haben, die Annahme rechtfertigen, dass das Pflanzgut die Anforderungen nach § 8 Abs. 1 Satz 2 in Verbindung mit Anlage 2 erfüllt.(3) Die Laborprüfung auf Bakterielle Ringfäule ist nach dem Verfahren des Anhangs I der Richtlinie 93/85/EWG des Rates vom 4. Oktober 1993 zur Bekämpfung der bakteriellen Ringfäule der Kartoffel (ABl. EG Nr. L 259 S. 1) und die Laborprüfung auf Schleimkrankheit ist nach dem Verfahren des Anhangs II der Richtlinie 98/57/EG des Rates vom 20. Juli 1998 zur Bekämpfung von Ralstonia solanacearum (Smith) Yabuuchi et al. (ABl. EG Nr. L 235 S. 1) durchzuführen.
+(1) Ergibt die Prüfung auf Viruskrankheiten, dass die Anforderungen nicht erfüllt sind, so gestattet die Anerkennungsstelle auf Antrag die Entnahme einer weiteren Probe; für sie gilt Anlage 3 Nr. 2.
+
+(2) Die Anerkennungsstelle kann auf die Prüfung auf bestimmte Viruskrankheiten verzichten, soweit das Verhalten der Sorte gegenüber solchen Viruskrankheiten und die Tatsache, dass nur geringe Infektionsmöglichkeiten bestanden haben, die Annahme rechtfertigen, dass das Pflanzgut die Anforderungen nach § 8 Abs. 1 Satz 2 in Verbindung mit Anlage 2 erfüllt.
+
+(3) Die Laborprüfung auf Bakterielle Ringfäule ist nach dem Verfahren des Anhangs I der Richtlinie 93/85/EWG des Rates vom 4. Oktober 1993 zur Bekämpfung der bakteriellen Ringfäule der Kartoffel (ABl. EG Nr. L 259 S. 1) und die Laborprüfung auf Schleimkrankheit ist nach dem Verfahren des Anhangs II der Richtlinie 98/57/EG des Rates vom 20. Juli 1998 zur Bekämpfung von Ralstonia solanacearum (Smith) Yabuuchi et al. (ABl. EG Nr. L 235 S. 1) durchzuführen.
 
 ### § 16 — Mitteilung des Ergebnisses der Prüfung auf Viruskrankheiten,
 Bakterielle Ringfäule und Schleimkrankheit
@@ -80,19 +202,59 @@ Das Ergebnis der Prüfung auf Viruskrankheiten, Bakterielle Ringfäule und Schle
 ### § 17 — Probenahme für die Prüfung auf Knollenkrankheiten und
 äußere Mängel
 
-(1) Der Probenehmer entnimmt dem für das Inverkehrbringen zu gewerblichen Zwecken aufbereiteten Pflanzgut eine Probe für die Prüfung auf Knollenkrankheiten und äußere Mängel; für sie gilt Anlage 3 Nr. 3.(2) Der Probenehmer entnimmt die Probe nur, wenn derjenige, in dessen Betrieb die Prüfung stattfinden soll, der Anerkennungsstelle oder der von ihr bestimmten Stelle oder Person 1.angezeigt hat, von welchem Zeitpunkt an die Prüfung vorgenommen werden kann; dabei sind das voraussichtliche Gewicht der Partie und die voraussichtliche Zahl der Packungen oder Behältnisse oder die Absicht des Inverkehrbringens in Kleinpackungen zu gewerblichen Zwecken anzugeben; 2.schriftlich erklärt hat, dass die Partie ausschließlich aus Feldbeständen stammt,a)die sich bei ihrer Prüfung als für die Anerkennung geeignet erwiesen haben oder b)hinsichtlich derer die Anerkennungsstelle das Anerkennungsverfahren nach § 10 Abs. 2 fortgesetzt hat. (3) Ist das Pflanzgut auf Viruskrankheiten geprüft worden, so tritt an die Stelle der Erklärung nach Absatz 2 Nr. 2 Buchstabe a eine schriftliche Erklärung, dass die Partie sich auf Grund dieser Prüfung als für die Anerkennung geeignet erwiesen hat. Ist die Durchführung der Feldbesichtigungen nach § 9 Abs. 2 Satz 3 gestattet oder das Anerkennungsverfahren nach § 10 Abs. 2 fortgesetzt worden, so ist der Anerkennungsstelle auf Verlangen eine Bescheinigung der zuständigen Behörde vorzulegen, dass diese keinen Befall des Pflanzgutes mit Kartoffelnematoden festgestellt hat.(4) Der Probenehmer verweigert die Probenahme, wenn eine Auflage nach § 6 Abs. 3 Satz 2 nicht erfüllt ist.
+(1) Der Probenehmer entnimmt dem für das Inverkehrbringen zu gewerblichen Zwecken aufbereiteten Pflanzgut eine Probe für die Prüfung auf Knollenkrankheiten und äußere Mängel; für sie gilt Anlage 3 Nr. 3.
+
+(2) Der Probenehmer entnimmt die Probe nur, wenn derjenige, in dessen Betrieb die Prüfung stattfinden soll, der Anerkennungsstelle oder der von ihr bestimmten Stelle oder Person
+
+1. angezeigt hat, von welchem Zeitpunkt an die Prüfung vorgenommen werden kann; dabei sind das voraussichtliche Gewicht der Partie und die voraussichtliche Zahl der Packungen oder Behältnisse oder die Absicht des Inverkehrbringens in Kleinpackungen zu gewerblichen Zwecken anzugeben;
+
+2. schriftlich erklärt hat, dass die Partie ausschließlich aus Feldbeständen stammt,a)die sich bei ihrer Prüfung als für die Anerkennung geeignet erwiesen haben oder b)hinsichtlich derer die Anerkennungsstelle das Anerkennungsverfahren nach § 10 Abs. 2 fortgesetzt hat. die sich bei ihrer Prüfung als für die Anerkennung geeignet erwiesen haben oder hinsichtlich derer die Anerkennungsstelle das Anerkennungsverfahren nach § 10 Abs. 2 fortgesetzt hat.
+
+(3) Ist das Pflanzgut auf Viruskrankheiten geprüft worden, so tritt an die Stelle der Erklärung nach Absatz 2 Nr. 2 Buchstabe a eine schriftliche Erklärung, dass die Partie sich auf Grund dieser Prüfung als für die Anerkennung geeignet erwiesen hat. Ist die Durchführung der Feldbesichtigungen nach § 9 Abs. 2 Satz 3 gestattet oder das Anerkennungsverfahren nach § 10 Abs. 2 fortgesetzt worden, so ist der Anerkennungsstelle auf Verlangen eine Bescheinigung der zuständigen Behörde vorzulegen, dass diese keinen Befall des Pflanzgutes mit Kartoffelnematoden festgestellt hat.
+
+(4) Der Probenehmer verweigert die Probenahme, wenn eine Auflage nach § 6 Abs. 3 Satz 2 nicht erfüllt ist.
 
 ### § 18 — Prüfung auf weitere Knollenkrankheiten und äußere Mängel
 
-(1) Die Prüfung auf weitere Knollenkrankheiten und äußere Mängel wird vom Probenehmer durch Inaugenscheinnahme durchgeführt; sie entfällt, soweit der Vermehrer das Pflanzgut im eigenen Betrieb verwendet. Hinsichtlich der in Anlage 2 Nr. 2.1 genannten Knollenkrankheiten kann die Anerkennungsstelle im Einzelfall eine abweichende Anordnung treffen, soweit dies für eine sachgerechte Durchführung der Prüfung erforderlich ist.(2) Ergibt die Prüfung, dass die Anforderungen nach Anlage 2 Nummer 2.2 nicht erfüllt sind, so gestattet die Anerkennungsstelle auf Antrag die Entnahme einer weiteren Probe, wenn durch Darlegung von Umständen glaubhaft gemacht wird, dass der festgestellte Mangel beseitigt ist.
+(1) Die Prüfung auf weitere Knollenkrankheiten und äußere Mängel wird vom Probenehmer durch Inaugenscheinnahme durchgeführt; sie entfällt, soweit der Vermehrer das Pflanzgut im eigenen Betrieb verwendet. Hinsichtlich der in Anlage 2 Nr. 2.1 genannten Knollenkrankheiten kann die Anerkennungsstelle im Einzelfall eine abweichende Anordnung treffen, soweit dies für eine sachgerechte Durchführung der Prüfung erforderlich ist.
+
+(2) Ergibt die Prüfung, dass die Anforderungen nach Anlage 2 Nummer 2.2 nicht erfüllt sind, so gestattet die Anerkennungsstelle auf Antrag die Entnahme einer weiteren Probe, wenn durch Darlegung von Umständen glaubhaft gemacht wird, dass der festgestellte Mangel beseitigt ist.
 
 ### § 19 — Bescheid
 
-(1) In dem Bescheid über den Antrag auf Anerkennung sind anzugeben: 1.der Name des Antragstellers,2.der Name des Vermehrers,3.die Art und die Sortenbezeichnung,4.die Größe und Bezeichnung der Vermehrungsfläche,5.das angegebene Nettogewicht der Partie, aus der die Probe für die Prüfung auf Knollenkrankheiten und äußere Mängel entnommen worden ist,6.im Falle der Anerkennung die Kategorie und die Klasse sowie die Anerkennungsnummer.(2) Die Anerkennungsnummer setzt sich aus den Buchstaben „DE”, dem von der Anerkennungsstelle genutzten Länderkennzeichen (Kennzeichen der Anerkennungsstelle), der Angabe der letzten Ziffer der Jahreszahl der Anerkennung, einem Gedankenstrich sowie einer mehrstelligen, von der Anerkennungsstelle festgesetzten Zahl zusammen.(3) Die Anerkennungsstelle benachrichtigt den Vermehrer von der Erteilung des Bescheides.(4) Erfüllt Pflanzgut die für die entsprechende Kategorie oder Klasse festgelegten Anforderungen nicht, so wird es auf Antrag als Pflanzgut in einer der dieser Kategorie oder Klasse jeweils nachfolgenden Kategorien oder Klassen anerkannt, wenn es die hierfür festgelegten Anforderungen erfüllt.
+(1) In dem Bescheid über den Antrag auf Anerkennung sind anzugeben:
+
+1. der Name des Antragstellers,
+
+2. der Name des Vermehrers,
+
+3. die Art und die Sortenbezeichnung,
+
+4. die Größe und Bezeichnung der Vermehrungsfläche,
+
+5. das angegebene Nettogewicht der Partie, aus der die Probe für die Prüfung auf Knollenkrankheiten und äußere Mängel entnommen worden ist,
+
+6. im Falle der Anerkennung die Kategorie und die Klasse sowie die Anerkennungsnummer.
+
+(2) Die Anerkennungsnummer setzt sich aus den Buchstaben „DE”, dem von der Anerkennungsstelle genutzten Länderkennzeichen (Kennzeichen der Anerkennungsstelle), der Angabe der letzten Ziffer der Jahreszahl der Anerkennung, einem Gedankenstrich sowie einer mehrstelligen, von der Anerkennungsstelle festgesetzten Zahl zusammen.
+
+(3) Die Anerkennungsstelle benachrichtigt den Vermehrer von der Erteilung des Bescheides.
+
+(4) Erfüllt Pflanzgut die für die entsprechende Kategorie oder Klasse festgelegten Anforderungen nicht, so wird es auf Antrag als Pflanzgut in einer der dieser Kategorie oder Klasse jeweils nachfolgenden Kategorien oder Klassen anerkannt, wenn es die hierfür festgelegten Anforderungen erfüllt.
 
 ### § 20 — Nachprüfung
 
-(1) Die Anerkennungsstelle prüft, soweit sie es für erforderlich hält, anerkanntes Pflanzgut daraufhin nach, ob es oder sein Aufwuchs sortenecht ist und erkennen lässt, dass die Anforderungen an den Gesundheitszustand erfüllt waren. Dies gilt auch im Falle der Wiederverschließung nach § 29.(2) Soweit die Bundesrepublik Deutschland durch Rechtsakte von Organen der Europäischen Gemeinschaften verpflichtet ist, 1.eine Nachprüfung durchzuführen, wird diese vom Bundessortenamt durchgeführt; 2.Proben für eine Nachprüfung im Ausland zur Verfügung zu stellen, leitet das Bundessortenamt die Proben an die Stelle weiter, die die Nachprüfung durchführt. (3) Die für die Nachprüfung erforderlichen Proben können zusammen mit den Proben nach § 17 Abs. 1 entnommen werden; das Höchstgewicht einer Partie und die Mindestmenge einer Probe ergeben sich aus Anlage 3 Nr. 4.(4) Die Anerkennungsstelle leitet die erforderlichen Proben in den Fällen des Absatzes 2 dem Bundessortenamt zu.
+(1) Die Anerkennungsstelle prüft, soweit sie es für erforderlich hält, anerkanntes Pflanzgut daraufhin nach, ob es oder sein Aufwuchs sortenecht ist und erkennen lässt, dass die Anforderungen an den Gesundheitszustand erfüllt waren. Dies gilt auch im Falle der Wiederverschließung nach § 29.
+
+(2) Soweit die Bundesrepublik Deutschland durch Rechtsakte von Organen der Europäischen Gemeinschaften verpflichtet ist,
+
+1. eine Nachprüfung durchzuführen, wird diese vom Bundessortenamt durchgeführt;
+
+2. Proben für eine Nachprüfung im Ausland zur Verfügung zu stellen, leitet das Bundessortenamt die Proben an die Stelle weiter, die die Nachprüfung durchführt.
+
+(3) Die für die Nachprüfung erforderlichen Proben können zusammen mit den Proben nach § 17 Abs. 1 entnommen werden; das Höchstgewicht einer Partie und die Mindestmenge einer Probe ergeben sich aus Anlage 3 Nr. 4.
+
+(4) Die Anerkennungsstelle leitet die erforderlichen Proben in den Fällen des Absatzes 2 dem Bundessortenamt zu.
 
 ### § 21 — Verfahren für die Nachprüfung durch Anbau
 
@@ -100,7 +262,9 @@ Die Nachprüfung durch Anbau soll in der der Probenahme folgenden Vegetationsper
 
 ### § 22 — Rücknahme der Anerkennung
 
-(1) Wird auf Grund des Ergebnisses der Nachprüfung die Anerkennung zurückgenommen und ist der Antragsteller nicht mehr im Besitz des Pflanzgutes, so hat er der Anerkennungsstelle Namen und Anschrift desjenigen mitzuteilen, an den er das Pflanzgut abgegeben hat. Dies gilt entsprechend für den Erwerber dieses Pflanzgutes. Die Anerkennungsstelle, welche die Anerkennung zurückgenommen hat, hat die für den Besitzer des Pflanzgutes zuständige Anerkennungsstelle unter Angabe von Art, Sortenbezeichnung und Anerkennungsnummer von der Rücknahme zu unterrichten.(2) Wird die Anerkennung zurückgenommen, so sind die Etiketten, Einleger und die Verschlusssicherungen, mit denen die Packungen und Behältnisse versehen worden sind, nach Anweisung der Anerkennungsstelle abzuliefern oder unbrauchbar zu machen.
+(1) Wird auf Grund des Ergebnisses der Nachprüfung die Anerkennung zurückgenommen und ist der Antragsteller nicht mehr im Besitz des Pflanzgutes, so hat er der Anerkennungsstelle Namen und Anschrift desjenigen mitzuteilen, an den er das Pflanzgut abgegeben hat. Dies gilt entsprechend für den Erwerber dieses Pflanzgutes. Die Anerkennungsstelle, welche die Anerkennung zurückgenommen hat, hat die für den Besitzer des Pflanzgutes zuständige Anerkennungsstelle unter Angabe von Art, Sortenbezeichnung und Anerkennungsnummer von der Rücknahme zu unterrichten.
+
+(2) Wird die Anerkennung zurückgenommen, so sind die Etiketten, Einleger und die Verschlusssicherungen, mit denen die Packungen und Behältnisse versehen worden sind, nach Anweisung der Anerkennungsstelle abzuliefern oder unbrauchbar zu machen.
 
 ## Abschnitt 2a: Inverkehrbringen von Pflanzgut nicht zugelassener Sorten
 
@@ -117,11 +281,23 @@ Wird Pflanzgut in Packungen oder in nicht zur Wiederverwendung vorgesehenen Beh�
 
 ### § 24 — Etikett
 
-(1) Im Anschluss an die Prüfung auf Knollenkrankheiten und äußere Mängel ist jede Packung oder jedes Behältnis des Pflanzgutes durch den Probenehmer oder unter seiner Aufsicht mit einem Etikett zu kennzeichnen. Als Etikett gilt auch ein Klebeetikett der Anerkennungsstelle.(2) Das Etikett muß rechteckig und mindestens 110 x 67 Millimeter groß sein, die jeweilige Kennfarbe haben und als unverwischbaren Aufdruck die jeweiligen Angaben nach Anlage 4 enthalten; sie können auch zusätzlich in anderen Sprachen gemacht werden.(3) Auf Antrag kann die Anerkennungsstelle Etiketten ausgeben, auf denen eine laufende Nummer, ein Abdruck ihres Siegels oder beides aufgedruckt ist.
+(1) Im Anschluss an die Prüfung auf Knollenkrankheiten und äußere Mängel ist jede Packung oder jedes Behältnis des Pflanzgutes durch den Probenehmer oder unter seiner Aufsicht mit einem Etikett zu kennzeichnen. Als Etikett gilt auch ein Klebeetikett der Anerkennungsstelle.
+
+(2) Das Etikett muß rechteckig und mindestens 110 x 67 Millimeter groß sein, die jeweilige Kennfarbe haben und als unverwischbaren Aufdruck die jeweiligen Angaben nach Anlage 4 enthalten; sie können auch zusätzlich in anderen Sprachen gemacht werden.
+
+(3) Auf Antrag kann die Anerkennungsstelle Etiketten ausgeben, auf denen eine laufende Nummer, ein Abdruck ihres Siegels oder beides aufgedruckt ist.
 
 ### § 24a — Pflanzenpass
 
-(1) Für Pflanzgut, für das in dieser Verordnung besondere Anforderungen hinsichtlich des Befalls mit RNQPs vorgeschrieben sind, bleiben die folgenden Vorschriften unberührt: 1.die Vorschriften der Verordnung (EU) 2016/2031,2.die Vorschriften der Durchführungsverordnung (EU) 2017/2313 der Kommission vom 13. Dezember 2017 zur Festlegung der formalen Anforderungen an den Pflanzenpass für die Verbringung innerhalb des Gebiets der Union und den Pflanzenpass für das Einführen in ein Schutzgebiet und die Verbringung innerhalb dieses Gebiets (ABl. L 331 vom 14.12.2017, S. 44) in der jeweils geltenden Fassung und3.die Vorschriften der Durchführungsverordnung (EU) 2019/2072 der Kommission vom 28. November 2019 zur Festlegung einheitlicher Bedingungen für die Durchführung der Verordnung (EU) 2016/2031 des Europäischen Parlaments und des Rates in Bezug auf Maßnahmen zum Schutz vor Pflanzenschädlingen und zur Aufhebung der Verordnung (EG) Nr. 690/2008 der Kommission sowie zur Änderung der Durchführungsverordnung (EU) 2018/2019 der Kommission (ABl. L 319 vom 10.12.2019, S. 1) in der jeweils geltenden Fassung.Dies gilt insbesondere für die Vorschriften der in Satz 1 genannten Rechtsakte, nach denen bei Pflanzgut, das als Vorstufenpflanzgut, Basispflanzgut oder Zertifiziertes Pflanzgut erzeugt oder auf dem Markt bereitgestellt werden soll, der Pflanzenpass mit dem amtlichen Etikett kombiniert wird.(2) Der Pflanzenpass wird durch die zuständige Behörde ausgestellt und nach den Vorgaben der in Absatz 1 genannten Rechtsakte mit dem amtlichen Etikett zu einem gemeinsamen Etikett zusammengefasst. Das gemeinsame Etikett enthält die nach den in Absatz 1 genannten Rechtsakten erforderlichen Angaben.
+(1) Für Pflanzgut, für das in dieser Verordnung besondere Anforderungen hinsichtlich des Befalls mit RNQPs vorgeschrieben sind, bleiben die folgenden Vorschriften unberührt:
+
+1. die Vorschriften der Verordnung (EU) 2016/2031,
+
+2. die Vorschriften der Durchführungsverordnung (EU) 2017/2313 der Kommission vom 13. Dezember 2017 zur Festlegung der formalen Anforderungen an den Pflanzenpass für die Verbringung innerhalb des Gebiets der Union und den Pflanzenpass für das Einführen in ein Schutzgebiet und die Verbringung innerhalb dieses Gebiets (ABl. L 331 vom 14.12.2017, S. 44) in der jeweils geltenden Fassung und
+
+3. die Vorschriften der Durchführungsverordnung (EU) 2019/2072 der Kommission vom 28. November 2019 zur Festlegung einheitlicher Bedingungen für die Durchführung der Verordnung (EU) 2016/2031 des Europäischen Parlaments und des Rates in Bezug auf Maßnahmen zum Schutz vor Pflanzenschädlingen und zur Aufhebung der Verordnung (EG) Nr. 690/2008 der Kommission sowie zur Änderung der Durchführungsverordnung (EU) 2018/2019 der Kommission (ABl. L 319 vom 10.12.2019, S. 1) in der jeweils geltenden Fassung.
+
+(2) Der Pflanzenpass wird durch die zuständige Behörde ausgestellt und nach den Vorgaben der in Absatz 1 genannten Rechtsakte mit dem amtlichen Etikett zu einem gemeinsamen Etikett zusammengefasst. Das gemeinsame Etikett enthält die nach den in Absatz 1 genannten Rechtsakten erforderlichen Angaben.
 
 ### § 25 — Einleger
 
@@ -129,31 +305,119 @@ Jede Packung oder jedes Behältnis ist mit einem Einleger in der jeweiligen Kenn
 
 ### § 26 — Angabe einer chemischen Behandlung
 
-Ist Pflanzgut einer chemischen Behandlung unterzogen worden, so ist dies anzugeben. Ist dabei ein Pflanzenschutzmittel angewendet worden, so sind dessen Bezeichnung und die Zulassungsnummer anzugeben; anstelle der Bezeichnung und der Zulassungsnummer kann der Wirkstoff oder dessen Kurzbezeichnung angegeben werden. Die Angaben sind unverwischbar aufzudrucken 1.auf dem Etikett und, falls ein Einleger erforderlich ist, auf dem Einleger, 2.auf einem Zusatzetikett und, falls es nicht aus reißfestem Material besteht, auf dem Einleger oder auf einem zusätzlichen Einleger oder 3.auf einem Klebeetikett.
+Ist Pflanzgut einer chemischen Behandlung unterzogen worden, so ist dies anzugeben. Ist dabei ein Pflanzenschutzmittel angewendet worden, so sind dessen Bezeichnung und die Zulassungsnummer anzugeben; anstelle der Bezeichnung und der Zulassungsnummer kann der Wirkstoff oder dessen Kurzbezeichnung angegeben werden. Die Angaben sind unverwischbar aufzudrucken
+
+1. auf dem Etikett und, falls ein Einleger erforderlich ist, auf dem Einleger,
+
+2. auf einem Zusatzetikett und, falls es nicht aus reißfestem Material besteht, auf dem Einleger oder auf einem zusätzlichen Einleger oder
+
+3. auf einem Klebeetikett.
 
 ### § 27 — Angaben in besonderen Fällen
 
-(1) Packungen oder Behältnisse mit anerkanntem Pflanzgut müssen bei Pflanzgut, das nach § 4 Abs. 2 des Saatgutverkehrsgesetzes anerkannt worden oder das nicht zum Anbau in einem Vertragsstaat bestimmt ist (§ 30 Abs. 2 Satz 1 Nr. 5 des Saatgutverkehrsgesetzes), auf dem Etikett oder einem Zusatzetikett zusätzlich die Angabe "Zur Ausfuhr außerhalb der Vertragsstaaten" tragen.(2) Hat das Bundessortenamt die Sortenzulassung oder ihre Verlängerung mit einer Auflage für die Kennzeichnung des Pflanzgutes der Sorte verbunden, so ist auf dem Etikett oder einem Zusatzetikett zusätzlich eine Angabe entsprechend der Auflage anzubringen.(3) Die Packungen oder Behältnisse mit eingeführtem Pflanzgut, für das eine nach § 16 des Saatgutverkehrsgesetzes gleichgestellte Anerkennung vorliegt, müssen in der in Rechtsakten von Organen der Europäischen Gemeinschaften bestimmten Form gekennzeichnet sein. Soweit die Kennzeichnung zusätzliche Angaben nach Anlage 4 Nr. 1.13 enthält und diese nicht in deutscher Sprache angegeben oder in die deutsche Sprache übersetzt sind, sind die Packungen oder Behältnisse nach Ankunft am Bestimmungsort im Inland mit einem Zusatzetikett zu versehen, das die Angaben des Originaletikettes in deutscher Sprache enthält; an die Stelle des Zusatzetikettes kann bei Packungen ein unverwischbarer Aufdruck treten. Die Sätze 1 und 2 gelten nicht, wenn am ersten Bestimmungsort im Inland die Packungen oder die Behältnisse nach § 29 wiederverschlossen werden sollen.
+(1) Packungen oder Behältnisse mit anerkanntem Pflanzgut müssen bei Pflanzgut, das nach § 4 Abs. 2 des Saatgutverkehrsgesetzes anerkannt worden oder das nicht zum Anbau in einem Vertragsstaat bestimmt ist (§ 30 Abs. 2 Satz 1 Nr. 5 des Saatgutverkehrsgesetzes), auf dem Etikett oder einem Zusatzetikett zusätzlich die Angabe "Zur Ausfuhr außerhalb der Vertragsstaaten" tragen.
+
+(2) Hat das Bundessortenamt die Sortenzulassung oder ihre Verlängerung mit einer Auflage für die Kennzeichnung des Pflanzgutes der Sorte verbunden, so ist auf dem Etikett oder einem Zusatzetikett zusätzlich eine Angabe entsprechend der Auflage anzubringen.
+
+(3) Die Packungen oder Behältnisse mit eingeführtem Pflanzgut, für das eine nach § 16 des Saatgutverkehrsgesetzes gleichgestellte Anerkennung vorliegt, müssen in der in Rechtsakten von Organen der Europäischen Gemeinschaften bestimmten Form gekennzeichnet sein. Soweit die Kennzeichnung zusätzliche Angaben nach Anlage 4 Nr. 1.13 enthält und diese nicht in deutscher Sprache angegeben oder in die deutsche Sprache übersetzt sind, sind die Packungen oder Behältnisse nach Ankunft am Bestimmungsort im Inland mit einem Zusatzetikett zu versehen, das die Angaben des Originaletikettes in deutscher Sprache enthält; an die Stelle des Zusatzetikettes kann bei Packungen ein unverwischbarer Aufdruck treten. Die Sätze 1 und 2 gelten nicht, wenn am ersten Bestimmungsort im Inland die Packungen oder die Behältnisse nach § 29 wiederverschlossen werden sollen.
 
 ### § 28 — Verschließung
 
-(1) Im Anschluss an die Kennzeichnung nach § 24 Abs. 1 wird jede Packung oder jedes Behältnis durch den Probenehmer oder unter seiner Aufsicht geschlossen und mit einer amtlichen Verschlusssicherung versehen (Verschließung).(2) Als Verschlusssicherung kann verwendet werden: 1.eine Plombe, 2.eine Banderole, 3.eine Siegelmarke, 4.ein Klebeetikett, 5.bei maschinell zugenähten Packungen ein Etikett der Anerkennungsstelle, das von einer Seite zur gegenüberliegenden Seite mit der Maschinennaht durchgenäht ist und kein Loch zum Anhängen hat. (3) Die Verschlusssicherung nach Absatz 2 Nr. 1 bis 3 trägt die Aufschrift "Saatgut amtlich verschlossen" und das Kennzeichen der Anerkennungsstelle.(4) Die verschlossenen Packungen oder Behältnisse müssen so beschaffen sein, dass jeder Zugriff auf den Inhalt oder das Etikett die Verschlusssicherung unbrauchbar macht oder andere deutliche Spuren hinterlässt. Bei Verwendung eines Klebeetikettes gilt diese Anforderung auch dann als erfüllt, wenn es 1.an einer Packung mit nicht wieder verwendbarem Verschluss so angebracht ist, dass es beim Öffnen des Verschlusses nicht unbrauchbar wird, 2.bei einer maschinell zugenähten Packung von einer Seite zur gegenüberliegenden Seite mit der Maschinennaht durchgenäht ist.
+(1) Im Anschluss an die Kennzeichnung nach § 24 Abs. 1 wird jede Packung oder jedes Behältnis durch den Probenehmer oder unter seiner Aufsicht geschlossen und mit einer amtlichen Verschlusssicherung versehen (Verschließung).
+
+(2) Als Verschlusssicherung kann verwendet werden:
+
+1. eine Plombe,
+
+2. eine Banderole,
+
+3. eine Siegelmarke,
+
+4. ein Klebeetikett,
+
+5. bei maschinell zugenähten Packungen ein Etikett der Anerkennungsstelle, das von einer Seite zur gegenüberliegenden Seite mit der Maschinennaht durchgenäht ist und kein Loch zum Anhängen hat.
+
+(3) Die Verschlusssicherung nach Absatz 2 Nr. 1 bis 3 trägt die Aufschrift "Saatgut amtlich verschlossen" und das Kennzeichen der Anerkennungsstelle.
+
+(4) Die verschlossenen Packungen oder Behältnisse müssen so beschaffen sein, dass jeder Zugriff auf den Inhalt oder das Etikett die Verschlusssicherung unbrauchbar macht oder andere deutliche Spuren hinterlässt. Bei Verwendung eines Klebeetikettes gilt diese Anforderung auch dann als erfüllt, wenn es
+
+1. an einer Packung mit nicht wieder verwendbarem Verschluss so angebracht ist, dass es beim Öffnen des Verschlusses nicht unbrauchbar wird,
+
+2. bei einer maschinell zugenähten Packung von einer Seite zur gegenüberliegenden Seite mit der Maschinennaht durchgenäht ist.
 
 ### § 29 — Wiederverschließung
 
-(1) Auf Antrag findet eine Wiederverschließung statt. In dem Antrag sind die Einwirkungen und Behandlungen anzugeben, denen das Pflanzgut unterworfen war; ferner ist zu erklären, dass das Pflanzgut aus Packungen oder Behältnissen stammt, die vorschriftsmäßig verschlossen waren, und es nur den im Antrag angegebenen Einwirkungen und Behandlungen unterworfen war. Der Antrag ist an die Anerkennungsstelle, in deren Bereich das Pflanzgut lagert, oder an eine von ihr bestimmte Stelle zu richten. Die Wiederverschließung darf nur durch einen Probenehmer oder unter seiner Aufsicht durchgeführt werden.(2) Hat eine Aussonderung nach § 8 Abs. 2 stattgefunden, so findet auf Antrag eine Wiederverschließung des nicht ausgesonderten Pflanzgutes durch die Anerkennungsstelle statt, in deren Bereich die Aussonderung vorgenommen worden ist. Die Anerkennungsstelle darf die Wiederverschließung nur vornehmen, wenn sie in einer erneuten Prüfung festgestellt hat, dass die Anforderungen nach Anlage 2 Nr. 2 noch erfüllt sind.(3) Bei der Wiederverschließung kann der Probenehmer eine Probe für die Nachprüfung nach § 20 Abs. 1 entnehmen.(4) Auf dem Etikett jeder wiederverschlossenen Packung oder jedes wiederverschlossenen Behältnisses sind außer den nach den §§ 24, 26 und 27 vorgeschriebenen Angaben der Monat und das Jahr der Wiederverschließung und eine Wiederverschließungsnummer anzugeben. Für die Wiederverschließungsnummer gilt § 19 Abs. 2 entsprechend mit der Maßgabe, dass hinter der Zahl der Buchstabe "W" angefügt ist.(5) Werden Originaletiketten nicht wieder verwendet und sind Originaleinleger noch vorhanden, so sind sie an den Probenehmer zur Vernichtung abzuliefern.
+(1) Auf Antrag findet eine Wiederverschließung statt. In dem Antrag sind die Einwirkungen und Behandlungen anzugeben, denen das Pflanzgut unterworfen war; ferner ist zu erklären, dass das Pflanzgut aus Packungen oder Behältnissen stammt, die vorschriftsmäßig verschlossen waren, und es nur den im Antrag angegebenen Einwirkungen und Behandlungen unterworfen war. Der Antrag ist an die Anerkennungsstelle, in deren Bereich das Pflanzgut lagert, oder an eine von ihr bestimmte Stelle zu richten. Die Wiederverschließung darf nur durch einen Probenehmer oder unter seiner Aufsicht durchgeführt werden.
+
+(2) Hat eine Aussonderung nach § 8 Abs. 2 stattgefunden, so findet auf Antrag eine Wiederverschließung des nicht ausgesonderten Pflanzgutes durch die Anerkennungsstelle statt, in deren Bereich die Aussonderung vorgenommen worden ist. Die Anerkennungsstelle darf die Wiederverschließung nur vornehmen, wenn sie in einer erneuten Prüfung festgestellt hat, dass die Anforderungen nach Anlage 2 Nr. 2 noch erfüllt sind.
+
+(3) Bei der Wiederverschließung kann der Probenehmer eine Probe für die Nachprüfung nach § 20 Abs. 1 entnehmen.
+
+(4) Auf dem Etikett jeder wiederverschlossenen Packung oder jedes wiederverschlossenen Behältnisses sind außer den nach den §§ 24, 26 und 27 vorgeschriebenen Angaben der Monat und das Jahr der Wiederverschließung und eine Wiederverschließungsnummer anzugeben. Für die Wiederverschließungsnummer gilt § 19 Abs. 2 entsprechend mit der Maßgabe, dass hinter der Zahl der Buchstabe "W" angefügt ist.
+
+(5) Werden Originaletiketten nicht wieder verwendet und sind Originaleinleger noch vorhanden, so sind sie an den Probenehmer zur Vernichtung abzuliefern.
 
 ### § 30 — Kleinpackungen
 
-(1) Kleinpackungen im Sinne dieser Verordnung sind Packungen von Zertifiziertem Pflanzgut bis zu einem Nettogewicht von 10 Kilogramm.(2) Bei Kleinpackungen sind die Kennzeichnung und Verschließung durch den Probenehmer oder unter seiner Aufsicht sowie die Verwendung von Verschlusssicherungen nach § 28 nicht erforderlich.(3) Bei Kleinpackungen sind zur Kennzeichnung an oder auf der Packung folgende Angaben anzubringen: 1.Name und Anschrift des Herstellers der Kleinpackung oder seine Betriebsnummer,2.Art, Kategorie und Klasse des Pflanzgutes sowie eine vom Betrieb festzusetzende Partienummer,3.die Sortenbezeichnung,4.die Füllmenge,5.im Fall einer chemischen Behandlung die Angaben nach § 26.Werden die Angaben auf einem Etikett oder bei Klarsichtpackungen, bei denen die Angaben durch die Verpackung hindurch deutlich lesbar sind, auf einem Einleger gemacht, so müssen die Etiketten oder Einleger die Kennfarbe haben.(4) Die Betriebsnummer wird für Betriebe, die Kleinpackungen herstellen, von der Anerkennungsstelle, in deren Bereich der Betrieb liegt, auf Antrag festgesetzt. Die Betriebsnummer setzt sich aus den Buchstaben „DE”, einer Zahl und dem Kennzeichen der Anerkennungsstelle zusammen.
+(1) Kleinpackungen im Sinne dieser Verordnung sind Packungen von Zertifiziertem Pflanzgut bis zu einem Nettogewicht von 10 Kilogramm.
+
+(2) Bei Kleinpackungen sind die Kennzeichnung und Verschließung durch den Probenehmer oder unter seiner Aufsicht sowie die Verwendung von Verschlusssicherungen nach § 28 nicht erforderlich.
+
+(3) Bei Kleinpackungen sind zur Kennzeichnung an oder auf der Packung folgende Angaben anzubringen:
+
+1. Name und Anschrift des Herstellers der Kleinpackung oder seine Betriebsnummer,
+
+2. Art, Kategorie und Klasse des Pflanzgutes sowie eine vom Betrieb festzusetzende Partienummer,
+
+3. die Sortenbezeichnung,
+
+4. die Füllmenge,
+
+5. im Fall einer chemischen Behandlung die Angaben nach § 26.
+
+(4) Die Betriebsnummer wird für Betriebe, die Kleinpackungen herstellen, von der Anerkennungsstelle, in deren Bereich der Betrieb liegt, auf Antrag festgesetzt. Die Betriebsnummer setzt sich aus den Buchstaben „DE”, einer Zahl und dem Kennzeichen der Anerkennungsstelle zusammen.
 
 ### § 31 — Abgabe in kleinen Mengen
 
-(1) Zertifiziertes Pflanzgut darf aus vorschriftsmäßig gekennzeichneten und verschlossenen Packungen oder Behältnissen in Mengen bis zu 10 Kilogramm ungekennzeichnet und ohne verschlossene Verpackung an Letztverbraucher abgegeben werden, sofern dem Erwerber auf Verlangen bei der Übergabe schriftlich angegeben werden: 1.die Kategorie und die Klasse,2.die Sortenbezeichnung,3.die Anerkennungsnummer.Beim Inverkehrbringen von Pflanzgut aus Kleinpackungen zu gewerblichen Zwecken treten an die Stelle der Anerkennungsnummer Name und Anschrift des Herstellers der Kleinpackungen oder seine Betriebsnummer sowie die Partienummer der Kleinpackung.(2) Ist Pflanzgut chemisch behandelt worden, so ist der Erwerber auch ohne Verlangen hierauf hinzuweisen. § 26 Satz 2 gilt entsprechend.
+(1) Zertifiziertes Pflanzgut darf aus vorschriftsmäßig gekennzeichneten und verschlossenen Packungen oder Behältnissen in Mengen bis zu 10 Kilogramm ungekennzeichnet und ohne verschlossene Verpackung an Letztverbraucher abgegeben werden, sofern dem Erwerber auf Verlangen bei der Übergabe schriftlich angegeben werden:
+
+1. die Kategorie und die Klasse,
+
+2. die Sortenbezeichnung,
+
+3. die Anerkennungsnummer.
+
+(2) Ist Pflanzgut chemisch behandelt worden, so ist der Erwerber auch ohne Verlangen hierauf hinzuweisen. § 26 Satz 2 gilt entsprechend.
 
 ### § 32 — Kennzeichnung von nicht anerkanntem Pflanzgut in besonderen Fällen
 
-(1) Wird Pflanzgut, das nicht anerkannt ist, in den Fällen des § 3 Abs. 1 Nr. 5, 6 und 8 und Abs. 2 des Saatgutverkehrsgesetzes zu gewerblichen Zwecken in den Verkehr gebracht oder nach § 2 Nr. 12 Buchstabe b Doppelbuchstabe aa des Saatgutverkehrsgesetzes abgegeben, so ist jede Packung oder jedes Behältnis mit einem besonderen Etikett und einem besonderen Einleger zu versehen. Dieses Etikett und dieser Einleger müssen folgende Angaben enthalten: 1.Name und Anschrift des Absenders,2.die Art "Kartoffel" und die Sortenbezeichnung sowie3.im Fallea)des § 3 Abs. 1 Satz 1 Nr. 5 des Saatgutverkehrsgesetzes den Hinweis "Nicht anerkanntes Vorstufenpflanzgut zum vertraglichen Vermehrungsanbau",b)des § 3 Abs. 1 Satz 1 Nr. 6 des Saatgutverkehrsgesetzes je nach Verwendungszweck den Hinweis "Pflanzgut für Ausstellungszwecke" oder "Zum Anbau außerhalb der Vertragsstaaten bestimmt",c)des § 3 Abs. 1 Satz 1 Nr. 8 des Saatgutverkehrsgesetzes den Hinweis "Pflanzgut für wissenschaftliche Zwecke oder Züchtungszwecke",d)des § 3 Abs. 2 des Saatgutverkehrsgesetzes den Hinweis "Pflanzgut einer nicht zugelassenen Sorte"; hat das Bundessortenamt die Genehmigung mit einer Auflage für die Kennzeichnung des Pflanzgutes verbunden, so ist eine Angabe entsprechend der Auflage zu machen,e)des § 2 Nr. 12 Buchstabe b Doppelbuchstabe aa des Saatgutverkehrsgesetzes den Hinweis "Nicht anerkanntes Pflanzgut, zur Bearbeitung".(1a) Zur Kennzeichnung von Pflanzgut nach Absatz 1 Satz 2 Nummer 3 Buchstabe d ist ein Etikett des Bundessortenamtes nach Anlage 4 Nummer 3 zu verwenden.(2) Auf Antrag ist bei Pflanzgut nach Absatz 1 Satz 2 Nr. 3 Buchstabe e, das von einer Vermehrungsfläche stammt, deren Feldbestand für die Anerkennung als geeignet befunden worden ist oder bei der das Anerkennungsverfahren nach § 10 Abs. 2 fortgesetzt wurde, anstelle der Kennzeichnung nach Absatz 1 jede Packung oder jedes Behältnis durch den Probenehmer oder unter seiner Aufsicht mit je einem grauen besonderen Etikett und Einleger zu kennzeichnen und zu verschließen. Dieses Etikett und dieser Einleger müssen folgende Angaben enthalten: 1."Bundesrepublik Deutschland",2.das Kennzeichen der Anerkennungsstelle,2a.die amtlich zugeteilte Seriennummer,3.die Art,4.die Sortenbezeichnung,5.die von der Anerkennungsstelle zugeteilte Partienummer,6."Nicht anerkanntes Pflanzgut, zur Bearbeitung".Die Sätze 1 und 2 gelten entsprechend für Pflanzgut, das nach § 18 Abs. 2 Nr. 5 des Saatgutverkehrsgesetzes in verschlossenen Packungen oder Behältnissen eingeführt worden ist.(3) § 26 gilt entsprechend; die Angaben sind auf den besonderen Etiketten und Einlegern zu machen.
+(1) Wird Pflanzgut, das nicht anerkannt ist, in den Fällen des § 3 Abs. 1 Nr. 5, 6 und 8 und Abs. 2 des Saatgutverkehrsgesetzes zu gewerblichen Zwecken in den Verkehr gebracht oder nach § 2 Nr. 12 Buchstabe b Doppelbuchstabe aa des Saatgutverkehrsgesetzes abgegeben, so ist jede Packung oder jedes Behältnis mit einem besonderen Etikett und einem besonderen Einleger zu versehen. Dieses Etikett und dieser Einleger müssen folgende Angaben enthalten:
+
+1. Name und Anschrift des Absenders,
+
+2. die Art "Kartoffel" und die Sortenbezeichnung sowie
+
+3. im Fallea)des § 3 Abs. 1 Satz 1 Nr. 5 des Saatgutverkehrsgesetzes den Hinweis "Nicht anerkanntes Vorstufenpflanzgut zum vertraglichen Vermehrungsanbau",b)des § 3 Abs. 1 Satz 1 Nr. 6 des Saatgutverkehrsgesetzes je nach Verwendungszweck den Hinweis "Pflanzgut für Ausstellungszwecke" oder "Zum Anbau außerhalb der Vertragsstaaten bestimmt",c)des § 3 Abs. 1 Satz 1 Nr. 8 des Saatgutverkehrsgesetzes den Hinweis "Pflanzgut für wissenschaftliche Zwecke oder Züchtungszwecke",d)des § 3 Abs. 2 des Saatgutverkehrsgesetzes den Hinweis "Pflanzgut einer nicht zugelassenen Sorte"; hat das Bundessortenamt die Genehmigung mit einer Auflage für die Kennzeichnung des Pflanzgutes verbunden, so ist eine Angabe entsprechend der Auflage zu machen,e)des § 2 Nr. 12 Buchstabe b Doppelbuchstabe aa des Saatgutverkehrsgesetzes den Hinweis "Nicht anerkanntes Pflanzgut, zur Bearbeitung". des § 3 Abs. 1 Satz 1 Nr. 5 des Saatgutverkehrsgesetzes den Hinweis "Nicht anerkanntes Vorstufenpflanzgut zum vertraglichen Vermehrungsanbau", des § 3 Abs. 1 Satz 1 Nr. 6 des Saatgutverkehrsgesetzes je nach Verwendungszweck den Hinweis "Pflanzgut für Ausstellungszwecke" oder "Zum Anbau außerhalb der Vertragsstaaten bestimmt", des § 3 Abs. 1 Satz 1 Nr. 8 des Saatgutverkehrsgesetzes den Hinweis "Pflanzgut für wissenschaftliche Zwecke oder Züchtungszwecke", des § 3 Abs. 2 des Saatgutverkehrsgesetzes den Hinweis "Pflanzgut einer nicht zugelassenen Sorte"; hat das Bundessortenamt die Genehmigung mit einer Auflage für die Kennzeichnung des Pflanzgutes verbunden, so ist eine Angabe entsprechend der Auflage zu machen, des § 2 Nr. 12 Buchstabe b Doppelbuchstabe aa des Saatgutverkehrsgesetzes den Hinweis "Nicht anerkanntes Pflanzgut, zur Bearbeitung".
+
+(1a) Zur Kennzeichnung von Pflanzgut nach Absatz 1 Satz 2 Nummer 3 Buchstabe d ist ein Etikett des Bundessortenamtes nach Anlage 4 Nummer 3 zu verwenden.
+
+(2) Auf Antrag ist bei Pflanzgut nach Absatz 1 Satz 2 Nr. 3 Buchstabe e, das von einer Vermehrungsfläche stammt, deren Feldbestand für die Anerkennung als geeignet befunden worden ist oder bei der das Anerkennungsverfahren nach § 10 Abs. 2 fortgesetzt wurde, anstelle der Kennzeichnung nach Absatz 1 jede Packung oder jedes Behältnis durch den Probenehmer oder unter seiner Aufsicht mit je einem grauen besonderen Etikett und Einleger zu kennzeichnen und zu verschließen. Dieses Etikett und dieser Einleger müssen folgende Angaben enthalten:
+
+1. "Bundesrepublik Deutschland",
+
+2. das Kennzeichen der Anerkennungsstelle,
+
+2a. die amtlich zugeteilte Seriennummer,
+
+3. die Art,
+
+4. die Sortenbezeichnung,
+
+5. die von der Anerkennungsstelle zugeteilte Partienummer,
+
+6. "Nicht anerkanntes Pflanzgut, zur Bearbeitung".
+
+(3) § 26 gilt entsprechend; die Angaben sind auf den besonderen Etiketten und Einlegern zu machen.
 
 ## Abschnitt 4: Zusätzliche Anforderungen
 für das Inverkehrbringen
@@ -174,90 +438,114 @@ Etiketten, die am 17. Juni 2017 bereits hergestellt waren, dürfen noch bis zum 
 
 ### Anlage 1 — (zu § 8 Absatz 1 Satz 1)
 
-(Fundstelle: BGBl. I 2015, 2328;bzgl. der einzelnen Änderungen vgl. Fußnote)AnforderungVorstufenpflanzgut der KlasseBasispflanzgut der KlasseZertifiziertes Pflanzgut der KlassePBTCPBSSEEAB123456781FremdbesatzDie Anzahl der Pflanzen, die nicht hinreichend sortenecht sind oder einer anderen Sorte zugehören, darf je Hektar höchstens betragen:0224816162FehlstellenDie Anzahl der Fehlstellen darf auf 100 Pflanzstellen höchstens betragen:15152020203Krankheiten3.1Der Anteil der Pflanzen, die von folgenden Krankheiten befallen sind, darf im Durchschnitt von mindestens 5 Auszählungen je 100 Pflanzen höchstens betragen:3.1.1Schwarzbeinigkeit (Pectobacterium spp., Dickeya spp.);als schwarzbeinige Pflanze gilt auch jede Stelle, an der Knollen oder Kraut von schwarzbeinigen Pflanzen liegengeblieben sind000,10,40,61,01,23.1.2Candidatus Liberibacter solanacearum Lieftinget al. (Zebra-Chip)00000003.1.3Candidatus Phytoplasma solani Quaglino et al. (Stolbur)00000003.1.4Viruskrankheiten (Anzeichen des Befalls mit Mosaikvirus und Blattrollvirus); als viruskranke Pflanze gilt, außer im Fall des § 9 Absatz 3 auch der Nachwuchs nicht entfernter Knollen herausgereinigter Pflanzen sowie jede Stelle, an der Knollen oder Kraut von solchen Pflanzen liegengeblieben sind00,10,20,40,61,02,03.1.5Potato spindle tuber viroid (PSTVd)000000 0____________3.2(weggefallen)4Schadorganismen4.1Quarantäneschadorganismen4.1.1Der Feldbestand darf nicht mit Bakterieller Ringfäule, Schleimkrankheit und nicht mit Kartoffelkrebs befallen sein.4.1.2Der Feldbestand darf keinen Befall der Vermehrungsfläche mit Kartoffelnematoden erkennen lassen.4.2RNQPsDie unter den Nummern 3.1.1 bis 3.1.5 aufgeführten Krankheiten sind RNQPs.Für die nachfolgend genannten RNQPs gelten folgende zusätzliche Anforderungen (entsprechend Anhang V Teil F der Durchführungsverordnung (EU) 2019/2072):4.2.1RNQP nach Nummer 3.1.2: a)Das Pflanzgut muss in Gebieten erzeugt werden, die bekanntermaßen frei von Candidatus Liberibacter solanacearum sind; einem möglichen Auftreten von Vektoren ist dabei Rechnung zu tragen oderb)bei amtlichen Feldbesichtigungen der Vermehrungsflächen wurden seit Beginn der letzten abgeschlossenen Vegetationsperiode keine Symptome von Candidatus Liberibacter solanacearum festgestellt.4.2.2RNQP nach Nummer 3.1.3: a)Bei amtlichen Feldbesichtigungen der Vermehrungsflächen wurden seit Beginn der letzten abgeschlossenen Vegetationsperiode keine Symptome von Candidatus Phytoplasma solani festgestellt oderb)alle Pflanzen, die Anzeichen eines Befalls mit Candidatus Phytoplasma solani aufweisen, müssen inklusive ihres Knollenanhangs von der Vermehrungsfläche entfernt und vernichtet werden und Knollen einer betroffenen Pflanzgutpartie müssen daraufhin amtlich geprüft werden, dass sie keine Anzeichen eines Befalls mit Candidatus Phytoplasma solani aufweisen.4.2.3RNQP nach Nummer 3.1.5:Sobald Symptome auf einen Befall hindeuten, müssen Knollen der betroffenen Partien amtlichen Nacherntetests unterzogen und als frei von PSTVd befunden werden.5Abgrenzung Der Feldbestand muss von allen anderen Kartoffelbeständen ausreichend abgegrenzt sein.6Beeinträchtigung des Feldbestandes durch viruskranke Nachbarbestände Der Feldbestand muss von benachbarten Beständen oder Vorgewenden, die mit Viruskrankheiten befallen sind, so weit entfernt sein, dass der Feldbestand nicht infiziert werden kann; dies gilt nicht, wenn zu erwarten ist, dass bei einer anzuordnenden Prüfung des Pflanzgutes auf Viruskrankheiten keine Überschreitung des zulässigen Besatzes mit viruskranken Knollen festgestellt wird.
+____________
+
+3.2 (weggefallen)
+
+4 Schadorganismen
+
+4.1 Quarantäneschadorganismen
+
+4.1.1 Der Feldbestand darf nicht mit Bakterieller Ringfäule, Schleimkrankheit und nicht mit Kartoffelkrebs befallen sein.
+
+4.1.2 Der Feldbestand darf keinen Befall der Vermehrungsfläche mit Kartoffelnematoden erkennen lassen.
+
+4.2 RNQPs Die unter den Nummern 3.1.1 bis 3.1.5 aufgeführten Krankheiten sind RNQPs. Für die nachfolgend genannten RNQPs gelten folgende zusätzliche Anforderungen (entsprechend Anhang V Teil F der Durchführungsverordnung (EU) 2019/2072):
+
+4.2.1 RNQP nach Nummer 3.1.2: a)Das Pflanzgut muss in Gebieten erzeugt werden, die bekanntermaßen frei von Candidatus Liberibacter solanacearum sind; einem möglichen Auftreten von Vektoren ist dabei Rechnung zu tragen oderb)bei amtlichen Feldbesichtigungen der Vermehrungsflächen wurden seit Beginn der letzten abgeschlossenen Vegetationsperiode keine Symptome von Candidatus Liberibacter solanacearum festgestellt. Das Pflanzgut muss in Gebieten erzeugt werden, die bekanntermaßen frei von Candidatus Liberibacter solanacearum sind; einem möglichen Auftreten von Vektoren ist dabei Rechnung zu tragen oder bei amtlichen Feldbesichtigungen der Vermehrungsflächen wurden seit Beginn der letzten abgeschlossenen Vegetationsperiode keine Symptome von Candidatus Liberibacter solanacearum festgestellt.
+
+4.2.2 RNQP nach Nummer 3.1.3: a)Bei amtlichen Feldbesichtigungen der Vermehrungsflächen wurden seit Beginn der letzten abgeschlossenen Vegetationsperiode keine Symptome von Candidatus Phytoplasma solani festgestellt oderb)alle Pflanzen, die Anzeichen eines Befalls mit Candidatus Phytoplasma solani aufweisen, müssen inklusive ihres Knollenanhangs von der Vermehrungsfläche entfernt und vernichtet werden und Knollen einer betroffenen Pflanzgutpartie müssen daraufhin amtlich geprüft werden, dass sie keine Anzeichen eines Befalls mit Candidatus Phytoplasma solani aufweisen. Bei amtlichen Feldbesichtigungen der Vermehrungsflächen wurden seit Beginn der letzten abgeschlossenen Vegetationsperiode keine Symptome von Candidatus Phytoplasma solani festgestellt oder alle Pflanzen, die Anzeichen eines Befalls mit Candidatus Phytoplasma solani aufweisen, müssen inklusive ihres Knollenanhangs von der Vermehrungsfläche entfernt und vernichtet werden und Knollen einer betroffenen Pflanzgutpartie müssen daraufhin amtlich geprüft werden, dass sie keine Anzeichen eines Befalls mit Candidatus Phytoplasma solani aufweisen.
+
+4.2.3 RNQP nach Nummer 3.1.5: Sobald Symptome auf einen Befall hindeuten, müssen Knollen der betroffenen Partien amtlichen Nacherntetests unterzogen und als frei von PSTVd befunden werden.
+
+5 Abgrenzung Der Feldbestand muss von allen anderen Kartoffelbeständen ausreichend abgegrenzt sein.
+
+6 Beeinträchtigung des Feldbestandes durch viruskranke Nachbarbestände Der Feldbestand muss von benachbarten Beständen oder Vorgewenden, die mit Viruskrankheiten befallen sind, so weit entfernt sein, dass der Feldbestand nicht infiziert werden kann; dies gilt nicht, wenn zu erwarten ist, dass bei einer anzuordnenden Prüfung des Pflanzgutes auf Viruskrankheiten keine Überschreitung des zulässigen Besatzes mit viruskranken Knollen festgestellt wird.
 
 ### Anlage 2 — (zu § 8 Absatz 1 Satz 2, § 15 Absatz 2, § 29 Absatz 2 Satz 2)
 
-(Fundstelle: BGBl. I 2015, 2329 - 2330;bzgl. der einzelnen Änderungen vgl. Fußnote)1Viruskrankheiten1.1Für die Prüfung auf Viruskrankheiten sind mindestens 100 Knollen heranzuziehen; im Falle der Entnahme einer weiteren Probe nach § 15 Absatz 1 ist ein Gesamtergebnis der Prüfung von mindestens 100 Knollen aus der ersten Probe und mindestens 200 Knollen aus der weiteren Probe zu ermitteln.1.2Der Anteil der Knollen, die Viren aufweisen, die Viruskrankheiten der Kartoffel hervorrufen können, darf bei Vorstufenpflanzgut, Basispflanzgut und Zertifiziertem Pflanzgut höchstens betragen: KategorieKlasseViren insgesamt v. H. der ProbeVorstufenpflanzgutPBTC 0 PB 0,5BasispflanzgutS 1,0SE 2,0E 2,0Zertifiziertes PflanzgutA 8,0B10,01.3Bakterielle Ringfäule und Schleimkrankheit1.3.1Für die Prüfung auf Bakterielle Ringfäule und Schleimkrankheit sind mindestens 200 Knollen heranzuziehen.1.3.2Die zur Prüfung herangezogenen Knollen dürfen nicht von Bakterieller Ringfäule oder Schleimkrankheit befallen sein.2Weitere Knollenkrankheiten und äußere Mängel2.1Das Pflanzgut darf keine Knollen aufweisen, die sichtbare Anzeichen des Befalls mit Kartoffelkrebs, Bakterieller Ringfäule, Schleimkrankheit oder Kartoffelnematoden zeigen.2.2Der Anteil der Knollen mit nachstehenden Krankheiten oder Mängeln darf höchstens betragen:Krankheit oder Mangel Vorstufenpflanzgut der Klasse Basispflanzgut der KlasseZertifiziertes Pflanzgut der KlassePBTCPBS, SE, EA, Bv. H. des Gewichtes2.2.1Fäule (Nassfäule, Trockenfäule)/davon Nassfäule höchstens00,2/ 0,20,5/ 0,20,5/ 0,22.2.2Kartoffelschorf, sofern die Knollen auf mehr als einem Drittel der Oberfläche befallen sind05,05,05,02.2.3Candidatus Liberibacter solanacearum Liefting et al. (Zebra-Chip)00002.2.4Candidatus Phytoplasma solani Quaglino et al. (Stolbur)00002.2.5Ditylenchus destructor Thorne000 02.2.6Potato spindle tuber viroid (PSTVd)00002.2.7Rhizoctonia Pusteln (Wurzeltöterkrankheit, verursacht durch Thanatephorus cucumeris (A.B. Frank) Donk), sofern die Knollen auf mehr als 10 v. H. der Oberfläche befallen sind01,05,05,02.2.8Pulverschorf (verursacht durch Spongospora subterranea (Wallr.) Lagerh.), sofern die Knollen auf mehr als 10 v. H. der Oberfläche befallen sind01,03,03,02.2.9Stark geschrumpelte Knollen (ausgeprägter Turgeszenzverlust zum Zeitpunkt der Bonitur, u. a. verursacht durch Silberschorf)00,51,01,02.2.10äußere Fehler (z. B. missgestaltete oder beschädigte Knollen)03,03,03,02.2.11Gesamttoleranz für 2.2.1 bis 2.2.1006,06,08,02.2.12Anhaftende Erde und Fremdstoffe1,01,02,0Die in den Nummern 1.2 sowie 2.2.3 bis 2.2.8 aufgeführten Krankheiten sind RNQPs.3Sonstige Anforderungen3.1Das Pflanzgut darf nicht mit keimhemmenden Mitteln behandelt oder zur Keimhemmung bestrahlt worden sein.3.2Das Pflanzgut darf nicht geschnitten sein.
+1 Viruskrankheiten
+
+1.1 Für die Prüfung auf Viruskrankheiten sind mindestens 100 Knollen heranzuziehen; im Falle der Entnahme einer weiteren Probe nach § 15 Absatz 1 ist ein Gesamtergebnis der Prüfung von mindestens 100 Knollen aus der ersten Probe und mindestens 200 Knollen aus der weiteren Probe zu ermitteln.
+
+1.2 Der Anteil der Knollen, die Viren aufweisen, die Viruskrankheiten der Kartoffel hervorrufen können, darf bei Vorstufenpflanzgut, Basispflanzgut und Zertifiziertem Pflanzgut höchstens betragen: KategorieKlasseViren insgesamt v. H. der ProbeVorstufenpflanzgutPBTC 0 PB 0,5BasispflanzgutS 1,0SE 2,0E 2,0Zertifiziertes PflanzgutA 8,0B10,0
+
+1.3 Bakterielle Ringfäule und Schleimkrankheit
+
+1.3.1 Für die Prüfung auf Bakterielle Ringfäule und Schleimkrankheit sind mindestens 200 Knollen heranzuziehen.
+
+1.3.2 Die zur Prüfung herangezogenen Knollen dürfen nicht von Bakterieller Ringfäule oder Schleimkrankheit befallen sein.
+
+2 Weitere Knollenkrankheiten und äußere Mängel
+
+2.1 Das Pflanzgut darf keine Knollen aufweisen, die sichtbare Anzeichen des Befalls mit Kartoffelkrebs, Bakterieller Ringfäule, Schleimkrankheit oder Kartoffelnematoden zeigen.
+
+2.2 Der Anteil der Knollen mit nachstehenden Krankheiten oder Mängeln darf höchstens betragen:
+
+Die in den Nummern 1.2 sowie 2.2.3 bis 2.2.8 aufgeführten Krankheiten sind RNQPs.
+
+3 Sonstige Anforderungen
+
+3.1 Das Pflanzgut darf nicht mit keimhemmenden Mitteln behandelt oder zur Keimhemmung bestrahlt worden sein.
+
+3.2 Das Pflanzgut darf nicht geschnitten sein.
 
 ### Anlage 3 — (zu § 14 Abs. 2, § 15 Abs. 1, § 17 Abs. 1, § 20 Abs. 3)
 
-Fundstelle des Originaltextes: BGBl. I 2004, 2930
-
-Nr.
-
-Probe nach
-
-Höchstfläche für die Entnahme einer Probe ha
-
-Höchstgewicht einer Partie dt
-
-Mindestmenge einer Probe
-
-1
-
-2
-
-3
-
-4
-
-5
-
-1
-
-§ 14 Abs. 2 Nr. 1
-
-3
-
-500
-
-105 Knollen
-
-1a
-
-§ 14 Abs. 2 Nr. 2
-
-3
-
-500
-
-210 Knollen
-
-2
-
-§ 15 Abs. 1
-
--
-
-500
-
-210 Knollen
-
-3
-
-§ 17 Abs. 1
-
--
-
-500
-
-25 kg
-
-4
-
-§ 20 Abs. 3
-
--
-
-500
-
-105 Knollen
-
 ### Anlage 4 — (zu § 24 Absatz 2, § 24a, § 25 Satz 1 und § 32 Absatz 1a)
 
-(Fundstelle: BGBl. I 2015, 2330;bzgl. der einzelnen Änderungen vgl. Fußnote)1Vorstufenpflanzgut, Basispflanzgut, Zertifiziertes Pflanzgut1.1„EU-Norm“1.2„Bundesrepublik Deutschland“1.3Kennzeichen der Anerkennungsstelle1.3aAmtlich zugeteilte Seriennummer1.4Art1.5Sortenbezeichnung1.6Kategorie und die jeweilige Klasse oder EU-Klasse nach § 31.7Feldgeneration (Angabe liegt nach Maßgabe des § 3 im Ermessen des Inverkehrbringers)1.8Anerkennungsnummer1.9„Verschließung ...“ (Monat, Jahr)1.10Angegebenes Füllgewicht1.11Angegebene Sortierung1.12Erzeugerland1.13Zusätzliche Angaben2Pflanzgut nach § 3 Absatz 2 des Saatgutverkehrsgesetzes2.1Angaben nach den Nummern 1.2, 1.3a, 1.4, 1.9, 1.112.2„Bundessortenamt“2.3Genehmigungsnummer des Bundessortenamtes2.3aPartienummer2.4Vorläufige Bezeichnung der Sorte, ihre Kennnummer und, sofern vorhanden, in Klammern die vorgeschlagene Sortenbezeichnung2.5Angaben nach § 32 Absatz 1 Satz 2 Nummer 3 Buchstabe d2.6„Nur für Tests und Versuche“3.Kennzeichnung mit einem nach den in § 24a Absatz 1 genannten Rechtsakten der Europäischen Union erforderlichen Pflanzenpass entsprechend den dort geregelten Vorgaben
+1 Vorstufenpflanzgut, Basispflanzgut, Zertifiziertes Pflanzgut
+
+1.1 „EU-Norm“
+
+1.2 „Bundesrepublik Deutschland“
+
+1.3 Kennzeichen der Anerkennungsstelle
+
+1.3a Amtlich zugeteilte Seriennummer
+
+1.4 Art
+
+1.5 Sortenbezeichnung
+
+1.6 Kategorie und die jeweilige Klasse oder EU-Klasse nach § 3
+
+1.7 Feldgeneration (Angabe liegt nach Maßgabe des § 3 im Ermessen des Inverkehrbringers)
+
+1.8 Anerkennungsnummer
+
+1.9 „Verschließung ...“ (Monat, Jahr)
+
+1.10 Angegebenes Füllgewicht
+
+1.11 Angegebene Sortierung
+
+1.12 Erzeugerland
+
+1.13 Zusätzliche Angaben
+
+2 Pflanzgut nach § 3 Absatz 2 des Saatgutverkehrsgesetzes
+
+2.1 Angaben nach den Nummern 1.2, 1.3a, 1.4, 1.9, 1.11
+
+2.2 „Bundessortenamt“
+
+2.3 Genehmigungsnummer des Bundessortenamtes
+
+2.3a Partienummer
+
+2.4 Vorläufige Bezeichnung der Sorte, ihre Kennnummer und, sofern vorhanden, in Klammern die vorgeschlagene Sortenbezeichnung
+
+2.5 Angaben nach § 32 Absatz 1 Satz 2 Nummer 3 Buchstabe d
+
+2.6 „Nur für Tests und Versuche“
+
+3. Kennzeichnung mit einem nach den in § 24a Absatz 1 genannten Rechtsakten der Europäischen Union erforderlichen Pflanzenpass entsprechend den dort geregelten Vorgaben
 
 ### Anlage 5 — (zu § 33)
 
-Fundstelle des Originaltextes: BGBl. I 2004, 2930 1.Die Knollen dürfen bestimmte Sortierungsgrößen nicht unterschreiten und nicht überschreiten. Zur Sortierung sind Siebe mit quadratischem Querschnitt der Maschen zu verwenden. Der Unterschied im Seitenmaß der Maschen zur Absortierung von Untergrößen und Übergrößen darf 25 mm nicht übersteigen. Die Mindestgröße des Siebes zur Absortierung der Untergrößen beträgt 25 mm. 2.Bei Knollen, die so groß sind, dass sie nicht durch ein Sieb von 35 mm Seitenlänge hindurchgehen, müssen die für die Sortierung als Ober- und Untergrenzen angegebenen Zahlenwerte ein Vielfaches von 5 sein. 3.Eine Partie darf nicht mehr als je 3 v. H. des Gewichtes an Knollen enthalten, die das angegebene Mindestmaß unterschreiten oder das angegebene Höchstmaß überschreiten.
+1. Die Knollen dürfen bestimmte Sortierungsgrößen nicht unterschreiten und nicht überschreiten. Zur Sortierung sind Siebe mit quadratischem Querschnitt der Maschen zu verwenden. Der Unterschied im Seitenmaß der Maschen zur Absortierung von Untergrößen und Übergrößen darf 25 mm nicht übersteigen. Die Mindestgröße des Siebes zur Absortierung der Untergrößen beträgt 25 mm.
+
+2. Bei Knollen, die so groß sind, dass sie nicht durch ein Sieb von 35 mm Seitenlänge hindurchgehen, müssen die für die Sortierung als Ober- und Untergrenzen angegebenen Zahlenwerte ein Vielfaches von 5 sein.
+
+3. Eine Partie darf nicht mehr als je 3 v. H. des Gewichtes an Knollen enthalten, die das angegebene Mindestmaß unterschreiten oder das angegebene Höchstmaß überschreiten.

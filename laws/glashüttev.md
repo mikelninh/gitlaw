@@ -18,19 +18,11 @@ Die Herkunftsangabe „Glashütte“ darf im geschäftlichen Verkehr nur für so
 
 Das Herkunftsgebiet umfasst folgende Gebiete im Freistaat Sachsen:
 
-1.
+1. die Stadt Glashütte,
 
-2.
+2. die Ortsteile Bärenstein und Lauenstein der Stadt Altenberg für die Zulieferung und Veredlung sowie
 
-3.
-
-a)
-
-b)
-
-c)
-
-d)
+3. die Landeshauptstadt Dresden für folgende, konkrete Veredlungsschritte: a)Werkteile plattieren,b)Werkteile galvanisieren,c)Werkteile rhodinieren sowied)Laserarbeiten. Werkteile plattieren, Werkteile galvanisieren, Werkteile rhodinieren sowie Laserarbeiten.
 
 ### § 3 — Uhren
 
@@ -40,47 +32,37 @@ Uhren im Sinne dieser Verordnung sind Instrumente, deren Hauptfunktion die Zeitm
 
 (1) Wesentliche Herstellungsstufen im Sinne von § 5 Nummer 2 sind:
 
-1.
+1. die Herstellung des Uhrwerks,
 
-2.
+2. die Einschalung des Uhrwerks und
 
-3.
+3. die Endkontrolle der Uhr.
 
 (2) Die Herstellung des Uhrwerks besteht im Wesentlichen aus folgenden Herstellungsstufen:
 
-1.
+1. der Fertigung oder Veredlung von Teilen des Uhrwerks,
 
-2.
+2. der Montage von Teilen des Uhrwerks,
 
-3.
+3. dem Ingangsetzen,
 
-4.
+4. der Reglage,
 
-5.
+5. der Montage des Ziffernblatts,
 
-6.
+6. dem Setzen der Zeiger,
 
-7.
+7. der Schlusskontrolle des Uhrwerks und
 
-8.
+8. der Chronometerzertifizierung, soweit diese im Herkunftsgebiet durchgeführt wird.
 
 ### § 5 — Herstellung im Herkunftsgebiet
 
 Eine Uhr ist im Herkunftsgebiet hergestellt, wenn
 
-1.
+1. folgende Herstellungsstufen vollständig im Gebiet der Stadt Glashütte im Freistaat Sachsen erfolgt sind: a)Montage und das Ingangsetzen des Uhrwerks,b)die Reglage,c)die Montage des Ziffernblatts,d)das Setzen der Zeiger,e)das Einschalen des Uhrwerks und Montage und das Ingangsetzen des Uhrwerks, die Reglage, die Montage des Ziffernblatts, das Setzen der Zeiger, das Einschalen des Uhrwerks und
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-2.
+2. in den wesentlichen Herstellungsstufen zusammen mehr als 50 Prozent der Wertschöpfung im Herkunftsgebiet erzielt wurde.
 
 ### § 6 — Außerkrafttreten
 

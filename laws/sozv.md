@@ -16,7 +16,9 @@ Ab dem Jahr 2002 wird die mitteleuropäische Sommerzeit (§ 5 des Einheiten- und
 
 ### § 2
 
-(1) Die mitteleuropäische Sommerzeit beginnt jeweils am letzten Sonntag im März um 2 Uhr mitteleuropäischer Zeit. Im Zeitpunkt des Beginns der Sommerzeit wird die Stundenzählung um eine Stunde von 2 Uhr auf 3 Uhr vorgestellt.(2) Die mitteleuropäische Sommerzeit endet jeweils am letzten Sonntag im Oktober um 3 Uhr mitteleuropäischer Sommerzeit. Im Zeitpunkt des Endes der Sommerzeit wird die Stundenzählung um eine Stunde von 3 Uhr auf 2 Uhr zurückgestellt. Die Stunde von 2 Uhr bis 3 Uhr erscheint dabei zweimal. Die erste Stunde (von 2 Uhr bis 3 Uhr mitteleuropäischer Sommerzeit) wird mit 2A und die zweite Stunde (von 2 Uhr bis 3 Uhr mitteleuropäischer Zeit) mit 2B bezeichnet.
+(1) Die mitteleuropäische Sommerzeit beginnt jeweils am letzten Sonntag im März um 2 Uhr mitteleuropäischer Zeit. Im Zeitpunkt des Beginns der Sommerzeit wird die Stundenzählung um eine Stunde von 2 Uhr auf 3 Uhr vorgestellt.
+
+(2) Die mitteleuropäische Sommerzeit endet jeweils am letzten Sonntag im Oktober um 3 Uhr mitteleuropäischer Sommerzeit. Im Zeitpunkt des Endes der Sommerzeit wird die Stundenzählung um eine Stunde von 3 Uhr auf 2 Uhr zurückgestellt. Die Stunde von 2 Uhr bis 3 Uhr erscheint dabei zweimal. Die erste Stunde (von 2 Uhr bis 3 Uhr mitteleuropäischer Sommerzeit) wird mit 2A und die zweite Stunde (von 2 Uhr bis 3 Uhr mitteleuropäischer Zeit) mit 2B bezeichnet.
 
 ### § 3
 

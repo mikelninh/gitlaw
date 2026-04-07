@@ -14,27 +14,27 @@ Unter dem Namen "Stiftung Bundeskanzler-Adenauer-Haus" wird mit Sitz in Bad Honn
 
 (1) Zweck der Stiftung ist es,
 
-1.
+1. das Andenken an das Wirken des Staatsmannes Konrad Adenauer für Freiheit und Einheit des deutschen Volkes, für Europa, für Verständigung und Versöhnung unter den Völkern zu wahren und einen Beitrag zum Verständnis der jüngeren Geschichte sowie des Entstehens der Bundesrepublik Deutschland zu leisten;
 
-2.
+2. den Nachlaß Konrad Adenauers, soweit er nicht familiären Charakter hat, zu sammeln, zu pflegen, zu verwalten und für die Interessen der Allgemeinheit in Wissenschaft, Bildung und Politik auszuwerten.
 
 (2) Der Erfüllung dieses Zweckes dienen insbesondere folgende Maßnahmen:
 
-1.
+1. Einrichtung, Unterhaltung und Ausbau der für die Öffentlichkeit zugänglichen Gedenkstätte "Stiftung Bundeskanzler-Adenauer-Haus" in Bad Honnef-Rhöndorf;
 
-2.
+2. Einrichtung und Unterhaltung eines Archivs nebst Forschungs- und Dokumentationsstelle in Bad Honnef-Rhöndorf;
 
-3.
+3. Veröffentlichung von Archivbeständen und wissenschaftlichen Untersuchungen;
 
-4.
+4. Veranstaltungen im Sinne des Stiftungszwecks.
 
 ### § 3 — Stiftungsvermögen
 
 (1) Mit dem Inkrafttreten dieses Gesetzes gehen auf die Stiftung über:
 
-1.
+1. die unbeweglichen und beweglichen Vermögensgegenstände, die der Bundesrepublik Deutschland von den Erben des verstorbenen Bundeskanzlers Konrad Adenauer auf Grund besonderer vertraglicher Vereinbarungen unentgeltlich übereignet worden sind, und
 
-2.
+2. die von der Bundesrepublik Deutschland für die unselbständige Stiftung Bundeskanzler-Adenauer-Haus erworbenen Vermögensgegenstände.
 
 (2) Die Stiftung ist berechtigt, Zuwendungen von dritter Seite anzunehmen.
 
@@ -50,9 +50,9 @@ Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer Mehrheit von v
 
 Organe der Stiftung sind
 
-1.
+1. das Kuratorium,
 
-2.
+2. der Vorstand.
 
 ### § 6 — Kuratorium
 

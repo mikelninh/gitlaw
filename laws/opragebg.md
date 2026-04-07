@@ -16,4 +16,8 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 ### § 3
 
-Es werden aufgehoben, soweit sie Bundesrecht geworden sind: 1.das Gesetz über die Befähigung zum höheren bautechnischen Verwaltungsdienst vom 16. Juli 1936 (Reichsgesetzbl. I S. 563), 2.die Ausführungsbestimmung zum Gesetz über die Befähigung zum höheren bautechnischen Verwaltungsdienst vom 16. Juli 1936 (Reichsgesetzblatt I S. 565).
+Es werden aufgehoben, soweit sie Bundesrecht geworden sind:
+
+1. das Gesetz über die Befähigung zum höheren bautechnischen Verwaltungsdienst vom 16. Juli 1936 (Reichsgesetzbl. I S. 563),
+
+2. die Ausführungsbestimmung zum Gesetz über die Befähigung zum höheren bautechnischen Verwaltungsdienst vom 16. Juli 1936 (Reichsgesetzblatt I S. 565).

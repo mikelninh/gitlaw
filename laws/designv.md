@@ -24,29 +24,29 @@ Formblätter, auf die in dieser Verordnung verwiesen wird, können beim Deutsche
 
 (1) Die Anmeldung zur Eintragung eines Designs in das Designregister muss nach § 11 Absatz 2 und 3 des Designgesetzes enthalten:
 
-1.
+1. den Antrag auf Eintragung (§ 5),
 
-2.
+2. Angaben, die erlauben, die Identität des Anmelders festzustellen (§ 6 Absatz 1 bis 3),
 
-3.
+3. die Wiedergabe des Designs (§ 7) oder im Fall des § 11 Absatz 2 Satz 2 des Designgesetzes den flächenmäßigen Designabschnitt (§ 8) und
 
-4.
+4. die Angabe der Erzeugnisse, in die das Design aufgenommen oder bei denen es verwendet werden soll (§ 9).
 
 (2) Die Anmeldung kann ferner enthalten:
 
-1.
+1. eine Beschreibung zur Erläuterung der Wiedergabe (§ 10),
 
-2.
+2. einen Antrag auf Aufschiebung der Bekanntmachung der Wiedergabe nach § 21 Absatz 1 Satz 1 des Designgesetzes,
 
-3.
+3. die Angabe der Warenklasse, in die das Design einzuordnen ist (§ 9),
 
-4.
+4. die Angabe eines Vertreters (§ 6 Absatz 4),
 
-5.
+5. die Angabe des Entwerfers (§ 6 Absatz 5),
 
-6.
+6. eine Erklärung, dass die Priorität einer früheren ausländischen Anmeldung desselben Designs oder eine Ausstellungspriorität in Anspruch genommen wird (§ 11), und
 
-7.
+7. die unverbindliche Erklärung des Anmelders, ob ein Interesse an der Vergabe von Lizenzen besteht.
 
 ### § 4 — Einreichung der Anmeldung
 
@@ -60,31 +60,21 @@ Formblätter, auf die in dieser Verordnung verwiesen wird, können beim Deutsche
 
 (1) Für den schriftlichen Antrag auf Eintragung eines Designs gemäß § 11 Absatz 2 Satz 1 Nummer 1 des Designgesetzes muss das vom Deutschen Patent- und Markenamt herausgegebene Formblatt verwendet werden.
 
-(2) Der Antrag auf Eintragung von Designs in einer Sammelanmeldung (§ 12 des Designgesetzes) muss zusätzlich zu dem in § 11 Absatz 2 und 3 des Designgesetzes vorgeschriebenen Inhalt enthalten: Als Anlageblatt muss das vom Deutschen Patent- und Markenamt herausgegebene Formblatt verwendet werden.
+(2) Der Antrag auf Eintragung von Designs in einer Sammelanmeldung (§ 12 des Designgesetzes) muss zusätzlich zu dem in § 11 Absatz 2 und 3 des Designgesetzes vorgeschriebenen Inhalt enthalten:
 
-1.
+1. eine Erklärung, für wie viele Designs die Eintragung in das Designregister beantragt wird, und
 
-2.
-
-a)
-
-b)
-
-c)
+2. ein Anlageblatt mit folgenden Angaben: a)eine in arabischen Ziffern fortlaufend nummerierte Liste der in der Anmeldung zusammengefassten Designs,b)die Zahl der zu den einzelnen Designs eingereichten Darstellungen undc)die Erklärung, dass die Erzeugnisangabe für alle Designs gilt, oder bei jedem Design die Angabe der Erzeugnisse, in die es aufgenommen oder bei denen es verwendet werden soll. eine in arabischen Ziffern fortlaufend nummerierte Liste der in der Anmeldung zusammengefassten Designs, die Zahl der zu den einzelnen Designs eingereichten Darstellungen und die Erklärung, dass die Erzeugnisangabe für alle Designs gilt, oder bei jedem Design die Angabe der Erzeugnisse, in die es aufgenommen oder bei denen es verwendet werden soll.
 
 (3) Wird mit der Anmeldung beantragt, die Bekanntmachung der Wiedergabe aufzuschieben (§ 21 Absatz 1 Satz 1 des Designgesetzes), so bezieht sich dieser Antrag auf alle in der Sammelanmeldung zusammengefassten Designs.
 
 ### § 6 — Angaben zum Anmelder, Vertreter und Entwerfer
 
-(1) Die Anmeldung muss folgende Angaben zum Anmelder enthalten: Wenn der Anmelder seinen Wohnsitz oder Sitz im Ausland hat, so ist bei der Angabe der Anschrift nach Satz 1 außer dem Ort auch der Staat anzugeben. Weitere Angaben zum Bezirk, zur Provinz oder zum Bundesstaat, in dem der Anmelder seinen Wohnsitz oder Sitz hat oder dessen Rechtsordnung er unterliegt, sind freiwillig.
+(1) Die Anmeldung muss folgende Angaben zum Anmelder enthalten:
 
-1.
+1. wenn der Anmelder eine natürliche Person ist: Vornamen und Namen oder, falls die Eintragung unter der Firma des Anmelders erfolgen soll, die Firma, wie sie im Handelsregister eingetragen ist, sowie die Anschrift des Wohn- oder Firmensitzes mit Angabe von Straße, Hausnummer, Postleitzahl und Ort,
 
-2.
-
-a)
-
-b)
+2. wenn der Anmelder eine juristische Person oder eine Personengesellschaft ist: a)Name oder Firma, Rechtsform sowie Anschrift mit Angabe von Straße, Hausnummer, Postleitzahl und Ort des Sitzes; die Bezeichnung der Rechtsform kann auf übliche Weise abgekürzt werden; wenn die juristische Person oder Personengesellschaft in einem Register eingetragen ist, müssen die Angaben dem Registereintrag entsprechen;b)bei einer Gesellschaft bürgerlichen Rechts, die nicht im Gesellschaftsregister eingetragen ist, zusätzlich Name und Anschrift mit Angabe von Straße, Hausnummer, Postleitzahl und Ort mindestens eines vertretungsberechtigten Gesellschafters. Name oder Firma, Rechtsform sowie Anschrift mit Angabe von Straße, Hausnummer, Postleitzahl und Ort des Sitzes; die Bezeichnung der Rechtsform kann auf übliche Weise abgekürzt werden; wenn die juristische Person oder Personengesellschaft in einem Register eingetragen ist, müssen die Angaben dem Registereintrag entsprechen; bei einer Gesellschaft bürgerlichen Rechts, die nicht im Gesellschaftsregister eingetragen ist, zusätzlich Name und Anschrift mit Angabe von Straße, Hausnummer, Postleitzahl und Ort mindestens eines vertretungsberechtigten Gesellschafters.
 
 (2) In der Anmeldung können zusätzlich eine von der Anschrift des Anmelders abweichende Postanschrift, eine Postfachanschrift sowie Telefonnummern, Telefaxnummern und E-Mail-Adressen angegeben werden.
 
@@ -114,7 +104,7 @@ b)
 
 (1) Flächenmäßige Designabschnitte (§ 11 Absatz 2 Satz 2 des Designgesetzes) sind in zwei übereinstimmenden Exemplaren einzureichen.
 
-(2) Werden mehrere Designabschnitte eingereicht, sind diese auf der Rückseite fortlaufend zu nummerieren. Ein Designabschnitt soll das Format von 21 x 29,7 Zentimeter (DIN A4) nicht überschreiten. Ein größerer Designabschnitt darf ein Format von 50 × 100 × 2,5 Zentimeter oder 75 × 100 × 1,5 Zentimeter nicht überschreiten und muss so beschaffen sein, dass er auf das Format 21 x 29,7 Zentimeter (DIN A4) zusammenlegbar ist. Die mit einer Anmeldung eingereichten flächenmäßigen Designabschnitte dürfen einschließlich Verpackung insgesamt nicht schwerer als 15 Kilogramm sein. Es dürfen keine Designabschnitte eingereicht werden, die verderblich sind oder deren Aufbewahrung gefährlich ist, insbesondere, weil sie leicht entflammbar, explosiv, giftig oder mit Schädlingen behaftet sind.
+(2) Werden mehrere Designabschnitte eingereicht, sind diese auf der Rückseite fortlaufend zu nummerieren. Ein Designabschnitt soll das Format von 21 x 29,7 Zentimeter (DIN A4) nicht überschreiten. Ein größerer Designabschnitt darf ein Format von 50 × 100 × 2,5 Zentimeter oder 75 × 100 × 1,5 Zentimeter nicht überschreiten und muss so beschaffen sein, dass er auf das Format 21 x 29,7 Zentimeter (DIN A4) zusammenlegbar ist. Die mit einer Anmeldung eingereichten flächenmäßigen Designabschnitte dürfen einschließlich Verpackung insgesamt nicht schwerer als 15 Kilogramm sein. Es dürfen keine Designabschnitte eingereicht werden, die verderblich sind oder deren Aufbewahrung gefährlich ist, insbesondere, weil sie leicht entflammbar, explosiv, giftig oder mit Schädlingen behaftet sind.
 
 (3) Wird die Eintragung eines Designs beantragt, das aus einem sich wiederholenden Flächendesign besteht, muss der Designabschnitt zusätzlich zu den Anforderungen nach den Absätzen 1 und 2 das vollständige Design und einen der Länge und Breite nach ausreichenden Teil der Fläche mit dem sich wiederholenden Design zeigen.
 
@@ -138,13 +128,13 @@ b)
 
 (1) Wird in der Anmeldung die Inanspruchnahme der Priorität einer früheren ausländischen Anmeldung erklärt, so sind Zeit, Land und Aktenzeichen dieser Anmeldung anzugeben und eine Abschrift dieser Anmeldung einzureichen (§ 14 Absatz 1 Satz 1 des Designgesetzes).
 
-(2) Wird die Inanspruchnahme einer Ausstellungspriorität erklärt, so sind der Tag der erstmaligen Zurschaustellung sowie die Bezeichnung der Ausstellung anzugeben. Zum Nachweis der Zurschaustellung (§ 15 Absatz 4 Satz 1 des Designgesetzes) ist eine Bescheinigung einzureichen, die während der Ausstellung von der für den Schutz des geistigen Eigentums auf dieser Ausstellung zuständigen Stelle erteilt worden ist. In der Bescheinigung muss bestätigt werden, Für die Bescheinigung soll das vom Deutschen Patent- und Markenamt herausgegebene Formblatt benutzt werden. Die Bescheinigung muss eine von der genannten Stelle beglaubigte Darstellung der tatsächlichen Offenbarung des Designs enthalten.
+(2) Wird die Inanspruchnahme einer Ausstellungspriorität erklärt, so sind der Tag der erstmaligen Zurschaustellung sowie die Bezeichnung der Ausstellung anzugeben. Zum Nachweis der Zurschaustellung (§ 15 Absatz 4 Satz 1 des Designgesetzes) ist eine Bescheinigung einzureichen, die während der Ausstellung von der für den Schutz des geistigen Eigentums auf dieser Ausstellung zuständigen Stelle erteilt worden ist. In der Bescheinigung muss bestätigt werden,
 
-1.
+1. dass das Design auf der Ausstellung offenbart wurde,
 
-2.
+2. der Tag der Eröffnung der Ausstellung und
 
-3.
+3. der Tag, an dem das Design erstmals offenbart wurde, wenn die erstmalige Offenbarung nicht mit dem Eröffnungstag der Ausstellung zusammenfällt.
 
 (3) Die Möglichkeit, die Angaben nach § 14 Absatz 1 Satz 2 des Designgesetzes zu ändern oder die Prioritätserklärung innerhalb von 16 Monaten nach dem Prioritätstag oder dem Tag der erstmaligen Zurschaustellung abzugeben (§ 14 Absatz 1 Satz 1 und § 15 Absatz 4 Satz 1 des Designgesetzes), bleibt unberührt.
 
@@ -154,9 +144,9 @@ b)
 
 (2) In der Teilungserklärung sind anzugeben:
 
-1.
+1. das Aktenzeichen der Sammelanmeldung und
 
-2.
+2. die Nummern der Designs, die abgeteilt werden sollen.
 
 (3) Die Teilung wird vorgenommen, sobald der nach § 12 Absatz 2 Satz 3 des Designgesetzes zu entrichtende Differenzbetrag gezahlt wurde.
 
@@ -166,11 +156,11 @@ b)
 
 Ein Antrag auf Weiterbehandlung der infolge Fristversäumnisses zurückgewiesenen Anmeldung (§ 17 Absatz 1 des Designgesetzes) muss folgende Angaben enthalten:
 
-1.
+1. das Aktenzeichen der Anmeldung,
 
-2.
+2. den Namen des Anmelders und
 
-3.
+3. das Datum des Beschlusses, auf den sich der Antrag bezieht.
 
 ### § 14 — Deutsche Übersetzungen
 
@@ -184,51 +174,51 @@ Ein Antrag auf Weiterbehandlung der infolge Fristversäumnisses zurückgewiesene
 
 (1) Bei der Eintragung der Anmeldung wird Folgendes in das Designregister aufgenommen:
 
-1.
+1. das Aktenzeichen der Anmeldung,
 
-2.
+2. die Wiedergabe des eingetragenen Designs,
 
-3.
+3. die jeweilige Designnummer, bei Sammelanmeldungen entsprechend der fortlaufend nummerierten Liste nach § 5 Absatz 2 Satz 1 Nummer 2 Buchstabe a,
 
-4.
+4. der Name, gegebenenfalls die Firma einschließlich der Rechtsform, und der Wohnsitz oder Sitz des Anmelders, bei ausländischen Orten auch der Staat (§ 6 Absatz 1 und 3),
 
-5.
+5. die Anschrift des Anmelders unter Angabe des Empfangsberechtigten,
 
-6.
+6. der Anmeldetag (§ 13 Absatz 1 und § 16 Absatz 3 Satz 2 des Designgesetzes),
 
-7.
+7. der Tag der Eintragung,
 
-8.
+8. die Erzeugnisangabe (§ 9) und
 
-9.
+9. die Warenklassen (§ 19 Absatz 2 des Designgesetzes), bestehend aus der Angabe der Klassen und Unterklassen.
 
 (2) Gegebenenfalls werden folgende Angaben zusätzlich zu der Anmeldung in das Designregister aufgenommen:
 
-1.
+1. dass eine unverbindliche Erklärung des Anmelders über das Interesse an der Vergabe von Lizenzen abgegeben wurde (§ 3 Absatz 2 Nummer 7),
 
-2.
+2. der Name und der Wohnsitz aller benannten vertretungsberechtigten Gesellschafter einer nicht im Gesellschaftsregister eingetragenen Gesellschaft bürgerlichen Rechts (§ 6 Absatz 1 Satz 1 Nummer 2 Buchstabe b),
 
-3.
+3. der Name und die Anschrift des Vertreters (§ 6 Absatz 4),
 
-4.
+4. der Name und die Anschrift des Entwerfers (§ 6 Absatz 5),
 
-5.
+5. die Beschreibung zur Erläuterung der Wiedergabe des Designs (§ 10),
 
-6.
+6. ein Hinweis auf die Ersetzung der Wiedergabe durch einen flächenmäßigen Designabschnitt (§ 11 Absatz 2 Satz 2 des Designgesetzes),
 
-7.
+7. ein Hinweis, ob die Eintragung die Anmeldung eines einzelnen Designs oder eine Sammelanmeldung (§ 12 des Designgesetzes) betrifft, sowie bei einer Sammelanmeldung die Zahl der in der Anmeldung zusammengefassten Designs (§ 5 Absatz 2 Satz 1 Nummer 1),
 
-8.
+8. Zeit, Land und Aktenzeichen der früheren Anmeldung desselben Designs bei Inanspruchnahme einer ausländischen Priorität nach § 14 des Designgesetzes,
 
-9.
+9. der Tag der erstmaligen Zurschaustellung und die Bezeichnung der Ausstellung bei Inanspruchnahme einer Ausstellungspriorität nach § 15 des Designgesetzes,
 
-10.
+10. dass ein Antrag auf Aufschiebung der Bekanntmachung der Wiedergabe gestellt wurde (§ 21 Absatz 1 Satz 1 des Designgesetzes),
 
-11.
+11. dass dingliche Rechte an dem angemeldeten oder eingetragenen Design bestehen (§ 30 Absatz 1 Nummer 1 und § 32 des Designgesetzes),
 
-12.
+12. dass das angemeldete oder eingetragene Design Gegenstand einer Maßnahme der Zwangsvollstreckung geworden ist (§ 30 Absatz 1 Nummer 2 und § 32 des Designgesetzes) und
 
-13.
+13. dass das Recht am angemeldeten oder eingetragenen Design von einem Insolvenzverfahren erfasst worden ist (§ 30 Absatz 3 und § 32 des Designgesetzes).
 
 (3) Im Fall von Rechtsübergängen vor der Eintragung des bereits angemeldeten Designs wird nur derjenige in das Designregister eingetragen, der zum Zeitpunkt der Eintragung der Inhaber des durch die Anmeldung begründeten Rechts ist.
 
@@ -238,23 +228,23 @@ Ein Antrag auf Weiterbehandlung der infolge Fristversäumnisses zurückgewiesene
 
 Neben den Eintragungen nach § 15 sind gegebenenfalls folgende Angaben in das Designregister aufzunehmen:
 
-1.
+1. dass der Schutz auf die Schutzdauer nach § 27 Absatz 2 des Designgesetzes erstreckt wurde (§ 21 Absatz 2 Satz 1 des Designgesetzes),
 
-2.
+2. bei nachgeholter Bekanntmachung der Wiedergabe (§ 21 Absatz 3 des Designgesetzes) der Tag der Bekanntmachung sowie der Hinweis auf die Bekanntmachung nach § 21 Absatz 1 Satz 2 des Designgesetzes,
 
-3.
+3. Änderungen der in § 15 Absatz 1 Nummer 4 und 5 sowie Absatz 2 Nummer 3 und 4 aufgeführten Angaben,
 
-4.
+4. dass ein Antrag auf Wiedereinsetzung in den vorigen Stand gestellt wurde (§ 23 Absatz 3 Satz 3 des Designgesetzes) sowie das Ergebnis dieses Verfahrens,
 
-5.
+5. dass eine Sammeleintragung geteilt wurde (§ 18),
 
-6.
+6. dass ein gerichtliches Verfahren gemäß § 9 Absatz 1 des Designgesetzes eingeleitet wurde sowie die weiteren Angaben nach § 9 Absatz 4 des Designgesetzes,
 
-7.
+7. dass ein Antrag auf Feststellung oder Erklärung der Nichtigkeit gestellt wurde (§ 34a Absatz 1 des Designgesetzes) sowie das Ergebnis des Nichtigkeitsverfahrens,
 
-8.
+8. der Tag der Erhebung der Widerklage auf Feststellung oder Erklärung der Nichtigkeit sowie das Ergebnis des Verfahrens (§ 52b Absatz 4 des Designgesetzes) und
 
-9.
+9. der Tag und der Grund der Löschung des eingetragenen Designs (§ 36 Absatz 1 des Designgesetzes).
 
 ### § 17 — Eintragungsurkunde
 
@@ -270,27 +260,27 @@ Der Inhaber des eingetragenen Designs erhält vom Deutschen Patent- und Markenam
 
 (1) Bei der Zahlung der Gebühr zur Erstreckung des Schutzes auf die Schutzdauer nach § 27 Absatz 2 des Designgesetzes (§ 21 Absatz 2 Satz 1 des Designgesetzes) sind anzugeben:
 
-1.
+1. das Aktenzeichen der Eintragung,
 
-2.
+2. der Verwendungszweck der Zahlung und
 
-3.
+3. der Name des Rechtsinhabers nach § 6 Absatz 1.
 
 (2) Soll die Erstreckung des Schutzes nur für einzelne eingetragene Designs innerhalb einer Sammeleintragung bewirkt werden, so ist ein Antrag einzureichen, der folgende Angaben enthält:
 
-1.
+1. das Aktenzeichen der Eintragung,
 
-2.
+2. der Name des Rechtsinhabers nach § 6 Absatz 1 sowie
 
-3.
+3. die Nummern der eingetragenen Designs, deren Schutz erstreckt werden soll.
 
 (3) Beantragt der Rechtsinhaber die Nachholung der Bekanntmachung der Wiedergabe (§ 21 Absatz 3 des Designgesetzes) vor Ablauf der Frist nach § 21 Absatz 1 Satz 1 des Designgesetzes, sind in dem Antrag anzugeben:
 
-1.
+1. das Aktenzeichen der Eintragung,
 
-2.
+2. der Name des Rechtsinhabers nach § 6 Absatz 1 und
 
-3.
+3. der Zeitpunkt, zu dem die Bekanntmachung erfolgen soll.
 
 (4) Bei der Zahlung der Aufrechterhaltungsgebühr sind die Absätze 1 und 2 entsprechend anzuwenden.
 
@@ -298,9 +288,9 @@ Der Inhaber des eingetragenen Designs erhält vom Deutschen Patent- und Markenam
 
 (1) In der Erklärung über den Verzicht auf das eingetragene Design nach § 36 Absatz 1 Satz 1 Nummer 2 und Absatz 2 des Designgesetzes sind anzugeben:
 
-1.
+1. die Nummer des eingetragenen Designs, auf das verzichtet wird, sowie
 
-2.
+2. der Name und die Anschrift des Rechtsinhabers nach § 6 Absatz 1.
 
 (2) Wird auf ein eingetragenes Design teilweise verzichtet, so ist mit der Erklärung eine Wiedergabe des geänderten Designs nach § 7, im Fall des § 11 Absatz 2 Satz 2 des Designgesetzes des geänderten flächenmäßigen Designabschnitts nach § 8, einzureichen. Die Teilverzichtserklärung soll nicht mehr als 100 Wörter umfassen. Sie wird im Designregister eingetragen und mit der Wiedergabe des geänderten Designs bekannt gemacht. Bei Sammeleintragungen ist für jedes eingetragene Design, auf das teilweise verzichtet wird, eine gesonderte Teilverzichtserklärung abzugeben.
 
@@ -314,15 +304,15 @@ Der Inhaber des eingetragenen Designs erhält vom Deutschen Patent- und Markenam
 
 (2) In dem Antrag sind anzugeben:
 
-1.
+1. die Nummer des eingetragenen Designs,
 
-2.
+2. der Name und die Anschrift des Antragstellers,
 
-3.
+3. der Nichtigkeitsgrund nach § 33 Absatz 1 oder Absatz 2 des Designgesetzes,
 
-4.
+4. die zur Begründung dienenden Tatsachen und Beweismittel,
 
-5.
+5. bei einem Antrag auf Teilnichtigkeit (§ 35 Absatz 1 des Designgesetzes) der Umfang des Nichtigkeitsbegehrens.
 
 (3) Ein Antrag kann auf mehrere in § 33 Absatz 1 oder Absatz 2 des Designgesetzes genannte Nichtigkeitsgründe gestützt werden. Im Antrag können Angaben zum Gegenstandswert gemacht werden, wenn dieser nach § 34a Absatz 6 des Designgesetzes festgesetzt werden soll.
 

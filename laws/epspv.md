@@ -21,15 +21,15 @@ Zur Prüfung ist zuzulassen, wer die Anerkennungsvoraussetzungen nach § 4 der E
 
 (1) Das Eisenbahn-Bundesamt beruft die Mitglieder der Prüfungskommission für die Abnahme der Prüfungen. Die Mitglieder der Prüfungskommission werden jeweils für ein oder mehrere Fachgebiete berufen. Sie müssen im jeweiligen Prüfungsgebiet sachkundig und für die Mitwirkung im Prüfungswesen geeignet sein.
 
-(2) Die Prüfungskommission besteht aus Ein nicht stimmberechtigter Schriftführer unterstützt den Leiter der Prüfungskommission bei der ordnungsgemäßen Durchführung der Prüfung. Hat ein Prüfling in einem oder mehreren Fächern oder Fachgebieten die notwendigen Kenntnisse nachgewiesen, kann das Eisenbahn-Bundesamt von einer Berufung der Fachprüfer für diese Fächer oder Fachgebiete absehen.
+(2) Die Prüfungskommission besteht aus
 
-1.
+1. dem Leiter der Prüfungskommission,
 
-2.
+2. mindestens einem Fachprüfer für das Fach Eisenbahn- und Verwaltungsrecht,
 
-3.
+3. mindestens einem Fachprüfer für das Fach Grundlagen des Eisenbahnbetriebs und der Eisenbahntechnik und
 
-4.
+4. mindestens einem Fachprüfer für jedes der Fachgebiete, für das die Anerkennung als Prüfsachverständiger beantragt wird.
 
 ### § 4 — Ausschluss
 
@@ -53,13 +53,13 @@ Die Mitglieder der Prüfungskommission sind in ihrer Entscheidung unabhängig un
 
 ### § 8 — Prüfung
 
-(1) Die Prüfung besteht aus mündlichen Teilprüfungen der Fächer Prüflinge, die eine Anerkennung für Tätigkeiten nach § 2 Absatz 2 Nummer 5 oder 6 der Eisenbahn-Prüfsachverständigenverordnung beantragt haben, werden zusätzlich in dem Fach Analytische Nachweise der Sicherheit geprüft.
+(1) Die Prüfung besteht aus mündlichen Teilprüfungen der Fächer
 
-1.
+1. Eisenbahn- und Verwaltungsrecht,
 
-2.
+2. Grundlagen des Eisenbahnbetriebs und der Eisenbahntechnik und
 
-3.
+3. Technik der Fach- und Teilgebiete entsprechend den Fachgebieten nach § 2 Absatz 1 der Eisenbahn-Prüfsachverständigenverordnung, für die die Anerkennung als Prüfsachverständiger beantragt wird.
 
 (2) Die Prüfung wird durch die Prüfungskommission abgenommen.
 
@@ -117,9 +117,9 @@ Hat der Prüfling die Prüfung nicht bestanden, so erteilt das Eisenbahn-Bundesa
 
 (3) In der ersten Wiederholungsprüfung ist der Prüfling auf Antrag von einzelnen Teilprüfungen zu befreien, wenn er
 
-1.
+1. in diesen Teilprüfungen in der nicht bestandenen Prüfung jeweils eine mindestens ausreichende Leistung erbracht hat und
 
-2.
+2. innerhalb eines Jahres nach Beendigung der nicht bestandenen Prüfung die Wiederholungsprüfung beantragt hat.
 
 (4) Die zweite Wiederholungsprüfung erstreckt sich auf alle Teilprüfungen nach § 8 Absatz 1 entsprechend den Fachgebieten und Tätigkeiten nach § 2 der Eisenbahn-Prüfsachverständigenverordnung, für die die Anerkennung beantragt wird. Eine Anrechnung von früheren Prüfungsleistungen ist ausgeschlossen.
 

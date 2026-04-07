@@ -11,8 +11,6 @@ Die Bundesregierung verordnet aufgrund des § 11 des Mindestlohngesetzes vom 11.
 
 ### § 1 — Höhe des Mindestlohns
 
-Der Mindestlohn beträgt 1.ab 1. Januar 202613,90 Euro brutto je Zeitstunde,2.ab 1. Januar 202714,60 Euro brutto je Zeitstunde.
-
 ### § 2 — Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2026 in Kraft.

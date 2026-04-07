@@ -83,15 +83,15 @@ Für die Erteilung der Genehmigung nach den §§ 10, 11 und 12 (Artikel 19 des �
 
 Rechtshilfeersuchen, die ein Verfahren nach Artikel 23 des Übereinkommens zum Gegenstand haben, werden nur erledigt, wenn
 
-1.
+1. die vorzulegenden Dokumente im Einzelnen genau bezeichnet sind,
 
-2.
+2. die vorzulegenden Dokumente für das jeweilige Verfahren und dessen Ausgang von unmittelbarer und eindeutig zu erkennender Bedeutung sind,
 
-3.
+3. die vorzulegenden Dokumente sich im Besitz einer an dem Verfahren beteiligten Partei befinden,
 
-4.
+4. das Herausgabeverlangen nicht gegen wesentliche Grundsätze des deutschen Rechts verstößt und,
 
-5.
+5. soweit personenbezogene Daten in den vorzulegenden Dokumenten enthalten sind, die Voraussetzungen für die Übermittlung in ein Drittland nach Kapitel V der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35) erfüllt sind.
 
 ## Dritter Teil: Sonstige Bestimmungen
 

@@ -15,25 +15,9 @@ Auf Grund des durch das Gesetz vom 24. August 1976 (BGBl. I S. 2441) eingefügte
 
 (1) Ausbildungsverkehr im Sinne des § 6a Abs. 1 des Allgemeinen Eisenbahngesetzes ist die Beförderung
 
-1.
+1. von schulpflichtigen Personen bis zur Vollendung des 15. Lebensjahres;
 
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
+2. nach Vollendung des 15. Lebensjahresa)von Schülern und Studenten öffentlicher, staatlich genehmigter oder staatlich anerkannter privater- allgemeinbildender Schulen,- berufsbildender Schulen,- Einrichtungen des zweiten Bildungsweges,- Hochschulen, Akademienmit Ausnahme der Verwaltungsakademien, Volkshochschulen, Landvolkhochschulen; b)von Personen, die private Schulen oder sonstige Bildungseinrichtungen, die nicht unter Buchstabe a fallen, besuchen, sofern sie auf Grund des Besuchs dieser Schulen oder Bildungseinrichtungen von der Berufsschulpflicht befreit sind oder sofern der Besuch dieser Schulen und sonstigen privaten Bildungseinrichtungen nach dem Bundesausbildungsförderungsgesetz förderungsfähig ist; c)von Personen, die an einer Volkshochschule oder einer anderen Einrichtung der Weiterbildung Kurse zum nachträglichen Erwerb des Hauptschul- oder Realschulabschlusses besuchen; d)von Personen, die in einem Berufsausbildungsverhältnis im Sinne des Berufsbildungsgesetzes oder in einem anderen Vertragsverhältnis im Sinne des § 26 des Berufsbildungsgesetzes stehen, sowie Personen, die in einer Einrichtung außerhalb der betrieblichen Berufsausbildung im Sinne des § 43 Abs. 2 des Berufsbildungsgesetzes, § 36 Abs. 2 der Handwerksordnung, ausgebildet werden; e)von Personen, die einen staatlich anerkannten Berufsvorbereitungslehrgang besuchen; f)von Praktikanten und Volontären, sofern die Ableistung eines Praktikums oder Volontariats vor, während oder im Anschluß an eine staatlich geregelte Ausbildung oder ein Studium an einer Hochschule nach den für Ausbildung und Studium geltenden Bestimmungen vorgesehen ist; g)von Beamtenanwärtern des einfachen und mittleren Dienstes sowie Praktikanten und Personen, die durch Besuch eines Verwaltungslehrgangs die Qualifikation für die Zulassung als Beamtenanwärter des einfachen oder mittleren Dienstes erst erwerben müssen, sofern sie keinen Fahrtkostenersatz von der Verwaltung erhalten; h)von Teilnehmern an einem freiwilligen sozialen Jahr oder an einem freiwilligen ökologischen Jahr oder vergleichbaren sozialen Diensten. von Schülern und Studenten öffentlicher, staatlich genehmigter oder staatlich anerkannter privater - allgemeinbildender Schulen, - berufsbildender Schulen, - Einrichtungen des zweiten Bildungsweges, - Hochschulen, Akademien mit Ausnahme der Verwaltungsakademien, Volkshochschulen, Landvolkhochschulen; von Personen, die private Schulen oder sonstige Bildungseinrichtungen, die nicht unter Buchstabe a fallen, besuchen, sofern sie auf Grund des Besuchs dieser Schulen oder Bildungseinrichtungen von der Berufsschulpflicht befreit sind oder sofern der Besuch dieser Schulen und sonstigen privaten Bildungseinrichtungen nach dem Bundesausbildungsförderungsgesetz förderungsfähig ist; von Personen, die an einer Volkshochschule oder einer anderen Einrichtung der Weiterbildung Kurse zum nachträglichen Erwerb des Hauptschul- oder Realschulabschlusses besuchen; von Personen, die in einem Berufsausbildungsverhältnis im Sinne des Berufsbildungsgesetzes oder in einem anderen Vertragsverhältnis im Sinne des § 26 des Berufsbildungsgesetzes stehen, sowie Personen, die in einer Einrichtung außerhalb der betrieblichen Berufsausbildung im Sinne des § 43 Abs. 2 des Berufsbildungsgesetzes, § 36 Abs. 2 der Handwerksordnung, ausgebildet werden; von Personen, die einen staatlich anerkannten Berufsvorbereitungslehrgang besuchen; von Praktikanten und Volontären, sofern die Ableistung eines Praktikums oder Volontariats vor, während oder im Anschluß an eine staatlich geregelte Ausbildung oder ein Studium an einer Hochschule nach den für Ausbildung und Studium geltenden Bestimmungen vorgesehen ist; von Beamtenanwärtern des einfachen und mittleren Dienstes sowie Praktikanten und Personen, die durch Besuch eines Verwaltungslehrgangs die Qualifikation für die Zulassung als Beamtenanwärter des einfachen oder mittleren Dienstes erst erwerben müssen, sofern sie keinen Fahrtkostenersatz von der Verwaltung erhalten; von Teilnehmern an einem freiwilligen sozialen Jahr oder an einem freiwilligen ökologischen Jahr oder vergleichbaren sozialen Diensten.
 
 (2) Die Berechtigung zum Erwerb von Zeitfahrausweisen des Ausbildungsverkehrs hat sich die Eisenbahn vom Auszubildenden nachweisen zu lassen. In den Fällen des Absatzes 1 Nr. 2 Buchstaben a bis g geschieht dies durch Vorlage einer Bescheinigung der Ausbildungsstätte oder des Ausbildenden, in den Fällen des Absatzes 1 Nr. 2 Buchstabe h durch Vorlage einer Bescheinigung des Trägers der jeweiligen sozialen Dienste. In der Bescheinigung ist zu bestätigen, daß die Voraussetzung des Absatzes 1 Nr. 2 gegeben ist. Die Bescheinigung gilt längstens ein Jahr.
 
@@ -52,13 +36,13 @@ Berechnung des Ausgleichs
 
 (4) Als Durchschnittswert für die mittlere Reiseweite sind acht Kilometer zugrunde zu legen.
 
-(5) Wird nachgewiesen, daß von den Durchschnittswerten für die Ausnutzung der Zeitfahrausweise nach Absatz 2 Satz 2 oder die Erhöhung der Beförderungsfälle um 10 vom Hundert nach Absatz 3 oder die mittlere Reiseweite im Ausbildungsverkehr nach Absatz 4 jeweils um mehr als 25 vom Hundert abgewichen wird, sind der Berechnung des Ausgleichsbetrags die nachgewiesenen Werte zugrunde zu legen. Die Abweichungen von dem Durchschnittswert für die Ausnutzung der Zeitfahrausweise und von der Erhöhung der Beförderungsfälle sind durch Verkehrszählung oder in anderer geeigneter Weise nachzuweisen. Die Abweichung von dem Durchschnittswert für die mittlere Reiseweite ist nachzuweisen
+(5) Wird nachgewiesen, daß von den Durchschnittswerten für
 
-1.
+1. auf Grund der verkauften Streckenfahrausweise nach den erfaßten tatsächlichen Entfernungen oder nach den mittleren Werten der Entfernungsstufen der genehmigten Tarife oder
 
-2.
+2. durch Verkehrszählung oder
 
-3.
+3. in sonstiger geeigneter Weise.
 
 (6) (weggefallen)
 
@@ -106,88 +90,46 @@ Diese Verordnung tritt mit Wirkung vom 1. Januar 1977 in Kraft.
 
 ### Schlußformel
 
-Der Bundesminister für Verkehr
-
 ### Anlage — (zu § 2)
 
-Als Kostenbestandteile im Sinne von § 2 AEAusglV sind folgende Positionen in Ansatz zu bringen: Kostenermittlungsbogen--------------------------------------------------------- Summe 1 - 9
+1. Energie, Treib- und Heizstoffkosten sind nach LSP Nr. 15 einzusetzen.
 
-1.
+2a. Sonstiges Material (einschließlich der nicht aktivierten geringwertigen Wirtschaftsgüter) Dazu gehören Werkzeuge und Arbeitsgerät, Streusand und Salz, Dienstausrüstung und Schutzkleidung, Fahrausweise, Bürobedarf, Dienstkleidung und sonstige Bau-, Betriebs- und Hilfsstoffe.
 
-2a.
+2b. Fremdleistungen (soweit nicht aktivierungspflichtig) Dazu zählen Unternehmerleistungen, Dienstleistungen und sonstige Fremdleistungen. Zum Konteninhalt der Kostenart Fremdleistungen gehören:UnternehmerleistungenLeistungen von Bau- und industriellen Unternehmen, Handwerkern und dgl.DienstleistungenHonorar für Bilanzprüfungen, Steuerberatung, freiberufliche Mitarbeit, technische, wirtschaftliche und medizinische Gutachten, Zeichnungen u. dgl.Sonstige FremdleistungenFahrkarten-Verkaufsprovisionen, Depotgebühren, Postfachgebühren, Auskunftsgebühren, Anmietung von Omnibussen, Frachten und Fuhrlöhne für Güter, die nicht aktiviert werden. Unternehmerleistungen Leistungen von Bau- und industriellen Unternehmen, Handwerkern und dgl. Dienstleistungen Honorar für Bilanzprüfungen, Steuerberatung, freiberufliche Mitarbeit, technische, wirtschaftliche und medizinische Gutachten, Zeichnungen u. dgl. Sonstige Fremdleistungen Fahrkarten-Verkaufsprovisionen, Depotgebühren, Postfachgebühren, Auskunftsgebühren, Anmietung von Omnibussen, Frachten und Fuhrlöhne für Güter, die nicht aktiviert werden.
 
-2b.
+2c. Haftpflicht- und FahrzeugversicherungEs sind die für die Rechnungsperiode fälligen Prämien für Haftpflicht- und sonstige Fahrzeugversicherungen sowie die Umlage derartiger Risikogemeinschaften einzutragen.Bei der Fahrzeughaftpflichtversicherung ist anzugeben, ob die Versicherungen als Vollkasko-, Teilkasko- oder als gesetzliche Mindestversicherung abgeschlossen sind (ggf. Angaben der Höhe der Selbstkostenbeteiligung). Es sind die für die Rechnungsperiode fälligen Prämien für Haftpflicht- und sonstige Fahrzeugversicherungen sowie die Umlage derartiger Risikogemeinschaften einzutragen. Bei der Fahrzeughaftpflichtversicherung ist anzugeben, ob die Versicherungen als Vollkasko-, Teilkasko- oder als gesetzliche Mindestversicherung abgeschlossen sind (ggf. Angaben der Höhe der Selbstkostenbeteiligung).
 
-2c.
+2d. Sonstige Versicherungen Hierher gehören die Prämien für Sachversicherungen, Unfallversicherungen und alle nicht unter 2c aufgeführten Haftpflichtversicherungen.
 
-2d.
+3a. Löhne und
 
-3a.
+3b. Gehälter Löhne und Gehälter sind nach Art und Umfang nur insoweit zu berücksichtigen, als sie den Grundsätzen wirtschaftlicher Betriebsführung entsprechen (LSP Nr. 23). Es sind die tariflich vereinbarten Löhne und Gehälter einzusetzen (kalkulatorischer Unternehmerlohn siehe Ziffer 8).
 
-3b.
+3c. Sozialkosten Es sind die gesetzlichen und die tariflich vereinbarten Sozialaufwendungen in tatsächlicher Höhe anzusetzen.
 
-3c.
+3d. Zuwendungen an Pensions- und Unterstützungskassen sowie Pensionsrückstellungen Es sind die Kosten bis zur steuerlich zulässigen Höhe einzusetzen.
 
-3d.
+4. Steuern, Gebühren, Beiträge Vorsteuern im Sinne des Umsatzsteuergesetzes bleiben außer Ansatz. Berücksichtigt werden können:
 
-4.
+4a. Gewerbekapital- und Lohnsummensteuer
 
-4a.
+4b. Vermögensteuer
 
-4b.
+4c. Sonstige Steuern Es sind alle sonstigen Kostensteuern des Verkehrsbetriebs einzusetzen (z.B. Grundsteuer).
 
-4c.
+4d. Konzessionsgebühren Ausgaben für die Benutzung des Verkehrsraums öffentlicher Straßen sind - auch in Form von Pacht- oder Mietzahlungen - nicht in Ansatz zu bringen.
 
-4d.
+5. Raum- und Gebäudemieten und Pachten Für gemietete Gebäude und Gebäudeteile sowie für gepachtete Grundstücke - soweit sie dem Verkehrsbetrieb dienen - sind die vereinbarten Mieten und Pachten einzusetzen; für unternehmenseigene Gebäude und Grundstücke, soweit sie nicht in den anderen Kostenarten enthalten sind, die tatsächlichen Aufwendungen.
 
-5.
+6. Sonstige Kosten Hierher gehören Postkosten, Reise- und Fahrgeldkosten, Gerichts- und Anwaltskosten, sonstige Verwaltungskosten, ebenso Haftpflichtleistungen, die nicht aus Fremdversicherungen oder aus Rückstellungen gedeckt sind.
 
-6.
+7. Kalkulatorische Abschreibungen Ausgangsbasis für die kalkulatorischen Abschreibungen sind die Anschaffungs- oder Herstellungskosten, vermindert um Investitionszuschüsse der öffentlichen Hand. Die in der Handels- und Steuerbilanz vorgenommenen Regel- und Sonderabschreibungen bleiben außer Betracht.
 
-7.
+8. Kalkulatorischer Unternehmerlohn Für die Mitarbeit des Unternehmers in Einzelunternehmen und rechtsfähigen Personengesellschaften und ggf. unentgeltlich mithelfende Familienangehörige sind angemessene Kosten einzusetzen.
 
-8.
-
-9.
-
-1
-
-2a
-
-2b
-
-2c
-
-2d
-
-3a
-
-3b
-
-3c
-
-3d
-
-4a
-
-4b
-
-4c
-
-5
-
-6
-
-7
-
-8
-
-9
+9. Kalkulatorische Zinsen (vgl. Nr. 43 LSP) Für die Ermittlung des betriebsnotwendigen Kapitals gilt Ziffer 7 entsprechend.
 
 ### Anhang EV — Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III
 
-Abschnitt III
-
-9.
-
-11.
+9. Verordnung über den Ausgleich gemeinwirtschaftlicher Leistungen im Eisenbahnverkehr vom 2. August 1977 (BGBl. I S. 1465), geändert durch Verordnung vom 30. Juni 1989 (BGBl. I S. 1273), mit folgender Maßgabe: Die Verordnung ist erst ab 1. Januar 1992 anzuwenden.

@@ -36,13 +36,11 @@ Molkerei im Sinne dieser Verordnung ist ein milchwirtschaftliches Unternehmen, d
 
 (2) Die Kennzeichnung von Butter in Fertigpackungen im Sinne des § 42 Absatz 1 des Mess- und Eichgesetzes, die zur Abgabe an den Verbraucher bestimmt sind, muß enthalten
 
-1.
+1. den Namen oder die Firma und die Anschrift des Herstellers, des Verpackers oder eines im Gebiet der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum niedergelassenen Verkäufers,
 
-2.
+2. das Verzeichnis der Zutaten, ausgenommen die für die Herstellung notwendigen Milchinhaltsstoffe, Milchsäurebakterienkulturen und das aus diesen gewonnene Milchsäure-Konzentrat, das ausschließlich durch Einwirken von Milchsäurebakterien auf Milchinhaltsstoffe erzeugt wurde, nach Maßgabe der §§ 5 und 6 der Lebensmittel-Kennzeichnungsverordnung in Verbindung mit dem Hinweis, daß es sich nur um weitere Zutaten handelt; Zutaten der Anlage 3 der Lebensmittel-Kennzeichnungsverordnung sind stets anzugeben, es sei denn, die Verkehrsbezeichnung des Lebensmittels lässt auf das Vorhandensein der jeweiligen Zutat schließen,
 
-3.
-
-(3) Die Angaben nach Absatz 2 Nr. 1 und 2 können bei Fertigpackungen, deren größte Einzelfläche weniger als 10 qcm beträgt, entfallen.
+3. das Mindesthaltbarkeitsdatum nach Maßgabe des § 7 der Lebensmittel-Kennzeichnungsverordnung; wird das Mindesthaltbarkeitsdatum mit dem Hinweis "gekühlt" angegeben, so ist es auf der Grundlage einer Bezugstemperatur von 10 Grad C zu berechnen.
 
 (4) Für die Art und Weise der Kennzeichnung nach Absatz 2 gilt § 3 Abs. 3 und 4 der Lebensmittel-Kennzeichnungsverordnung entsprechend.
 
@@ -54,15 +52,15 @@ Molkerei im Sinne dieser Verordnung ist ein milchwirtschaftliches Unternehmen, d
 
 (9) Bei Butter, die zur Abgabe an andere als Verbraucher bestimmt ist, muß die Kennzeichnung enthalten
 
-1.
+1. als Verkehrsbezeichnung das Wort "Butter",
 
-2.
+2. den Fettgehalt in Prozent (Massenanteil) zum Zeitpunkt der Herstellung,
 
-3.
+3. den Zusatz "gesalzen", wenn die Butter mehr als 0,1 Gewichtshundertteile Salz enthält,
 
-4.
+4. den Namen oder die Firma und die Anschrift des Herstellers, des Verpackers oder eines im Gebiet der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum niedergelassenen Verkäufers,
 
-5.
+5. das Mindesthaltbarkeitsdatum; Absatz 2 Nr. 3 zweiter Halbsatz gilt entsprechend.
 
 ## Abschnitt 3: Butter der Handelsklassen
 
@@ -78,11 +76,11 @@ Butter darf nach Handelsklassen im Sinne des Satzes 2 nur in den Verkehr gebrach
 
 (3) Butter der Handelsklassen muß einer der folgenden Buttersorten entsprechen:
 
-1.
+1. Sauerrahmbutter: Butter, die aus mikrobiell gesäuerter Milch, Sahne (Rahm) oder Molkensahne (Molkenrahm) hergestellt ist und deren pH-Wert im Serum 5,1 nicht überschreitet;
 
-2.
+2. Süßrahmbutter: Butter, die aus nicht gesäuerter Milch, Sahne (Rahm) oder Molkensahne (Molkenrahm) hergestellt ist, der auch nach der Butterung keine Milchsäurebakterienkulturen zugesetzt wurden und deren pH-Wert im Serum 6,4 nicht unterschreitet;
 
-3.
+3. Mildgesäuerte Butter: Butter, die weder der Definition für Sauerrahmbutter noch der für Süßrahmbutter entspricht und deren pH-Wert im Serum unter 6,4 liegt.
 
 (4) Sauerrahmbutter und Mildgesäuerte Butter dürfen nur unter Verwendung von spezifischen Milchsäurebakterienkulturen hergestellt werden; zusätzlich darf bei Mildgesäuerter Butter ein aus diesen gewonnenes Milchsäurekonzentrat, das ausschließlich durch Einwirkung von Milchsäurebakterien auf Milchinhaltsstoffe erzeugt wurde, verwendet werden.
 
@@ -92,15 +90,15 @@ Butter darf nach Handelsklassen im Sinne des Satzes 2 nur in den Verkehr gebrach
 
 (1) Butter erfüllt die Voraussetzungen der Handelsklasse "Deutsche Markenbutter", wenn sie
 
-1.
+1. in einer Molkerei hergestellt worden ist, die nach § 8 berechtigt ist, für die von ihr hergestellte Butter die Bezeichnung "Deutsche Markenbutter" zu führen, und
 
-2.
+2. für jede der in § 7 Abs. 3 Satz 2 Nr. 1 bis 3 genannten Eigenschaften mit mindestens vier Punkten bewertet worden ist.
 
 (2) Butter erfüllt die Voraussetzungen der Handelsklasse "Deutsche Molkereibutter", wenn sie
 
-1.
+1. in einer Molkerei hergestellt worden ist und
 
-2.
+2. für jede der in § 7 Abs. 3 Satz 2 Nr. 1 bis 3 genannten Eigenschaften mit mindestens drei Punkten bewertet worden ist.
 
 (3) Abweichend von Absatz 1 Nr. 2 und Absatz 2 Nr. 2 erfüllt Butter, die zur Abgabe an andere als Verbraucher bestimmt ist, die Voraussetzungen als Handelsklasse auch ohne Bewertung der in § 7 Abs. 3 Satz 2 Nr. 3 genannten Streichfähigkeit.
 
@@ -110,13 +108,13 @@ Butter darf nach Handelsklassen im Sinne des Satzes 2 nur in den Verkehr gebrach
 
 (2) Die Überwachungsstelle kann die Prüfung nach Absatz 1 auch auf Ausformstellen und Großhandelsbetriebe erstrecken.
 
-(3) Die Prüfung der Handelsklasse ist nach Maßgabe der Nummer 5 der Anlage 1 durchzuführen. In diesem Rahmen sind, unbeschadet des § 6 Abs. 3, folgende Eigenschaften zu prüfen und zu bewerten: Der pH-Wert im Serum ist zuvor durch eine Laboruntersuchung festzustellen.
+(3) Die Prüfung der Handelsklasse ist nach Maßgabe der Nummer 5 der Anlage 1 durchzuführen. In diesem Rahmen sind, unbeschadet des § 6 Abs. 3, folgende Eigenschaften zu prüfen und zu bewerten:
 
-1.
+1. die sensorischen Eigenschaften Aussehen, Geruch, Geschmack und Textur,
 
-2.
+2. die Wasserverteilung,
 
-3.
+3. die Streichfähigkeit.
 
 (4) Zusätzlich erfolgt eine stichprobenartige Prüfung der Qualität von Butter einer Handelsklasse in Molkereien, Ausformstellen und im Lebensmittelhandel.
 
@@ -126,25 +124,25 @@ Butter darf nach Handelsklassen im Sinne des Satzes 2 nur in den Verkehr gebrach
 
 (2) Die Berechtigung zur Führung der Bezeichnung "Deutsche Markenbutter" ist zu widerrufen, wenn
 
-1.
+1. von der Gesamtzahl der zur Prüfung zugelassenen Butterproben einer Buttersorte eines Einsenders in drei aufeinanderfolgenden Monaten oder innerhalb der letzten sechs Monate mehr als ein Drittel nicht die Anforderungen des § 5 Abs. 1 bis 4 oder § 6 Abs. 1 Nr. 2 erfüllt,
 
-2.
+2. bei der Prüfung der Butter nach § 7 Abs. 4 wiederholt Beanstandungen der Butter erfolgen, die die Molkerei verursacht hat,
 
-3.
+3. den Anweisungen der Überwachungsstelle im Rahmen von Nummer 2 der Anlage 1 nicht Folge geleistet wird oder
 
-4.
+4. von der Gesamtzahl der Butterproben einer Buttersorte eines Einsenders mehr als zwei Proben in sechs aufeinanderfolgenden Monaten aus einem der in Abschnitt 4.2 der Anlage 1 genannten Gründe nicht zur Prüfung zugelassen oder nicht regelmäßig zur Prüfung nach § 7 eingesandt oder bereitgehalten werden.
 
 (3) Die Berechtigung zur Führung der Bezeichnung "Deutsche Markenbutter" wird wieder erteilt, wenn
 
-1.
+1. die Umstände, die zum Entzug führten, abgestellt sind und
 
-2.
+2. die Gesamtzahl der Butterproben einer Buttersorte eines Einsenders bei zwei aufeinanderfolgenden Prüfungen nach § 7 Abs. 1 die Anforderungen des § 5 Abs. 1 bis 4 und des § 6 Abs. 1 Nr. 2 wieder erfüllt. Diese Prüfungen können im Benehmen mit der zuständigen Überwachungsstelle von einer anderen Überwachungsstelle durchgeführt werden.
 
-(4) Die Berechtigung zur Führung der Bezeichnung "Deutsche Markenbutter" erlischt, wenn Die Einstellung der Herstellung ist der zuständigen Überwachungsstelle unverzüglich mitzuteilen.
+(4) Die Berechtigung zur Führung der Bezeichnung "Deutsche Markenbutter" erlischt, wenn
 
-1.
+1. die Herstellung von Deutscher Markenbutter vorübergehend eingestellt wird und die Prüfung der ersten, nach Wiederaufnahme der Produktion hergestellten Butter die nach § 6 Abs. 1 Nr. 2 erforderliche Punktzahl nicht ergibt oder
 
-2.
+2. die Herstellung der Butter länger als sechs Monate eingestellt wird.
 
 ### § 9 — Abwertung
 
@@ -156,37 +154,29 @@ Butter darf nach Handelsklassen im Sinne des Satzes 2 nur in den Verkehr gebrach
 
 (1) Butter der Handelsklassen darf nur so verpackt werden, daß die sensorischen Eigenschaften der Butter nach § 7 Abs. 3 Satz 2 Nr. 1 erhalten bleiben.
 
-(2) Zur Verpackung in Buttereinwickler dürfen für Deutsche Markenbutter nur solche verwendet werden, die der Gruppe B oder C nach DIN 10082 Ausgabe März 1996*) entsprechen. ------ *) Zu beziehen bei Beuth Verlag GmbH, 10772 Berlin.
-
 ### § 11 — Zusätzliche Kennzeichnung
 
 Butter der Handelsklassen darf nur in den Verkehr gebracht werden, wenn die Kennzeichnung, unbeschadet der Vorschriften der EG-Verordnung und des § 3 Abs. 2 bis 6 und 9, folgende Angaben enthält:
 
-1.
+1. als Verkehrsbezeichnunga)im Falle des § 6 Abs. 1, auch in Verbindung mit Abs. 3, die Bezeichnung "Deutsche Markenbutter" und b)im Falle des § 6 Abs. 2, auch in Verbindung mit Abs. 3, die Bezeichnung "Deutsche Molkereibutter", im Falle des § 6 Abs. 1, auch in Verbindung mit Abs. 3, die Bezeichnung "Deutsche Markenbutter" und im Falle des § 6 Abs. 2, auch in Verbindung mit Abs. 3, die Bezeichnung "Deutsche Molkereibutter",
 
-a)
+2. die jeweilige Buttersorte nach § 5 Abs. 3,
 
-b)
-
-2.
-
-3.
+3. im Falle von Butter, die zur Abgabe an andere als Verbraucher bestimmt ist, die Angabe "zur Abgabe an andere als Verbraucher bestimmt".
 
 ### § 12 — Butter aus anderen Mitgliedstaaten
 
-(1) Butter, die in einem anderen Mitgliedstaat der Europäischen Union hergestellt ist, darf im Geltungsbereich dieser Verordnung unter der Bezeichnung "Markenbutter", auch in Verbindung mit einem Hinweis auf das Herstellungsland, nur in den Verkehr gebracht werden, wenn die Butter den Anforderungen an entspricht.
+(1) Butter, die in einem anderen Mitgliedstaat der Europäischen Union hergestellt ist, darf im Geltungsbereich dieser Verordnung unter der Bezeichnung "Markenbutter", auch in Verbindung mit einem Hinweis auf das Herstellungsland, nur in den Verkehr gebracht werden, wenn die Butter den Anforderungen an
 
-1.
+1. Herstellung und Qualität nach den §§ 5 und 6 Abs. 1 Nr. 2 sowie
 
-2.
+2. Kennzeichnung und Verpackung nach dem folgenden Absatz 2
 
 (2) Die Kennzeichnung muß unbeschadet der Vorschriften der EG-Verordnung und des § 3 Abs. 2 die Angabe der Buttersorte (§ 5 Abs. 3) enthalten. Bei Verpackung in Buttereinwickler gilt die Vorschrift des § 10 Abs. 2 entsprechend.
 
 (3) Die Einhaltung der Anforderungen an die Herstellung nach § 5 ist auf Verlangen von demjenigen, der die Butter in den Verkehr bringt, durch eine amtliche Bescheinigung der zuständigen Behörde des Herstellungslandes nach dem Muster der Anlage 2 nachzuweisen. Die nach Landesrecht zuständigen Behörden prüfen die Qualitätsanforderungen nach § 6 Abs. 1 Nr. 2 beim Inverkehrbringen im Geltungsbereich der Verordnung.
 
 ### § 13 — Gütezeichen für Markenbutter
-
-(1) Für Markenbutter darf das nebenstehend abgebildete Gütezeichen nach Maßgabe der Absätze 2 bis 4 verwendet werden. Das Gütezeichen besteht aus einem stilisierten Adler mit ovaler Umrandung. Die Umrandung enthält die Inschrift: "In Deutschland geprüfte Markenware". (Inhalt: nicht darstellbares Gütezeichen,
 
 (2) Für im Geltungsbereich dieser Verordnung hergestellte Butter darf das Gütezeichen nur von einer Molkerei geführt werden, die die Markenberechtigung nach § 8 hat.
 
@@ -203,23 +193,21 @@ Halbfettbutter und Milchstreichfett X vom Hundert
 
 Unbeschadet der Vorschriften der EG-Verordnung dürfen bei der Herstellung von Dreiviertelfettbutter, Halbfettbutter und Milchstreichfett X vom Hundert verwendet werden
 
-1.
+1. Milchsäurebakterienkulturen oder ein aus diesen gewonnenes Milchsäure-Konzentrat,
 
-2.
+2. Speisegelatine.
 
 ### § 15 — Ergänzende Kennzeichnung
 
 (1) Unbeschadet der Vorschriften der EG-Verordnung dürfen die Erzeugnisse Dreiviertelfettbutter, Halbfettbutter und Milchstreichfett X vom Hundert nur in den Verkehr gebracht werden, wenn sie nach Maßgabe des Absatzes 2 Satz 1, des Absatzes 3 Satz 1 bis 3 und der Absätze 4 und 5 gekennzeichnet sind.
 
-(2) Bei den Erzeugnissen Dreiviertelfettbutter, Halbfettbutter und Milchstreichfett X vom Hundert in Fertigpackungen im Sinne des § 42 Absatz 1 des Mess- und Eichgesetzes, die zur Abgabe an den Verbraucher bestimmt sind, sind die in § 3 Abs. 2 genannten Angaben anzubringen. Die Angaben nach § 3 Abs. 2 Nr. 1 und 2 können bei Fertigpackungen, deren größte Einzelfläche weniger als 10 qcm beträgt, entfallen. Für die Art und Weise der Kennzeichnung gilt § 3 Abs. 3 und 4 der Lebensmittel-Kennzeichnungsverordnung entsprechend.
-
 (3) Die Kennzeichnung der Erzeugnisse Dreiviertelfettbutter, Halbfettbutter und Milchstreichfett X vom Hundert, die unverpackt oder in Fertigpackungen, die in der Verkaufsstätte zur alsbaldigen Abgabe an den Verbraucher hergestellt und dort, jedoch nicht zur Selbstbedienung, abgegeben werden, muß das Mindesthaltbarkeitsdatum nach Maßgabe des § 7 der Lebensmittel-Kennzeichnungsverordnung enthalten. § 3 Abs. 2 Nr. 3 letzter Halbsatz gilt entsprechend. Die Kennzeichnung ist auf dem Behältnis, in dem Butter angeboten wird, oder der Fertigpackung im Sinne des Satzes 1 in deutscher Sprache und deutlich lesbar vorzunehmen. § 3 Abs. 6 Satz 4 und 5 gilt entsprechend.
 
 (4) Bei den Erzeugnissen Dreiviertelfettbutter, Halbfettbutter und Milchstreichfett X vom Hundert, die zur Abgabe an andere als Verbraucher bestimmt sind, muß die Kennzeichnung enthalten
 
-1.
+1. als Verkehrsbezeichnung das Wort "Dreiviertelfettbutter" oder "Halbfettbutter" oder das Wort "Milchstreichfett" mit der Angabe des Fettgehalts in Ziffern und dem Zeichen "%" sowie
 
-2.
+2. die in § 3 Abs. 9 Nr. 2 bis 5 genannten Angaben.
 
 (5) Bei Halbfettbutter und Milchstreichfett X vom Hundert mit einem Fettgehalt von 50 Gewichtshundertteilen oder weniger ist auf der Verpackung an gut sichtbarer Stelle deutlich lesbar und unverwischbar ein Hinweis anzubringen, daß das Erzeugnis zum Braten nicht geeignet ist.
 
@@ -237,13 +225,13 @@ Unbeschadet der Vorschriften der EG-Verordnung dürfen bei der Herstellung von D
 
 (1) Ordnungswidrig im Sinne des § 9 Absatz 2 Nummer 2 des Milch- und Margarinegesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 2 Abs. 1 oder § 4 Satz 1 Butter in den Verkehr bringt,
 
-2.
+2. entgegen § 10 Abs. 2 Buttereinwickler verwendet,
 
-3.
+3. entgegen § 11 Butter der Handelsklassen in den Verkehr bringt, die nicht oder nicht in der vorgeschriebenen Weise gekennzeichnet ist, oder
 
-4.
+4. entgegen § 12 Abs. 1 Butter aus einem anderen Mitgliedstaat der Europäischen Union in den Verkehr bringt.
 
 (2) Ordnungswidrig im Sinne des § 30 Abs. 1 Nr. 9 des Milch- und Fettgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 13 Abs. 2 das Gütezeichen führt.
 
@@ -255,9 +243,9 @@ Unbeschadet der Vorschriften der EG-Verordnung dürfen bei der Herstellung von D
 
 (2) Diese Verordnung ist nicht anzuwenden, soweit ihr Bestimmungen entgegenstehen aus
 
-1.
+1. der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S. 7) in der jeweils geltenden Fassung oder
 
-2.
+2. den auf die Verordnung (EU) Nr. 1169/2011 gestützten Rechtsakten der Europäischen Union.
 
 (3) Werden Erzeugnisse im Sinne des § 1 Absatz 1 in einer in § 4 der Lebensmittelinformations-Durchführungsverordnung geregelten Form der Abgabe in den Verkehr gebracht, so ist diese Verordnung nur vorbehaltlich des § 4 der Lebensmittelinformations-Durchführungsverordnung anzuwenden.
 
@@ -269,80 +257,18 @@ Diese Verordnung tritt am 14. Juli 2026 außer Kraft.
 
 ### Anlage 1 — (zu § 7 Abs. 1 und 3, § 8 Abs. 2)
 
-Fundstelle des Originaltextes: BGBl. I 1997, 148 - 150;
+1. Überwachungsstelle, Prüfungsstelle, Sachverständige
 
-------- *) Zu beziehen bei Beuth Verlag GmbH, 10772 Berlin.
+1.1 Die Überwachungsstelle führt die monatliche Butterprüfung nach Maßgabe dieser Bestimmungen durch. Sie kann die Durchführung der Butterprüfung der Milchwirtschaftlichen Untersuchungsanstalt oder einer sonstigen sachverständigen Untersuchungsanstalt als Prüfungsstelle übertragen; die Bestimmungen des Wassergehaltes, des pH-Wertes, der Härte und der Wasserverteilung können gesondert übertragen werden. Die Angehörigen der Prüfungsstelle sind zur Verschwiegenheit verpflichtet.
 
-1.
+1.2 Zur Durchführung der sensorischen Prüfungen beruft die Überwachungsstelle Sachverständige jeweils für die Dauer von zwei Jahren.
 
-1.1
+1.3 Als Sachverständige können Milchwirtschaftler, Vertreter des Fachhandels, der Milchwirtschaftlichen Untersuchungsanstalten und der Verbraucherorganisationen sowie der für die amtliche Lebensmittelüberwachung zuständigen Untersuchungsanstalten berufen werden. Die Sachverständigen müssen die Voraussetzungen der in der Amtlichen Sammlung von Untersuchungsverfahren gemäß § 35 des Lebensmittel- und Bedarfsgegenständegesetzes*) (Amtliche Sammlung) unter Gliederungsnummer L 00.90-1 genannten Bestimmungen erfüllen.
 
-1.2
+2. Abruf, Zahl, Entnahme, Form und Gewicht der Proben
 
-1.3
+2.1 Die Herstellerbetriebe haben aus der laufenden Produktion des Tages, an dem der Abruf durch die Überwachungsstelle oder die beauftragte Stelle erfolgt, von jeder hergestellten Buttersorte sachgemäß Proben zu entnehmen. Der Zeitpunkt für die Entnahme der einzelnen Proben ist so festzulegen, daß die gesamte Tagesproduktion anteilmäßig nach Menge und Zeit erfaßt wird. Der Zeitpunkt für die Entnahme ist nicht an den Prüfungsmonat gebunden.
 
-2.
-
-2.1
-
-2.2
-
-2.3
-
-2.4
-
-2.5
-
-2.6
-
-3.
-
-3.1
-
-3.2
-
-3.3
-
-4.
-
-4.1
-
--
-
--
-
--
-
-4.2
-
-4.3
-
-5.
-
-5.1
-
--
-
--
-
--
-
--
-
--
-
-5.2
-
-5.3
-
-5.4
-
-6.
-
-6.1
-
-6.2
+2.2 Die Herstellerbetriebe haben für jede Prüfung an zwei Abruftagen von jeder Buttersorte (§ 5 Abs. 3) Butterproben einzusenden. Die Zahl der für jede Prüfung einzusendenden Proben ergibt sich aus der Produktionsmenge des vorhergehenden Kalenderjahres wie folgt:
 
 ### Anlage 2 — (zu § 12 Abs. 3)
-
-Fundstelle des Originaltextes: BGBl. I 1997, 150;

@@ -27,17 +27,17 @@
 
 Die gesamtwirtschaftlichen Vorausschätzungen, die den Haushalts- und Finanzplanungen der Bundesregierung zugrunde liegen, sind von einer unabhängigen Einrichtung mit dem Ziel der Befürwortung zu überprüfen. Die unabhängige Einrichtung ist dabei von Weisungen der Bundesregierung und anderer öffentlicher oder privater Einrichtungen frei. Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung zu bestimmen
 
-1.
+1. eine Einrichtung als unabhängige Einrichtung im Sinne des Satzes 2, die über die für die Überprüfung der Vorausschätzungen erforderlichen Sachkenntnisse, Erfahrungen und Mittel verfügt, und, falls diese Einrichtung aus mehreren Institutionen oder Personen besteht, ihre Zusammensetzung,
 
-2.
+2. den Zugang der unabhängigen Einrichtung zu den für die Überprüfung der gesamtwirtschaftlichen Vorausschätzungen erforderlichen Informationen,
 
-3.
+3. das Verfahren der Überprüfung und Befürwortung der gesamtwirtschaftlichen Vorausschätzungen durch die unabhängige Einrichtung,
 
-4.
+4. die Befugnis der unabhängigen Einrichtung, im Rahmen des Befürwortungsverfahrens öffentliche Stellungnahmen abzugeben,
 
-5.
+5. die Mittelausstattung der unabhängigen Einrichtung sowie
 
-6.
+6. die Befugnis der unabhängigen Einrichtung, sich eine Geschäftsordnung zu geben.
 
 ### § 4 — Inkrafttreten
 

@@ -10,9 +10,9 @@
 
 Das Bundesministerium für Bildung und Forschung verordnet jeweils nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung auf Grund
 
-–
+– des § 53 Absatz 1 in Verbindung mit Absatz 2 und mit den §§ 53a und 53c des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und
 
-–
+– des § 30 Absatz 5 des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920):
 
 ### Inhaltsübersicht
 
@@ -24,27 +24,27 @@ Das Bundesministerium für Bildung und Forschung verordnet jeweils nach Anhörun
 
 (3) Durch die Prüfung ist festzustellen, ob die zu prüfende Person in der Lage ist, Fach- und Führungsfunktionen zu übernehmen, in denen zu verantwortende Leitungsprozesse von Organisationen eigenständig gesteuert werden, eigenständig ausgeführt werden und dafür Mitarbeiter und Mitarbeiterinnen geführt werden. Insbesondere ist festzustellen, ob die zu prüfende Person in der Lage ist, eigenständig und verantwortlich die Beschaffung zur Deckung unterschiedlicher Bedarfe auf nationalen und internationalen Märkten innovativ, nachhaltig und wertschöpfend zu gestalten und umzusetzen. Im Rahmen der Sätze 1 und 2 sollen auch soziale, rechtliche und ökologische Bedingungen zielorientiert und situationsbezogen berücksichtigt werden. Im Einzelnen umfasst dies insbesondere folgende Aufgaben:
 
-1.
+1. Bedarfe ermitteln, analysieren und abstimmen,
 
-2.
+2. Märkte regelmäßig beobachten und analysieren,
 
-3.
+3. Einkaufsstrategien entwickeln und abstimmen mit dem Ziel, Mehrwerte durch geeignete Einkaufspolitik und -organisation sowie geeignetes Einkaufsmarketing zu schaffen,
 
-4.
+4. Lieferantenmanagement gestalten,
 
-5.
+5. Aufträge planen und disponieren und Einkaufsvorgänge koordinieren bis hin zu Vertragsverhandlungen mit Lieferanten,
 
-6.
+6. rechtliche Vertrags- und Haftungsvoraussetzungen prüfen und Einkaufsverträge abschlussreif vorbereiten,
 
-7.
+7. Leistungserbringung durch Qualitätsmanagement und Risikomanagement nachhaltig sicherstellen,
 
-8.
+8. Einkaufserfolge durch Controlling messen und dokumentieren,
 
-9.
+9. Mitarbeiterinnen und Mitarbeiter führen sowie ihre berufliche Entwicklung fördern, einschließlich Ausbildung von Nachwuchskräften, Umsetzen von Teamarbeit und Projektmanagement,
 
-10.
+10. Berufsausbildung organisieren.
 
-(4) Für den Erwerb der in Absatz 3 bezeichneten Fertigkeiten, Kenntnisse und Fähigkeiten bedarf es in der Regel eines Lernumfangs von insgesamt mindestens 1 200 Stunden. Der Lerninhalt bestimmt sich nach den Anforderungen der in § 3 Absatz 2 in Verbindung mit § 4 genannten Handlungsbereiche.
+(4) Für den Erwerb der in Absatz 3 bezeichneten Fertigkeiten, Kenntnisse und Fähigkeiten bedarf es in der Regel eines Lernumfangs von insgesamt mindestens 1 200 Stunden. Der Lerninhalt bestimmt sich nach den Anforderungen der in § 3 Absatz 2 in Verbindung mit § 4 genannten Handlungsbereiche.
 
 (5) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Bachelor Professional in Procurement“. Der Abschlussbezeichnung wird die weitere Abschlussbezeichnung „Geprüfter Fachwirt für Einkauf“ oder „Geprüfte Fachwirtin für Einkauf“ vorangestellt.
 
@@ -52,11 +52,11 @@ Das Bundesministerium für Bildung und Forschung verordnet jeweils nach Anhörun
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53c des Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
 
-1.
+1. eine mit Erfolg abgelegte Abschlussprüfung in einem anerkannten dreijährigen kaufmännischen oder verwaltenden Ausbildungsberuf oder
 
-2.
+2. eine mit Erfolg abgelegte Abschlussprüfung in einem anderen anerkannten Ausbildungsberuf und danach eine mindestens einjährige Berufspraxis oder
 
-3.
+3. eine mindestens fünfjährige Berufspraxis.
 
 (2) Die Berufspraxis nach Absatz 1 Nummer 2 und 3 muss inhaltlich wesentliche Bezüge zu den in § 1 Absatz 3 genannten Aufgaben haben.
 
@@ -68,17 +68,17 @@ Das Bundesministerium für Bildung und Forschung verordnet jeweils nach Anhörun
 
 (2) Die Prüfung bezieht sich auf die Handlungsbereiche:
 
-1.
+1. interne und externe Einkaufsbedarfe ermitteln,
 
-2.
+2. Einkaufsstrategien entwickeln und umsetzen,
 
-3.
+3. Lieferanten-, Risiko- und Qualitätsmanagement gestalten,
 
-4.
+4. Einkaufsprozesse vorbereiten und realisieren,
 
-5.
+5. Einkaufscontrolling durchführen,
 
-6.
+6. Kommunikation, Führung und Zusammenarbeit.
 
 (3) Die schriftliche Prüfung wird auf der Grundlage einer betrieblichen Situationsbeschreibung mit zwei gleichgewichtigen, daraus abgeleiteten aufeinander abgestimmten offenen Aufgabenstellungen, die eigenständige Lösungen ohne Antwortvorgaben ermöglichen, durchgeführt, wobei alle Handlungsbereiche situationsbezogen zu thematisieren sind. Die gesamte Bearbeitungsdauer soll 600 Minuten betragen.
 
@@ -94,189 +94,57 @@ Das Bundesministerium für Bildung und Forschung verordnet jeweils nach Anhörun
 
 (1) Im Handlungsbereich „Interne und externe Einkaufsbedarfe ermitteln“ soll die Fähigkeit nachgewiesen werden, Methoden der Beschaffungsmarktforschung auch international anzuwenden, zur Bedarfsermittlung unterschiedliche Analyseinstrumente einzusetzen sowie die Daten aufzubereiten und diese den Prozessbeteiligten zu kommunizieren. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Beschaffungs- und Absatzmärkte beobachten, analysieren und Entwicklungen prognostizieren a)im Rahmen der Marktanalyse das Wettbewerbsumfeld, das Produktportfolio und die Entwicklung nationaler und internationaler Beschaffungsmärkte beobachten und vergleichen,b)Daten im Rahmen der Beschaffungsmarktforschung erheben, aufbereiten und analysieren und daraus Chancen und Risiken ableiten,c)Einkaufs- und Einsparungspotenziale ermitteln und prognostizieren; im Rahmen der Marktanalyse das Wettbewerbsumfeld, das Produktportfolio und die Entwicklung nationaler und internationaler Beschaffungsmärkte beobachten und vergleichen, Daten im Rahmen der Beschaffungsmarktforschung erheben, aufbereiten und analysieren und daraus Chancen und Risiken ableiten, Einkaufs- und Einsparungspotenziale ermitteln und prognostizieren;
 
-a)
-
-b)
-
-c)
-
-2.
-
-a)
-
-b)
+2. Bedarfe an Gütern und Dienstleistungen ermitteln a)Spezifikationen von Gütern und Dienstleistungen erfassen, bewerten und definieren,b)Bedarf unter Berücksichtigung von Quantität und zeitlichen Aspekten ermitteln. Spezifikationen von Gütern und Dienstleistungen erfassen, bewerten und definieren, Bedarf unter Berücksichtigung von Quantität und zeitlichen Aspekten ermitteln.
 
 (2) Im Handlungsbereich „Einkaufsstrategien entwickeln und umsetzen“ soll die Fähigkeit nachgewiesen werden, Mehrwert durch die Gestaltung geeigneter Einkaufspolitik, des Einkaufmarketings und der Einkaufsorganisation zu schaffen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Einkaufsstrategien aus den Vorgaben der Unternehmenspolitik sowie externen Einflussgrößen ableiten a)Einkaufsstrategien methodisch gestützt entwickeln,b)Beschaffungslösungen auswählen und Einkaufsstrategien festlegen,c)Einkaufspolitik ableiten; Einkaufsstrategien methodisch gestützt entwickeln, Beschaffungslösungen auswählen und Einkaufsstrategien festlegen, Einkaufspolitik ableiten;
 
-a)
+2. Einkaufsmarketing durch Einsatz von güter-, markt-, unternehmens- und kommunikationsbezogenen Instrumenten gestalten a)Instrumente auswählen und Kennzahlen festlegen,b)Ergebnisse auswerten, dokumentieren und kommunizieren; Instrumente auswählen und Kennzahlen festlegen, Ergebnisse auswerten, dokumentieren und kommunizieren;
 
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-3.
-
-a)
-
-b)
-
-c)
+3. Einkaufsprozesse und -organisation optimieren und dokumentieren a)Einkaufsprozesse analysieren und Maßnahmen zur Optimierung ableiten,b)hierarchie- sowie prozessbezogene Organisation des Einkaufs mitgestalten,c)Organisationsmittel entwickeln und Prozessdokumentationen erstellen. Einkaufsprozesse analysieren und Maßnahmen zur Optimierung ableiten, hierarchie- sowie prozessbezogene Organisation des Einkaufs mitgestalten, Organisationsmittel entwickeln und Prozessdokumentationen erstellen.
 
 (3) Im Handlungsbereich „Lieferanten-, Risiko- und Qualitätsmanagement gestalten“ soll die Fähigkeit nachgewiesen werden, nachhaltig Lieferantenbeziehungen zu gestalten, Risiken zu minimieren und die Qualität zu verbessern. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Lieferantenbeziehungen entwickeln und pflegen a)Anforderungsprofil für Lieferanten erstellen und kommunizieren,b)Lieferantenbewertungen im Hinblick auf Lieferqualität, wirtschaftliche Situation, Fachkompetenz, Prozessfähigkeit, Zertifizierungen und Qualität der Zusammenarbeit durchführen,c)technische, wirtschaftliche und personelle Maßnahmen im Rahmen der Lieferantenentwicklung festlegen und umsetzen; Anforderungsprofil für Lieferanten erstellen und kommunizieren, Lieferantenbewertungen im Hinblick auf Lieferqualität, wirtschaftliche Situation, Fachkompetenz, Prozessfähigkeit, Zertifizierungen und Qualität der Zusammenarbeit durchführen, technische, wirtschaftliche und personelle Maßnahmen im Rahmen der Lieferantenentwicklung festlegen und umsetzen;
 
-a)
+2. Strategien für das Risikomanagement entwickeln und umsetzen a)Risiken erkennen, beschreiben und bewerten,b)Frühwarnsysteme zur Identifikation und Bewertung von Risiken einführen,c)Maßnahmen zur Risikominimierung und für den Fall eines Schadenseintritts planen und durchführen; Risiken erkennen, beschreiben und bewerten, Frühwarnsysteme zur Identifikation und Bewertung von Risiken einführen, Maßnahmen zur Risikominimierung und für den Fall eines Schadenseintritts planen und durchführen;
 
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-c)
-
-3.
-
-a)
-
-b)
-
-c)
+3. bei der Gestaltung und Umsetzung des Qualitätsmanagements mitwirken a)Qualitätsstandards der Beschaffung aus den Unternehmenszielen ableiten,b)die Einhaltung von Qualitätsstandards und rechtlichen Vorgaben sicherstellen,c)zur kontinuierlichen Optimierung von Qualitätsstandards beitragen. Qualitätsstandards der Beschaffung aus den Unternehmenszielen ableiten, die Einhaltung von Qualitätsstandards und rechtlichen Vorgaben sicherstellen, zur kontinuierlichen Optimierung von Qualitätsstandards beitragen.
 
 (4) Im Handlungsbereich „Einkaufsprozesse vorbereiten und realisieren“ soll die Fähigkeit nachgewiesen werden, die Einkaufsprozesse einschließlich der Einkaufs- und Preisverhandlungen verantwortlich durchzuführen. Verträge sind unter Berücksichtigung der nationalen und internationalen rechtlichen Rahmenbedingungen mitzugestalten. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. nationale und internationale Ausschreibungen und Anfragen gestalten und unter Berücksichtigung der Verfahrens- und Vergabearten durchführen a)Verfahrens- und Vergabearten bewerten und auswählen,b)Gestalten und Formulieren von Ausschreibungen und Anfragen,c)Anbieterkreis abstimmen und festlegen,d)Anfragen stellen und Ausschreibungen veröffentlichen; Verfahrens- und Vergabearten bewerten und auswählen, Gestalten und Formulieren von Ausschreibungen und Anfragen, Anbieterkreis abstimmen und festlegen, Anfragen stellen und Ausschreibungen veröffentlichen;
 
-a)
+2. Angebote prüfen und vergleichen a)Angebote unter Berücksichtigung der geforderten Spezifikationen sowie formeller Gesichtspunkte prüfen,b)Angebotsvergleich durchführen und Angebote bewerten; Angebote unter Berücksichtigung der geforderten Spezifikationen sowie formeller Gesichtspunkte prüfen, Angebotsvergleich durchführen und Angebote bewerten;
 
-b)
+3. Einkaufs- und Vertragsverhandlungen durchführen und abschließen a)Einkaufsverhandlungen vorbereiten,b)Verhandlungen unter Einbeziehung strategischer und taktischer Gesichtspunkte durchführen,c)Verträge unter Berücksichtigung der nationalen und internationalen rechtlichen Rahmenbedingungen mitgestalten und abschließen; Einkaufsverhandlungen vorbereiten, Verhandlungen unter Einbeziehung strategischer und taktischer Gesichtspunkte durchführen, Verträge unter Berücksichtigung der nationalen und internationalen rechtlichen Rahmenbedingungen mitgestalten und abschließen;
 
-c)
-
-d)
-
-2.
-
-a)
-
-b)
-
-3.
-
-a)
-
-b)
-
-c)
-
-4.
-
-a)
-
-b)
-
-c)
+4. Einkaufsabwicklung koordinieren a)Bestellungen auslösen,b)die Einhaltung der Qualitätsanforderungen, der rechtlichen Rahmenbedingungen sowie der Termine sicherstellen,c)Maßnahmen bei Vertragsstörungen ergreifen. Bestellungen auslösen, die Einhaltung der Qualitätsanforderungen, der rechtlichen Rahmenbedingungen sowie der Termine sicherstellen, Maßnahmen bei Vertragsstörungen ergreifen.
 
 (5) Im Handlungsbereich „Einkaufscontrolling durchführen“ soll die Fähigkeit nachgewiesen werden, einkaufsrelevante Planungen durchzuführen, Ziele zu vereinbaren, Zielerreichung und Mehrwert zu überwachen, zu dokumentieren und darzustellen sowie Optimierungspotenziale in Bezug auf das Unternehmensergebnis und die Wertschöpfung aufzuzeigen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. beschaffungsrelevante Planungen durchführen a)beschaffungsrelevante Berechnungen und Kalkulationen im Kontext der jeweiligen Produkte und Prozesse durchführen,b)Einsparungspotenziale in den relevanten Beschaffungsfeldern ermitteln und aufzeigen,c)Preisveränderungen und den Mehrwert aufzeigen; beschaffungsrelevante Berechnungen und Kalkulationen im Kontext der jeweiligen Produkte und Prozesse durchführen, Einsparungspotenziale in den relevanten Beschaffungsfeldern ermitteln und aufzeigen, Preisveränderungen und den Mehrwert aufzeigen;
 
-a)
-
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-c)
+2. Ziele vereinbaren und die Zielerreichung überwachen, dokumentieren und berichten a)Ziele anhand von Kennzahlen festlegen,b)Prognosen zur Zielerreichung erstellen und gegebenenfalls Maßnahmen ableiten,c)einkaufsrelevante Berichte erstellen und Optimierungspotenziale aufzeigen. Ziele anhand von Kennzahlen festlegen, Prognosen zur Zielerreichung erstellen und gegebenenfalls Maßnahmen ableiten, einkaufsrelevante Berichte erstellen und Optimierungspotenziale aufzeigen.
 
 (6) Im Handlungsbereich „Kommunikation, Führung und Zusammenarbeit“ soll die Fähigkeit nachgewiesen werden, zielorientiert mit Mitarbeitern, Auszubildenden, Geschäftspartnern und Kunden zu kommunizieren und zu kooperieren, Methoden der Kommunikation und des Konfliktmanagements situationsgerecht einzusetzen und ethische Grundsätze zu berücksichtigen. Darüber hinaus soll gezeigt werden, dass Mitarbeiter, Auszubildende und Projektgruppen unter Beachtung der rechtlichen und betrieblichen Rahmenbedingungen sowie der Unternehmensziele geführt und motiviert werden können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. situationsgerechtes Kommunizieren mit internen und externen Partnern sowie zielgerichtetes Einsetzen von Präsentationstechniken a)Kommunikation aa)im Team und zwischen den Abteilungen gestalten,bb)mit externen Partnern gestalten,cc)interkulturelle Anforderungen beachten,dd)Stress- und Konfliktsituationen gestalten,b)Präsentationen zielgruppengerecht durchführen; Kommunikation aa)im Team und zwischen den Abteilungen gestalten,bb)mit externen Partnern gestalten,cc)interkulturelle Anforderungen beachten,dd)Stress- und Konfliktsituationen gestalten, im Team und zwischen den Abteilungen gestalten, mit externen Partnern gestalten, interkulturelle Anforderungen beachten, Stress- und Konfliktsituationen gestalten, Präsentationen zielgruppengerecht durchführen;
 
-a)
+2. Festlegen und Begründen von Kriterien für die Personalauswahl sowie Mitwirken bei der Personalrekrutierung a)aus den Unternehmenszielen die Anforderungen an das Personalmanagement ableiten,b)den Personalbedarf im eigenen Aufgabenbereich ermitteln,c)Anforderungsprofile für erforderliches Personal im eigenen Aufgabenbereich erstellen,d)Prozesse der Personalbeschaffung unterstützen,e)bei der Personalauswahl mitwirken; aus den Unternehmenszielen die Anforderungen an das Personalmanagement ableiten, den Personalbedarf im eigenen Aufgabenbereich ermitteln, Anforderungsprofile für erforderliches Personal im eigenen Aufgabenbereich erstellen, Prozesse der Personalbeschaffung unterstützen, bei der Personalauswahl mitwirken;
 
-aa)
+3. Planen und Steuern des Personaleinsatzes a)operative Personaleinsatzplanung durchführen,b)Prozesse der Personalbetreuung und Personalverwaltung unterstützen; operative Personaleinsatzplanung durchführen, Prozesse der Personalbetreuung und Personalverwaltung unterstützen;
 
-bb)
+4. Anwenden von situationsgerechten Führungsmethoden a)Situationen der verantworteten Organisationseinheit und Führungsverhalten analysieren,b)Führungsaufgaben, Führungstechniken und Führungsinstrumente situationsbezogen einsetzen; Situationen der verantworteten Organisationseinheit und Führungsverhalten analysieren, Führungsaufgaben, Führungstechniken und Führungsinstrumente situationsbezogen einsetzen;
 
-cc)
+5. Planen und Durchführen der Berufsausbildung a)Anforderungen an die Ausbilder und den Ausbildungsbetrieb beachten,b)Beteiligte und Mitwirkende an der Ausbildung festlegen,c)betriebliche Ausbildungsabläufe planen,d)Ausbildung durchführen,e)Prüfungsvorbereitung und -teilnahme sicherstellen; Anforderungen an die Ausbilder und den Ausbildungsbetrieb beachten, Beteiligte und Mitwirkende an der Ausbildung festlegen, betriebliche Ausbildungsabläufe planen, Ausbildung durchführen, Prüfungsvorbereitung und -teilnahme sicherstellen;
 
-dd)
+6. Fördern der beruflichen Entwicklung und Weiterbildung von Mitarbeiterinnen und Mitarbeitern a)Personalentwicklungsplanung erstellen,b)personelle und betriebliche Maßnahmen veranlassen,c)Erfolgskontrolle und Anpassung der Förderung durchführen; Personalentwicklungsplanung erstellen, personelle und betriebliche Maßnahmen veranlassen, Erfolgskontrolle und Anpassung der Förderung durchführen;
 
-b)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-3.
-
-a)
-
-b)
-
-4.
-
-a)
-
-b)
-
-5.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-6.
-
-a)
-
-b)
-
-c)
-
-7.
-
-a)
-
-b)
-
-c)
+7. Gestalten des Arbeits- und Gesundheitsschutzes a)Arbeitsschutz im Betrieb gewährleisten,b)Gesundheitsschutz im Betrieb fördern,c)Unterweisungen und Dokumentation im Arbeits- und Gesundheitsschutz sicherstellen. Arbeitsschutz im Betrieb gewährleisten, Gesundheitsschutz im Betrieb fördern, Unterweisungen und Dokumentation im Arbeits- und Gesundheitsschutz sicherstellen.
 
 ### § 5 — Befreiung von einzelnen Prüfungsbestandteilen
 
@@ -288,15 +156,11 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (2) Im schriftlichen Prüfungsteil sind die beiden Teilleistungen nach § 3 Absatz 3 jeweils einzeln zu bewerten. Aus den beiden Teilleistungen wird als zusammengefasste Bewertung der schriftlichen Prüfung das arithmetische Mittel berechnet.
 
-(3) Im mündlichen Prüfungsteil sind als Prüfungsleistungen jeweils einzeln zu bewerten: Aus den einzelnen Bewertungen des Fachgesprächs und der Präsentation wird als zusammengefasste Bewertung der mündlichen Prüfung das gewichtete arithmetische Mittel berechnet. Dabei sind die Bewertungen wie folgt zu gewichten:
+(3) Im mündlichen Prüfungsteil sind als Prüfungsleistungen jeweils einzeln zu bewerten:
 
-1.
+1. die Präsentation nach § 3 Absatz 4 bis 6,
 
-2.
-
-1.
-
-2.
+2. das Fachgespräch nach § 3 Absatz 4 und 7.
 
 ### § 7 — Bestehen der Prüfung, Gesamtnote
 
@@ -304,9 +168,9 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (2) Ist die Prüfung bestanden, sind die folgenden Punktebewertungen jeweils kaufmännisch auf eine ganze Zahl zu runden:
 
-1.
+1. die zusammengefasste Bewertung der schriftlichen Prüfung,
 
-2.
+2. die zusammengefasste Bewertung der mündlichen Prüfung.
 
 (3) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das arithmetische Mittel der beiden Prüfungsteile zu berechnen. Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl ist nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
 
@@ -318,9 +182,9 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur Information (Bemerkungen) enthalten, insbesondere
 
-1.
+1. über den erworbenen Abschluss oder
 
-2.
+2. auf Antrag der geprüften Person über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 ### § 9 — Wiederholung der Prüfung
 
@@ -334,7 +198,7 @@ Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom schriftlichen Tei
 
 ### § 11 — Übergangsvorschriften
 
-(1) Nach der Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Einkauf und Geprüfte Fachwirtin für Einkauf vom 21. August 2014 (BGBl. I S. 1466), die durch Artikel 75 der Verordnung vom 9. Dezember 2019 (BGBl. I S. 2153) geändert worden ist, begonnene Prüfungsverfahren sind nach den Vorschriften der vorstehend bezeichneten Verordnung zu Ende zu führen. Die zuständige Stelle hat auf Antrag der zu prüfenden Person eine erforderliche Wiederholungsprüfung nach dieser Verordnung durchzuführen.
+(1) Nach der Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Einkauf und Geprüfte Fachwirtin für Einkauf vom 21. August 2014 (BGBl. I S. 1466), die durch Artikel 75 der Verordnung vom 9. Dezember 2019 (BGBl. I S. 2153) geändert worden ist, begonnene Prüfungsverfahren sind nach den Vorschriften der vorstehend bezeichneten Verordnung zu Ende zu führen. Die zuständige Stelle hat auf Antrag der zu prüfenden Person eine erforderliche Wiederholungsprüfung nach dieser Verordnung durchzuführen.
 
 (2) Bei einer Anmeldung zur Prüfung ab dem 1. Januar 2020 hat die zuständige Stelle auf Antrag der zu prüfenden Person die Prüfung nach dieser Verordnung durchzuführen. Nach der in Absatz 1 Satz 1 bezeichneten Verordnung erfolgreich abgelegte Prüfungsbestandteile sind auf die nach dieser Verordnung erforderlichen Prüfungsbestandteile anzurechnen.
 
@@ -346,34 +210,30 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt 
 
 ### Anlage 2 — (zu § 8)
 
-Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
 
-1.
+2. Name und Geburtsdatum der geprüften Person,
 
-2.
+3. Datum des Bestehens der Prüfung,
 
-3.
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 5,
 
-4.
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
 
-5.
-
-6.
-
-Teil B – Zeugnis mit Prüfungsergebnissen:
+6. Datum der Ausstellung des Zeugnisses samt Faksimile oder Unterschrift einer zeichnungsberechtigten Person der zuständigen Stelle.
 
 Alle Angaben des Teils A sowie zusätzlich:
 
-1.
+1. Benennung der Handlungsbereiche der Prüfung,
 
-2.
+2. Bewertung der schriftlichen und der mündlichen Prüfung,
 
-3.
+3. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
 
-4.
+4. die Gesamtnote als Dezimalzahl,
 
-5.
+5. die Gesamtnote in Worten,
 
-6.
+6. Befreiungen nach § 5,
 
-7.
+7. Bescheinigung der Befreiung vom schriftlichen Teil der Prüfung nach der Ausbilder-Eignungsverordnung nach § 10.

@@ -16,7 +16,11 @@ Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vo
 
 ### § 1 — Staatliche Anerkennung der Ausbildungsberufe
 
-Die Ausbildungsberufe 1.Technischer Produktdesigner und Technische Produktdesignerin,2.Technischer Systemplaner und Technische Systemplanerinwerden nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
+Die Ausbildungsberufe werden nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
+
+1.
+
+2.
 
 ### § 2 — Dauer der Berufsausbildung
 
@@ -24,107 +28,807 @@ Die Ausbildungen dauern jeweils dreieinhalb Jahre.
 
 ### § 3 — Struktur der Berufsausbildung
 
-(1) Die Ausbildungen gliedern sich wie folgt: 1.für beide Ausbildungsberufe in gemeinsame Qualifikationen über zwölf Monate,2.für jeden Ausbildungsberuf in spezifische Qualifikationen sowie3.im Ausbildungsberuf Technischer Produktdesigner und Technische Produktdesignerin in die Fachrichtungen a)Produktgestaltung und -konstruktion,b)Maschinen- und Anlagenkonstruktion,4.im Ausbildungsberuf Technischer Systemplaner und Technische Systemplanerin in die Fachrichtungen a)Versorgungs- und Ausrüstungstechnik,b)Stahl- und Metallbautechnik,c)Elektrotechnische Systeme.(2) Die gemeinsamen Qualifikationen und die jeweiligen spezifischen und fachrichtungsspezifischen Qualifikationen werden verteilt über die gesamte Ausbildungszeit vermittelt.
+(1) Die Ausbildungen gliedern sich wie folgt:
+
+1.
+
+2.
+
+3.
+
+a)
+
+b)
+
+4.
+
+a)
+
+b)
+
+c)
+
+(2) Die gemeinsamen Qualifikationen und die jeweiligen spezifischen und fachrichtungsspezifischen Qualifikationen werden verteilt über die gesamte Ausbildungszeit vermittelt.
 
 ## Teil 2: Vorschriften für den Ausbildungsberuf zum Technischen Produktdesigner und zur Technischen Produktdesignerin
 
 ### § 4 — Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan (Anlage 2, Zeitliche Gliederung) abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.(2) Die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin gliedert sich wie folgt (Ausbildungsberufsbild):Abschnitt A Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Absatz 1 Nummer 1: 1.Erstellen und Anwenden technischer Dokumente,2.Rechnergestützt Konstruieren,3.Unterscheiden von Werkstoffen,4.Unterscheiden von Fertigungsverfahren und Montagetechniken,5.Ausführen von Berechnungen;Abschnitt B Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Absatz 1 Nummer 2: 1.Beurteilen von Werk- und Hilfsstoffen,2.Produktentwicklung: 2.1Produktentstehungsprozess,2.2Planen und Konzipieren von Bauteilen und Baugruppen,2.3Entwerfen, Ausarbeiten und Berechnen von Bauteilen und Baugruppen,3.Auswählen von Fertigungs- und Fügeverfahren sowie Montagetechniken,4.Ausführen von Simulationen;Abschnitt C Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Produktgestaltung und -konstruktion nach § 3 Absatz 1 Nummer 3 Buchstabe a: 1.Gestalten und Entwerfen von Objekten,2.Konstruieren mit Freiformflächen,3.Konstruieren von Objekten,4.Simulation und Präsentation;Abschnitt D Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Maschinen- und Anlagenkonstruktion nach § 3 Absatz 1 Nummer 3 Buchstabe b: 1.Ändern und Prüfen von Werkstoffeigenschaften,2.Erstellen von Konstruktionen,3.Fertigungstechnik,4.Füge- und Montagetechnik,5.Steuerungs- und Elektrotechnik;Abschnitt E Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Absatz 1 Nummer 1: 1.Berufsbildung, Arbeits- und Tarifrecht,2.Aufbau und Organisation des Ausbildungsbetriebes,3.Sicherheit und Gesundheitsschutz bei der Arbeit,4.Umweltschutz,5.Anwenden von Informations- und Kommunikationstechniken,6.Arbeitsplanung und -organisation,7.Durchführen von qualitätssichernden Maßnahmen,8.Kundenorientierung.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan (Anlage 2, Zeitliche Gliederung) abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
+
+(2) Die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin gliedert sich wie folgt (Ausbildungsberufsbild):Abschnitt A Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Absatz 1 Nummer 1: Abschnitt B Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Absatz 1 Nummer 2: Abschnitt C Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Produktgestaltung und -konstruktion nach § 3 Absatz 1 Nummer 3 Buchstabe a: Abschnitt D Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Maschinen- und Anlagenkonstruktion nach § 3 Absatz 1 Nummer 3 Buchstabe b: Abschnitt E Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Absatz 1 Nummer 1:
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+1.
+
+2.
+
+2.1
+
+2.2
+
+2.3
+
+3.
+
+4.
+
+1.
+
+2.
+
+3.
+
+4.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
 
 ### § 5 — Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in Prüfungen nach den §§ 6 bis 8 und 10 bis 12 nachzuweisen.(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in Prüfungen nach den §§ 6 bis 8 und 10 bis 12 nachzuweisen.
+
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
+
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 ### § 6 — Abschlussprüfung in der Fachrichtung Produktgestaltung und -konstruktion
 
-(1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 30 Prozent und Teil 2 der Abschlussprüfung mit 70 Prozent gewichtet.
+(1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
+
+(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 30 Prozent und Teil 2 der Abschlussprüfung mit 70 Prozent gewichtet.
 
 ### § 7 — Teil 1 der Abschlussprüfung in der Fachrichtung Produktgestaltung und -konstruktion
 
-(1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 2 für das erste bis dritte Ausbildungshalbjahr aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.(3) Teil 1 der Abschlussprüfung findet in dem Prüfungsbereich Technische Dokumente statt.(4) Für den Prüfungsbereich Technische Dokumente bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er a)Arbeitsschritte planen, dokumentieren und in den Produktentstehungsprozess einordnen,b)Freihandskizzen erstellen,c)strukturierte 3D-Datensätze nach geometrischen sowie nach fertigungs- und werkstofftechnischen Besonderheiten erstellen und ändern,d)Berechnungen durchführen unde)technische Dokumente erstellen und dabei insbesondere Zeichnungen in Ansichten und Schnitten ableiten sowie Bemaßungen, Toleranzen, Passungen und Oberflächenbeschaffenheit beurteilen und eintragenkann;2.der Prüfling soll dazu ein Prüfungsprodukt erstellen und darauf bezogene Aufgaben schriftlich lösen;3.die Prüfungszeit beträgt insgesamt sieben Stunden; davon für die Erstellung des Prüfungsproduktes fünfeinhalb Stunden und für die schriftlich zu lösenden Aufgaben 90 Minuten.
+(1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.
+
+(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 2 für das erste bis dritte Ausbildungshalbjahr aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+
+(3) Teil 1 der Abschlussprüfung findet in dem Prüfungsbereich Technische Dokumente statt.
+
+(4) Für den Prüfungsbereich Technische Dokumente bestehen folgende Vorgaben:
+
+1.
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+2.
+
+3.
 
 ### § 8 — Teil 2 der Abschlussprüfung in der Fachrichtung Produktgestaltung und -konstruktion
 
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.(2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen: 1.Arbeitsauftrag,2.Produktentwicklung,3.Wirtschafts- und Sozialkunde.(3) Für den Prüfungsbereich Arbeitsauftrag bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er a)Arbeitsaufträge analysieren, Informationen beschaffen, technische und organisatorische Schnittstellen klären,b)Methoden des betrieblichen Projektmanagements anwenden,c)Lösungsvarianten entwickeln und skizzieren und unter gestalterischen, technischen, betriebswirtschaftlichen und ökologischen Gesichtspunkten bewerten und auswählen,d)methodisch konstruieren, insbesondere funktions-, fertigungs-, beanspruchungs- und prüfgerecht, dazu einen 3D-Datensatz sowie technische Dokumente anfertigen,e)Berechnungen, Simulationen und Animationen durchführen undf)Dokumentationen und Präsentationen erstellenkann;2.Prüfungsvariante 1 a)der Prüfling soll einen betrieblichen Auftrag durchführen, mit praxisbezogenen Unterlagen dokumentieren, seinen Arbeitsauftrag, die Durchführung und die Arbeitsergebnisse präsentieren und dazu ein auftragsbezogenes Fachgespräch führen; das Fachgespräch wird in Bezug auf den 3D-Datensatz, die Dokumentationen und die praxisbezogenen Unterlagen geführt; dem Prüfungsausschuss ist vor der Durchführung des betrieblichen Auftrags die Aufgabenstellung einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen;b)die Prüfungszeit für die Durchführung des betrieblichen Auftrags einschließlich Dokumentation beträgt insgesamt 70 Stunden, für die Präsentation höchstens zehn Minuten und für das auftragsbezogene Fachgespräch höchstens 20 Minuten;3.Prüfungsvariante 2 a)der Prüfling soll ein Prüfungsprodukt, das einem betrieblichen Auftrag entspricht, erstellen, mit praxisbezogenen Unterlagen dokumentieren, seinen Arbeitsauftrag, die Durchführung und die Arbeitsergebnisse präsentieren und dazu ein auftragsbezogenes Fachgespräch führen; das Fachgespräch wird in Bezug auf den 3D-Datensatz, die Dokumentationen und die praxisbezogenen Unterlagen geführt;b)die Prüfungszeit für die Erstellung des Prüfungsproduktes einschließlich Dokumentation beträgt insgesamt 70 Stunden, für die Präsentation höchstens zehn Minuten und für das auftragsbezogene Fachgespräch höchstens 20 Minuten;4.der Ausbildungsbetrieb wählt die Prüfungsvariante nach Nummer 2 oder 3 aus und teilt sie dem Prüfling und der zuständigen Stelle mit der Anmeldung zur Prüfung mit.(4) Für den Prüfungsbereich Produktentwicklung bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er a)mit Informations- und Kommunikationssystemen umgehen,b)Angaben in technischen Dokumenten erläutern,c)Funktionen analysieren und beschreiben, auch in englischer Sprache,d)Fertigungs- und Fügeverfahren sowie Montagetechniken beurteilen,e)Werkstoffanforderungen und -eigenschaften beurteilen,f)technische Berechnungen durchführen,g)Gestaltungsmöglichkeiten beschreiben,h)qualitätssichernde Maßnahmen durchführen,i)Methoden des Projektmanagements im Produktentwicklungsprozess anwenden undj)mit dem Kunden, auch in englischer Sprache, kommunizierenkann;2.der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;3.die Prüfungszeit beträgt 150 Minuten.(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;2.der Prüfling soll praxisbezogene Aufgaben schriftlich lösen;3.die Prüfungszeit beträgt 60 Minuten.
+(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+
+(2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen:
+
+1.
+
+2.
+
+3.
+
+(3) Für den Prüfungsbereich Arbeitsauftrag bestehen folgende Vorgaben:
+
+1.
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+2.
+
+a)
+
+b)
+
+3.
+
+a)
+
+b)
+
+4.
+
+(4) Für den Prüfungsbereich Produktentwicklung bestehen folgende Vorgaben:
+
+1.
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
+i)
+
+j)
+
+2.
+
+3.
+
+(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
+
+1.
+
+2.
+
+3.
 
 ### § 9 — Gewichtungs- und Bestehensregelungen in der Fachrichtung Produktgestaltung und -konstruktion
 
-(1) Die Prüfungsbereiche sind wie folgt zu gewichten:1.Prüfungsbereich Technische Dokumente30 Prozent,2.Prüfungsbereich Arbeitsauftrag35 Prozent,3.Prüfungsbereich Produktentwicklung25 Prozent,4.Prüfungsbereich Wirtschafts- und Sozialkunde10 Prozent.(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen 1.im Gesamtergebnis von Teil 1 und 2 der Abschlussprüfung mit mindestens „ausreichend“,2.im Prüfungsbereich Arbeitsauftrag mit mindestens „ausreichend“,3.im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,4.in mindestens einem der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und5.in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“bewertet worden sind.(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(1) Die Prüfungsbereiche sind wie folgt zu gewichten:
+
+(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen bewertet worden sind.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 ### § 10 — Abschlussprüfung in der Fachrichtung Maschinen- und Anlagenkonstruktion
 
-(1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 30 Prozent und Teil 2 der Abschlussprüfung mit 70 Prozent gewichtet.
+(1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
+
+(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 30 Prozent und Teil 2 der Abschlussprüfung mit 70 Prozent gewichtet.
 
 ### § 11 — Teil 1 der Abschlussprüfung in der Fachrichtung Maschinen- und Anlagenkonstruktion
 
-(1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 2 für das erste bis dritte Ausbildungshalbjahr aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.(3) Teil 1 der Abschlussprüfung findet in dem Prüfungsbereich Technische Dokumente statt.(4) Für den Prüfungsbereich Technische Dokumente bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er a)Arbeitsschritte planen, dokumentieren und in den Produktentstehungsprozess einordnen,b)Freihandskizzen erstellen,c)strukturierte 3D-Datensätze nach geometrischen sowie nach fertigungs- und werkstofftechnischen Besonderheiten erstellen und ändern,d)Berechnungen durchführen unde)technische Dokumente erstellen und dabei insbesondere Zeichnungen in Ansichten und Schnitten ableiten sowie Bemaßungen, Toleranzen, Passungen und Oberflächenbeschaffenheit eintragenkann;2.der Prüfling soll dazu ein Prüfungsprodukt erstellen und darauf bezogene Aufgaben schriftlich lösen;3.die Prüfungszeit beträgt insgesamt sieben Stunden; davon für die Erstellung des Prüfungsproduktes fünfeinhalb Stunden und für die schriftlich zu lösenden Aufgaben 90 Minuten.
+(1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.
+
+(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 2 für das erste bis dritte Ausbildungshalbjahr aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+
+(3) Teil 1 der Abschlussprüfung findet in dem Prüfungsbereich Technische Dokumente statt.
+
+(4) Für den Prüfungsbereich Technische Dokumente bestehen folgende Vorgaben:
+
+1.
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+2.
+
+3.
 
 ### § 12 — Teil 2 der Abschlussprüfung in der Fachrichtung Maschinen- und Anlagenkonstruktion
 
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.(2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen: 1.Arbeitsauftrag,2.Entwicklung und Konstruktion,3.Wirtschafts- und Sozialkunde.(3) Für den Prüfungsbereich Arbeitsauftrag bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er a)Arbeitsaufträge analysieren, Informationen beschaffen, technische und organisatorische Schnittstellen klären,b)Lösungsvarianten unter technischen, betriebswirtschaftlichen und ökologischen Gesichtspunkten bewerten und auswählen,c)Methoden des betrieblichen Projektmanagements anwenden,d)funktions-, fertigungs-, beanspruchungs- und prüfgerecht konstruieren,e)methodisch konstruieren, Berechnungen durchführen sowie notwendige technische Dokumente ableiten undf)Dokumentationen und Präsentationen erstellenkann;2.Prüfungsvariante 1 a)der Prüfling soll einen betrieblichen Auftrag durchführen, mit praxisbezogenen Unterlagen dokumentieren, seinen Arbeitsauftrag, die Durchführung und die Arbeitsergebnisse präsentieren und dazu ein auftragsbezogenes Fachgespräch führen; das Fachgespräch wird in Bezug auf den 3D-Datensatz, die Dokumentationen und die praxisbezogenen Unterlagen geführt; dem Prüfungsausschuss ist vor der Durchführung des betrieblichen Auftrags die Aufgabenstellung einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen;b)die Prüfungszeit für die Durchführung des betrieblichen Auftrags einschließlich Dokumentation beträgt insgesamt 70 Stunden, für die Präsentation höchstens zehn Minuten und für das auftragsbezogene Fachgespräch höchstens 20 Minuten;3.Prüfungsvariante 2 a)der Prüfling soll ein Prüfungsprodukt, das einem betrieblichen Auftrag entspricht, erstellen, mit praxisbezogenen Unterlagen dokumentieren, seinen Arbeitsauftrag, die Durchführung und die Arbeitsergebnisse präsentieren und dazu ein auftragsbezogenes Fachgespräch führen; das Fachgespräch wird in Bezug auf den 3D-Datensatz und die praxisbezogenen Unterlagen geführt;b)die Prüfungszeit für die Erstellung des Prüfungsproduktes einschließlich Dokumentation beträgt insgesamt 70 Stunden, für die Präsentation höchstens zehn Minuten und für das auftragsbezogene Fachgespräch höchstens 20 Minuten;4.der Ausbildungsbetrieb wählt die Prüfungsvariante nach Nummer 2 oder 3 aus und teilt sie dem Prüfling und der zuständigen Stelle mit der Anmeldung zur Prüfung mit.(4) Für den Prüfungsbereich Entwicklung und Konstruktion bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er a)mit Informations- und Kommunikationssystemen umgehen,b)Angaben in technischen Dokumenten erläutern,c)Funktionen analysieren und beschreiben, auch in englischer Sprache,d)Fertigungs- und Fügeverfahren sowie Montagetechniken beurteilen,e)Werkstoffanforderungen und -eigenschaften beurteilen,f)Toleranzen, Passungen und Oberflächenangaben anwenden und beurteilen,g)funktionale Zusammenhänge in der Steuerungs- und Elektrotechnik berücksichtigen,h)Maschinen- und Verbindungselemente verwenden,i)technische Berechnungen durchführen,j)qualitätssichernde Maßnahmen durchführen undk)mit dem Kunden, auch in englischer Sprache, kommunizierenkann;2.der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;3.die Prüfungszeit beträgt 150 Minuten.(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;2.der Prüfling soll praxisbezogene Aufgaben schriftlich lösen;3.die Prüfungszeit beträgt 60 Minuten.
+(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+
+(2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen:
+
+1.
+
+2.
+
+3.
+
+(3) Für den Prüfungsbereich Arbeitsauftrag bestehen folgende Vorgaben:
+
+1.
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+2.
+
+a)
+
+b)
+
+3.
+
+a)
+
+b)
+
+4.
+
+(4) Für den Prüfungsbereich Entwicklung und Konstruktion bestehen folgende Vorgaben:
+
+1.
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
+i)
+
+j)
+
+k)
+
+2.
+
+3.
+
+(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
+
+1.
+
+2.
+
+3.
 
 ### § 13 — Gewichtungs- und Bestehensregelungen in der Fachrichtung Maschinen- und Anlagenkonstruktion
 
-(1) Die Prüfungsbereiche sind wie folgt zu gewichten: 1.Prüfungsbereich Technische Dokumente30 Prozent,2.Prüfungsbereich Arbeitsauftrag35 Prozent,3.Prüfungsbereich Entwicklung und Konstruktion25 Prozent,4.Prüfungsbereich Wirtschafts- und Sozialkunde10 Prozent.(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen 1.im Gesamtergebnis von Teil 1 und 2 der Abschlussprüfung mit mindestens „ausreichend“,2.im Prüfungsbereich Arbeitsauftrag mit mindestens „ausreichend“,3.im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,4.in mindestens einem der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und5.in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“bewertet worden sind.(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(1) Die Prüfungsbereiche sind wie folgt zu gewichten:
+
+(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen bewertet worden sind.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 ## Teil 3: Vorschriften für den Ausbildungsberuf zum Technischen Systemplaner und zur Technischen Systemplanerin
 
 ### § 14 — Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 3, Sachliche Gliederung) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan (Anlage 4, Zeitliche Gliederung) abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.(2) Die Berufsausbildung zum Technischen Systemplaner und zur Technischen Systemplanerin gliedert sich wie folgt (Ausbildungsberufsbild):Abschnitt A Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Absatz 1 Nummer 1: 1.Erstellen und Anwenden technischer Dokumente,2.Rechnergestützt Konstruieren,3.Unterscheiden von Werkstoffen,4.Unterscheiden von Fertigungsverfahren und Montagetechniken,5.Ausführen von Berechnungen;Abschnitt B Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Absatz 1 Nummer 2: 1.Beurteilen von Werkstoffen und Korrosionsschutzverfahren,2.Beurteilen von Montage- und Fügeverfahren,3.Erstellen technischer Unterlagen,4.Anfertigen von Skizzen;Abschnitt C Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Versorgungs- und Ausrüstungstechnik nach § 3 Absatz 1 Nummer 4 Buchstabe a: 1.Erstellen technischer Unterlagen für die Versorgungs- und Ausrüstungstechnik,2.Ausführen von Detailkonstruktionen,3.Anfertigen von schematischen und perspektivischen Darstellungen,4.Anfertigen von technischen Dokumentationen für die Versorgungs- und Ausrüstungstechnik,5.Ausführen technischer Berechnungen,6.Beurteilen von Systemkomponenten;Abschnitt D Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Stahl- und Metallbautechnik nach § 3 Absatz 1 Nummer 4 Buchstabe b: 1.Erstellen technischer Unterlagen der Stahl- und Metallbautechnik,2.Entwerfen und Konstruieren,3.Berücksichtigen von bauphysikalischen Anforderungen,4.Durchführen von Berechnungen,5.Auswählen von Fertigungs-, Montage- und Fügeverfahren;Abschnitt E Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Elektrotechnische Systeme nach § 3 Absatz 1 Nummer 4 Buchstabe c: 1.Erstellen technischer Unterlagen für elektrotechnische Systeme,2.Ausführen von Berechnungen,3.Beurteilen und Anwenden von Systemkomponenten,4.Ausführen von Detailplänen,5.Anfertigen von schematischen und perspektivischen Darstellungen,6.Anfertigen von technischen Dokumentationen;Abschnitt F Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Absatz 1 Nummer 1: 1.Berufsbildung, Arbeits- und Tarifrecht,2.Aufbau und Organisation des Ausbildungsbetriebes,3.Sicherheit und Gesundheitsschutz bei der Arbeit,4.Umweltschutz,5.Anwenden von Informations- und Kommunikationstechniken,6.Arbeitsplanung und -organisation,7.Durchführen von qualitätssichernden Maßnahmen,8.Kundenorientierung.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 3, Sachliche Gliederung) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan (Anlage 4, Zeitliche Gliederung) abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
+
+(2) Die Berufsausbildung zum Technischen Systemplaner und zur Technischen Systemplanerin gliedert sich wie folgt (Ausbildungsberufsbild):Abschnitt A Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Absatz 1 Nummer 1: Abschnitt B Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Absatz 1 Nummer 2: Abschnitt C Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Versorgungs- und Ausrüstungstechnik nach § 3 Absatz 1 Nummer 4 Buchstabe a: Abschnitt D Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Stahl- und Metallbautechnik nach § 3 Absatz 1 Nummer 4 Buchstabe b: Abschnitt E Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Elektrotechnische Systeme nach § 3 Absatz 1 Nummer 4 Buchstabe c: Abschnitt F Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Absatz 1 Nummer 1:
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+1.
+
+2.
+
+3.
+
+4.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
 
 ### § 15 — Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in Prüfungen nach den §§ 16 bis 18, 20 bis 22 und 24 bis 26 nachzuweisen.(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in Prüfungen nach den §§ 16 bis 18, 20 bis 22 und 24 bis 26 nachzuweisen.
+
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
+
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 ### § 16 — Abschlussprüfung in der Fachrichtung Versorgungs- und Ausrüstungstechnik
 
-(1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 30 Prozent und Teil 2 der Abschlussprüfung mit 70 Prozent gewichtet.
+(1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
+
+(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 30 Prozent und Teil 2 der Abschlussprüfung mit 70 Prozent gewichtet.
 
 ### § 17 — Teil 1 der Abschlussprüfung in der Fachrichtung Versorgungs- und Ausrüstungstechnik
 
-(1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 4 für das erste bis dritte Ausbildungshalbjahr aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.(3) Teil 1 der Abschlussprüfung findet im Prüfungsbereich Erstellen technischer Unterlagen statt.(4) Für den Prüfungsbereich Erstellen technischer Unterlagen bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er a)Grundkörper in Ansichten darstellen,b)Bauteile in Ansichten und Schnitten darstellen,c)Skizzen anfertigen,d)technische Zeichnungen normgerecht bemaßen und ergänzen,e)Werkstoffe sowie Fertigungs- und Fügetechniken unterscheiden undf)Bauteildetails mit Hilfe von Stücklistenangaben und technischen Unterlagen auswählen und darstellenkann;2.der Prüfling soll dazu ein Prüfungsprodukt in Form einer technischen Zeichnung anfertigen und darauf bezogene Aufgaben schriftlich lösen;3.die Prüfungszeit beträgt insgesamt sieben Stunden; davon für die Erstellung des Prüfungsproduktes fünf Stunden und für die schriftlich zu lösenden Aufgaben 120 Minuten.
+(1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.
+
+(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 4 für das erste bis dritte Ausbildungshalbjahr aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+
+(3) Teil 1 der Abschlussprüfung findet im Prüfungsbereich Erstellen technischer Unterlagen statt.
+
+(4) Für den Prüfungsbereich Erstellen technischer Unterlagen bestehen folgende Vorgaben:
+
+1.
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+2.
+
+3.
 
 ### § 18 — Teil 2 der Abschlussprüfung in der Fachrichtung Versorgungs- und Ausrüstungstechnik
 
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 3 und 4 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.(2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen: 1.Arbeitsauftrag,2.Systemplanung,3.Wirtschafts- und Sozialkunde.(3) Für den Prüfungsbereich Arbeitsauftrag bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er a)Arbeitsaufträge analysieren, Informationen beschaffen, technische und organisatorische Schnittstellen klären,b)technische Zeichnungen unter Beachtung der Normen und Vorschriften mit Anlagenschema erstellen,c)Funktionszusammenhänge und Datenblätter erstellen,d)fachspezifische Berechnungen, insbesondere wärmetechnische und strömungstechnische Berechnungen durchführen,e)Kenndaten von Anlagenkomponenten unter Berücksichtigung von Schall- und Brandschutz ermitteln, gesetzliche Bestimmungen berücksichtigen undf)Fertigungsunterlagen und Materialzusammenstellungen erstellen sowie Befestigungssysteme auswählenkann;2.hierfür ist aus folgenden Gebieten auszuwählen: a)Heizungstechnik,b)Klimatechnik undc)Sanitärtechnik;3.Prüfungsvariante 1 a)der Prüfling soll einen betrieblichen Auftrag durchführen, mit praxisbezogenen Unterlagen dokumentieren, seinen Arbeitsauftrag, die Durchführung und die Arbeitsergebnisse präsentieren und dazu ein auftragsbezogenes Fachgespräch führen; das Fachgespräch wird in Bezug auf den Datensatz und die praxisbezogenen Unterlagen geführt; dem Prüfungsausschuss ist vor der Durchführung des betrieblichen Auftrags die Aufgabenstellung einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen;b)die Prüfungszeit für die Durchführung des betrieblichen Auftrags einschließlich Dokumentation beträgt insgesamt 40 Stunden, für die Präsentation höchstens zehn Minuten und für das auftragsbezogene Fachgespräch höchstens 20 Minuten;4.Prüfungsvariante 2 a)der Prüfling soll ein Prüfungsprodukt, das einem betrieblichen Auftrag entspricht, erstellen, mit praxisbezogenen Unterlagen dokumentieren, seinen Arbeitsauftrag, die Durchführung und die Arbeitsergebnisse präsentieren und dazu ein auftragsbezogenes Fachgespräch führen; das Fachgespräch wird in Bezug auf den Datensatz und die praxisbezogenen Unterlagen geführt;b)die Prüfungszeit für die Erstellung des Prüfungsproduktes einschließlich Dokumentation beträgt insgesamt 40 Stunden, für die Präsentation höchstens zehn Minuten und für das auftragsbezogene Fachgespräch höchstens 20 Minuten;5.der Ausbildungsbetrieb wählt die Prüfungsvariante nach Nummer 3 oder 4 aus und teilt sie dem Prüfling und der zuständigen Stelle mit der Anmeldung zur Prüfung mit.(4) Für den Prüfungsbereich Systemplanung bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er a)Skizzen oder Anlagenschemata oder Materialauszüge erstellen,b)Tabellenkalkulationen und Datenblätter unter Berücksichtigung der Normen und Richtlinien erstellen,c)Anlagenkomponenten nach Produktunterlagen, insbesondere Auslegungsdiagrammen, bestimmen,d)wärmetechnische und strömungstechnische Berechnungen durchführen,e)Wirkungsgrade berechnen,f)Eigenschaften von flüssigen und gasförmigen Medien bestimmen undg)Skizzen oder Funktionsschemata erstellenkann;2.der Prüfling soll praxisbezogene Aufgaben schriftlich lösen;3.die Prüfungszeit beträgt insgesamt 180 Minuten.(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;2.der Prüfling soll praxisbezogene Aufgaben schriftlich lösen;3.die Prüfungszeit beträgt 60 Minuten.
+(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 3 und 4 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+
+(2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen:
+
+1.
+
+2.
+
+3.
+
+(3) Für den Prüfungsbereich Arbeitsauftrag bestehen folgende Vorgaben:
+
+1.
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+2.
+
+a)
+
+b)
+
+c)
+
+3.
+
+a)
+
+b)
+
+4.
+
+a)
+
+b)
+
+5.
+
+(4) Für den Prüfungsbereich Systemplanung bestehen folgende Vorgaben:
+
+1.
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+2.
+
+3.
+
+(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
+
+1.
+
+2.
+
+3.
 
 ### § 19 — Gewichtungs- und Bestehensregelungen in der Fachrichtung Versorgungs- und Ausrüstungstechnik
 
-(1) Die Prüfungsbereiche sind wie folgt zu gewichten: 1.Prüfungsbereich Erstellen technischer Unterlagen30 Prozent,2.Prüfungsbereich Arbeitsauftrag35 Prozent,3.Prüfungsbereich Systemplanung25 Prozent,4.Prüfungsbereich Wirtschafts- und Sozialkunde10 Prozent.(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen 1.im Gesamtergebnis von Teil 1 und 2 der Abschlussprüfung mit mindestens „ausreichend“,2.im Prüfungsbereich Arbeitsauftrag mit mindestens „ausreichend“,3.im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,4.in mindestens einem der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und5.in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“bewertet worden sind.(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(1) Die Prüfungsbereiche sind wie folgt zu gewichten:
+
+(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen bewertet worden sind.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 ### § 20 — Abschlussprüfung in der Fachrichtung Stahl- und Metallbautechnik
 
-(1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 25 Prozent, Teil 2 der Abschlussprüfung mit 75 Prozent gewichtet.
+(1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
+
+(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 25 Prozent, Teil 2 der Abschlussprüfung mit 75 Prozent gewichtet.
 
 ### § 21 — Teil 1 der Abschlussprüfung in der Fachrichtung Stahl- und Metallbautechnik
 
-(1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 4 für das erste bis dritte Ausbildungshalbjahr aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.(3) Teil 1 der Abschlussprüfung besteht aus dem Prüfungsbereich Erstellen technischer Unterlagen.(4) Für den Prüfungsbereich Erstellen technischer Unterlagen bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er a)Grundkörper in Ansichten darstellen,b)Bauteile in Ansichten und Schnitten darstellen,c)Baugruppen aus Stahlprofilen perspektivisch darstellen,d)Skizzen anfertigen,e)technische Zeichnungen von Bauteilen normgerecht bemaßen und ergänzen,f)Werkstoffe sowie Fertigungs- und Fügetechniken unterscheiden undg)Bauteildetails mit Hilfe von Stücklistenangaben und technischen Unterlagen auswählen und darstellenkann;2.der Prüfling soll dazu ein Prüfungsprodukt in Form einer technischen Zeichnung anfertigen und darauf bezogene Aufgaben schriftlich lösen;3.die Prüfungszeit beträgt insgesamt sieben Stunden; davon für die Erstellung des Prüfungsproduktes fünf Stunden und für die schriftlich zu lösenden Aufgaben 120 Minuten.
+(1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.
+
+(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 4 für das erste bis dritte Ausbildungshalbjahr aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+
+(3) Teil 1 der Abschlussprüfung besteht aus dem Prüfungsbereich Erstellen technischer Unterlagen.
+
+(4) Für den Prüfungsbereich Erstellen technischer Unterlagen bestehen folgende Vorgaben:
+
+1.
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+2.
+
+3.
 
 ### § 22 — Teil 2 der Abschlussprüfung in der Fachrichtung Stahl- und Metallbautechnik
 
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 3 und 4 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.(2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen: 1.Konstruktionsauftrag,2.Baukonstruktion,3.Wirtschafts- und Sozialkunde.(3) Für den Prüfungsbereich Konstruktionsauftrag bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er a)technische Zeichnungen für Werkstatt und Baustelle mit den erforderlichen Ansichten, Schnitten und Einzelheiten herstellen und werkstatt- und montagegerecht bemaßen undb)Stücklisten erstellenkann;2.hierfür ist aus folgenden Gebieten auszuwählen: a)Stahlbautechnik undb)Metallbautechnik;3.der Prüfling soll ein Prüfungsprodukt in Form einer technischen Zeichnung erstellen und ein auftragsbezogenes Fachgespräch führen;4.die Prüfungszeit beträgt für das Prüfungsprodukt sieben Stunden und für das Fachgespräch 15 Minuten.(4) Für den Prüfungsbereich Baukonstruktion bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er a)Ergebnisse statischer und bauphysikalischer Berechnungen in die Zeichnungserstellung einfließen lassen,b)Systemmaße ermitteln,c)lösbare und nichtlösbare Verbindungen beurteilen und auswählen undd)Abwicklungen erstellenkann;2.der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;3.die Prüfungszeit beträgt insgesamt 180 Minuten.(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;2.der Prüfling soll praxisbezogene Aufgaben schriftlich lösen;3.die Prüfungszeit beträgt 60 Minuten.
+(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 3 und 4 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+
+(2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen:
+
+1.
+
+2.
+
+3.
+
+(3) Für den Prüfungsbereich Konstruktionsauftrag bestehen folgende Vorgaben:
+
+1.
+
+a)
+
+b)
+
+2.
+
+a)
+
+b)
+
+3.
+
+4.
+
+(4) Für den Prüfungsbereich Baukonstruktion bestehen folgende Vorgaben:
+
+1.
+
+a)
+
+b)
+
+c)
+
+d)
+
+2.
+
+3.
+
+(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
+
+1.
+
+2.
+
+3.
 
 ### § 23 — Gewichtungs- und Bestehensregelungen in der Fachrichtung Stahl- und Metallbautechnik
 
-(1) Die Prüfungsbereiche sind wie folgt zu gewichten: 1.Prüfungsbereich Erstellen technischer Unterlagen25 Prozent,2.Prüfungsbereich Konstruktionsauftrag40 Prozent,3.Prüfungsbereich Baukonstruktion25 Prozent,4.Prüfungsbereich Wirtschafts- und Sozialkunde10 Prozent.(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen 1.im Gesamtergebnis von Teil 1 und 2 der Abschlussprüfung mit mindestens „ausreichend“,2.im Prüfungsbereich Konstruktionsauftrag mit mindestens „ausreichend“,3.im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,4.in mindestens einem der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und5.in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“bewertet worden sind.(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(1) Die Prüfungsbereiche sind wie folgt zu gewichten:
+
+(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen bewertet worden sind.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 ### § 24 — Abschlussprüfung in der Fachrichtung Elektrotechnische Systeme
 
-(1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 30 Prozent, Teil 2 der Abschlussprüfung mit 70 Prozent gewichtet.
+(1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
+
+(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 30 Prozent, Teil 2 der Abschlussprüfung mit 70 Prozent gewichtet.
 
 ### § 25 — Teil 1 der Abschlussprüfung in der Fachrichtung Elektrotechnische Systeme
 
-(1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 4 für das erste bis dritte Ausbildungshalbjahr aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.(3) Teil 1 der Abschlussprüfung besteht aus dem Prüfungsbereich Erstellen technischer Unterlagen.(4) Für den Prüfungsbereich Erstellen technischer Unterlagen bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er a)Grundkörper in Ansichten darstellen,b)Bauteile in Ansichten und Schnitten darstellen,c)Skizzen anfertigen,d)technische Zeichnungen normgerecht bemaßen und ergänzen,e)Werkstoffe sowie Fertigungs- und Fügetechniken unterscheiden undf)Bauteildetails mit Hilfe von Stücklistenangaben und technischen Unterlagen auswählen und darstellen undg)technische Unterlagen der Installationstechnik entwerfen und ändernkann;2.der Prüfling soll dazu ein Prüfungsprodukt in Form einer technischen Zeichnung anfertigen und darauf bezogene Aufgaben schriftlich lösen;3.die Prüfungszeit beträgt insgesamt sieben Stunden; davon für die Erstellung des Prüfungsproduktes fünf Stunden und für die schriftlich zu lösenden Aufgaben 120 Minuten.
+(1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.
+
+(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 4 für das erste bis dritte Ausbildungshalbjahr aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+
+(3) Teil 1 der Abschlussprüfung besteht aus dem Prüfungsbereich Erstellen technischer Unterlagen.
+
+(4) Für den Prüfungsbereich Erstellen technischer Unterlagen bestehen folgende Vorgaben:
+
+1.
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+2.
+
+3.
 
 ### § 26 — Teil 2 der Abschlussprüfung in der Fachrichtung Elektrotechnische Systeme
 
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 3 und 4 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.(2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen: 1.Arbeitsauftrag,2.Systemplanung,3.Wirtschafts- und Sozialkunde.(3) Für den Prüfungsbereich Arbeitsauftrag bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er a)Arbeitsaufträge analysieren, Informationen beschaffen, technische und organisatorische Schnittstellen klären,b)technische Zeichnungen unter Beachtung der Normen und Vorschriften mit Übersichtsschalt- und Stromlaufplänen erstellen,c)Funktionszusammenhänge und Datenblätter erstellen,d)Berechnungen, insbesondere Querschnitts- und Leistungsberechnungen durchführen,e)Kenndaten von Anlagenkomponenten unter Berücksichtigung sicherheits-, brandschutz- und schallschutztechnischer Aspekte ermitteln, gesetzliche Bestimmungen berücksichtigen,f)Aufbauskizzen und Materialauszüge erstellen und Befestigungssysteme auswählen undg)Dokumentationen erstellenkann;2.Prüfungsvariante 1 a)der Prüfling soll einen betrieblichen Auftrag durchführen, mit praxisbezogenen Unterlagen dokumentieren, seinen Arbeitsauftrag, die Durchführung und die Arbeitsergebnisse präsentieren und dazu ein auftragsbezogenes Fachgespräch führen; das Fachgespräch wird in Bezug auf den Datensatz und die praxisbezogenen Unterlagen geführt; dem Prüfungsausschuss ist vor der Durchführung des betrieblichen Auftrags die Aufgabenstellung einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen;b)die Prüfungszeit für die Durchführung des betrieblichen Auftrags einschließlich Dokumentation beträgt insgesamt 40 Stunden, für die Präsentation höchstens zehn Minuten und für das auftragsbezogene Fachgespräch höchstens 20 Minuten;3.Prüfungsvariante 2 a)der Prüfling soll ein Prüfungsprodukt, das einem betrieblichen Auftrag entspricht, erstellen, mit praxisbezogenen Unterlagen dokumentieren, seinen Arbeitsauftrag, die Durchführung und die Arbeitsergebnisse präsentieren und dazu ein auftragsbezogenes Fachgespräch führen; das Fachgespräch wird in Bezug auf den Datensatz und die praxisbezogenen Unterlagen geführt;b)die Prüfungszeit für die Erstellung des Prüfungsproduktes einschließlich Dokumentation beträgt insgesamt 40 Stunden, für die Präsentation höchstens zehn Minuten und für das auftragsbezogene Fachgespräch höchstens 20 Minuten;4.der Ausbildungsbetrieb wählt die Prüfungsvariante nach Nummer 2 oder 3 aus und teilt sie dem Prüfling und der zuständigen Stelle mit der Anmeldung zur Prüfung mit.(4) Für den Prüfungsbereich Systemplanung bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er a)Beleuchtungsstärken berechnen,b)Querschnitts- und Leistungsberechnungen durchführen,c)Stromlaufpläne und Installationspläne zeichnen,d)Übersichtspläne erstellen unde)Skizzen oder Funktionsschemata oder Materialauszüge erstellenkann;2.der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;3.die Prüfungszeit beträgt insgesamt 180 Minuten.(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;2.der Prüfling soll praxisbezogene Aufgaben schriftlich lösen;3.die Prüfungszeit beträgt 60 Minuten.
+(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 3 und 4 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+
+(2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen:
+
+1.
+
+2.
+
+3.
+
+(3) Für den Prüfungsbereich Arbeitsauftrag bestehen folgende Vorgaben:
+
+1.
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+2.
+
+a)
+
+b)
+
+3.
+
+a)
+
+b)
+
+4.
+
+(4) Für den Prüfungsbereich Systemplanung bestehen folgende Vorgaben:
+
+1.
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+2.
+
+3.
+
+(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
+
+1.
+
+2.
+
+3.
 
 ### § 27 — Gewichtungs- und Bestehensregelungen in der Fachrichtung Elektrotechnische Systeme
 
-(1) Die Prüfungsbereiche sind wie folgt zu gewichten: 1.Prüfungsbereich Erstellen technischer Unterlagen30 Prozent,2.Prüfungsbereich Arbeitsauftrag35 Prozent,3.Prüfungsbereich Systemplanung25 Prozent,4.Prüfungsbereich Wirtschafts- und Sozialkunde10 Prozent.(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen 1.im Gesamtergebnis von Teil 1 und 2 der Abschlussprüfung mit mindestens „ausreichend“,2.im Prüfungsbereich Arbeitsauftrag mit mindestens „ausreichend“,3.im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,4.in mindestens einem der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und5.in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“bewertet worden sind.(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(1) Die Prüfungsbereiche sind wie folgt zu gewichten:
+
+(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen bewertet worden sind.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 ## Teil 4: Schlussvorschriften
 
@@ -138,16 +842,1478 @@ Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig treten die Techn
 
 ### Anlage 1 — (zu § 4 Absatz 1 Satz 1)
 
-(Fundstelle: BGBl. I 2011, 1227 - 1232)– Sachliche Gliederung –Abschnitt A: Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und FähigkeitenLfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten1231Erstellen und Anwenden technischer Dokumente (§ 4 Absatz 2 Abschnitt A Nummer 1)a)Normvorgaben zur Erstellung technischer Zeichnungen berücksichtigenb)geometrische Beziehungen unterscheidenc)Einzelteile und Baugruppen in Ansichten und Schnitten normgerecht darstellend)Regeln der Maßeintragung anwendene)Werkstücke räumlich darstellenf)Freihandskizzen anfertigen und bemaßeng)technische Begleitunterlagen, insbesondere Stücklisten, erstellen und pflegenh)technische Dokumentations- und Präsentationsunterlagen erstelleni)Stücklisten, Tabellen, Diagramme, Handbücher und Bedienungshinweise verwenden2Rechnergestützt Konstruieren (§ 4 Absatz 2 Abschnitt A Nummer 2)a)Datensätze für Einzelteile und Baugruppen nach technischen Vorgaben und eigenen Entwürfen erstellenb)Strukturierungsmethoden anwendenc)Zeichnungen ableiten oder erstellend)Symbole auswählen und verwendene)Kauf- und Normteile aus Bibliotheken und Katalogen auswählen und verwenden3Unterscheiden von Werkstoffen (§ 4 Absatz 2 Abschnitt A Nummer 3)a)Informationen über Werkstoffe hinsichtlich ihrer Eigenschaften, Bearbeitungs- und Verwendungsmöglichkeiten einholenb)Werkstoffe und Halbzeuge hinsichtlich ihrer Verfügbarkeit, Wirtschaftlichkeit und Umweltverträglichkeit unterscheidenc)Werkstoffnormung berücksichtigen4Unterscheiden von Fertigungsverfahren und Montagetechniken (§ 4 Absatz 2 Abschnitt A Nummer 4)a)branchentypische Fertigungs- und Fügeverfahren unterscheidenb)Montagetechniken unterscheiden5Ausführen von Berechnungen (§ 4 Absatz 2 Abschnitt A Nummer 5)a)Längen und Winkel sowie Flächen, Volumen und Massen berechnenb)Längen- und Volumenausdehnung berechnenAbschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und FähigkeitenLfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten1231Beurteilen von Werk- und Hilfsstoffen (§ 4 Absatz 2 Abschnitt B Nummer 1)a)Werkstoffe hinsichtlich ihrer Eigenschaften, Bearbeitungs- und Verwendungsmöglichkeiten beurteilenb)Hilfsstoffe unterscheiden und ihrer Verwendung nach zuordnenc)Werk- und Hilfsstoffe hinsichtlich ihrer Verfügbarkeit, Wirtschaftlichkeit und Umweltverträglichkeit beurteilend)Werkstoffnormung anwendene)Werkstoffeigenschaften in technischen Dokumenten beschreiben2Produktentwicklung (§ 4 Absatz 2 Abschnitt B Nummer 2)2.1Produktentstehungsprozess (§ 4 Absatz 2 Abschnitt B Nummer 2.1)a)den betrieblichen Produktentstehungsprozess berücksichtigenb)Inhalte und Aufgaben des eigenen Arbeitsfeldes dem Produktentstehungsprozess zuordnenc)Methoden des Projekt- und Prozessmanagements anwendend)Schritte der methodischen Konstruktion unterscheidene)analytische und statistische Werkzeuge zur Qualitätssicherung interpretieren und anwendenf)mit vor- und nachgelagerten Bereichen kommunizieren, die Schnittstellen identifizieren und Abstimmungen herbeiführeng)in den Phasen des Produktlebenszyklus, insbesondere Entwicklung und Konstruktion, Fertigung und Montage, Inbetriebnahme, Wartung und Instandhaltung, Service, Demontage und Entsorgung, die rechtlichen Vorgaben einhalten2.2Planen und Konzipieren von Bauteilen und Baugruppen (§ 4 Absatz 2 Abschnitt B Nummer 2.2)a)Konstruktionsarten unterscheidenb)Produktanforderungen definieren, Lastenheft, Pflichtenheft und Anforderungslisten unterscheiden sowie Qualitätsanforderungen berücksichtigenc)Kreativitätstechniken zur Lösungsfindung anwendend)Lösungen unter Berücksichtigung von technischen, wirtschaftlichen und ökologischen Kriterien entwickeln, bewerten und auswählene)Lösungen visualisieren und präsentieren2.3Entwerfen, Ausarbeiten und Berechnen von Bauteilen und Baugruppen (§ 4 Absatz 2 Abschnitt B Nummer 2.3)a)funktions-, fertigungs-, beanspruchungs-, montage- und prüfgerechte Anforderungen an Konstruktionen berücksichtigenb)Designvorgaben nach technischen und funktionalen Gesichtspunkten beachtenc)Bauteile und Halbzeuge nach Vorgaben und technischen Unterlagen auswählend)Verwendung von Norm- und Kaufteilen berücksichtigene)Werkstoffanforderungen und -eigenschaften berücksichtigenf)Toleranzen, Passungen und Oberflächen festlegeng)Detailkonstruktionen anfertigenh)konstruktive Änderungen vornehmeni)Füge- und Verbindungstechniken berücksichtigenj)Berechnungen zur Mechanik, insbesondere Geschwindigkeit, Kräfte und Kräftezerlegung sowie Drehmoment und Reibung, durchführenk)Festigkeitsberechnungen, insbesondere der Flächenpressung, Zug-, Druck- und Scherbeanspruchung, durchführenl)Arbeit, Leistung und Wirkungsgrad berechnenm)Datensätze erstellen und Datenqualität im Prozess sichernn)unterschiedliche Datenformate austauschen und anwenden3Auswählen von Fertigungs- und Fügeverfahren sowie Montagetechniken (§ 4 Absatz 2 Abschnitt B Nummer 3)a)Fertigungsverfahren im Konstruktionsprozess auswählenb)Montagetechnik und Fügeverfahren im Konstruktionsprozess auswählen4Ausführen von Simulationen (§ 4 Absatz 2 Abschnitt B Nummer 4)a)virtuelle Zusammenbauten erstellen und auf Kollision prüfenb)branchen- und betriebsspezifische Simulationsverfahren anwendenAbschnitt C: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Produktgestaltung und -konstruktionLfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten1231Gestalten und Entwerfen von Objekten (§ 4 Absatz 2 Abschnitt C Nummer 1)a)Produkt-, Wettbewerbs- und Patentrecherchen durchführenb)Stufen des Designprozesses, insbesondere Skizzen, CAD-Modelle und physikalische Modelle, unterscheidenc)Grundlagen der Gestaltung anwendend)Entwurfsskizzen erstellene)Objekte funktionsgerecht gestaltenf)Objekte unter Beachtung ergonomischer Richtlinien und rechtlicher Vorgaben gestalteng)Objekte unter Berücksichtigung von Materialeigenschaften gestalten2Konstruieren mit Freiformflächen (§ 4 Absatz 2 Abschnitt C Nummer 2)a)Kurvenarten unterscheidenb)Raumkurven erzeugenc)Kurven glättend)Kurvenübergänge erzeugen und beurteilene)Freiformflächen erzeugen und beurteilenf)Flächenübergänge erzeugen und beurteileng)Flächenverbände erzeugen und beurteilenh)Objekte mit Freiformflächen erstellen und beurteilen3Konstruieren von Objekten (§ 4 Absatz 2 Abschnitt C Nummer 3)a)Designvorgaben nach technischen, funktionalen und ästhetischen Gesichtspunkten umsetzenb)Objekte als Flächen-, Volumen- und Hybridmodell konstruierenc)Objekte funktions- und beanspruchungsgerecht konstruierend)Objekte unter Berücksichtigung von Fertigungstechniken, insbesondere Tiefziehen, Spritzgießen und Biegen, konstruierene)Objekte unter Berücksichtigung von Fügeverfahren und Montagetechniken, insbesondere Kleben, Schweißen, Clip- und Schnappverbindungen, konstruierenf)Objekte ergonomisch konstruiereng)Objekte unter Berücksichtigung von Werkstoffen, insbesondere Bleche, Kunststoff, Holz, Verbundwerkstoffe, Glas, Papier und Pappe, konstruierenh)Objekte, insbesondere unter Berücksichtigung von Berechnungs- und Versuchsergebnissen, optimieren4Simulation und Präsentation (§ 4 Absatz 2 Abschnitt C Nummer 4)a)Simulationen erstellen, nutzen und auswertenb)Verhalten von Bauteilen und Baugruppen durch virtuelle Bewegungssimulationen prüfenc)Objekte fotorealistisch präsentieren und animierend)Visualisierungstechniken anwendenAbschnitt D: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Maschinen- und AnlagenkonstruktionLfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten1231Ändern und Prüfen von Werkstoffeigenschaften (§ 4 Absatz 2 Abschnitt D Nummer 1)a)Verfahren zur Änderung von Werkstoffeigenschaften auswählenb)Prüfverfahren zur Feststellung der Werkstoffeigenschaften auswählen2Erstellen von Konstruktionen (§ 4 Absatz 2 Abschnitt D Nummer 2)a)Aufbau, Funktion und Wirkungsweise von Maschinenelementen, insbesondere Getriebe, Kupplungen und Vorrichtungen, auswählenb)Konstruktionen mit Funktionseinheiten, Standardteilen und Verbindungselementen entwickelnc)Gusskonstruktionen erstellend)Schweißkonstruktionen erstellen3Fertigungstechnik (§ 4 Absatz 2 Abschnitt D Nummer 3)a)Auswirkungen der Urformtechnik auf die Bemaßung, Gestaltung, Oberflächenbeschaffenheit und Messbarkeit von Bauteilen in der Konstruktion umsetzenb)Auswirkungen der Umformtechnik auf die Bemaßung, Gestaltung, Oberflächenbeschaffenheit und Messbarkeit von Bauteilen in der Konstruktion umsetzenc)Auswirkungen der Zerspanungstechnik auf die Bemaßung, Gestaltung, Oberflächenbeschaffenheit und Messbarkeit von Bauteilen in der Konstruktion umsetzend)fertigungstechnische Berechnungen durchführen4Füge- und Montagetechnik (§ 4 Absatz 2 Abschnitt D Nummer 4)a)Auswirkungen der Füge- und Montagetechniken auf die Gestaltung, Bemaßung, Oberflächenbeschaffenheit und Messbarkeit von Bauteilen in der Konstruktion umsetzenb)Toleranzen und Passungen berechnenc)Maschinen- oder Verbindungselemente beanspruchungs- und funktionsgerecht in Konstruktionen verwenden5Steuerungs- und Elektrotechnik (§ 4 Absatz 2 Abschnitt D Nummer 5)a)Elemente der Steuerungstechnik unterscheidenb)Schaltungen mit Bauelementen der Hydraulik und Elektropneumatik beurteilenc)grundlegende Gesetzmäßigkeiten der Elektrotechnik beachten und Grundgrößen berechnend)Größen der Steuerungstechnik, insbesondere Drücke und Kräfte, berechnene)Gefahren in der Steuerungs- und Elektrotechnik sowie die Anforderungen entsprechender Schutzmaßnahmen beachtenf)Schaltpläne der Steuerungs- und Elektrotechnik in CAD-Datensätze einbindenAbschnitt E: Gemeinsame integrative Fertigkeiten, Kenntnisse und FähigkeitenLfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten1231Berufsbildung, Arbeits- und Tarifrecht (§ 4 Absatz 2 Abschnitt E Nummer 1)a)Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklärenb)gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennenc)Möglichkeiten der beruflichen Fortbildung nennend)wesentliche Teile des Arbeitsvertrages nennene)wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen2Aufbau und Organisation des Ausbildungsbetriebes (§ 4 Absatz 2 Abschnitt E Nummer 2)a)Aufbau und Aufgaben des ausbildenden Betriebes erläuternb)Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklärenc)Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennend)Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben3Sicherheit und Gesundheitsschutz bei der Arbeit (§ 4 Absatz 2 Abschnitt E Nummer 3)a)Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifenb)berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwendenc)Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleitend)Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen4Umweltschutz (§ 4 Absatz 2 Abschnitt E Nummer 4)Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere a)mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklärenb)für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwendenc)Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzend)Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen5Anwenden von Informations- und Kommunikationstechniken (§ 4 Absatz 2 Abschnitt E Nummer 5)a)betriebliche Kommunikations- und Informationssysteme zur Übertragung von Daten, Bildern und Sprache anwendenb)Standardsoftware, insbesondere zur Tabellenkalkulation, Textverarbeitung und Präsentation, einsetzenc)Informationen, insbesondere auch englischsprachige, beschaffen, bewerten und nutzend)Daten pflegen und sicherne)Vorschriften zur Datensicherheit beachten6Arbeitsplanung und -organisation (§ 4 Absatz 2 Abschnitt E Nummer 6)a)Arbeitsaufträge und Vorgaben auf Umsetzbarkeit prüfenb)auftragsbezogene Informationen und Daten beschaffen, bewerten und nutzenc)Arbeitsschritte und -abläufe nach funktionalen, organisatorischen, fertigungstechnischen und wirtschaftlichen Kriterien festlegen und sicherstellend)rechtliche, betriebliche und technische Vorschriften beachtene)Arbeitsauftrag planen und mit vor- und nachgelagerten Bereichen abstimmenf)Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleicheng)Arbeitsergebnisse zusammenführen, erbrachte Leistungen kontrollieren und anhand der Vorgaben bewerten sowie dokumentierenh)Aufgaben im Team planen und bearbeiten; Teamergebnisse abstimmen, auswerten und präsentieren7Durchführen von qualitätssichernden Maßnahmen (§ 4 Absatz 2 Abschnitt E Nummer 7)a)Ziele und Aufgaben qualitätssichernder Maßnahmen beachtenb)qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, insbesondere Zwischen- und Endergebnisse prüfen und beurteilenc)Fehler und Qualitätsmängel sowie deren Ursachen erkennen und Maßnahmen zur Beseitigung der Ursachen ergreifen und dokumentierend)zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen8Kundenorientierung (§ 4 Absatz 2 Abschnitt E Nummer 8)a)kundenspezifische Anforderungen und Informationen entgegennehmen, im Betrieb weiterleiten und berücksichtigenb)Kunden unter Beachtung von betrieblichen Kommunikationsregeln informieren und beraten sowie Kundenanforderungen beachtenc)mit Kunden in englischer Sprache kommunizierend)kulturelle Identitäten berücksichtigen
+Abschnitt A: Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
+i)
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+a)
+
+b)
+
+Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
+i)
+
+j)
+
+k)
+
+l)
+
+m)
+
+n)
+
+a)
+
+b)
+
+a)
+
+b)
+
+Abschnitt C: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Produktgestaltung und -konstruktion
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
+a)
+
+b)
+
+c)
+
+d)
+
+Abschnitt D: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Maschinen- und Anlagenkonstruktion
+
+a)
+
+b)
+
+a)
+
+b)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+Abschnitt E: Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+a)
+
+b)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
+a)
+
+b)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
+
+d)
 
 ### Anlage 2 — (zu § 4 Absatz 1 Satz 2)
 
-(Fundstelle: BGBl. I 2011, 1233 - 1243)– Zeitliche Gliederung –Abschnitt 1Lfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und FähigkeitenZeitrahmen in Monaten12341Berufsbildung, Arbeits- und Tarifrecht (§ 4 Absatz 2 Abschnitt E Nummer 1)a)Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklärenb)gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennenc)Möglichkeiten der beruflichen Fortbildung nennend)wesentliche Teile des Arbeitsvertrages nennene)wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennenwährend der gesamten Ausbildung zu vermitteln2Aufbau und Organisation des Ausbildungsbetriebes (§ 4 Absatz 2 Abschnitt E Nummer 2)a)Aufbau und Aufgaben des ausbildenden Betriebes erläuternb)Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklärenc)Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennend)Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben3Sicherheit und Gesundheitsschutz bei der Arbeit (§ 4 Absatz 2 Abschnitt E Nummer 3)a)Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifenb)berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwendenc)Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleitend)Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen4Umweltschutz (§ 4 Absatz 2 Abschnitt E Nummer 4)Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere a)mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklärenb)für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwendenc)Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzend)Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführenAbschnitt 21. bis 3. Ausbildungshalbjahr:Zeitrahmen 1: Einfache Bauteile und Baugruppen darstellen Lfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten (Nach Lernzielen der Anlage 1)Zeitrahmen in Monaten12341Erstellen und Anwenden technischer Dokumente (§ 4 Absatz 2 Abschnitt A Nummer 1)a)Normvorgaben zur Erstellung technischer Zeichnungen berücksichtigenb)geometrische Beziehungen unterscheidenc)Einzelteile und Baugruppen in Ansichten und Schnitten normgerecht darstellend)Regeln der Maßeintragung anwendene)Werkstücke räumlich darstellenf)Freihandskizzen anfertigen und bemaßen4 bis 62Rechnergestützt Konstruieren (§ 4 Absatz 2 Abschnitt A Nummer 2)a)Datensätze für Einzelteile und Baugruppen nach technischen Vorgaben und eigenen Entwürfen erstellenb)Strukturierungsmethoden anwendene)Kauf- und Normteile aus Bibliotheken und Katalogen auswählen und verwenden3Unterscheiden von Werkstoffen (§ 4 Absatz 2 Abschnitt A Nummer 3)a)Informationen über Werkstoffe hinsichtlich ihrer Eigenschaften, Bearbeitungs- und Verwendungsmöglichkeiten einholen4Ausführen von Berechnungen (§ 4 Absatz 2 Abschnitt A Nummer 5)a)Längen und Winkel sowie Flächen, Volumen und Massen berechnen5Anwenden von Informations- und Kommunikationstechniken (§ 4 Absatz 2 Abschnitt E Nummer 5)a)betriebliche Kommunikations- und Informationssysteme zur Übertragung von Daten, Bildern und Sprache anwendenb)Standardsoftware, insbesondere zur Tabellenkalkulation, Textverarbeitung und Präsentation, einsetzenc)Informationen, insbesondere auch englischsprachige, beschaffen, bewerten und nutzend)Daten pflegen und sicherne)Vorschriften zur Datensicherheit beachten6Arbeitsplanung und -organisation (§ 4 Absatz 2 Abschnitt E Nummer 6)a)Arbeitsaufträge und Vorgaben auf Umsetzbarkeit prüfenb)auftragsbezogene Informationen und Daten beschaffen, bewerten und nutzen7Kundenorientierung (§ 4 Absatz 2 Abschnitt E Nummer 8)c)mit Kunden in englischer Sprache kommunizierend)kulturelle Identitäten berücksichtigenZeitrahmen 2: Technische Dokumente erstellen Lfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten (Nach Lernzielen der Anlage 1)Zeitrahmen in Monaten12341Erstellen und Anwenden technischer Dokumente (§ 4 Absatz 2 Abschnitt A Nummer 1)g)technische Begleitunterlagen, insbesondere Stücklisten, erstellen und pflegenh)technische Dokumentations- und Präsentationsunterlagen erstelleni)Stücklisten, Tabellen, Diagramme, Handbücher und Bedienungshinweise verwenden2Rechnergestützt Konstruieren (§ 4 Absatz 2 Abschnitt A Nummer 2)c)Zeichnungen ableiten oder erstellend)Symbole auswählen und verwenden4 bis 63Unterscheiden von Werkstoffen (§ 4 Absatz 2 Abschnitt A Nummer 3)b)Werkstoffe und Halbzeuge hinsichtlich ihrer Verfügbarkeit, Wirtschaftlichkeit und Umweltverträglichkeit unterscheidenc)Werkstoffnormung berücksichtigen4Beurteilen von Werk- und Hilfsstoffen (§ 4 Absatz 2 Abschnitt B Nummer 1)d)Werkstoffnormung anwendene)Werkstoffeigenschaften in technischen Dokumenten beschreiben5Entwerfen, Ausarbeiten und Berechnen von Bauteilen und Baugruppen (§ 4 Absatz 2 Abschnitt B Nummer 2.3)c)Bauteile und Halbzeuge nach Vorgaben und technischen Unterlagen auswählend)Verwendung von Norm- und Kaufteilen berücksichtigenf)Toleranzen, Passungen und Oberflächen festlegeni)Füge- und Verbindungstechniken berücksichtigenm)Datensätze erstellen und Datenqualität im Prozess sichern6Anwenden von Informations- und Kommunikationstechniken (§ 4 Absatz 2 Abschnitt E Nummer 5)b)Standardsoftware, insbesondere zur Tabellenkalkulation, Textverarbeitung und Präsentation, einsetzenc)Informationen, insbesondere auch englischsprachige, beschaffen, bewerten und nutzend)Daten pflegen und sicherne)Vorschriften zur Datensicherheit beachten7Arbeitsplanung und -organisation (§ 4 Absatz 2 Abschnitt E Nummer 6)c)Arbeitsschritte und -abläufe nach funktionalen, organisatorischen, fertigungstechnischen und wirtschaftlichen Kriterien festlegen und sicherstellend)rechtliche, betriebliche und technische Vorschriften beachteng)Arbeitsergebnisse zusammenführen, erbrachte Leistungen kontrollieren und anhand der Vorgaben bewerten sowie dokumentierenZeitrahmen 3: Bauteile werkstoff-, fertigungs- und montagegerecht gestalten und erstellen Lfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten (Nach Lernzielen der Anlage 1)Zeitrahmen in Monaten12341Unterscheiden von Fertigungsverfahren und Montagetechniken (§ 4 Absatz 2 Abschnitt A Nummer 4)a)branchentypische Fertigungs- und Fügeverfahren unterscheidenb)Montagetechniken unterscheiden2Ausführen von Berechnungen (§ 4 Absatz 2 Abschnitt A Nummer 5)b)Längen- und Volumenausdehnung berechnen3Beurteilen von Werk- und Hilfsstoffen (§ 4 Absatz 2 Abschnitt B Nummer 1)a)Werkstoffe hinsichtlich ihrer Eigenschaften, Bearbeitungs- und Verwendungsmöglichkeiten beurteilenb)Hilfsstoffe unterscheiden und ihrer Verwendung nach zuordnenc)Werk- und Hilfsstoffe hinsichtlich ihrer Verfügbarkeit, Wirtschaftlichkeit und Umweltverträglichkeit beurteilen3 bis 54Produktentstehungsprozess (§ 4 Absatz 2 Abschnitt B Nummer 2.1)a)den betrieblichen Produktentstehungsprozess berücksichtigenb)Inhalte und Aufgaben des eigenen Arbeitsfeldes dem Produktentstehungsprozess zuordnenf)mit vor- und nachgelagerten Bereichen kommunizieren, die Schnittstellen identifizieren und Abstimmungen herbeiführeng)in den Phasen des Produktlebenszyklus, insbesondere Entwicklung und Konstruktion, Fertigung und Montage, Inbetriebnahme, Wartung und Instandhaltung, Service, Demontage und Entsorgung, die rechtlichen Vorgaben einhalten5Planen und Konzipieren von Bauteilen und Baugruppen (§ 4 Absatz 2 Abschnitt B Nummer 2.2)b)Produktanforderungen definieren, Lastenheft, Pflichtenheft und Anforderungslisten unterscheiden sowie Qualitätsanforderungen berücksichtigenc)Kreativitätstechniken zur Lösungsfindung anwenden6Entwerfen, Ausarbeiten und Berechnen von Bauteilen und Baugruppen (§ 4 Absatz 2 Abschnitt B Nummer 2.3)a)funktions-, fertigungs-, beanspruchungs-, montage- und prüfgerechte Anforderungen an Konstruktionen berücksichtigene)Werkstoffanforderungen und -eigenschaften berücksichtigen7Auswählen von Fertigungs- und Fügeverfahren sowie Montagetechniken (§ 4 Absatz 2 Abschnitt B Nummer 3)a)Fertigungsverfahren im Konstruktionsprozess auswählenb)Montagetechnik und Fügeverfahren im Konstruktionsprozess auswählen8Arbeitsplanung und -organisation (§ 4 Absatz 2 Abschnitt E Nummer 6)e)Arbeitsauftrag planen und mit vor- und nachgelagerten Bereichen abstimmen9Durchführen von qualitätssichernden Maßnahmen (§ 4 Absatz 2 Abschnitt E Nummer 7)b)qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, insbesondere Zwischen- und Endergebnisse prüfen und beurteilenc)Fehler und Qualitätsmängel sowie deren Ursachen erkennen und Maßnahmen zur Beseitigung ergreifen und dokumentierenZeitrahmen 4: Konstruktionsprozess umsetzen Lfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten (Nach Lernzielen der Anlage 1)Zeitrahmen in Monaten12341Produktentstehungsprozess (§ 4 Absatz 2 Abschnitt B Nummer 2.1)b)Inhalte und Aufgaben des eigenen Arbeitsfeldes dem Produktentstehungsprozess zuordnenc)Methoden des Projekt- und Prozessmanagements anwendend)Schritte der methodischen Konstruktion unterscheidene)analytische und statistische Werkzeuge zur Qualitätssicherung interpretieren und anwendenf)mit vor- und nachgelagerten Bereichen kommunizieren, die Schnittstellen identifizieren und Abstimmungen herbeiführeng)in den Phasen des Produktlebenszyklus, insbesondere Entwicklung und Konstruktion, Fertigung und Montage, Inbetriebnahme, Wartung und Instandhaltung, Service, Demontage und Entsorgung, die rechtlichen Vorgaben einhalten3 bis 52Planen und Konzipieren von Bauteilen und Baugruppen (§ 4 Absatz 2 Abschnitt B Nummer 2.2)b)Produktanforderungen definieren, Lastenheft, Pflichtenheft und Anforderungslisten unterscheiden sowie Qualitätsanforderungen berücksichtigene)Lösungen visualisieren und präsentieren3Entwerfen, Ausarbeiten und Berechnen von Bauteilen und Baugruppen (§ 4 Absatz 2 Abschnitt B Nummer 2.3)n)unterschiedliche Datenformate austauschen und anwenden4Arbeitsplanung und -organisation (§ 4 Absatz 2 Abschnitt E Nummer 6)e)Arbeitsauftrag planen und mit vor- und nachgelagerten Bereichen abstimmenf)Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleichenh)Aufgaben im Team planen und bearbeiten; Teamergebnisse abstimmen, auswerten und präsentieren5Durchführen von qualitätssichernden Maßnahmen (§ 4 Absatz 2 Abschnitt E Nummer 7)d)zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen6Kundenorientierung (§ 4 Absatz 2 Abschnitt E Nummer 8)a)kundenspezifische Anforderungen und Informationen entgegennehmen, im Betrieb weiterleiten und berücksichtigenAbschnitt 34. bis 7. Ausbildungshalbjahr: Fachrichtung Produktgestaltung und -konstruktionZeitrahmen 5: Komplexe Bauteile und Baugruppen konstruieren Lfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten (Nach Lernzielen der Anlage 1)Zeitrahmen in Monaten12341Planen und Konzipieren von Bauteilen und Baugruppen (§ 4 Absatz 2 Abschnitt B Nummer 2.2)a)Konstruktionsarten unterscheidenb)Produktanforderungen definieren, Lastenheft, Pflichtenheft und Anforderungslisten unterscheiden sowie Qualitätsanforderungen berücksichtigenc)Kreativitätstechniken zur Lösungsfindung anwendend)Lösungen unter Berücksichtigung von technischen, wirtschaftlichen und ökologischen Kriterien entwickeln, bewerten und auswählene)Lösungen visualisieren und präsentieren 11 bis 132Entwerfen, Ausarbeiten und Berechnen von Bauteilen und Baugruppen (§ 4 Absatz 2 Abschnitt B Nummer 2.3)a)funktions-, fertigungs-, beanspruchungs-, montage- und prüfgerechte Anforderungen an Konstruktionen berücksichtigenb)Designvorgaben nach technischen und funktionalen Gesichtspunkten beachteng)Detailkonstruktionen anfertigenh)konstruktive Änderungen vornehmenj)Berechnungen zur Mechanik, insbesondere Geschwindigkeit, Kräfte und Kräftezerlegung sowie Drehmoment und Reibung, durchführenk)Festigkeitsberechnungen, insbesondere der Flächenpressung, Zug-, Druck- und Scherbeanspruchung, durchführenl)Arbeit, Leistung und Wirkungsgrad berechnen3Auswählen von Fertigungs- und Fügeverfahren sowie Montagetechniken (§ 4 Absatz 2 Abschnitt B Nummer 3)a)Fertigungsverfahren im Konstruktionsprozess auswählenb)Montagetechnik und Fügeverfahren im Konstruktionsprozess auswählen4Ausführen von Simulationen (§ 4 Absatz 2 Abschnitt B Nummer 4)a)virtuelle Zusammenbauten erstellen und auf Kollision prüfenb)branchen- und betriebsspezifische Simulationsverfahren anwenden5Gestalten und Entwerfen von Objekten (§ 4 Absatz 2 Abschnitt C Nummer 1)c)Grundlagen der Gestaltung anwendend)Entwurfsskizzen erstellen6Konstruieren mit Freiformflächen (§ 4 Absatz 2 Abschnitt C Nummer 2)a)Kurvenarten unterscheidenb)Raumkurven erzeugenc)Kurven glättend)Kurvenübergänge erzeugen und beurteilene)Freiformflächen erzeugen und beurteilen7Konstruieren von Objekten (§ 4 Absatz 2 Abschnitt C Nummer 3)d)Objekte unter Berücksichtigung von Fertigungstechniken, insbesondere Tiefziehen, Spritzgießen und Biegen, konstruierene)Objekte unter Berücksichtigung von Fügeverfahren und Montagetechniken, insbesondere Kleben, Schweißen, Clip- und Schnappverbindungen, konstruiereng)Objekte unter Berücksichtigung von Werkstoffen, insbesondere Bleche, Kunststoff, Holz, Verbundwerkstoffe, Glas, Papier und Pappe, konstruieren8Anwenden von Informations- und Kommunikationstechniken (§ 4 Absatz 2 Abschnitt E Nummer 5)c)Informationen, insbesondere auch englischsprachige, beschaffen, bewerten und nutzend)Daten pflegen und sichern9Arbeitsplanung und -organisation (§ 4 Absatz 2 Abschnitt E Nummer 6)c)Arbeitsschritte und -abläufe nach funktionalen, organisatorischen, fertigungstechnischen und wirtschaftlichen Kriterien festlegen und sicherstellene)Arbeitsauftrag planen und mit vor- und nachgelagerten Bereichen abstimmenf)Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleicheng)Arbeitsergebnisse zusammenführen, erbrachte Leistungen kontrollieren und anhand der Vorgaben bewerten sowie dokumentieren10Durchführen von qualitätssichernden Maßnahmen (§ 4 Absatz 2 Abschnitt E Nummer 7)a)Ziele und Aufgaben qualitätssichernder Maßnahmen beachtenc)Fehler und Qualitätsmängel sowie deren Ursachen erkennen und Maßnahmen zur Beseitigung ergreifen und dokumentieren11Kundenorientierung (§ 4 Absatz 2 Abschnitt E Nummer 8)a)kundenspezifische Anforderungen und Informationen entgegennehmen, im Betrieb weiterleiten und berücksichtigenZeitrahmen 6: Produkte entwerfen, gestalten und konstruieren Lfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten (Nach Lernzielen der Anlage 1)Zeitrahmen in Monaten12341Gestalten und Entwerfen von Objekten (§ 4 Absatz 2 Abschnitt C Nummer 1)a)Produkt-, Wettbewerbs- und Patentrecherchen durchführenb)Stufen des Designprozesses, insbesondere Skizzen, CAD-Modelle und physikalische Modelle, unterscheidene)Objekte funktionsgerecht gestaltenf)Objekte unter Beachtung ergonomischer Richtlinien und rechtlicher Vorgaben gestalteng)Objekte unter Berücksichtigung von Materialeigenschaften gestalten2Konstruieren von Freiformflächen (§ 4 Absatz 2 Abschnitt C Nummer 2)f)Flächenübergänge erzeugen und beurteileng)Flächenverbände erzeugen und beurteilenh)Objekte mit Freiformflächen erstellen und beurteilen3Konstruieren von Objekten (§ 4 Absatz 2 Abschnitt C Nummer 3)a)Designvorgaben nach technischen, funktionalen und ästhetischen Gesichtspunkten umsetzenb)Objekte als Flächen-, Volumen- und Hybridmodell konstruierenc)Objekte funktions- und beanspruchungsgerecht konstruierenf)Objekte ergonomisch konstruierenh)Objekte, insbesondere unter Berücksichtigung von Berechnungs- und Versuchsergebnissen, optimieren11 bis 134Simulation und Präsentation (§ 4 Absatz 2 Abschnitt C Nummer 4)a)Simulationen erstellen, nutzen und auswertenb)Verhalten von Bauteilen und Baugruppen durch virtuelle Bewegungssimulationen prüfenc)Objekte fotorealistisch präsentieren und animierend)Visualisierungstechniken anwenden5Arbeitsplanung und -organisation (§ 4 Absatz 2 Abschnitt E Nummer 6)h)Aufgaben im Team planen und bearbeiten; Teamergebnisse abstimmen, auswerten und präsentieren6Durchführen von qualitätssichernden Maßnahmen (§ 4 Absatz 2 Abschnitt E Nummer 7)c)Fehler und Qualitätsmängel sowie deren Ursachen erkennen und Maßnahmen zur Beseitigung der Ursachen ergreifen und dokumentierend)zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen7Kundenorientierung (§ 4 Absatz 2 Abschnitt E Nummer 8)b)Kunden unter Beachtung von betrieblichen Kommunikationsregeln informieren und beraten sowie Kundenanforderungen beachtenc)mit Kunden in englischer Sprache kommunizierend)kulturelle Identitäten berücksichtigenAbschnitt 44. bis 7. Ausbildungshalbjahr: Fachrichtung Maschinen- und AnlagenkonstruktionZeitrahmen 7: Komplexe Bauteile und Baugruppen konstruieren Lfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten (Nach Lernzielen der Anlage 1)Zeitrahmen in Monaten12341Beurteilen von Werk- und Hilfsstoffen (§ 4 Absatz 2 Abschnitt B Nummer 1)a)Werkstoffe hinsichtlich ihrer Eigenschaften, Bearbeitungs- und Verwendungsmöglichkeiten beurteilenb)Hilfsstoffe unterscheiden und ihrer Verwendung nach zuordnen2Planen und Konzipieren von Bauteilen und Baugruppen (§ 4 Absatz 2 Abschnitt B Nummer 2.2)a)Konstruktionsarten unterscheidenb)Produktanforderungen definieren, Lastenheft, Pflichtenheft und Anforderungslisten unterscheiden sowie Qualitätsanforderungen berücksichtigenc)Kreativitätstechniken zur Lösungsfindung anwendend)Lösungen unter Berücksichtigung von technischen, wirtschaftlichen und ökologischen Kriterien entwickeln, bewerten und auswählene)Lösungen visualisieren und präsentieren3Entwerfen, Ausarbeiten und Berechnen von Bauteilen und Baugruppen (§ 4 Absatz 2 Abschnitt BNummer 2.3)a)funktions-, fertigungs-, beanspruchungs-, montage- und prüfgerechte Anforderungen an Konstruktionen berücksichtigenb)Designvorgaben nach technischen und funktionalen Gesichtspunkten beachteng)Detailkonstruktionen anfertigenh)konstruktive Änderungen vornehmenj)Berechnungen zur Mechanik, insbesondere Geschwindigkeit, Kräfte und Kräftezerlegung sowie Drehmoment und Reibung, durchführenk)Festigkeitsberechnungen, insbesondere der Flächenpressung, Zug-, Druck- und Scherbeanspruchung, durchführenl)Arbeit, Leistung und Wirkungsgrad berechnen 11 bis 134Auswählen von Fertigungs- und Fügeverfahren sowie Montagetechniken (§ 4 Absatz 2 Abschnitt B Nummer 3)a)Fertigungsverfahren im Konstruktionsprozess auswählenb)Montagetechnik und Fügeverfahren im Konstruktionsprozess auswählen5Ausführen von Simulationen (§ 4 Absatz 2 Abschnitt B Nummer 4)a)virtuelle Zusammenbauten erstellen und auf Kollision prüfenb)branchen- und betriebsspezifische Simulationsverfahren anwenden6Ändern und Prüfen von Werkstoffeigenschaften (§ 4 Absatz 2 Abschnitt D Nummer 1)a)Verfahren zur Änderung von Werkstoffeigenschaften auswählenb)Prüfverfahren zur Feststellung der Werkstoffeigenschaften auswählen7Steuerungs- und Elektrotechnik (§ 4 Absatz 2 Abschnitt D Nummer 5)a)Elemente der Steuerungstechnik unterscheidenb)Schaltungen mit Bauelementen der Hydraulik und Elektropneumatik beurteilenc)grundlegende Gesetzmäßigkeiten der Elektrotechnik beachten und Grundgrößen berechnend)Größen der Steuerungstechnik, insbesondere Drücke und Kräfte, berechnene)Gefahren in der Steuerungs- und Elektrotechnik sowie die Anforderungen entsprechender Schutzmaßnahmen beachtenf)Schaltpläne der Steuerungs- und Elektrotechnik in CAD-Datensätze einbinden8Arbeitsplanung und -organisation (§ 4 Absatz 2 Abschnitt E Nummer 6)e)Arbeitsauftrag planen und mit vor- und nachgelagerten Bereichen abstimmenf)Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleicheng)Arbeitsergebnisse zusammenführen, erbrachte Leistungen kontrollieren und anhand der Vorgaben bewerten sowie dokumentierenh)Aufgaben im Team planen und bearbeiten; Teamergebnisse abstimmen, auswerten und präsentieren9Durchführen von qualitätssichernden Maßnahmen (§ 4 Absatz 2 Abschnitt E Nummer 7)b)qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, insbesondere Zwischen- und Endergebnisse prüfen und beurteilenc)Fehler und Qualitätsmängel sowie deren Ursachen erkennen und Maßnahmen zur Beseitigung der Ursachen ergreifen und dokumentierend)zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen10Kundenorientierung (§ 4 Absatz 2 Abschnitt E Nummer 8)c)mit Kunden in englischer Sprache kommunizierenZeitrahmen 8: Technische Erzeugnisse konzipieren, entwerfen und ausarbeiten Lfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten (Nach Lernzielen der Anlage 1)Zeitrahmen in Monaten12341Entwerfen, Ausarbeiten und Berechnen von Bauteilen und Baugruppen (§ 4 Absatz 2 Abschnitt B Nummer 2.3)c)Bauteile und Halbzeuge nach Vorgaben und technischen Unterlagen auswählend)Verwendung von Norm- und Kaufteilen berücksichtigeni)Füge- und Verbindungstechniken berücksichtigenj)Berechnungen zur Mechanik, insbesondere Geschwindigkeit, Kräfte und Kräftezerlegung sowie Drehmoment und Reibung, durchführenk)Festigkeitsberechnungen, insbesondere der Flächenpressung, Zug-, Druck- und Scherbeanspruchung, durchführenl)Arbeit, Leistung und Wirkungsgrad berechnen 11 bis 132Ausführen von Simulationen (§ 4 Absatz 2 Abschnitt B Nummer 4)a)virtuelle Zusammenbauten erstellen und auf Kollision prüfenb)branchen- und betriebsspezifische Simulationsverfahren anwenden3Erstellen von Konstruktionen (§ 4 Absatz 2 Abschnitt D Nummer 2)a)Aufbau, Funktion und Wirkungsweise von Maschinenelementen, insbesondere Getriebe, Kupplungen und Vorrichtungen, auswählenb)Konstruktionen mit Funktionseinheiten, Standardteilen und Verbindungselementen entwickelnc)Gusskonstruktionen erstellend)Schweißkonstruktionen erstellen4Fertigungstechnik (§ 4 Absatz 2 Abschnitt D Nummer 3)a)Auswirkungen der Urformtechnik auf die Bemaßung, Gestaltung, Oberflächenbeschaffenheit und Messbarkeit von Bauteilen in der Konstruktion umsetzenb)Auswirkungen der Umformtechnik auf die Bemaßung, Gestaltung, Oberflächenbeschaffenheit und Messbarkeit von Bauteilen in der Konstruktion umsetzenc)Auswirkungen der Zerspanungstechnik auf die Bemaßung, Gestaltung, Oberflächenbeschaffenheit und Messbarkeit von Bauteilen in der Konstruktion umsetzend)fertigungstechnische Berechnungen durchführen5Füge- und Montagetechnik (§ 4 Absatz 2 Abschnitt D Nummer 4)a)Auswirkungen der Füge- und Montagetechniken auf die Gestaltung, Bemaßung, Oberflächenbeschaffenheit und Messbarkeit von Bauteilen in der Konstruktion umsetzenb)Toleranzen und Passungen berechnenc)Maschinen- oder Verbindungselemente beanspruchungs- und funktionsgerecht in Konstruktionen verwenden6Arbeitsplanung und -organisation (§ 4 Absatz 2 Abschnitt E Nummer 6)c)Arbeitsschritte und -abläufe nach funktionalen, organisatorischen, fertigungstechnischen und wirtschaftlichen Kriterien festlegen und sicherstellend)rechtliche, betriebliche und technische Vorschriften beachten7Durchführen von qualitätssichernden Maßnahmen (§ 4 Absatz 2 Abschnitt E Nummer 7)a)Ziele und Aufgaben qualitätssichernder Maßnahmen beachten8Kundenorientierung (§ 4 Absatz 2 Abschnitt E Nummer 8)b)Kunden unter Beachtung von betrieblichen Kommunikationsregeln informieren und beraten sowie Kundenanforderungen beachtenc)mit Kunden in englischer Sprache kommunizieren
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+a)
+
+b)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
+
+d)
+
+1. bis 3. Ausbildungshalbjahr:
+
+Zeitrahmen 1: Einfache Bauteile und Baugruppen darstellen
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+a)
+
+b)
+
+e)
+
+a)
+
+a)
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+a)
+
+b)
+
+c)
+
+d)
+
+Zeitrahmen 2: Technische Dokumente erstellen
+
+g)
+
+h)
+
+i)
+
+c)
+
+d)
+
+b)
+
+c)
+
+d)
+
+e)
+
+c)
+
+d)
+
+f)
+
+i)
+
+m)
+
+b)
+
+c)
+
+d)
+
+e)
+
+c)
+
+d)
+
+g)
+
+Zeitrahmen 3: Bauteile werkstoff-, fertigungs- und montagegerecht gestalten und erstellen
+
+a)
+
+b)
+
+b)
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+f)
+
+g)
+
+b)
+
+c)
+
+a)
+
+e)
+
+a)
+
+b)
+
+e)
+
+b)
+
+c)
+
+Zeitrahmen 4: Konstruktionsprozess umsetzen
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+b)
+
+e)
+
+n)
+
+e)
+
+f)
+
+h)
+
+d)
+
+a)
+
+4. bis 7. Ausbildungshalbjahr: Fachrichtung Produktgestaltung und -konstruktion
+
+Zeitrahmen 5: Komplexe Bauteile und Baugruppen konstruieren
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+a)
+
+b)
+
+g)
+
+h)
+
+j)
+
+k)
+
+l)
+
+a)
+
+b)
+
+a)
+
+b)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+d)
+
+e)
+
+g)
+
+c)
+
+d)
+
+c)
+
+e)
+
+f)
+
+g)
+
+a)
+
+c)
+
+a)
+
+Zeitrahmen 6: Produkte entwerfen, gestalten und konstruieren
+
+a)
+
+b)
+
+e)
+
+f)
+
+g)
+
+f)
+
+g)
+
+h)
+
+a)
+
+b)
+
+c)
+
+f)
+
+h)
+
+a)
+
+b)
+
+c)
+
+d)
+
+h)
+
+c)
+
+d)
+
+b)
+
+c)
+
+d)
+
+4. bis 7. Ausbildungshalbjahr: Fachrichtung Maschinen- und Anlagenkonstruktion
+
+Zeitrahmen 7: Komplexe Bauteile und Baugruppen konstruieren
+
+a)
+
+b)
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+a)
+
+b)
+
+g)
+
+h)
+
+j)
+
+k)
+
+l)
+
+a)
+
+b)
+
+a)
+
+b)
+
+a)
+
+b)
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+e)
+
+f)
+
+g)
+
+h)
+
+b)
+
+c)
+
+d)
+
+c)
+
+Zeitrahmen 8: Technische Erzeugnisse konzipieren, entwerfen und ausarbeiten
+
+c)
+
+d)
+
+i)
+
+j)
+
+k)
+
+l)
+
+a)
+
+b)
+
+a)
+
+b)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
 
 ### Anlage 3 — (zu § 14 Absatz 1 Satz 1)
 
-(Fundstelle: BGBl. I 2011, 1244 - 1250)– Sachliche Gliederung –Abschnitt A: Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und FähigkeitenLfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten1231Erstellen und Anwenden technischer Dokumente (§ 14 Absatz 2 Abschnitt A Nummer 1)a)Normvorgaben zur Erstellung technischer Zeichnungen berücksichtigenb)geometrische Beziehungen unterscheidenc)Einzelteile und Baugruppen in Ansichten und Schnitten normgerecht darstellend)Regeln der Maßeintragung anwendene)Werkstücke räumlich darstellenf)Freihandskizzen anfertigen und bemaßeng)technische Begleitunterlagen, insbesondere Stücklisten, erstellen und pflegenh)technische Dokumentations- und Präsentationsunterlagen erstelleni)Stücklisten, Tabellen, Diagramme, Handbücher und Bedienungshinweise verwenden2Rechnergestützt Konstruieren (§ 14 Absatz 2 Abschnitt A Nummer 2)a)Datensätze für Einzelteile und Baugruppen nach technischen Vorgaben und eigenen Entwürfen erstellenb)Strukturierungsmethoden anwendenc)Zeichnungen ableiten oder erstellend)Symbole auswählen und verwendene)Kauf- und Normteile aus Bibliotheken und Katalogen auswählen und verwenden3Unterscheiden von Werkstoffen (§ 14 Absatz 2 Abschnitt A Nummer 3)a)Informationen über Werkstoffe hinsichtlich ihrer Eigenschaften, Bearbeitungs- und Verwendungsmöglichkeiten einholenb)Werkstoffe und Halbzeuge hinsichtlich ihrer Verfügbarkeit, Wirtschaftlichkeit und Umweltverträglichkeit unterscheidenc)Werkstoffnormung berücksichtigen4Unterscheiden von Fertigungsverfahren und Montagetechniken (§ 14 Absatz 2 Abschnitt A Nummer 4)a)branchentypische Fertigungs- und Fügeverfahren unterscheidenb)Montagetechniken unterscheiden5Ausführen von Berechnungen (§ 14 Absatz 2 Abschnitt A Nummer 5)a)Längen und Winkel sowie Flächen, Volumen und Massen berechnenb)Längen- und Volumenausdehnung berechnenAbschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und FähigkeitenLfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten1231Beurteilen von Werkstoffen und Korrosionsschutzverfahren (§ 14 Absatz 2 Abschnitt B Nummer 1)a)Werkstoffeigenschaften anwendungsbezogen beurteilenb)Werkstoffe nach Verwendungszweck auswählenc)Korrosionsschutzverfahren unterscheiden und beurteilen2Beurteilen von Montage- und Fügeverfahren (§ 14 Absatz 2 Abschnitt B Nummer 2)a)Verbindungstechnik für lösbare und nicht lösbare Verbindungen beurteilen und auswählenb)örtliche Gegebenheiten für Einzel- und Baugruppenmontage berücksichtigen3Erstellen technischer Unterlagen (§ 14 Absatz 2 Abschnitt B Nummer 3)a)Teil-, Gruppen-, Gesamt- und Fertigungszeichnungen unter Anwendung der technischen Norm- und Regelwerke erstellenb)technische Unterlagen angrenzender Bereiche lesen, Schnittstellen identifizieren sowie angrenzende Bereiche darstellenc)Bauteile und Baugruppen fertigungs-, montage- und funktionsgerecht bemaßend)Halbzeuge, Normteile, Bauteile und Baugruppen nach Vorgaben, technischen Unterlagen und Leistungsdaten auswählene)Aufmaße erstellenf)technische Unterlagen, insbesondere Tabellen, handhaben und erstelleng)sicherheitstechnische Bestimmungen, insbesondere des Brandschutzes, beachten4Anfertigen von Skizzen (§ 14 Absatz 2 Abschnitt B Nummer 4)a)Teil- und Detailskizzen nach örtlichen Gegebenheiten und Vorlagen anfertigenb)Bauteile und Baugruppen in ihrer räumlichen Anordnung zueinander skizzierenAbschnitt C: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Versorgungs- und AusrüstungstechnikLfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten1231Erstellen technischer Unterlagen für die Versorgungs- und Ausrüstungstechnik (§ 14 Absatz 2 Abschnitt C Nummer 1)a)Funktions- und Aufmaßskizzen anfertigenb)umwelttechnische Vorgaben bei der Anfertigung von technischen Unterlagen beachtenc)Bauteile und Baugruppen für Anlagen mit den jeweiligen Einbauteilen darstellend)Ansichten und Schnitte von Bauteilen und Baugruppen festlegen und ableitene)Abwicklungen von Bauteilen erstellenf)Bezeichnungen für Material, Korrosionsschutz und Zusatzangaben auswählen und eintrageng)technische Unterlagen von Anlagen koordinieren und auf Kollisionen prüfen, Kollisionen nach Absprache korrigierenh)technische Unterlagen zur Weiterleitung an Fremdgewerke aufbereiten und zusammenstellen2Ausführen von Detailkonstruktionen (§ 14 Absatz 2 Abschnitt C Nummer 2)a)Detailpunkte konstruierenb)technische Unterlagen angrenzender Bereiche lesen, Schnittstellen zu angrenzenden Bauteilen auch anderer Gewerke entwerfenc)konstruktive Änderungen nach technischen Vorgaben vornehmend)Eigenheiten der Korrosionsschutzverfahren konstruktiv berücksichtigen3Anfertigen von schematischen und perspektivischen Darstellungen (§ 14 Absatz 2 Abschnitt C Nummer 3)a)schematische Darstellungen unter Anwendung der einschlägigen Normen und Sinnbilder erstellenb)Funktionsabläufe der Versorgungs- und Ausrüstungstechnik darstellen und dokumentierenc)schematische Darstellungen von fachbezogenen pneumatischen, hydraulischen und elektrischen Regel- und Steuerungssystemen erstellend)räumliche Darstellungen von Bauteilen und Anlagen erstellen und ableiten4Anfertigen von technischen Dokumentationen für die Versorgungs- und Ausrüstungstechnik (§ 14 Absatz 2 Abschnitt C Nummer 4)a)Tabellen und Diagramme der Versorgungs- und Ausrüstungstechnik erstellenb)Aufmaße, Protokolle und Stücklisten anfertigen und prüfen sowie technische Sachverhalte beschreibenc)auftragsbezogene Daten systematisch und kundenorientiert zusammenstellen5Ausführen technischer Berechnungen (§ 14 Absatz 2 Abschnitt C Nummer 5)a)Grundgesetze der Mechanik von Flüssigkeiten und Gasen anwendenb)Bauteile und Komponenten von Anlagen der technischen Gebäudeausrüstung mit Hilfe von Normen, Richtlinien, technischen Unterlagen, Auslegungssoftware, Handbüchern und Katalogen berechnen und bestimmenc)Arbeit, Leistung und Wirkungsgrade der Bauteile und Komponenten von Anlagen der technischen Gebäudeausrüstung mit Hilfe von Berechnungsprogrammen, Auslegungshilfen und technischen Unterlagen berechnen oder bestimmend)Dimensionierung von Leitungen und Bauteilen auf Basis von Zeichnungen und vorangegangenen Berechnungen vornehmene)Bedarfsberechnungen im Rahmen der gebäudetechnischen Prozessabläufe nach projektbezogenen Vorgaben erstellen6Beurteilen von Systemkomponenten (§ 14 Absatz 2 Abschnitt C Nummer 6)a)Herstellungsverfahren für Anlagenkomponenten bewerten, Kanalteile beurteilen und auswählenb)Montage- und Befestigungssysteme sowie Wanddurchlässe, insbesondere unter Berücksichtigung des Brandschutzes, beurteilen und auswählenc)Elemente der Steuerungs- und Regelungstechnik zu Schaltungen verbindenAbschnitt D: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Stahl- und MetallbautechnikLfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten1231Erstellen technischer Unterlagen der Stahl- und Metallbautechnik (§ 14 Absatz 2 Abschnitt D Nummer 1)a)Teil-, Gruppen-, Gesamt- und Übersichtszeichnungen unter Anwendung von Sinnbildern sowie der Norm- und Regelwerke für Werkstatt und Baustelle erstellenb)Zusatzangaben auswählen und eintragenc)Toleranzen eigener und angrenzender Bauelemente berücksichtigend)Angebotszeichnungen anfertigene)Pläne unter Anwendung der einschlägigen Normen und Richtlinien nach Vorlagen, Entwürfen und Anweisungen, insbesondere Verankerungs-, Schweißfolge-, Schachtel-, Montagefolge- und Versandpläne sowie Verlegepläne für Bauelemente, anfertigenf)Baustellen-Messpunkte, Raster, Koordinaten und Höhenpunkte festlegen, übertragen und berücksichtigeng)Bauteile und Knotenpunkte perspektivisch darstellen2Entwerfen und Konstruieren (§ 14 Absatz 2 Abschnitt D Nummer 2)a)konstruktive Änderungen nach Anweisungen vornehmenb)Detailpunkte, insbesondere Naturgrößen, konstruierenc)Anschlüsse zu angrenzenden Bauteilen konstruktiv festlegen und auswählend)Eigenheiten der Korrosionsschutzverfahren konstruktiv berücksichtigene)Bauordnungen beachtenf)bauaufsichtliche Zulassungen beachteng)Verdingungsordnung für Bauleistungen beachtenh)Lehrsätze der Mechanik anwenden3Berücksichtigen von bauphysikalischen Anforderungen (§ 14 Absatz 2 Abschnitt D Nummer 3)a)Wärme- und Schallschutzanforderungen konstruktiv berücksichtigenb)Brandschutzanforderungen konstruktiv berücksichtigenc)Witterungs- und Umgebungseinflüsse konstruktiv berücksichtigend)einschlägige Normen und Vorschriften berücksichtigen4Durchführen von Berechnungen (§ 14 Absatz 2 Abschnitt D Nummer 4)a)Grundgesetze der Mechanik, insbesondere Geschwindigkeit und Beschleunigung, Kräfte und Kräftezerlegung sowie Drehmoment und Reibung, anwendenb)Grundgesetze der Festigkeitsberechnung, insbesondere zu Flächenpressung, Zug-, Druck- und Scherbeanspruchung, anwendenc)Verbindungselemente und Verbindungen auswählend)Hauptnutzungszeiten berechnene)Längen- und Flächenberechnungen durchführen, insbesondere Bauteilabmaße und Systemmaße bestimmenf)statische Berechnungen durchführen, insbesondere Linien- und Flächenschwerpunkte, Auflagerkräfte sowie Biege- und Flächenmomente bestimmen5Auswählen von Fertigungs-, Montage- und Fügeverfahren (§ 14 Absatz 2 Abschnitt D Nummer 5)a)Trennverfahren unter Berücksichtigung von Werkstoff, geometrischen Gegebenheiten und Oberflächenbeschaffenheit beurteilen und auswählenb)Umformverfahren unter Berücksichtigung von Werkstoff, geometrischen Gegebenheiten, Oberflächenbeschaffenheit und Hilfsstoff beurteilen und auswählenc)Schraub- und Schweißverbindungen beurteilen und auswählend)Regeln der Verbundkonstruktion beachtenAbschnitt E: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Elektrotechnische SystemeLfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten1231Erstellen technischer Unterlagen für elektrotechnische Systeme (§ 14 Absatz 2 Abschnitt E Nummer 1)a)Funktionsschaltpläne und Diagramme anfertigenb)Systemkomponenten und Leitungen von energie- und informationstechnischen Anlagen nach Vorgaben berechnen und dimensionierenc)Bauteile und Leitungen von energie- und informationstechnischen Anlagen anhand von Katalogen und Datenblättern auswählen, verbinden und darstellend)Steuerschaltungen und Steuerprogramme entwerfen und Schaltungen der Datenübertragung darstellene)Anordnungs- und Verdrahtungspläne sowie Tabellen von energie- und informationstechnischen Anlagen nach vorgegebenen Schaltplänen und Skizzen entwerfen und erstellenf)Installationspläne für Gebäudeinstallationen mit Einrichtungen der Energie- und Informationstechnik nach Vorgaben unter Berücksichtigung der einschlägigen Regelwerke entwerfen und erstelleng)Funktionen von Systemkomponenten und deren Verschaltungen beurteilen und darstellen2Ausführen von Berechnungen (§ 14 Absatz 2 Abschnitt E Nummer 2)a)Grundgesetze der Elektrotechnik anwendenb)Arbeit, Leistung und Wirkungsgrad berechnenc)Beleuchtungsstärken berechnend)Diagramme, Tabellen und Datenblätter aus Handbüchern und Katalogen nutzene)Bauteile anhand von Kennwerten bestimmenf)elektrische Größen im Gleich-, Wechsel- und Drehstromkreis berechneng)Grundgesetze der Mechanik zur Befestigung elektrotechnischer Bauteile anwenden3Beurteilen und Anwenden von Systemkomponenten (§ 14 Absatz 2 Abschnitt E Nummer 3)a)Befestigungssysteme und Wanddurchlässe auch unter Berücksichtigung des Brandschutzes beurteilen und auswählenb)Bauelemente der Elektrotechnik erläutern und zu Schaltungen verbindenc)Elemente der Steuerungs-, Regelungs- und Antriebstechnik erläutern und zu Schaltungen verbindend)Gefahren identifizieren, Schutzmaßnahmen anwenden4Ausführen von Detailplänen (§ 14 Absatz 2 Abschnitt E Nummer 4)a)Ansichtspläne erstellenb)Technikräume planenc)Leerrohrpläne und Wandansichten erstellen5Anfertigen von schematischen und perspektivischen Darstellungen (§ 14 Absatz 2 Abschnitt E Nummer 5)a)Übersichtsschaltpläne aus Grundrissplänen erstellenb)schematische Darstellungen unter Anwendung der einschlägigen Normen und Sinnbilder nach technischen Unterlagen auch perspektivisch erstellenc)fachbezogene Funktionsabläufe nach technischen Unterlagen darstellen und dokumentieren6Anfertigen von technischen Dokumentationen (§ 14 Absatz 2 Abschnitt E Nummer 6)a)Dokumentationen energietechnischer und informationstechnischer Anlagen auswählen und erstellenb)fachbezogene Tabellen und Diagramme erstellenc)technische Sachverhalte beurteilen sowie Aufmaße, Protokolle und Stücklisten anfertigen und prüfend)auftragsbezogene Daten systematisch und kundenorientiert zusammenstellenAbschnitt F: Gemeinsame integrative Fertigkeiten, Kenntnisse und FähigkeitenLfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten1231Berufsbildung, Arbeits- und Tarifrecht (§ 14 Absatz 2 Abschnitt F Nummer 1)a)Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklärenb)gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennenc)Möglichkeiten der beruflichen Fortbildung nennend)wesentliche Teile des Arbeitsvertrages nennene)wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen2Aufbau und Organisation des Ausbildungsbetriebes (§ 14 Absatz 2 Abschnitt F Nummer 2)a)Aufbau und Aufgaben des ausbildenden Betriebes erläuternb)Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklärenc)Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennend)Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben3Sicherheit und Gesundheitsschutz bei der Arbeit (§ 14 Absatz 2 Abschnitt F Nummer 3)a)Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifenb)berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwendenc)Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleitend)Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen4Umweltschutz (§ 14 Absatz 2 Abschnitt F Nummer 4)Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere a)mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklärenb)für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwendenc)Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzend)Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen5Anwenden von Informations- und Kommunikationstechniken (§ 14 Absatz 2 Abschnitt F Nummer 5)a)betriebliche Kommunikations- und Informationssysteme zur Übertragung von Daten, Bildern und Sprache anwendenb)Standardsoftware, insbesondere zur Tabellenkalkulation, Textverarbeitung und Präsentation, einsetzenc)Informationen, insbesondere auch englischsprachige, beschaffen, bewerten und nutzend)Daten pflegen und sicherne)Vorschriften zur Datensicherheit beachten6Arbeitsplanung und -organisation (§ 14 Absatz 2 Abschnitt F Nummer 6)a)Arbeitsaufträge und Vorgaben auf Umsetzbarkeit prüfenb)auftragsbezogene Informationen und Daten beschaffen, bewerten und nutzenc)Arbeitsschritte und -abläufe nach funktionalen, organisatorischen, fertigungstechnischen und wirtschaftlichen Kriterien festlegen und sicherstellend)rechtliche, betriebliche und technische Vorschriften beachtene)Arbeitsauftrag planen und mit vor- und nachgelagerten Bereichen abstimmenf)Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleicheng)Arbeitsergebnisse zusammenführen, erbrachte Leistungen kontrollieren und anhand der Vorgaben bewerten sowie dokumentierenh)Aufgaben im Team planen und bearbeiten; Teamergebnisse abstimmen, auswerten und präsentieren7Durchführen von qualitätssichernden Maßnahmen (§ 14 Absatz 2 Abschnitt F Nummer 7)a)Ziele und Aufgaben qualitätssichernder Maßnahmen beachtenb)qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, insbesondere Zwischen- und Endergebnisse prüfen und beurteilenc)Fehler und Qualitätsmängel sowie deren Ursachen erkennen und Maßnahmen zur Beseitigung ergreifen und dokumentierend)zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen8Kundenorientierung (§ 14 Absatz 2 Abschnitt F Nummer 8)a)kundenspezifische Anforderungen und Informationen entgegennehmen, im Betrieb weiterleiten und berücksichtigenb)Kunden unter Beachtung von betrieblichen Kommunikationsregeln informieren und beraten sowie Kundenanforderungen beachtenc)mit Kunden in englischer Sprache kommunizierend)kulturelle Identitäten berücksichtigen
+Abschnitt A: Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
+i)
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+a)
+
+b)
+
+Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+a)
+
+b)
+
+Abschnitt C: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Versorgungs- und Ausrüstungstechnik
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
+a)
+
+b)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+a)
+
+b)
+
+c)
+
+Abschnitt D: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Stahl- und Metallbautechnik
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
+a)
+
+b)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+a)
+
+b)
+
+c)
+
+d)
+
+Abschnitt E: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Elektrotechnische Systeme
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+a)
+
+b)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+c)
+
+d)
+
+Abschnitt F: Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+a)
+
+b)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
+a)
+
+b)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
+
+d)
 
 ### Anlage 4 — (zu § 14 Absatz 1 Satz 2)
 
-(Fundstelle: BGBl. I 2011, 1251 - 1261)– Zeitliche Gliederung –Abschnitt 1Lfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und FähigkeitenZeitrahmen in Monaten12341Berufsbildung, Arbeits- und Tarifrecht (§ 14 Absatz 2 Abschnitt F Nummer 1)a)Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklärenb)gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennenc)Möglichkeiten der beruflichen Fortbildung nennend)wesentliche Teile des Arbeitsvertrages nennene)wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennenwährend der gesamten Ausbildung zu vermitteln2Aufbau und Organisation des Ausbildungsbetriebes (§ 14 Absatz 2 Abschnitt F Nummer 2)a)Aufbau und Aufgaben des ausbildenden Betriebes erläuternb)Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklärenc)Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennend)Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben3Sicherheit und Gesundheitsschutz bei der Arbeit (§ 14 Absatz 2 Abschnitt F Nummer 3)a)Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifenb)berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwendenc)Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleitend)Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen4Umweltschutz (§ 14 Absatz 2 Abschnitt F Nummer 4)Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere a)mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklärenb)für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwendenc)Möglichkeiten der wirtschaftlichen und umweltschonende Energie- und Materialverwendung nutzend)Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführenAbschnitt 21. bis 3. Ausbildungshalbjahr:Zeitrahmen 1: Darstellung von Bauteilen und Baugruppen Lfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten (Nach Lernzielen der Anlage 3)Zeitrahmen in Monaten12341Erstellen und Anwenden technischer Dokumente (§ 14 Absatz 2 Abschnitt A Nummer 1)a)Normvorgaben zur Erstellung technischer Zeichnungen berücksichtigenb)geometrische Beziehungen unterscheidenc)Einzelteile und Baugruppen in Ansichten und Schnitten normgerecht darstellend)Regeln der Maßeintragung anwendene)Werkstücke räumlich darstellenf)Freihandskizzen anfertigen und bemaßen3 bis 52Rechnergestützt Konstruieren (§ 14 Absatz 2 Abschnitt A Nummer 2)a)Datensätze für Einzelteile und Baugruppen nach technischen Vorgaben und eigenen Entwürfen erstellenb)Strukturierungsmethoden anwendenc)Zeichnungen ableiten oder erstellend)Symbole auswählen und verwenden3Ausführen von Berechnungen (§ 14 Absatz 2 Abschnitt A Nummer 5)a)Längen und Winkel sowie Flächen, Volumen und Massen berechnen4Erstellen technischer Unterlagen (§ 14 Absatz 2 Abschnitt B Nummer 3)a)Teil-, Gruppen-, Gesamt- und Fertigungszeichnungen unter Anwendung der technischen Norm- und Regelwerke erstellenc)Bauteile und Baugruppen fertigungs-, montage- und funktionsgerecht bemaßen5Anwenden von Informations- und Kommunikationstechniken (§ 14 Absatz 2 Abschnitt F Nummer 5)a)betriebliche Kommunikations- und Informationssysteme zur Übertragung von Daten, Bildern und Sprache anwendend)Daten pflegen und sicherne)Vorschriften zur Datensicherheit beachten6Arbeitsplanung und -organisation (§ 14 Absatz 2 Abschnitt F Nummer 6)b)auftragsbezogene Informationen und Daten beschaffen, bewerten und nutzenZeitrahmen 2: Fertigungs- und Montagetechnik Lfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten (Nach Lernzielen der Anlage 3)Zeitrahmen in Monaten12341Erstellen und Anwenden technischer Dokumente (§ 14 Absatz 2 Abschnitt A Nummer 1)i)Stücklisten, Tabellen, Diagramme, Handbücher und Bedienungshinweise verwenden2Unterscheiden von Werkstoffen (§ 14 Absatz 2 Abschnitt A Nummer 3)a)Informationen über Werkstoffe hinsichtlich ihrer Eigenschaften, Bearbeitungs- und Verwendungsmöglichkeiten einholenb)Werkstoffe und Halbzeuge hinsichtlich ihrer Verfügbarkeit, Wirtschaftlichkeit und Umweltverträglichkeit unterscheidenc)Werkstoffnormung berücksichtigen3Unterscheiden von Fertigungsverfahren und Montagetechniken (§ 14 Absatz 2 Abschnitt A Nummer 4)a)branchentypische Fertigungs- und Fügeverfahren unterscheidenb)Montagetechniken unterscheiden6 bis 84Beurteilen von Werkstoffen und Korrosionsschutzverfahren (§ 14 Absatz 2 Abschnitt B Nummer 1)a)Werkstoffeigenschaften anwendungsbezogen beurteilen5Erstellen technischer Unterlagen (§ 14 Absatz 2 Abschnitt B Nummer 3)d)Halbzeuge, Normteile, Bauteile und Baugruppen nach Vorgaben, technischen Unterlagen und Leistungsdaten auswählene)Aufmaße erstellen6Arbeitsplanung und -organisation (§ 14 Absatz 2 Abschnitt F Nummer 6)d)rechtliche, betriebliche und technische Vorschriften beachten7Durchführen von qualitätssichernden Maßnahmen (§ 14 Absatz 2 Abschnitt F Nummer 7)a)Ziele und Aufgaben qualitätssichernder Maßnahmen beachtenZeitrahmen 3: Technische Dokumente erstellen Lfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten (Nach Lernzielen der Anlage 3)Zeitrahmen in Monaten12341Erstellen und Anwenden technischer Dokumente (§ 14 Absatz 2 Abschnitt A Nummer 1)g)technische Begleitunterlagen, insbesondere Stücklisten, erstellen und pflegenh)technische Dokumentations- und Präsentationsunterlagen erstelleni)Stücklisten, Tabellen, Diagramme, Handbücher und Bedienungshinweise verwenden2Rechnergestützt Konstruieren (§ 14 Absatz 2 Abschnitt A Nummer 2)c)Zeichnungen ableiten oder erstellend)Symbole auswählen und verwendene)Kauf- und Normteile aus Bibliotheken und Katalogen auswählen und verwenden3Unterscheiden von Werkstoffen (§ 14 Absatz 2 Abschnitt A Nummer 3)b)Werkstoffe und Halbzeuge hinsichtlich ihrer Verfügbarkeit, Wirtschaftlichkeit und Umweltverträglichkeit unterscheidenc)Werkstoffnormung berücksichtigen4Ausführen von Berechnungen (§ 14 Absatz 2 Abschnitt A Nummer 5)b)Längen- und Volumenausdehnung berechnen5Beurteilen von Werkstoffen und Korrosionsschutzverfahren (§ 14 Absatz 2 Abschnitt B Nummer 1)b)Werkstoffe nach Verwendungszweck auswählenc)Korrosionsschutzverfahren unterscheiden und beurteilen6Beurteilen von Montage- und Fügeverfahren (§ 14 Absatz 2 Abschnitt B Nummer 2)a)Verbindungstechnik für lösbare und nicht lösbare Verbindungen beurteilen und auswählenb)örtliche Gegebenheiten für Einzel- und Baugruppenmontage berücksichtigen 6 bis 87Erstellen technischer Unterlagen (§ 14 Absatz 2 Abschnitt B Nummer 3)a)Teil-, Gruppen-, Gesamt- und Fertigungszeichnungen unter Anwendung der technischen Norm- und Regelwerke erstellenb)technische Unterlagen angrenzender Bereiche lesen, Schnittstellen identifizieren sowie angrenzende Bereiche darstellenf)technische Unterlagen, insbesondere Tabellen, handhaben und erstellen8Anfertigen von Skizzen (§ 14 Absatz 2 Abschnitt B Nummer 4)a)Teil- und Detailskizzen nach örtlichen Gegebenheiten und Vorlagen anfertigenb)Bauteile und Baugruppen in ihrer räumlichen Anordnung zueinander skizzieren9Anwenden von Informations- und Kommunikationstechniken (§ 14 Absatz 2 Abschnitt F Nummer 5)b)Standardsoftware, insbesondere zur Tabellenkalkulation, Textverarbeitung und Präsentation, einsetzen10Durchführen von qualitätssichernden Maßnahmen (§ 14 Absatz 2 Abschnitt F Nummer 7)d)zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen4. bis 7. Ausbildungshalbjahr:Fachrichtung Versorgungs- und AusrüstungstechnikZeitrahmen 4: Fachspezifische Konstruktion Lfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten (Nach Lernzielen der Anlage 3)Zeitrahmen in Monaten12341Erstellen technischer Unterlagen für die Versorgungs- und Ausrüstungstechnik (§ 14 Absatz 2 Abschnitt C Nummer 1)a)Funktions- und Aufmaßskizzen anfertigenc)Bauteile und Baugruppen für Anlagen mit den jeweiligen Einbauteilen erstellend)Ansichten und Schnitte von Bauteilen und Baugruppen festlegen und ableitene)Abwicklungen von Bauteilen erstelleng)technische Unterlagen von Anlagen koordinieren und auf Kollisionen prüfen, Kollisionen nach Absprache korrigierenh)technische Unterlagen zur Weiterleitung an Fremdgewerke aufbereiten und zusammenstellen2Ausführen von Detailkonstruktionen (§ 14 Absatz 2 Abschnitt C Nummer 2)a)Detailpunkte konstruierenb)technische Unterlagen angrenzender Bereiche lesen, Schnittstellen zu angrenzenden Bauteilen auch anderer Gewerke entwerfen3Anfertigen von schematischen und perspektivischen Darstellungen (§ 14 Absatz 2 Abschnitt C Nummer 3)d)räumliche Darstellungen von Bauteilen und Anlagen erstellen und ableiten5 bis 94Anfertigen von technischen Dokumentationen für die Versorgungs- und Ausrüstungstechnik (§ 14 Absatz 2 Abschnitt C Nummer 4)b)Aufmaße, Protokolle und Stücklisten anfertigen und prüfen sowie technische Sachverhalte beschreibenc)auftragsbezogene Daten systematisch und kundenorientiert zusammenstellen5Beurteilen von Systemkomponenten (§ 14 Absatz 2 Abschnitt C Nummer 6)b)Montage- und Befestigungssysteme sowie Wanddurchlässe auch unter Berücksichtigung des Brandschutzes beurteilen und auswählen6Anwenden von Informations- und Kommunikationstechniken (§ 14 Absatz 2 Abschnitt F Nummer 5)c)Informationen, insbesondere auch englischsprachige, beschaffen, bewerten und nutzen7Arbeitsplanung und -organisation (§ 14 Absatz 2 Abschnitt F Nummer 6)a)Arbeitsaufträge und Vorgaben auf Umsetzbarkeit prüfenc)Arbeitsschritte und -abläufe nach funktionalen, organisatorischen, fertigungstechnischen und wirtschaftlichen Kriterien festlegen und sicherstellene)Arbeitsauftrag planen und mit vor- und nachgelagerten Bereichen abstimmenf)Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleicheng)Arbeitsergebnisse zusammenführen, erbrachte Leistungen kontrollieren und anhand der Vorgaben bewerten sowie dokumentierenh)Aufgaben im Team planen und bearbeiten; Teamergebnisse abstimmen, auswerten und präsentieren8Durchführen von qualitätssichernden Maßnahmen (§ 14 Absatz 2 Abschnitt F Nummer 7)b)qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, insbesondere Zwischen- und Endergebnisse prüfen und beurteilenc)Fehler und Qualitätsmängel sowie deren Ursachen erkennen und Maßnahmen zur Beseitigung ergreifen und dokumentieren9Kundenorientierung (§ 14 Absatz 2 Abschnitt F Nummer 8)d)kulturelle Identitäten berücksichtigenZeitrahmen 5: Projektbezogene Konstruktion Lfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten (Nach Lernzielen der Anlage 3)Zeitrahmen in Monaten12341Erstellen technischer Unterlagen für die Versorgungs- und Ausrüstungstechnik (§ 14 Absatz 2 Abschnitt C Nummer 1)b)umwelttechnische Vorgaben bei der Anfertigung von technischen Unterlagen beachtenf)Bezeichnungen für Material, Korrosionsschutz und Zusatzangaben auswählen und eintragen2Ausführen von Detailkonstruktionen (§ 14 Absatz 2 Abschnitt C Nummer 2)c)konstruktive Änderungen nach technischen Vorgaben vornehmend)Eigenheiten der Korrosionsschutzverfahren konstruktiv berücksichtigen11 bis 153Anfertigen von schematischen und perspektivischen Darstellungen (§ 14 Absatz 2 Abschnitt C Nummer 3)a)schematische Darstellungen unter Anwendung der einschlägigen Normen und Sinnbilder erstellenb)Funktionsabläufe der Versorgungs- und Ausrüstungstechnik darstellen und dokumentierenc)schematische Darstellungen von fachbezogenen pneumatischen, hydraulischen und elektrischen Regel- und Steuerungssystemen erstellen4Beurteilen von Systemkomponenten (§ 14 Absatz 2 Abschnitt C Nummer 6)a)Herstellungsverfahren für Anlagenkomponenten bewerten, Kanalteile beurteilen und auswählenc)Elemente der Steuerungs- und Regelungstechnik zu Schaltungen verbinden5Kundenorientierung (§ 14 Absatz 2 Abschnitt F Nummer 8)a)kundenspezifische Anforderungen und Informationen entgegennehmen, im Betrieb weiterleiten und berücksichtigenb)Kunden unter Beachtung von betrieblichen Kommunikationsregeln informieren und beraten sowie Kundenanforderungen beachtenc)mit Kunden in englischer Sprache kommunizierenZeitrahmen 6: Fachspezifische Berechnungen Lfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten (Nach Lernzielen der Anlage 3)Zeitrahmen in Monaten12341Anfertigen von technischen Dokumentationen für die Versorgungs- und Ausrüstungstechnik (§ 14 Absatz 2 Abschnitt C Nummer 4)a)Tabellen und Diagramme der Versorgungs- und Ausrüstungstechnik erstellen3 bis 52Ausführen technischer Berechnungen (§ 14 Absatz 2 Abschnitt C Nummer 5)a)Grundgesetze der Mechanik von Flüssigkeiten und Gasen anwendenb)Bauteile und Komponenten von Anlagen der technischen Gebäudeausrüstung mit Hilfe von Normen, Richtlinien, technischen Unterlagen, Auslegungssoftware, Handbüchern und Katalogen berechnen und bestimmenc)Arbeit, Leistung und Wirkungsgrade der Bauteile und Komponenten von Anlagen der technischen Gebäudeausrüstung mit Hilfe von Berechnungsprogrammen, Auslegungshilfen und technischen Unterlagen berechnen oder bestimmend)Dimensionierung von Leitungen und Bauteilen auf Basis von Zeichnungen und vorangegangenen Berechnungen vornehmene)Bedarfsberechnungen im Rahmen der gebäudetechnischen Prozessabläufe nach projektbezogenen Vorgaben erstellenFachrichtung Stahl- und MetallbautechnikZeitrahmen 7: Fachspezifische Konstruktion Lfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten (Nach Lernzielen der Anlage 3)Zeitrahmen in Monaten12341Beurteilen von Werkstoffen und Korrosionsschutzverfahren (§ 14 Absatz 2 Abschnitt B Nummer 1)b)Werkstoffe nach Verwendungszweck auswählen12 bis 162Beurteilen von Montage- und Fügeverfahren (§ 14 Absatz 2 Abschnitt B Nummer 2)a)Verbindungstechnik für lösbare und nicht lösbare Verbindungen beurteilen und auswählen3Erstellen technischer Unterlagen (§ 14 Absatz 2 Abschnitt B Nummer 3)g)sicherheitstechnische Bestimmungen, insbesondere des Brandschutzes, beachten4Erstellen technischer Unterlagen der Stahl- und Metallbautechnik (§ 14 Absatz 2 Abschnitt D Nummer 1)a)Teil-, Gruppen-, Gesamt- und Übersichtszeichnungen unter Anwendung von Sinnbildern sowie der Norm- und Regelwerke für Werkstatt und Baustelle erstellenb)Zusatzangaben auswählen und eintragenc)Toleranzen eigener und angrenzender Bauelemente berücksichtigene)Pläne unter Anwendung der einschlägigen Normen und Richtlinien nach Vorlagen, Entwürfen und Anweisungen, insbesondere Verankerungs-, Schweißfolge-, Schachtel-, Montagefolge- und Versandpläne sowie Verlegepläne für Bauelemente, anfertigenf)Baustellen-Messpunkte, Raster, Koordinaten und Höhenpunkte festlegen, übertragen und berücksichtigeng)Bauteile und Knotenpunkte perspektivisch darstellen5Entwerfen und Konstruieren (§ 14 Absatz 2 Abschnitt D Nummer 2)a)konstruktive Änderungen nach Anweisungen vornehmenb)Detailpunkte, insbesondere Naturgrößen, konstruierend)Eigenheiten der Korrosionsschutzverfahren konstruktiv berücksichtigenh)Lehrsätze der Mechanik anwenden6Berücksichtigen von bauphysikalischen Anforderungen (§ 14 Absatz 2 Abschnitt D Nummer 3)c)Witterungs- und Umgebungseinflüsse konstruktiv berücksichtigen7Durchführen von Berechnungen (§ 14 Absatz 2 Abschnitt D Nummer 4)a)Grundgesetze der Mechanik, insbesondere Geschwindigkeit und Beschleunigung, Kräfte und Kräftezerlegung sowie Drehmoment und Reibung, anwendenb)Grundgesetze der Festigkeitsberechnung, insbesondere zu Flächenpressung, Zug-, Druck- und Scherbeanspruchung, anwendenc)Verbindungselemente und Verbindungen auswählene)Längen- und Flächenberechnungen durchführen, insbesondere Bauteilabmaße und Systemmaße bestimmenZeitrahmen 8: Projektbezogene Konstruktion Lfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten (Nach Lernzielen der Anlage 3)Zeitrahmen in Monaten12341Erstellen technischer Unterlagen der Stahl- und Metallbautechnik (§ 14 Absatz 2 Abschnitt D Nummer 1)d)Angebotszeichnungen anfertigen 8 bis 122Entwerfen und Konstruieren (§ 14 Absatz 2 Abschnitt D Nummer 2)c)Anschlüsse zu angrenzenden Bauteilen konstruktiv festlegen und auswählene)Bauordnungen beachtenf)bauaufsichtliche Zulassungen beachteng)Verdingungsordnung für Bauleistungen beachten3Berücksichtigen von bauphysikalischen Anforderungen (§ 14 Absatz 2 Abschnitt D Nummer 3)a)Wärme- und Schallschutzanforderungen konstruktiv berücksichtigenb)Brandschutzanforderungen konstruktiv berücksichtigend)einschlägige Normen und Vorschriften berücksichtigen4Durchführen von Berechnungen (§ 14 Absatz 2 Abschnitt D Nummer 4)d)Hauptnutzungszeiten berechnenf)statische Berechnungen durchführen, insbesondere Linien- und Flächenschwerpunkte, Auflagerkräfte sowie Biege- und Flächenmomente bestimmen5Auswählen von Fertigungs-, Montage- und Fügeverfahren (§ 14 Absatz 2 Abschnitt D Nummer 5)a)Trennverfahren unter Berücksichtigung von Werkstoff, geometrischen Gegebenheiten und Oberflächenbeschaffenheit beurteilen und auswählenb)Umformverfahren unter Berücksichtigung von Werkstoff, geometrischen Gegebenheiten, Oberflächenbeschaffenheit und Hilfsstoff beurteilen und auswählenc)Schraub- und Schweißverbindungen beurteilen und auswählend)Regeln der Verbundkonstruktion beachten6Anwenden von Informations- und Kommunikationstechniken (§ 14 Absatz 2 Abschnitt F Nummer 5)c)Informationen, insbesondere auch englischsprachige, beschaffen, bewerten und nutzen7Arbeitsplanung und -organisation (§ 14 Absatz 2 Abschnitt F Nummer 6)a)Arbeitsaufträge und Vorgaben auf Umsetzbarkeit prüfenc)Arbeitsschritte und -abläufe nach funktionalen, organisatorischen, fertigungstechnischen und wirtschaftlichen Kriterien festlegen und sicherstellene)Arbeitsauftrag planen und mit vor- und nachgelagerten Bereichen abstimmenf)Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleicheng)Arbeitsergebnisse zusammenführen, erbrachte Leistungen kontrollieren und anhand der Vorgaben bewerten sowie dokumentierenh)Aufgaben im Team planen und bearbeiten; Teamergebnisse abstimmen, auswerten und präsentieren8Durchführen von qualitätssichernden Maßnahmen (§ 14 Absatz 2 Abschnitt F Nummer 7)b)qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, insbesondere Zwischen- und Endergebnisse prüfen und beurteilenc)Fehler und Qualitätsmängel sowie deren Ursachen erkennen und Maßnahmen zur Beseitigung ergreifen und dokumentierend)zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen9Kundenorientierung (§ 14 Absatz 2 Abschnitt F Nummer 8)a)kundenspezifische Anforderungen und Informationen entgegennehmen, im Betrieb weiterleiten und berücksichtigenb)Kunden unter Beachtung von betrieblichen Kommunikationsregeln informieren und beraten sowie Kundenanforderungen beachtenc)mit Kunden in englischer Sprache kommunizierend)kulturelle Identitäten berücksichtigenFachrichtung Elektrotechnische SystemeZeitrahmen 9: Elektrotechnische Systeme planenLfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten (Nach Lernzielen der Anlage 3)Zeitrahmen in Monaten12341Erstellen technischer Unterlagen für elektrotechnische Systeme (§ 14 Absatz 2 Abschnitt E Nummer 1)a)Funktionsschaltpläne und Diagramme anfertigenb)Systemkomponenten und Leitungen von energie- und informationstechnischen Anlagen nach Vorgaben berechnen und dimensionierene)Anordnungs- und Verdrahtungspläne sowie Tabellen von energie- und informationstechnischen Anlagen nach vorgegebenen Schaltplänen und Skizzen entwerfen und erstellenf)Installationspläne für Gebäudeinstallationen mit Einrichtungen der Energie- und Informationstechnik nach Vorgaben unter Berücksichtigung der einschlägigen Regelwerken entwerfen und erstellen12 bis 162Ausführen von Berechnungen (§ 14 Absatz 2 Abschnitt E Nummer 2)a)Grundgesetze der Elektrotechnik anwendenb)Arbeit, Leistung und Wirkungsgrad berechnenc)Beleuchtungsstärken berechnend)Diagramme, Tabellen und Datenblätter aus Handbüchern und Katalogen nutzene)Bauteile anhand von Kennwerten bestimmenf)elektrische Größen im Gleich-, Wechsel- und Drehstromkreis berechnen3Beurteilen und Anwenden von Systemkomponenten (§ 14 Absatz 2 Abschnitt E Nummer 3)a)Befestigungssysteme und Wanddurchlässe auch unter Berücksichtigung des Brandschutzes beurteilen und auswählen4Ausführen von Detailplänen (§ 14 Absatz 2 Abschnitt E Nummer 4)a)Ansichtspläne erstellenb)Technikräume planenc)Leerrohrpläne und Wandansichten erstellen5Anfertigen von schematischen und perspektivischen Darstellungen (§ 14 Absatz 2 Abschnitt E Nummer 5)a)Übersichtsschaltpläne aus Grundrissplänen erstellenb)schematische Darstellungen unter Anwendung der einschlägigen Normen und Sinnbilder nach technischen Unterlagen auch perspektivisch erstellen6Anfertigen von technischen Dokumentationen (§ 14 Absatz 2 Abschnitt E Nummer 6)a)Dokumentationen energietechnischer und informationstechnischer Anlagen auswählen und erstellenb)fachbezogene Tabellen und Diagramme erstellen7Anwenden von Informations- und Kommunikationstechniken (§ 14 Absatz 2 Abschnitt F Nummer 5)b)Standardsoftware, insbesondere zur Tabellenkalkulation, Textverarbeitung und Präsentation, einsetzenc)Informationen, insbesondere auch englischsprachige, beschaffen, bewerten und nutzen8Arbeitsplanung und -organisation (§ 14 Absatz 2 Abschnitt F Nummer 6)a)Arbeitsaufträge und Vorgaben auf Umsetzbarkeit prüfenc)Arbeitsschritte und -abläufe nach funktionalen, organisatorischen, fertigungstechnischen und wirtschaftlichen Kriterien festlegen und sicherstellene)Arbeitsauftrag planen und mit vor- und nachgelagerten Bereichen abstimmenf)Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleichen9Kundenorientierung (§ 14 Absatz 2 Abschnitt F Nummer 8)a)kundenspezifische Anforderungen und Informationen entgegennehmen, im Betrieb weiterleiten und berücksichtigenZeitrahmen 10: Projektbezogene Realisierung Lfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten (Nach Lernzielen der Anlage 3)Zeitrahmen in Monaten12341Erstellen technischer Unterlagen für elektrotechnische Systeme (§ 14 Absatz 2 Abschnitt E Nummer 1)c)Bauteile und Leitungen von energie- und informationstechnischen Anlagen anhand von Katalogen und Datenblättern auswählen, verbinden und darstellend)Steuerschaltungen und Steuerprogramme entwerfen und Schaltungen der Datenübertragung darstelleng)Funktionen von Systemkomponenten und deren Verschaltungen beurteilen und darstellen4 bis 82Beurteilen und Anwenden von Systemkomponenten (§ 14 Absatz 2 Abschnitt E Nummer 3)b)Bauelemente der Elektrotechnik erläutern und zu Schaltungen verbindenc)Elemente der Steuerungs-, Regelungs- und Antriebstechnik erläutern und zu Schaltungen verbindend)Gefahren identifizieren, Schutzmaßnahmen anwenden3Anfertigen von technischen Dokumentationen (§ 14 Absatz 2 Abschnitt E Nummer 6)c)technische Sachverhalte beurteilen sowie Aufmaße, Protokolle und Stücklisten anfertigen und prüfen4Arbeitsplanung und -organisation (§ 14 Absatz 2 Abschnitt F Nummer 6)h)Aufgaben im Team planen und bearbeiten; Teamergebnisse abstimmen, auswerten und präsentieren5Durchführen von qualitätssichernden Maßnahmen (§ 14 Absatz 2 Abschnitt F Nummer 7)b)qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, insbesondere Zwischen- und Endergebnisse prüfen und beurteilenc)Fehler und Qualitätsmängel sowie deren Ursachen erkennen und Maßnahmen zur Beseitigung ergreifen und dokumentierend)zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen6Kundenorientierung (§ 14 Absatz 2 Abschnitt F Nummer 8)b)Kunden unter Beachtung von betrieblichen Kommunikationsregeln informieren und beraten sowie Kundenanforderungen beachtenc)mit Kunden in englischer Sprache kommunizierend)kulturelle Identitäten berücksichtigenZeitrahmen 11: Elektrotechnische Systeme dokumentieren Lfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten (Nach Lernzielen der Anlage 3)Zeitrahmen in Monaten12341Anfertigen von schematischen und perspektivischen Darstellungen (§ 14 Absatz 2 Abschnitt E Nummer 5)c)fachbezogene Funktionsabläufe nach technischen Unterlagen darstellen und dokumentieren3 bis 52Anfertigen von technischen Dokumentationen (§ 14 Absatz 2 Abschnitt E Nummer 6)d)auftragsbezogene Daten systematisch und kundenorientiert zusammenstellen3Arbeitsplanung und -organisation (§ 14 Absatz 2 Abschnitt F Nummer 6)g)Arbeitsergebnisse zusammenführen, erbrachte Leistungen kontrollieren und anhand der Vorgaben bewerten sowie dokumentieren
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+a)
+
+b)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
+
+d)
+
+1. bis 3. Ausbildungshalbjahr:
+
+Zeitrahmen 1: Darstellung von Bauteilen und Baugruppen
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+a)
+
+b)
+
+c)
+
+d)
+
+a)
+
+a)
+
+c)
+
+a)
+
+d)
+
+e)
+
+b)
+
+Zeitrahmen 2: Fertigungs- und Montagetechnik
+
+i)
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+a)
+
+d)
+
+e)
+
+d)
+
+a)
+
+Zeitrahmen 3: Technische Dokumente erstellen
+
+g)
+
+h)
+
+i)
+
+c)
+
+d)
+
+e)
+
+b)
+
+c)
+
+b)
+
+b)
+
+c)
+
+a)
+
+b)
+
+a)
+
+b)
+
+f)
+
+a)
+
+b)
+
+b)
+
+d)
+
+4. bis 7. Ausbildungshalbjahr:
+
+Fachrichtung Versorgungs- und Ausrüstungstechnik
+
+Zeitrahmen 4: Fachspezifische Konstruktion
+
+a)
+
+c)
+
+d)
+
+e)
+
+g)
+
+h)
+
+a)
+
+b)
+
+d)
+
+b)
+
+c)
+
+b)
+
+c)
+
+a)
+
+c)
+
+e)
+
+f)
+
+g)
+
+h)
+
+b)
+
+c)
+
+d)
+
+Zeitrahmen 5: Projektbezogene Konstruktion
+
+b)
+
+f)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
+
+a)
+
+c)
+
+a)
+
+b)
+
+c)
+
+Zeitrahmen 6: Fachspezifische Berechnungen
+
+a)
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+Fachrichtung Stahl- und Metallbautechnik
+
+Zeitrahmen 7: Fachspezifische Konstruktion
+
+b)
+
+a)
+
+g)
+
+a)
+
+b)
+
+c)
+
+e)
+
+f)
+
+g)
+
+a)
+
+b)
+
+d)
+
+h)
+
+c)
+
+a)
+
+b)
+
+c)
+
+e)
+
+Zeitrahmen 8: Projektbezogene Konstruktion
+
+d)
+
+c)
+
+e)
+
+f)
+
+g)
+
+a)
+
+b)
+
+d)
+
+d)
+
+f)
+
+a)
+
+b)
+
+c)
+
+d)
+
+c)
+
+a)
+
+c)
+
+e)
+
+f)
+
+g)
+
+h)
+
+b)
+
+c)
+
+d)
+
+a)
+
+b)
+
+c)
+
+d)
+
+Fachrichtung Elektrotechnische Systeme
+
+Zeitrahmen 9: Elektrotechnische Systeme planen
+
+a)
+
+b)
+
+e)
+
+f)
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+a)
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+a)
+
+b)
+
+b)
+
+c)
+
+a)
+
+c)
+
+e)
+
+f)
+
+a)
+
+Zeitrahmen 10: Projektbezogene Realisierung
+
+c)
+
+d)
+
+g)
+
+b)
+
+c)
+
+d)
+
+c)
+
+h)
+
+b)
+
+c)
+
+d)
+
+b)
+
+c)
+
+d)
+
+Zeitrahmen 11: Elektrotechnische Systeme dokumentieren
+
+c)
+
+d)
+
+g)

@@ -19,4 +19,4 @@ Diese Verordnung tritt am 1. August 2013 in Kraft.
 
 ### Anlage — (zu § 1)
 
-(Fundstelle: BGBl. I 2013, 2579 - 2580)(Text der Anlage siehe: GO-MEDAS)
+(Text der Anlage siehe: GO-MEDAS)

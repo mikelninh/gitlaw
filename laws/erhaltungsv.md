@@ -14,65 +14,53 @@ Die Vorschriften dieser Verordnung gelten für die Zulassung von Erhaltungssorte
 
 (1) Eine Sorte wird als Erhaltungssorte zugelassen, wenn
 
-1.
+1. sie weder in der Sortenliste noch im Gemeinsamen Sortenkatalog für landwirtschaftliche Pflanzenarten der Europäischen Gemeinschaft oder im Gemeinsamen Sortenkatalog für Gemüsearten der Europäischen Gemeinschaft eingetragen ist,
 
-2.
+2. sie nicht durch einen nationalen oder gemeinschaftlichen Sortenschutz geschützt ist und sich nicht im Antragsverfahren für die Erteilung eines solchen Sortenschutzes befindet,
 
-3.
+3. seit a)der Löschung aus der Sortenliste, dem Gemeinsamen Sortenkatalog für landwirtschaftliche Pflanzenarten oder dem Gemeinsamen Sortenkatalog für Gemüsearten undb)dem Ablauf einer Frist nach aa)§ 52 Absatz 6 des Saatgutverkehrsgesetzes,bb)Artikel 15 Absatz 2 der Richtlinie 2002/53/EG des Rates vom 13. Juni 2002 über einen gemeinsamen Sortenkatalog für landwirtschaftliche Pflanzenarten (ABl. L 193 vom 20.7.2002, S. 1) in der jeweils geltenden Fassung odercc)Artikel 15 Absatz 2 der Richtlinie 2002/55/EG des Rates vom 13. Juni 2002 über den Verkehr mit Gemüsesaatgut (ABl. L 193 vom 20.7.2002, S. 33) in der jeweils geltenden Fassungein Zeitraum von mindestens zwei Jahren verstrichen ist und der Löschung aus der Sortenliste, dem Gemeinsamen Sortenkatalog für landwirtschaftliche Pflanzenarten oder dem Gemeinsamen Sortenkatalog für Gemüsearten und dem Ablauf einer Frist nach aa)§ 52 Absatz 6 des Saatgutverkehrsgesetzes,bb)Artikel 15 Absatz 2 der Richtlinie 2002/53/EG des Rates vom 13. Juni 2002 über einen gemeinsamen Sortenkatalog für landwirtschaftliche Pflanzenarten (ABl. L 193 vom 20.7.2002, S. 1) in der jeweils geltenden Fassung odercc)Artikel 15 Absatz 2 der Richtlinie 2002/55/EG des Rates vom 13. Juni 2002 über den Verkehr mit Gemüsesaatgut (ABl. L 193 vom 20.7.2002, S. 33) in der jeweils geltenden Fassung § 52 Absatz 6 des Saatgutverkehrsgesetzes, Artikel 15 Absatz 2 der Richtlinie 2002/53/EG des Rates vom 13. Juni 2002 über einen gemeinsamen Sortenkatalog für landwirtschaftliche Pflanzenarten (ABl. L 193 vom 20.7.2002, S. 1) in der jeweils geltenden Fassung oder Artikel 15 Absatz 2 der Richtlinie 2002/55/EG des Rates vom 13. Juni 2002 über den Verkehr mit Gemüsesaatgut (ABl. L 193 vom 20.7.2002, S. 33) in der jeweils geltenden Fassung
 
-a)
+4. die Sorte traditionell in bestimmten Gebieten (Ursprungsregionen) angebaut wird und an deren besondere regionale Bedingungen angepasst ist und
 
-b)
-
-aa)
-
-bb)
-
-cc)
-
-4.
-
-5.
+5. sichergestellt ist, dass die Sortenerhaltung nach § 50 des Saatgutverkehrsgesetzes in der Ursprungsregion vorgenommen wird.
 
 (1a) Abweichend von Absatz 1 wird eine Gemüsesorte als für den Anbau unter besonderen anbautechnischen Bedingungen oder natürlichen Standortbedingungen gezüchtete Erhaltungssorte (Amateursorte) zugelassen, wenn sie
 
-1.
+1. die Voraussetzungen nach Absatz 1 Nummer 1 bis 3 erfüllt und
 
-2.
+2. keinen Wert für den Anbau zu gewerblichen Zwecken hat.
 
-(2) Der Prüfung der Unterscheidbarkeit und Beständigkeit legt das Bundessortenamt mindestens die Merkmale zugrunde, die in den aufgeführt sind.
+(2) Der Prüfung der Unterscheidbarkeit und Beständigkeit legt das Bundessortenamt mindestens die Merkmale zugrunde, die in den
 
-1.
+1. technischen Fragebögen der in Anhang I der Richtlinie 2003/90/EG der Kommission vom 6. Oktober 2003 mit Durchführungsbestimmungen zu Artikel 7 der Richtlinie 2002/53/EG des Rates hinsichtlich der Merkmale, auf welche sich die Prüfungen mindestens zu erstrecken haben, und der Mindestanforderungen für die Prüfung bestimmter Sorten landwirtschaftlicher Pflanzenarten (ABl. L 254 vom 8.10.2003, S. 7) in der jeweils geltenden Fassung genannten Protokolle des Gemeinschaftlichen Sortenamtes,
 
-2.
+2. technischen Fragebögen der in Anhang II der Richtlinie 2003/90/EG in der jeweils geltenden Fassung genannten Richtlinien des Internationalen Verbandes zum Schutz von Pflanzenzüchtungen,
 
-3.
+3. technischen Fragebögen der in Anhang I der Richtlinie 2003/91/EG der Kommission vom 6. Oktober 2003 mit Durchführungsbestimmungen zu Artikel 7 der Richtlinie 2002/55/EG des Rates hinsichtlich der Merkmale, auf welche sich die Prüfungen mindestens zu erstrecken haben, und der Mindestanforderungen für die Prüfung bestimmter Sorten von Gemüsearten (ABl. L 254 vom 8.10.2003, S. 11) in der jeweils geltenden Fassung genannten Protokolle des Gemeinschaftlichen Sortenamtes oder
 
-4.
+4. technischen Fragebögen der in Anhang II der Richtlinie 2003/91/EG in der jeweils geltenden Fassung genannten Richtlinien des Internationalen Verbandes zum Schutz von Pflanzenzüchtungen
 
-(3) Der Prüfung der Homogenität legt das Bundessortenamt die Vorschriften der zugrunde. Abweichend von den Vorgaben in den genannten Protokollen des Gemeinschaftlichen Sortenamtes und den Richtlinien des Internationalen Verbandes zum Schutz von Pflanzenzüchtungen gelten ein Populationsstandard von 10 vom Hundert sowie eine Akzeptanzwahrscheinlichkeit von mindestens 90 vom Hundert, wenn die Homogenität auf der Basis abweichender Pflanzen bestimmt wird.
+(3) Der Prüfung der Homogenität legt das Bundessortenamt die Vorschriften der
 
-1.
+1. in Anhang I der Richtlinie 2003/90/EG in der jeweils geltenden Fassung genannten Protokolle des Gemeinschaftlichen Sortenamtes,
 
-2.
+2. in Anhang II der Richtlinie 2003/90/EG in der jeweils geltenden Fassung genannten Richtlinien des Internationalen Verbandes zum Schutz von Pflanzenzüchtungen,
 
-3.
+3. in Anhang I der Richtlinie 2003/91/EG in der jeweils geltenden Fassung genannten Protokolle des Gemeinschaftlichen Sortenamtes oder
 
-4.
+4. in Anhang II der Richtlinie 2003/91/EG in der jeweils geltenden Fassung genannten Richtlinien des Internationalen Verbandes zum Schutz von Pflanzenzüchtungen
 
-(4) Abweichend von § 44 Absatz 1 des Saatgutverkehrsgesetzes kann das Bundessortenamt von einem Anbau der Sorte zum Zweck der Prüfung der Unterscheidbarkeit, Beständigkeit und Homogenität absehen, wenn die erforderlichen Erkenntnisse für eine Entscheidung über die Zulassung der Erhaltungssorte auf Grund der ausreichend sind.
+(4) Abweichend von § 44 Absatz 1 des Saatgutverkehrsgesetzes kann das Bundessortenamt von einem Anbau der Sorte zum Zweck der Prüfung der Unterscheidbarkeit, Beständigkeit und Homogenität absehen, wenn die erforderlichen Erkenntnisse für eine Entscheidung über die Zulassung der Erhaltungssorte auf Grund der
 
-1.
+1. Beschreibung der Erhaltungssorte und ihrer Bezeichnung,
 
-2.
+2. früheren eigenen Prüfungsergebnisse des Bundessortenamtes,
 
-3.
+3. Ergebnisse nicht amtlicher Anbauprüfungen,
 
-4.
+4. Erkenntnisse, die auf Grund praktischer Erfahrungen bei Anbau, Vermehrung und Nutzung gewonnen wurden, oder
 
-5.
-
-(5) Im Falle einer Erhaltungssorte von Gemüse wird in die Sortenliste statt der Angabe nach § 47 Absatz 1 Nummer 7 des Saatgutverkehrsgesetzes der Hinweis „Erhaltungssorte, deren Saatgut gemäß Artikel 11 der Richtlinie 2009/145/EG der Kommission kontrolliert wird“ eingetragen. Handelt es sich um eine Amateursorte, wird abweichend von Satz 1 der Hinweis „für den Anbau unter bestimmten Bedingungen gezüchtete Sorte, deren Saatgut gemäß Artikel 26 der Richtlinie 2009/145/EG der Kommission kontrolliert wird“ eingetragen.
+5. sonstigen Erkenntnisse, insbesondere von den für pflanzengenetische Ressourcen zuständigen Behörden,
 
 ### § 3 — Feststellung des landeskulturellen Wertes
 
@@ -80,23 +68,17 @@ Abweichend von § 34 des Saatgutverkehrsgesetzes hat eine Erhaltungssorte einen 
 
 ### § 4 — Antrag auf Zulassung einer Erhaltungssorte
 
-(1) Der Antragsteller hat mit dem Antrag auf Zulassung einer Erhaltungssorte beim Bundessortenamt folgende Angaben zu machen und Unterlagen vorzulegen: Abweichend von Satz 1 Nummer 1 sind mehrere Bezeichnungen für eine Sorte zulässig, sofern es sich um historisch bekannte Namen dieser Sorte handelt.Einer Bescheinigung nach Satz 1 Nummer 5 bedarf es nicht, wenn die Sorte als in ihrem Bestand bedroht gilt. Satz 1 Nummer 3 und 5 gilt nicht für den Antrag auf Zulassung einer Amateursorte.
+(1) Der Antragsteller hat mit dem Antrag auf Zulassung einer Erhaltungssorte beim Bundessortenamt folgende Angaben zu machen und Unterlagen vorzulegen:
 
-1.
+1. eine Sortenbezeichnung,
 
-2.
+2. eine Sortenbeschreibung entsprechend den in § 2 Absatz 2 und 3 genannten Vorschriften,
 
-3.
+3. die Bezeichnung mindestens einer Ursprungsregion,
 
-4.
+4. eine Angabe des Datums a)der letzten Löschung der Sorte aus der Sortenliste oder dem Gemeinsamen Sortenkatalog für landwirtschaftliche Pflanzenarten,b)des Ablaufs einer Frist nach § 2 Absatz 1 Nummer 3 Buchstabe b,c)der Beendigung des Sortenschutzes, der letzten Löschung der Sorte aus der Sortenliste oder dem Gemeinsamen Sortenkatalog für landwirtschaftliche Pflanzenarten, des Ablaufs einer Frist nach § 2 Absatz 1 Nummer 3 Buchstabe b, der Beendigung des Sortenschutzes,
 
-a)
-
-b)
-
-c)
-
-5.
+5. eine Bescheinigung der zuständigen Behörde, aus der hervorgeht, dass es sich um eine Sorte handelt, deren Erhaltung als pflanzengenetische Ressource in der Ursprungsregion bedeutsam ist.
 
 (2) Für den Antrag und die Angabe der Sortenbezeichnung sind die Vordrucke des Bundessortenamtes zu verwenden.
 
@@ -104,27 +86,15 @@ c)
 
 (1) Abweichend von § 3 Absatz 1 Satz 1 Nummer 1 des Saatgutverkehrsgesetzes darf Saatgut zugelassener Erhaltungssorten ohne Anerkennung in den Verkehr gebracht werden.
 
-(2) Saatgut von Erhaltungssorten darf nur in den Verkehr gebracht werden, wenn es Satz 1 Nummer 2 gilt nicht für Saatgut von Erhaltungssorten von Gemüse einschließlich Amateursorten. Satz 1 Nummer 4 gilt nicht für Saatgut von Amateursorten. Abweichend von Satz 1 Nummer 3 darf Saatgut einer Erhaltungssorte, außer Saatgut von Erhaltungssorten von Gemüse einschließlich Amateursorten, auch dann in den Verkehr gebracht werden, wenn es aus Vermehrungsbeständen erwachsen ist, bei denen die festgestellte Zahl der nicht hinreichend sortenechten oder einer anderen Sorte derselben Art angehörenden Pflanzen den nach dem jeweiligen Anhang I der in Satz 1 Nummer 3 genannten Rechtsakte der Europäischen Gemeinschaft erlaubten Wert um nicht mehr als 50 vom Hundert überschritten hat.
+(2) Saatgut von Erhaltungssorten darf nur in den Verkehr gebracht werden, wenn es
 
-1.
+1. von Saatgut abstammt, das nach den Grundsätzen systematischer Erhaltungszüchtung gewonnen worden ist,
 
-2.
+2. aus Vermehrungsbeständen stammt, deren Standort der Vermehrer bis zu dem in Anlage 1 der Saatgutverordnung jeweils genannten Termin der für die Ursprungsregion, oder im Falle eines Vermehrungsbestandes in einer Region nach Absatz 3, der für diese Region zuständigen Behörde mitgeteilt hat,
 
-3.
+3. mindestens die Voraussetzungen für a)Zertifiziertes Saatgut nach Artikel 2 Absatz 1 Buchstabe C Kleinbuchstabe c, Buchstabe Ca Kleinbuchstabe c und Buchstabe Cb Kleinbuchstabe c jeweils in Verbindung mit den Anhängen I und II der Richtlinie 66/401/EWG des Rates vom 14. Juni 1966 über den Verkehr mit Futterpflanzensaatgut (ABl. L 125 vom 11.7.1966, S. 2298) in ihrer jeweils geltenden Fassung,b)Zertifiziertes Saatgut nach Artikel 2 Absatz 1 Buchstabe E Kleinbuchstabe c und Buchstabe G Kleinbuchstabe c jeweils in Verbindung mit den Anhängen I und II der Richtlinie 66/402/EWG des Rates vom 14. Juni 1966 über den Verkehr mit Getreidesaatgut (ABl. L 125 vom 11.7.1966, S. 2309) in ihrer jeweils geltenden Fassung,c)Zertifiziertes Saatgut nach Artikel 2 Absatz 1 Buchstabe d Kleinbuchstabe iii in Verbindung mit Anhang I der Richtlinie 2002/54/EG des Rates vom 13. Juni 2002 über den Verkehr mit Betarübensaatgut (ABl. L 193 vom 20.7.2002, S. 12) in ihrer jeweils geltenden Fassung,d)Zertifiziertes Pflanzgut nach Artikel 2 Buchstabe c Kleinbuchstabe iii in Verbindung mit den Anhängen I und II der Richtlinie 2002/56/EG des Rates vom 13. Juni 2002 über den Verkehr mit Pflanzkartoffeln (ABl. L 193 vom 20.7.2002, S. 60) in ihrer jeweils geltenden Fassung,e)Zertifiziertes Saatgut nach Artikel 2 Absatz 1 Buchstabe e Kleinbuchstabe iii, Buchstabe g Kleinbuchstabe iii und Buchstabe h Kleinbuchstabe iii jeweils in Verbindung mit den Anhängen I und II der Richtlinie 2002/57/EG des Rates vom 13. Juni 2002 über den Verkehr mit Saatgut von Öl- und Faserpflanzen (ABl. L 193 vom 20.7.2002, S. 74) in ihrer jeweils geltenden Fassung oderf)Standardsaatgut nach Artikel 2 Absatz 1 Buchstabe e in Verbindung mit Anhang II der Richtlinie 2002/55/EG des Rates vom 13. Juni 2002 über den Verkehr mit Gemüsesaatgut (ABl. L 193 vom 20.7.2002, S. 33) in ihrer jeweils geltenden Fassungerfüllt und Zertifiziertes Saatgut nach Artikel 2 Absatz 1 Buchstabe C Kleinbuchstabe c, Buchstabe Ca Kleinbuchstabe c und Buchstabe Cb Kleinbuchstabe c jeweils in Verbindung mit den Anhängen I und II der Richtlinie 66/401/EWG des Rates vom 14. Juni 1966 über den Verkehr mit Futterpflanzensaatgut (ABl. L 125 vom 11.7.1966, S. 2298) in ihrer jeweils geltenden Fassung, Zertifiziertes Saatgut nach Artikel 2 Absatz 1 Buchstabe E Kleinbuchstabe c und Buchstabe G Kleinbuchstabe c jeweils in Verbindung mit den Anhängen I und II der Richtlinie 66/402/EWG des Rates vom 14. Juni 1966 über den Verkehr mit Getreidesaatgut (ABl. L 125 vom 11.7.1966, S. 2309) in ihrer jeweils geltenden Fassung, Zertifiziertes Saatgut nach Artikel 2 Absatz 1 Buchstabe d Kleinbuchstabe iii in Verbindung mit Anhang I der Richtlinie 2002/54/EG des Rates vom 13. Juni 2002 über den Verkehr mit Betarübensaatgut (ABl. L 193 vom 20.7.2002, S. 12) in ihrer jeweils geltenden Fassung, Zertifiziertes Pflanzgut nach Artikel 2 Buchstabe c Kleinbuchstabe iii in Verbindung mit den Anhängen I und II der Richtlinie 2002/56/EG des Rates vom 13. Juni 2002 über den Verkehr mit Pflanzkartoffeln (ABl. L 193 vom 20.7.2002, S. 60) in ihrer jeweils geltenden Fassung, Zertifiziertes Saatgut nach Artikel 2 Absatz 1 Buchstabe e Kleinbuchstabe iii, Buchstabe g Kleinbuchstabe iii und Buchstabe h Kleinbuchstabe iii jeweils in Verbindung mit den Anhängen I und II der Richtlinie 2002/57/EG des Rates vom 13. Juni 2002 über den Verkehr mit Saatgut von Öl- und Faserpflanzen (ABl. L 193 vom 20.7.2002, S. 74) in ihrer jeweils geltenden Fassung oder Standardsaatgut nach Artikel 2 Absatz 1 Buchstabe e in Verbindung mit Anhang II der Richtlinie 2002/55/EG des Rates vom 13. Juni 2002 über den Verkehr mit Gemüsesaatgut (ABl. L 193 vom 20.7.2002, S. 33) in ihrer jeweils geltenden Fassung
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-4.
+4. in einer der Ursprungsregionen, auf die sich die Sortenzulassung bezieht, erzeugt worden ist.
 
 (3) Abweichend von Absatz 2 Satz 1 Nummer 4 kann das Bundessortenamt das Inverkehrbringen von Saatgut einer Erhaltungssorte, das in einer anderen als der Ursprungsregion erzeugt worden ist, auf Antrag genehmigen, wenn sich die Ursprungsregion oder Teile von ihr auf Grund geologischer oder klimatischer Verhältnisse nicht für die Saatguterzeugung eignen.
 
@@ -134,11 +104,11 @@ f)
 
 ### § 6 — Beschränkung des Inverkehrbringens
 
-(1) Das Bundessortenamt setzt die Höchstmenge des je Erhaltungssorte und Jahr zum Inverkehrbringen zugelassenen Saatgutes derart fest, dass die festgesetzte Höchstmenge nicht übersteigt. Reicht die Menge nach Satz 1 nicht aus, um 100 Hektar Fläche zu bestellen, setzt das Bundessortenamt die zum Bestellen von 100 Hektar Fläche mit Pflanzen dieser Sorte erforderliche Menge als Höchstmenge fest.
+(1) Das Bundessortenamt setzt die Höchstmenge des je Erhaltungssorte und Jahr zum Inverkehrbringen zugelassenen Saatgutes derart fest, dass die festgesetzte Höchstmenge
 
-1.
+1. im Falle von Sorten von Gerste, Futtererbse, Kartoffel, Mais, Raps, Sonnenblume und Weizen 0,3 vom Hundert der Menge, die an Saatgut derselben Art in einem Anbaujahr im gesamten Bundesgebiet ausgesät wird, oder
 
-2.
+2. im Falle von Sorten aller anderen Arten, außer Gemüsearten, 0,5 vom Hundert der Menge, die an Saatgut derselben Art in einem Anbaujahr im gesamten Bundesgebiet ausgesät wird,
 
 (2) Übersteigt die Summe der für alle Erhaltungssorten einer Pflanzenart nach Absatz 1 festgesetzten Höchstmengen 10 vom Hundert der Menge, die an Saatgut derselben Art in einem Anbaujahr im gesamten Bundesgebiet ausgesät wird, setzt das Bundessortenamt anteilmäßig gekürzte Höchstmengen fest. Führt die Anwendung des Satzes 1 dazu, dass die Summe der für alle Erhaltungssorten einer Pflanzenart festgesetzten Höchstmengen nicht ausreicht, um 100 Hektar mit Pflanzen dieser Art zu bestellen, setzt das Bundessortenamt erst dann anteilmäßig gekürzte Höchstmengen fest, wenn die Summe der für alle Erhaltungssorten einer Pflanzenart nach Absatz 1 festgesetzten Höchstmengen die zum Bestellen von 100 Hektar erforderliche Saatgutmenge übersteigt.
 
@@ -148,13 +118,13 @@ f)
 
 (4) Der Antragsteller hat im Antrag anzugeben:
 
-1.
+1. Erhaltungssorte,
 
-2.
+2. Sortenbezeichnung,
 
-3.
+3. beantragte Saatgutmenge,
 
-4.
+4. Größe und Lage der Anbaufläche, von der das Saatgut stammt oder auf der das Saatgut erzeugt werden soll.
 
 (5) Das Bundessortenamt weist den Antragstellern die Saatgutmengen zu. Übersteigt die Summe der von den Antragstellern für eine Erhaltungssorte beantragten Saatgutmengen die für diese Sorte festgelegte Höchstmenge, weist das Bundessortenamt den Antragstellern die Saatgutmengen anteilmäßig gekürzt zu.
 
@@ -168,8 +138,6 @@ Ein Antragsteller kann gegenüber dem Bundessortenamt eine zusätzliche Region f
 
 ### § 8 — Verpackung und Verschließung
 
-(1) Für Packungen mit Saatgut von Amateursorten gelten die in Anhang II der Richtlinie 2009/145/EG in der jeweils geltenden Fassung genannten Nettohöchstgewichte entsprechend.
-
 (2) Packungen oder Behältnisse von Saatgut von Erhaltungssorten sind von demjenigen zu schließen und mit einer Sicherung zu versehen, der sie gekennzeichnet hat. § 34 Absatz 2 und 4 der Saatgutverordnung in der Fassung der Bekanntmachung vom 8. Februar 2006 (BGBl. I S. 344), die zuletzt durch Artikel 2 der Verordnung vom 23. Juli 2008 (BGBl. I S. 1410) geändert worden ist, gilt entsprechend.
 
 (3) Die Sicherungen dürfen nach Farbe und Aufschrift nicht mit Plomben, Banderolen oder Siegelmarken für Packungen anerkannten Saatgutes verwechselbar sein.
@@ -178,24 +146,24 @@ Ein Antragsteller kann gegenüber dem Bundessortenamt eine zusätzliche Region f
 
 Saatgut einer Erhaltungssorte darf nur in Packungen in den Verkehr gebracht werden, auf denen sich ein Herstelleretikett, ein Aufdruck oder ein Stempel mit folgenden Angaben befindet:
 
-1.
+1. die Angabe „EG-Norm“,
 
-2.
+2. Name und Anschrift oder die Betriebsnummer der für das Kennzeichnen verantwortlichen Person,
 
-3.
+3. das Jahr der Verschließung mit der Angabe „verschlossen ... “ oder, außer bei Pflanzkartoffeln, das Jahr der letzten Probenahme zum Zweck der Keimfähigkeitsprüfung mit der Angabe „beprobt ... “, § 40 Absatz 4 der Saatgutverordnung gilt entsprechend,
 
-4.
+4. Pflanzenart,
 
-5.
+5. Sortenbezeichnung der Erhaltungssorte oder Amateursorte,
 
-6.
+6. die Angabe „Erhaltungssorte“, bei Erhaltungssorten von Gemüse die Angabe „Standardsaatgut einer Erhaltungssorte” , bei Amateursorten die Angabe „Standardsaatgut einer Amateursorte” ,
 
-7.
+7. Ursprungsregion, außer bei Amateursorten,
 
-8.
+8. im Falle von Saatgut, dessen Inverkehrbringen nach § 5 Absatz 3 genehmigt worden ist, die Angabe der Region der Saatguterzeugung,
 
-9.
+9. Bezugsnummer der Partie, vergeben durch die für die Kennzeichnung verantwortliche Person,
 
-10.
+10. angegebenes Netto- oder Bruttogewicht oder die angegebene Anzahl der Samen oder Knollen,
 
-11.
+11. bei Angaben des Gewichtes und im Falle der Verwendung von granulierten Pflanzenschutzmitteln, Granulierungsstoffen oder anderen festen Zusätzen, die Art des Zusatzstoffes und das ungefähre Verhältnis zwischen dem Gewicht des reinen Saatgutes und dem Gesamtgewicht der Packung; dies gilt nicht für Pflanzkartoffeln.

@@ -22,10 +22,6 @@ Diese Anordnung tritt mit Wirkung vom 1. Juli 2013 in Kraft.
 
 ### Anlage — (zu § 1 Absatz 1)
 
-Die örtliche Zuständigkeit der Service-Center richtet sich danach, welche Außenstelle des Bundesverwaltungsamtes zuletzt für die Besoldungsbearbeitung zuständig war.
-
 Abweichend hiervon ist das Service-Center Stuttgart zuständig für ehemalige Berufssoldaten, die aus der ehemaligen Volksmarine der DDR übernommen wurden und von der Außenstelle Kiel Dienstbezüge erhalten haben, sowie ihre Hinterbliebenen.
-
-Übergangsregelung für am 1. Juli 2013 vorhandene Versorgungsempfänger:
 
 Für Versorgungsempfänger, die bis zum 30. Juni 2013 Versorgung von der Wehrbereichsverwaltung West erhalten haben, ist das Service-Center Düsseldorf und für Versorgungsempfänger, die bis zum 30. Juni 2013 Versorgung von der Wehrbereichsverwaltung Süd erhalten haben, das Service-Center Stuttgart zuständig.

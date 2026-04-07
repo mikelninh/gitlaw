@@ -10,11 +10,11 @@
 
 (1) Essig im Sinne dieser Verordnung ist das Erzeugnis, das in 100 Millilitern mindestens 5 Gramm und höchstens 15,5 Gramm Säure, berechnet als wasserfreie Essigsäure, enthält und hergestellt ist
 
-1.
+1. durch Essiggärung aus weingeisthaltigen Flüssigkeiten, auch unter Verdünnen mit Wasser (Gärungsessig),
 
-2.
+2. durch Verdünnen von Essigsäure oder Essigessenz mit Wasser oder
 
-3.
+3. durch Vermischen von Gärungsessig mit Essigsäure, Essigessenz oder Essig aus Essigessenz.
 
 (2) Essigessenz im Sinne dieser Verordnung ist gereinigte, mit Wasser verdünnte Essigsäure, die in 100 Gramm mehr als 15,2 Gramm (15,5 Gramm je 100 Milliliter), jedoch höchstens 25 Gramm wasserfreie Essigsäure enthält.
 
@@ -30,13 +30,13 @@ Essig, der in 100 Millilitern mehr als 11 Gramm Säure, berechnet als wasserfrei
 
 (1) Essig darf nur in den Verkehr gebracht werden, wenn er wie folgt gekennzeichnet ist:
 
-1.
+1. Gärungsessig als „Essig“ in Verbindung mit der Angabe der Ausgangs- und Rohstoffe;
 
-2.
+2. Essig aus Essigsäure als „Essig aus Essigsäure“; Essig aus Essigessenz als „Essig aus Essigessenz“;
 
-3.
+3. mit Essigessenz oder Essig aus Essigessenz vermischter Gärungsessig als „Essig“ mit dem Hinweis „hergestellt unter Zusatz von Essigessenz“;
 
-4.
+4. mit Essigsäure oder Essig aus Essigsäure vermischter Gärungsessig als „Essig“ mit dem Hinweis „hergestellt unter Zusatz von Essigsäure“.
 
 (2) Essigessenz darf nur in den Verkehr gebracht werden, wenn sie als solche gekennzeichnet ist.
 

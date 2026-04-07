@@ -19,7 +19,15 @@ Der nach einem Durchführungsrechtsakt nach Artikel 17 Absatz 3 Unterabsatz 2 de
 
 ### § 3 — Erstattungsfaktor
 
-(1) Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) hat im Falle eines Durchführungsrechtsakts nach Artikel 17 Absatz 3 Unterabsatz 2 der Verordnung (EU) 2021/2116 einen Erstattungsfaktor für die Berechnung des Erstattungsbetrags an die begünstigten Betriebsinhaber festzulegen.(2) Der Erstattungsfaktor nach Absatz 1 ist wie folgt zu berechnen: 1.Addition des Gesamtbetrags der für das Kalenderjahr in der Bundesrepublik Deutschland zu gewährenden Direktzahlungen, die den Schwellenwert nach Artikel 17 Absatz 1 Unterabsatz 2 der Verordnung (EU) 2021/2116 überschreiten, mit 10 000 000 Euro,2.Division des von der Kommission für die Bundesrepublik Deutschland in dem Durchführungsrechtsakt nach Artikel 17 Absatz 3 Unterabsatz 2 der Verordnung (EU) 2021/2116 festgelegten Betrags durch den Betrag nach Nummer 1.Maßgeblich für die Berechnung nach Satz 1 ist das Kalenderjahr, das in dem Agrar-Haushaltsjahr endet, auf das die betreffenden Mittel nach Artikel 12 Absatz 2 Unterabsatz 1 Buchstabe d der Verordnung (EU, Euratom) 2018/1046 übertragen werden. Der Erstattungsfaktor ist auf sechs Nachkommastellen abzurunden.(3) Die Bundesanstalt hat den nach Absatz 2 ermittelten Erstattungsfaktor im Bundesanzeiger bekanntzumachen. Bei der Bekanntmachung nach Satz 1 hat die Bundesanstalt auch auf den Durchführungsrechtsakt der Kommission nach Artikel 17 Absatz 3 Unterabsatz 2 der Verordnung (EU) 2021/2116 hinzuweisen.
+(1) Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) hat im Falle eines Durchführungsrechtsakts nach Artikel 17 Absatz 3 Unterabsatz 2 der Verordnung (EU) 2021/2116 einen Erstattungsfaktor für die Berechnung des Erstattungsbetrags an die begünstigten Betriebsinhaber festzulegen.
+
+(2) Der Erstattungsfaktor nach Absatz 1 ist wie folgt zu berechnen:
+
+1. Addition des Gesamtbetrags der für das Kalenderjahr in der Bundesrepublik Deutschland zu gewährenden Direktzahlungen, die den Schwellenwert nach Artikel 17 Absatz 1 Unterabsatz 2 der Verordnung (EU) 2021/2116 überschreiten, mit 10 000 000 Euro,
+
+2. Division des von der Kommission für die Bundesrepublik Deutschland in dem Durchführungsrechtsakt nach Artikel 17 Absatz 3 Unterabsatz 2 der Verordnung (EU) 2021/2116 festgelegten Betrags durch den Betrag nach Nummer 1.
+
+(3) Die Bundesanstalt hat den nach Absatz 2 ermittelten Erstattungsfaktor im Bundesanzeiger bekanntzumachen. Bei der Bekanntmachung nach Satz 1 hat die Bundesanstalt auch auf den Durchführungsrechtsakt der Kommission nach Artikel 17 Absatz 3 Unterabsatz 2 der Verordnung (EU) 2021/2116 hinzuweisen.
 
 ### § 4 — Mitteilungen der Länder
 
@@ -27,15 +35,21 @@ Für den Zweck der Ermittlung des Erstattungsfaktors nach § 3 haben die zustän
 
 ### § 5 — Erstattungsbetrag
 
-(1) Der Erstattungsbetrag für die begünstigten Betriebsinhaber ist zu berechnen, indem die dem jeweiligen Betriebsinhaber für das Kalenderjahr im Sinne des § 3 Absatz 2 Satz 2 zu gewährenden Direktzahlungen, die den in Artikel 17 Absatz 1 Unterabsatz 2 der Verordnung (EU) 2021/2116 genannten Schwellenwert überschreiten, mit dem nach § 3 Absatz 2 ermittelten Erstattungsfaktor multipliziert werden.(2) Werden Direktzahlungen für das Kalenderjahr im Sinne des § 3 Absatz 2 Satz 2 nach dem 15. Oktober des nachfolgenden Kalenderjahres ausgezahlt, hat die Erstattung in dem Agrar-Haushaltsjahr zu erfolgen, für das der Bundesrepublik Deutschland im Rahmen eines Durchführungsrechtsakts nach Artikel 17 Absatz 3 Unterabsatz 2 der Verordnung (EU) 2021/2116 erneut ein Betrag zugewiesen worden ist. Dabei ist der Erstattungsfaktor anzuwenden, der für das Kalenderjahr ermittelt wurde, in dem die betreffenden Direktzahlungen beantragt worden sind.
+(1) Der Erstattungsbetrag für die begünstigten Betriebsinhaber ist zu berechnen, indem die dem jeweiligen Betriebsinhaber für das Kalenderjahr im Sinne des § 3 Absatz 2 Satz 2 zu gewährenden Direktzahlungen, die den in Artikel 17 Absatz 1 Unterabsatz 2 der Verordnung (EU) 2021/2116 genannten Schwellenwert überschreiten, mit dem nach § 3 Absatz 2 ermittelten Erstattungsfaktor multipliziert werden.
+
+(2) Werden Direktzahlungen für das Kalenderjahr im Sinne des § 3 Absatz 2 Satz 2 nach dem 15. Oktober des nachfolgenden Kalenderjahres ausgezahlt, hat die Erstattung in dem Agrar-Haushaltsjahr zu erfolgen, für das der Bundesrepublik Deutschland im Rahmen eines Durchführungsrechtsakts nach Artikel 17 Absatz 3 Unterabsatz 2 der Verordnung (EU) 2021/2116 erneut ein Betrag zugewiesen worden ist. Dabei ist der Erstattungsfaktor anzuwenden, der für das Kalenderjahr ermittelt wurde, in dem die betreffenden Direktzahlungen beantragt worden sind.
 
 ### § 6 — Übergangsvorschriften
 
-(1) Abweichend von § 4 haben die zuständigen Behörden der Länder der Bundesanstalt im Agrar-Haushaltsjahr 2023 den Betrag der in ihrem jeweiligen Zuständigkeitsbereich zu gewährenden Direktzahlungen im Sinne des § 3 Absatz 2 Satz 1 und 2 bis spätestens zum Ablauf des 13. Januar 2023 mitzuteilen.(2) Für ab dem Agrar-Haushaltsjahr 2023 verspätet ausgezahlte Direktzahlungsbeträge, für die Anträge bis einschließlich des Antragsjahres 2021 gestellt worden sind, ist der für das jeweilige Antragsjahr nach § 2 Absatz 1 der Haushaltsdisziplin-Erstattungsverordnung vom 9. Dezember 2014 (BAnz AT 10.12.2014 V2) ermittelte Erstattungsfaktor anzuwenden. Die Erstattung darf frühestens in dem Agrar-Haushaltsjahr erfolgen, für das der Bundesrepublik Deutschland im Rahmen eines Durchführungsrechtsakts nach Artikel 17 Absatz 3 Unterabsatz 2 der Verordnung (EU) 2021/2116 ein entsprechender Betrag zugewiesen worden ist.
+(1) Abweichend von § 4 haben die zuständigen Behörden der Länder der Bundesanstalt im Agrar-Haushaltsjahr 2023 den Betrag der in ihrem jeweiligen Zuständigkeitsbereich zu gewährenden Direktzahlungen im Sinne des § 3 Absatz 2 Satz 1 und 2 bis spätestens zum Ablauf des 13. Januar 2023 mitzuteilen.
+
+(2) Für ab dem Agrar-Haushaltsjahr 2023 verspätet ausgezahlte Direktzahlungsbeträge, für die Anträge bis einschließlich des Antragsjahres 2021 gestellt worden sind, ist der für das jeweilige Antragsjahr nach § 2 Absatz 1 der Haushaltsdisziplin-Erstattungsverordnung vom 9. Dezember 2014 (BAnz AT 10.12.2014 V2) ermittelte Erstattungsfaktor anzuwenden. Die Erstattung darf frühestens in dem Agrar-Haushaltsjahr erfolgen, für das der Bundesrepublik Deutschland im Rahmen eines Durchführungsrechtsakts nach Artikel 17 Absatz 3 Unterabsatz 2 der Verordnung (EU) 2021/2116 ein entsprechender Betrag zugewiesen worden ist.
 
 ### § 7 — Inkrafttreten, Außerkrafttreten
 
-(1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.(2) Gleichzeitig tritt die Haushaltsdisziplin-Erstattungsverordnung vom 9. Dezember 2014 (BAnz AT 10.12.2014 V2) außer Kraft. Abweichend von Satz 1 tritt § 3 der in Satz 1 genannten Verordnung mit Wirkung zum Ablauf des 15. Oktober 2022 außer Kraft.
+(1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+
+(2) Gleichzeitig tritt die Haushaltsdisziplin-Erstattungsverordnung vom 9. Dezember 2014 (BAnz AT 10.12.2014 V2) außer Kraft. Abweichend von Satz 1 tritt § 3 der in Satz 1 genannten Verordnung mit Wirkung zum Ablauf des 15. Oktober 2022 außer Kraft.
 
 ### Schlussformel
 

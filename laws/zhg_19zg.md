@@ -22,7 +22,11 @@ Die für Zahnärzte geltenden Vorschriften des Fünften Buches Sozialgesetzbuch 
 
 ### § 3
 
-(1) An die Stelle der Bestallung als Zahnarzt tritt die Berechtigung zur Ausübung der Zahnheilkunde nach § 19 des Zahnheilkundegesetzes.(2) An die Stelle des Zahnarztregisters tritt ein besonderes Verzeichnis, in das auch der Umfang, in welchem die Zahnheilkunde ausgeübt werden darf, einzutragen ist.(3) Die Vorbereitungszeit gilt als abgeleistet, wenn die in § 1 genannten Personen ihre Tätigkeit in der Zeit seit Inkrafttreten des Zahnheilkundegesetzes bis zur Stellung des Antrags auf Eintragung in das Verzeichnis nach Absatz 2 mindestens fünf Jahre selbständig ausgeübt haben.
+(1) An die Stelle der Bestallung als Zahnarzt tritt die Berechtigung zur Ausübung der Zahnheilkunde nach § 19 des Zahnheilkundegesetzes.
+
+(2) An die Stelle des Zahnarztregisters tritt ein besonderes Verzeichnis, in das auch der Umfang, in welchem die Zahnheilkunde ausgeübt werden darf, einzutragen ist.
+
+(3) Die Vorbereitungszeit gilt als abgeleistet, wenn die in § 1 genannten Personen ihre Tätigkeit in der Zeit seit Inkrafttreten des Zahnheilkundegesetzes bis zur Stellung des Antrags auf Eintragung in das Verzeichnis nach Absatz 2 mindestens fünf Jahre selbständig ausgeübt haben.
 
 ### § 4
 

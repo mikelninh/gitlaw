@@ -36,7 +36,9 @@ Bezieht sich ein Auskunftsersuchen auf Landesrecht, leitet es die Empfangsstelle
 
 ### § 6
 
-(1) Die Empfangsstelle kann ein Auskunftsersuchen an einen Rechtsanwalt, einen Notar, einen beamteten Professor der Rechte oder einen Richter mit deren Zustimmung zur schriftlichen Beantwortung weiterleiten (Artikel 6 Abs. 2 des Übereinkommens). Einem Richter darf die Beantwortung des Auskunftsersuchens nur übertragen werden, wenn auch seine oberste Dienstbehörde zustimmt.(2) Auf das Verhältnis der nach Absatz 1 bestellten Person zur Empfangsstelle finden die Vorschriften der §§ 407, 407a, 408, 409, 411 Abs. 1, 2 und des § 412 Abs. 1 der Zivilprozeßordnung entsprechende Anwendung. Die nach Absatz 1 bestellte Person erhält eine Vergütung wie ein Sachverständiger nach dem Justizvergütungs- und -entschädigungsgesetz. In den Fällen der §§ 409, 411 Abs. 2 der Zivilprozeßordnung und des § 4 des Justizvergütungs- und -entschädigungsgesetzes ist das Amtsgericht am Sitz der Empfangsstelle zuständig.
+(1) Die Empfangsstelle kann ein Auskunftsersuchen an einen Rechtsanwalt, einen Notar, einen beamteten Professor der Rechte oder einen Richter mit deren Zustimmung zur schriftlichen Beantwortung weiterleiten (Artikel 6 Abs. 2 des Übereinkommens). Einem Richter darf die Beantwortung des Auskunftsersuchens nur übertragen werden, wenn auch seine oberste Dienstbehörde zustimmt.
+
+(2) Auf das Verhältnis der nach Absatz 1 bestellten Person zur Empfangsstelle finden die Vorschriften der §§ 407, 407a, 408, 409, 411 Abs. 1, 2 und des § 412 Abs. 1 der Zivilprozeßordnung entsprechende Anwendung. Die nach Absatz 1 bestellte Person erhält eine Vergütung wie ein Sachverständiger nach dem Justizvergütungs- und -entschädigungsgesetz. In den Fällen der §§ 409, 411 Abs. 2 der Zivilprozeßordnung und des § 4 des Justizvergütungs- und -entschädigungsgesetzes ist das Amtsgericht am Sitz der Empfangsstelle zuständig.
 
 ### § 7
 
@@ -50,7 +52,13 @@ Leitet die Empfangsstelle ein Ersuchen an eine von der Landesregierung bestimmte
 
 ### § 9
 
-(1) Die Aufgaben der Empfangsstelle im Sinne des Artikels 2 Abs. 1 des Übereinkommens nimmt das Bundesministerium der Justiz und für Verbraucherschutz wahr.(2) Die Aufgaben der Übermittlungsstelle im Sinne des Artikels 2 Abs. 2 des Übereinkommens nimmt für Ersuchen, die vom Bundesverfassungsgericht oder von Bundesgerichten ausgehen, das Bundesministerium der Justiz und für Verbraucherschutz wahr. Im übrigen nehmen die von den Landesregierungen bestimmten Stellen diese Aufgaben wahr. In jedem Land kann nur eine Übermittlungsstelle eingerichtet werden.(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, eine andere Empfangsstelle zu bestimmen, wenn dies aus Gründen der Verwaltungsvereinfachung oder zur leichteren Ausführung des Übereinkommens notwendig erscheint. Er wird ferner ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, aus den in Satz 1 genannten Gründen eine andere Übermittlungsstelle für Ersuchen zu bestimmen, die vom Bundesverfassungsgericht oder von Bundesgerichten ausgehen.(4) Die Landesregierungen können die Befugnisse nach § 5 Satz 2, § 8 Satz 1 und 3 sowie § 9 Abs. 2 Satz 2 auf die Landesjustizverwaltungen übertragen.
+(1) Die Aufgaben der Empfangsstelle im Sinne des Artikels 2 Abs. 1 des Übereinkommens nimmt das Bundesministerium der Justiz und für Verbraucherschutz wahr.
+
+(2) Die Aufgaben der Übermittlungsstelle im Sinne des Artikels 2 Abs. 2 des Übereinkommens nimmt für Ersuchen, die vom Bundesverfassungsgericht oder von Bundesgerichten ausgehen, das Bundesministerium der Justiz und für Verbraucherschutz wahr. Im übrigen nehmen die von den Landesregierungen bestimmten Stellen diese Aufgaben wahr. In jedem Land kann nur eine Übermittlungsstelle eingerichtet werden.
+
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, eine andere Empfangsstelle zu bestimmen, wenn dies aus Gründen der Verwaltungsvereinfachung oder zur leichteren Ausführung des Übereinkommens notwendig erscheint. Er wird ferner ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, aus den in Satz 1 genannten Gründen eine andere Übermittlungsstelle für Ersuchen zu bestimmen, die vom Bundesverfassungsgericht oder von Bundesgerichten ausgehen.
+
+(4) Die Landesregierungen können die Befugnisse nach § 5 Satz 2, § 8 Satz 1 und 3 sowie § 9 Abs. 2 Satz 2 auf die Landesjustizverwaltungen übertragen.
 
 ### § 10
 
@@ -58,7 +66,9 @@ Die Vorschriften dieses Gesetzes, mit Ausnahme von § 1 Satz 2, sind auf Auskün
 
 ### § 11
 
-(1) Dieses Gesetz tritt gleichzeitig mit dem Europäischen Übereinkommen vom 7. Juni 1968 betreffend Auskünfte über ausländisches Recht in Kraft.(2) Der Tag, an dem dieses Gesetz in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
+(1) Dieses Gesetz tritt gleichzeitig mit dem Europäischen Übereinkommen vom 7. Juni 1968 betreffend Auskünfte über ausländisches Recht in Kraft.
+
+(2) Der Tag, an dem dieses Gesetz in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
 
 ### § 11
 

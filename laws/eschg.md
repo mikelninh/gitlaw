@@ -11,31 +11,31 @@ Fortpflanzungstechniken
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer
 
-1.
+1. auf eine Frau eine fremde unbefruchtete Eizelle überträgt,
 
-2.
+2. es unternimmt, eine Eizelle zu einem anderen Zweck künstlich zu befruchten, als eine Schwangerschaft der Frau herbeizuführen, von der die Eizelle stammt,
 
-3.
+3. es unternimmt, innerhalb eines Zyklus mehr als drei Embryonen auf eine Frau zu übertragen,
 
-4.
+4. es unternimmt, durch intratubaren Gametentransfer innerhalb eines Zyklus mehr als drei Eizellen zu befruchten,
 
-5.
+5. es unternimmt, mehr Eizellen einer Frau zu befruchten, als ihr innerhalb eines Zyklus übertragen werden sollen,
 
-6.
+6. einer Frau einen Embryo vor Abschluß seiner Einnistung in der Gebärmutter entnimmt, um diesen auf eine andere Frau zu übertragen oder ihn für einen nicht seiner Erhaltung dienenden Zweck zu verwenden, oder
 
-7.
+7. es unternimmt, bei einer Frau, welche bereit ist, ihr Kind nach der Geburt Dritten auf Dauer zu überlassen (Ersatzmutter), eine künstliche Befruchtung durchzuführen oder auf sie einen menschlichen Embryo zu übertragen.
 
-(2) Ebenso wird bestraft, wer ohne eine Schwangerschaft der Frau herbeiführen zu wollen, von der die Eizelle stammt.
+(2) Ebenso wird bestraft, wer
 
-1.
+1. künstlich bewirkt, daß eine menschliche Samenzelle in eine menschliche Eizelle eindringt, oder
 
-2.
+2. eine menschliche Samenzelle in eine menschliche Eizelle künstlich verbringt,
 
 (3) Nicht bestraft werden
 
-1.
+1. in den Fällen des Absatzes 1 Nr. 1, 2 und 6 die Frau, von der die Eizelle oder der Embryo stammt, sowie die Frau, auf die die Eizelle übertragen wird oder der Embryo übertragen werden soll, und
 
-2.
+2. in den Fällen des Absatzes 1 Nr. 7 die Ersatzmutter sowie die Person, die das Kind auf Dauer bei sich aufnehmen will.
 
 (4) In den Fällen des Absatzes 1 Nr. 6 und des Absatzes 2 ist der Versuch strafbar.
 
@@ -58,21 +58,13 @@ Wer es unternimmt, eine menschliche Eizelle mit einer Samenzelle künstlich zu b
 
 (2) Besteht auf Grund der genetischen Disposition der Frau, von der die Eizelle stammt, oder des Mannes, von dem die Samenzelle stammt, oder von beiden für deren Nachkommen das hohe Risiko einer schwerwiegenden Erbkrankheit, handelt nicht rechtswidrig, wer zur Herbeiführung einer Schwangerschaft mit schriftlicher Einwilligung der Frau, von der die Eizelle stammt, nach dem allgemein anerkannten Stand der medizinischen Wissenschaft und Technik Zellen des Embryos in vitro vor dem intrauterinen Transfer auf die Gefahr dieser Krankheit genetisch untersucht. Nicht rechtswidrig handelt auch, wer eine Präimplantationsdiagnostik mit schriftlicher Einwilligung der Frau, von der die Eizelle stammt, zur Feststellung einer schwerwiegenden Schädigung des Embryos vornimmt, die mit hoher Wahrscheinlichkeit zu einer Tot- oder Fehlgeburt führen wird.
 
-(3) Eine Präimplantationsdiagnostik nach Absatz 2 darf nur vorgenommen werden. Die im Rahmen der Präimplantationsdiagnostik durchgeführten Maßnahmen, einschließlich der von den Ethikkommissionen abgelehnten Fälle, werden von den zugelassenen Zentren an eine Zentralstelle in anonymisierter Form gemeldet und dort dokumentiert. Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere
+(3) Eine Präimplantationsdiagnostik nach Absatz 2 darf nur
 
-1.
+1. nach Aufklärung und Beratung zu den medizinischen, psychischen und sozialen Folgen der von der Frau gewünschten genetischen Untersuchung von Zellen der Embryonen, wobei die Aufklärung vor der Einholung der Einwilligung zu erfolgen hat,
 
-2.
+2. nachdem eine interdisziplinär zusammengesetzte Ethikkommission an den zugelassenen Zentren für Präimplantationsdiagnostik die Einhaltung der Voraussetzungen des Absatzes 2 geprüft und eine zustimmende Bewertung abgegeben hat und
 
-3.
-
-1.
-
-2.
-
-3.
-
-4.
+3. durch einen hierfür qualifizierten Arzt in für die Präimplantationsdiagnostik zugelassenen Zentren, die über die für die Durchführung der Maßnahmen der Präimplantationsdiagnostik notwendigen diagnostischen, medizinischen und technischen Möglichkeiten verfügen,
 
 (4) Ordnungswidrig handelt, wer entgegen Absatz 3 Satz 1 eine Präimplantationsdiagnostik vornimmt. Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
@@ -86,11 +78,11 @@ nach dem Tode
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer
 
-1.
+1. es unternimmt, eine Eizelle künstlich zu befruchten, ohne daß die Frau, deren Eizelle befruchtet wird, und der Mann, dessen Samenzelle für die Befruchtung verwendet wird, eingewilligt haben,
 
-2.
+2. es unternimmt, auf eine Frau ohne deren Einwilligung einen Embryo zu übertragen, oder
 
-3.
+3. wissentlich eine Eizelle mit dem Samen eines Mannes nach dessen Tode künstlich befruchtet.
 
 (2) Nicht bestraft wird im Fall des Absatzes 1 Nr. 3 die Frau, bei der die künstliche Befruchtung vorgenommen wird.
 
@@ -105,15 +97,11 @@ Keimbahnzellen
 
 (4) Absatz 1 findet keine Anwendung auf
 
-1.
+1. eine künstliche Veränderung der Erbinformation einer außerhalb des Körpers befindlichen Keimzelle, wenn ausgeschlossen ist, daß diese zur Befruchtung verwendet wird,
 
-2.
+2. eine künstliche Veränderung der Erbinformation einer sonstigen körpereigenen Keimbahnzelle, die einer toten Leibesfrucht, einem Menschen oder einem Verstorbenen entnommen worden ist, wenn ausgeschlossen ist, daßa)diese auf einen Embryo, Foetus oder Menschen übertragen wird oder b)aus ihr eine Keimzelle entsteht, diese auf einen Embryo, Foetus oder Menschen übertragen wird oder aus ihr eine Keimzelle entsteht, sowie
 
-a)
-
-b)
-
-3.
+3. Impfungen, strahlen-, chemotherapeutische oder andere Behandlungen, mit denen eine Veränderung der Erbinformation von Keimbahnzellen nicht beabsichtigt ist.
 
 ### § 6 — Klonen
 
@@ -125,23 +113,19 @@ b)
 
 ### § 7 — Chimären- und Hybridbildung
 
-(1) Wer es unternimmt, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+(1) Wer es unternimmt,
 
-1.
+1. Embryonen mit unterschiedlichen Erbinformationen unter Verwendung mindestens eines menschlichen Embryos zu einem Zellverband zu vereinigen,
 
-2.
+2. mit einem menschlichen Embryo eine Zelle zu verbinden, die eine andere Erbinformation als die Zellen des Embryos enthält und sich mit diesem weiter zu differenzieren vermag, oder
 
-3.
+3. durch Befruchtung einer menschlichen Eizelle mit dem Samen eines Tieres oder durch Befruchtung einer tierischen Eizelle mit dem Samen eines Menschen einen differenzierungsfähigen Embryo zu erzeugen,
 
 (2) Ebenso wird bestraft, wer es unternimmt,
 
-1.
+1. einen durch eine Handlung nach Absatz 1 entstandenen Embryo aufa)eine Frau oder b)ein Tier eine Frau oder ein Tier zu übertragen oder
 
-a)
-
-b)
-
-2.
+2. einen menschlichen Embryo auf ein Tier zu übertragen.
 
 ### § 8 — Begriffsbestimmung
 
@@ -155,13 +139,13 @@ b)
 
 Nur ein Arzt darf vornehmen:
 
-1.
+1. die künstliche Befruchtung,
 
-2.
+2. die Präimplantationsdiagnostik,
 
-3.
+3. die Übertragung eines menschlichen Embryos auf eine Frau,
 
-4.
+4. die Konservierung eines menschlichen Embryos sowie einer menschlichen Eizelle, in die bereits eine menschliche Samenzelle eingedrungen oder künstlich eingebracht worden ist.
 
 ### § 10 — Freiwillige Mitwirkung
 
@@ -169,13 +153,13 @@ Niemand ist verpflichtet, Maßnahmen der in § 9 bezeichneten Art vorzunehmen od
 
 ### § 11 — Verstoß gegen den Arztvorbehalt
 
-(1) Wer, ohne Arzt zu sein, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
+(1) Wer, ohne Arzt zu sein,
 
-1.
+1. entgegen § 9 Nr. 1 eine künstliche Befruchtung vornimmt,
 
-2.
+2. entgegen § 9 Nummer 2 eine Präimplantationsdiagnostik vornimmt oder
 
-3.
+3. entgegen § 9 Nummer 3 einen menschlichen Embryo auf eine Frau überträgt,
 
 (2) Nicht bestraft werden im Fall des § 9 Nr. 1 die Frau, die eine künstliche Insemination bei sich vornimmt, und der Mann, dessen Samen zu einer künstlichen Insemination verwendet wird.
 

@@ -17,7 +17,9 @@ Der Bundesminister der Finanzen wird ermächtigt, Änderungen der Anlage des Ver
 
 ### Art 3
 
-(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer der in Artikel 6 Abs. 1 des Vertrages bezeichneten Beschränkungen zuwiderhandelt.(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend Deutsche Mark geahndet werden.(3) Für das Bußgeldverfahren gelten die §§ 446, 447 und 449 der Reichsabgabenordnung entsprechend.
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer der in Artikel 6 Abs. 1 des Vertrages bezeichneten Beschränkungen zuwiderhandelt.
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend Deutsche Mark geahndet werden.
 
 > Art. 3 Abs. 3 Kursivdruck: Vgl. jetzt §§ 409, 410 u. 412 AO 1977 610-1-3
 
@@ -27,4 +29,6 @@ Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung die
 
 ### Art 5
 
-(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.(2) Der Tag, an dem der Vertrag nach seinem Artikel 24 Abs. 2 sowie das Protokoll und das Zusatzprotokoll in Kraft treten, ist im Bundesgesetzblatt bekanntzugeben.
+(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
+
+(2) Der Tag, an dem der Vertrag nach seinem Artikel 24 Abs. 2 sowie das Protokoll und das Zusatzprotokoll in Kraft treten, ist im Bundesgesetzblatt bekanntzugeben.

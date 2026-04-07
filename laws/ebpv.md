@@ -18,15 +18,15 @@
 
 (1) Der Prüfungsausschuss besteht aus dem Vorsitzenden sowie weiteren Mitgliedern.
 
-(2) Die zuständige Aufsichtsbehörde bestimmt seine Mitglieder sowie aus deren Kreis den Vorsitzenden. Der Vorsitzende muss sein: Die Mitglieder werden jeweils für ein oder mehrere Prüfungsfächer berufen. Sie müssen im jeweiligen Prüfungsgebiet sachkundig und für die Mitwirkung im Prüfungswesen geeignet sein.
+(2) Die zuständige Aufsichtsbehörde bestimmt seine Mitglieder sowie aus deren Kreis den Vorsitzenden. Der Vorsitzende muss sein:
 
-1.
+1. Beamter des höheren technischen Verwaltungsdienstes oder vergleichbarer Tarifbeschäftigter,
 
-2.
+2. Beamter des höheren allgemeinen Verwaltungsdienstes mit der Befähigung zum Richteramt oder vergleichbarer Tarifbeschäftigter,
 
-3.
+3. Diplomjurist im höheren Dienst oder
 
-4.
+4. bestätigter Eisenbahnbetriebsleiter.
 
 (3) Die zuständige Aufsichtsbehörde bestimmt darüber hinaus einen ersten und weitere Stellvertreter des Vorsitzenden. Der erste Stellvertreter vertritt den Vorsitzenden, wenn dieser verhindert ist. Ein weiterer Stellvertreter vertritt den Vorsitzenden, wenn der erste Stellvertreter in der Vertretung verhindert ist. Sind sowohl der Vorsitzende als auch seine Stellvertreter verhindert, bestimmt die zuständige Aufsichtsbehörde zur Gewährleistung der Durchführung der Prüfungen einen weiteren Stellvertreter.
 
@@ -58,17 +58,11 @@ Die Mitglieder des Prüfungsausschusses haben über die Prüfungsvorgänge gegen
 
 Zur Prüfung wird auf eigenen Antrag zugelassen, wer
 
-1.
+1. ein Studium des Bauingenieurwesens, des Maschinenbaus, der Elektrotechnik, einer diesen verwandten Ingenieurwissenschaft oder einer Ingenieurwissenschaft des Verkehrswesens ana)einer deutschen wissenschaftlichen Hochschule, b)einer deutschen staatlichen oder staatlich anerkannten Fachhochschule oder c)einer von der zuständigen Stelle des Landes als gleichwertig anerkannten ausländischen Hochschule einer deutschen wissenschaftlichen Hochschule, einer deutschen staatlichen oder staatlich anerkannten Fachhochschule oder einer von der zuständigen Stelle des Landes als gleichwertig anerkannten ausländischen Hochschule erfolgreich abgeschlossen hat und
 
-a)
+2. mindestens drei Jahre bei Eisenbahnen als Ingenieur für den Bau oder den Betrieb der Eisenbahn tätig gewesen ist; Tätigkeiten bei anderen Stellen als Ingenieur in einem Fachbereich, zu dem in erheblichem Umfang die Planung, der Bau, der Betrieb oder die Überwachung spurgebundener Bahnen gehören; können bis zu einem Jahr angerechnet werden, oder
 
-b)
-
-c)
-
-2.
-
-3.
+3. nach § 3 Abs. 1 Nr. 2 Buchstabe c der Eisenbahnbetriebsleiterverordnung vom 7. Juli 2000 (BGBl. I S. 1023) mindestens drei Jahre als bestätigter Straßenbahn-Betriebsleiter tätig gewesen ist.
 
 ### § 8 — Anmeldung zur Prüfung
 
@@ -76,11 +70,11 @@ c)
 
 (2) Der Prüfungsbewerber hat auf seine Kosten dem Antrag folgende Unterlagen beizufügen:
 
-1.
+1. einen Lebenslauf mit Lichtbild, das nicht älter als ein Jahr ist,
 
-2.
+2. beglaubigte Ablichtungen der Zeugnisse über die nach § 7 Nr. 1 erforderliche Ausbildung und
 
-3.
+3. Nachweise über seine Tätigkeiten nach § 7 Nr. 2 oder 3.
 
 ### § 9 — Entscheidung über die Zulassung
 
@@ -108,11 +102,11 @@ c)
 
 (2) Die schriftliche Prüfung umfasst je eine Arbeit aus den Fächern
 
-1.
+1. Technik der Betriebsanlagen,
 
-2.
+2. Technik der Fahrzeuge und
 
-3.
+3. Bahnbetrieb.
 
 (3) An die Stelle der schriftlichen Arbeiten nach Absatz 2 Nr. 1 und 2 kann eine fachübergreifende Arbeit über die Technik der Betriebsanlagen und Fahrzeuge treten.
 
@@ -120,75 +114,75 @@ c)
 
 (5) Das Fach Technik der Betriebsanlagen erstreckt sich insbesondere auf Fragen über
 
-1.
+1. Trassierungsgrundsätze,
 
-2.
+2. Belastbarkeit des Oberbaues und der Bauwerke, Standsicherheit von Bauwerken,
 
-3.
+3. Bahnübergänge und Kreuzungen,
 
-4.
+4. Zugsicherungs- und Telekommunikationstechnik,
 
-5.
+5. Energieversorgung,
 
-6.
+6. Instandhaltung von Betriebsanlagen sowie
 
-7.
+7. Einrichtung und Sicherung von Baustellen.
 
 (6) Das Fach Technik der Fahrzeuge erstreckt sich insbesondere auf Fragen über
 
-1.
+1. Fahrzeugarten und Betriebsweisen,
 
-2.
+2. Lastannahmen und Bauweise der Fahrzeugkörper,
 
-3.
+3. Laufwerke und Spurführung,
 
-4.
+4. Antrieb und Bremsen,
 
-5.
+5. Begrenzung der Fahrzeuge,
 
-6.
+6. Zug- und Stoßeinrichtungen,
 
-7.
+7. Sicherheitseinrichtungen,
 
-8.
+8. überwachungsbedürftige Anlagen der Fahrzeuge sowie
 
-9.
+9. Instandhaltung von Fahrzeugen.
 
 (7) Das Fach Bahnbetrieb erstreckt sich insbesondere auf Fragen über
 
-1.
+1. Grundsätze des Fahrdienstes,
 
-2.
+2. Fahrgeschwindigkeiten, Fahrzeitermittlung, Zugfolge, Streckenleistungsfähigkeit,
 
-3.
+3. Fahrpläne,
 
-4.
+4. Ausbildung, Prüfung und Überwachung des Betriebspersonals,
 
-5.
+5. Einsatz des Betriebspersonals, Dienstplangestaltung,
 
-6.
+6. Unfallverhütung, Verhalten bei Unfällen und Betriebsstörungen, Brandschutz, Ladevorschriften und Umgang mit Gefahrgut,
 
-7.
+7. Verfahren für die Durchführung von Risikoanalysen und Risikobewertungen,
 
-8.
+8. Elemente und Methoden eines Sicherheitsmanagementsystems nach Artikel 9 Abs. 2 und 3 der Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über Eisenbahnsicherheit in der Gemeinschaft und zur Änderung der Richtlinie 95/18/EG des Rates über die Erteilung von Genehmigungen an Eisenbahnunternehmen und der Richtlinie 2001/14/EG über die Zuweisung von Fahrwegkapazität der Eisenbahn, die Erhebung von Entgelten für die Nutzung von Eisenbahninfrastruktur und die Sicherheitsbescheinigung (ABl. EU Nr. L 164 S. 44, Nr. L 220 S. 16).
 
 (8) Das Fach Recht und Betriebswirtschaft erstreckt sich insbesondere auf ausgewählte Fragen mit Bezug zu der Tätigkeit eines Betriebsleiters aus den Gebieten
 
-1.
+1. allgemeines Verwaltungsrecht,
 
-2.
+2. Eisenbahnrecht,
 
-3.
+3. Immissionsschutz- und Umweltschutzrecht,
 
-4.
+4. Arbeits- und Arbeitsschutzrecht,
 
-5.
+5. Schadenersatzrecht,
 
-6.
+6. Strafrecht und Ordnungswidrigkeitenrecht,
 
-7.
+7. Bahnpolizeirecht sowie
 
-8.
+8. Grundzüge der Betriebswirtschaft.
 
 (9) In die Prüfung der Fächer Technik der Betriebsanlagen und der Fahrzeuge sowie des Faches Bahnbetrieb sind die fachübergreifenden Gesichtspunkte der Risikoabwägung und Sicherheitsplanung einzubeziehen.
 
@@ -210,13 +204,13 @@ c)
 
 (2) Der Vorsitzende des Prüfungsausschusses bestimmt aus den Mitgliedern des Prüfungsausschusses die für jede Prüfungskommission erforderlichen Fachprüfer und aus diesen einen Prüfungsleiter, der in der Prüfungskommission den Vorsitz führt.
 
-(3) Der Prüfungskommission muss für jedes in der mündlichen Prüfung zu prüfende Fachgebiet ein Fachprüfer angehören, mindestens aber vier Fachprüfer. Jeweils einer der Fachprüfer muss sein: Ein nicht stimmberechtigter Protokollant unterstützt den Prüfungsleiter bei der ordnungsgemäßen Durchführung der Prüfung.
+(3) Der Prüfungskommission muss für jedes in der mündlichen Prüfung zu prüfende Fachgebiet ein Fachprüfer angehören, mindestens aber vier Fachprüfer. Jeweils einer der Fachprüfer muss sein:
 
-1.
+1. Beamter des technischen Verwaltungsdienstes oder vergleichbarer Tarifbeschäftigter,
 
-2.
+2. Beamter des höheren allgemeinen Verwaltungsdienstes mit der Befähigung zum Richteramt, vergleichbarer Tarifbeschäftigter oder ein Diplomjurist im höheren Dienst oder
 
-3.
+3. bestätigter Eisenbahnbetriebsleiter.
 
 (4) In einer Prüfung können gleichzeitig bis zu sechs Prüflinge geprüft werden.
 
@@ -254,8 +248,6 @@ Prüfungsergebnisse, Erteilen der Prüfungszeugnisse
 ### § 20 — Feststellen und Bekanntgeben des Prüfungsergebnisses
 
 (1) Der Prüfungsleiter stellt auf Grund der Bewertungen der mündlichen und schriftlichen Prüfung die Gesamtbewertung fest.
-
-(2) Die Leistungen in den Prüfungsfächern sind jeweils gesondert zu bewerten, wobei in jedem Fach mit schriftlichen und mündlichen Prüfungsleistungen aus der jeweiligen schriftlichen und mündlichen Fachzwischennote der arithmetische Mittelwert zu bilden ist (Fachnote). Im Fach Recht und Betriebswirtschaft ist die mündliche Fachzwischennote zugleich die Fachnote. Das Gesamtergebnis wird durch das arithmetische Mittel der Fachnoten gebildet und lautet bei einem Notenmittelwert Der Notenmittelwert wird auf zwei Dezimalstellen hinter dem Komma ohne Auf- und Abrundung berechnet.
 
 (3) Die Prüfung ist als bestanden zu erklären, wenn in allen Fächern jeweils mindestens ausreichende Leistungen erbracht worden sind.
 

@@ -36,4 +36,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgeset
 
 ### § 20
 
-(1) Dieses Gesetz tritt mit dem 1. April 1952 in Kraft. ...(2) u. (3)
+(1) Dieses Gesetz tritt mit dem 1. April 1952 in Kraft. ...
+
+(2) u. (3)

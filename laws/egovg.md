@@ -20,11 +20,11 @@
 
 (5) Dieses Gesetz gilt nicht für
 
-1.
+1. die Strafverfolgung, die Verfolgung und Ahndung von Ordnungswidrigkeiten, die Rechtshilfe für das Ausland in Straf- und Zivilsachen, die Steuer- und Zollfahndung (§ 208 der Abgabenordnung) und für Maßnahmen des Richterdienstrechts,
 
-2.
+2. Verfahren vor dem Deutschen Patent- und Markenamt und den bei diesem errichteten Schiedsstellen,
 
-3.
+3. die Verwaltungstätigkeit nach dem Zweiten Buch Sozialgesetzbuch.
 
 > (+++ § 1 Abs. 4: Zur Nichtanwendung vgl. § 4a Abs. 4 +++)
 
@@ -34,7 +34,7 @@
 
 (2) Jede Behörde des Bundes ist verpflichtet, in Verwaltungsverfahren, in denen sie die Identität einer Person auf Grund einer Rechtsvorschrift festzustellen hat oder aus anderen Gründen eine Identifizierung für notwendig erachtet, einen elektronischen Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes anzubieten. Mit der Anbindung an das Bürgerkonto nach § 3 Absatz 1 des Onlinezugangsgesetzes wird diese Verpflichtung erfüllt.
 
-> (+++ Hinweis: Die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 (Verschiebung d. Inkrafttretens zum 1.11.2020) ist nicht ausführbar, da Art. 5 d. G v. 21.6.2019  I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
+> (+++ Hinweis: Die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 (Verschiebung d. Inkrafttretens zum 1.11.2020) ist nicht ausführbar, da Art. 5 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
 
 ### § 2a — Siegeldienst; Verordnungsermächtigung
 
@@ -42,11 +42,11 @@
 
 (2) Der zentrale Siegeldienst erfüllt mindestens die folgenden Basisfunktionen:
 
-1.
+1. Erstellung qualifizierter elektronischer Siegel,
 
-2.
+2. Validierung qualifizierter elektronischer Siegel und Signaturen sowie
 
-3.
+3. Erstellung digitaler Siegel zum optisch verifizierbaren kryptographischen Schutz von Verwaltungsdokumenten.
 
 ### § 3 — Information zu Behörden und über ihre Verfahren in öffentlich zugänglichen Netzen
 
@@ -70,19 +70,19 @@
 
 (2) Eine Rechnung ist elektronisch, wenn
 
-1.
+1. sie in einem strukturierten elektronischen Format ausgestellt, übermittelt und empfangen wird und
 
-2.
+2. das Format die automatische und elektronische Verarbeitung der Rechnung ermöglicht.
 
 (3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates besondere Vorschriften zur Ausgestaltung des elektronischen Rechnungsverkehrs zu erlassen. Diese Vorschriften können sich beziehen auf
 
-1.
+1. die Art und Weise der Verarbeitung der elektronischen Rechnung, insbesondere auf die elektronische Verarbeitung,
 
-2.
+2. die Anforderungen an die elektronische Rechnungsstellung, und zwar insbesondere auf die von den elektronischen Rechnungen zu erfüllenden Voraussetzungen, den Schutz personenbezogener Daten, das zu verwendende Rechnungsdatenmodell sowie auf die Verbindlichkeit der elektronischen Form,
 
-3.
+3. die Befugnis von öffentlichen Auftraggebern, Sektorenauftraggebern und Konzessionsgebern, in Ausschreibungsbedingungen die Erteilung elektronischer Rechnungen vorzusehen sowie
 
-4.
+4. Ausnahmen für verteidigungs- und sicherheitsspezifische Aufträge und Angelegenheiten des Auswärtigen Dienstes.
 
 (4) Als Rechnung oder gleichwertige Zahlungsaufstellung im Sinne von § 286 Absatz 3 des Bürgerlichen Gesetzbuchs gelten Rechnungen, die von der Verpflichtung zur elektronischen Einreichung nach Absatz 1 sowie nach Vorschriften auf Grundlage von Absatz 3 erfasst sind, nur dann, wenn sie elektronisch im Sinne dieses Gesetzes und der Rechtsverordnung nach Absatz 3 gestellt werden. In diesem Fall ist § 1 Absatz 4 nicht anzuwenden.
 
@@ -90,19 +90,19 @@
 
 ### § 5 — Nachweisabruf; Nachweiserbringung
 
-(1) Wird ein antragsgebundenes Verwaltungsverfahren elektronisch durchgeführt, erfolgt die Nachweiserbringung auf elektronischem Wege nach Wahl des Antragstellers, Die §§ 24 bis 27 des Verwaltungsverfahrensgesetzes bleiben unberührt. Die Verantwortung für die Zulässigkeit der Nachweiserhebung und des Nachweisabrufs nach Satz 1 Nummer 1 in Verbindung mit den Absätzen 3 bis 5 trägt die nachweisanfordernde Stelle.
+(1) Wird ein antragsgebundenes Verwaltungsverfahren elektronisch durchgeführt, erfolgt die Nachweiserbringung auf elektronischem Wege nach Wahl des Antragstellers,
 
-1.
+1. indem die nachweisanfordernde Stelle den jeweiligen Nachweis automatisiert bei der nachweisliefernden Stelle abruft, sofern der jeweils erforderliche Nachweis des Antragstellers elektronisch vorliegt und automatisiert abgerufen werden kann, oder
 
-2.
+2. indem der Antragsteller den jeweiligen Nachweis elektronisch einreicht.
 
 (2) Nachweise im Sinne dieses Gesetzes sind Unterlagen und Daten jeder Art unabhängig vom verwendeten Medium, die zur Ermittlung des Sachverhalts geeignet sind. Nachweisanfordernde Stelle kann die für die Entscheidung über den Antrag zuständige Behörde oder auch eine andere öffentliche Stelle sein, die dafür zuständig ist, Nachweise einzuholen und an die für die Entscheidung über den Antrag zuständige Behörde weiterzuleiten. Nachweisliefernde Stelle ist diejenige öffentliche Stelle, die dafür zuständig ist, den Nachweis auszustellen.
 
-(3) Hat sich der Antragsteller für den automatisierten Nachweisabruf entschieden, darf die nachweisanfordernde Stelle den Nachweis des Antragstellers bei der nachweisliefernden Stelle abrufen und die nachweisliefernde Stelle darf den Nachweis an die nachweisanfordernde Stelle übermitteln, wenn Die in Absatz 2 Satz 2 genannte andere öffentliche Stelle darf den Nachweis an die für die Entscheidung über den Antrag zuständige Stelle übermitteln. Die Datenübermittlungen zwischen öffentlichen Stellen nach diesem Absatz sind durch die jeweiligen Stellen in einer Weise zu protokollieren, die eine Kontrolle der Zulässigkeit von Datenabrufen technisch unterstützt. Die Pflicht nach Satz 3 gilt ab dem Tag, der dem Tag folgt, an dem das Bundesministerium des Innern und für Heimat im Bundesanzeiger bekannt gibt, dass die technischen und rechtlichen Voraussetzungen für eine Anzeige der Datenübermittlungen nach diesem Absatz im Datenschutzcockpit nach § 10 des Onlinezugangsgesetzes vorliegen. § 9 Absatz 2 und 3 des Identifikationsnummerngesetzes gilt ab diesem Zeitpunkt entsprechend.
+(3) Hat sich der Antragsteller für den automatisierten Nachweisabruf entschieden, darf die nachweisanfordernde Stelle den Nachweis des Antragstellers bei der nachweisliefernden Stelle abrufen und die nachweisliefernde Stelle darf den Nachweis an die nachweisanfordernde Stelle übermitteln, wenn
 
-1.
+1. dies zur Erfüllung der Aufgabe der nachweisanfordernden Stelle erforderlich ist und
 
-2.
+2. die nachweisanfordernde Stelle den Nachweis auch aufgrund anderer Rechtsvorschriften beim Antragsteller erheben dürfte.
 
 (4) Soll der Nachweis aus einem Register, welches in der Anlage zum Identifikationsnummerngesetz vom 28. März 2021 (BGBl. I S. 591), das durch Artikel 15 des Gesetzes vom 28. Juni 2021 (BGBl. I S. 2250) geändert worden ist, aufgeführt ist, abgerufen werden, darf die nachweisanfordernde Stelle die Identifikationsnummer nach § 1 des Identifikationsnummerngesetzes zur Zuordnung der Datensätze zum Antragsteller und zum Abruf des Nachweises an die nachweisliefernde Stelle übermitteln. Das Nachweisabrufersuchen darf zusätzlich weitere Daten im Sinne von § 4 Absatz 2 und 3 des Identifikationsnummerngesetzes, in der Regel das Geburtsdatum, zur Validierung der Zuordnung enthalten. Zu diesem Zweck darf die nachweisliefernde Stelle diese Daten verarbeiten.
 
@@ -138,13 +138,13 @@ Die Behörden des Bundes sollen ihre Akten elektronisch führen. Satz 1 gilt nic
 
 Soweit ein Recht auf Akteneinsicht besteht, können die Behörden des Bundes, die Akten elektronisch führen, Akteneinsicht dadurch gewähren, dass sie
 
-1.
+1. einen Aktenausdruck zur Verfügung stellen,
 
-2.
+2. die elektronischen Dokumente auf einem Bildschirm wiedergeben,
 
-3.
+3. elektronische Dokumente übermitteln oder
 
-4.
+4. den elektronischen Zugriff auf den Inhalt der Akten gestatten.
 
 ### § 9 — Optimierung von Verwaltungsabläufen und Information zum Verfahrensstand
 
@@ -162,23 +162,17 @@ Soweit ein Recht auf Akteneinsicht besteht, können die Behörden des Bundes, di
 
 (3) Das Verwaltungsportal des Bundes stellt zur Unterstützung der Abwicklung von elektronischen Verwaltungsleistungen Basisfunktionen bereit, um folgende Zwecke zu erfüllen:
 
-1.
+1. Ermöglichung einer elektronischen Suche nach Verwaltungsleistungen des Bundes und der Länder im Portalverbund,
 
-2.
+2. Ermöglichung des elektronischen Identitätsnachweises über ein Nutzerkonto nach § 2 Absatz 5 des Onlinezugangsgesetzes,
 
-3.
+3. Bereitstellung von Online-Formularen für die Unterstützung bei der Abwicklung von elektronischen Verwaltungsleistungen, die in der Zuständigkeit des Bundes liegen und von Behörden des Bundes ausgeführt werden, einschließlich der Erbringung erforderlicher Nachweise,
 
-4.
+4. Bereitstellung eines sicheren Übermittlungswegs, über den Nutzer auch strukturierte Daten und elektronische Informationen, einschließlich erforderlicher Nachweise, zur Abwicklung elektronischer Verwaltungsleistungen, die in der Zuständigkeit des Bundes liegen und von Behörden des Bundes ausgeführt werden, übermitteln können,
 
-5.
+5. Ermöglichung eines sicheren elektronischen Übermittlungswegs für die Behörden des Bundes, die an das Verwaltungsportal des Bundes angeschlossen sind, mit dem sie a)Online-Formulare empfangen und herunterladen können,b)Bescheide, elektronische Dokumente, Informationen und Nachrichten hochladen und elektronisch an das Nutzerkonto des Nutzers übermitteln können undc)elektronische Dokumente, Informationen und Nachrichten aus dem Nutzerkonto des Nutzers empfangen können und Online-Formulare empfangen und herunterladen können, Bescheide, elektronische Dokumente, Informationen und Nachrichten hochladen und elektronisch an das Nutzerkonto des Nutzers übermitteln können und elektronische Dokumente, Informationen und Nachrichten aus dem Nutzerkonto des Nutzers empfangen können und
 
-a)
-
-b)
-
-c)
-
-6.
+6. Ermöglichung der Teilnahme an verschiedenen im elektronischen Geschäftsverkehr üblichen, möglichst barrierefreien und hinreichend sicheren Zahlungsverfahren für die Behörden des Bundes.
 
 ### § 9b — Verarbeitung personenbezogener Daten im Verwaltungsportal des Bundes
 
@@ -202,7 +196,7 @@ Fasst der Planungsrat für die IT-Zusammenarbeit der öffentlichen Verwaltung zw
 
 ### § 11 — Gemeinsame Verfahren
 
-(1) Gemeinsame Verfahren sind automatisierte Verfahren, die mehreren Verantwortlichen im Sinne des Artikels 26 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung die Verarbeitung personenbezogener Daten in oder aus einem Datenbestand ermöglichen.
+(1) Gemeinsame Verfahren sind automatisierte Verfahren, die mehreren Verantwortlichen im Sinne des Artikels 26 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung die Verarbeitung personenbezogener Daten in oder aus einem Datenbestand ermöglichen.
 
 (2) Die Beteiligung öffentlicher Stellen des Bundes nach § 2 Absatz 1 des Bundesdatenschutzgesetzes an gemeinsamen Verfahren ist nur zulässig, wenn dies unter Berücksichtigung der schutzwürdigen Interessen der betroffenen Personen und der Aufgaben der beteiligten Stellen angemessen ist. Die Vorschriften über die Zulässigkeit der Verarbeitung der Daten im Einzelfall bleiben unberührt.
 
@@ -228,37 +222,25 @@ Fasst der Planungsrat für die IT-Zusammenarbeit der öffentlichen Verwaltung zw
 
 (2) Absatz 1 Satz 1 gilt nur für Daten, die
 
-1.
+1. der Behörde elektronisch gespeichert und in Sammlungen strukturiert vorliegen, insbesondere in Tabellen oder Listen,
 
-2.
+2. ausschließlich Tatsachen enthalten, die außerhalb der Behörde liegende Verhältnisse betreffen,
 
-3.
+3. nicht das Ergebnis einer Bearbeitung anderer Daten durch eine Behörde des Bundes sind,
 
-4.
+4. nach der Erhebung keine Bearbeitung erfahren haben, ausgenommen eine Bearbeitung, a)die der Fehlerbereinigung dient oderb)die aus rechtlichen oder aus tatsächlichen Gründen erfolgt ist und ohne die eine Veröffentlichung der Daten nicht möglich wäre, und die der Fehlerbereinigung dient oder die aus rechtlichen oder aus tatsächlichen Gründen erfolgt ist und ohne die eine Veröffentlichung der Daten nicht möglich wäre, und
 
-a)
-
-b)
-
-5.
-
-a)
-
-b)
+5. bei Personenbezug derart umgewandelt wurden, dass a)sie sich nicht mehr auf eine identifizierte oder identifizierbare natürliche Person beziehen oderb)die betroffene Person nicht oder nicht mehr identifiziert werden kann. sie sich nicht mehr auf eine identifizierte oder identifizierbare natürliche Person beziehen oder die betroffene Person nicht oder nicht mehr identifiziert werden kann.
 
 (3) Abweichend von Absatz 1 Satz 1 müssen die Daten nicht bereitgestellt werden, wenn
 
-1.
+1. an den Daten a)kein oder nur ein eingeschränktes Zugangsrecht insbesondere gemäß den §§ 3, 4 und 6 des Informationsfreiheitsgesetzes besteht oderb)ein Zugangsrecht erst nach der Beteiligung Dritter bestünde, kein oder nur ein eingeschränktes Zugangsrecht insbesondere gemäß den §§ 3, 4 und 6 des Informationsfreiheitsgesetzes besteht oder ein Zugangsrecht erst nach der Beteiligung Dritter bestünde,
 
-a)
+2. die Daten ohne Auftrag der Behörde von Dritten erstellt und ihr ohne rechtliche Verpflichtung übermittelt werden,
 
-b)
+3. es sich um Daten handelt, die zu Forschungszwecken erhoben wurden und bereits über öffentlich zugängliche Netze entgeltfrei bereitgestellt werden; die Möglichkeit der freiwilligen Bereitstellung dazugehöriger Metadaten über das nationale Metadatenportal GovData bleibt davon unberührt, oder
 
-2.
-
-3.
-
-4.
+4. die Daten unter das Bankgeheimnis fallen.
 
 (3a) Abweichend von Absatz 1 Satz 1 müssen Datensätze, die personenbezogene Daten enthalten, nicht bereitgestellt werden.
 
@@ -270,11 +252,11 @@ b)
 
 (7) Die Behörden des Bundes sollen die Anforderungen an die Bereitstellung von Daten im Sinne des Absatzes 1 Satz 1 bereits frühzeitig berücksichtigen bei:
 
-1.
+1. der Optimierung von Verwaltungsabläufen gemäß § 9,
 
-2.
+2. dem Abschluss von vertraglichen Regelungen zur Erhebung oder Verarbeitung der Daten sowie
 
-3.
+3. bei der Beschaffung von informationstechnischen Systemen für die Speicherung und Verarbeitung der Daten.
 
 (8) Die Behörden des Bundes sind nicht verpflichtet, die bereitzustellenden Daten auf Richtigkeit, Vollständigkeit, Plausibilität oder in sonstiger Weise zu prüfen.
 

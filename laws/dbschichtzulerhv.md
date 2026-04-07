@@ -7,21 +7,15 @@
 
 ### Eingangsformel
 
-Auf Grund des § 47 Absatz 1 und 2 Nummer 1 des Bundesbesoldungsgesetzes in Verbindung mit § 24 Absatz 2 Satz 1 und 2 Nummer 1 der Erschwerniszulagenverordnung, von denen verordnet das Bundesministerium für Verkehr und digitale Infrastruktur im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium des Innern:
+Auf Grund des § 47 Absatz 1 und 2 Nummer 1 des Bundesbesoldungsgesetzes in Verbindung mit § 24 Absatz 2 Satz 1 und 2 Nummer 1 der Erschwerniszulagenverordnung, von denen
 
-–
+– § 47 Absatz 2 Nummer 1 des Bundesbesoldungsgesetzes durch Artikel 43 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist,
 
-–
+– § 24 Absatz 2 Satz 1 der Erschwerniszulagenverordnung durch Artikel 2 Nummer 20 der Verordnung vom 20. August 2013 (BGBl. I S. 3286) eingefügt worden ist und
 
-–
+– § 24 Absatz 2 Satz 2 Nummer 1 der Erschwerniszulagenverordnung durch Artikel 44 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist,
 
 ### § 1 — Schichtzulage
-
-(1) Die Zulage nach § 20 Absatz 5 Satz 1 der Erschwerniszulagenverordnung in der bis zum 30. September 2013 geltenden Fassung beträgt ab dem 1. Januar 2015:
-
-(2) Die Erhöhungsbeträge nach § 20 Absatz 5 Satz 2 der Erschwerniszulagenverordnung in der bis zum 30. September 2013 geltenden Fassung betragen ab dem 1. Januar 2015
-
-(3) Die Zulagen nach § 20 Absatz 5 Satz 3 der Erschwerniszulagenverordnung in der bis zum 30. September 2013 gelten Fassung betragen ab dem 1. Januar 2015:
 
 ### § 2 — Inkrafttreten
 

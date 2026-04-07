@@ -24,17 +24,17 @@ Die Verordnung regelt die Voraussetzungen, bei deren Erfüllen bestimmte Fahrzeu
 
 ### § 3 — Fahrzeuge
 
-Die nachfolgenden Fahrzeuge und Fahrzeugkombinationen mit Überlänge dürfen am Straßenverkehr teilnehmen:Im Fall des Satzes 1 Nummer 2 bis 5 gilt dies jedoch nur zum überwiegenden Transport von Ladung mit einem begrenzten Volumen-Masse-Verhältnis (Dichte) nach Maßgabe der Sätze 3, 4 und 5. Zulässig sind Punkt-zu-Punkt-Verkehre oder Transportumläufe. Zu Punkt-zu-Punkt-Verkehren zählt insbesondere auch eine Transportkette mit aufeinander folgenden Be- oder Entladepunkten. Zu Transportumläufen zählt insbesondere auch eine Leerfahrt mit anschließender Lastfahrt und abschließender Leerfahrt.
+Die nachfolgenden Fahrzeuge und Fahrzeugkombinationen mit Überlänge dürfen am Straßenverkehr teilnehmen:
 
-1.
+1. Sattelzugmaschine mit Sattelanhänger (Sattelkraftfahrzeug),
 
-2.
+2. Sattelkraftfahrzeug mit Zentralachsanhänger,
 
-3.
+3. Lastkraftwagen mit Untersetzachse und Sattelanhänger,
 
-4.
+4. Sattelkraftfahrzeug mit einem weiteren Sattelanhänger,
 
-5.
+5. Lastkraftwagen mit einem Anhänger.
 
 > (+++ § 3 Satz 1 Nr. 1: Zur Anwendung vgl. § 13 Abs. 1 Nr. 2 +++)
 
@@ -54,49 +54,35 @@ Die nachfolgenden Fahrzeuge und Fahrzeugkombinationen mit Überlänge dürfen am
 
 (1) Fahrzeuge und Fahrzeugkombinationen mit Überlänge dürfen am Straßenverkehr nur teilnehmen, wenn sie mit folgenden technischen Einrichtungen ausgerüstet sind:
 
-1.
+1. der Anhänger einer Fahrzeugkombination mit Spurhalteleuchten nach § 51 Absatz 4 der Straßenverkehrs-Zulassungs-Ordnung,
 
-2.
+2. Luftfederung oder eine als gleichwertig anerkannte Federung nach Anlage XII der Straßenverkehrs-Zulassungs-Ordnung, außer auf den Lenkachsen der Kraftfahrzeuge,
 
-3.
+3. Differenzialsperre oder Antriebsschlupfregelung,
 
-4.
+4. elektronisch gesteuertes Bremssystem (EBS nach UN/ECE Regelung Nr. 13 Änderungsserie 11; ABl. L 297/1 vom 13.11.2010, S. 183),
 
-5.
+5. Scheibenbremsen und Dauerbremssystem nach der Regelung Nr. 13 der Wirtschaftskommission für Europa der Vereinten Nationen (UNECE) über einheitliche Vorschriften für die Typgenehmigung von Fahrzeugen der Klassen M, N und O hinsichtlich der Bremsen (ABl. L 42 vom 18.2.2016, S. 1) im Zugfahrzeug,
 
-6.
+6. automatische Achslastüberwachung mit sinnfälliger Anzeige der Gesamtmasse oder der Achslasten für die Achsen mit Luftfederung oder einer als gleichwertig anerkannten Federung nach Anlage XII der Straßenverkehrs-Zulassungs-Ordnung,
 
-7.
+7. Spurhaltewarnsystem nach der Verordnung (EU) Nr. 351/2012 der Kommission vom 23. April 2012 zur Durchführung der Verordnung (EG) Nr. 661/2009 des Europäischen Parlaments und des Rates hinsichtlich der Anforderungen an die Typgenehmigung von Spurhaltewarnsystemen in Kraftfahrzeugen (ABl. L 110 vom 24.4.2012, S. 18; L 121, S. 44) oder nach der Regelung Nr. 130 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) über einheitliche Bedingungen für die Genehmigung der Kraftfahrzeuge hinsichtlich ihres Spurhaltewarnsystems (ABl. L 178 vom 18.6.2014, S. 29),
 
-8.
+8. Elektronische Fahrdynamikregelsysteme (nach UN/ECE Regelung Nr. 13 Änderungsserie 11; ABl. L 297/1 vom 13.11.2010, S. 183),
 
-9.
+9. automatisches Abstandsregelsystem (Abstandstempomat) oder Notbremsassistenzsystem,
 
-10.
+10. Einrichtungen für indirekte Sicht a)nach der Richtlinie 2003/97/EG des Europäischen Parlaments und des Rates vom 10. November 2003 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten für die Typgenehmigung von Einrichtungen für indirekte Sicht und von mit solchen Einrichtungen ausgestatteten Fahrzeugen sowie zur Änderung der Richtlinie 70/156/EWG und zur Aufhebung der Richtlinie 71/127/EWG (ABl. L 25 vom 29.1.2004, S. 1), die zuletzt durch die Richtlinie 2006/96/EG vom 20. November 2006 (ABl. L 363 vom 20.11.2006, S. 81) geändert worden ist, in der bis zum Ablauf des 31. Oktober 2014 geltenden Fassung oderb)nach der Regelung Nr. 46 der Wirtschaftskommission der Vereinten Nationen für Europa (UN/ECE) – Einheitliche Bedingungen für die Genehmigung von Einrichtungen für indirekte Sicht und von Kraftfahrzeugen hinsichtlich der Anbringung solcher Einrichtungen (ABl. L 177 vom 10.7.2010, S. 211), nach der Richtlinie 2003/97/EG des Europäischen Parlaments und des Rates vom 10. November 2003 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten für die Typgenehmigung von Einrichtungen für indirekte Sicht und von mit solchen Einrichtungen ausgestatteten Fahrzeugen sowie zur Änderung der Richtlinie 70/156/EWG und zur Aufhebung der Richtlinie 71/127/EWG (ABl. L 25 vom 29.1.2004, S. 1), die zuletzt durch die Richtlinie 2006/96/EG vom 20. November 2006 (ABl. L 363 vom 20.11.2006, S. 81) geändert worden ist, in der bis zum Ablauf des 31. Oktober 2014 geltenden Fassung oder nach der Regelung Nr. 46 der Wirtschaftskommission der Vereinten Nationen für Europa (UN/ECE) – Einheitliche Bedingungen für die Genehmigung von Einrichtungen für indirekte Sicht und von Kraftfahrzeugen hinsichtlich der Anbringung solcher Einrichtungen (ABl. L 177 vom 10.7.2010, S. 211),
 
-a)
+11. Fahrzeuge und Fahrzeugkombinationen nach § 3 Satz 1 Nummer 2 bis 5: Kamera-System am Heck des Fahrzeugs oder der Fahrzeugkombination sowie ein zugehöriger Monitor im Blickfeld des Fahrers für die Sicht nach hinten,
 
-b)
+12. Konturmarkierungen aus retroreflektierendem Material nach UN/ECE Regelung Nr. 48 (ABl. L 137 vom 30.5.2007, S. 1),
 
-11.
+13. rückwärtige Kenntlichmachung durch ein Schild aus retroreflektierendem Material in Anlehnung an die UN/ECE Regelung Nr. 70 (BGBl. 1994 II S. 970) mit der Aufschrift „Lang-Lkw“ (Schrifthöhe 130 mm),
 
-12.
+14. Fahrtenschreiber a)nach Artikel 1 Absatz 3 der Durchführungsverordnung (EU) Nr. 2016/799 der Kommission vom 18. März 2016 zur Durchführung der Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates zur Festlegung der Vorschriften über Bauart, Prüfung, Einbau, Betrieb und Reparatur von Fahrtenschreibern und ihren Komponenten (ABl. L 139 vom 26.5.2016, S. 1; L 146, S. 31; L 27 vom 1.2.2017, S. 169) in Verbindung mit dem Anhang IB der Verordnung (EWG) Nr. 3821/85 des Rates vom 20. Dezember 1985 über das Kontrollgerät im Straßenverkehr (ABl. L 370 vom 31.12.1985, S. 8), die zuletzt durch die Verordnung (EU) 2016/130 (ABl. L 25 vom 2.2.2016, S. 46) geändert worden ist, oderb)nach Artikel 1 Absatz 2 in Verbindung mit dem Anhang I C der Durchführungsverordnung (EU) Nr. 2016/799, nach Artikel 1 Absatz 3 der Durchführungsverordnung (EU) Nr. 2016/799 der Kommission vom 18. März 2016 zur Durchführung der Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates zur Festlegung der Vorschriften über Bauart, Prüfung, Einbau, Betrieb und Reparatur von Fahrtenschreibern und ihren Komponenten (ABl. L 139 vom 26.5.2016, S. 1; L 146, S. 31; L 27 vom 1.2.2017, S. 169) in Verbindung mit dem Anhang IB der Verordnung (EWG) Nr. 3821/85 des Rates vom 20. Dezember 1985 über das Kontrollgerät im Straßenverkehr (ABl. L 370 vom 31.12.1985, S. 8), die zuletzt durch die Verordnung (EU) 2016/130 (ABl. L 25 vom 2.2.2016, S. 46) geändert worden ist, oder nach Artikel 1 Absatz 2 in Verbindung mit dem Anhang I C der Durchführungsverordnung (EU) Nr. 2016/799,
 
-13.
-
-14.
-
-a)
-
-b)
-
-15.
-
-a)
-
-b)
-
-c)
+15. Abbiegeassistenzsysteme a)nach den Empfehlungen zu technischen Anforderungen an Abbiegeassistenzsysteme für die Aus- und Nachrüstung an Nutzfahrzeugen mit einer zulässigen Gesamtmasse > 3,5 Tonnen und Kraftomnibussen mit mehr als 9 Sitzplätzen einschließlich Fahrerplatz zur Erteilung einer Allgemeinen Betriebserlaubnis für Abbiegeassistenzsysteme vom 19. September 2018 (VkBl. S. 719),b)nach den Empfehlungen zu technischen Anforderungen an Abbiegeassistenzsysteme für die Aus- und Nachrüstung an Nutzfahrzeugen mit einer zulässigen Gesamtmasse > 3,5 Tonnen und Kraftomnibussen mit mehr als 9 Sitzplätzen einschließlich Fahrerplatz zur Erteilung einer Allgemeinen Betriebserlaubnis für Abbiegeassistenzsysteme vom 4. April 2022 (VkBl. S. 239) oderc)nach der UN-Regelung Nr. 151 – Einheitliche Bedingungen für die Genehmigung von Kraftfahrzeugen hinsichtlich des Totwinkel-Assistenten zur Erkennung von Fahrrädern [2020/1596] (ABl. L 360 vom 30.10.2020, S. 48). nach den Empfehlungen zu technischen Anforderungen an Abbiegeassistenzsysteme für die Aus- und Nachrüstung an Nutzfahrzeugen mit einer zulässigen Gesamtmasse > 3,5 Tonnen und Kraftomnibussen mit mehr als 9 Sitzplätzen einschließlich Fahrerplatz zur Erteilung einer Allgemeinen Betriebserlaubnis für Abbiegeassistenzsysteme vom 19. September 2018 (VkBl. S. 719), nach den Empfehlungen zu technischen Anforderungen an Abbiegeassistenzsysteme für die Aus- und Nachrüstung an Nutzfahrzeugen mit einer zulässigen Gesamtmasse > 3,5 Tonnen und Kraftomnibussen mit mehr als 9 Sitzplätzen einschließlich Fahrerplatz zur Erteilung einer Allgemeinen Betriebserlaubnis für Abbiegeassistenzsysteme vom 4. April 2022 (VkBl. S. 239) oder nach der UN-Regelung Nr. 151 – Einheitliche Bedingungen für die Genehmigung von Kraftfahrzeugen hinsichtlich des Totwinkel-Assistenten zur Erkennung von Fahrrädern [2020/1596] (ABl. L 360 vom 30.10.2020, S. 48).
 
 (2) Zugfahrzeug und Anhänger müssen, unabhängig vom Genehmigungszeitpunkt des Fahrzeuges, Absatz 6.5.3.1 der Regelung Nummer 48 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) über einheitliche Bedingungen für die Genehmigung von Fahrzeugen hinsichtlich des Anbaus der Beleuchtungs- und Lichtsignaleinrichtungen (ABl. L 14 vom 16.1.2019, S. 42) entsprechen.
 
@@ -106,9 +92,9 @@ c)
 
 (1) Fahrzeuge und Fahrzeugkombinationen mit Überlänge dürfen am Straßenverkehr nur teilnehmen, wenn sie mindestens eine Ladeeinheit befördern, die im kombinierten Verkehr einsetzbar ist. Satz 1 gilt nicht für Leerfahrten von oder zu Umschlaganlagen des kombinierten Verkehrs. Abweichend von Satz 1 reicht es aus, wenn
 
-1.
+1. bei Fahrzeugen und Fahrzeugkombinationen nach § 3 Satz 1 Nummer 1 der Sattelanhänger dauerhaft eine Ladeeinheit darstellt, die im kombinierten Verkehr einsetzbar ist, oder
 
-2.
+2. bei Fahrzeugen und Fahrzeugkombinationen nach § 3 Satz 1 Nummer 2 bis 5 mindestens ein Teil der Fahrzeugkombination dauerhaft eine Ladeeinheit darstellt, die im kombinierten Verkehr einsetzbar ist.
 
 (2) Im kombinierten Verkehr einsetzbare Ladeeinheiten im Sinne des Absatzes 1 sind solche Container, Wechselbrücken, Sattelanhänger ohne Zugmaschine und sonstigen Anhänger, die mit Umschlaggeräten oder mit Umschlagtechniken für nicht kranbare Sattelanhänger auf die Eisenbahn oder das Binnen-, Küsten- oder Seeschiff umgeschlagen werden können. Umschlaggeräte im Sinne des Satzes 1 sind Kräne und Flurförderzeuge.
 
@@ -146,68 +132,14 @@ Kommt es beim Verkehr mit Fahrzeugen mit Überlänge im Sinne des § 3 Satz 1 Nu
 
 (1) Mit Ablauf des 31. Dezember 2026 sind nicht mehr anzuwenden:
 
-1.
+1. § 2 Absatz 2,
 
-2.
+2. § 3 Satz 1 Nummer 1,
 
-3.
+3. § 4 Absatz 1,
 
-4.
+4. § 12.
 
 (2) § 5 Absatz 1 Nummer 15 und Absatz 2 ist vorbehaltlich des Satzes 2 erst ab dem 1. Juli 2020 anzuwenden. Auf Fahrzeuge, die vor dem 1. Juli 2019 erstmals in den Verkehr gekommen sind, ist § 5 Absatz 1 Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 ### Anlage — (zu § 2 Absatz 1)
-
-Nachgeordnetes Streckennetz Baden-Württemberg:
-
-Nachgeordnetes Streckennetz Bayern:
-
-Nachgeordnetes Streckennetz Brandenburg:
-
-Nachgeordnetes Streckennetz Bremen:
-
-Nachgeordnetes Streckennetz im Hamburger Hafengebiet:
-
-Nachgeordnetes Streckennetz Hessen:
-
-Nachgeordnetes Streckennetz Mecklenburg-Vorpommern:
-
-Nachgeordnetes Streckennetz Niedersachsen:
-
-Nachgeordnetes Streckennetz Nordrhein-Westfalen:
-
-Nachgeordnetes Streckennetz Rheinland-Pfalz:
-
-Nachgeordnetes Streckennetz Saarland:
-
-Nachgeordnetes Streckennetz Sachsen:
-
-Nachgeordnetes Streckennetz Sachsen-Anhalt:
-
-Nachgeordnetes Streckennetz Schleswig-Holstein:
-
-Nachgeordnetes Streckennetz Thüringen:
-
-Fahrtstrecken zu Autohöfen neben Autobahnen (Bayern):
-
-Geeignete Rastplätze an Bundesautobahnen in Bayern:
-
-Geeignete Rastplätze an Bundesautobahnen in Brandenburg:
-
-Fahrtstrecken zu Autohöfen neben Autobahnen (Hessen):
-
-Fahrtstrecken zu Autohöfen neben Autobahnen (Mecklenburg-Vorpommern):
-
-Geeignete Rastplätze an Bundesautobahnen in Mecklenburg-Vorpommern:
-
-Fahrtstrecken zu Autohöfen neben Autobahnen (Niedersachsen):
-
-Fahrtstrecken zu Autohöfen neben Autobahnen (Nordrhein-Westfalen):
-
-Fahrtstrecken zu Autohöfen neben Autobahnen (Rheinland-Pfalz):
-
-Geeignete Rastplätze an Bundesautobahnen in Sachsen:
-
-Fahrtstrecken zu Autohöfen neben Autobahnen (Schleswig-Holstein):
-
-Fahrtstrecken zu Autohöfen neben Autobahnen (Thüringen):

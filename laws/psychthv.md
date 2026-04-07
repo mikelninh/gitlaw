@@ -13,7 +13,9 @@ Auf Grund des § 2 Abs. 3 Nr. 1 des Bundesausbildungsförderungsgesetzes in der 
 
 ### § 1 — Ausbildungsstätten
 
-(1) Ausbildungsförderung nach dem Bundesausbildungsförderungsgesetz wird geleistet für den Besuch von Ausbildungsstätten für Psychotherapie und Kinder- und Jugendlichenpsychotherapie, die andere Einrichtungen im Sinne des § 6 des Psychotherapeutengesetzes vom 16. Juni 1998 (BGBl. I S. 1311) sind.(2) Ausbildungsförderung wird nur geleistet, wenn die Ausbildung an einer durch die zuständige Landesbehörde staatlich anerkannten Einrichtung durchgeführt wird.
+(1) Ausbildungsförderung nach dem Bundesausbildungsförderungsgesetz wird geleistet für den Besuch von Ausbildungsstätten für Psychotherapie und Kinder- und Jugendlichenpsychotherapie, die andere Einrichtungen im Sinne des § 6 des Psychotherapeutengesetzes vom 16. Juni 1998 (BGBl. I S. 1311) sind.
+
+(2) Ausbildungsförderung wird nur geleistet, wenn die Ausbildung an einer durch die zuständige Landesbehörde staatlich anerkannten Einrichtung durchgeführt wird.
 
 ### § 2 — Förderungsrechtliche Stellung der Auszubildenden
 

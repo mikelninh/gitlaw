@@ -11,8 +11,6 @@ Nach § 78 Absatz 2 des Bundesbesoldungsgesetzes in der Fassung der Bekanntmachu
 
 ### Schlussformel
 
-Der Bundesminister des Innern, für Bau und Heimat
-
 ### (XXXX) — (Anlage IX des BBesG)
 
 ### (XXXX) — (Anlage IX des BBesG)

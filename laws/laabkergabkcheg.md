@@ -25,4 +25,6 @@ Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung die
 
 ### Art 4
 
-(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.(2) Der Tag, an dem das Abkommen nach seinem Artikel 3 Satz 3 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
+(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
+
+(2) Der Tag, an dem das Abkommen nach seinem Artikel 3 Satz 3 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.

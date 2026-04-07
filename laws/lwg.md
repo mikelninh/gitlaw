@@ -12,7 +12,9 @@ Um der Landwirtschaft die Teilnahme an der fortschreitenden Entwicklung der deut
 
 ### § 2
 
-(1) Das Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) stellt jährlich für das abgelaufene landwirtschaftliche Wirtschaftsjahr den Ertrag und Aufwand landwirtschaftlicher Betriebe, gegliedert nach Betriebsgrößen, -typen, -systemen und Wirtschaftsgebieten, fest. Er stellt zu diesem Zweck die Betriebsergebnisse von 6 000 bis 8 000 landwirtschaftlichen Betrieben zusammen und wertet sie aus. Die Auskünfte sind freiwillig.(2) Zur Feststellung der Lage der Landwirtschaft und ihrer einzelnen Gruppen sind außerdem laufend alle hierzu geeigneten Unterlagen der volkswirtschaftlichen Statistik - insbesondere Index-Vergleiche - und der landwirtschaftlichen Betriebswirtschaft heranzuziehen.
+(1) Das Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) stellt jährlich für das abgelaufene landwirtschaftliche Wirtschaftsjahr den Ertrag und Aufwand landwirtschaftlicher Betriebe, gegliedert nach Betriebsgrößen, -typen, -systemen und Wirtschaftsgebieten, fest. Er stellt zu diesem Zweck die Betriebsergebnisse von 6 000 bis 8 000 landwirtschaftlichen Betrieben zusammen und wertet sie aus. Die Auskünfte sind freiwillig.
+
+(2) Zur Feststellung der Lage der Landwirtschaft und ihrer einzelnen Gruppen sind außerdem laufend alle hierzu geeigneten Unterlagen der volkswirtschaftlichen Statistik - insbesondere Index-Vergleiche - und der landwirtschaftlichen Betriebswirtschaft heranzuziehen.
 
 ### § 3
 
@@ -20,7 +22,13 @@ Zur Beratung bei der Anlage, Durchführung und Auswertung der Erhebungen und Unt
 
 ### § 4
 
-Die Bundesregierung legt alle vier Jahre - erstmals ab dem Jahre 2011 - dem Bundestag und dem Bundesrat einen "Bericht über die Lage der Landwirtschaft" vor. Der Bericht enthält eine Stellungnahme dazu, inwieweit a)ein den Löhnen vergleichbarer Berufs- und Tarifgruppen entsprechender Lohn für die fremden und familieneigenen Arbeitskräfte - umgerechnet auf notwendige Vollarbeitskräfte -,b)ein angemessenes Entgelt für die Tätigkeit des Betriebsleiters (Betriebsleiterzuschlag) undc)eine angemessene Verzinsung des betriebsnotwendigen Kapitalserzielt sind; dabei ist im wesentlichen von Betrieben mit durchschnittlichen Produktionsbedingungen auszugehen, die bei ordnungsmäßiger Führung die wirtschaftliche Existenz einer bäuerlichen Familie nachhaltig gewährleisten.
+Die Bundesregierung legt alle vier Jahre - erstmals ab dem Jahre 2011 - dem Bundestag und dem Bundesrat einen "Bericht über die Lage der Landwirtschaft" vor. Der Bericht enthält eine Stellungnahme dazu, inwieweit
+
+a) ein den Löhnen vergleichbarer Berufs- und Tarifgruppen entsprechender Lohn für die fremden und familieneigenen Arbeitskräfte - umgerechnet auf notwendige Vollarbeitskräfte -,
+
+b) ein angemessenes Entgelt für die Tätigkeit des Betriebsleiters (Betriebsleiterzuschlag) und
+
+c) eine angemessene Verzinsung des betriebsnotwendigen Kapitals
 
 ### § 5
 
@@ -32,7 +40,11 @@ Soweit zur Durchführung der nach § 5 beabsichtigten Maßnahmen Bundesmittel er
 
 ### § 7
 
-(1) Einzelangaben über persönliche und sachliche Verhältnisse sind von den mit der Durchführung des Feststellungsverfahrens (§ 2) amtlich betrauten Stellen und Personen geheimzuhalten. §§ 93, 97, 105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105 Abs. 1 sowie § 116 Abs. 1 der Abgabenordnung gelten nicht. Dies gilt nicht, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen, an deren Verfolgung ein zwingendes öffentliches Interesse besteht, oder soweit es sich um vorsätzlich falsche Angaben des Auskunftspflichtigen oder der für ihn tätigen Personen handelt.(2) Auf die im Besitz des Steuerpflichtigen befindlichen Aufzeichnungen und Unterlagen, die für die Zwecke des Feststellungsverfahrens gefertigt worden sind, findet § 97 der Abgabenordnung keine Anwendung. Dies gilt nicht, wenn der Steuerpflichtige nach § 141 der Abgabenordnung zur Buchführung verpflichtet ist oder wenn er freiwillig Bücher oder Aufzeichnungen führt und beantragt, deren Ergebnis der steuerlichen Gewinnermittlung zugrunde zu legen.(3) Veröffentlichungen, die im Zusammenhang mit den Feststellungen erfolgen, dürfen keine Einzelangaben über bestimmte Betriebe enthalten.
+(1) Einzelangaben über persönliche und sachliche Verhältnisse sind von den mit der Durchführung des Feststellungsverfahrens (§ 2) amtlich betrauten Stellen und Personen geheimzuhalten. §§ 93, 97, 105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105 Abs. 1 sowie § 116 Abs. 1 der Abgabenordnung gelten nicht. Dies gilt nicht, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen, an deren Verfolgung ein zwingendes öffentliches Interesse besteht, oder soweit es sich um vorsätzlich falsche Angaben des Auskunftspflichtigen oder der für ihn tätigen Personen handelt.
+
+(2) Auf die im Besitz des Steuerpflichtigen befindlichen Aufzeichnungen und Unterlagen, die für die Zwecke des Feststellungsverfahrens gefertigt worden sind, findet § 97 der Abgabenordnung keine Anwendung. Dies gilt nicht, wenn der Steuerpflichtige nach § 141 der Abgabenordnung zur Buchführung verpflichtet ist oder wenn er freiwillig Bücher oder Aufzeichnungen führt und beantragt, deren Ergebnis der steuerlichen Gewinnermittlung zugrunde zu legen.
+
+(3) Veröffentlichungen, die im Zusammenhang mit den Feststellungen erfolgen, dürfen keine Einzelangaben über bestimmte Betriebe enthalten.
 
 ### § 8 — (weggefallen)
 

@@ -29,17 +29,17 @@ Bundesgrenzschutzes
 
 (1) Männer, die das achtzehnte Lebensjahr vollendet haben und Deutsche im Sinne des Grundgesetzes sind, können zum Polizeivollzugsdienst im Bundesgrenzschutz verpflichtet und herangezogen werden, wenn sie
 
-1.
+1. einem zum Wehrdienst aufgerufenen Geburtsjahrgang angehören und nach dem Musterungsergebnis für den Wehrdienst zur Verfügung stehen oder
 
-2.
+2. als Polizeivollzugsbeamte aus dem Bundesgrenzschutz ausgeschieden sind.
 
 (2) Zahl, Berufsgruppen und Vorbildung der nach Absatz 1 Nr. 1 zu verpflichtenden Männer bestimmt der Bundesminister des Innern, für Bau und Heimat im Einvernehmen mit dem Bundesminister der Verteidigung.
 
 (3) Die Verpflichtung zum Polizeivollzugsdienst im Bundesgrenzschutz kann aufgehoben werden, wenn
 
-1.
+1. Dienstleistungen des Verpflichteten nicht mehr erforderlich sind, um den voraussichtlichen Kräftebedarf des Bundesgrenzschutzes zu decken,
 
-2.
+2. der Verpflichtete nach seinem bisherigen Verhalten die Ordnung oder die Sicherheit im Bundesgrenzschutz ernstlich gefährden würde.
 
 ### § 50 — Beginn und Ende der Grenzschutzdienstpflicht
 
@@ -47,15 +47,15 @@ Bundesgrenzschutzes
 
 (2) Die Grenzschutzdienstpflicht endet
 
-1.
+1. bei Offizieren und Unterführern mit Ablauf des Jahres, in dem sie das sechzigste Lebensjahr vollenden,
 
-2.
+2. bei anderen Dienstpflichtigen mit Ablauf des Jahres, in dem sie das fünfundvierzigste Lebensjahr vollenden, im Verteidigungsfall jedoch mit Ablauf des Jahres, in dem sie das sechzigste Lebensjahr vollenden.
 
 (3) Die Grenzschutzdienstpflicht endet ferner
 
-1.
+1. mit der Anerkennung des Dienstpflichtigen als Kriegsdienstverweigerer,
 
-2.
+2. mit der Zustellung eines Bescheides, der die Verpflichtung zum Polizeivollzugsdienst im Bundesgrenzschutz aufhebt.
 
 ### § 51 — Inhalt der Grenzschutzdienstpflicht
 
@@ -65,11 +65,11 @@ Die Grenzschutzdienstpflicht umfaßt neben der Verpflichtung, Grenzschutzdienst 
 
 (1) Der auf Grund der Grenzschutzdienstpflicht zu leistende Dienst umfaßt
 
-1.
+1. den Grenzschutzgrunddienst,
 
-2.
+2. Grenzschutzübungen,
 
-3.
+3. im Verteidigungsfall und in den Fällen des Artikels 91 des Grundgesetzes den unbefristeten Grenzschutzdienst.
 
 (2) Grenzschutzdienstpflichtige, die den Grenzschutzgrunddienst abgeleistet haben, und frühere Polizeivollzugsbeamte im Bundesgrenzschutz, die zum Polizeivollzugsdienst im Bundesgrenzschutz verpflichtet worden sind, gehören der Grenzschutzreserve an.
 
@@ -121,13 +121,13 @@ Die Grenzschutzdienstpflicht umfaßt neben der Verpflichtung, Grenzschutzdienst 
 
 Für die Dienstleistenden gilt § 77 des Bundesbeamtengesetzes entsprechend. Die für Polizeivollzugsbeamte im Bundesgrenzschutz geltenden disziplinarrechtlichen Vorschriften sind auf sie mit folgender Maßgabe anzuwenden:
 
-1.
+1. Disziplinarmaßnahmen sind Verweis, Geldbuße, Herabsetzung der Dienstbezeichnung.
 
-2.
+2. Der Grenzschutzsold gilt als Dienstbezug im Sinne der §§ 7 und 117 der Bundesdisziplinarordnung; für die Vollstreckung der Geldbuße gelten außerdem § 49 Absatz 1, §§ 51 und 58 Absatz 1 der Wehrdisziplinarordnung entsprechend.
 
-3.
+3. Die Herabsetzung der Dienstbezeichnung darf nur im förmlichen Disziplinarverfahren verhängt werden. Auf sie sind die für die Versetzung in ein Amt derselben Laufbahn mit geringerem Endgrundgehalt geltenden Vorschriften der Bundesdisziplinarordnung entsprechend anzuwenden.
 
-4.
+4. An die Stelle des Beisitzers gemäß § 50 Abs. 4 Satz 3 der Bundesdisziplinarordnung tritt ein Dienstleistender, der der Laufbahn des beschuldigten Dienstleistenden angehören soll. Das Bundesministerium der Justiz und für Verbraucherschutz bestellt die Beisitzer für die Dauer ihres Grenzschutzdienstes auf Vorschlag des Bundesministeriums des Innern, für Bau und Heimat; ein Beisitzer kann auch für mehrere Kammern bestellt werden.
 
 > § 58 Satz 2 Nr. 4 Satz 1 Kursivdruck: Vgl. jetzt § 50 Abs. 2 Satz 3
 
@@ -148,11 +148,11 @@ Die Bundesregierung regelt durch Rechtsverordnung ohne Zustimmung des Bundesrate
 
 (1) Ordnungswidrig handelt, wer als Grenzschutzdienstpflichtiger vorsätzlich oder fahrlässig
 
-1.
+1. bei der Entlassung oder später zum Gebrauch im Grenzschutzdienst bestimmte Bekleidungs- oder Ausrüstungsstücke nicht übernimmt (§ 51),
 
-2.
+2. sich nicht auf die geistige oder körperliche Tauglichkeit untersuchen läßt (§ 53 Abs. 2 Satz 2) oder
 
-3.
+3. eine Aufforderung zur Vorstellung nicht befolgt (§ 51).
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 
@@ -166,5 +166,3 @@ andere Verwaltungen
 ## Achter Abschnitt: Schluß- und Übergangsvorschriften
 
 ### Anlage — (zu § 59 Abs. 2)
-
-Fundstelle des Originaltextes: BGBl. I 1974, 2152 - 2153

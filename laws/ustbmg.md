@@ -27,4 +27,6 @@ Auf Ansprüche aus Steuerschuldverhältnissen, die nach den in den Artikeln 5 bi
 
 ### Art 12 — Inkrafttreten
 
-(1) Dieses Gesetz tritt vorbehaltlich des Absatzes 2 am 1. Januar 1993 in Kraft.(2) Artikel 11 tritt mit Wirkung vom 1. Januar 1991 in Kraft. Artikel 1 Nr. 34, Artikel 3, Artikel 4 und die Ermächtigungen zum Erlaß von Rechtsverordnungen in Artikel 1 Nr. 6 - § 3b Abs. 1 Satz 3 -, Nr. 7 Buchstabe e - § 4 Nr. 7 Satz 3 -, Nr. 12 - § 6a Abs. 3 -, Nr. 22 Buchstabe e - § 18 Abs. 8 Satz 1 -, Nr. 23 - § 18a Abs. 9 - und in Artikel 2 Nr. 2 Buchstabe a Doppelbuchstabe bb - § 370 Abs. 6 Satz 4 der Abgabenordnung - treten am Tage nach der Verkündung des Gesetzes in Kraft.
+(1) Dieses Gesetz tritt vorbehaltlich des Absatzes 2 am 1. Januar 1993 in Kraft.
+
+(2) Artikel 11 tritt mit Wirkung vom 1. Januar 1991 in Kraft. Artikel 1 Nr. 34, Artikel 3, Artikel 4 und die Ermächtigungen zum Erlaß von Rechtsverordnungen in Artikel 1 Nr. 6 - § 3b Abs. 1 Satz 3 -, Nr. 7 Buchstabe e - § 4 Nr. 7 Satz 3 -, Nr. 12 - § 6a Abs. 3 -, Nr. 22 Buchstabe e - § 18 Abs. 8 Satz 1 -, Nr. 23 - § 18a Abs. 9 - und in Artikel 2 Nr. 2 Buchstabe a Doppelbuchstabe bb - § 370 Abs. 6 Satz 4 der Abgabenordnung - treten am Tage nach der Verkündung des Gesetzes in Kraft.

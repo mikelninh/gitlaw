@@ -12,13 +12,13 @@
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, für das abrufbare Kapital in Höhe von 168,30768 Milliarden Euro Gewährleistungen zu übernehmen. Zahlungen auf das abrufbare Kapital sind im Rahmen des Bundeshaushalts zu leisten
 
-1.
+1. nach Artikel 9 Absatz 2 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus zur Wiederherstellung der ursprünglichen Höhe des eingezahlten Kapitals, wenn das eingezahlte Kapital durch den Ausgleich eines Zahlungsausfalls unter die vereinbarte Summe von 80 Milliarden Euro fällt;
 
-2.
+2. nach Artikel 9 Absatz 3 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus zur Vermeidung eines Verzugs des Europäischen Stabilitätsmechanismus bei der Erfüllung seiner Zahlungsverpflichtungen;
 
-3.
+3. nach Artikel 25 Absatz 2 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus im Rahmen eines vorübergehend revidierten erhöhten Kapitalabrufs;
 
-4.
+4. nach Artikel 9 Absatz 1 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus aufgrund eines einstimmigen Beschlusses des Gouverneursrates des Europäischen Stabilitätsmechanismus.
 
 (3) Die Bundesregierung wird ermächtigt, durch ihren Vertreter im Gouverneursrat einem Beschluss nach Artikel 10 Absatz 1 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus zur Veränderung des konsolidierten Darlehensvolumens von Europäischem Stabilitätsmechanismus und Europäischer Finanzstabilisierungsfazilität im Sinne des Artikels 39 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus insoweit zuzustimmen, als Finanzmittel, die für die Durchführung der von der Europäischen Finanzstabilisierungsfazilität bis zum 30. März 2012 zugesagten Notmaßnahmen erforderlich sind, bis zu einer Höhe von 200 Milliarden Euro bei der Berechnung des konsolidierten Darlehensvolumens im Sinne des Artikels 39 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus nicht in Abzug gebracht werden.
 
@@ -36,13 +36,13 @@ Der Europäische Stabilitätsmechanismus ist berechtigt, unter den im Vertrag zu
 
 (1) In Angelegenheiten des Europäischen Stabilitätsmechanismus, die die haushaltspolitische Gesamtverantwortung des Deutschen Bundestages betreffen, wird diese vom Plenum des Deutschen Bundestages wahrgenommen. Die haushaltspolitische Gesamtverantwortung ist insbesondere betroffen
 
-1.
+1. bei der Entscheidung nach Artikel 13 Absatz 2 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus, einer Vertragspartei des Europäischen Stabilitätsmechanismus auf deren Hilfeersuchen Stabilitätshilfe in Form einer im Vertrag zur Einrichtung des Europäischen Stabilitätsmechanismus vorgesehenen Finanzhilfefazilität zu gewähren,
 
-2.
+2. bei der Annahme einer Vereinbarung über die Finanzhilfefazilität nach Artikel 13 Absatz 3 Satz 3 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus, einer Zustimmung zu einem entsprechenden Memorandum of Understanding nach Artikel 13 Absatz 4 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus und im Falle der Gewährung einer direkt an Finanzinstitute gewährten Finanzhilfe bei der Annahme einer institutsspezifischen Vereinbarung,
 
-3.
+3. bei Beschlüssen im Rahmen des Europäischen Stabilitätsmechanismus zur Veränderung des genehmigten Stammkapitals sowie des maximalen Darlehensvolumens nach Artikel 10 Absatz 1 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus; Artikel 2 Absatz 1 des Gesetzes zu dem Vertrag vom 2. Februar 2012 zur Einrichtung des Europäischen Stabilitätsmechanismus bleibt unberührt,
 
-4.
+4. bei Beschlüssen im Rahmen des Europäischen Stabilitätsmechanismus über die Festlegung und Änderung von Obergrenzen der für ein bestimmtes Finanzhilfeinstrument insgesamt zur Verfügung stehenden Mittel.
 
 (2) In den Fällen, die die haushaltspolitische Gesamtverantwortung betreffen, darf die Bundesregierung einem Beschlussvorschlag in Angelegenheiten des Europäischen Stabilitätsmechanismus durch ihren Vertreter nur zustimmen oder sich bei einer Beschlussfassung enthalten, nachdem das Plenum hierzu einen zustimmenden Beschluss gefasst hat. Ohne einen solchen Beschluss des Plenums muss der deutsche Vertreter den Beschlussvorschlag ablehnen. Der Vertreter der Bundesregierung hat an der Beschlussfassung teilzunehmen.
 
@@ -52,17 +52,17 @@ Der Europäische Stabilitätsmechanismus ist berechtigt, unter den im Vertrag zu
 
 (1) In allen sonstigen die Haushaltsverantwortung des Deutschen Bundestages berührenden Angelegenheiten des Europäischen Stabilitätsmechanismus, in denen eine Entscheidung des Plenums gemäß § 4 nicht vorgesehen ist, wird der Haushaltsausschuss des Deutschen Bundestages beteiligt. Der Haushaltsausschuss überwacht die Vorbereitung und Durchführung der Vereinbarungen über Stabilitätshilfen.
 
-(2) Der vorherigen Zustimmung des Haushaltsausschusses bedürfen:Die Bundesregierung darf in diesen Fällen einem Beschlussvorschlag in Angelegenheiten des Europäischen Stabilitätsmechanismus durch ihren Vertreter nur zustimmen oder sich bei einer Beschlussfassung enthalten, nachdem der Haushaltsausschuss hierzu einen zustimmenden Beschluss gefasst hat. Einen entsprechenden Antrag im Haushaltsausschuss kann auch die Bundesregierung stellen. Ohne einen solchen Beschluss des Haushaltsausschusses muss der deutsche Vertreter den Beschlussvorschlag ablehnen. Der Vertreter der Bundesregierung hat an der Beschlussfassung teilzunehmen.
+(2) Der vorherigen Zustimmung des Haushaltsausschusses bedürfen:
 
-1.
+1. Entscheidungen über die Bereitstellung zusätzlicher Instrumente ohne Änderung des Gesamtfinanzierungsvolumens einer bestehenden Finanzhilfefazilität oder wesentliche Änderungen der Bedingungen der Finanzhilfefazilität,
 
-2.
+2. Beschlüsse über den Abruf von Kapital nach Artikel 9 Absatz 1 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus sowie die Annahme oder wesentliche Änderung der Regelungen und Bedingungen, die für Kapitalabrufe nach Artikel 9 Absatz 4 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus gelten,
 
-3.
+3. die Annahme oder wesentliche Änderung der Leitlinien für die Durchführungsmodalitäten der einzelnen dem Europäischen Stabilitätsmechanismus nach den Artikeln 14 bis 18 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus sowie gemäß einem Beschluss nach Artikel 19 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus zur Verfügung stehenden Finanzhilfeinstrumente, der Preisgestaltungsleitlinien nach Artikel 20 Absatz 2 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus, der Leitlinien für Anleiheoperationen nach Artikel 21 Absatz 2 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus, der Leitlinien für die Anlagepolitik nach Artikel 22 Absatz 1 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus, der Leitlinien für die Dividendenpolitik nach Artikel 23 Absatz 3 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus und der Vorschriften für die Einrichtung, Verwaltung und Verwendung weiterer Fonds nach Artikel 24 Absatz 4 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus,
 
-4.
+4. die ausführlichen Regelungen und Bedingungen für Kapitalveränderungen nach Artikel 10 Absatz 2 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus,
 
-5.
+5. die Annahme von Bestimmungen oder Auslegungen zur Regelung der beruflichen Schweigepflicht nach Artikel 34 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus.
 
 (3) In den nicht von Absatz 2 erfassten Fällen, die die Haushaltsverantwortung des Deutschen Bundestages berühren, hat die Bundesregierung den Haushaltsausschuss zu beteiligen und seine Stellungnahmen zu berücksichtigen. Dies gilt insbesondere bei Beschlüssen über die Auszahlung einzelner Tranchen der gewährten Stabilitätshilfe.
 

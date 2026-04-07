@@ -25,7 +25,9 @@ Die Amtsdauer der während einer Amtsperiode neu hinzugetretenen Mitglieder ende
 
 ### § 4
 
-(1) Bei einer Abberufung der unparteiischen Mitglieder und ihrer Stellvertreter durch die für das jeweilige Schiedsamt oder das jeweilige sektorenübergreifende Schiedsgremium zuständige Aufsichtsbehörde sind die Organisationen vorher zu hören, die das jeweilige Schiedsamt oder das jeweilige sektorenübergreifende Schiedsgremium gebildet haben.(2) Die Abberufung der Vertreter oder ihrer Stellvertreter durch die Organisationen, die sie bestellt haben, ist dem Vorsitzenden mitzuteilen. Die Mitgliedschaft der Vertreter oder ihrer Stellvertreter bleibt so lange bestehen, bis ein Nachfolger bestellt ist.
+(1) Bei einer Abberufung der unparteiischen Mitglieder und ihrer Stellvertreter durch die für das jeweilige Schiedsamt oder das jeweilige sektorenübergreifende Schiedsgremium zuständige Aufsichtsbehörde sind die Organisationen vorher zu hören, die das jeweilige Schiedsamt oder das jeweilige sektorenübergreifende Schiedsgremium gebildet haben.
+
+(2) Die Abberufung der Vertreter oder ihrer Stellvertreter durch die Organisationen, die sie bestellt haben, ist dem Vorsitzenden mitzuteilen. Die Mitgliedschaft der Vertreter oder ihrer Stellvertreter bleibt so lange bestehen, bis ein Nachfolger bestellt ist.
 
 ### § 5
 
@@ -100,5 +102,3 @@ Die Gebühr wird fällig, sobald das Schiedsamt oder das sektorenübergreifende 
 Die Gebühr ist von jeder der beteiligten Vertragsparteien in gleichen Anteilen zu tragen. Sind auf Seiten einer Vertragspartei mehrere Körperschaften an dem Vertrag beteiligt, so haften sie gesamtschuldnerisch für den nach Satz 1 anfallenden Gebührenanteil.
 
 ### Schlußformel
-
-Der Bundesminister für Arbeit

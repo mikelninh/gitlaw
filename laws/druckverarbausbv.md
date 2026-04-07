@@ -21,61 +21,27 @@ Die Ausbildung dauert drei Jahre.
 
 Die Berufsausbildung gliedert sich in
 
-1.
+1. Pflichtqualifikationen nach § 4 Absatz 2 Abschnitt A und C,
 
-2.
+2. zwei im Ausbildungsvertrag festzulegende Wahlqualifikationen nach § 4 Absatz 2 Abschnitt B Nummer 1 sowie
 
-3.
+3. eine im Ausbildungsvertrag festzulegende Wahlqualifikation nach § 4 Absatz 2 Abschnitt B Nummer 2.
 
 ### § 4 — Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Medientechnologen Druckverarbeitung und zur Medientechnologin Druckverarbeitung gliedert sich wie folgt (Ausbildungsberufsbild):Abschnitt A Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den Pflichtqualifikationen nach § 3 Nummer 1: Abschnitt B Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten aus den Auswahllisten I und II: Abschnitt C Integrative Fertigkeiten, Kenntnisse und Fähigkeiten in den Pflichtqualifikationen nach § 3 Nummer 1:
+(2) Die Berufsausbildung zum Medientechnologen Druckverarbeitung und zur Medientechnologin Druckverarbeitung gliedert sich wie folgt (Ausbildungsberufsbild):
 
-1.
+1. Planen des Ablaufs von Verarbeitungsaufträgen,
 
-2.
+2. Rüsten und Konfigurieren von Verarbeitungsanlagen,
 
-3.
+3. Steuern und Überwachen von Produktionsprozessen,
 
-4.
+4. Verarbeitungstechnologien und -prozesse,
 
-5.
-
-1.
-
-I.1
-
-I.2
-
-I.3
-
-I.4
-
-I.5
-
-I.6
-
-I.7
-
-2.
-
-II.1
-
-II.2
-
-II.3
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
+5. Instandhalten von Verarbeitungsanlagen;
 
 ### § 5 — Durchführung der Berufsausbildung
 
@@ -91,43 +57,27 @@ II.3
 
 (2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Die Zwischenprüfung findet in den Prüfungsbereichen statt.
+(3) Die Zwischenprüfung findet in den Prüfungsbereichen
 
-1.
+1. Arbeitsplanung und
 
-2.
+2. Verarbeitungstechnik
 
 (4) Für den Prüfungsbereich Arbeitsplanung bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er in der Lage ist, a)Arbeitsschritte zu planen, Arbeitsmittel festzulegen, Materialien auszuwählen, Anforderungen des Arbeits-, Gesundheits- und Umweltschutzes sowie der Wirtschaftlichkeit zu berücksichtigen,b)Auftragsdaten zu übernehmen und zu prüfen, Produkt- und Prozessdaten im Planungsprozess umzusetzen,c)Einrichte- und Steuerungsprozesse an Verarbeitungsmaschinen zu planen, dabei Wechselwirkungen von Vorprodukten, Materialien und Maschinen im Verarbeitungsprozess zu berücksichtigen,d)verarbeitungsspezifische Berechnungen durchzuführen; Arbeitsschritte zu planen, Arbeitsmittel festzulegen, Materialien auszuwählen, Anforderungen des Arbeits-, Gesundheits- und Umweltschutzes sowie der Wirtschaftlichkeit zu berücksichtigen, Auftragsdaten zu übernehmen und zu prüfen, Produkt- und Prozessdaten im Planungsprozess umzusetzen, Einrichte- und Steuerungsprozesse an Verarbeitungsmaschinen zu planen, dabei Wechselwirkungen von Vorprodukten, Materialien und Maschinen im Verarbeitungsprozess zu berücksichtigen, verarbeitungsspezifische Berechnungen durchzuführen;
 
-a)
+2. der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
 
-b)
-
-c)
-
-d)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt 120 Minuten.
 
 (5) Für den Prüfungsbereich Verarbeitungstechnik bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er in der Lage ist, a)betriebstypische Verarbeitungsaggregate nach Auftragsdaten und Vorgaben einzustellen,b)Prozesskontrollen sowie Mess- und Prüfvorgänge durchzuführen und deren Ergebnisse zur Optimierung des Verarbeitungsprozesses und des Verarbeitungsergebnisses zu nutzen,c)Probeprodukte manuell und maschinell zu fertigen,d)seine Arbeiten mit praxisüblichen Unterlagen zu dokumentieren; betriebstypische Verarbeitungsaggregate nach Auftragsdaten und Vorgaben einzustellen, Prozesskontrollen sowie Mess- und Prüfvorgänge durchzuführen und deren Ergebnisse zur Optimierung des Verarbeitungsprozesses und des Verarbeitungsergebnisses zu nutzen, Probeprodukte manuell und maschinell zu fertigen, seine Arbeiten mit praxisüblichen Unterlagen zu dokumentieren;
 
-a)
+2. der Prüfling soll eine Arbeitsaufgabe durchführen, dabei soll er zwei Verarbeitungsaggregate nach Vorgaben einstellen und seine Arbeiten dokumentieren;
 
-b)
-
-c)
-
-d)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt vier Stunden.
 
 ### § 7 — Abschlussprüfung
 
@@ -137,95 +87,59 @@ d)
 
 (3) Die Abschlussprüfung besteht aus den Prüfungsbereichen
 
-1.
+1. Druckverarbeitung,
 
-2.
+2. Auftragsplanung und Kommunikation,
 
-3.
+3. Prozesstechnologie,
 
-4.
+4. Wirtschafts- und Sozialkunde.
 
 (4) Für den Prüfungsbereich Druckverarbeitung bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er in der Lage ist, a)Prozessabläufe zu planen,b)Verarbeitungsanlagen hinsichtlich ihrer Grundeinstellungen zu justieren und maschinentechnische Zusammenhänge bei Funktionsprüfungen zu berücksichtigen,c)die für den Arbeitsauftrag benötigten Vorgaben und Materialien zum Einrichten von Verarbeitungsanlagen zu beschaffen sowie Verarbeitungsanlagen zu rüsten,d)die Produktion zu starten und zu steuern, das Produktionsergebnis zu prüfen, zu beurteilen und zu optimieren,e)Produkte in der vorgegebenen Qualität termingerecht, wirtschaftlich und unter Berücksichtigung der Anforderungen des Arbeits-, Gesundheits- und Umweltschutzes herzustellen,f)Maßnahmen zur Behebung von Störungen einzuleiten,g)Prozessdaten und die sich im Produktionsablauf ergebenden veränderten Produktionsbedingungen sowie maschinentechnischen Abweichungen zu kommunizieren und zu dokumentieren; Prozessabläufe zu planen, Verarbeitungsanlagen hinsichtlich ihrer Grundeinstellungen zu justieren und maschinentechnische Zusammenhänge bei Funktionsprüfungen zu berücksichtigen, die für den Arbeitsauftrag benötigten Vorgaben und Materialien zum Einrichten von Verarbeitungsanlagen zu beschaffen sowie Verarbeitungsanlagen zu rüsten, die Produktion zu starten und zu steuern, das Produktionsergebnis zu prüfen, zu beurteilen und zu optimieren, Produkte in der vorgegebenen Qualität termingerecht, wirtschaftlich und unter Berücksichtigung der Anforderungen des Arbeits-, Gesundheits- und Umweltschutzes herzustellen, Maßnahmen zur Behebung von Störungen einzuleiten, Prozessdaten und die sich im Produktionsablauf ergebenden veränderten Produktionsbedingungen sowie maschinentechnischen Abweichungen zu kommunizieren und zu dokumentieren;
 
-a)
+2. dem Prüfungsbereich ist folgende Tätigkeit zugrunde zu legen: Herstellen eines Produkts auf einer integrierten Verarbeitungsanlage oder mit mehreren Einzelmaschinen entsprechend der im Ausbildungsvertrag festgelegten Wahlqualifikation nach § 4 Absatz 2 Abschnitt B Nummer 2; dabei ist eine der im Ausbildungsvertrag festgelegten Wahlqualifikationen nach § 4 Absatz 2 Abschnitt B Nummer 1 zu berücksichtigen;
 
-b)
+3. der Prüfling soll eine Arbeitsaufgabe sowie ein situatives Fachgespräch durchführen und seine Arbeiten mit praxisüblichen Unterlagen dokumentieren;
 
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-2.
-
-3.
-
-4.
+4. die Prüfungszeit beträgt sieben Stunden, innerhalb dieser Zeit soll das situative Fachgespräch höchstens zehn Minuten dauern.
 
 (5) Für den Prüfungsbereich Auftragsplanung und Kommunikation bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er in der Lage ist, a)Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer, organisatorischer und personeller Vorgaben kundenorientiert zu planen, durchzuführen und zu dokumentieren,b)Arbeitsschritte unter Einbeziehung von Informationen vor- und nachgelagerter Produktionsbereiche zu planen,c)Maschinendaten auszuwerten und zu dokumentieren,d)Eigenschaften von Vorprodukten und Materialien sowie deren Wechselwirkungen untereinander und mit den eingesetzten Maschinen und Anlagen zu berücksichtigen,e)planungsrelevante Berechnungen durchzuführen; Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer, organisatorischer und personeller Vorgaben kundenorientiert zu planen, durchzuführen und zu dokumentieren, Arbeitsschritte unter Einbeziehung von Informationen vor- und nachgelagerter Produktionsbereiche zu planen, Maschinendaten auszuwerten und zu dokumentieren, Eigenschaften von Vorprodukten und Materialien sowie deren Wechselwirkungen untereinander und mit den eingesetzten Maschinen und Anlagen zu berücksichtigen, planungsrelevante Berechnungen durchzuführen;
 
-a)
+2. der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
 
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt 120 Minuten.
 
 (6) Für den Prüfungsbereich Prozesstechnologie bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er in der Lage ist, a)Verarbeitungsprozesse hinsichtlich ihrer Einsatzgebiete zu unterscheiden und Hauptproduktgruppen zuzuordnen,b)verarbeitungsspezifische Parameter sowie Produktionsbedingungen in Bezug auf Verarbeitungsanlagen, Vorprodukte, Materialien, betriebliche Rahmenbedingungen und Produktionsvorgaben zu beurteilen und zu nutzen,c)qualitätssichernde Maßnahmen für die Optimierung des Verarbeitungsergebnisses anzuwenden sowie prozessbezogene Mess- und Prüfverfahren zu nutzen,d)Funktionen von Maschinenelementen sowie Maßnahmen zur Instandhaltung von Maschinen und Anlagen zu beurteilen,e)prozessbezogene Berechnungen durchzuführen; Verarbeitungsprozesse hinsichtlich ihrer Einsatzgebiete zu unterscheiden und Hauptproduktgruppen zuzuordnen, verarbeitungsspezifische Parameter sowie Produktionsbedingungen in Bezug auf Verarbeitungsanlagen, Vorprodukte, Materialien, betriebliche Rahmenbedingungen und Produktionsvorgaben zu beurteilen und zu nutzen, qualitätssichernde Maßnahmen für die Optimierung des Verarbeitungsergebnisses anzuwenden sowie prozessbezogene Mess- und Prüfverfahren zu nutzen, Funktionen von Maschinenelementen sowie Maßnahmen zur Instandhaltung von Maschinen und Anlagen zu beurteilen, prozessbezogene Berechnungen durchzuführen;
 
-a)
+2. der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
 
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt 120 Minuten.
 
 (7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen;
 
-2.
+2. der Prüfling soll praxisorientierte Aufgaben schriftlich bearbeiten;
 
-3.
+3. die Prüfungszeit beträgt 60 Minuten.
 
 ### § 8 — Gewichtungs- und Bestehensregelung
 
-(1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
+(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen bewertet worden sind.
+1. im Gesamtergebnis mit mindestens „ausreichend“,
 
-1.
+2. im Prüfungsbereich „Druckverarbeitung“ mit mindestens „ausreichend“,
 
-2.
+3. in mindestens zwei weiteren Prüfungsbereichen mit mindestens „ausreichend“ und
 
-3.
-
-4.
+4. in keinem Prüfungsbereich mit „ungenügend“
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der schlechter als „ausreichend“ bewerteten Prüfungsbereiche „Auftragsplanung und Kommunikation“ oder „Prozesstechnologie“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
@@ -242,291 +156,3 @@ Nach erfolgreichem Abschluss der Berufsausbildung zum Maschinen- und Anlagenfüh
 Diese Verordnung tritt am 1. August 2011 in Kraft.
 
 ### Anlage — (zu § 4 Absatz 1 Satz 1)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-1. Auswahlliste I
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-2. Auswahlliste II
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)

@@ -14,13 +14,13 @@ erfüllter Entschädigungsansprüche aus Enteignung
 
 (3) Ist ein Anspruch auf Entschädigung in der früheren Deutschen Demokratischen Republik nicht festgesetzt worden, so bemisst sich die Entschädigung
 
-1.
+1. bei Grundstücken und Gebäuden nach dem 1,3fachen des vor der Schädigung zuletzt festgestellten Einheitswertes, Ersatzeinheitswertes oder Hilfswertes im Sinne des § 3 Abs. 1 bis 3 des Entschädigungsgesetzes vom 27. September 1994 (BGBl. I S. 2624),
 
-2.
+2. bei Gesellschaftsanteilen nach dem 1,3fachen des im Hauptfeststellungszeitraum vor der Schädigung zuletzt festgestellten Einheitswertes, Ersatzeinheitswertes oder Reinvermögens im Sinne von § 4 des Entschädigungsgesetzes,
 
-3.
+3. bei Ansprüchen auf Befriedigung langfristiger Verbindlichkeiten nach § 5 des Entschädigungsgesetzes,
 
-4.
+4. bei Ansprüchen auf bewegliche Sachen nach § 5a des Entschädigungsgesetzes.
 
 ### § 2 — Rechte an enteigneten Grundstücken
 

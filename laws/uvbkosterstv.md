@@ -11,7 +11,13 @@ Auf Grund des § 4 Absatz 2 Satz 2 des Gesetzes zur Errichtung der Unfallversich
 
 ### § 1 — Geltungsbereich
 
-Diese Verordnung gilt für folgende Mitgliedsunternehmen der Unfallversicherung Bund und Bahn im Sinne des § 125 Absatz 2 des Siebten Buches Sozialgesetzbuch: 1.das Bundeseisenbahnvermögen,2.die Mitgliedsunternehmen, denen Beamtinnen und Beamte zugewiesen sind nach Maßgabe der §§ 12 und 23 des Deutsche Bahn Gründungsgesetzes vom 27. Dezember 1993 (BGBl. I S. 2378, 2386; 1994 I S. 2439), das zuletzt durch Artikel 515 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, und3.die Mitgliedsunternehmen, denen keine Beamtinnen und Beamten zugewiesen sind.
+Diese Verordnung gilt für folgende Mitgliedsunternehmen der Unfallversicherung Bund und Bahn im Sinne des § 125 Absatz 2 des Siebten Buches Sozialgesetzbuch:
+
+1.
+
+2.
+
+3.
 
 ### § 2 — Kostenerstattung für übertragene Aufgaben
 
@@ -19,11 +25,15 @@ Die Mitgliedsunternehmen nach § 1 Nummer 1 und 2 erstatten der Unfallversicheru
 
 ### § 3 — Festsetzung und Berechnung der Kosten
 
-(1) Die Unfallversicherung Bund und Bahn setzt für jedes Mitgliedsunternehmen nach § 1 Nummer 1 und 2 nachträglich für das abgelaufene Kalenderjahr die Kosten im Sinne des § 2 fest. Die Unfallversicherung Bund und Bahn teilt diesen Mitgliedsunternehmen die Höhe der Kosten durch Bescheid mit.(2) Grundlage für die Festsetzung der Kosten sind die in dem Teilhaushalt für den Zuständigkeitsbereich des § 125 Absatz 2 des Siebten Buches Sozialgesetzbuch veranschlagten Gesamtkosten der Prävention, die in der Jahresrechnung nach § 77 des Vierten Buches Sozialgesetzbuch nachgewiesen sind. Die Gesamtkosten sind im Verhältnis der bei den Mitgliedsunternehmen nach § 1 im Jahresdurchschnitt beschäftigten Versicherten zu den bei diesen Mitgliedsunternehmen im Jahresdurchschnitt beschäftigten Beamtinnen und Beamten aufzuteilen. Dieser Teilbetrag wird nach der Anzahl der durchschnittlich beschäftigten Beamtinnen und Beamten anteilmäßig auf die Mitgliedsunternehmen nach § 1 Nummer 1 und 2 verteilt.
+(1) Die Unfallversicherung Bund und Bahn setzt für jedes Mitgliedsunternehmen nach § 1 Nummer 1 und 2 nachträglich für das abgelaufene Kalenderjahr die Kosten im Sinne des § 2 fest. Die Unfallversicherung Bund und Bahn teilt diesen Mitgliedsunternehmen die Höhe der Kosten durch Bescheid mit.
+
+(2) Grundlage für die Festsetzung der Kosten sind die in dem Teilhaushalt für den Zuständigkeitsbereich des § 125 Absatz 2 des Siebten Buches Sozialgesetzbuch veranschlagten Gesamtkosten der Prävention, die in der Jahresrechnung nach § 77 des Vierten Buches Sozialgesetzbuch nachgewiesen sind. Die Gesamtkosten sind im Verhältnis der bei den Mitgliedsunternehmen nach § 1 im Jahresdurchschnitt beschäftigten Versicherten zu den bei diesen Mitgliedsunternehmen im Jahresdurchschnitt beschäftigten Beamtinnen und Beamten aufzuteilen. Dieser Teilbetrag wird nach der Anzahl der durchschnittlich beschäftigten Beamtinnen und Beamten anteilmäßig auf die Mitgliedsunternehmen nach § 1 Nummer 1 und 2 verteilt.
 
 ### § 4 — Meldung der Beschäftigtenzahlen
 
-(1) Die Mitgliedsunternehmen nach § 1 melden der Unfallversicherung Bund und Bahn innerhalb von sechs Wochen nach Ablauf des Kalenderjahres die Anzahl der durchschnittlich im abgelaufenen Kalenderjahr beschäftigten Versicherten sowie Beamtinnen und Beamten.(2) Mitarbeiterinnen und Mitarbeiter von Mitgliedsunternehmen nach § 1 Nummer 1 und 2, deren Beamtenverhältnis auf Grund einer Beurlaubung ruht, zählen zu den beschäftigten Versicherten.
+(1) Die Mitgliedsunternehmen nach § 1 melden der Unfallversicherung Bund und Bahn innerhalb von sechs Wochen nach Ablauf des Kalenderjahres die Anzahl der durchschnittlich im abgelaufenen Kalenderjahr beschäftigten Versicherten sowie Beamtinnen und Beamten.
+
+(2) Mitarbeiterinnen und Mitarbeiter von Mitgliedsunternehmen nach § 1 Nummer 1 und 2, deren Beamtenverhältnis auf Grund einer Beurlaubung ruht, zählen zu den beschäftigten Versicherten.
 
 ### § 5 — Säumniszuschlag
 

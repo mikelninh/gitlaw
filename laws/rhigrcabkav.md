@@ -29,7 +29,9 @@ Die für die Erhebung von Auslagen geltenden bundes- und landesrechtlichen Vorsc
 
 ### § 4
 
-(1) Die in Artikel 16 des Abkommens bezeichneten Kostenentscheidungen der griechischen Gerichte werden durch Beschluß des Amtsgerichts für vollstreckbar erklärt.(2) Örtlich zuständig ist das Gericht, bei dem der Kostenschuldner seinen allgemeinen Gerichtsstand hat, und in Ermangelung eines solchen das Gericht, in dessen Bezirk sich Vermögen des Kostenschuldners befindet oder die Vollstreckungshandlung vorzunehmen ist.
+(1) Die in Artikel 16 des Abkommens bezeichneten Kostenentscheidungen der griechischen Gerichte werden durch Beschluß des Amtsgerichts für vollstreckbar erklärt.
+
+(2) Örtlich zuständig ist das Gericht, bei dem der Kostenschuldner seinen allgemeinen Gerichtsstand hat, und in Ermangelung eines solchen das Gericht, in dessen Bezirk sich Vermögen des Kostenschuldners befindet oder die Vollstreckungshandlung vorzunehmen ist.
 
 ### § 5
 
@@ -37,7 +39,9 @@ Ist der Antrag auf Vollstreckbarerklärung auf diplomatischem Wege gestellt, so 
 
 ### § 6
 
-(1) Beschlüsse, durch die der Antrag auf Vollstreckbarerklärung abgelehnt wird, unterliegen der Beschwerde nach den §§ 567 bis 577 der Zivilprozessordnung. Die Beschwerde steht, sofern der Antrag auf diplomatischem Wege gestellt ist, dem Staatsanwalt, sofern er durch die beteiligte Partei unmittelbar gestellt ist, dem Antragsteller zu.(2) Gegen Beschlüsse, durch die dem Antrag auf Vollstreckbarerklärung stattgegeben wird, steht dem Kostenschuldner die Beschwerde nach den §§ 567 bis 577 der Zivilprozessordnung zu.
+(1) Beschlüsse, durch die der Antrag auf Vollstreckbarerklärung abgelehnt wird, unterliegen der Beschwerde nach den §§ 567 bis 577 der Zivilprozessordnung. Die Beschwerde steht, sofern der Antrag auf diplomatischem Wege gestellt ist, dem Staatsanwalt, sofern er durch die beteiligte Partei unmittelbar gestellt ist, dem Antragsteller zu.
+
+(2) Gegen Beschlüsse, durch die dem Antrag auf Vollstreckbarerklärung stattgegeben wird, steht dem Kostenschuldner die Beschwerde nach den §§ 567 bis 577 der Zivilprozessordnung zu.
 
 ### § 7
 
@@ -45,12 +49,12 @@ Aus den für vollstreckbar erklärten Kostenentscheidungen findet die Zwangsvoll
 
 ### § 8
 
-(1) Für die gerichtlichen Entscheidungen, die über den Betrag der Gerichtskosten nach Artikel 16 Abs. 2 des Abkommens zur Herbeiführung der Vollstreckbarerklärung in Griechenland zu erlassen sind, ist das Gericht der Instanz zuständig. Die Entscheidungen ergehen auf Antrag der für die Beitreibung der Gerichtskosten zuständigen Behörde.(2) Die Entscheidungen unterliegen der Beschwerde nach den §§ 567 bis 577 der Zivilprozessordnung. Die sofortige Beschwerde kann durch Erklärung zu Protokoll der Geschäftsstelle oder schriftlich ohne Mitwirkung eines Rechtsanwalts eingelegt werden.
+(1) Für die gerichtlichen Entscheidungen, die über den Betrag der Gerichtskosten nach Artikel 16 Abs. 2 des Abkommens zur Herbeiführung der Vollstreckbarerklärung in Griechenland zu erlassen sind, ist das Gericht der Instanz zuständig. Die Entscheidungen ergehen auf Antrag der für die Beitreibung der Gerichtskosten zuständigen Behörde.
+
+(2) Die Entscheidungen unterliegen der Beschwerde nach den §§ 567 bis 577 der Zivilprozessordnung. Die sofortige Beschwerde kann durch Erklärung zu Protokoll der Geschäftsstelle oder schriftlich ohne Mitwirkung eines Rechtsanwalts eingelegt werden.
 
 ### § 9
 
 -
 
 ### Schlußformel
-
-Der Reichsminister der Justiz Der Reichsminister des Auswärtigen

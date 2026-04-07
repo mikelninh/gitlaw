@@ -25,7 +25,17 @@ Dem am 8. Dezember 1990 in Warschau unterzeichneten Abkommen zwischen der Bundes
 
 ### Art 4
 
-Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vereinbarungen zur Durchführung des Abkommens in Kraft zu setzen oder in Ermangelung solcher Vereinbarungen das Nähere zu regeln. Dabei können zur Anwendung und Durchführung des Abkommens insbesondere über folgende Gegenstände Regelungen getroffen werden: 1.Aufklärungs-, Anzeige- und Mitteilungspflichten sowie das Bereitstellen von Beweismitteln zwischen den in Artikel 22 Abs. 1 des Abkommens genannten Stellen sowie zwischen diesen und den betroffenen Personen, 2.das Ausstellen, die Vorlage und Übermittlung von Bescheinigungen sowie die Verwendung von Vordrucken, 3.das Verfahren beim Erbringen von Geld- und Sachleistungen, 4.die Zuständigkeit der Versicherungsträger oder anderer in Artikel 22 Abs. 1 des Abkommens genannter Stellen, 5.die gegenseitige Umrechnung von Versicherungszeiten nach den Rechtsvorschriften beider Vertragsstaaten.
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vereinbarungen zur Durchführung des Abkommens in Kraft zu setzen oder in Ermangelung solcher Vereinbarungen das Nähere zu regeln. Dabei können zur Anwendung und Durchführung des Abkommens insbesondere über folgende Gegenstände Regelungen getroffen werden:
+
+1. Aufklärungs-, Anzeige- und Mitteilungspflichten sowie das Bereitstellen von Beweismitteln zwischen den in Artikel 22 Abs. 1 des Abkommens genannten Stellen sowie zwischen diesen und den betroffenen Personen,
+
+2. das Ausstellen, die Vorlage und Übermittlung von Bescheinigungen sowie die Verwendung von Vordrucken,
+
+3. das Verfahren beim Erbringen von Geld- und Sachleistungen,
+
+4. die Zuständigkeit der Versicherungsträger oder anderer in Artikel 22 Abs. 1 des Abkommens genannter Stellen,
+
+5. die gegenseitige Umrechnung von Versicherungszeiten nach den Rechtsvorschriften beider Vertragsstaaten.
 
 ### Art 5
 
@@ -33,4 +43,6 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 ### Art 6
 
-(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.(2) Der Tag, an dem das Abkommen nach seinem Artikel 31 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
+(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
+
+(2) Der Tag, an dem das Abkommen nach seinem Artikel 31 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.

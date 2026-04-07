@@ -14,13 +14,13 @@
 
 ### § 2 — Begriffsbestimmungen
 
-1.
+1. Geotopographische Referenzdaten sind diejenigen Geodaten, die die Geotopographie anwendungsneutral in einem einheitlichen geodätischen Referenzsystem beschreiben oder abbilden.
 
-2.
+2. Geodätische Referenzsysteme sind Koordinatensysteme, die Lage-, Höhen- und Schwereinformationen in Raum und Zeit beschreiben. Sie werden durch geodätische Referenznetze umgesetzt.
 
-3.
+3. Geodatenmodelle sind Datenmodelle, die die Landschaft nach einheitlichen Modellierungsvorschriften durch geotopographische Referenzdaten anwendungsneutral beschreiben. Sie werden durch digitale Landschaftsmodelle umgesetzt.
 
-4.
+4. Kartographische Modelle sind Darstellungen, mit denen geotopographische Referenzdaten anwendungsbezogen kartographisch veranschaulicht werden. Sie werden durch Kartenwerke in digitaler und analoger Form umgesetzt. Darstellungen der Geotopographie werden auch durch Methoden der Fernerkundung erzeugt.
 
 ### § 3 — Bundesamt für Kartographie und Geodäsie
 
@@ -30,17 +30,17 @@
 
 (3) Das Bundesamt hat insbesondere die folgenden Aufgaben:
 
-1.
+1. Aufbereitung, Aktualisierung und Bereitstellung von orts- und raumbezogenen Daten zur Beschreibung der Objekte der Erdoberfläche sowie die Fortentwicklung der dafür erforderlichen Verfahren und Methoden,
 
-2.
+2. Bereitstellung und Pflege der nationalen übergeordneten geodätischen Referenznetze unter Einschluss der erforderlichen vermessungstechnischen und theoretischen Leistungen zur Gewinnung und Aufbereitung der Messdaten,
 
-3.
+3. Mitwirkung an bilateralen und multilateralen Arbeiten zur Einrichtung und Pflege globaler geodätischer Referenzsysteme und -netze sowie der Fortentwicklung der eingesetzten Mess- und Beobachtungstechnologie,
 
-4.
+4. Koordination des Auf- und Ausbaus sowie Erhaltung des Bundesanteils der Geodateninfrastruktur für Deutschland,
 
-5.
+5. Betrieb eines Dienstleistungszentrums des Bundes, das die Koordination der geodätischen Referenzsysteme und -netze sowie geotopographischen Referenzdaten des Bundes übernimmt, den Bedarf an Geodaten erhebt, sie über ein Geoportal oder mittels anderer bedarfsorientierter Technik verfügbar macht und Bundesbehörden bei der standardkonformen Entwicklung und Nutzung ihrer Geodatendienste unterstützt,
 
-6.
+6. Vertretung fachlicher Interessen Deutschlands auf europäischer und internationaler Ebene einschließlich der Mitwirkung an der Vorbereitung von zivilen Programmen und Rechtsvorschriften sowie an der methodischen und technischen Vorbereitung und Harmonisierung von kartographischen und geodätischen Produkten.
 
 ### § 4 — Weitere geotopographische Referenzdaten führende Stellen des Bundes
 
@@ -54,39 +54,15 @@ Geotopographische Referenzdaten führende Stellen des Bundes sind diejenigen Bun
 
 ### § 6 — Technische Richtlinien des Interministeriellen Ausschusses für Geoinformationswesen
 
-(1) Die geodatenhaltenden Stellen des Bundes, die geotopographische Referenzdaten erheben oder erstellen, haben die qualitativen und technischen Anforderungen nach § 1 Absatz 2 nach dem Stand der Technik zu erfüllen. Die Einhaltung des Standes der Technik wird vermutet, wenn die Technischen Richtlinien des Interministeriellen Ausschusses für Geoinformationswesen in der jeweils im elektronischen Bundesanzeiger veröffentlichten Fassung eingehalten werden.
+(2) Der Interministerielle Ausschuss für Geoinformationswesen ist befugt, einvernehmlich in Technischen Richtlinien
 
-(2) Der Interministerielle Ausschuss für Geoinformationswesen ist befugt, einvernehmlich in Technischen Richtlinien Die Festlegungen der qualitativen und technischen Vorgaben erfolgt im Einvernehmen mit den Vermessungsverwaltungen der Länder. Zur Sicherstellung unionsrechtlich und international geltender Standards können weiterführende Festlegungen im Benehmen mit den Vermessungsverwaltungen der Länder erfolgen.
+1. die qualitativen und technischen Vorgaben an die in Bundesbehörden zu verwendenden übergeordneten geodätischen Referenzsysteme festzulegen, insbesondere a)die anzuwendenden nationalen, unionsrechtlichen und internationalen technischen Normen,b)das geodätische Datum und die Art der Koordinatenabbildung sowie die Beschreibung von Koordinatentransformationen zwischen unterschiedlichen geodätischen Datumsfestlegungen,c)Anforderungen an die Qualität,d)die Errichtung, Bereitstellung, Pflege sowie die Punktdichte und räumliche Abgrenzung des geodätischen Festpunktfeldes, die anzuwendenden nationalen, unionsrechtlichen und internationalen technischen Normen, das geodätische Datum und die Art der Koordinatenabbildung sowie die Beschreibung von Koordinatentransformationen zwischen unterschiedlichen geodätischen Datumsfestlegungen, Anforderungen an die Qualität, die Errichtung, Bereitstellung, Pflege sowie die Punktdichte und räumliche Abgrenzung des geodätischen Festpunktfeldes,
 
-1.
+2. die qualitativen und technischen Vorgaben an die in Bundesbehörden zu verwendenden geotopographischen Referenzdaten, die in einem einheitlichen geodätischen Referenzsystem beschrieben werden, zu bestimmen, insbesondere a)Geodatenmodelle,b)kartographische Modelle,c)Fernerkundungsprodukte im Sinne des § 2 Nummer 4 Satz 3,d)Anforderungen an die Qualität,e)räumliche Abgrenzung undf)technische Bereitstellung, sowie Geodatenmodelle, kartographische Modelle, Fernerkundungsprodukte im Sinne des § 2 Nummer 4 Satz 3, Anforderungen an die Qualität, räumliche Abgrenzung und technische Bereitstellung, sowie
 
-a)
-
-b)
-
-c)
-
-d)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-3.
+3. zu den Geodatendiensten des Bundes die qualitativen und technischen Vorgaben für eine optimale Vernetzung (Interoperabilität) festzulegen und die geotopographischen Referenzdaten des Bundes zu bestimmen, die allein oder in Verbindung mit anderen Daten in elektronischer Form zugänglich gemacht werden sollen.
 
 (3) Für die geodätischen Referenznetze sowie die geotopographischen Referenzdaten sind die Art und Periodizität der Historisierung in den Richtlinien zu dokumentieren. Im Übrigen gilt das Bundesarchivgesetz.
-
-(4) Die Technischen Richtlinien sind im elektronischen Bundesanzeiger zu veröffentlichen.
 
 ### § 7 — Inkrafttreten
 

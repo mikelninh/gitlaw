@@ -26,23 +26,53 @@ Die zu den Laufbahnen des Polizeivollzugsdienstes beim Deutschen Bundestag gehö
 
 ### § 4 — Vorbereitungsdienste
 
-(1) Für die Anwärterinnen und Anwärter für den mittleren Polizeivollzugsdienst beim Deutschen Bundestag ist der Vorbereitungsdienst für die Laufbahn des mittleren Polizeivollzugsdienstes in der Bundespolizei oder eines Landes der Vorbereitungsdienst.(2) Für die Anwärterinnen und Anwärter für den gehobenen Polizeivollzugsdienst beim Deutschen Bundestag ist der Vorbereitungsdienst für die Laufbahn des gehobenen Polizeivollzugsdienstes in der Bundespolizei oder eines Landes der Vorbereitungsdienst.
+(1) Für die Anwärterinnen und Anwärter für den mittleren Polizeivollzugsdienst beim Deutschen Bundestag ist der Vorbereitungsdienst für die Laufbahn des mittleren Polizeivollzugsdienstes in der Bundespolizei oder eines Landes der Vorbereitungsdienst.
+
+(2) Für die Anwärterinnen und Anwärter für den gehobenen Polizeivollzugsdienst beim Deutschen Bundestag ist der Vorbereitungsdienst für die Laufbahn des gehobenen Polizeivollzugsdienstes in der Bundespolizei oder eines Landes der Vorbereitungsdienst.
 
 ### § 5 — Einstellung und Abordnung
 
-(1) Die Einstellung erfolgt durch die Verwaltung des Deutschen Bundestages.(2) Die Anwärterinnen und Anwärter werden an die für die Durchführung des Vorbereitungsdienstes zuständigen Dienststellen des Bundes oder eines Landes abgeordnet.
+(1) Die Einstellung erfolgt durch die Verwaltung des Deutschen Bundestages.
+
+(2) Die Anwärterinnen und Anwärter werden an die für die Durchführung des Vorbereitungsdienstes zuständigen Dienststellen des Bundes oder eines Landes abgeordnet.
 
 ### § 6 — Auswahlverfahren und Altersgrenzen
 
-(1) In den Vorbereitungsdienst für den mittleren Polizeivollzugsdienst beim Deutschen Bundestag kann eingestellt werden, wer erfolgreich an einem Auswahlverfahren teilgenommen hat und mindestens 16, aber noch nicht 28 Jahre alt ist. In den Vorbereitungsdienst für den gehobenen Polizeivollzugsdienst beim Deutschen Bundestag kann eingestellt werden, wer erfolgreich an einem Auswahlverfahren teilgenommen hat und noch nicht 34 Jahre alt ist.(2) Das Höchstalter nach Absatz 1 erhöht sich um Zeiten 1.des Mutterschutzes,2.der Kinderbetreuung, höchstens jedoch um drei Jahre je Kind, sowie3.der Pflege naher Angehöriger (Eltern, Schwiegereltern, Ehegattin oder Ehegatte, Lebenspartnerin oder Lebenspartner, Geschwister oder Kinder), die einer Pflegestufe nach § 15 des Elften Buches Sozialgesetzbuch zugeordnet und von der Bewerberin oder dem Bewerber aus gesetzlicher oder sittlicher Verpflichtung in dem in § 15 Absatz 3 des Elften Buches Sozialgesetzbuch genannten Umfang gepflegt worden sind; das Höchstalter erhöht sich jedoch insgesamt um höchstens drei Jahre je Angehörige oder Angehörigen.Auch wenn Zeiten nach Satz 1 zu berücksichtigen sind, darf 1.zur Laufbahn des mittleren Polizeivollzugsdienstes beim Deutschen Bundestag nur zugelassen werden, wer noch nicht 36 Jahre alt ist, und2.zur Laufbahn des gehobenen Polizeivollzugsdienstes beim Deutschen Bundestag nur zugelassen werden, wer noch nicht 42 Jahre alt ist.(3) Bei besonderem dienstlichen Bedürfnis kann die Verwaltung des Deutschen Bundestages Ausnahmen von Absatz 1 bis zu den Höchstaltersgrenzen nach Absatz 2 Satz 2 zulassen.(4) Für Teilnehmerinnen und Teilnehmer an Eingliederungsmaßnahmen nach § 9 Absatz 2 des Soldatenversorgungsgesetzes gelten keine Höchstaltersgrenzen.
+(1) In den Vorbereitungsdienst für den mittleren Polizeivollzugsdienst beim Deutschen Bundestag kann eingestellt werden, wer erfolgreich an einem Auswahlverfahren teilgenommen hat und mindestens 16, aber noch nicht 28 Jahre alt ist. In den Vorbereitungsdienst für den gehobenen Polizeivollzugsdienst beim Deutschen Bundestag kann eingestellt werden, wer erfolgreich an einem Auswahlverfahren teilgenommen hat und noch nicht 34 Jahre alt ist.
+
+(2) Das Höchstalter nach Absatz 1 erhöht sich um Zeiten
+
+1. des Mutterschutzes,
+
+2. der Kinderbetreuung, höchstens jedoch um drei Jahre je Kind, sowie
+
+3. der Pflege naher Angehöriger (Eltern, Schwiegereltern, Ehegattin oder Ehegatte, Lebenspartnerin oder Lebenspartner, Geschwister oder Kinder), die einer Pflegestufe nach § 15 des Elften Buches Sozialgesetzbuch zugeordnet und von der Bewerberin oder dem Bewerber aus gesetzlicher oder sittlicher Verpflichtung in dem in § 15 Absatz 3 des Elften Buches Sozialgesetzbuch genannten Umfang gepflegt worden sind; das Höchstalter erhöht sich jedoch insgesamt um höchstens drei Jahre je Angehörige oder Angehörigen.
+
+(3) Bei besonderem dienstlichen Bedürfnis kann die Verwaltung des Deutschen Bundestages Ausnahmen von Absatz 1 bis zu den Höchstaltersgrenzen nach Absatz 2 Satz 2 zulassen.
+
+(4) Für Teilnehmerinnen und Teilnehmer an Eingliederungsmaßnahmen nach § 9 Absatz 2 des Soldatenversorgungsgesetzes gelten keine Höchstaltersgrenzen.
 
 ### § 7 — Gestaltung des Vorbereitungsdienstes, Laufbahnprüfung
 
-(1) Die Gestaltung des Vorbereitungsdienstes für die Laufbahn des mittleren Polizeivollzugsdienstes beim Deutschen Bundestag richtet sich nach den Vorschriften, die für den Vorbereitungsdienst gelten, an dem die Anwärterin oder der Anwärter teilnimmt, mit der Maßgabe, dass mindestens ein Praktikum bei der Polizei beim Deutschen Bundestag zu absolvieren ist. Die Laufbahnprüfung für den mittleren Polizeivollzugsdienst beim Deutschen Bundestag ist die Laufbahnprüfung des Vorbereitungsdienstes, an dem die Anwärterin oder der Anwärter teilnimmt.(2) Für den Vorbereitungsdienst für die Laufbahn des gehobenen Polizeivollzugsdienstes beim Deutschen Bundestag gilt Absatz 1 entsprechend.
+(1) Die Gestaltung des Vorbereitungsdienstes für die Laufbahn des mittleren Polizeivollzugsdienstes beim Deutschen Bundestag richtet sich nach den Vorschriften, die für den Vorbereitungsdienst gelten, an dem die Anwärterin oder der Anwärter teilnimmt, mit der Maßgabe, dass mindestens ein Praktikum bei der Polizei beim Deutschen Bundestag zu absolvieren ist. Die Laufbahnprüfung für den mittleren Polizeivollzugsdienst beim Deutschen Bundestag ist die Laufbahnprüfung des Vorbereitungsdienstes, an dem die Anwärterin oder der Anwärter teilnimmt.
+
+(2) Für den Vorbereitungsdienst für die Laufbahn des gehobenen Polizeivollzugsdienstes beim Deutschen Bundestag gilt Absatz 1 entsprechend.
 
 ### § 8 — Laufbahnbefähigung
 
-(1) Als Befähigung für die jeweilige Laufbahn des Polizeivollzugsdienstes beim Deutschen Bundestag soll anerkannt werden die Befähigung für die entsprechende Laufbahn 1.des Polizeivollzugsdienstes in der Bundespolizei,2.des kriminalpolizeilichen Vollzugsdienstes des Bundes oder eines Landes und3.des Polizeivollzugsdienstes eines Landes.Über die Anerkennung der Laufbahnbefähigung entscheidet die Verwaltung des Deutschen Bundestages.(2) Die Befähigung für die Laufbahn des höheren Polizeivollzugsdienstes beim Deutschen Bundestag hat auch, wer die Befähigung zum Richteramt besitzt.(3) Die Polizeivollzugsbeamtin oder der Polizeivollzugsbeamte hat eine Unterweisungszeit von in der Regel sechs, mindestens aber drei Monaten zu durchlaufen.(4) Im Übrigen gilt § 53 der Bundeslaufbahnverordnung.
+(1) Als Befähigung für die jeweilige Laufbahn des Polizeivollzugsdienstes beim Deutschen Bundestag soll anerkannt werden die Befähigung für die entsprechende Laufbahn
+
+1. des Polizeivollzugsdienstes in der Bundespolizei,
+
+2. des kriminalpolizeilichen Vollzugsdienstes des Bundes oder eines Landes und
+
+3. des Polizeivollzugsdienstes eines Landes.
+
+(2) Die Befähigung für die Laufbahn des höheren Polizeivollzugsdienstes beim Deutschen Bundestag hat auch, wer die Befähigung zum Richteramt besitzt.
+
+(3) Die Polizeivollzugsbeamtin oder der Polizeivollzugsbeamte hat eine Unterweisungszeit von in der Regel sechs, mindestens aber drei Monaten zu durchlaufen.
+
+(4) Im Übrigen gilt § 53 der Bundeslaufbahnverordnung.
 
 ### § 9 — Erhaltung der körperlichen Leistungsfähigkeit
 
@@ -50,11 +80,47 @@ Die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten sind verpflichtet, ihre
 
 ### § 10 — Aufstieg
 
-(1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte können zum Aufstieg in die nächsthöhere Laufbahn zugelassen werden, wenn sie 1.sich nach Ablauf der Probezeit in einer Dienstzeit von mindestens drei Jahren bewährt haben,2.erfolgreich an einem Auswahlverfahren teilgenommen haben und3.folgende Altersgrenzen noch nicht erreicht haben: a)bei Beginn des Aufstiegs in den gehobenen Polizeivollzugsdienst beim Deutschen Bundestag noch nicht 57 Jahre alt sind,b)bei der Zulassung zum Aufstieg in den höheren Polizeivollzugsdienst beim Deutschen Bundestag noch nicht 45 Jahre alt sind.Im Übrigen gilt § 21 Absatz 3 der Bundeslaufbahnverordnung.(2) Für das Auswahlverfahren gilt § 44 Absatz 1, 5 und 6 der Bundeslaufbahnverordnung. § 44 Absatz 3 und 4 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass das Auswahlverfahren auch in Zusammenarbeit mit einer Behörde der Bundespolizei oder einer Polizeibehörde eines Landes durchgeführt werden kann.(3) Die für den Aufstieg in den gehobenen Polizeivollzugsdienst beim Deutschen Bundestag zugelassenen Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten nehmen an einem Vorbereitungsdienst des Bundes oder eines Landes für eine Laufbahn des gehobenen Polizeivollzugsdienstes teil. Das Aufstiegsverfahren richtet sich nach den Vorschriften, die für den Vorbereitungsdienst gelten, an dem die zum Aufstieg zugelassene Beamtin oder der zum Aufstieg zugelassene Beamte teilnimmt.(4) Die Ausbildung für den Aufstieg in den höheren Polizeivollzugsdienst beim Deutschen Bundestag dauert zwei Jahre. Die Bewerberinnen und Bewerber absolvieren den Masterstudiengang „Öffentliche Verwaltung – Polizeimanagement (Public Administration – Police Management)“ an der Deutschen Hochschule der Polizei. Das Aufstiegsverfahren richtet sich nach der Prüfungsordnung für diesen Studiengang.(5) Im Übrigen gilt § 49 der Bundeslaufbahnverordnung.
+(1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte können zum Aufstieg in die nächsthöhere Laufbahn zugelassen werden, wenn sie
+
+1. sich nach Ablauf der Probezeit in einer Dienstzeit von mindestens drei Jahren bewährt haben,
+
+2. erfolgreich an einem Auswahlverfahren teilgenommen haben und
+
+3. folgende Altersgrenzen noch nicht erreicht haben: a)bei Beginn des Aufstiegs in den gehobenen Polizeivollzugsdienst beim Deutschen Bundestag noch nicht 57 Jahre alt sind,b)bei der Zulassung zum Aufstieg in den höheren Polizeivollzugsdienst beim Deutschen Bundestag noch nicht 45 Jahre alt sind. bei Beginn des Aufstiegs in den gehobenen Polizeivollzugsdienst beim Deutschen Bundestag noch nicht 57 Jahre alt sind, bei der Zulassung zum Aufstieg in den höheren Polizeivollzugsdienst beim Deutschen Bundestag noch nicht 45 Jahre alt sind.
+
+(2) Für das Auswahlverfahren gilt § 44 Absatz 1, 5 und 6 der Bundeslaufbahnverordnung. § 44 Absatz 3 und 4 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass das Auswahlverfahren auch in Zusammenarbeit mit einer Behörde der Bundespolizei oder einer Polizeibehörde eines Landes durchgeführt werden kann.
+
+(3) Die für den Aufstieg in den gehobenen Polizeivollzugsdienst beim Deutschen Bundestag zugelassenen Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten nehmen an einem Vorbereitungsdienst des Bundes oder eines Landes für eine Laufbahn des gehobenen Polizeivollzugsdienstes teil. Das Aufstiegsverfahren richtet sich nach den Vorschriften, die für den Vorbereitungsdienst gelten, an dem die zum Aufstieg zugelassene Beamtin oder der zum Aufstieg zugelassene Beamte teilnimmt.
+
+(4) Die Ausbildung für den Aufstieg in den höheren Polizeivollzugsdienst beim Deutschen Bundestag dauert zwei Jahre. Die Bewerberinnen und Bewerber absolvieren den Masterstudiengang „Öffentliche Verwaltung – Polizeimanagement (Public Administration – Police Management)“ an der Deutschen Hochschule der Polizei. Das Aufstiegsverfahren richtet sich nach der Prüfungsordnung für diesen Studiengang.
+
+(5) Im Übrigen gilt § 49 der Bundeslaufbahnverordnung.
 
 ### § 11 — Fachspezifische Qualifizierung
 
-(1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte können zum Aufstieg in den gehobenen Polizeivollzugsdienst beim Deutschen Bundestag durch fachspezifische Qualifizierung zugelassen werden, wenn dafür ein besonderes dienstliches Bedürfnis besteht und sie 1.das Amt einer Polizeihauptmeisterin oder eines Polizeihauptmeisters innehaben,2.zu Beginn des Aufstiegsverfahrens noch nicht 57 Jahre alt sind,3.sich nach Ablauf der Probezeit in einer Dienstzeit von mindestens drei Jahren bewährt haben,4.in der letzten dienstlichen Beurteilung überdurchschnittlich gut bewertet worden sind und5.erfolgreich an einem Auswahlverfahren teilgenommen haben.(2) Für das Auswahlverfahren gilt § 44 Absatz 1 und 6 der Bundeslaufbahnverordnung. § 44 Absatz 3 und 4 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass das Auswahlverfahren auch in Zusammenarbeit mit einer Behörde der Bundespolizei oder einer Polizeibehörde eines Landes durchgeführt werden kann. § 44 Absatz 5 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass zu den sonstigen Anforderungen insbesondere die erfolgreiche Wahrnehmung von Führungsaufgaben gehört.(3) Die fachspezifische Qualifizierung dauert 20 Monate. Sie umfasst eine fachtheoretische Ausbildung und eine berufspraktische Einführung.(4) Die fachtheoretische Ausbildung umfasst Lehrgänge bei einer Polizei des Bundes oder eines Landes und dauert mindestens acht Wochen. Die erfolgreiche Teilnahme ist durch Leistungsnachweise zu belegen.(5) Während der berufspraktischen Einführung werden die Aufgaben der Laufbahn des gehobenen Polizeivollzugsdienstes beim Deutschen Bundestag wahrgenommen. Zeiten, in denen Tätigkeiten des gehobenen Polizeivollzugsdienstes ausgeübt wurden, können bis zu einer Dauer von 14 Monaten auf die berufspraktische Einführung angerechnet werden. Nach Abschluss der berufspraktischen Einführung erhält die Polizeivollzugsbeamtin oder der Polizeivollzugsbeamte eine dienstliche Beurteilung, aus der hervorgeht, ob sie oder er sich in der Laufbahn des gehobenen Polizeivollzugsdienstes beim Deutschen Bundestag bewährt hat.(6) Für die Feststellung, ob die fachspezifische Qualifizierung erfolgreich abgeschlossen ist, gilt § 46 Absatz 5 der Bundeslaufbahnverordnung entsprechend.(7) Für die Kostenerstattung gilt § 49 der Bundeslaufbahnverordnung.
+(1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte können zum Aufstieg in den gehobenen Polizeivollzugsdienst beim Deutschen Bundestag durch fachspezifische Qualifizierung zugelassen werden, wenn dafür ein besonderes dienstliches Bedürfnis besteht und sie
+
+1. das Amt einer Polizeihauptmeisterin oder eines Polizeihauptmeisters innehaben,
+
+2. zu Beginn des Aufstiegsverfahrens noch nicht 57 Jahre alt sind,
+
+3. sich nach Ablauf der Probezeit in einer Dienstzeit von mindestens drei Jahren bewährt haben,
+
+4. in der letzten dienstlichen Beurteilung überdurchschnittlich gut bewertet worden sind und
+
+5. erfolgreich an einem Auswahlverfahren teilgenommen haben.
+
+(2) Für das Auswahlverfahren gilt § 44 Absatz 1 und 6 der Bundeslaufbahnverordnung. § 44 Absatz 3 und 4 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass das Auswahlverfahren auch in Zusammenarbeit mit einer Behörde der Bundespolizei oder einer Polizeibehörde eines Landes durchgeführt werden kann. § 44 Absatz 5 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass zu den sonstigen Anforderungen insbesondere die erfolgreiche Wahrnehmung von Führungsaufgaben gehört.
+
+(3) Die fachspezifische Qualifizierung dauert 20 Monate. Sie umfasst eine fachtheoretische Ausbildung und eine berufspraktische Einführung.
+
+(4) Die fachtheoretische Ausbildung umfasst Lehrgänge bei einer Polizei des Bundes oder eines Landes und dauert mindestens acht Wochen. Die erfolgreiche Teilnahme ist durch Leistungsnachweise zu belegen.
+
+(5) Während der berufspraktischen Einführung werden die Aufgaben der Laufbahn des gehobenen Polizeivollzugsdienstes beim Deutschen Bundestag wahrgenommen. Zeiten, in denen Tätigkeiten des gehobenen Polizeivollzugsdienstes ausgeübt wurden, können bis zu einer Dauer von 14 Monaten auf die berufspraktische Einführung angerechnet werden. Nach Abschluss der berufspraktischen Einführung erhält die Polizeivollzugsbeamtin oder der Polizeivollzugsbeamte eine dienstliche Beurteilung, aus der hervorgeht, ob sie oder er sich in der Laufbahn des gehobenen Polizeivollzugsdienstes beim Deutschen Bundestag bewährt hat.
+
+(6) Für die Feststellung, ob die fachspezifische Qualifizierung erfolgreich abgeschlossen ist, gilt § 46 Absatz 5 der Bundeslaufbahnverordnung entsprechend.
+
+(7) Für die Kostenerstattung gilt § 49 der Bundeslaufbahnverordnung.
 
 ### § 12 — Übertragung eines Amtes der neuen Laufbahn
 
@@ -70,4 +136,4 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt 
 
 ### Anlage — (zu § 3)
 
-(Fundstelle: BGBl. I 2013, 3285; bzgl. der einzelnen Änderungen vgl. Fußnote)Nr.LaufbahnZu der Laufbahn gehörende ÄmterAmtsbezeichnung1231Mittlerer Polizeivollzugsdienst beim Deutschen Bundestag2Besoldungsgruppe A 7Polizeimeisterin/Polizeimeister beim Deutschen Bundestag3Besoldungsgruppe A 8Polizeiobermeisterin/Polizeiobermeisterbeim Deutschen Bundestag4Besoldungsgruppe A 9Polizeihauptmeisterin/Polizeihauptmeister beim Deutschen Bundestag5Gehobener Polizeivollzugsdienst beim Deutschen Bundestag6Besoldungsgruppe A 9Polizeikommissarin/Polizeikommissarbeim Deutschen Bundestag7Besoldungsgruppe A 10Polizeioberkommissarin/Polizeioberkommissar beim Deutschen Bundestag8Besoldungsgruppe A 11Polizeihauptkommissarin/Polizeihauptkommissar beim Deutschen Bundestag9Besoldungsgruppe A 12Polizeihauptkommissarin/Polizeihauptkommissar beim Deutschen Bundestag10Besoldungsgruppe A 13Erste Polizeihauptkommissarin/Erster Polizeihauptkommissar beim Deutschen Bundestag11Höherer Polizeivollzugsdienst beim Deutschen Bundestag12Besoldungsgruppe A 13Polizeirätin/Polizeirat beim Deutschen Bundestag13Besoldungsgruppe A 14Polizeioberrätin/Polizeioberrat beimDeutschen Bundestag14Besoldungsgruppe A 15Polizeidirektorin/Polizeidirektor beim Deutschen Bundestag15Besoldungsgruppe A 16Leitende Polizeidirektorin/Leitender Polizeidirektor beim Deutschen Bundestag16Besoldungsgruppe B 3Leitende Polizeidirektorin/Leitender Polizeidirektor beim Deutschen Bundestag________________
+________________

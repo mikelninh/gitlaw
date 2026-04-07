@@ -15,11 +15,29 @@ Diese Verordnung regelt die Voraussetzungen, unter denen Geodaten und Geodatendi
 
 ### § 2 — Nutzungen
 
-(1) Geodaten und Geodatendienste, einschließlich zugehöriger Metadaten, werden für alle derzeit bekannten sowie für alle zukünftig bekannten Zwecke kommerzieller und nicht kommerzieller Nutzung geldleistungsfrei zur Verfügung gestellt, soweit durch besondere Rechtsvorschrift nichts anderes bestimmt ist oder vertragliche oder gesetzliche Rechte Dritter dem nicht entgegenstehen.(2) Die bereitgestellten Geodaten und Metadaten dürfen insbesondere 1.vervielfältigt, ausgedruckt, präsentiert, verändert, bearbeitet sowie an Dritte übermittelt werden;2.mit eigenen Daten und Daten Anderer zusammengeführt und zu selbständigen neuen Datensätzen verbunden werden;3.in interne und externe Geschäftsprozesse, Produkte und Anwendungen in öffentlichen und nicht öffentlichen elektronischen Netzwerken eingebunden werden.(3) Die bereitgestellten Geodatendienste dürfen insbesondere 1.mit eigenen Diensten und Diensten Anderer zusammengeführt werden;2.in interne und externe Geschäftsprozesse, Produkte und Anwendungen in öffentlichen und nicht öffentlichen elektronischen Netzwerken eingebunden werden.
+(1) Geodaten und Geodatendienste, einschließlich zugehöriger Metadaten, werden für alle derzeit bekannten sowie für alle zukünftig bekannten Zwecke kommerzieller und nicht kommerzieller Nutzung geldleistungsfrei zur Verfügung gestellt, soweit durch besondere Rechtsvorschrift nichts anderes bestimmt ist oder vertragliche oder gesetzliche Rechte Dritter dem nicht entgegenstehen.
+
+(2) Die bereitgestellten Geodaten und Metadaten dürfen insbesondere
+
+1. vervielfältigt, ausgedruckt, präsentiert, verändert, bearbeitet sowie an Dritte übermittelt werden;
+
+2. mit eigenen Daten und Daten Anderer zusammengeführt und zu selbständigen neuen Datensätzen verbunden werden;
+
+3. in interne und externe Geschäftsprozesse, Produkte und Anwendungen in öffentlichen und nicht öffentlichen elektronischen Netzwerken eingebunden werden.
+
+(3) Die bereitgestellten Geodatendienste dürfen insbesondere
+
+1. mit eigenen Diensten und Diensten Anderer zusammengeführt werden;
+
+2. in interne und externe Geschäftsprozesse, Produkte und Anwendungen in öffentlichen und nicht öffentlichen elektronischen Netzwerken eingebunden werden.
 
 ### § 3 — Quellenvermerke
 
-Die Nutzer haben sicherzustellen, dass 1.alle den Geodaten, Metadaten und Geodatendiensten beigegebenen Quellenvermerke und sonstigen rechtlichen Hinweise erkennbar und in optischem Zusammenhang eingebunden werden;2.Veränderungen, Bearbeitungen, neue Gestaltungen oder sonstige Abwandlungen mit einem Veränderungshinweis im beigegebenen Quellenvermerk versehen werden oder, sofern die geodatenhaltende Stelle dies verlangt, der beigegebene Quellenvermerk gelöscht wird.
+Die Nutzer haben sicherzustellen, dass
+
+1. alle den Geodaten, Metadaten und Geodatendiensten beigegebenen Quellenvermerke und sonstigen rechtlichen Hinweise erkennbar und in optischem Zusammenhang eingebunden werden;
+
+2. Veränderungen, Bearbeitungen, neue Gestaltungen oder sonstige Abwandlungen mit einem Veränderungshinweis im beigegebenen Quellenvermerk versehen werden oder, sofern die geodatenhaltende Stelle dies verlangt, der beigegebene Quellenvermerk gelöscht wird.
 
 ### § 4 — Haftungsbeschränkung
 

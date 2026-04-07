@@ -11,8 +11,6 @@ Auf Grund des § 17 Absatz 2 Satz 1 des Raumordnungsgesetzes vom 22. Dezember 20
 
 ### § 1 — Raumordnungsplanung im Bund für einen länderübergreifenden Hochwasserschutz
 
-Für den länderübergreifenden Hochwasserschutz im Bundesgebiet werden die Ziele und Grundsätze der Raumordnung gemäß der Anlage zu dieser Verordnung als Raumordnungsplan festgelegt.,,
-
 ### § 2 — Inkrafttreten
 
 Diese Verordnung tritt am 1. September 2021 in Kraft.

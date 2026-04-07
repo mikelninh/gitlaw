@@ -14,9 +14,9 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 Dieses Gesetz dient der Durchführung
 
-1.
+1. des Titels V Kapitel IV der Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 über die Finanzierung, Verwaltung und Überwachung der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EU) Nr. 1306/2013 (ABl. L 435 vom 6.12.2021, S. 187; L 29 vom 10.2.2022, S. 45) in der jeweils geltenden Fassung sowie der zu seiner Durchführung erlassenen Rechtsakte der Europäischen Union und
 
-2.
+2. des Titels IV Kapitel III Abschnitt II der Verordnung (EU) 2021/1060 des Europäischen Parlaments und des Rates vom 24. Juni 2021 mit gemeinsamen Bestimmungen für den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds Plus, den Kohäsionsfonds, den Fonds für einen gerechten Übergang und den Europäischen Meeres-, Fischerei- und Aquakulturfonds sowie mit Haushaltsvorschriften für diese Fonds und für den Asyl-, Migrations- und Integrationsfonds, den Fonds für die innere Sicherheit und das Instrument für finanzielle Hilfe im Bereich Grenzverwaltung und Visumpolitik (ABl. L 231 vom 30.6.2021, S. 159; L 450 vom 16.12.2021, S. 158; L 241 vom 19.9.2022, S. 16; L 65 vom 2.3.2023, S. 59) in der jeweils geltenden Fassung sowie der zu seiner Durchführung erlassenen Rechtsakte der Europäischen Union, soweit darin jeweils eine Veröffentlichung von Informationen über die Zahlung von Mitteln aus dem Europäischen Meeres-, Fischerei- und Aquakulturfonds (Fischereifonds) vorgesehen ist.
 
 ### § 2 — Veröffentlichung
 
@@ -36,13 +36,13 @@ Dieses Gesetz dient der Durchführung
 
 (1) Wer die in § 2 Absatz 1 und 2 bezeichneten Informationen von den Internetseiten der Bundesanstalt erhebt und speichert, darf diese Daten nur zum Zweck der sachbezogenen Information der Öffentlichkeit über die Begünstigten der Agrar- und Fischereifonds nach Maßgabe des Absatzes 2 verwenden.
 
-(2) Die Daten nach Absatz 1 dürfen nicht Im Fall des Fischereifonds gilt Satz 1 Nummer 1 nur für die Daten nach Artikel 49 Absatz 3 Unterabsatz 2 der Verordnung (EU) 2021/1060.
+(2) Die Daten nach Absatz 1 dürfen nicht
 
-1.
+1. länger als zwei Jahre nach dem Tag ihrer ersten Veröffentlichung auf den Internetseiten nach § 2 Absatz 1 und 2 für den in Absatz 1 genannten Zweck verwendet werden,
 
-2.
+2. für Zwecke der Werbung oder des Adresshandels verwendet oder übermittelt werden,
 
-3.
+3. missbräuchlich gegenüber dem von der Veröffentlichung betroffenen Begünstigten verwendet werden.
 
 (3) Die nach Absatz 1 verarbeiteten Daten sind spätestens mit Ablauf von zwei Jahren nach dem Tag ihrer ersten Veröffentlichung auf den Internetseiten nach § 2 Absatz 1 und 2 von den in Absatz 1 bezeichneten Nutzern zu löschen. Für den Fischereifonds gilt Satz 1 nur für Daten nach Artikel 49 Absatz 3 Unterabsatz 2 der Verordnung (EU) 2021/1060. Auf den Internetseiten nach § 2 Absatz 1 und 2 wird auf den ersten Tag der Veröffentlichung hingewiesen.
 
@@ -50,19 +50,19 @@ Dieses Gesetz dient der Durchführung
 
 Das Bundesministerium für Ernährung und Landwirtschaft trifft im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Bestimmungen über Einzelheiten des Verfahrens oder technische und organisatorische Maßnahmen im Sinne des § 2 Absatz 4 Satz 1 für die Veröffentlichung der Informationen im Internet, insbesondere über
 
-1.
+1. den Inhalt und Aufbau der Internetseiten nach § 2 Absatz 1 und 2,
 
-2.
+2. Form und Art der Darstellung der Veröffentlichung, insbesondere durch Zurverfügungstellen der Informationen in einem offenen, maschinenlesbaren Format,
 
-3.
+3. Ausnahmen von § 2 Absatz 1 Satz 1 für die in Artikel 58 Absatz 2 der Durchführungsverordnung (EU) 2022/128 bezeichneten Fälle,
 
-4.
+4. die Eingabe, Berichtigung, Einschränkung der Verarbeitung und Löschung von Informationen,
 
-5.
+5. die Einsicht in die Internetseiten nach § 2 Absatz 1 und 2,
 
-6.
+6. die zu veröffentlichenden Informationen über Begünstigte der Agrarfonds, die Zahlungen weniger oder gleich 1 250 Euro erhalten haben,
 
-7.
+7. den Datenschutz und die Datensicherheit, wobei sicherzustellen ist, dass die Veröffentlichungen unversehrt, vollständig und aktuell bleiben und jederzeit ihrem Ursprung nach zugeordnet werden können.
 
 ### § 5 — Besondere Bestimmungen
 

@@ -8,11 +8,23 @@
 
 ### § 1 — Überwachungsprogramm
 
-(1) Zusätzlich zum Überwachungsprogramm nach Artikel 6 Abs. 1 in Verbindung mit Anhang III Kapitel A Abschnitt I und Abschnitt II der Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien (ABl. EG Nr. L 147 S. 1) in der jeweils geltenden Fassung können die zuständigen Behörden ein Untersuchungsprogramm bei Rindern, Schafen und Ziegen durchführen, 1.die aus Staaten stammen, in denen transmissible spongiforme Enzephalopathien (TSE) festgestellt worden sind,2.von denen anzunehmen ist, dass sie mit Futtermitteln gefüttert worden sind, deren Verfütterung nach § 18 Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches, nach einer Rechtsverordnung auf Grund des § 18 Absatz 3 Nummer 1 des Lebensmittel- und Futtermittelgesetzbuches oder nach der Verordnung (EG) Nr. 999/2001 unzulässig ist, oder3.die von einem TSE-infizierten Muttertier abstammen.Für die Durchführung der Untersuchungen nach Satz 1 sind die sich aus dem Anhang III Kapitel A Abschnitt I Nr. 1 der Verordnung (EG) Nr. 999/2001 ergebenden Labormethoden anzuwenden.(1a) Abweichend von Artikel 6 Absatz 1 in Verbindung mit Absatz 1a Satz 1 Buchstabe b und Anhang III Kapitel A Abschnitt I Nummer 2.2 der Verordnung (EG) Nr. 999/2001 wird von der Untersuchung gesundgeschlachteter Rinder auf Bovine Spongiforme Enzephalopathie im Rahmen des dort genannten Untersuchungsprogramms abgesehen, soweit die Rinder in einem der in der Anlage aufgeführten Mitgliedstaaten geboren worden sind.(2) Abweichend von Artikel 6 Abs. 1 in Verbindung mit Abs. 1a Satz 1 Buchstabe c und Anhang III Kapitel A Abschnitt I Nr. 3.1 der Verordnung (EG) Nr. 999/2001 sind die Untersuchungen der dort bezeichneten Rinder, soweit sie in einem der in der Anlage aufgeführten Mitgliedstaaten geboren worden sind, erst bei den über 48 Monate alten Tieren durchzuführen.
+(1) Zusätzlich zum Überwachungsprogramm nach Artikel 6 Abs. 1 in Verbindung mit Anhang III Kapitel A Abschnitt I und Abschnitt II der Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien (ABl. EG Nr. L 147 S. 1) in der jeweils geltenden Fassung können die zuständigen Behörden ein Untersuchungsprogramm bei Rindern, Schafen und Ziegen durchführen,
+
+1. die aus Staaten stammen, in denen transmissible spongiforme Enzephalopathien (TSE) festgestellt worden sind,
+
+2. von denen anzunehmen ist, dass sie mit Futtermitteln gefüttert worden sind, deren Verfütterung nach § 18 Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches, nach einer Rechtsverordnung auf Grund des § 18 Absatz 3 Nummer 1 des Lebensmittel- und Futtermittelgesetzbuches oder nach der Verordnung (EG) Nr. 999/2001 unzulässig ist, oder
+
+3. die von einem TSE-infizierten Muttertier abstammen.
+
+(1a) Abweichend von Artikel 6 Absatz 1 in Verbindung mit Absatz 1a Satz 1 Buchstabe b und Anhang III Kapitel A Abschnitt I Nummer 2.2 der Verordnung (EG) Nr. 999/2001 wird von der Untersuchung gesundgeschlachteter Rinder auf Bovine Spongiforme Enzephalopathie im Rahmen des dort genannten Untersuchungsprogramms abgesehen, soweit die Rinder in einem der in der Anlage aufgeführten Mitgliedstaaten geboren worden sind.
+
+(2) Abweichend von Artikel 6 Abs. 1 in Verbindung mit Abs. 1a Satz 1 Buchstabe c und Anhang III Kapitel A Abschnitt I Nr. 3.1 der Verordnung (EG) Nr. 999/2001 sind die Untersuchungen der dort bezeichneten Rinder, soweit sie in einem der in der Anlage aufgeführten Mitgliedstaaten geboren worden sind, erst bei den über 48 Monate alten Tieren durchzuführen.
 
 ### § 1a — Durchführung von BSE-Tests
 
-(1) Die Untersuchung von Rindern nach Artikel 6 Absatz 1 in Verbindung mit Absatz 1a Satz 1 Buchstabe a der Verordnung (EG) Nr. 999/2001 erfolgt im Rahmen der Labortests nach Artikel 5 Nummer 1 Buchstabe f der Verordnung (EG) Nr. 854/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit besonderen Verfahrensvorschriften für die amtliche Überwachung von zum menschlichen Verzehr bestimmten Erzeugnissen tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 206, ABl. L 226 vom 25.6.2004, S. 83) in der jeweils geltenden Fassung.(2) Abweichend von Artikel 6 Absatz 1 in Verbindung mit Absatz 1a Satz 1 Buchstabe a und Anhang III Kapitel A Abschnitt I Nummer 2.1 der Verordnung (EG) Nr. 999/2001 sind die Untersuchungen von Rindern erst bei den über 48 Monate alten Tieren durchzuführen, soweit diese in einem der in der Anlage aufgeführten Mitgliedstaaten geboren worden sind.
+(1) Die Untersuchung von Rindern nach Artikel 6 Absatz 1 in Verbindung mit Absatz 1a Satz 1 Buchstabe a der Verordnung (EG) Nr. 999/2001 erfolgt im Rahmen der Labortests nach Artikel 5 Nummer 1 Buchstabe f der Verordnung (EG) Nr. 854/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit besonderen Verfahrensvorschriften für die amtliche Überwachung von zum menschlichen Verzehr bestimmten Erzeugnissen tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 206, ABl. L 226 vom 25.6.2004, S. 83) in der jeweils geltenden Fassung.
+
+(2) Abweichend von Artikel 6 Absatz 1 in Verbindung mit Absatz 1a Satz 1 Buchstabe a und Anhang III Kapitel A Abschnitt I Nummer 2.1 der Verordnung (EG) Nr. 999/2001 sind die Untersuchungen von Rindern erst bei den über 48 Monate alten Tieren durchzuführen, soweit diese in einem der in der Anlage aufgeführten Mitgliedstaaten geboren worden sind.
 
 ### § 2 — Mitwirkungspflichten
 
@@ -28,4 +40,54 @@ Die Färbung von spezifiziertem Risikomaterial nach Anhang V Nr. 3 der Verordnun
 
 ### Anlage — (zu § 1 Absatz 1a und 2, § 1a Absatz 2)
 
-(Fundstelle: BGBl. I 2010, 190;bzgl. der einzelnen Änderungen vgl. Fußnote)BelgienDänemarkDeutschlandEstlandFinnlandFrankreichGriechenlandIrlandItalienKroatienLettlandLitauenLuxemburgMaltaNiederlandeNordirlandÖsterreichPolenPortugalSchwedenSlowakeiSlowenienSpanienTschechische RepublikUngarnZypern
+Belgien
+
+Dänemark
+
+Deutschland
+
+Estland
+
+Finnland
+
+Frankreich
+
+Griechenland
+
+Irland
+
+Italien
+
+Kroatien
+
+Lettland
+
+Litauen
+
+Luxemburg
+
+Malta
+
+Niederlande
+
+Nordirland
+
+Österreich
+
+Polen
+
+Portugal
+
+Schweden
+
+Slowakei
+
+Slowenien
+
+Spanien
+
+Tschechische Republik
+
+Ungarn
+
+Zypern

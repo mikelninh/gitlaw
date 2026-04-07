@@ -14,43 +14,43 @@ Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des 
 
 (1) Die Bundesnetzagentur erhebt in ihrem Zuständigkeitsbereich nach Maßgabe dieser Verordnung Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen, die aufgrund der folgenden Rechtsvorschriften erbracht werden:
 
-1.
+1. Elektromagnetische-Verträglichkeit-Gesetz vom 14. Dezember 2016 (BGBl. I S. 2879), das zuletzt durch Artikel 51 des Gesetzes vom 23. Juni 2021 (BGBl. I S. 1858) geändert worden ist, in der jeweils geltenden Fassung,
 
-2.
+2. Funkanlagengesetz vom 27. Juni 2017 (BGBl. I S. 1947), das zuletzt durch Artikel 52 des Gesetzes vom 23. Juni 2021 (BGBl. I S. 1858) geändert worden ist, in der jeweils geltenden Fassung,
 
-3.
+3. Verordnung (EU) 2019/1020 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über Marktüberwachung und die Konformität von Produkten sowie zur Änderung der Richtlinie 2004/42/EG und der Verordnungen (EG) Nr. 765/2008 und (EU) Nr. 305/2011 (ABl. L 169 vom 25.6.2019, S. 1), in der jeweils geltenden Fassung,
 
-4.
+4. Marktüberwachungsgesetz vom 9. Juni 2021 (BGBl. I S. 1723), in der jeweils geltenden Fassung,
 
-5.
+5. Konformitätsbewertungsstellen-Anerkennungs-Verordnung vom 11. Januar 2016 (BGBl. I S. 77), die zuletzt durch Artikel 3 Absatz 2 des Gesetzes vom 27. Juni 2017 (BGBl. I S. 1947) geändert worden ist, in der jeweils geltenden Fassung,
 
-6.
+6. Verordnung über das Nachweisverfahren zur Begrenzung elektromagnetischer Felder vom 20. August 2002 (BGBl. I S. 3366), die zuletzt durch Artikel 3 Absatz 3 des Gesetzes vom 27. Juni 2017 (BGBl. I S. 1947) geändert worden ist, in der jeweils geltenden Fassung,
 
-7.
+7. Sicherheitsfunk-Schutzverordnung vom 13. Mai 2009 (BGBl. I S. 1060), die durch Artikel 50 des Gesetzes vom 23. Juni 2021 (BGBl. I S. 1858) geändert worden ist, in der jeweils geltenden Fassung,
 
-8.
+8. Postgesetz vom 22. Dezember 1997 (BGBl. I S. 3294), das zuletzt durch Artikel 1 des Gesetzes vom 9. März 2021 (BGBl. I S. 324) geändert worden ist, in der jeweils geltenden Fassung,
 
-9.
+9. Post- und Telekommunikationssicherstellungsgesetz vom 24. März 2011 (BGBl. I S. 506, 941), das zuletzt durch Artikel 48 des Gesetzes vom 23. Juni 2021 (BGBl. I S. 1858) geändert worden ist, in der jeweils geltenden Fassung,
 
-10.
+10. Kraft-Wärme-Kopplungsgesetz vom 21. Dezember 2015 (BGBl. I S. 2498), das zuletzt durch Artikel 12 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden Fassung,
 
-11.
+11. KWK-Ausschreibungsverordnung vom 10. August 2017 (BGBl. I S. 3167), die zuletzt durch Artikel 6 des Gesetzes vom 14. Juli 2021 (BGBl. I S. 2860) geändert worden ist, in der jeweils geltenden Fassung,
 
-12.
+12. Verordnung zu den gemeinsamen Ausschreibungen vom 10. August 2017 (BGBl. I S. 3167, 3180) in der Fassung vom 20. Januar 2020 (BGBl. I S. 106),
 
-13.
+13. Innovationsausschreibungsverordnung vom 20. Januar 2020 (BGBl. I S. 106), die zuletzt durch Artikel 11c des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden Fassung,
 
-14.
+14. Grenzüberschreitende-Erneuerbare-Energien-Verordnung vom 10. August 2017 (BGBl. I S. 3102), die zuletzt durch Artikel 12 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3138) geändert worden ist, in der jeweils geltenden Fassung,
 
-15.
+15. Kohleverstromungsbeendigungsgesetz vom 8. August 2020 (BGBl. I S. 1818), das zuletzt durch Artikel 13 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden Fassung,
 
-16.
+16. Erneuerbare-Energien-Gesetz vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 11 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden Fassung,
 
-17.
+17. Messstellenbetriebsgesetz vom 29. August 2016 (BGBl. I S. 2034), das zuletzt durch Artikel 10 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden Fassung,
 
-18.
+18. Datennutzungsgesetz vom 16. Juli 2021 (BGBl. I S. 2941, 2942, 4114) in der jeweils geltenden Fassung,
 
-19.
+19. Strompreisbremsegesetz vom 20. Dezember 2022 (BGBl. I S. 2512), das zuletzt durch Artikel 12a des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 405) geändert worden ist, in der jeweils geltenden Fassung.
 
 (2) Die Erhebung von Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen, die von der Bundesnetzagentur aufgrund anderer als der in Absatz 1 genannten Rechtsvorschriften erbracht werden, wird durch diese Verordnung nicht ausgeschlossen.
 
@@ -76,25 +76,25 @@ Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des 
 
 (4) 75 Prozent der für die individuell zurechenbare öffentliche Leistung nach der Anlage Abschnitt 8 Nummer 1, 2, 4, 5 oder 6 vorgesehenen Gebühr werden erhoben, wenn das Gebot
 
-1.
+1. nach § 30a Absatz 3 des Erneuerbare-Energien-Gesetzes zurückgenommen worden ist,
 
-2.
+2. im Rahmen des Zuschlagsverfahrens nach § 32 Absatz 1 Satz 5 des Erneuerbare-Energien-Gesetzes nicht bezuschlagt worden ist,
 
-3.
+3. nach § 33 des Erneuerbare-Energien-Gesetzes ausgeschlossen worden ist,
 
-4.
+4. nach § 7 Absatz 3 der Grenzüberschreitende-Erneuerbare-Energien-Verordnung zurückgenommen worden ist,
 
-5.
+5. nach § 10 der Grenzüberschreitende-Erneuerbare-Energien-Verordnung ausgeschlossen worden ist,
 
-6.
+6. im Rahmen des Zuschlagsverfahrens nach § 12 Absatz 1 Satz 4 letzter Teilsatz und Absatz 2 der Grenzüberschreitende-Erneuerbare-Energien-Verordnung nicht bezuschlagt worden ist,
 
-7.
+7. nach § 9 Absatz 1 der KWK-Ausschreibungsverordnung zurückgenommen worden ist,
 
-8.
+8. im Rahmen des Zuschlagsverfahrens nach § 11 Absatz 3 Satz 2 oder 3 der KWK-Ausschreibungsverordnung nicht bezuschlagt worden ist,
 
-9.
+9. im Rahmen des Zuschlagsverfahrens nach § 11 Absatz 4 der KWK-Ausschreibungsverordnung ausgeschlossen worden ist,
 
-10.
+10. nach § 12 der KWK-Ausschreibungsverordnung ausgeschlossen worden ist.
 
 (5) 75 Prozent der für die individuell zurechenbare öffentliche Leistung nach der Anlage Abschnitt 8 Nummer 3 vorgesehenen Gebühr werden erhoben, wenn der Antrag auf Ausstellung einer Zahlungsberechtigung nach § 38 Absatz 1 des Erneuerbare-Energien-Gesetzes oder nach § 23 der Grenzüberschreitende-Erneuerbare-Energien-Verordnung abgelehnt worden ist.
 
@@ -102,7 +102,7 @@ Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des 
 
 (7) 75 Prozent der für die individuell zurechenbare öffentliche Leistung nach der Anlage Abschnitt 8 Nummer 8 vorgesehenen Gebühr werden erhoben, wenn der Antrag nach § 36e Absatz 2 oder Absatz 3 oder § 39e Absatz 2 des Erneuerbare-Energien-Gesetzes auf Verlängerung der Frist abgelehnt worden ist.
 
-(8) 75 Prozent der für die individuell zurechenbare öffentliche Leistung nach der Anlage Abschnitt 8 Nummer 9 vorgesehenen Gebühr werden erhoben, wenn der Antrag nach § 100 Absatz 15 des Erneuerbare-Energien-Gesetzes in der bis zum Ablauf des 31. Dezember 2022 geltenden Fassung auf Verlängerung der Frist abgelehnt worden ist.
+(8) 75 Prozent der für die individuell zurechenbare öffentliche Leistung nach der Anlage Abschnitt 8 Nummer 9 vorgesehenen Gebühr werden erhoben, wenn der Antrag nach § 100 Absatz 15 des Erneuerbare-Energien-Gesetzes in der bis zum Ablauf des 31. Dezember 2022 geltenden Fassung auf Verlängerung der Frist abgelehnt worden ist.
 
 ### § 5 — Zeitgebühr
 
@@ -110,21 +110,21 @@ Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des 
 
 (2) Soweit besondere Sachmittel der Bundesnetzagentur eingesetzt werden, sind für die aufgewendete Zeit die folgenden Stundensätze anzuwenden:
 
-1.
+1. Einsatz von Mess-Kraftfahrzeugen, einschließlich des Personaleinsatzes und der messtechnischen Einrichtungen im Mess-Kraftfahrzeug: 145,72 Euro,
 
-2.
+2. Labor Große Messhalle, einschließlich des Personaleinsatzes und der messtechnischen Einrichtungen: 259,66 Euro,
 
-3.
+3. Labor Kleine Messhalle, einschließlich des Personaleinsatzes und der messtechnischen Einrichtungen: 297,22 Euro,
 
-4.
+4. Labor Beleuchtungseinrichtungen, einschließlich des Personaleinsatzes und der messtechnischen Einrichtungen: 177,33 Euro,
 
-5.
+5. Labor Kabelgebundene Energiereiche Testsysteme, einschließlich des Personaleinsatzes und der messtechnischen Einrichtungen: 241,86 Euro,
 
-6.
+6. Labor Unterhaltungselektronik, einschließlich des Personaleinsatzes und der messtechnischen Einrichtungen: 214,18 Euro,
 
-7.
+7. Labor Produktsicherheit, einschließlich des Personaleinsatzes und der messtechnischen Einrichtungen: 143,51 Euro,
 
-8.
+8. Einsatz stationärer Messtechnik, einschließlich des Personaleinsatzes und der messtechnischen Einrichtungen: 110,20 Euro.
 
 ### § 6 — Übergangsregelung
 
@@ -136,62 +136,18 @@ Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des 
 
 Diese Verordnung tritt am 1. Oktober 2021 in Kraft. Gleichzeitig treten außer Kraft:
 
-1.
+1. die Besondere Gebührenverordnung der Beschlusskammern Post und Telekommunikation der Bundesnetzagentur vom 13. September 2019 (BGBl. I S. 1394),
 
-2.
+2. die Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie für den Bereich des Elektromagnetische-Verträglichkeit-Gesetzes und des Funkanlagengesetzes vom 17. Oktober 2017 (BGBl. I S. 3576),
 
-3.
+3. die Kohleverstromungsbeendigungsgesetz-Gebührenverordnung vom 18. Dezember 2020 (BGBl. I S. 3044,
 
-4.
+4. die EEG- und Ausschreibungsgebührenverordnung vom 6. Februar 2015 (BGBl. I S. 108, 120), die zuletzt durch Artikel 11a des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist.
 
 ### Anlage — Gebühren- und Auslagenverzeichnis
 
-Abschnitt 1: Elektromagnetische-Verträglichkeit-Gesetz (EMVG) und Funkanlagengesetz (FuAG)
+– für Solaranlagen des ersten Segments nach den §§ 32 und 37d des Erneuerbare-Energien-Gesetzes,
 
-Abschnitt 2: Marktüberwachungsgesetz (MüG) und Verordnung (EU) 2019/1020 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über Marktüberwachung und die Konformität von Produkten sowie zur Änderung der Richtlinie 2004/42/EG und der Verordnungen (EG) Nr. 765/2008 und (EU) Nr. 305/2011 (ABl. L 169 vom 25.6.2019, S. 1)
+– für Solaranlagen nach § 11 InnAusV oder
 
-Abschnitt 3: Konformitätsbewertungsstellen-Anerkennungs-Verordnung (AnerkV)
-
-Abschnitt 4: Verordnung über das Nachweisverfahren zur Begrenzung elektromagnetischer Felder (BEMFV)
-
-Abschnitt 5: Sicherheitsfunk-Schutzverordnung (SchuTSEV)
-
-Abschnitt 6: Postgesetz (PostG)
-
-Abschnitt 7: Post- und Telekommunikationssicherstellungsgesetz (PTSG)
-
-Abschnitt 8: Erneuerbare-Energien-Gesetz, KWK-Ausschreibungsverordnung (KWKAusV), Verordnung zu den gemeinsamen Ausschreibungen (GemAV), Innovationsausschreibungsverordnung (InnAusV), Grenzüberschreitende-Erneuerbare-Energien-Verordnung (GEEV)
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-Abschnitt 9: Kohleverstromungsbeendigungsgesetz (KVBG)
-
-Abschnitt 10: Messstellenbetriebsgesetz (MsbG)
-
-Abschnitt 11: Datennutzungsgesetz (DNG)
-
-Abschnitt 12: Strompreisbremsegesetz (StromPBG)
+– für Solaranlagen nach § 12 GEEV

@@ -18,11 +18,11 @@ Diese Verordnung gilt für die Beamtinnen und Beamten der Deutschen Bundesbank. 
 
 (1) Bei der Deutschen Bundesbank sind zusätzlich zu den Laufbahnen nach § 6 Absatz 2 der Bundeslaufbahnverordnung folgende Laufbahnen eingerichtet:
 
-1.
+1. der mittlere Bankdienst,
 
-2.
+2. der gehobene Bankdienst und
 
-3.
+3. der höhere Bankdienst.
 
 (2) Die Ämter der Laufbahnen, die bei der Deutschen Bundesbank eingerichtet sind, und die den Ämtern zugeordneten Amtsbezeichnungen ergeben sich aus der Anlage 1 zu dieser Verordnung. § 9 Absatz 2 der Bundeslaufbahnverordnung bleibt unberührt.
 
@@ -40,21 +40,9 @@ Der Vorbereitungsdienst für den gehobenen Bankdienst wird in einem Studiengang 
 
 (2) Für die besondere Fachverwendung Bargeldlogistik im mittleren Bankdienst können Bewerberinnen und Bewerber nach Maßgabe des § 19 der Bundeslaufbahnverordnung eingestellt werden, wenn sie die folgenden Voraussetzungen erfüllen:
 
-1.
+1. als Bildungsvoraussetzung einen Abschluss in einem anerkannten Ausbildungsberuf nach dem Berufsbildungsgesetz oder der Handwerksordnung a)im gewerblich-technischen Bereich,b)im handwerklichen Bereich,c)im Bereich Logistik,d)im Bereich Schutz und Sicherheit,e)im Bereich der Justiz, des Steuerwesens oder der öffentlichen Verwaltung oderf)im kaufmännischen Bereich und im gewerblich-technischen Bereich, im handwerklichen Bereich, im Bereich Logistik, im Bereich Schutz und Sicherheit, im Bereich der Justiz, des Steuerwesens oder der öffentlichen Verwaltung oder im kaufmännischen Bereich und
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-2.
+2. eine hauptberufliche Tätigkeit in einem der in Nummer 1 genannten Bereiche oder im Bereich Bargeldlogistik der Deutschen Bundesbank von mindestens einem Jahr und sechs Monaten.
 
 (3) Beamtinnen und Beamte mit der Befähigung für die besondere Fachverwendung Bargeldlogistik im mittleren Bankdienst können durch eine 18-monatige berufspraktische Einführung die Befähigung für die Laufbahn des mittleren Bankdienstes erlangen. § 9 Satz 2 bis 4 gilt entsprechend.
 
@@ -72,7 +60,7 @@ Die Beurteilungsrichtlinien der Deutschen Bundesbank erlässt der Vorstand der D
 
 ### § 8 — Überleitung
 
-(1) Beamtinnen und Beamte, die sich beim Inkrafttreten dieser Verordnung bereits in einer Laufbahn nach der Anlage zu § 37 Absatz 2 der Vorschriften über die Vorbildung und die Laufbahnen der Beamten der Deutschen Bundesbank in der Fassung der Bekanntmachung vom 28. Dezember 1979 (BAnz. Nr. 6 vom 10. Januar 1980), die zuletzt durch den Beschluss vom 3. September 1998 (BAnz. S. 16 640) geändert worden sind, befinden, besitzen eine Befähigung nach § 2 Absatz 1 dieser Verordnung oder nach § 6 Absatz 2 der Bundeslaufbahnverordnung. Welche Laufbahnen einander entsprechen, ist in der Anlage 2 zu dieser Verordnung festgelegt.
+(1) Beamtinnen und Beamte, die sich beim Inkrafttreten dieser Verordnung bereits in einer Laufbahn nach der Anlage zu § 37 Absatz 2 der Vorschriften über die Vorbildung und die Laufbahnen der Beamten der Deutschen Bundesbank in der Fassung der Bekanntmachung vom 28. Dezember 1979 (BAnz. Nr. 6 vom 10. Januar 1980), die zuletzt durch den Beschluss vom 3. September 1998 (BAnz. S. 16 640) geändert worden sind, befinden, besitzen eine Befähigung nach § 2 Absatz 1 dieser Verordnung oder nach § 6 Absatz 2 der Bundeslaufbahnverordnung. Welche Laufbahnen einander entsprechen, ist in der Anlage 2 zu dieser Verordnung festgelegt.
 
 (2) Beamtinnen und Beamte, die sich in der Laufbahn des einfachen Dienstes befinden, besitzen die Befähigung für die Laufbahn des einfachen nichttechnischen Verwaltungsdienstes.
 
@@ -85,13 +73,5 @@ Beamtinnen und Beamte mit der Befähigung für die Laufbahn des Geldbearbeitungs
 > (+++ § 9 Satz 2 bis 4: Zur Geltung vgl. § 4a Abs. 3 Satz 2 +++)
 
 ### Anlage 1 — (zu § 2 Abs 2)
-
-Tabelle 1: Laufbahn des einfachen nichttechnischen Verwaltungsdienstes
-
-Tabelle 2: Laufbahn des mittleren Dienstes
-
-Tabelle 3: Laufbahn des gehobenen Dienstes
-
-Tabelle 4: Laufbahn des höheren Dienstes
 
 ### Anlage 2 — (zu § 8 Abs 1)

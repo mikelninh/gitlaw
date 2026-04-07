@@ -13,19 +13,9 @@ und Ziegen
 
 Im Sinne dieser Verordnung liegen vor:
 
-1.
+1. Brucellose a)im Falle von Rindern, wenn Brucella abortus durch aa)bakteriologische oder molekularbiologische Untersuchung oderbb)mindestens zwei unterschiedliche serologische Untersuchungsverfahren in Verbindung mit klinischen oder pathologisch-anatomischen Untersuchungen oder epidemiologischen Anhaltspunkten,b)im Falle von Hausschweinen, wenn Brucella suis durch eine in Buchstabe a genannte Untersuchung,c)im Falle von Schafen und Ziegen, wenn Brucella melitensis durch eine in Buchstabe a genannte Untersuchung im Falle von Rindern, wenn Brucella abortus durch aa)bakteriologische oder molekularbiologische Untersuchung oderbb)mindestens zwei unterschiedliche serologische Untersuchungsverfahren in Verbindung mit klinischen oder pathologisch-anatomischen Untersuchungen oder epidemiologischen Anhaltspunkten, bakteriologische oder molekularbiologische Untersuchung oder mindestens zwei unterschiedliche serologische Untersuchungsverfahren in Verbindung mit klinischen oder pathologisch-anatomischen Untersuchungen oder epidemiologischen Anhaltspunkten, im Falle von Hausschweinen, wenn Brucella suis durch eine in Buchstabe a genannte Untersuchung, im Falle von Schafen und Ziegen, wenn Brucella melitensis durch eine in Buchstabe a genannte Untersuchung festgestellt ist;
 
-a)
-
-aa)
-
-bb)
-
-b)
-
-c)
-
-2.
+2. Verdacht auf Brucellose, wenn das Ergebnis einer klinischen, pathologisch-anatomischen, bakteriologischen, molekularbiologischen oder serologischen Untersuchung in Verbindung mit epidemiologischen Anhaltspunkten den Ausbruch der Brucellose befürchten lässt.
 
 ## Unterabschnitt 1: Allgemeine Schutzmaßregeln
 
@@ -43,31 +33,31 @@ Impfungen gegen die Brucellose der Rinder, Schweine, Schafe und Ziegen und Heilv
 
 (3) Der Halter von über 12 Monate alten Schafen und Ziegen ist verpflichtet, die Tiere nach näherer Anweisung der zuständigen Behörde durch eine Blutuntersuchung nach Anhang A Kapitel 1 Abschnitt II der Richtlinie 91/68/EWG des Rates vom 28. Januar 1991 zur Regelung tierseuchenrechtlicher Fragen beim innergemeinschaftlichen Handelsverkehr mit Schafen und Ziegen (ABl. EG Nr. L 46 S. 19) in der jeweils geltenden Fassung auf Brucellose untersuchen zu lassen.
 
-(4) Wenn es aus Gründen der Seuchenbekämpfung erforderlich ist, kann die zuständige Behörde bei Schafen und Ziegen anordnen.
+(4) Wenn es aus Gründen der Seuchenbekämpfung erforderlich ist, kann die zuständige Behörde bei Schafen und Ziegen
 
-1.
+1. eine Absonderung,
 
-2.
+2. eine amtliche Beobachtung
 
 ### § 3a
 
-Die zuständige Behörde kann, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist, Satz 1 Nummer 1 bis 3 gilt für verendete, für die Seuche empfängliche Tiere sowie Aborte während des letzten Drittels der Trächtigkeit und Totgeburten dieser Tiere entsprechend.
+Die zuständige Behörde kann, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist,
 
-1.
+1. die Untersuchung eines für die Seuche empfänglichen Tieres oder empfänglicher Tiere eines Bestandes oder innerhalb eines bestimmten Gebietes anordnen,
 
-2.
+2. die Einrichtung bestimmen, in der die jeweilige Untersuchung durchzuführen ist,
 
-3.
+3. für die Untersuchung eine in der vom Friedrich-Loeffler-Institut nach § 27 Absatz 5 Nummer 1 des Tiergesundheitsgesetzes herausgegebenen amtlichen Methodensammlung beschriebene Methode vorschreiben und
 
-4.
+4. das Alter festlegen, in dem die Rinder zu untersuchen sind.
 
 ### § 4
 
 Bei einem Ausbruch der Brucellose oder einem Verdacht auf Brucellose in einem Rinder-, Schweine-, Schaf- oder Ziegenbestand gilt vor der amtstierärztlichen Untersuchung Folgendes:
 
-1.
+1. Veränderungen in dem Bestand dürfen nicht vorgenommen werden.
 
-2.
+2. Abgestoßene Früchte oder Nachgeburten sind so aufzubewahren, dass Ansteckungsstoff nicht verschleppt werden kann.
 
 ### § 5
 
@@ -87,31 +77,27 @@ Der Tierhalter hat ansteckungsverdächtige Rinder, Schweine, Schafe oder Ziegen,
 
 ### § 8
 
-(1) Ist bei Rindern der Verdacht auf Brucellose amtlich festgestellt, so hat der Tierhalter des Verdachtsbestandes Artikel 12 der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische Nebenprodukte) (ABl. L 300 vom 14.11.2009, S. 1) in der jeweils geltenden Fassung bleibt unberührt.
+(1) Ist bei Rindern der Verdacht auf Brucellose amtlich festgestellt, so hat der Tierhalter des Verdachtsbestandes
 
-1.
+1. seuchenverdächtige Rinder von den übrigen Rindern des Bestandes sowie von anderen für die Seuche empfänglichen Tieren unverzüglich abzusondern,
 
-2.
+2. die Milch der Kühe des Bestandes entweder vor Abgabe oder Verfütterung aufzukochen oder an Sammelmolkereien abzugeben, in denen eine ausreichende Erhitzung sichergestellt ist,
 
-3.
+3. die mit abgestoßenen oder abgestorbenen Früchten, totgeborenen Kälbern oder Nachgeburten in Berührung gekommene Streu unverzüglich unschädlich zu beseitigen oder nach näherer Anweisung der zuständigen Behörde zu desinfizieren,
 
-4.
+4. Behälter, Gerätschaften und sonstige Gegenstände, die an Standorten, in oder auf denen sich seuchenverdächtige Tiere befinden, benutzt worden sind, nach näherer Anweisung der zuständigen Behörde zu reinigen und zu desinfizieren,
 
-5.
-
-a)
-
-b)
+5. sicherzustellen, dass die Rinder des Bestandes a)nicht aus dem Bestand verbracht werden undb)nicht gedeckt oder künstlich besamt werden. nicht aus dem Bestand verbracht werden und nicht gedeckt oder künstlich besamt werden.
 
 (2) Die zuständige Behörde kann, soweit Belange der Tierseuchenbekämpfung dies erfordern, in Bezug auf den Verdachtsbestand anordnen, dass
 
-1.
+1. seuchenverdächtige Rinder ohne Blutentzug zu töten und unschädlich zu beseitigen sind,
 
-2.
+2. die Rinder des Bestandes aufzustallen sind,
 
-3.
+3. Ställe, Weideflächen und sonstige Standorte, in oder auf denen sich seuchenverdächtige Rinder befinden, nur vom Tierhalter, seinem Vertreter, den mit der Beaufsichtigung, Wartung und Pflege der Tiere betrauten Personen, von Tierärzten und von Personen im amtlichen Auftrag betreten werden dürfen, und diese Personen sich nach Verlassen des Stalles nach näherer Anweisung der zuständigen Behörde reinigen und desinfizieren müssen,
 
-4.
+4. Weiden und Ausläufe, auf denen seuchenverdächtige Rinder gehalten worden sind, für die Dauer von vier Monaten, gerechnet von dem Tag der amtlichen Feststellung des Verdachts auf Brucellose, nicht mit Huf- und Klauentieren beschickt werden dürfen.
 
 (3) Die zuständige Behörde kann Ausnahmen von Absatz 1 Satz 1 Nummer 5 Buchstabe a zulassen für Rinder, die unmittelbar zur Schlachtung verbracht werden, soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen.
 
@@ -129,47 +115,39 @@ b)
 
 (1) Ist bei Schweinen der Verdacht auf Brucellose amtlich festgestellt, so hat der Tierhalter von allen über vier Monate alten Schweinen des Bestandes eine Blutprobe entnehmen und nach Anlage C der Richtlinie 64/432/EWG untersuchen zu lassen. Die zuständige Behörde kann für Schweine, die ausschließlich zur Mast gehalten werden, Ausnahmen zulassen, soweit Belange der Seuchenbekämpfung nicht entgegenstehen.
 
-(2) Ist bei Schweinen der Ausbruch der Brucellose amtlich festgestellt, so kann die zuständige Behörde die Untersuchung nach Absatz 1 Satz 1 anordnen. Sie kann ferner die Einsendung von abgestoßenen oder abgestorbenen Früchten, totgeborenen Tieren oder Teilen davon sowie von Nachgeburtsteilen zur Untersuchung auf Brucellose anordnen.
+(2) Ist bei Schweinen der Ausbruch der Brucellose amtlich festgestellt, so kann die zuständige Behörde die Untersuchung nach Absatz 1 Satz 1
 
-1.
+1. zur Feststellung des Verseuchungsgrades des Schweinebestandes und
 
-2.
+2. für Pferde, Hunde und andere für die Seuche empfängliche Tiere, die mit Schweinen des Bestandes in demselben Stall oder an demselben Standort untergebracht sind oder waren,
 
 ### § 11
 
-(1) Ist bei Schweinen der Verdacht auf Brucellose amtlich festgestellt, so hat der Tierhalter des Verdachtsbestandes Artikel 13 der Verordnung (EG) Nr. 1069/2009 bleibt unberührt.
+(1) Ist bei Schweinen der Verdacht auf Brucellose amtlich festgestellt, so hat der Tierhalter des Verdachtsbestandes
 
-1.
+1. seuchenverdächtige Schweine von den übrigen Schweinen des Bestandes sowie von anderen für die Seuche empfänglichen Tieren unverzüglich abzusondern,
 
-2.
+2. die mit abgestoßenen oder abgestorbenen Früchten, totgeborenen Ferkeln oder Nachgeburten in Berührung gekommene Streu unverzüglich unschädlich zu beseitigen oder nach näherer Anweisung der zuständigen Behörde zu desinfizieren,
 
-3.
+3. Behälter, Gerätschaften und sonstige Gegenstände, die an Standorten, in oder auf denen sich seuchenverdächtige Tiere befinden, benutzt worden sind, nach näherer Anweisung der zuständigen Behörde zu reinigen und zu desinfizieren,
 
-4.
-
-a)
-
-b)
+4. sicherzustellen, dass die Schweine des Bestandes a)nicht aus dem Bestand verbracht werden undb)nicht gedeckt oder künstlich besamt werden. nicht aus dem Bestand verbracht werden und nicht gedeckt oder künstlich besamt werden.
 
 (2) Die zuständige Behörde kann, soweit Belange der Tierseuchenbekämpfung dies erfordern, in Bezug auf den Verdachtsbestand anordnen, dass
 
-1.
+1. die seuchenverdächtigen Schweine ohne Blutentzug zu töten und unschädlich zu beseitigen sind,
 
-2.
+2. die Schweine des Bestandes aufzustallen sind,
 
-3.
+3. Ställe, Weideflächen und sonstige Standorte, in oder auf denen sich seuchenverdächtige Schweine befinden, nur vom Tierhalter, seinem Vertreter, den mit der Beaufsichtigung, Wartung und Pflege der Tiere betrauten Personen, von Tierärzten und von Personen im amtlichen Auftrag betreten werden dürfen, und diese Personen sich nach Verlassen des Stalles reinigen und desinfizieren müssen,
 
-4.
+4. Weiden und Ausläufe, auf denen seuchenverdächtige Schweine gehalten worden sind, für die Dauer von vier Monaten, gerechnet von dem Tag der amtlichen Feststellung des Verdachts auf Brucellose, nicht mit Huf- und Klauentieren beschickt werden dürfen.
 
-(3) Die zuständige Behörde kann Ausnahmen zulassen soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen.
+(3) Die zuständige Behörde kann Ausnahmen zulassen
 
-1.
+1. von Absatz 1 Satz 1 Nummer 4 Buchstabe a a)für über vier Monate alte Schweine, bei denen zwei nach Feststellung des Verdachts im Abstand von 28 Tagen entnommene Blutproben vor dem Verbringen im Rahmen einer Untersuchung im Sinne des § 1 Nummer 1 Buchstabe b mit negativem Ergebnis auf Brucellose untersucht worden sind,b)für Schweine, die unmittelbar zur Schlachtung verbracht werden, für über vier Monate alte Schweine, bei denen zwei nach Feststellung des Verdachts im Abstand von 28 Tagen entnommene Blutproben vor dem Verbringen im Rahmen einer Untersuchung im Sinne des § 1 Nummer 1 Buchstabe b mit negativem Ergebnis auf Brucellose untersucht worden sind, für Schweine, die unmittelbar zur Schlachtung verbracht werden,
 
-a)
-
-b)
-
-2.
+2. von Absatz 1 Satz 1 Nummer 4 Buchstabe b für die künstliche Besamung,
 
 ### § 11a
 
@@ -181,17 +159,11 @@ b)
 
 ### § 12
 
-Tritt in einem Gebiet die Brucellose der Schweine in größerem Umfang auf, so verbietet oder beschränkt die zuständige Behörde für die Dauer der Gefahr soweit dies zur Verhütung der Verbreitung der Brucellose erforderlich ist.
+Tritt in einem Gebiet die Brucellose der Schweine in größerem Umfang auf, so verbietet oder beschränkt die zuständige Behörde für die Dauer der Gefahr
 
-1.
+1. in dem gefährdeten Gebiet a)das Decken der Schweine anderer Tierhalter,b)den gemeinschaftlichen Weidegang der Schweine aus verschiedenen Beständen,c)Körveranstaltungen, Versteigerungen und Märkte von Schweinen sowie ähnliche Veranstaltungen; das Decken der Schweine anderer Tierhalter, den gemeinschaftlichen Weidegang der Schweine aus verschiedenen Beständen, Körveranstaltungen, Versteigerungen und Märkte von Schweinen sowie ähnliche Veranstaltungen;
 
-a)
-
-b)
-
-c)
-
-2.
+2. das Verbringen von Schweinen aus dem gefährdeten Gebiet, außer zur unverzüglichen Tötung,
 
 ## Unterabschnitt 4: Besondere Schutzmaßregeln gegen die Brucellose der Schafe und Ziegen
 
@@ -199,41 +171,35 @@ c)
 
 (1) Ist bei Schafen oder Ziegen der Verdacht auf Brucellose amtlich festgestellt, so hat der Tierhalter von allen über sechs Monate alten Schafen und Ziegen des Verdachtsbestandes eine Blutprobe entnehmen und nach Anhang C der Richtlinie 91/68/EWG untersuchen zu lassen.
 
-(2) Ist bei Schafen oder Ziegen der Ausbruch der Brucellose amtlich festgestellt, so kann die zuständige Behörde die Untersuchung nach Absatz 1 anordnen. Sie kann ferner die Einsendung von abgestoßenen oder abgestorbenen Früchten, totgeborenen Lämmern oder Teilen davon sowie von Nachgeburtsteilen zur Untersuchung auf Brucellose anordnen.
+(2) Ist bei Schafen oder Ziegen der Ausbruch der Brucellose amtlich festgestellt, so kann die zuständige Behörde die Untersuchung nach Absatz 1
 
-1.
+1. zur Feststellung des Verseuchungsgrades des Schaf- oder Ziegenbestandes und
 
-2.
+2. für Pferde, Hunde und andere für die Seuche empfängliche Tiere, die mit Schafen oder Ziegen des Bestandes in demselben Stall oder an demselben Standort untergebracht sind oder waren,
 
 ### § 14
 
-(1) Ist bei Schafen oder Ziegen der Verdacht auf Brucellose amtlich festgestellt, hat der Tierhalter des Verdachtsbestandes Artikel 12 der Verordnung (EG) Nr. 1069/2009 bleibt unberührt.
+(1) Ist bei Schafen oder Ziegen der Verdacht auf Brucellose amtlich festgestellt, hat der Tierhalter des Verdachtsbestandes
 
-1.
+1. seuchenverdächtige Schafe und Ziegen von den übrigen Schafen und Ziegen sowie von anderen für die Seuche empfänglichen Tieren des Bestandes unverzüglich abzusondern,
 
-2.
+2. die Milch von Schafen und Ziegen des Bestandes vor der Abgabe oder Verfütterung aufzukochen oder an Sammelmolkereien abzugeben, in denen eine ausreichende Erhitzung sichergestellt ist,
 
-3.
+3. die mit den abgestoßenen oder abgestorbenen Früchten, totgeborenen Lämmern oder Nachgeburten in Berührung gekommene Streu unverzüglich unschädlich zu beseitigen oder nach näherer Anweisung der zuständigen Behörde zu desinfizieren,
 
-4.
+4. Behälter, Gerätschaften und sonstige Gegenstände, die in Ställen oder an sonstigen Standorten, in oder auf denen sich seuchenverdächtige Schafe oder Ziegen befinden, benutzt worden sind, nach näherer Anweisung der zuständigen Behörde zu reinigen und zu desinfizieren,
 
-5.
-
-a)
-
-b)
-
-c)
+5. sicherzustellen, dass die Schafe und Ziegen des Bestandes a)nicht aus dem Bestand verbracht,b)nicht geschoren undc)nicht gedeckt oder künstlich besamtwerden. nicht aus dem Bestand verbracht, nicht geschoren und nicht gedeckt oder künstlich besamt
 
 (2) Die zuständige Behörde kann, soweit Belange der Tierseuchenbekämpfung dies erfordern, in Bezug auf den Verdachtsbestand anordnen, dass
 
-1.
+1. die seuchenverdächtigen Schafe und Ziegen ohne Blutentzug zu töten und unschädlich zu beseitigen sind,
 
-2.
+2. die Schafe und Ziegen des Bestandes aufzustallen sind,
 
-3.
+3. Ställe, Weideflächen und sonstige Standorte, in oder auf denen sich seuchenverdächtige Schafe und Ziegen befinden, nur vom Tierhalter, seinem Vertreter, den mit der Beaufsichtigung, Wartung und Pflege der Tiere betrauten Personen, von Tierärzten und von Personen im amtlichen Auftrag betreten werden dürfen und diese Personen sich nach Verlassen des Stalles reinigen und desinfizieren müssen,
 
-4.
+4. Weiden und Ausläufe, auf denen seuchenverdächtige Schafe oder Ziegen gehalten worden sind, für die Dauer von vier Monaten, gerechnet von dem Tag der amtlichen Feststellung des Verdachts auf Brucellose, nicht mit Huf- und Klauentieren beschickt werden dürfen.
 
 (3) Die zuständige Behörde kann Ausnahmen von Absatz 1 Satz 1 Nummer 5 Buchstabe a zulassen für Schafe und Ziegen, die unmittelbar zur Schlachtung verbracht werden, soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen.
 
@@ -249,13 +215,13 @@ c)
 
 ### § 15
 
-(1) Ist der Ausbruch der Brucellose oder der Verdacht auf Brucellose amtlich festgestellt, so kann die zuständige Behörde die bei der jeweiligen Tierart vorgesehenen Maßnahmen anordnen, soweit dies zur Tierseuchenbekämpfung erforderlich ist. Für die Aufhebung der Maßnahmen gilt § 17 Absatz 1 entsprechend.
+(1) Ist der Ausbruch der Brucellose oder der Verdacht auf Brucellose
 
-1.
+1. bei einem Rind durch den Nachweis von Brucella suis oder Brucella melitensis,
 
-2.
+2. bei einem Hausschwein durch den Nachweis von Brucella abortus oder Brucella melitensis,
 
-3.
+3. bei einem Schaf oder einer Ziege durch den Nachweis von Brucella abortus oder Brucella suis,
 
 (2) Im Falle des Verdachtes oder des Ausbruchs von Brucella ovis bei einem Schaf kann die zuständige Behörde die für Schafe vorgesehenen Maßnahmen anordnen, soweit dies zur Tierseuchenbekämpfung erforderlich ist. Für die Aufhebung der Maßnahmen gilt § 17 Absatz 1 entsprechend.
 
@@ -269,11 +235,11 @@ c)
 
 (2) Nach näherer Anweisung der zuständigen Behörde sind
 
-1.
+1. nach Entfernung der seuchenkranken und -verdächtigen Tiere aus dem Bestand oder von ihren sonstigen Standorten sowie nach Geburten, Fehlgeburten oder Blutentnahmen im Bestand die Ställe oder sonstigen Standorte der Tiere, Jaucherinnen, Futtergänge, verwendete Gerätschaften und sonstige Gegenstände, die Träger des Ansteckungsstoffes sein können, einschließlich der Fahrzeuge, die mit diesen Tieren in Berührung gekommen sind, unverzüglich zu reinigen und zu desinfizieren,
 
-2.
+2. der Dung aus Ställen oder sonstigen Standorten an einem für Rinder, Schweine, Schafe und Ziegen unzugänglichen Platz zu packen, zu desinfizieren und mindestens drei Wochen zu lagern,
 
-3.
+3. flüssige Abgänge aus den Ställen oder sonstigen Standorten, soweit sie nicht dem Dung beigegeben werden, zu desinfizieren.
 
 (3) Die mit der Wartung und Pflege der Tiere betrauten Personen haben in den Fällen des Absatzes 2 Nummer 1 nach Verlassen des Stalles oder sonstigen Standortes Hände und Unterarme sowie Kleidung und Schuhwerk unverzüglich zu reinigen und zu desinfizieren.
 
@@ -285,23 +251,17 @@ c)
 
 (1) Angeordnete Schutzmaßregeln sind aufzuheben, wenn die Brucellose erloschen ist oder sich der Verdacht als unbegründet erwiesen hat.
 
-(2) Die Brucellose gilt als erloschen, wenn und eine Desinfektion nach näherer Anweisung der zuständigen Behörde und unter amtlicher Überwachung durchgeführt und von der zuständigen Behörde abgenommen worden ist. Die erste Blutprobe nach Satz 1 Nummer 2 darf frühestens drei Wochen nach Entfernung der seuchenkranken und seuchenverdächtigen Tiere, bei trächtigen Kühen außerdem frühestens drei Wochen nach dem Kalben entnommen werden.
+(2) Die Brucellose gilt als erloschen, wenn
 
-1.
+1. die Rinder, Schweine, Schafe oder Ziegen des betroffenen Bestandes verendet, getötet oder entfernt worden sind oder
 
-2.
-
-a)
-
-b)
-
-c)
+2. bei den im Bestand verbliebenen a)über zwölf Monate alten Rindern zwei im Abstand von drei Monaten entnommene Blutproben und bei den milchgebenden Rindern zwei zugleich entnommene Milchproben,b)über vier Monate alten Schweinen zwei im Abstand von sechs bis acht Wochen entnommene Blutproben,c)über sechs Monate alten Schafen und Ziegen zwei im Abstand von drei Monaten entnommene Blutprobenim Falle von Rindern und Schweinen nach Anlage C der Richtlinie 64/432/EWG und im Falle von Schafen und Ziegen nach Anhang C der Richtlinie 91/68/EWG mit negativem Ergebnis untersucht worden sind und bei diesen Tieren Erscheinungen, die den Ausbruch der Brucellose befürchten lassen, nicht festgestellt sind, über zwölf Monate alten Rindern zwei im Abstand von drei Monaten entnommene Blutproben und bei den milchgebenden Rindern zwei zugleich entnommene Milchproben, über vier Monate alten Schweinen zwei im Abstand von sechs bis acht Wochen entnommene Blutproben, über sechs Monate alten Schafen und Ziegen zwei im Abstand von drei Monaten entnommene Blutproben
 
 (3) Der Verdacht auf Brucellose hat sich als unbegründet erwiesen, wenn
 
-1.
+1. die seuchenverdächtigen Rinder, Schweine, Schafe oder Ziegen aus dem betroffenen Bestand entfernt worden sind und
 
-2.
+2. bei den verbliebenen Tieren die für die jeweilige Tierart nach Absatz 2 Nummer 2 vorgeschriebenen Untersuchungen mit negativem Ergebnis durchgeführt worden und bei den Tieren Erscheinungen, die den Ausbruch der Brucellose befürchten lassen, nicht festgestellt sind.
 
 ### § 18 — (weggefallen)
 
@@ -313,11 +273,11 @@ Ein Rinderbestand, der sich im Inland befindet, das nach Artikel 2 Absatz 1 der 
 
 ### § 20
 
-(1) Die zuständige Behörde entzieht dem Halter eines Rinderbestandes die amtliche Anerkennung seines Bestandes als brucellosefrei, soweit In den Fällen des Verdachts auf Brucellose kann die zuständige Behörde für die Dauer der behördlichen Untersuchungen anstelle des Entzugs das Ruhen der amtlichen Anerkennung anordnen, soweit zu erwarten ist, dass über den Ausbruch der Brucellose in absehbarer Zeit behördlich entschieden werden kann.
+(1) Die zuständige Behörde entzieht dem Halter eines Rinderbestandes die amtliche Anerkennung seines Bestandes als brucellosefrei, soweit
 
-1.
+1. der Verdacht auf Brucellose im Bestand besteht oder
 
-2.
+2. Brucellose im Bestand amtlich festgestellt worden ist.
 
 (2) Ist die amtliche Anerkennung nach Absatz 1 Satz 1 entzogen worden, erkennt die zuständige Behörde den Rinderbestand erneut amtlich als brucellosefrei an, soweit sich der Verdacht nach § 17 Absatz 3 als unbegründet erwiesen hat oder die Brucellose im Sinne des § 17 Absatz 2 erloschen ist.
 
@@ -329,9 +289,9 @@ Ein Rinderbestand, der sich im Inland befindet, das nach Artikel 2 Absatz 1 der 
 
 Ein Schweinebestand gilt als brucellosefrei, wenn
 
-1.
+1. seit mindestens einem Jahr Brucellose der Schweine oder Verdacht auf Brucellose nicht festgestellt worden ist oder, sofern ein solcher Verdacht vorgelegen hat, dieser sich auf Grund einer klinischen Untersuchung und einer Untersuchung nach § 1 Nummer 1 Buchstabe b als unbegründet erwiesen hat,
 
-2.
+2. der Rinderbestand in demselben Gehöft ein anerkannter Bestand ist.
 
 ## Abschnitt 5: Amtlich anerkannter brucellosefreier Schaf- und Ziegenbestand
 
@@ -341,11 +301,11 @@ Ein Schaf- oder Ziegenbestand, der sich im Inland befindet, das nach Artikel 2 d
 
 ### § 22a
 
-(1) Die zuständige Behörde entzieht dem Halter eines Schaf- oder Ziegenbestandes die amtliche Anerkennung seines Bestandes als brucellosefrei, soweit In den Fällen des Verdachts auf Brucellose kann die zuständige Behörde für die Dauer der behördlichen Untersuchungen anstelle des Entzugs das Ruhen der amtlichen Anerkennung anordnen, soweit zu erwarten ist, dass über den Ausbruch der Brucellose in absehbarer Zeit behördlich entschieden werden kann.
+(1) Die zuständige Behörde entzieht dem Halter eines Schaf- oder Ziegenbestandes die amtliche Anerkennung seines Bestandes als brucellosefrei, soweit
 
-1.
+1. der Verdacht auf Brucellose im Bestand besteht oder
 
-2.
+2. Brucellose im Bestand amtlich festgestellt worden ist.
 
 (2) Ist die amtliche Anerkennung nach Absatz 1 Satz 1 entzogen worden, erkennt die zuständige Behörde den Schaf- oder Ziegenbestand erneut amtlich als brucellosefrei an, soweit sich der Verdacht nach § 17 Absatz 3 als unbegründet erwiesen hat oder die Brucellose im Sinne des § 17 Absatz 2 erloschen ist.
 
@@ -357,53 +317,45 @@ Ein Schaf- oder Ziegenbestand, der sich im Inland befindet, das nach Artikel 2 d
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 2 Satz 1 eine Impfung oder einen Heilversuch durchführt,
 
-2.
+2. einer mit einer Zulassung nach § 2 Satz 2, § 8 Absatz 3, auch in Verbindung mit § 9 Absatz 3, § 10 Absatz 1 Satz 2, § 11 Absatz 3, auch in Verbindung mit § 11a Absatz 3, § 14 Absatz 3, auch in Verbindung mit § 14a Absatz 3, oder § 16 Absatz 4 verbundenen vollziehbaren Auflage zuwiderhandelt,
 
-3.
+3. einer vollziehbaren Anordnung nach § 3 Absatz 1 Satz 1, Absatz 3 oder Absatz 4, § 3a, § 7 Absatz 2, § 8 Absatz 1 Satz 1 Nummer 3 oder 4 oder Absatz 2, auch in Verbindung mit § 9 Absatz 2, § 10 Absatz 2, § 11 Absatz 1 Satz 1 Nummer 2 oder 3 oder Absatz 2, auch in Verbindung mit § 11a Absatz 2, § 12, § 13 Absatz 2, § 14 Absatz 1 Satz 1 Nummer 3 oder 4 oder Absatz 2, auch in Verbindung mit § 14a Absatz 2, § 15 Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz 3 Satz 1 oder § 16 Absatz 2 zuwiderhandelt,
 
-4.
+4. entgegen § 4 Nummer 1 eine Veränderung vornimmt,
 
-5.
+5. entgegen § 6 Absatz 1 Satz 1, § 8 Absatz 1 Satz 1 Nummer 1, § 11 Absatz 1 Satz 1 Nummer 1 oder § 14 Absatz 1 Satz 1 Nummer 1 ein dort genanntes Tier nicht, nicht richtig oder nicht rechtzeitig absondert,
 
-6.
+6. entgegen § 8 Absatz 1 Satz 1 Nummer 2 oder § 14 Absatz 1 Satz 1 Nummer 2 Milch nicht oder nicht rechtzeitig aufkocht,
 
-7.
+7. entgegen § 8 Absatz 1 Satz 1 Nummer 3, § 11 Absatz 1 Satz 1 Nummer 2 oder § 14 Absatz 1 Satz 1 Nummer 3 Streu nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig beseitigt,
 
-8.
+8. entgegen § 8 Absatz 1 Satz 1 Nummer 5 Buchstabe a, § 11 Absatz 1 Satz 1 Nummer 4 Buchstabe a oder § 14 Absatz 1 Satz 1 Nummer 5 Buchstabe a nicht sicherstellt, dass ein dort genanntes Tier nicht aus dem Bestand verbracht wird,
 
-9.
+9. entgegen § 8 Absatz 1 Satz 1 Nummer 5 Buchstabe b, § 11 Absatz 1 Satz 1 Nummer 4 Buchstabe b oder § 14 Absatz 1 Satz 1 Nummer 5 Buchstabe c nicht sicherstellt, dass ein dort genanntes Tier nicht gedeckt oder künstlich besamt wird,
 
-10.
+10. entgegen § 9 Absatz 1, § 11a Absatz 1 oder § 14a Absatz 1 ein Schild nicht, nicht richtig oder nicht rechtzeitig anbringt,
 
-11.
+11. entgegen § 14 Absatz 1 Satz 1 Nummer 5 Buchstabe b ein Schaf oder eine Ziege schert,
 
-12.
+12. entgegen § 16 Absatz 3 eine Reinigung oder eine Desinfektion nicht oder nicht rechtzeitig durchführt.
 
 ### § 24
 
-§ 19 findet keine Anwendung, soweit die zuständige Behörde am 30. Mai 2017 Die zuständige Behörde erkennt den Rinderbestand amtlich als brucellosefrei an, soweit die Voraussetzungen nach § 20 Absatz 2 vorliegen.
+§ 19 findet keine Anwendung, soweit die zuständige Behörde am 30. Mai 2017
 
-1.
+1. wegen des Verdachts auf Brucellose a)eine Untersuchung bei einem Rind des Bestandes oderb)sonstige Schutzmaßregeln im Hinblick auf den Rinderbestand angeordnet hat oder eine Untersuchung bei einem Rind des Bestandes oder sonstige Schutzmaßregeln im Hinblick auf den Rinderbestand angeordnet hat oder
 
-a)
-
-b)
-
-2.
+2. Brucellose in dem Rinderbestand amtlich festgestellt worden ist.
 
 ### § 24a
 
-§ 22 findet keine Anwendung, soweit die zuständige Behörde am 30. Mai 2017 Die zuständige Behörde erkennt den Schaf- oder Ziegenbestand amtlich als brucellosefrei an, soweit die Voraussetzungen nach § 22a Absatz 2 vorliegen.
+§ 22 findet keine Anwendung, soweit die zuständige Behörde am 30. Mai 2017
 
-1.
+1. wegen des Verdachts auf Brucellose a)eine Untersuchung bei einem Schaf oder einer Ziege des Bestandes oderb)sonstige Schutzmaßregeln im Hinblick auf den Schaf- oder Ziegenbestand angeordnet hat oder eine Untersuchung bei einem Schaf oder einer Ziege des Bestandes oder sonstige Schutzmaßregeln im Hinblick auf den Schaf- oder Ziegenbestand angeordnet hat oder
 
-a)
-
-b)
-
-2.
+2. Brucellose in dem Schaf- oder Ziegenbestand amtlich festgestellt worden ist.
 
 ### § 25
 

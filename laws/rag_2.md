@@ -31,11 +31,6 @@ Auf Renten, die nach Artikel 2 § 43 Abs. 1 des Arbeiterrentenversicherungs-Neur
 
 ### § 4
 
-(1) Bei Renten aus der Rentenversicherung der Arbeiter und der Rentenversicherung der Angestellten, die auf Versicherungsfällen der Jahre 1957 und 1958 beruhen und nach §§ 1253ff. der Reichsversicherungsordnung oder §§ 30ff. des Angestelltenversicherungsgesetzes berechnet worden sind, sowie bei Renten aus der knappschaftlichen Rentenversicherung und Renten aus der Rentenversicherung der Arbeiter und der Rentenversicherung der Angestellten mit einem Leistungsteil aus der knappschaftlichen Rentenversicherung darf der nach § 1 Abs. 1 erster Halbsatz errechnete Betrag den Betrag nicht überschreiten, der sich ergeben würde, wenn die Rente ohne Änderung der übrigen Berechnungsfaktoren unter Zugrundelegung der allgemeinen Bemessungsgrundlage für das Jahr 1959 und der Beitragsbemessungsgrenze für dieses Jahr berechnet werden würde. Auf die übrigen Renten aus der Rentenversicherung der Arbeiter und der Rentenversicherung der Angestellten findet Artikel 2 § 34 des Arbeiterrentenversicherungs-Neuregelungsgesetzes oder Artikel 2 § 33 des Angestelltenversicherungs-Neuregelungsgesetzes Anwendung. Die in diesen Vorschriften angegebenen Werte werden durch folgende Werte ersetzt: 
-	 § 1282 Abs. 2 der Reichsversicherungsordnung und § 59 Abs. 2 des Angestelltenversicherungsgesetzes gelten.
-
-(2) Absatz 1 Satz 1 gilt nicht für Renten aus der knappschaftlichen Rentenversicherung, die nach Artikel 2 § 11 oder Artikel 2 § 25 des Knappschaftsrentenversicherungs-Neuregelungsgesetzes berechnet worden sind.
-
 > § 4 Kursivdruck: §§ 1282 Abs. 2 RVO, § 59 Abs. 2 AVG aufgeh. durch Art. 2 Nr. 27 u. Art. 3 Nr. 3 G v. 1.12.1981 I 1205 mWv 5.12.1981
 
 ### § 5
@@ -50,8 +45,6 @@ Soweit bei den Versorgungsrenten nach dem Bundesversorgungsgesetz, den Unterhalt
 
 (1) Dem Berechtigten ist über die Anpassung eine schriftliche Mitteilung zu geben. Ergibt eine spätere Überprüfung, daß die Anpassung fehlerhaft ist, so ist sie zu berichtigen. Die Rente ist in ihrer bisherigen Höhe bis zum Ablauf des Monats zu gewähren, in dem der Berichtigungsbescheid zugestellt wird. Eine Rückforderung überzahlter Beträge findet nicht statt. Die Berichtigung ist nur bis zum 31. Dezember 1960 zulässig.
 
-(2) § 1300 der Reichsversicherungsordnung, § 79 des Angestelltenversicherungsgesetzes und § 93 Abs. 1 des Reichsknappschaftsgesetzes bleiben unberührt.
-
 > § 7 Abs. 2 Kursivdruck: § 1300 RVO aufgeh. durch Art. II § 4 Nr. 1, § 79 AVG aufgeh. durch Art. II § 6 Nr. 1 u. § 93 Abs. 1 RKG aufgeh. durch Art. II § 8 Nr. 1 G v. 18.8.1980 I 1469 mWv 1.1.1981
 
 ### § 8
@@ -61,8 +54,6 @@ Soweit bei den Versorgungsrenten nach dem Bundesversorgungsgesetz, den Unterhalt
 (2) § 6 gilt im Saarland mit der Maßgabe, daß an Stelle des Bundesversorgungsgesetzes und des Lastenausgleichsgesetzes die entsprechenden saarländische Gesetze treten und das Bundesentschädigungsgesetz unter Berücksichtigung seiner im Saarland geltenden Fassung anzuwenden ist.
 
 (3) Artikel 2 § 15 des Gesetzes Nr. 591 zur Einführung des Arbeiterrentenversicherungs-Neuregelungsgesetzes im Saarland, Artikel 2 § 17 des Gesetzes Nr. 590 zur Einführung des Angestelltenversicherungs-Neuregelungsgesetzes im Saarland und Artikel 4 § 9 des Gesetzes Nr. 635 zur Einführung des Reichsknappschaftsgesetzes und des Knappschaftsrentenversicherungs-Neuregelungsgesetzes im Saarland werden aufgehoben. Für Rentenansprüche aus Versicherungsfällen, die nach den in Satz 1 bezeichneten Vorschriften vor dem Inkrafttreten dieses Gesetzes eingetreten sind, sind diese Vorschriften weiterhin anzuwenden.
-
-> § 8 Abs. 3 Satz 1: Nach Maßgabe d. Entscheidungsformel mit dem GG vereinbar gem. BVerfGE v. 19.7.1967 I 948 - 2 BvL 1/65 -
 
 ### § 9
 

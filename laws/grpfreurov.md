@@ -13,7 +13,15 @@ Auf Grund des § 28 Satz 2 der Grundbuchordnung in der Fassung der Bekanntmachun
 ### § 1 — Zulassung des Euro und ausländischer Währungen
 für Grundpfandrechte
 
-Geldbeträge von Hypotheken, Grundschulden und Rentenschulden können auch in der Währung 1.Euro, 2.eines der Mitgliedstaaten der Europäischen Union, 3.der Schweizerischen Eidgenossenschaft, 4.der Vereinigten Staaten von Amerika angegeben werden.
+Geldbeträge von Hypotheken, Grundschulden und Rentenschulden können auch in der Währung
+
+1. Euro,
+
+2. eines der Mitgliedstaaten der Europäischen Union,
+
+3. der Schweizerischen Eidgenossenschaft,
+
+4. der Vereinigten Staaten von Amerika
 
 ### § 2 — Aufhebung der Zulassung ausländischer Währungen
 für Grundpfandrechte

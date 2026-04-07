@@ -31,49 +31,49 @@ Die Ausbildung im ersten Jahr vermittelt eine berufsfeldbreite Grundbildung, wen
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
-1.
+1. Berufsbildung, Arbeits- und Tarifrecht;
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes;
 
-3.
+3. Betriebliche Maßnahmen zum verantwortlichen Handeln (Responsible Care):
 
-3.1
+3.1 Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-3.2
+3.2 Anlagensicherheit,
 
-3.3
+3.3 Umweltschutz,
 
-3.4
+3.4 Einsetzen von Energieträgern,
 
-3.5
+3.5 Umgehen mit Arbeitsgeräten und -mitteln,
 
-3.6
+3.6 Qualitätssicherung, Kundenorientierung,
 
-3.7
+3.7 Kostenorientiertes Handeln;
 
-4.
+4. Arbeitsorganisation und Kommunikation:
 
-4.1
+4.1 Prozess-, Betriebs- und Arbeitsabläufe,
 
-4.2
+4.2 Arbeiten im Team,
 
-4.3
+4.3 Informationsbeschaffung, Dokumentation,
 
-4.4
+4.4 Kommunikations- und Informationssysteme;
 
-5.
+5. Umgehen mit Arbeitsstoffen und Bestimmen von Stoffkonstanten;
 
-6.
+6. Verfahrenstechnische Grundoperationen;
 
-7.
+7. Installationstechnische Arbeiten;
 
-8.
+8. Warten und Instandhalten betrieblicher Einrichtungen;
 
-9.
+9. Messtechnik;
 
-10.
+10. Bedienen von Anlagen;
 
-11.
+11. Herstellen und Verarbeiten von Produkten.
 
 ### § 6 — Ausbildungsrahmenplan
 
@@ -93,55 +93,31 @@ Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu
 
 (2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll im praktischen Teil der Prüfung in höchstens vier Stunden eine praktische Aufgabe durchführen. Hierfür kommt insbesondere in Betracht: Durchführen einer verfahrenstechnischen Arbeit. Dabei soll der Prüfling zeigen, dass er Teilprozesse nach Arbeitsplan durchführen, Arbeitsergebnisse dokumentieren und Maßnahmen zur Sicherheit, zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz ergreifen kann.
-
 (4) Der Prüfling soll im schriftlichen Teil der Prüfung in höchstens 120 Minuten praxisbezogene Aufgaben unter Berücksichtigung berufsbezogener Berechnungen lösen. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz sowie zur Anlagensicherheit einbezogen werden. Für die Aufgaben kommen insbesondere in Betracht:
 
-1.
+1. Produktionstechnik einschließlich Umgang mit Arbeitsstoffen, verfahrenstechnische Grundoperationen und Messtechnik,
 
-2.
+2. Wartung und Installationstechnik.
 
 ### § 10 — Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in höchstens sieben Stunden eine praktische Aufgabe durchführen. Hierfür kommt insbesondere in Betracht: Durchführen eines Herstellungs- oder Verarbeitungsprozesses unter Berücksichtigung Dabei soll der Prüfling zeigen, dass er Teilprozesse nach Arbeitsplan selbständig durchführen, Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren und dokumentieren, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz sowie qualitätssichernde Maßnahmen ergreifen kann. Bei der Bewertung der praktischen Aufgabe ist die Produktionstechnik mit 70 Prozent, die Anlagentechnik mit 30 Prozent zu gewichten.
+(2) Der Prüfling soll im praktischen Teil der Prüfung in höchstens sieben Stunden eine praktische Aufgabe durchführen. Hierfür kommt insbesondere in Betracht:
 
-1.
+1. der Produktionstechnik mit höchstens zwei verfahrenstechnischen Grundoperationen und
 
-2.
+2. der Anlagentechnik mit einer Montage-, einer Instandhaltungs- oder einer Wartungsarbeit.
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen geprüft werden. In den Prüfungsbereichen Verfahrens- und Produktionstechnik sowie Anlagentechnik soll der Prüfling zeigen, dass er praxisbezogene Aufgaben lösen kann. Dabei sollen berufsbezogene Berechnungen, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz sowie qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen
 
-1.
+1. Verfahrens- und Produktionstechnik,
 
-2.
+2. Anlagentechnik,
 
-3.
-
-1.
-
-a)
-
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-c)
-
-3.
-
-(4) Der schriftliche Teil der Prüfung dauert höchstens:
+3. Wirtschafts- und Sozialkunde
 
 (5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
-
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung mindestens ausreichende Leistungen erbracht sind. In zwei der Prüfungsbereiche des schriftlichen Teils müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich dürfen keine ungenügenden Leistungen erbracht worden sein.
 
@@ -158,5 +134,3 @@ Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung best
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 ### Anlage — (zu § 6)
-
-(Fundstelle: BGBl. I 2005, 909 - 912)

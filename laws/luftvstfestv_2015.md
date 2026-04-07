@@ -11,7 +11,13 @@ Auf Grund des § 11 Absatz 2 des Luftverkehrsteuergesetzes, der durch Artikel 3 
 
 ### § 1 — Steuersätze 2015
 
-Unter Einbeziehung des Luftverkehrs in den Handel mit Treibhausgasemissionszertifikaten bleiben die Steuersätze des § 11 Absatz 1 Nummer 1 bis 3 des Gesetzes für das Jahr 2015 unverändert. Die Steuer beträgt je Fluggast für Flüge mit einem Zielort 1.in einem Land der Anlage 1 zu dem Gesetz7,50 Euro,2.in einem Land der Anlage 2 zu dem Gesetz23,43 Euro,3.in anderen Ländern42,18 Euro.
+Unter Einbeziehung des Luftverkehrs in den Handel mit Treibhausgasemissionszertifikaten bleiben die Steuersätze des § 11 Absatz 1 Nummer 1 bis 3 des Gesetzes für das Jahr 2015 unverändert. Die Steuer beträgt je Fluggast für Flüge mit einem Zielort
+
+1. in einem Land der Anlage 1 zu dem Gesetz7,50 Euro,
+
+2. in einem Land der Anlage 2 zu dem Gesetz23,43 Euro,
+
+3. in anderen Ländern42,18 Euro.
 
 ### § 2 — Inkrafttreten
 

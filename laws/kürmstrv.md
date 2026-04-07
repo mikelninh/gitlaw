@@ -18,55 +18,55 @@ Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 2
 
 (1) Dem Kürschner-Handwerk sind folgende Tätigkeiten zuzurechnen:
 
-1.
+1. Entwurf von Modellen für Pelz- und Lederbekleidung,
 
-2.
+2. Verarbeitung von Pelz und Leder sowie ihre Kombination mit Textilien und anderen Werkstoffen zu Bekleidungsstücken,
 
-3.
+3. Ausfertigung von Bekleidungsstücken,
 
-4.
+4. Ausstattung von Bekleidungsstücken mit Pelz,
 
-5.
+5. Änderung, Instandsetzung und Umarbeitung von Pelz- und Lederbekleidung,
 
-6.
+6. Pflege und Aufbewahrung von Pelz- und Lederbekleidung.
 
 (2) Dem Kürschner-Handwerk sind folgende Kenntnisse und Fertigkeiten zuzurechnen:
 
-1.
+1. Kenntnisse der berufsbezogenen Werk- und Hilfsstoffe,
 
-2.
+2. Kenntnisse der Be- und Verarbeitung von Pelz und Leder,
 
-3.
+3. Kenntnisse der Proportionen des menschlichen Körpers,
 
-4.
+4. Kenntnisse der berufsbezogenen Moderichtungen und -linien,
 
-5.
+5. Kenntnisse der Pflege und der Aufbewahrung von Pelz- und Lederbekleidung,
 
-6.
+6. Kenntnisse der berufsbezogenen Bezeichnungen und Vorschriften, insbesondere der Artenschutzbestimmungen,
 
-7.
+7. Kenntnisse der berufsbezogenen Vorschriften der Arbeitssicherheit und des Arbeitsschutzes,
 
-8.
+8. Entwerfen und Zeichnen von Modellen und Einzelteilen,
 
-9.
+9. Maßnehmen,
 
-10.
+10. Konstruieren von Schnitten,
 
-11.
+11. Anprobieren und Korrigieren,
 
-12.
+12. Be- und Verarbeiten von Pelzen und Leder, insbesondere Schneiden und Nähen,
 
-13.
+13. Vorbereiten und Nachbehandeln von Pelz, Leder und anderen Werkstoffen,
 
-14.
+14. Ausfertigen und Zusammenstellen von Pelz und Leder zu Pelz- und Lederbekleidung,
 
-15.
+15. Ausstatten von Bekleidungsstücken mit Pelz sowie Ausstatten von Pelzbekleidung,
 
-16.
+16. Einarbeiten von Innenpelzen,
 
-17.
+17. Ändern, Instandsetzen und Umarbeiten von Pelz- und Lederbekleidung,
 
-18.
+18. Pflegen und Instandhalten der berufsbezogenen Werkzeuge, Geräte und Maschinen.
 
 ## 2. Abschnitt: Prüfungsanforderungen in den Teilen
 I und II der Meisterprüfung
@@ -84,11 +84,11 @@ Prüfung (Teil I)
 
 (1) Als Meisterprüfungsarbeit sind die nachstehend genannten Arbeiten anzufertigen:
 
-1.
+1. ein Pelzbekleidungsstück nach eigenem Entwurf oder vorgegebenem Modell unter Veränderung der natürlichen Fellproportionen und des natürlichen Haarkleides,
 
-2.
+2. ein Oberbekleidungsstück aus Leder nach eigenem Entwurf oder vorgegebenem Modell,
 
-3.
+3. ein Nessel- oder Leinenmodell nach eigenem Schnittmuster.
 
 (2) Der Prüfling hat vor Anfertigung der Meisterprüfungsarbeit dem Meisterprüfungsausschuß die Schnittmuster, die Arbeitspläne und die Vorkalkulationen zur Genehmigung vorzulegen.
 
@@ -98,15 +98,15 @@ Prüfung (Teil I)
 
 (1) Als Arbeitsprobe sind die nachstehend genannten Arbeiten auszuführen:
 
-1.
+1. Herstellen und Nähen von Höhen- und Seitenverbindungen an Pelzen,
 
-2.
+2. maschinelles Nähen eines Pelzes nach einer umfassenden Schnittanlage,
 
-3.
+3. Abnehmen eines Musters von einem Werkstück für die Pelzeinfütterung,
 
-4.
+4. Ändern und Einteilen eines Schnittmusters nach Modelinien,
 
-5.
+5. Zuschneiden und Zusammenstellen von Leder zu Kleinteilen.
 
 (2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.
 
@@ -114,29 +114,13 @@ Prüfung (Teil I)
 
 (1) In Teil II sind Kenntnisse in den folgenden vier Prüfungsfächern nachzuweisen:
 
-1.
+1. Fachzeichnen und Fachrechnen:a)Anfertigen von Skizzen, Schnittmustern, Schnitt- und Entwurfszeichnungen für Modelle, b)Berechnen von Material, Mustern und Schnittanlagen, c)Proportionslehre; Anfertigen von Skizzen, Schnittmustern, Schnitt- und Entwurfszeichnungen für Modelle, Berechnen von Material, Mustern und Schnittanlagen, Proportionslehre;
 
-a)
+2. Fachtechnologie:a)Be- und Verarbeitung von Pelz und Leder, b)berufsbezogene Moderichtungen und -linien, c)Pflege und Aufbewahrung von Pelz- und Lederbekleidung, d)berufsbezogene Vorschriften der Arbeitssicherheit und des Arbeitsschutzes, e)Werkzeug-, Geräte- und Maschinenkunde; Be- und Verarbeitung von Pelz und Leder, berufsbezogene Moderichtungen und -linien, Pflege und Aufbewahrung von Pelz- und Lederbekleidung, berufsbezogene Vorschriften der Arbeitssicherheit und des Arbeitsschutzes, Werkzeug-, Geräte- und Maschinenkunde;
 
-b)
+3. Werkstoffkunde: Arten, Eigenschaften, Handels- und zoologische Bezeichnung, Herkunft, Lagerung, Veredlung und Verarbeitung der Werk- und Hilfsstoffe sowie Bestimmungen des Artenschutzes;
 
-c)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-3.
-
-4.
+4. Kalkulation: Kostenermittlung unter Einbeziehung aller für die Preisbildung wesentlichen Faktoren.
 
 (2) Die Prüfung ist schriftlich und mündlich durchzuführen.
 

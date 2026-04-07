@@ -7,4 +7,4 @@
 
 ### (XXXX)
 
-Als Auszeichnung für Gebirgs- und Wandervereine, die sich in langjährigem Wirken besondere Verdienste um die Pflege und Förderung des Wanderns, des Heimatgedankens und des Umweltbewußtseins erworben haben, stifte ich die Die Einzelheiten der Verleihung werden durch besondere Richtlinien festgelegt.Der BundespräsidentDer BundeskanzlerDer Bundesminister des Innern
+Als Auszeichnung für Gebirgs- und Wandervereine, die sich in langjährigem Wirken besondere Verdienste um die Pflege und Förderung des Wanderns, des Heimatgedankens und des Umweltbewußtseins erworben haben, stifte ich die

@@ -16,7 +16,9 @@ Die Bundesregierung und der Zentralrat der Juden in Deutschland, Körperschaft d
 
 ### Art 2 — Staatsleistung
 
-(1) Zu den in Artikel 1 genannten Zwecken zahlt die Bundesrepublik Deutschland an den Zentralrat der Juden in Deutschland jährlich einen Betrag von 22 000 000 Euro, beginnend mit dem Haushaltsjahr 2023. Sollte der Vertrag nicht im Jahr des Vertragsabschlusses in Kraft treten, erfolgt eine rückwirkende Zahlung.(2) Die Vertragsschließenden werden sich nach Ablauf von jeweils fünf Jahren - beginnend im Jahr 2008 - hinsichtlich einer Anpassung der Leistung nach Absatz 1 verständigen. Sie sind sich darüber einig, dass die Entwicklung der Zahl der vom Zentralrat repräsentierten Gemeindemitglieder ein wichtiges Kriterium bei der Berechnung der Leistungsanpassung darstellt.
+(1) Zu den in Artikel 1 genannten Zwecken zahlt die Bundesrepublik Deutschland an den Zentralrat der Juden in Deutschland jährlich einen Betrag von 22 000 000 Euro, beginnend mit dem Haushaltsjahr 2023. Sollte der Vertrag nicht im Jahr des Vertragsabschlusses in Kraft treten, erfolgt eine rückwirkende Zahlung.
+
+(2) Die Vertragsschließenden werden sich nach Ablauf von jeweils fünf Jahren - beginnend im Jahr 2008 - hinsichtlich einer Anpassung der Leistung nach Absatz 1 verständigen. Sie sind sich darüber einig, dass die Entwicklung der Zahl der vom Zentralrat repräsentierten Gemeindemitglieder ein wichtiges Kriterium bei der Berechnung der Leistungsanpassung darstellt.
 
 ### Art 3 — Zahlungsmodalitäten
 
@@ -28,11 +30,19 @@ Der Zentralrat der Juden in Deutschland weist die Verwendung der Zahlung jährli
 
 ### Art 5 — Weitere Einrichtungen des Zentralrats
 
-(1) Der Bund wird darüber hinaus auch zukünftig die bisher geförderten Einrichtungen des Zentralrats der Juden in Deutschland - Hochschule für Jüdische Studien und Zentralarchiv zur Erforschung der Geschichte der Juden in Deutschland, beide mit Sitz in Heidelberg - auf freiwilliger Basis unterstützen.(2) Die Förderung der Hochschule für Jüdische Studien erfolgt derzeit mit einem Bundesanteil von 30 Prozent im Einvernehmen mit den Ländern.(3) Das Zentralarchiv wird vom Bund institutionell gefördert auf der Grundlage der vorgelegten Wirtschaftspläne.(4) In beiden Fällen handelt es sich um vom Bund jährlich festzulegende Zuwendungen im Sinne des Bundeshaushaltsrechts nach den Vorgaben des Haushaltsgesetzgebers.
+(1) Der Bund wird darüber hinaus auch zukünftig die bisher geförderten Einrichtungen des Zentralrats der Juden in Deutschland - Hochschule für Jüdische Studien und Zentralarchiv zur Erforschung der Geschichte der Juden in Deutschland, beide mit Sitz in Heidelberg - auf freiwilliger Basis unterstützen.
+
+(2) Die Förderung der Hochschule für Jüdische Studien erfolgt derzeit mit einem Bundesanteil von 30 Prozent im Einvernehmen mit den Ländern.
+
+(3) Das Zentralarchiv wird vom Bund institutionell gefördert auf der Grundlage der vorgelegten Wirtschaftspläne.
+
+(4) In beiden Fällen handelt es sich um vom Bund jährlich festzulegende Zuwendungen im Sinne des Bundeshaushaltsrechts nach den Vorgaben des Haushaltsgesetzgebers.
 
 ### Art 6 — Ausschluss weiterer Leistungen
 
-(1) Der Zentralrat der Juden in Deutschland wird über die in Artikel 2 und 5 gewährten Leistungen hinaus keine weiteren finanziellen Forderungen an die Bundesrepublik Deutschland herantragen.(2) Auf besonderer Grundlage mögliche oder bestehende Leistungen an die jüdische Gemeinschaft auf Bundesebene bleiben durch diesen Vertrag unberührt, insbesondere staatliche Leistungen für die Integration jüdischer Zuwanderer aus den GUS-Staaten und für die Pflege verwaister jüdischer Friedhöfe auf der Grundlage der Vereinbarung zwischen dem Bund und den Ländern vom 21. Juni 1957.
+(1) Der Zentralrat der Juden in Deutschland wird über die in Artikel 2 und 5 gewährten Leistungen hinaus keine weiteren finanziellen Forderungen an die Bundesrepublik Deutschland herantragen.
+
+(2) Auf besonderer Grundlage mögliche oder bestehende Leistungen an die jüdische Gemeinschaft auf Bundesebene bleiben durch diesen Vertrag unberührt, insbesondere staatliche Leistungen für die Integration jüdischer Zuwanderer aus den GUS-Staaten und für die Pflege verwaister jüdischer Friedhöfe auf der Grundlage der Vereinbarung zwischen dem Bund und den Ländern vom 21. Juni 1957.
 
 ### Art 7 — Vertragsanpassung
 
@@ -44,26 +54,8 @@ Die Vertragsschließenden werden etwa in Zukunft auftretende Meinungsverschieden
 
 ### Art 9 — Zustimmung des Deutschen Bundestages, Inkrafttreten
 
-(1) Der Vertrag bedarf der Zustimmung des Deutschen Bundestages durch ein Bundesgesetz.(2) Er tritt am Tag des Inkrafttretens des Gesetzes, mit dem diesem Vertrag zugestimmt wird, in Kraft.
+(1) Der Vertrag bedarf der Zustimmung des Deutschen Bundestages durch ein Bundesgesetz.
+
+(2) Er tritt am Tag des Inkrafttretens des Gesetzes, mit dem diesem Vertrag zugestimmt wird, in Kraft.
 
 ### Schlussformel
-
-Für die Bundesrepublik Deutschland
-
-Für den Zentralrat der Juden in Deutschland K.d.ö.R.
-
-...
-
-...
-
-Bundeskanzler
-
-Präsident
-
-...
-
-Vizepräsidentin
-
-...
-
-Vizepräsident

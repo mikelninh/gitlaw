@@ -24,8 +24,6 @@ Auf Beschluß der Bundesregierung gebe ich folgendes bekannt:
 
 ### 3.
 
-(1) Es sind drei Größen für Amtsschilder zugelassen. Die Abmessungen betragen in Zentimetern:
-
 (2) Welche der zugelassenen Größen des Amtsschildes gewählt wird, bestimmt sich nach der Größe und Gestaltung des Gebäudes und der Fläche, auf der das Amtsschild befestigt werden soll.
 
 ### 4.
@@ -46,12 +44,4 @@ Die Bestimmungen über die Amtsschilder der deutschen Vertretungen im Ausland er
 
 ### Schlußformel
 
-Der Bundesminister des Innern
-
 ### Muster
-
-Allgemeines
-
-Gemeinsames Amtsschild mehrerer Dienststellen mit Anhängeschildern
-
-> (+++ Die Vorlage ist über das Bundesministerium des Innern, für Bau und Heimat zu beziehen +++) Muster Kursivdruck: Fehlschreibung des Wortes "Amtschild" in "Amtsschild" korrigiert

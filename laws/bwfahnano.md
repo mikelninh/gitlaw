@@ -30,5 +30,3 @@ Die Truppenfahne ist die Bundesdienstflagge in quadratischer Form (100 x 100) au
 Der Bundesminister der Verteidigung wird ermächtigt, die zu dieser Anordnung erforderlichen Durchführungsbestimmungen zu erlassen.
 
 ### Schlußformel
-
-Der Bundespräsident Der Bundeskanzler Der Bundesminister der Verteidigung

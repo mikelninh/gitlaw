@@ -24,5 +24,3 @@ Die nach § 1 Satz 2 festgesetzten Festbeträge sowie die nach § 1 Satz 3 errec
 (2)
 
 ### Anlage — (zu § 1)
-
-Fundstelle des Originaltextes: BGBl. I 2003, 94 - 95

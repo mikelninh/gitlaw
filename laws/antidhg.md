@@ -16,9 +16,9 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (2) Kontaktpersonen im Sinne des Absatzes 1 Satz 1 sind
 
-1.
+1. die seit der Immunprophylaxe von den in Satz 1 genannten Frauen geborenen Kinder,
 
-2.
+2. Stief-, Adoptiv- und Pflegekinder sowie sonstige Kinder, Ehegatten und Lebenspartner, die mit den in Satz 1 genannten Frauen nicht nur vorübergehend in häuslicher Gemeinschaft gelebt haben oder leben.
 
 ### § 2 — Krankenbehandlung
 
@@ -27,10 +27,6 @@ Berechtigte nach § 1 Abs. 1 Satz 1 erhalten für die durch die Hepatitis-C-Viru
 ### § 3 — Finanzielle Hilfe
 
 (1) Berechtigte nach § 1 Abs. 1 Satz 1 erhalten als finanzielle Hilfe eine monatliche Rente und eine Einmalzahlung.
-
-(2) Die monatliche Rente beträgt bei einem Grad der Schädigungsfolgen infolge der Hepatitis-C-Virus-Infektion von 30   272 Euro,  von 40   434 Euro,  von 50   598 Euro,  von 60   815 Euro,  von 70 und mehr   1 088 Euro.
-
-(3) Die Einmalzahlung nach Absatz 1 beträgt bei einem Grad der Schädigungsfolgen infolge der Hepatitis-C-Virus-Infektion von 10 und 20   3 579 Euro,  von 30   6 136 Euro,  von 40   7 669 Euro,  von 50   10 226 Euro,  von 60 und mehr    15 339 Euro.Maßgebend für die Höhe der Einmalzahlung ist der Grad der Schädigungsfolgen im Zeitpunkt der erstmaligen Bewilligung von Leistungen nach Absatz 1. Ist ein Antrag nach § 7 erforderlich, wird die Einmalzahlung nur gewährt, wenn sie bis zum 31. Dezember 2000 beantragt wurde.
 
 (4) Der Grad der Schädigungsfolgen bestimmt sich nach § 5 Absatz 1 des Vierzehnten Buches Sozialgesetzbuch. Die Voraussetzungen für die Gewährung der finanziellen Hilfe nach Absatz 1 werden unabhängig anderweitiger Anerkennungen über das Ausmaß der Schädigungsfolgen festgestellt.
 
@@ -42,9 +38,9 @@ Berechtigte nach § 1 Abs. 1 Satz 1 erhalten für die durch die Hepatitis-C-Viru
 
 (3) Waisen erhalten die finanzielle Hilfe nach Absatz 1 ab dem auf den Sterbemonat folgenden Monat bis zur Vollendung des 18. Lebensjahres, darüber hinaus nur für die Dauer einer Schul- oder Berufsausbildung, die die Arbeitskraft überwiegend in Anspruch nimmt und nicht mit der Zahlung von Dienstbezügen, Arbeitsentgelt oder sonstigen Zuwendungen in entsprechender Höhe verbunden ist, längstens jedoch bis zu Vollendung des 27. Lebensjahres. Als Waisen gelten auch
 
-1.
+1. Stiefkinder, die mit dem verstorbenen Berechtigten im Zeitpunkt des Todes in häuslicher Gemeinschaft gelebt haben oder wesentlich von ihm unterhalten worden sind sowie
 
-2.
+2. Pflegekinder im Sinne des § 2 Abs. 1 Nr. 2 des Bundeskindergeldgesetzes.
 
 ### § 5 — Härteausgleich, Hilfe bei Wohnsitz im Ausland
 

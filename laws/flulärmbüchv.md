@@ -35,13 +35,9 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Schlußformel
 
-Der Bundesminister des Innern
-
 ### Anlage 1 — (zu § 2 der Verordnung über die Festsetzung des
 Lärmschutzbereichs für den militärischen Flugplatz Büchel
 in der Fassung der Zweiten Änderungsverordnung vom 9. Oktober 1991)
-
-(Fundstelle des Originaltextes: BGBl. I 1991, 1977 - 1981)
 
 ### Anlage 2 — (zu § 4 Abs. 1 der Verordnung über die Festsetzung des
 Lärmschutzbereichs für den militärischen Flugplatz Büchel

@@ -16,21 +16,21 @@ Im Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft (
 
 (1) Die Bundesanstalt übernimmt die Aufgaben, die bisher der Bundesanstalt für landwirtschaftliche Marktordnung und dem Bundesamt für Ernährung und Forstwirtschaft übertragen waren. Zu ihren Aufgaben gehören:
 
-1.
+1. die Regelung und Ordnung der landwirtschaftlichen Märkte und Durchführung der gemeinsamen Marktorganisationen, soweit ihr die Zuständigkeit hierfür durch Gesetz oder Verordnung übertragen ist,
 
-2.
+2. die Bereitstellung der zur Durchführung von Maßnahmen nach Artikel 3 Absatz 1 der Verordnung (EG) Nr. 1290/2005 des Rates vom 21. Juni 2005 über die Finanzierung der Gemeinsamen Agrarpolitik (ABl. L 209 vom 11.08.2005, S. 1) in der jeweils geltenden Fassung erforderlichen Finanzmittel im Rahmen des Artikels 14 Absatz 2 der Verordnung (EG) Nr. 1290/2005, auch soweit die Bundesanstalt für die Durchführung der Maßnahmen nicht zuständig ist,
 
-3.
+3. die Wahrnehmung von Aufgaben der Ernährungssicherstellung und Ernährungsvorsorge, soweit ihr die Zuständigkeit hierfür durch Gesetz oder Verordnung übertragen ist,
 
-4.
+4. die Beschaffung, Haltung und Verwertung von Vorräten an Ernährungsgütern und Futtermitteln zur Sicherung der Versorgung,
 
-5.
+5. im Rahmen ihrer Tätigkeit die Untersuchung, Entwicklung und Erprobung neuer Formen und Wege der Vermarktung zur Verbesserung der Marktabläufe,
 
-6.
+6. das Erteilen von Genehmigungen und die Ausführung sonstiger Rechtsvorschriften für den grenzüberschreitenden Waren- und Dienstleistungsverkehr mit Erzeugnissen der Ernährungs-, Land- und Forstwirtschaft, soweit ihr die Zuständigkeit hierfür durch Gesetz oder Verordnung übertragen ist,
 
-7.
+7. die Durchführung sonstiger durch Gesetz oder Verordnung übertragener Aufgaben,
 
-8.
+8. die Erledigung von Verwaltungsaufgaben des Bundes, für die keine andere Zuständigkeit gesetzlich festgelegt ist und mit deren Durchführung sie vom Bundesministerium beauftragt wird.
 
 (2) Bei der Durchführung ihrer kaufmännischen und technischen Aufgaben soll sich die Bundesanstalt der Einrichtungen der Wirtschaft bedienen.
 
@@ -48,31 +48,31 @@ Im Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft (
 
 ### § 5 — Verwaltungsrat
 
-(1) Der Verwaltungsrat besteht aus bis zu 28 Mitgliedern, und zwar aus höchstens Die Mitglieder des Verwaltungsrats müssen die Voraussetzungen für die Wählbarkeit zum Deutschen Bundestag erfüllen.
+(1) Der Verwaltungsrat besteht aus bis zu 28 Mitgliedern, und zwar aus höchstens
 
-1.
+1. sechs Vertretern der Landwirtschaft einschließlich des Garten- und Weinbaus, der Forstwirtschaft sowie der Fischwirtschaft,
 
-2.
+2. drei Vertretern der Verbraucher,
 
-3.
+3. drei Vertretern des Groß- und Außenhandels,
 
-4.
+4. zwei Vertretern des Einzelhandels,
 
-5.
+5. zwei Vertretern des Ernährungshandwerks,
 
-6.
+6. zwei Vertretern der Ernährungsindustrie,
 
-7.
+7. zwei Vertretern der landwirtschaftlichen Genossenschaften,
 
-8.
+8. einem Vertreter des Landwarenhandels,
 
-9.
+9. einem Vertreter des Bundesministeriums,
 
-10.
+10. einem Vertreter des Bundesministeriums für Wirtschaft und Energie,
 
-11.
+11. einem Vertreter des Bundesministeriums der Finanzen,
 
-12.
+12. vier Vertretern der Obersten Landesbehörden für Ernährung, Landwirtschaft und Forsten.
 
 (2) Die Vertreter der Gruppen nach Absatz 1 Satz 1 Nr. 1 bis 8 (Wirtschaftsgruppen) werden vom Bundesministerium auf Vorschlag der jeweiligen Spitzenverbände bestellt und abberufen. Ihre Bestellung erfolgt auf die Dauer von vier Jahren; scheidet ein Vertreter vorzeitig aus, so wird sein Nachfolger für den Rest der Amtszeit bestellt.
 
@@ -82,11 +82,11 @@ Im Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft (
 
 ### § 6 — Rechte und Aufgaben des Verwaltungsrats
 
-(1) Der Verwaltungsrat Er unterbreitet dem Bundesministerium Vorschläge in Angelegenheiten aus dem fachlichen Aufgabenbereich der Bundesanstalt und wird vom Bundesministerium in allen die Bundesanstalt betreffenden grundsätzlichen Fragen, insbesondere bei der Ernennung des Präsidenten und des Vizepräsidenten sowie bei einer Änderung der Satzung, gehört. Die Sätze 1 und 2 finden keine Anwendung auf die Aufgaben nach § 2 Abs. 1 Satz 2 Nr. 2.
+(1) Der Verwaltungsrat
 
-1.
+1. berät die Bundesanstalt bei Erfüllung ihrer fachlichen Aufgaben, insbesondere kann er im Hinblick auf die künftige Tätigkeit zu dem Geschäftsbericht und dem Rechnungsabschluß Stellung nehmen; er ist vom Präsidenten regelmäßig über die Tätigkeit der Bundesanstalt zu unterrichten; insoweit steht ihm gegenüber dem Präsidenten ein Recht auf Auskunftserteilung und auf Anhörung zu,
 
-2.
+2. befindet über die Einsetzung von Fachbeiräten und stimmt deren Tätigkeit untereinander ab.
 
 (2) Die Vertreter der Wirtschaftsgruppen sind an keinerlei Aufträge oder Weisungen gebunden und haben ihr Amt nach bestem Wissen und Gewissen zu versehen.
 
@@ -106,17 +106,17 @@ Im Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft (
 
 (1) Das Bundesministerium wird ermächtigt, hinsichtlich des Satzes 2 Nr. 5 und 6 im Einvernehmen mit dem Bundesministerium der Finanzen, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Satzung der Bundesanstalt zu erlassen. In die Satzung sind, soweit erforderlich, insbesondere Bestimmungen aufzunehmen über
 
-1.
+1. die Benennung der vorschlagsberechtigten Spitzenverbände nach § 5 Abs. 2, die Tätigkeit des Verwaltungsrats sowie die Zusammensetzung der Fachbeiräte,
 
-2.
+2. die Rechte und Pflichten der Organe der Bundesanstalt und der Fachbeiräte,
 
-3.
+3. die Übertragung der Zeichnungsbefugnis an Beschäftigte der Bundesanstalt,
 
-4.
+4. den Aufbau der Bundesanstalt,
 
-5.
+5. die Haushaltsführung, Wirtschaftsführung und Rechnungslegung der Bundesanstalt,
 
-6.
+6. die Kreditaufnahmen nach § 10 Abs. 4 und 5.
 
 (2) Die Bundesanstalt untersteht der Rechts- und Fachaufsicht des Bundesministeriums. Das Bundesministerium kann der Bundesanstalt Weisungen erteilen. Die Bundesanstalt ist verpflichtet, dem Bundesministerium Auskunft über die Geschäftsführung zu erteilen und ihm die Unterlagen der Bundesanstalt vorzulegen.
 
@@ -136,9 +136,9 @@ Im Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft (
 
 (2) Das Bundesministerium erstattet der Bundesanstalt die Aufwendungen
 
-1.
+1. für Aufgaben nach § 2 Abs. 1 Satz 2 Nr. 1 und 2 aus Mitteln des Europäischen Ausrichtungs- und Garantiefonds für die Landwirtschaft und aus dem Bundeshaushalt,
 
-2.
+2. für die übrigen Aufgaben aus dem Bundeshaushalt, soweit gesetzlich nichts anderes bestimmt ist.
 
 (3) Nach Ende des Haushaltsjahrs sind nach den Richtlinien des Bundesministeriums eine Bilanz, eine Gewinn- und Verlustrechnung und ein Geschäftsbericht aufzustellen. § 9 Abs. 3 Satz 2 bis 4 ist anzuwenden.
 

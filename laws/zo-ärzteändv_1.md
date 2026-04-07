@@ -11,13 +11,17 @@ Auf Grund des § 368c Abs. 1 der Reichsversicherungsordnung in der im Bundesgese
 
 ### Art 1
 
-Die Zulassungsordnung für Kassenärzte in der im Bundesgesetzblatt Teil III, Gliederungsnummer 8230-25, veröffentlichten bereinigten Fassung wird wie folgt geändert: 1. 2. a)Absatz 2 erhält folgende Fassung:"(2) Voraussetzungen für die Eintragung sinda)die Approbation als Arzt, b)die Ableistung einer sechsmonatigen Vorbereitungszeit auf die kassenärztliche Tätigkeit." 3. 4.
-
 > Art. 1: Änderungsvorschrift, Kursivdruck zum Verständnis v. Art. 2 Abs. 1 aufgenommen
 
 ### Art 2
 
-(1) Die Vorbereitungszeit nach Artikel 1 Nr. 2 Buchstabe a hat auch erfüllt, wer bis zum Inkrafttreten dieser Verordnung eine mindestens dreimonatige Tätigkeit als Vertreter oder Assistent bei einem oder mehreren frei praktizierenden Kassenärzten abgeleistet hat.(2) Für die Beteiligungen, die nach § 30 der Zulassungsordnung in der bis zum Inkrafttreten dieser Verordnung geltenden Fassung ausgesprochen worden sind, gilt diese Vorschrift fort. Die nach dieser Vorschrift bei Inkrafttreten dieser Verordnung bei dem Zulassungsausschuß gestellten Anträge auf Beteiligung gelten als Anträge auf Ermächtigung zur Teilnahme an der kassenärztlichen Versorgung; die Anträge sind der zuständigen Kassenärztlichen Vereinigung zuzuleiten.(3) Ermächtigungen zur Teilnahme an der kassenärztlichen Versorgung, die bis zum Inkrafttreten dieser Verordnung auf Grund der Vorschriften des Bundesmantelvertrags zwischen der Kassenärztlichen Bundesvereinigung und den Bundesverbänden der Krankenkassen erteilt worden sind, gelten als Ermächtigungen nach § 31 der Zulassungsordnung.(4) § 46 gilt für die dort genannten Verfahren, die bei Inkrafttreten dieser Verordnung noch nicht abgeschlossen sind, in der bis zu diesem Zeitpunkt geltenden Fassung fort.
+(1) Die Vorbereitungszeit nach Artikel 1 Nr. 2 Buchstabe a hat auch erfüllt, wer bis zum Inkrafttreten dieser Verordnung eine mindestens dreimonatige Tätigkeit als Vertreter oder Assistent bei einem oder mehreren frei praktizierenden Kassenärzten abgeleistet hat.
+
+(2) Für die Beteiligungen, die nach § 30 der Zulassungsordnung in der bis zum Inkrafttreten dieser Verordnung geltenden Fassung ausgesprochen worden sind, gilt diese Vorschrift fort. Die nach dieser Vorschrift bei Inkrafttreten dieser Verordnung bei dem Zulassungsausschuß gestellten Anträge auf Beteiligung gelten als Anträge auf Ermächtigung zur Teilnahme an der kassenärztlichen Versorgung; die Anträge sind der zuständigen Kassenärztlichen Vereinigung zuzuleiten.
+
+(3) Ermächtigungen zur Teilnahme an der kassenärztlichen Versorgung, die bis zum Inkrafttreten dieser Verordnung auf Grund der Vorschriften des Bundesmantelvertrags zwischen der Kassenärztlichen Bundesvereinigung und den Bundesverbänden der Krankenkassen erteilt worden sind, gelten als Ermächtigungen nach § 31 der Zulassungsordnung.
+
+(4) § 46 gilt für die dort genannten Verfahren, die bei Inkrafttreten dieser Verordnung noch nicht abgeschlossen sind, in der bis zu diesem Zeitpunkt geltenden Fassung fort.
 
 ### Art 3
 
@@ -28,5 +32,3 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Arbeit und Sozialordnung

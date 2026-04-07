@@ -14,11 +14,11 @@
 
 (1) Ziel des Gesetzes ist es,
 
-1.
+1. die Gleichstellung von Frauen und Männern zu verwirklichen,
 
-2.
+2. bestehende Benachteiligungen auf Grund des Geschlechts, insbesondere Benachteiligungen von Frauen, zu beseitigen und künftige Benachteiligungen zu verhindern sowie
 
-3.
+3. die Familienfreundlichkeit sowie die Vereinbarkeit von Familie, Pflege und Berufstätigkeit für die Beschäftigten zu verbessern.
 
 (2) Nach Maßgabe dieses Gesetzes wird die tatsächliche Durchsetzung der Gleichberechtigung von Frauen und Männern gefördert. Strukturelle Benachteiligungen von Frauen sind durch deren gezielte Förderung zu beheben. Ziel ist es, die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen nach Maßgabe dieses Gesetzes bis zum 31. Dezember 2025 zu erreichen.
 
@@ -34,31 +34,25 @@
 
 Im Sinne dieses Gesetzes sind:
 
-1.
+1. Arbeitsplätze: Ausbildungsplätze, Stellen, Planstellen sowie Dienstposten, die mit Beschäftigten im Sinne dieses Gesetzes besetzbar sind und für deren personelle Ausführung lediglich finanzielle Mittel benötigt werden, unabhängig davon, ob die Beschäftigung aus für Stellen und Planstellen bereitgestellten oder sonstigen Haushaltsmitteln finanziert wird;
 
-2.
+2. Bereiche: Besoldungs- und Entgeltgruppen oder Laufbahngruppen, Laufbahnen und Fachrichtungen, Berufsausbildungen einschließlich des Vorbereitungsdienstes sowie Ebenen mit Führungspositionen einschließlich der Stellen und Planstellen Vorsitzender Richterinnen und Vorsitzender Richter;
 
-3.
+3. beruflicher Aufstieg: Beförderungen, Höhergruppierungen, Höherreihungen sowie Übertragungen höher bewerteter Dienstposten und Arbeitsplätze;
 
-4.
+4. Beschäftigte: Beamtinnen und Beamte, Arbeitnehmerinnen und Arbeitnehmer einschließlich Auszubildender, Richterinnen und Richter sowie Inhaberinnen und Inhaber öffentlich-rechtlicher Ämter;
 
-5.
+5. Dienststellen: a)Bundesgerichte,b)Behörden und Verwaltungsstellen der unmittelbaren Bundesverwaltung einschließlich solcher im Bereich der Streitkräfte sowiec)Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts des Bundes;maßgebend sind § 4 Absatz 1 Nummer 4 und 6 sowie § 6 des Bundespersonalvertretungsgesetzes; Bundesgerichte, Behörden und Verwaltungsstellen der unmittelbaren Bundesverwaltung einschließlich solcher im Bereich der Streitkräfte sowie Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts des Bundes;
 
-a)
+6. Familienaufgaben: die tatsächliche Betreuung von mindestens einem Kind unter 18 Jahren durch Beschäftigte; dies schließt auch die Inanspruchnahme einer Elternzeit nach dem Bundeselterngeld- und Elternzeitgesetz ein;
 
-b)
+7. Pflegeaufgaben: die tatsächliche, nicht erwerbsmäßige häusliche Pflege oder Betreuung einer im Sinne des Siebten Kapitels des Zwölften Buches Sozialgesetzbuch pflegebedürftigen Person durch Beschäftigte; dies schließt auch die Inanspruchnahme einer Pflegezeit nach dem Pflegezeitgesetz sowie die Inanspruchnahme einer Familienpflegezeit nach dem Familienpflegezeitgesetz ein;
 
-c)
+8. Qualifikation: Eignung, Befähigung und fachliche Leistung;
 
-6.
+9. unterrepräsentiert: Status von Frauen, wenn ihr jeweiliger Anteil an der Gesamtzahl der weiblichen und männlichen Beschäftigten in einem einzelnen Bereich unter 50 Prozent liegt; bei einer ungeraden Gesamtzahl der weiblichen und männlichen Beschäftigten sind Frauen unterrepräsentiert, wenn das Ungleichgewicht mindestens zwei Personen beträgt;
 
-7.
-
-8.
-
-9.
-
-10.
+10. Führungspositionen: alle Arbeitsplätze mit Vorgesetzten- oder Leitungsaufgaben.
 
 ### § 4 — Allgemeine Pflichten
 
@@ -96,23 +90,23 @@ c)
 
 ### § 8 — Auswahlentscheidungen bei Einstellung, beruflichem Aufstieg und der Vergabe von Ausbildungsplätzen
 
-(1) Sind Frauen in einem Bereich unterrepräsentiert, so hat die Dienststelle sie bei gleicher Qualifikation wie ihre Mitbewerber bevorzugt zu berücksichtigen Die bevorzugte Berücksichtigung ist ausgeschlossen, wenn rechtlich schutzwürdige Interessen überwiegen, die in der Person eines Mitbewerbers liegen.
+(1) Sind Frauen in einem Bereich unterrepräsentiert, so hat die Dienststelle sie bei gleicher Qualifikation wie ihre Mitbewerber bevorzugt zu berücksichtigen
 
-1.
+1. bei der Besetzung von Ausbildungsplätzen,
 
-2.
+2. bei der Einstellung,
 
-3.
+3. beim beruflichen Aufstieg,
 
-4.
+4. bei der Versetzung, wenn ihr ein Ausschreibungsverfahren vorausgeht, sowie
 
-5.
+5. bei der Abordnung und Umsetzung für jeweils mehr als drei Monate, wenn ihr ein Ausschreibungsverfahren vorausgeht.
 
-(2) Absatz 1 gilt insbesondere für Satz 1 schließt auch Führungspositionen ungeachtet der Hierarchieebene ein.
+(2) Absatz 1 gilt insbesondere für
 
-1.
+1. die Besetzung von Stellen von Beamtinnen und Beamten, von Arbeitnehmerinnen und Arbeitnehmern, von Auszubildenden sowie von Richterinnen und Richtern, es sei denn, für die Berufung von Richterinnen und Richtern ist eine Wahl oder die Mitwirkung eines Wahlausschusses vorgeschrieben;
 
-2.
+2. den beruflichen Aufstieg, es sei denn, die Entscheidung über diesen Aufstieg erfolgt durch eine Wahl oder unter Mitwirkung eines Wahlausschusses.
 
 (3) Die Ausnahmeregelung in Absatz 2 Satz 1 Nummer 1 gilt entsprechend für die Stellen von Mitgliedern des Bundesrechnungshofes, für deren Ernennung nach § 5 Absatz 2 Satz 2 des Bundesrechnungshofgesetzes vom 11. Juli 1985 (BGBl. I S. 1445), das zuletzt durch Artikel 15 Absatz 82 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist, der Ständige Ausschuss des Großen Senats des Bundesrechnungshofes zu hören ist.
 
@@ -122,21 +116,13 @@ c)
 
 (2) Folgende Umstände dürfen nicht Teil der vergleichenden Bewertung sein:
 
-1.
+1. durch die Wahrnehmung von Familien- oder Pflegeaufgaben bedingte a)Unterbrechungen der Berufstätigkeit,b)geringere Anzahl aktiver Dienst- oder Beschäftigungsjahre,c)Reduzierungen der Arbeitszeit oder Verzögerungen beim Abschluss einzelner Ausbildungsgänge,d)zeitliche Belastungen, Unterbrechungen der Berufstätigkeit, geringere Anzahl aktiver Dienst- oder Beschäftigungsjahre, Reduzierungen der Arbeitszeit oder Verzögerungen beim Abschluss einzelner Ausbildungsgänge, zeitliche Belastungen,
 
-a)
+2. die Einkommenssituation des Ehegatten, der Lebenspartnerin oder des Lebenspartners, der Lebensgefährtin oder des Lebensgefährten,
 
-b)
+3. die Absicht, von der Möglichkeit der Arbeitszeitreduzierung oder einer Beurlaubung zur Wahrnehmung von Familien- oder Pflegeaufgaben Gebrauch zu machen,
 
-c)
-
-d)
-
-2.
-
-3.
-
-4.
+4. organisatorische und personalwirtschaftliche Erwägungen.
 
 ### § 10 — Fortbildung, Dienstreisen
 
@@ -144,9 +130,9 @@ d)
 
 (2) Die Dienststelle muss Beschäftigten mit Familien- oder Pflegeaufgaben im Rahmen der dienstlichen Möglichkeiten die Teilnahme an dienstlichen Fortbildungen sowie an Dienstreisen ermöglichen. Soweit erforderlich, sind im Rahmen der dienstlichen Möglichkeiten zusätzliche Veranstaltungen oder alternative Dienstreisezeiträume anzubieten, die den räumlichen und zeitlichen Bedürfnissen von Beschäftigten mit Familien- oder Pflegeaufgaben entsprechen. Darüber hinaus kann die Dienststelle Beschäftigten mit Familien- oder Pflegeaufgaben im Rahmen der dienstlichen Möglichkeiten die Teilnahme an dienstlichen Ausbildungen anbieten. Für die Dauer der Teilnahme an
 
-1.
+1. Maßnahmen nach Satz 1 kann im Bedarfsfall die Betreuung von Kindern oder pflegebedürftigen Personen angeboten werden,
 
-2.
+2. Maßnahmen nach den Sätzen 1 und 3 können auf Antrag zusätzlich anfallende, unabwendbare Betreuungskosten für Kinder oder pflegebedürftige Personen erstattet werden.
 
 (3) Die Dienststelle soll in ausreichendem Maße Fortbildungen anbieten, die den beruflichen Aufstieg und den beruflichen Wiedereinstieg nach einer Unterbrechung der Berufstätigkeit zur Wahrnehmung von Familien- oder Pflegeaufgaben erleichtern. Absatz 2 gilt entsprechend.
 
@@ -170,13 +156,13 @@ Der Gleichstellungsplan dient der Erreichung der Ziele dieses Gesetzes und ist e
 
 (1) Der Gleichstellungsplan muss eine Bestandsaufnahme vornehmen, indem er die bestehende Situation der Frauen und Männer in der Dienststelle zum 30. Juni des Jahres seiner Erstellung beschreibt und die bisherige Förderung der Beschäftigten in den einzelnen Bereichen für die vergangenen vier Jahre auswertet. Zur Bestandsaufnahme gehört auch eine Darstellung, die zeigt, wie Frauen und Männer die Maßnahmen zur besseren Vereinbarkeit von Familie, Pflege und Berufstätigkeit in Anspruch genommen haben und wie sich ihr beruflicher Aufstieg darstellt im Vergleich zu Frauen und Männern, die solche Maßnahmen nicht in Anspruch genommen haben. Sind die Zielvorgaben des vorherigen Gleichstellungsplans nicht umgesetzt worden, so sind im aktuellen Gleichstellungsplan die Gründe für die Zielverfehlung darzulegen.
 
-(2) Der Gleichstellungsplan legt fest, wie und bis wann Im Gleichstellungsplan sind konkrete Zielvorgaben insbesondere zum Frauen- und Männeranteil für jede einzelne Führungsebene festzulegen. Sofern Zielvorgaben zur Besetzung von Arbeitsplätzen zu entwickeln sind, über deren Besetzung die Dienststelle nicht entscheidet, sind die Vorgaben in Absprache mit der für die Arbeitsplatzbesetzung zuständigen Stelle zu entwickeln.
+(2) Der Gleichstellungsplan legt fest, wie und bis wann
 
-1.
+1. erreicht werden soll, dass die Führungspositionen, in denen Frauen bisher unterrepräsentiert waren, mit annähernd numerischer Gleichheit mit Frauen und Männern besetzt werden, um das Ziel des § 1 Absatz 2 Satz 2 zu erreichen,
 
-2.
+2. die Unterrepräsentanz von Frauen in anderen Bereichen abgebaut werden soll und
 
-3.
+3. die Vereinbarkeit von Familie oder Pflege mit der Berufstätigkeit verbessert werden soll und wie insbesondere Männer motiviert werden sollen, Angebote, die eine solche Vereinbarkeit ermöglichen, stärker in Anspruch zu nehmen.
 
 (3) Der Gleichstellungsplan hat für jede Zielvorgabe konkrete Maßnahmen personeller, sozialer oder organisatorischer Art zur Erreichung der jeweiligen Zielvorgabe zu benennen. Er enthält insbesondere auch Maßnahmen zur Förderung der Vereinbarkeit von Familie, Pflege und Berufstätigkeit.
 
@@ -196,37 +182,31 @@ Die Dienststelle hat den Gleichstellungsplan innerhalb eines Monats nach Beginn 
 
 (2) Kosten für die Betreuung von Kindern oder von pflegebedürftigen Personen können auf Antrag im Einzelfall nach den Absätzen 3 und 4 erstattet werden, wenn
 
-1.
+1. sie zusätzlich anfallen,
 
-2.
+2. sie unabwendbar sind und
 
-3.
+3. eine Erstattung nach anderen Rechtsgrundlagen nicht möglich ist.
 
 (3) Die Kostenerstattung nach Absatz 2 ist für die Dauer folgender Maßnahmen möglich:
 
-1.
+1. bei dienstlich bedingter Abwesenheit vom regelmäßigen Dienstort sowie,
 
-2.
-
-a)
-
-b)
-
-c)
+2. soweit der Dienst oder die Arbeitsleistung am regelmäßigen Dienstort zur Unterstützung der Streitkräfte bei der Bewältigung von Krisenlagen anfällt und nicht innerhalb der vereinbarten regelmäßigen Arbeitszeit liegt, bei a)Ableistung von angeordneter oder genehmigter Mehrarbeit gemäß § 88 des Bundesbeamtengesetzes,b)über die regelmäßige wöchentliche Arbeitszeit hinausgehender angeordneter oder genehmigter Arbeitsleistung sowiec)Ableistung von Schichtdienst. Ableistung von angeordneter oder genehmigter Mehrarbeit gemäß § 88 des Bundesbeamtengesetzes, über die regelmäßige wöchentliche Arbeitszeit hinausgehender angeordneter oder genehmigter Arbeitsleistung sowie Ableistung von Schichtdienst.
 
 (4) Krisenlagen nach Absatz 3 Nummer 2 sind in der Regel
 
-1.
+1. Amtshilfemaßnahmen einschließlich der Unterstützungsleistungen in Katastrophenfällen,
 
-2.
+2. Maßnahmen zur Erhöhung der Einsatzbereitschaft der Bundeswehr,
 
-3.
+3. Maßnahmen zur Gefahrenabwehr,
 
-4.
+4. Maßnahmen zum Schutz von Einrichtungen und von Infrastruktur,
 
-5.
+5. vorbereitende Maßnahmen der Bundeswehr für verbündete Streitkräfte im Rahmen der Landes- und Bündnisverteidigung sowie
 
-6.
+6. Unterstützungsleistungen für verbündete Streitkräfte im Rahmen der Landes- und Bündnisverteidigung.
 
 ### § 16 — Teilzeitbeschäftigung, Telearbeit, mobiles Arbeiten und Beurlaubung zur Wahrnehmung von Familien- oder Pflegeaufgaben
 
@@ -238,15 +218,15 @@ c)
 
 (4) Die Dienststellen müssen Beschäftigte, die einen Antrag auf Teilzeitbeschäftigung, familien- oder pflegefreundliche Arbeitszeitmodelle oder Beurlaubung zur Wahrnehmung von Familien- oder Pflegeaufgaben stellen, frühzeitig in Textform hinweisen auf:
 
-1.
+1. die Folgen einer Bewilligung, insbesondere in beamten-, arbeits-, versorgungs- und rentenrechtlicher Hinsicht, sowie
 
-2.
+2. die Möglichkeit einer Befristung mit Verlängerungsoption und deren Folgen.
 
 (5) Die Dienststellen haben darauf zu achten, dass
 
-1.
+1. Beschäftigte, deren Antrag auf Teilzeitbeschäftigung, familien- oder pflegefreundliche Arbeitszeitmodelle oder Beurlaubung zur Wahrnehmung von Familien- oder Pflegeaufgaben positiv entschieden wurde, eine ihrer ermäßigten Arbeitszeit entsprechende Entlastung von ihren dienstlichen Aufgaben erhalten und
 
-2.
+2. sich aus der ermäßigten Arbeitszeit keine dienstlichen Mehrbelastungen für andere Beschäftigte der Dienststelle ergeben.
 
 (6) Die Vorschriften des Teilzeit- und Befristungsgesetzes zur Teilzeitbeschäftigung sowie sonstige gesetzliche Regelungen zur Teilzeitbeschäftigung oder zur Beurlaubung bleiben von den Absätzen 1 bis 5 unberührt.
 
@@ -254,21 +234,21 @@ c)
 
 (1) Bei Vorliegen der gleichen Qualifikation müssen im Rahmen der Besetzung von Arbeitsplätzen vorrangig berücksichtigt werden:
 
-1.
+1. Teilzeitbeschäftigte mit Familien- oder Pflegeaufgaben, die eine Vollzeitbeschäftigung oder eine Erhöhung ihrer wöchentlichen Arbeitszeit beantragen, sowie
 
-2.
+2. beurlaubte Beschäftigte, die während der Beurlaubung Familien- oder Pflegeaufgaben wahrgenommen haben und eine vorzeitige Rückkehr aus der Beurlaubung beantragen.
 
 (2) Die Dienststellen haben den auf Grund von Familien- oder Pflegeaufgaben beurlaubten Beschäftigten die Verbindung zum Beruf und den beruflichen Wiedereinstieg zu erleichtern. Als Maßnahmen hierfür kommen insbesondere in Betracht:
 
-1.
+1. die Möglichkeit der Teilzeitbeschäftigung nach dem Bundeselterngeld- und Elternzeitgesetz,
 
-2.
+2. die Möglichkeit der Teilzeitbeschäftigung nach dem Teilzeit- und Befristungsgesetz, soweit die Art der Tätigkeit eine Teilzeitbeschäftigung nicht ausschließt,
 
-3.
+3. die rechtzeitige Unterrichtung über Fortbildungsangebote,
 
-4.
+4. das Angebot zur Teilnahme an Fortbildungen während oder nach der Beurlaubung sowie
 
-5.
+5. das Angebot von Urlaubs- und Krankheitsvertretungen.
 
 (3) Die Teilnahme an einer Fortbildung während der Beurlaubung zur Wahrnehmung von Familien- oder Pflegeaufgaben begründet einen Anspruch auf bezahlte Dienst- oder Arbeitsbefreiung nach dem Ende der Beurlaubung. Die Dauer der bezahlten Dienst- oder Arbeitsbefreiung richtet sich nach der Dauer der Fortbildung.
 
@@ -276,17 +256,17 @@ c)
 
 ### § 18 — Verbot von Benachteiligungen
 
-(1) Folgende Umstände dürfen die Einstellung sowie die berufliche Entwicklung einschließlich des beruflichen Aufstiegs nicht beeinträchtigen und sich, sofern die dienstliche Leistung beurteilt wird, nicht nachteilig auf diese Beurteilung auswirken: Dies schließt nicht aus, dass Zeiten nach Satz 1 Nummer 1 anders behandelt werden als Zeiten nach Satz 1 Nummer 4 und 5.
+(1) Folgende Umstände dürfen die Einstellung sowie die berufliche Entwicklung einschließlich des beruflichen Aufstiegs nicht beeinträchtigen und sich, sofern die dienstliche Leistung beurteilt wird, nicht nachteilig auf diese Beurteilung auswirken:
 
-1.
+1. Teilzeitbeschäftigung,
 
-2.
+2. Telearbeit, mobiles Arbeiten sowie die Teilnahme an flexiblen Arbeits- oder Präsenzzeiten,
 
-3.
+3. eine bestehende Schwangerschaft,
 
-4.
+4. schwangerschafts- oder mutterschaftsbedingte Abwesenheiten auf Grund mutterschutzrechtlicher Beschäftigungsverbote,
 
-5.
+5. Beurlaubungen auf Grund von Familien- oder Pflegeaufgaben.
 
 (2) Eine unterschiedliche Behandlung von Teilzeitbeschäftigung im Verhältnis zu Vollzeitbeschäftigung ist nur zulässig, wenn zwingende sachliche Gründe dies rechtfertigen. Dies gilt für Telearbeit, mobiles Arbeiten und Beurlaubungen auf Grund von Familien- oder Pflegeaufgaben mit Ausnahme der Elternzeit entsprechend.
 
@@ -302,21 +282,15 @@ c)
 
 (3) Gewählt werden
 
-1.
+1. in den Dienststellen mit mindestens 100 und höchstens 1 499 Beschäftigten sowie in Dienststellen mit weniger als 100 Beschäftigten, die eine eigene Gleichstellungsbeauftragte wählen, eine Stellvertreterin,
 
-2.
+2. in den Dienststellen mit mindestens 1 500 und höchstens 1 999 Beschäftigten zwei Stellvertreterinnen,
 
-3.
+3. in den Dienststellen mit höchstens 1 999 Beschäftigten und einem großen Zuständigkeits- oder komplexen Aufgabenbereich zwei oder drei Stellvertreterinnen,
 
-4.
+4. in den Verwaltungen mit einem großen Geschäftsbereich, die von der Ausnahmeregelung nach Absatz 2 Gebrauch machen, sowie in Verwaltungen, zu denen Dienststellen mit weniger als 100 Beschäftigten gehören, die keine eigene Gleichstellungsbeauftragte wählen, a)bei insgesamt höchstens 1 499 Beschäftigten in allen Dienststellen, die durch eine Gleichstellungsbeauftragte vertreten werden, eine Stellvertreterin,b)bei insgesamt mindestens 1 500 und höchstens 1 999 Beschäftigten in allen Dienststellen, die durch eine Gleichstellungsbeauftragte vertreten werden, zwei Stellvertreterinnen,c)bei insgesamt mindestens 2 000 Beschäftigten in allen Dienststellen, die durch eine Gleichstellungsbeauftragte vertreten werden, drei Stellvertreterinnen und bei insgesamt höchstens 1 499 Beschäftigten in allen Dienststellen, die durch eine Gleichstellungsbeauftragte vertreten werden, eine Stellvertreterin, bei insgesamt mindestens 1 500 und höchstens 1 999 Beschäftigten in allen Dienststellen, die durch eine Gleichstellungsbeauftragte vertreten werden, zwei Stellvertreterinnen, bei insgesamt mindestens 2 000 Beschäftigten in allen Dienststellen, die durch eine Gleichstellungsbeauftragte vertreten werden, drei Stellvertreterinnen und
 
-a)
-
-b)
-
-c)
-
-5.
+5. in den Dienststellen mit mindestens 2 000 Beschäftigten drei Stellvertreterinnen.
 
 (4) Die Wahl der Gleichstellungsbeauftragten und der jeweiligen Zahl an Stellvertreterinnen findet in getrennten Wahlgängen nach Maßgabe der allgemeinen Wahlrechtsgrundsätze statt. Wahlberechtigt und wählbar sind die weiblichen Beschäftigten der Dienststelle. Die Wiederwahl ist zulässig. Die weiblichen Beschäftigten einer Dienststelle ohne eigene Gleichstellungsbeauftragte sind bei der nächsthöheren Dienststelle wahlberechtigt.
 
@@ -330,7 +304,7 @@ c)
 
 (3) Finden sich für die Wahl der Stellvertreterinnen nicht genügend Kandidatinnen oder sind nach der Wahl nicht genügend Kandidatinnen gewählt, so bestellt die Dienststellenleitung die Stellvertreterinnen auf Vorschlag der Gleichstellungsbeauftragten von Amts wegen ohne weitere Wahl. Hierzu bedarf es der Zustimmung der zu bestellenden Beschäftigten.
 
-(4) Für Dienststellen, in denen nach § 19 Absatz 2 keine eigene Gleichstellungsbeauftragte gewählt wird, und Dienststellen mit weniger als 100 Beschäftigten, die keine eigene Gleichstellungsbeauftragte wählen, sowie für Nebenstellen und Teile einer Dienststelle, die räumlich weit von dem Dienst- oder Arbeitsort der Gleichstellungsbeauftragten entfernt im Inland liegen, muss auf Vorschlag der zuständigen Gleichstellungsbeauftragten eine Vertrauensfrau bestellt werden. Für Nebenstellen und Teile einer Dienststelle, die nicht räumlich weit entfernt liegen, kann die Dienststelle nach pflichtgemäßem Ermessen im Einvernehmen mit der Gleichstellungsbeauftragten eine Vertrauensfrau bestellen. Die Vertrauensfrau muss Beschäftigte der jeweiligen Dienststelle, der Nebenstelle der Dienststelle oder des jeweiligen Dienststellenteils sein. Die Bestellung der Vertrauensfrauen bedarf der Zustimmung der zu bestellenden weiblichen Beschäftigten.
+(4) Für Dienststellen, in denen nach § 19 Absatz 2 keine eigene Gleichstellungsbeauftragte gewählt wird, und Dienststellen mit weniger als 100 Beschäftigten, die keine eigene Gleichstellungsbeauftragte wählen, sowie für Nebenstellen und Teile einer Dienststelle, die räumlich weit von dem Dienst- oder Arbeitsort der Gleichstellungsbeauftragten entfernt im Inland liegen, muss auf Vorschlag der zuständigen Gleichstellungsbeauftragten eine Vertrauensfrau bestellt werden. Für Nebenstellen und Teile einer Dienststelle, die nicht räumlich weit entfernt liegen, kann die Dienststelle nach pflichtgemäßem Ermessen im Einvernehmen mit der Gleichstellungsbeauftragten eine Vertrauensfrau bestellen. Die Vertrauensfrau muss Beschäftigte der jeweiligen Dienststelle, der Nebenstelle der Dienststelle oder des jeweiligen Dienststellenteils sein. Die Bestellung der Vertrauensfrauen bedarf der Zustimmung der zu bestellenden weiblichen Beschäftigten.
 
 (5) Ist nach Absatz 1 oder 3 nur eine Stellvertreterin bestellt worden, so soll die Gleichstellungsbeauftragte für den Fall, dass sie und ihre Stellvertreterin gleichzeitig abwesend sind, eine Beschäftigte als zweite Stellvertreterin vorschlagen. Die Dienststelle bestellt die von der Gleichstellungsbeauftragten vorgeschlagene Beschäftigte zur zweiten Stellvertreterin. Die Bestellung bedarf der Zustimmung der zu bestellenden Beschäftigten.
 
@@ -374,13 +348,13 @@ c)
 
 (2) Zu den Aufgaben der Gleichstellungsbeauftragten zählen insbesondere:
 
-1.
+1. die Dienststelle dabei zu unterstützen, die Ziele dieses Gesetzes zu erreichen und die Erfüllung der allgemeinen Pflichten nach § 4 zu fördern,
 
-2.
+2. bei allen personellen, organisatorischen und sozialen Maßnahmen der Dienststelle mitzuwirken, die die Gleichstellung von Frauen und Männern, die Beseitigung von Unterrepräsentanzen, die Vereinbarkeit von Familie, Pflege und Berufstätigkeit sowie den Schutz vor sexueller Belästigung am Arbeitsplatz betreffen,
 
-3.
+3. einzelne Beschäftigte bei Bedarf zu beraten und zu unterstützen, insbesondere in den Bereichen der beruflichen Entwicklung und Förderung sowie der Vereinbarkeit von Familie, Pflege und Berufstätigkeit sowie in Bezug auf den Schutz vor Benachteiligungen, und
 
-4.
+4. die Fortbildungsangebote nach § 10 Absatz 5 wahrzunehmen.
 
 (3) Die Gleichstellungsbeauftragte kann Sprechstunden durchführen und jährliche Versammlungen der weiblichen Beschäftigten einberufen. Sie unterrichtet die Dienststellenleitung im Vorfeld über die Einberufung einer Versammlung nach Satz 1. Die Gleichstellungsbeauftragte kann an Personalversammlungen teilnehmen und hat dort ein Rederecht.
 
@@ -408,25 +382,15 @@ c)
 
 (1) Die Dienststelle beteiligt die Gleichstellungsbeauftragten frühzeitig, insbesondere bei
 
-1.
+1. personellen Angelegenheiten; dies betrifft die Vorbereitung und Entscheidung über a)die Vergabe von Ausbildungsplätzen,b)die Einstellung und die Versetzung sowie die Abordnung und Umsetzung von Beschäftigten für jeweils mehr als drei Monate,c)die Fortbildung und den beruflichen Aufstieg von Beschäftigten,d)die Abmahnung, die Einleitung und den Abschluss eines Disziplinarverfahrens einschließlich der vorläufigen Dienstenthebung,e)Kündigung sowie Aufhebungsvertrag, Entlassung, Versetzung in den Ruhestand und vergleichbare Entscheidungen, die Vergabe von Ausbildungsplätzen, die Einstellung und die Versetzung sowie die Abordnung und Umsetzung von Beschäftigten für jeweils mehr als drei Monate, die Fortbildung und den beruflichen Aufstieg von Beschäftigten, die Abmahnung, die Einleitung und den Abschluss eines Disziplinarverfahrens einschließlich der vorläufigen Dienstenthebung, Kündigung sowie Aufhebungsvertrag, Entlassung, Versetzung in den Ruhestand und vergleichbare Entscheidungen,
 
-a)
+2. organisatorischen und sozialen Angelegenheiten,
 
-b)
+3. der Abfassung von Beurteilungsrichtlinien sowie bei Besprechungen, die die einheitliche Anwendung dieser Richtlinien in der Dienststelle sicherstellen sollen,
 
-c)
+4. Verfahren zur Besetzung von Gremien nach Maßgabe des Bundesgremienbesetzungsgesetzes, sofern keine Organisationseinheit zur Gleichstellung von Frauen und Männern in der Dienststelle eingerichtet ist, sowie
 
-d)
-
-e)
-
-2.
-
-3.
-
-4.
-
-5.
+5. der Erstellung des Gleichstellungsplans.
 
 (2) Eine frühzeitige Beteiligung nach Absatz 1 liegt vor, wenn die Gleichstellungsbeauftragte mit Beginn des Entscheidungsprozesses auf Seiten der Dienststelle beteiligt wird und die jeweilige Entscheidung oder Maßnahme noch gestaltungsfähig ist.
 
@@ -442,43 +406,19 @@ e)
 
 (4) Vor Kündigung, Versetzung und Abordnung ist die Gleichstellungsbeauftragte wie ein Mitglied der Personalvertretung geschützt.
 
-(5) Wird eine Stellvertreterin im Vertretungsfall tätig, so ist sie mit Beginn der Vertretungstätigkeit in dem Ausmaß ihrer Tätigkeit als Stellvertreterin von anderweitigen Tätigkeiten zu entlasten. Üben Stellvertreterinnen Aufgaben zur eigenständigen Erledigung aus, so werden sie von ihren anderweitigen Tätigkeiten wie folgt entlastet: Satz 2 Nummer 1 bis 4 gilt in den Verwaltungen mit einem großen Geschäftsbereich, die von der Ausnahmeregelung nach § 19 Absatz 2 Gebrauch machen, sowie in Verwaltungen, zu denen Dienststellen mit weniger als 100 Beschäftigten gehören, die keine eigene Gleichstellungsbeauftragte wählen, hinsichtlich der Gesamtzahl der im Zuständigkeitsbereich der Gleichstellungsbeauftragten tätigen Beschäftigten entsprechend. Der Umfang der Entlastung der einzelnen Stellvertreterinnen nach den Sätzen 2 und 3 darf nicht auf die Entlastung der Gleichstellungsbeauftragten angerechnet werden.
+(5) Wird eine Stellvertreterin im Vertretungsfall tätig, so ist sie mit Beginn der Vertretungstätigkeit in dem Ausmaß ihrer Tätigkeit als Stellvertreterin von anderweitigen Tätigkeiten zu entlasten. Üben Stellvertreterinnen Aufgaben zur eigenständigen Erledigung aus, so werden sie von ihren anderweitigen Tätigkeiten wie folgt entlastet:
 
-1.
+1. in Dienststellen mit höchstens 1 499 Beschäftigten und nur einer nach § 20 Absatz 1 oder 3 bestellten Stellvertreterin im Umfang von bis zu einem Viertel der regelmäßigen Arbeitszeit einer Vollzeitkraft,
 
-2.
+2. in Dienststellen mit mindestens 1 500 und höchstens 1 999 Beschäftigten für eine der beiden Stellvertreterinnen im Umfang von bis zur Hälfte der regelmäßigen Arbeitszeit einer Vollzeitkraft,
 
-3.
+3. in Dienststellen mit mindestens 2 000 und höchstens 2 499 Beschäftigten a)für zwei Stellvertreterinnen jeweils im Umfang der Hälfte der regelmäßigen Arbeitszeit einer Vollzeitkraft oderb)für eine Stellvertreterin im Umfang der Regelarbeitszeit einer Vollzeitkraft, für zwei Stellvertreterinnen jeweils im Umfang der Hälfte der regelmäßigen Arbeitszeit einer Vollzeitkraft oder für eine Stellvertreterin im Umfang der Regelarbeitszeit einer Vollzeitkraft,
 
-a)
+4. in Dienststellen mit mindestens 2 500 Beschäftigten a)für alle drei Stellvertreterinnen jeweils im Umfang der Hälfte der regelmäßigen Arbeitszeit einer Vollzeitkraft oderb)für eine Stellvertreterin im Umfang der regelmäßigen Arbeitszeit einer Vollzeitkraft und für eine weitere Stellvertreterin im Umfang der Hälfte der regelmäßigen Arbeitszeit einer Vollzeitkraft, für alle drei Stellvertreterinnen jeweils im Umfang der Hälfte der regelmäßigen Arbeitszeit einer Vollzeitkraft oder für eine Stellvertreterin im Umfang der regelmäßigen Arbeitszeit einer Vollzeitkraft und für eine weitere Stellvertreterin im Umfang der Hälfte der regelmäßigen Arbeitszeit einer Vollzeitkraft,
 
-b)
+5. in denjenigen Dienststellen mit höchstens 1 999 Beschäftigten, die einen großen Zuständigkeitsbereich oder einen komplexen Aufgabenbereich haben, a)bei zwei Stellvertreterinnen aa)für beide Stellvertreterinnen jeweils im Umfang der Hälfte der regelmäßigen Arbeitszeit einer Vollzeitkraft oderbb)für eine der beiden Stellvertreterinnen im Umfang der Regelarbeitszeit einer Vollzeitkraft,b)bei drei Stellvertreterinnen aa)für alle drei Stellvertreterinnen jeweils im Umfang der Hälfte der regelmäßigen Arbeitszeit einer Vollzeitkraft oderbb)für eine Stellvertreterin im Umfang der regelmäßigen Arbeitszeit einer Vollzeitkraft und für eine weitere Stellvertreterin im Umfang der Hälfte der regelmäßigen Arbeitszeit einer Vollzeitkraft, bei zwei Stellvertreterinnen aa)für beide Stellvertreterinnen jeweils im Umfang der Hälfte der regelmäßigen Arbeitszeit einer Vollzeitkraft oderbb)für eine der beiden Stellvertreterinnen im Umfang der Regelarbeitszeit einer Vollzeitkraft, für beide Stellvertreterinnen jeweils im Umfang der Hälfte der regelmäßigen Arbeitszeit einer Vollzeitkraft oder für eine der beiden Stellvertreterinnen im Umfang der Regelarbeitszeit einer Vollzeitkraft, bei drei Stellvertreterinnen aa)für alle drei Stellvertreterinnen jeweils im Umfang der Hälfte der regelmäßigen Arbeitszeit einer Vollzeitkraft oderbb)für eine Stellvertreterin im Umfang der regelmäßigen Arbeitszeit einer Vollzeitkraft und für eine weitere Stellvertreterin im Umfang der Hälfte der regelmäßigen Arbeitszeit einer Vollzeitkraft, für alle drei Stellvertreterinnen jeweils im Umfang der Hälfte der regelmäßigen Arbeitszeit einer Vollzeitkraft oder für eine Stellvertreterin im Umfang der regelmäßigen Arbeitszeit einer Vollzeitkraft und für eine weitere Stellvertreterin im Umfang der Hälfte der regelmäßigen Arbeitszeit einer Vollzeitkraft,
 
-4.
-
-a)
-
-b)
-
-5.
-
-a)
-
-aa)
-
-bb)
-
-b)
-
-aa)
-
-bb)
-
-6.
-
-a)
-
-b)
+6. in denjenigen Dienststellen mit mindestens 2 000 und höchstens 2 499 Beschäftigten, die einen großen Zuständigkeitsbereich oder einen komplexen Aufgabenbereich haben, a)für alle drei Stellvertreterinnen jeweils im Umfang der Hälfte der regelmäßigen Arbeitszeit einer Vollzeitkraft oderb)für eine Stellvertreterin im Umfang der regelmäßigen Arbeitszeit einer Vollzeitkraft und für eine weitere Stellvertreterin im Umfang der Hälfte der regelmäßigen Arbeitszeit einer Vollzeitkraft. für alle drei Stellvertreterinnen jeweils im Umfang der Hälfte der regelmäßigen Arbeitszeit einer Vollzeitkraft oder für eine Stellvertreterin im Umfang der regelmäßigen Arbeitszeit einer Vollzeitkraft und für eine weitere Stellvertreterin im Umfang der Hälfte der regelmäßigen Arbeitszeit einer Vollzeitkraft.
 
 (6) Vertrauensfrauen werden von anderweitigen Tätigkeiten in dem Ausmaß entlastet, wie dies zur ordnungsgemäßen Wahrnehmung ihrer Aufgaben als Informationsvermittlerin erforderlich ist. Die Entlastung beträgt mindestens ein Zehntel und bis zu einem Viertel der regelmäßigen Arbeitszeit einer Vollzeitkraft.
 
@@ -486,7 +426,7 @@ b)
 
 (1) Der Gleichstellungsbeauftragten ist mit Beginn und bis zum Ende ihrer Amtszeit die notwendige personelle, räumliche und sachliche Ausstattung zur Verfügung zu stellen.
 
-(2) Bei einer Beschäftigtenzahl von in der Regel weniger als 1 000 kann der Gleichstellungsbeauftragten eine Mitarbeiterin oder ein Mitarbeiter zugeordnet werden. In einer Dienststelle mit in der Regel mindestens 1 000 Beschäftigten ist der Gleichstellungsbeauftragten mindestens eine Mitarbeiterin oder ein Mitarbeiter zuzuordnen.
+(2) Bei einer Beschäftigtenzahl von in der Regel weniger als 1 000 kann der Gleichstellungsbeauftragten eine Mitarbeiterin oder ein Mitarbeiter zugeordnet werden. In einer Dienststelle mit in der Regel mindestens 1 000 Beschäftigten ist der Gleichstellungsbeauftragten mindestens eine Mitarbeiterin oder ein Mitarbeiter zuzuordnen.
 
 (3) Die Aufgabe der Mitarbeiterinnen und Mitarbeiter beschränkt sich auf die Unterstützung der Gleichstellungsbeauftragten. § 26 Absatz 5 Satz 3 gilt entsprechend.
 
@@ -520,17 +460,17 @@ Die Gleichstellungsbeauftragte und ihre Stellvertreterinnen, die Mitarbeiterinne
 
 (1) Die Gleichstellungsbeauftragte hat ein Einspruchsrecht gegenüber der Dienststellenleitung, wenn sie geltend macht, die Dienststelle habe
 
-1.
+1. entgegen § 12 Absatz 1 einen Gleichstellungsplan nicht erstellt oder die Frist nach § 12 Absatz 2 erheblich verletzt,
 
-2.
+2. einen Gleichstellungsplan erstellt, der nicht den Vorgaben des § 13 entspricht,
 
-3.
+3. entgegen § 27 Absatz 1 Nummer 5 die Gleichstellungsbeauftragte bei der Erstellung des Gleichstellungsplans nicht beteiligt,
 
-4.
+4. entgegen § 14 den Gleichstellungsplan nicht bekannt gegeben,
 
-5.
+5. Rechte der Gleichstellungsbeauftragten verletzt oder
 
-6.
+6. gegen weitere Vorschriften dieses Gesetzes oder gegen andere Vorschriften über die Gleichstellung von Frauen und Männern verstoßen.
 
 (2) Der Einspruch ist innerhalb einer Woche ab Zugang der Begründung gemäß § 32 Absatz 3 Satz 3 in Textform bei der Dienststellenleitung einzulegen. Er hat aufschiebende Wirkung. § 80 Absatz 2 Satz 1 Nummer 4 und Absatz 3 der Verwaltungsgerichtsordnung gilt entsprechend. Im Falle der sofortigen Vollziehung unterrichtet die Dienststellenleitung die Gleichstellungsbeauftragte unverzüglich.
 
@@ -546,9 +486,9 @@ Die Gleichstellungsbeauftragte und ihre Stellvertreterinnen, die Mitarbeiterinne
 
 (2) Die Anrufung des Gerichts kann nur darauf gestützt werden, dass die Dienststelle
 
-1.
+1. Rechte der Gleichstellungsbeauftragten verletzt hat oder
 
-2.
+2. einen Gleichstellungsplan erstellt hat, der nicht den Vorgaben der §§ 12 bis 14 entspricht.
 
 (3) Abweichend von Absatz 1 Satz 3 ist die Anrufung des Gerichts auch zulässig, wenn über den Einspruch ohne zureichenden Grund in angemessener Frist sachlich nicht entschieden worden ist. § 75 Satz 2 bis 4 der Verwaltungsgerichtsordnung gilt entsprechend.
 
@@ -570,65 +510,61 @@ Die Gleichstellungsbeauftragten der obersten Bundesbehörden bilden zusammen den
 
 Für den Bundesnachrichtendienst gilt dieses Gesetz mit folgenden Abweichungen:
 
-1.
+1. der Bundesnachrichtendienst gilt als einheitliche Dienststelle, in der keine Vertrauensfrauen bestellt werden,
 
-2.
+2. § 6 Absatz 2 Satz 2 ist nicht anzuwenden,
 
-3.
+3. § 14 gilt nicht; die Beschäftigten des Bundesnachrichtendienstes sind berechtigt, den Gleichstellungsplan bei den von der Personalverwaltung bezeichneten Stellen einzusehen,
 
-4.
+4. beim Bundesnachrichtendienst beschäftigte Soldatinnen sind gemäß § 19 Absatz 4 Satz 2 wahlberechtigt und wählbar,
 
-5.
+5. beim Bundesnachrichtendienst tätiges militärisches Personal gilt hinsichtlich der Zuständigkeit der dort bestellten Gleichstellungsbeauftragten als beim Bundesnachrichtendienst beschäftigt, soweit dessen Leitung oder das Bundeskanzleramt für die Entscheidung in personellen, sozialen oder organisatorischen Angelegenheiten dieses Personenkreises zuständig ist,
 
-6.
+6. beim Informations- und Erfahrungsaustausch der Gleichstellungsbeauftragten gemäß § 25 Absatz 5 sind die für den Bundesnachrichtendienst geltenden Sicherheitsbestimmungen zu beachten,
 
-7.
+7. ein Votum der Gleichstellungsbeauftragten des Bundesnachrichtendienstes, das diese gemäß den §§ 25, 27 und 32 abgegeben hat, ist dem Bundeskanzleramt vorzulegen, soweit im Bundeskanzleramt Entscheidungen für den Bundesnachrichtendienst getroffen werden und die Gleichstellungsbeauftragte des Bundeskanzleramtes insoweit nicht zu beteiligen ist,
 
-8.
+8. § 32 Absatz 4 und § 38 Absatz 1 Satz 5 sind nicht anzuwenden,
 
-9.
+9. die Gleichstellungsbeauftragte bedarf des Einvernehmens der Dienststelle, soweit im Falle des § 35 eine Angelegenheit behandelt werden soll, die als Verschlusssache eingestuft ist,
 
-10.
+10. bei Vorliegen besonderer Sicherheitsvorfälle oder einer besonderen Einsatzsituation, von der der Bundesnachrichtendienst ganz oder teilweise betroffen ist, ruhen die Rechte und Pflichten der Gleichstellungsbeauftragten; Beginn und Ende des Ruhens werden jeweils von der Leitung des Bundesnachrichtendienstes im Einvernehmen mit der Chefin oder dem Chef des Bundeskanzleramtes festgestellt.
 
 ### § 38 — Statistik, Verordnungsermächtigung
 
-(1) Jede Dienststelle erfasst alle zwei Jahre die Zahl aller in der Dienststelle beschäftigten Frauen und Männer sowie die Zahl der Frauen und Männer nach den folgenden weiteren Kriterien: Die Daten nach Satz 1 Nummer 1 bis 3 und 6 sind zum 30. Juni des Berichtsjahres zu erfassen. Die Daten nach Satz 1 Nummer 4, 5 und 7 sind für den Zeitraum vom 1. Juli des vorletzten Jahres bis zum 30. Juni des Berichtsjahres zu erfassen. Die Sätze 1 bis 3 finden unter Beachtung der datenschutzrechtlichen Vorgaben auf Beschäftigte mit dem Geschlechtseintrag „divers“ oder „keine Angabe“ entsprechende Anwendung, soweit Informationen dazu vorliegen. Die Daten der nachgeordneten Bundesbehörden sowie des mittelbaren Bundesdienstes sind bis zum 30. September der obersten Bundesbehörde oder der obersten Aufsichtsbehörde zu melden. Die obersten Bundesbehörden melden dem Statistischen Bundesamt bis zum 31. Dezember ihre eigenen Daten, die zusammengefassten Daten des jeweiligen Geschäftsbereichs sowie die zusammengefassten Daten der ihrer Rechtsaufsicht unterstehenden mittelbaren Bundesverwaltung. Bei der Zusammenfassung sind die Gruppen Körperschaften, Anstalten und Stiftungen, bei Körperschaften der Sozialversicherung die Zweige der Sozialversicherung voneinander zu trennen.
+(1) Jede Dienststelle erfasst alle zwei Jahre die Zahl aller in der Dienststelle beschäftigten Frauen und Männer sowie die Zahl der Frauen und Männer nach den folgenden weiteren Kriterien:
 
-1.
+1. einzelne Bereiche, dabei Ebenen mit Führungspositionen ab Ebene der Referatsleitung,
 
-2.
+2. Voll- und Teilzeitbeschäftigung,
 
-3.
+3. Inanspruchnahme einer Beurlaubung auf Grund von Familien- oder Pflegeaufgaben,
 
-4.
+4. Bewerbung, Einstellung sowie beruflicher Aufstieg,
 
-5.
+5. beruflicher Aufstieg von a)Beschäftigten, die eine Beurlaubung auf Grund von Familien- oder Pflegeaufgaben in Anspruch genommen haben, undb)Beschäftigten, die eine solche Beurlaubung nicht in Anspruch genommen haben, Beschäftigten, die eine Beurlaubung auf Grund von Familien- oder Pflegeaufgaben in Anspruch genommen haben, und Beschäftigten, die eine solche Beurlaubung nicht in Anspruch genommen haben,
 
-a)
+6. die Zahl von Beschäftigten in Führungspositionen ab Ebene der Referatsleitung in Voll- und Teilzeitbeschäftigung sowie
 
-b)
+7. Beurteilungsergebnisse von Regelbeurteilungen im höheren Dienst in den in § 3 Nummer 5 Buchstabe a und b genannten Dienststellen.
 
-6.
+(2) Jede oberste Bundesbehörde erfasst jährlich die Zahl aller in der obersten Bundesbehörde beschäftigten Frauen und Männer sowie die Zahl der Frauen und Männer nach folgenden weiteren Kriterien:
 
-7.
+1. Laufbahngruppe des höheren Dienstes,
 
-(2) Jede oberste Bundesbehörde erfasst jährlich die Zahl aller in der obersten Bundesbehörde beschäftigten Frauen und Männer sowie die Zahl der Frauen und Männer nach folgenden weiteren Kriterien: Soweit hierüber Informationen vorliegen, wird unter Beachtung der datenschutzrechtlichen Vorgaben auch die jeweilige Zahl der Beschäftigten mit dem Geschlechtseintrag „divers“ oder „keine Angabe“ erfasst. Die Daten nach Satz 1 Nummer 1 bis 4 sind zum 30. Juni des Berichtsjahres zu erfassen, die Daten nach Satz 1 Nummer 5 für den Zeitraum vom 1. Juli des Vorjahres bis zum 30. Juni des Berichtsjahres. Die Meldung an das Statistische Bundesamt hat bis zum 30. September zu erfolgen.
+2. einzelne Ebenen mit Führungspositionen ab Ebene der Referatsleitung einschließlich der politischen Leitungsämter,
 
-1.
+3. Voll- und Teilzeitbeschäftigung, auch für Beschäftigte in Führungspositionen ab Ebene der Referatsleitung,
 
-2.
+4. Inanspruchnahme einer Beurlaubung auf Grund von Familien- oder Pflegeaufgaben,
 
-3.
-
-4.
-
-5.
+5. beruflicher Aufstieg.
 
 (3) Das Statistische Bundesamt erstellt im Auftrag des Bundesministeriums für Familie, Senioren, Frauen und Jugend
 
-1.
+1. alle zwei Jahre eine Gleichstellungsstatistik zu den nach Absatz 1 erhobenen Daten der Dienststellen und leitet die Gleichstellungsstatistik den obersten Bundesbehörden zu und
 
-2.
+2. jährlich einen Gleichstellungsindex aus den nach Absatz 2 erhobenen Daten der obersten Bundesbehörden und veröffentlicht den Gleichstellungsindex jeweils bis zum 31. Dezember.
 
 (4) Die Bundesregierung regelt durch Rechtsverordnung ohne Zustimmung des Bundesrates die einzelnen Vorgaben für die Erfassung und Mitteilung der statistischen Daten. Die Rechtsverordnung nach Satz 1 beschränkt den Kreis der mitteilungspflichtigen Dienststellen auf das Notwendige. In der Rechtsverordnung können auch Bestimmungen zu Inhalt, Ausarbeitung und zur jährlichen Aktualisierung der Anlagen zur Rechtsverordnung getroffen werden.
 
@@ -636,13 +572,13 @@ b)
 
 ### § 39 — Bericht
 
-(1) Die Bundesregierung legt dem Deutschen Bundestag alle vier Jahre einen Bericht vor. Der Bericht legt dar, Zudem weist er vorbildhafte Gleichstellungsmaßnahmen einzelner Dienststellen aus.
+(1) Die Bundesregierung legt dem Deutschen Bundestag alle vier Jahre einen Bericht vor. Der Bericht legt dar,
 
-1.
+1. wie sich in den letzten vier Jahren die Situation für Personen der einzelnen Geschlechter in den Dienststellen entwickelt hat,
 
-2.
+2. inwieweit die Ziele dieses Gesetzes erreicht sind und
 
-3.
+3. wie dieses Gesetz angewendet worden ist.
 
 (2) Grundlage des Gleichstellungsberichts sind die nach § 38 Absatz 1 und 2 erfassten Daten. Die obersten Bundesbehörden haben durch die Bereitstellung der erforderlichen Angaben bei der Erstellung des Gleichstellungsberichts mitzuwirken.
 

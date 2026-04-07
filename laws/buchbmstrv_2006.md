@@ -16,13 +16,13 @@ Auf Grund des § 51a Abs. 2 in Verbindung mit Abs. 1 der Handwerksordnung in der
 
 Die Meisterprüfung im zulassungsfreien Buchbinder-Handwerk umfasst folgende selbständige Prüfungsteile:
 
-1.
+1. die Prüfung der meisterhaften Verrichtung der Tätigkeiten (Teil I),
 
-2.
+2. die Prüfung der besonderen fachtheoretischen Kenntnisse (Teil II),
 
-3.
+3. die Prüfung der besonderen betriebswirtschaftlichen, kaufmännischen und rechtlichen Kenntnisse (Teil III) und
 
-4.
+4. die Prüfung der erforderlichen berufs- und arbeitspädagogischen Kenntnisse (Teil IV).
 
 ### § 2 — Meisterprüfungsberufsbild
 
@@ -30,39 +30,39 @@ Die Meisterprüfung im zulassungsfreien Buchbinder-Handwerk umfasst folgende sel
 
 (2) Im Buchbinder-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeiten und Kenntnisse als ganzheitliche Qualifikationen zu berücksichtigen:
 
-1.
+1. Kundenwünsche ermitteln, Kunden beraten, Serviceleistungen anbieten, Auftragsverhandlungen führen und Auftragsziele festlegen, Leistungen kalkulieren und Angebote erstellen, Verträge schließen,
 
-2.
+2. Aufgaben der technischen, kaufmännischen und personalwirtschaftlichen Betriebsführung wahrnehmen, insbesondere unter Berücksichtigung der Betriebsorganisation, der betrieblichen Aus- und Weiterbildung, des Qualitätsmanagements, der Haftungsvorschriften des Arbeitsschutzrechtes, des Datenschutzes, des Umweltschutzes sowie von Informations- und Kommunikationstechniken,
 
-3.
+3. Auftragsabwicklungsprozesse planen, organisieren, durchführen und überwachen,
 
-4.
+4. Aufträge durchführen, insbesondere unter Berücksichtigung von Fertigungs-, Veredelungs- und Instandsetzungstechniken sowie Gestaltungsaspekten, berufsbezogenen rechtlichen Vorschriften, technischen Normen und der allgemein anerkannten Regeln der Technik, Personal, Material und Geräten sowie Einsatzmöglichkeiten von Auszubildenden,
 
-5.
+5. Unteraufträge vergeben und kontrollieren,
 
-6.
+6. Konzepte für Betriebs- und Lagerausstattung sowie für logistische Prozesse entwickeln und umsetzen,
 
-7.
+7. Arbeitspläne, Skizzen und Zeichnungen unter Berücksichtigung arbeitstechnischer, werkstoffspezifischer, gestalterischer und historischer Gesichtspunkte, auch unter Einsatz von rechnergestützten Systemen, erstellen,
 
-8.
+8. Arten und Eigenschaften zu verarbeitender Werk-, Hilfs- und Betriebsstoffe, insbesondere von Papier, Karton, Pappe, Kunststoffen, Folien, Geweben, Klebstoffen, Leder und Pergament, bei der Planung, Konstruktion, Fertigung und Instandsetzung von Produkten der Buchbinderei berücksichtigen,
 
-9.
+9. Daten für die Produkterstellung ermitteln, aufbereiten und anwenden,
 
-10.
+10. manuelle und maschinelle Be- und Verarbeitungsverfahren, insbesondere unter Berücksichtigung von elektronischen, elektrotechnischen und mechanischen Steuerungs-, Füge- und Trenntechniken, beherrschen,
 
-11.
+11. Maschinen, Geräte und Werkzeuge, insbesondere Schneide-, Falz-, Heft-, Rill-, Ritz- und Stanzmaschinen sowie Pressen einrichten und auftragsbezogen einsetzen,
 
-12.
+12. Bücher, Behältnisse und Bildeinrahmungen unter Berücksichtigung kreativer Aspekte, insbesondere der Farben- und Formenlehre sowie der Stilkunde und historischer Techniken, entwerfen, herstellen und instand setzen; Druckerzeugnisse weiterverarbeiten,
 
-13.
+13. Leistungen abnehmen und dokumentieren sowie Nachkalkulation durchführen.
 
 ### § 3 — Gliederung des Teils I
 
 Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
-1.
+1. ein Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch,
 
-2.
+2. eine Situationsaufgabe.
 
 ### § 4 — Meisterprüfungsprojekt
 
@@ -72,13 +72,13 @@ Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
 (3) Als Meisterprüfungsprojekt ist ein Produkt der Buchbinderei zu entwerfen, zu planen und zu kalkulieren. Auf dieser Grundlage ist eine der folgenden Arbeiten durchzuführen und zu dokumentieren:
 
-1.
+1. eine Einzelanfertigung oder
 
-2.
+2. eine Musterentwicklung oder
 
-3.
+3. eine maschinell gefertigte Buchbindearbeit oder
 
-4.
+4. eine Instandsetzung.
 
 (4) Für die Arbeiten nach Absatz 3 Nr. 1, 2 und 3 werden die Entwurfs-, Planungs- und Kalkulationsunterlagen mit 30 vom Hundert, die durchgeführten Arbeiten mit 60 vom Hundert und die Dokumentationsunterlagen mit 10 vom Hundert gewichtet. Für die Arbeit nach Absatz 3 Nr. 4 werden die Entwurfs-, Planungs- und Kalkulationsunterlagen mit 20 vom Hundert, die durchgeführten Arbeiten mit 50 vom Hundert und die Dokumentationsunterlagen mit 30 vom Hundert gewichtet.
 
@@ -92,17 +92,17 @@ Nach Durchführung des Meisterprüfungsprojekts ist hierüber das Fachgespräch 
 
 (2) Als Situationsaufgabe sind für einen vom Meisterprüfungsausschuss vorgegebenen Kundenauftrag drei unterschiedliche Maschinen einzurichten und jeweils ein Probelauf mit Musterfertigung auszuführen. Dafür kommen insbesondere in Betracht:
 
-1.
+1. Planschneidemaschine,
 
-2.
+2. Falzmaschine,
 
-3.
+3. Buchfadenheftmaschine,
 
-4.
+4. Drahtheftmaschine oder Sammelhefter,
 
-5.
+5. Prägepresse,
 
-6.
+6. Rill-, Ritz- oder Stanzmaschine.
 
 (3) Die Gesamtbewertung der Situationsaufgabe wird aus dem arithmetischen Mittel der Einzelbewertungen nach Absatz 2 gebildet.
 
@@ -120,67 +120,19 @@ Nach Durchführung des Meisterprüfungsprojekts ist hierüber das Fachgespräch 
 
 (2) Handlungsfelder sind:
 
-1.
+1. Buchbindetechnik,
 
-2.
+2. Auftragsabwicklung,
 
-3.
+3. Betriebsführung und Betriebsorganisation.
 
 (3) In jedem Handlungsfeld ist mindestens eine Aufgabe zu bearbeiten, die fallorientiert sein muss:
 
-1.
+1. Buchbindetechnik Der Prüfling soll nachweisen, dass er in der Lage ist, buchbindetechnische Aufgaben unter Berücksichtigung wirtschaftlicher, gestalterischer, historischer und ökologischer Aspekte in einem Buchbinderbetrieb zu bearbeiten. Dabei soll er berufsbezogene Sachverhalte analysieren und bewerten. Bei der jeweiligen Aufgabenstellung sollen mehrere der unter Buchstabe a bis h aufgeführten Qualifikationen verknüpft werden:a)Arten und Eigenschaften von Werk-, Hilfs- und Betriebsstoffen beurteilen, Verwendungszwecken zuordnen und berechnen,b)Probleme der Materialbe- und -verarbeitung beschreiben, Lösungen erarbeiten, bewerten und korrigieren,c)Funktionsweise und Eigenschaften von Maschinen, Geräten und Werkzeugen beschreiben und bewerten,d)Steuerungs-, Füge- und Trenntechniken beschreiben und bewerten,e)Möglichkeiten der Ausstattung und Gestaltung, insbesondere Prägen und Handvergolden sowie das Fertigen von Farb- und Metallschnitten, von Reliefs, Lederintarsien und Buntpapieren beschreiben und bewerten,f)stilistische und historische Entwicklung von Material, Druck- und Bindetechniken darstellen und bewerten,g)Herstellungstechniken der Einzel- und Serienfertigung beschreiben,h)Printmediengestaltung und Druckverfahren beschreiben und bewerten; Arten und Eigenschaften von Werk-, Hilfs- und Betriebsstoffen beurteilen, Verwendungszwecken zuordnen und berechnen, Probleme der Materialbe- und -verarbeitung beschreiben, Lösungen erarbeiten, bewerten und korrigieren, Funktionsweise und Eigenschaften von Maschinen, Geräten und Werkzeugen beschreiben und bewerten, Steuerungs-, Füge- und Trenntechniken beschreiben und bewerten, Möglichkeiten der Ausstattung und Gestaltung, insbesondere Prägen und Handvergolden sowie das Fertigen von Farb- und Metallschnitten, von Reliefs, Lederintarsien und Buntpapieren beschreiben und bewerten, stilistische und historische Entwicklung von Material, Druck- und Bindetechniken darstellen und bewerten, Herstellungstechniken der Einzel- und Serienfertigung beschreiben, Printmediengestaltung und Druckverfahren beschreiben und bewerten;
 
-a)
+2. Auftragsabwicklung Der Prüfling soll nachweisen, dass er in der Lage ist, Auftragsabwicklungsprozesse, auch unter Anwendung branchenüblicher Software, erfolgs-, kunden- und qualitätsorientiert zu planen, deren Durchführung zu kontrollieren und sie abzuschließen. Bei der jeweiligen Aufgabenstellung sollen mehrere der unter Buchstabe a bis h aufgeführten Qualifikationen verknüpft werden:a)Möglichkeiten der Auftragsbeschaffung darstellen,b)Angebotsunterlagen erstellen und Angebote auswerten, Angebotskalkulation durchführen,c)Methoden und Verfahren der Arbeitsplanung und -organisation unter Berücksichtigung von Fertigungs-, Veredelungs- und Instandsetzungstechniken sowie Gestaltungsaspekten, des Einsatzes von Material, Geräten und Personal bewerten, dabei qualitätssichernde Aspekte darstellen sowie Schnittstellen zwischen Arbeitsbereichen berücksichtigen,d)berufsbezogene rechtliche Vorschriften und technische Normen sowie allgemein anerkannte Regeln der Technik anwenden, insbesondere Haftung bei der Fertigung, Instandsetzung und bei Serviceleistungen beurteilen,e)Arbeitspläne, Skizzen und Zeichnungen erarbeiten sowie vorgegebene Arbeitspläne, Skizzen und Zeichnungen bewerten und korrigieren,f)auftragsbezogenen Einsatz von Material, Maschinen und Geräten bestimmen und begründen,g)Unteraufträge vergeben und kontrollieren,h)Vor- und Nachkalkulation durchführen; Möglichkeiten der Auftragsbeschaffung darstellen, Angebotsunterlagen erstellen und Angebote auswerten, Angebotskalkulation durchführen, Methoden und Verfahren der Arbeitsplanung und -organisation unter Berücksichtigung von Fertigungs-, Veredelungs- und Instandsetzungstechniken sowie Gestaltungsaspekten, des Einsatzes von Material, Geräten und Personal bewerten, dabei qualitätssichernde Aspekte darstellen sowie Schnittstellen zwischen Arbeitsbereichen berücksichtigen, berufsbezogene rechtliche Vorschriften und technische Normen sowie allgemein anerkannte Regeln der Technik anwenden, insbesondere Haftung bei der Fertigung, Instandsetzung und bei Serviceleistungen beurteilen, Arbeitspläne, Skizzen und Zeichnungen erarbeiten sowie vorgegebene Arbeitspläne, Skizzen und Zeichnungen bewerten und korrigieren, auftragsbezogenen Einsatz von Material, Maschinen und Geräten bestimmen und begründen, Unteraufträge vergeben und kontrollieren, Vor- und Nachkalkulation durchführen;
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
+3. Betriebsführung und Betriebsorganisation Der Prüfling soll nachweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und Betriebsorganisation unter Berücksichtigung der rechtlichen Vorschriften, auch unter Anwendung von Informations- und Kommunikationssystemen, wahrzunehmen. Bei der jeweiligen Aufgabenstellung sollen mehrere der unter Buchstabe a bis h aufgeführten Qualifikationen verknüpft werden:a)betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen,b)betriebliche Kostenstrukturen überprüfen; betriebliche Kennzahlen ermitteln,c)Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden vor dem Hintergrund technischer und wirtschaftlicher Entwicklungen erarbeiten,d)betriebliches Qualitätsmanagement planen und darstellen,e)Aufgaben der Personalverwaltung wahrnehmen; den Zusammenhang zwischen Personalverwaltung sowie Personalführung und -entwicklung darstellen,f)betriebsspezifische Maßnahmen zur Einhaltung der arbeitsschutzrechtlichen Bestimmungen und des Umweltschutzes entwickeln; Gefahrenpotenziale beurteilen und Maßnahmen zur Gefahrenvermeidung und -beseitigung festlegen,g)Betriebs- und Lagerausstattung sowie logistische Prozesse planen und darstellen,h)Chancen und Risiken betrieblicher Kooperation darstellen und beurteilen. betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen, betriebliche Kostenstrukturen überprüfen; betriebliche Kennzahlen ermitteln, Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden vor dem Hintergrund technischer und wirtschaftlicher Entwicklungen erarbeiten, betriebliches Qualitätsmanagement planen und darstellen, Aufgaben der Personalverwaltung wahrnehmen; den Zusammenhang zwischen Personalverwaltung sowie Personalführung und -entwicklung darstellen, betriebsspezifische Maßnahmen zur Einhaltung der arbeitsschutzrechtlichen Bestimmungen und des Umweltschutzes entwickeln; Gefahrenpotenziale beurteilen und Maßnahmen zur Gefahrenvermeidung und -beseitigung festlegen, Betriebs- und Lagerausstattung sowie logistische Prozesse planen und darstellen, Chancen und Risiken betrieblicher Kooperation darstellen und beurteilen.
 
 (4) Die Prüfung in Teil II ist schriftlich durchzuführen. Sie soll in jedem Handlungsfeld nicht länger als drei Stunden dauern. Eine Prüfungsdauer von sechs Stunden täglich darf nicht überschritten werden.
 
@@ -190,9 +142,9 @@ h)
 
 (7) Mindestvoraussetzung für das Bestehen des Teils II der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung. Die Prüfung des Teils II ist nicht bestanden, wenn
 
-1.
+1. ein Handlungsfeld mit weniger als 30 Punkten bewertet worden ist oder
 
-2.
+2. nach durchgeführter Ergänzungsprüfung zwei Handlungsfelder jeweils mit weniger als 50 Punkten bewertet worden sind.
 
 > (+++ § 8 Abs. 6 u. 7: Zur Anwendung vgl. § 10 +++)
 

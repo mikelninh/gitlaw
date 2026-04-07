@@ -12,11 +12,7 @@ Auf Grund des § 50 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artik
 
 ### § 1 — Gleichstellung von Prüfungszeugnissen
 
-Die vom 1. Januar 2017 bis zum Ablauf des 30. September 2026 von der Staatlichen Fachschule Weilburg-Hadamar Standort: Staatliche Glasfachschule Hadamar erteilten Prüfungszeugnisse über erfolgreich abgelegte Abschlussprüfungen werden mit den Zeugnissen über das Bestehen der Abschluss- oder Gesellenprüfung in Ausbildungsberufen nach Maßgabe der nachstehenden Auflistung gleichgestellt:Bezeichnung des Prüfungszeugnisses der Staatlichen Fachschule Weilburg-Hadamar Standort: Staatliche Glasfachschule Hadamar:Ausbildungsberuf, für den gleichgestellt wird:Abschlussprüfung als Glaser/Glaserin Fachrichtungen: – Verglasung und Glasbau – Fenster- und GlasfassadenbauGlaser und Glaserin im Gewerbe Anlage A Nummer 39 „Glaser“ der Handwerksordnung Fachrichtungen: – Verglasung und Glasbau – Fenster- und GlasfassadenbauAbschlussprüfung als Glasapparatebauer/GlasapparatebauerinGlasapparatebauer und Glasapparatebauerin im Gewerbe Anlage A Nummer 40 „Glasbläser und Glasapparatebauer“ der HandwerksordnungAbschlussprüfung als Glasveredler/Glasveredlerin Fachrichtungen: – Kanten- und Flächenveredelung – Glasmalerei und KunstverglasungGlasveredler und Glasveredlerin Fachrichtungen: – Kanten- und Flächenveredelung – Glasmalerei und Kunstverglasung und Glasveredler und Glasveredlerin im Gewerbe Anlage B Abschnitt 1 Nummer 34 „Glasveredler“ der Handwerksordnung Fachrichtungen: – Kanten- und Flächenveredelung – Glasmalerei und Kunstverglasung
-
 ### § 2 — Inkrafttreten, Außerkrafttreten
-
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft und am 1. Oktober 2026 außer Kraft.
 
 ### Schlussformel
 

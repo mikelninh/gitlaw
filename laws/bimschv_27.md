@@ -14,43 +14,37 @@ Diese Verordnung gilt für die Errichtung, die Beschaffenheit und den Betrieb vo
 
 Im Sinne dieser Verordnung sind:
 
-1.
+1. Abgase: die Trägergase mit den festen, flüssigen oder gasförmigen Emissionen;
 
-2.
+2. Altanlagen: Anlagen, die vor dem Inkrafttreten dieser Verordnung errichtet oder genehmigt worden sind;
 
-3.
+3. Anlagen zur Feuerbestattung (Anlagen): alle technischen Einrichtungen, die der Einäscherung des menschlichen Leichnams dienen;
 
-4.
+4. Emissionen: die von der Anlage ausgehenden Luftverunreinigungen; sie werden angegeben als Massenkonzentration in den Einheiten Nanogramm je Kubikmeter (ng/cbm) oder Milligramm je Kubikmeter (mg/cbm), bezogen auf das Abgasvolumen im Normzustand (273 K, 1013 hPa) nach Abzug des Feuchtegehaltes an Wasserdampf; sie beziehen sich auf einen Volumengehalt an Sauerstoff im Abgas von 11 vom Hundert, bei elektrisch betriebenen Anlagen auf einen Volumengehalt an Sauerstoff im Abgas von 15 vom Hundert.
 
 ### § 3 — Feuerung
 
 (1) Soweit die Anlagen mit Brennern ausgerüstet sind, dürfen diese nur mit Gasen der öffentlichen Gasversorgung, Flüssiggas, Wasserstoff oder Heizöl EL betrieben werden.
 
-(2) Die Temperatur nach der letzten Verbrennungsluftzuführung muß mindestens 850 Grad C, ermittelt als Zehnminutenmittelwert, betragen.
-
 (3) Durch geeignete Vorrichtungen ist sicherzustellen, daß ein Sarg nicht eingefahren werden kann, wenn die Mindesttemperatur nach § 3 Abs. 2 unterschritten ist oder die kontinuierlich ermittelte Konzentration von Kohlenmonoxid oder die Anzeige für die Rauchgasdichte auf eine Störung des ordnungsgemäßen Betriebes hinweist. Eine bereits begonnene Einäscherung ist zu Ende zu führen.
 
 ### § 4 — Emissionsgrenzwerte
 
-Anlagen dürfen nur so errichtet und betrieben werden, daß nicht überschreiten. 11121
+Anlagen dürfen nur so errichtet und betrieben werden, daß
 
-1.
+1. die Emissionen von Kohlenmonoxid einen Stundenmittelwert von 50 mg je Kubikmeter Abgas,
 
-2.
+2. die Emissionen von Gesamtstaub und organischen Stoffen, gebildet als Stundenmittelwert und in Übereinstimmung mit dem im Anhang 1 festgelegten Verfahren, die folgenden Emissionsgrenzwertea)Gesamtstaub 10 mg/cbm, b)organische Stoffe, angegeben als Gesamtkohlenstoff, 20 mg/cbm und Gesamtstaub 10 mg/cbm, organische Stoffe, angegeben als Gesamtkohlenstoff, 20 mg/cbm und
 
-a)
-
-b)
-
-3.
+3. die Emissionen von den im Anhang 2 genannten Dioxinen und Furanen, angegeben als Summenwert und gebildet als Mittelwert über die jeweilige Probenahmezeit, jeweils in Übereinstimmung mit dem im Anhang 2 festgelegten Verfahren, den Emissionsgrenzwert von 0,1 ng/cbm
 
 ### § 5 — Ableitbedingungen für Abgase
 
-Abgase sind über einen oder mehrere Schornsteine in die freie Luftströmung so abzuleiten, daß die Höhe der Austrittsöffnung für die Abgase Bei einer Dachneigung von weniger als 20 Grad ist die Höhe der Austrittsöffnung auf einen fiktiven Dachfirst zu beziehen, dessen Höhe unter Zugrundelegung einer Dachneigung von 20 Grad zu berechnen ist.
+Abgase sind über einen oder mehrere Schornsteine in die freie Luftströmung so abzuleiten, daß die Höhe der Austrittsöffnung für die Abgase
 
-1.
+1. die höchste Kante des Dachfirstes der Anlage um mindestens 3 Meter überragt und
 
-2.
+2. mindestens 10 Meter über Flur liegt.
 
 ### § 6 — Anzeige
 
@@ -58,13 +52,13 @@ Der Betreiber einer Anlage hat diese der zuständigen Behörde spätestens einen
 
 ### § 7 — Kontinuierliche Messungen
 
-(1) Die Anlagen sind mit Meßeinrichtungen auszurüsten, die fortlaufend messen und registrieren. Die Anlagen dürfen nur mit hierzu geeigneten und funktionsfähigen Meßeinrichtungen betrieben werden.
+(1) Die Anlagen sind mit Meßeinrichtungen auszurüsten, die
 
-1.
+1. den Volumengehalt an Sauerstoff im Abgas,
 
-2.
+2. die Massenkonzentration von Kohlenmonoxid im Abgas und
 
-3.
+3. die Mindesttemperatur nach § 3 Abs. 2
 
 (2) Die Anlagen sind zur Überwachung der Funktionstüchtigkeit der Staubabscheideeinrichtungen mit Meßgeräten auszurüsten, die die Rauchgasdichte kontinuierlich messen. Die Anlagen dürfen nur mit hierzu geeigneten und funktionsfähigen Rauchgasdichtemeßgeräten, die Rückschlüsse auf die ständige Einhaltung des Emissionsgrenzwertes für Gesamtstaub nach § 4 Nr. 2 Buchstabe a ermöglichen, betrieben werden.
 
@@ -97,11 +91,11 @@ Altanlagen müssen die Anforderungen dieser Verordnung spätestens nach Ablauf v
 
 (1) Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen von Vorschriften dieser Verordnung zulassen, soweit unter Berücksichtigung der besonderen Umstände des Einzelfalles
 
-1.
+1. einzelne Anforderungen der Verordnung nicht oder nur mit unverhältnismäßig hohem Aufwand erfüllbar sind,
 
-2.
+2. schädliche Umwelteinwirkungen nicht zu befürchten sind und
 
-3.
+3. im übrigen die dem Stand der Technik entsprechenden Maßnahmen zur Emissionsbegrenzung angewandt werden.
 
 (2) Eine Ausnahme von § 5 kommt insbesondere in Betracht, wenn Belange des Denkmalschutzes berührt sind.
 
@@ -115,42 +109,38 @@ Die Befugnis der zuständigen Behörde, auf der Grundlage des Bundes-Immissionss
 
 Ordnungswidrig im Sinne des § 62 Abs. 1 Nr. 7 des Bundes-Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 4 eine Anlage errichtet oder betreibt,
 
-2.
+2. entgegen § 5 Satz 1 ein Abgas nicht oder nicht in der vorgeschriebenen Weise ableitet,
 
-3.
+3. entgegen § 6 eine Anzeige nicht, nicht richtig oder nicht rechtzeitig erstattet,
 
-4.
+4. entgegen § 7 Abs. 1 oder Abs. 2 eine Anlage betreibt,
 
-5.
+5. entgegen § 7 Abs. 3 Satz 1 oder 2 eine Meßeinrichtung nicht oder nicht rechtzeitig kalibrieren oder nicht oder nicht rechtzeitig prüfen oder die Kalibrierung nicht oder nicht rechtzeitig wiederholen läßt oder
 
-6.
+6. entgegen § 9 Satz 1 oder 2 die Einhaltung der Anforderungen nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig prüfen läßt oder eine Prüfung nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig wiederholen läßt.
 
 ### Anhang 1 — Bestimmung der Massenkonzentration von Gesamtstaub und
 und Gesamtkohlenstoff nach § 4 Nr. 2
 
-Fundstelle des Originaltextes: BGBl. I 1997, 547
+1. Zur Bestimmung der Massenkonzentration an Gesamtstaub und Gesamtkohlenstoff nach § 4 Nr. 2 beträgt die Probenahmezeit eine Stunde; die Probenahme erfolgt ab Beginn einer Einäscherung.
 
-1.
+2. Es sind Proben während fünf aufeinanderfolgender Einäscherungsvorgänge zu ziehen.
 
-2.
+3. Pausenzeiten zwischen jeweils zwei Einäscherungen bleiben unberücksichtigt.
 
-3.
-
-4.
+4. Die Messung der organischen Stoffe, angegeben als Gesamtkohlenstoff, erfolgt nach der FID-Methode. Die Kalibrierung des Gerätes erfolgt mit Propan oder Butan. Es sind geeignete Meßgeräte zu verwenden, die eine Bekanntgabe für Meßaufgaben nach der 17. BImSchV besitzen.
 
 ### Anhang 2 — Bestimmung der Massenkonzentration von Dioxinen
 und Furanen nach § 4 Nr. 3
 
-Fundstelle des Originaltextes: BGBl. I 1997, 547
+1. Zur Bestimmung der Massenkonzentration von Dioxinen und Furanen nach § 4 Nr. 3 beträgt die Probenahmezeit mindestens sechs Stunden.
 
-1.
+2. Die Probenahme erfolgt ab Beginn einer Einäscherung.
 
-2.
+3. Pausenzeiten zwischen jeweils zwei Einäscherungen bleiben unberücksichtigt.
 
-3.
+4. Für die in diesem Anhang genannten Dioxine und Furane soll die Nachweisgrenze des eingesetzten Analyseverfahrens nicht über 0,005 ng/cbm Abgas liegen.
 
-4.
-
-5.
+5. Für den nach § 4 Nr. 3 zu bildenden Summenwert sind die im Abgas ermittelten Konzentrationen der nachstehend genannten Dioxine und Furane mit den angegebenen Äquivalenzfaktoren zu multiplizieren und zu summieren.

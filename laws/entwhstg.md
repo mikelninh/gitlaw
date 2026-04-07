@@ -11,49 +11,23 @@ Kapitalanlagen in Entwicklungsländern
 
 ### § 1 — Steuerfreie Rücklage für Kapitalanlagen in Entwicklungsländern
 
-(1) Steuerpflichtige, die mit Mitteln eines inländischen Betriebs, dessen Gewinn nach § 4 Abs. 1 oder § 5 des Einkommensteuergesetzes ermittelt wird, Kapitalanlagen in Entwicklungsländern vornehmen, können zu Lasten des Gewinns des inländischen Betriebs eine Rücklage bilden. Die Rücklage darf bei Kapitalanlagen der Anschaffungs- oder Herstellungskosten der Kapitalanlagen nicht übersteigen. Die Rücklage ist spätestens vom sechsten auf ihre Bildung folgenden Wirtschaftsjahr an gewinnerhöhend aufzulösen Voraussetzung für die Anwendung der Sätze 1 bis 3 ist, daß die Bildung und Auflösung der Rücklage in der Buchführung verfolgt werden können.
+(1) Steuerpflichtige, die mit Mitteln eines inländischen Betriebs, dessen Gewinn nach § 4 Abs. 1 oder § 5 des Einkommensteuergesetzes ermittelt wird, Kapitalanlagen in Entwicklungsländern vornehmen, können zu Lasten des Gewinns des inländischen Betriebs eine Rücklage bilden. Die Rücklage darf bei Kapitalanlagen
 
-1.
+1. bei Kapitalanlagen in Entwicklungsländern der Gruppe 1 jährlich mit mindestens einem Zwölftel,
 
-2.
-
-a)
-
-b)
+2. bei Kapitalanlagen in Entwicklungsländern der Gruppe 2,a)für die das Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Arbeit auf Grund von Nachweisen des Steuerpflichtigen bestätigt hat, daß sie in besonders beschäftigungswirksamen Unternehmen vorgenommen wurden und damit geeignet sind, der Arbeitslosigkeit in Entwicklungsländern entgegenzuwirken,jährlich mit mindestens einem Zwölftel;maßgeblich für die Beurteilung der Beschäftigungswirksamkeit sind die Verhältnisse nach Ablauf des vierten auf die Bildung der Rücklage folgenden Wirtschaftsjahrs,b)in den übrigen Fällenjährlich mit mindestens einem Sechstel. für die das Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Arbeit auf Grund von Nachweisen des Steuerpflichtigen bestätigt hat, daß sie in besonders beschäftigungswirksamen Unternehmen vorgenommen wurden und damit geeignet sind, der Arbeitslosigkeit in Entwicklungsländern entgegenzuwirken, jährlich mit mindestens einem Zwölftel; maßgeblich für die Beurteilung der Beschäftigungswirksamkeit sind die Verhältnisse nach Ablauf des vierten auf die Bildung der Rücklage folgenden Wirtschaftsjahrs, in den übrigen Fällen jährlich mit mindestens einem Sechstel.
 
 (2) Bei Kapitalanlagen in Entwicklungsländern der Gruppe 2, bei denen das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung unter Berücksichtigung der Belange des Entwicklungslandes die besondere Förderungswürdigkeit für die rohstoff- oder energiepolitische Zusammenarbeit bestätigt hat, ist Absatz 1 mit der Maßgabe anzuwenden, daß die Rücklage bis zur Höhe von 60 vom Hundert der Anschaffungs- oder Herstellungskosten der Kapitalanlagen gebildet werden kann und spätestens vom sechsten auf ihre Bildung folgenden Wirtschaftsjahr an jährlich mit mindestens einem Zwölftel aufzulösen ist.
 
-(3) Kapitalanlagen in Entwicklungsländern im Sinne der Absätze 1 und 2 sind wenn die Gesellschaft, der Betrieb oder die Betriebstätte in Entwicklungsländern ausschließlich oder fast ausschließlich die Herstellung oder Lieferung von Waren außer Waffen oder die Gewinnung von Bodenschätzen oder die Bewirkung gewerblicher Leistungen, soweit diese nicht in der Errichtung oder dem Betrieb von Anlagen, die dem Fremdenverkehr dienen, oder in der Vermietung und Verpachtung von Wirtschaftsgütern einschließlich der Überlassung der Nutzung von Rechten, Plänen, Mustern, Verfahren, Erfahrungen und Kenntnissen bestehen, oder den Betrieb einer Land- und Forstwirtschaft zum Gegenstand hat. Soweit die Bewirkung gewerblicher Leistungen im Betrieb von Handelsschiffen oder Luftfahrzeugen im internationalen Verkehr besteht, ist weitere Voraussetzung, daß das Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung im Einvernehmen mit dem Bundesministerium für Verkehr, Bau- und Wohnungswesen oder die von ihnen bestimmte Stelle die entwicklungspolitische und verkehrspolitische Förderungswürdigkeit der Kapitalanlage bestätigt. Für Darlehen wird die Rücklage unter der Bedingung gewährt, daß Kapitalanlagen in Entwicklungsländern im Sinne des Satzes 1 Nr. 1 bis 3 sind auch dann begünstigt, wenn sie vom Steuerpflichtigen nicht unmittelbar, sondern in der Weise vorgenommen werden, daß
+(3) Kapitalanlagen in Entwicklungsländern im Sinne der Absätze 1 und 2 sind
 
-1.
+1. Beteiligungen an Kapitalgesellschaften in Entwicklungsländern, die anläßlich der Gründung oder einer Kapitalerhöhung erworben worden sind,
 
-2.
+2. Darlehen, die an Kapitalgesellschaften in Entwicklungsländern im Zusammenhang mit der Gründung oder einer erheblichen Erweiterung des Unternehmens hingegeben worden sind, wenn nach den vertraglichen Vereinbarungena)der Anspruch auf Rückzahlung der Darlehen vor Ablauf von drei Jahren nach der Darlehnshingabe gegen Gewährung von Gesellschaftsrechten in die Kapitalgesellschaft einzubringen ist oderb)die Darlehen vor Ablauf von sechs Jahren seit der Hingabe weder ganz noch zum Teil zurückzuzahlen sind undaa)der Darlehnsgeber im Zeitpunkt der Darlehnsgewährung unmittelbar oder mittelbar mit mindestens 15 vom Hundert, bei Darlehen an Kapitalgesellschaften, die ausschließlich oder fast ausschließlich die Gewinnung von Bodenschätzen zum Gegenstand haben, mit mindestens 5 vom Hundert, am Kapital der darlehensempfangenden Kapitalgesellschaft beteiligt ist oderbb)für die Darlehen an Stelle einer Verzinsung ausschließlich eine Beteiligung am Gewinn gewährt wird odercc)durch die darlehnsempfangende Kapitalgesellschaft mindestens bis zum Ablauf von sechs Jahren seit der Hingabe des Darlehns zu einem nicht unerheblichen Teil Wirtschaftsgüter unter Benutzung von gewerblichen Schutzrechten, Urheberrechten, Plänen, Mustern, Verfahren oder gewerblichen Erfahrungen und Kenntnissen des Darlehnsgebers hergestellt oder unter einem Warenzeichen des Darlehnsgebers vertrieben werden, der Anspruch auf Rückzahlung der Darlehen vor Ablauf von drei Jahren nach der Darlehnshingabe gegen Gewährung von Gesellschaftsrechten in die Kapitalgesellschaft einzubringen ist oder die Darlehen vor Ablauf von sechs Jahren seit der Hingabe weder ganz noch zum Teil zurückzuzahlen sind undaa)der Darlehnsgeber im Zeitpunkt der Darlehnsgewährung unmittelbar oder mittelbar mit mindestens 15 vom Hundert, bei Darlehen an Kapitalgesellschaften, die ausschließlich oder fast ausschließlich die Gewinnung von Bodenschätzen zum Gegenstand haben, mit mindestens 5 vom Hundert, am Kapital der darlehensempfangenden Kapitalgesellschaft beteiligt ist oderbb)für die Darlehen an Stelle einer Verzinsung ausschließlich eine Beteiligung am Gewinn gewährt wird odercc)durch die darlehnsempfangende Kapitalgesellschaft mindestens bis zum Ablauf von sechs Jahren seit der Hingabe des Darlehns zu einem nicht unerheblichen Teil Wirtschaftsgüter unter Benutzung von gewerblichen Schutzrechten, Urheberrechten, Plänen, Mustern, Verfahren oder gewerblichen Erfahrungen und Kenntnissen des Darlehnsgebers hergestellt oder unter einem Warenzeichen des Darlehnsgebers vertrieben werden, der Darlehnsgeber im Zeitpunkt der Darlehnsgewährung unmittelbar oder mittelbar mit mindestens 15 vom Hundert, bei Darlehen an Kapitalgesellschaften, die ausschließlich oder fast ausschließlich die Gewinnung von Bodenschätzen zum Gegenstand haben, mit mindestens 5 vom Hundert, am Kapital der darlehensempfangenden Kapitalgesellschaft beteiligt ist oder für die Darlehen an Stelle einer Verzinsung ausschließlich eine Beteiligung am Gewinn gewährt wird oder durch die darlehnsempfangende Kapitalgesellschaft mindestens bis zum Ablauf von sechs Jahren seit der Hingabe des Darlehns zu einem nicht unerheblichen Teil Wirtschaftsgüter unter Benutzung von gewerblichen Schutzrechten, Urheberrechten, Plänen, Mustern, Verfahren oder gewerblichen Erfahrungen und Kenntnissen des Darlehnsgebers hergestellt oder unter einem Warenzeichen des Darlehnsgebers vertrieben werden,
 
-a)
+3. Einlagen in Personalgesellschaften in Entwicklungsländern zum Zweck der Gründung oder einer erheblichen Erweiterung des Unternehmens und
 
-b)
-
-aa)
-
-bb)
-
-cc)
-
-3.
-
-4.
-
-1.
-
-2.
-
-1.
-
-a)
-
-b)
-
-2.
+4. Betriebsvermögen, das einem Betrieb oder einer Betriebstätte des Steuerpflichtigen in Entwicklungsländern zum Zweck der Gründung oder einer erheblichen Erweiterung zugeführt worden ist,
 
 (4) Die Bildung der Rücklage ist nur in dem Wirtschaftsjahr zulässig, in dem die Mittel, die Gegenstand der Kapitalanlage sind, der Gesellschaft, dem Betrieb oder der Betriebstätte in Entwicklungsländern zugeführt worden sind. Zeitpunkt der Zuführung im Sinne dieses Gesetzes ist der Zeitpunkt, in dem die Gesellschaft, der Betrieb oder die Betriebstätte im Sinne des Absatzes 3 Satz 1 über die Mittel, die Gegenstand der Kapitalanlage sind, erstmals verfügen kann.
 
@@ -90,41 +64,29 @@ Veräußerungen
 
 (1) Ist bei Kapitalanlagen im Sinne des § 1 Abs. 3 Satz 1 Nr. 3 und 4 infolge einer durch die Verhältnisse im Entwicklungsland bedingten Umwandlung der Personengesellschaft, des Betriebs oder der Betriebstätte im Entwicklungsland in eine Kapitalgesellschaft ein im Inland steuerpflichtiger Gewinn entstanden, so kann der Steuerpflichtige im Wirtschaftsjahr der Umwandlung von den Anschaffungs- oder Herstellungskosten abnutzbarer beweglicher Wirtschaftsgüter des Anlagevermögens, die in diesem Wirtschaftsjahr angeschafft oder hergestellt worden sind, einen Betrag bis zur Höhe dieses Gewinns abziehen. Soweit der Steuerpflichtige den Abzug nach Satz 1 nicht vorgenommen hat, kann er im Wirtschaftsjahr der Umwandlung eine den steuerlichen Gewinn mindernde Rücklage bilden. In diesem Fall sind die Vorschriften des § 6b Abs. 3 bis 5 mit Ausnahme des Absatzes 4 Nr. 2 des Einkommensteuergesetzes mit der Maßgabe entsprechend anzuwenden, daß die Rücklage nur auf die Anschaffungs- oder Herstellungskosten von abnutzbaren beweglichen Wirtschaftsgütern des Anlagevermögens übertragen werden darf.
 
-(2) Absatz 1 ist entsprechend anzuwenden, soweit bei Kapitalanlagen im Sinne des § 1 Abs. 3 Satz 1 Nr. 1, 3 und 4 und § 2 ein im Inland steuerpflichtiger Gewinn entstanden ist. Satz 1 ist in den Fällen des § 1 Abs. 7 sinngemäß anzuwenden.
+(2) Absatz 1 ist entsprechend anzuwenden, soweit bei Kapitalanlagen im Sinne des § 1 Abs. 3 Satz 1 Nr. 1, 3 und 4 und § 2
 
-1.
+1. infolge einer durch die Verhältnisse im Entwicklungsland bedingten Veräußerung eines Betriebs oder einer Betriebstätte oder von Anteilen an einer Kapitalgesellschaft, einer Personengesellschaft, einem Betrieb oder einer Betriebstätte im Entwicklungsland oder
 
-2.
+2. infolge der Einbringung eines Betriebs, einer Betriebstätte oder von Anteilen an einer Kapitalgesellschaft oder einer Personengesellschaft in eine Kapitalgesellschaft im Sinne des § 1 Abs. 3 Satz 4 Nr. 1
 
 (3) Hat der Steuerpflichtige nach Absatz 1 oder Absatz 2 einen Abzug vorgenommen oder eine Rücklage gebildet, so finden die Vorschriften des § 34 Abs. 1 Satz 1 und 2 des Einkommensteuergesetzes auf den bei der Umwandlung, Veräußerung oder Einbringung entstandenen Gewinn keine Anwendung.
-
-> (+++ § 4 Abs. 2 Satz 1 Nr. 2: Zur Anwendung vgl. § 11 Abs. 2 F. ab 1981-12-22 +++) (+++ § 4 Abs. 2 Satz 2: Zur Anwendung vgl. § 11 Abs. 4 Satz 1 F. ab 1981-12-22 +++)
 
 ### § 5 — Wegfall der Steuervergünstigungen
 
 (1) Werden Kapitalanlagen im Sinne des § 1 Abs. 3 oder Beteiligungen im Sinne des § 2 nach § 6 des Einkommensteuergesetzes mit dem niedrigeren Teilwert angesetzt, so ist eine nach § 1 oder nach § 2 gebildete Rücklage im Wirtschaftsjahr des Ansatzes des niedrigeren Teilwerts in Höhe des Anteils, der dem Unterschied zwischen dem Wert, mit dem die Kapitalanlage bisher angesetzt war, und dem niedrigeren Teilwert entspricht, vorzeitig gewinnerhöhend aufzulösen. Satz 1 ist nicht anzuwenden, soweit bei Darlehen im Sinne des § 1 Abs. 3 Satz 1 Nr. 2 Buchstabe b der niedrigere Teilwert ausschließlich mit Rücksicht auf die Unverzinslichkeit der Darlehen angesetzt worden ist. Eine für Darlehen im Sinne des § 1 Abs. 3 Satz 1 Nr. 2 Buchstabe b gebildete Rücklage ist abweichend von § 1 Abs. 1 Satz 3 vom sechsten auf ihre Bildung folgenden Wirtschaftsjahr an jährlich in Höhe des Betrags oder Teilbetrags gewinnerhöhend aufzulösen, der dem Anteil der Tilgung im jeweiligen Wirtschaftsjahr am Nennbetrag des hingegebenen Darlehens entspricht; die Rücklage ist jedoch vom sechsten auf ihre Bildung folgenden Wirtschaftsjahr an mindestens mit den in § 1 Abs. 1 Satz 3 bezeichneten Teilbeträgen gewinnerhöhend aufzulösen.
 
-(2) Werden Beteiligungen an Kapitalgesellschaften in Entwicklungsländern im Sinne des § 1 Abs. 3 Satz 1 Nr. 1 oder Nr. 2 Buchstabe a oder § 2 veräußert oder in das Privatvermögen überführt, so ist die Rücklage im Wirtschaftsjahr der Veräußerung oder Überführung in das Privatvermögen im Verhältnis des Anteils der veräußerten oder in das Privatvermögen überführten Kapitalanlage zur gesamten Kapitalanlage vorzeitig gewinnerhöhend aufzulösen. Entsprechendes gilt, wenn Werden Wirtschaftsgüter des Anlagevermögens oder des Vorratsvermögens oder Beteiligungen im Sinne des § 1 Abs. 6, die bei der Bemessung der Rücklage berücksichtigt worden sind, aus einem Entwicklungsland der Gruppe 1 in ein Entwicklungsland der Gruppe 2 überführt, gilt Satz 2 Nr. 2 mit der Maßgabe, daß der auf die überführten Wirtschaftsgüter entfallende Teil der Rücklage zu sechs Zehnteln, bei Erfüllung der Voraussetzungen des § 1 Abs. 2 zu vier Zehnteln vorzeitig gewinnerhöhend aufzulösen ist. Bei einer durch die Verhältnisse im Entwicklungsland bedingten Umwandlung einer Personengesellschaft, eines Betriebs oder einer Betriebstätte in Entwicklungsländern in eine Kapitalgesellschaft entfällt die vorzeitige gewinnerhöhende Auflösung der Rücklage in Höhe des Betrags oder Teilbetrags, der dem Verhältnis zwischen der Beteiligung des Steuerpflichtigen an dieser Kapitalgesellschaft und seinem Anteil an der Personengesellschaft, dem Betrieb oder der Betriebstätte vor der Umwandlung entspricht. Eine Einbringung im Sinne des § 4 Abs. 2 Satz 1 Nr. 2 führt nicht zu einer vorzeitigen gewinnerhöhenden Auflösung der Rücklage. In den Fällen des Satzes 4 ist die Rücklage in entsprechender Anwendung des Satzes 1 vorzeitig gewinnerhöhend aufzulösen, wenn bei der Kapitalgesellschaft einer der in Satz 2 Nr. 2 Buchstaben a bis c bezeichneten Tatbestände verwirklicht wird, ohne daß die Voraussetzungen des Satzes 2 Nr. 2 letzter Halbsatz von der Kapitalgesellschaft erfüllt werden. Entsprechendes gilt bei der Einbringung eines Betriebs oder einer Betriebstätte oder von Anteilen an einer Personengesellschaft in eine Kapitalgesellschaft im Sinne des § 1 Abs. 3 Satz 4 Nr. 1 Buchstabe b.
+(2) Werden Beteiligungen an Kapitalgesellschaften in Entwicklungsländern im Sinne des § 1 Abs. 3 Satz 1 Nr. 1 oder Nr. 2 Buchstabe a oder § 2 veräußert oder in das Privatvermögen überführt, so ist die Rücklage im Wirtschaftsjahr der Veräußerung oder Überführung in das Privatvermögen im Verhältnis des Anteils der veräußerten oder in das Privatvermögen überführten Kapitalanlage zur gesamten Kapitalanlage vorzeitig gewinnerhöhend aufzulösen. Entsprechendes gilt, wenn
 
-1.
+1. Anteile an Kapitalgesellschaften im Sinne des § 1 Abs. 3 Satz 4 Nr. 1 oder von solchen Kapitalgesellschaften Anteile an anderen Kapitalgesellschaften veräußert oder in das Privatvermögen überführt werden oder
 
-2.
-
-a)
-
-b)
-
-c)
+2. bei Kapitalanlagen im Sinne des § 1 Abs. 3 zum Betriebsvermögen der Gesellschaft, des Betriebs oder der Betriebstätte gehörendea)Wirtschaftsgüter des Anlagevermögens oder des Vorratsvermögens oder Beteiligungen im Sinne des § 1 Abs. 6, die bei der Bemessung der Rücklage berücksichtigt worden sind, veräußert oder in das Privatvermögen oder in ein Land überführt werden, das nicht zu den Entwicklungsländern gehört, oder b)Darlehen im Sinne des § 1 Abs. 6 zurückgezahlt oder abgetreten oder in das Privatvermögen oder in einen Betrieb oder eine Betriebstätte in einem Land überführt werden, das nicht zu den Entwicklungsländern gehört, oder c)Beträge, die nach § 1 Abs. 6 bei der Staatsbank des Entwicklungslandes hinterlegt oder eingelegt worden sind, zurückgezahlt werden, Wirtschaftsgüter des Anlagevermögens oder des Vorratsvermögens oder Beteiligungen im Sinne des § 1 Abs. 6, die bei der Bemessung der Rücklage berücksichtigt worden sind, veräußert oder in das Privatvermögen oder in ein Land überführt werden, das nicht zu den Entwicklungsländern gehört, oder Darlehen im Sinne des § 1 Abs. 6 zurückgezahlt oder abgetreten oder in das Privatvermögen oder in einen Betrieb oder eine Betriebstätte in einem Land überführt werden, das nicht zu den Entwicklungsländern gehört, oder Beträge, die nach § 1 Abs. 6 bei der Staatsbank des Entwicklungslandes hinterlegt oder eingelegt worden sind, zurückgezahlt werden, ohne daß von der Gesellschaft, dem Betrieb oder der Betriebstätte im Falle des Buchstaben a bis zum Ende des auf die Veräußerung oder Überführung folgenden Wirtschaftsjahrs in entsprechendem Umfang Ersatzwirtschaftsgüter angeschafft oder hergestellt, im Falle des Buchstaben b bis zum Ende des auf die Rückzahlung, Abtretung oder Überführung der Darlehen folgenden Wirtschaftsjahrs in entsprechendem Umfang neue Darlehen im Sinne des § 1 Abs. 6 gewährt werden.
 
 (3) Erfüllt die Gesellschaft, der Betrieb oder die Betriebstätte in Entwicklungsländern nicht mehr die Voraussetzung des § 1 Abs. 3 Satz 1 letzter Halbsatz oder wird der Sitz oder die Geschäftsleitung einer Kapitalgesellschaft im Sinne des § 1 Abs. 3 Satz 4 Nr. 1 in ein Land verlegt, das nicht zu den Entwicklungsländern gehört, so ist die nach § 1 oder nach § 2 gebildete Rücklage in voller Höhe gewinnerhöhend aufzulösen.
 
 (4) Die Absätze 1 bis 3 sind in den Fällen des § 1 Abs. 7 sinngemäß anzuwenden.
 
-> (+++ § 5 Abs. 2 Satz 2 Nr. 1, Satz 5 u. Satz 7: Zur Anwendung vgl. § 11 Abs. 2 F. ab 1981-12-22 +++) (+++ § 5 Abs. 4: Zur Anwendung vgl. § 11 Abs. 3 Satz 1 F. ab 1981-12-22 +++)
-
 ### § 6 — Entwicklungsländer
-
-(1) Entwicklungsländer im Sinne dieses Gesetzes sind die folgenden Länder und Gebiete: Gruppe 1 Äthiopien, Afghanistan, Bangladesch, Benin, Bhutan, Botsuana, Burundi, Gambia, Guinea, Haiti, Jemen (Arabische Republik), Demokratische Volksrepublik Jemen, Kap Verde, Komoren, Laotische Demokratische Volksrepublik, Lesotho, Malawi, Malediven, Mali, Nepal, Niger, Obervolta, Ruanda, Samoa, Somalia, Sudan, Tansania, Tschad, Uganda, Zentralafrikanisches Kaiserreich. Gruppe 2 Ägypten, Äquatorialguinea, Algerien, Angola, Antigua, Argentinien, Bahamas, Bahrain, Barbados, Birma, Bolivien, Brasilien, Brunei, Chile, Volksrepublik China, Costa Rica, Dominica, Dominikanische Republik, Dschibuti, Ecuador, Elfenbeinküste, Fidschi, Gabun, Ghana, Grenada, Griechenland, Guatemala, Guinea-Bissau, Guyana, Honduras, Indien, Indonesien, Irak, Iran, Island, Israel, Jamaika, Jordanien, Jugoslawien, Vereinigte Republik Kamerun, Katar, Kenia, Kolumbien, Volksrepublik Kongo, Republik Korea, Kuwait, Libanon, Liberia, Libysch-Arabische Dschamahirija, Madagaskar, Malaysia, Malta, Marokko, Mauretanien, Mauritius, Mexiko, Mosambik, Nauru, Nicaragua, Nigeria, Oman, Pakistan, Panama, Papua-Neuguinea, Paraguay, Peru, Philippinen, Portugal (ohne außereuropäische Gebiete), Rumänien, Salomonen, El Salvador, Sambia, Sao Tome und Principe, Saudi Arabien, Senegal, Seschellen, Sierra Leone, Singapur, Spanien (ohne außereuropäische Gebiete), Sri Lanka, St. Christoph-Nevis-Anguilla, St. Lucia, St. Vincent, Suriname, Swasiland, Syrien, Taiwan, Thailand, Togo, Tonga, Trinidad und Tobago, Türkei, Tunesien, Tuvalu, Uruguay, Venezuela, Vereinigte Arabische Emirate, Sozialistische Republik Vietnam, Zaire, Zypern.
 
 (2) Entwicklungsländer der Gruppe 2 im Sinne dieses Gesetzes sind auch außereuropäische Länder, die nach dem 31. Dezember 1978 unabhängig geworden sind.
 
@@ -152,13 +114,13 @@ Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetze
 
 (2) Zur Durchführung dieser Bundesstatistik haben die Steuerpflichtigen, die die steuerfreien Rücklagen in Anspruch nehmen, nach Ablauf des jeweiligen Wirtschaftsjahrs auf Anforderung dem Statistischen Bundesamt nach amtlich vorgeschriebenem Vordruck Angaben zu machen über
 
-1.
+1. Art und Höhe sowie Verwendungszweck der Kapitalanlage,
 
-2.
+2. Anlageland,
 
-3.
+3. Zahl der durch die Kapitalanlage im Anlageland entstehenden Dauerarbeitsplätze und Ausbildungsplätze,
 
-4.
+4. Höhe der Beteiligung anderer Unternehmen an dem Unternehmen im Anlageland, bei dem die Kapitalanlage stattgefunden hat.
 
 (3) Die Finanzbehörden teilen dem Statistischen Bundesamt jährlich die Anschriften der Steuerpflichtigen mit, die steuerfreie Rücklagen nach den §§ 1 und 7 in Anspruch genommen haben.
 

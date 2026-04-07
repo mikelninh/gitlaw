@@ -16,55 +16,185 @@ Diese Verordnung regelt die Prüfung zum anerkannten Fortbildungsabschluss Gepr�
 
 ### § 2 — Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
-(1) Mit der Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Übersetzer und Geprüfte Übersetzerin soll die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachgewiesen werden.(2) Die Prüfung wird von der zuständigen Stelle durchgeführt.(3) Durch die Erweiterung der beruflichen Handlungsfähigkeit soll der Geprüfte Übersetzer oder die Geprüfte Übersetzerin in der Lage sein, Aufträge zur Übersetzung aus dem Deutschen (Hauptsprache) in eine Fremdsprache (Zielsprache) oder aus der Fremdsprache in die deutsche Sprache im Rahmen eines Beschäftigungsverhältnisses oder auf selbstständiger Basis insbesondere für Unternehmen, Übersetzungsagenturen, Gerichte und Notare sowie für öffentliche Institutionen eigenständig und eigenverantwortlich durchzuführen. Dies umfasst 1.inhaltlich und sprachlich korrektes Übersetzen schwieriger Fachtexte aus dem breiten Spektrum der Wirtschaft aus der und in die Fremdsprache, wobei die übersetzten Texte in der Zielkultur die gewünschte Wirkung erreichen sollen,2.kultur-, adressaten- und funktionsgerechtes Verfassen inhaltlich und sprachlich anspruchsvoller Texte in der Fremdsprache,3.Prüfen der sprachlichen und inhaltlichen Richtigkeit sowie stilistisches Überarbeiten eigener und fremder, auch maschinenübersetzter Texte,4.Einsetzen von Werkzeugen zu computerunterstützter Übersetzung, Recherche und Terminologieverwaltung,5.kritisches Bewerten von Informationsquellen,6.mündliches Kommunizieren auf hohem sprachlichen Niveau in der Fremdsprache und7.kunden- und qualitätsorientiertes Abwickeln von Aufträgen.(4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss Geprüfter Übersetzer oder Geprüfte Übersetzerin.
+(1) Mit der Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Übersetzer und Geprüfte Übersetzerin soll die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachgewiesen werden.
+
+(2) Die Prüfung wird von der zuständigen Stelle durchgeführt.
+
+(3) Durch die Erweiterung der beruflichen Handlungsfähigkeit soll der Geprüfte Übersetzer oder die Geprüfte Übersetzerin in der Lage sein, Aufträge zur Übersetzung aus dem Deutschen (Hauptsprache) in eine Fremdsprache (Zielsprache) oder aus der Fremdsprache in die deutsche Sprache im Rahmen eines Beschäftigungsverhältnisses oder auf selbstständiger Basis insbesondere für Unternehmen, Übersetzungsagenturen, Gerichte und Notare sowie für öffentliche Institutionen eigenständig und eigenverantwortlich durchzuführen. Dies umfasst
+
+1. inhaltlich und sprachlich korrektes Übersetzen schwieriger Fachtexte aus dem breiten Spektrum der Wirtschaft aus der und in die Fremdsprache, wobei die übersetzten Texte in der Zielkultur die gewünschte Wirkung erreichen sollen,
+
+2. kultur-, adressaten- und funktionsgerechtes Verfassen inhaltlich und sprachlich anspruchsvoller Texte in der Fremdsprache,
+
+3. Prüfen der sprachlichen und inhaltlichen Richtigkeit sowie stilistisches Überarbeiten eigener und fremder, auch maschinenübersetzter Texte,
+
+4. Einsetzen von Werkzeugen zu computerunterstützter Übersetzung, Recherche und Terminologieverwaltung,
+
+5. kritisches Bewerten von Informationsquellen,
+
+6. mündliches Kommunizieren auf hohem sprachlichen Niveau in der Fremdsprache und
+
+7. kunden- und qualitätsorientiertes Abwickeln von Aufträgen.
+
+(4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss Geprüfter Übersetzer oder Geprüfte Übersetzerin.
 
 ### § 3 — Voraussetzungen für die Zulassung zur Prüfung
 
-(1) Zur Prüfung ist zuzulassen, wer eine der folgenden Voraussetzungen nachweist: 1.eine erfolgreich abgelegte Abschlussprüfung in einem anerkannten kaufmännischen oder verwaltenden Ausbildungsberuf mit einer Berufsausbildungsdauer von drei Jahren und eine auf die Berufsausbildung folgende mindestens einjährige Berufspraxis sowie den Erwerb gehobener fremdsprachlicher Kenntnisse und übersetzungsmethodischer Fertigkeiten in der jeweiligen Zielsprache sowie gehobener wirtschaftsbezogener Kenntnisse oder2.gehobene fremdsprachliche Kenntnisse und übersetzungsmethodische Fertigkeiten in der jeweiligen Zielsprache sowie gehobene wirtschaftsbezogene Kenntnisse, erlangt durch ausreichende wissenschaftliche oder praktische Tätigkeit.Die Voraussetzungen nach den Nummern 1 und 2 sind in der Regel durch den Nachweis einer erfolgreich abgelegten öffentlich-rechtlichen Prüfung sowie durch die Bestätigung der Teilnahme an entsprechenden Qualifizierungsmaßnahmen nachzuweisen.(2) Die Berufspraxis nach Absatz 1 muss der Fortbildung zum Geprüften Übersetzer und zur Geprüften Übersetzerin dienlich sein und wesentliche Bezüge zu den Aufgaben nach § 2 Absatz 3 haben.(3) Abweichend von Absatz 1 ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten erworben zu haben, die der beruflichen Handlungsfähigkeit entsprechen und die Zulassung zur Prüfung rechtfertigen.
+(1) Zur Prüfung ist zuzulassen, wer eine der folgenden Voraussetzungen nachweist:
+
+1. eine erfolgreich abgelegte Abschlussprüfung in einem anerkannten kaufmännischen oder verwaltenden Ausbildungsberuf mit einer Berufsausbildungsdauer von drei Jahren und eine auf die Berufsausbildung folgende mindestens einjährige Berufspraxis sowie den Erwerb gehobener fremdsprachlicher Kenntnisse und übersetzungsmethodischer Fertigkeiten in der jeweiligen Zielsprache sowie gehobener wirtschaftsbezogener Kenntnisse oder
+
+2. gehobene fremdsprachliche Kenntnisse und übersetzungsmethodische Fertigkeiten in der jeweiligen Zielsprache sowie gehobene wirtschaftsbezogene Kenntnisse, erlangt durch ausreichende wissenschaftliche oder praktische Tätigkeit.
+
+(2) Die Berufspraxis nach Absatz 1 muss der Fortbildung zum Geprüften Übersetzer und zur Geprüften Übersetzerin dienlich sein und wesentliche Bezüge zu den Aufgaben nach § 2 Absatz 3 haben.
+
+(3) Abweichend von Absatz 1 ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten erworben zu haben, die der beruflichen Handlungsfähigkeit entsprechen und die Zulassung zur Prüfung rechtfertigen.
 
 ### § 4 — Handlungsbereiche
 
-(1) Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche: 1.Übersetzen aus der und in die Fremdsprache,2.Texte verfassen und bearbeiten,3.Mündlich kommunizieren in der Fremdsprache und4.Aufträge selbstständig planen und abwickeln.(2) Den jeweiligen Handlungsbereichen nach Absatz 1 liegen wirtschaftsbezogene Themen der folgenden Bereiche zugrunde: 1.Volkswirtschaft,2.Betriebswirtschaft,3.Bank- und Finanzwesen,4.internationaler Handel,5.Informations- und Telekommunikationstechnologie,6.Umwelt,7.Öffentlichkeitsarbeit und Marketing,8.Recht und9.Politik.Interkulturelle Fähigkeiten und Fertigkeiten sowie landeskundliche Kenntnisse der jeweiligen Zielkultur sind für alle Handlungsbereiche grundlegend.
+(1) Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
+
+1. Übersetzen aus der und in die Fremdsprache,
+
+2. Texte verfassen und bearbeiten,
+
+3. Mündlich kommunizieren in der Fremdsprache und
+
+4. Aufträge selbstständig planen und abwickeln.
+
+(2) Den jeweiligen Handlungsbereichen nach Absatz 1 liegen wirtschaftsbezogene Themen der folgenden Bereiche zugrunde:
+
+1. Volkswirtschaft,
+
+2. Betriebswirtschaft,
+
+3. Bank- und Finanzwesen,
+
+4. internationaler Handel,
+
+5. Informations- und Telekommunikationstechnologie,
+
+6. Umwelt,
+
+7. Öffentlichkeitsarbeit und Marketing,
+
+8. Recht und
+
+9. Politik.
 
 ### § 5 — Handlungsbereich „Übersetzen aus der und in die Fremdsprache“
 
-(1) Im Handlungsbereich „Übersetzen aus der und in die Fremdsprache“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, schwierige Fachtexte aus dem breiten Spektrum der wirtschaftsbezogenen Themen nach § 4 Absatz 2 aus der und in die Fremdsprache zu übersetzen.(2) In diesem Handlungsbereich können folgende Qualifikationsinhalte geprüft werden: 1.schwierige Fachtexte inhaltlich, sprachlich und formal korrekt sowie adressatengerecht aus dem Deutschen in die Fremdsprache und aus der Fremdsprache ins Deutsche übersetzen,2.Übersetzungsprobleme erkennen und lösen,3.fachsprachliche Terminologie einheitlich verwenden,4.Informationsquellen kritisch bewerten und auswählen,5.das angemessene Sprachregister einsetzen,6.beim Übersetzen die Wirkung der Übersetzung in der Zielkultur berücksichtigen und7.eigene Übersetzungen auf formale, terminologische und inhaltliche Richtigkeit sowie auf stilistische Angemessenheit überprüfen.
+(1) Im Handlungsbereich „Übersetzen aus der und in die Fremdsprache“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, schwierige Fachtexte aus dem breiten Spektrum der wirtschaftsbezogenen Themen nach § 4 Absatz 2 aus der und in die Fremdsprache zu übersetzen.
+
+(2) In diesem Handlungsbereich können folgende Qualifikationsinhalte geprüft werden:
+
+1. schwierige Fachtexte inhaltlich, sprachlich und formal korrekt sowie adressatengerecht aus dem Deutschen in die Fremdsprache und aus der Fremdsprache ins Deutsche übersetzen,
+
+2. Übersetzungsprobleme erkennen und lösen,
+
+3. fachsprachliche Terminologie einheitlich verwenden,
+
+4. Informationsquellen kritisch bewerten und auswählen,
+
+5. das angemessene Sprachregister einsetzen,
+
+6. beim Übersetzen die Wirkung der Übersetzung in der Zielkultur berücksichtigen und
+
+7. eigene Übersetzungen auf formale, terminologische und inhaltliche Richtigkeit sowie auf stilistische Angemessenheit überprüfen.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 ### § 6 — Handlungsbereich „Texte verfassen und bearbeiten“
 
-(1) Im Handlungsbereich „Texte verfassen und bearbeiten“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, inhaltlich und sprachlich anspruchsvolle Texte adressaten- und funktionsgerecht in der Fremdsprache zu verfassen und zu überarbeiten.(2) In diesem Handlungsbereich können folgende Qualifikationsinhalte geprüft werden: 1.wesentliche Inhalte eines fremdsprachigen Textes erkennen,2.schwierige fremdsprachige Texte aus einem der wirtschaftsbezogenen Themen nach § 4 Absatz 2 in der Fremdsprache sinngemäß zusammenfassen,3.eigene Zusammenfassungen auf formale, terminologische und inhaltliche Richtigkeit sowie auf stilistische Angemessenheit überprüfen,4.vorgelegte Übersetzungen eines schwierigen fremdsprachigen Textes ins Deutsche auf inhaltliche Richtigkeit durch Vergleich mit dem Ausgangstext prüfen und überarbeiten sowie5.vorgelegte Übersetzungen auf sprachliche und formale Richtigkeit sowie auf stilistische Angemessenheit prüfen und überarbeiten.
+(1) Im Handlungsbereich „Texte verfassen und bearbeiten“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, inhaltlich und sprachlich anspruchsvolle Texte adressaten- und funktionsgerecht in der Fremdsprache zu verfassen und zu überarbeiten.
+
+(2) In diesem Handlungsbereich können folgende Qualifikationsinhalte geprüft werden:
+
+1. wesentliche Inhalte eines fremdsprachigen Textes erkennen,
+
+2. schwierige fremdsprachige Texte aus einem der wirtschaftsbezogenen Themen nach § 4 Absatz 2 in der Fremdsprache sinngemäß zusammenfassen,
+
+3. eigene Zusammenfassungen auf formale, terminologische und inhaltliche Richtigkeit sowie auf stilistische Angemessenheit überprüfen,
+
+4. vorgelegte Übersetzungen eines schwierigen fremdsprachigen Textes ins Deutsche auf inhaltliche Richtigkeit durch Vergleich mit dem Ausgangstext prüfen und überarbeiten sowie
+
+5. vorgelegte Übersetzungen auf sprachliche und formale Richtigkeit sowie auf stilistische Angemessenheit prüfen und überarbeiten.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 ### § 7 — Handlungsbereich „Mündlich kommunizieren in der Fremdsprache“
 
-(1) Im Handlungsbereich „Mündlich kommunizieren in der Fremdsprache“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, in der Fremdsprache auf hohem sprachlichen Niveau mündlich zu kommunizieren.(2) In diesem Handlungsbereich können folgende Qualifikationsinhalte in der Fremdsprache geprüft werden: 1.mündlich auf hohem sprachlichen Niveau sach- und situationsgerecht kommunizieren,2.Übersetzungsprozesse erläutern und bewerten,3.fachliche Aspekte wirtschaftsbezogener Themen nach § 4 Absatz 2 kontextabhängig schildern und erklären sowie4.interkulturelle und landeskundliche Besonderheiten erläutern.
+(1) Im Handlungsbereich „Mündlich kommunizieren in der Fremdsprache“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, in der Fremdsprache auf hohem sprachlichen Niveau mündlich zu kommunizieren.
+
+(2) In diesem Handlungsbereich können folgende Qualifikationsinhalte in der Fremdsprache geprüft werden:
+
+1. mündlich auf hohem sprachlichen Niveau sach- und situationsgerecht kommunizieren,
+
+2. Übersetzungsprozesse erläutern und bewerten,
+
+3. fachliche Aspekte wirtschaftsbezogener Themen nach § 4 Absatz 2 kontextabhängig schildern und erklären sowie
+
+4. interkulturelle und landeskundliche Besonderheiten erläutern.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 ### § 8 — Handlungsbereich „Aufträge selbstständig planen und abwickeln“
 
-(1) Im Handlungsbereich „Aufträge selbstständig planen und abwickeln“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, Aufträge kunden- und qualitätsorientiert zu planen und abzuwickeln.(2) In diesem Handlungsbereich können folgende Qualifikationsinhalte geprüft werden: 1.Kundenanfragen hinsichtlich terminlicher, preislicher, qualitativer und technischer Anforderungen analysieren und bewerten,2.Rechercheaufwand einschätzen,3.über den Einsatz von Werkzeugen zur computerunterstützten Übersetzung, Recherche und Terminologieverwaltung auftragsgerecht entscheiden,4.Übersetzung auftragsgemäß und termingerecht abliefern sowie5.Auftragsabwicklung dokumentieren.
+(1) Im Handlungsbereich „Aufträge selbstständig planen und abwickeln“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, Aufträge kunden- und qualitätsorientiert zu planen und abzuwickeln.
+
+(2) In diesem Handlungsbereich können folgende Qualifikationsinhalte geprüft werden:
+
+1. Kundenanfragen hinsichtlich terminlicher, preislicher, qualitativer und technischer Anforderungen analysieren und bewerten,
+
+2. Rechercheaufwand einschätzen,
+
+3. über den Einsatz von Werkzeugen zur computerunterstützten Übersetzung, Recherche und Terminologieverwaltung auftragsgerecht entscheiden,
+
+4. Übersetzung auftragsgemäß und termingerecht abliefern sowie
+
+5. Auftragsabwicklung dokumentieren.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 ### § 9 — Durchführung der Prüfung
 
-(1) Die Prüfung besteht aus der schriftlichen Prüfung nach § 10 und dem Übersetzungsprojekt mit anschließendem Fachgespräch nach § 11.(2) Das Übersetzungsprojekt ist innerhalb von zwei Jahren nach Bekanntgabe des Ergebnisses der schriftlichen Prüfung durchzuführen. Bei Überschreiten der Frist ist die schriftliche Prüfung erneut abzulegen.
+(1) Die Prüfung besteht aus der schriftlichen Prüfung nach § 10 und dem Übersetzungsprojekt mit anschließendem Fachgespräch nach § 11.
+
+(2) Das Übersetzungsprojekt ist innerhalb von zwei Jahren nach Bekanntgabe des Ergebnisses der schriftlichen Prüfung durchzuführen. Bei Überschreiten der Frist ist die schriftliche Prüfung erneut abzulegen.
 
 ### § 10 — Schriftliche Prüfung
 
-(1) Die schriftliche Prüfung besteht aus drei Aufgabenstellungen. Die zu prüfende Person soll 1.einen schwierigen Text von rund 1 200 Zeichen aus dem Deutschen (Hauptsprache) in die Fremdsprache übersetzen,2.einen schwierigen Text von rund 1 200 Zeichen aus der Fremdsprache ins Deutsche (Hauptsprache) übersetzen und3.einen schwierigen fremdsprachigen Text von rund 3 600 Zeichen auf rund 1 200 Zeichen in der Fremdsprache zusammenfassen und eine Teilübersetzung von rund 1 200 Zeichen des fremdsprachigen Textes ins Deutsche (Hauptsprache) auf sprachliche und inhaltliche Richtigkeit prüfen und stilistisch überarbeiten.(2) Die Bearbeitungszeit beträgt für die Aufgaben nach Absatz 1 Satz 2 Nummer 1 und 2 jeweils 60 Minuten und für die Aufgabe nach Absatz 1 Satz 2 Nummer 3 insgesamt 120 Minuten.(3) Die Texte nach Absatz 1 Satz 2 Nummer 1 bis 3 müssen jeweils aus einem der Bereiche nach § 4 Absatz 2 stammen. Insgesamt müssen mindestens zwei dieser Bereiche abgedeckt werden.(4) Die Aufgabenstellung der schriftlichen Prüfung ist so zu gestalten, dass die Handlungsbereiche nach § 4 Absatz 1 Nummer 1 und 2 abgedeckt werden.
+(1) Die schriftliche Prüfung besteht aus drei Aufgabenstellungen. Die zu prüfende Person soll
 
-> (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++) (+++ § 10: zur Anwendung vgl. § 12 +++)
+1. einen schwierigen Text von rund 1 200 Zeichen aus dem Deutschen (Hauptsprache) in die Fremdsprache übersetzen,
+
+2. einen schwierigen Text von rund 1 200 Zeichen aus der Fremdsprache ins Deutsche (Hauptsprache) übersetzen und
+
+3. einen schwierigen fremdsprachigen Text von rund 3 600 Zeichen auf rund 1 200 Zeichen in der Fremdsprache zusammenfassen und eine Teilübersetzung von rund 1 200 Zeichen des fremdsprachigen Textes ins Deutsche (Hauptsprache) auf sprachliche und inhaltliche Richtigkeit prüfen und stilistisch überarbeiten.
+
+(2) Die Bearbeitungszeit beträgt für die Aufgaben nach Absatz 1 Satz 2 Nummer 1 und 2 jeweils 60 Minuten und für die Aufgabe nach Absatz 1 Satz 2 Nummer 3 insgesamt 120 Minuten.
+
+(3) Die Texte nach Absatz 1 Satz 2 Nummer 1 bis 3 müssen jeweils aus einem der Bereiche nach § 4 Absatz 2 stammen. Insgesamt müssen mindestens zwei dieser Bereiche abgedeckt werden.
+
+(4) Die Aufgabenstellung der schriftlichen Prüfung ist so zu gestalten, dass die Handlungsbereiche nach § 4 Absatz 1 Nummer 1 und 2 abgedeckt werden.
 
 ### § 11 — Übersetzungsprojekt mit anschließendem Fachgespräch
 
-(1) Das Übersetzungsprojekt ist nach erfolgreichem Abschluss der schriftlichen Prüfung durchzuführen.(2) Durch das Übersetzungsprojekt soll die zu prüfende Person nachweisen, dass sie einen Übersetzungsauftrag kunden- und qualitätsorientiert abwickeln kann und entsprechend den Handlungsbereichen nach § 4 Absatz 1 Nummer 1 und 4 in der Lage ist, Kundenanforderungen zu analysieren und unter Abwägung geeigneter Werkzeuge und Informationsquellen einen Übersetzungsauftrag qualitätsorientiert und fachgerecht durchzuführen.(3) Im Übersetzungsprojekt soll die zu prüfende Person 1.einen schwierigen Text von rund 1 800 Zeichen aus einem der Bereiche nach § 4 Absatz 2 aus der Fremdsprache ins Deutsche (Hauptsprache) übersetzen und2.eine schriftliche Dokumentation von mindestens 3 600 und höchstens 5 400 Zeichen in der Fremdsprache in Form einer Hausarbeit anfertigen, in der die Arbeitsschritte der Übersetzung beschrieben und Entscheidungen begründet werden.(4) Die Aufgabenstellung für das Übersetzungsprojekt erfolgt durch den Prüfungsausschuss. Die Bearbeitungszeit beträgt 14 Kalendertage.(5) Das projektbezogene Fachgespräch ist nach erfolgreichem Abschluss des Übersetzungsprojekts nach Absatz 3 durchzuführen.(6) In dem projektbezogenen Fachgespräch soll die zu prüfende Person nachweisen, dass sie in der Lage ist, entsprechend der Handlungsbereiche nach § 4 Absatz 1 Nummer 1, 3 und 4 auf hohem sprachlichem Niveau in der Fremdsprache mündlich zu kommunizieren und unterschiedliche Aspekte der Übersetzungspraxis und des wirtschaftsbezogenen Themengebietes zu erörtern. Das projektbezogene Fachgespräch soll nicht länger als 45 Minuten dauern.
+(1) Das Übersetzungsprojekt ist nach erfolgreichem Abschluss der schriftlichen Prüfung durchzuführen.
 
-> (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++) (+++ § 11: zur Anwendung vgl. § 12 +++)
+(2) Durch das Übersetzungsprojekt soll die zu prüfende Person nachweisen, dass sie einen Übersetzungsauftrag kunden- und qualitätsorientiert abwickeln kann und entsprechend den Handlungsbereichen nach § 4 Absatz 1 Nummer 1 und 4 in der Lage ist, Kundenanforderungen zu analysieren und unter Abwägung geeigneter Werkzeuge und Informationsquellen einen Übersetzungsauftrag qualitätsorientiert und fachgerecht durchzuführen.
+
+(3) Im Übersetzungsprojekt soll die zu prüfende Person
+
+1. einen schwierigen Text von rund 1 800 Zeichen aus einem der Bereiche nach § 4 Absatz 2 aus der Fremdsprache ins Deutsche (Hauptsprache) übersetzen und
+
+2. eine schriftliche Dokumentation von mindestens 3 600 und höchstens 5 400 Zeichen in der Fremdsprache in Form einer Hausarbeit anfertigen, in der die Arbeitsschritte der Übersetzung beschrieben und Entscheidungen begründet werden.
+
+(4) Die Aufgabenstellung für das Übersetzungsprojekt erfolgt durch den Prüfungsausschuss. Die Bearbeitungszeit beträgt 14 Kalendertage.
+
+(5) Das projektbezogene Fachgespräch ist nach erfolgreichem Abschluss des Übersetzungsprojekts nach Absatz 3 durchzuführen.
+
+(6) In dem projektbezogenen Fachgespräch soll die zu prüfende Person nachweisen, dass sie in der Lage ist, entsprechend der Handlungsbereiche nach § 4 Absatz 1 Nummer 1, 3 und 4 auf hohem sprachlichem Niveau in der Fremdsprache mündlich zu kommunizieren und unterschiedliche Aspekte der Übersetzungspraxis und des wirtschaftsbezogenen Themengebietes zu erörtern. Das projektbezogene Fachgespräch soll nicht länger als 45 Minuten dauern.
 
 ### § 12 — Deutsch als Fremdsprache
 
@@ -80,48 +210,116 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 ### § 14 — Bewerten der Prüfungsleistungen
 
-(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.(2) Als Prüfungsleistungen sind einzeln zu bewerten: 1.in der schriftlichen Prüfung die drei Aufgabenstellungen nach § 10 Absatz 1 Nummer 1 bis 3,2.im Übersetzungsprojekt a)die Übersetzung nach § 11 Absatz 3 Nummer 1 undb)die Dokumentation nach § 11 Absatz 3 Nummer 2 und3.das projektbezogene Fachgespräch nach § 11 Absatz 6.
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
+
+(2) Als Prüfungsleistungen sind einzeln zu bewerten:
+
+1. in der schriftlichen Prüfung die drei Aufgabenstellungen nach § 10 Absatz 1 Nummer 1 bis 3,
+
+2. im Übersetzungsprojekt a)die Übersetzung nach § 11 Absatz 3 Nummer 1 undb)die Dokumentation nach § 11 Absatz 3 Nummer 2 und die Übersetzung nach § 11 Absatz 3 Nummer 1 und die Dokumentation nach § 11 Absatz 3 Nummer 2 und
+
+3. das projektbezogene Fachgespräch nach § 11 Absatz 6.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 ### § 15 — Bestehen der Prüfung, Gesamtnote
 
-(1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind: 1.in der schriftlichen Prüfung in den drei Aufgabenstellungen nach § 11 Absatz 1 Nummer 1 bis 3 und2.im Übersetzungsprojekt a)in der Übersetzung nach § 11 Absatz 3 Nummer 1 undb)in der Dokumentation nach § 11 Absatz 3 Nummer 2 sowie3.im Fachgespräch nach § 11 Absatz 6.(2) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das gewichtete arithmetische Mittel zu berechnen. Dabei werden die Bewertungen wie folgt gewichtet: 1.die drei schriftlichen Aufgaben nach § 10 Absatz 3 Nummer 1 bis 3 mit jeweils 20 Prozent,2.die Übersetzung nach § 11 Absatz 3 Nummer 1 mit 20 Prozent,3.die Dokumentation nach § 11 Absatz 3 Nummer 2 mit 10 Prozent und4.das Fachgespräch nach § 11 Absatz 6 mit 10 Prozent.(3) Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl wird nach der Anlage 1 die Note als Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
+
+1. in der schriftlichen Prüfung in den drei Aufgabenstellungen nach § 11 Absatz 1 Nummer 1 bis 3 und
+
+2. im Übersetzungsprojekt a)in der Übersetzung nach § 11 Absatz 3 Nummer 1 undb)in der Dokumentation nach § 11 Absatz 3 Nummer 2 sowie in der Übersetzung nach § 11 Absatz 3 Nummer 1 und in der Dokumentation nach § 11 Absatz 3 Nummer 2 sowie
+
+3. im Fachgespräch nach § 11 Absatz 6.
+
+(2) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das gewichtete arithmetische Mittel zu berechnen. Dabei werden die Bewertungen wie folgt gewichtet:
+
+1. die drei schriftlichen Aufgaben nach § 10 Absatz 3 Nummer 1 bis 3 mit jeweils 20 Prozent,
+
+2. die Übersetzung nach § 11 Absatz 3 Nummer 1 mit 20 Prozent,
+
+3. die Dokumentation nach § 11 Absatz 3 Nummer 2 mit 10 Prozent und
+
+4. das Fachgespräch nach § 11 Absatz 6 mit 10 Prozent.
+
+(3) Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl wird nach der Anlage 1 die Note als Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 ### § 16 — Zeugnisse
 
-(1) Wer die Prüfung nach § 15 Absatz 1 bestanden hat erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.(2) Auf dem Zeugnis mit den Inhalten nach der Anlage 2 Teil B sind die Noten als Dezimalzahl mit einer Nachkommastelle und die Gesamtnote als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben. Jede Befreiung nach § 13 ist mit Ort, Datum und der Bezeichnung des Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur Information (Bemerkungen) enthalten, insbesondere 1.über den erworbenen Abschluss oder2.auf Antrag der zu prüfenden Person über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
+(1) Wer die Prüfung nach § 15 Absatz 1 bestanden hat erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach der Anlage 2 Teil B sind die Noten als Dezimalzahl mit einer Nachkommastelle und die Gesamtnote als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben. Jede Befreiung nach § 13 ist mit Ort, Datum und der Bezeichnung des Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur Information (Bemerkungen) enthalten, insbesondere
+
+1. über den erworbenen Abschluss oder
+
+2. auf Antrag der zu prüfenden Person über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 ### § 17 — Wiederholung der Prüfung
 
-(1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden.(2) Ist das projektbezogene Fachgespräch nicht bestanden worden, muss für die Wiederholungsprüfung ebenfalls das Übersetzungsprojekt als neue Aufgabe gestellt werden.(3) Die zu prüfende Person hat die Wiederholungsprüfung bei der zuständigen Stelle zu beantragen.(4) Wer eine Wiederholungsprüfung innerhalb von zwei Jahren, gerechnet vom Tag der nicht bestandenen Prüfung, beantragt, ist von denjenigen Prüfungsleistungen zu befreien, die in der vorangegangenen Prüfung mit mindestens „ausreichend“ bewertet worden sind.(5) Auf Antrag können im Fall der Wiederholung einer nicht bestandenen Prüfung auch bereits bestandene Prüfungsleistungen wiederholt werden. In diesem Fall gilt nur das Ergebnis der letzten Prüfung.
+(1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden.
+
+(2) Ist das projektbezogene Fachgespräch nicht bestanden worden, muss für die Wiederholungsprüfung ebenfalls das Übersetzungsprojekt als neue Aufgabe gestellt werden.
+
+(3) Die zu prüfende Person hat die Wiederholungsprüfung bei der zuständigen Stelle zu beantragen.
+
+(4) Wer eine Wiederholungsprüfung innerhalb von zwei Jahren, gerechnet vom Tag der nicht bestandenen Prüfung, beantragt, ist von denjenigen Prüfungsleistungen zu befreien, die in der vorangegangenen Prüfung mit mindestens „ausreichend“ bewertet worden sind.
+
+(5) Auf Antrag können im Fall der Wiederholung einer nicht bestandenen Prüfung auch bereits bestandene Prüfungsleistungen wiederholt werden. In diesem Fall gilt nur das Ergebnis der letzten Prüfung.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 ### § 18 — Übergangsvorschriften
 
-(1) Vor Ablauf des 31. Dezember 2017 angemeldete Prüfungen nach der Verordnung über die Prüfungen zu den anerkannten Abschlüssen Geprüfter Übersetzer/Geprüfte Übersetzerin und Geprüfter Dolmetscher/Geprüfte Dolmetscherin vom 18. Mai 2004 (BGBl. I S. 1004) werden bis zum 30. Juni 2020 nach den bisherigen Vorschriften zu Ende geführt.(2) Die Wiederholungsprüfung kann auf Antrag des Prüfungsteilnehmers oder der Prüfungsteilnehmerin auch nach dieser Verordnung durchgeführt werden; die Wiederholungsprüfung ist bis zum 31. Dezember 2021 zu Ende zu führen. § 16 Absatz 4 ist in diesem Fall nicht anzuwenden.
+(2) Die Wiederholungsprüfung kann auf Antrag des Prüfungsteilnehmers oder der Prüfungsteilnehmerin auch nach dieser Verordnung durchgeführt werden; die Wiederholungsprüfung ist bis zum 31. Dezember 2021 zu Ende zu führen. § 16 Absatz 4 ist in diesem Fall nicht anzuwenden.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 ### § 19 — Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. Januar 2018 in Kraft. Gleichzeitig tritt die Verordnung über die Prüfungen zu den anerkannten Abschlüssen Geprüfter Übersetzer/Geprüfte Übersetzerin und Geprüfter Dolmetscher/Geprüfte Dolmetscherin vom 18. Mai 2004 (BGBl. I S. 1004) außer Kraft.
-
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 ### Anlage 1 — (zu den §§ 14 und 15)
-
-(Fundstelle: BGBl. I 2019, 2432 – 2433)PunkteNoteals DezimalzahlNote in WortenDefinition1001,0sehr guteine Leistung, die den Anforderungen in besonderem Maß entspricht98 und 991,196 und 971,294 und 951,392 und 931,4911,5guteine Leistung, die den Anforderungen voll entspricht901,6891,7881,8871,985 und 862,0842,1832,2822,3812,479 und 802,5befriedigendeine Leistung, die den Anforderungen im Allgemeinen entspricht782,6772,775 und 762,8742,972 und 733,0713,1703,268 und 693,3673,465 und 663,5ausreichendeine Leistung, die zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht63 und 643,6623,760 und 613,858 und 593,956 und 574,0554,153 und 544,251 und 524,3504,448 und 494,5mangelhafteine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lässt, dass gewisse Grundkenntnisse noch vorhanden sind46 und 474,644 und 454,742 und 434,840 und 414,938 und 395,036 und 375,134 und 355,232 und 335,330 und 315,425 bis 295,5ungenügendeine Leistung, die den Anforderungen nicht entspricht und bei der selbst Grundkenntnisse fehlen20 bis 245,615 bis 195,710 bis 145,85 bis 95,90 bis 46,0
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 ### Anlage 2 — (zu § 16)
 
-(Fundstelle: BGBl. I 2019, 2433 - 2434)Teil A – Zeugnis ohne Prüfungsergebnisse:1.Bezeichnung der ausstellenden Behörde,2.Name und Geburtsdatum der geprüften Person,3.Datum des Bestehens der Prüfung,4.Bezeichnung des erworbenen Fortbildungsabschlusses nach § 2 Absatz 4,5.Angabe der Sprachen, in denen die Qualifikation erworben wurde,6.Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,7.Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.Teil B – Zeugnis mit Prüfungsergebnissen:Alle Angaben des Teils A sowie zusätzlich: 1.Benennung der Handlungsbereiche nach § 4 Absatz 1 und Bewertung mit Punkten sowie Angabe der Hauptsprache und der Zielsprache,2.zum Übersetzungsprojekt nach § 11 Absatz 2 bis 4: a)Benennung der Übersetzung nach § 11 Absatz 3 Nummer 1 und Bewertung mit Punkten sowie Angabe der Hauptsprache und der Zielsprache,b)Benennung der Dokumentation nach § 11 Absatz 3 Nummer 2 und Bewertung mit Punkten sowie Angabe der Hauptsprache und der Zielsprache,3.Benennung des Fachgesprächs nach § 11 Absatz 6 und Bewertung mit Punkten sowie Angabe der Hauptsprache und der Zielsprache,4.die errechnete Gesamtpunktzahl für die gesamte Prüfung,5.die Gesamtnote als Dezimalzahl,6.die Gesamtnote in Worten,7.Befreiungen nach § 13,8.Vorliegen der Nachweise nach § 3 Absatz 1.
+1. Bezeichnung der ausstellenden Behörde,
+
+2. Name und Geburtsdatum der geprüften Person,
+
+3. Datum des Bestehens der Prüfung,
+
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 2 Absatz 4,
+
+5. Angabe der Sprachen, in denen die Qualifikation erworben wurde,
+
+6. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
+
+7. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1. Benennung der Handlungsbereiche nach § 4 Absatz 1 und Bewertung mit Punkten sowie Angabe der Hauptsprache und der Zielsprache,
+
+2. zum Übersetzungsprojekt nach § 11 Absatz 2 bis 4: a)Benennung der Übersetzung nach § 11 Absatz 3 Nummer 1 und Bewertung mit Punkten sowie Angabe der Hauptsprache und der Zielsprache,b)Benennung der Dokumentation nach § 11 Absatz 3 Nummer 2 und Bewertung mit Punkten sowie Angabe der Hauptsprache und der Zielsprache, Benennung der Übersetzung nach § 11 Absatz 3 Nummer 1 und Bewertung mit Punkten sowie Angabe der Hauptsprache und der Zielsprache, Benennung der Dokumentation nach § 11 Absatz 3 Nummer 2 und Bewertung mit Punkten sowie Angabe der Hauptsprache und der Zielsprache,
+
+3. Benennung des Fachgesprächs nach § 11 Absatz 6 und Bewertung mit Punkten sowie Angabe der Hauptsprache und der Zielsprache,
+
+4. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+5. die Gesamtnote als Dezimalzahl,
+
+6. die Gesamtnote in Worten,
+
+7. Befreiungen nach § 13,
+
+8. Vorliegen der Nachweise nach § 3 Absatz 1.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)

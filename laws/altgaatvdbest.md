@@ -29,6 +29,4 @@ Diese Durchführungsbestimmung tritt mit ihrer Veröffentlichung in Kraft.
 
 ### Schlußformel
 
-Der Minister der Finanzen
-
 ### Anlage

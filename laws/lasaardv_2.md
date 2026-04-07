@@ -20,11 +20,11 @@ bei der Umstellung der saarländischen Unterhaltshilfe
 
 (1) Sind Vorauszahlungen im Sinne des § 12 Abs. 1 des Gesetzes (saarländische Vorauszahlungen) vor oder während der Gewährung von Unterhaltshilfe nach dem saarländischen Unterhaltshilfe-Gesetz (saarländische Unterhaltshilfe) gewährt worden, kann auf Unterhaltshilfe nach dem Lastenausgleichsgesetz umgestellt werden, auch wenn die saarländischen Vorauszahlungen den Mindesterfüllungsbetrag nach § 278a Abs. 4 des Lastenausgleichsgesetzes übersteigen.
 
-(2) Wird die saarländische Unterhaltshilfe nach Absatz 1 auf Unterhaltshilfe auf Lebenszeit umgestellt, kann daneben Entschädigungsrente gewährt werden, wenn Die Entschädigungsrente ist von dem Betrag zu berechnen, um den der nach Nummer 1 oder 2 jeweils maßgebende Grundbetrag den Sperrbetrag (§ 278 LAG) übersteigt; § 9 Abs. 2 der Sechzehnten Verordnung über Ausgleichsleistungen nach dem Lastenausgleichsgesetz ist entsprechend anzuwenden.
+(2) Wird die saarländische Unterhaltshilfe nach Absatz 1 auf Unterhaltshilfe auf Lebenszeit umgestellt, kann daneben Entschädigungsrente gewährt werden, wenn
 
-1.
+1. die saarländischen Vorauszahlungen den Mindesterfüllungsbetrag nach § 278a Abs. 4 des Lastenausgleichsgesetzes oder einen höheren anrechnungsfreien Zinszuschlag (§ 9 Abs. 1 Satz 3 der Sechzehnten Verordnung über Ausgleichsleistungen nach dem Lastenausgleichsgesetz in der Fassung vom 7. August 1969, Bundesgesetzbl. I S. 1089),
 
-2.
+2. der nach Abzug der saarländischen Vorauszahlungen verbleibende Grundbetrag der Hauptentschädigung den auf volle 100 Deutsche Mark nach oben aufgerundeten vorläufigen Anrechnungsbetrag der Unterhaltshilfe erreicht. Für die Berechnung des vorläufigen Anrechnungsbetrags der Unterhaltshilfe gilt § 10 Abs. 4 der 16. LeistungsDV-LA. Für die Berechnung der Entschädigungsrente ist der Grundbetrag der Hauptentschädigung maßgebend, der nach Abzug der saarländischen Vorauszahlungen verbleibt.
 
 (3) Wird die saarländische Unterhaltshilfe auf Entschädigungsrente allein umgestellt, ist die Entschädigungsrente von dem Grundbetrag der Hauptentschädigung zu berechnen, der nach Abzug der saarländischen Vorauszahlungen verbleibt. § 283 Nr. 4 Satz 2 Halbsatz 2 des Lastenausgleichsgesetzes und § 10 Abs. 1 Satz 2 der Sechzehnten Verordnung über Ausgleichsleistungen nach dem Lastenausgleichsgesetz sind entsprechend anzuwenden.
 
@@ -43,11 +43,11 @@ Sind saarländische Vorauszahlungen gewährt worden, wird der Mindesterfüllungs
 
 ### § 4 — Reihenfolge der Anrechnung
 
-Für die Reihenfolge der Anrechnung von Zahlungen an saarländischer Unterhaltshilfe, Kriegsschadenrente und saarländischen Vorauszahlungen auf die Hauptentschädigung gilt § 8 der 16. LeistungsDV-LA nach Maßgabe der folgenden Vorschriften: Wird außer den Vorauszahlungen noch ein Teil des Mindesterfüllungsbetrags nach § 3 gewährt, ist dieser in den Fällen der Nummer 1 Satz 2 im Anschluß an die Vorauszahlungen anzurechnen.
+Für die Reihenfolge der Anrechnung von Zahlungen an saarländischer Unterhaltshilfe, Kriegsschadenrente und saarländischen Vorauszahlungen auf die Hauptentschädigung gilt § 8 der 16. LeistungsDV-LA nach Maßgabe der folgenden Vorschriften:
 
-1.
+1. In den Fällen des § 1 Abs. 1 und 2 sind, wenn der Anspruch auf Hauptentschädigung durch die Gewährung von Unterhaltshilfe oder von Unterhaltshilfe und Entschädigungsrente nicht in voller Höhe vorläufig in Anspruch genommen ist, zunächst die Vorauszahlungen auf den nicht vorläufig in Anspruch genommenen Teil der Hauptentschädigung anzurechnen; dabei sind §§ 3 und 4 sowie § 7 Abs. 1 der 16. LeistungsDV-LA entsprechend anzuwenden. Soweit die Vorauszahlungen in den Fällen des § 1 Abs. 1 und 2 nicht nach Satz 1 angerechnet werden können, sind sie im Anschluß an die Unterhaltshilfe anzurechnen; die gleiche Reihenfolge gilt für die Fälle des § 1 Abs. 3.
 
-2.
+2. In den Fällen des § 2 Abs. 1 sind §§ 13 und 8 Nr. 4 der 16. LeistungsDV-LA entsprechend anzuwenden.
 
 ## Zweiter Titel: Zusammentreffen von Aufbaudarlehen
 mit saarländischen Vorauszahlungen, saarländischer Unterhaltshilfe
@@ -78,11 +78,11 @@ Erblasser
 
 ### § 8 — Anrechnung von saarländischen Vorauszahlungen an Erben
 
-(1) Saarländische Vorauszahlungen, die an einen Erben für Schäden des verstorbenen unmittelbar Geschädigten geleistet worden sind, werden angerechnet, (2)
+(1) Saarländische Vorauszahlungen, die an einen Erben für Schäden des verstorbenen unmittelbar Geschädigten geleistet worden sind, werden angerechnet,
 
-1.
+1. wenn der Erbfall vor dem 1. April 1952 eingetreten ist, vorbehaltlich des § 9, auf den Anspruch auf Hauptentschädigung, der in der Person des Erben für Schäden des unmittelbar Geschädigten entstanden ist,
 
-2.
+2. wenn der Erbfall nach dem 31. März 1952 eingetreten ist, auf den ererbten Anteil des auf Schäden des unmittelbar Geschädigten beruhenden Anspruchs auf Hauptentschädigung.
 
 ### § 9 — Anrechnung von saarländischen Vorauszahlungen
 auf mehrere Ansprüche auf Hauptentschädigung

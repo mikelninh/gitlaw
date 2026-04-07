@@ -72,19 +72,19 @@ Der Bund übernimmt ab 1. Januar 2005 als Mitschuldner die Verbindlichkeiten des
 
 (2) Der Ausgleich der Länder nach Absatz 1 wird auf die einzelnen Länder im Verhältnis der Summe ihrer Erstattungen zum Fonds in den Jahren 2002, 2003 und 2004 festgesetzt und ist dem Bund innerhalb von sechs Monaten nach einer vom Bundesministerium der Finanzen durchzuführenden Rechnungslegung zu erstatten. Die nach § 1 Abs. 3 des Finanzausgleichsgesetzes für das jeweilige Ausgleichsjahr geltenden Erhöhungs- und Ermäßigungsbeträge bleiben dabei unberücksichtigt.
 
-(3) Der Betrag für die Schulden des Fonds nach Absatz 1 Satz 1 ist wie folgt zu ermitteln: Die Ermittlung des Betrages wird den Ländern jährlich vom Bundesministerium der Finanzen mitgeteilt.
+(3) Der Betrag für die Schulden des Fonds nach Absatz 1 Satz 1 ist wie folgt zu ermitteln:
 
-1.
+1. Den Ausgangsbetrag bilden die Schulden des Fonds am 31. Dezember 2004. Für alle folgenden Jahre bis einschließlich 2019 ist nach den Ziffern 2 bis 6 zu verfahren.
 
-2.
+2. Der Schuldenstand zum Jahresende wird als Differenz zwischen dem Schuldenstand zum Ende des vorangegangenen Jahres abzüglich der Nettotilgungen des jeweils laufenden Jahres ermittelt.
 
-3.
+3. Die jährlich anzusetzenden Nettotilgungen werden ermittelt als Differenz zwischen den jährlichen Beträgen nach Ziffer 4 und den jeweils anzusetzenden Zinsleistungen nach Ziffer 5. Übersteigen die Zinsleistungen nach Ziffer 5 den in Ziffer 4 festgelegten Betrag, so wird unterstellt, dass die Differenz rechnerisch durch Nettokreditaufnahme ausgeglichen wird.
 
-4.
+4. Für die Summe aus Zins- und Nettotilgungsleistungen sind jährliche Beträge von 3.581.088.335,90 Euro zugrunde zu legen.
 
-5.
+5. Die jährlichen Zinsleistungen ergeben sich, indem der nach Ziffer 2 ermittelte Jahresendwert der Schulden des vorangegangenen Jahres mit dem Zinssatz nach Ziffer 6 multipliziert und durch 100 geteilt wird.
 
-6.
+6. Der jeweils anzusetzende Zinssatz wird errechnet, indem die tatsächlichen Zinsausgaben des Bundes für die gesamte Bundesschuld (einschließlich des Fonds) eines jeden Jahres durch die gesamte zum Ende des jeweiligen vorangegangenen Jahres ausgewiesene Bundesschuld (einschließlich des Fonds) geteilt und mit 100 multipliziert wird.
 
 ### § 7 — Wirtschaftsplan
 

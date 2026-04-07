@@ -13,21 +13,15 @@ Nach § 34 Absatz 5, § 42 Absatz 1 Satz 2 und § 84 Satz 2 des Bundesdisziplina
 
 (1) Den Leiterinnen und Leitern der unmittelbar nachgeordneten Behörden werden für den jeweiligen Geschäftsbereich übertragen:
 
-1.
+1. gegenüber Beamtinnen und Beamten mit Ausnahme der mit der stellvertretenden Leitung der Behörde beauftragten Personen: a)die Befugnis, Kürzungen der Dienstbezüge bis zum Höchstmaß festzusetzen,b)die Befugnis, die Zurückstufung oder die Entfernung aus dem Beamtenverhältnis auszusprechen, undc)die Zuständigkeit für den Erlass des Widerspruchsbescheids, die Befugnis, Kürzungen der Dienstbezüge bis zum Höchstmaß festzusetzen, die Befugnis, die Zurückstufung oder die Entfernung aus dem Beamtenverhältnis auszusprechen, und die Zuständigkeit für den Erlass des Widerspruchsbescheids,
 
-a)
+2. die Disziplinarbefugnisse gegenüber Ruhestandsbeamtinnen und Ruhestandsbeamten.
 
-b)
+(2) Absatz 1 gilt nicht für die DFS Deutsche Flugsicherung GmbH und für die Autobahn GmbH des Bundes. Die Befugnisse gemäß Absatz 1 werden
 
-c)
+1. für die bei der DFS Deutsche Flugsicherung GmbH tätigen Beamtinnen und Beamten des Luftfahrt-Bundesamtes dem Leiter oder der Leiterin der Dienststelle Flugsicherung beim Luftfahrt-Bundesamt und
 
-2.
-
-(2) Absatz 1 gilt nicht für die DFS Deutsche Flugsicherung GmbH und für die Autobahn GmbH des Bundes. Die Befugnisse gemäß Absatz 1 werden übertragen.
-
-1.
-
-2.
+2. für die bei der Autobahn GmbH des Bundes tätigen Beamtinnen und Beamten des Fernstraßen-Bundesamtes dem Präsidenten oder der Präsidentin des Fernstraßen-Bundesamtes
 
 ### § 2 — Übertragung von Zuständigkeiten in Widerspruchsverfahren in beamtenrechtlichen Angelegenheiten
 

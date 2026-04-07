@@ -11,37 +11,25 @@ Angesichts der großen Hochwasserschäden in den letzten beiden Jahrzehnten und 
 
 § 17 ROG konkretisiert die bereits im Jahr 1954 vom Bundesverfassungsgericht bejahte (1 PBvV 2/52) raumordnerische Kompetenz des Bundes kraft Natur der Sache für den größten zu ordnenden und zu gestaltenden Raum, nämlich das gesamte Staatsgebiet: Gemäß § 17 Absatz 2 ROG kann der Bund länderübergreifende Raumordnungspläne für den Hochwasserschutz aufstellen, sofern sie aus nationalen oder europäischen Gesichtspunkten erforderlich sind.
 
-Hochwasser macht nicht an Landesgrenzen halt. Entsprechend bezweckt der Raumordnungsplan des Bundes eine länderübergreifende Sicherung im Hinblick auf Hochwasserrisikomanagement vor dem Hintergrund der raumordnerischen Leitvorstellung einer nachhaltigen Entwicklung und Ordnung des Gesamtraums. Dem Raumordnungsplan liegt ein eigenständiges gesamträumliches Planungskonzept zugrunde, das auf Unterstützung der Fachplanung und der Landes-, Regional- und Kommunalplanung angelegt ist und diesen Planungen einen ebenenspezifischen Konkretisierungsspielraum gibt. Daher werden die Fachplanung für den Hochwasserschutz (Wasserwirtschaft) und die räumliche Planung auf Landes-, Regional- und Kommunalebene durch den Raumordnungsplan weder ersetzt noch (lediglich) nachgezeichnet. Vielmehr ist es Ziel des raumordnerischen Planungskonzeptes, das Hochwasserrisiko in Deutschland zu minimieren und dadurch Schadenspotenziale zu begrenzen, indem eine effektive raumplanerische Hochwasservorsorge insbesondere mit den folgenden Aspekten zur Anwendung kommt: Der Raumordnungsplan ist komplementär zum Regelungsregime des Fachrechts, dem Wasserhaushaltsgesetz, konzipiert. Daher erfolgt zum einen für die festgesetzten oder vorläufig gesicherten Überschwemmungsgebiete sowie die Risikogebiete außerhalb der Überschwemmungsgebiete im Sinne des Wasserhaushaltsgesetzes eine Bezugnahme auf die Regelungen des Wasserhaushaltsgesetzes, soweit diese abschließend sind. Diese Regelungen des Wasserhaushaltsgesetzes bleiben also unberührt. Des Weiteren erfolgt eine weitgehende Bezugnahme auf die Definitionen und Gebietskulissen des Fachrechts. Zum anderen erfolgt eine verstärkte Berücksichtigung von Flächen außerhalb von wasserwirtschaftlich festgesetzten oder vorläufig gesicherten Überschwemmungsgebieten. Die Flächen außerhalb dieser Gebiete weisen statistisch ein zunehmendes Schadenspotenzial auf.
+Hochwasser macht nicht an Landesgrenzen halt. Entsprechend bezweckt der Raumordnungsplan des Bundes eine länderübergreifende Sicherung im Hinblick auf Hochwasserrisikomanagement vor dem Hintergrund der raumordnerischen Leitvorstellung einer nachhaltigen Entwicklung und Ordnung des Gesamtraums. Dem Raumordnungsplan liegt ein eigenständiges gesamträumliches Planungskonzept zugrunde, das auf Unterstützung der Fachplanung und der Landes-, Regional- und Kommunalplanung angelegt ist und diesen Planungen einen ebenenspezifischen Konkretisierungsspielraum gibt. Daher werden die Fachplanung für den Hochwasserschutz (Wasserwirtschaft) und die räumliche Planung auf Landes-, Regional- und Kommunalebene durch den Raumordnungsplan weder ersetzt noch (lediglich) nachgezeichnet. Vielmehr ist es Ziel des raumordnerischen Planungskonzeptes, das Hochwasserrisiko in Deutschland zu minimieren und dadurch Schadenspotenziale zu begrenzen, indem eine effektive raumplanerische Hochwasservorsorge insbesondere mit den folgenden Aspekten zur Anwendung kommt:
 
-•
+• Bundesweite Harmonisierung raumplanerischer Standards zur besseren Koordinierung des Hochwasserschutzes sowie ein auf die gesamte Flussgebietseinheit bezogener raumplanerischer Ansatz (Unterliegerschutz etc.),
 
-•
+• Einführung eines risikobasierten Ansatzes in der Raumplanung zur Berücksichtigung differenzierter Aspekte (Empfindlichkeiten, Schutzwürdigkeiten),
 
-•
+• Regelung „Kritischer Infrastrukturen“ zur Verbesserung des Schutzes von Anlagen von nationaler oder europäischer Bedeutung.
 
 Der Raumordnungsplan wahrt die verfassungsrechtliche Planungshoheit der Länder und Kommunen. Er ist in weiten Bereichen auf eine Konkretisierung durch die landesweiten und regionalen Raumplanungen sowie durch die kommunale Bauleitplanung angelegt. Zudem lassen Regel-Ausnahme-Festlegungen den erforderlichen Spielraum für passgenaue regional- und kommunalspezifische Planungen und Maßnahmen für den Hochwasserschutz.
 
 Bei den mit „Z“ gekennzeichneten Festlegungen handelt es sich um Ziele der Raumordnung gemäß § 3 Absatz 1 Nummer 2 ROG, bei den mit „G“ gekennzeichneten Festlegungen um Grundsätze der Raumordnung gemäß § 3 Absatz 1 Nummer 3 ROG.
 
-1.
+1. Hochwasserrisikomanagement I.1.1 (Z) Bei raumbedeutsamen Planungen und Maßnahmen einschließlich der Siedlungsentwicklung sind die Risiken von Hochwassern nach Maßgabe der bei öffentlichen Stellen verfügbaren Daten zu prüfen; dies betrifft neben der Wahrscheinlichkeit des Eintritts eines Hochwasserereignisses und seinem räumlichen und zeitlichen Ausmaß auch die Wassertiefe und die Fließgeschwindigkeit. Ferner sind die unterschiedlichen Empfindlichkeiten und Schutzwürdigkeiten der einzelnen Raumnutzungen und Raumfunktionen in die Prüfung von Hochwasserrisiken einzubeziehen.I.1.2 (G) Bei raumbedeutsamen Maßnahmen zum Hochwasserschutz sollen neben den fachrechtlich erforderlichen Belangen auch wasserwirtschaftliche Erkenntnisse aus vergangenen extremen Hochwasserereignissen zugrunde gelegt werden. Gleichfalls sollen die volkswirtschaftlichen Auswirkungen dieser Ereignisse zugrunde gelegt werden, soweit diesbezügliche Daten und Bewertungskriterien bekannt oder bei öffentlichen Stellen verfügbar sind.
 
-2.
+1. Einzugsgebiete nach § 3 Nummer 13 WHG II.1.1 (G) Bei raumbedeutsamen Planungen und Maßnahmen in Einzugsgebieten nach § 3 Nummer 13 WHG sollen hochwasserminimierende Aspekte berücksichtigt werden. Auf eine weitere Verringerung der Schadenspotentiale soll auch dort, wo technische Hochwasserschutzanlagen schon vorhanden sind, hingewirkt werden.II.1.2 (Z) In Einzugsgebieten nach § 3 Nummer 13 WHG ist hinter Hochwasserschutzanlagen der Raum, der aus wasserwirtschaftlicher Sicht für eine später notwendige Verstärkung der Hochwasserschutzanlagen erforderlich sein wird, von entgegenstehenden Nutzungen und Funktionen freizuhalten. Gleichermaßen ist der aus wasserwirtschaftlicher Sicht erforderliche Raum für Deichrückverlegungen von entgegenstehenden Nutzungen und Funktionen freizuhalten. Als erforderlich im Sinne von Satz 1 und 2 ist ein Raum nur dann anzusehen, wenn die für den Hochwasserschutz zuständige Behörde aufgrund einer hinreichend verfestigten Planung gegenüber einem potenziellen Nutzer im Zeitpunkt von dessen Antragstellung nachweist, dass dort eine bestimmte Verstärkungsmaßnahme oder Deichrückverlegung notwendig werden wird. Die Sätze 1 und 2 gelten nur für den Fall, dass den Maßnahmen des Hochwasserschutzes keine unüberwindbaren Rechte entgegenstehen; Satz 2 gilt nicht, wenn eine Erweiterung bestehender Anlagen den Hochwasserschutz nur unerheblich beeinträchtigt und diese Beeinträchtigung im zeitlichen, räumlichen und funktionalen Zusammenhang ausgeglichen wird. § 77 WHG bleibt unberührt.II.1.3 (Z) Bei raumbedeutsamen Planungen und Maßnahmen in Einzugsgebieten nach § 3 Nummer 13 WHG ist das natürliche Wasserversickerungs- und Wasserrückhaltevermögen des Bodens, soweit es hochwassermindernd wirkt und Daten über das Wasserhaltevermögen des Bodens bei öffentlichen Stellen verfügbar sind, zu erhalten. Einer Erhaltung im Sinne von Satz 1 wird gleichgesetzt:1.Eine Beeinträchtigung des Wasserversickerungs- und Wasserrückhaltevermögens des Bodens wird in angemessener Frist in einem räumlichen und funktionalen Zusammenhang ausgeglichen.2.Bei notwendigen Unterhaltungsmaßnahmen sowie Ausbau- und Neubauvorhaben von Bundeswasserstraßen werden mehr als nur geringfügige Auswirkungen auf den Hochwasserschutz vermieden. Eine Beeinträchtigung des Wasserversickerungs- und Wasserrückhaltevermögens des Bodens wird in angemessener Frist in einem räumlichen und funktionalen Zusammenhang ausgeglichen. Bei notwendigen Unterhaltungsmaßnahmen sowie Ausbau- und Neubauvorhaben von Bundeswasserstraßen werden mehr als nur geringfügige Auswirkungen auf den Hochwasserschutz vermieden. II.1.4 (G) Die in Einzugsgebieten nach § 3 Nummer 13 WHG als Abfluss- und Retentionsraum wirksamen Bereiche in und an Gewässern sollen in ihrer Funktionsfähigkeit für den Hochwasserschutz erhalten werden. Flächen, die zurzeit nicht als Rückhalteflächen genutzt werden, aber für den Wasserrückhalt aus wasserwirtschaftlicher Sicht geeignet und erforderlich sind, sollen von entgegenstehenden Nutzungen freigehalten und als Retentionsraum zurückgewonnen werden; dies gilt insbesondere für Flächen, die an ausgebaute oder eingedeichte Gewässer angrenzen. Eine Flächenfreihaltung ist nur dann erforderlich, wenn die für den Hochwasserschutz zuständige Behörde aufgrund einer hinreichend verfestigten Planung gegenüber einem potenziellen Nutzer im Zeitpunkt von dessen Antragstellung nachweist, dass diese Fläche als Retentionsraum genutzt wird oder genutzt werden soll. Auf Flächen nach Satz 1 und Satz 2 sollen den Hochwasserabfluss oder die Hochwasserrückhaltung beeinträchtigende Nutzungen nur ausnahmsweise geplant oder zugelassen werden, wenn überwiegende Gründe des Klimaschutzes oder eines anderen öffentlichen Interesses dies notwendig machen und ein zeit- und ortsnaher Ausgleich des Retentionsraumverlusts vorgesehen ist. Satz 4 gilt nicht für Maßnahmen des Hochwasserschutzes. § 77 WHG bleibt unberührt.II.1.5 (G) Werden im Zuge des Ausbaus von Gewässern sowie des Ausbaus, des Neubaus oder der Beseitigung von Bundeswasserstraßen raumbedeutsame Renaturierungsmaßnahmen geplant, die zur Senkung des Hochwasserrisikos führen können, sollen diese Renaturierungsmaßnahmen bei Bedarf auf geeignete Weise räumlich gesichert werden.II.1.6 (G) Raumbedeutsame Maßnahmen des Hochwasserschutzes sollen auf geeignete Weise räumlich gesichert werden, soweit sie in der zum Zeitpunkt der Sicherung geltenden Maßnahmenliste des Nationalen Hochwasserschutzprogramms enthalten und noch nicht in Bau oder Betrieb sind.II.1.7 (G) Negative Auswirkungen von Hochwassern auf die Trinkwasserversorgung, insbesondere auf Anlagen der Trinkwasserversorgung, sollen vermieden werden.
 
-1.
+2. Ergänzende Festlegungen für Überschwemmungsgebiete nach § 76 Absatz 1 WHG II.2.1 (G) Überschwemmungsgebiete nach § 76 Absatz 1 WHG, die noch nicht wasserrechtlich vorläufig gesichert wurden, sollen auf geeignete Weise räumlich gesichert werden. § 76 Absatz 3 WHG bleibt unberührt.II.2.2 (G) In Überschwemmungsgebieten nach § 76 Absatz 1 WHG sollen Siedlungen und raumbedeutsame bauliche Anlagen entsprechend den Regelungen der §§ 78, 78a WHG nicht erweitert oder neu geplant, ausgewiesen oder errichtet werden. Die Minimierung von Hochwasserrisiken soll auch insoweit berücksichtigt werden, als Folgendes geprüft wird:1.Rücknahme von in Flächennutzungsplänen für die Bebauung dargestellten Flächen sowie von in landesweiten und regionalen Raumordnungsplänen für die Bebauung festgelegten Gebieten, wenn für sie noch kein Bebauungsplan oder keine Satzung nach § 34 Absatz 4 oder § 35 Absatz 6 BauGB aufgestellt wurde. Dies gilt nicht, wenn in der jeweiligen Gemeinde keine ernsthaft in Betracht kommenden Standortalternativen bestehen oder die Rücknahme eine wirtschaftlich unzumutbare Belastung für die Gemeinde darstellen würde. In diesem Fall soll bei baulichen Anlagen eine Bauweise gewählt werden, die der für den jeweiligen Standort im Überflutungsfall prognostizierten Wassertiefe und Fließgeschwindigkeit angepasst ist.2.Umplanung und Umbau vorhandener Siedlungen bzw. Siedlungsstrukturen in einem mittelfristigen Zeitraum, soweit es die räumliche Situation in den betroffenen Gemeinden und das Denkmalschutzrecht zulassen und soweit dies langfristig unter volkswirtschaftlichen Gesichtspunkten kosteneffizienter als ein Flächen- oder Objektschutz ist. Rücknahme von in Flächennutzungsplänen für die Bebauung dargestellten Flächen sowie von in landesweiten und regionalen Raumordnungsplänen für die Bebauung festgelegten Gebieten, wenn für sie noch kein Bebauungsplan oder keine Satzung nach § 34 Absatz 4 oder § 35 Absatz 6 BauGB aufgestellt wurde. Dies gilt nicht, wenn in der jeweiligen Gemeinde keine ernsthaft in Betracht kommenden Standortalternativen bestehen oder die Rücknahme eine wirtschaftlich unzumutbare Belastung für die Gemeinde darstellen würde. In diesem Fall soll bei baulichen Anlagen eine Bauweise gewählt werden, die der für den jeweiligen Standort im Überflutungsfall prognostizierten Wassertiefe und Fließgeschwindigkeit angepasst ist. Umplanung und Umbau vorhandener Siedlungen bzw. Siedlungsstrukturen in einem mittelfristigen Zeitraum, soweit es die räumliche Situation in den betroffenen Gemeinden und das Denkmalschutzrecht zulassen und soweit dies langfristig unter volkswirtschaftlichen Gesichtspunkten kosteneffizienter als ein Flächen- oder Objektschutz ist. II.2.3 (Z) In Überschwemmungsgebieten nach § 76 Absatz 1 WHG dürfen folgende Infrastrukturen und Anlagen, sofern sie raumbedeutsam sind, weder geplant noch zugelassen werden, es sei denn, sie können nach § 78 Absatz 5, 6 oder 7 oder § 78a Absatz 2 WHG zugelassen werden:1.Kritische Infrastrukturen mit länder- oder staatsgrenzenüberschreitender Bedeutung; dies sind insbesondere Infrastrukturen des Kernnetzes der europäischen Verkehrsinfrastruktur außer Häfen und Wasserstraßen sowie die Projects of Common Interest der europäischen Energieinfrastruktur in der jeweils geltenden Fassung der Unionsliste der Vorhaben von gemeinschaftlicher Bedeutung,2.weitere Kritische Infrastrukturen, soweit sie von der BSI-Kritisverordnung erfasst sind,3.Anlagen oder Betriebsbereiche, die unter die Industrieemissionsrichtlinie oder die SEVESO-III-Richtlinie fallen. Kritische Infrastrukturen mit länder- oder staatsgrenzenüberschreitender Bedeutung; dies sind insbesondere Infrastrukturen des Kernnetzes der europäischen Verkehrsinfrastruktur außer Häfen und Wasserstraßen sowie die Projects of Common Interest der europäischen Energieinfrastruktur in der jeweils geltenden Fassung der Unionsliste der Vorhaben von gemeinschaftlicher Bedeutung, weitere Kritische Infrastrukturen, soweit sie von der BSI-Kritisverordnung erfasst sind, Anlagen oder Betriebsbereiche, die unter die Industrieemissionsrichtlinie oder die SEVESO-III-Richtlinie fallen. Satz 1 gilt nicht für die Fachplanung nach § 5 NABEG; die Anwendbarkeit von Satz 1 sowie der §§ 78, 78a WHG auf die Zulassung von Vorhaben nach §§ 18 ff. NABEG bleibt unberührt.
 
-2.
-
-1.
-
-2.
-
-3.
-
-1.
-
-2.
-
-3.
+3. Ergänzende Festlegung für Risikogebiete außerhalb von Überschwemmungsgebieten nach § 78b WHG II.3 (G) In Risikogebieten außerhalb von Überschwemmungsgebieten nach § 78b WHG sollen folgende Infrastrukturen und Anlagen, sofern sie raumbedeutsam sind, weder geplant noch zugelassen werden, es sei denn, sie erfüllen die Voraussetzungen des § 78b Absatz 1 Satz 2 WHG:1.Kritische Infrastrukturen mit länder- oder staatsgrenzenüberschreitender Bedeutung; dies sind insbesondere Infrastrukturen des Kernnetzes der europäischen Verkehrsinfrastruktur außer Häfen und Wasserstraßen sowie die Projects of Common Interest der europäischen Energieinfrastruktur in der jeweils geltenden Fassung der Unionsliste der Vorhaben von gemeinschaftlicher Bedeutung,2.weitere Kritische Infrastrukturen, soweit sie von der BSI-Kritisverordnung erfasst sind,3.bauliche Anlagen, die ein komplexes Evakuierungsmanagement erfordern. Kritische Infrastrukturen mit länder- oder staatsgrenzenüberschreitender Bedeutung; dies sind insbesondere Infrastrukturen des Kernnetzes der europäischen Verkehrsinfrastruktur außer Häfen und Wasserstraßen sowie die Projects of Common Interest der europäischen Energieinfrastruktur in der jeweils geltenden Fassung der Unionsliste der Vorhaben von gemeinschaftlicher Bedeutung, weitere Kritische Infrastrukturen, soweit sie von der BSI-Kritisverordnung erfasst sind, bauliche Anlagen, die ein komplexes Evakuierungsmanagement erfordern. Satz 1 gilt nicht für die Fachplanung nach § 5 NABEG; die Anwendbarkeit von Satz 1 sowie von § 78b WHG auf die Zulassung von Vorhaben nach §§ 18 ff. NABEG bleibt unberührt.
 
 III.1 (Z) Der Raum, der für eine aus wasserwirtschaftlicher Sicht später notwendig werdende, rechtlich mögliche Verstärkung von technischen Anlagen zum Schutz vor Meeresüberflutungen erforderlich sein wird, ist binnenseitig von entgegenstehenden Nutzungen und Funktionen freizuhalten.
 
@@ -51,19 +39,19 @@ III.3 (G) Raumbedeutsame Planungen und Maßnahmen, die den Schutz vor Meeresübe
 
 III.4 (G) Siedlungen sollen nur in ausreichend geschützten Küstengebieten weiterentwickelt werden. Satz 1 findet keine Anwendung, wenn die Weiterentwicklung von Siedlungen den Schutz vor Meeresüberflutungen nicht beeinträchtigt, und wenn überwiegende Gründe des öffentlichen Interesses die Weiterentwicklung notwendig machen; in diesem Fall soll für die baulichen Anlagen eine Bauweise gewählt werden, die der für den jeweiligen Standort im Überflutungsfall prognostizierten Wassertiefe und hydrodynamischen Belastung angepasst ist.
 
-III.5 (G) Die in Satz 3 genannten Infrastrukturen und Anlagen sollen, sofern sie raumbedeutsam sind, sowohl in ausreichend geschützten als auch in nicht ausreichend geschützten Küstengebieten nur geplant und zugelassen werden, wennFür die in Satz 1 genannten Infrastrukturen und Anlagen, die nicht Satz 1 Nummer 2 unterfallen, gilt für den Fall, dass sie in einem nicht ausreichend geschützten Küstengebiet geplant oder zugelassen werden sollen, zudem, dass eine Bauweise gewählt werden soll, die der für den jeweiligen Standort im Überflutungsfall prognostizierten Wassertiefe und hydrodynamischen Belastung angepasst ist.
+III.5 (G) Die in Satz 3 genannten Infrastrukturen und Anlagen sollen, sofern sie raumbedeutsam sind, sowohl in ausreichend geschützten als auch in nicht ausreichend geschützten Küstengebieten nur geplant und zugelassen werden, wenn
 
-1.
+1. ernsthaft in Betracht kommende Standort- oder Trassenalternativen, die weniger überflutungsgefährdet sind, fehlen, oder
 
-2.
+2. eine Überflutung bei der konkreten Infrastruktur oder Anlage kein spezifisches Risiko auslöst.
 
 Satz 1 gilt für die folgenden Infrastrukturen:
 
-1.
+1. Kritische Infrastrukturen mit länder- oder staatsgrenzenüberschreitender Bedeutung; dies sind insbesondere Infrastrukturen des Kernnetzes der europäischen Verkehrsinfrastruktur außer Häfen und Wasserstraßen sowie die Projects of Common Interest der europäischen Energieinfrastruktur in der jeweils geltenden Fassung der Unionsliste der Vorhaben von gemeinschaftlicher Bedeutung,
 
-2.
+2. weitere Kritische Infrastrukturen, soweit sie von der BSI-Kritisverordnung erfasst sind,
 
-3.
+3. bauliche Anlagen, die ein komplexes Evakuierungsmanagement erfordern.
 
 I.1.1 (Z) Bei raumbedeutsamen Planungen und Maßnahmen einschließlich der Siedlungsentwicklung sind die Risiken von Hochwassern nach Maßgabe der bei öffentlichen Stellen verfügbaren Daten zu prüfen; dies betrifft neben der Wahrscheinlichkeit des Eintritts eines Hochwasserereignisses und seinem räumlichen und zeitlichen Ausmaß auch die Wassertiefe und die Fließgeschwindigkeit. Ferner sind die unterschiedlichen Empfindlichkeiten und Schutzwürdigkeiten der einzelnen Raumnutzungen und Raumfunktionen in die Prüfung von Hochwasserrisiken einzubeziehen.
 
@@ -153,9 +141,9 @@ Adressat der Festlegung sind die in § 4 Absatz 1 und 2 ROG genannten Stellen un
 
 II.1.3 (Z) Bei raumbedeutsamen Planungen und Maßnahmen in Einzugsgebieten nach § 3 Nummer 13 WHG ist das natürliche Wasserversickerungs- und Wasserrückhaltevermögen des Bodens, soweit es hochwassermindernd wirkt und Daten über das Wasserhaltevermögen des Bodens bei öffentlichen Stellen verfügbar sind, zu erhalten. Einer Erhaltung im Sinne von Satz 1 wird gleichgesetzt:
 
-1.
+1. Eine Beeinträchtigung des Wasserversickerungs- und Wasserrückhaltevermögens des Bodens wird in angemessener Frist in einem räumlichen und funktionalen Zusammenhang ausgeglichen.
 
-2.
+2. Bei notwendigen Unterhaltungsmaßnahmen sowie Ausbau- und Neubauvorhaben von Bundeswasserstraßen werden mehr als nur geringfügige Auswirkungen auf den Hochwasserschutz vermieden.
 
 Mithilfe der Erhaltung des Wasserversickerungs- und Wasserrückhaltevermögens des Bodens werden die Retentionsfunktion gestärkt und das Hochwasserrisiko minimiert. Dies kann u. a. durch Maßnahmen erreicht werden wie die Sicherung unversiegelter Flächen, die Flächenentsiegelung oder das flächensparende Bauen.
 
@@ -217,9 +205,9 @@ Adressat der Festlegung sind die in § 4 Absatz 1 und 2 ROG genannten Stellen un
 
 II.2.2 (G) In Überschwemmungsgebieten nach § 76 Absatz 1 WHG sollen Siedlungen und raumbedeutsame bauliche Anlagen entsprechend den Regelungen der §§ 78, 78a WHG nicht erweitert oder neu geplant, ausgewiesen oder errichtet werden. Die Minimierung von Hochwasserrisiken soll auch insoweit berücksichtigt werden, als Folgendes geprüft wird:
 
-1.
+1. Rücknahme von in Flächennutzungsplänen für die Bebauung dargestellten Flächen sowie von in landesweiten und regionalen Raumordnungsplänen für die Bebauung festgelegten Gebieten, wenn für sie noch kein Bebauungsplan oder keine Satzung nach § 34 Absatz 4 oder § 35 Absatz 6 BauGB aufgestellt wurde. Dies gilt nicht, wenn in der jeweiligen Gemeinde keine ernsthaft in Betracht kommenden Standortalternativen bestehen oder die Rücknahme eine wirtschaftlich unzumutbare Belastung für die Gemeinde darstellen würde. In diesem Fall soll bei baulichen Anlagen eine Bauweise gewählt werden, die der für den jeweiligen Standort im Überflutungsfall prognostizierten Wassertiefe und Fließgeschwindigkeit angepasst ist.
 
-2.
+2. Umplanung und Umbau vorhandener Siedlungen bzw. Siedlungsstrukturen in einem mittelfristigen Zeitraum, soweit es die räumliche Situation in den betroffenen Gemeinden und das Denkmalschutzrecht zulassen und soweit dies langfristig unter volkswirtschaftlichen Gesichtspunkten kosteneffizienter als ein Flächen- oder Objektschutz ist.
 
 Im Hinblick auf die in II.2.2 geregelten Einschränkungen der Siedlungsentwicklung wird auf die vorrangigen, fachgesetzlichen Regelungen der §§ 78 und 78a WHG verwiesen. Dieser Verweis umfasst auch die in §§ 78, 78a WHG geregelten Voraussetzungen, unter denen eine Erweiterung, Neuplanung, Ausweisung oder Errichtung von Siedlungen oder von raumbedeutsamen baulichen Anlagen möglich ist. Dem sowie der Planungshoheit der Länder und Gemeinden trägt II.2.2 auch dadurch Rechnung, dass diese Festlegung als Grundsatz der Raumordnung im Rahmen der Abwägung überwunden werden kann. Damit trägt die Festlegung II.2.2 dem Verhältnismäßigkeitsprinzip in sachgerechter Weise Rechnung.
 
@@ -231,13 +219,13 @@ Satz 2 Nummer 2 soll auf eine aktive Verringerung des Hochwasserrisikos in Über
 
 Adressat der Festlegung sind die in § 4 Absatz 1 und 2 ROG genannten Stellen und Personen, die Ziele der Raumordnung zu beachten und Grundsätze der Raumordnung zu berücksichtigen haben. Dies sind vorliegend in erster Linie die Träger der Bauleitplanung. Daneben sind Adressat die Stellen, die für die Genehmigung der in der Festlegung genannten Anlagen zuständig sind, soweit diese Stellen von der Bindungswirkung des § 4 ROG erfasst werden.
 
-II.2.3 (Z) In Überschwemmungsgebieten nach § 76 Absatz 1 WHG dürfen folgende Infrastrukturen und Anlagen, sofern sie raumbedeutsam sind, weder geplant noch zugelassen werden, es sei denn, sie können nach § 78 Absatz 5, 6 oder 7 oder § 78a Absatz 2 WHG zugelassen werden:Satz 1 gilt nicht für die Fachplanung nach § 5 NABEG; die Anwendbarkeit von Satz 1 sowie der §§ 78, 78a WHG auf die Zulassung von Vorhaben nach §§ 18 ff. NABEG bleibt unberührt.
+II.2.3 (Z) In Überschwemmungsgebieten nach § 76 Absatz 1 WHG dürfen folgende Infrastrukturen und Anlagen, sofern sie raumbedeutsam sind, weder geplant noch zugelassen werden, es sei denn, sie können nach § 78 Absatz 5, 6 oder 7 oder § 78a Absatz 2 WHG zugelassen werden:
 
-1.
+1. Kritische Infrastrukturen mit länder- oder staatsgrenzenüberschreitender Bedeutung; dies sind insbesondere Infrastrukturen des Kernnetzes der europäischen Verkehrsinfrastruktur außer Häfen und Wasserstraßen sowie die Projects of Common Interest der europäischen Energieinfrastruktur in der jeweils geltenden Fassung der Unionsliste der Vorhaben von gemeinschaftlicher Bedeutung,
 
-2.
+2. weitere Kritische Infrastrukturen, soweit sie von der BSI-Kritisverordnung erfasst sind,
 
-3.
+3. Anlagen oder Betriebsbereiche, die unter die Industrieemissionsrichtlinie oder die SEVESO-III-Richtlinie fallen.
 
 Wesentlich beim Schutz kritischer Infrastrukturen im Unterschied zu anderen Raumnutzungen ist nicht in erster Linie ihre Empfindlichkeit, sondern ihre besondere Schutzwürdigkeit. Die Kritikalität kann insbesondere einen systemischen Charakter haben. Dieser liegt dann vor, wenn eine Infrastruktur aufgrund ihrer strukturellen, funktionellen und technischen Positionierung im Gesamtsystem der Infrastrukturbereiche von besonders hoher interdependenter Relevanz ist (z. B. Elektrizitäts-, Informations- und Telekommunikationsinfrastrukturen), so dass Ausfälle zu Kaskadeneffekten führen können, welche ggf. für die Vulnerabilität der Bevölkerung, der öffentlichen Sicherheit und Ordnung sowie der Wirtschaft eine größere Rolle spielen als die Magnitude des Hochwassers selbst.
 
@@ -259,13 +247,13 @@ Klarstellend wird darauf hingewiesen, dass bestehende, rechtmäßig erbaute Infr
 
 Adressat der Festlegung sind die in § 4 Absatz 1 und 2 ROG genannten Stellen und Personen, die Ziele der Raumordnung zu beachten und Grundsätze der Raumordnung zu berücksichtigen haben. Dies betrifft insbesondere auch öffentliche Stellen, die Entscheidungen über die Planung und Zulassung der in II.2.3 genannten Infrastrukturen und Anlagen treffen.
 
-II.3 (G) In Risikogebieten außerhalb von Überschwemmungsgebieten nach § 78b WHG sollen folgende Infrastrukturen und Anlagen, sofern sie raumbedeutsam sind, weder geplant noch zugelassen werden, es sei denn, sie erfüllen die Voraussetzungen des § 78b Absatz 1 Satz 2 WHG:Satz 1 gilt nicht für die Fachplanung nach § 5 NABEG; die Anwendbarkeit von Satz 1 sowie von § 78b WHG auf die Zulassung von Vorhaben nach §§ 18 ff. NABEG bleibt unberührt.
+II.3 (G) In Risikogebieten außerhalb von Überschwemmungsgebieten nach § 78b WHG sollen folgende Infrastrukturen und Anlagen, sofern sie raumbedeutsam sind, weder geplant noch zugelassen werden, es sei denn, sie erfüllen die Voraussetzungen des § 78b Absatz 1 Satz 2 WHG:
 
-1.
+1. Kritische Infrastrukturen mit länder- oder staatsgrenzenüberschreitender Bedeutung; dies sind insbesondere Infrastrukturen des Kernnetzes der europäischen Verkehrsinfrastruktur außer Häfen und Wasserstraßen sowie die Projects of Common Interest der europäischen Energieinfrastruktur in der jeweils geltenden Fassung der Unionsliste der Vorhaben von gemeinschaftlicher Bedeutung,
 
-2.
+2. weitere Kritische Infrastrukturen, soweit sie von der BSI-Kritisverordnung erfasst sind,
 
-3.
+3. bauliche Anlagen, die ein komplexes Evakuierungsmanagement erfordern.
 
 Aufgrund der hohen Kritikalität der in II.3 genannten Infrastrukturen und Anlagen bzw. der sehr negativen Auswirkungen auf die Gesellschaft im Überflutungsfall soll deren Zulässigkeit in Risikogebieten außerhalb von Überschwemmungsgebieten nach § 78b WHG eingeschränkt werden.
 
@@ -337,19 +325,19 @@ Soweit eine hochwasserangepasste Bauweise vorgegeben wird, ist Folgendes zu beac
 
 Adressat der Festlegung sind die in § 4 Absatz 1 und 2 ROG genannten Stellen und Personen, die Ziele der Raumordnung zu beachten und Grundsätze der Raumordnung zu berücksichtigen haben. In diesem Rahmen werden von der Festlegung insbesondere die Bauleitplanung sowie die Stellen erfasst, die für die Genehmigung der in der Festlegung genannten Anlagen zuständig sind.
 
-III.5 (G) Die in Satz 3 genannten Infrastrukturen und Anlagen sollen, sofern sie raumbedeutsam sind, sowohl in ausreichend geschützten als auch in nicht ausreichend geschützten Küstengebieten nur geplant und zugelassen werden, wennFür die in Satz 1 genannten Infrastrukturen und Anlagen, die nicht Satz 1 Nummer 2 unterfallen, gilt für den Fall, dass sie in einem nicht ausreichend geschützten Küstengebiet geplant oder zugelassen werden sollen, zudem, dass eine Bauweise gewählt werden soll, die der für den jeweiligen Standort im Überflutungsfall prognostizierten Wassertiefe und hydrodynamischen Belastung angepasst ist.
+III.5 (G) Die in Satz 3 genannten Infrastrukturen und Anlagen sollen, sofern sie raumbedeutsam sind, sowohl in ausreichend geschützten als auch in nicht ausreichend geschützten Küstengebieten nur geplant und zugelassen werden, wenn
 
-1.
+1. ernsthaft in Betracht kommende Standort- oder Trassenalternativen, die weniger überflutungsgefährdet sind, fehlen, oder
 
-2.
+2. eine Überflutung bei der konkreten Infrastruktur oder Anlage kein spezifisches Risiko auslöst.
 
 Satz 1 gilt für die folgenden Infrastrukturen:
 
-1.
+1. Kritische Infrastrukturen mit länder- oder staatsgrenzenüberschreitender Bedeutung; dies sind insbesondere Infrastrukturen des Kernnetzes der europäischen Verkehrsinfrastruktur außer Häfen und Wasserstraßen sowie die Projects of Common Interest der europäischen Energieinfrastruktur in der jeweils geltenden Fassung der Unionsliste der Vorhaben von gemeinschaftlicher Bedeutung,
 
-2.
+2. weitere Kritische Infrastrukturen, soweit sie von der BSI-Kritisverordnung erfasst sind,
 
-3.
+3. bauliche Anlagen, die ein komplexes Evakuierungsmanagement erfordern.
 
 Aufgrund ihrer besonders hohen Kritikalität bzw. der sehr negativen Auswirkungen im Überflutungsfall auf die Gesellschaft einschließlich der Umwelt soll die Zulässigkeit der in III.5 genannten Infrastrukturen und Anlagen in Küstengebieten beschränkt werden.
 
@@ -391,15 +379,13 @@ Erfasst werden Hochwasserereignisse mit einem voraussichtlichen Wiederkehrinterv
 
 Erfasst werden Hochwasserereignisse mit einem voraussichtlichen Wiederkehrintervall von mindestens 100 Jahren (vgl. dazu § 74 Absatz 2 Satz 1 Nummer 2 WHG).
 
-Bauweise, die Schäden an Gebäuden entweder verhindert oder so gering wie möglich hält. Anhaltspunkte dazu können der Hochwasserschutzfibel (abrufbar unter: https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/bauen/w ohnen/hochwasserschutzfibel.pdf?__blob=publication=3) entnommen werden, in der das Bundesministerium des Innern, für Bau und Heimat hilfreiche Maßnahmen zum Thema „hochwasserangepasstes Bauen“ zusammengetragen hat. Darüber hinaus hat auch die Deutsche Vereinigung für Wasserwirtschaft, Abwasser und Abfall e. V. (DWA) das Merkblatt M 553 erarbeitet, das sich ebenfalls mit hochwasserangepasstem Planen und Bauen beschäftigt. Solche Maßnahmen können zum Beispiel der Einbau von Türschwellen, die Verbesserung der Standfestigkeit von Bauwerken, die Umnutzung von hochwassergefährdeten Geschossen bis hin zu Umplanungen im Hinblick auf den Standort eines Gebäudes sein.
-
 Für die Ermittlung der im Einzelfall gebotenen hochwasserangepassten Bauweise kommt es insbesondere auf folgende Kriterien an:
 
-•
+• Wie wahrscheinlich ist der Eintritt des Hochwasserereignisses?
 
-•
+• Welche Schäden sind hinsichtlich welcher Schutzgüter bei einem Hochwasserereignis zu befürchten? Oberste Priorität hat hierbei der Schutz von Leben und Gesundheit. Hier geht es insbesondere um Standsicherheit und Evakuierung des Gebäudes bei Hochwasserereignissen, wobei auch die jeweils zu erwartenden Vorwarnzeiten und ein etwaiger nutzungsspezifisch höherer Evakuierungsaufwand (z. B. bei Pflegeheimen) zu berücksichtigen sind.
 
-•
+• Welche technisch möglichen und wirtschaftlich sinnvollen Vorkehrungen oder Maßnahmen können zur Schadensvermeidung oder -minderung getroffen werden, ohne die funktionalen oder aus gesetzlichen Vorschriften resultierenden Anforderungen an die bauliche Anlage (z. B. zur Barrierefreiheit) zu vernachlässigen?
 
 Objektiv feststellbarer Grad der Beeinträchtigung einer Nutzung oder Funktion gegenüber den Einwirkungen des Hochwassers. Beispielsweise ist die Hochwasserempfindlichkeit eines Krankenhauses als hoch zu bemessen, da die Mobilität von Krankenhauspatienten eingeschränkt ist.
 
@@ -412,8 +398,6 @@ Infrastrukturen des Kernnetzes der europäischen Verkehrsinfrastruktur sind solc
 Richtlinie 2010/75/EU des Europäischen Parlaments und des Rates vom 24. November 2010 über Industrieemissionen (integrierte Vermeidung und Verminderung der Umweltverschmutzung) (Neufassung) (ABl. L 334 vom 17.12.2010, S. 17).
 
 Kritische Infrastrukturen werden nach § 1 Nummer 1 BSI-Kritisverordnung wie folgt definiert: Betriebsstätten und sonstige ortsfeste Einrichtungen, die für die Erbringung einer kritischen Dienstleistung notwendig sind. Nach § 1 Nummer 3 BSI-Kritisverordnung ist eine „Kritische Dienstleistung“ eine Dienstleistung zur Versorgung der Allgemeinheit in den Sektoren nach den §§ 2 bis 8 BSI-Kritisverordnung, deren Ausfall oder Beeinträchtigung zu erheblichen Versorgungsengpässen oder zu Gefährdungen der öffentlichen Sicherheit führen würde. Die Sektoren nach §§ 2 bis 8 BSI-Kritisverordnung umfassen Energie, Wasser, Ernährung, Informationstechnik und Telekommunikation, Gesundheit, Finanz- und Versicherungswesen sowie Transport und Verkehr.
-
-Nähere Informationen hierzu sind abrufbar unter https://www.kritis.bund.de/SubSites/Kritis/DE/Einfuehrung/einfuehrung_node.h tml
 
 Gemäß § 3 Absatz 1 Nummer 6 ROG werden raumbedeutsame Planungen und Maßnahmen wie folgt definiert: Planungen einschließlich der Raumordnungspläne, Vorhaben und sonstige Maßnahmen, durch die Raum in Anspruch genommen oder die räumliche Entwicklung oder Funktion eines Gebietes beeinflusst wird, einschließlich des Einsatzes der hierfür vorgesehenen öffentlichen Finanzmittel. Planungen und Maßnahmen zum Hochwasserschutz sind alle Planungen und Maßnahmen, die dem Hochwasserschutz dienen sollen. Dies sind neben konkreten Vorhaben und Projekten wie Hochwasserschutzanlagen auch die Hochwasserrisikomanagementpläne und die Hochwasserschutzkonzeptionen der Länder sowie Festlegungen in Raumordnungsplänen der Länder und Regionen und Darstellungen bzw. Festsetzungen in Bauleitplänen, die den Hochwasserschutz betreffen, beispielsweise Flächenausweisungen für den Hochwasserschutz.
 
@@ -445,11 +429,11 @@ Delegierte Verordnung (EU) 2020/389 der Kommission vom 31. Oktober 2019 zur Änd
 
 Überschwemmungsgebiete im Sinne des Wasserrechts dienen der schadlosen Abführung von Hochwasser und sichern die dafür erforderlichen Flächen für den Hochwasserabfluss sowie Retentions- oder Rückhalteräume.
 
-Gemäß § 76 Absatz 2 Satz 1 WHG setzen die Länder durch Rechtsverordnung als Überschwemmungsgebiete fest:Noch nicht nach § 76 Absatz 2 Satz 1 WHG festgesetzte Überschwemmungsgebiete sind vorläufig zu sichern (vgl. dazu § 76 Absatz 3 WHG).
+Gemäß § 76 Absatz 2 Satz 1 WHG setzen die Länder durch Rechtsverordnung als Überschwemmungsgebiete fest:
 
-1.
+1. innerhalb der Risikogebiete oder der nach § 73 Absatz 5 Satz 2 Nummer 1 WHG zugeordneten Gebiete mindestens die Gebiete, in denen ein Hochwasserereignis statistisch einmal in 100 Jahren zu erwarten ist, und
 
-2.
+2. die zur Hochwasserentlastung und Rückhaltung beanspruchten Gebiete.
 
 Bundeswasserstraßengesetz in der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962; 2008 I S. 1980), das zuletzt durch Artikel 2a des Gesetzes vom 3. Dezember 2020 (BGBl. I S. 2694) geändert worden ist.
 
@@ -463,23 +447,23 @@ Nach dem Konzept des Bundesraumordnungsplans sollen mittels einer vorsorgenden, 
 
 Der Bundesraumordnungsplan sieht insbesondere vor:
 
-•
+• eine bundesweite Harmonisierung raumplanerischer Standards (Unterliegerschutz, einheitliche Definition von Hochwasserrisiken),
 
-•
+• die Einführung eines risikobasierten Ansatzes in der Raumordnung zur Berücksichtigung differenzierter Aspekte unter Sicherheits- und Schutzaspekten (nicht alle Nutzungen sind gleich risikobehaftet),
 
-•
+• Regelungen zu „Kritischen Infrastrukturen“ zur Verbesserung des Schutzes von Anlagen von nationaler oder europäischer Bedeutung.
 
 Für die vollständige Entfaltung der Wirkung des Bundesraumordnungsplans ist gegebenenfalls eine partielle Anpassung einiger Raumordnungspläne der Länder und Regionen sowie einiger Bauleitpläne der Kommunen an die Vorgaben des Bundesraumordnungsplans erforderlich.
 
 Bei der Aufstellung des Bundesraumordnungsplans ist gemäß § 8 Absatz 1 Satz 1 ROG eine Strategische Umweltprüfung (SUP) obligatorisch durchzuführen, in der die voraussichtlichen erheblichen Auswirkungen des Plans (hier: seiner als Ziele und Grundsätze formulierten Festlegungen) auf folgende Schutzgüter frühzeitig zu ermitteln und in einem Umweltbericht zu beschreiben und zu bewerten sind:
 
-1.
+1. Menschen, einschließlich der menschlichen Gesundheit, Tiere, Pflanzen und die biologische Vielfalt,
 
-2.
+2. Fläche, Boden, Wasser, Luft, Klima und Landschaft,
 
-3.
+3. Kulturgüter und sonstige Sachgüter sowie
 
-4.
+4. die Wechselwirkung zwischen den vorgenannten Schutzgütern.
 
 Die im Umweltbericht zum vorliegenden Bundesraumordnungsplan für den länderübergreifenden Hochwasserschutz angewandte Methodik wurde mit dem Entwurf des Untersuchungsrahmens am 18. Mai 2020 an die öffentlichen Stellen versendet, deren umwelt- und gesundheitsbezogener Aufgabenbereich von den Umweltauswirkungen des Bundesraumordnungsplans berührt werden können. Sie wurde beim Scoping-Termin am 28. Mai 2020 vorgestellt und mit Vertretern und Vertreterinnen von betroffenen öffentlichen Stellen diskutiert. Nach erfolgter Auswertung der übersendeten diesbezüglichen Stellungnahmen wurde die Methodik darauf aufbauend in ihre jetzige Ausgestaltung weiterentwickelt, im überarbeiteten Untersuchungsrahmen festgelegt und an die Teilnehmenden des Scoping versandt. Entsprechend wurde die Vorgehensweise für die Ermittlung und Bewertung der Umweltauswirkungen zugrunde gelegt.
 
@@ -533,11 +517,11 @@ Die im Ergebnis getroffenen Festlegungen sind wesentlich geprägt von zahlreiche
 
 Im Ergebnis sind alle Planfestlegungen und Formulierungen, die ernsthaft in Betracht kommen, im vorliegenden Planentwurf enthalten. Alle darüber hinaus erwogenen Festlegungs- oder Formulierungsalternativen wurden im Prozess der Planaufstellung verworfen. Dies geschah – je nach überlegter Planfestlegung – insbesondere aus drei Gründen:
 
-1.
+1. Eine etwaige andere Planfestlegung hätte einen unverhältnismäßigen und damit unzulässigen Eingriff in andere zu berücksichtigende Belange bedeutet (fehlerhafte Abwägung), oder
 
-2.
+2. durch eine Veränderung der Festlegungen könnte der Zweck des Plans, den Hochwasserschutz zu verbessern, nicht besser erfüllt werden, oder
 
-3.
+3. eine bessere Erfüllung des Ziels, den Hochwasserschutz zu verbessern, könnte nur durch Festlegungen erreicht werden, für die es keine rechtliche Kompetenz der Raumordnung gäbe: Erstens dürfen die Festlegungen im Raumordnungsplan den fachrechtlichen Regelungen zum Hochwasserschutz, insbesondere also denen des Wasserhaushaltsgesetzes, nicht widersprechen. Zweitens dürfen statt der jetzt verwandten Grundsätze der Raumordnung nur dann Ziele der Raumordnung formuliert werden, wenn ihr Inhalt bestimmt oder bestimmbar ist und die Auswirkungen der Festlegungen auf alle von ihnen berührten Belange abschließend abgewogen werden können. Drittens dürfen gegenüber den Landesplanungen keine unmittelbaren, unbedingten Handlungsaufträge (Ziele der Raumordnung) erteilt werden.
 
 Die geplanten Maßnahmen zur Überwachung der erheblichen Auswirkungen der Durchführung des Raumordnungsplans auf die Umwelt werden in Kapitel 5 des Umweltberichts beschrieben.
 

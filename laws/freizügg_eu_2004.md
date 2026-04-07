@@ -10,49 +10,31 @@
 
 (1) Dieses Gesetz regelt die Einreise und den Aufenthalt von
 
-1.
+1. Unionsbürgern,
 
-2.
+2. Staatsangehörigen der EWR-Staaten, die nicht Unionsbürger sind,
 
-3.
+3. Staatsangehörigen des Vereinigten Königreichs Großbritannien und Nordirland nach dessen Austritt aus der Europäischen Union, denen nach dem Austrittsabkommen Rechte zur Einreise und zum Aufenthalt gewährt werden,
 
-4.
+4. Familienangehörigen der in den Nummern 1 bis 3 genannten Personen,
 
-5.
+5. nahestehenden Personen der in den Nummern 1 bis 3 genannten Personen sowie
 
-6.
+6. Familienangehörigen und nahestehenden Personen von Deutschen, die von ihrem Recht auf Freizügigkeit nach Artikel 21 des Vertrages über die Arbeitsweise der Europäischen Union nachhaltig Gebrauch gemacht haben.
 
 (2) Im Sinne dieses Gesetzes
 
-1.
+1. sind Unionsbürger Staatsangehörige anderer Mitgliedstaaten der Europäischen Union, die nicht Deutsche sind,
 
-2.
+2. ist Lebenspartner einer Person a)ein Lebenspartner im Sinne des Lebenspartnerschaftsgesetzes sowieb)eine Person, die auf der Grundlage der Rechtsvorschriften eines Mitgliedstaates der Europäischen Union oder eines EWR-Staates eine eingetragene Partnerschaft eingegangen ist, ein Lebenspartner im Sinne des Lebenspartnerschaftsgesetzes sowie eine Person, die auf der Grundlage der Rechtsvorschriften eines Mitgliedstaates der Europäischen Union oder eines EWR-Staates eine eingetragene Partnerschaft eingegangen ist,
 
-a)
+3. sind Familienangehörige einer Person a)der Ehegatte,b)der Lebenspartner,c)die Verwandten in gerader absteigender Linie der Person oder des Ehegatten oder des Lebenspartners, die das 21. Lebensjahr noch nicht vollendet haben oder denen von diesen Unterhalt gewährt wird, undd)die Verwandten in gerader aufsteigender Linie der Person oder des Ehegatten oder des Lebenspartners, denen von diesen Unterhalt gewährt wird, der Ehegatte, der Lebenspartner, die Verwandten in gerader absteigender Linie der Person oder des Ehegatten oder des Lebenspartners, die das 21. Lebensjahr noch nicht vollendet haben oder denen von diesen Unterhalt gewährt wird, und die Verwandten in gerader aufsteigender Linie der Person oder des Ehegatten oder des Lebenspartners, denen von diesen Unterhalt gewährt wird,
 
-b)
+4. sind nahestehende Personen einer Person a)Verwandte im Sinne des § 1589 des Bürgerlichen Gesetzbuchs und die Verwandten des Ehegatten oder des Lebenspartners, die nicht Familienangehörige der Person im Sinne der Nummer 3 sind,b)ledige Kinder, die das 18. Lebensjahr noch nicht vollendet haben, unter Vormundschaft von oder in einem Pflegekindverhältnis zu der Person stehen und keine Familienangehörigen im Sinne von Nummer 3 Buchstabe c sind, sowiec)eine Lebensgefährtin oder ein Lebensgefährte, mit der oder dem die Person eine glaubhaft dargelegte, auf Dauer angelegte Gemeinschaft eingegangen ist, die keine weitere Lebensgemeinschaft gleicher Art zulässt, wenn die Personen beide weder verheiratet noch Lebenspartner einer Lebenspartnerschaft im Sinne der Nummer 2 sind, Verwandte im Sinne des § 1589 des Bürgerlichen Gesetzbuchs und die Verwandten des Ehegatten oder des Lebenspartners, die nicht Familienangehörige der Person im Sinne der Nummer 3 sind, ledige Kinder, die das 18. Lebensjahr noch nicht vollendet haben, unter Vormundschaft von oder in einem Pflegekindverhältnis zu der Person stehen und keine Familienangehörigen im Sinne von Nummer 3 Buchstabe c sind, sowie eine Lebensgefährtin oder ein Lebensgefährte, mit der oder dem die Person eine glaubhaft dargelegte, auf Dauer angelegte Gemeinschaft eingegangen ist, die keine weitere Lebensgemeinschaft gleicher Art zulässt, wenn die Personen beide weder verheiratet noch Lebenspartner einer Lebenspartnerschaft im Sinne der Nummer 2 sind,
 
-3.
+5. ist das Austrittsabkommen das Abkommen über den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft (ABl. L 29 vom 31.1.2020, S. 7) und
 
-a)
-
-b)
-
-c)
-
-d)
-
-4.
-
-a)
-
-b)
-
-c)
-
-5.
-
-6.
+6. sind britische Staatsangehörige die in Artikel 2 Buchstabe d des Austrittsabkommens genannten Personen.
 
 ### § 2 — Recht auf Einreise und Aufenthalt
 
@@ -60,29 +42,29 @@ c)
 
 (2) Unionsrechtlich freizügigkeitsberechtigt sind:
 
-1.
+1. Unionsbürger, die sich als Arbeitnehmer oder zur Berufsausbildung aufhalten wollen,
 
-1a.
+1a. Unionsbürger, die sich zur Arbeitsuche aufhalten, für bis zu sechs Monate und darüber hinaus nur, solange sie nachweisen können, dass sie weiterhin Arbeit suchen und begründete Aussicht haben, eingestellt zu werden,
 
-2.
+2. Unionsbürger, wenn sie zur Ausübung einer selbständigen Erwerbstätigkeit berechtigt sind (niedergelassene selbständige Erwerbstätige),
 
-3.
+3. Unionsbürger, die, ohne sich niederzulassen, als selbständige Erwerbstätige Dienstleistungen im Sinne des Artikels 57 des Vertrages über die Arbeitsweise der Europäischen Union erbringen wollen (Erbringer von Dienstleistungen), wenn sie zur Erbringung der Dienstleistung berechtigt sind,
 
-4.
+4. Unionsbürger als Empfänger von Dienstleistungen,
 
-5.
+5. nicht erwerbstätige Unionsbürger unter den Voraussetzungen des § 4,
 
-6.
+6. Familienangehörige unter den Voraussetzungen der §§ 3 und 4,
 
-7.
+7. Unionsbürger und ihre Familienangehörigen, die ein Daueraufenthaltsrecht erworben haben.
 
-(3) Das Recht nach Absatz 1 bleibt für Arbeitnehmer und selbständig Erwerbstätige unberührt bei Bei unfreiwilliger durch die zuständige Agentur für Arbeit bestätigter Arbeitslosigkeit nach weniger als einem Jahr Beschäftigung bleibt das Recht aus Absatz 1 während der Dauer von sechs Monaten unberührt.
+(3) Das Recht nach Absatz 1 bleibt für Arbeitnehmer und selbständig Erwerbstätige unberührt bei
 
-1.
+1. vorübergehender Erwerbsminderung infolge Krankheit oder Unfall,
 
-2.
+2. unfreiwilliger durch die zuständige Agentur für Arbeit bestätigter Arbeitslosigkeit oder Einstellung einer selbständigen Tätigkeit infolge von Umständen, auf die der Selbständige keinen Einfluss hatte, nach mehr als einem Jahr Tätigkeit,
 
-3.
+3. Aufnahme einer Berufsausbildung, wenn zwischen der Ausbildung und der früheren Erwerbstätigkeit ein Zusammenhang besteht; der Zusammenhang ist nicht erforderlich, wenn der Unionsbürger seinen Arbeitsplatz unfreiwillig verloren hat.
 
 (4) Das Nichtbestehen des Rechts nach Absatz 1 kann festgestellt werden, wenn feststeht, dass die betreffende Person das Vorliegen einer Voraussetzung für dieses Recht durch die Verwendung von gefälschten oder verfälschten Dokumenten oder durch Vorspiegelung falscher Tatsachen vorgetäuscht hat. Das Nichtbestehen des Rechts nach Absatz 1 kann bei einem Familienangehörigen, der nicht Unionsbürger ist, außerdem festgestellt werden, wenn feststeht, dass er dem Unionsbürger nicht zur Herstellung oder Wahrung der familiären Lebensgemeinschaft nachzieht oder ihn nicht zu diesem Zweck begleitet. Einem Familienangehörigen, der nicht Unionsbürger ist, kann in diesen Fällen die Erteilung der Aufenthaltskarte oder des Visums versagt werden oder seine Aufenthaltskarte kann eingezogen werden. Entscheidungen nach den Sätzen 1 bis 3 bedürfen der Schriftform. Die Sätze 1, 2 und 4 sind auf nahestehende Personen, denen ein Recht zur Einreise und zum Aufenthalt im Bundesgebiet nach § 3a Absatz 1 verliehen worden ist, entsprechend anzuwenden.
 
@@ -108,29 +90,23 @@ c)
 
 (4) Ehegatten oder Lebenspartner, die nicht Unionsbürger sind, behalten bei Scheidung oder Aufhebung der Ehe oder Aufhebung der Lebenspartnerschaft ein Aufenthaltsrecht, wenn sie die für Unionsbürger geltenden Voraussetzungen des § 2 Abs. 2 Nr. 1 bis 3 oder Nr. 5 erfüllen und wenn
 
-1.
+1. die Ehe oder die Lebenspartnerschaft bis zur Einleitung des gerichtlichen Scheidungs- oder Aufhebungsverfahrens mindestens drei Jahre bestanden hat, davon mindestens ein Jahr im Bundesgebiet,
 
-2.
+2. ihnen durch Vereinbarung der Ehegatten oder der Lebenspartner oder durch gerichtliche Entscheidung die elterliche Sorge für die Kinder des Unionsbürgers übertragen wurde,
 
-3.
+3. es zur Vermeidung einer besonderen Härte erforderlich ist, insbesondere weil dem Ehegatten oder dem Lebenspartner wegen der Beeinträchtigung seiner schutzwürdigen Belange ein Festhalten an der Ehe oder der Lebenspartnerschaft nicht zugemutet werden konnte, oder
 
-4.
+4. ihnen durch Vereinbarung der Ehegatten oder der Lebenspartner oder durch gerichtliche Entscheidung das Recht zum persönlichen Umgang mit dem minderjährigen Kind nur im Bundesgebiet eingeräumt wurde.
 
 ### § 3a — Aufenthalt nahestehender Personen
 
 (1) Einer nahestehenden Person eines Unionsbürgers, die selbst nicht als Unionsbürger und nicht nach den §§ 3 oder 4 freizügigkeitsberechtigt ist, kann auf Antrag das Recht zur Einreise und zum Aufenthalt im Bundesgebiet verliehen werden, wenn
 
-1.
+1. es sich um eine nahestehende Person im Sinne des § 1 Absatz 2 Nummer 4 Buchstabe a handelt und a)der Unionsbürger ihr zum Zeitpunkt der erstmaligen Antragstellung nachhaltig, in der Regel mindestens zwei Jahre, und nicht nur vorübergehend Unterhalt gewährt,b)der Unionsbürger mit ihr in dem Staat, in dem sie vor der Verlegung des Wohnsitzes in das Bundesgebiet gelebt hat oder lebt, in häuslicher Gemeinschaft gelebt hat und die häusliche Gemeinschaft zwischen dem Unionsbürger und ihr mindestens zwei Jahre bestanden hat oderc)nicht nur vorübergehend schwerwiegende gesundheitliche Gründe zum Antragszeitpunkt die persönliche Pflege von ihr durch den Unionsbürger zwingend erforderlich machen, der Unionsbürger ihr zum Zeitpunkt der erstmaligen Antragstellung nachhaltig, in der Regel mindestens zwei Jahre, und nicht nur vorübergehend Unterhalt gewährt, der Unionsbürger mit ihr in dem Staat, in dem sie vor der Verlegung des Wohnsitzes in das Bundesgebiet gelebt hat oder lebt, in häuslicher Gemeinschaft gelebt hat und die häusliche Gemeinschaft zwischen dem Unionsbürger und ihr mindestens zwei Jahre bestanden hat oder nicht nur vorübergehend schwerwiegende gesundheitliche Gründe zum Antragszeitpunkt die persönliche Pflege von ihr durch den Unionsbürger zwingend erforderlich machen,
 
-a)
+2. es sich um eine nahestehende Person im Sinne des § 1 Absatz 2 Nummer 4 Buchstabe b handelt und der Unionsbürger mit ihr im Bundesgebiet für längere Zeit in familiärer Gemeinschaft zusammenleben wird und sie vom Unionsbürger abhängig ist oder
 
-b)
-
-c)
-
-2.
-
-3.
+3. es sich um eine nahestehende Person im Sinne des § 1 Absatz 2 Nummer 4 Buchstabe c handelt und der Unionsbürger mit ihr im Bundesgebiet nicht nur vorübergehend zusammenleben wird.
 
 (2) Bei der Entscheidung über die Verleihung eines Rechts nach Absatz 1 ist nach einer eingehenden Untersuchung der persönlichen Umstände maßgeblich zu berücksichtigen, ob der Aufenthalt der nahestehenden Person unter Berücksichtigung ihrer Beziehung zum Unionsbürger sowie von anderen Gesichtspunkten, wie dem Grad der finanziellen oder physischen Abhängigkeit oder dem Grad der Verwandtschaft zwischen ihr und dem Unionsbürger, im Hinblick auf einen in Absatz 1 genannten Anlass des Aufenthalts erforderlich ist.
 
@@ -144,29 +120,21 @@ Nicht erwerbstätige Unionsbürger und ihre Familienangehörigen, die den Unions
 
 (1) Unionsbürger, die sich seit fünf Jahren ständig rechtmäßig im Bundesgebiet aufgehalten haben, haben unabhängig vom weiteren Vorliegen der Voraussetzungen des § 2 Abs. 2 das Recht auf Einreise und Aufenthalt (Daueraufenthaltsrecht). Ihre Familienangehörigen und nahestehenden Personen, die Inhaber eines Rechts nach § 3a Absatz 1 sind, die nicht Unionsbürger sind, haben dieses Recht, wenn sie sich seit fünf Jahren mit dem Unionsbürger ständig rechtmäßig im Bundesgebiet aufgehalten haben.
 
-(2) Abweichend von Absatz 1 haben Unionsbürger nach § 2 Abs. 2 Nr. 1 bis 3 vor Ablauf von fünf Jahren das Daueraufenthaltsrecht, wenn sie Soweit der Ehegatte oder der Lebenspartner des Unionsbürgers Deutscher nach Artikel 116 des Grundgesetzes ist oder diese Rechtsstellung durch Eheschließung mit dem Unionsbürger bis zum 31. März 1953 verloren hat, entfallen in Satz 1 Nr. 1 und 2 die Voraussetzungen der Aufenthaltsdauer und der Dauer der Erwerbstätigkeit.
+(2) Abweichend von Absatz 1 haben Unionsbürger nach § 2 Abs. 2 Nr. 1 bis 3 vor Ablauf von fünf Jahren das Daueraufenthaltsrecht, wenn sie
 
-1.
+1. sich mindestens drei Jahre ständig im Bundesgebiet aufgehalten und mindestens während der letzten zwölf Monate im Bundesgebiet eine Erwerbstätigkeit ausgeübt haben unda)zum Zeitpunkt des Ausscheidens aus dem Erwerbsleben das 65. Lebensjahr erreicht haben oderb)ihre Beschäftigung im Rahmen einer Vorruhestandsregelung beenden oder zum Zeitpunkt des Ausscheidens aus dem Erwerbsleben das 65. Lebensjahr erreicht haben oder ihre Beschäftigung im Rahmen einer Vorruhestandsregelung beenden oder
 
-a)
+2. ihre Erwerbstätigkeit infolge einer vollen Erwerbsminderung aufgeben,a)die durch einen Arbeitsunfall oder eine Berufskrankheit eingetreten ist und einen Anspruch auf eine Rente gegenüber einem Leistungsträger im Bundesgebiet begründet oderb)nachdem sie sich zuvor mindestens zwei Jahre ständig im Bundesgebiet aufgehalten haben oder die durch einen Arbeitsunfall oder eine Berufskrankheit eingetreten ist und einen Anspruch auf eine Rente gegenüber einem Leistungsträger im Bundesgebiet begründet oder nachdem sie sich zuvor mindestens zwei Jahre ständig im Bundesgebiet aufgehalten haben oder
 
-b)
-
-2.
-
-a)
-
-b)
-
-3.
+3. drei Jahre ständig im Bundesgebiet erwerbstätig waren und anschließend in einem anderen Mitgliedstaat der Europäischen Union erwerbstätig sind, ihren Wohnsitz im Bundesgebiet beibehalten und mindestens einmal in der Woche dorthin zurückkehren; für den Erwerb des Rechts nach den Nummern 1 und 2 gelten die Zeiten der Erwerbstätigkeit in einem anderen Mitgliedstaat der Europäischen Union als Zeiten der Erwerbstätigkeit im Bundesgebiet.
 
 (3) Familienangehörige und nahestehende Personen eines verstorbenen Unionsbürgers nach § 2 Abs. 2 Nr. 1 bis 3, die im Zeitpunkt seines Todes bei ihm ihren ständigen Aufenthalt hatten, haben das Daueraufenthaltsrecht, wenn
 
-1.
+1. der Unionsbürger sich im Zeitpunkt seines Todes seit mindestens zwei Jahren im Bundesgebiet ständig aufgehalten hat,
 
-2.
+2. der Unionsbürger infolge eines Arbeitsunfalls oder einer Berufskrankheit gestorben ist oder
 
-3.
+3. der überlebende Ehegatte oder Lebenspartner des Unionsbürgers Deutscher nach Artikel 116 des Grundgesetzes ist oder diese Rechtsstellung durch Eheschließung mit dem Unionsbürger vor dem 31. März 1953 verloren hat.
 
 (4) Die Familienangehörigen und die nahestehenden Personen eines Unionsbürgers, der das Daueraufenthaltsrecht nach Absatz 2 erworben hat, haben ebenfalls das Daueraufenthaltsrecht, wenn sie bei dem Unionsbürger ihren ständigen Aufenthalt haben.
 
@@ -174,11 +142,11 @@ b)
 
 (6) Der ständige Aufenthalt wird nicht berührt durch
 
-1.
+1. Abwesenheiten bis zu insgesamt sechs Monaten im Jahr oder
 
-2.
+2. Abwesenheit zur Ableistung des Wehrdienstes oder eines Ersatzdienstes sowie
 
-3.
+3. eine einmalige Abwesenheit von bis zu zwölf aufeinander folgenden Monaten aus wichtigem Grund, insbesondere auf Grund einer Schwangerschaft und Entbindung, schweren Krankheit, eines Studiums, einer Berufsausbildung oder einer beruflichen Entsendung.
 
 (7) Eine Abwesenheit aus einem seiner Natur nach nicht nur vorübergehenden Grund von mehr als zwei aufeinander folgenden Jahren führt zum Verlust des Daueraufenthaltsrechts.
 
@@ -200,33 +168,29 @@ b)
 
 ### § 5a — Vorlage von Dokumenten
 
-(1) Die zuständige Behörde darf in den Fällen des § 5 Absatz 2 von einem Unionsbürger den gültigen Personalausweis oder Reisepass und im Fall des verlangen. Ein nicht erwerbstätiger Unionsbürger im Sinne des § 2 Abs. 2 Nr. 5, der eine Bescheinigung vorlegt, dass er im Bundesgebiet eine Hochschule oder andere Ausbildungseinrichtung besucht, muss die Voraussetzungen nach Satz 1 Nr. 3 nur glaubhaft machen.
+(1) Die zuständige Behörde darf in den Fällen des § 5 Absatz 2 von einem Unionsbürger den gültigen Personalausweis oder Reisepass und im Fall des
 
-1.
+1. § 2 Abs. 2 Nr. 1 eine Einstellungsbestätigung oder eine Beschäftigungsbescheinigung des Arbeitgebers,
 
-2.
+2. § 2 Abs. 2 Nr. 2 einen Nachweis über seine selbständige Tätigkeit,
 
-3.
+3. § 2 Abs. 2 Nr. 5 einen Nachweis über ausreichenden Krankenversicherungsschutz und ausreichende Existenzmittel
 
 (2) Die zuständige Behörde darf von Familienangehörigen in den Fällen des § 5 Absatz 2 oder für die Ausstellung der Aufenthaltskarte einen anerkannten oder sonst zugelassenen gültigen Pass oder Passersatz und zusätzlich Folgendes verlangen:
 
-1.
+1. einen Nachweis über das Bestehen der familiären Beziehung, bei Verwandten in absteigender und aufsteigender Linie einen urkundlichen Nachweis über Voraussetzungen des § 1 Absatz 2 Nummer 3,
 
-2.
+2. eine Meldebestätigung des Unionsbürgers, den die Familienangehörigen begleiten oder dem sie nachziehen.
 
 (3) Die zuständige Behörde verlangt in den Fällen des § 3a für die Ausstellung der Aufenthaltskarte über die in Absatz 2 genannten Nachweise hinaus
 
-1.
+1. ein durch die zuständige Behörde des Ursprungs- oder Herkunftslands ausgestelltes Dokument, aus dem hervorgeht, a)in Fällen nach § 3a Absatz 1 Nummer 1 Buchstabe a, dass und seit wann die nahestehende Person vom Unionsbürger Unterhalt bezieht,b)in Fällen nach § 3a Absatz 1 Nummer 1 Buchstabe b, dass und wie lange die nahestehende Person mit dem Unionsbürger in häuslicher Gemeinschaft gelebt hat, in Fällen nach § 3a Absatz 1 Nummer 1 Buchstabe a, dass und seit wann die nahestehende Person vom Unionsbürger Unterhalt bezieht, in Fällen nach § 3a Absatz 1 Nummer 1 Buchstabe b, dass und wie lange die nahestehende Person mit dem Unionsbürger in häuslicher Gemeinschaft gelebt hat,
 
-a)
+2. in Fällen nach § 3a Absatz 1 Nummer 1 Buchstabe c den Nachweis schwerwiegender gesundheitlicher Gründe, die die persönliche Pflege der nahestehenden Person durch den Unionsbürger zwingend erforderlich machen,
 
-b)
+3. in Fällen nach § 3a Absatz 1 Nummer 2 den urkundlichen Nachweis des Bestehens der Vormundschaft oder des Pflegekindverhältnisses sowie einen Nachweis der Abhängigkeit der nahestehenden Person vom Unionsbürger und
 
-2.
-
-3.
-
-4.
+4. in den Fällen nach § 3a Absatz 1 Nummer 3 den Nachweis über die Umstände für das Bestehen einer dauerhaften Beziehung nach § 1 Absatz 2 Nummer 4 Buchstabe c zwischen dem Unionsbürger und der nahestehenden Person.
 
 ### § 6 — Verlust des Rechts auf Einreise und Aufenthalt
 
@@ -258,15 +222,11 @@ b)
 
 (1) Die Personen, deren Einreise und Aufenthalt nach § 1 Absatz 1 durch dieses Gesetz geregelt ist, sind verpflichtet,
 
-1.
+1. bei der Einreise in das oder der Ausreise aus dem Bundesgebiet einen Pass oder anerkannten Passersatza)mit sich zu führen undb)einem zuständigen Beamten auf Verlangen zur Prüfung vorzulegen, mit sich zu führen und einem zuständigen Beamten auf Verlangen zur Prüfung vorzulegen,
 
-a)
+2. für die Dauer des Aufenthalts im Bundesgebiet den erforderlichen Pass oder Passersatz zu besitzen,
 
-b)
-
-2.
-
-3.
+3. den Pass oder Passersatz sowie die Aufenthaltskarte, die Bescheinigung des Daueraufenthalts und die Daueraufenthaltskarte den mit der Ausführung dieses Gesetzes betrauten Behörden auf Verlangen vorzulegen, auszuhändigen und vorübergehend zu überlassen, soweit dies zur Durchführung oder Sicherung von Maßnahmen nach diesem Gesetz erforderlich ist.
 
 (1a) Die Personen, deren Einreise und Aufenthalt nach § 1 Absatz 1 durch dieses Gesetz geregelt ist, sind verpflichtet, die in Absatz 1 Nummer 3 genannten Dokumente auf Verlangen einer zur Überprüfung der Identität befugten Behörde vorzulegen und es ihr zu ermöglichen, das Gesicht mit dem Lichtbild im Dokument abzugleichen.
 
@@ -284,9 +244,9 @@ b)
 
 (1) Ordnungswidrig handelt, wer
 
-1.
+1. entgegen § 8 Absatz 1 Nummer 1 Buchstabe b oder Nummer 3 ein dort genanntes Dokument nicht oder nicht rechtzeitig vorlegt oder
 
-2.
+2. entgegen § 8 Absatz 1a ein dort genanntes Dokument nicht oder nicht rechtzeitig vorlegt oder einen Abgleich mit dem Lichtbild nicht oder nicht rechtzeitig ermöglicht.
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen § 8 Abs. 1 Nr. 2 einen Pass oder Passersatz nicht besitzt.
 
@@ -312,23 +272,23 @@ b)
 
 (7) Die Mitteilungspflichten nach § 87 Absatz 2 Satz 1 Nummer 1 bis 3 des Aufenthaltsgesetzes bestehen insoweit entsprechend, als die dort genannten Umstände auch für die Feststellung nach § 2 Absatz 4, § 5 Absatz 4 und § 6 Absatz 1 entscheidungserheblich sein können. Sie bestehen in den Fällen des Absatzes 8 Satz 1 und des Absatzes 12 Satz 2 ohne diese Einschränkung.
 
-(8) Auf den Aufenthalt von Personen, die sind die §§ 6 und 7 nicht anzuwenden. Insoweit findet das Aufenthaltsgesetz entsprechende Anwendung. Die Regelungen des Aufenthaltsgesetzes zum Familiennachzug zu Inhabern von Aufenthaltserlaubnissen aus familiären Gründen sind auf den Familiennachzug zu den in Satz 1 Nummer 1 und 2 genannten Personen sowie auf den Familiennachzug zu solchen nahestehenden Personen eines Unionsbürgers, denen ein Recht auf Einreise und Aufenthalt im Bundesgebiet nach § 3a verliehen wurde, entsprechend anzuwenden.
+(8) Auf den Aufenthalt von Personen, die
 
-1.
+1. sich selbst als Familienangehörige im Bundesgebiet aufgehalten haben und nach § 3 Absatz 2 nach dem Tod eines Unionsbürgers ein Aufenthaltsrecht behalten,
 
-2.
+2. nicht Unionsbürger sind, sich selbst als Ehegatten oder Lebenspartner im Bundesgebiet aufgehalten haben, und die nach der Scheidung oder Aufhebung der Ehe oder Aufhebung der Lebenspartnerschaft nach § 3 Absatz 4 ein Aufenthaltsrecht behalten, oder
 
-3.
+3. sich als nahestehende Personen eines verstorbenen Unionsbürgers auf Grund eines Rechts zur Einreise und zum Aufenthalt im Bundesgebiet nach § 3a Absatz 3 in Verbindung mit § 3 Absatz 2 im Bundesgebiet aufgehalten haben,
 
 (9) § 3 Absatz 1 ist für den Aufenthalt von Familienangehörigen von Personen nicht anzuwenden, die selbst Familienangehörige oder nahestehende Personen und nicht Unionsbürger sind und nach § 4a Absatz 1 Satz 2 ein Daueraufenthaltsrecht haben. Insoweit sind die Vorschriften des Aufenthaltsgesetzes zum Familiennachzug zu Inhabern einer Erlaubnis zum Daueraufenthalt – EU entsprechend anzuwenden.
 
 (10) Sofern Familienangehörige von Personen, die ein in § 16 Absatz 1 und 2 genanntes Recht zum Aufenthalt in der Bundesrepublik Deutschland ausüben, kein Recht zum Aufenthalt in der Bundesrepublik Deutschland haben, das nach dem Austrittsabkommen geregelt ist, finden die Vorschriften des Aufenthaltsgesetzes zum Familiennachzug entsprechende Anwendung. Dabei werden gleichgestellt
 
-1.
+1. Inhaber eines Daueraufenthaltsrechts nach Artikel 15 des Austrittsabkommens den Inhabern einer Erlaubnis zum Daueraufenthalt – EU,
 
-2.
+2. Inhaber eines anderen Aufenthaltsrechts nach dem Austrittsabkommen, die britische Staatsangehörige sind, den Inhabern einer Blauen Karte EU und
 
-3.
+3. Inhaber eines anderen Aufenthaltsrechts nach dem Austrittsabkommen, die weder britische Staatsangehörige noch Unionsbürger sind, den Inhabern einer Aufenthaltserlaubnis aus familiären Gründen.
 
 (11) § 3a und die übrigen Bestimmungen dieses Gesetzes und des Aufenthaltsgesetzes, die in Fällen des § 3a dieses Gesetzes gelten, sind auf nahestehende Personen britischer Staatsangehöriger entsprechend anzuwenden, wenn die britischen Staatsangehörigen ein in § 16 Absatz 1 genanntes Aufenthaltsrecht im Bundesgebiet ausüben und wenn und solange die Voraussetzungen des Artikels 10 Absatz 2, 3 oder 4 des Austrittsabkommens erfüllt sind.
 
@@ -368,11 +328,11 @@ Eine vor dem 28. August 2007 ausgestellte Aufenthaltserlaubnis-EU gilt als Aufen
 
 (1) Das in Teil Zwei Titel II Kapitel 1 des Austrittsabkommens vorgesehene Recht auf Einreise und Aufenthalt im Bundesgebiet kann ausgeübt werden, ohne dass es hierfür eines Antrages bedarf. Dieses Recht ist ein Aufenthaltsrecht im Sinne des Artikels 18 Absatz 4 des Austrittsabkommens.
 
-(2) Denjenigen, wird von Amts wegen ein Aufenthaltsdokument im Sinne des Artikels 18 Absatz 4 des Austrittsabkommens (Aufenthaltsdokument-GB) ausgestellt. Sie haben ihren Aufenthalt spätestens innerhalb von sechs Monaten nach dem Ende des Übergangszeitraums im Sinne des Teils Vier des Austrittsabkommens bei der zuständigen Ausländerbehörde anzuzeigen, wenn sie nicht bereits Inhaber einer Aufenthaltskarte oder Daueraufenthaltskarte sind. Die Vorschriften des Artikels 18 Absatz 1 Unterabsatz 2 Buchstabe b Satz 2 Buchstabe c sowie i bis n des Austrittsabkommens finden entsprechende Anwendung.
+(2) Denjenigen,
 
-1.
+1. die das Recht nach Absatz 1 ausüben oder
 
-2.
+2. die das nach Artikel 24 Absatz 2, auch in Verbindung mit Artikel 25 Absatz 2, des Austrittsabkommens bestehende Recht ausüben, im Bundesgebiet zu wohnen,
 
 (3) Britische Staatsangehörige, die nach Teil Zwei Titel II Kapitel 2 des Austrittsabkommens Rechte als Grenzgänger haben, sind verpflichtet, ein Dokument (Aufenthaltsdokument für Grenzgänger-GB) zu beantragen, mit dem diese Rechte bescheinigt werden.
 

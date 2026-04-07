@@ -11,7 +11,9 @@ Das Bundesministerium für Digitales und Staatsmodernisierung verordnet aufgrund
 
 ### § 1 — Informationstechnisches Netz
 
-(1) Diese Verordnung regelt den im Anwendungsbereich des Onlinezugangsgesetzes erfolgenden Datenaustausch über das nationale Once-only-technical-System (NOOTS) als anderes Netz des Bundes als das Verbindungsnetz.(2) Das NOOTS baut ein informationstechnisches Netz auf, das den Datenaustausch zwischen informationstechnischen Systemen durch eine vom Bundesverwaltungsamt bereitgestellte Software ermöglicht.
+(1) Diese Verordnung regelt den im Anwendungsbereich des Onlinezugangsgesetzes erfolgenden Datenaustausch über das nationale Once-only-technical-System (NOOTS) als anderes Netz des Bundes als das Verbindungsnetz.
+
+(2) Das NOOTS baut ein informationstechnisches Netz auf, das den Datenaustausch zwischen informationstechnischen Systemen durch eine vom Bundesverwaltungsamt bereitgestellte Software ermöglicht.
 
 ### § 2 — Anschlussberechtigte
 
@@ -23,7 +25,13 @@ Der Anschluss an das Netz nach § 1 Absatz 2 erfolgt unter Nutzung der vom Bunde
 
 ### § 4 — Datenaustausch, Verschlüsselung, Daten- und IT-Sicherheit
 
-(1) Der Datenaustausch erfolgt ausschließlich über das Netz nach § 1 Absatz 2 und ist durch geeignete Verschlüsselungsverfahren abzusichern. Das Bundesverwaltungsamt legt das von der Software verwendende Verschlüsselungsverfahren fest, das dem jeweiligen Stand der Technik entsprechen muss.(2) Die Daten werden vom übertragenden Anschlussberechtigten durch die vom Bundesverwaltungsamt bereitgestellten Software automatisch verschlüsselt. Die Entschlüsselung der Daten erfolgt automatisch durch die vom Bundesverwaltungsamt bereitgestellten Software des empfangenden Anschlussberechtigen.(3) Bei dem Datenaustausch sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Informationssicherheit zu treffen, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten sowie die Authentifizierung der jeweiligen Anschlussberechtigten gewährleisten.(4) Es ist ein dem beabsichtigten Datenaustausch entsprechender IT-Sicherheitsstandard einzuhalten, der dem jeweiligen Stand der Technik entspricht.
+(1) Der Datenaustausch erfolgt ausschließlich über das Netz nach § 1 Absatz 2 und ist durch geeignete Verschlüsselungsverfahren abzusichern. Das Bundesverwaltungsamt legt das von der Software verwendende Verschlüsselungsverfahren fest, das dem jeweiligen Stand der Technik entsprechen muss.
+
+(2) Die Daten werden vom übertragenden Anschlussberechtigten durch die vom Bundesverwaltungsamt bereitgestellten Software automatisch verschlüsselt. Die Entschlüsselung der Daten erfolgt automatisch durch die vom Bundesverwaltungsamt bereitgestellten Software des empfangenden Anschlussberechtigen.
+
+(3) Bei dem Datenaustausch sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Informationssicherheit zu treffen, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten sowie die Authentifizierung der jeweiligen Anschlussberechtigten gewährleisten.
+
+(4) Es ist ein dem beabsichtigten Datenaustausch entsprechender IT-Sicherheitsstandard einzuhalten, der dem jeweiligen Stand der Technik entspricht.
 
 ### § 5 — Betrieb
 

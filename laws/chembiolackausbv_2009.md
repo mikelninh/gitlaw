@@ -12,13 +12,13 @@
 
 ### § 1 — Staatliche Anerkennung der Ausbildungsberufe
 
-Die Ausbildungsberufe werden nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
+Die Ausbildungsberufe
 
-1.
+1. Chemielaborant/Chemielaborantin,
 
-2.
+2. Biologielaborant/Biologielaborantin,
 
-3.
+3. Lacklaborant/Lacklaborantin,
 
 ### § 2 — Ausbildungsdauer
 
@@ -28,25 +28,9 @@ Die Ausbildung dauert drei Jahre und sechs Monate.
 
 Die Ausbildung gliedert sich in
 
-1.
+1. Pflichtqualifikationen, bestehend aus 1.1für die drei Ausbildungsberufe gemeinsame, integrativ zu vermittelnde Qualifikationen nach § 4 Absatz 2 Abschnitt A Nummer 1 bis 6.4, § 11 Absatz 2 Abschnitt A Nummer 1 bis 6.4 und § 18 Absatz 2 Abschnitt A Nummer 1 bis 6.4;1.2für jeden Ausbildungsberuf spezifische Pflichtqualifikationen: a)für den Chemielaboranten/die Chemielaborantin nach § 4 Absatz 2 Abschnitt A Nummer 7 bis 8.3,b)für den Biologielaboranten/die Biologielaborantin nach § 11 Absatz 2 Abschnitt A Nummer 7 bis 13,c)für den Lacklaboranten/die Lacklaborantin nach § 18 Absatz 2 Abschnitt A Nummer 7 bis 10; für die drei Ausbildungsberufe gemeinsame, integrativ zu vermittelnde Qualifikationen nach § 4 Absatz 2 Abschnitt A Nummer 1 bis 6.4, § 11 Absatz 2 Abschnitt A Nummer 1 bis 6.4 und § 18 Absatz 2 Abschnitt A Nummer 1 bis 6.4; für jeden Ausbildungsberuf spezifische Pflichtqualifikationen: a)für den Chemielaboranten/die Chemielaborantin nach § 4 Absatz 2 Abschnitt A Nummer 7 bis 8.3,b)für den Biologielaboranten/die Biologielaborantin nach § 11 Absatz 2 Abschnitt A Nummer 7 bis 13,c)für den Lacklaboranten/die Lacklaborantin nach § 18 Absatz 2 Abschnitt A Nummer 7 bis 10; für den Chemielaboranten/die Chemielaborantin nach § 4 Absatz 2 Abschnitt A Nummer 7 bis 8.3, für den Biologielaboranten/die Biologielaborantin nach § 11 Absatz 2 Abschnitt A Nummer 7 bis 13, für den Lacklaboranten/die Lacklaborantin nach § 18 Absatz 2 Abschnitt A Nummer 7 bis 10;
 
-1.1
-
-1.2
-
-a)
-
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-c)
+2. sechs vom Ausbildenden festzulegende Wahlqualifikationen, die a)für den Chemielaboranten und die Chemielaborantin aus der Auswahlliste nach § 4 Absatz 2 auszuwählen sind,b)für den Biologielaboranten und die Biologielaborantin aus der Auswahlliste nach § 11 Absatz 2 auszuwählen sind,c)für den Lacklaboranten und die Lacklaborantin aus der Auswahlliste nach § 18 Absatz 2 auszuwählen sind. für den Chemielaboranten und die Chemielaborantin aus der Auswahlliste nach § 4 Absatz 2 auszuwählen sind, für den Biologielaboranten und die Biologielaborantin aus der Auswahlliste nach § 11 Absatz 2 auszuwählen sind, für den Lacklaboranten und die Lacklaborantin aus der Auswahlliste nach § 18 Absatz 2 auszuwählen sind.
 
 ## Teil 2: Vorschriften für den Ausbildungsberuf Chemielaborant/Chemielaborantin
 
@@ -54,113 +38,23 @@ c)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Chemielaboranten und zur Chemielaborantin gliedert sich wie folgt: Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1.1 und Nummer 1.2 Buchstabe a Abschnitt B: Wahlqualifikationen nach § 3 Nummer 2 Buchstabe a
+(2) Die Berufsausbildung zum Chemielaboranten und zur Chemielaborantin gliedert sich wie folgt:
 
-1.
+1. Berufsbildung, Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Betriebliche Maßnahmen zum verantwortlichen Handeln: 3.1Sicherheit und Gesundheitsschutz bei der Arbeit,3.2Umweltschutz,3.3Einsetzen von Energieträgern,3.4Umgehen mit Arbeitsgeräten und -mitteln einschließlich Pflege und Wartung,3.5Qualitätssichernde Maßnahmen, Kundenorientierung,3.6Wirtschaftlichkeit im Labor; Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz, Einsetzen von Energieträgern, Umgehen mit Arbeitsgeräten und -mitteln einschließlich Pflege und Wartung, Qualitätssichernde Maßnahmen, Kundenorientierung, Wirtschaftlichkeit im Labor;
 
-3.1
+4. Arbeitsorganisation und Kommunikation: 4.1Arbeitsplanung, Arbeiten im Team,4.2Informationsbeschaffung und Dokumentation,4.3Kommunikations- und Informationssysteme,4.4Messdatenerfassung und -verarbeitung,4.5Anwenden von Fremdsprachen bei Fachaufgaben; Arbeitsplanung, Arbeiten im Team, Informationsbeschaffung und Dokumentation, Kommunikations- und Informationssysteme, Messdatenerfassung und -verarbeitung, Anwenden von Fremdsprachen bei Fachaufgaben;
 
-3.2
+5. Umgehen mit Arbeitsstoffen,
 
-3.3
+6. Chemische und physikalische Methoden: 6.1Probenahme und Probenvorbereitung,6.2Bestimmung physikalischer Größen und Stoffkonstanten,6.3Analyseverfahren,6.4Trennen und Vereinigen von Arbeitsstoffen; Probenahme und Probenvorbereitung, Bestimmung physikalischer Größen und Stoffkonstanten, Analyseverfahren, Trennen und Vereinigen von Arbeitsstoffen;
 
-3.4
+7. Durchführen analytischer Arbeiten: 7.1Vorbereiten von Proben,7.2Qualitative Analyse,7.3Spektroskopie,7.4Gravimetrie,7.5Maßanalyse,7.6Chromatografie,7.7Auswerten von Messergebnissen; Vorbereiten von Proben, Qualitative Analyse, Spektroskopie, Gravimetrie, Maßanalyse, Chromatografie, Auswerten von Messergebnissen;
 
-3.5
-
-3.6
-
-4.
-
-4.1
-
-4.2
-
-4.3
-
-4.4
-
-4.5
-
-5.
-
-6.
-
-6.1
-
-6.2
-
-6.3
-
-6.4
-
-7.
-
-7.1
-
-7.2
-
-7.3
-
-7.4
-
-7.5
-
-7.6
-
-7.7
-
-8.
-
-8.1
-
-8.2
-
-8.3
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-12.
-
-13.
-
-14.
-
-15.
-
-16.
-
-17.
-
-18.
-
-19.
-
-20.
+8. Durchführen präparativer Arbeiten: 8.1Herstellen von Präparaten,8.2Trennen und Reinigen von Stoffen,8.3Charakterisieren von Produkten; Herstellen von Präparaten, Trennen und Reinigen von Stoffen, Charakterisieren von Produkten;
 
 ### § 5 — Durchführung der Berufsausbildung
 
@@ -182,67 +76,31 @@ c)
 
 (3) Teil 1 der Abschlussprüfung besteht aus den Prüfungsbereichen:
 
-1.
+1. Herstellen und Charakterisieren von Produkten,
 
-2.
+2. Allgemeine und Präparative Chemie.
 
 (4) Für den Prüfungsbereich Herstellen und Charakterisieren von Produkten bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er a)Arbeitsabläufe selbstständig planen,b)Arbeitsergebnisse kontrollieren und dokumentieren,c)berufsbezogene Berechnungen durchführen,d)arbeitsorganisatorische und technologische Sachverhalte verknüpfen sowiee)Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehenkann; Arbeitsabläufe selbstständig planen, Arbeitsergebnisse kontrollieren und dokumentieren, berufsbezogene Berechnungen durchführen, arbeitsorganisatorische und technologische Sachverhalte verknüpfen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
-a)
+2. dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu legen: a)präparative Arbeiten durchführen,b)Produkte charakterisieren; präparative Arbeiten durchführen, Produkte charakterisieren;
 
-b)
+3. der Prüfling soll eine Arbeitsaufgabe I und eine Arbeitsaufgabe II durchführen, wobei sich Arbeitsaufgabe I auf die Nummer 2 Buchstabe a und Arbeitsaufgabe II auf die Nummer 2 Buchstabe b beziehen soll;
 
-c)
+4. die Prüfungszeit beträgt insgesamt 480 Minuten;
 
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-3.
-
-4.
-
-5.
+5. die Arbeitsaufgabe I ist mit 70 Prozent, die Arbeitsaufgabe II mit 30 Prozent zu gewichten.
 
 (5) Für den Prüfungsbereich Allgemeine und Präparative Chemie bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er a)fachliche Aufgaben in Hinblick auf arbeitsorganisatorische, naturwissenschaftliche und technologische Sachverhalte und deren Verknüpfung analysieren, bewerten und geeignete Lösungswege darstellen,b)chemisch-physikalische Methoden und Arbeitsstoffe prozessbezogen einsetzen,c)berufsbezogene Berechnungen durchführen sowied)Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz und Qualitätsmanagement einbeziehenkann; fachliche Aufgaben in Hinblick auf arbeitsorganisatorische, naturwissenschaftliche und technologische Sachverhalte und deren Verknüpfung analysieren, bewerten und geeignete Lösungswege darstellen, chemisch-physikalische Methoden und Arbeitsstoffe prozessbezogen einsetzen, berufsbezogene Berechnungen durchführen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz und Qualitätsmanagement einbeziehen
 
-a)
+2. dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu legen: a)Atombau, chemische Bindung und Periodensystem der Elemente,b)Stoffkunde,c)Syntheseverfahren, Reaktionsgleichungen und Beeinflussung von Reaktionen,d)Stöchiometrie, insbesondere Ausbeute und Konzentrationsberechnungen,e)Trennen und Reinigen von Stoffen,f)Allgemeine Labortechnik sowieg)Charakterisieren von Produkten und Arbeitsstoffen; Atombau, chemische Bindung und Periodensystem der Elemente, Stoffkunde, Syntheseverfahren, Reaktionsgleichungen und Beeinflussung von Reaktionen, Stöchiometrie, insbesondere Ausbeute und Konzentrationsberechnungen, Trennen und Reinigen von Stoffen, Allgemeine Labortechnik sowie Charakterisieren von Produkten und Arbeitsstoffen;
 
-b)
+3. der Prüfling soll Aufgaben schriftlich bearbeiten;
 
-c)
-
-d)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-3.
-
-4.
+4. die Prüfungszeit beträgt 135 Minuten.
 
 ### § 8 — Teil 2 der Abschlussprüfung
 
@@ -250,99 +108,55 @@ g)
 
 (2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen:
 
-1.
+1. Prozessorientiertes Arbeiten,
 
-2.
+2. Analytische Chemie und Wahlqualifikationen,
 
-3.
+3. Wirtschafts- und Sozialkunde.
 
 (3) Für den Prüfungsbereich Prozessorientiertes Arbeiten bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er a)komplexe, prozessorientierte Arbeitsabläufe selbstständig planen und durchführen,b)Betriebsmittel auswählen und beurteilen,c)arbeitsorganisatorische und technologische Sachverhalte verknüpfen,d)berufsbezogene Berechnungen durchführen,e)Arbeitsergebnisse kontrollieren, dokumentieren und bewerten,f)die relevanten fachlichen Hintergründe seiner Arbeit aufzeigen und seine Vorgehensweise begründen sowieg)Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehenkann; komplexe, prozessorientierte Arbeitsabläufe selbstständig planen und durchführen, Betriebsmittel auswählen und beurteilen, arbeitsorganisatorische und technologische Sachverhalte verknüpfen, berufsbezogene Berechnungen durchführen, Arbeitsergebnisse kontrollieren, dokumentieren und bewerten, die relevanten fachlichen Hintergründe seiner Arbeit aufzeigen und seine Vorgehensweise begründen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
-a)
+2. hierfür ist vom Prüfungsausschuss aus folgenden Gebieten und Tätigkeiten auszuwählen: a)Durchführen einer instrumentell analytischen Aufgabe,b)Durchführen einer maßanalytischen Aufgabe,c)Durchführen einer physikalisch analytischen Aufgabe,d)eine der nach § 3 Nummer 2 Buchstabe a gewählten Wahlqualifikationen; Durchführen einer instrumentell analytischen Aufgabe, Durchführen einer maßanalytischen Aufgabe, Durchführen einer physikalisch analytischen Aufgabe, eine der nach § 3 Nummer 2 Buchstabe a gewählten Wahlqualifikationen;
 
-b)
+3. der Prüfling soll die Arbeitsaufgabe I und die Arbeitsaufgabe II durchführen, wobei sich Arbeitsaufgabe I auf Nummer 2 Buchstabe a, b oder c und Arbeitsaufgabe II auf Nummer 2 Buchstabe d beziehen soll;
 
-c)
+4. die Prüfungszeit beträgt insgesamt 660 Minuten;
 
-d)
-
-e)
-
-f)
-
-g)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-3.
-
-4.
-
-5.
+5. die Arbeitsaufgabe I ist mit 40 Prozent und die Arbeitsaufgabe II mit 60 Prozent zu gewichten.
 
 (4) Für den Prüfungsbereich Analytische Chemie und Wahlqualifikationen bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er a)fachliche Aufgaben in Hinblick auf arbeitsorganisatorische, naturwissenschaftliche und technologische Sachverhalte und deren Verknüpfung analysieren, bewerten und geeignete Lösungswege darstellen,b)berufsbezogene Berechnungen durchführen sowiec)Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehenkann; fachliche Aufgaben in Hinblick auf arbeitsorganisatorische, naturwissenschaftliche und technologische Sachverhalte und deren Verknüpfung analysieren, bewerten und geeignete Lösungswege darstellen, berufsbezogene Berechnungen durchführen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
-a)
+2. dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu legen: a)Analytische Chemie: aa)Analysenverfahren einschließlich Probenvorbereitung und Reaktionsgleichungen,bb)Stoffkonstanten und physikalische Größen,cc)Reaktionskinetik und Thermodynamik, chemisches Gleichgewicht sowiedd)Auswerten von Messergebnissen unter Berücksichtigung stöchiometrischer Berechnungen,b)wichtige großtechnische Herstellungsverfahren,c)drei der nach § 3 Nummer 2 Buchstabe a gewählten Wahlqualifikationen; Analytische Chemie: aa)Analysenverfahren einschließlich Probenvorbereitung und Reaktionsgleichungen,bb)Stoffkonstanten und physikalische Größen,cc)Reaktionskinetik und Thermodynamik, chemisches Gleichgewicht sowiedd)Auswerten von Messergebnissen unter Berücksichtigung stöchiometrischer Berechnungen, Analysenverfahren einschließlich Probenvorbereitung und Reaktionsgleichungen, Stoffkonstanten und physikalische Größen, Reaktionskinetik und Thermodynamik, chemisches Gleichgewicht sowie Auswerten von Messergebnissen unter Berücksichtigung stöchiometrischer Berechnungen, wichtige großtechnische Herstellungsverfahren, drei der nach § 3 Nummer 2 Buchstabe a gewählten Wahlqualifikationen;
 
-b)
+3. der Prüfling soll Aufgaben schriftlich bearbeiten;
 
-c)
+4. die Prüfungszeit beträgt 195 Minuten;
 
-2.
-
-a)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-b)
-
-c)
-
-3.
-
-4.
-
-5.
+5. die Aufgaben zu der Nummer 2 Buchstabe a und b sind insgesamt mit 40 Prozent, die zu Nummer 2 Buchstabe c mit 60 Prozent zu gewichten.
 
 (5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
-2.
+2. der Prüfling soll Aufgaben schriftlich bearbeiten;
 
-3.
+3. die Prüfungszeit beträgt 60 Minuten.
 
 ### § 9 — Gewichtungs- und Bestehensregelung
 
-(1) Die Prüfungsbereiche sind wie folgt zu gewichten:
+(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen bewertet worden sind.
+1. im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
 
-1.
+2. im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
 
-2.
+3. im Prüfungsbereich Prozessorientiertes Arbeiten sowie im Prüfungsbereich Analytische Chemie und Wahlqualifikationen jeweils mit mindestens „ausreichend“ und
 
-3.
-
-4.
+4. in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“
 
 ### § 10 — Mündliche Ergänzungsprüfung
 
@@ -354,99 +168,33 @@ Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussp
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 2) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Biologielaboranten und zur Biologielaborantin gliedert sich wie folgt:  Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1.1 und Nummer 1.2 Buchstabe b Abschnitt B: Wahlqualifikationen nach § 3 Nummer 2 Buchstabe b
+(2) Die Berufsausbildung zum Biologielaboranten und zur Biologielaborantin gliedert sich wie folgt:
 
-1.
+1. Berufsbildung, Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Betriebliche Maßnahmen zum verantwortlichen Handeln: 3.1Sicherheit und Gesundheitsschutz bei der Arbeit,3.2Umweltschutz,3.3Einsetzen von Energieträgern,3.4Umgehen mit Arbeitsgeräten und -mitteln einschließlich Pflege und Wartung,3.5Qualitätssichernde Maßnahmen, Kundenorientierung,3.6Wirtschaftlichkeit im Labor; Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz, Einsetzen von Energieträgern, Umgehen mit Arbeitsgeräten und -mitteln einschließlich Pflege und Wartung, Qualitätssichernde Maßnahmen, Kundenorientierung, Wirtschaftlichkeit im Labor;
 
-3.1
+4. Arbeitsorganisation und Kommunikation: 4.1Arbeitsplanung, Arbeiten im Team,4.2Informationsbeschaffung und Dokumentation,4.3Kommunikations- und Informationssysteme,4.4Messdatenerfassung und -verarbeitung,4.5Anwenden von Fremdsprachen bei Fachaufgaben; Arbeitsplanung, Arbeiten im Team, Informationsbeschaffung und Dokumentation, Kommunikations- und Informationssysteme, Messdatenerfassung und -verarbeitung, Anwenden von Fremdsprachen bei Fachaufgaben;
 
-3.2
+5. Umgehen mit Arbeitsstoffen,
 
-3.3
+6. Chemische und physikalische Methoden: 6.1Probenahme und Probenvorbereitung,6.2Bestimmung physikalischer Größen und Stoffkonstanten,6.3Analyseverfahren,6.4Trennen und Vereinigen von Arbeitsstoffen; Probenahme und Probenvorbereitung, Bestimmung physikalischer Größen und Stoffkonstanten, Analyseverfahren, Trennen und Vereinigen von Arbeitsstoffen;
 
-3.4
+7. Durchführen mikrobiologischer Arbeiten I,
 
-3.5
+8. Durchführen zellkulturtechnischer Arbeiten I,
 
-3.6
+9. Durchführen molekularbiologischer Arbeiten,
 
-4.
+10. Durchführen biochemischer Arbeiten,
 
-4.1
+11. Durchführen diagnostischer Arbeiten I: 11.1Durchführen hämatologischer Arbeiten,11.2Durchführen histologischer Arbeiten; Durchführen hämatologischer Arbeiten, Durchführen histologischer Arbeiten;
 
-4.2
+12. Durchführen zoologisch-pharmakologischer Arbeiten,
 
-4.3
-
-4.4
-
-4.5
-
-5.
-
-6.
-
-6.1
-
-6.2
-
-6.3
-
-6.4
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-11.1
-
-11.2
-
-12.
-
-13.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-12.
-
-13.
-
-14.
-
-15.
-
-16.
+13. Bereichsspezifische qualitätssichernde Maßnahmen;
 
 ### § 12 — Durchführung der Berufsausbildung
 
@@ -468,73 +216,31 @@ Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussp
 
 (3) Teil 1 der Abschlussprüfung besteht aus den Prüfungsbereichen:
 
-1.
+1. Untersuchung biologischer Systeme,
 
-2.
+2. Biologische Grundlagen.
 
 (4) Für den Prüfungsbereich Untersuchung biologischer Systeme bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er a)biologische und chemisch-physikalische Methoden sowie Arbeitsstoffe prozessbezogen anwenden,b)Arbeitsabläufe selbstständig planen,c)Arbeitsergebnisse kontrollieren und dokumentieren,d)berufsbezogene Berechnungen durchführen,e)arbeitsorganisatorische und technologische Sachverhalte verknüpfen sowief)Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehenkann; biologische und chemisch-physikalische Methoden sowie Arbeitsstoffe prozessbezogen anwenden, Arbeitsabläufe selbstständig planen, Arbeitsergebnisse kontrollieren und dokumentieren, berufsbezogene Berechnungen durchführen, arbeitsorganisatorische und technologische Sachverhalte verknüpfen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
-a)
+2. hierfür ist aus folgenden Gebieten und Tätigkeiten auszuwählen: a)chemisch-physikalische Methoden,b)Durchführen mikrobiologischer Arbeiten I,c)Durchführen zellkulturtechnischer Arbeiten I,d)Durchführen diagnostischer Arbeiten I sowiee)Durchführen zoologisch-pharmakologischer Arbeiten; chemisch-physikalische Methoden, Durchführen mikrobiologischer Arbeiten I, Durchführen zellkulturtechnischer Arbeiten I, Durchführen diagnostischer Arbeiten I sowie Durchführen zoologisch-pharmakologischer Arbeiten;
 
-b)
+3. der Prüfling soll eine Arbeitsaufgabe I und eine Arbeitsaufgabe II durchführen, wobei sich die Arbeitsaufgabe I auf Nummer 2 Buchstabe e in Verbindung mit Nummer 2 Buchstabe a oder Nummer 2 Buchstabe d und die Arbeitsaufgabe II auf Nummer 2 Buchstabe a, b oder c beziehen soll;
 
-c)
+4. die Prüfungszeit beträgt insgesamt 360 Minuten;
 
-d)
-
-e)
-
-f)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-3.
-
-4.
-
-5.
+5. die Arbeitsaufgabe I ist mit 65 Prozent und die Arbeitsaufgabe II mit 35 Prozent zu gewichten.
 
 (5) Für den Prüfungsbereich Biologische Grundlagen bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er a)fachliche Aufgaben in Hinblick auf arbeitsorganisatorische, naturwissenschaftliche und technologische Sachverhalte sowie deren Verknüpfung analysieren, bewerten und geeignete Lösungswege darstellen,b)biologische und chemisch-physikalische Methoden beschreiben,c)prozessbezogene Anwendungen von Arbeitsstoffen beschreiben,d)berufsbezogene Berechnungen durchführen sowiee)Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehenkann; fachliche Aufgaben in Hinblick auf arbeitsorganisatorische, naturwissenschaftliche und technologische Sachverhalte sowie deren Verknüpfung analysieren, bewerten und geeignete Lösungswege darstellen, biologische und chemisch-physikalische Methoden beschreiben, prozessbezogene Anwendungen von Arbeitsstoffen beschreiben, berufsbezogene Berechnungen durchführen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
-a)
+2. dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu legen: a)Chemisch-physikalische Methoden,b)Durchführen mikrobiologischer Arbeiten I,c)Durchführen zellkulturtechnischer Arbeiten I,d)Durchführen diagnostischer Arbeiten I sowiee)Durchführen zoologisch-pharmakologischer Arbeiten; Chemisch-physikalische Methoden, Durchführen mikrobiologischer Arbeiten I, Durchführen zellkulturtechnischer Arbeiten I, Durchführen diagnostischer Arbeiten I sowie Durchführen zoologisch-pharmakologischer Arbeiten;
 
-b)
+3. der Prüfling soll Aufgaben schriftlich bearbeiten;
 
-c)
-
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-3.
-
-4.
+4. die Prüfungszeit beträgt 135 Minuten.
 
 ### § 15 — Teil 2 der Abschlussprüfung
 
@@ -542,89 +248,55 @@ e)
 
 (2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen:
 
-1.
+1. Prozessorientiertes Arbeiten,
 
-2.
+2. Biologische Technologien,
 
-3.
+3. Wirtschafts- und Sozialkunde.
 
 (3) Für den Prüfungsbereich Prozessorientiertes Arbeiten bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er a)komplexe prozessorientierte Arbeitsabläufe selbstständig planen und durchführen,b)Betriebsmittel auswählen und beurteilen,c)arbeitsorganisatorische und technologische Sachverhalte verknüpfen,d)berufsbezogene Berechnungen durchführen,e)Arbeitsergebnisse kontrollieren, dokumentieren und bewerten,f)die relevanten fachlichen Hintergründe seiner Arbeit aufzeigen und seine Vorgehensweise begründen sowieg)Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehenkann; komplexe prozessorientierte Arbeitsabläufe selbstständig planen und durchführen, Betriebsmittel auswählen und beurteilen, arbeitsorganisatorische und technologische Sachverhalte verknüpfen, berufsbezogene Berechnungen durchführen, Arbeitsergebnisse kontrollieren, dokumentieren und bewerten, die relevanten fachlichen Hintergründe seiner Arbeit aufzeigen und seine Vorgehensweise begründen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
-a)
+2. hierfür ist vom Prüfungsausschuss aus folgenden Gebieten und Tätigkeiten auszuwählen: a)Durchführen molekularbiologischer Arbeiten,b)Durchführen biochemischer Arbeiten,c)nach § 3 Nummer 2 Buchstabe b gewählte Wahlqualifikationen; Durchführen molekularbiologischer Arbeiten, Durchführen biochemischer Arbeiten, nach § 3 Nummer 2 Buchstabe b gewählte Wahlqualifikationen;
 
-b)
+3. der Prüfling soll die Arbeitsaufgaben I und II durchführen; die Arbeitsaufgabe I muss sich auf Nummer 2 Buchstabe a oder b beziehen, die Arbeitsaufgabe II muss sich auf Nummer 2 Buchstabe c beziehen;
 
-c)
+4. die Prüfungszeit beträgt insgesamt 660 Minuten;
 
-d)
-
-e)
-
-f)
-
-g)
-
-2.
-
-a)
-
-b)
-
-c)
-
-3.
-
-4.
-
-5.
+5. die Arbeitsaufgabe I ist mit 40 Prozent und die Arbeitsaufgabe II mit 60 Prozent zu gewichten.
 
 (4) Für den Prüfungsbereich Biologische Technologien bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er a)fachliche Probleme im Hinblick auf arbeitsorganisatorische, naturwissenschaftliche und technologische Sachverhalte sowie deren Verknüpfung analysieren, bewerten und geeignete Lösungswege ableiten und darstellen,b)berufsbezogene Berechnungen durchführen sowiec)Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehenkann; fachliche Probleme im Hinblick auf arbeitsorganisatorische, naturwissenschaftliche und technologische Sachverhalte sowie deren Verknüpfung analysieren, bewerten und geeignete Lösungswege ableiten und darstellen, berufsbezogene Berechnungen durchführen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
-a)
+2. dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu legen: a)Durchführen molekularbiologischer Arbeiten,b)Durchführen biochemischer Arbeiten,c)drei der nach § 3 Nummer 2 Buchstabe b gewählten Wahlqualifikationen; Durchführen molekularbiologischer Arbeiten, Durchführen biochemischer Arbeiten, drei der nach § 3 Nummer 2 Buchstabe b gewählten Wahlqualifikationen;
 
-b)
+3. der Prüfling soll Aufgaben schriftlich bearbeiten;
 
-c)
+4. die Prüfungszeit beträgt 195 Minuten;
 
-2.
-
-a)
-
-b)
-
-c)
-
-3.
-
-4.
-
-5.
+5. die Aufgaben zu Nummer 2 Buchstabe a und b sind insgesamt mit 30 Prozent und die Aufgaben zu Nummer 2 Buchstabe c sind insgesamt mit 70 Prozent zu gewichten.
 
 (5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
-2.
+2. der Prüfling soll Aufgaben schriftlich bearbeiten;
 
-3.
+3. die Prüfungszeit beträgt 60 Minuten.
 
 ### § 16 — Gewichtungs- und Bestehensregelung
 
-(1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
+(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen bewertet worden sind.
+1. im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
 
-1.
+2. im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
 
-2.
+3. im Prüfungsbereich Prozessorientiertes Arbeiten sowie im Prüfungsbereich Biologische Technologien jeweils mit mindestens „ausreichend“ und
 
-3.
-
-4.
+4. in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“
 
 ### § 17 — Mündliche Ergänzungsprüfung
 
@@ -636,109 +308,27 @@ Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussp
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 3) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Lacklaboranten und zur Lacklaborantin gliedert sich wie folgt: Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1.1 und Nummer 1.2 Buchstabe c Abschnitt B: Wahlqualifikationen nach § 3 Nummer 2 Buchstabe c
+(2) Die Berufsausbildung zum Lacklaboranten und zur Lacklaborantin gliedert sich wie folgt:
 
-1.
+1. Berufsbildung, Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Betriebliche Maßnahmen zum verantwortlichen Handeln: 3.1Sicherheit und Gesundheitsschutz bei der Arbeit,3.2Umweltschutz,3.3Einsetzen von Energieträgern,3.4Umgehen mit Arbeitsgeräten und -mitteln einschließlich Pflege und Wartung,3.5Qualitätssichernde Maßnahmen, Kundenorientierung,3.6Wirtschaftlichkeit im Labor; Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz, Einsetzen von Energieträgern, Umgehen mit Arbeitsgeräten und -mitteln einschließlich Pflege und Wartung, Qualitätssichernde Maßnahmen, Kundenorientierung, Wirtschaftlichkeit im Labor;
 
-3.1
+4. Arbeitsorganisation und Kommunikation: 4.1Arbeitsplanung, Arbeiten im Team,4.2Informationsbeschaffung und Dokumentation,4.3Kommunikations- und Informationssysteme,4.4Messdatenerfassung und -verarbeitung,4.5Anwenden von Fremdsprachen bei Fachaufgaben; Arbeitsplanung, Arbeiten im Team, Informationsbeschaffung und Dokumentation, Kommunikations- und Informationssysteme, Messdatenerfassung und -verarbeitung, Anwenden von Fremdsprachen bei Fachaufgaben;
 
-3.2
+5. Umgehen mit Arbeitsstoffen,
 
-3.3
+6. Chemische und physikalische Methoden: 6.1Probenahme und Probenvorbereitung,6.2Bestimmung physikalischer Größen und Stoffkonstanten,6.3Analyseverfahren,6.4Trennen und Vereinigen von Arbeitsstoffen; Probenahme und Probenvorbereitung, Bestimmung physikalischer Größen und Stoffkonstanten, Analyseverfahren, Trennen und Vereinigen von Arbeitsstoffen;
 
-3.4
+7. Durchführen analytischer Arbeiten an Lackrohstoffen, Halbfabrikaten und Beschichtungsstoffen: 7.1Physikalische Verfahren zur Bestimmung von Stoffkonstanten und Kennzahlen,7.2Chemische Verfahren zur Bestimmung von Kennzahlen; Physikalische Verfahren zur Bestimmung von Stoffkonstanten und Kennzahlen, Chemische Verfahren zur Bestimmung von Kennzahlen;
 
-3.5
+8. Vorbehandeln und Beschichten von Untergründen sowie Prüfen von Beschichtungen: 8.1Vorbehandeln zu prüfender Untergründe,8.2Applizieren von Beschichtungsstoffen,8.3Trocknen und Härten von Beschichtungsstoffen,8.4Prüfen von Beschichtungen und Beschichtungsstoffen; Vorbehandeln zu prüfender Untergründe, Applizieren von Beschichtungsstoffen, Trocknen und Härten von Beschichtungsstoffen, Prüfen von Beschichtungen und Beschichtungsstoffen;
 
-3.6
+9. Grundlagen der Herstellung von Beschichtungsstoffen,
 
-4.
-
-4.1
-
-4.2
-
-4.3
-
-4.4
-
-4.5
-
-5.
-
-6.
-
-6.1
-
-6.2
-
-6.3
-
-6.4
-
-7.
-
-7.1
-
-7.2
-
-8.
-
-8.1
-
-8.2
-
-8.3
-
-8.4
-
-9.
-
-10.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-12.
-
-13.
-
-14.
-
-15.
-
-16.
-
-17.
-
-18.
-
-19.
-
-20.
+10. Grundlagen zur Formulierung von Beschichtungsstoffen;
 
 ### § 19 — Durchführung der Berufsausbildung
 
@@ -760,65 +350,31 @@ Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussp
 
 (3) Teil 1 der Abschlussprüfung besteht aus den Prüfungsbereichen:
 
-1.
+1. Applikations- und Prüftechnik,
 
-2.
+2. Chemie und Physik von Beschichtungsstoffen.
 
 (4) Für den Prüfungsbereich Applikations- und Prüftechnik bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er a)lacktechnische Arbeiten durchführen,b)Arbeitsabläufe selbstständig planen,c)Arbeitsergebnisse kontrollieren und dokumentieren,d)berufsbezogene Berechnungen durchführen,e)arbeitsorganisatorische und technologische Sachverhalte verknüpfen sowief)Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehenkann; lacktechnische Arbeiten durchführen, Arbeitsabläufe selbstständig planen, Arbeitsergebnisse kontrollieren und dokumentieren, berufsbezogene Berechnungen durchführen, arbeitsorganisatorische und technologische Sachverhalte verknüpfen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
-a)
+2. dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu legen: a)Durchführen analytischer Arbeiten,b)Vorbehandeln und Beschichten von Untergründen undc)Prüfen von Beschichtungen und Beschichtungsstoffen; Durchführen analytischer Arbeiten, Vorbehandeln und Beschichten von Untergründen und Prüfen von Beschichtungen und Beschichtungsstoffen;
 
-b)
+3. der Prüfling soll die Arbeitsaufgaben I, II und III durchführen, wobei sich Arbeitsaufgabe I auf Nummer 2 Buchstabe a, Arbeitsaufgabe II auf Nummer 2 Buchstabe b und Arbeitsaufgabe III auf Nummer 2 Buchstabe c beziehen soll; in die Arbeitsaufgabe I sollen jeweils zwei unterschiedliche physikalische und chemische Einzelbestimmungen einbezogen werden;
 
-c)
+4. die Prüfungszeit beträgt insgesamt 420 Minuten;
 
-d)
-
-e)
-
-f)
-
-2.
-
-a)
-
-b)
-
-c)
-
-3.
-
-4.
-
-5.
+5. die Arbeitsaufgabe I ist mit 60 Prozent, die Arbeitsaufgaben II und III sind mit jeweils 20 Prozent zu gewichten.
 
 (5) Für den Prüfungsbereich Chemie und Physik von Beschichtungsstoffen bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er a)fachliche Aufgaben in Hinblick auf arbeitsorganisatorische, naturwissenschaftliche und technologische Sachverhalte sowie deren Verknüpfung analysieren, bewerten und geeignete Lösungswege darstellen,b)chemische und physikalische Eigenschaften von Stoffen sowie die Analytik der Arbeitsstoffe beschreiben,c)berufsbezogene Berechnungen durchführen sowied)Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehenkann; fachliche Aufgaben in Hinblick auf arbeitsorganisatorische, naturwissenschaftliche und technologische Sachverhalte sowie deren Verknüpfung analysieren, bewerten und geeignete Lösungswege darstellen, chemische und physikalische Eigenschaften von Stoffen sowie die Analytik der Arbeitsstoffe beschreiben, berufsbezogene Berechnungen durchführen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
-a)
+2. dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu legen: a)Durchführen analytischer Arbeiten,b)Vorbehandeln und Beschichten von Untergründen,c)Prüfen von Beschichtungen und Beschichtungsstoffen sowied)Herstellen von Beschichtungsstoffen; Durchführen analytischer Arbeiten, Vorbehandeln und Beschichten von Untergründen, Prüfen von Beschichtungen und Beschichtungsstoffen sowie Herstellen von Beschichtungsstoffen;
 
-b)
+3. der Prüfling soll Aufgaben schriftlich bearbeiten;
 
-c)
-
-d)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-3.
-
-4.
+4. die Prüfungszeit beträgt 135 Minuten.
 
 ### § 22 — Teil 2 der Abschlussprüfung
 
@@ -826,97 +382,65 @@ d)
 
 (2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen:
 
-1.
+1. Herstellung und Qualitätskontrolle,
 
-2.
+2. Lack- und Beschichtungstechnologie,
 
-3.
+3. Wirtschafts- und Sozialkunde.
 
 (3) Für den Prüfungsbereich Herstellung und Qualitätskontrolle bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er a)komplexe, prozessorientierte Arbeitsabläufe selbstständig planen und durchführen,b)Betriebsmittel auswählen und beurteilen,c)arbeitsorganisatorische und technologische Sachverhalte verknüpfen,d)berufsbezogene Berechnungen durchführen,e)Arbeitsergebnisse kontrollieren, dokumentieren und bewerten,f)die relevanten fachlichen Hintergründe seiner Arbeit aufzeigen und seine Vorgehensweise begründen sowieg)Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehenkann; komplexe, prozessorientierte Arbeitsabläufe selbstständig planen und durchführen, Betriebsmittel auswählen und beurteilen, arbeitsorganisatorische und technologische Sachverhalte verknüpfen, berufsbezogene Berechnungen durchführen, Arbeitsergebnisse kontrollieren, dokumentieren und bewerten, die relevanten fachlichen Hintergründe seiner Arbeit aufzeigen und seine Vorgehensweise begründen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
-a)
+2. dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu legen: a)Beschichtungsstoffe unter Berücksichtigung einer der nach § 18 Absatz 2 Abschnitt B gewählten Wahlqualifikationen herstellen, applizieren und prüfen,b)nach vorgegebener Zusammensetzung eine Arbeitsrezeptur erstellen; Beschichtungsstoffe unter Berücksichtigung einer der nach § 18 Absatz 2 Abschnitt B gewählten Wahlqualifikationen herstellen, applizieren und prüfen, nach vorgegebener Zusammensetzung eine Arbeitsrezeptur erstellen;
 
-b)
+3. der Prüfling soll eine Arbeitsaufgabe durchführen;
 
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-2.
-
-a)
-
-b)
-
-3.
-
-4.
+4. die Prüfungszeit beträgt insgesamt 540 Minuten.
 
 (4) Für den Prüfungsbereich Lack- und Beschichtungstechnologie bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er a)fachliche Aufgaben im Hinblick auf arbeitsorganisatorische, naturwissenschaftliche und technologische Sachverhalte sowie deren Verknüpfung analysieren, bewerten und geeignete Lösungswege darstellen,b)berufsbezogene Berechnungen durchführen sowiec)Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehenkann; fachliche Aufgaben im Hinblick auf arbeitsorganisatorische, naturwissenschaftliche und technologische Sachverhalte sowie deren Verknüpfung analysieren, bewerten und geeignete Lösungswege darstellen, berufsbezogene Berechnungen durchführen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
-a)
+2. dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu legen: a)Herstellungsverfahren von Beschichtungsstoffen,b)Aufbau, Eigenschaften und Wirkungsweise von Lackrohstoffen,c)Formulierung von Beschichtungsstoffen,d)drei der nach § 18 Absatz 2 Abschnitt B gewählten Wahlqualifikationen; Herstellungsverfahren von Beschichtungsstoffen, Aufbau, Eigenschaften und Wirkungsweise von Lackrohstoffen, Formulierung von Beschichtungsstoffen, drei der nach § 18 Absatz 2 Abschnitt B gewählten Wahlqualifikationen;
 
-b)
+3. der Prüfling soll Aufgaben schriftlich bearbeiten;
 
-c)
+4. die Prüfungszeit beträgt 195 Minuten;
 
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-3.
-
-4.
-
-5.
+5. die Aufgaben zu Nummer 2 Buchstabe a, b und c sind mit insgesamt 40 Prozent und die Aufgaben zu Nummer 2 Buchstabe d mit 60 Prozent zu gewichten.
 
 (5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
-2.
+2. der Prüfling soll Aufgaben schriftlich bearbeiten;
 
-3.
+3. die Prüfungszeit beträgt 60 Minuten.
 
 ### § 23 — Gewichtungs- und Bestehensregelung
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
-1.
+1. Prüfungsbereich Applikations- und Prüftechnik17,5 Prozent,
 
-2.
+2. Prüfungsbereich Chemie und Physik von Beschichtungsstoffen17,5 Prozent,
 
-3.
+3. Prüfungsbereich Herstellung und Qualitätskontrolle27,5 Prozent,
 
-4.
+4. Prüfungsbereich Lack- und Beschichtungstechnologie27,5 Prozent,
 
-5.
+5. Prüfungsbereich Wirtschafts- und Sozialkunde10,0 Prozent.
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen bewertet worden sind.
+(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-1.
+1. im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
 
-2.
+2. im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
 
-3.
+3. im Prüfungsbereich Herstellung und Qualitätskontrolle sowie im Prüfungsbereich Lack- und Beschichtungstechnologie jeweils mit mindestens „ausreichend“ und
 
-4.
+4. in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“
 
 ### § 24 — Mündliche Ergänzungsprüfung
 
@@ -928,1396 +452,74 @@ Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussp
 
 ### Anlage 1 — (zu § 4 Absatz 1 Satz 1)
 
-Gemeinsame, integrativ zu vermittelnde Qualifikationen nach § 3 Nummer 1.1
+a) Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss, Dauer und Beendigung
 
-a)
+b) gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
 
-b)
+c) Möglichkeiten der beruflichen Fortbildung nennen
 
-c)
+d) wesentliche Teile des Arbeitsvertrages nennen
 
-d)
+e) wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
-e)
+a) Stoffe in Lösung bringen
 
-a)
+b) Proben zur Messung vorbereiten
 
-b)
+c) Referenzmaterialien auswählen und zur Messung vorbereiten
 
-c)
+a) Synthesevorschriften auswählen
 
-d)
+b) Syntheseapparaturen auswählen
 
-a)
+c) Verbindungen nach Analogvorschriften und nach Vorschriften mit allgemeinen Angaben unter Anwenden von mindestens fünf unterschiedlichen Reaktionstypen herstellen, davon sind mindestens vier der folgenden Reaktionstypen anzuwenden: –Addition,–Substitution,–Umlagerung,–Eliminierung,–biokatalytische Reaktion,–katalytische Reaktion,–Cyclisierung,–Polymerisation Addition, Substitution, Umlagerung, Eliminierung, biokatalytische Reaktion, katalytische Reaktion, Cyclisierung, Polymerisation
 
-b)
+d) Verbindungen über mehrere Stufen unter Anwenden unterschiedlicher Reaktionstypen herstellen
 
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-Pflichtqualifikationen nach § 3 Nummer 1.2 Buchstabe a
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-a)
-
-b)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-d)
-
-e)
-
-a)
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+e) Ausgangsstoffe, Zwischen- und Endprodukte auf Einhaltung der Spezifikation prüfen und das Ergebnis dokumentieren
 
 ### Anlage 2 — (zu § 11 Absatz 1 Satz 1)
 
-Gemeinsame, integrativ zu vermittelnde Qualifikationen nach § 3 Nummer 1.1
+a) Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
-a)
+b) gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
 
-b)
+c) Möglichkeiten der beruflichen Fortbildung nennen
 
-c)
+d) wesentliche Teile des Arbeitsvertrages nennen
 
-d)
+e) wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
-e)
+a) Arbeitssicherheitsmaßnahmen beim Umgang mit biologischem Material ergreifen
 
-a)
+b) Methoden der Desinfektion und Sterilisation anwenden
 
-b)
+c) kontaminiertes Material entsorgen
 
-c)
+d) Nährmedien herstellen
 
-d)
+a) Enzyme aus biologischem Material isolieren
 
-a)
+b) Antikörper gewinnen und Titer bestimmen
 
-b)
+c) Antigen- und Antikörpernachweis durchführen
 
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-Pflichtqualifikationen nach § 3 Nummer 1.2 Buchstabe b
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
+d) Proteine durch Blotting-Verfahren identifizieren
 
 ### Anlage 3 — (zu § 18 Absatz 1 Satz 1)
 
-Gemeinsame, integrativ zu vermittelnde Qualifikationen nach § 3 Nummer 1.1
+a) Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss, Dauer und Beendigung
 
-a)
+b) gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
 
-b)
+a) Stoffkonstanten und Kennzahlen bestimmen, insbesondere Viskosität, Brechzahl, Flammpunkt, Schmelzpunkt, Verdunstungszahl, elektrische Leitfähigkeit und nichtflüchtigen Anteil
 
-c)
+a) systemspezifische Eigenschaften von wasserverdünnbaren Beschichtungsstoffen und -systemen erläutern
 
-d)
+b) Anforderungsprofil erstellen und dabei Anwendungszweck, Untergrund, Verarbeitung, Ökologie, systemspezifische Eigenschaften und Kostenaspekte berücksichtigen
 
-e)
+c) Rohstoffe auswählen
 
-a)
+d) Maschinen und Geräte systemspezifisch auswählen und einsetzen
 
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-Pflichtqualifikationen nach § 3 Nummer 1.2 Buchstabe c
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
+e) verfahrenstechnische Parameter, insbesondere pH-Wert und Temperatur, festlegen

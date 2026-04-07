@@ -23,5 +23,3 @@ Diese Verordnung gilt, soweit die Zuständigkeit zur Verfolgung und Ahndung von 
 Diese Verordnung tritt am 1. Juli 1976 in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister der Finanzen

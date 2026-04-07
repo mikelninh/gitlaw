@@ -28,47 +28,41 @@ Auf Grund des § 80 Satz 1 Nummer 3a in Verbindung mit Satz 3 und 4 und in Verbi
 
 (2) Für die Anzeige sind folgende Angaben und Unterlagen erforderlich:
 
-1.
+1. Name oder Firma sowie die Anschrift der verantwortlichen Person und, sofern vorhanden, des in der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum niedergelassenen Vertreters,
 
-2.
+2. Bezeichnung oder Code des Arzneimittels, Bezeichnung der Wirkstoffe nach Art und Menge, sonstige Bestandteile nach der Art, Darreichungsform, Art der Anwendung, Dosierung und Behandlungsschema,
 
-3.
+3. Beschreibung der zu einer schweren Behinderung führenden oder lebensbedrohenden Erkrankung, an der die Patientinnen und Patienten leiden und für die das Arzneimittel bestimmt ist,
 
-4.
+4. Kriterien für die Auswahl der Patientinnen und Patienten und Angabe der voraussichtlichen Patientenanzahl,
 
-5.
+5. Begründung, dass diese Patientinnen und Patienten nicht zufriedenstellend mit einem zum Inverkehrbringen im Geltungsbereich des Arzneimittelgesetzes genehmigten oder zugelassenen Arzneimittel behandelt werden können,
 
-6.
+6. Begründung dafür, dass die Patientinnen oder Patienten in eine laufende klinische Prüfung nicht einbezogen werden können,
 
-7.
+7. Nachweise, dass das Arzneimittel die nach den anerkannten pharmazeutischen Regeln angemessene Qualität aufweist, sowie eine Bestätigung der sachkundigen Person nach § 14 des Arzneimittelgesetzes, dass das Arzneimittel nach den Grundsätzen und Leitlinien der Guten Herstellungspraxis für Arzneimittel hergestellt ist,
 
-8.
+8. Belege und Begründung für die Annahme, dass das Arzneimittel sicher und wirksam bei der vorgesehenen Anwendung ist, in der Regel durch Vorlage der Ergebnisse konfirmatorischer klinischer Prüfungen,
 
-9.
+9. Kriterien für das Aussetzen oder vorzeitige Beendigen des Härtefallprogramms,
 
-10.
+10. Nähere Angaben a)zur genehmigten klinischen Prüfung des Arzneimittels im vorgesehenen Anwendungsgebiet mit Angabe der EudraCT-Nummer oderb)zur klinischen Prüfung des Arzneimittels im vorgesehenen Anwendungsgebiet in einem Drittstaat und Nachweis, dass diese nach den international harmonisierten Standards der Guten Klinischen Praxis durchgeführt wird, oderc)über den Genehmigungs- oder Zulassungsantrag, der für das Arzneimittel in dem vorgesehenen Anwendungsgebiet bei der Europäischen Arzneimittel-Agentur, der zuständigen Bundesoberbehörde oder einer für die Zulassung zuständigen Behörde eines Mitgliedstaates gestellt wurde, zur genehmigten klinischen Prüfung des Arzneimittels im vorgesehenen Anwendungsgebiet mit Angabe der EudraCT-Nummer oder zur klinischen Prüfung des Arzneimittels im vorgesehenen Anwendungsgebiet in einem Drittstaat und Nachweis, dass diese nach den international harmonisierten Standards der Guten Klinischen Praxis durchgeführt wird, oder über den Genehmigungs- oder Zulassungsantrag, der für das Arzneimittel in dem vorgesehenen Anwendungsgebiet bei der Europäischen Arzneimittel-Agentur, der zuständigen Bundesoberbehörde oder einer für die Zulassung zuständigen Behörde eines Mitgliedstaates gestellt wurde,
 
-a)
+11. bei Arzneimitteln, die aus einem gentechnisch veränderten Organismus oder aus einer Kombination von gentechnisch veränderten Organismen bestehen oder solche enthalten, Unterlagen gemäß Anhang II und III der Richtlinie 2001/18/EG des Europäischen Parlaments und des Rates vom 12. März 2001 über die absichtliche Freisetzung genetisch veränderter Organismen in die Umwelt und zur Aufhebung der Richtlinie 90/220/EWG des Rates (ABl. L 106 vom 17.4.2001, S. 1),
 
-b)
+12. Begründung für eine Behandlung mit einem Arzneimittel, für das ein Antrag auf Genehmigung oder Zulassung des Arzneimittels versagt, zurückgenommen, widerrufen oder ruhend gestellt worden ist oder die Genehmigung einer klinischen Prüfung versagt, zurückgenommen, widerrufen oder ruhend gestellt oder unter Nebenbedingungen erteilt worden ist, unter Angabe der Entscheidungsgründe,
 
-c)
+13. die in der klinischen Prüfung der Prüferin oder dem Prüfer zur Verfügung gestellte aktuelle Prüferinformation oder der im Antrag auf Zulassung oder Genehmigung vorgesehene Entwurf einer Zusammenfassung der Produktmerkmale des Arzneimittels,
 
-11.
+14. Informationen und Unterlagen, die die Patientinnen und Patienten erhalten, in deutscher Sprache sowie eine Darstellung des Verfahrens der Einwilligung nach Aufklärung durch eine teilnehmende Ärztin oder einen teilnehmenden Arzt,
 
-12.
+15. Anforderungen an die ärztlichen Einrichtungen und an die Qualifikation der teilnehmenden Ärztinnen und Ärzte,
 
-13.
+16. Beschreibung der vorgesehenen Maßnahmen zur Gewährleistung einer sicheren Aufbewahrung, Anwendung sowie des Verbleibs der zur Verfügung gestellten Arzneimittel,
 
-14.
+17. Angaben, soweit zutreffend, zu bereits laufenden Härtefallprogrammen in Mitgliedstaaten der Europäischen Union oder anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und, soweit vorhanden, Gutachten des Ausschusses für Humanarzneimittel nach Artikel 83 Absatz 4 der Verordnung (EG) Nr. 726/2004,
 
-15.
-
-16.
-
-17.
-
-18.
+18. Einverständniserklärung dafür, die Information über die Grundzüge des angezeigten Härtefallprogramms an die Öffentlichkeit weiterzugeben.
 
 (3) Die Anzeige und die erforderlichen Unterlagen nach Absatz 2 bedürfen der Schriftform und der elektronischen Form. Die Unterlagen können in deutscher oder englischer Sprache eingereicht werden; davon ausgenommen sind die Unterlagen nach Absatz 2 Nummer 14.
 
@@ -96,15 +90,15 @@ c)
 
 (1) Die verantwortliche Person nach § 3 Absatz 1 hat
 
-1.
+1. jeden Verdachtsfall einer schwerwiegenden Nebenwirkung, der ihr von den teilnehmenden Ärztinnen und Ärzten mitgeteilt oder ihr auf anderem Weg zur Kenntnis gebracht worden ist, zu dokumentieren und der zuständigen Bundesoberbehörde unverzüglich, spätestens jedoch innerhalb von 15 Tagen nach Bekanntwerden, elektronisch mitzuteilen,
 
-2.
+2. jede Änderung der Angaben nach § 3 der zuständigen Bundesoberbehörde unverzüglich anzuzeigen und die entsprechenden Unterlagen beizufügen,
 
-3.
+3. der zuständigen Bundesoberbehörde unverzüglich den Abbruch des Härtefallprogramms unter Angabe der Gründe mitzuteilen,
 
-4.
+4. nach Abschluss des Härtefallprogramms der zuständigen Bundesoberbehörde einen Sicherheitsbericht vorzulegen, der insbesondere alle schwerwiegenden Nebenwirkungen und alle nicht schwerwiegenden unerwarteten Nebenwirkungen erfasst und bewertet,
 
-5.
+5. der zuständigen Bundesoberbehörde neue Gutachten nach Artikel 83 Absatz 4 der Verordnung (EG) Nr. 726/2004 und Erkenntnisse aus anderen Härtefallprogrammen, die in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum durchgeführt werden, unverzüglich vorzulegen oder mitzuteilen.
 
 (2) Änderungen, die sich auf das Anwendungsgebiet, die Stärke oder die Darreichungsform des Arzneimittels im Rahmen des Härtefallprogramms beziehen sowie Änderungen, die geeignet sind, sich auf die Sicherheit der Patientinnen und Patienten auszuwirken, dürfen erst mit Zugang einer erneuten bestätigten Anzeige nach § 4 vollzogen werden.
 
@@ -114,31 +108,15 @@ c)
 
 Die verantwortliche Person nach § 3 Absatz 1 hat sicherzustellen, dass
 
-1.
+1. die Umsetzung des Härtefallprogramms ordnungsgemäß erfolgt,
 
-2.
+2. alle Bedingungen und Einschränkungen hinsichtlich der sicheren und wirksamen Anwendung des Arzneimittels erfüllt werden und den beteiligten Personen die hierfür erforderlichen Informationen gegeben werden,
 
-3.
+3. das Arzneimittel nur in Verkehr gelangt, wenn auf den Behältnissen und soweit verwendet auf den äußeren Umhüllungen mindestens folgende Angaben enthalten sind: a)Bezeichnung oder Code des Arzneimittels,b)Name und Anschrift der verantwortlichen Person,c)Chargenbezeichnung,d)Art der Anwendung,e)Wirkstoffbezeichnung,f)Verfalldatum,g)soweit erforderlich, Aufbewahrungs- und Lagerungshinweise,h)Hinweis, dass das Arzneimittel ohne Genehmigung oder Zulassung im Rahmen eines Härtefallprogramms zur Verfügung gestellt wird, Bezeichnung oder Code des Arzneimittels, Name und Anschrift der verantwortlichen Person, Chargenbezeichnung, Art der Anwendung, Wirkstoffbezeichnung, Verfalldatum, soweit erforderlich, Aufbewahrungs- und Lagerungshinweise, Hinweis, dass das Arzneimittel ohne Genehmigung oder Zulassung im Rahmen eines Härtefallprogramms zur Verfügung gestellt wird,
 
-a)
+4. die Herstellung, Einfuhr und Freigabe nach den in der Arzneimittel- und Wirkstoffherstellungsverordnung vorgesehenen Regelungen für Prüfpräparate erfolgt,
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-4.
-
-5.
+5. die wesentlichen Unterlagen des Härtefallprogramms nach dessen Beendigung oder Abbruch mindestens zehn Jahre aufbewahrt werden; andere Vorschriften zur Aufbewahrung von medizinischen Unterlagen bleiben unberührt.
 
 ### § 8 — Informationspflichten der zuständigen Bundesoberbehörde
 

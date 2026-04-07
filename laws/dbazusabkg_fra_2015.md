@@ -33,19 +33,19 @@ Dem in Berlin am 31. März 2015 unterzeichneten Zusatzabkommen zwischen der Regi
 
 (1) Zuständige Behörde für die Abwicklung des Fiskalausgleichs gemäß Artikel 13 c Absatz 1 und 2 des geänderten Abkommens und des Abschnitts I Nummer 3 des Protokolls zum geänderten Abkommen ist das Bundeszentralamt für Steuern.
 
-(2) Die Landesfinanzbehörden übermitteln dem Statistischen Bundesamt Rentenbezugsmitteilungen nach § 22a des Einkommensteuergesetzes für Personen,Die Übermittlung erfolgt bis zum 30. April des Jahres, das auf das Jahr folgt, in dem die Bezüge im Sinne von Satz 1 zugeflossen sind. Sie erfolgt erstmals für den Veranlagungszeitraum, der dem Zeitpunkt der erstmaligen Anwendung des Zusatzabkommens vorausgeht.
+(2) Die Landesfinanzbehörden übermitteln dem Statistischen Bundesamt Rentenbezugsmitteilungen nach § 22a des Einkommensteuergesetzes für Personen,
 
-1.
+1. für die eine Adresse in Frankreich vorhanden ist und
 
-2.
+2. die Bezüge aus der deutschen gesetzlichen Sozialversicherung im Sinne des Artikels 13 Absatz 8 des geänderten Abkommens erhalten haben.
 
 (3) Die Landesfinanzbehörden teilen dem Statistischen Bundesamt die Anzahl der Personen im Sinne des Absatzes 2 mit, die für den Veranlagungszeitraum, der dem Zeitpunkt der erstmaligen Anwendung des Zusatzabkommens vorausgeht, mit bestandskräftigem Einkommensteuerbescheid nach § 1 Absatz 3 des Einkommensteuergesetzes antragsgemäß als unbeschränkt steuerpflichtig behandelt wurden. Diese Fälle sind zu kennzeichnen. Die Mitteilung gemäß Satz 1 erfolgt mit Stand vom 31. Dezember 2019 bis zum 30. April 2020.
 
-(4) Die Deutsche Rentenversicherung teilt dem Bundeszentralamt für Steuern für die am letzten Bankarbeitstag des Monats Oktober auszuzahlenden Rentenzahlungen der gesetzlichen Rentenversicherung Folgendes mit:Die Mitteilung gemäß Satz 1 erfolgt bis zum 30. April des Folgejahres. Sie erfolgt erstmals für den Veranlagungszeitraum der erstmaligen Anwendung des Zusatzabkommens.
+(4) Die Deutsche Rentenversicherung teilt dem Bundeszentralamt für Steuern für die am letzten Bankarbeitstag des Monats Oktober auszuzahlenden Rentenzahlungen der gesetzlichen Rentenversicherung Folgendes mit:
 
-1.
+1. die Anzahl aller Rentenzahlungen an Personen im Sinne des Absatzes 2 sowie
 
-2.
+2. die Anzahl der Rentenzahlungen an Personen im Sinne des Absatzes 2 Nummer 2, für die eine Adresse in den Grenzgängerdepartements Haut-Rhin (68), Bas-Rhin (67) und Moselle (57) vorhanden ist.
 
 ### Art 4
 
@@ -55,9 +55,9 @@ Dem in Berlin am 31. März 2015 unterzeichneten Zusatzabkommen zwischen der Regi
 
 (3) Einnahmen und Erstattungen, die durch Ausgleichsansprüche oder Ausgleichsverpflichtungen gemäß Artikel 13 c Absatz 1 und 2 des geänderten Abkommens und des Abschnitts I Nummer 3 des Protokolls zum geänderten Abkommen begründet sind, fließen der Einkommensteuer zu oder mindern sie. Der Länder- und Gemeindeanteil an diesen Einnahmen oder Erstattungen wird auf die Länder wie folgt verteilt:
 
-1.
+1. In Höhe einer Vorabzuweisung auf die Länder Baden-Württemberg, Rheinland-Pfalz und das Saarland im Verhältnis der Anzahl der Rentenzahlungen gemäß Artikel 3 Absatz 4 Nummer 2 zur Anzahl der Rentenzahlungen gemäß Artikel 3 Absatz 4 Nummer 1. Die Länder- und Gemeindeanteile an dieser Vorabzuweisung betragen für Baden-Württemberg 50 Prozent, für Rheinland-Pfalz 10 Prozent und für das Saarland 40 Prozent.
 
-2.
+2. Der nach Abzug der Vorabzuweisung vom Länder- und Gemeindeanteil der Einnahmen oder Erstattungen verbleibende Betrag wird nach dem im Staatsabkommen der Länder der Bundesrepublik Deutschland über die Finanzierung wissenschaftlicher Forschungseinrichtungen vom 30./31. März 1949 festgelegten Schlüssel (Königsteiner Schlüssel) verteilt.
 
 ### Art 5
 

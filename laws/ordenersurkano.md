@@ -19,5 +19,3 @@ Auf Grund des § 1 Abs. 2 Satz 2 des Gesetzes über die Errichtung des Bundesver
 Diese Anordnung tritt am Tage nach ihrer Verkündung im Bundesanzeiger in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister des Innern

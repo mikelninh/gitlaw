@@ -16,21 +16,21 @@ Auf Grund des § 5 der Bundes-Apothekerordnung vom 5. Juni 1968 (BGBl. I S. 601)
 
 (1) Die pharmazeutische Ausbildung umfaßt
 
-1.
+1. ein Studium der Pharmazie von vier Jahren an einer Universität;
 
-2.
+2. eine Famulatur von acht Wochen;
 
-3.
+3. eine praktische Ausbildung von zwölf Monaten;
 
-4.
+4. die Pharmazeutische Prüfung, die in drei Prüfungsabschnitten abzulegen ist.
 
 (2) Die Prüfungsabschnitte der Pharmazeutischen Prüfung werden abgelegt:
 
-1.
+1. der Erste Abschnitt nach einem Studium der Pharmazie von mindestens zwei Jahren,
 
-2.
+2. der Zweite Abschnitt nach Bestehen des Ersten Abschnitts der Pharmazeutischen Prüfung und einem Studium der Pharmazie von mindestens vier Jahren,
 
-3.
+3. der Dritte Abschnitt nach Bestehen des Zweiten Abschnitts und nach Ableistung der sich anschließenden praktischen Ausbildung nach Absatz 1 Nr. 3.
 
 (3) Die Regelstudienzeit im Sinne des § 10 Abs. 2 des Hochschulrahmengesetzes beträgt vier Jahre.
 
@@ -44,33 +44,23 @@ Auf Grund des § 5 der Bundes-Apothekerordnung vom 5. Juni 1968 (BGBl. I S. 601)
 
 (1) Durch die Famulatur nach § 1 Abs. 1 Nr. 2 soll der Auszubildende mit den pharmazeutischen Tätigkeiten vertraut gemacht werden. Außerdem soll er Einblick in die Organisation und Betriebsabläufe sowie in die Rechtsvorschriften für Apotheken und in die Fachsprache erhalten.
 
-(2) Die Famulatur ist während der lehrveranstaltungsfreien Zeiten des Studiums vor der Meldung zum Ersten Abschnitt der Pharmazeutischen Prüfung unter Leitung eines Apothekers ganztägig abzuleisten. Mindestens vier Wochen der Famulatur sind in einer öffentlichen Apotheke, die keine Zweigapotheke ist, abzuleisten; die übrige Zeit kann wahlweise auch in abgeleistet werden. Die in Satz 2 letzter Halbsatz genannte Zeit kann auch in vergleichbaren Einrichtungen in einem der übrigen Mitgliedstaaten der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in einem Vertragsstaat, dem Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, abgeleistet werden. Eine Ableistung in Abschnitten von mindestens vier Wochen ist zulässig. Über die abgeleistete Famulatur erhält der Auszubildende eine Bescheinigung nach Muster der Anlage 7.
+(2) Die Famulatur ist während der lehrveranstaltungsfreien Zeiten des Studiums vor der Meldung zum Ersten Abschnitt der Pharmazeutischen Prüfung unter Leitung eines Apothekers ganztägig abzuleisten. Mindestens vier Wochen der Famulatur sind in einer öffentlichen Apotheke, die keine Zweigapotheke ist, abzuleisten; die übrige Zeit kann wahlweise auch in
 
-1.
+1. einer Krankenhaus- oder Bundeswehrapotheke,
 
-2.
+2. der pharmazeutischen Industrie oder
 
-3.
+3. einer Arzneimitteluntersuchungsstelle oder einer vergleichbaren Einrichtung einschließlich solcher der Bundeswehr
 
 (3) Für Apothekerassistenten, Pharmazieingenieure, pharmazeutisch-technische Assistenten und Apothekenassistenten entfällt die Famulatur.
 
 ### § 4 — Praktische Ausbildung
 
-(1) Die praktische Ausbildung nach § 1 Abs. 1 Nr. 3 findet nach dem Bestehen des Zweiten Abschnitts der Pharmazeutischen Prüfung statt. Sie gliedert sich in eine Ausbildung von abzuleisten sind. Drei Monate einer Ausbildung nach Satz 2 Nr. 2 Buchstabe b können auch auf der Station eines Krankenhauses oder Bundeswehrkrankenhauses abgeleistet werden.
+(1) Die praktische Ausbildung nach § 1 Abs. 1 Nr. 3 findet nach dem Bestehen des Zweiten Abschnitts der Pharmazeutischen Prüfung statt. Sie gliedert sich in eine Ausbildung von
 
-1.
+1. sechs Monaten in einer öffentlichen Apotheke, die keine Zweigapotheke ist, und
 
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+2. sechs Monaten, die wahlweise ina)einer Apotheke nach Nummer 1,b)einer Krankenhaus- oder Bundeswehrapotheke,c)der pharmazeutischen Industrie,d)einem Universitätsinstitut oder in anderen geeigneten wissenschaftlichen Institutionen einschließlich solchen der Bundeswehr,e)einer Arzneimitteluntersuchungsstelle oder einer vergleichbaren Einrichtung einschließlich solcher der Bundeswehr einer Apotheke nach Nummer 1, einer Krankenhaus- oder Bundeswehrapotheke, der pharmazeutischen Industrie, einem Universitätsinstitut oder in anderen geeigneten wissenschaftlichen Institutionen einschließlich solchen der Bundeswehr, einer Arzneimitteluntersuchungsstelle oder einer vergleichbaren Einrichtung einschließlich solcher der Bundeswehr
 
 (2) Während der ganztägigen praktischen Ausbildung sollen die im vorhergehenden Studium erworbenen pharmazeutischen Kenntnisse vertieft, erweitert und praktisch angewendet werden. Zur Ausbildung gehören insbesondere die pharmazeutischen Tätigkeiten im Sinne des § 2 Absatz 3 der Bundes-Apothekerordnung. Die Ausbildung umfasst auch Medizinprodukte, die in den Apotheken in den Verkehr gebracht werden. Die Ausbildung muß von einem Apotheker, der hauptberuflich in der Ausbildungsstätte tätig ist, geleitet werden; sofern sie an einem Universitätsinstitut abgeleistet wird, umfaßt sie eine pharmazeutisch-wissenschaftliche Tätigkeit unter der Leitung eines Professors, Hochschul- oder Privatdozenten.
 
@@ -98,37 +88,37 @@ e)
 
 (3) Dem Antrag auf Zulassung zum Ersten Abschnitt der Pharmazeutischen Prüfung sind beizufügen
 
-1.
+1. die Geburtsurkunde, bei Verheirateten auch die Eheurkunde,
 
-2.
+2. der Nachweis der Hochschulzugangsberechtigung, bei Zeugnissen, die außerhalb des Geltungsbereiches dieser Verordnung erworben worden sind, auch der Anerkennungsbescheid der zuständigen Behörde,
 
-3.
+3. der Nachweis über die Famulatur (Anlage 7), oder in Fällen des § 3 Abs. 3 die entsprechenden Nachweise,
 
-4.
+4. der Nachweis über ein Studium der Pharmazie von zwei Jahren,
 
-5.
+5. die Bescheinigungen über die regelmäßige und erfolgreiche Teilnahme an den Veranstaltungen zu den in der Anlage 1 zu Buchstaben A bis D angeführten Stoffgebieten nach dem Muster der Anlage 2.
 
-6.
+6. (weggefallen)
 
 (4) Dem Antrag auf Zulassung zum Zweiten Abschnitt der Pharmazeutischen Prüfung sind beizufügen
 
-1.
+1. das Zeugnis über das Bestehen des Ersten Abschnitts der Pharmazeutischen Prüfung (Anlage 10),
 
-2.
+2. der Nachweis über ein Studium der Pharmazie von mindestens vier Jahren,
 
-3.
+3. die Bescheinigungen über die regelmäßige und erfolgreiche Teilnahme an den Veranstaltungen zu den in der Anlage 1 zu Buchstaben E bis I angeführten Stoffgebieten nach dem Muster der Anlage 2,
 
-4.
+4. die Bescheinigung über das in Anlage 1 Buchstabe K vorgeschriebene Wahlpflichtfach nach dem Muster der Anlage 3.
 
-5.
+5. (weggefallen)
 
 (5) Dem Antrag auf Zulassung zum Dritten Abschnitt der Pharmazeutischen Prüfung sind beizufügen
 
-1.
+1. die Zeugnisse über das Bestehen des Ersten und Zweiten Abschnitts der Pharmazeutischen Prüfung (Anlage 10),
 
-2.
+2. der Nachweis über die praktische Ausbildung (Anlage 5),
 
-3.
+3. der Nachweis über die Teilnahme an den begleitenden Unterrichtsveranstaltungen (Anlage 6).
 
 (6) Soweit die in Absatz 3 Nr. 4 und 5 sowie die in Absatz 4 Nr. 2 bis 4 genannten Nachweise dem Antrag noch nicht beigefügt werden können, sind sie in einer vom Landesprüfungsamt zu bestimmenden Frist nachzureichen. Hat der Prüfungsbewerber bei der Meldung zum Dritten Abschnitt der Pharmazeutischen Prüfung die praktische Ausbildung nach § 4 Abs. 1 noch nicht abgeschlossen, so hat er eine vorläufige Bescheinigung des für die Ausbildung Verantwortlichen vorzulegen, aus der hervorgeht, daß er die Ausbildung bis zu dem voraussichtlichen Prüfungstermin abschließen wird. Die endgültige Bescheinigung nach dem Muster der Anlage 5 ist unverzüglich nach Erhalt nachzureichen; sie muß dem Landesprüfungsamt spätestens zum Beginn des Dritten Abschnitts der Pharmazeutischen Prüfung vorliegen.
 
@@ -138,11 +128,11 @@ e)
 
 (1) Die Zulassung zu einem Prüfungsabschnitt ist zu versagen, wenn
 
-1.
+1. der Prüfungsbewerber bis zu dem in § 6 Abs. 2 genannten Zeitpunkt den Antrag nicht oder nicht formgerecht stellt oder die vorgeschriebenen Nachweise nicht vorlegt, es sei denn, daß er einen wichtigen Grund hierfür glaubhaft macht, der Stand des Prüfungsverfahrens eine Teilnahme des Prüfungsbewerbers noch zuläßt und die versäumte Handlung spätestens vier Wochen vor dem Prüfungstermin nachgeholt wird,
 
-2.
+2. der Prüfungsbewerber im Falle des § 6 Abs. 6 die fehlenden Nachweise nicht fristgerecht nachreicht,
 
-3.
+3. der betreffende Prüfungsabschnitt nicht wiederholt werden darf.
 
 (2) Die Zulassung zu einem Prüfungsabschnitt ist zu versagen, wenn ein Grund vorliegt, der zur Versagung der Approbation als Apotheker wegen Fehlens einer der Voraussetzungen des § 4 Abs. 1 Satz 1 Nr. 2 oder 3 der Bundes-Apothekerordnung führen würde.
 
@@ -154,39 +144,35 @@ e)
 
 (3) Die Zulassung als alternatives Prüfungsverfahren setzt voraus, dass
 
-1.
+1. das Reformziel beschrieben wird und erkennen lässt, welche qualitativen Verbesserungen für die pharmazeutische Ausbildung von diesem Prüfungsverfahren erwartet werden,
 
-2.
+2. eine von der Universität zu erlassende besondere Studienordnung besteht,
 
-3.
+3. sichergestellt ist, dass die im Ersten Abschnitt der Pharmazeutischen Prüfung nachzuweisenden Kenntnisse und Fähigkeiten in diesem Prüfungsverfahren in einer der schriftlichen Prüfung gleichwertigen Weise geprüft werden,
 
-4.
+4. eine sachgerechte begleitende und abschließende Evaluierung dieses Prüfungsverfahrens gewährleistet ist,
 
-5.
+5. Mindest- und Höchstdauer der Laufzeit dieses Prüfungsverfahrens festgelegt sind und Verlängerungsanträge anhand von Evaluierungsergebnissen zu begründen sind,
 
-6.
+6. der Zugang zu einem Studiengang mit einem der Verordnung entsprechenden Prüfungsverfahren im Ersten Abschnitt der Pharmazeutischen Prüfung oder zu einem Studiengang mit einem alternativen Prüfungsverfahren freigestellt ist,
 
-7.
+7. die Voraussetzungen, unter denen die Universität dieses Prüfungsverfahren beenden kann, benannt sind,
 
-8.
+8. geregelt ist, wie bei einem Übergang zu einem anderen Studiengang der Pharmazie hinsichtlich des Weiterstudiums, der Anrechnung von Studienzeiten und Studienleistungen verfahren wird und
 
-9.
+9. festgelegt ist, wie die Anforderungen, die in den Anlagen 1, 2, 12 und 13 beschrieben sind, bei diesem Verfahren erfüllt werden.
 
 (4) Sieht das alternative Prüfungsverfahren vor, dass der Erste Abschnitt der Pharmazeutischen Prüfung nicht abgelegt werden muss, sind die in § 6 Abs. 3 Nr. 1 bis 4 genannten Unterlagen bei der Meldung zum Zweiten Abschnitt der Pharmazeutischen Prüfung vorzulegen; die zeitlichen Vorgaben des § 15 Abs. 5 gelten in diesem Fall nicht. Es wird ein Zeugnis nach dem Muster der Anlage 10 erteilt, in dem die Überprüfungsergebnisse der nach Absatz 3 Nr. 3 durchgeführten und dem Ersten Abschnitt der Pharmazeutischen Prüfung gleichwertigen Prüfungen getrennt aufgeführt werden.
 
 ### § 9 — Bewertung der Prüfungsleistungen
 
-(1) Für die Bewertung der Leistungen des Prüflings sind folgende Noten zu verwenden:
-
 (2) Die Note eines Prüfungsabschnitts errechnet sich aus dem Durchschnitt der Einzelnoten der Prüfungsfächer.
 
 (3) Für die Bewertung der Pharmazeutischen Prüfung ist unter Berücksichtigung der Noten (Zahlenwert gemäß Absatz 2 in Verbindung mit Absatz 4 Satz 1) des Ersten, Zweiten und Dritten Abschnitts der Pharmazeutischen Prüfung eine Gesamtnote zu bilden. Die Gesamtnote für die Pharmazeutische Prüfung wird wie folgt ermittelt:
 
-a)
+a) Die Note (Zahlenwert) für den Ersten Abschnitt wird mit zwei, die Note (Zahlenwert) für den Zweiten Abschnitt mit drei und die Note (Zahlenwert) für den Dritten Abschnitt mit zwei vervielfältigt.
 
-b)
-
-(4) Die Noten der Prüfungsabschnitte und die Gesamtnote für die Pharmazeutische Prüfung werden bis auf die zweite Stelle nach dem Komma errechnet. Der so ermittelte Zahlenwert ist in den Zeugnissen gemäß den Anlagen 10 und 11 anzugeben. Die Noten der einzelnen Prüfungsabschnitte sowie die Gesamtnote der Pharmazeutischen Prüfung werden wie folgt bewertet:
+b) Die Summe aus den nach Buchstabe a gewonnenen Zahlen wird durch sieben geteilt.
 
 ### § 10 — Schriftliche Prüfungen
 
@@ -199,9 +185,6 @@ b)
 (4) Die Prüfungsaufgaben sind durch die Landesprüfungsämter vor der Feststellung des Prüfungsergebnisses darauf zu überprüfen, ob sie, gemessen an den Anforderungen des Absatzes 2, offensichtlich fehlerhaft sind. Absatz 3 Satz 2 und 3 gilt entsprechend. Ergibt diese Überprüfung, daß einzelne Prüfungsaufgaben offensichtlich fehlerhaft sind, gelten sie als nicht gestellt. Die vorgeschriebene Zahl der Fragen für die einzelnen Prüfungen (§ 17 Abs. 2) mindert sich entsprechend. Bei der Bewertung der schriftlichen Prüfung nach den Absätzen 5 und 6 ist von der verminderten Zahl der Prüfungsfragen auszugehen. Die Verminderung der Zahl der Prüfungsfragen darf sich nicht zum Nachteil eines Prüflings auswirken.
 
 (5) Ein schriftlich geprüftes Fach ist bestanden, wenn der Anteil der von dem Prüfling richtig beantworteten Fragen nicht mehr als 18 vom Hundert unter der durchschnittlichen Prüfungsleistung der Prüflinge des jeweiligen Prüfungstermins im gesamten Bundesgebiet liegt oder wenn der Prüfling mindestens 50 vom Hundert der Fragen zutreffend beantwortet hat.
-
-(6) Die Leistungen in der schriftlichen Prüfung sind wie folgt zu bewerten: Hat der Prüfling die für das Bestehen der Prüfung nach Absatz 5 erforderliche Mindestzahl zutreffend beantworteter Prüfungsfragen erreicht, so lautet die Note 
-		 der darüber hinaus gestellten Prüfungsfragen zutreffend beantwortet hat. Hat der Prüfling die für das Bestehen der Prüfung erforderliche Mindestzahl zutreffend beantworteter Fragen nicht erreicht, lautet die Note "nicht ausreichend".
 
 (7) Das Ergebnis der schriftlichen Prüfung wird durch das Landesprüfungsamt festgestellt und dem Prüfling unverzüglich mitgeteilt. Dabei sind die Note für den Prüfungsabschnitt und die Noten für die einzelnen Fächer, die Zahl der vom Prüfling in den einzelnen Fächern zutreffend beantworteten Fragen sowie die durchschnittliche Prüfungsleistung anzugeben.
 
@@ -267,14 +250,6 @@ Stört ein Prüfling den ordnungsgemäßen Ablauf einer Prüfung in erheblichem 
 
 (1) Der Erste Abschnitt der Pharmazeutischen Prüfung erstreckt sich auf folgende Fächer:
 
-I.
-
-II.
-
-III.
-
-IV.
-
 (2) Die Prüfungen finden an vier Tagen in der Reihenfolge des Absatzes 1 statt. Die Prüfung dauert an den beiden ersten Tagen je zweieinhalb Stunden und an den folgenden beiden Tagen je zwei Stunden. Die Anzahl der in der Aufsichtsarbeit zu beantwortenden Fragen und ihre Verteilung auf die einzelnen Fächer ergeben sich aus der Anlage 12.
 
 (3) Die Fragen müssen auf den in der Anlage 13 festgelegten Prüfungsstoff abgestellt sein.
@@ -282,16 +257,6 @@ IV.
 ### § 18 — Zweiter Abschnitt der Pharmazeutischen Prüfung
 
 (1) Der Zweite Abschnitt der Pharmazeutischen Prüfung erstreckt sich auf folgende Fächer:
-
-I.
-
-II.
-
-III.
-
-IV.
-
-V.
 
 (2) Die Prüfungen in den einzelnen Fächern sollen in der Regel unmittelbar hintereinander, mit Unterbrechungen bis zu höchstens acht Tagen, abgelegt werden. Jede Prüfung soll für einen Prüfling mindestens 20, höchstens 40 Minuten dauern.
 
@@ -301,9 +266,9 @@ V.
 
 (1) Der Dritte Abschnitt der Pharmazeutischen Prüfung erstreckt sich auf folgende Fächer:
 
-I.
+I. Pharmazeutische Praxis,
 
-II.
+II. Spezielle Rechtsgebiete für Apotheker.
 
 (2) Die Prüfung soll für einen Prüfling mindestens eine halbe und höchstens eine Stunde dauern.
 
@@ -315,19 +280,19 @@ II.
 
 (1) Der Antrag auf Erteilung der Approbation als Apotheker ist an die zuständige Behörde des Landes zu richten, in dem der Antragsteller den Dritten Abschnitt der Pharmazeutischen Prüfung bestanden hat. Dem Antrag sind beizufügen
 
-1.
+1. ein kurzgefaßter Lebenslauf,
 
-2.
+2. die Geburtsurkunde, bei Verheirateten auch die Eheurkunde,
 
-3.
+3. ein Identitätsnachweis,
 
-4.
+4. ein amtliches Führungszeugnis, das nicht früher als einen Monat vor der Vorlage ausgestellt sein darf,
 
-5.
+5. eine Erklärung des Antragstellers darüber, ob gegen ihn ein gerichtliches Strafverfahren oder ein staatsanwaltschaftliches Ermittlungsverfahren anhängig ist,
 
-6.
+6. eine ärztliche Bescheinigung, die nicht älter als einen Monat sein darf, aus der hervorgeht, dass der Antragsteller nicht in gesundheitlicher Hinsicht zur Ausübung des Berufs ungeeignet ist und
 
-7.
+7. das Zeugnis über das Bestehen der Pharmazeutischen Prüfung.
 
 (2) Soweit die Nachweise nicht in deutscher Sprache ausgestellt sind, sind sie zusätzlich in beglaubigter Übersetzung vorzulegen. Die zuständige Behörde kann die Vorlage weiterer Nachweise, insbesondere über die Echtheit der eingereichten Urkunden und über die bisherige Tätigkeit, verlangen. Satz 2 gilt nicht für die in der Anlage zu § 4 Abs. 1a Satz 1 der Bundes-Apothekerordnung aufgeführten pharmazeutischen Diplome, Prüfungszeugnisse und sonstigen Befähigungsnachweise.
 
@@ -347,11 +312,11 @@ Die Approbationsurkunde wird nach dem Muster der Anlage 16 ausgestellt. Sie ist 
 
 (1) Die nach Landesrecht zuständige Stelle rechnet auf die in dieser Verordnung vorgesehene Ausbildung, soweit Gleichwertigkeit gegeben ist, ganz oder teilweise an
 
-1.
+1. Zeiten eines im Geltungsbereich dieser Verordnung betriebenen verwandten Studiums,
 
-2.
+2. Zeiten eines außerhalb des Geltungsbereichs dieser Verordnung betriebenen Studiums der Pharmazie oder eines verwandten Studiums,
 
-3.
+3. Zeiten einer außerhalb des Geltungsbereichs dieser Verordnung abgeleisteten praktischen Ausbildung auf die Ausbildung nach § 4 Absatz 1 Nummer 2.
 
 (2) Unter den Voraussetzungen des Absatzes 1 erkennt das Landesprüfungsamt Prüfungen an, die im Rahmen eines Studiums nach Absatz 1 Nr. 1 und 2 abgelegt worden sind. Dies gilt nicht für die Prüfung des Dritten Abschnitts der Pharmazeutischen Prüfung.
 
@@ -363,29 +328,23 @@ Die Approbationsurkunde wird nach dem Muster der Anlage 16 ausgestellt. Sie ist 
 
 ### § 22a — Erlaubnis nach § 11 Absatz 1 der Bundes-Apothekerordnung
 
-(1) Der Antrag auf Erteilung einer Erlaubnis zur vorübergehenden Ausübung des Apothekerberufs nach § 11 Absatz 1 der Bundes-Apothekerordnung ist an die nach § 12 Absatz 3 der Bundes-Apothekerordnung zuständige Behörde des Landes zu richten. Beantragt der Antragsteller erstmalig die Erteilung der Erlaubnis, hat er dem Antrag folgende Unterlagen beizufügen: Die Nachweise nach Satz 2 Nummer 6 und 7 dürfen bei ihrer Vorlage nicht älter als drei Monate sein. Beantragt der Antragsteller die Verlängerung der Erlaubnis, hat er dem Antrag die zuletzt erteilte Erlaubnis, falls diese von einer anderen Behörde ausgestellt wurde, sowie ein amtliches inländisches Führungszeugnis und eine im Inland ausgestellte ärztliche Bescheinigung, die bei ihrer Vorlage nicht älter als drei Monate sein dürfen, beizufügen. Haben die zuständigen Behörden berechtigte Zweifel an der Authentizität der in dem jeweiligen Herkunftsstaat ausgestellten Bescheinigungen und Ausbildungsnachweise, können sie von den zuständigen Behörden des Herkunftsstaats eine Bestätigung der Authentizität dieser Bescheinigungen und Nachweise verlangen. § 20 Absatz 2 gilt entsprechend.
+(1) Der Antrag auf Erteilung einer Erlaubnis zur vorübergehenden Ausübung des Apothekerberufs nach § 11 Absatz 1 der Bundes-Apothekerordnung ist an die nach § 12 Absatz 3 der Bundes-Apothekerordnung zuständige Behörde des Landes zu richten. Beantragt der Antragsteller erstmalig die Erteilung der Erlaubnis, hat er dem Antrag folgende Unterlagen beizufügen:
 
-1.
+1. einen Identitätsnachweis,
 
-2.
+2. eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten,
 
-3.
+3. eine amtlich beglaubigte Kopie der Bescheinigung über eine abgeschlossene Ausbildung für den Beruf des Apothekers sowie gegebenenfalls der Bescheinigung über die vom Antragsteller erworbene Berufserfahrung,
 
-4.
+4. eine Erklärung, wo und in welcher Weise der Antragsteller den Apothekerberuf im Inland ausüben will,
 
-5.
+5. soweit vorhanden, den Bescheid nach § 4 Absatz 3 Satz 2 der Bundes-Apothekerordnung und die Niederschrift über die staatliche Kenntnisprüfung nach § 22d Absatz 5,
 
-6.
+6. die folgenden Unterlagen: a)ein amtliches inländisches Führungszeugnis,b)die Unterlagen, die von den zuständigen Behörden des Herkunftsstaats ausgestellt wurden und belegen, dass der Antragsteller sich nicht eines Verhaltens schuldig gemacht hat, aus dem sich seine Unwürdigkeit oder Unzuverlässigkeit zur Ausübung des Apothekerberufs ergibt, oder,c)wenn im Herkunftsstaat die Unterlagen nach Buchstabe b nicht ausgestellt werden, eine eidesstattliche Erklärung oder in den Staaten, in denen es keine eidesstattliche Erklärung gibt, eine feierliche Erklärung, die die betreffende Person im Herkunftsstaat oder im Inland vor einer zuständigen Justiz- oder Verwaltungsbehörde oder gegebenenfalls vor einem Notar oder einer entsprechend bevollmächtigten Berufsorganisation, die eine diese eidesstattliche oder feierliche Erklärung bestätigende Bescheinigung ausstellt, abgegeben hat, ein amtliches inländisches Führungszeugnis, die Unterlagen, die von den zuständigen Behörden des Herkunftsstaats ausgestellt wurden und belegen, dass der Antragsteller sich nicht eines Verhaltens schuldig gemacht hat, aus dem sich seine Unwürdigkeit oder Unzuverlässigkeit zur Ausübung des Apothekerberufs ergibt, oder, wenn im Herkunftsstaat die Unterlagen nach Buchstabe b nicht ausgestellt werden, eine eidesstattliche Erklärung oder in den Staaten, in denen es keine eidesstattliche Erklärung gibt, eine feierliche Erklärung, die die betreffende Person im Herkunftsstaat oder im Inland vor einer zuständigen Justiz- oder Verwaltungsbehörde oder gegebenenfalls vor einem Notar oder einer entsprechend bevollmächtigten Berufsorganisation, die eine diese eidesstattliche oder feierliche Erklärung bestätigende Bescheinigung ausstellt, abgegeben hat,
 
-a)
+7. eine im Inland ausgestellte ärztliche Bescheinigung, aus der hervorgeht, dass der Antragsteller nicht in gesundheitlicher Hinsicht zur Ausübung des Berufs ungeeignet ist; soweit sich der Wohnsitz des Antragstellers nicht im Inland befindet, kann ein entsprechender Nachweis, der im Herkunftsstaat gefordert wird, anerkannt werden oder, wenn im Herkunftsstaat kein derartiger Nachweis gefordert wird, eine von einer zuständigen Behörde des Herkunftsstaats ausgestellte Bescheinigung,
 
-b)
-
-c)
-
-7.
-
-8.
+8. soweit vorhanden, Nachweise über die Kenntnisse der deutschen Sprache, die der zuständigen Behörde eine Beurteilung darüber erlauben, in welchem Umfang der Antragsteller über die zur Ausübung des Apothekerberufs erforderlichen Sprachkenntnisse verfügt.
 
 (2) Über den Antrag ist kurzfristig, spätestens drei Monate nach Vorlage der nach Absatz 1 vom Antragsteller vorzulegenden Unterlagen, zu entscheiden. Die zuständige Behörde bestätigt dem Antragsteller binnen eines Monats nach Eingang des Antrags den Antragseingang und den Empfang der Unterlagen und teilt ihm mit, welche Unterlagen fehlen. Ist zur Beurteilung der Frage, ob die vom Antragsteller nach Absatz 1 Satz 2 Nummer 3 vorgelegten Unterlagen den Abschluss der Ausbildung im Herkunftsstaat belegen, eine Auskunft von der Zentralstelle für ausländisches Bildungswesen oder von vergleichbaren Einrichtungen erforderlich, so teilt die Behörde dies dem Antragsteller ebenfalls mit. In den Fällen des Satzes 3 ist der Ablauf der Frist nach Satz 1 bis zum Vorliegen der Antwort auf die Anfrage der Behörde gehemmt. Gleiches gilt bis zum Vorliegen einer Bestätigung der Authentizität durch die Behörde des Herkunftsstaats gemäß Absatz 1 Satz 5.
 
@@ -401,17 +360,17 @@ c)
 
 ### § 22b — Erlaubnis nach § 11 Absatz 1a der Bundes-Apothekerordnung
 
-(1) Der Antrag auf Erteilung zur vorübergehenden Ausübung des Apothekerberufs nach § 11 Absatz 1a der Bundes-Apothekerordnung ist an die nach § 12 Absatz 3 der Bundes-Apothekerordnung zuständige Behörde des Landes zu richten. Beantragt der Antragsteller erstmals die Erteilung der Erlaubnis, hat er dem Antrag die folgenden Unterlagen beizufügen: Die Nachweise nach § 4 Absatz 6 Satz 1 Nummer 3 und 4 der Bundes-Apothekerordnung dürfen bei ihrer Vorlage nicht älter als drei Monate sein. Beantragt der Antragsteller die Verlängerung der Erlaubnis, hat er dem Antrag die zuletzt erteilte Erlaubnis, falls diese von einer anderen Behörde ausgestellt wurde, und die Unterlagen nach § 4 Absatz 6 Satz 1 Nummer 3 und 4 der Bundes-Apothekerordnung, die bei ihrer Vorlage nicht älter als drei Monate sein dürfen, beizufügen. Haben die zuständigen Behörden berechtigte Zweifel an der Authentizität der in dem jeweiligen Herkunftsstaat ausgestellten Bescheinigungen und Ausbildungsnachweise, können sie von den zuständigen Behörden des Herkunftsstaats eine Bestätigung der Authentizität sowie eine Bestätigung darüber verlangen, dass der Antragsteller die Mindestanforderungen der Ausbildung erfüllt, die in Artikel 44 der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22, L 271 vom 16.10.2007, S. 18), die zuletzt durch die Verordnung (EU) Nr. 623/2012 (ABl. L 180 vom 12.7.2012, S. 9) geändert worden ist, verlangt werden. § 20 Absatz 2 gilt entsprechend.
+(1) Der Antrag auf Erteilung zur vorübergehenden Ausübung des Apothekerberufs nach § 11 Absatz 1a der Bundes-Apothekerordnung ist an die nach § 12 Absatz 3 der Bundes-Apothekerordnung zuständige Behörde des Landes zu richten. Beantragt der Antragsteller erstmals die Erteilung der Erlaubnis, hat er dem Antrag die folgenden Unterlagen beizufügen:
 
-1.
+1. die Unterlagen, die in § 4 Absatz 6 Satz 1 Nummer 1, 1a, 2 und 3 bis 7 der Bundes-Apothekerordnung genannt sind, und
 
-2.
+2. eine Erklärung, wo und in welcher Weise der Antragsteller den Apothekerberuf im Inland ausüben will und inwiefern sich hieraus ein besonderes Interesse an der Erteilung der Erlaubnis ergibt.
 
 (2) Ein besonderes Interesse im Sinne von § 11 Absatz 1a der Bundes-Apothekerordnung liegt insbesondere vor, wenn der Antragsteller
 
-1.
+1. die Voraussetzungen nach § 4 Absatz 1 oder 2 der Bundes-Apothekerordnung erfüllt und § 11a der Bundes-Apothekerordnung nicht angewendet werden kann oder
 
-2.
+2. die nach Absatz 1 Satz 2 Nummer 2 angestrebte pharmazeutische Tätigkeit ausüben kann, obwohl er die Voraussetzungen nach § 4 Absatz 1 Satz 1 Nummer 3 oder Nummer 5 der Bundes-Apothekerordnung nicht erfüllt.
 
 (3) Erfüllt der Antragsteller nicht die Voraussetzung des § 4 Absatz 1 Satz 1 Nummer 4 der Bundes-Apothekerordnung und fällt der Antragsteller nicht unter § 4 Absatz 1a oder § 4 Absatz 1d der Bundes-Apothekerordnung, gilt § 22a Absatz 3 Satz 1 entsprechend.
 
@@ -449,13 +408,13 @@ c)
 
 Der Bescheid nach § 4 Absatz 2 Satz 8 und Absatz 3 Satz 2 der Bundes-Apothekerordnung enthält folgende Angaben:
 
-1.
+1. das Niveau der in Deutschland verlangten Qualifikation und das Niveau der von den Antragstellerinnen und Antragstellern vorgelegten Qualifikation gemäß der Klassifizierung in Artikel 11 der Richtlinie 2005/36/EG in der jeweils geltenden Fassung,
 
-2.
+2. die Fächer, bei denen wesentliche Unterschiede festgestellt wurden,
 
-3.
+3. eine inhaltliche Erläuterung der wesentlichen Unterschiede sowie die Begründung, warum diese dazu führen, dass der Antragsteller nicht in ausreichender Form über die in Deutschland zur Ausübung des Apothekerberufs notwendigen Kenntnisse und Fähigkeiten verfügt, und
 
-4.
+4. eine Begründung, warum die wesentlichen Unterschiede nicht durch Kenntnisse und Fähigkeiten ausgeglichen werden können, die der Antragsteller im Rahmen seiner Berufspraxis als Apotheker oder durch lebenslanges Lernen im Sinne des § 4 Absatz 2 Satz 5 der Bundes-Apothekerordnung erworben hat.
 
 ### § 23 — Übergangsvorschriften
 
@@ -482,41 +441,11 @@ Diese Verordnung tritt am 1. Oktober 1989 in Kraft.
 
 ### Schlußformel
 
-Der Bundesrat hat zugestimmt.  Der Bundesminister für Jugend, Familie, Frauen und Gesundheit
-
 ### Anlage 1 — (zu § 2 Abs. 2)
-
-Fundstelle des Originaltextes: BGBl. I 2000, 1716 - 1718
-
-Eine Verschiebung von Unterrichtsstunden zwischen einzelnen Stoffgebieten im Umfang bis zu 42 Unterrichtsstunden je Gebiet ist möglich. Der Gesamtumfang an praktischen Übungen und Seminaren einschließlich von Vorlesungen mit Übungen oder mit Seminaren darf jeweils dadurch nicht berührt werden. Die nach Landesrecht zuständige Stelle kann zusätzlich zu den für die Stoffgebiete A bis I angegebenen Bescheinigungen insgesamt bis zu vier weitere Bescheinigungen verlangen. In den praktischen Übungen sind jeweils 20 Prozent praktikumbegleitende Seminare enthalten.
-
-Stoffgebiet A Allgemeine Chemie der Arzneistoffe, Hilfsstoffe und Schadstoffe Vorlesungen, Seminare und praktische Übungen mit Veranstaltungen zu: Chemie für Pharmazeuten Stereochemie Chemische Nomenklatur Allgemeine und analytische Chemie der anorganischen Arzneistoffe, Hilfsstoffe und Schadstoffe (unter Einbeziehung von Arzneibuch-Methoden) Chemie einschließlich der Analytik der organischen Arzneistoffe, Hilfsstoffe und Schadstoffe Toxikologie der Hilfsstoffe und Schadstoffe Gesamtumfang: 462 Unterrichtsstunden mit einem Anteil von 336 Unterrichtsstunden praktischen Übungen und 56 Unterrichtsstunden Seminaren Drei Bescheinigungen über die erfolgreiche und regelmäßige Teilnahme
-
-Stoffgebiet B Pharmazeutische Analytik Vorlesungen, Seminare und praktische Übungen mit Veranstaltungen zu: Pharmazeutische/Medizinische Chemie Quantitative Bestimmung von Arznei-, Hilfs- und Schadstoffen (unter Einbeziehung von Arzneibuch-Methoden) Einführung in die instrumentelle Analytik Instrumentelle Analytik Gesamtumfang: 392 Unterrichtsstunden mit einem Anteil von 308 Unterrichtsstunden praktischen Übungen Zwei Bescheinigungen über die erfolgreiche und regelmäßige Teilnahme
-
-Stoffgebiet C Wissenschaftliche Grundlagen, Mathematik und Arzneiformenlehre Vorlesungen, Seminare und praktische Übungen mit Veranstaltungen zu: Physik für Pharmazeuten Grundlagen der Physikalischen Chemie Physikalische Übungen für Pharmazeuten Physikalisch-chemische Übungen für Pharmazeuten Mathematische und statistische Methoden für Pharmazeuten Grundlagen der Arzneiformenlehre Arzneiformenlehre Pharmazeutische und medizinische Terminologie Geschichte der Naturwissenschaften unter besonderer Berücksichtigung der Pharmazie Gesamtumfang: 280 Unterrichtsstunden mit einem Anteil von 140 Unterrichtsstunden praktischen Übungen und 14 Unterrichtsstunden Seminaren Drei Bescheinigungen über die erfolgreiche und regelmäßige Teilnahme
-
-Stoffgebiet D Grundlagen der Biologie und Humanbiologie Vorlesungen, Seminare und praktische Übungen mit Veranstaltungen zu: Allgemeine Biologie für Pharmazeuten Systematische Einteilung und Physiologie der pathogenen und arzneistoffproduzierenden Organismen Pharmazeutische Biologie I (Untersuchungen arzneistoffproduzierender Organismen) Arzneipflanzen-Exkursionen, Bestimmungsübungen Mikrobiologie Pharmazeutische Biologie II (Pflanzliche Drogen) Zytologische und histologische Grundlagen der Biologie Grundlagen der Anatomie und Physiologie Kursus der Physiologie Grundlagen der Biochemie Grundlagen der Ernährungslehre Gesamtumfang: 392 Unterrichtsstunden mit einem Anteil von 210 Unterrichtsstunden praktischen Übungen Vier Bescheinigungen über die erfolgreiche und regelmäßige Teilnahme
-
-Stoffgebiet E Biochemie und Pathobiochemie Vorlesungen, Seminare und praktische Übungen mit Veranstaltungen zu: Biochemie und Molekularbiologie Grundlagen der Klinischen Chemie und der Pathobiochemie Biochemische Untersuchungsmethoden einschließlich Klinischer Chemie Pathophysiologie/Pathobiochemie Gesamtumfang: 196 Unterrichtsstunden mit einem Anteil von 98 Unterrichtsstunden praktischen Übungen Eine Bescheinigung über die erfolgreiche und regelmäßige Teilnahme
-
-Stoffgebiet F Pharmazeutische Technologie und Biopharmazie Vorlesungen, Seminare und praktische Übungen mit Veranstaltungen zu: Pharmazeutische Technologie einschließlich Medizinprodukten Qualitätssicherung bei der Herstellung und Prüfung von Arzneimitteln Biopharmazie einschließlich arzneiformenbezogener Pharmakokinetik Gesamtumfang: 364 Unterrichtsstunden mit einem Anteil von 196 Unterrichtsstunden praktischen Übungen und 42 Unterrichtsstunden Seminaren Zwei Bescheinigungen über die erfolgreiche und regelmäßige Teilnahme
-
-Stoffgebiet G Biogene Arzneistoffe Vorlesungen, Seminare und praktische Übungen mit Veranstaltungen zu: Pharmazeutische Biologie; Arzneipflanzen, biogene Arzneistoffe, Biotechnologie Biogene Arzneimittel (Phytopharmaka, Antibiotika, gentechnisch hergestellte Arzneimittel) Pharmazeutische Biologie III (Biologische und phytochemische Untersuchungen) Immunologie, Impfstoffe und Sera Gesamtumfang: 238 Unterrichtsstunden mit einem Anteil von 84 Unterrichtsstunden praktischen Übungen und 42 Unterrichtsstunden Seminaren Eine Bescheinigung über die erfolgreiche und regelmäßige Teilnahme
-
-Stoffgebiet H Medizinische Chemie und Arzneistoffanalytik Vorlesungen, Seminare und praktische Übungen mit Veranstaltungen zu: Pharmazeutische/Medizinische Chemie Arzneimittelanalytik (Drug Monitoring, toxikologische und umweltrelevante Untersuchungen) Arzneistoffanalytik unter besonderer Berücksichtigung der Arzneibücher (Qualitätskontrolle und -sicherung bei Arzneistoffen) und der entsprechenden Normen für Medizinprodukte Gesamtumfang: 420 Unterrichtsstunden mit einem Anteil von 280 Unterrichtsstunden praktischen Übungen Zwei Bescheinigungen über die erfolgreiche und regelmäßige Teilnahme
-
-Stoffgebiet I Pharmakologie und Klinische Pharmazie Vorlesungen, Seminare und praktische Übungen mit Veranstaltungen zu: Pharmakologie und Toxikologie Klinische Pharmazie Krankheitslehre Pharmakotherapie Pharmakologisch-toxikologischer Demonstrationskurs Pharmakoepidemiologie und Pharmakoökonomie Spezielle Rechtsgebiete für Apotheker Gesamtumfang: 406 Unterrichtsstunden mit einem Anteil von 112 Unterrichtsstunden praktischen Übungen und 98 Unterrichtsstunden Seminaren Drei Bescheinigungen über die erfolgreiche und regelmäßige Teilnahme
-
-Stoffgebiet K Wahlpflichtfach Seminare und praktische Übungen in einem zu den pharmazeutischen Wissenschaften gehörenden Wahlpflichtfach Gesamtumfang: 112 Unterrichtsstunden Eine Bescheinigung über die erfolgreiche und regelmäßige Teilnahme; Seminarveranstaltungen im Block K finden in Form von Hauptseminaren statt.
 
 ### Anlage 2 — (zu § 6 Abs. 3 Nr. 5 und Abs. 4 Nr. 3)
 
-(Fundstelle des Originaltextes: BGBl. I 2000, 1719)
-
 ### Anlage 3 — (zu § 6 Abs. 4 Nr. 4)
-
-(Fundstelle des Originaltextes: BGBl. I 2000, 1719)
 
 ### Anlage 4
 
@@ -524,75 +453,27 @@ Stoffgebiet K Wahlpflichtfach Seminare und praktische Übungen in einem zu den p
 
 ### Anlage 5 — (zu § 4 Abs. 3 Satz 3, § 6 Abs. 5 Nr. 2 und Abs. 6 Satz 3)
 
-(Fundstelle des Originaltextes: BGBl. I 1989, 1500)
-
 ### Anlage 6 — (zu § 4 Absatz 4 Satz 4 und § 6 Abs. 5 Nr. 3)
-
-(Fundstelle des Originaltextes: BGBl. I 1989, 1500;
 
 ### Anlage 7 — (zu § 3 Abs. 2 Satz 4 und § 6 Abs. 3 Nr. 3)
 
-(Fundstelle des Originaltextes: BGBl. I 1989, 1501)
-
 ### Anlage 8 — (zu § 4 Abs. 4 Satz 1)
-
-Fundstelle des Originaltextes: BGBl. I 2000, 1720
-
-Grundprinzipien der Rezeptur und Defektur einschließlich der Beurteilung von Herstellungsvorschriften und -verfahren; Entwicklung, Zulassung und Herstellung von Fertigarzneimitteln; Planung, Überwachung und Disposition des Wareneinkaufs; technische Verfahren sowie Probleme der Lagerhaltung; Beeinflussung der Haltbarkeit von Arzneimitteln und Medizinprodukten, die in den Apotheken in den Verkehr gebracht werden, durch Transport und Lagerung; Beschaffung, Auswertung, Bewertung und Weitergabe von Informationen über Arzneimittel und Medizinprodukte einschließlich Sicherheitsaspekten; Information und Beratung von Patienten, Ärzten und Angehörigen anderer Gesundheitsberufe über Arzneimittel und Medizinprodukte, die in den Apotheken in den Verkehr gebracht werden, insbesondere über die sachgemäße Aufbewahrung, Anwendung, Inkompatibilitäten und Wechselwirkungen sowie die Gefahren des Dauergebrauchs und Missbrauchs von Arzneimitteln; Kommunikationstechniken für den Umgang mit Gesunden, Patienten und deren Angehörigen, Ärzten und Angehörigen anderer Gesundheitsberufe; Aspekte der Qualitätssicherung und Qualitätskontrolle; Angewandte Pharmakotherapie; Arzneimittelauswahl in der Selbstmedikation; besondere Therapierichtungen; Grenzen der Selbstmedikation; Interpretation ärztlicher, zahnärztlicher und tierärztlicher Verschreibungen sowie deren Terminologie; Pharmazeutische Betreuung; apothekenübliche Dienstleistungen; Blut und Blutprodukte; Krankenhaushygiene; Ökonomische Aspekte des Einsatzes von Arzneimitteln und Medizinprodukten; Vergleichende Beurteilung von Produkten für die Säuglings- und Kinderernährung; vergleichende Beurteilung von Ernährungsmaßnahmen einschließlich diätetischer Lebensmittel und Nahrungsergänzungsmittel; vergleichende Beurteilung von Produkten zur enteralen und parenteralen Ernährung; Vergleichende Beurteilung von Produkten und Gegenständen zur Körperpflege, von apothekenüblichen Medizinprodukten sowie von Pflanzenschutz- und Schädlingsbekämpfungsmitteln; Besonderheiten der Tierarzneimittel; Spezielle Aspekte der Gesundheitsförderung; Unfallverhütung in der Apotheke und in pharmazeutischen Betrieben einschließlich des sachgerechten Umgangs mit Gefahrstoffen, Zytostatika, Radiopharmaka und radioaktiven Diagnostika; allgemeine Maßnahmen bei Unfällen und Vergiftungen (Erste Hilfe); Betriebswirtschaft für Apotheker unter Berücksichtigung des Handelsrechts, des Steuerrechts und des kaufmännischen Rechnungswesens; Aufgaben und Tätigkeitsfelder des Apothekers; Allgemeine Rechtskunde, Berufsrecht; Rechtsvorschriften für den Apothekenbetrieb, den Verkehr mit Arzneimitteln, Betäubungsmitteln, Medizinprodukten, diätetischen Lebensmitteln, Produkten zur Körperpflege, Gefahrstoffen und Pflanzenschutzmitteln; Heilmittelwerberecht; Besonderheiten des nationalen und internationalen Arzneimittelmarktes; Aufgaben und Organisation der Gesundheitsverwaltung bei Bund, Ländern und Gemeinden sowie auf internationaler Ebene; Pharmazeutische Organisationen und Einrichtungen; Einführung in die Sozialgesetzgebung und das Sozialversicherungswesen.
 
 ### Anlage 9 — (zu § 11 Abs. 6 Satz 1)
 
-(Fundstelle des Originaltextes: BGBl. I 1989, 1503;
-
 ### Anlage 10 — (zu § 6 Abs. 4 Nr. 1, Abs. 5 Nr. 1, § 9 Abs. 4 Satz 2, § 16 Abs. 1 erster Halbsatz und § 22 Abs. 3 Satz 3)
-
-(Fundstelle des Originaltextes: BGBl. I 1989, 1504)
 
 ### Anlage 11 — (zu § 9 Abs. 4 Satz 2, § 16 Abs. 1 zweiter Halbsatz und § 22 Abs. 3 Satz 3)
 
-(Fundstelle des Originaltextes: BGBl. I 1989, 1504)
-
 ### Anlage 12 — (zu § 17 Abs. 2 Satz 3)
-
-Fundstelle des Originaltextes: BGBl. I 2000, 1721
 
 ### Anlage 13 — (zu § 17 Abs. 3)
 
-Fundstelle des Originaltextes: BGBl. I 2000, 1721
-
-I.
-
-II.
-
-III.
-
-IV.
-
 ### Anlage 14 — (zu § 18 Abs. 3)
-
-Fundstelle des Originaltextes: BGBl. I 2000, 1722 - 1723
-
-I.
-
-II.
-
-III.
-
-IV.
-
-V.
 
 ### Anlage 15 — (zu § 19 Abs. 3)
 
-Fundstelle des Originaltextes: BGBl. I 2000, 1724
-
-I.
-
-II.
-
 ### Anlage 16 — (zu § 21 Satz 1)
-
-(Fundstelle des Originaltextes: BGBl. I 1989, 1508)
 
 ### Anlage 17 — (zu § 22a Absatz 7)
 

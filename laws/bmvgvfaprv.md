@@ -65,41 +65,17 @@ Unbeschadet bestehender Informationspflichten haben die Mitglieder des Prüfungs
 
 (3) Dem Antrag auf Zulassung sind beizufügen:
 
-1.
+1. in den Fällen des § 43 Absatz 1 des Berufsbildungsgesetzes a)die Zustimmungserklärung der oder des Auszubildenden,b)die Bescheinigung über die Teilnahme an der vorgeschriebenen Zwischenprüfung, es sei denn, der Prüfling hat unverschuldet an der Zwischenprüfung nicht teilnehmen können undc)den vorgeschriebenen schriftlichen oder elektronischen Ausbildungsnachweis, die Zustimmungserklärung der oder des Auszubildenden, die Bescheinigung über die Teilnahme an der vorgeschriebenen Zwischenprüfung, es sei denn, der Prüfling hat unverschuldet an der Zwischenprüfung nicht teilnehmen können und den vorgeschriebenen schriftlichen oder elektronischen Ausbildungsnachweis,
 
-a)
+2. in den Fällen des § 43 Absatz 2 des Berufsbildungsgesetzes a)die Bescheinigung über die Teilnahme an dem schulischen oder sonstigen Bildungsgang undb)eine Bescheinigung über die Teilnahme an der fachpraktischen Ausbildung im Rahmen des schulischen oder sonstigen Bildungsgangs, die Bescheinigung über die Teilnahme an dem schulischen oder sonstigen Bildungsgang und eine Bescheinigung über die Teilnahme an der fachpraktischen Ausbildung im Rahmen des schulischen oder sonstigen Bildungsgangs,
 
-b)
+3. im Fall des § 45 Absatz 1 des Berufsbildungsgesetzes zusätzlich zu den Unterlagen nach Nummer 1 a)das letzte Zeugnis oderb)eine aktuelle Leistungsbeurteilung der zuletzt besuchten berufsbildenden Schule, das letzte Zeugnis oder eine aktuelle Leistungsbeurteilung der zuletzt besuchten berufsbildenden Schule,
 
-c)
+4. in den Fällen des § 45 Absatz 2 Satz 1 und 2 des Berufsbildungsgesetzes a)der Tätigkeitsnachweis,b)gegebenenfalls der Nachweis der Dauer der Berufsausbildung in dem oder in einem anderen einschlägigen Ausbildungsberuf undc)gegebenenfalls die glaubhafte Darlegung über den Erwerb der beruflichen Handlungsfähigkeit, der Tätigkeitsnachweis, gegebenenfalls der Nachweis der Dauer der Berufsausbildung in dem oder in einem anderen einschlägigen Ausbildungsberuf und gegebenenfalls die glaubhafte Darlegung über den Erwerb der beruflichen Handlungsfähigkeit,
 
-2.
+5. in den Fällen des § 45 Absatz 2 Satz 3 und Absatz 3 des Berufsbildungsgesetzes a)die glaubhafte Darlegung des Erwerbs der beruflichen Handlungsfähigkeit oderb)die Bescheinigung über den Erwerb der beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten, die glaubhafte Darlegung des Erwerbs der beruflichen Handlungsfähigkeit oder die Bescheinigung über den Erwerb der beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten,
 
-a)
-
-b)
-
-3.
-
-a)
-
-b)
-
-4.
-
-a)
-
-b)
-
-c)
-
-5.
-
-a)
-
-b)
-
-6.
+6. im Fall des § 65 Absatz 2 Satz 2 des Berufsbildungsgesetzes eine Bescheinigung über Art und Umfang der Behinderung.
 
 (4) Für eine Wiederholung der Abschlussprüfung genügt die form- und fristgerechte Anmeldung zur Prüfung. Auf die Anmeldung zur Wiederholung der Abschlussprüfung ist Absatz 3 nicht anzuwenden.
 
@@ -109,9 +85,9 @@ b)
 
 (2) Die Entscheidung über die Zulassung zur Abschlussprüfung nach § 46 des Berufsbildungsgesetzes ist dem Prüfling rechtzeitig, spätestens einen Monat vor dem Prüfungsbeginn, schriftlich oder in elektronischer Form mitzuteilen. In der Mitteilung über die Zulassung ist anzugeben:
 
-1.
+1. der Prüfungstag und -ort und
 
-2.
+2. die erlaubten Arbeits- und Hilfsmittel, soweit diese nicht bereitgestellt werden.
 
 (3) Die Entscheidung über die Nichtzulassung zur Abschlussprüfung ist dem Prüfling schriftlich oder in elektronischer Form mit Begründung bekannt zu geben.
 
@@ -125,13 +101,13 @@ b)
 
 (2) Die Abschlussprüfung wird schriftlich in folgenden Prüfungsbereichen durchgeführt:
 
-1.
+1. „Verwaltungsbetriebswirtschaft“ mit 135 Minuten Prüfungszeit,
 
-2.
+2. „Personalwesen“ mit 120 Minuten Prüfungszeit,
 
-3.
+3. „Verwaltungsrecht und Verwaltungsverfahren“ mit 120 Minuten Prüfungszeit und
 
-4.
+4. „Wirtschafts- und Sozialkunde“ mit 90 Minuten Prüfungszeit.
 
 (3) Nach dem schriftlichen Teil der Abschlussprüfung wird der praktische Teil im Prüfungsbereich „Fallbezogene Rechtsanwendung“ mit 45 Minuten Prüfungszeit durchgeführt. Hiervon entfallen bei jedem Prüfling 25 Minuten auf die Bearbeitung der praktischen Aufgabe und 20 Minuten auf das Prüfungsgespräch.
 
@@ -141,11 +117,11 @@ b)
 
 (1) Einem Prüfling mit Behinderung wird auf Antrag ein angemessener Nachteilsausgleich im Prüfungsverfahren gewährt, insbesondere im Hinblick auf
 
-1.
+1. die Dauer der Prüfung,
 
-2.
+2. die Zulassung von Hilfsmitteln und
 
-3.
+3. die Inanspruchnahme von Hilfeleistungen Dritter wie Gebärdensprachdolmetscherinnen oder Gebärdensprachdolmetscher für hörbehinderte Menschen.
 
 (2) Art und Umfang der Behinderung sind mit dem Antrag auf Zulassung zur Prüfung nach § 7 nachzuweisen.
 
@@ -187,21 +163,21 @@ b)
 
 (2) Die zuständige Stelle kann bestimmen, dass das Prüfungsgespräch im Prüfungsbereich „Fallbezogene Rechtsanwendung“ und mündliche Ergänzungsprüfungen unter folgenden Maßgaben als Fernprüfungen mit Übertragung von Bild und Ton (Videokonferenz) durchgeführt werden:
 
-1.
+1. den Prüflingen eines Prüfungsausschusses ist die Durchführung als Fernprüfung spätestens eine Woche vor dem jeweiligen Prüfungstermin bekanntzugeben,
 
-2.
+2. die Prüflinge befinden sich an durch die zuständige Stelle festgelegten Orten in Dienststellen unter Aufsicht,
 
-3.
+3. die Mitglieder des Prüfungsausschusses befinden sich an durch die zuständige Stelle festgelegten Orten in Dienststellen,
 
-4.
+4. an den festgelegten Orten ist die Videokonferenztechnik der Dienststellen zu nutzen und deren Funktionsfähigkeit sicherzustellen,
 
-5.
+5. den Prüflingen und den Mitgliedern des Prüfungsausschusses ist vor der Prüfung ausreichend Gelegenheit zu geben, sich mit der Videokonferenztechnik vertraut zu machen,
 
-6.
+6. während der Abnahme der Prüfungsleistung hat an den festgelegten Orten eine für die Videokonferenztechnik technisch sachkundige Person zur Verfügung zu stehen,
 
-7.
+7. bei nicht durch den Prüfling zu vertretenden technischen Störungen ist der damit verbundene Zeitverlust durch entsprechenden Zeitverlängerung auszugleichen und
 
-8.
+8. die gesetzlichen Bestimmungen zum Schutz personenbezogener Daten sind einzuhalten.
 
 (3) Die zuständige Stelle regelt im Einvernehmen mit dem Prüfungsausschuss die Aufsichtsführung während der Bearbeitung der schriftlichen Prüfungsarbeiten und der Bearbeitung der Aufgabe des Prüfungsbereichs „Fallbezogene Rechtsanwendung". Die Aufsichtsführung hat sicherzustellen, dass die Prüfungsleistungen selbständig und nur mit erlaubten Arbeits- und Hilfsmitteln durchgeführt werden.
 
@@ -215,19 +191,19 @@ b)
 
 (2) Der Prüfling ist vor der Prüfung über Folgendes zu belehren:
 
-1.
+1. den Prüfungsablauf,
 
-2.
+2. die für die Prüfung zur Verfügung stehende Zeit,
 
-3.
+3. die für die Prüfung zugelassenen Arbeits- und Hilfsmittel,
 
-4.
+4. die Folgen von Täuschungshandlungen bei der Prüfung,
 
-5.
+5. die Folgen von Ordnungsverstößen während der Prüfung,
 
-6.
+6. die Folgen eines Rücktritts von der Prüfung und
 
-7.
+7. die Folgen einer Nichtteilnahme an der Prüfung.
 
 ### § 16 — Täuschungshandlungen und Ordnungsverstöße
 
@@ -259,8 +235,6 @@ b)
 
 ### § 18 — Bewertung
 
-(1) Die Prüfungsleistungen sind wie folgt zu bewerten:
-
 (2) Die Prüfungsleistungen in den Prüfungsbereichen werden mit Leistungspunkten bewertet. Bei der Bewertung schriftlicher Prüfungsleistungen werden neben der fachlichen Leistung die Gliederung und die Klarheit der Darstellung sowie das Ausdrucksvermögen berücksichtigt; hierfür dürfen nicht mehr als 8 Prozent der erreichbaren Leistungspunktzahl je Prüfungsbereich angesetzt werden.
 
 (3) Die zuständige Stelle kann bestimmen, dass bei der Bewertung von Prüfungsleistungen die Kommunikation zwischen den Mitgliedern des Prüfungsausschusses mit Informationstechnologie unterstützt erfolgen kann. Die gesetzlichen Bestimmungen zum Schutz personenbezogener Daten sind einzuhalten.
@@ -289,27 +263,27 @@ b)
 
 (2) Das Prüfungszeugnis enthält:
 
-1.
+1. die Bezeichnung „Prüfungszeugnis nach § 37 Berufsbildungsgesetz“,
 
-2.
+2. den Namen und die Vornamen des Prüflings,
 
-3.
+3. das Geburtsdatum des Prüflings,
 
-4.
+4. die Bezeichnung des Ausbildungsberufs mit Fachrichtung,
 
-5.
+5. die Ergebnisse der Prüfungsbereiche und das Gesamtergebnis der Abschlussprüfung,
 
-6.
+6. das Datum des Bestehens der Abschlussprüfung,
 
-7.
+7. die Unterschriften des Vorsitzes des Prüfungsausschusses und einer beauftragten Person der zuständigen Stelle und
 
-8.
+8. den Dienstsiegelabdruck der zuständigen Stelle.
 
 (3) Die Prüfungszeugnisse können zusätzliche nicht amtliche Bemerkungen zur Information (Bemerkungen) enthalten, insbesondere
 
-1.
+1. über den erworbenen Abschluss oder
 
-2.
+2. auf Antrag des Prüflings über während der Ausbildung erworbene oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 (4) Als Anlage zum Prüfungszeugnis soll eine Berufsbeschreibung mit Ausbildungsprofil in deutscher, englischer und französischer Sprache ausgehändigt werden.
 

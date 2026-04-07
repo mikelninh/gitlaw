@@ -10,17 +10,11 @@
 
 (1) „Emission“ im Sinne dieser Verordnung ist die Freisetzung von Stoffen aus einer Punktquelle oder einer diffusen Quelle in die Atmosphäre.
 
-(2) „Feinstaub PM2,5“ im Sinne dieser Verordnung ist Feinstaub mit einem aerodynamischen Durchmesser von höchstens 2,5 Mikrometern.
-
 (3) „Internationaler Seeverkehr“ im Sinne dieser Verordnung sind Fahrten auf See und in Küstengewässern von Wasserfahrzeugen unter beliebiger Flagge, ausgenommen Fischereifahrzeuge, die im Hoheitsgebiet eines Landes beginnen und im Hoheitsgebiet eines anderen Landes enden.
 
 (4) „NMVOC“ im Sinne dieser Verordnung sind alle flüchtigen organischen Verbindungen außer Methan, die durch Reaktion mit Stickstoffoxiden bei Sonnenlicht photochemische Oxidantien erzeugen können.
 
-(5) „NOx“ im Sinne dieser Verordnung sind Stickstoffmonoxid und Stickstoffdioxid, ausgedrückt als Stickstoffdioxid.
-
 (6) „Ruß“ (black carbon) im Sinne dieser Verordnung sind kohlenstoffhaltige lichtabsorbierende Partikel.
-
-(7) „SO2“ im Sinne dieser Verordnung umfasst neben Schwefeldioxid alle Schwefelverbindungen, einschließlich Schwefeltrioxid (SO3), Schwefelsäure (H2SO4) und reduzierter Schwefelverbindungen wie Schwefelwasserstoff (H2S), Merkaptane und Dimethylsulfide, ausgedrückt als Schwefeldioxid.
 
 (8) „Start- und Landezyklus“ im Sinne dieser Verordnung ist der Zyklus, der sich aus Rollen, Starten, Steigflug, Anflug und Landung sowie allen anderen Manövern von Luftfahrzeugen ergibt, die unterhalb einer Höhe von 914,4 Metern stattfinden.
 
@@ -28,85 +22,59 @@
 
 (1) Die Bundesrepublik Deutschland ist verpflichtet, die jährlichen durch menschliche Tätigkeiten verursachten Emissionen von Luftschadstoffen gegenüber dem Jahr 2005 wie folgt zu reduzieren:
 
-1.
+1. ab dem Jahr 2020: a)SO2: 21 Prozent,b)NOx: 39 Prozent,c)NMVOC: 13 Prozent,d)NH3: 5 Prozent unde)Feinstaub PM2,5: 26 Prozent und SO2: 21 Prozent, NOx: 39 Prozent, NMVOC: 13 Prozent, NH3: 5 Prozent und Feinstaub PM2,5: 26 Prozent und
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+2. ab dem Jahr 2030: a)SO2: 58 Prozent,b)NOx: 65 Prozent,c)NMVOC: 28 Prozent,d)NH3: 29 Prozent unde)Feinstaub PM2,5: 43 Prozent. SO2: 58 Prozent, NOx: 65 Prozent, NMVOC: 28 Prozent, NH3: 29 Prozent und Feinstaub PM2,5: 43 Prozent.
 
 (2) Folgende Emissionen werden nicht berücksichtigt:
 
-1.
+1. Emissionen von Flugzeugen außerhalb des Start- und Landezyklus;
 
-2.
+2. Emissionen aus dem internationalen Seeverkehr;
 
-3.
+3. Emissionen von NOx und NMVOC aus Tätigkeiten, die unter die Nomenklatur für die Berichterstattung des Übereinkommens von 1979 über weiträumige grenzüberschreitende Luftverunreinigung (BGBl. 1982 II S. 373, 374) gemäß den Kategorien 3B – Düngewirtschaft – und 3D – landwirtschaftliche Böden – mit Stand 2014 fallen.
 
 ### § 3 — Indikative Emissionsmengen
 
 (1) Für das Jahr 2025 ist für die Emissionsmengen der in § 2 Absatz 1 aufgeführten Luftschadstoffe ein linearer Reduktionspfad einzuhalten. Dieser führt von den Emissionsmengen, die sich aus den Verpflichtungen zur Emissionsreduktion für das Jahr 2020 ergeben, zu den Emissionsmengen, die sich aus den Verpflichtungen zur Emissionsreduktion für das Jahr 2030 ergeben. § 2 Absatz 2 gilt entsprechend.
 
-(2) Für die in § 2 Absatz 1 aufgeführten Luftschadstoffe kann anstelle eines linearen Reduktionspfads ein nichtlinearer Reduktionspfad gewählt werden, sofern Der Reduktionspfad ist im nationalen Luftreinhalteprogramm festzulegen und im Fall eines nichtlinearen Reduktionspfads zu begründen.
+(2) Für die in § 2 Absatz 1 aufgeführten Luftschadstoffe kann anstelle eines linearen Reduktionspfads ein nichtlinearer Reduktionspfad gewählt werden, sofern
 
-1.
+1. dies wirtschaftlich oder technisch effizienter als der lineare Reduktionspfad ist und
 
-2.
+2. der Pfad sich ab dem Jahr 2025 schrittweise dem linearen Reduktionspfad annähert.
 
 ### § 4 — Nationales Luftreinhalteprogramm
 
-(1) Die Bundesregierung erstellt ein nationales Luftreinhalteprogramm. Das nationale Luftreinhalteprogramm enthält Die Maßnahmen des nationalen Luftreinhalteprogramms müssen unter Berücksichtigung von Aufwand und Nutzen verhältnismäßig sein.
+(1) Die Bundesregierung erstellt ein nationales Luftreinhalteprogramm. Das nationale Luftreinhalteprogramm enthält
 
-1.
+1. erforderliche Maßnahmen, um die Emissionsreduktion nach § 2 zu erzielen,
 
-2.
+2. zur Erfüllung der Verpflichtungen zur Emissionsreduktion für Feinstaub PM2,5 vorrangig Maßnahmen zur Reduktion von Rußemissionen,
 
-3.
+3. eine Bewertung des voraussichtlichen Umfangs der Auswirkungen nationaler Emissionsquellen auf die Luftqualität in Deutschland und in benachbarten Mitgliedstaaten,
 
-4.
+4. eine abstrakte Darstellung der Zuständigkeiten der mit Luftreinhaltung befassten Behörden auf Bundesebene, auf Landesebene und auf kommunaler Ebene,
 
-5.
+5. eine Darstellung der bereits erzielten Fortschritte bei der Emissionsreduktion und bei der Verbesserung der Luftqualität und eine Darstellung, inwieweit diesbezügliche nationale Verpflichtungen und Verpflichtungen der Europäischen Union eingehalten wurden,
 
-6.
+6. eine Darstellung der voraussichtlichen Entwicklung der Emissionsreduktion und der Verbesserung der Luftqualität und eine Darstellung, inwieweit diesbezügliche nationale Verpflichtungen und Verpflichtungen der Europäischen Union eingehalten werden auf Grundlage bereits umgesetzter Maßnahmen,
 
-7.
+7. die Strategien und Maßnahmen, die in Betracht gezogen werden a)für die Erfüllung der Emissionsreduktionsverpflichtungen,b)für die Erfüllung der indikativen Emissionsmengen für das Jahr 2025 undc)zur weiteren Verbesserung der Luftqualität, für die Erfüllung der Emissionsreduktionsverpflichtungen, für die Erfüllung der indikativen Emissionsmengen für das Jahr 2025 und zur weiteren Verbesserung der Luftqualität,
 
-a)
+8. die Analyse der Strategien und Maßnahmen nach Nummer 7 und die angewandte Analysemethode; sofern verfügbar, eine Darstellung der einzelnen oder kombinierten Auswirkungen der Strategien und Maßnahmen auf die Emissionsreduktion, die Luftqualität und die Umwelt sowie eine Darstellung der damit verbundenen Unsicherheiten,
 
-b)
+9. die zur weiteren Verbesserung der Luftqualität ausgewählten Strategien und Maßnahmen sowie den Zeitplan der Verabschiedung, Durchführung und Überprüfung dieser Strategien und Maßnahmen mit Angabe der zuständigen Behörden,
 
-c)
+10. eine Erläuterung der Gründe für den Fall, dass die indikativen Emissionsmengen für das Jahr 2025 nicht erreicht werden können, ohne dass Maßnahmen getroffen werden müssten, die unverhältnismäßige Kosten verursachen,
 
-8.
+11. eine Festlegung des nichtlinearen Emissionspfads gemäß § 3 Absatz 2 für den Fall, dass die indikativen Emissionsmengen für das Jahr 2025 nicht erreicht werden können,
 
-9.
+12. für den Fall, dass die Flexibilisierungsregelungen gemäß den §§ 10 bis 13 in Anspruch genommen werden, einen Bericht darüber und über sämtliche damit verbundenen Umweltauswirkungen,
 
-10.
+13. den nationalen politischen Rahmen für Luftqualität und Luftreinhaltung, in dessen Kontext das Programm erarbeitet wurde, einschließlich der Schwerpunkte der nationalen Luftreinhaltepolitik und deren Verbindung zu Schwerpunkten in anderen Politikfeldern, einschließlich der Klimapolitik und gegebenenfalls der Landwirtschaft, der Industrie und des Verkehrs,
 
-11.
-
-12.
-
-13.
-
-14.
+14. eine Bewertung der Kohärenz ausgewählter Strategien und Maßnahmen mit Plänen und Programmen in anderen wichtigen Politikfeldern.
 
 (2) Die Bundesregierung beschließt das nationale Luftreinhalteprogramm nach Anhörung der Länder und der beteiligten Kreise. Für die Anhörung der beteiligten Kreise gilt § 51 des Bundes-Immissionsschutzgesetzes entsprechend.
 
@@ -120,25 +88,25 @@ c)
 
 (2) Die Bundesregierung aktualisiert die im nationalen Luftreinhalteprogramm festgelegten Strategien und Maßnahmen zur Emissionsreduktion innerhalb von 18 Monaten, nachdem das nationale Emissionsinventar oder die nationale Emissionsprognose oder deren Aktualisierungen nach § 17 der Europäischen Kommission und der Europäischen Umweltagentur übermittelt wurden, wenn den übermittelten Emissionsdaten zufolge
 
-1.
+1. die in § 2 genannten Verpflichtungen nicht erfüllt werden oder
 
-2.
+2. die Gefahr besteht, dass die in § 2 genannten Verpflichtungen nicht erfüllt werden.
 
 (3) Die Aktualisierungen des nationalen Luftreinhalteprogramms umfassen mindestens
 
-1.
+1. eine Bewertung der Fortschritte, die mit der Durchführung des Programms sowie der Emissionsreduktion und der Reduktion der Schadstoffkonzentrationen erzielt wurden, sowie
 
-2.
+2. alle erheblichen Veränderungen des politischen Kontextes, der Bewertungen des nationalen Luftreinhalteprogramms oder seines Durchführungszeitplans.
 
 (4) § 4 Absatz 2 und 3 gilt entsprechend.
 
 ### § 6 — Beteiligung der Öffentlichkeit
 
-(1) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit beteiligt die Öffentlichkeit frühzeitig bei der Erstellung und Aktualisierung des nationalen Luftreinhalteprogramms. Es macht die Erstellung und Aktualisierung des nationalen Luftreinhalteprogramms in einem amtlichen Veröffentlichungsblatt sowie auf seiner Internetseite öffentlich bekannt. Der Bekanntmachung ist Folgendes beizufügen: Der Entwurf des ersten und des aktualisierten nationalen Luftreinhalteprogramms ist gleichzeitig mit der Bekanntmachung einen Monat am Dienstsitz des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit zur Einsicht auszulegen.
+(1) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit beteiligt die Öffentlichkeit frühzeitig bei der Erstellung und Aktualisierung des nationalen Luftreinhalteprogramms. Es macht die Erstellung und Aktualisierung des nationalen Luftreinhalteprogramms in einem amtlichen Veröffentlichungsblatt sowie auf seiner Internetseite öffentlich bekannt. Der Bekanntmachung ist Folgendes beizufügen:
 
-1.
+1. der Entwurf des nationalen Luftreinhalteprogramms und
 
-2.
+2. Informationen über das Recht der Beteiligung am Entscheidungsverfahren, über einzuhaltende Fristen sowie darüber, an welche Stelle Stellungnahmen oder Fragen gerichtet werden können.
 
 (2) Die Öffentlichkeit kann innerhalb eines Monats nach Ablauf der Auslegungsfrist zum Entwurf des neuen oder aktualisierten nationalen Luftreinhalteprogramms gegenüber dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit schriftlich oder elektronisch Stellung nehmen. Die Bundesregierung berücksichtigt fristgemäß eingegangene Stellungnahmen beim Beschluss des nationalen Luftreinhalteprogramms.
 
@@ -160,11 +128,11 @@ c)
 
 (2) Die nationale Emissionsprognose muss mindestens Folgendes umfassen:
 
-1.
+1. die genaue Angabe der beschlossenen oder geplanten Strategien und Maßnahmen zur Emissionsreduktion, die bei der Erstellung der Prognose berücksichtigt wurden,
 
-2.
+2. soweit angemessen, die Ergebnisse der für die nationale Emissionsprognose durchgeführten Sensitivitätsanalysen,
 
-3.
+3. eine Beschreibung der angewandten Methoden, Modelle, zugrunde liegenden Hypothesen sowie der wichtigsten Eingangs- und Ausgangsparameter.
 
 ### § 9 — Informativer Inventarbericht
 
@@ -172,33 +140,31 @@ c)
 
 (2) Der informative Inventarbericht muss mindestens folgende Angaben enthalten:
 
-1.
+1. Beschreibungen und Quellenangaben zu den spezifischen Methoden, Hypothesen, Emissionsfaktoren und Aktivitätsdaten sowie die Gründe für ihre Wahl,
 
-2.
+2. eine Beschreibung der wichtigsten nationalen Kategorien von Emissionsquellen,
 
-3.
+3. Informationen über Unsicherheiten, Qualitätssicherung und Prüfung des nationalen Emissionsinventars und der nationalen Emissionsprognose,
 
-4.
+4. eine Beschreibung der Verfahrensregelungen für die Erstellung des Inventars,
 
-5.
+5. Neuberechnungen und geplante Verbesserungen des nationalen Emissionsinventars und der nationalen Emissionsprognose,
 
-6.
+6. Angaben über die Inanspruchnahme der Flexibilisierungsregelungen gemäß den §§ 10 bis 13,
 
-7.
+7. Angaben über die Gründe für die Abweichung von dem gemäß § 3 Absatz 1 festgelegten Reduktionspfad sowie die Maßnahmen, um auf diesen Pfad zurückzukehren,
 
-8.
+8. eine knappe Zusammenfassung zu den Angaben unter den Nummern 1 bis 7.
 
 (3) Der informative Inventarbericht wird vom Umweltbundesamt wie folgt aktualisiert:
 
-1.
+1. im Hinblick auf das nationale Emissionsinventar: jährlich,
 
-2.
+2. im Hinblick auf das räumlich aufgeschlüsselte nationale Emissionsinventar und auf das Inventar großer Punktquellen: alle vier Jahre und
 
-3.
+3. im Hinblick auf die nationale Emissionsprognose: alle zwei Jahre.
 
 ### § 10 — Anpassung des nationalen Emissionsinventars im Hinblick auf die Einhaltung der Verpflichtungen zur Emissionsreduktion
-
-(1) Das Umweltbundesamt kann auf Grundlage einer Entscheidung nach § 14 Absatz 1 das nationale Emissionsinventar für SO2, NOx, NMVOC, NH3 und Feinstaub PM2,5 im Hinblick auf die Einhaltung der Verpflichtungen zur Emissionsreduktion anpassen, soweit die Anwendung verbesserter Methoden zur Ermittlung der Emission, die dem neuesten wissenschaftlichen Kenntnisstand entsprechen, dazu führt, dass die Verpflichtungen zur Emissionsreduktion nicht erfüllt werden können. Für Luftschadstoffe aus dem Sektor Landwirtschaft erfolgt dies nach Abstimmung mit dem Johann Heinrich von Thünen-Institut.
 
 (2) Um festzustellen, ob die Anforderungen für eine Anpassung des nationalen Emissionsinventars erfüllt sind, gelten die Verpflichtungen zur Emissionsreduktion für die Jahre 2020 bis 2029 als am 4. Mai 2012 festgelegt.
 
@@ -210,19 +176,13 @@ Wenn die nationalen Verpflichtungen zur Emissionsreduktion in einem bestimmten J
 
 ### § 12 — Kompensation der Verpflichtungen zur Emissionsreduktion für SO
 
-Die Verpflichtungen zur Emissionsreduktion ab dem Jahr 2030 gelten für SO2, NOx oder Feinstaub PM2,5 für einen Zeitraum von höchstens fünf Jahren als eingehalten, sofern nach Umsetzung aller kosteneffizienten Maßnahmen in dem betreffenden Zeitraum eine gleichwertige Emissionsreduktion bei einem anderen in § 2 Absatz 1 genannten Schadstoff erfolgt.
-
 ### § 13 — Einhaltung der Verpflichtungen zur Emissionsreduktion bei unvorhersehbaren Entwicklungen im Energiesektor
 
 Die Verpflichtungen zur Emissionsreduktion gelten für einen Zeitraum von höchstens drei Jahren als eingehalten, wenn
 
-1.
+1. sich die Nichteinhaltung der Verpflichtung zur Emissionsreduktion für die betreffenden Schadstoffe ergibt aus a)einer abrupten und außergewöhnlichen Unterbrechung von Kapazitäten im Stromversorgungs- oder Stromerzeugungssystem oder im Wärmeversorgungs- oder Wärmeerzeugungssystem oderb)einem abrupten und außergewöhnlichen Verlust von Kapazitäten im Stromversorgungs- oder Stromerzeugungssystem oder im Wärmeversorgungs- oder Wärmeerzeugungssystem und einer abrupten und außergewöhnlichen Unterbrechung von Kapazitäten im Stromversorgungs- oder Stromerzeugungssystem oder im Wärmeversorgungs- oder Wärmeerzeugungssystem oder einem abrupten und außergewöhnlichen Verlust von Kapazitäten im Stromversorgungs- oder Stromerzeugungssystem oder im Wärmeversorgungs- oder Wärmeerzeugungssystem und
 
-a)
-
-b)
-
-2.
+2. die Unterbrechung oder der Verlust nach vernünftiger Einschätzung nicht vorhersehbar war.
 
 ### § 14 — Inanspruchnahme der Flexibilisierungsregelungen im Hinblick auf die Einhaltung der Verpflichtungen zur Emissionsreduktion
 
@@ -230,67 +190,15 @@ b)
 
 (2) Das Umweltbundesamt teilt der Europäischen Kommission bis zum 15. Februar des betreffenden Berichtsjahres unter Nennung der Schadstoffe und Emittentensektoren mit, ob eine der in den §§ 10 bis 13 aufgeführten Flexibilisierungsregelungen in Anspruch genommen wird. Das Umweltbundesamt gibt, sofern verfügbar, den Umfang der Auswirkungen auf das nationale Emissionsinventar an.
 
-(3) Das Umweltbundesamt übermittelt der Europäischen Kommission zur Inanspruchnahme der in § 10 enthaltenen Flexibilisierungsregelung mindestens die folgenden Unterlagen: Hierbei kann auf frühere Anpassungen verwiesen werden. Im Einzelnen ist Folgendes nachzuweisen: Bei Inanspruchnahme der in § 13 aufgeführten Flexibilisierungsregelung übermittelt das Umweltbundesamt der Europäischen Kommission folgende Unterlagen:
+(3) Das Umweltbundesamt übermittelt der Europäischen Kommission zur Inanspruchnahme der in § 10 enthaltenen Flexibilisierungsregelung mindestens die folgenden Unterlagen:
 
-1.
+1. den Nachweis, dass die betreffende nationale Emissionsreduktionsverpflichtung nicht erfüllt wird,
 
-2.
+2. den Nachweis, inwieweit die Anpassung des nationalen Emissionsinventars das Ausmaß der Nichterfüllung reduziert und zur Einhaltung der jeweiligen nationalen Emissionsreduktionsverpflichtung beiträgt,
 
-3.
+3. eine Schätzung, ob und wenn ja, wann die betreffende nationale Emissionsreduktionsverpflichtung erfüllt sein wird, auf der Grundlage der nationalen Emissionsprognose ohne Anpassung,
 
-4.
-
-a)
-
-b)
-
-c)
-
-1.
-
-a)
-
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-4.
-
-1.
-
-2.
-
-3.
-
-a)
-
-b)
-
-c)
+4. den Nachweis, dass die Anpassung mit mindestens einem der folgenden Sachverhalte begründbar ist: a)mit neuen Kategorien von Emissionsquellen,b)mit der Neubestimmung von Emissionsfaktoren von Emissionen aus Quellen bestimmter Kategorien mit erheblich unterschiedlichen Emissionsfaktoren sowiec)mit einer signifikanten Änderung der Methoden zur Bestimmung von Emissionen aus Quellen bestimmter Kategorien. mit neuen Kategorien von Emissionsquellen, mit der Neubestimmung von Emissionsfaktoren von Emissionen aus Quellen bestimmter Kategorien mit erheblich unterschiedlichen Emissionsfaktoren sowie mit einer signifikanten Änderung der Methoden zur Bestimmung von Emissionen aus Quellen bestimmter Kategorien.
 
 (4) Das Umweltbundesamt nimmt eine Neuberechnung der angepassten Emissionen vor, um so weit wie möglich die Konsistenz der angepassten Emissionsdaten für jedes Jahr zu gewährleisten.
 
@@ -306,25 +214,25 @@ Das Umweltbundesamt übermittelt der Europäischen Kommission das beschlossene n
 
 ### § 17 — Übermittlung des nationalen Emissionsinventars und der nationalen Emissionsprognose sowie des informativen Inventarberichts
 
-Das Umweltbundesamt übermittelt der Europäischen Kommission und der Europäischen Umweltagentur in Übereinstimmung mit der Berichterstattung an das Sekretariat des Übereinkommens über weiträumige grenzüberschreitende Luftverunreinigung Die Übermittlung erfolgt gemäß den Berichterstattungsfristen in Anlage 1.
+Das Umweltbundesamt übermittelt der Europäischen Kommission und der Europäischen Umweltagentur in Übereinstimmung mit der Berichterstattung an das Sekretariat des Übereinkommens über weiträumige grenzüberschreitende Luftverunreinigung
 
-1.
+1. das nationale Emissionsinventar,
 
-2.
+2. die nationale Emissionsprognose,
 
-3.
+3. das räumlich aufgeschlüsselte nationale Emissionsinventar,
 
-4.
+4. das Inventar großer Punktquellen und
 
-5.
+5. den informativen Inventarbericht.
 
 ### § 18 — Übermittlung von Informationen zum Monitoring der Auswirkungen der Luftverschmutzung an die Europäische Kommission
 
 (1) Das Umweltbundesamt übermittelt der Europäischen Kommission und der Europäischen Umweltagentur
 
-1.
+1. die Monitoringstandorte gemäß § 15 Absatz 1 und die jeweiligen für die Auswirkungen der Luftverschmutzung verwendeten Indikatoren gemäß § 15 Absatz 2 sowie
 
-2.
+2. die Monitoringdaten gemäß § 15 Absatz 2.
 
 (2) Die Übermittlung der Monitoringstandorte und der jeweiligen für die Auswirkungen der Luftverschmutzung verwendeten Indikatoren nach Absatz 1 Nummer 1 erfolgt erstmals bis zum 30. Juni 2018 und danach alle vier Jahre bis zum 30. Juni des jeweiligen Jahres. Die Übermittlung der Monitoringdaten nach Absatz 1 Nummer 2 erfolgt erstmals bis zum 30. Juni 2019 und danach alle vier Jahre bis zum 30. Juni des jeweiligen Jahres.
 
@@ -336,22 +244,18 @@ Das Umweltbundesamt veröffentlicht auf seiner Internetseite das beschlossene na
 
 Das Umweltbundesamt veröffentlicht auf seiner Internetseite Folgendes:
 
-1.
+1. das nationale Emissionsinventar, gegebenenfalls einschließlich Anpassungen,
 
-2.
+2. die nationale Emissionsprognose,
 
-3.
+3. den informativen Inventarbericht sowie
 
-4.
+4. zusätzliche Berichte und Angaben, die der Europäischen Kommission gemäß den §§ 17 und 18 übermittelt werden.
 
 ### Anlage 1 — (zu § 7 Absatz 1 und 2, § 8 Absatz 1, § 9 Absatz 1 und § 17)
 
 ### Anlage 2 — (zu § 7 Absatz 3 und § 8 Absatz 1)
 
-1.
+I. Nationales Emissionsinventar1.Die Emissionen aus ermittelten Schlüsselkategorien sind nach dem Stand von Wissenschaft und Technik zu berechnen.2.Für Verkehrsemissionen berechnet und übermittelt das Umweltbundesamt die Emissionen nach Maßgabe der an das Statistische Amt der Europäischen Union übermittelten nationalen Energiebilanzen.3.Emissionen aus dem Straßenverkehr werden anhand der in Deutschland verkauften Kraftstoffe berechnet und mitgeteilt. Die Emissionen aus dem Straßenverkehr können darüber hinaus auch auf Basis der in Deutschland verbrauchten Kraftstoffe oder der zurückgelegten Kilometer mitgeteilt werden.4.Das Umweltbundesamt übermittelt die nationalen Jahresemissionen ausgedrückt in der anwendbaren Einheit, die nach dem Stand von Wissenschaft und Technik des Übereinkommens über weiträumige grenzüberschreitende Luftverunreinigung vorgegeben ist. Die Emissionen aus ermittelten Schlüsselkategorien sind nach dem Stand von Wissenschaft und Technik zu berechnen. Für Verkehrsemissionen berechnet und übermittelt das Umweltbundesamt die Emissionen nach Maßgabe der an das Statistische Amt der Europäischen Union übermittelten nationalen Energiebilanzen. Emissionen aus dem Straßenverkehr werden anhand der in Deutschland verkauften Kraftstoffe berechnet und mitgeteilt. Die Emissionen aus dem Straßenverkehr können darüber hinaus auch auf Basis der in Deutschland verbrauchten Kraftstoffe oder der zurückgelegten Kilometer mitgeteilt werden. Das Umweltbundesamt übermittelt die nationalen Jahresemissionen ausgedrückt in der anwendbaren Einheit, die nach dem Stand von Wissenschaft und Technik des Übereinkommens über weiträumige grenzüberschreitende Luftverunreinigung vorgegeben ist.
 
-2.
-
-3.
-
-4.
+II. Nationale Emissionsprognose Die nationale Emissionsprognose wird nach Quellkategorien gemäß NFR geschätzt und gemeldet. Falls dies auf Grund des Fehlens hinreichend detaillierter Daten nicht möglich ist, ist in den informativen Inventarbericht eine Begründung für die Berichterstattung auf einer stärker aggregierten Ebene aufzunehmen. Das Umweltbundesamt übermittelt für jeden Schadstoff gemäß dem Stand von Wissenschaft und Technik die Prognose für ein Szenario mit bereits beschlossenen Maßnahmen und gegebenenfalls für ein Szenario mit geplanten Maßnahmen. Die nationale Emissionsprognose stimmt mit dem nationalen jährlichen Emissionsinventar für das dritte vor dem Berichtsjahr liegende Jahr überein und ist mit den Prognosen, die gemäß der Verordnung (EU) Nr. 525/2013 des Europäischen Parlaments und des Rates vom 21. Mai 2013 über ein System für die Überwachung von Treibhausgasemissionen sowie für die Berichterstattung über diese Emissionen und über andere klimaschutzrelevante Informationen auf Ebene der Mitgliedstaaten und der Union und zur Aufhebung der Entscheidung Nr. 280/2004/EG (ABl. L 165 vom 18.6.2013, S. 13) übermittelt werden, so weit wie möglich zu harmonisieren. Die nationale Emissionsprognose ist kohärent mit dem Ergebnis des nationalen Luftreinhalteprogramms gemäß § 4.

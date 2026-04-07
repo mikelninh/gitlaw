@@ -12,7 +12,7 @@ Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den Beitritt der B
 
 ### § 1
 
-Für die Gewährung von Vorrechten und Befreiungen an die folgenden Sonderorganisationen der Vereinten Nationen: Weltorganisation für geistiges Eigentum(WIPO - Anlage XV -)Internationaler Fonds für landwirtschaftliche Entwicklung(IFAD - Anlage XVI -) gilt das Abkommen über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen mit seinen Anlagen XV und XVI, die nachstehend veröffentlicht werden.
+Für die Gewährung von Vorrechten und Befreiungen an die folgenden Sonderorganisationen der Vereinten Nationen: gilt das Abkommen über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen mit seinen Anlagen XV und XVI, die nachstehend veröffentlicht werden.
 
 ### § 2
 
@@ -20,4 +20,6 @@ Diese Verordnung gilt auch im Land Berlin gemäß § 14 des Dritten Überleitung
 
 ### § 3
 
-(1) Diese Verordnung tritt an dem Tage in Kraft, an dem die betreffenden Anlagen für die Bundesrepublik Deutschland in Kraft treten; der Tag des Inkrafttretens ist im Bundesgesetzblatt bekanntzugeben.(2) Diese Verordnung tritt an dem Tage außer Kraft, an dem die in § 1 genannten völkerrechtlichen Vereinbarungen außer Kraft treten. Im Falle des Außerkrafttretens einzelner Anlagen tritt die Verordnung insoweit außer Kraft, als sie sich auf diese Anlagen bezieht. Der Tag des Außerkrafttretens ist im Bundesgesetzblatt bekanntzugeben.
+(1) Diese Verordnung tritt an dem Tage in Kraft, an dem die betreffenden Anlagen für die Bundesrepublik Deutschland in Kraft treten; der Tag des Inkrafttretens ist im Bundesgesetzblatt bekanntzugeben.
+
+(2) Diese Verordnung tritt an dem Tage außer Kraft, an dem die in § 1 genannten völkerrechtlichen Vereinbarungen außer Kraft treten. Im Falle des Außerkrafttretens einzelner Anlagen tritt die Verordnung insoweit außer Kraft, als sie sich auf diese Anlagen bezieht. Der Tag des Außerkrafttretens ist im Bundesgesetzblatt bekanntzugeben.

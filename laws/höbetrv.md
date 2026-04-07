@@ -16,11 +16,11 @@ Auf Grund des § 7 Abs. 1 Satz 2 und 3 und des § 12 Abs. 3 Satz 1 des Schutzbau
 
 Als Höchstbeträge, bis zu denen die Herstellungskosten von Schutzräumen bei Bemessung der erhöhten Absetzungen nach § 7 oder § 12 Abs. 3 des Schutzbaugesetzes berücksichtigt werden können, werden festgesetzt:
 
-1.
+1. bei Hausschutzräumen in neuerrichteten Gebäuden (Innenbauten) die sich aus der Anlage 1 zu dieser Verordnung ergebenden Beträge;
 
-2.
+2. bei Hausschutzräumen in bestehenden Gebäuden (nachträgliche Innenbauten) die sich aus der Anlage 2 zu dieser Verordnung ergebenden Beträge;
 
-3.
+3. bei Hausschutzräumen in Form selbständiger Bauten (Außenbauten) die sich aus der Anlage 3 zu dieser Verordnung ergebenden Beträge.
 
 ### § 2
 
@@ -32,23 +32,11 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 ### Anlage 1
 
-(Fundstelle des Originaltextes: BGBl. I 1989, 1957 - 1958;
-
-1)
-
-2)
-
-1)
-
-3)
+1) Zwischenwerte sind gradlinig zu interpolieren.
 
 ### Anlage 2
 
-Fundstelle des Originaltextes: BGBl. I 1989, 1958;
-
 ### Anlage 3
-
-Fundstelle des Originaltextes: BGBl. I 1989, 1958 - 1959;
 
 ### Anlage 4
 

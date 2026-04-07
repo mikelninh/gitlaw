@@ -23,25 +23,25 @@ Auf Grund des § 11 Absatz 3 des Brennstoffemissionshandelsgesetzes vom 12. Deze
 
 Für diese Verordnung gelten neben den Begriffsbestimmungen des Brennstoffemissionshandelsgesetzes und der Emissionsberichterstattungsverordnung 2022 die folgenden Begriffsbestimmungen:
 
-1.
+1. Abrechnungsjahr: Kalenderjahr in den Jahren 2021 bis 2030, für das die Beihilfe beantragt wird;
 
-2.
+2. Unternehmen: jeder Rechtsträger, der einen nach Art und Umfang in kaufmännischer Weise eingerichteten Geschäftsbetrieb unter Beteiligung am allgemeinen wirtschaftlichen Verkehr nachhaltig mit eigener Gewinnerzielungsabsicht betreibt;
 
-3.
+3. Brennstoff-Benchmark: der in dem jeweiligen Durchführungsrechtsakt nach Artikel 10a Absatz 2 Unterabsatz 3 der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates vom 13. Oktober 2003 über ein System für den Handel mit Treibhausgasemissionszertifikaten in der Gemeinschaft und zur Änderung der Richtlinie 96/61/EG des Rates (ABl. L 275 vom 25.10.2003, S. 32), die zuletzt durch den Delegierten Beschluss (EU) 2020/1071 (ABl. L 234 vom 21.7.2020, S. 16) geändert worden ist, für das jeweilige Abrechnungsjahr festgelegte Emissionswert für Zuteilungselemente mit Brennstoff-Benchmark;
 
-4.
+4. Bruttowertschöpfung: die Bruttowertschöpfung des Unternehmens zu Faktorkosten nach der Definition des Statistischen Bundesamtes, Fachserie 4, Reihe 4.3, Wiesbaden 2009, ohne Abzug der Personalkosten für Leiharbeitsverhältnisse;
 
-5.
+5. Produkt-Benchmark: der in dem jeweiligen Durchführungsrechtsakt nach Artikel 10a Absatz 2 Unterabsatz 3 der Richtlinie 2003/87/EG für das jeweilige Abrechnungsjahr festgelegte Emissionswert für Zuteilungselemente mit Produkt-Benchmark;
 
-6.
+6. Handelsintensität: bezogen auf einen Sektor oder Teilsektor das Verhältnis zwischen dem Wert der Ausfuhren aus Deutschland zuzüglich des Wertes der Einfuhren nach Deutschland und der Gesamtgröße des Markts in Deutschland (jährlicher Umsatz des jeweiligen Sektors in Deutschland plus Wert der Einfuhren nach Deutschland);
 
-7.
+7. Sektor: Wirtschaftszweig auf Ebene der NACE-Klasse (vierstellig verschlüsselt) nach der Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 zur Aufstellung der statistischen Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der EG über bestimmte Bereiche der Statistik (ABl. L 393 vom 30.12.2006, S. 1), die zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist, in der jeweils geltenden Fassung;
 
-8.
+8. selbständiger Unternehmensteil: ein Teilbetrieb mit eigenem Standort oder ein vom übrigen Unternehmen am Standort abgegrenzter Betrieb mit den wesentlichen Funktionen eines Unternehmens, der jederzeit als rechtlich selbständiges Unternehmen seine Geschäfte führen könnte, seine Erlöse wesentlich mit externen Dritten erzielt und über eine eigene Brennstoffversorgung verfügt;
 
-9.
+9. Teilsektor: Wirtschaftszweig als Unterklasse der Sektoren auf 6-stelliger oder 8-stelliger Ebene entsprechend der für die Statistik der Industrieproduktion in der Europäischen Union verwendeten Warensystematik;
 
-10.
+10. Wärme-Benchmark: der in dem jeweiligen Durchführungsrechtsakt nach Artikel 10a Absatz 2 Unterabsatz 3 der Richtlinie 2003/87/EG für das jeweilige Abrechnungsjahr festgelegte Emissionswert für Zuteilungselemente mit Wärme-Benchmark.
 
 ### § 3 — Zuständige Behörde
 
@@ -53,19 +53,15 @@ Zuständige Behörde für die Durchführung dieser Verordnung ist das Umweltbund
 
 (2) Voraussetzung für die Gewährung der Beihilfe ist, dass das antragstellende Unternehmen
 
-1.
+1. nach den Vorgaben des § 5 einem beihilfeberechtigten Sektor zuzuordnen ist und
 
-2.
+2. die nach Abschnitt 4 dieser Verordnung vorgesehenen Gegenleistungen erbracht hat.
 
 (3) Die Gewährung einer Beihilfe nach dieser Verordnung ist ausgeschlossen für
 
-1.
+1. Unternehmen in Schwierigkeiten gemäß den Leitlinien der Europäischen Kommission für staatliche Beihilfen zur Rettung und Umstrukturierung nichtfinanzieller Unternehmen in Schwierigkeiten (ABl. C 249 vom 31.7.2014, S. 1), insbesondere: a)Unternehmen, über deren Vermögen ein Insolvenzverfahren beantragt oder eröffnet worden ist, oder die nach § 15a der Insolvenzordnung vom 5. Oktober 1994 (BGBl. I S. 2866), die zuletzt durch Artikel 6 des Gesetzes vom 22. Dezember 2020 (BGBl. I S. 3328) geändert worden ist, verpflichtet sind, einen Eröffnungsantrag zu stellen, sowieb)Unternehmen, die in das Schuldnerverzeichnis nach § 882b der Zivilprozessordnung eingetragen sind, und Unternehmen, über deren Vermögen ein Insolvenzverfahren beantragt oder eröffnet worden ist, oder die nach § 15a der Insolvenzordnung vom 5. Oktober 1994 (BGBl. I S. 2866), die zuletzt durch Artikel 6 des Gesetzes vom 22. Dezember 2020 (BGBl. I S. 3328) geändert worden ist, verpflichtet sind, einen Eröffnungsantrag zu stellen, sowie Unternehmen, die in das Schuldnerverzeichnis nach § 882b der Zivilprozessordnung eingetragen sind, und
 
-a)
-
-b)
-
-2.
+2. Unternehmen, die einer Rückforderungsanordnung aufgrund einer früheren Kommissionsentscheidung zur Feststellung der Rechtswidrigkeit oder Unvereinbarkeit einer Beihilfe mit dem Gemeinsamen Markt gemäß Kapitel III der Verordnung (EU) 2015/1589 des Rates vom 13. Juli 2015 über besondere Vorschriften für die Anwendung von Artikel 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 248 vom 24.9.2015, S. 9) nicht Folge geleistet haben.
 
 (4) Die Gewährung der Beihilfe steht unter dem Vorbehalt der Verfügbarkeit der erforderlichen Haushaltsmittel. Sofern die Summe der Gesamtbeihilfebeträge der beihilfefähigen Unternehmen die für die Gewährung der Beihilfe festgelegten Haushaltsmittel übersteigt, werden die Gesamtbeihilfebeträge im Verhältnis der festgelegten Haushaltsmittel zur Gesamtbeihilfesumme anteilig gekürzt.
 
@@ -75,9 +71,9 @@ b)
 
 (1) Ein Unternehmen ist beihilfefähig, wenn es einem beihilfeberechtigten Sektor oder Teilsektor zuzuordnen ist. Beihilfeberechtigt sind Sektoren und Teilsektoren, die
 
-1.
+1. in den Tabellen 1 und 2 der Anlage zu dieser Verordnung genannt sind oder
 
-2.
+2. im Verfahren nach Abschnitt 6 nachträglich anerkannt wurden.
 
 (2) Für die Zuordnung eines Unternehmens zu einem Sektor oder Teilsektor gemäß Absatz 1 ist jeweils der letzte Tag eines Abrechnungsjahres maßgeblich. Unternehmen, die nur für einzelne Unternehmensteile einem Teilsektor nach Tabelle 2 der Anlage zu dieser Verordnung zuzuordnen sind, sind ausschließlich für diese Unternehmensteile antragsberechtigt. Die Zuordnung eines Unternehmens zu einem Sektor oder Teilsektor gemäß Absatz 1 Satz 2 Nummer 2 ist erstmalig für das Abrechnungsjahr möglich, in dem die nachträgliche Einbeziehung des Sektors oder Teilsektors wirksam wird.
 
@@ -97,9 +93,9 @@ b)
 
 (3) Der Schwellenwert für die Emissionsintensität des Unternehmens beträgt für Unternehmen, die einem Sektor oder Teilsektor zuzuordnen sind, für den in Spalte 4 der Tabellen 1 oder 2 der Anlage zu dieser Verordnung ein Kompensationsgrad
 
-1.
+1. von 65 Prozent bis 90 Prozent festgelegt ist, 10 Prozent der in Spalte 3 der Tabellen 1 oder 2 der Anlage zu dieser Verordnung angegebenen Emissionsintensität des Sektors oder Teilsektors,
 
-2.
+2. von 95 Prozent festgelegt ist, 10 Prozent einer Emissionsintensität von 1,8 Kilogramm Kohlendioxid je Euro Bruttowertschöpfung des Unternehmens.
 
 ## Abschnitt 3: Berechnung der Beihilfehöhe
 
@@ -107,11 +103,11 @@ b)
 
 (1) Der zu bestimmende Gesamtbeihilfebetrag ergibt sich aus dem Produkt der maßgeblichen Emissionsmenge nach § 9, dem für das Unternehmen anzuwendenden Kompensationsgrad nach Absatz 2 und dem für das Abrechnungsjahr maßgeblichen Preis der Emissionszertifikate in Euro pro Tonne nach Absatz 3.
 
-(2) Der anzuwendende Kompensationsgrad entspricht für beihilfeberechtigte Unternehmen, die Die Anwendung des nach Satz 1 zu bestimmenden Kompensationsgrads steht ab dem Abrechnungsjahr 2023 unter der Voraussetzung, dass das beihilfeberechtigte Unternehmen ein Überschreiten des Schwellenwertes für die Emissionsintensität nach § 7 Absatz 3 nachweist. Für Unternehmen, die den Nachweis nach Satz 2 nicht erbringen, beträgt der Kompensationsgrad ab dem Abrechnungsjahr 2023 60 Prozent.
+(2) Der anzuwendende Kompensationsgrad entspricht für beihilfeberechtigte Unternehmen, die
 
-1.
+1. einem beihilfeberechtigten Sektor oder Teilsektor gemäß § 5 Absatz 1 Satz 2 Nummer 1 zuzuordnen sind, dem in Spalte 4 der Tabelle 1 der Anlage zu dieser Verordnung angegebenen Wert für diesen Sektor oder dem in Spalte 4 der Tabelle 2 der Anlage zu dieser Verordnung angegebenen Wert für diesen Teilsektor,
 
-2.
+2. einem nachträglich anerkannten beihilfeberechtigten Sektor oder Teilsektor gemäß § 5 Absatz 1 Satz 2 Nummer 2 zuzuordnen sind, dem gemäß § 18 Absatz 2 im Bundesanzeiger bekannt gemachten Kompensationsgrad für diesen Sektor.
 
 (3) Für die Abrechnungsjahre 2021 bis 2025 entspricht der maßgebliche Preis der Emissionszertifikate dem für das jeweilige Jahr nach § 10 Absatz 2 Satz 2 des Brennstoffemissionshandelsgesetzes festgelegten Festpreis. Für die Abrechnungsjahre ab dem Jahr 2026 entspricht der maßgebliche Preis der Emissionszertifikate dem volumengewichteten Durchschnitt der Versteigerungspreise der Versteigerungen nach § 10 Absatz 1 Satz 2 und 3 des Brennstoffemissionshandelsgesetzes.
 
@@ -119,21 +115,21 @@ b)
 
 (1) Die maßgebliche Emissionsmenge des Unternehmens berechnet sich aus der beihilfefähigen Brennstoffmenge nach Absatz 2 multipliziert mit dem Brennstoff-Benchmark und dem unteren Heizwert des jeweiligen Brennstoffs, gegebenenfalls zuzüglich der beihilfefähigen Wärmemenge nach Absatz 3 multipliziert mit dem Wärme-Benchmark, sowie abzüglich eines Selbstbehalts in Höhe von 150 Tonnen Kohlendioxid. Soweit in der Verordnung nach § 7 Absatz 4 Nummer 2 des Brennstoffemissionshandelsgesetzes Standardwerte für den Heizwert und den Umrechnungsfaktor eines Brennstoffs festgelegt sind, gelten diese auch bei der Bestimmung der maßgeblichen Emissionsmenge nach Satz 1.
 
-(2) Bei der Ermittlung der beihilfefähigen Brennstoffmenge sind sämtliche Brennstoffmengen zu berücksichtigen, die nach § 2 Absatz 2 des Brennstoffemissionshandelsgesetzes in Verkehr gebracht und im Unternehmen im jeweiligen Abrechnungsjahr zur Herstellung von Produkten eingesetzt wurden. Nicht zu berücksichtigen sind Brennstoffmengen oder Teilmengen eines Abrechnungsjahres, die Für die Abrechnungsjahre 2021 und 2022 sind bei der Ermittlung der beihilfefähigen Brennstoffmenge ausschließlich die in Anlage 2 des Brennstoffemissionshandelsgesetzes genannten Brennstoffe berücksichtigungsfähig. Satz 2 Nummer 5 gilt ab dem Abrechnungsjahr 2023 nur, soweit in der Verordnung nach § 7 Absatz 4 des Brennstoffemissionshandelsgesetzes eine Möglichkeit vorgesehen ist, die nach § 25 des Energiesteuergesetzes steuerfrei verwendeten Erdgasmengen bei der Ermittlung der berichtspflichtigen Brennstoffemissionen abzuziehen.
+(2) Bei der Ermittlung der beihilfefähigen Brennstoffmenge sind sämtliche Brennstoffmengen zu berücksichtigen, die nach § 2 Absatz 2 des Brennstoffemissionshandelsgesetzes in Verkehr gebracht und im Unternehmen im jeweiligen Abrechnungsjahr zur Herstellung von Produkten eingesetzt wurden. Nicht zu berücksichtigen sind Brennstoffmengen oder Teilmengen eines Abrechnungsjahres, die
 
-1.
+1. in einer dem EU-Emissionshandel unterliegenden Anlage des Unternehmens eingesetzt wurden,
 
-2.
+2. zur Stromerzeugung eingesetzt wurden,
 
-3.
+3. zur Wärmeerzeugung für Dritte eingesetzt wurden,
 
-4.
+4. biogenen Ursprungs sind,
 
-5.
+5. im Falle von Erdgas nach § 25 des Energiesteuergesetzes steuerfrei verwendet wurden,
 
-6.
+6. zur Herstellung von Produkten oder zur Erbringung von Leistungen verwendet wurden, die keinem nach § 5 beihilfeberechtigten Sektor zuzuordnen sind, oder
 
-7.
+7. das Unternehmen vor dem 1. Januar 2021 bezogen hat.
 
 (3) Bei der Ermittlung der beihilfefähigen Wärmemenge sind sämtliche importierte Wärmemengen zu berücksichtigen, die im jeweiligen Abrechnungsjahr von nicht dem EU-Emissionshandel unterliegenden Anlagen unter Nutzung von nach § 2 Absatz 2 des Brennstoffemissionshandelsgesetzes in Verkehr gebrachten Brennstoffen erzeugt und in dem die Wärme importierenden Unternehmen zur Herstellung von Produkten eingesetzt wurden. Das Unternehmen hat die beihilfefähige Wärmemenge im Falle der Direktlieferung durch eine Bestätigung des Betreibers der wärmeerzeugenden Anlage und bei Nutzung von importierter Wärme aus Wärmeverteilnetzen durch eine Bestätigung des Netzbetreibers nachzuweisen.
 
@@ -143,15 +139,15 @@ b)
 
 (6) Abweichend von Absatz 1 Satz 1 gilt bei Unternehmen, die im Abrechnungsjahr einen Gesamtenergieverbrauch fossiler Brennstoffe von weniger als 10 Gigawattstunden hatten, ein reduzierter Selbstbehalt. Dieser reduzierte Selbstbehalt nach Satz 1 beträgt bei Unternehmen mit einem Gesamtenergieverbrauch
 
-1.
+1. von mehr als 9,8 Gigawattstunden: 130 Tonnen Kohlendioxid,
 
-2.
+2. von mehr als 9,6 Gigawattstunden: 110 Tonnen Kohlendioxid,
 
-3.
+3. von mehr als 9,4 Gigawattstunden: 90 Tonnen Kohlendioxid,
 
-4.
+4. von mehr als 9,2 Gigawattstunden: 70 Tonnen Kohlendioxid,
 
-5.
+5. bis einschließlich 9,2 Gigawattstunden: 50 Tonnen Kohlendioxid.
 
 ## Abschnitt 4: Gegenleistungen der Unternehmen
 
@@ -161,25 +157,25 @@ b)
 
 (2) An Stelle des Umwelt- oder Energiemanagementsystems nach Absatz 1 können Unternehmen, die in den drei Kalenderjahren vor dem Abrechnungsjahr einen durchschnittlichen Gesamtenergieverbrauch fossiler Brennstoffe von weniger als 10 Gigawattstunden hatten, spätestens ab dem 1. Januar 2023
 
-1.
+1. ein nicht zertifiziertes Energiemanagementsystem auf Basis der DIN EN ISO 50005:2021 mindestens entsprechend Umsetzungsstufe 3 betreiben oder
 
-2.
+2. Mitglied in einem bei der Initiative Energieeffizienz- und Klimaschutznetzwerke angemeldeten Energieeffizienz- und Klimaschutznetzwerk sein.
 
 ### § 11 — Klimaschutzmaßnahmen
 
 (1) Ein Unternehmen erhält die Beihilfe nach dieser Verordnung, wenn es neben den weiteren Voraussetzungen dieser Verordnung ab dem Abrechnungsjahr 2023 Investitionen getätigt hat für Maßnahmen zur Verbesserung der Energieeffizienz, die im Rahmen des jeweiligen Energiemanagementsystems nach § 10 konkret identifiziert und als wirtschaftlich durchführbar bewertet wurden. Soweit in einem Unternehmen keine weiteren Maßnahmen nach Satz 1 identifiziert wurden, erhält das Unternehmen die Beihilfe nach dieser Verordnung, ohne im Abrechnungsjahr Investitionen getätigt zu haben.
 
-(2) Die wirtschaftliche Durchführbarkeit einer Maßnahme ist gegeben, wenn die Maßnahme bei der Wirtschaftlichkeitsbetrachtung im Rahmen des Energiemanagementsystems nach § 10 einen positiven Kapitalwert aufweist, der unter Zugrundelegung der DIN EN 17463, Ausgabe Februar 2020, ermittelt worden ist, und zwar Sofern ein Unternehmen vor dem 28. Juli 2021 ein Energiemanagementsystem nach § 10 eingeführt hat, bei dem die wirtschaftliche Durchführbarkeit einer Maßnahme auf Basis der Amortisationszeitmethode bewertet wurde, ist die wirtschaftliche Durchführbarkeit einer Maßnahme in den Jahren 2023 bis 2025 abweichend von Satz 1 gegeben, wenn eine Amortisationsdauer ausgewiesen ist, die kürzer ist als die anteilige Nutzungsdauer der Maßnahme bei Anwendung der in Satz 1 Nummer 1 und 2 angegebenen Prozentsätze.
+(2) Die wirtschaftliche Durchführbarkeit einer Maßnahme ist gegeben, wenn die Maßnahme bei der Wirtschaftlichkeitsbetrachtung im Rahmen des Energiemanagementsystems nach § 10 einen positiven Kapitalwert aufweist, der unter Zugrundelegung der DIN EN 17463, Ausgabe Februar 2020, ermittelt worden ist, und zwar
 
-1.
+1. für die Abrechnungsjahre 2023 bis 2025 nach maximal 60 Prozent der vorgesehenen Nutzungsdauer, jedoch begrenzt auf einen Bewertungszeitraum von höchstens neun Jahren, und
 
-2.
+2. ab dem Abrechnungsjahr 2026 nach maximal 90 Prozent der vorgesehenen Nutzungsdauer.
 
-(3) Die von dem Unternehmen für Maßnahmen nach Absatz 1 aufgewendete Investitionssumme abzüglich der Fördermittel Dritter muss des dem Unternehmen nach dieser Verordnung gewährten Beihilfebetrags für das dem Abrechnungsjahr vorangegangene Jahr entsprechen. Sofern das Gesamtinvestitionsvolumen für wirtschaftlich durchführbare Maßnahmen nach Absatz 1 Satz 1 geringer ist als die Mindestschwelle nach Satz 1, beschränkt sich der Investitionsnachweis auf diese Maßnahmen. Soweit die Investitionssumme den Beihilfebetrag für das dem Abrechnungsjahr vorangegangene Jahr übersteigt, kann der überschießende Teil der Investitionssumme in den nachfolgenden vier Jahren auf den erforderlichen Investitionsnachweis angerechnet werden.
+(3) Die von dem Unternehmen für Maßnahmen nach Absatz 1 aufgewendete Investitionssumme abzüglich der Fördermittel Dritter muss
 
-1.
+1. für die Abrechnungsjahre 2023 und 2024 mindestens 50 Prozent und
 
-2.
+2. ab dem Abrechnungsjahr 2025 mindestens 80 Prozent
 
 (4) Alternativ zur Durchführung von Maßnahmen zur Verbesserung der Energieeffizienz ist die Voraussetzung nach Absatz 1 Satz 1 auch erfüllt, wenn das antragstellende Unternehmen Investitionen für Maßnahmen zur Dekarbonisierung des Produktionsprozesses getätigt hat, soweit solche Maßnahmen die Treibhausgasemissionen der von diesem Unternehmen hergestellten Produkte auf einen Wert verringern, der unterhalb des für diese Produkte jeweils festgelegten Produkt-Benchmarkwertes liegt. Absatz 3 gilt entsprechend.
 
@@ -189,21 +185,17 @@ b)
 
 (1) Die Erfüllung der Voraussetzungen nach § 10 ist gegenüber der zuständigen Behörde wie folgt nachzuweisen:
 
-1.
+1. für die Voraussetzungen nach § 10 Absatz 1 durch die Angabe, dass das Unternehmen zum Ende des Abrechnungsjahres über ein gültiges DIN EN ISO 50001-Zertifikat oder über einen gültigen Eintragungs-oder Verlängerungsbescheid der für die Registrierung nach EMAS zuständigen Stelle über die Eintragung in das Register gemäß EMAS verfügt;
 
-2.
+2. für die Voraussetzungen nach § 10 Absatz 2 Nummer 1 durch die Angabe, dass das Unternehmen zum Ende des Abrechnungsjahres ein entsprechendes, nicht zertifiziertes Energiemanagementsystem mindestens entsprechend Umsetzungsstufe 3 betreibt; abweichend hiervon ist für die Voraussetzungen nach § 10 Absatz 2 Nummer 1 für die Abrechnungsjahre 2021 und 2022 eine Erklärung des antragstellenden Unternehmens, dass ein entsprechendes, nicht zertifiziertes Energiemanagementsystem aufgebaut wird, ausreichend;
 
-3.
+3. für die Voraussetzungen nach § 10 Absatz 2 Nummer 2 durch eine Bestätigung der Initiative Energieeffizienz- und Klimaschutznetzwerke über die Mitgliedschaft in einem angemeldeten Energieeffizienz- und Klimaschutznetzwerk.
 
 (2) Die Erfüllung der Voraussetzungen nach § 11 ist gegenüber der zuständigen Behörde wie folgt nachzuweisen:
 
-1.
+1. für die Durchführung von Energieeffizienzverbesserungsmaßnahmen nach § 11 Absatz 1 Satz 1 durch eine Erklärung des Unternehmens, a)dass Investitionen in dem erforderlichen Umfang getätigt wurden, verbunden mit einer Aufstellung der durchgeführten Maßnahmen einschließlich des jeweiligen Investitionsvolumens und des Kapitalwertes gemäß DIN EN 17463;b)soweit im Rahmen des Energiemanagementsystems keine weiteren als wirtschaftlich durchführbar bewerteten Maßnahmen identifiziert wurden, dass keine weiteren als wirtschaftlich durchführbar bewerteten Maßnahmen identifiziert werden konnten; dass Investitionen in dem erforderlichen Umfang getätigt wurden, verbunden mit einer Aufstellung der durchgeführten Maßnahmen einschließlich des jeweiligen Investitionsvolumens und des Kapitalwertes gemäß DIN EN 17463; soweit im Rahmen des Energiemanagementsystems keine weiteren als wirtschaftlich durchführbar bewerteten Maßnahmen identifiziert wurden, dass keine weiteren als wirtschaftlich durchführbar bewerteten Maßnahmen identifiziert werden konnten;
 
-a)
-
-b)
-
-2.
+2. für die Durchführung von Dekarbonisierungsmaßnahmen nach § 11 Absatz 4 durch eine Erklärung des Unternehmens, dass Investitionen oder Auftragsvergaben in dem erforderlichen Umfang getätigt wurden, verbunden mit einer Aufstellung der durchgeführten Maßnahmen einschließlich des jeweiligen Investitionsvolumens.
 
 (3) Die in den Absätzen 1 und 2 genannten Angaben und Erklärungen des Unternehmens bedürfen der Bestätigung einer prüfungsbefugten Stelle. Eine Erklärung nach Absatz 1 Nummer 2 bedarf erst ab dem Abrechnungsjahr 2023 der Bestätigung einer prüfungsbefugten Stelle. Prüfungsbefugt sind alle Stellen, die Zertifizierungen von Umwelt- oder Energiemanagementsystemen nach § 10 Absatz 1 vornehmen dürfen. Für Unternehmen, die kein Umwelt- oder Energiemanagementsystem nach § 10 Absatz 1 betreiben müssen, gilt die Pflicht zur Bestätigung durch eine prüfungsbefugte Stelle nur für den Fall der Erklärung des Unternehmens, dass im Rahmen des Energiemanagementsystems keine weiteren wirtschaftlich durchführbaren Maßnahmen identifiziert wurden.
 
@@ -229,13 +221,13 @@ Die subventionserheblichen Tatsachen im Sinne des § 264 des Strafgesetzbuches i
 
 (2) Das antragstellende Unternehmen muss in dem Beihilfeantrag sein Einverständnis erklären, dass
 
-1.
+1. die zuständige Behörde die im Bewilligungsverfahren erhaltenen Angaben und Daten im Rahmen der Berichterstattungspflichten gegenüber der Europäischen Kommission mitteilt,
 
-2.
+2. das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit dem Haushaltsausschuss des Deutschen Bundestages und danach auf Verlangen auch anderen Ausschüssen des Deutschen Bundestages im Einzelfall den Namen des antragstellenden Unternehmens sowie Höhe und Zweck der Beihilfe mitteilt, sofern der Haushaltsausschuss dies beantragt,
 
-3.
+3. das statistische Amt des jeweiligen Landes zur Prüfung der Sektorzuordnung nach § 5 die Klassifizierung des antragstellenden Unternehmens und seiner Betriebsstätten an die zuständige Behörde übermittelt und
 
-4.
+4. die zuständige Behörde die im Antrag angegebenen Daten und die gewährten Beihilfen zur Feststellung der Steuerpflicht und Steuererhebung den zuständigen Finanzbehörden übermitteln kann.
 
 ### § 16 — Bundeshaushaltsordnung
 
@@ -251,19 +243,19 @@ Das antragstellende Unternehmen ist verpflichtet, die Richtlinie der Bundesregie
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit trifft die Entscheidung über die nachträgliche Anerkennung weiterer Sektoren oder Teilsektoren als beihilfeberechtigt nach Maßgabe der nachfolgenden Vorschriften im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie, dem Bundesministerium der Finanzen und
 
-1.
+1. dem Bundesministerium für Verkehr und digitale Infrastruktur, soweit über die nachträgliche Anerkennung eines Sektors oder Teilsektors entschieden wird, der der Gruppe 49.4 nach Anhang I der Verordnung (EG) Nr. 1893/2006 zuzuordnen ist, oder
 
-2.
+2. dem Bundesministerium für Ernährung und Landwirtschaft, soweit über die nachträgliche Anerkennung eines Sektors oder Teilsektors entschieden wird, der den Gruppen 01.1 bis 01.3 nach Anhang I der Verordnung (EG) Nr. 1893/2006 zuzuordnen ist.
 
 (2) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit macht die nachträgliche Anerkennung eines Sektors oder Teilsektors als beihilfeberechtigt, den diesem Sektor oder Teilsektor entsprechend der in § 23 Absatz 2 vorgesehenen Abstufungen zuzuordnenden Kompensationsgrad sowie den Beginn der Einbeziehung in das Beihilfesystem nach dieser Verordnung im Bundesanzeiger bekannt.
 
 ### § 19 — Antragsberechtigung
 
-(1) Die nachträgliche Anerkennung eines Sektors oder Teilsektors als beihilfeberechtigt nach diesem Abschnitt erfolgt auf Antrag. Antragsberechtigt sind Die Sätze 1 und 2 gelten entsprechend für eine gemeinsame Antragstellung mehrerer Zusammenschlüsse oder Interessenverbände.
+(1) Die nachträgliche Anerkennung eines Sektors oder Teilsektors als beihilfeberechtigt nach diesem Abschnitt erfolgt auf Antrag. Antragsberechtigt sind
 
-1.
+1. Zusammenschlüsse von Unternehmen, die dem jeweiligen Sektor oder Teilsektor zuzuordnen sind, und die im dritten Jahr vor der Antragstellung mindestens 50 Prozent des in Deutschland erzielten Umsatzes dieses Sektors oder Teilsektors erwirtschaftet haben, oder
 
-2.
+2. ein für den jeweiligen Sektor oder Teilsektor tätiger Interessenverband, dem Unternehmen angehören, die im dritten Jahr vor der Antragstellung mindestens 50 Prozent des in Deutschland erzielten Umsatzes dieses Sektors oder Teilsektors erwirtschaftet haben.
 
 (2) Sofern in einem Sektor oder Teilsektor kein Interessenverband existiert, der die Voraussetzungen nach Absatz 1 Satz 2 Nummer 2 erfüllt, ist derjenige Interessenverband antragsberechtigt, der die im dritten Jahr vor der Antragstellung höchsten Umsatzanteile von Unternehmen dieses Sektors oder Teilsektors in Deutschland repräsentiert.
 
@@ -281,11 +273,11 @@ Das antragstellende Unternehmen ist verpflichtet, die Richtlinie der Bundesregie
 
 (1) Die Entscheidung nach § 18 Absatz 1 über die nachträgliche Anerkennung von Sektoren und Teilsektoren, deren nationaler Carbon-Leakage-Indikator den Wert von 0,10 übersteigt oder deren Emissionsintensität den Wert von 1,0 Kilogramm Kohlendioxid pro Euro Bruttowertschöpfung übersteigt, als beihilfeberechtigte Sektoren oder Teilsektoren wird auf Basis einer qualitativen Bewertung anhand der folgenden Kriterien getroffen:
 
-1.
+1. Umfang, in dem einzelne Unternehmen in dem betreffenden Sektor oder Teilsektor in der Lage sind, ihre Emissionsmengen zu reduzieren;
 
-2.
+2. aktuelle und voraussichtliche Marktbedingungen, einschließlich gemeinsamer Referenzpreise;
 
-3.
+3. Gewinnspannen als potenzielle Indikatoren für langfristige Investitionen oder Beschlüsse über Standortverlagerungen unter Berücksichtigung der Änderungen der Produktionskosten im Zusammenhang mit Emissionsreduktionen.
 
 (2) Bei der Bewertung qualitativer Kriterien kann auch die in anderen Beihilferegelungen zur Kompensation erhöhter Energiekosten von Unternehmen vorgenommene Einstufung der Sektoren oder Teilsektoren hinsichtlich eines bestehenden Verlagerungsrisikos berücksichtigt werden, auch hinsichtlich besonders energieintensiver technologischer Prozesse.
 
@@ -313,11 +305,11 @@ Das antragstellende Unternehmen ist verpflichtet, die Richtlinie der Bundesregie
 
 (1) Die zuständige Behörde erhebt, speichert und verwendet folgende personenbezogene Daten, soweit diese zur Durchführung des Beihilfeverfahrens, zur Prüfung der Beihilfeberechtigung oder zur Durchführung von Maßnahmen nach Abschluss des Beihilfeverfahrens erforderlich sind:
 
-1.
+1. Namen und Vornamen der für das antragstellende Unternehmen handelnden natürlichen Personen;
 
-2.
+2. Adressdaten der für das antragstellende Unternehmen handelnden natürlichen Personen;
 
-3.
+3. weitere Kontaktinformationen wie Telefonnummer und E-Mail-Adresse der für das antragstellende Unternehmen handelnden natürlichen Personen.
 
 (2) Die nach Absatz 1 gespeicherten Daten sind von der zuständigen Behörde, sobald sie für die Erfüllung der Aufgaben nach Absatz 1 nicht mehr erforderlich sind, unverzüglich, spätestens automatisiert nach Ablauf von fünf Jahren ab dem Tag ihrer Speicherung zu löschen. Wird der zuständigen Behörde innerhalb dieser Frist die Einleitung von Ermittlungen der Staatsanwaltschaft wegen des Verdachts der Begehung einer Straftat bekannt und sind die nach Absatz 1 gespeicherten Daten für die Durchführung dieser Ermittlungen und eines sich hieran anschließenden Strafverfahrens erforderlich, sind die Daten abweichend von Satz 1 von der zuständigen Behörde nach Ablauf des in Satz 1 genannten Zeitraums mit dem Abschluss des Ermittlungsverfahrens oder dem rechtskräftigen Abschluss des sich hieran anschließenden Strafverfahrens unverzüglich zu löschen.
 
@@ -333,8 +325,6 @@ Im Zusammenhang mit der Durchführung des Beihilfeverfahrens, der Prüfung der B
 
 (1) Die zuständige Behörde wertet die durchgeführten Beihilfeverfahren für das vergangene Abrechnungsjahr aus und veröffentlicht einen Bericht zu den wesentlichen Ergebnissen des Beihilfeverfahrens für das vorangegangene Abrechnungsjahr.
 
-(2) Die zuständige Behörde konsultiert ab 2022 und danach jährlich die für betroffene Sektoren oder Teilsektoren tätigen Interessenverbände, die Sozialpartner sowie Expertinnen und Experten auf dem Gebiet des Carbon-Leakage-Schutzes und ermöglicht einen Austausch innerhalb dieses Expertenforums, um die Auswirkungen der CO2-Bepreisung und der Beihilfe nach dieser Verordnung auf die Wettbewerbssituation der Unternehmen in Deutschland frühzeitig und kontinuierlich zu ermitteln, insbesondere in Hinblick auf kleinere und mittlere Unternehmen. Dazu legt die Bundesregierung dem Deutschen Bundestag bis zum 30. September eines jeden Jahres einen Bericht vor.
-
 (3) Nach Abschluss des Beihilfeverfahrens für das Abrechnungsjahr 2022 beauftragt das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit eine externe Stelle mit der Evaluierung der Durchführung dieser Verordnung. Die Evaluierung umfasst eine Prozessanalyse und eine Strukturanalyse, ob und inwiefern der Anstieg des Preises für Emissionszertifikate nach § 10 des Brennstoffemissionshandelsgesetzes zu Arbeitsplatzverlagerungen in den einzelnen Sektoren führt sowie eine Überprüfung des Bedarfs zur Fortentwicklung des Beihilfesystems. Dabei ist insbesondere zu prüfen, ob eine Absenkung der Carbon-Leakage-Indikatoren für die quantitative und qualitative Prüfung nach den §§ 20 und 21, eine Erhöhung der Kompensationsgrade nach der Anlage zu dieser Verordnung, die Einführung eines nationalen Korrekturfaktors sowie eine unterjährige Auszahlung der Beihilfe notwendig ist. Die Evaluierung ist bis zum 30. September 2024 und dann alle vier Jahre durchzuführen.
 
 (4) Auf Grundlage der Berichte gemäß den Absätzen 1 und 2 sowie der Evaluierung gemäß Absatz 3 überprüft die Bundesregierung regelmäßig, ob Änderungsbedarf an dieser Verordnung besteht.
@@ -348,7 +338,3 @@ Die Bestimmungen dieser Verordnung dürfen erst nach der beihilferechtlichen Gen
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Anlage — (zu den §§ 5, 7, 8 und 9)
-
-Tabelle 1
-
-Tabelle 2

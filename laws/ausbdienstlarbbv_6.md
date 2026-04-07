@@ -23,5 +23,3 @@ Auf Grund des § 7 Absatz 1 und 2 in Verbindung mit Absatz 4 des Arbeitnehmer-En
 Diese Verordnung tritt am 1. Februar 2023 in Kraft und am 31. Dezember 2026 außer Kraft.
 
 ### Anlage — (zu § 1 Absatz 1)
-
-(Text der Anlage siehe: TVMindestlohnPäda 6)

@@ -19,7 +19,9 @@ Das Vermögen des ehemaligen Ministeriums für Staatssicherheit des Amtes für N
 
 ### § 3
 
-(1) Die Treuhandanstalt hat in Abstimmung mit dem Komitee zur Auflösung des Amtes für Nationale Sicherheit die erforderlichen Voraussetzungen für die Übernahme der Vermögenswerte zu schaffen. Die Übernahme durch die Treuhandanstalt ist bis zum 30. September 1990 vorzunehmen.(2) Bei Grundstücken erfolgt die Grundbuchberichtigung auf Antrag der Treuhandanstalt. Dem Antrag ist eine Ausfertigung des Übergabe-/Übernahmeprotokolls beizufügen.
+(1) Die Treuhandanstalt hat in Abstimmung mit dem Komitee zur Auflösung des Amtes für Nationale Sicherheit die erforderlichen Voraussetzungen für die Übernahme der Vermögenswerte zu schaffen. Die Übernahme durch die Treuhandanstalt ist bis zum 30. September 1990 vorzunehmen.
+
+(2) Bei Grundstücken erfolgt die Grundbuchberichtigung auf Antrag der Treuhandanstalt. Dem Antrag ist eine Ausfertigung des Übergabe-/Übernahmeprotokolls beizufügen.
 
 ### § 4
 

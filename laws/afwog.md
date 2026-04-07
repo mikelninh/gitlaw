@@ -8,21 +8,21 @@
 
 ### § 1 — Ausgleichszahlung der Inhaber von Mietwohnungen
 
-(1) Inhaber einer öffentlich geförderten Wohnung im Sinne des Wohnungsbindungsgesetzes haben vorbehaltlich des § 2 eine Ausgleichszahlung zu leisten, wenn Mehrere Inhaber derselben Wohnung sind Gesamtschuldner.
+(1) Inhaber einer öffentlich geförderten Wohnung im Sinne des Wohnungsbindungsgesetzes haben vorbehaltlich des § 2 eine Ausgleichszahlung zu leisten, wenn
 
-1.
+1. ihre Wohnung in einer Gemeinde liegt, die durch landesrechtliche Vorschriften nach Absatz 4 bestimmt ist, und
 
-2.
+2. ihr Einkommen die Einkommensgrenze (§ 3) um mehr als 20 vom Hundert übersteigt.
 
 (2) Ist mehr als die Hälfte der Wohnfläche einer Wohnung untervermietet, so gilt auch der untervermietete Teil als selbständige Wohnung. Ist die Hälfte oder weniger als die Hälfte der Wohnfläche einer Wohnung untervermietet, so bilden der untervermietete und der nicht untervermietete Teil zusammen eine Wohnung; die Benutzer des untervermieteten Teils gelten nicht als Wohnungsinhaber, es sei denn, es handelt sich um Haushaltsangehörige im Sinne des § 18 des Wohnraumförderungsgesetzes. Vermietet der Eigentümer oder sonstige Verfügungsberechtigte einen Teil der von ihm selbst genutzten Wohnung, so gelten die Sätze 1 und 2 entsprechend.
 
 (3) Die Ausgleichszahlung beträgt monatlich je Quadratmeter Wohnfläche
 
-1.
+1. 0,25 Euro, wenn die Einkommensgrenze um mehr 20 vom Hundert, jedoch nicht mehr als 35 vom Hundert überschritten wird,
 
-2.
+2. 0,60 Euro, wenn die Einkommensgrenze um mehr als 35 vom Hundert, jedoch nicht mehr als 50 vom Hundert überschritten wird,
 
-3.
+3. 1 Euro, wenn die Einkommensgrenze um mehr als 50 vom Hundert überschritten wird.
 
 (4) Nach Absatz 1 Satz 1 Nr. 1 können nur solche Gemeinden bestimmt werden, in denen die Kostenmieten (§§ 8 bis 8b des Wohnungsbindungsgesetzes) öffentlich geförderter Mietwohnungen die ortsüblichen Mieten vergleichbarer, nicht preisgebundener Mietwohnungen erheblich unterschreiten. Liegt bei einer Gemeinde diese Voraussetzung vor, kann von der Bestimmung abgesehen werden, wenn der Verwaltungsaufwand für die Erhebung der Ausgleichszahlung in einem unangemessenen Verhältnis zu den erwarteten Einnahmen stehen würde.
 
@@ -30,25 +30,15 @@
 
 (1) Eine Ausgleichszahlung ist nicht zu leisten, wenn
 
-1.
+1. es sich um selbst genutztes Wohneigentum im Sinne des § 17 Abs. 2 des Wohnraumförderungsgesetzes handelt; § 1 Abs. 2 Satz 3 bleibt unberührt;
 
-2.
+2. ein Wohnungsinhaber Wohngeld erhält;
 
-3.
+3. ein Wohnungsinhabera)laufende Leistungen zum Lebensunterhalt nach dem Zwölften Buch Sozialgesetzbuch oder b)ergänzende Hilfe zum Lebensunterhalt nach § 27a des Bundesversorgungsgesetzes oder c)Leistungen zur Sicherung des Lebensunterhalts nach dem Zweiten Buch Sozialgesetzbuch laufende Leistungen zum Lebensunterhalt nach dem Zwölften Buch Sozialgesetzbuch oder ergänzende Hilfe zum Lebensunterhalt nach § 27a des Bundesversorgungsgesetzes oder Leistungen zur Sicherung des Lebensunterhalts nach dem Zweiten Buch Sozialgesetzbuch erhält und daneben keine Einkünfte erzielt werden, bei deren Berücksichtigung eine Ausgleichszahlung zu leisten wäre;
 
-a)
+4. ein Wohnungsinhaber die Wohnung auf Grund einer Bescheinigung über die Wohnberechtigung (§ 5 des Wohnungsbindungsgesetzes) nutzt, die innerhalb der letzten zwei Jahre, in den Fällen des bis zum 31. Dezember 2001 geltenden § 5 Abs. 1 Satz 2 Buchstabe b des Wohnungsbindungsgesetzes und des ab dem 1. Januar 2002 geltenden § 5 des Wohnungsbindungsgesetzes in Verbindung mit § 27 Abs. 3 Satz 4 Nr. 2 des Wohnungsraumförderungsgesetzes innerhalb der letzten drei Jahre vor Beginn des Leistungszeitraums (§ 4) erteilt worden ist, oder
 
-b)
-
-c)
-
-4.
-
-5.
-
-a)
-
-b)
+5. nach dem bis zum 31. Dezember 2001 geltenden § 7 des Wohnungsbindungsgesetzes eine Freistellung ausgesprochen worden ista)für das Gebiet, in dem die Wohnung liegt, oder b)für eine Wohnung unter der Auflage einer höheren Verzinsung oder einer sonstigen laufenden Zahlung für das Gebiet, in dem die Wohnung liegt, oder für eine Wohnung unter der Auflage einer höheren Verzinsung oder einer sonstigen laufenden Zahlung oder nach dem ab dem 1. Januar 2002 geltenden § 7 Abs. 1 des Wohnungsbindungsgesetzes in Verbindung mit § 30 des Wohnraumförderungsgesetzes eine Freistellung für das Gebiet ausgesprochen worden ist, in dem die Wohnung liegt.
 
 (2) Von der Erhebung einer Ausgleichszahlung kann für einzelne Wohnungen oder für Wohnungen bestimmter Art ganz oder teilweise abgesehen werden, wenn Tatsachen die Annahme rechtfertigen, dass die Vermietbarkeit dieser Wohnungen sonst während des Leistungszeitraums nicht gesichert wäre.
 
@@ -58,23 +48,23 @@ b)
 
 (1) Das Einkommen und die Einkommensgrenze bestimmen sich nach den §§ 9 und 35 Abs. 1 Satz 1 des Wohnraumförderungsgesetzes; soweit auf Grund des § 9 Abs. 3 des Wohnraumförderungsgesetzes eine Abweichung festgelegt ist, bestimmt sich die Einkommensgrenze nach dieser Abweichung. Alle Personen, die die Wohnung nicht nur vorübergehend nutzen, sind zu berücksichtigen, soweit sich nicht aus § 1 Abs. 2 etwas anderes ergibt.
 
-(2) Maßgebend sind die Verhältnisse am 1. April des dem Leistungszeitraum (§ 4) vorausgehenden Jahres. Abweichend hiervon ist maßgebend.
+(2) Maßgebend sind die Verhältnisse am 1. April des dem Leistungszeitraum (§ 4) vorausgehenden Jahres. Abweichend hiervon ist
 
-1.
+1. in den Fällen des § 4 Abs. 3 der Zeitpunkt der Beantragung des Wohnberechtigungsscheins oder bei nicht zu vertretender nachträglicher Beantragung der Zeitpunkt des Bezugs der Wohnung,
 
-2.
+2. in den Fällen des § 4 Abs. 4 Satz 3 der Zeitpunkt der Aufforderung nach § 5 Abs. 1 und
 
-3.
+3. in den Fällen des § 7 Abs. 2 der Zeitpunkt der Antragstellung
 
 ### § 4 — Beginn der Ausgleichszahlungen, Leistungszeitraum
 
 (1) Die Leistungspflicht beginnt
 
-1.
+1. für Inhaber von Wohnungen, für die öffentliche Mittel vor dem 1. Januar 1955 bewilligt worden sind, am 1. Januar 1983,
 
-2.
+2. für Inhaber von Wohnungen, für die öffentliche Mittel nach dem 31. Dezember 1954, jedoch vor dem 1. Januar 1963 bewilligt worden sind, am 1. Januar 1984,
 
-3.
+3. für Inhaber von Wohnungen, für die öffentliche Mittel nach dem 31. Dezember 1962 bewilligt worden sind, am 1. Januar 1985.
 
 (2) Wird ein Leistungsbescheid erst zu einem späteren als dem in Absatz 1 bezeichneten Zeitpunkt erteilt, beginnt die Leistungspflicht am ersten Tag des auf die Erteilung des Bescheids folgenden zweiten Kalendermonats.
 
@@ -110,19 +100,19 @@ b)
 
 (1) Die Leistungspflicht erlischt, sobald
 
-1.
+1. die Wohnung nicht mehr als öffentlich gefördert im Sinne des Wohnungsbindungsgesetzes gilt oder
 
-2.
+2. keiner der Inhaber einer Wohnung diese mehr benutzt.
 
 (2) Die Leistungspflicht ist auf Antrag mit Wirkung vom ersten Tag des auf den Antrag folgenden Kalendermonats an auf den Betrag herabzusetzen, der den Verhältnissen im Zeitpunkt des Antrags entspricht, wenn dieser Betrag niedriger ist, weil
 
-1.
+1. das Einkommen die Einkommensgrenze nicht mehr überschreitet oder
 
-2.
+2. das Einkommen sich um mehr als 15 vom Hundert verringert hat oder
 
-3.
+3. die Zahl der Personen, die nicht nur vorübergehend zum Haushalt gehören, sich erhöht hat oder
 
-4.
+4. das für die Wohnung zulässige Entgelt ohne Betriebskosten, Zuschläge und Vergütungen sich um mehr als 20 vom Hundert erhöht hat; § 6 Abs. 3 Satz 1 gilt sinngemäß.
 
 Der Antrag kann nur bis spätestens sechs Monate vor Ablauf des Leistungszeitraums gestellt werden.
 
@@ -161,11 +151,11 @@ Zuständige Stelle ist die Stelle, die von der Landesregierung bestimmt wird ode
 
 (1) Dieses Gesetz gilt im Saarland nur mit folgenden Maßgaben:
 
-1.
+1. Die §§ 1 bis 7 gelten entsprechend für Inhaber öffentlich geförderter Wohnungen im Sinne des Wohnungsbaugesetzes für das Saarland in der Fassung der Bekanntmachung vom 20. November 1990 (ABl. des Saarlandes 1991 S. 273);
 
-2.
+2. § 8 gilt entsprechend für Inhaber von Wohnungen, die mit Mitteln aus dem Treuhandvermögen des Bundes zur Förderung des Bergarbeiterwohnungsbaus im Kohlenbergbau gefördert worden sind; dies gilt auch für Inhaber von Wohnungen, die mit öffentlichen Mitteln im Sinne des § 4 Abs. 1 des Wohnungsbaugesetzes für das Saarland neben oder an Stelle der Förderung mit Mitteln aus dem Bundestreuhandvermögen, mit Mitteln aus dem Vermögen der Stiftung für den Wohnungsbau der Bergarbeiter im Saarland oder mit Arbeitgeberdarlehen gefördert worden sind;
 
-3.
+3. § 9 gilt entsprechend für Inhaber von Wohnungen, die unter Vereinbarung eines Wohnungsbesetzungsrechts mit Wohnungsfürsorgemitteln aus öffentlichen Haushalten für die Angehörigen des öffentlichen Dienstes oder ähnliche Personengruppen gefördert worden sind, solange das Besetzungsrecht besteht. Für die Zweckbestimmung der Ausgleichszahlungen gilt in diesen Fällen § 10 Abs. 3 und 4 entsprechend.
 
 (2) Die Landesregierung regelt durch Rechtsverordnung die näheren Einzelheiten zur Durchführung dieses Gesetzes im Hinblick auf die rechtlichen Besonderheiten im Saarland.
 

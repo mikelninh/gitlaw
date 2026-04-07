@@ -49,7 +49,7 @@ Die Registerbehörde speichert die Daten nach § 11b Absatz 2 und 3 der Gewerbeo
 
 (2) Die Schnittstelle zum Bundesamt für Verfassungsschutz erfolgt über einen Datenaustausch des Bewacherregisters mit dem nachrichtendienstlichen Informationssystem, welches durch das Bundesamt für Verfassungsschutz betrieben wird. Bei der Übermittlung und Verarbeitung der Daten ist die jeweilige Geheimhaltungsstufe einzuhalten. Dabei sind die technischen Anforderungen des Bundesamtes für Sicherheit in der Informationstechnik zu beachten.
 
-(3) Die Schnittstelle zum Deutschen Industrie- und Handelskammertag e. V. erfolgt über einen Datenaustausch des Bewacherregisters mit der Datenbank für Unterrichtungen und Sachkundeprüfungen im Bewachungsgewerbe, welche durch den Deutschen Industrie- und Handelskammertag e. V. betrieben wird.
+(3) Die Schnittstelle zum Deutschen Industrie- und Handelskammertag e. V. erfolgt über einen Datenaustausch des Bewacherregisters mit der Datenbank für Unterrichtungen und Sachkundeprüfungen im Bewachungsgewerbe, welche durch den Deutschen Industrie- und Handelskammertag e. V. betrieben wird.
 
 (4) Die Registerbehörde bietet eine Schnittstelle an, über die der Datenaustausch des Bewacherregisters mit Fachverfahren der für den Vollzug des § 34a der Gewerbeordnung zuständigen Behörden erfolgen kann.
 
@@ -65,17 +65,17 @@ Die Registerbehörde speichert die Daten nach § 11b Absatz 2 und 3 der Gewerbeo
 
 (1) Der Abruf aus dem Bewacherregister erfolgt im automatisierten Abrufverfahren. Die Zulassung zum Datenabruf im automatisierten Verfahren ist bei der Registerbehörde zu beantragen. Die Registerbehörde erteilt die Zulassung zum Datenabruf, wenn der Antrag gestellt wird durch
 
-1.
+1. eine für den Vollzug des § 34a der Gewerbeordnung zuständige Behörde,
 
-2.
+2. eine im Rahmen der Amtshilfe für den Vollzug des § 34a der Gewerbeordnung zuständige Behörde, insbesondere eine Polizei-, Ordnungs- oder Zollbehörde,
 
-3.
+3. eine Behörde, die die Aufsicht über eine für den Vollzug des § 34a der Gewerbeordnung zuständige Behörde hat,
 
-4.
+4. eine Behörde, die Widerspruchsbehörde für den Vollzug des § 34a der Gewerbeordnung betreffende Widerspruchsverfahren ist,
 
-5.
+5. eine Behörde, die für die Verfolgung von Ordnungswidrigkeiten nach § 144 Absatz 1 Nummer 1 Buchstabe f oder Absatz 2 Nummer 1b der Gewerbeordnung in Verbindung mit § 22 der Bewachungsverordnung zuständig ist, oder
 
-6.
+6. einen Gewerbetreibenden nach § 34a Absatz 1 der Gewerbeordnung.
 
 (2) Der Datenabruf durch Behörden nach Absatz 1 Satz 3 Nummer 1 bis 5 und durch Gewerbetreibende nach Absatz 1 Satz 3 Nummer 6 ist auf den Umfang nach § 10 zu beschränken. Die Zulassung zum Datenabruf im automatisierten Verfahren kann auch nachträglich inhaltlich beschränkt werden.
 
@@ -87,17 +87,17 @@ Die Registerbehörde speichert die Daten nach § 11b Absatz 2 und 3 der Gewerbeo
 
 (1) Nach § 9 Absatz 1 Satz 3 Nummer 1 und 2 zugelassene Behörden dürfen nur Daten aus dem Register abrufen im Rahmen der
 
-1.
+1. Vor-Ort-Kontrolle von Bewachungstätigkeiten,
 
-2.
+2. Prüfung von Bewachungsgewerbetreibenden,
 
-3.
+3. Prüfung von mit der Leitung des Betriebs oder einer Zweigniederlassung beauftragten Personen,
 
-4.
+4. Prüfung von Wachpersonal,
 
-5.
+5. Pflege der Daten des Bewacherregisters oder
 
-6.
+6. Wahrnehmung der Nachberichtspflicht gemäß § 34a Absatz 1b der Gewerbeordnung.
 
 (2) Nach § 9 Absatz 1 Satz 3 Nummer 3 zugelassene Behörden dürfen nur im Rahmen ihrer Zuständigkeit für die Aufsicht über die für den Vollzug des § 34a der Gewerbeordnung zuständige Behörden Daten aus dem Register abrufen.
 
@@ -111,13 +111,13 @@ Die Registerbehörde speichert die Daten nach § 11b Absatz 2 und 3 der Gewerbeo
 
 Enthält das Abrufersuchen der nach § 9 Absatz 1 Satz 3 zugelassenen Behörden oder Gewerbetreibenden nicht die nach § 11b Absatz 2 der Gewerbeordnung im Register gespeicherte Identifikationsnummer, muss das Abrufersuchen mindestens folgende Daten enthalten:
 
-1.
+1. den Familiennamen, mindestens einen Vornamen, die Ausweisart und die Ausweisnummer,
 
-2.
+2. den Familiennamen, mindestens einen Vornamen und den Wohnort oder den Tag oder den Ort der Geburt,
 
-3.
+3. den eingetragenen Namen der juristischen Person und den Ort und die Postleitzahl des Sitzes oder einer Niederlassung oder
 
-4.
+4. den Namen des Gewerbebetriebs und den Ort und die Postleitzahl einer Niederlassung.
 
 ### § 12 — Datenübermittlung für statistische Zwecke
 
@@ -135,13 +135,13 @@ Enthält das Abrufersuchen der nach § 9 Absatz 1 Satz 3 zugelassenen Behörden 
 
 ### § 14 — Protokollierungspflicht
 
-(1) Die Registerbehörde als speichernde Stelle erstellt bei Abrufen nach den §§ 4 bis 12 Protokolle, aus denen Folgendes hervorgeht: Abweichend von Satz 1 sind Abrufe von Verfassungsschutzbehörden des Bundes und der Länder ausschließlich von diesen entsprechend § 6 Absatz 3 Satz 2 bis 5 des Bundesverfassungsschutzgesetzes zu protokollieren.
+(1) Die Registerbehörde als speichernde Stelle erstellt bei Abrufen nach den §§ 4 bis 12 Protokolle, aus denen Folgendes hervorgeht:
 
-1.
+1. der Zweck der Datenübermittlung oder des Abrufs,
 
-2.
+2. das Datum und die Uhrzeit der Datenübermittlung oder des Abrufs,
 
-3.
+3. die Identität der Person oder der angemeldeten Stelle, die die Daten übermittelt oder abgefragt hat.
 
 (2) Die protokollierten Daten dürfen nur für Zwecke der Auskunftserteilung an die betroffene Person und zum Zwecke der Datenschutzkontrolle verwendet werden. Sie sind gegen zweckfremde Verwendung und gegen sonstigen Missbrauch zu schützen.
 

@@ -20,15 +20,27 @@ Die Landesregierungen können durch Rechtsverordnung bestimmen, dass für bestim
 
 ### § 3 — Verfahren und Höhe der Prämie
 
-Soweit die Landesregierungen von der Ermächtigung des § 2 Gebrauch machen, haben sie in der Rechtsverordnung 1.die erforderlichen Vorschriften über das Verfahren für die Gewährung der Prämie festzulegen, 2.die Höhe der Prämie je Hektar auf Grundlage der in Artikel 8 Abs. 4 der Verordnung (EG) Nr. 1493/1999 genannten Kriterien unter Beachtung der in Artikel 8 Abs. 4 und 5 der Verordnung (EG) Nr. 1227/2000 aufgestellten Obergrenzen festzusetzen.
+Soweit die Landesregierungen von der Ermächtigung des § 2 Gebrauch machen, haben sie in der Rechtsverordnung
+
+1. die erforderlichen Vorschriften über das Verfahren für die Gewährung der Prämie festzulegen,
+
+2. die Höhe der Prämie je Hektar auf Grundlage der in Artikel 8 Abs. 4 der Verordnung (EG) Nr. 1493/1999 genannten Kriterien unter Beachtung der in Artikel 8 Abs. 4 und 5 der Verordnung (EG) Nr. 1227/2000 aufgestellten Obergrenzen festzusetzen.
 
 ### § 4 — Bedingungen und Mindestrodungsfläche
 
-Soweit die Landesregierungen von der Ermächtigung des § 2 Gebrauch machen, können sie in der Rechtsverordnung 1.die Gewährung der Prämie für bestimmte Flächen an Bedingungen im Sinne des Artikels 8 Abs. 2 Satz 2 der Verordnung (EG) Nr. 1493/1999 knüpfen, insbesondere um ein Gleichgewicht zwischen Erzeugung und Umweltbelangen in den betreffenden Anbaugebieten sicherzustellen, 2.bestimmen, dass die Prämie auch für Flächen von mindestens 10 Ar und höchstens 25 Ar gewährt werden kann, wenn es sich bei der betreffenden Fläche nicht um die gesamte Weinbaufläche des Betriebs handelt.
+Soweit die Landesregierungen von der Ermächtigung des § 2 Gebrauch machen, können sie in der Rechtsverordnung
+
+1. die Gewährung der Prämie für bestimmte Flächen an Bedingungen im Sinne des Artikels 8 Abs. 2 Satz 2 der Verordnung (EG) Nr. 1493/1999 knüpfen, insbesondere um ein Gleichgewicht zwischen Erzeugung und Umweltbelangen in den betreffenden Anbaugebieten sicherzustellen,
+
+2. bestimmen, dass die Prämie auch für Flächen von mindestens 10 Ar und höchstens 25 Ar gewährt werden kann, wenn es sich bei der betreffenden Fläche nicht um die gesamte Weinbaufläche des Betriebs handelt.
 
 ### § 5 — Duldungs- und Mitwirkungspflichten
 
-(1) Die Rodung ist der zuständigen Stelle spätestens einen Monat nach ihrer Durchführung anzuzeigen.(2) Der Prämienempfänger hat alle im Zusammenhang mit der Prämiengewährung stehenden Unterlagen bis zum Ablauf des zehnten Weinwirtschaftsjahres das dem Weinwirtschaftsjahr der Gewährung folgt, aufzubewahren, soweit nicht nach anderen Vorschriften eine längere Aufbewahrungspflicht besteht.(3) Der Prämienempfänger hat der zuständigen Stelle das Betreten seiner Grundstücke und Betriebsräume während der Betriebszeit zu gestatten und die für die Überprüfung der Prämiengewährung in Betracht kommenden Aufzeichnungen, Belege und sonstige Schriftstücke auf Verlangen zur Einsicht vorzulegen, Auskunft zu erteilen und die erforderliche Unterstützung zu gewähren.
+(1) Die Rodung ist der zuständigen Stelle spätestens einen Monat nach ihrer Durchführung anzuzeigen.
+
+(2) Der Prämienempfänger hat alle im Zusammenhang mit der Prämiengewährung stehenden Unterlagen bis zum Ablauf des zehnten Weinwirtschaftsjahres das dem Weinwirtschaftsjahr der Gewährung folgt, aufzubewahren, soweit nicht nach anderen Vorschriften eine längere Aufbewahrungspflicht besteht.
+
+(3) Der Prämienempfänger hat der zuständigen Stelle das Betreten seiner Grundstücke und Betriebsräume während der Betriebszeit zu gestatten und die für die Überprüfung der Prämiengewährung in Betracht kommenden Aufzeichnungen, Belege und sonstige Schriftstücke auf Verlangen zur Einsicht vorzulegen, Auskunft zu erteilen und die erforderliche Unterstützung zu gewähren.
 
 ### § 6 — Inkrafttreten, Außerkrafttreten
 

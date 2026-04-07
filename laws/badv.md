@@ -10,15 +10,15 @@
 
 (1) Diese Verordnung gilt für den Zugang zum Markt der Bodenabfertigungsdienste auf Flugplätzen in der Bundesrepublik Deutschland nach folgenden Modalitäten:
 
-1.
+1. Die Bestimmungen für die Selbstabfertigung gelten ab dem 1. Januar 1998, und zwar, soweit es um die in § 3 Abs. 2 nicht genannten Bodenabfertigungsdienste geht, für jeden Flugplatz unabhängig vom Verkehrsaufkommen und, soweit es um die in § 3 Abs. 2 genannten Bodenabfertigungsdienste geht, für solche Flugplätze, die jährlich mindestens eine Million Fluggäste oder 25.000 t Fracht zu verzeichnen haben.
 
-2.
+2. Die Bestimmungen für Dienstleister gelten ab dem 1. Januar 1999 und nur für solche Flugplätze, die entweder jährlich mindestens drei Millionen Fluggäste oder 75.000 t Fracht zu verzeichnen haben oder aber in dem dem 1. April oder dem 1. Oktober des Vorjahres vorausgehenden Sechsmonatszeitraum mindestens zwei Millionen Fluggäste oder 50.000 t Fracht zu verzeichnen hatten.
 
-3.
+3. Unbeschadet der Nummer 1 gilt diese Verordnung ab dem 1. Januar 2001 für jeden Flugplatz, der jährlich mindestens zwei Millionen Fluggäste oder 50.000 t Fracht zu verzeichnen hat.
 
-4.
+4. Erreicht ein Flugplatz eine der unter den Nummern 1 bis 3 genannten Frachtschwellen, jedoch nicht die entsprechende Fluggastschwelle, gelten die Bestimmungen dieser Verordnung nicht für die allein Fluggästen vorbehaltenen Bodenabfertigungsdienste.
 
-5.
+5. Die Regelung des § 6 Abs. 1 Satz 2 gilt ab dem 1. Januar 1998.
 
 (2) Bei einem Flughafensystem ist diese Verordnung auf jeden einzelnen der Flughäfen gesondert anzuwenden. Maßgeblich ist die jeweils gültige Fassung des Anhangs II der Verordnung (EWG) Nr. 2408/92 des Rates vom 23. Juli 1992 (ABl. EG Nr. L 240 S. 8) über den Zugang von Luftfahrtunternehmen der Gemeinschaft zu Strecken des innergemeinschaftlichen Flugverkehrs.
 
@@ -26,19 +26,19 @@
 
 Im Sinne dieser Verordnung bezeichnet das Wort
 
-1.
+1. Flugplatz: jeden für den allgemeinen Verkehr genehmigten Flugplatz mit gewerblichem Luftverkehr,
 
-2.
+2. Luftfahrtbehörde: die nach den jeweiligen Vorschriften zuständige Behörde,
 
-3.
+3. Nutzer: jede natürliche oder juristische Person, die gewerbsmäßig Fluggäste, Post oder Fracht auf dem Luftweg von oder zu dem betreffenden Flugplatz befördert,
 
-4.
+4. Bodenabfertigungsdienste: die einem Nutzer auf einem Flugplatz erbrachten Dienste nach Anlage 1,
 
-5.
+5. Dienstleister: jede natürliche oder juristische Person einschließlich des Flugplatzunternehmers, die einen oder mehrere Bodenabfertigungsdienste für Dritte erbringt,
 
-6.
+6. Selbstabfertigung: den Umstand, daß sich ein Nutzer unmittelbar selbst einen oder mehrere Bodenabfertigungsdienste erbringt, ohne hierfür mit einem Dritten einen Vertrag über die Erbringung solcher Dienste zu schließen. Im Sinne dieser Definition gelten nicht als Dritte in ihrem Verhältnis zueinander Nutzer, von denen einer an dem anderen eine Mehrheitsbeteiligung hält oder bei denen ein und dieselbe Körperschaft an jedem von ihnen eine Mehrheitsbeteiligung hält,
 
-7.
+7. Drittland: jeden Staat, der weder Mitgliedstaat der Europäischen Union noch Vertragsstaat eines den Luftverkehr betreffenden Abkommens mit der Europäischen Union ist.
 
 ### § 3 — Bodenabfertigungsdienste
 
@@ -126,13 +126,13 @@ Der Flugplatzunternehmer hält mindestens einmal im Jahr eine gemeinsame Konsult
 
 ### § 12 — Gegenseitigkeit
 
-(1) Wird festgestellt, daß ein Drittland Dienstleister und Selbstabfertiger, deren Unternehmen mehrheitlich im Eigentum von Staatsangehörigen der Mitgliedstaaten der Europäischen Union ist, von Rechts wegen oder tatsächlich behandelt, ist das Bundesministerium für Digitales und Verkehr zu unterrichten.
+(1) Wird festgestellt, daß ein Drittland Dienstleister und Selbstabfertiger, deren Unternehmen mehrheitlich im Eigentum von Staatsangehörigen der Mitgliedstaaten der Europäischen Union ist, von Rechts wegen oder tatsächlich
 
-1.
+1. nicht in einer dieser Verordnung vergleichbaren Weise oder
 
-2.
+2. ungünstiger als inländische Dienstleister und Selbstabfertiger oder
 
-3.
+3. ungünstiger als Dienstleister und Selbstabfertiger aus anderen Drittländern
 
 (2) Dieses kann, unbeschadet der internationalen Verpflichtungen der Europäischen Union, die Pflichten, die sich aus der Richtlinie 96/67/EG des Rates vom 15. Oktober 1996 gegenüber den Dienstleistern und Nutzern dieses Drittlandes ergeben, im Einklang mit dem Gemeinschaftsrecht ganz oder teilweise aussetzen.
 
@@ -140,159 +140,41 @@ Der Flugplatzunternehmer hält mindestens einmal im Jahr eine gemeinsame Konsult
 
 ### Anlage 1 — (zu § 2 Nr. 4)
 
-Fundstelle des Originaltextes: BGBl. I 1997, 2888 - 2889  ----------
-
-1.
-
-1.1
-
-1.2
-
-1.3
-
-1.4
-
-2.
-
-3.
-
-4.
-
-4.1
-
-4.2
-
-5.
-
-5.1
-
-5.2
-
-5.3
-
-5.4
-
-5.5
-
-5.6
-
-5.7
-
-6.
-
-6.1
-
-6.2
-
-6.3
-
-7.
-
-7.1
-
-7.2
-
-8.
-
-8.1
-
-8.2
-
-8.3
-
-8.4
-
-9.
-
-9.1
-
-9.2
-
-9.3
-
-9.4
-
-10.
-
-10.1
-
-10.2
-
-11.
-
-11.1
-
-11.2
-
-11.3
-
-11.4
-
 ### Anlage 2 — (zu § 7)
 
-Fundstelle des Originaltextes: BGBl. I 1997, 2889 - 2890;
-
-(1) Diese Auswahl-Richtlinie ist dann zugrundezulegen, wenn wegen beschränkter Möglichkeiten der Bodenabfertigung nicht alle interessierten Dienstleister tätig werden können, die Bodenabfertigungsdienstleistungen daher auszuschreiben sind und eine Auswahl unter den Bewerbern zu treffen ist (§ 7 Abs. 1 i.V.m. § 3 Abs. 2 bis 5). Sie kann darüber hinaus dann zugrunde gelegt werden, wenn wegen beschränkter Möglichkeiten der Bodenabfertigung eine Auswahl unter den interessierten Selbstabfertigern zu treffen ist (§ 7 Abs. 3 i.V.m. § 3 Abs. 2 bis 5).
-
-1.
+1. Grundsätze
 
 (2) Die Verfahren nach dieser Auswahl-Richtlinie müssen sachgerecht, objektiv, transparent und nichtdiskriminierend durchgeführt werden.
 
-(3) Der Nutzerausschuß und der Betriebsrat des jeweiligen Flugplatzunternehmens sind über den Auswahlentscheid zu unterrichten.(1) Der Flugplatzunternehmer hat die Bodenabfertigungsdienste, die er gemäß § 7 dem Markt der Bodenabfertigungsdienste öffnet, nach Art und Umfang zu bestimmen. Er kann dazu auch Bündelungen von Bodenabfertigungsdiensten, die in Anlage 1 aufgeführt sind, vornehmen, wenn dies betrieblich geboten erscheint oder zur effizienten Nutzung der Abfertigungskapazität notwendig ist.
+(3) Der Nutzerausschuß und der Betriebsrat des jeweiligen Flugplatzunternehmens sind über den Auswahlentscheid zu unterrichten.
 
-2.
+2. Verfahren
 
-2.1
+2.1 Festlegung der Bodenabfertigungsdienste nach Art und Umfang
 
 (2) Der Flugplatzunternehmer kann die Erbringung der einzelnen oder gebündelten Bodenabfertigungsdienste von einzelnen oder allen der folgenden Begrenzungen abhängig machen:
 
-a)
+a) Erbringung nur in bestimmten Flugplatzbereichen,
 
-b)
+b) Erbringung nur bei Nutzung bestimmter dafür ausgewiesener Abfertigungs- und Geräteabstellflächen,
 
-c)
+c) Erbringung einer vorgegebenen Abfertigungsart,
 
-d)
+d) Erbringung durch Selbstabfertiger und/oder Dienstleister.
 
-(3) Der Flugplatzunternehmer unterrichtet den Nutzerausschuß und den Betriebsrat des Flugplatzunternehmens über seine nach den Absätzen 1 und 2 getroffene Entscheidung, über die beabsichtigte Bekanntmachung, über die Grundzüge und wesentlichen Inhalte der Bewerbungsunterlage sowie über das von ihm vorgeschlagene Auswahlverfahren mit den maßgeblichen Auswahlkriterien.Der Flugplatzunternehmer hat die nach 2.1 festgelegten Bodenabfertigungsdienste im Amtsblatt der Europäischen Gemeinschaften zu veröffentlichen, so daß es jedem Interessenten ermöglicht wird, sich zu bewerben. Die Veröffentlichung muß enthalten: (1) Der Flugplatzunternehmer stellt den geeigneten Bewerbern die Bewerbungsunterlagen zur Verfügung und fordert sie auf, die erforderlichen Nachweise und Angaben innerhalb einer vorgegebenen Frist zu übermitteln.
+(3) Der Flugplatzunternehmer unterrichtet den Nutzerausschuß und den Betriebsrat des Flugplatzunternehmens über seine nach den Absätzen 1 und 2 getroffene Entscheidung, über die beabsichtigte Bekanntmachung, über die Grundzüge und wesentlichen Inhalte der Bewerbungsunterlage sowie über das von ihm vorgeschlagene Auswahlverfahren mit den maßgeblichen Auswahlkriterien.
 
-2.2
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-2.3
+2.2 Teilnahmewettbewerb
 
 (2) Die Bewerbungsunterlagen müssen neben den Angaben gemäß 2.1 und 2.2 auch Angaben darüber enthalten,
 
-a)
+a) wie das Auswahlverfahren festgelegt ist und
 
-b)
+b) welche Kriterien maßgeblich für die Auswahl sind,
 
-c)
+c) Erbringung eines vorgegebenen Abfertigungsaufkommens oder -aufkommensanteils,
 
-d)
+d) im Pflichtenheft nach § 8 Abs. 2 möglicherweise verbindlich vorgegebene technische und betriebliche Qualitätsanforderungen, wie etwa zur Einhaltung der Minimum Connecting Time.
 
 (3) Die Bewertung und die Entscheidung über den Ausschluss nicht geeigneter Bewerber erfolgt in den Fällen, in denen der Flugplatzunternehmer selbst gleichartige Bodenabfertigungsdienste erbringt oder ein Unternehmen, das derartige Dienste erbringt, direkt oder indirekt beherrscht oder an einem solchen Unternehmen beteiligt ist, durch die Luftfahrtbehörde. Nicht geeignete Bewerber sind von ihrem Ausschluß zu unterrichten. Als nicht geeignet sind Bewerber anzusehen, die den Kriterien, die bereits in der Vorinformation veröffentlicht sind, nicht genügen oder die offensichtlich nicht die erforderliche Abfertigungsleistung erbringen können oder wollen.
 
@@ -302,33 +184,21 @@ d)
 
 ### Anlage 3 — (zu § 8)
 
-Fundstelle des Originaltextes: BGBl. I 1997, 2890 - 2892;
+1. Anwendungsbereich
 
-Die "Anforderungen für die Erbringung von Bodenabfertigungsdiensten" gelten für alle Unternehmer, die als Dienstleister oder Selbstabfertiger auf einem Flugplatz Bodenabfertigungsdienste erbringen oder erbringen wollen.(1) Der Unternehmer und die zur Führung der Geschäfte bestellten Personen müssen zuverlässig sein.Die Zuverlässigkeit ist gegeben, wenn der Unternehmer und die zur Führung der Geschäfte bestellten Personen die Gewähr dafür bieten, daß der Betrieb den gesetzlichen Bestimmungen entsprechend geführt wird und die Beschäftigten und die Allgemeinheit bei dem Betrieb des Unternehmens vor Schäden und Gefahren bewahrt bleiben.Die Zuverlässigkeit ist zu verneinen
+(2) Die finanzielle Leistungsfähigkeit des Unternehmens muß gewährleistet sein.
 
-1.
+a) erhebliche Rückstände an Steuern oder an Beiträgen zur Sozialversicherung bestehen, die aus unternehmerischer Tätigkeit geschuldet werden;
 
-2.
+b) dem Flugplatzunternehmer gegenüber erhebliche Rückstände an Gebühren oder Entgelten, Mieten, Pachten oder aus anderen Zahlungsverpflichtungen bestehen, die aus der Nutzung des Flugplatzes und seiner Einrichtungen, einschließlich des Start-/Landebahnsystems, oder aus der vertraglichen Gestattung der Erbringung von Bodenabfertigungsleistungen geschuldet werden.
 
-A.
+(3) Der Unternehmer oder die zur Führung der Geschäfte bestellten Personen müssen fachlich geeignet sein.
 
-a)
+a) durch Prüfung der Industrie- und Handelskammer "Geprüfter Flugzeugabfertiger" und eine mindestens zweijährige leitende Tätigkeit in einem Unternehmen, das Bodenabfertigungsleistungen erbringt, oder
 
-b)
+b) durch eine - den Prüfungsinhalten der Industrie- und Handelskammer vergleichbare - Qualifikation und eine mindestens zweijährige leitende Tätigkeit in einem Unternehmen, das Bodenabfertigungsleistungen erbringt, oder
 
-(2) Die finanzielle Leistungsfähigkeit des Unternehmens muß gewährleistet sein.Die finanzielle Leistungsfähigkeit ist gewährleistet, wenn die zur Aufnahme und ordnungsgemäßen Führung des Betriebes erforderlichen Mittel verfügbar sind.Die finanzielle Leistungsfähigkeit ist insbesondere nicht gewährleistet, wenn
-
-a)
-
-b)
-
-(3) Der Unternehmer oder die zur Führung der Geschäfte bestellten Personen müssen fachlich geeignet sein.Fachlich geeignet ist, wer über die zur ordnungsgemäßen Führung eines Bodenabfertigungsunternehmens erforderlichen Kenntnisse verfügt.Eine fachliche Eignung kann entweder nachgewiesen werden.
-
-a)
-
-b)
-
-c)
+c) durch eine mindestens fünfjährige leitende Tätigkeit in einem Unternehmen, das Bodenabfertigungsleistungen erbringt,
 
 (4) Die Voraussetzungen der Absätze 1 bis 3 sind bei Flugplatzunternehmern durch die Erteilung der Betriebsgenehmigung als erfüllt anzusehen.
 
@@ -336,9 +206,9 @@ c)
 
 (6) Bei Fehlern oder Wegfall der Voraussetzungen gemäß den Absätzen 1 bis 3 ist zu vermuten, daß der ordnungsgemäße Betriebsablauf gefährdet ist. § 10 ist anzuwenden.
 
-(7) (weggefallen) (1) Die Erbringer von Bodenabfertigungsleistungen haben sich nach Maßgabe der Einteilung durch den Flugplatzunternehmer an der Erfüllung der in Rechtsvorschriften und Regelungen vorgesehenen öffentlichen Leistungsverpflichtung, insbesondere der Betriebspflicht, zu beteiligen. Den Rahmen für diese Beteiligung setzt das Pflichtenheft. Die Einteilung durch den Flugplatzunternehmer muß nichtdiskriminierend, objektiv und transparent vorgenommen werden.
+(7) (weggefallen)
 
-B.
+B. Anforderung an Betrieb und Einsatz der Mitarbeiter
 
 (2) Dienstleister und Selbstabfertiger sind verpflichtet, geltende Umweltschutzvorschriften sowie behördliche Regelungen, insbesondere Genehmigungen und Planfeststellungen zu beachten. Der Flugplatzunternehmer ist verpflichtet, die anderen Dienstleister und die Selbstabfertiger auf die ihm bekannten einschlägigen Vorschriften und Regelungen sowie deren Änderung hinzuweisen oder ihnen diese gegen Erstattung der Kosten bekanntzumachen.
 
@@ -350,15 +220,15 @@ B.
 
 (6) Vor Aufnahme von Bodenabfertigungstätigkeiten nach Anlage 1 ist dem Flugplatzunternehmer der Abschluss einer Haftpflichtversicherung nachzuweisen, die die Haftung des Dienstleisters oder Selbstabfertigers auf Schadensersatz wegen solcher Schäden deckt, die diese in Ausführung der Dienstleistung einem anderen zufügen. Bedient sich der Dienstleister oder Selbstabfertiger zur Erledigung seiner Aufgaben eines anderen Dienstleisters, hat er nachzuweisen, dass dieser über die erforderliche Haftpflichtversicherung verfügt. Ist die Haftung des Dienstleisters oder Selbstabfertigers bereits durch eine Versicherung gedeckt, die der Nutzer unterhält, kann der Dienstleister oder Selbstabfertiger seiner Pflicht nach Satz 1 auch durch den Nachweis dieser Versicherung nachkommen. Ist die Haftung des Dienstleisters oder Selbstabfertigers bereits durch eine Versicherung gedeckt, die der Flugplatzunternehmer unterhält, bedarf es des Nachweises nach Satz 1 nicht.
 
-(7) Die nach Absatz 6 nachzuweisende Versicherung muss das mit der Tätigkeit jeweils verbundene Risiko angemessen decken. Die Mindestversicherungssumme beträgt Die nicht allgemein zugänglichen und sicherheitsempfindlichen Bereiche eines Flugplatzes bestimmen sich nach dessen Flughafenbenutzungsordnung oder dem Luftsicherheitsplan.
+(7) Die nach Absatz 6 nachzuweisende Versicherung muss das mit der Tätigkeit jeweils verbundene Risiko angemessen decken. Die Mindestversicherungssumme beträgt
 
-1.
+1. 5 Millionen Euro für Dienstleistungen nach den Ziffern 1.1 und 1.3 der Anlage 1 und, soweit sie nicht im nicht allgemein zugänglichen Bereich oder im sicherheitsempfindlichen Bereich des Flugplatzes ausgeführt werden, für Dienstleistungen nach den Ziffern 1.2, 1.4, 2, 4.1 und 4.2, 8.1 bis 8.3, 9.1 bis 9.4, 10.1 und 10.2 und 11.1 bis 11.4 der Anlage 1,
 
-2.
+2. 50 Millionen Euro für Dienstleistungen nach den Ziffern 1.2, 1.4, 2, 9.1 bis 9.4, 10.1 und 10.2 und 11.1 bis 11.4 der Anlage 1, soweit sie im nicht allgemein zugänglichen Bereich oder im sicherheitsempfindlichen Bereich ausgeführt werden,
 
-3.
+3. 100 Millionen Euro für Dienstleistungen nach den Ziffern 3, 5.1 bis 5.7, 6.1 bis 6.3 und 8.4 der Anlage 1 und, soweit sie im nicht allgemein zugänglichen Bereich oder im sicherheitsempfindlichen Bereich ausgeführt werden, für Dienstleistungen nach den Ziffern 4.1 und 4.2 und 8.1 bis 8.3 der Anlage 1,
 
-4.
+4. 375 Millionen Euro für Dienstleistungen nach den Ziffern 7.1 und 7.2 der Anlage 1.
 
 (8) Das Bestehen der Versicherung nach den Absätzen 6 und 7 ist dem Flugplatzunternehmer jeweils bis zum 15. Januar eines jeden Jahres nachzuweisen. Der Versicherer und der Versicherungspflichtige haben dem Flughafenunternehmer jede Unterbrechung des Versicherungsschutzes sowie jede Beendigung des Versicherungsverhältnisses für die Haftpflichtversicherung des Dienstleisters oder Selbstabfertigers unverzüglich anzuzeigen. Im Falle der Beendigung des Versicherungsverhältnisses oder des fehlenden oder nicht fristgemäßen Nachweises der Versicherung ist der Flughafenunternehmer verpflichtet, seine vertraglichen Beziehungen zu dem Dienstleister oder Selbstabfertiger aus wichtigem Grund zu kündigen.
 
@@ -372,60 +242,4 @@ B.
 
 ### Anlage 4 — (zu § 5)
 
-Fundstelle des Originaltextes: BGBl. I 1997, 2892 - 2893Die Geschäftsordnung, die sich der Nutzerausschuß eines Flugplatzes gemäß § 5 Abs. 1 zu geben hat, hat folgende Grundsätze zu beachten:
-
-1.
-
-1.1
-
-1.2
-
-1.3
-
-2.
-
-2.1
-
-2.2
-
-2.3
-
-3.
-
-3.1
-
-3.2
-
-3.3
-
-3.4
-
-3.5
-
--
-
--
-
--
-
-4.
-
-4.1
-
-4.2
-
-4.3
-
-4.4
-
-4.5
-
-5.
-
-5.1
-
-6.
-
 ### Anlage 5 — (zu § 3 Abs. 2)
-
-Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Frankfurt (FRA) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf: Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen München (MUC) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf: Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Düsseldorf (DUS) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf: Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Hamburg (HAM) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf: Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Stuttgart (STR) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf: Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Köln-Bonn (CGN) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf: Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Hannover (HAJ) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf: Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Nürnberg (NUE) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf: Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Leipzig (LEJ) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im Einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Berlin-Brandenburg (BER) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf: Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Dresden (DRS) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf: Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Bremen (BRE) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf: Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Münster/Osnabrück (FMO) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf: Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Berlin-Tempelhof (THF) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf: (weggefallen)

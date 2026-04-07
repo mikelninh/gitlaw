@@ -22,27 +22,27 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (1) Eine Erlaubnis nach § 1 wird erteilt, wenn der Antragsteller
 
-1.
+1. nach einer dreijährigen Ausbildung die staatliche Prüfung für Ergotherapeuten bestanden hat,
 
-2.
+2. sich nicht eines Verhaltens schuldig gemacht hat, aus dem sich die Unzuverlässigkeit zur Ausübung des Berufs ergibt,
 
-3.
+3. nicht in gesundheitlicher Hinsicht zur Ausübung des Berufs ungeeignet ist und
 
-4.
+4. über die für die Ausübung der Berufstätigkeit erforderlichen Kenntnisse der deutschen Sprache verfügt.
 
-(2) Eine außerhalb des Geltungsbereichs dieses Gesetzes erworbene abgeschlossene Ausbildung erfüllt die Voraussetzungen des Absatzes 1 Nr. 1, wenn die Gleichwertigkeit des Ausbildungsstandes gegeben ist. In die Prüfung der Gleichwertigkeit des Ausbildungsstandes sind die in anderen Staaten absolvierten Ausbildungsgänge oder die in anderen Staaten erworbene Berufserfahrung einzubeziehen. Die Gleichwertigkeit des Ausbildungsstandes im Sinne des Satzes 1 wird anerkannt, wenn Absatz 3 Satz 5 bis 7 gilt entsprechend. Ist die Gleichwertigkeit des Ausbildungsstandes nach den Sätzen 1 bis 3 nicht gegeben oder ist eine Prüfung der Gleichwertigkeit des Ausbildungsstandes nur mit unangemessenem zeitlichen oder sachlichen Aufwand möglich, weil die erforderlichen Unterlagen und Nachweise aus Gründen, die nicht in der Person der Antragsteller liegen, von diesen nicht vorgelegt werden können, ist ein gleichwertiger Kenntnisstand nachzuweisen. Dieser Nachweis wird durch eine Kenntnisprüfung, die sich auf den Inhalt der staatlichen Abschlussprüfung erstreckt, oder einen höchstens dreijährigen Anpassungslehrgang erbracht, der mit einer Prüfung über den Inhalt des Anpassungslehrgangs abschließt. Die Antragsteller haben das Recht, zwischen der Kenntnisprüfung und dem Anpassungslehrgang zu wählen.
+(2) Eine außerhalb des Geltungsbereichs dieses Gesetzes erworbene abgeschlossene Ausbildung erfüllt die Voraussetzungen des Absatzes 1 Nr. 1, wenn die Gleichwertigkeit des Ausbildungsstandes gegeben ist. In die Prüfung der Gleichwertigkeit des Ausbildungsstandes sind die in anderen Staaten absolvierten Ausbildungsgänge oder die in anderen Staaten erworbene Berufserfahrung einzubeziehen. Die Gleichwertigkeit des Ausbildungsstandes im Sinne des Satzes 1 wird anerkannt, wenn
 
-1.
+1. die Antragsteller einen Ausbildungsnachweis vorlegen, aus dem sich ergibt, dass sie bereits in einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes als Ergotherapeutin oder Ergotherapeut anerkannt wurden,
 
-2.
+2. sie über eine dreijährige Berufserfahrung in der Ergotherapie im Hoheitsgebiet des Mitgliedstaats, der den Ausbildungsnachweis anerkannt hat, verfügen und
 
-3.
+3. der Mitgliedstaat, der die Ausbildung anerkannt hat, diese Berufserfahrung bescheinigt oder wenn die Ausbildung der Antragsteller keine wesentlichen Unterschiede gegenüber der in diesem Gesetz und in der Ergotherapeuten-Ausbildungs- und Prüfungsverordnung geregelten Ausbildung aufweist.
 
-(3) Für Antragsteller, die eine Erlaubnis nach § 1 Abs. 1 anstreben, gilt die Voraussetzung des Absatzes 1 Nr. 1 als erfüllt, wenn aus einem Europäischen Berufsausweis oder aus einem in einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes erworbenen Diplom hervorgeht, dass der Inhaber eine Ausbildung erworben hat, die in diesem Staat für den unmittelbaren Zugang zu einem dem Beruf des Ergotherapeuten entsprechenden Beruf erforderlich ist. Diplome im Sinne dieses Gesetzes sind Ausbildungsnachweise gemäß Artikel 3 Abs. 1 Buchstabe c der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. EU Nr. L 255 S. 22, 2007 Nr. L 271 S. 18) in der jeweils geltenden Fassung, die mindestens dem in Artikel 11 Buchstabe b der Richtlinie 2005/36/EG genannten Niveau entsprechen und denen eine Bescheinigung des Herkunftsmitgliedstaats über das Ausbildungsniveau beigefügt ist. Satz 2 gilt auch für einen Ausbildungsnachweis oder eine Gesamtheit von Ausbildungsnachweisen, die von einer zuständigen Behörde in einem Mitgliedstaat ausgestellt wurden, sofern sie den erfolgreichen Abschluss einer in der Europäischen Union auf Voll- oder Teilzeitbasis im Rahmen formaler oder nichtformaler Ausbildungsprogramme erworbenen Ausbildung bescheinigen, von diesem Mitgliedstaat als gleichwertig anerkannt wurden und in Bezug auf die Aufnahme oder Ausübung des Berufs des Ergotherapeuten dieselben Rechte verleihen oder auf die Ausübung des Berufs des Ergotherapeuten vorbereiten. Satz 2 gilt ferner für Berufsqualifikationen, die zwar nicht den Erfordernissen der Rechts- oder Verwaltungsvorschriften des Herkunftsmitgliedstaats für die Aufnahme oder Ausübung des Berufs des Ergotherapeuten entsprechen, ihrem Inhaber jedoch nach dem Recht des Herkunftsmitgliedstaats erworbene Rechte nach den dort maßgeblichen Vorschriften verleihen. Antragsteller mit einem Ausbildungsnachweis aus einem Vertragsstaat des Europäischen Wirtschaftsraums haben einen höchstens dreijährigen Anpassungslehrgang zu absolvieren oder eine Eignungsprüfung abzulegen, wenn Fächer oder Bereiche der praktischen Ausbildung unterscheiden sich wesentlich, wenn die nachgewiesene Ausbildung des Antragstellers wesentliche inhaltliche Abweichungen hinsichtlich der Kenntnisse und Fähigkeiten aufweist, die eine wesentliche Voraussetzung für die Ausübung des Ergotherapeutenberufs in Deutschland sind. Wesentliche Unterschiede können ganz oder teilweise durch Kenntnisse und Fähigkeiten ausgeglichen werden, die der Antragsteller im Rahmen seiner tatsächlichen und rechtmäßigen Ausübung des Ergotherapeutenberufs in Voll- oder Teilzeit oder durch lebenslanges Lernen erworben hat, sofern die durch lebenslanges Lernen erworbenen Kenntnisse und Fähigkeiten von einer dafür in dem jeweiligen Staat zuständigen Stelle formell als gültig anerkannt wurden; dabei ist nicht entscheidend, in welchem Staat diese Kenntnisse und Fähigkeiten erworben worden sind. Die Antragsteller haben das Recht, zwischen dem Anpassungslehrgang und der Eignungsprüfung zu wählen. Die Regelungen dieses Absatzes gelten entsprechend für den Fall der Einführung eines Europäischen Berufsausweises für den Beruf des Ergotherapeuten.
+(3) Für Antragsteller, die eine Erlaubnis nach § 1 Abs. 1 anstreben, gilt die Voraussetzung des Absatzes 1 Nr. 1 als erfüllt, wenn aus einem Europäischen Berufsausweis oder aus einem in einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes erworbenen Diplom hervorgeht, dass der Inhaber eine Ausbildung erworben hat, die in diesem Staat für den unmittelbaren Zugang zu einem dem Beruf des Ergotherapeuten entsprechenden Beruf erforderlich ist. Diplome im Sinne dieses Gesetzes sind Ausbildungsnachweise gemäß Artikel 3 Abs. 1 Buchstabe c der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. EU Nr. L 255 S. 22, 2007 Nr. L 271 S. 18) in der jeweils geltenden Fassung, die mindestens dem in Artikel 11 Buchstabe b der Richtlinie 2005/36/EG genannten Niveau entsprechen und denen eine Bescheinigung des Herkunftsmitgliedstaats über das Ausbildungsniveau beigefügt ist. Satz 2 gilt auch für einen Ausbildungsnachweis oder eine Gesamtheit von Ausbildungsnachweisen, die von einer zuständigen Behörde in einem Mitgliedstaat ausgestellt wurden, sofern sie den erfolgreichen Abschluss einer in der Europäischen Union auf Voll- oder Teilzeitbasis im Rahmen formaler oder nichtformaler Ausbildungsprogramme erworbenen Ausbildung bescheinigen, von diesem Mitgliedstaat als gleichwertig anerkannt wurden und in Bezug auf die Aufnahme oder Ausübung des Berufs des Ergotherapeuten dieselben Rechte verleihen oder auf die Ausübung des Berufs des Ergotherapeuten vorbereiten. Satz 2 gilt ferner für Berufsqualifikationen, die zwar nicht den Erfordernissen der Rechts- oder Verwaltungsvorschriften des Herkunftsmitgliedstaats für die Aufnahme oder Ausübung des Berufs des Ergotherapeuten entsprechen, ihrem Inhaber jedoch nach dem Recht des Herkunftsmitgliedstaats erworbene Rechte nach den dort maßgeblichen Vorschriften verleihen. Antragsteller mit einem Ausbildungsnachweis aus einem Vertragsstaat des Europäischen Wirtschaftsraums haben einen höchstens dreijährigen Anpassungslehrgang zu absolvieren oder eine Eignungsprüfung abzulegen, wenn
 
-1.
+1. die Ausbildung des Antragstellers hinsichtlich der beruflichen Tätigkeit Fächer oder Bereiche der praktischen Ausbildung umfasst, die sich wesentlich von denen unterscheiden, die nach diesem Gesetz und nach der Ergotherapeuten-Ausbildungs- und Prüfungsverordnung vorgeschrieben sind, oder
 
-2.
+2. der Beruf des Ergotherapeuten eine oder mehrere reglementierte Tätigkeiten umfasst, die im Herkunftsstaat des Antragstellers nicht Bestandteil des Berufs sind, der dem des Ergotherapeuten entspricht, und wenn sich die Ausbildung für diese Tätigkeiten auf Fächer oder Bereiche der praktischen Ausbildung nach diesem Gesetz und nach der Ergotherapeuten-Ausbildungs- und Prüfungsverordnung bezieht, die sich wesentlich von denen unterscheiden, die von der Ausbildung des Antragstellers abgedeckt sind.
 
 (3a) Für Antragsteller, die über einen Ausbildungsnachweis verfügen, der dem in Artikel 11 Buchstabe a der Richtlinie 2005/36/EG genannten Niveau entspricht, gilt Absatz 3 Satz 5 bis 7 und 9 mit der Maßgabe, dass die erforderliche Ausgleichsmaßnahme abweichend von Absatz 3 Satz 8 aus einer Eignungsprüfung besteht.
 
@@ -68,25 +68,25 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz über
 
-1.
+1. den Widerruf oder die Rücknahme der Erlaubnis nach § 1, die sofort vollziehbar oder unanfechtbar sind,
 
-2.
+2. den Verzicht auf die Erlaubnis,
 
-3.
+3. das Verbot der Ausübung des Berufs des Ergotherapeuten durch unanfechtbare gerichtliche Entscheidung oder
 
-4.
+4. das vorläufige Berufsverbot durch gerichtliche Entscheidung.
 
-(2) Die Mitteilung nach Absatz 1 (Warnmitteilung) enthält folgende Angaben: Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage nach Eintritt der Unanfechtbarkeit einer Entscheidung nach Absatz 1 Nummer 1 oder Nummer 3, nach Bekanntgabe einer Entscheidung nach Absatz 1 Nummer 4 oder nach einem Verzicht nach Absatz 1 Nummer 2. Sie ist über das durch die Verordnung (EU) Nr. 1024/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 über die Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-Informationssystems und zur Aufhebung der Entscheidung 2008/49/EG der Kommission (ABl. L 316 vom 14.11.2012, S. 1) eingerichtete Binnenmarkt-Informationssystem (IMI) zu übermitteln. Zeitgleich mit der Warnmitteilung unterrichtet die Stelle, die die Warnmitteilung getätigt hat, die betroffene Person über die Warnmitteilung und deren Inhalt schriftlich unter Beifügung einer Rechtsbehelfsbelehrung. Wird ein Rechtsbehelf gegen die Warnmitteilung eingelegt, ergänzt die Stelle, die die Warnmitteilung getätigt hat, die Warnmitteilung um einen entsprechenden Hinweis.
+(2) Die Mitteilung nach Absatz 1 (Warnmitteilung) enthält folgende Angaben:
 
-1.
+1. die zur Identifizierung der betroffenen Person erforderlichen Angaben, insbesondere Name, Vorname, Geburtsdatum und Geburtsort,
 
-2.
+2. Beruf der betroffenen Person,
 
-3.
+3. Angaben über die Behörde oder das Gericht, die oder das die Entscheidung getroffen hat,
 
-4.
+4. Umfang der Entscheidung oder des Verzichts und
 
-5.
+5. Zeitraum, in dem die Entscheidung oder der Verzicht gilt.
 
 (3) Im Fall der Aufhebung einer in Absatz 1 genannten Entscheidung oder eines Widerrufs des Verzichts unterrichtet jeweils die zuständige Stelle die zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz unverzüglich unter Angabe des Datums über die Aufhebung der Entscheidung oder den Widerruf des Verzichts. Die zuständige Stelle unterrichtet die zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz ebenfalls unverzüglich über jede Änderung des nach Absatz 2 Satz 1 Nummer 5 angegebenen Zeitraums. Die zuständige Stelle löscht Warnmitteilungen nach Absatz 1 im IMI unverzüglich, spätestens jedoch innerhalb von drei Tagen nach der Aufhebung der Entscheidung oder Widerruf des Verzichts.
 
@@ -110,11 +110,11 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (2) Zur Ausbildung wird zugelassen, wer eine abgeschlossene Realschulbildung, eine andere gleichwertige Ausbildung oder eine nach Hauptschulabschluß abgeschlossene Berufsausbildung von mindestens zweijähriger Dauer nachweist.
 
-(3) Auf die Dauer der Ausbildung werden angerechnet: Auf Antrag können auch darüber hinausgehende Fehlzeiten berücksichtigt werden, soweit eine besondere Härte vorliegt und das Ausbildungsziel durch die Anrechnung nicht gefährdet wird.
+(3) Auf die Dauer der Ausbildung werden angerechnet:
 
-1.
+1. Unterbrechungen durch Ferien und
 
-2.
+2. Unterbrechungen durch Schwangerschaft, Krankheit oder aus anderen, vom Auszubildenden nicht zu vertretenden Gründen bis zur Gesamtdauer von zwölf Wochen.
 
 (4) Die zuständige Behörde kann auf Antrag eine andere Ausbildung im Umfange ihrer Gleichwertigkeit auf die Ausbildung für Ergotherapeuten anrechnen, wenn die Durchführung der Ausbildung und die Erreichung des Ausbildungsziels dadurch nicht gefährdet werden. Eine nach bundesgesetzlichen Vorschriften abgeschlossene Ausbildung als Krankengymnast oder Physiotherapeut oder eine nach landesrechtlichen Vorschriften abgeschlossene Ausbildung als Erzieher ist mit mindestens einem Jahr anzurechnen.
 
@@ -126,45 +126,45 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (2) In der Rechtsverordnung nach Absatz 1 ist für Inhaber von Ausbildungsnachweisen, die eine Erlaubnis nach § 2 Abs. 1 in Verbindung mit § 2 Absatz 2, 3, 3a oder Absatz 4 beantragen, zu regeln:
 
-1.
+1. das Verfahren bei der Prüfung der Voraussetzungen des § 2 Abs. 1 Nr. 2 und 3, insbesondere die Vorlage der vom Antragsteller vorzulegenden Nachweise und die Ermittlung durch die zuständige Behörde entsprechend Artikel 50 Absatz 1 bis 3a in Verbindung mit Anhang VII der Richtlinie 2005/36/EG,
 
-2.
+2. die Pflicht von Ausbildungsnachweisinhabern, nach Maßgabe des Artikels 52 Abs. 1 der Richtlinie 2005/36/EG die Berufsbezeichnung des Aufnahmemitgliedstaats zu führen und deren etwaige Abkürzung zu verwenden,
 
-3.
+3. die Fristen für die Erteilung der Erlaubnis,
 
-4.
+4. das Verfahren über die Voraussetzungen zur Dienstleistungserbringung gemäß § 1 Abs. 2 in Verbindung mit § 5a dieses Gesetzes,
 
-5.
+5. die Regelungen zu Durchführung und Inhalt der Anpassungsmaßnahmen nach § 2 Absatz 2 Satz 5 und Absatz 3 Satz 5,
 
-6.
+6. das Verfahren bei der Ausstellung eines Europäischen Berufsausweises.
 
 (3) Abweichungen von den in den Absätzen 1 und 2 sowie der auf dieser Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen. Abweichend von Satz 1 können die Länder Abweichungen von den durch Rechtsverordnung im Fall des § 81a des Aufenthaltsgesetzes erlassenen Fristenregelungen vorsehen.
 
 ### § 5a
 
-(1) Staatsangehörige eines Vertragsstaates des Europäischen Wirtschaftsraumes, die zur Ausübung des Berufs des Ergotherapeuten in einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes auf Grund einer nach deutschen Rechtsvorschriften abgeschlossenen Ausbildung oder auf Grund eines den Anforderungen des § 2 Abs. 3 entsprechenden Ausbildungsnachweises berechtigt sind und dürfen als Dienstleistungserbringer im Sinne des Artikels 50 des EG-Vertrages vorübergehend und gelegentlich ihren Beruf im Geltungsbereich dieses Gesetzes ausüben. Der vorübergehende und gelegentliche Charakter der Dienstleistungserbringung wird im Einzelfall beurteilt. In die Beurteilung sind die Dauer, Häufigkeit, regelmäßige Wiederkehr und Kontinuität der Dienstleistung einzubeziehen. Die Berechtigung nach Satz 1 besteht nicht, wenn die Voraussetzungen einer Rücknahme oder eines Widerrufs, die sich auf die Tatbestände nach § 2 Abs. 1 Nr. 2 oder 3 beziehen, vorliegen, eine entsprechende Maßnahme mangels deutscher Berufserlaubnis jedoch nicht erlassen werden kann. § 1 Abs. 2 Satz 3 gilt entsprechend.
+(1) Staatsangehörige eines Vertragsstaates des Europäischen Wirtschaftsraumes, die zur Ausübung des Berufs des Ergotherapeuten in einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes auf Grund einer nach deutschen Rechtsvorschriften abgeschlossenen Ausbildung oder auf Grund eines den Anforderungen des § 2 Abs. 3 entsprechenden Ausbildungsnachweises berechtigt sind und
 
-1.
+1. die in einem Mitgliedstaat rechtmäßig niedergelassen sind oder,
 
-2.
+2. wenn der Beruf des Ergotherapeuten oder die Ausbildung zu diesem Beruf im Niederlassungsmitgliedstaat nicht reglementiert ist, diesen Beruf während der vorhergehenden zehn Jahre mindestens ein Jahr in einem oder in mehreren Mitgliedstaaten rechtmäßig ausgeübt haben,
 
 (2) Wer im Sinne des Absatzes 1 Dienstleistungen erbringen will, hat dies der zuständigen Behörde vorher zu melden. Die Meldung hat schriftlich zu erfolgen. Sie ist einmal jährlich zu erneuern, wenn der Dienstleister beabsichtigt, während des betreffenden Jahres vorübergehend und gelegentlich Dienstleistungen im Geltungsbereich dieses Gesetzes zu erbringen.
 
-(3) Bei der erstmaligen Meldung der Dienstleistungserbringung oder im Falle wesentlicher Änderungen gegenüber der in den bisher vorgelegten Dokumenten bescheinigten Situation hat der Dienstleistungserbringer folgende Bescheinigungen nach den Nummern 1 bis 3 sowie die Erklärung nach Nummer 4 vorzulegen: Die für die Ausübung der Dienstleistung erforderlichen Kenntnisse der deutschen Sprache müssen vorliegen. Die zuständige Behörde prüft im Falle der erstmaligen Dienstleistungserbringung den Berufsqualifikationsnachweis gemäß Satz 1 Nr. 2 nach. § 2 Absatz 3 und 3a gilt entsprechend mit der Maßgabe, dass für wesentliche Unterschiede zwischen der beruflichen Qualifikation des Dienstleistungserbringers und der nach diesem Gesetz und der Ergotherapeuten-Ausbildungs- und Prüfungsverordnung geforderten Ausbildung Ausgleichsmaßnahmen nur gefordert werden dürfen, wenn die Unterschiede so groß sind, dass ohne den Nachweis der fehlenden Kenntnisse und Fähigkeiten die öffentliche Gesundheit gefährdet wäre. Soweit dies für die Beurteilung der Frage, ob wesentliche Unterschiede vorliegen, erforderlich ist, kann die zuständige Behörde bei der zuständigen Behörde des Niederlassungsmitgliedstaats Informationen über die Ausbildungsgänge des Dienstleisters anfordern. Der Ausgleich der fehlenden Kenntnisse und Fähigkeiten erfolgt durch eine Eignungsprüfung.
+(3) Bei der erstmaligen Meldung der Dienstleistungserbringung oder im Falle wesentlicher Änderungen gegenüber der in den bisher vorgelegten Dokumenten bescheinigten Situation hat der Dienstleistungserbringer folgende Bescheinigungen nach den Nummern 1 bis 3 sowie die Erklärung nach Nummer 4 vorzulegen:
 
-1.
+1. Staatsangehörigkeitsnachweis,
 
-2.
+2. Berufsqualifikationsnachweis,
 
-3.
+3. Bescheinigung über die rechtmäßige Niederlassung im Beruf des Ergotherapeuten in einem anderen Mitgliedstaat, die sich auch darauf erstreckt, dass dem Dienstleister die Ausübung seiner Tätigkeit zum Zeitpunkt der Vorlage der Bescheinigung nicht, auch nicht vorübergehend untersagt ist und keine Vorstrafen vorliegen, oder im Fall des Absatzes 1 Satz 1 Nummer 2 ein Nachweis in beliebiger Form darüber, dass der Dienstleister eine dem Beruf des Ergotherapeuten entsprechende Tätigkeit während der vorhergehenden zehn Jahre mindestens ein Jahr lang rechtmäßig in einem oder in mehreren Mitgliedstaaten ausgeübt hat und
 
-4.
+4. eine Erklärung des Dienstleisters, dass er über die zur Erbringung der Dienstleistung erforderlichen Kenntnisse der deutschen Sprache verfügt.
 
-(4) Staatsangehörigen eines Vertragsstaates des Europäischen Wirtschaftsraumes, die im Geltungsbereich dieses Gesetzes den Beruf des Ergotherapeuten auf Grund einer Erlaubnis nach § 1 Abs. 1 ausüben, sind auf Antrag für Zwecke der Dienstleistungserbringung in einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes Bescheinigungen darüber auszustellen, dass § 1 Abs. 2 Satz 3 gilt entsprechend.
+(4) Staatsangehörigen eines Vertragsstaates des Europäischen Wirtschaftsraumes, die im Geltungsbereich dieses Gesetzes den Beruf des Ergotherapeuten auf Grund einer Erlaubnis nach § 1 Abs. 1 ausüben, sind auf Antrag für Zwecke der Dienstleistungserbringung in einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes Bescheinigungen darüber auszustellen, dass
 
-1.
+1. sie als „Ergotherapeutin“ oder „Ergotherapeut“ rechtmäßig niedergelassen sind und ihnen die Ausübung ihrer Tätigkeiten nicht, auch nicht vorübergehend, untersagt ist,
 
-2.
+2. sie über die zur Ausübung der jeweiligen Tätigkeit erforderliche berufliche Qualifikation verfügen.
 
 ### § 5b
 
@@ -190,13 +190,13 @@ Ergotherapeutinnen und Ergotherapeuten im Sinne des § 5a haben beim Erbringen d
 
 ### § 7
 
-(1) Ordnungswidrig handelt, wer führt.
+(1) Ordnungswidrig handelt, wer
 
-1.
+1. ohne Erlaubnis nach § 1 die Berufsbezeichnung "Ergotherapeutin" oder "Ergotherapeut",
 
-2.
+2. ohne Erlaubnis nach § 8 Abs. 2 Satz 1 die Berufsbezeichnung "Beschäftigungstherapeut", "Beschäftigungstherapeutin", "Beschäftigungs- und Arbeitstherapeut (Ergotherapeut)" oder "Beschäftigungs- und Arbeitstherapeutin (Ergotherapeutin)" oder
 
-3.
+3. entgegen § 9 Abs. 3 Satz 2 die Berufsbezeichnung "Beschäftigungs- und Arbeitstherapeut" oder "Beschäftigungs- und Arbeitstherapeutin"
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zweitausendfünfhundert Euro geahndet werden.
 
@@ -206,11 +206,11 @@ Ergotherapeutinnen und Ergotherapeuten im Sinne des § 5a haben beim Erbringen d
 
 (1) Als Erlaubnis im Sinne des § 1 gelten:
 
-1.
+1. eine auf Grund der in § 10 bezeichneten Bestimmungen erteilte staatliche Anerkennung als "Beschäftigungstherapeut" oder "Beschäftigungstherapeutin",
 
-2.
+2. eine durch ein Prüfungs- und Anerkennungszeugnis der Höheren Fachschule für Beschäftigungs- und Arbeitstherapie (Ergotherapie) der Landeshauptstadt München vor Inkrafttreten dieses Gesetzes oder nach Inkrafttreten dieses Gesetzes auf Grund einer vor seinem Inkrafttreten begonnenen Ausbildung verliehene Anerkennung als "Beschäftigungs- und Arbeitstherapeut (Ergotherapeut)" oder "Beschäftigungs- und Arbeitstherapeutin (Ergotherapeutin)" und
 
-3.
+3. eine durch ein Prüfungs- und Anerkennungszeugnis der Städtischen Fachschule für Beschäftigungstherapie in München verliehene Anerkennung als "Beschäftigungstherapeut" oder "Beschäftigungstherapeutin".
 
 (2) Eine in Absatz 1 genannte Anerkennung gilt auch als Erlaubnis, statt der Berufsbezeichnung nach § 1 die durch die Anerkennung erworbene Berufsbezeichnung weiterzuführen. § 3 gilt entsprechend.
 
@@ -219,8 +219,6 @@ Ergotherapeutinnen und Ergotherapeuten im Sinne des § 5a haben beim Erbringen d
 (4) (gegenstandslos)
 
 ### § 8a
-
-(1) Eine vor dem 1. September 1991 nach der Anordnung über die staatliche Erlaubnis zur Ausübung der medizinischen, pharmazeutischen und sozialen Fachschul- und Facharbeiterberufe vom 7. August 1980 (GBl. I Nr. 26 S. 254) erteilte Erlaubnis als Arbeitstherapeutin oder Arbeitstherapeut oder eine einer solchen Erlaubnis gleichgestellte Erlaubnis gilt als Erlaubnis nach § 1. (2) Eine vor dem 1. September 1991 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet begonnene Ausbildung als Arbeitstherapeutin oder Arbeitstherapeut kann in diesem Gebiet nach den dort bisher geltenden Regeln abgeschlossen werden. Nach Abschluß der Ausbildung erhält der Antragsteller, wenn die Voraussetzungen des § 2 Abs. 1 Nr. 2 und 3 vorliegen, eine Erlaubnis nach § 1.
 
 ### § 8b
 

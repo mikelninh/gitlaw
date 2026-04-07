@@ -18,6 +18,8 @@ Für die Entwicklung des Entgeltkatalogs 2014 hat das Institut für das Entgelts
 
 ### § 11 — Inkrafttreten, Außerkrafttreten, Übergangsregelung
 
-(1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am Tag nach der Verkündung in Kraft.(2) Die §§ 1 bis 9 einschließlich der Anlagen zu dieser Verordnung treten am 1. Januar 2013 in Kraft und treten mit Ablauf des 31. Dezember 2013 außer Kraft. Kann der Entgeltkatalog 2014 erst nach dem 1. Januar 2014 angewendet werden, sind die §§ 1 bis 9 einschließlich der Anlagen zu dieser Verordnung bis zum Inkrafttreten einer Vereinbarung nach § 17d Absatz 3 des Krankenhausfinanzierungsgesetzes entsprechend weiter anzuwenden.
+(1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am Tag nach der Verkündung in Kraft.
+
+(2) Die §§ 1 bis 9 einschließlich der Anlagen zu dieser Verordnung treten am 1. Januar 2013 in Kraft und treten mit Ablauf des 31. Dezember 2013 außer Kraft. Kann der Entgeltkatalog 2014 erst nach dem 1. Januar 2014 angewendet werden, sind die §§ 1 bis 9 einschließlich der Anlagen zu dieser Verordnung bis zum Inkrafttreten einer Vereinbarung nach § 17d Absatz 3 des Krankenhausfinanzierungsgesetzes entsprechend weiter anzuwenden.
 
 ### (XXXX) Anlagen 1a bis 4 — (weggefallen)

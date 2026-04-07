@@ -15,11 +15,13 @@ Dem in Brüssel am 13. Mai 1975 unterzeichneten Abkommen zwischen der Bundesrepu
 
 ### Art 2
 
-(1) Die Bundesregierung und die Landesregierungen bestimmen in ihrem jeweiligen Geschäftsbereich die Behörden, die für die Beglaubigung nach Artikel 3 Abs. 1 und 2 des Abkommens zuständig sind (Artikel 3 Abs. 3 des Abkommens). Als zuständige Behörde kann auch der Präsident eines Gerichts bestimmt werden.(2) Rechtsverordnungen der Bundesregierung nach Absatz 1 bedürfen nicht der Zustimmung des Bundesrates.
+(1) Die Bundesregierung und die Landesregierungen bestimmen in ihrem jeweiligen Geschäftsbereich die Behörden, die für die Beglaubigung nach Artikel 3 Abs. 1 und 2 des Abkommens zuständig sind (Artikel 3 Abs. 3 des Abkommens). Als zuständige Behörde kann auch der Präsident eines Gerichts bestimmt werden.
+
+(2) Rechtsverordnungen der Bundesregierung nach Absatz 1 bedürfen nicht der Zustimmung des Bundesrates.
 
 ### Art 3
 
-Die Beglaubigung nach Artikel 3 Abs. 1 und 2 des Abkommens wird mit den entsprechenden Ergänzungen in der folgenden Form auf der Urkunde selbst oder auf einem mit der Urkunde zu verbindenden Blatt erteilt: Beglaubigung(Artikel 3 des Abkommens vom 13. Mai 1975 zwischen der BundesrepublikDeutschland und dem Königreich Belgien über die Befreiung öffentlicherUrkunden von der Legalisation)Diese öffentliche Urkunde ist unterschriebenvonin seiner/ihrer Eigenschaft alsund versehen mit dem Siegel oder Stempeldes/derDer/die ist zur Ausstellungöffentlicher Urkunden in Fällen der vorliegenden Art befugt. Bestätigtin amdurch Siegel Unterschrift Stempel
+Die Beglaubigung nach Artikel 3 Abs. 1 und 2 des Abkommens wird mit den entsprechenden Ergänzungen in der folgenden Form auf der Urkunde selbst oder auf einem mit der Urkunde zu verbindenden Blatt erteilt:
 
 ### Art 4
 
@@ -27,7 +29,9 @@ Wird dem Bundesverwaltungsamt ein Ersuchen nach Artikel 6 des Abkommens aus dem 
 
 ### Art 5
 
-(1) Ersuchen, mit denen außerhalb eines gerichtlichen oder behördlichen Verfahrens eine Nachprüfung nach Artikel 6 des Abkommens verlangt wird, werden dem Ministerium für Auswärtige Angelegenheiten des Königreichs Belgien durch den Präsidenten des Landgerichts übermittelt, in dessen Bezirk der Gesuchsteller seinen allgemeinen Gerichtsstand hat. Hat der Gesuchsteller keinen allgemeinen Gerichtsstand im Geltungsbereich dieses Gesetzes, ist das Ersuchen durch den Präsidenten des Landgerichts Berlin zu übermitteln.(2) Der Präsident des Landgerichts prüft, ob die in dem Abkommen geregelten Voraussetzungen vorliegen.
+(1) Ersuchen, mit denen außerhalb eines gerichtlichen oder behördlichen Verfahrens eine Nachprüfung nach Artikel 6 des Abkommens verlangt wird, werden dem Ministerium für Auswärtige Angelegenheiten des Königreichs Belgien durch den Präsidenten des Landgerichts übermittelt, in dessen Bezirk der Gesuchsteller seinen allgemeinen Gerichtsstand hat. Hat der Gesuchsteller keinen allgemeinen Gerichtsstand im Geltungsbereich dieses Gesetzes, ist das Ersuchen durch den Präsidenten des Landgerichts Berlin zu übermitteln.
+
+(2) Der Präsident des Landgerichts prüft, ob die in dem Abkommen geregelten Voraussetzungen vorliegen.
 
 ### Art 6
 
@@ -35,4 +39,6 @@ Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung die
 
 ### Art 7
 
-(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.(2) Der Tag, an dem das Abkommen nach seinem Artikel 12 Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
+(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
+
+(2) Der Tag, an dem das Abkommen nach seinem Artikel 12 Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.

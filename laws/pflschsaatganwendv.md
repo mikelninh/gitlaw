@@ -12,7 +12,9 @@ Auf Grund des § 19 Absatz 2 und des § 32 Absatz 4 Nummer 1 des Pflanzenschutzg
 
 ### § 1 — Verbot der Einfuhr und des Inverkehrbringens
 
-(1) Saatgut für Wintergetreide, das mit einem Pflanzenschutzmittel, das den Wirkstoff Clothianidin, Imidacloprid oder Thiamethoxam enthält, behandelt worden ist oder dem ein solches Pflanzenschutzmittel anhaftet, darf nicht eingeführt oder in Verkehr gebracht werden.(2) Abweichend von Absatz 1 darf Saatgut, das mit einem dort genannten Pflanzenschutzmittel behandelt worden ist oder dem ein solches Pflanzenschutzmittel anhaftet, an Händler oder Saatguterzeuger zur ordnungsgemäßen Entsorgung abgegeben werden.
+(1) Saatgut für Wintergetreide, das mit einem Pflanzenschutzmittel, das den Wirkstoff Clothianidin, Imidacloprid oder Thiamethoxam enthält, behandelt worden ist oder dem ein solches Pflanzenschutzmittel anhaftet, darf nicht eingeführt oder in Verkehr gebracht werden.
+
+(2) Abweichend von Absatz 1 darf Saatgut, das mit einem dort genannten Pflanzenschutzmittel behandelt worden ist oder dem ein solches Pflanzenschutzmittel anhaftet, an Händler oder Saatguterzeuger zur ordnungsgemäßen Entsorgung abgegeben werden.
 
 ### § 2 — Verbot der Aussaat
 

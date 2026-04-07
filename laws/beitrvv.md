@@ -33,19 +33,19 @@ Gesamtsozialversicherungsbeitrages und der Beitragsbemessungsgrenzen
 
 (1) Die Zahlungen der Arbeitgeber oder sonstiger Zahlungspflichtiger sind an die zuständige Einzugsstelle zu leisten. Als Tag der Zahlung gilt
 
-1.
+1. bei Barzahlung der Tag des Geldeingangs,
 
-2.
+2. bei Zahlung durch Scheck, bei Überweisung oder Einzahlung auf ein Konto der Einzugsstelle der Tag der Wertstellung zugunsten der Einzugsstelle,
 
-3.
+3. bei Vorliegen einer Einzugsermächtigung der Tag der Fälligkeit.
 
 (2) Zahlungen in fremder Währung und durch Wechsel sind nicht zugelassen.
 
-(3) Die nach § 28e Abs. 1 Satz 2 des Vierten Buches Sozialgesetzbuch als gezahlt geltenden Beiträge sind auf einem bei den von der Beitragszahlung freigestellten Leistungsträgern zu führenden Sachbuchkonto bei den Ist eine Krankenkasse der Arbeitgeber, ist der für die Pflegekasse bestimmte Anteil am Gesamtsozialversicherungsbeitrag auf dem entsprechenden Sachbuchkonto der Pflegekasse zu buchen.
+(3) Die nach § 28e Abs. 1 Satz 2 des Vierten Buches Sozialgesetzbuch als gezahlt geltenden Beiträge sind auf einem bei den von der Beitragszahlung freigestellten Leistungsträgern zu führenden Sachbuchkonto bei den
 
-1.
+1. Kranken- und Pflegekassen am Tag der Fälligkeit nach der Satzung,
 
-2.
+2. Trägern der Rentenversicherung und der Bundesagentur für Arbeit am Tag der Fälligkeit in Einnahme zu buchen.
 
 ### § 4 — Reihenfolge der Tilgung
 
@@ -56,13 +56,13 @@ Einzugsstelle
 
 ### § 5 — Weiterleitung
 
-(1) Die Einzugsstelle erteilt an jedem Arbeitstag Aufträge zur Überweisung der nach § 28k Abs. 1 des Vierten Buches Sozialgesetzbuch weiterzuleitenden Beiträge. Die Einzugsstelle ist verpflichtet, Werden die Beiträge vom Arbeitgeber im Wege des Lastschriftverfahrens eingezogen oder durch Scheck gezahlt, sind die Beiträge am Tag der Wertstellung auf dem Konto der Einzugsstelle in die Beiträge nach Satz 2 Nr. 3 einzubeziehen. Einzugsstellen mit dezentralem Beitragseinzug leiten die Beiträge zentral weiter; als Tag der Gutschrift im Sinne des Satzes 2 gilt der Tag der Gutschrift bei der Nebenstelle, als Tag der Wertstellung im Sinne des Satzes 3 gilt der Tag der Wertstellung bei der Nebenstelle. Ergibt sich am Monatsende eine Unter- oder Überzahlung, ist diese innerhalb einer Woche auszugleichen. Die Einzugsstelle kann mit den Zahlungsempfängern ein Verfahren über die Avise zu erwartender Zahlungen vereinbaren.
+(1) Die Einzugsstelle erteilt an jedem Arbeitstag Aufträge zur Überweisung der nach § 28k Abs. 1 des Vierten Buches Sozialgesetzbuch weiterzuleitenden Beiträge. Die Einzugsstelle ist verpflichtet,
 
-1.
+1. die vertraglichen Vereinbarungen mit ihrem Geldinstitut so zu gestalten, dass die Beiträge dem Konto der Einzugsstelle an dem Tag gutgeschrieben werden, an dem sie dem Geldinstitut gutgeschrieben werden,
 
-2.
+2. die Beiträge am Tag der Gutschrift auf ihrem Konto an die Träger der Rentenversicherung, Pflegeversicherung, den Gesundheitsfonds und die Bundesagentur für Arbeit durch Überweisung weiterzuleiten,
 
-3.
+3. die Buchungen auf ihrem Konto bei dem Geldinstitut elektronisch so abzufragen, dass die dort gutgeschriebenen Beiträge taggleich vor Bankannahmeschluss weitergeleitet werden können.
 
 (2) Die Einzugsstelle hat für die Weiterleitung der Beiträge zur sozialen Pflegeversicherung ein von Absatz 1 Satz 1 abweichendes Verfahren anzuwenden, wenn es für die Pflegekasse wirtschaftlicher als das Überweisungsverfahren ist.
 
@@ -96,129 +96,129 @@ Einzugsstelle
 
 ### § 8 — Entgeltunterlagen
 
-(1) Der Arbeitgeber hat in den Entgeltunterlagen folgende Angaben über den Beschäftigten aufzunehmen: Bestehen die Entgeltunterlagen aus mehreren Teilen, sind diese Teile durch ein betriebliches Ordnungsmerkmal zu verbinden. Die Angaben nach Satz 1 Nr. 10 bis 15 und 18 sind für jeden Entgeltabrechnungszeitraum erforderlich. Die Beträge nach Satz 1 Nr. 11 und 12 sind für die Meldungen zu summieren. Berichtigungen zu den Angaben nach Satz 1 Nr. 10 bis 15 und 18 oder Stornierungen sind besonders kenntlich zu machen. Die Angaben nach Satz 1 Nr. 8, 9 und 14 können verschlüsselt werden.
+(1) Der Arbeitgeber hat in den Entgeltunterlagen folgende Angaben über den Beschäftigten aufzunehmen:
 
-1.
+1. den Familien- und Vornamen und gegebenenfalls das betriebliche Ordnungsmerkmal,
 
-2.
+2. das Geburtsdatum,
 
-3.
+3. bei Ausländern aus Staaten außerhalb des Europäischen Wirtschaftsraums die Staatsangehörigkeit und den Aufenthaltstitel,
 
-4.
+4. die Anschrift,
 
-5.
+5. den Beginn und das Ende der Beschäftigung,
 
-6.
+6. den Beginn und das Ende der Altersteilzeitarbeit,
 
-7.
+7. das Wertguthaben aus flexibler Arbeitszeit einschließlich der Änderungen (Zu- und Abgänge), den Abrechnungsmonat der ersten Gutschrift sowie den Abrechnungsmonat für jede Änderung und einen Nachweis über die getroffenen Vorkehrungen zum Insolvenzschutz; bei auf Dritte übertragenen Wertguthaben sind diese beim Dritten zu kennzeichnen,
 
-8.
+8. die Beschäftigungsart,
 
-9.
+9. die für die Versicherungsfreiheit oder die Befreiung von der Versicherungspflicht maßgebenden Angaben,
 
-10.
+10. das Arbeitsentgelt nach § 14 des Vierten Buches Sozialgesetzbuch, seine Zusammensetzung und zeitliche Zuordnung, ausgenommen sind Sachbezüge und Belegschaftsrabatte, soweit für sie eine Aufzeichnungspflicht nach dem Einkommensteuergesetz nicht besteht,
 
-11.
+11. das beitragspflichtige Arbeitsentgelt bis zur Beitragsbemessungsgrenze der Rentenversicherung, seine Zusammensetzung und zeitliche Zuordnung,
 
-11a.
+11a. das in der Unfallversicherung beitragspflichtige Arbeitsentgelt, die anzuwendende Gefahrtarifstelle und die jeweilige zeitliche Zuordnung,
 
-12.
+12. den Betrag nach § 3 Abs. 1 Nr. 1 Buchstabe b des Altersteilzeitgesetzes,
 
-13.
+13. den Beitragsgruppenschlüssel,
 
-14.
+14. die Einzugsstelle für den Gesamtsozialversicherungsbeitrag,
 
-15.
+15. den vom Beschäftigten zu tragenden Anteil am Gesamtsozialversicherungsbeitrag, nach Beitragsgruppen getrennt,
 
-16.
+16. die für die Erstattung von Meldungen erforderlichen Daten, soweit sie in den Nummern 1 bis 14 nicht enthalten sind,
 
-17.
+17. bei Entsendung Eigenart und zeitliche Begrenzung der Beschäftigung,
 
-18.
+18. gezahltes Kurzarbeitergeld und die hierauf entfallenden beitragspflichtigen Einnahmen,
 
-19.
+19. Wertguthaben aus flexibler Arbeitszeit bis zum 31. Dezember 2009, für die noch Beiträge zur gesetzlichen Unfallversicherung zu entrichten sind.
 
-(2) Folgende Unterlagen sind in elektronischer Form zu den Entgeltunterlagen zu nehmen:In den Fällen des § 126 des Vierten Buches Sozialgesetzbuch kann weiterhin eine Prüfung von schriftlichen Unterlagen erfolgen.
+(2) Folgende Unterlagen sind in elektronischer Form zu den Entgeltunterlagen zu nehmen:
 
-1.
+1. Unterlagen, aus denen die nach Absatz 1 Satz 1 Nr. 3, 9 und 17 erforderlichen Angaben ersichtlich sind,
 
-2.
+2. die Arbeitserlaubnis der Bundesagentur für Arbeit nach § 15d der Beschäftigungsverordnung oder der nach § 19c Absatz 1 des Aufenthaltsgesetzes in Verbindung mit § 15d der Beschäftigungsverordnung erteilte Aufenthaltstitel,
 
-3.
+3. die Daten der erstatteten Meldungen,
 
-3a.
+3a. die Daten der von den Krankenkassen übermittelten Meldungen, die Auswirkungen auf die Beitragsberechnung des Arbeitgebers haben,
 
-4.
+4. die Erklärung des geringfügig Beschäftigten gegenüber dem Arbeitgeber, dass auf Versicherungsfreiheit in der Rentenversicherung verzichtet wird,
 
-4a.
+4a. der Antrag auf Befreiung von der Versicherungspflicht nach § 6 Absatz 1b des Sechsten Buches Sozialgesetzbuch, auf dem der Tag des Eingangs beim Arbeitgeber dokumentiert ist,
 
-5.
+5. (weggefallen)
 
-5a.
+5a. (weggefallen)
 
-6.
+6. eine Kopie der Niederschrift nach § 2 des Nachweisgesetzes sowie für Seefahrtbetriebe eine Kopie des Heuervertrages nach § 28 des Seearbeitsgesetzes,
 
-7.
+7. die Erklärung des kurzfristig geringfügigen Beschäftigten über weitere kurzfristige Beschäftigungen im Kalenderjahr oder die Erklärung des geringfügig entlohnten Beschäftigten über weitere Beschäftigungen sowie in beiden Fällen die Bestätigung, dass die Aufnahme weiterer Beschäftigungen dem Arbeitgeber anzuzeigen sind,
 
-7a.
+7a. der Nachweis eines Krankenversicherungsschutzes nach § 28a Absatz 9a des Vierten Buches Sozialgesetzbuch,
 
-8.
+8. eine Kopie des Antrags nach § 7a Absatz 1 des Vierten Buches Sozialgesetzbuch mit den von der Deutschen Rentenversicherung Bund für ihre Entscheidung benötigten Unterlagen, deren Bescheid nach § 7a Absatz 2 des Vierten Buches Sozialgesetzbuch, gutachterliche Äußerungen nach § 7a Absatz 4b des Vierten Buches Sozialgesetzbuch sowie eine Dokumentation, welchen Auftragnehmern er eine Kopie der gutachterlichen Äußerung nach § 7a Absatz 4b Satz 4 des Vierten Buches Sozialgesetzbuch ausgehändigt hat,
 
-9.
+9. den Bescheid der zuständigen Einzugsstelle über die Feststellung der Versicherungspflicht nach § 28h Abs. 2 des Vierten Buches Sozialgesetzbuch,
 
-10.
+10. die Entscheidung der Finanzbehörden, dass die vom Arbeitgeber getragenen oder übernommenen Studiengebühren für ein Studium des Beschäftigten steuerrechtlich kein Arbeitslohn sind,
 
-11.
+11. den Nachweis der Elterneigenschaft sowie den Nachweis über die Anzahl der zu berücksichtigenden Kinder nach § 55 Abs. 3 des Elften Buches Sozialgesetzbuch,
 
-12.
+12. die eine Kopie der Erklärung über den Auszahlungsverzicht von zustehenden Entgeltansprüchen,
 
-13.
+13. die Aufzeichnungen nach § 19 Absatz 1 des Arbeitnehmer-Entsendegesetzes und nach § 17 Absatz 1 des Mindestlohngesetzes,
 
-14.
+14. die Bescheinigung nach § 44a Absatz 5 des Elften Buches Sozialgesetzbuch, wenn die Beschäftigung wegen Bezugs von Pflegeunterstützungsgeld unterbrochen wird,
 
-15.
+15. die eine Kopie der Erklärung des oder der Beschäftigten zur Inanspruchnahme einer Pflegezeit im Sinne des § 3 des Pflegezeitgesetzes,
 
-16.
+16. für Seefahrtbetriebe die Besatzungslisten sowie Seetagebücher nach § 22 des Seearbeitsgesetzes, für Binnenschiffe die Schiffsatteste und für Schiffe der Rheinschifffahrt die Rheinschifffahrtszugehörigkeitsurkunde in Kopie,
 
-17.
+17. (weggefallen)
 
-18.
+18. die Daten der übermittelten Bescheinigungen nach den §§ 106 bis 106c des Vierten Buches Sozialgesetzbuch,
 
-18a.
+18a. bei einem Antrag auf Abschluss einer Ausnahmevereinbarung eine Erklärung, in welcher der Beschäftigte bestätigt, dass der Abschluss einer Ausnahmevereinbarung zur Geltung der deutschen Rechtsvorschriften nach Artikel 16 der Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 in seinem Interesse liegt,
 
-19.
+19. die Erklärung des Verzichts auf die Versicherungsfreiheit nach § 5 Absatz 4 Satz 2 oder § 230 Absatz 9 Satz 2 des Sechsten Buches Sozialgesetzbuch, auf der der Tag des Eingangs beim Arbeitgeber dokumentiert ist,
 
-20.
+20. die Zustimmung des Beschäftigten zum Zeitpunkt des Eintritts der Versicherungspflicht aufgrund Beschäftigung nach § 127 Absatz 1 Satz 1 Nummer 2 und Satz 2 des Vierten Buches Sozialgesetzbuch.
 
 (3) Die in Absatz 2 genannten Entgeltunterlagen, soweit sie nicht elektronisch aus der Abrechnung des Arbeitgebers entnommen werden können, sind dem Arbeitgeber von den zuständigen Stellen oder dem Beschäftigten in elektronischer Form zur Verfügung zu stellen. Bis zum 31. Dezember 2026 kann sich der Arbeitgeber von der Führung elektronischer Unterlagen auf Antrag bei dem für ihn zuständigen Prüfdienst der Deutschen Rentenversicherung nach § 28p des Vierten Buches Sozialgesetzbuch befreien lassen.
 
 ### § 9 — Beitragsabrechnung
 
-(1) Der Arbeitgeber hat zur Prüfung der Vollständigkeit der Entgeltabrechnung für jeden Abrechnungszeitraum ein Verzeichnis aller Beschäftigten in der Sortierfolge der Entgeltunterlagen mit den folgenden Angaben und nach Einzugsstellen getrennt elektronisch zu erfassen und lesbar zur Verfügung zu stellen; für die Beitragsgrundlage der Unfallversicherung erfolgt diese Erfassung nach Unternehmernummern nach § 136a des Siebten Buches Sozialgesetzbuch: Die Beträge nach Satz 1 Nummer 7 sind zu summieren und die hierauf entfallenden Beiträge zur Kranken-, Pflege- und Rentenversicherung anzugeben; die Beträge nach Satz 1 Nummer 6 sind nach Beitragsgruppen zu summieren; die Beträge nach Satz 1 Nummer 6a sind nach Gefahrtarifstellen zu summieren; aus den Einzelsummen ist die Gesamtsumme aller Beiträge zu bilden. Berichtigungen oder Stornierungen sind besonders zu kennzeichnen.
+(1) Der Arbeitgeber hat zur Prüfung der Vollständigkeit der Entgeltabrechnung für jeden Abrechnungszeitraum ein Verzeichnis aller Beschäftigten in der Sortierfolge der Entgeltunterlagen mit den folgenden Angaben und nach Einzugsstellen getrennt elektronisch zu erfassen und lesbar zur Verfügung zu stellen; für die Beitragsgrundlage der Unfallversicherung erfolgt diese Erfassung nach Unternehmernummern nach § 136a des Siebten Buches Sozialgesetzbuch:
 
-1.
+1. dem Familien- und Vornamen und gegebenenfalls dem betrieblichen Ordnungsmerkmal,
 
-2.
+2. dem beitragspflichtigen Arbeitsentgelt bis zur Beitragsbemessungsgrenze der Rentenversicherung,
 
-2a.
+2a. dem in der gesetzlichen Unfallversicherung beitragspflichtigen Arbeitsentgelt mit Arbeitsstunden in der angewendeten Gefahrtarifstelle bis zum gültigen Höchstjahresarbeitsverdienst des zuständigen Unfallversicherungsträgers,
 
-3.
+3. dem Betrag nach § 3 Absatz 1 Nummer 1 Buchstabe b des Altersteilzeitgesetzes,
 
-4.
+4. dem Beitragsgruppenschlüssel,
 
-5.
+5. den Sozialversicherungstagen,
 
-6.
+6. dem Gesamtsozialversicherungsbeitrag, nach Arbeitgeber- und Arbeitnehmeranteilen je Beitragsgruppe getrennt,
 
-6a.
+6a. der Summe der in der gesetzlichen Unfallversicherung beitragspflichtigen Arbeitsentgelte mit Arbeitsstunden je Gefahrtarifstelle und Anzahl der Versicherten getrennt,
 
-7.
+7. dem gezahlten Kurzarbeitergeld und den hierauf entfallenden beitragspflichtigen Einnahmen,
 
-8.
+8. den beitragspflichtigen Sonn-, Feiertags- und Nachtzuschlägen,
 
-9.
+9. den Umlagesätzen nach dem Aufwendungsausgleichsgesetz und dem umlagepflichtigen Arbeitsentgelt,
 
-10.
+10. den Parametern zur Berechnung der voraussichtlichen Höhe der Beitragsschuld.
 
 (2) Im Beitragsnachweis nach Absatz 1 sind Beschäftigte mit den Angaben nach Absatz 1 Satz 1 Nr. 1 und dem erzielten Arbeitsentgelt nach § 14 des Vierten Buches Sozialgesetzbuch gesondert zu erfassen, für die Beiträge nicht oder nach den Vorschriften des Übergangsbereichs (§ 20 Abs. 2 des Vierten Buches Sozialgesetzbuch) gezahlt werden. Sind Beitragsnachweise für mehrere Einzugsstellen zu erstellen, hat die Erfassung nach Satz 1 gesondert zu erfolgen.
 
@@ -230,7 +230,7 @@ Einzugsstelle
 
 ### § 9a — Gemeinsame Grundsätze
 
-Der Spitzenverband Bund der Krankenkassen, die Deutsche Rentenversicherung Bund, die Deutsche Rentenversicherung Knappschaft-Bahn-See, die Bundesagentur für Arbeit und die Deutsche Gesetzliche Unfallversicherung e. V. bestimmen in Gemeinsamen Grundsätzen bundeseinheitlich die Art und den Umfang der Speicherung, die Datensätze und das Weitere zum Verfahren für die Entgeltunterlagen nach § 8 und für die Beitragsabrechnung nach § 9. Die Gemeinsamen Grundsätze bedürfen der Genehmigung des Bundesministeriums für Arbeit und Soziales, das vorher die Bundesvereinigung der Deutschen Arbeitgeberverbände anzuhören hat.
+Der Spitzenverband Bund der Krankenkassen, die Deutsche Rentenversicherung Bund, die Deutsche Rentenversicherung Knappschaft-Bahn-See, die Bundesagentur für Arbeit und die Deutsche Gesetzliche Unfallversicherung e. V. bestimmen in Gemeinsamen Grundsätzen bundeseinheitlich die Art und den Umfang der Speicherung, die Datensätze und das Weitere zum Verfahren für die Entgeltunterlagen nach § 8 und für die Beitragsabrechnung nach § 9. Die Gemeinsamen Grundsätze bedürfen der Genehmigung des Bundesministeriums für Arbeit und Soziales, das vorher die Bundesvereinigung der Deutschen Arbeitgeberverbände anzuhören hat.
 
 ### § 10 — Mitwirkung
 
@@ -240,15 +240,15 @@ Der Spitzenverband Bund der Krankenkassen, die Deutsche Rentenversicherung Bund,
 
 (3) Bei Abrechnungsverfahren, die mit Hilfe automatischer Einrichtungen durchgeführt werden, hat der Arbeitgeber ein ordnungsmäßiges Verfahren zu gewährleisten. Eine Prüfung einzelner Geschäftsvorfälle wie auch des Abrechnungsverfahrens insgesamt muss möglich sein.
 
-(4) Das Abrechnungsverfahren ist einschließlich der Änderungen seit der letzten Prüfung zu dokumentieren. Aus der dazu erforderlichen Verfahrensdokumentation müssen Aufbau und Ablauf des Abrechnungsverfahrens vollständig ersichtlich sein, insbesondere Änderungen des Abrechnungsverfahrens sind in der Dokumentation so zu vermerken, dass die zeitliche Abgrenzung einzelner Verfahrensversionen ersichtlich ist.
+(4) Das Abrechnungsverfahren ist einschließlich der Änderungen seit der letzten Prüfung zu dokumentieren. Aus der dazu erforderlichen Verfahrensdokumentation müssen Aufbau und Ablauf des Abrechnungsverfahrens vollständig ersichtlich sein, insbesondere
 
-1.
+1. die Verarbeitungsregeln einschließlich Kontrollen und Abstimmverfahren,
 
-2.
+2. die Fehlerbehandlung,
 
-3.
+3. die Sicherung der ordnungsgemäßen Programmanwendung und
 
-4.
+4. die Organisation der manuellen Vor- oder Nachbehandlung von Daten.
 
 (5) (weggefallen)
 
@@ -280,71 +280,55 @@ Die Vorschriften dieses Abschnitts finden für die Prüfung der Entrichtung der 
 
 (1) Das bei der Deutschen Rentenversicherung Bund maschinell geführte Dateisystem (§ 28p Abs. 8 Satz 1 des Vierten Buches Sozialgesetzbuch) enthält über jeden der Beitragsüberwachung unterliegenden Arbeitgeber die für die Übersichten nach § 28p Abs. 7 des Vierten Buches Sozialgesetzbuch erforderlichen Daten sowie folgende Angaben:
 
-1.
+1. die Betriebsnummern und Gemeindeschlüssel der zu prüfenden Stellen (Beschäftigungsbetriebe des Arbeitgebers sowie andere Stellen, auf die sich die Prüfung nach § 28p Abs. 6 des Vierten Buches Sozialgesetzbuch erstreckt),
 
-2.
+2. deren Namen, Anschriften, Telefon- und Telefaxanschluss, E-Mail-Adresse,
 
-3.
+3. das Datum, bis zu dem der Arbeitgeber zuletzt geprüft wurde,
 
-4.
+4. das Datum der geplanten nächsten Prüfung,
 
-5.
+5. Angaben für besondere Behandlung:5.1Verlangen der zu prüfenden Stelle nach einem besonderen Prüfrhythmus,5.2Verlangen der Einzugsstellen nach alsbaldiger Prüfung und den Grund dafür, Verlangen der zu prüfenden Stelle nach einem besonderen Prüfrhythmus, Verlangen der Einzugsstellen nach alsbaldiger Prüfung und den Grund dafür,
 
-5.1
+6. die Bezeichnung der für Meldungen und Beitragsnachweise verwendeten EDV-Programme oder Ausfüllhilfen,
 
-5.2
+7. die Anzahl der pflichtversicherten Beschäftigten im Prüfzeitraum,
 
-6.
+8. die Anzahl der geringfügig Beschäftigten im Prüfzeitraum,
 
-7.
+9. die Bereichsnummer des für die Prüfung zuständigen Trägers der Rentenversicherung (§ 28p Abs. 2 Satz 2 des Vierten Buches Sozialgesetzbuch) sowie die Angabe "Trägerfirma einer Betriebskrankenkasse",
 
-8.
+10. die Betriebsnummern anderer Arbeitgeber, für die der Arbeitgeber abrechnet,
 
-9.
+11. den Wirtschaftszweig/die Branche des Arbeitgebers,
 
-10.
+11a. die Wirtschafts-Identifikationsnummer (§ 139c der Abgabenordnung) des Arbeitgebers, sofern diese noch nicht zugeteilt wurde, die Steuernummer des Arbeitgebers, und das zuständige Finanzamt,
 
-11.
+12. die Anzahl der aktuell Beschäftigten,
 
-11a.
+13. die Betriebsnummern der Einzugsstellen, an die Beiträge im Prüfzeitraum abzuführen waren,
 
-12.
+14. den Inhalt der Bescheide nach § 28p Abs. 1 Satz 5 und Absatz 1a Satz 5 des Vierten Buches Sozialgesetzbuch und der Mitteilung an den Unfallversicherungsträger über die Prüfung nach § 166 Abs. 2 des Siebten Buches Sozialgesetzbuch,
 
-13.
+15. aus den Mitteilungen der Behörden der Zollverwaltung über Prüfungen nach § 2 des Schwarzarbeitsbekämpfungsgesetzes:1.Datum und Aufbewahrungsort der Mitteilung,2.Name der meldenden Stelle,3.aus dem Inhalt der Mitteilung:3.1Meldepflichtverletzung (§ 28a des Vierten Buches Sozialgesetzbuch),3.2fehlende Entgeltunterlagen,3.3Verdacht der prüfenden Stelle auf Beitragshinterziehung, Verstöße gegen das Arbeitnehmer-Entsendegesetz, Datum und Aufbewahrungsort der Mitteilung, Name der meldenden Stelle, aus dem Inhalt der Mitteilung:3.1Meldepflichtverletzung (§ 28a des Vierten Buches Sozialgesetzbuch),3.2fehlende Entgeltunterlagen,3.3Verdacht der prüfenden Stelle auf Beitragshinterziehung, Verstöße gegen das Arbeitnehmer-Entsendegesetz, Meldepflichtverletzung (§ 28a des Vierten Buches Sozialgesetzbuch), fehlende Entgeltunterlagen, Verdacht der prüfenden Stelle auf Beitragshinterziehung, Verstöße gegen das Arbeitnehmer-Entsendegesetz,
 
-14.
+16. Informationen über gegen frühere Bescheide eingelegte Rechtsbehelfe und Rechtsmittel sowie über sozialgerichtliche Verfahren,
 
-15.
+17. die Angabe, dass der Arbeitgeber seine Bereitschaft zur Teilnahme an einer Sammel- oder Vorlageprüfung erklärt hat,
 
-1.
+18. die Tatsache und der Grund der Nichteinsichtnahme in die Bescheide und Prüfberichte der Finanzbehörden,
 
-2.
+19. die Angabe, dass Beschäftigte Entgeltzahlungen durch Dritte erhalten,
 
-3.
+20. die Angabe, ob der Arbeitgeber hinsichtlich der Melde- und Abgabepflicht nach dem Künstlersozialversicherungsgesetz zu prüfen ist, sowie Informationen zum Verfahrensstand hinsichtlich der Melde- und Abgabepflicht nach dem Künstlersozialversicherungsgesetz,
 
-3.1
+21. die Angabe, dass der Arbeitgeber die Bestätigung nach § 28p Absatz 1b Satz 5 des Vierten Buches Sozialgesetzbuch abgegeben hat,
 
-3.2
+21a. den Bescheid des Rentenversicherungsträgers über die Befreiung des Arbeitgebers nach § 8 Absatz 3 Satz 2,
 
-3.3
+22. die Bußgeldbescheide, die nach § 111 Absatz 1 Nummer 2, 3 bis 3b und 8, nach § 111 Absatz 2 des Vierten Buches Sozialgesetzbuch und nach § 98 Absatz 5 des Zehnten Buches Sozialgesetzbuch erlassen wurden,
 
-16.
-
-17.
-
-18.
-
-19.
-
-20.
-
-21.
-
-21a.
-
-22.
-
-23.
+23. über die Befreiung der elektronischen Übermittlung nach § 126 des Vierten Buches Sozialgesetzbuch.
 
 (2) Die Angaben nach Absatz 1 dürfen nur von dem zuständigen Träger der Rentenversicherung und der Datenstelle der Rentenversicherung und für Abfragen nach § 28q Abs. 5 Satz 2 des Vierten Buches Sozialgesetzbuch verarbeitet werden.
 

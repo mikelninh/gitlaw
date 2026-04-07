@@ -103,7 +103,7 @@ Der Bundespräsident ernennt die Gewählten.
 
 ### § 11
 
-(1) Die Richter des Bundesverfassungsgerichts leisten bei Antritt ihres Amtes vor dem Bundespräsidenten folgenden Eid: Wird der Eid durch eine Richterin geleistet, so treten an die Stelle der Worte "als gerechter Richter" die Worte "als gerechte Richterin".
+(1) Die Richter des Bundesverfassungsgerichts leisten bei Antritt ihres Amtes vor dem Bundespräsidenten folgenden Eid:
 
 (2) Bekennt sich der Richter zu einer Religionsgemeinschaft, deren Angehörigen das Gesetz die Verwendung einer anderen Beteuerungsformel gestattet, so kann er diese gebrauchen.
 
@@ -117,47 +117,47 @@ Die Richter des Bundesverfassungsgerichts können jederzeit ihre Entlassung aus 
 
 Das Bundesverfassungsgericht entscheidet
 
-1.
+1. über die Verwirkung von Grundrechten (Artikel 18 des Grundgesetzes),
 
-2.
+2. über die Verfassungswidrigkeit von Parteien (Artikel 21 Abs. 2 des Grundgesetzes),
 
-2a.
+2a. über den Ausschluss von Parteien von staatlicher Finanzierung (Artikel 21 Absatz 3 des Grundgesetzes),
 
-3.
+3. über Beschwerden gegen Entscheidungen des Bundestages, die die Gültigkeit einer Wahl oder den Erwerb oder Verlust der Mitgliedschaft eines Abgeordneten beim Bundestag betreffen (Artikel 41 Abs. 2 des Grundgesetzes),
 
-3a.
+3a. über Beschwerden von Vereinigungen gegen ihre Nichtanerkennung als Partei für die Wahl zum Bundestag (Artikel 94 Absatz 1 Nummer 4c des Grundgesetzes),
 
-4.
+4. über Anklagen des Bundestages oder des Bundesrates gegen den Bundespräsidenten (Artikel 61 des Grundgesetzes),
 
-5.
+5. über die Auslegung des Grundgesetzes aus Anlaß von Streitigkeiten über den Umfang der Rechte und Pflichten eines obersten Bundesorgans oder anderer Beteiligter, die durch das Grundgesetz oder in der Geschäftsordnung eines obersten Bundesorgans mit eigenen Rechten ausgestattet sind (Artikel 94 Absatz 1 Nummer 1 des Grundgesetzes),
 
-6.
+6. bei Meinungsverschiedenheiten oder Zweifeln über die förmliche oder sachliche Vereinbarkeit von Bundesrecht oder Landesrecht mit dem Grundgesetz oder die Vereinbarkeit von Landesrecht mit sonstigem Bundesrecht auf Antrag der Bundesregierung, einer Landesregierung oder eines Viertels der Mitglieder des Bundestages (Artikel 94 Absatz 1 Nummer 2 des Grundgesetzes),
 
-6a.
+6a. bei Meinungsverschiedenheiten, ob ein Gesetz den Voraussetzungen des Artikels 72 Abs. 2 des Grundgesetzes entspricht, auf Antrag des Bundesrates, einer Landesregierung oder der Volksvertretung eines Landes (Artikel 94 Absatz 1 Nummer 2a des Grundgesetzes),
 
-6b.
+6b. darüber, ob im Falle des Artikels 72 Abs. 4 die Erforderlichkeit für eine bundesgesetzliche Regelung nach Artikel 72 Abs. 2 nicht mehr besteht oder Bundesrecht in den Fällen des Artikels 125a Abs. 2 Satz 1 nicht mehr erlassen werden könnte, auf Antrag des Bundesrates, einer Landesregierung oder der Volksvertretung eines Landes (Artikel 94 Absatz 2 des Grundgesetzes),
 
-7.
+7. bei Meinungsverschiedenheiten über Rechte und Pflichten des Bundes und der Länder, insbesondere bei der Ausführung von Bundesrecht durch die Länder und bei der Ausübung der Bundesaufsicht (Artikel 94 Absatz 1 Nummer 3 und Artikel 84 Abs. 4 Satz 2 des Grundgesetzes),
 
-8.
+8. in anderen öffentlich-rechtlichen Streitigkeiten zwischen dem Bund und den Ländern, zwischen verschiedenen Ländern oder innerhalb eines Landes, soweit nicht ein anderer Rechtsweg gegeben ist (Artikel 94 Absatz 1 Nummer 4 des Grundgesetzes),
 
-8a.
+8a. über Verfassungsbeschwerden (Artikel 94 Absatz 1 Nummer 4a und 4b des Grundgesetzes),
 
-9.
+9. über Richteranklagen gegen Bundesrichter und Landesrichter (Artikel 98 Abs. 2 und 5 des Grundgesetzes),
 
-10.
+10. über Verfassungsstreitigkeiten innerhalb eines Landes, wenn diese Entscheidung durch Landesgesetz dem Bundesverfassungsgericht zugewiesen ist (Artikel 99 des Grundgesetzes),
 
-11.
+11. über die Vereinbarkeit eines Bundesgesetzes oder eines Landesgesetzes mit dem Grundgesetz oder die Vereinbarkeit eines Landesgesetzes oder sonstigen Landesrechts mit einem Bundesgesetz auf Antrag eines Gerichts (Artikel 100 Abs. 1 des Grundgesetzes),
 
-11a.
+11a. über die Vereinbarkeit eines Beschlusses des Deutschen Bundestages zur Einsetzung eines Untersuchungsausschusses mit dem Grundgesetz auf Vorlage nach § 36 Abs. 2 des Untersuchungsausschussgesetzes,
 
-12.
+12. bei Zweifeln darüber, ob eine Regel des Völkerrechts Bestandteil des Bundesrechts ist und ob sie unmittelbar Rechte und Pflichten für den einzelnen erzeugt, auf Antrag des Gerichts (Artikel 100 Abs. 2 des Grundgesetzes),
 
-13.
+13. wenn das Verfassungsgericht eines Landes bei der Auslegung des Grundgesetzes von einer Entscheidung des Bundesverfassungsgerichts oder des Verfassungsgerichts eines anderen Landes abweichen will, auf Antrag dieses Verfassungsgerichts (Artikel 100 Abs. 3 des Grundgesetzes),
 
-14.
+14. bei Meinungsverschiedenheiten über das Fortgelten von Recht als Bundesrecht (Artikel 126 des Grundgesetzes),
 
-15.
+15. in den ihm sonst durch Bundesgesetz zugewiesenen Fällen (Artikel 94 Absatz 3 des Grundgesetzes).
 
 ### § 14
 
@@ -201,11 +201,11 @@ Soweit in diesem Gesetz nichts anderes bestimmt ist, sind hinsichtlich der Öffe
 
 ### § 17a
 
-(1) Die Verhandlung vor dem Bundesverfassungsgericht einschließlich der Verkündung von Entscheidungen ist öffentlich. Ton- und Fernseh-Rundfunkaufnahmen sowie Ton- und Filmaufnahmen zum Zwecke der öffentlichen Vorführung oder der Veröffentlichung ihres Inhalts sind nur zulässig Die Tonübertragung in einen Arbeitsraum für Personen, die für Presse, Hörfunk, Fernsehen oder für andere Medien berichten, kann durch Anordnung des oder der Vorsitzenden zugelassen werden.
+(1) Die Verhandlung vor dem Bundesverfassungsgericht einschließlich der Verkündung von Entscheidungen ist öffentlich. Ton- und Fernseh-Rundfunkaufnahmen sowie Ton- und Filmaufnahmen zum Zwecke der öffentlichen Vorführung oder der Veröffentlichung ihres Inhalts sind nur zulässig
 
-1.
+1. in der mündlichen Verhandlung, bis das Gericht die Anwesenheit der Beteiligten festgestellt hat,
 
-2.
+2. bei der öffentlichen Verkündung von Entscheidungen.
 
 (2) Zur Wahrung schutzwürdiger Interessen der Beteiligten oder Dritter sowie eines ordnungsgemäßen Ablaufs des Verfahrens kann der oder die Vorsitzende die Aufnahmen nach Absatz 1 Satz 2 oder deren Übertragung sowie die Übertragung nach Absatz 1 Satz 3 ganz oder teilweise untersagen oder von der Einhaltung von Auflagen abhängig machen.
 
@@ -217,17 +217,17 @@ Soweit in diesem Gesetz nichts anderes bestimmt ist, sind hinsichtlich der Öffe
 
 (1) Ein Richter des Bundesverfassungsgerichts ist von der Ausübung seines Richteramtes ausgeschlossen, wenn er
 
-1.
+1. an der Sache beteiligt oder mit einem Beteiligten verheiratet ist oder war, eine Lebenspartnerschaft führt oder führte, in gerader Linie verwandt oder verschwägert oder in der Seitenlinie bis zum dritten Grade verwandt oder bis zum zweiten Grade verschwägert ist oder
 
-2.
+2. in derselben Sache bereits von Amts oder Berufs wegen tätig gewesen ist.
 
 (2) Beteiligt ist nicht, wer auf Grund seines Familienstandes, seines Berufs, seiner Abstammung, seiner Zugehörigkeit zu einer politischen Partei oder aus einem ähnlich allgemeinen Gesichtspunkt am Ausgang des Verfahrens interessiert ist.
 
 (3) Als Tätigkeit im Sinne des Absatzes 1 Nr. 2 gilt nicht
 
-1.
+1. die Mitwirkung im Gesetzgebungsverfahren,
 
-2.
+2. die Äußerung einer wissenschaftlichen Meinung zu einer Rechtsfrage, die für das Verfahren bedeutsam sein kann.
 
 ### § 19
 
@@ -271,17 +271,17 @@ Wenn das Verfahren von einer Personengruppe oder gegen eine Personengruppe beant
 
 (3) Das elektronische Dokument muss mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg eingereicht werden. Satz 1 gilt nicht für Anlagen. Soll ein schriftlich einzureichender Antrag oder eine schriftlich einzureichende Erklärung eines Beteiligten oder eines Dritten als elektronisches Dokument eingereicht werden, so kann der unterschriebene Antrag oder die unterschriebene Erklärung in ein elektronisches Dokument übertragen und durch den Bevollmächtigten, den Vertreter oder den Beistand nach Satz 1 übermittelt werden.
 
-(4) Sichere Übermittlungswege sind Für die Übermittlungswege gemäß Satz 1 Nummer 2 bis 4 gelten die näheren Regelungen der Elektronischer-Rechtsverkehr-Verordnung entsprechend.
+(4) Sichere Übermittlungswege sind
 
-1.
+1. der Übermittlungsweg zwischen den besonderen elektronischen Anwaltspostfächern nach den §§ 31a und 31b der Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen Postfach und der elektronischen Poststelle des Bundesverfassungsgerichts,
 
-2.
+2. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder einer juristischen Person des öffentlichen Rechts und der elektronischen Poststelle des Bundesverfassungsgerichts,
 
-3.
+3. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten elektronischen Postfach einer natürlichen oder juristischen Person oder einer sonstigen Vereinigung und der elektronischen Poststelle des Bundesverfassungsgerichts,
 
-4.
+4. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und der elektronischen Poststelle des Bundesverfassungsgerichts,
 
-5.
+5. sonstige bundeseinheitliche Übermittlungswege, die durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates festgelegt werden, bei denen die Authentizität und Integrität der Daten sowie die Barrierefreiheit gewährleistet sind.
 
 (5) Ein elektronisches Dokument ist eingegangen, sobald es auf der für den Empfang bestimmten Einrichtung des Bundesverfassungsgerichts gespeichert ist. Dem Absender ist eine automatisierte Bestätigung über den Zeitpunkt des Eingangs zu erteilen.
 
@@ -305,11 +305,11 @@ Soweit die handschriftliche Unterzeichnung durch den Richter, den Rechtspfleger 
 
 (3) Ist das elektronische Dokument mit einer qualifizierten elektronischen Signatur versehen und nicht auf einem sicheren Übermittlungsweg eingereicht, muss der Ausdruck einen Vermerk darüber enthalten,
 
-1.
+1. welches Ergebnis die Integritätsprüfung des Dokumentes ausweist,
 
-2.
+2. wen die Signaturprüfung als Inhaber der Signatur ausweist,
 
-3.
+3. welchen Zeitpunkt die Signaturprüfung für die Anbringung der Signatur ausweist.
 
 (4) Ein eingereichtes elektronisches Dokument kann nach Ablauf von sechs Monaten gelöscht werden.
 
@@ -425,11 +425,11 @@ Betreffen außerhalb des Verfahrens gestellte Anträge auf Auskunft aus oder Ein
 
 ### § 35b
 
-Auskunft aus oder Einsicht in Akten des Bundesverfassungsgerichts kann gewährt werden Einer Unterrichtung des Betroffenen von der Übermittlung seiner Daten bedarf es nicht; die Erteilung der Auskunft und die Gewährung der Akteneinsicht sind in der Akte zu vermerken. Auskunft oder Akteneinsicht kann auch gewährt werden, soweit der Betroffene eingewilligt hat.
+Auskunft aus oder Einsicht in Akten des Bundesverfassungsgerichts kann gewährt werden
 
-1.
+1. öffentlichen Stellen, soweit dies für Zwecke der Rechtspflege erforderlich ist oder die in § 23 Absatz 1 Nummer 2 bis 5 des Bundesdatenschutzgesetzes genannten Voraussetzungen vorliegen oder soweit dies zur Durchführung wissenschaftlicher Forschung erforderlich ist, das wissenschaftliche Interesse an der Durchführung des Forschungsvorhabens das Interesse des Betroffenen an dem Ausschluss der Zweckänderung erheblich überwiegt und der Zweck der Forschung auf andere Weise nicht oder nur mit unverhältnismäßigem Aufwand erreicht werden kann,
 
-2.
+2. Privatpersonen und anderen nichtöffentlichen Stellen einschließlich früherer Beteiligter nach Abschluss ihres Verfahrens, soweit sie ein berechtigtes Interesse darlegen und die datenschutzrechtlichen Belange Dritter gewahrt bleiben.
 
 (2) Akteneinsicht kann nur gewährt werden, wenn unter Angabe von Gründen dargelegt wird, daß die Erteilung einer Auskunft zur Erfüllung der Aufgaben der die Akteneinsicht begehrenden öffentlichen Stelle (Absatz 1 Satz 1 Nummer 1) oder zur Wahrnehmung des berechtigten Interesses der die Akteneinsicht begehenden Privatperson oder anderen nicht-öffentlichen Stelle (Absatz 1 Satz 1 Nummer 2) nicht ausreichen würde oder die Erteilung einer Auskunft einen unverhältnismäßigen Aufwand erfordern würde.
 
@@ -665,8 +665,6 @@ des § 13 Nr. 7
 
 ### § 68
 
-Antragsteller und Antragsgegner können nur sein: für den Bund die Bundesregierung, für ein Land die Landesregierung.
-
 ### § 69
 
 Die Vorschriften der §§ 64 bis 67 gelten entsprechend.
@@ -682,11 +680,11 @@ Der Beschluß des Bundesrates nach Artikel 84 Abs. 4 Satz 1 des Grundgesetzes ka
 
 (1) Antragsteller und Antragsgegner können nur sein
 
-1.
+1. bei öffentlich-rechtlichen Streitigkeiten gemäß Artikel 94 Absatz 1 Nummer 4 des Grundgesetzes zwischen dem Bund und den Ländern: die Bundesregierung und die Landesregierungen;
 
-2.
+2. bei öffentlich-rechtlichen Streitigkeiten gemäß Artikel 94 Absatz 1 Nummer 4 des Grundgesetzes zwischen den Ländern: die Landesregierungen;
 
-3.
+3. bei öffentlich-rechtlichen Streitigkeiten gemäß Artikel 94 Absatz 1 Nummer 4 des Grundgesetzes innerhalb eines Landes: die obersten Organe des Landes und die in der Landesverfassung oder in der Geschäftsordnung eines obersten Organs des Landes mit eigenen Rechten ausgestatteten Teile dieser Organe, wenn sie durch den Streitgegenstand in ihren Rechten oder Zuständigkeiten unmittelbar berührt sind.
 
 (2) Die Vorschrift des § 64 Abs. 3 gilt entsprechend.
 
@@ -694,11 +692,11 @@ Der Beschluß des Bundesrates nach Artikel 84 Abs. 4 Satz 1 des Grundgesetzes ka
 
 (1) Das Bundesverfassungsgericht kann in seiner Entscheidung erkennen auf
 
-1.
+1. die Zulässigkeit oder Unzulässigkeit einer Maßnahme,
 
-2.
+2. die Verpflichtung des Antragsgegners, eine Maßnahme zu unterlassen, rückgängig zu machen, durchzuführen oder zu dulden,
 
-3.
+3. die Verpflichtung, eine Leistung zu erbringen.
 
 (2) In dem Verfahren nach § 71 Abs. 1 Nr. 3 stellt das Bundesverfassungsgericht fest, ob die beanstandete Maßnahme oder Unterlassung des Antragsgegners gegen eine Bestimmung der Landesverfassung verstößt. Die Vorschriften des § 67 Satz 2 und 3 gelten entsprechend.
 
@@ -726,19 +724,19 @@ des § 13 Nr. 6 und 6a
 
 (1) Der Antrag der Bundesregierung, einer Landesregierung oder eines Viertels der Mitglieder des Bundestages gemäß Artikel 94 Absatz 1 Nummer 2 des Grundgesetzes ist nur zulässig, wenn der Antragsteller Bundes- oder Landesrecht
 
-1.
+1. wegen seiner förmlichen oder sachlichen Unvereinbarkeit mit dem Grundgesetz oder dem sonstigen Bundesrecht für nichtig hält oder
 
-2.
+2. für gültig hält, nachdem ein Gericht, eine Verwaltungsbehörde oder ein Organ des Bundes oder eines Landes das Recht als unvereinbar mit dem Grundgesetz oder sonstigem Bundesrecht nicht angewendet hat.
 
 (2) Der Antrag des Bundesrates, einer Landesregierung oder der Volksvertretung eines Landes gemäß Artikel 94 Absatz 1 Nummer 2a des Grundgesetzes ist nur zulässig, wenn der Antragsteller ein Bundesgesetz wegen Nichterfüllung der Voraussetzungen des Artikels 72 Abs. 2 des Grundgesetzes für nichtig hält; der Antrag kann auch darauf gestützt werden, daß der Antragsteller das Bundesgesetz wegen Nichterfüllung der Voraussetzungen des Artikels 75 Abs. 2 des Grundgesetzes für nichtig hält.
 
 ### § 77
 
-Das Bundesverfassungsgericht gibt binnen einer zu bestimmenden Frist Gelegenheit zur Äußerung.
+Das Bundesverfassungsgericht gibt
 
-1.
+1. in den Fällen des § 76 Abs. 1 dem Bundestag, dem Bundesrat, der Bundesregierung, bei Meinungsverschiedenheiten über die Gültigkeit von Bundesrecht auch den Landesregierungen und bei Meinungsverschiedenheiten über die Gültigkeit einer landesrechtlichen Norm der Volksvertretung und der Regierung des Landes, in dem die Norm verkündet wurde,
 
-2.
+2. in den Fällen des § 76 Abs. 2 dem Bundestag, dem Bundesrat, der Bundesregierung sowie den Volksvertretungen und Regierungen der Länder
 
 ### § 78
 
@@ -871,9 +869,9 @@ In der Begründung der Beschwerde sind das Recht, das verletzt sein soll, und di
 
 (2) Sie ist zur Entscheidung anzunehmen,
 
-a)
+a) soweit ihr grundsätzliche verfassungsrechtliche Bedeutung zukommt,
 
-b)
+b) wenn es zur Durchsetzung der in § 90 Abs. 1 genannten Rechte angezeigt ist; dies kann auch der Fall sein, wenn dem Beschwerdeführer durch die Versagung der Entscheidung zur Sache ein besonders schwerer Nachteil entsteht.
 
 ### § 93b
 
@@ -991,9 +989,9 @@ Die §§ 97a bis 97d gelten auch für Verfahren, die am 3. Dezember 2011 bereits
 
 (3) Ein Richter des Bundesverfassungsgerichts ist auf Antrag ohne Nachweis der Dienstunfähigkeit in den Ruhestand zu versetzen, wenn er sein Amt als Richter des Bundesverfassungsgerichts wenigstens sechs Jahre bekleidet hat und wenn er
 
-1.
+1. das 65. Lebensjahr vollendet hat oder
 
-2.
+2. schwerbehinderter Mensch im Sinne des § 2 des Neunten Buches Sozialgesetzbuch ist und das 60. Lebensjahr vollendet hat.
 
 (4) In den Fällen des Absatzes 3 gilt § 4 Abs. 4 sinngemäß.
 
@@ -1041,9 +1039,9 @@ Soweit in den §§ 98 bis 102 nichts anderes bestimmt ist, finden auf die Richte
 
 (1) Das Bundesverfassungsgericht kann den Bundespräsidenten ermächtigen,
 
-1.
+1. wegen dauernder Dienstunfähigkeit einen Richter des Bundesverfassungsgerichts in den Ruhestand zu versetzen;
 
-2.
+2. einen Richter des Bundesverfassungsgerichts zu entlassen, wenn er wegen einer entehrenden Handlung oder zu einer Freiheitsstrafe von mehr als sechs Monaten rechtskräftig verurteilt worden ist oder wenn er sich einer so groben Pflichtverletzung schuldig gemacht hat, daß sein Verbleiben im Amt ausgeschlossen ist.
 
 (2) Über die Einleitung des Verfahrens nach Absatz 1 entscheidet das Plenum des Bundesverfassungsgerichts.
 

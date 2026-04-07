@@ -25,7 +25,9 @@ Abweichend von § 53 Abs. 4 Satz 4 StVZO sind an Fahrzeugen, die vor dem 1. Apri
 
 ### § 4
 
-(1) Abweichend von § 53a Abs. 4 StVZO in Verbindung mit § 54 Abs. 3 StVZO darf bei Fahrzeugen, die vor dem 1. Januar 1970 erstmals in den Verkehr gekommen sind, das Warnblinklicht auch durch die vorhandenen Blinkleuchten für rotes Licht abgestrahlt werden.(2) An solchen Fahrzeugen darf das Warnblinklicht an der Rückseite anstatt durch die Blinkleuchten für rotes Licht durch zwei zusätzlich angebrachte Leuchten für gelbes Licht abgestrahlt werden.
+(1) Abweichend von § 53a Abs. 4 StVZO in Verbindung mit § 54 Abs. 3 StVZO darf bei Fahrzeugen, die vor dem 1. Januar 1970 erstmals in den Verkehr gekommen sind, das Warnblinklicht auch durch die vorhandenen Blinkleuchten für rotes Licht abgestrahlt werden.
+
+(2) An solchen Fahrzeugen darf das Warnblinklicht an der Rückseite anstatt durch die Blinkleuchten für rotes Licht durch zwei zusätzlich angebrachte Leuchten für gelbes Licht abgestrahlt werden.
 
 ### § 5
 

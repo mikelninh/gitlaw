@@ -16,43 +16,39 @@ Auf Grund des § 16 Satz 1 des Krankenhausfinanzierungsgesetzes vom 29. Juni 197
 
 (2) Die Verordnung gilt nicht für
 
-1.
+1. die Krankenhäuser, auf die das Krankenhausfinanzierungsgesetz nach seinem § 3 Satz 1 Nr. 1 bis 4 keine Anwendung findet,
 
-2.
+2. die Krankenhäuser, die nach § 5 Abs. 1 Nr. 2, 4 oder 7 des Krankenhausfinanzierungsgesetzes nicht gefördert werden, es sei denn, daß diese Krankenhäuser auf Grund Landesrechts nach § 5 Abs. 2 des Krankenhausfinanzierungsgesetzes gefördert werden.
 
 ### § 2 — Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind
 
-1.
+1. Anlagegüter die Wirtschaftsgüter des zum Krankenhaus gehörenden Anlagevermögens,
 
-2.
+2. Gebrauchsgüter die Anlagegüter mit einer durchschnittlichen Nutzungsdauer bis zu drei Jahren (Verzeichnis I der Anlage),
 
-3.
+3. Verbrauchsgüter die Wirtschaftsgüter, die durch ihre bestimmungsgemäße Verwendung aufgezehrt oder unverwendbar werden oder die ausschließlich von einem Patienten genutzt werden und üblicherweise bei ihm verbleiben. Als Verbrauchsgüter gelten auch die wiederbeschafften, abnutzbaren beweglichen Anlagegüter, die einer selbständigen Nutzung fähig sind und deren Anschaffungs- oder Herstellungskosten für das einzelne Anlagegut ohne Umsatzsteuer 150 Euro nicht übersteigen.
 
 ### § 3 — Zuordnungsgrundsätze
 
 (1) Pflegesatzfähig sind
 
-1.
+1. die Kosten der Wiederbeschaffung von Gebrauchsgütern anteilig entsprechend ihrer Abschreibung,
 
-2.
+2. sonstige Investitionskosten und ihnen gleichstehende Kosten nach Maßgabe der §§ 17 des Krankenhausfinanzierungsgesetzes und des § 8 der Bundespflegesatzverordnung in der am 31. Dezember 2012 geltenden Fassung,
 
-3.
+3. die Kosten der Anschaffung oder Herstellung von Verbrauchsgütern,
 
-4.
+4. die Kosten der Instandhaltung von Anlagegütern nach Maßgabe des § 4.
 
-(2) Nicht pflegesatzfähig sind Absatz 1 Nr. 2 bleibt unberührt.
+(2) Nicht pflegesatzfähig sind
 
-1.
+1. die Kostena)der Errichtung und Erstausstattung von Krankenhäusern mit Ausnahme der Kosten nach Absatz 1 Nr. 3,b)der Ergänzung von Anlagegütern, soweit diese über die übliche Anpassung der vorhandenen Anlagegüter an die medizinische und technische Entwicklung wesentlich hinausgeht, der Errichtung und Erstausstattung von Krankenhäusern mit Ausnahme der Kosten nach Absatz 1 Nr. 3, der Ergänzung von Anlagegütern, soweit diese über die übliche Anpassung der vorhandenen Anlagegüter an die medizinische und technische Entwicklung wesentlich hinausgeht,
 
-a)
+2. die Kosten der Wiederbeschaffung von Anlagegütern mit einer durchschnittlichen Nutzungsdauer von mehr als drei Jahren (Verzeichnis II der Anlage) mit Ausnahme der Anlagegüter, die nach § 2 Nr. 3 Satz 2 als Verbrauchsgüter gelten,
 
-b)
-
-2.
-
-3.
+3. (weggefallen)
 
 (3) Die durchschnittliche Nutzungsdauer eines Anlageguts ist auf der Grundlage der Nutzungsdauer bei einschichtigem Betrieb zu ermitteln.
 
@@ -62,11 +58,11 @@ b)
 
 (1) Instandhaltungskosten sind die Kosten der Erhaltung oder Wiederherstellung von Anlagegütern des Krankenhauses, wenn dadurch das Anlagegut in seiner Substanz nicht wesentlich vermehrt, in seinem Wesen nicht erheblich verändert, seine Nutzungsdauer nicht wesentlich verlängert oder über seinen bisherigen Zustand hinaus nicht deutlich verbessert wird.
 
-(2) Zu den Kosten nach Absatz 1 gehören auch die Instandhaltungskosten für Anlagegüter, wenn vollständig oder überwiegend ersetzt werden (Verzeichnis III der Anlage). Für die Beurteilung des überwiegenden Ersetzens sind Maßnahmen, die im Rahmen eines einheitlichen Vorhabens in einem Zeitraum bis zu drei Jahren durchgeführt werden, zusammenzurechnen. Die nach Satz 1 abgegrenzten Kosten werden nach § 17 Absatz 4b Satz 3 des Krankenhausfinanzierungsgesetzes pauschal finanziert.
+(2) Zu den Kosten nach Absatz 1 gehören auch die Instandhaltungskosten für Anlagegüter, wenn
 
-1.
+1. in baulichen Einheiten Gebäudeteile, betriebstechnische Anlagen und Einbauten oder
 
-2.
+2. Außenanlagen
 
 ### § 5 — (weggefallen)
 
@@ -82,36 +78,4 @@ b)
 
 ### Schlußformel
 
-Der Bundesminister für Arbeit und Sozialordnung
-
 ### Anlage
-
-Gebrauchsgüter im Sinne von § 2 Nr. 2 sind zum Beispiel Das gilt nicht, soweit diese Güter nach § 2 Nr. 3 Satz 2 als Verbrauchsgüter gelten.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-Anlagegüter im Sinne von § 3 Abs. 2 Satz 1 Nr. 2 sind zum Beispiel Das gilt nicht, soweit diese Güter nach § 2 Nr. 3 Satz 2 als Verbrauchsgüter gelten.
-
-1.
-
-2.
-
-3.
-
-Im Sinne der Vorschrift des § 4 Nr. 2 über die Abgrenzung der Instandhaltungskosten sind
-
-1.
-
-2.
-
-3.
-
-4.

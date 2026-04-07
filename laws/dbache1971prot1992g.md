@@ -18,8 +18,6 @@ Dem in Bern am 21. Dezember 1992 unterzeichneten Protokoll zu dem Abkommen vom 1
 
 ### Art 2
 
-Zur Anwendung des Artikels 4 Absatz 5 des Abkommens gilt folgendes: Endet nach Artikel 4 Abs. 5 des Abkommens die unbeschränkte Steuerpflicht und ist von diesem Zeitpunkt an nur noch Vermögensteuer für das Inlandsvermögen im Sinne des § 121 Abs. 2 des Bewertungsgesetzes zu erheben, ist eine Nachveranlagung auf den Zeitpunkt vorzunehmen, der dem Tage folgt, an dem die unbeschränkte Vermögensteuerpflicht endet. Die auf die Dauer der unbeschränkten und der beschränkten Steuerpflicht entfallende Vermögensteuer ist nach der jeweiligen Jahressteuer zeitanteilig zu berechnen.
-
 ### Art 3
 
 Zur Anwendung des Artikels 15a des Abkommens gilt folgendes:

@@ -11,7 +11,13 @@ Nach § 27 Absatz 1 des Abgeordnetengesetzes in der Fassung der Bekanntmachung v
 
 ### § 1 — Übertragung der Zuständigkeit für die Festsetzung von Leistungen nach der Bundesbeihilfeverordnung sowie für damit zusammenhängende Widerspruchs- und Klageverfahren
 
-(1) Dem Bundesverwaltungsamt werden die Zuständigkeiten für die Prüfung, Festsetzung und Auszahlungen von Zuschüssen zu den notwendigen Kosten in Krankheits-, Pflege- und Geburtsfällen in sinngemäßer Anwendung der für Bundesbeamte geltenden Vorschriften nach der Bundesbeihilfeverordnung übertragen, soweit Mitglieder des Bundestages, ehemalige Mitglieder des Bundestages und des Europäischen Parlaments sowie deren Hinterbliebene betroffen sind.(2) Das Bundesverwaltungsamt entscheidet als Festsetzungsstelle.(3) Für die Angelegenheiten nach Absatz 1 besitzt das Bundesverwaltungsamt auch die Zuständigkeit für Widerspruchsverfahren.(4) Der Präsidentin oder dem Präsidenten des Bundesverwaltungsamtes wird die Vertretung der Bundesrepublik Deutschland in verwaltungsgerichtlichen Verfahren in Angelegenheiten nach Absatz 1 übertragen.
+(1) Dem Bundesverwaltungsamt werden die Zuständigkeiten für die Prüfung, Festsetzung und Auszahlungen von Zuschüssen zu den notwendigen Kosten in Krankheits-, Pflege- und Geburtsfällen in sinngemäßer Anwendung der für Bundesbeamte geltenden Vorschriften nach der Bundesbeihilfeverordnung übertragen, soweit Mitglieder des Bundestages, ehemalige Mitglieder des Bundestages und des Europäischen Parlaments sowie deren Hinterbliebene betroffen sind.
+
+(2) Das Bundesverwaltungsamt entscheidet als Festsetzungsstelle.
+
+(3) Für die Angelegenheiten nach Absatz 1 besitzt das Bundesverwaltungsamt auch die Zuständigkeit für Widerspruchsverfahren.
+
+(4) Der Präsidentin oder dem Präsidenten des Bundesverwaltungsamtes wird die Vertretung der Bundesrepublik Deutschland in verwaltungsgerichtlichen Verfahren in Angelegenheiten nach Absatz 1 übertragen.
 
 ### § 2 — Übergangsregelung
 

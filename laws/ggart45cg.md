@@ -17,7 +17,9 @@ Für die bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffe
 
 ### § 3
 
-(1) Aktenvorlage, Auskunft sowie der Zutritt zu Einrichtungen dürfen nur verweigert werden, wenn der Vorgang nach einem Gesetz geheimgehalten werden muß oder sonstige zwingende Geheimhaltungsgründe bestehen.(2) Über die Verweigerung entscheidet die zuständige oberste Aufsichtsbehörde des Bundes. Die Entscheidung ist zu begründen.
+(1) Aktenvorlage, Auskunft sowie der Zutritt zu Einrichtungen dürfen nur verweigert werden, wenn der Vorgang nach einem Gesetz geheimgehalten werden muß oder sonstige zwingende Geheimhaltungsgründe bestehen.
+
+(2) Über die Verweigerung entscheidet die zuständige oberste Aufsichtsbehörde des Bundes. Die Entscheidung ist zu begründen.
 
 ### § 4
 

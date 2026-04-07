@@ -16,7 +16,9 @@ Die Hinterbliebenen eines Bundespräsidenten oder eines ehemaligen Bundespräsid
 
 ### § 3
 
-(1) Ist ein Bundespräsident nach seinem Ausscheiden in den öffentlichen Dienst eingetreten oder hat er darin vor dem Antritt seines Amtes als Bundespräsident oder nach seinem Ausscheiden aus diesem Amt ein Ruhegehalt oder eine ruhegehaltähnliche Versorgung erdient, so erhält er die ihm nach § 1 zustehenden Bezüge nur insoweit, als sie das neue Diensteinkommen oder das Ruhegehalt oder die ruhegehaltähnliche Versorgung für denselben Zeitraum übersteigen.(2) Absatz 1 findet auf die Hinterbliebenen entsprechende Anwendung.
+(1) Ist ein Bundespräsident nach seinem Ausscheiden in den öffentlichen Dienst eingetreten oder hat er darin vor dem Antritt seines Amtes als Bundespräsident oder nach seinem Ausscheiden aus diesem Amt ein Ruhegehalt oder eine ruhegehaltähnliche Versorgung erdient, so erhält er die ihm nach § 1 zustehenden Bezüge nur insoweit, als sie das neue Diensteinkommen oder das Ruhegehalt oder die ruhegehaltähnliche Versorgung für denselben Zeitraum übersteigen.
+
+(2) Absatz 1 findet auf die Hinterbliebenen entsprechende Anwendung.
 
 ### § 4
 

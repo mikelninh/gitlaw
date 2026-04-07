@@ -19,4 +19,8 @@ An der deutsch-österreichischen Grenze werden an den Grenzübergängen Pfronten
 
 ### § 2
 
-(1) Diese Verordnung tritt mit Wirkung vom 1. August 1996 in Kraft.(2) Diese Verordnung tritt an dem Tage außer Kraft, an dem die Vereinbarung vom 3. Juli 1996/18. Juli 1996 außer Kraft tritt.(3) Der Tag des Außerkrafttretens ist im Bundesgesetzblatt bekanntzugeben.
+(1) Diese Verordnung tritt mit Wirkung vom 1. August 1996 in Kraft.
+
+(2) Diese Verordnung tritt an dem Tage außer Kraft, an dem die Vereinbarung vom 3. Juli 1996/18. Juli 1996 außer Kraft tritt.
+
+(3) Der Tag des Außerkrafttretens ist im Bundesgesetzblatt bekanntzugeben.

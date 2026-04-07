@@ -13,11 +13,11 @@ Auf Grund des § 32 Absatz 2 Satz 1 der Strafprozessordnung, der durch Artikel 1
 
 Diese Verordnung ist anzuwenden auf elektronisch geführte Strafverfahrensakten
 
-1.
+1. des Generalbundesanwalts beim Bundesgerichtshof;
 
-2.
+2. der Finanzbehörden des Bundes in Ermittlungsverfahren nach § 386 Absatz 2 der Abgabenordnung und § 14a des Schwarzarbeitsbekämpfungsgesetzes;
 
-3.
+3. des Bundesgerichtshofs.
 
 ### § 2 — Struktur und Format elektronischer Akten; Repräsentat
 

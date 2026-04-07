@@ -18,15 +18,15 @@ Auf Grund des § 3 Absatz 1 des Geräte- und Produktsicherheitsgesetzes vom 6. J
 
 (3) Diese Verordnung gilt nicht für folgende Spielzeuge:
 
-1.
+1. Spielplatzgeräte zur öffentlichen Nutzung,
 
-2.
+2. Spielautomaten, münzbetrieben und nicht münzbetrieben, wenn diese nicht ausschließlich privat genutzt werden,
 
-3.
+3. Spielzeugfahrzeuge, die mit Verbrennungsmotoren ausgerüstet sind,
 
-4.
+4. Spielzeugdampfmaschinen sowie
 
-5.
+5. Schleudern und Zwillen.
 
 (4) Insbesondere § 30 des Lebensmittel- und Futtermittelgesetzbuchs und § 39 des Strahlenschutzgesetzes sowie die besonderen Anforderungen an die Verwendung bestimmter Stoffe in Spielzeugen nach § 3 Absatz 1 und 3 der Elektro- und Elektronikgeräte-Stoff-Verordnung bleiben unberührt.
 
@@ -34,63 +34,63 @@ Auf Grund des § 3 Absatz 1 des Geräte- und Produktsicherheitsgesetzes vom 6. J
 
 Im Sinne dieser Verordnung
 
-1.
+1. ist Aktivitätsspielzeug, ein Spielzeug zur Verwendung im Haushalt, dessen tragende Struktur während der Aktivität ortsfest bleibt und das für folgende Aktivitäten von Kindern bestimmt ist: Klettern, Springen, Schwingen, Rutschen, Schaukeln, Drehen, Kriechen oder Krabbeln oder eine Kombination dieser Tätigkeiten;
 
-2.
+2. ist bauartbedingte Höchstgeschwindigkeit die repräsentative Betriebsgeschwindigkeit, die ein Spielzeug aufgrund seiner Bauart erreichen kann;
 
-3.
+3. ist Bereitstellung auf dem Markt jede entgeltliche oder unentgeltliche Abgabe eines Spielzeugs zum Vertrieb, Verbrauch oder zur Verwendung auf dem Markt der Europäischen Union im Rahmen einer Geschäftstätigkeit;
 
-4.
+4. ist Bevollmächtigter jede in der Europäischen Union ansässige natürliche oder juristische Person, die der Hersteller schriftlich beauftragt hat, in seinem Namen bestimmte Aufgaben wahrzunehmen;
 
-5.
+5. ist Brettspiel für den Geruchssinn ein Spielzeug, dessen Zweck darin besteht, Kindern dabei zu helfen, das Erkennen verschiedener Gerüche oder Düfte zu erlernen;
 
-6.
+6. ist CE-Kennzeichnung die Kennzeichnung, durch die der Hersteller erklärt, dass das Produkt den geltenden Anforderungen genügt, die in den Harmonisierungsrechtsvorschriften der Europäischen Union über ihre Anbringung festgelegt sind;
 
-7.
+7. ist chemisches Spielzeug ein Spielzeug, das für den direkten Umgang mit chemischen Stoffen und Gemischen bei altersgemäßer Verwendung unter der Aufsicht von Erwachsenen bestimmt ist;
 
-8.
+8. ist Einführer jede in der Europäischen Union ansässige natürliche oder juristische Person, die ein Spielzeug aus einem Staat, der nicht dem Europäischen Wirtschaftsraum angehört, in den Verkehr bringt;
 
-9.
+9. ist funktionelles Produkt ein Produkt, das auf die gleiche Art und Weise wie ein Produkt, ein Gerät oder eine Anlage funktioniert und benutzt wird, das oder die zum Gebrauch durch Erwachsene bestimmt ist; dabei kann es sich um ein maßstabsgetreues Kleinmodell eines derartigen Produkts oder Gerätes oder einer derartigen Anlage handeln;
 
-10.
+10. ist funktionelles Spielzeug ein Spielzeug, das dieselben Funktionen erfüllt und so benutzt wird wie ein Produkt, ein Gerät oder eine Einrichtung, das oder die zum Gebrauch für Erwachsene bestimmt ist. Dabei kann es sich um ein maßstabsgetreues Kleinmodell eines derartigen Produkts oder Gerätes oder einer derartigen Einrichtung handeln;
 
-11.
+11. ist Gefahr die mögliche Ursache eines Schadens;
 
-12.
+12. ist Händler jede natürliche oder juristische Person in der Lieferkette, die ein Spielzeug auf dem Markt bereitstellt, mit Ausnahme des Herstellers und des Einführers;
 
-13.
+13. ist harmonisierte Norm eine Norm, die von einem der in Anhang I der Richtlinie 98/34/EG des Europäischen Parlaments und des Rates vom 22. Juni 1998 über ein Informationsverfahren auf dem Gebiet der Normen und technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L 204 vom 21.7.1998, S. 37), zuletzt geändert durch die Richtlinie 2006/96/EG des Rates (ABl. L 363 vom 20.12.2006, S. 81), anerkannten europäischen Normungsgremien auf der Grundlage eines Ersuchens der Kommission nach Artikel 6 jener Richtlinie erstellt wurde;
 
-14.
+14. sind Harmonisierungsrechtsvorschriften der Gemeinschaft Rechtsvorschriften der Gemeinschaft zur Harmonisierung der Bedingungen für die Vermarktung von Produkten;
 
-15.
+15. ist Hersteller jede natürliche oder juristische Person, die ein Spielzeug herstellt oder entwickeln oder herstellen lässt und dieses Spielzeug unter ihrem eigenen Namen oder ihrer eigenen Marke auf dem Markt bereitstellt;
 
-16.
+16. ist Inverkehrbringen die erstmalige Bereitstellung eines Spielzeugs auf dem Markt;
 
-17.
+17. ist Konformitätsbewertung das Verfahren zur Bewertung, ob spezifische Anforderungen an ein Spielzeug erfüllt worden sind;
 
-18.
+18. ist Konformitätsbewertungsstelle eine Stelle, die Konformitätsbewertungstätigkeiten einschließlich Kalibrierungen, Prüfungen, Zertifizierungen und Inspektionen durchführt;
 
-19.
+19. ist Kosmetikkoffer ein Spielzeug, dessen Zweck darin besteht, Kindern dabei zu helfen, Produkte wie Parfüme, Seifen, Cremes, Shampoos, Badeschaum, Lippenglanzstifte, Lippenstifte, Make-up, Zahnpasta und Haarfestiger herzustellen;
 
-20.
+20. ist Marktüberwachung jede von den zuständigen Behörden durchgeführte Tätigkeit und von ihnen getroffene Maßnahme, durch die sichergestellt werden soll, dass die Spielzeuge mit den Anforderungen dieser Verordnung übereinstimmen und die Sicherheit und Gesundheit von Menschen oder andere im öffentlichen Interesse schützenswerte Bereiche nicht gefährden;
 
-21.
+21. ist Risiko die Eintrittswahrscheinlichkeit einer Gefahr, die einen Schaden verursacht, und die Schwere des Schadens;
 
-22.
+22. ist Rücknahme jede Maßnahme, mit der verhindert werden soll, dass ein Spielzeug, das sich in der Lieferkette befindet, auf dem Markt bereitgestellt wird;
 
-23.
+23. ist Rückruf jede Maßnahme, die darauf abzielt, die Rückgabe eines dem Endverbraucher auf dem Markt bereitgestellten Spielzeugs zu erwirken;
 
-23a.
+23a. ist Schaden eine körperliche Verletzung oder jede sonstige Gesundheitsbeeinträchtigung, auch langfristiger Natur;
 
-24.
+24. ist Spiel für den Geschmackssinn ein Spielzeug, dessen Zweck darin besteht, dass Kinder unter Verwendung von Lebensmittelzutaten wie Süßstoffen, Flüssigkeiten, Pulver und Aromen Süßigkeiten oder andere Speisen herstellen können;
 
-24a.
+24a. sind Spielzeug alle Produkte, die ausschließlich oder nicht ausschließlich dazu bestimmt oder gestaltet sind, von Personen unter 14 Jahren für den Gebrauch beim Spielen verwendet zu werden;
 
-25.
+25. ist Wasserspielzeug ein Spielzeug, das zur Benutzung im flachen Wasser bestimmt ist und dazu geeignet ist, ein Kind auf dem Wasser zu tragen oder über Wasser zu halten;
 
-26.
+26. sind Wirtschaftsakteur der Hersteller, Bevollmächtigte, Einführer und Händler;
 
-27.
+27. ist „Zur Verwendung durch Kinder der angegebenen Altersgruppe bestimmt“ eine Formulierung, die darauf hinweist, dass Eltern oder Aufsichtspersonen aufgrund der Funktionen, Abmessungen und Eigenschaften eines Spielzeugs vernünftigerweise davon ausgehen können, dass es zur Verwendung durch Kinder der angegebenen Altersgruppe bestimmt ist.
 
 ### § 3 — Allgemeine Pflichten der Hersteller
 
@@ -124,11 +124,11 @@ Im Sinne dieser Verordnung
 
 (2) Ein Bevollmächtigter nimmt die ihm vom Hersteller übertragenen Aufgaben für diesen wahr. Ein Hersteller, der einen Bevollmächtigten einsetzt, muss diesem mindestens die folgenden Aufgaben übertragen:
 
-1.
+1. Bereithaltung der EG-Konformitätserklärung und der technischen Unterlagen für die Marktüberwachungsbehörden über einen Zeitraum von zehn Jahren ab dem Inverkehrbringen des letzten Stücks der Spielzeugserie,
 
-2.
+2. auf begründetes Verlangen einer zuständigen Marktüberwachungsbehörde Aushändigung aller erforderlichen Informationen und Unterlagen an diese zum Nachweis der Konformität eines Spielzeugs und
 
-3.
+3. auf begründetes Verlangen einer zuständigen Marktüberwachungsbehörde Zusammenarbeit mit dieser bei allen Maßnahmen zur Beseitigung der Risiken, die mit Spielzeugen verbunden sind.
 
 (3) Die Verpflichtungen gemäß § 3 Absatz 1 und die Erstellung der technischen Unterlagen gemäß § 17 können vom Hersteller nicht auf einen Bevollmächtigten übertragen werden.
 
@@ -136,15 +136,15 @@ Im Sinne dieser Verordnung
 
 (1) Einführer dürfen nur konformes Spielzeug in den Verkehr bringen.
 
-(2) Bevor ein Einführer ein Spielzeug in den Verkehr bringt, muss er sicherstellen, dass das betreffende Konformitätsbewertungsverfahren vom Hersteller durchgeführt wurde. Der Einführer darf ein Spielzeug erst in den Verkehr bringen, wenn Besteht Grund zu der Annahme, dass ein Spielzeug nicht mit den Anforderungen nach § 10 dieser Verordnung und Anhang II der Richtlinie 2009/48/EG übereinstimmt, darf ein Einführer dieses Spielzeug nicht in den Verkehr bringen, bevor die Konformität des Spielzeugs mit diesen Anforderungen hergestellt ist. Wenn mit dem Spielzeug ein Risiko verbunden ist, unterrichtet der Einführer den Hersteller und die zuständigen Marktüberwachungsbehörden der Mitgliedstaaten, in denen sie das Spielzeug auf dem Markt bereitgestellt haben, hierüber.
+(2) Bevor ein Einführer ein Spielzeug in den Verkehr bringt, muss er sicherstellen, dass das betreffende Konformitätsbewertungsverfahren vom Hersteller durchgeführt wurde. Der Einführer darf ein Spielzeug erst in den Verkehr bringen, wenn
 
-1.
+1. der Hersteller die technischen Unterlagen erstellt hat,
 
-2.
+2. das Spielzeug mit der erforderlichen Konformitätskennzeichnung versehen ist,
 
-3.
+3. dem Spielzeug die erforderlichen Unterlagen beigefügt sind und
 
-4.
+4. der Hersteller die Anforderungen gemäß § 4 Absatz 1 und 2 erfüllt hat.
 
 (3) Solange sich ein Spielzeug in seinem Verantwortungsbereich befindet, ist jeder Einführer dafür verantwortlich, dass die Lagerungs- oder Transportbedingungen nicht die Übereinstimmung des Spielzeugs mit den Anforderungen nach § 10 dieser Verordnung und Anhang II der Richtlinie 2009/48/EG beeinträchtigen.
 
@@ -156,13 +156,13 @@ Im Sinne dieser Verordnung
 
 (1) Händler müssen die geltenden Anforderungen an die Vermarktung von Spielzeug mit der erforderlichen Sorgfalt berücksichtigen, wenn sie Spielzeug auf dem Markt bereitstellen.
 
-(2) Bevor sie ein Spielzeug auf dem Markt bereitstellen, haben die Händler zu überprüfen, ob Besteht Grund zu der Annahme, dass ein Spielzeug nicht mit den Anforderungen nach § 10 dieser Verordnung und Anhang II der Richtlinie 2009/48/EG übereinstimmt, darf der Händler dieses Spielzeug erst auf dem Markt bereit stellen, nachdem es mit diesen Anforderungen in Übereinstimmung gebracht wurde. Wenn mit dem Spielzeug ein Risiko verbunden ist, hat der Händler außerdem den Hersteller oder den Einführer sowie die für den Händler zuständige Marktüberwachungsbehörde darüber zu unterrichten.
+(2) Bevor sie ein Spielzeug auf dem Markt bereitstellen, haben die Händler zu überprüfen, ob
 
-1.
+1. das Spielzeug mit der erforderlichen Konformitätskennzeichnung versehen ist,
 
-2.
+2. dem Spielzeug die erforderlichen Unterlagen sowie die Gebrauchsanleitung und Sicherheitsinformationen in deutscher Sprache beigefügt sind und
 
-3.
+3. der Hersteller und der Einführer die Anforderungen von § 4 Absatz 1 und 2 sowie von § 6 Absatz 5 Satz 2 erfüllt haben.
 
 (3) Händler, die der Auffassung sind oder Grund zu der Annahme haben, dass ein von ihnen auf dem Markt bereitgestelltes Spielzeug nicht den einschlägigen Harmonisierungsrechtsvorschriften der Gemeinschaft entspricht, stellen sicher, dass die erforderlichen Korrekturmaßnahmen ergriffen werden, um die Übereinstimmung dieses Spielzeugs mit diesen Anforderungen herzustellen, das Spielzeug erforderlichenfalls zurückzunehmen oder es zurückzurufen. § 3 Absatz 5 Satz 2 gilt entsprechend.
 
@@ -174,11 +174,11 @@ Ein Einführer oder Händler gilt für die Zwecke dieser Verordnung als Herstell
 
 ### § 9 — Identifizierung der Wirtschaftsakteure
 
-Die Wirtschaftsakteure benennen den Marktüberwachungsbehörden auf deren Verlangen diejenigen Wirtschaftsakteure, Der Hersteller muss die in Satz 1 genannten Informationen über einen Zeitraum von zehn Jahren ab dem Inverkehrbringen bereithalten. Die übrigen Wirtschaftsakteure müssen die in Satz 1 genannten Informationen über einen Zeitraum von zehn Jahren nach dem Bezug des Spielzeugs bereithalten.
+Die Wirtschaftsakteure benennen den Marktüberwachungsbehörden auf deren Verlangen diejenigen Wirtschaftsakteure,
 
-1.
+1. von denen sie ein Spielzeug bezogen haben und
 
-2.
+2. an die sie ein Spielzeug abgegeben haben.
 
 ### § 10 — Wesentliche Sicherheitsanforderungen
 
@@ -206,11 +206,11 @@ Die Wirtschaftsakteure benennen den Marktüberwachungsbehörden auf deren Verlan
 
 (1) Die EG-Konformitätserklärung besagt, dass die Erfüllung der Anforderungen, die in § 10 dieser Verordnung und Anhang II der Richtlinie 2009/48/EG genannt sind, nachgewiesen wurde.
 
-(2) Die EG-Konformitätserklärung enthält mindestens die Elemente, die angegeben sind in Sie ist auf dem neuesten Stand zu halten. Die EG-Konformitätserklärung entspricht in ihrem Aufbau dem Muster in Anhang III der Richtlinie 2009/48/EG. Sie ist in deutscher Sprache abzufassen. Sie wird in die Sprache oder die Sprachen übersetzt, die von dem Mitgliedstaat der Europäischen Union vorgeschrieben sind, in dem das Spielzeug in den Verkehr gebracht oder auf dessen Markt es bereitgestellt wird.
+(2) Die EG-Konformitätserklärung enthält mindestens die Elemente, die angegeben sind in
 
-1.
+1. Anhang III der Richtlinie 2009/48/EG und
 
-2.
+2. den einschlägigen Modulen des Beschlusses Nr. 768/2008/EG des Europäischen Parlaments und des Rates über einen gemeinsamen Rechtsrahmen für die Vermarktung von Produkten und zur Aufhebung des Beschlusses 93/465/EWG des Rates vom 9. Juli 2008 (ABl. L 218 vom 13.8.2008, S. 82).
 
 (3) Mit der Ausstellung der EG-Konformitätserklärung übernimmt der Hersteller die Verantwortung für die Konformität des Spielzeugs.
 
@@ -234,13 +234,13 @@ Die Hersteller führen vor dem Inverkehrbringen eines Spielzeugs eine Analyse de
 
 (3) Das Spielzeug wird der EG-Baumusterprüfung gemäß § 16 in Verbindung mit dem Verfahren der Konformität mit der Bauart nach Anhang II Modul C des Beschlusses Nr. 768/2008/EG unterzogen, wenn
 
-1.
+1. keine harmonisierten Normen existieren, deren Fundstellen im Amtsblatt der Europäischen Union veröffentlicht worden sind und die alle einschlägigen Sicherheitsanforderungen für das Spielzeug abdecken,
 
-2.
+2. die in Nummer 1 genannten harmonisierten Normen existieren, der Hersteller sie aber nicht oder nur teilweise angewendet hat,
 
-3.
+3. die in Nummer 1 genannten harmonisierten Normen nur mit einem Vorbehalt veröffentlicht worden sind oder eine sonstige harmonisierte Norm nur mit einem Vorbehalt veröffentlicht worden ist oder
 
-4.
+4. der Hersteller der Ansicht ist, dass Art, Gestaltung, Konstruktion oder Zweckbestimmung des Spielzeugs eine Überprüfung durch Dritte erfordern.
 
 ### § 16 — EG-Baumusterprüfung
 
@@ -280,61 +280,57 @@ Ergreifen die zuständigen Behörden in dieser Verordnung geregelte Maßnahmen o
 
 (2) Der betreffende Wirtschaftsakteur hat sicher zu stellen, dass sich die Korrekturmaßnahmen, die er ergreift, auf sämtliche Spielzeuge erstrecken, die er auf dem Markt bereitgestellt hat.
 
-(3) Ergreift der betreffende Wirtschaftsakteur innerhalb der ihm in Absatz 1 Satz 3 gesetzten Frist keine angemessenen Korrekturmaßnahmen, treffen die Marktüberwachungsbehörden die erforderlichen Maßnahmen gemäß § 7 Absatz 1 und § 8 Absatz 2 des Marktüberwachungsgesetzes und unterrichten die Kommission und die übrigen Mitgliedstaaten der Europäischen Union hierüber.
+(3) Ergreift der betreffende Wirtschaftsakteur innerhalb der ihm in Absatz 1 Satz 3 gesetzten Frist keine angemessenen Korrekturmaßnahmen, treffen die Marktüberwachungsbehörden die erforderlichen Maßnahmen gemäß § 7 Absatz 1 und § 8 Absatz 2 des Marktüberwachungsgesetzes und unterrichten die Kommission und die übrigen Mitgliedstaaten der Europäischen Union hierüber.
 
-(4) Die Meldung nach § 17 Absatz 2 Satz 1 des Marktüberwachungsgesetzes beinhaltet alle verfügbaren Angaben. Sie beinhaltet insbesondere
+(4) Die Meldung nach § 17 Absatz 2 Satz 1 des Marktüberwachungsgesetzes beinhaltet alle verfügbaren Angaben. Sie beinhaltet insbesondere
 
-1.
+1. die Daten für die Identifizierung des nichtkonformen Spielzeugs,
 
-2.
+2. die Herkunft des Spielzeugs,
 
-3.
+3. die Art der behaupteten Nichtkonformität und des Risikos,
 
-4.
+4. die Art und Dauer der ergriffenen Maßnahmen und
 
-5.
+5. die Ursachen der Nichtkonformität, insbesondere ob diese darauf zurückzuführen ist, dass a)das Spielzeug die in dieser Verordnung festgelegten Anforderungen hinsichtlich des Schutzes der Gesundheit von Menschen nicht erfüllt oderb)die angewandten harmonisierten Normen, deren Fundstellen im Amtsblatt der Europäischen Union veröffentlicht worden sind, mangelhaft sind sowie das Spielzeug die in dieser Verordnung festgelegten Anforderungen hinsichtlich des Schutzes der Gesundheit von Menschen nicht erfüllt oder die angewandten harmonisierten Normen, deren Fundstellen im Amtsblatt der Europäischen Union veröffentlicht worden sind, mangelhaft sind sowie
 
-a)
-
-b)
-
-6.
+6. die Argumente des betroffenen Wirtschaftsakteurs.
 
 ### § 21 — Informationsaustausch
 
 Handelt es sich bei einer in § 20 Absatz 3 genannten Maßnahme um eine Maßnahme, die gemäß Artikel 22 der Verordnung (EG) Nr. 765/2008 gemeldet werden muss, so ist eine gesonderte Unterrichtung gemäß § 20 Absatz 3 nicht erforderlich, wenn:
 
-1.
+1. in der Meldung gemäß § 17 Absatz 3 Satz 2 des Marktüberwachungsgesetzes darauf hingewiesen wird, dass auch die vorliegende Verordnung die Notifizierung der Maßnahme vorschreibt, und
 
-2.
+2. die in § 20 Absatz 4 genannten Belege der Meldung gemäß § 17 Absatz 3 Satz 2 des Marktüberwachungsgesetzes beiliegen.
 
 ### § 22 — Straftaten und Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
+(1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 3 Absatz 2 Satz 1 eine technische Unterlage nach Anhang IV der Richtlinie 2009/48/EG nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt oder ein dort genanntes Konformitätsbewertungsverfahren nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig durchführt und nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig durchführen lässt,
 
-2.
+2. entgegen § 4 Absatz 1 nicht sicherstellt, dass Spielzeug mit einem dort genannten Kennzeichen versehen ist oder dass eine Information angegeben ist,
 
-3.
+3. entgegen § 4 Absatz 3 eine Gebrauchsanleitung oder eine Sicherheitsinformation nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zur Verfügung stellt,
 
-4.
+4. entgegen § 6 Absatz 2 Satz 1 nicht sicherstellt, dass das Konformitätsbewertungsverfahren durchgeführt wurde,
 
-5.
+5. entgegen § 7 Absatz 2 Satz 2 oder § 10 Absatz 3 Satz 2 Spielzeug auf dem Markt bereitstellt oder
 
-6.
+6. entgegen § 14 eine dort genannte Bewertung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig durchführt.
 
-(2) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe b des Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
+(2) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe b des Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 3 Absatz 3, auch in Verbindung mit § 5 Absatz 2 Satz 2 Nummer 1, eine technische Unterlage oder die EG-Konformitätserklärung nicht oder nicht mindestens zehn Jahre aufbewahrt,
 
-2.
+2. entgegen § 4 Absatz 2 Satz 1, auch in Verbindung mit § 6 Absatz 5, eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-3.
+3. entgegen § 4 Absatz 4 Satz 1 oder Satz 3, jeweils auch in Verbindung mit § 6 Absatz 5, eine Information oder eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
 
-4.
+4. entgegen § 6 Absatz 4 eine Abschrift der EG-Konformitätserklärung nicht oder nicht mindestens zehn Jahre bereithält oder nicht dafür sorgt, dass eine dort genannte Unterlage vorgelegt werden kann, oder
 
-5.
+5. entgegen § 9 Satz 1 einen Wirtschaftsakteur nicht oder nicht rechtzeitig benennt.
 
 (3) Wer eine in Absatz 1 bezeichnete vorsätzliche Handlung beharrlich wiederholt oder durch eine solche vorsätzliche Handlung Leben oder Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert gefährdet, macht sich nach § 29 des Produktsicherheitsgesetzes strafbar.
 

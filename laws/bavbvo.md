@@ -18,25 +18,25 @@ Diese Verordnung regelt die Ausstellung der Bescheinigung über die im Rahmen ei
 
 Die Bescheinigung über die in der Berufsausbildungsvorbereitung erworbenen Grundlagen beruflicher Handlungsfähigkeit enthält mindestens Angaben über
 
-1.
+1. den Namen und die Anschrift des Anbieters der Berufsausbildungsvorbereitung,
 
-2.
+2. den Namen und die Anschrift der teilnehmenden Person,
 
-3.
+3. die Dauer der Maßnahme und
 
-4.
+4. die Beschreibung der vermittelten Inhalte.
 
 ### § 3 — Bescheinigung und Dokumentation von Qualifizierungsbausteinen
 
-(1) Soweit die Vermittlung von Grundlagen beruflicher Handlungsfähigkeit durch Qualifizierungsbausteine (§ 51 Abs. 1 des Berufsbildungsgesetzes) erfolgt, die als inhaltlich und zeitlich abgegrenzte Lerneinheiten richtet sich ihre Bescheinigung nach den Vorschriften der §§ 4 bis 7.
+(1) Soweit die Vermittlung von Grundlagen beruflicher Handlungsfähigkeit durch Qualifizierungsbausteine (§ 51 Abs. 1 des Berufsbildungsgesetzes) erfolgt, die als inhaltlich und zeitlich abgegrenzte Lerneinheiten
 
-1.
+1. zur Ausübung einer Tätigkeit befähigen, die Teil einer Ausbildung in einem anerkannten Ausbildungsberuf oder einer gleichwertigen Berufsausbildung ist (Qualifizierungsziel),
 
-2.
+2. einen verbindlichen Bezug zu den im Ausbildungsrahmenplan der entsprechenden Ausbildungsordnung enthaltenen Fertigkeiten und Kenntnissen oder zu den Ausbildungsinhalten einer gleichwertigen Berufsausbildung aufweisen,
 
-3.
+3. einen Vermittlungsumfang von wenigstens 140 und höchstens 420 Zeitstunden umfassen sollen und
 
-4.
+4. durch eine Leistungsfeststellung abgeschlossen werden,
 
 (2) Für jeden Qualifizierungsbaustein hat der Anbieter eine Beschreibung nach Maßgabe der Anlage 1 zu erstellen, in der die Bezeichnung des Bausteins, der zugrunde liegende Ausbildungsberuf, das Qualifizierungsziel, die hierfür zu vermittelnden Tätigkeiten unter Bezugnahme auf die im Ausbildungsrahmenplan der entsprechenden Ausbildungsordnung enthaltenen Fertigkeiten und Kenntnisse oder die Ausbildungsinhalte einer gleichwertigen Berufsausbildung, die Dauer der Vermittlung sowie die Art der Leistungsfeststellung festzuhalten sind (Qualifizierungsbild).
 
@@ -54,9 +54,9 @@ Auf Antrag des Anbieters der Berufsausbildungsvorbereitung bestätigt die zustä
 
 Hat die teilnehmende Person das Qualifizierungsziel erreicht, gelten folgende Bewertungen:
 
-1.
+1. "hat das Qualifizierungsziel mit gutem Erfolg erreicht", wenn die Leistung den Anforderungen voll entspricht,
 
-2.
+2. "hat das Qualifizierungsziel mit Erfolg erreicht", wenn die Leistung den Anforderungen auch unter Berücksichtigung von Mängeln im Allgemeinen entspricht.
 
 ### § 7 — Zeugnis und Teilnahmebescheinigung
 
@@ -72,16 +72,10 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 ### Anlage 1 — (zu § 3 Abs. 2)
 
------
+1) oder zu den Ausbildungsinhalten einer gleichwertigen Berufsausbildung
 
-1)
-
-2)
+2) Ggf. streichen.
 
 ### Anlage 2 — (zu § 7 Abs. 1)
 
-(Fundstelle: BGBl. I 2003, 1475)
-
 ### Anlage 3 — (zu § 7 Abs. 2)
-
-(Fundstelle: BGBl. I 2003, 1476)

@@ -16,4 +16,12 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgeset
 
 ### § 3
 
-(1) Dieses Gesetz tritt am 1. Januar 1968 in Kraft.(2) Am gleichen Tage treten außer Kraft: 1.§ 18 des Preußischen Gesetzes vom 1. April 1905, betreffend die Herstellung und den Ausbau von Wasserstraßen (Preußische Gesetzsammlung S. 179), 2.das Preußische Gesetz vom 30. April 1913, betreffend das Schleppmonopol auf dem Rhein-Weser-Kanal und auf dem Lippe-Kanal (Preußische Gesetzsammlung S. 217), 3.§ 12 des Preußischen Gesetzes vom 4. Dezember 1920, betreffend die Vollendung des Mittellandkanals und die durch sie bedingten Ergänzungsbauten an vorhandenen Wasserstraßen (Preußische Gesetzsammlung 1921 S. 67), 4. 5. 6.
+(1) Dieses Gesetz tritt am 1. Januar 1968 in Kraft.
+
+(2) Am gleichen Tage treten außer Kraft:
+
+1. § 18 des Preußischen Gesetzes vom 1. April 1905, betreffend die Herstellung und den Ausbau von Wasserstraßen (Preußische Gesetzsammlung S. 179),
+
+2. das Preußische Gesetz vom 30. April 1913, betreffend das Schleppmonopol auf dem Rhein-Weser-Kanal und auf dem Lippe-Kanal (Preußische Gesetzsammlung S. 217),
+
+3. § 12 des Preußischen Gesetzes vom 4. Dezember 1920, betreffend die Vollendung des Mittellandkanals und die durch sie bedingten Ergänzungsbauten an vorhandenen Wasserstraßen (Preußische Gesetzsammlung 1921 S. 67),

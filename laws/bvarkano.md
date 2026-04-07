@@ -15,5 +15,3 @@ Auf Grund der §§ 172 und 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung v
 Diese Anordnung tritt am Tage nach ihrer Veröffentlichung in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Arbeit und Sozialordnung

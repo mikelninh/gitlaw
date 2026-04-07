@@ -16,89 +16,65 @@ Auf Grund des § 3a Absatz 2 Nummer 2, des § 14a, des § 14b Absatz 2, des § 1
 
 ### § 1 — Anwendungsbereich
 
-Diese Verordnung regelt die Anforderungen an Anbaumaterial von der in der Anlage 1 aufgeführten Arten hinsichtlich des Inverkehrbringens sowie der Einfuhr.
+Diese Verordnung regelt die Anforderungen an Anbaumaterial von
 
-1.
+1. Gemüsearten mit Ausnahme von Saatgut von Gemüsearten,
 
-2.
+2. Obstarten zur Fruchterzeugung sowie
 
-3.
+3. Zierpflanzenarten mit Ausnahme von Anbaumaterial, das für die forstliche oder landwirtschaftliche Nutzung bestimmt ist,
 
 ### § 2 — Begriffsbestimmungen
 
 Im Anwendungsbereich dieser Verordnung gelten folgende Begriffsbestimmungen:
 
-1.
+1. Anbaumaterial, auch Vermehrungsmaterial nach § 2 Absatz 1 Nummer 1a des Saatgutverkehrsgesetzes: Standardmaterial oder anerkanntes Material a)der in Anlage 1 aufgeführten Zierpflanzenarten, das zur Erzeugung von Pflanzen zu gewerblichen Zwecken bestimmt ist;b)der in Anlage 1 aufgeführten Obstarten zur Fruchterzeugung sowie Gemüsearten, das entweder zur Erzeugung von Pflanzen zu gewerblichen Zwecken oder sonst zum Anbau bestimmt ist;c)anderer Arten, sofern es zur Veredelung mit den in Anlage 1 aufgeführten Pflanzenarten bestimmt ist; der in Anlage 1 aufgeführten Zierpflanzenarten, das zur Erzeugung von Pflanzen zu gewerblichen Zwecken bestimmt ist; der in Anlage 1 aufgeführten Obstarten zur Fruchterzeugung sowie Gemüsearten, das entweder zur Erzeugung von Pflanzen zu gewerblichen Zwecken oder sonst zum Anbau bestimmt ist; anderer Arten, sofern es zur Veredelung mit den in Anlage 1 aufgeführten Pflanzenarten bestimmt ist;
 
-a)
+2. Standardmaterial: Anbaumaterial, das die Mindestanforderungen erfüllt; dazu zählt auch Conformitas Agraria Communitatis-Material (CAC-Material) von Obstarten zur Fruchterzeugung;
 
-b)
+3. anerkanntes Anbaumaterial von Obstarten zur Fruchterzeugung: a)Vorstufenmaterial:Anbaumaterial, das von einer dem Basismaterial vorhergehenden Vermehrungsstufe gewonnen worden und amtlich anerkannt ist;b)Basismaterial:Anbaumaterial, das aus Vorstufenmaterial gewonnen worden und amtlich anerkannt ist;c)Zertifiziertes Material:Anbaumaterial, das aus Basismaterial, Vorstufenmaterial oder aus Zertifiziertem Material zur Erzeugung von Anbaumaterial gewonnen worden und amtlich anerkannt ist; Vorstufenmaterial: Anbaumaterial, das von einer dem Basismaterial vorhergehenden Vermehrungsstufe gewonnen worden und amtlich anerkannt ist; Basismaterial: Anbaumaterial, das aus Vorstufenmaterial gewonnen worden und amtlich anerkannt ist; Zertifiziertes Material: Anbaumaterial, das aus Basismaterial, Vorstufenmaterial oder aus Zertifiziertem Material zur Erzeugung von Anbaumaterial gewonnen worden und amtlich anerkannt ist;
 
-c)
+4. Kategorien: Standardmaterial, Vorstufenmaterial, Basismaterial oder Zertifiziertes Material;
 
-2.
+5. Mutterpflanze: eine Pflanze, die zur Erzeugung von Nachkommen bestimmt ist;
 
-3.
+6. Kandidatenmutterpflanze: eine Mutterpflanze, die dazu bestimmt ist, Mutterpflanze für Vorstufenmaterial zu werden;
 
-a)
+7. Erneuerung: das Ersetzen einer Mutterpflanze durch eine vegetativ aus ihr gewonnenen Pflanze;
 
-b)
+8. Multiplikation: die vegetative Erzeugung von Mutterpflanzen zum Zweck der Erzeugung einer ausreichenden Zahl von Mutterpflanzen derselben Kategorie;
 
-c)
+9. Mikrovermehrung: die Multiplikation von Pflanzenmaterial zur Erzeugung einer Vielzahl von Pflanzen mit Hilfe einer In-vitro-Kultur aus ausdifferenzierten vegetativen Knospen beziehungsweise ausdifferenzierten vegetativen Meristemen einer Pflanze;
 
-4.
+10. Klon: eine genetisch einheitliche vegetative Nachkommenschaft einer einzigen Pflanze einer Obstart;
 
-5.
+11. visuelle Kontrolle: die Überprüfung von Pflanzen oder Pflanzenteilen mit bloßem Auge, Linse, Stereoskop oder Mikroskop;
 
-6.
+12. Untersuchung: eine Überprüfung von Pflanzen oder Pflanzenteilen mit Methoden, die über die visuelle Kontrolle hinausgehen;
 
-7.
+13. Drittland: ein Staat, der nicht Mitgliedstaat der Europäischen Union ist;
 
-8.
+14. Partie: bestimmte Stückzahl ein und derselben Ware, die in Bezug auf Zusammensetzung und Ursprung homogen ist;
 
-9.
+15. Kryokonservierung: die Erhaltung von Pflanzenmaterial durch Herunterkühlen auf extrem niedrige Temperaturen, um die Vitalität des Materials zu erhalten;
 
-10.
+16. Schadorganismen: Unionsquarantäneschädlinge, Schutzgebiet-Quarantäneschädlinge und unionsgeregelte Nicht-Quarantäneschädlinge im Sinne der Verordnung (EU) 2016/2031 des Europäischen Parlaments und des Rates vom 26. Oktober 2016 über Maßnahmen zum Schutz vor Pflanzenschädlingen, zur Änderung der Verordnungen (EU) Nr. 228/2013, (EU) Nr. 652/2014 und (EU) Nr. 1143/2014 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 69/464/EWG, 74/647/EWG, 93/85/EWG, 98/57/EG, 2000/29/EG, 2006/91/EG und 2007/33/EG des Rates (ABl. L 317 vom 23.11.2016, S. 4; L 35 vom 7.2.2020, S. 51), die durch die Verordnung (EU) 2017/625 (ABl. L 95 vom 7.4.2017, S. 1; L 137 vom 24.5.2017, S. 40; L 322 vom 18.12.2018, S. 85) geändert worden ist, in der jeweils geltenden Fassung;
 
-11.
+17. RNQPs: unionsgeregelte Nicht-Quarantäneschädlinge (regulated non-quarantine pests) im Sinne des Artikels 36 der Verordnung (EU) 2016/2031;
 
-12.
-
-13.
-
-14.
-
-15.
-
-16.
-
-17.
-
-18.
+18. praktisch frei von Schadorganismen: praktisch frei von Schädlingen im Sinne des Artikels 2 Absatz 2 Buchstabe a der Durchführungsverordnung (EU) 2019/2072 der Kommission vom 28. November 2019 zur Festlegung einheitlicher Bedingungen für die Durchführung der Verordnung (EU) 2016/2031 des Europäischen Parlaments und des Rates in Bezug auf Maßnahmen zum Schutz vor Pflanzenschädlingen und zur Aufhebung der Verordnung (EG) Nr. 690/2008 der Kommission sowie zur Änderung der Durchführungsverordnung (EU) 2018/2019 der Kommission (ABl. L 319 vom 10.12.2019, S. 1) in der jeweils geltenden Fassung.
 
 ## Unterabschnitt 1: Allgemeine Vorschriften
 
 ### § 3 — Registrierung
 
-(1) Wer Anbaumaterial von Gemüse-, Obst- und Zierpflanzenarten zu gewerblichen Zwecken muss von der zuständigen Behörde in ein amtliches Verzeichnis unter Erteilung einer Registriernummer aufgenommen worden sein (Registrierung). Die Aufnahme erfolgt auf Antrag. Der Antrag muss mindestens folgende Angaben enthalten:
+(1) Wer Anbaumaterial von Gemüse-, Obst- und Zierpflanzenarten zu gewerblichen Zwecken
 
-1.
+1. in Verkehr bringen,
 
-2.
+2. aus einem Drittland einführen oder,
 
-3.
-
-1.
-
-2.
-
-a)
-
-b)
-
-3.
-
-4.
+3. im Fall von Anbaumaterial von Obstarten als Verfügungsberechtigter Anbaumaterial zu gewerblichen Zwecken behandeln, erhalten, erzeugen oder vermehren will,
 
 (2) Die zuständige Behörde kann auch nachträglich weitere Angaben verlangen, soweit dies zur Durchführung dieser Verordnung erforderlich ist. Der Antragsteller hat der zuständigen Behörde Änderungen der dem Antrag zugrundeliegenden Angaben unverzüglich mitzuteilen.
 
@@ -106,11 +82,11 @@ b)
 
 (4) Die zuständige Behörde kann die Registrierung auch nachträglich mit Auflagen verbinden, um sicherzustellen, dass die Anforderungen an Anbaumaterial nach dieser Verordnung eingehalten werden.
 
-(5) Von der Pflicht zur Registrierung nach Absatz 1 ist ausgenommen, wer in den Verkehr bringt.
+(5) Von der Pflicht zur Registrierung nach Absatz 1 ist ausgenommen, wer
 
-1.
+1. nicht im eigenen Betrieb erzeugtes und für nicht gewerbliche Endverbraucher bestimmtes Anbaumaterial von Obst- und Gemüsearten oder
 
-2.
+2. Zierpflanzen, die für nicht gewerbliche Endverbraucher bestimmt sind,
 
 (6) Von der Pflicht zur Antragstellung gemäß Absatz 1 ist ausgenommen, wer zum Zeitpunkt des Inkrafttretens dieser Verordnung bereits registriert worden ist.
 
@@ -122,91 +98,69 @@ b)
 
 (1) Wer nach § 3 Absatz 1 registriert ist, hat die erforderlichen Maßnahmen in seinem Betrieb zu ergreifen, um sicherzustellen,
 
-1.
+1. dass Standardmaterial die Anforderungen nach § 6 und Vorstufen-, Basis- und Zertifiziertes Material die Anforderungen der §§ 8 bis 12 erfüllt und
 
-2.
+2. dass Partien während der Pflanzenerzeugung gesondert ermittelt werden können.
 
-(2) Wer nach § 3 Absatz 1 registriert ist, hat regelmäßig zu geeigneten Zeitpunkten und mit geeigneten Maßnahmen innerbetriebliche Kontrollen durchzuführen. Er hat sicherzustellen, dass das Personal über die zur Durchführung der innerbetrieblichen Kontrollen erforderlichen Kenntnisse verfügt. Die innerbetrieblichen Kontrollen erstrecken sich Die Verpackung des Anbaumaterials und das gelagerte Anbaumaterial sind in die innerbetrieblichen Kontrollen einzubeziehen, soweit dies erforderlich ist, um das Auftreten von Schadorganismen oder sonstige nachteilige Auswirkungen auf die Qualität des Anbaumaterials zu verhindern. Kontrollen hinsichtlich des Auftretens von Schadorganismen sind zumindest visuell durchzuführen. Bei Verdacht auf Befall mit einem Schadorganismus sind im Rahmen der innerbetrieblichen Kontrollen auch Proben für Untersuchungen in geeigneten Laboren zu entnehmen, soweit dies zur Klärung des Verdachtes erforderlich ist. In Gebieten, die nach den Anforderungen des Artikels 10 der Durchführungsrichtlinie 2014/98/EU der Kommission vom 15. Oktober 2014 zur Durchführung der Richtlinie 2008/90/EG des Rates hinsichtlich der spezifischen Anforderungen an die in deren Anhang I aufgeführten Gattungen und Arten von Obstpflanzen, der spezifischen Anforderungen an die Versorger und ausführlicher Bestimmungen für die amtliche Prüfung (ABl. L 298 vom 16.10.2014, S. 22) in der jeweils geltenden Fassung von der zuständigen Behörde als befallsfrei für diesen RNQP eingestuft worden sind, sind keine Kontrollen auf diesen RNQP durchzuführen.
+(2) Wer nach § 3 Absatz 1 registriert ist, hat regelmäßig zu geeigneten Zeitpunkten und mit geeigneten Maßnahmen innerbetriebliche Kontrollen durchzuführen. Er hat sicherzustellen, dass das Personal über die zur Durchführung der innerbetrieblichen Kontrollen erforderlichen Kenntnisse verfügt. Die innerbetrieblichen Kontrollen erstrecken sich
 
-1.
+1. auf die Qualität des verwendeten Anbaumaterials zu Beginn und während der Pflanzenerzeugung,
 
-2.
+2. auf das Auftreten von in Anhang II der Durchführungsverordnung (EU) 2019/2072 aufgeführten Schadorganismen,
 
-3.
+3. im Fall von Zierpflanzen auf das Auftreten von a)RNQPs, die aufgeführt sind im Anhang der Richtlinie 93/49/EWG der Kommission vom 23. Juni 1993 zur Festlegung der Tabelle mit den Anforderungen an Vermehrungsmaterial und Pflanzen von Zierpflanzenarten gemäß der Richtlinie 91/682/EWG des Rates (ABl. L 250 vom 7.10.1993, S. 9), die zuletzt durch die Durchführungsrichtlinie (EU) 2020/177 (ABl. L 41 vom 13.2.2020, S. 1) geändert worden ist, in der jeweils geltenden Fassung, sowieb)Schadorganismen, die den Gebrauchswert des Anbaumaterials herabsetzen, RNQPs, die aufgeführt sind im Anhang der Richtlinie 93/49/EWG der Kommission vom 23. Juni 1993 zur Festlegung der Tabelle mit den Anforderungen an Vermehrungsmaterial und Pflanzen von Zierpflanzenarten gemäß der Richtlinie 91/682/EWG des Rates (ABl. L 250 vom 7.10.1993, S. 9), die zuletzt durch die Durchführungsrichtlinie (EU) 2020/177 (ABl. L 41 vom 13.2.2020, S. 1) geändert worden ist, in der jeweils geltenden Fassung, sowie Schadorganismen, die den Gebrauchswert des Anbaumaterials herabsetzen,
 
-a)
+4. im Fall von Obstarten auf das Auftreten von a)RNQPs, die aufgeführt sind in den Anhängen I und II der Durchführungsrichtlinie 2014/98/EU der Kommission vom 15. Oktober 2014 zur Durchführung der Richtlinie 2008/90/EG des Rates hinsichtlich der spezifischen Anforderungen an die in deren Anhang I aufgeführten Gattungen und Arten von Obstpflanzen, der spezifischen Anforderungen an die Versorger und ausführlicher Bestimmungen für die amtliche Prüfung (ABl. L 298 vom 16.10.2014, S. 22; L 87 vom 23.3.2020, S. 6), die durch die Durchführungsrichtlinie (EU) 2020/177 (ABl. L 41 vom 13.2.2020, S. 1) geändert worden ist, in der jeweils geltenden Fassung, zumindest durch visuelle Kontrolle und, soweit dies erforderlich ist durch Beprobung und Untersuchung gemäß Anhang IV der Durchführungsrichtlinie 2014/98/EU, sowieb)Schadorganismen, die den Gebrauchswert des Anbaumaterials herabsetzen,während der Kryokonservierung sind keine Kontrollen durchzuführen, RNQPs, die aufgeführt sind in den Anhängen I und II der Durchführungsrichtlinie 2014/98/EU der Kommission vom 15. Oktober 2014 zur Durchführung der Richtlinie 2008/90/EG des Rates hinsichtlich der spezifischen Anforderungen an die in deren Anhang I aufgeführten Gattungen und Arten von Obstpflanzen, der spezifischen Anforderungen an die Versorger und ausführlicher Bestimmungen für die amtliche Prüfung (ABl. L 298 vom 16.10.2014, S. 22; L 87 vom 23.3.2020, S. 6), die durch die Durchführungsrichtlinie (EU) 2020/177 (ABl. L 41 vom 13.2.2020, S. 1) geändert worden ist, in der jeweils geltenden Fassung, zumindest durch visuelle Kontrolle und, soweit dies erforderlich ist durch Beprobung und Untersuchung gemäß Anhang IV der Durchführungsrichtlinie 2014/98/EU, sowie Schadorganismen, die den Gebrauchswert des Anbaumaterials herabsetzen,
 
-b)
+5. im Fall von Gemüsearten auf das Auftreten von a)RNQPs, die aufgeführt sind im Anhang der Richtlinie 93/61/EWG der Kommission vom 2. Juli 1993 zur Aufstellung der Tabelle mit den Anforderungen an Gemüsepflanzgut und Gemüsevermehrungsmaterial mit Ausnahme von Saatgut gemäß der Richtlinie 92/33/EWG des Rates (ABl. L 250 vom 7.10.1993, S. 19), die durch die Durchführungsrichtlinie (EU) 2020/177 (ABl. L 41 vom 13.2.2020, S. 1) geändert worden ist, in der jeweils geltenden Fassung, sowieb)Schadorganismen, die den Gebrauchswert des Anbaumaterials herabsetzen, und RNQPs, die aufgeführt sind im Anhang der Richtlinie 93/61/EWG der Kommission vom 2. Juli 1993 zur Aufstellung der Tabelle mit den Anforderungen an Gemüsepflanzgut und Gemüsevermehrungsmaterial mit Ausnahme von Saatgut gemäß der Richtlinie 92/33/EWG des Rates (ABl. L 250 vom 7.10.1993, S. 19), die durch die Durchführungsrichtlinie (EU) 2020/177 (ABl. L 41 vom 13.2.2020, S. 1) geändert worden ist, in der jeweils geltenden Fassung, sowie Schadorganismen, die den Gebrauchswert des Anbaumaterials herabsetzen, und
 
-4.
-
-a)
-
-b)
-
-5.
-
-a)
-
-b)
-
-6.
+6. auf die Echtheit und Reinheit von Art und Sorte des Anbaumaterials.
 
 (2a) Wer nach § 3 Absatz 1 registriert ist, hat
 
-1.
+1. im Fall von Anbaumaterial von Zierpflanzen die Maßnahmen gemäß Anhang V Teil C der Durchführungsverordnung (EU) 2019/2072 durchzuführen, die der Verhütung des Auftretens der dort aufgeführten RNQPs dienen, und
 
-2.
+2. im Fall von Anbaumaterial von Gemüse die Maßnahmen gemäß Anhang V Teil H der Durchführungsverordnung (EU) 2019/2072 durchzuführen, die der Verhütung des Auftretens der dort aufgeführten RNQPs dienen.
 
 (3) Wer nach § 3 Absatz 1 registriert ist, muss bei Standardmaterial von Zierpflanzenarten
 
-1.
+1. über eine Beschreibung der Sorte einschließlich der Sortenbezeichnung und der allgemein bekannten Synonyme verfügen, es sei denn, das Standardmaterial wird ohne eine Bezugnahme auf die Sorte in den Verkehr gebracht, und
 
-2.
-
-a)
-
-b)
+2. auf Anfrage der zuständigen Behörde Angaben a)zur Sortenerhaltung und zum angewandten Vermehrungssystem undb)zur Unterscheidung der Sorte von der nächstähnlichen Sortemachen können. zur Sortenerhaltung und zum angewandten Vermehrungssystem und zur Unterscheidung der Sorte von der nächstähnlichen Sorte
 
 (4) Wer nach § 3 Absatz 1 Satz 1 registriert ist, hat der zuständigen Behörde unverzüglich Folgendes anzuzeigen:
 
-1.
+1. das Auftreten oder den Verdacht eines Auftretens eines in Anhang II der Durchführungsverordnung (EU) 2019/2072 aufgeführten Quarantäneschadorganismus,
 
-2.
+2. das übermäßige nicht zu erwartende Auftreten oder den Verdacht eines außergewöhnlichen Auftretens eines RNQP, der aufgeführt ist a)in den Anhängen I und II der Durchführungsrichtlinie 2014/98/EU im Fall von Anbaumaterial von Obst,b)in dem Anhang der Richtlinie 93/49/EWG im Fall von Anbaumaterial von Zierpflanzen undc)in dem Anhang der Richtlinie 93/61/EWG im Fall von Anbaumaterial von Gemüse. in den Anhängen I und II der Durchführungsrichtlinie 2014/98/EU im Fall von Anbaumaterial von Obst, in dem Anhang der Richtlinie 93/49/EWG im Fall von Anbaumaterial von Zierpflanzen und in dem Anhang der Richtlinie 93/61/EWG im Fall von Anbaumaterial von Gemüse.
 
-a)
+(5) Wer nach § 3 Absatz 1 registriert ist und Anbaumaterial von Obstarten zu gewerblichen Zwecken in den Verkehr bringen will, hat vor dem erstmaligen Inverkehrbringen im Fall
 
-b)
+1. von Sorten nach § 57a Absatz 1 Satz 2 Nummer 5 und 6 des Saatgutverkehrsgesetzes beim Bundessortenamt einen Antrag auf amtliche Anerkennung der Sortenbeschreibung und Eintragung der Sorte in die Gesamtliste der Obstsorten nach § 57a Absatz 1 des Saatgutverkehrsgesetzes zu stellen,
 
-c)
+2. von Sorten nach § 57a Absatz 1 Satz 2 Nummer 7 des Saatgutverkehrsgesetzes dem Bundessortenamt die Absicht des Inverkehrbringens anzuzeigen,
 
-(5) Wer nach § 3 Absatz 1 registriert ist und Anbaumaterial von Obstarten zu gewerblichen Zwecken in den Verkehr bringen will, hat vor dem erstmaligen Inverkehrbringen im Fall sofern die betreffende Sorte nicht bereits in die Gesamtliste der Obstsorten eingetragen ist. Für die Antragstellung und die Anzeige sind Vordrucke des Bundessortenamtes zu verwenden.
+(6) Wer nach § 3 Absatz 1 registriert ist, hat Aufzeichnungen zu führen über
 
-1.
+1. Art und Stückzahl oder Gewicht des im Betrieb erzeugten Anbaumaterials,
 
-2.
+2. Art und Stückzahl oder Gewicht sowie Empfangsdatum, Lieferant und Erzeuger des erworbenen Anbaumaterials,
 
-(6) Wer nach § 3 Absatz 1 registriert ist, hat Aufzeichnungen zu führen über Die Aufzeichnungen können auch durch andere zuverlässig nachprüfbare systematische Aufzeichnungen im Rahmen der betrieblichen Buchführung vorgenommen werden. Im Fall der Erzeugung und Vermehrung von Anbaumaterial von Obstarten hat er zusätzlich der zuständigen Behörde auf Verlangen Angaben zum Anbauort und -umfang, zum Anbauzeitplan, zu Vermehrungsvorgängen sowie zu Verpackungs-, Lagerungs- und Transportvorgängen vorzulegen.
+3. Art und Stückzahl oder Gewicht sowie Datum des Inverkehrbringens des Anbaumaterials,
 
-1.
+4. die Zusammensetzung einer Sendung, die zur unmittelbaren Abgabe bestimmt ist, soweit sie unmittelbar aus Anbaumaterial mit Herkunft aus verschiedenen Betrieben zusammengestellt worden ist,
 
-2.
+5. die Referenznummer der Saatgutpartie bei unmittelbar aus Samen erwachsenem Anbaumaterial von Gemüse, das in Verkehr gebracht wird, sofern die Referenznummer nicht auf dem Warenbegleitpapier nach § 13 Absatz 1 Nummer 7 angegeben wird,
 
-3.
+6. bei Obstarten die Quelle, von der das Anbaumaterial abstammt,
 
-4.
+7. das Auftreten von Schadorganismen,
 
-5.
+8. durchgeführte Bekämpfungsmaßnahmen,
 
-6.
+9. sonstige chemische Maßnahmen und
 
-7.
-
-8.
-
-9.
-
-10.
+10. die Ergebnisse der Kontrollen nach Absatz 2.
 
 (7) Die Aufzeichnungen nach Absatz 6 Satz 1 sind mindestens ein Jahr, im Fall von Anbaumaterial von Obstarten zur Fruchterzeugung so lange aufzubewahren, wie sich das entsprechende Material im Betrieb des Verfügungsberechtigten befindet, sowie mindestens drei Jahre lang, nachdem es in Verkehr gebracht oder beseitigt worden ist. Die Frist beginnt mit Beginn des Jahres, das auf das Jahr folgt, in dem das Material im Betrieb vorhanden war oder es in den Verkehr gebracht oder beseitigt worden ist.
 
@@ -228,23 +182,19 @@ c)
 
 (1) Standardmaterial von Obstpflanzen muss
 
-1.
+1. aus Beständen stammen, die mindestens die Anforderungen nach Absatz 2 erfüllen, und
 
-2.
+2. die Anforderungen der Absätze 5 und 6 erfüllen.
 
 (2) Bestände, die der Erzeugung von Standardmaterial von Obstpflanzen dienen, müssen mindestens folgende Anforderungen erfüllen:
 
-1.
+1. Der Aufwuchs ist zumindest dem Augenschein nach praktisch frei von a)den in den Anhängen I und II der Durchführungsrichtlinie 2014/98/EU aufgeführten Schadorganismen im Fall der dort jeweils aufgeführten Obstarten, soweit in Anhang IV der Durchführungsrichtlinie 2014/98/EU nichts anderes vorgesehen ist, undb)Schadorganismen, die den Gebrauchswert des Materials herabsetzen. den in den Anhängen I und II der Durchführungsrichtlinie 2014/98/EU aufgeführten Schadorganismen im Fall der dort jeweils aufgeführten Obstarten, soweit in Anhang IV der Durchführungsrichtlinie 2014/98/EU nichts anderes vorgesehen ist, und Schadorganismen, die den Gebrauchswert des Materials herabsetzen.
 
-a)
+2. Bestände zur Erzeugung von Standardmaterial dürfen keine deutlich sichtbaren sonstigen Mängel aufweisen, die den Gebrauchswert des daraus gewonnenen Anbaumaterials herabsetzen.
 
-b)
+3. Bestände zur Erzeugung von Standardmaterial erfüllen die Anforderungen an die Produktionsfläche, den Ort der Erzeugung oder das Gebiet sowie die Anforderungen an die Beprobung und Untersuchung gemäß Anhang IV der Durchführungsrichtlinie 2014/98/EU.
 
-2.
-
-3.
-
-4.
+4. Bei der Ernte oder bei der Entnahme aus Beständen ist Standardmaterial, das der Erzeugung von Pflanzen zu gewerblichen Zwecken dient, partieweise von anderem Anbaumaterial getrennt zu halten.
 
 (3) Liegen Anhaltspunkte für das Vorhandensein der Schadorganismen nach Absatz 2 Nummer 1 Buchstabe a vor, hat der Verfügungsberechtigte das Material durch Beprobung und Untersuchung zu überprüfen, soweit in Anhang IV der Durchführungsrichtlinie 2014/98/EU nichts anderes vorgesehen ist.
 
@@ -252,23 +202,15 @@ b)
 
 (5) Standardmaterial von Obstpflanzen muss zum Zeitpunkt des Inverkehrbringens mindestens folgende Anforderungen erfüllen:
 
-1.
+1. Es muss dem Augenschein nach a)frei sein von Anzeichen oder Symptomen der RNQPs, die in den Anhängen I und II der Durchführungsrichtlinie 2014/98/EU für die betreffende Gattung oder Art aufgeführt sind, undb)praktisch frei sein von Schadorganismen, die den Gebrauchswert des Anbaumaterials herabsetzen. frei sein von Anzeichen oder Symptomen der RNQPs, die in den Anhängen I und II der Durchführungsrichtlinie 2014/98/EU für die betreffende Gattung oder Art aufgeführt sind, und praktisch frei sein von Schadorganismen, die den Gebrauchswert des Anbaumaterials herabsetzen.
 
-a)
+2. Es muss die in Anhang IV der Durchführungsrichtlinie 2014/98/EU aufgeführten Anforderungen an die Beprobung und Untersuchung, die Produktionsfläche, den Ort der Erzeugung oder das Gebiet für CAC-Material erfüllen.
 
-b)
+3. Art und Sorte oder die Pflanzengruppe müssen eine hinreichende Echtheit und Reinheit aufweisen.
 
-2.
+4. Es muss a)einer Sorte nach § 3a Absatz 1 Satz 1 Nummer 1 Buchstabe b Doppelbuchstabe aa bis ee und gg des Saatgutverkehrsgesetzes zugehören oderb)einer Unterlage nach § 3a Absatz 1 Satz 1 Nummer 1 Buchstabe c des Saatgutverkehrsgesetzes zugehören. einer Sorte nach § 3a Absatz 1 Satz 1 Nummer 1 Buchstabe b Doppelbuchstabe aa bis ee und gg des Saatgutverkehrsgesetzes zugehören oder einer Unterlage nach § 3a Absatz 1 Satz 1 Nummer 1 Buchstabe c des Saatgutverkehrsgesetzes zugehören.
 
-3.
-
-4.
-
-a)
-
-b)
-
-5.
+5. Es genügt den Anforderungen in Bezug auf Schadorganismen, die in den gemäß der Verordnung (EU) 2016/2031 erlassenen Durchführungsrechtsakten und den nach Artikel 30 Absatz 1 der Verordnung (EU) 2016/2031 erlassenen Maßnahmen festgelegt sind.
 
 (6) Standardmaterial von Obstpflanzen darf keine Mängel wie Verletzungen, Verfärbungen, Narbengewebe oder Trockenschäden aufweisen, die seinen Gebrauchswert als Anbaumaterial herabsetzen.
 
@@ -280,25 +222,21 @@ b)
 
 (1) Anbaumaterial von Zierpflanzen muss
 
-1.
+1. aus Beständen stammen, die mindestens die Anforderungen des Absatzes 2 erfüllen, und
 
-2.
+2. die Anforderungen der Absätze 5 und 6 erfüllen.
 
 (2) Bestände, die der Erzeugung von Standardmaterial von Zierpflanzen dienen, müssen mindestens folgende Anforderungen erfüllen:
 
-1.
+1. Der Aufwuchs ist zumindest dem Augenschein nach praktisch frei von a)den im Anhang der Richtlinie 93/49/EWG aufgeführten RNQPs undb)allen nicht im Anhang der Richtlinie 93/49/EWG in Bezug auf das Anbaumaterial aufgeführten Schadorganismen, die den Gebrauchswert des Anbaumaterials herabsetzen. den im Anhang der Richtlinie 93/49/EWG aufgeführten RNQPs und allen nicht im Anhang der Richtlinie 93/49/EWG in Bezug auf das Anbaumaterial aufgeführten Schadorganismen, die den Gebrauchswert des Anbaumaterials herabsetzen.
 
-a)
+2. Die Bestände müssen die Anforderungen zur Verhütung des Auftretens von RNQPs auf Vermehrungsmaterial von Zierpflanzen nach Anhang V Teil C der Durchführungsverordnung (EU) 2019/2072 erfüllen.
 
-b)
+3. Die in Anlage 2 Spalte 1 genannten Pflanzenarten müssen die in Anlage 2 Spalte 2 aufgeführten Anforderungen erfüllen.
 
-2.
+4. Bestände zur Erzeugung von Standardmaterial dürfen keine deutlich sichtbaren sonstigen Mängel aufweisen, die den Gebrauchswert des daraus gewonnenen Anbaumaterials herabsetzen.
 
-3.
-
-4.
-
-5.
+5. Bei der Ernte oder bei der Entnahme aus Beständen ist Standardmaterial, das der Erzeugung von Pflanzen zu gewerblichen Zwecken dient, partieweise von anderem Anbaumaterial getrennt zu halten.
 
 (3) Liegen Anhaltspunkte für das Vorhandensein der Schadorganismen nach Absatz 2 Nummer 1 vor, hat der Verfügungsberechtigte das Material durch Beprobung und Untersuchung zu überprüfen.
 
@@ -306,15 +244,15 @@ b)
 
 (5) Standardmaterial von Zierpflanzen muss zum Zeitpunkt des Inverkehrbringens mindestens folgende Anforderungen erfüllen:
 
-1.
+1. Es darf die im Anhang der Richtlinie 93/49/EWG aufgeführten Schwellenwerte bezüglich der dort aufgeführten RNQPs nicht überschreiten.
 
-2.
+2. Es muss dem Augenschein nach praktisch frei von allen nicht im Anhang der Richtlinie 93/49/EWG in Bezug auf das Anbaumaterial aufgeführten Schadorganismen sein, die den Gebrauchswert des Anbaumaterials herabsetzen.
 
-3.
+3. Es genügt den Anforderungen in Bezug auf Schadorganismen, die in den gemäß der Verordnung (EU) 2016/2031 erlassenen Durchführungsrechtsakten und in den nach Artikel 30 Absatz 1 der Verordnung (EU) 2016/2031 erlassenen Maßnahmen festgelegt sind.
 
-4.
+4. Art und Sorte oder die Pflanzengruppe müssen eine hinreichende Echtheit und Reinheit aufweisen.
 
-5.
+5. Wird Anbaumaterial von Zierpflanzen mit einer Bezugnahme auf eine Sorte oder Pflanzengruppe in den Verkehr gebracht, muss es einer Sorte oder Pflanzengruppe nach § 3a Absatz 1 Satz 1 Nummer 2 des Saatgutverkehrsgesetzes zugehören.
 
 (6) Anbaumaterial von Zierpflanzen darf keine Mängel wie Verletzungen, Verfärbungen, Narbengewebe oder Trockenschäden aufweisen, die seinen Gebrauchswert als Anbaumaterial herabsetzen.
 
@@ -322,23 +260,19 @@ b)
 
 (1) Anbaumaterial von Gemüsepflanzen muss
 
-1.
+1. aus Beständen stammen, die mindestens die Anforderungen des Absatzes 2 erfüllen, und
 
-2.
+2. die Anforderungen der Absätze 5 und 6 erfüllen.
 
 (2) Bestände, die der Erzeugung von Standardmaterial von Gemüsepflanzen dienen, müssen mindestens folgende Anforderungen erfüllen:
 
-1.
+1. Der Aufwuchs ist zumindest dem Augenschein nach praktisch frei von a)den im Anhang der Richtlinie 93/61/EWG aufgeführten RNQPs undb)allen nicht im Anhang der Richtlinie 93/61/EWG in Bezug auf das jeweilige Anbaumaterial aufgeführten Schadorganismen, die den Gebrauchswert des Anbaumaterials herabsetzen. den im Anhang der Richtlinie 93/61/EWG aufgeführten RNQPs und allen nicht im Anhang der Richtlinie 93/61/EWG in Bezug auf das jeweilige Anbaumaterial aufgeführten Schadorganismen, die den Gebrauchswert des Anbaumaterials herabsetzen.
 
-a)
+2. Die Bestände müssen die Anforderungen zur Verhütung des Auftretens von RNQPs auf Gemüsepflanzgut und Gemüsevermehrungsmaterial, außer Samen, nach Anhang V Teil H der Durchführungsverordnung (EU) 2019/2072 erfüllen.
 
-b)
+3. Bestände zur Erzeugung von Standardmaterial dürfen keine deutlich sichtbaren sonstigen Mängel aufweisen, die den Gebrauchswert des daraus gewonnenen Anbaumaterials herabsetzen.
 
-2.
-
-3.
-
-4.
+4. Bei der Ernte oder bei der Entnahme aus Beständen ist Standardmaterial, das der Erzeugung von Pflanzen zu gewerblichen Zwecken dient, partieweise von anderem Anbaumaterial getrennt zu halten.
 
 (3) Liegen Anhaltspunkte für das Vorhandensein der Schadorganismen nach Absatz 2 Nummer 1 vor, hat der Verfügungsberechtigte das Material durch Beprobung und Untersuchung zu überprüfen.
 
@@ -346,15 +280,15 @@ b)
 
 (5) Standardmaterial von Gemüsepflanzen muss zum Zeitpunkt des Inverkehrbringens mindestens folgende Anforderungen erfüllen:
 
-1.
+1. Es darf die im Anhang der Richtlinie 93/61 EWG aufgeführten Schwellenwerte bezüglich der dort aufgeführten RNQPs nicht überschreiten.
 
-2.
+2. Es muss dem Augenschein nach praktisch frei von nicht im Anhang der Richtlinie 93/61/EWG in Bezug auf das Anbaumaterial aufgeführten Schadorganismen sein, die den Gebrauchswert des Anbaumaterials herabsetzen.
 
-3.
+3. Es genügt den Anforderungen in Bezug auf Schadorganismen, die in den gemäß der Verordnung (EU) 2016/2031 erlassenen Durchführungsrechtsakten und in den nach Artikel 30 Absatz 1 der Verordnung (EU) 2016/2031 erlassenen Maßnahmen festgelegt sind.
 
-4.
+4. Art und Sorte oder die Pflanzengruppe müssen eine hinreichende Echtheit und Reinheit aufweisen.
 
-5.
+5. Es muss einer Sorte nach § 3a Absatz 1 Satz 1 Nummer 3 des Saatgutverkehrsgesetzes zugehören.
 
 (6) Anbaumaterial von Gemüsepflanzen darf keine Mängel wie Verletzungen, Verfärbungen, Narbengewebe oder Trockenschäden aufweisen, die seinen Gebrauchswert als Anbaumaterial herabsetzen.
 
@@ -368,35 +302,35 @@ b)
 
 ### § 8 — Allgemeine Anforderungen an anerkanntes Anbaumaterial von Obstarten
 
-(1) Anerkanntes Anbaumaterial mit Ausnahme von sonstigen Unterlagen, die keiner Sorte zugehören, muss Bei Vorstufenmaterial kann die zuständige Behörde zum Nachweis des Vorliegens der Voraussetzung nach Satz 1 Nummer 2 vom Antragsteller verlangen, eine von der Mutterpflanze des anzuerkennenden Anbaumaterials gewonnene fruchttragende Pflanze anzubauen.
+(1) Anerkanntes Anbaumaterial mit Ausnahme von sonstigen Unterlagen, die keiner Sorte zugehören, muss
 
-1.
+1. einer der in § 14b Absatz 1 Satz 1 Nummer 1 des Saatgutverkehrsgesetzes genannten Sorten zugehören, oder
 
-2.
+2. eine Merkmalsausprägung aufweisen, die der amtlichen oder amtlich anerkannten Sortenbeschreibung entspricht.
 
-(2) Wird in den Fällen des § 14b Absatz 1 Satz 2 des Saatgutverkehrsgesetzes die Anerkennung des dort genannten Anbaumaterials einer Sorte als Vorstufenmaterial, Basismaterial oder Zertifiziertes Material beantragt, muss der Antragsteller der zuständigen Behördevorlegen. Satz 1 gilt nicht für sonstige Unterlagen, die keiner Sorte zugehören.
+(2) Wird in den Fällen des § 14b Absatz 1 Satz 2 des Saatgutverkehrsgesetzes die Anerkennung des dort genannten Anbaumaterials einer Sorte als Vorstufenmaterial, Basismaterial oder Zertifiziertes Material beantragt, muss der Antragsteller der zuständigen Behörde
 
-1.
+1. eine Beschreibung der Sorte, die mindestens die Angaben des im laufenden Verfahren der Sortenzulassung oder der Sortenschutzerteilung vorzulegenden Technischen Fragebogens beinhaltet, sowie
 
-2.
+2. eine die Unterscheidbarkeit, Homogenität und Beständigkeit der Sorte bestätigende Bescheinigung der für die Sortenzulassung oder die Sortenschutzerteilung zuständigen Stelle
 
 (3) Eine Mutterpflanze oder sonstiges anerkanntes Anbaumaterial muss
 
-1.
+1. dem Augenschein nach frei sein von den RNQPs, die in den Anhängen I und II der Durchführungsrichtlinie 2014/98/EU für die betreffende Gattung oder Art aufgeführt sind, soweit in Anhang IV der Durchführungsrichtlinie 2014/98/EU nichts anderes vorgesehen ist,
 
-2.
+2. die Anforderungen an die Produktionsfläche, den Ort der Erzeugung oder das Gebiet sowie die Anforderungen hinsichtlich Beprobung und Untersuchung gemäß Anhang IV der Durchführungsrichtlinie 2014/98/EU erfüllen und
 
-3.
+3. den Anforderungen in Bezug auf Schadorganismen genügen, die in den gemäß der Verordnung (EU) 2016/2031 erlassenen Durchführungsrechtsakten und in den nach Artikel 30 Absatz 1 der Verordnung (EU) 2016/2031 erlassenen Maßnahmen festgelegt sind.
 
 (4) Mutterpflanzen sowie sonstiges anerkanntes Anbaumaterial sind auf Flächen oder Substraten anzubauen, die frei sind von RNQPs gemäß Anhang III der Durchführungsrichtlinie 2014/98/EU, falls diese Schadorganismen Viren enthalten, die die betreffende Gattung oder Art schädigen. Die Freiheit des Bodens von solchen Schadorganismen ist durch Beprobung und Untersuchung festzustellen. Beprobung und Untersuchung sind durchzuführen, bevor das betreffende Anbaumaterial angepflanzt wird, und während des Wachstums zu wiederholen, wenn der Verdacht des Auftretens eines Schadorganismus besteht.
 
-(5) Eine Pflicht zur Beprobung und Untersuchung nach Absatz 4 Satz 2 besteht nicht, Die Frist von fünf Jahren nach Satz 1 Nummer 1 beginnt mit Beginn des Jahres, das fünf Jahre vor dem Jahr des Anbaus liegt.
+(5) Eine Pflicht zur Beprobung und Untersuchung nach Absatz 4 Satz 2 besteht nicht,
 
-1.
+1. wenn auf dem Boden mindestens fünf Jahre lang keine Pflanze angebaut worden ist, die als Wirt für die in Anhang III der Durchführungsrichtlinie 2014/98/EU für die betreffende Gattung oder Art aufgeführten RNQPs dient, und wenn kein Zweifel daran besteht, dass die Fläche frei ist von den betreffenden Schadorganismen,
 
-2.
+2. wenn die zuständige Behörde auf der Grundlage einer amtlichen Prüfung zu dem Schluss gelangt ist, dass der Boden frei ist von den virusenthaltenden RNQPs, die die betreffende Gattung oder Art schädigen und in Anhang III der Durchführungsrichtlinie 2014/98/EU für die betreffende Gattung oder Art aufgeführt sind, oder
 
-3.
+3. im Fall der Erzeugung von Zertifizierten Pflanzen von Obstarten, die zum Anbau bestimmt sind, soweit nicht anders angegeben.
 
 (6) Mutterpflanzen für anerkanntes Anbaumaterial dürfen nur über den Zeitraum verwendet werden, in dem ihre Sortenechtheit gewährleistet ist.
 
@@ -412,39 +346,31 @@ b)
 
 (1) Auf Antrag kann die zuständige Behörde die Verwendung von Mutterpflanzen für Vorstufenmaterial mit Ausnahme von sonstigen Unterlagen, die keiner Sorte zugehören, genehmigen, wenn die Anforderungen des § 8 erfüllt sind und sie
 
-1.
+1. von Kandidatenmutterpflanzen stammen, die a)frei sind von den in den Anhängen I und II der Durchführungsrichtlinie 2014/98/EU für die betreffende Gattung oder Art aufgeführten Schadorganismen undb)insektensicher sowie physisch getrennt von Mutterpflanzen für Vorstufenmaterial in Einrichtungen gehalten werden, die für die betreffenden Gattungen oder Arten bestimmt sind und einen Befall durch luftbürtige Vektoren sowie andere mögliche Quellen während des gesamten Erzeugungsprozesses verhindern, bis alle Untersuchungen auf Einhaltung der Gesundheitsanforderungen gemäß § 8 Absatz 3 abgeschlossen sind, oder frei sind von den in den Anhängen I und II der Durchführungsrichtlinie 2014/98/EU für die betreffende Gattung oder Art aufgeführten Schadorganismen und insektensicher sowie physisch getrennt von Mutterpflanzen für Vorstufenmaterial in Einrichtungen gehalten werden, die für die betreffenden Gattungen oder Arten bestimmt sind und einen Befall durch luftbürtige Vektoren sowie andere mögliche Quellen während des gesamten Erzeugungsprozesses verhindern, bis alle Untersuchungen auf Einhaltung der Gesundheitsanforderungen gemäß § 8 Absatz 3 abgeschlossen sind, oder
 
-a)
+2. in Einrichtungen gehalten werden, die für die betreffenden Gattungen oder Arten bestimmt sowie insektensicher sind und einen Befall durch luftbürtige Vektoren sowie andere mögliche Quellen während des gesamten Erzeugungsprozesses verhindern,
 
-b)
+3. ohne Kontakt zur Bodenoberfläche in Töpfen mit Kultursubstraten ohne Erde oder sterilisierten Kultursubstraten angebaut oder erzeugt werden,
 
-2.
+4. so gehalten werden, dass ihre jeweilige Identifikation während des gesamten Erzeugungsprozesses gewährleistet ist und
 
-3.
-
-4.
-
-5.
+5. mit Etiketten gekennzeichnet werden, um ihre Nachverfolgbarkeit zu gewährleisten.
 
 (2) Abweichend von Absatz 1 Nummer 2 können bei bestimmten Gattungen oder Arten Mutterpflanzen für Vorstufenmaterial sowie Vorstufenmaterial unter nicht insektensicheren Bedingungen auf dem Feld erzeugt werden, wenn das Material die Anforderungen von Absatz 1 Nummer 4 und 5 erfüllt und die Ausnahme durch einen Rechtsakt der Europäischen Kommission für die Haltung von Vorstufenmaterial unter nicht insektensicheren Bedingungen im Freiland nach Artikel 8 Absatz 4 der Durchführungsrichtlinie 2014/98/EU der Kommission vom 15. Oktober 2014 zur Durchführung der Richtlinie 2008/90/EG des Rates hinsichtlich der spezifischen Anforderungen an die in deren Anhang I aufgeführten Gattungen und Arten von Obstpflanzen, der spezifischen Anforderungen an die Versorger und ausführlicher Bestimmungen für die amtliche Prüfung (ABl. L 298 vom 16.10.2014, S. 22) in der jeweils geltenden Fassung erlaubt wurde und das Bundesministerium für Ernährung und Landwirtschaft den jeweiligen Rechtsakt im Bundesanzeiger bekannt gemacht hat. Das Bundesministerium für Ernährung und Landwirtschaft macht auch die Änderungen sowie die Aufhebung des jeweiligen Rechtsaktes im Bundesanzeiger bekannt.
 
 (3) Auf Antrag kann die zuständige Behörde Vorstufenmaterial, mit Ausnahme von Mutterpflanzen und sonstigen Unterlagen, die keiner Sorte zugehören, anerkennen, wenn die Anforderungen des § 8 erfüllt sind und das Material
 
-1.
+1. von einer gemäß Absatz 1 genehmigten, erneuerten oder multiplizierten Vorstufenmutterpflanze vermehrt wird und
 
-2.
+2. den Anforderungen nach Absatz 1 Nummer 2 bis 5 und Absatz 2 Satz 1 und 2 entspricht.
 
 ### § 10 — Besondere Anforderungen an die Anerkennung von Basismaterial
 
 (1) Auf Antrag kann die zuständige Behörde Anbaumaterial, mit der Ausnahme von Mutterpflanzen und sonstigen Unterlagen, die keiner Sorte zugehören, als Basismaterial anerkennen,
 
-1.
+1. wenn das Anbaumaterial den Anforderungen von § 8 entspricht und
 
-2.
-
-a)
-
-b)
+2. von einer Mutterpflanze für Basismaterial stammt, die entweder a)direkt aus Vorstufenmaterial oderb)durch Multiplikation einer Basismutterpflanze erzeugt worden ist. Sind mehrere Generationen von Mutterpflanzen für Basismaterial zugelassen, dürfen alle Generationen mit Ausnahme der ersten aus jeder beliebigen vorherigen Generation hervorgehen. Dabei darf die maximal zulässige Anzahl der Generationen gemäß Anlage 3 und die maximal zulässige Lebensdauer von Mutterpflanzen der Arten Ribes und Rubus gemäß Anlage 3 nicht überschritten werden. Das Anbaumaterial unterschiedlicher Generationen ist getrennt zu halten. direkt aus Vorstufenmaterial oder durch Multiplikation einer Basismutterpflanze erzeugt worden ist. Sind mehrere Generationen von Mutterpflanzen für Basismaterial zugelassen, dürfen alle Generationen mit Ausnahme der ersten aus jeder beliebigen vorherigen Generation hervorgehen. Dabei darf die maximal zulässige Anzahl der Generationen gemäß Anlage 3 und die maximal zulässige Lebensdauer von Mutterpflanzen der Arten Ribes und Rubus gemäß Anlage 3 nicht überschritten werden. Das Anbaumaterial unterschiedlicher Generationen ist getrennt zu halten.
 
 (2) Die Bestände von Basismaterial müssen zu anderen Obstbeständen einen ausreichenden Abstand aufweisen, der zur Verhinderung des Befalls mit Viren, Viruskrankheiten oder virusähnlichen Schadorganismen über Pollen, Vektoren oder Wurzelverwachsungen erforderlich ist. Die zuständige Behörde bestimmt den ausreichenden Abstand und berücksichtigt dabei regionale Gegebenheiten, Art, Gattung und Typ des Anbaumaterials, das Auftreten von Schadorganismen im betreffenden Gebiet und das sich daraus ergebende Risiko.
 
@@ -468,27 +394,27 @@ b)
 
 (1) Anbaumaterial von Gemüse- und Zierpflanzenarten darf zu gewerblichen Zwecken nur in den Verkehr gebracht werden, wenn es von einem Warenbegleitpapier oder Etikett begleitet wird, das folgende Angaben enthält:
 
-1.
+1. Bezeichnung „EG-Qualität“;
 
-2.
+2. Angabe „DE“;
 
-3.
+3. Registriernummer des Versorgers;
 
-4.
+4. Kennzeichen der zuständigen Behörde;
 
-5.
+5. Lieferant und Seriennummer des Warenbegleitpapiers, Partienummer oder Nummer der Woche, in der das Anbaumaterial in den Verkehr gebracht wird;
 
-6.
+6. Ausstellungsdatum;
 
-7.
+7. Referenznummer der Saatgutpartie im Fall von Anbaumaterial von Gemüse, das direkt aus Samen gezogen worden ist;
 
-8.
+8. Art (botanische Bezeichnung oder bei Gemüse die landesübliche Bezeichnung);
 
-9.
+9. Sortenbezeichnung oder Bezeichnung der Pflanzengruppe;
 
-10.
+10. Stückzahl oder Gewicht des Anbaumaterials;
 
-11.
+11. wenn das Anbaumaterial seinen Ursprung in einem Drittland hat, den Namen des Ursprungslandes oder des Versandlandes.
 
 (2) Die Sortenbezeichnung ist für Zierpflanzenarten, die ohne eine Bezugnahme auf die Sorte in Verkehr gebracht werden sollen, nicht erforderlich. Bei der Abgabe von Anbaumaterial an nicht gewerbliche Endverbraucher ist die Beschränkung der Kennzeichnung auf die Angaben nach Absatz 1 Nummer 8 zulässig. Derjenige, der das Anbaumaterial in den Verkehr bringt, stellt das Warenbegleitpapier oder das Etikett aus. Das Warenbegleitpapier oder das Etikett darf nur zur Begleitung von Anbaumaterial einer Sendung verwendet werden. Eine Wiederverwendung für andere Sendungen ist unzulässig.
 
@@ -496,39 +422,33 @@ b)
 
 ### § 14 — Kennzeichnung, Verpackung und Verschließung bei Anbaumaterial von Obstarten
 
-(1) Anerkanntes Anbaumaterial von Obstarten darf zu gewerblichen Zwecken nur in den Verkehr gebracht werden, wenn es mit einem amtlichen Etikett gekennzeichnet ist, das folgende Angaben enthält: Das Etikett muss deutlich sichtbar, gut lesbar und unverwischbar bedruckt sein. Zur Kennzeichnung der Kategorie des anerkannten Anbaumaterials muss das Etikett die folgende Farbe haben:
+(1) Anerkanntes Anbaumaterial von Obstarten darf zu gewerblichen Zwecken nur in den Verkehr gebracht werden, wenn es mit einem amtlichen Etikett gekennzeichnet ist, das folgende Angaben enthält:
 
-1.
+1. Bezeichnung „EU-Rechtsvorschriften und -Normen“;
 
-2.
+2. Angabe „DE“;
 
-3.
+3. Registriernummer des Versorgers;
 
-4.
+4. Kennzeichen der zuständigen Behörde;
 
-5.
+5. Bezugsnummer der Packung, des Behältnisses oder des Bündels, laufende Nummer, Wochennummer oder Chargennummer;
 
-6.
+6. Art (botanische Bezeichnung);
 
-7.
+7. Kategorie, bei Basismaterial auch die Generation;
 
-8.
+8. Sortenbezeichnung und gegebenenfalls Bezeichnung des Klons; bei Unterlagen die keiner Sorte zugehören, die botanische Bezeichnung der Art oder der interspezifischen Hybride; bei veredelten Obstpflanzen die Bezeichnung für die Unterlage und für das Edelreis; bei Sorten, bei denen die Sortenzulassung oder die Erteilung des Sortenschutzes beantragt ist, die vorläufige Sortenbezeichnung und die Angabe „Sorte im laufenden Verfahren der Sortenzulassung“ oder die Angabe „Sorte im laufenden Verfahren der Sortenschutzerteilung“;
 
-9.
+9. bei Sorten mit amtlich anerkannter Beschreibung die Angabe „Sorte mit amtlich anerkannter Beschreibung“;
 
-10.
+10. Stückzahl des Anbaumaterials;
 
-11.
+11. Erzeugungsland und dessen Code, falls abweichend von Nummer 2;
 
-12.
+12. Jahr der Ausstellung des Etiketts;
 
-13.
-
-1.
-
-2.
-
-3.
+13. Jahr der Ausstellung des Originaletiketts, falls das Originaletikett ersetzt worden ist.
 
 (2) Das Etikett wird auf Antrag durch die zuständige Behörde ausgestellt, soweit aufgrund von Kontrollen der zuständigen Behörde gemäß § 15 festgestellt wurde, dass das Anbaumaterial den Anforderungen an die Anerkennung für Vorstufenmaterial gemäß § 9, für Basismaterial gemäß § 10, für Zertifiziertes Material gemäß § 11 oder für Unterlagen, die keiner Sorte zugehören, gemäß § 12 entspricht.
 
@@ -560,15 +480,15 @@ b)
 
 (7) Handelt es sich bei einer Kandidatenmutterpflanze für Vorstufenmaterial um einen Sämling, sind abweichend von Absatz 6 visuelle Kontrolle, Beprobung und Untersuchung lediglich auf Viren, Viroide oder virusähnliche Krankheiten, die durch Pollen übertragen werden und in Anhang II der Durchführungsrichtlinie 2014/98/EU für die betreffende Gattung oder Art aufgeführt sind, vorgeschrieben, wenn zusätzlich
 
-1.
+1. durch eine amtliche Prüfung der zuständigen Behörde bestätigt worden ist, dass der betreffende Sämling aus Samen einer Pflanze erzeugt worden ist, die frei von den durch Viren, Viroide und virusähnliche Krankheiten verursachten Symptomen ist, und
 
-2.
+2. der Sämling gemäß § 9 Absatz 1 Nummer 2 und 4 gehalten worden ist.
 
 (8) Stellt die zuständige Behörde fest, dass Anbaumaterial die Voraussetzungen dieser Verordnung nicht erfüllt, ordnet sie die nach den Umständen erforderlichen Maßnahmen an, insbesondere
 
-1.
+1. dessen geeignete Behandlung oder
 
-2.
+2. dessen Vernichtung.
 
 (9) Die zuständige Behörde zeichnet Ergebnisse und Zeitpunkte aller von ihr durchgeführten Feldbesichtigungen, Beprobungen und Untersuchungen auf und bewahrt die Aufzeichnungen drei Jahre auf. Die Frist beginnt mit dem Beginn des Jahres, das auf das letzte Jahr folgt, in dem die Maßnahmen durchgeführt worden sind.
 
@@ -582,13 +502,13 @@ b)
 
 (1) Die zuständige Behörde kann über die in § 15 aufgeführten Maßnahmen hinaus zur Durchführung von Vergleichsprüfungen in Betrieben und während des Inverkehrbringens Untersuchungen an Anbaumaterial durchführen und Proben entnehmen, um die Einhaltung der Anforderungen dieser Verordnung zu überprüfen. Sie kann die Proben auch an eine andere zuständige Behörde im Inland, die Vergleichsprüfungen nach Satz 1 durchführt, weiterleiten.
 
-(2) Absatz 1 gilt entsprechend für gemeinschaftliche Vergleichsprüfungen, soweit diese auf Grund einer Entscheidung der Europäischen Kommission nach in der jeweils geltenden Fassung durchgeführt werden. Die zuständige Behörde kann Proben auch an eine andere zuständige Behörde im Inland oder in einem anderen Mitgliedstaat, die Vergleichsprüfungen nach Satz 1 durchführt, weiterleiten.
+(2) Absatz 1 gilt entsprechend für gemeinschaftliche Vergleichsprüfungen, soweit diese auf Grund einer Entscheidung der Europäischen Kommission nach
 
-1.
+1. Artikel 14 Absatz 2 der Richtlinie 98/56/EG des Rates vom 20. Juli 1998 über das Inverkehrbringen von Vermehrungsmaterial von Zierpflanzen (ABl. L 226 vom 13.8.1998, S. 16), die zuletzt durch die Verordnung (EU) Nr. 652/2014 (ABl. L 189 vom 27.6.2014, S. 1) geändert worden ist,
 
-2.
+2. Artikel 20 Absatz 2 der Richtlinie 2008/72/EG des Rates vom 15. Juli 2008 über das Inverkehrbringen von Gemüsepflanzgut und Gemüsevermehrungsmaterial mit Ausnahme von Saatgut (ABl. L 205 vom 1.8.2008, S. 28), die zuletzt durch die Durchführungsrichtlinie 2013/45/EU (ABl. L 213 vom 8.8.2013, S. 20) geändert worden ist, und
 
-3.
+3. Artikel 14 Absatz 2 der Richtlinie 2008/90/EG
 
 (3) Stellt die zuständige Behörde bei den Untersuchungen nach Absatz 1 oder 2 fest, dass Anbaumaterial die Voraussetzungen dieser Verordnung nicht erfüllt, gilt § 15 Absatz 8 entsprechend.
 
@@ -598,11 +518,11 @@ b)
 
 Dem Julius Kühn-Institut, Bundesforschungsinstitut für Kulturpflanzen, wird die Befugnis zum Verkehr mit der Europäischen Kommission oder den zuständigen Behörden anderer Mitgliedstaaten in folgenden Fällen übertragen:
 
-1.
+1. Mitteilungen über Beanstandungen bei Sendungen von Anbaumaterial, wenn die Sendung nicht von einem Warenbegleitpapier, Etikett oder Pflanzenpass begleitet gewesen ist, diese sich als fehlerhaft erwiesen haben oder Maßnahmen nach § 15 Absatz 8 angeordnet worden sind,
 
-2.
+2. Mitteilungen über Kontrollen, Befunde und Maßnahmen nach § 15,
 
-3.
+3. Mitteilungen über die Durchführung, den Stand und die Ergebnisse von Vergleichsprüfungen nach § 16 Absatz 1 und 2 sowie über Maßnahmen, die nach § 16 Absatz 3 angeordnet worden sind.
 
 ## Abschnitt 3: Ein- und Ausfuhr
 
@@ -610,69 +530,53 @@ Dem Julius Kühn-Institut, Bundesforschungsinstitut für Kulturpflanzen, wird di
 
 (1) Anbaumaterial aus einem Drittland darf zu gewerblichen Zwecken nur eingeführt werden, wenn der Einführer vor der Einfuhr sichergestellt hat, dass das einzuführende Anbaumaterial solchem Anbaumaterial gleichwertig ist, das die folgenden Anforderungen erfüllt:
 
-1.
+1. im Fall von Standardmaterial von Obstpflanzen: die Anforderungen des § 6 Absatz 1,
 
-2.
+2. im Fall von anerkanntem Material von Obstpflanzen: die Anforderungen der §§ 8 bis 12,
 
-3.
+3. im Fall von Anbaumaterial von Zierpflanzen: die Anforderungen des § 6a Absatz 1 und
 
-4.
+4. im Fall von Anbaumaterial von Gemüsepflanzen: die Anforderungen des § 6b Absatz 1.
 
-(2) Anbaumaterial darf zu gewerblichen Zwecken aus einem Drittland nur eingeführt werden, wenn es von einem Dokument begleitet wird, das folgende Angaben in einer Amtssprache der Europäischen Union enthält: Für Anbaumaterial von Zierpflanzen ist die Angabe nach Satz 1 Nummer 7 nicht erforderlich, sofern das Anbaumaterial nicht mit Bezugnahme auf die Sorte in Verkehr gebracht werden soll.
+(2) Anbaumaterial darf zu gewerblichen Zwecken aus einem Drittland nur eingeführt werden, wenn es von einem Dokument begleitet wird, das folgende Angaben in einer Amtssprache der Europäischen Union enthält:
 
-1.
+1. Ursprungsland;
 
-2.
+2. Name des Absenders;
 
-3.
+3. Name des Empfängers;
 
-4.
+4. Seriennummer, Partienummer oder Angabe der Woche, in der die Einfuhr erfolgt;
 
-5.
+5. Ausstellungsdatum;
 
-6.
+6. Art (botanische Bezeichnung);
 
-7.
+7. Sortenbezeichnung, Bezeichnung der Pflanzengruppe oder im Fall von Unterlagen, die keiner Sorte zugehören, deren Bezeichnung;
 
-8.
+8. bei Obstpflanzen die Kategoriebezeichnung;
 
-9.
+9. Stückzahl oder Gewicht des Anbaumaterials;
 
-10.
-
-a)
-
-b)
-
-c)
-
-d)
+10. Bestätigung, dass das einzuführende Anbaumaterial mit solchem Anbaumaterial gleichwertig ist, das die folgenden Anforderungen erfüllt: a)im Fall von Standardmaterial von Obstpflanzen die Anforderungen des § 6 Absatz 1,b)im Fall von anerkanntem Material von Obstpflanzen die Anforderungen der §§ 8 bis 12,c)im Fall von Anbaumaterial von Zierpflanzen die Anforderungen des § 6a Absatz 1 undd)im Fall von Anbaumaterial von Gemüsepflanzen die Anforderungen des § 6b Absatz 1. im Fall von Standardmaterial von Obstpflanzen die Anforderungen des § 6 Absatz 1, im Fall von anerkanntem Material von Obstpflanzen die Anforderungen der §§ 8 bis 12, im Fall von Anbaumaterial von Zierpflanzen die Anforderungen des § 6a Absatz 1 und im Fall von Anbaumaterial von Gemüsepflanzen die Anforderungen des § 6b Absatz 1.
 
 (3) Wird das Anbaumaterial von einem Pflanzengesundheitszeugnis begleitet, das die Anforderungen des Internationalen Pflanzenschutzübereinkommens erfüllt, können die Angaben nach Absatz 2 auf diesem eingetragen sein. Dabei kann die erforderliche Angabe nach Absatz 2 Satz 1 Nummer 7 in dem Feld „Unterscheidungsmerkmale“ und die Angabe nach Absatz 2 Satz 1 Nummer 8 sowie die Angabe nach Absatz 2 Satz 1 Nummer 10 für anerkanntes Anbaumaterial in dem Feld „Zusätzliche Erklärung“ eingetragen werden.
 
 (4) Die Einfuhr von Anbaumaterial ist nur über die nach § 12 Satz 1 des Pflanzengesundheitsgesetzes im Bundesanzeiger bekannt gegebenen Zollstellen zulässig. Anbaumaterial wird von der zuständigen Behörde an der Einlassstelle oder an einem anderen geeigneten Ort vor der zollamtlichen Abfertigung auf die Erfüllung der folgenden Anforderungen stichprobenweise untersucht:
 
-1.
+1. im Fall von Standardmaterial von Obstpflanzen: auf die Erfüllung der Anforderungen des § 6 Absatz 5,
 
-2.
+2. im Fall von anerkanntem Material von Obstpflanzen: auf die Erfüllung der Anforderungen des § 8 Absatz 3,
 
-3.
+3. im Fall von Anbaumaterial von Zierpflanzen: auf die Erfüllung der Anforderungen des § 6a Absatz 5 und
 
-4.
+4. im Fall von Anbaumaterial von Gemüsepflanzen: auf die Erfüllung der Anforderungen des § 6b Absatz 5.
 
-(5) Wer Anbaumaterial aus einem Drittland einführt, hat Die Jahresfrist nach Satz 1 Nummer 2 beginnt mit dem Jahr, das auf das Jahr folgt, in dem der Vertrag geschlossen wurde. Im Fall von Satz 1 Nummer 1 gilt die amtliche Bescheinigung im Pflanzengesundheitszeugnis als amtliche Bescheinigung für anerkanntes Anbaumaterial. Aus dem in Satz 1 Nummer 2 genannten Nachweis müssen mindestens folgende Angaben hervorgehen:
+(5) Wer Anbaumaterial aus einem Drittland einführt, hat
 
-1.
+1. der für seine Registrierung zuständigen Behörde die Einfuhr von Anbaumaterial unter Angabe des Bestimmungsortes innerhalb einer Woche nach der Einfuhr schriftlich anzuzeigen und dabei im Fall von anerkanntem Anbaumaterial von Obst zusätzlich eine amtliche Bescheinigung des Ursprungslandes über die Gleichwertigkeit des eingeführten Anbaumaterials mit anerkanntem Anbaumaterial im Sinne dieser Verordnung vorzulegen,
 
-2.
-
-1.
-
-2.
-
-3.
-
-4.
+2. einen Nachweis über den Vertrag mit dem Lieferanten im Drittland mindestens ein Jahr, im Fall von Anbaumaterial von Obstarten zur Fruchterzeugung mindestens drei Jahre, aufzubewahren.
 
 (6) Das Vereinigte Königreich Großbritannien und Nordirland ist im Hinblick auf Anbaumaterial von Gemüsepflanzen, Standardmaterial von Obstpflanzen und anerkanntem Material von Obstpflanzen kein Drittland im Sinne der vorstehenden Absätze, sondern gilt als den Mitgliedstaaten der Europäischen Union gleichgestellt nach dem Durchführungsbeschluss (EU) 2020/2219 der Kommission vom 22. Dezember 2020 über die Gleichstellung von Gemüsepflanzgut und Gemüsevermehrungsmaterial mit Ausnahme von Saatgut sowie von Vermehrungsmaterial und Pflanzen von Obstarten zur Fruchterzeugung, die im Vereinigten Königreich erzeugt wurden (ABl. L 438 vom 28.12.2020, S. 66).
 
@@ -686,9 +590,9 @@ Anbaumaterial, das für die Ausfuhr in einen Staat außerhalb der Europäischen 
 
 (1) Die zuständige Behörde kann für Betriebe Ausnahmen von § 4 zulassen und von Kontrollen nach § 15 absehen, soweit
 
-1.
+1. das Anbaumaterial im Betrieb abgegeben oder auf Wochenmärkten nach § 67 Absatz 1 der Gewerbeordnung in Verkehr gebracht wird und
 
-2.
+2. das Anbaumaterial für nicht gewerbliche Endverbraucher bestimmt ist.
 
 (2) Die zuständige Behörde kann auf Antrag Ausnahmen von den §§ 4, 6, 6a und 6b für Anbaumaterial genehmigen, das für wissenschaftliche Zwecke, für Züchtungs- und Ausstellungszwecke oder zur Erhaltung der genetischen Vielfalt bestimmt ist.
 
@@ -696,13 +600,13 @@ Anbaumaterial, das für die Ausfuhr in einen Staat außerhalb der Europäischen 
 
 (1) Ordnungswidrig im Sinne des § 60 Absatz 1 Nummer 3 des Saatgutverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 4 Absatz 7 Satz 1 oder § 18 Absatz 5 Satz 1 Nummer 2 eine Aufzeichnung oder einen Nachweis nicht oder nicht für die vorgeschriebene Dauer aufbewahrt,
 
-2.
+2. entgegen § 13 Absatz 1 oder § 14 Absatz 1 Satz 1 Anbaumaterial in den Verkehr bringt,
 
-3.
+3. entgegen § 18 Absatz 1, 2 Satz 1 oder Absatz 4 Satz 1 Anbaumaterial einführt oder
 
-4.
+4. entgegen § 18 Absatz 5 Satz 1 Nummer 1 eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet.
 
 (2) Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 des Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 4 Absatz 4 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
@@ -710,13 +614,13 @@ Anbaumaterial, das für die Ausfuhr in einen Staat außerhalb der Europäischen 
 
 Handelt es sich bei Anbaumaterial von Obstarten um Samen oder Sämlinge, die aus Mutterpflanzen zur Erzeugung anerkannten Materials oder Standardmaterials hervorgegangen sind, welche die Anforderungen an die jeweiligen Kategorien erfüllt haben, darf dieses Anbaumaterial bis zum Ablauf des 31. Dezember 2029 in Verkehr gebracht werden, wenn
 
-1.
+1. das Anbaumaterial die Anforderungen der Anbaumaterialverordnung vom 16. Juni 1998 (BGBl. I S. 1322), die zuletzt durch Artikel 5 der Verordnung vom 10. Oktober 2012 (BGBl. I S. 2113) geändert worden ist, erfüllt,
 
-2.
+2. die Mutterpflanzen schon vor dem 1. Januar 2017 bestanden haben,
 
-3.
+3. die Kennzeichnung, Verschließung und Verpackung die Anforderungen nach § 14 erfüllen und
 
-4.
+4. auf dem Etikett oder in dem vom Verfügungsberechtigten ausgestellten Dokument angegeben wird, dass es sich um nach Artikel 32 der Durchführungsrichtlinie 2014/98/EU der Kommission vom 15. Oktober 2014 zur Durchführung der Richtlinie 2008/90/EG des Rates hinsichtlich der spezifischen Anforderungen an die in deren Anhang I aufgeführten Gattungen und Arten von Obstpflanzen, der spezifischen Anforderungen an die Versorger und ausführlicher Bestimmungen für die amtliche Prüfung (ABl. L 298 vom 16.10.2014, S. 22) in Verkehr gebrachtes Vermehrungsmaterial und Pflanzgut handelt.
 
 ### § 23 — Inkrafttreten, Außerkrafttreten
 
@@ -728,196 +632,6 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage 1 — (zu den §§ 1 und 2 Nummer 1)
 
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-12.
-
-13.
-
-14.
-
-15.
-
-16.
-
-17.
-
-18.
-
-19.
-
-20.
-
-21.
-
-22.
-
-23.
-
-_____________
-
 ### Anlage 2 — (zu § 6a Absatz 2 Nummer 3)
 
 ### Anlage 3 — (zu § 10 Absatz 1)
-
-_____________

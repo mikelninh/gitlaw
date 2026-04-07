@@ -12,7 +12,9 @@ Auf Grund des § 21 Abs. 2 Nr. 4 Buchstabe f des Zollgesetzes in der Fassung der
 
 ### § 1
 
-(1) Für in § 21 Abs. 2 Nr. 4 Buchstabe f Doppelbuchstabe cc des Zollgesetzes aufgeführte Waren, für die nach der Verordnung (EWG) Nr. 974/71 des Rates vom 12. Mai 1971 (Amtsblatt der Europäischen Gemeinschaften vom 12. Mai 1971 Nr. L 106) Ausgleichsbeträge zugelassen und von der Kommission der Europäischen Gemeinschaften festgesetzt sind, werden diese Ausgleichsbeträge als Angleichungszoll erhoben.(2) Soweit in einem anderen Mitgliedstaat der Europäischen Wirtschaftsgemeinschaft nachweislich für dieselbe Ware bereits Ausgleichsbeträge auf Grund der in Absatz 1 angeführten Verordnung erhoben worden sind, mindert sich die Angleichungszollschuld um diesen Betrag.(3) Der Bundesminister für Wirtschaft und Finanzen gibt die nach Absatz 1 betroffenen Waren und die von der Kommission der Europäischen Gemeinschaften festgesetzten Ausgleichsbeträge im Bundesanzeiger bekannt.
+(1) Für in § 21 Abs. 2 Nr. 4 Buchstabe f Doppelbuchstabe cc des Zollgesetzes aufgeführte Waren, für die nach der Verordnung (EWG) Nr. 974/71 des Rates vom 12. Mai 1971 (Amtsblatt der Europäischen Gemeinschaften vom 12. Mai 1971 Nr. L 106) Ausgleichsbeträge zugelassen und von der Kommission der Europäischen Gemeinschaften festgesetzt sind, werden diese Ausgleichsbeträge als Angleichungszoll erhoben.
+
+(2) Soweit in einem anderen Mitgliedstaat der Europäischen Wirtschaftsgemeinschaft nachweislich für dieselbe Ware bereits Ausgleichsbeträge auf Grund der in Absatz 1 angeführten Verordnung erhoben worden sind, mindert sich die Angleichungszollschuld um diesen Betrag.
 
 > § 1 Abs. 3 Kursivdruck: Jetzt "Bundesminister der Finanzen"
 

@@ -29,53 +29,53 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 4 — Struktur der Berufsausbildung, Ausbildungsberufsbild
 
-(1) Die Berufsausbildung gliedert sich in: Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
+(1) Die Berufsausbildung gliedert sich in:
 
-1.
+1. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 (2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. Abwicklung von Prüfaufträgen vorbereiten,
 
-2.
+2. Betriebsbereitschaft von Prüfplätzen sicherstellen,
 
-3.
+3. Proben nehmen und vorbereiten,
 
-4.
+4. chemische und mineralogische Zusammensetzung von Rohstoffen und Werkstoffen ermitteln,
 
-5.
+5. physikalische und keramische Eigenschaften von Rohstoffen und Werkstoffen ermitteln,
 
-6.
+6. anwendungstechnische Prüfungen und Versuche durchführen,
 
-7.
+7. Prüfergebnisse bewerten und dokumentieren,
 
-8.
+8. Medien der betrieblichen und technischen Kommunikation anwenden und
 
-9.
+9. Prozesse des Qualitätsmanagements anwenden.
 
 (3) Die Berufsbildpositionen der integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. Berufsbildung sowie Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Sicherheit und Gesundheitsschutz bei der Arbeit und
 
-4.
+4. Umweltschutz.
 
-(4) Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in mindestens einem der folgenden Einsatzgebiete zu vermitteln: Das Einsatzgebiet oder die Einsatzgebiete werden vom Ausbildungsbetrieb vor Beginn der Ausbildung festgelegt.
+(4) Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in mindestens einem der folgenden Einsatzgebiete zu vermitteln:
 
-1.
+1. Prüfen von Keramik,
 
-2.
+2. Prüfen von Glas und Emaille,
 
-3.
+3. Prüfen von anorganischen Rohstoffen und Industriemineralen,
 
-4.
+4. Prüfen von Zement- und Bindemitteln und
 
-5.
+5. Prüfen von anorganischen nichtmetallischen Werkstoffen.
 
 ### § 5 — Ausbildungsplan
 
@@ -93,45 +93,45 @@ Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage de
 
 Die Zwischenprüfung erstreckt sich auf
 
-1.
+1. die im Ausbildungsrahmenplan für die ersten 18 Monate genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 ### § 8 — Prüfungsbereiche
 
 Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
-1.
+1. Rohstoff- und Werkstoffprüfung sowie
 
-2.
+2. Werkstofftechnologie und Werkstoffeigenschaften.
 
 ### § 9 — Prüfungsbereich Rohstoff- und Werkstoffprüfung
 
-(1) Im Prüfungsbereich Rohstoff- und Werkstoffprüfung soll der Prüfling nachweisen, dass er in der Lage ist, sechs der folgenden Untersuchungen durchzuführen: Weiterhin soll er nachweisen, dass er in der Lage ist, bei der jeweiligen Untersuchung Vorgaben zum Arbeits-, Gesundheits- und Umweltschutz einzuhalten.
+(1) Im Prüfungsbereich Rohstoff- und Werkstoffprüfung soll der Prüfling nachweisen, dass er in der Lage ist, sechs der folgenden Untersuchungen durchzuführen:
 
-1.
+1. Dichte messen,
 
-2.
+2. Porosität ermitteln,
 
-3.
+3. Feuchte bestimmen,
 
-4.
+4. Korngröße bestimmen,
 
-5.
+5. Glühverlust bestimmen,
 
-6.
+6. Brennfarbe prüfen,
 
-7.
+7. Schwindung prüfen,
 
-8.
+8. Maßhaltigkeit prüfen,
 
-9.
+9. äußere Beschaffenheit prüfen,
 
-10.
+10. Vorprobe mit Boraxperle durchführen,
 
-11.
+11. Vorprobe mit Flammenfärbung durchführen und
 
-12.
+12. pH-Wert messen.
 
 (2) Der Prüfungsausschuss legt die sechs durchzuführenden Untersuchungen fest. Der Prüfling soll zu jeder der sechs Untersuchungen jeweils eine Arbeitsprobe durchführen.
 
@@ -141,13 +141,13 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (1) Im Prüfungsbereich Werkstofftechnologie und Werkstoffeigenschaften soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Eigenschaften und Anwendungsbereiche von Rohstoffen und Werkstoffen zu beschreiben,
 
-2.
+2. branchentypische Herstellungsverfahren darzustellen,
 
-3.
+3. Maßnahmen zur Qualitätssicherung aufzuzeigen und
 
-4.
+4. fachliche Berechnungen durchzuführen.
 
 (2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
 
@@ -165,49 +165,39 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 Die Abschlussprüfung erstreckt sich auf
 
-1.
+1. die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 ### § 13 — Prüfungsbereiche
 
 Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
-1.
+1. Probennahme und Probenvorbereitung,
 
-2.
+2. Physikalische, chemische und keramische Prüfungen,
 
-3.
+3. Prüftechnik sowie
 
-4.
+4. Wirtschafts- und Sozialkunde.
 
 ### § 14 — Prüfungsbereich Probennahme und Probenvorbereitung
 
-(1) Im Prüfungsbereich Probennahme und Probenvorbereitung soll der Prüfling nachweisen, dass er in der Lage ist, Der Prüfling soll eine Arbeitsprobe durchführen.
+(1) Im Prüfungsbereich Probennahme und Probenvorbereitung soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. repräsentative Proben zu entnehmen,
 
-2.
+2. Proben zu kennzeichnen,
 
-3.
+3. Probennahmeprotokolle zu erstellen sowie
 
-4.
+4. Vorgaben zum Arbeits-, Gesundheits- und Umweltschutz, zum Qualitätsmanagement und zur Wirtschaftlichkeit einzuhalten.
 
-(2) Weiterhin soll der Prüfling nachweisen, dass er in der Lage ist, Für den Nachweis sind zwei der folgenden Tätigkeiten zugrunde zu legen: Der Prüfungsausschuss legt fest, welche zwei Tätigkeiten zugrunde gelegt werden. Der Prüfling soll zu jeder der beiden Tätigkeiten jeweils eine Arbeitsprobe durchführen.
+(2) Weiterhin soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Proben vorzubereiten sowie
 
-2.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
+2. Vorgaben zum Arbeits-, Gesundheits- und Umweltschutz, zum Qualitätsmanagement und zur Wirtschaftlichkeit einzuhalten.
 
 (3) Die Prüfungszeit beträgt für alle drei Arbeitsproben 120 Minuten.
 
@@ -215,39 +205,19 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (1) Im Prüfungsbereich Physikalische, chemische und keramische Prüfungen soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Prüf-, Mess- und Hilfsmittel auszuwählen und vorzubereiten,
 
-2.
+2. Festigkeit, Dichte, Porosität, Korngröße und Korngrößenverteilung zu bestimmen,
 
-3.
+3. eine der folgenden Eigenschaften zu bestimmen: a)Viskosität,b)Plastizität,c)Temperaturwechselbeständigkeit oderd)Schmelzverhalten, Viskosität, Plastizität, Temperaturwechselbeständigkeit oder Schmelzverhalten,
 
-a)
+4. Proben durch eines der folgenden Verfahren zu prüfen: a)qualitative Fällungs- und Farbreaktion,b)Spektroskopie,c)Volumetrie,d)Dilatometrie,e)Differenzthermoanalyse oderf)Thermogravimetrie, qualitative Fällungs- und Farbreaktion, Spektroskopie, Volumetrie, Dilatometrie, Differenzthermoanalyse oder Thermogravimetrie,
 
-b)
+5. Messwerte auf Plausibilität zu prüfen,
 
-c)
+6. Arbeitsschritte, Berechnungen und Ergebnisse zu dokumentieren und
 
-d)
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-5.
-
-6.
-
-7.
+7. Vorgaben zum Arbeits-, Gesundheits- und Umweltschutz, zum Qualitätsmanagement und zur Wirtschaftlichkeit einzuhalten.
 
 (2) Der Prüfling soll eine Arbeitsaufgabe durchführen. Während der Durchführung wird mit ihm ein situatives Fachgespräch über die Arbeitsaufgabe geführt.
 
@@ -257,19 +227,19 @@ f)
 
 (1) Im Prüfungsbereich Prüftechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Probennahmepläne zu erstellen,
 
-2.
+2. fachliche Berechnungen durchzuführen,
 
-3.
+3. Messwerte statistisch auszuwerten,
 
-4.
+4. chemische und physikalische Grundlagen von Prüfverfahren zu erklären,
 
-5.
+5. Funktionsweisen von Prüfgeräten und Prüfmitteln zu beschreiben,
 
-6.
+6. Maßnahmen zum Arbeits-, Gesundheits- und Umweltschutz zu beschreiben und
 
-7.
+7. Prozesse des Qualitätsmanagements darzustellen.
 
 (2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
 
@@ -287,27 +257,27 @@ f)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
-1.
+1. Probennahme und Proben- vorbereitung mit10 Prozent,
 
-2.
+2. Physikalische, chemische und keramische Prüfungen mit40 Prozent,
 
-3.
+3. Prüftechnik mit40 Prozent sowie
 
-4.
+4. Wirtschafts- und Sozialkunde mit10 Prozent.
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-1.
+1. im Gesamtergebnis mit mindestens „ausreichend“,
 
-2.
+2. in mindestens drei Prüfungsbereichen mit mindestens „ausreichend“ und
 
-3.
+3. in keinem Prüfungsbereich mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Prüftechnik“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Prüftechnik“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.
+1. der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
-2.
+2. die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 ## Abschnitt 4: Schlussvorschriften
 
@@ -320,143 +290,3 @@ Berufsausbildungsverhältnisse zum Beruf des Stoffprüfers Chemie und der Stoffp
 Diese Verordnung tritt am 1. August 2018 in Kraft.
 
 ### Anlage — (zu § 3 Absatz 1)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)

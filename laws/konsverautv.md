@@ -35,7 +35,11 @@ Zahlungen für ein Konkurrenz- und Wettbewerbsverbot nach Beendigung des Dienstv
 
 ### § 6 — Abfindung, Urlaubsentschädigung und Qualifikationskonflikte
 
-(1) Eine gesetzliche oder freiwillige Abfindung aus Anlass der Beendigung des Arbeitsverhältnisses sowie eine Urlaubsentschädigung unterliegen in jenem Staat der Besteuerung, der auch für die Bezüge aus der aktiven Tätigkeit besteuerungsberechtigt war.(2) Können Gehaltsfortzahlungen, Zahlungen für ein Konkurrenz- und Wettbewerbsverbot, Abfindungen und Urlaubsentschädigungen aus Anlass der Auflösung des Dienstverhältnisses, welche eine in einem Vertragsstaat ansässige Person nach Wegzug aus dem Tätigkeitsstaat von ihrem ehemaligen, im jeweils anderen Vertragsstaat ansässigen Arbeitgeber erhält, aufgrund der durch das maßgebliche innerstaatliche Recht dieses Staates gebotenen Anwendung des Abkommens nicht im ehemaligen Tätigkeitsstaat besteuert werden, liegt ein negativer Qualifikationskonflikt vor und diese Abfindungszahlungen werden gemäß Artikel 28 Absatz 1 Buchstabe a des Abkommens im jeweiligen Ansässigkeitsstaat dieser Person besteuert.(3) Im Falle eines positiven Qualifikationskonflikts wird der Eintritt einer Doppelbesteuerung durch Steuerfreistellung im Ansässigkeitsstaat vermieden.
+(1) Eine gesetzliche oder freiwillige Abfindung aus Anlass der Beendigung des Arbeitsverhältnisses sowie eine Urlaubsentschädigung unterliegen in jenem Staat der Besteuerung, der auch für die Bezüge aus der aktiven Tätigkeit besteuerungsberechtigt war.
+
+(2) Können Gehaltsfortzahlungen, Zahlungen für ein Konkurrenz- und Wettbewerbsverbot, Abfindungen und Urlaubsentschädigungen aus Anlass der Auflösung des Dienstverhältnisses, welche eine in einem Vertragsstaat ansässige Person nach Wegzug aus dem Tätigkeitsstaat von ihrem ehemaligen, im jeweils anderen Vertragsstaat ansässigen Arbeitgeber erhält, aufgrund der durch das maßgebliche innerstaatliche Recht dieses Staates gebotenen Anwendung des Abkommens nicht im ehemaligen Tätigkeitsstaat besteuert werden, liegt ein negativer Qualifikationskonflikt vor und diese Abfindungszahlungen werden gemäß Artikel 28 Absatz 1 Buchstabe a des Abkommens im jeweiligen Ansässigkeitsstaat dieser Person besteuert.
+
+(3) Im Falle eines positiven Qualifikationskonflikts wird der Eintritt einer Doppelbesteuerung durch Steuerfreistellung im Ansässigkeitsstaat vermieden.
 
 ## Abschnitt 3: Schlussbestimmungen
 

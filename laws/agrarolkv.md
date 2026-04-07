@@ -10,9 +10,9 @@
 
 Das Bundesministerium für Ernährung und Landwirtschaft verordnet auf Grund
 
-–
+– des § 2 Absatz 3, des § 4 Absatz 1, im Falle des § 4 Absatz 1 Nummer 1 auch in Verbindung mit § 1 Absatz 2 Satz 1 und § 4 Absatz 2 Satz 1 Nummer 1 sowie im Falle des § 4 Absatz 1 Nummer 2 Buchstabe c Doppelbuchstabe cc auch in Verbindung mit Absatz 2 Satz 1 Nummer 2, des § 5 Absatz 4 Satz 1 Nummer 1 in Verbindung mit Satz 2, des § 5 Absatz 4 Satz 1 Nummer 2 und 3, des § 6 Absatz 2, des § 7 Absatz 1 Satz 1 und 3 in Verbindung mit Absatz 3 Satz 2 und 3, des § 25 Absatz 2, des § 28 Absatz 3, des § 53 Absatz 1 Nummer 1, des § 54 Absatz 1 sowie des § 55 Absatz 3 des Agrarorganisationen-und-Lieferketten-Gesetzes, von denen § 1 Absatz 2 Satz 1, § 2 Absatz 3, § 4, § 5 Absatz 4 Satz 1 Nummer 1 bis 3 und Satz 2, § 6 Absatz 2 sowie § 7 Absatz 1 Satz 1 und 3 sowie Absatz 3 Satz 2 und 3 durch Artikel 1 des Gesetzes vom 2. Juni 2021 (BGBl. I S. 1278) geändert worden sind und § 25 Absatz 2, § 28 Absatz 3, § 53 Absatz 1 Nummer 1, § 54 Absatz 1 Satz 1 und § 55 Absatz 3 durch Artikel 1 des Gesetzes vom 2. Juni 2021 (BGBl. I S. 1278) eingefügt worden sind, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und
 
-–
+– des § 3 Absatz 3 und des § 8 Absatz 5 Satz 1 und 3 des Agrarorganisationen-und-Lieferketten-Gesetzes, die durch Artikel 1 des Gesetzes vom 2. Juni 2021 (BGBl. I S. 1278) eingefügt worden sind:
 
 ### Inhaltsübersicht
 
@@ -22,9 +22,9 @@ Das Bundesministerium für Ernährung und Landwirtschaft verordnet auf Grund
 
 (1) Die Bereiche von Agrarerzeugnissen, für die jeweils Agrarorganisationen anerkannt werden können, (Erzeugnisbereiche) sind
 
-1.
+1. die Sektoren, die in Artikel 1 Absatz 2 Buchstabe a bis h und j bis w der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 des Rates (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom 6.4.2020, S. 12) in der jeweils geltenden Fassung festgelegt sind, wobei die in Abschnitt I der Anlage dieser Verordnung enthaltenen Ergänzungen einzelner dieser Sektoren als Bestandteil des jeweiligen Erzeugnisbereichs gelten, sowie
 
-2.
+2. die in Abschnitt II der Anlage dieser Verordnung genannten Erzeugnisbereiche.
 
 (2) In den Erzeugnisbereichen nach Absatz 1 richtet sich die Anerkennung von Agrarorganisationen nach den Bestimmungen des Unionsrechts und ergänzend nach den Bestimmungen des Agrarorganisationen-und-Lieferketten-Gesetzes und dieser Verordnung.
 
@@ -36,17 +36,17 @@ Das Bundesministerium für Ernährung und Landwirtschaft verordnet auf Grund
 
 (1) Eine Agrarorganisation ist auf Antrag anzuerkennen, wenn sie folgende Voraussetzungen erfüllt:
 
-1.
+1. die allgemeinen Anerkennungsvoraussetzungen des § 3 und
 
-2.
+2. die besonderen Anerkennungsvoraussetzungen, die jeweils für die antragstellende Agrarorganisation nach dem Unionsrecht, dem Agrarorganisationen-und-Lieferketten-Gesetz und dieser Verordnung für bestimmte Agrarorganisationen oder bestimmte Erzeugnisbereiche gelten.
 
 (2) Für jeden Erzeugnisbereich, in dem eine Agrarorganisation tätig ist, bedarf es einer gesonderten Anerkennung.
 
 (3) Eine anerkannte Agrarorganisation darf Folgendes nicht als von ihrer Anerkennung umfasst bezeichnen oder einen entsprechenden Eindruck erwecken:
 
-1.
+1. eine Tätigkeit, die sich auf außerhalb ihrer Anerkennung liegende Agrarerzeugnisse bezieht, oder
 
-2.
+2. Agrarerzeugnisse im Sinne der Nummer 1.
 
 (4) Die Wahrnehmung der Rechte und Pflichten, die einer Agrarorganisation durch das Agrarorganisationenrecht, insbesondere durch die Verordnung (EU) Nr. 1308/2013, das Agrarorganisationen-und-Lieferketten-Gesetz und diese Verordnung, zugewiesen sind, obliegt den Personen, die auf Grund der Satzung im Sinne von § 4 Absatz 1 Nummer 2 Buchstabe b des Agrarorganisationen-und-Lieferketten-Gesetzes (Satzung) der Agrarorganisation zur Vertretung derselben im Rechtsverkehr bestellt sind.
 
@@ -54,47 +54,25 @@ Das Bundesministerium für Ernährung und Landwirtschaft verordnet auf Grund
 
 Eine Agrarorganisation muss
 
-1.
+1. eine juristische Person des Privatrechts oder des öffentlichen Rechts oder eine Personenvereinigung des Privatrechts sein,
 
-2.
+2. ihre Gründung auf eine Initiative ihrer Gründungsmitglieder zurückführen können,
 
-3.
+3. soweit es sich nicht um einen Branchenverband handelt, ihren Hauptsitz in einem Land haben, in dem sie a)über Mitglieder verfügt undb)eine im Vergleich mit ihrer Gesamttätigkeit nicht nur unbedeutende Tätigkeit entfaltet, über Mitglieder verfügt und eine im Vergleich mit ihrer Gesamttätigkeit nicht nur unbedeutende Tätigkeit entfaltet,
 
-a)
-
-b)
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
+4. eine Satzung haben, die Bestimmungen enthält a)zu ihrem Namen,b)zu ihrem Hauptsitz,c)zur Erfüllung der Anerkennungsvoraussetzungen,d)zur Ausübung einer demokratischen Kontrolle der Mitglieder über die Agrarorganisation als Ganzes und die Entscheidungen der Agrarorganisation,e)zu Mitgliedschaftsbeiträgen,f)zur sachgerechten Ausübung der Aufgaben,g)zur Aufnahme neuer Mitglieder und der Beendigung der Mitgliedschaft,h)zu Sanktionen bei Verstößen gegen die Mitgliedschaftspflichten undi)zur Einrichtung von Zweigstellen. zu ihrem Namen, zu ihrem Hauptsitz, zur Erfüllung der Anerkennungsvoraussetzungen, zur Ausübung einer demokratischen Kontrolle der Mitglieder über die Agrarorganisation als Ganzes und die Entscheidungen der Agrarorganisation, zu Mitgliedschaftsbeiträgen, zur sachgerechten Ausübung der Aufgaben, zur Aufnahme neuer Mitglieder und der Beendigung der Mitgliedschaft, zu Sanktionen bei Verstößen gegen die Mitgliedschaftspflichten und zur Einrichtung von Zweigstellen.
 
 ### § 4 — Anerkennungsverfahren
 
-(1) Die Anerkennung ist bei der zuständigen Stelle zu beantragen. Dem Antrag sind beizufügen: Soweit eine nicht in einem amtlichen Register eintragungsfähige Personenvereinigung einen Antrag auf Anerkennung stellt, hat diese abweichend von Satz 2 Nummer 4 eine beglaubigte Abschrift des Gründungsdokuments beizufügen. Die Agrarorganisation hat auf Verlangen der zuständigen Stelle weitere Angaben zu machen und Nachweise vorzulegen, soweit die auf Grund der Sätze 2 und 3 eingereichten Unterlagen für die Prüfung der Anerkennungsvoraussetzungen nicht ausreichend sind und soweit dies für die Prüfung der Anerkennung erforderlich ist.
+(1) Die Anerkennung ist bei der zuständigen Stelle zu beantragen. Dem Antrag sind beizufügen:
 
-1.
+1. die geltende Satzung der Agrarorganisation und die Verträge, die im Rahmen des § 11 geschlossen worden sind,
 
-2.
+2. eine Liste mit Namen, im Falle natürlicher Personen der Vornamen und Nachnamen, aller zum Zeitpunkt des Antrages vorhandenen Mitglieder der Agrarorganisation einschließlich deren jeweiliger Anschrift,
 
-3.
+3. ein Nachweis für jedes in Nummer 2 genannte Mitglied, dass es die Anforderungen des Agrarorganisationenrechts an die Mitgliedschaft erfüllt, sowie
 
-4.
+4. ein Nachweis, dass die antragstellende Agrarorganisation die Voraussetzung des § 3 Nummer 1 erfüllt.
 
 (2) Über den Antrag ist innerhalb von vier Monaten ab dem Vorliegen der für die Prüfung der Anerkennung erforderlichen Angaben und Unterlagen durch Bescheid zu entscheiden. Fehlen erforderliche Angaben oder Unterlagen, unterrichtet die Behörde die antragstellende Agrarorganisation hiervon.
 
@@ -108,15 +86,11 @@ i)
 
 (1) Die Anerkennung ist unbeschadet des § 48 des Verwaltungsverfahrensgesetzes zurückzunehmen, wenn eine Anerkennungsvoraussetzung bei der Anerkennung nicht gegeben war. Sie ist zu widerrufen, wenn nachträglich eine Anerkennungsvoraussetzung nicht mehr erfüllt wird. Anstelle der Rücknahme oder des Widerrufs kann die zuständige Stelle das Ruhen der Anerkennung anordnen, wenn Tatsachen die Annahme rechtfertigen, dass der Grund für die Rücknahme oder den Widerruf innerhalb einer angemessenen Frist beseitigt werden wird.
 
-(2) Unbeschadet des Absatzes 1 Satz 2 und des § 49 des Verwaltungsverfahrensgesetzes kann die Anerkennung widerrufen werden, wenn Soweit anderweitiges Fachrecht betroffen ist, hat die erforderliche Anhörung der Agrarorganisation unter Beteiligung der jeweils zuständigen Fachbehörde zu erfolgen. Anstelle des Widerrufs kann entsprechend Absatz 1 Satz 3 das Ruhen der Anerkennung angeordnet werden.
+(2) Unbeschadet des Absatzes 1 Satz 2 und des § 49 des Verwaltungsverfahrensgesetzes kann die Anerkennung widerrufen werden, wenn
 
-1.
+1. eine Agrarorganisation wiederholt verstößt gegen a)Bestimmungen in den Artikeln 149, 152 bis 165, 166a und 167 der Verordnung (EU) Nr. 1308/2013 und in den auf der Grundlage der Artikel 166, 173 und 174 der Verordnung (EU) Nr. 1308/2013 erlassenen Rechtsakten oderb)Bestimmungen dieser Verordnung, die den in Buchstabe a bezeichneten Bestimmungen entsprechen, oder Bestimmungen in den Artikeln 149, 152 bis 165, 166a und 167 der Verordnung (EU) Nr. 1308/2013 und in den auf der Grundlage der Artikel 166, 173 und 174 der Verordnung (EU) Nr. 1308/2013 erlassenen Rechtsakten oder Bestimmungen dieser Verordnung, die den in Buchstabe a bezeichneten Bestimmungen entsprechen, oder
 
-a)
-
-b)
-
-2.
+2. im Bereich der unter die Anerkennung fallenden Tätigkeiten fortgesetzt ein schwerwiegender Rechtsverstoß begangen wird, der der Agrarorganisation zurechenbar ist und durch den das Erscheinungsbild der Agrarorganisation so erheblich beeinträchtigt wird oder werden kann, dass eine staatliche Anerkennung dazu in Widerspruch steht.
 
 (3) Ändert sich nach der Anerkennung eine Anerkennungsvoraussetzung des Agrarorganisationenrechts, müssen die betroffenen Agrarorganisationen die geänderte Anerkennungsvoraussetzung innerhalb von zwölf Monaten nach dem Wirksamwerden der Änderung erfüllen. Weist die zuständige Stelle die Agrarorganisation auf die Änderung schriftlich hin, muss die Agrarorganisation der zuständigen Stelle auf Verlangen bis zum Ablauf der in Satz 1 genannten Frist mitteilen, dass sie die geänderte Anerkennungsvoraussetzung erfüllt. Erfolgt keine Mitteilung nach Satz 2 oder erfüllt die Agrarorganisation die geänderte Anerkennungsvoraussetzung bis zum Ablauf der in Satz 1 genannten Frist nicht, ordnet die zuständige Stelle das Erlöschen der Anerkennung durch Bescheid an. Anstelle des Erlöschens kann das Ruhen der Anerkennung angeordnet werden, wenn Tatsachen die Annahme rechtfertigen, dass die nicht erfüllte Anerkennungsvoraussetzung innerhalb einer angemessenen Frist erfüllt werden wird.
 
@@ -140,23 +114,19 @@ Leitet die zuständige Kartellbehörde ein Verfahren gegen eine anerkannte Agrar
 
 Jede Erzeugerorganisation hat mindestens eines der folgenden Ziele ganz oder teilweise zu verfolgen:
 
-1.
+1. Sicherstellung einer planvollen und insbesondere in quantitativer und qualitativer Hinsicht nachfragegerechten Erzeugung,
 
-2.
+2. Bündelung des Angebots und Vermarktung der Erzeugung ihrer Mitglieder oder
 
-3.
+3. Verringerung der Produktionskosten und Stabilisierung der Erzeugerpreise.
 
 ### § 9 — Mitgliedschaft
 
-(1) Mitglied in einer Erzeugerorganisation kann nur sein, wer Satz 1 Nummer 2 gilt nicht im Erzeugnisbereich Milch und Milcherzeugnisse.
+(1) Mitglied in einer Erzeugerorganisation kann nur sein, wer
 
-1.
+1. Agrarurerzeugnisse erzeugt, a)die zu dem Erzeugnisbereich gehören, der von der Erzeugerorganisation abgedeckt ist, oderb)aus denen von ihr oder ihm oder der Erzeugerorganisation ein Agrarverarbeitungserzeugnis hergestellt wird, das zu dem von der Erzeugerorganisation abgedeckten Erzeugnisbereich gehört, und die zu dem Erzeugnisbereich gehören, der von der Erzeugerorganisation abgedeckt ist, oder aus denen von ihr oder ihm oder der Erzeugerorganisation ein Agrarverarbeitungserzeugnis hergestellt wird, das zu dem von der Erzeugerorganisation abgedeckten Erzeugnisbereich gehört, und
 
-a)
-
-b)
-
-2.
+2. vorbehaltlich des Satzes 2 oder des Absatzes 2 nicht Mitglied einer anderen Erzeugerorganisation in diesem Erzeugnisbereich ist.
 
 (2) Abweichend von Absatz 1 Satz 1 Nummer 2 kann einer Erzeugerorganisation auch eine erzeugende Person, die zugleich Mitglied einer oder mehrerer anderer Erzeugerorganisationen in diesem Erzeugnisbereich ist, nach Maßgabe der Sätze 2 bis 4 angehören. Die betreffende Person muss zwei getrennte Produktionseinheiten in unterschiedlichen geografischen Gebieten besitzen. Soweit eine oder mehrere Produktionseinheiten in einem anderen geografischen Gebiet liegen, darf die erzeugende Person für diese Produktionseinheiten einer anderen Erzeugerorganisation angehören. Unterschiedliche geografische Gebiete liegen vor, wenn die betroffenen Erzeugerorganisationen unterschiedliche räumliche Bereiche abdecken.
 
@@ -180,8 +150,6 @@ b)
 
 ### § 11 — Übertragung von Tätigkeiten an Dritte
 
-Sieht die Satzung einer Erzeugerorganisation vor, dass nach Maßgabe des Unionsrechts Tätigkeiten an Dritte übertragen werden dürfen, muss die Satzung sicherstellen, dass die oder der jeweilige Dritte der Aufsicht der Erzeugerorganisation unterliegt. Das nach Satz 1 maßgebliche Unionsrecht gilt für Nicht-Anhang-I-Erzeugnisse im Sinne des § 2 Absatz 2 Nummer 2 des Agrarorganisationen-und-Lieferketten-Gesetzes entsprechend.
-
 ### § 12 — Vereinigungen anerkannter Erzeugerorganisationen
 
 (1) Jede Vereinigung hat mindestens eines der in § 8 genannten Ziele ganz oder teilweise zu verfolgen.
@@ -202,41 +170,37 @@ Sieht die Satzung einer Erzeugerorganisation vor, dass nach Maßgabe des Unionsr
 
 (2) Insbesondere kann ein Branchenverband folgende Ziele verfolgen:
 
-1.
+1. Marktforschung und Werbung,
 
-2.
+2. Verbesserung der Erzeugung, Verarbeitung und Vermarktung,
 
-3.
+3. Förderung der guten fachlichen Praxis der landwirtschaftlichen Erzeugung und
 
-4.
+4. Förderung der Produktqualität, des ökologischen Landbaus und regionaler Produkte.
 
 (3) Der Branchenverband darf nicht
 
-1.
+1. Agrarerzeugnisse erzeugen, verarbeiten oder vermarkten,
 
-2.
+2. Mengen- und Preisabsprachen sowie damit vergleichbare Handlungen vornehmen,
 
-3.
+3. Wettbewerbsverzerrungen hervorrufen oder
 
-4.
-
-a)
-
-b)
+4. Handlungen vornehmen, die a)zur Erreichung der mit der Tätigkeit des Branchenverbandes verfolgten Ziele der gemeinsamen Agrarpolitik nicht unbedingt erforderlich sind oderb)das ordnungsgemäße Funktionieren der gemeinsamen Organisation der Agrarmärkte gefährden. zur Erreichung der mit der Tätigkeit des Branchenverbandes verfolgten Ziele der gemeinsamen Agrarpolitik nicht unbedingt erforderlich sind oder das ordnungsgemäße Funktionieren der gemeinsamen Organisation der Agrarmärkte gefährden.
 
 ### § 14 — Zusammensetzung der Mitglieder
 
 (1) Ein Branchenverband für einen Erzeugnisbereich muss Mitglieder haben, die tätig sind in
 
-1.
+1. der Erzeugung und
 
-2.
+2. der Verarbeitung oder des Handels.
 
-(2) Die Mitglieder müssen Beschränkt sich der Branchenverband in seiner Satzung auf den Teil eines Erzeugnisbereichs und stellt dieser Teil einen eigenständigen Markt dar, bezieht sich der wesentliche Anteil im Sinne des Satzes 1 Nummer 2 auf diesen Teil des Erzeugnisbereichs.
+(2) Die Mitglieder müssen
 
-1.
+1. in dem jeweiligen Erzeugnisbereich tätig sein und
 
-2.
+2. jeweils in ihrer Gesamtheit für die nach Absatz 1 in dem betreffenden Branchenverband vertretenen Gruppen einen wesentlichen Anteil an der wirtschaftlichen Tätigkeit in dem betreffenden Erzeugnisbereich mindestens auf regionaler Ebene darstellen.
 
 ## Abschnitt 4: Allgemeinverbindlichkeit
 
@@ -248,19 +212,19 @@ Soweit nach dieser Verordnung für einen Erzeugnisbereich die Möglichkeit eröf
 
 (1) Der Antrag einer Agrarorganisation auf Erklärung der Allgemeinverbindlichkeit einer Vorschrift muss enthalten:
 
-1.
+1. die Bezeichnung des Erzeugnisbereichs, für den der Antrag gestellt wird,
 
-2.
+2. den Wortlaut der Vorschrift, die für allgemeinverbindlich erklärt werden soll,
 
-3.
+3. die Angabe, auf welches der in Artikel 164 Absatz 4 der Verordnung (EU) Nr. 1308/2013 genannten Ziele die Vorschrift gerichtet ist,
 
-4.
+4. den räumlichen Bereich, auf den sich der Antrag bezieht,
 
-5.
+5. eine Angabe zur angestrebten Dauer der Allgemeinverbindlichkeit,
 
-6.
+6. Unterlagen zum Nachweis, dass die Voraussetzungen des § 5 Absatz 2 des Agrarorganisationen-und-Lieferketten-Gesetzes und des § 15 erfüllt sind, sowie
 
-7.
+7. eine ausführliche Begründung des Antrags.
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) hat den vollständigen Antrag einschließlich der in Absatz 1 Nummer 6 genannten Unterlagen im Bundesanzeiger bekannt zu geben und allen Betroffenen Gelegenheit zur Stellungnahme binnen einer in der Bekanntmachung festgesetzten angemessenen Frist zu geben. Ferner hat das Bundesministerium die betroffenen Länder und Verbände frühzeitig anzuhören.
 
@@ -270,13 +234,13 @@ Soweit nach dieser Verordnung für einen Erzeugnisbereich die Möglichkeit eröf
 
 (1) Die Agrarorganisation hat dem Bundesministerium oder im Falle des § 16 Absatz 3 der zuständigen Behörde des Landes unverzüglich jede für die Erfüllung der Anordnungsvoraussetzungen nach § 5 Absatz 1 und 2 des Agrarorganisationen-und-Lieferketten-Gesetzes maßgebliche Änderung mitzuteilen.
 
-(2) Die auf Grund des § 5 Absatz 1, auch in Verbindung mit Absatz 6, des Agrarorganisationen-und-Lieferketten-Gesetzes erlassene Rechtsverordnung ist aufzuheben, wenn Eine Aufhebung nach Satz 1 Nummer 2 oder 3 darf nur nach Anhörung der Betroffenen erfolgen.
+(2) Die auf Grund des § 5 Absatz 1, auch in Verbindung mit Absatz 6, des Agrarorganisationen-und-Lieferketten-Gesetzes erlassene Rechtsverordnung ist aufzuheben, wenn
 
-1.
+1. die Vorschrift, deren Allgemeinverbindlichkeit angeordnet ist, geändert wurde, außer Kraft getreten ist oder sich anderweitig erledigt hat,
 
-2.
+2. die Voraussetzungen des § 15 nicht mehr vorliegen oder
 
-3.
+3. die Erfassung der Nichtmitglieder nach überwiegender Wahrscheinlichkeit nicht mehr erforderlich ist, um negative Folgen für den betreffenden Erzeugnisbereich zu vermindern.
 
 ## Abschnitt 5: Vereinbarungen und Beschlüsse bei schweren Ungleichgewichten auf den Märkten
 
@@ -284,9 +248,9 @@ Soweit nach dieser Verordnung für einen Erzeugnisbereich die Möglichkeit eröf
 
 (1) Sieht ein Durchführungsrechtsakt der Europäischen Kommission nach Artikel 222 Absatz 1, auch in Verbindung mit Absatz 3 Unterabsatz 2, der Verordnung (EU) Nr. 1308/2013 Mitteilungen von landwirtschaftlichen Erzeugerbetrieben, anerkannten Agrarorganisationen oder sonstigen Vereinigungen gegenüber Behörden vor, sind diese Mitteilungen gegenüber der Bundesanstalt vorzunehmen
 
-1.
+1. innerhalb der in dem Durchführungsrechtsakt bestimmten Fristen oder
 
-2.
+2. unverzüglich bei Fehlen einer solchen Frist.
 
 (2) Die Mitteilungen nach Absatz 1 sind im Falle der erstmaligen Mitteilung unter Beifügung einer Kopie der jeweiligen Vereinbarung oder des jeweiligen Beschlusses vorzunehmen.
 
@@ -296,7 +260,7 @@ Soweit nach dieser Verordnung für einen Erzeugnisbereich die Möglichkeit eröf
 
 (5) Die Bundesanstalt übermittelt die in Absatz 1 genannten Mitteilungen nachrichtlich dem Bundeskartellamt.
 
-(6) Die Bundesanstalt stellt im Benehmen mit dem Bundeskartellamt fest, ob die übermittelten Vereinbarungen und Beschlüsse die Voraussetzungen des Artikels 222 der Verordnung (EU) Nr. 1308/2013 und des nach Absatz 1 maßgeblichen Durchführungsrechtsakts erfüllen, und unterrichtet die mitteilende Person unverzüglich über diese Feststellung. Erfüllen die der Mitteilung beigefügten Vereinbarungen und Beschlüsse die Voraussetzungen nach Satz 1 nicht, hat die zur Mitteilung verpflichtete Person die Einhaltung der Voraussetzungen unverzüglich nach der Unterrichtung durch die Bundesanstalt sicherzustellen. Insbesondere ist die Vereinbarung oder der Beschluss unverzüglich entsprechend zu ändern oder aufzuheben. Für die geänderte Vereinbarung oder den geänderten Beschluss gelten die Sätze 1 bis 3 und die Absätze 1 bis 5 entsprechend.
+(6) Die Bundesanstalt stellt im Benehmen mit dem Bundeskartellamt fest, ob die übermittelten Vereinbarungen und Beschlüsse die Voraussetzungen des Artikels 222 der Verordnung (EU) Nr. 1308/2013 und des nach Absatz 1 maßgeblichen Durchführungsrechtsakts erfüllen, und unterrichtet die mitteilende Person unverzüglich über diese Feststellung. Erfüllen die der Mitteilung beigefügten Vereinbarungen und Beschlüsse die Voraussetzungen nach Satz 1 nicht, hat die zur Mitteilung verpflichtete Person die Einhaltung der Voraussetzungen unverzüglich nach der Unterrichtung durch die Bundesanstalt sicherzustellen. Insbesondere ist die Vereinbarung oder der Beschluss unverzüglich entsprechend zu ändern oder aufzuheben. Für die geänderte Vereinbarung oder den geänderten Beschluss gelten die Sätze 1 bis 3 und die Absätze 1 bis 5 entsprechend.
 
 ## Abschnitt 6: Doppelmitgliedschaft; Mitteilungen der Kartellbehörde
 
@@ -309,8 +273,6 @@ Soweit nach dieser Verordnung für einen Erzeugnisbereich die Möglichkeit eröf
 ### § 20 — Mitteilungen der Kartellbehörde
 
 (1) Leitet die zuständige Kartellbehörde nach Artikel 149 Absatz 6 oder Artikel 152 Absatz 1c der Verordnung (EU) Nr. 1308/2013 ein Verfahren ein, gilt § 6 Satz 1 entsprechend. Trifft sie in dem Verfahren eine Entscheidung, gilt § 6 Satz 2 und 3 entsprechend.
-
-(2) Erlangt die zuständige Kartellbehörde Kenntnis von einem Beschluss der Europäischen Kommission in einem Verfahren nach Artikel 149 Absatz 6 oder Artikel 152 Absatz 1c der Verordnung (EU) Nr. 1308/2013, teilt sie diesen der zuständigen Stelle mit.
 
 ## Abschnitt 7: Sonderbestimmungen für den Erzeugnisbereich Zucker
 
@@ -362,19 +324,19 @@ Die zuständige Stelle hat jährlich auf der Grundlage einer Risikoanalyse minde
 
 ### § 28 — Mitteilungen
 
-(1) Die zuständigen Stellen haben der Bundesanstalt in elektronisch verarbeitungsfähiger Form mitzuteilen:Für die Mitteilungen nach Satz 1 kann die Bundesanstalt elektronische Formulare bereitstellen. Sofern die Bundesanstalt elektronische Formulare bereitstellt, haben die zuständigen Stellen diese zu verwenden.
+(1) Die zuständigen Stellen haben der Bundesanstalt in elektronisch verarbeitungsfähiger Form mitzuteilen:
 
-1.
+1. bis zum 1. März eines jeden Jahres die Angaben, die in Artikel 5 Absatz 1 der Delegierten Verordnung (EU) 2016/232 der Kommission vom 15. Dezember 2015 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates in Bezug auf bestimmte Aspekte der Zusammenarbeit zwischen Erzeugern (ABl. L 44 vom 19.2.2016, S. 1) in der jeweils geltenden Fassung genannt sind,
 
-2.
+2. bis zum 15. Oktober eines jeden Jahres die Angaben, die in Artikel 5 Absatz 2 Buchstabe a und b der Delegierten Verordnung (EU) 2016/232 genannt sind.
 
 (2) Eine anerkannte Agrarorganisation hat der zuständigen Stelle alle Informationen, die für die Erfüllung von Mitteilungspflichten nach Absatz 1 erforderlich sind, mindestens einen Monat vor Ablauf der jeweiligen in Absatz 1 genannten Fristen mitzuteilen. Für die Mitteilungen nach Satz 1 kann die zuständige Stelle schriftliche oder elektronische Muster, Vordrucke oder Formulare bereitstellen. Sofern die zuständige Stelle schriftliche oder elektronische Muster, Vordrucke oder Formulare bereitstellt, hat die anerkannte Agrarorganisation diese zu verwenden.
 
-(3) Soweit nach Unionsrecht Angaben bezüglich anerkannter Agrarorganisationen über Absatz 1 hinaus zu erheben sind, hatIst im Unionsrecht eine Frist für die Erhebung solcher Angaben oder für deren Übermittlung an andere Mitgliedstaaten oder an Organe der Europäischen Union festgelegt, hat die Mitteilung nach Satz 1 Nummer 1 mindestens zwei Monate und die Mitteilung nach Satz 1 Nummer 2 mindestens einen Monat vor Ablauf der betreffenden Frist zu erfolgen, soweit nicht in dieser Verordnung eine andere Frist bestimmt ist.
+(3) Soweit nach Unionsrecht Angaben bezüglich anerkannter Agrarorganisationen über Absatz 1 hinaus zu erheben sind, hat
 
-1.
+1. eine anerkannte Agrarorganisation der zuständigen Stelle solche Angaben mitzuteilen,
 
-2.
+2. die zuständige Stelle der Bundesanstalt solche Angaben mitzuteilen.
 
 (4) Soweit Angaben, die im Rahmen dieser Verordnung der Bundesanstalt vorliegen, der Europäischen Union zu übermitteln sind, teilt die Bundesanstalt die Angaben nach den Vorschriften des Unionsrechts der Europäischen Union mit.
 
@@ -402,23 +364,23 @@ Soweit das Unionsrecht nicht anerkannte Erzeugerorganisationen erfasst, gelten d
 
 ### § 32 — Überwachungsbefugnisse; Duldungs- und Mitwirkungspflichten
 
-(1) Von der zuständigen Stelle oder der Durchsetzungsbehörde beauftragte Personen und die in ihrer Begleitung befindlichen Beschäftigten des Bundesministeriums, der Bundesanstalt, der Länder, der Europäischen Union sowie anderer Mitgliedstaaten der Europäischen Union dürfen die Anordnungen und Maßnahmen treffen, die zur Durchführung des Agrarorganisationenrechts einschließlich seiner Überwachung oder zur Überwachung der Vorgaben über Geschäftsbeziehungen in der Lebensmittellieferkette erforderlich sind, insbesondere Die Durchsetzungsbehörde kann Zeugen verpflichten, zur Sache auszusagen, und Sachverständige verpflichten, ein Gutachten zu erstatten, sofern dies zur Überwachung der Vorgaben über Geschäftsbeziehungen in der Agrar-, Fischerei- und Lebensmittellieferkette erforderlich ist.
+(1) Von der zuständigen Stelle oder der Durchsetzungsbehörde beauftragte Personen und die in ihrer Begleitung befindlichen Beschäftigten des Bundesministeriums, der Bundesanstalt, der Länder, der Europäischen Union sowie anderer Mitgliedstaaten der Europäischen Union dürfen die Anordnungen und Maßnahmen treffen, die zur Durchführung des Agrarorganisationenrechts einschließlich seiner Überwachung oder zur Überwachung der Vorgaben über Geschäftsbeziehungen in der Lebensmittellieferkette erforderlich sind, insbesondere
 
-1.
+1. während der Geschäfts- oder Betriebszeit Grundstücke, Geschäfts-, Betriebs- und Lagerräume und Transportmittel betreten,
 
-2.
+2. Besichtigungen vornehmen,
 
-3.
+3. Proben entnehmen,
 
-4.
+4. alle schriftlich oder elektronisch vorliegenden Geschäftsunterlagen einsehen und prüfen sowie aus diesen Unterlagen Abschriften, Auszüge, Ausdrucke oder Kopien anfertigen und
 
-5.
+5. erforderliche Auskünfte verlangen.
 
 (2) Die Agrarorganisation, der Käufer und der Lieferant sind verpflichtet,
 
-1.
+1. die in Absatz 1 Satz 1 Nummer 1 bis 4 genannten Handlungen zu dulden und
 
-2.
+2. bei Maßnahmen nach Absatz 1 mitzuwirken, insbesondere auf Verlangen die Räume zu bezeichnen und ihr Betreten sowie Besichtigungen zu ermöglichen, die Entnahme von Proben zu ermöglichen, schriftlich oder elektronisch vorliegende Geschäftsunterlagen vorzulegen, Abschriften, Auszüge, Ausdrucke oder Kopien der Geschäftsunterlagen auf eigene Kosten anzufertigen und die erforderlichen Auskünfte zu erteilen.
 
 (3) Eine Person, die zur Erteilung einer Auskunft verpflichtet ist, kann die Auskunft auf solche Fragen verweigern, deren Beantwortung sie selbst oder einen ihrer in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
@@ -438,25 +400,25 @@ Soweit das Unionsrecht nicht anerkannte Erzeugerorganisationen erfasst, gelten d
 
 (1) Ordnungswidrig im Sinne des § 55 Absatz 1 Nummer 2 Buchstabe a des Agrarorganisationen-und-Lieferketten-Gesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 4 Absatz 1 Satz 2 eine dort genannte Unterlage nicht richtig beifügt,
 
-2.
+2. entgegen § 4 Absatz 1 Satz 4 eine Angabe nicht richtig macht oder einen Nachweis nicht richtig vorlegt,
 
-3.
+3. entgegen § 4 Absatz 3 Satz 1, § 5 Absatz 3 Satz 2 oder § 17 Absatz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht oder
 
-4.
+4. entgegen § 22 Absatz 1 Satz 1, auch in Verbindung mit Absatz 3, eine dort genannte Erklärung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig beifügt.
 
 (2) Ordnungswidrig im Sinne des § 55 Absatz 1 Nummer 2 Buchstabe b des Agrarorganisationen-und-Lieferketten-Gesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 2 Absatz 3 eine dort genannte Tätigkeit oder ein dort genanntes Agrarerzeugnis bezeichnet.
 
 (3) Ordnungswidrig im Sinne des § 55 Absatz 1 Nummer 2 Buchstabe c des Agrarorganisationen-und-Lieferketten-Gesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 26 eine Unterlage nicht oder nicht mindestens vier Jahre aufbewahrt,
 
-2.
+2. entgegen § 28 Absatz 2 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-3.
+3. entgegen § 32 Absatz 2 Nummer 1 eine dort genannte Handlung nicht duldet oder
 
-4.
+4. entgegen § 32 Absatz 2 Nummer 2 bei einer dort genannten Maßnahme nicht mitwirkt.
 
 (4) Ordnungswidrig im Sinne des § 55 Absatz 1 Nummer 3 des Agrarorganisationen-und-Lieferketten-Gesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 2 der Durchführungsverordnung (EU) Nr. 511/2012 der Kommission vom 15. Juni 2012 über Mitteilungen in Bezug auf Erzeugerorganisationen und Branchenverbände sowie Vertragsverhandlungen und -beziehungen gemäß der Verordnung (EG) Nr. 1234/2007 des Rates im Sektor Milch und Milcherzeugnisse (ABl. L 156 vom 16.6.2012, S. 39), die zuletzt durch die Durchführungsverordnung (EU) 2022/2091 (ABl. L 281 vom 31.10.2022, S. 16) geändert worden ist, eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
@@ -478,74 +440,24 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage — (zu § 1 Absatz 1)
 
-1.
+1. Der Erzeugnisbereich Getreide umfasst auch folgende Erzeugnisse: a)KN-Code ex 0713: getrocknete ausgelöste Hülsenfrüchte, auch geschält oder zerkleinert,b)KN-Code 1201 90 00: Sojabohnen, auch geschrotet, andere als zur Aussaat,c)KN-Code 1204 00 90: Leinsamen, auch geschrotet, andere als zur Aussaat,d)KN-Code 1205 10 90: Raps- oder Rübsensamen, auch geschrotet, andere als zur Aussaat,e)KN-Code 1206 00 91: Sonnenblumenkerne, auch geschrotet, andere als zur Aussaat,f)KN-Code 1207 50 90: Senfsamen, auch geschrotet, andere als zur Aussaat,g)KN-Code ex 1207 99 96: andere Ölsamen und ölhaltige Früchte, auch geschrotet, andere als zur Aussaat,h)KN-Code ex 1214: Steckrüben, Futterrüben, Wurzeln zu Futterzwecken, Heu, Luzerne, Klee, Esparsette, Futterkohl, Lupinen, Wicken und ähnliches Futter, auch in Form von Pellets. KN-Code ex 0713: getrocknete ausgelöste Hülsenfrüchte, auch geschält oder zerkleinert, KN-Code 1201 90 00: Sojabohnen, auch geschrotet, andere als zur Aussaat, KN-Code 1204 00 90: Leinsamen, auch geschrotet, andere als zur Aussaat, KN-Code 1205 10 90: Raps- oder Rübsensamen, auch geschrotet, andere als zur Aussaat, KN-Code 1206 00 91: Sonnenblumenkerne, auch geschrotet, andere als zur Aussaat, KN-Code 1207 50 90: Senfsamen, auch geschrotet, andere als zur Aussaat, KN-Code ex 1207 99 96: andere Ölsamen und ölhaltige Früchte, auch geschrotet, andere als zur Aussaat, KN-Code ex 1214: Steckrüben, Futterrüben, Wurzeln zu Futterzwecken, Heu, Luzerne, Klee, Esparsette, Futterkohl, Lupinen, Wicken und ähnliches Futter, auch in Form von Pellets.
 
-a)
+2. Der Erzeugnisbereich Wein umfasst auch folgende Erzeugnisse des KN-Codes ex 2307 00 90: Weinstein, roh.
 
-b)
+3. Der Erzeugnisbereich Rindfleisch umfasst auch folgende Erzeugnisse des KN-Codes ex 0102: Rinder, lebend.
 
-c)
+4. Der Erzeugnisbereich Schweinefleisch umfasst auch folgende Erzeugnisse: a)KN-Codes ex 0103: Schweine, lebend,b)KN-Codes ex 0203: Fleisch von Schweinen, frisch, gekühlt oder gefroren,c)KN-Codes 0210 11, 0210 12 und 0210 19 bezüglich Fleisch von Schweinen: Fleisch und genießbare Schlachtnebenerzeugnisse, gesalzen, in Salzlake, getrocknet oder geräuchert; genießbares Mehl von Fleisch oder von Schlachtnebenerzeugnissen. KN-Codes ex 0103: Schweine, lebend, KN-Codes ex 0203: Fleisch von Schweinen, frisch, gekühlt oder gefroren, KN-Codes 0210 11, 0210 12 und 0210 19 bezüglich Fleisch von Schweinen: Fleisch und genießbare Schlachtnebenerzeugnisse, gesalzen, in Salzlake, getrocknet oder geräuchert; genießbares Mehl von Fleisch oder von Schlachtnebenerzeugnissen.
 
-d)
+5. Der Erzeugnisbereich Eier umfasst auch Erzeugnisse des KN-Codes 0407: Vogeleier in der Schale, frisch, haltbar gemacht oder gekocht.
 
-e)
+6. Der Erzeugnisbereich landwirtschaftlicher Ethylalkohol umfasst auch a)Rohalkohol, soweit er aa)aus Anhang-I-Erzeugnissen gewonnen wird,bb)einen Alkoholgehalt von unter 96 Volumenprozent besitzt,cc)sensorische Eigenschaften der Ausgangserzeugnisse aufweist unddd)zu Ethylalkohol verarbeitet wird,b)Speiseessig, soweit er aa)ein Anhang-I-Erzeugnis darstellt undbb)aus Ethylalkohol gewonnen wird. Rohalkohol, soweit er aa)aus Anhang-I-Erzeugnissen gewonnen wird,bb)einen Alkoholgehalt von unter 96 Volumenprozent besitzt,cc)sensorische Eigenschaften der Ausgangserzeugnisse aufweist unddd)zu Ethylalkohol verarbeitet wird, aus Anhang-I-Erzeugnissen gewonnen wird, einen Alkoholgehalt von unter 96 Volumenprozent besitzt, sensorische Eigenschaften der Ausgangserzeugnisse aufweist und zu Ethylalkohol verarbeitet wird, Speiseessig, soweit er aa)ein Anhang-I-Erzeugnis darstellt undbb)aus Ethylalkohol gewonnen wird. ein Anhang-I-Erzeugnis darstellt und aus Ethylalkohol gewonnen wird.
 
-f)
+7. Der Erzeugnisbereich Verarbeitungserzeugnisse aus Obst und Gemüse umfasst auch folgende Erzeugnisse: a)KN-Code 0909: Anis-, Sternanis-, Fenchel-, Koriander-, Kreuzkümmel- und Kümmelfrüchte, Wacholderbeeren,b)KN-Code ex 0910: Ingwer, Kurkuma, Lorbeerblätter, Curry und andere Gewürze, ausgenommen Thymian, frisch oder gekühlt, und Safran. KN-Code 0909: Anis-, Sternanis-, Fenchel-, Koriander-, Kreuzkümmel- und Kümmelfrüchte, Wacholderbeeren, KN-Code ex 0910: Ingwer, Kurkuma, Lorbeerblätter, Curry und andere Gewürze, ausgenommen Thymian, frisch oder gekühlt, und Safran.
 
-g)
+1. Den Erzeugnisbereich Damtiere und Kaninchen bilden folgende Erzeugnisse: a)KN-Code ex 0106: Damtiere und Hauskaninchen,b)KN-Code ex 0208: Fleisch, frisch, gekühlt oder gefroren, soweit die Erzeugnisse von Erzeugnissen im Sinne des Buchstabens a stammen. KN-Code ex 0106: Damtiere und Hauskaninchen, KN-Code ex 0208: Fleisch, frisch, gekühlt oder gefroren, soweit die Erzeugnisse von Erzeugnissen im Sinne des Buchstabens a stammen.
 
-h)
+2. Den Erzeugnisbereich Wolle bilden folgende Erzeugnisse: a)KN-Code 5101: Wolle, weder gekrempelt noch gekämmt,b)KN-Code ex 5105 10 00 bis 5105 29 00: Wolle, gekrempelt oder gekämmt. KN-Code 5101: Wolle, weder gekrempelt noch gekämmt, KN-Code ex 5105 10 00 bis 5105 29 00: Wolle, gekrempelt oder gekämmt.
 
-2.
+3. Den Erzeugnisbereich Arzneipflanzen bilden folgende Erzeugnisse: KN-Code ex 1211: Pflanzen und Pflanzenteile, Samen und Früchte der hauptsächlich zur Herstellung von Riechmitteln oder zu Zwecken der Medizin verwendeten Art, frisch oder getrocknet, auch geschnitten, gemahlen oder ähnlich fein zerkleinert.
 
-3.
-
-4.
-
-a)
-
-b)
-
-c)
-
-5.
-
-6.
-
-a)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-b)
-
-aa)
-
-bb)
-
-7.
-
-a)
-
-b)
-
-1.
-
-a)
-
-b)
-
-2.
-
-a)
-
-b)
-
-3.
-
-4.
+4. Den Erzeugnisbereich Kartoffeln bilden folgende Erzeugnisse: KN-Code 0701: Kartoffeln, frisch oder gekühlt.

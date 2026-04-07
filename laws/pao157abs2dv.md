@@ -20,4 +20,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Anlage — (zu § 1)
 
-(Fundstelle: BGBl. I 2022, 1400; bzgl. einzelner Änderungen vgl. Fußnote)– in Israel: Orech Patentim, עורך פטנטים– in Singapur: Patent Agent– im Vereinigten Königreich: Patent Attorney
+– in Israel: Orech Patentim, עורך פטנטים
+
+– in Singapur: Patent Agent
+
+– im Vereinigten Königreich: Patent Attorney

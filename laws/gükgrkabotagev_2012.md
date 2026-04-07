@@ -14,17 +14,17 @@ Auf Grund des § 3 Absatz 6, der §§ 17a und 23 Absatz 3 und 5 des Güterkraftv
 
 ### § 1 — Erteilung und Entziehung der Gemeinschaftslizenz
 
-(1) Für die Gemeinschaftslizenz im Sinne der Verordnung (EG) Nr. 1072/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über gemeinsame Regeln für den Zugang zum Markt des grenzüberschreitenden Güterkraftverkehrs (ABl. L 300 vom 14.11.2009, S. 72) gelten folgende Bestimmungen des Güterkraftverkehrsgesetzes entsprechend: § 10 der Berufszugangsverordnung für den Güterkraftverkehr vom 21. Dezember 2011 (BGBl. I S. 3120) gilt entsprechend.
+(1) Für die Gemeinschaftslizenz im Sinne der Verordnung (EG) Nr. 1072/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über gemeinsame Regeln für den Zugang zum Markt des grenzüberschreitenden Güterkraftverkehrs (ABl. L 300 vom 14.11.2009, S. 72) gelten folgende Bestimmungen des Güterkraftverkehrsgesetzes entsprechend:
 
-1.
+1. (weggefallen)
 
-2.
+2. (weggefallen)
 
-3.
+3. (weggefallen)
 
-4.
+4. (weggefallen)
 
-5.
+5. § 21a (Aufsicht).
 
 (2) Die Gemeinschaftslizenz und die beglaubigten Kopien werden nach dem Muster des Anhangs II der Verordnung (EG) Nr. 1072/2009 ausgestellt. Sie enthalten eine Seriennummer und eine Ausgabenummer und sind mit einem Trockenprägestempel zu stempeln.
 
@@ -40,11 +40,11 @@ Das Bundesamt für Logistik und Mobilität (Bundesamt) ist zuständig für die U
 
 ### § 4 — Geltungsbereich, Erteilung und Entziehung der CEMT-Genehmigung
 
-(1) Die CEMT-Genehmigung nach der Resolution des Ministerrates der Europäischen Konferenz der Verkehrsminister (CEMT) über das Inkraftsetzen eines multilateralen Kontingents im internationalen Straßengüterverkehr vom 14. Juni 1973 (BGBl. 1974 II S. 298) in der jeweils geltenden Fassung wird einem Unternehmer mit Sitz des Unternehmens in Deutschland erteilt, der Die CEMT-Genehmigung wird mit einer Gültigkeit von einem Kalenderjahr (Jahresgenehmigung) oder mit einer Gültigkeit von 30 Tagen (Kurzzeitgenehmigung) erteilt. Im laufenden Kalenderjahr erteilte Jahresgenehmigungen gelten ab dem Tag der Ausstellung bis zum Ablauf des Kalenderjahres, in dem die Erteilung erfolgt.
+(1) Die CEMT-Genehmigung nach der Resolution des Ministerrates der Europäischen Konferenz der Verkehrsminister (CEMT) über das Inkraftsetzen eines multilateralen Kontingents im internationalen Straßengüterverkehr vom 14. Juni 1973 (BGBl. 1974 II S. 298) in der jeweils geltenden Fassung wird einem Unternehmer mit Sitz des Unternehmens in Deutschland erteilt, der
 
-1.
+1. Inhaber einer Erlaubnis nach § 3 Absatz 2 des Güterkraftverkehrsgesetzes in der am 26. Februar 2026 geltenden Fassung oder einer Gemeinschaftslizenz im Sinne des Artikels 4 der Verordnung (EG) Nr. 1072/2009 ist und
 
-2.
+2. die Voraussetzungen dafür erfüllt, dass die Genehmigung hinreichend genutzt wird.
 
 (2) Zuständige Erteilungsbehörde ist das Bundesamt. Der Antrag ist schriftlich bis zum 1. Oktober des Antragsjahres bei der Außenstelle des Bundesamtes zu stellen, in deren Bezirk der Unternehmer den Sitz seines Unternehmens hat. Der Antragsteller hat seinem Antrag eine Kopie der Erlaubnis nach § 3 Absatz 2 des Güterkraftverkehrsgesetzes in der am 26. Februar 2026 geltenden Fassung oder Gemeinschaftslizenz beizufügen. Die weiteren Einzelheiten des Erteilungsverfahrens (öffentliche Ausschreibung), insbesondere zu den Voraussetzungen einer hinreichenden Nutzung der Genehmigung, werden durch eine Richtlinie geregelt, die das Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den obersten Verkehrsbehörden der Länder erlässt. Liegen zwingende betriebliche oder persönliche Belange eines Bewerbers vor, zum Beispiel im Erbfall oder wenn ein Unternehmen oder ein selbstständiger, abgrenzbarer Unternehmensteil weitergeführt werden soll, so kann im Einzelfall von einer öffentlichen Ausschreibung abgesehen werden.
 
@@ -54,27 +54,27 @@ Das Bundesamt für Logistik und Mobilität (Bundesamt) ist zuständig für die U
 
 (5) Für die CEMT-Genehmigung gelten folgende Bestimmungen des Güterkraftverkehrsgesetzes entsprechend:
 
-1.
+1. § 3 Absatz 2 (Anforderungen an die Berufszugangsbedingungen),
 
-2.
+2. § 3 Absatz 4 und
 
-3.
+3. § 8 (vorläufige Weiterführung der Güterkraftverkehrsgeschäfte).
 
-(6) Die CEMT-Genehmigung kann auch widerrufen werden, wenn Im Falle des Satzes 1 Nummer 2 kann vor Ablauf von zwei Kontingentjahren, die auf das Jahr folgen, in dem die Widerrufsverfügung unanfechtbar geworden ist, eine CEMT-Genehmigung nicht erteilt werden.
+(6) Die CEMT-Genehmigung kann auch widerrufen werden, wenn
 
-1.
+1. sie drei Monate nicht genutzt worden ist oder
 
-2.
+2. der Unternehmer wiederholt gegen Nebenbestimmungen oder Verwendungsvoraussetzungen der CEMT-Genehmigung verstoßen hat.
 
 ### § 5 — Fahrtenberichtheft
 
 (1) Der Unternehmer hat für jede CEMT-Genehmigung ein Fahrtenberichtheft entsprechend den Vorgaben in Kapitel 5 der Resolution des Ministerrates der Europäischen Konferenz der Verkehrsminister (CEMT) zum Leitfaden für Regierungsbeamte und Transportunternehmer für die Verwendung des Multilateralen CEMT-Kontingents (BGBl. 2010 II S. 297, 298) in der jeweils geltenden Fassung zu führen. Darin sind die dort vorgesehenen Eintragungen über jede Beförderung und jede Leerfahrt in zeitlicher Reihenfolge vorzunehmen. Das Fahrtenberichtheft wird von dem Bundesamt ausgegeben.
 
-(2) Der Unternehmer hat bei dem Bundesamt vorzulegen. Sind mit einer Jahresgenehmigung in einem Kalendermonat keine Beförderungen mit der CEMT-Genehmigung durchgeführt worden, so hat der Unternehmer innerhalb der in Satz 1 genannten Frist Fehlanzeige zu erstatten.
+(2) Der Unternehmer hat bei
 
-1.
+1. Jahresgenehmigungen die Durchschriften der ausgefüllten Seiten des Fahrtenberichthefts innerhalb von vier Wochen nach Ablauf jedes Kalendermonats und das Fahrtenberichtheft innerhalb von zwei Wochen nach Ablauf des Gültigkeitszeitraums,
 
-2.
+2. Kurzzeitgenehmigungen das Fahrtenberichtheft unverzüglich nach Ablauf des Gültigkeitszeitraums
 
 ### § 6 — Urkundenänderung
 
@@ -82,7 +82,7 @@ Das Bundesamt für Logistik und Mobilität (Bundesamt) ist zuständig für die U
 
 ### § 7 — CEMT-Umzugsgenehmigung
 
-(1) Die CEMT-Umzugsgenehmigung im Sinne des Kapitels III Abschnitt 3.4 der Gesamtresolution des Ministerrates der Europäischen Konferenz der Verkehrsminister (CEMT) zum Straßengüterverkehr vom 27. Mai 1994 (BGBl. 1998 II S. 32) wird einem Unternehmer erteilt, der die Voraussetzungen des § 4 Absatz 1 Satz 1 Nummer 1 erfüllt. Sie gilt für jeweils fünf Jahre. Zuständige Erteilungsbehörde ist das Bundesamt. Der Unternehmer hat seinem Antrag eine Kopie der Erlaubnis nach § 3 Absatz 2 des Güterkraftverkehrsgesetzes in der am 26. Februar 2026 geltenden Fassung oder Gemeinschaftslizenz beizufügen.
+(1) Die CEMT-Umzugsgenehmigung im Sinne des Kapitels III Abschnitt 3.4 der Gesamtresolution des Ministerrates der Europäischen Konferenz der Verkehrsminister (CEMT) zum Straßengüterverkehr vom 27. Mai 1994 (BGBl. 1998 II S. 32) wird einem Unternehmer erteilt, der die Voraussetzungen des § 4 Absatz 1 Satz 1 Nummer 1 erfüllt. Sie gilt für jeweils fünf Jahre. Zuständige Erteilungsbehörde ist das Bundesamt. Der Unternehmer hat seinem Antrag eine Kopie der Erlaubnis nach § 3 Absatz 2 des Güterkraftverkehrsgesetzes in der am 26. Februar 2026 geltenden Fassung oder Gemeinschaftslizenz beizufügen.
 
 (2) Die CEMT-Umzugsgenehmigung wird auf den Namen des Unternehmers ausgestellt und ist nicht übertragbar. Sie ersetzt auf dem Streckenteil im Inland die nach erforderliche Gemeinschaftslizenz nach § 3 Absatz 1 des Güterkraftverkehrsgesetzes oder Erlaubnis nach § 3 Absatz 2 des Güterkraftverkehrsgesetzes in der am 26. Februar 2026 geltenden Fassung.
 
@@ -90,11 +90,11 @@ Das Bundesamt für Logistik und Mobilität (Bundesamt) ist zuständig für die U
 
 (4) Für die CEMT-Umzugsgenehmigung gelten folgende Bestimmungen des Güterkraftverkehrsgesetzes entsprechend:
 
-1.
+1. § 3 Absatz 2 (Anforderungen an die Berufszugangsbedingungen),
 
-2.
+2. § 3 Absatz 4 und
 
-3.
+3. § 8 (vorläufige Weiterführung der Güterkraftverkehrsgeschäfte).
 
 (5) Ändert sich der Name des Unternehmers oder der Sitz des Unternehmens, so hat der Unternehmer die CEMT-Umzugsgenehmigung dem Bundesamt unverzüglich zur Änderung vorzulegen. Stellt er den Betrieb endgültig ein, so hat er sie dem Bundesamt unverzüglich zurückzugeben.
 
@@ -102,13 +102,13 @@ Das Bundesamt für Logistik und Mobilität (Bundesamt) ist zuständig für die U
 
 Eine von einem Mitgliedstaat der CEMT nach der in § 4 Absatz 1 genannten Resolution erteilten CEMT-Genehmigung berechtigt zum grenzüberschreitenden Güterkraftverkehr unter folgenden Voraussetzungen:
 
-1.
+1. Die CEMT-Genehmigung darf nicht gleichzeitig für mehr als ein Kraftfahrzeug verwendet werden.
 
-1a.
+1a. Eine CEMT-Genehmigung ist vom Fahrer bei einer Fahrt mit Ladung zwischen dem Beladeort (Ort der ersten Aufnahme von Ladung für die Fahrt) bis zum Entladeort (Ort der letzten Entladung dieser Fahrt) im Fahrzeug mitzuführen.
 
-2.
+2. Der Unternehmer hat dafür zu sorgen, dass höchstens drei aufeinanderfolgende beladene Fahrten ohne Befahren des Gebietes des Staates, in dem das Unternehmen seinen Sitz hat, durchgeführt werden.
 
-3.
+3. Der Unternehmer hat dafür zu sorgen, dass das Fahrtenberichtheft gemäß der in § 4 Absatz 1 genannten Resolution im grenzüberschreitenden Güterkraftverkehr mit CEMT-Genehmigung während der gesamten Fahrt mitgeführt wird und die ausgefüllten Seiten des Fahrtenberichthefts während des in der Genehmigungsurkunde eingetragenen Gültigkeitszeitraums im Fahrtenberichtheft aufbewahrt werden. Das Fahrpersonal muss das Fahrtenberichtheft im Kraftfahrzeug vollständig mitführen und Kontrollberechtigten auf Verlangen zur Prüfung aushändigen.
 
 ## 3. Abschnitt: Grenzüberschreitender Güterkraftverkehr mit bilateralen Genehmigungen
 
@@ -154,25 +154,21 @@ Eine Drittstaatengenehmigung ist nicht erforderlich für Beförderungen, die nac
 
 Als grenzüberschreitender gewerblicher kombinierter Verkehr gelten Güterbeförderungen, bei denen
 
-1.
+1. das Kraftfahrzeug, der Anhänger, der Fahrzeugaufbau, der Wechselbehälter oder der Container von mindestens 6 Meter Länge einen Teil der Strecke auf der Straße und einen anderen Teil der Strecke mit der Eisenbahn oder dem Binnen- oder Seeschiff (mit einer Seestrecke von mehr als 100 Kilometer Luftlinie) zurücklegt,
 
-2.
+2. die Gesamtstrecke zum Teil im Inland und zum Teil im Ausland liegt und
 
-3.
-
-a)
-
-b)
+3. die Beförderung auf der Straße im Inland lediglich zwischen Be- oder Entladestelle und a)dem nächstgelegenen geeigneten Bahnhof oderb)einem innerhalb eines Umkreises von höchstens 150 Kilometer Luftlinie gelegenen Binnen- oder Seehafendurchgeführt wird (An- oder Abfuhr). dem nächstgelegenen geeigneten Bahnhof oder einem innerhalb eines Umkreises von höchstens 150 Kilometer Luftlinie gelegenen Binnen- oder Seehafen
 
 ### § 14 — Nächstgelegener geeigneter Bahnhof
 
 (1) Der nächstgelegene geeignete Bahnhof im Sinne des § 13 Nummer 3 Buchstabe a ist derjenige Bahnhof,
 
-1.
+1. der über Einrichtungen der notwendigen Umschlagart des kombinierten Verkehrs verfügt,
 
-2.
+2. von dem regelmäßig kombinierter Verkehr der entsprechenden Art und Richtung durchgeführt wird und
 
-3.
+3. der die kürzeste, verkehrsübliche Straßenverbindung zur Be- oder Entladestelle hat.
 
 (2) Auf Antrag des Unternehmers kann das Bundesamt abweichend von Absatz 1 einen anderen Bahnhof zum nächstgelegenen geeigneten Bahnhof bestimmen, sofern dies der Förderung des kombinierten Verkehrs dient. Das Bundesamt kann vor seiner Entscheidung die betroffenen Eisenbahnen und Terminalbetreiber anhören.
 
@@ -188,15 +184,9 @@ b)
 
 (1) Ein Unternehmer, dessen Unternehmen seinen Sitz weder in einem Mitgliedstaat der Europäischen Union noch in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum hat,
 
-1.
+1. darf An- oder Abfuhren im kombinierten Verkehr im Sinne des § 13 im Inland durchführen, wenn ihm auf Grund internationaler Abkommen eine besondere Genehmigung dafür erteilt ist;
 
-2.
-
-a)
-
-b)
-
-c)
+2. ist bei An- oder Abfuhren im kombinierten Verkehr im Sinne des § 13 im Inland von der Erlaubnis- und Genehmigungspflicht befreit, wenn a)das Kraftfahrzeug im unbegleiteten kombinierten Verkehr bei der An- oder Abfuhr die deutsche Grenze überschreitet oderb)das Kraftfahrzeug im begleiteten kombinierten Verkehr während der Mitbeförderung auf der Eisenbahn oder dem Binnen- oder Seeschiff die deutsche Grenze überschreitet und nur eine An- oder Abfuhr durchgeführt wird, die beim begleiteten kombinierten Verkehr Schiene/Straße (Rollende Landstraße) nur zwischen Be- oder Entladestelle und einem innerhalb eines Umkreises von 150 Kilometer Luftlinie gelegenen geeigneten Bahnhof erfolgen darf, undc)der Unternehmer in dem Staat, in dem sein Unternehmen den Sitz hat, zum grenzüberschreitenden Güterkraftverkehr für andere zugelassen ist und über ihn keine Tatsachen vorliegen, aus denen sich Bedenken gegen seine persönliche Zuverlässigkeit ergeben. das Kraftfahrzeug im unbegleiteten kombinierten Verkehr bei der An- oder Abfuhr die deutsche Grenze überschreitet oder das Kraftfahrzeug im begleiteten kombinierten Verkehr während der Mitbeförderung auf der Eisenbahn oder dem Binnen- oder Seeschiff die deutsche Grenze überschreitet und nur eine An- oder Abfuhr durchgeführt wird, die beim begleiteten kombinierten Verkehr Schiene/Straße (Rollende Landstraße) nur zwischen Be- oder Entladestelle und einem innerhalb eines Umkreises von 150 Kilometer Luftlinie gelegenen geeigneten Bahnhof erfolgen darf, und der Unternehmer in dem Staat, in dem sein Unternehmen den Sitz hat, zum grenzüberschreitenden Güterkraftverkehr für andere zugelassen ist und über ihn keine Tatsachen vorliegen, aus denen sich Bedenken gegen seine persönliche Zuverlässigkeit ergeben.
 
 (2) Der Unternehmer hat dafür zu sorgen, dass während einer Beförderung im Sinne des Absatzes 1 Nummer 1 die Genehmigung oder während einer Beförderung im Sinne des Absatzes 1 Nummer 2 ein Nachweis über die Erfüllung der Voraussetzungen des Absatzes 1 Nummer 2 Buchstabe c erster Halbsatz mitgeführt wird. Das Fahrpersonal hat den jeweils erforderlichen Nachweis gemäß Satz 1 im Kraftfahrzeug mitzuführen und Kontrollberechtigten auf Verlangen zur Prüfung auszuhändigen.
 
@@ -214,21 +204,21 @@ c)
 
 (2) Ein Güterkraftverkehrsunternehmer, der weder Sitz noch Niederlassung in Deutschland hat, darf im Anschluss an eine grenzüberschreitende Beförderung nach Deutschland nach der ersten teilweisen oder vollständigen Entladung der Güter bis zu drei Kabotagebeförderungen mit demselben Fahrzeug durchführen. Die letzte Entladung, bevor Deutschland verlassen wird, muss innerhalb von sieben Tagen nach der ersten teilweisen oder vollständigen Entladung erfolgen.
 
-(3) Bei Kabotagebeförderungen im Sinne von Absatz 1 hat der Güterkraftverkehrsunternehmer, der weder Sitz noch Niederlassung in Deutschland hat, dafür Sorge zu tragen, dass Nachweise für die grenzüberschreitende Beförderung und jede einzelne durchgeführte Kabotagebeförderung während der Dauer der Beförderung mitgeführt werden, die folgende Angaben enthalten: Die Nachweise können mittels Begleitpapier oder eines anderen geeigneten Beförderungsdokumentes, auch in elektronischer Form, erbracht werden.
+(3) Bei Kabotagebeförderungen im Sinne von Absatz 1 hat der Güterkraftverkehrsunternehmer, der weder Sitz noch Niederlassung in Deutschland hat, dafür Sorge zu tragen, dass Nachweise für die grenzüberschreitende Beförderung und jede einzelne durchgeführte Kabotagebeförderung während der Dauer der Beförderung mitgeführt werden, die folgende Angaben enthalten:
 
-1.
+1. Name, Anschrift und Unterschrift des Absenders,
 
-2.
+2. Name, Anschrift und Unterschrift des Güterkraftverkehrsunternehmers,
 
-3.
+3. Name und Anschrift des Empfängers sowie nach erfolgter Entladung die Unterschrift des Empfängers mit Datum der Entladung,
 
-4.
+4. Ort und Datum der Übernahme der Ware sowie die Anschrift der Entladestelle,
 
-5.
+5. die übliche Beschreibung der Art der Ware und ihrer Verpackung,
 
-6.
+6. das Bruttogewicht der Güter oder eine sonstige Mengenangabe,
 
-7.
+7. amtliches Kennzeichen des Kraftfahrzeugs oder Aufliegers.
 
 (4) Das Fahrpersonal muss die Nachweise nach Absatz 3 während der Kabotagebeförderung mitführen und Kontrollberechtigten auf Verlangen zur Prüfung aushändigen oder in anderer geeigneter Weise zugänglich machen.
 
@@ -250,25 +240,25 @@ Sofern das Unternehmen seinen Sitz in einem Mitgliedstaat der Europäischen Unio
 
 (1) Bei der Stellung eines Antrags auf Erteilung einer Fahrerbescheinigung gemäß Artikel 5 der Verordnung (EG) Nr. 1072/2009 sind gegenüber der zuständigen Behörde folgende Angaben zu machen:
 
-1.
+1. Name und Rechtsform des Unternehmens,
 
-2.
+2. Anschrift des Unternehmens,
 
-3.
+3. die für den Sitz des Unternehmens maßgeblichen Telefon- und Telefaxnummern sowie die elektronische Postadresse,
 
-4.
+4. die zuständige Erteilungsbehörde, Lizenznummer, Datum der Erteilung und Gültigkeitszeitraum sowie Anzahl der ausgegebenen beglaubigten Kopien der Gemeinschaftslizenz nach Artikel 4 der Verordnung (EG) Nr. 1072/2009,
 
-5.
+5. Name, Vorname, Geburtsdatum, Geburtsort, Staatsangehörigkeit, Art und Nummer des Ausweises, Ausstellungszeitpunkt und -ort des Ausweises, Nummer der Fahrerlaubnis, Ausstellungszeitpunkt und -ort der Fahrerlaubnis, Nummer der Sozialversicherung des Fahrers, für den die Fahrerbescheinigung ausgestellt werden soll.
 
-(2) Mit dem Antrag nach Absatz 1 müssen der zuständigen Behörde folgende Unterlagen vorgelegt werden: Wird ein Nachweis nach Satz 1 Nummer 4 nicht vorgelegt, erfolgt kein Eintrag der Schlüsselzahl 95 nach Anlage 9 der Fahrerlaubnis-Verordnung in das Feld „Besondere Bemerkungen“. Die zuständige Behörde kann Nachweise auch für die übrigen nach Absatz 1 zu machenden Angaben verlangen.
+(2) Mit dem Antrag nach Absatz 1 müssen der zuständigen Behörde folgende Unterlagen vorgelegt werden:
 
-1.
+1. die dem Unternehmer erteilte Gemeinschaftslizenz,
 
-2.
+2. die Arbeitsgenehmigung-EU des Fahrpersonals, wenn eine solche erteilt worden ist,
 
-3.
+3. der Pass, Passersatz oder Ausweisersatz, der Aufenthaltstitel des Fahrpersonals,
 
-4.
+4. der Nachweis nach § 11 Absatz 4 Nummer 1 der Berufskraftfahrer-Qualifikations-Verordnung.
 
 ### § 21 — Geltungsdauer und Unternehmensbindung der Fahrerbescheinigung
 
@@ -292,39 +282,39 @@ Im Rahmen der Überwachung nach Artikel 6 Absatz 2 der Verordnung (EG) Nr. 1072/
 
 Ordnungswidrig im Sinne des § 19 Absatz 1 Nummer 2 Buchstabe a des Güterkraftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 2 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erbringt,
 
-2.
+2. entgegen § 2 Satz 2 oder § 23 Satz 2 ein dort genanntes Dokument nicht oder nicht rechtzeitig vorlegt,
 
-3.
+3. einer vollziehbaren Auflage nach § 4 Absatz 4, § 7 Absatz 3 oder § 10 Absatz 3 zuwiderhandelt,
 
-4.
+4. entgegen § 5 Absatz 1 Satz 1 ein Fahrtenberichtheft nicht, nicht richtig oder nicht vollständig führt,
 
-5.
+5. entgegen § 5 Absatz 2 eine Durchschrift oder ein Fahrtenberichtheft nicht oder nicht rechtzeitig vorlegt oder eine Fehlanzeige nicht oder nicht rechtzeitig erstattet,
 
-6.
+6. entgegen § 7a Nummer 1 eine CEMT-Genehmigung verwendet,
 
-6a.
+6a. entgegen § 7a Nummer 1a die CEMT-Genehmigung nicht mitführt,
 
-7.
+7. entgegen § 7a Nummer 2 nicht dafür sorgt, dass höchstens drei aufeinanderfolgende beladene Fahrten durchgeführt werden,
 
-8.
+8. entgegen § 7a Nummer 3 Satz 1 nicht dafür sorgt, dass ein Fahrtenberichtheft mitgeführt wird oder die ausgefüllten Seiten im Fahrtenberichtheft aufbewahrt werden,
 
-9.
+9. entgegen § 7a Nummer 3 Satz 2 ein Fahrtenberichtheft nicht oder nicht vollständig mitführt oder nicht oder nicht rechtzeitig aushändigt,
 
-10.
+10. entgegen § 11 Absatz 3 eine Drittstaatengenehmigung verwendet,
 
-11.
+11. entgegen § 14 Absatz 3 Satz 1, § 15 Absatz 2 Satz 1, § 16 Absatz 2 Satz 1 oder § 17 Absatz 1 Satz 1 oder Absatz 2 Satz 1 nicht dafür sorgt, dass ein dort genanntes Dokument mitgeführt wird,
 
-12.
+12. entgegen § 14 Absatz 3 Satz 2, § 15 Absatz 2 Satz 2, § 16 Absatz 2 Satz 2 oder § 17 Absatz 1 Satz 3 oder Absatz 2 Satz 3 ein dort genanntes Dokument nicht mitführt oder nicht oder nicht rechtzeitig aushändigt,
 
-13.
+13. entgegen § 18 ein Kraftfahrzeug einsetzt,
 
-14.
+14. einer vollziehbaren Anordnung nach § 19 zuwiderhandelt,
 
-15.
+15. entgegen § 23 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erbringt oder
 
-16.
+16. entgegen § 24 Satz 1 einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt.
 
 ### § 26 — Inkrafttreten, Außerkrafttreten
 

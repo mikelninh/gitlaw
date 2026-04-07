@@ -11,23 +11,23 @@ Auf Grund des § 41a Absatz 6 Satz 1 des Bundeswaldgesetzes, der zuletzt durch A
 
 ### § 1 — Erhebung der Grunddaten
 
-(1) Nachstehende Grunddaten zur Nährstoffversorgung und Schadstoffbelastung der Waldböden sind zu erheben: Einzelheiten werden in der mit den Ländern abzustimmenden Arbeitsanleitung geregelt.
+(1) Nachstehende Grunddaten zur Nährstoffversorgung und Schadstoffbelastung der Waldböden sind zu erheben:
 
-1.
+1. die Titeldaten; hierzu gehören die georeferenzierte Information über die Lage der Aufnahmefläche sowie Daten über die aktuelle Bestockung und die Bewirtschaftung auf der Aufnahmefläche,
 
-2.
+2. die Daten zur Profilaufnahme,
 
-3.
+3. die Daten zur Bodenchemie auf der Grundlage einer tiefenstufenbezogenen Beprobung des Mineralbodens und einer Beprobung der Humusauflage,
 
-4.
+4. die Daten zur Bodenphysik mit den Zielgrößen Feinbodenvorrat und Humusvorrat,
 
-5.
+5. die Daten zum Ernährungszustand der Hauptbaumarten,
 
-6.
+6. die Daten zur Bodenvegetation,
 
-7.
+7. die Daten über den Baumbestand am Aufnahmepunkt und
 
-8.
+8. die Daten zum Kronenzustand im Jahr 2022, im Jahr 2023 und im Jahr 2024.
 
 (2) Die zur Erhebung der Grunddaten erforderlichen Arbeiten im Gelände finden in den Jahren 2022 bis 2024 statt. Die Arbeiten im Gelände müssen am 31. Dezember 2024 abgeschlossen sein.
 

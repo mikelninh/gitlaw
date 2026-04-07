@@ -51,5 +51,3 @@ Ansprüche gegen die Verkehrsopferhilfe nach § 12 des Pflichtversicherungsgeset
 Diese Verordnung tritt am 1. Januar 1966 in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister der Justiz

@@ -18,15 +18,15 @@
 
 (2) Das Bundesamt für Bauwesen und Raumordnung ist zuständig für die Durchführung der Bauangelegenheiten
 
-1.
+1. der Verfassungsorgane des Bundes,
 
-2.
+2. der obersten Bundesbehörden,
 
-3.
+3. der Bundesrepublik Deutschland im Ausland mit Ausnahme einfacher Baumaßnahmen sowie der Bauten im Geschäftsbereich des Bundesministeriums der Verteidigung,
 
-4.
+4. des Bundes in Berlin und
 
-5.
+5. im Geschäftsbereich eines Bundesministeriums bei überwiegendem Interesse des Bundes, soweit in diesem Fall das Bundesministerium im Einvernehmen mit dem Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen dem Bundesamt die Aufgabe übertragen hat.
 
 (3) Das Bundesamt für Bauwesen und Raumordnung unterstützt das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen fachlich bei der Wahrnehmung seiner Aufgaben auf den in den Absätzen 1 und 2 genannten Gebieten einschließlich der internationalen Zusammenarbeit und stellt zentrale Dienste und Hilfen für Bundesbehörden bereit.
 

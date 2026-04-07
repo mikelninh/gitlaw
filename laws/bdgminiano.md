@@ -16,11 +16,11 @@ Auf Grund des § 33 Abs. 5, des § 34 Abs. 2 Satz 2, des § 42 Abs. 1 Satz 2 und
 
 Den Leiterinnen und Leitern der Behörden des Geschäftsbereichs werden für die ihnen nachgeordneten Beamtinnen und Beamten folgende Befugnisse übertragen:
 
-a)
+a) Festsetzung der Kürzung der Dienstbezüge gemäß § 33 Abs. 3 Nr. 1,
 
-b)
+b) Erhebung der Disziplinarklage bei Beamtinnen und Beamten des einfachen, mittleren, gehobenen und höheren Dienstes gemäß § 34 Abs. 2 Satz 1,
 
-c)
+c) Ausübung der Disziplinarbefugnisse bei Ruhestandsbeamtinnen und Ruhestandsbeamten gemäß § 84.
 
 ### 2.
 
@@ -49,5 +49,3 @@ Die Disziplinarbefugnisse der obersten Dienstbehörde in Verfahren gegen Ruhesta
 Die vorstehenden Regelungen gelten für Verwaltungsbeamtinnen und Verwaltungsbeamte entsprechend.
 
 ### Schlussformel
-
-Der Bundesminister des Innern

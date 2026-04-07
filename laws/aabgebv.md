@@ -42,10 +42,10 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
 Vorbemerkungen:
 
-1.
+1. Die Festlegung der besonderen pauschalen Stundensätze des Auswärtigen Amts beruht auf den Vorgaben der Anlage 2 AGebV in der ab 18. Februar 2021 gültigen Fassung (einschließlich Sacheinzelkosten und Gemeinkostenzuschlag).
 
-2.
+2. Wenn Dienstreisen als Auslagen abzurechnen sind, muss der Stundensatz für Entsandte um 0,86 Euro und für lokal Beschäftigte/Honorarkonsularbeamte um 0,59 Euro gekürzt werden.
 
-3.
+3. Die Orte, an denen sich die AVs des Bundes befinden, sind gemäß § 53 des Bundesbesoldungsgesetzes in Verbindung mit der Auslandszuschlagsverordnung in insgesamt 20 Zonenstufen eingeteilt. Die Besoldung der entsandten Angehörigen des Auswärtigen Dienstes ist von der Zonenstufe abhängig.
 
 ### Anlage 3

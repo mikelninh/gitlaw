@@ -36,15 +36,15 @@
 
 ### § 3
 
-(1) Das Plenum bildet folgende ständige Ausschüsse: Nach Bedarf können weitere Ausschüsse gebildet werden.
+(1) Das Plenum bildet folgende ständige Ausschüsse:
 
-a)
+a) einen Geschäftsordnungsausschuss,
 
-b)
+b) einen Protokollausschuss,
 
-c)
+c) einen Haushalts- und Personalausschuss,
 
-d)
+d) einen Bibliotheksausschuss.
 
 (2) Den ständigen Ausschüssen gehören zwei Richterinnen und Richter aus jedem Senat an, den Ausschüssen nach Absatz 1 Buchstabe a bis c außerdem der Präsident und der Vizepräsident.
 
@@ -428,17 +428,17 @@ Den Vorsitz in der Beschwerdekammer führt deren dienstältestes Mitglied.
 
 (1) Eingaben an das Bundesverfassungsgericht, die weder eine Verwaltungsangelegenheit des Gerichts betreffen noch nach den Vorschriften des Gesetzes über das Bundesverfassungsgericht statthaft sind, werden im Allgemeinen Register (AR) erfasst und als Justizverwaltungsangelegenheit bearbeitet. Hierzu rechnen insbesondere:
 
-a)
+a) Anfragen zur Rechtsprechung des Bundesverfassungsgerichts sowie zu anhängigen oder abgeschlossenen Verfahren,
 
-b)
+b) Eingaben, mit denen weder ein bestimmter Antrag verfolgt noch ein Anliegen geltend gemacht wird, für das eine Zuständigkeit des Bundesverfassungsgerichts besteht.
 
 (2) Im Allgemeinen Register können auch registriert werden:
 
-a)
+a) Verfassungsbeschwerden, bei denen eine Annahme zur Entscheidung (§ 93a BVerfGG) nicht in Betracht kommt, weil sie offensichtlich unzulässig sind oder unter Berücksichtigung der Rechtsprechung des Bundesverfassungsgerichts offensichtlich keinen Erfolg haben können,
 
-b)
+b) sonstige offensichtlich unzulässige Verfahrensanträge,
 
-c)
+c) Verfahren, bei denen sich die Senatszuständigkeit nicht alsbald klären lässt.
 
 ### § 64
 
@@ -497,5 +497,3 @@ Die Geschäftsordnung ist im Bundesgesetzblatt zu veröffentlichen.
 Diese Geschäftsordnung tritt am Tag nach der Bekanntmachung in Kraft; gleichzeitig tritt die Geschäftsordnung des Bundesverfassungsgerichts vom 15. Dezember 1986 (BGBl. I S. 2529), zuletzt geändert durch Artikel 1 der Bekanntmachung von Änderungen der Geschäftsordnung des Bundesverfassungsgerichts vom 7. Januar 2002 (BGBl. I S. 1171), außer Kraft.
 
 ### Schlussformel
-
-Der Präsident des Bundesverfassungsgerichts

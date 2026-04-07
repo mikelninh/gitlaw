@@ -17,9 +17,9 @@ Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den Beitritt der B
 
 (3) Im einzelnen genießen
 
-a)
+a) die in Artikel VI § 21 des Abkommens genannten Vorrechte, Immunitäten, Befreiungen und Erleichterungender Direktor des Zwischenstaatlichen Komitees für Europäische Auswanderung,sein Stellvertreter,der Leiter der Verbindungsstelle des Komitees bei der Bundesregierung sowie deren Ehegatten und minderjährige Kinder; der Direktor des Zwischenstaatlichen Komitees für Europäische Auswanderung, sein Stellvertreter, der Leiter der Verbindungsstelle des Komitees bei der Bundesregierung sowie deren Ehegatten und minderjährige Kinder;
 
-b)
+b) die in Artikel VI § 19 des Abkommens genannten Vorrechte, Befreiungen und Erleichterungendie Beamten, die bei der Verbindungsstelle des Komitees oder ihren Zweigstellen in der Bundesrepublik Deutschland beschäftigt sind und deren Einstellung durch die Zentrale des Komitees in Genf erfolgt ist, ungeachtet der Dauer ihrer Tätigkeit im Bundesgebiet,die höheren Angestellten der Verbindungsstelle des Komitees bei der Bundesregierung, insbesondere die Leiter von Zweigstellen und selbständigen Sektionen, unddie Beamten, die bei der Zentrale des Komitees in Genf angestellt sind und sich vorübergehend dienstlich in der Bundesrepublik aufhalten. die Beamten, die bei der Verbindungsstelle des Komitees oder ihren Zweigstellen in der Bundesrepublik Deutschland beschäftigt sind und deren Einstellung durch die Zentrale des Komitees in Genf erfolgt ist, ungeachtet der Dauer ihrer Tätigkeit im Bundesgebiet, die höheren Angestellten der Verbindungsstelle des Komitees bei der Bundesregierung, insbesondere die Leiter von Zweigstellen und selbständigen Sektionen, und die Beamten, die bei der Zentrale des Komitees in Genf angestellt sind und sich vorübergehend dienstlich in der Bundesrepublik aufhalten.
 
 (4) Die Namen der bei der Verbindungsstelle und ihren Zweigstellen beschäftigten Beamten und höheren Angestellten, auf die Absatz 3 Anwendung findet, teilt das Zwischenstaatliche Komitee für Europäische Auswanderung der Regierung der Bundesrepublik Deutschland in kurzen Zeitabständen mit.
 
@@ -34,5 +34,3 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Stellvertreter des Bundeskanzlers Der Bundesminister des Auswärtigen Der Bundesminister der Finanzen

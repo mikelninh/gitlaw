@@ -28,11 +28,11 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte 
 
 (2) Elektronisch erteilte Lizenzen werden durch die Bundesfinanzverwaltung elektronisch abgeschrieben und bestätigt. Die Marktordnungsstelle und die Bundesfinanzverwaltung übermitteln sich dazu gegenseitig auf elektronischem Weg, soweit erforderlich,
 
-1.
+1. die in Abschnitt I Nummer 1, 4, 5 und 11 der Anlage des Marktorganisationsgesetzes genannten allgemeinen Daten,
 
-2.
+2. die in Abschnitt II Nummer 8, 11, 15 bis 20 und 22 der Anlage des Marktorganisationsgesetzes genannten maßnahmenspezifischen Angaben sowie
 
-3.
+3. die in der referenzierten Zollanmeldung enthaltene Nummer der Rechnung.
 
 ### § 5 — Nachweise für den Handel mit Drittländern oder für die Referenzmenge
 
@@ -45,5 +45,3 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Ernährung, Landwirtschaft und Forsten

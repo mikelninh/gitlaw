@@ -29,13 +29,13 @@ Auf Grund des § 13 Absatz 3 des Zweiten Buches Sozialgesetzbuch, der durch Arti
 
 ### § 3 — Weitere wichtige Gründe
 
-Ein wichtiger Grund für einen Aufenthalt außerhalb des näheren Bereichs nach § 7b Absatz 2 Satz 1 des Zweiten Buches Sozialgesetzbuch liegt neben den in § 7b Absatz 2 Satz 2 des Zweiten Buches Sozialgesetzbuch genannten Fällen vor, wenn erwerbsfähige Leistungsberechtigte den näheren Bereich verlassen, um Angehörige nach § 16 Absatz 5 des Zehnten Buches Sozialgesetzbuch zu unterstützen Voraussetzung für die Anerkennung eines wichtigen Grundes nach Satz 1 ist, dass die Unterstützung erforderlich ist und die Eingliederung in Ausbildung oder Arbeit nicht wesentlich beeinträchtigt wird. Auf Aufforderung des Jobcenters haben die erwerbsfähigen Leistungsberechtigten die Erforderlichkeit der Unterstützungsleistung nachzuweisen.
+Ein wichtiger Grund für einen Aufenthalt außerhalb des näheren Bereichs nach § 7b Absatz 2 Satz 1 des Zweiten Buches Sozialgesetzbuch liegt neben den in § 7b Absatz 2 Satz 2 des Zweiten Buches Sozialgesetzbuch genannten Fällen vor, wenn erwerbsfähige Leistungsberechtigte den näheren Bereich verlassen, um Angehörige nach § 16 Absatz 5 des Zehnten Buches Sozialgesetzbuch zu unterstützen
 
-1.
+1. im Zusammenhang mit der Geburt eines Kindes,
 
-2.
+2. wegen Pflegebedürftigkeit oder
 
-3.
+3. im Todesfall eines oder einer Angehörigen nach § 16 Absatz 5 des Zehnten Buches Sozialgesetzbuch.
 
 ### § 4 — Zustimmungsverfahren
 
@@ -61,11 +61,11 @@ Ein wichtiger Grund für einen Aufenthalt außerhalb des näheren Bereichs nach 
 
 ### § 6 — Aufenthalt außerhalb des näheren Bereichs aufgrund der Ausübung einer Erwerbstätigkeit
 
-Für Aufenthalte außerhalb des näheren Bereichs während der Ausübung einer Erwerbstätigkeit in abhängiger Beschäftigung ist keine Zustimmung erforderlich, wenn die erwerbstätige leistungsberechtigte Person Für Aufenthalte außerhalb des näheren Bereichs aufgrund der Ausübung einer selbständigen Erwerbstätigkeit gilt Satz 1 mit der Maßgabe, dass die Abwesenheit zur Ausübung der Tätigkeit erforderlich sein muss. Die Mitteilung nach Satz 1 Nummer 2 soll vor dem erstmaligen Verlassen des näheren Bereichs aufgrund der Ausübung der Erwerbstätigkeit erfolgen. Dem Jobcenter ist zudem mitzuteilen, auf welchem Weg während der Abwesenheit eine Kontaktaufnahme möglich ist.
+Für Aufenthalte außerhalb des näheren Bereichs während der Ausübung einer Erwerbstätigkeit in abhängiger Beschäftigung ist keine Zustimmung erforderlich, wenn die erwerbstätige leistungsberechtigte Person
 
-1.
+1. aus der Erwerbstätigkeit ein Einkommen oberhalb der Geringfügigkeitsgrenze nach § 8 Absatz 1a des Vierten Buches Sozialgesetzbuch erzielt und
 
-2.
+2. dem Jobcenter mitgeteilt hat, dass die Erwerbstätigkeit eine Abwesenheit erfordert.
 
 ### § 7 — Zustimmung bei Aufenthalt außerhalb des näheren Bereichs ohne wichtigen Grund
 

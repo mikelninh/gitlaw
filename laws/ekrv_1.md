@@ -17,37 +17,37 @@ Auf Grund des § 16 Abs. 1 Nr. 1 des Eisenbahnkreuzungsgesetzes vom 14. August 1
 
 (2) Zur Kostenmasse gehören auch die Aufwendungen für
 
-1.
+1. diejenigen Maßnahmen, die zur Berücksichtigung der übersehbaren Verkehrsentwicklung auf den sich kreuzenden Verkehrswegen erforderlich sind,
 
-2.
+2. diejenigen Maßnahmen, die infolge der Herstellung einer neuen Kreuzung oder einer Maßnahme nach § 3 des Gesetzes an Anlagen erforderlich werden, die nicht zu den sich kreuzenden Verkehrswegen der Beteiligten gehören,
 
-3.
+3. den Ersatz von Schäden, die bei der Durchführung einer Maßnahme den Beteiligten oder Dritten entstanden sind, es sei denn, daß die Schäden auf Vorsatz oder grober Fahrlässigkeit eines Beteiligten oder seiner Bediensteten beruhen.
 
 (3) Wird eine Kreuzung durch Änderung der Linienführung des Verkehrswegs eines Beteiligten verlegt oder beseitigt, obwohl an der bisherigen Kreuzungsstelle eine Maßnahme nach § 3 des Gesetzes mit geringeren Kosten verkehrsgerecht möglich wäre, so ist die Kostenmasse auf die Höhe dieser Kosten beschränkt.
 
 (4) Von der Kostenmasse abzuziehen sind
 
-1.
+1. der Erlös aus der Veräußerung der für die Kreuzung nicht benötigten oder nicht mehr benötigten Grundstücke oder der Verkehrswert dieser Grundstücke und
 
-2.
+2. der Erlös aus der Verwertung der nicht mehr benötigten Anlagen der Kreuzung oder der Wert dieser Anlagen.
 
 ### § 2 — Zusammensetzung der Kostenmasse
 
 Die Kostenmasse setzt sich zusammen aus
 
-1.
+1. Grunderwerbskosten,
 
-2.
+2. Baukosten,
 
-3.
+3. Verwaltungskosten.
 
 ### § 3 — Grunderwerbskosten
 
 (1) Zu den Grunderwerbskosten gehören
 
-1.
+1. alle Aufwendungen im Zusammenhang mit dem Erwerb von Grundstücken oder Rechten,
 
-2.
+2. Entschädigungen für die durch die Kreuzung bedingten Wertminderungen fremder Grundstücke.
 
 (2) Den Grunderwerbskosten zuzurechnen ist der Verkehrswert der schon im Eigentum der Beteiligten befindlichen Grundstücke oder ihrer Rechte, soweit sie nicht zum Verkehrsweg des nach § 4 des Gesetzes Duldungspflichtigen gehören.
 
@@ -59,9 +59,9 @@ Die Kostenmasse setzt sich zusammen aus
 
 (2) Führt ein Beteiligter Bauleistungen selbst durch, so kann er als Baukosten in Rechnung stellen
 
-1.
+1. Gehälter und Dienstbezüge (Personalkosten) mit einem Zuschlag von 100 Prozent; bei der Berechnung der Personalkosten können Durchschnittssätze zugrunde gelegt werden;
 
-2.
+2. für den Einsatz größerer Geräte die nach betriebswirtschaftlichen Grundsätzen zu errechnenden Kosten; die Stellung von Werkzeug und Kleingeräten ist mit den Zuschlägen nach Nummer 1 abgegolten.
 
 (3) Beschafft ein Beteiligter Stoffe selbst, so kann er als Baukosten die Stoffkosten nach dem Marktpreis mit einem Zuschlag von 10 Prozent in Rechnung stellen.
 
@@ -80,8 +80,6 @@ Die Kostenmasse setzt sich zusammen aus
 Für Maßnahmen, über die die Beteiligten vor dem Ablauf des 1. Juli 2021 eine Vereinbarung getroffen haben, ist diese Verordnung in der bis zum Ablauf des 30. Juni 2021 geltenden Fassung weiterhin anzuwenden.
 
 ### Schlußformel
-
-Der Bundesminister für Verkehr
 
 ### Anlage 1 — (zu § 4 Absatz 1)
 

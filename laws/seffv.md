@@ -15,7 +15,19 @@ Der Bund ermöglicht Soldatinnen und Soldaten den Bezug eines Fahrscheins für e
 
 ### § 2 — Umfang des Anspruchs
 
-(1) Der Anspruch auf Ermöglichung der unentgeltlichen Beförderung in öffentlichen Eisenbahnen besteht 1.nur für Verbindungen, die auf der Internetseite der Deutschen Bahn AG ausschließlich für Soldatinnen und Soldaten zur kostenlosen Buchung angeboten werden, und2.nur für die Buchung einer einzigen Zugverbindung für die jeweilige Fahrt vom Abfahrtsort zum Zielort.Ein Anspruch auf die Buchung einer alternativen Zugverbindung besteht nur, wenn die gebuchte Verbindung nicht wahrgenommen werden kann, weil dem zwingende dienstliche Gründe entgegenstehen, die zum Zeitpunkt der Buchung nicht vorhersehbar gewesen sind.(2) Es besteht nur Anspruch auf einen Fahrschein 1.für die niedrigste Beförderungsklasse,2.mit Zugbindung und3.ohne Sitzplatzreservierung.
+(1) Der Anspruch auf Ermöglichung der unentgeltlichen Beförderung in öffentlichen Eisenbahnen besteht
+
+1. nur für Verbindungen, die auf der Internetseite der Deutschen Bahn AG ausschließlich für Soldatinnen und Soldaten zur kostenlosen Buchung angeboten werden, und
+
+2. nur für die Buchung einer einzigen Zugverbindung für die jeweilige Fahrt vom Abfahrtsort zum Zielort.
+
+(2) Es besteht nur Anspruch auf einen Fahrschein
+
+1. für die niedrigste Beförderungsklasse,
+
+2. mit Zugbindung und
+
+3. ohne Sitzplatzreservierung.
 
 ### § 3 — Inkrafttreten
 

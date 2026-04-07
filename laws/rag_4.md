@@ -17,21 +17,15 @@ Bemessungsgrundlage für das Jahr 1961
 
 ### § 2
 
-(1) Renten, die nach §§ 1253ff. der Reichsversicherungsordnung, §§ 30ff. des Angestelltenversicherungsgesetzes oder §§ 53ff. des Reichsknappschaftsgesetzes berechnet sind, sind so anzupassen, daß sich eine Rente ergibt, wie sie sich nach Anwendung der Kürzungs- und Ruhensvorschriften ergeben würde, wenn die Rente ohne Änderung der übrigen Berechnungsfaktoren unter Zugrundelegung der allgemeinen Bemessungsgrundlage für das Jahr 1961 und der Beitragsbemessungsgrenze für dieses Jahr berechnet werden würde; Abweichungen infolge Abrundungen sind zulässig. § 1282 Abs. 2 der Reichsversicherungsordnung, § 59 Abs. 2 des Angestelltenversicherungsgesetzes und § 79 Abs. 2 des Reichsknappschaftsgesetzes gelten nicht. In den Fällen des Artikels 2 § 38 Abs. 3 Satz 2 zweiter Halbsatz des Arbeiterrentenversicherungs-Neuregelungsgesetzes oder des Artikels 2 § 37 Abs. 3 Satz 2 zweiter Halbsatz des Angestelltenversicherungs-Neuregelungsgesetzes findet Satz 1 keine Anwendung.
-
 (2) Absatz 1 Satz 1 und 2 gelten entsprechend für Renten der knappschaftlichen Rentenversicherung, die
 
-a)
+a) nach Artikel 2 § 24 Abs. 5 des Knappschaftsrentenversicherungs-Neuregelungsgesetzes gezahlt werden oder
 
-b)
-
-> § 2 Kursivdruck: §§ 1253 bis 1256 RVO aufgeh. durch Art. 6 Nr. 24 G v. 18.12.1989 I 2261 mWv 1.1.1992 § 2 Kursivdruck: § 1282 Abs. 2 RVO aufgeh. durch Art. 2 Nr. 27, § 59 Abs. 2 AVG aufgeh. durch Art. 3 Nr. 3 u. § 79 Abs. 2 RKG aufgeh. durch Art. 4 Nr. 5 G v. 1.12.1981 I 1205 mWv 5.12.1981
+b) nach Artikel 2 § 25 des Knappschaftsrentenversicherungs-Neuregelungsgesetzes berechnet worden sind, wenn auf sie die §§ 75, 76 des Reichsknappschaftsgesetzes Anwendung gefunden haben.
 
 ### § 3
 
 (1) Renten nach Artikel 2 §§ 32 bis 35 des Arbeiterrentenversicherungs-Neuregelungsgesetzes oder Artikel 2 §§ 31 bis 34 des Angestelltenversicherungs-Neuregelungsgesetzes sind so anzupassen, daß sich eine Rente ergibt, wie sie sich nach Anwendung der Kürzungs- und Ruhensvorschriften ergeben würde, wenn die Rente erneut umgestellt und dabei vor Anwendung der Kürzungs- und Ruhensvorschriften der ungekürzte Rentenbetrag ohne Kinderzuschuß für jedes Kind und ohne Steigerungsbeträge aus Beiträgen der Höherversicherung mit 1,2439 vervielfältigt und der Kinderzuschuß für jedes Kind nach der allgemeinen Bemessungsgrundlage für das Jahr 1961 berechnet werden würde; Abweichungen infolge Abrundungen sind zulässig. § 2 Abs. 1 Satz 2 ist anzuwenden.
-
-(2) Artikel 2 § 34 des Arbeiterrentenversicherungs-Neuregelungsgesetzes und Artikel 2 § 33 des Angestelltenversicherungs-Neuregelungsgesetzes sind mit der Maßgabe anzuwenden, daß an Stelle der in diesen Vorschriften genannten Werte die nachstehenden Werte zugrunde zu legen sind:
 
 (3) Die Verordnung über die Anwendung der Ruhensvorschriften der Reichsversicherungsordnung und des Angestelltenversicherungsgesetzes auf umzustellende Renten der Rentenversicherungen der Arbeiter und der Angestellten vom 9. Juli 1957 (Bundesgesetzbl. I S. 704) findet mit der Maßgabe Anwendung, daß in § 1 Abs. 3 und § 2 Abs. 4 der Verordnung an Stelle des Betrags von 7.650 Deutsche Mark der Betrag von 9.180 Deutsche Mark, in § 3 Abs. 2 der Verordnung an Stelle des Betrags von 4.281 Deutsche Mark der Betrag von 5.325 Deutsche Mark und in § 4 Abs. 2 Satz 4 der Verordnung an Stelle des Betrags von 750 Deutsche Mark der Betrag von 900 Deutsche Mark tritt.
 
@@ -65,15 +59,9 @@ Ergibt die Anpassung keinen höheren als den bisherigen Zahlbetrag, so ist diese
 
 ### § 8
 
-Soweit bei den Versorgungsbezügen nach dem Bundesversorgungsgesetz und den Gesetzen, die das Bundesversorgungsgesetz für anwendbar erklären, den Unterhaltshilfen nach dem Lastenausgleichsgesetz, den Leistungen nach dem Bundesentschädigungsgesetz, den Miet- und Lastenbeihilfen nach dem Gesetz über die Gewährung von Miet- und Lastenbeihilfen und nach dem Zweiten Wohnungsbaugesetz und den Bundesbeihilfen zum Ausgleich von Härten im Rahmen der betrieblichen Altersfürsorge nach den Richtlinien vom 17. Oktober 1951 (Bundesanzeiger Nr. 204 vom 20. Oktober 1951) die Gewährung oder die Höhe der Leistung von anderem Einkommen abhängig ist, bleiben die Erhöhungsbeträge, die für die Monate Januar bis einschließlich Mai 1962 auf Grund der Vorschriften dieses Gesetzes zu leisten sind, für den genannten Zeitraum bei der Ermittlung des Einkommens unberücksichtigt. Das gleiche gilt bei der Prüfung der fürsorgerechtlichen Hilfsbedürftigkeit. Die Erhöhungsbeträge für den in Satz 1 genannten Zeitraum sind ferner bei der Gewährung von Leistungen aus der Arbeitslosenversicherung und der Arbeitslosenhilfe nicht zu berücksichtigen.
-
-> § 8 Satz 1 Kursivdruck: MietBhG aufgeh. durch Art. II Nr. 2 G 2330-2-5 v. 23.3.1965 I 140 mWv 1.4.1965 § 8 Satz 2 Kursivdruck: Jetzt sozialhilferechtlich
-
 ### § 9
 
 (1) Dem Berechtigten ist über die Anpassung eine schriftliche Mitteilung zu geben. Ergibt eine spätere Überprüfung, daß die Anpassung fehlerhaft ist, so ist sie zu berichtigen. Die Rente ist in ihrer bisherigen Höhe bis zum Ablauf des Monats zu gewähren, in dem der Berichtigungsbescheid zugestellt wird. Eine Rückforderung überzahlter Beträge findet nicht statt. Die Berichtigung ist nur bis zum 31. Dezember 1962 zulässig.
-
-(2) § 1300 der Reichsversicherungsordnung, § 79 des Angestelltenversicherungsgesetzes und § 93 Abs. 1 des Reichsknappschaftsgesetzes bleiben unberührt.
 
 > § 9 Abs. 2 Kursivdruck: § 1300 RVO aufgeh. durch Art. II § 4 Nr. 1, § 79 AVG aufgeh. durch Art. II § 6 Nr. 1 u. § 93 Abs. 1 RKG aufgeh. durch Art. II § 8 Nr. 1 G v. 18.8.1980 I 1469 mWv 1.1.1981
 

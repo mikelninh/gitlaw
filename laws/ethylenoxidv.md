@@ -36,5 +36,3 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung
 (2) Bei der Herstellung von Arzneimitteln, die aus getrockneten Pflanzen in unzerkleinerter oder grob geschnittener Form bestehen und die ausschließlich dazu bestimmt sind, in unverändertem Zustand in den Verkehr gebracht zu werden, ist die Verwendung von Ethylenoxid zur Reduzierung von Krankheitskeimen noch bis zum 31. Dezember 1990 zugelassen.
 
 ### Schlußformel
-
-Der Bundesminister für Jugend, Familie, Frauen und Gesundheit

@@ -13,9 +13,9 @@ Auf Grund des § 59 des Bundes-Immissionsschutzgesetzes vom 15. März 1974 (BGBl
 
 (1) Dem Bundesminister der Verteidigung oder der von ihm bestimmten Stelle obliegen im Bereich der Bundeswehr der Vollzug der §§ 17, 20, 21, 24, 25, 26, 28, 29, 31, 52, 53 Abs. 2 und des § 55 Abs. 1 Satz 2 des Bundes-Immissionsschutzgesetzes und behördliche Überwachungsmaßnahmen nach Rechtsverordnungen, die auf Grund des Bundes-Immissionsschutzgesetzes erlassen sind,
 
-1.
+1. bei Anlagen, die der militärischen Landesverteidigung dienen und sich in militärischen Sicherheitsbereichen befinden, die nach § 2 Abs. 2 des Gesetzes über die Anwendung unmittelbaren Zwangs und die Ausübung besonderer Befugnisse durch Soldaten der Bundeswehr und zivile Wachpersonen vom 12. August 1965 (BGBl. I S. 796) festgesetzt sind,
 
-2.
+2. bei Anlagen nach § 3 Abs. 5 Nr. 2 des Bundes-Immissionsschutzgesetzes, die der militärischen Landesverteidigung dienen, soweit sie zu Übungen und Manövern außerhalb militärischer Sicherheitsbereiche eingesetzt werden.
 
 (2) Dem Bundesminister der Verteidigung oder der von ihm bestimmten Stelle obliegen auch die in Absatz 1 genannten behördlichen Überwachungsaufgaben bei Anlagen, die der militärischen Landesverteidigung dienen und von den auf Grund völkerrechtlicher Verträge in der Bundesrepublik Deutschland stationierten Truppen genutzt werden.
 

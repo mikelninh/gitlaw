@@ -8,7 +8,7 @@ und Ehrenzeichen
 
 ### Art 1
 
-Auf Grund des § 3 Abs. 1 des Gesetzes über Titel, Orden und Ehrenzeichen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 1132-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 33 des Gesetzes vom 2. März 1974 (BGBl. I S. 469), genehmige ich die Stiftung und Verleihung des Ehrenzeichens der Bundeswehr in vier Stufen durch den Bundesminister der Verteidigung.
+Auf Grund des § 3 Abs. 1 des Gesetzes über Titel, Orden und Ehrenzeichen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 1132-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 33 des Gesetzes vom 2. März 1974 (BGBl. I S. 469), genehmige ich die Stiftung und Verleihung des
 
 ### Art 2
 
@@ -23,5 +23,3 @@ Die Stiftungsbestimmungen und die Verleihungsbedingungen sowie die Abbildungen d
 Jede Änderung der Stiftungsbestimmungen und der Verleihungsbedingungen des nach Artikel 1 genehmigten Ehrenzeichens und jede Änderung seiner Form und seiner Benennung bedürfen meiner Genehmigung.
 
 ### Schlußformel
-
-Der Bundespräsident Der Bundesminister der Verteidigung Der Bundesminister des Innern

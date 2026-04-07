@@ -20,13 +20,13 @@
 
 (2) Das Bundesverwaltungsamt hat hierbei in Zusammenarbeit mit den beteiligten Stellen insbesondere folgende Aufgaben:
 
-1.
+1. Sammlung und Auswertung von Unterlagen, die für die Auswanderung von Bedeutung sind,
 
-2.
+2. Unterrichtung und Beratung der Dienststellen des Bundes und der Länder, der Auskunfts- und Beratungsstellen von Körperschaften oder Anstalten des öffentlichen Rechts oder von Vereinigungen, die sich die Fürsorge für die Auswanderer zur Aufgabe machen, in allen Angelegenheiten des Auswanderungswesens,
 
-3.
+3. Beobachtung der Auswanderungsbewegung, Benachrichtigung der Landesbehörden und Warnung der Öffentlichkeit bei der Feststellung von Mißständen im Auswanderungswesen,
 
-4.
+4. Begutachtung von Siedlungsvorhaben sowie von beruflichen und gewerblichen Niederlassungsmöglichkeiten im Ausland.
 
 (3) Das Bundesverwaltungsamt kann auf dem Gebiet der Einwanderung die in Absatz 2 Nr. 1 und 2 bezeichneten Aufgaben wahrnehmen.
 

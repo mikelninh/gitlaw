@@ -11,7 +11,13 @@ Auf Grund des § 11 Absatz 2 des Luftverkehrsteuergesetzes vom 9. Dezember 2010 
 
 ### § 1 — Steuersätze 2012
 
-Als Folge der Einbeziehung des Luftverkehrs in den Handel mit Treibhausgasemissionszertifikaten werden die Steuersätze des § 11 Absatz 1 Nummer 1 bis 3 des Gesetzes für das Jahr 2012 abgesenkt. Die Steuer beträgt je Fluggast für Flüge mit einem Zielort 1.in einem Land der Anlage 1 zu diesem Gesetz7,50 Euro,2.in einem Land der Anlage 2 zu diesem Gesetz23,43 Euro,3.in anderen Ländern42,18 Euro.
+Als Folge der Einbeziehung des Luftverkehrs in den Handel mit Treibhausgasemissionszertifikaten werden die Steuersätze des § 11 Absatz 1 Nummer 1 bis 3 des Gesetzes für das Jahr 2012 abgesenkt. Die Steuer beträgt je Fluggast für Flüge mit einem Zielort
+
+1. in einem Land der Anlage 1 zu diesem Gesetz7,50 Euro,
+
+2. in einem Land der Anlage 2 zu diesem Gesetz23,43 Euro,
+
+3. in anderen Ländern42,18 Euro.
 
 ### § 2 — Inkrafttreten
 

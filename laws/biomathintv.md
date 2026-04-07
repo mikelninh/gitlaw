@@ -14,11 +14,11 @@ Auf Grund des § 34 Abs. 8 des Patentgesetzes in der Fassung der Bekanntmachung 
 
 (1) Betrifft eine Erfindung biologisches Material, das der Öffentlichkeit nicht zugänglich ist und in der Patent- oder Gebrauchsmusteranmeldung nicht so beschrieben werden kann, dass ein Fachmann diese Erfindung danach ausführen kann, oder beinhaltet die Erfindung die Verwendung eines solchen Materials, so gilt die Beschreibung für die Anwendung des Patent- oder Gebrauchsmusterrechts nur dann als ausreichend, wenn
 
-1.
+1. das biologische Material spätestens am Tag der Anmeldung oder, wenn eine Priorität in Anspruch genommen worden ist, am Prioritätstag bei einer anerkannten Hinterlegungsstelle hinterlegt worden ist,
 
-2.
+2. die Anmeldung die einschlägigen Informationen enthält, die dem Anmelder bezüglich der Merkmale des hinterlegten biologischen Materials bekannt sind, und
 
-3.
+3. in der Anmeldung die Hinterlegungsstelle und das Aktenzeichen der Hinterlegung angegeben sind.
 
 (2) Biologisches Material im Sinne dieser Verordnung ist ein Material, das genetische Informationen enthält und sich selbst reproduzieren oder in einem biologischen System reproduziert werden kann.
 
@@ -32,9 +32,9 @@ Anerkannt sind die internationalen Hinterlegungsstellen, die diesen Status nach 
 
 (1) Ist bereits aufgrund der Anmeldeunterlagen eine eindeutige Zuordnung der Anmeldung zu dem hinterlegten biologischen Material möglich, so kann das Aktenzeichen der Hinterlegung nachgereicht werden
 
-1.
+1. bei Gebrauchsmusteranmeldungen innerhalb eines Monats nach dem Tag der Einreichung;
 
-2.
+2. bei Patentanmeldungen innerhalb einer Frist von 16 Monaten nach dem Tag der Anmeldung oder, wenn eine Priorität in Anspruch genommen worden ist, nach dem Prioritätstag. Die Frist gilt als eingehalten, wenn das Aktenzeichen bis zum Abschluss der technischen Vorbereitungen für die Veröffentlichung des Offenlegungshinweises nach § 32 Abs. 5 des Patentgesetzes mitgeteilt worden ist.
 
 (2) Die Frist zur Nachreichung endet jedoch spätestens einen Monat nach der Mitteilung an den Anmelder, dass ein Recht auf Akteneinsicht nach § 31 Abs. 1 Satz 1 des Patentgesetzes besteht, oder im Fall der vorzeitigen Offenlegung spätestens mit der Abgabe der Erklärung des Anmelders nach § 31 Absatz 2 Satz 1 Nummer 1 des Patentgesetzes.
 
@@ -48,25 +48,19 @@ Anerkannt sind die internationalen Hinterlegungsstellen, die diesen Status nach 
 
 (1) Das hinterlegte biologische Material wird durch Herausgabe einer Probe auf Antrag zugänglich gemacht
 
-1.
+1. bis zur Veröffentlichung des Offenlegungshinweises nach § 32 Abs. 5 des Patentgesetzes oder bis zur Eintragung des Gebrauchsmusters nura)für den Hinterleger, b)für das Deutsche Patent- und Markenamt auf Anforderung oder c)für den Anmelder oder einen sonstigen Dritten, wenn dieser aufgrund einer Entscheidung des Deutschen Patent- und Markenamts nach § 31 Abs. 1 Satz 1 des Patentgesetzes oder § 8 Abs. 5 Satz 2 des Gebrauchsmustergesetzes oder aufgrund der Entscheidung eines Gerichts zum Erhalt einer Probe berechtigt ist oder der Hinterleger in die Abgabe der Probe schriftlich eingewilligt hat; für den Hinterleger, für das Deutsche Patent- und Markenamt auf Anforderung oder für den Anmelder oder einen sonstigen Dritten, wenn dieser aufgrund einer Entscheidung des Deutschen Patent- und Markenamts nach § 31 Abs. 1 Satz 1 des Patentgesetzes oder § 8 Abs. 5 Satz 2 des Gebrauchsmustergesetzes oder aufgrund der Entscheidung eines Gerichts zum Erhalt einer Probe berechtigt ist oder der Hinterleger in die Abgabe der Probe schriftlich eingewilligt hat;
 
-a)
+2. von der Veröffentlichung des Offenlegungshinweises nach § 32 Abs. 5 des Patentgesetzes bis zur Erteilung des Patents für jedermann; auf Antrag des Hinterlegers wird der Zugang zu dem hinterlegten biologischen Material nur durch Herausgabe einer Probe an einen vom Antragsteller benannten unabhängigen Sachverständigen hergestellt;
 
-b)
-
-c)
-
-2.
-
-3.
+3. nach der Erteilung des Patents oder eines ergänzenden Schutzzertifikats oder nach Eintragung des Gebrauchsmusters ungeachtet eines späteren Widerrufs oder einer Nichtigerklärung des Patents oder des ergänzenden Schutzzertifikats oder einer späteren Löschung des Gebrauchsmusters für jedermann.
 
 (2) Bei Zurückweisung oder Zurücknahme der Anmeldung wird der in Absatz 1 Nr. 1 Buchstabe c und Nr. 2 geregelte Zugang zu dem hinterlegten biologischen Material auf Antrag des Hinterlegers für die Dauer von 20 Jahren ab dem Tag der Anmeldung nur durch Herausgabe einer Probe an einen vom Antragsteller benannten unabhängigen Sachverständigen hergestellt.
 
 (3) Als Sachverständiger nach Absatz 1 Nr. 2 und Absatz 2 kann benannt werden
 
-1.
+1. jede natürliche Person, auf die sich der Antragsteller und der Hinterleger geeinigt haben;
 
-2.
+2. jede natürliche Person, die vom Präsidenten des Deutschen Patent- und Markenamts als Sachverständiger anerkannt ist.
 
 (4) Die Anträge des Hinterlegers nach Absatz 1 Nr. 2 und Absatz 2 sind beim Deutschen Patent- und Markenamt zu stellen und können nur bis zu dem Zeitpunkt eingereicht werden, zu dem die technischen Vorbereitungen für die Veröffentlichung des Offenlegungshinweises nach § 32 Abs. 5 des Patentgesetzes oder für die Eintragung des Gebrauchsmusters als abgeschlossen gelten.
 
@@ -78,9 +72,9 @@ c)
 
 (1) Eine Probe wird nur dann herausgegeben, wenn der Antragsteller sich gegenüber dem Anmelder und im Fall der Dritthinterlegung auch gegenüber dem Hinterleger verpflichtet, für die Dauer der Wirkung sämtlicher Schutzrechte, die auf das hinterlegte biologische Material Bezug nehmen,
 
-1.
+1. Dritten keine Probe des hinterlegten biologischen Materials oder eines daraus abgeleiteten Materials zugänglich zu machen und
 
-2.
+2. keine Probe des hinterlegten biologischen Materials oder eines daraus abgeleiteten Materials zu anderen als zu Versuchszwecken zu verwenden, es sei denn, der Anmelder oder Inhaber des Schutzrechts, im Fall der Dritthinterlegung zusätzlich der Hinterleger, verzichten ausdrücklich auf eine derartige Verpflichtung. Die Verpflichtung, das biologische Material nur zu Versuchszwecken zu verwenden, ist hinfällig, soweit der Antragsteller dieses Material aufgrund einer Zwangslizenz oder einer staatlichen Benutzungsanordnung verwendet.
 
 (2) Wird die Probe an einen unabhängigen Sachverständigen herausgegeben, so hat dieser die Verpflichtungserklärung nach Absatz 1 abzugeben. Gegenüber dem Sachverständigen ist der Antragsteller als Dritter im Sinne des Absatzes 1 Nr. 1 anzusehen.
 

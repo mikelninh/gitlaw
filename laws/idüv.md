@@ -14,17 +14,17 @@ Auf Grund des § 22 Absatz 3 Satz 1 des Geldwäschegesetzes vom 23. Juni 2017 (B
 
 (1) Die Landesjustizverwaltungen übermitteln dem Transparenzregister folgende Indexdaten zu Eintragungen im Handels-, Genossenschafts-, Gesellschafts- und Partnerschaftsregister gemäß § 22 Absatz 1 Satz 1 Nummer 4 bis 8 des Geldwäschegesetzes:
 
-1.
+1. Registerart, Registergericht und Registernummer sowie ein Ortskennzeichen, soweit vorhanden,
 
-2.
+2. Firma oder Name des Unternehmens, bei Zweigniederlassungen die betreffenden Daten der Zweigniederlassung,
 
-3.
+3. Rechtsform des Unternehmens,
 
-4.
+4. Sitz und Anschrift des Unternehmens, bei Zweigniederlassungen die betreffenden Daten der Zweigniederlassung,
 
-5.
+5. Kennzeichnung, ob es sich um eine Neueintragung, eine Veränderung oder eine Löschung handelt,
 
-6.
+6. Verfügbarkeit der Dokumentenarten „Aktueller Ausdruck (AD)“, „Chronologischer Ausdruck (CD)“, „Historischer Ausdruck (HD)“, „Unternehmensträgerdaten (UT)“ und „Dokumentenansicht (DK)“ zu dem jeweiligen Unternehmen.
 
 (2) Für Eintragungen im Vereinsregister gilt die Pflicht zur Übermittlung der erforderlichen Indexdaten, soweit vorhanden, nach Satz 1 entsprechend.
 
@@ -32,23 +32,23 @@ Auf Grund des § 22 Absatz 3 Satz 1 des Geldwäschegesetzes vom 23. Juni 2017 (B
 
 ### § 2 — Übermittlungen von Indexdaten zu Registerbekanntmachungen aus dem Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- und Vereinsregister
 
-Die Landesjustizverwaltungen übermitteln dem Transparenzregister folgende Indexdaten zu Bekanntmachungen aus dem Handels-, Genossenschafts-, Gesellschafts- und Partnerschaftsregister: § 1 Absatz 2 und 3 gelten entsprechend.
+Die Landesjustizverwaltungen übermitteln dem Transparenzregister folgende Indexdaten zu Bekanntmachungen aus dem Handels-, Genossenschafts-, Gesellschafts- und Partnerschaftsregister:
 
-1.
+1. Registerart, Registergericht, Registernummer sowie ein Ortskennzeichen, soweit vorhanden,
 
-2.
+2. Firma oder Name des Unternehmens,
 
-3.
+3. Rechtsform des Unternehmens,
 
-4.
+4. Sitz des Unternehmens,
 
-5.
+5. Gegenstand der Bekanntmachung,
 
-6.
+6. Elektronische Verknüpfung zu der Bekanntmachung,
 
-7.
+7. Tag der Bekanntmachung,
 
-8.
+8. Tag der Eintragung oder Anordnung.
 
 ### § 3 — Art der Datenübermittlung
 

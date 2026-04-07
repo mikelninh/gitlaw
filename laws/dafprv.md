@@ -13,29 +13,23 @@
 
 (3) Durch die Prüfung ist festzustellen, ob die zu prüfende Person nach § 53b Absatz 2 Satz 1 des Berufsbildungsgesetzes die erforderlichen Fertigkeiten, Kenntnisse und Fähigkeiten, die sie in der Regel im Rahmen der Berufsausbildung erworben hat, vertieft hat und die in der Regel im Rahmen der Berufsausbildung erworbene berufliche Handlungsfähigkeit um neue Fertigkeiten, Kenntnisse und Fähigkeiten ergänzt hat. Insbesondere ist festzustellen, ob die zu prüfende Person in der Lage ist, eigenständig und verantwortlich Datenanalysen betriebs- und produktionswirtschaftlicher Geschäftsprozesse vorzubereiten, zu planen und durchzuführen, die aus der Datenanalyse gewonnenen Ergebnisse zu bewerten und Vorschläge zur Prozessoptimierung abzuleiten sowie dabei die Dimensionen des nachhaltigen Wirtschaftens und auch deren ethische Aspekte zu berücksichtigen. Im Einzelnen umfasst dies insbesondere folgende Tätigkeiten:
 
-1.
+1. Ermitteln von Anforderungen an die Datenanalyse betriebs- und produktionswirtschaftlicher Geschäftsprozesse unter Berücksichtigung von a)Kundenanforderungen,b)Datenzugangsberechtigungen sowiec)technischen und organisatorischen Voraussetzungen, Kundenanforderungen, Datenzugangsberechtigungen sowie technischen und organisatorischen Voraussetzungen,
 
-a)
+2. Bewerten und Auswählen von Werkzeugen und Methoden zur Analyse von betriebs- und produktionswirtschaftlichen Geschäftsprozessen und Daten,
 
-b)
+3. Testen und Dokumentieren von Prozessen zum Extrahieren, Aufbereiten und Laden von Daten unterschiedlicher Datenquellen und Zielanwendungen,
 
-c)
+4. Analyse komplexer Daten aus unterschiedlichen Quellen auch mithilfe moderner Technologien,
 
-2.
+5. Bewerten von Ergebnissen der Datenanalyse,
 
-3.
+6. Mitwirken an Empfehlungen zur Optimierung von betriebs- und produktionswirtschaftlichen Geschäftsprozessen mit Blick auf den gesamten Datenlebenszyklus,
 
-4.
+7. Dokumentieren, Visualisieren und Präsentieren gewonnener Erkenntnisse,
 
-5.
+8. Evaluieren und Optimieren des Analyseprozesses, auch mithilfe moderner Technologien sowie
 
-6.
-
-7.
-
-8.
-
-9.
+9. Unterstützen der Projektleitung bei der Vorbereitung, der Planung, der Durchführung und dem Abschluss von Projekten.
 
 (4) Für den Erwerb der in Absatz 3 bezeichneten Fertigkeiten, Kenntnisse und Fähigkeiten bedarf es in der Regel eines Lernumfangs von insgesamt mindestens 400 Stunden. Der Lerninhalt bestimmt sich nach den Anforderungen des in § 3 in Verbindung mit § 4 genannten Prüfungsbereichs.
 
@@ -45,13 +39,13 @@ c)
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53b des Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
 
-1.
+1. eine erfolgreich abgelegte Abschluss- oder Gesellenprüfung in einem anerkannten Ausbildungsberuf im Bereich der Informations- und Kommunikationstechnologie,
 
-2.
+2. eine erfolgreich abgelegte Abschluss- oder Gesellenprüfung in einem anderen anerkannten Ausbildungsberuf und eine auf die Berufsausbildung folgende, mindestens einjährige Berufspraxis,
 
-3.
+3. den Erwerb von mindestens 60 Leistungspunkten nach dem Europäischen System zur Übertragung und Akkumulierung von Studienleistungen in einem Studium und eine mindestens zweijährige Berufspraxis oder
 
-4.
+4. eine mindestens vierjährige Berufspraxis.
 
 (2) Die Berufspraxis nach Absatz 1 Nummer 2 bis 4 muss wesentliche inhaltliche Bezüge zu den in § 1 Absatz 3 genannten Tätigkeiten aufweisen. Die Dauer und der Inhalt der Berufspraxis sind in geeigneter Weise nachzuweisen.
 
@@ -65,99 +59,25 @@ Die Prüfung findet im Prüfungsbereich „Datenanalysen zur Optimierung von bet
 
 Im Prüfungsbereich „Datenanalysen zur Optimierung von betriebs- und produktionswirtschaftlichen Prozessen planen, durchführen und evaluieren“ hat die zu prüfende Person nachzuweisen, dass sie in der Lage ist, in unterschiedlichen Anwendungsszenarien Datenanalysen von betriebs- und produktionswirtschaftlichen Geschäftsprozessen nach kundenspezifischen Anforderungen zu planen, durchzuführen, die Ergebnisse der Datenanalysen zu bewerten und den Analyseprozess zu evaluieren. Dabei hat sie nachzuweisen, dass sie Anforderungen an die Datenanalyse ermitteln, geeignete Datenbestände identifizieren und aufbereiten, Analyseverfahren auswählen und anwenden sowie aus den Analyseergebnissen Erkenntnisse zur Prozessoptimierung ableiten und den Analyseprozess evaluieren kann. In diesem Rahmen wird aus den Inhalten der folgenden Qualifikationsschwerpunkte geprüft:
 
-1.
+1. Qualifikationsschwerpunkt „Anforderungen an die Datenanalyse ermitteln“: a)Identifizieren von Kundenanforderungen unter Berücksichtigung der relevanten betriebs- und produktionswirtschaftlichen Geschäftsprozesse und von deren Zusammenwirken im Unternehmen,b)Ermitteln der Fragestellung und Intention der Datenanalyse gemeinsam mit den Stakeholdern,c)Bewerten und Dokumentieren der Berechtigung zur Sammlung, Nutzung, Verknüpfung und Auswertung der Daten unter Berücksichtigung rechtlicher Vorgaben und ethischer Aspekte sowied)Ermitteln und Dokumentieren technischer und organisatorischer Voraussetzungen für den Zugriff auf vorhandene Datenbestände, Datenarchitekturen, Datenmodelle und Auswertungsverfahren, Identifizieren von Kundenanforderungen unter Berücksichtigung der relevanten betriebs- und produktionswirtschaftlichen Geschäftsprozesse und von deren Zusammenwirken im Unternehmen, Ermitteln der Fragestellung und Intention der Datenanalyse gemeinsam mit den Stakeholdern, Bewerten und Dokumentieren der Berechtigung zur Sammlung, Nutzung, Verknüpfung und Auswertung der Daten unter Berücksichtigung rechtlicher Vorgaben und ethischer Aspekte sowie Ermitteln und Dokumentieren technischer und organisatorischer Voraussetzungen für den Zugriff auf vorhandene Datenbestände, Datenarchitekturen, Datenmodelle und Auswertungsverfahren,
 
-a)
+2. Qualifikationsschwerpunkt „Datenanalyse betriebs- und produktionswirtschaftlicher Geschäftsprozesse vorbereiten“: a)Analysieren von betriebs- und produktionswirtschaftlichen Geschäftsprozessen und von deren Zusammenwirken im Unternehmen sowie Ableiten von Optimierungspotenzialen anhand der ermittelten Daten,b)Analysieren und Bereinigen vorhandener Datenbestände,c)Analysieren vorhandener Datenbankarchitekturen und Datenmodelle sowie Planen der Optimierung dieser Datenbankarchitekturen und Datenmodelle,d)Identifizieren von Schnittstellen für den Datenimport und -export,e)Anpassen von Datenformaten sowief)Entwerfen und Testen von Regeln für den Datenfluss, Analysieren von betriebs- und produktionswirtschaftlichen Geschäftsprozessen und von deren Zusammenwirken im Unternehmen sowie Ableiten von Optimierungspotenzialen anhand der ermittelten Daten, Analysieren und Bereinigen vorhandener Datenbestände, Analysieren vorhandener Datenbankarchitekturen und Datenmodelle sowie Planen der Optimierung dieser Datenbankarchitekturen und Datenmodelle, Identifizieren von Schnittstellen für den Datenimport und -export, Anpassen von Datenformaten sowie Entwerfen und Testen von Regeln für den Datenfluss,
 
-b)
+3. Qualifikationsschwerpunkt „Daten analysieren und Ergebnisse bewerten“: a)Einsetzen analytischer und statistischer Methoden und Algorithmen zur Datenanalyse,b)Einsetzen von Verfahren des maschinellen Lernens zur Datenanalyse,c)Bewerten, Auswählen und Einsetzen von Werkzeugen zur Datenanalyse,d)Auswählen geeigneter Möglichkeiten zur Visualisierung und zur Bewertung der zu analysierenden Daten,e)Visualisieren der zu analysierenden Daten,f)Bewerten der Ergebnisse der Datenanalyse und Ableiten von Verbesserungen der Analyse- und Darstellungsmethodik,g)Bestimmen geeigneter Programmiersprachen mit integrierten Auswertungsverfahren und Visualisierungswerkzeugen sowie Anwenden dieser Verfahren und Werkzeuge für den Datenanalyseprozess,h)Unterstützen bei der Steuerung von Prozessen zur Entwicklung von Simulationsmodellen und -verfahren,i)Anwenden von Simulationsverfahren,j)Anfertigen von Dokumentationen des Analyseprozesses,k)Interpretieren, Bewerten und Dokumentieren von Datenanalyseergebnissen sowiel)Aufbereiten und Vorstellen von Datenanalyseergebnissen sowie Ableiten von Empfehlungen zur Optimierung betriebs- und produktionswirtschaftlicher Geschäftsprozesse, Einsetzen analytischer und statistischer Methoden und Algorithmen zur Datenanalyse, Einsetzen von Verfahren des maschinellen Lernens zur Datenanalyse, Bewerten, Auswählen und Einsetzen von Werkzeugen zur Datenanalyse, Auswählen geeigneter Möglichkeiten zur Visualisierung und zur Bewertung der zu analysierenden Daten, Visualisieren der zu analysierenden Daten, Bewerten der Ergebnisse der Datenanalyse und Ableiten von Verbesserungen der Analyse- und Darstellungsmethodik, Bestimmen geeigneter Programmiersprachen mit integrierten Auswertungsverfahren und Visualisierungswerkzeugen sowie Anwenden dieser Verfahren und Werkzeuge für den Datenanalyseprozess, Unterstützen bei der Steuerung von Prozessen zur Entwicklung von Simulationsmodellen und -verfahren, Anwenden von Simulationsverfahren, Anfertigen von Dokumentationen des Analyseprozesses, Interpretieren, Bewerten und Dokumentieren von Datenanalyseergebnissen sowie Aufbereiten und Vorstellen von Datenanalyseergebnissen sowie Ableiten von Empfehlungen zur Optimierung betriebs- und produktionswirtschaftlicher Geschäftsprozesse,
 
-c)
+4. Qualifikationsschwerpunkt „Evaluation als Basis kontinuierlicher Optimierung durchführen“: a)Bewerten und kritisches Reflektieren von Prozessschritten zur Datenanalyse sowie Initiieren von Verbesserungen,b)Einleiten von Maßnahmen zur Optimierung von Datenmodellen und Analyseverfahren,c)Dokumentieren der Evaluation von Datenanalyseprozessen und Bereitstellen der Evaluationsergebnisse im betrieblichen Wissensmanagement sowied)Entwickeln von systemübergreifenden Regeln zur Überwachung und Einhaltung der Datenqualität, Bewerten und kritisches Reflektieren von Prozessschritten zur Datenanalyse sowie Initiieren von Verbesserungen, Einleiten von Maßnahmen zur Optimierung von Datenmodellen und Analyseverfahren, Dokumentieren der Evaluation von Datenanalyseprozessen und Bereitstellen der Evaluationsergebnisse im betrieblichen Wissensmanagement sowie Entwickeln von systemübergreifenden Regeln zur Überwachung und Einhaltung der Datenqualität,
 
-d)
+5. Qualifikationsschwerpunkt „Organisatorische und rechtliche Vorgaben“: a)Ermitteln von Anforderungen an Datensicherheitskonzepte,b)Mitwirken bei der Entwicklung von Datensicherheitskonzepten,c)Berücksichtigen und Umsetzen von Datensicherheitskonzepten,d)Identifizieren und Bewerten von Risiken sowie Einleiten von Maßnahmen zur Minimierung von Risiken sowiee)Sicherstellen der Einhaltung organisatorischer und rechtlicher Vorgaben sowie Ermitteln von Anforderungen an Datensicherheitskonzepte, Mitwirken bei der Entwicklung von Datensicherheitskonzepten, Berücksichtigen und Umsetzen von Datensicherheitskonzepten, Identifizieren und Bewerten von Risiken sowie Einleiten von Maßnahmen zur Minimierung von Risiken sowie Sicherstellen der Einhaltung organisatorischer und rechtlicher Vorgaben sowie
 
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-5.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-6.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
+6. Qualifikationsschwerpunkt „Projektunterstützung und -koordination“: a)Unterstützen der Projektleitung durch Übernehmen und Umsetzen von Teilprojekten,b)organisatorisches Begleiten von Projekten, insbesondere Erstellen von Projektplänen und Planen des Mitarbeitendeneinsatzes,c)Mitwirken bei der Aufwandsanalyse und -kalkulation von Projekten,d)projektbegleitendes Beraten von Kunden sowie Unterstützen und Beraten von Kunden in der Roll-out-Phase,e)Mitwirken beim Projektcontrolling, bei der Nachverfolgung von Aufgaben und beim Aufbereiten von Statusberichten sowief)Planen und Umsetzen von projektbezogenen Schulungs- und Trainingsmaßnahmen. Unterstützen der Projektleitung durch Übernehmen und Umsetzen von Teilprojekten, organisatorisches Begleiten von Projekten, insbesondere Erstellen von Projektplänen und Planen des Mitarbeitendeneinsatzes, Mitwirken bei der Aufwandsanalyse und -kalkulation von Projekten, projektbegleitendes Beraten von Kunden sowie Unterstützen und Beraten von Kunden in der Roll-out-Phase, Mitwirken beim Projektcontrolling, bei der Nachverfolgung von Aufgaben und beim Aufbereiten von Statusberichten sowie Planen und Umsetzen von projektbezogenen Schulungs- und Trainingsmaßnahmen.
 
 ### § 5 — Form und Ablauf der Prüfung
 
 (1) Die Prüfung gliedert sich in
 
-1.
+1. eine schriftliche Prüfung nach § 6 und
 
-2.
+2. eine mündliche Prüfung nach § 7.
 
 (2) Die Prüfung beginnt mit dem Ablegen der schriftlichen Prüfung nach Absatz 1 Nummer 1. Das Prüfungsverfahren ist innerhalb von zwei Jahren, beginnend mit dem ersten Tag der Prüfung der zuerst abzulegenden Prüfungsleistung, abzuschließen. Bei Überschreiten der Frist gelten die erbrachten Prüfungsleistungen als mit null Punkten bewertet.
 
@@ -187,15 +107,11 @@ f)
 
 (2) In der schriftlichen Prüfung sind die beiden Prüfungsleistungen nach § 6 Absatz 2 jeweils einzeln zu bewerten. Sind in jeder Prüfungsleistung mindestens 50 Punkte erreicht worden, wird aus den einzelnen Bewertungen als Bewertung der schriftlichen Prüfung das arithmetische Mittel berechnet.
 
-(3) In der mündlichen Prüfung sind als Prüfungsleistungen jeweils einzeln zu bewerten: Aus den Bewertungen der Präsentation und des Fachgesprächs wird als Bewertung der mündlichen Prüfung das gewichtete arithmetische Mittel berechnet. Dabei sind die Bewertungen wie folgt zu gewichten:
+(3) In der mündlichen Prüfung sind als Prüfungsleistungen jeweils einzeln zu bewerten:
 
-1.
+1. die Präsentation nach § 7 Absatz 2 und
 
-2.
-
-1.
-
-2.
+2. das Fachgespräch nach § 7 Absatz 3.
 
 ### § 9 — Bestehen der Prüfung, Gesamtnote
 
@@ -203,9 +119,9 @@ f)
 
 (2) Ist die Prüfung bestanden, sind die folgenden Punktebewertungen jeweils kaufmännisch auf eine ganze Zahl zu runden:
 
-1.
+1. die Bewertung der schriftlichen Prüfung nach § 8 Absatz 2,
 
-2.
+2. die Bewertung der mündlichen Prüfung nach § 8 Absatz 3.
 
 (3) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das arithmetische Mittel der nach Absatz 2 gerundeten Bewertungen zu berechnen. Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl ist nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
 
@@ -221,9 +137,9 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur Information (Bemerkungen) enthalten, insbesondere
 
-1.
+1. über den erworbenen Abschluss oder
 
-2.
+2. auf Antrag der geprüften Person über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 ### § 12 — Wiederholung von Prüfungsleistungen
 
@@ -241,38 +157,34 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 ### Anlage 2 — (zu § 11)
 
-Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
 
-1.
+2. Name und Geburtsdatum der geprüften Person,
 
-2.
+3. Datum des Bestehens der Prüfung,
 
-3.
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 5,
 
-4.
+5. Bezeichnung und Fundstelle dieser Fortbildungsprüfungsverordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
 
-5.
-
-6.
-
-Teil B – Zeugnis mit Prüfungsergebnissen:
+6. Datum der Ausstellung des Zeugnisses samt Faksimile oder Unterschrift einer zeichnungsberechtigten Person der zuständigen Stelle.
 
 Alle Angaben des Teils A sowie zusätzlich
 
-1.
+1. Benennung des Prüfungsbereichs,
 
-2.
+2. Bewertung der schriftlichen Prüfung,
 
-3.
+3. zur mündlichen Prüfung die Benennung des Themas der Präsentation und deren Bewertung,
 
-4.
+4. zur mündlichen Prüfung die Bewertung des Fachgesprächs,
 
-5.
+5. Bewertung der mündlichen Prüfung,
 
-6.
+6. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
 
-7.
+7. die Gesamtnote als Dezimalzahl,
 
-8.
+8. die Gesamtnote in Worten,
 
-9.
+9. Befreiungen nach § 10.

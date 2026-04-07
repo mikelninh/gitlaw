@@ -18,11 +18,11 @@
 
 (3) „Unionswaren“ sind Waren, die
 
-1.
+1. im Zollgebiet der Europäischen Union vollständig gewonnen oder hergestellt wurden und für die keine aus Ländern oder Gebieten außerhalb des Zollgebietes der Europäischen Union eingeführten Waren verwendet wurden,
 
-2.
+2. aus Ländern oder Gebieten außerhalb des Zollgebietes der Europäischen Union in dieses Gebiet verbracht und zum zollrechtlich freien Verkehr überlassen wurden oder
 
-3.
+3. im Zollgebiet der Europäischen Union entweder ausschließlich aus Waren nach Nummer 2 oder aus Waren nach Nummer 1 und 2 gewonnen oder hergestellt wurden.
 
 (4) „Nicht-Unionswaren“ sind Waren, die nicht von Absatz 3 erfasst werden, und Waren, die den zollrechtlichen Status als Unionswaren verloren haben.
 
@@ -30,31 +30,29 @@
 
 (6) „Besondere Waren“ und „besondere Warenbewegungen“ sind solche, für die spezielle Rechtsvorschriften für die Anmeldung oder Übermittlung der statistischen Angaben gelten. Zu den besonderen Waren gehören insbesondere:
 
-1.
+1. Seeschiffe und Luftfahrzeuge,
 
-2.
+2. Schiffs- und Luftfahrzeugbedarf, der als Verbrauchsgut an Bord von Seeschiffen und Luftfahrzeugen geliefert wird,
 
-3.
+3. Meeresprodukte,
 
-4.
+4. Waren für und von Einrichtungen auf hoher See,
 
-5.
+5. Erdgas, das durch fest installierte Transporteinrichtungen geleitet wird,
 
-6.
+6. elektrischer Strom,
 
-7.
+7. militärischer Bedarf,
 
-8.
+8. Raumflugkörper und
 
-9.
+9. Abfallprodukte.
 
 (7) „Wirtschaftliches Eigentum“ ist das Recht einer Person, die Vorteile aus der wirtschaftlichen Nutzung einer Ware im Gegenzug zur Übernahme der damit verbundenen Risiken zu beanspruchen.
 
 (8) „Exporte“ sind Warenverkehre aus dem Erhebungsgebiet heraus.
 
 (9) „Importe“ sind Warenverkehre in das Erhebungsgebiet hinein.
-
-(10) „Intrahandel“ umfasst die Warenverkehre mit anderen Mitgliedstaaten der Europäischen Union, deren Territorien zum statistischen Erhebungsgebiet der Europäischen Union nach Anhang 5 Kapitel I Abschnitt 4 der Durchführungsverordnung (EU) 2020/1197 der Kommission vom 30. Juli 2020 zur Festlegung technischer Spezifikationen und Einzelheiten nach der Verordnung (EU) 2019/2152 des Europäischen Parlaments und des Rates über europäische Unternehmensstatistiken, zur Aufhebung von zehn Rechtsakten im Bereich Unternehmensstatistiken (ABl. L 271 vom 18.8.2020, S. 1) gehören.
 
 (11) „Intrahandelsstatistik“ ist die Statistik über den Intrahandel, sie umfasst die Verkehrsrichtungen Eingang und Versendung.
 
@@ -78,9 +76,9 @@
 
 (21) „Gebietsansässig“ sind Personen, wenn sie in Deutschland steuerlich registriert sind. Außerdem gelten folgende Personen als gebietsansässig:
 
-1.
+1. eine natürliche Person, die ihren Wohnsitz oder gewöhnlichen Aufenthalt im Erhebungsgebiet hat,
 
-2.
+2. eine juristische Person oder Personenvereinigung, die ihren Sitz, ihren Hauptsitz oder ihre ständige Niederlassung im Erhebungsgebiet hat.
 
 (22) Eine „ständige Niederlassung“ ist eine dauerhafte Niederlassung oder Betriebsstätte, in der die erforderlichen Personal- und Sachmittel ständig vorhanden sind, mit eigener Leitung oder Verwaltung und gesonderter Buchführung.
 
@@ -106,27 +104,27 @@
 
 Erhebungsgebiet für die Außenhandelsstatistik sind
 
-1.
+1. das Staatsgebiet der Bundesrepublik Deutschland einschließlich der Insel Helgoland, jedoch ausschließlich der Gemeinde Büsingen, und
 
-2.
+2. Gebiete auf hoher See, in denen die Bundesrepublik Deutschland über das alleinige Recht verfügt, den Meeresboden und seinen Untergrund wirtschaftlich auszubeuten.
 
 ### § 4 — Inhalt, Zweck
 
 (1) Die Außenhandelsstatistik umfasst die Erhebungen
 
-1.
+1. der Intrahandelsstatistik und
 
-2.
+2. der Extrahandelsstatistik.
 
 (2) Die Außenhandelsstatistik wird durchgeführt für Zwecke
 
-1.
+1. der Bereitstellung aktueller Daten über die Warenbewegungen der Bundesrepublik Deutschland mit anderen Ländern,
 
-2.
+2. der Volkswirtschaftlichen Gesamtrechnungen und der Zahlungsbilanzstatistiken der Deutschen Bundesbank,
 
-3.
+3. außenwirtschaftlicher Planungsentscheidungen und
 
-4.
+4. der Erfüllung europa- und völkerrechtlicher Berichtspflichten der Bundesrepublik Deutschland.
 
 ### § 5 — Durchführung
 
@@ -138,19 +136,9 @@ Die Außenhandelsstatistik wird vom Statistischen Bundesamt erhoben und aufberei
 
 (2) Für die Intrahandelsstatistik sind anzumelden
 
-1.
+1. als Versendungen grenzüberschreitende Warenbewegungen von a)Unionswaren, einschließlich solcher, die sich in der Endverwendung unter zollamtlicher Überwachung befinden, mit Ausnahme von Waren im einfachen Verkehr zwischen Mitgliedstaaten,b)Nicht-Unionswaren, die im Zollgebiet zum Zollverfahren der aktiven Veredelung abgefertigt worden sind, wenn sie aus dem Erhebungsgebiet in einen anderen Mitgliedstaat der Europäischen Union versendet werden; Unionswaren, einschließlich solcher, die sich in der Endverwendung unter zollamtlicher Überwachung befinden, mit Ausnahme von Waren im einfachen Verkehr zwischen Mitgliedstaaten, Nicht-Unionswaren, die im Zollgebiet zum Zollverfahren der aktiven Veredelung abgefertigt worden sind, wenn sie aus dem Erhebungsgebiet in einen anderen Mitgliedstaat der Europäischen Union versendet werden;
 
-a)
-
-b)
-
-2.
-
-a)
-
-b)
-
-c)
+2. als Eingänge grenzüberschreitende Warenbewegungen von a)Unionswaren mit Ausnahme von Waren im einfachen Verkehr zwischen Mitgliedstaaten,b)Nicht-Unionswaren, die im Zollverfahren der aktiven Veredelung in das deutsche Erhebungsgebiet importiert werden, sowie solche, die aus dem Zolllager entnommen und in den freien Verkehr überlassen oder in die aktive Veredelung überführt werden,c)Waren, die ursprünglich im Versendungsmitgliedstaat zum Zollverfahren der aktiven Veredelung abgefertigt worden sind und im Zollverfahren der aktiven Veredelung verbleiben oder im deutschen Zollgebiet zum zollrechtlich freien Verkehr überlassen werden. Unionswaren mit Ausnahme von Waren im einfachen Verkehr zwischen Mitgliedstaaten, Nicht-Unionswaren, die im Zollverfahren der aktiven Veredelung in das deutsche Erhebungsgebiet importiert werden, sowie solche, die aus dem Zolllager entnommen und in den freien Verkehr überlassen oder in die aktive Veredelung überführt werden, Waren, die ursprünglich im Versendungsmitgliedstaat zum Zollverfahren der aktiven Veredelung abgefertigt worden sind und im Zollverfahren der aktiven Veredelung verbleiben oder im deutschen Zollgebiet zum zollrechtlich freien Verkehr überlassen werden.
 
 (3) Für die Extrahandelsstatistik sind anzumelden grenzüberschreitende Warenbewegungen zwischen dem Erhebungsgebiet und Gebieten außerhalb des Zollgebietes der Europäischen Union, untergliedert nach den Verkehrsrichtungen nach § 2 Absatz 16.
 
@@ -166,85 +154,73 @@ c)
 
 (1) Die Erhebungsmerkmale der Außenhandelsstatistik sind
 
-1.
+1. Bezugszeitraum,
 
-2.
+2. Verkehrsrichtung,
 
-3.
+3. Warennummer,
 
-4.
+4. Warenbezeichnung,
 
-5.
+5. Ursprungsbundesland,
 
-6.
+6. Bestimmungsbundesland,
 
-7.
+7. Ursprungsland,
 
-8.
+8. Bestimmungsland,
 
-9.
+9. Versendungsland,
 
-10.
+10. Statistischer Wert,
 
-11.
+11. Menge der Ware,
 
-12.
+12. Art des Geschäfts,
 
-13.
+13. Verkehrszweig an der Grenze.
 
 (2) Für die Intrahandelsstatistik werden zusätzlich Angaben zu folgenden Erhebungsmerkmalen erhoben:
 
-1.
+1. Rechnungsbetrag,
 
-2.
+2. bei Versendungen: Umsatzsteuer-Identifikationsnummer des Handelspartners im Bestimmungsland.
 
 (3) Für die Extrahandelsstatistik werden zusätzlich Angaben zu folgenden Erhebungsmerkmalen erhoben:
 
-1.
+1. Kodierung des Zollverfahrens,
 
-2.
+2. Rechnungswährung,
 
-3.
+3. Gesamtbetrag der Rechnung,
 
-4.
+4. bei der Einfuhr: in Rechnung gestellter Positionsbetrag,
 
-5.
+5. Präferenzbehandlung bei der Einfuhr, sofern diese von den Zollbehörden gewährt wurde,
 
-6.
+6. Verkehrszweig im Inland,
 
-7.
+7. Angabe, ob die Ware in Containern befördert wird,
 
-8.
+8. Mitgliedstaat, in dem sich die Ware zum Zeitpunkt der Überführung in das Zollverfahren befindet,
 
-9.
+9. endgültiges Bestimmungsland,
 
-10.
+10. tatsächliches Ausfuhrland,
 
-11.
+11. Statistisches Verfahren,
 
-12.
+12. Ort der Ware,
 
-13.
+13. Lieferbedingung.
 
 ### § 8 — Hilfsmerkmale
 
 Hilfsmerkmale sind
 
-1.
+1. für die Intrahandelsstatistik a)für den Rechtsverkehr verbindliche Angabe von Name oder Firma, Verwaltungsanschrift unter Angabe von Straße, Hausnummer, Postfach, Postleitzahl, Ort und Länderkennzeichen, Telefon- und Telefaxnummern sowie Adresse für elektronische Post der Auskunftspflichtigen,b)Steuernummer aus der Umsatzsteuer-Voranmeldung sowie Umsatzsteuer-Identifikationsnummer der Auskunftspflichtigen; bei umsatzsteuerrechtlichen Organschaften die Umsatzsteuer-Identifikationsnummer des Organträgers und die Umsatzsteuer-Identifikationsnummer der Organgesellschaft, welche die Ware versendet oder bei der sie eingeht; bundeseinheitliche Wirtschaftsnummer für Unternehmen nach § 2 des Unternehmensbasisdatenregistergesetzes,c)Bevollmächtigte für die statistische Auskunftserteilung einschließlich deren Kontaktdaten; für den Rechtsverkehr verbindliche Angabe von Name oder Firma, Verwaltungsanschrift unter Angabe von Straße, Hausnummer, Postfach, Postleitzahl, Ort und Länderkennzeichen, Telefon- und Telefaxnummern sowie Adresse für elektronische Post der Auskunftspflichtigen, Steuernummer aus der Umsatzsteuer-Voranmeldung sowie Umsatzsteuer-Identifikationsnummer der Auskunftspflichtigen; bei umsatzsteuerrechtlichen Organschaften die Umsatzsteuer-Identifikationsnummer des Organträgers und die Umsatzsteuer-Identifikationsnummer der Organgesellschaft, welche die Ware versendet oder bei der sie eingeht; bundeseinheitliche Wirtschaftsnummer für Unternehmen nach § 2 des Unternehmensbasisdatenregistergesetzes, Bevollmächtigte für die statistische Auskunftserteilung einschließlich deren Kontaktdaten;
 
-a)
-
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-c)
+2. für die Extrahandelsstatistik a)für den Rechtsverkehr verbindliche Angabe von Name oder Firma, Verwaltungsanschrift unter Angabe von Straße, Hausnummer, Postfach, Postleitzahl, Ort und Länderkennzeichen, Telefon- und Telefaxnummern sowie Adresse für elektronische Post der Auskunftspflichtigen,b)EORI-Nummer, ergänzende nationale Niederlassungsnummer zur EORI-Nummer, TCUI-Nummer, IOSS-Nummer, Steuernummer der Auskunftspflichtigen aus der Umsatzsteuer-Voranmeldung, Umsatzsteuer-Identifikationsnummer der Auskunftspflichtigen, Registriernummer der Zollanmeldung, sowie weitere, aufgrund einer Rechtsverordnung nach § 18 Nummer 3 festgelegte Identifikatoren,c)Bevollmächtigte für die statistische Auskunftserteilung einschließlich deren Kontaktdaten. für den Rechtsverkehr verbindliche Angabe von Name oder Firma, Verwaltungsanschrift unter Angabe von Straße, Hausnummer, Postfach, Postleitzahl, Ort und Länderkennzeichen, Telefon- und Telefaxnummern sowie Adresse für elektronische Post der Auskunftspflichtigen, EORI-Nummer, ergänzende nationale Niederlassungsnummer zur EORI-Nummer, TCUI-Nummer, IOSS-Nummer, Steuernummer der Auskunftspflichtigen aus der Umsatzsteuer-Voranmeldung, Umsatzsteuer-Identifikationsnummer der Auskunftspflichtigen, Registriernummer der Zollanmeldung, sowie weitere, aufgrund einer Rechtsverordnung nach § 18 Nummer 3 festgelegte Identifikatoren, Bevollmächtigte für die statistische Auskunftserteilung einschließlich deren Kontaktdaten.
 
 ### § 9 — Auskunftspflicht
 
@@ -252,19 +228,11 @@ c)
 
 (2) Zusätzlich zu Absatz 1 umfasst die Auskunftspflicht
 
-1.
+1. die Beantwortung von Rückfragen des Statistischen Bundesamtes zu a)den angemeldeten Warenverkehren in der Intrahandels- und Extrahandelsstatistik,b)den nach § 12 übermittelten Daten und Informationen, insbesondere von den Finanzbehörden zu den Umsatzsteuervoranmeldungen sowie zu den Unterlagen, welche die Auskunftspflichtigen im Rahmen der Umsatzsteuer-Voranmeldung den zuständigen Finanzbehörden vorzulegen haben,c)den Daten, die von der Deutschen Bundesbank zu Veredelungsverkehren übermittelt werden, sowied)den Einzelangaben, die dem Statistischen Bundesamt im Rahmen des Datenaustausches nach § 15 Absatz 6 übermittelt werden, den angemeldeten Warenverkehren in der Intrahandels- und Extrahandelsstatistik, den nach § 12 übermittelten Daten und Informationen, insbesondere von den Finanzbehörden zu den Umsatzsteuervoranmeldungen sowie zu den Unterlagen, welche die Auskunftspflichtigen im Rahmen der Umsatzsteuer-Voranmeldung den zuständigen Finanzbehörden vorzulegen haben, den Daten, die von der Deutschen Bundesbank zu Veredelungsverkehren übermittelt werden, sowie den Einzelangaben, die dem Statistischen Bundesamt im Rahmen des Datenaustausches nach § 15 Absatz 6 übermittelt werden,
 
-a)
+2. für Personen, die nach § 14 Absatz 5 anmeldepflichtig sind, eine Anzeige an das Statistische Bundesamt, falls in einem Bezugszeitraum keine Warenverkehre nach § 6 Absatz 2 stattgefunden haben (Fehlanzeige),
 
-b)
-
-c)
-
-d)
-
-2.
-
-3.
+3. die Berichtigung von fehlerhaften Meldungen.
 
 (3) Auskunftspflichtig für einen Warenverkehr ist der Importeur oder Exporteur oder sein Fiskalvertreter nach § 22a des Umsatzsteuergesetzes.
 
@@ -282,17 +250,17 @@ d)
 
 (3) Sofern eine Zollanmeldung für Warenverkehre abzugeben ist, sind die Zollbehörden Anmeldestellen für
 
-1.
+1. Warenverkehre nach § 6 Absatz 3 und 5,
 
-2.
+2. die Anmeldungen zum Warenverkehr mit Gebieten von Mitgliedstaaten außerhalb des Zollgebietes der Europäischen Union,
 
-3.
+3. die Anmeldungen zum Warenverkehr mit Gebieten, die in Artikel 6 der Richtlinie 2006/112/EG des Rates vom 28. November 2006 genannt sind,
 
-4.
+4. die Zollanmeldungen im Rahmen der zollamtlich bewilligten aktiven Veredelung innerhalb der Europäischen Union,
 
-5.
+5. besondere Waren und besondere Warenbewegungen nach § 6 Absatz 4 sowie
 
-6.
+6. Warenverkehre zwischen dem Erhebungsgebiet und exterritorialen Einheiten nach § 6 Absatz 6.
 
 (4) Die Zollbehörden übermitteln dem Statistischen Bundesamt die Einzelangaben nach den §§ 7 und 8 zu den in Absatz 3 genannten Warenverkehren. Wird durch die Zollbehörden zum Zeitpunkt der Anmeldung festgestellt, dass Angaben in Zollanmeldungen zu den Merkmalen nach den §§ 7 und 8 falsch waren, übermitteln die Zollbehörden an das Statistische Bundesamt die berichtigten Daten aus der Zollanmeldung.
 
@@ -324,53 +292,53 @@ d)
 
 (2) Das Verzeichnis darf verwendet werden
 
-1.
+1. zur Bestimmung der Auskunftspflichtigen nach § 9 Absatz 3 bis 5,
 
-2.
+2. zur Bestimmung der Befreiungen der Auskunftspflichtigen von der Anmeldung für eine Verkehrsrichtung im Intrahandel nach § 14,
 
-3.
+3. zur Vollständigkeits- und Plausibilitätskontrolle der Anmeldungen sowie damit verbundenen Rückfragen,
 
-4.
+4. für Datenabgleiche mit dem Statistikregister nach § 13 Absatz 1 des Bundesstatistikgesetzes,
 
-5.
+5. für die Außenhandelsstatistik nach Unternehmenseigenschaften (TEC) nach Anhang 1 Tabelle 16 der Durchführungsverordnung (EU) 2020/1197,
 
-6.
+6. für Auswertungszwecke.
 
 (3) Das Statistische Bundesamt führt in dem Verzeichnis folgende Angaben zu den Auskunftspflichtigen nach § 9 Absatz 3 und 5:
 
-1.
+1. Name und Anschrift der Auskunftspflichtigen sowie bei umsatzsteuerrechtlichen Organschaften Name und Anschrift der meldenden Organgesellschaften und der weiteren zugehörigen Organgesellschaften,
 
-2.
+2. im Falle umsatzsteuerrechtlicher Organschaften, für jede Organgesellschaft der Beginn und das Ende der Zugehörigkeit zum Organträger,
 
-3.
+3. Einzelangaben zu grenzüberschreitenden Warenbewegungen für den Erhebungszeitraum einschließlich der drei Vorjahre nach § 11 Absatz 4,
 
-4.
+4. Gesamtwerte der innergemeinschaftlichen Lieferungen der Auskunftspflichtigen jeweils für die letzten zehn Jahre,
 
-5.
+5. Steuernummern aus der Umsatzsteuer-Voranmeldung und Umsatzsteuernummern,
 
-6.
+6. Umsatzsteuer-Identifikationsnummern,
 
-7.
+7. EORI-Nummern, TCUI-Nummern, IOSS-Nummern oder, falls nicht vorhanden, ein anderer eindeutiger Identifikator aus der Zollanmeldung, sofern dessen Erhebung durch Rechtsverordnung nach § 18 Nummer 4 angeordnet wurde,
 
-8.
+8. bundeseinheitliche Wirtschaftsnummer für Unternehmen nach § 2 des Unternehmensbasisdatenregistergesetzes,
 
-9.
+9. Kennnummer nach § 1 Absatz 1 Satz 6 des Statistikregistergesetzes sowie
 
-10.
+10. Datum der erstmaligen Aufnahme des Auskunftspflichtigen, der meldenden Organgesellschaften und der weiteren zugehörigen Organgesellschaften in das Verzeichnis.
 
 (4) Die Angaben nach Absatz 3 werden monatlich aktualisiert.
 
 (5) Die Angaben nach Absatz 3 dürfen folgenden Quellen entnommen werden:
 
-1.
+1. Erhebungen nach § 4 Absatz 1,
 
-2.
+2. Daten und Informationen, die nach § 12 von Behörden übermittelt werden, sowie Einzelangaben, die von statistischen Ämtern anderer Mitgliedstaaten der Europäischen Union oder von der Deutschen Bundesbank dem Statistischen Bundesamt übermittelt wurden,
 
-3.
+3. Daten und Informationen zur Zusammensetzung umsatzsteuerrechtlicher Organschaften, die dem Statistischen Bundesamt auf der Grundlage von § 2 des Verwaltungsdatenverwendungsgesetzes übermittelt wurden,
 
-4.
+4. dem Statistikregister nach § 1 des Statistikregistergesetzes sowie
 
-5.
+5. allgemein zugänglichen Quellen.
 
 (6) Durch Rechtsverordnung nach § 18 Nummer 15 dürfen über die in Absatz 3 genannten Angaben hinaus zusätzliche Angaben zu den Auskunftspflichtigen in das Verzeichnis aller am Außenhandel beteiligten Personen aufgenommen werden.
 
@@ -380,7 +348,7 @@ d)
 
 (2) Durch Rechtsverordnung nach § 18 Nummer 5 wird die Anmeldeschwelle für Versendungen so festgelegt, dass der Abdeckungsgrad nach Anhang 5 Abschnitt 29 der Durchführungsverordnung (EU) 2020/1197 mindestens erreicht wird. In die Berechnung der Anmeldeschwelle wird der gesamte Statistische Wert der Versendungen eines Auskunftspflichtigen mit Ausnahme der nach der Befreiungsliste nicht anzumeldenden Warenverkehre einbezogen.
 
-(3) Durch Rechtsverordnung nach § 18 Nummer 5 wird gemäß den Anforderungen an die Ergebnisqualität der Außenhandelsstatistik eine Anmeldeschwelle für Eingänge festgelegt.
+(3) Durch Rechtsverordnung nach § 18 Nummer 5 wird gemäß den Anforderungen an die Ergebnisqualität der Außenhandelsstatistik eine Anmeldeschwelle für Eingänge festgelegt.
 
 (4) Personen, deren Eingänge oder Versendungen weder im vorangegangenen noch im aktuellen Kalenderjahr über den Anmeldeschwellen liegen, sind von der Anmeldepflicht für die Warenverkehre für die jeweilige Verkehrsrichtung befreit. Die Daten können jedoch freiwillig übermittelt werden. Ausgenommen von der Befreiung sind Erwerbe und Veräußerungen von Schiffen und Luftfahrzeugen.
 
@@ -420,35 +388,35 @@ Artikel 19 der Verordnung (EU) 2019/2152 findet auch Anwendung auf die Veröffen
 
 Das Bundesministerium der Finanzen und das Bundesministerium für Wirtschaft und Klimaschutz werden ermächtigt, durch gemeinsame Rechtsverordnung mit Zustimmung des Bundesrates Folgendes zu regeln:
 
-1.
+1. die Zuordnung bestimmter Warenbewegungen über die Grenze des Erhebungsgebietes zum Intra- oder Extrahandel,
 
-2.
+2. nähere Festlegungen zum Bezugszeitraum und zum Erhebungszeitraum nach § 11 Absatz 1 und 4,
 
-3.
+3. die Aufnahme zusätzlicher Identifikatoren als Hilfsmerkmale nach § 8 Nummer 2 Buchstabe b,
 
-4.
+4. nähere Bestimmungen zur Übermittlung und Verwendung von Daten dieser öffentlichen Stellen nach § 12,
 
-5.
+5. die Festlegung der Anmeldeschwellen nach § 14 Absatz 2 und 3,
 
-6.
+6. nähere Bestimmungen zu den Erhebungs- und Hilfsmerkmalen,
 
-7.
+7. nähere Bestimmungen zum Anmeldeverfahren,
 
-8.
+8. nähere Bestimmungen zur Erfassung von Veredelungsverkehren und zu Befreiungen von Waren und Warenbewegungen von der Anmeldung nach § 6 sowie zur Verlängerung der Meldefristen,
 
-9.
+9. Regelungen zu vereinfachten Anmeldungen von Warenverkehren nach § 6 Absatz 7 sowie die Erstellung von Sammelwarennummern zur vereinfachten Anmeldung nach Anhang I der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 256 vom 7.9.1987, S. 1), die zuletzt durch die Verordnung (EU) 2020/1369 vom 29. September 2020 (ABl. L 319 vom 2.10.2020, S. 2) geändert worden ist,
 
-10.
+10. nähere Bestimmungen zur Erfassung von Angaben zu besonderen Waren und Warenbewegungen,
 
-11.
+11. Ausnahmen von der Pflicht zur elektronischen Datenübermittlung nach § 11a Absatz 1 und 2 des Bundesstatistikgesetzes in der jeweils geltenden Fassung,
 
-12.
+12. nähere Bestimmungen zu den nach § 15 im Rahmen des Einzeldatenaustausches zu übermittelnden Einzelangaben,
 
-13.
+13. die Aussetzung der Erhebung einzelner Merkmale, wenn dadurch die hinreichende Qualität der Ergebnisse der Statistik gewährleistet bleibt und der Informationsverlust in einem angemessenen Verhältnis zur Entlastung der Auskunftspflichtigen steht,
 
-14.
+14. die Übermittlung von Daten zusätzlich zu den Erhebungsmerkmalen nach § 7 und den Hilfsmerkmalen nach § 8 durch die Zollverwaltung an das Statistische Bundesamt zur Feststellung der Auskunftspflicht nach § 9 und zur Überprüfung der Angaben der auskunftspflichtigen Personen zu den Merkmalen nach den §§ 7 und 8,
 
-15.
+15. die Aufnahme zusätzlicher Angaben in das Verzeichnis aller am Außenhandel beteiligten Personen nach § 13 Absatz 1.
 
 ### § 19 — Bußgeldvorschrift
 

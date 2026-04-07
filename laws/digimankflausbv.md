@@ -29,73 +29,73 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 4 — Struktur der Berufsausbildung, Ausbildungsberufsbild
 
-(1) Die Berufsausbildung gliedert sich in: Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
+(1) Die Berufsausbildung gliedert sich in:
 
-1.
+1. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 (2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. Planen, Vorbereiten und Durchführen von Arbeitsaufgaben in Abstimmung mit den kundenspezifischen Geschäfts- und Leistungsprozessen,
 
-2.
+2. Informieren und Beraten von Kunden und Kundinnen,
 
-3.
+3. Beurteilen marktgängiger IT-Systeme und kundenspezifischer Lösungen,
 
-4.
+4. Entwickeln, Erstellen und Betreuen von IT-Lösungen,
 
-5.
+5. Durchführen und Dokumentieren von qualitätssichernden Maßnahmen,
 
-6.
+6. Umsetzen, Integrieren und Prüfen von Maßnahmen zur IT-Sicherheit und zum Datenschutz,
 
-7.
+7. Erbringen der Leistungen und Auftragsabschluss,
 
-8.
+8. Analysieren von Arbeits-, Geschäfts- und Wertschöpfungsprozessen,
 
-9.
+9. Ermitteln des Bedarfs an Informationen und Bereitstellen von Daten,
 
-10.
+10. digitale Weiterentwicklung von Geschäftsmodellen,
 
-11.
+11. Anbahnen und Gestalten von Verträgen,
 
-12.
+12. Planen und Durchführen von Beschaffungen,
 
-13.
+13. Anwenden von Instrumenten der kaufmännischen Steuerung und Kontrolle,
 
-14.
+14. Umsetzen der Schutzziele der Datensicherheit und
 
-15.
+15. Einhalten der Bestimmungen zum Datenschutz und zu weiteren Schutzrechten.
 
 (3) Die Berufsbildpositionen der integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. Berufsbildung sowie Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-4.
+4. Umweltschutz und
 
-5.
+5. vernetztes Zusammenarbeiten unter Nutzung digitaler Medien.
 
-(4) Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in einem der folgenden Einsatzgebiete zu vermitteln: Der Ausbildungsbetrieb legt fest, in welchem Einsatzgebiet die Vermittlung erfolgt. Der Ausbildungsbetrieb darf mit Zustimmung der zuständigen Stelle jedoch auch ein anderes Einsatzgebiet festlegen, wenn in diesem Einsatzgebiet die gleichen Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt werden.
+(4) Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in einem der folgenden Einsatzgebiete zu vermitteln:
 
-1.
+1. betriebliche Steuerung und Kontrolle,
 
-2.
+2. Organisations- und Prozessentwicklung,
 
-3.
+3. Produktentwicklung und Marketing sowie
 
-4.
+4. IT-Systemlösungen.
 
 (5) Die Fertigkeiten, Kenntnisse und Fähigkeiten der in Absatz 2 Nummer 1 bis 7 genannten Berufsbildpositionen sind im Bereich der IT-Berufe berufsübergreifend und werden in gleicher Weise auch in den folgenden Berufsausbildungen vermittelt:
 
-1.
+1. in der Berufsausbildung zum Fachinformatiker und zur Fachinformatikerin nach der Fachinformatikerausbildungsverordnung vom 28. Februar 2020 (BGBl. I S. 250),
 
-2.
+2. in der Berufsausbildung zum IT-System-Elektroniker und zur IT-System-Elektronikerin nach der IT-System-Elektroniker-Ausbildungsverordnung vom 28. Februar 2020 (BGBl. I S. 268) und
 
-3.
+3. in der Berufsausbildung zum Kaufmann für IT-System-Management und zur Kauffrau für IT-System-Management nach der IT-System-Management-Kaufleute-Ausbildungsverordnung vom 28. Februar 2020 (BGBl. I S. 280).
 
 ### § 5 — Ausbildungsplan
 
@@ -113,9 +113,9 @@ Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage de
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
-1.
+1. die im Ausbildungsrahmenplan für die ersten 18 Monate genannten Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen nach § 4 Absatz 2 Nummer 1 bis 7 sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 ### § 8 — Prüfungsbereich von Teil 1
 
@@ -123,15 +123,15 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 (2) Im Prüfungsbereich Einrichten eines IT-gestützten Arbeitsplatzes hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. Kundenbedarfe zielgruppengerecht zu ermitteln,
 
-2.
+2. Hard- und Software auszuwählen und ihre Beschaffung einzuleiten,
 
-3.
+3. einen IT-Arbeitsplatz zu konfigurieren und zu testen und dabei die Bestimmungen und die betrieblichen Vorgaben zum Datenschutz, zur IT-Sicherheit und zur Qualitätssicherung einzuhalten,
 
-4.
+4. Kunden und Kundinnen in die Nutzung des Arbeitsplatzes einzuweisen und
 
-5.
+5. die Leistungserbringung zu kontrollieren und zu protokollieren.
 
 (3) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
@@ -141,9 +141,9 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
-1.
+1. die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 (2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
@@ -151,61 +151,61 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
-1.
+1. Digitale Entwicklung von Prozessen,
 
-2.
+2. Entwicklung eines digitalen Geschäftsmodells,
 
-3.
+3. Kaufmännische Unterstützungsprozesse sowie
 
-4.
+4. Wirtschafts- und Sozialkunde.
 
 ### § 11 — Prüfungsbereich Digitale Entwicklung von Prozessen
 
 (1) Im Prüfungsbereich Digitale Entwicklung von Prozessen besteht die Prüfung aus zwei Teilen.
 
-(2) Im ersten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist, Der Prüfling hat eine betriebliche Projektarbeit durchzuführen und mit praxisbezogenen Unterlagen zu dokumentieren. Vor der Durchführung der betrieblichen Projektarbeit hat er dem Prüfungsausschuss eine Projektbeschreibung zur Genehmigung vorzulegen. In der Projektbeschreibung hat er die Ausgangssituation und das Projektziel zu beschreiben und eine Zeitplanung aufzustellen. Die Prüfungszeit beträgt für die betriebliche Projektarbeit und für die Dokumentation mit praxisbezogenen Unterlagen höchstens 40 Stunden.
+(2) Im ersten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. Arbeits-, Geschäfts- und Wertschöpfungsprozesse zu analysieren,
 
-2.
+2. Digitalisierungsvorhaben unter wirtschaftlicher Betrachtung zu planen,
 
-3.
+3. Daten zu erheben, zu kategorisieren und bereitzustellen,
 
-4.
+4. Prozessdaten auszuwählen und Entscheidungsoptionen abzuleiten,
 
-5.
+5. die Durchführung eines Kundenauftrags zu begleiten,
 
-6.
+6. Datenschutz und -sicherheit sicherzustellen und
 
-7.
+7. Projektergebnisse kundengerecht darzustellen.
 
-(3) Im zweiten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist, Der Prüfling hat die betriebliche Projektarbeit zu präsentieren. Nach der Präsentation wird mit ihm ein Fachgespräch über die betriebliche Projektarbeit und die präsentierten Arbeitsergebnisse geführt. Die Prüfungszeit beträgt insgesamt höchstens 30 Minuten. Die Präsentation soll höchstens 15 Minuten dauern.
+(3) Im zweiten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. die Arbeitsergebnisse adressatengerecht zu präsentieren und
 
-2.
+2. seine Vorgehensweisen bei der Durchführung der betrieblichen Projektarbeit zu begründen.
 
 (4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind die Bewertungen wie folgt zu gewichten:
 
-1.
+1. die Bewertung für den ersten Teil mit 50 Prozent und
 
-2.
+2. die Bewertung für den zweiten Teil mit 50 Prozent.
 
 ### § 12 — Prüfungsbereich Entwicklung eines digitalen Geschäftsmodells
 
 (1) Im Prüfungsbereich Entwicklung eines digitalen Geschäftsmodells hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. Arbeits- und Geschäftsprozesse im Hinblick auf Digitalisierungsgrad, Optimierungsmöglichkeiten, Kosten und Wertschöpfung zu analysieren,
 
-2.
+2. den Kundennutzen zu kalkulieren,
 
-3.
+3. digitale Geschäftsmodelle zu unterscheiden,
 
-4.
+4. Vertragsarten und Lizenzmodelle zu unterscheiden und bedarfsgerecht auszuwählen,
 
-5.
+5. die Bestimmungen zum Datenschutz anzuwenden und
 
-6.
+6. die Bestimmungen zur IT-Sicherheit anzuwenden.
 
 (2) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
@@ -215,13 +215,13 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (1) Im Prüfungsbereich Kaufmännische Unterstützungsprozesse hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. Instrumente des Rechnungswesens für die kaufmännische Planung, Steuerung und Kontrolle zu nutzen und Handlungsvorschläge abzuleiten,
 
-2.
+2. Vertrags- und Finanzierungsarten zu unterscheiden, Kunden und Kundinnen zu beraten und Verträge vorzubereiten,
 
-3.
+3. Beschaffungen von IT-Produkten und Dienstleistungen zu planen und durchzuführen sowie
 
-4.
+4. die Leistungserbringung zu kontrollieren und zu dokumentieren.
 
 (2) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
@@ -239,43 +239,37 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
-1.
+1. Einrichten eines IT-gestützten Arbeitsplatzesmit 20 Prozent,
 
-2.
+2. Digitale Entwicklung von Prozessenmit 50 Prozent,
 
-3.
+3. Entwicklung eines digitalen Geschäftsmodellsmit 10 Prozent,
 
-4.
+4. Kaufmännische Unterstützungsprozessemit 10 Prozent sowie
 
-5.
+5. Wirtschafts- und Sozialkundemit 10 Prozent.
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen – auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 16 – wie folgt bewertet worden sind:
 
-1.
+1. im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
-2.
+2. im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
-3.
+3. in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
 
-4.
+4. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
 ### § 16 — Mündliche Ergänzungsprüfung
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
-(2) Dem Antrag ist stattzugeben, Die mündliche Ergänzungsprüfung darf nur in einem einzigen Prüfungsbereich durchgeführt werden.
+(2) Dem Antrag ist stattzugeben,
 
-1.
+1. wenn er für einen der folgenden Prüfungsbereiche gestellt worden ist: a)Entwicklung eines digitalen Geschäftsmodells,b)Kaufmännische Unterstützungsprozesse oderc)Wirtschafts- und Sozialkunde, Entwicklung eines digitalen Geschäftsmodells, Kaufmännische Unterstützungsprozesse oder Wirtschafts- und Sozialkunde,
 
-a)
+2. wenn der benannte Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
-b)
-
-c)
-
-2.
-
-3.
+3. wenn die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 (3) Die mündliche Ergänzungsprüfung soll 15 Minuten dauern.
 
@@ -292,227 +286,3 @@ Berufsausbildungsverhältnisse zum Informatikkaufmann/zur Informatikkauffrau sow
 Diese Verordnung tritt am 1. August 2020 in Kraft.
 
 ### Anlage — (zu § 3 Absatz 1)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)

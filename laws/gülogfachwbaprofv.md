@@ -10,9 +10,9 @@
 
 Das Bundesministerium für Bildung und Forschung verordnet jeweils nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung auf Grund
 
-–
+– des § 53 Absatz 1 in Verbindung mit Absatz 2, mit § 53a Absatz 1 Nummer 2 und mit § 53c des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) sowie in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176) im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz und
 
-–
+– des § 30 Absatz 5 des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920):
 
 ### § 1 — Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -22,29 +22,29 @@ Das Bundesministerium für Bildung und Forschung verordnet jeweils nach Anhörun
 
 (3) Durch die Prüfung ist festzustellen, ob die zu prüfende Person in der Lage ist, nach § 53c Absatz 2 Satz 1 des Berufsbildungsgesetzes Fach- und Führungsfunktionen zu übernehmen, in denen zu verantwortende Leitungsprozesse von Organisationen eigenständig gesteuert werden, eigenständig ausgeführt werden und dafür Mitarbeiter und Mitarbeiterinnen geführt werden. Insbesondere ist festzustellen, ob die zu prüfende Person in der Lage ist, eigenständig und verantwortlich in den verschiedenen Bereichen des Güterverkehrs und der Logistik Organisationseinheiten zu führen, die Leistungserstellung unter Einbeziehung interner und externer Partner zu planen und zu steuern, die Wirtschaftlichkeit und Qualität von internen und externen Partnern zu bewerten sowie marktgerechte und kundenspezifische Dienstleistungen zu entwickeln. Dabei sind die rechtlichen und wirtschaftlichen Rahmenbedingungen und das internationale Umfeld zu berücksichtigen. Im Einzelnen umfasst dies insbesondere folgende Tätigkeiten:
 
-1.
+1. Planen, Koordinieren, Steuern und Optimieren der Leistungserstellung in Güterverkehr und Logistik,
 
-2.
+2. Analysieren logistischer Anforderungen und Entwickeln von markt- und kundengerechten Lösungen,
 
-3.
+3. Vermarkten von Güterverkehrs- und Logistikdienstleistungen,
 
-4.
+4. Mitwirken bei der Angebotserstellung und Preisgestaltung,
 
-5.
+5. Verhandeln und Vorbereiten von Verträgen über Güterverkehrs- und Logistikdienstleistungen,
 
-6.
+6. Mitwirken bei der kaufmännischen Steuerung des Unternehmens,
 
-7.
+7. Führen von Mitarbeitern und Mitarbeiterinnen und Fördern ihrer beruflichen Entwicklung,
 
-8.
+8. Organisieren der Berufsausbildung,
 
-9.
+9. Entwickeln und Steuern von Projekten,
 
-10.
+10. Gestalten der Kommunikation und Kooperation nach innen und außen,
 
-11.
+11. Mitgestalten des Qualitäts-, Gesundheits- und Umweltmanagements.
 
-(4) Für den Erwerb der in Absatz 3 bezeichneten Fertigkeiten, Kenntnisse und Fähigkeiten bedarf es in der Regel eines Lernumfangs von insgesamt mindestens 1 200 Stunden. Der Lerninhalt bestimmt sich nach den Anforderungen der in § 3 in Verbindung mit den §§ 4 bis 6 genannten Prüfungsbereiche.
+(4) Für den Erwerb der in Absatz 3 bezeichneten Fertigkeiten, Kenntnisse und Fähigkeiten bedarf es in der Regel eines Lernumfangs von insgesamt mindestens 1 200 Stunden. Der Lerninhalt bestimmt sich nach den Anforderungen der in § 3 in Verbindung mit den §§ 4 bis 6 genannten Prüfungsbereiche.
 
 (5) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss mit der Bezeichnung „Bachelor Professional in Transport Management and Logistics“. Der Abschlussbezeichnung wird die weitere Abschlussbezeichnung „Geprüfter Fachwirt für Güterverkehr und Logistik“ oder „Geprüfte Fachwirtin für Güterverkehr und Logistik“ vorangestellt.
 
@@ -52,13 +52,13 @@ Das Bundesministerium für Bildung und Forschung verordnet jeweils nach Anhörun
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53c des Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
 
-1.
+1. eine erfolgreich abgelegte Abschlussprüfung in einem anerkannten kaufmännischen Ausbildungsberuf für den Bereich Güterverkehr und Logistik,
 
-2.
+2. eine erfolgreich abgelegte Abschlussprüfung in einem anderen anerkannten kaufmännischen oder verwaltenden Ausbildungsberuf mit einer Berufsausbildungsdauer von drei Jahren und eine auf die Berufsausbildung folgende, mindestens einjährige Berufspraxis,
 
-3.
+3. den Erwerb von mindestens 90 Leistungspunkten nach dem Europäischen System zur Übertragung und Akkumulierung von Studienleistungen in einem fachverwandten Hochschulstudium und eine mindestens zweijährige Berufspraxis oder
 
-4.
+4. eine mindestens fünfjährige Berufspraxis.
 
 (2) Die Berufspraxis nach Absatz 1 Nummer 2 bis 4 muss wesentliche inhaltliche Bezüge zu den in § 1 Absatz 3 genannten Tätigkeiten aufweisen. Die Dauer und der Inhalt der Berufspraxis sind in geeigneter Weise nachzuweisen.
 
@@ -68,73 +68,73 @@ Das Bundesministerium für Bildung und Forschung verordnet jeweils nach Anhörun
 
 Die Prüfung umfasst folgende Prüfungsbereiche:
 
-1.
+1. „Entwickeln und Vermarkten von Güterverkehrs- und Logistikdienstleistungen“ nach § 4,
 
-2.
+2. „Erstellen von Güterverkehrs- und Logistikdienstleistungen“ nach § 5,
 
-3.
+3. „Kommunikation, Führung und Zusammenarbeit sicherstellen“ nach § 6.
 
 ### § 4 — Prüfungsbereich „Entwickeln und Vermarkten von Güterverkehrs- und Logistikdienstleistungen“
 
 Im Prüfungsbereich „Entwickeln und Vermarkten von Güterverkehrs- und Logistikdienstleistungen“ hat die zu prüfende Person nachzuweisen, dass sie in der Lage ist, an der Gestaltung des Leistungsangebots und der Marketingstrategie unter Berücksichtigung des Qualitäts- und Umweltmanagements, der wirtschaftlichen, ökologischen, technischen, informationstechnischen und rechtlichen Anforderungen sowie der verkehrspolitischen Rahmenbedingungen mitzuwirken und kundengerechte Leistungen anzubieten. In diesem Rahmen wird aus folgenden Qualifikationsinhalten geprüft:
 
-1.
+1. Mitwirken bei der Gestaltung und Weiterentwicklung des Qualitäts- und Umweltmanagements,
 
-2.
+2. Bewerten der Entwicklungen auf den nationalen und internationalen Güterverkehrs- und Logistikmärkten und Ableiten von Maßnahmen,
 
-3.
+3. Ermitteln von Kundenbedürfnissen und Beraten von Kunden und Kundinnen,
 
-4.
+4. Analysieren und Bewerten von Ausschreibungen,
 
-5.
+5. Entwickeln von Prozessabläufen,
 
-6.
+6. Erarbeiten, Präsentieren und Verhandeln von Leistungsangeboten,
 
-7.
+7. Mitwirken bei der Entwicklung und Umsetzung eines Marketingplans.
 
 ### § 5 — Prüfungsbereich „Erstellen von Güterverkehrs- und Logistikdienstleistungen“
 
 Im Prüfungsbereich „Erstellen von Güterverkehrs- und Logistikdienstleistungen“ hat die zu prüfende Person nachzuweisen, dass sie in der Lage ist, die Leistungserstellung unter Berücksichtigung der Wirtschaftlichkeit, der gesetzlichen, vertraglichen, technischen, organisatorischen und betrieblichen Anforderungen sowie der Ordnungsrahmen und der Leistungsmerkmale der Verkehrsträger zu planen, zu koordinieren, zu steuern und zu überwachen. In diesem Rahmen wird aus folgenden Qualifikationsinhalten geprüft:
 
-1.
+1. Planen, Steuern und Optimieren von Güterverkehrs- und Logistikdienstleistungen,
 
-2.
+2. Erstellen von Ausschreibungen für die Vergabe von Güterverkehrs- und Logistikdienstleistungen und Bewerten von Angeboten,
 
-3.
+3. Analysieren der Kosten und Erträge der Leistungserstellung sowie Ableiten und Umsetzen von Maßnahmen,
 
-4.
+4. Beurteilen der wirtschaftlichen Situation von Unternehmen anhand von Kennzahlen,
 
-5.
+5. Mitwirken bei der Aufstellung, Überwachung und Anpassung von Budgets,
 
-6.
+6. Umsetzen von internen und externen Auflagen zur Lieferkettensicherheit,
 
-7.
+7. Berücksichtigen von außenwirtschaftlichen Vorschriften bei der Planung von Lieferketten.
 
 ### § 6 — Prüfungsbereich „Kommunikation, Führung und Zusammenarbeit sicherstellen“
 
 Im Prüfungsbereich „Kommunikation, Führung und Zusammenarbeit sicherstellen“ hat die zu prüfende Person nachzuweisen, dass sie in der Lage ist, zielorientiert mit Mitarbeitern und Mitarbeiterinnen, Auszubildenden und Geschäftspartnern zu kommunizieren und zu kooperieren, Methoden der Kommunikation und des Konfliktmanagements situationsgerecht einzusetzen und ethische Grundsätze zu berücksichtigen. Des Weiteren sollen die Fähigkeiten nachgewiesen werden, Mitarbeiter und Mitarbeiterinnen, Auszubildende und Projektgruppen unter Beachtung der rechtlichen und betrieblichen Rahmenbedingungen und der Unternehmensziele zu führen und zu motivieren. In diesem Rahmen wird aus folgenden Qualifikationsinhalten geprüft:
 
-1.
+1. situationsgerechtes Kommunizieren mit internen und externen Partnern sowie zielgerichtetes Einsetzen von Präsentationstechniken,
 
-2.
+2. Festlegen und Begründen von Kriterien für die Personalauswahl sowie Mitwirken bei der Personalrekrutierung,
 
-3.
+3. Planen und Steuern des Personaleinsatzes,
 
-4.
+4. situationsgerechtes Anwenden von Führungsmethoden,
 
-5.
+5. Planen und Durchführen der Berufsausbildung,
 
-6.
+6. Fördern der beruflichen Entwicklung und Weiterbildung von Mitarbeitern und Mitarbeiterinnen,
 
-7.
+7. Gestalten des Arbeits- und Gesundheitsschutzes.
 
 ### § 7 — Form und Ablauf der Prüfung
 
 (1) Die Prüfung gliedert sich in
 
-1.
+1. eine schriftliche Prüfung nach § 8 und
 
-2.
+2. eine mündliche Prüfung nach § 9.
 
 (2) Die mündliche Prüfung kann erst abgelegt werden, nachdem die schriftliche Prüfung abgelegt worden ist. Das Prüfungsverfahren ist innerhalb von zwei Jahren, beginnend mit dem Tag der ersten Prüfungsleistung, abzuschließen. Bei Überschreiten der Frist gelten die erbrachten Prüfungsleistungen als mit null Punkten bewertet.
 
@@ -162,35 +162,31 @@ Im Prüfungsbereich „Kommunikation, Führung und Zusammenarbeit sicherstellen�
 
 (2) In der schriftlichen Prüfung sind die beiden Prüfungsleistungen nach § 8 Absatz 2 jeweils einzeln zu bewerten. Aus den Bewertungen der beiden Prüfungsleistungen wird als Bewertung der schriftlichen Prüfung das arithmetische Mittel berechnet.
 
-(3) In der mündlichen Prüfung sind als Prüfungsleistungen jeweils einzeln zu bewerten: Aus den Bewertungen der Präsentation und des Fachgesprächs wird als Bewertung der mündlichen Prüfung das gewichtete arithmetische Mittel berechnet. Dabei sind die Bewertungen wie folgt zu gewichten:
+(3) In der mündlichen Prüfung sind als Prüfungsleistungen jeweils einzeln zu bewerten:
 
-1.
+1. die Präsentation nach § 9 Absatz 2,
 
-2.
-
-1.
-
-2.
+2. das Fachgespräch nach § 9 Absatz 3.
 
 ### § 11 — Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung jeweils mindestens 50 Punkte erreicht worden sind in
 
-1.
+1. der schriftlichen Prüfung nach § 8 und
 
-2.
+2. der mündlichen Prüfung nach § 9.
 
 (2) Ist die Prüfung bestanden, sind die folgenden Punktebewertungen jeweils kaufmännisch auf eine ganze Zahl zu runden:
 
-1.
+1. die Bewertung der schriftlichen Prüfung nach § 10 Absatz 2,
 
-2.
+2. die Bewertung der mündlichen Prüfung nach § 10 Absatz 3.
 
 (3) Für die Bildung der Gesamtnote ist als Gesamtpunktzahl das arithmetische Mittel der Bewertungen nach Absatz 2 zu berechnen. Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl ist nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
 
 ### § 12 — Befreiung von einzelnen Prüfungsbestandteilen
 
-Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 10 und 11 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 10 Absatz 2 oder Absatz 3 oder § 11 Absatz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
+Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 10 und 11 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 10 Absatz 2 oder Absatz 3 oder § 11 Absatz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 ### § 13 — Zeugnisse
 
@@ -200,9 +196,9 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (3) Die Zeugnisse können zusätzliche nichtamtliche Bemerkungen zur Information (Bemerkungen) enthalten, insbesondere
 
-1.
+1. über den erworbenen Abschluss oder
 
-2.
+2. auf Antrag der geprüften Person über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 ### § 14 — Wiederholung der Prüfung
 
@@ -230,30 +226,30 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt 
 
 ### Anlage 2 — (zu § 13)
 
-1.
+1. Bezeichnung der ausstellenden Behörde,
 
-2.
+2. Name und Geburtsdatum der geprüften Person,
 
-3.
+3. Datum des Bestehens der Prüfung,
 
-4.
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 5,
 
-5.
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
 
-6.
+6. Datum der Ausstellung des Zeugnisses samt Faksimile oder Unterschrift einer zeichnungsberechtigten Person der nach dem Berufsbildungsgesetz zuständigen Stelle.
 
 Alle Angaben des Teils A sowie zusätzlich
 
-7.
+7. Benennung der Prüfungsbereiche der Prüfung,
 
-8.
+8. Bewertung der schriftlichen und der mündlichen Prüfung,
 
-9.
+9. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
 
-10.
+10. die Gesamtnote als Dezimalzahl,
 
-11.
+11. die Gesamtnote in Worten,
 
-12.
+12. Befreiungen nach § 12,
 
-13.
+13. Bescheinigung der Befreiung vom schriftlichen Teil der Prüfung nach der Ausbilder-Eignungsverordnung nach § 15.

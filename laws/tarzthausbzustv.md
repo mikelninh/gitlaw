@@ -13,7 +13,9 @@ Auf Grund des § 97 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1
 
 ### § 1 — Zuständige Stelle
 
-(1) Für die Berufsausbildung der Tierarzthelfer/Tierarzthelferinnen ist die Tierärztekammer zuständige Stelle im Sinne des Berufsbildungsgesetzes.(2) In den Fällen der §§ 23 und 24 des Berufsbildungsgesetzes tritt an die Stelle der nach Landesrecht zuständigen Behörden die für die Aufsicht über die Tierärztekammer zuständige Behörde.
+(1) Für die Berufsausbildung der Tierarzthelfer/Tierarzthelferinnen ist die Tierärztekammer zuständige Stelle im Sinne des Berufsbildungsgesetzes.
+
+(2) In den Fällen der §§ 23 und 24 des Berufsbildungsgesetzes tritt an die Stelle der nach Landesrecht zuständigen Behörden die für die Aufsicht über die Tierärztekammer zuständige Behörde.
 
 ### § 2 — Fachliche Eignung
 

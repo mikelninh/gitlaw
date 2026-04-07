@@ -14,13 +14,13 @@ Auf Grund des § 2 Absatz 4 des Aufbauhilfefonds-Errichtungsgesetzes vom 15. Jul
 
 (1) Die dem Fonds nach § 4 Absatz 1 des Aufbauhilfefonds-Errichtungsgesetzes vom 15. Juli 2013 (BGBl. I S. 2401) zugewiesenen Mittel verteilen sich nach folgenden Maßgaben:
 
-1.
+1. Dem Bund stehen für Maßnahmen zur Wiederherstellung seiner Infrastruktur 1,5 Milliarden Euro zur Verfügung. Dem Bund wird sein Anteil an den Kosten der Soforthilfen nach § 2 Absatz 2 Satz 2 des Aufbauhilfefonds-Errichtungsgesetzes aus dem Fonds erstattet. Die übrigen Mittel werden für Maßnahmen nach § 2 Absatz 2 Satz 1 des Aufbauhilfefonds-Errichtungsgesetzes auf die vom Hochwasser betroffenen Länder nach den Schlüsseln in den Nummern 2 bis 4 verteilt.
 
-2.
+2. 50 Prozent der Mittel nach Nummer 1 Satz 3 verteilen sich nach folgendem Schlüssel: Sachsen-Anhalt40,4 Prozent, Sachsen28,78 Prozent, Bayern19,57 Prozent, Thüringen6,76 Prozent, Brandenburg1,38 Prozent, Niedersachsen1,14 Prozent, Baden-Württemberg1,1 Prozent, Schleswig-Holstein0,37 Prozent, Hessen0,31 Prozent, Mecklenburg-Vorpommern0,12 Prozent, Rheinland-Pfalz0,07 Prozent. In diesen Mitteln sind die Anteile der Länder an den Mitteln für die Erstattung von Soforthilfen nach § 2 Absatz 2 Satz 2 des Aufbauhilfefonds-Errichtungsgesetzes enthalten.
 
-3.
+3. Bis zu weitere 30 Prozent der nach Nummer 1 Satz 3 auf die vom Hochwasser betroffenen Länder entfallenden Mittel können nach Herstellung des gegenseitigen Einvernehmens zwischen den vorgenannten Ländern und dem Bund auch nach einem anderen als dem in Nummer 2 festgelegten Schlüssel an die dort genannten Länder verteilt werden, wenn hierdurch der Verteilung der Gesamtschäden nach dem Stand der auf Grundlage von § 2 erfolgten Schadensermittlung Rechnung getragen wird.
 
-4.
+4. Die Verteilung des nach Durchführung des Verfahrens zu Nummer 2 und 3 verbliebenen Restbetrages der nach Nummer 1 Satz 3 auf die vom Hochwasser betroffenen Länder entfallenden Mittel wird entsprechend der prozentualen Verteilung der nach § 2 ermittelten Gesamtschäden auf die vom Hochwasser betroffenen Länder spätestens bis zum 1. März 2016 in einer Bund-Länder-Vereinbarung festgelegt.
 
 (2) Die Verteilung der auf den Bund und die Länder entfallenden Mittel des Fonds auf die einzelnen Maßnahmen nach § 2 Absatz 2 Satz 1 des Aufbauhilfefonds-Errichtungsgesetzes erfolgt nach Maßgabe des gemäß § 5 des Aufbauhilfefonds-Errichtungsgesetzes aufzustellenden Wirtschaftsplans. Der Wirtschaftsplan wird für das Jahr 2013 als Anlage zu dieser Rechtsverordnung festgestellt.
 
@@ -36,21 +36,21 @@ Auf Grund des § 2 Absatz 4 des Aufbauhilfefonds-Errichtungsgesetzes vom 15. Jul
 
 (5) Schäden in folgenden Bereichen werden bei der Schadensermittlung berücksichtigt:
 
-1.
+1. Privathaushalte,
 
-2.
+2. gewerbliche und freiberufliche Wirtschaft,
 
-3.
+3. Land- und Forstwirtschaft,
 
-4.
+4. andere Einrichtungen nach § 2 Absatz 2 Satz 1 Nummer 1 des Aufbauhilfefonds-Errichtungsgesetzes, wie Vereine und Stiftungen,
 
-5.
+5. kulturelle und wissenschaftliche Einrichtungen, unabhängig von ihrer Trägerschaft,
 
-6.
+6. Infrastruktur in Gemeinden und Infrastruktur weiterer Körperschaften des öffentlichen Rechts, soweit es sich nicht um Infrastruktur eines Landes nach Nummer 7 oder des Bundes handelt,
 
-7.
+7. Infrastruktur der Länder,
 
-8.
+8. Religionsgemeinschaften, die als Körperschaften des öffentlichen Rechts anerkannt sind.
 
 (6) Bei der Schadensermittlung werden Kosten für Maßnahmen berücksichtigt, die unmittelbar vor oder während des Zeitraums nach Absatz 3 Satz 1 getroffen wurden, soweit sie unmittelbar der Abwehr von hochwasserbedingten Gefahren und der Begrenzung hochwasserbedingter Schäden gedient haben. Kosten der Beseitigung der Maßnahmen nach Satz 1 sind ebenfalls berücksichtigungsfähig.
 
@@ -64,13 +64,13 @@ Auf Grund des § 2 Absatz 4 des Aufbauhilfefonds-Errichtungsgesetzes vom 15. Jul
 
 (4) Die Mittel sind nach Maßgabe folgender Grundsätze zu gewähren:
 
-1.
+1. Aus den Mitteln des Fonds können für individuelle Schäden von Privathaushalten, Unternehmen, anderen Einrichtungen sowie der als Körperschaften des öffentlichen Rechts anerkannten Religionsgemeinschaften Leistungen bis zur Höhe von 80 Prozent des entstandenen Schadens unter Beachtung des § 2 Absatz 3 des Aufbauhilfefonds-Errichtungsgesetzes gewährt werden. Für denselben Schaden gewährte Soforthilfen sind anzurechnen. Die Auszahlung ist unter Rückforderungsvorbehalt insbesondere für den Fall zu stellen, dass Leistungen durch Dritte erbracht werden und hierdurch eine Überkompensation des Schadens bewirkt wird. Zur Vermeidung von Härtefällen können in begründeten Einzelfällen andere Regelungen getroffen werden.
 
-2.
+2. Mittel für Maßnahmen zur Wiederherstellung der Infrastruktur werden nach Maßgabe des Wirtschaftsplans und der auf seiner Basis durchzuführenden Bundes- oder Landesprogramme gewährt. Abweichende Regelungen können in Verwaltungsvereinbarungen zwischen Bund und Ländern getroffen werden.
 
-3.
+3. Schadenausgleichsansprüche gegenüber Dritten, insbesondere Versicherungen, können bei der Berechnung und Gewährung der Mittel des Fonds für Maßnahmen nach § 2 Absatz 2 Satz 1 Nummer 1 des Aufbauhilfefonds-Errichtungsgesetzes sowie zur Wiederherstellung von Gebäuden und Einrichtungen der als Körperschaften des öffentlichen Rechts anerkannten Religionsgemeinschaften vorerst außer Acht gelassen werden, soweit die Ansprüche trotz Erfolgsaussicht nach Einschätzung der bewilligenden Stelle nicht kurzfristig von den Geschädigten realisiert werden können. In diesen Fällen sind die Ansprüche nach Einschätzung der bewilligenden Stelle jedoch bis zur Höhe der bewilligten Mittel an diese abzutreten. Im weiteren Verfahren ist bei Konkretisierung der Sachlage über eine dann gegebenenfalls erforderliche Rückabtretung zu entscheiden.
 
-4.
+4. Der jeweilige Nachweis der Angaben der Geschädigten kann durch die Glaubhaftmachung mittels geeigneter Nachweise und Versicherung der Richtigkeit der Angaben erbracht werden. Nachträgliche Überprüfungen und Anforderungen von Nachweisen insbesondere bei Schäden von großem Umfang sind dadurch nicht ausgeschlossen.
 
 ### § 4 — Zweckentsprechende Mittelverwendung, Rückforderung
 
@@ -113,8 +113,6 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Der Bundesrat hat zugestimmt.
 
 ### Anlage — (zu § 1 Absatz 2 Satz 2)
-
-Vorbemerkung
 
 In Ausführung des Gesetzes zur Errichtung eines Sondervermögens „Aufbauhilfe“ (Aufbauhilfefonds-Errichtungsgesetz – AufbhG) vom 15. Juli 2013 (BGBl. I S. 2401) wird ein nationaler Fonds „Aufbauhilfe“ als Sondervermögen des Bundes errichtet.
 

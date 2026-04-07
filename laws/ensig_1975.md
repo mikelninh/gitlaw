@@ -16,41 +16,19 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 ### § 1 — Sicherung der Energieversorgung; Verordnungsermächtigung
 
-(1) Um die Deckung des lebenswichtigen Bedarfs an Energie für den Fall zu sichern, daß die Energieversorgung unmittelbar gefährdet oder gestört und die Gefährdung oder Störung der Energieversorgung durch marktgerechte Maßnahmen nicht, nicht rechtzeitig oder nur mit unverhältnismäßigen Mitteln zu beheben ist, können durch Rechtsverordnung Vorschriften erlassen werden über Als lebenswichtig gilt auch der Bedarf zur Erfüllung öffentlicher Aufgaben sowie europäischer und internationaler Verpflichtungen.
+(1) Um die Deckung des lebenswichtigen Bedarfs an Energie für den Fall zu sichern, daß die Energieversorgung unmittelbar gefährdet oder gestört und die Gefährdung oder Störung der Energieversorgung durch marktgerechte Maßnahmen nicht, nicht rechtzeitig oder nur mit unverhältnismäßigen Mitteln zu beheben ist, können durch Rechtsverordnung Vorschriften erlassen werden über
 
-1.
+1. die Produktion, den Transport, die Lagerung, die Bevorratung, die Verteilung, die Abgabe, den Bezug, die Verwendung, die Einsparung, die Reduzierung des Verbrauchs sowie Höchstpreise von Erdöl und Erdölerzeugnissen, von sonstigen festen, flüssigen und gasförmigen Energieträgern, von elektrischer Energie und sonstigen Energien (Gütern),
 
-2.
+2. Buchführungs-, Nachweis- und Meldepflichten über die in Nummer 1 genannten wirtschaftlichen Vorgänge, über Mengen und Preise sowie über sonstige Marktverhältnisse bei diesen Gütern,
 
-3.
+3. die Herstellung, die Instandhaltung, die Abgabe, die Verbringung und die Verwendung von Produktionsmitteln der gewerblichen Wirtschaft, soweit diese Produktionsmittel der Versorgung mit elektrischer Energie und Erdgas dienen, sowie über Werkleistungen von Unternehmen der gewerblichen Wirtschaft zur Instandhaltung, Instandsetzung, Herstellung und Veränderung von Bauwerken und technischen Anlagen, die der Versorgung mit elektrischer Energie und Erdgas dienen,
 
-4.
+4. die Errichtung, den Einsatz und den Betrieb digitaler Plattformen durch die Verwaltungsbehörde oder durch Dritte für die Vorbereitung und Umsetzung von Maßnahmen nach den Nummern 1 bis 3; soweit Dritte aufgrund ihrer Funktion zur Errichtung, zum Einsatz oder zum Betrieb einer digitalen Plattform verpflichtet werden, sind insbesondere Regelungen zu den Rechten und Pflichten des Betreibers, zu den Registrierungs- und Mitwirkungspflichten von Teilnehmern der Plattform sowie zur Ausgestaltung der Kosten und Entgelte des Betriebs und der Teilnahme vorzusehen,
 
-5.
+5. befristete Abweichungen oder Ausnahmen für den Betrieb von Anlagen, soweit diese zwingend erforderlich sind, um die Deckung des lebenswichtigen Bedarfs an Energie zu sichern, oder für den Betrieb sonstiger Anlagen, insbesondere, um diesen zu ermöglichen, den Einsatzbrennstoff zu wechseln, damit dieser für die Sicherstellung der Energieversorgung zur Verfügung gestellt werden kann, von a)den §§ 5 und 22 des Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 17. Mai 2013 (BGBl. I S. 1274; 2021 I S. 123), das zuletzt durch Artikel 1 des Gesetzes vom 24. September 2021 (BGBl. I S. 4458) geändert worden ist, in der jeweils geltenden Fassung, in Verbindung mitb)den auf das Bundes-Immissionsschutzgesetz gestützten folgenden Vorschriften: aa)Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 6. Juli 2021 (BGBl. I S. 2514) in der jeweils geltenden Fassung,bb)Verordnung über die Verbrennung und die Mitverbrennung von Abfällen vom 2. Mai 2013 (BGBl. I S. 1021, 1044, 3754), die durch Artikel 2 der Verordnung vom 6. Juli 2021 (BGBl. I S. 2514) geändert worden ist, in der jeweils geltenden Fassung,cc)Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 13. Juni 2019 (BGBl. I S. 804), die durch Artikel 3 Absatz 1 der Verordnung vom 6. Juli 2021 (BGBl. I S. 2514) geändert worden ist, in der jeweils geltenden Fassung,dd)Technische Anleitung zum Schutz gegen Lärm vom 26. August 1998 (GMBl S. 503) in der jeweils geltenden Fassung,ee)Technische Anleitung zur Reinhaltung der Luft vom 18. August 2021 (GMBl S. 1050) in der jeweils geltenden Fassung, sowiec)den Regelungen des Abschnitts 3 des Kapitels 5 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 1 des Gesetzes vom 18. August 2021 (BGBl. I S. 3908) geändert worden ist, in der jeweils geltenden Fassung, die den Betrieb von Windenergieanlagen betreffen,d)folgenden Verordnungen: aa)der Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen vom 18. April 2017 (BGBl. I S. 905), die durch Artikel 256 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung, sowie den darauf gestützten Technischen Regeln für wassergefährdende Stoffe,bb)der Rohrfernleitungsverordnung vom 27. September 2002 (BGBl. I S. 3777, 3809), die zuletzt durch Artikel 224 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung, und den §§ 5 und 22 des Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 17. Mai 2013 (BGBl. I S. 1274; 2021 I S. 123), das zuletzt durch Artikel 1 des Gesetzes vom 24. September 2021 (BGBl. I S. 4458) geändert worden ist, in der jeweils geltenden Fassung, in Verbindung mit den auf das Bundes-Immissionsschutzgesetz gestützten folgenden Vorschriften: aa)Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 6. Juli 2021 (BGBl. I S. 2514) in der jeweils geltenden Fassung,bb)Verordnung über die Verbrennung und die Mitverbrennung von Abfällen vom 2. Mai 2013 (BGBl. I S. 1021, 1044, 3754), die durch Artikel 2 der Verordnung vom 6. Juli 2021 (BGBl. I S. 2514) geändert worden ist, in der jeweils geltenden Fassung,cc)Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 13. Juni 2019 (BGBl. I S. 804), die durch Artikel 3 Absatz 1 der Verordnung vom 6. Juli 2021 (BGBl. I S. 2514) geändert worden ist, in der jeweils geltenden Fassung,dd)Technische Anleitung zum Schutz gegen Lärm vom 26. August 1998 (GMBl S. 503) in der jeweils geltenden Fassung,ee)Technische Anleitung zur Reinhaltung der Luft vom 18. August 2021 (GMBl S. 1050) in der jeweils geltenden Fassung, sowie Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 6. Juli 2021 (BGBl. I S. 2514) in der jeweils geltenden Fassung, Verordnung über die Verbrennung und die Mitverbrennung von Abfällen vom 2. Mai 2013 (BGBl. I S. 1021, 1044, 3754), die durch Artikel 2 der Verordnung vom 6. Juli 2021 (BGBl. I S. 2514) geändert worden ist, in der jeweils geltenden Fassung, Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 13. Juni 2019 (BGBl. I S. 804), die durch Artikel 3 Absatz 1 der Verordnung vom 6. Juli 2021 (BGBl. I S. 2514) geändert worden ist, in der jeweils geltenden Fassung, Technische Anleitung zum Schutz gegen Lärm vom 26. August 1998 (GMBl S. 503) in der jeweils geltenden Fassung, Technische Anleitung zur Reinhaltung der Luft vom 18. August 2021 (GMBl S. 1050) in der jeweils geltenden Fassung, sowie den Regelungen des Abschnitts 3 des Kapitels 5 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 1 des Gesetzes vom 18. August 2021 (BGBl. I S. 3908) geändert worden ist, in der jeweils geltenden Fassung, die den Betrieb von Windenergieanlagen betreffen, folgenden Verordnungen: aa)der Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen vom 18. April 2017 (BGBl. I S. 905), die durch Artikel 256 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung, sowie den darauf gestützten Technischen Regeln für wassergefährdende Stoffe,bb)der Rohrfernleitungsverordnung vom 27. September 2002 (BGBl. I S. 3777, 3809), die zuletzt durch Artikel 224 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung, und der Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen vom 18. April 2017 (BGBl. I S. 905), die durch Artikel 256 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung, sowie den darauf gestützten Technischen Regeln für wassergefährdende Stoffe, der Rohrfernleitungsverordnung vom 27. September 2002 (BGBl. I S. 3777, 3809), die zuletzt durch Artikel 224 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung, und
 
-a)
-
-b)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-c)
-
-d)
-
-aa)
-
-bb)
-
-6.
+6. befristete Abweichungen oder Ausnahmen für die Errichtung, den Betrieb und die Änderung von Anlagen, soweit diese Abweichungen oder Ausnahmen zwingend erforderlich sind, um die Deckung des lebenswichtigen Bedarfs an Energie zu sichern, oder von sonstigen Anlagen, insbesondere, um diesen zu ermöglichen, den Einsatzbrennstoff zu wechseln, damit dieser für die Sicherstellung der Energieversorgung zur Verfügung gestellt werden kann, nach Abschnitt 3 der Betriebssicherheitsverordnung vom 3. Februar 2015 (BGBl. I S. 49), die zuletzt durch Artikel 7 des Gesetzes vom 27. Juli 2021 (BGBl. I S. 3146) geändert worden ist, in der jeweils geltenden Fassung.
 
 (2) Absatz 1 ist auch anzuwenden, soweit die Güter für nichtenergetische Zwecke bestimmt sind.
 
@@ -80,11 +58,11 @@ bb)
 
 (2) In Bezug auf eine digitale Plattform für Erdgas nach Absatz 1 können durch Rechtsverordnung die folgenden Pflichten vorgesehen werden:
 
-1.
+1. Registrierungs-, Buchführungs-, Nachweis- und Meldepflichten,
 
-2.
+2. die Pflicht zur Angabe von Kontaktdaten einschließlich der Pflicht zur Erreichbarkeit in Notfällen sowie
 
-3.
+3. die Pflicht zur Übermittlung der für die Umsetzung von Maßnahmen nach diesen Rechtsverordnungen erforderlichen Daten, wie zum Beispiel Daten über Unternehmen, Gasmengen, Preise, Identifikationsparameter sowie über sonstige Marktverhältnisse.
 
 ### § 3 — Erlaß von Rechtsverordnungen
 
@@ -92,13 +70,13 @@ bb)
 
 (2) Rechtsverordnungen, die nach Eintritt einer Gefährdung oder Störung der Energieversorgung im Sinne des § 1 Abs. 1 erlassen werden und deren Geltungsdauer sich auf nicht mehr als sechs Monate erstreckt, bedürfen nicht der Zustimmung des Bundesrates. Ihre Geltungsdauer darf nur mit Zustimmung des Bundesrates verlängert werden.
 
-(3) Werden Rechtsverordnungen nach § 1 erlassen, bevor die Energieversorgung im Sinne des § 1 Abs. 1 oder des § 2 Abs. 3 gefährdet oder gestört ist, so ist ihre Anwendung von der Feststellung der Bundesregierung abhängig zu machen, daß eine solche Gefährdung oder Störung eingetreten ist. Die Feststellung erfolgt durch Rechtsverordnung der Bundesregierung ohne Zustimmung des Bundesrates. Die Bundesregierung kann die Befugnis nach Satz 2 in Bezug auf die leitungsgebundene Versorgung mit Elektrizität und Erdgas durch Rechtsverordnung ohne Zustimmung des Bundesrates auf die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen übertragen. Satz 1 gilt nicht für Rechtsverordnungen über bei Erdöl, Erdölerzeugnissen, elektrischer Energie und Erdgas.
+(3) Werden Rechtsverordnungen nach § 1 erlassen, bevor die Energieversorgung im Sinne des § 1 Abs. 1 oder des § 2 Abs. 3 gefährdet oder gestört ist, so ist ihre Anwendung von der Feststellung der Bundesregierung abhängig zu machen, daß eine solche Gefährdung oder Störung eingetreten ist. Die Feststellung erfolgt durch Rechtsverordnung der Bundesregierung ohne Zustimmung des Bundesrates. Die Bundesregierung kann die Befugnis nach Satz 2 in Bezug auf die leitungsgebundene Versorgung mit Elektrizität und Erdgas durch Rechtsverordnung ohne Zustimmung des Bundesrates auf die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen übertragen. Satz 1 gilt nicht für Rechtsverordnungen über
 
-1.
+1. Meldepflichten über getätigte oder beabsichtigte Einfuhren und Ausfuhren sowie über Produktion, Transport, Lagerung und Abgabe,
 
-2.
+2. Buchführungs-, Nachweis- und Meldepflichten zur Vorbereitung der Ausführung von Rechtsverordnungen nach § 1 Abs. 3,
 
-3.
+3. die Errichtung, den Betrieb und die Nutzung einer digitalen Plattform nach § 1 Absatz 1 Satz 1 Nummer 4 oder für Rechtsverordnungen nach § 2b Absatz 2
 
 (3a) Die Rechtsverordnung nach Absatz 3 Satz 2 in Verbindung mit Satz 1 ist nach ihrer Verkündung dem Bundestag mitzuteilen. Die Rechtsverordnung ist unverzüglich aufzuheben, wenn es der Bundestag innerhalb von zwei Monaten nach der Mitteilung verlangt.
 
@@ -106,13 +84,13 @@ bb)
 
 (5) Rechtsverordnungen nach § 2 Abs. 1 dürfen erst angewendet werden, wenn dies zur Erfüllung der dort genannten Verpflichtungen erforderlich ist. Sie sind unverzüglich aufzuheben oder außer Anwendung zu setzen, wenn die Voraussetzungen des Satzes 1 nicht mehr vorliegen.
 
-(6) Rechtsverordnungen nach § 2a Absatz 1 dürfen erst angewendet werden, wenn: § 1 Absatz 4 Satz 2 und § 3 Absatz 3 Satz 4 gelten entsprechend.
+(6) Rechtsverordnungen nach § 2a Absatz 1 dürfen erst angewendet werden, wenn:
 
-1.
+1. die Anwendung dieser Rechtsverordnungen zur Erfüllung der Verpflichtung zu Solidaritätsmaßnahmen nach Artikel 13 der Verordnung (EU) 2017/1938 als letztes Mittel erforderlich ist,
 
-2.
+2. das Bundesministerium für Wirtschaft und Energie mitgeteilt hat, dass ein Fall nach Nummer 1 eingetreten ist und dies in geeigneter Form veröffentlicht worden ist sowie
 
-3.
+3. die Erfüllung der Verpflichtung zu Solidaritätsmaßnahmen durch marktgerechte Maßnahmen nicht, nicht rechtzeitig oder nur mit unverhältnismäßigen Mitteln zu erreichen ist.
 
 > § 3 Abs. 6 Satz 1 Nr. 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "veröffentlich" durch das Wort "veröffentlicht" ersetzt; idF d. Art. 21 Nr. 2 Buchst. b G v. 18.12.2025 I Nr. 347 mWv 23.12.2025
 
@@ -122,13 +100,13 @@ bb)
 
 (2) Rechtsverordnungen nach § 1 Abs. 1, die Vorschriften über Höchstpreise enthalten, werden insoweit vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) ausgeführt, als Ausnahmen von diesen Rechtsverordnungen erforderlich werden, die die Preisbildung in mehr als einem Land beeinflussen. Abweichend von Satz 1 werden Rechtsverordnungen nach § 1 Abs. 1, die Vorschriften über Höchstpreise für die leitungsgebundene Versorgung mit Elektrizität und Erdgas enthalten, insoweit von der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen ausgeführt, als Ausnahmen von diesen Rechtsverordnungen erforderlich werden, die die Preisbildung in mehr als einem Land beeinflussen.
 
-(3) Rechtsverordnungen über die Lastverteilung im Bereich der Elektrizitäts- und Gasversorgung werden von der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen als Lastverteiler insoweit ausgeführt, als Dies gilt auch für Rechtsverordnungen nach § 2a Absatz 1 und nach § 2b Absatz 2.
+(3) Rechtsverordnungen über die Lastverteilung im Bereich der Elektrizitäts- und Gasversorgung werden von der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen als Lastverteiler insoweit ausgeführt, als
 
-1.
+1. die im überregionalen öffentlichen Interesse liegende Versorgung sicherzustellen ist,
 
-2.
+2. ein Ausgleich der elektrizitäts- und gaswirtschaftlichen Bedürfnisse und Interessen der Länder herbeizuführen ist oder
 
-3.
+3. der Einsatz von unterirdischen Gasspeichern und sonstigen Gasversorgungsanlagen mit überregionaler Bedeutung zu regeln ist.
 
 (4) Rechtsverordnungen, die eine Bemessung der Verbrauchsmenge und eine Überwachung der Abgabe, des Bezugs oder der Verwendung von leichtem Heizöl anordnen, werden von der Zollverwaltung ausgeführt, soweit in ihnen nichts anderes bestimmt ist.
 
@@ -164,7 +142,7 @@ Der Bund und die Länder einschließlich der Gemeinden und Gemeindeverbände hab
 
 ### § 10 — Auskünfte, Datenerhebung und -übermittlung
 
-(1) Zur Ausführung der Rechtsverordnungen auf Grund dieses Gesetzes und zur Vorbereitung der Ausführung solcher Rechtsverordnungen haben natürliche und juristische Personen und sonstige Personenvereinigungen den zuständigen Behörden auf Verlangen die erforderlichen Auskünfte zu erteilen. Sie haben ferner dem Bundesministerium für Wirtschaft und Energie sowie der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen Auskünfte zu erteilen, soweit dies zur Wahrnehmung der ihnen nach diesem Gesetz obliegenden Aufgaben, insbesondere zur Vorbereitung der auf Grund dieses Gesetzes zu erlassenden Rechtsverordnungen erforderlich ist. Die zuständigen Behörden übermitteln die nach den Sätzen 1 und 2 erlangten Daten einschließlich personenbezogener Daten und Betriebs- und Geschäftsgeheimnisse an andere Behörden, den Marktgebietsverantwortlichen und die Betreiber von Elektrizitätsversorgungsnetzen, soweit dies für die Vorbereitung und Wahrnehmung der Aufgaben nach diesem Gesetz sowie aufgrund dieses Gesetzes erlassenen Rechtsverordnungen erforderlich ist. Soweit Daten im Sinne des Satzes 3 für Maßnahmen nach § 1 der Gassicherungsverordnung vom 26. April 1982 (BGBl. I S. 517), die zuletzt durch Artikel 1 der Verordnung vom 31. März 2023 (BGBl. 2023 I Nr. 94) geändert worden ist, und für Solidaritätsmaßnahmen nach § 2a von der Bundesnetzagentur erlangt werden, übermittelt diese die Daten auf deren Ersuchen und soweit dies für die Erfüllung von deren Aufgaben erforderlich ist, an die Bundesanstalt für Finanzdienstleistungsaufsicht.
+(1) Zur Ausführung der Rechtsverordnungen auf Grund dieses Gesetzes und zur Vorbereitung der Ausführung solcher Rechtsverordnungen haben natürliche und juristische Personen und sonstige Personenvereinigungen den zuständigen Behörden auf Verlangen die erforderlichen Auskünfte zu erteilen. Sie haben ferner dem Bundesministerium für Wirtschaft und Energie sowie der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen Auskünfte zu erteilen, soweit dies zur Wahrnehmung der ihnen nach diesem Gesetz obliegenden Aufgaben, insbesondere zur Vorbereitung der auf Grund dieses Gesetzes zu erlassenden Rechtsverordnungen erforderlich ist. Die zuständigen Behörden übermitteln die nach den Sätzen 1 und 2 erlangten Daten einschließlich personenbezogener Daten und Betriebs- und Geschäftsgeheimnisse an andere Behörden, den Marktgebietsverantwortlichen und die Betreiber von Elektrizitätsversorgungsnetzen, soweit dies für die Vorbereitung und Wahrnehmung der Aufgaben nach diesem Gesetz sowie aufgrund dieses Gesetzes erlassenen Rechtsverordnungen erforderlich ist. Soweit Daten im Sinne des Satzes 3 für Maßnahmen nach § 1 der Gassicherungsverordnung vom 26. April 1982 (BGBl. I S. 517), die zuletzt durch Artikel 1 der Verordnung vom 31. März 2023 (BGBl. 2023 I Nr. 94) geändert worden ist, und für Solidaritätsmaßnahmen nach § 2a von der Bundesnetzagentur erlangt werden, übermittelt diese die Daten auf deren Ersuchen und soweit dies für die Erfüllung von deren Aufgaben erforderlich ist, an die Bundesanstalt für Finanzdienstleistungsaufsicht.
 
 (2) Die mit der Einholung von Auskünften beauftragten Personen sind befugt, Grundstücke und die Geschäfts- und Betriebsräume des Auskunftspflichtigen während der üblichen Geschäfts- und Betriebsstunden zu betreten, dort Prüfungen und Besichtigungen vorzunehmen, Proben zu entnehmen und in die geschäftlichen Unterlagen des Auskunftspflichtigen Einsicht zu nehmen. Der Auskunftspflichtige hat die Maßnahmen nach Satz 1 zu dulden.
 
@@ -187,8 +165,6 @@ Der Bund und die Länder einschließlich der Gemeinden und Gemeindeverbände hab
 (6) Ist die Enteignung durch eine nach diesem Gesetz erlassene Rechtsverordnung oder durch eine Maßnahme einer Bundesbehörde erfolgt, so wird die Entschädigung von dieser Behörde festgesetzt. In den übrigen Fällen wird die Entschädigung von den in § 4 Abs. 5 genannten Stellen festgesetzt.
 
 (7) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über die Verjährung der Ansprüche nach Absatz 1, über das Verfahren der Festsetzung einer Entschädigung sowie über die Zuständigkeit und das Verfahren der Gerichte nach den Grundsätzen der §§ 34, 49 bis 63 und 65 des Bundesleistungsgesetzes zu erlassen. Dabei treten an die Stelle der Anforderungsbehörden die in Absatz 6 bezeichneten Stellen.
-
-> (+++ § 11: Zur Anwendung vgl. § 30 Abs. 5 u. 6 +++) (+++ § 11: Zur Anwendung vgl. § 12 Abs. 4 +++)
 
 ### § 11a — Entschädigung für enteignete Gasspeichermengen
 
@@ -222,43 +198,39 @@ Der Bund und die Länder einschließlich der Gemeinden und Gemeindeverbände hab
 
 (1) Mit der Feststellung nach § 3 Absatz 3 Satz 2 oder der Mitteilung gemäß § 3 Absatz 6 Satz 1 gelten für den Vollzug dieses Gesetzes und der nach diesem Gesetz erlassenen Rechtsverordnungen für den Erlass und die Bekanntgabe eines Verwaltungsaktes die Vorschriften des Verwaltungsverfahrensgesetzes mit der Maßgabe, dass
 
-1.
+1. im Fall der elektronischen Übermittlung an einen vom Empfänger eröffneten Zugang ein Verwaltungsakt mit der Versendung als bekannt gegeben gilt;
 
-2.
+2. eine öffentliche Bekanntgabe zulässig ist; sie kann im Wege der öffentlichen Bekanntmachung durch Presse, Rundfunk, insbesondere Hörfunk und Fernsehen, digitale Medien oder in einer sonstigen ortsüblichen und geeigneten Weise erfolgen; in diesem Fall gilt der Verwaltungsakt mit der Bekanntmachung unmittelbar als bekannt gegeben;
 
-3.
+3. ein Anspruch auf schriftliche oder elektronische Bestätigung eines mündlichen Verwaltungsaktes nicht besteht.
 
 (2) Mit der Feststellung nach § 3 Absatz 3 Satz 2 oder der Mitteilung nach § 3 Absatz 6 Satz 1 gelten für den Vollzug dieses Gesetzes und der nach diesem Gesetz erlassenen Rechtsverordnungen für die Zustellung eines Verwaltungsaktes die Vorschriften des Verwaltungszustellungsgesetzes mit der Maßgabe, dass
 
-1.
+1. § 5 Absatz 4 des Verwaltungszustellungsgesetzes für sämtliche Zustellungen mit der Maßgabe gilt, dass der Verwaltungsakt an jeden Empfänger außer an Verbraucher im Sinne von § 13 des Bürgerlichen Gesetzbuchs zugestellt werden kann;
 
-2.
+2. im Fall der elektronischen Zustellung nach § 5 Absatz 5 des Verwaltungszustellungsgesetzes der Verwaltungsakt mit dem auf die Absendung folgenden Tag als zugestellt gilt.
 
 ### § 15 — Zuwiderhandlungen
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. einer Rechtsverordnung a)nach § 1 Absatz 1 Satz 1 Nummer 1, 3 oder 4, jeweils auch in Verbindung mit § 1 Absatz 2 oder § 2a Absatz 1, nach § 2 Absatz 1 Satz 1, auch in Verbindung mit § 2 Absatz 3, oder nach § 30 Absatz 1 Nummer 1 oder 2 oderb)nach § 1 Absatz 1 Satz 1 Nummer 2, auch in Verbindung mit § 2a Absatz 1, oder nach § 2b Absatz 2oder einer vollziehbaren Anordnung aufgrund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist, nach § 1 Absatz 1 Satz 1 Nummer 1, 3 oder 4, jeweils auch in Verbindung mit § 1 Absatz 2 oder § 2a Absatz 1, nach § 2 Absatz 1 Satz 1, auch in Verbindung mit § 2 Absatz 3, oder nach § 30 Absatz 1 Nummer 1 oder 2 oder nach § 1 Absatz 1 Satz 1 Nummer 2, auch in Verbindung mit § 2a Absatz 1, oder nach § 2b Absatz 2
 
-a)
+2. entgegen § 10 Abs. 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt oder
 
-b)
-
-2.
-
-3.
+3. entgegen § 10 Abs. 2 Prüfungen, Besichtigungen, die Einsichtnahme in geschäftliche Unterlagen oder die Entnahme von Proben nicht duldet.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 Buchstabe a mit einer Geldbuße bis zu hunderttausend Euro, in den Fällen des Absatzes 1 Nummer 1 Buchstabe b, Nummer 2 und 3 mit einer Geldbuße bis zu zwanzigtausend Euro geahndet werden.
 
 (3) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer
 
-1.
+1. eine in Absatz 1 Nr. 1 bezeichnete Zuwiderhandlung beharrlich wiederholt,
 
-2.
+2. durch eine in Absatz 1 Nr. 1 bezeichnete Zuwiderhandlung die Versorgung mit einem der in § 1 Abs. 1 Nr. 1 genannten Güter, sei es auch nur in einem örtlichen Bereich, schwer gefährdet oder
 
-3.
+3. bei Begehung einer in Absatz 1 Nr. 1 bezeichneten Zuwiderhandlung eine außergewöhnliche Mangellage bei der Versorgung mit einem der in § 1 Abs. 1 Nr. 1 genannten Güter zur Erzielung von bedeutenden Vermögensvorteilen ausnutzt.
 
-(4) Die nach § 4 zuständige Behörde kann ihre Anordnung nach den für die Vollstreckung von Verwaltungsmaßnahmen geltenden Vorschriften durchsetzen. Sie kann auch Zwangsmittel gegen juristische Personen des öffentlichen Rechts anwenden. Die Höhe des Zwangsgelds beträgt bis zu 100 000 Euro.
+(4) Die nach § 4 zuständige Behörde kann ihre Anordnung nach den für die Vollstreckung von Verwaltungsmaßnahmen geltenden Vorschriften durchsetzen. Sie kann auch Zwangsmittel gegen juristische Personen des öffentlichen Rechts anwenden. Die Höhe des Zwangsgelds beträgt bis zu 100 000 Euro.
 
 (5) Das Zwangsgeld soll das wirtschaftliche Interesse, das der Pflichtige an der Vornahme oder am Unterbleiben der von der nach § 4 zuständigen Behörde angeordneten Handlung hat, erreichen. Reicht das Höchstmaß nach Absatz 4 Satz 3 hierzu nicht aus, so kann es überschritten werden. Das wirtschaftliche Interesse des Pflichtigen ist nach pflichtgemäßem Ermessen zu ermitteln.
 
@@ -266,17 +238,9 @@ b)
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist
 
-1.
+1. bei Zuwiderhandlungen gegen Verfügungen nach § 10 Abs. 1 und 2,a)sofern sie von einer Bundesbehörde erlassen worden sind, diese Behörde,b)sofern sie von einer Landesbehörde erlassen worden sind, die in § 4 Abs. 5 genannten Stellen, sofern sie von einer Bundesbehörde erlassen worden sind, diese Behörde, sofern sie von einer Landesbehörde erlassen worden sind, die in § 4 Abs. 5 genannten Stellen,
 
-a)
-
-b)
-
-2.
-
-a)
-
-b)
+2. bei Zuwiderhandlungen gegen eine nach § 1 oder nach § 2 erlassene Rechtsverordnung oder gegen eine auf Grund einer solchen Rechtsverordnung ergangene Verfügung,a)soweit Bundesbehörden zur Durchführung zuständig sind, das Bundesministerium für Wirtschaft und Energie oder diese Behörden, soweit sie durch Rechtsverordnungen für zuständig erklärt werden,b)soweit Landesbehörden zur Durchführung zuständig sind, die in § 4 Abs. 5 genannten Stellen. soweit Bundesbehörden zur Durchführung zuständig sind, das Bundesministerium für Wirtschaft und Energie oder diese Behörden, soweit sie durch Rechtsverordnungen für zuständig erklärt werden, soweit Landesbehörden zur Durchführung zuständig sind, die in § 4 Abs. 5 genannten Stellen.
 
 ## Abschnitt 1: Treuhandverwaltung und Enteignung
 
@@ -290,11 +254,11 @@ b)
 
 (4) Die Anordnung einer Treuhandverwaltung nach Absatz 3 Satz 1 kann insbesondere vorsehen, dass
 
-1.
+1. die Wahrnehmung der Stimmrechte der Gesellschafter des Unternehmens ausgeschlossen ist,
 
-2.
+2. die Stimmrechte aus den Anteilen an dem Unternehmen auf eine Stelle des Bundes übergehen und diese Stelle berechtigt ist, Mitglieder der Geschäftsleitung abzuberufen und neu zu bestellen sowie der Geschäftsleitung Weisungen zu erteilen, und
 
-3.
+3. die Verwaltungs- und Verfügungsbefugnis der Geschäftsleitung in Bezug auf das Vermögen des Unternehmens beschränkt ist und Verfügungen unter dem Vorbehalt der Zustimmung der nach Nummer 2 benannten Stelle des Bundes stehen.
 
 (5) Die nach Absatz 4 Nummer 2 benannte Stelle des Bundes hat im Rahmen der Treuhandverwaltung insbesondere darauf hinzuwirken, dass der Betrieb des Unternehmens gemäß seiner Bedeutung für das Funktionieren des Gemeinwesens im Sektor Energie fortgeführt wird. Die Fortführung des Betriebs des Unternehmens kann auch eine Übertragung von Vermögensgegenständen des Unternehmens auf einen anderen Rechtsträger erfassen, wenn dies zum Werterhalt des Unternehmens erforderlich ist. Die Übertragung der Anteile an dem unter Treuhandverwaltung gestellten Unternehmen ist nicht zulässig.
 
@@ -306,21 +270,19 @@ b)
 
 (9) Die Absätze 1 bis 8 gelten nicht für Unternehmen, die in der Rechtsform einer inländischen juristischen Person des öffentlichen Rechts geführt werden oder an denen ausschließlich inländische juristische Personen des öffentlichen Rechts unmittelbar oder mittelbar beteiligt sind. Inländischen juristischen Personen des öffentlichen Rechts stehen juristische Personen des öffentlichen Rechts aus einem Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums gleich.
 
-> (+++ § 17 Abs. 1: Zur Anwendung vgl. § 31a Satz 1 +++) (+++ § 17 Abs. 3: Zur Anwendung vgl. § 17b Abs. 1 +++)
-
 ### § 17a — Kapitalmaßnahmen
 
 (1) Bei einem als Kapitalgesellschaft verfassten Unternehmen, das durch Anordnung nach § 17 Absatz 3 Satz 1 unter Treuhandverwaltung gestellt ist, können Kapitalerhöhungen, die Auflösung von Kapital- und Gewinnrücklagen oder Kapitalherabsetzungen (Kapitalmaßnahmen) angeordnet werden, wenn die konkrete Gefahr besteht, dass ohne eine Kapitalmaßnahme der Betrieb des Unternehmens gemäß seiner Bedeutung für das Funktionieren des Gemeinwesens im Sektor Energie nicht fortgeführt werden kann.
 
 (2) Die Anordnung einer Kapitalmaßnahme erfolgt durch Verwaltungsakt des Bundesministeriums für Wirtschaft und Energie. § 17 Absatz 3 Satz 2 bis 4 gilt entsprechend.
 
-(3) Die Anordnung einer Kapitalmaßnahme nach Absatz 2 Satz 1 kann vorsehen, dass Eine Kapitalherabsetzung nach Satz 1 Nummer 3 ist nur zulässig, nachdem der Teil der Kapital- und Gewinnrücklagen, der zusammen über 10 Prozent des nach der Herabsetzung verbleibenden Grund- oder Stammkapitals hinausgeht, vorweg aufgelöst ist und solange ein Gewinnvortrag nicht vorhanden ist.
+(3) Die Anordnung einer Kapitalmaßnahme nach Absatz 2 Satz 1 kann vorsehen, dass
 
-1.
+1. das Grund- oder Stammkapital eines unter Treuhandverwaltung gestellten Unternehmens unter Ausschluss etwaiger Bezugsrechte der Gesellschafter und unter Zulassung zur Übernahme neuer Anteile durch die Kreditanstalt für Wiederaufbau oder durch juristische Personen des öffentlichen Rechts oder des Privatrechts, deren Anteile ausschließlich vom Bund oder von der Kreditanstalt für Wiederaufbau unmittelbar oder mittelbar gehalten werden, erhöht wird,
 
-2.
+2. Kapital- und Gewinnrücklagen eines unter Treuhandverwaltung gestellten Unternehmens aufgelöst werden oder
 
-3.
+3. das Grund- oder Stammkapital eines unter Treuhandverwaltung gestellten Unternehmens zum Ausgleich von Wertminderungen oder zur Deckung sonstiger Verluste herabgesetzt wird.
 
 (4) Das Bundesministerium für Wirtschaft und Energie hat dem Eigentümer des von der Kapitalmaßnahme betroffenen Unternehmens im Rahmen der Anhörung nach § 28 des Verwaltungsverfahrensgesetzes insbesondere Gelegenheit zu geben, seine Bereitschaft zu erklären, die erforderliche Kapitalmaßnahme in den Handlungsformen des privaten Rechts einvernehmlich durchzuführen. Das Bundesministerium für Wirtschaft und Energie kann von einer Anhörung absehen, soweit diese mit unverhältnismäßigem Aufwand verbunden wäre oder den Zweck der Kapitalmaßnahme gefährden würde.
 
@@ -336,11 +298,11 @@ b)
 
 ### § 17b — Übertragung von Vermögensgegenständen
 
-(1) Bei einem Unternehmen, das durch Anordnung nach § 17 Absatz 3 Satz 1 unter Treuhandverwaltung gestellt ist, kann die in § 17 Absatz 4 Nummer 2 benannte Stelle des Bundes eine Übertragung von Vermögensgegenständen über § 17 Absatz 5 Satz 2 hinaus anweisen, wenn Die Übertragung des Eigentums an den Vermögensgegenständen nach Satz 1 bedarf zu ihrer Wirksamkeit der Zustimmung des Bundesministeriums für Wirtschaft und Energie. Die Zustimmung des Bundesministeriums für Wirtschaft und Energie erfolgt durch Verwaltungsakt und im Einvernehmen mit dem Bundesministerium der Finanzen. § 17 Absatz 3 Satz 2 bis 4 ist entsprechend anzuwenden.
+(1) Bei einem Unternehmen, das durch Anordnung nach § 17 Absatz 3 Satz 1 unter Treuhandverwaltung gestellt ist, kann die in § 17 Absatz 4 Nummer 2 benannte Stelle des Bundes eine Übertragung von Vermögensgegenständen über § 17 Absatz 5 Satz 2 hinaus anweisen, wenn
 
-1.
+1. die Übertragung erforderlich ist zur Sicherung des Funktionierens des Gemeinwesens im Sektor Energie sowie zur Aufrechterhaltung der Versorgungssicherheit und
 
-2.
+2. die bestehende Treuhandverwaltung nach § 17 nicht hinreichend geeignet ist, diesen Zweck zu erfüllen.
 
 (2) Begünstigte der Übertragung im Sinne des Absatzes 1 können der Bund und private oder öffentliche Unternehmen sein. Der übertragene Vermögensgegenstand darf nur für den in Absatz 1 Satz 1 Nummer 1 bezeichneten Zweck verwendet werden. Wenn die Übertragung an den Bund oder an ein unter Treuhand oder im Mehrheitseigentum des Bundes stehendes Unternehmen oder an eine Tochtergesellschaft eines derartigen Unternehmens, die letztlich unter der Kontrolle des Bundes steht, erfolgt, ist § 20 Absatz 3 entsprechend anzuwenden.
 
@@ -360,13 +322,13 @@ b)
 
 (1) Zur Sicherung der Energieversorgung können Enteignungen nach Maßgabe dieses Gesetzes vorgenommen werden.
 
-(2) Zulässige Gegenstände einer Enteignung zur Sicherung der Energieversorgung können sein: Als Anteile im Sinne von Satz 1 Nummer 1 gelten auch Anteile an Personengesellschaften. Entsprechendes gilt, wenn abhängige Unternehmen im Sinne des Satzes 1 Nummer 3 in der Rechtsform einer Personengesellschaft geführt werden. Satz 1 gilt nicht für Unternehmen, die in der Rechtsform einer inländischen juristischen Person des öffentlichen Rechts geführt werden oder an denen ausschließlich inländische juristische Personen des öffentlichen Rechts unmittelbar oder mittelbar beteiligt sind. Inländischen juristischen Personen des öffentlichen Rechts stehen juristische Personen des öffentlichen Rechts aus einem Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums gleich.
+(2) Zulässige Gegenstände einer Enteignung zur Sicherung der Energieversorgung können sein:
 
-1.
+1. Anteile an Unternehmen, die selbst oder durch verbundene Unternehmen im Sinne von § 15 des Aktiengesetzes kritische Anlagen im Sinne von § 2 Nummer 3 des KRITIS-Dachgesetzes im Sektor Energie betreiben,
 
-2.
+2. sonstige Rechte, die Bestandteile der Eigenmittel von Unternehmen nach Nummer 1 sind,
 
-3.
+3. Anteile an Unternehmen, die von Unternehmen nach Nummer 1 abhängig im Sinne des § 17 Absatz 1 des Aktiengesetzes sind, sowie sonstige Rechte, die Bestandteile der Eigenmittel solcher abhängigen Unternehmen sind.
 
 (3) Die Enteignungsgegenstände werden auf Enteignungsbegünstigte übertragen. Enteignungsbegünstigte sind die Kreditanstalt für Wiederaufbau oder juristische Personen des öffentlichen Rechts oder des Privatrechts, deren Anteile ausschließlich vom Bund oder von der Kreditanstalt für Wiederaufbau unmittelbar oder mittelbar gehalten werden. Auf Verlangen eines Landes kann der Bund auch zugunsten dieses Landes enteignen.
 
@@ -376,17 +338,17 @@ b)
 
 ### § 19 — Enteignungsakt; Verordnungsermächtigung
 
-(1) Die Enteignung erfolgt durch Rechtsverordnung des Bundesministeriums für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der Finanzen ohne Zustimmung des Bundesrates. Die Rechtsverordnung muss die folgenden Angaben enthalten: Die Begründung zur Rechtsverordnung ist im Bundesanzeiger zu veröffentlichen.
+(1) Die Enteignung erfolgt durch Rechtsverordnung des Bundesministeriums für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der Finanzen ohne Zustimmung des Bundesrates. Die Rechtsverordnung muss die folgenden Angaben enthalten:
 
-1.
+1. die Bezeichnung des Enteignungsgegenstandes,
 
-2.
+2. die Angabe des Enteignungsbegünstigten,
 
-3.
+3. die Angabe, zu welchem Zeitpunkt der Enteignungsgegenstand auf den Enteignungsbegünstigten übergeht (Übergangszeitpunkt),
 
-4.
+4. die Angabe, wo die Begründung zur Rechtsverordnung veröffentlicht wird und elektronisch abrufbar ist,
 
-5.
+5. Angaben zur Höhe der Entschädigung, falls diese zum Zeitpunkt des Erlasses der Rechtsverordnung bereits feststeht.
 
 (2) Zum Übergangszeitpunkt geht der Enteignungsgegenstand einschließlich aller damit zusammenhängenden Rechte auf den Enteignungsbegünstigten über. Sind über enteignete Anteile an Unternehmen nach § 18 Absatz 2 Satz 1 Nummer 1 und 3 oder sonstige Rechte im Sinne des § 18 Absatz 2 Satz 1 Nummer 2 Urkunden ausgegeben, so verbriefen sie ab dem Übergangszeitpunkt bis zur Aushändigung an den Enteignungsbegünstigten nur den Anspruch auf die Enteignungsentschädigung nach § 21. Der Übergangszeitpunkt ist von Amts wegen unverzüglich in das Handelsregister einzutragen.
 
@@ -414,8 +376,6 @@ b)
 
 (5) Entschädigungsbeträge sind mit einem Prozentpunkt über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs jährlich von dem Übergangszeitpunkt an zu verzinsen.
 
-> (+++ § 21: Zur Anwendung vgl. § 23a Abs. 4 +++) (+++ § 21 Abs. 1: Zur Anwendung vgl. § 17b Abs. 4 +++)
-
 ### § 22 — Rechtsschutz
 
 (1) Das Bundesverwaltungsgericht entscheidet im ersten und letzten Rechtszug auf Antrag über die Gültigkeit von Rechtsverordnungen nach § 19.
@@ -424,7 +384,7 @@ b)
 
 (3) Das Bundesverwaltungsgericht entscheidet über den Antrag durch Urteil oder, wenn es eine mündliche Verhandlung nicht für erforderlich hält, durch Beschluss. Kommt das Bundesverwaltungsgericht zu der Überzeugung, dass die Rechtsverordnung rechtswidrig ist, so erklärt es die Rechtsverordnung mit allgemeiner Verbindlichkeit für unwirksam. Die Entscheidungsformel ist vom Antragsgegner innerhalb von drei Werktagen nach der Verkündung der Entscheidung des Bundesverwaltungsgerichts zu veröffentlichen.
 
-(4) Eine Unwirksamkeitserklärung nach Absatz 3 Satz 2 lässt die Wirksamkeit des Übergangs der Enteignungsgegenstände nach § 18 Absatz 2 Satz 1 unberührt. Diejenigen Personen, die zum Übergangszeitpunkt Eigentümer der Enteignungsgegenstände waren, und deren Rechtsnachfolger können innerhalb eines Monats nach Veröffentlichung der Entscheidung nach Absatz 3 Satz 3 die Rückübertragung des Gegenstandes Zug um Zug gegen Rückzahlung der nach § 21 gewährten Entschädigung verlangen; ein entsprechender Antrag ist an den Enteignungsbegünstigten zu richten. Der Enteignungsbegünstigte kann mit Zustimmung des Bundes von den in Satz 2 bezeichneten Personen die Rücknahme der Enteignungsgegenstände gegen Rückzahlung der nach § 21 gewährten Entschädigung verlangen.
+(4) Eine Unwirksamkeitserklärung nach Absatz 3 Satz 2 lässt die Wirksamkeit des Übergangs der Enteignungsgegenstände nach § 18 Absatz 2 Satz 1 unberührt. Diejenigen Personen, die zum Übergangszeitpunkt Eigentümer der Enteignungsgegenstände waren, und deren Rechtsnachfolger können innerhalb eines Monats nach Veröffentlichung der Entscheidung nach Absatz 3 Satz 3 die Rückübertragung des Gegenstandes Zug um Zug gegen Rückzahlung der nach § 21 gewährten Entschädigung verlangen; ein entsprechender Antrag ist an den Enteignungsbegünstigten zu richten. Der Enteignungsbegünstigte kann mit Zustimmung des Bundes von den in Satz 2 bezeichneten Personen die Rücknahme der Enteignungsgegenstände gegen Rückzahlung der nach § 21 gewährten Entschädigung verlangen.
 
 (5) Ein Anspruch auf Rückübertragung nach Absatz 4 Satz 2 ist ausgeschlossen, wenn innerhalb der Frist des Absatzes 2 Satz 1 kein Antrag nach Absatz 1 gestellt worden ist oder ein innerhalb der Frist des Absatzes 2 Satz 1 gestellter Antrag vom Bundesverwaltungsgericht abgelehnt worden ist.
 
@@ -434,41 +394,41 @@ b)
 
 ### § 23 — Verordnungsermächtigung
 
-Die Bundesregierung kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über Die Rechtsverordnungen nach Satz 1 bedürfen der Zustimmung des Deutschen Bundestages. Hat sich der Deutsche Bundestag nach Ablauf von drei Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, gilt seine Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
+Die Bundesregierung kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
 
-1.
+1. das Enteignungsverfahren nach § 20,
 
-2.
+2. die Entschädigung im Rahmen der gesetzlichen Vorgaben nach § 21,
 
-3.
+3. sonstige Maßnahmen, die zur Sicherung des Funktionierens des Gemeinwesens im Sektor Energie im Rahmen einer Enteignung nach § 18 erforderlich sind.
 
 ### § 23a — Enteignung von beweglichen Sachen und Zugang zu Unterlagen
 
-(1) Zur Sicherung der Energieversorgung im Sinne des § 18 Absatz 1 können durch Verwaltungsakt Anordnungen getroffen werden über
+(1) Zur Sicherung der Energieversorgung im Sinne des § 18 Absatz 1 können durch Verwaltungsakt Anordnungen getroffen werden über
 
-1.
+1. die Enteignung von beweglichen Sachen, die für die Errichtung von Erdgasleitungen erforderlich sind und
 
-2.
+2. den Zugang zu Unterlagen, insbesondere zu Dokumentationen, Schriftstücken, Zeichnungen, bildlichen Darstellungen und Aufzeichnungen einschließlich technischer Aufzeichnungen, und deren Nutzbarkeit, einschließlich der Einräumung von Nutzungsrechten in Bezug auf gewerbliche Schutzrechte und Urheberrechte, soweit Zugang und Nutzung die Errichtung von Erdgasleitungen ermöglichen oder ihre Errichtung beschleunigen können.
 
 (2) Enteignungsbegünstigte für Enteignungen im Sinne des Absatzes 1 Nummer 1 können auch private oder öffentliche Unternehmen sein, die Erdgasleitungen errichten und dafür Enteignungsgegenstände nach Absatz 1 Nummer 1 benötigen. Der Enteignungsgegenstand darf nur für den in Absatz 1 Nummer 1 bezeichneten Zweck verwendet werden.
 
-(3) Die Enteignung nach Absatz 1 Nummer 1 ist nur zulässig, wenn § 19 Absatz 2 Satz 1 ist entsprechend anzuwenden.
+(3) Die Enteignung nach Absatz 1 Nummer 1 ist nur zulässig, wenn
 
-1.
+1. sie zur Sicherung des Funktionierens des Gemeinwesens im Sektor Energie und zur Aufrechterhaltung der Versorgungssicherheit erforderlich ist,
 
-2.
+2. der freihändige Erwerb oder die Herstellung dem Enteignungsgegenstand gleichwertiger Sachen nicht oder nicht in angemessener Frist möglich ist und
 
-3.
+3. der Enteignungsbegünstigte sich ernsthaft um den freihändigen Erwerb des Enteignungsgegenstandes zu angemessenen Bedingungen vergeblich bemüht hat.
 
 (4) Für eine Enteignung nach Absatz 1 Nummer 1 ist eine Entschädigung in Höhe des Verkehrswertes des Enteignungsgegenstandes zu leisten. § 21 Absatz 1 Satz 2 und 3, Absatz 2, 4 Satz 1 und 2 und Absatz 5 ist entsprechend anzuwenden. In dem Verwaltungsakt nach Absatz 1 Nummer 1 sind Angaben zur Höhe der Entschädigung aufzunehmen, wenn diese zum Zeitpunkt des Erlasses des Verwaltungsaktes bereits feststeht. Der Verwaltungsakt muss die in § 19 Absatz 1 Satz 2 Nummer 1 bis 3 genannten Angaben enthalten.
 
 (5) Der Zugang zu und das Recht zur Nutzung von Unterlagen im Sinne des Absatzes 1 Nummer 2 können auch zugunsten privater oder öffentlicher Unternehmen angeordnet werden, die die Erdgasleitungen im Sinne des Absatzes 1 errichten.
 
-(6) Die Anordnung nach Absatz 1 Nummer 2 ist nur zulässig, In der Anordnung muss bestimmt werden, dass der Begünstigte die Rechte zur Nutzung nur solange und soweit ausüben darf, wie dies für die Errichtung von Erdgasleitungen im Sinne des Absatzes 1 notwendig ist. Die Anordnung kann bestimmen, dass der Zugang zu Unterlagen auch durch die Übermittlung von Kopien erfolgen kann, wenn diese den mit dem Zugang verfolgten Zweck in gleicher Weise erfüllen. Die herausgegebenen Unterlagen sind zurückzugeben, wenn das Recht zur Nutzung gemäß Satz 2 nicht mehr ausgeübt werden darf, dabei sind angefertigte Kopien zu vernichten. Die Vorschriften des Gesetzes zum Schutz von Geschäftsgeheimnissen vom 18. April 2019 (BGBl. I S. 466) bleiben unberührt.
+(6) Die Anordnung nach Absatz 1 Nummer 2 ist nur zulässig,
 
-1.
+1. soweit die in den Unterlagen nach Absatz 1 Nummer 2 verkörperten Informationen nicht oder nicht in angemessener Frist auf andere Weise erlangt, erworben oder erstellt werden können und
 
-2.
+2. wenn der von der Anordnung Begünstigte sich ernsthaft um den freihändigen Erwerb der Unterlagen und der Rechte zur Nutzung nach Absatz 1 Nummer 2 zu angemessenen Bedingungen vergeblich bemüht hat.
 
 (7) Für die Nutzung der Unterlagen im Sinne des Absatzes 1 Nummer 2, einschließlich der Einräumung von Nutzungsrechten in Bezug auf gewerbliche Schutzrechte und Urheberrechte, ist durch den Bund auf Antrag ein im Einzelfall angemessenes Entgelt zu leisten. Die Höhe des Entgelts kann in einem selbständigen Verwaltungsakt festgelegt werden. Die Erstattungsansprüche des Bundes gegen denjenigen, zu dessen Gunsten die Nutzungsrechte eingeräumt werden, können auch durch Verwaltungsakt festgesetzt werden.
 
@@ -510,23 +470,23 @@ Die Bundesregierung kann durch Rechtsverordnung, die nicht der Zustimmung des Bu
 
 (3) Die Rechtsverordnung nach Absatz 1 muss insbesondere Bestimmungen enthalten über
 
-1.
+1. die Anspruchsberechtigten des finanziellen Ausgleichs,
 
-2.
+2. die Voraussetzungen für den finanziellen Ausgleich,
 
-3.
+3. die Berechnungsgrundlagen des finanziellen Ausgleichs,
 
-4.
+4. den zur Erhebung der saldierten Preisanpassung Berechtigten und Verpflichteten,
 
-5.
+5. die Kosten und Erlöse, die in die saldierte Preisanpassung einzustellen sind,
 
-6.
+6. die Vorgaben zu einem transparenten und diskriminierungsfreien Verfahren für die saldierte Preisanpassung,
 
-7.
+7. die Befristung der saldierten Preisanpassung auf bis zu zwei Jahre mit der Möglichkeit der Verlängerung,
 
-8.
+8. die Veröffentlichungspflichten und
 
-9.
+9. die Überwachung der Verordnung.
 
 (4) Die Rechtsverordnung nach Absatz 1 ist 72 Stunden vor ihrer Verkündung dem Bundestag mitzuteilen. Die Rechtsverordnung ist nicht zu verkünden oder unverzüglich aufzuheben, soweit es der Bundestag binnen zwei Monaten nach der Mitteilung verlangt.
 
@@ -548,47 +508,37 @@ Die Bundesregierung kann durch Rechtsverordnung, die nicht der Zustimmung des Bu
 
 (1a) Solange das Unternehmen Stabilisierungsmaßnahmen nach Absatz 1 Satz 2 in Form einer Rekapitalisierung in Anspruch nimmt, dürfen Mitgliedern der Geschäftsleitung sowie Mitgliedern von gesellschaftsrechtlichen Aufsichtsorganen des Unternehmens unter Einbeziehung von etwaigen Konzernbezügen Boni und andere variable oder vergleichbare Vergütungsbestandteile nicht gewährt werden. Ebenso dürfen über das Festgehalt hinausgehende Vergütungsbestandteile im Sinne von § 87 Absatz 1 Satz 1 des Aktiengesetzes und rechtlich nicht gebotene Abfindungen nicht gewährt werden. Eine Abweichung von dieser Regelung ist nur in begründeten Ausnahmefällen zulässig. Darüber hinaus darf kein Mitglied der Geschäftsleitung des Unternehmens eine Vergütung erhalten, die über die Grundvergütung dieses Mitglieds drei Monate vor Antragstellung hinausgeht. Ein Inflationsausgleich ist zulässig. Bei Personen, die zum Zeitpunkt der Maßnahme oder danach Mitglied der Geschäftsleitung werden, gilt als Obergrenze die Grundvergütung von Mitgliedern der Geschäftsleitung derselben Verantwortungsstufe drei Monate vor Antragstellung. Die Stabilisierungsmaßnahme gilt solange als in Anspruch genommen, als nicht mindestens 75 Prozent der Stabilisierungsmaßnahme zurückgeführt sind. Eine Rückführung der Stabilisierungsmaßnahme nach Satz 7 liegt vor, wenn rückzahlbare Stabilisierungsmaßnahmen, wie zum Beispiel stille Einlagen, zurückgezahlt worden sind, die gegen Leistung von Stabilisierungsmaßnahmen übernommenen oder gezeichnete Anteile an dem Unternehmen an Dritte, das heißt nicht vom Bund kontrollierte juristische Personen, veräußert worden sind oder auf Anteile von an dem Unternehmen geleisteten Einlagen in sonstiger Weise rechtmäßig zurückgeführt worden sind, zum Beispiel durch Umwandlung von gezeichnetem Kapital in entnahmefähige Rücklagen. Um Anreize für eine Rückführung der Stabilisierungsmaßnahme zu setzen, dürfen während der Dauer der Stabilisierungsmaßnahme grundsätzlich keine Dividenden oder sonstigen, vertraglich oder gesetzlich nicht geschuldeten, Gewinnausschüttungen an andere Gesellschafter als den Bund, die Kreditanstalt für Wiederaufbau oder an andere Gesellschafter, deren Anteile ausschließlich vom Bund unmittelbar oder mittelbar gehalten werden, geleistet werden; dies gilt nicht für Unternehmen, bei denen die zuletzt genannten Gesellschafter eine Mehrheitsbeteiligung nach § 16 des Aktiengesetzes im Rahmen einer Stabilisierungsmaßnahme in Form einer Rekapitalisierung erworben haben und die nach § 3 Absatz 2 des Aktiengesetzes börsennotiert sind oder die im Zusammenhang mit der Rückführung von Stabilisierungsmaßnahmen einen Antrag auf Billigung eines Prospekts für eine Börsennotierung nach § 3 Absatz 2 des Aktiengesetzes bei der Bundesanstalt für Finanzdienstleistungsaufsicht eingereicht haben. Weiterhin darf das Unternehmen keine Aktien oder sonstige Bestandteile der haftenden Eigenmittel des Unternehmens zurückkaufen und keine sonstigen, vertraglich oder gesetzlich nicht geschuldeten Leistungen an andere Gesellschafter als den Bund, die Kreditanstalt für Wiederaufbau oder an Gesellschafter, deren Anteile mittelbar oder unmittelbar ausschließlich vom Bund gehalten werden, leisten.
 
-(2) Für die Durchführung einer Stabilisierungsmaßnahme bei einem Unternehmen, das einen Antrag nach Absatz 1 Satz 1 gestellt hat, sind die folgenden Bestimmungen des Wirtschaftsstabilisierungsbeschleunigungsgesetzes vom 17. Oktober 2008 (BGBl. I S. 1982, 1986), das zuletzt durch Artikel 2 des Gesetzes vom 20. Dezember 2021 (BGBl. I S. 5247) geändert worden ist, mit nachstehenden Maßgaben anzuwenden: Die Regelungen nach Satz 1 gelten auch im Fall einer Kapitalerhöhung nach § 17a, soweit der Verwaltungsakt nach § 17a Absatz 2 Satz 1 darauf verweist.
+(2) Für die Durchführung einer Stabilisierungsmaßnahme bei einem Unternehmen, das einen Antrag nach Absatz 1 Satz 1 gestellt hat, sind die folgenden Bestimmungen des Wirtschaftsstabilisierungsbeschleunigungsgesetzes vom 17. Oktober 2008 (BGBl. I S. 1982, 1986), das zuletzt durch Artikel 2 des Gesetzes vom 20. Dezember 2021 (BGBl. I S. 5247) geändert worden ist, mit nachstehenden Maßgaben anzuwenden:
 
-1.
+1. § 5 des Wirtschaftsstabilisierungsbeschleunigungsgesetzes mit der Maßgabe, dass Absatz 4 Satz 3 in folgender Fassung anzuwenden ist: „Entgegenstehende Regelungen in der Satzung oder in vor dem 12. Juli 2022 ergangenen Beschlüssen sind unbeachtlich.”,
 
-2.
+2. die §§ 6 bis 7d Satz 1 und 3 des Wirtschaftsstabilisierungsbeschleunigungsgesetzes,
 
-3.
+3. abweichend von § 7e des Wirtschaftsstabilisierungsbeschleunigungsgesetzes folgende Regelung: „Die §§ 7 bis 7d Satz 1 und 3 des Wirtschaftsstabilisierungsbeschleunigungsgesetzes gelten entsprechend für Kapitalmaßnahmen, insbesondere die Ausgabe neuer Aktien gegen Hingabe von Einlagen aus vom Bund eingegangenen stillen Gesellschaften oder zur Beschaffung von Mitteln zum Zweck der Rückgewähr solcher Einlagen, im Zusammenhang mit einer Stabilisierungsmaßnahme nach § 29 Absatz 1 des Energiesicherungsgesetzes, wenn die neuen Aktien aus der Kapitalmaßnahme auch oder ausschließlich durch Dritte gezeichnet werden. Dies gilt insbesondere, wenn durch die Kapitalmaßnahmen die Voraussetzung für eine Maßnahme nach § 29 Absatz 1 des Energiesicherungsgesetzes geschaffen werden soll.”,
 
-4.
+4. § 7f Absatz 1 Nummer 1 bis 5 und Absatz 2 des Wirtschaftsstabilisierungsbeschleunigungsgesetzes mit der Maßgabe, dass in Absatz 1 Nummer 1 der Bezug auf das Stabilisierungsfondsgesetz durch den Bezug auf das Energiesicherungsgesetz zu ersetzen ist,
 
-5.
+5. § 8 des Wirtschaftsstabilisierungsbeschleunigungsgesetzes mit der Maßgabe, dass a)in Absatz 1 Satz 1 der Stichtag „30. Juni 2022” nicht anzuwenden ist,b)im Falle des Absatzes 4 der Bund an die Stelle des dort genannten Fonds tritt, in Absatz 1 Satz 1 der Stichtag „30. Juni 2022” nicht anzuwenden ist, im Falle des Absatzes 4 der Bund an die Stelle des dort genannten Fonds tritt,
 
-a)
+6. § 9 des Wirtschaftsstabilisierungsbeschleunigungsgesetzes mit der Maßgabe, dass Absatz 1 in folgender Fassung anzuwenden ist:„(1) Für Unternehmen, die in der Rechtsform der Kommanditgesellschaft auf Aktien oder der Europäischen Gesellschaft (SE) verfasst sind, gelten die §§ 5 bis 7d Satz 1 und 3, die §§ 7e, 7f Absatz 1 Nummer 1 bis 5 und Absatz 2 und § 8 sinngemäß.”,
 
-b)
+7. § 9a des Wirtschaftsstabilisierungsbeschleunigungsgesetzes mit der Maßgabe, dass Absatz 4 in folgender Fassung anzuwenden ist:„(4) Die §§ 7e, 7f Absatz 1 Nummer 1 bis 5 und Absatz 2 und § 8 gelten entsprechend.”,
 
-6.
+8. § 9b des Wirtschaftsstabilisierungsbeschleunigungsgesetzes,
 
-7.
+9. § 10 des Wirtschaftsstabilisierungsbeschleunigungsgesetzes mit der Maßgabe, dass Absatz 3 in folgender Fassung anzuwenden ist:„(3) Die Absätze 1 und 2 gelten auch für nachträgliche Änderungen oder Ergänzungen und die Aufhebung einer Vereinbarung über stille Beteiligungen des Bundes an einem von ihm gestützten Unternehmen im Sinne des § 29 Absatz 1 des Energiesicherungsgesetzes oder einer Vereinbarung über stille Beteiligungen von Dritten an dem Unternehmen, die nach Absatz 1 abgeschlossen wurde.”,
 
-8.
+10. die §§ 11 und 12 des Wirtschaftsstabilisierungsbeschleunigungsgesetzes,
 
-9.
+11. abweichend von § 14 des Wirtschaftsstabilisierungsbeschleunigungsgesetzes folgende Regelung: „(1) Wird die Kontrolle im Sinne des § 29 Absatz 2 des Wertpapiererwerbs- und Übernahmegesetzes über eine Zielgesellschaft durch den Bund im Zusammenhang mit einer Stabilisierungsmaßnahme nach dem Energiesicherungsgesetz, einschließlich der nachträglichen Erhöhung einer im Rahmen einer Stabilisierungsmaßnahme erworbenen Beteiligung des Bundes erlangt, so befreit ihn die Bundesanstalt für Finanzdienstleistungsaufsicht von der Pflicht zur Veröffentlichung nach § 35 Absatz 1 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes und zur Abgabe eines Angebots nach § 35 Absatz 2 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes.(2) § 30 Absatz 2 des Wertpapiererwerbs- und Übernahmegesetzes findet keine Anwendung, wenn sich Aktionäre einer Zielgesellschaft oder Personen oder Gesellschaften, denen nach § 30 Absatz 1 oder 2 des Wertpapiererwerbs- und Übernahmegesetzes Stimmrechte aus Aktien dieser Zielgesellschaft zugerechnet werden, ihr Verhalten in Bezug auf diese Zielgesellschaft aufgrund einer Vereinbarung oder in sonstiger Weise mit dem Bund im Zusammenhang mit Stabilisierungsmaßnahmen nach § 29 Absatz 1 des Energiesicherungsgesetzes über die Ausübung von Stimmrechten oder in sonstiger Weise in Bezug auf die Zielgesellschaft abstimmen.(3) Gibt der Bund im Zusammenhang mit einer Stabilisierung ein Angebot im Sinne des § 2 Absatz 1 des Wertpapiererwerbs- und Übernahmegesetzes zum Erwerb von Wertpapieren eines Unternehmens ab, gilt Folgendes: 1.Die Annahmefrist darf unter Abweichung von § 16 Absatz 1 des Wertpapiererwerbs- und Übernahmegesetzes nicht weniger als zwei Wochen betragen. Die weitere Annahmefrist im Sinne des § 16 Absatz 2 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes entfällt. Die Schwellenwerte in § 39a Absatz 1 Satz 1 und 2 des Wertpapiererwerbs- und Übernahmegesetzes betragen jeweils 90 Prozent. Die §§ 13, 16 Absatz 3 Satz 1 und § 22 Absatz 2 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes sind nicht anzuwenden.2.In der Angebotsunterlage bedarf es nicht der Aufnahme der ergänzenden Angaben nach § 11 Absatz 2 Satz 3 Nummer 1 und 4 des Wertpapiererwerbs- und Übernahmegesetzes und der ergänzenden Angaben nach § 2 Nummer 1 der WpÜG-Angebotsverordnung für solche Personen, die lediglich nach Maßgabe des § 2 Absatz 5 Satz 3 des Wertpapiererwerbs- und Übernahmegesetzes als gemeinsam handelnde Personen gelten, aber tatsächlich ihr Verhalten im Hinblick auf ihren Erwerb von Wertpapieren der Zielgesellschaft oder ihre Ausübung von Stimmrechten aus Aktien der Zielgesellschaft nicht mit dem Bund abstimmen.3.Abweichend von § 31 Absatz 1 Satz 2 des Wertpapiererwerbs- und Übernahmegesetzes und den §§ 4 bis 6 der WpÜG-Angebotsverordnung bemisst sich der Mindestwert bei Übernahmeangeboten nach Abschnitt 4 des Wertpapiererwerbs- und Übernahmegesetzes nach dem gewichteten durchschnittlichen inländischen Börsenkurs während der letzten zwei Wochen vor Bekanntgabe oder Bekanntwerden der Absicht eines Übernahmeangebots.(4) Der Bund kann ein Verlangen nach § 327a Absatz 1 Satz 1 des Aktiengesetzes stellen, wenn ihm Aktien der Gesellschaft in Höhe von 90 Prozent des Grundkapitals gehören. § 327b Absatz 3 des Aktiengesetzes ist nicht anzuwenden. Anstelle des § 327e Absatz 2 des Aktiengesetzes findet § 7c Satz 2 bis 4 entsprechende Anwendung. Ist eine gegen die Wirksamkeit des Hauptversammlungsbeschlusses gerichtete Klage begründet, hat der Bund den Aktionären ihre Aktien Zug um Zug gegen Erstattung einer bereits gezahlten Abfindung zurückzuübertragen. Im Übrigen sind die §§ 327a bis 327f des Aktiengesetzes anzuwenden.”, Die Annahmefrist darf unter Abweichung von § 16 Absatz 1 des Wertpapiererwerbs- und Übernahmegesetzes nicht weniger als zwei Wochen betragen. Die weitere Annahmefrist im Sinne des § 16 Absatz 2 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes entfällt. Die Schwellenwerte in § 39a Absatz 1 Satz 1 und 2 des Wertpapiererwerbs- und Übernahmegesetzes betragen jeweils 90 Prozent. Die §§ 13, 16 Absatz 3 Satz 1 und § 22 Absatz 2 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes sind nicht anzuwenden. In der Angebotsunterlage bedarf es nicht der Aufnahme der ergänzenden Angaben nach § 11 Absatz 2 Satz 3 Nummer 1 und 4 des Wertpapiererwerbs- und Übernahmegesetzes und der ergänzenden Angaben nach § 2 Nummer 1 der WpÜG-Angebotsverordnung für solche Personen, die lediglich nach Maßgabe des § 2 Absatz 5 Satz 3 des Wertpapiererwerbs- und Übernahmegesetzes als gemeinsam handelnde Personen gelten, aber tatsächlich ihr Verhalten im Hinblick auf ihren Erwerb von Wertpapieren der Zielgesellschaft oder ihre Ausübung von Stimmrechten aus Aktien der Zielgesellschaft nicht mit dem Bund abstimmen. Abweichend von § 31 Absatz 1 Satz 2 des Wertpapiererwerbs- und Übernahmegesetzes und den §§ 4 bis 6 der WpÜG-Angebotsverordnung bemisst sich der Mindestwert bei Übernahmeangeboten nach Abschnitt 4 des Wertpapiererwerbs- und Übernahmegesetzes nach dem gewichteten durchschnittlichen inländischen Börsenkurs während der letzten zwei Wochen vor Bekanntgabe oder Bekanntwerden der Absicht eines Übernahmeangebots.
 
-10.
+12. die §§ 15 und 16 des Wirtschaftsstabilisierungsbeschleunigungsgesetzes,
 
-11.
+13. § 17 des Wirtschaftsstabilisierungsbeschleunigungsgesetzes mit der Maßgabe, dass Absatz 4 Satz 1 in folgender Fassung anzuwenden ist:„Die Rechtsgrundsätze der verdeckten Sacheinlage finden auf Rechtsgeschäfte zwischen dem Bund und einem Unternehmen im Sinne des § 29 Absatz 1 des Energiesicherungsgesetzes keine Anwendung.”,
 
-1.
+14. § 18 des Wirtschaftsstabilisierungsbeschleunigungsgesetzes mit der Maßgabe, dass Satz 1 in folgender Fassung anzuwenden ist:„Die Übernahme, Umstrukturierung, Veränderung oder Veräußerung einer Beteiligung des Bundes an einem Unternehmen im Sinne des § 29 Absatz 1 des Energiesicherungsgesetzes stellt keinen wichtigen Grund zur Kündigung eines Schuldverhältnisses dar und führt auch nicht zu einer automatischen Beendigung von Schuldverhältnissen.”,
 
-2.
-
-3.
-
-12.
-
-13.
-
-14.
-
-15.
+15. die §§ 19 und 20 des Wirtschaftsstabilisierungsbeschleunigungsgesetzes.
 
 (3) Soweit die nach Absatz 2 anzuwendenden Vorschriften des Wirtschaftsstabilisierungsbeschleunigungsgesetzes auf andere Vorschriften des Wirtschaftsstabilisierungsbeschleunigungsgesetzes weiter verweisen, gelten die Vorschriften, auf die weiter verwiesen wird, in der Gestalt, die sie durch Absatz 2 gefunden haben.
 
@@ -596,15 +546,15 @@ b)
 
 (5) Bei der Anwendung der in Absatz 2 bezeichneten Vorschriften tritt im Übrigen jeweils an die Stelle
 
-1.
+1. des Fonds, des Wirtschaftsstabilisierungsfonds und des Finanzmarktstabilisierungsfonds der Bund,
 
-2.
+2. des Unternehmens der Realwirtschaft das Unternehmen im Sinne des § 29 Absatz 1 des Energiesicherungsgesetzes,
 
-3.
+3. des Wortes „Rekapitalisierung” das Wort „Stabilisierung”,
 
-4.
+4. des Wortes „Rekapitalisierungsmaßnahme” oder des Wortes „Rekapitalisierungsmaßnahmen” das Wort „Stabilisierungsmaßnahme” oder das Wort „Stabilisierungsmaßnahmen” und
 
-5.
+5. der Wörter „§ 7 oder § 22 des Stabilisierungsfondsgesetzes” die Wörter „§ 29 des Energiesicherungsgesetzes”.
 
 (6) Der Bund ist befugt, sich bei der Wahrnehmung seiner Aufgaben nach den Absätzen 2 bis 5 der Kreditanstalt für Wiederaufbau oder juristischen Personen des Privatrechts, deren Anteile ausschließlich vom Bund unmittelbar oder mittelbar gehalten werden, zu bedienen. In diesem Fall tritt die Kreditanstalt für Wiederaufbau oder die juristische Person des Privatrechts im Sinne des Satzes 1 an die Stelle des Bundes in den in den Absätzen 2 bis 5 bezeichneten Vorschriften.
 
@@ -620,45 +570,23 @@ b)
 
 (1) Zur Vermeidung einer unmittelbaren Gefährdung oder Störung der Energieversorgung im Sinne des § 1 Absatz 1 Satz 1, insbesondere im Fall einer drohenden Knappheit von Kohle, Erdgas oder Erdöl, können durch Rechtsverordnung nach Maßgabe von § 1 Absatz 4 Vorschriften erlassen werden über
 
-1.
+1. die Einsparung und die Reduzierung des Verbrauchs von Erdöl und Erdölerzeugnissen, von sonstigen festen, flüssigen und gasförmigen Energieträgern, von elektrischer Energie und sonstigen Energien (Güter) mit Ausnahme von Vorschriften über Maßnahmen nach § 1 Absatz 3 zweiter Halbsatz,
 
-2.
+2. den schienengebundenen Transport von Erdöl und Erdölerzeugnissen, von sonstigen festen, flüssigen und gasförmigen Energieträgern oder von sonstigen Energien (Güter) oder von Betriebs-, Hilfs- und Abfallstoffen, die für den Betrieb von Anlagen zur Energieerzeugung erforderlich sind oder bei dem Betrieb solcher Anlagen anfallen, sowie Großtransformatoren,
 
-3.
+3. befristete Abweichungen oder Ausnahmen für den Betrieb von Anlagen, soweit diese zwingend erforderlich sind, um die Deckung des lebenswichtigen Bedarfs an Energie zu sichern, oder für den Betrieb sonstiger Anlagen, insbesondere, um diesen zu ermöglichen, den Einsatzbrennstoff zu wechseln, damit dieser für die Sicherstellung der Energieversorgung zur Verfügung gestellt werden kann, von a)den §§ 5 und 22 des Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 17. Mai 2013 (BGBl. I S. 1274; 2021 I S. 123), das zuletzt durch Artikel 1 des Gesetzes vom 24. September 2021 (BGBl. I S. 4458) geändert worden ist, in der jeweils geltenden Fassung, in Verbindung mitb)den auf das Bundes-Immissionsschutzgesetz gestützten folgenden Vorschriften: aa)Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 6. Juli 2021 (BGBl. I S. 2514), in der jeweils geltenden Fassung,bb)Verordnung über die Verbrennung und die Mitverbrennung von Abfällen vom 2. Mai 2013 (BGBl. I S. 1021, 1044, 3754), die durch Artikel 2 der Verordnung vom 6. Juli 2021 (BGBl. I S. 2514) geändert worden ist, in der jeweils geltenden Fassung,cc)Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 13. Juni 2019 (BGBl. I S. 804), die durch Artikel 3 Absatz 1 der Verordnung vom 6. Juli 2021 (BGBl. I S. 2514) geändert worden ist, in der jeweils geltenden Fassung,dd)Technische Anleitung zum Schutz gegen Lärm vom 26. August 1998 (GMBl S. 503), in der jeweils geltenden Fassung,ee)Technische Anleitung zur Reinhaltung der Luft vom 18. August 2021 (GMBl S. 1050), in der jeweils geltenden Fassung, undc)den Regelungen des Abschnitts 3 des Kapitels 5 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 1 des Gesetzes vom 18. August 2021 (BGBl. I S. 3908) geändert worden ist, in der jeweils geltenden Fassung, die den Betrieb von Windenergieanlagen betreffen sowied)den folgenden Verordnungen: aa)der Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen vom 18. April 2017 (BGBl. I S. 905), die durch Artikel 256 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung, sowie den darauf gestützten Technischen Regeln für wassergefährdende Stoffe,bb)der Rohrfernleitungsverordnung vom 27. September 2002 (BGBl. I S. 3777, 3809), die zuletzt durch Artikel 224 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung, und den §§ 5 und 22 des Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 17. Mai 2013 (BGBl. I S. 1274; 2021 I S. 123), das zuletzt durch Artikel 1 des Gesetzes vom 24. September 2021 (BGBl. I S. 4458) geändert worden ist, in der jeweils geltenden Fassung, in Verbindung mit den auf das Bundes-Immissionsschutzgesetz gestützten folgenden Vorschriften: aa)Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 6. Juli 2021 (BGBl. I S. 2514), in der jeweils geltenden Fassung,bb)Verordnung über die Verbrennung und die Mitverbrennung von Abfällen vom 2. Mai 2013 (BGBl. I S. 1021, 1044, 3754), die durch Artikel 2 der Verordnung vom 6. Juli 2021 (BGBl. I S. 2514) geändert worden ist, in der jeweils geltenden Fassung,cc)Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 13. Juni 2019 (BGBl. I S. 804), die durch Artikel 3 Absatz 1 der Verordnung vom 6. Juli 2021 (BGBl. I S. 2514) geändert worden ist, in der jeweils geltenden Fassung,dd)Technische Anleitung zum Schutz gegen Lärm vom 26. August 1998 (GMBl S. 503), in der jeweils geltenden Fassung,ee)Technische Anleitung zur Reinhaltung der Luft vom 18. August 2021 (GMBl S. 1050), in der jeweils geltenden Fassung, und Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 6. Juli 2021 (BGBl. I S. 2514), in der jeweils geltenden Fassung, Verordnung über die Verbrennung und die Mitverbrennung von Abfällen vom 2. Mai 2013 (BGBl. I S. 1021, 1044, 3754), die durch Artikel 2 der Verordnung vom 6. Juli 2021 (BGBl. I S. 2514) geändert worden ist, in der jeweils geltenden Fassung, Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 13. Juni 2019 (BGBl. I S. 804), die durch Artikel 3 Absatz 1 der Verordnung vom 6. Juli 2021 (BGBl. I S. 2514) geändert worden ist, in der jeweils geltenden Fassung, Technische Anleitung zum Schutz gegen Lärm vom 26. August 1998 (GMBl S. 503), in der jeweils geltenden Fassung, Technische Anleitung zur Reinhaltung der Luft vom 18. August 2021 (GMBl S. 1050), in der jeweils geltenden Fassung, und den Regelungen des Abschnitts 3 des Kapitels 5 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 1 des Gesetzes vom 18. August 2021 (BGBl. I S. 3908) geändert worden ist, in der jeweils geltenden Fassung, die den Betrieb von Windenergieanlagen betreffen sowie den folgenden Verordnungen: aa)der Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen vom 18. April 2017 (BGBl. I S. 905), die durch Artikel 256 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung, sowie den darauf gestützten Technischen Regeln für wassergefährdende Stoffe,bb)der Rohrfernleitungsverordnung vom 27. September 2002 (BGBl. I S. 3777, 3809), die zuletzt durch Artikel 224 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung, und der Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen vom 18. April 2017 (BGBl. I S. 905), die durch Artikel 256 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung, sowie den darauf gestützten Technischen Regeln für wassergefährdende Stoffe, der Rohrfernleitungsverordnung vom 27. September 2002 (BGBl. I S. 3777, 3809), die zuletzt durch Artikel 224 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung, und
 
-a)
-
-b)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-c)
-
-d)
-
-aa)
-
-bb)
-
-4.
+4. befristete Abweichungen oder Ausnahmen für die Errichtung, den Betrieb und die Änderung von Anlagen, soweit diese Abweichungen oder Ausnahmen zwingend erforderlich sind, um die Deckung des lebenswichtigen Bedarfs an Energie zu sichern, oder von sonstigen Anlagen, insbesondere, um diesen zu ermöglichen, den Einsatzbrennstoff zu wechseln, damit dieser für die Sicherstellung der Energieversorgung zur Verfügung gestellt werden kann, nach Abschnitt 3 der Betriebssicherheitsverordnung vom 3. Februar 2015 (BGBl. I S. 49), die zuletzt durch Artikel 7 des Gesetzes vom 27. Juli 2021 (BGBl. I S. 3146) geändert worden ist, in der jeweils geltenden Fassung.
 
 (2) Eine drohende Knappheit im Sinne des Absatzes 1 ist insbesondere dann anzunehmen, wenn
 
-1.
+1. im Sektor Erdgas die Frühwarnstufe nach Artikel 8 Absatz 2 Buchstabe b und Artikel 11 Absatz 1 der Verordnung (EU) 2017/1938 in Verbindung mit dem Notfallplan Gas des Bundesministeriums für Wirtschaft und Energie vom September 2019, der auf der Internetseite des Bundesministeriums für Wirtschaft und Energie veröffentlicht ist, ausgerufen wird,
 
-2.
+2. für die Erzeugung elektrischer Energie ein Abruf der Kraftwerke nach den §§ 50a bis 50d des Energiewirtschaftsgesetzes erfolgt,
 
-3.
+3. die Brennstoffvorgaben nach § 50b Absatz 2 Nummer 1 und 2 des Energiewirtschaftsgesetzes nicht eingehalten werden können oder
 
-4.
+4. im Sektor Erdöl die Tatbestände des § 12 Absatz 1 Satz 1 Nummer 1, 2, 5 oder 6 des Erdölbevorratungsgesetzes vom 16. Januar 2012 (BGBl. I S. 74), das zuletzt durch Artikel 1 des Gesetzes vom 9. Dezember 2019 (BGBl. I S. 2101) geändert worden ist, in der jeweils geltenden Fassung, vorliegen.
 
 (3) Rechtsverordnungen nach Absatz 1 erlässt die Bundesregierung.
 

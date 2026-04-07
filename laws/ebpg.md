@@ -14,27 +14,19 @@
 
 ### § 2 — Begriffsbestimmungen
 
-(1) Energieverbrauchsrelevantes Produkt ist ein Gegenstand, dessen Nutzung den Verbrauch von Energie beeinflusst und der in Verkehr gebracht oder in Betrieb genommen wird. Dazu gehören auch Produktteile, die und die getrennt auf ihre Umweltverträglichkeit geprüft werden können.
+(1) Energieverbrauchsrelevantes Produkt ist ein Gegenstand, dessen Nutzung den Verbrauch von Energie beeinflusst und der in Verkehr gebracht oder in Betrieb genommen wird. Dazu gehören auch Produktteile, die
 
-1.
+1. zum Einbau in ein energieverbrauchsrelevantes Produkt bestimmt sind,
 
-2.
-
-a)
-
-b)
+2. als Einzelteile für Endnutzer a)in Verkehr gebracht oderb)in Betrieb genommen werden in Verkehr gebracht oder in Betrieb genommen werden
 
 (2) Bauteile und Baugruppen sind Teile, die nicht als Einzelteile für Endnutzer in Verkehr gebracht oder in Betrieb genommen werden können oder deren Umweltverträglichkeit nicht getrennt geprüft werden kann.
 
 (3) Durchführungsrechtsvorschrift ist
 
-1.
+1. ein von der Europäischen Kommission als unmittelbar geltendes Recht erlassener Rechtsakt im Sinne a)des Artikels 15 der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates vom 21. Oktober 2009 zur Schaffung eines Rahmens für die Festlegung von Anforderungen an die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte (ABl. L 285 vom 31.10.2009, S. 10) oderb)des Artikels 15 der Richtlinie 2005/32/EG des Europäischen Parlaments und des Rates vom 6. Juli 2005 zur Schaffung eines Rahmens für die Festlegung von Anforderungen an die umweltgerechte Gestaltung energiebetriebener Produkte und zur Änderung der Richtlinie 92/42/EWG des Rates sowie der Richtlinien 96/57/EG und 2000/55/EG des Europäischen Parlaments und des Rates (ABl. L 191 vom 22.7.2005, S. 29) des Artikels 15 der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates vom 21. Oktober 2009 zur Schaffung eines Rahmens für die Festlegung von Anforderungen an die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte (ABl. L 285 vom 31.10.2009, S. 10) oder des Artikels 15 der Richtlinie 2005/32/EG des Europäischen Parlaments und des Rates vom 6. Juli 2005 zur Schaffung eines Rahmens für die Festlegung von Anforderungen an die umweltgerechte Gestaltung energiebetriebener Produkte und zur Änderung der Richtlinie 92/42/EWG des Rates sowie der Richtlinien 96/57/EG und 2000/55/EG des Europäischen Parlaments und des Rates (ABl. L 191 vom 22.7.2005, S. 29) (Durchführungsmaßnahme);
 
-a)
-
-b)
-
-2.
+2. eine Rechtsverordnung nach § 3.
 
 (4) Inverkehrbringen ist die erstmalige entgeltliche oder unentgeltliche Bereitstellung eines energieverbrauchsrelevanten Produkts im Europäischen Wirtschaftsraum zur Verteilung oder zur Verwendung im Europäischen Wirtschaftsraum, wobei die Vertriebsmethode ohne Belang ist.
 
@@ -48,7 +40,7 @@ b)
 
 (9) Importeur ist eine im Europäischen Wirtschaftsraum niedergelassene natürliche oder juristische Person, die ein aus einem Drittstaat stammendes Produkt im Europäischen Wirtschaftsraum im Rahmen ihrer Geschäftstätigkeit in Verkehr bringt.
 
-(10) Ökologisches Profil ist die Beschreibung – gemäß der für das Produkt einschlägigen Durchführungsmaßnahme – der einem energieverbrauchsrelevanten Produkt während seines Lebenszyklus zurechenbaren, für seine Umweltauswirkung bedeutsamen Zufuhren und Abgaben (z. B. von Materialien, Emissionen und Abfällen), ausgedrückt in messbaren physikalischen Größen.
+(10) Ökologisches Profil ist die Beschreibung – gemäß der für das Produkt einschlägigen Durchführungsmaßnahme – der einem energieverbrauchsrelevanten Produkt während seines Lebenszyklus zurechenbaren, für seine Umweltauswirkung bedeutsamen Zufuhren und Abgaben (z. B. von Materialien, Emissionen und Abfällen), ausgedrückt in messbaren physikalischen Größen.
 
 (11) Umweltverträglichkeit eines energieverbrauchsrelevanten Produkts ist das in den technischen Unterlagen dokumentierte Ergebnis der Bemühungen des Herstellers um die Umweltaspekte des Produkts.
 
@@ -70,21 +62,21 @@ b)
 
 ### § 3 — Ermächtigung zum Erlass von Rechtsverordnungen
 
-Zur Umsetzung oder Durchführung von Durchführungsmaßnahmen kann die Bundesregierung mit Zustimmung des Bundesrates Rechtsverordnungen für energieverbrauchsrelevante Produkte nach Maßgabe des Satzes 2 erlassen. Durch Rechtsverordnung nach Satz 1 können geregelt werden: Sie kann bestimmen, dass der Hersteller, sein Bevollmächtigter und der Importeur im Rahmen ihrer jeweiligen Geschäftstätigkeit die Verbraucherinnen und Verbraucher über das ökologische Profil und die Vorteile des Ökodesigns des Produkts oder darüber unterrichten müssen, wie sie das Produkt nachhaltig nutzen können. Hersteller oder ihre Bevollmächtigten, die Bauteile und Baugruppen in Verkehr bringen oder in Betrieb nehmen, können durch Rechtsverordnung nach Satz 1 verpflichtet werden, dem Hersteller eines von einer Durchführungsmaßnahme erfassten energieverbrauchsrelevanten Produkts relevante Angaben zur Materialzusammensetzung sowie zum Verbrauch von Energie, Materialien oder Ressourcen hinsichtlich der betreffenden Bauteile oder Baugruppen zu machen, soweit dabei Betriebs- und Geschäftsgeheimnisse gewahrt bleiben. Satz 4 gilt entsprechend für den Importeur, wenn der Hersteller nicht im Europäischen Wirtschaftsraum niedergelassen ist und keinen Bevollmächtigten hat.
+Zur Umsetzung oder Durchführung von Durchführungsmaßnahmen kann die Bundesregierung mit Zustimmung des Bundesrates Rechtsverordnungen für energieverbrauchsrelevante Produkte nach Maßgabe des Satzes 2 erlassen. Durch Rechtsverordnung nach Satz 1 können geregelt werden:
 
-1.
+1. Anforderungen an die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte und sonstige Voraussetzungen des Inverkehrbringens oder der Inbetriebnahme, insbesondere Prüfungen, Produktionsüberwachungen oder Bescheinigungen;
 
-2.
+2. Anforderungen an die Kennzeichnung, Aufbewahrungs- und Mitteilungspflichten sowie damit zusammenhängende behördliche Maßnahmen.
 
 ### § 4 — Inverkehrbringen, Inbetriebnahme und Ausstellen
 
-(1) Ein energieverbrauchsrelevantes Produkt, das von einer Durchführungsrechtsvorschrift erfasst wird, darf nur in den Verkehr gebracht werden, wenn: Ein energieverbrauchsrelevantes Produkt, das von einer Durchführungsrechtsvorschrift erfasst wird und das noch nicht in Verkehr gebracht wurde, darf nur dann in Betrieb genommen werden, wenn die in Satz 1 genannten Anforderungen erfüllt sind.
+(1) Ein energieverbrauchsrelevantes Produkt, das von einer Durchführungsrechtsvorschrift erfasst wird, darf nur in den Verkehr gebracht werden, wenn:
 
-1.
+1. es den in der Durchführungsrechtsvorschrift festgelegten Anforderungen an die umweltgerechte Gestaltung und sonstigen Voraussetzungen für sein Inverkehrbringen und seine Inbetriebnahme entspricht,
 
-2.
+2. es oder, sofern dies nicht möglich ist, seine Verpackung und ihm beigefügte Unterlagen mit einer CE-Kennzeichnung nach § 6 Abs. 2 bis 4 versehen sind,
 
-3.
+3. für das Produkt eine der Anlage zu diesem Gesetz entsprechende Konformitätserklärung ausgestellt ist, mit der der Hersteller oder sein Bevollmächtigter zusichert, dass es allen Bestimmungen der darauf anwendbaren Durchführungsrechtsvorschrift entspricht; die Konformitätserklärung muss auf diese Durchführungsrechtsvorschrift verweisen.
 
 (2) Es wird vermutet, dass ein energieverbrauchsrelevantes Produkt, das von einer Durchführungsrechtsvorschrift erfasst wird und mit der CE-Kennzeichnung nach § 6 versehen ist, den Bestimmungen der für dieses Produkt geltenden Durchführungsrechtsvorschrift entspricht.
 
@@ -124,43 +116,43 @@ Zur Umsetzung oder Durchführung von Durchführungsmaßnahmen kann die Bundesreg
 
 ### § 7 — Marktüberwachung
 
-(1) Die zuständigen Behörden überwachen, dass von einer Durchführungsrechtsvorschrift erfasste energieverbrauchsrelevante Produkte nur in Verkehr gebracht oder in Betrieb genommen werden, wenn die in diesem Gesetz oder auf Grund dieses Gesetzes dafür festgelegten Voraussetzungen erfüllt sind. Hierzu erstellen sie ein Marktüberwachungskonzept, das insbesondere umfasst: Die zuständigen Behörden stellen der Öffentlichkeit die Marktüberwachungsprogramme nach Nummer 2 auf elektronischem Weg und gegebenenfalls in anderer Form zur Verfügung. Sie arbeiten mit den Zollbehörden gemäß Kapitel III Abschnitt 3 der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) zusammen. Im Rahmen dieser Zusammenarbeit können die Zollbehörden auf Ersuchen den zuständigen Behörden die Informationen, die sie bei der Überführung von Produkten in den zollrechtlich freien Verkehr erlangt haben und die für die Aufgabenerfüllung der zuständigen Behörden erforderlich sind, übermitteln.
+(1) Die zuständigen Behörden überwachen, dass von einer Durchführungsrechtsvorschrift erfasste energieverbrauchsrelevante Produkte nur in Verkehr gebracht oder in Betrieb genommen werden, wenn die in diesem Gesetz oder auf Grund dieses Gesetzes dafür festgelegten Voraussetzungen erfüllt sind. Hierzu erstellen sie ein Marktüberwachungskonzept, das insbesondere umfasst:
 
-1.
+1. die Erfassung und Auswertung verfügbarer Informationen zur Ermittlung von Mängelschwerpunkten und Warenströmen;
 
-2.
+2. die Aufstellung, regelmäßige Anpassung und Durchführung von Marktüberwachungsprogrammen, mit denen die Produkte stichprobenartig und in dem erforderlichen Umfang überprüft werden, sowie die Erfassung und Bewertung dieser Programme und
 
-3.
+3. die regelmäßige Überprüfung und Bewertung der Wirksamkeit des Konzeptes.
 
 (2) Die zuständigen obersten Landesbehörden stellen die Koordinierung der Überwachung und die Entwicklung und Fortschreibung des Marktüberwachungskonzeptes sicher.
 
-(3) Die zuständige Behörde trifft die erforderlichen Maßnahmen, wenn sie den begründeten Verdacht hat, dass die Anforderungen nach § 4 nicht erfüllt werden oder sind. Sie ist insbesondere befugt, Die zuständige Behörde widerruft oder ändert eine Maßnahme nach Satz 2, wenn der Wirtschaftsakteur oder der Aussteller nachweist, dass er wirksame Maßnahmen ergriffen hat.
+(3) Die zuständige Behörde trifft die erforderlichen Maßnahmen, wenn sie den begründeten Verdacht hat, dass die Anforderungen nach § 4 nicht erfüllt werden oder sind. Sie ist insbesondere befugt,
 
-1.
+1. das Ausstellen eines Produkts zu untersagen, wenn die Voraussetzungen des § 4 Abs. 9 nicht erfüllt sind,
 
-2.
+2. Maßnahmen anzuordnen, die gewährleisten, dass ein Produkt erst in den Verkehr gebracht oder in Betrieb genommen wird, wenn die Anforderungen nach § 4 Abs. 1 erfüllt sind,
 
-3.
+3. anzuordnen, dass ein Produkt von einer zugelassenen Stelle oder einer in gleicher Weise geeigneten Stelle überprüft wird,
 
-4.
+4. anzuordnen, dass geeignete Informationen nach § 5 angebracht werden,
 
-5.
+5. das Inverkehrbringen, die Inbetriebnahme oder die Bereitstellung auf dem Markt für den zur Prüfung zwingend erforderlichen Zeitraum vorübergehend zu verbieten,
 
-6.
+6. zu verbieten, dass ein Produkt in den Verkehr gebracht, in Betrieb genommen oder auf dem Markt bereitgestellt wird, ohne dass die Anforderungen nach § 4 Absatz 1 erfüllt sind,
 
-7.
+7. die Rücknahme oder den Rückruf eines in Verkehr gebrachten oder in Betrieb genommenen Produkts anzuordnen oder ein solches Produkt sicherzustellen, wenn die Anforderungen nach § 4 Abs. 1 nicht erfüllt sind,
 
-8.
+8. zu verlangen, dass ihr Unterlagen, die gemäß § 4 Abs. 6 bereitzuhalten sind, innerhalb von zehn Tagen nach Anforderung vorgelegt werden.
 
-(4) Die zuständigen Behörden und deren Beauftragte sind befugt, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist, zu den üblichen Betriebs- und Geschäftszeiten Geschäftsräume und Betriebsgrundstücke zu betreten, in oder auf denen im Rahmen einer Geschäftstätigkeit energieverbrauchsrelevante Produkte Sie sind befugt, die Produkte zu besichtigen, zu prüfen oder prüfen zu lassen, insbesondere hierzu in Betrieb nehmen zu lassen. Diese Befugnisse haben die zuständigen Behörden und ihre Beauftragten auch dann, wenn die Produkte in Seehäfen zum weiteren Transport bereitgestellt sind. Für Besichtigungen und Prüfungen nach den Sätzen 2 und 3 können gegenüber dem Hersteller und gegenüber Personen, die das Produkt ausstellen oder zum Zweck des Inverkehrbringens oder der Bereitstellung auf dem Markt lagern, Gebühren und Auslagen erhoben werden, wenn die Prüfung ergibt, dass die Anforderungen nach § 4 nicht erfüllt sind.
+(4) Die zuständigen Behörden und deren Beauftragte sind befugt, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist, zu den üblichen Betriebs- und Geschäftszeiten Geschäftsräume und Betriebsgrundstücke zu betreten, in oder auf denen im Rahmen einer Geschäftstätigkeit energieverbrauchsrelevante Produkte
 
-1.
+1. hergestellt werden,
 
-2.
+2. in Betrieb genommen werden,
 
-3.
+3. zum Zweck der Bereitstellung auf dem Markt lagern oder
 
-4.
+4. ausgestellt sind.
 
 (5) Die zuständigen Behörden und deren Beauftragte können Proben entnehmen, Muster verlangen und die für ihre Aufgabenerfüllung erforderlichen Unterlagen und Informationen anfordern. Die Proben, Muster, Unterlagen und Informationen sind ihnen unentgeltlich zur Verfügung zu stellen.
 
@@ -218,33 +210,17 @@ Beauftragte Stelle ist die Bundesanstalt für Materialforschung und -prüfung.
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen a)§ 4 Abs. 1 Satz 1 Nr. 2 oder 3, jeweils auch in Verbindung mit Satz 2, oderb)§ 6 Abs. 1ein energieverbrauchsrelevantes Produkt in Verkehr bringt oder in Betrieb nimmt, § 4 Abs. 1 Satz 1 Nr. 2 oder 3, jeweils auch in Verbindung mit Satz 2, oder § 6 Abs. 1
 
-a)
+2. entgegen § 5 Abs. 1 einen Namen oder eine Adresse nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig anbringt oder ein Produkt nicht, nicht richtig oder nicht rechtzeitig kennzeichnet,
 
-b)
+3. einer vollziehbaren Anordnung nach a)§ 7 Abs. 3 Satz 2 Nr. 2, 5 bis 7 oderb)§ 7 Abs. 3 Satz 2 Nr. 1, 3, 4 oder 8, Abs. 5 oder § 11 Abs. 4 Satz 2 oder Abs. 5 Satz 1zuwiderhandelt, § 7 Abs. 3 Satz 2 Nr. 2, 5 bis 7 oder § 7 Abs. 3 Satz 2 Nr. 1, 3, 4 oder 8, Abs. 5 oder § 11 Abs. 4 Satz 2 oder Abs. 5 Satz 1
 
-2.
+4. entgegen § 7 Abs. 6 Satz 2 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt,
 
-3.
+5. einer Rechtsverordnung nach a)§ 3 Satz 2 Nr. 1, Satz 3 oder 4 auch in Verbindung mit Satz 5 oderb)§ 3 Satz 2 Nr. 2zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist, oder § 3 Satz 2 Nr. 1, Satz 3 oder 4 auch in Verbindung mit Satz 5 oder § 3 Satz 2 Nr. 2
 
-a)
-
-b)
-
-4.
-
-5.
-
-a)
-
-b)
-
-6.
-
-a)
-
-b)
+6. einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Union zuwiderhandelt, die inhaltlich einer Regelung entspricht, zu der die in a)Nummer 5 Buchstabe a oderb)Nummer 5 Buchstabe bgenannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Absatz 3 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist. Nummer 5 Buchstabe a oder Nummer 5 Buchstabe b
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1 Buchstabe a, Nr. 3 Buchstabe a, Nr. 5 Buchstabe a und Nr. 6 Buchstabe a mit einer Geldbuße bis zu fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
@@ -260,16 +236,14 @@ Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 
 ### Anlage — (zu § 4 Abs. 1 Nr. 3)
 
-Die Konformitätserklärung muss folgende Angaben enthalten:
+1. Name und Anschrift des Herstellers oder seines Bevollmächtigten;
 
-1.
+2. eine für die eindeutige Bestimmung des Produkts hinreichend ausführliche Beschreibung;
 
-2.
+3. gegebenenfalls die Fundstellen der angewandten harmonisierten Normen;
 
-3.
+4. gegebenenfalls die sonstigen angewandten technischen Normen und Spezifikationen;
 
-4.
+5. gegebenenfalls die Erklärung der Übereinstimmung mit anderen einschlägigen Rechtsvorschriften der Europäischen Gemeinschaft, die die CE-Kennzeichnung vorsehen;
 
-5.
-
-6.
+6. Name und Unterschrift der für den Hersteller oder seinen Bevollmächtigten zeichnungsberechtigten Person.

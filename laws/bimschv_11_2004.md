@@ -14,29 +14,29 @@ Diese Verordnung gilt für genehmigungsbedürftige Anlagen mit Ausnahme der Anla
 
 Im Sinne dieser Verordnung sind:
 
-1.
+1. Emissionen die von Anlagen ausgehenden Luftverunreinigungen einschließlich der klimarelevanten Stoffe,
 
-2.
+2. Emissionsfaktor das Verhältnis der Masse der Emissionen zu der Masse der erzeugten oder verarbeiteten Stoffe, der eingesetzten Brenn- oder Rohstoffe oder der Menge der eingesetzten oder umgewandelten Energien,
 
-3.
+3. Energie- und Massenbilanzen die Gegenüberstellungen der eingesetzten Energien und der Brenn- und Arbeitsstoffe mit den umgewandelten Energien, den erzeugten Stoffen, den entstehenden Abfällen sowie den Emissionen,
 
-4.
+4. Abgase die Trägergase mit festen, flüssigen oder gasförmigen Emissionen.
 
 ### § 3 — Inhalt, Umfang und Form der Emissionserklärung
 
-(1) Der Betreiber einer Anlage hat eine Emissionserklärung abzugeben, die inhaltlich dem Anhang entspricht. Emissionen sind anzugeben für Sind für den Erklärungszeitraum keine Emissionen anzugeben, können die Angaben unter "Emissionsverursachender Vorgang" und "Emissionen" des Anhangs entfallen.
+(1) Der Betreiber einer Anlage hat eine Emissionserklärung abzugeben, die inhaltlich dem Anhang entspricht. Emissionen sind anzugeben für
 
-1.
+1. Stoffe nach Nummer 5.2.2 Klasse I (z. B. Quecksilber), Nummer 5.2.4 Klasse I (z. B. Arsenwasserstoff), Nummer 5.2.7 (z. B. Arsen und seine Verbindungen außer Arsenwasserstoff, Cadmium und seine Verbindungen, Nickel und bestimmte Nickelverbindungen) der Technischen Anleitung zur Reinhaltung der Luft (TA Luft) vom 24. Juli 2002 (GMBl S. 511), andere sehr giftige Stoffe *), soweit deren jeweilige Emissionen je Anlage 0,01 Kilogramm je Stunde oder 0,25 Kilogramm im Erklärungszeitraum übersteigen, polychlorierte Dibenzodioxine und Dibenzofurane (Angabe in Toxizitätsäquivalenten nach Anlage 2 der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen vom 2. Mai 2013 (BGBl. I S. 1021, 1044) und Stoffe mit vergleichbarer toxischer Wirkung, die jeweils unabhängig von der Größe ihrer Massenströme anzugeben sind,
 
-2.
+2. Schwefelhexafluorid, Nickelverbindungen außer krebserzeugenden Verbindungen und Polyzyklische Aromatische Kohlenwasserstoffe außer Stoffe nach Nummer 1, soweit deren jeweilige Emission je Anlage den Wert von 50 Kilogramm im Erklärungszeitraum übersteigt, Trichlorbenzol, Hexachlorbenzol und Hexachlorcyclohexan, soweit deren jeweilige Emission je Anlage den Wert von 10 Kilogramm im Erklärungszeitraum übersteigt, und
 
-3.
+3. weitere Stoffe, soweit deren jeweilige Emission je Anlage den Wert von 100 Kilogramm im Erklärungszeitraum übersteigt, wobei anstelle der Emissionen von Einzelstoffen die Angabe auch als Summenparameter von Gesamtkohlenstoff, Staub, Stickstoffoxid als Stickstoffdioxid und Schwefeloxid als Schwefeldioxid erfolgen kann.
 
 (2) Die zuständige oberste Landesbehörde oder die nach Landesrecht bestimmte Behörde kann bis sechs Monate vor Ablauf eines Erklärungszeitraumes für bestimmte Anlagen Vereinfachungen der Emissionserklärung festlegen. Die zuständige Behörde kann auf Antrag des Betreibers einer Anlage bis vier Monate vor Ablauf eines Erklärungszeitraumes festlegen, welche der nach Anhang geforderten Angaben entfallen können.
 
-(3) Die Emissionserklärung ist in der Regel in elektronischer Form gegenüber der zuständigen Behörde abzugeben. Das Format der elektronischen Form wird von der zuständigen Behörde bis sechs Monate vor Ende des Erklärungszeitraumes festgelegt. Die zuständige Behörde kann auf Antrag des Betreibers in begründeten Fällen oder von Amts wegen abweichende Regelungen von den Festlegungen nach Satz 1 oder 2 erteilen.-----
+(3) Die Emissionserklärung ist in der Regel in elektronischer Form gegenüber der zuständigen Behörde abzugeben. Das Format der elektronischen Form wird von der zuständigen Behörde bis sechs Monate vor Ende des Erklärungszeitraumes festgelegt. Die zuständige Behörde kann auf Antrag des Betreibers in begründeten Fällen oder von Amts wegen abweichende Regelungen von den Festlegungen nach Satz 1 oder 2 erteilen.
 
-*)
+*) Es gelten die Begriffsbestimmungen und Einstufungen der Gefahrstoffverordnung vom 26. November 2010 (BGBl. I S. 1643).
 
 ### § 4 — Erklärungszeitraum, Zeitpunkt der Erklärung, Erklärungspflichtiger
 
@@ -50,11 +50,11 @@ Im Sinne dieser Verordnung sind:
 
 (1) Emissionen sind wie folgt zu ermitteln:
 
-1.
+1. Messungen (M) als fortlaufend aufgezeichnete Messungen oder repräsentative Einzelmessungen, insbesondere aufgrund von Anordnungen nach § 26 oder § 28 des Bundes-Immissionsschutzgesetzes,
 
-2.
+2. Berechnungen (C) auf der Basis von begründeten Rechnungen unter Verwendung von Emissionsfaktoren, Energie- und Massenbilanzen oder Analysenergebnissen,
 
-3.
+3. Schätzungen (E) auf der Basis von Massenbilanzen, Messergebnissen oder Leistungs- oder Auslegungsdaten von gleichartigen Anlagen, sofern Leistung oder Kapazität sowie Betriebsbedingungen vergleichbar sind oder durch Schätzungen auf der Basis vergleichbarer Grundlagen. Messungen, Berechnungen und Schätzungen sind als gleichberechtigt anzusehen.
 
 (2) In der Emissionserklärung ist anzugeben, nach welchen Verfahren die Emissionen ermittelt worden sind. Auf Verlangen der zuständigen Behörde sind die Einzelheiten des Ermittlungsverfahrens anzugeben. Die Unterlagen sind mindestens vier Jahre nach Abgabe der Erklärung aufzubewahren.
 
@@ -68,4 +68,4 @@ Die zuständige Behörde kann auf Antrag den Betreiber von der Pflicht zur Abgab
 
 ### Anhang
 
-1)
+1) Die Angaben liegen bei der zuständigen Behörde in der Regel vor, so dass diese vom Betreiber nur aktualisiert oder ergänzt werden müssen.

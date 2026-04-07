@@ -10,11 +10,11 @@
 
 Es verordnen auf Grund
 
-–
+– des § 6 Absatz 1 Nummer 2 in Verbindung mit Absatz 4 Satz 1 und des § 8 Absatz 1 Satz 1 auch in Verbindung mit Satz 2 Nummer 1, 2 und 4 des Marktorganisationsgesetzes in der Fassung der Bekanntmachung vom 24. Juni 2005 (BGBl. I S. 1847), von denen § 6 Absatz 1 und 4 und § 8 Absatz 1 durch Artikel 1 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2314) geändert worden sind, jeweils in Verbindung mit § 1 Absatz 2 und mit § 27 des Direktzahlungen-Durchführungsgesetzes vom 9. Juli 2014 (BGBl. I S. 897), und in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) das Bundesministerium für Ernährung und Landwirtschaft im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie:
 
-–
+– des § 16 Absatz 2 Satz 1 und des § 17 Absatz 4 des Direktzahlungen-Durchführungsgesetzes vom 9. Juli 2014 (BGBl. I S. 897) das Bundesministerium für Ernährung und Landwirtschaft:
 
-–
+– des § 15 Absatz 3, des § 17 Absatz 2 und 3 und des § 18 Absatz 5 Satz 1 Nummer 1 und 3 in Verbindung mit Satz 2 des Direktzahlungen-Durchführungsgesetzes vom 9. Juli 2014 (BGBl. I S. 897) das Bundesministerium für Ernährung und Landwirtschaft im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit:
 
 ## Teil 1: Allgemeine Bestimmungen
 
@@ -22,41 +22,33 @@ Es verordnen auf Grund
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung
 
-1.
+1. der Verordnung (EU) Nr. 1307/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 mit Vorschriften über Direktzahlungen an Inhaber landwirtschaftlicher Betriebe im Rahmen von Stützungsregelungen der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EG) Nr. 637/2008 des Rates und der Verordnung (EG) Nr. 73/2009 des Rates (ABl. L 347 vom 20.12.2013, S. 608) in der jeweils geltenden Fassung,
 
-2.
+2. der im Rahmen der in Nummer 1 bezeichneten Verordnung und zu ihrer Durchführung erlassenen Rechtsakte der Europäischen Union und
 
-3.
+3. des Direktzahlungen-Durchführungsgesetzes.
 
 ### § 2 — Landwirtschaftliche Tätigkeit
 
 (1) Eine landwirtschaftliche Tätigkeit im Sinne des Artikels 4 Absatz 1 Buchstabe c Unterbuchstabe ii oder iii der Verordnung (EU) Nr. 1307/2013 auf einer landwirtschaftlichen Fläche, die während des gesamten Jahres, für das ein Antrag auf Direktzahlung gestellt wird, nicht für eine landwirtschaftliche Tätigkeit im Sinne des Artikels 4 Absatz 1 Buchstabe c Unterbuchstabe i der Verordnung (EU) Nr. 1307/2013 genutzt wird, liegt vor, wenn der Betriebsinhaber einmal vor dem 16. November des Jahres
 
-1.
+1. den Aufwuchs mäht und das Mähgut abfährt oder
 
-2.
+2. den Aufwuchs zerkleinert und ganzflächig verteilt.
 
-(2) Die nach Landesrecht zuständige Behörde kann, soweit dies aus naturschutzfachlichen oder umweltschutzfachlichen Gründen gerechtfertigt ist, auf Antrag Abweichungen von Absatz 1 genehmigen, und zwar Im Fall des Satzes 1 ist die Tätigkeit vor dem 16. November des jeweiligen Jahres durchzuführen, soweit die Genehmigung nicht eine spätere Durchführung vorschreibt. Im Falle des Satzes 1 gelten Maßnahmen als genehmigt, wenn mindestens in jedem zweiten Jahr eine Tätigkeit auf der betreffenden Fläche durchzuführen ist. Soweit in einem Fall des Satzes 3 die Tätigkeit nicht nach dem 15. November durchgeführt werden muss, ist sie vor dem 16. November durchzuführen.
+(2) Die nach Landesrecht zuständige Behörde kann, soweit dies aus naturschutzfachlichen oder umweltschutzfachlichen Gründen gerechtfertigt ist, auf Antrag Abweichungen von Absatz 1 genehmigen, und zwar
 
-1.
+1. die Durchführung einer der in Absatz 1 Nummer 1 und 2 genannten Tätigkeiten nur in jedem zweiten Jahr,
 
-2.
-
-1.
-
-a)
-
-b)
-
-2.
+2. die jährliche oder zweijährliche Durchführung einer anderen Tätigkeit als der in Absatz 1 Nummer 1 und 2 genannten.
 
 (3) Abweichend von Absatz 1 und 2 liegt eine landwirtschaftliche Tätigkeit im Sinne des Artikels 4 Absatz 1 Buchstabe c Unterbuchstabe ii der Verordnung (EU) Nr. 1307/2013 auf einer landwirtschaftlichen Fläche, die während des gesamten Jahres, für das ein Antrag auf Direktzahlung gestellt wird, nicht für eine landwirtschaftliche Tätigkeit im Sinne des Artikels 4 Absatz 1 Buchstabe c Unterbuchstabe i der Verordnung (EU) Nr. 1307/2013 genutzt wird, auch vor, wenn der Betriebsinhaber für diese Fläche den Verpflichtungen einer Agrarumwelt- und Klimamaßnahme der Länder unterliegt, deren Voraussetzungen bei Durchführung einer Tätigkeit nach Absatz 1 oder Absatz 2 Satz 1 nicht mehr erfüllt wären, aber gewährleisten, dass die Fläche in einem für die Beweidung und den Anbau geeigneten Zustand erhalten bleibt, und der Betriebsinhaber die Voraussetzungen dieser Maßnahme einhält.
 
-(4) Abweichend von Absatz 1 und 2 liegt eine landwirtschaftliche Tätigkeit im Sinne des Artikels 4 Absatz 1 Buchstabe c Unterbuchstabe ii der Verordnung (EU) Nr. 1307/2013 auf einer landwirtschaftlichen Fläche, die während des gesamten Jahres, für das ein Antrag auf Direktzahlung gestellt wird, nicht für eine landwirtschaftliche Tätigkeit im Sinne des Artikels 4 Absatz 1 Buchstabe c Unterbuchstabe i der Verordnung (EU) Nr. 1307/2013 genutzt wird, auch dann vor, wenn auf der Fläche ausgesät und die Fläche in dem Jahr als im Umweltinteresse genutzte Fläche gemäß Artikel 46 Absatz 2 Buchstabe m der Verordnung (EU) Nr. 1307/2013 ausgewiesen wird.
+(4) Abweichend von Absatz 1 und 2 liegt eine landwirtschaftliche Tätigkeit im Sinne des Artikels 4 Absatz 1 Buchstabe c Unterbuchstabe ii der Verordnung (EU) Nr. 1307/2013 auf einer landwirtschaftlichen Fläche, die während des gesamten Jahres, für das ein Antrag auf Direktzahlung gestellt wird, nicht für eine landwirtschaftliche Tätigkeit im Sinne des Artikels 4 Absatz 1 Buchstabe c Unterbuchstabe i der Verordnung (EU) Nr. 1307/2013 genutzt wird, auch dann vor, wenn auf der Fläche
 
-1.
+1. vor dem 1. Juni eine Mischung gemäß § 32a Absatz 2 oder
 
-2.
+2. im Jahr 2018 eine Art oder Mischung gemäß § 32a Absatz 3
 
 > (+++ § 2: Zur Anwendung vgl. § 35 +++)
 
@@ -118,29 +110,29 @@ Ein Betriebsinhaber kann die Festsetzung von Zahlungsansprüchen für die Basisp
 
 (2) Eine starke Einschränkung der landwirtschaftlichen Tätigkeit ist in der Regel gegeben, wenn
 
-1.
+1. die nichtlandwirtschaftliche Tätigkeit zu einer Zerstörung der Kulturpflanze oder Grasnarbe oder einer wesentlichen Beeinträchtigung des Bewuchses oder einer wesentlichen Minderung des Ertrages führt,
 
-2.
+2. innerhalb der Vegetationsperiode oder bei mit Kulturpflanzen genutzten Ackerflächen innerhalb der Vegetationsperiode im Zeitraum zwischen Aussaat und Ernte eine nichtlandwirtschaftliche Tätigkeit, die eine gleichzeitige landwirtschaftliche Tätigkeit in diesem Zeitraum erheblich beeinträchtigt oder ausschließt, länger als 14 aufeinanderfolgende Tage dauert oder insgesamt an mehr als 21 Tagen im Kalenderjahr durchgeführt wird,
 
-3.
+3. durch die nichtlandwirtschaftliche Tätigkeit die Einhaltung der bei den Direktzahlungen zu beachtenden Verpflichtungen nach Artikel 93 der Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Finanzierung, die Verwaltung und das Kontrollsystem der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnungen (EWG) Nr. 352/78, (EG) Nr. 165/94, (EG) Nr. 2799/98, (EG) Nr. 814/2000, (EG) Nr. 1290/2005 und (EG) Nr. 485/2008 des Rates (ABl. L 347 vom 20.12.2013, S. 549) in der jeweils geltenden Fassung ausgeschlossen ist,
 
-4.
+4. eine auf Dauer angelegte nichtlandwirtschaftliche Tätigkeit keine üblichen landwirtschaftlichen Produktionsverfahren mehr ermöglicht.
 
 (3) Unbeschadet dessen, ob eine Fläche eine landwirtschaftliche Fläche ist, werden insbesondere folgende Flächen hauptsächlich für eine nichtlandwirtschaftliche Tätigkeit genutzt:
 
-1.
+1. Flächen, die zu dem Wege-, Straßen-, Schienen- oder Schiffsverkehr von Personen oder Fahrzeugen dienenden Anlagen gehören, mit Ausnahme beweidbarer Dämme bei den dem Schiffsverkehr dienenden Anlagen,
 
-2.
+2. dem Luftverkehr dienende Start- und Landebahnen,
 
-3.
+3. Flächen, die für Freizeit- oder Erholungszwecke oder zum Sport genutzt werden und hierfür eingerichtet sind oder in einem hierfür bestimmten Zustand erhalten werden, mit Ausnahme von Flächen, die lediglich außerhalb der Vegetationsperiode für Wintersport genutzt werden,
 
-4.
+4. Parkanlagen, Ziergärten,
 
-5.
+5. Flächen auf Truppenübungsplätzen, soweit die Flächen vorrangig militärisch genutzt werden,
 
-6.
+6. Flächen, auf denen sich Anlagen zur Nutzung von solarer Strahlungsenergie befinden,
 
-7.
+7. Deponien vor Ablauf der Stilllegungsphase.
 
 ### § 12a — Anpassung des Werts von Zahlungsansprüchen
 
@@ -150,13 +142,11 @@ Der auf Grund des § 12 Absatz 1 des Direktzahlungen-Durchführungsgesetzes beka
 
 ### § 13 — Auffüllung der nationalen Reserve
 
-(1) Reicht die nationale Reserve für eines der Jahre nach 2015 nicht aus, um den Bedarf für die in Artikel 30 Absatz 6 und Absatz 9 der Verordnung (EU) Nr. 1307/2013 genannten Fälle zu berücksichtigen, werden zur Auffüllung der nationalen Reserve alle Zahlungsansprüche für das jeweilige Jahr durch Multiplikation mit dem nach Absatz 2 bestimmten Kürzungsfaktor linear gekürzt.
-
 (2) Der Kürzungsfaktor ergibt sich durch Division der nationalen Obergrenze für die Basisprämie für das betroffene Jahr durch die Summe aus
 
-1.
+1. dem Wert aller bestehenden Zahlungsansprüche für das betreffende Jahr vor Anwendung dieses Paragrafen und
 
-2.
+2. dem Betrag, der sich für alle nach Artikel 30 Absatz 6 und Absatz 9 der Verordnung (EU) Nr. 1307/2013 für das betreffende Jahr aus der nationalen Reserve zuzuweisenden Zahlungsansprüche bei Zugrundelegung des Werts ergibt, der für die bestehenden Zahlungsansprüche, für die Jahre 2016 bis 2018 der jeweiligen Region, nach Nummer 1 berücksichtigt ist.
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft ermittelt den Kürzungsfaktor nach Absatz 2 und benennt und berücksichtigt ihn bei der Bekanntmachung nach § 12 Absatz 4 oder 5 des Direktzahlungen-Durchführungsgesetzes.
 
@@ -172,15 +162,13 @@ Die Bundesanstalt ist mit Ausnahme des § 13 zuständig für die Überwachung un
 
 ### § 15 — Mitteilungen
 
-Die Länder teilen der Bundesanstalt und dem Bundesministerium für Ernährung und Landwirtschaft bis zum 1. November für das jeweilige Jahr mit.
+Die Länder teilen der Bundesanstalt und dem Bundesministerium für Ernährung und Landwirtschaft bis zum 1. November für das jeweilige Jahr
 
-1.
+1. die von ihnen in die nationale Reserve eingezogenen Zahlungsansprüche je Region und
 
-2.
+2. die aus der nationalen Reserve zuzuweisenden Zahlungsansprüche je Region, aufgeschlüsselt nach den Fällen des Artikels 30 Absatz 6 und 9 der Verordnung (EU) Nr. 1307/2013 und des § 16,
 
 ### § 16 — Fälle höherer Gewalt oder außergewöhnlicher Umstände nach Artikel 30 Absatz 7 Buchstabe c der Verordnung (EU) Nr. 1307/2013
-
-(1) Die nationale Reserve wird verwendet zur Zuweisung von Zahlungsansprüchen an Betriebsinhaber, soweit ihnen infolge höherer Gewalt oder außergewöhnlicher Umstände nach anderen Vorschriften des Titels III Kapitel 1 der Verordnung (EU) Nr. 1307/2013 als Artikel 30 Absatz 7 Buchstabe c, auch in Verbindung mit § 11 des Direktzahlungen-Durchführungsgesetzes, Zahlungsansprüche nicht zugewiesen werden konnten.
 
 (2) Im Falle des Absatzes 1 wird einem Betriebsinhaber eine Zahl von Zahlungsansprüchen in dem Umfang zugewiesen, für den ihm wegen des Vorliegens höherer Gewalt oder außergewöhnlicher Umstände nach anderen Vorschriften des Titels III Kapitel 1 der Verordnung (EU) Nr. 1307/2013 als Artikel 30 Absatz 7 Buchstabe c, auch in Verbindung mit § 11 des Direktzahlungen-Durchführungsgesetzes, keine Zahlungsansprüche zugewiesen werden konnten.
 
@@ -214,8 +202,6 @@ Aus der Berechnung der Flächen mit Dauergrünland nach Artikel 45 Absatz 2 Unte
 
 ### § 19 — Nichteinhaltung der Verpflichtung nach Artikel 45 Absatz 1 Unterabsatz 3 der Verordnung (EU) Nr. 1307/2013 in Verbindung mit § 15 des Direktzahlungen-Durchführungsgesetzes
 
-(1) Ein Betriebsinhaber, der entgegen Artikel 45 Absatz 1 Unterabsatz 3 der Verordnung (EU) Nr. 1307/2013 in Verbindung mit § 15 des Direktzahlungen-Durchführungsgesetzes Dauergrünland umgewandelt oder gepflügt hat, hat diese Fläche wieder in Dauergrünland umzuwandeln.
-
 (2) Die Unterrichtung im Sinne des Artikels 42 Unterabsatz 2 der Delegierten Verordnung (EU) Nr. 639/2014 eines Betriebsinhabers über die Verpflichtung zur Rückumwandlung und die Frist, innerhalb derer die Rückumwandlung zu erfolgen hat, erfolgt schriftlich.
 
 (3) Die Frist für die Rückumwandlung soll einen Monat ab der Bekanntgabe der Unterrichtung nach Absatz 2 nicht überschreiten. Bei Vorliegen ungeeigneter Witterungsverhältnisse für die Rückumwandlung oder außerhalb der Vegetationsperiode kann die Behörde eine in dem erforderlichen Umfang längere Frist festsetzen oder nachträglich genehmigen.
@@ -230,11 +216,11 @@ Die Aufhebung der Bestimmung von Dauergrünland als umweltsensibel nach § 15 Ab
 
 (2) Die Aufhebung der Bestimmung von Dauergrünland als umweltsensibel nach § 15 Absatz 2a des Direktzahlungen-Durchführungsgesetzes gilt für eine Fläche als erteilt, die nicht mehr der Begriffsbestimmung für Dauergrünland entspricht, weil die Fläche mit einer Vegetation bewachsen ist, die sich von einer Fläche natürlich ausgebreitet hat, die
 
-1.
+1. unmittelbar angrenzt,
 
-2.
+2. überwiegend mit gehölzartigen Pflanzen, die nicht der landwirtschaftlichen Erzeugung dienen, bewachsen ist, und
 
-3.
+3. für die Direktzahlungen nicht beihilfefähig ist.
 
 > (+++ § 19b: Zur Anwendung vgl. § 34 +++)
 
@@ -256,11 +242,11 @@ Die Aufhebung der Bestimmung von Dauergrünland als umweltsensibel nach § 15 Ab
 
 (2) Die Genehmigung der Umwandlung von Dauergrünland nach § 16 Absatz 3 des Direktzahlungen-Durchführungsgesetzes gilt für eine Fläche als erteilt, die nicht mehr der Begriffsbestimmung für Dauergrünland entspricht, weil die Fläche mit einer Vegetation bewachsen ist, die sich von einer Fläche natürlich ausgebreitet hat, die
 
-1.
+1. unmittelbar angrenzt,
 
-2.
+2. überwiegend mit gehölzartigen Pflanzen, die nicht der landwirtschaftlichen Erzeugung dienen, bewachsen ist, und
 
-3.
+3. für die Direktzahlungen nicht beihilfefähig ist.
 
 > (+++ § 19b: Zur Anwendung vgl. § 34 +++)
 
@@ -272,15 +258,15 @@ Die Aufhebung der Bestimmung von Dauergrünland als umweltsensibel nach § 15 Ab
 
 ### § 21a — Geltungsdauer der Genehmigungen nach § 16 Absatz 3 des Direktzahlungen-Durchführungsgesetzes
 
-Nicht genutzte Genehmigungen nach § 16 Absatz 3 des Direktzahlungen-Durchführungsgesetzes enden, Für Genehmigungen, die bis zu dem sich nach Satz 1 Nummer 4 für das Jahr 2015 ergebenden Schlusstermin erteilt worden sind, tritt an die Stelle des dort genannten Schlusstermins derjenige für das Jahr 2016.
+Nicht genutzte Genehmigungen nach § 16 Absatz 3 des Direktzahlungen-Durchführungsgesetzes enden,
 
-1.
+1. soweit ein Fall des § 23 nicht vorliegt, mit Ablauf des Tages einer Bekanntmachung nach § 16 Absatz 4 des Direktzahlungen-Durchführungsgesetzes,
 
-2.
+2. soweit ein Fall des § 23 vorliegt, mit Ablauf des Tages einer Bekanntmachung nach § 23 Absatz 2 Satz 2,
 
-3.
+3. mit Ablauf des Tages einer Bekanntmachung nach § 24 Absatz 3,
 
-4.
+4. soweit ein Fall der Nummern 1 bis 3 nicht vorliegt, mit Ablauf des auf die Genehmigung folgenden nach den Vorschriften über das Integrierte Verwaltungs- und Kontrollsystem maßgeblichen Schlusstermins für den Antrag auf Direktzahlung.
 
 ### § 22 — Rückumwandlung bei Umwandlung entgegen § 16 Absatz 3 des Direktzahlungen-Durchführungsgesetzes
 
@@ -290,11 +276,11 @@ Ein Betriebsinhaber hat entgegen § 16 Absatz 3 des Direktzahlungen-Durchführun
 
 ### § 23 — Erteilung von Genehmigungen zur Umwandlung von Dauergrünland bei Abnahme des Dauergrünlandanteils um mehr als 5 Prozent
 
-(1) Im Fall des § 16 Absatz 5 des Direktzahlungen-Durchführungsgesetzes wird, solange eine Genehmigung für die Umwandlung von Dauergrünland nach § 16 Absatz 3 des Direktzahlungen-Durchführungsgesetzes weiterhin erteilt.
+(1) Im Fall des § 16 Absatz 5 des Direktzahlungen-Durchführungsgesetzes wird, solange
 
-1.
+1. Artikel 45 Absatz 3 der Verordnung (EU) Nr. 1307/2013 auf Grund des Artikels 45 Absatz 4 der Verordnung (EU) Nr. 1307/2013 nicht anzuwenden ist oder
 
-2.
+2. die Voraussetzungen des Artikels 45 Absatz 3 Unterabsatz 2 der Verordnung (EU) Nr. 1307/2013 vorliegen,
 
 (2) Im Fall des Absatzes 1 teilt die zuständige Behörde in der Bekanntmachung nach § 16 Absatz 4 des Direktzahlungen-Durchführungsgesetzes mit, dass die Umwandlung von Dauergrünland nach § 16 Absatz 3 des Direktzahlungen-Durchführungsgesetzes weiterhin genehmigt werden kann. Die zuständige Behörde macht im Bundesanzeiger bekannt, wenn die Umwandlung von Dauergrünland nicht mehr genehmigt werden kann, weil die Voraussetzungen nach Absatz 1 nicht mehr vorliegen.
 
@@ -302,9 +288,9 @@ Ein Betriebsinhaber hat entgegen § 16 Absatz 3 des Direktzahlungen-Durchführun
 
 (1) Liegt ein Fall des § 23 Absatz 1 nicht vor und sinkt nach Bekanntmachung nach § 16 Absatz 4 des Direktzahlungen-Durchführungsgesetzes in einer Region die Abnahme des nach Artikel 45 Absatz 2 der Verordnung (EU) Nr. 1307/2013 ermittelten Dauergrünlandanteils
 
-1.
+1. unter 4,9 Prozent, jedoch nicht unter 4,5 Prozent des nach § 16 Absatz 2 Satz 2 des Direktzahlungen-Durchführungsgesetzes bekannt gemachten Referenzanteils, macht die zuständige Behörde im Bundesanzeiger bekannt, dass Genehmigungen für die Umwandlung von Dauergrünland nach Maßgabe des Absatzes 2 erteilt werden können,
 
-2.
+2. unter 4,5 Prozent des nach § 16 Absatz 2 Satz 2 des Direktzahlungen-Durchführungsgesetzes bekannt gemachten Referenzanteils, hebt die zuständige Behörde die Bekanntmachung nach § 16 Absatz 4 des Direktzahlungen-Durchführungsgesetzes auf und macht dies im Bundesanzeiger bekannt.
 
 (2) Im Fall einer Bekanntmachung nach Absatz 1 Nummer 1 wird die Umwandlung von Dauergrünland genehmigt, wenn in derselben Region eine Fläche mit der entsprechenden Hektarzahl als Dauergrünland angelegt wird. § 16 Absatz 3 Satz 5 des Direktzahlungen-Durchführungsgesetzes, die §§ 20, 21, 21a, 22 dieser Verordnung und § 25 der InVeKoS-Verordnung gelten entsprechend. Abweichend von Satz 1 wird in den in § 16 Absatz 3 Satz 4 des Direktzahlungen-Durchführungsgesetzes genannten Fällen die Umwandlung von Dauergrünland genehmigt ohne Pflicht zur Neuanlage von Dauergrünland.
 
@@ -314,11 +300,11 @@ Ein Betriebsinhaber hat entgegen § 16 Absatz 3 des Direktzahlungen-Durchführun
 
 ### § 24a — Pflicht zur Umwandlung in Dauergrünland
 
-(1) Ein Betriebsinhaber, der über Flächen verfügt, auf denen Dauergrünland für andere Nutzungen umgewandelt worden ist, ist nach Maßgabe der Vorschriften dieses Unterabschnitts verpflichtet, Flächen wieder in Dauergrünland umzuwandeln oder Flächen als Dauergrünland anzulegen.
+(1) Ein Betriebsinhaber, der über Flächen verfügt, auf denen Dauergrünland für andere Nutzungen umgewandelt worden ist, ist
 
-1.
+1. soweit ein Fall des § 23 nicht vorliegt nach Bekanntmachung nach § 16 Absatz 4 des Direktzahlungen-Durchführungsgesetzes,
 
-2.
+2. soweit ein Fall des § 23 vorliegt nach Bekanntmachung nach § 23 Absatz 2 Satz 2
 
 (2) Soweit Artikel 44 Absatz 3 Unterabsatz 4 Satz 2 und Unterabsatz 5 der Delegierten Verordnung (EU) Nr. 639/2014 nicht unmittelbar anzuwenden ist, sind die Vorschriften entsprechend anzuwenden.
 
@@ -326,15 +312,15 @@ Ein Betriebsinhaber hat entgegen § 16 Absatz 3 des Direktzahlungen-Durchführun
 
 (1) Ein Betriebsinhaber ist in den in Artikel 44 Absatz 2 Unterabsatz 4 der Delegierten Verordnung (EU) Nr. 639/2014 genannten Fällen zur Rückumwandlung der Flächen in Dauergrünland verpflichtet.
 
-(2) Reichen die nach Absatz 1 in Dauergrünland rückumzuwandelnden Flächen nicht dazu aus, damit die Abnahme des Dauergrünlandanteils auf 4,9 Prozent des nach § 16 Absatz 2 Satz 2 des Direktzahlungen-Durchführungsgesetzes bekannt gemachten Referenzanteils sinkt, ist ein Betriebsinhaber nach Maßgabe des Artikels 44 Absatz 3 Unterabsätze 1 bis 3 der Delegierten Verordnung (EU) Nr. 639/2014 zur Rückumwandlung von Flächen in Dauergrünland oder Anlage anderer Flächen als Dauergrünland verpflichtet. Satz 1 gilt nicht für eine Fläche, für deren Umwandlung eine Genehmigung vorliegt, die unter der Voraussetzung der Anlage einer anderen Fläche als Dauergrünland erteilt worden ist, und sofern die Anlage des Dauergrünlandes entsprechend den jeweils anzuwendenden Vorschriften erfolgt ist, Satz 1 gilt nicht für eine Fläche, für deren Umwandlung eine Genehmigung in einem Fall des § 16 Absatz 3 Satz 4 des Direktzahlungen-Durchführungsgesetzes oder des § 24 Absatz 2 Satz 3 dieser Verordnung vorliegt.
+(2) Reichen die nach Absatz 1 in Dauergrünland rückumzuwandelnden Flächen nicht dazu aus, damit die Abnahme des Dauergrünlandanteils auf 4,9 Prozent des nach § 16 Absatz 2 Satz 2 des Direktzahlungen-Durchführungsgesetzes bekannt gemachten Referenzanteils sinkt, ist ein Betriebsinhaber nach Maßgabe des Artikels 44 Absatz 3 Unterabsätze 1 bis 3 der Delegierten Verordnung (EU) Nr. 639/2014 zur Rückumwandlung von Flächen in Dauergrünland oder Anlage anderer Flächen als Dauergrünland verpflichtet. Satz 1 gilt nicht für eine Fläche, für deren Umwandlung eine Genehmigung vorliegt, die unter der Voraussetzung der Anlage einer anderen Fläche als Dauergrünland erteilt worden ist, und sofern die Anlage des Dauergrünlandes entsprechend den jeweils anzuwendenden Vorschriften erfolgt ist,
 
-1.
+1. in einem Fall des § 16 Absatz 3 Satz 2 Nummer 3 des Direktzahlungen-Durchführungsgesetzes,
 
-2.
+2. in einem Fall des § 24 Absatz 2 Satz 1 dieser Verordnung,
 
-3.
+3. nach den für die Jahre 2012 bis 2014 jeweils anzuwendenden Vorschriften über die Einhaltung anderweitiger Verpflichtungen nach Titel II Kapitel 1 der Verordnung (EG) Nr. 73/2009 mit gemeinsamen Regeln für Direktzahlungen im Rahmen der gemeinsamen Agrarpolitik und mit bestimmten Stützungsregelungen für Inhaber landwirtschaftlicher Betriebe und zur Änderung der Verordnungen (EG) Nr. 1290/2005, (EG) Nr. 247/2006, (EG) Nr. 378/2007 sowie zur Aufhebung der Verordnung (EG) Nr. 1782/2003 (ABl. L 30 vom 31.01.2009, S. 16) in der jeweils geltenden Fassung oder
 
-4.
+4. nach den für die Jahre 2014 und 2015 jeweils anzuwendenden Vorschriften über Cross-Compliance nach Titel VI der Verordnung (EU) Nr. 1306/2013.
 
 (3) Im Falle des Absatzes 2 ist die Ausnahme nach Artikel 44 Absatz 3 Unterabsatz 2 der Delegierten Verordnung (EU) Nr. 639/2014 anzuwenden, wenn die Voraussetzungen für alle Regionen vorliegen.
 
@@ -344,25 +330,25 @@ Ein Betriebsinhaber hat entgegen § 16 Absatz 3 des Direktzahlungen-Durchführun
 
 (2) Im Fall des § 24b Absatz 1 werden in der in Absatz 1 genannten Feststellung die betroffenen Flächen nach Lage und Größe in Hektar mit mindestens zwei Dezimalstellen kaufmännisch gerundet bezeichnet, die wieder in Dauergrünland umzuwandeln sind.
 
-(3) Im Fall des § 24b Absatz 2 enthält die in Absatz 1 genannte Feststellung Für die Berechnung des prozentualen Anteils wird die Hektarzahl zugrunde gelegt, die erforderlich ist, damit die Abnahme des Dauergrünlandanteils auf 4,9 Prozent des nach § 16 Absatz 2 Satz 2 des Direktzahlungen-Durchführungsgesetzes bekannt gemachten Referenzanteils sinkt.
+(3) Im Fall des § 24b Absatz 2 enthält die in Absatz 1 genannte Feststellung
 
-1.
+1. die Flächen nach Lage und Größe in Hektar mit mindestens zwei Dezimalstellen kaufmännisch gerundet, von denen ein prozentualer Anteil wieder in Dauergrünland umgewandelt werden muss oder diesem Anteil entsprechend andere Flächen als Dauergrünland angelegt werden müssen,
 
-2.
+2. in Prozent mit zwei Dezimalstellen kaufmännisch gerundet den Anteil der umgewandelten Flächen, der wieder in Dauergrünland umzuwandeln ist oder dem entsprechend andere Flächen als Dauergrünland angelegt werden müssen,
 
-3.
+3. die Größe der diesem prozentualen Anteil entsprechenden Fläche in Quadratmetern.
 
 ### § 24d — Meldepflichten
 
 (1) Nach der Bekanntgabe einer Feststellung nach § 24c Absatz 1 in Verbindung mit Absatz 2 oder 3 hat ein Betriebsinhaber der zuständigen Behörde binnen 14 Tagen zu melden, wenn er über eine in der Feststellung genannte Fläche nicht mehr verfügt oder vor der rechtzeitigen Erfüllung der in § 24a Absatz 1 genannten Verpflichtung nicht mehr verfügen wird. Diese Frist beginnt an dem Tag, an dem der Betriebsinhaber über den zu meldenden Sachverhalt Kenntnis erhält, frühestens jedoch am Tag der Bekanntgabe der Feststellung. In der Meldung ist anzugeben:
 
-1.
+1. die Fläche nach Lage und Größe,
 
-2.
+2. der Tag, ab dem der Betriebsinhaber nicht mehr über die Fläche verfügt,
 
-3.
+3. der nachfolgende Bewirtschafter der Fläche mit Name, Anschrift und, soweit bekannt, Betriebsnummer nach § 17 der InVeKoS-Verordnung,
 
-4.
+4. soweit der nachfolgende Bewirtschafter nicht oder nicht mit Name und Anschrift bekannt ist, auch der Eigentümer der Fläche mit Name und Anschrift.
 
 (2) Nach einer Feststellung nach § 24c Absatz 2 oder 3 hat der Betriebsinhaber der zuständigen Behörde die erfolgte Rückumwandlung der Flächen oder Anlage anderer Flächen als Dauergrünland innerhalb von 14 Tagen zu melden, nachdem diese erfolgt ist. Im Fall der Anlage anderer Flächen als Dauergrünland sind diese nach Lage und Größe zu bezeichnen. Die Sätze 1 und 2 gelten nicht für Flächen, für die der Betriebsinhaber eine Meldung nach Absatz 1 erstattet hat.
 
@@ -432,13 +418,13 @@ Landschaftselemente können im Antrag auf Direktzahlung für die Zahlung für de
 
 (1) Auf einer Fläche mit stickstoffbindenden Pflanzen, die im Antrag auf Direktzahlung für die Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden als im Umweltinteresse genutzte Fläche ausgewiesen wird, dürfen die in Anlage 4 aufgeführten Arten angebaut werden. Sofern die in Anlage 4 genannten Arten vorherrschen, dürfen sie auch in Mischungen mit anderen Pflanzen angebaut werden.
 
-(2) Werden auf einer Fläche im Sinne des Absatzes 1 die stickstoffbindenden Pflanzen Glycine max, Lens spp., Lupinus albus, Lupinus angustifolius, Lupinus luteus, Phaseolus vulgaris, Pisum sativum oder Vicia faba angebaut, müssen sich diese im Antragsjahr mindestens während der Zeit vom 15. Mai bis zum 15. August auf der Fläche befinden. Der Zeitraum des Satzes 1 beginnt mit dem Tag der Aussaat. Die Pflanzen befinden sich nicht mehr im Sinne des Satzes 1 auf der Fläche ab dem Tag nach Tritt die Erntereife der Früchte oder Körner vor dem 15. August eines Jahres ein, dürfen die Körner oder Früchte abweichend von Satz 1 vor dem 15. August geerntet werden, soweit der Betriebsinhaber die Ernte spätestens drei Tage vor deren Beginn der Landesstelle angezeigt hat.
+(2) Werden auf einer Fläche im Sinne des Absatzes 1 die stickstoffbindenden Pflanzen Glycine max, Lens spp., Lupinus albus, Lupinus angustifolius, Lupinus luteus, Phaseolus vulgaris, Pisum sativum oder Vicia faba angebaut, müssen sich diese im Antragsjahr mindestens während der Zeit vom 15. Mai bis zum 15. August auf der Fläche befinden. Der Zeitraum des Satzes 1 beginnt mit dem Tag der Aussaat. Die Pflanzen befinden sich nicht mehr im Sinne des Satzes 1 auf der Fläche ab dem Tag nach
 
-1.
+1. der Ernte der Früchte oder Körner oder
 
-2.
+2. dem Mähen, Schlegeln oder Beweiden des Aufwuchses oder
 
-3.
+3. einer mechanischen Bodenbearbeitung, die zu einer Zerstörung des Aufwuchses der stickstoffbindenden Pflanzen führt.
 
 (3) Auf einer Fläche im Sinne des Absatzes 1 müssen sich andere nach Anlage 4 zulässige stickstoffbindende Pflanzen als die in Absatz 2 Satz 1 genannten im Antragsjahr mindestens während der Zeit vom 15. Mai bis zum 31. August auf der Fläche befinden. Der Zeitraum des Satzes 1 beginnt mit dem Tag der Aussaat. Sie befinden sich nicht mehr im Sinne des Satzes 1 auf der Fläche ab dem Tag nach einer mechanischen Bodenbearbeitung, die zu einer Zerstörung des Aufwuchses der stickstoffbindenden Pflanzen führt.
 
@@ -448,49 +434,41 @@ Landschaftselemente können im Antrag auf Direktzahlung für die Zahlung für de
 
 (1) Auf für Honigpflanzen genutztem brachliegendem Land (pollen- und nektarreiche Arten), das von einem Betriebsinhaber im Antrag auf Direktzahlung für die Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden als im Umweltinteresse genutzte Fläche ausgewiesen wird, darf während des Jahres, für das dieser Antrag gestellt wird, keine landwirtschaftliche Erzeugung stattfinden. Abweichend von Satz 1 darf ab dem 1. Oktober dieses Jahres eine Aussaat oder Pflanzung, die nicht vor Ablauf dieses Jahres zur Ernte führt, vorbereitet und durchgeführt oder der Aufwuchs durch Schafe oder Ziegen beweidet werden.
 
-(2) Als im Umweltinteresse genutzte Fläche wird für Honigpflanzen genutztes brachliegendes Land (pollen- und nektarreiche Arten) nur berücksichtigt, wenn sich auf der Fläche ein Pflanzenbestand befindet, der durch Aussaat einer Mischung von etabliert worden ist. Im Fall des Satzes 1 Nummer 1 muss die Aussaat im Antragsjahr bis zum 31. Mai erfolgt sein. Im Fall des Satzes 1 Nummer 2 muss die Aussaat erfolgt sein.
+(2) Als im Umweltinteresse genutzte Fläche wird für Honigpflanzen genutztes brachliegendes Land (pollen- und nektarreiche Arten) nur berücksichtigt, wenn sich auf der Fläche ein Pflanzenbestand befindet, der durch Aussaat einer Mischung von
 
-1.
+1. mindestens zehn der in Anlage 5 Gruppe A aufgeführten Arten, die zusätzlich um in Anlage 5 Gruppe B aufgeführte Arten ergänzt sein kann, oder
 
-2.
+2. mindestens fünf der in Anlage 5 Gruppe A und mindestens 15 der in Anlage 5 Gruppe B aufgeführten Arten
 
-1.
+(3) Abweichend von Absatz 2 Satz 1 ist es im Jahr 2018 für die Berücksichtigung von für Honigpflanzen genutztem brachliegendem Land (pollen- und nektarreiche Arten) als im Umweltinteresse genutzte Fläche ausreichend, wenn sich auf der Fläche ein Pflanzenbestand befindet, der durch Aussaat
 
-2.
+1. einer der in Anlage 5 aufgeführten Arten mit Ausnahme a)von Arten, die auch von der Anlage 4 umfasst sind, undb)der Arten echter Buchweizen, Sonnenblume, weißer Senf, durchwachsene Silphieoder von Arten, die auch von der Anlage 4 umfasst sind, und der Arten echter Buchweizen, Sonnenblume, weißer Senf, durchwachsene Silphie
 
-(3) Abweichend von Absatz 2 Satz 1 ist es im Jahr 2018 für die Berücksichtigung von für Honigpflanzen genutztem brachliegendem Land (pollen- und nektarreiche Arten) als im Umweltinteresse genutzte Fläche ausreichend, wenn sich auf der Fläche ein Pflanzenbestand befindet, der durch Aussaat etabliert worden ist.
-
-1.
-
-a)
-
-b)
-
-2.
+2. einer Mischung mehrerer der in Anlage 5 aufgeführten Arten
 
 ### § 32b — Flächen mit Miscanthus (Artikel 46 Absatz 2 Buchstabe k der Verordnung (EU) Nr. 1307/2013)
 
-Auf einer Fläche mit Miscanthus, die von einem Betriebsinhaber im Antrag auf Direktzahlung für die Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden als im Umweltinteresse genutzte Fläche im Sinne des Artikels 46 Absatz 2 Buchstabe k der Verordnung (EU) Nr. 1307/2013 ausgewiesen wird, ist verboten.
+Auf einer Fläche mit Miscanthus, die von einem Betriebsinhaber im Antrag auf Direktzahlung für die Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden als im Umweltinteresse genutzte Fläche im Sinne des Artikels 46 Absatz 2 Buchstabe k der Verordnung (EU) Nr. 1307/2013 ausgewiesen wird, ist
 
-1.
+1. der Einsatz von Pflanzenschutzmitteln, ausgenommen im ersten Jahr, in dem die Art angelegt wird, und
 
-2.
+2. der Einsatz mineralischer Düngemittel
 
 ### § 32c — Flächen mit Silphium perfoliatum (Artikel 46 Absatz 2 Buchstabe l der Verordnung (EU) Nr. 1307/2013)
 
-Auf einer Fläche mit Silphium perfoliatum, die von einem Betriebsinhaber im Antrag auf Direktzahlung für die Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden als im Umweltinteresse genutzte Fläche im Sinne des Artikels 46 Absatz 2 Buchstabe l der Verordnung (EU) Nr. 1307/2013 ausgewiesen wird, ist verboten.
+Auf einer Fläche mit Silphium perfoliatum, die von einem Betriebsinhaber im Antrag auf Direktzahlung für die Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden als im Umweltinteresse genutzte Fläche im Sinne des Artikels 46 Absatz 2 Buchstabe l der Verordnung (EU) Nr. 1307/2013 ausgewiesen wird, ist
 
-1.
+1. der Einsatz von Pflanzenschutzmitteln, ausgenommen im ersten Jahr, in dem die Art angelegt wird, und
 
-2.
+2. der Einsatz mineralischer Düngemittel
 
 ### § 33 — Umrechnungsfaktoren bei im Umweltinteresse genutzten Flächen
 
-Bei der Berechnung der Flächengröße der im Umweltinteresse genutzten Flächen werden bei die Umrechnungsfaktoren nach Anhang X der Verordnung (EU) Nr. 1307/2013 herangezogen.
+Bei der Berechnung der Flächengröße der im Umweltinteresse genutzten Flächen werden bei
 
-1.
+1. Terrassen und
 
-2.
+2. einzeln stehenden Bäumen, soweit diese als Landschaftselemente einem Beseitigungsverbot nach den Vorschriften über bei den Agrarzahlungen zu beachtende Verpflichtungen nach Artikel 93 der Verordnung (EU) Nr. 1306/2013 unterliegen,
 
 ## Teil 5: Schlussvorschriften
 
@@ -513,8 +491,6 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Der Bundesrat hat zugestimmt.
 
 ### Anlage 1 — (zu §§ 3 und 30 Absatz 1)
-
-Esche
 
 Esche
 

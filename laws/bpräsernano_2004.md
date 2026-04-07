@@ -12,7 +12,9 @@ Auf Grund des Artikels 60 des Grundgesetzes für die Bundesrepublik Deutschland 
 
 ### Art 1
 
-(1) Ich übertrage die Ausübung des Rechtes zur Ernennung und Entlassung aller Bundesbeamtinnen und Bundesbeamten der Bundesbesoldungsordnung A, der Besoldungsgruppen C 1 bis C 3 der Bundesbesoldungsordnung C, der Besoldungsgruppen W 1 bis W 3 der Bundesbesoldungsordnung W und aller Richterinnen und Richter des Bundes der Besoldungsgruppen R 1 und R 2 der Bundesbesoldungsordnung R den obersten Bundesbehörden. Sie können diese Befugnis hinsichtlich der Beamtinnen und Beamten des Bundes auf die nachgeordneten Behörden oder auf die Stellen, bei denen Beamtinnen und Beamten des Bundes beschäftigt sind, weiter übertragen. Die Ausübung des Rechtes zur Ernennung und Entlassung der deutschen Honorarkonsularbeamtinnen und Honorarkonsularbeamten übertrage ich der Bundesministerin oder dem Bundesminister des Auswärtigen.(2) Soweit ich das Recht zur Ernennung und Entlassung der Beamtinnen, Beamten, Richterinnen und Richter des Bundes ausübe, sind mir Vorschläge von den zuständigen obersten Bundesbehörden einzureichen.
+(1) Ich übertrage die Ausübung des Rechtes zur Ernennung und Entlassung aller Bundesbeamtinnen und Bundesbeamten der Bundesbesoldungsordnung A, der Besoldungsgruppen C 1 bis C 3 der Bundesbesoldungsordnung C, der Besoldungsgruppen W 1 bis W 3 der Bundesbesoldungsordnung W und aller Richterinnen und Richter des Bundes der Besoldungsgruppen R 1 und R 2 der Bundesbesoldungsordnung R den obersten Bundesbehörden. Sie können diese Befugnis hinsichtlich der Beamtinnen und Beamten des Bundes auf die nachgeordneten Behörden oder auf die Stellen, bei denen Beamtinnen und Beamten des Bundes beschäftigt sind, weiter übertragen. Die Ausübung des Rechtes zur Ernennung und Entlassung der deutschen Honorarkonsularbeamtinnen und Honorarkonsularbeamten übertrage ich der Bundesministerin oder dem Bundesminister des Auswärtigen.
+
+(2) Soweit ich das Recht zur Ernennung und Entlassung der Beamtinnen, Beamten, Richterinnen und Richter des Bundes ausübe, sind mir Vorschläge von den zuständigen obersten Bundesbehörden einzureichen.
 
 ### Art 2
 
@@ -27,5 +29,3 @@ Die zur Durchführung dieser Anordnung erforderlichen Bestimmungen erlässt das 
 Diese Anordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Schlussformel
-
-Der Bundespräsident

@@ -18,19 +18,13 @@ Verfügungsberechtigte und Besitzer von Tabakpflanzen sind verpflichtet, der zus
 
 Verfügungsberechtigte und Besitzer von Tabakpflanzen sind verpflichtet,
 
-1.
+1. vom Blauschimmelpilz befallene oder des Befalls mit dem Blauschimmelpilz verdächtige Tabaksämlinge unverzüglich zu vernichten,
 
-2.
+2. auf Anordnung der zuständigen Behördea)vom Blauschimmelpilz befallene oder des Befalls mit dem Blauschimmelpilz verdächtige Tabakpflanzen zu vernichten, b)die nach dem Abernten von Tabakpflanzen verbleibenden Reste zu vernichten, c)die Blauschimmelkrankheit zu bekämpfen, vom Blauschimmelpilz befallene oder des Befalls mit dem Blauschimmelpilz verdächtige Tabakpflanzen zu vernichten, die nach dem Abernten von Tabakpflanzen verbleibenden Reste zu vernichten, die Blauschimmelkrankheit zu bekämpfen,
 
-a)
+3. den Boden und die Räume, die zur Anzucht von Tabakpflanzen bestimmt sind, zu entseuchen, es sei denn, daß sie frei vom Blauschimmelpilz sind,
 
-b)
-
-c)
-
-3.
-
-4.
+4. Grundstücke, auf denen der Blauschimmelpilz aufgetreten ist, bis zum Ablauf der folgenden Vegetationsperiode von Tabakpflanzen freizuhalten.
 
 ### § 3
 
@@ -38,34 +32,32 @@ Das Züchten und Halten des Blauschimmelpilzes sowie das Arbeiten mit diesem Sch
 
 ### § 4
 
-Die zuständige Behörde kann im Einzelfall Ausnahmen von genehmigen, soweit hierdurch die Bekämpfung des Blauschimmelpilzes nicht beeinträchtigt wird und keine Gefahr einer Ausbreitung dieses Schadorganismus entsteht.
+Die zuständige Behörde kann im Einzelfall Ausnahmen von
 
-1.
+1. § 2 Nr. 4 für nichtbefallene Teile von Grundstücken,
 
-2.
+2. § 3 für wissenschaftliche Untersuchungen und Versuche und für Züchtungsvorhaben
 
 ### § 5
 
 Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 1 die Meldung nicht, nicht unverzüglich, nicht richtig oder nicht vollständig erstattet,
 
-2.
+2. entgegen § 2 Nr. 1 Tabaksämlinge nicht unverzüglich vernichtet,
 
-2a.
+2a. einer vollziehbaren Anordnung nach § 2 Nummer 2 zuwiderhandelt,
 
-3.
+3. entgegen § 2 Nr. 3 den Boden oder einen Raum nicht entseucht,
 
-4.
+4. entgegen § 2 Nr. 4 ein Grundstück nicht von Tabakpflanzen freihält,
 
-5.
+5. entgegen § 3 den Blauschimmelpilz züchtet oder hält oder mit ihm arbeitet oder
 
-6.
+6. einer mit einer Genehmigung nach § 4 verbundenen vollziehbaren Auflage zuwiderhandelt.
 
 ### § 6
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Ernährung, Landwirtschaft und Forsten

@@ -41,7 +41,7 @@ Schutzrechtsanmeldungen
 
 (2) Das gleiche gilt für die auf Grund internationaler Abkommen mit Wirkung für das in Artikel 3 des Einigungsvertrages genannte Gebiet eingereichten Anmeldungen und eingetragenen oder erteilten Schutzrechte.
 
-(3) Für  Herkunftsangaben, die mit Wirkung für das in Artikel 3 des Einigungsvertrages genannte Gebiet eingetragen oder angemeldet sind, gelten die §§ 33 bis 38.
+(3) Für Herkunftsangaben, die mit Wirkung für das in Artikel 3 des Einigungsvertrages genannte Gebiet eingetragen oder angemeldet sind, gelten die §§ 33 bis 38.
 
 ### § 5 — Anzuwendendes Recht
 
@@ -155,11 +155,11 @@ Warenzeichengesetzes
 
 (1) Nach § 4 erstreckte Markenanmeldungen werden, auch soweit eine Prüfung nach den bisher anzuwendenden Rechtsvorschriften bereits stattgefunden hat, nach § 5 Abs. 2 oder § 6a Abs. 3 des Warenzeichengesetzes bekanntgemacht.
 
-(2) Gegen die Eintragung der in Absatz 1 genannten angemeldeten Zeichen kann nach § 5 Abs. 4 Satz 1 Nr. 1 des Warenzeichengesetzes Widerspruch nur erheben, Den in Nummer 1 und Nummer 2 bezeichneten früheren Anmeldungen stehen nach § 1 oder § 4 erstreckte international registrierte Marken nach dem Madrider Abkommen über die internationale Registrierung von Marken gleich.
+(2) Gegen die Eintragung der in Absatz 1 genannten angemeldeten Zeichen kann nach § 5 Abs. 4 Satz 1 Nr. 1 des Warenzeichengesetzes Widerspruch nur erheben,
 
-1.
+1. wer für gleiche oder gleichartige Waren oder Dienstleistungen ein mit dem angemeldeten Zeichen übereinstimmendes Zeichen (§ 31 des Warenzeichengesetzes) mit älterem Zeitrang, das nach § 4 erstreckt worden ist, beim ehemaligen Patentamt der Deutschen Demokratischen Republik angemeldet hat oder
 
-2.
+2. wer, soweit das bekanntgemachte Zeichen in der Zeit vom 1. Juli bis zum Ablauf des 2. Oktober 1990 beim ehemaligen Patentamt der Deutschen Demokratischen Republik angemeldet worden ist, für gleiche oder gleichartige Waren ein mit dem angemeldeten Zeichen übereinstimmendes Zeichen (§ 31 des Warenzeichengesetzes) mit älterem Zeitrang, das nach § 1 erstreckt worden ist, beim Deutschen Patentamt angemeldet hat.
 
 (3) Die Absätze 1 und 2 sind auf Widersprüche nach § 2 der Verordnung über die internationale Registrierung von Fabrik- oder Handelsmarken, die gegen eine nach § 4 erstreckte international registrierte Marke erhoben werden, entsprechend anzuwenden.
 
@@ -211,11 +211,11 @@ und sonstige Kennzeichen
 
 (2) Das Zeichen darf auch ohne Zustimmung des Inhabers des anderen Zeichens in dem Gebiet, auf das es erstreckt wird, benutzt werden
 
-1.
+1. zur Werbung in öffentlichen Bekanntmachungen oder in Mitteilungen, die für einen größeren Kreis von Personen bestimmt sind, wenn die Verbreitung dieser öffentlichen Bekanntmachungen oder Mitteilungen nicht in zumutbarer Weise auf das Gebiet beschränkt werden kann, in dem das Zeichen bisher schon galt,
 
-2.
+2. wenn der Inhaber des Zeichens glaubhaft macht, daß ihm nach den Vorschriften des Vermögensgesetzes ein Anspruch auf Rückübertragung des anderen Zeichens oder des Unternehmens, zu dem das andere Zeichen gehört, zusteht,
 
-3.
+3. soweit sich der Ausschluß von der Benutzung des Zeichens in diesem Gebiet unter Berücksichtigung aller Umstände des Falles und bei Abwägung der berechtigten Interessen der Beteiligten und der Allgemeinheit als unbillig erweist.
 
 (3) In den Fällen des Absatzes 2 Nr. 1 und 3 kann der Zeicheninhaber von demjenigen, der das andere Zeichen benutzt, eine angemessene Entschädigung verlangen, soweit er durch die Benutzung über das zumutbare Maß hinaus beeinträchtigt wird.
 

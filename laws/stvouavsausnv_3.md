@@ -13,7 +13,11 @@ Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe b in Verbindung mit Abs. 3 des Straße
 
 ### § 1
 
-Abweichend von § 22a Abs. 1 Nr. 27 der Straßenverkehrs-Zulassungs-Ordnung brauchen besondere Rückhalteeinrichtungen für behinderte Kinder in Kraftfahrzeugen nicht in einer amtlich genehmigten Bauart ausgeführt zu sein, wenn 1.die Konstruktion dem Stand der Technik entspricht, 2.der Rückhalteeinrichtung eine Einbau- und Gebrauchsanweisung beigegeben ist, in der die Kraftfahrzeuge und Kraftfahrzeugtypen angegeben sind, für die sie verwendbar ist.
+Abweichend von § 22a Abs. 1 Nr. 27 der Straßenverkehrs-Zulassungs-Ordnung brauchen besondere Rückhalteeinrichtungen für behinderte Kinder in Kraftfahrzeugen nicht in einer amtlich genehmigten Bauart ausgeführt zu sein, wenn
+
+1.
+
+2.
 
 ### § 2
 

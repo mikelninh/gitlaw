@@ -27,8 +27,6 @@ Für die Bemessung der Mindestversorgungsbezüge und der Mindestunfallversorgung
 
 (1) Sind der Bemessung des Unfallruhegehaltes nach § 37 Abs. 1 Satz 1 des Beamtenversorgungsgesetzes die ruhegehaltfähigen Dienstbezüge aus der Endstufe der nächsthöheren Besoldungsgruppe zugrunde zu legen, treten zu den ruhegehaltfähigen Dienstbezügen die ruhegehaltfähigen Zulagen aus der Besoldungsgruppe des zuletzt bekleideten Amtes, wenn dem Beamten in der nächsthöheren Besoldungsgruppe eine entsprechende Zulage in mindestens derselben Höhe zugestanden hätte.
 
-(2) Bei Anwendung des § 37 Abs. 1 Satz 2 des Beamtenversorgungsgesetzes tritt zu den ruhegehaltfähigen Dienstbezügen nach der Besoldungsgruppe A 5 die ruhegehaltfähige Stellenzulage nach Artikel II § 6 Abs. 1, nach der Besoldungsgruppe A 9 die ruhegehaltfähige Stellenzulage nach Artikel II § 6 Abs. 2, nach der Besoldungsgruppe A 12 die ruhegehaltfähige Stellenzulage nach Artikel II § 6 Abs. 3 des Ersten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern.
-
 (3) Absatz 2 gilt in den Fällen des § 24a des Bundespolizeibeamtengesetzes, des § 42 Absatz 1 Satz 2 des Soldatenversorgungsgesetzes und des Artikels 3 Abs. 1 Satz 2 des Zweiten Gesetzes zur Änderung des Bundesbeamtengesetzes vom 28. Juli 1972 (Bundesgesetzbl. I S. 1288) entsprechend.
 
 (4) In den Fällen des § 20 Abs. 1 Satz 2 des Bundespolizeibeamtengesetzes tritt zu den jeweils ruhegehaltfähigen Dienstbezügen aus der Endstufe der Besoldungsgruppe A 5, A 6, A 7 oder A 9 die ruhegehaltfähige Stellenzulage nach Artikel II § 6 Abs. 2 des Ersten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern.
@@ -100,9 +98,9 @@ Bereich der Sozialversicherung
 
 (1) Bundesunmittelbare Körperschaften des öffentlichen Rechts im Bereich der Sozialversicherung haben bei Aufstellung ihrer Dienstordnungen nach den §§ 351 bis 357, § 413 Abs. 2, § 414b Reichsversicherungsordnung, §§ 144 bis 147 des Siebten Buches Sozialgesetzbuch, § 52 Abs. 2 und § 56 Abs. 3 des Gesetzes über die Alterssicherung der Landwirte, § 58 des Zweiten Gesetzes über die Krankenversicherung der Landwirte für die dienstordnungsmäßig Angestellten
 
-1.
+1. den Rahmen des Bundesbesoldungsgesetzes, insbesondere das für die Bundesbeamten geltende Besoldungs- und Stellengefüge, einzuhalten,
 
-2.
+2. alle weiteren Geld- und geldwerten Leistungen sowie die Versorgung im Rahmen und nach den Grundsätzen der für die Bundesbeamten geltenden Bestimmungen zu regeln.
 
 (2) (weggefallen)
 
@@ -114,11 +112,11 @@ Bereich der Sozialversicherung
 
 ### § 2
 
-(1) Für landesunmittelbare Körperschaften des öffentlichen Rechts im Bereich der Sozialversicherung gelten Bei Festsetzung der Einstufungshöchstgrenzen sind die für bundesunmittelbare Versicherungsträger geltenden Maßstäbe anzulegen. Für Versicherungsträger, deren Zuständigkeitsbereich sich über das Gebiet eines Landes hinaus erstreckt, ist das Recht des aufsichtsführenden Landes anzuwenden.
+(1) Für landesunmittelbare Körperschaften des öffentlichen Rechts im Bereich der Sozialversicherung gelten
 
-1.
+1. § 1 Abs. 1 mit der Maßgabe, dass an die Stelle des für Bundesbeamte geltenden Rechts das für Landesbeamte geltende Recht tritt, sowie
 
-2.
+2. § 1 Abs. 2 und 6; die Landesregierungen werden ermächtigt, durch Rechtsverordnung Einstufungshöchstgrenzen und Obergrenzen für Beförderungsämter zu regeln.
 
 (2) bis (5) (weggefallen)
 
@@ -140,8 +138,6 @@ Auf die am Tage des Inkrafttretens dieses Gesetzes vorhandenen dienstordnungsmä
 
 ### § 2 — Ersetzung des Begriffs Mehrarbeitsentschädigung durch
 Mehrarbeitsvergütung
-
-Soweit in Gesetzen und Verordnung der Begriff "Mehrarbeitsentschädigung" verwendet wird, tritt an seine Stelle der Begriff "Mehrarbeitsvergütung".
 
 ### § 3 — Gleichstellung von Beamten
 
@@ -167,17 +163,17 @@ Soweit in Gesetzen und Verordnung der Begriff "Mehrarbeitsentschädigung" verwen
 
 (4) Ein Beamter, dem auf Grund des § 19 des Beamtenrechtsrahmengesetzes, des § 28 Abs. 2 und 3 des Bundesbeamtengesetzes oder entsprechender landesrechtlicher Vorschriften oder auf Grund des § 130 Abs. 1 Satz 2 des Beamtenrechtsrahmengesetzes ein Amt mit geringerem Endgrundgehalt oder Grundgehalt übertragen worden ist, wird bei Anwendung des Absatzes 2 Satz 1 und 2 so behandelt, wie wenn er am Tage des Inkrafttretens dieses Gesetzes das frühere Amt noch innegehabt hätte und ihm am folgenden Tage das Amt mit geringerem Endgrundgehalt oder Grundgehalt übertragen worden wäre. Ist von dieser Möglichkeit kein Gebrauch gemacht worden, ist der Beamte so zu behandeln, wie wenn er am Tage des Inkrafttretens dieses Gesetzes die seinem Amt entsprechende frühere Tätigkeit noch ausüben würde.
 
-(5) Die künftig wegfallenden Ämter, in denen die bei Inkrafttreten dieses Gesetzes vorhandenen Amtsinhaber verbleiben können, sind in einer Rechtsverordnung aufzuführen, die die Bundesregierung mit Zustimmung des Bundesrates erläßt. In die Rechtsverordnung können aufgenommen werden: Künftig wegfallende Ämter dürfen den Beamten nicht mehr verliehen werden. Einem Beamten, der ein künftig wegfallendes Amt innehat, kann jedoch im Wege der Beförderung ein ebenfalls als künftig wegfallend bezeichnetes Amt verliehen werden, sofern nicht eine Beförderung in ein in den Besoldungsordnungen A oder B ausgebrachtes Amt möglich ist.
+(5) Die künftig wegfallenden Ämter, in denen die bei Inkrafttreten dieses Gesetzes vorhandenen Amtsinhaber verbleiben können, sind in einer Rechtsverordnung aufzuführen, die die Bundesregierung mit Zustimmung des Bundesrates erläßt. In die Rechtsverordnung können aufgenommen werden:
 
-1.
+1. Ämter, die bei Inkrafttreten dieses Gesetzes in der Anlage I zum Bundesbesoldungsgesetz als künftig wegfallend aufgeführt waren,
 
-2.
+2. Ämter in Laufbahnen, in die keine Beamten mehr aufgenommen werden,
 
-3.
+3. Ämter der Ersten Landesanwälte in Baden-Württemberg in Besoldungsgruppe A 14a und der Ersten Staatsanwälte in Bayern bei der Staatsanwaltschaft bei einem Verwaltungsgericht in Besoldungsgruppe A 14 zuzüglich Amtszulage,
 
-4.
+4. Einzelämter sowie
 
-5.
+5. Ämter mit einer von der Regelamtsbezeichnung abweichenden Amtsbezeichnung in Laufbahnen, deren Spitzenämter oberhalb des Eingangsamtes der nächsthöheren Laufbahngruppe eingestuft sind.
 
 (6) Beamte mit einer Amtsbezeichnung, die sich aus einer Grundamtsbezeichnung im Sinne der Nummer 1 der Vorbemerkungen zu den Besoldungsordnungen A und B und einem Zusatz zusammensetzt, führen ihre bisherige Amtsbezeichnung bis zu einer Neuregelung über die Beifügung von Zusätzen zu den Amtsbezeichnungen weiter. Bis zu diesem Zeitpunkt können den vorhandenen und den neu eingestellten Beamten die bisherigen Amtsbezeichnungen im Sinne des Satzes 1 neu verliehen werden.
 
@@ -185,19 +181,13 @@ Soweit in Gesetzen und Verordnung der Begriff "Mehrarbeitsentschädigung" verwen
 
 (8) Ämter in Zwischenbesoldungsgruppen sind in eine Regelbesoldungsgruppe überzuleiten. Die in Absatz 5 Satz 2 Nr. 3 aufgeführten Ämter sind nach Besoldungsgruppe A 14 zuzüglich einer Amtszulage von 150 DM überzuleiten.
 
-> Art. IX § 4 Abs. 1 u. 2: Mit Art. 3 Abs. 1 GG nach Maßgabe der Entscheidungsformel unvereinbar BVerfGE v. 4.2.1981 I 415 - 2 BvR 590/76 -
-
 ### § 5 — Überleitung von Beamten bei Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts in den Ländern
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung unter Berücksichtigung der Grundsätze des § 4 die Ämter folgender Beamter überzuleiten und die künftig wegfallenden Ämter in diesem Bereich zu bestimmen:
 
-1.
+1. der Beamten der Gemeinden, Gemeindeverbände und der sonstigen der Aufsicht eines Landes unterstehenden Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts, die am Tage vor Inkrafttreten und am Tage des Inkrafttretens dieses Gesetzes im Amt waren, deren Ämter nicht in den Landesbesoldungsordnungen aufgeführt sind und bei denena)auf Grund dieses Gesetzes die Einstufung, Amtszulagen oder Amtsbezeichnungen geändert oder Amtszulagen eingeführt oder gestrichen werden, b)der künftige Wegfall auf Grund dieses Gesetzes erforderlich wird, auf Grund dieses Gesetzes die Einstufung, Amtszulagen oder Amtsbezeichnungen geändert oder Amtszulagen eingeführt oder gestrichen werden, der künftige Wegfall auf Grund dieses Gesetzes erforderlich wird,
 
-a)
-
-b)
-
-2.
+2. der Beamten, deren Ämter in den Rechtsverordnungen nach § 21 Abs. 1 und 2 und § 22 des Bundesbesoldungsgesetzes in der Fassung dieses Gesetzes geregelt sind und die am Tage vor Inkrafttreten und am Tage des Inkrafttretens der Rechtsverordnung im Amt waren.
 
 (2) Die Ermächtigung kann auf den oder die zuständigen Minister übertragen werden.
 
@@ -217,17 +207,15 @@ Wird bei Inkrafttreten dieses Gesetzes die nach den Funktionsbeschreibungen in d
 
 (2) Soweit durch dieses Gesetz Einstufungen, Amtszulagen, Amtsbezeichnungen oder Funktionsbezeichnungen zu Ämtern geändert werden sowie Amtszulagen oder Funktionsbezeichnungen zu Ämtern eingeführt werden, sind die hiervon betroffenen Ämter in einer Rechtsverordnung aufzuführen, die die Bundesregierung mit Zustimmung des Bundesrates erläßt. Als bisherige Besoldungsgruppe gilt die Besoldungsgruppe, der der Richter oder Staatsanwalt am Tage vor dem Inkrafttreten dieses Gesetzes angehörte. Die Staatsanwälte führen die neue Amtsbezeichnung. § 4 Abs. 2 Satz 4 gilt entsprechend.
 
-(3) Absatz 2 gilt für die in § 10 aufgeführten Ämter und Funktionen, wenn die in der Bundesbesoldungsordnung R angegebenen Einstufungsvoraussetzungen nicht erfüllt sind, mit der Maßgabe, daß überzuleiten sind.
+(3) Absatz 2 gilt für die in § 10 aufgeführten Ämter und Funktionen, wenn die in der Bundesbesoldungsordnung R angegebenen Einstufungsvoraussetzungen nicht erfüllt sind, mit der Maßgabe, daß
 
 (4) § 4 Abs. 4 gilt entsprechend. An die Stelle des § 19 des Beamtenrechtsrahmengesetzes tritt § 32 des Deutschen Richtergesetzes.
 
-(5) § 4 Abs. 5 gilt entsprechend. Richter, die am 30. Juni 1975 ein Beförderungsamt innehaben, das sich durch Funktionszusatz vom Eingangsamt abhebt, und deren Funktion vom 1. Juli 1975 an der Besoldungsgruppe R 1 zugeordnet ist, werden übergeleitet An die Stelle der bisherigen Funktionsbezeichnungen treten die vergleichbaren Funktionsbezeichnungen der Bundesbesoldungsordnung R.
+(5) § 4 Abs. 5 gilt entsprechend. Richter, die am 30. Juni 1975 ein Beförderungsamt innehaben, das sich durch Funktionszusatz vom Eingangsamt abhebt, und deren Funktion vom 1. Juli 1975 an der Besoldungsgruppe R 1 zugeordnet ist, werden übergeleitet
 
-1.
+1. nach Besoldungsgruppe R 1 zuzüglich einer Amtszulage von 75 DM - künftig wegfallend - im Falle einer bisher herausgehobenen Einstufung durch eine Amtszulage,
 
-2.
-
-> Art. IX § 8 Abs. 1 u. 2: Mit Art. 3 Abs. 1 GG nach Maßgabe der Entscheidungsformel unvereinbar, BVerfGE v. 4.2.1981 I 414 - 2 BvR 570/76 u. a. -
+2. nach Besoldungsgruppe R 1 zuzüglich einer Amtszulage von 150 DM - künftig wegfallend - im Falle einer bisher herausgehobenen Einstufung durch eine höhere Besoldungsgruppe oder durch eine ruhegehaltfähige Zulage zur Besoldungsgruppe R 1 des Gesetzes über die Amtsbezüge der Richter und Staatsanwälte des Landes Hessen vom 4. März 1970 (Gesetz- und Verordnungsblatt für das Land Hessen, Teil I S. 201).
 
 ### § 9 — Anwendung des § 38 Abs. 2 BBesG auf vorhandene Richter
 und Staatsanwälte
@@ -245,13 +233,13 @@ Wird bei Inkrafttreten dieses Gesetzes die nach der Fußnote 2 zur Besoldungsgru
 Änderung der Einstufung eines Amtes und bei Wegfall oder
 Änderung von ruhegehaltfähigen Zulagen
 
-(1) Verringern sich durch dieses Gesetz die Dienstbezüge oder Amtsbezüge eines Beamten, Richters oder Soldaten, weil so erhält er eine ruhegehaltfähige Überleitungszulage. Bei der Ruhegehaltfähigkeit werden die Mindestbeträge des Artikel II Nr. 2.3 und Nr. 9 angerechnet.
+(1) Verringern sich durch dieses Gesetz die Dienstbezüge oder Amtsbezüge eines Beamten, Richters oder Soldaten, weil
 
-1.
+1. das Amt anders eingestuft wird,
 
-2.
+2. eine ruhegehaltfähige Zulage wegfällt oder geändert wird,
 
-3.
+3. der neue Grundgehaltssatz von dem bisherigen abweicht,
 
 (2) Die Überleitungszulage wird in Höhe des Unterschiedsbetrags zwischen den bisherigen Dienstbezügen oder Amtsbezügen (Grundgehalt, Ortszuschlag, ruhegehaltfähige Zulagen, örtlicher Sonderzuschlag) und den nach diesem Gesetz zustehenden Dienstbezügen (Grundgehalt, Ortszuschlag, ruhegehaltfähige Zulagen, örtlicher Sonderzuschlag) gewährt. Sie wird hinsichtlich ruhegehaltfähiger Stellenzulagen nur solange gewährt, wie die bisherigen Anspruchsvoraussetzungen vorliegen.
 
@@ -259,26 +247,24 @@ Wird bei Inkrafttreten dieses Gesetzes die nach der Fußnote 2 zur Besoldungsgru
 
 (4) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, daß den hauptamtlichen Wahlbeamten auf Zeit der Gemeinden, Samtgemeinden, Verbandsgemeinden, Ämter und Kreise, die eine Überleitungszulage nach den Absätzen 1 bis 3 erhalten haben, die Überleitungszulage weitergewährt wird, wenn ihr Beamtenverhältnis wegen Ende der Amtszeit beendigt war und es durch eine unmittelbar darauf erfolgte Wiederwahl neu begründet worden ist. Die Ermächtigung zum Erlaß der Rechtsverordnung kann auf den zuständigen Minister übertragen werden.
 
-> Art. IX § 11: Mit Art. 3 Abs. 1 GG nach Maßgabe der Entscheidungsformeln unvereinbar, BVerfGE v. 4.2.1981 I 414 u. 415 - 2 BvR 570/76 u. a. und 2 BvR 590/76 -
-
 ### § 12 — Ausgleichszulage in anderen Fällen für Beamte, Richter
 und Soldaten
 
-(1) Verringern sich durch dieses Gesetz die Bezüge eines Beamten, Richters oder Soldaten, weil so erhält der Beamte, Richter oder Soldat eine nichtruhegehaltfähige Ausgleichszulage.
+(1) Verringern sich durch dieses Gesetz die Bezüge eines Beamten, Richters oder Soldaten, weil
 
-1.
+1. eine nichtruhegehaltfähige Zulage wegfällt oder geändert wird,
 
-2.
+2. Auslandsdienstbezüge geändert werden,
 
-3.
+3. Unterhaltszuschüsse einschließlich von Zulagen oder Bezüge anstelle von Unterhaltszuschüssen nach den bisherigen bundes- oder landesrechtlichen Vorschriften durch Anwärterbezüge ersetzt werden,
 
-(2) Die Ausgleichszulage wird gewährt. Die Ausgleichszulage wird nur solange gewährt, die die bisherigen Anspruchsvoraussetzungen für die Gewährung der Zulage oder der sonstigen Bezüge weiterhin erfüllt wären. Im Falle des Absatzes 1 Nr. 2 wird die Ausgleichszulage längstens für die Dauer von drei Jahren gewährt; ergibt sich durch die Neufestsetzung eines Kaufkraftausgleichs ein verringerter Kaufkraftzuschlag, so werden dem Kaufkraftausgleich abweichend von § 54 die bisherigen Dienstbezüge zugrunde gelegt.
+(2) Die Ausgleichszulage wird
 
-1.
+1. im Falle des Absatzes 1 Nr. 1 in Höhe des Unterschiedsbetrages zwischen der bisherigen und der neuen Zulage, bei Wegfall der Zulage in Höhe der bisherigen Zulage,
 
-2.
+2. im Falle des Absatzes 1 Nr. 2 in Höhe des Unterschiedsbetrages zwischen den bisherigen Auslandsdienstbezügen und den Auslandsdienstbezügen nach diesem Gesetz,
 
-3.
+3. im Falle des Absatzes 1 Nr. 3 in Höhe des Unterschiedsbetrages zwischen den bisherigen Unterhaltszuschüssen einschließlich von Zulagen oder zwischen den Bezügen anstelle von Unterhaltszuschüssen und den Anwärterbezügen nach diesem Gesetz
 
 (3) Die Ausgleichszulage verringert sich vom 1. Januar 1976 an um jeweils ein Drittel des Betrages, um den sich die Dienstbezüge (ohne Erschwerniszulagen und Vergütungen), im Falle des Absatzes 1 Nr. 3 die Anwärterbezüge auf Grund einer allgemeinen Besoldungsverbesserung erhöhen. Sie verringert sich ferner um jede sonstige Erhöhung der Dienstbezüge (Grundgehalt, Ortszuschlag, Stellenzulagen, örtlicher Sonderzuschlag), im Falle des Absatzes 1 Nr. 3 der Anwärterbezüge, mit Ausnahme einer Erhöhung durch eine Änderung der Stufe des Ortszuschlags.
 
@@ -294,19 +280,19 @@ Soweit durch dieses Gesetz eine ruhegehaltfähige Zulage durch eine nichtruhegeh
 
 (1) Die Rechtsvorschriften der Länder, soweit sie besoldungsrechtliche Vorschriften im Sinne des § 1 Abs. 1 bis 3 des Bundesbesoldungsgesetzes in der Fassung dieses Gesetzes enthalten, einschließlich des Gesetzes über die Amtsbezüge der Richter und Staatsanwälte vom 4. März 1970 (Gesetz- und Verordnungsblatt für das Land Hessen, Teil I S. 201), treten mit Ausnahme folgender Vorschriften außer Kraft:
 
-1.
+1. Vorschriften, die nach dem Bundesbesoldungsgesetz in der Fassung dieses Gesetzes weiterhin von den Ländern getroffen werden können, einschließlich der Vorschriften über Sachbezüge und Aufwandsentschädigungen sowie der Ermächtigungen zum Erlaß von Rechts- oder Verwaltungsvorschriften.
 
-2.
+2. Vorschriften über die Wahrung des Rechts- und Besitzstandes einschließlich der Vorschriften über Ausgleichszulagen und Ausgleichsabfindungen; diese Vorschriften dürfen nicht mehr zugunsten der Beamten und Richter geändert werden. Dies gilt nicht für Ämter in Zwischenbesoldungsgruppen.
 
-3.
+3. Vorschriften über die Rechtsstellung der in den Landtag oder den Bundestag gewählten Beamten und Richter; solche Vorschriften können auch nach Inkrafttreten dieses Gesetzes noch erlassen werden.
 
-4.
+4. Vorschriften über die Anrechnung anderen Arbeitseinkommens oder eines beamtenrechtlichen Unterhaltsbeitrags auf die Bezüge in den Fällen, in denen kein Dienst geleistet worden ist.
 
-5.
+5. § 33 Abs. 2 des Landesbesoldungsgesetzes für das Land Baden-Württemberg,
 
-6.
+6. § 4 Abs. 1 und Vorbemerkung Nr. 7 zur Besoldungsordnung A des Hamburgischen Besoldungsgesetzes,
 
-7.
+7. § 25a und § 30 des Besoldungsgesetzes für das Land Niedersachsen.
 
 (2) Soweit nach dem Bundesbesoldungsgesetz in der Fassung dieses Gesetzes die Bundesregierung ermächtigt ist, durch Rechtsverordnung bestimmte Bereiche zu regeln, bleiben die Vorschriften der Länder für diese Bereiche bis zum Inkrafttreten der jeweiligen Rechtsverordnung der Bundesregierung, oder, soweit diese Rechtsverordnung durch Rechtsverordnungen der Landesregierungen ausgefüllt werden muß, bis zum Inkrafttreten dieser Rechtsverordnungen in Kraft.
 
@@ -325,17 +311,9 @@ Die landesrechtlichen Vorschriften über Sonderzuwendungen und vermögenswirksam
 ### § 17 — Aufhebung von bundesrechtlichen Vorschriften über
 Abgelegenheitszulagen und anderen Zulagen
 
-(1) Die bundesrechtlichen Vorschriften über Zulagen, die wegen der Abgelegenheit einer Dienststelle gewährt werden, treten außer Kraft; dies gilt auch für die Zulagen oder Zuwendungen zur Abgeltung besonderer bei der Bewertung des Amtes nicht berücksichtigter Erschwernisse, die für diesen Bereich gewährt werden. Zuwendungen zur Abgeltung von Aufwand auf Grund von in Satz 1 bezeichneten Tatbeständen dürfen nicht gewährt werden.
-
-(2) § 2 Abs. 4 des Ersten Besoldungsneuregelungsgesetzes vom 6. Juli 1967 (Bundesgesetzbl. I S. 629) wird gestrichen. Sieht ein völkerrechtlicher Vertrag für einen Dienstort im Ausland die Gewährung einer Zulage vor, so bleibt die Zulage für Beamte mit dienstlichem Wohnsitz an diesem Ort aufrechterhalten.
-
 > Art. IX § 17 Abs. 1 Satz 1 u. Abs. 2 Satz 1 u. § 18: Kursivdruck: Aufhebungsvorschriften
 
 ### § 18 — Aufhebung von Vorschriften über Erschwerniszulagen
-
-Die bundesrechtlichen Vorschriften über die Gewährung von Erschwerniszulagen treten außer Kraft, soweit sie die Gewährung der Zulagen für den Dienst bei Justizvollzugsanstalten und den Vollzugsdienst der Berufsfeuerwehr betreffen.
-
-> Art. IX § 17 Abs. 1 Satz 1 u. Abs. 2 Satz 1 u. § 18: Kursivdruck: Aufhebungsvorschriften
 
 ### § 19 — Ortszuschlag für Kasernierte
 
@@ -380,13 +358,13 @@ Artikel V des Zweiten Bundesbesoldungserhöhungsgesetzes ist mit Wirkung vom Ink
 
 Artikel VII dieses Gesetzes ist erstmalig mit folgenden Maßgaben anzuwenden:
 
-1.
+1. Der durchschnittliche Hundertsatz der allgemeinen Erhöhung der Dienstbezüge im Sinne des Artikels VII § 1 Abs. 3 dieses Gesetzes wird für das Dritte Bundesbesoldungserhöhungsgesetz vom 26. Juli 1974 (Bundesgesetzbl. I S. 1557) auf 11,4 vom Hundert festgestellt.
 
-2.
+2. Feststellungszeitraum im Sinne des Artikels VII § 3 Abs. 4 dieses Gesetzes ist die Zeit vom 1. Dezember 1973 bis zum 1. Juli 1974.
 
-3.
+3. Vergleichsmonat des Vorjahres im Sinne des Artikels VII § 3 Abs. 3 dieses Gesetzes ist der Monat Dezember 1973. Die obersten Bundesbehörden oder die von diesen ermächtigten Stellen und die für das Besoldungsrecht zuständigen Minister der Länder teilen dem Bundesminister des Innern, für Bau und Heimat bis zum Ersten des auf das Inkrafttreten dieses Gesetzes folgenden Monats die Zahl der Besoldungsberechtigten (Artikel VII § 3 Abs. 1 dieses Gesetzes) am 1. Dezember 1973 und am 1. Juli 1974 und den für diesen Personenkreis im Monat Dezember 1973 und im Monat Juli 1974 entstandenen Besoldungsaufwand (Artikel VII § 3 Abs. 1 dieses Gesetzes) mit; die sachliche und rechnerische Richtigkeit der Angaben ist festzustellen.
 
-4.
+4. Den für den Feststellungszeitraum nach Nummer 2 festgestellten Anpassungszuschlag gibt der Bundesminister des Innern, für Bau und Heimat bis zum Ersten des auf das Inkrafttreten dieses Gesetzes folgenden zweiten Monats im Bundesanzeiger bekannt. Der Anpassungszuschlag wird den am 30. November 1973 vorhandenen Versorgungsempfängern mit Wirkung vom Inkrafttreten dieses Gesetzes an gewährt; Entsprechendes gilt für ihre Hinterbliebenen.
 
 ### § 27 — Übergangsregelung für Stufenlehrer
 
@@ -411,19 +389,19 @@ Hochschulen
 
 (2) Die gemäß § 75 Abs. 2 und 3 des Hochschulrahmengesetzes in die Rechtsstellung von Professoren überzuleitenden oder zu übernehmenden Beamten sind durch die gemäß § 72 Abs. 1 des genannten Gesetzes zu erlassenden Landesgesetze nach folgenden Grundsätzen einzuordnen:
 
-a)
+a) als Professor in die Besoldungsgruppe C 4 Professoren an Hochschulen (außer Fachhochschulen) oder entsprechenden Einrichtungen in Besoldungsgruppen, deren Grundgehälter mindestens denen der Besoldungsgruppe A 16 entsprechen, Professoren an Hochschulen (außer Fachhochschulen) oder entsprechenden Einrichtungen, die nach geltendem Recht ein Sondergrundgehalt oder einen ruhegehaltfähigen Zuschuß zum Grundgehalt beziehen und dadurch das Endgrundgehalt der Besoldungsgruppe A 15 überschreiten, Professoren, die emeritierungsberechtigt sind und einer Besoldungsgruppe angehören, deren Grundgehälter mindestens denen der Besoldungsgruppe A 15 entsprechen, Direktoren von Kunsthochschulen in Besoldungsgruppen, deren Grundgehälter mindestens denen der Besoldungsgruppe A 16 entsprechen;
 
-b)
+b) als Professor in die Besoldungsgruppe C 3 die folgenden Beamten auf Lebenszeit: Abteilungsdirektoren (und Professoren), Abteilungsvorsteher (und Professoren), soweit sie sich in Besoldungsgruppen befinden, deren Grundgehälter mindestens denen der Besoldungsgruppe A 15 entsprechen, Wissenschaftliche Räte (und Professoren), soweit sie sich in Besoldungsgruppen befinden, deren Grundgehälter mindestens denen der Besoldungsgruppe A 15 entsprechen, Professoren an Hochschulen (außer Fachhochschulen), soweit sie sich in Besoldungsgruppen befinden, deren Grundgehälter mindestens denen der Besoldungsgruppe A 15 entsprechen, und nicht unter Buchstabe a fallen;
 
-c)
+c) als Professor in die Besoldungsgruppe C 2 die folgenden Beamten auf Lebenszeit, soweit sie nicht unter Buchstaben a oder b fallen: Abteilungsvorsteher (und Professoren), Wissenschaftliche Räte (und Professoren), Professoren an Hochschulen (außer Fachhochschulen), Dozenten an Hochschulen (außer Fachhochschulen) oder entsprechenden Einrichtungen.
 
 (3) Werden nachstehend genannte Beamte in das Amt des Professors übernommen, sind sie wie folgt einzuordnen:
 
-a)
+a) in die Besoldungsgruppe C 3 Leitende Oberärzte, Oberärzte, Dozenten an Hochschulen in der Stellung eines außerplanmäßigen Professors;
 
-b)
+b) höchstens in die Besoldungsgruppe C 3 andere Beamte in Besoldungsgruppen, deren Grundgehälter mindestens denen der Besoldungsgruppe A 15 entsprechen;
 
-c)
+c) nach Maßgabe sachgerechter Bewertung in die Besoldungsgruppe C 2 oder C 3 die nicht unter Buchstaben a und b bezeichneten Beamten; die Einordnung in die Besoldungsgruppe C 3 darf nur vorgenommen werden, soweit dadurch die in § 35 des Bundesbesoldungsgesetzes bezeichneten Obergrenzen nicht überschritten werden.
 
 ### § 3 — Überführung der wissenschaftlichen und künstlerischen
 Mitarbeiter
@@ -453,19 +431,13 @@ Bundesbesoldungsordnung C
 
 (3) Professoren der Besoldungsgruppen C 3 und C 2, deren neues Grundgehalt niedriger ist als der Gesamtbetrag von Grundgehalt, Stellenzulage und Monatsbetrag des Kolleggeldpauschales, der ihnen beim Verbleiben in ihrem bisherigen Amt jeweils zugestanden hätte, erhalten eine nichtruhegehaltfähige Ausgleichszulage in Höhe des jeweiligen Unterschiedsbetrages; die Ausgleichszulage ist ruhegehaltfähig, soweit sie zum Ausgleich des Grundgehalts oder einer ruhegehaltfähigen Stellenzulage dient. Satz 1 gilt sinngemäß für Hochschulassistenten. Als Kolleggeldpauschale gelten auch entsprechende unter anderer Bezeichnung gewährte pauschalierte Abfindungen für die Unterrichtstätigkeit. Soweit Professoren bisher an Stelle des Kolleggeldpauschales ein Unterrichtsgeld erhalten haben, tritt der in den letzten zwölf Monaten vor dem 1. Juli 1978 auf einen Monat durchschnittlich entfallende Anteil an die Stelle des Monatsbetrages des Kolleggeldpauschales.
 
-(4) Professoren der Besoldungsgruppe C 4, deren neues Grundgehalt unter Berücksichtigung des Absatzes 2 niedriger ist als der Gesamtbetrag von Grundgehalt (oder Sondergrundgehalt), Zuschuß zur Ergänzung des Grundgehalts und Monatsbetrag des Kolleggeldpauschales, der ihnen in ihrem bisherigen Amt zuletzt zugestanden hat, erhalten den Unterschiedsbetrag als Zuschuß nach Nummern 1 und 2 der Vorbemerkungen zur Bundesbesoldungsordnung C. Der Unterschiedsbetrag gilt Satz 2 ist auf Beamte im Sinne des § 2 Abs. 2 Buchstabe a, die nicht die Rechtsstellung eines ordentlichen Professors hatten, entsprechend anzuwenden.
+(4) Professoren der Besoldungsgruppe C 4, deren neues Grundgehalt unter Berücksichtigung des Absatzes 2 niedriger ist als der Gesamtbetrag von Grundgehalt (oder Sondergrundgehalt), Zuschuß zur Ergänzung des Grundgehalts und Monatsbetrag des Kolleggeldpauschales, der ihnen in ihrem bisherigen Amt zuletzt zugestanden hat, erhalten den Unterschiedsbetrag als Zuschuß nach Nummern 1 und 2 der Vorbemerkungen zur Bundesbesoldungsordnung C. Der Unterschiedsbetrag gilt
 
-a)
+a) als ruhegehaltfähiger Zuschuß im Sinne von Nummer 2 (Sonderzuschuß) der in Satz 1 bezeichneten Vorbemerkungen, soweit das neue Grundgehalt niedriger ist als der ruhegehaltfähige Anteil des in Satz 1 bezeichneten Gesamtbetrages; dabei gilt der Monatsbetrag des Kolleggeldpauschales in Höhe von 250 DM als ruhegehaltfähig;
 
-b)
+b) als Zuschuß im Sinne von Nummer 1 der in Satz 1 bezeichneten Vorbemerkungenaa)bis zum Betrage des Unterschiedes zwischen dem Endgrundgehalt der Besoldungsgruppe C 4 und dem Grundgehalt der Besoldungsgruppe B 5, wenn die Bezüge auf Grund einer Berufung von einer Planstelle für ordentliche Professoren in eine Planstelle für ordentliche Professoren oder auf Grund einer Bleibeverhandlung zur Abwendung einer solchen Berufung erhöht worden sind,oderbb)bis zum Betrage des Unterschiedes zwischen dem Endgrundgehalt der Besoldungsgruppe C 4 und dem Grundgehalt der Besoldungsgruppe B 7, wenn die Bezüge auf Grund einer und mindestens einer weiteren Berufung oder Bleibeverhandlung im Sinne des Buchstaben aa erhöht worden sind; bis zum Betrage des Unterschiedes zwischen dem Endgrundgehalt der Besoldungsgruppe C 4 und dem Grundgehalt der Besoldungsgruppe B 5, wenn die Bezüge auf Grund einer Berufung von einer Planstelle für ordentliche Professoren in eine Planstelle für ordentliche Professoren oder auf Grund einer Bleibeverhandlung zur Abwendung einer solchen Berufung erhöht worden sind, oder bis zum Betrage des Unterschiedes zwischen dem Endgrundgehalt der Besoldungsgruppe C 4 und dem Grundgehalt der Besoldungsgruppe B 7, wenn die Bezüge auf Grund einer und mindestens einer weiteren Berufung oder Bleibeverhandlung im Sinne des Buchstaben aa erhöht worden sind;
 
-aa)
-
-bb)
-
-c)
-
-(5) Für die aus einem privatrechtlichen Arbeitsverhältnis in ein Beamtenverhältnis übernommenen Professoren und Hochschulassistenten an Hochschulen der Bundeswehr gelten die Absätze 2, 3 und 4 entsprechend.Dabei erhalten Professoren der Besoldungsgruppe C 4, deren neues Grundgehalt niedriger ist als die bisherige Grundvergütung, eine ruhegehaltfähige Ausgleichszulage in Höhe des Unterschiedsbetrages zwischen der bisherigen Grundvergütung und dem neuen Grundgehalt. Der Gesamtbetrag von Ausgleichszulage und zukünftig nach den Vorbemerkungen Nummer 1 und Nummer 2 zur Bundesbesoldungsordnung C gewährten Zuschüssen darf die Summe der in diesen beiden Bestimmungen genannten Höchstbeträge nicht überschreiten.
+c) im übrigen als nichtruhegehaltfähiger Zuschuß im Sinne von Nummer 2 (Sonderzuschuß) der in Satz 1 bezeichneten Vorbemerkungen. Soweit die Summe dieses Zuschusses und des Zuschusses nach Buchstabe a den Höchstbetrag des Zuschusses nach Nummer 2 der in Satz 1 bezeichneten Vorbemerkungen übersteigt, gilt der Unterschiedsbetrag als Zuschuß im Sinne von Nummer 1 dieser Vorbemerkungen.
 
 ## Art XI: Schlußvorschriften
 
@@ -483,10 +455,10 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgeset
 
 (2) Abweichend von Absatz 1 treten in Kraft:
 
-1.
+1. Artikel I § 73, Artikel III § 1, Artikel IX § 3 Abs. 2 mit Wirkung vom 1. Januar 1974;
 
-2.
+2. Artikel I §§ 76, 77 mit Wirkung vom 1. Januar 1975;
 
-3.
+3. Artikel I Anlage I Vorbemerkung Nr. 8 zu den Bundesbesoldungsordnungen A und B am 1. Januar 1977.
 
 (3)

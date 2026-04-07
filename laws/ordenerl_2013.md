@@ -19,8 +19,4 @@ Dieser Erlass tritt am Tag nach der Verkündung in Kraft.
 
 ### Schlussformel
 
-Der Bundespräsident
-
 ### Anlage
-
-(Fundstelle: BGBl. I 2013, 2233 - 2235)(Text der Anlage siehe: FluchthilfeMedErl 2013)

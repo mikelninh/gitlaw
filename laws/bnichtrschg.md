@@ -10,11 +10,11 @@
 
 (1) Das Rauchen von Tabak- und Cannabisprodukten, einschließlich der Benutzung von elektronischen Zigaretten und erhitzten Tabakerzeugnissen sowie von Geräten zur Verdampfung von Tabak- und Cannabisprodukten ist nach Maßgabe der Absätze 2 und 3 verboten
 
-1.
+1. in Einrichtungen des Bundes sowie der Verfassungsorgane des Bundes,
 
-2.
+2. in Verkehrsmitteln des öffentlichen Personenverkehrs,
 
-3.
+3. in Personenbahnhöfen der öffentlichen Eisenbahnen.
 
 (2) Das Rauchverbot nach Absatz 1 gilt in Gebäuden und sonstigen vollständig umschlossenen Räumen; es gilt nicht für Räume, die Wohn- oder Übernachtungszwecken dienen und den Bewohnerinnen und Bewohnern zur alleinigen Nutzung überlassen sind.
 
@@ -24,29 +24,13 @@
 
 ### § 2 — Begriffsbestimmungen
 
-1.
+1. Einrichtungen des Bundes im Sinne dieses Gesetzes sinda)Behörden, Dienststellen, Gerichte und sonstige öffentliche Einrichtungen des Bundes,b)bundesunmittelbare Körperschaften, Anstalten und Stiftungen. Behörden, Dienststellen, Gerichte und sonstige öffentliche Einrichtungen des Bundes, bundesunmittelbare Körperschaften, Anstalten und Stiftungen.
 
-a)
+2. Verkehrsmittel des öffentlichen Personenverkehrs im Sinne dieses Gesetzes sinda)die zur Beförderung von Personen benutzten Eisenbahnfahrzeuge der öffentlichen Eisenbahnen nach § 3 Abs. 1 des Allgemeinen Eisenbahngesetzes,b)zur Beförderung von Personen eingesetzte Straßenbahnen, Oberleitungsomnibusse und Kraftfahrzeuge, soweit die Beförderung den Vorschriften des Personenbeförderungsgesetzes oder § 1 Nr. 4 Buchstabe d, g oder Buchstabe i der Freistellungs-Verordnung unterliegt,c)Luftfahrzeuge, die für die gewerbsmäßige oder entgeltliche Beförderung von Personen oder für gewerbsmäßige Rundflüge eingesetzt werden,d)Fahrgastschiffe, die Fahrgäste im Linienverkehr befördern. die zur Beförderung von Personen benutzten Eisenbahnfahrzeuge der öffentlichen Eisenbahnen nach § 3 Abs. 1 des Allgemeinen Eisenbahngesetzes, zur Beförderung von Personen eingesetzte Straßenbahnen, Oberleitungsomnibusse und Kraftfahrzeuge, soweit die Beförderung den Vorschriften des Personenbeförderungsgesetzes oder § 1 Nr. 4 Buchstabe d, g oder Buchstabe i der Freistellungs-Verordnung unterliegt, Luftfahrzeuge, die für die gewerbsmäßige oder entgeltliche Beförderung von Personen oder für gewerbsmäßige Rundflüge eingesetzt werden, Fahrgastschiffe, die Fahrgäste im Linienverkehr befördern.
 
-b)
+3. Personenbahnhöfe der öffentlichen Eisenbahnen im Sinne dieses Gesetzes sind solche nach § 3 Absatz 1 des Allgemeinen Eisenbahngesetzes in Verbindung mit Anlage 2 Nummer 2 Buchstabe a des Eisenbahnregulierungsgesetzes.
 
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-3.
-
-4.
-
-a)
-
-b)
+4. Räume im Sinne dieses Gesetzes sinda)baulich abgetrennte Einheiten eines Gebäudes,b)räumlich abgetrennte Einheiten eines Verkehrsmittels. baulich abgetrennte Einheiten eines Gebäudes, räumlich abgetrennte Einheiten eines Verkehrsmittels.
 
 ### § 3 — Hinweispflicht
 

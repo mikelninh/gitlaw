@@ -14,37 +14,29 @@
 
 (1) Dieses Gesetz regelt die Einzelheiten der Amtshilfe zwischen Deutschland und den anderen Mitgliedstaaten der Europäischen Union (Mitgliedstaaten) zur Geltendmachung von in den Mitgliedstaaten entstandenen Forderungen. Forderungen im Sinne dieses Gesetzes sind
 
-1.
+1. Steuern und Abgaben aller Art, die erhoben werden a)von einem oder für einen Mitgliedstaat oder dessen Gebiets- oder Verwaltungseinheiten einschließlich der lokalen Behörden oderb)für die Europäische Union; von einem oder für einen Mitgliedstaat oder dessen Gebiets- oder Verwaltungseinheiten einschließlich der lokalen Behörden oder für die Europäische Union;
 
-a)
+2. Erstattungen, Interventionen und andere Maßnahmen, die Bestandteil des Systems der vollständigen Finanzierung oder Teilfinanzierung des Europäischen Garantiefonds für die Landwirtschaft oder des Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums sind, einschließlich der im Rahmen dieser Aktionen zu erhebenden Beiträge;
 
-b)
-
-2.
-
-3.
+3. Abschöpfungen und andere Abgaben im Rahmen der gemeinsamen Organisation der Agrarmärkte für den Sektor Zucker.
 
 (2) Der Anwendungsbereich dieses Gesetzes umfasst auch
 
-1.
+1. Geldstrafen, Geldbußen, Gebühren und Zuschläge in Bezug auf Forderungen, a)für deren Beitreibung gemäß Absatz 1 um Amtshilfe ersucht werden kann undb)die von den Behörden, die für die Erhebung der betreffenden Steuern oder Abgaben oder die Durchführung der dafür erforderlichen behördlichen Ermittlungen zuständig sind, verhängt wurden oder von Verwaltungsorganen oder Gerichten auf Antrag dieser Behörden bestätigt wurden; für deren Beitreibung gemäß Absatz 1 um Amtshilfe ersucht werden kann und die von den Behörden, die für die Erhebung der betreffenden Steuern oder Abgaben oder die Durchführung der dafür erforderlichen behördlichen Ermittlungen zuständig sind, verhängt wurden oder von Verwaltungsorganen oder Gerichten auf Antrag dieser Behörden bestätigt wurden;
 
-a)
+2. Gebühren für Bescheinigungen und ähnliche Dokumente, die im Zusammenhang mit Verwaltungsverfahren in Bezug auf Steuern oder Abgaben ausgestellt werden;
 
-b)
-
-2.
-
-3.
+3. Zinsen und Kosten im Zusammenhang mit Forderungen, für deren Beitreibung gemäß Absatz 1 oder gemäß den Nummern 1 und 2 um Amtshilfe ersucht werden kann.
 
 (3) Der Anwendungsbereich dieses Gesetzes umfasst nicht
 
-1.
+1. Beiträge und Umlagen sowie damit verbundene Abgaben und Gebühren nach dem Sozialgesetzbuch, den in § 68 des Ersten Buches Sozialgesetzbuch genannten Gesetzen und dem Aufwendungsausgleichsgesetz;
 
-2.
+2. andere als die in Absatz 2 genannten Gebühren;
 
-3.
+3. vertragliche Gebühren, wie Zahlungen an öffentliche Versorgungsbetriebe;
 
-4.
+4. strafrechtliche Sanktionen, die auf der Grundlage einer Anklageerhebung im Strafverfahren verhängt werden, oder andere strafrechtliche Sanktionen, die nicht von Absatz 2 Nummer 1 erfasst sind.
 
 (4) Für Ersuchen nach diesem Gesetz gelten die Vorschriften der Abgabenordnung entsprechend, soweit dieses Gesetz nicht etwas anderes bestimmt. Zur Ausführung der Abgabenordnung hat das Bundesministerium der Finanzen Verwaltungsvorschriften erlassen.
 
@@ -52,53 +44,33 @@ b)
 
 (1) „Person“ ist
 
-1.
+1. eine natürliche Person,
 
-2.
+2. eine juristische Person,
 
-3.
+3. eine Personenvereinigung, der die Rechtsfähigkeit zuerkannt wurde, die aber nicht über die Rechtsstellung einer juristischen Person verfügt, oder
 
-4.
+4. jede andere Rechtsform gleich welcher Art, mit oder ohne allgemeine Rechtsfähigkeit, die Vermögensgegenstände besitzt oder verwaltet, welche einschließlich der daraus erzielten Einkünfte einer der in § 1 erfassten Steuern unterliegen.
 
 (2) Beitreibungsrichtlinie im Sinne dieses Gesetzes sowie des Einkommensteuergesetzes, des Körperschaftsteuergesetzes und des Gewerbesteuergesetzes bezeichnet die Richtlinie 2010/24/EU des Rates vom 16. März 2010 über die Amtshilfe bei der Beitreibung von Forderungen in Bezug auf bestimmte Steuern, Abgaben und sonstige Maßnahmen (ABl. L 84 vom 31.3.2010, S. 1) in der jeweils geltenden Fassung.
 
 ### § 3 — Zuständigkeit und Prüfungsbefugnisse für Ersuchen
 
-(1) Das Bundesministerium der Finanzen ist zuständige Behörde ausschließlich im Sinne von Artikel 4 Absatz 1 der Beitreibungsrichtlinie und zentrales Verbindungsbüro im Sinne von Artikel 4 Absatz 2 der Beitreibungsrichtlinie. Für die Prüfung und Bearbeitung von Ersuchen werden die folgenden Verbindungsbüros benannt: Die Verbindungsbüros übernehmen die Kommunikation mit den ersuchenden Behörden, den anderen Verbindungsbüros oder der Europäischen Kommission. Die Verbindungsbüros prüfen Ersuchen auf ihre Zulässigkeit nach diesem Gesetz und bearbeiten diese. Ihnen obliegt außerdem die Prüfung, ob die Amtshilfe gemäß § 14 Absatz 2 zu unterbleiben hat.
+(1) Das Bundesministerium der Finanzen ist zuständige Behörde ausschließlich im Sinne von Artikel 4 Absatz 1 der Beitreibungsrichtlinie und zentrales Verbindungsbüro im Sinne von Artikel 4 Absatz 2 der Beitreibungsrichtlinie. Für die Prüfung und Bearbeitung von Ersuchen werden die folgenden Verbindungsbüros benannt:
 
-1.
+1. in den Fällen des § 5 Absatz 1 Nummer 5 des Finanzverwaltungsgesetzes das Bundeszentralamt für Steuern,
 
-2.
+2. für den Bereich der Zollverwaltung gemäß § 12 Absatz 2 des Finanzverwaltungsgesetzes die Bundesstelle Vollstreckung Zoll beim Hauptzollamt Hannover.
 
 (2) Eingehende Ersuchen werden nach entsprechender Prüfung gemäß Absatz 1 Satz 4 und 5 von den Verbindungsbüros an die für die Durchführung der Amtshilfe in § 4 Absatz 1 genannten Vollstreckungsbehörden weitergeleitet. Ausgehende Ersuchen werden von den in § 4 Absatz 1 oder Absatz 2 genannten Vollstreckungsbehörden erstellt und über die Verbindungsbüros nach entsprechender Prüfung gemäß Absatz 1 Satz 4 an die zuständige ausländische Behörde geleitet.
 
 ### § 4 — Zuständigkeit für die Vollstreckung eingehender Ersuchen
 
-(1) Folgende Behörden nehmen nach Maßgabe dieses Gesetzes Amtshilfe in Anspruch und leisten danach Amtshilfe (Vollstreckungsbehörden): Die örtliche Zuständigkeit richtet sich nach dem Dritten Abschnitt des Ersten Teils der Abgabenordnung entsprechend.
+(1) Folgende Behörden nehmen nach Maßgabe dieses Gesetzes Amtshilfe in Anspruch und leisten danach Amtshilfe (Vollstreckungsbehörden):
 
-1.
+1. die Finanzämter für Forderungen a)von Steuern vom Einkommen, Ertrag oder Vermögen,b)von Umsatzsteuern, soweit diese nicht als Einfuhrabgaben geschuldet werden,c)von sonstigen Steuern und Abgaben im Sinne des § 1 Absatz 1 Nummer 1, soweit nicht die Hauptzollämter zuständig sind,d)gemäß § 1 Absatz 2, soweit sie mit den in den Buchstaben a bis c genannten Steuern zusammenhängen; von Steuern vom Einkommen, Ertrag oder Vermögen, von Umsatzsteuern, soweit diese nicht als Einfuhrabgaben geschuldet werden, von sonstigen Steuern und Abgaben im Sinne des § 1 Absatz 1 Nummer 1, soweit nicht die Hauptzollämter zuständig sind, gemäß § 1 Absatz 2, soweit sie mit den in den Buchstaben a bis c genannten Steuern zusammenhängen;
 
-a)
-
-b)
-
-c)
-
-d)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
+2. die Hauptzollämter für a)Erstattungen, Interventionen und andere Maßnahmen des Europäischen Garantiefonds für die Landwirtschaft und des Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums nach den Verordnungen (EG) Nr. 1290/2005 des Rates vom 21. Juni 2005 über die Finanzierung der Gemeinsamen Agrarpolitik (ABl. L 209 vom 11.8.2005, S. 1), die zuletzt durch die Verordnung (EG) Nr. 473/2009 (ABl. L 144 vom 9.6.2009, S. 3) geändert worden ist, und (EG) Nr. 1698/2005 des Rates vom 20. September 2005 über die Förderung der Entwicklung des ländlichen Raums durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ABl. L 277 vom 21.10.2005, S. 1, L 67 vom 11.3.2008, S. 22), die zuletzt durch die Verordnung (EG) Nr. 473/2009 (ABl. L 144 vom 9.6.2009, S. 3) geändert worden ist, in der jeweils geltenden Fassung,b)Abschöpfungen und andere Abgaben im Sektor Zucker nach der Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober 2007 über eine gemeinsame Organisation der Agrarmärkte und mit Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse (ABl. L 299 vom 16.11.2007, S. 1) in der jeweils geltenden Fassung,c)Einfuhr- und Ausfuhrabgaben,d)Verbrauchsteuern,e)sonstige Steuern, deren Festsetzung, Erhebung oder Vollstreckung ebenfalls in die Zuständigkeit der Zollverwaltung fallen,f)Forderungen gemäß § 1 Absatz 2, soweit sie mit den in den Buchstaben a bis e genannten Abgaben und Steuern zusammenhängen. Erstattungen, Interventionen und andere Maßnahmen des Europäischen Garantiefonds für die Landwirtschaft und des Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums nach den Verordnungen (EG) Nr. 1290/2005 des Rates vom 21. Juni 2005 über die Finanzierung der Gemeinsamen Agrarpolitik (ABl. L 209 vom 11.8.2005, S. 1), die zuletzt durch die Verordnung (EG) Nr. 473/2009 (ABl. L 144 vom 9.6.2009, S. 3) geändert worden ist, und (EG) Nr. 1698/2005 des Rates vom 20. September 2005 über die Förderung der Entwicklung des ländlichen Raums durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ABl. L 277 vom 21.10.2005, S. 1, L 67 vom 11.3.2008, S. 22), die zuletzt durch die Verordnung (EG) Nr. 473/2009 (ABl. L 144 vom 9.6.2009, S. 3) geändert worden ist, in der jeweils geltenden Fassung, Abschöpfungen und andere Abgaben im Sektor Zucker nach der Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober 2007 über eine gemeinsame Organisation der Agrarmärkte und mit Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse (ABl. L 299 vom 16.11.2007, S. 1) in der jeweils geltenden Fassung, Einfuhr- und Ausfuhrabgaben, Verbrauchsteuern, sonstige Steuern, deren Festsetzung, Erhebung oder Vollstreckung ebenfalls in die Zuständigkeit der Zollverwaltung fallen, Forderungen gemäß § 1 Absatz 2, soweit sie mit den in den Buchstaben a bis e genannten Abgaben und Steuern zusammenhängen.
 
 (2) Die Gemeinden und Gemeindeverbände können Amtshilfe nach Maßgabe dieses Gesetzes in Anspruch nehmen. Sie gelten insoweit als Vollstreckungsbehörde im Sinne dieses Gesetzes.
 
@@ -112,11 +84,11 @@ f)
 
 (2) Das Verbindungsbüro erteilt keine Auskünfte,
 
-1.
+1. die für die Beitreibung derartiger Forderungen nicht beschafft werden könnten, wenn sie in Deutschland entstanden wären;
 
-2.
+2. mit denen ein Handels-, Gewerbe- oder Berufsgeheimnis preisgegeben würde;
 
-3.
+3. die die Sicherheit oder die öffentliche Ordnung des Bundes oder eines Landes verletzen würden.
 
 (3) Absatz 2 ist in keinem Fall so auszulegen, dass die Erteilung von Auskünften nur deshalb abgelehnt werden kann, weil die betreffenden Informationen sich bei einer Bank, einem sonstigen Finanzinstitut, einem Bevollmächtigten, Vertreter oder Treuhänder befinden oder sich auf Eigentumsanteile an einer Person beziehen.
 
@@ -160,21 +132,17 @@ f)
 
 ### § 10 — Beitreibungsersuchen in andere Mitgliedstaaten
 
-(1) Ein Verbindungsbüro kann Beitreibungsersuchen in einen anderen Mitgliedstaat stellen, wenn Satz 1 Nummer 2 gilt nicht, sofern der Einspruch offensichtlich aussichtslos ist beziehungsweise nicht in angemessener Zeit begründet wird und lediglich der Verzögerung der Vollstreckung dient. Ersuchen um Beitreibung angefochtener Forderungen sind nur ausnahmsweise zu stellen und auch nur zulässig, sofern die geltenden Rechts- und Verwaltungsvorschriften und die Verwaltungspraxis des ersuchten Mitgliedstaates dies zulassen; ein solches Ersuchen ist zu begründen.
+(1) Ein Verbindungsbüro kann Beitreibungsersuchen in einen anderen Mitgliedstaat stellen, wenn
 
-1.
+1. die Voraussetzungen für die Vollstreckung gegeben sind und
 
-2.
+2. die Forderung nicht angefochten ist oder nicht mehr angefochten werden kann.
 
 (2) Die Vollstreckungsbehörde muss zuvor alle nach der Abgabenordnung vorgesehenen Vollstreckungsmöglichkeiten ausgeschöpft haben, es sei denn,
 
-1.
+1. es ist offensichtlich, dass a)keine Vermögensgegenstände für die Vollstreckung in Deutschland vorhanden sind oderb)Vollstreckungsverfahren in Deutschland nicht zur vollständigen Begleichung der Forderung führen,und der Vollstreckungsbehörde oder dem Verbindungsbüro konkrete Informationen vorliegen, wonach Vermögensgegenstände der betreffenden Person im ersuchten Mitgliedstaat vorhanden sind; keine Vermögensgegenstände für die Vollstreckung in Deutschland vorhanden sind oder Vollstreckungsverfahren in Deutschland nicht zur vollständigen Begleichung der Forderung führen,
 
-a)
-
-b)
-
-2.
+2. die Durchführung solcher Vollstreckungsmaßnahmen wäre in Deutschland mit unverhältnismäßigen Schwierigkeiten verbunden.
 
 (3) Jedem Beitreibungsersuchen ist der für alle Mitgliedstaaten einheitliche Vollstreckungstitel, dessen Inhalt im Wesentlichen dem des ursprünglichen Vollstreckungstitels entspricht, beizufügen, der die alleinige Grundlage für die im anderen Mitgliedstaat zu ergreifenden Beitreibungs- und Sicherungsmaßnahmen ist. Er muss im anderen Mitgliedstaat weder durch einen besonderen Akt anerkannt noch ergänzt oder ersetzt werden. Dem Beitreibungsersuchen können weitere Dokumente, die im Zusammenhang mit der Forderung stehen, beigefügt werden.
 
@@ -198,9 +166,9 @@ b)
 
 (2) Das Verbindungsbüro kann nach entsprechender Erstellung durch die Vollstreckungsbehörde ein Ersuchen um Sicherungsmaßnahmen stellen, wenn
 
-1.
+1. die Forderung oder der Vollstreckungstitel zum Zeitpunkt der Stellung des Ersuchens angefochten ist oder
 
-2.
+2. ein Ersuchen um Beitreibung aus anderen Gründen noch nicht gestellt werden kann.
 
 (3) Einem ausgehenden Ersuchen um Sicherungsmaßnahmen ist das Dokument, das in Deutschland Sicherungsmaßnahmen in Bezug auf die Forderung ermöglicht, beizufügen. Dem Ersuchen können weitere in Deutschland ausgestellte Dokumente beigefügt werden.
 
@@ -208,17 +176,11 @@ b)
 
 ### § 13 — Streitigkeiten
 
-(1) Stellt das Verbindungsbüro ein Ersuchen, so sind die nach dem Dritten Abschnitt des Ersten Teils der Abgabenordnung zuständigen Behörden oder die nach Abschnitt V des Ersten Teils der Finanzgerichtsordnung zuständigen Gerichte zuständig für Dies gilt auch für Streitigkeiten bei in Deutschland ergriffenen Vollstreckungsmaßnahmen oder Auseinandersetzungen im Zusammenhang mit der Gültigkeit einer Zustellungshilfe durch eine zuständige deutsche Behörde. Wurde ein Rechtsbehelf eingelegt, teilt das Verbindungsbüro dies nach Mitteilung durch die Vollstreckungsbehörde dem anderen Mitgliedstaat mit. Hierbei hat es insbesondere mitzuteilen, in welchem Umfang die Forderung nicht angefochten wird.
+(1) Stellt das Verbindungsbüro ein Ersuchen, so sind die nach dem Dritten Abschnitt des Ersten Teils der Abgabenordnung zuständigen Behörden oder die nach Abschnitt V des Ersten Teils der Finanzgerichtsordnung zuständigen Gerichte zuständig für
 
-1.
+1. Rechtsbehelfe in Bezug auf a)die Forderung,b)den ursprünglichen Vollstreckungstitel für die Vollstreckung in Deutschland undc)den einheitlichen Vollstreckungstitel für die Vollstreckung im anderen Mitgliedstaat; die Forderung, den ursprünglichen Vollstreckungstitel für die Vollstreckung in Deutschland und den einheitlichen Vollstreckungstitel für die Vollstreckung im anderen Mitgliedstaat;
 
-a)
-
-b)
-
-c)
-
-2.
+2. Streitigkeiten in Bezug auf die Gültigkeit einer Zustellung durch eine zuständige deutsche Behörde.
 
 (2) Ist Deutschland der ersuchte Mitgliedstaat und werden im Verlauf des Beitreibungsverfahrens die Forderung, der ursprüngliche Vollstreckungstitel oder der einheitliche Vollstreckungstitel von einer betroffenen Partei durch Rechtsbehelf angegriffen, so unterrichtet das Verbindungsbüro nach Mitteilung durch die Vollstreckungsbehörde diese Partei darüber, dass sie den Rechtsbehelf bei der zuständigen Instanz des anderen Mitgliedstaates nach dessen Recht einzulegen hat. Wurde von der ersuchenden Behörde eine Mitteilung entsprechend Absatz 1 Satz 3 erteilt, setzt die Vollstreckungsbehörde das Beitreibungsverfahren für den angefochtenen Teilbetrag der Forderung bis zur Entscheidung über den jeweiligen Rechtsbehelf aus. Satz 2 gilt nicht, wenn die ersuchende Behörde im Einklang mit Absatz 3 ein anderes Vorgehen wünscht. Die Vollstreckungsbehörde kann selbständig oder auf Ersuchen Maßnahmen für die Sicherstellung der Beitreibung treffen, soweit dies zulässig ist. Die Regelungen des § 12 bleiben unberührt.
 
@@ -228,13 +190,13 @@ c)
 
 ### § 14 — Ablehnungsgründe
 
-(1) Die in den §§ 9 bis 13 vorgesehene Amtshilfe wird nicht geleistet, wenn die Vollstreckung oder die Anordnung von Sicherungsmaßnahmen unbillig wäre oder die Forderungen insgesamt weniger als 1 500 Euro betragen.
+(1) Die in den §§ 9 bis 13 vorgesehene Amtshilfe wird nicht geleistet, wenn die Vollstreckung oder die Anordnung von Sicherungsmaßnahmen unbillig wäre oder die Forderungen insgesamt weniger als 1 500 Euro betragen.
 
-(2) Die in den §§ 5 bis 13, 17 und 18 vorgesehene Amtshilfe wird nicht geleistet, wenn Die Frist nach Nummer 1 beginnt ab dem Zeitpunkt, zu dem die Forderung in dem Mitgliedstaat der ersuchenden Behörde fällig wurde, und endet zu dem Zeitpunkt, in dem das ursprüngliche Amtshilfeersuchen gestellt wurde. Wird gegen die Forderung oder den ursprünglichen Vollstreckungstitel ein Rechtsbehelf eingelegt, beginnt für die Vollstreckung im Mitgliedstaat der ersuchenden Behörde die Fünfjahresfrist ab dem Zeitpunkt, zu dem festgestellt wird, dass eine Anfechtung der Forderung oder des Vollstreckungstitels nicht mehr möglich ist. Gewähren die zuständigen Behörden des Mitgliedstaates der ersuchenden Behörde einen Zahlungsaufschub oder einen Aufschub des Ratenzahlungsplans, beginnt die Fünfjahresfrist mit Ablauf der gesamten Zahlungsfrist.
+(2) Die in den §§ 5 bis 13, 17 und 18 vorgesehene Amtshilfe wird nicht geleistet, wenn
 
-1.
+1. sich das ursprüngliche Ersuchen um Amtshilfe auf Forderungen bezieht, die älter als fünf Jahre waren;
 
-2.
+2. die Forderungen älter als zehn Jahre sind. Die Frist wird ab dem Zeitpunkt der Fälligkeit gerechnet.
 
 (3) Gründe für die Ablehnung eines Ersuchens um Amtshilfe teilt das Verbindungsbüro dem anderen Mitgliedstaat mit.
 
@@ -246,9 +208,9 @@ c)
 
 (3) Ist nach dem Recht des Mitgliedstaates der ersuchten Behörde die Hemmung oder Unterbrechung der Verjährung oder Verlängerung der Verjährungsfrist nicht zulässig, so gelten die Beitreibungsmaßnahmen als von Deutschland vorgenommen, sofern diese
 
-1.
+1. die ersuchte Behörde durchgeführt hat oder in ihrem Namen hat durchführen lassen und
 
-2.
+2. im Fall der Durchführung eine Hemmung oder Unterbrechung der Verjährung nach den §§ 230, 231 der Abgabenordnung bewirkt hätten.
 
 (4) Die nach § 231 der Abgabenordnung zulässigen rechtlichen Maßnahmen zur Unterbrechung der Verjährung bleiben unberührt.
 
@@ -266,13 +228,13 @@ c)
 
 ### § 17 — Anwesenheit von Bediensteten anderer Mitgliedstaaten im Inland
 
-(1) Die Verbindungsbüros können zur Förderung der Amtshilfe gemäß der Beitreibungsrichtlinie vereinbaren, dass unter den von ihr festgelegten Voraussetzungen befugte Bedienstete des anderen Mitgliedstaates Dabei stellt das Verbindungsbüro sicher, dass dem befugten Bediensteten der ersuchenden Behörde nur solche Informationen offenbart werden, die nach § 5 Absatz 1 erteilt werden dürfen und nicht unter § 5 Absatz 2 fallen.
+(1) Die Verbindungsbüros können zur Förderung der Amtshilfe gemäß der Beitreibungsrichtlinie vereinbaren, dass unter den von ihr festgelegten Voraussetzungen befugte Bedienstete des anderen Mitgliedstaates
 
-1.
+1. in den Amtsräumen anwesend sein dürfen, in denen die deutsche Vollstreckungsbehörde ihre Tätigkeit ausübt;
 
-2.
+2. bei den behördlichen Ermittlungen anwesend sein dürfen, die auf deutschem Hoheitsgebiet geführt werden;
 
-3.
+3. Gerichtsverfahren, die auf deutschem Hoheitsgebiet geführt werden, unterstützen dürfen.
 
 (2) Zur Ausübung der Möglichkeiten nach Absatz 1 ist die jederzeitige Vorlage einer schriftlichen Vollmacht notwendig. Aus der Vollmacht müssen die Identität und dienstliche Stellung des Bediensteten der ersuchenden Behörde hervorgehen.
 

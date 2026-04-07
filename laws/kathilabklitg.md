@@ -21,4 +21,6 @@ Wenn eine Hilfeleistung durch die Republik Litauen in der Bundesrepublik Deutsch
 
 ### Art 3
 
-(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.(2) Der Tag, an dem das Abkommen nach seinem Artikel 15 Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
+(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
+
+(2) Der Tag, an dem das Abkommen nach seinem Artikel 15 Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.

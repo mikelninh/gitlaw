@@ -14,63 +14,59 @@ Die in Anlage 1 Spalte 2 mit einem Kreuz (+) bezeichneten Tier- und Pflanzenarte
 
 ### § 2 — Ausnahmen
 
-(1) Die Verbote des § 44 Absatz 1 Nummer 4 und Absatz 2 Satz 1 Nummer 1 des Bundesnaturschutzgesetzes gelten nicht für Pilze der nachstehend aufgeführten Arten, soweit sie in geringen Mengen für den eigenen Bedarf der Natur entnommen werden: Boletus edulis Steinpilz Cantharellus spp. Pfifferling - alle heimischen Arten Gomphus clavatus Schweinsohr Lactarius volemus Brätling Leccinum spp. Birkenpilz und Rotkappe - alle heimischen Arten Morchella spp. Morchel - alle heimischen Arten Die nach Landesrecht zuständige Behörde kann im Einzelfall für die in Satz 1 genannten Pilze weitergehende Ausnahmen von den dort genannten Verboten zulassen, solange und soweit die Erhaltung der betreffenden Arten landesweit oder in bestimmten Landesteilen nicht gefährdet ist.
-
 (2) Die nach Landesrecht zuständige Behörde kann Ausnahmen von § 44 Absatz 1 Nummer 1 und 3 und Absatz 2 des Bundesnaturschutzgesetzes für Weinbergschnecken (Helix pomatia) mit einem Gehäusedurchmesser von mindestens 30 Millimeter zulassen, soweit die Vorgaben der Artikel 14 und 16 Abs. 1 der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wild lebenden Tiere und Pflanzen (FFH-Richtlinie) (ABl. L 206 vom 22.7.1992, S. 7), die zuletzt durch die Richtlinie 2006/105/EG (ABl. L 363 vom 20.12.2006, S. 368) geändert worden ist, nicht entgegenstehen.
 
-(3) Die Besitz- und Vermarktungsverbote des § 44 Absatz 2 Satz 1 des Bundesnaturschutzgesetzes sowie die Vorschriften der §§ 6, 7 und 12 gelten nicht für Die in Satz 1 genannten Formen sind auch von den Verboten des § 44 Absatz 1 Nummer 1 und 3 des Bundesnaturschutzgesetzes ausgenommen.
+(3) Die Besitz- und Vermarktungsverbote des § 44 Absatz 2 Satz 1 des Bundesnaturschutzgesetzes sowie die Vorschriften der §§ 6, 7 und 12 gelten nicht für
 
-1.
+1. domestizierte Formen von Arten im Sinne von § 7 Absatz 2 Nummer 13 Buchstabe b des Bundesnaturschutzgesetzes,
 
-2.
+2. gezüchtete beziehungsweise künstlich vermehrte Exemplare der in Anlage 2 aufgeführten Arten sowie
 
-3.
+3. Edelkrebse (Astacus astacus), die rechtmäßig und zum Zweck der Hege dem Gewässer entnommen werden.
 
 ### § 3 — Verbote für nicht besonders geschützte Tierarten
 
-(1) Die Besitz- und Vermarktungsverbote des § 44 Absatz 2 Satz 1 des Bundesnaturschutzgesetzes gelten nach § 44 Absatz 3 Nummer 2 des Bundesnaturschutzgesetzes für lebende Tiere folgender Arten: Die Regelung des § 45 Absatz 1 Satz 1 Nummer 2 des Bundesnaturschutzgesetzes bleibt unberührt.
-
 (2) Es ist verboten,
 
-1.
+1. lebende Tiere der im Absatz 1 Satz 1 genannten Arten anzubieten, zur Abgabe vorrätig zu halten, feilzuhalten oder an andere abzugeben,
 
-2.
+2. Tiere der in Absatz 1 Satz 1 genannten Arten zu züchten.
 
 (3) Absatz 2 Nr. 2 gilt nicht für Tierhaltungen unter zoologisch fachkundiger Leitung, die ganz oder überwiegend juristischen Personen des öffentlichen Rechts gehören.
 
 ### § 4 — Verbotene Handlungen, Verfahren und Geräte
 
-(1) Es ist verboten, in folgender Weise wild lebenden Tieren der besonders geschützten Arten und der nicht besonders geschützten Wirbeltierarten, die nicht dem Jagd- oder Fischereirecht unterliegen, nachzustellen, sie anzulocken, zu fangen oder zu töten: Satz 1 Nr. 1 gilt, außer beim Vogelfang, für Netze und Fallen nur, wenn mit ihnen Tiere in größeren Mengen oder wahllos gefangen oder getötet werden können. Satz 1 Nr. 6 gilt nur für Tiere der besonders geschützten Arten.
+(1) Es ist verboten, in folgender Weise wild lebenden Tieren der besonders geschützten Arten und der nicht besonders geschützten Wirbeltierarten, die nicht dem Jagd- oder Fischereirecht unterliegen, nachzustellen, sie anzulocken, zu fangen oder zu töten:
 
-1.
+1. mit Schlingen, Netzen, Fallen, Haken, Leim und sonstigen Klebstoffen,
 
-2.
+2. unter Benutzung von lebenden Tieren als Lockmittel,
 
-3.
+3. mit Armbrüsten,
 
-4.
+4. mit künstlichen Lichtquellen, Spiegeln oder anderen beleuchtenden oder blendenden Vorrichtungen,
 
-5.
+5. mit akustischen, elektrischen oder elektronischen Geräten,
 
-6.
+6. durch Begasen oder Ausräuchern oder unter Verwendung von Giftstoffen, vergifteten oder betäubenden Ködern oder sonstigen betäubenden Mitteln,
 
-7.
+7. mit halbautomatischen oder automatischen Waffen, deren Magazin mehr als zwei Patronen aufnehmen kann, oder unter Verwendung von Visiervorrichtungen für das Schießen bei Nacht mit elektronischen Bildverstärkern oder Bildumwandlern,
 
-8.
+8. unter Verwendung von Sprengstoffen,
 
-9.
+9. aus Kraftfahrzeugen oder Luftfahrzeugen oder
 
-10.
+10. aus Booten mit einer Antriebsgeschwindigkeit von mehr als fünf Kilometer/Stunde.
 
 (2) Abweichend von Absatz 1 Satz 1 Nr. 1 ist es gestattet, Bisams (Ondatra zibethicus) mit Fallen, ausgenommen Käfigfallen mit Klappenschleusen (Reusenfallen), zu bekämpfen, soweit dies zum Schutz gefährdeter Objekte, insbesondere zum Hochwasserabfluss oder zum Schutz gegen Hochwasser oder zur Abwehr von land- oder fischerei- oder sonstiger erheblicher gemeinwirtschaftlicher Schäden erforderlich ist. Die Fallen müssen so beschaffen sein und dürfen nur so verwendet werden, dass das unbeabsichtigte Fangen von sonstigen wild lebenden Tieren weitgehend ausgeschlossen ist.
 
-(3) Die nach Landesrecht zuständige Behörde kann im Einzelfall weitere Ausnahmen von den Verboten des Absatzes 1 zulassen, soweit dies erforderlich ist, der Bestand und die Verbreitung der betreffenden Population oder Art dadurch nicht nachteilig beeinflusst wird und sonstige Belange des Artenschutzes, insbesondere Artikel 9 Abs. 1 der Richtlinie 2009/147/EG des Europäischen Parlaments und des Rates vom 30. November 2009 über die Erhaltung der wildlebenden Vogelarten (ABl. L 20 vom 26.1.2010, S. 7) und Artikel 16 Abs. 1 der Richtlinie 92/43/ EWG des Rates nicht entgegenstehen.
+(3) Die nach Landesrecht zuständige Behörde kann im Einzelfall weitere Ausnahmen von den Verboten des Absatzes 1 zulassen, soweit dies
 
-1.
+1. zur Abwendung erheblicher land-, forst-, fischerei-, wasser- oder sonstiger gemeinwirtschaftlicher Schäden,
 
-2.
+2. zum Schutz der heimischen Tier- und Pflanzenwelt oder
 
-3.
+3. für Zwecke der Forschung, Lehre oder Wiederansiedlung oder zur Nachzucht für einen dieser Zwecke
 
 (4) Artikel 2 der Verordnung (EWG) Nr. 3254/91 des Rates vom 4. November 1991 zum Verbot von Tellereisen in der Gemeinschaft und der Einfuhr von Pelzen und Waren von bestimmten Wildtierarten aus Ländern, die Tellereisen oder den internationalen humanen Fangnormen nicht entsprechende Fangmethoden anwenden (ABl. EG Nr. L 308 S. 1), bleibt unberührt.
 
@@ -80,11 +76,11 @@ Die in Anlage 1 Spalte 2 mit einem Kreuz (+) bezeichneten Tier- und Pflanzenarte
 
 Ohne weiteres erkennbare Teile von Tieren und Pflanzen sowie ohne weiteres erkennbar aus ihnen gewonnene Erzeugnisse im Sinne des § 7 Absatz 2 Nummer 1 Buchstabe c und d oder Nummer 2 Buchstabe c und d des Bundesnaturschutzgesetzes sind
 
-1.
+1. alle Teile und Erzeugnisse von Arten im Sinne von § 7 Absatz 2 Nummer 13 Buchstabe b Doppelbuchstabe aa des Bundesnaturschutzgesetzes,
 
-2.
+2. die in Anlage 3 bezeichneten Teile und Erzeugnisse von Tieren und Pflanzen der dort genannten Arten,
 
-3.
+3. andere Gegenstände, bei denen aus einem Beleg, aus der Verpackung, aus einer Marke, aus einer Aufschrift oder aus sonstigen Umständen hervorgeht, dass es sich um Teile von Tieren und Pflanzen der besonders geschützten Arten oder aus ihnen gewonnene Erzeugnisse handelt.
 
 ### § 6 — Aufnahme- und Auslieferungsbuch
 
@@ -92,15 +88,7 @@ Ohne weiteres erkennbare Teile von Tieren und Pflanzen sowie ohne weiteres erken
 
 (2) Absatz 1 Satz 1 bis 3 gilt nicht
 
-1.
-
-2.
-
-3.
-
-4.
-
-5.
+1. für Pilze der in § 2 Abs. 1 Satz 1 aufgeführten und für Tiere der nachstehenden Arten, soweit aus einer Aufschrift auf einem Beleg oder auf der Verpackung die Einhaltung artenschutzrechtlicher Vorschriften hervorgeht:
 
 (3) Die Bücher mit den Belegen sind den in § 48 des Bundesnaturschutzgesetzes bestimmten Behörden sowie anderen, nach Landesrecht zuständigen Behörden auf Verlangen zur Prüfung auszuhändigen.
 
@@ -110,11 +98,11 @@ Ohne weiteres erkennbare Teile von Tieren und Pflanzen sowie ohne weiteres erken
 
 ### § 7 — Haltung von Wirbeltieren
 
-(1) Wirbeltiere der besonders geschützten und der in § 3 Abs. 1 Satz 1 genannten Arten dürfen nur gehalten werden, wenn sie keinem Besitzverbot unterliegen und der Halter Satz 1 gilt nicht für Greifvögel der in Anlage 4 der Bundeswildschutzverordnung vom 25. Oktober 1985 (BGBl. I S. 2040), die durch Artikel 3 der Verordnung vom 14. Oktober 1999 (BGBl. I. S. 1955) geändert worden ist, aufgeführten Arten. Das Vorliegen der Anforderungen nach Satz 1 ist der nach Landesrecht zuständigen Behörde auf Verlangen nachzuweisen.
+(1) Wirbeltiere der besonders geschützten und der in § 3 Abs. 1 Satz 1 genannten Arten dürfen nur gehalten werden, wenn sie keinem Besitzverbot unterliegen und der Halter
 
-1.
+1. die erforderliche Zuverlässigkeit und ausreichende Kenntnisse über die Haltung und Pflege der Tiere hat und
 
-2.
+2. über die erforderlichen Einrichtungen verfügt, die Gewähr dafür bieten, dass die Tiere nicht entweichen können und die Haltung den tierschutzrechtlichen Vorschriften entspricht.
 
 (2) Wer Tiere der unter Absatz 1 fallenden Arten, ausgenommen Tiere der in Anlage 5 aufgeführten Arten, hält, hat der nach Landesrecht zuständigen Behörde unverzüglich nach Beginn der Haltung den Bestand der Tiere und nach der Bestandsanzeige den Zu- und Abgang sowie eine Kennzeichnung von Tieren unverzüglich schriftlich anzuzeigen; die Anzeige muss Angaben enthalten über Zahl, Art, Alter, Geschlecht, Herkunft, Verbleib, Standort, Verwendungszweck und Kennzeichen der Tiere. Die Verlegung des regelmäßigen Standorts der Tiere ist unverzüglich anzuzeigen.
 
@@ -150,23 +138,23 @@ Es ist verboten, Greifvogelhybriden zu halten. Ausgenommen von dem Verbot sind T
 
 ### § 12 — Kennzeichnungspflicht
 
-Wer lebende Säugetiere, Vögel und Reptilien der in Anlage 6 Spalte 1 aufgeführten Arten hält, hat diese unverzüglich zu kennzeichnen. Die Kennzeichnung hat nach Maßgabe zu erfolgen.
+Wer lebende Säugetiere, Vögel und Reptilien der in Anlage 6 Spalte 1 aufgeführten Arten hält, hat diese unverzüglich zu kennzeichnen. Die Kennzeichnung hat nach Maßgabe
 
-1.
+1. des § 13 Abs. 1 Satz 1 und 2, Abs. 2 und 3, des § 15 Abs. 1 bis 3, 5 und 7,
 
-2.
+2. des § 13 Abs. 1 Satz 3 bis 10 sowie des § 15 Absatz 6
 
 ### § 13 — Kennzeichnungsmethoden
 
-(1) Für die Kennzeichnung sind die Kennzeichnungsmethoden zu verwenden, die in Anlage 6 Spalte 2 bis 6 mit einem Kreuz (+) bei den jeweiligen Tierarten bezeichnet sind, sowie für Vogelarten der offene Ring gemäß Satz 2. Sind nach Satz 1 mehrere Kennzeichnungsmethoden vorgesehen, sind die Tiere mit einem Kennzeichen in der folgenden Rangfolge zu versehen: Die Kennzeichnung mit einem Transponder scheidet aus, soweit die Tiere weniger als 200 Gramm, bei Schildkröten weniger als 500 Gramm, wiegen oder ein solches Gewicht nicht erreichen können. Das Absehen von der jeweils als vorrangig bezeichneten Kennzeichnungsmethode bedarf der Zustimmung der nach Landesrecht zuständigen Behörde. Diese kann das Absehen von den als vorrangig bezeichneten Kennzeichnungsmethode zulassen, wenn diese wegen körperlicher oder verhaltensbedingter Eigenschaften der Tiere einschließlich des Unterschreitens der in Satz 3 genannten Gewichtsgrenzen nicht angewandt werden können. In diesem Fall sind unter den Voraussetzungen von Satz 5 andere für die betreffende Art mit einem Kreuz (+) bezeichneten Kennzeichnungsmethoden anzuordnen. Soweit dies nicht möglich ist, können weitere geeignete Kennzeichnungsmethoden, insbesondere molekulargenetische Methoden, zugelassen werden. Die Entscheidung nach Satz 5 ist mit der Auflage zu verbinden, die Kennzeichnung nachzuholen, sobald mit einem Fortfall der in Satz 5 genannten Hindernisse gerechnet werden kann. Für Tiere der in Anlage 6 Spalte 1 aufgeführten Arten, die in den Spalten 2 bis 6 nicht mit einem Kreuz (+) bezeichnet sind, sowie für Hybride von in Anlage 6 Spalte 1 aufgeführten Vogelarten mit weiteren dort aufgeführten oder anderen Arten hat der Halter spätestens mit Eintritt der Kennzeichnungspflicht bei der nach Landesrecht zuständigen Behörde die Festlegung der verbindlichen Kennzeichnungsmethode zu beantragen. Satz 7 gilt entsprechend.
+(1) Für die Kennzeichnung sind die Kennzeichnungsmethoden zu verwenden, die in Anlage 6 Spalte 2 bis 6 mit einem Kreuz (+) bei den jeweiligen Tierarten bezeichnet sind, sowie für Vogelarten der offene Ring gemäß Satz 2. Sind nach Satz 1 mehrere Kennzeichnungsmethoden vorgesehen, sind die Tiere mit einem Kennzeichen in der folgenden Rangfolge zu versehen:
 
-1.
+1. gezüchtete Vögel vorrangig mit dem geschlossenen Ring;
 
-2.
+2. Vögel, die nicht unter Nummer 1 fallen, vorrangig nach Wahl des Halters mit dem offenen Ring oder dem Transponder, ansonsten mit der Dokumentation;
 
-3.
+3. Säugetiere vorrangig mit dem Transponder, ansonsten mit der Dokumentation oder mit sonstigen Kennzeichen;
 
-4.
+4. Reptilien vorrangig nach Wahl des Halters mit dem Transponder oder der Dokumentation.
 
 (2) Ringe müssen eine Größe aufweisen, dass sie nach vollständigem Auswachsen des Beines nur durch Zerstörung des Ringes oder Verletzung des Vogels entfernt werden können. Dazu sind grundsätzlich Ringe der in Anlage 6 Spalte 3 vorgegebenen Größe zu verwenden. Von den Vorgaben in Satz 2 kann für Vögel bestimmter Rassen oder Populationen abgewichen werden, soweit die Verwendung von Ringen der dort genannten Größe entweder zu Verletzungen beim Vogel führt oder - abweichend von Satz 1 - ein Entfernen des Ringes möglich ist.
 
@@ -180,11 +168,11 @@ Wer lebende Säugetiere, Vögel und Reptilien der in Anlage 6 Spalte 1 aufgefüh
 
 ### § 15 — Ausgabe von Kennzeichen
 
-(1) Für die Kennzeichnung nach dieser Verordnung sind nur Ringe und Transponder zu verwenden, die von den nachstehenden Vereinen ausgegeben werden: Sie ermöglichen nicht vereinsangehörigen Personen den Bezug von Kennzeichen zu denselben Bedingungen wie Vereinsmitgliedern.
+(1) Für die Kennzeichnung nach dieser Verordnung sind nur Ringe und Transponder zu verwenden, die von den nachstehenden Vereinen ausgegeben werden:
 
-1.
+1. Bundesverband für fachgerechten Natur- und Artenschutz e. V.,
 
-2.
+2. Zentralverband Zoologischer Fachbetriebe Deutschlands e. V..
 
 (2) Nach Absatz 1 ausgegebene Ringe müssen so beschaffen sein, dass sie vom Tier nicht zerstört werden können, ihre Lesbarkeit dauerhaft gewährleistet ist, sie nicht erheblich verformt oder geweitet werden können und eine Entfernung nur durch Zerstörung des Ringes oder Verletzung des Tieres möglich ist. Geschlossene Ringe müssen nahtlos, offene Ringe müssen darüber hinaus so beschaffen sein, dass sie nur einmal verwendet werden können. Ringe müssen tierschutzgerecht sein. Ringe für Greifvogelhybriden sind blau zu färben.
 
@@ -196,9 +184,9 @@ Wer lebende Säugetiere, Vögel und Reptilien der in Anlage 6 Spalte 1 aufgefüh
 
 (6) Die in Absatz 1 genannten Vereine haben der nach Landesrecht zuständigen Behörde vierteljährlich die Beschriftung von in ihrem Zuständigkeitsbereich im laufenden Jahr ausgegebenen Kennzeichen sowie Name und Anschrift der Empfänger in für die elektronische Datenverarbeitung geeigneter Form zu übermitteln sowie dieser und dem Bundesamt für Naturschutz auf Anfrage unverzüglich entsprechende Angaben zu machen.
 
-(7) Im Falle der Präparation verbleibt der Ring am Vogel.-----
+(7) Im Falle der Präparation verbleibt der Ring am Vogel.
 
-*)
+*) Vertrieb: Beuth Verlag, Burggrafenstraße 6, 10787 Berlin.
 
 ## Abschnitt 5: Ordnungswidrigkeiten
 
@@ -208,29 +196,29 @@ Wer lebende Säugetiere, Vögel und Reptilien der in Anlage 6 Spalte 1 aufgefüh
 
 (2) Ordnungswidrig im Sinne des § 69 Absatz 3 Nummer 27 Buchstabe c des Bundesnaturschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 4 Abs. 1 in der dort bezeichneten Weise einem Tier nachstellt, es anlockt, fängt oder tötet,
 
-2.
+2. entgegen § 6 Abs. 1 Satz 1 ein Buch nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise führt,
 
-3.
+3. entgegen § 6 Abs. 3 ein Buch nicht oder nicht rechtzeitig aushändigt,
 
-4.
+4. entgegen § 6 Abs. 4 Satz 1 ein Buch nicht oder nicht mindestens fünf Jahre aufbewahrt,
 
-5.
+5. entgegen § 7 Abs. 2 eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
 
-6.
+6. entgegen § 9 Greifvogelhybride züchtet,
 
-7.
+7. entgegen § 10 Greifvogelhybride hält,
 
-8.
+8. entgegen § 11 Greifvogelhybride in den Flug entlässt,
 
-9.
+9. entgegen § 11 Abs. 3 auch in Verbindung mit Abs. 4 eine Maßnahme nicht oder nicht rechtzeitig ergreift oder eine Greifvogelhybride nicht rechtzeitig zurückführt,
 
-10.
+10. entgegen § 12 Satz 1 und 2 Nr. 1 ein Tier nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig kennzeichnet, oder Kennzeichen ohne Zustimmung der nach Landesrecht zuständigen Behörde verändert oder entfernt,
 
-11.
+11. entgegen § 13 Abs. 1 Satz 9 die Festlegung einer verbindlichen Kennzeichnungsmethode nicht oder nicht rechtzeitig beantragt,
 
-12.
+12. entgegen § 13 Abs. 3 Satz 4 eine dort genannte Unterlage nicht beifügt oder nicht oder nicht rechtzeitig vorlegt.
 
 ## Abschnitt 6: Ländervorbehalt
 
@@ -240,29 +228,19 @@ Die nach Landesrecht zuständigen Behörden können nach § 2 Abs. 1 Satz 2 und 
 
 ### Anlage 1 — (zu § 1)
 
-(Fundstelle des Originaltextes: BGBl. I 2005, 264 - 285;
+1. Die in Anlage 1 aufgeführten Arten werden bezeichneta)mit dem Namen der Art oderb)als Gesamtheit der einem höheren Taxon (Ordnungsstufe des Tier- bzw. Pflanzenreiches) oder einem bestimmten Teil derselben angehörenden Arten. mit dem Namen der Art oder als Gesamtheit der einem höheren Taxon (Ordnungsstufe des Tier- bzw. Pflanzenreiches) oder einem bestimmten Teil derselben angehörenden Arten.
 
-1.
+2. Die Abkürzung "spp." wird zur Bezeichnung aller Arten eines höheren Taxons verwendet.
 
-a)
+3. Sonstige Bezugnahmen auf höhere Taxa als Arten dienen nur der Information oder Klassifikation.
 
-b)
+4. Durch Aufnahme einer Art in Anlage 1 werden auch Bastarde dieser Art mit anderen Arten erfasst. Sind beide an der Bastardierung beteiligten Ausgangsarten geschützt, so richtet sich der Schutz nach den für die am strengsten geschützte Art geltenden Vorschriften.
 
-2.
+5. Domestizierte Formen werden durch die Aufnahme einer Art in Anlage 1 nicht erfasst. Als domestizierte Form gilt insbesondere Apis mellifera - Honigbiene.
 
-3.
+6. "Europäisch" ist eine wild lebende Tier- oder Pflanzenart, die ihr Verbreitungsgebiet oder regelmäßiges Wanderungsgebiet ganz oder teilweisea)in Europa hat oder in geschichtlicher Zeit hatte oderb)auf natürliche Weise nach Europa ausdehnt. in Europa hat oder in geschichtlicher Zeit hatte oder auf natürliche Weise nach Europa ausdehnt. Europa umfasst im Osten und Südosten jenen Teil Eurasiens, der vom Uralgebirge und der Kaspisee, dem Kaukasus, dem Schwarzen Meer, dem Bosporus, dem Marmarameer und den Dardanellen begrenzt wird, dazu alle Ägäischen Inseln und Kreta; im Süden und Südwesten Malta, Sizilien, die Balearen und die Iberische Halbinsel; im Westen die Britischen Inseln und im Norden Skandinavien mit Island, sowie Spitzbergen, Franz-Joseph-Land und Nowaja Semlja.
 
-4.
-
-5.
-
-6.
-
-a)
-
-b)
-
-7.
+7. Die Taxonomie der in den Anlagen genannten Tier- und Pflanzenarten richtet sich nach folgenden Werken, soweit die Arten dort aufgeführt sind: Binot, M., Bless, R., Boye, P., Gruttke, H. & Pretscher, P. (Bearb.) (1998): Rote Liste gefährdeter Tiere Deutschlands. - Schriftenreihe für Landschaftspflege und Naturschutz, Heft 55, Bonn-Bad Godesberg. Böhme, W. (2003): Checklist of the living monitor lizards of the world (family Varanidae). - Zool. Verh. Leiden 341:4-43. Bundesamt für Naturschutz (1996): Rote Liste gefährdeter Pflanzen Deutschlands. - Schriftenreihe für Vegetationskunde, Heft 28, Bonn-Bad Godesberg. McDiarmid, R.W., Campbell, J.A. and Toure, T.A. (1999): Snake Species of the World. A Taxonomic and Geographic Reference. Volume 1. - The Herpetologists' League, Washington. (für Loxocemidae, Pythonidae, Boidae, Bolyeriidae, Tropidophiidae & Viperidae außer für die Beibehaltung der Gattungen Acrantophis, Sanzinia, Calabaria & Lichanura und die Anerkennung von Epicrates maurus als valide Art) Eschmeier, W.N. (1998): Catalog of fishes. Vol. 1. Introductory materials. Species of fishes A-L: 1-958 pp. Vol. 2. Species of fishes M-Z: 959-1820 pp. Vol. 3. Genera of fishes. Species and genera in a classification. Literature cited and appendices: 1821-2905 pp. - California Academy of Sciences. Freude, H., Harde, K.W. & Lohse, G.A. (Hrsg.) (1964-1983): Die Käfer Mitteleuropas. - Band 2-11, Krefeld. Frost, D.R. (1985): Amphibian Species of the World. A Taxonomic and Geographic Reference. - Lawrence. Forst, D.R. (2002): Amphibian Species of the World. A Taxonomic and Geographic Reference. - Online reference (http://research.amnh.org/herpetology/amphibian/index.html vom 23. August 2002). Gasc, J.-P., Cabela, A., Crnobrnja-Isailovic, J., Dolmen, D., Grossenbacher, K., Haffner, P., Lescure, J., Martens, H., Martinez Rica, J.P., Maurin, H., Oliveira, M.E., Sofianidou, T.S., Veith, M. & Zuderwijk, A. (eds.) (1997): Atlas of the Amphibians and Reptiles in Europe. - Societas Europaea Herpetologica, Paris. del Hoyo, J., Elliott, A. & Sargatal, J. eds. (1997): Handbook of the Birds of the World. Vol. 4. Sandgrouse to Cuckoos. - Lynx Edicions, Barcelona, 679 pp. (für Psittacidae) del Hoyo, J., Elliott, A. & Sargatal, J. eds. (1999): Handbook of the Birds of the World. Vol. 5. Barn-owls to Hummingbirds. - Lynx Edicions, Barcelona, 759 pp. (für Trochilidae) Karlsholt, O. & Razowski, J. (eds.) (1996): The Lepidoptera of Europe. A Distributional Checklist. - Stenstrup. Lohse, G.A. & Lucht, W.H. (Hrsg.) (1989-1994): Die Käfer Mitteleuropas - 1.-3. Supplementband mit Katalogteil. - Krefeld. Mabberley, D.J. (1993): The plant-book. - University Press, Cambridge. Sibley, C.G. & B.L. Monroe Jr (1990): Distribution and Taxonomy of Birds of the World. - New Haven, London (Yale University Press), 1111 pp. (für Vögel außer Psittacidae und Trochilidae) Sibley, C.G. & B.L. Monroe Jr (1993): A supplement to Distribution and Taxonomy of Birds of the world. - New Haven, London (Yale University Press), 108 pp. (für Vögel außer Psittacidae und Trochilidae) Turin, H., Casale, A., Kryzhanovski, O.L., Makarov, K.V. & Penev, L.D. (1993): Checklist and Atlas of the Genus Carabus Linnaeus in Europe (Coleoptera, Carabidae). - Leiden. Wermuth, H. & Mertens, R. (1996): Schildkröten, Krokodile, Brückenechsen. - Jena (Gustav Fischer Verlag), 506 S. Willis, J. (1973): A Dictionary of Flowering Plants and Ferns. - Cambridge. Wilson, D.E. & Reeder, D.M. (1993): Mammal Species of the World. - 2nd edition. Washington & London.
 
 Eriogaster spp. 3)
 
@@ -298,66 +276,32 @@ Monochamus spp.
 
 Tetropium spp.
 
-1)
-
-2)
-
-3)
-
-4)
-
-5)
-
-6)
-
-7)
-
-8)
-
 ### Anlage 2 — (zu § 2 Abs. 3 Nr. 2)
-
-(Fundstelle des Originaltextes: BGBl. I 2005, 286 - 288;
 
 ### Anlage 3 — (zu § 5 Nr. 2)
 
-Fundstelle des Originaltextes: BGBl. I 2005, 289
+Als ohne weiteres erkennbare Teile von Tieren wild lebender Arten sowie ohne weiteres erkennbar aus ihnen gewonnene Erzeugnisse gelten:
 
-Als ohne weiteres erkennbare Teile von Tieren wild lebender Arten sowie ohne weiteres erkennbar aus ihnen gewonnene Erzeugnisse gelten: Als ohne weiteres erkennbare Teile von Pflanzen der in Anlage 1 aufgeführten Arten sowie ohne weiteres aus ihnen gewonnene Erzeugnisse gelten:
+1. Felle und Häute (ganze Stücke oder Bauch- und Rückenseiten) der in Anlage 1 aufgeführten Säugetierarten;
 
-1.
+2. Schädel von in der Anlage 1 aufgeführten Säugetierarten;
 
-2.
+3. Teile von Vogelbälgen und Federn von europäischen Vogelarten;
 
-3.
+4. Eierschalen von europäischen Vogelarten;
 
-4.
+5. Froschschenkel der in der Anlage 1 aufgeführten Froscharten;
 
-5.
+6. Flügel der in der Anlage 1 aufgeführten Schmetterlingsarten und daraus gewonnene Erzeugnisse;
 
-6.
+7. Gehäuse der in der Anlage 1 aufgeführten Schneckenarten;
 
-7.
-
-8.
-
-1.
-
-2.
+8. Schalen und Perlen der in der Anlage 1 aufgeführten Muschelarten.
 
 ### Anlage 4 — (zu § 6 Abs. 1 Satz 2)
 
-Fundstelle des Originaltextes: BGBl. I 2005, 289
-
 ### Anlage 5 — (zu § 7 Abs. 2)
-
-(Fundstelle des Originaltextes: BGBl. I 2005, 290 - 291)
 
 ### Anlage 6 — (zu § 12 Satz 1 und
 
-> Anlage 6 Fußnoten 11 u. 23 Kursivdruck: Im Text nicht vorhanden Anlage 6 Hinweis zur Ringgröße Kursivdruck: Aus technischen Gründen nur an dieser Stelle darstellbar
-
 ### Anlage 7 — (zu § 15 Abs. 3 Satz 1)
-
-Fundstelle des Originaltextes: BGBl. I 2005, 317
-
-Die in § 17 Abs. 3 genannte Beschriftung muss folgende Angaben enthalten: Ausgebender Verein, Angabe zu offenem oder geschlossenem Ring, Jahrgang, Ringgröße, laufende Nummer. Für Greifvogelhybriden ist zusätzlich das Kürzel "HY" in die Beschriftung aufzunehmen.

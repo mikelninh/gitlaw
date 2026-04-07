@@ -26,9 +26,9 @@ Zwischen der Gemeinde Nonnenhorn, Landkreis Lindau (Bodensee), Freistaat Bayern,
 
 Zwischen den Gemeinden Gestratz und Maierhöfen, Landkreis Lindau (Bodensee), Freistaat Bayern, sowie der Gemeinde Argenbühl und der Stadt Isny im Allgäu, Landkreis Ravensburg, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
-1.
+1. vom Landesgrenzpunkt 167/6 bis zum Landesgrenzpunkt 169 nach Maßgabe der Anlage 4, Seiten 1, 2 und 4;
 
-2.
+2. vom Landesgrenzpunkt 169/11 bis zum Landesgrenzpunkt 170 nach Maßgabe der Anlage 4, Seiten 3 und 4.
 
 ### Art 5
 
@@ -46,17 +46,17 @@ Zwischen der Gemeinde Elchingen, Landkreis Neu-Ulm, Freistaat Bayern, und der St
 
 Zwischen der Stadt Leipheim, Landkreis Günzburg, und der Gemeinde Elchingen, Landkreis Neu-Ulm, Freistaat Bayern, sowie der Stadt Langenau, Alb-Donau-Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
-1.
+1. vom Landesgrenzpunkt 181 bis zum Landesgrenzpunkt 198 nach Maßgabe der Anlage 8, Seiten 1 bis 5;
 
-2.
+2. vom Landesgrenzpunkt 201 bis zum Landesgrenzpunkt 234 nach Maßgabe der Anlage 8, Seiten 4 und 5.
 
 ### Art 9
 
 Zwischen der Stadt Günzburg, Landkreis Günzburg, Freistaat Bayern, und der Stadt Niederstotzingen, Landkreis Heidenheim, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
-1.
+1. vom Landesgrenzpunkt 305 bis zum Landesgrenzpunkt 305/1 (alt) nach Maßgabe der Anlage 9, Seiten 1 und 2;
 
-2.
+2. vom Landesgrenzpunkt 305/2 (alt) bis zum Landesgrenzpunkt 306 nach Maßgabe der Anlage 9, Seiten 1 und 2.
 
 ### Art 10
 
@@ -66,9 +66,9 @@ Zwischen der Gemeinde Medlingen, Landkreis Dillingen a. d. Donau, Freistaat Baye
 
 Zwischen der Gemeinde Medlingen, Landkreis Dillingen a. d. Donau, Freistaat Bayern, und der Stadt Giengen an der Brenz, Landkreis Heidenheim, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
-1.
+1. vom Landesgrenzpunkt 475 bis zum Landesgrenzpunkt 476 nach Maßgabe der Anlage 11, Seiten 1 und 2;
 
-2.
+2. vom Landesgrenzpunkt 477/2 bis zum Landesgrenzpunkt 478 (alt) nach Maßgabe der Anlage 11, Seiten 1 und 2.
 
 ### Art 12
 
@@ -78,45 +78,45 @@ Zwischen der Gemeinde Bachhagel, Landkreis Dillingen a. d. Donau, Freistaat Baye
 
 Zwischen der Gemeinde Zöschingen, Landkreis Dillingen a. d. Donau, Freistaat Bayern, und der Gemeinde Nattheim, Landkreis Heidenheim, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
-1.
+1. vom Landesgrenzpunkt 629 bis zum Landesgrenzpunkt 629/2 nach Maßgabe der Anlage 13, Seiten 1 und 3;
 
-2.
+2. vom Landesgrenzpunkt 635/3 bis zum Landesgrenzpunkt 636 nach Maßgabe der Anlage 13, Seiten 2 und 3.
 
 ### Art 14
 
 Zwischen den Gemeinden Zöschingen, Bachhagel und Ziertheim, Landkreis Dillingen a. d. Donau, Freistaat Bayern, sowie der Gemeinde Dischingen, Landkreis Heidenheim, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
-1.
+1. vom Landesgrenzpunkt 688 bis zum Landesgrenzpunkt 693 nach Maßgabe der Anlage 14, Seiten 1 und 7;
 
-2.
+2. vom Landesgrenzpunkt 693/3 bis zum Landesgrenzpunkt 703 nach Maßgabe der Anlage 14, Seiten 1 und 7;
 
-3.
+3. vom Landesgrenzpunkt 710 bis zum Landesgrenzpunkt 710/2 nach Maßgabe der Anlage 14, Seiten 1 und 7;
 
-4.
+4. vom Landesgrenzpunkt 716 bis zum Landesgrenzpunkt 723 nach Maßgabe der Anlage 14, Seiten 2 und 7;
 
-5.
+5. vom Landesgrenzpunkt 725 bis zum Landesgrenzpunkt 733 nach Maßgabe der Anlage 14, Seiten 3 und 7;
 
-6.
+6. vom Landesgrenzpunkt 734 bis zum Landesgrenzpunkt 737 nach Maßgabe der Anlage 14, Seiten 3 und 7;
 
-7.
+7. vom Landesgrenzpunkt 738 bis zum Landesgrenzpunkt 741 nach Maßgabe der Anlage 14, Seiten 3 und 7;
 
-8.
+8. vom Landesgrenzpunkt 742 bis zum Landesgrenzpunkt 742/2 nach Maßgabe der Anlage 14, Seiten 3 und 7;
 
-9.
+9. vom Landesgrenzpunkt 743 bis zum Landesgrenzpunkt 743/1 nach Maßgabe der Anlage 14, Seiten 3 und 7;
 
-10.
+10. vom Landesgrenzpunkt 743/2 bis zum Landesgrenzpunkt 743/3 nach Maßgabe der Anlage 14, Seiten 3 und 7;
 
-11.
+11. vom Landesgrenzpunkt 746 bis zum Landesgrenzpunkt 767 (alt) nach Maßgabe der Anlage 14, Seiten 4 und 7;
 
-12.
+12. vom Landesgrenzpunkt 776/1 bis zum Landesgrenzpunkt 781 nach Maßgabe der Anlage 14, Seiten 5 und 7;
 
-13.
+13. vom Landesgrenzpunkt 788 bis zum Landesgrenzpunkt 790 nach Maßgabe der Anlage 14, Seiten 6 und 7;
 
-14.
+14. vom Landesgrenzpunkt 791 bis zum Landesgrenzpunkt 794 nach Maßgabe der Anlage 14, Seiten 6 und 7;
 
-15.
+15. vom Landesgrenzpunkt 795/1 bis zum Landesgrenzpunkt 797 nach Maßgabe der Anlage 14, Seiten 6 und 7;
 
-16.
+16. vom Landesgrenzpunkt 798 bis zum Landesgrenzpunkt 799 nach Maßgabe der Anlage 14, Seiten 6 und 7.
 
 ### Art 15
 
@@ -126,67 +126,67 @@ Zwischen der Gemeinde Ziertheim, Landkreis Dillingen a. d. Donau, Freistaat Baye
 
 Zwischen den Gemeinden Ziertheim und Mödingen und dem gemeindefreien Gebiet Bergheimer Forst, Landkreis Dillingen a. d. Donau, Freistaat Bayern, sowie der Gemeinde Dischingen, Landkreis Heidenheim, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
-1.
+1. vom Landesgrenzpunkt 873 bis zum Landesgrenzpunkt 873/3 nach Maßgabe der Anlage 16, Seiten 1 und 9;
 
-2.
+2. vom Landesgrenzpunkt 879 bis zum Landesgrenzpunkt 890 nach Maßgabe der Anlage 16, Seiten 2 und 9;
 
-3.
+3. vom Landesgrenzpunkt 906 bis zum Landesgrenzpunkt 911 nach Maßgabe der Anlage 16, Seiten 3 und 9;
 
-4.
+4. vom Landesgrenzpunkt 920/4 bis zum Landesgrenzpunkt 936/1 nach Maßgabe der Anlage 16, Seiten 4, 5 und 9;
 
-5.
+5. vom Landesgrenzpunkt 937 (alt) bis zum Landesgrenzpunkt 939 nach Maßgabe der Anlage 16, Seiten 5 und 9;
 
-6.
+6. vom Landesgrenzpunkt 939/1 bis zum Landesgrenzpunkt 942 nach Maßgabe der Anlage 16, Seiten 5 und 9;
 
-7.
+7. vom Landesgrenzpunkt 949 bis zum Landesgrenzpunkt 953 nach Maßgabe der Anlage 16, Seiten 6 und 9;
 
-8.
+8. vom Landesgrenzpunkt 964 bis zum Landesgrenzpunkt 978 nach Maßgabe der Anlage 16, Seiten 7 bis 9.
 
 ### Art 17
 
 Zwischen der Gemeinde Amerdingen, Landkreis Donau-Ries, Freistaat Bayern und der Gemeinde Dischingen, Landkreis Heidenheim, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
-1.
+1. vom Landesgrenzpunkt 48 bis zum Landesgrenzpunkt 57 nach Maßgabe der Anlage 17, Seiten 1 und 3;
 
-2.
+2. vom Landesgrenzpunkt 58 bis zum Landesgrenzpunkt 58/6 nach Maßgabe der Anlage 17, Seiten 2 und 3.
 
 ### Art 18
 
 Zwischen der Stadt Nördlingen, Landkreis Donau-Ries, Freistaat Bayern, sowie der Stadt Bopfingen und der Gemeinde Riesbürg, Ostalbkreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
-1.
+1. vom Landesgrenzpunkt 281 bis zum Landesgrenzpunkt 284 nach Maßgabe der Anlage 18, Seiten 1 und 3;
 
-2.
+2. vom Landesgrenzpunkt 285 bis zum Landesgrenzpunkt 288 nach Maßgabe der Anlage 18, Seiten 1 und 3;
 
-3.
+3. vom Landesgrenzpunkt 290 bis zum Landesgrenzpunkt 312 nach Maßgabe der Anlage 18, Seiten 1 bis 3.
 
 ### Art 19
 
 Zwischen der Stadt Nördlingen, Landkreis Donau-Ries, Freistaat Bayern, und der Gemeinde Riesbürg, Ostalbkreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
-1.
+1. vom Landesgrenzpunkt 274 bis zum Landesgrenzpunkt 277 nach Maßgabe der Anlage 19, Seiten 1 und 4;
 
-2.
+2. vom Landesgrenzpunkt 278 bis zum Landesgrenzpunkt 280 nach Maßgabe der Anlage 19, Seiten 1 und 4;
 
-3.
+3. vom Landesgrenzpunkt 318 bis zum Landesgrenzpunkt 335 nach Maßgabe der Anlage 19, Seiten 2 bis 4;
 
-4.
+4. vom Landesgrenzpunkt 336 bis zum Landesgrenzpunkt 341 nach Maßgabe der Anlage 19, Seiten 3 und 4;
 
-5.
+5. vom Landesgrenzpunkt 342 bis zum Landesgrenzpunkt 345 nach Maßgabe der Anlage 19, Seiten 3 und 4;
 
-6.
+6. vom Landesgrenzpunkt 346 bis zum Landesgrenzpunkt 347 nach Maßgabe der Anlage 19, Seiten 3 und 4.
 
 ### Art 20
 
 Zwischen der Stadt Nördlingen und dem Markt Wallerstein, Landkreis Donau-Ries, Freistaat Bayern, sowie den Gemeinden Riesbürg und Kirchheim am Ries, Ostalbkreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
-1.
+1. vom Landesgrenzpunkt 349 bis zum Landesgrenzpunkt 351 nach Maßgabe der Anlage 20, Seiten 1 und 7;
 
-2.
+2. vom Landesgrenzpunkt 355 bis zum Landesgrenzpunkt 371/2 nach Maßgabe der Anlage 20, Seiten 2 bis 4 und 7;
 
-3.
+3. vom Landesgrenzpunkt 371/3 bis zum Landesgrenzpunkt 371/4 nach Maßgabe der Anlage 20, Seiten 4 und 7;
 
-4.
+4. vom Landesgrenzpunkt 372 bis zum Landesgrenzpunkt 402 nach Maßgabe der Anlage 20, Seiten 5 bis 7.
 
 ### Art 21
 
@@ -196,25 +196,25 @@ Zwischen dem Markt Wallerstein, Landkreis Donau-Ries, Freistaat Bayern, und der 
 
 Zwischen der Gemeinde Schnelldorf, Landkreis Ansbach, Freistaat Bayern, und der Gemeinde Wallhausen, Landkreis Schwäbisch Hall, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
-1.
+1. vom Landesgrenzpunkt 393 bis zum Landesgrenzpunkt 395 nach Maßgabe der Anlage 22, Seiten 1 und 3;
 
-2.
+2. vom Landesgrenzpunkt 404/1 bis zum Landesgrenzpunkt 409 nach Maßgabe der Anlage 22, Seiten 2 und 3.
 
 ### Art 23
 
 Zwischen der Gemeinde Simmershofen, Landkreis Neustadt a. d. Aisch-Bad Windsheim, Freistaat Bayern, und der Stadt Creglingen, Main-Tauber-Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
-1.
+1. vom Landesgrenzpunkt 941 bis zum Landesgrenzpunkt 944/1 nach Maßgabe der Anlage 23, Seiten 1 und 3;
 
-2.
+2. vom Landesgrenzpunkt 945/11 bis zum Landesgrenzpunkt 948/1 nach Maßgabe der Anlage 23, Seiten 2 und 3.
 
 ### Art 24
 
 Zwischen der Gemeinde Kirchheim, Landkreis Würzburg, Freistaat Bayern, und der Gemeinde Wittighausen, Main-Tauber-Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
-1.
+1. vom Landesgrenzpunkt 369 bis zum Landesgrenzpunkt 386 nach Maßgabe der Anlage 24, Seiten 1 und 2;
 
-2.
+2. vom Landesgrenzpunkt 396 bis zum Landesgrenzpunkt 400 nach Maßgabe der Anlage 24, Seiten 1 und 2.
 
 ### Art 25
 
@@ -241,8 +241,6 @@ Die Anlagen 1 bis 24 sind Bestandteile dieses Staatsvertrages. Sie werden bei de
 (2) Dieser Staatsvertrag tritt am ersten Tag des dem Austausch der Ratifikationsurkunden folgenden Kalenderjahres in Kraft.
 
 ### Schlußformel
-
-Für den Freistaat Bayern Für das Land Baden-Württemberg
 
 ### Anlage 1 bis 24
 

@@ -32,25 +32,17 @@ Gesetze
 
 (1) Bis zum 31. Dezember 1994 sind abweichend von Artikel 1 in folgenden Fassungen anzuwenden:
 
-1.
+1. § 17 Abs. 1 Satz 1: "(1) Müttern und Vätern kann im Rahmen der Jugendhilfe Beratung in Fragen der Partnerschaft angeboten werden, wenn sie für ein Kind oder einen Jugendlichen zu sorgen haben oder tatsächlich sorgen."
 
-2.
+2. § 17 Abs. 2: "(2) Im Fall der Trennung oder Scheidung können Eltern bei der Entwicklung eines einvernehmlichen Konzepts für die Wahrnehmung der elterlichen Sorge unterstützt werden, das als Grundlage für die richterliche Entscheidung über das Sorgerecht nach der Trennung oder Scheidung dienen kann."
 
-3.
+3. § 20 Abs. 1: "(1) Fällt der Elternteil, der die überwiegende Betreuung des Kindes übernommen hat, für die Wahrnehmung dieser Aufgabe aus gesundheitlichen oder anderen zwingenden Gründen aus, so kann der andere Elternteil bei der Betreuung und Versorgung des im Haushalt lebenden Kindes unterstützt werden, wenn1.er wegen berufsbedingter Abwesenheit oder Krankheit nicht in der Lage ist, die Aufgabe wahrzunehmen, 2.die Hilfe erforderlich ist, um das Wohl des Kindes zu gewährleisten, 3.Angebote der Förderung des Kindes in Tageseinrichtungen oder in Tagespflege nicht ausreichen." er wegen berufsbedingter Abwesenheit oder Krankheit nicht in der Lage ist, die Aufgabe wahrzunehmen, die Hilfe erforderlich ist, um das Wohl des Kindes zu gewährleisten, Angebote der Förderung des Kindes in Tageseinrichtungen oder in Tagespflege nicht ausreichen."
 
-1.
+4. § 20 Abs. 2: "(2) Fällt ein alleinerziehender Elternteil oder fallen beide Elternteile aus gesundheitlichen oder anderen zwingenden Gründen aus, so kann unter der Voraussetzung des Absatzes 1 Nr. 3 das Kind im elterlichen Haushalt versorgt und betreut werden, wenn und solange es für sein Wohl förderlich ist."
 
-2.
+5. § 41 Abs. 1 Satz 1: "(1) Einem jungen Volljährigen kann Hilfe für die Persönlichkeitsentwicklung und zu einer eigenverantwortlichen Lebensführung gewährt werden, wenn und solange die Hilfe aufgrund der individuellen Situation des jungen Menschen notwendig ist."
 
-3.
-
-4.
-
-5.
-
-6.
-
-(2) Bis zum 31. Dezember 1994 ist Artikel 1 § 27 Abs. 2 mit folgender Maßgabe anzuwenden: "Wenn und soweit die in den §§ 31 und 32 genannten Hilfearten nicht bedarfsgerecht zur Verfügung stehen, sollen sie vorrangig Kindern und Jugendlichen geleistet werden, denen sonst Hilfe zur Erziehung nach § 33 oder § 34 gewährt werden müßte."
+6. § 41 Abs. 4: "(4) Der junge Volljährige kann auch nach Beendigung der Hilfe bei der Verselbständigung im notwendigen Umfang beraten werden."
 
 (3)
 
@@ -93,13 +85,13 @@ seelisch behinderte junge Menschen
 
 Nach dem Tag des Inkrafttretens dieses Gesetzes gelten fort:
 
-1.
+1. eine aufgrund des § 9 des Gesetzes für Jugendwohlfahrt erteilte Anerkennung eines Trägers der freien Jugendhilfe als Anerkennung nach Artikel 1 § 75 Abs. 1 dieses Gesetzes,
 
-2.
+2. eine aufgrund des § 12 Abs. 3 des Gesetzes für Jugendwohlfahrt erteilte Zulassung eines kreisangehörigen Jugendamts als Zulassung nach Artikel 1 § 69 Abs. 2 Satz 1 dieses Gesetzes,
 
-3.
+3. eine aufgrund der §§ 28 und 29 des Gesetzes für Jugendwohlfahrt erteilte Pflegeerlaubnis nach Artikel 1 § 44 dieses Gesetzes,
 
-4.
+4. eine aufgrund des § 53 des Gesetzes für Jugendwohlfahrt erteilte Eignungserklärung als Erlaubnis nach Artikel 1 § 54 Abs. 2 dieses Gesetzes.
 
 ### Art 17 — Öffentlich-rechtliche Streitigkeiten
 
@@ -109,15 +101,15 @@ Nach dem Tag des Inkrafttretens dieses Gesetzes gelten fort:
 
 (3) Tatsachen, die erst durch dieses Gesetz erheblich geworden sind, können noch in der Revisionsinstanz vorgebracht werden. Das Revisionsgericht verweist die Sache an das Berufungsgericht zurück, wenn bezüglich der neuen Tatsache eine Beweisaufnahme erforderlich wird.
 
-(4) In der Hauptsache als erledigt anzusehen sind Verfahren über § 161 Abs. 2 der Verwaltungsgerichtsordnung ist entsprechend anzuwenden.
+(4) In der Hauptsache als erledigt anzusehen sind Verfahren über
 
-1.
+1. die widerrufliche Befreiung eines Pflegekindes von der Beaufsichtigung nach § 31 Abs. 3 des Gesetzes für Jugendwohlfahrt,
 
-2.
+2. die Übertragung der Überprüfung von Einrichtungen auf einen zentralen Träger der Freien Jugendhilfe nach § 78 Abs. 6 des Gesetzes für Jugendwohlfahrt,
 
-3.
+3. die Erteilung oder Aufhebung einer Pflegeerlaubnis für Minderjährige in Einrichtungen nach § 79 Abs. 1 des Gesetzes für Jugendwohlfahrt und
 
-4.
+4. die widerrufliche Befreiung einer Einrichtung von der Anwendung des § 28 des Gesetzes für Jugendwohlfahrt nach § 79 Abs. 2 des Gesetzes für Jugendwohlfahrt.
 
 ### Art 18 — Verfahren vor dem Vormundschaftsgericht
 
@@ -148,11 +140,11 @@ Deutsche Fürsorgestelle im Sinne der Erklärung der Bevollmächtigten der Regie
 
 Die Länder Berlin, Bremen und Hamburg können zur Anpassung an ihren besonderen Verwaltungsaufbau abweichen von den Vorschriften dieses Gesetzes über
 
-1.
+1. die Träger der öffentlichen Jugendhilfe und ihre Zuständigkeiten,
 
-2.
+2. die Errichtung von Jugendämtern und
 
-3.
+3. die Bildung, Zusammensetzung und die Befugnisse von Jugendhilfe- und Landesjugendhilfeausschüssen; dabei haben sie für eine angemessene Beteiligung der anerkannten Träger der freien Jugendhilfe zu sorgen.
 
 ### Art 23 — Inkrafttreten
 

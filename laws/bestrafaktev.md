@@ -13,11 +13,11 @@ Auf Grund des § 32 Absatz 1 Satz 2 und 3 der Strafprozessordnung, der durch Art
 
 Diese Verordnung gilt für die Führung elektronischer Strafverfahrensakten bei
 
-1.
+1. dem Generalbundesanwalt beim Bundesgerichtshof,
 
-2.
+2. den Finanzbehörden des Bundes in Ermittlungsverfahren nach § 386 Absatz 2 der Abgabenordnung und § 14a des Schwarzarbeitsbekämpfungsgesetzes und
 
-3.
+3. dem Bundesgerichtshof.
 
 ### § 2 — Einführung der elektronischen Akte
 

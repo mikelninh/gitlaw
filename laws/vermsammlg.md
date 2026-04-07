@@ -24,4 +24,4 @@ Das Gesetz tritt am Tag nach der Verkündung in Kraft.
 
 ### Anlage — zu § 1
 
-(Inhalt: Nicht darstellbare Anlage, Fundstelle: BGBl I 1951, 268)
+(Inhalt: Nicht darstellbare Anlage,

@@ -24,11 +24,15 @@ Die nach den in § 1 genannten Rechtsakten abzuschließenden Lagerverträge habe
 
 ### § 4 — Gewährung der Beihilfe
 
-(1) Die Anträge auf Gewährung einer Beihilfe sind nach dem von der Bundesanstalt im Bundesanzeiger bekanntgemachten Muster bei der Bundesanstalt einzureichen.(2) Die Bundesanstalt setzt die Beihilfe durch Bescheid fest.
+(1) Die Anträge auf Gewährung einer Beihilfe sind nach dem von der Bundesanstalt im Bundesanzeiger bekanntgemachten Muster bei der Bundesanstalt einzureichen.
+
+(2) Die Bundesanstalt setzt die Beihilfe durch Bescheid fest.
 
 ### § 5 — Aufzeichnungs- und Aufbewahrungspflichten
 
-(1) Der Antragsteller ist verpflichtet, gesondert für jeden Vertrag über private Lagerhaltung die zur Überwachung der Einhaltung der eingegangenen Verpflichtungen notwendigen Belege zu führen und Aufzeichnungen über die eingelagerten Erzeugnisse zu machen.(2) Der Antragsteller ist verpflichtet, die in Absatz 1 genannten Unterlagen und die sich darauf beziehenden geschäftlichen Belege aufzubewahren. Die Aufbewahrungspflicht dauert bis zum Ablauf des vierten Jahres, das dem Kalenderjahr der Gewährung folgt. Vorschriften, nach denen eine längere Aufbewahrungspflicht besteht, bleiben unberührt.
+(1) Der Antragsteller ist verpflichtet, gesondert für jeden Vertrag über private Lagerhaltung die zur Überwachung der Einhaltung der eingegangenen Verpflichtungen notwendigen Belege zu führen und Aufzeichnungen über die eingelagerten Erzeugnisse zu machen.
+
+(2) Der Antragsteller ist verpflichtet, die in Absatz 1 genannten Unterlagen und die sich darauf beziehenden geschäftlichen Belege aufzubewahren. Die Aufbewahrungspflicht dauert bis zum Ablauf des vierten Jahres, das dem Kalenderjahr der Gewährung folgt. Vorschriften, nach denen eine längere Aufbewahrungspflicht besteht, bleiben unberührt.
 
 ### § 6 — Duldungs- und Mitwirkungspflichten
 
@@ -47,5 +51,3 @@ Der Antragsteller hat während der Geschäfts- und Betriebszeit den Beauftragten
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Ernährung, Landwirtschaft und Forsten

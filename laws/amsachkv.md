@@ -41,19 +41,19 @@ Der Nachweis der Sachkenntnis für den Einzelhandel außerhalb von Apotheken mit
 
 (2) Im einzelnen ist festzustellen, ob der Prüfungsteilnehmer
 
-1.
+1. das Sortiment freiverkäuflicher Arzneimittel übersieht,
 
-2.
+2. die in freiverkäuflichen Arzneimitteln üblicherweise verwendeten Pflanzen und Chemikalien sowie die Darreichungsformen kennt,
 
-3.
+3. offensichtlich verwechselte, verfälschte oder verdorbene freiverkäufliche Arzneimittel erkennen kann,
 
-4.
+4. freiverkäufliche Arzneimittel ordnungsgemäß, insbesondere unter Berücksichtigung der Lagertemperatur und des Verfalldatums, lagern kann,
 
-5.
+5. über die für das ordnungsgemäße Abfüllen, Abpacken und die Abgabe freiverkäuflicher Arzneimittel erforderlichen Kenntnisse verfügt,
 
-6.
+6. die mit dem unsachgemäßen Umgang mit freiverkäuflichen Arzneimitteln verbundenen Gefahren kennt,
 
-7.
+7. die für freiverkäufliche Arzneimittel geltenden Vorschriften des Arzneimittelrechts und des Rechts der Werbung auf dem Gebiete des Heilwesens kennt.
 
 ### § 5 — Durchführung der Prüfung
 
@@ -91,29 +91,29 @@ Wird von der zuständigen Behörde eine Stelle bestimmt, vor der die Prüfung ab
 
 ### § 10 — Anerkennung anderer Nachweise
 
-Folgende Prüfungszeugnisse über eine abgeleistete berufliche Ausbildung werden als Nachweis der erforderlichen Sachkenntnis im Einzelhandel mit freiverkäuflichen Arzneimitteln anerkannt: Satz 1 gilt entsprechend für Erlaubnisse als Pharmazieingenieur, Apothekenassistent, Pharmazeutischer Assistent oder Apothekenfacharbeiter, die vor dem Wirksamwerden des Beitritts nach den Vorschriften der Deutschen Demokratischen Republik erteilt worden sind oder nach Wirksamwerden des Beitritts in dem in Artikel 3 des Einigungsvertrages genannten Gebiet erteilt werden.
+Folgende Prüfungszeugnisse über eine abgeleistete berufliche Ausbildung werden als Nachweis der erforderlichen Sachkenntnis im Einzelhandel mit freiverkäuflichen Arzneimitteln anerkannt:
 
-1.
+1. das Zeugnis über eine nach abgeschlossenem Hochschulstudium der Pharmazie abgelegte Prüfung,
 
-2.
+2. das Zeugnis über eine nach abgeschlossenem Hochschulstudium der Chemie, der Biologie, der Human- oder der Veterinärmedizin abgelegte Prüfung in Verbindung mit den Nachweisen nach § 15 Abs. 2 des Arzneimittelgesetzes,
 
-3.
+3. das Zeugnis über die nach abgeschlossenem Hochschulstudium der Veterinärmedizin abgelegte Tierärztliche Prüfung, soweit es sich um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind,
 
-4.
+4. das Zeugnis über die bestandene pharmazeutische Vorprüfung im Sinne des § 1 des Gesetzes über die Rechtsstellung vorgeprüfter Apothekeranwärter vom 4. Dezember 1973 (BGBl. I S. 1813),
 
-5.
+5. das Zeugnis über die bestandene staatliche Prüfung für den Beruf der pharmazeutisch-technischen Assistenten oder der Nachweis der Gleichwertigkeit des Ausbildungsstandes nach dem Gesetz über den Beruf des pharmazeutisch-technischen Assistenten,
 
-6.
+6. das Zeugnis zum staatlich anerkannten Ausbildungsberuf als Drogist,
 
-7.
+7. das Zeugnis zum staatlich anerkannten Ausbildungsberuf als Apothekenhelfer oder als pharmazeutisch-kaufmännischer Angestellter/pharmazeutisch-kaufmännische Angestellte.
 
 ### § 11 — Sonstiger Nachweis der Sachkenntnis
 
-Den Nachweis der Sachkenntnis im Einzelhandel mit freiverkäuflichen Arzneimitteln hat auch erbracht, wer nachweist, daß er bis zum 1. Januar 1978 die Voraussetzungen erfüllt hat.
+Den Nachweis der Sachkenntnis im Einzelhandel mit freiverkäuflichen Arzneimitteln hat auch erbracht, wer nachweist, daß er bis zum 1. Januar 1978 die Voraussetzungen
 
-1.
+1. der Sachkunde für den Einzelhandel mit Arzneimitteln nach den Vorschriften des Gesetzes über die Berufsausübung im Einzelhandel und der Verordnung über den Nachweis der Sachkunde für den Einzelhandel, jeweils in ihrer bis zum 1. Januar 1978 geltenden Fassung, oder
 
-2.
+2. der Sachkenntnis als Herstellungsleiter nach § 14 Abs. 1 Nr. 2 des Arzneimittelgesetzes 1961
 
 ### § 12
 
@@ -125,8 +125,4 @@ Die §§ 10 und 11 treten mit Wirkung vom 1. Januar 1978 in Kraft. Im übrigen t
 
 ### Schlußformel
 
-Der Bundesminister für Jugend, Familie und Gesundheit
-
 ### Anlage — (zu § 7 Abs. 3)
-
-(Fundstelle des Originaltextes: BGBl. I 1978, 756)

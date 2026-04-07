@@ -22,8 +22,6 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Anlage I — Vereinbarung über die Durchführung des Prüfverfahrens zur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)
 
-(Text siehe: EEMD-ZVAnl I)
-
 ### Anlage II — Vertrag über die Durchführung des europäischen elektronischen Mautdienstes auf Bundesstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes (EETS-Zulassungsvertrag)
 
 (Text siehe: EEMD-ZVAnl II)

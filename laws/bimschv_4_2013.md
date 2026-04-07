@@ -12,23 +12,17 @@
 
 (2) Das Genehmigungserfordernis erstreckt sich auf alle vorgesehenen
 
-1.
+1. Anlagenteile und Verfahrensschritte, die zum Betrieb notwendig sind, und
 
-2.
-
-a)
-
-b)
-
-c)
+2. Nebeneinrichtungen, die mit den Anlagenteilen und Verfahrensschritten nach Nummer 1 in einem räumlichen und betriebstechnischen Zusammenhang stehen und die von Bedeutung sein können für a)das Entstehen schädlicher Umwelteinwirkungen,b)die Vorsorge gegen schädliche Umwelteinwirkungen oderc)das Entstehen sonstiger Gefahren, erheblicher Nachteile oder erheblicher Belästigungen. das Entstehen schädlicher Umwelteinwirkungen, die Vorsorge gegen schädliche Umwelteinwirkungen oder das Entstehen sonstiger Gefahren, erheblicher Nachteile oder erheblicher Belästigungen.
 
 (3) Die im Anhang 1 bestimmten Voraussetzungen sind auch erfüllt, wenn mehrere Anlagen derselben Art in einem engen räumlichen und betrieblichen Zusammenhang stehen (gemeinsame Anlage) und zusammen die maßgebenden Leistungsgrenzen oder Anlagengrößen erreichen oder überschreiten werden. Ein enger räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die Anlagen
 
-1.
+1. auf demselben Betriebsgelände liegen,
 
-2.
+2. mit gemeinsamen Betriebseinrichtungen verbunden sind und
 
-3.
+3. einem vergleichbaren technischen Zweck dienen.
 
 (4) Gehören zu einer Anlage Teile oder Nebeneinrichtungen, die je gesondert genehmigungsbedürftig wären, so bedarf es lediglich einer Genehmigung.
 
@@ -40,17 +34,11 @@ c)
 
 ### § 2 — Zuordnung zu den Verfahrensarten
 
-(1) Das Genehmigungsverfahren wird durchgeführt nach Soweit die Zuordnung zu den Genehmigungsverfahren von der Leistungsgrenze oder Anlagengröße abhängt, gilt § 1 Absatz 1 Satz 4 entsprechend.
+(1) Das Genehmigungsverfahren wird durchgeführt nach
 
-1.
+1. § 10 des Bundes-Immissionsschutzgesetzes für a)Anlagen, die in Spalte c des Anhangs 1 mit dem Buchstaben G gekennzeichnet sind,b)Anlagen, die sich aus in Spalte c des Anhangs 1 mit dem Buchstaben G und dem Buchstaben V gekennzeichneten Anlagen zusammensetzen,c)Anlagen, die in Spalte c des Anhangs 1 mit dem Buchstaben V gekennzeichnet sind und zu deren Genehmigung nach den §§ 3a bis 3f des Gesetzes über die Umweltverträglichkeitsprüfung eine Umweltverträglichkeitsprüfung durchzuführen ist, Anlagen, die in Spalte c des Anhangs 1 mit dem Buchstaben G gekennzeichnet sind, Anlagen, die sich aus in Spalte c des Anhangs 1 mit dem Buchstaben G und dem Buchstaben V gekennzeichneten Anlagen zusammensetzen, Anlagen, die in Spalte c des Anhangs 1 mit dem Buchstaben V gekennzeichnet sind und zu deren Genehmigung nach den §§ 3a bis 3f des Gesetzes über die Umweltverträglichkeitsprüfung eine Umweltverträglichkeitsprüfung durchzuführen ist,
 
-a)
-
-b)
-
-c)
-
-2.
+2. § 19 des Bundes-Immissionsschutzgesetzes im vereinfachten Verfahren für in Spalte c des Anhangs 1 mit dem Buchstaben V gekennzeichnete Anlagen.
 
 (2) Kann eine Anlage vollständig verschiedenen Anlagenbezeichnungen im Anhang 1 zugeordnet werden, so ist die speziellere Anlagenbezeichnung maßgebend.
 
@@ -64,122 +52,10 @@ Anlagen nach Artikel 10 in Verbindung mit Anhang I der Richtlinie 2010/75/EU des
 
 ### Anhang 1
 
-Rohstoffbegriff in Nummer 7
-
 Der in Anlagenbeschreibungen unter Nummer 7 verwendete Begriff „Rohstoff“ gilt unabhängig davon, ob dieser zuvor verarbeitet wurde oder nicht.
-
-Abfallbegriff in Nummer 8
 
 Der in den Anlagenbeschreibungen unter den Nummern 8.2 bis 8.15 verwendete Begriff „Abfall“ betrifft jeweils ausschließlich Abfälle, auf die die Vorschriften des Kreislaufwirtschaftsgesetzes Anwendung finden.
 
-Mischungsregel
-
-Wird in Anlagenbeschreibungen unter Nummer 7 auf diese Mischungsregel Bezug genommen, errechnet sich die Produktionskapazität P beim Einsatz tierischer und pflanzlicher Rohstoffe wie folgt:
-
-wobei A den gewichtsprozentualen Anteil der tierischen Rohstoffe an den insgesamt eingesetzten Rohstoffen darstellt.
-
-Legende
-
-Nr.: Ordnungsnummer der Anlagenart
-
 Anlagenbeschreibung:
 
-Die vollständige Beschreibung der Anlagenart ergibt sich aus dem fortlaufenden Text von der 2. bis zur jeweils letzten Gliederungsebene der Ordnungsnummer. (z. B. ergibt sich die vollständige Beschreibung der Anlagenart von Nummer 1.2.4.1 aus dem fortlaufenden Text der Nummern 1.2, 1.2.4 und 1.2.4.1)
-
-Verfahrensart:
-
-Anlage gemäß Art. 10 der Richtlinie 2010/75/EU:
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-1.
-
-2.
-
-3.
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-1.
-
-2.
-
-1.
-
-2.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-1.
-
-2.
-
-1.
-
-2.
-
 ### Anhang 2 — Stoffliste zu Nr. 9.3 des Anhangs 1
-
-1.
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-2.
-
-–
-
-–
-
-–

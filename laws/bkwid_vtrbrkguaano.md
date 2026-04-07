@@ -18,5 +18,3 @@ Nach § 127 Absatz 3 Satz 1 des Bundesbeamtengesetzes wird dem Bundesverwaltungs
 Diese Anordnung ist mit Wirkung vom 1. April 2011 anzuwenden.
 
 ### Schlussformel
-
-Der Chef des Bundeskanzleramtes

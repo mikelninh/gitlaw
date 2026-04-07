@@ -14,9 +14,9 @@
 
 (1) Diese Verordnung gilt für
 
-1.
+1. Anzeigen der Aufnahme der betrieblichen Tätigkeit durch Sammler, Beförderer, Händler und Makler von Abfällen nach § 53 Absatz 1 Satz 1 des Kreislaufwirtschaftsgesetzes und
 
-2.
+2. Erlaubnisse für Sammler, Beförderer, Händler und Makler von gefährlichen Abfällen nach § 54 Absatz 1 Satz 1 des Kreislaufwirtschaftsgesetzes.
 
 (2) Diese Verordnung gilt auch für anzeige- und erlaubnispflichtige Tätigkeiten, die auf dem Gebiet der Bundesrepublik Deutschland durchgeführt werden im Rahmen einer Verbringung von Abfällen im Sinne der Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die Verbringung von Abfällen (ABl. L 190 vom 12.7.2006, S. 1, L 318 vom 28.11.2008, S. 15), die zuletzt durch die Verordnung (EU) Nr. 255/2013 (ABl. L 79 vom 21.3.2013, S. 19) geändert worden ist, in der jeweils geltenden Fassung.
 
@@ -36,37 +36,27 @@
 
 (2) Die erforderliche Zuverlässigkeit ist in der Regel nicht gegeben, wenn eine der in Absatz 1 genannten Personen
 
-1.
+1. wegen Verletzung von Vorschriften a)des Strafrechts über gemeingefährliche Delikte oder Delikte gegen die Umwelt,b)des Immissionsschutz-, Abfall-, Wasser-, Natur- und Landschaftsschutz-, Chemikalien-, Gentechnik- oder Atom- und Strahlenschutzrechts,c)des Lebensmittel-, Arzneimittel-, Pflanzenschutz- oder Infektionsschutzrechts,d)des Gewerbe-, Arbeitsschutz-, Transport- oder Gefahrgutrechts odere)des Betäubungsmittel-, Waffen- oder Sprengstoffrechtsinnerhalb der letzten fünf Jahre vor Anzeige der Aufnahme der betrieblichen Tätigkeit oder der Beantragung der Erlaubnis mit einer Geldbuße in Höhe von mehr als zweitausendfünfhundert Euro belegt oder zu einer Strafe verurteilt worden ist oder des Strafrechts über gemeingefährliche Delikte oder Delikte gegen die Umwelt, des Immissionsschutz-, Abfall-, Wasser-, Natur- und Landschaftsschutz-, Chemikalien-, Gentechnik- oder Atom- und Strahlenschutzrechts, des Lebensmittel-, Arzneimittel-, Pflanzenschutz- oder Infektionsschutzrechts, des Gewerbe-, Arbeitsschutz-, Transport- oder Gefahrgutrechts oder des Betäubungsmittel-, Waffen- oder Sprengstoffrechts
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-2.
+2. wiederholt oder grob pflichtwidrig gegen die in Nummer 1 genannten Vorschriften verstoßen hat.
 
 ### § 4 — Fachkunde von Anzeigepflichtigen
 
 (1) Im Falle einer gewerbsmäßigen Tätigkeit des anzeigenden Sammlers, Beförderers, Händlers oder Maklers von Abfällen setzt die nach § 53 Absatz 2 Satz 2 des Kreislaufwirtschaftsgesetzes notwendige Fachkunde des Inhabers, soweit er für die Leitung des Betriebes verantwortlich ist, und der für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen während einer zweijährigen praktischen Tätigkeit erworbene Kenntnisse über die vom Betrieb angezeigte Tätigkeit voraus. Abweichend von Satz 1 reichen während einer einjährigen praktischen Tätigkeit erworbene Kenntnisse über die vom Betrieb angezeigte Tätigkeit aus, wenn die betroffene Person auf einem Fachgebiet, dem der Betrieb hinsichtlich seiner Betriebsvorgänge zuzuordnen ist,
 
-1.
+1. ein Hochschul- oder Fachhochschulstudium abgeschlossen hat,
 
-2.
+2. eine kaufmännische oder technische Fachschul- oder Berufsausbildung besitzt oder
 
-3.
+3. eine Qualifikation als Meister vorweisen kann.
 
 (2) Die Voraussetzung des Absatzes 1 Satz 1 ist auch erfüllt, wenn sich im Falle der Anzeige einer gewerbsmäßigen Tätigkeit
 
-1.
+1. des Sammelns oder Beförderns von Abfällen die erworbenen Kenntnisse des Betroffenen nicht auf die angezeigte, sondern auf die jeweils andere Tätigkeit beziehen,
 
-2.
+2. des Handelns mit Abfällen die erworbenen Kenntnisse des Betroffenen nicht auf die angezeigte, sondern auf die Tätigkeit des Sammelns oder Beförderns beziehen oder
 
-3.
+3. des Makelns von Abfällen die erworbenen Kenntnisse des Betroffenen nicht auf die angezeigte, sondern auf die Tätigkeit des Sammelns, Beförderns oder Handelns von Abfällen beziehen.
 
 (3) Liegen die Voraussetzungen der Absätze 1 und 2 nicht vor, kann die nach § 53 Absatz 2 Satz 2 des Kreislaufwirtschaftsgesetzes notwendige Fachkunde auch durch den Besuch eines Lehrgangs, in dem Kenntnisse entsprechend der Anlage 1 vermittelt werden, erworben werden. Der Lehrgang nach Satz 1 muss vor Aufnahme der Tätigkeit abgeschlossen sein.
 
@@ -76,25 +66,19 @@ e)
 
 ### § 5 — Fachkunde von Erlaubnispflichtigen
 
-(1) Die nach § 54 Absatz 1 Satz 2 Nummer 2 des Kreislaufwirtschaftsgesetzes notwendige Fachkunde des Inhabers, soweit er für die Leitung des Betriebes verantwortlich ist, und der für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen setzt Folgendes voraus: Abweichend von Satz 1 Nummer 1 reichen während einer einjährigen praktischen Tätigkeit erworbene Kenntnisse über die vom Betrieb beantragte Tätigkeit aus, sofern die betroffene Person auf einem Fachgebiet, dem der Betrieb hinsichtlich seiner Betriebsvorgänge zuzuordnen ist,
+(1) Die nach § 54 Absatz 1 Satz 2 Nummer 2 des Kreislaufwirtschaftsgesetzes notwendige Fachkunde des Inhabers, soweit er für die Leitung des Betriebes verantwortlich ist, und der für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen setzt Folgendes voraus:
 
-1.
+1. während einer zweijährigen praktischen Tätigkeit erworbene Kenntnisse über die Tätigkeit, für die der Betrieb die Erlaubnis beantragt, sowie
 
-2.
-
-1.
-
-2.
-
-3.
+2. die Teilnahme an einem oder mehreren von der zuständigen Behörde anerkannten Lehrgängen, in denen Kenntnisse entsprechend der Anlage 1 vermittelt werden.
 
 (2) Die Voraussetzung des Absatzes 1 Satz 1 Nummer 1 ist auch erfüllt, wenn sich im Falle der Beantragung einer Erlaubnis für die Tätigkeit
 
-1.
+1. des Sammelns oder Beförderns von gefährlichen Abfällen die erworbenen Kenntnisse des Betroffenen nicht auf die beantragte, sondern auf die jeweils andere Tätigkeit beziehen,
 
-2.
+2. des Handelns mit gefährlichen Abfällen die erworbenen Kenntnisse des Betroffenen nicht auf die beantragte, sondern auf die Tätigkeit des Sammelns oder Beförderns von gefährlichen Abfällen beziehen oder
 
-3.
+3. des Makelns von gefährlichen Abfällen die erworbenen Kenntnisse des Betroffenen nicht auf die beantragte, sondern auf die Tätigkeit des Sammelns, Beförderns oder Handelns von gefährlichen Abfällen beziehen.
 
 (3) Der Inhaber, soweit er für die Leitung des Betriebes verantwortlich ist, und die für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen müssen durch geeignete Fortbildung über den für ihre Tätigkeit notwendigen aktuellen Wissensstand verfügen. Dazu haben sie regelmäßig, mindestens alle drei Jahre, an von der zuständigen Behörde anerkannten Lehrgängen, in denen Kenntnisse entsprechend der Anlage 1 vermittelt werden, teilzunehmen und dies der zuständigen Behörde unaufgefordert nachzuweisen.
 
@@ -126,23 +110,19 @@ Die Sachkunde des sonstigen Personals nach § 53 Absatz 2 Satz 2 und § 54 Absat
 
 ### § 8 — Elektronisches Anzeigeverfahren
 
-(1) Zur elektronischen Erstattung der Anzeige stellen die Länder ein bundesweit einheitliches informationstechnisches System bereit, in dem Die Länder sind befugt, Daten zu erheben, zu speichern und zu nutzen, die zur Durchführung des Anzeigeverfahrens erforderlich sind. Im Rahmen des elektronischen Anzeigeverfahrens von den Ländern gespeicherte Daten sind unverzüglich zu löschen, wenn sie zur Durchführung des Anzeigeverfahrens nicht mehr erforderlich sind. § 14 bleibt unberührt.
+(1) Zur elektronischen Erstattung der Anzeige stellen die Länder ein bundesweit einheitliches informationstechnisches System bereit, in dem
 
-1.
+1. der Vordruck nach Anlage 2 in elektronischer Form vorgehalten wird; das Feld „Unterschrift” im Vordruck nach Anlage 2 entfällt; und
 
-2.
-
-a)
-
-b)
+2. die Möglichkeit geschaffen wird a)für Entsorgungsfachbetriebe, der Anzeige das Zertifikat nach § 56 Absatz 3 des Kreislaufwirtschaftsgesetzes beizufügen undb)für Sammler, Beförderer, Händler und Makler von gefährlichen Abfällen, die einen EMAS-Standort betreiben, der Anzeige die Registrierungsurkunde beizufügen. für Entsorgungsfachbetriebe, der Anzeige das Zertifikat nach § 56 Absatz 3 des Kreislaufwirtschaftsgesetzes beizufügen und für Sammler, Beförderer, Händler und Makler von gefährlichen Abfällen, die einen EMAS-Standort betreiben, der Anzeige die Registrierungsurkunde beizufügen.
 
 (2) Für das elektronische Anzeigeverfahren gilt § 7 Absatz 1 Satz 2 bis 4, Absatz 2 bis 5 und Absatz 7 entsprechend, § 7 Absatz 5 jedoch mit der Maßgabe, dass die Bestätigung des Eingangs der vollständigen elektronischen Anzeige durch die zuständige Behörde, sofern sie auf elektronischem Wege erfolgt, den Vorgaben an die elektronische Form nach § 3a Absatz 2 des Verwaltungsverfahrensgesetzes zu entsprechen hat.
 
 (3) Die Länder stellen sicher, dass
 
-1.
+1. jederzeit Anzeigen nach Absatz 1 Satz 1 über das informationstechnische System erstattet werden können und
 
-2.
+2. nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1) entsprechende technische und organisatorische Sicherungsmaßnahmen ergriffen werden.
 
 (4) Das Nähere über die Einrichtung und die Nutzungsbedingungen des informationstechnischen Systems regeln die Länder durch Vereinbarung.
 
@@ -154,35 +134,23 @@ b)
 
 (2) Hat der Antragsteller seinen Hauptsitz nicht im Inland, ist diejenige Behörde des Landes zuständig, in dessen Bezirk das Sammeln, Befördern, Handeln oder Makeln von gefährlichen Abfällen erstmals vorgenommen wird.
 
-(3) Dem Antrag sind folgende Unterlagen beizufügen: Die Pflicht zur Beifügung von Unterlagen nach Satz 1 entfällt, wenn die jeweiligen Unterlagen auf Veranlassung des Antragstellers von einem Dritten an die zuständige Behörde übersendet werden.
+(3) Dem Antrag sind folgende Unterlagen beizufügen:
 
-1.
+1. die Gewerbeanmeldung,
 
-2.
+2. ein Auszug aus dem Handels-, Vereins- oder Genossenschaftsregister, sofern eine Eintragung erfolgt ist,
 
-3.
+3. eine firmenbezogene Auskunft, Belegart 9, aus dem Gewerbezentralregister, sofern es sich bei dem Unternehmen um eine juristische Person oder Personenvereinigung handelt,
 
-4.
+4. eine personenbezogene Auskunft, Belegart 9, aus dem Gewerbezentralregister für a)den Inhaber undb)die für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen, sofern solche vorhanden sind, den Inhaber und die für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen, sofern solche vorhanden sind,
 
-a)
+5. ein Führungszeugnis, Belegart OG, a)des Inhabers undb)der für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen, sofern solche vorhanden sind, des Inhabers und der für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen, sofern solche vorhanden sind,
 
-b)
+6. ein Nachweis über die Fachkunde a)des Inhabers, soweit er für die Leitung des Betriebes verantwortlich ist, undb)der für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen, sofern solche vorhanden sind, des Inhabers, soweit er für die Leitung des Betriebes verantwortlich ist, und der für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen, sofern solche vorhanden sind,
 
-5.
+7. der Nachweis einer Betriebshaftpflichtversicherung und einer auf die jeweilige Tätigkeit bezogenen Umwelthaftpflichtversicherung, sofern solche Versicherungen vorhanden sind, sowie
 
-a)
-
-b)
-
-6.
-
-a)
-
-b)
-
-7.
-
-8.
+8. der Nachweis der Kraftfahrzeug-Haftpflichtversicherung bei Sammlern und Beförderern von Abfällen, die gefährliche Abfälle auf öffentlichen Straßen befördern.
 
 (4) Die dem Antrag beizufügenden Unterlagen nach Absatz 3 Satz 1 Nummer 1, 2, 6, 7 und 8 können als Kopie eingereicht werden. Bestehen Zweifel an der Echtheit der eingereichten Unterlagen, kann die zuständige Behörde die Einreichung von Originalen verlangen.
 
@@ -190,13 +158,13 @@ b)
 
 (1) Nach Eingang des Antrages überprüft die zuständige Behörde die Vollständigkeit des Antrages. Sie stellt dem Antragsteller im Falle der Vollständigkeit unverzüglich nach Eingang des Antrages gemäß § 71b Absatz 3 Satz 1 des Verwaltungsverfahrensgesetzes eine Empfangsbestätigung aus. Die Empfangsbestätigung hat den Vorgaben des § 71b Absatz 3 Satz 2 des Verwaltungsverfahrensgesetzes zu entsprechen und insoweit folgende Angaben zu enthalten:
 
-1.
+1. das Datum des Eingangs des vollständigen Antrages,
 
-2.
+2. einen Hinweis auf die Genehmigungsfiktion nach § 54 Absatz 6 Satz 2 des Kreislaufwirtschaftsgesetzes in Verbindung mit § 42a des Verwaltungsverfahrensgesetzes,
 
-3.
+3. das Datum des Beginns und des Endes der Frist für die Genehmigungsfiktion sowie
 
-4.
+4. einen Hinweis auf mögliche Rechtsbehelfe im Zusammenhang mit der Erlaubnis.
 
 (2) Sofern der Antrag unvollständig ist, teilt die zuständige Behörde dem Antragsteller nach § 71b Absatz 4 Satz 1 des Verwaltungsverfahrensgesetzes unverzüglich mit, welche Unterlagen nachzureichen sind. Nach § 71b Absatz 4 Satz 2 des Verwaltungsverfahrensgesetzes hat die Mitteilung nach Satz 1 den Hinweis zu enthalten, dass die Frist für die Genehmigungsfiktion nach § 54 Absatz 6 Satz 2 des Kreislaufwirtschaftsgesetzes in Verbindung mit § 42a des Verwaltungsverfahrensgesetzes erst mit Übersendung des vollständigen Antrages beginnt. Nach Übersendung des vollständigen Antrages ist Absatz 1 entsprechend anzuwenden mit der Maßgabe, dass nach § 71b Absatz 4 Satz 3 des Verwaltungsverfahrensgesetzes dem Antragsteller das Datum des Eingangs der nachgereichten Unterlagen mitzuteilen ist.
 
@@ -214,19 +182,19 @@ b)
 
 ### § 11 — Elektronisches Verfahren zur Erlaubniserteilung
 
-(1) Zur elektronischen Stellung des Erlaubnisantrages stellen die Länder ein bundesweit einheitliches informationstechnisches System bereit, in dem Die Länder sind befugt, Daten zu erheben, zu speichern und zu nutzen, die zur Durchführung des Erlaubnisverfahrens erforderlich sind. Im Rahmen des Erlaubnisverfahrens von den Ländern gespeicherte Daten sind unverzüglich zu löschen, wenn sie zur Durchführung des Erlaubnisverfahrens nicht mehr erforderlich sind. § 14 bleibt unberührt.
+(1) Zur elektronischen Stellung des Erlaubnisantrages stellen die Länder ein bundesweit einheitliches informationstechnisches System bereit, in dem
 
-1.
+1. der Vordruck nach Anlage 3 in elektronischer Form vorgehalten wird und
 
-2.
+2. für den Antragsteller die Möglichkeit geschaffen wird, die Unterlagen nach § 9 Absatz 3 Satz 1 beizufügen.
 
 (2) Der Erlaubnisantrag hat den Vorgaben an die elektronische Form nach § 3a Absatz 2 des Verwaltungsverfahrensgesetzes zu entsprechen. Für das elektronische Erlaubnisverfahren gelten § 9 Absatz 2 bis 4 sowie § 10 Absatz 1 bis 3 und Absatz 5 bis 8 entsprechend, § 10 Absatz 3 Satz 1 jedoch mit der Maßgabe, dass die Entscheidung über die Erlaubniserteilung, sofern sie auf elektronischem Wege erfolgt, den Vorgaben an die elektronische Form nach § 3a Absatz 2 des Verwaltungsverfahrensgesetzes zu entsprechen hat. § 71e des Verwaltungsverfahrensgesetzes bleibt unberührt.
 
 (3) Die Länder stellen sicher, dass
 
-1.
+1. jederzeit Erlaubnisse nach Absatz 1 Satz 1 über das informationstechnische System beantragt werden können und
 
-2.
+2. nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 entsprechende organisatorische und technische Sicherungsmaßnahmen ergriffen werden.
 
 (4) Das Nähere über die Einrichtung und Nutzung des informationstechnischen Systems regeln die Länder durch Vereinbarung.
 
@@ -234,17 +202,17 @@ b)
 
 (1) Ungeachtet des § 54 Absatz 3 des Kreislaufwirtschaftsgesetzes, des § 2 Absatz 2 Satz 1 des Verpackungsgesetzes, des § 2 Absatz 3 Satz 1 des Elektro- und Elektronikgerätegesetzes und des § 1 Absatz 3 Satz 1 des Batteriegesetzes sind von der Erlaubnispflicht nach § 54 Absatz 1 Satz 1 des Kreislaufwirtschaftsgesetzes auch ausgenommen:
 
-1.
+1. Sammler, Beförderer, Händler und Makler von gefährlichen Abfällen, die im Rahmen wirtschaftlicher Unternehmen tätig sind,
 
-2.
+2. Sammler, Beförderer, Händler und Makler von gefährlichen Abfällen, die solche Abfälle sammeln, befördern, mit diesen handeln oder diese makeln, die von einem Hersteller oder Vertreiber freiwillig oder auf Grund einer Rechtsverordnung zurückgenommen werden,
 
-3.
+3. Sammler, Beförderer, Händler und Makler von gefährlichen Abfällen, die Altfahrzeuge im Rahmen ihrer Überlassung nach § 4 Absatz 1 bis 3 der Altfahrzeug-Verordnung in der Fassung der Bekanntmachung vom 21. Juni 2002 (BGBl. I S. 2214), die zuletzt durch Artikel 3 der Verordnung vom 5. Dezember 2013 (BGBl. I S. 4043) geändert worden ist, in der jeweils geltenden Fassung, sammeln, befördern, mit diesen handeln oder diese makeln,
 
-4.
+4. Sammler, Beförderer, Händler und Makler von gefährlichen Abfällen, die einen EMAS-Standort betreiben und bei denen der EMAS-registrierte Tätigkeitsbereich in Klasse 38.12 (Sammlung gefährlicher Abfälle), Klasse 38.22 (Behandlung und Beseitigung gefährlicher Abfälle) oder Klasse 46.77 (Großhandel mit Altmaterialien und Reststoffen) des Anhangs I der Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 zur Aufstellung der statistischen Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der EG über bestimmte Bereiche der Statistik (ABl. L 393 vom 30.12.2006, S. 1), die durch die Verordnung (EG) Nr. 295/2008 (ABl. L 97 vom 9.4.2008, S. 13) geändert worden ist, in der jeweils geltenden Fassung, eingeordnet ist, wobei die Ausnahme jeweils nur für den Tätigkeitsbereich gilt, für den die EMAS-Registrierung vorliegt,
 
-5.
+5. Sammler und Beförderer von gefährlichen Abfällen, die Abfälle mit Seeschiffen sammeln oder befördern, sowie
 
-6.
+6. Sammler und Beförderer von gefährlichen Abfällen, die Abfälle im Rahmen von Paket-, Express- und Kurierdiensten sammeln oder befördern, soweit diese in ihren Beförderungsbedingungen Rechtsvorschriften berücksichtigen, die aus Gründen der Sicherheit im Zusammenhang mit der Beförderung gefährlicher Güter erlassen sind.
 
 (2) Soweit es zur Wahrung des Wohls der Allgemeinheit erforderlich ist, kann die zuständige Behörde abweichend von Absatz 1 die Durchführung eines Erlaubnisverfahrens nach § 54 des Kreislaufwirtschaftsgesetzes anordnen.
 
@@ -262,11 +230,11 @@ b)
 
 ### § 13a — Ausnahmen von der Kennzeichnungspflicht
 
-Die zuständige Behörde kann Sammler und Beförderer von der Pflicht nach § 55 Absatz 1 des Kreislaufwirtschaftsgesetzes und § 10 Absatz 1 des Abfallverbringungsgesetzes, Fahrzeuge vor Antritt der Fahrt mit Warntafeln zu versehen, ganz oder teilweise freistellen, wenn Die zuständige Behörde kann eine andere geeignete Kennzeichnung der Fahrzeuge verlangen.
+Die zuständige Behörde kann Sammler und Beförderer von der Pflicht nach § 55 Absatz 1 des Kreislaufwirtschaftsgesetzes und § 10 Absatz 1 des Abfallverbringungsgesetzes, Fahrzeuge vor Antritt der Fahrt mit Warntafeln zu versehen, ganz oder teilweise freistellen, wenn
 
-1.
+1. eine Anbringung der Warntafeln technisch nicht möglich ist oder
 
-2.
+2. eine Kennzeichnung aus Gründen des Wohls der Allgemeinheit nicht erforderlich ist.
 
 ### § 14 — Behördenregister
 
@@ -278,9 +246,9 @@ Die zuständige Behörde kann Sammler und Beförderer von der Pflicht nach § 55
 
 Ordnungswidrig im Sinne des § 69 Absatz 2 Nummer 15 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. einer vollziehbaren Anordnung nach § 4 Absatz 5 zuwiderhandelt oder
 
-2.
+2. entgegen § 13 Absatz 1 Satz 1, 3, 4 oder 5 oder Absatz 2 eine dort genannte Kopie oder einen dort genannten Ausdruck nicht mitführt.
 
 ### § 16 — Übergangsvorschriften
 
@@ -298,57 +266,21 @@ Ordnungswidrig im Sinne des § 69 Absatz 2 Nummer 15 des Kreislaufwirtschaftsges
 
 Die Lehrgänge sollen Grundkenntnisse über folgende Bereiche vermitteln:
 
-1.
+1. das Kreislaufwirtschaftsgesetz, insbesondere a)den Anwendungsbereich,b)die wichtigsten Begriffsbestimmungen,c)die Abfallhierarchie,d)die Grundpflichten (Vermeiden, Verwerten, Beseitigen),e)die Getrennthaltungspflichten und Vermischungsverbote,f)das Verhältnis des Abfallrechts zum Immissionsschutzrecht,g)das Verhältnis des Abfallrechts zum Chemikalienrecht,h)die Überlassungspflichten,i)das Anzeigeverfahren für gemeinnützige und gewerbliche Sammlungen,j)die Beauftragung Dritter,k)die Register- und Nachweispflichten,l)das Anzeige- und Erlaubnisverfahren für Sammler, Beförderer, Händler und Makler von Abfällen,m)die Kennzeichnung von Fahrzeugen undn)die Bußgeldvorschriften, den Anwendungsbereich, die wichtigsten Begriffsbestimmungen, die Abfallhierarchie, die Grundpflichten (Vermeiden, Verwerten, Beseitigen), die Getrennthaltungspflichten und Vermischungsverbote, das Verhältnis des Abfallrechts zum Immissionsschutzrecht, das Verhältnis des Abfallrechts zum Chemikalienrecht, die Überlassungspflichten, das Anzeigeverfahren für gemeinnützige und gewerbliche Sammlungen, die Beauftragung Dritter, die Register- und Nachweispflichten, das Anzeige- und Erlaubnisverfahren für Sammler, Beförderer, Händler und Makler von Abfällen, die Kennzeichnung von Fahrzeugen und die Bußgeldvorschriften,
 
-a)
+2. die auf Grund des Kreislaufwirtschaftsgesetzes ergangenen Rechtsverordnungen, insbesondere a)diese Verordnung,b)die Nachweisverordnung,c)die Entsorgungsfachbetriebeverordnung undd)die Abfallverzeichnis-Verordnung, diese Verordnung, die Nachweisverordnung, die Entsorgungsfachbetriebeverordnung und die Abfallverzeichnis-Verordnung,
 
-b)
+3. das Recht der Abfallverbringung,
 
-c)
+4. Art und Beschaffenheit von gefährlichen Abfällen,
 
-d)
+5. schädliche Umwelteinwirkungen und sonstige Gefahren, erhebliche Nachteile und erhebliche Belästigungen, die von Abfällen ausgehen können, und Maßnahmen zu ihrer Verhinderung oder Beseitigung,
 
-e)
+6. sonstige Vorschriften des Umweltrechts, die im Zusammenhang mit der Sammlung, der Beförderung, dem Handeln oder dem Makeln von Abfällen von Bedeutung sind,
 
-f)
+7. Bezüge zum Güterkraftverkehrs- und Gefahrgutrecht sowie
 
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
+8. Vorschriften der betrieblichen Haftung.
 
 ### Anlage 2 — (zu § 7 Absatz 1 Satz 1 und Absatz 5, § 8 Absatz 1 Satz 1 Nummer 1 und § 16 Absatz 1 Satz 2)
 

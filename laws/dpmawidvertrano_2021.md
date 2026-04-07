@@ -15,8 +15,6 @@ Dem Bundesverwaltungsamt wird die Zuständigkeit für den Erlass von Widerspruch
 
 ### Schlussformel
 
-Die Bundesministerin der Justiz und für Verbraucherschutz
-
 ### § 2 — Vertretung bei Klagen
 
 Der Präsidentin oder dem Präsidenten des Bundesverwaltungsamts wird die Vertretung der Bundesrepublik Deutschland in verwaltungsgerichtlichen Verfahren in Angelegenheiten der Besoldung und des Reisekostenrechts übertragen, soweit das Bundesverwaltungsamt für den Erlass des Widerspruchsbescheids zuständig war.

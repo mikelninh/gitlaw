@@ -15,13 +15,13 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (2) Die Verschmelzung darf in das Handelsregister des Sitzes der übertragenden Gesellschaft erst eingetragen werden, nachdem durch mindestens drei von der Hauptversammlung gewählte Mitglieder des Aufsichtsrats der Deutschen Industriebank und durch die Bundesrepublik Deutschland, vertreten durch den Bundesminister der Finanzen, zum Zwecke der Verwendung des Vermögens der Deutschen Industriebank eine Stiftung des privaten Rechts gegründet und genehmigt worden ist, deren Satzung sicherstellt, daß
 
-1.
+1. die Stiftung ausschließlich der Förderung der gewerblichen Wirtschaft dient,
 
-2.
+2. die Stiftung ein Organ erhält, das die Geschäftsführung des Vorstandes zu überwachen hat,
 
-3.
+3. die Bundesrepublik Deutschland sowie die Länder Nordrhein-Westfalen und Berlin in dem in Nummer 2 genannten Organ vertreten sind,
 
-4.
+4. die Veräußerung von Aktien der Industriekreditbank Aktiengesellschaft aus dem Stiftungsvermögen sowie eine Änderung der Satzung gegen die Mehrheit der Stimmen der Vertreter der in Nummer 3 genannten Körperschaften nicht erfolgen kann.
 
 ### § 2
 

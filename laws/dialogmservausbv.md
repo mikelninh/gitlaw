@@ -26,45 +26,45 @@ Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sol
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
-1.
+1. Der Ausbildungsbetrieb:
 
-1.1
+1.1 Stellung, Rechtsform und Struktur,
 
-1.2
+1.2 Berufsbildung, arbeits-, sozial- und tarifrechtliche Vorschriften,
 
-1.3
+1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-1.4
+1.4 Umweltschutz;
 
-2.
+2. Dienstleistungsangebot;
 
-3.
+3. Arbeitsorganisation, Kooperation, Teamarbeit;
 
-4.
+4. Betriebliche Prozessorganisation, qualitätssichernde Maßnahmen;
 
-5.
+5. Dialogprozesse:
 
-5.1
+5.1 Sprachliche und schriftliche Kommunikation,
 
-5.2
+5.2 Kundenbetreuung,
 
-5.3
+5.3 Kundenbindung,
 
-5.4
+5.4 Kundengewinnung;
 
-6.
+6. Informations- und Kommunikationssysteme:
 
-6.1
+6.1 Software, Netze und Dienste,
 
-6.2
+6.2 Datenbanken, Datenschutz und Datensicherheit;
 
-7.
+7. Projekte:
 
-7.1
+7.1 Projektvorbereitung,
 
-7.2
+7.2 Projektdurchführung,
 
-7.3
+7.3 Projektcontrolling.
 
 ### § 5 — Ausbildungsrahmenplan
 
@@ -86,49 +86,39 @@ Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihn
 
 (3) Die Zwischenprüfung ist schriftlich in höchstens 120 Minuten durchzuführen. Der Prüfling soll dabei praxisbezogene Aufgaben oder Fälle aus folgenden Gebieten bearbeiten:
 
-1.
+1. Leistungsangebote im Dialogmarketing,
 
-2.
+2. Kommunikationsprozesse,
 
-3.
+3. Arbeits- und Aufgabengestaltung,
 
-4.
+4. Wirtschafts- und Sozialkunde.
 
 ### § 9 — Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Die Abschlussprüfung besteht aus den Prüfungsbereichen: Die Prüfung ist in den Prüfungsbereichen nach den Nummern 1 bis 3 schriftlich und im Prüfungsbereich nach der Nummer 4 mündlich durchzuführen.
+(2) Die Abschlussprüfung besteht aus den Prüfungsbereichen:
 
-1.
+1. Dienstleistungsangebot und Kommunikation,
 
-2.
+2. Projektabwicklung im Dialogmarketing,
 
-3.
+3. Wirtschafts- und Sozialkunde,
 
-4.
+4. Kundengespräch.
 
 (3) Die Anforderungen in den Prüfungsbereichen sind:
 
-1.
+1. im Prüfungsbereich Dienstleistungsangebot und Kommunikation: In höchstens 120 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle insbesondere aus den Gebietena)Leistungen im Dialogmarketing,b)Kernprozesse im Dialogmarketing Leistungen im Dialogmarketing, Kernprozesse im Dialogmarketing bearbeiten und dabei zeigen, dass er seine Arbeit planen und organisieren, Aufträge prozessorientiert unter Berücksichtigung von Sicherheit und Gesundheitsschutz bei der Arbeit bearbeiten, qualitätssichernde Maßnahmen umsetzen, Instrumente und Kommunikationstechniken zur Kundenbetreuung, Kundenbindung und Kundengewinnung einsetzen sowie dabei rechtliche Rahmenbedingungen berücksichtigen kann;
 
-a)
+2. im Prüfungsbereich Projektabwicklung im Dialogmarketing: In höchstens 90 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle insbesondere aus den Gebietena)Projektorganisation,b)Dialogsysteme Projektorganisation, Dialogsysteme bearbeiten und dabei zeigen, dass er Projekte vorbereiten, Projektpläne und -ziele qualitätsgerecht umsetzen, Kennzahlen von Projekten aufbereiten und auswerten, Informations- und Kommunikationstechniken sowie Datenbanken einsetzen und dabei Datenschutz und Datensicherheit berücksichtigen kann;
 
-b)
+3. im Prüfungsbereich Wirtschafts- und Sozialkunde: In höchstens 60 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle bearbeiten und dabei zeigen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen kann;
 
-2.
-
-a)
-
-b)
-
-3.
-
-4.
+4. im Prüfungsbereich Kundengespräch: Der Prüfling soll je ein Inbound- und ein Outboundgespräch führen, die sich jeweils auf das gleiche Produkt oder die gleiche Dienstleistung beziehen sollen. Dabei soll er zeigen, dass er Kunden beraten, Kunden gewinnen, Gespräche mit Kunden systematisch und situationsbezogen führen, zielorientiert kommunizieren und Gesprächsführungstechniken einsetzen sowie Daten aus dem Gesprächsverlauf erfassen kann. Grundlage beider Gespräche ist die Beschreibung eines Produkts oder einer Dienstleistung. Der Prüfling bestimmt entweder das Gebiet Produkte oder das Gebiet Dienstleistungen. Aus diesem Gebiet werden dem Prüfling zwei Beschreibungen vorgelegt. Hieraus wählt er eine aus. Nach der Auswahl ist dem Prüfling eine Vorbereitungszeit von höchstens 15 Minuten zu gewähren. Die Kundengespräche sollen die Dauer von insgesamt 20 Minuten nicht überschreiten.
 
 (4) Sind die Prüfungsleistungen in bis zu zwei schriftlichen Prüfungsbereichen mit "mangelhaft" und in den übrigen schriftlichen Prüfungsbereichen mit mindestens "ausreichend" bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit "mangelhaft" bewerteten Prüfungsbereiche die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Der Prüfungsbereich ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind die Ergebnisse der schriftlichen Arbeit und der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
-
-(5) Bei der Ermittlung des Gesamtergebnisses sind die Prüfungsbereiche wie folgt zu gewichten:
 
 (6) Zum Bestehen der Abschlussprüfung müssen im Gesamtergebnis, im Prüfungsbereich Kundengespräch und in mindestens zwei der in Absatz 2 Nr. 1 bis 3 genannten Prüfungsbereiche jeweils mindestens ausreichende Prüfungsleistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
 
@@ -138,236 +128,48 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 ### Anlage 1 — (zu § 5)
 
-(Fundstelle: BGBl. I 2006, 1241 - 1244)
+a) Geschäftsfelder des Ausbildungsbetriebes und seine Stellung am Markt beschreiben
 
-a)
+b) Aufbau- und Ablauforganisation sowie Zuständigkeiten im Ausbildungsbetrieb erläutern
 
-b)
+c) Rechtsform des Ausbildungsbetriebes darstellen
 
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
+d) Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen, Behörden, Gewerkschaften und Berufsvertretungen beschreiben
 
 ### Anlage 2 — (zu § 5)
 
-(Fundstelle: BGBl. I 2006, 1245)
+(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
-(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen zu vermitteln.
+3. Arbeitsorganisation, Kooperation, Teamarbeit, Lernziele e und f,
 
-1.1
+5.2 Kundenbetreuung,
 
-1.2
+6.1 Software, Netze und Dienste, Lernziel c,
 
-1.3
+6.2 Datenbanken, Datenschutz und Datensicherheit, Lernziele b und c,
 
-1.4
+(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
-2.
+3. Arbeitsorganisation, Kooperation, Teamarbeit, Lernziele a und b,
 
-5.1
+5.3 Kundenbindung,
 
-6.1
+6.2 Datenbanken, Datenschutz und Datensicherheit, Lernziele d und e,
 
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen zu vermitteln.
+(2) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
-3.
+1.2 Berufsbildung, arbeits-, sozial- und tarifrechtliche Vorschriften, Lernziele e und f,
 
-5.2
+3. Arbeitsorganisation, Kooperation, Teamarbeit, Lernziele g bis j,
 
-6.1
+4. Betriebliche Prozessorganisation, qualitätssichernde Maßnahmen
 
-6.2
+(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
-(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen zu vermitteln.
+3. Arbeitsorganisation, Kooperation, Teamarbeit, Lernziele c und d,
 
-3.
+7.1 Projektvorbereitung,
 
-5.3
+7.2 Projektdurchführung,
 
-6.2
-
-(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen zu vermitteln.
-
-5.4
-
-6.1
-
-6.2
-
-(2) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen zu vermitteln.
-
-1.2
-
-3.
-
-4.
-
-(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen zu vermitteln.
-
-3.
-
-7.1
-
-7.2
-
-7.3
+7.3 Projektcontrolling

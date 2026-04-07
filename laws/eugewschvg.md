@@ -20,17 +20,17 @@ Verfahren nach den Abschnitten 2 und 3 dieses Gesetzes sind Familiensachen. Auf 
 
 Im Sinne dieses Abschnitts ist
 
-1.
+1. Mitgliedstaat jeder Mitgliedstaat der Europäischen Union mit Ausnahme Dänemarks und Irlands,
 
-2.
+2. Schutzmaßnahme eine in einem anderen Mitgliedstaat nach dessen nationalem Recht und nationalem Verfahren ergangene Entscheidung in Strafsachen, mit der einer gefährdenden Person (Nummer 6) eines oder mehrere der in § 6 Nummer 2 genannten Verbote oder Beschränkungen auferlegt werden, um eine geschützte Person (Nummer 5) vor einer strafbaren Handlung zu schützen, die ihr Leben, ihre physische oder psychische Integrität, ihre Würde, ihre persönliche Freiheit oder ihre sexuelle Integrität gefährden könnte,
 
-3.
+3. Europäische Schutzanordnung eine von der Anordnungsbehörde (Nummer 4) eines anderen Mitgliedstaates getroffene Entscheidung im Zusammenhang mit einer Schutzmaßnahme, auf deren Grundlage ein innerstaatliches Gericht eine oder mehrere Maßnahmen nach dem Gewaltschutzgesetz ergreifen soll, um den Schutz der geschützten Person (Nummer 5) fortzuführen,
 
-4.
+4. Anordnungsbehörde die Behörde, die die Europäische Schutzanordnung erlassen hat oder erlassen soll,
 
-5.
+5. geschützte Person eine natürliche Person, die dem Schutz einer Europäischen Schutzanordnung unterliegt,
 
-6.
+6. gefährdende Person eine natürliche Person, vor der die geschützte Person durch eine Europäische Schutzanordnung geschützt wird.
 
 ### § 3 — Entgegennahme und Übermittlung eines Antrags auf Erlass einer Europäischen Schutzanordnung
 
@@ -60,41 +60,13 @@ Im Sinne dieses Abschnitts ist
 
 Die Anerkennung kann nur versagt werden, wenn
 
-1.
+1. die Europäische Schutzanordnung nicht mindestens folgende Angaben in deutscher Sprache enthält und diese auch binnen der gemäß § 4 Absatz 3 gesetzten Frist nicht vervollständigt worden sind: a)Name, Anschrift und Staatsangehörigkeit der geschützten Person sowie Name, Anschrift und Staatsangehörigkeit ihres Vormunds oder ihres Vertreters, wenn sie minderjährig oder geschäftsunfähig ist,b)Tag, ab dem die geschützte Person im Inland ihren Wohnsitz hat oder sich dort aufhalten möchte, und der Zeitraum oder die Zeiträume des Aufenthalts, sofern bekannt,c)Name, Anschrift, Telefon- und Faxnummer sowie E-Mail-Adresse der Anordnungsbehörde,d)Angaben zu dem Rechtsakt (beispielsweise Nummer und Datum), der die Schutzmaßnahme, die dem Erlass der Europäischen Schutzanordnung zugrunde liegt, enthält,e)Zusammenfassung des Sachverhalts und der Umstände, die zum Erlass der Schutzmaßnahme geführt haben,f)Verbote oder Beschränkungen, die der gefährdenden Person mit der der Europäischen Schutzanordnung zugrunde liegenden Schutzmaßnahme auferlegt wurden, Dauer dieser Verbote oder Beschränkungen und gegebenenfalls Angabe der Sanktionen, die ein Verstoß gegen diese Verbote oder Beschränkungen nach sich zieht,g)soweit vorliegend, Angaben zu einer verwendeten technischen Vorrichtung, die der geschützten Person oder der gefährdenden Person als Mittel zur Vollstreckung der Schutzmaßnahme zur Verfügung gestellt wurde,h)Name, Anschrift und Staatsangehörigkeit der gefährdenden Person,i)sofern diese Angaben der Anordnungsbehörde bekannt sind, Angaben darüber, ob der geschützten Person oder der gefährdenden Person im anordnenden Staat Verfahrenskostenhilfe gewährt worden ist,j)soweit vorliegend, eine Beschreibung sonstiger Umstände, die auf die Bewertung der Gefahr, die der geschützten Person droht, Einfluss haben könnten,k)soweit zutreffend, ein Hinweis, dass ein Urteil im Sinne des Artikels 2 des Rahmenbeschlusses 2008/947/JI des Rates vom 27. November 2008 über die Anwendung des Grundsatzes der gegenseitigen Anerkennung auf Urteile und Bewährungsentscheidungen im Hinblick auf die Überwachung von Bewährungsmaßnahmen und alternativen Sanktionen (ABl. L 337 vom 16.12.2008, S. 102), der durch Rahmenbeschluss 2009/299/JI (ABl. L 81 vom 27.3.2009, S. 24) geändert worden ist, oder eine Entscheidung über Überwachungsmaßnahmen im Sinne des Artikels 4 des Rahmenbeschlusses 2009/829/JI des Rates vom 23. Oktober 2009 über die Anwendung – zwischen den Mitgliedstaaten der Europäischen Union – des Grundsatzes der gegenseitigen Anerkennung auf Entscheidungen über Überwachungsmaßnahmen als Alternative zur Untersuchungshaft (ABl. L 294 vom 11.11.2009, S. 20) bereits einem anderen Mitgliedstaat übermittelt wurde, sofern es sich dabei nicht um die Bundesrepublik Deutschland handelt, sowie Angabe der für die Vollstreckung dieses Urteils oder dieser Entscheidung zuständigen Behörde dieses anderen Mitgliedstaates, Name, Anschrift und Staatsangehörigkeit der geschützten Person sowie Name, Anschrift und Staatsangehörigkeit ihres Vormunds oder ihres Vertreters, wenn sie minderjährig oder geschäftsunfähig ist, Tag, ab dem die geschützte Person im Inland ihren Wohnsitz hat oder sich dort aufhalten möchte, und der Zeitraum oder die Zeiträume des Aufenthalts, sofern bekannt, Name, Anschrift, Telefon- und Faxnummer sowie E-Mail-Adresse der Anordnungsbehörde, Angaben zu dem Rechtsakt (beispielsweise Nummer und Datum), der die Schutzmaßnahme, die dem Erlass der Europäischen Schutzanordnung zugrunde liegt, enthält, Zusammenfassung des Sachverhalts und der Umstände, die zum Erlass der Schutzmaßnahme geführt haben, Verbote oder Beschränkungen, die der gefährdenden Person mit der der Europäischen Schutzanordnung zugrunde liegenden Schutzmaßnahme auferlegt wurden, Dauer dieser Verbote oder Beschränkungen und gegebenenfalls Angabe der Sanktionen, die ein Verstoß gegen diese Verbote oder Beschränkungen nach sich zieht, soweit vorliegend, Angaben zu einer verwendeten technischen Vorrichtung, die der geschützten Person oder der gefährdenden Person als Mittel zur Vollstreckung der Schutzmaßnahme zur Verfügung gestellt wurde, Name, Anschrift und Staatsangehörigkeit der gefährdenden Person, sofern diese Angaben der Anordnungsbehörde bekannt sind, Angaben darüber, ob der geschützten Person oder der gefährdenden Person im anordnenden Staat Verfahrenskostenhilfe gewährt worden ist, soweit vorliegend, eine Beschreibung sonstiger Umstände, die auf die Bewertung der Gefahr, die der geschützten Person droht, Einfluss haben könnten, soweit zutreffend, ein Hinweis, dass ein Urteil im Sinne des Artikels 2 des Rahmenbeschlusses 2008/947/JI des Rates vom 27. November 2008 über die Anwendung des Grundsatzes der gegenseitigen Anerkennung auf Urteile und Bewährungsentscheidungen im Hinblick auf die Überwachung von Bewährungsmaßnahmen und alternativen Sanktionen (ABl. L 337 vom 16.12.2008, S. 102), der durch Rahmenbeschluss 2009/299/JI (ABl. L 81 vom 27.3.2009, S. 24) geändert worden ist, oder eine Entscheidung über Überwachungsmaßnahmen im Sinne des Artikels 4 des Rahmenbeschlusses 2009/829/JI des Rates vom 23. Oktober 2009 über die Anwendung – zwischen den Mitgliedstaaten der Europäischen Union – des Grundsatzes der gegenseitigen Anerkennung auf Entscheidungen über Überwachungsmaßnahmen als Alternative zur Untersuchungshaft (ABl. L 294 vom 11.11.2009, S. 20) bereits einem anderen Mitgliedstaat übermittelt wurde, sofern es sich dabei nicht um die Bundesrepublik Deutschland handelt, sowie Angabe der für die Vollstreckung dieses Urteils oder dieser Entscheidung zuständigen Behörde dieses anderen Mitgliedstaates,
 
-a)
+2. der Europäischen Schutzanordnung keine Schutzmaßnahme zugrunde liegt, mit der der gefährdenden Person eines oder mehrere der folgenden Verbote oder Beschränkungen auferlegt wurden: a)das Verbot des Betretens bestimmter Räumlichkeiten, Orte oder festgelegter Gebiete, in oder an denen sich die geschützte Person aufhält oder die sie aufsucht,b)das Verbot jeglicher Form der Kontaktaufnahme mit der geschützten Person oder eine Regelung dazu oderc)das Verbot, sich der geschützten Person auf eine geringere als die festgelegte Entfernung zu nähern, oder eine Regelung dazu, das Verbot des Betretens bestimmter Räumlichkeiten, Orte oder festgelegter Gebiete, in oder an denen sich die geschützte Person aufhält oder die sie aufsucht, das Verbot jeglicher Form der Kontaktaufnahme mit der geschützten Person oder eine Regelung dazu oder das Verbot, sich der geschützten Person auf eine geringere als die festgelegte Entfernung zu nähern, oder eine Regelung dazu,
 
-b)
+3. die gefährdende Person nach innerstaatlichem Recht Immunität genießt und diese Immunität den Erlass von Maßnahmen auf der Grundlage der Europäischen Schutzanordnung unmöglich macht oder
 
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-2.
-
-a)
-
-b)
-
-c)
-
-3.
-
-4.
+4. der gefährdenden Person vor dem Erlass der Europäischen Schutzanordnung kein rechtliches Gehör gewährt worden ist oder sie kein Recht zur Anfechtung der Schutzmaßnahme gehabt hat, sofern ihr diese Rechte nicht bereits in dem zum Erlass der Schutzmaßnahme führenden Verfahren gewährt worden sind.
 
 ### § 7 — Entscheidung über die Anerkennung einer Europäischen Schutzanordnung
 
@@ -102,9 +74,9 @@ c)
 
 (2) Im Fall der Ablehnung der Anerkennung unterrichtet das Gericht
 
-1.
+1. die Anordnungsbehörde und die geschützte Person unverzüglich über die ablehnende Entscheidung und die Gründe hierfür und
 
-2.
+2. die geschützte Person über die Möglichkeit, den Erlass einer Anordnung nach dem Gewaltschutzgesetz zu beantragen.
 
 ### § 8 — Beschwerde gegen die Ablehnung der Anerkennung einer Europäischen Schutzanordnung
 
@@ -118,11 +90,11 @@ Gegen die Entscheidung, mit der die Anerkennung abgelehnt wird, findet die Besch
 
 ### § 10 — Verstoß gegen eine nach § 9 Absatz 1 erlassene Maßnahme
 
-(1) Erlangt das Gericht Kenntnis von einem Verstoß gegen eine nach § 9 Absatz 1 erlassene Maßnahme, unterrichtet es hierüber folgende Behörden unter Verwendung des nach Absatz 3 eingeführten Formblatts: Das ausgefüllte Formblatt ist in die Amtssprache oder eine der Amtssprachen des anordnenden Mitgliedstaates und des Mitgliedstaates der Überwachung zu übersetzen.
+(1) Erlangt das Gericht Kenntnis von einem Verstoß gegen eine nach § 9 Absatz 1 erlassene Maßnahme, unterrichtet es hierüber folgende Behörden unter Verwendung des nach Absatz 3 eingeführten Formblatts:
 
-1.
+1. die Anordnungsbehörde und
 
-2.
+2. die mit der Überwachung befasste Behörde des Mitgliedstaates, der gemäß Rahmenbeschluss 2008/947/JI die Überwachung der der gefährdenden Person auferlegten Bewährungsmaßnahmen oder alternativen Sanktionen oder gemäß Rahmenbeschluss 2009/829/JI die Überwachung der gegen die gefährdende Person zur Vermeidung von Untersuchungshaft verhängten Auflagen und Weisungen übernommen hat.
 
 (2) In den Fällen des Absatzes 1 teilt das Gericht den Verstoß der zuständigen Polizeibehörde und anderen öffentlichen Stellen, die von der Durchführung der nach § 9 Absatz 1 erlassenen Maßnahme betroffen sind, unverzüglich mit. Die geschützte Person und die gefährdende Person sollen über die Mitteilung unterrichtet werden.
 
@@ -134,11 +106,11 @@ Gegen die Entscheidung, mit der die Anerkennung abgelehnt wird, findet die Besch
 
 (2) Das Gericht kann eine nach § 9 Absatz 1 erlassene Maßnahme auch aufheben, wenn
 
-1.
+1. die geschützte Person ihren Wohnsitz nicht im Inland hat, sich nicht oder nicht mehr im Inland aufhält oder das Inland endgültig verlassen hat,
 
-2.
+2. die zugrunde liegende Europäische Schutzanordnung im anordnenden Mitgliedstaat geändert worden ist und das Gericht eine Änderung auch der nach § 9 Absatz 1 erlassenen Maßnahme gemäß § 12 Absatz 2 ablehnt oder
 
-3.
+3. ihm ein Urteil im Sinne des Artikels 2 Nummer 1 des Rahmenbeschlusses 2008/947/JI oder eine Entscheidung über Überwachungsmaßnahmen im Sinne des Artikels 4 des Rahmenbeschlusses 2009/829/JI übermittelt wird.
 
 (3) Wird eine Maßnahme, die nach § 9 Absatz 1 erlassen wurde, gemäß Absatz 2 aufgehoben, setzt das Gericht die Anordnungsbehörde, die geschützte Person und die gefährdende Person hiervon unverzüglich in Kenntnis.
 
@@ -156,11 +128,11 @@ Gegen die Entscheidung, mit der die Anerkennung abgelehnt wird, findet die Besch
 
 Im Sinne dieses Abschnitts ist
 
-1.
+1. Mitgliedstaat jeder Mitgliedstaat der Europäischen Union mit Ausnahme Dänemarks,
 
-2.
+2. geschützte Person die geschützte Person im Sinne der Verordnung (EU) Nr. 606/2013,
 
-3.
+3. gefährdende Person die gefährdende Person im Sinne der Verordnung (EU) Nr. 606/2013.
 
 ## Unterabschnitt 2: Bescheinigungen zu inländischen Entscheidungen
 
@@ -188,11 +160,11 @@ Hat die geschützte Person nach Artikel 4 Absatz 2 Buchstabe c der Verordnung (E
 
 ### § 19 — Örtliche Zuständigkeit
 
-Für die Zwangsvollstreckung ist das Familiengericht ausschließlich örtlich zuständig, in dessen Zuständigkeitsbezirk Für den Bezirk des Kammergerichts entscheidet das Amtsgericht Pankow.
+Für die Zwangsvollstreckung ist das Familiengericht ausschließlich örtlich zuständig, in dessen Zuständigkeitsbezirk
 
-1.
+1. sich die gefährdende Person aufhält oder
 
-2.
+2. die Zwangsvollstreckung durchgeführt werden soll.
 
 ### § 20 — Anpassung eines ausländischen Titels
 
@@ -229,5 +201,3 @@ Der Antrag nach § 95 Absatz 1 des Gesetzes über das Verfahren in Familiensache
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer einer bestimmten vollstreckbaren Anordnung nach § 9 Absatz 1 dieses Gesetzes in Verbindung mit § 1 Absatz 1 Satz 1 oder Satz 3 des Gewaltschutzgesetzes, jeweils auch in Verbindung mit § 1 Absatz 2 Satz 1 des Gewaltschutzgesetzes, zuwiderhandelt. Die Strafbarkeit nach anderen Vorschriften bleibt unberührt.
 
 ### Anlage — (zu § 10 Absatz 3)
-
-Die in diesem Formblatt enthaltenen Daten sind vertraulich zu behandeln.

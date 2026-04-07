@@ -22,63 +22,63 @@ Auf Grund des § 134 Absatz 3 Satz 17 und des § 139e Absatz 7 bis 9 des Fünfte
 
 ### § 2 — Antragsinhalt
 
-(1) Der von dem Hersteller einer digitalen Gesundheitsanwendung bei dem Bundesinstitut für Arzneimittel und Medizinprodukte zu stellende Antrag enthält Angaben über die Anforderungen nach § 139e Absatz 2 Satz 2 des Fünften Buches Sozialgesetzbuch. Zudem enthält der Antrag insbesondere Angaben zu:  Bei digitalen Gesundheitsanwendungen höherer Risikoklasse müssen die Angaben des Herstellers nach Satz 2 Nummer 9 bis 13 auch geeignet sein, den Nachweis eines medizinischen Nutzens zu führen.
+(1) Der von dem Hersteller einer digitalen Gesundheitsanwendung bei dem Bundesinstitut für Arzneimittel und Medizinprodukte zu stellende Antrag enthält Angaben über die Anforderungen nach § 139e Absatz 2 Satz 2 des Fünften Buches Sozialgesetzbuch. Zudem enthält der Antrag insbesondere Angaben zu:
 
-1.
+1. dem Hersteller sowie zu den die digitale Gesundheitsanwendung identifizierenden Merkmalen,
 
-2.
+2. der medizinischen Zweckbestimmung nach den jeweils geltenden medizinprodukterechtlichen Vorschriften,
 
-3.
+3. der an dem Konformitätsbewertungsverfahren nach den jeweils geltenden medizinprodukterechtlichen Vorschriften beteiligten Benannten Stelle, soweit zutreffend,
 
-4.
+4. der Gebrauchsanweisung nach den jeweils geltenden medizinprodukterechtlichen Vorschriften,
 
-4a.
+4a. der Erfüllung der Anforderungen nach der Verordnung (EU) 2024/1689, sofern zutreffend,
 
-5.
+5. Zielsetzung, Wirkungsweise, Inhalt und Nutzung der digitalen Gesundheitsanwendung in einer allgemeinverständlichen Form,
 
-6.
+6. den Funktionen der digitalen Gesundheitsanwendung,
 
-7.
+7. den an der Entwicklung der digitalen Gesundheitsanwendung beteiligten medizinischen Einrichtungen und Organisationen, sofern zutreffend,
 
-8.
+8. den Quellen für die in der digitalen Gesundheitsanwendung umgesetzten medizinischen Inhalte und Verfahren, insbesondere Leitlinien, Lehrwerke und Studien,
 
-9.
+9. dem vorliegenden oder geplanten Nachweis positiver Versorgungseffekte nach den §§ 8 und 9 in einer allgemeinverständlichen, am PICO-Schema orientierten Kurzfassung,
 
-10.
+10. den Patientengruppen, für die positive Versorgungseffekte nach den §§ 8 und 9 nachgewiesen wurden oder, im Falle der vorläufigen Aufnahme, in dem Erprobungszeitraum nachgewiesen werden sollen,
 
-11.
+11. den positiven Versorgungseffekten, die nach den §§ 8 und 9 für die angegebene Patientengruppe nachgewiesen wurden oder, im Falle der vorläufigen Aufnahme, in dem Erprobungszeitraum nachgewiesen werden sollen, unterschieden in Nachweise zum medizinischen Nutzen und Nachweise zu patientenrelevanten Struktur- und Verfahrensverbesserungen in der Versorgung,
 
-12.
+12. der Studie oder den Studien, die von dem Hersteller zum Nachweis positiver Versorgungseffekte nach den §§ 10 bis 11 oder, sofern zutreffend, den systematischen Datenauswertungen, die von dem Hersteller zu der Begründung des positiven Versorgungseffekts nach § 14 vorgelegt werden,
 
-13.
+13. der Studie zur Ermittlung der Testgenauigkeit der in der digitalen Gesundheitsanwendung enthaltenen diagnostischen Instrumente nach § 12, sofern zutreffend,
 
-14.
+14. der herstellerunabhängigen Institution nach § 139e Absatz 4 des Fünften Buches Sozialgesetzbuch, sofern zutreffend,
 
-15.
+15. der Erfüllung der Anforderungen nach den §§ 3 bis 6,
 
-16.
+16. den in der digitalen Gesundheitsanwendung vorgesehenen Nutzerrollen,
 
-17.
+17. der qualitätsgesicherten Anwendung der digitalen Gesundheitsanwendung, insbesondere zu den Ausschlusskriterien für die Nutzung,
 
-18.
+18. den für die Nutzung der digitalen Gesundheitsanwendung vom Hersteller für erforderlich gehaltenen vertragsärztlichen Tätigkeiten, sofern zutreffend,
 
-19.
+19. der vom Hersteller für erforderlich gehaltenen Mindestdauer der Nutzung der digitalen Gesundheitsanwendung,
 
-20.
+20. den Standorten der Datenverarbeitung der digitalen Gesundheitsanwendung,
 
-21.
+21. den Kompatibilitätszusagen des Herstellers der digitalen Gesundheitsanwendung in Bezug auf unterstützte Plattformen und Geräte sowie erforderliche Zusatzprodukte,
 
-21a.
+21a. den von der digitalen Gesundheitsanwendung nach § 4 Absatz 2 Satz 1 Nummer 1 verarbeiteten Daten, zu deren Darstellbarkeit mittels internationaler Semantikstandards und zu deren Abbildbarkeit mittels der jeweils geltenden Festlegung für die semantische und syntaktische Interoperabilität von Daten der elektronischen Patientenakte nach § 355 Absatz 2a des Fünften Buches Sozialgesetzbuch,
 
-22.
+22. den zur Herstellung von semantischer und technischer Interoperabilität der digitalen Gesundheitsanwendung genutzten Standards und Profilen sowie zu den menschenlesbaren Exportformaten,
 
-23.
+23. der Höhe der Deckungssumme der vom Hersteller für Personenschäden abgeschlossenen Haftpflichtversicherung,
 
-24.
+24. den tatsächlichen Preisen nach § 134 Absatz 5 Satz 1 des Fünften Buches Sozialgesetzbuch,
 
-25.
+25. den für die Nutzung der digitalen Gesundheitsanwendung vom Hersteller für erforderlich gehaltenen Tätigkeiten der Heilmittelerbringer oder Hebammen, sofern zutreffend, und
 
-26.
+26. den Daten aus Hilfsmitteln und Implantaten, die nach § 374a des Fünften Buches Sozialgesetzbuch von der digitalen Gesundheitsanwendung verarbeitet werden, und zu den Produktbezeichnungen der Hilfsmittel und Implantate, von denen Daten nach § 374a des Fünften Buches Sozialgesetzbuch an die digitale Gesundheitsanwendung übermittelt werden.
 
 (2) Der Hersteller kennzeichnet in seinem Antrag die Angaben nach Absatz 1, bei denen rechtliche Anforderungen an den Schutz der Betriebs- und Geschäftsgeheimnisse oder an den Schutz personenbezogener Daten oder des geistigen Eigentums einer Veröffentlichung entgegenstehen.
 
@@ -92,8 +92,6 @@ Auf Grund des § 134 Absatz 3 Satz 17 und des § 139e Absatz 7 bis 9 des Fünfte
 
 ### § 3 — Anforderungen an Sicherheit und Funktionstauglichkeit
 
-(1) Der Nachweis der Sicherheit und Funktionstauglichkeit gilt, vorbehaltlich des Absatzes 2, durch die CE-Konformitätskennzeichnung des Medizinproduktes grundsätzlich als erbracht.
-
 (2) Aus begründetem Anlass darf das Bundesinstitut für Arzneimittel und Medizinprodukte zusätzliche Prüfungen vornehmen. Hierzu kann es von dem Hersteller der digitalen Gesundheitsanwendung die Vorlage der erforderlichen Unterlagen, insbesondere die für das Konformitätsbewertungsverfahren notwendigen Erklärungen und Bescheinigungen, verlangen.
 
 > (+++ § 3 Abs. 2: Zur Geltung vgl. § 7 Abs. 1 Satz 4 +++)
@@ -102,17 +100,17 @@ Auf Grund des § 134 Absatz 3 Satz 17 und des § 139e Absatz 7 bis 9 des Fünfte
 
 (1) Digitale Gesundheitsanwendungen müssen die gesetzlichen Vorgaben des Datenschutzes und die Anforderungen an die Datensicherheit nach dem Stand der Technik unter Berücksichtigung der Art der verarbeiteten Daten und der damit verbundenen Schutzstufen sowie des Schutzbedarfs gewährleisten.
 
-(2) Im Rahmen einer digitalen Gesundheitsanwendung dürfen personenbezogene Daten nur aufgrund einer Einwilligung der Versicherten nach Artikel 9 Absatz 2 Buchstabe a der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG) (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1) und ausschließlich zu den folgenden Zwecken verarbeitet werden: Die Einwilligung zu der Datenverarbeitung nach Satz 1 Nummer 4 ist getrennt von einer Einwilligung in die Datenverarbeitung für Zwecke nach Satz 1 Nummer 1 bis 3 einzuholen. Datenverarbeitungsbefugnisse nach anderen Vorschriften bleiben unberührt.
+(2) Im Rahmen einer digitalen Gesundheitsanwendung dürfen personenbezogene Daten nur aufgrund einer Einwilligung der Versicherten nach Artikel 9 Absatz 2 Buchstabe a der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG) (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1) und ausschließlich zu den folgenden Zwecken verarbeitet werden:
 
-1.
+1. zu dem bestimmungsgemäßen Gebrauch der digitalen Gesundheitsanwendung durch die Nutzer,
 
-2.
+2. zu dem Nachweis positiver Versorgungseffekte im Rahmen einer Erprobung nach § 139e Absatz 4 des Fünften Buches Sozialgesetzbuch,
 
-2a.
+2a. zu dem Nachweis des Erhalts der Erwerbsfähigkeit im Rahmen einer Erprobung nach § 139e Absatz 4 und 12 des Fünften Buches Sozialgesetzbuch,
 
-3.
+3. zu der Erstellung des Datensatzes im Rahmen der anwendungsbegleitenden Erfolgsmessung nach § 139e Absatz 13 Satz 2 des Fünften Buches Sozialgesetzbuch und zu der Nachweisführung der Vereinbarungen nach § 134 Absatz 1 Satz 3 des Fünften Buches Sozialgesetzbuch,
 
-4.
+4. zu der dauerhaften Gewährleistung der technischen Funktionsfähigkeit, der Nutzerfreundlichkeit und der Weiterentwicklung der digitalen Gesundheitsanwendung.
 
 (3) Die Verarbeitung von personenbezogenen Daten zu den Zwecken nach Absatz 2 darf im Rahmen einer digitalen Gesundheitsanwendung durch die digitale Gesundheitsanwendung selbst sowie bei einer Verarbeitung personenbezogener Daten im Auftrag nur im Inland, in einem Mitgliedstaat der Europäischen Union oder in einem diesem nach § 35 Absatz 7 des Ersten Buches Sozialgesetzbuch gleichgestellten Staat oder, sofern ein Angemessenheitsbeschluss gemäß Artikel 45 der Verordnung (EU) 2016/679 vorliegt, in einem Drittstaat erfolgen.
 
@@ -122,9 +120,9 @@ Auf Grund des § 134 Absatz 3 Satz 17 und des § 139e Absatz 7 bis 9 des Fünfte
 
 (6) Das Nähere zu den Anforderungen nach den vorstehenden Absätzen bestimmt sich nach Anlage 1. Der Hersteller fügt seinem Antrag die Erklärung nach Anlage 1 bei. Erweisen sich die Vorgaben der Anlage 1 im Hinblick auf die Eigenschaften der digitalen Gesundheitsanwendung als ungeeignet, kann die digitale Gesundheitsanwendung im Einzelfall von den Vorgaben der Anlage 1 abweichen, wenn die gesetzlichen Vorgaben des Datenschutzes und die Anforderungen an die Datensicherheit nach dem Stand der Technik durch eine abweichende Umsetzung gleichermaßen umgesetzt werden. In seinem Antrag legt der Hersteller die Abweichung von den Vorgaben der Anlage 1 dar und begründet diese.
 
-(7) Ab dem 1. Januar 2025 müssen digitale Gesundheitsanwendungen abweichend von den Anforderungen an die Datensicherheit nach Absatz 6 die von dem Bundesamt für Sicherheit in der Informationstechnik nach § 139e Absatz 10 des Fünften Buches Sozialgesetzbuch festgelegten Anforderungen an die Datensicherheit erfüllen.
+(7) Ab dem 1. Januar 2025 müssen digitale Gesundheitsanwendungen abweichend von den Anforderungen an die Datensicherheit nach Absatz 6 die von dem Bundesamt für Sicherheit in der Informationstechnik nach § 139e Absatz 10 des Fünften Buches Sozialgesetzbuch festgelegten Anforderungen an die Datensicherheit erfüllen.
 
-(8) Ab dem 1. August 2024 müssen digitale Gesundheitsanwendungen, abweichend von den Anforderungen an den Datenschutz nach Absatz 6, die von dem Bundesinstitut für Arzneimittel und Medizinprodukte nach § 139e Absatz 11 des Fünften Buches Sozialgesetzbuch festgelegten Prüfkriterien für die von digitalen Gesundheitsanwendungen nachzuweisenden Anforderungen an den Datenschutz umsetzen.
+(8) Ab dem 1. August 2024 müssen digitale Gesundheitsanwendungen, abweichend von den Anforderungen an den Datenschutz nach Absatz 6, die von dem Bundesinstitut für Arzneimittel und Medizinprodukte nach § 139e Absatz 11 des Fünften Buches Sozialgesetzbuch festgelegten Prüfkriterien für die von digitalen Gesundheitsanwendungen nachzuweisenden Anforderungen an den Datenschutz umsetzen.
 
 ### § 5 — Anforderungen an Qualität
 
@@ -152,7 +150,7 @@ Auf Grund des § 134 Absatz 3 Satz 17 und des § 139e Absatz 7 bis 9 des Fünfte
 
 ### § 6 — Qualitätsanforderungen nach § 5 Absatz 1; Festlegungen zur Interoperabilität
 
-Als interoperable Formate nach § 5 Absatz 1 gelten Festlegungen für die semantische und syntaktische Interoperabilität von Daten in der elektronischen Patientenakte nach § 355 Absatz 2a des Fünften Buches Sozialgesetzbuch. Solange keine Festlegung für die semantische und syntaktische Interoperabilität von Daten in der elektronischen Patientenakte nach § 355 Absatz 2a des Fünften Buches Sozialgesetzbuch getroffen worden sind, gelten auch offene, international anerkannte Schnittstellen- und Semantikstandards und vom Hersteller der digitalen Gesundheitsanwendung bereitgestellte Profile über offenen, international anerkannten Schnittstellen- und Semantikstandards als interoperable Formate. Der Hersteller muss von ihm bereitgestellte Profile nach Satz 2 zur freien Nutzung in einem anerkannten Verzeichnis veröffentlichen.
+Als interoperable Formate nach § 5 Absatz 1 gelten Festlegungen für die semantische und syntaktische Interoperabilität von Daten in der elektronischen Patientenakte nach § 355 Absatz 2a des Fünften Buches Sozialgesetzbuch. Solange keine Festlegung für die semantische und syntaktische Interoperabilität von Daten in der elektronischen Patientenakte nach § 355 Absatz 2a des Fünften Buches Sozialgesetzbuch getroffen worden sind, gelten auch offene, international anerkannte Schnittstellen- und Semantikstandards und vom Hersteller der digitalen Gesundheitsanwendung bereitgestellte Profile über offenen, international anerkannten Schnittstellen- und Semantikstandards als interoperable Formate. Der Hersteller muss von ihm bereitgestellte Profile nach Satz 2 zur freien Nutzung in einem anerkannten Verzeichnis veröffentlichen.
 
 ### § 6a — Interoperabilität von digitalen Gesundheitsanwendungen mit der elektronischen Patientenakte
 
@@ -160,7 +158,7 @@ Als interoperable Formate nach § 5 Absatz 1 gelten Festlegungen für die seman
 
 (2) Digitale Gesundheitsanwendungen ermöglichen den Datenexport in die elektronische Patientenakte in einem menschenlesbaren Format sowie gemäß einer Festlegung für die semantische und syntaktische Interoperabilität von Daten der elektronischen Patientenakte nach § 355 Absatz 2a des Fünften Buches Sozialgesetzbuch.
 
-(3) Die Hersteller digitaler Gesundheitsanwendungen setzen die Fortschreibungen der Festlegungen nach § 355 Absatz 2a des Fünften Buches Sozialgesetzbuch innerhalb von sechs Monaten nach deren Veröffentlichung um.
+(3) Die Hersteller digitaler Gesundheitsanwendungen setzen die Fortschreibungen der Festlegungen nach § 355 Absatz 2a des Fünften Buches Sozialgesetzbuch innerhalb von sechs Monaten nach deren Veröffentlichung um.
 
 ### § 7 — Nachweis durch Zertifikate
 
@@ -184,31 +182,31 @@ Als interoperable Formate nach § 5 Absatz 1 gelten Festlegungen für die seman
 
 (3) Die patientenrelevanten Struktur- und Verfahrensverbesserungen in der Versorgung im Sinne dieser Verordnung sind im Rahmen der Erkennung, Überwachung, Behandlung oder Linderung von Krankheiten oder der Erkennung, Behandlung, Linderung oder Kompensierung von Verletzungen oder Behinderungen auf eine Unterstützung des Gesundheitshandelns der Patientinnen und Patienten oder eine Integration der Abläufe zwischen Patientinnen und Patienten und Leistungserbringern ausgerichtet und umfassen insbesondere die Bereiche der
 
-1.
+1. Koordination der Behandlungsabläufe,
 
-2.
+2. Ausrichtung der Behandlung an Leitlinien und anerkannten Standards,
 
-3.
+3. Adhärenz,
 
-4.
+4. Erleichterung des Zugangs zur Versorgung,
 
-5.
+5. Patientensicherheit,
 
-6.
+6. Gesundheitskompetenz,
 
-7.
+7. Patientensouveränität,
 
-8.
+8. Bewältigung krankheitsbedingter Schwierigkeiten im Alltag oder
 
-9.
+9. Reduzierung der therapiebedingten Aufwände und Belastungen der Patienten und ihrer Angehörigen.
 
 ### § 9 — Darlegung positiver Versorgungseffekte
 
 (1) In dem Antrag auf Aufnahme in das Verzeichnis für digitale Gesundheitsanwendungen nach § 2 gibt der Hersteller an:
 
-1.
+1. den positiven Versorgungseffekt der digitalen Gesundheitsanwendung, der nachgewiesen werden soll, und
 
-2.
+2. die Patientengruppe, für die der positive Versorgungseffekt nach Nummer 1 nachgewiesen werden soll.
 
 (2) Der von dem Hersteller nach Absatz 1 Nummer 1 postulierte positive Versorgungseffekt muss mit der Zweckbestimmung nach den jeweils geltenden medizinprodukterechtlichen Vorschriften sowie mit den Funktionen, den Inhalten und den vom Hersteller veröffentlichten Aussagen zu der digitalen Gesundheitsanwendung konsistent sein.
 
@@ -290,17 +288,11 @@ Der Hersteller legt im Rahmen eines Antrags nach § 139e Absatz 4 des Fünften B
 
 (1) Wesentliche Veränderungen im Sinne dieser Verordnung sind solche, die
 
-1.
+1. die im Verzeichnis für digitale Gesundheitsanwendungen bekannt gemachten Angaben und Informationen ändern oder
 
-2.
+2. einen wesentlichen Einfluss ausüben auf die Erfüllung der Anforderungen an a)Sicherheit, Funktionstauglichkeit und Qualität der digitalen Gesundheitsanwendung,b)Datenschutz und Datensicherheit oderc)den Nachweis positiver Versorgungseffekte oder den Nachweis des Erhalts der Erwerbsfähigkeit, einschließlich Änderungen der Patientengruppen, für die die positiven Versorgungseffekte oder der Erhalt der Erwerbsfähigkeit nachgewiesen wurden oder werden sollen. Sicherheit, Funktionstauglichkeit und Qualität der digitalen Gesundheitsanwendung, Datenschutz und Datensicherheit oder den Nachweis positiver Versorgungseffekte oder den Nachweis des Erhalts der Erwerbsfähigkeit, einschließlich Änderungen der Patientengruppen, für die die positiven Versorgungseffekte oder der Erhalt der Erwerbsfähigkeit nachgewiesen wurden oder werden sollen.
 
-a)
-
-b)
-
-c)
-
-(2) Im Umfang geringfügige und lediglich redaktionelle Änderungen der Angaben und Informationen in dem Verzeichnis für digitale Gesundheitsanwendungen stellen keine wesentlichen Veränderungen nach Absatz 1 dar. Änderungen der Angaben nach § 2 Absatz 1 Satz 2 Nummer 1 bis 4 und 21 bis 23 und der Ergebnisse der anwendungsbegleitenden Erfolgsmessung nach § 139e Absatz 13 Satz 1 des Fünften Buches Sozialgesetzbuch sind abweichend von § 18 Absatz 1 Nummer 1 keine wesentlichen Veränderungen. Der Hersteller teilt dem Bundesinstitut für Arzneimittel und Medizinprodukte die Erforderlichkeit im Umfang geringfügiger und lediglich redaktioneller Änderungen durch einfache Anzeige mit. Einfache Anzeigen sind durch den Hersteller zusammenzufassen und viermal im Jahr für eine jede digitale Gesundheitsanwendung zulässig. Für eine einfache Anzeige sind die von dem Bundesinstitut für Arzneimittel und Medizinprodukte nach § 139e Absatz 8 Satz 1 des Fünften Buches Sozialgesetzbuch bereitgestellten elektronischen Formulare für Antrags- und Anzeigeverfahren zu verwenden.
+(2) Im Umfang geringfügige und lediglich redaktionelle Änderungen der Angaben und Informationen in dem Verzeichnis für digitale Gesundheitsanwendungen stellen keine wesentlichen Veränderungen nach Absatz 1 dar. Änderungen der Angaben nach § 2 Absatz 1 Satz 2 Nummer 1 bis 4 und 21 bis 23 und der Ergebnisse der anwendungsbegleitenden Erfolgsmessung nach § 139e Absatz 13 Satz 1 des Fünften Buches Sozialgesetzbuch sind abweichend von § 18 Absatz 1 Nummer 1 keine wesentlichen Veränderungen. Der Hersteller teilt dem Bundesinstitut für Arzneimittel und Medizinprodukte die Erforderlichkeit im Umfang geringfügiger und lediglich redaktioneller Änderungen durch einfache Anzeige mit. Einfache Anzeigen sind durch den Hersteller zusammenzufassen und viermal im Jahr für eine jede digitale Gesundheitsanwendung zulässig. Für eine einfache Anzeige sind die von dem Bundesinstitut für Arzneimittel und Medizinprodukte nach § 139e Absatz 8 Satz 1 des Fünften Buches Sozialgesetzbuch bereitgestellten elektronischen Formulare für Antrags- und Anzeigeverfahren zu verwenden.
 
 (3) Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt den Herstellern digitaler Gesundheitsanwendungen elektronisch einen Prüfbogen zur Verfügung, der die Hersteller bei der Einschätzung unterstützt, ob es sich bei einer Veränderung der digitalen Gesundheitsanwendung um eine wesentliche Veränderung nach Absatz 1 handelt. In dem Prüfbogen weist das Bundesinstitut für Arzneimittel und Medizinprodukte die Hersteller auf die Rechtsfolgen einer unterlassenen Anzeige nach § 139e Absatz 6 Satz 5 und 6 des Fünften Buches Sozialgesetzbuch hin.
 
@@ -320,23 +312,23 @@ c)
 
 (3) Über die Angaben nach Absatz 2 hinaus werden insbesondere Angaben veröffentlicht zu:
 
-1.
+1. den nachgewiesenen oder nachzuweisenden positiven Versorgungseffekten und den Nachweisen zum Erhalt der Erwerbsfähigkeit,
 
-2.
+2. den nach den §§ 10 bis 11a vorgelegten Studien in Form von Zusammenfassungen zum Forschungsdesign und zu den Ergebnissen einschließlich eines Verweises auf den Ort der Registrierung sowie auf den Ort der vollumfänglichen Veröffentlichung der Studien nach § 10 Absatz 6 im Internet,
 
-3.
+3. der Sensitivität und Spezifität der in der digitalen Gesundheitsanwendung enthaltenen diagnostischen Instrumente gemäß den Ergebnissen der nach § 12 vorgelegten Studie zur diagnostischen Testgüte, sofern zutreffend,
 
-4.
+4. den Verordnungszeiträumen und den für die jeweiligen Verordnungszeiträume festgelegten Vergütungsbeträgen nach § 134 Absatz 1 des Fünften Buches Sozialgesetzbuch,
 
-5.
+5. den Mehrkosten nach § 33a Absatz 1 Satz 4 des Fünften Buches Sozialgesetzbuch, sofern zutreffend,
 
-6.
+6. den notwendigen ärztlichen Leistungen, den Leistungen der Heilmittelerbringer und Hebammen nach § 139e Absatz 3 Satz 2 des Fünften Buches Sozialgesetzbuch, sofern zutreffend,
 
-7.
+7. den Daten, die aus Hilfsmitteln und Implantaten an die digitale Gesundheitsanwendung übermittelt werden können, sofern zutreffend, und
 
-8.
+8. den Gründen für eine Streichung einer digitalen Gesundheitsanwendung aus dem Verzeichnis für digitale Gesundheitsanwendungen.
 
-(4) Das Bundesinstitut für Arzneimittel und Medizinprodukte veröffentlicht die maßgeblichen Ergebnisse der anwendungsbegleitenden Erfolgsmessung nach § 139e Absatz 13 Satz 1 des Fünften Buches Sozialgesetzbuch, wenn ein Hersteller erstmals Daten zur Nutzungshäufigkeit nach § 23c von mindestens 200 Nutzern einer digitalen Gesundheitsanwendung für ein Kalenderquartal übermittelt hat. Die Ergebnisse sind zu erläutern und grafisch aufzubereiten.
+(4) Das Bundesinstitut für Arzneimittel und Medizinprodukte veröffentlicht die maßgeblichen Ergebnisse der anwendungsbegleitenden Erfolgsmessung nach § 139e Absatz 13 Satz 1 des Fünften Buches Sozialgesetzbuch, wenn ein Hersteller erstmals Daten zur Nutzungshäufigkeit nach § 23c von mindestens 200 Nutzern einer digitalen Gesundheitsanwendung für ein Kalenderquartal übermittelt hat. Die Ergebnisse sind zu erläutern und grafisch aufzubereiten.
 
 ### § 21 — Weitere Ausgestaltung des elektronischen Verzeichnisses
 
@@ -344,15 +336,15 @@ c)
 
 (2) Das Bundesinstitut für Arzneimittel und Medizinprodukte ermöglicht die Nutzung der Angaben nach § 20 Absatz 2 und 3 durch Dritte, sofern dies für die Verwendung von elektronischen Verordnungen der Leistungen nach § 33a Absatz 1 des Fünften Buches Sozialgesetzbuch erforderlich ist. Hierzu veröffentlicht das Bundesinstitut für Arzneimittel und Medizinprodukte mit der Errichtung des Verzeichnisses eine geeignete Schnittstelle auf Basis internationaler anerkannter Standards und beantragt deren Aufnahme auf die Plattform nach § 385 Absatz 1 Satz 2 Nummer 5 des Fünften Buches Sozialgesetzbuch.
 
-(3) Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt die in § 20 Absatz 2 und 3 aufgeführten Angaben auf Antrag in maschinenlesbarer sowie plattformunabhängiger Form zur Verarbeitung und Veröffentlichung zur Verfügung. Das Nähere zu der Übermittlung der Daten, insbesondere zum Datenformat, zum Datennutzungsvertrag, zu den Nutzungsrechten und den Pflichten des Nutzers bei der Verwendung der Daten, bestimmt das Bundesinstitut für Arzneimittel und Medizinprodukte in Nutzungsbedingungen, die dem Datennutzungsvertrag zu Grunde gelegt werden. Mit den Nutzungsbedingungen wird eine nicht missbräuchliche, nicht wettbewerbsverzerrende und manipulationsfreie Verwendung der Daten sichergestellt. Der Dritte nach Satz 1 hat zu gewährleisten, dass die Herkunft der Daten für Versicherte, Leistungserbringer und alle anderen Nutzer der Informationen transparent bleibt. Dies gilt insbesondere, wenn eine Verwendung der Daten in Zusammenhang mit anderen Daten erfolgt. Das Bundesinstitut für Arzneimittel und Medizinprodukte veröffentlicht eine geeignete Schnittstelle auf Basis internationaler anerkannter Standards und beantragt deren Aufnahme auf die Plattform nach § 385 Absatz 1 Satz 2 Nummer 5 des Fünften Buches Sozialgesetzbuch.
+(3) Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt die in § 20 Absatz 2 und 3 aufgeführten Angaben
 
-1.
+1. Dritten nach § 303e Absatz 1 des Fünften Buches Sozialgesetzbuch in der bis zum 25. März 2024 geltenden Fassung,
 
-2.
+2. sonstigen öffentlichen Stellen des Bundes, der Länder und Gemeinden, sowie
 
-3.
+3. gemeinnützigen juristischen Personen des Privatrechts
 
-(4) Das Bundesinstitut für Arzneimittel und Medizinprodukte veröffentlicht die in dem Verzeichnis für digitale Gesundheitsanwendungen enthaltenen Angaben nach § 20 Absatz 2 und 3 auf einem barrierefreien Webportal in einer für Patientinnen und Patienten und Leistungserbringer intuitiv zugänglichen Struktur, Form und Darstellung.
+(4) Das Bundesinstitut für Arzneimittel und Medizinprodukte veröffentlicht die in dem Verzeichnis für digitale Gesundheitsanwendungen enthaltenen Angaben nach § 20 Absatz 2 und 3 auf einem barrierefreien Webportal in einer für Patientinnen und Patienten und Leistungserbringer intuitiv zugänglichen Struktur, Form und Darstellung.
 
 (5) Mit der Antragstellung gibt der Hersteller der digitalen Gesundheitsanwendung die unter § 20 Absatz 2 und 3 aufgeführten Angaben zur Veröffentlichung und zur freien Nutzung durch Dritte unter einer vom Bundesinstitut für Arzneimittel und Medizinprodukte festzulegenden Lizenz frei. Dies gilt, so weit nicht rechtliche Anforderungen an den Schutz der Betriebs- und Geschäftsgeheimnisse oder den Schutz personenbezogener Daten oder des geistigen Eigentums entgegenstehen und der Hersteller in den Antragsunterlagen die entsprechenden Angaben als solche gekennzeichnet und der Veröffentlichung aus diesem Grund ausdrücklich widersprochen hat.
 
@@ -360,15 +352,15 @@ c)
 
 (1) Durch das Bundesinstitut für Arzneimittel und Medizinprodukte sind im Bundesanzeiger nach § 139e Absatz 1 Satz 3 des Fünften Buches Sozialgesetzbuch bekannt zu machen:
 
-1.
+1. die Errichtung des Verzeichnisses für digitale Gesundheitsanwendungen,
 
-2.
+2. die Bildung neuer Gruppen oder die Veränderung bestehender Gruppen digitaler Gesundheitsanwendungen in dem Verzeichnis für digitale Gesundheitsanwendungen,
 
-3.
+3. die Aufnahme neuer digitaler Gesundheitsanwendungen in das Verzeichnis für digitale Gesundheitsanwendungen,
 
-4.
+4. die Änderung an dem Verzeichnis für digitale Gesundheitsanwendung nach § 139e Absatz 6 Satz 1 des Fünften Buches Sozialgesetzbuch und
 
-5.
+5. die Streichung von digitalen Gesundheitsanwendungen aus dem Verzeichnis für digitale Gesundheitsanwendungen.
 
 (2) Das Bundesinstitut für Arzneimittel und Medizinprodukte soll die Bekanntmachung nach Absatz 1 vierteljährlich vornehmen.
 
@@ -382,9 +374,9 @@ c)
 
 (2) Das Bundesinstitut für Arzneimittel und Medizinprodukte berät Hersteller digitaler Gesundheitsanwendungen zudem
 
-1.
+1. zu den Nachweisen positiver Versorgungseffekte, zu denen das Bundesinstitut für Arzneimittel und Medizinprodukte den Hersteller mit Bescheid nach § 139e Absatz 4 Satz 3 des Fünften Buches Sozialgesetzbuch verpflichtet hat, und
 
-2.
+2. zur Anzeige wesentlicher Veränderungen.
 
 (3) Die Anfrage nach Absatz 1 ist elektronisch an das Bundesinstitut für Arzneimittel und Medizinprodukte zu übermitteln. Mit der Anfrage sind Unterlagen und Nachweise vorzulegen, die für die Erstellung eines Antrags auf Aufnahme einer digitalen Gesundheitsanwendung in das Verzeichnis für digitale Gesundheitsanwendungen bedeutsamen Unterlagen und Informationen, über die der Hersteller zu diesem Zeitpunkt verfügt, vorzulegen.
 
@@ -394,47 +386,47 @@ c)
 
 ### § 23a — Grundsätze der Datenerhebung und Übermittlung
 
-(1) Die Übermittlung der für die anwendungsbegleitende Erfolgsmessung erforderlichen Daten an das Bundesinstitut für Arzneimittel und Medizinprodukte nach § 139e Absatz 13 Satz 2 des Fünften Buches Sozialgesetzbuch erfolgt durch die Hersteller nur für digitale Gesundheitsanwendungen, über deren dauerhafte Aufnahme in das Verzeichnis für digitale Gesundheitsanwendungen bereits nach § 139e Absatz 3 Satz 1 oder Absatz 4 Satz 6 des Fünften Buches Sozialgesetzbuch entschieden wurde. Eine Übermittlung der für die anwendungsbegleitende Erfolgsmessung zum patientenberichteten Gesundheitszustand während der Nutzung nach den §§ 23d und 23e erforderlichen Daten an das Bundesinstitut für Arzneimittel und Medizinprodukte erfolgt nicht, wenn der Hersteller den Nachweis positiver Versorgungseffekte ausschließlich anhand der Vorlage der Ergebnisse einer Studie zu patientenrelevanten Struktur- und Verfahrensverbesserungen nach § 8 Absatz 3 geführt hat.
+(1) Die Übermittlung der für die anwendungsbegleitende Erfolgsmessung erforderlichen Daten an das Bundesinstitut für Arzneimittel und Medizinprodukte nach § 139e Absatz 13 Satz 2 des Fünften Buches Sozialgesetzbuch erfolgt durch die Hersteller nur für digitale Gesundheitsanwendungen, über deren dauerhafte Aufnahme in das Verzeichnis für digitale Gesundheitsanwendungen bereits nach § 139e Absatz 3 Satz 1 oder Absatz 4 Satz 6 des Fünften Buches Sozialgesetzbuch entschieden wurde. Eine Übermittlung der für die anwendungsbegleitende Erfolgsmessung zum patientenberichteten Gesundheitszustand während der Nutzung nach den §§ 23d und 23e erforderlichen Daten an das Bundesinstitut für Arzneimittel und Medizinprodukte erfolgt nicht, wenn der Hersteller den Nachweis positiver Versorgungseffekte ausschließlich anhand der Vorlage der Ergebnisse einer Studie zu patientenrelevanten Struktur- und Verfahrensverbesserungen nach § 8 Absatz 3 geführt hat.
 
-(2) Die Hersteller übermitteln die für die anwendungsbegleitende Erfolgsmessung erforderlichen Daten elektronisch an das Bundesinstitut für Arzneimittel und Medizinprodukte. Für die Übermittlung der Daten sind die von dem Bundesinstitut für Arzneimittel und Medizinprodukte nach § 139e Absatz 8 Satz 1 des Fünften Buches Sozialgesetzbuch bereitgestellten elektronischen Formulare für Antrags- und Anzeigeverfahren zu verwenden.
+(2) Die Hersteller übermitteln die für die anwendungsbegleitende Erfolgsmessung erforderlichen Daten elektronisch an das Bundesinstitut für Arzneimittel und Medizinprodukte. Für die Übermittlung der Daten sind die von dem Bundesinstitut für Arzneimittel und Medizinprodukte nach § 139e Absatz 8 Satz 1 des Fünften Buches Sozialgesetzbuch bereitgestellten elektronischen Formulare für Antrags- und Anzeigeverfahren zu verwenden.
 
 (3) Die für die anwendungsbegleitende Erfolgsmessung erforderlichen Daten sind von den Herstellern für jedes Kalenderquartal zu erheben. Die Hersteller übermitteln die nach Satz 1 erhobenen Daten für das erste und zweite Kalenderquartal eines Jahres gemeinsam bis zum 15. Oktober des laufenden Kalenderjahres und die Daten für das dritte und vierte Kalenderquartal desselben Jahres gemeinsam bis zum 15. April des folgenden Kalenderjahres an das Bundesinstitut für Arzneimittel und Medizinprodukte. Die erstmalige Meldung erfolgt bis zum 15. April 2027.
 
 (4) Die Teilnahme der Versicherten an der Erhebung der Daten für die Ermittlung der Ergebnisse der anwendungsbegleitenden Erfolgsmessung zur Patientenzufriedenheit in Bezug auf die Qualität der digitalen Gesundheitsanwendung und zum patientenberichteten Gesundheitszustand während der Nutzung der digitalen Gesundheitsanwendung nach den §§ 23d und 23e ist für die Versicherten freiwillig. Der Hersteller informiert die Nutzer über die Freiwilligkeit der Teilnahme.
 
-(5) Die zur Erhebung genutzten Fragebögen sind für jeden Nutzer gleichförmig und in einer Art und Weise zu gestalten, die eine Beeinflussung zu Gunsten eines bestimmten Antwortverhaltens ausschließt. Eine einmalige Erinnerung der Nutzer an die Teilnahme an der Erhebung durch den Hersteller sowie eine Verschiebung auf einen späteren Zeitpunkt auf Wunsch des Nutzers sind im Rahmen der Erhebungszeiträume nach § 23d Absatz 2 und 3 sowie § 23e Absatz 4 zulässig.
+(5) Die zur Erhebung genutzten Fragebögen sind für jeden Nutzer gleichförmig und in einer Art und Weise zu gestalten, die eine Beeinflussung zu Gunsten eines bestimmten Antwortverhaltens ausschließt. Eine einmalige Erinnerung der Nutzer an die Teilnahme an der Erhebung durch den Hersteller sowie eine Verschiebung auf einen späteren Zeitpunkt auf Wunsch des Nutzers sind im Rahmen der Erhebungszeiträume nach § 23d Absatz 2 und 3 sowie § 23e Absatz 4 zulässig.
 
 (6) Die im Rahmen der anwendungsbegleitenden Erfolgsmessung verarbeiteten Daten dürfen ohne die Einwilligung der Versicherten nicht zu weiteren Zwecken verarbeitet werden.
 
 ### § 23b — Allgemeine Inhalte der erstmaligen Meldung und von Folgemeldungen
 
-(1) Soweit die nachfolgenden Angaben nicht bereits in dem Verzeichnis für digitale Gesundheitsanwendungen enthalten sind, teilt der Hersteller dem Bundesinstitut für Arzneimittel und Medizinprodukte für jede digitale Gesundheitsanwendung bei der erstmaligen Meldung von Daten nach § 139e Absatz 13 Satz 2 des Fünften Buches Sozialgesetzbuch folgende Angaben mit: Die Anwendungsdauer nach Satz 1 Nummer 3 entspricht der in dem Verzeichnis für digitale Gesundheitsanwendungen veröffentlichten Verordnungsdauer. Die Angaben sind durch den Hersteller zu begründen. Änderungen der Angaben sind dem Bundesinstitut für Arzneimittel und Medizinprodukte zum Zeitpunkt der zeitlich nachfolgenden Meldung nach § 23a Absatz 3 Satz 2 mitzuteilen.
+(1) Soweit die nachfolgenden Angaben nicht bereits in dem Verzeichnis für digitale Gesundheitsanwendungen enthalten sind, teilt der Hersteller dem Bundesinstitut für Arzneimittel und Medizinprodukte für jede digitale Gesundheitsanwendung bei der erstmaligen Meldung von Daten nach § 139e Absatz 13 Satz 2 des Fünften Buches Sozialgesetzbuch folgende Angaben mit:
 
-1.
+1. den empfohlenen Nutzungsumfang in Minuten pro Woche,
 
-2.
+2. die empfohlene Nutzungshäufigkeit pro Woche,
 
-3.
+3. die Anwendungsdauer und
 
-4.
+4. die vorgesehene Mindest- und Höchstdauer der Anwendung.
 
-(2) Der Hersteller teilt dem Bundesinstitut für Arzneimittel und Medizinprodukte zum Zeitpunkt jeder Meldung nach § 23a Absatz 3 Satz 2 für jedes Kalenderquartal und jede digitale Gesundheitsanwendung folgende Angaben mit: Eine Verordnung gilt nach Satz 1 Nummer 1 in dem Kalenderquartal als eingelöst, in welchem der Versicherte eine digitale Gesundheitsanwendung erstmals aufgrund der Verordnung genutzt hat. Eine direkte Folgeverordnung nach Satz 1 Nummer 2 liegt dann vor, wenn eine von dem gleichen Versicherten nach erstmaliger Verordnung genutzte digitale Gesundheitsanwendung nach Ablauf des Zeitraums nach Absatz 1 Satz 1 Nummer 3 aufgrund einer neuen Verordnung ohne Unterbrechung weiterverwendet wird.
+(2) Der Hersteller teilt dem Bundesinstitut für Arzneimittel und Medizinprodukte zum Zeitpunkt jeder Meldung nach § 23a Absatz 3 Satz 2 für jedes Kalenderquartal und jede digitale Gesundheitsanwendung folgende Angaben mit:
 
-1.
+1. die Anzahl der bei dem Hersteller insgesamt eingelösten Verordnungen und
 
-2.
+2. die Anzahl der bei dem Hersteller insgesamt eingelösten direkten Folgeverordnungen.
 
 (3) Für digitale Gesundheitsanwendungen, die in Folge der Genehmigung durch eine Krankenkasse abgegeben werden, gilt Absatz 2 mit der Maßgabe entsprechend, dass an die Stelle der Einlösung einer Verordnung die erstmalige Nutzung in Folge einer erteilten Genehmigung tritt.
 
 ### § 23c — Dauer und Häufigkeit der Nutzung
 
-(1) Die Ergebnisse der anwendungsbegleitenden Erfolgsmessung zur Dauer und Häufigkeit der Nutzung umfassen die Auswertung der von dem Beginn der Nutzung bis zum Ende der Anwendungsdauer erhobenen Daten Der Beginn der Nutzung ist der Zeitpunkt, zu dem der Nutzer eine digitale Gesundheitsanwendung erstmals aufgrund einer Verordnung oder in Folge einer Genehmigung genutzt hat. Das Ende der Anwendungsdauer ist der Zeitpunkt der Beendigung der Nutzung einer digitalen Gesundheitsanwendung nach Ablauf des jeweiligen Verordnungs- oder Genehmigungszeitraums. Für digitale Gesundheitsanwendungen mit einer Anwendungsdauer von mehr als 90 Tagen sind die Daten für 90 Tage zu ermitteln.
+(1) Die Ergebnisse der anwendungsbegleitenden Erfolgsmessung zur Dauer und Häufigkeit der Nutzung umfassen die Auswertung der von dem Beginn der Nutzung bis zum Ende der Anwendungsdauer erhobenen Daten
 
-1.
+1. zum Nutzungsumfang,
 
-2.
+2. zur Nutzungshäufigkeit und
 
-3.
+3. zum Abbruch der Nutzung.
 
 (2) Der Nutzungsumfang umfasst die durchschnittliche Zeit der Nutzung einer digitalen Gesundheitsanwendung durch die Nutzer für den Zeitraum einer jeden Woche in Minuten im Zeitraum von dem Beginn der Nutzung bis zum Ende der Anwendungsdauer. Zu berücksichtigen sind auch die Daten zum Nutzungsumfang von Nutzern, die die Nutzung abgebrochen haben.
 
@@ -442,19 +434,19 @@ c)
 
 (4) Der Abbruch der Nutzung ist die vorzeitige Beendigung der Nutzung einer digitalen Gesundheitsanwendung durch die Nutzer. Beträgt die Anwendungsdauer einer digitalen Gesundheitsanwendung 90 Tage oder mehr als 90 Tage, ist vom Abbruch der Nutzung auszugehen, wenn eine Nutzung für die ununterbrochene Dauer von drei Wochen unterblieben ist. Beträgt die Anwendungsdauer weniger als 90 Tage, ist von einem Abbruch der Nutzung auszugehen, wenn eine Nutzung für die ununterbrochene Dauer von 25 Prozent der Anwendungsdauer nicht erfolgt ist. Vom Abbruch der Nutzung ist auch dann auszugehen, wenn die Nutzung nach Ablauf der in Satz 2 und 3 genannten Zeiträume wieder aufgenommen wird.
 
-(5) Für die Meldung der Ergebnisse der anwendungsbegleitenden Erfolgsmessung zum Abbruch der Nutzung sind für jede digitale Gesundheitsanwendung anzugeben: Das Nähere zu den Inhalten der Meldung bestimmt sich nach Anlage 4.
+(5) Für die Meldung der Ergebnisse der anwendungsbegleitenden Erfolgsmessung zum Abbruch der Nutzung sind für jede digitale Gesundheitsanwendung anzugeben:
 
-1.
+1. die Gesamtzahl der Nutzer, die die Nutzung abgebrochen haben,
 
-2.
+2. die Quote der Nutzer, die die Nutzung abgebrochen haben, im Verhältnis zur Gesamtzahl der Nutzer,
 
-3.
+3. die Verteilung der Nutzungsabbrüche auf die Wochen der Anwendungsdauer,
 
-4.
+4. die Gesamtzahl der Nutzer, die eine digitale Gesundheitsanwendung für die gesamte Anwendungsdauer genutzt haben,
 
-5.
+5. die Quote der Nutzer, die eine digitale Gesundheitsanwendung für die gesamte Anwendungsdauer genutzt haben, und
 
-6.
+6. die Anzahl der Tage, die durchschnittlich bis zum Abbruch der Nutzung vergangen sind.
 
 (6) Das Bundesinstitut für Arzneimittel und Medizinprodukte prüft die von dem Hersteller der digitalen Gesundheitsanwendung gemeldeten Ergebnisse der anwendungsbegleitenden Erfolgsmessung zur Dauer und Häufigkeit der Nutzung auf Plausibilität. Ergeben sich bei den Prüfungen nach Satz 1 Unstimmigkeiten oder Nachfragen, so kann das Bundesinstitut für Arzneimittel und Medizinprodukte von dem Hersteller der digitalen Gesundheitsanwendung die Vorlage weiterer Informationen verlangen.
 
@@ -466,21 +458,21 @@ c)
 
 (3) Die Erhebung der Daten zu der Patientenzufriedenheit in Bezug auf die Qualität der digitalen Gesundheitsanwendung erfolgt durch eine einmalige Erhebung des Herstellers bei dem Nutzer. Die Erhebung erfolgt frühestens sieben Tage vor Ende des Ablaufs der Hälfte der Anwendungsdauer und spätestens am Tag des Endes der Hälfte der Anwendungsdauer. Beträgt die Anwendungsdauer mehr als 90 Tage, erfolgt die Erhebung frühestens sieben Tage vor dem Ende des Ablaufs einer Anwendungsdauer von 45 Tagen seit der erstmaligen Nutzung einer digitalen Gesundheitsanwendung durch den Nutzer und spätestens am Ende des letzten Tages einer Anwendungsdauer von 45 Tagen.
 
-(4) Für die Meldung der Ergebnisse der anwendungsbegleitenden Erfolgsmessung zum patientenberichteten Gesundheitszustand während der Nutzung der digitalen Gesundheitsanwendung sind für jede digitale Gesundheitsanwendung anzugeben: Die Meldung beinhaltet auch die Ergebnisse der anwendungsbegleitenden Erfolgsmessung zum patientenberichteten Gesundheitszustand während der Nutzung der digitalen Gesundheitsanwendung durch Nutzer, die die Nutzung abgebrochen haben. Das Nähere zu den Inhalten der Meldung bestimmt sich nach Anlage 4.
+(4) Für die Meldung der Ergebnisse der anwendungsbegleitenden Erfolgsmessung zum patientenberichteten Gesundheitszustand während der Nutzung der digitalen Gesundheitsanwendung sind für jede digitale Gesundheitsanwendung anzugeben:
 
-1.
+1. die Anzahl der Nutzer, die an der Erhebung teilgenommen haben,
 
-2.
+2. der Anteil der Nutzer, die an der Erhebung teilgenommen haben, im Verhältnis zu der Gesamtzahl der Nutzer und
 
-3.
+3. die Ergebnisse der Erhebung.
 
-(5) Für die Meldung der Ergebnisse der anwendungsbegleitenden Erfolgsmessung zur Patientenzufriedenheit in Bezug auf die Qualität der digitalen Gesundheitsanwendung sind für jede digitale Gesundheitsanwendung anzugeben: Absatz 4 Satz 2 und 3 gilt entsprechend.
+(5) Für die Meldung der Ergebnisse der anwendungsbegleitenden Erfolgsmessung zur Patientenzufriedenheit in Bezug auf die Qualität der digitalen Gesundheitsanwendung sind für jede digitale Gesundheitsanwendung anzugeben:
 
-1.
+1. die Anzahl der Nutzer, die an der Erhebung teilgenommen haben,
 
-2.
+2. der Anteil der Personen, die an der Erhebung teilgenommen haben, im Verhältnis zu der Gesamtzahl der Nutzer und
 
-3.
+3. die Ergebnisse der Erhebung.
 
 (6) § 23c Absatz 6 gilt entsprechend.
 
@@ -496,17 +488,17 @@ c)
 
 (4) Der Hersteller führt die Befragung zur Erhebung der Daten zur Ermittlung der zusätzlichen Ergebnisse der anwendungsbegleitenden Erfolgsmessung zum patientenberichteten Gesundheitszustand während der Nutzung der digitalen Gesundheitsanwendung zu Beginn der Nutzung und, nach Maßgabe des Satzes 2, am Ende der Anwendungsdauer durch. Die Erhebung erfolgt frühestens sieben Tage vor Ende des Ablaufs der Anwendungsdauer und spätestens am Ende des letzten Tages der Anwendungsdauer. Beträgt die Anwendungsdauer mehr als 90 Tage, erfolgt die Erhebung einmalig in einem Zeitraum, der frühestens sieben Tage vor dem Ende des Ablaufs der Anwendungsdauer von 90 Tagen ab dem Zeitpunkt der erstmaligen Nutzung einer digitalen Gesundheitsanwendung durch den Nutzer beginnt und am Ende des letzten Tages der Anwendungsdauer von 90 Tagen endet.
 
-(5) Für die Meldung der zusätzlichen Ergebnisse der anwendungsbegleitenden Erfolgsmessung zum patientenberichteten Gesundheitszustand während der Nutzung der digitalen Gesundheitsanwendung sind für jede digitale Gesundheitsanwendung anzugeben: § 23d Absatz 4 Satz 2 und 3 gilt entsprechend.
+(5) Für die Meldung der zusätzlichen Ergebnisse der anwendungsbegleitenden Erfolgsmessung zum patientenberichteten Gesundheitszustand während der Nutzung der digitalen Gesundheitsanwendung sind für jede digitale Gesundheitsanwendung anzugeben:
 
-1.
+1. die Anzahl der Nutzer, die an der Erhebung teilgenommen haben,
 
-2.
+2. der Anteil der Nutzer, die an der Erhebung teilgenommen haben, im Verhältnis zu der Gesamtzahl der Nutzer und
 
-3.
+3. die Ergebnisse der Erhebung.
 
 (6) § 23c Absatz 6 gilt entsprechend.
 
-(7) Abweichend von § 23a Absatz 3 Satz 3 erfolgt die Meldung der zusätzlichen Ergebnisse der anwendungsbegleitenden Erfolgsmessung zum patientenberichteten Gesundheitszustand während der Nutzung der digitalen Gesundheitsanwendung erstmals zum 15. April 2029.
+(7) Abweichend von § 23a Absatz 3 Satz 3 erfolgt die Meldung der zusätzlichen Ergebnisse der anwendungsbegleitenden Erfolgsmessung zum patientenberichteten Gesundheitszustand während der Nutzung der digitalen Gesundheitsanwendung erstmals zum 15. April 2029.
 
 ## Abschnitt 7: Gebühren und Auslagen
 
@@ -516,21 +508,21 @@ Das Bundesinstitut für Arzneimittel und Medizinprodukte erhebt für individuell
 
 ### § 25 — Gebühren für die Entscheidungen über die Aufnahme digitaler Gesundheitsanwendungen in das Verzeichnis
 
-(1) Die Gebühr beträgt für die Entscheidung nach mindestens 3 000 und höchstens 9 900 Euro.
+(1) Die Gebühr beträgt für die Entscheidung nach
 
-1.
+1. § 139e Absatz 3 Satz 1 über einen Antrag des Herstellers nach § 139e Absatz 2 des Fünften Buches Sozialgesetzbuch oder
 
-2.
+2. § 139e Absatz 4 Satz 1 und 3 des Fünften Buches Sozialgesetzbuch
 
-(2) Die Gebühr für die Entscheidung nach § 139e Absatz 4 Satz 6 des Fünften Buches Sozialgesetzbuch beträgt mindestens 1 500 und höchstens 6 600 Euro.
+(2) Die Gebühr für die Entscheidung nach § 139e Absatz 4 Satz 6 des Fünften Buches Sozialgesetzbuch beträgt mindestens 1 500 und höchstens 6 600 Euro.
 
-(3) Die Gebühr für die Entscheidung nach § 139e Absatz 4 Satz 7 des Fünften Buches Sozialgesetzbuch beträgt mindestens 1 500 und höchstens 4 900 Euro.
+(3) Die Gebühr für die Entscheidung nach § 139e Absatz 4 Satz 7 des Fünften Buches Sozialgesetzbuch beträgt mindestens 1 500 und höchstens 4 900 Euro.
 
 ### § 26 — Gebühren für Änderungsanzeigen und die Streichung
 
-(1) Die Gebühr für die Bearbeitung einer Anzeige nach § 139e Absatz 6 Satz 1 Nummer 1 des Fünften Buches Sozialgesetzbuch beträgt mindestens 1 500 und höchstens 4 900 Euro.
+(1) Die Gebühr für die Bearbeitung einer Anzeige nach § 139e Absatz 6 Satz 1 Nummer 1 des Fünften Buches Sozialgesetzbuch beträgt mindestens 1 500 und höchstens 4 900 Euro.
 
-(2) Die Gebühr für die Bearbeitung einer Anzeige nach § 139e Absatz 6 Satz 1 Nummer 2 des Fünften Buches Sozialgesetzbuch beträgt mindestens 300 und höchstens 1 000 Euro.
+(2) Die Gebühr für die Bearbeitung einer Anzeige nach § 139e Absatz 6 Satz 1 Nummer 2 des Fünften Buches Sozialgesetzbuch beträgt mindestens 300 und höchstens 1 000 Euro.
 
 (3) Die Gebühr für die Streichung einer digitalen Gesundheitsanwendung gemäß § 139e Absatz 6 Satz 6 und 9 des Fünften Buches Sozialgesetzbuch beträgt 200 Euro.
 
@@ -538,7 +530,7 @@ Das Bundesinstitut für Arzneimittel und Medizinprodukte erhebt für individuell
 
 ### § 27 — Gebühr für Beratungen
 
-(1) Die Gebühr für die Beratung des Herstellers digitaler Gesundheitsanwendungen nach § 139e Absatz 8 Satz 2 des Fünften Buches Sozialgesetzbuch beträgt mindestens 250 und höchstens 5 000 Euro.
+(1) Die Gebühr für die Beratung des Herstellers digitaler Gesundheitsanwendungen nach § 139e Absatz 8 Satz 2 des Fünften Buches Sozialgesetzbuch beträgt mindestens 250 und höchstens 5 000 Euro.
 
 (2) Im Umfang geringfügige allgemeine mündliche, schriftliche oder elektronische Auskünfte sind hiervon ausgenommen.
 
@@ -558,11 +550,11 @@ Das Bundesinstitut für Arzneimittel und Medizinprodukte erhebt für individuell
 
 (1) Bei folgenden individuell zurechenbaren öffentlichen Leistungen, die auf Antrag vorgenommen werden, sind an Gebühren zu erheben für:
 
-1.
+1. nicht einfache schriftliche Auskünfte mindestens 50 und höchstens 500 Euro,
 
-2.
+2. die Herstellung und Überlassung von Dokumenten oder die Herstellung und Überlassung von elektronisch gespeicherten Dateien einschließlich der Umwandlung schriftlicher Dokumente in elektronische Dateien mindestens 10 und höchstens 100 Euro, sofern dies nicht im Rahmen der individuell zurechenbaren Leistungen nach den §§ 25 bis 27 erfolgt, oder
 
-3.
+3. die Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren anhängig, mindestens 25 und höchstens 250 Euro.
 
 (2) Der Antragsteller ist auf die Gebührenpflichtigkeit der individuell zurechenbaren öffentlichen Leistung nach Absatz 1 hinzuweisen.
 
@@ -570,11 +562,11 @@ Das Bundesinstitut für Arzneimittel und Medizinprodukte erhebt für individuell
 
 (1) Die nach den §§ 25 bis 27 zu erhebenden Gebühren können auf Antrag des Gebührenschuldners bis auf ein Viertel der vorgesehenen Gebühr ermäßigt werden, wenn
 
-1.
+1. der Antragsteller einen diesen Gebühren angemessenen wirtschaftlichen Nutzen nicht erwarten kann,
 
-2.
+2. die Anwendungsfälle selten sind oder
 
-3.
+3. die Zielgruppe, für die die digitale Gesundheitsanwendung bestimmt ist, klein ist.
 
 (2) Von der Erhebung der Gebühren kann ganz abgesehen werden, wenn der zu erwartende wirtschaftliche Nutzen im Verhältnis zu den Gebühren besonders gering ist.
 
@@ -588,9 +580,9 @@ Für die Erstattung von Auslagen gilt § 12 Absatz 1 des Bundesgebührengesetzes
 
 (2) Abweichend von Absatz 1 entsteht die Gebührenschuld, wenn
 
-1.
+1. ein Antrag oder ein Widerspruch zurückgenommen wird oder sich auf sonstige Weise erledigt, mit der Zurücknahme oder der sonstigen Erledigung und
 
-2.
+2. eine individuell zurechenbare öffentliche Leistung aus Gründen, die der Betroffene zu vertreten hat, nicht zum festgesetzten Termin erbracht werden kann oder abgebrochen werden muss, zum Zeitpunkt des für die Erbringung der Leistung festgesetzten Termins oder des Abbruchs der Leistung.
 
 (3) Für Auslagen gelten die Absätze 1 und 2 entsprechend.
 
@@ -598,11 +590,11 @@ Für die Erstattung von Auslagen gilt § 12 Absatz 1 des Bundesgebührengesetzes
 
 (1) Zur Zahlung der Gebühren ist derjenige verpflichtet,
 
-1.
+1. dem die öffentliche Leistung individuell zurechenbar ist,
 
-2.
+2. der die Gebührenschuld eines anderen durch eine gegenüber dem Bundesinstitut für Arzneimittel und Medizinprodukte abgegebene oder ihr mitgeteilte Erklärung übernommen hat oder
 
-3.
+3. der für die Gebührenschuld eines anderen kraft Gesetzes haftet.
 
 (2) Mehrere Gebührenschuldner haften als Gesamtschuldner.
 
@@ -612,7 +604,7 @@ Für die Erstattung von Auslagen gilt § 12 Absatz 1 des Bundesgebührengesetzes
 
 ### § 34 — Zusammensetzung der Schiedsstelle und Bestellung der Mitglieder der Schiedsstelle
 
-(1) Die Verbände nach § 134 Absatz 3 Satz 1 des Fünften Buches Sozialgesetzbuch teilen die Benennung der Mitglieder der Schiedsstelle nach § 134 Absatz 3 Satz 2 bis 4 des Fünften Buches Sozialgesetzbuch der Geschäftsstelle nach § 38 mit.
+(1) Die Verbände nach § 134 Absatz 3 Satz 1 des Fünften Buches Sozialgesetzbuch teilen die Benennung der Mitglieder der Schiedsstelle nach § 134 Absatz 3 Satz 2 bis 4 des Fünften Buches Sozialgesetzbuch der Geschäftsstelle nach § 38 mit.
 
 (2) Die Mitglieder der Schiedsstelle sind benannt, sobald sie gegenüber den beteiligten Verbänden nach § 134 Absatz 3 Satz 1 des Fünften Buches Sozialgesetzbuch die Bereitschaft zur Amtsübernahme erklärt haben.
 
@@ -646,11 +638,11 @@ Die Geschäftsstelle der Schiedsstelle wird beim Spitzenverband Bund der Kranken
 
 (1) Kommt ein Vertrag über Vergütungsbeträge für digitale Gesundheitsanwendungen nach § 134 Absatz 1 des Fünften Buches Sozialgesetzbuch nicht oder teilweise nicht zustande, beginnt das Schiedsverfahren mit dem bei der Schiedsstelle von einer beteiligten Vertragspartei gestellten Antrag, eine Einigung über den Inhalt eines Vertrages herbeizuführen. Der Antrag ist schriftlich oder elektronisch an den Vorsitzenden der Schiedsstelle zu richten. Der Antrag muss Folgendes enthalten:
 
-1.
+1. eine Erläuterung des Sachverhalts,
 
-2.
+2. eine Zusammenfassung des Ergebnisses der vorangegangenen Verhandlungen sowie
 
-3.
+3. eine Aufführung der Teile des Vertrages, über die eine Einigung nicht zustande gekommen ist.
 
 (2) Ist ein gekündigter Vertrag nach § 134 Absatz 1 nicht durch einen neuen Vertrag ersetzt worden, so beginnt das Schiedsverfahren mit dem auf den Ablauf der Kündigungsfrist folgenden Tag. Die Vertragspartei, die die Kündigung ausgesprochen hat, hat die Schiedsstelle schriftlich oder elektronisch unter Darstellung des Sachverhalts zu benachrichtigen.
 
@@ -674,11 +666,11 @@ Auf Verlangen der Schiedsstelle haben die Vertragsparteien der Schiedsstelle die
 
 (5) Der Vorsitzende der Schiedsstelle informiert das Bundesministerium für Gesundheit und die Patientenorganisationen nach § 140f des Fünften Buches Sozialgesetzbuch jeweils unverzüglich schriftlich oder elektronisch über
 
-1.
+1. die Einleitung eines Schiedsverfahrens nach § 39,
 
-2.
+2. die Verhandlungstermine der Schiedsstelle und
 
-3.
+3. die Entscheidung der Schiedsstelle.
 
 ### § 42 — Entschädigung und Kosten
 
@@ -698,94 +690,10 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Im nachfolgend aufgeführten Fragenbogen ist durch den Hersteller die Erfüllung der Anforderungen nach § 4 zu erklären. Der Hersteller bestätigt die Erfüllung der Anforderungen durch Kennzeichnung in der Spalte „zutreffend“. Die Vorschriften des Datenschutzes und die Anforderungen an die Datensicherheit – Basisanforderungen sind von allen digitalen Gesundheitsanwendungen zu erfüllen. Die Anforderungen Datensicherheit – Zusatzanforderungen bei digitalen Gesundheitsanwendungen mit sehr hohem Schutzbedarf sind von digitalen Gesundheitsanwendungen zu erfüllen, für die im Rahmen der geforderten Schutzbedarfsanalyse ein sehr hoher Schutzbedarf festgestellt wurde.
 
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
 ### Anlage 2 — Fragebogen gemäß den §§ 5 und 6
 
 Im nachfolgend aufgeführten Fragenbogen ist durch den Hersteller die Erfüllung der Anforderungen nach den §§ 5 und 6 zu erklären. Der Hersteller bestätigt die Erfüllung der Anforderungen durch Kennzeichnung in der Spalte „zutreffend“ oder, sofern die dort jeweils genannte Begründung zutrifft, in der Spalte „nicht zutreffend“.
 
 ### Anlage 3 — Fragebogen nach § 23d Absatz 1
 
-Die Erhebung der für die Ergebnisse der anwendungsbegleitenden Erfolgsmessung zum patientenberichteten Gesundheitszustand während der Nutzung der digitalen Gesundheitsanwendung erforderlichen Daten erfolgt anhand der nachfolgend aufgeführten Fragen. Die Erhebung erfolgt durch den Hersteller unmittelbar in der digitalen Gesundheitsanwendung.
-
-Die Erhebung der für die Ergebnisse der anwendungsbegleitenden Erfolgsmessung zur Patientenzufriedenheit in Bezug auf die Qualität der digitalen Gesundheitsanwendung erforderlichen Daten erfolgt anhand der nachfolgend aufgeführten Aussagen. Die Erhebung erfolgt durch den Hersteller unmittelbar in der digitalen Gesundheitsanwendung.
-
 ### Anlage 4 — Datensätze nach § 23c Absatz 5, § 23d Absatz 4 und 5 sowie § 23e Absatz 5
-
-Der von den Herstellern nach § 23c Absatz 5, § 23d Absatz 4 und 5 sowie § 23e Absatz 5 zu übermittelnde Datensatz enthält jeweils die nachfolgenden Angaben. Soweit zutreffend, sind alle Angaben mit einer Nachkommastelle zu übermitteln.

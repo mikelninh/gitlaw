@@ -51,13 +51,13 @@ Organe der Holding sind der Vorstand, der Verwaltungsrat und die Hauptversammlun
 
 ### § 7 — Verwaltungsrat
 
-(1) Der Verwaltungsrat besteht aus mindestens drei Personen. Ihm gehören an: Die Mitglieder des Verwaltungsrats werden von der Aufsichtsbehörde berufen. Die jeweilige Zahl der Verwaltungsratsmitglieder bestimmt die Aufsichtsbehörde.
+(1) Der Verwaltungsrat besteht aus mindestens drei Personen. Ihm gehören an:
 
-1.
+1. ein Vertreter des Bundesministeriums der Finanzen,
 
-2.
+2. ein Vertreter des Bundesministeriums für Wirtschaft und Energie,
 
-3.
+3. ein Vertreter des Bundesministeriums für Ernährung und Landwirtschaft.
 
 (2) Die Berufung der Mitglieder des Verwaltungsrats erfolgt längstens für die Zeit bis zur Beendigung der Hauptversammlung, die über die Entlastung für das vierte Geschäftsjahr nach dem Beginn der Amtszeit beschließt. Das Geschäftsjahr, in dem die Amtszeit beginnt, wird nicht mitgerechnet. Im Falle des vorzeitigen Ausscheidens eines Verwaltungsratsmitglieds wird das an seine Stelle tretende Mitglied für die Restdauer der Amtszeit des ausgeschiedenen Mitglieds bestellt.
 
@@ -75,31 +75,31 @@ Organe der Holding sind der Vorstand, der Verwaltungsrat und die Hauptversammlun
 
 (4) Unbeschadet seiner sich aus dem allgemeinen Überwachungsrecht ergebenden Befugnisse unterliegen der Zuständigkeit des Verwaltungsrats insbesondere:
 
-1.
+1. die Bestellung und der Widerruf der Bestellung von Vorstandsmitgliedern,
 
-2.
+2. die Stellungnahme an die Hauptversammlung über den vorzulegenden Jahresabschluß,
 
-3.
+3. die Genehmigung des vom Vorstand vorgelegten Lageberichts, soweit er den Jahresabschluß erläutert,
 
-4.
+4. der Vorschlag an die Hauptversammlung über die Verwendung des Jahresüberschusses,
 
-5.
+5. der Vorschlag an die Hauptversammlung über den von ihr zu bestellenden Abschlußprüfer zur Prüfung des Jahresabschlusses,
 
-6.
+6. der Vorschlag an die Hauptversammlung über die Entlastung des Vorstands,
 
-7.
+7. Vorschläge an die Hauptversammlung über Änderungen des Statuts,
 
-8.
+8. sonstige Vorschläge zur Beschlußfassung der Hauptversammlung,
 
-9.
+9. der Beschluß über die Einberufung außerordentlicher Hauptversammlungen,
 
-10.
+10. die Regelung der vertraglichen Vereinbarungen mit den Vorstandsmitgliedern und deren sonstigen Angelegenheiten.
 
-(5) Die Zustimmung des Verwaltungsrats ist erforderlich für: Der Verwaltungsrat kann weitere Geschäfte von seiner Zustimmung abhängig machen.
+(5) Die Zustimmung des Verwaltungsrats ist erforderlich für:
 
-1.
+1. den Erwerb, die Veräußerung und die Belastung von Grundstücken und Gebäuden,
 
-2.
+2. den Abschluß, wesentliche Änderungen oder die Aufhebung von Unternehmensverträgen.
 
 ### § 9 — Beschlüsse und Sitzungen des Verwaltungsrats
 
@@ -135,25 +135,25 @@ Die Verwaltungsratsmitglieder erhalten den Ersatz der bei der Ausübung ihrer T�
 
 Die Hauptversammlung beschließt über:
 
-1.
+1. die Feststellung des Jahresabschlusses,
 
-2.
+2. die Verwendung des Jahresüberschusses,
 
-3.
+3. die Entlastung des Vorstands und des Verwaltungsrats,
 
-4.
+4. die Bestellung des Abschlußprüfers zur Prüfung des Jahresabschlusses,
 
-5.
+5. Änderungen des Statuts,
 
-6.
+6. Änderungen des Grundkapitals,
 
-7.
+7. den Erwerb und die Veräußerung von Beteiligungen,
 
-8.
+8. die Aufnahme neuer Geschäftszweige oder die Aufgabe vorhandener Tätigkeitsbereiche,
 
-9.
+9. die Umwandlung der Holding in eine Aktiengesellschaft und die Feststellung der Satzung der Aktiengesellschaft,
 
-10.
+10. die Auflösung der Holding.
 
 ### § 13 — Sitzungen und Beschlüsse der Hauptversammlung
 

@@ -29,15 +29,9 @@ Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 sowie des § 13 Abs. 1 des Dri
 ## Art 9: Außerkrafttreten
 
 
-Mit Inkrafttreten dieses Gesetzes treten außer Kraft 2. 6.
+Mit Inkrafttreten dieses Gesetzes treten außer Kraft
 
-1.
-
-3.
-
-4.
-
-5.
+1. das Arzneimittelgesetz 1961 vorbehaltlich Artikel 3 § 11 Abs. 1,
 
 ## Art 10: Inkrafttreten
 

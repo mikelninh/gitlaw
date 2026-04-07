@@ -12,25 +12,21 @@
 
 (1) Die Arbeitnehmer haben ein Mitbestimmungsrecht im Aufsichtsrat nach Maßgabe dieses Gesetzes in
 
-1.
+1. einer Aktiengesellschaft mit in der Regel mehr als 500 Arbeitnehmern. Ein Mitbestimmungsrecht im Aufsichtsrat besteht auch in einer Aktiengesellschaft mit in der Regel weniger als 500 Arbeitnehmern, die vor dem 10. August 1994 eingetragen worden ist und keine Familiengesellschaft ist. Als Familiengesellschaften gelten solche Aktiengesellschaften, deren Aktionär eine einzelne natürliche Person ist oder deren Aktionäre untereinander im Sinne von § 15 Abs. 1 Nr. 2 bis 8, Abs. 2 der Abgabenordnung verwandt oder verschwägert sind;
 
-2.
+2. einer Kommanditgesellschaft auf Aktien mit in der Regel mehr als 500 Arbeitnehmern. Nummer 1 Satz 2 und 3 gilt entsprechend;
 
-3.
+3. einer Gesellschaft mit beschränkter Haftung mit in der Regel mehr als 500 Arbeitnehmern. Die Gesellschaft hat einen Aufsichtsrat zu bilden; seine Zusammensetzung sowie seine Rechte und Pflichten bestimmen sich nach § 90 Abs. 3, 4, 5 Satz 1 und 2, nach den §§ 95 bis 114, 116, 118 Abs. 3, § 125 Abs. 3 und 4 und nach den §§ 170, 171, 268 Abs. 2 des Aktiengesetzes;
 
-4.
+4. einem Versicherungsverein auf Gegenseitigkeit mit in der Regel mehr als 500 Arbeitnehmern, wenn dort ein Aufsichtsrat besteht;
 
-5.
+5. einer Genossenschaft mit in der Regel mehr als 500 Arbeitnehmern. § 96 Absatz 4 und die §§ 97 bis 99 des Aktiengesetzes sind entsprechend anzuwenden. Die Satzung kann nur eine durch drei teilbare Zahl von Aufsichtsratsmitgliedern festsetzen. Der Aufsichtsrat muss zwei Sitzungen im Kalenderhalbjahr abhalten.
 
-(2) Dieses Gesetz findet keine Anwendung auf dienen.Dieses Gesetz ist nicht anzuwenden auf Religionsgemeinschaften und ihre karitativen und erzieherischen Einrichtungen unbeschadet deren Rechtsform.
+(2) Dieses Gesetz findet keine Anwendung auf
 
-1.
+1. die in § 1 Abs. 1 des Mitbestimmungsgesetzes, die in § 1 des Montan-Mitbestimmungsgesetzes und die in den §§ 1 und 3 Abs. 1 des Montan-Mitbestimmungsergänzungsgesetzes bezeichneten Unternehmen;
 
-2.
-
-a)
-
-b)
+2. Unternehmen, die unmittelbar und überwiegenda)politischen, koalitionspolitischen, konfessionellen, karitativen, erzieherischen, wissenschaftlichen oder künstlerischen Bestimmungen oderb)Zwecken der Berichterstattung oder Meinungsäußerung, auf die Artikel 5 Abs. 1 Satz 2 des Grundgesetzes anzuwenden ist, politischen, koalitionspolitischen, konfessionellen, karitativen, erzieherischen, wissenschaftlichen oder künstlerischen Bestimmungen oder Zwecken der Berichterstattung oder Meinungsäußerung, auf die Artikel 5 Abs. 1 Satz 2 des Grundgesetzes anzuwenden ist,
 
 (3) Die Vorschriften des Genossenschaftsgesetzes über die Zusammensetzung des Aufsichtsrats sowie über die Wahl und die Abberufung von Aufsichtsratsmitgliedern gelten insoweit nicht, als sie den Vorschriften dieses Gesetzes widersprechen.
 
@@ -84,9 +80,9 @@ Die Wahl erfolgt auf Grund von Wahlvorschlägen der Betriebsräte und der Arbeit
 
 (1) Ergibt im Fall des § 4 Absatz 5 in Verbindung mit § 96 Absatz 2 Satz 3 des Aktiengesetzes die Auszählung der Stimmen und ihre Verteilung auf die Bewerber, dass die Vorgaben des § 4 Absatz 5 nicht erfüllt wurden, ist folgendes Geschlechterverhältnis für die Aufsichtsratssitze der Arbeitnehmer herzustellen:
 
-1.
+1. in Aufsichtsräten mit einer Größe von sechs, neun oder zwölf Mitgliedern müssen unter den Aufsichtsratsmitgliedern der Arbeitnehmer jeweils mindestens eine Frau und mindestens ein Mann vertreten sein;
 
-2.
+2. in Aufsichtsräten mit einer Größe von 15, 18 und 21 Mitgliedern müssen unter den Aufsichtsratsmitgliedern der Arbeitnehmer jeweils mindestens zwei Frauen und mindestens zwei Männer vertreten sein.
 
 (2) Um die Verteilung der Geschlechter nach Absatz 1 zu erreichen, ist die Wahl derjenigen Bewerber um einen Aufsichtsratssitz der Arbeitnehmer unwirksam, deren Geschlecht nach der Verteilung der Stimmen auf die Bewerber mehrheitlich vertreten ist und die nach der Reihenfolge der auf die Bewerber entfallenden Stimmenzahlen die niedrigsten Stimmenzahlen erhalten haben. Die durch unwirksame Wahl nach Satz 1 nicht besetzten Aufsichtsratssitze werden im Wege der gerichtlichen Ersatzbestellung nach § 104 des Aktiengesetzes oder der Nachwahl besetzt; § 4 Absatz 2 Satz 2 ist zu beachten.
 
@@ -110,13 +106,13 @@ Aufsichtsratsmitglieder der Arbeitnehmer dürfen in der Ausübung ihrer Tätigke
 
 (1) Die Wahl eines Aufsichtsratsmitglieds oder eines Ersatzmitglieds der Arbeitnehmer kann beim Arbeitsgericht angefochten werden, wenn gegen wesentliche Vorschriften über das Wahlrecht, die Wählbarkeit oder das Wahlverfahren verstoßen worden und eine Berichtigung nicht erfolgt ist, es sei denn, dass durch den Verstoß das Wahlergebnis nicht geändert oder beeinflusst werden konnte.
 
-(2) Zur Anfechtung berechtigt sind Die Anfechtung ist nur binnen einer Frist von zwei Wochen, vom Tag der Veröffentlichung im Bundesanzeiger an gerechnet, zulässig.
+(2) Zur Anfechtung berechtigt sind
 
-1.
+1. mindestens drei Wahlberechtigte,
 
-2.
+2. die Betriebsräte,
 
-3.
+3. das zur gesetzlichen Vertretung des Unternehmens befugte Organ.
 
 ### § 12 — Abberufung von Aufsichtsratsmitgliedern der Arbeitnehmer
 
@@ -130,25 +126,25 @@ Aufsichtsratsmitglieder der Arbeitnehmer dürfen in der Ausübung ihrer Tätigke
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung Vorschriften über das Verfahren für die Wahl und die Abberufung von Aufsichtsratsmitgliedern der Arbeitnehmer zu erlassen, insbesondere über
 
-1.
+1. die Vorbereitung der Wahl, insbesondere die Aufstellung der Wählerlisten und die Errechnung der Zahl der Aufsichtsratsmitglieder der Arbeitnehmer;
 
-2.
+2. die Frist für die Einsichtnahme in die Wählerlisten und die Erhebung von Einsprüchen gegen sie;
 
-3.
+3. die Wahlvorschläge und die Frist für ihre Einreichung;
 
-3a.
+3a. das Verfahren zur Berücksichtigung der Geschlechter;
 
-4.
+4. das Wahlausschreiben und die Frist für seine Bekanntmachung;
 
-5.
+5. die Teilnahme von Arbeitnehmern eines in § 3 Abs. 3 bezeichneten Betriebs an der Wahl;
 
-6.
+6. die Stimmabgabe;
 
-7.
+7. die Feststellung des Wahlergebnisses und die Fristen für seine Bekanntmachung;
 
-8.
+8. die Anfechtung der Wahl;
 
-9.
+9. die Aufbewahrung der Wahlakten.
 
 ### § 14 — Verweisungen
 

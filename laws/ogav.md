@@ -12,7 +12,11 @@ Auf Grund des § 335 Abs. 2a des Handelsgesetzbuchs, der durch Artikel 8 des Ges
 
 ### § 1 — Elektronische Aktenführung
 
-(1) Das Bundesamt für Justiz hat die Verfahrensakten im Ordnungsgeldverfahren nach den §§ 335, 340o und 341o des Handelsgesetzbuchs, nach § 21 des Publizitätsgesetzes sowie nach anderen Bestimmungen, die wegen des Ordnungsgeldverfahrens auf § 335 des Handelsgesetzbuchs verweisen, einschließlich der Verfahrensakten in der Zwangsvollstreckung ab dem 1. Januar 2018 elektronisch zu führen.(2) Die Verfahrensakten können bis zum 31. Dezember 2025 in der bis zum 31. Dezember 2017 verwendeten elektronischen Form weitergeführt werden.(3) Verfahrensakten, die vor dem 1. Januar 2018 in Papierform geführt worden sind, können in dieser Form bis zum 31. Dezember 2025 weitergeführt werden.
+(1) Das Bundesamt für Justiz hat die Verfahrensakten im Ordnungsgeldverfahren nach den §§ 335, 340o und 341o des Handelsgesetzbuchs, nach § 21 des Publizitätsgesetzes sowie nach anderen Bestimmungen, die wegen des Ordnungsgeldverfahrens auf § 335 des Handelsgesetzbuchs verweisen, einschließlich der Verfahrensakten in der Zwangsvollstreckung ab dem 1. Januar 2018 elektronisch zu führen.
+
+(2) Die Verfahrensakten können bis zum 31. Dezember 2025 in der bis zum 31. Dezember 2017 verwendeten elektronischen Form weitergeführt werden.
+
+(3) Verfahrensakten, die vor dem 1. Januar 2018 in Papierform geführt worden sind, können in dieser Form bis zum 31. Dezember 2025 weitergeführt werden.
 
 ### § 2 — Fachverfahren nach dem Stand der Technik
 
@@ -20,7 +24,9 @@ Das eingesetzte Fachverfahren hat dem Stand der Technik für die elektronische V
 
 ### § 3 — Übertragung von Dokumenten in elektronische Dokumente; elektronische Akte
 
-(1) Werden Akten elektronisch geführt, sind sämtliche zu den Akten gehörenden Dokumente in elektronische Dokumente zu übertragen. Vermerke zum Geschäftsgang sind elektronisch zu erstellen. Zu den Akten gehören sämtliche Dokumente, die das für das Verfahren bedeutsame Handeln des Betroffenen sowie der Behörde dokumentieren. Es ist sicherzustellen, dass in elektronische Dokumente übertragene Dokumente sowie Vermerke nicht nachträglich verändert werden können.(2) Für jeden Vorgang ist eine elektronische Akte anzulegen.
+(1) Werden Akten elektronisch geführt, sind sämtliche zu den Akten gehörenden Dokumente in elektronische Dokumente zu übertragen. Vermerke zum Geschäftsgang sind elektronisch zu erstellen. Zu den Akten gehören sämtliche Dokumente, die das für das Verfahren bedeutsame Handeln des Betroffenen sowie der Behörde dokumentieren. Es ist sicherzustellen, dass in elektronische Dokumente übertragene Dokumente sowie Vermerke nicht nachträglich verändert werden können.
+
+(2) Für jeden Vorgang ist eine elektronische Akte anzulegen.
 
 ### § 4 — Mit Datenverarbeitungsanlagen erstellte Dokumente
 

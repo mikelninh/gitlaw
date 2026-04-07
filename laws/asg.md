@@ -22,11 +22,11 @@ Das Grundrecht der freien Wahl des Arbeitsplatzes (Artikel 12 des Grundgesetzes)
 
 Für Zwecke der Verteidigung einschließlich des Schutzes der Zivilbevölkerung kann nach den Vorschriften dieses Gesetzes
 
-1.
+1. das Recht zur Beendigung des Arbeitsverhältnisses vom vollendeten 18. Lebensjahr bis zum Erreichen der Regelaltersgrenze nach dem Sechsten Buch Sozialgesetzbuch beschränkt werden,
 
-2.
+2. ein Wehrpflichtiger in ein Arbeitsverhältnis verpflichtet werden,
 
-3.
+3. eine Frau vom vollendeten achtzehnten bis zum vollendeten fünfundfünfzigsten Lebensjahr im zivilen Sanitäts- oder Heilwesen sowie in der ortsfesten militärischen Lazarettorganisation in ein Arbeitsverhältnis verpflichtet werden.
 
 ### § 3 — Voraussetzungen für die Sicherstellung von
 Arbeitsleistungen
@@ -35,65 +35,65 @@ Beschränkungen und Verpflichtungen nach § 2 sind im Verteidigungsfall zulässi
 
 ### § 4 — Anwendungsbereich
 
-(1) Verpflichtungen und Beschränkungen nach § 2 sind zulässig zur Sicherstellung von Arbeitsleistungen Militärausrüstung im Sinne des Satzes 1 Nummer 1c ist jede Ausrüstung, die eigens zu militärischen Zwecken konzipiert oder für militärische Zwecke angepasst wird und zum Einsatz als Waffe, Munition oder Kriegsmaterial bestimmt ist.
+(1) Verpflichtungen und Beschränkungen nach § 2 sind zulässig zur Sicherstellung von Arbeitsleistungen
 
-1.
+1. bei der Bundeswehr und bei den verbündeten Streitkräften,
 
-1a.
+1a. bei mehrheitlich im Eigentum des Bundes befindlichen Gesellschaften, soweit sie zur Versorgung der Bundeswehr und der verbündeten Streitkräfte dienen,
 
-1b.
+1b. bei sonstigen Unternehmen, soweit deren Leistungserbringung im Rahmen von Vertragsverhältnissen zur Versorgung der Bundeswehr und der verbündeten Streitkräfte erforderlich ist,
 
-1c.
+1c. bei Betrieben, soweit sie Militärausrüstung, einschließlich dazugehöriger Teile, Bauteile oder Bausätze liefern, erzeugen oder Dienstleistungen in unmittelbarem Zusammenhang dazu erbringen, sowie
 
-1d.
+1d. bei Forschungseinrichtungen, soweit sie militärisch forschen,
 
-2.
+2. bei Dienststellen des Bundes, der Länder, der Gemeindeverbände, der Gemeinden und der sonstigen juristischen Personen des öffentlichen Rechts,
 
-3.
+3. bei Verbänden und Einrichtungen des Zivilschutzes,
 
-4.
+4. in Betrieben der Wasser- und Energieversorgung sowie der Abwasser- und Abfallbeseitigung,
 
-4a.
+4a. in Ernährungsunternehmen nach § 2 Nummer 6 des Ernährungssicherstellungs- und -vorsorgegesetzes,
 
-5.
+5. in Krankenanstalten und anderen Einrichtungen, in denen pflegebedürftige Personen betreut werden,
 
-6.
+6. in Betrieben der Mineralöl-, Gas-, Kohle- und Wasserstoffversorgung,
 
-7.
+7. in Verkehrsunternehmen einschließlich Unternehmen des Personen- und Güterbeförderungsgewerbes in der See- und Binnenschifffahrt,
 
-8.
+8. bei der Deutschen Telekom AG sowie bei Unternehmen, die nach Kapitel 12 des Postgesetzes oder Teil 10 Abschnitt 2 des Telekommunikationsgesetzes verpflichtet sind,
 
-9.
+9. bei der nach § 31b Abs. 1 des Luftverkehrsgesetzes beauftragten Flugsicherungsorganisation und, soweit die Flugsicherungsorganisationen hoheitliche Aufgaben betreffend den Luftraum über dem Hoheitsgebiet der Bundesrepublik Deutschland wahrnehmen, bei den nach § 31f Absatz 1, auch in Verbindung mit Absatz 2 Satz 2, des Luftverkehrsgesetzes oder durch internationale Vereinbarung beauftragten Flugsicherungsorganisationen,
 
-10.
+10. bei Betrieben, soweit sie Leistungen zur Sicherstellung der Funktionsfähigkeit oder der Sicherheit der Informationstechnik gegenüber Betrieben oder Dienststellen im Sinne der Nummern 1a bis 9 erbringen.
 
 (2) Über Absatz 1 hinaus kann die Bundesregierung nach Eintritt der Voraussetzungen für die Sicherstellung von Arbeitsleistungen (§ 3) durch Rechtsverordnung bestimmen, daß Verpflichtungen und Beschränkungen auch in anderen Bereichen innerhalb des Anwendungsbereichs nach Artikel 12a Abs. 3, 4 und 6 des Grundgesetzes zulässig sind. Die Rechtsverordnung kann den Anwendungsbereich auch einschränken oder abgrenzen. Die Bundesregierung hat die Rechtsverordnung aufzuheben, wenn der Bundestag es verlangt.
 
 (3) Verpflichtungen und Beschränkungen nach § 2 sind gegenüber deutschen Staatsangehörigen bei einem Beschäftigungsort außerhalb des Hoheitsgebietes der Bundesrepublik Deutschland auch zulässig zur Sicherstellung von Arbeitsleistungen
 
-1.
+1. nach Absatz 1 Satz 1 Nummer 1 sowie, wenn der versorgende Betrieb der Gesellschaft oder des Unternehmens seinen Sitz im Gebiet der Bundesrepublik Deutschland hat, nach Absatz 1 Satz 1 Nummer 1a und 1b und
 
-2.
+2. nach Absatz 1 Satz 1 Nummer 9.
 
 ### § 5 — Befreiungen
 
 (1) § 2 gilt nicht für
 
-1.
+1. schwerbehinderte Menschen im Sinne des § 2 Abs. 2 des Neunten Buches Sozialgesetzbuch,
 
-2.
+2. sonstige Personen, deren Minderung der Erwerbsfähigkeit oder deren Grad der Schädigungsfolgen nicht nur vorübergehend mindestens 50 beträgt,
 
-3.
+3. Personen, die hilfsbedürftige Angehörige oder andere hilfsbedürftige Personen aus rechtlicher oder sittlicher Verpflichtung zu pflegen haben, es sei denn, daß die erforderliche Pflege gewährleistet ist,
 
-4.
+4. Mitglieder oberster Verfassungsorgane des Bundes und der Länder,
 
-5.
+5. Richter auf Lebenszeit oder auf Zeit,
 
-6.
+6. ordinierte Geistliche evangelischen Bekenntnisses,
 
-7.
+7. Geistliche römisch-katholischen Bekenntnisses, die die Subdiakonatsweihe empfangen haben,
 
-8.
+8. hauptamtlich tätige Geistliche anderer Bekenntnisse, deren Amt dem eines ordinierten Geistlichen evangelischen oder eines Geistlichen römisch-katholischen Bekenntnisses, der die Subdiakonatsweihe empfangen hat, entspricht.
 
 (2) § 2 Nr. 2 und 3 gilt nicht für Mitglieder der Betriebs- und Personalräte.
 
@@ -122,9 +122,9 @@ Arbeitsverhältnisses
 
 (1) Eine Zustimmung nach § 7 ist nicht erforderlich
 
-1.
+1. bei Arbeitsverhältnissen auf bestimmte Zeit, wenn die Zeit abgelaufen ist,
 
-2.
+2. bei gelegentlichen Dienstleistungen oder Beschäftigungen gegen geringfügiges Entgelt, die der Krankenversicherungspflicht nicht unterliegen.
 
 (2) Die Bundesagentur für Arbeit kann Arbeitnehmer und Arbeitgeber bestimmter Betriebe und Bereiche von der Verpflichtung befreien, vor Lösung eines Arbeitsverhältnisses die Zustimmung der Agentur für Arbeit einzuholen. Die Befreiung ist dem Arbeitgeber und dem Betriebsrat (Personalrat) schriftlich mitzuteilen. Der Arbeitgeber hat sie den Arbeitnehmern auf betriebsübliche Weise bekanntzumachen. Die Befreiung kann befristet und für bestimmte Betriebsabteilungen erteilt werden; sie ist jederzeit widerruflich.
 
@@ -156,23 +156,23 @@ Durch den Verpflichtungsbescheid (§ 13) wird ein Arbeitsverhältnis begründet.
 
 ### § 13 — Verpflichtungsbescheid
 
-(1) Der Verpflichtungsbescheid hat zu bezeichnen Der Verpflichtungsbescheid muß außerdem einen Hinweis auf die Vorschriften zur wirtschaftlichen und sozialen Sicherung des Verpflichteten, eine Rechtsmittelbelehrung und eine Unterrichtung darüber enthalten, daß eine Zuwiderhandlung gegen die Verpflichtung als Ordnungswidrigkeit oder als Straftat geahndet werden kann.
+(1) Der Verpflichtungsbescheid hat zu bezeichnen
 
-1.
+1. die gesetzliche Grundlage der Verpflichtung,
 
-2.
+2. die Verpflichtungsbehörde,
 
-3.
+3. den Verpflichteten,
 
-4.
+4. den Arbeitgeber,
 
-5.
+5. die Art der Beschäftigung,
 
-6.
+6. die für das Arbeitsverhältnis wesentlichen Bedingungen,
 
-7.
+7. Ort und Zeit des Arbeitsantritts,
 
-8.
+8. die voraussichtliche Dauer der Verpflichtung.
 
 (2) Der Verpflichtungsbescheid kann Auflagen für den Arbeitgeber, insbesondere zum Schutz des Verpflichteten enthalten.
 
@@ -242,11 +242,11 @@ Zuständigkeit
 
 (1) In der gesetzlichen Rentenversicherung sind während der Verpflichtung in ein Arbeitsverhältnis auch versicherungsfrei
 
-1.
+1. Personen, die im Zeitpunkt ihrer Verpflichtung unselbständig beschäftigt und nach § 5 Abs. 1 des Sechsten Buches Sozialgesetzbuch versicherungsfrei oder auf Antrag von der Versicherungspflicht in der Rentenversicherung nach § 6 des Sechsten Buches Sozialgesetzbuch befreit sind,
 
-2.
+2. Personen, die im Zeitpunkt ihrer Verpflichtung als selbständig Tätige aufgrund einer durch Gesetz angeordneten oder auf Gesetz beruhenden Verpflichtung Mitglied einer öffentlich-rechtlichen Versicherungseinrichtung oder Versorgungseinrichtung ihrer Berufsgruppe sind,
 
-3.
+3. Personen, die vor der Verpflichtung nur versicherungspflichtig nach dem Gesetz über die Alterssicherung der Landwirte waren und dies weiterhin sind.
 
 (2) Für Personen, die im Zeitpunkt ihrer Verpflichtung in ein Arbeitsverhältnis in der gesetzlichen Rentenversicherung pflichtversichert sind, ändert sich während der Verpflichtung die Zugehörigkeit zu dem Zweig der gesetzlichen Rentenversicherung nicht, es sei denn, daß sie auf Grund der Verpflichtung eine Beschäftigung ausüben, die anders als bisher in der knappschaftlichen Rentenversicherung zu versichern ist.
 
@@ -320,25 +320,13 @@ Bereithaltungsbescheid
 
 (2) Die Bundesregierung kann durch Rechtsverordnung
 
-1.
+1. bestimmen, für welche der in Absatz 1 genannten Aufgaben Ausbildungsveranstaltungen durchgeführt werden können,
 
-2.
+2. die Träger der Ausbildung bestimmen und die Kostentragung regeln,
 
-3.
+3. das Verfahren bei der Verpflichtung zur Teilnahme an Ausbildungsveranstaltungen regeln und
 
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
+4. die Rechte und Pflichten der Teilnehmer nach folgenden Grundsätzen regeln:a)dem Teilnehmer dürfen in seinem Dienst- oder Arbeitsverhältnis keine Nachteile entstehen, b)die Heranziehung von Versicherten der gesetzlichen Kranken- und Rentenversicherung sowie der Arbeitslosenversicherung und der sozialen Pflegeversicherung berührt das Versicherungsverhältnis nicht, c)dem Teilnehmer ist ein Anspruch auf Weiterzahlung des Arbeitsentgelts zu gewähren, wobei dem privaten Arbeitgeber das weitergezahlte Arbeitsentgelt einschließlich der vom Arbeitgeber zu tragenden Beiträge zur Sozial- und Arbeitslosenversicherung sowie zur sozialen Pflegeversicherung für einen Ausfall von mehr als zwei Stunden erstattet wird, d)dem Teilnehmer ist ein Ersatz des Verdienstausfalls zu gewähren, wobei ein Höchstbetrag festgesetzt werden kann, e)dem Teilnehmer sind die notwendigen Auslagen und Schäden an mitgebrachten Sachen zu ersetzen, f)während der Ausbildung ist der Schutz der gesetzlichen Unfallversicherung sicherzustellen. dem Teilnehmer dürfen in seinem Dienst- oder Arbeitsverhältnis keine Nachteile entstehen, die Heranziehung von Versicherten der gesetzlichen Kranken- und Rentenversicherung sowie der Arbeitslosenversicherung und der sozialen Pflegeversicherung berührt das Versicherungsverhältnis nicht, dem Teilnehmer ist ein Anspruch auf Weiterzahlung des Arbeitsentgelts zu gewähren, wobei dem privaten Arbeitgeber das weitergezahlte Arbeitsentgelt einschließlich der vom Arbeitgeber zu tragenden Beiträge zur Sozial- und Arbeitslosenversicherung sowie zur sozialen Pflegeversicherung für einen Ausfall von mehr als zwei Stunden erstattet wird, dem Teilnehmer ist ein Ersatz des Verdienstausfalls zu gewähren, wobei ein Höchstbetrag festgesetzt werden kann, dem Teilnehmer sind die notwendigen Auslagen und Schäden an mitgebrachten Sachen zu ersetzen, während der Ausbildung ist der Schutz der gesetzlichen Unfallversicherung sicherzustellen.
 
 ### § 30 — Bereithaltungsbescheid
 
@@ -360,15 +348,15 @@ Nach Eintritt der Voraussetzungen für die Sicherstellung von Arbeitsleistungen 
 
 (1) Die Bundesagentur für Arbeit ist berechtigt, im Verteidigungsfall und nach Maßgabe von Artikel 80a Absatz 1 des Grundgesetzes die folgenden Daten aller männlichen Personen vom vollendeten 18. Lebensjahr bis zum Ablauf des Jahres, in dem die Person das 60. Lebensjahr vollendet, bei den Meldebehörden abzurufen:
 
-1.
+1. Familienname,
 
-2.
+2. Vornamen,
 
-3.
+3. Geburtsdatum und Geburtsort,
 
-4.
+4. derzeitige Staatsangehörigkeiten,
 
-5.
+5. derzeitige Anschriften, gekennzeichnet nach Haupt- und Nebenwohnung.
 
 (2) Die Bundesagentur für Arbeit ist berechtigt, im Verteidigungsfall die in Absatz 1 Satz 1 genannten Daten aller weiblichen Personen vom vollendeten 18. Lebensjahr bis zum vollendeten 55. Lebensjahr bei den Meldebehörden abzurufen.
 
@@ -392,23 +380,19 @@ Die Jobcenter sind verpflichtet, im Verteidigungsfall oder nach Maßgabe von Art
 
 (1) Ordnungswidrig handelt, wer
 
-1.
+1. als Arbeitnehmer, der in ein Arbeitsverhältnis verpflichtet ist oder zur Beendigung seines Arbeitsverhältnisses der Zustimmung der Agentur für Arbeit bedarf, ohne anerkennenswerten Grunda)seine Arbeitsstelle verläßt oder ihr fernbleibt und vorsätzlich oder fahrlässig länger als drei volle Kalendertage abwesend ist oder b)sich beharrlich weigert, eine ihm aufgetragene und zumutbare Arbeit zu verrichten, die Zwecken der Verteidigung einschließlich des Schutzes der Zivilbevölkerung dient, seine Arbeitsstelle verläßt oder ihr fernbleibt und vorsätzlich oder fahrlässig länger als drei volle Kalendertage abwesend ist oder sich beharrlich weigert, eine ihm aufgetragene und zumutbare Arbeit zu verrichten, die Zwecken der Verteidigung einschließlich des Schutzes der Zivilbevölkerung dient,
 
-a)
-
-b)
-
-2.
+2. als Arbeitgeber, der zur Beendigung eines Arbeitsverhältnisses der Zustimmung der Agentur für Arbeit bedarf, einen Arbeitnehmer zu einer Handlung nach Nummer 1 anleitet oder ihn dabei fördert.
 
 (2) Ordnungswidrig handelt auch, wer vorsätzlich oder fahrlässig
 
-1.
+1. einer Auflage nach § 13 Abs. 2 zuwiderhandelt,
 
-2.
+2. entgegen § 24 Abs. 1 eine Auskunft nicht, unrichtig, nicht vollständig oder nicht rechtzeitig erteilt oder Unterlagen nicht, nicht vollständig oder nicht rechtzeitig vorlegt,
 
-3.
+3. eine Meldung nach § 25 Abs. 1 unterläßt oder
 
-4.
+4. eine Ausbildungsveranstaltung nach § 29, zu der er verpflichtet worden ist, verläßt oder ihr fernbleibt und vorsätzlich oder fahrlässig länger als drei volle Kalendertage abwesend ist.
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 

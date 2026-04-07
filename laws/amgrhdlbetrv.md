@@ -8,11 +8,11 @@
 
 ### Eingangsformel
 
-Auf Grund mit Zustimmung des Bundesrates verordnet:
+Auf Grund
 
--
+- des § 12 Abs. 1 Nr. 1 und 2 des Arzneimittelgesetzes vom 24. August 1976 (BGBl. I S. 2445, 2448), dessen Absatz 1 durch Artikel 1 des Gesetzes vom 16. August 1986 (BGBl. I S. 1296) geändert worden ist, wird im Einvernehmen mit den Bundesministern für Wirtschaft, für Arbeit und Sozialordnung und für Ernährung, Landwirtschaft und Forsten und
 
--
+- des § 54 Abs. 1 bis 2a des Arzneimittelgesetzes, dessen Überschrift sowie Absatz 1 Satz 1 und Absatz 2 Nr. 1 durch Artikel 1 des oben erwähnten Gesetzes vom 16. August 1986 und dessen Absatz 1 Satz 2 gemäß Artikel 1 der Dritten Zuständigkeitsanpassungs-Verordnung vom 26. November 1986 (BGBl. I S. 2089) geändert worden sind und dessen Absatz 2a durch Artikel 1 des Gesetzes vom 24. Februar 1983 (BGBl. I S. 169) eingefügt worden ist, wird im Einvernehmen mit den Bundesministern für Wirtschaft, für Umwelt, Naturschutz und Reaktorsicherheit und für Ernährung, Landwirtschaft und Forsten
 
 ### § 1 — Anwendungsbereich
 
@@ -38,11 +38,11 @@ Betriebe und Einrichtungen müssen die EU-Leitlinien für die Gute Vertriebsprax
 
 (4) Betriebsräume und deren Einrichtungen müssen regelmäßig gereinigt werden. Soweit in Betriebsräumen Arzneimittel umgefüllt, abgepackt oder gekennzeichnet werden, soll nach einem schriftlichen oder elektronischen Hygieneplan verfahren werden, in dem insbesondere folgendes festgelegt ist:
 
-1.
+1. die Häufigkeit der Maßnahmen,
 
-2.
+2. die durchzuführenden Reinigungsverfahren und die zu verwendenden Geräte und Hilfsmittel,
 
-3.
+3. die mit der Aufsicht betrauten Personen.
 
 ### § 4 — Umfüllen, Abpacken und Kennzeichnen von Arzneimitteln
 
@@ -60,13 +60,13 @@ Betriebe und Einrichtungen müssen die EU-Leitlinien für die Gute Vertriebsprax
 
 (2) Die Lieferungen sind bei jeder Annahme daraufhin zu überprüfen, ob
 
-1.
+1. die Behältnisse unbeschädigt sind,
 
-2.
+2. die Lieferung mit der Bestellung übereinstimmt,
 
-3.
+3. der Lieferant unter Angabe der ausstellenden Behörde und des Ausstellungsdatums bestätigt hat, dass er über die notwendige Erlaubnis verfügt, und
 
-4.
+4. der Arzneimittelvermittler, soweit er in Anspruch genommen wird, die notwendige Anzeige für die Registrierung vorgenommen hat.
 
 (3) Soweit die Arzneimittel von einem Betrieb mit einer Erlaubnis nach § 52a des Arzneimittelgesetzes oder von einem Betrieb mit einer durch einen anderen Mitgliedstaat der Europäischen Union erteilten Genehmigung nach Artikel 77 Absatz 1 der Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Humanarzneimittel (ABl. L 311 vom 28.11.2001, S. 67), die zuletzt durch die Verordnung (EU) 2017/745 (ABl. L 117 vom 5.5.2017, S. 1) geändert worden ist oder über einen Arzneimittelvermittler bezogen werden, hat sich der Empfänger von deren Einhaltung der Guten Vertriebspraxis zu überzeugen.
 
@@ -88,29 +88,29 @@ Betriebe und Einrichtungen müssen die EU-Leitlinien für die Gute Vertriebsprax
 
 (1a) Liefert ein Großhändler Arzneimittel, auf denen Sicherheitsmerkmale nach § 10 Absatz 1c des Arzneimittelgesetzes angebracht sind, an eine der folgenden Personen oder Einrichtungen, so hat er vor der Lieferung die Sicherheitsmerkmale zu überprüfen und das individuelle Erkennungsmerkmal des Arzneimittels zu deaktivieren:
 
-1.
+1. an Personen, die dazu ermächtigt oder befugt sind, Arzneimittel an die Öffentlichkeit abzugeben, aber nicht in einer Gesundheitseinrichtung oder einer Apotheke tätig sind,
 
-2.
+2. an Tierärzte,
 
-3.
+3. an Zahnärzte,
 
-4.
+4. an die Bundeswehr,
 
-5.
+5. an die Polizei,
 
-6.
+6. an Regierungseinrichtungen, sofern diese zum Zivilschutz oder zur Katastrophenhilfe Arzneimittel vorrätig halten,
 
-7.
+7. an Universitäten oder an andere Hochschuleinrichtungen, sofern diese Arzneimittel für Forschungs- oder Ausbildungszwecke verwenden.
 
-(2) Den Lieferungen sind ausreichende Unterlagen beizufügen, aus denen insbesondere das Datum der Auslieferung, die Bezeichnung und Menge des Arzneimittels sowie Name und Anschrift des Lieferanten und des Empfängers hervorgehen. Im Falle der Lieferung an andere Betriebe und Einrichtungen, die über eine Erlaubnis nach § 52a des Arzneimittelgesetzes verfügen, muss zusätzlich die Chargenbezeichnung des jeweiligen Arzneimittels angegeben werden. Darüber hinaus muss unter Angabe der ausstellenden Behörde und des Ausstellungsdatums bestätigt werden, dass der Lieferant über eine Erlaubnis gemäß § 52a des Arzneimittelgesetzes verfügt. Die Verpflichtung zur zusätzlichen Angabe der Chargenbezeichnung gilt auch Die nach den Sätzen 1 bis 4 beizufügenden Unterlagen und erforderlichen Angaben können dem Empfänger auch elektronisch übermittelt werden. Bei einer elektronischen Übermittlung hat der Absender sicherzustellen, dass die elektronischen Unterlagen und Angaben für die jeweiligen Empfänger jederzeit abrufbar sind und dass sie in hinreichender Weise vor Manipulationen geschützt sind.
+(2) Den Lieferungen sind ausreichende Unterlagen beizufügen, aus denen insbesondere das Datum der Auslieferung, die Bezeichnung und Menge des Arzneimittels sowie Name und Anschrift des Lieferanten und des Empfängers hervorgehen. Im Falle der Lieferung an andere Betriebe und Einrichtungen, die über eine Erlaubnis nach § 52a des Arzneimittelgesetzes verfügen, muss zusätzlich die Chargenbezeichnung des jeweiligen Arzneimittels angegeben werden. Darüber hinaus muss unter Angabe der ausstellenden Behörde und des Ausstellungsdatums bestätigt werden, dass der Lieferant über eine Erlaubnis gemäß § 52a des Arzneimittelgesetzes verfügt. Die Verpflichtung zur zusätzlichen Angabe der Chargenbezeichnung gilt auch
 
-1.
+1. bei der Abgabe von Arzneimitteln an pharmazeutische Unternehmer, Krankenhausapotheken und krankenhausversorgende Apotheken für die Zwecke der Belieferung von Krankenhäusern,
 
-2.
+2. im Falle der Abgabe von Blutzubereitungen, Sera aus menschlichem Blut und Zubereitungen aus anderen Stoffen menschlicher Herkunft sowie gentechnisch hergestellten Blutbestandteilen, die fehlende Blutbestandteile ersetzen, und anderen Arzneimitteln zur spezifischen Therapie von Gerinnungsstörungen bei Hämophilie, auch bei Lieferung an Betriebe und Einrichtungen zur Abgabe an den Endverbraucher,
 
-3.
+3. bei Abgabe von zur Anwendung bei Tieren bestimmten Arzneimitteln sowie
 
-4.
+4. im Falle der Abgabe von Arzneimitteln, die Sicherheitsmerkmale im Sinne von § 10 Absatz 1c des Arzneimittelgesetzes tragen müssen.
 
 (3) Während des Transports der Arzneimittel ist bis zur Übergabe in den Verantwortungsbereich des Empfängers dafür Sorge zu tragen, dass kein Unbefugter Zugriff zu den Arzneimitteln hat und die Qualität der Arzneimittel nicht beeinträchtigt wird.
 
@@ -140,17 +140,17 @@ Betriebe und Einrichtungen müssen die EU-Leitlinien für die Gute Vertriebsprax
 
 (3) Handelt es sich bei den zurückgenommenen Arzneimitteln nach Angaben des Zurückgebenden um verkehrsfähige Arzneimittel, so sind sie vor der Entscheidung über ihre weitere Verwendung einer Prüfung zu unterziehen. Die Arzneimittel dürfen nur in die zum Verkauf bestimmten Bestände wieder aufgenommen werden, wenn
 
-1.
+1. der Zurückgebende durch Geschäftsunterlagen wie Lieferscheine oder Rechnungen belegt, daß er sie vom Arzneimittelgroßhandel bezogen hat,
 
-2.
+2. der Zurückgebende schriftlich oder elektronisch bestätigt, daß sie seit der Lieferung ordnungsgemäß gelagert und gehandhabt wurden, insbesondere seinen Verantwortungsbereich nicht verlassen haben,
 
-3.
+3. sie sich in den Originalbehältnissen und in ordnungsgemäßen Zustand befinden,
 
-4.
+4. sie eine vertretbare Haltbarkeitsdauer haben,
 
-5.
+5. keine Angaben des pharmazeutischen Unternehmers oder der zuständigen Behörde über das Fehlen der Verkehrsfähigkeit vorliegen,
 
-6.
+6. keine sonstigen Anhaltspunkte für eine fehlende Verkehrsfähigkeit bestehen. Dabei sind die Art des Arzneimittels, die erforderlichen Lagerungsbedingungen und der seit der Auslieferung verstrichene Zeitraum zu berücksichtigen. Dies gilt insbesondere für Arzneimittel mit besonderen Anforderungen an die Lagerungsbedingungen.
 
 (4) Die Prüfung und Entscheidung nach Absatz 3 muß durch dafür besonders eingewiesenes Personal erfolgen. Die Prüfanweisung und die organisatorischen Abläufe sind schriftlich oder elektronisch festzulegen.
 
@@ -176,43 +176,11 @@ Die zuständige Behörde kann die Dienstbereitschaft für Arzneimittelgroßhande
 
 Ordnungswidrig im Sinne des § 97 Abs. 2 Nr. 31 des Arzneimittelgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. als Betreiber eines Arzneimittelgroßhandelsa)entgegen § 2 Abs. 1 eine verantwortliche Person nicht bestellt oderb)(weggefallen) entgegen § 2 Abs. 1 eine verantwortliche Person nicht bestellt oder (weggefallen)
 
-a)
+2. als nach § 2 Abs. 1 bestellte Persona)entgegen § 4 Abs. 1 oder 3 Arzneimittel umfüllt oder abpackt,b)entgegen § 4a Absatz 1 ein Arzneimittel erwirbt,c)entgegen § 5 Abs. 1 Arzneimittel nicht in der vorgeschriebenen Weise lagert,d)entgegen § 5 Abs. 3 Satz 1 Arzneimittel nicht in der vorgeschriebenen Weise aufbewahrt,e)entgegen § 5 Abs. 3 Satz 2 Arzneimittel nicht kennzeichnet,f)entgegen § 5 Abs. 3 Satz 3 die zuständige Behörde nicht oder nicht rechtzeitig informiert,g)entgegen § 6 Abs. 2 den Lieferungen keine Unterlagen oder Unterlagen mit nicht richtigen oder nicht vollständigen Angaben beifügt,h)entgegen § 7 Abs. 1 oder Abs. 2 Satz 1 Aufzeichnungen nicht, nicht richtig oder nicht vollständig führt,i)Aufzeichnungen oder Nachweise nicht entsprechend § 7 Abs. 3 Satz 1 oder 2, auch in Verbindung mit § 7a Abs. 2 Satz 3, aufbewahrt oderj)entgegen § 7 Abs. 3 Satz 5 oder 6, jeweils auch in Verbindung mit § 7a Abs. 2 Satz 3 Aufzeichnungen oder Nachweise unleserlich macht oder Veränderungen vornimmt oder entgegen § 4 Abs. 1 oder 3 Arzneimittel umfüllt oder abpackt, entgegen § 4a Absatz 1 ein Arzneimittel erwirbt, entgegen § 5 Abs. 1 Arzneimittel nicht in der vorgeschriebenen Weise lagert, entgegen § 5 Abs. 3 Satz 1 Arzneimittel nicht in der vorgeschriebenen Weise aufbewahrt, entgegen § 5 Abs. 3 Satz 2 Arzneimittel nicht kennzeichnet, entgegen § 5 Abs. 3 Satz 3 die zuständige Behörde nicht oder nicht rechtzeitig informiert, entgegen § 6 Abs. 2 den Lieferungen keine Unterlagen oder Unterlagen mit nicht richtigen oder nicht vollständigen Angaben beifügt, entgegen § 7 Abs. 1 oder Abs. 2 Satz 1 Aufzeichnungen nicht, nicht richtig oder nicht vollständig führt, Aufzeichnungen oder Nachweise nicht entsprechend § 7 Abs. 3 Satz 1 oder 2, auch in Verbindung mit § 7a Abs. 2 Satz 3, aufbewahrt oder entgegen § 7 Abs. 3 Satz 5 oder 6, jeweils auch in Verbindung mit § 7a Abs. 2 Satz 3 Aufzeichnungen oder Nachweise unleserlich macht oder Veränderungen vornimmt oder
 
-b)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
+3. als Arzneimittelvermittler a)entgegen § 7 Absatz 1, auch in Verbindung mit § 9 Absatz 1 Satz 2, oder Absatz 2 Satz 1 eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise führt,b)entgegen § 7 Absatz 3 Satz 1, auch in Verbindung mit § 9 Absatz 1 Satz 2, eine Aufzeichnung nicht oder nicht mindestens fünf Jahre aufbewahrt,c)entgegen § 7 Absatz 3 Satz 5 oder 6, auch in Verbindung mit § 9 Absatz 1 Satz 2, eine Aufzeichnung unleserlich macht oder eine Veränderung vornimmt oderd)entgegen § 9 Absatz 3 die zuständige Behörde nicht oder nicht rechtzeitig informiert. entgegen § 7 Absatz 1, auch in Verbindung mit § 9 Absatz 1 Satz 2, oder Absatz 2 Satz 1 eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise führt, entgegen § 7 Absatz 3 Satz 1, auch in Verbindung mit § 9 Absatz 1 Satz 2, eine Aufzeichnung nicht oder nicht mindestens fünf Jahre aufbewahrt, entgegen § 7 Absatz 3 Satz 5 oder 6, auch in Verbindung mit § 9 Absatz 1 Satz 2, eine Aufzeichnung unleserlich macht oder eine Veränderung vornimmt oder entgegen § 9 Absatz 3 die zuständige Behörde nicht oder nicht rechtzeitig informiert.
 
 ### § 11 — Übergangsbestimmungen
 
@@ -222,9 +190,9 @@ d)
 
 (3) Wer bei Inkrafttreten dieser Verordnung einen Großhandel mit Arzneimitteln im Sinne des § 9 Abs. 1 betreibt, dem gilt die amtliche Anerkennung im Sinne des § 9 vorläufig als erteilt. Die vorläufige amtliche Anerkennung erlischt,
 
-1.
+1. wenn nicht bis zum 30. Juni 1988 die Erteilung einer endgültigen amtlichen Anerkennung beantragt wird,
 
-2.
+2. im Falle rechtzeitiger Antragstellung mit Eintritt der Unanfechtbarkeit der Entscheidung über den Antrag.
 
 (4) Arzneimittel, die in dem in Artikel 3 des Einigungsvertrages genannten Gebiet nicht den Vorschriften dieser Verordnung entsprechend umgefüllt, abgepackt oder gekennzeichnet werden, dürfen dort noch bis zum 31. Dezember 1991 in den Verkehr gebracht werden.
 
@@ -239,5 +207,3 @@ d)
 Diese Verordnung tritt am 1. Januar 1988 in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Jugend, Familie, Frauen und Gesundheit

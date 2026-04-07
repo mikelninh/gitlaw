@@ -18,7 +18,13 @@
 
 ### § 4 — Eigentumsverhältnisse und Fischereirechte
 
-(1) Das Eigentum an den in § 1 Abs. 1 bezeichneten Strecken steht dem Bund zu.(2) Das Fischereirecht an der Kanalstrecke nach § 1 Abs. 1 Nr. 1 zwischen MDK-km 130,00 (Bau-km) und der Einmündung in die ausgebaute Altmühl und an den ausgebauten Strecken nach § 1 Abs. 1 Nr. 2 und 3 steht dem Freistaat Bayern als selbständiges Recht zu. Fischereirechte Dritter bleiben unberührt.(3) Ein Wertausgleich findet nicht statt.(4) Das Grundbuch wird auf Grund eines gemeinsamen Ersuchens des Bundes und Bayerns berichtigt. Der Übergang des Eigentums und der anderen Rechte ist von Abgaben und Kosten befreit.
+(1) Das Eigentum an den in § 1 Abs. 1 bezeichneten Strecken steht dem Bund zu.
+
+(2) Das Fischereirecht an der Kanalstrecke nach § 1 Abs. 1 Nr. 1 zwischen MDK-km 130,00 (Bau-km) und der Einmündung in die ausgebaute Altmühl und an den ausgebauten Strecken nach § 1 Abs. 1 Nr. 2 und 3 steht dem Freistaat Bayern als selbständiges Recht zu. Fischereirechte Dritter bleiben unberührt.
+
+(3) Ein Wertausgleich findet nicht statt.
+
+(4) Das Grundbuch wird auf Grund eines gemeinsamen Ersuchens des Bundes und Bayerns berichtigt. Der Übergang des Eigentums und der anderen Rechte ist von Abgaben und Kosten befreit.
 
 ### § 5
 

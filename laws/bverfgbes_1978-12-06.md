@@ -14,18 +14,12 @@ Das Plenum des Bundesverfassungsgerichts hat gemäß § 14 Abs. 4 des Gesetzes �
 
 Mit Wirkung vom 1. Januar 1979 ist abweichend von § 14 Abs. 1 bis 3 des Gesetzes über das Bundesverfassungsgericht der Zweite Senat des Bundesverfassungsgerichts auch in folgenden Fällen zuständig:
 
-1.
+1. für Normenkontrollverfahren (§ 13 Nr. 6 und Nr. 11 des Gesetzes über das Bundesverfassungsgericht) und Verfassungsbeschwerden, in denen die Verletzung der Artikel 19 Abs. 4, Artikel 33, 38, 101, 103 und 104 des Grundgesetzes allein oder zusammen mit der Verletzung von Grundrechten geltend gemacht wird, ausgenommen Verfassungsbeschwerden aus dem Bereich der Zivilgerichtsbarkeit von Beschwerdeführern mit den Anfangsbuchstaben A bis K, die ab 1. Januar 1979 eingehen; überwiegen Fragen der Auslegung der Artikel 1 bis 17 des Grundgesetzes, so ist der Erste Senat zuständig;
 
-2.
+2. in jedem Fall für Normenkontrollverfahren und Verfassungsbeschwerden aus den Rechtsbereichena)des öffentlichen Dienstes und der Dienstverhältnisse zu Religionsgesellschaften, deren Recht dem Recht des öffentlichen Dienstes nachgebildet ist, einschließlich des jeweiligen Disziplinarrechts, sowie des Wehr- und Ersatzdienstes einschließlich des diesen Bereich betreffenden Straf- und Disziplinarrechts,b)des Straf- und Bußgeldverfahrens sowie des Vollzugs von Untersuchungs- und Strafhaft und von freiheitsentziehenden Maßregeln der Sicherung und Besserung; des öffentlichen Dienstes und der Dienstverhältnisse zu Religionsgesellschaften, deren Recht dem Recht des öffentlichen Dienstes nachgebildet ist, einschließlich des jeweiligen Disziplinarrechts, sowie des Wehr- und Ersatzdienstes einschließlich des diesen Bereich betreffenden Straf- und Disziplinarrechts, des Straf- und Bußgeldverfahrens sowie des Vollzugs von Untersuchungs- und Strafhaft und von freiheitsentziehenden Maßregeln der Sicherung und Besserung;
 
-a)
+3. im übrigen für Verfassungsbeschwerden, bei denen andere Fragen als solche der Auslegung der Artikel 1 bis 17 des Grundgesetzes überwiegen;
 
-b)
-
-3.
-
-4.
+4. in den Fällen des § 13 Nr. 10 und Nr. 13 des Gesetzes über das Bundesverfassungsgericht entsprechend den vorstehenden Regeln.
 
 ### Schlußformel
-
-Der Präsident des Bundesverfassungsgerichts

@@ -16,11 +16,11 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte 
 
 ### § 2 — Zuständigkeit
 
-Zuständig für die Durchführung der in § 1 genannten Rechtsakte und dieser Verordnung ist vorbehaltlich des Satzes 2 die Bundesfinanzverwaltung. Zuständige amtliche Stelle für die Durchführung der Kontrollen gemäß Artikel 3 Abs. 1 der Verordnung (EG) Nr. 639/2003 der Kommission vom 9. April 2003 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 1254/1999 des Rates hinsichtlich des Schutzes lebender Rinder beim Transport als Voraussetzung für die Gewährung von Ausfuhrerstattungen (ABl. EU Nr. L 93 S. 10) in der jeweils geltenden Fassung ist die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt). Zuständig für ist das Hauptzollamt Hamburg.
+Zuständig für die Durchführung der in § 1 genannten Rechtsakte und dieser Verordnung ist vorbehaltlich des Satzes 2 die Bundesfinanzverwaltung. Zuständige amtliche Stelle für die Durchführung der Kontrollen gemäß Artikel 3 Abs. 1 der Verordnung (EG) Nr. 639/2003 der Kommission vom 9. April 2003 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 1254/1999 des Rates hinsichtlich des Schutzes lebender Rinder beim Transport als Voraussetzung für die Gewährung von Ausfuhrerstattungen (ABl. EU Nr. L 93 S. 10) in der jeweils geltenden Fassung ist die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt). Zuständig für
 
-1.
+1. die Zulassung der in Artikel 16 Abs. 1 Buchstabe b und Abs. 2 Buchstabe c der Verordnung (EG) Nr. 800/1999 der Kommission vo 15. April 1999 über gemeinsame Durchführungsvorschriften für Ausfuhrerstattungen bei landwirtschaftlichen Erzeugnissen (ABl. EG Nr. L 102 S. 11) in der jeweils geltenden Fassung oder Artikel 3 Abs. 2 der Verordnung (EG) Nr. 693/2003 genannten Kontroll- und Überwachungsgesellschaften nach § 14 sowie
 
-2.
+2. die Gewährung der Ausfuhrerstattung nach § 16
 
 ### § 3 — Abfertigung zur Ausfuhr
 
@@ -50,19 +50,19 @@ Zuständig für die Durchführung der in § 1 genannten Rechtsakte und dieser Ve
 
 (1) Bei Lieferungen im Geltungsbereich dieser Verordnung ist Artikel 36 der Verordnung (EG) Nr. 800/1999 in der jeweils geltenden Fassung auf Waren anzuwenden, die
 
-1.
+1. als Schiffsbedarf auf bezugsberechtigte Schiffe im Sinne des § 27 Abs. 3 der Zollverordnung vom 23. Dezember 1993 (BGBl. I S. 2449) in der jeweils geltenden Fassung geliefert worden sind,
 
-2.
+2. als Luftfahrzeugbedarf zum Verbrauch an Bord während des Fluges im internationalen Flugverkehr abgegeben werden und zu diesem Zweck an ein Luftfahrtunternehmen geliefert worden sind,
 
-3.
+3. an ausländische Streitkräfte aufgrund von Verträgen mit amtlichen Beschaffungsstellen der Streitkräfte geliefert worden sind.
 
 (2) Die §§ 3 und 4 gelten entsprechend, soweit nachstehend nichts anderes bestimmt ist.
 
-(3) Zuständig für die Überwachung der Lieferungen nach Absatz 1 Nr. 3 ist Die zuständige Zollstelle überläßt dem Beteiligten die Waren zur Lieferung an die Streitkräfte. Sie bestätigt im Falle der Nummer 1 in der Ausfuhranmeldung für Erstattungszwecke oder im Falle der Nummer 2 im Kontrollexemplar T 5 die Lieferung, wenn diese durch eine nach vorgeschriebenem Muster ausgestellte Empfangsbestätigung der Streitkräfte nachgewiesen ist.
+(3) Zuständig für die Überwachung der Lieferungen nach Absatz 1 Nr. 3 ist
 
-1.
+1. die Zollstelle, die die Ausfuhranmeldung für Erstattungszwecke angenommen hat, wenn sie im Geltungsbereich dieser Verordnung angenommen worden ist,
 
-2.
+2. die Zollstelle, der die Waren unter Vorlage des in einem anderen Mitgliedstaat der Europäischen Union erteilten Kontrollexemplars T 5 mit dem Antrag gestellt werden, die Lieferung an die Streitkräfte zu überwachen.
 
 (4) Auf Antrag kann unter Anwendung des in Artikel 37 der Verordnung (EG) Nr. 800/1999 geregelten Verfahrens das Hauptzollamt, in dessen Bezirk der Antragsteller seinen Sitz hat, den Antragsteller widerruflich von der Pflicht zur Gestellung der Waren befreien. In diesem Fall sind die Lieferungen eines Kalendermonats in einer Ausfuhranmeldung für Erstattungszwecke zusammenzufassen, die unverzüglich nach Ablauf des Liefermonats abzugeben ist. Bei Lieferungen in andere Mitgliedstaaten der Europäischen Union kann die Gestellungsbefreiung nur bewilligt werden, wenn der Antragsteller zugelassener Versender nach Artikel 912g der Verordnung (EWG) Nr. 2454/93 ist. Das Hauptzollamt kann dem Antragsteller Auflagen erteilen, soweit es der Überwachungszweck erfordert.
 
@@ -70,9 +70,9 @@ Zuständig für die Durchführung der in § 1 genannten Rechtsakte und dieser Ve
 
 (1) Als Vorratslager für Schiffs- und Luftfahrzeugbedarf im Sinne des Artikels 40 der Verordnung (EG) Nr. 800/1999 (Vorratslager) können zugelassen werden:
 
-1.
+1. Zolllager oder Lagereinrichtungen eines Zolllagers der Typen A, C, D und E nach Artikel 525 der Verordnung (EWG) Nr. 2454/93 sowie Teile davon oder
 
-2.
+2. räumlich abgegrenzte Teile eines Lagers in einer Freizone des Kontrolltypes I oder einem Freilager.
 
 (2) Zuständig für die Zulassung eines Vorratslagers ist das Hauptzollamt, das das Zollager nach § 24 Abs. 5 der Zollverordnung bewilligt, oder das Zollamt, das die Aufsicht über eine Freizone nach § 26 der Zollverordnung führt.
 
@@ -94,27 +94,21 @@ Für erstattungsfähige Waren, die im Geltungsbereich dieser Verordnung vor ihre
 
 (1) Für Malz, für das die im voraus festgesetzte Erstattung für in den ersten drei Monaten des Wirtschaftsjahres getätigte Ausfuhren berichtigt werden soll, gelten folgende zusätzliche Bestimmungen:
 
-1.
+1. Den nach den in § 1 genannten Rechtsakten vorgeschriebenen Meldungen an die zuständige Zollstelle sind eine Beschreibung und Zeichnung der Lagerräume in zwei Stücken beizufügen. Ist derjenige, der die Meldung abgibt, nicht Hersteller und Lagerhalter, so ist die Meldung auch von diesen Personen zu unterzeichnen.
 
-2.
+2. Betriebe, in denen Gerste und Malz gelagert werden, die Gegenstand der in Nummer 1 bezeichneten Meldungen sind, unterliegen der Überwachung durch die zuständigen Zollstellen. Die Inhaber der in Nummer 1 genannten Betriebe sind verpflichtet,a)Aufzeichnungen über den Zu- und Abgang oder sonstigen Verbleib sowie den Bestand an Gerste und Malz, die Gegenstand der in Nummer 1 bezeichneten Meldungen sind, zu führen, b)die in Buchstabe a bezeichneten Bestände an Gerste und Malz in den gemeldeten Lagerräumen getrennt von anderen Beständen zu lagern und c)die in Buchstabe a genannten Aufzeichnungen und die Belege, die sich auf die in Buchstabe a bezeichneten Vorgänge beziehen, sechs Jahre lang aufzubewahren. Aufzeichnungen über den Zu- und Abgang oder sonstigen Verbleib sowie den Bestand an Gerste und Malz, die Gegenstand der in Nummer 1 bezeichneten Meldungen sind, zu führen, die in Buchstabe a bezeichneten Bestände an Gerste und Malz in den gemeldeten Lagerräumen getrennt von anderen Beständen zu lagern und die in Buchstabe a genannten Aufzeichnungen und die Belege, die sich auf die in Buchstabe a bezeichneten Vorgänge beziehen, sechs Jahre lang aufzubewahren. Die zuständige Zollstelle kann dem Ausführer, dem Hersteller und dem Lagerhalter Auflagen erteilen, soweit es der Überwachungszweck erfordert.
 
-a)
+3. Zum Zwecke der Überwachung haben der Ausführer, der Hersteller und der Lagerhalter den Zollstellen das Besichtigen der Geschäfts- und Betriebsstätten und die Aufnahme der Bestände an Gerste und Malz, die Gegenstand der in Nummer 1 bezeichneten Meldungen sind, während der Geschäfts- oder Betriebszeit zu gestatten, auf Verlangen die für die Prüfung in Betracht kommenden kaufmännischen Bücher, besondere Aufzeichnungen, Belege und sonstige Schriftstücke zur Einsicht vorzulegen, Auskunft zu erteilen und die erforderliche Unterstützung zu gewähren.
 
-b)
+4. Der Ausführer hat im Feld 44 der Ausfuhranmeldung für Erstattungszwecke oder der Zahlungserklärung und in den Fällen des § 3 Abs. 3 oder § 11 Satz 2 im Feld 106 des Kontrollexemplars T 5 zu erklären, daß das Malz oder die Gerste, aus der das Malz hergestellt worden ist, aus Beständen stammt, die nach den in § 1 genannten Rechtsakten gemeldet worden sind.
 
-c)
+5. Die Ausführer, Hersteller und Lagerhalter haben die Verpflichtungen, die ihnen gegenüber den Zollstellen obliegen, selbst zu erfüllen oder hierfür einen oder mehrere geeignete Beauftragte zu bestellen. Die Bestellung ist der zuständigen Zollstelle schriftlich in zwei Stücken anzuzeigen; die Beauftragten haben die Anzeige mit zu unterschreiben.
 
-3.
+(2) Örtlich zuständig ist die Zollstelle, in deren Bezirk
 
-4.
+1. das Malz, für das die Erstattung in Anspruch genommen werden soll, oder
 
-5.
-
-(2) Örtlich zuständig ist die Zollstelle, in deren Bezirk zu Beginn des Wirtschaftsjahres lagert. Die Oberfinanzdirektion kann eine andere Zollstelle als örtlich zuständige Zollstelle bestimmen.
-
-1.
-
-2.
+2. die Gerste, soweit das Malz erst nach Beginn des Wirtschaftsjahres hergestellt wird,
 
 ### § 13 — Melde- und Aufbewahrungspflichten
 
@@ -161,9 +155,9 @@ Transport
 
 Soll die Erstattung nach Artikel 24 der Verordnung (EG) Nr. 800/1999 als Vorauszahlung gezahlt werden, so hat der Antragsteller
 
-1.
+1. der Ausfuhrzollstelle eine zusätzliche Durchschrift der Ausfuhranmeldung für Erstattungszwecke abzugeben und
 
-2.
+2. dem Hauptzollamt Hamburg die ihm von der Ausfuhrzollstelle mit dem Abfertigungsbefund zurückgegebene zusätzliche Durchschrift der Ausfuhranmeldung für Erstattungszwecke einzureichen.
 
 ### § 18 — Sicherheitsleistung
 

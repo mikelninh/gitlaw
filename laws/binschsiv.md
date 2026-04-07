@@ -8,19 +8,17 @@
 
 ### Eingangsformel
 
-Auf Grund des § 1 Abs. 1 Nr. 1 und 2 und Abs. 2 Nr. 2, der §§ 3 und 5 Abs. 1 Satz 1, des § 19 Abs. 8 und des § 29 Nr. 2 des Verkehrssicherstellungsgesetzes in der Fassung der Bekanntmachung vom 8. Oktober 1968 (BGBl. I S. 1082) verordnet die Bundesregierung mit Zustimmung des Bundesrates, auf Grund des § 5 Abs. 1 Satz 2 dieses Gesetzes die Bundesregierung:
-
 ## Erster Abschnitt: Meldungen
 
 ### § 1 — Meldepflicht
 
 (1) Binnenschiffe, die in einem Binnenschiffsregister der Bundesrepublik Deutschland eingetragen sind, mehr als 15 t Wasserverdrängung oder, soweit sie der Güterbeförderung dienen, mehr als 15 t Tragfähigkeit haben und auf den Bundeswasserstraßen verwendet werden, sind zu melden. Dies gilt nicht für Binnenschiffe, die
 
-1.
+1. dem Hafenbetrieb oder der Unterhaltung der Häfen und sonstiger Gewässer dienen,
 
-2.
+2. ausschließlich im Fährverkehr verwendet werden oder
 
-3.
+3. durch einen Leistungs- oder Bereitstellungsbescheid nach § 36 des Bundesleistungsgesetzes für einen Dritten zum Gebrauch in Anspruch genommen worden sind.
 
 (2) Meldepflichtig ist der Eigentümer, bei einem Ausrüsterverhältnis der Ausrüster des Binnenschiffes. Der Führer eines im Einsatz befindlichen Binnenschiffes kann die Meldung mit befreiender Wirkung für den Eigentümer oder Ausrüster abgeben.
 
@@ -30,33 +28,33 @@ Auf Grund des § 1 Abs. 1 Nr. 1 und 2 und Abs. 2 Nr. 2, der §§ 3 und 5 Abs. 1 
 
 (1) Die Meldung ist für jedes Binnenschiff schriftlich, mündlich oder fernmündlich mit folgenden Angaben zu erstatten:
 
-1.
+1. Name des Binnenschiffes, seine amtliche Schiffsnummer, Nummer und räumlicher Geltungsbereich seines Schiffsattestes oder seines Schiffszeugnisses und Behörde, die das Attest oder Zeugnis ausgestellt hat,
 
-2.
+2. Name und Anschrift des Eigentümers des Binnenschiffes,
 
-3.
+3. Art und Größe des Binnenschiffes,
 
-4.
+4. Standort des Binnenschiffes im Zeitpunkt der Meldung sowie bei Binnenschiffen, die der Güterbeförderung dienen, Angabe, ob das Binnenschiff leer oder beladen ist,
 
-5.
+5. bei in Fahrt befindlichen oder vor der Abfahrt stehenden Binnenschiffen das Fahrtziel und die voraussichtliche Ankunftszeit.
 
 (2) Über die Meldung wird eine mit einer Registriernummer versehene Meldebescheinigung erteilt. Sie ist an Bord mitzuführen und den für die Kontrolle zuständigen Personen auf Verlangen zur Prüfung auszuhändigen. Ist die Meldung fernmündlich erstattet worden oder haben sie andere Personen als der Schiffsführer abgegeben, kann bis zum Eingang der Meldebescheinigung an Bord der Nachweis über die Meldung durch die Nennung der Registriernummer erbracht werden.
 
 (3) Wenn und soweit dies wegen des weiteren Einsatzes des Binnenschiffes erforderlich ist, kann die Generaldirektion Wasserstraßen und Schifffahrt einzelne Eigentümer oder Ausrüster verpflichten, ihr
 
-1.
+1. ergänzende Angaben über das Binnenschiff zu machen oder
 
-2.
+2. regelmäßig oder unter bestimmten Voraussetzungen weitere Meldungen zu erstatten.
 
 ### § 3 — Ermächtigung
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung
 
-1.
+1. die Frist für die Meldungen nach § 1 festzulegen,
 
-2.
+2. den Kreis der zu meldenden Binnenschiffe einzuschränken,
 
-3.
+3. den Inhalt der Meldungen (§ 2 Abs. 1) einzuschränken oder, soweit dies wegen des weiteren Einsatzes der Binnenschiffe erforderlich ist, zu erweitern.
 
 ### § 4 — Sonstige Meldungen
 
@@ -64,9 +62,9 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 (2) Die oberste oder höhere Verwaltungsbehörde des Landes kann einzelne Eigentümer und Besitzer von Häfen und Umschlagstellen verpflichten, ihnen oder den von ihnen bestimmten Behörden, insbesondere der Generaldirektion Wasserstraßen und Schifffahrt regelmäßig oder unter bestimmten Voraussetzungen Meldungen zu erstatten über
 
-1.
+1. die in ihren Häfen und an ihren Umschlagstellen liegenden Binnenschiffe und deren voraussichtliche Liegezeiten,
 
-2.
+2. den Zustand und die Leistungsfähigkeit der Hafen- und Umschlaganlagen und -einrichtungen.
 
 ## Zweiter Abschnitt: Lenkungsmaßnahmen
 
@@ -76,9 +74,9 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 (2) Absatz 1 gilt nicht für Fahrten
 
-1.
+1. im Auftrag der Streitkräfte sowie der Behörden des Bundes und der Länder einschließlich der Gemeinden und Gemeindeverbände,
 
-2.
+2. zur Erfüllung einer auf Gesetz, Rechtsverordnung oder behördlicher Verfügung beruhenden Verpflichtung.
 
 ### § 6 — Erteilung, Rücknahme und Widerruf der Erlaubnis
 
@@ -112,25 +110,17 @@ Diese Verordnung findet mit Ausnahme des § 7 keine Anwendung auf Binnenschiffe,
 
 ### § 10 — Zuwiderhandlungen
 
-(1) Wer vorsätzlich oder fahrlässig begeht eine Zuwiderhandlung im Sinne des § 26 Nr. 1 des Verkehrssicherstellungsgesetzes, die nach dem Wirtschaftsstrafgesetz 1954 in der Fassung der Bekanntmachung vom 3. Juni 1975 (BGBl. I S. 1313) geahndet wird.
+(1) Wer vorsätzlich oder fahrlässig
 
-1.
+1. eine Meldunga)nach den §§ 1 und 2 Abs. 1 in Verbindung mit einer auf Grund des § 3 erlassenen Rechtsverordnung oderb)entgegen einer vollziehbaren Verpflichtung nach § 2 Abs. 3 oder § 4 Abs. 1 oder 2 nach den §§ 1 und 2 Abs. 1 in Verbindung mit einer auf Grund des § 3 erlassenen Rechtsverordnung oder entgegen einer vollziehbaren Verpflichtung nach § 2 Abs. 3 oder § 4 Abs. 1 oder 2 nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
-a)
+2. entgegen § 2 Abs. 2 Satz 2 die Meldebescheinigung an Bord nicht mitführt oder sie zuständigen Personen zur Prüfung nicht aushändigt,
 
-b)
+3. entgegen einer vollziehbaren Anordnung nach § 5 Abs. 1 Satz 1 eine Fahrt ohne Erlaubnis durchführt oder eine vollziehbare Auflage nach § 6 Abs. 3 Satz 2 nicht erfüllt,
 
-2.
+4. entgegen § 6 Abs. 4 Satz 2 die Bescheinigung über die Erlaubnis an Bord nicht mitführt oder zuständigen Personen zur Prüfung nicht aushändigt oder
 
-3.
-
-4.
-
-5.
-
-a)
-
-b)
+5. einer vollziehbaren Verpflichtunga)nach § 8 Abs. 1 über die Einhaltung einer bestimmten Reihenfolge oder einer bestimmten Lade- oder Löschfrist oderb)nach § 8 Abs. 2 über die Benutzung eines bestimmten Platzes oder über die Einhaltung einer bestimmten Höchstliegezeit nach § 8 Abs. 1 über die Einhaltung einer bestimmten Reihenfolge oder einer bestimmten Lade- oder Löschfrist oder nach § 8 Abs. 2 über die Benutzung eines bestimmten Platzes oder über die Einhaltung einer bestimmten Höchstliegezeit nicht nachkommt,
 
 (2) Zuständige Verwaltungsbehörde im Sinne des § 29 Nr. 2 des Verkehrssicherstellungsgesetzes ist in den Fällen des Absatzes 1 Nr. 1 Buchstabe b, soweit § 4 Abs. 2 anzuwenden ist, und Nummer 5 die Landesbehörde, die den Verwaltungsakt erlassen hat, im Übrigen die Generaldirektion Wasserstraßen und Schifffahrt.
 

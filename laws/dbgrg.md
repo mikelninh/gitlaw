@@ -22,11 +22,11 @@ Aktiengesellschaft
 
 (2) Nach der Ausgliederung gemäß Absatz 1 kann die Deutsche Bahn Aktiengesellschaft nur auf Grund eines Gesetzes, das der Zustimmung des Bundesrates bedarf,
 
-1.
+1. aufgelöst,
 
-2.
+2. mit einer der in Absatz 1 genannten Aktiengesellschaften verschmolzen oder
 
-3.
+3. auf die in Absatz 1 genannten Aktiengesellschaften aufgespalten werden.
 
 (3) Für die Veräußerung von bis zu 49,9 vom Hundert der Anteile und Stimmrechte an den nach den Absätzen 1 und 2 gebildeten Aktiengesellschaften, deren Tätigkeit den Bau, die Unterhaltung und das Betreiben von Schienenwegen umfaßt, ist die Ermächtigung auf Grund eines Gesetzes, das der Zustimmung des Bundesrates bedarf, erforderlich. In dem Gesetz ist festzulegen, ob 49,9 oder ein geringerer Teil vom Hundert der Anteile auf einmal oder in Stufen veräußert werden soll.
 
@@ -34,11 +34,11 @@ Aktiengesellschaft
 
 (1) Gegenstand des Unternehmens der Gesellschaft ist
 
-1.
+1. das Erbringen von Eisenbahnverkehrsleistungen zur Beförderung von Gütern und Personen;
 
-2.
+2. das Betreiben der Eisenbahninfrastruktur; dazu zählen insbesondere die Planung, der Bau, die Unterhaltung sowie die Führung der Betriebsleit- und Sicherheitssysteme;
 
-3.
+3. Geschäftstätigkeiten in dem Eisenbahnverkehr verwandten Bereichen.
 
 (2) Durch Änderung der Satzung der Gesellschaft kann der Gegenstand des Unternehmens erweitert werden.
 
@@ -50,15 +50,15 @@ Aktiengesellschaft
 
 (2) Der Ausgliederungsplan muß mindestens folgende Angaben enthalten:
 
-1.
+1. die Vereinbarung über die Übertragung der Teile des Unternehmerischen Bereichs des Bundeseisenbahnvermögens im Sinne des § 1 Abs. 1 jeweils als Gesamtheit gegen Gewährung von Aktien der Deutsche Bahn Aktiengesellschaft;
 
-2.
+2. den Zeitpunkt, von dem an diese Aktien einen Anspruch auf einen Anteil am Bilanzgewinn gewähren, sowie alle Besonderheiten in Bezug auf diesen Anspruch;
 
-3.
+3. den Zeitpunkt, von dem an die Handlungen des Bundeseisenbahnvermögens im Unternehmerischen Bereich als für Rechnung der Deutsche Bahn Aktiengesellschaft vorgenommen gelten (Ausgliederungszeitpunkt);
 
-4.
+4. jeden besonderen Vorteil, der einem Mitglied des Vorstandes des Bundeseisenbahnvermögens oder einem Mitglied des Vorstandes oder des Aufsichtsrates der Deutsche Bahn Aktiengesellschaft oder einem Abschlußprüfer gewährt wird;
 
-5.
+5. die genaue Bezeichnung und Aufteilung der Gegenstände des Aktiv- und Passivvermögens, die der Deutsche Bahn Aktiengesellschaft übertragen werden; § 14 bleibt unberührt. Soweit für die Übertragung von Gegenständen im Falle der Einzelrechtsnachfolge in den allgemeinen Vorschriften eine besondere Art der Bezeichnung bestimmt ist, sind diese Regelungen auch hier anzuwenden. Im übrigen kann auf Urkunden wie Bilanzen und Inventare Bezug genommen werden, deren Inhalt eine Zuweisung des einzelnen Gegenstandes ermöglicht.
 
 (3) Im Ausgliederungsplan muß die Satzung der Deutsche Bahn Aktiengesellschaft enthalten sein oder festgestellt werden.
 
@@ -80,11 +80,11 @@ Die Mitglieder des Vorstandes und des Aufsichtsrates der Deutsche Bahn Aktienges
 
 (1) Die Eintragung der Deutsche Bahn Aktiengesellschaft in das Handelsregister hat folgende Wirkung:
 
-1.
+1. Die ausgegliederten Teile des Bundeseisenbahnvermögens einschließlich der Verbindlichkeiten gehen entsprechend der im Ausgliederungsplan vorgesehenen Aufteilung jeweils als Gesamtheit auf die Deutsche Bahn Aktiengesellschaft über. Gegenstände, die nicht durch Rechtsgeschäft übertragen werden können, verbleiben in Eigentum oder Inhaberschaft des Bundeseisenbahnvermögens.
 
-2.
+2. Die Bundesrepublik Deutschland wird entsprechend dem Ausgliederungsplan alleinige Aktionärin der Deutsche Bahn Aktiengesellschaft.
 
-3.
+3. Der Mangel der notariellen Beurkundung des Ausgliederungsplanes wird geheilt.
 
 (2) Mängel der Ausgliederung lassen die Wirkungen der Eintragung nach Absatz 1 unberührt.
 
@@ -234,11 +234,11 @@ Die Mitglieder des Vorstandes und des Aufsichtsrates der Deutsche Bahn Aktienges
 
 (4a) Sämtliche in Absatz 4 Satz 1 und 2 genannten Pflichten treffen auch denjenigen, auf den die in § 14 Absatz 2 genannten Ausbildungs- und Arbeitsverhältnisse von der Deutschen Bahn Aktiengesellschaft oder einer ausgegliederten Tochtergesellschaft übergehen, wenn das Bundeseisenbahnvermögen bezüglich dieser Ausbildungs- und Arbeitsverhältnisse die Pflichtversicherung nach § 14 Absatz 2 Satz 2 fortzuführen hat.
 
-(5) Das Bundeseisenbahnvermögen erstattet der Deutsche Bahn Aktiengesellschaft  Im Falle des Satzes 1 Nummer 2 werden die Kosten nur für vor dem 1. Januar 2020 vollzogene Rationalisierungsmaßnahmen erstattet.
+(5) Das Bundeseisenbahnvermögen erstattet der Deutsche Bahn Aktiengesellschaft
 
-1.
+1. längstens für neun Jahre ab dem Zeitpunkt der Geschäftsaufnahme die Kosten, die ihr infolge des erhöhten Personalbedarfs im Bereich des bisherigen Sondervermögens Deutsche Reichsbahn entstehen, soweit der erhöhte Personalbedarf auf den technisch-betrieblichen Rückstand der Deutschen Reichsbahn im Vergleich zum technisch-betrieblichen Stand beim ehemaligen Sondervermögen Deutsche Bundesbahn zurückzuführen ist;
 
-2.
+2. die Kosten, die ihr bei Durchführung von technischen, betrieblichen oder organisatorischen Maßnahmen, die zu einem Personalminderbedarf führen, dadurch entstehen, das Arbeitsverhältnisse, die gemäß § 14 Abs. 2 auf die Gesellschaft übergegangen sind, unkündbar sind. Dies gilt nicht, solange die von Rationalisierungsmaßnahmen betroffenen Arbeitnehmer auf einem anderen Arbeitsplatz in Betrieben der Deutsche Bahn Aktiengesellschaft beschäftigt werden können.
 
 (6) Absatz 5 Nr. 2 gilt entsprechend für auf Grund des öffentlichen Dienstrechts fortbestehende Dienstverhältnisse der der Deutsche Bahn Aktiengesellschaft zugewiesenen Beamten mit der Maßgabe, daß die Leistungspflicht der Gesellschaft gemäß Absatz 1 für die von Rationalisierungsmaßnahmen betroffenen Beamten entfällt. Die Zuweisung eines Beamten gemäß § 12 Abs. 2 und 3, für den die Leistungspflicht der Deutsche Bahn Aktiengesellschaft entfällt, ist vom Bundeseisenbahnvermögen aufzuheben; § 12 Abs. 9 Satz 1 findet keine Anwendung.
 
@@ -250,13 +250,13 @@ Die Mitglieder des Vorstandes und des Aufsichtsrates der Deutsche Bahn Aktienges
 
 ### § 22 — Übernahme von Altlasten
 
-(1) Der Bund leistet einen Beitrag zum Abbau der wirtschaftlichen und ökologischen Altlasten im Bereich des bisherigen Sondervermögens Deutsche Reichsbahn und gewährt zu diesem Zweck der Deutsche Bahn Aktiengesellschaft für neun Jahre ab dem Zeitpunkt der Geschäftsaufnahme Zuwendungen Hinsichtlich des vorübergehend erhöhten Personalbedarfs aus Gründen des in den Nummern 2 und 3 genannten Produktivitätsrückstandes gilt § 21 Abs. 5 Nr. 1.
+(1) Der Bund leistet einen Beitrag zum Abbau der wirtschaftlichen und ökologischen Altlasten im Bereich des bisherigen Sondervermögens Deutsche Reichsbahn und gewährt zu diesem Zweck der Deutsche Bahn Aktiengesellschaft für neun Jahre ab dem Zeitpunkt der Geschäftsaufnahme Zuwendungen
 
-1.
+1. im Rahmen der zur Verfügung stehenden Haushaltsmittel für Aufwendungen, die ihr in Erfüllung öffentlich-rechtlicher und privat-rechtlicher Verpflichtungen zur Beseitigung von Umweltbelastungen auf Grundstücken des bisherigen Sondervermögens Deutsche Reichsbahn entstehen, soweit diese Umweltbelastungen vor dem 1. Juli 1990 entstanden sind und von ihnen Gefahren für Leben oder Gesundheit von Menschen oder für Vermögensgegenstände ausgehen, und soweit die Aufwendungen den Betrag übersteigen, der in der Eröffnungsbilanz des bisherigen Sondervermögens Deutsche Reichsbahn für diesen Zweck als Rückstellung eingestellt ist;
 
-2.
+2. für Investitionen in das Sachanlagevermögen im Sinne des § 266 Abs. 2 des Handelsgesetzbuchs und Modernisierungen von vorhandenen Gegenständen des Sachanlagevermögens zur Angleichung des Schienennetzes und der sonstigen erforderlichen Eisenbahninfrastruktur des Bundes (Güterverkehr, Schienenpersonenfernverkehr, Schienenpersonennahverkehr) in dem Bereich des bisherigen Sondervermögens Deutsche Reichsbahn an den Ausbaustand, die technische Ausstattung und das Produktivitätsniveau im derzeitigen Bereich des bisherigen Sondervermögens Deutsche Bundesbahn; für die Investitionen in das Sachanlagevermögen und Modernisierungen von vorhandenen Gegenständen des Sachanlagevermögens sind in den Jahren 1994 bis 2002 nach Maßgabe des Gutachtens eines Wirtschaftsprüfers oder einer Wirtschaftsprüfungsgesellschaft bis zu 33 Milliarden Deutsche Mark bereitzustellen, davon mindestens 30 vom Hundert für Investitionen in Gegenstände des Sachanlagevermögens, das dem Schienenpersonennahverkehr dient;
 
-3.
+3. im Rahmen der zur Verfügung stehenden Haushaltsmittel für erhöhten Materialaufwand für vorhandene Gegenstände im Sachanlagevermögen im Sinne des § 266 Abs. 2 des Handelsgesetzbuchs zur Angleichung des Ausbaustandes, der technischen Ausstattung und des Produktivitätsniveaus im derzeitigen Bereich des bisherigen Sondervermögens Deutsche Reichsbahn an das Niveau im derzeitigen Bereich des bisherigen Sondervermögens Deutsche Bundesbahn.
 
 (2) Einzelheiten zur Durchführung des Absatzes 1 werden in Vereinbarungen zwischen der Deutsche Bahn Aktiengesellschaft und dem Bundesministerium für Verkehr und digitale Infrastruktur im Einvernehmen mit dem Bundesministerium der Finanzen geregelt.
 

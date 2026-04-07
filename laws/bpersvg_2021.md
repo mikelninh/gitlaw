@@ -36,25 +36,25 @@ Durch Tarifvertrag oder Dienstvereinbarung kann das Personalvertretungsrecht nic
 
 (1) Im Sinne dieses Gesetzes sind
 
-1.
+1. Arbeitnehmerinnen und Arbeitnehmer die Beschäftigten, die nach dem für die Dienststelle maßgebenden Tarifvertrag oder nach der Dienstordnung Arbeitnehmerinnen und Arbeitnehmer sind, die als übertarifliche Arbeitnehmerinnen und Arbeitnehmer beschäftigt werden oder die sich in einer beruflichen Ausbildung befinden,
 
-2.
+2. Arbeitstage die Wochentage Montag bis Freitag mit Ausnahme der gesetzlichen Feiertage,
 
-3.
+3. Beamtinnen und Beamte die Beschäftigten, die nach den jeweils für sie geltenden Beamtengesetzen Beamtinnen und Beamte sind,
 
-4.
+4. Behörden der Mittelstufe die der obersten Dienstbehörde im Sinne dieses Gesetzes unmittelbar nachgeordneten Behörden, denen andere Dienststellen nachgeordnet sind,
 
-5.
+5. Beschäftigte im öffentlichen Dienst vorbehaltlich des Absatzes 2 die Beamtinnen und Beamten sowie die Arbeitnehmerinnen und Arbeitnehmer einschließlich der zu ihrer Berufsausbildung Beschäftigten sowie Richterinnen und Richter, die an eine der in § 1 Absatz 1 genannten Verwaltungen oder zur Wahrnehmung einer nichtrichterlichen Tätigkeit an ein Gericht des Bundes abgeordnet sind,
 
-6.
+6. Dienststellen vorbehaltlich des § 6 die einzelnen Behörden, Verwaltungsstellen und Betriebe der in § 1 Absatz 1 genannten Verwaltungen sowie die Gerichte,
 
-7.
+7. Personalvertretungen die Personalräte, die Stufenvertretungen und die Gesamtpersonalräte.
 
 (2) Als Beschäftigte im Sinne dieses Gesetzes gelten nicht Personen,
 
-1.
+1. deren Beschäftigung überwiegend durch Beweggründe karitativer oder religiöser Art bestimmt ist oder
 
-2.
+2. die überwiegend zu ihrer Heilung, Wiedereingewöhnung oder Erziehung beschäftigt werden.
 
 ### § 5 — Gruppen von Beschäftigten
 
@@ -98,13 +98,13 @@ Personen, die Aufgaben oder Befugnisse nach diesem Gesetz wahrnehmen, dürfen da
 
 (1) Personen, die Aufgaben oder Befugnisse nach diesem Gesetz wahrnehmen oder wahrgenommen haben, haben über die ihnen dabei bekannt werdenden oder bekannt gewordenen Angelegenheiten und Tatsachen Stillschweigen zu bewahren. Abgesehen von den Fällen des § 66 Absatz 2 Satz 1 und des § 125 gilt die Schweigepflicht nicht
 
-1.
+1. für Mitglieder der Personalvertretung und der Jugend- und Auszubildendenvertretung gegenüber den übrigen Mitgliedern der Vertretung,
 
-2.
+2. für die in Absatz 1 Satz 1 bezeichneten Personen gegenüber der zuständigen Personalvertretung,
 
-3.
+3. gegenüber der vorgesetzten Dienststelle, der bei ihr gebildeten Stufenvertretung und gegenüber dem Gesamtpersonalrat sowie
 
-4.
+4. für die Anrufung der Einigungsstelle.
 
 (2) Die Schweigepflicht besteht nicht in Bezug auf Angelegenheiten oder Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen.
 
@@ -124,11 +124,11 @@ Erleidet eine Beamtin oder ein Beamter anlässlich der Wahrnehmung von Rechten o
 
 (1) Wahlberechtigt sind Beschäftigte, die am Wahltag das 16. Lebensjahr vollendet haben, es sei denn, dass sie
 
-1.
+1. infolge Richterspruchs das Recht, in öffentlichen Angelegenheiten zu wählen oder zu stimmen, nicht besitzen,
 
-2.
+2. am Wahltag seit mehr als zwölf Monaten beurlaubt sind oder
 
-3.
+3. Altersteilzeit im Blockmodell ausüben und sich am Wahltag in der Freistellung befinden.
 
 (2) Wer zu einer Dienststelle abgeordnet ist, wird dort wahlberechtigt, sobald die Abordnung länger als drei Monate gedauert hat; im gleichen Zeitpunkt verliert er das Wahlrecht in der bisherigen Dienststelle. Das gilt nicht für Beschäftigte, die als Mitglieder einer Stufenvertretung oder des Gesamtpersonalrats freigestellt sind. Satz 1 gilt ferner nicht, wenn feststeht, dass die oder der Beschäftigte binnen weiterer neun Monate zur bisherigen Dienststelle zurückkehren wird. Hinsichtlich des Verlustes des Wahlrechts in der bisherigen Dienststelle gelten die Sätze 1 und 3 entsprechend in Fällen einer Zuweisung nach § 29 des Bundesbeamtengesetzes, nach den tarifvertraglichen Bestimmungen oder auf Grund entsprechender arbeitsvertraglicher Vereinbarung.
 
@@ -136,37 +136,37 @@ Erleidet eine Beamtin oder ein Beamter anlässlich der Wahrnehmung von Rechten o
 
 ### § 15 — Wählbarkeit
 
-(1) Wählbar sind die Wahlberechtigten, die am Wahltag Besteht die Dienststelle weniger als ein Jahr, ist Satz 1 Nummer 2 nicht anzuwenden.
+(1) Wählbar sind die Wahlberechtigten, die am Wahltag
 
-1.
+1. das 18. Lebensjahr vollendet haben und
 
-2.
+2. seit sechs Monaten Beschäftigte im öffentlichen Dienst des Bundes sind.
 
 (2) Nicht wählbar sind
 
-1.
+1. Beschäftigte, die infolge Richterspruchs nicht die Fähigkeit besitzen, Rechte aus öffentlichen Wahlen zu erlangen,
 
-2.
+2. Beschäftigte, die am Wahltag noch länger als zwölf Monate beurlaubt sind,
 
-3.
+3. für die Wahl in eine Stufenvertretung die in § 14 Absatz 3 genannten Personen oder
 
-4.
+4. für die Wahl der Personalvertretung ihrer Dienststelle die in § 8 genannten Personen sowie Beschäftigte, die zu selbstständigen Entscheidungen in Personalangelegenheiten der Dienststelle befugt sind.
 
 ### § 16 — Zahl der Personalratsmitglieder
 
-(1) Der Personalrat besteht in Dienststellen mit in der Regel Die Zahl der Mitglieder erhöht sich in Dienststellen mit 1 001 bis 5 000 Beschäftigten um je zwei Mitglieder für je weitere angefangene 1 000 Beschäftigte und in Dienststellen mit mehr als 5 000 Beschäftigten um je zwei Mitglieder für je weitere angefangene 2 000 Beschäftigte.
+(1) Der Personalrat besteht in Dienststellen mit in der Regel
 
-1.
+1. 5 bis 20 wahlberechtigten Beschäftigten aus einem Mitglied,
 
-2.
+2. 21 Wahlberechtigten bis 50 Beschäftigten aus drei Mitgliedern,
 
-3.
+3. 51 bis 150 Beschäftigten aus fünf Mitgliedern,
 
-4.
+4. 151 bis 300 Beschäftigten aus sieben Mitgliedern,
 
-5.
+5. 301 bis 600 Beschäftigten aus neun Mitgliedern,
 
-6.
+6. 601 bis 1 000 Beschäftigten aus elf Mitgliedern.
 
 (2) Die Höchstzahl der Mitglieder beträgt 31.
 
@@ -178,17 +178,17 @@ Erleidet eine Beamtin oder ein Beamter anlässlich der Wahrnehmung von Rechten o
 
 (3) Eine Gruppe erhält
 
-1.
+1. bei weniger als 51 Gruppenangehörigen mindestens eine Vertreterin oder einen Vertreter,
 
-2.
+2. bei 51 bis 200 Gruppenangehörigen mindestens zwei Vertreterinnen oder Vertreter,
 
-3.
+3. bei 201 bis 600 Gruppenangehörigen mindestens drei Vertreterinnen oder Vertreter,
 
-4.
+4. bei 601 bis 1 000 Gruppenangehörigen mindestens vier Vertreterinnen oder Vertreter,
 
-5.
+5. bei 1 001 bis 3 000 Gruppenangehörigen mindestens fünf Vertreterinnen oder Vertreter,
 
-6.
+6. bei mehr als 3 000 Gruppenangehörigen mindestens sechs Vertreterinnen oder Vertreter.
 
 (4) Die Zahl der Mitglieder eines Personalrats, der nach § 16 Absatz 1 Satz 1 Nummer 2 aus drei Mitgliedern besteht, erhöht sich auf vier Mitglieder, wenn eine Gruppe mindestens ebenso viele Beschäftigte zählt wie die beiden anderen Gruppen zusammen. Das vierte Mitglied steht der stärksten Gruppe zu.
 
@@ -227,8 +227,6 @@ Erleidet eine Beamtin oder ein Beamter anlässlich der Wahrnehmung von Rechten o
 ### § 21 — Bestellung des Wahlvorstands durch den Personalrat
 
 Spätestens acht Wochen vor Ablauf der Amtszeit bestellt der Personalrat drei Wahlberechtigte, die das 18. Lebensjahr vollendet haben, als Wahlvorstand und eine oder einen von ihnen als Vorsitzende oder Vorsitzenden. Der Personalrat kann die Zahl der Wahlvorstandsmitglieder erhöhen, wenn dies zur ordnungsgemäßen Durchführung der Wahl erforderlich ist. Der Wahlvorstand muss aus einer ungeraden Zahl von Mitgliedern bestehen. Sind in der Dienststelle Angehörige verschiedener Gruppen beschäftigt, so muss jede Gruppe im Wahlvorstand vertreten sein. Hat die Dienststelle weibliche und männliche Beschäftigte, sollen dem Wahlvorstand Frauen und Männer angehören. Für jedes Mitglied des Wahlvorstands sollen für den Fall seiner Verhinderung bis zu drei Ersatzmitglieder bestellt werden. Jeweils eine Beauftragte oder ein Beauftragter der in der Dienststelle vertretenen Gewerkschaften ist berechtigt, an den Sitzungen des Wahlvorstands mit beratender Stimme teilzunehmen.
-
-> (+++ § 21: Zur Nichtanwendung vgl. § 112 Abs. 5 Satz 2 § 21: Zur Nichtanwendung vgl. § 113 Abs. 2 +++)
 
 ### § 22 — Wahl des Wahlvorstands durch die Personalversammlung
 
@@ -270,17 +268,17 @@ Mindestens drei Wahlberechtigte, jede in der Dienststelle vertretene Gewerkschaf
 
 (1) Außerhalb des in § 27 Absatz 1 genannten Zeitraums ist der Personalrat neu zu wählen, wenn
 
-1.
+1. mit Ablauf von 24 Monaten, vom Tag der Wahl gerechnet, die Zahl der regelmäßig Beschäftigten um die Hälfte, mindestens aber um 50 Personen gestiegen oder gesunken ist,
 
-2.
+2. die Gesamtzahl der Mitglieder des Personalrats auch nach Eintreten sämtlicher Ersatzmitglieder um mehr als ein Viertel der vorgeschriebenen Zahl gesunken ist,
 
-3.
+3. der Personalrat mit der Mehrheit seiner Mitglieder seinen Rücktritt beschlossen hat,
 
-4.
+4. die Personalratswahl mit Erfolg gerichtlich angefochten worden ist,
 
-5.
+5. der Personalrat durch gerichtliche Entscheidung aufgelöst ist oder
 
-6.
+6. in der Dienststelle kein Personalrat besteht.
 
 (2) In den Fällen des Absatzes 1 Nummer 1 bis 3 führt der Personalrat die Geschäfte weiter, bis sich der neu gewählte Personalrat konstituiert hat.
 
@@ -316,23 +314,23 @@ Auf Antrag eines Viertels der Wahlberechtigten oder einer in der Dienststelle ve
 
 (1) Die Mitgliedschaft im Personalrat erlischt durch
 
-1.
+1. Ablauf der Amtszeit,
 
-2.
+2. Niederlegung des Amtes,
 
-3.
+3. Beendigung des Dienst- oder Arbeitsverhältnisses,
 
-4.
+4. Ausscheiden aus der Dienststelle,
 
-5.
+5. Verlust der Wählbarkeit,
 
-6.
+6. Eintritt in eine mehr als zwölfmonatige Beurlaubung,
 
-7.
+7. Eintritt in die Freistellungsphase der Altersteilzeit im Blockmodell,
 
-8.
+8. Ausschluss aus dem Personalrat oder Auflösung des Personalrats auf Grund einer gerichtlichen Entscheidung oder
 
-9.
+9. gerichtliche Entscheidung über die Feststellung der Nichtwählbarkeit nach Ablauf der in § 26 bezeichneten Frist, es sei denn, der Mangel liegt nicht mehr vor.
 
 (2) Die Mitgliedschaft im Personalrat wird durch einen Wechsel der Gruppenzugehörigkeit eines Mitglieds nicht berührt; dieses vertritt weiterhin die Gruppe, von der es gewählt wurde.
 
@@ -374,15 +372,15 @@ Die Mitgliedschaft einer Beamtin oder eines Beamten im Personalrat ruht, solange
 
 (3) Die oder der Vorsitzende hat eine Sitzung einzuberufen und den Gegenstand, dessen Beratung beantragt ist, auf die Tagesordnung zu setzen, wenn dies beantragt wird von
 
-1.
+1. einem Viertel der Mitglieder des Personalrats,
 
-2.
+2. der Mehrheit der Vertreterinnen und Vertreter einer Gruppe,
 
-3.
+3. der Leiterin oder dem Leiter der Dienststelle,
 
-4.
+4. der Vertrauensperson der schwerbehinderten Menschen in Angelegenheiten, die besonders schwerbehinderte Beschäftigte betreffen, oder
 
-5.
+5. der Mehrheit der Mitglieder der Jugend- und Auszubildendenvertretung in Angelegenheiten, die besonders Beschäftigte betreffen, die das 18. Lebensjahr noch nicht vollendet haben oder sich in einer beruflichen Ausbildung befinden.
 
 ### § 37 — Teilnahme- und Stimmrecht sonstiger Personen
 
@@ -392,21 +390,19 @@ Die Mitgliedschaft einer Beamtin oder eines Beamten im Personalrat ruht, solange
 
 (3) Die Leiterin oder der Leiter der Dienststelle nimmt an den Sitzungen teil, die auf ihr oder sein Verlangen anberaumt worden sind oder zu denen sie oder er ausdrücklich eingeladen worden ist.
 
-> (+++ § 37 Abs. 2: Zur Nichtanwendung vgl. § 112 Abs. 5 Satz 2 § 37 Abs. 2: Zur Nichtanwendung vgl. § 113 Abs. 2 § 37 Abs. 1: Zur Nichtanwendung vgl. § 125 Abs. 4 Satz 1 § 37 Abs. 2: Zur Nichtanwendung vgl. § 125 Abs. 4 Satz 1 +++)
-
 ### § 38 — Zeitpunkt der Sitzungen und Nichtöffentlichkeit
 
 (1) Die Sitzungen des Personalrats finden in der Regel während der Arbeitszeit statt. Der Personalrat hat bei der Anberaumung seiner Sitzungen auf die dienstlichen Erfordernisse und auf die Arbeitszeiten seiner Mitglieder Rücksicht zu nehmen. Die Leiterin oder der Leiter der Dienststelle ist vom Zeitpunkt der Sitzung vorher zu verständigen.
 
 (2) Die Sitzungen sind nicht öffentlich. Der Personalrat kann ihm nach § 47 zur Verfügung gestelltes Büropersonal zur Anfertigung der Niederschrift hinzuziehen.
 
-(3) Die Sitzungen des Personalrats finden in der Regel als Präsenzsitzung in Anwesenheit seiner Mitglieder vor Ort statt. Die Sitzung kann vollständig oder unter Zuschaltung einzelner Personalratsmitglieder mittels Video- oder Telefonkonferenz durchgeführt werden, wenn Eine Aufzeichnung ist unzulässig. Personalratsmitglieder, die mittels Video- oder Telefonkonferenz an Sitzungen teilnehmen, gelten als anwesend im Sinne des § 39 Absatz 1 Satz 1. § 43 Absatz 1 Satz 3 findet mit der Maßgabe Anwendung, dass die oder der Vorsitzende vor Beginn der Beratung die zugeschalteten Personalratsmitglieder feststellt und in die Anwesenheitsliste einträgt. Das Recht eines Personalratsmitglieds auf Teilnahme an der Sitzung vor Ort bleibt durch die Durchführung der Sitzung mittels Video- oder Telefonkonferenz unberührt.
+(3) Die Sitzungen des Personalrats finden in der Regel als Präsenzsitzung in Anwesenheit seiner Mitglieder vor Ort statt. Die Sitzung kann vollständig oder unter Zuschaltung einzelner Personalratsmitglieder mittels Video- oder Telefonkonferenz durchgeführt werden, wenn
 
-1.
+1. vorhandene Einrichtungen genutzt werden, die durch die Dienststelle zur dienstlichen Nutzung freigegeben sind,
 
-2.
+2. nicht mindestens ein Viertel der Mitglieder oder die Mehrheit der Vertreterinnen und Vertreter einer Gruppe des Personalrats binnen einer von der oder dem Vorsitzenden zu bestimmenden Frist gegenüber der oder dem Vorsitzenden widerspricht und
 
-3.
+3. der Personalrat geeignete organisatorische Maßnahmen trifft, um sicherzustellen, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können.
 
 ### § 39 — Beschlussfassung
 
@@ -428,11 +424,11 @@ Die Mitgliedschaft einer Beamtin oder eines Beamten im Personalrat ruht, solange
 
 ### § 41 — Ausschluss von Beratung und Beschlussfassung
 
-(1) Ein Mitglied des Personalrats ist ausgeschlossen von der Beratung und Beschlussfassung Angehörige im Sinne des Satzes 1 Nummer 1 sind die in § 20 Absatz 5 des Verwaltungsverfahrensgesetzes aufgeführten Personen. Hat ein Mitglied des Personalrats Grund zu der Annahme, dass in seiner Person ein Ausschließungsgrund vorliegt, so hat es dies der oder dem Vorsitzenden unverzüglich, spätestens jedoch vor Beginn der Beratung über die Angelegenheit anzuzeigen. Über das Vorliegen eines Ausschließungsgrundes entscheidet der Personalrat in Zweifelsfällen in Abwesenheit der oder des Betroffenen. Das betroffene Personalratsmitglied ist vorher anzuhören. Das ausgeschlossene Mitglied hat für die Dauer der Beratung und Beschlussfassung über die Angelegenheit nach Satz 1 den Sitzungsraum zu verlassen.
+(1) Ein Mitglied des Personalrats ist ausgeschlossen von der Beratung und Beschlussfassung
 
-1.
+1. über beteiligungspflichtige Angelegenheiten, die seine persönlichen Interessen oder die seiner Angehörigen unmittelbar und individuell berühren, oder
 
-2.
+2. über einen Antrag auf seinen Ausschluss aus dem Personalrat.
 
 (2) Absatz 1 gilt entsprechend für weitere Personen, die zur Teilnahme an den Sitzungen des Personalrats berechtigt sind.
 
@@ -447,8 +443,6 @@ Die Mitgliedschaft einer Beamtin oder eines Beamten im Personalrat ruht, solange
 (2) Nach Ablauf der Frist von fünf Arbeitstagen ist über die Angelegenheit neu zu beschließen. Wird der erste Beschluss bestätigt, so kann der Antrag auf Aussetzung nicht wiederholt werden.
 
 (3) Die Absätze 1 und 2 gelten entsprechend, wenn die Schwerbehindertenvertretung einen Beschluss des Personalrats als eine erhebliche Beeinträchtigung wichtiger Interessen der schwerbehinderten oder ihnen gleichgestellten Beschäftigten erachtet.
-
-> (+++ § 42 Abs. 1: Zur Nichtanwendung vgl. § 112 Abs. 5 Satz 2 § 42 Abs. 1: Zur Nichtanwendung vgl. § 113 Abs. 2 § 42 Abs. 1: Zur Nichtanwendung vgl. § 125 Abs. 4 Satz 1 +++)
 
 ### § 43 — Protokoll
 
@@ -502,29 +496,29 @@ Die zur ordnungsgemäßen Durchführung der Aufgaben des Personalrats erforderli
 
 (1) Mitglieder des Personalrats sind von ihrer dienstlichen Tätigkeit freizustellen, wenn und soweit es nach Umfang und Art der Dienststelle zur ordnungsgemäßen Durchführung ihrer Aufgaben erforderlich ist. Die Freistellung darf nicht zur Beeinträchtigung des beruflichen Werdegangs führen.
 
-(2) Von ihrer dienstlichen Tätigkeit sind nach Absatz 1 freizustellen in Dienststellen mit in der Regel In Dienststellen mit mehr als 10 000 Beschäftigten ist für je angefangene weitere 2 000 Beschäftigte ein weiteres Mitglied freizustellen. Von den Sätzen 1 und 2 kann im Einvernehmen zwischen Personalrat und der Leiterin oder dem Leiter der Dienststelle abgewichen werden.
+(2) Von ihrer dienstlichen Tätigkeit sind nach Absatz 1 freizustellen in Dienststellen mit in der Regel
 
-1.
+1. 300 bis 600 Beschäftigten ein Mitglied,
 
-2.
+2. 601 bis 1 000 Beschäftigten zwei Mitglieder,
 
-3.
+3. 1 001 bis 2 000 Beschäftigten drei Mitglieder,
 
-4.
+4. 2 001 bis 3 000 Beschäftigten vier Mitglieder,
 
-5.
+5. 3 001 bis 4 000 Beschäftigten fünf Mitglieder,
 
-6.
+6. 4 001 bis 5 000 Beschäftigten sechs Mitglieder,
 
-7.
+7. 5 001 bis 6 000 Beschäftigten sieben Mitglieder,
 
-8.
+8. 6 001 bis 7 000 Beschäftigten acht Mitglieder,
 
-9.
+9. 7 001 bis 8 000 Beschäftigten neun Mitglieder,
 
-10.
+10. 8 001 bis 9 000 Beschäftigten zehn Mitglieder,
 
-11.
+11. 9 001 bis 10 000 Beschäftigten elf Mitglieder.
 
 (3) Freistellungen können in Form von Teilfreistellungen erfolgen. Diese dürfen zusammengenommen nicht den Umfang der Freistellungen nach Absatz 2 überschreiten. Freistellungen müssen mindestens 20 Prozent der regelmäßigen wöchentlichen Arbeitszeit betragen.
 
@@ -562,11 +556,11 @@ Die zur ordnungsgemäßen Durchführung der Aufgaben des Personalrats erforderli
 
 (3) Die Absätze 1 und 2 gelten auch, wenn das Berufsausbildungsverhältnis vor Ablauf eines Jahres nach Beendigung der Amtszeit des Personalrats erfolgreich endet.
 
-(4) Wenn Tatsachen vorliegen, auf Grund derer dem Arbeitgeber unter Berücksichtigung aller Umstände die Weiterbeschäftigung nicht zugemutet werden kann, so kann er spätestens bis zum Ablauf von zwei Wochen nach Beendigung des Berufsausbildungsverhältnisses beim Verwaltungsgericht beantragen, In dem Verfahren vor dem Verwaltungsgericht ist der Personalrat Beteiligter.
+(4) Wenn Tatsachen vorliegen, auf Grund derer dem Arbeitgeber unter Berücksichtigung aller Umstände die Weiterbeschäftigung nicht zugemutet werden kann, so kann er spätestens bis zum Ablauf von zwei Wochen nach Beendigung des Berufsausbildungsverhältnisses beim Verwaltungsgericht beantragen,
 
-1.
+1. festzustellen, dass ein Arbeitsverhältnis nach Absatz 2 oder 3 nicht begründet wird, oder
 
-2.
+2. das bereits nach Absatz 2 oder 3 begründete Arbeitsverhältnis aufzulösen.
 
 (5) Die Absätze 2 bis 4 sind unabhängig davon anzuwenden, ob der Arbeitgeber seiner Mitteilungspflicht nach Absatz 1 nachgekommen ist.
 
@@ -585,8 +579,6 @@ Die zur ordnungsgemäßen Durchführung der Aufgaben des Personalrats erforderli
 (1) Die Personalversammlung ist nicht öffentlich. Der Personalrat kann die Personalversammlung im Einvernehmen mit der Leiterin oder dem Leiter der Dienststelle mittels Videokonferenz in Nebenstellen oder Teile der Dienststelle übertragen. § 38 Absatz 3 Satz 2 Nummer 1 und 3 sowie Satz 3 gilt entsprechend. Die Möglichkeit zur Durchführung von Teilversammlungen bleibt unberührt.
 
 (2) Beauftragte der in der Dienststelle vertretenen Gewerkschaften und eine Beauftragte oder ein Beauftragter der Arbeitgebervereinigung, der die Dienststelle angehört, sind berechtigt, mit beratender Stimme an der Personalversammlung teilzunehmen. Der Personalrat hat die Einberufung der Personalversammlung den Gewerkschaften und der Arbeitgebervereinigung mitzuteilen. Ein beauftragtes Mitglied der Stufenvertretung und des Gesamtpersonalrats sowie eine Beauftragte oder ein Beauftragter der Dienststelle, bei der die Stufenvertretung besteht, können an der Personalversammlung ohne beratende Stimme teilnehmen. Teilnahmerechte auf Grund anderer Rechtvorschriften bleiben unberührt.
-
-> (+++ § 58 Abs. 2: Zur Nichtanwendung vgl. § 112 Abs. 5 Satz 2 § 58 Abs. 2: Zur Nichtanwendung vgl. § 113 Abs. 2 +++)
 
 ### § 59 — Ordentliche und außerordentliche Personalversammlung
 
@@ -622,23 +614,23 @@ Die zur ordnungsgemäßen Durchführung der Aufgaben des Personalrats erforderli
 
 Der Personalrat hat folgende allgemeine Aufgaben:
 
-1.
+1. Maßnahmen, die der Dienststelle und ihren Angehörigen dienen, zu beantragen,
 
-2.
+2. darüber zu wachen, dass die zugunsten der Beschäftigten geltenden Gesetze, Verordnungen, Tarifverträge, Dienstvereinbarungen und Verwaltungsanordnungen durchgeführt werden,
 
-3.
+3. Anregungen und Beschwerden von Beschäftigten und der Jugend- und Auszubildendenvertretung entgegenzunehmen und, falls sie berechtigt erscheinen, durch Verhandlung mit der Leiterin oder dem Leiter der Dienststelle auf ihre Erledigung hinzuwirken; der Personalrat hat die betreffenden Beschäftigten über den Stand und das Ergebnis der Verhandlungen zu unterrichten,
 
-4.
+4. der Benachteiligung von Menschen mit Behinderungen entgegenzuwirken sowie die Inklusion und Teilhabe behinderter Menschen zu fördern, insbesondere die Eingliederung und berufliche Entwicklung schwerbehinderter und ihnen gleichgestellter Beschäftigter und sonstiger besonders schutzbedürftiger, insbesondere älterer Beschäftigter zu fördern sowie Maßnahmen zur beruflichen Förderung schwerbehinderter und ihnen gleichgestellter Beschäftigter zu beantragen,
 
-5.
+5. die Durchsetzung der tatsächlichen Gleichstellung von Frauen und Männern zu fördern sowie Benachteiligungen von Menschen, die sich keinem dieser Geschlechter zuordnen, entgegenzuwirken, insbesondere bei der Einstellung, Beschäftigung, Aus-, Fort- und Weiterbildung und dem beruflichen Aufstieg,
 
-6.
+6. die Vereinbarkeit von Familie, Pflege und Beruf zu fördern,
 
-7.
+7. die Integration ausländischer Beschäftigter in die Dienststelle und das Verständnis zwischen ihnen und den deutschen Beschäftigten zu fördern sowie Maßnahmen zur Bekämpfung gruppenbezogener Menschenfeindlichkeit in der Dienststelle zu beantragen,
 
-8.
+8. mit der Jugend- und Auszubildendenvertretung zur Förderung der Belange der Beschäftigten, die das 18. Lebensjahr noch nicht vollendet haben oder sich in einer beruflichen Ausbildung befinden, eng zusammenzuarbeiten sowie
 
-9.
+9. Maßnahmen des Arbeitsschutzes und des Gesundheitsschutzes in der Dienststelle zu fördern.
 
 ### § 63 — Dienstvereinbarungen
 
@@ -702,8 +694,6 @@ Bei der Verarbeitung personenbezogener Daten hat der Personalrat die Vorschrifte
 
 (2) Die übergeordnete Dienststelle soll die Angelegenheit, sofern sie dem Anliegen des Personalrats nicht oder nicht in vollem Umfang entspricht, innerhalb von sechs Wochen der bei ihr gebildeten Stufenvertretung vorlegen. Für das weitere Verfahren gilt § 70 Absatz 2 und 3 entsprechend.
 
-> (+++ § 71 Abs. 1 Satz 3: Zur Nichtanwendung vgl. § 115 Abs. 1 Satz 2 § 71 Abs. 1 Satz 3: Zur Nichtanwendung vgl. § 116 Abs. 1 Satz 2 +++)
-
 ### § 72 — Anrufung der Einigungsstelle
 
 Ergibt sich zwischen der obersten Dienstbehörde und der bei ihr bestehenden zuständigen Personalvertretung keine Einigung, kann jede Seite die Einigungsstelle anrufen.
@@ -752,9 +742,9 @@ Die Leiterin oder der Leiter der Dienststelle kann bei Maßnahmen, die der Natur
 
 (2) Die Leiterin oder der Leiter der Dienststelle soll über den Antrag nach Absatz 1 innerhalb von sechs Wochen unter Angabe der Gründe entscheiden oder, wenn die Einhaltung der Frist nicht möglich ist, einen Sachstandshinweis erteilen. Entspricht die Leiterin oder der Leiter der Dienststelle dem Antrag nicht oder nicht in vollem Umfang, so bestimmt sich das weitere Verfahren
 
-1.
+1. in den Fällen des § 78 Absatz 1 Nummer 12, des § 79 Absatz 1 Nummer 4 und 5 sowie des § 80 Absatz 1 Nummer 1, 3, 4, 6 bis 9, 14, 16, 18 und 21 nach den §§ 71 bis 75,
 
-2.
+2. in den übrigen Angelegenheiten nach § 71 mit der Maßgabe, dass die oberste Dienstbehörde endgültig entscheidet.
 
 > (+++ § 77 Abs. 2 Satz 2 Nummer 1: Zur Nichtanwendung vgl. § 112 Abs. 5 Satz 1 +++)
 
@@ -764,35 +754,35 @@ Die Leiterin oder der Leiter der Dienststelle kann bei Maßnahmen, die der Natur
 
 (1) Der Personalrat bestimmt mit in Personalangelegenheiten bei
 
-1.
+1. Einstellung,
 
-2.
+2. Beförderung, Verleihung eines anderen Amtes mit anderer Amtsbezeichnung beim Wechsel der Laufbahngruppe, Laufbahnwechsel,
 
-3.
+3. Übertragung einer höher oder niedriger zu bewertenden Tätigkeit oder eines höher oder niedriger zu bewertenden Dienstpostens,
 
-4.
+4. Eingruppierung, Höher- oder Rückgruppierung von Arbeitnehmerinnen oder Arbeitnehmern einschließlich der hiermit jeweils verbundenen Stufenzuordnung, jedoch nicht bei in das Ermessen des Arbeitgebers gestellten Stufenzuordnungen, es sei denn, es wurden allgemeine Grundsätze erlassen,
 
-5.
+5. Versetzung zu einer anderen Dienststelle,
 
-6.
+6. Umsetzung innerhalb der Dienstelle für mehr als drei Monate, wenn die Umsetzung mit einem Wechsel des Dienstortes verbunden ist und der neue Dienstort sich außerhalb des Einzugsgebietes im Sinne des Umzugskostenrechts befindet,
 
-7.
+7. Abordnung, Zuweisung oder Personalgestellung für mehr als drei Monate,
 
-8.
+8. Hinausschieben des Eintritts von Beamtinnen oder Beamten in den Ruhestand oder Weiterbeschäftigung von Arbeitnehmerinnen oder Arbeitnehmern über die Altersgrenze hinaus,
 
-9.
+9. Anordnungen zur Wahl der Wohnung,
 
-10.
+10. Versagung oder Widerruf der Genehmigung einer Nebentätigkeit,
 
-11.
+11. Ablehnung eines Antrags nach den §§ 91 bis 92b oder § 95 des Bundesbeamtengesetzes auf Teilzeitbeschäftigung, Ermäßigung der regelmäßigen Arbeitszeit oder Urlaub,
 
-12.
+12. Absehen von der Ausschreibung von Dienstposten, die besetzt werden sollen,
 
-13.
+13. Auswahl der Teilnehmerinnen und Teilnehmer an Fortbildungsveranstaltungen mit Ausnahme der Nachbesetzung freier Plätze von Fortbildungsveranstaltungen, die in weniger als drei Arbeitstagen beginnen,
 
-14.
+14. Bestellung von Vertrauens- oder Betriebsärztinnen und -ärzten als Beschäftigte,
 
-15.
+15. Geltendmachung von Ersatzansprüchen gegen eine Beschäftigte oder einen Beschäftigten.
 
 (2) In den Fällen des Absatzes 1 Nummer 15 bestimmt der Personalrat nur auf Antrag der oder des Beschäftigten mit; diese oder dieser ist von der beabsichtigten Maßnahme rechtzeitig vorher in Kenntnis zu setzen.
 
@@ -800,31 +790,31 @@ Die Leiterin oder der Leiter der Dienststelle kann bei Maßnahmen, die der Natur
 
 (4) Absatz 1 gilt nicht
 
-1.
+1. für die in § 54 Absatz 1 des Bundesbeamtengesetzes bezeichneten Beamtinnen und Beamten und für entsprechende Arbeitnehmerinnen und Arbeitnehmer sowie
 
-2.
+2. für Beamtenstellen von der Besoldungsgruppe A 16 an aufwärts und entsprechende Arbeitnehmerstellen.
 
 (5) Der Personalrat kann in den Fällen des Absatzes 1 seine Zustimmung verweigern, wenn
 
-1.
+1. die Maßnahme gegen ein Gesetz, eine Verordnung, eine Bestimmung in einem Tarifvertrag, eine gerichtliche Entscheidung, den Gleichstellungsplan oder eine Verwaltungsanordnung oder gegen eine Richtlinie im Sinne des § 80 Absatz 1 Nummer 12 verstößt,
 
-2.
+2. die durch Tatsachen begründete Besorgnis besteht, dass durch die Maßnahme der oder die betroffene Beschäftigte oder andere Beschäftigte benachteiligt werden, ohne dass dies aus dienstlichen oder persönlichen Gründen gerechtfertigt ist, oder
 
-3.
+3. die durch Tatsachen begründete Besorgnis besteht, dass die oder der Beschäftigte oder die Bewerberin oder der Bewerber den Frieden in der Dienststelle durch unsoziales oder gesetzwidriges Verhalten stören werde.
 
 ### § 79 — Mitbestimmung in sozialen Angelegenheiten
 
 (1) Der Personalrat bestimmt mit in sozialen Angelegenheiten bei
 
-1.
+1. Gewährung von Unterstützungen, Vorschüssen, Darlehen und entsprechenden sozialen Zuwendungen,
 
-2.
+2. Zuweisung und Kündigung von Wohnungen, über die die Beschäftigungsdienststelle verfügt, Ausübung von Belegungs- oder Vorschlagsrechten der Beschäftigungsdienststelle sowie der allgemeinen Festsetzung der Nutzungsbedingungen,
 
-3.
+3. Zuweisung von Dienst- und Pachtland und Festsetzung der Nutzungsbedingungen,
 
-4.
+4. Errichtung, Verwaltung und Auflösung von Sozialeinrichtungen ohne Rücksicht auf ihre Rechtsform,
 
-5.
+5. Aufstellung von Sozialplänen einschließlich Plänen für Umschulungen zum Ausgleich oder zur Milderung von wirtschaftlichen Nachteilen, die der oder dem Beschäftigten infolge von Rationalisierungsmaßnahmen entstehen.
 
 (2) Hat eine Beschäftigte oder ein Beschäftigter eine Leistung nach Absatz 1 Nummer 1 beantragt, wird der Personalrat nur auf ihren oder seinen Antrag beteiligt; auf Verlangen der Antragstellerin oder des Antragstellers bestimmt nur der Vorstand des Personalrats mit. Die Dienststelle hat dem Personalrat nach Abschluss jedes Kalendervierteljahres einen Überblick über die Unterstützungen und entsprechenden sozialen Zuwendungen zu geben. Dabei sind die Anträge und die Leistungen gegenüberzustellen. Auskunft über die von den Antragstellerinnen und Antragstellern angeführten Gründe wird hierbei nicht erteilt.
 
@@ -832,47 +822,47 @@ Die Leiterin oder der Leiter der Dienststelle kann bei Maßnahmen, die der Natur
 
 (1) Der Personalrat bestimmt mit, soweit eine gesetzliche oder tarifliche Regelung nicht besteht, über
 
-1.
+1. Beginn und Ende der täglichen Arbeitszeit und der Pausen sowie die Verteilung der Arbeitszeit auf die einzelnen Wochentage,
 
-2.
+2. Anordnung von Dienstbereitschaft, Bereitschaftsdienst, Rufbereitschaft, Mehrarbeit und Überstunden,
 
-3.
+3. Einführung, Änderung und Aufhebung von Arbeitszeitmodellen,
 
-4.
+4. Gestaltung der Arbeitsplätze,
 
-5.
+5. Einführung, Änderung und Aufhebung von Arbeitsformen außerhalb der Dienststelle,
 
-6.
+6. Aufstellung allgemeiner Urlaubsgrundsätze und des Urlaubsplanes, Festsetzung der zeitlichen Lage des Erholungsurlaubs für einzelne Beschäftigte, wenn zwischen der Dienststelle und den beteiligten Beschäftigten kein Einverständnis erzielt wird,
 
-7.
+7. Zeit, Ort und Art der Auszahlung der Dienstbezüge und Arbeitsentgelte,
 
-8.
+8. Fragen der Lohngestaltung innerhalb der Dienststelle, insbesondere die Aufstellung von Entlohnungsgrundsätzen, die Einführung und Anwendung von neuen Entlohnungsmethoden und deren Änderung sowie die Festsetzung der Akkord- und Prämiensätze und vergleichbarer leistungsbezogener Entgelte, einschließlich der Geldfaktoren,
 
-9.
+9. Durchführung der Berufsausbildung bei Arbeitnehmerinnen und Arbeitnehmern,
 
-10.
+10. allgemeine Fragen der Fortbildung der Beschäftigten,
 
-11.
+11. Beurteilungsrichtlinien,
 
-12.
+12. Erlass von Richtlinien über die personelle Auswahl bei Einstellungen, Versetzungen, Umgruppierungen und Kündigungen,
 
-13.
+13. Maßnahmen, die der Familienfreundlichkeit, der Vereinbarkeit von Familie, Pflege und Beruf, der Durchsetzung der tatsächlichen Gleichstellung von Frauen und Männern, der Vermeidung von Benachteiligungen von Menschen, die sich keinem dieser Geschlechter zuordnen, sowie der Vermeidung von Benachteiligungen von Menschen mit Behinderungen dienen, insbesondere bei der Einstellung, Beschäftigung, Aus-, Fort- und Weiterbildung und dem beruflichen Aufstieg,
 
-14.
+14. Grundsätze über die Bewertung von anerkannten Vorschlägen im Rahmen des behördlichen oder betrieblichen Vorschlagwesens,
 
-15.
+15. Inhalt von Personalfragebogen,
 
-16.
+16. Maßnahmen zur Verhütung von Dienst- und Arbeitsunfällen und Berufskrankheiten sowie zum Gesundheitsschutz im Rahmen der gesetzlichen Vorschriften oder der Unfallverhütungsvorschriften,
 
-17.
+17. Grundsätze des behördlichen oder betrieblichen Gesundheits- und Eingliederungsmanagements,
 
-18.
+18. Regelung der Ordnung in der Dienststelle und des Verhaltens der Beschäftigten,
 
-19.
+19. Maßnahmen zur Hebung der Arbeitsleistung oder zur Erleichterung des Arbeitsablaufs,
 
-20.
+20. Einführung grundlegend neuer Arbeitsmethoden,
 
-21.
+21. Einführung und Anwendung technischer Einrichtungen, die dazu bestimmt sind, das Verhalten oder die Leistung der Beschäftigten zu überwachen.
 
 (2) Muss für Gruppen von Beschäftigten die tägliche Arbeitszeit nach Erfordernissen, die die Dienststelle nicht voraussehen kann, unregelmäßig und kurzfristig festgesetzt werden, so beschränkt sich die Mitbestimmung nach Absatz 1 Nummer 1 und 2 auf die Grundsätze für die Aufstellung der Dienstpläne, insbesondere für die Anordnung von Dienstbereitschaft, Mehrarbeit und Überstunden.
 
@@ -902,17 +892,17 @@ Die Leiterin oder der Leiter der Dienststelle kann bei Maßnahmen, die der Natur
 
 (1) Der Personalrat wirkt mit bei
 
-1.
+1. Vorbereitung von Verwaltungsanordnungen einer Dienststelle für die innerdienstlichen, sozialen und persönlichen Angelegenheiten der Beschäftigten ihres Geschäftsbereiches, wenn nicht nach § 118 des Bundesbeamtengesetzes die Spitzenorganisationen der zuständigen Gewerkschaften bei der Vorbereitung zu beteiligen sind,
 
-2.
+2. Auflösung, Einschränkung, Verlegung oder Zusammenlegung, Aufspaltung oder Ausgliederung von Dienststellen oder wesentlichen Teilen von ihnen,
 
-3.
+3. Übertragung von Aufgaben der Dienststelle, die üblicherweise von ihren Beschäftigten wahrgenommen werden, auf Dauer an Privatpersonen oder andere Rechtsträger in der Rechtsform des Privatrechts,
 
-4.
+4. Erlass einer Disziplinarverfügung gegen eine Beamtin oder einen Beamten, mit der eine Zurückstufung oder Entfernung aus dem Beamtenverhältnis ausgesprochen wird,
 
-5.
+5. Entlassung einer Beamtin oder eines Beamten auf Probe oder auf Widerruf, die oder der die Entlassung nicht selbst beantragt hat,
 
-6.
+6. vorzeitiger Versetzung in den Ruhestand und Feststellung der begrenzten Dienstfähigkeit.
 
 (2) Maßnahmen nach Absatz 1 Nummer 4 bis 6 gegenüber den in § 78 Absatz 4 genannten Beschäftigten unterliegen nicht der Mitwirkung. Im Übrigen wird der Personalrat in den Fällen des Absatzes 1 Nummer 4 bis 6 nur auf Antrag der oder des Beschäftigten beteiligt; die oder der Beschäftigte ist von der beabsichtigten Maßnahme rechtzeitig vorher in Kenntnis zu setzen. Der Personalrat kann bei der Mitwirkung nach Absatz 1 Nummer 4 Einwendungen auf die in § 78 Absatz 5 Nummer 1 und 2 bezeichneten Gründe stützen.
 
@@ -920,25 +910,25 @@ Die Leiterin oder der Leiter der Dienststelle kann bei Maßnahmen, die der Natur
 
 ### § 85 — Ordentliche Kündigung
 
-(1) Der Personalrat wirkt bei der ordentlichen Kündigung durch den Arbeitgeber mit. § 78 Absatz 4 gilt entsprechend. Der Personalrat kann gegen die Kündigung Einwendungen erheben, wenn nach seiner Ansicht Wird der Arbeitnehmerin oder dem Arbeitnehmer gekündigt, obwohl der Personalrat Einwendungen gegen die Kündigung erhoben hat, so ist dem Arbeitnehmer mit der Kündigung eine Kopie der Stellungnahme des Personalrats zuzuleiten, es sei denn, dass die Stufenvertretung in der Verhandlung nach § 82 Absatz 1 Satz 2 die Einwendungen nicht aufrechterhalten hat.
+(1) Der Personalrat wirkt bei der ordentlichen Kündigung durch den Arbeitgeber mit. § 78 Absatz 4 gilt entsprechend. Der Personalrat kann gegen die Kündigung Einwendungen erheben, wenn nach seiner Ansicht
 
-1.
+1. bei der Auswahl der zu kündigenden Arbeitnehmerin oder des zu kündigenden Arbeitnehmers soziale Gesichtspunkte nicht oder nicht ausreichend berücksichtigt worden sind,
 
-2.
+2. die Kündigung gegen eine Richtlinie nach § 80 Absatz 1 Nummer 12 verstößt,
 
-3.
+3. die zu kündigende Arbeitnehmerin oder der zu kündigende Arbeitnehmer an einem anderen Arbeitsplatz in derselben Dienststelle oder in einer anderen Dienststelle desselben Verwaltungszweiges an demselben Dienstort einschließlich seines Einzugsgebietes weiterbeschäftigt werden kann,
 
-4.
+4. die Weiterbeschäftigung der Arbeitnehmerin oder des Arbeitnehmers nach zumutbaren Umschulungs- oder Fortbildungsmaßnahmen möglich ist oder
 
-5.
+5. die Weiterbeschäftigung der Arbeitnehmerin oder des Arbeitnehmers unter geänderten Vertragsbedingungen möglich ist und die Arbeitnehmerin oder der Arbeitnehmer sich damit einverstanden erklärt.
 
 (2) Hat die Arbeitnehmerin oder der Arbeitnehmer im Fall des Absatzes 1 Satz 4 nach dem Kündigungsschutzgesetz Klage auf Feststellung erhoben, dass das Arbeitsverhältnis durch die Kündigung nicht aufgelöst ist, so muss der Arbeitgeber auf Verlangen der Arbeitnehmerin oder des Arbeitnehmers diese oder diesen nach Ablauf der Kündigungsfrist bis zum rechtskräftigen Abschluss des Rechtsstreits bei unveränderten Arbeitsbedingungen weiterbeschäftigen. Auf Antrag des Arbeitgebers kann das Arbeitsgericht ihn durch einstweilige Verfügung von der Verpflichtung zur Weiterbeschäftigung nach Satz 1 entbinden, wenn
 
-1.
+1. die Klage keine hinreichende Aussicht auf Erfolg bietet oder mutwillig erscheint,
 
-2.
+2. die Weiterbeschäftigung zu einer unzumutbaren wirtschaftlichen Belastung des Arbeitgebers führen würde oder
 
-3.
+3. der Widerspruch des Personalrats offensichtlich unbegründet war.
 
 (3) Eine Kündigung ist unwirksam, wenn der Personalrat nicht beteiligt worden ist.
 
@@ -992,8 +982,6 @@ Für die Rechtsstellung der Mitglieder der Stufenvertretung gilt Kapitel 2 Absch
 
 (4) Werden im Geschäftsbereich mehrstufiger Verwaltungen personelle oder soziale Maßnahmen von einer Dienststelle getroffen, bei der keine für eine Beteiligung an diesen Maßnahmen zuständige Personalvertretung vorgesehen ist, so ist die Stufenvertretung bei der nächsthöheren Dienststelle, zu deren Geschäftsbereich die entscheidende Dienststelle und die von der Entscheidung Betroffenen gehören, zu beteiligen.
 
-> (+++ § 92 Abs. 4: Zur Anwendung vgl. § 117 Abs. 5 § 92 Abs. 2: Zur Nichtanwendung vgl. § 125 Abs. 4 Satz 1 +++)
-
 ## Abschnitt 2: Bildung und Beteiligung des Gesamtpersonalrats
 
 ### § 93 — Errichtung
@@ -1034,11 +1022,11 @@ Für den Gesamtpersonalrat gelten § 89 Absatz 1, 2 und 4, § 90 Satz 1 sowie §
 
 (1) Vor Entscheidungen oberster Bundesbehörden oder Vorlagen an die Bundesregierung in Angelegenheiten des § 80 Absatz 1 Nummer 21, die die Geschäftsbereiche mehrerer oberster Bundesbehörden betreffen, ist der Arbeitsgemeinschaft der Hauptpersonalräte Gelegenheit zur Stellungnahme zu geben. Das Stellungnahmerecht erstreckt sich auch auf Maßnahmen, die
 
-1.
+1. mit den in Satz 1 genannten Angelegenheiten unmittelbar zusammenhängen,
 
-2.
+2. ebenfalls die Geschäftsbereiche mehrerer oberster Bundesbehörden betreffen und
 
-3.
+3. der Beteiligung nach Kapitel 4 unterlägen, wenn sie von einer Dienststelle nur für ihre Beschäftigten getroffen würden, mit Ausnahme personeller Einzelmaßnahmen.
 
 (2) Die federführend zuständige oberste Bundesbehörde unterrichtet die Arbeitsgemeinschaft der Hauptpersonalräte rechtzeitig und umfassend von der beabsichtigten Entscheidung und legt ihr die hierfür erforderlichen Unterlagen vor. Die Arbeitsgemeinschaft der Hauptpersonalräte teilt der obersten Bundesbehörde ihre Stellungnahme innerhalb einer Frist von vier Wochen mit, soweit nicht einvernehmlich eine andere Frist vereinbart ist. In dringenden Fällen kann die Dienststelle die Frist auf eine Woche verkürzen oder, sofern die Entscheidung der Natur der Sache nach keinen Aufschub duldet, die Stellungnahme nachträglich einholen. Auf Verlangen der Arbeitsgemeinschaft der Hauptpersonalräte ist die beabsichtigte Maßnahme mit ihr vor Abgabe der Stellungnahme zu erörtern.
 
@@ -1060,17 +1048,17 @@ In Dienststellen, bei denen Personalvertretungen gebildet sind und denen in der 
 
 (1) Die Jugend- und Auszubildendenvertretung besteht in Dienststellen mit in der Regel
 
-1.
+1. 5 bis 20 Beschäftigten, die das 18. Lebensjahr noch nicht vollendet haben oder sich in einer beruflichen Ausbildung befinden, aus einer Jugend- und Auszubildendenvertreterin oder einem Jugend- und Auszubildendenvertreter,
 
-2.
+2. 21 bis 50 der in Nummer 1 genannten Beschäftigten aus drei Jugend- und Auszubildendenvertreterinnen oder -vertretern,
 
-3.
+3. 51 bis 200 der in Nummer 1 genannten Beschäftigten aus fünf Jugend- und Auszubildendenvertreterinnen oder -vertretern,
 
-4.
+4. 201 bis 300 der in Nummer 1 genannten Beschäftigten aus sieben Jugend- und Auszubildendenvertreterinnen oder -vertretern,
 
-5.
+5. 301 bis 1 000 der in Nummer 1 genannten Beschäftigten aus elf Jugend- und Auszubildendenvertreterinnen oder ‑vertretern,
 
-6.
+6. mehr als 1 000 der in Nummer 1 genannten Beschäftigten aus 15 Jugend- und Auszubildendenvertreterinnen oder -vertretern.
 
 (2) Die Jugend- und Auszubildendenvertretung soll sich aus Vertreterinnen oder Vertretern der verschiedenen Beschäftigungsarten der Beschäftigten, die das 18. Lebensjahr noch nicht vollendet haben oder sich in einer beruflichen Ausbildung befinden, zusammensetzen.
 
@@ -1090,11 +1078,11 @@ In Dienststellen, bei denen Personalvertretungen gebildet sind und denen in der 
 
 Die Jugend- und Auszubildendenvertretung hat folgende allgemeine Aufgaben:
 
-1.
+1. Maßnahmen beim Personalrat zu beantragen, die den Beschäftigten dienen, die das 18. Lebensjahr noch nicht vollendet haben oder sich in einer beruflichen Ausbildung befinden, insbesondere Maßnahmen auf dem Gebiet der Berufsbildung,
 
-2.
+2. darüber zu wachen, dass die zugunsten der in Nummer 1 genannten Beschäftigten geltenden Gesetze, Verordnungen, Unfallverhütungsvorschriften, Tarifverträge, Dienstvereinbarungen und Verwaltungsanordnungen durchgeführt werden,
 
-3.
+3. Anregungen und Beschwerden der in Nummer 1 genannten Beschäftigten, insbesondere auf dem Gebiet der Berufsbildung, entgegenzunehmen und, falls die Anregungen und Beschwerden berechtigt erscheinen, beim Personalrat auf eine Erledigung hinzuwirken; die Jugend- und Auszubildendenvertretung hat die betroffenen Beschäftigten über den Stand und das Ergebnis der Verhandlungen zu informieren.
 
 ### § 104 — Zusammenarbeit mit dem Personalrat
 
@@ -1126,15 +1114,15 @@ Die Jugend- und Auszubildendenvertretung hat einmal in jedem Kalenderjahr eine J
 
 (1) Die Verwaltungsgerichte, im dritten Rechtszug das Bundesverwaltungsgericht, entscheiden in den Fällen der §§ 26, 30, 55 Absatz 1 und des § 56 sowie über
 
-1.
+1. Wahlberechtigung und Wählbarkeit,
 
-2.
+2. Wahl, Amtszeit und Zusammensetzung der Personalvertretungen und der Jugend- und Auszubildendenvertretungen,
 
-3.
+3. Zuständigkeit, Geschäftsführung und Rechtsstellung der Personalvertretungen und der Jugend- und Auszubildendenvertretungen,
 
-4.
+4. Rechtmäßigkeit eines Beschlusses der Einigungsstelle oder Aufhebung eines Beschlusses der Einigungsstelle durch die oberste Dienstbehörde sowie
 
-5.
+5. Bestehen oder Nichtbestehen von Dienstvereinbarungen.
 
 (2) Die Vorschriften des Arbeitsgerichtsgesetzes über das Beschlussverfahren gelten entsprechend.
 
@@ -1160,9 +1148,9 @@ Für die nachstehenden Zweige des öffentlichen Dienstes gilt dieses Gesetz, sow
 
 (3) Eine Beteiligung der Bundespolizeipersonalvertretung findet nicht statt bei
 
-1.
+1. Anordnungen für Polizeivollzugsbeamtinnen und -beamte, durch die Einsätze oder Einsatzübungen geregelt werden,
 
-2.
+2. der Einstellung von Polizeivollzugsbeamtinnen und -beamten für die Grundausbildung.
 
 ### § 112 — Bundesnachrichtendienst
 
@@ -1178,11 +1166,11 @@ Für die nachstehenden Zweige des öffentlichen Dienstes gilt dieses Gesetz, sow
 
 (6) § 125 ist mit den Maßgaben anzuwenden, dass
 
-1.
+1. § 125 Absatz 1 Satz 1 nur anzuwenden ist, wenn nicht alle Mitglieder der zuständigen Personalvertretung ermächtigt sind, von Verschlusssachen des entsprechenden Geheimhaltungsgrades Kenntnis zu erhalten;
 
-2.
+2. Personalvertretungen keine Ausschüsse bilden; an die Stelle der Ausschüsse der Personalvertretungen tritt der Ausschuss des Gesamtpersonalrats;
 
-3.
+3. die Präsidentin oder der Präsident des Bundesnachrichtendienstes außer in den Fällen des § 125 Absatz 5 auch bei Vorliegen besonderer nachrichtendienstlicher Gründe Anordnungen im Sinne des § 125 Absatz 5 treffen oder von einer Beteiligung absehen kann.
 
 (7) Bei Vorliegen besonderer Sicherheitsvorfälle oder einer besonderen Einsatzsituation, von der der Bundesnachrichtendienst ganz oder teilweise betroffen ist, ruhen die Rechte und Pflichten der zuständigen Personalvertretungen. Beginn und Ende des Ruhens der Befugnisse der Personalvertretung werden jeweils von der Präsidentin oder dem Präsidenten des Bundesnachrichtendienstes im Einvernehmen mit der Chefin oder dem Chef des Bundeskanzleramtes festgestellt.
 
@@ -1224,13 +1212,13 @@ Für die nachstehenden Zweige des öffentlichen Dienstes gilt dieses Gesetz, sow
 
 (3) Die Beschäftigten im Sinne des § 99 in beiden Dienststellen wählen neben den örtlichen Jugend- und Auszubildendenvertretungen eine Gesamt-Jugend- und -Auszubildendenvertretung. Absatz 2 Satz 3 gilt entsprechend. Der Sitz der Gesamt-Jugend- und -Auszubildendenvertretung ist am Sitz des Gesamtpersonalrats. Die für die Gesamt-Jugend- und -Auszubildendenvertretung maßgebenden Bestimmungen sind im Übrigen entsprechend anzuwenden.
 
-(4) Beschäftigte im Sinne dieses Gesetzes sind die durch Arbeitsvertrag unbefristet oder auf Zeit angestellten Beschäftigten der Deutschen Welle einschließlich der zu ihrer Berufsausbildung Beschäftigten. Als Beschäftigte der Deutschen Welle gelten auch arbeitnehmerähnliche Personen im Sinne des § 12a des Tarifvertragsgesetzes; für sie gilt dieses Gesetz entsprechend. Beschäftigte im Sinne dieses Gesetzes sind nicht: Beschäftigte, die in einer Einrichtung der Deutschen Welle im Ausland eingesetzt sind, sowie Volontärinnen und Volontäre sind nicht wählbar.
+(4) Beschäftigte im Sinne dieses Gesetzes sind die durch Arbeitsvertrag unbefristet oder auf Zeit angestellten Beschäftigten der Deutschen Welle einschließlich der zu ihrer Berufsausbildung Beschäftigten. Als Beschäftigte der Deutschen Welle gelten auch arbeitnehmerähnliche Personen im Sinne des § 12a des Tarifvertragsgesetzes; für sie gilt dieses Gesetz entsprechend. Beschäftigte im Sinne dieses Gesetzes sind nicht:
 
-1.
+1. die Intendantin oder der Intendant, die Direktorinnen und Direktoren sowie die Justitiarin oder der Justitiar,
 
-2.
+2. arbeitnehmerähnliche Personen im Sinne des § 12a des Tarifvertragsgesetzes, die maßgeblich an der Programmgestaltung beteiligt sind,
 
-3.
+3. sonstige freie Mitarbeiterinnen und Mitarbeiter sowie Personen, die auf Produktionsdauer beschäftigt sind.
 
 (5) § 46 Absatz 2 Satz 1 ist mit der Maßgabe anzuwenden, dass an die Stelle des Bundesreisekostengesetzes die Reisekostenordnung der Deutschen Welle tritt.
 
@@ -1246,11 +1234,11 @@ Für die nachstehenden Zweige des öffentlichen Dienstes gilt dieses Gesetz, sow
 
 (4) § 84 Absatz 1 Nummer 2 findet bei der Auflösung, Einschränkung, Verlegung, Zusammenlegung, Aufspaltung oder Ausgliederung von militärischen Dienststellen und Einrichtungen oder wesentlichen Teilen von ihnen keine Anwendung, soweit militärische Gründe entgegenstehen.
 
-(5) § 92 Absatz 4 ist mit den Maßgaben anzuwenden, dass (6) Die Mitgliedschaft in einem Personalrat beim Bundesamt für den Militärischen Abschirmdienst ruht bei Personen, die zu einer sicherheitsempfindlichen Tätigkeit nicht zugelassen sind.
+(5) § 92 Absatz 4 ist mit den Maßgaben anzuwenden, dass
 
-1.
+1. bei personellen oder sozialen Maßnahmen, die von einer Dienststelle, bei der keine für eine Beteiligung an diesen Maßnahmen zuständige Personalvertretung vorgesehen ist, mit Wirkung für einzelne Beschäftigte einer ihr nicht nachgeordneten Dienststelle getroffen werden, der Personalrat dieser Dienststelle von deren Leiterin oder Leiter zu beteiligen ist, nachdem zuvor ein Einvernehmen zwischen den Dienststellen über die beabsichtigte Maßnahme hergestellt worden ist;
 
-2.
+2. bei innerdienstlichen oder sozialen Angelegenheiten, die Liegenschaften eines Dienstortes betreffen, die Beteiligung durch einen Ausschuss ausgeübt wird, der bei der für die Entscheidung zuständigen Stelle eingerichtet ist, sofern ein solcher gebildet worden ist und das gesetzlich zuständige Beteiligungsgremium zugestimmt hat. Die Aufgaben und Befugnisse der Leiterin oder des Leiters der Dienststelle werden in diesen Fällen durch die für die Entscheidung zuständige Stelle wahrgenommen. Kommt im Beteiligungsverfahren eine Einigung nicht zustande, richtet sich das weitere Verfahren nach den §§ 71 bis 75 oder nach § 82.
 
 ## Abschnitt 2: Dienststellen des Bundes im Ausland
 
@@ -1278,11 +1266,11 @@ Für die Dienststellen des Bundes im Ausland gilt dieses Gesetz, soweit im Folge
 
 (3) Der Personalrat und die Vertrauensperson der lokal Beschäftigten arbeiten vertrauensvoll zusammen. Die Vertrauensperson der lokal Beschäftigten nimmt Anregungen, Anträge und Beschwerden der lokal Beschäftigten in innerdienstlichen, sozialen und persönlichen Angelegenheiten entgegen und vertritt sie gegenüber der Leiterin oder dem Leiter der Dienststelle und dem Personalrat. Vor der Beschlussfassung in Angelegenheiten, die die besonderen Interessen der lokal Beschäftigten wesentlich berühren, hat der Personalrat der Vertrauensperson der lokal Beschäftigten Gelegenheit zur Äußerung zu geben. Die Vertrauensperson der lokal Beschäftigten hat in solchen Angelegenheiten das Recht, der Leiterin oder dem Leiter der Dienststelle schriftlich oder elektronisch Vorschläge zu unterbreiten. Die Leiterin oder der Leiter der Dienststelle hat der Vertrauensperson der lokal Beschäftigten vor Entscheidungen in Personalangelegenheiten und sozialen Angelegenheiten der Beschäftigten, die die Interessen von einzelnen oder von allen lokal Beschäftigten wesentlich berühren, Gelegenheit zur Äußerung zu geben. Gelegenheit zur Äußerung ist insbesondere zu geben vor der Einstellung und Kündigung lokal Beschäftigter sowie vor dem Erlass allgemeiner Verwaltungsanordnungen, bezüglich derer der Personalrat ein Beteiligungsrecht nach diesem Gesetz hat.
 
-(4) Für die Vertrauensperson der lokal Beschäftigten gelten § 2 Absatz 5, die §§ 45 bis 52 Absatz 1 Satz 1, § 59 Absatz 2 sowie § 65 entsprechend. Der Personalrat und die Vertrauensperson der lokal Beschäftigten können vereinbaren, dass Die Leiterin oder der Leiter der Dienststelle kann der gemeinsamen Wahrnehmung oder Einberufung einer gemeinsamen Personalversammlung widersprechen, wenn dienstliche Interessen der Bundesrepublik Deutschland entgegenstehen.
+(4) Für die Vertrauensperson der lokal Beschäftigten gelten § 2 Absatz 5, die §§ 45 bis 52 Absatz 1 Satz 1, § 59 Absatz 2 sowie § 65 entsprechend. Der Personalrat und die Vertrauensperson der lokal Beschäftigten können vereinbaren, dass
 
-1.
+1. Besprechungen im Sinne des § 65 durch den Personalrat und die Vertrauensperson der lokal Beschäftigten gemeinsam wahrgenommen werden,
 
-2.
+2. eine gemeinsame Personalversammlung der lokal Beschäftigten und der Beschäftigten im Sinne des § 4 Absatz 1 Nummer 5 einberufen wird. § 61 Absatz 2 findet im Hinblick auf die lokal Beschäftigten keine Anwendung.
 
 ### § 121 — Ergänzende Regelungen für die Dienststellen im Geschäftsbereich des Auswärtigen Amts mit Ausnahme der Dienststellen des Deutschen Archäologischen Instituts
 
@@ -1328,8 +1316,6 @@ Auf die Dienststellen des Bundesnachrichtendienstes im Ausland findet § 119 Abs
 
 (5) Die oberste Dienstbehörde kann anordnen, dass in den Fällen des Absatzes 1 Satz 1 dem Ausschuss und der Einigungsstelle Unterlagen nicht vorgelegt und Auskünfte nicht erteilt werden dürfen, soweit dies zur Vermeidung von Nachteilen für das Wohl der Bundesrepublik Deutschland oder eines ihrer Länder oder auf Grund internationaler Verpflichtungen geboten ist. Im Verfahren nach § 108 sind die gesetzlichen Voraussetzungen für die Anordnung glaubhaft zu machen.
 
-> (+++ § 125: Zur Anwendung vgl. § 112 Abs. 6 § 15: Zur Nichtanwendung vgl. § 113 Abs. 3 +++)
-
 ## Teil 2: Für die Länder geltende Vorschriften
 
 ### § 126 — Anwendungsbereich
@@ -1352,19 +1338,19 @@ Eine durch den Arbeitgeber ausgesprochene Kündigung des Arbeitsverhältnisses e
 
 Die Bundesregierung wird ermächtigt, zur Durchführung der in diesem Gesetz bezeichneten Wahlen durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Vorschriften zu erlassen über
 
-1.
+1. die Vorbereitung der Wahl, insbesondere die Aufstellung der Wählerlisten und die Errechnung der Vertreterzahl,
 
-2.
+2. die Frist für die Einsichtnahme in die Wählerlisten und die Erhebung von Einsprüchen,
 
-3.
+3. die Vorschlagslisten und die Frist für ihre Einreichung,
 
-4.
+4. das Wahlausschreiben und die Fristen für seine Bekanntmachung,
 
-5.
+5. die Stimmabgabe,
 
-6.
+6. die Feststellung des Wahlergebnisses und die Fristen für seine Bekanntmachung,
 
-7.
+7. die Aufbewahrung der Wahlakten.
 
 ### § 130 — (weggefallen)
 

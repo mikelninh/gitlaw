@@ -19,7 +19,11 @@ Fahrzeuge aus dem Hoheitsgebiet der Republik Kroatien werden nach Maßgabe des i
 
 ### Art 2
 
-(1) Diese Verordnung tritt an dem Tage in Kraft, an dem das Abkommen nach seinem Artikel 4 Abs. 1 Satz 2 in Kraft tritt.(2) Diese Verordnung tritt an dem Tage außer Kraft, an dem das Abkommen außer Kraft tritt.(3) Der Tag des Inkrafttretens und der Tag des Außerkrafttretens sind im Bundesgesetzblatt bekanntzugeben.
+(1) Diese Verordnung tritt an dem Tage in Kraft, an dem das Abkommen nach seinem Artikel 4 Abs. 1 Satz 2 in Kraft tritt.
+
+(2) Diese Verordnung tritt an dem Tage außer Kraft, an dem das Abkommen außer Kraft tritt.
+
+(3) Der Tag des Inkrafttretens und der Tag des Außerkrafttretens sind im Bundesgesetzblatt bekanntzugeben.
 
 ### Schlußformel
 

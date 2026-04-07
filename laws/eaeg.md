@@ -12,19 +12,19 @@
 
 (1) Institute im Sinne dieses Gesetzes sind
 
-1.
+1. Wertpapierinstitute, denen eine Erlaubnis zur Erbringung von Wertpapierdienstleistungen im Sinne des § 2 Absatz 1 Nummer 1 bis 10 Buchstabe a bis c des Wertpapierinstitutsgesetzes erteilt ist,
 
-2.
+2. Kreditinstitute oder Finanzdienstleistungsinstitute, denen eine Erlaubnis zum Betreiben von Bankgeschäften im Sinne des § 1 Absatz 1 Satz 2 Nummer 4 oder Nummer 10 Kreditwesengesetzes oder zur Erbringung von Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 1 bis 4 Buchstabe a bis c Kreditwesengesetzes erteilt ist, soweit sie keine CRR-Kreditinstitute im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes sind und nicht in Artikel 2 Absatz 5 Nummer 5 der Richtlinie 2013/36/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von Kreditinstituten und Wertpapierfirmen, zur Änderung der Richtlinie 2002/87/EG und zur Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG (ABl. L 176 vom 27.6.2013, S. 338; L 208 vom 2.8.2013, S. 73; L 20 vom 25.1.2017, S. 1; L 203 vom 26.6.2020, S. 95), die zuletzt durch die Richtlinie (EU) 2019/2034 (ABl. L 314 vom 5.12.2019, S. 64) geändert worden ist, genannt werden, und,
 
-3.
+3. externe Kapitalverwaltungsgesellschaften, denen eine Erlaubnis nach § 20 Absatz 1 in Verbindung mit § 21 oder § 22 des Kapitalanlagegesetzbuchs erteilt ist und die zur Erbringung der in § 20 Absatz 2 Nummer 1, 2 und 3 oder Absatz 3 Nummer 2 bis 5 des Kapitalanlagegesetzbuchs genannten Dienst- oder Nebendienstleistungen befugt sind.
 
-(2) Wertpapiergeschäfte im Sinne dieses Gesetzes sind soweit sie sich nicht auf Rechnungseinheiten im Sinne des § 1 Absatz 11 Satz 1 Nummer 7 des Kreditwesengesetzes beziehen.
+(2) Wertpapiergeschäfte im Sinne dieses Gesetzes sind
 
-1.
+1. Bankgeschäfte oder Finanzdienstleistungen im Sinne des § 1 Absatz 1 Satz 2 Nummer 4, 5 oder Nummer 10 oder Absatz 1a Satz 2 Nummer 1 bis 4 des Kreditwesengesetzes,
 
-2.
+2. Wertpapierdienstleistungen und Wertpapiernebendienstleistungen im Sinne des § 2 Absatz 2 Nummer 1 bis 10 oder Absatz 3 Nummer 1 des Wertpapierinstitutsgesetzes oder
 
-3.
+3. Dienstleistungen und Nebendienstleistungen nach § 20 Absatz 2 Nummer 1, 2 und 3 oder Absatz 3 Nummer 2 bis 5 des Kapitalanlagegesetzbuchs,
 
 (3) Verbindlichkeiten aus Wertpapiergeschäften im Sinne dieses Gesetzes sind die Verpflichtungen eines Instituts zur Rückzahlung von Geldern, die Anlegern aus Wertpapiergeschäften geschuldet werden oder gehören und die für deren Rechnung im Zusammenhang mit Wertpapiergeschäften gehalten werden. Hierzu gehören auch Ansprüche von Anlegern auf Herausgabe von Instrumenten, deren Eigentümer diese sind und die für deren Rechnung im Zusammenhang mit Wertpapiergeschäften gehalten oder verwahrt werden.
 
@@ -38,27 +38,27 @@ Die Institute sind verpflichtet, ihre Verbindlichkeiten aus Wertpapiergeschäfte
 
 (1) Der Gläubiger eines Instituts hat im Entschädigungsfall gegen die Entschädigungseinrichtung einen Anspruch auf Entschädigung nach Maßgabe des § 4.
 
-(2) Keinen Anspruch haben Hat der Gläubiger des Instituts für Rechnung eines Dritten gehandelt und ist das Treuhandverhältnis eindeutig als solches gekennzeichnet, so ist für die Feststellung der Berechtigung des Anspruchs nach Satz 1 auf den Dritten abzustellen.
+(2) Keinen Anspruch haben
 
-1.
+1. CRR-Kreditinstitute im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes einschließlich Zweigstellen von Unternehmen mit Sitz im Ausland, denen eine Erlaubnis gemäß § 1 Absatz 1 Satz 2 Nummer 1 und 2 des Kreditwesengesetzes erteilt ist, Wertpapierfirmen im Sinne des Artikels 4 Absatz 1 Nummer 1 der Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates vom 21. April 2004 über Märkte für Finanzinstrumente, zur Änderung der Richtlinien 85/611/EWG und 93/6/EWG des Rates und der Richtlinie 2000/12/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 93/22/EWG des Rates (ABl. L 145 vom 30.4.2004, S. 1) und Finanzinstitute im Sinne des Artikels 4 Absatz 1 Nummer 26 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1) mit Sitz im In- oder Ausland, soweit sie im eigenen Namen und auf eigene Rechnung handeln,
 
-2.
+2. private und öffentlich-rechtliche Versicherungsunternehmen mit Sitz im In- oder Ausland,
 
-3.
+3. Verwaltungsgesellschaften im Sinne des § 1 Absatz 14 des Kapitalanlagegesetzbuchs mit Sitz im In- oder Ausland einschließlich der von ihnen verwalteten inländischen, EU- und ausländischen Investmentvermögen im Sinne des § 1 Absatz 1 des Kapitalanlagegesetzbuchs,
 
-4.
+4. der Bund, ein Land, ein rechtlich unselbständiges Sondervermögen des Bundes oder eines Landes, eine kommunale Gebietskörperschaft, ein anderer Staat oder eine Regionalregierung oder eine örtliche Gebietskörperschaft eines anderen Staates,
 
-5.
+5. Geschäftsleiter, persönlich haftende Gesellschafter oder Mitglieder von Aufsichtsorganen des Instituts, Personen, die mindestens 5 Prozent des Kapitals des Instituts halten, Prüfer im Sinne des § 28 des Kreditwesengesetzes, des § 77 des Wertpapierinstitutsgesetzes oder des § 38 Absatz 2 des Kapitalanlagegesetzbuchs und Gläubiger, die eine entsprechende Stellung oder Funktion in einem Unternehmen haben, das mit dem Institut einen Konzern im Sinne des § 18 des Aktiengesetzes, ohne dass es auf die Rechtsform ankommt, bildet,
 
-6.
+6. Ehegatten, Lebenspartner und Verwandte ersten und zweiten Grades der unter Nummer 5 genannten Personen, es sei denn, dass die Gelder oder Finanzinstrumente aus dem eigenen Vermögen der Ehegatten, Lebenspartner oder Verwandten stammen,
 
-7.
+7. Unternehmen, die mit dem Institut einen Konzern im Sinne des § 18 des Aktiengesetzes, ohne dass es auf die Rechtsform ankommt, bilden,
 
-8.
+8. Gläubiger, die bei dem Institut Sachverhalte herbeigeführt oder genutzt haben, welche die finanziellen Schwierigkeiten verursacht oder wesentlich zur Verschlechterung der finanziellen Lage des Instituts beigetragen haben; dies sind insbesondere Gläubiger, die auf Grund einzeln ausgehandelter Vereinbarungen hohe Zinsen oder finanzielle Vorteile erhalten haben,
 
-9.
+9. Unternehmen, die nach den Vorschriften des Dritten Buchs des Handelsgesetzbuchs einen Lagebericht aufzustellen haben oder nur wegen ihrer Einbeziehung in einen Konzernabschluss von dieser Verpflichtung befreit sind, und vergleichbare Unternehmen mit Sitz im Ausland sowie
 
-10.
+10. Gläubiger, deren Ansprüche gegen das Institut im Zusammenhang mit Geschäften stehen, auf Grund derer Personen in einem Strafverfahren wegen Geldwäsche im Sinne des Artikels 1 der Richtlinie 2005/60/EG des Europäischen Parlaments und des Rates vom 26. Oktober 2005 zur Verhinderung der Nutzung des Finanzsystems zum Zwecke der Geldwäsche und der Terrorismusfinanzierung (ABl. L 309 vom 25.11.2005, S. 15) rechtskräftig verurteilt worden sind.
 
 (3) Der Anspruch des Entschädigungsberechtigten gegen die Entschädigungseinrichtung verjährt in fünf Jahren nach Unterrichtung des Entschädigungsberechtigten über den Entschädigungsfall gemäß § 5 Absatz 4 Satz 1.
 
@@ -70,7 +70,7 @@ Die Institute sind verpflichtet, ihre Verbindlichkeiten aus Wertpapiergeschäfte
 
 (1) Der Entschädigungsanspruch des Gläubigers des Instituts richtet sich nach der Höhe und dem Umfang der ihm gegenüber bestehenden Verbindlichkeiten aus Wertpapiergeschäften unter Berücksichtigung etwaiger Aufrechnungs- und Zurückbehaltungsrechte des Instituts. Ein Entschädigungsanspruch besteht nicht, soweit Gelder nicht auf die Währung eines EU-Mitgliedstaates oder auf Euro lauten.
 
-(2) Der Entschädigungsanspruch ist der Höhe nach begrenzt auf 90 Prozent der Verbindlichkeiten aus Wertpapiergeschäften und den Gegenwert von 20 000 Euro.
+(2) Der Entschädigungsanspruch ist der Höhe nach begrenzt auf 90 Prozent der Verbindlichkeiten aus Wertpapiergeschäften und den Gegenwert von 20 000 Euro.
 
 (3) Bei der Berechnung der Höhe des Entschädigungsanspruchs ist der Betrag der Gelder und der Marktwert der Finanzinstrumente bei Eintritt des Entschädigungsfalles zugrunde zu legen. Der Entschädigungsanspruch umfasst im Rahmen der Obergrenze nach Absatz 2 auch Ansprüche auf Zinsen. Diese bestehen ab dem Eintritt des Entschädigungsfalles bis zur Rückzahlung der Verbindlichkeiten, längstens bis zur Eröffnung des Insolvenzverfahrens. Der Entschädigungsanspruch mindert sich insoweit, als der durch den Entschädigungsfall eingetretene Vermögensverlust des Gläubigers durch Leistungen Dritter ausgeglichen wird.
 
@@ -118,11 +118,11 @@ Die Institute sind verpflichtet, ihre Verbindlichkeiten aus Wertpapiergeschäfte
 
 ### § 7 — Beliehene Entschädigungseinrichtung; Verordnungsermächtigung
 
-(1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung Aufgaben und Befugnisse der Entschädigungseinrichtung einer juristischen Person des Privatrechts zuzuweisen, wenn diese bereit ist, die Aufgaben der Entschädigungseinrichtung zu übernehmen, und hinreichende Gewähr für die Erfüllung der Ansprüche der Entschädigungsberechtigten bietet (beliehene Entschädigungseinrichtung). Eine juristische Person bietet hinreichende Gewähr, wenn Durch die Rechtsverordnung nach Satz 1 kann sich das Bundesministerium der Finanzen die Genehmigung der Satzung der juristischen Person und die Genehmigung von Satzungsänderungen vorbehalten.
+(1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung Aufgaben und Befugnisse der Entschädigungseinrichtung einer juristischen Person des Privatrechts zuzuweisen, wenn diese bereit ist, die Aufgaben der Entschädigungseinrichtung zu übernehmen, und hinreichende Gewähr für die Erfüllung der Ansprüche der Entschädigungsberechtigten bietet (beliehene Entschädigungseinrichtung). Eine juristische Person bietet hinreichende Gewähr, wenn
 
-1.
+1. die Personen, die nach Gesetz oder Satzung die Geschäftsführung und Vertretung der juristischen Person ausüben, zuverlässig und geeignet sind,
 
-2.
+2. die juristische Person über die zur Erfüllung der Aufgaben der Entschädigungseinrichtung notwendige Ausstattung und Organisation, insbesondere in Bezug auf die Beitragseinziehung, die Verwaltung der Mittel und die Auszahlung der Entschädigungen, verfügt und dafür eigene Mittel im Gegenwert von mindestens 1 Million Euro vorhält.
 
 (2) Im Fall der Beleihung nach Absatz 1 tritt die juristische Person des Privatrechts in die Rechte und Pflichten der Entschädigungseinrichtung nach § 6 ein. Die Bestimmungen des § 6 Absatz 1 über die Zuordnung der Institute sowie des § 6 Absatz 4 bis 6 sind entsprechend anzuwenden.
 
@@ -204,15 +204,15 @@ Personen, die bei der Entschädigungseinrichtung beschäftigt oder für sie tät
 
 ### § 13a — Verarbeitung personenbezogener Daten
 
-(1) Die Entschädigungseinrichtung ist befugt, personenbezogene Daten zu verarbeiten, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist. Verarbeitet die Entschädigungseinrichtung im Zuge einer Maßnahme zur Durchführung ihrer Aufgaben nach diesem Gesetz personenbezogene Daten, stehen den betroffenen Personen die Rechte aus den Artikeln 15 bis 18 und 20 bis 22 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung nicht zu, soweit die Erfüllung der Rechte der betroffenen Personen Folgendes gefährden würde:Unter diesen Voraussetzungen ist die Entschädigungseinrichtung auch von den Pflichten nach den Artikeln 5, 12 bis 14, 19 und 34 der Verordnung (EU) 2016/679 befreit.
+(1) Die Entschädigungseinrichtung ist befugt, personenbezogene Daten zu verarbeiten, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist. Verarbeitet die Entschädigungseinrichtung im Zuge einer Maßnahme zur Durchführung ihrer Aufgaben nach diesem Gesetz personenbezogene Daten, stehen den betroffenen Personen die Rechte aus den Artikeln 15 bis 18 und 20 bis 22 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung nicht zu, soweit die Erfüllung der Rechte der betroffenen Personen Folgendes gefährden würde:
 
-1.
+1. die Stabilität und Integrität der Finanzmärkte der Bundesrepublik Deutschland oder eines oder mehrerer Mitgliedstaaten des Europäischen Wirtschaftsraums,
 
-2.
+2. den Zweck der Maßnahme,
 
-3.
+3. ein sonstiges wichtiges Ziel des allgemeinen öffentlichen Interesses der Bundesrepublik Deutschland oder eines oder mehrerer Mitgliedstaaten des Europäischen Wirtschaftsraums, insbesondere ein wichtiges wirtschaftliches oder finanzielles Interesse, oder
 
-4.
+4. die Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder die Strafvollstreckung, einschließlich des Schutzes vor und der Abwehr von Gefahren für die öffentliche Sicherheit.
 
 (2) Die jeweils betroffene Person ist über das Ende der Beschränkung in geeigneter Form zu unterrichten, sofern dies nicht dem Zweck der Beschränkung abträglich ist.
 
@@ -238,7 +238,7 @@ Die Vorschriften des Versicherungsaufsichtsgesetzes gelten nicht für Entschädi
 
 (1) Die Entschädigungseinrichtung kann die Befolgung der Verfügungen, die sie innerhalb ihrer gesetzlichen Befugnisse trifft, mit Zwangsmitteln nach den Bestimmungen des Verwaltungsvollstreckungsgesetzes durchsetzen.
 
-(2) Die Höhe des Zwangsgeldes beträgt bei Maßnahmen gemäß § 8 Absatz 1, 2 Satz 1, § 9 Absatz 2 Satz 1, Absatz 3 und 6 Satz 1 und 2 bis zu 50 000 Euro, bei Maßnahmen nach § 9 Absatz 1 Satz 1 bis zu 100 000 Euro.
+(2) Die Höhe des Zwangsgeldes beträgt bei Maßnahmen gemäß § 8 Absatz 1, 2 Satz 1, § 9 Absatz 2 Satz 1, Absatz 3 und 6 Satz 1 und 2 bis zu 50 000 Euro, bei Maßnahmen nach § 9 Absatz 1 Satz 1 bis zu 100 000 Euro.
 
 ### § 17 — Zeitlicher Anwendungsbereich
 
@@ -254,10 +254,10 @@ Die Vorschriften des Versicherungsaufsichtsgesetzes gelten nicht für Entschädi
 
 (3) Für Entschädigungsfälle, die vor dem 30. Juni 2009 festgestellt worden sind und bei denen das Entschädigungsverfahren noch nicht abgeschlossen ist, ist § 8 Abs. 3 bis 10 in der ab dem 30. Juni 2009 geltenden Fassung mit folgenden Maßgaben anzuwenden:
 
-1.
+1. An die Stelle der Unterrichtung durch die Bundesanstalt nach § 8 Abs. 3 Satz 1 tritt der 30. Juni 2009.
 
-2.
+2. Hat die Entschädigungseinrichtung zur Deckung des Mittelbedarfs bereits vor dem 30. Juni 2009 einen Kredit aufgenommen, entfällt die Verpflichtung zur Erhebung von Sonderbeiträgen nach § 8 Abs. 3 Satz 1, soweit der Mittelbedarf durch den Kredit gedeckt wird.
 
 (4) Kapitalanlagegesellschaften, die am 29. Juni 2009 eine Erlaubnis zum Erbringen der individuellen Vermögensverwaltung nach § 7 Abs. 2 Nr. 1 des Investmentgesetzes haben und von dieser Erlaubnis länger als ein Jahr keinen Gebrauch gemacht haben, gelten bis zum 29. September 2009 nicht als Institute im Sinne des § 1 Abs. 1 Nr. 4.
 
-(5) Wertpapiergeschäfte im Sinne des § 1 Absatz 2 Nummer 1, die sich auf Rechnungseinheiten im Sinne des § 1 Absatz 11 Nummer 7 des Kreditwesengesetzes beziehen und die vor dem 1. Januar 2020 abgeschlossen worden sind, gelten als Wertpapiergeschäfte im Sinne dieses Gesetzes.
+(5) Wertpapiergeschäfte im Sinne des § 1 Absatz 2 Nummer 1, die sich auf Rechnungseinheiten im Sinne des § 1 Absatz 11 Nummer 7 des Kreditwesengesetzes beziehen und die vor dem 1. Januar 2020 abgeschlossen worden sind, gelten als Wertpapiergeschäfte im Sinne dieses Gesetzes.

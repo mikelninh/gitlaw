@@ -30,15 +30,15 @@ Anträge müssen schriftlich eingereicht werden und den Namen und die Anschrift 
 
 ### § 4 — Prüfkriterien, Anforderungen, sachliche Geltungsbereiche
 
-(1) Das Bundesamt bestimmt, soweit erforderlich, für Zertifizierungs- und Anerkennungsverfahren nach dieser Verordnung und veröffentlicht diese auf seiner Internetseite.
+(1) Das Bundesamt bestimmt, soweit erforderlich, für Zertifizierungs- und Anerkennungsverfahren nach dieser Verordnung
 
-1.
+1. technische Geltungsbereiche,
 
-2.
+2. bedarfsgerechte Prüfkriterien (Sicherheitskriterien, Schutzprofile, Technische Richtlinien und BSI-Standards),
 
-3.
+3. Anforderungen an die Fachkunde, Ausstattung und Zuverlässigkeit und
 
-4.
+4. notwendige Nachweise
 
 (2) Das Bundesamt bestimmt das Verfahren zur Erteilung von Zertifikaten und Anerkennungen nach dieser Verordnung und veröffentlicht hierzu Verfahrensbeschreibungen auf seiner Internetseite.
 
@@ -78,19 +78,19 @@ Anträge müssen schriftlich eingereicht werden und den Namen und die Anschrift 
 
 (2) Der Antrag muss neben den nach § 2 erforderlichen Angaben Folgendes enthalten:
 
-1.
+1. Angaben über die nach § 4 Absatz 1 anzuwendenden Prüfkriterien und die angestrebte Bewertungsstufe,
 
-2.
+2. die genaue Bezeichnung des zu zertifizierenden Produkts oder der zu zertifizierenden Komponente,
 
-3.
+3. Angaben über Hersteller und Rechteinhaber des zu zertifizierenden Produkts oder der zu zertifizierenden Komponente,
 
-4.
+4. eine Darstellung des Entwicklungs- und Fertigungsstandes,
 
-5.
+5. die Angabe der vom Bundesamt anerkannten sachverständigen Stelle, die für die Prüfung und Bewertung vorgesehen ist,
 
-6.
+6. soweit vorhanden, Angaben über bereits erfolgte Prüfungen und Bewertungen durch andere sachverständige Stellen sowie
 
-7.
+7. die Zustimmung zur Veröffentlichung einer erteilten Zertifizierung nach § 7 Absatz 1 oder den Widerspruch gegen die Veröffentlichung nach § 7 Absatz 5 Satz 1.
 
 ### § 9 — Zertifizierung von informationstechnischen Systemen
 
@@ -98,17 +98,17 @@ Anträge müssen schriftlich eingereicht werden und den Namen und die Anschrift 
 
 (2) Der Antrag muss neben den nach § 2 erforderlichen Angaben Folgendes enthalten:
 
-1.
+1. Angaben zu den nach § 4 Absatz 1 anzuwendenden Prüfkriterien und die angestrebte Bewertungsstufe,
 
-2.
+2. die genaue Bezeichnung des zu zertifizierenden Systems,
 
-3.
+3. eine Darstellung des Entwicklungs- und Fertigungsstandes sowie Angaben über Hersteller und Rechteinhaber der verwendeten informationstechnischen Produkte,
 
-4.
+4. die Angabe der vom Bundesamt anerkannten sachverständigen Stelle, die für die Prüfung und Bewertung vorgesehen ist,
 
-5.
+5. soweit vorhanden, Angaben über Prüfungen und Bewertungen durch andere Personen oder sachverständige Stellen sowie
 
-6.
+6. die Zustimmung zur Veröffentlichung einer erteilten Zertifizierung nach § 7 Absatz 1 oder den Widerspruch gegen die Veröffentlichung nach § 7 Absatz 5 Satz 1.
 
 ### § 10 — Zertifizierung von Schutzprofilen
 
@@ -116,17 +116,17 @@ Anträge müssen schriftlich eingereicht werden und den Namen und die Anschrift 
 
 (2) Der Antrag muss neben den nach § 2 erforderlichen Angaben Folgendes enthalten:
 
-1.
+1. Angaben zu den nach § 4 Absatz 1 anzuwendenden Prüfkriterien und die angestrebte Bewertungsstufe,
 
-2.
+2. die genaue Bezeichnung des zu zertifizierenden Schutzprofils,
 
-3.
+3. soweit vorhanden, Angaben über den Autor des Schutzprofils, falls Autor und Antragsteller nicht identisch sind,
 
-4.
+4. die Einwilligung des Antragstellers und Rechteinhabers, das Schutzprofil kostenfrei bereitzustellen,
 
-5.
+5. die Angabe der vom Bundesamt anerkannten sachverständigen Stelle, die für die Prüfung und Bewertung vorgesehen ist, sowie
 
-6.
+6. die Zustimmung zur Veröffentlichung einer erteilten Zertifizierung nach § 7 Absatz 1 oder den Widerspruch gegen die Veröffentlichung nach § 7 Absatz 5 Satz 1.
 
 ### § 11 — Mitwirkungsobliegenheiten
 
@@ -142,47 +142,47 @@ Anträge müssen schriftlich eingereicht werden und den Namen und die Anschrift 
 
 (1) Ein Zertifikat nach § 52 Absatz 4 des BSI-Gesetzes wird erteilt, wenn
 
-1.
+1. die Prüfung und die Bewertung ergeben, dass das geprüfte informationstechnische Produkt, die informationstechnische Komponente, das informationstechnische System oder das Schutzprofil die Prüfkriterien nach § 4 Absatz 1 erfüllt, und
 
-2.
+2. das Bundesministerium des Innern, für Bau und Heimat nach § 9 Absatz 4 Nummer 2 des BSI-Gesetzes festgestellt hat, dass überwiegende öffentliche Interessen, insbesondere sicherheitspolitische Belange der Bundesrepublik Deutschland, der Erteilung nicht entgegenstehen.
 
 (2) Das Zertifikat ist vom Bundesamt zu befristen. Das Bundesamt setzt die Geltungsdauer für den jeweiligen technischen Geltungsbereich fest.
 
-(3) Das Zertifikat für informationstechnische Produkte, Systeme, Komponenten sowie für Schutzprofile enthält: Dem Sicherheitszertifikat wird ein Zertifizierungsbericht beigefügt.
+(3) Das Zertifikat für informationstechnische Produkte, Systeme, Komponenten sowie für Schutzprofile enthält:
 
-1.
+1. die Zertifizierungsnummer,
 
-2.
+2. die Angabe der Prüfkriterien, soweit sie bekannt gemacht sind,
 
-3.
+3. den Namen der vom Bundesamt anerkannten sachverständigen Stelle, deren Prüfung und Bewertung der Zertifizierung zugrunde gelegt wurde,
 
-4.
+4. etwaige Nebenbestimmungen nach § 22,
 
-5.
+5. Ausstellungsort und -datum des Sicherheitszertifikats sowie
 
-6.
+6. die Geltungsdauer des Sicherheitszertifikats.
 
 (4) Das Zertifikat für informationstechnische Produkte oder Komponenten enthält zusätzlich zu Absatz 3 folgende Angaben:
 
-1.
+1. die Bezeichnung, die Beschreibung und die Angabe des Herstellers des geprüften Produkts oder der Komponente,
 
-2.
+2. die Angabe der zum geprüften Produkt oder zur Komponente gehörenden Dokumentationen,
 
-3.
+3. die Beschreibung der Sicherheitsfunktionen und
 
-4.
+4. die erreichte Bewertungsstufe oder den Prüfumfang.
 
 (5) Das Zertifikat für informationstechnische Systeme enthält zusätzlich zu Absatz 3 folgende Angaben:
 
-1.
+1. die Bezeichnung und die Beschreibung des geprüften Systems und der relevanten Standorte und
 
-2.
+2. soweit erforderlich, die Angabe der zum geprüften System und Standort gehörenden sicherheitsrelevanten Dokumentationen.
 
 (6) Das Zertifikat für Schutzprofile enthält zusätzlich zu Absatz 3 folgende Angaben:
 
-1.
+1. die Bezeichnung und die Beschreibung des geprüften Schutzprofils und
 
-2.
+2. die erreichte Bewertungsstufe oder den Prüfumfang.
 
 (7) Das Bundesamt kann jederzeit anlassbezogen überprüfen, ob die Voraussetzungen für die Zertifizierung nach Absatz 1 weiterhin vorliegen. Das Bundesamt entwickelt für die Überprüfungen Verfahrensbeschreibungen und veröffentlicht diese auf seiner Internetseite.
 
@@ -198,37 +198,37 @@ Vom Antragsteller an das Bundesamt übergebene informationstechnische Produkte o
 
 (2) Der Antrag muss neben den nach § 2 erforderlichen Angaben Folgendes enthalten:
 
-1.
+1. Angaben über den oder die beantragten technischen Geltungsbereiche,
 
-2.
+2. die für diesen technischen Geltungsbereich geforderten Nachweise nach § 4 Absatz 1 und
 
-3.
+3. die Zustimmung zur Veröffentlichung einer erteilten Zertifizierung nach § 7 Absatz 2 oder den Widerspruch gegen die Veröffentlichung nach § 7 Absatz 5 Satz 1.
 
 ### § 15 — Zertifikat
 
 (1) Ein Zertifikat für Personen nach § 52 Absatz 6 des BSI-Gesetzes wird erteilt, wenn
 
-1.
+1. die Prüfung und die Bewertung ergeben, dass die zu zertifizierende Person die Prüfkriterien nach § 4 Absatz 1 erfüllt, und
 
-2.
+2. das Bundesministerium des Innern, für Bau und Heimat nach § 52 Absatz 4 Nummer 2 des BSI-Gesetzes festgestellt hat, dass überwiegende öffentliche Interessen, insbesondere sicherheitspolitische Belange der Bundesrepublik Deutschland, der Erteilung nicht entgegenstehen.
 
 (2) Das Zertifikat ist vom Bundesamt zu befristen. Das Bundesamt setzt die Geltungsdauer für den jeweiligen technischen Geltungsbereich fest.
 
 (3) Das Personenzertifikat enthält folgende Angaben:
 
-1.
+1. Den Namen und die Adresse der zertifizierten Person,
 
-2.
+2. die Zertifizierungsnummer,
 
-3.
+3. die Geltungsdauer der Zertifizierung,
 
-4.
+4. den technischen Geltungsbereich der Zertifizierung unter Verweis auf die zugrunde gelegten Standardisierungsnormen,
 
-5.
+5. die Angabe der Standardisierungsnormen, die der Evaluierung der Person zugrunde lagen,
 
-6.
+6. etwaige Nebenbestimmungen nach § 22 sowie
 
-7.
+7. Ausstellungsort und -datum des Zertifikats.
 
 (4) Das Bundesamt überprüft regelmäßig, ob die Voraussetzungen für die Zertifizierung nach Absatz 1 weiterhin vorliegen. Daneben kann auch jederzeit eine anlassbezogene Überprüfung stattfinden. Das Bundesamt entwickelt für diese Überprüfungen Verfahrensbeschreibungen und veröffentlicht diese auf seiner Internetseite.
 
@@ -240,17 +240,17 @@ Vom Antragsteller an das Bundesamt übergebene informationstechnische Produkte o
 
 (2) Der Antrag muss neben den nach § 2 erforderlichen Angaben Folgendes enthalten:
 
-1.
+1. Angaben zur Rechtsform, Unternehmensstruktur und zu Beteiligungen des Antragstellers,
 
-2.
+2. Angaben über die beantragten sachlichen Geltungsbereiche der Zertifizierung,
 
-3.
+3. eine Aufstellung der verantwortlichen Mitarbeiter des Antragstellers und ihres jeweiligen Verantwortungsbereiches,
 
-4.
+4. Angaben zum Qualitäts- und Informationssicherheitsmanagement sowie, soweit erforderlich, Angaben zur Geheimschutzbetreuung,
 
-5.
+5. die Erklärung zur Unabhängigkeit oder Objektivität bezüglich der vorgesehenen Tätigkeiten im Geltungsbereich und
 
-6.
+6. die Zustimmung zur Veröffentlichung einer erteilten Zertifizierung nach § 7 Absatz 3 oder den Widerspruch gegen die Veröffentlichung nach § 7 Absatz 5 Satz 1.
 
 ### § 17 — Mitwirkungsobliegenheiten
 
@@ -262,27 +262,27 @@ Vom Antragsteller an das Bundesamt übergebene informationstechnische Produkte o
 
 (1) Ein Zertifikat als IT-Sicherheitsdienstleister nach § 52 Absatz 6 des BSI-Gesetzes wird erteilt, wenn
 
-1.
+1. die Prüfung und die Bewertung ergeben, dass der IT-Sicherheitsdienstleister die Prüfkriterien nach § 4 Absatz 1 erfüllt, und
 
-2.
+2. das Bundesministerium des Innern, für Bau und Heimat nach § 52 Absatz 4 Nummer 2 des BSI-Gesetzes festgestellt hat, dass überwiegende öffentliche Interessen, insbesondere sicherheitspolitische Belange der Bundesrepublik Deutschland, der Erteilung nicht entgegenstehen.
 
 (2) Die Zertifizierung ist vom Bundesamt zu befristen. Das Bundesamt setzt die Geltungsdauer für den jeweiligen technischen Geltungsbereich fest.
 
 (3) Das Zertifikat enthält folgende Angaben:
 
-1.
+1. Den Namen des IT-Sicherheitsdienstleisters und die Adressen aller zertifizierten Standorte,
 
-2.
+2. die Zertifizierungsnummer,
 
-3.
+3. die Geltungsdauer der Zertifizierung,
 
-4.
+4. den technischen Geltungsbereich oder die technischen Geltungsbereiche der Zertifizierung unter Verweis auf die zugrunde gelegten Standardisierungsnormen,
 
-5.
+5. die Angabe der Standardisierungsnormen, die der Begutachtung des IT-Sicherheitsdienstleisters zugrunde lagen,
 
-6.
+6. etwaige Nebenbestimmungen nach § 22 sowie
 
-7.
+7. Ausstellungsort und -datum des Zertifikats.
 
 (4) Das Bundesamt überprüft regelmäßig, ob die Voraussetzungen für die Zertifizierung nach Absatz 1 weiterhin vorliegen. Daneben kann auch jederzeit eine anlassbezogene Überprüfung stattfinden. Das Bundesamt entwickelt für diese Überprüfungen Verfahrensbeschreibungen und veröffentlicht diese auf seiner Internetseite.
 
@@ -294,17 +294,17 @@ Vom Antragsteller an das Bundesamt übergebene informationstechnische Produkte o
 
 (2) Der Antrag muss neben den nach § 2 erforderlichen Angaben Folgendes enthalten:
 
-1.
+1. Angaben zur Rechtsform, Unternehmensstruktur und zu Beteiligungen der Stelle,
 
-2.
+2. Angaben über die beantragten technischen Geltungsbereiche der Anerkennung,
 
-3.
+3. eine Aufstellung der verantwortlichen Mitarbeiter der Stelle und ihres jeweiligen Verantwortungsbereiches,
 
-4.
+4. Angaben zum Qualitäts- und Informationssicherheitsmanagement sowie, soweit vorhanden, Angaben zur Geheimschutzbetreuung,
 
-5.
+5. eine Erklärung zur Unabhängigkeit oder Objektivität der Stelle bezüglich der vorgesehenen Tätigkeiten im Geltungsbereich und
 
-6.
+6. die Zustimmung zur Veröffentlichung einer ausgesprochenen Anerkennung nach § 7 Absatz 4 oder den Widerspruch gegen die Veröffentlichung nach § 7 Absatz 5 Satz 1.
 
 (3) Die Anträge werden in der zeitlichen Reihenfolge ihres Eingangs bearbeitet; hiervon kann abgewichen werden, wenn das Bundesamt wegen der Zahl und des Umfangs anhängiger Prüfungsverfahren eine Prüfung in angemessener Zeit nicht durchführen kann und an einer Anerkennung ein öffentliches Interesse besteht.
 
@@ -318,27 +318,27 @@ Vom Antragsteller an das Bundesamt übergebene informationstechnische Produkte o
 
 (1) Eine Anerkennung nach § 52 Absatz 7 des BSI-Gesetzes wird erteilt, wenn
 
-1.
+1. die Prüfung und die Bewertung ergeben, dass die sachliche und personelle Ausstattung sowie die fachliche Qualifikation und Zuverlässigkeit der Konformitätsbewertungsstelle die Prüfkriterien nach § 4 Absatz 1 erfüllen, und
 
-2.
+2. das Bundesministerium des Innern, für Bau und Heimat nach § 52 Absatz 7 Satz 1 Nummer 2 des BSI-Gesetzes festgestellt hat, dass überwiegende öffentliche Interessen, insbesondere sicherheitspolitische Belange der Bundesrepublik Deutschland, der Erteilung nicht entgegenstehen.
 
 (2) Die Anerkennung ist vom Bundesamt zu befristen. Das Bundesamt setzt die Geltungsdauer für den jeweiligen technischen Geltungsbereich fest.
 
 (3) Die Anerkennung enthält folgende Angaben:
 
-1.
+1. den Name und die Adresse der anerkannten sachverständigen Stelle und aller anerkannten Standorte,
 
-2.
+2. die Anerkennungsnummer,
 
-3.
+3. die Geltungsdauer der Anerkennung,
 
-4.
+4. den technischen Geltungsbereich oder die technischen Geltungsbereiche der Anerkennung unter Verweis auf die zugrunde gelegten Standardisierungsnormen,
 
-5.
+5. die Angabe der Standardisierungsnormen, die der Begutachtung der Stelle zugrunde lagen,
 
-6.
+6. etwaige Nebenbestimmungen nach § 22 sowie
 
-7.
+7. Ausstellungsort und -datum der Anerkennungsurkunde.
 
 (4) Das Bundesamt überprüft regelmäßig nach § 52 Absatz 7 Satz 2 des BSI-Gesetzes, ob die Voraussetzungen für die Anerkennung nach Absatz 1 weiterhin vorliegen. Daneben kann auch jederzeit eine anlassbezogene Überprüfung stattfinden. Das Bundesamt entwickelt für diese Überprüfungen Verfahrensbeschreibungen und veröffentlicht diese auf seiner Internetseite.
 
@@ -350,19 +350,19 @@ Vom Antragsteller an das Bundesamt übergebene informationstechnische Produkte o
 
 (2) Ein Zertifikat nach § 12, § 15 und § 18 sowie eine Anerkennung nach § 21 kann mit Nebenbestimmungen, insbesondere mit Auflagen oder Befristungen, erlassen werden. Insbesondere kann bestimmt werden, dass
 
-1.
+1. der Inhaber des Zertifikats oder der Anerkennung bei der Nutzung des Zertifikats oder der Anerkennung, insbesondere bei der Verwendung zu Werbezwecken, Vorlage und Nachweisführung, auf näher bestimmte, in Zusammenhang mit der Zertifizierung oder Anerkennung ausgestellte Begleitdokumente hinweisen und diese zur Verfügung stellen muss,
 
-2.
+2. der Inhaber des Zertifikats unaufgefordert das Bundesamt informieren muss, wenn sich die Sicherheitseigenschaften des Zertifizierungsgegenstandes ändern,
 
-3.
+3. der Inhaber des Zertifikats oder der Anerkennung regelmäßig oder anlassbezogen auf seine Kosten durch das Bundesamt oder durch von diesem beauftragte Personen oder Stellen überprüfen lassen muss, ob die Voraussetzungen zur Zertifizierung von Produkten (zum Beispiel nach Common Criteria) oder Anerkennung weiterhin vorliegen,
 
-4.
+4. eine Zertifizierung von der Gültigkeit eines Schutzprofils oder einer technischen Richtlinie abhängig ist,
 
-5.
+5. in den Fällen des § 15, § 18 oder § 21 der Antragsteller dem Bundesamt unverzüglich schriftlich mitteilen muss, wenn sich seine Arbeitsweise oder seine Unternehmensform wesentlich ändert oder sich sein Unternehmenssitz ändert,
 
-6.
+6. in den Fällen des § 15, § 18 oder § 21 der Antragsteller an vom Bundesamt angebotenen Arbeitstreffen zum technischen Geltungsbereich der Zertifizierung oder Anerkennung teilnehmen muss,
 
-7.
+7. in den Fällen des § 18 oder § 21 der Antragsteller eine bestimmte Zahl von nach § 15 zertifizierten Personen für den jeweiligen Geltungsbereich beschäftigen muss.
 
 ## Abschnitt 7: Schlussbestimmungen
 

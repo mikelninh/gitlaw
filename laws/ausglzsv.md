@@ -17,35 +17,35 @@ Auf Grund des § 21 Abs. 3 Sätze 2 und 3 des Zollgesetzes vom 14. Juni 1961 (Bu
 
 (2) Der Antrag ist je nach Art der eingeführten Waren bei dem Bundesministerium für Wirtschaft und Energie oder bei dem Bundesministerium für Ernährung und Landwirtschaft zu stellen, deren Zuständigkeitsbereiche sich nach der Einfuhrliste (Anlage zum Außenwirtschaftsgesetz vom 28. April 1961 - Bundesgesetzbl. I S. 481) in der jeweils geltenden Fassung richten.
 
-(3) Der Antrag ist schriftlich zu stellen und muß enthalten Der Antrag soll die Tatsachen und Beweismittel angeben, aus denen sich ergibt, daß die Voraussetzungen für die Anwendung von Antidumpingzollsätzen oder von Ausgleichszollsätzen vorliegen.
+(3) Der Antrag ist schriftlich zu stellen und muß enthalten
 
-1.
+1. die Bezeichnung der in das Zollgebiet eingeführten Waren, auf die sich das Prüfungsverfahren beziehen soll,
 
-2.
+2. das Ursprungsland (§ 28 des Zollgesetzes) der eingeführten Waren.
 
 ### § 2 — Angaben bei Dumpingverdacht
 
 (1) Macht der Antragsteller geltend, daß die Voraussetzungen für die Anwendung von Antidumpingzollsätzen vorliegen, so soll der Antrag insbesondere enthalten
 
-1.
+1. die Zolltarifstellen für die eingeführten Waren nach dem Zolltarif und die entsprechenden Nummern des Warenverzeichnisses für die Außenhandelsstatistik,
 
-2.
+2. die Namen und Anschriften der Personen, die die eingeführten Waren gewinnen oder herstellen, und der Personen, die sie aus dem Ursprungsland ausführen,
 
-3.
+3. die Namen und Anschriften der Personen, für deren Rechnung die Waren in das Zollgebiet eingeführt werden,
 
-4.
+4. den Preis, zu dem die eingeführten Waren aus dem Ursprungsland ausgeführt werden (Ausfuhrpreis),
 
-5.
+5. den Preis gleicher oder gleichartiger Waren im Ursprungsland (Auslandsmarktpreise),
 
-6.
+6. den Preis, zu dem die eingeführten Waren im Zollgebiet erworben oder veräußert werden (Einfuhrpreis),
 
-7.
+7. den Preis im Zollgebiet für dort gewonnene oder hergestellte Waren (Inlandspreis), mit denen die eingeführten Waren im Wettbewerb stehen, und deren Bezeichnung unter Angabe der Qualitätsunterschiede gegenüber den eingeführten Waren,
 
-8.
+8. die Namen und Anschriften der Personen, die im Zollgebiet Waren gewinnen oder herstellen, mit denen die eingeführten Waren im Wettbewerb stehen, unter Angabe der Gesamterzeugung der Waren im Zollgebiet nach Menge und Wert und des Anteils jeder dieser Personen an der Gesamterzeugung,
 
-9.
+9. Angaben darüber, welchen der in der Nummer 8 genannten Personen und auf welche Art und in welchem Umfang dadurch eine bedeutende Schädigung entsteht oder zu entstehen droht, daß die Gewinnung oder Herstellung der Waren im Zollgebiet oder ihr Absatz beeinträchtigt wird, unter Darlegung von Erzeugung, Auftrags- und Lagerbeständen, Gesamtverbrauch und Absatz im Zollgebiet, Ausfuhr und Preisen der Waren nach Menge und Wert sowie der Zahl der mit ihrer Gewinnung oder Herstellung Beschäftigten in den letzten drei Kalenderjahren vor der Antragstellung und im laufenden Kalenderjahr bis zur Antragstellung,
 
-10.
+10. Angaben darüber, ob bezüglich der im Zollgebiet gewonnenen oder hergestellten Waren, mit denen die eingeführten Waren im Wettbewerb stehen, oder ihrer Vorerzeugnisse Absprachen zwischen Personen im Zollgebiet oder zwischen Personen im Zollgebiet und solchen außerhalb des Zollgebiets bestehen oder bestanden haben, die die Erzeugung oder die Marktverhältnisse für den Verkehr mit diesen Waren durch Beschränkungen des Wettbewerbs zu beeinflussen geeignet sind oder geeignet waren, insbesondere durch Abgrenzung von Erzeugungs- oder Absatzgebieten, durch mengenmäßige Beschränkungen oder Festsetzung von Preisen.
 
 (2) Als Ausfuhrpreis (Absatz 1 Nr. 4) soll der Preis ab Werk angegeben werden; ist er dem Antragsteller nicht bekannt, so soll der fob-Preis oder ein anderer Preis angegeben werden, der der Ausfuhr der Waren aus dem Ursprungsland zugrunde liegt. Die Preisangabe soll sich auf alle Tatsachen erstrecken, die für die Vergleichbarkeit des Ausfuhrpreises mit dem Auslandsmarktpreis wesentlich sind; dazu gehören insbesondere Angaben über die Handelsstufe, über Mengenrabatte und andere Preisnachlässe sowie über sonstige Beträge, die den angegebenen Preis ermäßigen oder erhöhen, wie Ausfuhrvergütungen, Versicherungen, Frachten, Provisionen, Abgaben.
 

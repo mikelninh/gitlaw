@@ -30,57 +30,57 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 4 — Struktur der Berufsausbildung, Ausbildungsberufsbild
 
-(1) Die Berufsausbildung gliedert sich in: Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
+(1) Die Berufsausbildung gliedert sich in:
 
-1.
+1. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 (2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. Erstellen von Entwürfen zur Gestaltung von Bögen,
 
-2.
+2. Messen, Prüfen, Anreißen sowie Übertragen von Maßen und Konturen,
 
-3.
+3. Auswählen und Handhaben von Werkzeugen sowie Auswählen, Einrichten und Warten von Maschinen und Geräten,
 
-4.
+4. Auswählen, Be- und Verarbeiten und Lagern von Werk- und Hilfsstoffen,
 
-5.
+5. Herstellen von Verbindungen,
 
-6.
+6. Herstellen von Oberflächen,
 
-7.
+7. Herstellen von Bogenstangen,
 
-8.
+8. Herstellen von Bogenfröschen,
 
-9.
+9. Herstellen von Bogenbeinchen,
 
-10.
+10. Zusammenfügen von Bogenstangen, -fröschen und -beinchen,
 
-11.
+11. Spielfertigmachen von Bögen und
 
-12.
+12. Reparieren von Bögen.
 
 (3) Die Berufsbildpositionen der integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. Berufsbildung, Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-4.
+4. Umweltschutz,
 
-5.
+5. Planen und Vorbereiten von Arbeitsabläufen, Arbeiten im Team,
 
-6.
+6. betriebliche und technische Kommunikation,
 
-7.
+7. Erstellen und Anwenden von technischen Unterlagen,
 
-8.
+8. Durchführen von qualitätssichernden Maßnahmen und
 
-9.
+9. Kundenorientierung und Verkaufen von Bögen.
 
 ### § 5 — Ausbildungsplan
 
@@ -104,9 +104,9 @@ Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage de
 
 Die Zwischenprüfung erstreckt sich auf
 
-1.
+1. die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 ### § 9 — Prüfungsbereich Vorarbeiten zur Herstellung eines Bogens
 
@@ -114,25 +114,25 @@ Die Zwischenprüfung erstreckt sich auf
 
 (2) Im Prüfungsbereich Vorarbeiten zur Herstellung eines Bogens soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. technische Unterlagen anzuwenden, Zeichnungen anzufertigen und Berechnungen durchzuführen,
 
-2.
+2. Arbeitsschritte zu planen und festzulegen,
 
-3.
+3. Materialien unter Berücksichtigung von Eigenschaften auszuwählen und zu bearbeiten,
 
-4.
+4. Werkzeuge, Geräte und Maschinen auszuwählen und einzusetzen,
 
-5.
+5. Maße und Konturen zu übertragen,
 
-6.
+6. passgenaue Verbindungen bis zur Verleimung vorzubereiten,
 
-7.
+7. Oberflächen vorzubehandeln,
 
-8.
+8. Bogenstangen vorzuarbeiten und Froschinnenarbeiten durchzuführen,
 
-9.
+9. Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung zu berücksichtigen und
 
-10.
+10. fachliche Hintergründe aufzuzeigen sowie die Vorgehensweise bei der Durchführung der Arbeitsprobe zu begründen.
 
 (3) Der Prüfling soll eine Arbeitsprobe durchführen und hierüber ein auftragsbezogenes Fachgespräch in höchstens 15 Minuten führen. Weiterhin soll er Aufgabenstellungen, die sich auf die Arbeitsprobe beziehen, schriftlich bearbeiten.
 
@@ -150,43 +150,43 @@ Die Zwischenprüfung erstreckt sich auf
 
 Die Gesellenprüfung erstreckt sich auf
 
-1.
+1. die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan aufgeführten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 ### § 12 — Prüfungsbereiche
 
 Die Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 
-1.
+1. Herstellen eines spielfertigen Bogens,
 
-2.
+2. Durchführung von Teilarbeiten,
 
-3.
+3. Planung und Konstruktion sowie
 
-4.
+4. Wirtschafts- und Sozialkunde.
 
 ### § 13 — Prüfungsbereich Herstellen eines spielfertigen Bogens
 
 (1) Im Prüfungsbereich Herstellen eines spielfertigen Bogens soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Art und Umfang von Arbeitsaufträgen zu erfassen und Arbeitsabläufe festzulegen und zu dokumentieren,
 
-2.
+2. Entwürfe zu erstellen und umzusetzen,
 
-3.
+3. Materialbedarf zu berechnen und Zeitbedarf zu ermitteln,
 
-4.
+4. technische Unterlagen zu erstellen,
 
-5.
+5. Bogenstangen, -frösche und -beinchen herzustellen,
 
-6.
+6. Oberflächen zu gestalten und herzustellen,
 
-7.
+7. Bögen spielfertig zu machen,
 
-8.
+8. Bögen zu präsentieren,
 
-9.
+9. Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung zu berücksichtigen.
 
 (2) Für den Nachweis nach Absatz 1 ist das Planen, Gestalten und Herstellen eines spielfertigen Bogens zugrunde zu legen.
 
@@ -198,29 +198,29 @@ Die Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (1) Im Prüfungsbereich Durchführen von Teilarbeiten soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Arbeitsschritte zu planen,
 
-2.
+2. Werkzeuge auszuwählen und zu handhaben,
 
-3.
+3. Werk- und Hilfsstoffe auszuwählen sowie zu bearbeiten und zu verarbeiten,
 
-4.
+4. Verbindungstechniken auszuwählen und Verbindungen herzustellen,
 
-5.
+5. Teilarbeiten zur Herstellung eines spielfertigen Bogens durchzuführen,
 
-6.
+6. Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung zu berücksichtigen und
 
-7.
+7. fachliche Hintergründe aufzuzeigen sowie die Vorgehensweise beim Durchführen von Teilarbeiten zu begründen.
 
-(2) Für den Nachweis nach Absatz 1 sind aus den folgenden Tätigkeiten drei Tätigkeiten auszuwählen: Anstelle einer dieser Tätigkeiten kann eine andere Tätigkeit ausgewählt werden, wenn sie in gleicher Breite und Tiefe den in Absatz 1 genannten Anforderungen entspricht.
+(2) Für den Nachweis nach Absatz 1 sind aus den folgenden Tätigkeiten drei Tätigkeiten auszuwählen:
 
-1.
+1. Fertigstellen einer Bogenstange,
 
-2.
+2. Herstellen einer Verbindung zwischen Bogenfrosch und Bogenstange,
 
-3.
+3. Ausarbeiten eines Bogenfrosches und
 
-4.
+4. Behaaren eines Bogens.
 
 (3) Der Prüfling soll drei Arbeitsproben durchführen. Mit dem Prüfling wird über die drei durchgeführten Arbeitsaufgaben je ein auftragsbezogenes Fachgespräch geführt.
 
@@ -230,21 +230,21 @@ Die Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (1) Im Prüfungsbereich Planung und Konstruktion soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Bögen nach historischen und konstruktionstechnischen Merkmalen zu unterscheiden,
 
-2.
+2. Werk- und Hilfsstoffe unter Berücksichtigung von Materialeigenschaften, Verwendungszweck und Artenschutz auszuwählen, einzusetzen und zu lagern,
 
-3.
+3. materialbezogene Berechnungen und Kalkulationen durchzuführen,
 
-4.
+4. Arbeitsabläufe unter Berücksichtigung von Produktqualität und Wirtschaftlichkeit zu planen sowie technische Unterlagen zu erstellen,
 
-5.
+5. Werkzeuge und Maschinen auszuwählen und unter Berücksichtigung der Arbeitssicherheit einzusetzen,
 
-6.
+6. Verbindungstechniken auszuwählen und anzuwenden,
 
-7.
+7. Verfahren zur Oberflächenbehandlung unter Berücksichtigung des Gesundheits- und Umweltschutzes auszuwählen und anzuwenden und
 
-8.
+8. Fehler und Schäden festzustellen, Ursachen zu ermitteln und Maßnahmen zur Behebung zu ergreifen.
 
 (2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
 
@@ -262,27 +262,27 @@ Die Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
-1.
+1. Herstellen eines spielfertigen Bogensmit 30 Prozent,
 
-2.
+2. Durchführen von Teilarbeitenmit 30 Prozent,
 
-3.
+3. Planung und Konstruktionmit 30 Prozent,
 
-4.
+4. Wirtschafts- und Sozialkundemit 10 Prozent.
 
 (2) Die Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-1.
+1. im Gesamtergebnis mit mindestens „ausreichend“,
 
-2.
+2. in mindestens drei Prüfungsbereichen mit mindestens „ausreichend“ und
 
-3.
+3. in keinem Prüfungsbereich mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Planung und Konstruktion“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Planung und Konstruktion“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.
+1. der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
-2.
+2. die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
 
 ## Abschnitt 4: Schlussvorschriften
 
@@ -295,225 +295,3 @@ Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bereits 
 Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Bogenmacher/zur Bogenmacherin vom 27. Januar 1997 (BGBl. I S. 78) außer Kraft.
 
 ### Anlage — (zu § 3 Absatz 1)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)

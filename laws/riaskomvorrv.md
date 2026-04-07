@@ -16,7 +16,11 @@ Die Bestimmungen der Artikel II § 3 und Artikel III § 4, soweit nicht die Arbe
 
 ### Art 2
 
-Die Bundesrepublik Deutschland gewährt im Rahmen ihrer jeweils geltenden Gesetze und der Rechtsvorschriften der Europäischen Gemeinschaften der Kommission Befreiung von Zöllen und Abgaben auf a)einzuführende Ausstattungsgegenstände und Arbeitsmittel einschließlich Kraftfahrzeuge für die Tätigkeit der Kommission und b)einzuführendes persönliches Umzugsgut einschließlich Kraftfahrzeuge von amerikanischen Staatsbürgern, die anläßlich ihrer Ernennung zu Mitgliedern oder ihrer Berufung gemäß Artikel 5 Buchstabe b des Regierungsabkommens zu Mitarbeitern der Kommission ihren Wohnsitz in die Bundesrepublik Deutschland verlegen, sowie deren im Haushalt lebenden Familienangehörigen.
+Die Bundesrepublik Deutschland gewährt im Rahmen ihrer jeweils geltenden Gesetze und der Rechtsvorschriften der Europäischen Gemeinschaften der Kommission Befreiung von Zöllen und Abgaben auf
+
+a) einzuführende Ausstattungsgegenstände und Arbeitsmittel einschließlich Kraftfahrzeuge für die Tätigkeit der Kommission und
+
+b) einzuführendes persönliches Umzugsgut einschließlich Kraftfahrzeuge von amerikanischen Staatsbürgern, die anläßlich ihrer Ernennung zu Mitgliedern oder ihrer Berufung gemäß Artikel 5 Buchstabe b des Regierungsabkommens zu Mitarbeitern der Kommission ihren Wohnsitz in die Bundesrepublik Deutschland verlegen, sowie deren im Haushalt lebenden Familienangehörigen.
 
 ### Art 3
 

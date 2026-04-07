@@ -16,11 +16,19 @@ Für das Verfahren über die Revision und die weitere Beschwerde gelten die Vors
 
 ### § 3
 
-(1) Die weitere Beschwerde und die Revision finden ohne Rücksicht auf den Wert des Beschwerdegegenstandes statt.(2) Das Oberlandesgericht ist zu einer Änderung seiner der weiteren Beschwerde unterliegenden Entscheidung nicht befugt.
+(1) Die weitere Beschwerde und die Revision finden ohne Rücksicht auf den Wert des Beschwerdegegenstandes statt.
+
+(2) Das Oberlandesgericht ist zu einer Änderung seiner der weiteren Beschwerde unterliegenden Entscheidung nicht befugt.
 
 ### § 4
 
-(1) Die weitere Beschwerde und die Revision sind binnen eines Monats durch Einreichung eines Schriftsatzes bei dem Bundesgerichtshof einzulegen. Hat der Beschwerdeführer oder der Revisionskläger seinen Wohnsitz im Ausland, beträgt die Frist drei Monate. Die Fristen nach Satz 1 und 2 sind Notfristen.(2) Die Entscheidung über die weitere Beschwerde und die Revision kann ohne mündliche Verhandlung ergehen, sofern nicht eine der Parteien die mündliche Verhandlung beantragt.(3) Ein Anwaltszwang besteht nicht.(4) Die Vorschriften der Zivilprozeßordnung über das Versäumnisverfahren und die Ablehnung der Annahme der Revision sind nicht anzuwenden.
+(1) Die weitere Beschwerde und die Revision sind binnen eines Monats durch Einreichung eines Schriftsatzes bei dem Bundesgerichtshof einzulegen. Hat der Beschwerdeführer oder der Revisionskläger seinen Wohnsitz im Ausland, beträgt die Frist drei Monate. Die Fristen nach Satz 1 und 2 sind Notfristen.
+
+(2) Die Entscheidung über die weitere Beschwerde und die Revision kann ohne mündliche Verhandlung ergehen, sofern nicht eine der Parteien die mündliche Verhandlung beantragt.
+
+(3) Ein Anwaltszwang besteht nicht.
+
+(4) Die Vorschriften der Zivilprozeßordnung über das Versäumnisverfahren und die Ablehnung der Annahme der Revision sind nicht anzuwenden.
 
 ### § 5
 

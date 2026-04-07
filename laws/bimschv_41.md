@@ -14,27 +14,27 @@
 
 Diese Verordnung gilt für:
 
-1.
+1. die Bekanntgabe von Stellen und Sachverständigen gemäß § 29b Absatz 1 des Bundes-Immissionsschutzgesetzes,
 
-2.
+2. die Pflichten bekannt gegebener Stellen und Sachverständiger sowie den Widerruf entsprechender Bekanntgaben,
 
-3.
+3. die Pflichten von Anlagenbetreibern zur Vorlage der Nachweise über gleichwertige Anerkennungen von Stellen und Sachverständigen aus anderen Mitgliedstaaten der Europäischen Union oder anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum.
 
 ### § 2 — Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind:
 
-1.
+1. Prüfbereich die von der zuständigen Behörde in der Bekanntgabe einer Stelle bezeichnete Kombination von Tätigkeitsbereichen und Stoffbereichen nach Anlage 1;
 
-2.
+2. Ermittlungen Messungen, Kalibrierungen, Prüfungen und Berechnungen, die für die Beurteilung der Emissionen oder Immissionen von Anlagen notwendig sind und von bekannt gegebenen Stellen durchgeführt werden;
 
-3.
+3. Fachlich verantwortliche Personen und deren Stellvertreter die für die Durchführung von Ermittlungen verantwortlichen natürlichen Personen einer bekannt gegebenen Stelle;
 
-4.
+4. Standort derjenige geografische Ort, von dem aus eine bekannt gegebene Stelle tätig wird, um Dienstleistungen zur Erfüllung der Ermittlungsaufgaben zu erbringen;
 
-5.
+5. Prüfungsbereich die von der zuständigen Behörde in der Bekanntgabe von Sachverständigen bezeichnete Kombination aus Anlagenarten und Fachgebieten nach Anlage 2;
 
-6.
+6. Sachverständige oder Sachverständiger eine natürliche Person.
 
 ## Unterabschnitt 1: Stellen im Sinne von § 29b Absatz 1 des Bundes-Immissionsschutzgesetzes
 
@@ -46,11 +46,11 @@ Bekannt zu gebende Stellen im Sinne von § 29b Absatz 1 des Bundes-Immissionssch
 
 (1) Bekannt zu gebende Stellen im Sinne von § 29b Absatz 1 des Bundes-Immissionsschutzgesetzes müssen in ausreichendem Umfang über Personal zur Durchführung der Ermittlungen verfügen, das fachkundig ist und hauptberuflich mit Messungen und Analysen beschäftigt ist. Die gemäß § 29b Absatz 2 Satz 2 des Bundes-Immissionsschutzgesetzes erforderliche Fachkunde und die erforderliche gerätetechnische Ausstattung liegt vor, wenn für die jeweiligen Prüfbereiche gemäß Anlage 1 den folgenden Normen genügt wird:
 
-1.
+1. DIN EN ISO/IEC 17025, Ausgabe März 2018, sowie VDI-Richtlinie 4220 Blatt 1, Ausgabe November 2018,
 
-2.
+2. VDI-Richtlinie 4208 Blatt 2, Ausgabe Januar 2020 mit Berichtigung vom August 2021, oder
 
-3.
+3. DIN 45688, Ausgabe Juli 2014.
 
 (2) Bekannt zu gebende Stellen müssen an jedem Standort mindestens eine fachlich verantwortliche Person oder deren Stellvertreter hauptberuflich beschäftigen. Die fachlich verantwortlichen Personen und ihre Stellvertreter müssen zusätzlich zur Fachkunde nach Absatz 1 Satz 2 über umfassende Kenntnisse in immissionsschutzrechtlichen Rechts- und Verwaltungsvorschriften für den jeweiligen Prüfbereich, in technischen Normen sowie in dem Bekanntgabe- und Kompetenzfeststellungsverfahren nach dieser Verordnung verfügen.
 
@@ -58,13 +58,13 @@ Bekannt zu gebende Stellen im Sinne von § 29b Absatz 1 des Bundes-Immissionssch
 
 Die für eine Bekanntgabe gemäß § 29b Absatz 2 Satz 2 des Bundes-Immissionsschutzgesetzes erforderliche Unabhängigkeit einer Stelle ist in der Regel dann nicht gegeben, wenn sie
 
-1.
+1. Anlagen und Anlagenteile entwickelt, vertreibt, errichtet oder betreibt oder bei deren Entwicklung, Errichtung oder Betrieb mitwirkt oder mitgewirkt hat,
 
-2.
+2. Geräte oder Einrichtungen zur Verminderung von Emissionen oder Messgeräte zur kontinuierlichen Überwachung von Emissionen oder sicherheitsrelevante Anlagen, insbesondere Schutzsysteme, herstellt oder vertreibt,
 
-3.
+3. organisatorisch, wirtschaftlich, personell oder hinsichtlich des Kapitals mit Dritten derart verflochten ist, dass deren Einflussnahme auf die jeweiligen Aufgaben nicht ausgeschlossen werden kann oder wenn der Anschein einer solchen Einflussnahme besteht, oder
 
-4.
+4. fachlich verantwortliche Personen beschäftigt, die nicht hauptberuflich bei ihr tätig sind.
 
 ### § 6 — Zuverlässigkeit von Stellen
 
@@ -72,69 +72,51 @@ Die für eine Bekanntgabe gemäß § 29b Absatz 2 Satz 2 des Bundes-Immissionssc
 
 (2) Die erforderliche Zuverlässigkeit ist in der Regel nicht gegeben, wenn eine der in Absatz 1 bezeichneten Personen
 
-1.
+1. wegen Verletzung der Vorschriften a)des Strafrechts über gemeingefährliche Delikte oder Delikte gegen die Umwelt,b)des Natur- und Landschaftsschutz-, Chemikalien-, Gentechnik- oder Strahlenschutzrechts,c)des Lebensmittel-, Arzneimittel-, Pflanzenschutz- oder Infektionsschutzrechts,d)des Gewerbe-, Produktsicherheits- oder Arbeitsschutzrechts odere)des Betäubungsmittel-, Waffen- oder Sprengstoffrechtszu einer Freiheitsstrafe, Jugendstrafe oder Geldstrafe rechtskräftig verurteilt worden ist oder des Strafrechts über gemeingefährliche Delikte oder Delikte gegen die Umwelt, des Natur- und Landschaftsschutz-, Chemikalien-, Gentechnik- oder Strahlenschutzrechts, des Lebensmittel-, Arzneimittel-, Pflanzenschutz- oder Infektionsschutzrechts, des Gewerbe-, Produktsicherheits- oder Arbeitsschutzrechts oder des Betäubungsmittel-, Waffen- oder Sprengstoffrechts
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
+2. wegen Verletzung der Vorschriften a)des Immissionsschutz-, Abfall-, Wasser-, Natur- und Landschaftsschutz-, Bodenschutz-, Chemikalien-, Gentechnik- oder Atom- und Strahlenschutzrechts,b)des Lebensmittel-, Arzneimittel-, Pflanzenschutz- oder Infektionsschutzrechts,c)des Gewerbe-, Produktsicherheits- oder Arbeitsschutzrechts oderd)des Betäubungsmittel-, Waffen- oder Sprengstoffrechtsinnerhalb der letzten fünf Jahre vor Antragstellung mit einer Geldbuße in Höhe von mehr als fünfhundert Euro belegt worden ist. des Immissionsschutz-, Abfall-, Wasser-, Natur- und Landschaftsschutz-, Bodenschutz-, Chemikalien-, Gentechnik- oder Atom- und Strahlenschutzrechts, des Lebensmittel-, Arzneimittel-, Pflanzenschutz- oder Infektionsschutzrechts, des Gewerbe-, Produktsicherheits- oder Arbeitsschutzrechts oder des Betäubungsmittel-, Waffen- oder Sprengstoffrechts
 
 (3) Die erforderliche Zuverlässigkeit ist in der Regel auch dann nicht gegeben, wenn eine der in Absatz 1 bezeichneten Personen
 
-1.
+1. wiederholt oder grob pflichtwidrig gegen die in Absatz 2 genannten Vorschriften verstoßen hat,
 
-2.
+2. Ermittlungs- oder Prüfungsergebnisse vorsätzlich oder grob fahrlässig verändert oder nicht vollständig wiedergegeben hat,
 
-3.
+3. wiederholt gegen Anforderungen des technischen Regelwerkes verstoßen hat, die für die Richtigkeit der Ermittlungs- und Prüfergebnisse relevant sind,
 
-4.
+4. vorsätzlich oder grob fahrlässig Pflichten, die sich aus dieser Verordnung oder einer bereits erfolgten Bekanntgabe ergeben, verletzt hat oder
 
-5.
+5. Dokumentationen und Berichterstattungen zu Ermittlungen oder Prüfungen wiederholt mit erheblichen oder schwerwiegenden Mängeln erstellt hat oder vorsätzlich oder grob fahrlässig wiederholt dazu beigetragen hat, dass Fristen für deren Vorlage versäumt wurden.
 
 (4) Die erforderliche Zuverlässigkeit ist in der Regel auch dann nicht gegeben, wenn
 
-1.
+1. eine der in § 4 bezeichneten Personen ohne Fachkundenachweise im Sinne von § 4 Absatz 1 für ergebnisrelevante Tätigkeiten selbständig eingesetzt wird oder worden ist oder
 
-2.
+2. Ringversuche nach § 16 Absatz 4 Nummer 7 wiederholt nicht bestanden wurden.
 
 ## Unterabschnitt 2: Sachverständige im Sinne von § 29b Absatz 1 des Bundes-Immissionsschutzgesetzes
 
 ### § 7 — Fachkunde von Sachverständigen
 
-Die erforderliche Fachkunde im Sinne des § 29b Absatz 2 Satz 2 des Bundes-Immissionsschutzgesetzes liegt vor, wenn der oder die bekannt zu gebende Sachverständige In begründeten Einzelfällen kann abweichend von Satz 1 Nummer 1 und 2 eine nicht akademische Ausbildung mit mindestens fünfjähriger beruflicher Praxis im Bekanntgabebereich anerkannt werden, wenn dies im Hinblick auf die Aufgabenstellung im Einzelfall als gleichwertig anzusehen ist.
+Die erforderliche Fachkunde im Sinne des § 29b Absatz 2 Satz 2 des Bundes-Immissionsschutzgesetzes liegt vor, wenn der oder die bekannt zu gebende Sachverständige
 
-1.
+1. ein Hochschulstudium auf den Gebieten des Ingenieurwesens, der Chemie oder der Physik abgeschlossen hat; alternativ kann ein Studium in anderen als den genannten Fächern anerkannt werden, wenn die Ausbildung in diesem Fach im Hinblick auf die Aufgabenstellung, der sich der oder die Sachverständige zuwenden will, als geeignet anzusehen ist;
 
-2.
+2. während einer dreijährigen praktischen Tätigkeit Erfahrungen in den Prüfungsbereichen nach Anlage 2 erworben hat, für die die Bekanntgabe beantragt wird,
 
-3.
+3. über grundlegende Kenntnisse in Verfahrens- und Sicherheitstechnik und in systematischen Methoden der Gefahrenanalyse verfügt,
 
-4.
+4. in Bezug auf die beantragten Prüfungsbereiche über umfassende Fachkenntnisse sowie Kenntnisse in für die Anlagensicherheit maßgebenden Gesetzen, Verordnungen und Technischen Regeln verfügt.
 
 ### § 8 — Unabhängigkeit von Sachverständigen
 
 Die für eine Bekanntgabe gemäß § 29b Absatz 2 Satz 2 des Bundes-Immissionsschutzgesetzes erforderliche Unabhängigkeit eines Sachverständigen ist in der Regel dann nicht gegeben, wenn dieser
 
-1.
+1. Anlagen und Anlagenteile entwickelt, vertreibt, errichtet oder betreibt oder bei deren Entwicklung, Errichtung oder Betrieb mitwirkt oder mitgewirkt hat,
 
-2.
+2. sicherheitsrelevante Anlagen, insbesondere Schutzsysteme, herstellt oder vertreibt,
 
-3.
+3. organisatorisch, wirtschaftlich, personell oder hinsichtlich des Kapitals mit Dritten derart verflochten ist, dass deren Einflussnahme auf die jeweiligen Aufgaben nicht ausgeschlossen werden kann, oder wenn der Anschein einer solchen Einflussnahme besteht.
 
 ### § 9 — Zuverlässigkeit von Sachverständigen
 
@@ -146,11 +128,11 @@ Die für eine Bekanntgabe gemäß § 29b Absatz 2 Satz 2 des Bundes-Immissionssc
 
 Bekannt zu gebende Sachverständige haben hinsichtlich der einzusetzenden Ausstattung, wie Geräten, Programmen und Informationsquellen, zu gewährleisten, dass diese ordnungsgemäß beschaffen ist, dem Stand der Technik entspricht und für die jeweilige Aufgabe geeignet ist, insbesondere dass
 
-1.
+1. die Bauart der Messgeräte und Messeinrichtungen dem Stand der Messtechnik entspricht,
 
-2.
+2. die erforderliche Aussagegenauigkeit der Ergebnisse sichergestellt ist und
 
-3.
+3. Messgrößen, für die der Einsatz geeichter Messgeräte vorgeschrieben ist, nur mit Messgeräten erfasst werden, die den eichrechtlichen Bestimmungen entsprechen; nicht geeichte Messgeräte und -einrichtungen müssen, sofern dies technisch möglich ist, entsprechend den Herstellerangaben kalibriert sowie auf ihre Funktionsfähigkeit geprüft sein.
 
 ### § 11 — Hilfspersonal; Haftpflichtversicherung
 
@@ -202,23 +184,13 @@ Bekannt zu gebende Sachverständige haben hinsichtlich der einzusetzenden Aussta
 
 (1) Die nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung berechtigten Personen der bekannt gegebenen Stelle sind verpflichtet,
 
-1.
+1. wesentliche Änderungen, die die Erfüllung der Voraussetzungen der Bekanntgabe betreffen, unverzüglich der zuständigen Behörde mitzuteilen, insbesondere diejenigen, die a)die Veränderung der personellen Ausstattung oder die Fachkunde des in § 4 genannten Personals betreffen,b)sich auf den Gesellschaftsvertrag, die Aufnahme oder den Wechsel eines Gesellschafters oder einer Gesellschafterin, Änderungen der Kapital- oder Beteiligungsverhältnisse, die Rechtsform, die Bezeichnung oder den Sitz der Stelle beziehen,c)die Unabhängigkeit berühren,d)die Zuverlässigkeit betreffen odere)die gerätetechnische Ausstattung betreffen, die Veränderung der personellen Ausstattung oder die Fachkunde des in § 4 genannten Personals betreffen, sich auf den Gesellschaftsvertrag, die Aufnahme oder den Wechsel eines Gesellschafters oder einer Gesellschafterin, Änderungen der Kapital- oder Beteiligungsverhältnisse, die Rechtsform, die Bezeichnung oder den Sitz der Stelle beziehen, die Unabhängigkeit berühren, die Zuverlässigkeit betreffen oder die gerätetechnische Ausstattung betreffen,
 
-a)
+2. die gerätetechnische Ausstattung jeweils dem Stand der Technik anzupassen,
 
-b)
+3. zu dulden, dass Beauftragte der für die Bekanntgabe zuständigen Behörde des Landes, in dem die Stelle tätig wird, an Ermittlungen teilnehmen oder das Ergebnis der Ermittlung kostenpflichtig überprüfen,
 
-c)
-
-d)
-
-e)
-
-2.
-
-3.
-
-4.
+4. keine Aufträge anzunehmen, bei denen mögliche Beeinträchtigungen der Unparteilichkeit das Ergebnis beeinflussen könnten.
 
 (2) Betriebs- oder Geschäftsgeheimnisse sowie Geheimnisse zum Schutz öffentlicher Belange, die den bekannt gegebenen Stellen im Zusammenhang mit ihrer Tätigkeit bekannt geworden sind, müssen vor unbefugter Offenbarung gewahrt bleiben. Das Personal ist durch die nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung berechtigten Personen der bekannt gegebenen Stelle entsprechend zu verpflichten.
 
@@ -226,27 +198,23 @@ e)
 
 (4) Bekannt gegebene Stellen sind darüber hinaus verpflichtet,
 
-1.
+1. für die Ermittlungen im Rahmen der Bekanntgabe ein Qualitätssicherungssystem auf der Grundlage der DIN EN ISO/IEC 17025, Ausgabe März 2018, zu betreiben und ständig fortzuschreiben,
 
-2.
+2. sich vor Aufnahme der Tätigkeit in einem Land über länderspezifische Anforderungen an die Tätigkeit, die Art und Weise der Übermittlung der Ergebnisse sowie qualitätssichernde Maßnahmen, die die Mitwirkung der Stelle erfordern, zu informieren,
 
-3.
+3. der zuständigen Behörde des Landes, in dem die Stelle tätig wird, auf Verlangen alle Unterlagen zur Verfügung zu stellen, die notwendig sind, um die Tätigkeit der Stellen und die Qualität der Ermittlungsergebnisse zu überwachen,
 
-4.
+4. die Messpläne und Messterminanzeigen fristgerecht an die in dem Land der Ermittlungsdurchführung für die Bekanntgabe und die für die Überwachung der zu prüfenden Anlage zuständige Behörde auf deren Verlangen zu übermitteln und abzustimmen,
 
-5.
+5. bei Vorliegen bundeseinheitlicher Kriterien Messberichte nach diesen Kriterien zu erstellen,
 
-6.
+6. den für die Bekanntgabe zuständigen Behörden der Länder, in denen die Stelle tätig geworden ist, bis zum 31. März eines Jahres mitzuteilen, welche Ermittlungen im Vorjahr gemäß Bekanntgabebescheid durchgeführt worden sind,
 
-7.
+7. pro Prüfbereich, pro Standort und pro Bekanntgabezeitraum zweimal unter Einbeziehung des fachkundigen Personals des jeweiligen Standortes auf eigene Kosten a)an einem akkreditierten Ringversuch teilzunehmen, der durch die obersten Immissionsschutzbehörden der Länder anerkannt ist, oderb)an entsprechenden Maßnahmen zur Qualitätssicherung teilzunehmen, falls keine Ringversuche nach Buchstabe a angeboten werden,und deren Ergebnisse unverzüglich der für die Bekanntgabe zuständigen Behörde vorzulegen, an einem akkreditierten Ringversuch teilzunehmen, der durch die obersten Immissionsschutzbehörden der Länder anerkannt ist, oder an entsprechenden Maßnahmen zur Qualitätssicherung teilzunehmen, falls keine Ringversuche nach Buchstabe a angeboten werden,
 
-a)
+8. der für die Bekanntgabe zuständigen Behörde auf Verlangen alle erforderlichen Unterlagen über im Rahmen der Bekanntgabe durchgeführte Ermittlungen vorzulegen und
 
-b)
-
-8.
-
-9.
+9. die regelmäßige Teilnahme des in § 4 genannten Personals an Fortbildungsmaßnahmen zum Immissionsschutzrecht sicherzustellen.
 
 (5) Abweichend von Absatz 4 Nummer 1 ist für den Prüfbereich des Tätigkeitsbereiches Gruppe III Nummer 1 der Anlage 1 ein Qualitätssicherungssystem auf der Grundlage der DIN EN ISO 9001, Ausgabe November 2015, ausreichend.
 
@@ -256,41 +224,21 @@ b)
 
 (1) Für bekannt gegebene Sachverständige gilt § 16 Absatz 1 Nummer 1 Buchstabe c bis e und Nummer 2 und 3 entsprechend. Sie sind zusätzlich verpflichtet,
 
-1.
+1. neben den im Rahmen ihrer Aufträge anzufertigenden Prüfungsberichten Erfahrungen, die bei der Durchführung der sicherheitstechnischen Prüfungen und der Prüfungen sicherheitstechnischer Unterlagen gemacht werden, so aufzuzeichnen, dass sie ausgewertet werden können; die Aufzeichnungen müssen insbesondere Folgendes enthalten: a)Angaben über Anlagenart, Grund, Zeitpunkt, Gegenstand und Umfang der Prüfung,b)Angaben über die bei der Prüfung festgestellten Mängel sowie Vorschläge zu deren Abhilfe,c)grundlegende Folgerungen für die Verbesserung der Anlagensicherheit, einschließlich Störfallvorsorge, sowied)Angaben über eingegangene Beschwerden, getroffene Abhilfe und Maßnahmen zur Verbesserung der Qualität der Prüfung; Angaben über Anlagenart, Grund, Zeitpunkt, Gegenstand und Umfang der Prüfung, Angaben über die bei der Prüfung festgestellten Mängel sowie Vorschläge zu deren Abhilfe, grundlegende Folgerungen für die Verbesserung der Anlagensicherheit, einschließlich Störfallvorsorge, sowie Angaben über eingegangene Beschwerden, getroffene Abhilfe und Maßnahmen zur Verbesserung der Qualität der Prüfung;
 
-a)
+2. die vorgenannten Aufzeichnungen einmal jährlich zusammenzufassen und der zuständigen Behörde auf Verlangen vorzulegen;
 
-b)
+3. Aufzeichnungen über die gerätetechnische Ausstattung bereitzuhalten;
 
-c)
+4. innerhalb von drei Monaten nach Ablauf eines Kalenderjahres den zuständigen Behörden über jede durchgeführte Prüfung einen Bericht nach behördlichen Vorgaben vorzulegen, in dem eine Zusammenfassung der bei der jeweiligen Prüfung festgestellten bedeutsamen Mängel sowie eine Zusammenfassung der grundlegenden Folgerungen für die Verbesserung der Anlagensicherheit, einschließlich Störfallvorsorge, enthalten ist;
 
-d)
+5. die vom Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit im Bundesanzeiger veröffentlichten sicherheitstechnischen Regeln zu berücksichtigen;
 
-2.
+6. einen Prüfauftrag nicht anzunehmen, wenn sie im Rahmen a)der Planung oder des Genehmigungsverfahrens,b)der Erstellung des Konzepts zur Verhinderung von Störfällen,c)der Erstellung des Sicherheitsberichts oderd)der Erstellung des internen Alarm- und Gefahrenabwehrplansfür den Betreiber der Anlage, auf die sich der Prüfungsauftrag beziehen soll, Aufträge durchgeführt haben, durch die sie bei einer nachfolgenden Prüfungstätigkeit in einen Interessenskonflikt geraten könnten; der Planung oder des Genehmigungsverfahrens, der Erstellung des Konzepts zur Verhinderung von Störfällen, der Erstellung des Sicherheitsberichts oder der Erstellung des internen Alarm- und Gefahrenabwehrplans
 
-3.
+7. zur Aufrechterhaltung der Fachkunde a)sich entsprechend der Entwicklung des Standes der Technik und der Sicherheitstechnik fortzubilden undb)alle zwei Jahre an einem vom Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit autorisierten Meinungs- und Erfahrungsaustausch teilzunehmen; sich entsprechend der Entwicklung des Standes der Technik und der Sicherheitstechnik fortzubilden und alle zwei Jahre an einem vom Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit autorisierten Meinungs- und Erfahrungsaustausch teilzunehmen;
 
-4.
-
-5.
-
-6.
-
-a)
-
-b)
-
-c)
-
-d)
-
-7.
-
-a)
-
-b)
-
-8.
+8. den Schutz von Betriebs- und Geschäftsgeheimnissen sowie von Geheimnissen aus Gründen der öffentlichen Sicherheit zu gewährleisten.
 
 (2) In begründeten Einzelfällen können Unteraufträge an andere Sachverständige vergeben werden; vor der Vergabe ist der zuständigen Behörde der Unterauftrag nebst Begründung anzuzeigen.
 
@@ -324,20 +272,12 @@ Bestehende Bekanntgaben für Stellen und Sachverständige, die vor dem 2. Mai 20
 
 Prüfbereiche ergeben sich aus der Kombination von Tätigkeitsbereichen (A.) und Stoffbereichen (B.).
 
-A. Tätigkeitsbereiche
-
-B. Stoffbereiche
-
 Die Bekanntgabe innerhalb der vorgenannten Tätigkeits- und Stoffbereiche ist begrenzt durch die im Bekanntgabeverfahren vorgelegte Akkreditierung mit den dort beschriebenen Mess- und Untersuchungsmethoden. Grundsätzlich gilt für eine bekannt gegebene Stelle das Gebot der Einheit von Probenahme und Analytik; davon ausgenommen sind die besonders aufwändigen Messverfahren in den Stoffbereichen Sp und Sa.
 
 ### Anlage 2 — (zu § 2 Nummer 5, § 7 Nummer 2, § 12 Absatz 2, § 13 Absatz 2 und § 13 Absatz 2a)
 
 Prüfungsbereiche ergeben sich aus der Kombination von Anlagenarten (A.) und Fachgebieten (B.).
 
-A. Anlagenarten
+1. Anlagenarten oder Gruppen von Anlagenarten gemäß Anhang 1 der Vierten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über genehmigungsbedürftige Anlagen – 4. BImSchV) in der jeweils gültigen Fassung, auch soweit die dort genannten Schwellen unterschritten werden;
 
-1.
-
-2.
-
-B. Fachgebiete
+2. nicht genehmigungsbedürftige Anlagenarten, die Betriebsbereich oder Teil eines Betriebsbereichs sein können.

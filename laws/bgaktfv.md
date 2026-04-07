@@ -8,7 +8,7 @@
 
 ### § 1 — Anwendungsbereich
 
-Diese Verordnung gilt für die Führung von elektronischen Prozess- und Verfahrensakten bei den obersten Gerichten des Bundes nach § 298a der Zivilprozessordnung, § 14 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, § 46e des Arbeitsgerichtsgesetzes, § 65b des Sozialgerichtsgesetzes, § 55b der Verwaltungsgerichtsordnung sowie § 52b der Finanzgerichtsordnung.
+Diese Verordnung gilt für die Führung von elektronischen Prozess- und Verfahrensakten bei den obersten Gerichten des Bundes nach § 298a der Zivilprozessordnung, § 14 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, § 46e des Arbeitsgerichtsgesetzes, § 65b des Sozialgerichtsgesetzes, § 55b der Verwaltungsgerichtsordnung sowie § 52b der Finanzgerichtsordnung.
 
 ### § 2 — In Papierform angelegte Akten
 
@@ -22,17 +22,17 @@ Akten, die in Papierform angelegt wurden, können in Papierform weitergeführt w
 
 (3) Bei der elektronischen Aktenführung sind alle Daten vorzuhalten, die erforderlich sind, um bei der elektronischen Übermittlung von elektronischen Akten einen strukturierten maschinenlesbaren Datensatz im Dateiformat XML beizufügen, der den nach § 7 bekanntgemachten Definitions- oder Schemadateien entspricht. Der Datensatz enthält mindestens Folgendes:
 
-1.
+1. die Bezeichnung des Gerichts;
 
-2.
+2. das Aktenzeichen des Verfahrens;
 
-3.
+3. die Bezeichnung der Parteien oder Verfahrensbeteiligten;
 
-4.
+4. die Angabe des Verfahrensgegenstandes;
 
-5.
+5. sofern bekannt, das Aktenzeichen eines denselben Verfahrensgegenstand betreffenden Verfahrens und die Bezeichnung der die Akten führenden Stelle;
 
-6.
+6. die Information darüber, ob und in welchem Umfang die Aktenführung oder die Bearbeitungsbefugnis an die empfangende Stelle abgegeben werden soll oder ob nur ein Repräsentat der elektronischen Akte übersandt wird.
 
 ### § 4 — Bearbeitung der elektronischen Akte
 

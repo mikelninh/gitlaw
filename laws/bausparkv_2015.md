@@ -14,27 +14,27 @@ Auf Grund des § 10 des Gesetzes über Bausparkassen, der zuletzt durch Artikel 
 
 (1) Ein bauspartechnisches Simulationsmodell ist jeweils nur dann als geeignet anzusehen für die in § 8 Absatz 4 des Gesetzes über Bausparkassen und die in § 2 genannten Zwecke sowie zur Beurteilung, ob nach § 4 Absatz 3 eine nachhaltig gesicherte kollektive Liquidität sichergestellt ist und die Bausparkasse aufgrund einer nachhaltig gesicherten kollektiven Liquidität jederzeit in der Lage ist, Ansprüche auf Auszahlung der Bauspardarlehen und Bausparguthaben zu befriedigen, wenn damit eine hinreichend genaue Fortschreibung der Entwicklung des Bauspargeschäfts im Sinne des § 1 Absatz 1 des Gesetzes über Bausparkassen sowie der zugehörigen Zinsaufwendungen und -erträge über einen Zeitraum von in der Regel 20 Jahren (Simulationszeitraum) möglich ist.
 
-(2) Zur Überprüfung der Güte des bauspartechnischen Simulationsmodells hat jede Bausparkasse mindestens einmal jährlich einen Rückvergleich durchzuführen. Zur Beurteilung der Güte der Simulationsparameter sind mindestens einmal jährlich Soll-Ist-Vergleiche durchzuführen. Die Ergebnisse des Rückvergleichs und der Soll-Ist-Vergleiche hat die jeweilige Bausparkasse in einem Validierungsbericht zusammenzufassen. Der Validierungsbericht ist vorzulegen bei
+(2) Zur Überprüfung der Güte des bauspartechnischen Simulationsmodells hat jede Bausparkasse mindestens einmal jährlich einen Rückvergleich durchzuführen. Zur Beurteilung der Güte der Simulationsparameter sind mindestens einmal jährlich Soll-Ist-
 
-1.
+1. einem unabhängigen Wirtschaftsprüfer oder einer unabhängigen Wirtschaftsprüfungsgesellschaft einmalig im Rahmen einer Prüfung nach § 8 Absatz 5 des Gesetzes über Bausparkassen und
 
-2.
+2. der Bundesanstalt jährlich im Rahmen des kollektiven Lageberichts gemäß § 3.
 
-(3) Der Prüfer nach § 8 Absatz 5 des Gesetzes über Bausparkassen hat zur Beurteilung, ob das bauspartechnische Simulationsmodell im Sinne des Absatzes 1 geeignet ist, insbesondere zu prüfen, ob Der Prüfungsbericht nach § 8 Absatz 5 des Gesetzes über Bausparkassen muss zweifelsfrei ergeben, ob die in Absatz 1 und 2 genannten Anforderungen an ein bauspartechnisches Simulationsmodell erfüllt sind. Der Prüfer hat den Prüfungsbericht und den Bestätigungsvermerk nach § 8 Absatz 5 des Gesetzes über Bausparkassen unverzüglich nach Beendigung der Prüfung der Bundesanstalt vorzulegen.
+(3) Der Prüfer nach § 8 Absatz 5 des Gesetzes über Bausparkassen hat zur Beurteilung, ob das bauspartechnische Simulationsmodell im Sinne des Absatzes 1 geeignet ist, insbesondere zu prüfen, ob
 
-1.
+1. die der Simulation zugrunde liegenden Annahmen plausibel erscheinen und nachvollziehbar dargelegt sowie begründet wurden,
 
-2.
+2. die Simulationsparameter mit geeigneten Methoden und hinreichender Genauigkeit unter Berücksichtigung möglicher Verhaltensweisen der Bausparer sowie der gesamtwirtschaftlichen Rahmenbedingungen plausibel und nachvollziehbar bestimmt wurden,
 
-3.
+3. die internen Rechenperioden des Simulationsmodells drei Monate nicht übersteigen,
 
-4.
+4. bei Annahme der Konstanz aller Simulationsparameter die Simulation zu einem Beharrungszustand im Sinne von konstanten Umsatz- und Bestandsgrößen führt und bei Einstellung eines Tarifs bei ausreichend langer Simulationsdauer die Bestandszahlen im Wesentlichen auf null geführt werden,
 
-5.
+5. bei der Verwendung einer Stichprobe oder einer anderen geeigneten Methode zur Komprimierung des Datenbestandes der Vertragsbestand hinreichend genau abgebildet wird,
 
-6.
+6. der Aufbau des Modells und der Ablauf des Verfahrens einschließlich der Prämissen- und Parameterfestlegung schriftlich dokumentiert wird und sichergestellt ist, dass diese Dokumentation regelmäßig aktualisiert wird, und
 
-7.
+7. die Ergebnisse des Validierungsberichts nach Absatz 2 den Anforderungen nach Absatz 1 nicht entgegenstehen.
 
 (4) Die Bundesanstalt kann der Bausparkasse die Verwendung des bauspartechnischen Simulationsmodells für sämtliche oder einzelne der in Absatz 1 genannten Zwecke untersagen, wenn es die Anforderungen nach den Absätzen 1 bis 3 nicht erfüllt. Zur Beurteilung, ob die Voraussetzungen der Absätze 1 bis 3 vorliegen, zieht die Bundesanstalt in der Regel den in Absatz 3 genannten Prüfungsbericht und den Bestätigungsvermerk mit heran.
 
@@ -44,41 +44,41 @@ Auf Grund des § 10 des Gesetzes über Bausparkassen, der zuletzt durch Artikel 
 
 (2) Die Ergebnisse einer gemäß § 8 Absatz 4 des Gesetzes über Bausparkassen mit einem bauspartechnischen Simulationsmodell durchgeführten Simulation (Simulationsergebnisse) sind von der Bausparkasse nachvollziehbar zu dokumentieren. Hierzu hat die Bausparkasse einen Bericht zu erstellen. In dem Bericht sind nachvollziehbar darzulegen und zu begründen:
 
-1.
+1. die den Simulationsergebnissen zugrunde liegenden Annahmen und
 
-2.
+2. die Simulationsparameter und die Abhängigkeiten, die zu den jeweiligen Simulationsergebnissen führen.
 
 (3) Die Bundesanstalt kann die Gestaltung der Szenarien vorgeben und bei Bedarf weitere Szenarien anfordern, sofern dies für den jeweiligen Zweck erforderlich erscheint.
 
-(4) Die Bundesanstalt kann die Simulationsergebnisse zur Beurteilung mit heranziehen, ob die in § 10 Nummer 10 Buchstaben a bis k des Gesetzes über Bausparkassen genannten Voraussetzungen vorliegen. Zur Beurteilung nach Satz 1 kann die Bundesanstalt ferner weitere im Zusammenhang mit dem Bauspargeschäft stehende betriebswirtschaftliche Größen mit heranziehen. Die Bausparkasse hat die Entwicklung dieser betriebswirtschaftlichen Größen über einen Zeitraum von in der Regel 20 Jahren (Prognosezeitraum) zu prognostizieren. Zu den betriebswirtschaftlichen Größen im Sinne des Satzes 2 zählen insbesondere Das Teilbetriebsergebnis im Sinne des Satzes 4 Nummer 10 ist die Summe aus Zinsüberschuss und Provisionsüberschuss abzüglich des Verwaltungsaufwands. Die kollektive Zinsspanne im Sinne des Satzes 4 Nummer 11 ist die Differenz von durchschnittlicher Verzinsung der Bauspardarlehen und durchschnittlicher Verzinsung der Bauspareinlagen. Die durchschnittliche Verzinsung der Bauspardarlehen im Sinne des Satzes 6 ist das Verhältnis Zinsertrag zu Jahresdurchschnittsbestand an Bauspardarlehen. Die durchschnittliche Verzinsung der Bauspareinlagen im Sinne des Satzes 6 ist das Verhältnis Zinsaufwand zu Jahresdurchschnittsbestand an Bauspareinlagen. Die Annahmen, die der Prognose über die Entwicklung der in Satz 4 Nummer 1 bis 9 genannten Größen zugrunde liegen, sind nachvollziehbar darzulegen und zu begründen.
+(4) Die Bundesanstalt kann die Simulationsergebnisse zur Beurteilung mit heranziehen, ob die in § 10 Nummer 10 Buchstaben a bis k des Gesetzes über Bausparkassen genannten Voraussetzungen vorliegen. Zur Beurteilung nach Satz 1 kann die Bundesanstalt ferner weitere im Zusammenhang mit dem Bauspargeschäft stehende betriebswirtschaftliche Größen mit heranziehen. Die Bausparkasse hat die Entwicklung dieser betriebswirtschaftlichen Größen über einen Zeitraum von in der Regel 20 Jahren (Prognosezeitraum) zu prognostizieren. Zu den betriebswirtschaftlichen Größen im Sinne des Satzes 2 zählen insbesondere
 
-1.
+1. die Höhe der Vorfinanzierungskredite oder der Zwischenfinanzierungskredite nach § 4 Absatz 1 Nummer 1 des Gesetzes über Bausparkassen,
 
-2.
+2. die Höhe der sonstigen Baudarlehen nach § 4 Absatz 1 Nummer 2 des Gesetzes über Bausparkassen,
 
-3.
+3. die Höhe der Geldanlagen nach § 4 Absatz 3 des Gesetzes über Bausparkassen,
 
-4.
+4. die Höhe der zur Gewährung von Bauspardarlehen und von Darlehen nach § 4 Absatz 1 Nummer 1 und 2 des Gesetzes über Bausparkassen sowie zur Beschaffung der darüber hinaus für den Geschäftsbetrieb erforderlichen Mittel nach den Regelungen des § 4 Absatz 1 Nummer 5 des Gesetzes über Bausparkassen eingegangenen Verbindlichkeiten,
 
-5.
+5. die Höhe des Fonds zur bauspartechnischen Absicherung nach § 6 Absatz 2 des Gesetzes über Bausparkassen,
 
-6.
+6. die Höhe der jeweiligen Aufwendungen und Erträge, die jeweils den in Nummer 1 bis 5 genannten Größen zuzuordnen sind,
 
-7.
+7. die Höhe der unverzinslichen Passiva,
 
-8.
+8. die Höhe des Verwaltungsaufwands,
 
-9.
+9. die Höhe des Provisionsüberschusses,
 
-10.
+10. die Höhe des Teilbetriebsergebnisses im Sinne des Satzes 5,
 
-11.
+11. die kollektive Zinsspanne im Sinne des Satzes 6,
 
-12.
+12. die kollektiv bedingte Zinsspanne im Sinne des § 1 Absatz 4 Satz 1 des Gesetzes über Bausparkassen,
 
-13.
+13. der kollektiv bedingte Zinsüberschuss im Sinne des § 1 Absatz 4 Satz 2 des Gesetzes über Bausparkassen und
 
-14.
+14. der gesamte Zinsüberschuss.
 
 (5) Die Bundesanstalt kann weitere zu prognostizierende Größen benennen, sofern dies erforderlich erscheint, um zu beurteilen, ob die Voraussetzungen nach § 10 Nummer 10 Buchstabe a bis k des Gesetzes über Bausparkassen vorliegen.
 
@@ -86,23 +86,23 @@ Auf Grund des § 10 des Gesetzes über Bausparkassen, der zuletzt durch Artikel 
 
 (7) Die Bundesanstalt kann die Form vorgeben, in der Simulations- und Prognoseergebnissen darzulegen und zu begründen sind, insbesondere auch deren Verbindung in einem gemeinsamen Bericht.
 
-(8) Bei Anträgen auf eine Genehmigung nach § 6 Absatz 1 Satz 2 Nummer 2 und Absatz 2 Satz 4, nach § 9 Absatz 1 Satz 1 und 2 sowie nach § 14 Absatz 1 und 3 des Gesetzes über Bausparkassen hat die Bausparkasse ihrem jeweiligen Antrag in der Regel beizufügen: Diese müssen den Anforderungen nach den Absätzen 1 bis 7 entsprechen.
+(8) Bei Anträgen auf eine Genehmigung nach § 6 Absatz 1 Satz 2 Nummer 2 und Absatz 2 Satz 4, nach § 9 Absatz 1 Satz 1 und 2 sowie nach § 14 Absatz 1 und 3 des Gesetzes über Bausparkassen hat die Bausparkasse ihrem jeweiligen Antrag in der Regel beizufügen:
 
-1.
+1. aktuelle Simulations- und Prognoseergebnisse sowie
 
-2.
+2. einen Bericht zu den Simulations- und Prognoseergebnissen.
 
 ### § 3 — Kollektiver Lagebericht
 
 (1) Die Bausparkasse hat der Bundesanstalt bis spätestens zum Ende eines Kalenderjahres einen kollektiven Lagebericht nach § 3 Absatz 5 des Gesetzes über Bausparkassen einzureichen. Dieser hat unter Beschreibung des Istzustands des Bausparkollektivs und der aktuellen gesamtwirtschaftlichen Rahmenbedingungen die in § 2 Absatz 8 Satz 1 Nummer 1 und 2 aufgeführten Informationen und Unterlagen zu enthalten. § 2 Absatz 8 Satz 2 gilt entsprechend. Darüber hinaus hat die Bausparkasse insbesondere darzulegen
 
-1.
+1. die Risiken derjenigen Tarife, deren Verzinsung vom jeweiligen Marktzinsniveau erheblich abweicht,
 
-2.
+2. den Anteil der Tarife, absolut und relativ gemessen am gesamten Bausparsummenbestand, getrennt nach der Spar- und der Darlehensphase, deren individuelles Sparer-Kassen-Leistungsverhältnis größer als 1,000 ist, einschließlich einer Erläuterung der Auswirkungen dieser Tarife auf den Zinsertrag und die kollektive Liquidität sowie einer Beurteilung der diesbezüglichen Risiken und auch der Risikobegrenzungsmaßnahmen,
 
-3.
+3. die Maßnahmen zur Absicherung der Risiken aus längerfristigen Verbindlichkeiten und
 
-4.
+4. eine Beurteilung, ob die Erfüllung der übernommenen Verpflichtungen im Sinne des § 3 Absatz 5 Satz 1 Nummer 1 des Gesetzes über Bausparkassen im Simulationszeitraum gewährleistet ist.
 
 (2) Den kollektiven Lagebericht hat die Bausparkasse um Schwellenwerte für ausgewählte, geeignete Größen der Simulations- und Prognoseergebnisse gemäß § 2 Absatz 2 und 6 zu ergänzen, deren Über- oder Unterschreitung Gegensteuerungsmaßnahmen erforderlich machen würde. Sind die Schwellenwerte im Simulationszeitrum über- oder unterschritten, hat die Bausparkasse geeignete Gegensteuerungsmaßnahmen aufzuzeigen. Sind die Schwellenwerte in den ersten fünf Jahren des Simulationszeitraums über- oder unterschritten, so sind die Wirkungen geeigneter Gegensteuerungsmaßnahmen qualitativ und quantitativ zu beschreiben.
 
@@ -128,31 +128,31 @@ Auf Grund des § 10 des Gesetzes über Bausparkassen, der zuletzt durch Artikel 
 
 (3) Bausparkassen, die eine Genehmigung nach § 6 Absatz 1 Nummer 2 des Gesetzes über Bausparkassen beantragt oder erhalten haben, haben nachfolgende Anforderungen einzuhalten:
 
-1.
+1. insbesondere die fortgeschriebenen Werte der Bauspareinlagen und Bauspardarlehen mindestens jährlich mit den Ist-Werten zu vergleichen und am Ende eines Kalenderjahres die fortgeschriebenen Werte den Ist-Werten gegenüberzustellen sowie das Ergebnis der Bundesanstalt einzureichen;
 
-2.
+2. bei gravierenden Abweichungen der Ist-Werte von den Soll-Werten im Sinne der Nummer 1 eine Abweichungsanalyse durchzuführen, die Ergebnisse der Analyse der Bundesanstalt anzuzeigen, die Abweichungsursachen zu begründen und Maßnahmen aufzuzeigen, die geeignet sind, derartige Abweichungen künftig zu verhindern.
 
 (4) Die Bausparkasse hat der Bundesanstalt unverzüglich schriftlich anzuzeigen, wenn ihr aufgrund der Simulationsergebnisse, Prognoseergebnisse oder sonstiger Größen Erkenntnisse vorliegen, nach denen es nicht gewährleistet erscheint, dass die Bausparkasse aufgrund einer nachhaltig gesicherten kollektiven Liquidität jederzeit in der Lage ist, Ansprüche auf Auszahlung der Bauspardarlehen und Bausparguthaben zu befriedigen.
 
-(5) Die Bundesanstalt kann eine Genehmigung nach § 6 Absatz 1 Nummer 2 des Gesetzes über Bausparkassen insbesondere auch versagen, bei Bekanntgabe oder nachträglich mit Nebenbestimmungen versehen oder widerrufen, wenn Bei ihrer Entscheidung über eine Versagung, einen Widerruf oder eine Nebenbestimmung zu der Genehmigung berücksichtigt die Bundesanstalt die Belange der Bausparer. Liegen die Voraussetzungen vor, eine Genehmigung zu widerrufen, kann die Bundesanstalt anstelle eines sofortigen Widerrufs insbesondere die Genehmigung nachträglich befristen und mit Auflagen versehen, wenn dies geeignet und erforderlich erscheint, um der Bausparkasse zu ermöglichen, ihre Kollektivsteuerung innerhalb eines angemessenen Zeitraums an den Umstand anzupassen, dass sie die Zuteilungsmasse nicht mehr gemäß der ursprünglichen Genehmigung verwenden darf.
+(5) Die Bundesanstalt kann eine Genehmigung nach § 6 Absatz 1 Nummer 2 des Gesetzes über Bausparkassen insbesondere auch versagen, bei Bekanntgabe oder nachträglich mit Nebenbestimmungen versehen oder widerrufen, wenn
 
-1.
+1. die Anforderungen nach Absatz 1 Satz 1 oder Absatz 2 nicht eingehalten werden oder
 
-2.
+2. gravierende Abweichungen im Sinne des Absatzes 2 Nummer 2 nicht nur einmalig auftreten und die Abweichungen nicht nachweislich auf von der Bausparkasse nicht prognostizierbare externe Faktoren zurückzuführen sind.
 
 ### § 6 — Tarifgenehmigungsanträge und Anträge auf Genehmigung von Bestandsübertragungen
 
-(1) Die Bausparkasse hat Anträgen auf eine Genehmigung nach § 9 Absatz 1 Satz 1 und 2 und nach § 14 Absatz 3 des Gesetzes über Bausparkassen insbesondere die nachfolgend aufgeführten Unterlagen beizufügen: Die Unterlagen können auch in elektronischer Form bei der Bundesanstalt vorgelegt werden.
+(1) Die Bausparkasse hat Anträgen auf eine Genehmigung nach § 9 Absatz 1 Satz 1 und 2 und nach § 14 Absatz 3 des Gesetzes über Bausparkassen insbesondere die nachfolgend aufgeführten Unterlagen beizufügen:
 
-1.
+1. die Allgemeinen Geschäftsgrundsätze und Allgemeinen Bedingungen für Bausparverträge, die Gegenstand des Antrags sind, sowie
 
-2.
+2. Nachweise darüber, dass die Anforderungen nach § 4 eingehalten worden sind.
 
 (2) Die Bausparkasse hat Anträgen auf eine Genehmigung nach § 14 Absatz 1 des Gesetzes über Bausparkassen insbesondere die folgenden Unterlagen beizufügen:
 
-1.
+1. den Vertrag, durch den der Bestand an Bausparverträgen mit den zugehörigen Aktiva und Passiva auf eine andere oder auf mehrere andere Bausparkassen ganz oder teilweise übertragen werden soll, sowie
 
-2.
+2. Unterlagen, aus denen hervorgeht, dass die Anforderungen nach § 4 eingehalten werden.
 
 (3) § 2 Absatz 8 bleibt von den Absätzen 1 und 2 unberührt.
 
@@ -180,7 +180,7 @@ Auf Grund des § 10 des Gesetzes über Bausparkassen, der zuletzt durch Artikel 
 
 ### § 9 — Großbausparverträge
 
-(1) Großbausparverträge sind Bausparverträge, bei denen die Bausparsumme den Betrag von 700 000 Euro übersteigt. Alle innerhalb von zwölf Monaten abgeschlossenen Bausparverträge eines Bausparers gelten dabei als ein Vertrag.
+(1) Großbausparverträge sind Bausparverträge, bei denen die Bausparsumme den Betrag von 700 000 Euro übersteigt. Alle innerhalb von zwölf Monaten abgeschlossenen Bausparverträge eines Bausparers gelten dabei als ein Vertrag.
 
 (2) Der Anteil der nicht zugeteilten Großbausparverträge am gesamten nicht zugeteilten Bausparsummenbestand der Bausparverträge einer Bausparkasse darf nicht höher als 15 Prozent sein.
 
@@ -200,7 +200,7 @@ Der Anteil der Darlehen, die der Finanzierung von Bauvorhaben mit gewerblichem C
 
 ### § 12 — Darlehen gegen Verpflichtungserklärung, Blankodarlehen
 
-(1) Darlehen gegen Abgabe einer Verpflichtungserklärung nach § 7 Absatz 4 Nummer 1 des Gesetzes über Bausparkassen oder ohne Sicherung nach § 7 Absatz 4 Nummer 2 des Gesetzes über Bausparkassen dürfen im Einzelfall nur bis zu einem Betrag von 50 000 Euro gewährt werden.
+(1) Darlehen gegen Abgabe einer Verpflichtungserklärung nach § 7 Absatz 4 Nummer 1 des Gesetzes über Bausparkassen oder ohne Sicherung nach § 7 Absatz 4 Nummer 2 des Gesetzes über Bausparkassen dürfen im Einzelfall nur bis zu einem Betrag von 50 000 Euro gewährt werden.
 
 (2) Der Anteil aller Darlehen nach Absatz 1 darf insgesamt 30 Prozent des Gesamtbestandes der Forderungen aus Darlehen einer Bausparkasse nicht übersteigen.
 

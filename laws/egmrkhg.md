@@ -10,19 +10,11 @@
 
 (1) In Verfahren vor dem Europäischen Gerichtshof für Menschenrechte wird einer dritten in ihren Menschenrechten betroffenen Person auf Antrag Kostenhilfe bewilligt, wenn
 
-1.
+1. die Beschwerde der Bundesrepublik Deutschland vom Gerichtshof zur Stellungnahme zugestellt worden ist,
 
-2.
+2. entweder a)der Präsident des Gerichtshofs eine drittbetroffene Person gemäß Artikel 36 Absatz 2 der Europäischen Menschenrechtskonvention aufgefordert hat, schriftlich Stellung zu nehmen oder an der mündlichen Verhandlung teilzunehmen, oderb)der Antrag der drittbetroffenen Person, gemäß Artikel 36 Absatz 2 der Europäischen Menschenrechtskonvention Stellung zu nehmen oder an der mündlichen Verhandlung teilzunehmen, aa)erfolgreich war oderbb)Aussicht auf Erfolg hat und nicht mutwillig ist und der Präsident des Gerichtshofs eine drittbetroffene Person gemäß Artikel 36 Absatz 2 der Europäischen Menschenrechtskonvention aufgefordert hat, schriftlich Stellung zu nehmen oder an der mündlichen Verhandlung teilzunehmen, oder der Antrag der drittbetroffenen Person, gemäß Artikel 36 Absatz 2 der Europäischen Menschenrechtskonvention Stellung zu nehmen oder an der mündlichen Verhandlung teilzunehmen, aa)erfolgreich war oderbb)Aussicht auf Erfolg hat und nicht mutwillig ist und erfolgreich war oder Aussicht auf Erfolg hat und nicht mutwillig ist und
 
-a)
-
-b)
-
-aa)
-
-bb)
-
-3.
+3. die drittbetroffene Person nach ihren persönlichen und wirtschaftlichen Verhältnissen die Kosten der Verfahrensführung nicht, nur zum Teil oder nur in Raten aufbringen kann.
 
 (2) In Bezug auf Voraussetzungen und Verfahren der Kostenhilfegewährung sind die §§ 115, 116, 117 Absatz 1 Satz 1 erster Halbsatz, Satz 2, Absatz 2 Satz 1, § 118 Absatz 2, § 120 Absatz 1, 3 und 4 sowie § 124 der Zivilprozessordnung in der jeweils geltenden Fassung entsprechend anzuwenden. An die Stelle des Prozessgerichts tritt das Bundesamt für Justiz. Die drittbetroffene Person muss bei der Antragstellung die Formulare verwenden, die gemäß § 117 Absatz 3 der Zivilprozessordnung für die Erklärung der persönlichen und wirtschaftlichen Verhältnisse eingeführt worden sind.
 

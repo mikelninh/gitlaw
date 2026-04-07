@@ -8,17 +8,17 @@
 
 ### Eingangsformel
 
-Auf Grund sowie in Verbindung mit Artikel 28 des Gesetzes vom 16. Juli 1998 (BGBl. I S. 1827) und Artikel 29 des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3656) verordnet das Bundesministerium der Justiz:
+Auf Grund
 
--
+- des § 27 Abs. 5, der §§ 28, 29 Abs. 3, des § 34 Abs. 6 und 8, des § 43 Abs. 8 Nr. 2 und des § 63 Abs. 4 des Patentgesetzes in der Fassung der Bekanntmachung vom 16. Dezember 1980 (BGBl. 1981 I S. 1), von denen § 27 Abs. 5 zuletzt durch Artikel 7 Nr. 10, § 29 Abs. 3 durch Artikel 7 Nr. 12, § 34 Abs. 6 und 8 durch Artikel 7 Nr. 16 Buchstabe a bis c sowie § 63 Abs. 4 zuletzt durch Artikel 7 Nr. 27 Buchstabe b Doppelbuchstabe bb des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3656) und § 28 durch Artikel 2 Abs. 7 Nr. 1 des Gesetzes vom 12. März 2004 (BGBl. I S. 390) geändert worden sind,
 
--
+- des § 4 Abs. 4 und 7, § 10 Abs. 2 und des § 29 des Gebrauchsmustergesetzes in der Fassung der Bekanntmachung vom 28. August 1986 (BGBl. I S. 1455), von denen § 4 Abs. 4 und 7 durch Artikel 8 Nr. 1 Buchstabe a, c und d sowie § 10 Abs. 2 durch Artikel 8 Nr. 5 des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3656), § 29 durch Artikel 2 Abs. 8 Nr. 3 des Gesetzes vom 12. März 2004 (BGBl. I S. 390) geändert worden sind,
 
--
+- des § 65 sowie des § 138 Abs. 2 des Markengesetzes vom 25. Oktober 1994 (BGBl. I S. 3084, 1995 I S. 156), von denen § 138 Abs. 2 durch Artikel 9 Nr. 32 des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3656) und § 65 Abs. 1 Nr. 1 durch Artikel 2 Abs. 9 Nr. 7 des Gesetzes vom 12. März 2004 (BGBl. I S. 390) geändert worden sind,
 
--
+- des § 3 Abs. 3 und des § 4 Abs. 4 des Halbleiterschutzgesetzes vom 22. Oktober 1987 (BGBl. I S. 2294) in Verbindung mit § 10 Abs. 2 des Gebrauchsmustergesetzes in der Fassung der Bekanntmachung vom 28. August 1986 (BGBl. I S. 1455), von denen § 3 Abs. 3 durch Artikel 2 Abs. 15 des Gesetzes vom 12. März 2004 (BGBl. I S. 390) geändert worden ist, und
 
--
+- des § 26 Abs. 1, 2 und 4 des Geschmacksmustergesetzes vom 12. März 2004 (BGBl. I S. 390)
 
 ### Inhaltsübersicht
 
@@ -38,15 +38,15 @@ Auf Grund sowie in Verbindung mit Artikel 28 des Gesetzes vom 16. Juli 1998 (BGB
 
 (3) In Verfahren vor der Patentabteilung bedarf es der Beratung und Abstimmung in einer Sitzung für
 
-1.
+1. Beschlüsse, durch die über die Aufrechterhaltung, den Widerruf oder die Beschränkung des Patents entschieden wird,
 
-2.
+2. Beschlüsse über die Erteilung eines ergänzenden Schutzzertifikats oder die Zurückweisung der Zertifikatsanmeldung,
 
-3.
+3. die Festsetzung der Vergütung nach § 23 Abs. 4 und 6 des Patentgesetzes,
 
-4.
+4. Beschlüsse über die Gewährung von Verfahrenskostenhilfe für Verfahrensgebühren in Beschränkungs- und Einspruchsverfahren sowie über die Beiordnung eines Vertreters nach § 133 des Patentgesetzes,
 
-5.
+5. Gutachten und Beschlüsse, durch welche die Abgabe eines Gutachtens abgelehnt wird.
 
 Von einer Sitzung kann ausnahmsweise abgesehen werden, sofern die jeweils zuständigen Vorsitzenden sie nicht für erforderlich halten.
 
@@ -58,11 +58,11 @@ Von einer Sitzung kann ausnahmsweise abgesehen werden, sofern die jeweils zustä
 
 (2) Die Vorsitzenden der Gebrauchsmusterabteilungen leiten die Geschäfte in den Verfahren vor ihren Gebrauchsmusterabteilungen. In den Verfahren vor den Gebrauchsmusterabteilungen übernimmt, soweit die jeweiligen Vorsitzenden nichts anderes bestimmt haben, ein Prüfer oder eine Prüferin die Berichterstattung. Die Berichterstattung umfasst den Vortrag in der Sitzung und die Vorbereitung der Beschlüsse und Gutachten. Die Vorsitzenden prüfen die Entwürfe der Beschlüsse und Gutachten für ihre Gebrauchsmusterabteilung und stellen sie fest. Über sachliche Meinungsverschiedenheiten beschließt die jeweilige Gebrauchsmusterabteilung.
 
-(3) In Verfahren vor der Gebrauchsmusterabteilung bedarf es der Beratung und Abstimmung in einer Sitzung für Von einer Sitzung kann ausnahmsweise abgesehen werden, sofern die jeweils zuständigen Vorsitzenden sie nicht für erforderlich halten.
+(3) In Verfahren vor der Gebrauchsmusterabteilung bedarf es der Beratung und Abstimmung in einer Sitzung für
 
-1.
+1. Beschlüsse, durch die über den Löschungsantrag entschieden wird,
 
-2.
+2. Gutachten und Beschlüsse, durch welche die Abgabe eines Gutachtens abgelehnt wird.
 
 (4) Die Gebrauchsmusterabteilungen entscheiden nach Stimmenmehrheit; bei Stimmengleichheit gibt die Stimme ihrer Vorsitzenden den Ausschlag.
 
@@ -72,11 +72,11 @@ Von einer Sitzung kann ausnahmsweise abgesehen werden, sofern die jeweils zustä
 
 (2) Der oder die Vorsitzende der Topografieabteilung leitet die Geschäfte in den Verfahren vor der Topografieabteilung. In den Verfahren vor der Topografieabteilung übernimmt, soweit der oder die Vorsitzende nichts anderes bestimmt hat, ein technisches Mitglied die Berichterstattung. Die Berichterstattung umfasst den Vortrag in der Sitzung und die Vorbereitung der Beschlüsse und Gutachten. Der oder die Vorsitzende prüft die Entwürfe der Beschlüsse und Gutachten für die Topografieabteilung und stellt sie fest. Über sachliche Meinungsverschiedenheiten beschließt die Topografieabteilung.
 
-(3) In Verfahren vor der Topografieabteilung bedarf es der Beratung und Abstimmung in einer Sitzung für Von einer Sitzung kann ausnahmsweise abgesehen werden, sofern der oder die Vorsitzende sie nicht für erforderlich hält.
+(3) In Verfahren vor der Topografieabteilung bedarf es der Beratung und Abstimmung in einer Sitzung für
 
-1.
+1. Beschlüsse, durch die über den Löschungsantrag entschieden wird, und
 
-2.
+2. Gutachten und Beschlüsse, durch welche die Abgabe eines Gutachtens abgelehnt wird.
 
 (4) Die Topografieabteilung entscheidet nach Stimmenmehrheit; bei Stimmengleichheit gibt die Stimme des oder der Vorsitzenden den Ausschlag.
 
@@ -86,11 +86,11 @@ Von einer Sitzung kann ausnahmsweise abgesehen werden, sofern die jeweils zustä
 
 (2) Die Vorsitzenden der Markenabteilungen leiten die Geschäfte in den Verfahren vor ihren Markenabteilungen; sie bestimmen die weiteren Mitglieder und die Berichterstatter.
 
-(3) In Verfahren vor der Markenabteilung bedarf es der Beratung und Abstimmung in einer Sitzung für Von der Beratung kann abgesehen werden, wenn die jeweils zuständigen Vorsitzenden sie nicht für erforderlich halten.
+(3) In Verfahren vor der Markenabteilung bedarf es der Beratung und Abstimmung in einer Sitzung für
 
-1.
+1. Beschlüsse nach den §§ 53 und 57 des Markengesetzes und
 
-2.
+2. Aufgaben der Markenabteilungen, die nicht von den Vorsitzenden allein bearbeitet werden oder von ihnen an Angehörige der Markenabteilung nach § 56 Abs. 3 Satz 3 des Markengesetzes übertragen worden sind.
 
 (4) Die Markenabteilungen entscheiden nach Stimmenmehrheit; bei Stimmengleichheit gibt die Stimme ihrer Vorsitzenden den Ausschlag.
 
@@ -100,11 +100,11 @@ Von einer Sitzung kann ausnahmsweise abgesehen werden, sofern die jeweils zustä
 
 (2) Der Vorsitzende der jeweiligen Designabteilung leitet die Geschäfte in den Verfahren vor seiner Designabteilung. Er bestimmt die weiteren Mitglieder und die Berichterstatter.
 
-(3) In Verfahren vor den Designabteilungen bedarf es der Beratung und Abstimmung der jeweiligen Mitglieder in einer Sitzung für Von der Sitzung kann abgesehen werden, wenn der jeweils zuständige Vorsitzende sie nicht für erforderlich hält. Die Entscheidung über den Antrag auf Feststellung oder Erklärung der Nichtigkeit kann nicht übertragen werden.
+(3) In Verfahren vor den Designabteilungen bedarf es der Beratung und Abstimmung der jeweiligen Mitglieder in einer Sitzung für
 
-1.
+1. Beschlüsse, durch die über den Antrag auf Feststellung oder Erklärung der Nichtigkeit entschieden wird,
 
-2.
+2. Beschlüsse, in denen dem Vorsitzenden oder einem Angehörigen der Designabteilung Angelegenheiten der Designabteilung zur alleinigen Entscheidung übertragen werden.
 
 (4) Die Designabteilungen entscheiden nach Stimmenmehrheit; bei Stimmengleichheit gibt die Stimme ihres jeweiligen Vorsitzenden den Ausschlag.
 
@@ -240,15 +240,15 @@ Ist beim Deutschen Patent- und Markenamt innerhalb einer Frist eine Willenserkl�
 
 (1) In dem Berichtigungsantrag sind anzugeben:
 
-1.
+1. das Aktenzeichen des Schutzrechts,
 
-2.
+2. der Name und die Anschrift des Inhabers des Schutzrechts,
 
-3.
+3. falls der Inhaber des Schutzrechts einen Vertreter bestellt hat, der Name und die Anschrift des Vertreters,
 
-4.
+4. die Bezeichnung des Fehlers, der berichtigt werden soll,
 
-5.
+5. die einzutragende Berichtigung.
 
 (2) Enthalten mehrere Eintragungen von Schutzrechten desselben Inhabers denselben Fehler, so kann der Antrag auf Berichtigung dieses Fehlers für alle Eintragungen gemeinsam gestellt werden.
 
@@ -258,13 +258,13 @@ Ist beim Deutschen Patent- und Markenamt innerhalb einer Frist eine Willenserkl�
 
 (1) In dem Antrag auf Eintragung von Änderungen des Namens oder der Anschrift des Inhabers eines eingetragenen Schutzrechts sind anzugeben:
 
-1.
+1. das Aktenzeichen des Schutzrechts,
 
-2.
+2. der Name, der Sitz und die Anschrift des Inhabers des Schutzrechts in der im Register eingetragenen Form,
 
-3.
+3. falls der Inhaber des Schutzrechts einen Vertreter bestellt hat, der Name, der Sitz und die Anschrift des Vertreters,
 
-4.
+4. der Name, der Sitz und die Anschrift in der neu in das Register einzutragenden Form.
 
 (2) Betrifft die Änderung mehrere eingetragene Schutzrechte desselben Inhabers, so kann der Antrag auf Eintragung der Änderung für alle Schutzrechte gemeinsam gestellt werden.
 
@@ -276,23 +276,19 @@ Ist beim Deutschen Patent- und Markenamt innerhalb einer Frist eine Willenserkl�
 
 (2) In dem Antrag sind anzugeben:
 
-1.
+1. das Aktenzeichen des Schutzrechts,
 
-2.
+2. der Name, der Sitz und die Anschrift des Inhabers des Schutzrechts in der im Register eingetragenen Form,
 
-3.
+3. Angaben über die Rechtsnachfolger entsprechend § 4 Abs. 2 Nr. 1, Abs. 3 der Patentverordnung, § 3 Abs. 2 Nr. 1, Abs. 3 der Gebrauchsmusterverordnung, § 5 Abs. 1 bis 4 der Markenverordnung, § 6 Absatz 1 bis 4 der Designverordnung und § 3 Absatz 1 Nummer 5, Absatz 2, 6 Nummer 1 und 2 der Halbleiterschutzverordnung,
 
-4.
+4. falls die Rechtsnachfolger einen Vertreter bestellt haben, der Name und die Anschrift des Vertreters nach Maßgabe des § 13.
 
 (3) Für den Nachweis des Rechtsübergangs reicht es aus,
 
-1.
+1. dass der Antrag von den eingetragenen Inhabern oder ihren Vertretern und von den Rechtsnachfolgern oder ihren Vertretern unterschrieben ist oder
 
-2.
-
-a)
-
-b)
+2. dass dem Antrag, wenn er von den Rechtsnachfolgern gestellt wird,a)eine von den eingetragenen Inhabern oder ihren Vertretern unterschriebene Erklärung beigefügt ist, dass sie der Eintragung der Rechtsnachfolge zustimmen, oderb)Unterlagen beigefügt sind, aus denen sich die Rechtsnachfolge ergibt, wie zum Beispiel ein Übertragungsvertrag oder eine Erklärung über die Übertragung, wenn die entsprechenden Unterlagen von den eingetragenen Inhabern oder ihren Vertretern und von den Rechtsnachfolgern oder ihren Vertretern unterschrieben sind. eine von den eingetragenen Inhabern oder ihren Vertretern unterschriebene Erklärung beigefügt ist, dass sie der Eintragung der Rechtsnachfolge zustimmen, oder Unterlagen beigefügt sind, aus denen sich die Rechtsnachfolge ergibt, wie zum Beispiel ein Übertragungsvertrag oder eine Erklärung über die Übertragung, wenn die entsprechenden Unterlagen von den eingetragenen Inhabern oder ihren Vertretern und von den Rechtsnachfolgern oder ihren Vertretern unterschrieben sind.
 
 (4) Für die in Absatz 3 genannten Anträge und Erklärungen sollen die vom Deutschen Patent- und Markenamt herausgegebenen Formulare verwendet werden. Wird ein Antrag auf Eintragung eines Rechtsübergangs allein von den Rechtsnachfolgern gestellt und liegt dem Deutschen Patent- und Markenamt keine Erklärung nach Absatz 3 Nummer 2 Buchstabe a vor, so räumt das Deutsche Patent- und Markenamt dem eingetragenen Inhaber vor der Eintragung des Rechtsübergangs eine angemessene Frist zur Stellungnahme ein.
 
@@ -320,15 +316,15 @@ b)
 
 Über Muster, Modelle, Probestücke und ähnliche Unterlagen, deren Rückgabe nicht beantragt worden ist, verfügt das Deutsche Patent- und Markenamt,
 
-1.
+1. wenn die Anmeldung des Patents, der Topografie, der Marke oder des eingetragenen Designs zurückgewiesen oder zurückgenommen worden ist, nach Ablauf eines Jahres nach unanfechtbarer Zurückweisung oder Zurücknahme;
 
-2.
+2. wenn das Patent erteilt oder widerrufen worden ist, nach Ablauf eines Jahres nach Eintritt der Unanfechtbarkeit des Beschlusses über die Erteilung oder den Widerruf;
 
-3.
+3. wenn die Topografie eingetragen worden ist, nach Ablauf von drei Jahren nach Beendigung der Schutzfrist;
 
-4.
+4. wenn die Marke eingetragen worden ist, nach Ablauf eines Jahres nach Eintragung oder, wenn Widerspruch eingelegt worden ist, nach Ablauf eines Jahres nach dem Eintritt der Unanfechtbarkeit der Entscheidung über den Widerspruch;
 
-5.
+5. wenn das Design eingetragen worden ist, nach Ablauf von drei Jahren nach Beendigung der Schutzfrist.
 
 ## Abschnitt 3: Schlussvorschriften
 

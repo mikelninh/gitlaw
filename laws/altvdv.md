@@ -10,23 +10,23 @@
 
 ### § 1 — Datensätze
 
-(1) Eine Übermittlung von Daten nach sowie eine nach diesen Vorschriften bestehende Anzeige- und Mitteilungspflicht zwischen den am Verfahren Beteiligten erfolgen in Form eines amtlich vorgeschriebenen Datensatzes.
+(1) Eine Übermittlung von Daten nach
 
-1.
+1. § § 10 Absatz 2a, 2b, 2c und 4b, den §§ 10a, 22a oder Abschnitt XI des Einkommensteuergesetzes,
 
-2.
+2. § 32b Absatz 3 des Einkommensteuergesetzes, soweit auf § 22a des Einkommensteuergesetzes verwiesen wird, § 52 Absatz 30b des Einkommensteuergesetzes oder
 
-3.
+3. dieser Verordnung
 
-(2) Absatz 1 gilt nicht für Wird die Mitteilung nach § 11 Abs. 1 und 3 über die zentrale Stelle übermittelt, ist Absatz 1 anzuwenden. Die Mitteilung des Anbieters an den Zulageberechtigten nach § 90 Abs. 1 Satz 3 des Einkommensteuergesetzes kann mit der Bescheinigung nach § 92 des Einkommensteuergesetzes erfolgen.
+(2) Absatz 1 gilt nicht für
 
-1.
+1. Mitteilungen an den Zulageberechtigten,
 
-2.
+2. Mitteilungen des Zulageberechtigten nach § 10a oder Abschnitt XI des Einkommensteuergesetzes,
 
-3.
+3. Anzeigen nach den §§ 5 und 13 oder
 
-4.
+4. Mitteilungen nach den §§ 6, 10 Absatz 2 Satz 2 und § 11 Absatz 1 und 3.
 
 ### § 2 — Technisches Übermittlungsformat
 
@@ -34,13 +34,13 @@
 
 (2) Der codierte Zeichensatz für eine nach § 10a oder Abschnitt XI des Einkommensteuergesetzes oder nach einer im Abschnitt 2 dieser Verordnung vorzunehmenden Datenübermittlung hat vorbehaltlich der Sätze 2 und 3 den Anforderungen der DIN 66303, Ausgabe Juni 2000, zu entsprechen. Die zentrale Stelle kann für einzelne oder alle Datensätze die Verwendung eines anderen Zeichensatzes und die dafür erforderliche Codierung bestimmen. Der Zeitpunkt der erstmaligen Verwendung wird mindestens sechs Monate vorher durch das Bundesministerium der Finanzen im Bundessteuerblatt bekannt gegeben.
 
-(3) Der codierte Zeichensatz für eine Datenübermittlung nach hat vorbehaltlich des Satzes 2 den Anforderungen der ISO/IEC 8859-15, Ausgabe März 1999, zu entsprechen. Absatz 2 Satz 2 und 3 gilt entsprechend.
+(3) Der codierte Zeichensatz für eine Datenübermittlung nach
 
-1.
+1. § 10 Absatz 2a, 2b, 2c und 4b oder § 22a des Einkommensteuergesetzes,
 
-2.
+2. § 32b Absatz 3 des Einkommensteuergesetzes, soweit auf § 22a des Einkommensteuergesetzes verwiesen wird, § 52 Absatz 30b des Einkommensteuergesetzes oder
 
-3.
+3. den Abschnitten 3 und 4 dieser Verordnung
 
 ### § 2a — DIN- und ISO/IEC-Normen
 
@@ -70,17 +70,17 @@ DIN- und ISO/IEC-Normen, auf die in dieser Verordnung verwiesen wird, sind im Be
 
 (1) Der Anbieter, die zuständige Stelle und die Familienkassen haben der zentralen Stelle auf Anforderung anzuzeigen:
 
-1.
+1. die Kundenart,
 
-2.
+2. den Namen und die Anschrift,
 
-3.
+3. soweit erforderlich die E-Mail-Adresse,
 
-4.
+4. die Telefon- und soweit vorhanden die Telefaxnummer,
 
-5.
+5. die Betriebsnummer und
 
-6.
+6. die Art der Verbindung.
 
 (2) Der Anbieter hat zusätzlich zu den in Absatz 1 aufgeführten Angaben eine Zertifizierungsnummer sowie die Bankverbindung, über welche die Zulagenzahlungen abgewickelt werden sollen, anzuzeigen. Hat der Anbieter ausschließlich Daten nach § 10 Absatz 2a, 2b und 4b des Einkommensteuergesetzes zu übermitteln, ist die Angabe der Bankverbindung nicht erforderlich.
 
@@ -102,9 +102,9 @@ DIN- und ISO/IEC-Normen, auf die in dieser Verordnung verwiesen wird, sind im Be
 
 (2) Eine Mitteilung nach Absatz 1 kann unterbleiben, wenn die Versorgungseinrichtung dem Arbeitgeber mitgeteilt hat, dass
 
-1.
+1. sie die Höhe der individuell besteuerten Beiträge bereits kennt oder aus den bei ihr vorhandenen Daten feststellen kann oder
 
-2.
+2. eine Förderung nach § 10a oder Abschnitt XI des Einkommensteuergesetzes nicht möglich ist.
 
 (3) Der Arbeitnehmer kann gegenüber der Versorgungseinrichtung für die individuell besteuerten Beiträge insgesamt auf die Förderung nach § 10a oder Abschnitt XI des Einkommensteuergesetzes verzichten; der Verzicht kann für die Zukunft widerrufen werden.
 
@@ -132,7 +132,7 @@ Hat die zuständige Familienkasse der zentralen Stelle die Daten für die Gewäh
 
 (3) Der Anbieter hat der zentralen Stelle die Zahlung des nach § 90 Abs. 3 Satz 3 des Einkommensteuergesetzes abzuführenden Rückforderungsbetrages und des nach § 94 Abs. 1 Satz 3 des Einkommensteuergesetzes abzuführenden Rückzahlungsbetrages, jeweils bezogen auf den Zulageberechtigten, sowie die Zahlung von ihm geschuldeter Verspätungs- oder Säumniszuschläge mitzuteilen.
 
-(4) Der Zulageberechtigte kann gegenüber seinem Anbieter erklären, dass er eine steuerliche Berücksichtigung seiner an den Anbieter entrichteten Altersvorsorgebeiträge für den jeweiligen Vertrag bei der Ermittlung der abziehbaren Sonderausgaben nach § 10a des Einkommensteuergesetzes durch die Finanzbehörden nicht beabsichtigt. Liegt dem Anbieter eine Erklärung nach Satz 1 vor, hat er ab dem 1. Januar 2022 ein gesondertes Merkmal in der Meldung nach § 10a Absatz 5 des Einkommensteuergesetzes aufzunehmen. Die Erklärung gilt ab dem Veranlagungsjahr, das dem Jahr folgt, in welchem die Erklärung gegenüber dem Anbieter abgegeben wird. Die Erklärung kann widerrufen werden; Satz 3 gilt entsprechend. Wird die Erklärung im Jahr des Vertragsabschlusses abgegeben, so gilt sie abweichend von Satz 3 schon für das Jahr des Vertragsabschlusses.
+(4) Der Zulageberechtigte kann gegenüber seinem Anbieter erklären, dass er eine steuerliche Berücksichtigung seiner an den Anbieter entrichteten Altersvorsorgebeiträge für den jeweiligen Vertrag bei der Ermittlung der abziehbaren Sonderausgaben nach § 10a des Einkommensteuergesetzes durch die Finanzbehörden nicht beabsichtigt. Liegt dem Anbieter eine Erklärung nach Satz 1 vor, hat er ab dem 1. Januar 2022 ein gesondertes Merkmal in der Meldung nach § 10a Absatz 5 des Einkommensteuergesetzes aufzunehmen. Die Erklärung gilt ab dem Veranlagungsjahr, das dem Jahr folgt, in welchem die Erklärung gegenüber dem Anbieter abgegeben wird. Die Erklärung kann widerrufen werden; Satz 3 gilt entsprechend. Wird die Erklärung im Jahr des Vertragsabschlusses abgegeben, so gilt sie abweichend von Satz 3 schon für das Jahr des Vertragsabschlusses.
 
 ### § 11 — Anbieterwechsel
 
@@ -170,9 +170,9 @@ Liegt ein Tatbestand des § 95 des Einkommensteuergesetzes vor, hat der Zulagebe
 
 Die Zulagen werden jeweils am 15. der Monate Februar, Mai, August und November eines Jahres zur Zahlung angewiesen. Zum jeweiligen Auszahlungstermin werden angewiesen:
 
-a)
+a) Zulagen, die bis zum Ablauf des dem Auszahlungstermin vorangegangenen Kalendervierteljahres über den Anbieter beantragt worden sind und von der zentralen Stelle bis zum Ablauf des dem Auszahlungstermin vorangehenden Kalendermonats ermittelt wurden,
 
-b)
+b) Erhöhungen von Zulagen, die bis zum Ablauf des dem Auszahlungstermin vorangehenden Kalendervierteljahres ermittelt oder festgesetzt wurden.
 
 ### § 16 — Kleinbetragsgrenze für Rückforderungen gegenüber dem Zulageberechtigten
 
@@ -192,43 +192,43 @@ Bescheide über Forderungen der zentralen Stelle werden von den Hauptzollämtern
 
 ### § 19 — Aufzeichnungs- und Aufbewahrungspflichten
 
-(1) Der Anbieter nach § 1 Abs. 2 des Altersvorsorgeverträge-Zertifizierungsgesetzes hat für jedes Kalenderjahr Aufzeichnungen zu führen über Werden zugunsten des Altersvorsorgevertrags auch nicht geförderte Beiträge geleistet, sind die Erträge anteilig den geförderten und den nicht geförderten Beiträgen zuzuordnen und entsprechend aufzuzeichnen. Die auf den 31. Dezember des jeweiligen Kalenderjahres fortgeschriebenen Beträge sind gesondert aufzuzeichnen.
+(1) Der Anbieter nach § 1 Abs. 2 des Altersvorsorgeverträge-Zertifizierungsgesetzes hat für jedes Kalenderjahr Aufzeichnungen zu führen über
 
-1.
+1. Name und Anschrift des Anlegers,
 
-2.
+2. Vertragsnummer und Vertragsdatum,
 
-3.
+3. Altersvorsorgebeiträge, auf die § 10a oder Abschnitt XI des Einkommensteuergesetzes angewendet wurde,
 
-4.
+4. dem Vertrag gutgeschriebene Zulagen,
 
-5.
+5. dem Vertrag insgesamt gutgeschriebene Erträge,
 
-6.
+6. Beiträge, auf die § 10a oder Abschnitt XI des Einkommensteuergesetzes nicht angewendet wurde,
 
-7.
+7. Beiträge und Zulagen, die zur Absicherung der verminderten Erwerbsfähigkeit verwendet wurden,
 
-8.
+8. Beiträge und Zulagen, die zur Hinterbliebenenabsicherung im Sinne des § 1 Abs. 1 Satz 1 Nr. 2 des Altersvorsorgeverträge-Zertifizierungsgesetzes oder § 1 Abs. 1 Satz 1 Nr. 6 des Altersvorsorgeverträge-Zertifizierungsgesetzes in der bis zum 31. Dezember 2004 geltenden Fassung verwendet wurden, und
 
-9.
+9. die im Wohnförderkonto (§ 92a Abs. 2 Satz 1 des Einkommensteuergesetzes) zu berücksichtigenden Beträge.
 
 (2) Für einen Anbieter nach § 80 zweite Alternative des Einkommensteuergesetzes gilt Absatz 1 sinngemäß. Darüber hinaus hat er Aufzeichnungen zu führen über
 
-1.
+1. Beiträge, auf die § 3 Nr. 63 des Einkommensteuergesetzes angewendet wurde; hierzu gehören auch die Beiträge im Sinne des § 5 Abs. 3 Satz 2 der Lohnsteuer-Durchführungsverordnung,
 
-2.
+2. Beiträge, auf die § 40b des Einkommensteuergesetzes in der am 31. Dezember 2004 geltenden Fassung angewendet wurde, und
 
-3.
+3. Leistungen, auf die § 3 Nr. 66 des Einkommensteuergesetzes angewendet wurde.
 
 (3) Für die Aufbewahrung der Aufzeichnungen nach den Absätzen 1 und 2, der Mitteilungen nach § 5 Abs. 2 der Lohnsteuer-Durchführungsverordnung und des Antrags auf Altersvorsorgezulage oder der einer Antragstellung nach § 89 Abs. 3 des Einkommensteuergesetzes zugrunde liegenden Unterlagen gilt § 147 Abs. 3 der Abgabenordnung entsprechend. Die Unterlagen sind spätestens am Ende des zehnten Kalenderjahres zu löschen oder zu vernichten, das auf die Mitteilung nach § 22 Nr. 5 Satz 7 des Einkommensteuergesetzes folgt. Satz 2 gilt nicht, soweit die Löschung oder Vernichtung schutzwürdige Interessen des Anlegers oder die Wahrnehmung von Aufgaben oder berechtigten Interessen des Anbieters beeinträchtigen würde.
 
 (3a) Unterlagen über die Auszahlung des Altersvorsorge-Eigenheimbetrages im Sinne des § 92a Absatz 1 Satz 1 des Einkommensteuergesetzes sowie Unterlagen, die eine wohnungswirtschaftliche Verwendung im Sinne des § 92a Absatz 1 Satz 1 des Einkommensteuergesetzes nach dem 31. Dezember 2007 eines Darlehens im Sinne des § 1 Absatz 1a des Altersvorsorgeverträge-Zertifizierungsgesetzes nachweisen, sind für die Dauer von zehn Jahren nach der Auflösung oder der Schließung des für den Altersvorsorgevertrag geführten Wohnförderkontos (§ 92a Absatz 2 Satz 1 des Einkommensteuergesetzes) aufzubewahren.
 
-(4) Nach Absatz 3 Satz 1 und Absatz 3a aufzubewahrende schriftliche Unterlagen können als Wiedergabe auf einem Bild- oder anderen dauerhaften Datenträger aufbewahrt werden, wenn sichergestellt ist, dass Das Vorliegen der Voraussetzung nach Satz 1 Nr. 2 ist vor der Vernichtung der schriftlichen Unterlage zu dokumentieren.
+(4) Nach Absatz 3 Satz 1 und Absatz 3a aufzubewahrende schriftliche Unterlagen können als Wiedergabe auf einem Bild- oder anderen dauerhaften Datenträger aufbewahrt werden, wenn sichergestellt ist, dass
 
-1.
+1. die Wiedergabe während der Dauer der Aufbewahrungsfrist verfügbar bleibt und innerhalb angemessener Zeit lesbar gemacht werden kann und
 
-2.
+2. die lesbar gemachte Wiedergabe mit der schriftlichen Unterlage bildlich und inhaltlich übereinstimmt.
 
 (5) Sonstige Vorschriften über Aufzeichnungs- und Aufbewahrungspflichten bleiben unberührt.
 
@@ -246,21 +246,21 @@ Bescheide über Forderungen der zentralen Stelle werden von den Hauptzollämtern
 
 (1) Die zentrale Stelle kann bei den mitteilungspflichtigen Stellen Daten nach § 22a Abs. 1 Satz 1 des Einkommensteuergesetzes erheben zum Zweck der Erprobung
 
-1.
+1. des Verfahrens der Datenübermittlung von den mitteilungspflichtigen Stellen an die zentrale Stelle,
 
-2.
+2. der bei der zentralen Stelle einzusetzenden Programme,
 
-3.
+3. der Weiterleitung an die Finanzverwaltung und
 
-4.
+4. der Weiterverarbeitung der Daten in der Finanzverwaltung.
 
 (2) Das Bundeszentralamt für Steuern kann bei den mitteilungspflichtigen Stellen Daten nach § 22a Abs. 2 Satz 3 des Einkommensteuergesetzes in Verbindung mit § 139b Abs. 3 der Abgabenordnung erheben zum Zweck der Erprobung
 
-1.
+1. des Verfahrens der Datenübermittlung von den mitteilungspflichtigen Stellen an das Bundeszentralamt für Steuern,
 
-2.
+2. des Verfahrens der Datenübermittlung von dem Bundeszentralamt für Steuern an die mitteilungspflichtigen Stellen,
 
-3.
+3. der vom Bundeszentralamt für Steuern und der zentralen Stelle einzusetzenden Programme, mit denen den mitteilungspflichtigen Stellen die Daten zur Verfügung gestellt werden.
 
 (3) Die Datenübermittlung erfolgt durch Datenfernübertragung; § 4 Abs. 1 gilt entsprechend.
 
@@ -276,10 +276,10 @@ Bescheide über Forderungen der zentralen Stelle werden von den Hauptzollämtern
 
 ### § 24 — Mitteilungspflichten nach § 10 Absatz 4b des Einkommensteuergesetzes
 
-Die in § 10 Absatz 4b Satz 4 des Einkommensteuergesetzes genannten mitteilungspflichtigen Stellen haben der zentralen Stelle folgende Daten zu übermitteln: Eine Mitteilungspflicht nach Satz 1 besteht nicht, wenn die mitteilungspflichtige Stelle der Finanzverwaltung die Zahlung der geleisteten und zurückgeforderten steuerfreien Zuschüsse und der erstatteten Vorsorgeaufwendungen bereits auf Grund anderer Vorschriften elektronisch mitzuteilen hat.
+Die in § 10 Absatz 4b Satz 4 des Einkommensteuergesetzes genannten mitteilungspflichtigen Stellen haben der zentralen Stelle folgende Daten zu übermitteln:
 
-1.
+1. die Höhe der im jeweiligen Zahlungsjahr geleisteten und zurückgeforderten steuerfreien Zuschüsse und der erstatteten Vorsorgeaufwendungen, jeweils gesondert betragsmäßig nach Art der Vorsorgeaufwendungen ausgewiesen,
 
-2.
+2. den Beginn und das Ende des Zeitraums, für den der steuerfreie Zuschuss und die Erstattung der Vorsorgeaufwendungen erfolgt sind, und
 
-3.
+3. das Jahr des Zuflusses oder Abflusses.

@@ -11,11 +11,29 @@ Auf Grund des § 46 Satz 1 Nummer 1 des Bundeswasserstraßengesetzes in der Fass
 
 ### § 1 — Betriebszeiten
 
-(1) Die Betriebszeiten der Schleusen an der Bundeswasserstraße Neckar werden vorbehaltlich des Absatzes 2 wie folgt festgesetzt:1.von Montag 6 Uhr bis Samstag 22 Uhr nach Maßgabeder Sätze 2 bis 4,2.am Sonntag von 8 Uhr bis 16 Uhr.Von Montag bis Freitag werden in der Zeit von 22 bis 6 Uhr nur für die gewerbliche Schifffahrt nach einer schriftlichen oder elektronischen Voranmeldung Schleusungen durchgeführt. Das Anmeldeverfahren wird in einer gesonderten Anordnung des Wasserstraßen- und Schifffahrtsamtes Neckar geregelt. Es besteht kein Anspruch auf Schleusung für Verkehrsteilnehmer,die von den Festlegungen im Anmeldeverfahren abweichen, insbesondere, wenn sie die Schleusungen nicht fristgerecht wahrnehmen.(2) Die Betriebszeiten der Schleusen Heidelberg sowie der fernbedienten Schleusen Hofen, Cannstatt, Untertürkheim, Obertürkheim, Esslingen, Oberesslingen und Deizisau sind täglich von 0 Uhr bis 24 Uhr.
+(1) Die Betriebszeiten der Schleusen an der Bundeswasserstraße Neckar werden vorbehaltlich des Absatzes 2 wie folgt festgesetzt:
+
+1. von Montag 6 Uhr bis Samstag 22 Uhr nach Maßgabeder Sätze 2 bis 4,
+
+2. am Sonntag von 8 Uhr bis 16 Uhr.
+
+Von Montag bis Freitag werden in der Zeit von 22 bis 6 Uhr nur für die gewerbliche Schifffahrt nach einer schriftlichen oder elektronischen Voranmeldung Schleusungen durchgeführt. Das Anmeldeverfahren wird in einer gesonderten Anordnung des Wasserstraßen- und Schifffahrtsamtes Neckar geregelt. Es besteht kein Anspruch auf Schleusung für Verkehrsteilnehmer,die von den Festlegungen im Anmeldeverfahren abweichen, insbesondere, wenn sie die Schleusungen nicht fristgerecht wahrnehmen.
+
+(2) Die Betriebszeiten der Schleusen Heidelberg sowie der fernbedienten Schleusen Hofen, Cannstatt, Untertürkheim, Obertürkheim, Esslingen, Oberesslingen und Deizisau sind täglich von 0 Uhr bis 24 Uhr.
 
 ### § 2 — Besondere Betriebsregelungen
 
-(1) Abweichend von § 1 Absatz 1 gelten an den folgenden Tagen eines Kalenderjahres für die Schleusen an der Bundeswasserstraße Neckar die folgenden besonderen Betriebsregelungen:1. am Karsamstag, am Pfingstsamstag und am 31. Dezember:Ende des Schleusenbetriebs um 14 Uhr,2. am 1. Januar, am Ostersonntag und am Ostermontag, am Pfingstsonntag und am Pfingstmontag sowie am 24., 25. und 26. Dezember:Ruhen des Schleusenbetriebs,3. am 2. Januar und am 27. Dezember:Beginn des Schleusenbetriebs um 6 Uhr, wenn der Tag auf einen Werktag fällt,4. am Dienstag nach Ostern und am Dienstag nach Pfingsten:Beginn des Schleusenbetriebs um 6 Uhr.(2) Absatz 1 gilt nicht für die Schleusen nach § 1 Absatz 2.
+(1) Abweichend von § 1 Absatz 1 gelten an den folgenden Tagen eines Kalenderjahres für die Schleusen an der Bundeswasserstraße Neckar die folgenden besonderen Betriebsregelungen:
+
+1. am Karsamstag, am Pfingstsamstag und am 31. Dezember: Ende des Schleusenbetriebs um 14 Uhr,
+
+2. am 1. Januar, am Ostersonntag und am Ostermontag, am Pfingstsonntag und am Pfingstmontag sowie am 24., 25. und 26. Dezember: Ruhen des Schleusenbetriebs,
+
+3. am 2. Januar und am 27. Dezember: Beginn des Schleusenbetriebs um 6 Uhr, wenn der Tag auf einen Werktag fällt,
+
+4. am Dienstag nach Ostern und am Dienstag nach Pfingsten: Beginn des Schleusenbetriebs um 6 Uhr.
+
+(2) Absatz 1 gilt nicht für die Schleusen nach § 1 Absatz 2.
 
 ### § 3 — Ausnahmen
 

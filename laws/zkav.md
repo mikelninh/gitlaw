@@ -11,7 +11,15 @@ Auf Grund des § 3 Absatz 6 Satz 2 in Verbindung mit Satz 1 des Entsorgungsüber
 
 ### § 1 — Festsetzung des Anteils
 
-Der Anteil an den Einzahlungsbeträgen nach dem Entsorgungsfondsgesetz, der auf die notwendigen Kosten für den Bau von Zwischenlagern und für Nachrüstungen nach § 3 Absatz 6 Satz 1 des Entsorgungsübergangsgesetzes entfällt, wird wie folgt festgesetzt: 1.für die im Anhang Tabelle 1 und 2 des Entsorgungsübergangsgesetzes aufgeführten Zwischenlager an den Standorten Biblis, Gundremmingen und Emsland auf 23,3 Millionen Euro,2.für die im Anhang Tabelle 1 und 2 des Entsorgungsübergangsgesetzes aufgeführten Zwischenlager an den Standorten Brokdorf, Grafenrheinfeld, Grohnde, Isar, Unterweser, Stade und Würgassen auf 103,6 Millionen Euro,3.für die im Anhang Tabelle 1 und 2 des Entsorgungsübergangsgesetzes aufgeführten Zwischenlager an den Standorten Neckarwestheim, Obrigheim und Philippsburg auf 70,4 Millionen Euro,4.für die im Anhang Tabelle 1 und 2 des Entsorgungsübergangsgesetzes aufgeführten Zwischenlager an den Standorten Brunsbüttel und Krümmel auf 78,8 Millionen Euro.
+Der Anteil an den Einzahlungsbeträgen nach dem Entsorgungsfondsgesetz, der auf die notwendigen Kosten für den Bau von Zwischenlagern und für Nachrüstungen nach § 3 Absatz 6 Satz 1 des Entsorgungsübergangsgesetzes entfällt, wird wie folgt festgesetzt:
+
+1. für die im Anhang Tabelle 1 und 2 des Entsorgungsübergangsgesetzes aufgeführten Zwischenlager an den Standorten Biblis, Gundremmingen und Emsland auf 23,3 Millionen Euro,
+
+2. für die im Anhang Tabelle 1 und 2 des Entsorgungsübergangsgesetzes aufgeführten Zwischenlager an den Standorten Brokdorf, Grafenrheinfeld, Grohnde, Isar, Unterweser, Stade und Würgassen auf 103,6 Millionen Euro,
+
+3. für die im Anhang Tabelle 1 und 2 des Entsorgungsübergangsgesetzes aufgeführten Zwischenlager an den Standorten Neckarwestheim, Obrigheim und Philippsburg auf 70,4 Millionen Euro,
+
+4. für die im Anhang Tabelle 1 und 2 des Entsorgungsübergangsgesetzes aufgeführten Zwischenlager an den Standorten Brunsbüttel und Krümmel auf 78,8 Millionen Euro.
 
 ### § 2 — Inkrafttreten
 

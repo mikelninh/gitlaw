@@ -9,8 +9,6 @@ Deutschen Bundestages
 
 ### 1.
 
-Anzeigen gemäß Verhaltensregeln sind innerhalb einer Frist von drei Monaten nach Erwerb der Mitgliedschaft im Deutschen Bundestag dem Präsidenten einzureichen. Dabei soll das entsprechende Formblatt verwendet werden. Angaben, die nicht zur Veröffentlichung vorgesehen sind, können auch in Briefform gemacht werden. Alle Änderungen und Ergänzungen während der Wahlperiode sind spätestens vier Wochen nach ihrem Eintritt mitzuteilen.
-
 ### 2.
 
 Bei einer Anzeige der Berufstätigkeit gemäß § 1 Abs. 1 Nr. 1 und Abs. 2 Nr. 1 der Verhaltensregeln sind bei unselbständigen Tätigkeiten genaue Angaben über den Arbeitgeber (Name und Anschrift) sowie über Art und Umfang der Tätigkeit mitzuteilen, bei selbständigen Tätigkeiten als Gewerbetreibender die Art des Gewerbes sowie Name und Sitz der Firma und bei freien Berufen und sonstigen selbständigen Berufen eine genaue Bezeichnung des Berufs sowie Ort oder Sitz der Berufsausübung.
@@ -33,11 +31,7 @@ In Anzeigen gemäß § 1 Abs. 2 Nr. 6 der Verhaltensregeln sind Name und Anschri
 
 ### 7.
 
-In Anzeigen gemäß § 1 Abs. 2 Nr. 7 der Verhaltensregeln sind die Art der Tätigkeit sowie Name und Anschrift des Auftraggebers mitzuteilen. Die Anzeigepflicht für die Erstattung von Gutachten, für publizistische und Vortragstätigkeiten entfällt, wenn das Entgelt für eine oder mehrere Tätigkeiten 3.000 Euro im Monat oder 18.000 Euro im Jahr nicht übersteigt.
-
 ### 8.
-
-Eine Beteiligung an einer Kapital- oder Personengesellschaft ist anzeigepflichtig, wenn dem Mitglied des Deutschen Bundestages mehr als 25% der Stimmrechte zustehen. Unabhängig davon ist eine Beteiligung an einer Personengesellschaft immer dann anzeigepflichtig, wenn der nach den Grundsätzen des Bewertungsgesetzes festgestellte Wert der Beteiligung den Jahresbetrag der Abgeordnetenentschädigung gemäß § 11 Abs. 1 des Abgeordnetengesetzes übersteigt.
 
 ### 9.
 
@@ -53,8 +47,6 @@ Die Anzeigepflicht für Rechtsanwälte gemäß § 2 der Verhaltensregeln entfäl
 
 ### 12.
 
-Mehrere Spenden desselben Spenders sind anzeigepflichtig, wenn sie im Jahr den Betrag von 5.000 Euro übersteigen. Einer Anzeige bei Gastgeschenken bedarf es nicht, wenn der materielle Wert des Gastgeschenkes 200 Euro nicht übersteigt.
-
 ### 13.
 
 Eine Spende, die ein Mitglied des Deutschen Bundestages nachweislich an seine Partei weiterleitet, ist nicht anzeigepflichtig. Die Rechenschaftspflicht der Partei bleibt in diesem Fall unberührt.
@@ -68,5 +60,3 @@ Anzeigen gemäß Verhaltensregeln, die ein Mitglied des Deutschen Bundestages ei
 Ermittlungen gemäß § 8 Abs. 1 der Verhaltensregeln werden vom Präsidenten nach pflichtgemäßem Ermessen oder auf Verlangen des betroffenen Mitglieds des Deutschen Bundestages durchgeführt.
 
 ### Schlußformel
-
-Der Präsident des Deutschen Bundestages

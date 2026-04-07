@@ -14,11 +14,11 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 ### Art 1
 
-(1) Den folgenden Beschlüssen wird zugestimmt: Die Bundesregierung wird ermächtigt, den beiden Organisationen die formelle Annahme der in den genannten Beschlüssen geregelten Verfahren mitzuteilen.
+(1) Den folgenden Beschlüssen wird zugestimmt:
 
-1.
+1. dem in Florenz am 2. Dezember 1993 durch den Obersten Rat des Europäischen Hochschulinstituts gefaßten Beschluß Nr. 8/93, mit dem Artikel 37 der Gemeinsamen Vorschriften für das Lehrpersonal und das Verwaltungspersonal ergänzt wird,
 
-2.
+2. dem in Brüssel am 28. Oktober 1994 durch die Ständige Kommission von Eurocontrol gefaßten Beschluß, mit dem Artikel 11 und 12 Anhang IV des Verwaltungsstatuts des festangestellten Personals der Agentur Eurocontrol bzw. Artikel 11 und 12 Anhang IV der Allgemeinen Beschäftigungsbedingungen für die Bediensteten der Eurocontrolzentrale Maastricht ergänzt werden.
 
 (2) Die in Absatz 1 genannten Beschlüsse und Bestimmungen werden nachstehend veröffentlicht.
 

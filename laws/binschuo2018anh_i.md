@@ -8,6 +8,6 @@
 
 ### (XXXX)
 
-–
+– Insel Bock und Insel Hiddensee: durch die Verbindungslinie von der Nordspitze der Insel Bock zur Südspitze der Insel Hiddensee,
 
-–
+– Insel Hiddensee und Insel Rügen (Bug): durch die Verbindungslinie von der Südostspitze Neubessin zum Buger Haken,

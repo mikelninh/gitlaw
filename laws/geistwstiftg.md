@@ -12,21 +12,21 @@ Unter dem Namen "Stiftung Deutsche Geisteswissenschaftliche Institute im Ausland
 
 ### § 2 — Zweck der Stiftung
 
-(1) Zweck der Stiftung ist es, Folgendes zu fördern: Die Stiftung unterhält mit dieser Zielrichtung im jeweiligen Gastland deutsche Forschungsinstitute (Institute) und fördert vorbereitende und begleitende Tätigkeiten, insbesondere Projekte.
+(1) Zweck der Stiftung ist es, Folgendes zu fördern:
 
-1.
+1. die Forschung mit Schwerpunkten auf den Gebieten der Geschichts-, Kultur-, Wirtschafts- und Sozialwissenschaften in ausgewählten Ländern und
 
-2.
+2. das gegenseitige Verständnis zwischen Deutschland und diesen Ländern.
 
-(2) Die Institute sind im Rahmen der Satzung der Stiftung selbständige Einrichtungen, die in ihrer wissenschaftlichen Arbeit unabhängig sind. Sie sollen eigene Forschung betreiben und dabei die Zusammenarbeit zwischen den deutschen Geisteswissenschaften und den Geisteswissenschaften des Gastlandes fördern, insbesondere durch
+(2) Die Institute sind im Rahmen der Satzung der Stiftung selbständige Einrichtungen, die in ihrer wissenschaftlichen Arbeit unabhängig sind. Sie sollen eigene Forschung betreiben und dabei die Zusammenarbeit zwischen den deutschen Geisteswissenschaften und den Geisteswissenschaften des Gastlandes fördern, insbesondere durch
 
-1.
+1. Publikationen,
 
-2.
+2. wissenschaftliche Veranstaltungen wie Ausstellungen, Kolloquien und Tagungen,
 
-3.
+3. wissenschaftliche Auskünfte und Beratungen sowie die Vermittlung wissenschaftlicher Kontakte und
 
-4.
+4. Förderung des wissenschaftlichen Nachwuchses, vor allem durch Vergabe von Stipendien.
 
 (3) Die Stiftung verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
 
@@ -46,27 +46,27 @@ Die Stiftung gibt sich eine Satzung, die vom Stiftungsrat mit einer Mehrheit von
 
 Organe der Stiftung sind
 
-1.
+1. der Stiftungsrat,
 
-2.
+2. die oder der Vorsitzende des Stiftungsrates,
 
-3.
+3. die Direktionsversammlung,
 
-4.
+4. die Direktorinnen oder Direktoren der Institute,
 
-5.
+5. die Geschäftsführerin oder der Geschäftsführer.
 
 ### § 6 — Stiftungsrat
 
-(1) Der Stiftungsrat besteht aus elf vom Bundesministerium für Bildung und Forschung für eine Amtszeit von vier Jahren berufenen Mitgliedern. Es werden berufen: Als Mitglieder nach Satz 2 Nummer 2 und 3 können nur Wissenschaftlerinnen oder Wissenschaftler benannt werden. Die Mitglieder nach Satz 2 Nummer 2 bis 4 sollen die wissenschaftliche Breite der gesamten Stiftung vertreten. Die Mitglieder können nur einmal wieder berufen werden. Der Stiftungsrat benennt eine Person gemäß Satz 2 Nummer 2 auf Grund von Vorschlägen, die aus seiner Mitte oder von der Direktionsversammlung gemacht werden. Falls diese Person zum Zeitpunkt der Berufung bereits Mitglied des Stiftungsrates nach Satz 2 Nummer 3 oder 4 ist, wird für den frei werdenden Platz ein neues Mitglied berufen.
+(1) Der Stiftungsrat besteht aus elf vom Bundesministerium für Bildung und Forschung für eine Amtszeit von vier Jahren berufenen Mitgliedern. Es werden berufen:
 
-1.
+1. zwei Mitglieder, die von der Bundesregierung benannt werden,
 
-2.
+2. ein Mitglied als Vorsitzende oder Vorsitzender des Stiftungsrates, das vom Stiftungsrat benannt wird,
 
-3.
+3. sieben Mitglieder, die von den in der Satzung bestimmten Stellen, insbesondere von Wissenschaftsorganisationen benannt werden, und
 
-4.
+4. ein Mitglied, das von der in der Satzung bestimmten Organisation der Wirtschaft benannt wird.
 
 (2) Die mit dem Vorsitz des Stiftungsrates betraute Person leitet die Sitzungen des Stiftungsrates und hat das Recht, an den Sitzungen aller anderen Organe und Gremien teilzunehmen. Sie führt unter Beteiligung der Geschäftsführerin oder des Geschäftsführers und der Direktionsversammlung die Haushaltsverhandlungen mit dem Bundesministerium für Bildung und Forschung. Sie ist Vorgesetzte der Direktorinnen und Direktoren sowie der Geschäftsführerin oder des Geschäftsführers und kann die Stiftung auch insoweit vertreten.
 

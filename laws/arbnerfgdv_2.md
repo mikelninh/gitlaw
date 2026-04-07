@@ -16,13 +16,13 @@ Auf Grund des § 45 des Gesetzes über Arbeitnehmererfindungen vom 25. Juli 1957
 
 (2) Vom Amt eines Beisitzers ist ausgeschlossen,
 
-1.
+1. wer infolge Richterspruchs die Fähigkeit zur Bekleidung öffentlicher Ämter nicht besitzt oder wegen einer vorsätzlichen Tat zu einer Freiheitsstrafe von mehr als sechs Monaten verurteilt worden ist;
 
-2.
+2. wer wegen einer Tat angeklagt ist, die den Verlust der Fähigkeit zur Bekleidung öffentlicher Ämter zur Folge haben kann;
 
-3.
+3. wer durch gerichtliche Anordnung in der Verfügung über sein Vermögen beschränkt ist;
 
-4.
+4. wer das Wahlrecht zum Deutschen Bundestag nicht besitzt.
 
 (3) Beamte und Angestellte des Patentamts dürfen nicht als Beisitzer bestellt werden.
 
@@ -34,13 +34,13 @@ Auf Grund des § 45 des Gesetzes über Arbeitnehmererfindungen vom 25. Juli 1957
 
 (2) Zu Beisitzern aus Kreisen der Arbeitgeber können auch bestellt werden
 
-1.
+1. bei Betrieben einer juristischen Person oder einer Personengesamtheit Personen, die kraft Gesetzes, Satzung oder Gesellschaftsvertrages allein oder als Mitglieder des Vertretungsorgans zur Vertretung der juristischen Person oder der Personengesamtheit berufen sind;
 
-2.
+2. leitende Angestellte, wenn sie zur selbständigen Einstellung und Entlassung von im Betrieb oder in der Betriebsabteilung beschäftigten Arbeitnehmern berechtigt sind oder wenn ihnen Generalvollmacht oder Prokura erteilt ist oder wenn sie Aufgaben wahrnehmen, die regelmäßig wegen ihrer Bedeutung für den Bestand und die Entwicklung des Betriebs nur auf Grund besonderen persönlichen Vertrauens des Arbeitgebers bestimmten Personen im Hinblick auf deren besondere Erfahrungen und Kenntnisse übertragen werden;
 
-3.
+3. bei dem Bund, den Ländern, den Gemeinden, den Gemeindeverbänden und anderen Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts Beamte und Angestellte nach näherer Anordnung der zuständigen obersten Bundes- oder Landesbehörde;
 
-4.
+4. Mitglieder und Angestellte von Vereinigungen von Arbeitgebern sowie Vorstandsmitglieder und Angestellte von Zusammenschlüssen solcher Vereinigungen, wenn diese Personen kraft Satzung oder Vollmacht zur Vertretung befugt sind.
 
 ### § 3 — Beisitzer aus Kreisen der Arbeitnehmer
 
@@ -54,13 +54,13 @@ Auf Grund des § 45 des Gesetzes über Arbeitnehmererfindungen vom 25. Juli 1957
 
 (2) Die Vorschlagslisten sollen folgende Angaben über die als Beisitzer vorgeschlagenen Personen enthalten:
 
-1.
+1. Name,
 
-2.
+2. Geburtstag,
 
-3.
+3. Beruf,
 
-4.
+4. Wohnort.
 
 (3) Den Vorschlagslisten ist eine Erklärung der als Beisitzer vorgeschlagenen Personen darüber beizufügen, daß die Voraussetzungen für die Bestellung als Beisitzer (§§ 1 bis 3) in ihrer Person vorliegen und sie bereit sind, das Amt des Beisitzers zu übernehmen.
 
@@ -113,5 +113,3 @@ Für den öffentlichen Dienst sind, soweit es sich um Beamte und Soldaten handel
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister der Justiz

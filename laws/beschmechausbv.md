@@ -23,49 +23,49 @@ Die Ausbildung dauert drei Jahre.
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
-1.
+1. Berufsbildung, Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-4.
+4. Umweltschutz,
 
-5.
+5. betriebliche und technische Kommunikation,
 
-6.
+6. Planen und Steuern von Arbeits- und Bewegungsabläufen; Kontrollieren und Beurteilen der Ergebnisse,
 
-7.
+7. Prüfen, Anreißen und Kennzeichnen,
 
-8.
+8. Grundlagen der mechanischen Fertigungs- und Fügeverfahren, Herstellen von Betriebsmitteln,
 
-9.
+9. Erfassen von Meßwerten,
 
-10.
+10. Warten von Betriebsmitteln,
 
-11.
+11. Vor- und Nachbehandeln von unbeschichteten und beschichteten Oberflächen,
 
-12.
+12. Regeln von Produktionsprozessen,
 
-13.
+13. Umgang mit Betriebs- und Gefahrenstoffen, verfahrenstechnische Grundoperationen,
 
-14.
+14. Qualitätsmanagement,
 
-15.
+15. Trägerwerkstoffe,
 
-16.
+16. Beschichtungsstoffe,
 
-17.
+17. Anwenden von Applikationsverfahren,
 
-18.
+18. Erfassen und Dokumentieren von Meßwerten,
 
-19.
+19. Bedienen, Überwachen und Warten von Einrichtungen und Anlagen,
 
-20.
+20. Nachbehandeln von Beschichtungen,
 
-21.
+21. Optimieren des Gesamtprozesses,
 
-22.
+22. Verfahren der Umwelttechnik.
 
 ### § 4 — Ausbildungsrahmenplan
 
@@ -99,19 +99,17 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (4) Für den Prüfungsbereich Verfahrenstechnik kommt insbesondere eine der nachfolgenden Aufgaben in Betracht:
 
-1.
+1. Systematisches Eingrenzen eines Fehlers in einem Beschichtungsprozeß sowie in der Ver- und Entsorgungstechnik,
 
-2.
+2. Organisieren und Dokumentieren von Arbeitsvorgängen und Qualitätsmanagementmaßnahmen. Dabei soll der Prüfling zeigen, daß er Sachverhalte darstellen, Meßdaten erfassen, statistisch bearbeiten und auswerten sowie diese zu Dokumentationen zusammenfassen kann.
 
 (5) Für den Prüfungsbereich Qualität und Umwelt kommt insbesondere eine der nachfolgenden Aufgaben in Betracht:
 
-1.
+1. Organisieren und Dokumentieren von Arbeitsvorgängen und Qualitätsmanagementmaßnahmen. Dabei soll der Prüfling zeigen, daß er Sachverhalte darstellen, Berechnungen durchführen, Meßdaten erfassen, statistisch bearbeiten und auswerten sowie diese zu Dokumentationen zusammenführen kann,
 
-2.
+2. Planen der Ver- und Entsorgung von Beschichtungsanlagen. Dabei soll der Prüfling zeigen, daß er unter Beachtung von logistischen sowie Haltbarkeits-, Sicherheits- und Umweltkriterien Maßnahmen zur Lagerung, Prüfung, Bereitstellung von Medien und Werkzeugen sowie der Entsorgung von Reststoffen treffen sowie die entsprechenden Vorschriften anwenden kann.
 
 (6) Im Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht: allgemeine, wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- und Arbeitswelt.
-
-(7) Für den Prüfungsteil B ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 (8) Innerhalb des Prüfungsteils B haben die Prüfungsbereiche Verfahrenstechnik sowie Qualität und Umwelt gegenüber den Prüfungsbereichen Wirtschafts- und Sozialkunde jeweils das doppelte Gewicht.
 
@@ -133,252 +131,12 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 ### Anlage — (zu § 4)
 
-(Fundstelle: BGBl. I 1999, 1600 - 1606)
+a) Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
-a)
+b) gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
 
-b)
+c) Möglichkeiten der beruflichen Fortbildung nennen
 
-c)
+d) wesentliche Teile des Arbeitsvertrages nennen
 
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-aa)
-
-bb)
-
-cc)
-
-b)
-
-aa)
-
-bb)
-
-cc)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-l)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-*)
+e) wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen

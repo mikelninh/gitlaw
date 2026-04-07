@@ -14,5 +14,3 @@ Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung vom 9. M
 Der Bundesminister der Justiz
 
 ### Anlage — Italienische Prüf- und Gewährzeichen
-
-(Fundstelle: BGBl. I 1962, 480)(Inhalt: nicht darstellbare Prüf- und Gewährzeichen)

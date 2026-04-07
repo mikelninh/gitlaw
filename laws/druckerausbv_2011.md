@@ -11,11 +11,11 @@ Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes, v
 
 ### § 1 — Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Medientechnologe Druck und Medientechnologin Druck wird staatlich anerkannt.
+Der Ausbildungsberuf Medientechnologe Druck und Medientechnologin Druck wird
 
-1.
+1. nach § 4 Absatz 1 des Berufsbildungsgesetzes und
 
-2.
+2. nach § 25 der Handwerksordnung für die Ausbildung für das Gewerbe Nummer 40 „Buchdrucker: Schriftsetzer; Drucker“ der Anlage B 1 der Handwerksordnung
 
 > § 1 Nr. 2 Kursivdruck: Müsste richtig „Anlage B Abschnitt 1“ lauten
 
@@ -27,109 +27,27 @@ Die Ausbildung dauert drei Jahre.
 
 Die Berufsausbildung gliedert sich in
 
-1.
+1. Pflichtqualifikationen nach § 4 Absatz 2 Abschnitt A und C,
 
-2.
+2. zwei im Ausbildungsvertrag festzulegende Wahlqualifikationen nach § 4 Absatz 2 Abschnitt B Nummer 1 sowie
 
-3.
+3. eine im Ausbildungsvertrag festzulegende Wahlqualifikation nach § 4 Absatz 2 Abschnitt B Nummer 2.
 
 ### § 4 — Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Medientechnologen Druck und zur Medientechnologin Druck gliedert sich wie folgt (Ausbildungsberufsbild):Abschnitt A Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den Pflichtqualifikationen nach § 3 Nummer 1: Abschnitt B Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten aus den Auswahllisten I und II: Abschnitt C Integrative Fertigkeiten, Kenntnisse und Fähigkeiten in den Pflichtqualifikationen nach § 3 Nummer 1:
+(2) Die Berufsausbildung zum Medientechnologen Druck und zur Medientechnologin Druck gliedert sich wie folgt (Ausbildungsberufsbild):
 
-1.
+1. Planen des Ablaufs von Druckaufträgen,
 
-2.
+2. Einrichten von Druckmaschinen,
 
-3.
+3. Steuern von Druckprozessen,
 
-4.
+4. Drucktechnologien und -prozesse,
 
-5.
-
-1.
-
-I.1
-
-I.2
-
-I.3
-
-I.4
-
-I.5
-
-I.6
-
-I.7
-
-I.8
-
-I.9
-
-I.10
-
-I.11
-
-I.12
-
-I.13
-
-I.14
-
-I.15
-
-I.16
-
-I.17
-
-I.18
-
-I.19
-
-I.20
-
-I.21
-
-2.
-
-II.1
-
-II.2
-
-II.3
-
-II.4
-
-II.5
-
-II.6
-
-II.7
-
-II.8
-
-II.9
-
-II.10
-
-II.11
-
-II.12
-
-II.13
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
+5. Instandhalten von Druckmaschinen;
 
 ### § 5 — Durchführung der Berufsausbildung
 
@@ -145,39 +63,27 @@ II.13
 
 (2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Die Zwischenprüfung findet in den Prüfungsbereichen statt.
+(3) Die Zwischenprüfung findet in den Prüfungsbereichen
 
-1.
+1. Arbeitsplanung und
 
-2.
+2. Drucktechnik
 
 (4) Für den Prüfungsbereich Arbeitsplanung bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er in der Lage ist, a)Arbeitsschritte zu planen, Arbeitsmittel festzulegen, Materialien auszuwählen, Anforderungen des Arbeits-, Gesundheits- und Umweltschutzes sowie der Wirtschaftlichkeit zu berücksichtigen,b)Druckdaten oder Druckformen zu übernehmen und zu prüfen sowie gegebene Produkt- und Prozessdaten im Planungsprozess umzusetzen,c)Einrichte- und Steuerungsprozesse an Druckmaschinen zu planen, dabei Wechselwirkungen von Materialien, Druckfarben, Bedruckstoffen und Druckmaschinen im Druckprozess zu berücksichtigen,d)druckspezifische Berechnungen durchzuführen; Arbeitsschritte zu planen, Arbeitsmittel festzulegen, Materialien auszuwählen, Anforderungen des Arbeits-, Gesundheits- und Umweltschutzes sowie der Wirtschaftlichkeit zu berücksichtigen, Druckdaten oder Druckformen zu übernehmen und zu prüfen sowie gegebene Produkt- und Prozessdaten im Planungsprozess umzusetzen, Einrichte- und Steuerungsprozesse an Druckmaschinen zu planen, dabei Wechselwirkungen von Materialien, Druckfarben, Bedruckstoffen und Druckmaschinen im Druckprozess zu berücksichtigen, druckspezifische Berechnungen durchzuführen;
 
-a)
+2. der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
 
-b)
-
-c)
-
-d)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt 120 Minuten.
 
 (5) Für den Prüfungsbereich Drucktechnik bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er in der Lage ist, a)Druckmaschinen auftragsbezogen einzurichten, das Druckergebnis unter Berücksichtigung von Druckfarben, Bedruckstoffen und Maschineneinstellungen abzustimmen und den Fortdruck zu starten,b)Druckprozesskontrollen während des Fortdrucks durchzuführen; Parameter zu messen, zu prüfen und Ergebnisse zu dokumentieren sowie den Druckprozess und das Druckergebnis zu optimieren; Druckmaschinen auftragsbezogen einzurichten, das Druckergebnis unter Berücksichtigung von Druckfarben, Bedruckstoffen und Maschineneinstellungen abzustimmen und den Fortdruck zu starten, Druckprozesskontrollen während des Fortdrucks durchzuführen; Parameter zu messen, zu prüfen und Ergebnisse zu dokumentieren sowie den Druckprozess und das Druckergebnis zu optimieren;
 
-a)
+2. der Prüfling soll ein Prüfungsstück anfertigen und seine Arbeiten mit praxisüblichen Unterlagen dokumentieren;
 
-b)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt vier Stunden.
 
 ### § 7 — Abschlussprüfung, Gesellenprüfung
 
@@ -187,93 +93,57 @@ b)
 
 (3) Die Abschluss- oder Gesellenprüfung besteht aus den Prüfungsbereichen:
 
-1.
+1. Druckproduktion,
 
-2.
+2. Auftragsplanung und Kommunikation,
 
-3.
+3. Prozesstechnologie,
 
-4.
+4. Wirtschafts- und Sozialkunde.
 
 (4) Für den Prüfungsbereich Druckproduktion bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er in der Lage ist, a)Druckmaschinen hinsichtlich ihrer Grundeinstellung zu justieren und maschinentechnische Zusammenhänge bei Funktionsprüfungen zu berücksichtigen,b)die für Arbeitsaufträge benötigten Vorgaben und Materialien zum Einrichten von Druckmaschinen zu beschaffen und Druckaufträge zu starten,c)Druckergebnisse visuell und messtechnisch zu prüfen und zu beurteilen, bei Eingriffen in den Produktionsablauf die Wirkungszusammenhänge innerhalb von Druckmaschinen sowie im Hinblick auf das zu erzielende Druckergebnis zu berücksichtigen und in sein Handeln einzubeziehen,d)Druckauflagen in der vorgegebenen Qualität termingerecht herzustellen,e)seine Arbeiten mit praxisüblichen Unterlagen zu dokumentieren; Druckmaschinen hinsichtlich ihrer Grundeinstellung zu justieren und maschinentechnische Zusammenhänge bei Funktionsprüfungen zu berücksichtigen, die für Arbeitsaufträge benötigten Vorgaben und Materialien zum Einrichten von Druckmaschinen zu beschaffen und Druckaufträge zu starten, Druckergebnisse visuell und messtechnisch zu prüfen und zu beurteilen, bei Eingriffen in den Produktionsablauf die Wirkungszusammenhänge innerhalb von Druckmaschinen sowie im Hinblick auf das zu erzielende Druckergebnis zu berücksichtigen und in sein Handeln einzubeziehen, Druckauflagen in der vorgegebenen Qualität termingerecht herzustellen, seine Arbeiten mit praxisüblichen Unterlagen zu dokumentieren;
 
-a)
+2. der Prüfling soll eine Arbeitsaufgabe sowie ein situatives Fachgespräch entsprechend der im Ausbildungsvertrag festgelegten Wahlqualifikation nach § 4 Absatz 2 Abschnitt B Nummer 2 durchführen, dabei ist eine der im Ausbildungsvertrag festgelegten Wahlqualifikationen nach § 4 Absatz 2 Abschnitt B Nummer 1 zu berücksichtigen;
 
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt sieben Stunden, innerhalb dieser Zeit soll das situative Fachgespräch höchstens zehn Minuten dauern.
 
 (5) Für den Prüfungsbereich Auftragsplanung und Kommunikation bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er in der Lage ist, a)Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer, organisatorischer und personeller Vorgaben kundenorientiert zu planen und zu dokumentieren,b)Arbeitsschritte unter Einbeziehung von Informationen der vor- und nachgelagerten Produktionsbereiche zu planen,c)Maschinendaten auszuwerten, für die Auftragsdokumentation zusammenzustellen und zu sichern,d)Eigenschaften von Materialien, Druckfarben und Bedruckstoffen sowie deren Wechselwirkungen untereinander und mit den eingesetzten Druckmaschinen zu berücksichtigen,e)planungsrelevante Berechnungen durchzuführen; Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer, organisatorischer und personeller Vorgaben kundenorientiert zu planen und zu dokumentieren, Arbeitsschritte unter Einbeziehung von Informationen der vor- und nachgelagerten Produktionsbereiche zu planen, Maschinendaten auszuwerten, für die Auftragsdokumentation zusammenzustellen und zu sichern, Eigenschaften von Materialien, Druckfarben und Bedruckstoffen sowie deren Wechselwirkungen untereinander und mit den eingesetzten Druckmaschinen zu berücksichtigen, planungsrelevante Berechnungen durchzuführen;
 
-a)
+2. der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
 
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt 120 Minuten.
 
 (6) Für den Prüfungsbereich Prozesstechnologie bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er in der Lage ist, a)Druckverfahren hinsichtlich ihrer Einsatzgebiete zu unterscheiden und Hauptproduktgruppen zuzuordnen,b)verfahrensspezifische Parameter sowie Produktionsbedingungen in Bezug auf Druckmaschinen, Materialien, Bedruckstoffe, Druckfarben einschließlich Farbmischsysteme sowie Trocknung, betriebliche Rahmenbedingungen und Produktionsvorgaben zu berücksichtigen und zu nutzen,c)qualitätssichernde Maßnahmen für die Optimierung von Druckergebnissen anzuwenden; prozessbezogene Mess- und Kontrollelemente zu nutzen,d)die sich aus den eingesetzten Techniken ergebenden Produktionsmöglichkeiten zu nutzen,e)Anforderungen der Druckweiterverarbeitung zu berücksichtigen,f)Funktionen von Maschinenelementen sowie Maßnahmen zur Instandhaltung von Maschinen und Anlagen zu beurteilen,g)prozessbezogene Berechnungen durchzuführen; Druckverfahren hinsichtlich ihrer Einsatzgebiete zu unterscheiden und Hauptproduktgruppen zuzuordnen, verfahrensspezifische Parameter sowie Produktionsbedingungen in Bezug auf Druckmaschinen, Materialien, Bedruckstoffe, Druckfarben einschließlich Farbmischsysteme sowie Trocknung, betriebliche Rahmenbedingungen und Produktionsvorgaben zu berücksichtigen und zu nutzen, qualitätssichernde Maßnahmen für die Optimierung von Druckergebnissen anzuwenden; prozessbezogene Mess- und Kontrollelemente zu nutzen, die sich aus den eingesetzten Techniken ergebenden Produktionsmöglichkeiten zu nutzen, Anforderungen der Druckweiterverarbeitung zu berücksichtigen, Funktionen von Maschinenelementen sowie Maßnahmen zur Instandhaltung von Maschinen und Anlagen zu beurteilen, prozessbezogene Berechnungen durchzuführen;
 
-a)
+2. der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt 120 Minuten.
 
 (7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen;
 
-2.
+2. der Prüfling soll praxisorientierte Aufgaben schriftlich bearbeiten;
 
-3.
+3. die Prüfungszeit beträgt 60 Minuten.
 
 ### § 8 — Gewichtungs- und Bestehensregelung
 
-(1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
+(2) Die Abschluss- oder Gesellenprüfung ist bestanden, wenn die Leistungen
 
-(2) Die Abschluss- oder Gesellenprüfung ist bestanden, wenn die Leistungen bewertet worden sind.
+1. im Gesamtergebnis mit mindestens „ausreichend“,
 
-1.
+2. im Prüfungsbereich Druckproduktion mit mindestens „ausreichend“,
 
-2.
+3. in mindestens zwei weiteren Prüfungsbereichen mit mindestens „ausreichend“ und
 
-3.
-
-4.
+4. in keinem Prüfungsbereich mit „ungenügend“
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der schlechter als „ausreichend“ bewerteten Prüfungsbereiche „Auftragsplanung und Kommunikation“ oder „Prozesstechnologie“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
@@ -307,674 +177,46 @@ Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt die Verord
 
 ### Anlage — (zu § 4 Absatz 1 Satz 1)
 
-a)
+a) Auftragsunterlagen auf Vollständigkeit prüfen und Realisierbarkeit der Produktionsvorgaben kontrollieren
 
-b)
+b) Druckdaten oder Druckformen auf Vollständigkeit und Verwendbarkeit prüfen
 
-c)
+c) Seiten ausschießen, Seiten- und Nutzenanordnung unter Berücksichtigung von Druckweiterverarbeitungsvorgaben sowie Kontrollelemente für den Druck und die Druckweiterverarbeitung prüfen
 
-d)
+d) Maschinenbelegung planen und festlegen
 
-e)
+e) Materialien für die Produktion auswählen, bereitstellen und auf Verwendbarkeit prüfen
 
-f)
+f) Produktionsbedingungen, insbesondere bezüglich der Wechselwirkungen von Druckmaschine, Bedruckstoff, Druckfarbe und Klima, beurteilen
 
-g)
+g) Produkt- und Prozessdaten bei der Planung von Aufträgen, insbesondere unter Berücksichtigung von Colormanagement, Farbsystemen, Farbtechnologie, Trocknung, Härtung und Veredelung, nutzen
 
-h)
+h) technische Abläufe als integrierten Produktionsprozess unter Berücksichtigung wirtschaftlicher und ökologischer Aspekte darstellen
 
-i)
+i) Material lagern und innerbetriebliche logistische Prozesse nutzen
 
-a)
+a) Daten auf Vollständigkeit und Verwendbarkeit, insbesondere auf Einhaltung drucktechnischer Grundparameter, prüfen
 
-b)
+b) Daten für druckkonforme Ausgabe aufbereiten sowie in Format und Nutzen platzieren, Motiv für mehrteilige Druckbogen aufteilen sowie systemspezifische Weiterverarbeitungs- und Kontrollelemente integrieren
 
-c)
+c) Druckausgabedateien erstellen
 
-d)
+d) Revisionsmuster erstellen und prüfen
 
-e)
+e) Produktionsdaten sichern und archivieren
 
-f)
+a) Bogenoffsetmaschinen auf unterschiedliche Bedruckstoffarten einstellen
 
-a)
+b) Drucktücher auswählen, Druckabwicklung prüfen und einstellen
 
-b)
+a) Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
-c)
+b) gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
 
-d)
+c) Möglichkeiten der beruflichen Fortbildung nennen
 
-e)
+d) wesentliche Teile des Arbeitsvertrages nennen
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-1. Auswahlliste I (Wahlqualifikationen nach § 3 Nummer 2)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-2. Auswahlliste II (Wahlqualifikationen nach § 3 Nummer 3)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-p)
-
-q)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
+e) wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 > Anlage Abschn. B Nr. I.6 Sp. 3 Buchst. c Kursivdruck: Müsste richtig „Zuordnungsschema“ lauten

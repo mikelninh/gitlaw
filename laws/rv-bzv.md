@@ -13,11 +13,29 @@ Auf Grund des § 178 Abs. 2 des Sechsten Buches Sozialgesetzbuch (Artikel 1 des 
 
 ### § 1 — Geltungsbereich
 
-Diese Verordnung gilt für die Zahlung von Beiträgen, die nicht nach den Vorschriften über den Gesamtsozialversicherungsbeitrag von den Krankenkassen (Einzugsstellen) einzuziehen sind, und für die Zahlung von freiwilligen Beiträgen bei einem Aufenthalt im Ausland. Satz 1 gilt nicht für die Zahlung von Beiträgen 1.für Bezieher von Sozialleistungen, 2.für Nachzuversichernde, 3.zur Auffüllung oder Begründung von Rentenanwartschaften im Rahmen des Versorgungsausgleichs, 3a.zum Ausgleich einer Rentenminderung bei vorzeitiger Inanspruchnahme einer Rente wegen Alters und 4.für Künstler und Publizisten.
+Diese Verordnung gilt für die Zahlung von Beiträgen, die nicht nach den Vorschriften über den Gesamtsozialversicherungsbeitrag von den Krankenkassen (Einzugsstellen) einzuziehen sind, und für die Zahlung von freiwilligen Beiträgen bei einem Aufenthalt im Ausland. Satz 1 gilt nicht für die Zahlung von Beiträgen
+
+1. für Bezieher von Sozialleistungen,
+
+2. für Nachzuversichernde,
+
+3. zur Auffüllung oder Begründung von Rentenanwartschaften im Rahmen des Versorgungsausgleichs,
+
+3a. zum Ausgleich einer Rentenminderung bei vorzeitiger Inanspruchnahme einer Rente wegen Alters und
+
+4. für Künstler und Publizisten.
 
 ### § 2 — Zahlungsweise, Zahlungsmittel
 
-Beitragszahlungen sind unmittelbar an den zuständigen Träger der Rentenversicherung zu leisten. Die Betragszahlungen können durch 1.Abbuchung (Einzugsermächtigung), 2.Überweisung oder Einzahlung, 3.Scheck oder 4.Barzahlung erfolgen.
+Beitragszahlungen sind unmittelbar an den zuständigen Träger der Rentenversicherung zu leisten. Die Betragszahlungen können durch
+
+1. Abbuchung (Einzugsermächtigung),
+
+2. Überweisung oder Einzahlung,
+
+3. Scheck oder
+
+4. Barzahlung
 
 ### § 3 — Abbuchungsverfahren
 
@@ -29,11 +47,31 @@ Versicherte, die nicht am Abbuchungsverfahren teilnehmen, können die Beiträge 
 
 ### § 5 — Verfahren
 
-(1) Die Träger der Rentenversicherung haben für das Beitragszahlverfahren Anmeldevordrucke zur Verfügung zu stellen. Die Versicherten haben die erforderlichen Auskünfte zur Versicherungs- und Beitragspflicht, zur freiwilligen Versicherung und zur ordnungsgemäßen Durchführung des Beitragszahlverfahrens zu erteilen (§ 196 Abs. 1 des Sechsten Buches Sozialgesetzbuch).(2) (weggefallen)(3) Werden Beiträge überwiesen oder eingezahlt, sollen auf dem Überweisungs- oder Einzahlungsbeleg folgende Angaben enthalten sein: 1.Die Versicherungsnummer,2.der Vor- und Familienname des Versicherten,3.der Verwendungszeitraum,4.die Beitragsart.Haben Versicherte vor Beginn der Beitragszahlung gegenüber dem zuständigen Rentenversicherungsträger erklärt, die jeweilige Beitragszahlung sei immer für einen gleichbleibenden Zeitabschnitt zu verwenden, ist die Angabe des Verwendungszeitraums nicht erforderlich.
+(1) Die Träger der Rentenversicherung haben für das Beitragszahlverfahren Anmeldevordrucke zur Verfügung zu stellen. Die Versicherten haben die erforderlichen Auskünfte zur Versicherungs- und Beitragspflicht, zur freiwilligen Versicherung und zur ordnungsgemäßen Durchführung des Beitragszahlverfahrens zu erteilen (§ 196 Abs. 1 des Sechsten Buches Sozialgesetzbuch).
+
+(2) (weggefallen)
+
+(3) Werden Beiträge überwiesen oder eingezahlt, sollen auf dem Überweisungs- oder Einzahlungsbeleg folgende Angaben enthalten sein:
+
+1. Die Versicherungsnummer,
+
+2. der Vor- und Familienname des Versicherten,
+
+3. der Verwendungszeitraum,
+
+4. die Beitragsart.
 
 ### § 6 — Tag der Zahlung
 
-Als Tag der Beitragszahlung gilt: 1.bei Abbuchung der erste Tag des Monats, in dem vereinbarungsgemäß die Abbuchung vorgenommen werden soll, es sei denn, der Abbuchungsauftrag wird nicht ausgeführt oder abgebuchte Beiträge werden zurückgerufen; 2.bei Überweisung oder Einzahlung auf ein Konto des Trägers der Rentenversicherung der achte Tag vor dem Tag der Wertstellung zugunsten des Trägers der Rentenversicherung oder, falls es für den Versicherten günstiger ist, der Tag der Belastung oder Einzahlung; 3.bei Zahlung durch Scheck der Tag der Absendung, es sei denn, der Scheck wird von dem Kreditinstitut oder Postgiroamt, das das zu belastende Konto führt, nicht eingelöst; 4.bei Barzahlung der Tag der Einzahlung. Der Tag der Buchung gilt als Tag der Wertstellung, sofern eine Wertstellung nicht erfolgt ist. Werden Beiträge im voraus gezahlt, gilt als Tag der Zahlung frühestens der erste Tag des Monats, für den der einzelne Beitrag verwendet werden soll.
+Als Tag der Beitragszahlung gilt:
+
+1. bei Abbuchung der erste Tag des Monats, in dem vereinbarungsgemäß die Abbuchung vorgenommen werden soll, es sei denn, der Abbuchungsauftrag wird nicht ausgeführt oder abgebuchte Beiträge werden zurückgerufen;
+
+2. bei Überweisung oder Einzahlung auf ein Konto des Trägers der Rentenversicherung der achte Tag vor dem Tag der Wertstellung zugunsten des Trägers der Rentenversicherung oder, falls es für den Versicherten günstiger ist, der Tag der Belastung oder Einzahlung;
+
+3. bei Zahlung durch Scheck der Tag der Absendung, es sei denn, der Scheck wird von dem Kreditinstitut oder Postgiroamt, das das zu belastende Konto führt, nicht eingelöst;
+
+4. bei Barzahlung der Tag der Einzahlung.
 
 ### § 7 — Reihenfolge der Tilgung
 
@@ -41,19 +79,33 @@ Schuldet der Versicherte Auslagen des Trägers der Rentenversicherung, Gebühren
 
 ### § 8 — Verwendungszeitraum
 
-(1) Die Beiträge sind für den vom Versicherten bestimmten Verwendungszeitraum zu buchen, sofern gesetzliche Vorschriften dem nicht entgegenstehen. Für jeden Kalendermonat darf nur ein freiwilliger Beitrag gezahlt werden.(2) Beträge, die nicht verwendet werden können, sind als Gutschrift zu buchen oder zurückzuzahlen. Auf Verlangen des Versicherten sind nicht verwendbare Beträge zurückzuzahlen. Gutschriften sind den Versicherten unverzüglich schriftlich mitzuteilen.
+(1) Die Beiträge sind für den vom Versicherten bestimmten Verwendungszeitraum zu buchen, sofern gesetzliche Vorschriften dem nicht entgegenstehen. Für jeden Kalendermonat darf nur ein freiwilliger Beitrag gezahlt werden.
+
+(2) Beträge, die nicht verwendet werden können, sind als Gutschrift zu buchen oder zurückzuzahlen. Auf Verlangen des Versicherten sind nicht verwendbare Beträge zurückzuzahlen. Gutschriften sind den Versicherten unverzüglich schriftlich mitzuteilen.
 
 ### § 9 — Beitragsbescheinigung
 
-(1) Den Versicherten ist spätestens bis zum 28. Februar eines jeden Jahres eine Beitragsbescheinigung über die für das vergangene Kalenderjahr gezahlten Beiträge auszustellen. Die Beitragsbescheinigung hat folgende Angaben zu enthalten: 1.die Versicherungsnummer, 2.den Vor- und Familiennamen des Versicherten, 3.den Verwendungszeitraum, 4.die Beitragshöhe, 5.die Beitragsart, 6.die Beitragsbemessungsgrundlage. Über Beiträge, die nach dem 28. Februar eines jeden Jahres für das vergangene Kalenderjahr gezahlt werden, ist unverzüglich nach der Zahlung eine Beitragsbescheinigung auszustellen.(2) Bei Höherversicherungsbeiträgen ist neben den Angaben nach Absatz 1 Nr. 1 bis 5 das Jahr der Zahlung anzugeben. Bei Höherversicherungsbeiträgen, die neben Pflichtbeiträgen gezahlt werden, ist frühestens eine Beitragsbescheinigung auszustellen, wenn für ihren Verwendungszeitraum die beitragspflichtigen Einnahmen bescheinigt worden sind.
+(1) Den Versicherten ist spätestens bis zum 28. Februar eines jeden Jahres eine Beitragsbescheinigung über die für das vergangene Kalenderjahr gezahlten Beiträge auszustellen. Die Beitragsbescheinigung hat folgende Angaben zu enthalten:
+
+1. die Versicherungsnummer,
+
+2. den Vor- und Familiennamen des Versicherten,
+
+3. den Verwendungszeitraum,
+
+4. die Beitragshöhe,
+
+5. die Beitragsart,
+
+6. die Beitragsbemessungsgrundlage.
+
+(2) Bei Höherversicherungsbeiträgen ist neben den Angaben nach Absatz 1 Nr. 1 bis 5 das Jahr der Zahlung anzugeben. Bei Höherversicherungsbeiträgen, die neben Pflichtbeiträgen gezahlt werden, ist frühestens eine Beitragsbescheinigung auszustellen, wenn für ihren Verwendungszeitraum die beitragspflichtigen Einnahmen bescheinigt worden sind.
 
 ### § 10 — Übergangs- und Schlußvorschriften
 
 Für ausgegebene Beitragsmarken der Träger der Rentenversicherung gilt § 11 Abs. 2 und 3 der RV-Beitragsentrichtungsverordnung vom 21. Juni 1976 (BGBl. I S. 1667, 3616), die zuletzt durch die Verordnung vom 16. Juli 1986 (BGBl. I S. 1060) geändert worden ist, weiter.
 
 ### § 11 — Inkrafttreten
-
-Diese Verordnung tritt am 1. Januar 1992 in Kraft. Gleichzeitig tritt vorbehaltlich des § 10 die RV-Beitragsentrichtungsverordnung außer Kraft.
 
 > § 11 Satz 2 Kursivdruck: Aufhebungsvorschrift
 

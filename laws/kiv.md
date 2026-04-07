@@ -13,11 +13,15 @@ Auf Grund des § 71 Abs. 2 und 3 des Arzneimittelgesetzes in der Fassung der Bek
 
 ### § 1 — Zweck und Anwendungsbereich
 
-(1) Zweck dieser Verordnung ist es, die Versorgung der Bevölkerung mit kaliumiodidhaltigen Arzneimitteln bei radiologischen Ereignissen sicherzustellen.(2) Diese Verordnung gilt für kaliumiodidhaltige Arzneimittel, die zur Verminderung der Aufnahme radioaktiven Iods in die menschliche Schilddrüse geeignet sind und die für den Bereich der Bundeswehr, der Bundespolizei, der Bereitschaftspolizeien der Länder und des Zivil- und Katastrophenschutzes an die von der zuständigen Behörde bestimmten Stellen zur Aufgabenerfüllung in diesen Bereichen abgegeben, von diesen vorrätig gehalten und zum Endverbrauch abgegeben werden.
+(1) Zweck dieser Verordnung ist es, die Versorgung der Bevölkerung mit kaliumiodidhaltigen Arzneimitteln bei radiologischen Ereignissen sicherzustellen.
+
+(2) Diese Verordnung gilt für kaliumiodidhaltige Arzneimittel, die zur Verminderung der Aufnahme radioaktiven Iods in die menschliche Schilddrüse geeignet sind und die für den Bereich der Bundeswehr, der Bundespolizei, der Bereitschaftspolizeien der Länder und des Zivil- und Katastrophenschutzes an die von der zuständigen Behörde bestimmten Stellen zur Aufgabenerfüllung in diesen Bereichen abgegeben, von diesen vorrätig gehalten und zum Endverbrauch abgegeben werden.
 
 ### § 2 — Ausnahmen vom Siebenten Abschnitt des Arzneimittelgesetzes
 
-(1) Abweichend von § 47 Abs. 1 des Arzneimittelgesetzes können die in § 1 Abs. 2 genannten Arzneimittel vom pharmazeutischen Unternehmer und vom pharmazeutischen Großhändler unmittelbar an die in § 1 Abs. 2 genannten Stellen abgegeben werden.(2) Die in § 1 Abs. 2 genannten Arzneimittel können bei einem radiologischen Ereignis auf Veranlassung der zuständigen Behörde abweichend von § 43 Abs. 1 des Arzneimittelgesetzes zum Endverbrauch abgegeben werden.
+(1) Abweichend von § 47 Abs. 1 des Arzneimittelgesetzes können die in § 1 Abs. 2 genannten Arzneimittel vom pharmazeutischen Unternehmer und vom pharmazeutischen Großhändler unmittelbar an die in § 1 Abs. 2 genannten Stellen abgegeben werden.
+
+(2) Die in § 1 Abs. 2 genannten Arzneimittel können bei einem radiologischen Ereignis auf Veranlassung der zuständigen Behörde abweichend von § 43 Abs. 1 des Arzneimittelgesetzes zum Endverbrauch abgegeben werden.
 
 ### § 3 — Ausnahmen vom Zweiten Abschnitt des Arzneimittelgesetzes
 

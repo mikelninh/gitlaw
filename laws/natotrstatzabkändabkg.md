@@ -12,7 +12,15 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 ### Art 1
 
-(1) Folgenden, in Bonn am 18. März 1993 von der Bundesrepublik Deutschland unterzeichneten Übereinkünften wird zugestimmt: 1.Abkommen zur Änderung des Zusatzabkommens vom 3. August 1959 in der durch das Abkommen vom 21. Oktober 1971 und die Vereinbarung vom 18. Mai 1981 geänderten Fassung zu dem Abkommen zwischen den Parteien des Nordatlantikvertrages über die Rechtsstellung ihrer Truppen hinsichtlich der in der Bundesrepublik Deutschland stationierten ausländischen Truppen (BGBl. 1961 II S. 1183; 1973 II S. 1021; 1982 II S. 530), 2.Abkommen zur Durchführung des Artikels 45 Absatz 1 des Zusatzabkommens vom 3. August 1959 in der durch das Abkommen vom 21. Oktober 1971, die Vereinbarung vom 18. Mai 1981 und das Abkommen vom 18. März 1993 geänderten Fassung zu dem Abkommen zwischen den Parteien des Nordatlantikvertrages über die Rechtsstellung ihrer Truppen hinsichtlich der in der Bundesrepublik Deutschland stationierten ausländischen Truppen, 3.Übereinkommen zwischen der Bundesrepublik Deutschland, Kanada und dem Vereinigten Königreich Großbritannien und Nordirland zur Außerkraftsetzung des Abkommens vom 3. August 1959 über die Durchführung von Manövern und anderen Übungen im Raume Soltau-Lüneburg in der durch das Abkommen vom 12. Mai 1970 geänderten Fassung (BGBl. 1961 II S. 1362; 1962 II S. 121; 1963 II S. 745; 1971 II S. 1077, 1303). (2) Die aufgeführten Abkommen und das Übereinkommen werden nachstehend veröffentlicht.
+(1) Folgenden, in Bonn am 18. März 1993 von der Bundesrepublik Deutschland unterzeichneten Übereinkünften wird zugestimmt:
+
+1. Abkommen zur Änderung des Zusatzabkommens vom 3. August 1959 in der durch das Abkommen vom 21. Oktober 1971 und die Vereinbarung vom 18. Mai 1981 geänderten Fassung zu dem Abkommen zwischen den Parteien des Nordatlantikvertrages über die Rechtsstellung ihrer Truppen hinsichtlich der in der Bundesrepublik Deutschland stationierten ausländischen Truppen (BGBl. 1961 II S. 1183; 1973 II S. 1021; 1982 II S. 530),
+
+2. Abkommen zur Durchführung des Artikels 45 Absatz 1 des Zusatzabkommens vom 3. August 1959 in der durch das Abkommen vom 21. Oktober 1971, die Vereinbarung vom 18. Mai 1981 und das Abkommen vom 18. März 1993 geänderten Fassung zu dem Abkommen zwischen den Parteien des Nordatlantikvertrages über die Rechtsstellung ihrer Truppen hinsichtlich der in der Bundesrepublik Deutschland stationierten ausländischen Truppen,
+
+3. Übereinkommen zwischen der Bundesrepublik Deutschland, Kanada und dem Vereinigten Königreich Großbritannien und Nordirland zur Außerkraftsetzung des Abkommens vom 3. August 1959 über die Durchführung von Manövern und anderen Übungen im Raume Soltau-Lüneburg in der durch das Abkommen vom 12. Mai 1970 geänderten Fassung (BGBl. 1961 II S. 1362; 1962 II S. 121; 1963 II S. 745; 1971 II S. 1077, 1303).
+
+(2) Die aufgeführten Abkommen und das Übereinkommen werden nachstehend veröffentlicht.
 
 ### (XXXX) Art 2 und 3 — (weggefallen)
 
@@ -26,4 +34,6 @@ Das Auswärtige Amt wird ermächtigt, den Wortlaut des Zusatzabkommens zum NATO-
 
 ### Art 5
 
-(1) Dieses Gesetz tritt mit Ausnahme der Artikel 2 bis 5 am Tage nach seiner Verkündung in Kraft. Die Artikel 2 bis 5 treten gleichzeitig mit dem in Artikel 1 Nr. 1 aufgeführten Abkommen zur Änderung des Zusatzabkommens in Kraft.(2) Der Tag, an dem das Abkommen zur Änderung des Zusatzabkommens und die übrigen in Artikel 1 Nr. 2 und 3 aufgeführten Abkommen und Übereinkommen für die Bundesrepublik Deutschland in Kraft treten, ist im Bundesgesetzblatt bekanntzugeben.
+(1) Dieses Gesetz tritt mit Ausnahme der Artikel 2 bis 5 am Tage nach seiner Verkündung in Kraft. Die Artikel 2 bis 5 treten gleichzeitig mit dem in Artikel 1 Nr. 1 aufgeführten Abkommen zur Änderung des Zusatzabkommens in Kraft.
+
+(2) Der Tag, an dem das Abkommen zur Änderung des Zusatzabkommens und die übrigen in Artikel 1 Nr. 2 und 3 aufgeführten Abkommen und Übereinkommen für die Bundesrepublik Deutschland in Kraft treten, ist im Bundesgesetzblatt bekanntzugeben.

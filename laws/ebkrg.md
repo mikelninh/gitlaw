@@ -32,11 +32,11 @@
 
 Wenn und soweit es die Sicherheit oder die Abwicklung des Verkehrs unter Berücksichtigung der übersehbaren Verkehrsentwicklung erfordert, sind nach Maßgabe der Vereinbarung der Beteiligten (§ 5) oder der Anordnung im Kreuzungsrechtsverfahren (§§ 6 und 7) Kreuzungen
 
-1.
+1. zu beseitigen oder
 
-2.
+2. durch Baumaßnahmen, die den Verkehr an der Kreuzung vermindern, zu entlasten oder
 
-3.
+3. durch den Bau von Überführungen, durch die Einrichtung technischer Sicherungen, insbesondere von Schranken oder Lichtsignalen, durch die Herstellung von Sichtflächen an Bahnübergängen, die nicht technisch gesichert sind, oder in sonstiger Weise zu ändern.
 
 ### § 4
 
@@ -92,9 +92,9 @@ Die Anordnungsbehörde kann das Kreuzungsrechtsverfahren auch ohne Antrag einlei
 
 (1) Wird an einer Überführung eine Maßnahme nach § 3 durchgeführt, so fallen die dadurch entstehenden Kosten
 
-1.
+1. demjenigen Beteiligten zur Last, der die Änderung verlangt oder sie im Fall einer Anordnung hätte verlangen müssen; Vorteile, die dem anderen Beteiligten durch die Änderung entstehen, sind auszugleichen (Vorteilsausgleich);
 
-2.
+2. beiden Beteiligten zur Last, wenn beide die Änderung verlangen oder sie im Fall einer Anordnung hätten verlangen müssen, und zwar in dem Verhältnis, in dem die Kosten bei getrennter Durchführung der Änderung zueinander stehen würden. Nummer 1 Satz 2 ist entsprechend anzuwenden.
 
 (2) Im Fall des Absatzes 1 Nummer 2 werden die Kosten ohne Vorteilsausgleich hälftig geteilt, wenn die Überführung der Kreuzung einer Eisenbahn des Bundes mit einer Bundesfernstraße in der Baulast des Bundes dient und beide Beteiligten eine Änderung verlangen, die die Erneuerung der Überführung zur Folge hat, oder sie im Fall einer Anordnung eine solche Änderung hätten verlangen müssen.
 
@@ -114,15 +114,13 @@ Die Anordnungsbehörde kann das Kreuzungsrechtsverfahren auch ohne Antrag einlei
 
 (2) An Bahnübergängen gehören
 
-1.
+1. zu den Eisenbahnanlagen das sowohl dem Eisenbahnverkehr als auch dem Straßenverkehr dienende Kreuzungsstück, begrenzt durch einen Abstand von 2,25 m, bei Straßenbahnen von 1,00 m jeweils von der äußeren Schiene und parallel zu ihr verlaufend, ferner die Schranken, Warnkreuze (Andreaskreuze) und Blinklichter sowie andere der Sicherung des sich kreuzenden Verkehrs dienende Eisenbahnzeichen und -einrichtungen,
 
-2.
+2. zu den Straßenanlagen die Sichtflächen, die Warnzeichen und Merktafeln (Baken) sowie andere der Sicherung des sich kreuzenden Verkehrs dienende Straßenverkehrszeichen und -einrichtungen.
 
 (3) Eisenbahnüberführungen und Schutzerdungsanlagen gehören zu den Eisenbahnanlagen, Straßenüberführungen zu den Straßenanlagen.
 
 (4) Die Beteiligten haben Maßnahmen nach Absatz 1 zu dulden.
-
-> § 14 Abs. 1 u. 2: Mit dem GG vereinbar, BVerfGE v. 13.11.1974; 1975 I 228 - 1 BvL 27/73 -
 
 ### § 14a
 
@@ -152,13 +150,13 @@ Die Anordnungsbehörde kann das Kreuzungsrechtsverfahren auch ohne Antrag einlei
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur kann mit Zustimmung des Bundesrates Rechtsverordnungen erlassen, durch die
 
-1.
+1. der Umfang der Kosten nach den §§ 11, 12 und 13 näher bestimmt wird und für die Verwaltungskosten Pauschalbeträge festgesetzt werden;
 
-2.
+2. bestimmt wird, wie die bei getrennter Durchführung der Maßnahmen nach § 12 Nr. 2 entstehenden Kosten unter Anwendung von Erfahrungswerten für die Baukosten in vereinfachter Form ermittelt werden;
 
-3.
+3. die Berechnung und die Zahlung von Ablösungsbeträgen nach § 15 Abs. 4 näher bestimmt sowie dazu ein Verfahren zur gütlichen Beilegung von Streitigkeiten festgelegt werden,
 
-4.
+4. bei neuartigen Anlagen, die nicht von § 14 Abs. 2 erfaßt werden, bestimmt wird, ob sie zu den Eisenbahn- oder zu den Straßenanlagen gehören.
 
 (2) Allgemeine Verwaltungsvorschriften erläßt das Bundesministerium für Verkehr und digitale Infrastruktur mit Zustimmung des Bundesrates.
 

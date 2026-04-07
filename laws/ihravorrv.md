@@ -15,11 +15,21 @@ Der Ansiedlung der Internationalen Allianz zum Holocaust-Gedenken (International
 
 ### § 2
 
-(1) Die IHRA besitzt in Deutschland Rechtspersönlichkeit und kann 1.Verträge schließen,2.über bewegliches und unbewegliches Vermögen verfügen und3.vor Gericht klagen und vorbehaltlich der Bestimmung des § 5 verklagt werden.(2) Die rechtswirksame Vertretung der IHRA richtet sich nach ihrer Geschäftsordnung.
+(1) Die IHRA besitzt in Deutschland Rechtspersönlichkeit und kann
+
+1. Verträge schließen,
+
+2. über bewegliches und unbewegliches Vermögen verfügen und
+
+3. vor Gericht klagen und vorbehaltlich der Bestimmung des § 5 verklagt werden.
+
+(2) Die rechtswirksame Vertretung der IHRA richtet sich nach ihrer Geschäftsordnung.
 
 ### § 3
 
-(1) Die IHRA genießt die in den §§ 6 bis 9 und 15 des Gaststaatgesetzes vorgesehenen Vorrechte, Immunitäten, Befreiungen und Erleichterungen, sofern die in diesen Vorschriften genannten Voraussetzungen erfüllt sind.(2) Die IHRA genießt die in § 11 des Gaststaatgesetzes vorgesehenen steuerlichen Vergünstigungen, sofern die in dieser Vorschrift genannten Voraussetzungen erfüllt sind und solange sich die IHRA überwiegend aus Haushaltsbeiträgen der Mitgliedstaaten finanziert.
+(1) Die IHRA genießt die in den §§ 6 bis 9 und 15 des Gaststaatgesetzes vorgesehenen Vorrechte, Immunitäten, Befreiungen und Erleichterungen, sofern die in diesen Vorschriften genannten Voraussetzungen erfüllt sind.
+
+(2) Die IHRA genießt die in § 11 des Gaststaatgesetzes vorgesehenen steuerlichen Vergünstigungen, sofern die in dieser Vorschrift genannten Voraussetzungen erfüllt sind und solange sich die IHRA überwiegend aus Haushaltsbeiträgen der Mitgliedstaaten finanziert.
 
 ### § 4
 

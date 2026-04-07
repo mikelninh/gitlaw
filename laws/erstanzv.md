@@ -19,28 +19,26 @@ Diese Verordnung tritt am 1. Januar 1998 in Kraft.
 
 ### Anlage — Anzeige nach § 64e Abs. 2 Satz 1 KWG
 
-Fundstelle des Originaltextes: BGBl. I 1997, S. 3413                 An die Landeszentralbank:Fußnoten
+1) Für Unternehmen, die gemäß § 2 Abs. 6 KWG nicht als Finanzdienstleistungsinstitute gelten, besteht keine Anzeigepflicht.
 
-1)
+2) Bei natürlichen Personen: Vor- und Zunamen, ggf. Geburtsname, Geburtstag und -ort, vollständige Anschrift, Firma. Bei juristischen Personen und Personenhandelsgesellschaften: Firma, Rechtsform, Sitz laut Registereintragung.
 
-2)
+3) Bei natürlichen Personen mit Geschäfts- und Wohnanschrift: Wohnanschrift (erster Wohnsitz).
 
-3)
+4) Bei juristischen Personen und Personenhandelsgesellschaften: Namen und Anschrift der Geschäftsleiter/persönlich haftender Gesellschafter sowie ggf. Anschrift der Hauptverwaltung und ausländischer Zweigstellen. Angaben auf gesondertem Blatt beifügen.
 
-4)
+5) Die Kennziffer der überwiegend ausgeübten Tätigkeit ist zu unterstreichen.
 
-5)
+6) Soweit es sich bei den Finanzinstrumenten um Wertpapiere und deren Derivate handelt, war dies als Effektengeschäft bereits bisher erlaubnispflichtiges Bankgeschäft. Die Übergangsvorschrift des § 64e Abs. 2 Satz 1 KWG gilt deshalb nur für das Kommissionsgeschäft in Geldmarktinstrumenten, Devisen und Rechnungseinheiten sowie deren Derivaten und Derivaten, deren Preis von dem Börsen- oder Marktpreis von Waren oder Edelmetallen abhängt.
 
-6)
+7) Auch wenn in den Portfolios Vermögen verschiedener Kunden zusammengefaßt sind.
 
-7)
+8) Handel in eigenem Namen für eigene Rechnung als Dienstleistung für andere.
 
-8)
+9) Soweit nicht alle unter 201 bis 209 angekreuzten, ab dem 1.1.1998 erlaubnispflichtigen Bankgeschäfte und Finanzdienstleistungen fortgeführt werden, auf gesondertem Blatt diejenigen Bankgeschäfte/Finanzdienstleistungen aufführen, die fortgeführt werden.
 
-9)
+10) Bei Ausübung als Nebentätigkeit sind nähere Angaben zur Geschäftstätigkeit insgesamt auf einem gesonderten Blatt zu machen.
 
-10)
+11) Handel in eigenem Namen für eigene Rechnung nicht als Dienstleistung für andere.
 
-11)
-
-12)
+12) Z.B. gemäß § 7 Abs. 1 oder § 30 Abs. 1 des Börsengesetzes bzw. § 34c der Gewerbeordnung und/oder eine Bestätigung der zuständigen Behörde über den Beginn des Gewerbes (§ 15 der Gewerbeordnung).

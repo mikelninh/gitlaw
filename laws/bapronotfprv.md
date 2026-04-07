@@ -7,7 +7,7 @@
 
 ### Eingangsformel
 
-Das Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend verordnet aufgrund des § 53 Absatz 1 und 2, des § 53a Absatz 1 Nummer 2 und des § 53c des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 16. April 2025 (BGBl. 2025 I Nr. 117; 2025 I Nr. 129) in Verbindung mit § 1 Absatz 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165), das durch Artikel 7 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, und dem Organisationserlass vom 6. Mai 2025 (BGBl. 2025 I Nr. 131) im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
+Das Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend verordnet aufgrund des § 53 Absatz 1 und 2, des § 53a Absatz 1 Nummer 2 und des § 53c des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 16. April 2025 (BGBl. 2025 I Nr. 117; 2025 I Nr. 129) in Verbindung mit § 1 Absatz 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165), das durch Artikel 7 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, und dem Organisationserlass vom 6. Mai 2025 (BGBl. 2025 I Nr. 131) im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 ### § 1 — Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -17,23 +17,23 @@ Das Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend verordn
 
 (3) Durch die Prüfung ist festzustellen, ob die zu prüfende Person in der Lage ist, nach § 53c Absatz 2 Satz 1 des Berufsbildungsgesetzes Fach- und Führungsfunktionen zu übernehmen, in denen zu verantwortende Leitungsprozesse von Organisationen eigenständig gesteuert und eigenständig ausgeführt und Mitarbeitende geführt werden. Im Einzelnen umfasst dies insbesondere folgende Tätigkeiten:
 
-1.
+1. Betreuen von Rechtsuchenden und Durchführen von Vorbesprechungen,
 
-2.
+2. Erstellen von Entwürfen für Urkunden sowie Aufnehmen von Rückmeldungen der Rechtsuchenden,
 
-3.
+3. Erkennen und Beurteilen von Sachverhalten mit Auslandsbezug und Berücksichtigung sich daraus ergebender Anforderungen,
 
-4.
+4. Umsetzen berufsrechtlicher und beurkundungsrechtlicher Vorgaben,
 
-5.
+5. Vollziehen von komplexen Urkunden,
 
-6.
+6. Erstellen von Kostenberechnungen bei komplexen Sachverhalten,
 
-7.
+7. Organisieren und Optimieren von Büroabläufen, auch unter Nutzung digitaler Prozesse, sowie
 
-8.
+8. Steuern der Zusammenarbeit von und Führen von Mitarbeitenden.
 
-(4) Für den Erwerb der in Absatz 3 bezeichneten Fertigkeiten, Kenntnisse und Fähigkeiten bedarf es in der Regel eines Lernumfangs von insgesamt mindestens 1 200 Stunden. Der Lerninhalt bestimmt sich nach den Qualifikationsinhalten der in den §§ 4 bis 8 genannten Prüfungsbereiche.
+(4) Für den Erwerb der in Absatz 3 bezeichneten Fertigkeiten, Kenntnisse und Fähigkeiten bedarf es in der Regel eines Lernumfangs von insgesamt mindestens 1 200 Stunden. Der Lerninhalt bestimmt sich nach den Qualifikationsinhalten der in den §§ 4 bis 8 genannten Prüfungsbereiche.
 
 (5) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss mit der Bezeichnung „Bachelor Professional im Notariat“.
 
@@ -41,19 +41,19 @@ Das Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend verordn
 
 (1) Zur Prüfung ist zuzulassen, wer Folgendes nachweist:
 
-1.
+1. eine erfolgreich abgelegte Prüfung zum Geprüften Berufsspezialisten für das Notariat oder zur Geprüften Berufsspezialistin für das Notariat,
 
-2.
+2. eine erfolgreich abgelegte Abschlussprüfung zum Notarfachangestellten oder zur Notarfachangestellten oder zum Rechtsanwalts- und Notarfachangestellten oder zur Rechtsanwalts- und Notarfachangestellten,
 
-3.
+3. eine erfolgreich abgelegte Abschlussprüfung zum Rechtsanwaltsfachangestellten oder zur Rechtsanwaltsfachangestellten oder zum Patentanwaltsfachangestellten oder zur Patentanwaltsfachangestellten und eine auf die jeweilige Berufsausbildung folgende mindestens einjährige Berufspraxis,
 
-4.
+4. eine erfolgreich abgelegte Abschlussprüfung in einem anderen anerkannten Ausbildungsberuf mit einer Berufsausbildungsdauer von drei Jahren und eine auf die Berufsausbildung folgende mindestens zweijährige Berufspraxis,
 
-5.
+5. eine erfolgreich abgelegte Abschlussprüfung in einem anerkannten Ausbildungsberuf mit einer Berufsausbildungsdauer von zwei Jahren und eine auf die Berufsausbildung folgende mindestens dreijährige Berufspraxis,
 
-6.
+6. den Erwerb von mindestens 90 Leistungspunkten nach dem Europäischen System zur Übertragung und Akkumulierung von Studienleistungen in einem fachverwandten Studium sowie eine darauffolgende mindestens zweijährige Berufspraxis oder
 
-7.
+7. eine mindestens fünfjährige Berufspraxis.
 
 (2) Die Berufspraxis nach Absatz 1 Nummer 3 bis 7 muss wesentliche Bezüge zu den in § 1 Absatz 3 genannten Tätigkeiten aufweisen. Die Dauer und der Inhalt der Berufspraxis sind in geeigneter Weise nachzuweisen.
 
@@ -63,129 +63,129 @@ Das Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend verordn
 
 Die Prüfung umfasst folgende Prüfungsbereiche:
 
-1.
+1. Prüfungsbereich „Liegenschafts- und Grundbuchrecht“ nach § 4,
 
-2.
+2. Prüfungsbereich „Familien- und Erbrecht sowie Internationales Privatrecht“ nach § 5,
 
-3.
+3. Prüfungsbereich „Handels- und Gesellschaftsrecht“ nach § 6,
 
-4.
+4. Prüfungsbereich „Büroorganisation“ nach § 7,
 
-5.
+5. Prüfungsbereich „Führung und Zusammenarbeit“ nach § 8.
 
 ### § 4 — Prüfungsbereich „Liegenschafts- und Grundbuchrecht“
 
 Im Prüfungsbereich „Liegenschafts- und Grundbuchrecht“ hat die zu prüfende Person nachzuweisen, dass sie in der Lage ist, komplexe Vorgänge in diesem Bereich rechtlich zu erfassen und zu beurteilen sowie notarielle Urkunden im Einklang mit den Vorgaben des Berufsrechts und des Beurkundungsrechts zu entwerfen, zu vollziehen und abzurechnen. In diesem Rahmen wird aus folgenden Qualifikationsinhalten geprüft:
 
-1.
+1. Entwerfen, Vollziehen und Überwachen der Abwicklung von komplexen immobilienrechtlichen Veräußerungsverträgen, insbesondere von Bauträgerverträgen, unter Beachtung des Rechts der Allgemeinen Geschäftsbedingungen und der Makler- und Bauträgerverordnung,
 
-2.
+2. Entwerfen von Teilungserklärungen, Gemeinschaftsordnungen und Erbbaurechtsverträgen,
 
-3.
+3. Entwerfen und Vollziehen komplexer Urkunden über die Bestellung sonstiger dinglicher Rechte,
 
-4.
+4. Erkennen und Berücksichtigen von besonderen Fallgestaltungen, wie bei Urkunden mit Auslandsbezug oder bei der Beteiligung Minderjähriger oder Betreuter,
 
-5.
+5. Erkennen und Berücksichtigen von zwangsvollstreckungs- und insolvenzrechtlichen Bezügen bei der Gestaltung von Urkunden,
 
-6.
+6. Erfassen und Berücksichtigen der aktuellen rechtlichen Entwicklungen,
 
-7.
+7. Anwenden der Bestimmungen des notariellen Berufsrechts und des Beurkundungsrechts sowie
 
-8.
+8. Anwenden kostenrechtlicher Bestimmungen und Ermitteln von Geschäftswerten sowie Erstellen von Kostenberechnungen für komplexe Vorgänge einschließlich des Einzugs der Kosten unter Berücksichtigung der Fälligkeits- und Verjährungsvorschriften.
 
 ### § 5 — Prüfungsbereich „Familien- und Erbrecht sowie Internationales Privatrecht“
 
 Im Prüfungsbereich „Familien- und Erbrecht sowie Internationales Privatrecht“ hat die zu prüfende Person nachzuweisen, dass sie in der Lage ist, komplexe Vorgänge in diesem Bereich rechtlich zu erfassen und zu beurteilen sowie notarielle Urkunden im Einklang mit den Vorgaben des Berufsrechts und des Beurkundungsrechts zu entwerfen, zu vollziehen und abzurechnen. In diesem Rahmen wird aus folgenden Qualifikationsinhalten geprüft:
 
-1.
+1. Entwerfen von Regelungen zum Güterrecht, zum Versorgungsausgleich und zum nachehelichen Unterhalt in vorsorgenden Eheverträgen sowie im Trennungs- und Scheidungsfall, auch in Fällen mit Auslandsbezug,
 
-2.
+2. Entwerfen von Regelungen zur Partnerschaft nicht miteinander verheirateter Personen,
 
-3.
+3. Entwerfen von Verfügungen von Todes wegen unter Berücksichtigung von Besonderheiten wie gesellschaftsvertraglichen Bindungen, Auslandsbezug, Patchwork-Familienkonstellationen oder sonstigen sozialrechtlichen Sachverhalten,
 
-4.
+4. Erkennen und Berücksichtigen von rechtlichen Besonderheiten der Testamentsvollstreckung und der Vor- und Nacherbfolge bei der Vorbereitung und Abwicklung von Urkunden,
 
-5.
+5. Vorbereiten und Abwickeln von Erb- und Pflichtteilsverzichtsverträgen sowie von Zuwendungsverzichts- und Erbschaftskaufverträgen,
 
-6.
+6. Erfassen und Berücksichtigen der aktuellen rechtlichen Entwicklungen,
 
-7.
+7. Anwenden der Bestimmungen des notariellen Berufsrechts und des Beurkundungsrechts sowie
 
-8.
+8. Anwenden kostenrechtlicher Bestimmungen und Ermitteln von Geschäftswerten sowie Erstellen von Kostenberechnungen für komplexe Vorgänge einschließlich des Einzugs der Kosten unter Berücksichtigung der Fälligkeits- und Verjährungsvorschriften.
 
 ### § 6 — Prüfungsbereich „Handels- und Gesellschaftsrecht“
 
 Im Prüfungsbereich „Handels- und Gesellschaftsrecht“ hat die zu prüfende Person nachzuweisen, dass sie in der Lage ist, komplexe Vorgänge in diesem Bereich rechtlich zu erfassen und zu beurteilen sowie notarielle Urkunden im Einklang mit den Vorgaben des Berufsrechts und des Beurkundungsrechts zu entwerfen, zu vollziehen und abzurechnen. Dabei sind rechtliche Bestimmungen über Kaufleute, Personen- und Kapitalgesellschaften, Gesellschaften bürgerlichen Rechts, Genossenschaften, Vereine und Stiftungen zu beachten und anzuwenden. In diesem Rahmen wird aus folgenden Qualifikationsinhalten geprüft:
 
-1.
+1. Entwerfen und Abwickeln von Urkunden über den gesamten Lebenszyklus einer Gesellschaft mit beschränkter Haftung, insbesondere zur Gründung der Gesellschaft, zu Satzungsänderungen einschließlich Kapitalmaßnahmen, zu Veränderungen im Gesellschafterbestand und zur Beendigung der Gesellschaft,
 
-2.
+2. Entwerfen und Abwickeln von Urkunden über den gesamten Lebenszyklus einer Aktiengesellschaft, insbesondere zur Gründung der Gesellschaft, zu Hauptversammlungen, zu Veränderungen im Vorstand und im Aufsichtsrat sowie zur Beendigung der Gesellschaft,
 
-3.
+3. Entwerfen von Urkunden und Abwickeln von Vorgängen nach dem Umwandlungsgesetz,
 
-4.
+4. Erkennen und Berücksichtigen der speziellen gesetzlichen Anforderungen, die sich ergeben, wenn Minderjährige als Gesellschafter an einer Kapital- oder Personenhandelsgesellschaft beteiligt sind oder beteiligt werden sollen,
 
-5.
+5. Erfassen und Umsetzen der aktuellen rechtlichen Entwicklungen,
 
-6.
+6. Anwenden der Bestimmungen des notariellen Berufsrechts und des Beurkundungsrechts sowie
 
-7.
+7. Anwenden kostenrechtlicher Bestimmungen und Ermitteln von Geschäftswerten sowie Erstellen von Kostenberechnungen für komplexe Vorgänge einschließlich des Einzugs der Kosten unter Berücksichtigung der Fälligkeits- und Verjährungsvorschriften.
 
 ### § 7 — Prüfungsbereich „Büroorganisation“
 
 Im Prüfungsbereich „Büroorganisation“ hat die zu prüfende Person nachzuweisen, dass sie in der Lage ist, Geschäftsprozesse zu erfassen, zielorientiert zu planen und zu kontrollieren sowie Vorgänge entsprechend der berufsrechtlichen Vorgaben mit den rechtlich vorgeschriebenen technischen Systemen abzuwickeln. In diesem Rahmen wird aus folgenden Qualifikationsinhalten geprüft:
 
-1.
+1. Führen von Akten und Verzeichnissen,
 
-2.
+2. Abwickeln von Verwahrgeschäften,
 
-3.
+3. Abwickeln von Geschäftsvorgängen im elektronischen Rechtsverkehr,
 
-4.
+4. Vorbereiten von elektronischen Urkunden und von Dokumenten für den elektronischen Rechtsverkehr,
 
-5.
+5. Verwenden von juristischen Hilfsmitteln und Datenbanken,
 
-6.
+6. Erstellen von Vermerken, Bescheinigungen und Bestätigungen,
 
-7.
+7. Koordinieren und Überwachen der Einhaltung von Terminen,
 
-8.
+8. Überwachen gesetzlicher Anzeige-, Mitteilungs- und Dokumentationspflichten,
 
-9.
+9. zielgerichtetes Kommunizieren mit internen und externen Ansprechpartnern unter Einsatz von Methoden des Konfliktmanagements,
 
-10.
+10. Anwenden von Methoden des Zeit- und Selbstmanagements,
 
-11.
+11. Umsetzen der Vorgaben zur Geldwäscheprävention sowie
 
-12.
+12. Gestalten, Anwenden und Umsetzen von Vorgaben des Arbeits- und Gesundheitsschutzes, der Datensicherheit, der Datensicherung und des Datenschutzes.
 
 ### § 8 — Prüfungsbereich „Führung und Zusammenarbeit“
 
 Im Prüfungsbereich „Führung und Zusammenarbeit“ hat die zu prüfende Person nachzuweisen, dass sie in der Lage ist, unter Beachtung der rechtlichen und personellen Rahmenbedingungen Mitarbeitende oder ein Team zu führen und zu motivieren. In diesem Rahmen wird aus folgenden Qualifikationsinhalten geprüft:
 
-1.
+1. Festlegen und Begründen von Kriterien für die Personalauswahl sowie Mitwirkung bei der Personalrekrutierung,
 
-2.
+2. Planen und Steuern des Personaleinsatzes,
 
-3.
+3. situationsgerechtes Anwenden von Führungsmethoden,
 
-4.
+4. Planen und Organisieren der Berufsausbildung,
 
-5.
+5. Fördern der beruflichen Entwicklung und Weiterbildung von Mitarbeitenden,
 
-6.
+6. Anwenden von Methoden der Buchführung und Bilanzierung,
 
-7.
+7. analytisches Überprüfen bestehender Arbeitsabläufe sowie Erstellen und Umsetzen von Vorschlägen und Konzepten zur Optimierung sowie
 
-8.
+8. Anwenden von Präsentationstechniken.
 
 ### § 9 — Form und Ablauf der Prüfung
 
 (1) Die Prüfung gliedert sich in
 
-1.
+1. eine schriftliche Prüfung nach § 10 und
 
-2.
+2. eine mündliche Prüfung nach § 11.
 
 (2) Die Prüfung beginnt mit der ersten Prüfungsleistung im Rahmen der schriftlichen Prüfung nach Absatz 1 Nummer 1; die weiteren schriftlichen Prüfungsleistungen sind innerhalb von drei Monaten zu erbringen.
 
@@ -221,15 +221,15 @@ Im Prüfungsbereich „Führung und Zusammenarbeit“ hat die zu prüfende Perso
 
 (1) Die Prüfung ist bestanden, wenn mindestens 50 Punkte erreicht worden sind in
 
-1.
+1. jeder der drei Prüfungsleistungen der schriftlichen Prüfung nach § 10 und
 
-2.
+2. jeder der zwei Prüfungsleistungen der mündlichen Prüfung nach § 11.
 
 (2) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das gewichtete arithmetische Mittel zu berechnen. Dabei werden die Bewertungen wie folgt gewichtet:
 
-1.
+1. die Bewertung der schriftlichen Prüfung mit zwei Dritteln und
 
-2.
+2. die Bewertung der mündlichen Prüfung mit einem Drittel.
 
 (3) Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl ist nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
 
@@ -239,17 +239,17 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 ### § 15 — Zeugnisse
 
-(1) Wer die Prüfung nach § 13 Absatz 1 bestanden hat, erhält von der nach dem Berufsbildungsgesetz zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
+(1) Wer die Prüfung nach § 13 Absatz 1 bestanden hat, erhält von der nach dem Berufsbildungsgesetz zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
 (2) Auf dem Zeugnis mit den Inhalten nach Anlage 2 Teil B sind die Noten als Dezimalzahlen mit einer Nachkommastelle und in Worten anzugeben.
 
-(3) Jede Befreiung nach § 56 Absatz 2 des Berufsbildungsgesetzes ist mit Ort, Datum und der Bezeichnung des Prüfungsgremiums der nach § 56 Absatz 2 Nummer 1 des Berufsbildungsgesetzes vergleichbaren Prüfung anzugeben.
+(3) Jede Befreiung nach § 56 Absatz 2 des Berufsbildungsgesetzes ist mit Ort, Datum und der Bezeichnung des Prüfungsgremiums der nach § 56 Absatz 2 Nummer 1 des Berufsbildungsgesetzes vergleichbaren Prüfung anzugeben.
 
 (4) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur Information (Bemerkungen) enthalten, insbesondere
 
-1.
+1. über den erworbenen Abschluss oder
 
-2.
+2. auf Antrag der geprüften Person über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 ### § 16 — Wiederholung von Prüfungsleistungen
 
@@ -281,40 +281,36 @@ Diese Verordnung tritt am 1. April 2026 in Kraft.
 
 ### Anlage 2 — (zu § 15)
 
-Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
 
-1.
+2. Name und Geburtsdatum der geprüften Person,
 
-2.
+3. Datum des Bestehens der Prüfung,
 
-3.
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 5,
 
-4.
+5. Bezeichnung und Fundstelle dieser Fortbildungsprüfungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
 
-5.
-
-6.
-
-Teil B – Zeugnis mit Prüfungsergebnissen:
+6. Datum der Ausstellung des Zeugnisses samt Faksimile oder Unterschrift einer zeichnungsberechtigten Person der zuständigen Stelle.
 
 Alle Angaben des Teils A sowie zusätzlich
 
-1.
+1. Benennung der Prüfungsteile,
 
-2.
+2. Bewertung des Prüfungsteils „Liegenschafts- und Grundbuchrecht“,
 
-3.
+3. Bewertung des Prüfungsteils „Familien- und Erbrecht sowie Internationales Privatrecht“,
 
-4.
+4. Bewertung des Prüfungsteils „Handels- und Gesellschaftsrecht“,
 
-5.
+5. Bewertung des Prüfungsteils „Büroorganisation“,
 
-6.
+6. Bewertung des Prüfungsteils „Führung und Zusammenarbeit“,
 
-7.
+7. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
 
-8.
+8. die Gesamtnote als Dezimalzahl,
 
-9.
+9. die Gesamtnote in Worten und
 
-10.
+10. Befreiungen nach § 14.

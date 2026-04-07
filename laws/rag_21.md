@@ -14,13 +14,13 @@ der gesetzlichen Rentenversicherung
 
 ### § 1
 
-(1) In der gesetzlichen Rentenversicherung werden aus Anlaß der Veränderung der allgemeinen Bemessungsgrundlage bis zum Jahre 1981 die Versicherten- und Hinterbliebenenrenten aus Versicherungsfällen, die nach Maßgabe der §§ 2 bis 8 dieses Artikels angepaßt. Zu den Renten im Sinne des Satzes 1 Nr. 1 gehören auch die nach Artikel 2 § 38 Abs. 3 Satz 1 und 2 des Arbeiterrentenversicherungs-Neuregelungsgesetzes und Artikel 2 § 37 Abs. 3 Satz 1 und 2 des Angestelltenversicherungs-Neuregelungsgesetzes vom 1. Januar bis 31. Dezember 1978 erhöhten Renten.
+(1) In der gesetzlichen Rentenversicherung werden aus Anlaß der Veränderung der allgemeinen Bemessungsgrundlage bis zum Jahre 1981 die Versicherten- und Hinterbliebenenrenten aus Versicherungsfällen, die
 
-1.
+1. vor dem 1. Januar 1978 eingetreten sind, für Bezugszeiten vom 1. Januar 1979 an,
 
-2.
+2. vor dem 1. Januar 1980 eingetreten sind, für Bezugszeiten vom 1. Januar 1980 an und
 
-3.
+3. vor dem 1. Januar 1981 eingetreten sind, für Bezugszeiten vom 1. Januar 1981 an
 
 (2) Zu den Renten im Sinne des Absatzes 1 gehören die Knappschaftsausgleichsleistung nach § 98a des Reichsknappschaftsgesetzes und die Leistung nach den §§ 27 und 28 des Sozialversicherungs-Angleichungsgesetzes Saar in der im Bundesgesetzblatt Teil III, Gliederungsnummer 826-19, veröffentlichten bereinigten Fassung, zuletzt geändert durch § 10 Nr. 3 des Gesetzes vom 24. Juni 1975 (BGBl. I S. 1536).
 
@@ -46,9 +46,9 @@ der gesetzlichen Rentenversicherung
 
 (2) Renten nach Absatz 1, die mit einer Rente aus der gesetzlichen Unfallversicherung zusammentreffen und auf die die §§ 1278 und 1279 der Reichsversicherungsordnung, §§ 55 und 56 des Angestelltenversicherungsgesetzes oder §§ 75 und 76 des Reichsknappschaftsgesetzes anzuwenden sind, sind so anzupassen, daß sie mindestens den Betrag erreichen, der sich ergibt
 
-a)
+a) bei Renten aus Versicherungsfällen nach dem 31. Dezember 1956 und bei Renten mit Leistungen oder Leistungsanteilen aus der knappschaftlichen Rentenversicherung, wenn sie nach § 2 dieses Artikels,
 
-b)
+b) bei den übrigen Renten aus Versicherungsfällen vor dem 1. Januar 1957, wenn sie nach § 3 dieses Artikels angepaßt würden.
 
 ### § 5
 
@@ -81,8 +81,6 @@ Unfallversicherung
 ### § 9
 
 (1) In der gesetzlichen Unfallversicherung werden aus Anlaß der Veränderung der durchschnittlichen Bruttolohn- und -gehaltssumme zwischen den Kalenderjahren 1976 und 1977 die vom Jahresarbeitsverdienst abhängigen Geldleistungen für Unfälle, die im Jahre 1976 oder früher eingetreten sind, und das Pflegegeld für Bezugszeiten vom 1. Januar 1979 an nach Maßgabe der §§ 10 und 11 dieses Artikels angepaßt.
-
-(2) Absatz 1 gilt nicht, soweit die Geldleistungen in der landwirtschaftlichen Unfallversicherung nach einem durchschnittlichen Jahresarbeitsverdienst berechnet sind, soweit die Geldleistungen auf Grund des § 13 Abs. 2 des Zwanzigsten Rentenanpassungsgesetzes gewährt werden.
 
 (3) Als Geldleistung im Sinne des Absatzes 1 gilt auch eine Leistung nach § 27 des Sozialversicherungs-Angleichungsgesetzes Saar, die von einem Träger der gesetzlichen Unfallversicherung zu gewähren ist.
 
@@ -117,8 +115,6 @@ In der Altershilfe für Landwirte werden entsprechend der Veränderung der Rente
 
 (1) Ergibt eine spätere Überprüfung, daß die Anpassung fehlerhaft ist, ist sie zu berichtigen. Die Leistung ist in ihrer bisherigen Höhe bis zum Ablauf des Monats zu gewähren, in dem die Berichtigung erfolgt. Eine Rückforderung überzahlter Beträge findet nicht statt. Die Berichtigung ist nur innerhalb eines Jahres nach dem Zeitpunkt, von dem an die Anpassung der Leistung nach diesem Gesetz wirksam wird, zulässig.
 
-(2) Die §§ 627 und 1300 der Reichsversicherungsordnung, § 79 des Angestelltenversicherungsgesetzes und § 93 Abs. 1 des Reichsknappschaftsgesetzes bleiben unberührt.
-
 ### § 15
 
 -
@@ -141,8 +137,4 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgeset
 
 ### § 3 — Inkrafttreten
 
-Es treten in Kraft: ... die übrigen Vorschriften am Tag nach der Verkündung.
-
 ### Anlage — zu Artikel 1 § 3
-
-Fundstelle des Originaltextes: BGBl. I 1978, 1094

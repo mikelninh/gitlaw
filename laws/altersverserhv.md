@@ -18,15 +18,15 @@ Auf Grund des § 6 Abs. 2 des Gesetzes über die Statistik für Bundeszwecke vom
 
 (1) In die Erhebung werden, mit Ausnahme der Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts, die Unternehmen ausgewählter Bereiche mit 10 und mehr Beschäftigten folgender Wirtschaftsbereiche einbezogen:
 
-1.
+1. Produzierendes Gewerbe ohne Baugewerbe;
 
-2.
+2. Handel;
 
-3.
+3. Verkehr- und Nachrichtenübermittlung;
 
-4.
+4. Kreditinstitute und Versicherungsgewerbe;
 
-5.
+5. Dienstleistungen, soweit von Unternehmen und freien Berufen erbracht.
 
 (2) Die Erhebung wird repräsentativ durchgeführt.
 
@@ -34,13 +34,13 @@ Auf Grund des § 6 Abs. 2 des Gesetzes über die Statistik für Bundeszwecke vom
 
 Bei der Erhebung werden erfaßt
 
-1.
+1. die Formen der betrieblichen Altersversorgung,
 
-2.
+2. die Zahl der Unternehmen, die über eine betriebliche Altersversorgung verfügen und die Zahl der Arbeitnehmer, die eine betriebliche Versorgungsleistung zu erwarten haben,
 
-3.
+3. die durchschnittliche Höhe der monatlichen Versorgungsleistung, die im Zeitpunkt der Erhebung nach 35 Dienstjahren im Unternehmen erreicht wird,
 
-4.
+4. die Aufwendungen der Unternehmen für die betriebliche Altersversorgung im Jahre 1973.
 
 ### § 4
 

@@ -26,8 +26,4 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage — (zu § 1)
 
-Fundstelle des Originaltextes: BGBl. I 2004, 3539 - 3541-------------------------------------------------------------------------------
-
 ### Anlage — (zu § 1)
-
-Fundstelle des Originaltextes: BGBl. I 2004, 3542 - 3547-------------------------------------------------------------------------------

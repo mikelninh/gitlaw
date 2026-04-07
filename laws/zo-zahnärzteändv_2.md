@@ -15,7 +15,11 @@ Auf Grund des § 368c Abs. 1 der Reichsversicherungsordnung in der im Bundesgese
 
 ### Art 2
 
-(1) Für die Beteiligungen, die nach § 30 der Zulassungsordnung in der bis zum Inkrafttreten dieser Verordnung geltenden Fassung ausgesprochen worden sind, gilt diese Vorschrift fort. Die nach dieser Vorschrift bei Inkrafttreten dieser Verordnung bei dem Zulassungsausschuß gestellten Anträge auf Beteiligung gelten als Anträge auf Ermächtigung zur Teilnahme an der kassenzahnärztlichen Versorgung; die Anträge sind der zuständigen Kassenzahnärztlichen Vereinigung zuzuleiten.(2) Ermächtigungen zur Teilnahme an der kassenzahnärztlichen Versorgung, die bis zum Inkrafttreten dieser Verordnung auf Grund der Vorschriften des Bundesmantelvertrags zwischen der Kassenzahnärztlichen Bundesvereinigung und den Bundesverbänden der Krankenkassen erteilt worden sind, gelten als Ermächtigungen nach § 31 der Zulassungsordnung.(3) § 46 gilt für die dort genannten Verfahren, die bei Inkrafttreten dieser Verordnung noch nicht abgeschlossen sind, in der bis zu diesem Zeitpunkt geltenden Fassung fort.
+(1) Für die Beteiligungen, die nach § 30 der Zulassungsordnung in der bis zum Inkrafttreten dieser Verordnung geltenden Fassung ausgesprochen worden sind, gilt diese Vorschrift fort. Die nach dieser Vorschrift bei Inkrafttreten dieser Verordnung bei dem Zulassungsausschuß gestellten Anträge auf Beteiligung gelten als Anträge auf Ermächtigung zur Teilnahme an der kassenzahnärztlichen Versorgung; die Anträge sind der zuständigen Kassenzahnärztlichen Vereinigung zuzuleiten.
+
+(2) Ermächtigungen zur Teilnahme an der kassenzahnärztlichen Versorgung, die bis zum Inkrafttreten dieser Verordnung auf Grund der Vorschriften des Bundesmantelvertrags zwischen der Kassenzahnärztlichen Bundesvereinigung und den Bundesverbänden der Krankenkassen erteilt worden sind, gelten als Ermächtigungen nach § 31 der Zulassungsordnung.
+
+(3) § 46 gilt für die dort genannten Verfahren, die bei Inkrafttreten dieser Verordnung noch nicht abgeschlossen sind, in der bis zu diesem Zeitpunkt geltenden Fassung fort.
 
 ### Art 3
 
@@ -26,5 +30,3 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Arbeit und Sozialordnung

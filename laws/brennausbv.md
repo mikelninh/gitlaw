@@ -21,33 +21,33 @@ Die Ausbildung dauert drei Jahre.
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
-1.
+1. Arbeitsschutz und Unfallverhütung,
 
-2.
+2. Umweltschutz,
 
-3.
+3. Ausführen von Hygienemaßnahmen,
 
-4.
+4. Kenntnisse der produktbezogenen Rechtsvorschriften,
 
-5.
+5. Kenntnisse des Ausbildungsbetriebs,
 
-6.
+6. Bedienen und Warten der technischen Einrichtungen,
 
-7.
+7. Annehmen, Kontrollieren und Lagern der Rohstoffe,
 
-8.
+8. Aufbereiten und Aufschließen der Rohstoffe,
 
-9.
+9. Maischen und Hefeführen nach verschiedenen Verfahren,
 
-10.
+10. Herstellen und Verarbeiten von Verzuckerungsstoffen,
 
-11.
+11. Vergären der Maischen,
 
-12.
+12. Destillieren des Roh- und Feinbrands,
 
-13.
+13. Verschneiden, Lagern und Vermarkten des Feinbrands,
 
-14.
+14. Verwerten der Schlempe.
 
 ### § 4 — Ausbildungsrahmenplan
 
@@ -69,37 +69,37 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (3) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens drei Stunden vier Arbeitsproben durchführen. Hierfür kommen insbesondere in Betracht:
 
-1.
+1. Feststellen der Beschaffenheit von Rohstoffen,
 
-2.
+2. Wiegen, Messen und Buchen von Rohstoffen,
 
-3.
+3. Vorbereiten und Bedienen von Apparaten und Arbeitsgeräten,
 
-4.
+4. Maischen,
 
-5.
+5. Ausführen von Hygienemaßnahmen,
 
-6.
+6. Abgeben der Schlempe.
 
-(4) Zum Nachweis der Kenntnisse soll der Prüfling in insgesamt höchstens 180 Minuten Aufgaben aus folgenden Gebieten schriftlich lösen: Die schriftlichen Aufgaben sollen sich auch auf praxisbezogene Fälle beziehen.
+(4) Zum Nachweis der Kenntnisse soll der Prüfling in insgesamt höchstens 180 Minuten Aufgaben aus folgenden Gebieten schriftlich lösen:
 
-1.
+1. Beschaffenheit und Zusammensetzung der Rohstoffe,
 
-2.
+2. Lagerung der Rohstoffe,
 
-3.
+3. Herstellung von Malz,
 
-4.
+4. Bereitung der Maischen mit den hierzu erforderlichen Apparaten,
 
-5.
+5. Alkoholgewinnung aus stärke- und zuckerhaltigen Rohstoffen,
 
-6.
+6. produktbezogene Rechtsvorschriften,
 
-7.
+7. Flächen-, Volumen- und Gewichtsberechnung,
 
-8.
+8. Mischungsberechnung,
 
-9.
+9. Prozentrechnung.
 
 (5) Soweit die schriftliche Prüfung in programmierter Form durchgeführt wird, kann die in Absatz 4 genannte Prüfungsdauer unterschritten werden.
 
@@ -109,51 +109,25 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (2) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens sechs Stunden drei Arbeitsproben durchführen. Hierfür kommen insbesondere in Betracht:
 
-1.
+1. Beurteilen von Rohstoffen und Fertigerzeugnissen nach gebräuchlichen Verfahren,
 
-2.
+2. Vorbereiten von Dampf-Erzeugern,
 
-3.
+3. Aufschließen der Rohstoffe sowie Maischen und Hefeführen nach verschiedenen Verfahren,
 
-4.
+4. Herstellen und Verarbeiten von Verzuckerungsstoffen,
 
-5.
+5. Vergären der Maischen sowie Destillieren des Roh- und Feinbrands,
 
-6.
+6. Verschneiden des Feinbrands.
 
-(3) Zum Nachweis der Kenntnisse soll der Prüfling in den Prüfungsfächern Technologie, Technische Mathematik sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. Es kommen Fragen und Aufgaben insbesondere aus folgenden Gebieten in Betracht: Die Fragen und Aufgaben sollen sich auch auf praxisbezogene Fälle beziehen.
+(3) Zum Nachweis der Kenntnisse soll der Prüfling in den Prüfungsfächern Technologie, Technische Mathematik sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. Es kommen Fragen und Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
-1.
+1. im Prüfungsfach Technologie:a)Eigenschaften, Qualitätsmerkmale und Verwendung von Rohstoffen, b)Verarbeitung von Rohstoffen, c)Arbeitsweise der technischen Einrichtungen für die Herstellung von Roh- und Feinbrand, d)Verlauf der Gärung, e)Herstellung extraktfreier Spirituosen, f)Zusammensetzung und Verwertung der Schlempe, g)Energie- und Wasserversorgung in der Brennerei, h)produktbezogene Rechtsvorschriften, i)Umweltbelastungen und Möglichkeiten ihrer Beseitigung, k)betriebstypische Unfallquellen und Arbeitsschutzmaßnahmen; Eigenschaften, Qualitätsmerkmale und Verwendung von Rohstoffen, Verarbeitung von Rohstoffen, Arbeitsweise der technischen Einrichtungen für die Herstellung von Roh- und Feinbrand, Verlauf der Gärung, Herstellung extraktfreier Spirituosen, Zusammensetzung und Verwertung der Schlempe, Energie- und Wasserversorgung in der Brennerei, produktbezogene Rechtsvorschriften, Umweltbelastungen und Möglichkeiten ihrer Beseitigung, betriebstypische Unfallquellen und Arbeitsschutzmaßnahmen;
 
-a)
+2. im Prüfungsfach Technische Mathematik:a)Flächen-, Volumen- und Gewichtsberechnung, b)Ausbeute-, Schwund- und Verschnittberechnung; Flächen-, Volumen- und Gewichtsberechnung, Ausbeute-, Schwund- und Verschnittberechnung;
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-2.
-
-a)
-
-b)
-
-3.
-
-(4) Für die schriftliche Kenntnisprüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
+3. im Prüfungsfach Wirtschafts- und Sozialkunde: Wirtschafts- und Sozialkunde.
 
 (5) Soweit die schriftliche Prüfung in programmierter Form durchgeführt wird, kann die in Absatz 4 genannte Prüfungsdauer unterschritten werden.
 
@@ -181,34 +155,8 @@ Diese Verordnung tritt am 1. August 1982 in Kraft.
 
 ### Schlußformel
 
-Der Bundesminister für Wirtschaft Der Bundesminister für Ernährung, Landwirtschaft und Forsten
-
 ### Anlage — (zu § 4)
-
-(Fundstelle: BGBl. I 1981, 149 - 153)
 
 ### Anhang EV — Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
-
-1.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
+1. Berufsbildungsgesetz vom 14. August 1969 (BGBl. I S. 1112), zuletzt geändert durch § 19 des Gesetzes vom 23. Dezember 1981 (BGBl. I S. 1692), und auf Grund § 21 Abs. 1 und 2, §§ 25, 29 Abs. 1, § 43 Abs. 1 und 2, § 46 Abs. 2, § 47 Abs. 3, § 76 Abs. 2, § 77 Abs. 5, § 80 Abs. 2, § 81 Abs. 4, § 82 Abs. 2, §§ 93, 95 Abs. 4, § 96 Abs. 2 erlassene Rechtsverordnungen mit folgenden Maßgaben:a)Rechtsverordnungen nach § 21 Abs. 1 des Gesetzes bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Rechtsverordnungen nach § 29 Abs. 1 und § 43 des Gesetzes bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Wirtschaft oder den sonst zuständigen Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. b)Die zuständige Stelle kann bis zum 31. Dezember 1995 Ausnahmen von den Ausbildungsverordnungen nach § 25 des Gesetzes zulassen, wenn die durch technische Regeln gesetzten Anforderungen noch nicht erfüllt werden können. Die Ausnahmen sind zu befristen. Der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister kann im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Befugnis nach Satz 1 einschränken oder aufheben. c)Die Regelungen in Ausbildungsverordnungen nach § 25 des Gesetzes über die Ausbildung in überbetrieblichen Ausbildungsstätten (§ 27 des Gesetzes) werden nicht angewendet, wenn die zuständige Stelle feststellt, daß eine solche Ausbildung nicht möglich ist. d)Bei Inkrafttreten des Gesetzes über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik - IGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S. 907) bestehende Ausbildungsverhältnisse werden nach den neuen Vorschriften zu Ende geführt, es sei denn, daß eine Ausbildung nach den neuen Vorschriften nicht möglich ist oder der Lehrling eine Fortsetzung nach den bisherigen Vorschriften ausdrücklich wünscht. Sofern die Beendigung des Lehrverhältnisses nach den neuen Ausbildungsverordnungen im bisherigen Betrieb nicht möglich ist, sind das zuständige Arbeitsamt und die zuständige Stelle verpflichtet, den Lehrling zu unterstützen, einen neuen Ausbildungsbetrieb zu finden, der die Ausbildung nach den neuen Ausbildungsverordnungen fortsetzt. e)Die Ausbildungszeit soll nach § 29 Abs. 3 des Gesetzes verlängert werden, soweit eine Berufsausbildung mit Abitur durchgeführt wird. f)Die Anwendung der §§ 76, 77, 80 bis 82, 86, 88, 90, 92 bis 96 des Gesetzes und der auf Grund dieser Bestimmungen erlassenen Verordnungen bestimmt der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. g)Die Betriebe sind verpflichtet, die praktische Berufsausbildung zweckentsprechend aufrecht zu erhalten, soweit dies zur Erfüllung von Lehrverträgen erforderlich ist, die vor Inkrafttreten des Gesetzes über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik - JGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S. 907) abgeschlossen worden sind. Für Betriebsakademien und andere der beruflichen Bildung dienende Einrichtungen ist dies mindestens bis zum 31. Dezember 1990 zu gewährleisten. Auf Antrag der Handwerkskammern und der Industrie- und Handelskammern ist durch die Betriebe zu prüfen, inwieweit vorhandene Kapazitäten der praktischen Berufsausbildung (insbesondere Lehrwerkstätten) als überbetriebliche Ausbildungsstätten genutzt werden oder als Treuhandvermögen an die vorgenannten Kammern zur Nutzung übertragen werden können. h)Solange die in §§ 79, 87, 89 und 91 des Gesetzes genannten zuständigen Stellen nicht bestehen, bestimmt das Land die zuständige Stelle. i)Lehrlinge, die gemäß der Systematik der Facharbeiterberufe ausgebildet werden, werden nach den bisherigen Rechtsvorschriften geprüft, soweit nicht der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Übergangsvorschriften für Verfahren und Zuständigkeiten erläßt. k)Die am Tage des Wirksamwerdens des Beitritts laufenden Prüfungsverfahren in der beruflichen Fortbildung und beruflichen Umschulung werden nach den bisherigen Vorschriften zu Ende geführt. Rechtsverordnungen nach § 21 Abs. 1 des Gesetzes bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Rechtsverordnungen nach § 29 Abs. 1 und § 43 des Gesetzes bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Wirtschaft oder den sonst zuständigen Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Die zuständige Stelle kann bis zum 31. Dezember 1995 Ausnahmen von den Ausbildungsverordnungen nach § 25 des Gesetzes zulassen, wenn die durch technische Regeln gesetzten Anforderungen noch nicht erfüllt werden können. Die Ausnahmen sind zu befristen. Der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister kann im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Befugnis nach Satz 1 einschränken oder aufheben. Die Regelungen in Ausbildungsverordnungen nach § 25 des Gesetzes über die Ausbildung in überbetrieblichen Ausbildungsstätten (§ 27 des Gesetzes) werden nicht angewendet, wenn die zuständige Stelle feststellt, daß eine solche Ausbildung nicht möglich ist. Bei Inkrafttreten des Gesetzes über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik - IGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S. 907) bestehende Ausbildungsverhältnisse werden nach den neuen Vorschriften zu Ende geführt, es sei denn, daß eine Ausbildung nach den neuen Vorschriften nicht möglich ist oder der Lehrling eine Fortsetzung nach den bisherigen Vorschriften ausdrücklich wünscht. Sofern die Beendigung des Lehrverhältnisses nach den neuen Ausbildungsverordnungen im bisherigen Betrieb nicht möglich ist, sind das zuständige Arbeitsamt und die zuständige Stelle verpflichtet, den Lehrling zu unterstützen, einen neuen Ausbildungsbetrieb zu finden, der die Ausbildung nach den neuen Ausbildungsverordnungen fortsetzt. Die Ausbildungszeit soll nach § 29 Abs. 3 des Gesetzes verlängert werden, soweit eine Berufsausbildung mit Abitur durchgeführt wird. Die Anwendung der §§ 76, 77, 80 bis 82, 86, 88, 90, 92 bis 96 des Gesetzes und der auf Grund dieser Bestimmungen erlassenen Verordnungen bestimmt der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Die Betriebe sind verpflichtet, die praktische Berufsausbildung zweckentsprechend aufrecht zu erhalten, soweit dies zur Erfüllung von Lehrverträgen erforderlich ist, die vor Inkrafttreten des Gesetzes über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik - JGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S. 907) abgeschlossen worden sind. Für Betriebsakademien und andere der beruflichen Bildung dienende Einrichtungen ist dies mindestens bis zum 31. Dezember 1990 zu gewährleisten. Auf Antrag der Handwerkskammern und der Industrie- und Handelskammern ist durch die Betriebe zu prüfen, inwieweit vorhandene Kapazitäten der praktischen Berufsausbildung (insbesondere Lehrwerkstätten) als überbetriebliche Ausbildungsstätten genutzt werden oder als Treuhandvermögen an die vorgenannten Kammern zur Nutzung übertragen werden können. Solange die in §§ 79, 87, 89 und 91 des Gesetzes genannten zuständigen Stellen nicht bestehen, bestimmt das Land die zuständige Stelle. Lehrlinge, die gemäß der Systematik der Facharbeiterberufe ausgebildet werden, werden nach den bisherigen Rechtsvorschriften geprüft, soweit nicht der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Übergangsvorschriften für Verfahren und Zuständigkeiten erläßt. Die am Tage des Wirksamwerdens des Beitritts laufenden Prüfungsverfahren in der beruflichen Fortbildung und beruflichen Umschulung werden nach den bisherigen Vorschriften zu Ende geführt.

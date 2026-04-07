@@ -15,15 +15,15 @@ Diese Verordnung regelt die Beschaffenheit bestimmter Einwegkunststoffgetränkeb
 
 ### § 2 — Begriffsbestimmungen
 
-Für diese Verordnung gelten die Begriffsbestimmungen nach Artikel 1 der Durchführungsverordnung (EU) 2020/2151 der Kommission vom 17. Dezember 2020 zur Festlegung harmonisierter Kennzeichnungsvorschriften für in Teil D des Anhangs der Richtlinie (EU) 2019/904 des Europäischen Parlaments und des Rates über die Verringerung der Auswirkungen bestimmter Kunststoffprodukte auf die Umwelt aufgeführte Einwegkunststoffartikel (ABl. L 428 vom 18.12.2020, S. 57) sowie ergänzend die folgenden Begriffsbestimmungen:
+Für diese Verordnung gelten die Begriffsbestimmungen nach Artikel 1 der Durchführungsverordnung (EU) 2020/2151 der Kommission vom 17. Dezember 2020 zur Festlegung harmonisierter Kennzeichnungsvorschriften für in Teil D des Anhangs der Richtlinie (EU) 2019/904 des Europäischen Parlaments und des Rates über die Verringerung der Auswirkungen bestimmter Kunststoffprodukte auf die Umwelt aufgeführte Einwegkunststoffartikel (ABl. L 428 vom 18.12.2020, S. 57) sowie ergänzend die folgenden Begriffsbestimmungen:
 
-1.
+1. Einwegkunststoffprodukt: ein ganz oder teilweise aus Kunststoff bestehendes Produkt, das nicht konzipiert, entwickelt und in Verkehr gebracht wird, um während seiner Lebensdauer mehrere Produktkreisläufe zu durchlaufen, indem es zur Wiederbefüllung an einen Hersteller oder Vertreiber zurückgegeben wird oder zu demselben Zweck wiederverwendet wird, zu dem es hergestellt worden ist;
 
-2.
+2. Kunststoff: ein Werkstoff bestehend aus einem Polymer nach Artikel 3 Nummer 5 der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Chemikalienagentur, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission (ABl. L 396 vom 30.12.2006, S. 1), die zuletzt durch die Verordnung (EU) 2020/507 (ABl. L 110 vom 8.4.2020, S. 1) geändert worden ist, in der jeweils geltenden Fassung, dem möglicherweise Zusatzstoffe oder andere Stoffe zugesetzt wurden und der als Hauptstrukturbestandteil von Endprodukten fungieren kann; ausgenommen sind Werkstoffe aus natürlichen Polymeren, die nicht chemisch modifiziert wurden;
 
-3.
+3. Inverkehrbringen: die erstmalige Bereitstellung eines Produkts auf dem Markt im Geltungsbereich dieser Verordnung;
 
-4.
+4. Bereitstellung auf dem Markt: jede entgeltliche oder unentgeltliche Abgabe eines Produkts zum Vertrieb, zum Verbrauch oder zur Verwendung auf dem Markt im Rahmen einer Geschäftstätigkeit.
 
 ### § 3 — Anforderung an die Beschaffenheit von bestimmten Einwegkunststoffgetränkebehältern
 
@@ -31,23 +31,23 @@ Für diese Verordnung gelten die Begriffsbestimmungen nach Artikel 1 der Durchf�
 
 (2) Absatz 1 findet keine Anwendung
 
-1.
+1. auf Getränkebehälter aus Glas oder Metall mit Verschlüssen oder Deckeln aus Kunststoff,
 
-2.
+2. auf Getränkebehälter, deren Verschlüsse oder Deckel zwar Kunststoffdichtungen enthalten, im Übrigen aber aus Metall bestehen und
 
-3.
+3. auf Getränkebehälter, die für flüssige Lebensmittel für besondere medizinische Zwecke gemäß Artikel 2 Absatz 2 Buchstabe g der Verordnung (EU) Nr. 609/2013 des Europäischen Parlaments und des Rates vom 12. Juni 2013 über Lebensmittel für Säuglinge und Kleinkinder, Lebensmittel für besondere medizinische Zwecke und Tagesrationen für gewichtskontrollierende Ernährung und zur Aufhebung der Richtlinie 92/52/EWG des Rates, der Richtlinien 96/8/EG, 1999/21/EG, 2006/125/EG und 2006/141/EG der Kommission, der Richtlinie 2009/39/EG des Europäischen Parlaments und des Rates sowie der Verordnungen (EG) Nr. 41/2009 und (EG) Nr. 953/2009 des Rates und der Kommission (ABl. L 181 vom 29.6.2013, S. 35), die zuletzt durch die Verordnung (EU) 2017/1091 (ABl. L 158 vom 21.6.2017, S. 5) geändert worden ist, bestimmt sind und dafür verwendet werden.
 
 ### § 4 — Kennzeichnungspflicht
 
 (1) Folgende Einwegkunststoffprodukte dürfen nur in Verkehr gebracht werden, wenn ihre Verkaufs- und Umverpackung wie folgt gekennzeichnet werden:
 
-1.
+1. Hygieneeinlagen, insbesondere Binden, gemäß den Vorgaben nach Anhang I Nummer 1 Satz 1 und Nummer 3 der Durchführungsverordnung (EU) 2020/2151,
 
-2.
+2. Tampons und Tamponapplikatoren gemäß den Vorgaben nach Anhang I Nummer 2 Satz 1 und Nummer 3 der Durchführungsverordnung (EU) 2020/2151,
 
-3.
+3. Feuchttücher, das heißt getränkte Tücher für Körper- und Haushaltspflege, gemäß den Vorgaben nach Anhang II Nummer 1 Satz 1 und Nummer 2 der Durchführungsverordnung (EU) 2020/2151 sowie
 
-4.
+4. Filter, die zur Verwendung in Kombination mit Tabakprodukten vorgesehen sind, gemäß den Vorgaben nach Anhang III Nummer 1 Satz 1 und Nummer 2 der Durchführungsverordnung (EU) 2020/2151.
 
 (2) Tabakprodukte mit Filtern dürfen nur in Verkehr gebracht werden, wenn ihre Außenverpackung und die Packung jeweils gemäß den Vorgaben nach Anhang III Nummer 1 Satz 1 und Nummer 2 der Durchführungsverordnung (EU) 2020/2151 gekennzeichnet sind.
 

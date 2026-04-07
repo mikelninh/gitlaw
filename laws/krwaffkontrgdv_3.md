@@ -13,12 +13,12 @@ Auf Grund des § 23 des Gesetzes über die Kontrolle von Kriegswaffen vom 20. Ap
 
 ### § 1
 
-(1) Die Zuständigkeit des Bundesministeriums für Wirtschaft und Energie zur Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Gesetz über die Kontrolle von Kriegswaffen wird dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) übertragen.(2) Die Zuständigkeit des Bundesministeriums der Finanzen zur Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Gesetz über die Kontrolle von Kriegswaffen wird den örtlich zuständigen Hauptzollämtern übertragen.
+(1) Die Zuständigkeit des Bundesministeriums für Wirtschaft und Energie zur Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Gesetz über die Kontrolle von Kriegswaffen wird dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) übertragen.
+
+(2) Die Zuständigkeit des Bundesministeriums der Finanzen zur Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Gesetz über die Kontrolle von Kriegswaffen wird den örtlich zuständigen Hauptzollämtern übertragen.
 
 ### § 2
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Wirtschaft Der Bundesminister der Finanzen

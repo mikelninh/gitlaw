@@ -26,5 +26,3 @@ Für besondere Fälle bleibt die Entscheidung im Einzelfall oder eine abweichend
 Diese Anordnung tritt mit Wirkung vom 8. Dezember 2021 in Kraft.
 
 ### Schlussformel
-
-Die Bundesministerin für Wohnen, Stadtentwicklung und Bauwesen

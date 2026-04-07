@@ -35,15 +35,15 @@ Dem in Genf am 13. Dezember 1957 von der Bundesrepublik Deutschland unterzeichne
 
 (1) Zuständig für die Ausführung des Übereinkommens sind
 
-1.
+1. der Bundesminister für Verkehr für Ausnahmen von den Vorschriften der Anlagen A und B;
 
-2.
+2. die Physikalisch-Technische Bundesanstalt für die Genehmigung der Beförderung von radioaktiven Stoffen und für die Zulassung der Muster von Versandstücken für radioaktive Stoffe;
 
-3.
+3. die Bundesanstalt für Materialprüfung für die Zulassung der Bauart von Verpackungen und für die Genehmigung der Beförderung ohne Schutzbehälter;
 
-4.
+4. die Behörden, die den Fahrzeugen das amtliche Kennzeichen zugeteilt haben, für Bescheinigungen nach Anhang B.3 der Anlage B;
 
-5.
+5. die amtlich anerkannten Sachverständigen und Prüfer für den Kraftfahrzeugverkehr für Untersuchungen von Fahrzeugen, mit Ausnahme der mit diesen fest verbundenen Tanks, zur Vorbereitung von Entscheidungen über Bescheinigungen nach Anhang B.3 der Anlage B; die amtlich anerkannten Sachverständigen nach § 24c der Gewerbeordnung für Untersuchungen der mit den Fahrzeugen fest verbundenen Tanks, auch wenn die Tanks nicht unter § 24 der Gewerbeordnung fallen.
 
 (2) Im übrigen bestimmen sich die sachliche und die örtliche Zuständigkeit nach Landesrecht.
 

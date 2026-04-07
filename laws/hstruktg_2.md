@@ -9,17 +9,9 @@
 ## Art 1: Bundesbesoldungsgesetz
 
 
-1. 3. 4.
+1.
 
-2.
-
-b)
-
-aa)
-
-bb)
-
-5.
+2. a)b)Für den Wegfall des örtlichen Sonderzuschlages für Berlin wird folgende Übergangsregelung getroffen:aa)Der örtliche Sonderzuschlag für Berlin (§ 74 des Bundesbesoldungsgesetzes, § 50 Abs. 2 des Beamtenversorgungsgesetzes, § 47 Abs. 3 und § 89a des Soldatenversorgungsgesetzes in der am 31. Dezember 1981 geltenden Fassung) wird nach Maßgabe des Doppelbuchstaben bb übergangsweise weitergezahlt; allgemeine Erhöhungen der Grundgehälter nach dem 31. Dezember 1981 führen nicht zu einer Erhöhung des örtlichen Sonderzuschlages. bb)Der örtliche Sonderzuschlag vermindert sich bei jeder nach dem 31. Dezember 1981 in Kraft tretenden allgemeinen Besoldungsverbesserung um ein Drittel des Betrages nach dem Stande vom 31. Dezember 1981. Die Verminderung tritt von dem Zeitpunkt an ein, zu dem die allgemeine Besoldungsverbesserung in Kraft tritt. Für den Wegfall des örtlichen Sonderzuschlages für Berlin wird folgende Übergangsregelung getroffen:aa)Der örtliche Sonderzuschlag für Berlin (§ 74 des Bundesbesoldungsgesetzes, § 50 Abs. 2 des Beamtenversorgungsgesetzes, § 47 Abs. 3 und § 89a des Soldatenversorgungsgesetzes in der am 31. Dezember 1981 geltenden Fassung) wird nach Maßgabe des Doppelbuchstaben bb übergangsweise weitergezahlt; allgemeine Erhöhungen der Grundgehälter nach dem 31. Dezember 1981 führen nicht zu einer Erhöhung des örtlichen Sonderzuschlages. bb)Der örtliche Sonderzuschlag vermindert sich bei jeder nach dem 31. Dezember 1981 in Kraft tretenden allgemeinen Besoldungsverbesserung um ein Drittel des Betrages nach dem Stande vom 31. Dezember 1981. Die Verminderung tritt von dem Zeitpunkt an ein, zu dem die allgemeine Besoldungsverbesserung in Kraft tritt. Der örtliche Sonderzuschlag für Berlin (§ 74 des Bundesbesoldungsgesetzes, § 50 Abs. 2 des Beamtenversorgungsgesetzes, § 47 Abs. 3 und § 89a des Soldatenversorgungsgesetzes in der am 31. Dezember 1981 geltenden Fassung) wird nach Maßgabe des Doppelbuchstaben bb übergangsweise weitergezahlt; allgemeine Erhöhungen der Grundgehälter nach dem 31. Dezember 1981 führen nicht zu einer Erhöhung des örtlichen Sonderzuschlages. Der örtliche Sonderzuschlag vermindert sich bei jeder nach dem 31. Dezember 1981 in Kraft tretenden allgemeinen Besoldungsverbesserung um ein Drittel des Betrages nach dem Stande vom 31. Dezember 1981. Die Verminderung tritt von dem Zeitpunkt an ein, zu dem die allgemeine Besoldungsverbesserung in Kraft tritt.
 
 (1) Die Fußnote zu Anlage IX zum Bundesbesoldungsgesetz findet auch auf die am 1. März 1982 vorhandenen Versorgungsempfänger Anwendung.
 
@@ -35,16 +27,13 @@ bb)
 
 ### § 2 — Übergangsvorschrift
 
-(1) Beruht die Versorgung auf einem Beamtenverhältnis, das vor dem 1. Januar 1966 begründet worden ist und ergibt sich durch die Änderungen in § 1 Nr. 1 bis 5, 7, 11 bis 13 eine niedrigere Versorgung als nach dem bis zum Inkrafttreten dieser Vorschrift geltenden Recht, wird ein Ausgleich gewährt. Der Ausgleich wird für die am Tage vor dem Inkrafttreten dieses Gesetzes vorhandenen Versorgungsempfänger mit Renten in Höhe des Unterschieds gewährt, der sich zu diesem Zeitpunkt ergibt. Bei Beginn der Zahlung der Versorgungsbezüge oder der Rente in der Zeit vom 1. Januar 1982 bis zum 31. Dezember 1992 wird der Ausgleich aus dem Unterschied berechnet, der sich bei Eintritt der Voraussetzungen des § 55 des Beamtenversorgungsgesetzes ergibt; der Ausgleich beträgt bei Eintritt dieser Voraussetzungen im Jahre 
-	 des Unterschieds. Der Ausgleich verringert sich um jeweils die Hälfte des Betrages, um den sich die Versorgungsbezüge auf Grund einer allgemeinen Erhöhung der Versorgungsbezüge erhöhen; er verringert sich ferner um jede sonstige Erhöhung der Versorgungsbezüge. Der Ausgleich darf den nach § 55 des Beamtenversorgungsgesetzes sich jeweils ergebenden Ruhensbetrag nicht übersteigen. Vermindert sich eine für die Berechnung des Ausgleichs berücksichtigte Rente durch Umwandlung oder aus anderen Gründen, ist vom gleichen Zeitpunkt an der Ausgleich um den Betrag zu verringern, um den sich der Ruhensbetrag nach § 55 des Beamtenversorgungsgesetzes vermindert.
-
 (2) Die versorgungsberechtigten Hinterbliebenen eines nach Absatz 1 Ausgleichsberechtigten erhalten den Ausgleich in Höhe der Anteilssätze des Witwen- oder Waisengeldes. Absatz 1 Satz 4 bis 6 gilt entsprechend.
 
-(3) Beruht die Versorgung auf einem Beamtenverhältnis, das vor dem 1. Januar 1966 begründet worden ist, ist § 55 des Beamtenversorgungsgesetzes mit folgenden Maßgaben anzuwenden: solange ein Ausgleich nach Absatz 1 oder 2 zusteht, ist der Unterschied zwischen dem Betrag der Versorgungsbezüge, der sich nach Halbsatz 1 ergibt, und dem Betrag der Versorgungsbezüge, der sich ohne Anwendung des Halbsatzes 1 ergäbe, nur insoweit zu zahlen, als er den Ausgleich übersteigt. Satz 1 gilt nicht für die Anwendung des Absatzes 1 Satz 1 bis 3.
+(3) Beruht die Versorgung auf einem Beamtenverhältnis, das vor dem 1. Januar 1966 begründet worden ist, ist § 55 des Beamtenversorgungsgesetzes mit folgenden Maßgaben anzuwenden:
 
-a)
+a) der zu berücksichtigende Rentenbetrag wird um 40 vom Hundert gemindert,
 
-b)
+b) neben den Renten ist mindestens ein Betrag in Höhe von 40 vom Hundert der Versorgungsbezüge zu belassen;
 
 (4) Im Sinne der Absätze 1 und 3 beruht die Versorgung auch dann auf einem vor dem 1. Januar 1966 begründeten Beamtenverhältnis, wenn dem Beamtenverhältnis, aus dem der Beamte in den Ruhestand getreten ist, bereits vor dem 1. Januar 1966 begründete öffentlich-rechtliche Dienstverhältnisse in unmittelbarem zeitlichen Zusammenhang vorausgegangen sind. Einem öffentlich-rechtlichen Dienstverhältnis steht ein Beschäftigungsverhältnis im Sinne des § 5 Abs. 1 Nr. 2 und des § 6 Abs. 1 Nr. 2 des Sechsten Buches Sozialgesetzbuch gleich.
 
@@ -66,16 +55,13 @@ Ab 1. Januar 1982 werden die Versorgungsbezüge unter dem Vorbehalt gezahlt, da�
 
 (1) Für Soldaten auf Zeit, die vor dem 1. Januar 1982 eine Verpflichtungs- oder Weiterverpflichtungserklärung für eine Dienstzeit von zwölf oder mehr Jahren abgegeben haben und deren Dienstzeit auf Grund dieser Erklärung festgesetzt wurde, gilt, wenn diese Dienstzeitfestsetzung im Zeitpunkt der Beendigung des Dienstverhältnisses noch maßgebend ist, § 12 Abs. 3 Satz 1 des Soldatenversorgungsgesetzes in der bis zum 31. Dezember 1981 geltenden Fassung. Artikel 10 § 3 Abs. 2 Satz 1 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) bleibt unberührt.
 
-(2) Beruht die Versorgung auf einem Soldatenverhältnis, das vor dem 1. Januar 1966 begründet worden ist und ergibt sich durch die Änderungen in § 1 Nr. 3 bis 5, 7 und 12 sowie in § 2 eine niedrigere Versorgung als nach dem bis zum Inkrafttreten dieser Vorschrift geltenden Recht, wird ein Ausgleich gewährt. Der Ausgleich wird für die am Tage vor dem Inkrafttreten dieses Gesetzes vorhandenen Versorgungsempfänger mit Renten in Höhe des Unterschieds gewährt, der sich zu diesem Zeitpunkt ergibt. Bei Beginn der Zahlung der Versorgungsbezüge oder der Rente in der Zeit vom 1. Januar 1982 bis zum 31. Dezember 1992 wird der Ausgleich aus dem Unterschied berechnet, der sich bei Eintritt der Voraussetzungen des § 55a des Soldatenversorgungsgesetzes ergibt; der Ausgleich beträgt bei Eintritt dieser Voraussetzungen im Jahre 
-	 des Unterschieds. Der Ausgleich verringert sich um jeweils die Hälfte des Betrages, um den sich die Versorgungsbezüge auf Grund einer allgemeinen Erhöhung der Versorgungsbezüge erhöhen; er verringert sich ferner um jede sonstige Erhöhung der Versorgungsbezüge. Der Ausgleich darf den nach § 55a des Soldatenversorgungsgesetzes sich jeweils ergebenden Ruhensbetrag nicht übersteigen. Vermindert sich eine für die Berechnung des Ausgleichs berücksichtigte Rente durch Umwandlung oder aus anderen Gründen, ist vom gleichen Zeitpunkt an der Ausgleich um den Betrag zu verringern, um den sich der Ruhensbetrag nach § 55a des Soldatenversorgungsgesetzes vermindert.
-
 (3) Die versorgungsberechtigten Hinterbliebenen eines nach Absatz 2 Ausgleichsberechtigten erhalten den Ausgleich in Höhe der Anteilssätze des Witwen- oder Waisengeldes. Absatz 2 Satz 4 bis 6 gilt entsprechend.
 
-(4) Beruht die Versorgung auf einem Soldatenverhältnis, das vor dem 1. Januar 1966 begründet worden ist, ist § 55a des Soldatenversorgungsgesetzes mit folgenden Maßgaben anzuwenden: solange ein Ausgleich nach Absatz 2 oder 3 zusteht, ist der Unterschied zwischen dem Betrag der Versorgungsbezüge, der sich nach Halbsatz 1 ergibt, und dem Betrag der Versorgungsbezüge, der sich ohne Anwendung des Halbsatzes 1 ergäbe, nur insoweit zu zahlen, als er den Ausgleich übersteigt. Satz 1 gilt nicht für die Anwendung des Absatzes 2 Satz 1 bis 3.
+(4) Beruht die Versorgung auf einem Soldatenverhältnis, das vor dem 1. Januar 1966 begründet worden ist, ist § 55a des Soldatenversorgungsgesetzes mit folgenden Maßgaben anzuwenden:
 
-a)
+a) der zu berücksichtigende Rentenbetrag wird um 40 vom Hundert gemindert,
 
-b)
+b) neben den Renten ist mindestens ein Betrag in Höhe von 40 vom Hundert der Versorgungsbezüge zu belassen;
 
 (5) Im Sinne der Absätze 2 und 4 beruht die Versorgung auch dann auf einem vor dem 1. Januar 1966 begründeten Soldatenverhältnis, wenn dem Soldatenverhältnis, aus dem der Soldat in den Ruhestand getreten ist, bereits vor dem 1. Januar 1966 begründete andere öffentlich-rechtliche Dienstverhältnisse in unmittelbarem zeitlichen Zusammenhang vorausgegangen sind. Einem öffentlich-rechtlichen Dienstverhältnis steht ein Beschäftigungsverhältnis im Sinne des § 5 Abs. 1 Nr. 2 und § 6 Abs. 1 Nr. 2 des Sechsten Buches Sozialgesetzbuch gleich.
 

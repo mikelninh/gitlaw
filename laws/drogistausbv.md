@@ -22,101 +22,27 @@ Die Ausbildung dauert drei Jahre.
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
-1.
+1. der Ausbildungsbetrieb:a)Stellung der Drogerie in der Gesamtwirtschaft, b)Stellung des Ausbildungsbetriebs am Markt, c)Organisation des Ausbildungsbetriebs, d)Berufsbildung, e)Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung, f)Warenwirtschaft, Informations- und Kommunikationstechniken; Stellung der Drogerie in der Gesamtwirtschaft, Stellung des Ausbildungsbetriebs am Markt, Organisation des Ausbildungsbetriebs, Berufsbildung, Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung, Warenwirtschaft, Informations- und Kommunikationstechniken;
 
-a)
+2. Beschaffung:a)Einkaufsplanung, b)Einkaufsabwicklung; Einkaufsplanung, Einkaufsabwicklung;
 
-b)
+3. Lagerung:a)Warenannahme, b)Warenlagerung, c)Bestandsüberwachung; Warenannahme, Warenlagerung, Bestandsüberwachung;
 
-c)
+4. Absatz:a)Verkaufsvorbereitung, b)Beratung und Verkauf, c)Berücksichtigung von Verbraucherwünschen und -bedürfnissen, d)Verkaufsabrechnung, e)Werbung und Verkaufsförderung, f)Sortimentsstruktur; Verkaufsvorbereitung, Beratung und Verkauf, Berücksichtigung von Verbraucherwünschen und -bedürfnissen, Verkaufsabrechnung, Werbung und Verkaufsförderung, Sortimentsstruktur;
 
-d)
+5. Personalwesen;
 
-e)
+6. Rechnungswesen;
 
-f)
+7. Gesundheit und Ernährung:a)Mittel zur Wiederherstellung und Erhaltung der Gesundheit, b)Arzneipflanzen, tierische Drogen und chemische Substanzen, c)Waren zur diätetischen Ernährung; Mittel zur Wiederherstellung und Erhaltung der Gesundheit, Arzneipflanzen, tierische Drogen und chemische Substanzen, Waren zur diätetischen Ernährung;
 
-2.
+8. Kosmetik, Körperpflege, Parfümerie und Hygiene:a)präparative und dekorative Kosmetik, b)Mittel zur Sonnenkosmetik, c)Herrenkosmetik und Pflegeprodukte, d)Mittel zur Körperpflege, e)Parfümerieartikel, f)Artikel zur Hygiene; präparative und dekorative Kosmetik, Mittel zur Sonnenkosmetik, Herrenkosmetik und Pflegeprodukte, Mittel zur Körperpflege, Parfümerieartikel, Artikel zur Hygiene;
 
-a)
+9. Fachrecht:a)Handel mit freiverkäuflichen Arzneimitteln, b)Handel mit Gefahrstoffen und Pflanzenschutzmitteln, c)Handel mit Lebensmitteln und Bedarfsgegenständen, d)sonstige wichtige Rechtsvorschriften; Handel mit freiverkäuflichen Arzneimitteln, Handel mit Gefahrstoffen und Pflanzenschutzmitteln, Handel mit Lebensmitteln und Bedarfsgegenständen, sonstige wichtige Rechtsvorschriften;
 
-b)
+10. Foto:a)Filme, Bilder, b)allgemeines Fotozubehör, c)Kameras und Wiedergabegeräte; Filme, Bilder, allgemeines Fotozubehör, Kameras und Wiedergabegeräte;
 
-3.
-
-a)
-
-b)
-
-c)
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-5.
-
-6.
-
-7.
-
-a)
-
-b)
-
-c)
-
-8.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-9.
-
-a)
-
-b)
-
-c)
-
-d)
-
-10.
-
-a)
-
-b)
-
-c)
-
-11.
-
-a)
-
-b)
-
-c)
-
-d)
+11. chemisch-technische Waren, Pflanzenschutz:a)Chemikalien, b)chemisch-technische Waren zur Sachwerterhaltung, c)Pflanzenschutz- und Pflanzenstärkungsmittel, d)Mittel zur Schädlingsbekämpfung. Chemikalien, chemisch-technische Waren zur Sachwerterhaltung, Pflanzenschutz- und Pflanzenstärkungsmittel, Mittel zur Schädlingsbekämpfung.
 
 ### § 4 — Ausbildungsrahmenplan
 
@@ -138,13 +64,13 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (2) Die Zwischenprüfung erstreckt sich auf die in den Anlagen 1 und 2 für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Die Zwischenprüfung ist schriftlich anhand praxisbezogener Aufgaben oder Fälle in insgesamt höchstens 180 Minuten in den folgenden Prüfungsfächern durchzuführen: (4) Die in Absatz 3 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
+(3) Die Zwischenprüfung ist schriftlich anhand praxisbezogener Aufgaben oder Fälle in insgesamt höchstens 180 Minuten in den folgenden Prüfungsfächern durchzuführen:
 
-1.
+1. Drogeriebetriebslehre,
 
-2.
+2. Ware und Verkauf,
 
-3.
+3. Wirtschafts- und Sozialkunde.
 
 ### § 8 — Abschlußprüfung
 
@@ -154,17 +80,11 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (3) In der schriftlichen Prüfung soll der Prüfling in den nachstehend genannten Prüfungsfächern je eine Arbeit anfertigen:
 
-1.
+1. Prüfungsfach Drogeriebetriebslehre: In 90 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle aus den Gebieten Betrieb, Beschaffung, Lagerung sowie Warenwirtschaft bearbeiten. Er soll dabei zeigen, daß er Fertigkeiten und Kenntnisse der Planung, Steuerung und Kontrolle der Warenbewegungen und der Kosten erworben hat, Ergebnisse des Rechnungswesens anwenden kann sowie Zusammenhänge des Personaleinsatzes und der Arbeitsorganisation versteht.
 
-2.
+2. Prüfungsfach Ware und Verkauf: In 180 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle aus den Prüfungsgebietena)Beratung und Verkauf, b)Werbung und Verkaufsförderung, Sortimentsstruktur, c)fachspezifische Rechtsvorschriften Beratung und Verkauf, Werbung und Verkaufsförderung, Sortimentsstruktur, fachspezifische Rechtsvorschriften bearbeiten. In den Prüfungsgebieten zu den Buchstaben a und b soll der Prüfling zeigen, daß er Kunden qualitäts- und verwendungsbezogen beraten kann und die Bedarfs- und Sortimentsstrukturen einschließlich der Fachbegriffe kennt. Im Prüfungsgebiet zu Buchstabe c soll er nachweisen, daß er insbesondere die rechtlichen Grundzüge im Handel mit freiverkäuflichen Arzneimitteln, mit Gefahrstoffen, Pflanzenschutzmitteln, insbesondere die erforderlichen fachlichen Kenntnisse gemäß Pflanzenschutz-Sachkundeverordnung, sowie mit Lebensmitteln und Bedarfsgegenständen beherrscht und praxisbezogen anwenden kann.
 
-a)
-
-b)
-
-c)
-
-3.
+3. Prüfungsfach Wirtschafts- und Sozialkunde: In 90 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle aus der Berufs- und Arbeitswelt bearbeiten und dabei zeigen, daß er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 (4) Die in Absatz 3 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
@@ -190,26 +110,6 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
 
 ### Anlage 1 — (zu § 4)
 
-(Fundstelle: BGBl. I 1992, 1200 - 1212;
-
 ### Anlage 2 — (zu § 3)
 
-(Fundstelle: BGBl. I 1992, 1213 - 1215)
-
-1)
-
-2)
-
-3)
-
-1)
-
-2)
-
-3)
-
-1)
-
-2)
-
-3)
+1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen

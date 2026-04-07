@@ -12,13 +12,13 @@ Auf Grund des § 6 Abs. 1 Nr. 3 des Straßenverkehrsgesetzes in der im Bundesges
 
 ### § 1
 
-Den Führern von Personenkraftwagen sowie von anderen Kraftfahrzeugen mit einem zulässigen Gesamtgewicht bis zu 3,5 t wird empfohlen, auch bei günstigen Straßen-, Verkehrs-, Sicht- und Wetterverhältnissen nicht schneller als 130 km/h zu fahren (Autobahn-Richtgeschwindigkeit). Das gilt nicht, soweit nach der StVO oder nach deren Zeichen Höchstgeschwindigkeiten (Zeichen 274) bestehen.
+Den Führern von Personenkraftwagen sowie von anderen Kraftfahrzeugen mit einem zulässigen Gesamtgewicht bis zu 3,5 t wird empfohlen, auch bei günstigen Straßen-, Verkehrs-, Sicht- und Wetterverhältnissen
 
-1.
+1. auf Autobahnen (Zeichen 330.1),
 
-2.
+2. außerhalb geschlossener Ortschaften auf anderen Straßen mit Fahrbahnen für eine Richtung, die durch Mittelstreifen oder sonstige bauliche Einrichtungen getrennt sind, und
 
-3.
+3. außerhalb geschlossener Ortschaften auf Straßen, die mindestens zwei durch Fahrstreifenbegrenzung (Zeichen 295) oder durch Leitlinien (Zeichen 340) markierte Fahrstreifen für jede Richtung haben,
 
 ### § 2
 
@@ -33,5 +33,3 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Verkehr

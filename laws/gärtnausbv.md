@@ -13,21 +13,21 @@ Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1
 
 (1) Der Ausbildungsberuf Gärtner/Gärtnerin wird staatlich anerkannt.
 
-(2) Es kann zwischen den Fachrichtungen gewählt werden.
+(2) Es kann zwischen den Fachrichtungen
 
-1.
+1. Baumschule,
 
-2.
+2. Friedhofsgärtnerei,
 
-3.
+3. Garten- und Landschaftsbau,
 
-4.
+4. Gemüsebau,
 
-5.
+5. Obstbau,
 
-6.
+6. Staudengärtnerei,
 
-7.
+7. Zierpflanzenbau
 
 (3) Die Bezeichnung der Fachrichtung tritt ergänzend zur Bezeichnung des Ausbildungsberufes hinzu.
 
@@ -48,123 +48,53 @@ und Zielsetzung der Berufsausbildung
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
-1.
+1. der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen,
 
-1.1
+1.1 Berufsbildung,
 
-1.2
+1.2 Aufbau und Organisation des Ausbildungsbetriebes,
 
-1.3
+1.3 Mitgestalten sozialer Beziehungen,
 
-1.4
+1.4 Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit;
 
-2.
+2. Natur- und Umweltschutz; rationelle Energie- und Materialverwendung;
 
-3.
+3. betriebliche Abläufe und wirtschaftliche Zusammenhänge,
 
-3.1
+3.1 Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,
 
-3.2
+3.2 Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,
 
-3.3
+3.3 Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge;
 
-4.
+4. Böden, Erden und Substrate;
 
-5.
+5. Kultur und Verwendung von Pflanzen,
 
-5.1
+5.1 Pflanzen und ihre Verwendung,
 
-5.2
+5.2 Kultur- und Pflegemaßnahmen,
 
-5.3
+5.3 Nutzung pflanzlicher Produkte;
 
-6.
+6. Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe.
 
 (2) Gegenstand der Berufsausbildung in den Fachrichtungen sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
-1.
+1. in der Fachrichtung Baumschulea)Kulturräume und Kultureinrichtungen, b)Anlage von Baumschulquartieren und Flächen für Containerkulturen, c)Vermehrung und Jungpflanzenanzucht, d)Produktionsverfahren, e)Roden, Sortieren, Kennzeichnen und Lagern, f)Verkaufen und Beraten; Kulturräume und Kultureinrichtungen, Anlage von Baumschulquartieren und Flächen für Containerkulturen, Vermehrung und Jungpflanzenanzucht, Produktionsverfahren, Roden, Sortieren, Kennzeichnen und Lagern, Verkaufen und Beraten;
 
-a)
+2. in der Fachrichtung Friedhofsgärtnereia)Kulturräume und Kultureinrichtungen, b)Vermehrung und Weiterkultur, c)Grabstätten anlegen, pflegen und erneuern, d)Trauerbinderei und Dekoration, e)Verkaufen und Beraten; Kulturräume und Kultureinrichtungen, Vermehrung und Weiterkultur, Grabstätten anlegen, pflegen und erneuern, Trauerbinderei und Dekoration, Verkaufen und Beraten;
 
-b)
+3. in der Fachrichtung Garten- und Landschaftsbaua)Vorbereiten, Einrichten und Abwickeln von Baustellen, b)Ausführen von Erdarbeiten sowie Be- und Entwässerungsmaßnahmen, c)Herstellen von befestigten Flächen, d)Herstellen von Bauwerken in Außenanlagen, e)Ausführen von vegetationstechnischen Arbeiten; Vorbereiten, Einrichten und Abwickeln von Baustellen, Ausführen von Erdarbeiten sowie Be- und Entwässerungsmaßnahmen, Herstellen von befestigten Flächen, Herstellen von Bauwerken in Außenanlagen, Ausführen von vegetationstechnischen Arbeiten;
 
-c)
+4. in der Fachrichtung Gemüsebaua)Produktionsräume und Produktionseinrichtungen, b)Vermehrung und Jungpflanzenanzucht, c)Produktionsverfahren, d)Ernten, Aufbereiten und Lagern, e)Vermarkten; Produktionsräume und Produktionseinrichtungen, Vermehrung und Jungpflanzenanzucht, Produktionsverfahren, Ernten, Aufbereiten und Lagern, Vermarkten;
 
-d)
+5. in der Fachrichtung Obstbaua)Anlegen von Obstpflanzungen, b)Produktionsverfahren, c)Ernten, Aufbereiten und Lagern, d)Vermarkten; Anlegen von Obstpflanzungen, Produktionsverfahren, Ernten, Aufbereiten und Lagern, Vermarkten;
 
-e)
+6. in der Fachrichtung Staudengärtnereia)Kulturräume und Kultureinrichtungen, b)Vermehrung und Jungpflanzenanzucht, c)Produktionsverfahren, d)Auswählen und Aufbereiten, e)Verkaufen und Beraten; Kulturräume und Kultureinrichtungen, Vermehrung und Jungpflanzenanzucht, Produktionsverfahren, Auswählen und Aufbereiten, Verkaufen und Beraten;
 
-f)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-5.
-
-a)
-
-b)
-
-c)
-
-d)
-
-6.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-7.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+7. in der Fachrichtung Zierpflanzenbaua)Kulturräume und Kultureinrichtungen, b)Vermehrung und Jungpflanzenanzucht, c)Produktionsverfahren, d)Ernten, Aufbereiten und Lagern, e)Verkaufen und Beraten. Kulturräume und Kultureinrichtungen, Vermehrung und Jungpflanzenanzucht, Produktionsverfahren, Ernten, Aufbereiten und Lagern, Verkaufen und Beraten.
 
 ### § 5 — Ausbildungsrahmenplan
 
@@ -188,43 +118,43 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (4) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens drei Stunden drei Aufgaben durchführen und jeweils in einem Prüfungsgespräch erläutern. Es kommen insbesondere in Betracht:
 
-1.
+1. Durchführen von Arbeiten an der Pflanze,
 
-2.
+2. Einsatz von Werkzeugen und Geräten,
 
-3.
+3. Vermehren von Pflanzen,
 
-4.
+4. Be- und Verarbeiten von Materialien und Werkstoffen,
 
-5.
+5. Durchführen von Bodenbearbeitungsmaßnahmen,
 
-6.
+6. Durchführen von Pflegemaßnahmen an Maschinen, Geräten oder baulichen Anlagen.
 
 (5) In der schriftlichen Prüfung sind in höchstens 90 Minuten Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten zu bearbeiten:
 
-1.
+1. der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen,
 
-2.
+2. Natur- und Umweltschutz,
 
-3.
+3. rationelle Energie- und Materialverwendung,
 
-4.
+4. betriebliche Abläufe,
 
-5.
+5. wirtschaftliche Zusammenhänge,
 
-6.
+6. Böden, Erden und Substrate,
 
-7.
+7. Erkennen von Pflanzen,
 
-8.
+8. Bau und Leben der Pflanze,
 
-9.
+9. Kultur und Verwendung von Pflanzen,
 
-10.
+10. Materialien und Werkstoffe,
 
-11.
+11. Maschinen, Geräte und Betriebseinrichtungen,
 
-12.
+12. anwendungsbezogene Berechnungen.
 
 ### § 9 — Abschlußprüfung in der Fachrichtung Baumschule
 
@@ -232,99 +162,21 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (2) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens fünf Stunden fünf komplexe Prüfungsaufgaben durchführen und jeweils in einem Prüfungsgespräch erläutern. Der Bereich Pflanzenproduktion soll dabei mit mindestens drei Aufgaben und der Bereich Ernte und Vermarktung mit mindestens einer Aufgabe vertreten sein. Der Prüfling soll zeigen, daß er die erworbenen Fertigkeiten und Kenntnisse praxisbezogen unter Verwendung geeigneter Maschinen, Geräte und technischer Einrichtungen anwenden kann. Dem Prüfling soll Gelegenheit gegeben werden, diese Maschinen, Geräte und technischen Einrichtungen vor der Prüfung kennenzulernen. Bei der praktischen Prüfung sollen die betrieblichen Ausbildungsschwerpunkte angemessen berücksichtigt werden. Für die Prüfungsaufgaben kommen insbesondere in Betracht:
 
-1.
+1. aus dem Bereich Pflanzenproduktion:a)Vermehren von Gehölzen, b)Anlegen von Baumschulquartieren, c)Durchführen von Arbeiten an der Pflanze, d)Aufschulen und Aufpflanzen, e)Durchführen von Pflanzenschutzmaßnahmen, f)Durchführen von Düngungs- und Bewässerungsmaßnahmen; Vermehren von Gehölzen, Anlegen von Baumschulquartieren, Durchführen von Arbeiten an der Pflanze, Aufschulen und Aufpflanzen, Durchführen von Pflanzenschutzmaßnahmen, Durchführen von Düngungs- und Bewässerungsmaßnahmen; dabei sind Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz, rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen sowie Beschaffen und Auswerten von Informationen einzubeziehen;
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
+2. aus dem Bereich Ernte und Vermarktung:a)Gehölze roden und ballieren, b)Gehölze sortieren und kennzeichnen, c)Gehölze lagern und versandfertig machen, d)Verkaufen und Beraten; Gehölze roden und ballieren, Gehölze sortieren und kennzeichnen, Gehölze lagern und versandfertig machen, Verkaufen und Beraten; dabei sind Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz, rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen sowie Beschaffen und Auswerten von Informationen einzubeziehen;
 
 (3) Der Prüfling soll in dem Prüfungsfach Kulturführung mündlich, in den Prüfungsfächern Pflanzenkenntnisse, Betriebliche Zusammenhänge sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. Im Prüfungsfach Kulturführung soll der Ablauf von verschiedenen Kulturen im Mittelpunkt stehen. Es kommen Fragen und Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
-1.
+1. im Prüfungsfach Kulturführung:a)Bau und Leben der Pflanze, b)Grundlagen der Züchtung, c)Vermehrung und Jungpflanzenanzucht, d)Arbeiten an der Pflanze, e)kultursteuernde Maßnahmen, f)Böden, Erden und Substrate, g)Düngung und Bewässerung, h)Pflanzenschutz, i)Ernte, Aufbereitung und Lagerung, k)Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit; Bau und Leben der Pflanze, Grundlagen der Züchtung, Vermehrung und Jungpflanzenanzucht, Arbeiten an der Pflanze, kultursteuernde Maßnahmen, Böden, Erden und Substrate, Düngung und Bewässerung, Pflanzenschutz, Ernte, Aufbereitung und Lagerung, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit;
 
-a)
+2. im Prüfungsfach Pflanzenkenntnisse:a)Erkennen und Benennen von Pflanzen, b)Arten und Sorten marktwichtiger Gehölze und ihre Verwendung, c)typische Absatz- und Blühtermine, d)Wildkräuter und Unkräuter, e)Artenschutz; Erkennen und Benennen von Pflanzen, Arten und Sorten marktwichtiger Gehölze und ihre Verwendung, typische Absatz- und Blühtermine, Wildkräuter und Unkräuter, Artenschutz;
 
-b)
+3. im Prüfungsfach Betriebliche Zusammenhänge:a)natürliche und wirtschaftliche Standortfaktoren, b)Kulturräume und andere bauliche Anlagen, c)Maschinen, Geräte, technische Einrichtungen, d)Materialien und Betriebsmittel, e)anwendungsbezogene Berechnungen, f)Vermarktung, g)Natur- und Umweltschutz, h)rationelle Energie- und Materialverwendung, i)einschlägige Rechtsvorschriften, k)Einflußfaktoren auf die menschliche Arbeit, l)Informationsbeschaffung und -auswertung, m)Aufwendungen und Erträge; natürliche und wirtschaftliche Standortfaktoren, Kulturräume und andere bauliche Anlagen, Maschinen, Geräte, technische Einrichtungen, Materialien und Betriebsmittel, anwendungsbezogene Berechnungen, Vermarktung, Natur- und Umweltschutz, rationelle Energie- und Materialverwendung, einschlägige Rechtsvorschriften, Einflußfaktoren auf die menschliche Arbeit, Informationsbeschaffung und -auswertung, Aufwendungen und Erträge;
 
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-l)
-
-m)
-
-4.
-
-(4) Für die Prüfung nach Absatz 3 ist von folgenden zeitlichen Höchstwerten auszugehen:
+4. im Prüfungsfach Wirtschafts- und Sozialkunde: allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 (5) Sind in der schriftlichen Prüfung nach Absatz 3 die Prüfungsleistungen in bis zu zwei Fächern mit mangelhaft und in den übrigen Fächern mit mindestens ausreichend bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit mangelhaft bewerteten Fächer die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Das Fach ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für dieses Fach hat die schriftliche Prüfung gegenüber der mündlichen Prüfung das doppelte Gewicht.
-
-(6) Innerhalb der Prüfung nach Absatz 2 hat jede Prüfungsaufgabe und innerhalb der Prüfung nach Absatz 3 hat jedes Prüfungsfach das gleiche Gewicht. Für die Ermittlung des Gesamtergebnisses sind die Prüfungsleistungen wie folgt zu gewichten:
 
 (7) Die Prüfung ist bestanden, wenn im Gesamtergebnis und jeweils in den Prüfungen nach den Absätzen 2 und 3 mindestens ausreichende Leistungen erbracht worden sind. Sie ist nicht bestanden, wenn eine der Prüfungsaufgaben nach Absatz 2 oder eines der Prüfungsfächer nach Absatz 3 mit ungenügend oder zwei der vorgenannten Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
@@ -334,89 +186,21 @@ m)
 
 (2) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens fünf Stunden fünf komplexe Prüfungsaufgaben durchführen und jeweils in einem Prüfungsgespräch erläutern. Die Bereiche Grabanlage sowie Pflanzenproduktion, Trauerbinderei und Dekoration sollen dabei mit je mindestens zwei Aufgaben vertreten sein. Der Prüfling soll zeigen, daß er die erworbenen Fertigkeiten und Kenntnisse praxisbezogen unter Verwendung geeigneter Maschinen, Geräte und technischer Einrichtungen anwenden kann. Dem Prüfling soll Gelegenheit gegeben werden, diese Maschinen, Geräte und technischen Einrichtungen vor der Prüfung kennenzulernen. Bei der praktischen Prüfung sollen die betrieblichen Ausbildungsschwerpunkte angemessen berücksichtigt werden. Für die Prüfungsaufgaben kommen insbesondere in Betracht:
 
-1.
+1. aus dem Bereich Grabanlage:a)Grabstätte planen, Flächen aufteilen und vermessen, b)Boden bearbeiten und Grab bepflanzen; Grabstätte planen, Flächen aufteilen und vermessen, Boden bearbeiten und Grab bepflanzen; dabei sind Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz, rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen, Beschaffen und Auswerten von Informationen sowie Verkauf und Beratung einzubeziehen;
 
-a)
-
-b)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+2. aus dem Bereich Pflanzenproduktion, Trauerbinderei und Dekoration:a)Vermehren von Pflanzen, b)Durchführen von Arbeiten an der Pflanze, c)Durchführen von Bewässerungs-, Düngungs- und Pflanzenschutzmaßnahmen, d)Herstellen von Trauerbinderei, e)Durchführen von Dekorationen; Vermehren von Pflanzen, Durchführen von Arbeiten an der Pflanze, Durchführen von Bewässerungs-, Düngungs- und Pflanzenschutzmaßnahmen, Herstellen von Trauerbinderei, Durchführen von Dekorationen; dabei sind Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz, rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen, Beschaffen und Auswerten von Informationen sowie Verkauf und Beratung einzubeziehen.
 
 (3) Der Prüfling soll in dem Prüfungsfach Grabanlage und Kulturführung mündlich, in den Prüfungsfächern Pflanzenkenntnisse, Betriebliche Zusammenhänge sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. Im Prüfungsfach Grabanlage und Kulturführung soll die Anlage von Gräbern im Mittelpunkt stehen. Es kommen Fragen und Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
-1.
+1. im Prüfungsfach Grabanlage und Kulturführung:a)Bau und Leben der Pflanze, b)Grundlagen der Züchtung; Vermehrung und Weiterkultur, c)Arbeiten an der Pflanze, d)Böden, Erden und Substrate, e)Bewässerung, Düngung, Pflanzenschutz, f)Grabstätten anlegen, pflegen und erneuern, g)einschlägige Gestaltungsrichtlinien und Friedhofsrecht, h)Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit; Bau und Leben der Pflanze, Grundlagen der Züchtung; Vermehrung und Weiterkultur, Arbeiten an der Pflanze, Böden, Erden und Substrate, Bewässerung, Düngung, Pflanzenschutz, Grabstätten anlegen, pflegen und erneuern, einschlägige Gestaltungsrichtlinien und Friedhofsrecht, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit;
 
-a)
+2. im Prüfungsfach Pflanzenkenntnisse:a)Erkennen und Benennen von Pflanzen, b)Arten und Sorten marktwichtiger Pflanzen und ihre Verwendung, c)typische Absatz- und Pflanztermine, d)Wildkräuter und Unkräuter, e)Artenschutz; Erkennen und Benennen von Pflanzen, Arten und Sorten marktwichtiger Pflanzen und ihre Verwendung, typische Absatz- und Pflanztermine, Wildkräuter und Unkräuter, Artenschutz;
 
-b)
+3. im Prüfungsfach Betriebliche Zusammenhänge:a)natürliche und wirtschaftliche Standortfaktoren, b)Kulturräume und andere bauliche Anlagen, c)Maschinen, Geräte und technische Einrichtungen, d)Materialien, Werkstoffe und Betriebsmittel, e)anwendungsbezogene Berechnungen, f)Auftragsabwicklung und Verkauf, g)Natur- und Umweltschutz, h)rationelle Energie- und Materialverwendung, i)einschlägige Rechtsvorschriften, k)Einflußfaktoren auf die menschliche Arbeit, l)Informationsbeschaffung und -auswertung, m)Grundlagen der Kalkulation; natürliche und wirtschaftliche Standortfaktoren, Kulturräume und andere bauliche Anlagen, Maschinen, Geräte und technische Einrichtungen, Materialien, Werkstoffe und Betriebsmittel, anwendungsbezogene Berechnungen, Auftragsabwicklung und Verkauf, Natur- und Umweltschutz, rationelle Energie- und Materialverwendung, einschlägige Rechtsvorschriften, Einflußfaktoren auf die menschliche Arbeit, Informationsbeschaffung und -auswertung, Grundlagen der Kalkulation;
 
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-l)
-
-m)
-
-4.
-
-(4) Für die Prüfung nach Absatz 3 ist von folgenden zeitlichen Höchstwerten auszugehen:
+4. im Prüfungsfach Wirtschafts- und Sozialkunde: allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 (5) Sind in der schriftlichen Prüfung nach Absatz 3 die Prüfungsleistungen in bis zu zwei Fächern mit mangelhaft und in den übrigen Fächern mit mindestens ausreichend bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit mangelhaft bewerteten Fächer die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Das Fach ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für dieses Fach hat die schriftliche Prüfung gegenüber der mündlichen Prüfung das doppelte Gewicht.
-
-(6) Innerhalb der Prüfung nach Absatz 2 hat jede Prüfungsaufgabe und innerhalb der Prüfung nach Absatz 3 hat jedes Prüfungsfach das gleiche Gewicht. Für die Ermittlung des Gesamtergebnisses sind die Prüfungsleistungen wie folgt zu gewichten:
 
 (7) Die Prüfung ist bestanden, wenn im Gesamtergebnis und jeweils in den Prüfungen nach den Absätzen 2 und 3 mindestens ausreichende Leistungen erbracht worden sind. Sie ist nicht bestanden, wenn eine der Prüfungsaufgaben nach Absatz 2 oder eines der Prüfungsfächer nach Absatz 3 mit ungenügend oder zwei der vorgenannten Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
@@ -427,93 +211,21 @@ Garten- und Landschaftsbau
 
 (2) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens fünf Stunden ein landschaftsgärtnerisches Gesamtwerk erstellen, das aus fünf komplexen Prüfungsaufgaben besteht. Das Gesamtwerk ist in einem Prüfungsgespräch zu erläutern, das sich auf die fünf Prüfungsaufgaben beziehen muß. Der Prüfungsbereich Baustellenabwicklung und Bautechnik soll dabei mit mindestens drei Aufgaben und der Bereich Vegetationstechnik mit mindestens einer Aufgabe vertreten sein. Der Prüfling soll zeigen, daß er die erworbenen Fertigkeiten und Kenntnisse praxisbezogen unter Verwendung geeigneter Maschinen, Geräte und technischer Einrichtungen anwenden kann. Dem Prüfling soll Gelegenheit gegeben werden, diese Maschinen, Geräte und technischen Einrichtungen vor der Prüfung kennenzulernen. Bei der praktischen Prüfung sollen die betrieblichen Ausbildungsschwerpunkte angemessen berücksichtigt werden. Für die Prüfungsaufgaben kommen insbesondere in Betracht:
 
-1.
+1. aus dem Bereich Baustellenabwicklung und Bautechnik:a)Ausführungspläne sowie Leistungsverzeichnisse lesen und auf die Baustelle übertragen, b)Durchführen von Erdarbeiten, c)Durchführen von Entwässerungsarbeiten, d)Herstellen von befestigten Flächen, e)Be- und Verarbeiten von Naturstein, f)Bauen mit Betonfertigteilen, g)Aufstellen und Montieren von Ausstattungsgegenständen; Ausführungspläne sowie Leistungsverzeichnisse lesen und auf die Baustelle übertragen, Durchführen von Erdarbeiten, Durchführen von Entwässerungsarbeiten, Herstellen von befestigten Flächen, Be- und Verarbeiten von Naturstein, Bauen mit Betonfertigteilen, Aufstellen und Montieren von Ausstattungsgegenständen; dabei sind Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz, rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen sowie Beschaffen und Auswerten von Informationen einzubeziehen;
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-2.
-
-a)
-
-b)
-
-c)
+2. aus dem Bereich Vegetationstechnik:a)Pflanzungen vorbereiten und Durchführen, b)Flächen für Ansaaten vorbereiten und ansäen, c)Pflegemaßnahmen durchführen; Pflanzungen vorbereiten und Durchführen, Flächen für Ansaaten vorbereiten und ansäen, Pflegemaßnahmen durchführen; dabei sind Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz, rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen sowie Beschaffen und Auswerten von Informationen einzubeziehen.
 
 (3) Der Prüfling soll in dem Prüfungsfach Landschaftsgärtnerische Arbeiten mündlich, in den Prüfungsfächern Pflanzenkenntnisse, Betriebliche Zusammenhänge sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. Im Prüfungsfach Landschaftsgärtnerische Arbeiten sollen landschaftsgärtnerische Außenanlagen im Mittelpunkt stehen. Es kommen Fragen und Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
-1.
+1. im Prüfungsfach Landschaftsgärtnerische Arbeiten:a)Vorbereiten, Einrichten und Abwickeln von Baustellen, b)Erdarbeiten sowie Be- und Entwässerungsmaßnahmen, c)Herstellen von befestigten Flächen, d)Herstellen von Bauwerken in Außenanlagen, e)Bau und Leben der Pflanze, vegetationstechnische Arbeiten, f)Bewässerung, Düngung, Pflanzenschutz, g)Pflege- und Unterhaltungsmaßnahmen, h)Planen, Vorbereiten und Kontrollieren von Dienstleistungen und Arbeit; Vorbereiten, Einrichten und Abwickeln von Baustellen, Erdarbeiten sowie Be- und Entwässerungsmaßnahmen, Herstellen von befestigten Flächen, Herstellen von Bauwerken in Außenanlagen, Bau und Leben der Pflanze, vegetationstechnische Arbeiten, Bewässerung, Düngung, Pflanzenschutz, Pflege- und Unterhaltungsmaßnahmen, Planen, Vorbereiten und Kontrollieren von Dienstleistungen und Arbeit;
 
-a)
+2. im Prüfungsfach Pflanzenkenntnisse:a)Erkennen und Benennen von Pflanzen, b)Gattungen und Arten von Pflanzen, ihre Anzucht und Verwendung, c)heimische Pflanzen und ihre Lebensräume, Artenschutz, d)Wildkräuter und Unkräuter; Erkennen und Benennen von Pflanzen, Gattungen und Arten von Pflanzen, ihre Anzucht und Verwendung, heimische Pflanzen und ihre Lebensräume, Artenschutz, Wildkräuter und Unkräuter;
 
-b)
+3. im Prüfungsfach Betriebliche Zusammenhänge:a)natürliche und wirtschaftliche Standortfaktoren, b)bauliche Anlagen, c)Maschinen und Geräte, d)Materialien, Werkstoffe und Betriebsmittel, e)anwendungsbezogene Berechnungen, f)Auftragsbeschaffung, g)Natur- und Umweltschutz, h)rationelle Energie- und Materialverwendung, i)einschlägige Rechtsvorschriften, k)Einflußfaktoren auf die menschliche Arbeit, l)Informationsbeschaffung und -auswertung, m)Grundlagen der Kalkulation; natürliche und wirtschaftliche Standortfaktoren, bauliche Anlagen, Maschinen und Geräte, Materialien, Werkstoffe und Betriebsmittel, anwendungsbezogene Berechnungen, Auftragsbeschaffung, Natur- und Umweltschutz, rationelle Energie- und Materialverwendung, einschlägige Rechtsvorschriften, Einflußfaktoren auf die menschliche Arbeit, Informationsbeschaffung und -auswertung, Grundlagen der Kalkulation;
 
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-l)
-
-m)
-
-4.
-
-(4) Für die Prüfung nach Absatz 3 ist von folgenden zeitlichen Höchstwerten auszugehen:
+4. im Prüfungsfach Wirtschafts- und Sozialkunde: allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 (5) Sind in der schriftlichen Prüfung nach Absatz 3 die Prüfungsleistungen in bis zu zwei Fächern mit mangelhaft und in den übrigen Fächern mit mindestens ausreichend bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit mangelhaft bewerteten Fächer die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Das Fach ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für dieses Fach hat die schriftliche Prüfung gegenüber der mündlichen Prüfung das doppelte Gewicht.
-
-(6) Innerhalb der Prüfung nach Absatz 2 hat jede Prüfungsaufgabe und innerhalb der Prüfung nach Absatz 3 hat jedes Prüfungsfach das gleiche Gewicht. Für die Ermittlung des Gesamtergebnisses sind die Prüfungsleistungen wie folgt zu gewichten:
 
 (7) Die Prüfung ist bestanden, wenn im Gesamtergebnis und jeweils in den Prüfungen nach den Absätzen 2 und 3 mindestens ausreichende Leistungen erbracht worden sind. Sie ist nicht bestanden, wenn eine der Prüfungsaufgaben nach Absatz 2 oder eines der Prüfungsfächer nach Absatz 3 mit ungenügend oder zwei der vorgenannten Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
@@ -523,103 +235,21 @@ m)
 
 (2) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens fünf Stunden fünf komplexe Prüfungsaufgaben durchführen und jeweils in einem Prüfungsgespräch erläutern. Der Bereich Pflanzenproduktion soll dabei mit mindestens drei Aufgaben und der Bereich Ernte und Aufbereitung mit mindestens einer Aufgabe vertreten sein. Der Prüfling soll zeigen, daß er die erworbenen Fertigkeiten und Kenntnisse praxisbezogen unter Verwendung geeigneter Maschinen, Geräte und technischer Einrichtungen anwenden kann. Dem Prüfling soll Gelegenheit gegeben werden, diese Maschinen, Geräte und technischen Einrichtungen vor der Prüfung kennenzulernen. Bei der praktischen Prüfung sollen die betrieblichen Ausbildungsschwerpunkte angemessen berücksichtigt werden. Für die Prüfungsaufgaben kommen insbesondere folgende Gebiete in Betracht:
 
-1.
+1. aus dem Bereich Pflanzenproduktion:a)Anzucht von Jungpflanzen, b)Flächen ausmessen und zur Pflanzung oder Aussaat vorbereiten, c)Durchführen von Pflanzungen, d)Durchführen von Direktsaaten, e)Durchführen von Arbeiten an der Pflanze, f)Durchführen von Pflanzenschutzmaßnahmen, g)Durchführen von Düngungs- und Bewässerungsmaßnahmen; Anzucht von Jungpflanzen, Flächen ausmessen und zur Pflanzung oder Aussaat vorbereiten, Durchführen von Pflanzungen, Durchführen von Direktsaaten, Durchführen von Arbeiten an der Pflanze, Durchführen von Pflanzenschutzmaßnahmen, Durchführen von Düngungs- und Bewässerungsmaßnahmen; dabei sind Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz, rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen sowie Beschaffen und Auswerten von Informationen einzubeziehen;
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-2.
-
-a)
-
-b)
-
-c)
+2. aus dem Bereich Ernte und Aufbereitung:a)Ernten von Gemüse, b)Aufbereiten und Sortieren von Gemüse, c)Kennzeichnen und Verpacken von Gemüse; Ernten von Gemüse, Aufbereiten und Sortieren von Gemüse, Kennzeichnen und Verpacken von Gemüse; dabei sind Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz, rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen, Beschaffen und Auswerten von Informationen sowie Vermarkten einzubeziehen.
 
 (3) Der Prüfling soll in dem Prüfungsfach Anbau mündlich, in den Prüfungsfächern Pflanzenkenntnisse, Betriebliche Zusammenhänge sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. Im Prüfungsfach Anbau soll der Produktionsablauf von verschiedenen Gemüsearten im Mittelpunkt stehen. Es kommen Fragen und Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
-1.
+1. im Prüfungsfach Anbau:a)Bau und Leben der Pflanze, b)Grundlagen der Züchtung, c)Vermehrung und Jungpflanzenanzucht, d)Produktionsverfahren, e)Frucht- und Nutzungsfolgen, f)Arbeiten an der Pflanze, g)Böden, Erden und Substrate, h)Düngung und Bewässerung, i)Pflanzenschutz, k)Ernte, Aufbereitung, Lagerung und Vermarktung, l)Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit; Bau und Leben der Pflanze, Grundlagen der Züchtung, Vermehrung und Jungpflanzenanzucht, Produktionsverfahren, Frucht- und Nutzungsfolgen, Arbeiten an der Pflanze, Böden, Erden und Substrate, Düngung und Bewässerung, Pflanzenschutz, Ernte, Aufbereitung, Lagerung und Vermarktung, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit;
 
-a)
+2. im Prüfungsfach Pflanzenkenntnisse:a)Erkennen und Benennen von Pflanzen, b)Arten und Sorten von Gemüse, ihre Verwendung und Marktbedeutung, c)Anbau- und Absatzzeiten, d)Wildkräuter und Unkräuter, e)Sortenschutz, f)Artenschutz; Erkennen und Benennen von Pflanzen, Arten und Sorten von Gemüse, ihre Verwendung und Marktbedeutung, Anbau- und Absatzzeiten, Wildkräuter und Unkräuter, Sortenschutz, Artenschutz;
 
-b)
+3. im Prüfungsfach Betriebliche Zusammenhänge:a)natürliche und wirtschaftliche Standortfaktoren, b)Kulturräume und andere bauliche Anlagen, c)Maschinen, Geräte und technische Einrichtungen, d)Materialien und Betriebsmittel, e)anwendungsbezogene Berechnungen, f)Vermarktung, g)Natur- und Umweltschutz, h)rationelle Energie- und Materialverwendung, i)einschlägige Rechtsvorschriften, k)Einflußfaktoren auf die menschliche Arbeit, l)Informationsbeschaffung und -auswertung, m)Aufwendungen und Erträge; natürliche und wirtschaftliche Standortfaktoren, Kulturräume und andere bauliche Anlagen, Maschinen, Geräte und technische Einrichtungen, Materialien und Betriebsmittel, anwendungsbezogene Berechnungen, Vermarktung, Natur- und Umweltschutz, rationelle Energie- und Materialverwendung, einschlägige Rechtsvorschriften, Einflußfaktoren auf die menschliche Arbeit, Informationsbeschaffung und -auswertung, Aufwendungen und Erträge;
 
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-l)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-l)
-
-m)
-
-4.
-
-(4) Für die Prüfung nach Absatz 3 ist von folgenden zeitlichen Höchstwerten auszugehen:
+4. im Prüfungsfach Wirtschafts- und Sozialkunde: allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 (5) Sind in der schriftlichen Prüfung nach Absatz 3 die Prüfungsleistungen in bis zu zwei Fächern mit mangelhaft und in den übrigen Fächern mit mindestens ausreichend bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit mangelhaft bewerteten Fächer die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Das Fach ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für dieses Fach hat die schriftliche Prüfung gegenüber der mündlichen Prüfung das doppelte Gewicht.
-
-(6) Innerhalb der Prüfung nach Absatz 2 hat jede Prüfungsaufgabe und innerhalb der Prüfung nach Absatz 3 hat jedes Prüfungsfach das gleiche Gewicht. Für die Ermittlung des Gesamtergebnisses sind die Prüfungsleistungen wie folgt zu gewichten:
 
 (7) Die Prüfung ist bestanden, wenn im Gesamtergebnis und jeweils in den Prüfungen nach den Absätzen 2 und 3 mindestens ausreichende Leistungen erbracht worden sind. Sie ist nicht bestanden, wenn eine der Prüfungsaufgaben nach Absatz 2 oder eines der Prüfungsfächer nach Absatz 3 mit ungenügend oder zwei der vorgenannten Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
@@ -629,111 +259,21 @@ m)
 
 (2) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens fünf Stunden fünf komplexe Prüfungsaufgaben durchführen und jeweils in einem Prüfungsgespräch erläutern. Der Bereich Produktion soll dabei mit mindestens drei Aufgaben und der Bereich Ernte und Aufbereitung mit mindestens einer Aufgabe vertreten sein. Der Prüfling soll zeigen, daß er die erworbenen Fertigkeiten und Kenntnisse praxisbezogen unter Verwendung geeigneter Maschinen, Geräte und technischer Einrichtungen anwenden kann. Dem Prüfling soll Gelegenheit gegeben werden, diese Maschinen, Geräte und technischen Einrichtungen vor der Prüfung kennenzulernen. Bei der praktischen Prüfung sollen die betrieblichen Ausbildungsschwerpunkte angemessen berücksichtigt werden. Für die Prüfungsaufgaben kommen insbesondere in Betracht:
 
-1.
+1. aus dem Bereich Produktion:a)Vermehren von Pflanzen, b)Flächen ausmessen und zur Pflanzung vorbereiten, c)Durchführen von Pflanzungen, d)Erstellen von Stützkonstruktionen, e)Durchführen von Arbeiten an der Pflanze, f)Durchführen von Pflanzenschutzmaßnahmen, g)Durchführen von Düngungs- und Bewässerungsmaßnahmen; Vermehren von Pflanzen, Flächen ausmessen und zur Pflanzung vorbereiten, Durchführen von Pflanzungen, Erstellen von Stützkonstruktionen, Durchführen von Arbeiten an der Pflanze, Durchführen von Pflanzenschutzmaßnahmen, Durchführen von Düngungs- und Bewässerungsmaßnahmen; dabei sind Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz, rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen sowie Beschaffen und Auswerten von Informationen einzubeziehen;
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-2.
-
-a)
-
-b)
-
-c)
+2. aus dem Bereich Ernte und Aufbereitung:a)Ernten von Obst, b)Sortieren von Obst, c)Kennzeichnen und Verpacken von Obst; Ernten von Obst, Sortieren von Obst, Kennzeichnen und Verpacken von Obst; dabei sind Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz, rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen sowie Beschaffen und Auswerten von Informationen sowie Vermarkten einzubeziehen;
 
 (3) Der Prüfling soll in dem Prüfungsfach Anbau mündlich, in den Prüfungsfächern Pflanzenkenntnisse, Betriebliche Zusammenhänge sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. Im Prüfungsfach Anbau soll der Produktionsablauf verschiedener Obstarten im Mittelpunkt stehen. Es kommen Fragen und Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
-1.
+1. im Prüfungsfach Anbau:a)Bau und Leben der Pflanze, Entwicklungsphasen der Obstgehölze, b)Grundlagen der Züchtung, c)Vermehrung und Anzucht, d)Unterlagen und ihr Einfluß auf die Obstarten, e)Produktionsverfahren, f)Anbau- und Pflanzsysteme, g)Arbeiten an der Pflanze, h)Maßnahmen zur Wachstums- und Ertragsregulierung, i)Maßnahmen zum Schutz der Pflanzung, k)Böden, Erden und Substrate, l)Düngung und Bewässerung, m)Pflanzenschutz, n)Ernte, Aufbereitung, Lagerung und Vermarktung, o)Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit; Bau und Leben der Pflanze, Entwicklungsphasen der Obstgehölze, Grundlagen der Züchtung, Vermehrung und Anzucht, Unterlagen und ihr Einfluß auf die Obstarten, Produktionsverfahren, Anbau- und Pflanzsysteme, Arbeiten an der Pflanze, Maßnahmen zur Wachstums- und Ertragsregulierung, Maßnahmen zum Schutz der Pflanzung, Böden, Erden und Substrate, Düngung und Bewässerung, Pflanzenschutz, Ernte, Aufbereitung, Lagerung und Vermarktung, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit;
 
-a)
+2. im Prüfungsfach Pflanzenkenntnisse:a)Erkennen und Benennen von Pflanzen, b)Arten und Sorten von Obst, ihre Verwendung und Marktbedeutung, c)typische Absatz- und Blühtermine, d)Sorten- und Unterlagenkombinationen, e)Wildkräuter und Unkräuter, f)Sortenschutz, g)Artenschutz; Erkennen und Benennen von Pflanzen, Arten und Sorten von Obst, ihre Verwendung und Marktbedeutung, typische Absatz- und Blühtermine, Sorten- und Unterlagenkombinationen, Wildkräuter und Unkräuter, Sortenschutz, Artenschutz;
 
-b)
+3. im Prüfungsfach Betriebliche Zusammenhänge:a)natürliche und wirtschaftliche Standortfaktoren, b)bauliche Anlagen, c)Maschinen, Geräte und technische Einrichtungen, d)Materialien und Betriebsmittel, e)anwendungsbezogene Berechnungen, f)Vermarktung, g)Natur- und Umweltschutz, h)rationelle Energie- und Materialverwendung, i)einschlägige Rechtsvorschriften, k)Einflußfaktoren auf die menschliche Arbeit, l)Informationsbeschaffung und -auswertung, m)Aufwendungen und Erträge; natürliche und wirtschaftliche Standortfaktoren, bauliche Anlagen, Maschinen, Geräte und technische Einrichtungen, Materialien und Betriebsmittel, anwendungsbezogene Berechnungen, Vermarktung, Natur- und Umweltschutz, rationelle Energie- und Materialverwendung, einschlägige Rechtsvorschriften, Einflußfaktoren auf die menschliche Arbeit, Informationsbeschaffung und -auswertung, Aufwendungen und Erträge;
 
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-l)
-
-m)
-
-4.
-
-(4) Für die Prüfung nach Absatz 3 ist von folgenden zeitlichen Höchstwerten auszugehen:
+4. im Prüfungsfach Wirtschafts- und Sozialkunde: allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 (5) Sind in der schriftlichen Prüfung nach Absatz 3 die Prüfungsleistungen in bis zu zwei Fächern mit mangelhaft und in den übrigen Fächern mit mindestens ausreichend bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit mangelhaft bewerteten Fächer die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Das Fach ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für dieses Fach hat die schriftliche Prüfung gegenüber der mündlichen Prüfung das doppelte Gewicht.
-
-(6) Innerhalb der Prüfung nach Absatz 2 hat jede Prüfungsaufgabe und innerhalb der Prüfung nach Absatz 3 hat jedes Prüfungsfach das gleiche Gewicht. Für die Ermittlung des Gesamtergebnisses sind die Prüfungsleistungen wie folgt zu gewichten:
 
 (7) Die Prüfung ist bestanden, wenn im Gesamtergebnis und jeweils in den Prüfungen nach den Absätzen 2 und 3 mindestens ausreichende Leistungen erbracht worden sind. Sie ist nicht bestanden, wenn eine der Prüfungsaufgaben nach Absatz 2 oder eines der Prüfungsfächer nach Absatz 3 mit ungenügend oder zwei der vorgenannten Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
@@ -743,95 +283,21 @@ m)
 
 (2) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens fünf Stunden fünf komplexe Prüfungsaufgaben durchführen und jeweils in einem Prüfungsgespräch erläutern. Der Bereich Pflanzenproduktion soll dabei mit mindestens drei Aufgaben und der Bereich Aufbereitung und Vermarktung mit mindestens einer Aufgabe vertreten sein. Der Prüfling soll zeigen, daß er die erworbenen Fertigkeiten und Kenntnisse praxisbezogen unter Verwendung geeigneter Maschinen, Geräte und technischer Einrichtungen anwenden kann. Dem Prüfling soll Gelegenheit gegeben werden, diese Maschinen, Geräte und technischen Einrichtungen vor der Prüfung kennenzulernen. Bei der praktischen Prüfung sollen die betrieblichen Ausbildungsschwerpunkte angemessen berücksichtigt werden. Für die Prüfungsaufgaben kommen insbesondere in Betracht:
 
-1.
+1. aus dem Bereich Pflanzenproduktion: a)Vermehren von Stauden,b)Anlegen von Staudenquartieren,c)Durchführen von Arbeiten an der Pflanze,d)Durchführen von Pflanzenschutzmaßnahmen,e)Durchführen von Düngungs- und Bewässerungsmaßnahmen; Vermehren von Stauden, Anlegen von Staudenquartieren, Durchführen von Arbeiten an der Pflanze, Durchführen von Pflanzenschutzmaßnahmen, Durchführen von Düngungs- und Bewässerungsmaßnahmen; dabei sind Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz, rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen sowie Beschaffen und Auswerten von Informationen einzubeziehen;
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-c)
+2. aus dem Bereich Aufbereitung und Vermarktung: a)Stauden auswählen und kennzeichnen,b)Stauden verpacken und verkaufsfertig machen,c)Staudenpflanzungen anlegen; Stauden auswählen und kennzeichnen, Stauden verpacken und verkaufsfertig machen, Staudenpflanzungen anlegen; dabei sind Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz, rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen, Beschaffen und Auswerten von Informationen sowie Verkaufen und Beraten einzubeziehen.
 
 (3) Der Prüfling soll in dem Prüfungsfach Kulturführung mündlich, in den Prüfungsfächern Pflanzenkenntnisse, Betriebliche Zusammenhänge sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. Im Prüfungsfach Kulturführung soll der Produktionsablauf verschiedener Kulturen im Mittelpunkt stehen. Es kommen Fragen und Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
-1.
+1. im Prüfungsfach Kulturführung: a)Bau und Leben der Pflanze,b)Grundlagen der Züchtung,c)Vermehrung und Jungpflanzenanzucht,d)Arbeiten an der Pflanze,e)kultursteuernde Maßnahmen,f)Böden, Erden und Substrate,g)Düngung und Bewässerung,h)Pflanzenschutz,i)Aufbereitung und Lagerung,k)Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit; Bau und Leben der Pflanze, Grundlagen der Züchtung, Vermehrung und Jungpflanzenanzucht, Arbeiten an der Pflanze, kultursteuernde Maßnahmen, Böden, Erden und Substrate, Düngung und Bewässerung, Pflanzenschutz, Aufbereitung und Lagerung, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit;
 
-a)
+2. im Prüfungsfach Pflanzenkenntnisse: a)Erkennen und Benennen von Pflanzen,b)Arten und Sorten marktwichtiger Stauden und ihre Verwendung,c)typische Absatz- und Blühtermine,d)Wildkräuter und Unkräuter,e)Artenschutz; Erkennen und Benennen von Pflanzen, Arten und Sorten marktwichtiger Stauden und ihre Verwendung, typische Absatz- und Blühtermine, Wildkräuter und Unkräuter, Artenschutz;
 
-b)
+3. im Prüfungsfach Betriebliche Zusammenhänge: a)natürliche und wirtschaftliche Standortfaktoren,b)Kulturräume und andere bauliche Anlagen,c)Maschinen, Geräte und technische Einrichtungen,d)Materialien und Betriebsmittel,e)anwendungsbezogene Berechnungen,f)Vermarktung,g)Natur- und Umweltschutz,h)rationelle Energie- und Materialverwendung,i)einschlägige Rechtsvorschriften,k)Einflußfaktoren auf die menschliche Arbeit,l)Informationsbeschaffung und -auswertung,m)Aufwendungen und Erträge; natürliche und wirtschaftliche Standortfaktoren, Kulturräume und andere bauliche Anlagen, Maschinen, Geräte und technische Einrichtungen, Materialien und Betriebsmittel, anwendungsbezogene Berechnungen, Vermarktung, Natur- und Umweltschutz, rationelle Energie- und Materialverwendung, einschlägige Rechtsvorschriften, Einflußfaktoren auf die menschliche Arbeit, Informationsbeschaffung und -auswertung, Aufwendungen und Erträge;
 
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-l)
-
-m)
-
-4.
-
-(4) Für die Prüfung nach Absatz 3 ist von folgenden zeitlichen Höchstwerten auszugehen:
+4. im Prüfungsfach Wirtschafts- und Sozialkunde: allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 (5) Sind in der schriftlichen Prüfung nach Absatz 3 die Prüfungsleistungen in bis zu zwei Fächern mit mangelhaft und in den übrigen Fächern mit mindestens ausreichend bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit mangelhaft bewerteten Fächer die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Das Fach ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für dieses Fach hat die schriftliche Prüfung gegenüber der mündlichen Prüfung das doppelte Gewicht.
-
-(6) Innerhalb der Prüfung nach Absatz 2 hat jede Prüfungsaufgabe und innerhalb der Prüfung nach Absatz 3 hat jedes Prüfungsfach das gleiche Gewicht. Für die Ermittlung des Gesamtergebnisses sind die Prüfungsleistungen wie folgt zu gewichten:
 
 (7) Die Prüfung ist bestanden, wenn im Gesamtergebnis und jeweils in den Prüfungen nach den Absätzen 2 und 3 mindestens ausreichende Leistungen erbracht worden sind. Sie ist nicht bestanden, wenn eine der Prüfungsaufgaben nach Absatz 2 oder eines der Prüfungsfächer nach Absatz 3 mit ungenügend oder zwei der vorgenannten Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
@@ -841,99 +307,21 @@ m)
 
 (2) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens fünf Stunden fünf komplexe Prüfungsaufgaben durchführen und jeweils in einem Prüfungsgespräch erläutern. Der Bereich Pflanzenproduktion soll dabei mit mindestens drei Aufgaben und der Bereich Pflanzenverwendung mit mindestens einer Aufgabe vertreten sein. Der Prüfling soll zeigen, daß er die erworbenen Fertigkeiten und Kenntnisse praxisbezogen unter Verwendung geeigneter Maschinen, Geräte und technischer Einrichtungen anwenden kann. Dem Prüfling soll Gelegenheit gegeben werden, diese Maschinen, Geräte und technischen Einrichtungen vor der Prüfung kennenzulernen. Bei der praktischen Prüfung sollen die betrieblichen Ausbildungsschwerpunkte angemessen berücksichtigt werden. Für die Prüfungsaufgaben kommen insbesondere in Betracht:
 
-1.
+1. aus dem Bereich Pflanzenproduktion: a)Vermehren von Zierpflanzen,b)Vorbereiten und Durchführen von Pflanzungen,c)Durchführen von Arbeiten an der Pflanze,d)Durchführen von Pflanzenschutzmaßnahmen,e)Durchführen von Düngungs- und Bewässerungsmaßnahmen,f)Durchführen von Ernte- und Aufbereitungsmaßnahmen; Vermehren von Zierpflanzen, Vorbereiten und Durchführen von Pflanzungen, Durchführen von Arbeiten an der Pflanze, Durchführen von Pflanzenschutzmaßnahmen, Durchführen von Düngungs- und Bewässerungsmaßnahmen, Durchführen von Ernte- und Aufbereitungsmaßnahmen; dabei sind Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz, rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen sowie Beschaffen und Auswerten von Informationen einzubeziehen;
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
+2. aus dem Bereich Pflanzenverwendung: a)Bepflanzen von Gefäßen,b)Durchführen und Pflegen von Innenraumbegrünungen,c)Bepflanzen von Rabatten,d)Binden von Sträußen; Bepflanzen von Gefäßen, Durchführen und Pflegen von Innenraumbegrünungen, Bepflanzen von Rabatten, Binden von Sträußen; dabei sind Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz, rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen, Beschaffen und Auswerten von Informationen sowie Verkaufen und Beraten einzubeziehen.
 
 (3) Der Prüfling soll in dem Prüfungsfach Kulturführung mündlich, in den Prüfungsfächern Pflanzenkenntnisse, Betriebliche Zusammenhänge sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. Im Prüfungsfach Kulturführung soll der Ablauf verschiedener Kulturen im Mittelpunkt stehen. Es kommen Fragen und Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
-1.
+1. im Prüfungsfach Kulturführung: a)Bau und Leben der Pflanze,b)Grundlagen der Züchtung,c)Vermehrung und Jungpflanzenanzucht,d)Arbeiten an der Pflanze,e)kultursteuernde Maßnahmen,f)Böden, Erden und Substrate,g)Düngung und Bewässerung,h)Pflanzenschutz,i)Ernte, Aufbereitung und Lagerung,k)Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit; Bau und Leben der Pflanze, Grundlagen der Züchtung, Vermehrung und Jungpflanzenanzucht, Arbeiten an der Pflanze, kultursteuernde Maßnahmen, Böden, Erden und Substrate, Düngung und Bewässerung, Pflanzenschutz, Ernte, Aufbereitung und Lagerung, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit;
 
-a)
+2. im Prüfungsfach Pflanzenkenntnisse: a)Erkennen und Benennen von Pflanzen,b)Arten und Sorten marktwichtiger Zierpflanzen und ihre Verwendung,c)typische Absatz- und Blühtermine,d)Wildkräuter und Unkräuter,e)Artenschutz; Erkennen und Benennen von Pflanzen, Arten und Sorten marktwichtiger Zierpflanzen und ihre Verwendung, typische Absatz- und Blühtermine, Wildkräuter und Unkräuter, Artenschutz;
 
-b)
+3. im Prüfungsfach Betriebliche Zusammenhänge: a)natürliche und wirtschaftliche Standortfaktoren,b)Kulturräume und technische Einrichtungen,c)Maschinen und Geräte,d)Materialien und Betriebsmittel,e)anwendungsbezogene Berechnungen,f)Vermarktung,g)Natur- und Umweltschutz,h)rationelle Energie- und Materialverwendung,i)einschlägige Rechtsvorschriften,k)Einflußfaktoren auf die menschliche Arbeit,l)Informationsbeschaffung und -auswertung,m)Aufwendungen und Erträge; natürliche und wirtschaftliche Standortfaktoren, Kulturräume und technische Einrichtungen, Maschinen und Geräte, Materialien und Betriebsmittel, anwendungsbezogene Berechnungen, Vermarktung, Natur- und Umweltschutz, rationelle Energie- und Materialverwendung, einschlägige Rechtsvorschriften, Einflußfaktoren auf die menschliche Arbeit, Informationsbeschaffung und -auswertung, Aufwendungen und Erträge;
 
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-l)
-
-m)
-
-4.
-
-(4) Für die Prüfung nach Absatz 3 ist von folgenden zeitlichen Höchstwerten auszugehen:
+4. im Prüfungsfach Wirtschafts- und Sozialkunde: allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 (5) Sind in der schriftlichen Prüfung nach Absatz 3 die Prüfungsleistungen in bis zu zwei Fächern mit mangelhaft und in den übrigen Fächern mit mindestens ausreichend bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit mangelhaft bewerteten Fächer die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Das Fach ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für dieses Fach hat die schriftliche Prüfung gegenüber der mündlichen Prüfung das doppelte Gewicht.
-
-(6) Innerhalb der Prüfung nach Absatz 2 hat jede Prüfungsaufgabe und innerhalb der Prüfung nach Absatz 3 hat jedes Prüfungsfach das gleiche Gewicht. Für die Ermittlung des Gesamtergebnisses sind die Prüfungsleistungen wie folgt zu gewichten:
 
 (7) Die Prüfung ist bestanden, wenn im Gesamtergebnis und jeweils in den Prüfungen nach den Absätzen 2 und 3 mindestens ausreichende Leistungen erbracht worden sind. Sie ist nicht bestanden, wenn eine der Prüfungsaufgaben nach Absatz 2 oder eines der Prüfungsfächer nach Absatz 3 mit ungenügend oder zwei der vorgenannten Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
@@ -947,1134 +335,154 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 ### Anlage 1a — (zu § 5)
 
-(Fundstelle: BGBl. I 1996, S. 387 - 392)
-
 ### Anlage 1b — (zu § 5)
 
-(Fundstelle: BGBl. I 1996, S. 393 - 395)
+1) In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1a Abschnitt I der Berufsbildpositionlfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen unter Einbeziehung der Berufsbildpositionenlfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge, Böden, Erden und Substrate, Kultur und Verwendung von Pflanzen zu vermitteln.
 
-1)
+2) In einem Zeitrahmen von insgesamt 4 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1a Abschnitt I der Berufsbildpositionenlfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Böden, Erden und Substrate, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe unter Einbeziehung der Berufsbildpositionenlfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit zu vermitteln.
 
-lfd. Nr. 1
+3) In einem Zeitrahmen von insgesamt 4 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1a Abschnitt I der Berufsbildpositionlfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen Kultur und Verwendung von Pflanzen unter Einbeziehung der Berufsbildpositionenlfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe zu vermitteln.
 
-lfd. Nr. 3.3
+1) In einem Zeitrahmen von insgesamt 3 bis 4 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1a Abschnitt II der Berufsbildpositionlfd. Nr. 4Böden, Erden und Substrate lfd. Nr. 4Böden, Erden und Substrate lfd. Nr. 4Böden, Erden und Substrate lfd. Nr. 4Böden, Erden und Substrate Böden, Erden und Substrate unter Einbeziehung der in Anlage 1a Abschnitt III aufgeführten Berufsbildpositionlfd. Nr. 4Produktionsverfahren lfd. Nr. 4Produktionsverfahren lfd. Nr. 4Produktionsverfahren lfd. Nr. 4Produktionsverfahren Produktionsverfahren zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 1a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 4
+2) In einem Zeitrahmen von insgesamt 4 bis 5 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1a Abschnitt II der Berufsbildpositionenlfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen Pflanzen und ihre Verwendung, Kultur- und Pflegemaßnahmen unter Einbeziehung der in Anlage 1a Abschnitt III aufgeführten Berufsbildpositionenlfd. Nr. 1Kulturräume und Kultureinrichtungen,lfd. Nr. 2Anlage von Baumschulquartieren und Flächen für Containerkulturen,lfd. Nr. 3Vermehrung und Jungpflanzenanzucht,lfd. Nr. 4Produktionsverfahren lfd. Nr. 1Kulturräume und Kultureinrichtungen,lfd. Nr. 2Anlage von Baumschulquartieren und Flächen für Containerkulturen,lfd. Nr. 3Vermehrung und Jungpflanzenanzucht,lfd. Nr. 4Produktionsverfahren lfd. Nr. 1Kulturräume und Kultureinrichtungen,lfd. Nr. 2Anlage von Baumschulquartieren und Flächen für Containerkulturen,lfd. Nr. 3Vermehrung und Jungpflanzenanzucht,lfd. Nr. 4Produktionsverfahren lfd. Nr. 1Kulturräume und Kultureinrichtungen,lfd. Nr. 2Anlage von Baumschulquartieren und Flächen für Containerkulturen,lfd. Nr. 3Vermehrung und Jungpflanzenanzucht,lfd. Nr. 4Produktionsverfahren Kulturräume und Kultureinrichtungen, Anlage von Baumschulquartieren und Flächen für Containerkulturen, Vermehrung und Jungpflanzenanzucht, Produktionsverfahren zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 1a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Berufsbildung, Aufbau und Organisation des Ausbildungsbetriebes, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 5
+3) In einem Zeitrahmen von insgesamt 3 bis 4 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1a Abschnitt II der Berufsbildpositionlfd. Nr. 5.3Nutzung pflanzlicher Produkte lfd. Nr. 5.3Nutzung pflanzlicher Produkte lfd. Nr. 5.3Nutzung pflanzlicher Produkte lfd. Nr. 5.3Nutzung pflanzlicher Produkte Nutzung pflanzlicher Produkte unter Einbeziehung der in Anlage 1a Abschnitt III aufgeführten Berufsbildpositionlfd. Nr. 5Roden, Sortieren, Kennzeichnen und Lagern lfd. Nr. 5Roden, Sortieren, Kennzeichnen und Lagern lfd. Nr. 5Roden, Sortieren, Kennzeichnen und Lagern lfd. Nr. 5Roden, Sortieren, Kennzeichnen und Lagern Roden, Sortieren, Kennzeichnen und Lagern zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 1a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Mitgestalten sozialer Beziehungen, Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, betriebliche Abläufe und wirtschaftliche Zusammenhänge, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-2)
+1) In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1a Abschnitt III der Berufsbildpositionenlfd. Nr. 2Anlage von Baumschulquartieren und Flächen für Containerkulturen,lfd. Nr. 3Vermehrung und Jungpflanzenanzucht lfd. Nr. 2Anlage von Baumschulquartieren und Flächen für Containerkulturen,lfd. Nr. 3Vermehrung und Jungpflanzenanzucht lfd. Nr. 2Anlage von Baumschulquartieren und Flächen für Containerkulturen,lfd. Nr. 3Vermehrung und Jungpflanzenanzucht lfd. Nr. 2Anlage von Baumschulquartieren und Flächen für Containerkulturen,lfd. Nr. 3Vermehrung und Jungpflanzenanzucht Anlage von Baumschulquartieren und Flächen für Containerkulturen, Vermehrung und Jungpflanzenanzucht im Zusammenhang mit der Berufsbildpositionlfd. Nr. 1Kulturräume und Kultureinrichtungen lfd. Nr. 1Kulturräume und Kultureinrichtungen lfd. Nr. 1Kulturräume und Kultureinrichtungen lfd. Nr. 1Kulturräume und Kultureinrichtungen Kulturräume und Kultureinrichtungen zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 1a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeitlfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeitlfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeitlfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeitlfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit Böden, Erden und Substrate, Pflanzen und ihre Verwendung, Kultur- und Pflegemaßnahmen, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 4
+2) In einem Zeitrahmen von insgesamt 4 bis 5 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1a Abschnitt III der Berufsbildpositionlfd. Nr. 4Produktionsverfahren lfd. Nr. 4Produktionsverfahren lfd. Nr. 4Produktionsverfahren lfd. Nr. 4Produktionsverfahren Produktionsverfahren im Zusammenhang mit der Berufsbildpositionlfd. Nr. 1Kulturräume und Kultureinrichtungen lfd. Nr. 1Kulturräume und Kultureinrichtungen lfd. Nr. 1Kulturräume und Kultureinrichtungen lfd. Nr. 1Kulturräume und Kultureinrichtungen Kulturräume und Kultureinrichtungen weiter zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 1a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Aufbau und Organisation des Ausbildungsbetriebes, Mitgestalten sozialer Beziehungen, Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Böden, Erden und Substrate, Pflanzen und ihre Verwendung, Kultur- und Pflegemaßnahmen, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 6
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-3)
-
-lfd. Nr. 5
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 6
-
-1)
-
-lfd. Nr. 4
-
-lfd. Nr. 4
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 6
-
-2)
-
-lfd. Nr. 5.1
-
-lfd. Nr. 5.2
-
-lfd. Nr. 1
-
-lfd. Nr. 2
-
-lfd. Nr. 3
-
-lfd. Nr. 4
-
-lfd. Nr. 1.1
-
-lfd. Nr. 1.2
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 6
-
-3)
-
-lfd. Nr. 5.3
-
-lfd. Nr. 5
-
-lfd. Nr. 1.3
-
-lfd. Nr. 1.4
-
-lfd. Nr. 2
-
-lfd. Nr. 3
-
-lfd. Nr. 6
-
-1)
-
-lfd. Nr. 2
-
-lfd. Nr. 3
-
-lfd. Nr. 1
-
-lfd. Nr. 1.4
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 4
-
-lfd. Nr. 5.1
-
-lfd. Nr. 5.2
-
-lfd. Nr. 6
-
-2)
-
-lfd. Nr. 4
-
-lfd. Nr. 1
-
-lfd. Nr. 1.2
-
-lfd. Nr. 1.3
-
-lfd. Nr. 1.4
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 4
-
-lfd. Nr. 5.1
-
-lfd. Nr. 5.2
-
-lfd. Nr. 6
-
-3)
-
-lfd. Nr. 5
-
-lfd. Nr. 6
-
-lfd. Nr. 1.3
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.3
-
-lfd. Nr. 5
-
-lfd. Nr. 6
+3) In einem Zeitrahmen von insgesamt 4 bis 5 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1a Abschnitt III der Berufsbildpositionlfd. Nr. 5Roden, Sortieren, Kennzeichnen und Lagern lfd. Nr. 5Roden, Sortieren, Kennzeichnen und Lagern lfd. Nr. 5Roden, Sortieren, Kennzeichnen und Lagern lfd. Nr. 5Roden, Sortieren, Kennzeichnen und Lagern Roden, Sortieren, Kennzeichnen und Lagern im Zusammenhang mit der Berufsbildpositionlfd. Nr. 6Verkaufen und Beraten lfd. Nr. 6Verkaufen und Beraten lfd. Nr. 6Verkaufen und Beraten lfd. Nr. 6Verkaufen und Beraten Verkaufen und Beraten zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 1a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5Kultur und Verwendung von Pflanzen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5Kultur und Verwendung von Pflanzen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5Kultur und Verwendung von Pflanzen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5Kultur und Verwendung von Pflanzen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Mitgestalten sozialer Beziehungen, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge, Kultur und Verwendung von Pflanzen, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
 ### Anlage 2a — (zu § 5)
 
-(Fundstelle: BGBl. I 1996, S. 396 - 401)
-
 ### Anlage 2b — (zu § 5)
 
-(Fundstelle: BGBl. I 1996, S. 402 - 404)
+1) In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 2a Abschnitt I der Berufsbildpositionlfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen unter Einbeziehung der Berufsbildpositionenlfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge, Böden, Erden und Substrate, Kultur und Verwendung von Pflanzen zu vermitteln.
 
-1)
+2) In einem Zeitrahmen von insgesamt 4 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 2a Abschnitt I der Berufsbildpositionenlfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Böden, Erden und Substrate, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe unter Einbeziehung der Berufsbildpositionenlfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit zu vermitteln.
 
-lfd. Nr. 1
+3) In einem Zeitrahmen von insgesamt 4 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 2a Abschnitt I der Berufsbildpositionlfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen Kultur und Verwendung von Pflanzen unter Einbeziehung der Berufsbildpositionenlfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe zu vermitteln.
 
-lfd. Nr. 3.3
+1) In einem Zeitrahmen von insgesamt 3 bis 4 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 2a Abschnitt II der Berufsbildpositionlfd. Nr. 4Böden, Erden und Substrate lfd. Nr. 4Böden, Erden und Substrate lfd. Nr. 4Böden, Erden und Substrate lfd. Nr. 4Böden, Erden und Substrate Böden, Erden und Substrate unter Einbeziehung der in Anlage 2a Abschnitt III aufgeführten Berufsbildpositionenlfd. Nr. 2Vermehrung und Weiterkultur,lfd. Nr. 3Grabstätten anlegen, pflegen und erneuern lfd. Nr. 2Vermehrung und Weiterkultur,lfd. Nr. 3Grabstätten anlegen, pflegen und erneuern lfd. Nr. 2Vermehrung und Weiterkultur,lfd. Nr. 3Grabstätten anlegen, pflegen und erneuern lfd. Nr. 2Vermehrung und Weiterkultur,lfd. Nr. 3Grabstätten anlegen, pflegen und erneuern Vermehrung und Weiterkultur, Grabstätten anlegen, pflegen und erneuern zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 2a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 4
+2) In einem Zeitrahmen von insgesamt 4 bis 5 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 2a Abschnitt II der Berufsbildpositionenlfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen Pflanzen und ihre Verwendung, Kultur- und Pflegemaßnahmen unter Einbeziehung der in Anlage 2a Abschnitt III aufgeführten Berufsbildpositionenlfd. Nr. 1Kulturräume und Kultureinrichtungen,lfd. Nr. 2Vermehrung und Weiterkultur,lfd. Nr. 3Grabstätten anlegen, pflegen und erneuern,lfd. Nr. 4Trauerbinderei und Dekoration lfd. Nr. 1Kulturräume und Kultureinrichtungen,lfd. Nr. 2Vermehrung und Weiterkultur,lfd. Nr. 3Grabstätten anlegen, pflegen und erneuern,lfd. Nr. 4Trauerbinderei und Dekoration lfd. Nr. 1Kulturräume und Kultureinrichtungen,lfd. Nr. 2Vermehrung und Weiterkultur,lfd. Nr. 3Grabstätten anlegen, pflegen und erneuern,lfd. Nr. 4Trauerbinderei und Dekoration lfd. Nr. 1Kulturräume und Kultureinrichtungen,lfd. Nr. 2Vermehrung und Weiterkultur,lfd. Nr. 3Grabstätten anlegen, pflegen und erneuern,lfd. Nr. 4Trauerbinderei und Dekoration Kulturräume und Kultureinrichtungen, Vermehrung und Weiterkultur, Grabstätten anlegen, pflegen und erneuern, Trauerbinderei und Dekoration zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 2a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Berufsbildung, Aufbau und Organisation des Ausbildungsbetriebes, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 5
+3) In einem Zeitrahmen von insgesamt 3 bis 4 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 2a Abschnitt II der Berufsbildpositionlfd. Nr. 5.3Nutzung pflanzlicher Produkte lfd. Nr. 5.3Nutzung pflanzlicher Produkte lfd. Nr. 5.3Nutzung pflanzlicher Produkte lfd. Nr. 5.3Nutzung pflanzlicher Produkte Nutzung pflanzlicher Produkte unter Einbeziehung der in Anlage 2a Abschnitt III aufgeführten Berufsbildpositionenlfd. Nr. 3Grabstätten anlegen, pflegen und erneuern,lfd. Nr. 4Trauerbinderei und Dekoration lfd. Nr. 3Grabstätten anlegen, pflegen und erneuern,lfd. Nr. 4Trauerbinderei und Dekoration lfd. Nr. 3Grabstätten anlegen, pflegen und erneuern,lfd. Nr. 4Trauerbinderei und Dekoration lfd. Nr. 3Grabstätten anlegen, pflegen und erneuern,lfd. Nr. 4Trauerbinderei und Dekoration Grabstätten anlegen, pflegen und erneuern, Trauerbinderei und Dekoration zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 2a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Mitgestalten sozialer Beziehungen, Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, betriebliche Abläufe und wirtschaftliche Zusammenhänge, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-2)
+1) In einem Zeitrahmen von insgesamt 2 bis 4 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 2a Abschnitt III der Berufsbildpositionlfd. Nr. 2Vermehrung und Weiterkultur lfd. Nr. 2Vermehrung und Weiterkultur lfd. Nr. 2Vermehrung und Weiterkultur lfd. Nr. 2Vermehrung und Weiterkultur Vermehrung und Weiterkultur im Zusammenhang mit der Berufsbildpositionlfd. Nr. 1Kulturräume und Kultureinrichtungen lfd. Nr. 1Kulturräume und Kultureinrichtungen lfd. Nr. 1Kulturräume und Kultureinrichtungen lfd. Nr. 1Kulturräume und Kultureinrichtungen Kulturräume und Kultureinrichtungen zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 2a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Böden, Erden und Substrate, Pflanzen und ihre Verwendung, Kultur- und Pflegemaßnahmen, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 4
+2) In einem Zeitrahmen von insgesamt 6 bis 8 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 2a Abschnitt III der Berufsbildpositionlfd. Nr. 3Grabstätten anlegen, pflegen und erneuern lfd. Nr. 3Grabstätten anlegen, pflegen und erneuern lfd. Nr. 3Grabstätten anlegen, pflegen und erneuern lfd. Nr. 3Grabstätten anlegen, pflegen und erneuern Grabstätten anlegen, pflegen und erneuern im Zusammenhang mit den Berufsbildpositionenlfd. Nr. 1Kulturräume und Kultureinrichtungenlfd. Nr. 4Trauerbinderei und Dekoration lfd. Nr. 1Kulturräume und Kultureinrichtungenlfd. Nr. 4Trauerbinderei und Dekoration lfd. Nr. 1Kulturräume und Kultureinrichtungenlfd. Nr. 4Trauerbinderei und Dekoration lfd. Nr. 1Kulturräume und Kultureinrichtungenlfd. Nr. 4Trauerbinderei und Dekoration Kulturräume und Kultureinrichtungen Trauerbinderei und Dekoration zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 2a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Aufbau und Organisation des Ausbildungsbetriebes, Mitgestalten sozialer Beziehungen, Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Böden, Erden und Substrate, Pflanzen und ihre Verwendung, Kultur- und Pflegemaßnahmen, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 6
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-3)
-
-lfd. Nr. 5
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 6
-
-1)
-
-lfd. Nr. 4
-
-lfd. Nr. 2
-
-lfd. Nr. 3
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 6
-
-2)
-
-lfd. Nr. 5.1
-
-lfd. Nr. 5.2
-
-lfd. Nr. 1
-
-lfd. Nr. 2
-
-lfd. Nr. 3
-
-lfd. Nr. 4
-
-lfd. Nr. 1.1
-
-lfd. Nr. 1.2
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 6
-
-3)
-
-lfd. Nr. 5.3
-
-lfd. Nr. 3
-
-lfd. Nr. 4
-
-lfd. Nr. 1.3
-
-lfd. Nr. 1.4
-
-lfd. Nr. 2
-
-lfd. Nr. 3
-
-lfd. Nr. 6
-
-1)
-
-lfd. Nr. 2
-
-lfd. Nr. 1
-
-lfd. Nr. 1.4
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 4
-
-lfd. Nr. 5.1
-
-lfd. Nr. 5.2
-
-lfd. Nr. 6
-
-2)
-
-lfd. Nr. 3
-
-lfd. Nr. 1
-
-lfd. Nr. 4
-
-lfd. Nr. 1.2
-
-lfd. Nr. 1.3
-
-lfd. Nr. 1.4
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 4
-
-lfd. Nr. 5.1
-
-lfd. Nr. 5.2
-
-lfd. Nr. 6
-
-3)
-
-lfd. Nr. 4
-
-lfd. Nr. 3
-
-lfd. Nr. 5
-
-lfd. Nr. 1.3
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.3
-
-lfd. Nr. 5.3
-
-lfd. Nr. 6
+3) In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 2a Abschnitt III der Berufsbildpositionlfd. Nr. 4Trauerbinderei und Dekoration lfd. Nr. 4Trauerbinderei und Dekoration lfd. Nr. 4Trauerbinderei und Dekoration lfd. Nr. 4Trauerbinderei und Dekoration Trauerbinderei und Dekoration im Zusammenhang mit den Berufsbildpositionenlfd. Nr. 3Grabstätten anlegen, pflegen und erneuern,lfd. Nr. 5Verkaufen und Beraten lfd. Nr. 3Grabstätten anlegen, pflegen und erneuern,lfd. Nr. 5Verkaufen und Beraten lfd. Nr. 3Grabstätten anlegen, pflegen und erneuern,lfd. Nr. 5Verkaufen und Beraten lfd. Nr. 3Grabstätten anlegen, pflegen und erneuern,lfd. Nr. 5Verkaufen und Beraten Grabstätten anlegen, pflegen und erneuern, Verkaufen und Beraten zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 2a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5.3Nutzung pflanzlicher Produkte,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5.3Nutzung pflanzlicher Produkte,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5.3Nutzung pflanzlicher Produkte,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5.3Nutzung pflanzlicher Produkte,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Mitgestalten sozialer Beziehungen, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge, Nutzung pflanzlicher Produkte, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
 ### Anlage 3a — (zu § 5)
 
-(Fundstelle: BGBl. I 1996, S. 405 - 410)
-
 ### Anlage 3b — (zu § 5)
 
-(Fundstelle: BGBl. I 1996, S. 411 - 413)
+1) In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 3a Abschnitt I der Berufsbildpositionlfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen unter Einbeziehung der Berufsbildpositionenlfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge, Böden, Erden und Substrate, Kultur und Verwendung von Pflanzen zu vermitteln.
 
-1)
+2) In einem Zeitrahmen von insgesamt 4 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 3a Abschnitt I der Berufsbildpositionenlfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Böden, Erden und Substrate, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe unter Einbeziehung der Berufsbildpositionenlfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit zu vermitteln.
 
-lfd. Nr. 1
+3) In einem Zeitrahmen von insgesamt 4 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 3a Abschnitt I der Berufsbildpositionlfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen Kultur und Verwendung von Pflanzen unter Einbeziehung der Berufsbildpositionenlfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeitlfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeitlfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeitlfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeitlfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe zu vermitteln.
 
-lfd. Nr. 3.3
+1) In einem Zeitrahmen von insgesamt 4 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 3a Abschnitt II der Berufsbildpositionlfd. Nr. 4Böden, Erden und Substratelfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substratelfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substratelfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substratelfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Böden, Erden und Substrate Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe unter Einbeziehung der in Anlage 3a Abschnitt III aufgeführten Berufsbildpositionenlfd. Nr. 2Ausführen von Erdarbeiten sowie Be- und Entwässerungsmaßnahmen,lfd. Nr. 3Herstellen von befestigten Flächen,lfd. Nr. 4Herstellen von Bauwerken in Außenanlagen lfd. Nr. 2Ausführen von Erdarbeiten sowie Be- und Entwässerungsmaßnahmen,lfd. Nr. 3Herstellen von befestigten Flächen,lfd. Nr. 4Herstellen von Bauwerken in Außenanlagen lfd. Nr. 2Ausführen von Erdarbeiten sowie Be- und Entwässerungsmaßnahmen,lfd. Nr. 3Herstellen von befestigten Flächen,lfd. Nr. 4Herstellen von Bauwerken in Außenanlagen lfd. Nr. 2Ausführen von Erdarbeiten sowie Be- und Entwässerungsmaßnahmen,lfd. Nr. 3Herstellen von befestigten Flächen,lfd. Nr. 4Herstellen von Bauwerken in Außenanlagen Ausführen von Erdarbeiten sowie Be- und Entwässerungsmaßnahmen, Herstellen von befestigten Flächen, Herstellen von Bauwerken in Außenanlagen zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 3a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit fortzuführen.
 
-lfd. Nr. 4
+2) In einem Zeitrahmen von insgesamt 3 bis 4 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 3a Abschnitt II der Berufsbildpositionlfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen Kultur und Verwendung von Pflanzen unter Einbeziehung der in Anlage 3a Abschnitt III aufgeführten Berufsbildpositionenlfd. Nr. 2Ausführen von Erdarbeiten sowie Be- und Entwässerungsmaßnahmen,lfd. Nr. 5Ausführen von vegetationstechnischen Arbeiten lfd. Nr. 2Ausführen von Erdarbeiten sowie Be- und Entwässerungsmaßnahmen,lfd. Nr. 5Ausführen von vegetationstechnischen Arbeiten lfd. Nr. 2Ausführen von Erdarbeiten sowie Be- und Entwässerungsmaßnahmen,lfd. Nr. 5Ausführen von vegetationstechnischen Arbeiten lfd. Nr. 2Ausführen von Erdarbeiten sowie Be- und Entwässerungsmaßnahmen,lfd. Nr. 5Ausführen von vegetationstechnischen Arbeiten Ausführen von Erdarbeiten sowie Be- und Entwässerungsmaßnahmen, Ausführen von vegetationstechnischen Arbeiten zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 3a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.1Berufsbildung,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.1Berufsbildung,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.1Berufsbildung,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.1Berufsbildung,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Berufsbildung, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 5
+3) In einem Zeitrahmen von insgesamt 3 bis 4 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 3a Abschnitt II der Berufsbildpositionlfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge betriebliche Abläufe und wirtschaftliche Zusammenhänge unter Einbeziehung der in Anlage 3a Abschnitt III aufgeführten Berufsbildpositionenlfd. Nr. 1Vorbereiten, Einrichten und Abwickeln von Baustellen,lfd. Nr. 3Herstellen von befestigten Flächen,lfd. Nr. 4Herstellen von Bauwerken in Außenanlagen lfd. Nr. 1Vorbereiten, Einrichten und Abwickeln von Baustellen,lfd. Nr. 3Herstellen von befestigten Flächen,lfd. Nr. 4Herstellen von Bauwerken in Außenanlagen lfd. Nr. 1Vorbereiten, Einrichten und Abwickeln von Baustellen,lfd. Nr. 3Herstellen von befestigten Flächen,lfd. Nr. 4Herstellen von Bauwerken in Außenanlagen lfd. Nr. 1Vorbereiten, Einrichten und Abwickeln von Baustellen,lfd. Nr. 3Herstellen von befestigten Flächen,lfd. Nr. 4Herstellen von Bauwerken in Außenanlagen Vorbereiten, Einrichten und Abwickeln von Baustellen, Herstellen von befestigten Flächen, Herstellen von Bauwerken in Außenanlagen zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 3a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Aufbau und Organisation des Ausbildungsbetriebes, Mitgestalten sozialer Beziehungen, Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-2)
+1) In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 3a Abschnitt III der Berufsbildpositionenlfd. Nr. 1Vorbereiten, Einrichten und Abwickeln von Baustellen,lfd. Nr. 2Ausführen von Erdarbeiten sowie Be- und Entwässerungsmaßnahmen lfd. Nr. 1Vorbereiten, Einrichten und Abwickeln von Baustellen,lfd. Nr. 2Ausführen von Erdarbeiten sowie Be- und Entwässerungsmaßnahmen lfd. Nr. 1Vorbereiten, Einrichten und Abwickeln von Baustellen,lfd. Nr. 2Ausführen von Erdarbeiten sowie Be- und Entwässerungsmaßnahmen lfd. Nr. 1Vorbereiten, Einrichten und Abwickeln von Baustellen,lfd. Nr. 2Ausführen von Erdarbeiten sowie Be- und Entwässerungsmaßnahmen Vorbereiten, Einrichten und Abwickeln von Baustellen, Ausführen von Erdarbeiten sowie Be- und Entwässerungsmaßnahmen zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 3a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, betriebliche Abläufe und wirtschaftliche Zusammenhänge, Böden, Erden und Substrate, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 4
+2) In einem Zeitrahmen von insgesamt 4 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 3a Abschnitt III der Berufsbildpositionlfd. Nr. 3Herstellen von befestigten Flächen lfd. Nr. 3Herstellen von befestigten Flächen lfd. Nr. 3Herstellen von befestigten Flächen lfd. Nr. 3Herstellen von befestigten Flächen Herstellen von befestigten Flächen im Zusammenhang mit der Berufsbildpositionlfd. Nr. 1Vorbereiten, Einrichten und Abwickeln von Baustellen lfd. Nr. 1Vorbereiten, Einrichten und Abwickeln von Baustellen lfd. Nr. 1Vorbereiten, Einrichten und Abwickeln von Baustellen lfd. Nr. 1Vorbereiten, Einrichten und Abwickeln von Baustellen Vorbereiten, Einrichten und Abwickeln von Baustellen zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 3a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 6
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-3)
-
-lfd. Nr. 5
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 6
-
-1)
-
-lfd. Nr. 4
-
-lfd. Nr. 6
-
-lfd. Nr. 2
-
-lfd. Nr. 3
-
-lfd. Nr. 4
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-2)
-
-lfd. Nr. 5
-
-lfd. Nr. 2
-
-lfd. Nr. 5
-
-lfd. Nr. 1.1
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 6
-
-3)
-
-lfd. Nr. 3
-
-lfd. Nr. 1
-
-lfd. Nr. 3
-
-lfd. Nr. 4
-
-lfd. Nr. 1.2
-
-lfd. Nr. 1.3
-
-lfd. Nr. 1.4
-
-lfd. Nr. 2
-
-lfd. Nr. 6
-
-1)
-
-lfd. Nr. 1
-
-lfd. Nr. 2
-
-lfd. Nr. 1.4
-
-lfd. Nr. 2
-
-lfd. Nr. 3
-
-lfd. Nr. 4
-
-lfd. Nr. 6
-
-2)
-
-lfd. Nr. 3
-
-lfd. Nr. 1
-
-lfd. Nr. 1
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 6
-
-3)
-
-lfd. Nr. 4
-
-lfd. Nr. 5
-
-lfd. Nr. 1
-
-lfd. Nr. 1.3
-
-lfd. Nr. 1.4
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 5
-
-lfd. Nr. 6
+3) In einem Zeitrahmen von insgesamt 4 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 3a Abschnitt III der Berufsbildpositionenlfd. Nr. 4Herstellen von Bauwerken in Außenanlagen,lfd. Nr. 5Ausführen von vegetationstechnischen Arbeiten lfd. Nr. 4Herstellen von Bauwerken in Außenanlagen,lfd. Nr. 5Ausführen von vegetationstechnischen Arbeiten lfd. Nr. 4Herstellen von Bauwerken in Außenanlagen,lfd. Nr. 5Ausführen von vegetationstechnischen Arbeiten lfd. Nr. 4Herstellen von Bauwerken in Außenanlagen,lfd. Nr. 5Ausführen von vegetationstechnischen Arbeiten Herstellen von Bauwerken in Außenanlagen, Ausführen von vegetationstechnischen Arbeiten im Zusammenhang mit der Berufsbildpositionlfd. Nr. 1Vorbereiten, Einrichten und Abwickeln von Baustellen lfd. Nr. 1Vorbereiten, Einrichten und Abwickeln von Baustellen lfd. Nr. 1Vorbereiten, Einrichten und Abwickeln von Baustellen lfd. Nr. 1Vorbereiten, Einrichten und Abwickeln von Baustellen Vorbereiten, Einrichten und Abwickeln von Baustellen zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 3a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 5Kultur und Verwendung von Pflanzen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 5Kultur und Verwendung von Pflanzen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 5Kultur und Verwendung von Pflanzen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 5Kultur und Verwendung von Pflanzen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Mitgestalten sozialer Beziehungen, Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Kultur und Verwendung von Pflanzen, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
 ### Anlage 4a — (zu § 5)
 
-(Fundstelle: BGBl. I 1996, S. 414 - 419)
-
 ### Anlage 4b — (zu § 5)
 
-(Fundstelle: BGBl. I 1996, S. 420 - 422)
+1) In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 4a Abschnitt I der Berufsbildpositionlfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen unter Einbeziehung der Berufsbildpositionenlfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge, Böden, Erden und Substrate, Kultur und Verwendung von Pflanzen zu vermitteln.
 
-1)
+2) In einem Zeitrahmen von insgesamt 4 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 4a Abschnitt I der Berufsbildpositionenlfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Böden, Erden und Substrate, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe unter Einbeziehung der Berufsbildpositionenlfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit zu vermitteln.
 
-lfd. Nr. 1
+3) In einem Zeitrahmen von insgesamt 4 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 4a Abschnitt I der Berufsbildpositionlfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen Kultur und Verwendung von Pflanzen unter Einbeziehung der Berufsbildpositionenlfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe zu vermitteln.
 
-lfd. Nr. 3.3
+1) In einem Zeitrahmen von insgesamt 3 bis 4 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 4a Abschnitt II der Berufsbildpositionlfd. Nr. 4Böden, Erden und Substrate lfd. Nr. 4Böden, Erden und Substrate lfd. Nr. 4Böden, Erden und Substrate lfd. Nr. 4Böden, Erden und Substrate Böden, Erden und Substrate unter Einbeziehung der in Anlage 4a Abschnitt III aufgeführten Berufsbildpositionlfd. Nr. 3Produktionsverfahren lfd. Nr. 3Produktionsverfahren lfd. Nr. 3Produktionsverfahren lfd. Nr. 3Produktionsverfahren Produktionsverfahren zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 4a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 4
+2) In einem Zeitrahmen von insgesamt 4 bis 5 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 4a Abschnitt II der Berufsbildpositionenlfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen Pflanzen und ihre Verwendung, Kultur- und Pflegemaßnahmen unter Einbeziehung der in Anlage 4a Abschnitt III aufgeführten Berufsbildpositionenlfd. Nr. 1Produktionsräume und Produktionseinrichtungen,lfd. Nr. 2Vermehrung und Jungpflanzenanzucht,lfd. Nr. 3Produktionsverfahren lfd. Nr. 1Produktionsräume und Produktionseinrichtungen,lfd. Nr. 2Vermehrung und Jungpflanzenanzucht,lfd. Nr. 3Produktionsverfahren lfd. Nr. 1Produktionsräume und Produktionseinrichtungen,lfd. Nr. 2Vermehrung und Jungpflanzenanzucht,lfd. Nr. 3Produktionsverfahren lfd. Nr. 1Produktionsräume und Produktionseinrichtungen,lfd. Nr. 2Vermehrung und Jungpflanzenanzucht,lfd. Nr. 3Produktionsverfahren Produktionsräume und Produktionseinrichtungen, Vermehrung und Jungpflanzenanzucht, Produktionsverfahren zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 4a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Berufsbildung, Aufbau und Organisation des Ausbildungsbetriebes, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 5
+3) In einem Zeitrahmen von insgesamt 3 bis 4 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 4a Abschnitt II der Berufsbildpositionlfd. Nr. 5.3Nutzung pflanzlicher Produkte lfd. Nr. 5.3Nutzung pflanzlicher Produkte lfd. Nr. 5.3Nutzung pflanzlicher Produkte lfd. Nr. 5.3Nutzung pflanzlicher Produkte Nutzung pflanzlicher Produkte unter Einbeziehung der in Anlage 4a Abschnitt III aufgeführten Berufsbildpositionlfd. Nr. 4Ernten, Aufbereiten und Lagern lfd. Nr. 4Ernten, Aufbereiten und Lagern lfd. Nr. 4Ernten, Aufbereiten und Lagern lfd. Nr. 4Ernten, Aufbereiten und Lagern Ernten, Aufbereiten und Lagern zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 4a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Mitgestalten sozialer Beziehungen, Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, betriebliche Abläufe und wirtschaftliche Zusammenhänge, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-2)
+1) In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 4a Abschnitt III der Berufsbildpositionlfd. Nr. 2Vermehrung und Jungpflanzenanzucht lfd. Nr. 2Vermehrung und Jungpflanzenanzucht lfd. Nr. 2Vermehrung und Jungpflanzenanzucht lfd. Nr. 2Vermehrung und Jungpflanzenanzucht Vermehrung und Jungpflanzenanzucht im Zusammenhang mit der Berufsbildpositionlfd. Nr. 1Produktionsräume und Produktionseinrichtungen lfd. Nr. 1Produktionsräume und Produktionseinrichtungen lfd. Nr. 1Produktionsräume und Produktionseinrichtungen lfd. Nr. 1Produktionsräume und Produktionseinrichtungen Produktionsräume und Produktionseinrichtungen zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 4a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Böden, Erden und Substrate, Pflanzen und ihre Verwendung, Kultur- und Pflegemaßnahmen, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 4
+2) In einem Zeitrahmen von insgesamt 4 bis 5 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 4a Abschnitt III der Berufsbildpositionlfd. Nr. 3Produktionsverfahren lfd. Nr. 3Produktionsverfahren lfd. Nr. 3Produktionsverfahren lfd. Nr. 3Produktionsverfahren Produktionsverfahren im Zusammenhang mit der Berufsbildpositionlfd. Nr. 1Produktionsräume und Produktionseinrichtungen lfd. Nr. 1Produktionsräume und Produktionseinrichtungen lfd. Nr. 1Produktionsräume und Produktionseinrichtungen lfd. Nr. 1Produktionsräume und Produktionseinrichtungen Produktionsräume und Produktionseinrichtungen weiter zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 4a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Aufbau und Organisation des Ausbildungsbetriebes, Mitgestalten sozialer Beziehungen, Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Böden, Erden und Substrate, Pflanzen und ihre Verwendung, Kultur- und Pflegemaßnahmen, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 6
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-3)
-
-lfd. Nr. 5
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 6
-
-1)
-
-lfd. Nr. 4
-
-lfd. Nr. 3
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 6
-
-2)
-
-lfd. Nr. 5.1
-
-lfd. Nr. 5.2
-
-lfd. Nr. 1
-
-lfd. Nr. 2
-
-lfd. Nr. 3
-
-lfd. Nr. 1.1
-
-lfd. Nr. 1.2
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 6
-
-3)
-
-lfd. Nr. 5.3
-
-lfd. Nr. 4
-
-lfd. Nr. 1.3
-
-lfd. Nr. 1.4
-
-lfd. Nr. 2
-
-lfd. Nr. 3
-
-lfd. Nr. 6
-
-1)
-
-lfd. Nr. 2
-
-lfd. Nr. 1
-
-lfd. Nr. 1.4
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 4
-
-lfd. Nr. 5.1
-
-lfd. Nr. 5.2
-
-lfd. Nr. 6
-
-2)
-
-lfd. Nr. 3
-
-lfd. Nr. 1
-
-lfd. Nr. 1.2
-
-lfd. Nr. 1.3
-
-lfd. Nr. 1.4
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 4
-
-lfd. Nr. 5.1
-
-lfd. Nr. 5.2
-
-lfd. Nr. 6
-
-3)
-
-lfd. Nr. 4
-
-lfd. Nr. 5
-
-lfd. Nr. 1.3
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.3
-
-lfd. Nr. 5.3
-
-lfd. Nr. 6
+3) In einem Zeitrahmen von insgesamt 4 bis 5 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 4a Abschnitt III der Berufsbildpositionlfd. Nr. 4Ernten, Aufbereiten und Lagern lfd. Nr. 4Ernten, Aufbereiten und Lagern lfd. Nr. 4Ernten, Aufbereiten und Lagern lfd. Nr. 4Ernten, Aufbereiten und Lagern Ernten, Aufbereiten und Lagern im Zusammenhang mit der Berufsbildpositionlfd. Nr. 5Vermarkten lfd. Nr. 5Vermarkten lfd. Nr. 5Vermarkten lfd. Nr. 5Vermarkten Vermarkten zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 4a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5.3Nutzung pflanzlicher Produkte,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5.3Nutzung pflanzlicher Produkte,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5.3Nutzung pflanzlicher Produkte,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5.3Nutzung pflanzlicher Produkte,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Mitgestalten sozialer Beziehungen, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge, Nutzung pflanzlicher Produkte, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
 ### Anlage 5a — (zu § 5)
 
-(Fundstelle: BGBl. I 1996, S. 423 - 428)
-
 ### Anlage 5b — (zu § 5)
 
-(Fundstelle: BGBl. I 1996, S. 429 - 431)
+1) In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 5a Abschnitt I der Berufsbildpositionlfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen unter Einbeziehung der Berufsbildpositionenlfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge, Böden, Erden und Substrate, Kultur und Verwendung von Pflanzen zu vermitteln.
 
-1)
+2) In einem Zeitrahmen von insgesamt 4 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 5a Abschnitt I der Berufsbildpositionenlfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Böden, Erden und Substrate, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe unter Einbeziehung der Berufsbildpositionenlfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit zu vermitteln.
 
-lfd. Nr. 1
+3) In einem Zeitrahmen von insgesamt 4 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 5a Abschnitt I der Berufsbildpositionlfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen Kultur und Verwendung von Pflanzen unter Einbeziehung der Berufsbildpositionenlfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe zu vermitteln.
 
-lfd. Nr. 3.3
+1) In einem Zeitrahmen von insgesamt 3 bis 4 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 5a Abschnitt II der Berufsbildpositionlfd. Nr. 4Böden, Erden und Substrate lfd. Nr. 4Böden, Erden und Substrate lfd. Nr. 4Böden, Erden und Substrate lfd. Nr. 4Böden, Erden und Substrate Böden, Erden und Substrate unter Einbeziehung der in Anlage 5a Abschnitt III aufgeführten Berufsbildpositionlfd. Nr. 2Produktionsverfahren lfd. Nr. 2Produktionsverfahren lfd. Nr. 2Produktionsverfahren lfd. Nr. 2Produktionsverfahren Produktionsverfahren zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 5a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 4
+2) In einem Zeitrahmen von insgesamt 4 bis 5 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 5a Abschnitt II der Berufsbildpositionenlfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen Pflanzen und ihre Verwendung, Kultur- und Pflegemaßnahmen unter Einbeziehung der in Anlage 5a Abschnitt III aufgeführten Berufsbildpositionenlfd. Nr. 1Anlegen von Obstpflanzungen,lfd. Nr. 2Produktionsverfahren lfd. Nr. 1Anlegen von Obstpflanzungen,lfd. Nr. 2Produktionsverfahren lfd. Nr. 1Anlegen von Obstpflanzungen,lfd. Nr. 2Produktionsverfahren lfd. Nr. 1Anlegen von Obstpflanzungen,lfd. Nr. 2Produktionsverfahren Anlegen von Obstpflanzungen, Produktionsverfahren zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 5a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Berufsbildung, Aufbau und Organisation des Ausbildungsbetriebes, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 5
+3) In einem Zeitrahmen von insgesamt 3 bis 4 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 5a Abschnitt II der Berufsbildpositionlfd. Nr. 5.3Nutzung pflanzlicher Produkte lfd. Nr. 5.3Nutzung pflanzlicher Produkte lfd. Nr. 5.3Nutzung pflanzlicher Produkte lfd. Nr. 5.3Nutzung pflanzlicher Produkte Nutzung pflanzlicher Produkte unter Einbeziehung der in Anlage 5a Abschnitt III aufgeführten Berufsbildpositionlfd. Nr. 3Ernten, Aufbereiten und Lagern lfd. Nr. 3Ernten, Aufbereiten und Lagern lfd. Nr. 3Ernten, Aufbereiten und Lagern lfd. Nr. 3Ernten, Aufbereiten und Lagern Ernten, Aufbereiten und Lagern zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 5a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Mitgestalten sozialer Beziehungen, Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, betriebliche Abläufe und wirtschaftliche Zusammenhänge, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-2)
+1) In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 5a Abschnitt III der Berufsbildpositionlfd. Nr. 1Anlegen von Obstpflanzungen lfd. Nr. 1Anlegen von Obstpflanzungen lfd. Nr. 1Anlegen von Obstpflanzungen lfd. Nr. 1Anlegen von Obstpflanzungen Anlegen von Obstpflanzungen im Zusammenhang mit der Berufsbildpositionlfd. Nr. 2Produktionsverfahren lfd. Nr. 2Produktionsverfahren lfd. Nr. 2Produktionsverfahren lfd. Nr. 2Produktionsverfahren Produktionsverfahren zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 5a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Böden, Erden und Substrate, Pflanzen und ihre Verwendung, Kultur- und Pflegemaßnahmen, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 4
+2) In einem Zeitrahmen von insgesamt 4 bis 5 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 5a Abschnitt III der Berufsbildpositionlfd. Nr. 2Produktionsverfahren lfd. Nr. 2Produktionsverfahren lfd. Nr. 2Produktionsverfahren lfd. Nr. 2Produktionsverfahren Produktionsverfahren im Zusammenhang mit der Berufsbildpositionlfd. Nr. 1Anlegen von Obstpflanzungen lfd. Nr. 1Anlegen von Obstpflanzungen lfd. Nr. 1Anlegen von Obstpflanzungen lfd. Nr. 1Anlegen von Obstpflanzungen Anlegen von Obstpflanzungen weiter zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 5a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Aufbau und Organisation des Ausbildungsbetriebes, Mitgestalten sozialer Beziehungen, Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Böden, Erden und Substrate, Pflanzen und ihre Verwendung, Kultur- und Pflegemaßnahmen, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 6
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-3)
-
-lfd. Nr. 5
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 6
-
-1)
-
-lfd. Nr. 4
-
-lfd. Nr. 2
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 6
-
-2)
-
-lfd. Nr. 5.1
-
-lfd. Nr. 5.2
-
-lfd. Nr. 1
-
-lfd. Nr. 2
-
-lfd. Nr. 1.1
-
-lfd. Nr. 1.2
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 6
-
-3)
-
-lfd. Nr. 5.3
-
-lfd. Nr. 3
-
-lfd. Nr. 1.3
-
-lfd. Nr. 1.4
-
-lfd. Nr. 2
-
-lfd. Nr. 3
-
-lfd. Nr. 6
-
-1)
-
-lfd. Nr. 1
-
-lfd. Nr. 2
-
-lfd. Nr. 1.4
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 4
-
-lfd. Nr. 5.1
-
-lfd. Nr. 5.2
-
-lfd. Nr. 6
-
-2)
-
-lfd. Nr. 2
-
-lfd. Nr. 1
-
-lfd. Nr. 1.2
-
-lfd. Nr. 1.3
-
-lfd. Nr. 1.4
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 4
-
-lfd. Nr. 5.1
-
-lfd. Nr. 5.2
-
-lfd. Nr. 6
-
-3)
-
-lfd. Nr. 3
-
-lfd. Nr. 4
-
-lfd. Nr. 1.3
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.3
-
-lfd. Nr. 5
-
-lfd. Nr. 6
+3) In einem Zeitrahmen von insgesamt 4 bis 5 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 5a Abschnitt III der Berufsbildpositionlfd. Nr. 3Ernten, Aufbereiten und Lagern lfd. Nr. 3Ernten, Aufbereiten und Lagern lfd. Nr. 3Ernten, Aufbereiten und Lagern lfd. Nr. 3Ernten, Aufbereiten und Lagern Ernten, Aufbereiten und Lagern im Zusammenhang mit der Berufsbildpositionlfd. Nr. 4Vermarkten lfd. Nr. 4Vermarkten lfd. Nr. 4Vermarkten lfd. Nr. 4Vermarkten Vermarkten zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 5a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5Kultur und Verwendung von Pflanzen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5Kultur und Verwendung von Pflanzen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5Kultur und Verwendung von Pflanzen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5Kultur und Verwendung von Pflanzen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Mitgestalten sozialer Beziehungen, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge, Kultur und Verwendung von Pflanzen, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
 ### Anlage 6a — (zu § 5)
 
-(Fundstelle: BGBl. I 1996, S. 432 - 437)
-
 ### Anlage 6b — (zu § 5)
 
-(Fundstelle: BGBl. I 1996, S. 438 - 440)
+1) In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 6a Abschnitt I der Berufsbildpositionlfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen unter Einbeziehung der Berufsbildpositionenlfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge, Böden, Erden und Substrate, Kultur und Verwendung von Pflanzen zu vermitteln.
 
-1)
+2) In einem Zeitrahmen von insgesamt 4 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 6a Abschnitt I der Berufsbildpositionenlfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Böden, Erden und Substrate, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe unter Einbeziehung der Berufsbildpositionenlfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit zu vermitteln.
 
-lfd. Nr. 1
+3) In einem Zeitrahmen von insgesamt 4 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 6a Abschnitt I der Berufsbildpositionlfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen Kultur und Verwendung von Pflanzen unter Einbeziehung der Berufsbildpositionenlfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe zu vermitteln.
 
-lfd. Nr. 3.3
+1) In einem Zeitrahmen von insgesamt 3 bis 4 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 6a Abschnitt II der Berufsbildpositionlfd. Nr. 4Böden, Erden und Substrate lfd. Nr. 4Böden, Erden und Substrate lfd. Nr. 4Böden, Erden und Substrate lfd. Nr. 4Böden, Erden und Substrate Böden, Erden und Substrate unter Einbeziehung der in Anlage 6a Abschnitt III aufgeführten Berufsbildpositionlfd. Nr. 3Produktionsverfahren lfd. Nr. 3Produktionsverfahren lfd. Nr. 3Produktionsverfahren lfd. Nr. 3Produktionsverfahren Produktionsverfahren zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 6a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 4
+2) In einem Zeitrahmen von insgesamt 4 bis 5 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 6a Abschnitt II der Berufsbildpositionenlfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen Pflanzen und ihre Verwendung, Kultur- und Pflegemaßnahmen unter Einbeziehung der in Anlage 6a Abschnitt III aufgeführten Berufsbildpositionenlfd. Nr. 1Kulturräume und Kultureinrichtungen,lfd. Nr. 2Vermehrung und Jungpflanzenanzucht,lfd. Nr. 3Produktionsverfahren lfd. Nr. 1Kulturräume und Kultureinrichtungen,lfd. Nr. 2Vermehrung und Jungpflanzenanzucht,lfd. Nr. 3Produktionsverfahren lfd. Nr. 1Kulturräume und Kultureinrichtungen,lfd. Nr. 2Vermehrung und Jungpflanzenanzucht,lfd. Nr. 3Produktionsverfahren lfd. Nr. 1Kulturräume und Kultureinrichtungen,lfd. Nr. 2Vermehrung und Jungpflanzenanzucht,lfd. Nr. 3Produktionsverfahren Kulturräume und Kultureinrichtungen, Vermehrung und Jungpflanzenanzucht, Produktionsverfahren zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 6a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Berufsbildung, Aufbau und Organisation des Ausbildungsbetriebes, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 5
+3) In einem Zeitrahmen von insgesamt 3 bis 4 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 6a Abschnitt II der Berufsbildpositionlfd. Nr. 5.3Nutzung pflanzlicher Produkte lfd. Nr. 5.3Nutzung pflanzlicher Produkte lfd. Nr. 5.3Nutzung pflanzlicher Produkte lfd. Nr. 5.3Nutzung pflanzlicher Produkte Nutzung pflanzlicher Produkte unter Einbeziehung der in Anlage 6a Abschnitt III aufgeführten Berufsbildpositionlfd. Nr. 4Auswählen und Aufbereiten lfd. Nr. 4Auswählen und Aufbereiten lfd. Nr. 4Auswählen und Aufbereiten lfd. Nr. 4Auswählen und Aufbereiten Auswählen und Aufbereiten zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 6a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Mitgestalten sozialer Beziehungen, Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, betriebliche Abläufe und wirtschaftliche Zusammenhänge, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-2)
+1) In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 6a Abschnitt III der Berufsbildpositionlfd. Nr. 2Vermehrung und Jungpflanzenanzucht lfd. Nr. 2Vermehrung und Jungpflanzenanzucht lfd. Nr. 2Vermehrung und Jungpflanzenanzucht lfd. Nr. 2Vermehrung und Jungpflanzenanzucht Vermehrung und Jungpflanzenanzucht im Zusammenhang mit der Berufsbildpositionlfd. Nr. 1Kulturräume und Kultureinrichtungen lfd. Nr. 1Kulturräume und Kultureinrichtungen lfd. Nr. 1Kulturräume und Kultureinrichtungen lfd. Nr. 1Kulturräume und Kultureinrichtungen Kulturräume und Kultureinrichtungen zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 6a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Böden, Erden und Substrate, Pflanzen und ihre Verwendung, Kultur- und Pflegemaßnahmen, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 4
+2) In einem Zeitrahmen von insgesamt 4 bis 5 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 6a Abschnitt III der Berufsbildpositionlfd. Nr. 3Produktionsverfahren lfd. Nr. 3Produktionsverfahren lfd. Nr. 3Produktionsverfahren lfd. Nr. 3Produktionsverfahren Produktionsverfahren im Zusammenhang mit der Berufsbildpositionlfd. Nr. 1Kulturräume und Kultureinrichtungen lfd. Nr. 1Kulturräume und Kultureinrichtungen lfd. Nr. 1Kulturräume und Kultureinrichtungen lfd. Nr. 1Kulturräume und Kultureinrichtungen Kulturräume und Kultureinrichtungen weiter zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 6a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Aufbau und Organisation des Ausbildungsbetriebes, Mitgestalten sozialer Beziehungen, Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Böden, Erden und Substrate, Pflanzen und ihre Verwendung, Kultur- und Pflegemaßnahmen, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 6
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-3)
-
-lfd. Nr. 5
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 6
-
-1)
-
-lfd. Nr. 4
-
-lfd. Nr. 3
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 6
-
-2)
-
-lfd. Nr. 5.1
-
-lfd. Nr. 5.2
-
-lfd. Nr. 1
-
-lfd. Nr. 2
-
-lfd. Nr. 3
-
-lfd. Nr. 1.1
-
-lfd. Nr. 1.2
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 6
-
-3)
-
-lfd. Nr. 5.3
-
-lfd. Nr. 4
-
-lfd. Nr. 1.3
-
-lfd. Nr. 1.4
-
-lfd. Nr. 2
-
-lfd. Nr. 3
-
-lfd. Nr. 6
-
-1)
-
-lfd. Nr. 2
-
-lfd. Nr. 1
-
-lfd. Nr. 1.4
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 4
-
-lfd. Nr. 5.1
-
-lfd. Nr. 5.2
-
-lfd. Nr. 6
-
-2)
-
-lfd. Nr. 3
-
-lfd. Nr. 1
-
-lfd. Nr. 1.2
-
-lfd. Nr. 1.3
-
-lfd. Nr. 1.4
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 4
-
-lfd. Nr. 5.1
-
-lfd. Nr. 5.2
-
-lfd. Nr. 6
-
-3)
-
-lfd. Nr. 4
-
-lfd. Nr. 5
-
-lfd. Nr. 1.3
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.3
-
-lfd. Nr. 5.3
-
-lfd. Nr. 6
+3) In einem Zeitrahmen von insgesamt 4 bis 5 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 6a Abschnitt III der Berufsbildpositionlfd. Nr. 4Auswählen und Aufbereiten lfd. Nr. 4Auswählen und Aufbereiten lfd. Nr. 4Auswählen und Aufbereiten lfd. Nr. 4Auswählen und Aufbereiten Auswählen und Aufbereiten im Zusammenhang mit der Berufsbildpositionlfd. Nr. 5Verkaufen und Beraten lfd. Nr. 5Verkaufen und Beraten lfd. Nr. 5Verkaufen und Beraten lfd. Nr. 5Verkaufen und Beraten Verkaufen und Beraten zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 6a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5.3Nutzung pflanzlicher Produkte,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5.3Nutzung pflanzlicher Produkte,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5.3Nutzung pflanzlicher Produkte,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5.3Nutzung pflanzlicher Produkte,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Mitgestalten sozialer Beziehungen, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge, Nutzung pflanzlicher Produkte, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
 ### Anlage 7a — (zu § 5)
 
-(Fundstelle: BGBl. I 1996, S. 441 - 446)
-
 ### Anlage 7b — (zu § 5)
 
-(Fundstelle: BGBl. I 1996, S. 447 - 449)
+1) In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 7a Abschnitt I der Berufsbildpositionlfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen lfd. Nr. 1der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen unter Einbeziehung der Berufsbildpositionenlfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5Kultur und Verwendung von Pflanzen Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge, Böden, Erden und Substrate, Kultur und Verwendung von Pflanzen zu vermitteln.
 
-1)
+2) In einem Zeitrahmen von insgesamt 4 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 7a Abschnitt I der Berufsbildpositionenlfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Böden, Erden und Substrate, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe unter Einbeziehung der Berufsbildpositionenlfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit zu vermitteln.
 
-lfd. Nr. 1
+3) In einem Zeitrahmen von insgesamt 4 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 7a Abschnitt I der Berufsbildpositionlfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen lfd. Nr. 5Kultur und Verwendung von Pflanzen Kultur und Verwendung von Pflanzen unter Einbeziehung der Berufsbildpositionenlfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe zu vermitteln.
 
-lfd. Nr. 3.3
+1) In einem Zeitrahmen von insgesamt 3 bis 4 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 7a Abschnitt II der Berufsbildpositionlfd. Nr. 4Böden, Erden und Substrate lfd. Nr. 4Böden, Erden und Substrate lfd. Nr. 4Böden, Erden und Substrate lfd. Nr. 4Böden, Erden und Substrate Böden, Erden und Substrate unter Einbeziehung der in Anlage 7a Abschnitt III aufgeführten Berufsbildpositionlfd. Nr. 3Produktionsverfahren lfd. Nr. 3Produktionsverfahren lfd. Nr. 3Produktionsverfahren lfd. Nr. 3Produktionsverfahren Produktionsverfahren zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 7a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 4
+2) In einem Zeitrahmen von insgesamt 4 bis 5 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 7a Abschnitt II der Berufsbildpositionenlfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen Pflanzen und ihre Verwendung, Kultur- und Pflegemaßnahmen unter Einbeziehung der in Anlage 7a Abschnitt III aufgeführten Berufsbildpositionenlfd. Nr. 1Kulturräume und Kultureinrichtungen,lfd. Nr. 2Vermehrung und Jungpflanzenanzucht,lfd. Nr. 3Produktionsverfahren lfd. Nr. 1Kulturräume und Kultureinrichtungen,lfd. Nr. 2Vermehrung und Jungpflanzenanzucht,lfd. Nr. 3Produktionsverfahren lfd. Nr. 1Kulturräume und Kultureinrichtungen,lfd. Nr. 2Vermehrung und Jungpflanzenanzucht,lfd. Nr. 3Produktionsverfahren lfd. Nr. 1Kulturräume und Kultureinrichtungen,lfd. Nr. 2Vermehrung und Jungpflanzenanzucht,lfd. Nr. 3Produktionsverfahren Kulturräume und Kultureinrichtungen, Vermehrung und Jungpflanzenanzucht, Produktionsverfahren zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 7a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.1Berufsbildung,lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Berufsbildung, Aufbau und Organisation des Ausbildungsbetriebes, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 5
+3) In einem Zeitrahmen von insgesamt 3 bis 4 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 7a Abschnitt II der Berufsbildpositionlfd. Nr. 5.3Nutzung pflanzlicher Produkte lfd. Nr. 5.3Nutzung pflanzlicher Produkte lfd. Nr. 5.3Nutzung pflanzlicher Produkte lfd. Nr. 5.3Nutzung pflanzlicher Produkte Nutzung pflanzlicher Produkte unter Einbeziehung der in Anlage 7a Abschnitt III aufgeführten Berufsbildpositionlfd. Nr. 4Ernten, Aufbereiten und Lagern lfd. Nr. 4Ernten, Aufbereiten und Lagern lfd. Nr. 4Ernten, Aufbereiten und Lagern lfd. Nr. 4Ernten, Aufbereiten und Lagern Ernten, Aufbereiten und Lagern zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 7a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3betriebliche Abläufe und wirtschaftliche Zusammenhänge,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Mitgestalten sozialer Beziehungen, Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, betriebliche Abläufe und wirtschaftliche Zusammenhänge, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-2)
+1) In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 7a Abschnitt III der Berufsbildpositionlfd. Nr. 2Vermehrung und Jungpflanzenanzucht lfd. Nr. 2Vermehrung und Jungpflanzenanzucht lfd. Nr. 2Vermehrung und Jungpflanzenanzucht lfd. Nr. 2Vermehrung und Jungpflanzenanzucht Vermehrung und Jungpflanzenanzucht im Zusammenhang mit der Berufsbildpositionlfd. Nr. 1Kulturräume und Kultureinrichtungen lfd. Nr. 1Kulturräume und Kultureinrichtungen lfd. Nr. 1Kulturräume und Kultureinrichtungen lfd. Nr. 1Kulturräume und Kultureinrichtungen Kulturräume und Kultureinrichtungen zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 7a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Böden, Erden und Substrate, Pflanzen und ihre Verwendung, Kultur- und Pflegemaßnahmen, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 4
+2) In einem Zeitrahmen von insgesamt 4 bis 5 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 7a Abschnitt III der Berufsbildpositionlfd. Nr. 3Produktionsverfahren lfd. Nr. 3Produktionsverfahren lfd. Nr. 3Produktionsverfahren lfd. Nr. 3Produktionsverfahren Produktionsverfahren im Zusammenhang mit der Berufsbildpositionlfd. Nr. 1Kulturräume und Kultureinrichtungen lfd. Nr. 1Kulturräume und Kultureinrichtungen lfd. Nr. 1Kulturräume und Kultureinrichtungen lfd. Nr. 1Kulturräume und Kultureinrichtungen Kulturräume und Kultureinrichtungen weiter zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 7a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.2Aufbau und Organisation des Ausbildungsbetriebes,lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 1.4Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.2Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,lfd. Nr. 4Böden, Erden und Substrate,lfd. Nr. 5.1Pflanzen und ihre Verwendung,lfd. Nr. 5.2Kultur- und Pflegemaßnahmen,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Aufbau und Organisation des Ausbildungsbetriebes, Mitgestalten sozialer Beziehungen, Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit, Böden, Erden und Substrate, Pflanzen und ihre Verwendung, Kultur- und Pflegemaßnahmen, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.
 
-lfd. Nr. 6
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-3)
-
-lfd. Nr. 5
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 6
-
-1)
-
-lfd. Nr. 4
-
-lfd. Nr. 3
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 6
-
-2)
-
-lfd. Nr. 5.1
-
-lfd. Nr. 5.2
-
-lfd. Nr. 1
-
-lfd. Nr. 2
-
-lfd. Nr. 3
-
-lfd. Nr. 1.1
-
-lfd. Nr. 1.2
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 6
-
-3)
-
-lfd. Nr. 5.3
-
-lfd. Nr. 4
-
-lfd. Nr. 1.3
-
-lfd. Nr. 1.4
-
-lfd. Nr. 2
-
-lfd. Nr. 3
-
-lfd. Nr. 6
-
-1)
-
-lfd. Nr. 2
-
-lfd. Nr. 1
-
-lfd. Nr. 1.4
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 4
-
-lfd. Nr. 5.1
-
-lfd. Nr. 5.2
-
-lfd. Nr. 6
-
-2)
-
-lfd. Nr. 3
-
-lfd. Nr. 1
-
-lfd. Nr. 1.2
-
-lfd. Nr. 1.3
-
-lfd. Nr. 1.4
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.2
-
-lfd. Nr. 4
-
-lfd. Nr. 5.1
-
-lfd. Nr. 5.2
-
-lfd. Nr. 6
-
-3)
-
-lfd. Nr. 4
-
-lfd. Nr. 5
-
-lfd. Nr. 1.3
-
-lfd. Nr. 2
-
-lfd. Nr. 3.1
-
-lfd. Nr. 3.3
-
-lfd. Nr. 5.3
-
-lfd. Nr. 6
+3) In einem Zeitrahmen von insgesamt 4 bis 5 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 7a Abschnitt III der Berufsbildpositionlfd. Nr. 4Ernten, Aufbereiten und Lagern lfd. Nr. 4Ernten, Aufbereiten und Lagern lfd. Nr. 4Ernten, Aufbereiten und Lagern lfd. Nr. 4Ernten, Aufbereiten und Lagern Ernten, Aufbereiten und Lagern im Zusammenhang mit der Berufsbildpositionlfd. Nr. 5Verkaufen und Beraten lfd. Nr. 5Verkaufen und Beraten lfd. Nr. 5Verkaufen und Beraten lfd. Nr. 5Verkaufen und Beraten Verkaufen und Beraten zu vermitteln. Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 7a Abschnitt I und II der Berufsbildpositionenlfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5.3Nutzung pflanzlicher Produkte,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5.3Nutzung pflanzlicher Produkte,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5.3Nutzung pflanzlicher Produkte,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe lfd. Nr. 1.3Mitgestalten sozialer Beziehungen,lfd. Nr. 2Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,lfd. Nr. 3.1Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,lfd. Nr. 3.3Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,lfd. Nr. 5.3Nutzung pflanzlicher Produkte,lfd. Nr. 6Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe Mitgestalten sozialer Beziehungen, Natur- und Umweltschutz; rationelle Energie- und Materialverwendung, Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen, Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge, Nutzung pflanzlicher Produkte, Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe fortzuführen.

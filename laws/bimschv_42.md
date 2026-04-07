@@ -17,85 +17,73 @@ Die Bundesregierung verordnet auf Grund des § 23 Absatz 1 Satz 1 des Bundes-Imm
 
 (1) Diese Verordnung gilt für die Errichtung, die Beschaffenheit und den Betrieb folgender Anlagen, in denen Wasser verrieselt oder versprüht wird oder anderweitig in Kontakt mit der Atmosphäre kommen kann:
 
-1.
+1. Verdunstungskühlanlagen,
 
-2.
+2. Kühltürme und
 
-3.
+3. Nassabscheider.
 
 (2) Diese Verordnung gilt nicht für
 
-1.
+1. Verdunstungskühlanlagen, bei denen Kondenswasserbildung durch Taupunktunterschreitung möglich ist, insbesondere Anlagen mit Kaltwassersätzen,
 
-2.
+2. Wärmeübertrager, in denen a)das die Prozesswärme aufnehmende Fluid ausschließlich in einem geschlossenen Kreislauf geführt wird undb)die Prozesswärme ausschließlich direkt über Luftwärmeübertragung an die zur Kühlung herangeführte Luft übertragen wird, das die Prozesswärme aufnehmende Fluid ausschließlich in einem geschlossenen Kreislauf geführt wird und die Prozesswärme ausschließlich direkt über Luftwärmeübertragung an die zur Kühlung herangeführte Luft übertragen wird,
 
-a)
+3. Befeuchtungseinrichtungen in Raumlufttechnischen Anlagen, die integrierter Bestandteil der luftführenden Bereiche dieser Anlagen sind und die bei Bedarf auch zur adiabaten Kühlung eingesetzt werden,
 
-b)
+4. Anlagen, in denen das Nutzwasser und die Verrieselungsflächen eine dauerhaft konstante Temperatur von 60 Grad Celsius oder mehr haben,
 
-3.
+5. Nassabscheider, in denen das Nutzwasser dauerhaft einen pH-Wert von 4 oder weniger oder einen pH-Wert von 10 oder mehr hat,
 
-4.
+6. Nassabscheider, bei denen das Abgas nach Verlassen des Abscheiders für mindestens 10 Sekunden auf mindestens 72 Grad Celsius erhitzt wird, wodurch sichergestellt ist, dass trockenes Abgas abgeleitet wird,
 
-5.
+7. Anlagen, in denen das Nutzwasser dauerhaft eine Salzkonzentration von mehr als 100 Gramm Halogenide je Liter hat,
 
-6.
+8. Nassabscheider, die ausschließlich mit Frischwasser im Durchlaufbetrieb betrieben werden, und
 
-7.
-
-8.
-
-9.
+9. Anlagen, die in einer Halle stehen und in diese emittieren.
 
 ### § 2 — Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist
 
-1.
+1. „Änderung einer Anlage“: die Änderung der Lage, der Beschaffenheit oder des Betriebs einer Anlage, die sich auf die Vermehrung oder die Ausbreitung von Legionellen auswirken kann;
 
-2.
+2. „Bestandsanlage“: eine Anlage, die vor dem 19. August 2017 errichtet und vor dem 19. Februar 2018 in Betrieb genommen worden ist;
 
-3.
+3. „Inbetriebnahme“: die erstmalige Aufnahme des Betriebs einer neu errichteten Anlage;
 
-4.
+4. „Koloniebildende Einheit“ (KBE): die Einheit, in der die Anzahl anzüchtbarer und auszählbarer Mikroorganismen ausgedrückt wird;
 
-5.
+5. „Kühlturm“: eine Anlage, bei der durch Verdunstung von Wasser Wärme an die Umgebungsluft abgeführt wird, insbesondere bestehend aus einer Verrieselungs- oder Verregnungseinrichtung für Kühlwasser und einem Wärmeübertrager, in der die Luft im Wesentlichen durch den natürlichen Zug, der im Kaminbauwerk des Kühlturms erzeugt wird, durch den Kühlturm gefördert wird und einer Kühlleistung von mehr als 200 Megawatt je Luftaustritt einschließlich der Nassabscheider, deren gereinigte Rauchgase über den Kühlturm abgeleitet werden; der Einsatz drückend angeordneter Ventilatoren zur Unterstützung der Luftzufuhr ist unschädlich, soweit diese das Charakteristikum des Kühlturms nur unwesentlich beeinflussen;
 
-6.
+6. „Legionellen“: ein Parameter zur Beurteilung der hygienischen Qualität des Nutzwassers; er umfasst alle Legionellenarten (Legionella spp.), die nach genormten Verfahren auf einem definierten Nährmedium anzüchtbar sind und Kolonien bilden;
 
-7.
+7. „Nassabscheider“: ein Abscheider, der dem Entfernen fester, flüssiger und gasförmiger Verunreinigungen aus einem Abgas mit Hilfe einer Waschflüssigkeit dient, wobei die Verunreinigungen an die in die Abgasströmung eingebrachte Waschflüssigkeit gebunden und mit dieser zusammen abgeschieden werden; nicht erfasst sind insbesondere Abscheider, bei denen die Reinigungsleistung durch Mikroorganismen bewirkt wird, wie Biofilter oder Rieselbettfilter, unbeschadet einer gegebenenfalls vorhandenen Berieselung des Filters zur Lebenserhaltung der die Abscheideleistung erbringenden Mikroorganismen;
 
-8.
+8. „Neuanlage“: eine Anlage, die keine Bestandsanlage ist;
 
-9.
+9. „Nutzwasser“: a)das Wasser, das in einer Verdunstungskühlanlage oder einem Kühlturm zum Zweck der Wärmeabfuhr eingesetzt wird und dabei im Kontakt mit der Atmosphäre steht (Kühlwasser) undb)das Wasser, das in einem Nassabscheider zum Zwecke der Reinigung eingesetzt wird und dabei im Kontakt mit der Atmosphäre steht (Waschflüssigkeit); das Wasser, das in einer Verdunstungskühlanlage oder einem Kühlturm zum Zweck der Wärmeabfuhr eingesetzt wird und dabei im Kontakt mit der Atmosphäre steht (Kühlwasser) und das Wasser, das in einem Nassabscheider zum Zwecke der Reinigung eingesetzt wird und dabei im Kontakt mit der Atmosphäre steht (Waschflüssigkeit);
 
-a)
+10. „Referenzwert“: die sich bei ordnungsgemäßem Betrieb einstellende anlagentypische allgemeine Koloniezahl im Nutzwasser;
 
-b)
+11. „Verdunstungskühlanlage“: eine Anlage, bei der durch Verdunstung von Wasser Wärme an die Umgebungsluft abgeführt wird, insbesondere bestehend aus einer Verrieselungs- oder Verregnungseinrichtung für Kühlwasser und einem Wärmeübertrager, ausgenommen Kühltürme;
 
-10.
+12. „Wiederinbetriebnahme“: die erneute Aufnahme des Betriebs einer Anlage nach einer Änderung gemäß Nummer 1;
 
-11.
+13. „Zusatzwasser“: das Wasser, das dem Nutzwasser zugesetzt wird, insbesondere zum Ausgleich von Verdunstungsverlusten oder zur Begrenzung der Eindickung;
 
-12.
+14. „akkreditierte Inspektionsstelle Typ A“: von einer nationalen Akkreditierungsstelle im Sinne der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) in der jeweils geltenden Fassung für die Durchführung der erforderlichen Inspektionen akkreditierte Inspektionsstelle die Inspektionen gemäß DIN EN ISO/IEC 17020, Ausgabe Juli 2012, Absatz 4.1.6 Buchstabe a in Verbindung mit Abschnitt A.1 des Anhangs A als unabhängige Dritte anbietet;
 
-13.
+15. „akkreditiertes Prüflaboratorium“: von einer nationalen Akkreditierungsstelle im Sinne der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) in der jeweils geltenden Fassung für die Durchführung der erforderlichen Prüfverfahren in der Matrix Kühl- und Waschwasser akkreditiertes Labor;
 
-14.
+16. „allgemeine Koloniezahl“: ein Parameter zur Beurteilung der hygienischen Qualität des Nutzwassers; er umfasst alle Mikroorganismen, die nach genormten Verfahren auf oder in einem definierten Nähragarmedium anzüchtbar sind und Kolonien bilden;
 
-15.
+17. „mikrobiologische Untersuchung“: a)die Untersuchung des Nutzwassers nach genormten Prüfverfahren durch ein dafür akkreditiertes Prüflaboratorium (Laboruntersuchung) undb)die Untersuchung zur Differenzierung der Legionellen durch ein dafür akkreditiertes Prüflaboratorium; die Untersuchung des Nutzwassers nach genormten Prüfverfahren durch ein dafür akkreditiertes Prüflaboratorium (Laboruntersuchung) und die Untersuchung zur Differenzierung der Legionellen durch ein dafür akkreditiertes Prüflaboratorium;
 
-16.
+18. „öffentlich bestellter und vereidigter Sachverständiger“: ein nach § 36, gegebenenfalls in Verbindung mit § 36a, der Gewerbeordnung vom 22. Februar 1999 (BGBl. I S. 202), die zuletzt durch Artikel 626 Absatz 3 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, öffentlich bestellter und vereidigter Sachverständiger;
 
-17.
-
-a)
-
-b)
-
-18.
-
-19.
+19. „hygienisch fachkundige Person“: Person, die an einer Schulung entsprechend der Richtlinie VDI 2047 Blatt 2, Ausgabe Januar 2015, oder der Richtlinie VDI 6022 Blatt 4, Ausgabe August 2012, oder vergleichbarer Art und vergleichbaren Umfangs teilgenommen hat.
 
 ## Abschnitt 2: Anforderungen an die Errichtung, die Beschaffenheit und den Betrieb
 
@@ -105,21 +93,21 @@ b)
 
 (2) Der Betreiber hat dafür zu sorgen, dass Anlagen so ausgelegt und errichtet werden, dass insbesondere
 
-1.
+1. die eingesetzten Werkstoffe für die Wasserqualität und die einzusetzenden Betriebsstoffe, einschließlich Desinfektions- und Reinigungsmittel, geeignet sind,
 
-2.
+2. Tropfenauswurf durch geeignete Tropfenabscheider oder gleichwertige Maßnahmen effektiv minimiert wird,
 
-3.
+3. Totzonen, in denen das Wasser während des bestimmungsgemäßen Betriebs stagniert, möglichst vermieden werden,
 
-4.
+4. wasserführende Bauteile möglichst vollständig entleert werden können,
 
-5.
+5. Biozide dem Nutzwasser dosiert zugesetzt werden können,
 
-6.
+6. Vorkehrungen für die regelmäßige Überprüfung relevanter chemischer, physikalischer oder mikrobiologischer Parameter getroffen werden,
 
-7.
+7. Vorkehrungen für die regelmäßige Probenahme für mikrobiologische Untersuchungen getroffen werden und
 
-8.
+8. Vorkehrungen für die Durchführung regelmäßiger Instandhaltungen getroffen werden.
 
 (3) Anlagen nach § 1 Absatz 1 dürfen nur mit Betriebsstoffen betrieben werden, die mit den in der Anlage vorhandenen Werkstoffen verträglich sind.
 
@@ -139,19 +127,19 @@ b)
 
 ### § 4 — Ermittlung des Referenzwertes, betriebsinterne Überprüfungen und Laboruntersuchungen in Verdunstungskühlanlagen und Nassabscheidern
 
-(1) Nach der Inbetriebnahme oder der Wiederinbetriebnahme einer Verdunstungskühlanlage oder eines Nassabscheiders ist der Referenzwert des Nutzwassers aus mindestens sechs aufeinanderfolgenden Laboruntersuchungen auf den Parameter allgemeine Koloniezahl zu bestimmen. Bei bestehenden Anlagen, für die bei Inkrafttreten dieser Verordnung noch kein Referenzwert entsprechend Satz 1 bestimmt wurde, ist der Referenzwert aus den ersten sechs Laboruntersuchungen nach dem 19. August 2017 zu bestimmen. Die Sätze 1 und 2 finden keine Anwendung bei Anlagen, die bestimmungsgemäß an nicht mehr als 90 aufeinanderfolgenden Tagen im Jahr in Betrieb sind. Als Referenzwert heranzuziehen ist die bei der Erstuntersuchung nach § 3 Absatz 7 ermittelte Konzentration der allgemeinen Koloniezahl, jedoch nicht mehr als 10 000 KBE/Milliliter, Der Betreiber hat unverzüglich nach der Inbetriebnahme oder der Wiederinbetriebnahme die Art der Bestimmung des Referenzwertes nach den Sätzen 1 bis 3 festzulegen und im Betriebstagebuch zu dokumentieren.In den Fällen der Sätze 1 und 2 hat der Betreiber nach Vorliegen des Ergebnisses der sechsten Laboruntersuchung unverzüglich die Höhe des Referenzwertes im Betriebstagebuch zu dokumentieren.
+(1) Nach der Inbetriebnahme oder der Wiederinbetriebnahme einer Verdunstungskühlanlage oder eines Nassabscheiders ist der Referenzwert des Nutzwassers aus mindestens sechs aufeinanderfolgenden Laboruntersuchungen auf den Parameter allgemeine Koloniezahl zu bestimmen. Bei bestehenden Anlagen, für die bei Inkrafttreten dieser Verordnung noch kein Referenzwert entsprechend Satz 1 bestimmt wurde, ist der Referenzwert aus den ersten sechs Laboruntersuchungen nach dem 19. August 2017 zu bestimmen. Die Sätze 1 und 2 finden keine Anwendung bei Anlagen, die bestimmungsgemäß an nicht mehr als 90 aufeinanderfolgenden Tagen im Jahr in Betrieb sind. Als Referenzwert heranzuziehen ist die bei der Erstuntersuchung nach § 3 Absatz 7 ermittelte Konzentration der allgemeinen Koloniezahl, jedoch nicht mehr als 10 000 KBE/Milliliter,
 
-1.
+1. bis zur Bestimmung des Referenzwertes nach Satz 1 oder 2,
 
-2.
+2. bei Anlagen, die bestimmungsgemäß an nicht mehr als 90 aufeinanderfolgenden Tagen im Jahr in Betrieb sind, oder
 
-3.
+3. bei Anlagen, für die der Betreiber erklärt, auf die Bestimmung des Referenzwertes nach Satz 1 oder 2 zu verzichten.
 
 (2) Der Betreiber hat
 
-1.
+1. zur Sicherstellung der hygienischen Beschaffenheit des Nutzwassers regelmäßig mindestens zweiwöchentliche betriebsinterne Überprüfungen chemischer, physikalischer oder mikrobiologischer Kenngrößen des Nutzwassers durchzuführen,
 
-2.
+2. zur Überprüfung der Einhaltung des Referenzwertes regelmäßig mindestens alle drei Monate Laboruntersuchungen des Nutzwassers auf den Parameter allgemeine Koloniezahl durchführen zu lassen.
 
 (3) Der Betreiber hat regelmäßig mindestens alle drei Monate Laboruntersuchungen des Nutzwassers auf den Parameter Legionellen durchführen zu lassen.
 
@@ -163,9 +151,9 @@ b)
 
 (1) Ist aufgrund einer Laboruntersuchung nach § 4 Absatz 2 Nummer 2 ein Anstieg der Konzentration der allgemeinen Koloniezahl um den Faktor 100 oder mehr gegenüber dem Referenzwert festzustellen, hat der Betreiber unverzüglich
 
-1.
+1. Untersuchungen zur Aufklärung der Ursachen durchzuführen und
 
-2.
+2. die erforderlichen Maßnahmen für einen ordnungsgemäßen Betrieb, insbesondere Sofortmaßnahmen zur Verminderung der mikrobiellen Belastung, zu ergreifen.
 
 (2) Der Betreiber hat die ermittelten Ursachen und die gegebenenfalls ergriffenen Maßnahmen jeweils nach deren Durchführung unverzüglich im Betriebstagebuch zu dokumentieren.
 
@@ -175,19 +163,19 @@ b)
 
 (2) Bestätigt die zusätzliche Laboruntersuchung nach Absatz 1 eine Überschreitung des in Anlage 1 genannten Prüfwertes 1, hat der Betreiber unverzüglich
 
-1.
+1. Untersuchungen zur Aufklärung der Ursachen durchzuführen,
 
-2.
+2. die erforderlichen Maßnahmen für einen ordnungsgemäßen Betrieb zu ergreifen,
 
-3.
+3. betriebsinterne Überprüfungen wöchentlich durchzuführen und
 
-4.
+4. Laboruntersuchungen auf die Parameter allgemeine Koloniezahl und Legionellen monatlich durchführen zu lassen.
 
 (3) Bestätigt die zusätzliche Laboruntersuchung nach Absatz 1 eine Überschreitung des in Anlage 1 genannten Prüfwertes 2, hat der Betreiber unverzüglich
 
-1.
+1. die Pflichten nach Absatz 2 zu erfüllen und
 
-2.
+2. technische Maßnahmen nach dem Stand der Technik, insbesondere Sofortmaßnahmen zur Verminderung der mikrobiellen Belastung, zu ergreifen, um die Legionellenkonzentration im Nutzwasser unter den in Anlage 1 genannten Prüfwert 2 zu reduzieren.
 
 (4) Der Betreiber hat die zusätzliche Laboruntersuchung nach Absatz 1 nach deren Veranlassung sowie die Ergebnisse der Laboruntersuchung und die Ergebnisse der Untersuchungen jeweils nach deren Vorliegen sowie die gegebenenfalls ergriffenen Maßnahmen nach den Absätzen 2 oder 3 jeweils nach deren Durchführung unverzüglich im Betriebstagebuch zu dokumentieren.
 
@@ -211,11 +199,11 @@ b)
 
 (2) Bestätigt die zusätzliche Laboruntersuchung nach Absatz 1 eine Überschreitung des in Anlage 1 genannten Prüfwertes 2, hat der Betreiber unverzüglich
 
-1.
+1. Untersuchungen zur Aufklärung der Ursachen durchzuführen,
 
-2.
+2. die erforderlichen Maßnahmen für einen ordnungsgemäßen Betrieb, insbesondere Sofortmaßnahmen zur Verminderung der mikrobiellen Belastung, zu ergreifen,
 
-3.
+3. technische Maßnahmen nach dem Stand der Technik zu ergreifen, um die Legionellenkonzentration im Nutzwasser unter den in Anlage 1 genannten Prüfwert 2 zu reduzieren.
 
 (3) Der Betreiber hat die zusätzliche Laboruntersuchung nach Absatz 1 nach deren Veranlassung sowie die Ergebnisse der Laboruntersuchung und die Ergebnisse der Untersuchungen jeweils nach deren Vorliegen sowie die gegebenenfalls ergriffenen Maßnahmen nach Absatz 2 jeweils nach deren Durchführung unverzüglich im Betriebstagebuch zu dokumentieren.
 
@@ -225,17 +213,11 @@ b)
 
 (1) Wird bei einer Laboruntersuchung nach § 4 Absatz 3 oder § 7 Absatz 2 eine Überschreitung der in Anlage 1 genannten Maßnahmenwerte festgestellt, hat der Betreiber unverzüglich
 
-1.
+1. eine Untersuchung zur Differenzierung der nachgewiesenen Legionellen nach a)Legionella pneumophila - Serogruppe 1,b)Legionella pneumophila - andere Serogruppen undc)andere Legionellenarten (Legionella non-pneumophila)durch ein akkreditiertes Prüflaboratorium durchführen zu lassen, Legionella pneumophila - Serogruppe 1, Legionella pneumophila - andere Serogruppen und andere Legionellenarten (Legionella non-pneumophila)
 
-a)
+2. bei Verdunstungskühlanlagen und Nassabscheidern die Pflichten nach § 6 Absatz 2 Nummer 1 bis 4 und § 6 Absatz 3 Nummer 2 zu erfüllen oder bei Kühltürmen die Pflichten aus § 8 Absatz 2 zu erfüllen sowie
 
-b)
-
-c)
-
-2.
-
-3.
+3. eine zusätzliche Laboruntersuchung auf den Parameter Legionellen durchführen zu lassen.
 
 (2) Bestätigt die zusätzliche Laboruntersuchung nach Absatz 1 Nummer 3 eine Überschreitung der in Anlage 1 genannten Maßnahmenwerte, hat der Betreiber unverzüglich zusätzlich Gefahrenabwehrmaßnahmen, insbesondere zur Vermeidung der Freisetzung mikroorganismenhaltiger Aerosole, zu ergreifen.
 
@@ -243,19 +225,19 @@ c)
 
 ### § 10 — Informationspflichten
 
-Wird bei einer Laboruntersuchung eine Überschreitung der in Anlage 1 genannten Maßnahmenwerte festgestellt, hat der Betreiber die zuständigen Behörden Informations- oder Meldepflichten nach anderen Vorschriften bleiben unberührt.
+Wird bei einer Laboruntersuchung eine Überschreitung der in Anlage 1 genannten Maßnahmenwerte festgestellt, hat der Betreiber die zuständigen Behörden
 
-1.
+1. unverzüglich gemäß Anlage 3 Teil 1 zu informieren und
 
-2.
+2. innerhalb einer Frist von vier Wochen gemäß Anlage 3 Teil 2 zu informieren.
 
 ### § 11 — Störungen des Betriebs
 
-Können Anforderungen an den Betrieb einer Anlage im Anwendungsbereich dieser Verordnung aufgrund oder infolge eines technischen Defekts innerhalb oder außerhalb der Anlage, der zur Vermehrung oder Ausbreitung von Legionellen führen kann, nicht eingehalten werden, hat der Betreiber unverzüglich Der Betreiber hat die Ursachen jeweils nach deren Ermittlung und die ergriffenen Maßnahmen jeweils nach deren Durchführung unverzüglich im Betriebstagebuch zu dokumentieren.
+Können Anforderungen an den Betrieb einer Anlage im Anwendungsbereich dieser Verordnung aufgrund oder infolge eines technischen Defekts innerhalb oder außerhalb der Anlage, der zur Vermehrung oder Ausbreitung von Legionellen führen kann, nicht eingehalten werden, hat der Betreiber unverzüglich
 
-1.
+1. die Ursachen der Störung zu ermitteln und
 
-2.
+2. die erforderlichen Maßnahmen für einen ordnungsgemäßen Betrieb zu ergreifen.
 
 ## Abschnitt 6: Anforderungen an die Überwachung
 
@@ -275,19 +257,19 @@ Können Anforderungen an den Betrieb einer Anlage im Anwendungsbereich dieser Ve
 
 (3) Der Betreiber hat unverzüglich, aber spätestens innerhalb eines Monats, Folgendes der zuständigen Behörde gemäß Anlage 4 Teil 2 anzuzeigen:
 
-1.
+1. Änderungen der Anlage und
 
-2.
+2. die Anlagenstilllegung.
 
 (4) Bei einem Betreiberwechsel hat der neue Betreiber diesen Wechsel unverzüglich, aber spätestens innerhalb eines Monats, der zuständigen Behörde anzuzeigen.
 
 ### § 14 — Überprüfung der Anlagen
 
-(1) Der Betreiber hat nach der Inbetriebnahme regelmäßig alle fünf Jahre von eine Überprüfung des ordnungsgemäßen Anlagenbetriebs durchführen zu lassen. Für bestehende Anlagen ist die erste Überprüfung gemäß Satz 1 nach Inkrafttreten dieser Verordnung bis zu den nachstehenden Daten fällig:
+(1) Der Betreiber hat nach der Inbetriebnahme regelmäßig alle fünf Jahre von
 
-1.
+1. einem öffentlich bestellten und vereidigten Sachverständigen oder
 
-2.
+2. einer akkreditierten Inspektionsstelle Typ A
 
 (2) Der Betreiber hat den Sachverständigen und die Inspektionsstelle zu beauftragen, die Ergebnisse der Überprüfungen zeitgleich dem Betreiber und der zuständigen Behörde jeweils innerhalb von vier Wochen nach Abschluss der Überprüfung mitzuteilen.
 
@@ -299,9 +281,9 @@ Können Anforderungen an den Betrieb einer Anlage im Anwendungsbereich dieser Ve
 
 (1) Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen von den Anforderungen dieser Verordnung, ausgenommen die in Anlage 1 genannten Prüf- und Maßnahmenwerte, zulassen, soweit unter Berücksichtigung der besonderen Umstände des Einzelfalls
 
-1.
+1. einzelne Anforderungen der Verordnung nicht oder nur mit unverhältnismäßigem Aufwand erfüllbar sind,
 
-2.
+2. im Übrigen die dem Stand der Technik entsprechenden Maßnahmen zur Begrenzung der Vermehrung und Ausbreitung von Legionellen angewandt werden.
 
 (2) Die zuständige Behörde soll auf Antrag des Betreibers zulassen, dass abweichend von den Anforderungen nach Abschnitt 3 Verdunstungskühlanlagen und Nassabscheider die Anforderungen nach Abschnitt 4 einzuhalten haben, mit der Maßgabe, dass die in Anlage 1 genannten Prüfwerte für Verdunstungskühlanlagen und Nassabscheider anzuwenden sind. Absatz 1 bleibt unberührt.
 
@@ -327,35 +309,35 @@ Die in § 2 genannten ISO-, DIN-Normen und VDI-Richtlinien sind in der Deutschen
 
 Ordnungswidrig im Sinne des § 62 Absatz 1 Nummer 7 des Bundes-Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 3 Absatz 1 eine dort genannte Anlage nicht richtig errichtet oder nicht richtig betreibt,
 
-2.
+2. entgegen § 3 Absatz 3 eine Anlage mit Betriebsstoffen betreibt, die mit den in der Anlage vorhandenen Werkstoffen nicht verträglich sind,
 
-3.
+3. entgegen § 3 Absatz 4 Satz 1 erster Halbsatz nicht sicherstellt, dass eine Gefährdungsbeurteilung erstellt wird,
 
-4.
+4. entgegen § 3 Absatz 4 Satz 2, Absatz 6 Satz 2 oder Absatz 7 Satz 4, § 4 Absatz 1 Satz 6 oder Absatz 5 Satz 2, § 5 Absatz 2, § 6 Absatz 4, § 7 Absatz 4 Satz 2, § 8 Absatz 3, § 9 Absatz 3 oder § 11 Satz 2 eine Dokumentation nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt,
 
-5.
+5. entgegen § 3 Absatz 5 Satz 1 nicht sicherstellt, dass ein Prüfwert nicht überschritten wird,
 
-6.
+6. entgegen § 3 Absatz 6 Satz 1 nicht sicherstellt, dass dort genannte Prüfschritte durchgeführt werden,
 
-7.
+7. entgegen § 3 Absatz 7 Satz 1, 2 oder 3, § 4 Absatz 2 Nummer 1 oder 2 oder Absatz 3, § 6 Absatz 1 oder 2 Nummer 4, § 7 Absatz 1 oder 2, § 8 Absatz 1 oder § 9 Absatz 1 Nummer 1 oder 3 eine dort genannte Untersuchung oder Überprüfung nicht, nicht richtig oder nicht rechtzeitig durchführt oder durchführen lässt,
 
-8.
+8. entgegen § 4 Absatz 1 Satz 5 die Art der Bestimmung des Referenzwertes nicht, nicht richtig oder nicht rechtzeitig festlegt,
 
-9.
+9. entgegen § 5 Absatz 1 Nummer 2, § 6 Absatz 2 Nummer 2 oder Absatz 3 Nummer 2, § 8 Absatz 2 Nummer 2 oder 3, § 9 Absatz 2 oder § 11 Satz 1 Nummer 2 eine dort genannte Maßnahme nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ergreift,
 
-10.
+10. entgegen § 10 Satz 1 eine dort genannte Behörde nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig informiert,
 
-11.
+11. entgegen § 12 Absatz 1 ein Betriebstagebuch nicht, nicht richtig oder nicht vollständig führt,
 
-12.
+12. entgegen § 12 Absatz 3 Satz 2 ein Betriebstagebuch nicht oder nicht mindestens fünf Jahre aufbewahrt,
 
-13.
+13. entgegen § 13 Absatz 1 bis 3 oder 4 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
-14.
+14. entgegen § 14 Absatz 1 Satz 1 eine Überprüfung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig durchführen lässt oder
 
-15.
+15. entgegen § 14 Absatz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
 ### § 20 — Inkrafttreten
 
@@ -371,100 +353,70 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage 3 — (zu § 10)
 
-1.
+1. Anlagen-ID
 
-2.
+2. Angaben zum Standort der Anlage (Geokoordinaten und Adresse des Anlagenstandorts)
 
-3.
+3. Angaben zum Betreiber der Anlage (Name, Adresse, Telefonnummer, E-Mail-Adresse, Ansprechpartner)
 
-4.
+4. Datum der Probenahme für die Laboruntersuchung bei der die Überschreitung des Maßnahmenwertes nach Anlage 1 festgestellt wurde
 
-5.
+5. Ergebnis der Laboruntersuchung, bei der die Überschreitung des Maßnahmenwertes nach Anlage 1 festgestellt wurde
 
-6.
+6. Angabe des mit der Untersuchung beauftragten akkreditierten Prüflabors (Name, Adresse, Ansprechpartner)
 
-1.
+1. Anlagen-ID
 
-2.
+2. Angaben zum Standort der Anlage (Geokoordinaten und Adresse des Anlagenstandorts)
 
-3.
+3. Angaben zum Betreiber der Anlage (Name, Adresse, Ansprechpartner)
 
-4.
+4. Angaben zur Art der Anlage a)Verdunstungskühlanlageb)Nassabscheiderc)Kühlturm Verdunstungskühlanlage Nassabscheider Kühlturm
 
-a)
+5. Angaben zum Betriebszustand der Anlage, bei dem die Überschreitung des Maßnahmenwertes nach Anlage 1 festgestellt wurde
 
-b)
+6. Ergebnis der Untersuchung zur Differenzierung der Legionellen nach § 9 Absatz 1 Nummer 1
 
-c)
+7. Ergebnis der zusätzlichen Laboruntersuchung nach § 9 Absatz 1 Nummer 3
 
-5.
+8. Auflistung der Ursachen für die Überschreitung des Maßnahmenwertes
 
-6.
+9. Auflistung der Maßnahmen, die nach § 9 Absatz 1 Nummer 2 ergriffen wurden oder ergriffen werden
 
-7.
-
-8.
-
-9.
-
-10.
+10. Angabe des/der mit der Untersuchung beauftragten akkreditierten Prüflabors/Prüflabore (Name, Adresse, Ansprechpartner)
 
 ### Anlage 4 — (zu § 12 und § 13)
 
-1.
+1. Anlage-ID
 
-2.
+2. Angaben zum Standort der Anlage (Geokoordinaten und Adresse des Anlagenstandorts)
 
-3.
+3. Angaben zum Betreiber der Anlage (Name, Adresse, Ansprechpartner)
 
-4.
+4. Art der Anlage a)Verdunstungskühlanlageb)Nassabscheiderc)Kühlturm Verdunstungskühlanlage Nassabscheider Kühlturm
 
-a)
+5. Datum der erstmaligen Inbetriebnahme
 
-b)
+6. Änderungen an der Anlage mit Angaben zur Art der Änderung, Zeitpunkt des Änderungsbeginns und der Wiederinbetriebnahme
 
-c)
+7. Datum der Stilllegung
 
-5.
+8. Angaben zum Betriebszustand der Anlage mit Datum der Zustandsänderungen, insbesondere Betrieb unter Last, Betrieb ohne Last mit aktiviertem Nutzwasserkreislauf, Betriebsunterbrechung mit gefülltem Nutzwasserkreislauf, Entleerung und Wiederbefüllung des Nutzwasserkreislaufs
 
-6.
+9. Überschreitungen der in Anlage 1 genannten Prüfwerte a)wurden Überschreitungen im Berichtszeitraum festgestellt?„Ja/Nein“b)welcher Prüfwert (PW) wurde überschritten?„PW1/PW2“c)wurden Maßnahmen ergriffen?„Ja/Nein“ falls ja, Angaben zu den ergriffenen Maßnahmend)welche Legionellenkonzentration wurde nach Abschluss der Maßnahmen nach § 6 Absatz 3 Nummer 2 oder § 8 Absatz 2 Nummer 3 erreicht?„< PW1/< PW2“ wurden Überschreitungen im Berichtszeitraum festgestellt?„Ja/Nein“ welcher Prüfwert (PW) wurde überschritten?„PW1/PW2“ wurden Maßnahmen ergriffen?„Ja/Nein“ falls ja, Angaben zu den ergriffenen Maßnahmen welche Legionellenkonzentration wurde nach Abschluss der Maßnahmen nach § 6 Absatz 3 Nummer 2 oder § 8 Absatz 2 Nummer 3 erreicht?„< PW1/< PW2“
 
-7.
+10. Überschreitungen der in Anlage 1 genannten Maßnahmenwerte a)wurden Überschreitungen im Berichtszeitraum festgestellt?„Ja/Nein“b)Angaben zu den ergriffenen Maßnahmenc)welche Legionellenkonzentration wurde nach Abschluss der Maßnahmen nach § 9 Absatz 1 und 2 erreicht?„< PW1/< PW2“ wurden Überschreitungen im Berichtszeitraum festgestellt?„Ja/Nein“ Angaben zu den ergriffenen Maßnahmen welche Legionellenkonzentration wurde nach Abschluss der Maßnahmen nach § 9 Absatz 1 und 2 erreicht?„< PW1/< PW2“
 
-8.
+11. Angaben zur Biozidzugabe (Zeitpunkt, Menge und Art des Biozids)
 
-9.
+12. sonstige Nachweise gemäß dieser Verordnung
 
-a)
+13. Überprüfung nach § 14 a)Datum der letzten Überprüfung nach Absatz 1b)überprüfende Stelle (Name, Adresse, Ansprechpartner) nach Absatz 2 Datum der letzten Überprüfung nach Absatz 1 überprüfende Stelle (Name, Adresse, Ansprechpartner) nach Absatz 2
 
-b)
+1. Anzeigen nach § 13 Absatz 1 umfassen die Angaben nach Teil 1 Nummer 2 bis 5
 
-c)
+2. Anzeigen nach § 13 Absatz 2 umfassen die Angaben nach Teil 1 Nummer 2 bis 5
 
-d)
+3. Anzeigen nach § 13 Absatz 3 Nummer 1 umfassen die Angaben nach Teil 1 Nummer 1 bis 6
 
-10.
-
-a)
-
-b)
-
-c)
-
-11.
-
-12.
-
-13.
-
-a)
-
-b)
-
-1.
-
-2.
-
-3.
-
-4.
+4. Anzeigen nach § 13 Absatz 3 Nummer 2 umfassen die Angaben nach Teil 1 Nummer 1 bis 5 und 7

@@ -11,7 +11,7 @@ Nach § 80 Absatz 6, § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des Bunde
 
 ### § 1 — Zuständigkeit für die Festsetzung von Leistungen
 
-Der Postbeamtenkrankenkasse wird die Zuständigkeit für die Beihilfebearbeitung in Krankheits-, Pflege- und Geburtsfällen nach § 80 des Bundesbeamtengesetzes in Verbindung mit den Regelungen der Bundesbeihilfeverordnung, einschließlich der Beihilfefestsetzung für Beihilfeanträge der gemäß § 2 der Bundesbeihilfeverordnung beihilfeberechtigten Personen sowie der gemäß § 4 der Bundesbeihilfeverordnung berücksichtigungsfähigen Personen (Beihilfeempfangende) des Bundesinstituts für Risikobewertung übertragen. Die Postbeamtenkrankenkasse entscheidet als Festsetzungsstelle.
+Der Postbeamtenkrankenkasse wird die Zuständigkeit für die Beihilfebearbeitung in Krankheits-, Pflege- und Geburtsfällen nach § 80 des Bundesbeamtengesetzes in Verbindung mit den Regelungen der Bundesbeihilfeverordnung, einschließlich der Beihilfefestsetzung für Beihilfeanträge der gemäß § 2 der Bundesbeihilfeverordnung beihilfeberechtigten Personen sowie der gemäß § 4 der Bundesbeihilfeverordnung berücksichtigungsfähigen Personen (Beihilfeempfangende) des Bundesinstituts für Risikobewertung übertragen. Die Postbeamtenkrankenkasse entscheidet als Festsetzungsstelle.
 
 ### § 2 — Entscheidung über Widersprüche in Beihilfeangelegenheiten
 

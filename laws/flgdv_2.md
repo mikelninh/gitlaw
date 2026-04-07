@@ -14,25 +14,19 @@
 
 ### § 2 — Antragsinhalt
 
-(1) Der Zulassungsantrag nach § 1 muss enthalten: Der Nachweis nach Satz 1 Nr. 2 ist durch die Vorlage geeigneter Unterlagen über die betriebliche Ausstattung und die bei dem antragstellenden Unternehmen beschäftigten Personen zu führen.
+(1) Der Zulassungsantrag nach § 1 muss enthalten:
 
-1.
+1. Name und Anschrift des antragstellenden Unternehmens, im Falle von Niederlassungen auch deren Anschrift,
 
-2.
+2. Nachweis, dass das Unternehmen die Klassifizierung von Schlachtkörpern von Rindern, Schweinen und Schafen nach den Bestimmungen des jeweils einschlägigen Handelsklassenrechts ordnungsgemäß durchführen kann, und insbesondere, dass die für die Durchführung der Klassifizierung vorgesehenen Mitarbeiter über die erforderliche Zulassung verfügen,
 
-3.
+3. Darstellung und Erklärung, dass die Unabhängigkeit des Unternehmens im Sinne von § 3 Abs. 1 Nr. 2 Buchstabe a des Fleischgesetzes und § 3 dieser Verordnung sichergestellt ist,
 
-4.
+4. im Falle einer der Antragstellung vorangegangenen Tätigkeit auf dem Gebiet der Klassifizierung von Schlachtkörpern eine Darstellung a)der bisherigen Klassifizierungstätigkeit nach Art und Umfang, längstens für den Zeitraum der letzten drei Jahre vor der Antragstellung,b)der bisherigen Auftraggeber sowiec)der Sachkunde der von ihm beschäftigten Klassifizierer durch Angaben zur Zulassung, Aus- und Fortbildung und zur beruflichen Erfahrung auf dem Gebiet der Klassifizierung und Verwiegung von Schlachtkörpern, der bisherigen Klassifizierungstätigkeit nach Art und Umfang, längstens für den Zeitraum der letzten drei Jahre vor der Antragstellung, der bisherigen Auftraggeber sowie der Sachkunde der von ihm beschäftigten Klassifizierer durch Angaben zur Zulassung, Aus- und Fortbildung und zur beruflichen Erfahrung auf dem Gebiet der Klassifizierung und Verwiegung von Schlachtkörpern,
 
-a)
+5. Darstellung der betrieblichen Aufbauorganisation und
 
-b)
-
-c)
-
-5.
-
-6.
+6. einen Auszug aus dem Gewerbezentralregister für das antragstellende Unternehmen, bei einer juristischen Person oder einer sonstigen Personenvereinigung auch für die nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigten.
 
 (2) Über die im Antrag erfolgten Angaben hinaus kann die Bundesanstalt vom antragstellenden Unternehmen weitere Angaben fordern, soweit dies zur Entscheidung über den Antrag erforderlich ist.
 
@@ -42,9 +36,9 @@ c)
 
 (2) Abweichend von Absatz 1 steht die Mitgliedschaft von Vertretern mehrerer Beteiligter der Vermarktungskette für Fleisch in einem Organ eines Klassifizierungsunternehmens der Unabhängigkeit eines Klassifizierungsunternehmens nicht entgegen, wenn
 
-1.
+1. sichergestellt ist, dass sie jeweils einzeln keinen maßgeblichen Einfluss auf die Durchführung der Klassifizierung im Schlachtbetrieb ausüben können und
 
-2.
+2. das Klassifizierungsunternehmen einer besonderen Überwachung durch die nach Landesrecht zuständige Behörde unterstellt ist.
 
 (3) Es muss sichergestellt sein, dass Klassifizierungsunternehmen einen vom Schlachtbetrieb nicht beeinflussbaren Zugriff auf die mit der Waage erhobenen Daten und bei einer Klassifizierung von Schlachtkörpern mit einem Klassifizierungsgerät auch auf die mit dem Klassifizierungsgerät erhobenen Daten sowie auf alle sonstigen vom Klassifizierer im Zusammenhang mit seiner Tätigkeit erhobenen Daten haben.
 
@@ -64,31 +58,31 @@ c)
 
 (2) Hält ein Klassifizierer Tiere, die zur Schlachtung geeignet sind, so steht dies seiner nach § 4 Abs. 1 Satz 2 Nr. 3 des Fleischgesetzes erforderlichen Unabhängigkeit nicht entgegen, wenn sichergestellt ist, dass der Klassifizierer nicht an dem Tag, an dem seine Tiere in einem Schlachtbetrieb geschlachtet werden, in selbigem tätig ist.
 
-(3) Die Zulassung als Klassifizierer für die Klassifizierung von Schweineschlachtkörpern erfolgt für das ZP-Verfahren sowie jeweils gesondert für folgende Gerätegruppen oder Gerätetypen: Die Zulassung erfolgt nur für die Gerätegruppen und Gerätetypen, mit denen der Klassifizierer die jeweilige praktische Prüfung bestanden hat. Bei Gerätetypen mit Einzelzulassung ist für jeden Gerätetyp eine gesonderte Sachkundeprüfung erforderlich.
+(3) Die Zulassung als Klassifizierer für die Klassifizierung von Schweineschlachtkörpern erfolgt für das ZP-Verfahren sowie jeweils gesondert für folgende Gerätegruppen oder Gerätetypen:
 
-1.
+1. Geräte mit Ultraschallsonde,
 
-2.
+2. Geräte mit Einstichsonde,
 
-3.
+3. Gerätetypen mit einer Einzelzulassung nach der Entscheidung der Kommission 89/471/EWG vom 14. Juli 1989 zur Zulassung von Verfahren der Einstufung von Schweineschlachtkörpern in Deutschland (ABl. EG Nr. L 233 S. 30) in der jeweils geltenden Fassung.
 
 ### § 6 — Zulassungsantrag
 
 (1) Der Antrag auf Zulassung als Klassifizierer ist bei der zuständigen Behörde schriftlich oder elektronisch einzureichen. Zuständig ist die Behörde, in deren Bezirk der Antragsteller seine melderechtliche Hauptwohnung hat. Auf Verlangen der zuständigen Behörde hat der Antragsteller Unterlagen auch oder ausschließlich elektronisch zu übermitteln. Die zuständige Behörde kann für den Antrag Muster im Bundesanzeiger bekannt geben und die Verwendung der Muster verlangen.
 
-(2) Der Antrag nach Absatz 1 muss enthalten: Zur Beurteilung der nach § 4 Abs. 1 Satz 2 Nr. 3 des Fleischgesetzes erforderlichen Zuverlässigkeit ist mit dem Antrag auf Zulassung ein Führungszeugnis zur Vorlage bei der für die Zulassung zuständigen Behörde zu beantragen und eine Kopie oder Ablichtung dieses Antrages dem Antrag nach Absatz 1 beizufügen.
+(2) Der Antrag nach Absatz 1 muss enthalten:
 
-1.
+1. Name und Anschrift des Antragstellers,
 
-2.
+2. zwei aktuelle Lichtbilder, die den in § 16 Absatz 2 der Passverordnung festgelegten Anforderungen entsprechen,
 
-3.
+3. die Angabe, für welche Tierarten und im Falle der Klassifizierung von Schweineschlachtkörpern für welche Gerätegruppen und -typen die Zulassung beantragt wird,
 
-4.
+4. einen Nachweis über die Tätigkeit oder Ausbildung bei einem Klassifizierungsunternehmen,
 
-5.
+5. die Erklärung, dass und wie die Unabhängigkeit des Klassifizierers nach § 5 Abs. 2 und § 4 Abs. 1 Satz 2 Nr. 3 des Fleischgesetzes sichergestellt ist, und
 
-6.
+6. den Nachweis über die Teilnahme an einem Ausbildungskurs durch Vorlage einer Teilnahmebestätigung und über die erfolgreich bestandene Sachkundeprüfung nach § 4 Abs. 2 des Fleischgesetzes.
 
 ### § 7 — Ausbildung und Sachkundeprüfung der Klassifizierer
 
@@ -134,15 +128,15 @@ Eine nicht bestandene Sachkundeprüfung kann höchstens zweimal wiederholt werde
 
 (1) Über die Zulassung wird dem zugelassenen Klassifizierer von der zuständigen Behörde eine Zulassungsurkunde, ein Klassifiziererausweis (Ausweis) und ein personenbezogener Stempel ausgehändigt. Der Klassifizierer hat den Ausweis bei Ausübung seiner Tätigkeit stets bei sich zu führen. Die Zulassungsurkunde und der Ausweis enthalten jeweils mindestens folgende Angaben:
 
-1.
+1. Name, Anschrift und Geburtsdatum des Klassifizierers,
 
-2.
+2. Datum der Zulassung,
 
-3.
+3. Benennung der zulassenden Behörde,
 
-4.
+4. Benennung der Arten von Schlachtkörpern, für die die Zulassung erteilt wurde, sowie
 
-5.
+5. die Klassifizierungsgeräte für die Klassifizierung von Schweineschlachtkörpern, für die die Zulassung erteilt worden ist.
 
 (2) Bei der Aushändigung der Zulassungsurkunde, des Ausweises und des personenbezogenen Stempels ist der Klassifizierer über die Bedeutung seiner Stellung und seiner Unabhängigkeit von den Beteiligten der Vermarktungskette für Fleisch zu belehren. Die zuständige Behörde führt einen schriftlichen und vom Klassifizierer unterschriebenen Nachweis über die Durchführung der Belehrung nach Satz 1. Der Klassifizierer erhält eine Durchschrift des Nachweises. Der Nachweis ist für die gesamte Dauer der Tätigkeit des Klassifizierers aufzubewahren. § 12 Abs. 5 des Fleischgesetzes ist anzuwenden.
 
@@ -160,112 +154,24 @@ In der theoretischen Prüfung muss der Prüfungsteilnehmer nachweisen, dass er d
 
 Der praktische Teil der Prüfung besteht aus zwei Teilen: Teil A – Klassifizierung, Teil B – Verwiegung und Schnittführung. Der Prüfling hat darin nachzuweisen, dass er die theoretischen Kenntnisse in der Praxis anzuwenden versteht.
 
-A.
+A. Klassifizierung 1.In der praktischen Prüfung über die Klassifizierung von Rinder- und Schafschlachtkörpern sind vom Prüfungsteilnehmer in zwei Durchgängen jeweils mindestens 30 Schlachtkörper der jeweiligen Tierart in Kategorien und Handelsklassen einzureihen. Nach der Auswertung des ersten Klassifizierungsdurchgangs wird mit dem Prüfungsteilnehmer die vom Prüfer für jeden einzelnen Schlachtkörper festgelegte Klassifizierung durchgesprochen. Das Ergebnis des zweiten Klassifizierungsdurchgangs ist prüfungsentscheidend.1.1.Bei Rinderschlachtkörpern dürfen die Einstufungen von der vom Prüfer festgelegten Klassifizierung um höchstens eine Untergruppe (Fleischigkeit und Fettabdeckung) abweichen. Abweichungen, die über eine Untergruppe hinausgehen, werden höchstens bei 10 Prozent der Schlachtkörper je Merkmal (Fleischigkeit und Fettabdeckung) toleriert. Kumulieren ist möglich, jedoch dürfen bei einem Merkmal nicht mehr als fünf Abweichungen erfolgt sein. Abweichungen in der Kategorieneinstufung werden höchstens bei 10 Prozent der Schlachtkörper toleriert. Sofern die erlaubte Fehlerquote überschritten wird, ist die Prüfung nicht bestanden.1.2.Bei Schafschlachtkörpern dürfen die Einstufungen von der vom Prüfer festgelegten Klassifizierung um höchstens 10 Prozent je Merkmal (Kategorie, Fleischigkeit und Fettabdeckung) abweichen. Kumulieren ist möglich, jedoch dürfen bei einem Merkmal nicht mehr als fünf Abweichungen erfolgt sein. Sofern die erlaubte Fehlerquote überschritten wird, ist die Prüfung nicht bestanden.2.Die Prüfung ist auch dann nicht bestanden, wenn die für die Kategorienbestimmung relevante Geschlechtsbestimmung nicht fehlerfrei erfolgt. In der praktischen Prüfung über die Klassifizierung von Rinder- und Schafschlachtkörpern sind vom Prüfungsteilnehmer in zwei Durchgängen jeweils mindestens 30 Schlachtkörper der jeweiligen Tierart in Kategorien und Handelsklassen einzureihen. Nach der Auswertung des ersten Klassifizierungsdurchgangs wird mit dem Prüfungsteilnehmer die vom Prüfer für jeden einzelnen Schlachtkörper festgelegte Klassifizierung durchgesprochen. Das Ergebnis des zweiten Klassifizierungsdurchgangs ist prüfungsentscheidend. Bei Rinderschlachtkörpern dürfen die Einstufungen von der vom Prüfer festgelegten Klassifizierung um höchstens eine Untergruppe (Fleischigkeit und Fettabdeckung) abweichen. Abweichungen, die über eine Untergruppe hinausgehen, werden höchstens bei 10 Prozent der Schlachtkörper je Merkmal (Fleischigkeit und Fettabdeckung) toleriert. Kumulieren ist möglich, jedoch dürfen bei einem Merkmal nicht mehr als fünf Abweichungen erfolgt sein. Abweichungen in der Kategorieneinstufung werden höchstens bei 10 Prozent der Schlachtkörper toleriert. Sofern die erlaubte Fehlerquote überschritten wird, ist die Prüfung nicht bestanden. Bei Schafschlachtkörpern dürfen die Einstufungen von der vom Prüfer festgelegten Klassifizierung um höchstens 10 Prozent je Merkmal (Kategorie, Fleischigkeit und Fettabdeckung) abweichen. Kumulieren ist möglich, jedoch dürfen bei einem Merkmal nicht mehr als fünf Abweichungen erfolgt sein. Sofern die erlaubte Fehlerquote überschritten wird, ist die Prüfung nicht bestanden. Die Prüfung ist auch dann nicht bestanden, wenn die für die Kategorienbestimmung relevante Geschlechtsbestimmung nicht fehlerfrei erfolgt.
 
-1.
+B. Verwiegung/Schnittführung Am Schlachtkörper ist der richtige Zuschnitt für die Feststellung des Schlachtgewichts nach § 2 Abs. 2 der 1. Fleischgesetz-Durchführungsverordnung zu erläutern. Sofern der Prüfungsteilnehmer die Schnittführung nicht fehlerfrei erklären kann, ist die Prüfung nicht bestanden.
 
-1.1.
+A. Klassifizierung In der praktischen Prüfung über die Klassifizierung von Schweineschlachtkörpern muss der Prüfungsteilnehmer darlegen, dass er die Funktion und die Bedienung der Klassifizierungsgeräte sowie das Zweipunktverfahren nach Anlage 3 der Schweineschlachtkörper-Handelsklassenverordnung (ZP-Verfahren) beherrscht. Andernfalls ist die Prüfung nicht bestanden.
 
-1.2.
+I. Klassifizierung mit Choirometern Der Prüfungsteilnehmer hat am Schlachtband unter Praxisbedingungen an 30 Schlachtkörpern die Maße nach Anlage 2 der Schweineschlachtkörper-Handelsklassenverordnung zu ermitteln. Einer vorherigen Referenzfestlegung bedarf es nicht.1.Klassifizierung mit SondengerätenBei Sondengeräten (invasives Verfahren) gelten folgende Toleranzen:1.1Am einzelnen Schlachtkörper:1.1.1Der Einstich muss in der Höhe (caudal/cranial) zwischen der zweit- und drittletzten Rippe liegen.1.1.2Der Einstich 7 cm seitlich der Trennlinie (medial/lateral) darf höchstens um +/– 1,0 cm abweichen.1.1.3Der Ausstich in der Bauchhöhle muss 4 cm seitlich der äußeren Kante des Wirbelkörpers liegen und darf höchstens um +/– 0,5 cm abweichen.1.1.4Der Abstand zur Oberfläche des Schlachtkörpers, der am Ende der Querplatte der Kontrollnadel 8 cm caudal/cranial vom Einstich erreicht wird, darf höchstens 1,0 cm betragen.1.2Für die Prüfungsstichprobe darf die in 1.1 definierte Einstichstelle nur in 10 Prozent der Fälle um höchstens eine Rippe verfehlt werden, die unter 1.1.2 bis 1.1.4 genannten Toleranzen dürfen jeweils höchstens in 10 Prozent der Fälle überschritten werden. Kumulieren ist zulässig, jedoch sind je Merkmal nicht mehr als fünf Überschreitungen zulässig. Sofern die erlaubte Fehlerquote überschritten wird, ist die Prüfung nicht bestanden.2.Klassifizierung mit UltraschallgerätenFür Ultraschallgeräte (nicht invasives Verfahren) gelten bezogen auf die Markierungsstelle folgende Toleranzen:2.1Am einzelnen Schlachtkörper:2.1.1Die Markierungsstelle liegt beim CSB-Ultrameater 7 cm seitlich der Trennlinie, 12 cm oberhalb (caudal) der Messstelle,beim US-Porkitron (Pistole mit Aluminiumgehäuse) 7 cm seitlich der Trennlinie, 11 cm oberhalb (caudal) der Messstelle undbeim US-Porkitron (Pistole mit Kunststoffgehäuse) 7 cm seitlich der Trennlinie, 8 cm oberhalb (caudal) der Messstelle.Die Markierungsstelle darf caudal/cranial und medial/lateral jeweils höchstens um 1,0 cm abweichen.2.1.2Der/Die Querbalken der Markierung muss/müssen beim US-Porkitron waagerecht verlaufen. Die Verlängerung des Querbalkens (bei Aluminiumpistolen der caudal gelegene Querbalken) darf an der Trennlinie caudal/cranial höchstens um 1,0 cm abweichen.Beim CSB-Ultrameater werden die Videoaufzeichnungen der klassifizierten Schlachtkörper zur Kontrolle des korrekten Schallaustritts herangezogen.2.2Für die Prüfungsstichprobe dürfen die unter 2.1 genannten Toleranzen für Messungen am einzelnen Schlachtkörper jeweils in höchstens 10 Prozent der Fälle überschritten werden. Kumulieren ist zulässig, jedoch sind je Toleranzmerkmal nicht mehr als fünf Überschreitungen zulässig. Sofern die erlaubte Fehlerquote überschritten wird, ist die Prüfung nicht bestanden. Klassifizierung mit Sondengeräten Bei Sondengeräten (invasives Verfahren) gelten folgende Toleranzen: Am einzelnen Schlachtkörper: Der Einstich muss in der Höhe (caudal/cranial) zwischen der zweit- und drittletzten Rippe liegen. Der Einstich 7 cm seitlich der Trennlinie (medial/lateral) darf höchstens um +/– 1,0 cm abweichen. Der Ausstich in der Bauchhöhle muss 4 cm seitlich der äußeren Kante des Wirbelkörpers liegen und darf höchstens um +/– 0,5 cm abweichen. Der Abstand zur Oberfläche des Schlachtkörpers, der am Ende der Querplatte der Kontrollnadel 8 cm caudal/cranial vom Einstich erreicht wird, darf höchstens 1,0 cm betragen. Für die Prüfungsstichprobe darf die in 1.1 definierte Einstichstelle nur in 10 Prozent der Fälle um höchstens eine Rippe verfehlt werden, die unter 1.1.2 bis 1.1.4 genannten Toleranzen dürfen jeweils höchstens in 10 Prozent der Fälle überschritten werden. Kumulieren ist zulässig, jedoch sind je Merkmal nicht mehr als fünf Überschreitungen zulässig. Sofern die erlaubte Fehlerquote überschritten wird, ist die Prüfung nicht bestanden. Klassifizierung mit Ultraschallgeräten Für Ultraschallgeräte (nicht invasives Verfahren) gelten bezogen auf die Markierungsstelle folgende Toleranzen: Am einzelnen Schlachtkörper: Die Markierungsstelle liegt beim CSB-Ultrameater 7 cm seitlich der Trennlinie, 12 cm oberhalb (caudal) der Messstelle,beim US-Porkitron (Pistole mit Aluminiumgehäuse) 7 cm seitlich der Trennlinie, 11 cm oberhalb (caudal) der Messstelle undbeim US-Porkitron (Pistole mit Kunststoffgehäuse) 7 cm seitlich der Trennlinie, 8 cm oberhalb (caudal) der Messstelle.Die Markierungsstelle darf caudal/cranial und medial/lateral jeweils höchstens um 1,0 cm abweichen. beim CSB-Ultrameater 7 cm seitlich der Trennlinie, 12 cm oberhalb (caudal) der Messstelle, beim US-Porkitron (Pistole mit Aluminiumgehäuse) 7 cm seitlich der Trennlinie, 11 cm oberhalb (caudal) der Messstelle und beim US-Porkitron (Pistole mit Kunststoffgehäuse) 7 cm seitlich der Trennlinie, 8 cm oberhalb (caudal) der Messstelle. Der/Die Querbalken der Markierung muss/müssen beim US-Porkitron waagerecht verlaufen. Die Verlängerung des Querbalkens (bei Aluminiumpistolen der caudal gelegene Querbalken) darf an der Trennlinie caudal/cranial höchstens um 1,0 cm abweichen. Beim CSB-Ultrameater werden die Videoaufzeichnungen der klassifizierten Schlachtkörper zur Kontrolle des korrekten Schallaustritts herangezogen. Für die Prüfungsstichprobe dürfen die unter 2.1 genannten Toleranzen für Messungen am einzelnen Schlachtkörper jeweils in höchstens 10 Prozent der Fälle überschritten werden. Kumulieren ist zulässig, jedoch sind je Toleranzmerkmal nicht mehr als fünf Überschreitungen zulässig. Sofern die erlaubte Fehlerquote überschritten wird, ist die Prüfung nicht bestanden.
 
-2.
+II. Klassifizierung mit einer AutoFOM-Anlage Die Funktion, die Inbetriebnahme und die Prüfung der AutoFOM-Anlage sind vom Prüfungsteilnehmer fehlerfrei zu erklären und zu demonstrieren. Die Prüfung bezieht sich auf folgende Abschnitte: 1.Prüfung der Software,2.Prüfung der Hardware,3.Prüfung des technischen Umfeldes,4.eichtechnische Kontrollen und5.allgemeine Kontrollen.Sofern der Prüfungsteilnehmer die Funktion, die Inbetriebnahme und die Prüfung der AutoFOM-Anlage nicht fehlerfrei erklären und demonstrieren kann, ist die Prüfung nicht bestanden. Prüfung der Software, Prüfung der Hardware, Prüfung des technischen Umfeldes, eichtechnische Kontrollen und allgemeine Kontrollen.
 
-B.
+III. Klassifizierung mit dem ZP-Verfahren1.Die für die Prüfung im ZP-Verfahren zugrunde zu legenden Messwerte (Referenzwerte) werden vom Prüfer an zwanzig Schweineschlachtkörpern festgelegt. Die Referenzwerte werden durch Messungen am Schweineschlachtkörper nach Anlage 3 der Schweineschlachtkörper-Handelsklassenverordnung ermittelt.2.Prüfer und Prüfungsteilnehmer haben das gleiche Messwerkzeug zu benutzen.3.Es sind zwei Prüfungsdurchgänge durchzuführen. Die Ergebnisse des ersten Durchgangs sind mit den Teilnehmern zu besprechen. Der zweite Prüfungsdurchgang ist nicht erforderlich für die Prüfungsteilnehmer, die im ersten Prüfungsdurchgang die festgelegten Werte innerhalb der unter 4. genannten Toleranzen an allen Schlachtkörpern erbracht haben.4.Im zweiten Durchgang muss der Prüfungsteilnehmer die festgelegten Werte innerhalb folgender Toleranzen erbringen:4.1Am einzelnen Schlachtkörper dürfen die von ihm gemessenen Werte von den ermittelten Referenzwerten bei der Speckdicke höchstens um +/– 2 mm und beim Fleischmaß höchstens um +/– 3 mm abweichen.4.2Abweichungen, die über die unter 4.1 genannten Maße hinausgehen, werden maximal bei jeweils 10 Prozent der Schlachtkörper toleriert; dabei ist Kumulieren zulässig, jedoch sind je Toleranzmerkmal nicht mehr als drei Überschreitungen zulässig.4.3(weggefallen)Sofern die erlaubte Fehlerquote überschritten wird, ist die Prüfung nicht bestanden. Die für die Prüfung im ZP-Verfahren zugrunde zu legenden Messwerte (Referenzwerte) werden vom Prüfer an zwanzig Schweineschlachtkörpern festgelegt. Die Referenzwerte werden durch Messungen am Schweineschlachtkörper nach Anlage 3 der Schweineschlachtkörper-Handelsklassenverordnung ermittelt. Prüfer und Prüfungsteilnehmer haben das gleiche Messwerkzeug zu benutzen. Es sind zwei Prüfungsdurchgänge durchzuführen. Die Ergebnisse des ersten Durchgangs sind mit den Teilnehmern zu besprechen. Der zweite Prüfungsdurchgang ist nicht erforderlich für die Prüfungsteilnehmer, die im ersten Prüfungsdurchgang die festgelegten Werte innerhalb der unter 4. genannten Toleranzen an allen Schlachtkörpern erbracht haben. Im zweiten Durchgang muss der Prüfungsteilnehmer die festgelegten Werte innerhalb folgender Toleranzen erbringen: Am einzelnen Schlachtkörper dürfen die von ihm gemessenen Werte von den ermittelten Referenzwerten bei der Speckdicke höchstens um +/– 2 mm und beim Fleischmaß höchstens um +/– 3 mm abweichen. Abweichungen, die über die unter 4.1 genannten Maße hinausgehen, werden maximal bei jeweils 10 Prozent der Schlachtkörper toleriert; dabei ist Kumulieren zulässig, jedoch sind je Toleranzmerkmal nicht mehr als drei Überschreitungen zulässig. (weggefallen)
 
-A.
-
-I.
-
-1.
-
-1.1
-
-1.1.1
-
-1.1.2
-
-1.1.3
-
-1.1.4
-
-1.2
-
-2.
-
-2.1
-
-2.1.1
-
-2.1.2
-
-2.2
-
-II.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-III.
-
-1.
-
-2.
-
-3.
-
-4.
-
-4.1
-
-4.2
-
-4.3
-
-B.
+B. Verwiegung/Schnittführung Am Schlachtkörper ist der richtige Zuschnitt für die Feststellung des Schlachtgewichts nach § 2 Abs. 2 der 1. Fleischgesetz-Durchführungsverordnung zu erläutern. Sofern der Prüfungsteilnehmer die Schnittführung nicht fehlerfrei erklären kann, ist die Prüfung nicht bestanden.
 
 ### Anlage 2 — (zu § 7 Abs. 2 und § 15 Abs. 1)
 
 Der Ausbildungskurs setzt sich aus einem praktischen und einem theoretischen Teil zusammen:
 
-1.
+1. Praktischer Teil Im praktischen Teil ist die korrekte Schnittführung nach § 2 Abs. 2 der 1. Fleischgesetz-Durchführungsverordnung und die Verwiegung von Schlachtkörpern zu erläutern und die korrekte Anwendung der Klassifizierungssysteme und der in Deutschland zugelassenen Klassifizierungsgeräte und Klassifizierungsverfahren zu unterrichten.
 
-2.
-
-a)
-
--
-
--
-
--
-
--
-
-b)
-
-c)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-ff)
-
-gg)
-
-hh)
-
-ii)
+2. Theoretischer Teil Im theoretischen Teil werden Kenntnisse in folgenden Bereichen vermittelt: a)fachspezifische Kenntnisse über -die Klassifizierungssysteme und die zugelassenen Klassifizierungsverfahren,-die Anwendung, Funktion und Kontrolle von Klassifizierungsgeräten,-die Schlachtkörperanatomie und die Schnittführung und-die Grundlagen der Schlachttechnologie,b)die Struktur der Vieh- und Fleischbranche und die Zuständigkeiten der beteiligten Institutionen sowiec)die einschlägigen Rechtsnormen, insbesondere aa)die europäischen und nationalen Bestimmungen über Handelsklassen und Preismeldungen für die jeweilige Tierart (Rinder-, Schweine- bzw. Schafschlachtkörper),bb)das Handelsklassengesetz,cc)das Fleischgesetz und seine Durchführungsverordnungen,dd)das Lebensmittelhygienerecht (Auszüge),ee)das Eichrecht (Auszüge),ff)die Viehverkehrsverordnung (Auszüge),gg)das Lebensmittel- und Futtermittelgesetzbuch (Auszüge),hh)die Bestimmungen über die Rindfleischetikettierung (Auszüge) undii)das Lebensmittelkennzeichnungsrecht (Auszüge). fachspezifische Kenntnisse über -die Klassifizierungssysteme und die zugelassenen Klassifizierungsverfahren,-die Anwendung, Funktion und Kontrolle von Klassifizierungsgeräten,-die Schlachtkörperanatomie und die Schnittführung und-die Grundlagen der Schlachttechnologie, die Klassifizierungssysteme und die zugelassenen Klassifizierungsverfahren, die Anwendung, Funktion und Kontrolle von Klassifizierungsgeräten, die Schlachtkörperanatomie und die Schnittführung und die Grundlagen der Schlachttechnologie, die Struktur der Vieh- und Fleischbranche und die Zuständigkeiten der beteiligten Institutionen sowie die einschlägigen Rechtsnormen, insbesondere aa)die europäischen und nationalen Bestimmungen über Handelsklassen und Preismeldungen für die jeweilige Tierart (Rinder-, Schweine- bzw. Schafschlachtkörper),bb)das Handelsklassengesetz,cc)das Fleischgesetz und seine Durchführungsverordnungen,dd)das Lebensmittelhygienerecht (Auszüge),ee)das Eichrecht (Auszüge),ff)die Viehverkehrsverordnung (Auszüge),gg)das Lebensmittel- und Futtermittelgesetzbuch (Auszüge),hh)die Bestimmungen über die Rindfleischetikettierung (Auszüge) undii)das Lebensmittelkennzeichnungsrecht (Auszüge). die europäischen und nationalen Bestimmungen über Handelsklassen und Preismeldungen für die jeweilige Tierart (Rinder-, Schweine- bzw. Schafschlachtkörper), das Handelsklassengesetz, das Fleischgesetz und seine Durchführungsverordnungen, das Lebensmittelhygienerecht (Auszüge), das Eichrecht (Auszüge), die Viehverkehrsverordnung (Auszüge), das Lebensmittel- und Futtermittelgesetzbuch (Auszüge), die Bestimmungen über die Rindfleischetikettierung (Auszüge) und das Lebensmittelkennzeichnungsrecht (Auszüge).

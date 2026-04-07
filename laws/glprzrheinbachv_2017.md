@@ -12,7 +12,13 @@ Auf Grund des § 50 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artik
 
 ### § 1 — Gleichstellung von Prüfungszeugnissen
 
-Die vom 1. Oktober 2016 bis zum 30. September 2026 vom Staatlichen Berufskolleg Glas-Keramik-Gestaltung des Landes Nordrhein-Westfalen in Rheinbach erteilten Prüfungszeugnisse über erfolgreich abgelegte Abschlussprüfungen werden mit den Zeugnissen über das Bestehen der Abschluss- und Gesellenprüfung in Ausbildungsberufen nach Maßgabe der nachstehenden Auflistung gleichgestellt: Bezeichnung des Prüfungszeugnisses des Staatlichen Berufskollegs Glas-Keramik-Gestaltung des LandesNordrhein-Westfalen in RheinbachAusbildungsberuf, für den gleichgestellt wirdAbschlussprüfung als Glaser/Glaserin Fachrichtung Verglasung und GlasbauGlaser/Glaserin im Gewerbe der Anlage A Nummer 39 der Handwerksordnung „Glaser“ Fachrichtung Verglasung und GlasbauAbschlussprüfung als Glasveredler/Glasveredlerin Fachrichtungen: –Kanten- und Flächenveredelung–Schliff und Gravur–Glasmalerei und KunstverglasungGlasveredler/Glasveredlerin Fachrichtungen: –Kanten- und Flächenveredelung–Schliff und Gravur–Glasmalerei und Kunstverglasungund Glasveredler/Glasveredlerin im Gewerbe der Anlage B Abschnitt 1 Nummer 34 der Handwerksordnung „Glasveredler“ Fachrichtungen: –Kanten- und Flächenveredelung–Schliff und Gravur–Glasmalerei und Kunstverglasung
+Die vom 1. Oktober 2016 bis zum 30. September 2026 vom Staatlichen Berufskolleg Glas-Keramik-Gestaltung des Landes Nordrhein-Westfalen in Rheinbach erteilten Prüfungszeugnisse über erfolgreich abgelegte Abschlussprüfungen werden mit den Zeugnissen über das Bestehen der Abschluss- und Gesellenprüfung in Ausbildungsberufen nach Maßgabe der nachstehenden Auflistung gleichgestellt:
+
+– Kanten- und Flächenveredelung
+
+– Schliff und Gravur
+
+– Glasmalerei und Kunstverglasung
 
 ### § 2 — Inkrafttreten, Außerkrafttreten
 

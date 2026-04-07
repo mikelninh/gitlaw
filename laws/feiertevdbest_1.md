@@ -24,23 +24,11 @@ Für die Arbeitnehmer gilt als Feiertag der für das Territorium festgelegte Fei
 
 (1) Das Recht auf unbezahlte ganztägige Freistellung von der Arbeit haben
 
-a)
+a) Arbeitnehmer evangelischen Glaubens für die evangelischen Feiertage-Reformationstag und -Buß- und Bettag, Reformationstag und Buß- und Bettag, wenn im Territorium gemäß § 1 Fronleichnam und Allerheiligen als gesetzliche Feiertage gelten,
 
--
+b) Arbeitnehmer katholischen Glaubens für die katholischen Feiertage-Fronleichnam und -Allerheiligen, Fronleichnam und Allerheiligen, wenn im Territorium gemäß § 1 der Reformationstag und der Buß- und Bettag als gesetzliche Feiertage gelten,
 
--
-
-b)
-
--
-
--
-
-c)
-
--
-
--
+c) Arbeitnehmer jüdischen Glaubens für die jüdischen Feiertage-Jaum Kippur, -Rausch Haschonoh. Jaum Kippur, Rausch Haschonoh.
 
 (2) Die Regelung gemäß Absatz 1 gilt sinngemäß für Schüler, Studenten und Auszubildende evangelischen, katholischen und jüdischen Glaubens. Sie haben das Recht auf Freistellung vom Schulunterricht, Studium bzw. von der Ausbildung. Für Minderjährige erfolgt die Freistellung auf der Grundlage einer Mitteilung der Erziehungsberechtigten.
 
@@ -49,5 +37,3 @@ c)
 Diese Durchführungsbestimmung tritt mit ihrer Veröffentlichung in Kraft.
 
 ### Schlußformel
-
-Der Minister für Arbeit und Soziales

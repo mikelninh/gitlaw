@@ -32,8 +32,6 @@ Diese Verordnung tritt mit Wirkung vom 18. September 1965 in Kraft.
 
 ### Anlage — zu § 1
 
-(Fundstelle des Originaltextes: BGBl. I 1967, 234 - 254;
-
 Schlieben, Kreis Schweinitz,
 
 16.8.1944 bis 30.4.1945 (Männerlager)

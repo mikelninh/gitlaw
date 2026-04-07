@@ -12,13 +12,13 @@
 
 (1) Leistungen können angefordert werden
 
-1.
+1. zur Abwendung einer drohenden Gefahr für den Bestand oder die freiheitliche demokratische Grundordnung des Bundes oder eines Landes oder zur Abwendung oder Beseitigung einer die Sicherheit der Grenzen gefährdenden Störung der öffentlichen Ordnung im Grenzgebiet;
 
-2.
+2. für Zwecke der Verteidigung, im besonderen zur Abwendung einer Gefahr, durch die von außen der Bestand des Bundes entweder unmittelbar oder mittelbar im Rahmen seiner Einordnung in ein System gegenseitiger kollektiver Sicherheit bedroht wird;
 
-3.
+3. zur Erfüllung der Verpflichtungen des Bundes aus zwischenstaatlichen Verträgen über die Stationierung und die Rechtsstellung von Streitkräften auswärtiger Staaten im Bundesgebiet;
 
-4.
+4. zur Unterbringung von Personen oder Verlegung von Betrieben und öffentlichen Einrichtungen, die wegen einer Inanspruchnahme von Grundstücken für Zwecke der Nummern 1 bis 3 notwendig ist.
 
 (2) Die in § 5 Abs. 2 und § 38 vorgesehenen Befugnisse dürfen außer im Verteidigungsfall nur in Anspruch genommen werden, wenn die Bundesregierung festgestellt hat, daß dies zur beschleunigten Herstellung der Verteidigungsbereitschaft der Bundesrepublik notwendig ist. Die Bundesregierung hat die Feststellung aufzuheben, wenn die Voraussetzungen hierfür entfallen oder wenn der Bundestag und der Bundesrat es verlangen.
 
@@ -28,25 +28,25 @@
 
 (1) Als Leistungen können angefordert werden
 
-1.
+1. die Überlassung von beweglichen Sachen zum Gebrauch, zum Mitgebrauch oder zu anderer Nutzung;
 
-2.
+2. die Überlassung beweglicher Sachen zum Eigentum, sofern der Verbrauch, ein langandauernder Gebrauch oder die Durchführung wesentlicher Veränderungen oder die Vornahme erheblicher Aufwendungen für die Sache wahrscheinlich ist;
 
-3.
+3. die Überlassung von Funkanlagen zum Gebrauch oder Mitgebrauch sowie die Unterlassung ihres Gebrauchs;
 
-4.
+4. die Überlassung von Fernsprech- und Fernschreibteilnehmereinrichtungen zum Gebrauch oder Mitgebrauch im Rahmen der bestehenden Vertragsverhältnisse mit Unternehmen, die Telekommunikationsdienstleistungen erbringen;
 
-5.
+5. die Überlassung von baulichen Anlagen oder Teilen von baulichen Anlagen, unbebauten Grundstücken oder freien Flächen von bebauten Grundstücken zum vorübergehenden Gebrauch, Mitgebrauch oder zu einer anderen zeitlich beschränkten Nutzung;
 
-6.
+6. die Unterlassung des Gebrauchs, des Mitgebrauchs, der sonstigen Nutzung oder der Änderung von beweglichen und unbeweglichen Sachen;
 
-7.
+7. Einbauten, Änderungen oder Wiederherstellungsmaßnahmen an beweglichen und unbeweglichen Sachen, soweit ihre Vornahme dem Leistungspflichtigen selbst zuzumuten ist, sowie die Duldung solcher Maßnahmen;
 
-8.
+8. die Duldung von Einwirkungen auf bewegliche und unbewegliche Sachen;
 
-9.
+9. Werkleistungen, insbesondere Instandsetzungsleistungen, sowie Verpflegungsleistungen, soweit diese Leistungen im Rahmen des allgemeinen Geschäftsbetriebs des Leistungspflichtigen vorgenommen zu werden pflegen, ferner Verkehrsleistungen von Eigentümern oder Besitzern von Verkehrsmitteln, auch wenn es sich nicht um Verkehrsunternehmen handelt;
 
-10.
+10. der Abschluß von Verträgen über wiederkehrende oder Dauerleistungen gemäß Nummer 9 dieses Absatzes.
 
 (2) Die Inanspruchnahme von Räumen, Studios, Sende- und sonstigen technischen Einrichtungen und Anlagen der Rundfunkanstalten zum Gebrauch, zum Mitgebrauch oder zur Unterlassung des Gebrauchs ist nur für die in § 1 Abs. 1 Nr. 1 und 2 bestimmten Zwecke und nur dann zulässig, wenn sie zur Abwendung oder Beseitigung der Bedrohung oder Gefahr nach § 1 Abs. 1 Nr. 1 oder 2 unerläßlich ist.
 
@@ -72,19 +72,19 @@
 
 (2) Zu Leistungen können nicht herangezogen werden
 
-1.
+1. ausländische Staatsangehörige, soweit nach Staatsverträgen oder anerkannten Regeln des Völkerrechts Befreiungen bestehen;
 
-2.
+2. Bund, Länder, Gemeinden, Gemeindeverbände und andere juristische Personen des öffentlichen Rechts und ihre Verbände hinsichtlich der Sachen und Rechte, die für die Erfüllung ihrer Verwaltungstätigkeit unentbehrlich sind;
 
-3.
+3. Parteien, die im Bundestag oder in der Volksvertretung eines Landes vertreten sind, sowie Gewerkschaften und Arbeitgeberverbände wegen der Sachen und Rechte, die für ihre Verwaltungstätigkeit unentbehrlich sind;
 
-4.
+4. Kirchen und andere öffentlich-rechtliche Religionsgemeinschaften sowie deren Verbände hinsichtlich der Sachen und Rechte, die kirchlichen Aufgaben dienen oder für die Erfüllung ihrer Verwaltungstätigkeit unentbehrlich sind;
 
-5.
+5. Verkehrsunternehmen, die einer gesetzlichen Betriebs- und Beförderungspflicht unterliegen, hinsichtlich der zur Aufrechterhaltung des lebenswichtigen Verkehrs unentbehrlichen Verkehrsmittel, Anlagen, Einrichtungen und Gebäude;
 
-6.
+6. Betriebe der öffentlichen Versorgung mit Elektrizität, Gas und Wasser und der Abwässerbeseitigung hinsichtlich der zur Erfüllung ihrer Aufgaben unentbehrlichen Sachen und Rechte einschließlich der zugehörigen Schutzgebiete;
 
-7.
+7. andere lebenswichtige Betriebe, soweit die Erfüllung ihrer Aufgaben durch die Leistung wesentlich beeinträchtigt würde nach näherer Bestimmung einer Rechtsverordnung der Bundesregierung, die der Zustimmung des Bundesrates bedarf.
 
 (3) Soweit Gebäude oder bewegliche Sachen gemeinnützigen, religiösen, wohltätigen oder erzieherischen Aufgaben oder dem Unterricht oder der Forschung dienen, sollen sie nur zur Abwendung oder Beseitigung einer Gefahr oder einer Störung im Sinne des § 1 Abs. 1 Nr. 1 oder für Zwecke der Verteidigung im Sinne des § 1 Abs. 1 Nr. 2 angefordert werden; dasselbe gilt hinsichtlich der unmittelbar der Erfüllung der Aufgaben der Sozialversicherungsträger und ihrer Verbände dienenden Gebäude und beweglichen Sachen. Krankenhäuser, Heil- und Pflegeanstalten oder andere der Gesundheitspflege dienende Einrichtungen sollen ebenfalls nur zu den in Satz 1 genannten Zwecken angefordert werden.
 
@@ -94,25 +94,25 @@
 
 (2) Im Verteidigungsfall oder nach einer Feststellung der Bundesregierung gemäß § 1 Abs. 2 sind die Behörden der Bundeswehrverwaltung als Anforderungsbehörden zuständig für die Anforderung der nachstehenden Gegenstände und Leistungen, soweit diese für die Herstellung und Aufrechterhaltung der Einsatzbereitschaft der Streitkräfte benötigt werden:
 
-1.
+1. Waffen und Munition, ausgenommen Jagd- und Zierwaffen;
 
-2.
+2. Zelte;
 
-3.
+3. sonstige Ausrüstungsgegenstände und Unterkunftsgeräte für Truppen;
 
-4.
+4. Kraftfahrzeuge nebst Zubehör, sonstige Verkehrsmittel mit Ausnahme der See- und Binnenschiffe, der Seefischereifahrzeuge, Luftfahrzeuge und Straßenbahnen, sowie Umschlagsanlagen und -einrichtungen für Kraftfahrzeuge und die vorgenannten sonstigen Verkehrsmittel;
 
-5.
+5. optisches Gerät und Fernmeldegeräte mit Ausnahme der in § 2 Abs. 1 Nr. 3 und § 2 Abs. 2 bezeichneten Anlagen und Einrichtungen;
 
-6.
+6. Stromerzeugungsanlagen (Notstrom-Aggregate), soweit sie nicht wesentlicher Bestandteil eines Grundstücks sind;
 
-7.
+7. Werkzeuge, Gerätschaften und Maschinen, die zur Instandsetzung und Instandhaltung der unter Nummer 1 bis 6 aufgeführten Gegenstände erforderlich sind, einschließlich des Zubehörs und der Ersatzteile für die vorgenannten Gegenstände;
 
-8.
+8. Betriebs- und Brennstoffe;
 
-9.
+9. Baustoffe, Bauhilfsstoffe, Werkzeuge, Gerätschaften und Maschinen zur Herstellung oder Wiederherstellung von Gebäuden, Verkehrswegen und sonstigen Anlagen, einschließlich der hierfür benötigten Ersatz- und Zubehörteile;
 
-10.
+10. Leistungen gemäß § 2 Abs. 1 Nr. 4 bis 10, Verkehrsleistungen jedoch nur, soweit diese mit Kraftfahrzeugen und den unter Nummer 4 genannten sonstigen Verkehrsmitteln ausgeführt werden.
 
 (3) Die Anforderungen nach Absatz 2 erfolgen im Benehmen mit den Behörden, die nach der gemäß Absatz 1 zu erlassenden Rechtsverordnung für die Anforderungen solcher Gegenstände und Leistungen sonst zuständig sind.
 
@@ -140,17 +140,17 @@
 
 (1) Leistungspflichtiger ist
 
-1.
+1. bei Anforderungen nach § 2 Abs. 1 Nr. 1 und 3 bis 5, wer die tatsächliche Gewalt über die Sache ausübt;
 
-2.
+2. bei Anforderungen nach § 2 Abs. 1 Nr. 2 und 8 der Eigentümer der Sache;
 
-3.
+3. bei Anforderungen nach § 2 Abs. 1 Nr. 6 derjenige, dem ein dingliches oder ein persönliches Recht zusteht, das zum Gebrauch, zum Mitgebrauch oder zur sonstigen Nutzung der Sache berechtigt;
 
-4.
+4. bei Anforderungen nach § 2 Abs. 1 Nr. 7 der Eigentümer der Sache oder der Träger der Bau- und Unterhaltungslast für die Verkehrsanlagen;
 
-5.
+5. bei Anforderungen nach § 2 Abs. 1 Nr. 9 der Inhaber des Betriebs sowie der Eigentümer oder Besitzer des Verkehrsunternehmens oder des Verkehrsmittels;
 
-6.
+6. bei Anforderungen nach § 2 Abs. 1 Nr. 10, wer durch den Vertrag verpflichtet werden soll.
 
 (2) Im Einzelfall wird der Leistungspflichtige nach Maßgabe des Absatzes 1 von der Anforderungsbehörde bestimmt. Die Anforderungsbehörde überläßt die Bestimmung der einzelnen Leistungspflichtigen einer Gemeinde oder einem Gemeindeverband, wenn in deren Bezirk eine Mehrzahl von gleichartigen Leistungen erbracht werden soll und die Übertragung zur Beschleunigung der Anforderung erforderlich ist.
 
@@ -263,11 +263,11 @@ Für Vermögensnachteile, die nicht schon durch die Entschädigung nach § 20 ab
 
 (1) Die Entschädigung nach § 20 kann verlangen
 
-1.
+1. für Leistungen nach § 2 Abs. 1 Nr. 1, 5, 6 und 8 der Eigentümer; die Entschädigung steht dem Mieter oder Pächter zu, wenn er nicht nach § 11 Satz 2 von der Verpflichtung zu wiederkehrenden Leistungen befreit ist;
 
-2.
+2. für Leistungen nach § 2 Abs. 1 Nr. 3 und 4 der Nutzungsberechtigte;
 
-3.
+3. für Leistungen nach § 2 Abs. 1 Nr. 2 und 7 der Eigentümer.
 
 (2) Eine Entschädigung nach § 21 können verlangen der Eigentümer, sonstige an der Sache zur Nutzung Berechtigte, Dienstbarkeitsberechtigte und diejenigen, die auf Grund eines persönlichen Rechtes die Sache besitzen.
 
@@ -353,8 +353,6 @@ Soweit Preisvorschriften bestehen, unterliegt ihnen die Bemessung der Entschädi
 
 (2) Auf die Verjährung anderer nach diesem Gesetz begründeter Ansprüche sind die Vorschriften des Bürgerlichen Gesetzbuchs anzuwenden.
 
-(3) Die Vorschriften über den Verlust von Ansprüchen nach Artikel 8 Abs. 6 des Finanzvertrags sowie nach Artikel 6 und 7 des Gesetzes vom 18. August 1961 zum NATO-Truppenstatut und zu den Zusatzvereinbarungen (Bundesgesetzbl. II S. 1183) bleiben unberührt.
-
 ## Erster Abschnitt: Durchführung der Anforderung
 
 ### § 35
@@ -407,15 +405,15 @@ Bietet der Leistungspflichtige dem Leistungsempfänger zu angemessenen Bedingung
 
 ### § 43
 
-(1) Fallen die Voraussetzungen der Anforderung weg, so hat die Anforderungsbehörde Bei Anforderung von Wohnraum ist in Abständen von längstens sechs Monaten, beginnend mit dem Zeitpunkt der Zustellung des Leistungsbescheids, von Amts wegen zu prüfen, ob die Voraussetzungen der Anforderung noch vorliegen.
+(1) Fallen die Voraussetzungen der Anforderung weg, so hat die Anforderungsbehörde
 
-1.
+1. bei Anforderung von Leistungen nach § 2 Abs. 1 Nr. 1 und 3 bis 8 auf Antrag des Leistungsempfängers oder des Entschädigungsberechtigten die Beendigung der Anforderung anzuordnen;
 
-2.
+2. bei Anforderung von Leistungen nach § 2 Abs. 1 Nr. 2 auf Antrag des Leistungspflichtigen eine Anordnung zu erlassen, kraft deren dieser das Eigentum an der angeforderten Sache wieder erwirbt, sofern die Sache sich noch im Eigentum und im Besitz des Leistungsempfängers befindet und er der Sache für die im Leistungsbescheid angegebenen Zwecke nicht mehr bedarf, es sei denn, daß die Leistung im öffentlichen Interesse für einen anderen der in § 1 Abs. 1 genannten Zwecke dringend benötigt wird. Eine Änderung des Zweckes der angeforderten Leistung im Rahmen des § 1 Abs. 1 ist ausgeschlossen, wenn sie zu einer unzumutbaren Härte für den Leistungspflichtigen führen würde;
 
-3.
+3. bei Anforderung von Leistungen nach § 2 Abs. 1 Nr. 9 auf Antrag des Leistungspflichtigen diesen von der Erbringung weiterer Leistungen zu entbinden;
 
-4.
+4. bei Anforderung von Leistungen nach § 2 Abs. 1 Nr. 10 auf Antrag des Leistungspflichtigen diesem das Recht einzuräumen, den Vertrag zu kündigen.
 
 (2) Anordnungen nach Absatz 1 sind dem Leistungsempfänger und dem Leistungspflichtigen, im Fall des Absatzes 1 Nr. 1 an Stelle des Leistungspflichtigen dem Entschädigungsberechtigten zuzustellen. Sie werden wirksam, sobald sie für diese unanfechtbar geworden sind.
 
@@ -443,9 +441,9 @@ Bietet der Leistungspflichtige dem Leistungsempfänger zu angemessenen Bedingung
 
 Für die Zustellungen durch die Verwaltungsbehörde nach diesem Gesetz gelten die Vorschriften des Verwaltungszustellungsgesetzes mit folgender Maßgabe:
 
-1.
+1. In dringenden Fällen kann, soweit eine Zustellung gemäß den §§ 3 bis 5 des Verwaltungszustellungsgesetzes nicht möglich ist, die Zustellung durch schriftliche oder fernschriftliche Mitteilung oder - ohne daß die Voraussetzungen für eine öffentliche Zustellung nach § 15 des Verwaltungszustellungsgesetzes vorzuliegen brauchen - durch öffentliche Bekanntmachung in der Presse, im Rundfunk oder in einer sonstigen ortsüblichen und geeigneten Weise erfolgen. In diesen Fällen gilt die Zustellung mit dem auf die Bekanntgabe folgenden Tag als bewirkt, sofern nicht der Betroffene glaubhaft macht, daß die Bekanntgabe überhaupt nicht oder erst in einem späteren Zeitpunkt zu seiner Kenntnis gelangt ist.
 
-2.
+2. Zustellungen an Führer von Seeschiffen, Binnenschiffen und Luftfahrzeugen können auch durch Funkspruch vorgenommen werden. Eine Ausfertigung des Bescheids ist gleichzeitig dem leistungspflichtigen Eigentümer oder Besitzer zu übermitteln.
 
 ### § 48
 
@@ -528,8 +526,6 @@ Hat eine oberste Bundes- oder Landesbehörde die Entschädigung oder Ersatzleist
 
 ### § 60
 
-(1) Die Festsetzung von Entschädigungen für Leistungen zugunsten der in § 1 Abs. 1 Nr. 3 bezeichneten Streitkräfte erfolgt im Benehmen mit den Behörden der beteiligten Macht (Artikel 12 Abs. 3 des Finanzvertrages vom 26. Mai 1952). In diesen Fällen steht die Bundesrepublik für die Erfüllung der Verpflichtung ein. Rechtsstreitigkeiten wegen der Festsetzung der Entschädigung oder Ersatzleistung werden von der Bundesrepublik im eigenen Namen geführt.
-
 (2) Das Verfahren für die Festsetzung des Ersatzes von Schäden, für welche die in § 1 Abs. 1 Nr. 3 bezeichneten Streitkräfte nach den §§ 26 und 28 ersatzpflichtig sind, sowie die Fristen für die Geltendmachung der Ansprüche auf solche Ersatzleistungen werden durch Artikel 8 des Finanzvertrags vom 26. Mai 1952 bestimmt. Sind die Schäden nach dem Inkrafttreten des NATO-Truppenstatuts und des Zusatzabkommens zum NATO-Truppenstatut verursacht worden oder gelten sie als nach diesem Zeitpunkt verursacht, so treten an die Stelle des Artikels 8 des Finanzvertrags Artikel VIII des NATO-Truppenstatuts, Artikel 41 des Zusatzabkommens zum NATO-Truppenstatut nebst Unterzeichnungsprotokoll sowie Artikel 6 bis 15 des Gesetzes vom 18. August 1961 zum NATO-Truppenstatut und zu den Zusatzvereinbarungen (Bundesgesetzbl. II S. 1183). Absatz 1 Satz 2 findet Anwendung.
 
 ### § 61
@@ -572,27 +568,27 @@ Die Vorschriften des Ersten und Zweiten Teils finden nur insoweit Anwendung, als
 
 (1) Die Truppen dürfen Grundstücke überqueren, vorübergehend besetzen oder zeitweilig sperren.
 
-(2) Ohne eine besondere Einwilligung des Berechtigten dürfen die Truppen die ihnen nach Absatz 1 zustehenden Rechte nicht ausüben auf Unter den in Artikel 45 Abs. 3 des Zusatzabkommens zum NATO-Truppenstatut als Naturschutzpark bezeichneten Gebieten sind Nationalparke zu verstehen.
+(2) Ohne eine besondere Einwilligung des Berechtigten dürfen die Truppen die ihnen nach Absatz 1 zustehenden Rechte nicht ausüben auf
 
-1.
+1. bebauten Grundstücken;
 
-2.
+2. Grundstücken, die wegen der land- oder forstwirtschaftlichen Nutzung oder als Wasserschutzgebiet durch die zuständigen Behörden als besonders schutzbedürftig erklärt worden sind;
 
-3.
+3. Naturschutzgebieten, Nationalparken, Naturdenkmalen oder geschützten Landschaftsbestandteilen sowie Tierschutzgebieten;
 
-4.
+4. Stätten von religiöser, kultureller oder geschichtlicher Bedeutung;
 
-5.
+5. Friedhöfen;
 
-6.
+6. Anlagen, welche bestimmt sind, die Sicherheit des Straßen-, Eisenbahn-, Wasserstraßen-, See- oder Luftverkehrs zu gewährleisten, und Verkehrsflughäfen;
 
-7.
+7. Anlagen, welche bestimmt sind, die Nachrichtenübermittlung zu gewährleisten;
 
-8.
+8. Anlagen zur Ent- oder Bewässerung sowie zur Abwässerbeseitigung;
 
-9.
+9. Anlagen zum Schutz gegen Naturgewalten;
 
-10.
+10. Anlagen zur Versorgung mit Wasser oder Energie.
 
 (3) Grundstücke dürfen in geringerer als der sonst zulässigen Höhe überflogen werden, soweit die Bedingungen für die Durchführung der Manöver dies ausdrücklich gestatten.
 
@@ -672,8 +668,6 @@ Die Vorschriften des § 7 Abs. 1 und 2 und des § 9 Abs. 2 finden Anwendung.
 
 ### § 82
 
-(1) Das Verfahren für die Abgeltung der Schäden, für welche die Streitkräfte nach § 77 ersatzpflichtig sind, sowie die Fristen für die Geltendmachung der Ansprüche auf Ersatzleistung werden, soweit die Stationierungstruppen in Betracht kommen, nach Artikel 8 des Finanzvertrags vom 26. Mai 1952 bestimmt. Sind die Schäden nach dem Inkrafttreten des NATO-Truppenstatuts und des Zusatzabkommens zum NATO-Truppenstatut verursacht worden, so treten an die Stelle des Artikels 8 des Finanzvertrages Artikel VIII des NATO-Truppenstatuts, Artikel 41 des Zusatzabkommens zum NATO-Truppenstatut nebst Unterzeichnungsprotokoll sowie Artikel 6 bis 15 des Gesetzes vom 18. August 1961 zum NATO-Truppenstatut und zu den Zusatzvereinbarungen (Bundesgesetzbl. II S. 1183).
-
 (2) Stehen uniformierte Verbände oder Einheiten im Dienst eines Landes, so gelten die landesrechtlichen Vorschriften.
 
 ### § 83
@@ -686,17 +680,17 @@ Wenn die Bundesregierung feststellt, dass die Herstellung der Einsatzfähigkeit 
 
 (1) Ordnungswidrig handelt, wer als Leistungspflichtiger vorsätzlich oder fahrlässig
 
-1.
+1. eine Leistung, die nicht lediglich durch Bereitstellungsbescheid angefordert ist, nicht, nicht rechtzeitig, nicht ordnungsgemäß oder nicht vollständig bewirkt oder einer ihm auf Grund des § 2 auferlegten Verpflichtung zur Duldung oder Unterlassung zuwiderhandelt;
 
-2.
+2. der schriftlichen Anordnung, eine Leistung vorzubereiten (§ 16), zuwiderhandelt;
 
-3.
+3. entgegen einer ihm nach § 36 Abs. 4 auferlegten Verpflichtung eine Veräußerung oder Verfügung nicht anzeigt.
 
 (2) Ordnungswidrig handelt ferner, wer
 
-1.
+1. ohne Leistungspflichtiger zu sein, in Kenntnis der Leistungspflicht eines anderen einen Gegenstand, der nicht lediglich durch Bereitstellungsbescheid angefordert ist, beiseite schafft, beschädigt, zerstört, unbrauchbar macht oder verderben läßt;
 
-2.
+2. entgegen § 15 Abs. 1 die Auskunft nicht, unrichtig, unvollständig oder nicht fristgemäß erteilt, die vorhandenen Unterlagen nicht, unvollständig oder nicht fristgemäß vorlegt oder einem Verlangen nach § 15 Abs. 2 Satz 1 oder einer Verpflichtung nach § 15 Abs. 2 Satz 2 zuwiderhandelt.
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden.
 
@@ -743,8 +737,6 @@ Das Gesetz über Sachleistungen für Reichsaufgaben (Reichsleistungsgesetz) vom 
 -
 
 ### § 92
-
-(1) Bei Sachen, die nach Artikel 48 Abs. 1 des Truppenvertrags oder nach Artikel 13 des Ersten Teils des Vertrags zur Regelung aus Krieg und Besatzung entstandener Fragen zur Nutzung oder zum Gebrauch in Anspruch genommen waren, bemißt sich mit Wirkung vom 5. Mai 1955 12 Uhr die Entschädigung und Ersatzleistung nach den Vorschriften dieses Gesetzes. Sofern dem Entschädigungsberechtigten bisher eine höhere laufende Entschädigung gezahlt worden ist, als nach § 20 zu zahlen wäre, ist die Entschädigung weiterhin in dieser Höhe zu gewähren.
 
 (2) Die Manöverschäden, die nach dem 5. Mai 1955 12 Uhr verursacht worden sind, werden nach den Vorschriften dieses Gesetzes abgegolten.
 

@@ -14,39 +14,35 @@ In Binnenschiffahrtssachen sind im ersten Rechtszug die Amtsgerichte zuständig.
 
 ### § 2
 
-(1) Binnenschiffahrtssachen im Sinne dieses Gesetzes sind bürgerliche Rechtsstreitigkeiten, die mit der Benutzung von Binnengewässern durch Schiffahrt zusammenhängen und zum Gegenstand haben: Dies gilt nicht für Rechtsstreitigkeiten über Ansprüche aus einem Vorfall, an dem ein Seeschiff beteiligt ist, wenn
+(1) Binnenschiffahrtssachen im Sinne dieses Gesetzes sind bürgerliche Rechtsstreitigkeiten, die mit der Benutzung von Binnengewässern durch Schiffahrt zusammenhängen und zum Gegenstand haben:
 
-a)
+a) Schadensersatzansprüche aus unerlaubten Handlungen;
 
-b)
+b) andere Ansprüche wegen der Beschädigungen, welche Schiffer während ihrer Fahrt oder beim Anlanden anderen verursacht haben;
 
-c)
+c) vertragliche Schadensersatzansprüche aus einem Unfall, der durch ein Schiff oder bei dem Betrieb eines Schiffes entstanden ist;
 
-d)
+d) Schadensersatzansprüche wegen Verletzung einer Amtspflicht zur Sicherung des Verkehrs;
 
-e)
+e) Ansprüche aus Bergung, namentlich auf Bergelohn oder Sondervergütung einschließlich Bergungskosten;
 
-f)
+f) Ansprüche wegen Zahlung der Lotsen-, Kran-, Waage-, Hafen- und Bohlwerksgebühren oder -vergütungen und ihres Betrages;
 
-g)
-
-1.
-
-2.
+g) (weggefallen)
 
 (2) Binnenschiffahrtssachen im Sinne dieses Gesetzes sind ferner bürgerliche Rechtsstreitigkeiten, die mit der Benutzung von Binnengewässern durch Schiffahrt zusammenhängen und Ansprüche zum Gegenstand haben, für deren Verhandlung und Entscheidung die Parteien die Zuständigkeit eines Schiffahrtsgerichts vereinbart haben.
 
-(3) Binnenschiffahrtssachen im Sinne dieses Gesetzes sind: Als Binnenschiffahrtssachen gelten jedoch diese Straf- und Bußgeldsachen nicht, wenn die Tat außerhalb eines Seehafens auf oder an Binnenwasserstraßen, auf denen die Seeschiffahrtstraßen-Ordnung gilt, begangen ist. Steht eine in Satz 1 bezeichnete Tat mit einer anderen Straftat oder Ordnungswidrigkeit in Zusammenhang, so ist das für Binnenschiffahrtssachen bestimmte Gericht zuständig, wenn das Schwergewicht bei der zuerst genannten Tat liegt.
+(3) Binnenschiffahrtssachen im Sinne dieses Gesetzes sind:
 
-a)
+a) Strafsachen wegen Taten, die auf oder an Binnengewässern unter Verletzung von schiffahrtspolizeilichen Vorschriften begangen sind und deren Schwerpunkt in der Verletzung dieser Vorschriften liegt, soweit für die Strafsachen nach den Vorschriften des Gerichtsverfassungsgesetzes die Amtsgerichte zuständig sind;
 
-b)
+b) Bußgeldsachen wegen Zuwiderhandlungen gegen schiffahrtspolizeiliche Vorschriften, die auf oder an Binnengewässern begangen sind.
 
 > § 2 Abs. 1 Satz 1 Buchst. d, Abs. 3, Abs. 4: Änd. durch G v. 26.6.1981 I 553, gem. BVerfGE v. 19.10.1982 I 1493 mit Art. 70 GG unvereinbar und daher nichtig
 
 ### § 3
 
-(1) In bürgerlichen Rechtsstreitigkeiten, die Binnenschiffahrtssachen sind, sind die Amtsgerichte auch soweit sachlich zuständig, wie nach den Vorschriften des Gerichtsverfassungsgesetzes die Landgerichte zuständig wären. Vorbehaltlich einer abweichenden Vereinbarung ist örtlich zuständig Hat sich die den Anspruch begründende Tatsache auf einem Gewässer zwischen zwei deutschen Ufern ereignet, die zum Bezirk verschiedener Gericht gehören, so sind die Gerichte beider Ufer zuständig.
+(1) In bürgerlichen Rechtsstreitigkeiten, die Binnenschiffahrtssachen sind, sind die Amtsgerichte auch soweit sachlich zuständig, wie nach den Vorschriften des Gerichtsverfassungsgesetzes die Landgerichte zuständig wären. Vorbehaltlich einer abweichenden Vereinbarung ist örtlich zuständig
 
 (2) Für Mahnverfahren gelten die allgemeinen Vorschriften über die Zuständigkeit. Die Abgabe nach §§ 696, 700 Abs. 3 der Zivilprozeßordnung erfolgt an das nach Absatz 1 zuständige Gericht, das entsprechend § 690 Abs. 1 Nr. 5 der Zivilprozeßordnung in dem Antrag auf Erlaß des Mahnbescheids anzugeben ist.
 
@@ -110,8 +106,6 @@ Rheinschiffahrtssachen
 ### § 14
 
 (1) In Binnenschiffahrtssachen, die Rheinschiffahrtssachen sind, gelten die Vorschriften des ersten Abschnitts dieses Gesetzes nur, soweit sich aus den Bestimmungen der Revidierten Rheinschiffahrtsakte vom 17. Oktober 1868 und den §§ 15 bis 18 dieses Gesetzes nichts anderes ergibt.
-
-(2) Rheinschiffahrtssachen sind nur die in den Artikeln 34 und 34 * Kl bis  der Revidierten Rheinschiffahrtsakte bezeichneten bürgerlichen Rechtsstreitigkeiten und Straf- sowie Bußgeldsachen, die sich auf Vorgänge auf dem Rhein abwärts von der deutsch-schweizerischen Grenze bei Basel beziehen. Ein bürgerlicher Rechtsstreit gilt nicht als Rheinschiffahrtssache, wenn die Parteien die Zuständigkeit eines Gerichts vereinbaren, das für Rheinschiffahrtssachen nicht zuständig ist.
 
 ### § 15
 

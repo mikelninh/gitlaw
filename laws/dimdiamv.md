@@ -10,53 +10,19 @@
 
 Es verordnen
 
-–
+– das Bundesministerium für Gesundheit auf Grund des § 67a Absatz 3 Satz 1 und 2 in Verbindung mit Absatz 2 und 4 des Arzneimittelgesetzes, der zuletzt durch Artikel 2 des Gesetzes vom 14. Juni 2007 (BGBl. I S. 1066) geändert worden ist, im Einvernehmen mit dem Bundesministerium des Innern, dem Bundesministerium für Wirtschaft und Technologie und dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit,
 
-–
+– das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz auf Grund des § 67a Absatz 3 Satz 1 und 2 in Verbindung mit Satz 3 und Absatz 2 des Arzneimittelgesetzes, der zuletzt durch Artikel 2 des Gesetzes vom 14. Juni 2007 (BGBl. I S. 1066) geändert worden ist, im Einvernehmen mit dem Bundesministerium des Innern, dem Bundesministerium für Wirtschaft und Technologie und dem Bundesministerium für Gesundheit und auf Grund des § 47 Absatz 1c Satz 2 des Arzneimittelgesetzes, der zuletzt durch Artikel 1 des Gesetzes vom 17. Juli 2009 (BGBl. I S. 1990) geändert worden ist, im Einvernehmen mit dem Bundesministerium für Gesundheit:
 
 ### § 1 — Art und Inhalt des Informationssystems
 
 (1) In dem zentralen Arzneimittel-Informationssystem nach § 67a des Arzneimittelgesetzes werden unbeschadet der Anforderungen anderer gesetzlicher Bestimmungen gespeichert:
 
-1.
+1. Daten, auch personenbezogener Art, über a)den Zulassungs- und Registrierungsstatus von Arzneimitteln, Entscheidungen nach § 21 Absatz 4 des Arzneimittelgesetzes, Angaben, die im Rahmen der Zulassung oder Registrierung erhoben worden sind, einschließlich Angaben zu Änderungsanzeigen und den medizinischen, pharmazeutischen und pharmakologischen Eigenschaften von Arzneimitteln, Wirkstoffen oder sonstigen Bestandteilen,b)Wirkstoffe und sonstige Bestandteile, die bei der Arzneimittelherstellung verwendet werden oder früher verwendet worden sind,c)Stufenplanverfahren,d)staatliche Chargenprüfungen nach § 32 des Arzneimittelgesetzes,e)klinische Prüfungen mit Arzneimitteln zur Anwendung bei Menschen nach dem Sechsten Abschnitt des Arzneimittelgesetzes,f)Genehmigungen und Bescheinigungen über Gewebezubereitungen nach § 21a des Arzneimittelgesetzes; den Zulassungs- und Registrierungsstatus von Arzneimitteln, Entscheidungen nach § 21 Absatz 4 des Arzneimittelgesetzes, Angaben, die im Rahmen der Zulassung oder Registrierung erhoben worden sind, einschließlich Angaben zu Änderungsanzeigen und den medizinischen, pharmazeutischen und pharmakologischen Eigenschaften von Arzneimitteln, Wirkstoffen oder sonstigen Bestandteilen, Wirkstoffe und sonstige Bestandteile, die bei der Arzneimittelherstellung verwendet werden oder früher verwendet worden sind, Stufenplanverfahren, staatliche Chargenprüfungen nach § 32 des Arzneimittelgesetzes, klinische Prüfungen mit Arzneimitteln zur Anwendung bei Menschen nach dem Sechsten Abschnitt des Arzneimittelgesetzes, Genehmigungen und Bescheinigungen über Gewebezubereitungen nach § 21a des Arzneimittelgesetzes;
 
-a)
+2. Daten, auch personenbezogener Art, über a)Erlaubnisse nach § 13 des Arzneimittelgesetzes,b)Erlaubnisse nach den §§ 20b und 20c des Arzneimittelgesetzes,c)Erlaubnisse nach § 43 Absatz 1 Satz 1 des Arzneimittelgesetzes,d)Erlaubnisse nach § 52a Absatz 1 des Arzneimittelgesetzes,e)Inspektionsergebnisse nach § 64 Absatz 3e und die Ausstellung, Versagung, Rücknahme oder den Widerruf von Zertifikaten nach § 64 Absatz 3g,f)Anzeigen nach § 67 Absatz 1 und 5 des Arzneimittelgesetzes von pharmazeutischen Unternehmern, Großhändlern, Prüflaboren und Wirkstoffhändlern,g)Erlaubnisse nach § 72 des Arzneimittelgesetzes,h)Zertifikate, Erlaubnisse oder Bescheinigungen nach § 72a Absatz 1 Satz 1 Nummer 1 und 2 und § 72b Absatz 1 und 2 Satz 1 Nummer 2 und 3 des Arzneimittelgesetzes für die Einfuhr von Arzneimitteln oder Wirkstoffen aus Drittstaaten,i)behördliche Maßnahmen nach den §§ 69 und 69a des Arzneimittelgesetzes, die für die Überwachung des Arzneimittelverkehrs von Bedeutung sind; Erlaubnisse nach § 13 des Arzneimittelgesetzes, Erlaubnisse nach den §§ 20b und 20c des Arzneimittelgesetzes, Erlaubnisse nach § 43 Absatz 1 Satz 1 des Arzneimittelgesetzes, Erlaubnisse nach § 52a Absatz 1 des Arzneimittelgesetzes, Inspektionsergebnisse nach § 64 Absatz 3e und die Ausstellung, Versagung, Rücknahme oder den Widerruf von Zertifikaten nach § 64 Absatz 3g, Anzeigen nach § 67 Absatz 1 und 5 des Arzneimittelgesetzes von pharmazeutischen Unternehmern, Großhändlern, Prüflaboren und Wirkstoffhändlern, Erlaubnisse nach § 72 des Arzneimittelgesetzes, Zertifikate, Erlaubnisse oder Bescheinigungen nach § 72a Absatz 1 Satz 1 Nummer 1 und 2 und § 72b Absatz 1 und 2 Satz 1 Nummer 2 und 3 des Arzneimittelgesetzes für die Einfuhr von Arzneimitteln oder Wirkstoffen aus Drittstaaten, behördliche Maßnahmen nach den §§ 69 und 69a des Arzneimittelgesetzes, die für die Überwachung des Arzneimittelverkehrs von Bedeutung sind;
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-3.
-
-a)
-
-b)
+3. Daten nach § 47 Absatz 1c Satz 1 des Arzneimittelgesetzes über die Abgabe von Arzneimitteln, die a)Stoffe mit antimikrobieller Wirkung oderb)Stoffe, die in einer der Anlagen der Verordnung über Stoffe mit pharmakologischer Wirkung in der Fassung der Bekanntmachung vom 8. Juli 2009 (BGBl. I S. 1768) in der jeweils geltenden Fassung aufgeführt werden, als Wirkstoffeenthalten, an Tierärzte, auch soweit die Daten personenbezogen sind. Stoffe mit antimikrobieller Wirkung oder Stoffe, die in einer der Anlagen der Verordnung über Stoffe mit pharmakologischer Wirkung in der Fassung der Bekanntmachung vom 8. Juli 2009 (BGBl. I S. 1768) in der jeweils geltenden Fassung aufgeführt werden, als Wirkstoffe
 
 (2) In dem Arzneimittel-Informationssystem können weitere arzneimittelbezogene Daten, wie Daten zu Arzneimittelrisiken, Absatzmengen, Verschreibungsvolumen und in Verkehr gebrachte Packungsgrößen von Arzneimitteln gespeichert werden, soweit dies zur Wahrnehmung der Aufgaben des Bundesinstituts für Arzneimittel und Medizinprodukte oder der anderen in § 3 Absatz 1 genannten Behörden erforderlich ist.
 
@@ -68,25 +34,21 @@ b)
 
 (1) Unbeschadet der Anforderungen anderer gesetzlicher Bestimmungen übermitteln die für den Vollzug des Arzneimittelgesetzes zuständigen Behörden des Bundes und der Länder an das Bundesinstitut für Arzneimittel und Medizinprodukte die in § 1 Absatz 1 Nummer 1, 2, Absatz 2 und 3 genannten Daten durch Datenfernübertragung oder auf automatisiert verarbeitbaren Datenträgern. Die näheren Einzelheiten, insbesondere die technischen oder funktionsbedingten Anforderungen an die Datenübermittlung, einschließlich des Beginns und des Zeitraums der Übermittlung, werden vom Bundesinstitut für Arzneimittel und Medizinprodukte im Einvernehmen mit den anderen zuständigen Behörden des Bundes und der Länder festgelegt; das Bundesamt für Sicherheit in der Informationstechnik ist zu beteiligen. Die Übermittlung der in Satz 1 genannten Daten an das Bundesinstitut für Arzneimittel und Medizinprodukte erfolgt nicht, soweit die zuständigen Behörden des Bundes oder der Länder die Daten nach § 64 Absatz 3g des Arzneimittelgesetzes oder nach der Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1; L 311 vom 17.11.2016, S. 25) an eine Datenbank der Europäischen Arzneimittel-Agentur übermitteln müssen.
 
-(2) Pharmazeutische Unternehmer und Großhändler übermitteln die in § 1 Absatz 1 Nummer 3 genannten Daten dem Bundesinstitut für Arzneimittel und Medizinprodukte durch Datenfernübertragung oder auf automatisiert verarbeitbaren Datenträgern. Dabei sind anzugeben: Die Angaben sind spätestens zum 31. März des Folgejahres, erstmals zum 31. März 2012 für das Jahr 2011 zu übermitteln. Das Bundesinstitut für Arzneimittel und Medizinprodukte bestimmt im Einvernehmen mit dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit sowie den sonstigen zuständigen Behörden des Bundes die näheren technischen oder funktionsbedingten Anforderungen an die Datenübermittlung, wie Eingabemasken, Formate, Vokabulare oder zu verwendende Datenträger, und macht diese Anforderungen im Bundesanzeiger bekannt; das Bundesamt für Sicherheit in der Informationstechnik ist zu beteiligen.
+(2) Pharmazeutische Unternehmer und Großhändler übermitteln die in § 1 Absatz 1 Nummer 3 genannten Daten dem Bundesinstitut für Arzneimittel und Medizinprodukte durch Datenfernübertragung oder auf automatisiert verarbeitbaren Datenträgern. Dabei sind anzugeben:
 
-1.
+1. die jährlich abgegebene Gesamtmenge, aufgeschlüsselt nach den ersten beiden Ziffern der Postleitzahl der Anschrift des jeweiligen Tierarztes, sowie
 
-2.
+2. die Zulassungsnummer des jeweils abgegebenen Arzneimittels.
 
 (3) Die nach den Absätzen 1 und 2 zur Übermittlung der Daten an das Bundesinstitut für Arzneimittel und Medizinprodukte Verpflichteten sind für die Richtigkeit und Vollständigkeit der übermittelten Daten verantwortlich. Bei der Übermittlung der Daten sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung des Datenschutzes und der Datensicherheit zu treffen. Im Fall der Nutzung allgemein zugänglicher Netze sind Verschlüsselungsverfahren anzuwenden, die dem jeweiligen Stand der Technik entsprechen.
 
 ### § 3 — Bereitstellung von Daten und Nutzung des Informationssystems
 
-(1) Die in dem Informationssystem nach § 1 Absatz 1 Nummer 1 und 2 gespeicherten Daten werden den für das Arzneimittelrecht und das Strahlenschutzrecht zuständigen Bundesministerien, den in § 77 des Arzneimittelgesetzes genannten Bundesoberbehörden sowie den für den Vollzug des Arzneimittelgesetzes und für die Arzneimitteluntersuchung zuständigen Stellen der Länder zum Abruf bereitgestellt. Die in dem Informationssystem Im Fall des Satzes 2 Nummer 2 erfasst bei Arzneimitteln, die ausschließlich für Geflügel zugelassen sind, die Bereitstellung zum Abruf nicht die Aufschlüsselung nach den Ziffern der Postleitzahl der Anschrift des jeweiligen Tierarztes. Abweichend von Satz 3 kann die Bereitstellung zum Abruf auch die Aufschlüsselung nach den Ziffern der Postleitzahl der Anschrift des jeweiligen Tierarztes erfassen, sofern jederzeit sichergestellt ist, dass die Daten werden. Der Abruf durch die genannten Stellen ist zulässig, soweit dies zur Wahrnehmung ihrer Aufgaben erforderlich ist.
+(1) Die in dem Informationssystem nach § 1 Absatz 1 Nummer 1 und 2 gespeicherten Daten werden den für das Arzneimittelrecht und das Strahlenschutzrecht zuständigen Bundesministerien, den in § 77 des Arzneimittelgesetzes genannten Bundesoberbehörden sowie den für den Vollzug des Arzneimittelgesetzes und für die Arzneimitteluntersuchung zuständigen Stellen der Länder zum Abruf bereitgestellt. Die in dem Informationssystem
 
-1.
+1. nach § 1 Absatz 1 Nummer 3 Buchstabe a gespeicherten Daten werden der in § 77 Absatz 3 des Arzneimittelgesetzes genannten Bundesoberbehörde zum Abruf bereitgestellt,
 
-2.
-
-1.
-
-2.
+2. nach § 1 Absatz 1 Nummer 3 Buchstabe a und b gespeicherten Daten werden der zuständigen obersten Landesbehörde zum Abruf bereitgestellt.
 
 (2) Das Bundesinstitut für Arzneimittel und Medizinprodukte übermittelt der Europäischen Arzneimittel-Agentur die Daten nach § 1 Absatz 1 Nummer 2 Buchstabe a, d, e, g und f im Hinblick auf die Anzeigen von Wirkstoffimporteuren, -herstellern und -händlern. Die Daten nach § 1 Absatz 1 Nummer 2 Buchstabe a werden nicht übermittelt, soweit die Herstellungserlaubnis nur für Fütterungsarzneimittel erteilt wurde.
 

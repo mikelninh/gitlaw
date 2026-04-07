@@ -31,25 +31,19 @@ zum Lebensunterhalt, besondere laufende Beihilfe)
 
 (1) Berechtigte nach Abschnitt I, die in vorgeschrittenem Lebensalter stehen oder infolge von Krankheit oder Gebrechen dauernd erwerbsunfähig sind, erhalten unter folgenden Voraussetzungen laufende Beihilfe:
 
-1.
+1. Der Berechtigte und sein entsprechend § 266 Abs. 2 des Lastenausgleichsgesetzes zu berücksichtigender Ehegatte müssen im Schadensgebiet ihre Existenzgrundlage durch Schäden im Sinne des § 3 des Beweissicherungs- und Feststellungsgesetzes oder durch Verlassen des Schadensgebiets verloren haben;
 
-2.
+2. die Existenzgrundlage muß im Zeitpunkt des Schadenseintritts überwiegend beruht habena)auf der Ausübung einer selbständigen Erwerbstätigkeit oder b)auf Ansprüchen und anderen Gegenwerten aus der Übertragung, sonstigen Verwertung oder Verpachtung des einer solchen Tätigkeit dienenden Vermögens oder c)auf einer Altersversorgung, die aus den Erträgen einer solchen Tätigkeit begründet worden war; auf der Ausübung einer selbständigen Erwerbstätigkeit oder auf Ansprüchen und anderen Gegenwerten aus der Übertragung, sonstigen Verwertung oder Verpachtung des einer solchen Tätigkeit dienenden Vermögens oder auf einer Altersversorgung, die aus den Erträgen einer solchen Tätigkeit begründet worden war;
 
-a)
+3. dem Berechtigten und seinem entsprechend § 266 Abs. 2 des Lastenausgleichsgesetzes zu berücksichtigenden Ehegatten muß im Schadensgebiet ein Vermögensschaden entstanden sein; Hausratschaden gilt nicht als Vermögensschaden im Sinne dieser Vorschrift. Einem solchen Vermögensschaden steht es gleich, wenn ein Schaden durch Verlust der beruflichen oder sonstigen Existenzgrundlage mit Durchschnittsjahreseinkünften aus selbständiger Erwerbstätigkeit von mindestens 2.000 Reichsmark entstanden ist; diese Voraussetzung gilt auch dann als erfüllt, wenn neben der selbständigen Erwerbstätigkeit eine andere bezahlte Tätigkeit nicht oder nur in geringem Umfang ausgeübt und der Lebensunterhalt nicht oder nur unwesentlich aus anderen Einkünften mitbestritten wurde;
 
-b)
-
-c)
-
-3.
-
-4.
+4. dem Berechtigten muß nach seinen Einkommens- und Vermögensverhältnissen die Bestreitung des Lebensunterhalts nicht möglich oder nicht zumutbar sein; dabei sind auch fällige Ansprüche auf Leistungen in Geld oder Geldeswert zu berücksichtigen, wenn und soweit ihre Verwirklichung möglich ist.
 
 (2) Berechtigte, die ihre berufliche oder sonstige Existenzgrundlage und in Verbindung damit aufschiebend bedingte privatrechtliche Versorgungsansprüche verloren haben, erhalten laufende Beihilfe unter den Voraussetzungen des Absatzes 1, auch wenn die in den Nummern 2 und 3 genannten Erfordernisse nicht erfüllt sind, sofern
 
-1.
+1. die Bedingung für den Versorgungsanspruch im Erreichen einer Altersgrenze oder im Eintritt der Erwerbsunfähigkeit bestand und
 
-2.
+2. ein Anspruch auf Versorgung nach dem Gesetz zur Regelung der Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen nicht besteht.
 
 (3) Berechtigte, die im Schadensgebiet mit einem Familienangehörigen in Haushaltsgemeinschaft gelebt haben und von ihm wirtschaftlich abhängig waren, erhalten Beihilfe zum Lebensunterhalt unter den Voraussetzungen des Absatzes 1, auch wenn die in den Nummern 2 und 3 genannten Erfordernisse nicht erfüllt sind, sofern der Angehörige einen Existenz- und Vermögensverlust im Sinne des Absatzes 1 erlitten hat und außerstande ist, für den Berechtigten zu sorgen.
 
@@ -68,8 +62,6 @@ c)
 (4) Für die Frist, in der der Antrag auf laufende Beihilfe gestellt werden kann, gelten § 264 Abs. 2 und § 265 Abs. 4 des Lastenausgleichsgesetzes entsprechend mit der Maßgabe, daß die Antragsfrist nicht vor dem 31. Dezember 1972 endet.
 
 ### § 12 — Einkommenshöchstbetrag und Höhe der laufenden Beihilfe
-
-Für den Einkommenshöchstbetrag und die Höhe der Beihilfe zum Lebensunterhalt sind die §§ 267 bis 270a, 275 und 277a des Lastenausgleichsgesetzes, für die besondere laufende Beihilfe ist § 301a Abs. 3 des Lastenausgleichsgesetzes entsprechend anzuwenden. Bei der Anwendung des § 269a Abs. 2 des Lastenausgleichsgesetzes ist an Stelle des Endgrundbetrags der Hauptentschädigung von dem Grundbetrag auszugehen, der aus dem Vermögensschaden im Sinne des § 10 Abs. 1 Nr. 3 Satz 1 in entsprechender Anwendung der Rechtsverordnung nach § 301a Abs. 3 des Lastenausgleichsgesetzes errechnet wird.
 
 > § 12 Satz 1: IdF d. § 4 Nr. 2 Buchst. a G v. 24.8.1972 I 1521 mWv 1.1.1974 u. d. § 4 Nr. 2 Buchst. b G v. 24.8.1972 I 1521 mWv 1.1.1972; Kursivdruck § 270a LAG aufgeh. durch § 1 Nr. 8 G v. 16.2.1979 I 181
 

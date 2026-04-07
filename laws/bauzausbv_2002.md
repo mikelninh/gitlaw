@@ -20,47 +20,47 @@ Die Ausbildung dauert drei Jahre.
 
 ### § 3 — Gliederung der Berufsausbildung
 
-In der Berufsausbildung zum Bauzeichner/zur Bauzeichnerin sind in überbetrieblichen oder in betrieblichen Ausbildungsstätten zu vermitteln.
+In der Berufsausbildung zum Bauzeichner/zur Bauzeichnerin sind
 
-1.
+1. im ersten Ausbildungsjahr in mindestens acht Wochen insbesondere Fertigkeiten und Kenntnisse aus den laufenden Nummern 10, 11 und 12 der Anlage,
 
-2.
+2. im zweiten Ausbildungsjahr in mindestens acht Wochen insbesondere Fertigkeiten und Kenntnisse aus den laufenden Nummern 10, 11 und 12 der Anlage,
 
-3.
+3. im dritten Ausbildungsjahr in zwei Wochen insbesondere Fertigkeiten und Kenntnisse aus der laufenden Nummer 12 der Anlage
 
 ### § 4 — Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
-1.
+1. Berufsbildung, Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-4.
+4. Umweltschutz,
 
-5.
+5. Organisation und Kommunikation, Arbeitsabläufe,
 
-6.
+6. Zusammenarbeit mit Behörden und anderen am Bau Beteiligten,
 
-7.
+7. Umgang mit Informations- und Kommunikationstechniken,
 
-8.
+8. Techniken des Zeichnens,
 
-9.
+9. Auswahl und Verwendung von Baustoffen und Bauelementen,
 
-10.
+10. Mitwirken bei Bauprozessen und Durchführen von Bauarbeiten,
 
-11.
+11. Bestandsaufnahme und Vermessung,
 
-12.
+12. Rechnergestütztes Zeichnen,
 
-13.
+13. Konstruieren von Bauteilen,
 
-14.
+14. Qualitätssichernde Maßnahmen, Kundenorientierung,
 
-15.
+15. Erstellen von Plänen und Zeichnungen, fachspezifische Berechnungen.
 
 ### § 5 — Ausbildungsrahmenplan
 
@@ -82,81 +82,39 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr und für das dritte Ausbildungshalbjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll in insgesamt höchstens vier Stunden drei praktische Aufgaben, auch rechnergestützt, bearbeiten sowie in insgesamt höchstens zwei Stunden sich auf diese Aufgaben beziehende Fragen schriftlich beantworten und Berechnungen durchführen. Hierfür kommen insbesondere folgende Gebiete in Betracht: In der Zwischenprüfung soll der Prüfling zeigen, dass er technologische, mathematische und zeichnerische Inhalte verknüpfen kann. Dabei soll er Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz berücksichtigen.
+(3) Der Prüfling soll in insgesamt höchstens vier Stunden drei praktische Aufgaben, auch rechnergestützt, bearbeiten sowie in insgesamt höchstens zwei Stunden sich auf diese Aufgaben beziehende Fragen schriftlich beantworten und Berechnungen durchführen. Hierfür kommen insbesondere folgende Gebiete in Betracht:
 
-1.
+1. Zweidimensionale Darstellungen, Parallelperspektiven,
 
-2.
+2. Freihandzeichnungen,
 
-3.
+3. Baugruben, Gräben, Gründungen und Verbau,
 
-4.
+4. Baukörper aus Steinen, Bauwerksabdichtungen,
 
-5.
+5. Beton und Stahlbeton.
 
 ### § 9 — Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im Teil A der Prüfung in höchstens insgesamt 14 Stunden zwei praktische Aufgaben, die sich auf ein Projekt beziehen sollen, bearbeiten. Mindestens eine Aufgabe ist rechnergestützt zu fertigen. Eine der Aufgaben ist zu dokumentieren sowie dem Prüfungsausschuss in einem Fachgespräch von höchstens 15 Minuten zu erläutern. Dem Prüfling ist vor der Prüfung Gelegenheit zu geben, das System zur rechnergestützten Zeichnungserstellung, an dem er geprüft wird, in einem angemessenen Zeitraum kennen zu lernen. Die praktischen Aufgaben sind unter Berücksichtigung des Schwerpunktes nach § 5 Absatz 1 Satz 1 aus zwei der nachfolgenden Bereiche zu entnehmen. Die Bereiche, aus denen die Aufgaben entnommen werden, sind vom Prüfling festzulegen. Es kommen folgende Bereiche in Betracht: Durch die Ausführung der Aufgabe, die Dokumentation sowie das Fachgespräch soll der Prüfling zeigen, dass er Arbeitsabläufe selbständig, kunden- und zielorientiert planen, umsetzen und präsentieren sowie qualitätssichernde Maßnahmen durchführen kann.
+(2) Der Prüfling soll im Teil A der Prüfung in höchstens insgesamt 14 Stunden zwei praktische Aufgaben, die sich auf ein Projekt beziehen sollen, bearbeiten. Mindestens eine Aufgabe ist rechnergestützt zu fertigen. Eine der Aufgaben ist zu dokumentieren sowie dem Prüfungsausschuss in einem Fachgespräch von höchstens 15 Minuten zu erläutern. Dem Prüfling ist vor der Prüfung Gelegenheit zu geben, das System zur rechnergestützten Zeichnungserstellung, an dem er geprüft wird, in einem angemessenen Zeitraum kennen zu lernen. Die praktischen Aufgaben sind unter Berücksichtigung des Schwerpunktes nach § 5 Absatz 1 Satz 1 aus zwei der nachfolgenden Bereiche zu entnehmen. Die Bereiche, aus denen die Aufgaben entnommen werden, sind vom Prüfling festzulegen. Es kommen folgende Bereiche in Betracht:
 
-1.
+1. im Schwerpunkt Architektur: a)Erstellen von Planunterlagen zur Baueingabe nach Entwurfsskizzen undb)Erstellen von Ausführungsunterlagen für den Rohbau und Ausbau; Erstellen von Planunterlagen zur Baueingabe nach Entwurfsskizzen und Erstellen von Ausführungsunterlagen für den Rohbau und Ausbau;
 
-a)
+2. im Schwerpunkt Ingenieurbau: a)Erstellen einer Rohbauzeichnung für ein Tragwerk undb)Erstellen einer Bewehrungszeichnung; Erstellen einer Rohbauzeichnung für ein Tragwerk und Erstellen einer Bewehrungszeichnung;
 
-b)
+3. im Schwerpunkt Tief-, Straßen- und Landschaftsbau: a)Erstellen von Planunterlagen für den Straßen- und Verkehrswegebau,b)Erstellen von Ausführungsunterlagen für die Ver- und Entsorgung undc)Erstellen von Ausführungsunterlagen für den Landschaftsbau. Erstellen von Planunterlagen für den Straßen- und Verkehrswegebau, Erstellen von Ausführungsunterlagen für die Ver- und Entsorgung und Erstellen von Ausführungsunterlagen für den Landschaftsbau.
 
-2.
+(3) Teil B der Prüfung besteht aus folgenden Prüfungsbereichen:
 
-a)
+1. im Schwerpunkt Architektur:a)Baueingabe,b)Rohbau,c)Ausbau,d)Wirtschafts- und Sozialkunde. Baueingabe, Rohbau, Ausbau, Wirtschafts- und Sozialkunde. In den Prüfungsbereichen Baueingabe, Rohbau sowie Ausbau sind fachliche Probleme mit verknüpften informationstechnischen, technologischen und mathematischen Sachverhalten zu analysieren, zu bewerten und geeignete Lösungswege schriftlich darzustellen. Für den Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht: allgemeine, wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- und Arbeitswelt;
 
-b)
+2. im Schwerpunkt Ingenieurbau:a)Tragwerke,b)Massivbau,c)Stahl- und Holzbau,d)Wirtschafts- und Sozialkunde. Tragwerke, Massivbau, Stahl- und Holzbau, Wirtschafts- und Sozialkunde. In den Prüfungsbereichen Tragwerke, Massivbau sowie Stahl- und Holzbau sind fachliche Probleme mit verknüpften informationstechnischen, technologischen und mathematischen Inhalten zu analysieren, zu bewerten und geeignete Lösungswege schriftlich darzustellen. Für den Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht: allgemeine, wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- und Arbeitswelt;
 
-3.
-
-a)
-
-b)
-
-c)
-
-(3) Teil B der Prüfung besteht aus folgenden Prüfungsbereichen: Durch die Ausführung von Teil B der Prüfung soll der Prüfling zeigen, dass er die Sicherheit und den Gesundheitsschutz bei der Arbeit, den Umweltschutz, qualitätssichernde Maßnahmen sowie Grundsätze der Kundenorientierung berücksichtigen, betriebliche Abläufe planen und umsetzen, Unterlagen auswerten sowie Baustoffe, Bauelemente und Bauarten festlegen kann.
-
-1.
-
-a)
-
-b)
-
-c)
-
-d)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-(4) Für den Prüfungsteil B ist von folgenden zeitlichen Höchstwerten auszugehen:
+3. im Schwerpunkt Tief-, Straßen- und Landschaftsbau:a)Straßenbau,b)Ver- und Entsorgung,c)Landschaftsbau,d)Wirtschafts- und Sozialkunde. Straßenbau, Ver- und Entsorgung, Landschaftsbau, Wirtschafts- und Sozialkunde. In den Prüfungsbereichen Straßenbau, Ver- und Entsorgung sowie Landschaftsbau sind fachliche Probleme mit verknüpften informationstechnischen, technologischen und mathematischen Inhalten zu analysieren, zu bewerten und geeignete Lösungswege schriftlich darzustellen. Für den Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht: allgemeine, wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- und Arbeitswelt.
 
 (5) Der Prüfungsteil B ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in den einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
-
-(6) Innerhalb des Prüfungsteils B sind die Prüfungsbereiche wie folgt zu gewichten:
 
 (7) Die Prüfung ist bestanden, wenn jeweils in den Prüfungsteilen A und B sowie innerhalb des Prüfungsteils B in mindestens zwei der fachbezogenen Prüfungsbereiche mindestens ausreichende Leistungen erbracht worden sind. Werden die Prüfungsleistungen in einer der praktischen Aufgaben oder in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
@@ -172,236 +130,12 @@ Diese Verordnung tritt mit Ablauf des 31. Juli 2026 außer Kraft.
 
 ### Anlage — (zu § 5)
 
-(Fundstelle: BGBl. I 2002, 2625 - 2630)
+a) Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
-a)
+b) gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
 
-b)
+c) Möglichkeiten der beruflichen Fortbildung nennen
 
-c)
+d) wesentliche Teile des Arbeitsvertrages nennen
 
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-l)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
--
-
--
-
--
-
-c)
-
-d)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-l)
-
-*)
+e) wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen

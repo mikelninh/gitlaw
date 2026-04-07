@@ -28,4 +28,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgeset
 
 ### Art 5
 
-(1) Dieses Gesetz tritt am 1. Januar 1992 in Kraft.(2) Abweichend von Absatz 1 tritt Artikel 3 am Tage nach der Verkündung dieses Gesetzes in Kraft.
+(1) Dieses Gesetz tritt am 1. Januar 1992 in Kraft.
+
+(2) Abweichend von Absatz 1 tritt Artikel 3 am Tage nach der Verkündung dieses Gesetzes in Kraft.

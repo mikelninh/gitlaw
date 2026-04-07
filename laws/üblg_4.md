@@ -8,11 +8,27 @@ Ländern
 
 ### § 1 — Finanzverwaltung
 
-(1) Auf dem Gebiet der Steuer- und Zollverwaltung fallen die Beteiligung des Bundes an den Ausgaben der Länder und Gemeinden (Gemeindeverbände) und die Beteiligung der Länder und Gemeinden (Gemeindeverbände) an den Ausgaben des Bundes weg. 1.... 2.... (2) ...(3) ...
+(1) Auf dem Gebiet der Steuer- und Zollverwaltung fallen die Beteiligung des Bundes an den Ausgaben der Länder und Gemeinden (Gemeindeverbände) und die Beteiligung der Länder und Gemeinden (Gemeindeverbände) an den Ausgaben des Bundes weg.
+
+1. ...
+
+2. ...
+
+(2) ...
+
+(3) ...
 
 ### § 2 — Kriegsfolgelasten
 
-(1) ...(2) Soweit gesetzlich bestimmt ist, daß der Bund Leistungen im gleichen Umfang oder Verhältnis wie die Aufwendungen der Kriegsfolgenhilfe oder wie die im Rahmen der Kriegsfolgenhilfe anfallenden Fürsorgekosten trägt, gilt § 21a des Ersten Überleitungsgesetzes entsprechend.(3) ...(4) ...(5) ...
+(1) ...
+
+(2) Soweit gesetzlich bestimmt ist, daß der Bund Leistungen im gleichen Umfang oder Verhältnis wie die Aufwendungen der Kriegsfolgenhilfe oder wie die im Rahmen der Kriegsfolgenhilfe anfallenden Fürsorgekosten trägt, gilt § 21a des Ersten Überleitungsgesetzes entsprechend.
+
+(3) ...
+
+(4) ...
+
+(5) ...
 
 ### § 3 — Behörden der Kriegsopferversorgung
 
@@ -24,7 +40,9 @@ Ländern
 
 ### § 5 — Ablieferung von Steuereinnahmen
 
-(1) Die Finanzämter liefern die bei ihnen eingegangenen, nach Artikel 106 des Grundgesetzes dem Bund zustehenden Einnahmen täglich an die Bundeshauptkasse ab. Der Bundesminister der Finanzen kann zur Vereinfachung des Verwaltungsverfahrens die Ablieferung der Einnahmen anderweitig regeln.(2) Die Hauptzollämter (Zollämter) liefern die bei ihnen eingegangenen, nach Artikel 106 des Grundgesetzes den Ländern zustehenden Einnahmen aus der Biersteuer täglich an die von den obersten Finanzbehörden der Länder bestimmten Kassen ab. Die obersten Finanzbehörden der Länder können zur Vereinfachung des Verwaltungsverfahrens die Ablieferung der Einnahmen anderweitig regeln.
+(1) Die Finanzämter liefern die bei ihnen eingegangenen, nach Artikel 106 des Grundgesetzes dem Bund zustehenden Einnahmen täglich an die Bundeshauptkasse ab. Der Bundesminister der Finanzen kann zur Vereinfachung des Verwaltungsverfahrens die Ablieferung der Einnahmen anderweitig regeln.
+
+(2) Die Hauptzollämter (Zollämter) liefern die bei ihnen eingegangenen, nach Artikel 106 des Grundgesetzes den Ländern zustehenden Einnahmen aus der Biersteuer täglich an die von den obersten Finanzbehörden der Länder bestimmten Kassen ab. Die obersten Finanzbehörden der Länder können zur Vereinfachung des Verwaltungsverfahrens die Ablieferung der Einnahmen anderweitig regeln.
 
 ### § 6 — Auskunftspflicht
 

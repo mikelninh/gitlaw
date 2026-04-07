@@ -18,17 +18,17 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2, mit § 53a Absatz 1 Num
 
 (3) Durch die Prüfung ist festzustellen, ob die zu prüfende Person in der Lage ist, nach § 53c Absatz 2 Satz 1 des Berufsbildungsgesetzes Fach- und Führungsfunktionen zu übernehmen, in denen zu verantwortende Leitungsprozesse von Organisationen eigenständig gesteuert werden, eigenständig ausgeführt werden und dafür Mitarbeiter und Mitarbeiterinnen geführt werden. Insbesondere ist festzustellen, ob die zu prüfende Person in der Lage ist, im Rahmen des Betriebsmanagements Aufgaben der Personal- und Betriebsführung wahrzunehmen sowie im Rahmen des Projektmanagements Bild- und Tonproduktionen organisatorisch, technisch und gestalterisch verantwortlich vorzubereiten, durchzuführen, zu steuern, zu überwachen und abzuschließen. Im Einzelnen umfasst dies insbesondere folgende Tätigkeiten:
 
-1.
+1. Führen von Teams, Fördern der Kommunikation, Kooperation und des Umweltbewusstseins, Durchsetzen der Einhaltung der Sicherheitsvorschriften, Mitwirken und Entscheiden bei Auswahl, Einsatz, Führung und Entwicklung von Personal, Wahrnehmen von Ausbildungsverantwortung, Sichern der Einhaltung von Qualitätsstandards sowie des Arbeits- und Sozialrechts im Verantwortungsbereich,
 
-2.
+2. Organisieren und Gestalten betrieblicher Prozesse durch vorausschauendes, konzeptionell begründetes und nachhaltiges Handeln, Analysieren des Marktes, Optimieren der Kosten, Planen von Investitionen, Sichern der Betriebsfähigkeit der Systeme und der Einhaltung der Rechtsvorschriften zum Arbeits-, Umwelt- und Gesundheitsschutz sowie der Umsetzung des Medien- und Veranstaltungsrechts im Betrieb,
 
-3.
+3. Akquirieren von Aufträgen, Erstellen von Angeboten, Betreuen und Beraten von Kunden, Berücksichtigen vertragsrechtlicher Grundlagen, Klären von Urheber- und Verwertungsrechten, Einholen von Genehmigungen, Ermitteln und Kalkulieren der Bedarfe und Aufwände, Konzipieren von Projekten, Festlegen des Workflows, Planen des Personaleinsatzes, Durchführen von Gefährdungsanalysen,
 
-4.
+4. Sichern der Beschaffung, des Transportes, der Lagerung sowie des Auf- und Abbaus von Material, Verantworten der Einrichtung und Inbetriebnahme von Produktions-, Übertragungs- und Postproduktionssystemen, Überwachen der Einhaltung der Arbeits-, Gesundheits- und Brandschutzvorschriften, Überwachen des Budgets, Betreiben der Gefahrenvorsorge und Entwickeln von Havariekonzepten, An- und Unterweisen von internem und externem Personal, Realisieren des Datenmanagements und der Qualitätssicherung,
 
-5.
+5. Präsentieren von Produktionen sowie Projekten und Übergeben an den Auftraggeber, Nachkalkulieren und Nachverhandeln von Projekten, Vorbereiten der Rechnungslegung, Sicherstellen der Datenverwaltung, Aufbereitung und Archivierung, Überwachen von Wartung und Pflege der Technik, Organisieren der Schadensabwicklung, Erstellen von Abschlussberichten und Projektdokumentationen, Sichern der Urheber-, Verwertungs- und Persönlichkeitsrechte.
 
-(4) Für den Erwerb der in Absatz 3 bezeichneten Fertigkeiten, Kenntnisse und Fähigkeiten bedarf es in der Regel eines Lernumfangs von insgesamt mindestens 1 200 Stunden. Der Lerninhalt bestimmt sich nach den Anforderungen der in den §§ 4 bis 6 genannten Prüfungsbereiche und des in § 7 genannten Prüfungsteils.
+(4) Für den Erwerb der in Absatz 3 bezeichneten Fertigkeiten, Kenntnisse und Fähigkeiten bedarf es in der Regel eines Lernumfangs von insgesamt mindestens 1 200 Stunden. Der Lerninhalt bestimmt sich nach den Anforderungen der in den §§ 4 bis 6 genannten Prüfungsbereiche und des in § 7 genannten Prüfungsteils.
 
 (5) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss mit der Bezeichnung „Bachelor Professional in Medienproduktion Bild und Ton“. Der Abschlussbezeichnung wird die weitere Abschlussbezeichnung „Geprüfter Meister für Medienproduktion Bild und Ton“ oder „Geprüfte Meisterin für Medienproduktion Bild und Ton“ vorangestellt.
 
@@ -36,17 +36,13 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2, mit § 53a Absatz 1 Num
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53c des Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
 
-1.
+1. eine erfolgreich abgelegte Abschlussprüfung a)in dem anerkannten Ausbildungsberuf des Mediengestalters Bild und Ton und der Mediengestalterin Bild und Ton oderb)in dem anerkannten Ausbildungsberuf des Film- und Videoeditors oder der Film- und Videoeditorin, in dem anerkannten Ausbildungsberuf des Mediengestalters Bild und Ton und der Mediengestalterin Bild und Ton oder in dem anerkannten Ausbildungsberuf des Film- und Videoeditors oder der Film- und Videoeditorin,
 
-a)
+2. eine erfolgreich abgelegte Abschluss- oder Gesellenprüfung in einem anderen anerkannten gewerblich-technischen Ausbildungsberuf und eine auf die Berufsausbildung folgende einjährige Berufspraxis,
 
-b)
+3. den Erwerb von mindestens 90 Leistungspunkten nach dem Europäischen System zur Übertragung und Akkumulierung von Studienleistungen in einem fachverwandten Studium und eine mindestens zweijährige Berufspraxis oder
 
-2.
-
-3.
-
-4.
+4. eine mindestens fünfjährige Berufspraxis.
 
 (2) Die Berufspraxis nach Absatz 1 Nummer 2 bis 4 muss wesentliche inhaltliche Bezüge zu den in § 1 Absatz 3 genannten Tätigkeiten aufweisen. Die Dauer und der Inhalt der Berufspraxis sind in geeigneter Weise nachzuweisen.
 
@@ -56,145 +52,97 @@ b)
 
 Die Prüfung umfasst folgende Prüfungsteile:
 
-1.
+1. „Betriebsmanagement“ nach § 4 und
 
-2.
+2. „Projektmanagement“ nach § 7.
 
 ### § 4 — Prüfungsbereiche im Prüfungsteil „Betriebsmanagement“
 
 Der Prüfungsteil „Betriebsmanagement“ umfasst folgende Prüfungsbereiche:
 
-1.
+1. „Führung“ nach § 5,
 
-2.
+2. „Organisation“ nach § 6.
 
 ### § 5 — Prüfungsbereich „Führung“
 
 Im Prüfungsbereich „Führung“ hat die zu prüfende Person die Fähigkeiten nachzuweisen, den Personalbedarf zu ermitteln, den Personaleinsatz entsprechend den betrieblichen und rechtlichen Anforderungen sicherzustellen und eine systematische Personalentwicklung durchzuführen. Dazu gehören die Fähigkeit, Führungsaufgaben wahrzunehmen und feste wie freie Mitarbeiter und Mitarbeiterinnen zu verantwortlichem Handeln hinzuführen, ihre Entwicklungspotenziale einzuschätzen, Qualifizierungsziele festzulegen sowie das Erreichen dieser Ziele durch zielgerichtete Maßnahmen sicherzustellen. In diesem Rahmen wird aus folgenden Qualifikationsinhalten geprüft:
 
-1.
+1. Ermitteln und Bestimmen des qualitativen und quantitativen Personalbedarfs unter Berücksichtigung gegenwärtiger und zukünftiger Anforderungen,
 
-2.
+2. Erstellen von Anforderungsprofilen, von Stellenplanungen und -beschreibungen sowie von Funktionsbeschreibungen, auch unter Beachtung des Arbeits- und Tarifrechts,
 
-3.
+3. Planen der Personalgewinnung, der Auswahl und des Einsatzes der Mitarbeiter und Mitarbeiterinnen unter Berücksichtigung ihrer Eignung und Interessen sowie der betrieblichen Anforderungen,
 
-4.
+4. Planen, Führen und Moderieren interdisziplinärer Teams und von Arbeits- und Projektgruppen,
 
-5.
+5. Anwenden von Führungs- und Kommunikationsmethoden sowie von Führungsmitteln zur Bewältigung betrieblicher Aufgaben und zum Lösen von Konflikten,
 
-6.
+6. Ermitteln und Bestimmen des Personalentwicklungsbedarfs sowie Auswählen und Anwenden der daraus folgenden Maßnahmen,
 
-7.
+7. Delegieren von Aufgaben und Verantwortung,
 
-8.
+8. Berücksichtigen der rechtlichen und organisatorischen Rahmenbedingungen beim Einsatz von Fremdpersonal und Fremdfirmen,
 
-9.
+9. Beurteilen von Mitarbeitern und Mitarbeiterinnen,
 
-10.
+10. Erfassen und Analysieren von komplexen Situationen,
 
-11.
+11. Vorbereiten und Führen zielgerichteter Gespräche,
 
-12.
+12. Erfassen weiterer Informationen im Gesprächsverlauf,
 
-13.
+13. Eingehen auf Gesprächspartner,
 
-14.
+14. Entwickeln und Einbringen von Lösungsansätzen,
 
-15.
+15. Zusammenfassen der Gesprächsergebnisse,
 
-16.
+16. Reflektieren des eigenen Gesprächsverhaltens und Ableiten von Schlussfolgerungen.
 
 ### § 6 — Prüfungsbereich „Organisation“
 
 Im Prüfungsbereich „Organisation“ hat die zu prüfende Person die Fähigkeit nachzuweisen, betriebliche Prozesse unter wirtschaftlichen und rechtlichen Aspekten zu organisieren, die Betriebsfähigkeit der technischen Systeme zu gewährleisten, den Betrieb nachhaltig zu steuern und zu entwickeln sowie geeignete Marketingstrategien einzusetzen. In diesem Rahmen wird aus folgenden Qualifikationsinhalten geprüft:
 
-1.
+1. Analysieren des Marktes, Berücksichtigen der Rahmenbedingungen, Erarbeiten und Anbieten sachgerechter und wirtschaftlicher Lösungen sowie Umsetzen eines passenden Geschäftsmodells,
 
-2.
+2. Entwickeln und Einsetzen von Marketingstrategien zur Kundengewinnung,
 
-3.
+3. Organisieren und Optimieren betrieblicher Prozesse,
 
-4.
+4. Planen und optimales Einsetzen von Personal, Betriebsmitteln und Finanzen,
 
-5.
+5. Sichern der Betriebsfähigkeit technischer Systeme, Organisieren regelmäßiger Wartungen sowie Gewährleisten der IT- und Datensicherheit,
 
-6.
+6. Planen, Vorbereiten und Realisieren von Beschaffungen und Investitionen,
 
-7.
+7. Gewährleisten des Arbeits-, Umwelt- und Gesundheitsschutzes,
 
-8.
+8. Einhalten der für den Medienbereich geltenden Rechtsvorschriften.
 
 ### § 7 — Prüfungsteil „Projektmanagement“
 
 Im Prüfungsteil „Projektmanagement“ hat die zu prüfende Person die Fähigkeit nachzuweisen, komplexe Projektaufgaben selbständig zu erfassen, darzustellen, zu beurteilen und zu lösen. In diesem Rahmen wird aus folgenden Qualifikationsinhalten geprüft:
 
-1.
+1. Projektvorbereitung: a)Erarbeiten, Vervollständigen oder Prüfen von Projektkalkulationen,b)Ermitteln des Personal- und Materialaufwands inklusive der notwendigen Ausstattung,c)Festlegen und Beschaffen der geeigneten Produktionstechnik,d)Dokumentieren des geplanten Workflows und des zugehörigen Zeitplans,e)Planen von sicherheits- und qualitätswirksamen Aktivitäten,f)Bewerten von Projektalternativen,g)Festlegen des Einsatzes von Archivmaterial,h)Sicherstellen der Einhaltung von Urheber- und Verwertungsrechten; Erarbeiten, Vervollständigen oder Prüfen von Projektkalkulationen, Ermitteln des Personal- und Materialaufwands inklusive der notwendigen Ausstattung, Festlegen und Beschaffen der geeigneten Produktionstechnik, Dokumentieren des geplanten Workflows und des zugehörigen Zeitplans, Planen von sicherheits- und qualitätswirksamen Aktivitäten, Bewerten von Projektalternativen, Festlegen des Einsatzes von Archivmaterial, Sicherstellen der Einhaltung von Urheber- und Verwertungsrechten;
 
-a)
+2. Projektrealisation: a)Zusammenstellen und Disponieren geeigneter Produktionsteams,b)Unterweisen des internen und externen Personals,c)Planen und Disponieren des Material- und Technikeinsatzes,d)Inbetriebnehmen von Produktionssystemen,e)Organisieren des Datenmanagements,f)Gewährleisten der Einhaltung des Arbeits-, Gesundheits-, Umwelt- und Brandschutzes,g)Vorbereiten, Durchführen und Nachbereiten von Zwischenpräsentationen und Kundengesprächen,h)Nachkalkulieren und Einarbeiten von Änderungen,i)Anwenden von Controllinginstrumenten zur Überwachung von Budgets, Terminen und Qualitätszielen,j)Vorhalten von Havarielösungen; Zusammenstellen und Disponieren geeigneter Produktionsteams, Unterweisen des internen und externen Personals, Planen und Disponieren des Material- und Technikeinsatzes, Inbetriebnehmen von Produktionssystemen, Organisieren des Datenmanagements, Gewährleisten der Einhaltung des Arbeits-, Gesundheits-, Umwelt- und Brandschutzes, Vorbereiten, Durchführen und Nachbereiten von Zwischenpräsentationen und Kundengesprächen, Nachkalkulieren und Einarbeiten von Änderungen, Anwenden von Controllinginstrumenten zur Überwachung von Budgets, Terminen und Qualitätszielen, Vorhalten von Havarielösungen;
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
+3. Projektabschluss: a)Durchführen von Projektabnahmen,b)Prüfen der Nachkalkulation und Veranlassen der Rechnungslegung,c)Sicherstellen der Aufbereitung, Verwaltung und Archivierung von produziertem Material,d)Überprüfen der Beachtung von Urheber-, Verwertungs- und Persönlichkeitsrechten,e)Kontrolle der Wartung und Pflege der Technik,f)Einleiten von Maßnahmen der Schadensabwicklung. Durchführen von Projektabnahmen, Prüfen der Nachkalkulation und Veranlassen der Rechnungslegung, Sicherstellen der Aufbereitung, Verwaltung und Archivierung von produziertem Material, Überprüfen der Beachtung von Urheber-, Verwertungs- und Persönlichkeitsrechten, Kontrolle der Wartung und Pflege der Technik, Einleiten von Maßnahmen der Schadensabwicklung.
 
 ### § 8 — Form und Ablauf der Prüfung
 
 (1) Die Prüfung im Prüfungsteil „Betriebsmanagement“ nach § 3 Nummer 1 gliedert sich in
 
-1.
+1. eine schriftliche Prüfung nach § 9 Absatz 1 bis 3,
 
-2.
+2. ein Rollenspiel nach § 9 Absatz 4 und 5.
 
 (2) Die Prüfung im Prüfungsteil „Projektmanagement“ nach § 3 Nummer 2 gliedert sich in
 
-1.
+1. eine schriftliche Prüfung nach § 10 Absatz 1 und 2,
 
-2.
+2. eine Präsentation und ein Fachgespräch nach § 10 Absatz 3.
 
 (3) Das Prüfungsverfahren ist innerhalb von zwei Jahren, beginnend mit dem Tag der ersten Prüfungsleistung, abzuschließen. Bei Überschreiten der Frist gelten die erbrachten Prüfungsleistungen als mit null Punkten bewertet.
 
@@ -230,9 +178,9 @@ f)
 
 (3) Im Prüfungsteil „Projektmanagement“ sind die schriftliche Prüfungsleistung nach § 10 Absatz 1 und das Fachgespräch nach § 10 Absatz 3 jeweils einzeln zu bewerten. Aus den einzelnen Bewertungen ist als Bewertung für den Prüfungsteil das gewichtete arithmetische Mittel zu berechnen. Dabei sind die Bewertungen wie folgt zu gewichten:
 
-1.
+1. die schriftliche Prüfungsleistung mit zwei Dritteln und
 
-2.
+2. das Fachgespräch mit einem Drittel.
 
 ### § 12 — Bestehen der Prüfung, Gesamtnote
 
@@ -240,9 +188,9 @@ f)
 
 (2) Ist die Prüfung bestanden, sind die folgenden Punktebewertungen jeweils kaufmännisch auf eine ganze Zahl zu runden:
 
-1.
+1. die Bewertung für den Prüfungsteil „Betriebsmanagement“ nach § 11 Absatz 2,
 
-2.
+2. die Bewertung für den Prüfungsteil „Projektmanagement“ nach § 11 Absatz 3.
 
 (3) Den Bewertungen für die Prüfungsteile „Betriebsmanagement“ und „Projektmanagement“ ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
 
@@ -250,7 +198,7 @@ f)
 
 ### § 13 — Befreiung von einzelnen Prüfungsbestandteilen
 
-Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 11 und 12 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 11 Absatz 2 oder Absatz 3 oder § 12 Absatz 4 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
+Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 11 und 12 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 11 Absatz 2 oder Absatz 3 oder § 12 Absatz 4 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 ### § 14 — Zeugnisse
 
@@ -260,9 +208,9 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur Information (Bemerkungen) enthalten, insbesondere
 
-1.
+1. über den erworbenen Abschluss oder
 
-2.
+2. auf Antrag der geprüften Person über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 ### § 15 — Wiederholung der Prüfung
 
@@ -276,9 +224,9 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (1) Für den Erwerb des Fortbildungsabschlusses nach dieser Verordnung hat die zu prüfende Person ihre berufs- und arbeitspädagogischen Qualifikationen nachzuweisen durch
 
-1.
+1. eine erfolgreich abgelegte Prüfung nach § 4 der Ausbilder-Eignungsverordnung oder
 
-2.
+2. eine andere erfolgreich abgelegte vergleichbare Prüfung vor einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss.
 
 (2) Der Nachweis ist vor Beginn der letzten Prüfungsleistung vorzulegen.
 
@@ -298,34 +246,34 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt 
 
 ### Anlage 2 — (zu § 14)
 
-1.
+1. Bezeichnung der ausstellenden Behörde,
 
-2.
+2. Name und Geburtsdatum der geprüften Person,
 
-3.
+3. Datum des Bestehens der Prüfung,
 
-4.
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 5,
 
-5.
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
 
-6.
+6. Datum der Ausstellung des Zeugnisses samt Faksimile oder Unterschrift einer zeichnungsberechtigten Person der zuständigen Stelle.
 
 Alle Angaben des Teils A sowie zusätzlich
 
-7.
+7. Benennung der Prüfungsteile,
 
-8.
+8. Bewertung im Prüfungsteil „Betriebsmanagement“ und im Prüfungsteil „Projektmanagement“,
 
-9.
+9. Bewertungen der im Prüfungsteil „Betriebsmanagement“ erbrachten Prüfungsleistungen nach § 9,
 
-10.
+10. Bewertungen der im Prüfungsteil „Projektmanagement“ erbrachten Prüfungsleistungen nach § 10,
 
-11.
+11. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
 
-12.
+12. die Gesamtnote als Dezimalzahl,
 
-13.
+13. die Gesamtnote in Worten,
 
-14.
+14. Befreiungen nach § 13,
 
-15.
+15. der Nachweis des Erwerbs der berufs- und arbeitspädagogischen Qualifikationen nach § 16.

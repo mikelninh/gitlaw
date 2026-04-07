@@ -19,5 +19,3 @@ Für besondere Fälle behalten wir uns die Ernennung und Entlassung der in Absch
 Diese Anordnung tritt am 1. Juli 1991 in Kraft.
 
 ### Schlußformel
-
-Deutsche Bundespost POSTDIENST Generaldirektion Der Vorstand

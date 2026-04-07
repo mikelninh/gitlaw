@@ -22,53 +22,37 @@ Die Ausbildung dauert drei Jahre.
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung gliedert sich wie folgt (Ausbildungsberufsbild):Abschnitt A Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten: Abschnitt B Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
+(2) Die Berufsausbildung gliedert sich wie folgt (Ausbildungsberufsbild):
 
-1.
+1. Betriebliche Abläufe und Organisation,
 
-2.
+2. Wirtschaftliche Zusammenhänge,
 
-3.
+3. Bedienen und Führen landwirtschaftlicher Maschinen,
 
-4.
+4. Pflegen, Warten und Instandhalten von Agrartechnik,
 
-5.
+5. Pflanzenproduktion, 5.1Bodenbearbeitung,5.2Bestellen und Pflegen von Kulturen,5.3Ernten, Lagern und Konservieren pflanzlicher Produkte; Bodenbearbeitung, Bestellen und Pflegen von Kulturen, Ernten, Lagern und Konservieren pflanzlicher Produkte;
 
-5.1
+6. Kommunikation und Information,
 
-5.2
+7. Dienstleistungen und Kundenorientierung,
 
-5.3
+8. Qualitätssichernde Maßnahmen;
 
-6.
+(3) Zur Sicherstellung einer ausreichenden Breite und Tiefe der nach Absatz 2 Abschnitt A Nummer 5 zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten müssen diese mindestens an drei der folgenden Kulturen:
 
-7.
+1. Halmfrucht,
 
-8.
+2. Hackfrucht,
 
-1.
+3. Grünland,
 
-2.
+4. Futterpflanzen,
 
-3.
+5. Ölfrüchte,
 
-4.
-
-5.
-
-(3) Zur Sicherstellung einer ausreichenden Breite und Tiefe der nach Absatz 2 Abschnitt A Nummer 5 zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten müssen diese mindestens an drei der folgenden Kulturen: vermittelt werden. Die für die Ausbildung wesentlichen Kulturen werden vom Ausbildungsbetrieb festgelegt. Andere Kulturen sind zulässig, wenn an ihnen die Fertigkeiten, Kenntnisse und Fähigkeiten nach Absatz 2 Abschnitt A Nummer 5 in gleicher Breite und Tiefe vermittelt werden können.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
+6. Sonderkulturen
 
 ### § 4 — Durchführung der Berufsausbildung
 
@@ -86,55 +70,27 @@ Die Ausbildung dauert drei Jahre.
 
 (3) Die Zwischenprüfung besteht aus den Prüfungsbereichen:
 
-1.
+1. Pflanzenbau und Agrartechnik,
 
-2.
+2. Arbeitsorganisation.
 
 (4) Für den Prüfungsbereich Pflanzenbau und Agrartechnik bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er Arbeiten des Pflanzenbaus durchführen, die hierfür erforderliche Agrartechnik kombinieren, einsatzbereit machen, einsetzen sowie warten kann und dabei Maßnahmen zur Arbeitsorganisation, zum Umweltschutz, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zur Wirtschaftlichkeit berücksichtigt und seine Vorgehensweise begründen kann;
 
-2.
+2. hierfür sind aus folgenden Tätigkeiten mindestens zwei auszuwählen, wobei jeweils mindestens eine Tätigkeit der Buchstaben a bis d und mindestens eine Tätigkeit der Buchstaben e bis f enthalten sein müssen: a)Bodenbearbeitungsmaßnahmen durchführen,b)Saatgut ausbringen,c)Pflanzenbestände beurteilen und pflegen,d)Erntemaßnahmen durchführen,e)Arbeitsmaschinen nach Arbeitsauftrag zusammenstellen,f)Betriebsbereitschaft und Verkehrssicherheit von Maschinen und Geräten herstellen,g)Werkzeuge und Werkstoffe einsetzen; Bodenbearbeitungsmaßnahmen durchführen, Saatgut ausbringen, Pflanzenbestände beurteilen und pflegen, Erntemaßnahmen durchführen, Arbeitsmaschinen nach Arbeitsauftrag zusammenstellen, Betriebsbereitschaft und Verkehrssicherheit von Maschinen und Geräten herstellen, Werkzeuge und Werkstoffe einsetzen;
 
-a)
+3. der Prüfling soll zwei Arbeitsproben entsprechend des Vegetationsverlaufs durchführen und zu jeder ein auftragsbezogenes Fachgespräch führen;
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-3.
-
-4.
+4. die Prüfungszeit beträgt insgesamt drei Stunden; innerhalb dieser Zeit sollen die Fachgespräche in höchstens 30 Minuten durchgeführt werden.
 
 (5) Für den Prüfungsbereich Arbeitsorganisation bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er: a)berufsbezogene gesetzliche Bestimmungen und Normen anwenden,b)arbeitsvorbereitende Maßnahmen und Arbeitsschritte im Pflanzenbau planen,c)Sicherheit und Gesundheitsschutz bei der Arbeit beachten,d)Maßnahmen für Natur- und Umweltschutz sowie Nachhaltigkeit bei der Tätigkeit berücksichtigen,e)technische und gesetzliche Normen zur Betriebs- und Verkehrssicherheit landwirtschaftlicher Maschinen und Geräte beherrschen,f)Auftragsannahme und -bearbeitung erläutern undg)Rechte und Pflichten in der Berufsausbildung darstellenkann; berufsbezogene gesetzliche Bestimmungen und Normen anwenden, arbeitsvorbereitende Maßnahmen und Arbeitsschritte im Pflanzenbau planen, Sicherheit und Gesundheitsschutz bei der Arbeit beachten, Maßnahmen für Natur- und Umweltschutz sowie Nachhaltigkeit bei der Tätigkeit berücksichtigen, technische und gesetzliche Normen zur Betriebs- und Verkehrssicherheit landwirtschaftlicher Maschinen und Geräte beherrschen, Auftragsannahme und -bearbeitung erläutern und Rechte und Pflichten in der Berufsausbildung darstellen
 
-a)
+2. der Prüfling soll berufstypische Aufgaben schriftlich bearbeiten;
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt 120 Minuten.
 
 ### § 6 — Abschlussprüfung
 
@@ -144,109 +100,75 @@ g)
 
 (3) Die Abschlussprüfung besteht aus den Prüfungsbereichen:
 
-1.
+1. Pflanzenbau,
 
-2.
+2. Agrartechnik,
 
-3.
+3. Dienstleistung, Kommunikation und Information,
 
-4.
+4. Wirtschafts- und Sozialkunde.
 
 (4) Für den Prüfungsbereich Pflanzenbau bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er pflanzenbauliche Arbeiten im Vegetationsverlauf unter Berücksichtigung der Prinzipien der Nachhaltigkeit durchführen und dabei Maßnahmen der Ablaufplanung und Betriebsorganisation, zur Qualitätssicherung, zum Umweltschutz, zur Wirtschaftlichkeit und zur Kundenorientierung umsetzen, Sicherheit und Gesundheitsschutz bei der Arbeit beachten sowie die jeweiligen produkt- und verfahrensspezifischen fachlichen Hintergründe aufzeigen kann;
 
-2.
+2. hierfür sind aus folgenden Tätigkeiten mindestens drei auszuwählen: a)Boden bearbeiten,b)Kulturen bestellen,c)Kulturen pflegen und düngen,d)Pflanzenschutz durchführen,e)Pflanzen ernten,f)Erntegut lagern und konservieren,g)Landschaft pflegen; Boden bearbeiten, Kulturen bestellen, Kulturen pflegen und düngen, Pflanzenschutz durchführen, Pflanzen ernten, Erntegut lagern und konservieren, Landschaft pflegen;
 
-a)
+3. der Prüfling soll eine Arbeitsaufgabe entsprechend des Vegetationsverlaufs durchführen und hierüber ein auftragsbezogenes Fachgespräch führen; bei der Aufgabenstellung sind die nach § 3 Absatz 3 festgelegten Kulturen zu berücksichtigen;
 
-b)
+4. die Prüfungszeit beträgt insgesamt zwei Stunden, innerhalb dieser Zeit soll das Fachgespräch in höchstens 30 Minuten durchgeführt werden;
 
-c)
+5. darüber hinaus soll der Prüfling nachweisen, dass er pflanzenbauliche Arbeiten unter Berücksichtigung der Prinzipien der Nachhaltigkeit planen und bewerten, Maßnahmen der Ablaufplanung und Betriebsorganisation entwickeln, Arbeitsabläufe kunden- und zielorientiert unter Beachtung wirtschaftlicher, technischer, rechtlicher und organisatorischer Vorgaben gestalten, Maßnahmen zur Qualitätssicherung, zum Umweltschutz, zur Wirtschaftlichkeit und zur Kundenorientierung konzipieren sowie die jeweiligen produkt- und verfahrensspezifischen fachlichen Hintergründe aufzeigen kann;
 
-d)
+6. der Prüfling soll berufstypische Aufgaben zu den unter Nummer 5 dargestellten Anforderungen schriftlich bearbeiten;
 
-e)
+7. die Prüfungszeit beträgt 90 Minuten;
 
-f)
-
-g)
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
+8. bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind die Leistung der Arbeitsaufgabe einschließlich des auftragsbezogenen Fachgesprächs und die Leistung der schriftlichen Aufgabenbearbeitung im Verhältnis 2 : 1 zu gewichten.
 
 (5) Für den Prüfungsbereich Agrartechnik bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er Agrartechnik einsetzen, pflegen, warten sowie instand halten und dabei Maßnahmen der Ablaufplanung und Betriebsorganisation durchführen, Gesichtspunkte zur Werterhaltung und Qualitätssicherung, zum Umweltschutz und zur Nachhaltigkeit, zum Gesundheitsschutz bei der Arbeit, zur Sicherheit, zur Wirtschaftlichkeit und zur Verkehrs- und Betriebssicherheit beachten, Straßenverkehrsordnung und Straßenverkehrs-Zulassungs-Ordnung berufsbezogen anwenden sowie die jeweiligen spezifischen fachlichen Hintergründe aufzeigen kann;
 
-2.
+2. hierfür sind aus folgenden Tätigkeiten mindestens drei auszuwählen, wobei die Tätigkeit nach Buchstabe d in der Auswahl enthalten sein muss: a)Verkehrssicherheit und Betriebsbereitschaft landwirtschaftlicher Maschinen herstellen,b)Pflege- und Wartungsarbeiten durchführen,c)Instandhaltungsarbeiten ausführen,d)landwirtschaftliche Zug- und Arbeitsmaschinen bis zu den Grenzen der Führerscheinklasse T im öffentlichen Straßenverkehr führen,e)Zug- und Arbeitsmaschinen sowie Geräte nach Verwendungszweck zusammenstellen; Verkehrssicherheit und Betriebsbereitschaft landwirtschaftlicher Maschinen herstellen, Pflege- und Wartungsarbeiten durchführen, Instandhaltungsarbeiten ausführen, landwirtschaftliche Zug- und Arbeitsmaschinen bis zu den Grenzen der Führerscheinklasse T im öffentlichen Straßenverkehr führen, Zug- und Arbeitsmaschinen sowie Geräte nach Verwendungszweck zusammenstellen;
 
-a)
+3. der Prüfling soll eine Arbeitsaufgabe durchführen und hierüber ein auftragsbezogenes Fachgespräch führen;
 
-b)
+4. die Prüfungszeit beträgt insgesamt zwei Stunden; innerhalb dieser Zeit soll das Fachgespräch in höchstens 30 Minuten durchgeführt werden;
 
-c)
+5. darüber hinaus soll der Prüfling nachweisen, dass er Maßnahmen der Ablaufplanung und Betriebsorganisation bei Einsatz, Wartung, Pflege und Instandhaltung der Agrartechnik planen und bewerten, dabei Gesichtspunkte zur Werterhaltung und Qualitätssicherung, zum Umweltschutz und zur Nachhaltigkeit, zum Gesundheitsschutz bei der Arbeit, zur Sicherheit, zur Wirtschaftlichkeit und zur Verkehrs- und Betriebssicherheit beachten, berufsspezifische rechtliche Regelungen berücksichtigen, Funktionsweisen von Bauteilen und Baugruppen darstellen sowie die jeweiligen spezifischen fachlichen Hintergründe aufzeigen kann;
 
-d)
+6. der Prüfling soll berufstypische Aufgaben zu den unter Nummer 5 dargestellten Anforderungen schriftlich bearbeiten;
 
-e)
+7. die Prüfungszeit beträgt 90 Minuten;
 
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
+8. Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind die Leistung der Arbeitsaufgabe einschließlich des auftragsbezogenen Fachgesprächs und die Leistung der schriftlichen Aufgabenbearbeitung im Verhältnis 2 : 1 zu gewichten.
 
 (6) Für den Prüfungsbereich Dienstleistung, Kommunikation und Information bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er: a)Kundenanfragen annehmen und Aufträge bearbeiten,b)Kunden beraten und Angebote erläutern,c)Reklamationen bearbeiten undd)Konzepte für Dienstleistungsangebote darstellenkann; Kundenanfragen annehmen und Aufträge bearbeiten, Kunden beraten und Angebote erläutern, Reklamationen bearbeiten und Konzepte für Dienstleistungsangebote darstellen
 
-a)
+2. der Prüfling soll berufstypische Aufgaben schriftlich bearbeiten;
 
-b)
-
-c)
-
-d)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt 120 Minuten.
 
 (7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
-2.
+2. der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
 
-3.
+3. die Prüfungszeit beträgt 60 Minuten.
 
-(8) Für die Ermittlung des Gesamtergebnisses sind die Ergebnisse der Prüfungsbereiche zu einer Note zusammenzufassen. Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
+(9) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-(9) Die Abschlussprüfung ist bestanden, wenn die Leistungen bewertet worden sind.
+1. im Gesamtergebnis mit mindestens „ausreichend“,
 
-1.
+2. in mindestens drei Prüfungsbereichen mit mindestens „ausreichend“,
 
-2.
+3. in keinem Prüfungsbereich mit „ungenügend“
 
-3.
-
-(10) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten. In Teilbereichen von Prüfungsbereichen, in denen Prüfungsleistungen mit eigenen Anforderungen und Gewichtung schriftlich zu erbringen sind, gelten die Sätze 1 und 2 entsprechend.
+(10) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten. In Teilbereichen von Prüfungsbereichen, in denen Prüfungsleistungen mit eigenen Anforderungen und Gewichtung schriftlich zu erbringen sind, gelten die Sätze 1 und 2 entsprechend.
 
 ### § 7 — Bestehende Berufsausbildungsverhältnisse
 
@@ -257,175 +179,3 @@ Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
 ### Anlage — (zu § 3)
-
-Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)

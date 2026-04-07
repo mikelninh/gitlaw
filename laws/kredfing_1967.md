@@ -9,11 +9,21 @@ Rechnungsjahr 1967
 
 ### § 1
 
-(1) Der Bundesminister der Finanzen wird ermächtigt, zur Leistung von Investitionsausgaben zum Zwecke einer Belebung der Investitionstätigkeit und der Sicherung eines stetigen Wirtschaftswachstums im Rechnungsjahr 1967 Geldmittel im Wege des Kredits zu beschaffen, deren Höhe den Betrag von 2.500.000.000 Deutsche Mark nicht überschreiten darf.(2) Im Rahmen der nach Absatz 1 vorgesehenen Kredite können zur Durchführung zusätzlicher Investitionsmaßnahmen Darlehen gewährt und Darlehensverpflichtungen eingegangen werden.
+(1) Der Bundesminister der Finanzen wird ermächtigt, zur Leistung von Investitionsausgaben zum Zwecke einer Belebung der Investitionstätigkeit und der Sicherung eines stetigen Wirtschaftswachstums im Rechnungsjahr 1967 Geldmittel im Wege des Kredits zu beschaffen, deren Höhe den Betrag von 2.500.000.000 Deutsche Mark nicht überschreiten darf.
+
+(2) Im Rahmen der nach Absatz 1 vorgesehenen Kredite können zur Durchführung zusätzlicher Investitionsmaßnahmen Darlehen gewährt und Darlehensverpflichtungen eingegangen werden.
 
 ### § 2
 
-(1) Der Bundesminister der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesminister für Wirtschaft mit den nach § 1 beschafften Geldmitteln zusätzliche Investitionsprogramme zu finanzieren, und zwar im Bereich der Deutschen Bundesbahnbis zum Betrag von 750.000.000 Deutsche Mark, für Zwecke des Bundesfernstraßenbauesbis zum Betrag von 534.000.000 Deutsche Mark, im Bereich der Deutschen Bundespostbis zum Betrag von 485.000.000 Deutsche Mark, für Wohnungsbau und Aufschließungsmaßnahmen zur Unterbringung von Angehörigen der Bundeswehr bis zum Betrag von 200.000.000 Deutsche Mark, für den sozialen Wohnungsbaubis zum Betrag von 150.000.000 Deutsche Mark, im Bereich der Landwirtschaft, insbesondere für den Landeskulturbau bis zum Betrag von 200.000.000 Deutsche Mark, für Zwecke der Wissenschaft und Forschung bis zum Betrag von 73.000.000 Deutsche Mark, für Zwecke des Bundeswasserstraßenbaues bis zum Betrag von 50.000.000 Deutsche Mark, für Hochbaumaßnahmen des Bundesbis zum Betrag von 18.000.000 Deutsche Mark, zur Förderung der Entwicklung der elektronischen Datenverarbeitung bis zum Betrag von 20.000.000 Deutsche Mark, für den Bau von Studentenwohnheimenbis zum Betrag von 20.000.000 Deutsche Mark. (2) Bei der Vergabe von Aufträgen sind Gebiete mit überdurchschnittlicher Arbeitslosigkeit bevorzugt zu berücksichtigen.
+(1) Der Bundesminister der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesminister für Wirtschaft mit den nach § 1 beschafften Geldmitteln zusätzliche Investitionsprogramme zu finanzieren, und zwar
+
+im Bereich der Deutschen Bundesbahn bis zum Betrag von 750.000.000 Deutsche Mark,
+
+für Zwecke des Bundesfernstraßenbaues bis zum Betrag von 534.000.000 Deutsche Mark,
+
+im Bereich der Deutschen Bundespost bis zum Betrag von 485.000.000 Deutsche Mark,
+
+(2) Bei der Vergabe von Aufträgen sind Gebiete mit überdurchschnittlicher Arbeitslosigkeit bevorzugt zu berücksichtigen.
 
 ### § 3
 
@@ -21,7 +31,15 @@ Die Investitionsmaßnahmen nach § 2 sind in den außerordentlichen Haushalt des
 
 ### § 4
 
-(1) Die Festlegung des Investitionsprogramms bedarf der Zustimmung des Haushaltsausschusses des Deutschen Bundestages.(2) Unter Anrechnung auf die in § 2 vorgesehenen Maßnahmen kann zugunsten der Deutschen Bundesbahnüber einen Betrag bis zu 300.000.000 Deutsche Mark, des Bundesfernstraßenbausbis zum Betrag von 200.000.000 Deutsche Mark, der Deutschen Bundespostbis zum Betrag von 250.000.000 Deutsche Markund der Landwirtschaft, insbesondere für den Landeskulturbau bis zum Betrag von 100.000.000 Deutsche Mark mit dem Inkrafttreten dieses Gesetzes verfügt werden.
+(1) Die Festlegung des Investitionsprogramms bedarf der Zustimmung des Haushaltsausschusses des Deutschen Bundestages.
+
+(2) Unter Anrechnung auf die in § 2 vorgesehenen Maßnahmen kann zugunsten
+
+der Deutschen Bundesbahn über einen Betrag bis zu 300.000.000 Deutsche Mark,
+
+des Bundesfernstraßenbaus bis zum Betrag von 200.000.000 Deutsche Mark,
+
+der Deutschen Bundespost bis zum Betrag von 250.000.000 Deutsche Mark und
 
 ### § 5
 

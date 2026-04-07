@@ -9,17 +9,13 @@ der Sozialversicherung für 1996
 
 ### Eingangsformel
 
-Auf Grund verordnet die Bundesregierung und auf Grund verordnet das Bundesministerium für Arbeit und Sozialordnung:
+Auf Grund
 
--
+- des § 255b Abs. 1 des Sechsten Buches Sozialgesetzbuch - Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes vom 18. Dezember 1989, BGBl. I S. 2261), der durch Artikel 1 Nr. 69 des Gesetzes vom 25. Juli 1991 (BGBl. I S. 1606) eingefügt worden ist,
 
--
+- der §§ 1151 und 1153 der Reichsversicherungsordnung in der im Bundesgesetzblatt Teil III, Gliederungsnummer 820-1, veröffentlichten bereinigten Fassung, die durch Artikel 8 Nr. 14 des Gesetzes vom 25. Juli 1991 (BGBl. I S. 1606) eingefügt worden sind, und
 
--
-
--
-
--
+- des § 105 des Gesetzes über die Alterssicherung der Landwirte vom 29. Juli 1994 (BGBl. I S. 1890, 1891)
 
 ### § 1 — Anpassung des aktuellen Rentenwertes (Ost)
 
@@ -40,8 +36,6 @@ Der allgemeine Rentenwert (Ost) in der Alterssicherung der Landwirte beträgt vo
 
 ### § 5 — Angleichungsfaktoren für den Versorgungsausgleich
 in der Rentenversicherung
-
-Bei Entscheidungen über den Versorgungsausgleich, die in der Zeit nach dem 31. Dezember 1995 ergehen, sind die Angleichungsfaktoren zur Ermittlung des Wertes von angleichungsdynamischen Anrechten nach § 3 Abs. 2 Nr. 1 Buchstabe a des Versorgungsausgleichs-Überleitungsgesetzes der nachstehenden Tabelle zu entnehmen:
 
 ### § 6 — Inkrafttreten
 

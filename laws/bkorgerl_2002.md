@@ -12,29 +12,19 @@ Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit sofortiger 
 
 ### I.
 
-1.
+1. (weggefallen)
 
-2.
+2. Dazu werden ihm aus dem Geschäftsbereich des Bundesministeriums der Finanzen unter teilweiser Aufhebung des Organisationserlasses des Bundeskanzlers vom 27. Oktober 1998 (BGBl. I S. 3288), Ziffer V, übertragen die Zuständigkeiten für:a)den Jahreswirtschaftsbericht, den Konjunkturrat für die öffentliche Hand, die wirtschaftswissenschaftlichen Forschungsinstitute und den Sachverständigenrat für die Beurteilung der gesamtwirtschaftlichen Entwicklung;b)gesamtwirtschaftliche Analysen und Projektionen, Wirtschaftsstatistik;c)institutionelle Fragen der OECD aus dem Bereich Außenwirtschaftspolitik (ohne Haushalt der OECD). den Jahreswirtschaftsbericht, den Konjunkturrat für die öffentliche Hand, die wirtschaftswissenschaftlichen Forschungsinstitute und den Sachverständigenrat für die Beurteilung der gesamtwirtschaftlichen Entwicklung; gesamtwirtschaftliche Analysen und Projektionen, Wirtschaftsstatistik; institutionelle Fragen der OECD aus dem Bereich Außenwirtschaftspolitik (ohne Haushalt der OECD). Dabei bleiben die Zuständigkeiten des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung unberührt.
 
-a)
-
-b)
-
-c)
-
-3.
+3. (weggefallen)
 
 ### II.
 
-1.
+1. Mit der Übertragung von Zuständigkeiten aus dem bisherigen Bundesministerium für Arbeit und Sozialordnung wird das bisherige Bundesministerium für Gesundheit zu einem Bundesministerium für Gesundheit und Soziale Sicherung umgebildet.
 
-2.
+2. Dazu werden ihm aus dem Geschäftsbereich des bisherigen Bundesministeriums für Arbeit und Sozialordnung folgende Zuständigkeiten übertragen:a)Sozialversicherung, Sozialgesetzbuch, Kriegsopferversorgung und sonstiges soziales Entschädigungsrecht, Versorgungsmedizin; in Fragen der Sozialversicherung besonderer Personengruppen, insbesondere geringfügig Beschäftigter und Scheinselbständiger, ist Einvernehmen mit dem Bundesministerium für Wirtschaft und Arbeit herzustellen; b)Prävention, Rehabilitation, Behindertenpolitik; Sozialhilfe (soweit nicht in Ziffer I Nr. 3 anders geregelt). Sozialversicherung, Sozialgesetzbuch, Kriegsopferversorgung und sonstiges soziales Entschädigungsrecht, Versorgungsmedizin; in Fragen der Sozialversicherung besonderer Personengruppen, insbesondere geringfügig Beschäftigter und Scheinselbständiger, ist Einvernehmen mit dem Bundesministerium für Wirtschaft und Arbeit herzustellen; Prävention, Rehabilitation, Behindertenpolitik; Sozialhilfe (soweit nicht in Ziffer I Nr. 3 anders geregelt). Die Zuständigkeitsübertragung schließt deren europäische und internationale Bezüge sowie deren Grundsatz- und Planungsangelegenheiten ein.
 
-a)
-
-b)
-
-3.
+3. Der Beauftragte der Bundesregierung für die Belange der Behinderten und der Bundesbeauftragte für die Sozialversicherungswahlen werden dem Bundesministerium für Gesundheit und Soziale Sicherung zugeordnet.
 
 ### III.
 
@@ -52,13 +42,9 @@ Dem Bundesministerium für Verkehr, Bau- und Wohnungswesen wird aus dem Geschäf
 
 Dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit werden übertragen:
 
-1.
+1. aus dem Geschäftsbereich des Bundesministeriums für Wirtschaft und Arbeita)die Zuständigkeiten für die Markteinführung der erneuerbaren Energieträger und für die Energieforschung im Bereich der erneuerbaren Energieträger; b)die Federführung für das Erneuerbare Energien-Gesetz (EEG) und dessen Fortentwicklung unter entsprechender Anwendung der bisherigen Beteiligungsregelungen. die Zuständigkeiten für die Markteinführung der erneuerbaren Energieträger und für die Energieforschung im Bereich der erneuerbaren Energieträger; die Federführung für das Erneuerbare Energien-Gesetz (EEG) und dessen Fortentwicklung unter entsprechender Anwendung der bisherigen Beteiligungsregelungen. Die Zuständigkeit für außenwirtschaftliche Fragen bei erneuerbaren Energien (insbesondere Exportförderung) liegt weiterhin beim Bundesministerium für Wirtschaft und Arbeit.
 
-a)
-
-b)
-
-2.
+2. aus dem Geschäftsbereich des Bundesministeriums der Finanzen die Zuständigkeit für die "Deutsche Bundesstiftung Umwelt.
 
 ### VII.
 

@@ -21,4 +21,8 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar
 
 ### § 3
 
-(1) Diese Verordnung tritt an dem Tage in Kraft, an dem das Abkommen vom 20. November 1962 nach seinem Artikel 13 Abs. 2 in Kraft tritt.(2) Diese Verordnung tritt an dem Tage außer Kraft, an dem das Abkommen vom 20. November 1962 außer Kraft tritt.(3) Der Tag des Inkrafttretens und des Außerkrafttretens ist im Bundesgesetzblatt bekanntzugeben.
+(1) Diese Verordnung tritt an dem Tage in Kraft, an dem das Abkommen vom 20. November 1962 nach seinem Artikel 13 Abs. 2 in Kraft tritt.
+
+(2) Diese Verordnung tritt an dem Tage außer Kraft, an dem das Abkommen vom 20. November 1962 außer Kraft tritt.
+
+(3) Der Tag des Inkrafttretens und des Außerkrafttretens ist im Bundesgesetzblatt bekanntzugeben.

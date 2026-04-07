@@ -20,9 +20,9 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (1) Die Befugnis zur Führung der in § 1 Abs. 1 genannten Berufsbezeichnung und zur Ausübung pharmazeutischer Tätigkeiten in der Apotheke ist zu untersagen, wenn der Apothekerassistent
 
-1.
+1. sich eines Verhaltens schuldig gemacht hat, aus dem sich die Unzuverlässigkeit zur Ausübung des Berufs ergibt, oder
 
-2.
+2. in gesundheitlicher Hinsicht zur Ausübung des Berufs ungeeignet ist.
 
 (2) Im Falle der Untersagung ist der Betroffene vorher zu hören.
 

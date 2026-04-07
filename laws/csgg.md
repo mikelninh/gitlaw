@@ -14,13 +14,13 @@ Mit diesem Gesetz werden Maßnahmen zur Bevorrechtigung des Carsharing ermöglic
 
 Im Sinne dieses Gesetzes ist
 
-1.
+1. ein Carsharingfahrzeug ein Kraftfahrzeug, das einer unbestimmten Anzahl von Fahrern und Fahrerinnen auf der Grundlage einer Rahmenvereinbarung und einem die Energiekosten mit einschließenden Zeit- oder Kilometertarif oder Mischformen solcher Tarife angeboten und selbstständig reserviert und genutzt werden kann,
 
-2.
+2. ein Carsharinganbieter ein Unternehmen unabhängig von seiner Rechtsform, das Carsharingfahrzeuge stationsunabhängig oder stationsbasiert zur Nutzung für eine unbestimmte Anzahl von Kunden und Kundinnen nach allgemeinen Kriterien anbietet, wobei Mischformen der Angebotsmodelle möglich sind,
 
-3.
+3. stationsunabhängiges Carsharing ein Angebotsmodell, bei dem die Nutzung des Fahrzeugs ohne Rücksicht auf vorab örtlich festgelegte Abhol- und Rückgabestellen begonnen und beendet werden kann und
 
-4.
+4. stationsbasiertes Carsharing ein Angebotsmodell, das auf vorab reservierbaren Fahrzeugen und örtlich festgelegten Abhol- oder Rückgabestellen beruht.
 
 ### § 3 — Bevorrechtigungen
 
@@ -28,19 +28,19 @@ Im Sinne dieses Gesetzes ist
 
 (2) Bevorrechtigungen sind möglich
 
-1.
+1. für das Parken auf öffentlichen Straßen oder Wegen,
 
-2.
+2. im Hinblick auf das Erheben von Gebühren für das Parken auf öffentlichen Straßen oder Wegen.
 
-(3) In Rechtsverordnungen nach § 6 Absatz 1, auch in Verbindung mit Absatz 3, des Straßenverkehrsgesetzes können Rechtsverordnungen mit Regelungen im Sinne des Satzes 1 erlässt das Bundesministerium für Verkehr und digitale Infrastruktur gemeinsam mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit. § 6 Absatz 7 des Straßenverkehrsgesetzes ist auf eine Rechtsverordnung mit Regelungen nach Satz 1 nicht anzuwenden.
+(3) In Rechtsverordnungen nach § 6 Absatz 1, auch in Verbindung mit Absatz 3, des Straßenverkehrsgesetzes können
 
-1.
+1. die Bevorrechtigungen näher bestimmt werden,
 
-2.
+2. die Einzelheiten der Anforderungen an deren Inanspruchnahme festgelegt werden,
 
-3.
+3. die erforderlichen straßenverkehrsrechtlichen Anordnungen, insbesondere Verkehrszeichen und Verkehrseinrichtungen, für stationsunabhängiges und stationsbasiertes Carsharing bestimmt werden und
 
-4.
+4. die Einzelheiten zur Regelung des Verkehrs zu Gunsten von Fahrzeugen eines oder mehrerer bestimmter Carsharinganbieter, die ein stationsbasiertes Angebot zur Verfügung stellen, festgelegt werden, soweit der jeweilige Carsharinganbieter im Rahmen der wegerechtlichen Vorschriften zur Sondernutzung des öffentlichen Straßenraums berechtigt ist.
 
 (4) In Rechtsverordnungen nach § 6a Absatz 6 Satz 2, auch in Verbindung mit Satz 4, des Straßenverkehrsgesetzes können als Bevorrechtigungen Ermäßigungen oder Befreiungen von der Gebührenpflicht vorgesehen werden.
 
@@ -48,13 +48,13 @@ Im Sinne dieses Gesetzes ist
 
 (1) Bevorrechtigungen nach § 3 dürfen nur für Fahrzeuge gewährt werden, die mit einer deutlich sichtbaren Kennzeichnung als Carsharingfahrzeug versehen sind.
 
-(2) In einer Rechtsverordnung nach § 6 Absatz 1 Satz 1 Nummer 2 oder 9 Buchstabe c des Straßenverkehrsgesetzes können das Bundesministerium für Verkehr und digitale Infrastruktur, das Bundesministerium für Wirtschaft und Energie und das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit gemeinsam näher bestimmen. Das Verfahren kann auch über eine einheitliche Stelle nach § 71a des Verwaltungsverfahrensgesetzes abgewickelt werden. § 6 Absatz 7 des Straßenverkehrsgesetzes ist auf Rechtsverordnungen nach Satz 1 nicht anzuwenden.
+(2) In einer Rechtsverordnung nach § 6 Absatz 1 Satz 1 Nummer 2 oder 9 Buchstabe c des Straßenverkehrsgesetzes können das Bundesministerium für Verkehr und digitale Infrastruktur, das Bundesministerium für Wirtschaft und Energie und das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit gemeinsam
 
-1.
+1. die Art und Weise der Kennzeichnung im Sinne des Absatzes 1,
 
-2.
+2. die für das Erteilen der Kennzeichnung erforderlichen Angaben und
 
-3.
+3. das Verfahren für das Erteilen der Kennzeichnung
 
 (3) Für individuell zurechenbare öffentliche Leistungen nach Absatz 1 in Verbindung mit Rechtsverordnungen nach Absatz 2 werden Gebühren und Auslagen erhoben. § 6a Absatz 2 bis 5 und 8 des Straßenverkehrsgesetzes gilt entsprechend.
 
@@ -66,11 +66,11 @@ Im Sinne dieses Gesetzes ist
 
 (3) In dem Auswahlverfahren nach Maßgabe der Absätze 5 bis 7 wird die Sondernutzung der nach Absatz 1 ausgewählten Flächen einem geeigneten und zuverlässigen Carsharinganbieter erlaubt. Geeignet ist ein Carsharinganbieter, der die nach Absatz 4 festgelegten Anforderungen an die von ihnen im Rahmen der Sondernutzung zu erbringende Leistung (Eignungskriterien) erfüllt. Unzuverlässig ist ein Carsharinganbieter, der bei der Erbringung von Carsharingdienstleistungen wiederholt in schwerwiegender Weise gegen Pflichten aus der Straßenverkehrs-Zulassungs-Ordnung verstoßen hat sowie in den in § 123 des Gesetzes gegen Wettbewerbsbeschränkungen genannten Fällen. Erfüllen mehrere Carsharinganbieter die Anforderungen des Satzes 1, ist durch Los zu entscheiden.
 
-(4) Das Bundesministerium für Verkehr und digitale Infrastruktur, das Bundesministerium für Wirtschaft und Energie und das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit werden ermächtigt, gemeinsam durch Rechtsverordnung mit Zustimmung des Bundesrates die Eignungskriterien festzulegen und an den aktuellen Stand der Technik anzupassen. Die Eignungskriterien sind mit dem Ziel festzulegen, dass sie geeignet sind, durch die von dem jeweiligen Carsharinganbieter angebotene Leistung am besten beizutragen. Bis zum erstmaligen Inkrafttreten einer Rechtsverordnung nach Satz 1 bestimmen sich die Eignungskriterien nach der Anlage.
+(4) Das Bundesministerium für Verkehr und digitale Infrastruktur, das Bundesministerium für Wirtschaft und Energie und das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit werden ermächtigt, gemeinsam durch Rechtsverordnung mit Zustimmung des Bundesrates die Eignungskriterien festzulegen und an den aktuellen Stand der Technik anzupassen. Die Eignungskriterien sind mit dem Ziel festzulegen, dass sie geeignet sind, durch die von dem jeweiligen Carsharinganbieter angebotene Leistung
 
-1.
+1. zu einer Verringerung des motorisierten Individualverkehrs, insbesondere durch eine Vernetzung mit dem öffentlichen Personennahverkehr, und
 
-2.
+2. zu einer Entlastung von straßenverkehrsbedingten Luftschadstoffen, insbesondere durch das Vorhalten elektrisch betriebener Fahrzeuge im Sinne des Elektromobilitätsgesetzes,
 
 (5) Die Bekanntmachung über das vorgesehene Auswahlverfahren muss allen interessierten Unternehmen kostenfrei und ohne Registrierung zugänglich sein. Sie ist auf der Internetseite www.bund.de und nach Maßgabe des Rechts der Europäischen Union im Amtsblatt der Europäischen Union zu veröffentlichen. Die Bekanntmachung muss alle für die Teilnahme an dem Auswahlverfahren erforderlichen Informationen enthalten, insbesondere Informationen über den vorgesehenen Ablauf des Auswahlverfahrens, Anforderungen an die Übermittlung von Unterlagen sowie die Eignungskriterien. Sie muss zudem die vorgesehene Dauer der Sondernutzung enthalten. Fristen sind angemessen zu setzen. Das Auswahlverfahren ist von Beginn an fortlaufend zu dokumentieren. Alle wesentlichen Entscheidungen sind zu begründen.
 
@@ -94,28 +94,34 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur, das Bundesministe
 
 ### Anlage — (zu § 5 Absatz 4 Satz 3)
 
-1.1
+Teil 1 Allgemeine Anforderungen an das Angebot und die Fahrzeugflotte
 
-1.2
+1.1 Carsharinganbieter gewähren im Rahmen der vorhandenen Kapazität grundsätzlich jeder volljährigen Person mit einer für das entsprechende Kraftfahrzeug gültigen und vorgelegten Fahrerlaubnis diskriminierungsfrei eine Teilnahmeberechtigung. Einschränkungen hinsichtlich der Dauer des Besitzes der Fahrerlaubnis, des Mindestalters sowie einer Bonitätsprüfung sind möglich.
 
-1.2.1
+1.2 Carsharinganbieter bieten ihren Kunden folgenden Mindestleistungsumfang:
 
-1.2.2
+1.2.1 Die Fahrzeugbuchung, -abholung und -rückgabe ist an 24 Stunden täglich möglich.
 
-1.2.3
+1.2.2 Kurzzeitnutzungen ab einer Stunde sind möglich, der Stundentarif darf 20 Prozent des Tagespreises nicht überschreiten.
 
-1.2.4
+1.2.3 Die Berücksichtigung von Freikilometern ist mit Ausnahme der Wege für die Tank- und Batteriebeladung, der Fahrzeugpflege oder für Maßnahmen der Kundenbindung oder der Kundengewinnung nicht zulässig. Die Betriebsmittelkosten je Kilometer müssen über den marktüblichen Energiekosten (Kraftstoff und Strom) liegen.
 
-1.2.5
+1.2.4 Die Wartung der Fahrzeuge wird regelmäßig, entsprechend den Herstellerempfehlungen durchgeführt.
 
-1.2.6
+1.2.5 Den Kunden sollen Informationen über umweltschonende und lärmarme Fahrweise für die Fahrer und Fahrerinnen zur Verfügung gestellt werden, in dem Carsharinganbieter mittels ihrer Internetseite oder auf anderen geeigneten Informationsmaterialien auf die Möglichkeit von Schulungen zur umweltschonenden Fahrweise (etwa von Fahrschulen oder anderen Anbietern) hinweisen.
 
-1.3
+1.2.6 Inhabern von Dauer- oder Vergünstigungskarten des Öffentlichen Personenverkehrs (z. B. für Besitzer von Ermäßigungskarten oder Dauerkartenbesitzer des Öffentlichen Personennahverkehrs) sollen Vergünstigungen gewährt werden, sofern die Anbieter dieser Karten kein eigenes Carsharingangebot betreiben.
 
-1.4
+1.3 Carsharinganbieter mit Fahrzeugflotten bis zu fünf Fahrzeugen weisen mindestens zehn registrierte Fahrberechtigte pro Fahrzeug auf und solche mit einem Angebot von mehr als fünf Fahrzeugen mindestens 15 registrierte Fahrberechtigte pro Fahrzeug. Als Fahrzeugflotte gilt die Gesamtheit der Fahrzeuge des jeweiligen Anbieters in der jeweiligen Gemeinde. Davon ausgenommen sind solche Anbieter, die mit einem entsprechenden Angebot erstmalig in der jeweiligen Gemeinde tätig werden wollen.
 
-1.5
+1.4 Der Carsharinganbieter informiert im Falle der Nutzung elektrisch betriebener Fahrzeuge in geeigneter Weise (insbesondere über allgemeine Verbraucherinformationen, Internet, seine Allgemeinen Geschäftsbedingungen) – soweit verfügbar – über die Standorte der für das Carsharingfahrzeug geeigneten Ladestationen, die Art der Stromversorgung an diesen Ladestationen und die Herkunft der bezogenen Elektrizität. Dafür benennt er den Anbieter und den Stromtarif.
+
+1.5 Soweit der Schutz geistigen Eigentums sowie von Betriebs- oder Geschäftsgeheimnissen nicht entgegenstehen, sollen zum Zwecke der Förderung der Multimodalität Daten bezüglich des Status von Carsharingfahrzeugen freigegeben werden. Personenbezogene Daten dürfen nicht freigegeben werden.
+
+Teil 2 Nachweise
 
 Der Carsharinganbieter kann die Einhaltung der Anforderungen gemäß den Nummern 1.2.5, 1.2.6 und 1.4 durch die Vorlage der Vertragsbedingungen, Tarife (einschließlich Vergünstigungen für Besitzer von Ermäßigungskarten oder Dauerkartenbesitzer des öffentlichen Personenverkehrs) und seiner Kundeninformation (insbesondere über allgemeine Verbraucherinformationen, den Internetauftritt oder die Allgemeinen Geschäftsbedingungen) über umweltschonende und lärmarme Fahrweise und Angebote für Schulungen nachweisen.
 
-Die nach Landesrecht zuständige Behörde kann, soweit ihr Zuständigkeitsbereich nicht mehr als 50 000 Einwohner umfasst, in ihren Auswahlverfahren von einzelnen Anforderungen abweichen, wenn dies aufgrund besonderer örtlicher Umstände gerechtfertigt ist und ein Interessenbekundungsverfahren ergeben hat, dass andernfalls kein Carsharinganbieter einen Antrag stellt. Dies ist näher zu begründen.
+Teil 3 Abweichungsmöglichkeit
+
+Die nach Landesrecht zuständige Behörde kann, soweit ihr Zuständigkeitsbereich nicht mehr als 50 000 Einwohner umfasst, in ihren Auswahlverfahren von einzelnen Anforderungen abweichen, wenn dies aufgrund besonderer örtlicher Umstände gerechtfertigt ist und ein Interessenbekundungsverfahren ergeben hat, dass andernfalls kein Carsharinganbieter einen Antrag stellt. Dies ist näher zu begründen.

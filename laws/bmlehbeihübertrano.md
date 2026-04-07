@@ -11,7 +11,17 @@ Nach § 80 Absatz 6, § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des Bunde
 
 ### § 1 — Übertragung von Zuständigkeiten für die Festsetzung von Leistungen sowie für damit zusammenhängende Widerspruchs- und Klageverfahren
 
-(1) Der Postbeamtenkrankenkasse wird die Zuständigkeit für die Beihilfebearbeitung einschließlich der Beihilfefestsetzung für Beihilfeanträge der gemäß § 2 der Bundesbeihilfeverordnung beihilfeberechtigten Personen sowie der gemäß § 4 der Bundesbeihilfeverordnung berücksichtigungsfähigen Personen (Beihilfeempfangende) des Bundesministeriums für Landwirtschaft, Ernährung und Heimat (Bundesministerium) und der nachgeordneten Behörden des Bundesministeriums (unmittelbare Bundesverwaltung) übertragen. Die Postbeamtenkrankenkasse entscheidet als Festsetzungsstelle. Die Festsetzungsstelle ist nicht zu Entscheidungen befugt, die nach den Vorschriften der Bundesbeihilfeverordnung der obersten Dienstbehörde vorbehalten sind.(2) Der Postbeamtenkrankenkasse wird gemäß § 126 Absatz 3 Satz 2 des Bundesbeamtengesetzes die Zuständigkeit für die Entscheidung über Widersprüche gegen von ihr getroffene beihilferechtliche Maßnahmen gemäß Absatz 1 übertragen.(3) Der Postbeamtenkrankenkasse, vertreten durch den Vorstand, wird gemäß § 127 Absatz 3 Satz 1 des Bundesbeamtengesetzes die Vertretung der Bundesrepublik Deutschland in gerichtlichen Verfahren der Beihilfeempfangenden des Bundesministeriums und dessen nachgeordneten Behörden in Beihilfeangelegenheiten übertragen, soweit die Postbeamtenkrankenkasse nach dieser Anordnung für den Erlass des Widerspruchsbescheids zuständig war.(4) Die Absätze 1 bis 3 gelten nicht für 1.die Bundesanstalt für Landwirtschaft und Ernährung und deren berücksichtigungsfähige Personen,2.das Bundesinstitut für Risikobewertung und deren berücksichtigungsfähige Personen.
+(1) Der Postbeamtenkrankenkasse wird die Zuständigkeit für die Beihilfebearbeitung einschließlich der Beihilfefestsetzung für Beihilfeanträge der gemäß § 2 der Bundesbeihilfeverordnung beihilfeberechtigten Personen sowie der gemäß § 4 der Bundesbeihilfeverordnung berücksichtigungsfähigen Personen (Beihilfeempfangende) des Bundesministeriums für Landwirtschaft, Ernährung und Heimat (Bundesministerium) und der nachgeordneten Behörden des Bundesministeriums (unmittelbare Bundesverwaltung) übertragen. Die Postbeamtenkrankenkasse entscheidet als Festsetzungsstelle. Die Festsetzungsstelle ist nicht zu Entscheidungen befugt, die nach den Vorschriften der Bundesbeihilfeverordnung der obersten Dienstbehörde vorbehalten sind.
+
+(2) Der Postbeamtenkrankenkasse wird gemäß § 126 Absatz 3 Satz 2 des Bundesbeamtengesetzes die Zuständigkeit für die Entscheidung über Widersprüche gegen von ihr getroffene beihilferechtliche Maßnahmen gemäß Absatz 1 übertragen.
+
+(3) Der Postbeamtenkrankenkasse, vertreten durch den Vorstand, wird gemäß § 127 Absatz 3 Satz 1 des Bundesbeamtengesetzes die Vertretung der Bundesrepublik Deutschland in gerichtlichen Verfahren der Beihilfeempfangenden des Bundesministeriums und dessen nachgeordneten Behörden in Beihilfeangelegenheiten übertragen, soweit die Postbeamtenkrankenkasse nach dieser Anordnung für den Erlass des Widerspruchsbescheids zuständig war.
+
+(4) Die Absätze 1 bis 3 gelten nicht für
+
+1. die Bundesanstalt für Landwirtschaft und Ernährung und deren berücksichtigungsfähige Personen,
+
+2. das Bundesinstitut für Risikobewertung und deren berücksichtigungsfähige Personen.
 
 ### § 2 — Vorbehaltsklausel
 

@@ -16,7 +16,7 @@ Auf Grund des § 4 Satz 3 des Alkopopsteuergesetzes vom 23. Juli 2004 (BGBl. I S
 
 (2) Das Aufkommen der Alkopopsteuer ist die kassenmäßige Einnahme im abgelaufenen Haushaltsjahr ohne die steuerlichen Nebenleistungen nach § 3 Abs. 4 der Abgabenordnung.
 
-(3) Für die Berechnung der Mindereinnahmen bei der Alkoholsteuer, die sich durch die Einführung der Alkopopsteuer ergeben, ist von einer jährlichen Verbrauchsmenge von Alkopops vor Einführung der Alkopopsteuer von 45 000 Hektoliter reinen Alkohols auszugehen (bisherige Verbrauchsmenge). Die Mindereinnahmen bei der Alkoholsteuer werden aus der Differenz zwischen der Alkoholsteuer für die bisherige Verbrauchsmenge und der Alkoholsteuer für die im abgelaufenen Haushaltsjahr versteuerte Alkoholmenge von Alkopops ermittelt. Dabei ist der im abgelaufenen Haushaltsjahr geltende Alkoholsteuersatz nach § 2 Absatz 1 des Alkoholsteuergesetzes zugrunde zu legen.
+(3) Für die Berechnung der Mindereinnahmen bei der Alkoholsteuer, die sich durch die Einführung der Alkopopsteuer ergeben, ist von einer jährlichen Verbrauchsmenge von Alkopops vor Einführung der Alkopopsteuer von 45 000 Hektoliter reinen Alkohols auszugehen (bisherige Verbrauchsmenge). Die Mindereinnahmen bei der Alkoholsteuer werden aus der Differenz zwischen der Alkoholsteuer für die bisherige Verbrauchsmenge und der Alkoholsteuer für die im abgelaufenen Haushaltsjahr versteuerte Alkoholmenge von Alkopops ermittelt. Dabei ist der im abgelaufenen Haushaltsjahr geltende Alkoholsteuersatz nach § 2 Absatz 1 des Alkoholsteuergesetzes zugrunde zu legen.
 
 ### § 2 — Verrechnung der Differenz zwischen Soll- und Ist-Netto-Mehraufkommen
 sowie zwischen Soll- und Ist-Ausgaben für Suchtpräventionsmaßnahmen

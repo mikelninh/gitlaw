@@ -18,45 +18,45 @@ Der Gebührengläubiger erhebt für individuell zurechenbare öffentliche Leistu
 
 (2) Dieses Gesetz gilt auch für die Erhebung von Gebühren und Auslagen durch die in Absatz 1 genannten Behörden nach anderen Rechtsvorschriften des Bundes, soweit dort nichts anderes bestimmt ist. Es gilt jedoch nicht für individuell zurechenbare öffentliche Leistungen
 
-1.
+1. in Verfahren nach der Abgabenordnung,
 
-2.
+2. in Verfahren nach dem Sozialgesetzbuch und der Postbeamtenkrankenkasse,
 
-3.
+3. der Bundesbehörden der Justiz- und Gerichtsverwaltung sowie des Deutschen Patent- und Markenamtes, des Bundeskartellamtes und der Bundesnetzagentur, soweit sie als Regulierungsbehörde im Sinne des Energiewirtschaftsgesetzes auftritt,
 
-4.
+4. der Stiftung Preußischer Kulturbesitz, der Akademie der Künste, der Deutschen Nationalbibliothek, der Stiftung zur Aufarbeitung der SED-Diktatur, der Stiftung Jüdisches Museum Berlin, der Stiftung Reichspräsident-Friedrich-Ebert-Gedenkstätte, der Stiftung Bundespräsident-Theodor-Heuss-Haus, der Stiftung Bundeskanzler-Adenauer-Haus, der Bundeskanzler-Helmut-Schmidt-Stiftung, der Otto-von-Bismarck-Stiftung, der Bundeskanzler-Willy-Brandt-Stiftung, der Bundeskanzler-Helmut-Kohl-Stiftung, der Stiftung „Haus der Geschichte der Bundesrepublik Deutschland“, der Stiftung Denkmal für die ermordeten Juden Europas, der Stiftung „Deutsches Historisches Museum“, der Stiftung Orte der deutschen Demokratiegeschichte, des Bundesinstituts für Kultur und Geschichte der Deutschen im östlichen Europa, der Filmförderungsanstalt und der Museumsstiftung Post und Telekommunikation,
 
-5.
+5. des Deutschen Weinfonds und in Verfahren nach der Verordnung über den Klärschlamm-Entschädigungsfonds,
 
-6.
+6. nach der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung, der Bundesnotarordnung, der Wirtschaftsprüferordnung, dem Gesetz zur Einrichtung einer Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle und dem Steuerberatungsgesetz,
 
-7.
+7. nach dem Bundesfernstraßengesetz, dem Fernstraßenbauprivatfinanzierungsgesetz, dem Bundesfernstraßenmautgesetz und dem Mautsystemgesetz sowie
 
-8.
+8. der Ermöglichung des Befahrens von Bundeswasserstraßen mit Wasserfahrzeugen.
 
 (3) Dieses Gesetz findet keine Anwendung, soweit das Recht der Europäischen Union die Erhebung von Gebühren oder Auslagen für bestimmte Leistungen ausschließt.
 
 ### § 3 — Begriffsbestimmungen
 
-(1) Individuell zurechenbare öffentliche Leistungen sind soweit ihnen Außenwirkung zukommt.
+(1) Individuell zurechenbare öffentliche Leistungen sind
 
-1.
+1. in Ausübung hoheitlicher Befugnisse erbrachte Handlungen,
 
-2.
+2. die Ermöglichung der Inanspruchnahme von vom Bund oder von bundesunmittelbaren Körperschaften, Anstalten und Stiftungen unterhaltenen Einrichtungen und Anlagen, soweit die Ermöglichung der Inanspruchnahme öffentlich-rechtlich geregelt ist,
 
-3.
+3. Überwachungsmaßnahmen, Prüfungen und Untersuchungen sowie
 
-4.
+4. sonstige Handlungen, die im Rahmen einer öffentlich-rechtlichen Verwaltungstätigkeit erbracht werden,
 
 (2) Individuell zurechenbar ist eine Leistung,
 
-1.
+1. die beantragt oder sonst willentlich in Anspruch genommen wird,
 
-2.
+2. die zugunsten des von der Leistung Betroffenen erbracht wird,
 
-3.
+3. die durch den von der Leistung Betroffenen veranlasst wurde oder
 
-4.
+4. bei der ein Anknüpfungspunkt im Pflichtenkreis des von der Leistung Betroffenen rechtlich begründet ist; für Stichprobenkontrollen gilt dies nur, soweit diese nach anderen Gesetzen des Bundes oder Rechtsakten der Europäischen Union besonders angeordnet sind und von dem Gegenstand der Kontrolle eine erhebliche Gefahr ausgeht.
 
 (3) Kosten im Sinne dieses Gesetzes sind solche, die nach betriebswirtschaftlichen Grundsätzen als Einzel- und Gemeinkosten ansatzfähig sind, insbesondere Personal- und Sachkosten sowie kalkulatorische Kosten. Zu den Gemeinkosten zählen auch die Kosten der Rechts- und Fachaufsicht.
 
@@ -72,27 +72,27 @@ Der Gebührengläubiger erhebt für individuell zurechenbare öffentliche Leistu
 
 (2) Abweichend von Absatz 1 entsteht die Gebührenschuld,
 
-1.
+1. wenn ein Antrag oder ein Widerspruch zurückgenommen wird oder sich auf sonstige Weise erledigt, mit der Zurücknahme oder der sonstigen Erledigung und
 
-2.
+2. wenn eine individuell zurechenbare öffentliche Leistung aus Gründen, die der Betroffene zu vertreten hat, nicht zum festgesetzten Termin erbracht werden kann oder abgebrochen werden muss, im Zeitpunkt des für die Erbringung der Leistung festgesetzten Termins oder des Abbruchs der Leistung.
 
 ### § 5 — Gebührengläubiger
 
 Gebührengläubiger ist
 
-1.
+1. der Rechtsträger der Behörde, die die individuell zurechenbare öffentliche Leistung erbringt, oder
 
-2.
+2. der Beliehene, wenn die individuell zurechenbare öffentliche Leistung von diesem erbracht wird.
 
 ### § 6 — Gebührenschuldner
 
 (1) Zur Zahlung von Gebühren ist derjenige verpflichtet,
 
-1.
+1. dem die öffentliche Leistung individuell zurechenbar ist,
 
-2.
+2. der die Gebührenschuld eines anderen durch eine gegenüber der Behörde abgegebene oder ihr mitgeteilte Erklärung übernommen hat oder
 
-3.
+3. der für die Gebührenschuld eines anderen kraft Gesetzes haftet.
 
 (2) Mehrere Gebührenschuldner haften als Gesamtschuldner.
 
@@ -100,27 +100,27 @@ Gebührengläubiger ist
 
 Gebühren werden nicht erhoben
 
-1.
+1. für mündliche, einfache schriftliche oder elektronische Auskünfte,
 
-2.
+2. für einfache Auskünfte aus Registern und Dateien,
 
-3.
+3. für einfache elektronische Kopien,
 
-4.
+4. in Gnadensachen,
 
-5.
+5. bei Dienstaufsichtsbeschwerden,
 
-6.
+6. für Maßnahmen der Rechts- und Fachaufsicht gegenüber bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts,
 
-7.
+7. im Rahmen eines bestehenden oder früheren Dienst- oder Amtsverhältnisses,
 
-8.
+8. im Rahmen einer bestehenden oder früheren gesetzlichen Dienstpflicht oder einer Tätigkeit, die anstelle der gesetzlichen Dienstpflicht geleistet werden kann,
 
-9.
+9. für Entscheidungen im Rahmen der Bewilligung von Geldleistungen sowie für in diesem Zusammenhang erforderliche Abwicklungsmaßnahmen und Durchführungskontrollen,
 
-10.
+10. für Entscheidungen über Stundung, Erlass oder Erstattung von Gebühren,
 
-11.
+11. für Sachen im Gemeingebrauch, soweit in Gesetzen des Bundes nichts anderes bestimmt ist.
 
 ### § 8 — Persönliche Gebührenfreiheit
 
@@ -132,29 +132,29 @@ Gebühren werden nicht erhoben
 
 (4) Abweichend von Absatz 1 oder 2 bleibt die Gebührenpflicht bestehen, wenn die individuell zurechenbare öffentliche Leistung durch folgende Behörden erbracht wird:
 
-1.
+1. Bundesanstalt für Geowissenschaften und Rohstoffe,
 
-2.
+2. Physikalisch-Technische Bundesanstalt,
 
-3.
+3. Bundesanstalt für Materialforschung und -prüfung,
 
-4.
+4. Bundessortenamt,
 
-5.
+5. Bundesamt für Seeschifffahrt und Hydrographie,
 
-6.
+6. Berufsgenossenschaft für Transport und Verkehrswirtschaft,
 
-7.
+7. Bundesamt für Strahlenschutz,
 
-8.
+8. Akkreditierungsstelle,
 
-9.
+9. die in § 31b Absatz 1 des Luftverkehrsgesetzes genannte Flugsicherungsorganisation sowie das Bundesaufsichtsamt für Flugsicherung im Aufgabenbereich der Flugsicherung,
 
-10.
+10. Paul-Ehrlich-Institut, mit Ausnahme von individuell zurechenbaren öffentlichen Leistungen, die für die Länder, Gemeinden oder Gemeindeverbände erbracht werden,
 
-11.
+11. Bundesinstitut für Arzneimittel und Medizinprodukte, mit Ausnahme von individuell zurechenbaren öffentlichen Leistungen, die für die Länder, Gemeinden oder Gemeindeverbände erbracht werden,
 
-12.
+12. Bundesarchiv für die Nutzung von Archivgut im Sinne der Bundesarchiv-Benutzungsverordnung.
 
 ### § 9 — Grundlagen der Gebührenbemessung
 
@@ -170,21 +170,19 @@ Gebühren werden nicht erhoben
 
 (6) Unterliegt die individuell zurechenbare öffentliche Leistung der Umsatzsteuer, kann diese der Gebühr hinzugerechnet werden.
 
-> (+++ § 9 Abs. 1 bis 3: Zur Anwendung vgl. § 13 Abs. 2 +++) (+++ § 9 Abs. 3: Zur Anwendung vgl. § 59 Abs. 2 Satz 5 MessEG +++)
-
 ### § 10 — Gebühren in besonderen Fällen
 
-(1) Die Gebühren sind nach Maßgabe der Absätze 2 bis 7 festzusetzen, wenn Bemessungsgrundlage sind die Kosten nach § 9 Absatz 1. Aus Gründen des öffentlichen Interesses oder der Billigkeit kann eine niedrigere Gebühr oder eine Gebührenbefreiung bestimmt werden.
+(1) Die Gebühren sind nach Maßgabe der Absätze 2 bis 7 festzusetzen, wenn
 
-1.
+1. ein Antrag abgelehnt oder ein Widerspruch zurückgewiesen wird,
 
-2.
+2. ein Verwaltungsakt zurückgenommen oder widerrufen wird,
 
-3.
+3. ein Antrag oder ein Widerspruch zurückgenommen wird oder sich auf sonstige Weise erledigt,
 
-4.
+4. eine individuell zurechenbare öffentliche Leistung aus Gründen, die der Betroffene zu vertreten hat, nicht zum festgesetzten Termin erbracht werden kann oder aus diesen Gründen abgebrochen werden muss und
 
-5.
+5. ein Verwaltungsakt nach Ablauf einer bestimmten Frist auf Grund einer Rechtsvorschrift als erlassen gilt.
 
 (2) Wird ein Antrag ganz oder teilweise abgelehnt, ist eine Gebühr bis zu der Höhe zu erheben, die für die beantragte individuell zurechenbare öffentliche Leistung vorgesehen ist. Wird der Antrag allein wegen Unzuständigkeit der Behörde abgelehnt, wird keine Gebühr erhoben.
 
@@ -202,37 +200,37 @@ Gebühren werden nicht erhoben
 
 Die Gebühren sind wie folgt zu bestimmen:
 
-1.
+1. durch feste Sätze (Festgebühren),
 
-2.
+2. nach dem Zeitaufwand für die individuell zurechenbare öffentliche Leistung (Zeitgebühren) oder
 
-3.
+3. durch Rahmensätze (Rahmengebühren).
 
 > (+++ § 11 Nr. 3: Zur Anwendung vgl. § 13 Abs. 2 +++)
 
 ### § 12 — Auslagen
 
-(1) Kosten, die nicht bereits nach § 9 Absatz 1 Satz 2 in die Gebühr einbezogen sind, werden als Auslagen gesondert in der tatsächlich entstandenen Höhe erhoben für Auslagen sind auch dann zu erheben, wenn die individuell zurechenbare öffentliche Leistung nach den §§ 7, 8, 9 Absatz 4 oder 5, § 10 Absatz 2 bis 6 gebührenfrei oder die Gebühr ermäßigt ist.
+(1) Kosten, die nicht bereits nach § 9 Absatz 1 Satz 2 in die Gebühr einbezogen sind, werden als Auslagen gesondert in der tatsächlich entstandenen Höhe erhoben für
 
-1.
+1. Zeugen, Sachverständige, Umweltgutachter, Dolmetscher oder Übersetzer,
 
-2.
+2. Leistungen anderer Behörden und Dritter,
 
-3.
+3. Dienstreisen und Dienstgänge,
 
-4.
+4. Zustellung oder öffentliche Bekanntmachung und
 
-5.
+5. Ausfertigungen und Papierkopien, die auf besonderen Antrag erstellt werden.
 
 (2) Abweichend von Absatz 1 kann bestimmt werden, dass
 
-1.
+1. bestimmte Auslagen nach Absatz 1 Satz 1 nicht gesondert erhoben werden,
 
-2.
+2. auch andere als die in Absatz 1 Satz 1 bezeichneten Auslagen gesondert erhoben werden; dies gilt nicht für einfache elektronische Kopien,
 
-3.
+3. Auslagen pauschal oder bis zu einem Höchstbetrag erhoben werden und
 
-4.
+4. Auslagen nicht oder nicht in voller Höhe erhoben werden, wenn die individuell zurechenbare öffentliche Leistung gebührenfrei oder die Gebühr ermäßigt ist.
 
 (3) Für Auslagen gelten die §§ 4 bis 6, 9 Absatz 4 bis 6, § 10 Absatz 3 sowie die §§ 13 und 14 sowie die §§ 16 bis 21 entsprechend.
 
@@ -246,9 +244,9 @@ Die Gebühren sind wie folgt zu bestimmen:
 
 (3) Die Festsetzung sowie ihre Aufhebung oder Änderung ist nicht mehr zulässig, wenn die Festsetzungsfrist abgelaufen ist. Die Festsetzungsfrist beträgt vier Jahre. Sie beginnt mit Ablauf des Kalenderjahres, in dem der Gebührenanspruch entstanden ist. Die Festsetzungsfrist läuft nicht ab, solange
 
-1.
+1. über einen vor Ablauf der Frist gestellten Antrag auf Aufhebung oder Änderung der Festsetzung oder einen eingelegten Rechtsbehelf nicht unanfechtbar entschieden worden ist oder
 
-2.
+2. der Anspruch wegen höherer Gewalt innerhalb der letzten sechs Monate der Festsetzungsfrist nicht verfolgt werden kann.
 
 ### § 14 — Fälligkeit
 
@@ -268,11 +266,11 @@ Die Gebühr wird zehn Tage nach der Bekanntgabe der Gebührenfestsetzung an den 
 
 (3) Eine wirksam geleistete Gebühr gilt als entrichtet
 
-1.
+1. bei Übergabe oder Übersendung von Zahlungsmitteln am Tag des Eingangs bei der für den Gebührengläubiger zuständigen Kasse (Bundeskasse oder Zahlstelle); bei Hingabe oder Übersendung von Schecks jedoch drei Tage nach dem Tag des Eingangs des Schecks bei der zuständigen Kasse,
 
-2.
+2. bei Überweisung oder Einzahlung auf ein Konto der zuständigen Kasse und bei Einzahlung mit Zahlschein oder Postanweisung an dem Tag, an dem der Betrag der Kasse gutgeschrieben wird, oder
 
-3.
+3. bei Vorliegen einer Einzugsermächtigung am Fälligkeitstag.
 
 (4) In den Fällen der Gesamtschuld entstehen Säumniszuschläge gegenüber jedem säumigen Gesamtschuldner. Insgesamt ist jedoch kein höherer Säumniszuschlag zu entrichten, als verwirkt worden wäre, wenn die Säumnis nur bei einem Gesamtschuldner eingetreten wäre.
 
@@ -290,41 +288,41 @@ Stundung, Niederschlagung und Erlass von festgesetzten Gebühren richten sich na
 
 (1) Die Verjährung nach § 18 wird unterbrochen durch
 
-1.
+1. schriftliche Geltendmachung des Anspruchs,
 
-2.
+2. Zahlungsaufschub,
 
-3.
+3. Stundung,
 
-4.
+4. Aussetzung der Vollziehung,
 
-5.
+5. Sicherheitsleistung,
 
-6.
+6. Vollstreckungsaufschub,
 
-7.
+7. eine Vollstreckungsmaßnahme,
 
-8.
+8. Anmeldung im Insolvenzverfahren,
 
-9.
+9. Aufnahme in einen Insolvenzplan oder einen gerichtlichen Schuldenbereinigungsplan,
 
-10.
+10. Einbeziehung in ein Verfahren, das die Restschuldbefreiung für den Schuldner zum Ziel hat, oder
 
-11.
+11. Ermittlungen des Gläubigers nach dem Wohnsitz oder dem Aufenthaltsort des Gebührenschuldners.
 
 (2) Die Unterbrechung der Verjährung durch eine der in Absatz 1 genannten Maßnahmen dauert fort bis
 
-1.
+1. die Stundung, die Aussetzung der Vollziehung oder der Vollstreckungsaufschub beendet ist,
 
-2.
+2. bei Sicherheitsleistung, Pfändungspfandrecht, Zwangshypothek oder einem sonstigen Vorzugsrecht auf Befriedigung das entsprechende Recht erloschen ist,
 
-3.
+3. das Insolvenzverfahren beendet ist,
 
-4.
+4. der Insolvenzplan oder der gerichtliche Schuldenbereinigungsplan erfüllt ist oder hinfällig wird,
 
-5.
+5. die Restschuldbefreiung erteilt oder versagt wird oder das Verfahren, das die Restschuldbefreiung zum Ziel hat, vorzeitig beendet wird oder
 
-6.
+6. die Ermittlung der Behörde nach dem Wohnsitz oder dem Aufenthalt des Gebührenschuldners beendet ist.
 
 (3) Mit Ablauf des Kalenderjahres, in dem die Unterbrechung endet, beginnt eine neue Verjährungsfrist.
 
@@ -350,11 +348,11 @@ Stundung, Niederschlagung und Erlass von festgesetzten Gebühren richten sich na
 
 (3) Die Bundesregierung erlässt ohne Zustimmung des Bundesrates durch Allgemeine Gebührenverordnung folgende Bestimmungen, soweit sie für den Bereich der Bundesverwaltung einheitlich gelten sollen:
 
-1.
+1. Vorgaben zur Ermittlung der Gebühr nach § 9 Absatz 1 einschließlich der Bemessung von Zeitgebühren nach § 11 Nummer 2,
 
-2.
+2. Gebührenregelungen für Beglaubigungen und Bescheinigungen sowie
 
-3.
+3. Pauschalierung von Auslagen nach § 12 Absatz 2 Nummer 3.
 
 (4) Die Bundesministerien erlassen ohne Zustimmung des Bundesrates Besondere Gebührenverordnungen für ihren Zuständigkeitsbereich, soweit keine Regelungen durch die Allgemeine Gebührenverordnung nach Absatz 3 getroffen wurden. Regelungen der Besonderen Gebührenverordnungen nach Satz 1 finden keine Anwendung, soweit nach Erlass einer Besonderen Gebührenverordnung inhaltsgleiche oder entgegenstehende Bestimmungen durch die Allgemeine Gebührenverordnung nach Absatz 3 getroffen wurden.
 

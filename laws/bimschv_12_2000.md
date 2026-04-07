@@ -22,31 +22,25 @@
 
 Im Sinne dieser Verordnung sind
 
-1.
+1. Betriebsbereich der unteren Klasse: ein Betriebsbereich, in dem gefährliche Stoffe in Mengen vorhanden sind, die die in Spalte 4 der Stoffliste in Anhang I genannten Mengenschwellen erreichen oder überschreiten, aber die in Spalte 5 der Stoffliste in Anhang I genannten Mengenschwellen unterschreiten;
 
-2.
+2. Betriebsbereich der oberen Klasse: ein Betriebsbereich, in dem gefährliche Stoffe in Mengen vorhanden sind, die die in Spalte 5 der Stoffliste in Anhang I genannten Mengenschwellen erreichen oder überschreiten;
 
-3.
+3. benachbarter Betriebsbereich: ein Betriebsbereich, der sich so nah bei einem anderen Betriebsbereich befindet, dass dadurch das Risiko oder die Folgen eines Störfalls vergrößert werden;
 
-4.
+4. gefährliche Stoffe: Stoffe oder Gemische, die in Anhang I aufgeführt sind oder die dort festgelegten Kriterien erfüllen, einschließlich in Form von Rohstoffen, Endprodukten, Nebenprodukten, Rückständen oder Zwischenprodukten;
 
-5.
+5. Vorhandensein gefährlicher Stoffe: das tatsächliche oder vorgesehene Vorhandensein gefährlicher Stoffe oder ihr Vorhandensein im Betriebsbereich, soweit vernünftigerweise vorhersehbar ist, dass sie bei außer Kontrolle geratenen Prozessen, auch bei Lagerung in einer Anlage innerhalb des Betriebsbereichs, anfallen, und zwar in Mengen, die die in Anhang I genannten Mengenschwellen erreichen oder überschreiten;
 
-6.
+6. Ereignis: Störung des bestimmungsgemäßen Betriebs in einem Betriebsbereich unter Beteiligung eines oder mehrerer gefährlicher Stoffe;
 
-7.
+7. Störfall: ein Ereignis, das unmittelbar oder später innerhalb oder außerhalb des Betriebsbereichs zu einer ernsten Gefahr oder zu Sachschäden nach Anhang VI Teil 1 Ziffer I Nummer 4 führt;
 
-8.
+8. ernste Gefahr: eine Gefahr, bei der a)das Leben von Menschen bedroht wird oder schwerwiegende Gesundheitsbeeinträchtigungen von Menschen zu befürchten sind,b)die Gesundheit einer großen Zahl von Menschen beeinträchtigt werden kann oderc)die Umwelt, insbesondere Tiere und Pflanzen, der Boden, das Wasser, die Atmosphäre sowie Kultur- oder sonstige Sachgüter geschädigt werden können, falls durch eine Veränderung ihres Bestandes oder ihrer Nutzbarkeit das Gemeinwohl beeinträchtigt würde; das Leben von Menschen bedroht wird oder schwerwiegende Gesundheitsbeeinträchtigungen von Menschen zu befürchten sind, die Gesundheit einer großen Zahl von Menschen beeinträchtigt werden kann oder die Umwelt, insbesondere Tiere und Pflanzen, der Boden, das Wasser, die Atmosphäre sowie Kultur- oder sonstige Sachgüter geschädigt werden können, falls durch eine Veränderung ihres Bestandes oder ihrer Nutzbarkeit das Gemeinwohl beeinträchtigt würde;
 
-a)
+9. Überwachungssystem: umfasst den Überwachungsplan, das Überwachungsprogramm und die Vor-Ort-Besichtigung sowie alle Maßnahmen, die von der zuständigen Behörde oder in ihrem Namen durchgeführt werden, um die Einhaltung der Bestimmungen dieser Verordnung durch die Betriebsbereiche zu überprüfen und zu fördern;
 
-b)
-
-c)
-
-9.
-
-10.
+10. Stand der Sicherheitstechnik: der Entwicklungsstand fortschrittlicher Verfahren, Einrichtungen und Betriebsweisen, der die praktische Eignung einer Maßnahme zur Verhinderung von Störfällen oder zur Begrenzung ihrer Auswirkungen gesichert erscheinen lässt. Bei der Bestimmung des Standes der Sicherheitstechnik sind insbesondere vergleichbare Verfahren, Einrichtungen oder Betriebsweisen heranzuziehen, die mit Erfolg im Betrieb erprobt worden sind.
 
 ## Erster Abschnitt: Grundpflichten
 
@@ -54,13 +48,13 @@ c)
 
 (1) Der Betreiber hat die nach Art und Ausmaß der möglichen Gefahren erforderlichen Vorkehrungen zu treffen, um Störfälle zu verhindern; Verpflichtungen nach anderen als immissionsschutzrechtlichen Vorschriften bleiben unberührt.
 
-(2) Bei der Erfüllung der Pflicht nach Absatz 1 sind zu berücksichtigen, es sei denn, dass diese Gefahrenquellen oder Eingriffe als Störfallursachen vernünftigerweise ausgeschlossen werden können.
+(2) Bei der Erfüllung der Pflicht nach Absatz 1 sind
 
-1.
+1. betriebliche Gefahrenquellen,
 
-2.
+2. umgebungsbedingte Gefahrenquellen, wie Erdbeben oder Hochwasser, und
 
-3.
+3. Eingriffe Unbefugter
 
 (3) Über Absatz 1 hinaus sind vorbeugend Maßnahmen zu treffen, um die Auswirkungen von Störfällen so gering wie möglich zu halten.
 
@@ -72,29 +66,23 @@ c)
 
 Der Betreiber hat zur Erfüllung der sich aus § 3 Absatz 1 ergebenden Pflicht insbesondere
 
-1.
+1. Maßnahmen zu treffen, damit Brände und Explosionen a)innerhalb des Betriebsbereichs vermieden werden,b)nicht in einer die Sicherheit beeinträchtigenden Weise von einer Anlage auf andere Anlagen des Betriebsbereichs einwirken können undc)nicht in einer die Sicherheit des Betriebsbereichs beeinträchtigenden Weise von außen auf ihn einwirken können, innerhalb des Betriebsbereichs vermieden werden, nicht in einer die Sicherheit beeinträchtigenden Weise von einer Anlage auf andere Anlagen des Betriebsbereichs einwirken können und nicht in einer die Sicherheit des Betriebsbereichs beeinträchtigenden Weise von außen auf ihn einwirken können,
 
-a)
+1a. Maßnahmen zu treffen, damit Freisetzungen gefährlicher Stoffe in Luft, Wasser oder Boden vermieden werden,
 
-b)
+2. den Betriebsbereich mit ausreichenden Warn-, Alarm- und Sicherheitseinrichtungen auszurüsten,
 
-c)
+3. die Anlagen des Betriebsbereichs mit zuverlässigen Messeinrichtungen und Steuer- oder Regeleinrichtungen auszustatten, die, soweit dies sicherheitstechnisch geboten ist, jeweils mehrfach vorhanden, verschiedenartig und voneinander unabhängig sind,
 
-1a.
-
-2.
-
-3.
-
-4.
+4. die sicherheitsrelevanten Teile des Betriebsbereichs vor Eingriffen Unbefugter zu schützen.
 
 ### § 5 — Anforderungen zur Begrenzung von Störfallauswirkungen
 
 (1) Der Betreiber hat zur Erfüllung der sich aus § 3 Absatz 3 ergebenden Pflicht insbesondere
 
-1.
+1. Maßnahmen zu treffen, damit durch die Beschaffenheit der Fundamente und der tragenden Gebäudeteile bei Störfällen keine zusätzlichen Gefahren hervorgerufen werden können,
 
-2.
+2. die Anlagen des Betriebsbereichs mit den erforderlichen sicherheitstechnischen Einrichtungen auszurüsten sowie die erforderlichen technischen und organisatorischen Schutzvorkehrungen zu treffen.
 
 (2) Der Betreiber hat dafür zu sorgen, dass in einem Störfall die für die Gefahrenabwehr zuständigen Behörden und die Einsatzkräfte unverzüglich, umfassend und sachkundig beraten werden.
 
@@ -102,61 +90,55 @@ c)
 
 (1) Der Betreiber hat zur Erfüllung der sich aus § 3 Absatz 1 oder 3 ergebenden Pflichten über die in den §§ 4 und 5 genannten Anforderungen hinaus
 
-1.
+1. die Errichtung und den Betrieb der sicherheitsrelevanten Anlagenteile zu prüfen sowie die Anlagen des Betriebsbereichs in sicherheitstechnischer Hinsicht ständig zu überwachen und regelmäßig zu warten,
 
-2.
+2. die Wartungs- und Reparaturarbeiten nach dem Stand der Technik durchzuführen,
 
-3.
+3. die erforderlichen sicherheitstechnischen Vorkehrungen zur Vermeidung von Fehlbedienungen zu treffen,
 
-4.
+4. durch geeignete Bedienungs- und Sicherheitsanweisungen und durch Schulung des Personals Fehlverhalten vorzubeugen.
 
 (2) Die Betreiber der nach § 15 festgelegten Betriebsbereiche haben im Benehmen mit den zuständigen Behörden
 
-1.
+1. untereinander alle erforderlichen Informationen auszutauschen, damit sie in ihrem Konzept zur Verhinderung von Störfällen, in ihren Sicherheitsmanagementsystemen, in ihren Sicherheitsberichten und ihren internen Alarm- und Gefahrenabwehrplänen der Art und dem Ausmaß der Gesamtgefahr eines Störfalls Rechnung tragen können, und
 
-2.
+2. zur Information der Öffentlichkeit und benachbarter Betriebsstätten, die nicht unter den Anwendungsbereich dieser Verordnung fallen, sowie zur Übermittlung von Angaben an die für die Erstellung von externen Alarm- und Gefahrenabwehrplänen zuständige Behörde zusammenzuarbeiten.
 
 (3) Der Betreiber hat der zuständigen Behörde auf Verlangen genügend Informationen zu liefern, die notwendig sind, damit die Behörde
 
-1.
+1. die Möglichkeit des Eintritts eines Störfalls in voller Sachkenntnis beurteilen kann,
 
-2.
+2. ermitteln kann, inwieweit sich die Wahrscheinlichkeit des Eintritts eines Störfalls erhöhen kann oder die Auswirkungen eines Störfalls verschlimmern können,
 
-3.
+3. Entscheidungen über die Ansiedlung oder die störfallrelevante Änderung von Betriebsbereichen sowie über Entwicklungen in der Nachbarschaft von Betriebsbereichen treffen kann,
 
-4.
+4. externe Alarm- und Gefahrenabwehrpläne erstellen kann und
 
-5.
+5. Stoffe berücksichtigen kann, die auf Grund ihrer physikalischen Form, ihrer besonderen Merkmale oder des Ortes, an dem sie vorhanden sind, zusätzliche Vorkehrungen erfordern.
 
 ### § 7 — Anzeige
 
 (1) Der Betreiber hat der zuständigen Behörde mindestens einen Monat vor Beginn der Errichtung eines Betriebsbereichs, oder vor einer störfallrelevanten Änderung nach § 3 Absatz 5b des Bundes-Immissionsschutzgesetzes, Folgendes schriftlich anzuzeigen:
 
-1.
+1. Name oder Firma des Betreibers sowie vollständige Anschrift des betreffenden Betriebsbereichs,
 
-2.
+2. eingetragener Firmensitz und vollständige Anschrift des Betreibers,
 
-3.
+3. Name und Funktion der für den Betriebsbereich verantwortlichen Person, falls von der unter Nummer 1 genannten Person abweichend,
 
-4.
+4. ausreichende Angaben zur Identifizierung der gefährlichen Stoffe und der Gefahrenkategorie von Stoffen, die gemäß § 2 Nummer 5 vorhanden sind,
 
-5.
+5. Menge und physikalische Form der gefährlichen Stoffe,
 
-6.
+6. Tätigkeit oder beabsichtigte Tätigkeit in den Anlagen des Betriebsbereichs,
 
-7.
-
-a)
-
-b)
-
-c)
+7. Gegebenheiten in der unmittelbaren Umgebung des Betriebsbereichs, die einen Störfall auslösen oder dessen Folgen verschlimmern können, einschließlich, soweit verfügbar, Einzelheiten zu a)benachbarten Betriebsbereichen,b)anderen Betriebsstätten, die nicht unter den Anwendungsbereich dieser Verordnung fallen, undc)Bereichen und Entwicklungen, von denen ein Störfall ausgehen könnte oder bei denen sich die Wahrscheinlichkeit des Eintritts eines Störfalls erhöhen kann oder die Auswirkungen eines Störfalls und von Domino-Effekten nach § 15 verschlimmern können. benachbarten Betriebsbereichen, anderen Betriebsstätten, die nicht unter den Anwendungsbereich dieser Verordnung fallen, und Bereichen und Entwicklungen, von denen ein Störfall ausgehen könnte oder bei denen sich die Wahrscheinlichkeit des Eintritts eines Störfalls erhöhen kann oder die Auswirkungen eines Störfalls und von Domino-Effekten nach § 15 verschlimmern können.
 
 (2) Der Betreiber hat der zuständigen Behörde folgende Änderungen mindestens einen Monat vorher schriftlich anzuzeigen:
 
-1.
+1. Änderungen der Angaben nach Absatz 1 Nummer 1 bis 3 und
 
-2.
+2. die Einstellung des Betriebs, des Betriebsbereichs oder einer Anlage des Betriebsbereichs.
 
 (3) Der Betreiber hat der zuständigen Behörde störfallrelevante Änderungen nach § 3 Absatz 5b des Bundes-Immissionsschutzgesetzes schriftlich anzuzeigen.
 
@@ -172,11 +154,11 @@ c)
 
 (4) Der Betreiber hat das Konzept, das Sicherheitsmanagementsystem nach Anhang III sowie die Verfahren zu dessen Umsetzung zu überprüfen und soweit erforderlich zu aktualisieren, und zwar
 
-1.
+1. mindestens alle fünf Jahre nach erstmaliger Erstellung oder Änderung,
 
-2.
+2. vor einer Änderung nach § 7 Absatz 3 und
 
-3.
+3. unverzüglich nach einem Ereignis nach Anhang VI Teil 1.
 
 ### § 8a — Information der Öffentlichkeit
 
@@ -190,15 +172,15 @@ c)
 
 (1) Der Betreiber eines Betriebsbereichs der oberen Klasse hat einen Sicherheitsbericht nach Absatz 2 zu erstellen, in dem dargelegt wird, dass
 
-1.
+1. ein Konzept zur Verhinderung von Störfällen umgesetzt wurde und ein Sicherheitsmanagementsystem zu seiner Anwendung gemäß Anhang III vorhanden ist und umgesetzt wurde,
 
-2.
+2. die Gefahren von Störfällen und mögliche Störfallszenarien ermittelt sowie alle erforderlichen Maßnahmen zur Verhinderung derartiger Störfälle und zur Begrenzung ihrer Auswirkungen auf die menschliche Gesundheit und die Umwelt ergriffen wurden,
 
-3.
+3. die Auslegung, die Errichtung sowie der Betrieb und die Wartung sämtlicher Teile eines Betriebsbereichs, die im Zusammenhang mit der Gefahr von Störfällen im Betriebsbereich stehen, ausreichend sicher und zuverlässig sind,
 
-4.
+4. interne Alarm- und Gefahrenabwehrpläne vorliegen und die erforderlichen Informationen zur Erstellung externer Alarm- und Gefahrenabwehrpläne gegeben werden sowie
 
-5.
+5. ausreichende Informationen bereitgestellt werden, damit die zuständige Behörde Entscheidungen über die Ansiedlung neuer Tätigkeiten oder Entwicklungen in der Nachbarschaft bestehender Betriebsbereiche treffen kann.
 
 (2) Der Sicherheitsbericht enthält mindestens die in Anhang II aufgeführten Angaben und Informationen. Er führt die Namen der an der Erstellung des Berichts maßgeblich Beteiligten auf. Er enthält ferner ein Verzeichnis der in dem Betriebsbereich vorhandenen gefährlichen Stoffe auf der Grundlage der Bezeichnungen und Einstufungen in Spalte 2 der Stoffliste des Anhangs I.
 
@@ -206,25 +188,25 @@ c)
 
 (4) Der Betreiber hat der zuständigen Behörde den Sicherheitsbericht nach den Absätzen 1 und 2 unbeschadet des § 4b Absatz 2 Satz 1 der Verordnung über das Genehmigungsverfahren innerhalb einer angemessenen, von der zuständigen Behörde gesetzten Frist vor Inbetriebnahme vorzulegen.
 
-(5) Der Betreiber hat den Sicherheitsbericht zu überprüfen und soweit erforderlich zu aktualisieren, und zwar: Soweit sich bei der Überprüfung nach Satz 1 herausstellt, dass sich erhebliche Auswirkungen hinsichtlich der mit einem Störfall verbundenen Gefahren ergeben könnten, hat der Betreiber den Sicherheitsbericht unverzüglich zu aktualisieren. Er hat der zuständigen Behörde die aktualisierten Teile des Sicherheitsberichts in Fällen der Nummern 1, 3 und 4 unverzüglich und in Fällen der Nummer 2 mindestens einen Monat vor Durchführung der Änderung vorzulegen.
+(5) Der Betreiber hat den Sicherheitsbericht zu überprüfen und soweit erforderlich zu aktualisieren, und zwar:
 
-1.
+1. mindestens alle fünf Jahre,
 
-2.
+2. bei einer störfallrelevanten Änderung nach § 3 Absatz 5b des Bundes-Immissionsschutzgesetzes,
 
-3.
+3. nach einem Ereignis nach Anhang VI Teil 1 und
 
-4.
+4. zu jedem anderen Zeitpunkt, wenn neue Umstände dies erfordern, oder um den neuen sicherheitstechnischen Kenntnisstand sowie aktuelle Erkenntnisse zur Beurteilung der Gefahren zu berücksichtigen.
 
 (6) (weggefallen)
 
 ### § 10 — Alarm- und Gefahrenabwehrpläne
 
-(1) Der Betreiber eines Betriebsbereichs der oberen Klasse hat nach Maßgabe des Satzes 2 Die Pflichten nach Satz 1 sind mindestens einen Monat vor Inbetriebnahme eines Betriebsbereichs oder vor Änderungen der Anlage oder der Tätigkeiten, auf Grund derer der Betriebsbereich unter den Anwendungsbereich dieser Verordnung fällt oder auf Grund derer ein Betriebsbereich der unteren Klasse zu einem Betriebsbereich der oberen Klasse wird, zu erfüllen.
+(1) Der Betreiber eines Betriebsbereichs der oberen Klasse hat nach Maßgabe des Satzes 2
 
-1.
+1. interne Alarm- und Gefahrenabwehrpläne zu erstellen, die die in Anhang IV aufgeführten Informationen enthalten müssen, und
 
-2.
+2. der zuständigen Behörde die für die Erstellung externer Alarm- und Gefahrenabwehrpläne erforderlichen Informationen zu übermitteln.
 
 (2) Wenn das Hoheitsgebiet eines anderen Staates von den Auswirkungen eines Störfalls betroffen werden kann, hat der Betreiber der zuständigen Behörde nach Absatz 1 Nummer 2 entsprechende Mehrausfertigungen der für die Erstellung externer Alarm- und Gefahrenabwehrpläne erforderlichen Informationen zur Weiterleitung an die zuständige Behörde des anderen Staates zu übermitteln.
 
@@ -240,11 +222,11 @@ c)
 
 (3) Der Betreiber eines Betriebsbereichs hat alle Personen und alle Einrichtungen mit Publikumsverkehr, wie öffentlich genutzte Gebäude und Gebiete, einschließlich Schulen und Krankenhäuser, sowie Betriebsstätten oder benachbarte Betriebsbereiche, die von einem Störfall in diesem Betriebsbereich betroffen sein könnten, vor Inbetriebnahme über die Sicherheitsmaßnahmen und das richtige Verhalten im Fall eines Störfalls in einer auf die speziellen Bedürfnisse der jeweiligen Adressatengruppe abgestimmten Weise zu informieren. Die Informationen enthalten zumindest die in Anhang V Teil 1 und 2 aufgeführten Angaben. Soweit die Informationen zum Schutze der Öffentlichkeit bestimmt sind, sind sie mit den für den Katastrophenschutz und die allgemeine Gefahrenabwehr zuständigen Behörden abzustimmen. Die in diesem Absatz genannten Betreiberpflichten gelten auch gegenüber Personen, der Öffentlichkeit und den zuständigen Behörden in anderen Staaten, deren Hoheitsgebiet von den grenzüberschreitenden Auswirkungen eines Störfalls in dem Betriebsbereich betroffen werden könnte.
 
-(4) Der Betreiber hat die Informationen nach Absatz 3 zu überprüfen, und zwar Soweit sich bei der Überprüfung Änderungen ergeben, die erhebliche Auswirkungen hinsichtlich der mit einem Störfall verbundenen Gefahren haben könnten, hat der Betreiber die Informationen unverzüglich zu aktualisieren und zu wiederholen; Absatz 3 gilt entsprechend. Der Zeitraum, innerhalb dessen die nach Absatz 3 übermittelten Informationen wiederholt werden müssen, darf in keinem Fall fünf Jahre überschreiten.
+(4) Der Betreiber hat die Informationen nach Absatz 3 zu überprüfen, und zwar
 
-1.
+1. mindestens alle drei Jahre und
 
-2.
+2. bei einer störfallrelevanten Änderung nach § 3 Absatz 5b des Bundes-Immissionsschutzgesetzes.
 
 (5) Der Betreiber hat der Öffentlichkeit auf Anfrage den Sicherheitsbericht nach § 9 Absatz 1 und 2 oder Absatz 3 unverzüglich zugänglich zu machen.
 
@@ -254,19 +236,19 @@ c)
 
 (1) Der Betreiber eines Betriebsbereichs der oberen Klasse hat
 
-1.
+1. auf Verlangen der zuständigen Behörde zu einer von ihr benannten, zur Informationsweitergabe geeigneten Stelle der öffentlichen Verwaltung eine jederzeit verfügbare und gegen Missbrauch geschützte Verbindung einzurichten und zu unterhalten sowie
 
-2.
+2. eine Person oder Stelle mit der Begrenzung der Auswirkungen von Störfällen zu beauftragen und diese der zuständigen Behörde zu benennen.
 
-(2) Der Betreiber hat Unterlagen über die nach § 6 Absatz 1 Nummer 1 und 2 erforderliche Durchführung zu erstellen. Die Unterlagen sind bis zur nächsten Vor-Ort-Besichtigung, jedoch mindestens fünf Jahre ab Erstellung zur Einsicht durch die zuständige Behörde aufzubewahren.
+(2) Der Betreiber hat Unterlagen über die nach § 6 Absatz 1 Nummer 1 und 2 erforderliche Durchführung
 
-1.
+1. der Prüfung der Errichtung und des Betriebs der sicherheitsrelevanten Anlagenteile,
 
-2.
+2. der Überwachung und regelmäßigen Wartung der Anlage in sicherheitstechnischer Hinsicht,
 
-3.
+3. der sicherheitsrelevanten Wartungs- und Reparaturarbeiten sowie
 
-4.
+4. der Funktionsprüfungen der Warn-, Alarm- und Sicherheitseinrichtungen
 
 ## Dritter Abschnitt: Behördenpflichten
 
@@ -280,11 +262,11 @@ Vor Inbetriebnahme eines Betriebsbereichs und nach einer Aktualisierung des Sich
 
 (1) Die zuständige Behörde hat gegenüber den Betreibern festzustellen, bei welchen Betriebsbereichen oder Gruppen von Betriebsbereichen auf Grund ihrer geographischen Lage, ihres Abstands zueinander und der in ihren Anlagen vorhandenen gefährlichen Stoffe eine erhöhte Wahrscheinlichkeit von Störfällen bestehen kann oder diese Störfälle folgenschwerer sein können. Hierfür hat die zuständige Behörde insbesondere folgende Angaben zu verwenden:
 
-1.
+1. die Angaben, die der Betreiber in der Anzeige nach § 7 und im Sicherheitsbericht nach § 9 übermittelt hat,
 
-2.
+2. die Angaben, die im Anschluss an ein Ersuchen der zuständigen Behörde um zusätzliche Auskünfte vom Betreiber übermittelt wurden, und
 
-3.
+3. die Informationen, die die zuständige Behörde durch Überwachungsmaßnahmen erlangt hat.
 
 (2) Die zuständige Behörde hat Informationen, über die sie zusätzlich zu den vom Betreiber nach § 7 Absatz 1 Nummer 7 übermittelten Angaben verfügt, dem Betreiber unverzüglich zur Verfügung zu stellen, sofern dies für die Zusammenarbeit der Betreiber gemäß § 6 Absatz 2 erforderlich ist.
 
@@ -292,29 +274,23 @@ Vor Inbetriebnahme eines Betriebsbereichs und nach einer Aktualisierung des Sich
 
 (1) Die zuständige Behörde hat unbeschadet des § 13 ein angemessenes Überwachungssystem einzurichten. Das Überwachungssystem hat eine planmäßige und systematische Prüfung der technischen, organisatorischen und managementspezifischen Systeme der betroffenen Betriebsbereiche zu ermöglichen, mit der sich die zuständige Behörde insbesondere vergewissert,
 
-1.
+1. dass der Betreiber nachweisen kann, dass er im Zusammenhang mit den verschiedenen betriebsspezifischen Tätigkeiten die zur Verhinderung von Störfällen erforderlichen Maßnahmen ergriffen hat,
 
-2.
+2. dass der Betreiber nachweisen kann, dass er angemessene Mittel zur Begrenzung von Störfallauswirkungen innerhalb und außerhalb des Betriebsbereichs vorgesehen hat,
 
-3.
+3. dass die im Sicherheitsbericht oder in anderen vorgelegten Berichten enthaltenen Angaben und Informationen die Gegebenheiten in dem Betriebsbereich zutreffend wiedergeben,
 
-4.
+4. dass die Informationen nach § 8a Absatz 1 und § 11 Absatz 1 der Öffentlichkeit zugänglich gemacht worden sind und dass die Informationen nach § 11 Absatz 3 erfolgt sind.
 
 (2) Das Überwachungssystem gewährleistet, dass:
 
-1.
+1. nach jeder Vor-Ort-Besichtigung von der zuständigen Behörde ein Bericht erstellt wird, welcher die relevanten Feststellungen der Behörde und erforderlichen Folgemaßnahmen enthält,
 
-2.
+2. der Bericht dem Betreiber innerhalb von vier Monaten nach der Vor-Ort-Besichtigung durch die zuständige Behörde übermittelt wird,
 
-3.
+3. baldmöglichst, aber spätestens innerhalb von sechs Monaten, eine Vor-Ort-Besichtigung oder eine sonstige Überwachungsmaßnahme durchgeführt wird, bei a)schwerwiegenden Beschwerden,b)Ereignissen nach Anhang VI Teil 1 undc)bedeutenden Verstößen gegen Vorschriften dieser Verordnung oder anderer für die Anlagensicherheit relevanter Rechtsvorschriften, schwerwiegenden Beschwerden, Ereignissen nach Anhang VI Teil 1 und bedeutenden Verstößen gegen Vorschriften dieser Verordnung oder anderer für die Anlagensicherheit relevanter Rechtsvorschriften,
 
-a)
-
-b)
-
-c)
-
-4.
+4. Vor-Ort-Besichtigungen mit Überwachungsmaßnahmen im Rahmen anderer Rechtsvorschriften wenn möglich koordiniert werden.
 
 (3) Die zuständige Behörde beteiligt sich im Rahmen ihrer Möglichkeiten aktiv an Maßnahmen und Instrumenten zum Erfahrungsaustausch und zur Wissenskonsolidierung auf dem Gebiet der Überwachung von Betriebsbereichen.
 
@@ -322,37 +298,37 @@ c)
 
 ### § 17 — Überwachungsplan und Überwachungsprogramm
 
-(1) Die zuständige Behörde hat im Rahmen des Überwachungssystems einen Überwachungsplan zu erstellen. Der Überwachungsplan muss Folgendes enthalten: Die Überwachungspläne sind von der zuständigen Behörde regelmäßig zu überprüfen und, soweit erforderlich, zu aktualisieren.
+(1) Die zuständige Behörde hat im Rahmen des Überwachungssystems einen Überwachungsplan zu erstellen. Der Überwachungsplan muss Folgendes enthalten:
 
-1.
+1. den räumlichen Geltungsbereich des Plans,
 
-2.
+2. eine allgemeine Beurteilung der Anlagensicherheit im Geltungsbereich des Plans,
 
-3.
+3. ein Verzeichnis der in den Geltungsbereich des Plans fallenden Betriebsbereiche,
 
-4.
+4. ein Verzeichnis der Gruppen von Betriebsbereichen nach § 15,
 
-5.
+5. ein Verzeichnis der Betriebsbereiche, in denen sich durch besondere umgebungsbedingte Gefahrenquellen die Wahrscheinlichkeit des Eintritts eines Störfalls erhöhen oder die Auswirkungen eines solchen Störfalls verschlimmern können,
 
-6.
+6. die Verfahren für die Aufstellung von Programmen für die regelmäßige Überwachung,
 
-7.
+7. die Verfahren für die Überwachung aus besonderem Anlass,
 
-8.
+8. Bestimmungen für die Zusammenarbeit zwischen Überwachungsbehörden.
 
-(2) Auf der Grundlage der Überwachungspläne erstellen und aktualisieren die zuständigen Behörden regelmäßig Überwachungsprogramme, in denen auch die Zeiträume angegeben sind, in denen Vor-Ort-Besichtigungen stattfinden müssen. Der Abstand zwischen zwei Vor-Ort-Besichtigungen darf die folgenden Zeiträume nicht überschreiten: es sei denn, die zuständige Behörde hat auf der Grundlage einer systematischen Beurteilung der mit den Betriebsbereichen verbundenen Gefahren von Störfällen andere zeitliche Abstände erarbeitet.
+(2) Auf der Grundlage der Überwachungspläne erstellen und aktualisieren die zuständigen Behörden regelmäßig Überwachungsprogramme, in denen auch die Zeiträume angegeben sind, in denen Vor-Ort-Besichtigungen stattfinden müssen. Der Abstand zwischen zwei Vor-Ort-Besichtigungen darf die folgenden Zeiträume nicht überschreiten:
 
-1.
+1. ein Jahr, bei Betriebsbereichen der oberen Klasse, sowie
 
-2.
+2. drei Jahre, bei Betriebsbereichen der unteren Klasse,
 
 (3) Die systematische Beurteilung der Gefahren von Störfällen nach Absatz 2 muss mindestens folgende Kriterien berücksichtigen:
 
-1.
+1. mögliche Auswirkungen des Betriebsbereichs auf die menschliche Gesundheit und auf die Umwelt,
 
-2.
+2. die Einhaltung der Anforderungen dieser Verordnung und anderer für die Anlagensicherheit wesentlicher Rechtsvorschriften und
 
-3.
+3. für die Anlagensicherheit wesentliche Ergebnisse von Überwachungsmaßnahmen, die im Rahmen anderer Rechtsvorschriften durchgeführt worden sind.
 
 ## Vierter Abschnitt: Genehmigungsverfahren nach § 23b des Bundes-Immissionsschutzgesetzes
 
@@ -360,21 +336,21 @@ c)
 
 (1) Der Träger des Vorhabens hat dem Antrag nach § 23b Absatz 1 des Bundes-Immissionsschutzgesetzes alle Unterlagen beizufügen, die für die Prüfung der Genehmigungsvoraussetzungen erforderlich sind. Die zuständige Behörde teilt dem Antragsteller nach Eingang des Antrags und der Unterlagen unverzüglich mit, welche zusätzlichen Unterlagen sie für die Prüfung benötigt. Erfolgt die Antragstellung schriftlich, kann die zuständige Behörde einen elektronischen Antrag verlangen und bezüglich des elektronischen Formats Vorgaben machen. Hat die zuständige Behörde einen Zugang für die elektronische Antragstellung eröffnet, so ist ausschließlich dieser für die elektronische Antragstellung zu nutzen. Erfolgt die Antragstellung elektronisch, kann die zuständige Behörde verlangen, dass die dem Antrag beizufügenden Unterlagen auch in Papierform übermittelt werden, soweit eine Bearbeitung anders nicht möglich ist.
 
-(2) Hat der Antragsteller den Antrag und die erforderlichen Unterlagen vollständig übermittelt, macht die zuständige Behörde das Vorhaben in ihrem amtlichen Veröffentlichungsblatt, und auf ihrer Internetseite öffentlich bekannt. In der Bekanntmachung ist die Öffentlichkeit über Folgendes zu informieren: Weitere Informationen, die für die Entscheidung über die Genehmigung von Bedeutung sein können und die der zuständigen Behörde erst nach Beginn der Auslegung vorliegen, sind der Öffentlichkeit nach den Bestimmungen über den Zugang zu Umweltinformationen zugänglich zu machen. Besteht für das Vorhaben eine UVP-Pflicht, muss die Bekanntmachung darüber hinaus den Anforderungen des § 19 Absatz 1 des Gesetzes über die Umweltverträglichkeitsprüfung entsprechen.
+(2) Hat der Antragsteller den Antrag und die erforderlichen Unterlagen vollständig übermittelt, macht die zuständige Behörde das Vorhaben in ihrem amtlichen Veröffentlichungsblatt, und auf ihrer Internetseite öffentlich bekannt. In der Bekanntmachung ist die Öffentlichkeit über Folgendes zu informieren:
 
-1.
+1. über den Gegenstand des Vorhabens,
 
-2.
+2. gegebenenfalls über die Feststellung der UVP-Pflicht des Vorhabens nach § 5 des Gesetzes über die Umweltverträglichkeitsprüfung sowie erforderlichenfalls Durchführung einer grenzüberschreitenden Beteiligung nach den §§ 55 und 56 des Gesetzes über die Umweltverträglichkeitsprüfung oder das Bestehen einer grenzüberschreitenden Informationspflicht des Betreibers nach § 11 Absatz 3 Satz 4,
 
-3.
+3. über die Internetseite auf der die Zugänglichmachung erfolgt und über die Möglichkeit, eine leicht zu erreichende Zugangsmöglichkeit zur Verfügung gestellt zu bekommen,
 
-4.
+4. darüber, dass Personen, deren Belange berührt sind, und Vereinigungen, welche die Anforderungen von § 3 Absatz 1 oder § 2 Absatz 2 des Umwelt-Rechtsbehelfsgesetzes erfüllen (betroffene Öffentlichkeit), Einwendungen bei einer in der Bekanntmachung bezeichneten Stelle innerhalb der Frist gemäß § 23b Absatz 2 Satz 3 des Bundes-Immissionsschutzgesetzes erheben können,
 
-5.
+5. die Art möglicher Entscheidungen oder, soweit vorhanden, den Entscheidungsentwurf,
 
-6.
+6. darüber, dass die Zustellung der Entscheidung über die Einwendungen durch öffentliche Bekanntmachung ersetzt werden kann, sowie
 
-7.
+7. gegebenenfalls über weitere Einzelheiten des Verfahrens zur Unterrichtung der Öffentlichkeit und Anhörung der betroffenen Öffentlichkeit.
 
 (3) Die Auslegung ist dadurch zu bewirken, dass die Dokumente auf einer Internetseite der zuständigen Behörde zugänglich gemacht werden. Auf Verlangen eines Beteiligten wird ihm eine leicht zu erreichende Zugangsmöglichkeit zur Verfügung gestellt. Der Vorhabenträger kann der Veröffentlichung im Internet widersprechen, soweit er die Gefährdung von Betriebs- oder Geschäftsgeheimnissen oder wichtiger Sicherheitsbelange befürchtet; in diesem Fall muss die Behörde eine andere Form der Veröffentlichung wählen. Die Einwendungen können bei der Genehmigungsbehörde oder bei der Stelle erhoben werden, bei der Antrag und Unterlagen zur Einsicht ausliegen.
 
@@ -392,15 +368,15 @@ c)
 
 (2) Der Betreiber hat der zuständigen Behörde unverzüglich, spätestens innerhalb einer Woche nach Eintritt eines Ereignisses nach Absatz 1 eine ergänzende schriftliche oder elektronische Mitteilung vorzulegen, die mindestens die Angaben nach Anhang VI Teil 2 enthält. Er hat die Mitteilung bei Vorliegen neuer Erkenntnisse unverzüglich zu ergänzen oder zu berichtigen.
 
-(3) Erhält die zuständige Behörde Kenntnis von einem Ereignis nach Anhang VI Teil 1 Ziffer I, hat sie Zur Erfüllung ihrer Verpflichtungen nach den Nummern 1, 2 und 4 kann die zuständige Behörde auch ein Gutachten vom Betreiber fordern.
+(3) Erhält die zuständige Behörde Kenntnis von einem Ereignis nach Anhang VI Teil 1 Ziffer I, hat sie
 
-1.
+1. durch Vor-Ort-Besichtigungen, Untersuchungen oder andere geeignete Mittel die für eine vollständige Analyse der technischen, organisatorischen und managementspezifischen Gesichtspunkte dieses Ereignisses erforderlichen Informationen einzuholen,
 
-2.
+2. geeignete Maßnahmen zu ergreifen, um sicherzustellen, dass der Betreiber alle erforderlichen Abhilfemaßnahmen trifft,
 
-3.
+3. die von dem Störfall möglicherweise betroffenen Personen über diesen sowie gegebenenfalls über Maßnahmen zu unterrichten, die ergriffen wurden, um seine Auswirkungen zu mildern, und
 
-4.
+4. Empfehlungen zu künftigen Verhinderungsmaßnahmen abzugeben, sobald die Analyse nach Nummer 1 vorliegt.
 
 (4) Die zuständige Behörde hat dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit über die nach Landesrecht zuständige Behörde unverzüglich eine Kopie der Mitteilung nach Absatz 2 zuzuleiten. Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit unterrichtet die Europäische Kommission, wenn eines der Kriterien des Anhangs VI Teil 1 Ziffer I oder II erfüllt ist. Die Unterrichtung hat so bald wie möglich zu erfolgen, spätestens jedoch bis zum Ablauf eines Jahres nach dem Ereignis.
 
@@ -412,378 +388,256 @@ c)
 
 (1) Der Betreiber eines Betriebsbereichs, der am 13. Januar 2017 unter den Anwendungsbereich dieser Verordnung fällt und dessen Einstufung als Betriebsbereich der oberen oder unteren Klasse sich ab dem 14. Januar 2017 nicht ändert, hat
 
-1.
+1. der zuständigen Behörde die Angaben nach § 7 Absatz 1 bis zum Ablauf des 14. Juli 2017 schriftlich anzuzeigen, sofern der Betreiber der zuständigen Behörde die entsprechenden Angaben nicht bereits übermittelt hat,
 
-2.
+2. das Konzept nach § 8 Absatz 1 Satz 1 unverzüglich, spätestens jedoch bis zum Ablauf des 14. Juli 2017, zu aktualisieren, soweit dies auf Grund der Anforderungen dieser Verordnung erforderlich ist.
 
 (2) Sofern es sich in den Fällen des Absatzes 1 um einen Betriebsbereich der oberen Klasse handelt, hat der Betreiber zusätzlich
 
-1.
+1. den Sicherheitsbericht nach § 9 Absatz 1 und 2 oder Absatz 3 bis zum Ablauf des 14. Juli 2017 zu aktualisieren und aktualisierte Teile der zuständigen Behörde bis zu diesem Zeitpunkt vorzulegen,
 
-2.
+2. die internen Alarm- und Gefahrenabwehrpläne nach § 10 Absatz 1 Satz 1 Nummer 1 zu aktualisieren und den zuständigen Behörden nach § 10 Absatz 1 Satz 1 Nummer 2 unverzüglich, spätestens jedoch zum Ablauf des 14. Juli 2017 Informationen zu übermitteln, sofern nicht die bestehenden internen Alarm- und Gefahrenabwehrpläne sowie die Informationen nach § 10 Absatz 1 Satz 1 Nummer 2 unverändert geblieben sind und den Anforderungen dieser Verordnung entsprechen.
 
-(3) Der Betreiber eines Betriebsbereichs, der ab dem 1. Juni 2015 aus anderen Gründen als Änderungen seiner Anlagen oder seiner Tätigkeiten, die eine Änderung ihres Inventars gefährlicher Stoffe zur Folge haben, unter den Anwendungsbereich der Richtlinie 2012/18/EU fällt oder eine Änderung seiner Einstufung als Betriebsbereich der unteren oder oberen Klasse erfährt, hat In den Fällen des Satzes 1 gelten dessen Anforderungen abweichend von Absatz 1, wenn sie vor dem 13. Januar 2017 eintreten.
+(3) Der Betreiber eines Betriebsbereichs, der ab dem 1. Juni 2015 aus anderen Gründen als Änderungen seiner Anlagen oder seiner Tätigkeiten, die eine Änderung ihres Inventars gefährlicher Stoffe zur Folge haben, unter den Anwendungsbereich der Richtlinie 2012/18/EU fällt oder eine Änderung seiner Einstufung als Betriebsbereich der unteren oder oberen Klasse erfährt, hat
 
-1.
+1. der zuständigen Behörde die Angaben nach § 7 Absatz 1 innerhalb von drei Monaten nach dem Zeitpunkt, zu dem diese Verordnung für den betreffenden Betriebsbereich gilt, schriftlich anzuzeigen, sofern der Betreiber der zuständigen Behörde die entsprechenden Angaben nicht bereits übermittelt hat,
 
-2.
+2. das Konzept nach § 8 Absatz 1 Satz 1 unverzüglich, spätestens jedoch bis zum Ablauf von sechs Monaten nach dem Zeitpunkt, zu dem diese Verordnung für den betreffenden Betriebsbereich gilt, auszuarbeiten und seine Umsetzung sicherzustellen.
 
 (4) Sofern es sich in den Fällen des Absatzes 3 um einen Betriebsbereich der oberen Klasse handelt, hat der Betreiber zusätzlich
 
-1.
+1. den Sicherheitsbericht nach § 9 Absatz 1 und 2 unverzüglich, spätestens jedoch bis zum Ablauf eines Jahres nach dem Zeitpunkt, zu dem die Anforderungen an Betriebsbereiche der oberen Klasse für den betreffenden Betriebsbereich gelten, zu erstellen und der zuständigen Behörde vorzulegen, wobei § 9 Absatz 3 entsprechend gilt,
 
-2.
+2. die Pflichten nach § 10 Absatz 1 Satz 1 unverzüglich, spätestens jedoch bis zum Ablauf eines Jahres nach dem Zeitpunkt, zu dem die Anforderungen an Betriebsbereiche der oberen Klasse für den betreffenden Betriebsbereich gelten, zu erfüllen, wobei § 10 Absatz 2 bis 4 entsprechend gilt.
 
 ### § 21 — Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 62 Absatz 1 Nummer 2 des Bundes-Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. einer vollziehbaren Anordnung nach § 1 Absatz 2 zuwiderhandelt,
 
-2.
+2. entgegen § 6 Absatz 3 eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig liefert,
 
-3.
+3. entgegen § 7 Absatz 1, 2 oder 3 oder § 20 Absatz 1 Nummer 1 oder Absatz 3 Nummer 1 eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
 
-4.
+4. entgegen § 8 Absatz 3 oder § 20 Absatz 3 Satz 1 Nummer 2 die Umsetzung des Konzepts nicht sicherstellt,
 
-5.
+5. entgegen § 8 Absatz 4, § 10 Absatz 4 Satz 3 oder § 20 Absatz 1 Nummer 2 ein Konzept oder einen Alarm- oder Gefahrenabwehrplan nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig aktualisiert,
 
-6.
+6. entgegen § 8a Absatz 1 Satz 1 oder § 11 Absatz 1 Satz 1 oder Absatz 5 Satz 1 eine Angabe oder einen Sicherheitsbericht nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise zugänglich macht,
 
-7.
+7. entgegen § 9 Absatz 4 oder 5 Satz 3 oder § 20 Absatz 2 Nummer 1 oder Absatz 4 Nummer 1 oder § 19 Absatz 2 Satz 1 einen Sicherheitsbericht oder dessen aktualisierte Teile oder eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vorlegt,
 
-8.
+8. entgegen § 10 Absatz 1 Satz 1, auch in Verbindung mit § 20 Absatz 2 Nummer 2 oder Absatz 4 Nummer 2, einen dort genannten Alarm- oder Gefahrenabwehrplan nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt oder die erforderliche Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
 
-9.
+9. entgegen § 10 Absatz 3 Satz 1 einen Beschäftigten nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig unterrichtet oder nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig anhört,
 
-10.
+10. entgegen § 10 Absatz 3 Satz 2 einen Beschäftigten nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig unterweist,
 
-11.
+11. entgegen § 10 Absatz 4 Satz 1 einen Alarm- oder Gefahrenabwehrplan nicht, nicht richtig oder nicht rechtzeitig erprobt,
 
-12.
+12. entgegen § 11 Absatz 3 Satz 1 eine Information nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig gibt,
 
-13.
+13. entgegen § 12 Absatz 1 Nummer 1 eine Verbindung nicht, nicht richtig oder nicht rechtzeitig einrichtet,
 
-14.
+14. entgegen § 12 Absatz 2 Satz 2 eine Unterlage nicht oder nicht bis zur nächsten Vor-Ort-Besichtigung, jedoch mindestens fünf Jahre aufbewahrt,
 
-15.
+15. entgegen § 19 Absatz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder
 
-16.
+16. entgegen § 19 Absatz 2 Satz 2 eine Mitteilung nicht, nicht richtig oder nicht rechtzeitig ergänzt oder nicht, nicht richtig oder nicht rechtzeitig berichtigt.
 
 (2) Ordnungswidrig im Sinne des § 62 Absatz 1 Nummer 7 des Bundes-Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig eine in Absatz 1 bezeichnete Handlung in Bezug auf eine nicht genehmigungsbedürftige Anlage begeht, die Teil eines Betriebsbereichs ist.
 
 ### Anhang I — Mengenschwellen
 
-1.
+1. Dieser Anhang dient der Bestimmung, welche Stoffe oder Gemische als gefährliche Stoffe im Sinne von § 2 Nummer 4 in Betracht kommen, und legt die Mengenschwellen zur Ermittlung von Betriebsbereichen fest.
 
-2.
+2. Für die Einstufung von Stoffen und Gemischen ist die Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1) in ihrer jeweils geltenden Fassung maßgeblich. Gemische werden in der gleichen Weise behandelt wie reine Stoffe, sofern ihre Zusammensetzung innerhalb der Konzentrationsgrenzen verbleibt, die entsprechend ihren Eigenschaften in der Verordnung (EG) Nr. 1272/2008 festgelegt sind, es sei denn, dass eigens eine prozentuale Zusammensetzung oder eine andere Beschreibung angegeben ist.
 
-3.
+3. Die in der Stoffliste angegebenen Mengenschwellen (Spalten 4 und 5) gelten je Betriebsbereich.
 
-4.
+4. Die für die Anwendung der einschlägigen Vorschriften zu berücksichtigenden Mengen sind die Höchstmengen, die vorhanden sind oder vorhanden sein können. Gefährliche Stoffe, die in einem Betriebsbereich nur in einer Menge von höchstens 2 % der relevanten Mengenschwelle vorhanden sind, bleiben bei der Berechnung der vorhandenen Gesamtmenge unberücksichtigt, wenn sie sich innerhalb eines Betriebsbereichs an einem Ort befinden, an dem sie nicht als Auslöser eines Störfalls an einem anderen Ort des Betriebsbereichs wirken können.
 
-5.
+5. Zur Prüfung, ob ein Betriebsbereich besteht, sind die Teilmengen für jeden gefährlichen Stoff unter Beachtung der vorstehenden Nummer 4 über den möglichen Betriebsbereich zu addieren und ist jede Einzelsumme mit den in den Spalten 4 und 5 der Stoffliste angegebenen Mengenschwellen zu vergleichen. Sind mehrere gefährliche Stoffe vorhanden, gelten zusätzlich die folgenden Regeln für das Addieren von Mengen gefährlicher Stoffe und zu bildender Quotienten: Ein Betriebsbereich der unteren Klasse besteht, wenn die Summe q1/QG1 + q2/QG2 + q3/QG3 + q4/QG4 + q5/QG5 + … qx/QGx≥ 1 ist, wobei q[1, 2…x] die vorhandene Menge eines gefährlichen Stoffes [1, 2…x] (oder gefährlicher Stoffe ein und derselben Gefahrenkategorie) nach der Spalte 2 der Stoffliste und QG[1, 2…x] die relevante Mengenschwelle eines gefährlichen Stoffes [1, 2…x] (oder gefährlicher Stoffe ein und derselben Gefahrenkategorie) nach der Spalte 4 der Stoffliste ist. Ein Betriebsbereich der oberen Klasse besteht, wenn die Summe q1/QE1 + q2/QE2 + q3/QE3 + q4/QE4 + q5/QE5 + … qx/QEx≥ 1 ist, wobei q[1, 2…x] die vorhandene Menge eines gefährlichen Stoffes [1, 2…x] (oder gefährlicher Stoffe ein und derselben Gefahrenkategorie) nach der Spalte 2 der Stoffliste ist und QE[1, 2…x] die relevante Mengenschwelle eines gefährlichen Stoffes [1, 2…x] (oder gefährlicher Stoffe ein und derselben Gefahrenkategorie) nach der Spalte 5 der Stoffliste ist. Diese Berechnungsregeln finden unter folgenden Bedingungen Anwendung: a)bei den unter der Nummer 2 der Stoffliste namentlich aufgeführten Stoffen und Gemischen in Mengen unter ihrer individuellen Mengenschwelle, wenn sie zusammen mit Stoffen der gleichen, unter der Nummer 1 der Stoffliste aufgeführten Gefahrenkategorie in einem Betriebsbereich vorhanden sind,b)für das Addieren der Mengen von Stoffen und Gemischen der gleichen, unter der Nummer 1 der Stoffliste aufgeführten Gefahrenkategorie,c)für das Addieren der Mengen von Stoffen und Gemischen der unter der Nummer 1.1 der Stoffliste aufgeführten Gefahrenkategorien, die zusammen in einem Betriebsbereich vorhanden sind,d)für das Addieren der Mengen von Stoffen und Gemischen der unter der Nummer 1.2 der Stoffliste aufgeführten Gefahrenkategorien, die zusammen in einem Betriebsbereich vorhanden sind,e)für das Addieren der Mengen von Stoffen und Gemischen der unter der Nummer 1.3 der Stoffliste aufgeführten Gefahrenkategorien, die zusammen in einem Betriebsbereich vorhanden sind. bei den unter der Nummer 2 der Stoffliste namentlich aufgeführten Stoffen und Gemischen in Mengen unter ihrer individuellen Mengenschwelle, wenn sie zusammen mit Stoffen der gleichen, unter der Nummer 1 der Stoffliste aufgeführten Gefahrenkategorie in einem Betriebsbereich vorhanden sind, für das Addieren der Mengen von Stoffen und Gemischen der gleichen, unter der Nummer 1 der Stoffliste aufgeführten Gefahrenkategorie, für das Addieren der Mengen von Stoffen und Gemischen der unter der Nummer 1.1 der Stoffliste aufgeführten Gefahrenkategorien, die zusammen in einem Betriebsbereich vorhanden sind, für das Addieren der Mengen von Stoffen und Gemischen der unter der Nummer 1.2 der Stoffliste aufgeführten Gefahrenkategorien, die zusammen in einem Betriebsbereich vorhanden sind, für das Addieren der Mengen von Stoffen und Gemischen der unter der Nummer 1.3 der Stoffliste aufgeführten Gefahrenkategorien, die zusammen in einem Betriebsbereich vorhanden sind.
 
-a)
+6. Fällt ein unter der Nummer 2 der Stoffliste namentlich aufgeführter Stoff oder eine dort aufgeführte Gruppe von Stoffen auch unter eine unter der Nummer 1 der Stoffliste aufgeführte Gefahrenkategorie, so sind die unter der Nummer 2 der Stoffliste festgelegten Mengenschwellen in Spalte 4 und 5 anzuwenden.
 
-b)
+7. Fallen unter der Nummer 2 der Stoffliste namentlich nicht aufgeführte Stoffe, Stoffgruppen oder Gemische unter mehr als eine der unter der Nummer 1 aufgeführten Gefahrenkategorien, so ist die jeweils niedrigste Mengenschwelle anzuwenden. Bei Anwendung der in der vorstehenden Nummer 5 festgelegten Berechnungsregeln ist jedoch stets die Mengenschwelle zu verwenden, die der jeweiligen Einstufung entspricht.
 
-c)
-
-d)
-
-e)
-
-6.
-
-7.
-
-8.
-
-Stoffliste
-
-Fußnoten zur Stoffliste
+8. Gefährliche Stoffe, einschließlich Abfälle, die nicht in den Anwendungsbereich der Verordnung (EG) Nr. 1272/2008 fallen, die aber dennoch vorhanden sind oder vorhanden sein können und unter den angetroffenen Bedingungen hinsichtlich ihres Störfallpotenzials gleichwertige Eigenschaften besitzen oder besitzen können, werden vorläufig der ähnlichsten Gefahrenkategorie nach Nummer 1 der Stoffliste oder dem ähnlichsten unter Nummer 2 der Stoffliste namentlich genannten Stoffen zugeordnet.
 
 ### Anhang II — Mindestangaben im Sicherheitsbericht
 
-1.
+I. Informationen über das Managementsystem und die Betriebsorganisation im Hinblick auf die Verhinderung von Störfällen Diese Informationen müssen die in Anhang III aufgeführten Punkte abdecken.
 
-2.
+II. Umfeld des Betriebsbereichs1.Beschreibung des Betriebsbereichs und seines Umfelds einschließlich der geographischen Lage, der meteorologischen, geologischen und hydrographischen Daten sowie gegebenenfalls der Vorgeschichte des Standorts.2.Verzeichnis der Anlagen und Tätigkeiten innerhalb des Betriebsbereichs, bei denen die Gefahr eines Störfalls bestehen kann.3.Auf der Grundlage verfügbarer Informationen Verzeichnis benachbarter Betriebsbereiche und Betriebsstätten, die nicht in den Geltungsbereich der Verordnung fallen, sowie Bereiche und Entwicklungen außerhalb des Betriebsbereichs, die einen Störfall verursachen oder die Wahrscheinlichkeit des Eintritts eines Störfalls erhöhen oder die Auswirkungen eines Störfalls und von Domino-Effekten verschlimmern können.4.Beschreibung der Bereiche, die von einem Störfall betroffen werden könnten. Beschreibung des Betriebsbereichs und seines Umfelds einschließlich der geographischen Lage, der meteorologischen, geologischen und hydrographischen Daten sowie gegebenenfalls der Vorgeschichte des Standorts. Verzeichnis der Anlagen und Tätigkeiten innerhalb des Betriebsbereichs, bei denen die Gefahr eines Störfalls bestehen kann. Auf der Grundlage verfügbarer Informationen Verzeichnis benachbarter Betriebsbereiche und Betriebsstätten, die nicht in den Geltungsbereich der Verordnung fallen, sowie Bereiche und Entwicklungen außerhalb des Betriebsbereichs, die einen Störfall verursachen oder die Wahrscheinlichkeit des Eintritts eines Störfalls erhöhen oder die Auswirkungen eines Störfalls und von Domino-Effekten verschlimmern können. Beschreibung der Bereiche, die von einem Störfall betroffen werden könnten.
 
-3.
+III. Beschreibung der Anlagen des Betriebsbereichs1.Beschreibung der wichtigsten Tätigkeiten und Produkte der sicherheitsrelevanten Teile des Betriebsbereichs, der Gefahrenquellen, die zu Störfällen führen könnten, sowie der Bedingungen, unter denen der jeweilige Störfall eintreten könnte, und Beschreibung der vorgesehenen Maßnahmen zur Verhinderung von Störfällen.2.Beschreibung der Verfahren, insbesondere der Verfahrensabläufe, unter Verwendung von Fließbildern; gegebenenfalls Berücksichtigung verfügbarer Informationen über bewährte Verfahren.3.Beschreibung der gefährlichen Stoffe: a)Verzeichnis der gefährlichen Stoffe, das Folgendes umfasst: –Angaben zur Feststellung der gefährlichen Stoffe: Angabe ihrer chemischen Bezeichnung, CAS-Nummer, Bezeichnung nach der IUPAC-Nomenklatur,–Höchstmenge der vorhandenen gefährlichen Stoffe oder der gefährlichen Stoffe, die vorhanden sein können;b)physikalische, chemische und toxikologische Merkmale sowie Angabe der sich auf die menschliche Gesundheit oder die Umwelt unmittelbar oder später auswirkenden Gefahren;c)physikalisches und chemisches Verhalten unter normalen Einsatzbedingungen oder bei vorhersehbaren Störungen. Beschreibung der wichtigsten Tätigkeiten und Produkte der sicherheitsrelevanten Teile des Betriebsbereichs, der Gefahrenquellen, die zu Störfällen führen könnten, sowie der Bedingungen, unter denen der jeweilige Störfall eintreten könnte, und Beschreibung der vorgesehenen Maßnahmen zur Verhinderung von Störfällen. Beschreibung der Verfahren, insbesondere der Verfahrensabläufe, unter Verwendung von Fließbildern; gegebenenfalls Berücksichtigung verfügbarer Informationen über bewährte Verfahren. Beschreibung der gefährlichen Stoffe: a)Verzeichnis der gefährlichen Stoffe, das Folgendes umfasst: –Angaben zur Feststellung der gefährlichen Stoffe: Angabe ihrer chemischen Bezeichnung, CAS-Nummer, Bezeichnung nach der IUPAC-Nomenklatur,–Höchstmenge der vorhandenen gefährlichen Stoffe oder der gefährlichen Stoffe, die vorhanden sein können;b)physikalische, chemische und toxikologische Merkmale sowie Angabe der sich auf die menschliche Gesundheit oder die Umwelt unmittelbar oder später auswirkenden Gefahren;c)physikalisches und chemisches Verhalten unter normalen Einsatzbedingungen oder bei vorhersehbaren Störungen. Verzeichnis der gefährlichen Stoffe, das Folgendes umfasst: –Angaben zur Feststellung der gefährlichen Stoffe: Angabe ihrer chemischen Bezeichnung, CAS-Nummer, Bezeichnung nach der IUPAC-Nomenklatur,–Höchstmenge der vorhandenen gefährlichen Stoffe oder der gefährlichen Stoffe, die vorhanden sein können; Angaben zur Feststellung der gefährlichen Stoffe: Angabe ihrer chemischen Bezeichnung, CAS-Nummer, Bezeichnung nach der IUPAC-Nomenklatur, Höchstmenge der vorhandenen gefährlichen Stoffe oder der gefährlichen Stoffe, die vorhanden sein können; physikalische, chemische und toxikologische Merkmale sowie Angabe der sich auf die menschliche Gesundheit oder die Umwelt unmittelbar oder später auswirkenden Gefahren; physikalisches und chemisches Verhalten unter normalen Einsatzbedingungen oder bei vorhersehbaren Störungen.
 
-4.
+IV. Ermittlung und Analyse der Risiken von Störfällen und Mittel zur Verhinderung solcher Störfälle1.Eingehende Beschreibung der Szenarien möglicher Störfälle nebst ihrer Wahrscheinlichkeit oder den Bedingungen für ihr Eintreten, einschließlich einer Zusammenfassung der Vorfälle, die für das Eintreten jedes dieser Szenarien ausschlaggebend sein könnten, unabhängig davon, ob die Ursachen hierfür innerhalb oder außerhalb des Betriebsbereichs liegen, insbesondere unter Berücksichtigung: a)betrieblicher Gefahrenquellen,b)umgebungsbedingter Gefahrenquellen, z. B. Erdbeben, Hochwasser oder Einwirkungen die von benachbarten Betriebsbereichen oder Betriebsstätten ausgehen können,c)Eingriffe Unbefugter undd)anderer Bereiche und Entwicklungen, die einen Störfall verursachen, die Wahrscheinlichkeit des Eintritts eines Störfalls erhöhen oder Auswirkungen eines Störfalls verschlimmern können.2.Abschätzung des Ausmaßes und der Schwere der Folgen der ermittelten Störfälle, einschließlich Karten, Bilder oder gegebenenfalls entsprechender Beschreibungen, aus denen die Bereiche ersichtlich sind, die von derartigen Störfällen betroffen sein können.3.Bewertung vergangener Ereignisse im Zusammenhang mit den gleichen Stoffen und Verfahren, Berücksichtigung der daraus gezogenen Lehren und ausdrückliche Bezugnahme auf die jeweiligen Maßnahmen, die ergriffen wurden, um entsprechende Ereignisse zu verhindern.4.Beschreibung der technischen Parameter sowie Ausrüstungen zur Sicherung der Anlagen. Eingehende Beschreibung der Szenarien möglicher Störfälle nebst ihrer Wahrscheinlichkeit oder den Bedingungen für ihr Eintreten, einschließlich einer Zusammenfassung der Vorfälle, die für das Eintreten jedes dieser Szenarien ausschlaggebend sein könnten, unabhängig davon, ob die Ursachen hierfür innerhalb oder außerhalb des Betriebsbereichs liegen, insbesondere unter Berücksichtigung: a)betrieblicher Gefahrenquellen,b)umgebungsbedingter Gefahrenquellen, z. B. Erdbeben, Hochwasser oder Einwirkungen die von benachbarten Betriebsbereichen oder Betriebsstätten ausgehen können,c)Eingriffe Unbefugter undd)anderer Bereiche und Entwicklungen, die einen Störfall verursachen, die Wahrscheinlichkeit des Eintritts eines Störfalls erhöhen oder Auswirkungen eines Störfalls verschlimmern können. betrieblicher Gefahrenquellen, umgebungsbedingter Gefahrenquellen, z. B. Erdbeben, Hochwasser oder Einwirkungen die von benachbarten Betriebsbereichen oder Betriebsstätten ausgehen können, Eingriffe Unbefugter und anderer Bereiche und Entwicklungen, die einen Störfall verursachen, die Wahrscheinlichkeit des Eintritts eines Störfalls erhöhen oder Auswirkungen eines Störfalls verschlimmern können. Abschätzung des Ausmaßes und der Schwere der Folgen der ermittelten Störfälle, einschließlich Karten, Bilder oder gegebenenfalls entsprechender Beschreibungen, aus denen die Bereiche ersichtlich sind, die von derartigen Störfällen betroffen sein können. Bewertung vergangener Ereignisse im Zusammenhang mit den gleichen Stoffen und Verfahren, Berücksichtigung der daraus gezogenen Lehren und ausdrückliche Bezugnahme auf die jeweiligen Maßnahmen, die ergriffen wurden, um entsprechende Ereignisse zu verhindern. Beschreibung der technischen Parameter sowie Ausrüstungen zur Sicherung der Anlagen.
 
-1.
-
-2.
-
-3.
-
-a)
-
-–
-
-–
-
-b)
-
-c)
-
-1.
-
-a)
-
-b)
-
-c)
-
-d)
-
-2.
-
-3.
-
-4.
-
-1.
-
-2.
-
-3.
-
-4.
+V. Schutz- und Notfallmaßnahmen zur Begrenzung der Auswirkungen von Störfällen1.Beschreibung der Einrichtungen, die in der Anlage zur Begrenzung der Auswirkungen von Störfällen vorhanden sind, beispielsweise Melde-/Schutzsysteme und technische Vorrichtungen zur Begrenzung von ungeplanten Stofffreisetzungen, einschließlich Berieselungsanlagen, Dampfabschirmung, Auffangvorrichtungen oder -behälter, Notabsperrventilen, Inertisierungssystemen, Löschwasserrückhaltung.2.Alarmplan und Organisation der Notfallmaßnahmen.3.Beschreibung der Mittel, die innerhalb oder außerhalb des Betriebsbereichs für den Notfall zur Verfügung stehen.4.Beschreibung technischer und nicht technischer Maßnahmen, die für die Begrenzung der Auswirkungen eines Störfalls von Bedeutung sind. Beschreibung der Einrichtungen, die in der Anlage zur Begrenzung der Auswirkungen von Störfällen vorhanden sind, beispielsweise Melde-/Schutzsysteme und technische Vorrichtungen zur Begrenzung von ungeplanten Stofffreisetzungen, einschließlich Berieselungsanlagen, Dampfabschirmung, Auffangvorrichtungen oder -behälter, Notabsperrventilen, Inertisierungssystemen, Löschwasserrückhaltung. Alarmplan und Organisation der Notfallmaßnahmen. Beschreibung der Mittel, die innerhalb oder außerhalb des Betriebsbereichs für den Notfall zur Verfügung stehen. Beschreibung technischer und nicht technischer Maßnahmen, die für die Begrenzung der Auswirkungen eines Störfalls von Bedeutung sind.
 
 ### Anhang III — Sicherheitsmanagementsystem
 
-1.
+1. Das Sicherheitsmanagementsystem ist den Gefahren, Tätigkeiten und der Komplexität der Betriebsorganisation angemessen und beruht auf einer Risikobeurteilung. In das Sicherheitsmanagementsystem ist derjenige Teil des allgemeinen Managementsystems einzugliedern, zu dem Organisationsstruktur, Verantwortungsbereiche, Handlungsweisen, Verfahren, Prozesse und Mittel gehören, also die für die Festlegung und Anwendung des Konzepts zur Verhinderung von Störfällen relevanten Punkte. Insbesondere bei bereits nach § 32 des Umweltauditgesetzes EMAS-registrierten Standorten kann auf deren Managementstrukturen und Vorgehensweisen aufgesetzt werden.
 
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
+2. Folgende Punkte werden durch das Sicherheitsmanagementsystem geregelt: a)Organisation und PersonalAufgaben und Verantwortungsbereiche des für die Verhinderung von Störfällen und die Begrenzung ihrer Auswirkungen vorgesehenen Personals auf allen Organisationsebenen; Maßnahmen, die zur Sensibilisierung für die Notwendigkeit ständiger Verbesserungen ergriffen werden. Ermittlung des entsprechenden Ausbildungs- und Schulungsbedarfs sowie Durchführung der erforderlichen Ausbildungs- und Schulungsmaßnahmen. Einbeziehung der Beschäftigten des Betriebsbereichs sowie des im Betriebsbereich beschäftigten Personals von Subunternehmen, soweit dies unter dem Gesichtspunkt der Sicherheit relevant ist.b)Ermittlung und Bewertung der Gefahren von StörfällenFestlegung und Anwendung von Verfahren zur systematischen Ermittlung der Gefahren von Störfällen bei bestimmungsgemäßem und nicht bestimmungsgemäßem Betrieb, einschließlich von Tätigkeiten, die als Unteraufträge vergeben sind, sowie Abschätzung der Wahrscheinlichkeit und der Schwere solcher Störfälle.c)Überwachung des BetriebsFestlegung und Anwendung von Verfahren und Anweisungen für den sicheren Betrieb, einschließlich der Wartung der Anlagen, für Verfahren und Einrichtung sowie für Alarmmanagement und zeitlich begrenzte Unterbrechungen. Berücksichtigung verfügbarer Informationen über bewährte Verfahren zur Überwachung und Prüfung, um die Wahrscheinlichkeit von Systemausfällen zu verringern. Betrachtung und Beherrschung der durch Alterung oder Korrosion von Anlagenteilen im Betriebsbereich entstehenden Risiken.Dokumentation der Anlagenteile im Betriebsbereich, verbunden mit einer Strategie und Methodik zur Überwachung und Prüfung des Zustands dieser Anlagenteile. Gegebenenfalls Festlegung von erforderlichen Gegenmaßnahmen und angemessenen Folgemaßnahmen.d)Sichere Durchführung von ÄnderungenFestlegung und Anwendung von Verfahren zur Planung von Änderungen bestehender Anlagen oder Verfahren oder Auslegung einer neuen Anlage oder eines neuen Verfahrens.e)Planung für NotfälleFestlegung und Anwendung von Verfahren zur Ermittlung vorhersehbarer Notfälle auf Grund einer systematischen Analyse und zur Erstellung, Erprobung und Überprüfung der Alarm- und Gefahrenabwehrpläne, um in Notfällen angemessen reagieren und um dem betroffenen Personal eine spezielle Ausbildung erteilen zu können. Diese Ausbildung muss allen Beschäftigten des Betriebsbereichs, einschließlich des relevanten Personals von Subunternehmen, erteilt werden.f)Überwachung der Leistungsfähigkeit des SicherheitsmanagementsystemsFestlegung und Anwendung von Verfahren zur ständigen Bewertung der Erreichung der Ziele, die der Betreiber im Rahmen des Konzepts zur Verhinderung von Störfällen und des Sicherheitsmanagementsystems festgelegt hat, sowie Einrichtung von Mechanismen zur Untersuchung und Korrektur bei Nichterreichung dieser Ziele. Die Verfahren umfassen das System für die Meldung von Ereignissen, insbesondere von solchen, bei denen Schutzmaßnahmen versagt haben, sowie die entsprechenden Untersuchungen und Folgemaßnahmen, bei denen einschlägige Erfahrungen und Erkenntnisse aus innerbetrieblichen und außerbetrieblichen Ereignissen zugrunde zu legen sind. Die Verfahren können auch Leistungsindikatoren wie sicherheitsbezogene Leistungsindikatoren und andere relevante Indikatoren beinhalten.g)Systematische Überprüfung und BewertungFestlegung und Anwendung von Verfahren zur regelmäßigen systematischen Bewertung des Konzepts zur Verhinderung von Störfällen und der Wirksamkeit und Angemessenheit des Sicherheitsmanagementsystems. Von der Leitung des Betriebsbereichs entsprechend dokumentierte Überprüfung der Leistungsfähigkeit des bestehenden Konzepts und des Sicherheitsmanagementsystems sowie seine Aktualisierung, einschließlich der Erwägung und Einarbeitung notwendiger Änderungen gemäß der systematischen Überprüfung und Bewertung. Organisation und Personal Aufgaben und Verantwortungsbereiche des für die Verhinderung von Störfällen und die Begrenzung ihrer Auswirkungen vorgesehenen Personals auf allen Organisationsebenen; Maßnahmen, die zur Sensibilisierung für die Notwendigkeit ständiger Verbesserungen ergriffen werden. Ermittlung des entsprechenden Ausbildungs- und Schulungsbedarfs sowie Durchführung der erforderlichen Ausbildungs- und Schulungsmaßnahmen. Einbeziehung der Beschäftigten des Betriebsbereichs sowie des im Betriebsbereich beschäftigten Personals von Subunternehmen, soweit dies unter dem Gesichtspunkt der Sicherheit relevant ist. Ermittlung und Bewertung der Gefahren von Störfällen Festlegung und Anwendung von Verfahren zur systematischen Ermittlung der Gefahren von Störfällen bei bestimmungsgemäßem und nicht bestimmungsgemäßem Betrieb, einschließlich von Tätigkeiten, die als Unteraufträge vergeben sind, sowie Abschätzung der Wahrscheinlichkeit und der Schwere solcher Störfälle. Überwachung des Betriebs Festlegung und Anwendung von Verfahren und Anweisungen für den sicheren Betrieb, einschließlich der Wartung der Anlagen, für Verfahren und Einrichtung sowie für Alarmmanagement und zeitlich begrenzte Unterbrechungen. Berücksichtigung verfügbarer Informationen über bewährte Verfahren zur Überwachung und Prüfung, um die Wahrscheinlichkeit von Systemausfällen zu verringern. Betrachtung und Beherrschung der durch Alterung oder Korrosion von Anlagenteilen im Betriebsbereich entstehenden Risiken. Dokumentation der Anlagenteile im Betriebsbereich, verbunden mit einer Strategie und Methodik zur Überwachung und Prüfung des Zustands dieser Anlagenteile. Gegebenenfalls Festlegung von erforderlichen Gegenmaßnahmen und angemessenen Folgemaßnahmen. Sichere Durchführung von Änderungen Festlegung und Anwendung von Verfahren zur Planung von Änderungen bestehender Anlagen oder Verfahren oder Auslegung einer neuen Anlage oder eines neuen Verfahrens. Planung für Notfälle Festlegung und Anwendung von Verfahren zur Ermittlung vorhersehbarer Notfälle auf Grund einer systematischen Analyse und zur Erstellung, Erprobung und Überprüfung der Alarm- und Gefahrenabwehrpläne, um in Notfällen angemessen reagieren und um dem betroffenen Personal eine spezielle Ausbildung erteilen zu können. Diese Ausbildung muss allen Beschäftigten des Betriebsbereichs, einschließlich des relevanten Personals von Subunternehmen, erteilt werden. Überwachung der Leistungsfähigkeit des Sicherheitsmanagementsystems Festlegung und Anwendung von Verfahren zur ständigen Bewertung der Erreichung der Ziele, die der Betreiber im Rahmen des Konzepts zur Verhinderung von Störfällen und des Sicherheitsmanagementsystems festgelegt hat, sowie Einrichtung von Mechanismen zur Untersuchung und Korrektur bei Nichterreichung dieser Ziele. Die Verfahren umfassen das System für die Meldung von Ereignissen, insbesondere von solchen, bei denen Schutzmaßnahmen versagt haben, sowie die entsprechenden Untersuchungen und Folgemaßnahmen, bei denen einschlägige Erfahrungen und Erkenntnisse aus innerbetrieblichen und außerbetrieblichen Ereignissen zugrunde zu legen sind. Die Verfahren können auch Leistungsindikatoren wie sicherheitsbezogene Leistungsindikatoren und andere relevante Indikatoren beinhalten. Systematische Überprüfung und Bewertung Festlegung und Anwendung von Verfahren zur regelmäßigen systematischen Bewertung des Konzepts zur Verhinderung von Störfällen und der Wirksamkeit und Angemessenheit des Sicherheitsmanagementsystems. Von der Leitung des Betriebsbereichs entsprechend dokumentierte Überprüfung der Leistungsfähigkeit des bestehenden Konzepts und des Sicherheitsmanagementsystems sowie seine Aktualisierung, einschließlich der Erwägung und Einarbeitung notwendiger Änderungen gemäß der systematischen Überprüfung und Bewertung.
 
 ### Anhang IV — Informationen in den Alarm- und Gefahrenabwehrplänen
 
-1.
+1. Namen oder betriebliche Stellung der Personen, die zur Einleitung von Sofortmaßnahmen ermächtigt sind, sowie der Person, die für die Durchführung und Koordinierung der Abhilfemaßnahmen auf dem Gelände des Betriebsbereichs verantwortlich ist.
 
-2.
+2. Name oder betriebliche Stellung der Person, die für die Verbindung zu der für die externen Alarm- und Gefahrenabwehrpläne zuständigen Behörde verantwortlich ist.
 
-3.
+3. Für vorhersehbare Umstände oder Vorfälle, die für das Auslösen eines Störfalls ausschlaggebend sein können, in jedem Einzelfall eine Beschreibung der Maßnahmen, die zur Kontrolle dieser Umstände bzw. dieser Vorfälle sowie zur Begrenzung der Auswirkungen zu treffen sind, sowie eine Beschreibung der zur Verfügung stehenden Sicherheitsausrüstungen und Einsatzmittel.
 
-4.
+4. Vorkehrungen zur Begrenzung der Risiken für Personen auf dem Gelände des Betriebsbereichs, einschließlich Angaben über die Art der Alarmierung sowie das von den Personen bei Alarm erwartete Verhalten.
 
-5.
+5. Vorkehrungen zur frühzeitigen Warnung der für die Einleitung der in den externen Alarm- und Gefahrenabwehrplänen vorgesehenen Maßnahmen zuständigen Behörde, Art der Informationen, die bei der ersten Meldung mitzuteilen sind, sowie Vorkehrungen zur Übermittlung von detaillierteren Informationen, sobald diese verfügbar sind.
 
-6.
+6. Vorkehrungen zur Ausbildung und Schulung des Personals in den Aufgaben, deren Wahrnehmung von ihm erwartet wird, sowie gegebenenfalls zur Koordinierung dieser Ausbildung und Schulung mit externen Notfall- und Rettungsdiensten.
 
-7.
+7. Vorkehrungen zur Unterstützung von Abhilfemaßnahmen außerhalb des Geländes des Betriebsbereichs.
 
 ### Anhang V — Information der Öffentlichkeit
 
-Teil 1: Informationen zu Betriebsbereichen der unteren und der oberen Klasse
+1. Name oder Firma des Betreibers und vollständige Anschrift des Betriebsbereichs.
 
-1.
+2. Bestätigung, dass der Betriebsbereich den Vorschriften dieser Verordnung unterliegt und dass der zuständigen Behörde die Anzeige nach § 7 Absatz 1 und bei Betriebsbereichen der oberen Klasse der Sicherheitsbericht nach § 9 Absatz 1 vorgelegt wurde.
 
-2.
+3. Verständlich abgefasste Erläuterung der Tätigkeiten im Betriebsbereich.
 
-3.
+4. Gebräuchliche Bezeichnungen oder – bei gefährlichen Stoffen im Sinne der Stoffliste in Anhang I Nummer 1 – generische Bezeichnung oder Gefahreneinstufung der im Betriebsbereich vorhandenen relevanten gefährlichen Stoffe, von denen ein Störfall ausgehen könnte, sowie Angabe ihrer wesentlichen Gefahreneigenschaften in einfachen Worten.
 
-4.
+5. Allgemeine Informationen darüber, wie die betroffene Bevölkerung erforderlichenfalls gewarnt wird; angemessene Informationen über das Verhalten bei einem Störfall oder Hinweis, wo diese Informationen elektronisch zugänglich sind.
 
-5.
+6. Datum der letzten Vor-Ort-Besichtigung nach § 17 Absatz 2 oder Hinweis, wo diese Information elektronisch zugänglich ist; Unterrichtung darüber, wo ausführlichere Informationen zur Vor-Ort-Besichtigung und zum Überwachungsplan nach § 17 Absatz 1 unter Berücksichtigung des Schutzes öffentlicher oder privater Belange nach den Bestimmungen des Bundes und der Länder über den Zugang zu Umweltinformationen auf Anfrage eingeholt werden können.
 
-6.
+7. Einzelheiten darüber, wo weitere Informationen unter Berücksichtigung des Schutzes öffentlicher oder privater Belange nach den Bestimmungen des Bundes und der Länder über den Zugang zu Umweltinformationen eingeholt werden können.
 
-7.
+1. Allgemeine Informationen zu den Gefahren, die von einem Störfall ausgehen können, einschließlich ihrer möglichen Auswirkungen auf die menschliche Gesundheit und die Umwelt und zusammenfassende Darstellung der wesentlichen Störfallszenarien und der Maßnahmen, mit denen diese Szenarien verhindert werden oder ihre Auswirkungen begrenzt werden sollen.
 
-Teil 2: Weitergehende Informationen zu Betriebsbereichen der oberen Klasse
+2. Bestätigung, dass der Betreiber verpflichtet ist, auf dem Gelände des Betriebsbereichs – auch in Zusammenarbeit mit Notfall- und Rettungsdiensten – geeignete Maßnahmen zur Bekämpfung von Störfällen und zur größtmöglichen Begrenzung der Auswirkungen von Störfällen zu treffen.
 
-1.
+3. Angemessene Informationen aus den externen Alarm- und Gefahrenabwehrplänen zur Bekämpfung der Auswirkungen von Ereignissen außerhalb des Betriebsgeländes mit der Aufforderung, allen Anordnungen von Notfall- oder Rettungsdiensten im Fall eines Ereignisses Folge zu leisten.
 
-2.
-
-3.
-
-4.
+4. Gegebenenfalls Angabe, ob der Betriebsbereich in der Nähe des Hoheitsgebiets eines anderen Mitgliedstaats liegt und damit die Möglichkeit besteht, dass ein Störfall grenzüberschreitende Auswirkungen nach dem Übereinkommen über die grenzüberschreitenden Auswirkungen von Industrieunfällen der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) hat.
 
 ### Anhang VI — Meldungen
 
-Teil 1: Kriterien
+I. Ein Ereignis, welches unter Nummer 1 fällt oder mindestens eine der in Nummern 2, 3, 4 und 5 beschriebenen Folgen hat, ist der zuständigen Behörde mitzuteilen.1.Beteiligte StoffeJede ereignisbedingte Entzündung, Explosion oder Freisetzung eines gefährlichen Stoffes mit einer Menge von mindestens 5 % der in Spalte 5 der Stoffliste in Anhang I angegebenen Mengenschwelle.2.Schädigungen von Personen oder Haus- und Grundeigentum mit nachstehenden Folgen: a)ein Todesfall,b)sechs Verletzungsfälle innerhalb des Betriebsbereichs mit Krankenhausaufenthalt von mindestens 24 Stunden,c)ein Verletzungsfall außerhalb des Betriebsbereichs mit Krankenhausaufenthalt von mindestens 24 Stunden,d)Beschädigung und Unbenutzbarkeit einer oder mehrerer Wohnungen außerhalb des Betriebsbereichs,e)Evakuierung oder Einschließung von Personen für eine Dauer von mehr als 2 Stunden mit einem Wert von mindestens 500 Personenstunden,f)Unterbrechung der Versorgung mit Trinkwasser, Strom oder Gas oder der Telefonverbindung für eine Dauer von mehr als 2 Stunden mit einem Wert von mindestens 1 000 Personenstunden.3.Unmittelbare Umweltschädigungen a)Dauer- oder langfristige Schädigungen terrestrischer Lebensräume –gesetzlich geschützter, für Umwelt oder Naturschutz wichtiger Lebensraum: ab 0,5 ha,–großräumiger Lebensraum, einschließlich landwirtschaftlich genutzter Flächen: ab 10 ha.b)Erhebliche oder langfristige Schädigungen von Lebensräumen in Oberflächengewässern oder im Meer–Fluss, Kanal, Bach: ab 10 km,–See oder Teich: ab 1 ha,–Delta: ab 2 ha,–Meer oder Küstengebiet: ab 2 ha.c)Erhebliche Schädigung des Grundwassers1–ab 1 ha.4.Sachschäden a)Sachschäden im Betriebsbereich: ab 2 Millionen Euro,b)Sachschäden außerhalb des Betriebsbereichs: ab 0,5 Millionen Euro.5.Grenzüberschreitende SchädigungenJeder unmittelbar durch einen gefährlichen Stoff verursachte Störfall mit Folgen, die über das Hoheitsgebiet der Bundesrepublik Deutschland hinausgehen. Beteiligte Stoffe Jede ereignisbedingte Entzündung, Explosion oder Freisetzung eines gefährlichen Stoffes mit einer Menge von mindestens 5 % der in Spalte 5 der Stoffliste in Anhang I angegebenen Mengenschwelle. Schädigungen von Personen oder Haus- und Grundeigentum mit nachstehenden Folgen: a)ein Todesfall,b)sechs Verletzungsfälle innerhalb des Betriebsbereichs mit Krankenhausaufenthalt von mindestens 24 Stunden,c)ein Verletzungsfall außerhalb des Betriebsbereichs mit Krankenhausaufenthalt von mindestens 24 Stunden,d)Beschädigung und Unbenutzbarkeit einer oder mehrerer Wohnungen außerhalb des Betriebsbereichs,e)Evakuierung oder Einschließung von Personen für eine Dauer von mehr als 2 Stunden mit einem Wert von mindestens 500 Personenstunden,f)Unterbrechung der Versorgung mit Trinkwasser, Strom oder Gas oder der Telefonverbindung für eine Dauer von mehr als 2 Stunden mit einem Wert von mindestens 1 000 Personenstunden. ein Todesfall, sechs Verletzungsfälle innerhalb des Betriebsbereichs mit Krankenhausaufenthalt von mindestens 24 Stunden, ein Verletzungsfall außerhalb des Betriebsbereichs mit Krankenhausaufenthalt von mindestens 24 Stunden, Beschädigung und Unbenutzbarkeit einer oder mehrerer Wohnungen außerhalb des Betriebsbereichs, Evakuierung oder Einschließung von Personen für eine Dauer von mehr als 2 Stunden mit einem Wert von mindestens 500 Personenstunden, Unterbrechung der Versorgung mit Trinkwasser, Strom oder Gas oder der Telefonverbindung für eine Dauer von mehr als 2 Stunden mit einem Wert von mindestens 1 000 Personenstunden. Unmittelbare Umweltschädigungen a)Dauer- oder langfristige Schädigungen terrestrischer Lebensräume –gesetzlich geschützter, für Umwelt oder Naturschutz wichtiger Lebensraum: ab 0,5 ha,–großräumiger Lebensraum, einschließlich landwirtschaftlich genutzter Flächen: ab 10 ha.b)Erhebliche oder langfristige Schädigungen von Lebensräumen in Oberflächengewässern oder im Meer–Fluss, Kanal, Bach: ab 10 km,–See oder Teich: ab 1 ha,–Delta: ab 2 ha,–Meer oder Küstengebiet: ab 2 ha.c)Erhebliche Schädigung des Grundwassers1–ab 1 ha. Dauer- oder langfristige Schädigungen terrestrischer Lebensräume –gesetzlich geschützter, für Umwelt oder Naturschutz wichtiger Lebensraum: ab 0,5 ha,–großräumiger Lebensraum, einschließlich landwirtschaftlich genutzter Flächen: ab 10 ha. gesetzlich geschützter, für Umwelt oder Naturschutz wichtiger Lebensraum: ab 0,5 ha, großräumiger Lebensraum, einschließlich landwirtschaftlich genutzter Flächen: ab 10 ha. Erhebliche oder langfristige Schädigungen von Lebensräumen in Oberflächengewässern oder im Meer–Fluss, Kanal, Bach: ab 10 km,–See oder Teich: ab 1 ha,–Delta: ab 2 ha,–Meer oder Küstengebiet: ab 2 ha. Fluss, Kanal, Bach: ab 10 km, See oder Teich: ab 1 ha, Delta: ab 2 ha, Meer oder Küstengebiet: ab 2 ha. Erhebliche Schädigung des Grundwassers1–ab 1 ha. ab 1 ha. Sachschäden a)Sachschäden im Betriebsbereich: ab 2 Millionen Euro,b)Sachschäden außerhalb des Betriebsbereichs: ab 0,5 Millionen Euro. Sachschäden im Betriebsbereich: ab 2 Millionen Euro, Sachschäden außerhalb des Betriebsbereichs: ab 0,5 Millionen Euro. Grenzüberschreitende Schädigungen Jeder unmittelbar durch einen gefährlichen Stoff verursachte Störfall mit Folgen, die über das Hoheitsgebiet der Bundesrepublik Deutschland hinausgehen.
 
-I.
+II. Ein Ereignis, das aus technischer Sicht im Hinblick auf die Verhinderung von Störfällen und die Begrenzung ihrer Folgen besonders bedeutsam ist, aber den vorstehenden mengenbezogenen Kriterien nicht entspricht, ist der zuständigen Behörde mitzuteilen.
 
-1.
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-3.
-
-a)
-
-–
-
-–
-
-b)
-
-–
-
-–
-
-–
-
-–
-
-c)
-
-–
-
-4.
-
-a)
-
-b)
-
-5.
-
-II.
-
-III.
-
-Teil 2: Inhalte
+III. Ein Ereignis, bei dem Stoffe nach Anhang I freigesetzt werden oder zur unerwünschten Reaktion kommen und hierdurch Schäden eintreten oder Gefahren für die Allgemeinheit oder die Nachbarschaft nicht offensichtlich ausgeschlossen werden können, ist der zuständigen Behörde mitzuteilen.
 
 Mitteilung nach § 19 Abs. 2
 
-1.
+1. Allgemeine Angaben
 
-1.1
+1.1 Einstufung des Ereignisses nach Anhang VI Teil 1 I.II. ⃞III. ⃞ ⃞ 1⃞ 2a⃞ 3a⃞ 4a⃞ 5⃞ 2b⃞ 3b⃞ 4b⃞ 2c⃞ 3c⃞ 2d⃞ 2e⃞ 2f
 
-1.2
+1.2 Name und Anschrift des Betreibers:
 
-1.3
+1.3 Datum und Zeitpunkt (Beginn/Ende) des Ereignisses: TagMonatJahrStunde
 
-1.4
+1.4 Ort des Ereignisses (PLZ, Anschrift, Bundesland):
 
-1.5
+1.5 Betriebsbereich (Art, Branche in Anlehnung an Bezeichnung der 4. BImSchV): .......... Betriebsbereich unterliegt:⃞ Grundpflichten⃞ Erweiterte Pflichten ⃞ Grundpflichten ⃞ Erweiterte Pflichten
 
-Betriebsbereich unterliegt:
+1.6 Gestörter Teil des Betriebsbereichs:
 
-1.6
+1.7 Status der schriftlichen Mitteilung nach § 19 Abs. 2: ⃞ Erstmitteilung ⃞ Ergänzung oder Berichtigung ⃞ Abschließende Mitteilung
 
-1.7
+2. Art des Ereignisses und beteiligte Stoffe
 
-2.
+2.1 Art des Ereignisses:
 
-2.1
+2.1.1 ⃞ Explosiona) Auslösende Stoffe b) Freigesetzte Stoffe
 
-2.1.1
+2.1.2 ⃞ Branda) In Brand geratene Stoffe b) Entstandene Stoffe
 
-2.1.2
+2.1.3 ⃞ Stofffreisetzung in die Atmosphärea) Freigesetzte Stoffe b) Entstandene Stoffe
 
-2.1.3
+2.1.4 ⃞ Stofffreisetzung in Gewässera) Freigesetzte Stoffe b) Entstandene Stoffe
 
-2.1.4
+2.1.5 ⃞ Stofffreisetzung in den Bodena) Freigesetzte Stoffe b) Entstandene Stoffe
 
-2.1.5
+2.2 Beteiligte Stoffechem. Bezeichnung(a) Ausgangsprodukt (b) Zwischenprodukt (c) Endprodukt (d) Nebenprodukt (e) Rückstand (f) entstandener StoffCAS-Nr.Nr. des Stoffes oder der Gefahrenkategorie nach Anhang IMengenan- gabe in kgStoff 1 Stoff 2 … … … … … Stoff x
 
-2.2
+3. Beschreibung der Umstände des Ereignisses
 
-3.
+3.1 Betriebsbedingungen des gestörten Anlagenteils:
 
-3.1
+3.2 Auslösendes Ereignis und Ablauf des Ereignisses:
 
-3.2
+3.3 Funktion des Sicherheitssystems, Einleitung von Sicherheitsmaßnahmen:
 
-3.3
+3.4 Umgebungs- und atmosphärische Bedingungen (Niederschläge, Windgeschwindigkeit, Windrichtung):
 
-3.4
+3.5 Hinweis auf ähnliche vorangegangene Ereignisse im Betriebsbereich:
 
-3.5
+4. Ursachenbeschreibung
 
-4.
+4.1 Ursache des Ereignisses: ⃞ Ursache bekannt ⃞ Ursachenuntersuchung wird fortgeführt ⃞ Ursache nach Abschluss der Untersuchung nicht aufklärbar Beschreibung/Erläuterung: ..........
 
-4.1
+4.2 Ursachenklassifizierung: ⃞ betriebsbedingt ⃞ menschlicher Fehler ⃞ umgebungsbedingt ⃞ Sonstiges ..........
 
-4.2
+5. Art und Umfang des Schadens
 
-5.
+5.1 innerhalb des Betriebsbereichs
 
-5.1
+5.1.1 Personenschäden: (Beschäftigte/Einsatzkräfte) ExplosionBrandFreisetzungTote:///Verletzte: ambulante Behandlung stationäre Behandlung / / / / / /Personen mit Vergiftungen: ambulante Behandlung stationäre Behandlung / / / / / /
 
-5.1.1
+5.1.2 Sonstige Beeinträchtigung von Personen:⃞ ja⃞ neinArt der Beeinträchtigung/Dauer: ..........Anzahl der Personen: ..........
 
-5.1.2
+5.1.3 Sachschäden:⃞ ja⃞ neinArt:..........Geschätzte Kosten: ..........
 
-5.1.3
+5.1.4 Umweltschäden:⃞ ja⃞ neinArt: ..........Umfang: ..........Geschätzte Kosten: ..........
 
-5.1.4
+5.1.5 ⃞ Die Gefahr besteht nicht mehr. ⃞ Die Gefahr besteht noch. ⃞ Art der Gefahr:
 
-5.1.5
+5.2 außerhalb des Betriebsbereichs
 
-5.2
+5.2.1 Personenschäden: (Beschäftigte/Einsatzkräfte/Bevölkerung) ExplosionBrandFreisetzungTote:/ // // /Verletzte: ambulante Behandlung stationäre Behandlung / / / / / / / / / / / /Personen mit Vergiftungen: ambulante Behandlung stationäre Behandlung / / / / / / / / / / / /
 
-5.2.1
+5.2.2 Sonstige Beeinträchtigung von Personen:⃞ ja⃞ neinArt der Beeinträchtigung/Dauer: ..........Anzahl der Personen: ..........
 
-5.2.2
+5.2.3 Sachschäden:⃞ ja⃞ neinArt: ..........Geschätzte Kosten: ..........
 
-5.2.3
+5.2.4 Umweltschäden:⃞ ja⃞ neinArt: ..........Umfang: ..........Geschätzte Kosten: ..........
 
-5.2.4
+5.2.5 Störung der öffentlichen Versorgung:⃞ ja⃞ neinArt: ..........Umfang/Dauer:..........Geschätzte Kosten: ..........
 
-5.2.5
+5.2.6 Grenzüberschreitende Schäden:⃞ ja⃞ neinArt: ..........Umfang: ..........Geschätzte Kosten: ..........
 
-5.2.6
+5.2.7 Gefahr besteht noch:⃞ ja⃞ neinArt: ..........Umfang: ..........
 
-5.2.7
+6. Notfallmaßnahmen
 
-6.
+6.1 Während und nach dem Ereignis ergriffene Schutzmaßnahmen (innerhalb und außerhalb des Betriebsbereichs):
 
-6.1
+6.2 Maßnahmen zur Beseitigung von Sachschäden (innerhalb und außerhalb des Betriebsbereichs):
 
-6.2
+6.3 Maßnahmen zur Beseitigung von Umweltschäden (innerhalb und außerhalb des Betriebsbereichs):
 
-6.3
+6.4 Maßnahmen der externen Gefahrenabwehrkräfte
 
-6.4
+6.4.1 Schutzmaßnahmen:
 
-6.4.1
+6.4.2 Evakuierung:
 
-6.4.2
+6.4.3 Dekontamination:
 
-6.4.3
+6.4.4 Sanierung:
 
-6.4.4
+7. Folgerungen für die Verbesserung der Anlagensicherheit
 
-7.
+7.1 Vorkehrungen zur Vermeidung ähnlicher Ereignisse:
 
-7.1
+7.2 Vorkehrungen zur Begrenzung der Auswirkungen des Ereignisses (innerhalb und außerhalb des Betriebsbereichs):
 
-7.2
-
-8.
+8. Zeitplan für die Umsetzung der Maßnahmen: Ort, DatumUnterschrift
 
 ### Anhang VII — (weggefallen)

@@ -20,15 +20,15 @@ Diese Verordnung regelt die Einzelheiten der elektronischen Speicherung und Bere
 
 (2) Die Daten sind als strukturierter maschinenlesbarer Datensatz im Dateiformat der Extensible Markup Language (XML) zu speichern. Die Daten sind im UNICODE-Zeichensatz UTF 8 zu codieren. Das Bundesministerium des Innern und für Heimat gibt die Struktur des XML-Dokumentes als XML-Schema-Definition (XSD) im Bundesanzeiger bekannt.
 
-(3) Die Datei ist nach dem Muster „JJJJMMTT_BeherbMeldeschein_Zaehler.xml“ zu benennen. Dabei ist einzusetzen:
+(3) Die Datei ist nach dem Muster „JJJJMMTT_
 
-1.
+1. bei „JJJJ“ das Jahr des ersten Beherbergungstags mit vier Ziffern,
 
-2.
+2. bei „MM“ der Monat des ersten Beherbergungstags mit zwei Ziffern,
 
-3.
+3. bei „TT“ der Kalendertag des ersten Beherbergungstags mit zwei Ziffern und
 
-4.
+4. bei „Zaehler“ eine fortlaufende Nummerierung der Datensätze eines Tages beginnend mit der Zahl 1.
 
 (4) Die Datensätze sind sortiert in Ordnerstrukturen nach Jahren und Monaten wie in Absatz 3 Nummer 1 und 2 bestimmt zu speichern.
 
@@ -46,16 +46,16 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Anlage — (zu § 2 Absatz 5)
 
-a)
+a) Staat, in dem sich der Wohnort befindet
 
-b)
+b) Postleitzahl des Wohnorts
 
-c)
+c) Wohnortbezeichnung
 
-d)
+d) sofern vorhanden, Zusätze zum Wohnort
 
-e)
+e) Straßenbezeichnung
 
-f)
+f) Hausnummerziffern sowie gegebenenfalls zusätzlich Buchstaben oder Zusatzziffern
 
-g)
+g) sofern vorhanden, Ergänzungen zur Anschrift

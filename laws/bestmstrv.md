@@ -14,63 +14,63 @@ Auf Grund des § 51a Absatz 2 in Verbindung mit Absatz 1 der Handwerksordnung in
 
 Die Meisterprüfung im handwerksähnlichen Bestattungsgewerbe umfasst folgende selbständige Prüfungsteile:
 
-1.
+1. die Prüfung der meisterhaften Verrichtung der Tätigkeiten (Teil I),
 
-2.
+2. die Prüfung der besonderen fachtheoretischen Kenntnisse (Teil II),
 
-3.
+3. die Prüfung der besonderen betriebswirtschaftlichen, kaufmännischen und rechtlichen Kenntnisse (Teil III) und
 
-4.
+4. die Prüfung der erforderlichen berufs- und arbeitspädagogischen Kenntnisse (Teil IV).
 
 ### § 2 — Meisterprüfungsberufsbild
 
-(1) Durch die Meisterprüfung wird festgestellt, ob der Prüfling befähigt ist, seine berufliche Handlungskompetenz eigenverantwortlich umzusetzen und an neue Bedarfslagen in diesen Bereichen anzupassen.
+(1) Durch die Meisterprüfung wird festgestellt, ob der Prüfling befähigt ist,
 
-1.
+1. einen Betrieb zu führen,
 
-2.
+2. technische, kaufmännische und personalwirtschaftliche Leitungsaufgaben wahrzunehmen,
 
-3.
+3. die Ausbildung durchzuführen und
 
 (2) Im Bestattungsgewerbe sind zum Zwecke der Meisterprüfung folgende Fertigkeiten und Kenntnisse als Qualifikationen zu berücksichtigen:
 
-1.
+1. Kundenwünsche ermitteln, Kunden beraten, Serviceleistungen anbieten, Auftragsverhandlungen führen und Auftragsziele festlegen, Leistungen kalkulieren und Angebote erstellen, Verträge schließen,
 
-2.
+2. Aufgaben der technischen, kaufmännischen und personalwirtschaftlichen Betriebsführung wahrnehmen, insbesondere unter Berücksichtigung der Betriebsorganisation, der betrieblichen Aus- und Weiterbildung, des Qualitätsmanagements, des Arbeitsschutzrechtes, des Datenschutzes, des Umweltschutzes sowie von Informations- und Kommunikationstechniken,
 
-3.
+3. Auftragsabwicklungsprozesse planen, organisieren, durchführen und überwachen,
 
-4.
+4. Aufträge durchführen, insbesondere unter Berücksichtigung von Verfahren und Methoden der Arbeitsplanung und -organisation, von berufsbezogenen rechtlichen Vorschriften einschließlich der Hygienevorschriften, technischen Normen und der allgemein anerkannten Regeln der Technik, von Personal, Material und Geräten sowie von Möglichkeiten zum Einsatz von Auszubildenden,
 
-5.
+5. Formalitäten mit Behörden sowie privaten und öffentlich-rechtlichen Dienstleistungseinrichtungen abwickeln, Presse- und Öffentlichkeitsarbeit planen und veranlassen, insbesondere im Hinblick auf die Bestattungsvorsorge, sowie die Bestattungs-, Trauer-, Erinnerungs- und Friedhofskultur,
 
-6.
+6. religiöse Grundlagen sowie regionale, soziale und weltanschauliche Besonderheiten der Bestattungs-, Trauer-, Erinnerungs- und Friedhofskultur berücksichtigen,
 
-7.
+7. Erd- und Feuerbestattungen sowie Exhumierungen und Umbettungen unter Berücksichtigung des Einsatzes von Techniken, Werkzeugen, Geräten und Maschinen planen, koordinieren, durchführen und kontrollieren,
 
-8.
+8. Einsatz von Waren und Dienstleistungen unter ökonomischen, ökologischen, gestalterischen, ethischen und hygienischen Aspekten planen, koordinieren und kontrollieren,
 
-9.
+9. technische und organisatorische Aufgaben unter Berücksichtigung von Instrumenten, Methoden und Verfahren zum Betrieb von Friedhöfen wahrnehmen; neue Beisetzungsflächen im Rahmen behördlich vorgegebener Bebauungsplanung erschließen,
 
-10.
+10. technische und organisatorische Aufgaben unter Berücksichtigung von Instrumenten, Methoden und Verfahren zum Betrieb von Krematorien wahrnehmen,
 
-11.
+11. Pläne, insbesondere Arbeits- und Organisationspläne, anfertigen sowie Skizzen und Entwürfe erstellen und präsentieren,
 
-12.
+12. Logistikkonzepte für Betriebs- und Lagerausstattung entwickeln und umsetzen,
 
-13.
+13. Einsatztauglichkeit von Werkzeugen, Geräten und Maschinen überwachen und gewährleisten,
 
-14.
+14. technische, organisatorische und dienstleistungsbezogene Mängel identifizieren, Maßnahmen zur Beseitigung ergreifen, Ergebnisse bewerten und dokumentieren,
 
-15.
+15. Leistungen kontrollieren, abnehmen und protokollieren, Vor- und Nachkalkulation durchführen.
 
 ### § 3 — Gliederung des Teils I
 
 Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
-1.
+1. ein Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch,
 
-2.
+2. eine Situationsaufgabe.
 
 ### § 4 — Meisterprüfungsprojekt
 
@@ -78,13 +78,13 @@ Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
 (2) Das Meisterprüfungsprojekt besteht aus Planungs-, Durchführungs- und Dokumentationsarbeiten.
 
-(3) Als Meisterprüfungsprojekt ist zu planen, durchzuführen und zu dokumentieren.
+(3) Als Meisterprüfungsprojekt ist
 
-1.
+1. eine Erdbestattung mit nationalem oder internationalem Bezug,
 
-2.
+2. eine Feuerbestattung mit nationalem oder internationalem Bezug oder
 
-3.
+3. eine Exhumierung oder Umbettung unter Berücksichtigung behördlicher Vorgaben
 
 (4) Die Entwurfs-, Planungs-, Kalkulations- und Dokumentationsunterlagen werden aufgabenbezogen mit insgesamt 50 Prozent und die durchgeführten Arbeiten ebenfalls mit 50 Prozent gewichtet.
 
@@ -92,23 +92,23 @@ Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
 Über das abgeschlossene Meisterprüfungsprojekt hat der Prüfling in einem Fachgespräch nachzuweisen, dass er befähigt ist,
 
-1.
+1. die fachlichen Zusammenhänge aufzuzeigen, die dem Meisterprüfungsprojekt zugrunde liegen,
 
-2.
+2. den Ablauf des Meisterprüfungsprojekts zu begründen,
 
-3.
+3. mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darzustellen und dabei neue Entwicklungen zu berücksichtigen.
 
 ### § 6 — Situationsaufgabe
 
 (1) Die Situationsaufgabe ist auftragsorientiert und vervollständigt den Qualifikationsnachweis für die Meisterprüfung im Bestattungsgewerbe.
 
-(2) Als Situationsaufgabe sind technische, organisatorische oder dienstleistungsbezogene Mängel zu identifizieren für eine vorgegebene Auf dieser Grundlage ist eine Dokumentation zu erstellen, die insbesondere Maßnahmen zur Beseitigung der Mängel aufzeigt.
+(2) Als Situationsaufgabe sind technische, organisatorische oder dienstleistungsbezogene Mängel zu identifizieren für eine vorgegebene
 
-1.
+1. Erdbestattung,
 
-2.
+2. Feuerbestattung oder
 
-3.
+3. Exhumierung oder Umbettung.
 
 (3) Die Situationsaufgabe ist aus einem Bereich nach Absatz 2 Satz 1 Nummer 1, 2 oder 3 vorzugeben, der nicht Gegenstand des Meisterprüfungsprojekts nach § 4 Absatz 3 war.
 
@@ -126,71 +126,13 @@ Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
 (2) In jedem Handlungsfeld ist mindestens eine Aufgabe zu bearbeiten, die fallorientiert sein muss.
 
-1.
+1. Bestattungsberatung Der Prüfling soll nachweisen, dass er in der Lage ist, Beratungsaufgaben unter Berücksichtigung wirtschaftlicher und ökologischer Aspekte sowie ethischer, religiöser und kultureller Anforderungen in einem Bestattungsbetrieb zu bearbeiten. Dabei soll er berufsbezogene Sachverhalte analysieren und bewerten. Bei der jeweiligen Aufgabenstellung sollen mehrere der unter den Buchstaben a bis g aufgeführten Qualifikationen verknüpft werden: a)Konzepte für die Durchführung von Kundengesprächen zu Bestattungen sowie zur Bestattungsvorsorge und deren Finanzierung entwickeln; Voraussetzungen für die Entgegennahme des Bestattungsauftrages prüfen,b)Beratungskonzepte für trauerpsychologische Hilfestellungen entwickeln,c)Ablauf von Trauerfeiern unter Berücksichtigung ethischer und kultureller Aspekte planen und bewerten,d)Trauermedien entwerfen und beurteilen,e)Produkt- und Leistungspräsentationen auch unter Einsatz von modernen Präsentationstechniken und -medien entwickeln,f)ethische sowie hygienische Anforderungen an Planung und Durchführung von Bestattungen beschreiben und bewerten,g)die Bedeutung religiöser Grundlagen sowie regionaler, sozialer und weltanschaulicher Besonderheiten der Bestattungs-, Trauer-, Erinnerungs- und Friedhofskultur darstellen und bewerten. Konzepte für die Durchführung von Kundengesprächen zu Bestattungen sowie zur Bestattungsvorsorge und deren Finanzierung entwickeln; Voraussetzungen für die Entgegennahme des Bestattungsauftrages prüfen, Beratungskonzepte für trauerpsychologische Hilfestellungen entwickeln, Ablauf von Trauerfeiern unter Berücksichtigung ethischer und kultureller Aspekte planen und bewerten, Trauermedien entwerfen und beurteilen, Produkt- und Leistungspräsentationen auch unter Einsatz von modernen Präsentationstechniken und -medien entwickeln, ethische sowie hygienische Anforderungen an Planung und Durchführung von Bestattungen beschreiben und bewerten, die Bedeutung religiöser Grundlagen sowie regionaler, sozialer und weltanschaulicher Besonderheiten der Bestattungs-, Trauer-, Erinnerungs- und Friedhofskultur darstellen und bewerten.
 
-a)
+2. Friedhofs- und Krematoriumsbetrieb Der Prüfling soll nachweisen, dass er in der Lage ist, technische und organisatorische Aufgaben unter Berücksichtigung wirtschaftlicher und ökologischer Aspekte zu bearbeiten. Dabei soll er berufsbezogene Sachverhalte analysieren und bewerten. Bei der jeweiligen Aufgabenstellung sollen mehrere der unter den Buchstaben a bis e aufgeführten Qualifikationen verknüpft werden: a)Anforderungen an Anlagen und Maschinen für den Friedhofs- und Krematoriumsbetrieb beschreiben und beurteilen,b)Arbeits- und Montageverfahren, insbesondere beim Einbringen von Schalungen sowie beim Herrichten und Überbauen von Gräbern, darstellen und bewerten,c)Ofen- und Filtertechniken für Krematorien darstellen und auswählen sowie die Auswahl begründen,d)ethische Anforderungen an den Betrieb von Friedhöfen und Krematorien beschreiben und bewerten, insbesondere bei der Behandlung von Aschen Verstorbener,e)den umweltgerechten und hygienischen Betrieb von Friedhöfen und Krematorien darstellen und bewerten. Anforderungen an Anlagen und Maschinen für den Friedhofs- und Krematoriumsbetrieb beschreiben und beurteilen, Arbeits- und Montageverfahren, insbesondere beim Einbringen von Schalungen sowie beim Herrichten und Überbauen von Gräbern, darstellen und bewerten, Ofen- und Filtertechniken für Krematorien darstellen und auswählen sowie die Auswahl begründen, ethische Anforderungen an den Betrieb von Friedhöfen und Krematorien beschreiben und bewerten, insbesondere bei der Behandlung von Aschen Verstorbener, den umweltgerechten und hygienischen Betrieb von Friedhöfen und Krematorien darstellen und bewerten.
 
-b)
+3. Auftragsabwicklung Der Prüfling soll nachweisen, dass er in der Lage ist, Auftragsabwicklungsprozesse, auch unter Anwendung branchenüblicher Software, erfolgs-, kunden- und qualitätsorientiert zu planen, durchzuführen und zu kontrollieren. Bei der jeweiligen Aufgabenstellung sollen mehrere der unter den Buchstaben a bis h aufgeführten Qualifikationen verknüpft werden: a)Möglichkeiten der Auftragsbeschaffung darstellen, Kundenwünsche ermitteln, Auftragsdaten erfassen,b)Angebotsunterlagen erstellen und Angebote auswerten, Angebotskalkulation durchführen,c)Methoden und Verfahren der Arbeitsplanung und -organisation unter Berücksichtigung des Bestattungsauftrages, des Einsatzes von Personal, Material und Geräten bewerten, dabei qualitätssichernde Aspekte darstellen sowie Schnittstellen zwischen Arbeitsbereichen berücksichtigen,d)berufsbezogene rechtliche Vorschriften und technische Normen sowie anerkannte Regeln der Technik anwenden, insbesondere Fragen der Haftung bei Dienstleistungen beurteilen,e)Arbeitspläne erstellen, dabei auch Informations- und Kommunikationssysteme anwenden,f)den auftragsbezogenen Einsatz von Material, Maschinen und Geräten bestimmen und begründen,g)Angebote externer Dienstleister prüfen und bewerten sowie Leistungen Dritter vermitteln,h)Nachkalkulation durchführen. Möglichkeiten der Auftragsbeschaffung darstellen, Kundenwünsche ermitteln, Auftragsdaten erfassen, Angebotsunterlagen erstellen und Angebote auswerten, Angebotskalkulation durchführen, Methoden und Verfahren der Arbeitsplanung und -organisation unter Berücksichtigung des Bestattungsauftrages, des Einsatzes von Personal, Material und Geräten bewerten, dabei qualitätssichernde Aspekte darstellen sowie Schnittstellen zwischen Arbeitsbereichen berücksichtigen, berufsbezogene rechtliche Vorschriften und technische Normen sowie anerkannte Regeln der Technik anwenden, insbesondere Fragen der Haftung bei Dienstleistungen beurteilen, Arbeitspläne erstellen, dabei auch Informations- und Kommunikationssysteme anwenden, den auftragsbezogenen Einsatz von Material, Maschinen und Geräten bestimmen und begründen, Angebote externer Dienstleister prüfen und bewerten sowie Leistungen Dritter vermitteln, Nachkalkulation durchführen.
 
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
+4. Betriebsführung und Betriebsorganisation Der Prüfling soll nachweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und Betriebsorganisation unter Berücksichtigung der rechtlichen Vorschriften, auch unter Anwendung von Informations- und Kommunikationssystemen, wahrzunehmen. Bei der jeweiligen Aufgabenstellung sollen mehrere der unter den Buchstaben a bis i aufgeführten Qualifikationen verknüpft werden: a)betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen,b)betriebliche Kostenstrukturen überprüfen; betriebliche Kennzahlen ermitteln,c)Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden vor dem Hintergrund technischer und wirtschaftlicher Entwicklungen erarbeiten,d)betriebliches Qualitätsmanagement planen und darstellen,e)Aufgaben der Personalverwaltung wahrnehmen, den Zusammenhang zwischen Personalverwaltung sowie Personalführung und -entwicklung darstellen,f)Maßnahmen zur psychischen Verarbeitung beruflicher Eindrücke und Erlebnisse entwickeln und bewerten,g)betriebsspezifische Maßnahmen zur Einhaltung der arbeitsschutzrechtlichen Bestimmungen und des Umweltschutzes entwickeln; Gefahrenpotenziale beurteilen und Maßnahmen zur Gefahrenvermeidung und -beseitigung festlegen,h)Betriebs- sowie Lagerausstattung und logistische Prozesse planen und darstellen,i)Chancen und Risiken betrieblicher Kooperation, auch unter Berücksichtigung von Betreibermodellen, darstellen und beurteilen. betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen, betriebliche Kostenstrukturen überprüfen; betriebliche Kennzahlen ermitteln, Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden vor dem Hintergrund technischer und wirtschaftlicher Entwicklungen erarbeiten, betriebliches Qualitätsmanagement planen und darstellen, Aufgaben der Personalverwaltung wahrnehmen, den Zusammenhang zwischen Personalverwaltung sowie Personalführung und -entwicklung darstellen, Maßnahmen zur psychischen Verarbeitung beruflicher Eindrücke und Erlebnisse entwickeln und bewerten, betriebsspezifische Maßnahmen zur Einhaltung der arbeitsschutzrechtlichen Bestimmungen und des Umweltschutzes entwickeln; Gefahrenpotenziale beurteilen und Maßnahmen zur Gefahrenvermeidung und -beseitigung festlegen, Betriebs- sowie Lagerausstattung und logistische Prozesse planen und darstellen, Chancen und Risiken betrieblicher Kooperation, auch unter Berücksichtigung von Betreibermodellen, darstellen und beurteilen.
 
 (3) Die Prüfung in Teil II ist schriftlich durchzuführen. Sie soll in jedem Handlungsfeld nicht länger als zwei Stunden und an einem Tag nicht länger als sechs Stunden dauern.
 
@@ -200,9 +142,9 @@ i)
 
 (6) Mindestvoraussetzung für das Bestehen des Teils II der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung. Die Prüfung des Teils II ist nicht bestanden, wenn
 
-1.
+1. ein Handlungsfeld mit weniger als 30 Punkten bewertet worden ist oder
 
-2.
+2. nach durchgeführter Ergänzungsprüfung zwei Handlungsfelder jeweils mit weniger als 50 Punkten bewertet worden sind.
 
 > (+++ § 8 Abs. 5 u. 6: Zur Anwendung vgl. § 10 +++)
 

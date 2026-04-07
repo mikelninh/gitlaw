@@ -8,11 +8,11 @@
 
 ### Eingangsformel
 
-Das Bundesministerium für Wirtschaft und Energie verordnet auf Grund jeweils in Verbindung mit § 23 Absatz 2 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154):
+Das Bundesministerium für Wirtschaft und Energie verordnet auf Grund
 
-–
+– des § 8 Absatz 1 Satz 6 des Gesetzes über Funkanlagen und Telekommunikationsendeinrichtungen, der zuletzt durch Artikel 2 Nummer 3 des Gesetzes vom 20. April 2012 (BGBl. I S. 606) geändert worden ist, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Verkehr und digitale Infrastruktur und
 
-–
+– des § 21 Absatz 2 des Elektromagnetische-Verträglichkeit-Gesetzes vom 14. Dezember 2016 (BGBl. I S. 2879)
 
 ### Inhaltsübersicht
 
@@ -22,35 +22,27 @@ Das Bundesministerium für Wirtschaft und Energie verordnet auf Grund jeweils in
 
 Diese Verordnung regelt die Anforderungen und das Verfahren
 
-1.
+1. im Hinblick auf Funkanlagen für a)die Anerkennung von Konformitätsbewertungsstellen als notifizierte Stellen undb)die Anerkennung von Konformitätsbewertungsstellen für Drittstaaten nach den in Anlage 1 zu dieser Verordnung aufgeführten Abkommen zwischen der Europäischen Gemeinschaft und den genannten Drittstaaten sowie die Anerkennung von Konformitätsbewertungsstellen als notifizierte Stellen und die Anerkennung von Konformitätsbewertungsstellen für Drittstaaten nach den in Anlage 1 zu dieser Verordnung aufgeführten Abkommen zwischen der Europäischen Gemeinschaft und den genannten Drittstaaten sowie
 
-a)
-
-b)
-
-2.
-
-a)
-
-b)
+2. im Hinblick auf die elektromagnetische Verträglichkeit von Betriebsmitteln für a)die Anerkennung von Konformitätsbewertungsstellen als notifizierte Stellen undb)die Anerkennung von Konformitätsbewertungsstellen für Drittstaaten nach den in Anlage 2 zu dieser Verordnung aufgeführten Abkommen zwischen der Europäischen Gemeinschaft und den genannten Drittstaaten. die Anerkennung von Konformitätsbewertungsstellen als notifizierte Stellen und die Anerkennung von Konformitätsbewertungsstellen für Drittstaaten nach den in Anlage 2 zu dieser Verordnung aufgeführten Abkommen zwischen der Europäischen Gemeinschaft und den genannten Drittstaaten.
 
 ### § 2 — Zuständige Behörde
 
 (1) Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur) ist im Rahmen dieser Verordnung zuständige Behörde für
 
-1.
+1. die Einrichtung und Durchführung des Verfahrens auf Anerkennung als notifizierte Stelle und Konformitätsbewertungsstelle für Drittstaaten und
 
-2.
+2. die Einrichtung und Durchführung der Verfahren zur Überwachung der notifizierten Stellen und Konformitätsbewertungsstellen für Drittstaaten.
 
 (2) Die Bundesnetzagentur gewährleistet, dass
 
-1.
+1. ausreichend kompetente Mitarbeiter zur ordnungsgemäßen Prüfung und Notifizierung zur Verfügung stehen, so dass die Person, die die Prüfung durchgeführt hat, nicht identisch ist mit der Person, die über die Anerkennung und Notifizierung entscheidet,
 
-2.
+2. es zu keinem Interessenkonflikt mit den Konformitätsbewertungsstellen kommt,
 
-3.
+3. bei der Ausübung ihrer Tätigkeit Objektivität, Unparteilichkeit und Vertraulichkeit gewahrt sind und
 
-4.
+4. weder sie noch mit der Notifizierung betraute Mitarbeiter Konformitätsbewertungen, oder Beratungsleistungen auf einer gewerblichen oder wettbewerblichen Basis anbieten oder erbringen.
 
 (3) Die Bundesnetzagentur unterrichtet die Europäische Kommission über das Verfahren zur Bewertung und Notifizierung von Konformitätsbewertungsstellen sowie über das Verfahren zur Überwachung notifizierter Stellen einschließlich diesbezüglicher Änderungen.
 
@@ -60,23 +52,17 @@ b)
 
 ### § 3 — Antrag
 
-(1) Um als notifizierte Stelle anerkannt zu werden, muss Es sind die Antragsunterlagen der Bundesnetzagentur zu verwenden.
+(1) Um als notifizierte Stelle anerkannt zu werden, muss
 
-1.
+1. ein schriftlicher oder elektronischer Antrag bei der Bundesnetzagentur gestellt werden und
 
-2.
+2. der Antragsteller muss in Deutschland seinen Hauptsitz haben.
 
 (2) Dem Antrag auf Notifizierung legt der Antragsteller Folgendes bei:
 
-1.
+1. eine Beschreibung a)der Konformitätsbewertungstätigkeiten,b)des Konformitätsmoduls oder der Konformitätsmodule undc)des Geräts für das oder der Funkanlage für die der Antragsteller Kompetenz beansprucht und der Konformitätsbewertungstätigkeiten, des Konformitätsmoduls oder der Konformitätsmodule und des Geräts für das oder der Funkanlage für die der Antragsteller Kompetenz beansprucht und
 
-a)
-
-b)
-
-c)
-
-2.
+2. wenn vorhanden, eine Akkreditierungsurkunde, die von der nationalen Akkreditierungsstelle ausgestellt wurde, und in der diese bescheinigt, dass der Antragsteller die Anforderungen des § 5 dieser Verordnung erfüllt.
 
 (3) Kann der Antragsteller keine Akkreditierungsurkunde vorweisen, so legt er der Bundesnetzagentur als Nachweis alle Unterlagen vor, die erforderlich sind, um zu überprüfen, festzustellen und regelmäßig überwachen zu können, ob die Anforderungen des § 5 dieser Verordnung erfüllt sind.
 
@@ -88,23 +74,17 @@ c)
 
 (1) Hat die Bundesnetzagentur festgestellt, dass der Antragsteller die Anforderungen des § 5 dieser Verordnung erfüllt, so erteilt sie diesem die Befugnis, Konformitätsbewertungen durchzuführen. Die Befugnis wird durch schriftlichen oder elektronischen Bescheid erteilt. Der Bescheid muss Folgendes enthalten:
 
-1.
+1. Vollständige Angaben zu a)den Konformitätsbewertungstätigkeiten,b)dem betreffenden Konformitätsbewertungsmodul oder den betreffenden Konformitätsbewertungsmodulen undc)dem betreffenden Gerät oder der betreffenden Funkanlage, den Konformitätsbewertungstätigkeiten, dem betreffenden Konformitätsbewertungsmodul oder den betreffenden Konformitätsbewertungsmodulen und dem betreffenden Gerät oder der betreffenden Funkanlage,
 
-a)
+2. die Bestätigung, dass die Voraussetzungen des § 5 dieser Verordnung erfüllt sind und
 
-b)
-
-c)
-
-2.
-
-3.
+3. die Befristung der Anerkennung als notifizierte Stelle.
 
 (2) Die Befugnis ist unter der aufschiebenden Bedingung zu erteilen, dass nach der Notifizierung weder die übrigen Mitgliedstaaten noch die Europäische Kommission innerhalb folgender Fristen Einwände erhoben haben:
 
-1.
+1. innerhalb von zwei Wochen, sofern nach § 3 Absatz 2 Nummer 2 eine Akkreditierungsurkunde vorgelegt wird, oder
 
-2.
+2. innerhalb von zwei Monaten, sofern der Nachweis der Erfüllung der Anforderungen nach § 3 Absatz 3 erfolgt.
 
 (3) Die Notifizierung erfolgt mit Hilfe des elektronischen Notifizierungsinstruments, das von der Europäischen Kommission entwickelt und verwaltet wird.
 
@@ -132,43 +112,27 @@ c)
 
 (6) Die notifizierte Stelle muss in der Lage sein, alle Konformitätsbewertungsaufgaben zu bewältigen, für die sie die Notifizierung beantragt, unabhängig davon, ob diese Aufgaben von ihr selbst, in ihrem Auftrag oder unter ihrer Verantwortung erfüllt werden. Hierfür muss sie für jedes Konformitätsbewertungsverfahren und für jede Art und Kategorie von Geräten oder Funkanlagen, für die sie notifiziert wurde, jederzeit über Folgendes verfügen:
 
-1.
+1. die erforderlichen Mitarbeiter mit Fachkenntnis und ausreichender einschlägiger Erfahrung, um die bei der Konformitätsbewertung anfallenden Aufgaben zu erfüllen,
 
-2.
+2. die erforderlichen Mittel zur angemessenen Erledigung der technischen und administrativen Aufgaben, die mit der Konformitätsbewertung verbunden sind, und den Zugang zu allen benötigten Ausrüstungen oder Einrichtungen,
 
-3.
+3. Beschreibungen von Verfahren, nach denen die Konformitätsbewertung durchgeführt wird, um die Transparenz und Wiederholbarkeit dieser Verfahren sicherzustellen,
 
-4.
+4. angemessene Instrumente, eine angemessene Qualitätsmanagementpolitik und geeignete Verfahren, bei denen zwischen den Aufgaben, die sie als notifizierte Stelle wahrnimmt und anderen Tätigkeiten unterschieden wird und
 
-5.
-
-a)
-
-b)
-
-c)
-
-d)
+5. Verfahren zur Durchführung der Bewertungstätigkeit, die Folgendes berücksichtigen: a)die Größe eines Unternehmens,b)die Branche, in der das Unternehmen tätig ist,c)die Struktur und den Grad an Komplexität der jeweiligen Geräte- oder Funkanlagentechnologie sowied)ob es sich bei dem Produktionsprozess um eine Massenfertigung oder Serienproduktion handelt. die Größe eines Unternehmens, die Branche, in der das Unternehmen tätig ist, die Struktur und den Grad an Komplexität der jeweiligen Geräte- oder Funkanlagentechnologie sowie ob es sich bei dem Produktionsprozess um eine Massenfertigung oder Serienproduktion handelt.
 
 (7) Die notifizierte Stelle stellt sicher, dass die Mitarbeiter, die für die Durchführung der Konformitätsbewertungstätigkeiten zuständig sind,
 
-1.
+1. eine Fach- und Berufsausbildung besitzen, die sie für alle Konformitätsbewertungstätigkeiten qualifiziert, für die die Konformitätsbewertungsstelle einen Antrag auf Anerkennung und Notifizierung gestellt hat und
 
-2.
+2. über eine ausreichende Kenntnis der Anforderungen, die mit den durchzuführenden Bewertungen verbunden sind, verfügen und die entsprechende Befugnis besitzen, solche Konformitätsbewertungen durchzuführen.
 
 (8) Die notifizierte Stelle stellt zudem sicher, dass
 
-1.
+1. wenn die Notifizierung nach der Richtlinie 2014/30/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 zur Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die elektromagnetische Verträglichkeit (ABl. L 96 vom 29.3.2014, S. 79) erfolgt, die Mitarbeiter, die für die Durchführung der Konformitätsbewertungstätigkeiten zuständig sind, über Folgendes verfügen: a)angemessene Kenntnisse und Verständnis der grundlegenden Anforderungen nach Anhang I dieser Richtlinie, der anwendbaren harmonisierten Normen und der betreffenden Bestimmungen der Harmonisierungsrechtsvorschriften der Europäischen Union und ihrer Durchführungsvorschriften undb)die Fähigkeit zur Erstellung von Bescheinigungen, Protokollen und Berichten als Nachweis für die durchgeführten Konformitätsbewertungen nach Anhang III der Richtlinie 2014/30/EU, angemessene Kenntnisse und Verständnis der grundlegenden Anforderungen nach Anhang I dieser Richtlinie, der anwendbaren harmonisierten Normen und der betreffenden Bestimmungen der Harmonisierungsrechtsvorschriften der Europäischen Union und ihrer Durchführungsvorschriften und die Fähigkeit zur Erstellung von Bescheinigungen, Protokollen und Berichten als Nachweis für die durchgeführten Konformitätsbewertungen nach Anhang III der Richtlinie 2014/30/EU,
 
-a)
-
-b)
-
-2.
-
-a)
-
-b)
+2. wenn die Notifizierung nach der Richtlinie 2014/53/EU des Europäischen Parlaments und des Rates vom 16. April 2014 über die Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die Bereitstellung von Funkanlagen auf dem Markt und zur Aufhebung der Richtlinie 1999/5/EG (ABl. L 153 vom 22.5.2014, S. 62) erfolgt, die Mitarbeiter, die für die Durchführung der Konformitätsbewertungstätigkeiten zuständig sind, über Folgendes verfügen: a)angemessene Kenntnisse und Verständnis der grundlegenden Anforderungen nach Artikel 3 dieser Richtlinie, der anwendbaren harmonisierten Normen und der betreffenden Bestimmungen der Harmonisierungsrechtsvorschriften der Europäischen Union und ihrer Durchführungsvorschriften undb)die Fähigkeit zur Erstellung von EU-Baumusterprüfbescheinigungen oder Zulassungen von Qualitätsmanagementsystemen, Protokollen und Berichten als Nachweis für die durchgeführten Konformitätsbewertungen nach Anhang III oder Anhang IV der Richtlinie 2014/53/EU. angemessene Kenntnisse und Verständnis der grundlegenden Anforderungen nach Artikel 3 dieser Richtlinie, der anwendbaren harmonisierten Normen und der betreffenden Bestimmungen der Harmonisierungsrechtsvorschriften der Europäischen Union und ihrer Durchführungsvorschriften und die Fähigkeit zur Erstellung von EU-Baumusterprüfbescheinigungen oder Zulassungen von Qualitätsmanagementsystemen, Protokollen und Berichten als Nachweis für die durchgeführten Konformitätsbewertungen nach Anhang III oder Anhang IV der Richtlinie 2014/53/EU.
 
 (9) Die notifizierte Stelle hat ihre Unparteilichkeit, die ihrer obersten Leitungsebene und die ihrer für die Konformitätsbewertung zuständigen Mitarbeiter sicherzustellen. Die Vergütung der obersten Leitungsebene und der für die Konformitätsbewertung zuständigen Mitarbeiter darf sich nicht nach der Anzahl der durchgeführten Konformitätsbewertungen oder nach deren Ergebnissen richten.
 
@@ -192,15 +156,15 @@ Weist eine Konformitätsbewertungsstelle nach, dass sie die Kriterien der einsch
 
 (2) Stellt eine notifizierte Stelle im Rahmen eines Konformitätsbewertungsverfahrens fest, dass
 
-1.
+1. das Gerät die wesentlichen Anforderungen nach Anhang I der Richtlinie 2014/30/EU oder nach den entsprechenden harmonisierten Normen oder nach anderen technischen Spezifikationen nicht erfüllt, so stellt sie keine Konformitätsbescheinigung aus und fordert den Hersteller auf, angemessene Korrekturmaßnahmen zu ergreifen;
 
-2.
+2. die Funkanlage die grundlegenden Anforderungen nach Artikel 3 der Richtlinie 2014/53/EU oder nach den entsprechenden harmonisierten Normen oder nach anderen technischen Spezifikationen nicht erfüllt, so stellt sie keine EU-Baumusterprüfbescheinigung oder Zulassung eines Qualitätsmanagementsystems aus und fordert den Hersteller auf, angemessene Korrekturmaßnahmen zu ergreifen.
 
 (3) Stellt die notifizierte Stelle im Rahmen der Überwachung der Konformität fest, dass
 
-1.
+1. das Gerät die wesentlichen Anforderungen nach Anhang I der Richtlinie 2014/30/EU nicht mehr erfüllt, so fordert sie den Hersteller auf, angemessene Korrekturmaßnahmen zu ergreifen; falls nötig, setzt sie die Konformitätsbescheinigung aus oder zieht diese zurück;
 
-2.
+2. die Funkanlage die grundlegenden Anforderungen nach Artikel 3 der Richtlinie 2014/53/EU nicht mehr erfüllt, fordert sie den Hersteller auf, angemessene Korrekturmaßnahmen zu ergreifen; falls nötig, setzt sie die betreffende Bescheinigung aus oder zieht diese zurück.
 
 (4) Werden keine Korrekturmaßnahmen ergriffen, oder genügen diese nicht, um die Konformität sicherzustellen, schränkt die notifizierte Stelle alle betreffenden Konformitätsbescheinigungen, EU-Baumusterprüfbescheinigungen oder Zulassungen eines Qualitätsmanagementsystems ein, setzt sie aus oder zieht sie zurück.
 
@@ -212,13 +176,13 @@ Weist eine Konformitätsbewertungsstelle nach, dass sie die Kriterien der einsch
 
 (1) Die notifizierte Stelle ist verpflichtet, der Bundesnetzagentur Folgendes zu melden:
 
-1.
+1. alle Umstände, insbesondere Änderungen technischer, organisatorischer oder personeller Art, die die Voraussetzungen für die Notifizierung gemäß § 4 Absatz 1 Satz 1 dieser Verordnung berühren könnten,
 
-2.
+2. jede Verweigerung, Einschränkung, Aussetzung oder Rücknahme einer Konformitätsbescheinigung im Rahmen der Richtlinie 2014/30/EU sowie jede Verweigerung, Einschränkung, Aussetzung oder Rücknahme einer EU-Baumusterprüfbescheinigung oder einer Zulassung eines Qualitätsmanagementsystems im Einklang mit den Anforderungen der Anhänge III und IV der Richtlinie 2014/53/EU,
 
-3.
+3. jedes Auskunftsersuchen über Konformitätsbewertungstätigkeiten, das sie von Marktüberwachungsbehörden erhalten hat sowie
 
-4.
+4. auf Verlangen, jede Konformitätsbewertungstätigkeit, der sie im Geltungsbereich ihrer Notifizierung nachgegangen ist, sowie jede andere Tätigkeit, die sie ausgeführt hat, einschließlich grenzüberschreitender Tätigkeiten und der Vergabe von Unteraufträgen.
 
 (2) Die notifizierte Stelle übermittelt den anderen notifizierten Stellen, die unter der gleichen Richtlinie notifiziert wurden und die gleichgelagerten Konformitätsbewertungstätigkeiten für dieselben Geräte oder Produkte nachgehen, einschlägige Informationen im Falle einer negativen Konformitätsbewertung. Auf Verlangen informiert die notifizierte Stelle auch über positive Konformitätsbewertungen.
 
@@ -278,15 +242,15 @@ Mit der Anerkennung als notifizierte Stelle im Sinne des Gesetzes über die elek
 
 (3) Die Anerkennung als notifizierte Stelle oder Konformitätsbewertungsstelle für Drittsaaten ist zu widerrufen, wenn
 
-1.
+1. die notifizierte Stelle oder die Konformitätsbewertungsstelle für Drittstaaten den Verpflichtungen der Verordnung wiederholt und trotz Aufforderung nicht nachkommt oder
 
-2.
+2. die notifizierte Stelle oder die Konformitätsbewertungsstelle für Drittstaaten dies beantragt.
 
 (4) Im Falle des Widerrufs nach Absatz 2 oder 3 oder wenn die notifizierte Stelle oder die Konformitätsbewertungsstelle für Drittstaaten ihre Tätigkeit einstellt, ergreift die Bundesnetzagentur die geeigneten Maßnahmen, um zu gewährleisten, dass
 
-1.
+1. die Akten dieser Stelle von einer anderen notifizierten Stelle oder einer anderen Konformitätsbewertungsstelle für Drittstaaten weiter bearbeitet werden und
 
-2.
+2. die Akten für die Marktüberwachungsbehörde und für die Bundesnetzagentur auf Verlangen bereitgehalten werden.
 
 ### § 15 — (weggefallen)
 

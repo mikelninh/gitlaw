@@ -212,11 +212,11 @@ Wird der Wehrpflichtige zu einer Wehrübung auf Grund freiwilliger Verpflichtung
 
 ### § 16a — Wehrdienst als Soldat auf Zeit
 
-(1) Dieses Gesetz gilt auch im Falle des Wehrdienstes als Soldat auf Zeit mit der Maßgabe, dass die für den Grundwehrdienst der Wehrpflichtigen geltenden Vorschriften anzuwenden sind, ausgenommen § 9 Abs. 8 Satz 3, §§ 14a und § 14b.
+(1) Dieses Gesetz gilt auch im Falle des Wehrdienstes als Soldat auf Zeit
 
-1.
+1. für die zunächst auf sechs Monate festgesetzte Dienstzeit,
 
-2.
+2. für die endgültig auf insgesamt nicht mehr als zwei Jahre festgesetzte Dienstzeit
 
 (2) In den Fällen des Absatzes 1 Nr. 1 und 2 sind § 125 Satz 1 des Beamtenrechtsrahmengesetzes oder § 31 Absatz 1 Satz 1 Nummer 2 des Bundesbeamtengesetzes und § 22 Abs. 2 Satz 1 des Beamtenstatusgesetzes nicht anzuwenden.
 

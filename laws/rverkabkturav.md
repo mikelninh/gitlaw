@@ -18,7 +18,9 @@ Für die Erledigung der in Artikel 9 und 12 des Abkommens vorgesehenen Angelegen
 
 ### Art 2
 
-(1) Die in Artikel 3 des Abkommens bezeichneten Kostenentscheidungen der türkischen Gerichte werden durch Beschluß des Amtsgerichts für vollstreckbar erklärt.(2) Örtlich zuständig ist das Gericht, bei dem der Kostenschuldner seinen allgemeinen Gerichtsstand hat, und in Ermangelung eines solchen das Gericht, in dessen Bezirk sich Vermögen des Kostenschuldners befindet oder die Vollstreckungshandlung vorzunehmen ist.
+(1) Die in Artikel 3 des Abkommens bezeichneten Kostenentscheidungen der türkischen Gerichte werden durch Beschluß des Amtsgerichts für vollstreckbar erklärt.
+
+(2) Örtlich zuständig ist das Gericht, bei dem der Kostenschuldner seinen allgemeinen Gerichtsstand hat, und in Ermangelung eines solchen das Gericht, in dessen Bezirk sich Vermögen des Kostenschuldners befindet oder die Vollstreckungshandlung vorzunehmen ist.
 
 ### Art 3
 
@@ -26,7 +28,9 @@ Ist der Antrag auf Vollstreckbarerklärung auf diplomatischem Wege gestellt, so 
 
 ### Art 4
 
-(1) Beschlüsse, durch die der Antrag auf Vollstreckbarerklärung abgelehnt wird, unterliegen der Beschwerde nach den §§ 567 bis 577 der Zivilprozessordnung. Die Beschwerde steht, sofern der Antrag auf diplomatischem Wege gestellt ist, dem Staatsanwalt, sofern er durch die beteiligte Partei unmittelbar gestellt ist, dem Antragsteller zu.(2) Gegen Beschlüsse, durch die dem Antrag auf Vollstreckbarerklärung stattgegeben wird, steht dem Kostenschuldner die Beschwerde nach den §§ 567 bis 577 der Zivilprozessordnung zu.
+(1) Beschlüsse, durch die der Antrag auf Vollstreckbarerklärung abgelehnt wird, unterliegen der Beschwerde nach den §§ 567 bis 577 der Zivilprozessordnung. Die Beschwerde steht, sofern der Antrag auf diplomatischem Wege gestellt ist, dem Staatsanwalt, sofern er durch die beteiligte Partei unmittelbar gestellt ist, dem Antragsteller zu.
+
+(2) Gegen Beschlüsse, durch die dem Antrag auf Vollstreckbarerklärung stattgegeben wird, steht dem Kostenschuldner die Beschwerde nach den §§ 567 bis 577 der Zivilprozessordnung zu.
 
 ### Art 5
 
@@ -34,7 +38,9 @@ Aus den für vollstreckbar erklärten Kostenentscheidungen findet die Zwangsvoll
 
 ### Art 6
 
-(1) Für die gerichtlichen Entscheidungen, die über den Betrag der Gerichtskosten nach Artikel 3 Abs. 3 des Abkommens zur Herbeiführung der Vollstreckbarerklärung in der Türkei zu erlassen sind, ist das Gericht der Instanz zuständig. Die Entscheidungen ergehen auf Antrag der für die Beitreibung der Gerichtskosten zuständigen Behörde.(2) Die Entscheidung unterliegt der Beschwerde nach den §§ 567 bis 577 der Zivilprozessordnung. Die sofortige Beschwerde kann durch Erklärung zu Protokoll der Geschäftsstelle oder schriftlich ohne Mitwirkung eines Rechtsanwalts eingelegt werden.
+(1) Für die gerichtlichen Entscheidungen, die über den Betrag der Gerichtskosten nach Artikel 3 Abs. 3 des Abkommens zur Herbeiführung der Vollstreckbarerklärung in der Türkei zu erlassen sind, ist das Gericht der Instanz zuständig. Die Entscheidungen ergehen auf Antrag der für die Beitreibung der Gerichtskosten zuständigen Behörde.
+
+(2) Die Entscheidung unterliegt der Beschwerde nach den §§ 567 bis 577 der Zivilprozessordnung. Die sofortige Beschwerde kann durch Erklärung zu Protokoll der Geschäftsstelle oder schriftlich ohne Mitwirkung eines Rechtsanwalts eingelegt werden.
 
 ### Art 7
 

@@ -28,17 +28,17 @@ Zur Deckung des notwendigen Aufwandes für Anlagen zur Endlagerung radioaktiver 
 
 Die Vorausleistungen können erhoben werden, wenn notwendiger Aufwand entstanden ist für
 
-1.
+1. die anlagenbezogene Forschung und Entwicklung,
 
-2.
+2. den Erwerb von Grundstücken und Rechten,
 
-3.
+3. die Planung,
 
-4.
+4. die Erkundung,
 
-5.
+5. die Unterhaltung von Grundstücken und Einrichtungen,
 
-6.
+6. die Errichtung, die Erweiterung und die Erneuerung.
 
 ### § 4 — Ermittlung des Aufwandes, Erhebungsverfahren
 
@@ -48,11 +48,11 @@ Die Vorausleistungen können erhoben werden, wenn notwendiger Aufwand entstanden
 
 (2a) Für den nach Absatz 2 Satz 3 ermittelten gesamten notwendigen Aufwand ist eine Abschlussprüfung durch einen Wirtschaftsprüfer oder eine Wirtschaftsprüfergesellschaft vorzunehmen. Der ermittelte gesamte notwendige Aufwand bedarf zudem der Genehmigung durch das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit.
 
-(3) Vorausleistungen werden erhoben Bei der Erhebung nach Satz 1 Nr. 2 ist die Zahlung nach Satz 1 Nr. 1 anzurechnen, eine zu viel entrichtete Zahlung wird dem Vorausleistungspflichtigen unverzinst erstattet.
+(3) Vorausleistungen werden erhoben
 
-1.
+1. zu Beginn des vierten Quartals des Kalenderjahres in Höhe des nach Absatz 2 Satz 1 oder 2 für das laufende Jahr kalkulierten Aufwandes (Abschlag),
 
-2.
+2. nach Ermittlung des gesamten notwendigen Aufwandes des abgelaufenen Kalenderjahres nach Absatz 2 Satz 3 in voller Höhe.
 
 ### § 5 — Vorausleistungsbescheid
 
@@ -66,21 +66,9 @@ Die Vorausleistungen können erhoben werden, wenn notwendiger Aufwand entstanden
 
 (1) Der notwendige Aufwand wird wie folgt verteilt:
 
-1.
+1. für ein Endlager für radioaktive Abfälle mit vernachlässigbarer Wärmeentwicklunga)zu 64,4 Prozent auf diejenigen Vorausleistungspflichtigen, denen eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes für eine Anlage zur Spaltung von Kernbrennstoffen mit einer elektrischen Leistung von mehr als 200 Megawatt erteilt worden ist,b)zu 6 Prozent auf diejenigen Vorausleistungspflichtigen, denen eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes für eine Anlage zur Aufarbeitung bestrahlter Brennelemente mit einer Leistung bis zu 50 Jahrestonnen erteilt worden ist,c)zu 29,6 Prozent auf diejenigen Vorausleistungspflichtigen, denen sonst eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes oder eine Genehmigung nach § 6 oder § 9 des Atomgesetzes oder nach § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes erteilt worden ist, zu 64,4 Prozent auf diejenigen Vorausleistungspflichtigen, denen eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes für eine Anlage zur Spaltung von Kernbrennstoffen mit einer elektrischen Leistung von mehr als 200 Megawatt erteilt worden ist, zu 6 Prozent auf diejenigen Vorausleistungspflichtigen, denen eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes für eine Anlage zur Aufarbeitung bestrahlter Brennelemente mit einer Leistung bis zu 50 Jahrestonnen erteilt worden ist, zu 29,6 Prozent auf diejenigen Vorausleistungspflichtigen, denen sonst eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes oder eine Genehmigung nach § 6 oder § 9 des Atomgesetzes oder nach § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes erteilt worden ist,
 
-a)
-
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-c)
+2. für ein Endlager für alle Arten radioaktiver Abfällea)zu 96,5 Prozent auf diejenigen Vorausleistungspflichtigen, denen eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes für eine Anlage zur Spaltung von Kernbrennstoffen mit einer elektrischen Leistung von mehr als 200 Megawatt erteilt worden ist,b)zu 0,7 Prozent auf diejenigen Vorausleistungspflichtigen, denen eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes für eine Anlage zur Aufarbeitung bestrahlter Brennelemente mit einer Leistung bis zu 50 Jahrestonnen erteilt worden ist,c)zu 2,8 Prozent auf diejenigen Vorausleistungspflichtigen, denen sonst eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes oder eine Genehmigung nach § 6 oder § 9 des Atomgesetzes oder nach § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes erteilt worden ist. zu 96,5 Prozent auf diejenigen Vorausleistungspflichtigen, denen eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes für eine Anlage zur Spaltung von Kernbrennstoffen mit einer elektrischen Leistung von mehr als 200 Megawatt erteilt worden ist, zu 0,7 Prozent auf diejenigen Vorausleistungspflichtigen, denen eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes für eine Anlage zur Aufarbeitung bestrahlter Brennelemente mit einer Leistung bis zu 50 Jahrestonnen erteilt worden ist, zu 2,8 Prozent auf diejenigen Vorausleistungspflichtigen, denen sonst eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes oder eine Genehmigung nach § 6 oder § 9 des Atomgesetzes oder nach § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes erteilt worden ist.
 
 (2) Vor der Verteilung nach Absatz 1 wird von dem notwendigen Aufwand die Summe der in dem betreffenden Jahr von den Landessammelstellen für die Endlagerung erhobenen und an das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit abgeführten Kosten und Entgelte, soweit sie zur Deckung des Aufwandes nach § 3 bestimmt sind, abgezogen.
 

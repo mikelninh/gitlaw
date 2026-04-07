@@ -27,5 +27,3 @@ Lufttüchtigkeitszeugnisse eingeführter Luftfahrzeuge werden nach Artikel 2 Abs
 (3) Der Tag des Inkrafttretens und des Außerkrafttretens ist im Bundesgesetzblatt bekanntzugeben.
 
 ### Schlußformel
-
-Der Bundesminister für Verkehr

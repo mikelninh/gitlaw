@@ -12,11 +12,17 @@ Auf Grund des § 15 Abs. 1 des Gesetzes zur Förderung der Stabilität und des W
 
 ### § 1
 
-(1) Bund und Länder bilden im Haushaltsjahr 1969 aus den sich gegenüber den Haushaltsansätzen ergebenden Steuermehreinnahmen - beim Bund einschließlich der Mehreinnahmen aus dem Gesetz über Maßnahmen zur außenwirtschaftlichen Absicherung gemäß § 4 des Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft vom 29. November 1968 (Bundesgesetzbl. I S. 1255) - Konjunkturausgleichsrücklagen.(2) Unter Absatz 1 fallen nicht solche Steuermehreinnahmen, die nach ausdrücklicher haushaltsgesetzlicher Vorschrift zur Verminderung der Zuführung von Mitteln des außerordentlichen Haushalts an den ordentlichen Haushalt zu verwenden sind.
+(1) Bund und Länder bilden im Haushaltsjahr 1969 aus den sich gegenüber den Haushaltsansätzen ergebenden Steuermehreinnahmen - beim Bund einschließlich der Mehreinnahmen aus dem Gesetz über Maßnahmen zur außenwirtschaftlichen Absicherung gemäß § 4 des Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft vom 29. November 1968 (Bundesgesetzbl. I S. 1255) - Konjunkturausgleichsrücklagen.
+
+(2) Unter Absatz 1 fallen nicht solche Steuermehreinnahmen, die nach ausdrücklicher haushaltsgesetzlicher Vorschrift zur Verminderung der Zuführung von Mitteln des außerordentlichen Haushalts an den ordentlichen Haushalt zu verwenden sind.
 
 ### § 2
 
-(1) Den Konjunkturausgleichsrücklagen werden bis zum 31. Dezember 1969 insgesamt 3.600.000.000 Deutsche Mark zugeführt. Hiervon entfallen auf den Bund 2.400.000.000 Deutsche Mark und auf die Länder 1.200.000.000 Deutsche Mark.(2) Auf die in Absatz 1 genannten Beträge können die zur Tilgung von unverzinslichen Schatzanweisungen sowie von Kassenobligationen mit einer Restlaufzeit bis zu 18 Monaten verwendeten Steuermehreinnahmen im Sinne des § 1 angerechnet werden.(3) Die Länder haben den auf sie entfallenden Gesamtbetrag der Konjunkturausgleichsrücklagen auf der Grundlage von 3 v.H. der Steuereinnahmen je Land im Haushaltsjahr 1968 nach § 15 Abs. 3 des Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft aufzubringen.
+(1) Den Konjunkturausgleichsrücklagen werden bis zum 31. Dezember 1969 insgesamt 3.600.000.000 Deutsche Mark zugeführt. Hiervon entfallen auf den Bund 2.400.000.000 Deutsche Mark und auf die Länder 1.200.000.000 Deutsche Mark.
+
+(2) Auf die in Absatz 1 genannten Beträge können die zur Tilgung von unverzinslichen Schatzanweisungen sowie von Kassenobligationen mit einer Restlaufzeit bis zu 18 Monaten verwendeten Steuermehreinnahmen im Sinne des § 1 angerechnet werden.
+
+(3) Die Länder haben den auf sie entfallenden Gesamtbetrag der Konjunkturausgleichsrücklagen auf der Grundlage von 3 v.H. der Steuereinnahmen je Land im Haushaltsjahr 1968 nach § 15 Abs. 3 des Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft aufzubringen.
 
 ### § 3
 

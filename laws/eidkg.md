@@ -22,9 +22,9 @@
 
 (2) Ein Berechtigungszertifikat ist eine elektronische Bescheinigung, die es einem Diensteanbieter ermöglicht,
 
-1.
+1. seine Identität dem Karteninhaber nachzuweisen und
 
-2.
+2. die Übermittlung personen- und kartenbezogener Daten aus der eID-Karte anzufragen.
 
 (3) Das Sperrkennwort ist eine Zeichenfolge, die ausschließlich der Sperrung des elektronischen Identitätsnachweises mit einer eID-Karte oder mit einem mobilen Endgerät dient.
 
@@ -50,13 +50,13 @@
 
 (2) Die eID-Karte ist Eigentum der Bundesrepublik Deutschland.
 
-(3) Das Bundesministerium des Innern und für Heimat bestimmt und macht deren Namen im Bundesanzeiger bekannt.
+(3) Das Bundesministerium des Innern und für Heimat bestimmt
 
-1.
+1. den Kartenhersteller,
 
-2.
+2. die Vergabestelle für Berechtigungszertifikate,
 
-3.
+3. den Sperrlistenbetreiber
 
 ### § 4 — Kartenmuster; Seriennummer; Chip
 
@@ -66,29 +66,29 @@
 
 (3) Die eID-Karte enthält neben der Seriennummer, der Angabe der ausstellenden Behörde, dem letzten Tag der Gültigkeitsdauer und der Zugangsnummer folgende sichtbar aufgebrachte Angaben über den Karteninhaber:
 
-1.
+1. Familienname und Vornamen und
 
-2.
+2. Tag und Ort der Geburt.
 
-(4) Die eID-Karte besitzt ein elektronisches Speicher- und Verarbeitungsmedium (Chip), auf dem folgende Daten gespeichert werden: Zur Einrichtung eines elektronischen Identitätsnachweises nach § 8a Absatz 1 Satz 1 dürfen auf einem elektronischen Speicher- und Verarbeitungsmedium in einem mobilen Endgerät die Daten nach Satz 1 gespeichert werden.
+(4) Die eID-Karte besitzt ein elektronisches Speicher- und Verarbeitungsmedium (Chip), auf dem folgende Daten gespeichert werden:
 
-1.
+1. Familienname und Geburtsname,
 
-2.
+2. Vornamen,
 
-3.
+3. Doktorgrad,
 
-4.
+4. Tag und Ort der Geburt,
 
-5.
+5. Anschrift; hat der Karteninhaber keine Wohnung in Deutschland, kann die Angabe „keine Wohnung in Deutschland“ eingetragen werden,
 
-6.
+6. Staatsangehörigkeit,
 
-7.
+7. Ordensname, Künstlername,
 
-8.
+8. Dokumentenart und
 
-9.
+9. letzter Tag der Gültigkeitsdauer.
 
 (5) Die gespeicherten Daten sind gegen unbefugtes Verändern, Löschen und Auslesen zu sichern.
 
@@ -102,23 +102,23 @@
 
 ### § 6 — Sachliche Zuständigkeit
 
-(1) Zuständig für Angelegenheiten, die die eID-Karte betreffen, sind: (eID-Karte-Behörden).
+(1) Zuständig für Angelegenheiten, die die eID-Karte betreffen, sind:
 
-1.
+1. in Deutschland die von den Ländern bestimmten Behörden,
 
-2.
+2. im Ausland das Auswärtige Amt mit den von ihm bestimmten Auslandsvertretungen
 
 (2) Für die Einziehung und Sicherstellung der eID-Karte sind neben den eID-Karte-Behörden auch die zur Identitätsfeststellung berechtigten Behörden (§ 2 Absatz 2 des Personalausweisgesetzes) zuständig.
 
 (3) Zuständig
 
-1.
+1. für die Erteilung und Aufhebung von Berechtigungen nach den §§ 15 bis 17 ist die Vergabestelle für Berechtigungszertifikate nach § 3 Absatz 3 Nummer 2,
 
-2.
+2. für das Führen einer Sperrliste nach § 9 Absatz 3 ist der Sperrlistenbetreiber nach § 3 Absatz 3 Nummer 3.
 
 (4) Für das elektronisch beantragte Neusetzen der Geheimnummer ist der Kartenhersteller zuständig.
 
-(5) Für die Übermittlung von Daten nach § 4 Absatz 4 Satz 2 aus dem Chip der eID-Karte auf ein elektronisches Speicher- und Verarbeitungsmedium in einem mobilen Endgerät nach § 8a Absatz 1 Satz 1 sowie für die Auskunft nach § 8a Absatz 5 ist der Kartenhersteller zuständig.
+(5) Für die Übermittlung von Daten nach § 4 Absatz 4 Satz 2 aus dem Chip der eID-Karte auf ein elektronisches Speicher- und Verarbeitungsmedium in einem mobilen Endgerät nach § 8a Absatz 1 Satz 1 sowie für die Auskunft nach § 8a Absatz 5 ist der Kartenhersteller zuständig.
 
 ### § 7 — Örtliche Zuständigkeit
 
@@ -132,11 +132,11 @@
 
 ### § 8 — Ausstellung der eID-Karte
 
-(1) Die eID-Karte wird auf Antrag für die antragstellende Person ausgestellt, wenn sie Jugendliche, die mindestens 13 Jahre alt sind, dürfen Verfahrenshandlungen nach diesem Gesetz vornehmen.
+(1) Die eID-Karte wird auf Antrag für die antragstellende Person ausgestellt, wenn sie
 
-1.
+1. dem in § 1 Absatz 1 genannten Personenkreis unterfällt und
 
-2.
+2. mindestens 13 Jahre alt ist.
 
 (2) In dem Antrag sind alle Tatsachen anzugeben, die zur Feststellung der antragstellenden Person notwendig sind. Die Angaben zu dem Doktorgrad und zu den Ordens- und Künstlernamen sind freigestellt. Die antragstellende Person hat die erforderlichen Nachweise zu erbringen und sich unter Vorlage eines anerkannten und gültigen ausländischen Passes oder Personalausweises vor der ausgebenden Stelle persönlich zu identifizieren.
 
@@ -152,27 +152,25 @@
 
 (4) Werden die auf das elektronische Speicher- und Verarbeitungsmedium des mobilen Endgeräts übermittelten Daten nach Absatz 1 Satz 1 unrichtig, darf ein elektronischer Identitätsnachweis nach § 12 Absatz 3 Satz 1 Nummer 2 nicht durchgeführt werden. Zur weiteren Nutzung ist erneut eine Übermittlung nach Absatz 1 Satz 1 unter Verwendung des Chips der eID-Karte mit richtigen Angaben durchzuführen.
 
-(5) Auf elektronischen Antrag des Karteninhabers hat der Kartenhersteller diesem Auskunft zu erteilen darüber, jeweils zu welchem Datum und zu welcher Uhrzeit eine Übermittlung nach Absatz 1 Satz 1 der Daten der eID-Karte des Karteninhabers auf ein elektronisches Speicher- und Verarbeitungsmedium in einem mobilen Endgerät durchgeführt wurde, sowie über jeweils den letzten Tag der Gültigkeitsdauer, das Sperrkennwort und den Hersteller und die Modellbezeichnung des mobilen Endgeräts. Zur Identifizierung der antragstellenden Person hat der Kartenhersteller zur Person des Karteninhabers einen elektronischen Identitätsnachweis nach § 12 durchzuführen.
+(5) Auf elektronischen Antrag des Karteninhabers hat der Kartenhersteller diesem Auskunft zu erteilen darüber, jeweils zu welchem Datum und zu welcher Uhrzeit eine Übermittlung nach Absatz 1 Satz 1 der Daten der eID-Karte des Karteninhabers auf ein elektronisches Speicher- und Verarbeitungsmedium in einem mobilen Endgerät durchgeführt wurde, sowie über jeweils den letzten Tag der Gültigkeitsdauer, das Sperrkennwort und den Hersteller und die Modellbezeichnung des mobilen Endgeräts. Zur Identifizierung der antragstellenden Person hat der Kartenhersteller zur Person des Karteninhabers einen elektronischen Identitätsnachweis nach § 12 durchzuführen.
 
 ### § 9 — Sperrung und Entsperrung
 
 (1) Die ausstellende eID-Karte-Behörde hat unverzüglich zur Aktualisierung der Sperrliste die Sperrsumme der eID-Karte an den Sperrlistenbetreiber zu übermitteln, wenn sie Kenntnis erlangt von
 
-1.
+1. dem Abhandenkommen einer eID-Karte,
 
-2.
+2. dem Versterben eines Karteninhabers oder
 
-3.
+3. der Ungültigkeit einer nicht im Besitz der Behörde befindlichen eID-Karte nach § 21.
 
 (2) Der Karteninhaber kann durch Mitteilung des Sperrkennworts an den Sperrlistenbetreiber eine sofortige Sperrung des elektronischen Identitätsnachweises veranlassen. Davon unberührt bleibt die Pflicht, den Verlust oder das Abhandenkommen der eID-Karte nach § 20 Absatz 1 Nummer 3 der eID-Karte-Behörde anzuzeigen.
-
-(3) Der Sperrlistenbetreiber stellt den eID-Karte-Behörden für die Fälle nach Absatz 1 und den Karteninhabern für die Fälle nach Absatz 2 einen Sperrdienst über jederzeit öffentlich erreichbare Kommunikationsverbindungen zur Verfügung. § 10 Absatz 4 des Personalausweisgesetzes gilt entsprechend.
 
 (4) Teilt nach erfolgter Sperrung nach Absatz 1 der Karteninhaber das Wiederauffinden seiner eID-Karte unter den Voraussetzungen des § 8 Absatz 2 Satz 3 mit oder bittet er nach einer Sperrung nach Absatz 2 unter den Voraussetzungen des § 8 Absatz 2 Satz 3 um Entsperrung, so ersucht die eID-Karte-Behörde den Sperrlistenbetreiber um Löschung des Sperreintrags zu dieser eID-Karte.
 
 (5) Der Zeitpunkt der Meldung des Abhandenkommens eines Ausweises ist von der eID-Karte-Behörde oder Polizeibehörde zu dokumentieren und der ausstellenden eID-Karte-Behörde mitzuteilen.
 
-> (+++ Hinweis: Die Änderung des Art. 1 G v. 21.6.2019 I 846 durch Art. 154a Nr. 1 G v. 20.11.2019 I 1626 (Neufassung d. § 9 Abs. 5 eIDKG) sowie die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 (Verschiebung d. Inkrafttretens zum 1.11.2020)  sind nicht ausführbar, da Art. 1 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
+> (+++ Hinweis: Die Änderung des Art. 1 G v. 21.6.2019 I 846 durch Art. 154a Nr. 1 G v. 20.11.2019 I 1626 (Neufassung d. § 9 Abs. 5 eIDKG) sowie die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 (Verschiebung d. Inkrafttretens zum 1.11.2020) sind nicht ausführbar, da Art. 1 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
 
 ### § 10 — Informationspflichten
 
@@ -194,11 +192,11 @@ Für die Form und das Verfahren der Datenerfassung, -prüfung und -übermittlung
 
 (2) Die Nutzung des elektronischen Identitätsnachweises durch eine andere Person als den Karteninhaber ist unzulässig.
 
-(3) Der elektronische Identitätsnachweis erfolgt durch Übermittlung von Daten Für die Einzelheiten der Datenübermittlung gilt § 18 Absatz 2 Satz 2, Absatz 3, 4 und 5 des Personalausweisgesetzes entsprechend.
+(3) Der elektronische Identitätsnachweis erfolgt durch Übermittlung von Daten
 
-1.
+1. aus dem Chip der eID-Karte oder
 
-2.
+2. aus einem elektronischen Speicher- und Verarbeitungsmedium in einem mobilen Endgerät.
 
 (4) eID-Karte-Behörden dürfen im Rahmen der Änderung der Anschrift auf dem elektronischen Speicher- und Verarbeitungsmedium nach einer elektronischen Anmeldung gemäß § 23a des Bundesmeldegesetzes einen elektronischen Identitätsnachweis durchführen und hierzu ein hoheitliches Berechtigungszertifikat verwenden.
 
@@ -248,35 +246,35 @@ Die eID-Karte kann als qualifizierte elektronische Signaturerstellungseinheit im
 
 (3) Das eID-Karte-Register darf neben verfahrensbedingten Bearbeitungsvermerken ausschließlich folgende Daten enthalten:
 
-1.
+1. Familienname und Geburtsname,
 
-2.
+2. Vornamen,
 
-3.
+3. Doktorgrad,
 
-4.
+4. Tag der Geburt,
 
-5.
+5. Ort der Geburt,
 
-6.
+6. Anschrift,
 
-6a.
+6a. E-Mail-Adresse, sofern der Inhaber der eID-Karte in die Speicherung einwilligt,
 
-7.
+7. Staatsangehörigkeit,
 
-7a.
+7a. Identifikationsnummer nach dem Identifikationsnummerngesetz,
 
-8.
+8. Seriennummer,
 
-9.
+9. Sperrkennwort und Sperrsumme,
 
-10.
+10. letzter Tag der Gültigkeitsdauer,
 
-11.
+11. ausstellende Behörde,
 
-12.
+12. die örtlich zuständige eID-Karte-Behörde, wenn diese nicht mit der ausstellenden eID-Karte-Behörde identisch ist, und
 
-13.
+13. Ordensname, Künstlername.
 
 (4) Personenbezogene Daten im eID-Karte-Register sind mindestens bis zur Ausstellung einer neuen eID-Karte, höchstens jedoch bis zum Ablauf der Gültigkeitsdauer der eID-Karte, auf die sie sich beziehen, zu speichern und dann zu löschen.
 
@@ -292,13 +290,13 @@ eID-Karte-Behörden dürfen anderen eID-Karte-Behörden im automatisierten Verfa
 
 (1) Der Karteninhaber ist verpflichtet, der eID-Karte-Behörde unverzüglich
 
-1.
+1. die eID-Karte vorzulegen, wenn eine Eintragung unrichtig ist,
 
-2.
+2. die alte eID-Karte beim Empfang einer neuen eID-Karte abzugeben,
 
-3.
+3. den Verlust der eID-Karte und ihr Wiederauffinden anzuzeigen sowie
 
-4.
+4. im Falle der Ausgabe der eID-Karte im Wege des postalischen Versands anzuzeigen, wenn die Sendung unbefugt geöffnet worden ist oder die eID-Karte nicht enthält oder wenn die eID-Karte beschädigt ist oder eine Angabe auf der eID-Karte unrichtig ist.
 
 (2) Der Karteninhaber hat zumutbare Maßnahmen zu treffen, damit keine andere Person Kenntnis von der Geheimnummer erlangt. Die Geheimnummer darf insbesondere nicht auf der eID-Karte vermerkt oder in anderer Weise zusammen mit dieser aufbewahrt sowie im Fall des elektronischen Identitätsnachweises mit einem mobilen Endgerät nicht auf diesem gespeichert werden. Ist dem Karteninhaber bekannt, dass die Geheimnummer Dritten zur Kenntnis gelangt ist, soll er diese unverzüglich ändern oder die Funktion des elektronischen Identitätsnachweises sperren lassen. Satz 3 gilt entsprechend für den Fall, dass dem Karteninhaber bekannt wird, dass die Geheimnummer eines elektronischen Identitätsnachweises mit einem mobilen Endgerät Dritten zur Kenntnis gelangt ist.
 
@@ -308,9 +306,9 @@ eID-Karte-Behörden dürfen anderen eID-Karte-Behörden im automatisierten Verfa
 
 (1) Eine eID-Karte ist ungültig, wenn
 
-1.
+1. Eintragungen nach diesem Gesetz fehlen oder mit Ausnahme der Angabe über die Anschrift unzutreffend sind oder
 
-2.
+2. die Gültigkeitsdauer abgelaufen ist.
 
 (2) Die eID-Karte-Behörde hat eine eID-Karte für ungültig zu erklären, wenn die Voraussetzungen für ihre Erteilung im Zeitpunkt der Ausstellung nicht vorgelegen haben oder nachträglich weggefallen sind.
 
@@ -320,9 +318,9 @@ eID-Karte-Behörden dürfen anderen eID-Karte-Behörden im automatisierten Verfa
 
 (2) Eine eID-Karte kann sichergestellt werden, wenn
 
-1.
+1. eine Person sie unberechtigt besitzt oder
 
-2.
+2. Tatsachen die Annahme rechtfertigen, dass die eID-Karte ungültig ist.
 
 (3) Eine Sicherstellung oder Einziehung ist schriftlich zu bestätigen.
 
@@ -344,49 +342,43 @@ eID-Karte-Behörden dürfen anderen eID-Karte-Behörden im automatisierten Verfa
 
 (1) Ordnungswidrig handelt, wer
 
-1.
+1. entgegen § 8 Absatz 2 Satz 1 eine Angabe nicht richtig macht,
 
-2.
+2. entgegen § 12 Absatz 2 einen elektronischen Identitätsnachweis nutzt oder
 
-3.
+3. entgegen § 20 Absatz 1 Nummer 3 eine Anzeige nicht oder nicht rechtzeitig erstattet.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 2 mit einer Geldbuße bis zu dreißigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu dreitausend Euro geahndet werden.
 
 ### § 25 — Verordnungsermächtigung
 
-Das Bundesministerium des Innern und für Heimat wird ermächtigt, im Benehmen mit dem Auswärtigen Amt und mit Zustimmung des Bundesrates durch Rechtsverordnung In einer Rechtsverordnung nach Satz 1 Nummer 8a sind Regelungen zu Maßnahmen gegen eine missbräuchliche Verwendung bei der Einrichtung eines elektronischen Identitätsnachweises mit einem mobilen Endgerät vorzusehen.
+Das Bundesministerium des Innern und für Heimat wird ermächtigt, im Benehmen mit dem Auswärtigen Amt und mit Zustimmung des Bundesrates durch Rechtsverordnung
 
-1.
+1. das Muster der eID-Karte zu bestimmen,
 
-2.
+2. den Zugriffsschutz auf die im Chip abgelegten Daten zu regeln,
 
-3.
+3. die Einzelheiten des Antragsverfahrens zu regeln,
 
-4.
+4. die Einzelheiten über das Verfahren der Übermittlung sämtlicher Antragsdaten von den eID-Karte-Behörden an den Kartenhersteller zu regeln,
 
-5.
+5. die Herstellung der eID-Karte und die Übermittlung und Übergabe von Geheimnummer, Entsperrnummer und Sperrkennwort zu regeln,
 
-6.
+6. Einzelheiten der Aushändigung und den Versand der eID-Karte zu regeln,
 
-7.
+7. die Änderung von Daten der eID-Karte wie den Namen oder die Anschrift, einschließlich des Verfahrens der Änderung der Anschrift auf dem elektronischen Speicher- und Verarbeitungsmedium nach einer elektronischen Anmeldung gemäß § 23a des Bundesmeldegesetzes, zu regeln,
 
-8.
+8. die Einzelheiten zur Nutzung des elektronischen Identitätsnachweises und des Vor-Ort-Auslesens zu regeln,
 
-8a.
+8a. die Einzelheiten zur Einrichtung und zur Nutzung des elektronischen Identitätsnachweises mit einem mobilen Endgerät, sowie zu den technischen Anforderungen an mobile Endgeräte nach § 2 Absatz 11 zu regeln,
 
-9.
+9. die Einzelheiten a)der Geheimnummer, einschließlich des Verfahrens des Neusetzens der Geheimnummer durch den Kartenhersteller nach elektronisch gestelltem Antrag,b)der Sperrung und Entsperrung sowiec)der Speicherung und Löschung der Sperrmerkmale und des Sperrkennworts festzulegen, der Geheimnummer, einschließlich des Verfahrens des Neusetzens der Geheimnummer durch den Kartenhersteller nach elektronisch gestelltem Antrag, der Sperrung und Entsperrung sowie der Speicherung und Löschung der Sperrmerkmale und des Sperrkennworts
 
-a)
+10. die sicherheitstechnischen Rahmenbedingungen festzulegen, die vorliegen müssen, damit öffentliche und private Stellen ein Benutzerkonto nach § 14 in Verbindung mit § 19 Absatz 5 des Personalausweisgesetzes anlegen und betreiben dürfen,
 
-b)
+11. die Einzelheiten der Vergabe der Berechtigungen und der Berechtigungszertifikate festzulegen,
 
-c)
-
-10.
-
-11.
-
-12.
+12. die Einzelheiten zur Durchführung von automatisierten Mitteilungen oder automatisierten Abrufen nach § 19a sowie zur Form und zum Inhalt der zu übermittelnden Daten festzulegen.
 
 ### § 26 — Übergangsvorschrift
 

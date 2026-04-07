@@ -20,11 +20,11 @@ Soweit in dieser Verordnung nichts anderes bestimmt ist, gelten für die Polizei
 
 (1) Laufbahnen des Polizeivollzugsdienstes in der Bundespolizei sind
 
-1.
+1. die Laufbahn des mittleren Polizeivollzugsdienstes in der Bundespolizei,
 
-2.
+2. die Laufbahn des gehobenen Polizeivollzugsdienstes in der Bundespolizei und
 
-3.
+3. die Laufbahn des höheren Polizeivollzugsdienstes in der Bundespolizei.
 
 (2) Die zu den Laufbahnen gehörenden Ämter sowie die ihnen zugeordneten Amtsbezeichnungen ergeben sich aus Anlage 1. Im Übrigen gilt § 9 Absatz 2 der Bundeslaufbahnverordnung.
 
@@ -38,27 +38,27 @@ Für die Laufbahnen des Polizeivollzugsdienstes in der Bundespolizei werden Vorb
 
 (2) Die Beamtinnen und Beamten auf Widerruf führen während des Vorbereitungsdienstes
 
-1.
+1. im mittleren Polizeivollzugsdienst in der Bundespolizei die Dienstbezeichnung „Polizeimeisteranwärterin“ oder „Polizeimeisteranwärter“,
 
-2.
+2. im gehobenen Polizeivollzugsdienst in der Bundespolizei die Dienstbezeichnung „Polizeikommissaranwärterin“ oder „Polizeikommissaranwärter“ und
 
-3.
+3. im höheren Polizeivollzugsdienst in der Bundespolizei die Dienstbezeichnung „Polizeiratanwärterin“ oder „Polizeiratanwärter“.
 
 (3) In den Vorbereitungsdienst für den mittleren Polizeivollzugsdienst in der Bundespolizei kann eingestellt werden, wer mindestens 16 Jahre und noch nicht 28 Jahre alt ist. In den Vorbereitungsdienst für den gehobenen oder höheren Polizeivollzugsdienst in der Bundespolizei kann eingestellt werden, wer noch nicht 34 Jahre alt ist. Die Altershöchstgrenzen gelten nicht für Soldatinnen und Soldaten auf Zeit, deren Dienstzeit auf mindestens acht Jahre festgesetzt wurde.
 
-(4) Das Höchstalter nach Absatz 3 wird angehoben um Zeiten Auch wenn Zeiten nach Satz 1 zu berücksichtigen sind, darf die Bewerberin oder der Bewerber für den mittleren Polizeivollzugsdienst noch nicht 36 Jahre und für den gehobenen oder höheren Polizeivollzugsdienst noch nicht 42 Jahre alt sein. Absatz 3 Satz 3 gilt entsprechend.
+(4) Das Höchstalter nach Absatz 3 wird angehoben um Zeiten
 
-1.
+1. des Mutterschutzes,
 
-2.
+2. der Kinderbetreuung, höchstens jedoch um drei Jahre je Kind, sowie
 
-3.
+3. der Pflege naher Angehöriger (Eltern, Schwiegereltern, Ehegattinnen oder Ehegatten, Lebenspartnerinnen oder Lebenspartner, Geschwister oder Kinder), für die eine Pflegestufe nach § 15 des Elften Buches Sozialgesetzbuch festgestellt worden war oder ist und die von der Bewerberin oder dem Bewerber aus gesetzlicher oder sittlicher Verpflichtung in dem in § 15 Absatz 3 des Elften Buches Sozialgesetzbuch genannten Umfang gepflegt worden sind oder werden; dabei kann das Höchstalter jedoch höchstens um drei Jahre je Angehörige oder Angehörigen angehoben werden.
 
-(5) Bei erheblichem dienstlichen Interesse kann das Bundespolizeipräsidium Ausnahmen von Absatz 3 bis zu den Höchstaltersgrenzen nach Absatz 4 Satz 2 zulassen, wenn die Bewerberin oder der Bewerber Das Bundespolizeipräsidium kann bei erheblichem dienstlichen Interesse Ausnahmen bis zu den Höchstaltersgrenzen nach Absatz 4 Satz 2 auch zulassen, wenn sich der berufliche Werdegang nachweislich aus von der Bewerberin oder dem Bewerber nicht zu vertretenden Gründen in einem solchen Maß verzögert hat, dass die Anwendung der Höchstaltersgrenze nach Absatz 3 unbillig wäre. Ein erhebliches dienstliches Interesse liegt insbesondere vor, wenn die Ausnahme zur Sicherstellung der Erledigung der öffentlichen Aufgaben erforderlich ist.
+(5) Bei erheblichem dienstlichen Interesse kann das Bundespolizeipräsidium Ausnahmen von Absatz 3 bis zu den Höchstaltersgrenzen nach Absatz 4 Satz 2 zulassen, wenn die Bewerberin oder der Bewerber
 
-1.
+1. einen Berufs- oder Hochschulabschluss besitzt, der der Verwendung in der Laufbahn besonders förderlich ist, und
 
-2.
+2. durch eine mindestens dreijährige hauptberufliche Tätigkeit berufliche Erfahrungen erworben hat, die der Verwendung in der Laufbahn besonders förderlich sind.
 
 ### § 6 — Mittlerer Polizeivollzugsdienst in der Bundespolizei
 
@@ -86,11 +86,11 @@ Der Vorbereitungsdienst für den höheren Polizeivollzugsdienst in der Bundespol
 
 (1) Bewerberinnen und Bewerbern für den höheren Polizeivollzugsdienst in der Bundespolizei kann die Laufbahnbefähigung für den höheren Polizeivollzugsdienst in der Bundespolizei zuerkannt werden, wenn sie
 
-1.
+1. das Höchstalter nach § 5 Absatz 3 und 4 noch nicht überschritten haben,
 
-2.
+2. ein mindestens dreijähriges Hochschulstudium erfolgreich abgeschlossen haben und über Kenntnisse und Fähigkeiten verfügen, die der Verwendung im Polizeivollzugsdienst besonders förderlich sind, und
 
-3.
+3. eine zweite Staatsprüfung bestanden haben.
 
 (2) Während der Probezeit erhalten die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten eine polizeifachliche Unterweisung von mindestens zwölf Monaten Dauer. Das Bundespolizeipräsidium erlässt für die Unterweisung einen Rahmenplan.
 
@@ -98,13 +98,13 @@ Der Vorbereitungsdienst für den höheren Polizeivollzugsdienst in der Bundespol
 
 (1) Die Einstellung oder die Versetzung in den Polizeivollzugsdienst in der Bundespolizei aus dienstlichen Gründen ist nur zulässig, wenn die Polizeivollzugsbeamtin oder der Polizeivollzugsbeamte die Befähigung für die jeweilige Laufbahn besitzt.
 
-(2) Als Befähigung für die jeweilige Laufbahn des Polizeivollzugsdienstes in der Bundespolizei kann anerkannt werden die Befähigung für die entsprechende Laufbahn Über die Anerkennung der Laufbahnbefähigung entscheidet das Bundespolizeipräsidium.
+(2) Als Befähigung für die jeweilige Laufbahn des Polizeivollzugsdienstes in der Bundespolizei kann anerkannt werden die Befähigung für die entsprechende Laufbahn
 
-1.
+1. des Polizeivollzugsdienstes eines Bundeslandes,
 
-2.
+2. des kriminalpolizeilichen Vollzugsdienstes des Bundes oder eines Bundeslandes oder
 
-3.
+3. des Polizeivollzugsdienstes beim Deutschen Bundestag.
 
 (3) Die Polizeivollzugsbeamtin oder der Polizeivollzugsbeamte, deren oder dessen Befähigung nach Absatz 2 oder nach der Verordnung über die Anerkennung europäischer Berufsqualifikationen als Laufbahnbefähigung anerkannt worden ist, soll eine Unterweisungszeit von mindestens sechs Monaten durchlaufen. Das Bundespolizeipräsidium entscheidet über die Zulassung zur Unterweisung und erlässt für die Unterweisung einen Rahmenplan.
 
@@ -114,29 +114,13 @@ Der Vorbereitungsdienst für den höheren Polizeivollzugsdienst in der Bundespol
 
 (1) Für die besonderen Fachverwendungen im Polizeivollzugsdienst in der Bundespolizei nach Anlage 2 können
 
-1.
+1. Beamtinnen und Beamte versetzt werden, wenn sie a)die Bildungsvoraussetzungen nach Anlage 2 erfüllen undb)erfolgreich an einem Auswahlverfahren, das für Regelbewerberinnen und Regelbewerber vorgesehen ist, teilgenommen haben, die Bildungsvoraussetzungen nach Anlage 2 erfüllen und erfolgreich an einem Auswahlverfahren, das für Regelbewerberinnen und Regelbewerber vorgesehen ist, teilgenommen haben,
 
-a)
+2. Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in eine höhere Laufbahn des Polizeivollzugsdienstes wechseln, wenn sie a)die Bildungsvoraussetzungen nach Anlage 2 erfüllen, undb)erfolgreich an einem Auswahlverfahren, das für Regelbewerberinnen und Regelbewerber vorgesehen ist, teilgenommen haben, die Bildungsvoraussetzungen nach Anlage 2 erfüllen, und erfolgreich an einem Auswahlverfahren, das für Regelbewerberinnen und Regelbewerber vorgesehen ist, teilgenommen haben,
 
-b)
+3. Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte im Flugdienst der Bundespolizei abweichend von § 17 Absatz 4 des Bundesbeamtengesetzes in die Laufbahn des gehobenen Polizeivollzugsdienstes wechseln, wenn sie a)die Bildungsvoraussetzungen nach Anlage 2 erfüllen undb)erfolgreich an einem Auswahlverfahren teilgenommen haben, die Bildungsvoraussetzungen nach Anlage 2 erfüllen und erfolgreich an einem Auswahlverfahren teilgenommen haben,
 
-2.
-
-a)
-
-b)
-
-3.
-
-a)
-
-b)
-
-4.
-
-a)
-
-b)
+4. Bewerberinnen und Bewerber nach Maßgabe der §§ 23 bis 25 der Bundeslaufbahnverordnung eingestellt werden, wenn sie a)die Bildungsvoraussetzungen nach Anlage 2 erfüllen undb)die Altershöchstgrenze nach § 5 Absatz 3 und 4 nicht überschritten haben. die Bildungsvoraussetzungen nach Anlage 2 erfüllen und die Altershöchstgrenze nach § 5 Absatz 3 und 4 nicht überschritten haben.
 
 (2) Über die Anerkennung der Laufbahnbefähigung und die Einstellung nach Absatz 1 Nummer 4 entscheidet das Bundespolizeipräsidium.
 
@@ -154,17 +138,17 @@ Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte dürfen an der Verwendungsfo
 
 (1) Die Erprobung auf einem höherwertigen Dienstposten dauert
 
-1.
+1. für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte des mittleren und des gehobenen Polizeivollzugsdienstes mindestens drei Monate und
 
-2.
+2. für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte des höheren Polizeivollzugsdienstes mindestens sechs Monate.
 
 (2) Angerechnet werden Erprobungszeiten auf einem anderen Dienstposten mit gleicher Bewertung und mit gleichwertigen Anforderungen sowie Zeiten, in denen die Polizeivollzugsbeamtin oder der Polizeivollzugsbeamte bereits vor der Übertragung des höherwertigen Dienstpostens mit der Wahrnehmung der Geschäfte dieses Dienstpostens beauftragt worden ist und sich dabei bewährt hat. Im höheren Polizeivollzugsdienst in der Bundespolizei sind höchstens drei Monate anzurechnen.
 
 (3) Für Erprobungszeiten auf einem anderen Dienstposten, der um eine Besoldungsgruppe geringer bewertet ist, gilt Absatz 2 entsprechend, sofern
 
-1.
+1. für den bisherigen Dienstposten die gleichen Anforderungen gelten wie für den zur Erprobung übertragenen Dienstposten und
 
-2.
+2. die unterschiedliche Bewertung lediglich auf geringfügigen Unterschieden bei den Aufgaben und in der Verantwortung beruht.
 
 (4) Im Übrigen gilt § 42 der Bundeslaufbahnverordnung.
 
@@ -180,17 +164,17 @@ Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte dürfen an der Verwendungsfo
 
 ### § 15 — Aufstieg
 
-(1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte können zum Aufstieg in die nächsthöhere Laufbahn zugelassen werden, wenn sie erfolgreich an einem Auswahlverfahren teilgenommen haben, Beamtinnen auf Lebenszeit oder Beamte auf Lebenszeit sind und sich seit der erstmaligen Ernennung Bei der Bemessung der Bewährungszeit sind Zeiten einer Teilzeitbeschäftigung wie Zeiten einer Vollzeitbeschäftigung zu behandeln, soweit nicht zwingende sachliche Gründe entgegenstehen.
+(1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte können zum Aufstieg in die nächsthöhere Laufbahn zugelassen werden, wenn sie erfolgreich an einem Auswahlverfahren teilgenommen haben, Beamtinnen auf Lebenszeit oder Beamte auf Lebenszeit sind und sich seit der erstmaligen Ernennung
 
-1.
+1. bei Beginn des Aufstiegs in den gehobenen Polizeivollzugsdienst in der Bundespolizei in einer Dienstzeit von drei Jahren bewährt haben und noch nicht 50 Jahre alt sind oder
 
-2.
+2. bei Zulassung zum Aufstieg in den höheren Polizeivollzugsdienst in der Bundespolizei in einer Dienstzeit von drei Jahren im gehobenen Dienst bewährt haben und noch nicht 45 Jahre alt sind.
 
 (2) Für das Auswahlverfahren gilt § 44 der Bundeslaufbahnverordnung mit der Maßgabe, dass
 
-1.
+1. über die Zulassung zum Aufstieg das Bundespolizeipräsidium entscheidet,
 
-2.
+2. im Falle des § 44 Absatz 4 Satz 8 der Bundeslaufbahnverordnung die Teilnahme am Auswahlverfahren einmal, bei erfolgreicher Teilnahme auch mehrfach wiederholt werden kann.
 
 (3) Die Aufstiegsausbildung in den gehobenen Polizeivollzugsdienst in der Bundespolizei dauert mindestens zwei Jahre. Die nach Absatz 1 Nummer 1 zugelassenen Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten nehmen an Teilen des Vorbereitungsdienstes nach § 7 teil.
 
@@ -200,21 +184,11 @@ Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte dürfen an der Verwendungsfo
 
 ### § 16 — Verkürzter Aufstieg in den gehobenen Polizeivollzugsdienst in der Bundespolizei
 
-(1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte können zu einem verkürzten Aufstieg in den gehobenen Polizeivollzugsdienst in der Bundespolizei zugelassen werden, wenn § 15 Absatz 1 Satz 2 gilt entsprechend.
+(1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte können zu einem verkürzten Aufstieg in den gehobenen Polizeivollzugsdienst in der Bundespolizei zugelassen werden, wenn
 
-1.
+1. ein dienstliches Bedürfnis besteht und
 
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+2. die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten a)bei Beginn des Aufstiegs noch nicht 57 Jahre alt sind,b)sich in einer Dienstzeit von mindestens zehn Jahren bewährt haben,c)sich im Amt der Polizeihauptmeisterin oder des Polizeihauptmeisters mindestens drei Jahre bewährt haben,d)in den letzten beiden dienstliche Beurteilungen überdurchschnittlich bewertet worden sind unde)erfolgreich an einem Auswahlverfahren teilgenommen haben. bei Beginn des Aufstiegs noch nicht 57 Jahre alt sind, sich in einer Dienstzeit von mindestens zehn Jahren bewährt haben, sich im Amt der Polizeihauptmeisterin oder des Polizeihauptmeisters mindestens drei Jahre bewährt haben, in den letzten beiden dienstliche Beurteilungen überdurchschnittlich bewertet worden sind und erfolgreich an einem Auswahlverfahren teilgenommen haben.
 
 (2) § 15 Absatz 2 gilt entsprechend.
 
@@ -226,53 +200,35 @@ e)
 
 (1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Spitzensportförderung in der Bundespolizei können zu einem verkürzten Aufstieg in den gehobenen Polizeivollzugsdienst in der Bundespolizei zugelassen werden, wenn
 
-1.
+1. dafür ein dienstliches Bedürfnis besteht und
 
-2.
-
-a)
-
-b)
-
-c)
-
-d)
+2. die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten a)bei Beginn des Aufstiegs noch nicht 40 Jahre alt sind,b)sich in dem von der Bundespolizei geförderten Spitzensport mindestens drei Jahre bewährt haben,c)den Vorbereitungsdienst für den mittleren Polizeivollzugsdienst in der Bundespolizei mit einem mindestens überdurchschnittlichen Ergebnis abgeschlossen haben undd)erfolgreich an einem Auswahlverfahren teilgenommen haben.Bei der Bemessung der Bewährungszeit sind Zeiten einer Teilzeitbeschäftigung wie Zeiten einer Vollzeitbeschäftigung zu behandeln, soweit nicht zwingende sachliche Gründe entgegenstehen. bei Beginn des Aufstiegs noch nicht 40 Jahre alt sind, sich in dem von der Bundespolizei geförderten Spitzensport mindestens drei Jahre bewährt haben, den Vorbereitungsdienst für den mittleren Polizeivollzugsdienst in der Bundespolizei mit einem mindestens überdurchschnittlichen Ergebnis abgeschlossen haben und erfolgreich an einem Auswahlverfahren teilgenommen haben.
 
 (2) Für das Auswahlverfahren gilt § 44 der Bundeslaufbahnverordnung mit der Maßgabe, dass
 
-1.
+1. über die Zulassung zum Aufstieg – abweichend von § 44 Absatz 6 der Bundeslaufbahnverordnung – das Bundespolizeipräsidium entscheidet,
 
-2.
+2. im Fall des § 36 Absatz 4 Satz 8 der Bundeslaufbahnverordnung die Teilnahme am Auswahlverfahren einmal, bei erfolgreicher Teilnahme auch mehrfach wiederholt werden kann.
 
 (3) Die Aufstiegsausbildung dauert sechs Monate. Sie umfasst eine theoretische und eine praktische Ausbildung. In der theoretischen Ausbildung können Fernlehrmethoden eingesetzt werden.
 
-(4) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Spitzensportförderung der Bundespolizei, die die Befähigung für die nächsthöhere Laufbahn nach den Absätzen 1 bis 3 erworben haben, können höchstens ein Amt der Besoldungsgruppe A 11 erreichen. Für die Übertragung eines Amtes der neuen Laufbahn und für die Verleihung des ersten Beförderungsamtes gilt § 48 der Bundeslaufbahnverordnung. Abweichend davon kann den Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten in der Spitzensportförderung der Bundespolizei, die mindestens ein Jahr ein Amt der Besoldungsgruppe A 9m mit Amtszulage innehaben, das Amt einer Polizeioberkommissarin oder eines Polizeioberkommissars unmittelbar übertragen werden.
+(4) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Spitzensportförderung der Bundespolizei, die die Befähigung für die nächsthöhere Laufbahn nach den Absätzen 1 bis 3 erworben haben, können höchstens ein Amt der Besoldungsgruppe A 11 erreichen. Für die Übertragung eines Amtes der neuen Laufbahn und für die Verleihung des ersten Beförderungsamtes gilt § 48 der Bundeslaufbahnverordnung. Abweichend davon kann den Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten in der Spitzensportförderung der Bundespolizei, die mindestens ein Jahr ein Amt der Besoldungsgruppe A 9m mit Amtszulage innehaben, das Amt einer Polizeioberkommissarin oder eines Polizeioberkommissars unmittelbar übertragen werden.
 
 ### § 17 — Verkürzter Aufstieg in den höheren Polizeivollzugsdienst in der Bundespolizei
 
 (1) Abweichend von § 15 können Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte zu einem verkürzten Aufstieg in den höheren Polizeivollzugsdienst in der Bundespolizei zugelassen werden, wenn
 
-1.
+1. die Zulassung vor Ablauf des 31. Dezember 2023 erfolgt,
 
-2.
+2. für die Zulassung ein dienstliches Bedürfnis besteht und
 
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+3. die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten a)bei Beginn des Aufstiegs noch nicht 55 Jahre alt sind,b)sich in einer Dienstzeit von mindestens zehn Jahren bewährt haben,c)sich im Amt der Ersten Polizeihauptkommissarin oder des Ersten Polizeihauptkommissars mindestens drei Jahre bewährt haben,d)in der letzten dienstlichen Beurteilung in ihrer Besoldungsgruppe mindestens mit der Note B 1 beurteilt worden sind unde)erfolgreich an einem Auswahlverfahren teilgenommen haben. bei Beginn des Aufstiegs noch nicht 55 Jahre alt sind, sich in einer Dienstzeit von mindestens zehn Jahren bewährt haben, sich im Amt der Ersten Polizeihauptkommissarin oder des Ersten Polizeihauptkommissars mindestens drei Jahre bewährt haben, in der letzten dienstlichen Beurteilung in ihrer Besoldungsgruppe mindestens mit der Note B 1 beurteilt worden sind und erfolgreich an einem Auswahlverfahren teilgenommen haben.
 
 (2) Für das Auswahlverfahren gilt § 44 der Bundeslaufbahnverordnung mit der Maßgabe, dass
 
-1.
+1. über die Zulassung zum Aufstieg – abweichend von § 44 Absatz 6 Satz 1 der Bundeslaufbahnverordnung – das Bundespolizeipräsidium entscheidet,
 
-2.
+2. im Fall des § 44 Absatz 4 Satz 8 der Bundeslaufbahnverordnung die Teilnahme am Auswahlverfahren einmal, bei erfolgreicher Teilnahme auch mehrfach wiederholt werden kann.
 
 (3) Die Aufstiegsausbildung dauert in der Regel zwölf Monate. Die Aufstiegsausbildung kann auf neun Monate verkürzt werden, soweit berufspraktische Kenntnisse durch die Wahrnehmung von Aufgaben des höheren Polizeivollzugsdienstes nachgewiesen sind. Die Aufstiegsausbildung umfasst eine theoretische und eine praktische Ausbildung. Die theoretische Ausbildung dauert vier Monate. In der theoretischen Ausbildung können Fernlehrmethoden eingesetzt werden.
 
@@ -282,25 +238,13 @@ e)
 
 ### § 18 — Ausnahmen für besonders leistungsstarke Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte des mittleren Polizeivollzugsdienstes in der Bundespolizei
 
-(1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten des mittleren Polizeivollzugsdienstes in der Bundespolizei kann ein Amt der Laufbahn des gehobenen Polizeivollzugsdienstes in der Bundespolizei verliehen werden, wenn Das Nähere regelt das Bundespolizeipräsidium in ergänzenden Bestimmungen.
+(1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten des mittleren Polizeivollzugsdienstes in der Bundespolizei kann ein Amt der Laufbahn des gehobenen Polizeivollzugsdienstes in der Bundespolizei verliehen werden, wenn
 
-1.
+1. die Verleihung vor Ablauf des 31. Dezember 2023 erfolgt,
 
-2.
+2. für die Verleihung ein dienstliches Bedürfnis besteht und
 
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
+3. die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten a)bei der Zulassung für die Laufbahn des gehobenen Polizeivollzugsdienstes noch nicht 59 Jahre alt sind,b)sich in einer Dienstzeit von mindestens zehn Jahren bewährt haben,c)sich im Amt der Polizeihauptmeisterin oder des Polizeihauptmeisters mindestens drei Jahre bewährt haben,d)in der letzten dienstlichen Beurteilung in ihrer Besoldungsgruppe mindestens mit der Note B 1 beurteilt worden sind,e)im Rahmen einer Bestenauslese ausgewählt worden sind undf)erfolgreich an einem Feststellungsgespräch teilgenommen haben. bei der Zulassung für die Laufbahn des gehobenen Polizeivollzugsdienstes noch nicht 59 Jahre alt sind, sich in einer Dienstzeit von mindestens zehn Jahren bewährt haben, sich im Amt der Polizeihauptmeisterin oder des Polizeihauptmeisters mindestens drei Jahre bewährt haben, in der letzten dienstlichen Beurteilung in ihrer Besoldungsgruppe mindestens mit der Note B 1 beurteilt worden sind, im Rahmen einer Bestenauslese ausgewählt worden sind und erfolgreich an einem Feststellungsgespräch teilgenommen haben.
 
 (2) Im Feststellungsgespräch wird geprüft, ob die Polizeivollzugsbeamtin oder der Polizeivollzugsbeamte die notwendigen Fachkenntnisse für den vorgesehenen Aufgabenbereich besitzt.
 
@@ -311,13 +255,5 @@ f)
 ### Anlage 1 — (zu § 3 Absatz 2)
 
 Die in § 3 Absatz 2 aufgeführten Laufbahnen umfassen die nachfolgenden Ämter:
-
-Mittlerer Polizeivollzugsdienst in der Bundespolizei
-
-Gehobener Polizeivollzugsdienst in der Bundespolizei
-
-Höherer Polizeivollzugsdienst in der Bundespolizei
-
-Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte im ärztlichen Dienst
 
 ### Anlage 2 — (zu § 12 Absatz 1)

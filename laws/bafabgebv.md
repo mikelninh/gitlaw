@@ -10,31 +10,31 @@
 
 Das Bundesministerium für Wirtschaft und Energie verordnet auf Grund
 
-–
+– des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) sowie
 
-–
+– des § 31 Absatz 3 Satz 2 bis 8 der Gewerbeordnung in der Fassung der Bekanntmachung vom 22. Februar 1999 (BGBl. I S. 202), § 31 Absatz 3 Satz 2 zuletzt geändert durch Artikel 222 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328), im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat:
 
 ### § 1 — Erhebung von Gebühren und Auslagen
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle erhebt in seinem Zuständigkeitsbereich Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen (gebührenfähige Leistungen), die aufgrund der folgenden Rechtsvorschriften erbracht werden:
 
-1.
+1. Gewerbeordnung,
 
-2.
+2. Satellitendatensicherheitsgesetz,
 
-3.
+3. Kraft-Wärme-Kopplungsgesetz,
 
-4.
+4. KWK-Ausschreibungsverordnung,
 
-5.
+5. Erdölbevorratungsgesetz,
 
-6.
+6. Erneuerbare-Energien-Gesetz,
 
-7.
+7. Verordnung (EU) 2015/936 des Europäischen Parlaments und des Rates vom 9. Juni 2015 über die gemeinsame Regelung der Einfuhren von Textilwaren aus bestimmten Drittländern, die nicht unter bilaterale Abkommen, Protokolle, andere Vereinbarungen oder eine spezifische Einfuhrregelung der Union fallen (ABl. L 160 vom 25.6.2015, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2018/173 (ABl. L 32 vom 6.2.2018, S. 12) geändert worden ist, in der jeweils geltenden Fassung,
 
-8.
+8. Durchführungsverordnung (EU) 2016/2148 der Kommission vom 7. Dezember 2016 zur Festlegung der Regeln für die Verwaltung und Aufteilung bestimmter durch die Verordnung (EU) 2015/936 des Europäischen Parlaments und des Rates für das Jahr 2017 eingeführter Höchstmengen für Textilwaren (ABl. L 333 vom 8.12.2016, S. 32), die zuletzt durch die Durchführungsverordnung (EU) 2017/992 (ABl. L 149 vom 13.6.2017, S. 66) geändert worden ist, in der jeweils geltenden Fassung,
 
-9.
+9. Durchführungsverordnung (EU) Nummer 498/2012 der Kommission vom 12. Juni 2012 über die Zuteilung von Zollkontingenten für Holzausfuhren aus der Russischen Föderation in die Europäische Union (ABl. L 152 vom 13.6.2012, S. 28), die zuletzt durch die Durchführungsverordnung (EU) 2021/11 (ABl. L 5 vom 8.1.2021, S. 1) geändert worden ist, in der jeweils geltenden Fassung.
 
 (2) Die Erhebung von Gebühren und Auslagen für gebührenfähige Leistungen, die vom Bundesamt für Wirtschaft und Ausfuhrkontrolle aufgrund anderer als der in Absatz 1 genannten Rechtsvorschriften erbracht werden, wird durch diese Verordnung nicht berührt.
 

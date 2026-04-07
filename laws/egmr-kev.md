@@ -11,19 +11,19 @@ Auf Grund des § 3 Absatz 2 des EGMR-Kostenhilfegesetzes vom 20. April 2013 (BGB
 
 ### § 1 — Erstattungsbeträge
 
-(1) Im Rahmen der Kostenhilfe nach dem EGMR-Kostenhilfegesetz werden Honorare, die einem Drittbetroffenen für einen Rechtsbeistand entstehen, in folgender Höhe erstattet: Die Erstattungsbeträge können bis auf die Hälfte reduziert werden, wenn das Verfahren in tatsächlicher und rechtlicher Hinsicht einfach und der Umfang unterdurchschnittlich ist. Beschränkt sich die Tätigkeit des Rechtsbeistands auf die Stellung des Antrags auf Drittbeteiligung, beläuft sich der Erstattungsbetrag auf 212,50 Euro.
+(1) Im Rahmen der Kostenhilfe nach dem EGMR-Kostenhilfegesetz werden Honorare, die einem Drittbetroffenen für einen Rechtsbeistand entstehen, in folgender Höhe erstattet:
 
-1.
+1. für die Vorbereitung des Falles, für die geschriebenen Stellungnahmen zur Zulässigkeit oder Begründetheit des Falles, für ergänzende Stellungnahmen, die vom Gerichtshof angefordert werden, sowie für den Vortrag zur gerechten Entschädigung oder zur gütlichen Einigung insgesamt 850,00 Euro,
 
-2.
+2. für die Teilnahme an einer mündlichen Verhandlung vor dem Gerichtshof oder an einer Zeugenvernehmung einschließlich der Vorbereitung 300,00 Euro,
 
-3.
+3. für die Teilnahme an Vergleichsverhandlungen 200,00 Euro.
 
-(2) Auslagen werden in folgender Höhe erstattet: Weitere Auslagen sind mit dem Honorar abgegolten.
+(2) Auslagen werden in folgender Höhe erstattet:
 
-1.
+1. Fahrtkosten, die durch die Teilnahme an einer mündlichen Verhandlung, an einer Zeugenvernehmung oder an Vergleichsverhandlungen entstehen, in Höhe des erstattungsfähigen Betrags nach § 5 des Justizvergütungs- und -entschädigungsgesetzes, wobei sich die Höhe des Fahrtkostenersatzes nach § 5 Absatz 2 Nummer 2 richtet, wenn ein eigenes oder unentgeltlich zur Nutzung überlassenes Kraftfahrzeug benutzt wird.
 
-2.
+2. Tagegeld, das durch die Teilnahme an einer mündlichen Verhandlung oder an einer Zeugenvernehmung oder an Vergleichsverhandlungen entsteht, in Höhe von 175,00 Euro pro Tag.
 
 ### § 2 — Inkrafttreten
 

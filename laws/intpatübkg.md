@@ -13,13 +13,13 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 ## Art I: Zustimmung zu den Übereinkommen
 
 
-Den folgenden Übereinkommen wird zugestimmt: Die Übereinkommen werden nachstehend veröffentlicht.
+Den folgenden Übereinkommen wird zugestimmt:
 
-1.
+1. dem in Straßburg am 27. November 1963 von der Bundesrepublik Deutschland unterzeichneten Übereinkommen zur Vereinheitlichung gewisser Begriffe des materiellen Rechts der Erfindungspatente (Straßburger Patentübereinkommen);
 
-2.
+2. dem in Washington am 19. Juni 1970 von der Bundesrepublik Deutschland unterzeichneten Vertrag über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens (Patentzusammenarbeitsvertrag);
 
-3.
+3. dem in München am 5. Oktober 1973 von der Bundesrepublik Deutschland unterzeichneten Übereinkommen über die Erteilung europäischer Patente (Europäisches Patentübereinkommen).
 
 ## Art II: Europäisches Patentrecht
 
@@ -48,13 +48,13 @@ Patent- und Markenamt
 
 (2) Europäische Anmeldungen, die ein Staatsgeheimnis (§ 93 des Strafgesetzbuches) enthalten können, sind beim Deutschen Patent- und Markenamt nach Maßgabe folgender Vorschriften einzureichen:
 
-1.
+1. In einer Anlage zur Anmeldung ist darauf hinzuweisen, daß die angemeldete Erfindung nach Auffassung des Anmelders ein Staatsgeheimnis enthalten kann.
 
-2.
+2. Genügt die Anmeldung den Anforderungen der Nummer 1 nicht, so wird die Entgegennahme durch Beschluß abgelehnt. Auf das Verfahren sind die Vorschriften des Patentgesetzes entsprechend anzuwenden. Die Entgegennahme der Anmeldung kann nicht mit der Begründung abgelehnt werden, daß die Anmeldung kein Staatsgeheimnis enthalte.
 
-3.
+3. Das Deutsche Patent- und Markenamt prüft die nach Maßgabe der Nummer 1 eingereichten Anmeldungen unverzüglich darauf, ob mit ihnen Patentschutz für eine Erfindung nachgesucht wird, die ein Staatsgeheimnis (§ 93 des Strafgesetzbuches) ist. Für das Verfahren gelten die Vorschriften des Patentgesetzes entsprechend; § 53 des Patentgesetzes ist anzuwenden.
 
-4.
+4. Ergibt die Prüfung nach Nummer 3, daß die Erfindung ein Staatsgeheimnis ist, so ordnet das Deutsche Patent- und Markenamt von Amts wegen an, daß die Anmeldung nicht weitergeleitet wird und jede Bekanntmachung unterbleibt. Mit der Rechtskraft der Anordnung gilt die europäische Patentanmeldung auch als eine von Anfang an beim Deutschen Patent- und Markenamt eingereichte nationale Patentanmeldung, für die eine Anordnung nach § 50 Abs. 1 des Patentgesetzes ergangen ist. § 9 Abs. 2 ist entsprechend anzuwenden.
 
 (3) Enthält die Anmeldung kein Staatsgeheimnis, so leitet das Deutsche Patent- und Markenamt die Patentanmeldung an das Europäische Patentamt weiter und unterrichtet den Anmelder hiervon.
 
@@ -66,17 +66,17 @@ Patent- und Markenamt
 
 ### § 6 — Nichtigkeit
 
-(1) Das mit Wirkung für die Bundesrepublik Deutschland erteilte europäische Patent wird auf Antrag für nichtig erklärt, wenn die deutschen Gerichte nach Maßgabe des Übereinkommens vom 19. Februar 2013 über ein Einheitliches Patentgericht (BGBl. 2021 II S. 850, 851) weiterhin zuständig sind und wenn sich ergibt, daß Soweit das europäische Patent für nichtig erklärt worden ist, gelten die Wirkungen des europäischen Patents und der Anmeldung als von Anfang an nicht eingetreten.
+(1) Das mit Wirkung für die Bundesrepublik Deutschland erteilte europäische Patent wird auf Antrag für nichtig erklärt, wenn die deutschen Gerichte nach Maßgabe des Übereinkommens vom 19. Februar 2013 über ein Einheitliches Patentgericht (BGBl. 2021 II S. 850, 851) weiterhin zuständig sind und wenn sich ergibt, daß
 
-1.
+1. der Gegenstand des europäischen Patents nach den Artikeln 52 bis 57 des Europäischen Patentübereinkommens nicht patentfähig ist,
 
-2.
+2. das europäische Patent die Erfindung nicht so deutlich und vollständig offenbart, daß ein Fachmann sie ausführen kann,
 
-3.
+3. der Gegenstand des europäischen Patents über den Inhalt der europäischen Patentanmeldung in ihrer bei der für die Einreichung der Anmeldung zuständigen Behörde ursprünglich eingereichten Fassung oder, wenn das Patent auf einer europäischen Teilanmeldung oder einer nach Artikel 61 des Europäischen Patentübereinkommens eingereichten neuen europäischen Patentanmeldung beruht, über den Inhalt der früheren Anmeldung in ihrer bei der für die Einreichung der Anmeldung zuständigen Behörde ursprünglich eingereichten Fassung hinausgeht,
 
-4.
+4. der Schutzbereich des europäischen Patents erweitert worden ist,
 
-5.
+5. der Inhaber des europäischen Patents nicht nach Artikel 60 Abs. 1 des Europäischen Patentübereinkommens berechtigt ist.
 
 (2) Betreffen die Nichtigkeitsgründe nur einen Teil des europäischen Patents, wird das Patent durch entsprechende Änderung der Patentansprüche beschränkt und für teilweise nichtig erklärt.
 
@@ -98,13 +98,13 @@ Das Deutsche Patent- und Markenamt erteilt ergänzende Schutzzertifikate nach §
 
 (1) Soweit der Gegenstand eines im Verfahren nach dem Patentgesetz erteilten Patents eine Erfindung ist, für die demselben Erfinder oder seinem Rechtsnachfolger mit Wirkung für die Bundesrepublik Deutschland ein europäisches Patent mit derselben Priorität erteilt worden ist, das auf Grund der Inanspruchnahme der Ausnahmeregelung des Artikels 83 Absatz 3 des Übereinkommens über ein Einheitliches Patentgericht nicht der ausschließlichen Gerichtsbarkeit des Einheitlichen Patentgerichts unterliegt, hat das Patent in dem Umfang, in dem es dieselbe Erfindung wie das europäische Patent schützt, von dem Zeitpunkt an keine Wirkung mehr, zu dem
 
-1.
+1. die Frist zur Einlegung des Einspruchs gegen das europäische Patent abgelaufen ist, ohne daß Einspruch eingelegt worden ist,
 
-2.
+2. das Einspruchsverfahren unter Aufrechterhaltung des europäischen Patents rechtskräftig abgeschlossen ist,
 
-3.
+3. die Inanspruchnahme der Ausnahmeregelung nach Artikel 83 Absatz 3 des Übereinkommens über ein Einheitliches Patentgericht in Bezug auf das europäische Patent wirksam geworden ist, wenn dieser Zeitpunkt nach dem in den Nummern 1 oder 2 genannten Zeitpunkt liegt oder
 
-4.
+4. das Patent erteilt wird, wenn dieser Zeitpunkt nach dem in den Nummern 1 bis 3 genannten Zeitpunkt liegt.
 
 (2) Der Eintritt der Rechtsfolge nach Absatz 1 ist endgültig.
 
@@ -160,11 +160,11 @@ Ein europäisches Patent mit einheitlicher Wirkung ist in Bezug auf die Vorschri
 
 (1) Eine Klage wegen Verletzung oder drohender Verletzung eines im Verfahren nach dem Patentgesetz erteilten Patents ist als unzulässig abzuweisen,
 
-1.
+1. soweit Gegenstand des Patents eine Erfindung ist, für die demselben Erfinder oder seinem Rechtsnachfolger mit Wirkung für die Bundesrepublik Deutschland ein europäisches Patent oder ein europäisches Patent mit einheitlicher Wirkung mit derselben Priorität erteilt worden ist, und
 
-2.
+2. wenn ein Verfahren vor dem Einheitlichen Patentgericht gegen dieselbe Partei wegen Verletzung oder drohender Verletzung des europäischen Patents oder des europäischen Patents mit einheitlicher Wirkung nach Nummer 1 durch die gleiche Ausführungsform rechtshängig ist oder das Einheitliche Patentgericht über ein solches Begehren eine rechtskräftige Entscheidung getroffen hat und
 
-3.
+3. sofern der Beklagte dies in dem ersten Termin nach Entstehung der Einrede vor Beginn der mündlichen Verhandlung zur Hauptsache rügt.
 
 (2) Erhebt der Beklagte eine Einrede nach Absatz 1, kann das Gericht anordnen, dass die Verhandlung bis zur Erledigung des Verfahrens vor dem Einheitlichen Patentgericht auszusetzen sei.
 
@@ -214,11 +214,11 @@ Das Deutsche Patent- und Markenamt gibt bekannt, welche Behörde für die Bearbe
 
 (2) Ist das Deutsche Patent- und Markenamt Bestimmungsamt, so hat der Anmelder innerhalb einer Frist von 31 Monaten nach dem Anmeldetag oder, wenn eine Priorität in Anspruch genommen worden ist, nach dem Prioritätsdatum die Gebühr nach dem Patentkostengesetz für das Anmeldeverfahren zu entrichten sowie, sofern die internationale Anmeldung nicht in deutscher Sprache eingereicht worden ist, eine Übersetzung der Anmeldung in deutscher Sprache einzureichen. Ist das Deutsche Patent- und Markenamt auch Anmeldeamt, so gilt die Anmeldegebühr mit der Zahlung der Übermittlungsgebühr als entrichtet.
 
-(3) Zur Wahrung der in Absatz 2 Satz 1 vorgesehenen Frist hat der Anmelder eines Patents die Gebühr zu entrichten, die sich nach dem Patentkostengesetz für die ursprünglich eingereichte Fassung der internationalen Anmeldung ergibt. Sind die Ansprüche der internationalen Anmeldung im Verfahren vor dem Internationalen Büro geändert worden und ergibt sich dadurch eine höhere Gebühr nach dem Patentkostengesetz, so wird der Unterschiedsbetrag fällig Wird der Unterschiedsbetrag nicht innerhalb von drei Monaten ab Fälligkeit gezahlt, so wird die Änderung der Ansprüche nicht berücksichtigt.
+(3) Zur Wahrung der in Absatz 2 Satz 1 vorgesehenen Frist hat der Anmelder eines Patents die Gebühr zu entrichten, die sich nach dem Patentkostengesetz für die ursprünglich eingereichte Fassung der internationalen Anmeldung ergibt. Sind die Ansprüche der internationalen Anmeldung im Verfahren vor dem Internationalen Büro geändert worden und ergibt sich dadurch eine höhere Gebühr nach dem Patentkostengesetz, so wird der Unterschiedsbetrag fällig
 
-1.
+1. mit Ablauf der in Absatz 2 Satz 1 bestimmten Frist oder
 
-2.
+2. mit Einreichung eines Antrags auf vorzeitige Bearbeitung nach Artikel 23 Absatz 2 des Patentzusammenarbeitsvertrags.
 
 (4) Wird für die internationale Anmeldung die Priorität einer beim Deutschen Patent- und Markenamt eingereichten früheren Patent- oder Gebrauchsmusteranmeldung beansprucht, so gilt diese abweichend von § 40 Abs. 5 des Patentgesetzes oder § 6 Abs. 1 des Gebrauchsmustergesetzes zu dem Zeitpunkt als zurückgenommen, zu dem die Voraussetzungen des Absatzes 2 erfüllt und die in Absatz 2 Satz 1 vorgesehene Frist abgelaufen ist. Wird für die internationale Anmeldung nach Satz 1 ein Antrag auf vorzeitige Bearbeitung oder Prüfung nach Artikel 23 Abs. 2 oder Artikel 40 Abs. 2 des Patentzusammenarbeitsvertrags gestellt, gilt die frühere Patent- oder Gebrauchsmusteranmeldung zu dem Zeitpunkt als zurückgenommen, zu dem die Voraussetzungen des Absatzes 2 erfüllt sind und der Antrag auf vorzeitige Prüfung oder Bearbeitung beim Deutschen Patent- und Markenamt eingegangen ist.
 
@@ -256,11 +256,11 @@ Auf die Begründung eines Geschäftssitzes nach Artikel 134 Abs. 6 und 8 des Eur
 
 Im Bundesgesetzblatt sind bekanntzumachen:
 
-1.
+1. Änderungen des Europäischen Patentübereinkommens, die der Verwaltungsrat der Europäischen Patentorganisation nach Artikel 33 Abs. 1 des Europäischen Patentübereinkommens beschließt, und die Gebührenordnung, die nach Artikel 33 Abs. 2 Buchstabe d erlassen wird, sowie deren Änderung;
 
-2.
+2. Änderungen des Patentzusammenarbeitsvertrags und der Ausführungsordnung zu diesem Vertrag, die die Versammlung des Verbands für die Internationale Zusammenarbeit auf dem Gebiet des Patentwesens nach Artikel 47 Abs. 2, Artikel 58 Abs. 2 und Artikel 61 Abs. 2 des Vertrags beschließt. Das gleiche gilt für Änderungen im schriftlichen Verfahren nach Artikel 47 Abs. 2 des Vertrags;
 
-3.
+3. Änderungen der Satzung des Einheitlichen Patentgerichts, die der Verwaltungsausschuss des Einheitlichen Patentgerichts nach Artikel 40 Absatz 2 des Übereinkommens über ein Einheitliches Patentgericht beschließt, die Verfahrensordnung des Einheitlichen Patentgerichts sowie deren Änderung, die der Verwaltungsausschuss des Einheitlichen Patentgerichts nach Artikel 41 Absatz 2 des Übereinkommens über ein Einheitliches Patentgericht beschließt.
 
 ## Art XI: Übergangs- und Schlußbestimmungen
 
@@ -280,13 +280,13 @@ Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung die
 
 (1) Artikel I, Artikel V, Artikel VIII sowie die §§ 2 und 3 dieses Artikels treten am 1. Oktober 1976 in Kraft.
 
-(2) Der Tag, an dem für die Bundesrepublik Deutschland in Kraft treten, ist im Bundesgesetzblatt bekanntzugeben.
+(2) Der Tag, an dem
 
-1.
+1. das Straßburger Patentübereinkommen nach seinem Artikel 9,
 
-2.
+2. der Patentzusammenarbeitsvertrag nach seinem Artikel 63,
 
-3.
+3. das Europäische Patentübereinkommen nach seinem Artikel 169
 
 (3) Artikel II, Artikel VII sowie Artikel IX, soweit er die Einfügung von Nummer 10 in Artikel 1 § 1 Buchstabe A des Gesetzes über die Gebühren des Patentamts und des Patentgerichts betrifft, und Artikel X Nr. 1 treten an dem Tag in Kraft, an dem nach der Bestimmung des Verwaltungsrats der Europäischen Patentorganisation europäische Patentanmeldungen beim Europäischen Patentamt eingereicht werden können (Artikel 162 Abs. 1 des Europäischen Patentübereinkommens); der Tag des Inkrafttretens ist im Bundesgesetzblatt bekanntzugeben.
 

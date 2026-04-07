@@ -21,5 +21,3 @@ Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt, Rechtsvero
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Verkehr und für das Post- und Fernmeldewesen

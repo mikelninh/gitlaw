@@ -17,7 +17,9 @@ Im Anschluß an den Zweiten Staatsvertrag zwischen dem Land Baden-Württemberg u
 
 ### Art 2
 
-Für den in Artikel 3 bis 26 festgelegten Verlauf der neuen Landesgrenze sind die Anlagen 1 bis 25*) zu diesem Staatsvertrag und die dort aufgeführten Katasterunterlagen über die Festlegung der Landesgrenzpunkte in den Liegenschaftskatastern von Bayern und Baden-Württemberg maßgebend. ----------
+Für den in Artikel 3 bis 26 festgelegten Verlauf der neuen Landesgrenze sind die Anlagen 1 bis 25*) zu diesem Staatsvertrag und die dort aufgeführten Katasterunterlagen über die Festlegung der Landesgrenzpunkte in den Liegenschaftskatastern von Bayern und Baden-Württemberg maßgebend.
+
+*) Vom Abdruck wird abgesehen, siehe Artikel 29 des Vertrages.
 
 ### Art 3
 
@@ -27,25 +29,25 @@ Zwischen der Gemeinde Neunkirchen, Landkreis Miltenberg, Freistaat Bayern, und d
 
 Zwischen dem Markt Neubrunn, Landkreis Würzburg, Freistaat Bayern, und der Stadt Wertheim, Main-Tauber-Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
-1.
+1. vom Landesgrenzpunkt 928 bis zum Landesgrenzpunkt 930 nach Maßgabe der Anlage 4, Seiten 1 und 2;
 
-2.
+2. vom Landesgrenzpunkt 939/1 bis zum Landesgrenzpunkt 943/2 nach Maßgabe der Anlage 4, Seiten 1 und 2.
 
 ### Art 5
 
 Zwischen dem Markt Neubrunn, Landkreis Würzburg, Freistaat Bayern, und der Gemeinde Werbach, Main-Tauber-Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
-1.
+1. vom Landesgrenzpunkt 848 bis zum Landesgrenzpunkt 852 nach Maßgabe der Anlage 5, Seiten 1 und 2;
 
-2.
+2. vom Landesgrenzpunkt 860 bis zum Landesgrenzpunkt 863 nach Maßgabe der Anlage 5, Seiten 1 und 2.
 
 ### Art 6
 
 Zwischen der Gemeinde Altertheim, Landkreis Würzburg, Freistaat Bayern, und der Gemeinde Werbach, Main-Tauber-Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
-1.
+1. vom Landesgrenzpunkt 743/1 bis zum Landesgrenzpunkt 744 (alt) nach Maßgabe der Anlage 6, Seiten 2 und 3;
 
-2.
+2. vom Landesgrenzpunkt 745/1 bis zum Landesgrenzpunkt 750/2 nach Maßgabe der Anlage 6, Seiten 1 und 3.
 
 ### Art 7
 
@@ -63,9 +65,9 @@ Zwischen dem gemeindefreien Gebiet Irtenberger Wald, Landkreis Würzburg, Freist
 
 Zwischen der Gemeinde Kirchheim, Landkreis Würzburg, Freistaat Bayern, und der Gemeinde Wittighausen, Main-Tauber-Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
-1.
+1. vom Landesgrenzpunkt 420 bis zum Landesgrenzpunkt 424 nach Maßgabe der Anlage 10, Seiten 1 und 3;
 
-2.
+2. vom Landesgrenzpunkt 430 bis zum Landesgrenzpunkt 431 nach Maßgabe der Anlage 10, Seiten 2 und 3.
 
 ### Art 11
 
@@ -75,39 +77,39 @@ Zwischen der Gemeinde Tauberrettersheim, Landkreis Würzburg, Freistaat Bayern, 
 
 Zwischen der Gemeinde Bieberehren, Landkreis Würzburg, Freistaat Bayern, und der Stadt Creglingen, Main-Tauber-Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
-1.
+1. vom Landesgrenzpunkt 129/1 bis zum Landesgrenzpunkt 132/6 nach Maßgabe der Anlage 12, Seiten 2 und 3;
 
-2.
+2. vom Landesgrenzpunkt 133/2 bis zum Landesgrenzpunkt 137/1 nach Maßgabe der Anlage 12, Seiten 2 und 3;
 
-3.
+3. vom Landesgrenzpunkt 138 bis zum Landesgrenzpunkt 144 nach Maßgabe der Anlage 12, Seiten 2 und 3;
 
-4.
+4. vom Landesgrenzpunkt 153 bis zum Landesgrenzpunkt 164 nach Maßgabe der Anlage 12, Seiten 1 und 3.
 
 ### Art 13
 
 Zwischen der Gemeinde Bieberehren, Landkreis Würzburg, Freistaat Bayern, und der Stadt Creglingen, Main-Tauber-Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
-1.
+1. vom Landesgrenzpunkt 100/1 bis zum Landesgrenzpunkt 101/1 nach Maßgabe der Anlage 13, Seiten 1 und 3;
 
-2.
+2. vom Landesgrenzpunkt 105 bis zum Landesgrenzpunkt 106 nach Maßgabe der Anlage 13, Seiten 2 und 3.
 
 ### Art 14
 
 Zwischen der Gemeinde Simmershofen, Landkreis Neustadt a.d. Aisch-Bad Windsheim, der Stadt Aub und der Gemeinde Bieberehren, Landkreis Würzburg, Freistaat Bayern, und der Stadt Creglingen, Main-Tauber-Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
-1.
+1. vom Landesgrenzpunkt 963/1 bis zum Landesgrenzpunkt 967 nach Maßgabe der Anlage 14, Seiten 1 und 9;
 
-2.
+2. vom Landesgrenzpunkt 971/4 bis zum Landesgrenzpunkt 986 nach Maßgabe der Anlage 14, Seiten 2, 3 und 9;
 
-3.
+3. vom Landesgrenzpunkt 992 bis zum Landesgrenzpunkt 997/1 nach Maßgabe der Anlage 14, Seiten 4 und 9;
 
-4.
+4. vom Landesgrenzpunkt 43 bis zum Landesgrenzpunkt 43/3 nach Maßgabe der Anlage 14, Seiten 5 und 10;
 
-5.
+5. vom Landesgrenzpunkt 59 bis zum Landesgrenzpunkt 61 nach Maßgabe der Anlage 14, Seiten 7 und 10;
 
-6.
+6. vom Landesgrenzpunkt 63 bis zum Landesgrenzpunkt 67/1 nach Maßgabe der Anlage 14, Seiten 7 und 10;
 
-7.
+7. vom Landesgrenzpunkt 94/1 bis zum Landesgrenzpunkt 97 nach Maßgabe der Anlage 14, Seiten 8 und 10.
 
 ### Art 15
 
@@ -137,9 +139,9 @@ Zwischen der Gemeinde Bächingen a.d. Brenz, Landkreis Dillingen a.d. Donau, Fre
 
 Zwischen der Gemeinde Bächingen a.d. Brenz, Landkreis Dillingen a.d. Donau, Freistaat Bayern, und der Gemeinde Sontheim an der Brenz, Landkreis Heidenheim, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
-1.
+1. vom Landesgrenzpunkt 372 bis zum Landesgrenzpunkt 376/1 nach Maßgabe der Anlage 21, Seiten 1 und 2;
 
-2.
+2. vom Landesgrenzpunkt 377 bis zum Landesgrenzpunkt 383 nach Maßgabe der Anlage 21, Seiten 1 und 2.
 
 ### Art 22
 
@@ -153,9 +155,9 @@ Zwischen der Gemeinde Lautrach, Landkreis Unterallgäu, Freistaat Bayern, und de
 
 Zwischen dem Markt Altusried, Landkreis Oberallgäu, Freistaat Bayern, und der Stadt Leutkirch im Allgäu, Landkreis Ravensburg, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
-1.
+1. vom Landesgrenzpunkt 452/3 bis zum Landesgrenzpunkt 454 nach Maßgabe der Anlage 23, Seiten 1 und 2;
 
-2.
+2. vom Landesgrenzpunkt 454/2 bis zum Landesgrenzpunkt 454/3 nach Maßgabe der Anlage 23, Seiten 1 und 2.
 
 ### Art 25
 

@@ -16,12 +16,14 @@ Auf Grund des § 3 Abs. 1 und Abs. 3 Satz 1 des Allgemeinen Eisenbahngesetzes vo
 
 ### § 2
 
-(1) Auf Eisenbahnen des nichtöffentlichen Verkehrs ist bei Dunkelheit vorn am ersten Fahrzeug, wenn dieses ein Triebfahrzeug ist, ein Spitzensignal zu führen, das aus drei weiß leuchtenden Laternen in Form eines A (Dreilicht-Spitzensignal) besteht. (Inhalt: nicht darstellbare Abbildung, Fundstelle: BGBl II 1957, 1269)(2) Das Signal braucht nicht geführt zu werden, wenn rangiert wird und dabei Bahnübergänge ohne technische Sicherung (Schranke oder Blinklichtanlage) oder ohne Sicherungsposten nicht befahren werden.(3) In den übrigen Fällen ist nach den von den Ländern für Anschlußbahnen erlassenen Bestimmungen zu verfahren.
+(2) Das Signal braucht nicht geführt zu werden, wenn rangiert wird und dabei Bahnübergänge ohne technische Sicherung (Schranke oder Blinklichtanlage) oder ohne Sicherungsposten nicht befahren werden.
+
+(3) In den übrigen Fällen ist nach den von den Ländern für Anschlußbahnen erlassenen Bestimmungen zu verfahren.
 
 ### § 3
 
-(1) Die Verordnung tritt am ersten Tage des auf ihre Verkündung folgenden Monats in Kraft.(2)
+(1) Die Verordnung tritt am ersten Tage des auf ihre Verkündung folgenden Monats in Kraft.
+
+(2)
 
 ### Schlußformel
-
-Der Bundesminister für Verkehr

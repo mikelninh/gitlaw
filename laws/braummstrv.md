@@ -19,73 +19,73 @@ Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 2
 
 (1) Dem Brauer- und Mälzer-Handwerk sind folgende Tätigkeiten zuzurechnen:
 
-1.
+1. Herstellung von Malzen,
 
-2.
+2. Herstellung und Abfüllung von Bieren und alkoholfreien Getränken.
 
 (2) Dem Brauer- und Mälzer-Handwerk sind folgende Kenntnisse und Fertigkeiten zuzurechnen:
 
-1.
+1. Kenntnisse der berufsbezogenen Roh-, Hilfs- und Betriebsstoffe,
 
-2.
+2. Kenntnisse der Herstellung von Malz, insbesondere Aufbereitung und Lagerung der Rohstoffe, Weichen, Keimen und Darren,
 
-3.
+3. Kenntnisse der Herstellung und Abfüllung von Bier, insbesondere Würzeherstellung, Gärung, Lagerung und Filtration,
 
-4.
+4. Kenntnisse der Herstellung und Abfüllung alkoholfreier Getränke,
 
-5.
+5. Kenntnisse der berufsbezogenen Hygienevorschriften und Reinigungstechniken,
 
-6.
+6. Kenntnisse der biologischen und der chemisch-technischen Betriebs- und Qualitätskontrolle, insbesondere der Rohstoff-Analyse,
 
-7.
+7. Kenntnisse über Qualitätsmanagement,
 
-8.
+8. Kenntnisse der berufsbezogenen Physik, Chemie, Mathematik und Biologie, insbesondere Mikrobiologie,
 
-9.
+9. Kenntnisse der Mälzereianlagen, insbesondere Aufbereitung der Rohstoffe, Weich-, Keim- und Darranlagen,
 
-10.
+10. Kenntnisse der Brauereianlagen, insbesondere Schroterei, Würzeherstellung, Gärung, Lagerung, Filtration und Abfüllung,
 
-11.
+11. Kenntnisse der berufsbezogenen Energieversorgungs- und Umweltschutzanlagen,
 
-12.
+12. Kenntnisse der berufsbezogenen Prozeßautomation,
 
-13.
+13. Kenntnisse der berufsbezogenen Vorschriften, insbesondere des Lebensmittelrechts und der Vorschriften über den Betrieb von Schankanlagen,
 
-14.
+14. Kenntnisse der berufsbezogenen Vorschriften des Umweltschutzes und der rationellen Energieverwendung,
 
-15.
+15. Kenntnisse der berufsbezogenen Vorschriften der Arbeitssicherheit und des Arbeitsschutzes,
 
-16.
+16. Kenntnisse der berufsbezogenen Ernährungslehre,
 
-17.
+17. Kenntnisse der Etikettierung, Ausstattung, Verpackung, Logistik und Vermarktung,
 
-18.
+18. Beurteilen und Auswählen von Rohstoffen,
 
-19.
+19. Herstellen von Malz, insbesondere Aufbereiten der Mälzereirohstoffe, Weichen, Keimen und Darren,
 
-20.
+20. Entkeimen, Wiegen und Lagern von Malz,
 
-21.
+21. Schroten von Malz,
 
-22.
+22. Maischen, Abläutern, Würzekochen, Ausschlagen und Würze behandeln,
 
-23.
+23. Anstellen, Gären und Schlauchen,
 
-24.
+24. Lagern, Nachgären und Klären,
 
-25.
+25. Filtrieren und Haltbarmachen, insbesondere Kurzzeiterhitzen und Pasteurisieren,
 
-26.
+26. Abfüllen,
 
-27.
+27. Einsetzen der technischen Anlagen, insbesondere Einrichten, Bedienen, Steuern und Überwachen,
 
-28.
+28. Steuern und Überwachen des Produktionsablaufes,
 
-29.
+29. Durchführen berufsbezogener Analysen und Kontrollen sowie ihre Dokumentation,
 
-30.
+30. Reinigen und Desinfizieren,
 
-31.
+31. Instandhalten der Brauerei- und Mälzereieinrichtungen sowie von Schankanlagen.
 
 ## 2. Abschnitt: Prüfungsanforderungen in den Teilen I
 und II der Meisterprüfung
@@ -102,25 +102,25 @@ und II der Meisterprüfung
 
 Als Meisterprüfungsarbeit sind zwei der nachstehend genannten Arbeiten anzufertigen:
 
-1.
+1. Beschreibung der Würzeherstellung für vorgegebene Biersorten,
 
-2.
+2. Beschreibung der Vergärung und Reifung für vorgegebene Biersorten,
 
-3.
+3. Beschreibung der Filtration und Haltbarmachung des Bieres,
 
-4.
+4. Beschreibung der Abfüllung und Verpackung von Bieren oder alkoholfreien Getränken,
 
-5.
+5. Beschreibung der Malzherstellung mit vorgegebenen Rohstoffen.
 
 ### § 4 — Arbeitsprobe
 
 (1) Als Arbeitsprobe sind die nachstehend genannten Arbeiten auszuführen:
 
-1.
+1. Beurteilen von Roh-, Hilfs- und Betriebsstoffen,
 
-2.
+2. Durchführen einer biologischen Betriebskontrolle; dabei sind Proben zu entnehmen, zu verarbeiten, zu beurteilen und auszuwerten, ferner ist ein biologisches Präparat anzulegen, ist mit dem Mikroskop zu arbeiten und sind Hefen sowie bierschädliche Keime zu identifizieren,
 
-3.
+3. Durchführen einer chemisch-technischen Betriebskontrolle; dabei sind ein Rohstoff, Brauch-, Betriebs- und Abwässer, Würze und Bier sowie ein alkoholfreies Getränk zu analysieren und zu beurteilen, sind Mälzungsabläufe und Sudprozesse nach vorgegebenen Diagrammen zu beurteilen und sind vorgegebene Gär- und Filtrationsdiagramme sowie Filtrationsberichte zu beurteilen.
 
 (2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.
 
@@ -128,45 +128,13 @@ Als Meisterprüfungsarbeit sind zwei der nachstehend genannten Arbeiten anzufert
 
 (1) In Teil II sind Kenntnisse in den folgenden vier Prüfungsfächern nachzuweisen:
 
-1.
+1. Fachtechnologie:a)Herstellung von Malz, insbesondere Aufbereitung und Lagerung der Rohstoffe, Weichen, Keimen und Darren, b)Herstellung und Abfüllung von Bier, insbesondere Würzebereitung, Gärung, Lagerung und Filtration, c)Herstellung und Abfüllung alkoholfreier Getränke, d)berufsbezogene Hygienevorschriften und Reinigungstechniken, e)Mälzereianlagen, insbesondere Aufbereitung der Rohstoffe, Weich-, Keim- und Darranlagen, f)Brauereianlagen, insbesondere Schroterei, Würzeherstellung, Gärung, Lagerung, Filtration und Abfüllung, g)berufsbezogene Energieversorgungs- und Umweltschutzanlagen, h)Etikettierung, Ausstattung, Verpackung, Logistik und Vermarktung, i)berufsbezogene Prozeßautomation, k)berufsbezogene Vorschriften des Umweltschutzes und der rationellen Energieverwendung, l)berufsbezogene Vorschriften, insbesondere des Lebensmittelrechts und der Vorschriften über den Betrieb von Schankanlagen, m)berufsbezogene Vorschriften der Arbeitssicherheit und des Arbeitsschutzes, n)berufsbezogene Ernährungslehre; Herstellung von Malz, insbesondere Aufbereitung und Lagerung der Rohstoffe, Weichen, Keimen und Darren, Herstellung und Abfüllung von Bier, insbesondere Würzebereitung, Gärung, Lagerung und Filtration, Herstellung und Abfüllung alkoholfreier Getränke, berufsbezogene Hygienevorschriften und Reinigungstechniken, Mälzereianlagen, insbesondere Aufbereitung der Rohstoffe, Weich-, Keim- und Darranlagen, Brauereianlagen, insbesondere Schroterei, Würzeherstellung, Gärung, Lagerung, Filtration und Abfüllung, berufsbezogene Energieversorgungs- und Umweltschutzanlagen, Etikettierung, Ausstattung, Verpackung, Logistik und Vermarktung, berufsbezogene Prozeßautomation, berufsbezogene Vorschriften des Umweltschutzes und der rationellen Energieverwendung, berufsbezogene Vorschriften, insbesondere des Lebensmittelrechts und der Vorschriften über den Betrieb von Schankanlagen, berufsbezogene Vorschriften der Arbeitssicherheit und des Arbeitsschutzes, berufsbezogene Ernährungslehre;
 
-a)
+2. Biologische und chemisch-technische Betriebs- und Qualitätskontrolle;
 
-b)
+3. Technische Mathematik und Kalkulation:a)Flächen-, Körper-, Material- und Gewichtsberechnungen, b)Ausbeute-, Schwand- und Verschnittberechnungen, c)Kostenermittlung unter Einbeziehung aller für die Preisbildung wesentlichen Faktoren; Flächen-, Körper-, Material- und Gewichtsberechnungen, Ausbeute-, Schwand- und Verschnittberechnungen, Kostenermittlung unter Einbeziehung aller für die Preisbildung wesentlichen Faktoren;
 
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-l)
-
-m)
-
-n)
-
-2.
-
-3.
-
-a)
-
-b)
-
-c)
-
-4.
+4. Roh-, Hilfs-, und Betriebsstoffkunde: Arten, Eigenschaften, Bezeichnungen, Verwendung Verarbeitung, Lagerung und Entsorgung der berufsbezogenen Roh-, Hilfs- und Betriebsstoffe.
 
 (2) Die Prüfung ist schriftlich und mündlich durchzuführen.
 

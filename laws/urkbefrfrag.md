@@ -23,7 +23,9 @@ Wird dem Bundesverwaltungsamt ein Ersuchen nach Artikel 7 des Abkommmens aus der
 
 ### Art 4
 
-(1) Ersuchen, mit denen außerhalb eines gerichtlichen oder behördlichen Verfahrens eine Nachprüfung nach Artikel 6 oder Auskunft nach Artikel 7 des Abkommens verlangt wird, werden dem Ministerium der Justiz der Französischen Republik durch den Präsidenten des Landgerichts übermittelt, in dessen Bezirk der Gesuchsteller seinen allgemeinen Gerichtsstand hat. Hat der Gesuchsteller keinen allgemeinen Gerichtsstand im Geltungsbereich dieses Gesetzes, ist das Ersuchen durch den Präsidenten des Landgerichts Berlin zu übermitteln.(2) Der Präsident des Landgerichts prüft, ob die in dem Abkommen geregelten Voraussetzungen vorliegen.
+(1) Ersuchen, mit denen außerhalb eines gerichtlichen oder behördlichen Verfahrens eine Nachprüfung nach Artikel 6 oder Auskunft nach Artikel 7 des Abkommens verlangt wird, werden dem Ministerium der Justiz der Französischen Republik durch den Präsidenten des Landgerichts übermittelt, in dessen Bezirk der Gesuchsteller seinen allgemeinen Gerichtsstand hat. Hat der Gesuchsteller keinen allgemeinen Gerichtsstand im Geltungsbereich dieses Gesetzes, ist das Ersuchen durch den Präsidenten des Landgerichts Berlin zu übermitteln.
+
+(2) Der Präsident des Landgerichts prüft, ob die in dem Abkommen geregelten Voraussetzungen vorliegen.
 
 ### Art 5
 
@@ -31,4 +33,6 @@ Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung die
 
 ### Art 6
 
-(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.(2) Der Tag, an dem das Abkommen nach seinem Artikel 13 Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
+(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
+
+(2) Der Tag, an dem das Abkommen nach seinem Artikel 13 Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.

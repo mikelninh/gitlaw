@@ -20,21 +20,21 @@ Auf Grund des § 36 Abs. 1 Nr. 1 Buchstabe e des Erbschaftsteuer- und Schenkungs
 
 (4) Die Anzeige darf nur unterbleiben,
 
-1.
+1. wenn es sich um Wirtschaftsgüter handelt, über die der Erblasser nur die Verfügungsmacht hatte, insbesondere als gesetzlicher Vertreter, Betreuer, Liquidator, Verwalter oder Testamentsvollstrecker, oder
 
-2.
+2. wenn der Wert der anzuzeigenden Wirtschaftsgüter 5 000 Euro nicht übersteigt.
 
 ### § 2 — Anzeigepflicht derjenigen, die auf den Namen lautende Aktien oder Schuldverschreibungen ausgegeben haben
 
-Wer auf den Namen lautende Aktien oder Schuldverschreibungen ausgegeben hat, hat unverzüglich nach dem Eingang eines Antrags auf Umschreibung der Aktien oder Schuldverschreibungen eines Verstorbenen dem für die Verwaltung der Erbschaftsteuer zuständigen Finanzamt (§ 35 des Gesetzes) unter Hinweis auf § 33 Abs. 2 des Gesetzes anzuzeigen: Die Anzeige darf nur unterbleiben, wenn der Wert der anzuzeigenden Wertpapiere 5 000 Euro nicht übersteigt.
+Wer auf den Namen lautende Aktien oder Schuldverschreibungen ausgegeben hat, hat unverzüglich nach dem Eingang eines Antrags auf Umschreibung der Aktien oder Schuldverschreibungen eines Verstorbenen dem für die Verwaltung der Erbschaftsteuer zuständigen Finanzamt (§ 35 des Gesetzes) unter Hinweis auf § 33 Abs. 2 des Gesetzes anzuzeigen:
 
-1.
+1. die Wertpapier-Kennummer, die Stückzahl und den Nennbetrag der Aktien oder Schuldverschreibungen,
 
-2.
+2. die letzte Anschrift und die Identifikationsnummer des Erblassers, auf dessen Namen die Wertpapiere lauten,
 
-3.
+3. den Todestag des Erblassers und - wenn dem Anzeigepflichtigen bekannt - das Standesamt, bei dem der Sterbefall beurkundet worden ist,
 
-4.
+4. den Namen, die Identifikationsnummer, die Anschrift und, soweit dem Anzeigepflichtigen bekannt, das persönliche Verhältnis (Verwandtschaftsverhältnis, Ehegatte oder Lebenspartner) der Person, auf deren Namen die Wertpapiere umgeschrieben werden sollen.
 
 > (+++ § 2 Satz 1 Nr. 1 u. 4 F. 2014-12-22: Zur Anwendung vgl. § 12 Abs. 3 +++)
 
@@ -44,7 +44,7 @@ Wer auf den Namen lautende Aktien oder Schuldverschreibungen ausgegeben hat, hat
 
 (2) Dem für die Verwaltung der Erbschaftsteuer zuständigen Finanzamt (§ 35 des Gesetzes) sind mit einem Vordruck nach Muster 2 alle Versicherungssummen oder Leibrenten, die einem anderen als dem Versicherungsnehmer auszuzahlen oder zur Verfügung zu stellen sind, und, soweit dem Anzeigepflichtigen bekannt, das persönliche Verhältnis (Verwandtschaftsverhältnis, Ehegatte oder Lebenspartner) der Person, an die die Auszahlung oder Zurverfügungstellung erfolgt, anzuzeigen. Zu den Versicherungssummen rechnen insbesondere auch Versicherungsbeträge aus Sterbegeld-, Aussteuer- und ähnlichen Versicherungen. Bei einem Wechsel des Versicherungsnehmers vor Eintritt des Versicherungsfalls sind der Rückkaufswert der Versicherung sowie der Name, die Identifikationsnummer, die Anschrift und das Geburtsdatum des neuen Versicherungsnehmers anzuzeigen.
 
-(3) Die Anzeige unterbleibt bei solchen Versicherungssummen, die auf Grund eines von einem Arbeitgeber für seine Arbeitnehmer abgeschlossenen Versicherungsvertrages bereits zu Lebzeiten des Versicherten (Arbeitnehmers) fällig und an diesen ausgezahlt werden. Die Anzeige darf bei Kapitalversicherungen unterbleiben, wenn der auszuzahlende Betrag 5 000 Euro nicht übersteigt.
+(3) Die Anzeige unterbleibt bei solchen Versicherungssummen, die auf Grund eines von einem Arbeitgeber für seine Arbeitnehmer abgeschlossenen Versicherungsvertrages bereits zu Lebzeiten des Versicherten (Arbeitnehmers) fällig und an diesen ausgezahlt werden. Die Anzeige darf bei Kapitalversicherungen unterbleiben, wenn der auszuzahlende Betrag 5 000 Euro nicht übersteigt.
 
 > (+++ § 3 Abs. 2 Satz 3 F. 2014-12-22: Zur Anwendung vgl. § 12 Abs. 3 +++)
 
@@ -56,17 +56,17 @@ Wer auf den Namen lautende Aktien oder Schuldverschreibungen ausgegeben hat, hat
 
 (3) Die Oberfinanzdirektion kann anordnen,
 
-1.
+1. daß die Anzeigen von einzelnen Standesämtern für einen längeren oder kürzeren Zeitraum als einen Monat übermittelt werden können,
 
-2.
+2. daß die Standesämter die Sterbefälle statt der Anzeigen nach Absatz 1 und 2 durch eine Totenliste (Absatz 4) nach Muster 3 anzeigen können,
 
-3.
+3. daß auf die zweite Ausfertigung der Sterbeurkunde verzichtet werden kann.
 
-(4) Totenlisten nach Absatz 3 Nr. 2 sind vorbehaltlich des Absatzes 3 Nr. 1 für jeden Kalendermonat aufzustellen. In die Totenlisten sind einzutragen: Das Standesamt hat die Totenliste binnen zehn Tagen nach dem Ablauf des Zeitraumes, für den sie aufgestellt ist, nach der in dem Muster 3 vorgeschriebenen Anleitung abzuschließen und dem für die Verwaltung der Erbschaftsteuer zuständigen Finanzamt, in dessen Bezirk sich der Sitz des Standesamtes befindet, einzusenden. Dabei ist die Ordnungsnummer (§ 5 Abs. 2) anzugeben, die das Finanzamt dem Standesamt zugeteilt hat. Sind in dem vorgeschriebenen Zeitraum Sterbefälle nicht beurkundet worden oder bekanntgeworden, hat das Standesamt innerhalb von zehn Tagen nach Ablauf des Zeitraumes diesem Finanzamt eine Fehlanzeige nach Muster 4 zu übersenden. In der Fehlanzeige ist auch die Nummer der letzten Eintragung in das Sterberegister anzugeben.
+(4) Totenlisten nach Absatz 3 Nr. 2 sind vorbehaltlich des Absatzes 3 Nr. 1 für jeden Kalendermonat aufzustellen. In die Totenlisten sind einzutragen:
 
-1.
+1. die Sterbefälle nach der Reihenfolge der Eintragungen in das Sterberegister,
 
-2.
+2. die dem Standesamt sonst bekanntgewordenen Sterbefälle von Personen, die im Ausland verstorben sind und bei ihrem Tod einen Wohnsitz oder ihren gewöhnlichen Aufenthalt oder Vermögen im Bezirk des Standesamtes gehabt haben.
 
 ### § 5 — Verzeichnis der Standesämter
 
@@ -82,93 +82,91 @@ Wer auf den Namen lautende Aktien oder Schuldverschreibungen ausgegeben hat, hat
 
 ### § 7 — Anzeigepflicht der Gerichte, Notare und sonstigen Urkundspersonen in Erbfällen
 
-(1) Die Gerichte haben dem für die Verwaltung der Erbschaftsteuer zuständigen Finanzamt (§ 35 des Gesetzes) beglaubigte Abschriften folgender Verfügungen und Schriftstücke mit einem Vordruck nach Muster 5 zu übersenden: Erfolgt die Ermittlung der Erben von Amts wegen, so ist das Ergebnis mit einem Vordruck nach Muster 5 mitzuteilen. Eine elektronische Übermittlung der Anzeige nach Satz 1 oder 2 ist ausgeschlossen. Die Anzeige hat unverzüglich nach dem auslösenden Ereignis zu erfolgen. Auf der Urschrift der Dokumente nach Satz 1 ist zu vermerken, wann und an welches Finanzamt die beglaubigte Abschrift übersandt worden ist.
+(1) Die Gerichte haben dem für die Verwaltung der Erbschaftsteuer zuständigen Finanzamt (§ 35 des Gesetzes) beglaubigte Abschriften folgender Verfügungen und Schriftstücke mit einem Vordruck nach Muster 5 zu übersenden:
 
-1.
+1. eröffnete Verfügungen von Todes wegen mit einer Mehrausfertigung der Niederschrift über die Eröffnungsverhandlung,
 
-2.
+2. Erbscheine,
 
-2a.
+2a. Europäische Nachlasszeugnisse,
 
-3.
+3. Testamentsvollstreckerzeugnisse,
 
-4.
+4. Zeugnisse über die Fortsetzung von Gütergemeinschaften,
 
-5.
+5. Beschlüsse über die Einleitung oder Aufhebung einer Nachlasspflegschaft oder Nachlassverwaltung,
 
-6.
+6. beurkundete Vereinbarungen über die Abwicklung von Erbauseinandersetzungen,
 
-7.
+7. Eintragungsbekanntmachungen nach § 55 der Grundbuchordnung, wenn aufgrund eines von einer ausländischen Stelle erteilten Europäischen Nachlasszeugnisses eine Eigentumsumschreibung im Grundbuch erfolgt; eine beglaubigte Abschrift des Europäischen Nachlasszeugnisses ist beizufügen.
 
 (2) Jede Anzeige oder Übersendung soll die folgenden Angaben enthalten:
 
-1.
+1. den Namen, die Identifikationsnummer, den Geburtstag, die letzte Anschrift, den Todestag und den Sterbeort des Erblassers,
 
-2.
+2. das Standesamt, bei dem der Sterbefall beurkundet worden ist, und die Nummer des Sterberegisters.
 
 (3) Soweit es den Gerichten bekannt ist, haben sie mitzuteilen:
 
-1.
+1. den Familienstand des Erblassers,
 
-2.
+2. den Güterstand bei verheirateten oder in einer Lebenspartnerschaft lebenden Erblassern,
 
-3.
+3. die Anschriften, die Identifikationsnummern und die Geburtstage der Beteiligten sowie das persönliche Verhältnis (Verwandtschaftsverhältnis, Ehegatte oder Lebenspartner) zum Erblasser,
 
-4.
+4. die Höhe und die Zusammensetzung des Nachlasses in Form eines Verzeichnisses,
 
-5.
+5. später bekanntgewordene Veränderungen in der Person der Erben oder Vermächtnisnehmer, insbesondere durch Fortfall von vorgesehenen Erben oder Vermächtnisnehmern.
 
 (4) Die Übersendung der beglaubigten Abschriften nach Absatz 1 Satz 1 und die Erstattung der in Absatz 1 vorgesehenen Anzeigen dürfen unterbleiben,
 
-1.
+1. wenn die Annahme berechtigt ist, dass außer Hausrat (einschließlich Wäsche und Kleidungsstücke) im Wert von höchstens 12 000 Euro nur noch anderes Vermögen im reinen Wert von höchstens 20 000 Euro vorhanden ist,
 
-2.
+2. bei Erbfällen von Kriegsgefangenen und ihnen gleichgestellten Personen sowie bei Erbfällen von Opfern der nationalsozialistischen Verfolgung, wenn der Zeitpunkt des Todes vor dem 1. Januar 1946 liegt,
 
-3.
+3. wenn der Erbschein lediglich zur Geltendmachung von Ansprüchen auf Grund des Lastenausgleichsgesetzes beantragt und dem Ausgleichsamt unmittelbar übersandt worden ist,
 
-4.
+4. wenn seit dem Zeitpunkt des Todes des Erblassers mehr als zehn Jahre vergangen sind. Das gilt nicht für Anzeigen über die Abwicklung von Erbauseinandersetzungen.
 
 (5) Die vorstehenden Vorschriften gelten entsprechend für Notare und sonstige Urkundspersonen, soweit ihnen Geschäfte des Nachlassgerichts übertragen sind.
 
-> (+++ § 7 Abs. 2 Nr. 1 F. 2014-12-22: Zur Anwendung vgl. § 12 Abs. 3 +++) (+++ § 7 Abs. 3 Nr. 2 F. 2014-07-18: Zur Anwendung vgl. § 12 Abs. 2 +++) (+++ § 7 Abs. 3 Nr. 3 F. 2014-12-22: Zur Anwendung vgl. § 12 Abs. 3 +++)
-
 ### § 8 — Anzeigepflicht der Gerichte, Notare und sonstigen Urkundspersonen bei Schenkungen und Zweckzuwendungen unter Lebenden
 
-(1) Die Gerichte haben dem für die Verwaltung der Erbschaftsteuer zuständigen Finanzamt (§ 35 des Gesetzes) eine beglaubigte Abschrift der Urkunde über eine Schenkung (§ 7 des Gesetzes) oder eine Zweckzuwendung unter Lebenden (§ 8 des Gesetzes) unter Angabe des der Kostenberechnung zugrunde gelegten Werts mit einem Vordruck nach Muster 6 zu übersenden. Eine elektronische Übermittlung der Anzeige ist ausgeschlossen. Enthält die Urkunde keine Angaben darüber, sind die Beteiligten über zu befragen und die Angaben in der Anzeige mitzuteilen. Die Anzeige hat unverzüglich nach der Beurkundung zu erfolgen. Auf der Urschrift der Urkunde ist zu vermerken, wann und an welches Finanzamt die Abschrift übersandt worden ist. Die Gerichte haben bei der Beurkundung von Schenkungen und Zweckzuwendungen unter Lebenden die Beteiligten auf die mögliche Steuerpflicht hinzuweisen.
+(1) Die Gerichte haben dem für die Verwaltung der Erbschaftsteuer zuständigen Finanzamt (§ 35 des Gesetzes) eine beglaubigte Abschrift der Urkunde über eine Schenkung (§ 7 des Gesetzes) oder eine Zweckzuwendung unter Lebenden (§ 8 des Gesetzes) unter Angabe des der Kostenberechnung zugrunde gelegten Werts mit einem Vordruck nach Muster 6 zu übersenden. Eine elektronische Übermittlung der Anzeige ist ausgeschlossen. Enthält die Urkunde keine Angaben darüber, sind die Beteiligten über
 
-1.
+1. das persönliche Verhältnis (Verwandtschaftsverhältnis, Ehegatte oder Lebenspartner) des Erwerbers zum Schenker und
 
-2.
+2. den Wert der Zuwendung
 
 (2) Die Verpflichtungen nach Absatz 1 erstrecken sich auch auf Urkunden über Rechtsgeschäfte, die zum Teil oder der Form nach entgeltlich sind, bei denen aber Anhaltspunkte dafür vorliegen, daß eine Schenkung oder Zweckzuwendung unter Lebenden vorliegt.
 
-(3) Die Übersendung einer beglaubigten Abschrift von Schenkungs- und Übergabeverträgen und die Mitteilung der in Absatz 1 vorgesehenen Angaben darf unterbleiben, wenn Gegenstand der Schenkung nur Hausrat (einschließlich Wäsche und Kleidungsstücke) im Wert von höchstens 12 000 Euro und anderes Vermögen im reinen Wert von höchstens 20 000 Euro ist.
+(3) Die Übersendung einer beglaubigten Abschrift von Schenkungs- und Übergabeverträgen und die Mitteilung der in Absatz 1 vorgesehenen Angaben darf unterbleiben, wenn Gegenstand der Schenkung nur Hausrat (einschließlich Wäsche und Kleidungsstücke) im Wert von höchstens 12 000 Euro und anderes Vermögen im reinen Wert von höchstens 20 000 Euro ist.
 
 (4) Die vorstehenden Vorschriften gelten entsprechend für Notare und sonstige Urkundspersonen.
 
 ### § 9 — Anzeigepflicht der Auslandsstellen
 
-Die diplomatischen Vertreter und Konsuln des Bundes haben dem Bundeszentralamt für Steuern anzuzeigen: Eine elektronische Übermittlung der Anzeige ist ausgeschlossen.
+Die diplomatischen Vertreter und Konsuln des Bundes haben dem Bundeszentralamt für Steuern anzuzeigen:
 
-1.
+1. die ihnen bekannt gewordenen Sterbefälle von Deutschen ihres Amtsbezirks,
 
-2.
+2. die ihnen bekannt gewordenen Zuwendungen ausländischer Erblasser oder Schenker an Personen, die im Inland einen Wohnsitz oder ihren gewöhnlichen Aufenthalt haben.
 
 ### § 10 — Anzeigepflicht der Genehmigungsbehörden
 
-Die Behörden, die Stiftungen anerkennen oder Zuwendungen von Todes wegen und unter Lebenden an juristische Personen und dergleichen genehmigen, haben dem für die Verwaltung der Erbschaftsteuer zuständigen Finanzamt (§ 35 des Gesetzes) über solche innerhalb eines Kalendervierteljahres erteilten Anerkennung oder Genehmigungen unmittelbar nach Ablauf des Vierteljahres eine Nachweisung zu übersenden. Eine elektronische Übermittlung der Anzeige ist ausgeschlossen. Die Verpflichtung erstreckt sich auch auf Rechtsgeschäfts der in § 8 Abs. 2 bezeichneten Art. In der Nachweisung sind bei einem Anerkennungs- oder Genehmigungsfall anzugeben: Als Nachweisung kann eine beglaubigte Abschrift der der Stiftung zugestellten Urkunde über die Anerkennung als rechtsfähig dienen, wenn aus ihr die genannten Angaben zu ersehen sind.
+Die Behörden, die Stiftungen anerkennen oder Zuwendungen von Todes wegen und unter Lebenden an juristische Personen und dergleichen genehmigen, haben dem für die Verwaltung der Erbschaftsteuer zuständigen Finanzamt (§ 35 des Gesetzes) über solche innerhalb eines Kalendervierteljahres erteilten Anerkennung oder Genehmigungen unmittelbar nach Ablauf des Vierteljahres eine Nachweisung zu übersenden. Eine elektronische Übermittlung der Anzeige ist ausgeschlossen. Die Verpflichtung erstreckt sich auch auf Rechtsgeschäfts der in § 8 Abs. 2 bezeichneten Art. In der Nachweisung sind bei einem Anerkennungs- oder Genehmigungsfall anzugeben:
 
-1.
+1. der Tag der Anerkennung oder Genehmigung,
 
-2.
+2. die Anschriften und die Identifikationsnummern des Erblassers (Schenkers) und des Erwerbers (bei einer Zweckzuwendung die Anschrift und die Identifikationsnummer des mit der Durchführung der Zweckzuwendung Beschwerten),
 
-3.
+3. die Höhe des Erwerbs (der Zweckzuwendung),
 
-4.
+4. bei Erwerbern von Todes wegen der Todestag und der Sterbeort des Erblassers,
 
-5.
+5. bei Anerkennung einer Stiftung als rechtsfähig der Name, der Sitz (der Ort der Geschäftsleitung), der Zweck der Stiftung und der Wert des ihr gewidmeten Vermögens,
 
-6.
+6. wenn bei der Anerkennung oder Genehmigung dem Erwerber Leistungen an andere Personen oder zu bestimmten Zwecken auferlegt oder wenn von dem Erwerber solche Leistungen zur Erlangung der Anerkennung oder Genehmigung freiwillig übernommen werden: Art und Wert der Leistungen, die begünstigten Personen oder Zwecke und das persönliche Verhältnis (Verwandtschaftsverhältnis, Ehegatte oder Lebenspartner) der begünstigten Personen zum Erblasser (Schenker).
 
 > (+++ § 10 Satz 4 Nr. 2 F. 2014-12-22: Zur Anwendung vgl. § 12 Abs. 3 +++)
 

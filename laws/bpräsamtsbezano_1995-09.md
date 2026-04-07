@@ -8,4 +8,4 @@ Amtsbezeichnung
 
 ### (XXXX)
 
-Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende Amtsbezeichnung fest: "Kuratorder Museumsstiftung Post und Telekommunikation".Der Bundespräsident
+Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende Amtsbezeichnung fest:

@@ -11,7 +11,11 @@ Auf Grund des § 11 des Mindestlohngesetzes vom 11. August 2014 (BGBl. I S. 1348
 
 ### § 1 — Höhe des Mindestlohns
 
-Der Mindestlohn beträgt 1.ab 1. Januar 202412,41 Euro brutto je Zeitstunde,2.ab 1. Januar 202512,82 Euro brutto je Zeitstunde.
+Der Mindestlohn beträgt
+
+1. ab 1. Januar 202412,41 Euro brutto je Zeitstunde,
+
+2. ab 1. Januar 202512,82 Euro brutto je Zeitstunde.
 
 ### § 2 — Inkrafttreten
 

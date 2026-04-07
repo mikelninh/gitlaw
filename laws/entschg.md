@@ -15,43 +15,35 @@ Vermögensfragen
 
 (2) Absatz 1 gilt auch, wenn der nach § 3 Abs. 2 des Vermögensgesetzes von der Rückübertragung Ausgeschlossene den Vermögenswert in redlicher Weise erworben hatte. Absatz 1 gilt ferner für Begünstigte (§ 18b Abs. 1 Satz 1 des Vermögensgesetzes) früherer dinglicher Rechte an Grundstücken, die mangels Rückgabe des früher belasteten Vermögenswertes oder wegen Rückgabe nach § 6 des Vermögensgesetzes nicht wieder begründet und nicht abgelöst werden. Ist eine Forderung des Begünstigten, die der früheren dinglichen Sicherung zugrunde lag, vor der bestandskräftigen Entscheidung über den Entschädigungsanspruch erfüllt worden, entfällt der Anspruch auf Entschädigung. Mit der bestandskräftigen Entscheidung über den Entschädigungsanspruch erlischt die Forderung.
 
-(3) Für Grundstücke im Sinne des § 1 Abs. 2 des Vermögensgesetzes, die durch Eigentumsverzicht, Schenkung oder Erbausschlagung in Volkseigentum übernommen wurden, wird keine Entschädigung gewährt.
-
 (4) Eine Entschädigung wird nicht gewährt
 
-1.
+1. für private geldwerte Ansprüche im Sinne des § 5, bei denen der Schadensbetrag nach § 245 des Lastenausgleichsgesetzes insgesamt 10.000 Reichsmark nicht übersteigt und für die den Berechtigten oder seinem Gesamtrechtsvorgänger Ausgleichsleistungen nach dem Lastenausgleichsgesetz gewährt wurden. Dies gilt nicht, wenn im Schadensbetrag auch andere Vermögensverluste berücksichtigt sind. Die Rückforderung des Lastenausgleichs nach § 349 des Lastenausgleichsgesetzes entfällt;
 
-2.
+2. für Vermögensverluste, bei denen die Summe der Bemessungsgrundlagen insgesamt 1.000 Deutsche Mark nicht erreicht, ausgenommen buchmäßig nachgewiesene Geldbeträge;
 
-3.
+3. für Vermögensverluste, für die der Berechtigte oder sein Gesamtrechtsvorgänger bereits eine Entschädigung nach einem Pauschalentschädigungsabkommen der ehemaligen Deutschen Demokratischen Republik oder der Bundesrepublik Deutschland erhalten hat oder für die ihm eine Entschädigung nach diesen Abkommen zusteht;
 
-4.
+4. für eine entzogene bewegliche Sache,a)für die dem Berechtigten oder seinem Gesamtrechtsvorgänger der bei ihrer Verwertung erzielte Erlös zugeflossen ist; bei einem Haushaltsgegenstand erstreckt sich der Ausschluss auf den Hausrat, dem er zugehört hat, sofern der Erlös aus der Verwertung die Höhe der Bemessungsgrundlage für Hausrat erreicht;b)die zu einem Unternehmen gehört hat, das zu entschädigen ist;c)für die ein Vernichtungsprotokoll oder ein vergleichbarer Nachweis des Untergangs vorhanden ist, außer wenn bei Würdigung aller Umstände ungeachtet des Vernichtungsnachweises überwiegende Gründe für die Werthaltigkeit der vernichteten Sache sprechen; für die dem Berechtigten oder seinem Gesamtrechtsvorgänger der bei ihrer Verwertung erzielte Erlös zugeflossen ist; bei einem Haushaltsgegenstand erstreckt sich der Ausschluss auf den Hausrat, dem er zugehört hat, sofern der Erlös aus der Verwertung die Höhe der Bemessungsgrundlage für Hausrat erreicht; die zu einem Unternehmen gehört hat, das zu entschädigen ist; für die ein Vernichtungsprotokoll oder ein vergleichbarer Nachweis des Untergangs vorhanden ist, außer wenn bei Würdigung aller Umstände ungeachtet des Vernichtungsnachweises überwiegende Gründe für die Werthaltigkeit der vernichteten Sache sprechen;
 
-a)
+5. für Hausrat, für die dem Berechtigen oder seinem Gesamtrechtsvorgänger Leistungen nach lastenausgleichsrechtlichen Vorschriften gewährt wurden.
 
-b)
+(5) In den Fällen des § 1 Abs. 6 des Vermögensgesetzes besteht ein Entschädigungsanspruch nach Maßgabe des NS-Verfolgtenentschädigungsgesetzes.
 
-c)
-
-5.
-
-(5) In den Fällen des § 1 Abs. 6 des Vermögensgesetzes besteht ein Entschädigungsanspruch nach Maßgabe des NS-Verfolgtenentschädigungsgesetzes.-----
-
-*)
+*) § 1 Abs. 3 ist gemäß des Beschlusses des Bundesverfassungsgerichtes vom 10. Oktober 2001 - 1 BvL 17/00 - (BGBl. I S. 3920) mit Artikel 3 Abs. 1 des Grundgesetzes unvereinbar und nichtig.
 
 > § 1 Abs. 3: Nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG unvereinbar u. nichtig gem. BVerfGE v. 10.10.2001 I 3920 - 1 BvL 17/00 -
 
 ### § 2 — Berechnung der Höhe der Entschädigung
 
-(1) Die Höhe der Entschädigung bestimmt sich nach der Bemessungsgrundlage (§§ 3 bis 5a), von welcher gegebenenfalls abgezogen werden. Von der nach den Nummern 1 bis 4 gekürzten Bemessungsgrundlage wird Lastenausgleich nach § 8 abgezogen.
+(1) Die Höhe der Entschädigung bestimmt sich nach der Bemessungsgrundlage (§§ 3 bis 5a), von welcher gegebenenfalls
 
-1.
+1. Verbindlichkeiten nach § 3 Abs. 4,
 
-2.
+2. erhaltene Gegenleistungen oder Entschädigungen nach § 6,
 
-3.
+3. der Zeitwert von nach § 6 Abs. 6a des Vermögensgesetzes zurückgegebenen Vermögensgegenständen nach § 4 Abs. 4 oder
 
-4.
+4. Kürzungsbeträge nach § 7
 
 (2) Entschädigungen über 1.000 Deutsche Mark werden auf Tausend oder das nächste Vielfache von Tausend nach unten abgerundet. Die Umrechnung auf Euro geschieht ohne nochmalige Abrundung.
 
@@ -70,17 +62,17 @@ Verbindlichkeiten
 
 ### § 3 — Bemessungsgrundlage der Entschädigung für Grundvermögen und land- und forstwirtschaftliches Vermögen
 
-(1) Bemessungsgrundlage der Entschädigung für Grundvermögen einschließlich Gebäudeeigentum sowie für land- und forstwirtschaftliches Vermögen ist des vor der Schädigung zuletzt festgestellten Einheitswertes; sind nur Teilflächen eines Grundstücks zu entschädigen, richtet sich der Vervielfältiger nach der Nutzungsart des Gesamtgrundstücks zum Zeitpunkt der Schädigung. Bei Grundstücken, für die ein Abgeltungsbetrag nach der Verordnung über die Aufhebung der Gebäudeentschuldungssteuer vom 31. Juli 1942 (RGBl. I S. 501) entrichtet worden ist, ist dieser dem Einheitswert hinzuzurechnen. Ist der Abgeltungsbetrag nicht mehr bekannt, so ist der Einheitswert um ein Fünftel zu erhöhen.
+(1) Bemessungsgrundlage der Entschädigung für Grundvermögen einschließlich Gebäudeeigentum sowie für land- und forstwirtschaftliches Vermögen ist
 
-1.
+1. bei land- und forstwirtschaftlichen Flächen das 3fache,
 
-2.
+2. bei Mietwohngrundstücken mit mehr als zwei Wohnungen das 4,8fache,
 
-3.
+3. bei gemischt genutzten Grundstücken, die zu mehr als 50 vom Hundert Wohnzwecken dienen, das 6,4fache,
 
-4.
+4. bei Geschäftsgrundstücken, Mietwohngrundstücken mit zwei Wohnungen, nicht unter Nummer 3 fallenden gemischt genutzten Grundstücken, Einfamilienhäusern und sonstigen bebauten Grundstücken das 7fache,
 
-5.
+5. bei unbebauten Grundstücken das 20fache
 
 (2) Ist ein Einheitswert nicht festgestellt worden oder nicht mehr bekannt, aber im Verfahren nach dem Beweissicherungs- und Feststellungsgesetz ein Ersatzeinheitswert ermittelt worden, so ist dieser maßgebend. Er wird der zuständigen Behörde von der Ausgleichsverwaltung im Wege der Amtshilfe mitgeteilt.
 
@@ -96,17 +88,17 @@ Verbindlichkeiten
 
 (1) Bemessungsgrundlage der Entschädigung für Unternehmen oder Anteile an Unternehmen mit Ausnahme von land- und forstwirtschaftlichen Betrieben, die bis einschließlich 31. Dezember 1952 enteignet wurden, ist das 1,5fache des im Hauptfeststellungszeitraum vor der Schädigung zuletzt festgestellten Einheitswertes. Ist ein Einheitswert nicht festgestellt worden oder nicht mehr bekannt, oder ist das Unternehmen ab 1. Januar 1953 enteignet worden, und ist ein Ersatzeinheitswert nach dem Beweissicherungs- und Feststellungsgesetz ermittelt worden, ist das 1,5fache dieses Wertes maßgebend; der Ersatzeinheitswert wird dem zuständigen Landesamt zur Regelung offener Vermögensfragen von der Ausgleichsverwaltung im Wege der Amtshilfe mitgeteilt. Die Sätze 1 und 2 gelten nicht, wenn Wiederaufnahmegründe im Sinne des § 580 der Zivilprozessordnung vorliegen und wenn deren Berücksichtigung bei einer Bemessung nach Absatz 2 zu einem Wert führt, der um mehr als ein Fünftel, mindestens aber 1.000 Mark vom Einheitswert oder Ersatzeinheitswert abweicht.
 
-(2) Ist kein verwertbarer Einheitswert oder Ersatzeinheitswert vorhanden, so ist er ersatzweise aus dem Unterschiedsbetrag zwischen dem Anlage- und Umlaufvermögen des Unternehmens und denjenigen Schulden, die mit der Gesamtheit oder mit einzelnen Teilen des Unternehmens in wirtschaftlichem Zusammenhang stehen (Reinvermögen), zu ermitteln. Das Reinvermögen ist anhand der Bilanz für den letzten Stichtag vor der Schädigung oder einer sonstigen beweiskräftigen Unterlage nach folgenden Maßgaben festzustellen: Soweit ein unmittelbarer Zusammenhang zwischen bestimmten Wirtschaftsgütern und bestimmten Betriebsschulden nicht besteht, sind die Schulden den einzelnen Wirtschaftsgütern anteilig zuzuordnen. Ist Berechtigter die in Auflösung befindliche Gesellschaft und wurde ein Gesellschaftsanteil vor Überführung des Unternehmens in Volkseigentum staatlich verwaltet oder in Volkseigentum überführt, so ist dieser Anteil anhand der letzten Bilanz oder sonstigen beweiskräftigen Unterlagen für den letzten Stichtag vor seiner Schädigung zu berechnen; dieser Anteil ist aus dem staatlichen Anteil zum Zeitpunkt der Schädigung des Unternehmens herauszurechnen. Für die übrigen Gesellschaftsanteile bestimmt sich deren Wert anhand der Bilanz oder sonstigen beweiskräftigen Unterlagen für den letzten Stichtag vor Überführung des Unternehmens in Volkseigentum. Die nach den Sätzen 4 und 5 ermittelten Werte sind zusammenzurechnen.
+(2) Ist kein verwertbarer Einheitswert oder Ersatzeinheitswert vorhanden, so ist er ersatzweise aus dem Unterschiedsbetrag zwischen dem Anlage- und Umlaufvermögen des Unternehmens und denjenigen Schulden, die mit der Gesamtheit oder mit einzelnen Teilen des Unternehmens in wirtschaftlichem Zusammenhang stehen (Reinvermögen), zu ermitteln. Das Reinvermögen ist anhand der Bilanz für den letzten Stichtag vor der Schädigung oder einer sonstigen beweiskräftigen Unterlage nach folgenden Maßgaben festzustellen:
 
-1.
+1. Betriebsgrundstücke sowie Mineralgewinnungsrechte sind mit dem Einheitswert, dem Ersatzeinheitswert oder einem Hilfswert nach § 3 Abs. 3 anzusetzen. § 3 Abs. 4 gilt entsprechend.
 
-2.
+2. Wertausgleichsposten für den Verlust von Wirtschaftsgütern im Zuge der Kriegsereignisse bleiben außer Ansatz.
 
-3.
+3. Forderungen, Wertpapiere und Geldbestände sind im Verhältnis 1 zu 1 umzuwerten.
 
-4.
+4. Sonstiges Anlage- und Umlaufvermögen ist mit 80 vom Hundert des Wertansatzes in Bilanzen oder sonstigen beweiskräftigen Unterlagen zu berücksichtigen, sofern sich diese auf Wertverhältnisse seit dem 1. Januar 1952 beziehen.
 
-5.
+5. Mit Wirtschaftsgütern im Sinne der Nummern 3 und 4 in unmittelbarem Zusammenhang stehende Betriebsschulden sind im dort genannten Verhältnis zu mindern.
 
 (2a) Gehört zum Betriebsvermögen eines Unternehmens mit höchstens zehn Mitarbeitern einschließlich mitarbeitender Familienmitglieder nicht mehr als ein Betriebsgrundstück, ist auf Antrag des Berechtigten die Bemessungsgrundlage mit dem siebenfachen Einheitswert des Grundstücks zuzüglich des sonstigen nach Absatz 2 Satz 2 Nr. 2 bis 5 und Satz 3 zu bewertenden Betriebsvermögens zu ermitteln; die Absätze 1 und 2 sind in diesem Fall nicht anzuwenden.
 
@@ -133,14 +125,11 @@ und Schutzrechte
 
 (2) Die Bemessungsgrundlage für Hausrat beträgt 1.200 Deutsche Mark. Hausrat ist die Gesamtheit aller beweglichen Sachen, die in einer Wohnung einschließlich der Nebenräume zur persönlichen, privaten Lebensführung bestimmt sind, insbesondere Möbel, elektrische und mechanische Küchengeräte, Kleidung, Haushaltswäsche, Tafelgeschirr und Porzellan, Leder- und Pelzwaren, Teppiche, Uhren, Schreibgeräte, Wandschmuck, Fahrräder (Hausratsgegenstände). Nicht zum Hausrat gehören:
 
-1.
+1. Kraftfahrzeuge,
 
-2.
+2. Sammlungen, Kunst- und Luxusgegenstände sowie einer Liebhaberei dienende Gegenstände,
 
-3.
-
-(3) Die Bemessungsgrundlage für Kraftfahrzeuge beträgt bei einem Alter des Fahrzeugs zum Zeitpunkt des Entzugs von 
-	 Für Motorräder und Motorroller beträgt die Bemessungsgrundlage die Hälfte, für Klein- und Leichtkrafträder ein Viertel; für Lastkraftwagen ab drei Tonnen und Omnibusse erhöht sie sich um ein Viertel.
+3. Gegenstände, die der Berufsausübung dienen.
 
 (4) Die Höchstgrenze der Summe der Bemessungsgrundlage für sämtliche zu entschädigenden beweglichen Sachen eines Berechtigten beträgt 40.000 Deutsche Mark.
 
@@ -158,23 +147,23 @@ und Schutzrechte
 
 (1) Übersteigt die auf einen Berechtigten entfallende Summe aus Bemessungsgrundlage und Abzügen nach § 3 Abs. 4, § 4 Abs. 4 sowie § 6 den Betrag von 10.000 Deutsche Mark, so ist die Entschädigung um jeweils folgende Beträge zu kürzen:
 
--
+- der 10.000 Deutsche Mark übersteigende, bis 20.000 Deutsche Mark reichende Betrag um 30 vom Hundert,
 
--
+- der 20.000 Deutsche Mark übersteigende, bis 30.000 Deutsche Mark reichende Betrag um 40 vom Hundert,
 
--
+- der 30.000 Deutsche Mark übersteigende, bis 40.000 Deutsche Mark reichende Betrag um 50 vom Hundert,
 
--
+- der 40.000 Deutsche Mark übersteigende, bis 50.000 Deutsche Mark reichende Betrag um 60 vom Hundert,
 
--
+- der 50.000 Deutsche Mark übersteigende, bis 100.000 Deutsche Mark reichende Betrag um 70 vom Hundert,
 
--
+- der 100.000 Deutsche Mark übersteigende, bis 500.000 Deutsche Mark reichende Betrag um 80 vom Hundert,
 
--
+- der 500.000 Deutsche Mark übersteigende, bis 1 Million Deutsche Mark reichende Betrag um 85 vom Hundert,
 
--
+- der 1 Million Deutsche Mark übersteigende, bis 3 Millionen Deutsche Mark reichende Betrag um 90 vom Hundert,
 
--
+- der 3 Millionen Deutsche Mark übersteigende Betrag um 95 vom Hundert.
 
 (2) Hat ein Berechtigter Ansprüche auf Entschädigung oder auf Ausgleichsleistung nach dem Ausgleichsleistungsgesetz für mehrere Vermögenswerte, ist Absatz 1 auf deren Summe anzuwenden. Die Kürzung wird im nachfolgenden Bescheid vorgenommen. Ist ein Vermögenswert zu entschädigen, der zum Zeitpunkt der Entziehung mehreren Berechtigten zu Bruchteilen oder zur gesamten Hand zugestanden hat, ist Absatz 1 auf jeden Anteil gesondert anzuwenden. Bei mehreren Rechtsnachfolgern eines Berechtigten steht diesen nur ihr Anteil an der nach Absatz 1 gekürzten Entschädigung zu.
 
@@ -216,33 +205,33 @@ und Schutzrechte
 
 ### § 10 — Einnahmen des Entschädigungsfonds
 
-(1) An den Entschädigungsfonds sind abzuführen: Ein Anspruch der Berechtigten gegen den Entschädigungsfonds auf Einforderung seiner Einnahmen besteht nicht.
+(1) An den Entschädigungsfonds sind abzuführen:
 
-1.
+1. von der Treuhandanstalt 3 Milliarden Deutsche Mark aus ihren Veräußerungserlösen. Das Bundesministerium der Finanzen setzt die pauschalen Jahresbeträge unter Berücksichtigung des Finanzbedarfs des Entschädigungsfonds fest;
 
-2.
+2. 50 vom Hundert des Gesamtwertes des Finanzvermögens in Treuhandverwaltung des Bundes nach Artikel 22 Abs. 1 des Einigungsvertrages, fällig in jährlichen Raten entsprechend den Erlösen aus der Veräußerung von Vermögensgegenständen. Das Bundesministerium der Finanzen setzt die Höhe der Raten fest;
 
-3.
+3. von Gebietskörperschaften oder sonstigen Trägern der öffentlichen Verwaltung, z. B. Sozialversicherung, Bahn, Post, der 1,3fache vor der Schädigung zuletzt festgestellte Einheitswert von Grundstücken, die wegen der Zugehörigkeit zu deren Verwaltungsvermögen nach Artikel 21 des Einigungsvertrages nach den §§ 4 und 5 des Vermögensgesetzes nicht restituierbar sind oder die wegen der Wahl von Entschädigung nicht restituiert werden;
 
-4.
+4. das nach § 19 Abs. 2 des Westvermögen-Abwicklungsgesetzes vom Präsidenten des Bundesausgleichsamtes treuhänderisch verwaltete Vermögen von ehemaligen öffentlich-rechtlichen Kreditinstituten mit Sitz im Beitrittsgebiet;
 
-5.
+5. nicht anderweitig zuzuordnende Vermögenswerte aus dem Bereich des früheren Amtes für den Rechtsschutz des Vermögens der Deutschen Demokratischen Republik und Überweisungen der Hinterlegungsstellen nach § 4 Abs. 2 des Schuldbuchbereinigungsgesetzes;
 
-6.
+6. Wertausgleich nach § 7 des Vermögensgesetzes und herauszugebende Gegenleistungen oder Entschädigungen nach § 7a Abs. 2 Satz 4 des Vermögensgesetzes;
 
-7.
+7. Veräußerungserlöse nach § 11 Abs. 4 des Vermögensgesetzes und sonstige nicht beanspruchte Vermögenswerte, die bis zum 31. Dezember 1992 unter staatlicher Verwaltung standen, wenn der Eigentümer oder Inhaber sich nicht nach öffentlichem Aufgebot gemäß § 15 des Grundbuchbereinigungsgesetzes gemeldet hat. Nicht beanspruchte Vermögenswerte im Sinne des Satzes 1 sind auch die den nicht bekannten oder nicht auffindbaren Miteigentümern oder Miterben zustehenden Rechte. Die §§ 1936, 1964 und 1965 des Bürgerlichen Gesetzbuchs und § 369 des Zivilgesetzbuchs der Deutschen Demokratischen Republik vom 19. Juni 1975 (GBl. I Nr. 27 S. 465) finden keine Anwendung. Ein Aufgebotsverfahren ist nicht erforderlich, wenn der Veräußerungserlös oder der Wert des sonstigen nicht beanspruchten Vermögens den Betrag von 1.000 Deutsche Mark nicht erreicht;
 
-8.
+8. Regreßforderungen gegenüber staatlichen Verwaltern nach § 13 Abs. 3 des Vermögensgesetzes;
 
-9.
+9. Forderungen nach § 18b Abs. 1 des Vermögensgesetzes sowie diejenigen Erlösanteile aus Veräußerungen nach § 16 Abs. 1 des Investitionsvorranggesetzes, die nicht dem Berechtigten, dem Verfügungsberechtigten oder einem privaten Dritten zustehen;
 
-10.
+10. ab 1. Januar 1994 vereinnahmte Rückflüsse nach § 349 des Lastenausgleichsgesetzes;
 
-11.
+11. Veräußerungserlöse aus dem Verkauf von ehemals volkseigenem Grund und Boden nach dem 27. Juli 1990 an die Inhaber dinglicher Nutzungsrechte für Eigenheime und Entgelte für die Nutzung ehemals volkseigenen Grund und Bodens durch die Inhaber dinglicher Nutzungsrechte für Eigenheime, wenn die Rückübertragung nach § 4 des Vermögensgesetzes ausgeschlossen oder wegen der Wahl von Entschädigung entfallen ist. Für Veräußerungen, die nach dem 17. Dezember 2003 beurkundet wurden, mindestens der im Zeitpunkt des Verkaufs geltende Kaufpreis gemäß § 68 des Sachenrechtsbereinigungsgesetzes;
 
-12.
+12. Vermögenswerte, die nach § 1b des Vermögenszuordnungsgesetzes in der Fassung des Artikels 16 Nr. 4 des Registerverfahrensbeschleunigungsgesetzes dem Entschädigungsfonds zugeordnet werden;
 
-13.
+13. Zuschüsse aus dem Bundeshaushalt ab 1. Januar 2004.
 
 (2) Zur Überbrückung etwaiger Liquiditätsengpässe können aus dem Bundeshaushalt zinslose Liquiditätsdarlehen nach Maßgabe des jeweiligen Haushaltsplans geleistet werden. Die Rückzahlung an den Bund erfolgt bei Einnahmeüberschüssen. Einzelheiten regelt das Bundesministerium der Finanzen.
 

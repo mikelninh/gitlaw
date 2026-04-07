@@ -14,17 +14,13 @@ Regelung anderer Fragen auf steuerlichem Gebiete
 
 (1) Arbeitnehmer mit Wohnsitz im Königreich der Niederlande werden abweichend von § 39d Abs. 1 des Einkommensteuergesetzes für die Durchführung des Lohnsteuerabzugs bei in der Bundesrepublik Deutschland bezogenen Einkünften aus nichtselbständiger Arbeit wie folgt in Steuerklassen eingereiht:
 
-1.
+1. In die Steuerklasse I gehören Arbeitnehmer, diea)ledig sind, b)verheiratet, verwitwet oder geschieden sind und bei denen die Voraussetzungen für die Steuerklasse III oder IV nicht erfüllt sind. ledig sind, verheiratet, verwitwet oder geschieden sind und bei denen die Voraussetzungen für die Steuerklasse III oder IV nicht erfüllt sind.
 
-a)
+2. In die Steuerklasse III gehören Arbeitnehmer, die verheiratet sind, wenn die Voraussetzungen des § 2 Abs. 2 erfüllt sind und der Ehegatte des Arbeitnehmers keinen Arbeitslohn in der Bundesrepublik Deutschland bezieht.
 
-b)
+3. In die Steuerklasse IV gehören Arbeitnehmer, die verheiratet sind, wenn beide Ehegatten nicht dauernd getrennt leben und der Ehegatte des Arbeitnehmers ebenfalls Arbeitslohn in der Bundesrepublik Deutschland bezieht.
 
-2.
-
-3.
-
-4.
+4. Die Steuerklasse VI gilt bei Arbeitnehmern, die nebeneinander von mehreren Arbeitgebern Arbeitslohn in der Bundesrepublik Deutschland beziehen, für die Einbehaltung der Lohnsteuer vom Arbeitslohn aus dem zweiten und weiteren Dienstverhältnis.
 
 (2) Der Arbeitgeber hat Arbeitnehmern mit Wohnsitz im Königreich der Niederlande bei Beendigung eines Dienstverhältnisses oder am Ende des Kalenderjahrs eine Lohnsteuerbescheinigung nach amtlich vorgeschriebenem Vordruck zu erteilen; dabei sind die Vorschriften des § 41b Abs. 1 Satz 2 bis 7 und Abs. 2 des Einkommensteuergesetzes sinngemäß anzuwenden.
 
@@ -32,21 +28,21 @@ b)
 
 (1) Bei Arbeitnehmern mit Wohnsitz im Königreich der Niederlande, deren Summe der Einkünfte im Kalenderjahr mindestens zu 90 vom Hundert der deutschen Einkommensteuer unterliegt, gilt für die Besteuerung bei in der Bundesrepublik Deutschland bezogenen Einkünften aus nichtselbständiger Arbeit abweichend von § 50 Abs. 1 des Einkommensteuergesetzes folgendes:
 
-1.
+1. § 10 Abs. 1 Nr. 1, 1a, 4 bis 7 und 9, § 10c Abs. 1, §§ 24a, 32 Abs. 1 bis 6 und § 32d des Einkommensteuergesetzes sind anzuwenden. § 10 Abs. 1 Nr. 7 Satz 3 des Einkommensteuergesetzes ist auch anzuwenden, wenn der nicht dauernd getrennt lebende Ehegatte, für den dem Arbeitnehmer Aufwendungen für eine Berufsausbildung oder Weiterbildung erwachsen, seinen Wohnsitz im Königreich der Niederlande hat.
 
-2.
+2. Bei der Veranlagung zur Einkommensteuer nach § 5 können die tatsächlichen Vorsorgeaufwendungen im Sinne des § 10 Abs. 1 Nr. 2 und 3 des Einkommensteuergesetzes, die der Arbeitnehmer und sein nicht dauernd getrennt lebender Ehegatte geleistet haben, nach Maßgabe der übrigen hierfür nach § 10 des Einkommensteuergesetzes geltenden Vorschriften als Sonderausgaben abgezogen werden.
 
-3.
+3. (unbesetzt) 4. Die §§ 33, 33a sowie 33b Abs. 1 bis 3 des Einkommensteuergesetzes sind anzuwenden, und zwar auch dann, wenn die Voraussetzungen in der Person des nicht dauernd getrennt lebenden Ehegatten des Arbeitnehmers gegeben sind und der Ehegatte den Wohnsitz im Königreich der Niederlande hat.
 
-5.
+5. § 50 Abs. 1 Satz 7 des Einkommensteuergesetzes ist in den Fällen des § 5 nicht anzuwenden.
 
-6.
+6. § 50 Abs. 4 Satz 5, 6 und 8 des Einkommensteuergesetzes ist sinngemäß anzuwenden.
 
-(2) Bei Ehegatten, ist für die Anwendung des Absatzes 1 Voraussetzung, daß die Summe der Einkünfte beider Ehegatten mindestens zu 90 vom Hundert in der Bundesrepublik Deutschland der Einkommensteuer unterliegt. § 10 Abs. 3, § 10c Abs. 4, § 32 Abs. 6 Satz 2 und § 32a Abs. 5 des Einkommensteuergesetzes sind sinngemäß anzuwenden.
+(2) Bei Ehegatten,
 
-1.
+1. die nicht dauernd getrennt leben und bei denen diese Voraussetzung zu Beginn des Kalenderjahrs vorgelegen hat oder im Laufe des Kalenderjahrs eingetreten ist und
 
-2.
+2. von denen wenigstens einer Arbeitnehmer ist,
 
 (3) Beantragt ein Steuerpflichtiger, der die Voraussetzungen des Absatzes 1 oder 2 erfüllt, die Anwendung des § 50 Abs. 4 des Einkommensteuergesetzes, findet dieses Gesetz keine Anwendung.
 
@@ -72,11 +68,11 @@ Arbeitnehmer, die die Voraussetzungen des § 2 erfüllen, können hinsichtlich i
 
 ### § 7
 
-Bei einem verheirateten Arbeitnehmer mit Wohnsitz im Königreich der Niederlande, der sind auch § 1 Abs. 1 Nr. 2 und 3, § 2 Abs. 1 Nr. 1, 2, 5 und 6, Abs. 2 und 3 sowie §§ 4, 5 Satz 2 dieses Gesetzes anzuwenden. § 33b Abs. 1 bis 3 des Einkommensteuergesetzes ist auch anzuwenden, wenn die Voraussetzungen in der Person des Ehegatten gegeben sind und der Ehegatte den Wohnsitz im Königreich der Niederlande hat. § 46 des Einkommensteuergesetzes ist mit der Maßgabe anzuwenden, daß die von dem beschränkt einkommensteuerpflichtigen Ehegatten in der Bundesrepublik Deutschland bezogenen Einkünfte aus nichtselbständiger Arbeit und die davon einbehaltene Lohnsteuer einzubeziehen sind. Abweichend von § 39 Abs. 3 des Einkommensteuergesetzes ist für die Eintragung der Steuerklassen III und IV das Finanzamt zuständig.
+Bei einem verheirateten Arbeitnehmer mit Wohnsitz im Königreich der Niederlande, der
 
-1.
+1. in der Bundesrepublik Deutschland unbeschränkt einkommensteuerpflichtig ist und
 
-2.
+2. mit seinem Ehegatten die Voraussetzungen des § 2 Abs. 2 erfüllt,
 
 ### § 8
 

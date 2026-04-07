@@ -15,13 +15,13 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 Ein ausländischer Bausparer kann ein Bauspardarlehen für wohnungswirtschaftliche Maßnahmen in dem Staat verwenden, dessen Staatsangehörigkeit er besitzt, wenn er
 
-1.
+1. ein nicht mit einem Deutschen verheirateter Staatsangehöriger eines Staates ist, mit dem die Bundesregierung Vereinbarungen über Anwerbung und Beschäftigung von Arbeitnehmern abgeschlossen hat und der nicht Mitglied der Europäischen Gemeinschaften ist,
 
-2.
+2. ein Arbeitnehmer, Arbeitsloser oder selbständig Erwerbstätiger mit Wohnsitz im Geltungsbereich dieses Gesetzes ist,
 
-3.
+3. im Zeitpunkt des Beginns der Auszahlung der Bausparsumme oder eines Gelddarlehens zur Zwischenfinanzierung nach § 6 Abs. 2 im Besitz einer gültigen Niederlassungserlaubnis oder Aufenthaltserlaubnis zu Erwerbszwecken, zum Zweck des Familiennachzugs oder ohne Bindung an einen Aufenthaltszweck ist und
 
-4.
+4. eine Rückkehrverpflichtung nach § 3 eingegangen ist.
 
 ### § 2 — Höhe der Bausparsumme
 

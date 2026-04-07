@@ -14,11 +14,11 @@ Betriebstätten im Ausland
 
 (2) Investitionen im Ausland im Sinne des Absatzes 1 sind
 
-1.
+1. der Erwerb von Beteiligungen an Kapitalgesellschaften mit Sitz und Geschäftsleitung in einem ausländischen Staat,
 
-2.
+2. Einlagen in Personengesellschaften in einem ausländischen Staat und
 
-3.
+3. die Zuführung von Betriebsvermögen in einen Betrieb oder eine Betriebstätte des Steuerpflichtigen in einem ausländischen Staat.
 
 (3) Die Bildung der Rücklage nach Absatz 1 ist ausgeschlossen, wenn der Steuerpflichtige für die Investition im Ausland die Steuervergünstigung des § 3 des Entwicklungsländer-Steuergesetzes in Anspruch nimmt.
 
@@ -34,9 +34,9 @@ Betriebstätten im Ausland
 
 (2) Wird eine in einem ausländischen Staat belegene Betriebstätte in eine Kapitalgesellschaft umgewandelt, so ist ein nach Absatz 1 Satz 1 und 2 abgezogener Verlust, soweit er nach Absatz 1 Satz 3 nicht wieder hinzugerechnet worden ist oder nicht noch hinzuzurechnen ist, im Veranlagungszeitraum der Umwandlung in entsprechender Anwendung des Absatzes 1 Satz 3 dem Gesamtbetrag der Einkünfte hinzuzurechnen. Satz 1 ist nicht anzuwenden, wenn
 
-1.
+1. bei der umgewandelten Betriebstätte die Voraussetzungen des Absatzes 1 Satz 4 vorgelegen haben oder
 
-2.
+2. der Steuerpflichtige nachweist, daß die Kapitalgesellschaft nach den für sie geltenden Vorschriften einen Abzug von Verlusten der Betriebstätte nicht beanspruchen kann.
 
 > (+++ § 2 Abs. 1 Satz 3 und 4, Abs. 2: Zur Anwendung vgl. § 5 Satz 2 (F ab 1999-03-24) +++)
 
@@ -47,25 +47,25 @@ Tochtergesellschaften
 
 (2) Voraussetzung für die Bildung der Rücklage ist, daß
 
-1.
+1. der neue Anteilserwerb im Sinne des Absatzes 1 Satz 2 nach dem 31. Dezember 1968 stattgefunden hat,
 
-2.
+2. der Verlust der ausländischen Tochtergesellschaft nach Vorschriften ermittelt ist, die den allgemeinen deutschen Gewinnermittlungsvorschriften entsprechen; steuerliche Vergünstigungen sind dabei unberücksichtigt zu lassen,
 
-3.
+3. die Voraussetzungen der Nummer 2 und des § 5 durch Vorlage sachdienlicher Unterlagen, insbesondere Bilanzen und Ergebnisrechnungen und etwaige Geschäftsberichte der ausländischen Tochtergesellschaft, nachgewiesen werden; auf Verlangen sind diese Unterlagen mit dem im Staat der Geschäftsleitung oder des Sitzes vorgeschriebenen oder üblichen Prüfungsvermerk einer behördlich anerkannten Wirtschaftsprüfungsstelle oder einer vergleichbaren Stelle vorzulegen,
 
-4.
+4. der Steuerpflichtige und die ausländische Tochtergesellschaft sich verpflichten, Unterlagen der in Nummer 3 bezeichneten Art auch für die dem Verlustjahr folgenden Wirtschaftsjahre vorzulegen, so lange eine Rücklage im Sinne des Absatzes 1 ausgewiesen wird; aus den Unterlagen muß sich die Höhe der in diesen Wirtschaftsjahren erzielten Betriebsergebnisse der ausländischen Tochtergesellschaft zweifelsfrei ergeben, und
 
-5.
+5. die ausländische Tochtergesellschaft erklärt, daß sie mit der Erteilung von Auskünften durch die Steuerbehörden des Staates, in dem sie ihren Sitz und ihre Geschäftsleitung hat, an die deutschen Steuerbehörden einverstanden ist.
 
-(3) Die Rücklage ist gewinnerhöhend aufzulösen, spätestens jedoch am Schluß des fünften auf ihre Bildung folgenden Wirtschaftsjahrs.
+(3) Die Rücklage ist gewinnerhöhend aufzulösen,
 
-1.
+1. wenn die ausländische Tochtergesellschaft in einem auf das Verlustjahr folgenden Wirtschaftsjahr einen Gewinn erzielt,in Höhe des Teils des Gewinns, der dem Verhältnis der neu erworbenen Anteile im Sinne des Absatzes 1 Satz 2 zum Nennkapital der ausländischen Tochtergesellschaft entspricht, soweit er die Verlustteile, die bei der Bildung der Rücklage nach Absatz 1 Satz 3 zweiter Halbsatz und Satz 4 unberücksichtigt geblieben sind, oder den Auflösungsbetrag im Sinne der Nummer 2 übersteigt, in Höhe des Teils des Gewinns, der dem Verhältnis der neu erworbenen Anteile im Sinne des Absatzes 1 Satz 2 zum Nennkapital der ausländischen Tochtergesellschaft entspricht, soweit er die Verlustteile, die bei der Bildung der Rücklage nach Absatz 1 Satz 3 zweiter Halbsatz und Satz 4 unberücksichtigt geblieben sind, oder den Auflösungsbetrag im Sinne der Nummer 2 übersteigt,
 
-2.
+2. wenn in einem auf ihre Bildung folgenden Wirtschaftsjahr auf die neu erworbenen Anteile im Sinne des Absatzes 1 Satz 2 an der ausländischen Tochtergesellschaft eine Teilwertabschreibung vorgenommen wird,in Höhe des Betrags der Teilwertabschreibung, in Höhe des Betrags der Teilwertabschreibung,
 
-3.
+3. wenn vom Steuerpflichtigen Anteile an der ausländischen Tochtergesellschaft veräußert oder in das Privatvermögen überführt werden,in Höhe des Teils der Rücklage, der dem Anteil der veräußerten oder in das Privatvermögen überführten Anteile an den neu erworbenen Anteilen im Sinne des Absatzes 1 Satz 2 entspricht, in Höhe des Teils der Rücklage, der dem Anteil der veräußerten oder in das Privatvermögen überführten Anteile an den neu erworbenen Anteilen im Sinne des Absatzes 1 Satz 2 entspricht,
 
-4.
+4. wenn die Nachweisverpflichtungen im Sinne des Absatzes 2 Nr. 4 nicht erfüllt werden,in voller Höhe, in voller Höhe,
 
 (4) § 1 Abs. 5 gilt entsprechend.
 
@@ -82,8 +82,6 @@ Voraussetzung für die Anwendung der §§ 1 bis 3 ist, daß die Gesellschaft, de
 > (+++ § 5: Zur Anwendung vgl. § 8 Abs. 3 F. ab 1981-12-22 +++)
 
 ### § 6 — Gewerbesteuer
-
-Die Vorschriften der §§ 1, 3 und 4 gelten auch für die Ermittlung des Gewerbeertrags.
 
 > § 6: Früher § 5 gem. Art. 33 Nr. 5 G v. 22.12.1981 I 1523 mWv 30.12.1981 Kursivdruck: Vgl. Fußnote zu § 4
 

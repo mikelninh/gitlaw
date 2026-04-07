@@ -15,5 +15,3 @@ Kämpfer gegen den Faschismus und Verfolgte des Faschismus erhalten einen jährl
 ### (XXXX) §§ 9 bis 13 — (weggefallen)
 
 ### Schlußformel
-
-Der Ministerrat der Deutschen Demokratischen Republik

@@ -13,7 +13,9 @@ Auf Grund des § 15 Abs. 3 des Fremdenrentengesetzes in der Fassung des Fremdren
 
 ### § 1
 
-In § 1 der Verordnung über die Anerkennung von Systemen und Einrichtungen der sozialen Sicherheit als gesetzliche Rentenversicherungen vom 11. November 1960 (Bundesgesetzbl. I S. 849), zuletzt geändert durch die Zweite Verordnung zur Änderung der Verordnung über die Anerkennung von Systemen und Einrichtungen der sozialen Sicherheit als gesetzliche Rentenversicherungen vom 27. April 1973 (Bundesgesetzbl. I S. 362), werden der Punkt am Ende der Nummer 6 durch ein Komma ersetzt und folgende Nummern 7 und 8 angefügt:
+7. das System der rumänischen Versicherung für bildende Künstler nach dem Gesetz Nummer 343 über den Aufbau und die Tätigkeit des Bildnerischen Fonds der Maler und Bildhauer der rumänischen Volksrepublik vom 20. August 1949 (Rumänisches Amtsblatt 1949 Nummer 54) und dem Gesetz Nummer 294 über den Aufbau und die Tätigkeit des Bildnerischen Fonds der rumänischen Volksrepublik vom 9. August 1954 (Rumänisches Amtsblatt 1954 Nummer 30),
+
+8. das System der rumänischen Versicherung für Schriftsteller nach der durch den Ministerratsbeschluß Nr. 198 vom 15. März 1951 genehmigten Satzung des Literaturfonds."
 
 > § 1 Kursivdruck: Änderungsvorschrift
 
@@ -32,5 +34,3 @@ Die Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1975 in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Arbeit und Sozialordnung

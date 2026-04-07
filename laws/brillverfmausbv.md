@@ -22,37 +22,37 @@ Die Ausbildung dauert drei Jahre.
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
-1.
+1. Berufsbildung, Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-4.
+4. Umweltschutz,
 
-5.
+5. Planen und Steuern von Arbeitsabläufen; Kontrollieren und Beurteilen von Ergebnissen,
 
-6.
+6. Betriebliche und technische Kommunikation,
 
-7.
+7. Qualitätsmanagement,
 
-8.
+8. Bereitstellen von Werkzeugen sowie von Werk-, Betriebs- und Hilfsstoffen,
 
-9.
+9. Warten und Pflegen von Betriebsmitteln,
 
-10.
+10. Messen und Prüfen, Endkontrolle,
 
-11.
+11. Grundlagen der Metallbearbeitung,
 
-12.
+12. Bedienen von Produktionsanlagen, Überwachen von Produktionsabläufen,
 
-13.
+13. Bearbeiten von Brillengläsern,
 
-14.
+14. Reinigen von Gläsern,
 
-15.
+15. Oberflächenveredlung,
 
-16.
+16. Kundenberatung.
 
 ### § 4 — Ausbildungsrahmenplan
 
@@ -74,39 +74,29 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr und für das dritte Ausbildungshalbjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll in insgesamt höchstens sieben Stunden eine Arbeitsaufgabe durchführen sowie in höchstens 15 Minuten hierüber ein Fachgespräch führen. Hierfür kommt insbesondere in Betracht: Dabei soll der Prüfling zeigen, dass er Arbeitsschritte planen, Arbeitsmittel festlegen, Messmaßnahmen durchführen, technische Unterlagen nutzen sowie Fertigungsabläufe, insbesondere den Zusammenhang von Technik, Arbeitsorganisation, Umweltschutz und Wirtschaftlichkeit, berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe wesentlichen fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Durchführung begründen kann.
+(3) Der Prüfling soll in insgesamt höchstens sieben Stunden eine Arbeitsaufgabe durchführen sowie in höchstens 15 Minuten hierüber ein Fachgespräch führen. Hierfür kommt insbesondere in Betracht:
 
-1.
+1. Manuelles und maschinelles Bearbeiten von Brillengläsern unter Berücksichtigung des Gesundheitsschutzes bei der Arbeit sowie
 
-2.
+2. Messen, Prüfen und Kontrollieren einschließlich Anfertigen eines Arbeitsplanes und eines Prüf- und Messprotokolls.
 
 ### § 8 — Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im Teil A der Prüfung in insgesamt höchstens 21 Stunden eine einem betrieblichen Auftrag entsprechende Aufgabe durchführen und dokumentieren sowie in insgesamt höchstens 30 Minuten hierüber ein Fachgespräch führen. Hierfür kommt insbesondere in Betracht: Die Durchführung der Aufgabe wird mit praxisbezogenen Unterlagen dokumentiert. Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe und Teilaufgaben zielorientiert unter Beachtung wirtschaftlicher, technischer, organisatorischer und zeitlicher Vorgaben selbständig planen und umsetzen, Material disponieren, Fertigungsmaschinen einrichten und in Betrieb nehmen kann, Fertigungsabläufe überwachen und Kunden fachlich beraten kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe wesentlichen fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Durchführung begründen kann. Die Bearbeitung der Aufgabe einschließlich der Dokumentation ist mit 70 Prozent und das Fachgespräch mit 30 Prozent zu gewichten.
+(2) Der Prüfling soll im Teil A der Prüfung in insgesamt höchstens 21 Stunden eine einem betrieblichen Auftrag entsprechende Aufgabe durchführen und dokumentieren sowie in insgesamt höchstens 30 Minuten hierüber ein Fachgespräch führen. Hierfür kommt insbesondere in Betracht:
 
-1.
+1. Herstellen von Brillengläsern einschließlich Oberflächenveredlung und Konfektionierung sowie
 
-2.
+2. Messen, Prüfen und Kontrollieren auf geometrische Anforderungen, optische Eigenschaften und kosmetische Abweichungen einschließlich Arbeitsplanung, Ändern und Optimieren von Programmen für numerisch gesteuerte Geräte, Maschinen oder Anlagen.
 
-(3) Teil B der Prüfung besteht aus den drei Prüfungsbereichen: In den Prüfungsbereichen Fertigungstechnik sowie Mess- und Prüftechnik sind fachliche Probleme insbesondere mit verknüpften informationstechnischen, technologischen und mathematischen Sachverhalten zu analysieren, zu bewerten und geeignete Lösungswege darzustellen. Hierfür kommt insbesondere in Betracht:
+(3) Teil B der Prüfung besteht aus den drei Prüfungsbereichen:
 
-1.
+1. Fertigungstechnik,
 
-2.
+2. Mess- und Prüftechnik sowie
 
-3.
-
-1.
-
-2.
-
-3.
-
-(4) Für den Teil B der Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
-
-(5) Innerhalb des Teils B sind die Prüfungsbereiche wie folgt zu gewichten:
+3. Wirtschafts- und Sozialkunde.
 
 (6) Der Prüfungsteil B ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
@@ -126,198 +116,12 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 ### Anlage — (zu § 4)
 
-(Fundstelle: BGBl. I 2002, 2743 - 2747)
+a) Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
-a)
+b) gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
 
-b)
+c) Möglichkeiten der beruflichen Fortbildung nennen
 
-c)
+d) wesentliche Teile des Arbeitsvertrages nennen
 
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-*)
+e) wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen

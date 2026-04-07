@@ -10,11 +10,11 @@
 
 ### § 1 — Weinbrand oder Brandy
 
-(1) Bei der gewerbsmäßigen Herstellung von Weinbrand oder Brandy im Sinne des Anhangs II Nummer 5 der Verordnung (EG) Nr. 110/2008 des Europäischen Parlaments und des Rates vom 15. Januar 2008 zur Begriffsbestimmung, Bezeichnung, Aufmachung und Etikettierung von Spirituosen sowie zum Schutz geografischer Angaben für Spirituosen und zur Aufhebung der Verordnung (EWG) Nr. 1576/89 (ABl. L 39 vom 13.2.2008, S. 16) dürfen im Einklang mit Anhang II Nummer 5 Buchstabe d Satz 2 der Verordnung (EG) Nr. 110/2008 zur Abrundung der Geschmacks- und Geruchsmerkmale Auszüge verwendet werden. Diese Auszüge werden wobei das zur Herstellung verwendete Weindestillat zu weniger als 94,8 Volumenprozent destilliert worden sein muss. Die in Anhang I Nummer 3 der Verordnung (EG) Nr. 110/2008 aufgeführten Erzeugnisse können auch karamellisiert sein.
+(1) Bei der gewerbsmäßigen Herstellung von Weinbrand oder Brandy im Sinne des Anhangs II Nummer 5 der Verordnung (EG) Nr. 110/2008 des Europäischen Parlaments und des Rates vom 15. Januar 2008 zur Begriffsbestimmung, Bezeichnung, Aufmachung und Etikettierung von Spirituosen sowie zum Schutz geografischer Angaben für Spirituosen und zur Aufhebung der Verordnung (EWG) Nr. 1576/89 (ABl. L 39 vom 13.2.2008, S. 16) dürfen im Einklang mit Anhang II Nummer 5 Buchstabe d Satz 2 der Verordnung (EG) Nr. 110/2008 zur Abrundung der Geschmacks- und Geruchsmerkmale Auszüge verwendet werden. Diese Auszüge werden
 
-1.
+1. durch Lagerung von Weindestillat auf Eichenholz oder Eichenholzspänen oder
 
-2.
+2. durch Lagerung von Weindestillat auf getrockneten Pflaumen, grünen (unreifen) Walnüssen, auch getrocknet, oder getrockneten Mandelschalen, auch geröstet, hergestellt,
 
 (2) Die Auszüge nach Absatz 1 Satz 2 müssen auf kaltem Wege hergestellt werden; dabei dürfen die aus ihren Rückständen gewonnenen Destillate verwendet werden.
 
@@ -24,23 +24,23 @@
 
 Eine Spirituose im Sinne des Anhangs II Nr. 5 der Verordnung (EG) Nr. 110/2008 darf unter der Verkehrsbezeichnung "Deutscher Weinbrand" gewerbsmäßig nur in den Verkehr gebracht werden, wenn
 
-1.
+1. die Herstellung, ausgenommen die des Destillates, im Inland erfolgt ist,
 
-2.
+2. die zur Herstellung verwendeten Weintrauben ausschließlich von Rebsorten stammen, die von einem Mitgliedstaat der Europäischen Union nach Artikel 81 Absatz 1 und 2 der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) in der jeweils geltenden Fassung, klassifiziert wurden,
 
-3.
+3. das Erzeugnis ausschließlich durch Destillieren zu weniger als 86 Volumenprozent von Wein oder Brennwein oder durch erneutes Destillieren zu weniger als 86 Volumenprozent eines Weindestillats gewonnen worden ist und eine Gesamtmenge an den höheren Alkoholen Isobutanol, 1-Propanol und Isoamylalkohole von mehr als 150 Gramm je Hektoliter reinen Alkohols enthält,
 
-4.
+4. das gesamte verwendete Weindestillat mindestens zwölf Monate in Eichenholzfässern mit einem Füllungsvermögen von höchstens 1 000 Litern gereift ist,
 
-5.
+5. an Zuckerarten nur die in Anlage 1 Nr. 1 bis 6 der Zuckerartenverordnung aufgeführten Zuckerarten, auch karamelisiert, und nur in einer Menge verwendet worden sind, daß der Gesamtgehalt an Zucker, als Invertzucker berechnet, in einem Liter des gebrauchsfertigen Erzeugnisses nicht mehr als 20 Gramm beträgt,
 
-6.
+6. zur Abrundung der Geruchs- und Geschmacksmerkmale nur nach Maßgabe des § 1 Absatz 1 Satz 2 hergestellte Auszüge aus den dort in Nummer 2 genannten Stoffen verwendet worden sind,
 
-7.
+7. der Weinbrand eine goldgelbe bis goldbraune Farbe hat, die typischen Merkmale der verwendeten Ausgangserzeugnisse aufweist und in Aussehen, Geruch und Geschmack frei von Fehlern ist,
 
-8.
+8. der Alkoholgehalt der fertigen Spirituose mindestens 38 Volumenprozent beträgt und
 
-9.
+9. das Behältnis mit einer nach dem Verfahren der §§ 4 und 5 erteilten Prüfungsnummer versehen ist, die von der jeweils nach Landesrecht zuständigen Stelle (zuständige Stelle) vergeben wird.
 
 ### § 3 — Hinweise auf das Alter
 
@@ -62,31 +62,25 @@ Es ist verboten, Weinbrand oder Brandy mit Hinweisen auf das Alter in den Verkeh
 
 (1) Mit dem Antrag auf Erteilung einer Prüfungsnummer ist unbeschadet des § 4 Abs. 2 von dem abgefüllten Erzeugnis ein Untersuchungsbefund einer von der zuständigen Stelle zugelassenen Untersuchungseinrichtung vorzulegen, sofern die zuständige Stelle nicht selbst den Untersuchungsbefund erstellt. Der Untersuchungsbefund muß folgende Angaben enthalten:
 
-1.
+1. Aussteller des Untersuchungsbefundes,
 
-2.
+2. Name (Firma) des Antragstellers,
 
-3.
+3. vorgesehene Bezeichnung,
 
-4.
+4. sensorischer Befund über Farbe, Klarheit, Geruch und Geschmack,
 
-5.
-
-a)
-
-b)
-
-c)
+5. die festgestellten analytischen Werte füra)vorhandenen Alkoholgehalt, Gramm im Liter und Volumenprozent, b)Gesamtextrakt (indirekt), Gramm im Liter, c)Gesamtzucker nach Inversion, berechnet als Invertzucker, Gramm im Liter. vorhandenen Alkoholgehalt, Gramm im Liter und Volumenprozent, Gesamtextrakt (indirekt), Gramm im Liter, Gesamtzucker nach Inversion, berechnet als Invertzucker, Gramm im Liter.
 
 (2) Die zuständige Stelle hat eine Sinnenprüfung vorzunehmen oder zu veranlassen. Sie trifft ihre Entscheidung nach Überprüfung der eingereichten Unterlagen und dem Ergebnis der Sinnenprüfung. Sie kann eine nochmalige oder eine weitergehende Untersuchung veranlassen sowie die Vorlage weiterer sachdienlicher Unterlagen verlangen. Sie kann insbesondere den durch eine inländische amtliche Untersuchung zu erbringenden Nachweis verlangen, dass der Alkohol der zur Herstellung verwendeten Erzeugnisse ausschließlich aus Wein stammt und dass bei der fraktionierten Destillation eine ausgeprägte Weinigkeit und in der Verdünnung ein deutliches Weinaroma festgestellt worden ist. Für die Sinnenprüfung und ihre Bewertung gilt das in Anlage 2 angegebene Schema.
 
-(3) Die zuständige Stelle erteilt dem Antragsteller über das Ergebnis der Prüfung einen Prüfungsbescheid mit einer Prüfungsnummer. Die Prüfungsnummer setzt sich zusammen aus Auf Antrag können einem Betrieb mehrere Betriebsnummern zugeteilt werden. Der Prüfungsbescheid und die Prüfungsnummer sind dem Antragsteller innerhalb von zehn Tagen nach der Prüfung schriftlich bekannt zu geben. Die Bekanntgabe soll innerhalb von drei Wochen nach dem Eingang des Antrags bei der zuständigen Stelle erfolgen.
+(3) Die zuständige Stelle erteilt dem Antragsteller über das Ergebnis der Prüfung einen Prüfungsbescheid mit einer Prüfungsnummer. Die Prüfungsnummer setzt sich zusammen aus
 
-1.
+1. einer Nummer für den Betrieb des Antragstellers (Betriebsnummer), die von der zuständigen Stelle zugeteilt wird; der Betriebsnummer ist der gemäß Anlage 3 abgekürzte Name des Landes voranzustellen, in dem die zuständige Stelle ihren Sitz hat,
 
-2.
+2. der Antragsnummer des Antragstellers (§ 4 Abs. 1 Satz 5) und
 
-3.
+3. den beiden letzten Ziffern der Jahreszahl der Antragstellung.
 
 (4) Die Zulassung der in Absatz 1 Satz 1 genannten Untersuchungseinrichtung setzt eine fachliche Ausbildung der die Untersuchung ausführenden Personen und eine ausreichende Laboreinrichtung voraus. Eine allgemeine Zulassung kann für Untersuchungseinrichtungen erfolgen, die gewerblich wein- oder branntweinchemische Untersuchungen ausführen.
 
@@ -104,15 +98,15 @@ c)
 
 ### § 8 — Zuckerung von bestimmten Spirituosen
 
-(1) Bei der gewerbsmäßigen Herstellung von dürfen über die nach der Verordnung (EG) Nr. 110/2008 zulässigen Stoffe hinaus zur Geschmacksabrundung Zuckerarten, die in Anlage 1 Nr. 1 bis 6 der Zuckerartenverordnung aufgeführt sind, nicht karamellisiert, verwendet werden. Der Gesamtgehalt an Zucker, als Invertzucker berechnet, darf in einem Liter des gebrauchsfertigen Erzeugnisses nicht mehr als zehn Gramm betragen.
+(1) Bei der gewerbsmäßigen Herstellung von
 
-1.
+1. Obstbrand im Sinne des Anhangs II Nr. 9 der Verordnung (EG) Nr. 110/2008, Brand im Sinne des Anhangs II Nr. 16 der Verordnung (EG) Nr. 110/2008 oder Geist im Sinne des Anhangs II Nr. 17 der Verordnung (EG) Nr. 110/2008,
 
-2.
+2. Tresterbrand oder Trester im Sinne des Anhangs II Nr. 6 der Verordnung (EG) Nr. 110/2008,
 
-3.
+3. Topinambur oder Brand aus Jerusalem-Artischocke im Sinne des Anhangs II Nr. 14 der Verordnung (EG) Nr. 110/2008 oder
 
-4.
+4. Hefebrand oder Brand aus Trub im Sinne des Anhangs II Nr. 12 der Verordnung (EG) Nr. 110/2008
 
 (2) Absatz 1 findet keine Anwendung auf die dort genannten Spirituosen, die unter einer geographischen Bezeichnung in den Verkehr gebracht werden.
 
@@ -120,13 +114,13 @@ c)
 
 ### § 9 — Spirituosen mit geografischen Bezugnahmen
 
-(1) Spirituosen dürfen gewerbsmäßig nach Maßgabe des Artikels 10 Absatz 6 Buchstabe a der Verordnung (EU) 2019/787 des Europäischen Parlaments und des Rates vom 17. April 2019 über die Begriffsbestimmung, Bezeichnung, Aufmachung und Kennzeichnung von Spirituosen, die Verwendung der Bezeichnungen von Spirituosen bei der Aufmachung und Kennzeichnung von anderen Lebensmitteln, den Schutz geografischer Angaben für Spirituosen und die Verwendung von Ethylalkohol und Destillaten landwirtschaftlichen Ursprungs in alkoholischen Getränken sowie zur Aufhebung der Verordnung (EG) Nr. 110/2008 (ABl. L 130 vom 17.05.2019, S. 1; L 289 vom 12.8.2021, S. 4) mit einer geografischen Bezugnahme nur in den Verkehr gebracht werden, sofern es sich bei dieser geografischen Bezugnahme um die Angabe eines Herkunftsortes oder einer Herkunftsregion im Sinne des Artikels 14 Absatz 1 der Verordnung (EU) 2019/787 handelt. Im Übrigen bestimmt sich die Zulässigkeit geografischer Begriffe im Sinne des Artikels 10 Absatz 5 Buchstabe a Satz 2 der Verordnung (EU) 2019/787 nach den Regeln der jeweiligen Produktspezifikation.
+(1) Spirituosen dürfen gewerbsmäßig nach Maßgabe des Artikels 10 Absatz 6 Buchstabe a der Verordnung (EU) 2019/787 des Europäischen Parlaments und des Rates vom 17. April 2019 über die Begriffsbestimmung, Bezeichnung, Aufmachung und Kennzeichnung von Spirituosen, die Verwendung der Bezeichnungen von Spirituosen bei der Aufmachung und Kennzeichnung von anderen Lebensmitteln, den Schutz geografischer Angaben für Spirituosen und die Verwendung von Ethylalkohol und Destillaten landwirtschaftlichen Ursprungs in alkoholischen Getränken sowie zur Aufhebung der Verordnung (EG) Nr. 110/2008 (ABl. L 130 vom 17.05.2019, S. 1; L 289 vom 12.8.2021, S. 4) mit einer geografischen Bezugnahme nur in den Verkehr gebracht werden, sofern es sich bei dieser geografischen Bezugnahme um die Angabe eines Herkunftsortes oder einer Herkunftsregion im Sinne des Artikels 14 Absatz 1 der Verordnung (EU) 2019/787 handelt. Im Übrigen bestimmt sich die Zulässigkeit geografischer Begriffe im Sinne des Artikels 10 Absatz 5 Buchstabe a Satz 2 der Verordnung (EU) 2019/787 nach den Regeln der jeweiligen Produktspezifikation.
 
 (2) Soweit ein Obstbrand im Sinne des Anhangs I Kategorie 9 der Verordnung (EU) 2019/787 oder ein Geist im Sinne des Anhangs I Kategorie 17 der Verordnung (EU) 2019/787 in einer Region oder in einem Ort hergestellt wird, die oder der zu einem im Rahmen einer Produktspezifikation nach Artikel 22 Absatz 1 Unterabsatz 1 Buchstabe d der Verordnung (EU) 2019/787 abgegrenzten geografischen Gebiet gehört, darf der Name dieser Region oder dieses Ortes ergänzend zur rechtlich vorgeschriebenen Bezeichnung nach Anhang I Kategorie 9 oder Kategorie 17 der Verordnung (EU) 2019/787 verwendet werden, wenn dieser Obstbrand oder Geist zusätzlich zu den Anforderungen der Spirituosenkategorie nach Anhang I der Verordnung (EU) 2019/787 folgende Bedingungen erfüllt:
 
-1.
+1. er ist in der jeweiligen Region oder dem jeweiligen Ort aus Früchten hergestellt, die aus der jeweiligen Region oder dem jeweiligen Ort stammen und
 
-2.
+2. er weist den gegenüber den Erzeugnissen mit einer Gattungsbezeichnung höheren Mindestalkoholgehalt auf, sofern ein solcher höherer Mindestalkoholgehalt in der jeweiligen Produktspezifikation des Erzeugnisses mit einer eingetragenen geografischen Angabe, in dessen abgegrenztem geografischen Gebiet die Region oder der Ort, die oder der in der geografischen Bezugnahme genannt wird, liegt, festgesetzt worden ist.
 
 ## Zweiter Abschnitt: Weinähnliche, perlweinähnliche und schaumweinähnliche Getränke und
 hieraus weiterverarbeitete alkoholhaltige Getränke
@@ -162,17 +156,9 @@ Schlussbestimmungen
 
 Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft,
 
-1.
+1. wer a)entgegen § 1 Abs. 3 Weinbrand oder Brandy,b)entgegen § 2 Nr. 1 bis 6 oder 8 eine Spirituose unter der Verkehrsbezeichnung „Deutscher Weinbrand“,c)entgegen § 8 Absatz 3 oder § 9 Absatz 1 eine Spirituose oderd)entgegen § 10 Abs. 8 oder § 11 Satz 1 ein dort genanntes Getränkgewerbsmäßig in den Verkehr bringt oder entgegen § 1 Abs. 3 Weinbrand oder Brandy, entgegen § 2 Nr. 1 bis 6 oder 8 eine Spirituose unter der Verkehrsbezeichnung „Deutscher Weinbrand“, entgegen § 8 Absatz 3 oder § 9 Absatz 1 eine Spirituose oder entgegen § 10 Abs. 8 oder § 11 Satz 1 ein dort genanntes Getränk
 
-a)
-
-b)
-
-c)
-
-d)
-
-2.
+2. wer entgegen § 3 Satz 1, auch in Verbindung mit § 3 Satz 2, Weinbrand, Brandy oder Deutschen Weinbrand mit Hinweisen auf das Alter gewerbsmäßig in den Verkehr bringt oder gewerbsmäßig mit solchen Hinweisen wirbt.
 
 ### § 13 — Ordnungswidrigkeiten
 
@@ -192,24 +178,10 @@ Ordnungswidrig nach § 60 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches 
 
 ### Anlage 1 — (zu § 4 Abs. 1)
 
-(Fundstelle des Originaltextes: BGBl. I 2003, 1260)
-
 ### Anlage 2 — (zu § 5 Abs. 2)
 
-(Fundstelle des Originaltextes: BGBl. I 2003, 1261)
+1. Sensorische Vorbedingungen Die nachfolgenden Vorbedingungen werden auf JA/NEIN-Entscheidung geprüft; dabei bedeutet NEIN den Ausschluss von der weiteren Prüfung.a)Farbe: typisch - goldgelb bis goldbraunb)Klarheit: typisch - blank, glanzhell Farbe: typisch - goldgelb bis goldbraun Klarheit: typisch - blank, glanzhell
 
-1.
-
-a)
-
-b)
-
-2.
-
-a)
-
-c)
+2. Sensorische Prüfmerkmale und Qualitätszahla)Punkteskala Punkteskala
 
 ### Anlage 3 — (zu § 5 Abs. 3 Nr. 1)
-
-Fundstelle des Originaltextes: BGBl. I 2003, 1262

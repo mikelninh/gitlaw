@@ -17,13 +17,13 @@ Aufgaben und Befugnisse von Betriebsleitern für Eisenbahnen
 
 (4) Für jeden Betriebsleiter ist mindestens ein Stellvertreter zu bestellen. Die Bestellung ständiger Stellvertreter für bestimmte Verantwortungsbereiche ist zulässig.
 
-(5) Als Betriebsleiter und als Stellvertreter können bestellt werden.
+(5) Als Betriebsleiter und als Stellvertreter können
 
-1.
+1. Mitarbeiter des Unternehmens, denen auch andere Aufgaben übertragen sein können,
 
-2.
+2. nicht dem Eisenbahnunternehmen angehörende Personen oder
 
-3.
+3. der Eisenbahnunternehmer oder eine für die Führung der Geschäfte bestellte Person
 
 (6) Werden mehrere Betriebsleiter oder für einen Betriebsleiter mehrere Stellvertreter bestellt, sind deren Verantwortungsbereiche gegeneinander abzugrenzen.
 
@@ -35,29 +35,29 @@ Aufgaben und Befugnisse von Betriebsleitern für Eisenbahnen
 
 (2) Die Bestellung wird auf Antrag bestätigt, wenn der Betriebsleiter
 
-1.
+1. zuverlässig ist und
 
-2.
+2. die fachliche Befähigung zum Betriebsleiter in einer Prüfung nach der Eisenbahnbetriebsleiter-Prüfungsverordnung nachgewiesen hat.
 
 (3) Abweichend von Absatz 2 Nr. 2 wird als Betriebsleiter auch bestätigt, wer in einem Fachgebiet, zu dem in erheblichem Umfang Planung, Bau und Betrieb von Eisenbahnen gehören, die große Staatsprüfung für den höheren technischen Verwaltungsdienst bestanden hat und mindestens drei Jahre in für die Sicherheit einer Eisenbahn wesentlichen Fachbereichen als Ingenieur tätig war.
 
 (4) Die zuständige Aufsichtsbehörde kann die Bestätigung versagen, wenn
 
-1.
+1. die Betriebsleiterprüfung länger als fünf Jahre vor der Bestellung zurückliegt und in dieser Zeit eine Tätigkeit als Betriebsleiter oder Stellvertreter des Betriebsleiters nicht ausgeübt worden ist,
 
-2.
+2. Tatsachen vorliegen, die die Annahme rechtfertigen, dass die bestellte Person unzuverlässig ist, oder
 
-3.
+3. Tatsachen vorliegen, die Zweifel über die Fachkunde des bestellten Betriebsleiters begründen.
 
 (5) Der Antragsteller hat auf seine Kosten dem Antrag auf Bestätigung der Bestellung folgende Unterlagen beizufügen:
 
-1.
+1. einen Lebenslauf mit Lichtbild, das nicht älter als ein Jahr ist,
 
-2.
+2. ein aktuelles Führungszeugnis aus dem Bundeszentralregister,
 
-3.
+3. die beglaubigte Ablichtung des Zeugnisses über die bestandene Betriebsleiterprüfung oder die bestandene große Staatsprüfung gemäß Absatz 3 sowie
 
-4.
+4. Nachweise über die Tätigkeit als Betriebsleiter oder Stellvertreter des Betriebsleiters, wenn die Betriebsleiterprüfung länger als fünf Jahre zurückliegt.
 
 (6) Die Absätze 1 bis 5 gelten entsprechend für die Bestätigung der Bestellung als Stellvertreter eines Betriebsleiters.
 
@@ -65,15 +65,9 @@ Aufgaben und Befugnisse von Betriebsleitern für Eisenbahnen
 
 Die zuständige Aufsichtsbehörde kann im Einzelfall
 
-1.
+1. Ausnahmen von den Vorschriften über die Bestellung und Bestätigung der Stellvertreter der Betriebsleiter bei Vorliegen einfacher Betriebsverhältnisse einer Eisenbahn zulassen sowie
 
-2.
-
-a)
-
-b)
-
-c)
+2. abweichend von § 2 Abs. 2 Nr. 2 die Bestellung eines Betriebsleiters bestätigen, wenna)hinsichtlich der Eisenbahnverkehrsleistungen und der zu benutzenden Eisenbahninfrastruktur einfache Betriebsverhältnisse vorliegen, b)hinsichtlich der Eisenbahninfrastruktur einfache Betriebsverhältnisse vorliegen oder c)die bestellte Person bereits bestätigter Straßenbahn-Betriebsleiter und in einem Unternehmen tätig ist, das die Genehmigung als Straßenbahnunternehmen und als Eisenbahnunternehmen besitzt. hinsichtlich der Eisenbahnverkehrsleistungen und der zu benutzenden Eisenbahninfrastruktur einfache Betriebsverhältnisse vorliegen, hinsichtlich der Eisenbahninfrastruktur einfache Betriebsverhältnisse vorliegen oder die bestellte Person bereits bestätigter Straßenbahn-Betriebsleiter und in einem Unternehmen tätig ist, das die Genehmigung als Straßenbahnunternehmen und als Eisenbahnunternehmen besitzt.
 
 (2) Die Beurteilung, ob einfache Betriebsverhältnisse vorliegen, obliegt der für die Ausnahmegenehmigung zuständigen Aufsichtsbehörde. Ob hinsichtlich der zu benutzenden Eisenbahninfrastruktur nach Absatz 1 Nr. 2 Buchstabe a einfache Betriebsverhältnisse vorliegen, ist im Einvernehmen mit der für das Eisenbahninfrastrukturunternehmen zuständigen Aufsichtsbehörde zu beurteilen.
 
@@ -83,27 +77,21 @@ c)
 
 (1) Betriebsleiter im Sinne von § 1 Abs. 1 bis 6 haben insbesondere
 
-1.
+1. die für die Sicherheit erforderlichen Anordnungen zur Ausführung von Rechtsvorschriften und von Anweisungen der Aufsichtsbehörde zu treffen oder zu veranlassen;
 
-2.
+2. die Einhaltung von Rechtsvorschriften und von Anweisungen der Aufsichtsbehörde sowie von betrieblichen Anordnungen einschließlich derjenigen für die fachliche Ausbildung und Fortbildung sowie für die Bemessung und die Verwendung des Betriebspersonals zu überwachen, diea)das sichere Betreiben der Eisenbahninfrastruktur,b)den Zustand der Fahrzeuge undc)die sichere Durchführung der Zugfahrten und die sichere Abwicklung der Rangierarbeiten das sichere Betreiben der Eisenbahninfrastruktur, den Zustand der Fahrzeuge und die sichere Durchführung der Zugfahrten und die sichere Abwicklung der Rangierarbeiten betreffen;
 
-a)
+3. für die Zusammenarbeit in der Eisenbahn und für eine Abstimmung zwischen Eisenbahninfrastrukturunternehmen, Eisenbahnverkehrsunternehmen und gegebenenfalls einzubindenden Dritten Sorge zu tragen, soweit dies für das sichere Betreiben der Eisenbahninfrastruktur und das sichere Erbringen von Eisenbahnverkehrsleistungen erforderlich ist;
 
-b)
-
-c)
-
-3.
-
-4.
+4. die Diensteinteilung des Betriebspersonals vom Standpunkt der Sicherheit aus zu überwachen.
 
 (2) Der Betriebsleiter kann sich zur Erfüllung seiner Aufgaben örtlicher Betriebsleiter bedienen. Diese müssen die Voraussetzungen und Anforderungen an Betriebsbeamte im Sinne des Fünften Abschnittes der Eisenbahn-Bau- und Betriebsordnung (EBO) erfüllen.
 
 (3) Der Betriebsleiter berät das Eisenbahnunternehmen und die für die Führung der Geschäfte bestellten Personen in allen Angelegenheiten, die für die Sicherheit der Eisenbahn bedeutsam sein können. Er ist insbesondere verpflichtet,
 
-1.
+1. auf die Entwicklung und Einführung neuer Techniken und Technologien zur Verbesserung der Sicherheit hinzuwirken sowie
 
-2.
+2. Bahnbetriebsunfälle und andere sicherheitsrelevante Vorkommnisse zu untersuchen, festgestellte Mängel dem Eisenbahnunternehmen und den für die Führung der Geschäfte bestellten Personen zu melden sowie Maßnahmen zur Beseitigung dieser Mängel vorzuschlagen.
 
 ### § 5 — Pflichten der Eisenbahn
 
@@ -113,13 +101,13 @@ c)
 
 (3) Sie haben durch organisatorische Maßnahmen im Unternehmen insbesondere sicherzustellen, dass der Betriebsleiter
 
-1.
+1. keine die Betriebssicherheit einschränkenden Weisungen erhält,
 
-2.
+2. bei allen mit seinen Aufgaben zusammenhängenden Angelegenheiten beteiligt wird und die zur Erfüllung seiner Aufgaben erforderliche Information und Unterstützung erhält,
 
-3.
+3. in Angelegenheiten, die die Sicherheit des Betriebes berühren, Weisungen gegenüber dem Betriebspersonal erteilen kann und
 
-4.
+4. Vorschläge oder Bedenken unmittelbar dem Eisenbahnunternehmer oder den für die Führung der Geschäfte des Eisenbahnunternehmens bestellten Personen vortragen kann. Soll eine vom Betriebsleiter vorgeschlagene Maßnahme nicht durchgeführt werden, so ist der Betriebsleiter umfassend und unverzüglich über die Gründe der Ablehnung schriftlich zu unterrichten.
 
 (4) Der Betriebsleiter darf wegen der Erfüllung der ihm übertragenen Aufgaben nicht benachteiligt werden.
 

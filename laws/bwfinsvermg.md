@@ -70,100 +70,12 @@ Die Kosten für die Verwaltung des Sondervermögens trägt der Bund.
 
 ### Anlage — (zu § 5 Absatz 1)
 
-Wesentliche finanzwirksame Schwerpunkte des Kapitels
-
 Veranschlagt sind die Einnahmen und Ausgaben des Bundes aus den Maßnahmen des Gesetzes zur Finanzierung der Bundeswehr und zur Errichtung eines „Sondervermögens Bundeswehr“. Mit den Maßnahmen des Wirtschaftsplans sollen bedeutsame Ausrüstungsvorhaben, insbesondere komplexe überjährige militärische Beschaffungen gesichert finanziert werden.
-
-Wesentliche Ziele, die mit den veranschlagten Mitteln erreicht werden sollen
 
 Mit dem „Sondervermögen Bundeswehr“ soll sichergestellt werden, dass die Streitkräfte mit notwendigem Material ausgestattet werden, um ihren Verteidigungsauftrag erfüllen zu können.
 
-1.
+1. Die Ausgaben sind übertragbar. § 45 Abs. 3 BHO ist nicht anzuwenden.
 
-2.
+2. Alle Ausgabetitel sind zu Titel 575 01 einseitig deckungsfähig.
 
-3.
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
+3. Für Beschaffungsvorhaben, die nicht bei den jeweiligen Titeln vorgesehen sind, dürfen Ausgaben und Verpflichtungsermächtigungen nur mit Einwilligung des Haushaltsausschusses des Deutschen Bundestages in Anspruch genommen werden.

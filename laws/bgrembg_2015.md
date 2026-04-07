@@ -18,27 +18,13 @@ Dieses Gesetz gilt für Aufsichtsgremien und wesentliche Gremien, für die der B
 
 Im Sinne dieses Gesetzes sind:
 
-1.
+1. Aufsichtsgremien: Aufsichts- und Verwaltungsräte sowie vergleichbare Aufsicht führende Organe ungeachtet ihrer Bezeichnung und Rechtsgrundlage, auch wenn deren Mitglieder durch Wahl bestimmt werden;
 
-2.
+2. wesentliche Gremien: a)Gremien, bei denen die Bundesregierung als Gesamtheit die Mitgliedschaft mindestens eines Mitglieds zu beschließen oder zur Kenntnis zu nehmen hat,b)Gremien, die wegen ihrer besonderen tatsächlichen, wissenschaftlichen oder zukunftsrelevanten Bedeutung von den Institutionen des Bundes nach Nummer 3 als wesentliche Gremien bestimmt worden sind; Gremien, bei denen die Bundesregierung als Gesamtheit die Mitgliedschaft mindestens eines Mitglieds zu beschließen oder zur Kenntnis zu nehmen hat, Gremien, die wegen ihrer besonderen tatsächlichen, wissenschaftlichen oder zukunftsrelevanten Bedeutung von den Institutionen des Bundes nach Nummer 3 als wesentliche Gremien bestimmt worden sind;
 
-a)
+3. Institutionen des Bundes: a)die Bundesregierung als Gesamtheit,b)das Bundeskanzleramt,c)die Bundesministerien sowie die oder der Beauftragte der Bundesregierung für Kultur und Medien einschließlich der Behörden des jeweiligen Geschäftsbereichs,d)die weiteren Beauftragten der Bundesregierung und die Bundesbeauftragten sowiee)die bundesunmittelbaren juristischen Personen des öffentlichen Rechts ohne Recht auf Selbstverwaltung; die Bundesregierung als Gesamtheit, das Bundeskanzleramt, die Bundesministerien sowie die oder der Beauftragte der Bundesregierung für Kultur und Medien einschließlich der Behörden des jeweiligen Geschäftsbereichs, die weiteren Beauftragten der Bundesregierung und die Bundesbeauftragten sowie die bundesunmittelbaren juristischen Personen des öffentlichen Rechts ohne Recht auf Selbstverwaltung;
 
-b)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-4.
+4. vom Bund zu bestimmende Mitglieder: Mitglieder, die die Institutionen des Bundes einzeln oder gemeinsam in ein Aufsichtsgremium oder in ein wesentliches Gremium unmittelbar und rechtsverbindlich wählen, berufen, entsenden oder für ein solches Gremium vorschlagen können; ein Mitglied ist nicht vom Bund bestimmt, wenn ein Dritter gegenüber dem Bund ein Vorschlagsrecht für die Mitgliedschaft hat und von diesem Recht Gebrauch macht.
 
 ### § 4 — Besetzung der Aufsichtsgremien und der wesentlichen Gremien
 
@@ -52,13 +38,13 @@ e)
 
 (1) Die Institutionen des Bundes erfassen jährlich zum 31. Dezember
 
-1.
+1. die Aufsichtsgremien und die wesentlichen Gremien, für die sie federführend zuständig sind,
 
-2.
+2. die Zahl der vom Bund für die jeweiligen in Nummer 1 genannten Gremien zu bestimmenden Mitglieder,
 
-3.
+3. die Anzahl der Frauen und Männer, die der Bund in den jeweiligen in Nummer 1 genannten Gremien bestimmt hat, und
 
-4.
+4. die Veränderungen nach den Nummern 1 bis 3 im Vergleich zum Vorjahr.
 
 (2) Bis zum 31. März des Folgejahres haben die Institutionen des Bundes die Daten nach Absatz 1 dem Statistischen Bundesamt zu melden. Gleichzeitig haben sie diese Daten in übersichtlicher Form unter Beachtung des Datenschutzes auf ihrer Internetseite zu veröffentlichen.
 

@@ -7,7 +7,9 @@
 
 ### § 1 — Grundregel
 
-(1) Das auf die Länder einschließlich ihrer Gemeinden entfallende Aufkommen des Bundeszentralamts für Steuern aus der Ausübung der Aufgabe nach § 5 Absatz 1 Nummer 12 des Finanzverwaltungsgesetzes gebührt dem Land, dessen Finanzbehörde für die Besteuerung vom Einkommen des Vergütungsschuldners örtlich zuständig ist. Ist der Vergütungsschuldner keine Körperschaft und stimmen Betriebs- und Wohnsitzfinanzamt nicht überein, ist das Betriebsfinanzamt maßgebend.(2) Sofern eine Veranlagung nach § 50 Absatz 2 Satz 2 Nummer 5 des Einkommensteuergesetzes beantragt wird und der hierauf anzurechnende Steuerabzug nach § 50a des Einkommensteuergesetzes von Vergütungsschuldnern vorgenommen wurde, für deren Besteuerung vom Einkommen Finanzbehörden verschiedener Länder örtlich zuständig sind, steht der auf die Länder einschließlich ihrer Gemeinden entfallende Anteil am Zahl- oder Erstattungsbetrag dem Land zu, dessen Finanzbehörde nach Maßgabe der Abgabenordnung für die Veranlagung zuständig gewesen wäre.
+(1) Das auf die Länder einschließlich ihrer Gemeinden entfallende Aufkommen des Bundeszentralamts für Steuern aus der Ausübung der Aufgabe nach § 5 Absatz 1 Nummer 12 des Finanzverwaltungsgesetzes gebührt dem Land, dessen Finanzbehörde für die Besteuerung vom Einkommen des Vergütungsschuldners örtlich zuständig ist. Ist der Vergütungsschuldner keine Körperschaft und stimmen Betriebs- und Wohnsitzfinanzamt nicht überein, ist das Betriebsfinanzamt maßgebend.
+
+(2) Sofern eine Veranlagung nach § 50 Absatz 2 Satz 2 Nummer 5 des Einkommensteuergesetzes beantragt wird und der hierauf anzurechnende Steuerabzug nach § 50a des Einkommensteuergesetzes von Vergütungsschuldnern vorgenommen wurde, für deren Besteuerung vom Einkommen Finanzbehörden verschiedener Länder örtlich zuständig sind, steht der auf die Länder einschließlich ihrer Gemeinden entfallende Anteil am Zahl- oder Erstattungsbetrag dem Land zu, dessen Finanzbehörde nach Maßgabe der Abgabenordnung für die Veranlagung zuständig gewesen wäre.
 
 ### § 2 — Verteilung bei gebietsfremden Vergütungsschuldnern
 

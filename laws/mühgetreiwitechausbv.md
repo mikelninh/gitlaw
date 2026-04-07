@@ -18,9 +18,9 @@ Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artike
 
 Der Ausbildungsberuf des Verfahrenstechnologen Mühlen- und Getreidewirtschaft und der Verfahrenstechnologin Mühlen- und Getreidewirtschaft wird staatlich anerkannt nach
 
-1.
+1. § 4 Absatz 1 des Berufsbildungsgesetzes und
 
-2.
+2. § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage B Abschnitt 1 Nummer 28, Müller, der Handwerksordnung.
 
 ### § 2 — Dauer der Berufsausbildung
 
@@ -34,71 +34,67 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 4 — Struktur der Berufsausbildung, Ausbildungsberufsbild
 
-(1) Die Berufsausbildung gliedert sich in: Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
+(1) Die Berufsausbildung gliedert sich in:
 
-1.
+1. fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten,
 
-2.
+2. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung a)Müllerei oderb)Agrarlager sowie Müllerei oder Agrarlager sowie
 
-a)
-
-b)
-
-3.
+3. fachrichtungsübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 (2) Die Berufsbildpositionen der fachrichtungsübergreifenden berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. qualitätssichernde Maßnahmen anwenden,
 
-2.
+2. Rohstoffe annehmen und untersuchen,
 
-3.
+3. Rohstoffe lagern,
 
-4.
+4. Rohstoffe reinigen und für die Verarbeitung vorbereiten,
 
-5.
+5. Geräte, Maschinen und Anlagen bedienen und
 
-6.
+6. Geräte, Maschinen und Anlagen reinigen und warten.
 
 (3) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Müllerei sind:
 
-1.
+1. Produktionsprozesse steuern,
 
-2.
+2. Mahlerzeugnisse herstellen,
 
-3.
+3. Futtermittel herstellen,
 
-4.
+4. Spezialerzeugnisse herstellen und
 
-5.
+5. Waren lagern, verpacken und verladen.
 
 (4) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Agrarlager sind:
 
-1.
+1. Rohstoffpartien gesund erhalten,
 
-2.
+2. Schädlinge abwehren und bekämpfen,
 
-3.
+3. Düngemittel annehmen, lagern, mischen und abgeben,
 
-4.
+4. Qualität von Braugetreide, Mais, Ölsaaten und Leguminosen beurteilen,
 
-5.
+5. Pflanzenschutzmittel annehmen, lagern, anwenden und abgeben und
 
-6.
+6. Saatgut annehmen, bearbeiten, lagern und abgeben.
 
 (5) Die Berufsbildpositionen der fachrichtungsübergreifenden, integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. Berufsbildung sowie Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-4.
+4. Umweltschutz,
 
-5.
+5. Arbeitsabläufe vorbereiten und im Team arbeiten und
 
-6.
+6. Informations- und Kommunikationstechniken anwenden.
 
 ### § 5 — Ausbildungsplan
 
@@ -126,9 +122,9 @@ Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage de
 
 Teil 1 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
-1.
+1. die im Ausbildungsrahmenplan für die ersten 18 Monate genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 ### § 9 — Prüfungsbereich von Teil 1
 
@@ -136,25 +132,25 @@ Teil 1 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
 (2) Im Prüfungsbereich Annehmen von Rohstoffen soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Arbeitsabläufe vorzubereiten,
 
-2.
+2. Probenahmen durchzuführen,
 
-3.
+3. Rohstoffe mit sensorischen, chemischen und physikalischen Verfahren zu untersuchen,
 
-4.
+4. Rohstoffe zu beurteilen und zu klassifizieren,
 
-5.
+5. Rückstellmuster zu erstellen,
 
-6.
+6. mechanische Fördersysteme auszuwählen,
 
-7.
+7. Rohstoffe mechanisch zu fördern,
 
-8.
+8. Rohstoffe zu reinigen und für die Lagerung oder Verarbeitung vorzubereiten,
 
-9.
+9. Geräte, Maschinen und Anlagen zu reinigen und zu warten sowie
 
-10.
+10. Maßnahmen zur Arbeitssicherheit, zum Gesundheitsschutz, zum Brandschutz, zum Umweltschutz, zur Wirtschaftlichkeit und zur Qualitätssicherung zu beschreiben.
 
 (3) Der Prüfling soll zwei Arbeitsaufgaben durchführen. Weiterhin soll er Aufgaben schriftlich bearbeiten.
 
@@ -166,9 +162,9 @@ Teil 1 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
 (1) Teil 2 der Abschluss- oder Gesellenprüfung erstreckt sich in der Fachrichtung Müllerei auf
 
-1.
+1. die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 (2) In Teil 2 der Abschluss- oder Gesellenprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschluss- oder Gesellenprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
@@ -176,41 +172,41 @@ Teil 1 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
 Teil 2 der Abschluss- oder Gesellenprüfung findet in der Fachrichtung Müllerei in den folgenden Prüfungsbereichen statt:
 
-1.
+1. Herstellen von Enderzeugnissen,
 
-2.
+2. Verfahrenstechnologie und Arbeitsplanung sowie
 
-3.
+3. Wirtschafts- und Sozialkunde.
 
 ### § 12 — Prüfungsbereich Herstellen von Enderzeugnissen
 
 (1) Im Prüfungsbereich Herstellen von Enderzeugnissen soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Herstellungsverfahren auszuwählen und Produktionsprozesse zu planen,
 
-2.
+2. Roh-, Hilfs- und Zusatzstoffe auszuwählen,
 
-3.
+3. Anlagen einzurichten und in Betrieb zu nehmen,
 
-4.
+4. Produktionsprozesse zu steuern und Enderzeugnisse unter Berücksichtigung wirtschaftlicher, verfahrenstechnologischer und zeitlicher Vorgaben herzustellen,
 
-5.
+5. Enderzeugnisse zu kontrollieren und sensorische, chemische und physikalische Untersuchungen durchzuführen,
 
-6.
+6. Vorschriften zur Herstellung von Lebensmitteln einzuhalten,
 
-7.
+7. Erzeugnisse zu verpacken und zu lagern,
 
-8.
+8. Maßnahmen zur Arbeitssicherheit, zum Gesundheitsschutz, zum Brandschutz, zum Umweltschutz und zum Qualitätsmanagement zu treffen sowie
 
-9.
+9. seine Vorgehensweise zu begründen.
 
-(2) Für den Nachweis nach Absatz 1 sind zwei der folgenden Tätigkeiten zugrunde zu legen: Der Prüfungsausschuss entscheidet, welche beiden Tätigkeiten zugrunde gelegt werden. Eine der Tätigkeiten muss der Produktionsschwerpunkt des Ausbildungsbetriebes sein.
+(2) Für den Nachweis nach Absatz 1 sind zwei der folgenden Tätigkeiten zugrunde zu legen:
 
-1.
+1. Herstellen von Mahlerzeugnissen,
 
-2.
+2. Herstellen von Futtermitteln,
 
-3.
+3. Herstellen von Spezialprodukten.
 
 (3) Der Prüfling soll zwei Arbeitsaufgaben durchführen. Nach der Durchführung wird mit ihm über jede der Arbeitsaufgaben ein auftragsbezogenes Fachgespräch geführt.
 
@@ -220,21 +216,21 @@ Teil 2 der Abschluss- oder Gesellenprüfung findet in der Fachrichtung Müllerei
 
 (1) Im Prüfungsbereich Verfahrenstechnologie und Arbeitsplanung soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Verfahren unter Berücksichtigung von zu verarbeitenden oder zu lagernden Rohstoffen sowie von Zwischen- und Enderzeugnissen zu skizzieren,
 
-2.
+2. Arbeitspläne zu erstellen,
 
-3.
+3. Einsätze von Maschinen und Anlagen unter Berücksichtigung ihres Aufbaus und ihrer Funktion für Produktionsabläufe zu beschreiben,
 
-4.
+4. fachbezogene Berechnungen durchzuführen,
 
-5.
+5. Fließschemata darzustellen und Maßnahmen zur Steuerung von Abläufen zu erläutern,
 
-6.
+6. Maßnahmen bei Störungen aufzuzeigen,
 
-7.
+7. Qualitätsmanagementsysteme zu erläutern sowie
 
-8.
+8. Maßnahmen zur Arbeitssicherheit, zum Gesundheitsschutz, zum Brandschutz, zum Umweltschutz und zur Wirtschaftlichkeit zu beschreiben.
 
 (2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
 
@@ -252,29 +248,29 @@ Teil 2 der Abschluss- oder Gesellenprüfung findet in der Fachrichtung Müllerei
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Müllerei wie folgt zu gewichten:
 
-1.
+1. Annehmen von Rohstoffenmit 25 Prozent,
 
-2.
+2. Herstellen von Enderzeugnissenmit 35 Prozent,
 
-3.
+3. Verfahrenstechnologie und Arbeitsplanungmit 30 Prozent sowie
 
-4.
+4. Wirtschafts- und Sozialkundemit 10 Prozent.
 
 (2) Die Abschluss- oder Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-1.
+1. im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
-2.
+2. im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
-3.
+3. in mindestens zwei Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
 
-4.
+4. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Verfahrenstechnologie und Arbeitsplanung“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Verfahrenstechnologie und Arbeitsplanung“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.
+1. der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
-2.
+2. die mündliche Ergänzungsprüfung für das Bestehen der Abschluss- oder Gesellenprüfung den Ausschlag geben kann.
 
 ## Unterabschnitt 4: Teil 2 der Abschluss- oder Gesellenprüfung in der Fachrichtung Agrarlager
 
@@ -282,9 +278,9 @@ Teil 2 der Abschluss- oder Gesellenprüfung findet in der Fachrichtung Müllerei
 
 (1) Teil 2 der Abschluss- oder Gesellenprüfung erstreckt sich in der Fachrichtung Agrarlager auf
 
-1.
+1. die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 (2) In Teil 2 der Abschluss- oder Gesellenprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschluss- oder Gesellenprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
@@ -292,25 +288,25 @@ Teil 2 der Abschluss- oder Gesellenprüfung findet in der Fachrichtung Müllerei
 
 Teil 2 der Abschluss- oder Gesellenprüfung findet in der Fachrichtung Agrarlager in den folgenden Prüfungsbereichen statt:
 
-1.
+1. Rohstoffe und Saatgut,
 
-2.
+2. Anwenden und Abgeben von Pflanzenschutzmitteln,
 
-3.
+3. Lagerungstechniken sowie
 
-4.
+4. Wirtschafts- und Sozialkunde.
 
 ### § 18 — Prüfungsbereich Rohstoffe und Saatgut
 
 (1) Im Prüfungsbereich Rohstoffe und Saatgut soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. die Qualität von Braugetreide, Mais, Ölsaaten oder Leguminosen zu beurteilen,
 
-2.
+2. die Qualität von Saatgut zu beurteilen,
 
-3.
+3. Saatgut aufzubereiten und zu beizen sowie
 
-4.
+4. Maßnahmen zur Arbeitssicherheit, zum Gesundheitsschutz, zum Brandschutz, zum Umweltschutz, zur Wirtschaftlichkeit und zum Qualitätsmanagement zu treffen.
 
 (2) Der Prüfling soll drei Arbeitsaufgaben durchführen. Während der Durchführung wird mit ihm über jede Arbeitsaufgabe ein situatives Fachgespräch geführt.
 
@@ -320,19 +316,19 @@ Teil 2 der Abschluss- oder Gesellenprüfung findet in der Fachrichtung Agrarlage
 
 (1) Im Prüfungsbereich Anwenden und Abgeben von Pflanzenschutzmitteln soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Rechtsvorschriften über die Anwendung, Beratung und Abgabe von Pflanzenschutzmitteln einzuhalten,
 
-2.
+2. Schadorganismen und Schadensursachen bei Pflanzen und Pflanzenerzeugnissen zu erkennen,
 
-3.
+3. Eigenschaften von Pflanzenschutzmitteln zu unterscheiden,
 
-4.
+4. Maßnahmen des integrierten Pflanzenschutzes aufzuzeigen,
 
-5.
+5. mit Pflanzenschutzmitteln bei Aufbewahrung, Lagerung und Transport bestimmungsgemäß und sachgerecht umzugehen,
 
-6.
+6. Pflanzenschutzgeräte zu verwenden, zu reinigen und zu warten sowie
 
-7.
+7. sachkundige und nicht sachkundige Erwerber und Erwerberinnen zur sachgerechten Anwendung, Lagerung und Entsorgung von Pflanzenschutzmitteln unter Berücksichtigung der Risikovermeidung und -minimierung für Mensch, Tier und Umwelt zu beraten sowie Alternativen mit geringerem Risiko aufzuzeigen.
 
 (2) Für den Nachweis der in Absatz 1 Nummer 1 bis 6 genannten Fertigkeiten, Kenntnisse und Fähigkeiten soll der Prüfling Aufgaben schriftlich bearbeiten. Für den Nachweis der in Absatz 1 Nummer 7 genannten Fertigkeiten, Kenntnisse und Fähigkeiten wird mit dem Prüfling eine Gesprächssimulation durchgeführt.
 
@@ -342,25 +338,25 @@ Teil 2 der Abschluss- oder Gesellenprüfung findet in der Fachrichtung Agrarlage
 
 (1) Im Prüfungsbereich Lagerungstechniken soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Lagerungsverfahren und Lagerstätten für Rohstoffpartien auszuwählen,
 
-2.
+2. die Vorbereitung von Lagerstätten zu beschreiben,
 
-3.
+3. Verfahren zur Gesunderhaltung von Rohstoffpartien unter Berücksichtigung wirtschaftlicher, verfahrenstechnologischer und zeitlicher Vorgaben auszuwählen,
 
-4.
+4. Berechnungen zur Belüftung, Kühlung und Trocknung von Rohstoffpartien durchzuführen,
 
-5.
+5. Einsätze von Maschinen und Anlagen unter Berücksichtigung ihres Aufbaus und ihrer Funktion für die Lagerung zu planen,
 
-6.
+6. Abläufe anhand von Fließschemata darzustellen und Maßnahmen bei Störungen aufzuzeigen,
 
-7.
+7. Maßnahmen zum Schädlingsmonitoring und zur Schädlingsbekämpfung darzustellen,
 
-8.
+8. Lagerungsverfahren und Lagerstätten für Düngemittel auszuwählen,
 
-9.
+9. Maßnahmen zur Lagerung von Düngemitteln, zum Umgang mit Düngemitteln und zur Abgabe von Düngemitteln darzustellen sowie
 
-10.
+10. Maßnahmen zur Arbeitssicherheit, zum Gesundheitsschutz, zum Brandschutz, zum Umweltschutz, zur Wirtschaftlichkeit und zum Qualitätsmanagement zu beschreiben.
 
 (2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
 
@@ -378,31 +374,31 @@ Teil 2 der Abschluss- oder Gesellenprüfung findet in der Fachrichtung Agrarlage
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Agrarlager wie folgt zu gewichten:
 
-1.
+1. Annehmen von Rohstoffenmit 25 Prozent,
 
-2.
+2. Rohstoffe und Saatgutmit 20 Prozent,
 
-3.
+3. Anwenden und Abgeben von Pflanzenschutzmittelnmit 15 Prozent,
 
-4.
+4. Lagerungstechnikenmit 30 Prozent sowie
 
-5.
+5. Wirtschafts- und Sozialkundemit 10 Prozent.
 
 (2) Die Abschluss- oder Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-1.
+1. im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
-2.
+2. im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
-3.
+3. in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
 
-4.
+4. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Lagerungstechniken“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Lagerungstechniken“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.
+1. der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
-2.
+2. die mündliche Ergänzungsprüfung für das Bestehen der Abschluss- oder Gesellenprüfung den Ausschlag geben kann.
 
 ## Abschnitt 3: Schlussvorschriften
 
@@ -411,297 +407,3 @@ Teil 2 der Abschluss- oder Gesellenprüfung findet in der Fachrichtung Agrarlage
 Diese Verordnung tritt am 1. August 2017 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Müller (Verfahrenstechnologe in der Mühlen- und Futtermittelwirtschaft)/zur Müllerin (Verfahrenstechnologin in der Mühlen- und Futtermittelwirtschaft) vom 1. Juni 2006 (BGBl. I S. 1285), die durch Artikel 25 des Gesetzes vom 25. Juli 2013 (BGBl. I S. 2722) geändert worden ist, außer Kraft.
 
 ### Anlage — (zu § 3 Absatz 1)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)

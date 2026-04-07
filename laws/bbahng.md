@@ -54,17 +54,17 @@
 
 ### § 19a — Rechtsverhältnisse von Inhabern leitender Dienstposten
 
-Die Inhaber folgender leitender Dienstposten stehen in einem öffentlich-rechtlichen Amtsverhältnis zum Bund: Sie führen eine der in Nummer 1 bis 5 genannten Amtsbezeichnungen. § 8 Abs. 1 Satz 4 und 5, Abs. 2 Satz 2, 3 und 5, Abs. 3 sowie die §§ 8a, 8b und 9a Abs. 3 gelten entsprechend.
+Die Inhaber folgender leitender Dienstposten stehen in einem öffentlich-rechtlichen Amtsverhältnis zum Bund:
 
-1.
+1. Präsident einer Bundesbahndirektion,
 
-2.
+2. Präsident der Zentralen Transportleitung der Deutschen Bundesbahn,
 
-3.
+3. Präsident eines Bundesbahn-Zentralamts,
 
-4.
+4. Präsident der Zentralen Verkaufsleitung der Deutschen Bundesbahn,
 
-5.
+5. Leiter eines Fachbereichs bei der Hauptverwaltung der Deutschen Bundesbahn.
 
 ### § 23 — Belohnungen und Vergütungen
 

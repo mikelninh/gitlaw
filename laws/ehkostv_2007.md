@@ -17,13 +17,13 @@ Auf Grund des § 22 Satz 3 des Treibhausgas-Emissionshandelsgesetzes vom 8. Juli
 
 (2) Auslagen werden erhoben
 
-1.
+1. gemäß § 10 des Verwaltungskostengesetzes und
 
-2.
+2. abweichend von § 10 Abs. 1 Nr. 5 des Verwaltungskostengesetzes für Vergütungen von Sachverständigen im Rahmen von Überprüfungen nach § 17 Satz 2 des Zuteilungsgesetzes 2007.
 
 ### § 2 — Kostenermäßigung und Kostenbefreiung
 
-Die nach § 20 Abs. 1 Satz 2 des Treibhausgas-Emissionshandelsgesetzes vom 8. Juli 2004 (BGBl. I S. 1578), das zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010 (BGBl. I S. 1163) geändert worden ist, zuständige Behörde kann bei Zuteilungen von weniger als 30 000 Berechtigungen für eine Anlage die Gebühr nach Nummer 1 des Gebührenverzeichnisses aus Gründen der Billigkeit ermäßigen oder von der Erhebung der Gebühr absehen.
+Die nach § 20 Abs. 1 Satz 2 des Treibhausgas-Emissionshandelsgesetzes vom 8. Juli 2004 (BGBl. I S. 1578), das zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010 (BGBl. I S. 1163) geändert worden ist, zuständige Behörde kann bei Zuteilungen von weniger als 30 000 Berechtigungen für eine Anlage die Gebühr nach Nummer 1 des Gebührenverzeichnisses aus Gründen der Billigkeit ermäßigen oder von der Erhebung der Gebühr absehen.
 
 ### § 3 — Widerspruch
 

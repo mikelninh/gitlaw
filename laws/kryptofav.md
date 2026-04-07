@@ -15,7 +15,13 @@ Anteile an Sondervermögen oder an einzelnen Anteilklassen eines Sondervermögen
 
 ### § 2 — Anwendbare Vorschriften
 
-Auf Kryptofondsanteile sind § 4 Absatz 11, § 8 Absatz 2, die §§ 16 bis 23 mit Ausnahme von § 17 Absatz 1 Nummer 2 und 3, sowie die §§ 30 und 31 Absatz 1 und 2 Nummer 13 bis 15 des Gesetzes über elektronische Wertpapiere entsprechend anzuwenden mit der Maßgabe, dass 1.an die Stelle des Kryptowertpapiers oder der Schuldverschreibung der Kryptofondsanteil tritt,2.an die Stelle der Emissionsbedingungen die Anlagebedingungen treten,3.an die Stelle des Berechtigten der Anleger tritt.
+Auf Kryptofondsanteile sind § 4 Absatz 11, § 8 Absatz 2, die §§ 16 bis 23 mit Ausnahme von § 17 Absatz 1 Nummer 2 und 3, sowie die §§ 30 und 31 Absatz 1 und 2 Nummer 13 bis 15 des Gesetzes über elektronische Wertpapiere entsprechend anzuwenden mit der Maßgabe, dass
+
+1. an die Stelle des Kryptowertpapiers oder der Schuldverschreibung der Kryptofondsanteil tritt,
+
+2. an die Stelle der Emissionsbedingungen die Anlagebedingungen treten,
+
+3. an die Stelle des Berechtigten der Anleger tritt.
 
 ### § 3 — Registerführende Stelle
 

@@ -11,7 +11,11 @@ Auf Grund des § 2 Absatz 4 Satz 6 des Konsumcannabisgesetzes vom 27. März 2024
 
 ### § 1 — Zuständige Behörde
 
-Die Bundesanstalt für Landwirtschaft und Ernährung ist zuständig für 1.die Erteilung der Erlaubnis nach § 2 Absatz 4 Satz 1 des Konsumcannabisgesetzes und2.die Überwachung und die Durchführung der in § 2 Absatz 4 Satz 3 bis 5 des Konsumcannabisgesetzes genannten Regelungen.
+Die Bundesanstalt für Landwirtschaft und Ernährung ist zuständig für
+
+1. die Erteilung der Erlaubnis nach § 2 Absatz 4 Satz 1 des Konsumcannabisgesetzes und
+
+2. die Überwachung und die Durchführung der in § 2 Absatz 4 Satz 3 bis 5 des Konsumcannabisgesetzes genannten Regelungen.
 
 ### § 2 — Inkrafttreten
 

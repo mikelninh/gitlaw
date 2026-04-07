@@ -23,9 +23,9 @@ Auf Grund des § 15 Absatz 2 des Entsorgungsfondsgesetzes vom 27. Januar 2017 (B
 
 (2) Bei Vornahme der Zahlung sind im Verwendungszweck anzugeben:
 
-1.
+1. Einzahlender einschließlich der Angabe der Anlage zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität nach Anhang 2 des Entsorgungsfondsgesetzes, für die die Zahlung geleistet wird,
 
-2.
+2. Zahlungszweck einschließlich der Angabe der rechtlichen Grundlage der Zahlung nach dem Entsorgungsfondsgesetz (Tilgungsbestimmung).
 
 ### § 3 — Leistungszeitpunkt
 
@@ -37,11 +37,11 @@ Auf Grund des § 15 Absatz 2 des Entsorgungsfondsgesetzes vom 27. Januar 2017 (B
 
 Für Zahlungen nach § 8 Absatz 1 und 2 des Entsorgungsfondsgesetzes schickt das Bundesamt für Wirtschaft und Ausfuhrkontrolle dem Einzahlenden eine schriftliche Zahlungsaufforderung zu. In der Zahlungsaufforderung sind anzugeben:
 
-1.
+1. wesentliche Gründe für die Zahlungsaufforderung,
 
-2.
+2. Höhe des zu zahlenden Betrags,
 
-3.
+3. Frist für die Leistung der Zahlung.
 
 ### § 5 — Bestätigung von Zahlungseingängen
 
@@ -49,27 +49,27 @@ Für Zahlungen nach § 8 Absatz 1 und 2 des Entsorgungsfondsgesetzes schickt das
 
 (2) In der Zahlungsbestätigung sind anzugeben:
 
-1.
+1. die Höhe der eingegangenen Zahlung,
 
-2.
+2. das Datum des Zahlungseingangs,
 
-3.
+3. Angabe, ob die von dem Einzahlenden angegebene Tilgungsbestimmung bestätigt wird,
 
-4.
+4. Angabe, ob durch die Einzahlung die von der Tilgungsbestimmung erfasste Zahlungsverpflichtung nach dem Entsorgungsfondsgesetz erfüllt ist.
 
 (3) Der Fonds informiert das Bundesministerium für Wirtschaft und Energie unverzüglich über den Eingang von Zahlungen durch den Einzahlenden. In der Information sind anzugeben:
 
-1.
+1. die Angaben nach Absatz 2,
 
-2.
+2. die Höhe der seitens des Einzahlenden noch nicht erfüllten Zahlungsverpflichtungen nach dem Entsorgungsfondsgesetz.
 
 (4) Hat ein Einzahlender eine Zahlung nach dem Entsorgungsfondsgesetz nicht zu dem gesetzlichen oder zu dem in einer Ratenzahlungsvereinbarung vereinbarten Zahlungszeitpunkt vorgenommen, teilt der Fonds dem Bundesministerium für Wirtschaft und Energie unverzüglich nach Verstreichen des Zahlungszeitpunktes Folgendes mit:
 
-1.
+1. die Höhe der nicht eingegangenen Zahlung,
 
-2.
+2. das Datum der verstrichenen Zahlungsfrist und
 
-3.
+3. die Höhe der seitens des Einzahlenden insgesamt noch nicht erfüllten Zahlungsverpflichtungen nach dem Entsorgungsfondsgesetz.
 
 ## Abschnitt 2: Höhe der verzinsten Einzahlungsbeträge
 

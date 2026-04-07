@@ -50,19 +50,15 @@ Bemessungsgrundlage für den Fördergrundbetrag nach § 9 Abs. 2 sind die Herste
 
 (3) Der Fördergrundbetrag nach Absatz 2 erhöht sich jährlich um 2 vom Hundert der Bemessungsgrundlage nach Satz 3, höchstens um 256 Euro. Dies gilt nicht bei Ausbauten und Erweiterungen nach § 2 Abs. 2. Bemessungsgrundlage sind
 
-1.
+1. die Aufwendungen für den Einbau einer verbrennungsmotorisch oder thermisch angetriebenen Wärmepumpenanlage mit einer Leistungszahl von mindestens 1,3, einer Elektro-Wärmepumpenanlage mit einer Leistungszahl von mindestens 4,0, einer elektrischen Sole-Wasser-Wärmepumpenanlage mit einer Leistungszahl von mindestens 3,8, einer Solaranlage oder einer Anlage zur Wärmerückgewinnung einschließlich der Anbindung an das Heizsystem, wenn der Anspruchsberechtigtea)eine Wohnung, für deren Errichtung die Wärmeschutzverordnung vom 16. August 1994 (BGBl. I S. 2121) gilt, hergestellt oder bis zum Ende des Jahres der Fertigstellung angeschafft, oder b)eine Wohnung nach Ablauf des Jahres der Fertigstellung angeschafft eine Wohnung, für deren Errichtung die Wärmeschutzverordnung vom 16. August 1994 (BGBl. I S. 2121) gilt, hergestellt oder bis zum Ende des Jahres der Fertigstellung angeschafft, oder eine Wohnung nach Ablauf des Jahres der Fertigstellung angeschafft und die Maßnahme vor Beginn der Nutzung der Wohnung zu eigenen Wohnzwecken und vor dem 1. Januar 2003 abgeschlossen hat, oder
 
-a)
+2. die Anschaffungskosten einer Wohnung, für deren Errichtung die Wärmeschutzverordnung vom 16. August 1994 (BGBl. I S. 2121) gilt, und die der Anspruchsberechtigte bis zum Ende des zweiten auf das Jahr der Fertigstellung folgenden Jahres und vor dem 1. Januar 2003 angeschafft hat, soweit sie auf die in Nummer 1 genannten Maßnahmen entfallen.
 
-b)
+(4) Der Fördergrundbetrag nach Absatz 2 erhöht sich um jährlich 205 Euro, wenn
 
-2.
+1. die Wohnung in einem Gebäude belegen ist, für dessen Errichtung die Wärmeschutzverordnung vom 16. August 1994 (BGBl. I S. 2121) gilt und dessen Jahres-Heizwärmebedarf den danach geforderten Wert um mindestens 25 vom Hundert unterschreitet, und
 
-(4) Der Fördergrundbetrag nach Absatz 2 erhöht sich um jährlich 205 Euro, wenn Dies gilt nicht bei Ausbauten und Erweiterungen nach § 2 Abs. 2. Der Anspruchsberechtigte kann den Betrag nach Satz 1 nur in Anspruch nehmen, wenn er durch einen Wärmebedarfsausweis im Sinne des § 12 der Wärmeschutzverordnung nachweist, daß die Voraussetzungen des Satzes 1 Nr. 1 vorliegen.
-
-1.
-
-2.
+2. der Anspruchsberechtigte die Wohnung vor dem 1. Januar 2003 fertig gestellt oder vor diesem Zeitpunkt bis zum Ende des Jahres der Fertigstellung angeschafft hat.
 
 (5) Die Kinderzulage beträgt jährlich für jedes Kind, für das der Anspruchsberechtigte oder sein Ehegatte im jeweiligen Kalenderjahr des Förderzeitraums einen Freibetrag für Kinder nach § 32 Abs. 6 des Einkommensteuergesetzes oder Kindergeld erhält, 800 Euro. Voraussetzung ist, daß das Kind im Förderzeitraum zum inländischen Haushalt des Anspruchsberechtigten gehört oder gehört hat. Sind mehrere Anspruchsberechtigte Eigentümer einer Wohnung, und haben sie zugleich für ein Kind Anspruch auf die Kinderzulage, ist bei jedem die Kinderzulage zur Hälfte anzusetzen. Der Anspruchsberechtigte kann die Kinderzulage im Kalenderjahr nur für eine Wohnung in Anspruch nehmen. Der Kinderzulage steht die Steuerermäßigung nach § 34f des Einkommensteuergesetzes gleich. Absatz 2 Satz 3 ist entsprechend anzuwenden.
 
@@ -124,11 +120,11 @@ Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetze
 
 (1) Dieses Gesetz ist erstmals anzuwenden, wenn der Anspruchsberechtigte im Fall der Herstellung nach dem 31. Dezember 1995 mit der Herstellung des Objekts begonnen oder im Fall der Anschaffung die Wohnung oder die Genossenschaftsanteile nach dem 31. Dezember 1995 auf Grund eines nach diesem Zeitpunkt rechtswirksam abgeschlossenen obligatorischen Vertrags oder gleichstehenden Rechtsakts angeschafft hat.
 
-(2) Das Gesetz kann auf Antrag des Anspruchsberechtigten auch angewandt werden, wenn der Anspruchsberechtigte Stellt der Anspruchsberechtigte den Antrag nach Satz 1, finden die §§ 10e, 10h und 34f des Einkommensteuergesetzes keine Anwendung. Der Antrag ist unwiderruflich. Er ist ausgeschlossen, wenn der Anspruchsberechtigte für das Objekt in einem Jahr Abzugsbeträge nach § 10e Abs. 1 bis 5 oder § 10h des Einkommensteuergesetzes, die Steuerermäßigung nach § 34f des Einkommensteuergesetzes in Anspruch genommen oder für Veranlagungszeiträume nach dem Veranlagungszeitraum 1994 Aufwendungen nach § 10e Abs. 6 oder § 10h Satz 3 des Einkommensteuergesetzes abgezogen hat.
+(2) Das Gesetz kann auf Antrag des Anspruchsberechtigten auch angewandt werden, wenn der Anspruchsberechtigte
 
-1.
+1. die Wohnung als Mieter auf Grund einer Veräußerungspflicht des Wohnungsunternehmens nach § 5 des Altschuldenhilfe-Gesetzes anschafft und der Zeitpunkt des zugrundeliegenden rechtswirksam abgeschlossenen obligatorischen Vertrags oder gleichstehenden Rechtsakts nach dem 28. Juni 1995 liegt oder
 
-2.
+2. im Fall der Herstellung nach dem 26. Oktober 1995 mit der Herstellung des Objekts begonnen oder im Fall der Anschaffung die Wohnung nach dem 26. Oktober 1995 auf Grund eines nach diesem Zeitpunkt rechtswirksam abgeschlossenen obligatorischen Vertrags oder gleichstehenden Rechtsakts angeschafft hat.
 
 (3) § 5 Satz 1 bis 3 in der Fassung des Gesetzes vom 22. Dezember 1999 (BGBl. I S. 2671) ist erstmals anzuwenden, wenn der Anspruchsberechtigte im Fall der Herstellung nach dem 31. Dezember 1999 mit der Herstellung des Objekts begonnen oder im Fall der Anschaffung die Wohnung oder die Genossenschaftsanteile nach dem 31. Dezember 1999 auf Grund eines nach diesem Zeitpunkt rechtswirksam abgeschlossenen obligatorischen Vertrags oder gleichstehenden Rechtsakts angeschafft hat.
 

@@ -12,19 +12,35 @@ Auf Grund des § 191a Abs. 2 des Gerichtsverfassungsgesetzes in der Fassung der 
 
 ### § 1 — Anwendungsbereich
 
-(1) Diese Verordnung regelt die Anforderungen und das Verfahren für die Zugänglichmachung von Dokumenten im gerichtlichen Verfahren an eine blinde oder sehbehinderte Person (berechtigte Person) in einer für sie wahrnehmbaren Form.(2) Die Verordnung gilt für das staatsanwaltschaftliche Ermittlungs- und Vollstreckungsverfahren sowie für das behördliche Bußgeldverfahren entsprechend, wenn blinde oder sehbehinderte Personen beteiligt sind.(3) Der Anspruch auf Zugänglichmachung besteht nach Maßgabe dieser Verordnung im gerichtlichen Verfahren gegenüber dem Gericht, im staatsanwaltschaftlichen Ermittlungsverfahren gegenüber der Staatsanwaltschaft, im behördlichen Bußgeldverfahren gegenüber der Verfolgungsbehörde und in den mit diesen Verfahren in Zusammenhang stehenden Vollstreckungsverfahren gegenüber der jeweils zuständigen Vollstreckungsbehörde.
+(1) Diese Verordnung regelt die Anforderungen und das Verfahren für die Zugänglichmachung von Dokumenten im gerichtlichen Verfahren an eine blinde oder sehbehinderte Person (berechtigte Person) in einer für sie wahrnehmbaren Form.
+
+(2) Die Verordnung gilt für das staatsanwaltschaftliche Ermittlungs- und Vollstreckungsverfahren sowie für das behördliche Bußgeldverfahren entsprechend, wenn blinde oder sehbehinderte Personen beteiligt sind.
+
+(3) Der Anspruch auf Zugänglichmachung besteht nach Maßgabe dieser Verordnung im gerichtlichen Verfahren gegenüber dem Gericht, im staatsanwaltschaftlichen Ermittlungsverfahren gegenüber der Staatsanwaltschaft, im behördlichen Bußgeldverfahren gegenüber der Verfolgungsbehörde und in den mit diesen Verfahren in Zusammenhang stehenden Vollstreckungsverfahren gegenüber der jeweils zuständigen Vollstreckungsbehörde.
 
 ### § 2 — Gegenstand der Zugänglichmachung
 
-(1) Der Anspruch auf Zugänglichmachung nach § 191a Absatz 1 Satz 2 und Abs. 2 des Gerichtsverfassungsgesetzes, auch in Verbindung mit § 46 Abs. 1 des Gesetzes über Ordnungswidrigkeiten, umfasst Dokumente, die einer berechtigten Person zuzustellen oder formlos bekannt zu geben sind. Diesen Dokumenten als Anlagen beigefügte Zeichnungen und andere Darstellungen, die nicht in Schriftzeichen wiedergegeben werden können, sowie von einer Behörde vorgelegte Akten werden von der Verordnung nicht erfasst.(2) Die Vorschriften über die Zustellung oder formlose Mitteilung von Dokumenten bleiben unberührt.(3) Weitergehende Ansprüche auf Zugänglichmachung, die sich für berechtigte Personen aus anderen Rechtsvorschriften ergeben, bleiben unberührt.
+(1) Der Anspruch auf Zugänglichmachung nach § 191a Absatz 1 Satz 2 und Abs. 2 des Gerichtsverfassungsgesetzes, auch in Verbindung mit § 46 Abs. 1 des Gesetzes über Ordnungswidrigkeiten, umfasst Dokumente, die einer berechtigten Person zuzustellen oder formlos bekannt zu geben sind. Diesen Dokumenten als Anlagen beigefügte Zeichnungen und andere Darstellungen, die nicht in Schriftzeichen wiedergegeben werden können, sowie von einer Behörde vorgelegte Akten werden von der Verordnung nicht erfasst.
+
+(2) Die Vorschriften über die Zustellung oder formlose Mitteilung von Dokumenten bleiben unberührt.
+
+(3) Weitergehende Ansprüche auf Zugänglichmachung, die sich für berechtigte Personen aus anderen Rechtsvorschriften ergeben, bleiben unberührt.
 
 ### § 3 — Formen der Zugänglichmachung
 
-(1) Die Dokumente können der berechtigten Person schriftlich, elektronisch, akustisch, mündlich, fernmündlich oder in anderer geeigneter Weise zugänglich gemacht werden.(2) Die schriftliche Zugänglichmachung erfolgt in Blindenschrift oder in Großdruck. Bei Großdruck sind ein Schriftbild, eine Kontrastierung und eine Papierqualität zu wählen, die die individuelle Wahrnehmungsfähigkeit der berechtigten Person ausreichend berücksichtigen.(3) Die elektronische Zugänglichmachung erfolgt durch Übermittlung eines elektronischen Dokuments. Dabei sind die Standards von § 3 der Barrierefreie-Informationstechnik-Verordnung vom 12. September 2011 (BGBl. I S. 1843) in der jeweils geltenden Fassung maßgebend. Das Dokument ist gegen unbefugte Kenntnisnahme zu schützen.
+(1) Die Dokumente können der berechtigten Person schriftlich, elektronisch, akustisch, mündlich, fernmündlich oder in anderer geeigneter Weise zugänglich gemacht werden.
+
+(2) Die schriftliche Zugänglichmachung erfolgt in Blindenschrift oder in Großdruck. Bei Großdruck sind ein Schriftbild, eine Kontrastierung und eine Papierqualität zu wählen, die die individuelle Wahrnehmungsfähigkeit der berechtigten Person ausreichend berücksichtigen.
+
+(3) Die elektronische Zugänglichmachung erfolgt durch Übermittlung eines elektronischen Dokuments. Dabei sind die Standards von § 3 der Barrierefreie-Informationstechnik-Verordnung vom 12. September 2011 (BGBl. I S. 1843) in der jeweils geltenden Fassung maßgebend. Das Dokument ist gegen unbefugte Kenntnisnahme zu schützen.
 
 ### § 4 — Umfang des Anspruchs
 
-(1) Der Anspruch auf Zugänglichmachung besteht, soweit der berechtigten Person dadurch der Zugang zu den ihr zugestellten oder formlos mitgeteilten Dokumenten erleichtert und sie in die Lage versetzt wird, eigene Rechte im Verfahren wahrzunehmen.(2) Die Zugänglichmachung erfolgt auf Verlangen der berechtigten Person. Die nach § 1 Abs. 3 verpflichtete Stelle hat die berechtigte Person auf ihren Anspruch hinzuweisen.(3) Das Verlangen auf Zugänglichmachung kann in jedem Abschnitt des Verfahrens geltend gemacht werden. Es ist aktenkundig zu machen und im weiteren Verfahren von Amts wegen zu berücksichtigen.
+(1) Der Anspruch auf Zugänglichmachung besteht, soweit der berechtigten Person dadurch der Zugang zu den ihr zugestellten oder formlos mitgeteilten Dokumenten erleichtert und sie in die Lage versetzt wird, eigene Rechte im Verfahren wahrzunehmen.
+
+(2) Die Zugänglichmachung erfolgt auf Verlangen der berechtigten Person. Die nach § 1 Abs. 3 verpflichtete Stelle hat die berechtigte Person auf ihren Anspruch hinzuweisen.
+
+(3) Das Verlangen auf Zugänglichmachung kann in jedem Abschnitt des Verfahrens geltend gemacht werden. Es ist aktenkundig zu machen und im weiteren Verfahren von Amts wegen zu berücksichtigen.
 
 ### § 5 — Mitwirkung der berechtigten Person
 

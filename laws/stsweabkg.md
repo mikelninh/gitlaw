@@ -22,4 +22,6 @@ Soweit das Abkommen auf Grund seines Artikels 46 Abs. 3 für die Zeit vor seinem
 
 ### Art 3
 
-(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.(2) Der Tag, an dem das Abkommen nach seinem Artikel 46 Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
+(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
+
+(2) Der Tag, an dem das Abkommen nach seinem Artikel 46 Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.

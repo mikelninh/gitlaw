@@ -14,31 +14,31 @@ Auf Grund des § 13 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für 
 
 (1) Außer den in § 11a des Zweiten Buches Sozialgesetzbuch genannten Einnahmen sind nicht als Einkommen zu berücksichtigen:
 
-1.
+1. Einnahmen, wenn sie innerhalb eines Kalendermonats 10 Euro nicht übersteigen,
 
-2.
+2. (weggefallen)
 
-3.
+3. Einnahmen aus Kapitalvermögen, soweit sie 100 Euro kalenderjährlich nicht übersteigen,
 
-4.
+4. nicht steuerpflichtige Einnahmen einer Pflegeperson für Leistungen der Grundpflege und der hauswirtschaftlichen Versorgung,
 
-5.
+5. bei Soldaten der Auslandsverwendungszuschlag,
 
-6.
+6. die aus Mitteln des Bundes gezahlte Überbrückungsbeihilfe nach Artikel IX Abs. 4 des Abkommens zwischen den Parteien des Nordatlantikvertrages über die Rechtsstellung ihrer Truppen (NATO-Truppenstatut) vom 19. Juni 1951 (BGBl. 1961 II S. 1190) an ehemalige Arbeitnehmer bei den Stationierungsstreitkräften und nach Artikel 5 des Gesetzes zu den Notenwechseln vom 25. September 1990 und 23. September 1991 über die Rechtsstellung der in Deutschland stationierten verbündeten Streitkräfte und zu den Übereinkommen vom 25. September 1990 zur Regelung bestimmter Fragen in Bezug auf Berlin vom 3. Januar 1994 (BGBl. 1994 II S. 26) an ehemalige Arbeitnehmer bei den alliierten Streitkräften in Berlin,
 
-7.
+7. nach § 3 Nummer 11c des Einkommensteuergesetzes steuerfrei gewährte Leistungen zur Abmilderung der gestiegenen Verbrauchspreise,
 
-8.
+8. Kindergeld für Kinder des Hilfebedürftigen, soweit es nachweislich an das nicht im Haushalt des Hilfebedürftigen lebende Kind weitergeleitet wird,
 
-9.
+9. bei Beziehenden von Bürgergeld nach § 19 Absatz 1 Satz 2 des Zweiten Buches Sozialgesetzbuch, die das 15. Lebensjahr noch nicht vollendet haben, Einnahmen aus Erwerbstätigkeit, soweit sie einen Betrag von 100 Euro monatlich nicht übersteigen,
 
-10.
+10. eine Witwen- oder Witwerrente nach § 67 Nummer 5 und 6 des Sechsten Buches Sozialgesetzbuch, soweit diese Rente bis zum Ende des dritten Kalendermonats nach Ablauf des Monats, in dem der Ehegatte verstorben ist, die anschließende Witwen- oder Witwerrente überschreitet,
 
-11.
+11. Verpflegung, die außerhalb der in den §§ 2, 3 und 4 Nummer 4 genannten Einkommensarten bereitgestellt wird,
 
-12.
+12. Geldgeschenke an Minderjährige anlässlich der Firmung, Kommunion, Konfirmation oder vergleichbarer religiöser Feste sowie anlässlich der Jugendweihe, soweit sie den Betrag von 3 100 Euro nicht überschreiten,
 
-13.
+13. Hilfen zur Beschaffung von Hygiene- oder Gesundheitsartikeln, die auf Grund einer epidemischen Lage von nationaler Tragweite, die vom Deutschen Bundestag gemäß § 5 Absatz 1 Satz 1 des Infektionsschutzgesetzes festgestellt worden ist, aus Mitteln des Bundes oder der Länder gezahlt werden.
 
 (2) Bei der § 9 Abs. 5 des Zweiten Buches Sozialgesetzbuch zugrunde liegenden Vermutung, dass Verwandte und Verschwägerte an mit ihnen in Haushaltsgemeinschaft lebende Hilfebedürftige Leistungen erbringen, sind die um die Absetzbeträge nach § 11b des Zweiten Buches Sozialgesetzbuch bereinigten Einnahmen in der Regel nicht als Einkommen zu berücksichtigen, soweit sie einen Freibetrag in Höhe des doppelten Betrags des nach § 20 Absatz 2 Satz 1 maßgebenden Regelbedarfs zuzüglich der anteiligen Aufwendungen für Unterkunft und Heizung sowie darüber hinausgehend 50 Prozent der diesen Freibetrag übersteigenden bereinigten Einnahmen nicht überschreiten. § 11a des Zweiten Buches Sozialgesetzbuch gilt entsprechend.
 
@@ -60,9 +60,9 @@ Auf Grund des § 13 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für 
 
 (7) Das Einkommen kann nach Anhörung geschätzt werden, wenn
 
-1.
+1. Leistungen der Grundsicherung für Arbeitsuchende einmalig oder für kurze Zeit zu erbringen sind oder Einkommen nur für kurze Zeit zu berücksichtigen ist oder
 
-2.
+2. die Entscheidung über die Erbringung von Leistungen der Grundsicherung für Arbeitsuchende im Einzelfall keinen Aufschub duldet.
 
 ### § 3 — Berechnung des Einkommens aus selbständiger Arbeit, Gewerbebetrieb oder Land- und Forstwirtschaft
 
@@ -86,13 +86,13 @@ Auf Grund des § 13 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für 
 
 Für die Berechnung des Einkommens aus Einnahmen, die nicht unter die §§ 2 und 3 fallen, ist § 2 entsprechend anzuwenden. Hierzu gehören insbesondere Einnahmen aus
 
-1.
+1. Sozialleistungen,
 
-2.
+2. Vermietung und Verpachtung,
 
-3.
+3. Kapitalvermögen sowie
 
-4.
+4. Wehr-, Ersatz- und Freiwilligendienstverhältnissen.
 
 ### § 5 — Begrenzung abzugsfähiger Ausgaben
 
@@ -102,23 +102,23 @@ Ausgaben sind höchstens bis zur Höhe der Einnahmen aus derselben Einkunftsart 
 
 Bei der Prüfung der Hilfebedürftigkeit ist zugrunde zu legen
 
-1.
+1. für die Schulausflüge (§ 28 Absatz 2 Satz 1 Nummer 1 des Zweiten Buches Sozialgesetzbuch) ein Betrag von drei Euro monatlich,
 
-2.
+2. für die mehrtägigen Klassenfahrten (§ 28 Absatz 2 Satz 1 Nummer 2 des Zweiten Buches Sozialgesetzbuch) monatlich der Betrag, der sich bei der Teilung der Aufwendungen, die für die mehrtägige Klassenfahrt entstehen, auf einen Zeitraum von sechs Monaten ab Beginn des auf den Antrag folgenden Monats ergibt.
 
 ### § 6 — Pauschbeträge für vom Einkommen abzusetzende Beträge
 
 (1) Als Pauschbeträge sind abzusetzen
 
-1.
+1. von dem Einkommen volljähriger Leistungsberechtigter ein Betrag in Höhe von 30 Euro monatlich für die Beiträge zu privaten Versicherungen nach § 11b Absatz 1 Satz 1 Nr. 3 des Zweiten Buches Sozialgesetzbuch, die nach Grund und Höhe angemessen sind,
 
-2.
+2. von dem Einkommen Minderjähriger ein Betrag in Höhe von 30 Euro monatlich für die Beiträge zu privaten Versicherungen nach § 11b Absatz 1 Satz 1 Nummer 3 des Zweiten Buches Sozialgesetzbuch, die nach Grund und Höhe angemessen sind, wenn der oder die Minderjährige eine entsprechende Versicherung abgeschlossen hat,
 
-3.
+3. von dem Einkommen Leistungsberechtigter monatlich ein Betrag in Höhe eines Zwölftels der zum Zeitpunkt der Entscheidung über den Leistungsanspruch nachgewiesenen Jahresbeiträge zu den gesetzlich vorgeschriebenen Versicherungen nach § 11b Absatz 1 Satz 1 Nummer 3 des Zweiten Buches Sozialgesetzbuch,
 
-4.
+4. von dem Einkommen Leistungsberechtigter ein Betrag in Höhe von 3 Prozent des Einkommens, mindestens 5 Euro, für die zu einem geförderten Altersvorsorgevertrag entrichteten Beiträge nach § 11b Absatz 1 Satz 1 Nummer 4 des Zweiten Buches Sozialgesetzbuch; der Prozentwert mindert sich um 1,5 Prozentpunkte je zulageberechtigtes Kind im Haushalt der oder des Leistungsberechtigten,
 
-5.
+5. von dem Einkommen Erwerbstätiger für die Beträge nach § 11b Absatz 1 Satz 1 Nummer 5 des Zweiten Buches Sozialgesetzbuch bei Benutzung eines Kraftfahrzeuges für die Fahrt zwischen Wohnung und Arbeitsstätte für Wegstrecken zur Ausübung der Erwerbstätigkeit 0,20 Euro für jeden Entfernungskilometer der kürzesten Straßenverbindung, soweit der oder die erwerbsfähige Leistungsberechtigte nicht höhere notwendige Ausgaben nachweist.
 
 (2) Sofern die Berücksichtigung des Pauschbetrags nach Absatz 1 Nummer 5 im Vergleich zu den bei Benutzung eines zumutbaren öffentlichen Verkehrsmittels anfallenden Fahrtkosten unangemessen hoch ist, sind nur diese als Pauschbetrag abzusetzen.
 

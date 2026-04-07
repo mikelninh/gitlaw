@@ -26,5 +26,3 @@ In Anwendung des Artikels 40 der Verfassung der Deutschen Demokratischen Republi
 ### (XXXX) §§ 3 bis 13 — (weggefallen)
 
 ### Schlußformel
-
-Der Minister für Volksbildung

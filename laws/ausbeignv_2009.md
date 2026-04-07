@@ -17,75 +17,75 @@ Ausbilder und Ausbilderinnen haben für die Ausbildung in anerkannten Ausbildung
 
 Die berufs- und arbeitspädagogische Eignung umfasst die Kompetenz zum selbstständigen Planen, Durchführen und Kontrollieren der Berufsausbildung in den Handlungsfeldern:
 
-1.
+1. Ausbildungsvoraussetzungen prüfen und Ausbildung planen,
 
-2.
+2. Ausbildung vorbereiten und bei der Einstellung von Auszubildenden mitwirken,
 
-3.
+3. Ausbildung durchführen und
 
-4.
+4. Ausbildung abschließen.
 
 ### § 3 — Handlungsfelder
 
 (1) Das Handlungsfeld nach § 2 Nummer 1 umfasst die berufs- und arbeitspädagogische Eignung, Ausbildungsvoraussetzungen zu prüfen und Ausbildung zu planen. Die Ausbilder und Ausbilderinnen sind dabei in der Lage,
 
-1.
+1. die Vorteile und den Nutzen betrieblicher Ausbildung darstellen und begründen zu können,
 
-2.
+2. bei den Planungen und Entscheidungen hinsichtlich des betrieblichen Ausbildungsbedarfs auf der Grundlage der rechtlichen, tarifvertraglichen und betrieblichen Rahmenbedingungen mitzuwirken,
 
-3.
+3. die Strukturen des Berufsbildungssystems und seine Schnittstellen darzustellen,
 
-4.
+4. Ausbildungsberufe für den Betrieb auszuwählen und dies zu begründen,
 
-5.
+5. die Eignung des Betriebes für die Ausbildung in dem angestrebten Ausbildungsberuf zu prüfen sowie, ob und inwieweit Ausbildungsinhalte durch Maßnahmen außerhalb der Ausbildungsstätte, insbesondere Ausbildung im Verbund, überbetriebliche und außerbetriebliche Ausbildung, vermittelt werden können,
 
-6.
+6. die Möglichkeiten des Einsatzes von auf die Berufsausbildung vorbereitenden Maßnahmen einzuschätzen sowie
 
-7.
+7. im Betrieb die Aufgaben der an der Ausbildung Mitwirkenden unter Berücksichtigung ihrer Funktionen und Qualifikationen abzustimmen.
 
 (2) Das Handlungsfeld nach § 2 Nummer 2 umfasst die berufs- und arbeitspädagogische Eignung, die Ausbildung unter Berücksichtigung organisatorischer sowie rechtlicher Aspekte vorzubereiten. Die Ausbilder und Ausbilderinnen sind dabei in der Lage,
 
-1.
+1. auf der Grundlage einer Ausbildungsordnung einen betrieblichen Ausbildungsplan zu erstellen, der sich insbesondere an berufstypischen Arbeits- und Geschäftsprozessen orientiert,
 
-2.
+2. die Möglichkeiten der Mitwirkung und Mitbestimmung der betrieblichen Interessenvertretungen in der Berufsbildung zu berücksichtigen,
 
-3.
+3. den Kooperationsbedarf zu ermitteln und sich inhaltlich sowie organisatorisch mit den Kooperationspartnern, insbesondere der Berufsschule, abzustimmen,
 
-4.
+4. Kriterien und Verfahren zur Auswahl von Auszubildenden auch unter Berücksichtigung ihrer Verschiedenartigkeit anzuwenden,
 
-5.
+5. den Berufsausbildungsvertrag vorzubereiten und die Eintragung des Vertrages bei der zuständigen Stelle zu veranlassen sowie
 
-6.
+6. die Möglichkeiten zu prüfen, ob Teile der Berufsausbildung im Ausland durchgeführt werden können.
 
-(3) Das Handlungsfeld nach § 2 Nummer 3 umfasst die berufs- und arbeitspädagogische Eignung, selbstständiges Lernen in berufstypischen Arbeits- und Geschäftsprozessen handlungsorientiert zu fördern. Die Ausbilder und Ausbilderinnen sind dabei in der Lage,
+(3) Das Handlungsfeld nach § 2 Nummer 3 umfasst die berufs- und arbeitspädagogische Eignung, selbstständiges Lernen in berufstypischen
 
-1.
+1. lernförderliche Bedingungen und eine motivierende Lernkultur zu schaffen, Rückmeldungen zu geben und zu empfangen,
 
-2.
+2. die Probezeit zu organisieren, zu gestalten und zu bewerten,
 
-3.
+3. aus dem betrieblichen Ausbildungsplan und den berufstypischen Arbeits- und Geschäftsprozessen betriebliche Lern- und Arbeitsaufgaben zu entwickeln und zu gestalten,
 
-4.
+4. Ausbildungsmethoden und -medien zielgruppengerecht auszuwählen und situationsspezifisch einzusetzen,
 
-5.
+5. Auszubildende bei Lernschwierigkeiten durch individuelle Gestaltung der Ausbildung und Lernberatung zu unterstützen, bei Bedarf ausbildungsunterstützende Hilfen einzusetzen und die Möglichkeit zur Verlängerung der Ausbildungszeit zu prüfen,
 
-6.
+6. Auszubildenden zusätzliche Ausbildungsangebote, insbesondere in Form von Zusatzqualifikationen, zu machen und die Möglichkeit der Verkürzung der Ausbildungsdauer und die der vorzeitigen Zulassung zur Abschlussprüfung zu prüfen,
 
-7.
+7. die soziale und persönliche Entwicklung von Auszubildenden zu fördern, Probleme und Konflikte rechtzeitig zu erkennen sowie auf eine Lösung hinzuwirken,
 
-8.
+8. Leistungen festzustellen und zu bewerten, Leistungsbeurteilungen Dritter und Prüfungsergebnisse auszuwerten, Beurteilungsgespräche zu führen, Rückschlüsse für den weiteren Ausbildungsverlauf zu ziehen sowie
 
-9.
+9. interkulturelle Kompetenzen zu fördern.
 
 (4) Das Handlungsfeld nach § 2 Nummer 4 umfasst die berufs- und arbeitspädagogische Eignung, die Ausbildung zu einem erfolgreichen Abschluss zu führen und dem Auszubildenden Perspektiven für seine berufliche Weiterentwicklung aufzuzeigen. Die Ausbilder und Ausbilderinnen sind dabei in der Lage,
 
-1.
+1. Auszubildende auf die Abschluss- oder Gesellenprüfung unter Berücksichtigung der Prüfungstermine vorzubereiten und die Ausbildung zu einem erfolgreichen Abschluss zu führen,
 
-2.
+2. für die Anmeldung der Auszubildenden zu Prüfungen bei der zuständigen Stelle zu sorgen und diese auf durchführungsrelevante Besonderheiten hinzuweisen,
 
-3.
+3. an der Erstellung eines schriftlichen Zeugnisses auf der Grundlage von Leistungsbeurteilungen mitzuwirken sowie
 
-4.
+4. Auszubildende über betriebliche Entwicklungswege und berufliche Weiterbildungsmöglichkeiten zu informieren und zu beraten.
 
 > § 3 Abs. 3 Satz 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurden die Wörter "Arbeits- und Geschäftprozessen" durch die Wörter "Arbeits- und Geschäftsprozessen" ersetzt
 
@@ -129,24 +129,12 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
 
 ### Anlage 1 — (zu § 5)
 
-( Fundstelle: BGBl. I 2009, 91 )
-
 (Siegel der zuständigen Stelle)
 
 ### Anlage 2 — (zu § 5)
 
-( Fundstelle: BGBl. I 2009, 92 )
-
-Zeugnis
-
 nach der Ausbilder-Eignungsverordnung vom 21. Januar 2009 (BGBl. I S. 88)
 
-mit folgenden Ergebnissen bestanden:
-
 Damit wurden die berufs- und arbeitspädagogischen Fertigkeiten, Kenntnisse und Fähigkeiten im Sinne des § 30 des Berufsbildungsgesetzes nachgewiesen.
-
-Ort/Datum
-
-Unterschrift(en)
 
 (Siegel der zuständigen Stelle)

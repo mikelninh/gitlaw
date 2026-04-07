@@ -18,8 +18,6 @@ Der Bundestag hat mit Zustimmung des Bundesrates folgendes Gesetz beschlossen:
 
 ### § 2 — Begrenzung und Verbot von Zusätzen mit Metallverbindungen
 
-(1) Ottokraftstoffe, deren Gehalt an Bleiverbindungen, berechnet als Blei, mehr als 0,15 Gramm im Liter (gemessen bei + 15 Grad C) beträgt, dürfen gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen nicht hergestellt, eingeführt oder sonst in den Geltungsbereich dieses Gesetzes verbracht werden. Ottokraftstoffe, deren Motoroktanzahl den Wert 85 und deren Researchoktanzahl den Wert 95 unterschreitet, dürfen ab 1. Februar 1988 nur in den Verkehr gebracht werden, wenn ihr Gehalt an Bleiverbindungen, berechnet als Blei, nicht mehr als 0,013 Gramm im Liter (gemessen bei + 15 Grad C) beträgt. Die Oktanzahlen nach Satz 2 sind nach dem hierfür in der Verordnung nach § 2a Abs. 3 vorgeschriebenen Prüfverfahren zu bestimmen. Dem Herstellen im Sinne dieses Gesetzes steht das Zusetzen von Bleiverbindungen gleich.
-
 (2) Ottokraftstoffe, die nicht zugelassene Zusätze mit anderen Metallverbindungen enthalten, dürfen gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen nicht hergestellt, eingeführt oder sonst in den Geltungsbereich dieses Gesetzes verbracht werden. Absatz 1 Satz 4 gilt für diese Zusätze entsprechend. Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) kann auf Antrag im Einvernehmen mit dem Umweltbundesamt und dem Umweltbundesamt Zusätze nach Satz 1 bis zu einem bestimmten zulässigen Höchstgehalt im Ottokraftstoff zulassen, soweit dies mit dem Schutz der Allgemeinheit, insbesondere dem Schutz vor schädlichen Umwelteinwirkungen vereinbar ist. Die Zulassung kann unter Bedingungen erteilt, mit Auflagen verbunden und befristet werden. Sie kann widerrufen werden, wenn die Voraussetzungen für die Zulassung nicht mehr vorliegen. Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit erläßt im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie Verwaltungsvorschriften über die Grundsätze der Zulassung der Zusätze nach Satz 1.
 
 ### § 2a — Verbraucherschutz
@@ -38,17 +36,15 @@ Der Bundestag hat mit Zustimmung des Bundesrates folgendes Gesetz beschlossen:
 
 (2a) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) kann auf Antrag Ausnahmen von dem Verbot des § 2 Abs. 1 ferner bewilligen
 
-1.
+1. dem Hersteller für zur Ausfuhr bestimmte Ottokraftstoffe, soweit dadurch keine Gefährdung der Versorgung zu besorgen ist und das Recht des betreffenden Staates nicht entgegensteht,
 
-2.
+2. dem Einführer oder Verbringer für zur Vermischung bestimmte Ottokraftstoffe, soweit der Gehalt der Mischung an Bleiverbindungen unter die Begrenzung des § 2 Abs. 1 abgesenkt wird.
 
 (3) Die Bewilligung kann unter Bedingungen erteilt und mit Auflagen verbunden werden; sie kann widerrufen werden. Die Bewilligung ist zu befristen, im Falle des Absatzes 2 bei einer Ausnahme von der Begrenzung auf 0,40 Gramm Blei im Liter längstens bis zum 31. Dezember 1973 und bei einer Ausnahme von der Begrenzung auf 0,15 Gramm Blei im Liter längstens bis zum 31. Dezember 1977.
 
 (4) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit erläßt im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie Verwaltungsvorschriften über die Grundsätze, die bei der Bewilligung der Ausnahmen zu beachten sind.
 
 ### § 3a — Abgabe zum Ausgleich von Wettbewerbsvorteilen bei Ausnahmebewilligung
-
-(1) Für eine Ausnahmebewilligung, die für einen Zeitraum zwischen dem 1. Januar 1976 und dem 31. Dezember 1977 nach § 3 Abs. 1 oder 2 erteilt wird, hat derjenige, dem die Ausnahme bewilligt wird, an den Bund eine Abgabe von 0,5 Cent je Liter Ottokraftstoff mit einem Bleigehalt bis 0,25 Gramm und eine Abgabe von einem Cent je Liter Ottokraftstoff mit einem höheren Bleigehalt zu entrichten. Die abgabenpflichtige Menge ist das Volumen bei + 12 Grad C. Die Abgabe entsteht, wenn Ottokraftstoff im Rahmen der Ausnahmebewilligung in Herstellungsbetrieben oder Lagern hergestellt, eingeführt oder sonst in den Geltungsbereich dieses Gesetzes verbracht wird. Sie wird jeweils mit Ablauf des zweiten auf diesen Zeitpunkt folgenden Monats fällig.
 
 (2) Der Schuldner hat für jeden Monat des Zeitraums, auf den die Ausnahmebewilligung befristet worden ist, dem zuständigen Hauptzollamt bis zum Ende des folgenden Monats anzumelden, ob und in welcher Höhe eine Abgabe entstanden ist. Geht die Anmeldung nicht oder nicht rechtzeitig ein, so wird vermutet, daß die Ausnahmebewilligung voll ausgenutzt worden und die Abgabe nach Absatz 1 entstanden ist. Die Abgabe ist unaufgefordert bis zum Fälligkeitstag an das zuständige Hauptzollamt zu entrichten. Soweit dieses Gesetz nichts anderes bestimmt, finden für die Festsetzung, Erhebung, Vollstreckung und das außergerichtliche Rechtsbehelfsverfahren die Vorschriften des Ersten bis Siebenten Teils der Abgabenordnung mit Ausnahme ihrer §§ 30, 76, 172 Abs. 1 Nr. 2, §§ 215 und 221 entsprechende Anwendung. Die Festsetzungsfrist beträgt ein Jahr. Sie beginnt mit Ablauf des Kalenderjahres, in dem die Abgabe entstanden ist. Für die Zahlungsverjährung gelten die §§ 228 bis 232 der Abgabenordnung entsprechend.
 
@@ -78,25 +74,15 @@ Der Bundestag hat mit Zustimmung des Bundesrates folgendes Gesetz beschlossen:
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. Ottokraftstoffe,a)die einen höheren als den nach § 2 Abs. 1 zulässigen Gehalt an Bleiverbindungen enthalten, b)die nicht zugelassene Zusätze mit anderen Metallverbindungen enthalten, die einen höheren als den nach § 2 Abs. 1 zulässigen Gehalt an Bleiverbindungen enthalten, die nicht zugelassene Zusätze mit anderen Metallverbindungen enthalten, gewerbsmäßig oder im Rahmen einer wirtschaftlichen Unternehmung herstellt, einführt, sonst in den Geltungsbereich dieses Gesetzes verbringt oder in den Verkehr bringt,
 
-a)
+2. a)entgegen § 2a Abs.1 Satz 1 die mindestens gewährleistete Qualität der angebotenen Ottokraftstoffe nicht oder nicht richtig kenntlich macht, b)entgegen § 2a Abs. 1 Satz 2 den Kennzeichnungspflichtigen nicht oder nicht richtig unterrichtet, c)entgegen § 2a Abs. 2 die empfohlenen Kraftstoffqualitäten nicht bekanntgibt. entgegen § 2a Abs.1 Satz 1 die mindestens gewährleistete Qualität der angebotenen Ottokraftstoffe nicht oder nicht richtig kenntlich macht, entgegen § 2a Abs. 1 Satz 2 den Kennzeichnungspflichtigen nicht oder nicht richtig unterrichtet, entgegen § 2a Abs. 2 die empfohlenen Kraftstoffqualitäten nicht bekanntgibt.
 
-b)
+3. Entgegen § 4 Abs. 1 Satz 2 die schriftliche Erklärung des Herstellers nicht aufbewahrt,
 
-2.
+4. entgegen § 5 Abs. 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt oder
 
-a)
-
-b)
-
-c)
-
-3.
-
-4.
-
-5.
+5. entgegen § 5 Abs. 3 eine Prüfung oder Besichtigung, die Entnahme von Stichproben oder die Einsicht in geschäftliche Unterlagen nicht gestattet.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden.
 

@@ -39,51 +39,5 @@ Der Senat von Berlin
 
 ### Anlage 1
 
-Anlage 1
-
-(zu § 2 der Verordnung über die Festsetzung des Lärmschutzbereichs für den Flughafen Berlin-Tegel) Gebiete, die in die Schutzzone 2 einbezogen werdenDie Gebiete sind nachstehend mit ihren Begrenzungen aufgeführt: Bezirk ReinickendorfBezirk WeddingBezirk Spandau
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-12.
-
-13.
-
-14.
-
-15.
-
-16.
-
-17.
-
-18.
-
-19.
-
-20.
-
 ### Anlage 2 — (zu § 4 der Verordnung über die Festsetzung
 des Lärmschutzbereichs für den Flughafen Berlin-Tegel)
-
-(Inhalt: nicht darstellbare Übersichtskarte,

@@ -18,51 +18,45 @@ Diese Verordnung regelt das Meisterprüfungsberufsbild sowie die Prüfung in den
 
 Im Bootsbauer-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeiten und Kenntnisse zum Nachweis der beruflichen Handlungskompetenz zu berücksichtigen:
 
-1.
+1. auftragsbezogene Kundenanforderungen ermitteln, Kunden beraten, Serviceleistungen anbieten, Auftragsverhandlungen führen und Auftragsziele festlegen, Leistungen kalkulieren und Angebote erstellen, Verträge schließen,
 
-2.
+2. Aufgaben der technischen, kaufmännischen und personalwirtschaftlichen Betriebsführung unter Anwendung von Informations- und Kommunikationssystemen wahrnehmen, insbesondere unter Berücksichtigung der Betriebsorganisation, der betrieblichen Aus- und Weiterbildung, des Qualitätsmanagements, der Haftung, des Arbeitsschutzrechtes, des Datenschutzes und des Umweltschutzes,
 
-3.
+3. Auftragsabwicklungsprozesse planen, organisieren, überwachen und anpassen, Unteraufträge vergeben und deren Durchführung kontrollieren,
 
-4.
+4. Aufträge ausführen, insbesondere unter Berücksichtigung a)von gestalterischen Aspekten, Konstruktionen, Fertigungs- und Montagetechniken, Instandhaltungsanforderungen, Energie- und Ressourceneffizienz,b)von berufsbezogenen rechtlichen Vorschriften, technischen Richtlinien und Normen sowie unter Berücksichtigung der allgemein anerkannten Regeln der Technik undc)des Einsatzes von Personal, Material, Maschinen und Geräten sowie der Möglichkeiten zum Einsatz von Auszubildenden, von gestalterischen Aspekten, Konstruktionen, Fertigungs- und Montagetechniken, Instandhaltungsanforderungen, Energie- und Ressourceneffizienz, von berufsbezogenen rechtlichen Vorschriften, technischen Richtlinien und Normen sowie unter Berücksichtigung der allgemein anerkannten Regeln der Technik und des Einsatzes von Personal, Material, Maschinen und Geräten sowie der Möglichkeiten zum Einsatz von Auszubildenden,
 
-a)
+5. Konzepte für Betriebsstätten einschließlich Betriebs- und Lagerausstattung sowie für logistische Prozesse entwickeln und umsetzen; Transport und Lagerung von Booten planen und durchführen, Sicherheitsvorschriften anwenden,
 
-b)
+6. Arten und Eigenschaften von zu be- und verarbeitenden Werk- und Hilfsstoffen, insbesondere von Holz, Kunststoffen und Metallen, bei der Gestaltung, Planung, Konstruktion, Fertigung, Montage und Instandhaltung berücksichtigen,
 
-c)
+7. Entwürfe, Skizzen, Aufrisse, Zeichnungen und Pläne erstellen und präsentieren, auch unter Einsatz branchenspezifischer Software,
 
-5.
+8. Konstruktionen zum Neu-, Aus- und Umbau von Booten entwickeln, Umsetzungsmöglichkeiten prüfen, dabei insbesondere Bootstypen, Verwendungszwecke sowie Voraussetzungen für den Einbau technischer Komponenten berücksichtigen,
 
-6.
+9. Rümpfe, Decks und Aufbauten planen, herstellen, montieren und instand halten, Fertigungsprozesse und Fertigungsverfahren festlegen, steuern und überwachen,
 
-7.
+10. Luken, Fenster und Türen planen, herstellen, montieren und instand halten, Zubehörteile, Beschläge sowie Schließ- und Schutzsysteme planen und montieren,
 
-8.
+11. Konzepte für den Innenausbau entwickeln, dabei Fertigungs-, Dämm- und Isoliertechniken berücksichtigen, Umsetzung planen, durchführen und überwachen,
 
-9.
+12. Konzepte zur Ausrüstung von Booten mit technischen Geräten, Anlagen und Systemen unter Berücksichtigung von Sicherheitsbestimmungen erstellen,
 
-10.
+13. Konzepte für die Be- und Entschichtung sowie für die Instandsetzung von Oberflächen erarbeiten, Verfahren festlegen, Umsetzung planen, durchführen und kontrollieren,
 
-11.
+14. Lösungen für den Einbau und die Instandhaltung von Antriebs-, Vortriebs-, Steuerungs- und Ruderanlagen entwickeln sowie Umsetzung planen, durchführen und kontrollieren; Funktionsprüfungen durchführen, auswerten und dokumentieren,
 
-12.
+15. Lösungen für den Einbau und die Instandhaltung von technischen Bordeinrichtungen, insbesondere für Wasser, Abwasser, Heizung und Klima unter Beachtung von gesundheits- und umweltrechtlichen Bestimmungen entwickeln sowie Umsetzung planen, durchführen und kontrollieren; Funktionsprüfungen durchführen, auswerten und dokumentieren,
 
-13.
+16. Lösungen für den Einbau und die Instandhaltung von bordelektrischen und bordelektronischen Systemen entwickeln sowie Umsetzung planen, durchführen und kontrollieren; Funktionsprüfungen durchführen, auswerten und dokumentieren,
 
-14.
+17. Lösungen für das Herstellen, Ausrüsten und Montieren von Riggsystemen entwickeln, Umsetzung planen, durchführen und kontrollieren; Riggsysteme trimmen und instand halten,
 
-15.
+18. Schäden, Störungen und Erneuerungsbedarfe feststellen, Lösungen für Instandsetzungen und für die Durchführung von Refits für Wasserfahrzeuge entwickeln, Umsetzung planen, durchführen und kontrollieren,
 
-16.
+19. Qualitätskontrollen durchführen, Fehler und Störungen analysieren und beseitigen, Ergebnisse bewerten und dokumentieren sowie
 
-17.
-
-18.
-
-19.
-
-20.
+20. durchgeführte Leistungen ermitteln, prüfen und dokumentieren, Abnahme durchführen, Leistungen übergeben und abrechnen sowie Nachkalkulationen durchführen und Auftragsabwicklungen auswerten.
 
 ### § 3 — Ziel und Gliederung des Teils I
 
@@ -70,9 +64,9 @@ c)
 
 (2) Teil I der Meisterprüfung gliedert sich in folgende Prüfungsbereiche:
 
-1.
+1. Durchführung eines Meisterprüfungsprojekts und ein darauf bezogenes Fachgespräch sowie
 
-2.
+2. Durchführung einer Situationsaufgabe.
 
 ### § 4 — Meisterprüfungsprojekt
 
@@ -80,37 +74,37 @@ c)
 
 (2) Das Meisterprüfungsprojekt besteht aus Planungs-, Durchführungs-, Kontroll- und Dokumentationsarbeiten. Die Planungsarbeiten umfassen ein Konzept, einen Umsetzungsplan sowie eine Angebotskalkulation.
 
-(3) Als Meisterprüfungsprojekt ist eine der nachfolgenden Aufgaben durchzuführen: Die durchgeführten Arbeiten sind zu kontrollieren und zu dokumentieren.
+(3) Als Meisterprüfungsprojekt ist eine der nachfolgenden Aufgaben durchzuführen:
 
-1.
+1. ein Konzept für den Neu- oder Umbau eines Rundspantbootes von mindestens 2,50 Metern Länge oder eines Knickspantbootes von mindestens 5 Metern Länge erstellen und daraus ein strukturgebendes und statisch relevantes Bauteil des Rumpfes, des Decks oder des Aufbaus planen, kalkulieren und fertigen,
 
-2.
+2. ein Konzept für die Instandsetzung eines Bootes erstellen, wobei sich die Instandsetzung auf einen Schaden mit einem Schadensausmaß von mindestens 0,8 Quadratmetern und einen vollständigen oder teilweisen Austausch von tragenden Verbänden im Bereich der Verbindung von Rumpf und Deck oder im Bereich der Verbindung von Rumpf und Kiel bezieht; auf der Grundlage des Konzeptes ist die Instandsetzung zu planen, zu kalkulieren und durchzuführen,
 
-3.
+3. ein Konzept für den Einbau einer Antriebs-, Vortriebs-, Steuerungs- oder Ruderanlage für ein Boot von mindestens 10 Metern Länge einschließlich des Fundaments erstellen und auf dieser Grundlage den Einbau planen, kalkulieren und durchführen; die Vernetzung mit der Bordelektrik und Bordelektronik im Sicherheitskleinspannungsbereich herstellen und die Anlage in Betrieb nehmen,
 
-4.
+4. ein Konzept für den Einbau einer technischen Bordeinrichtung, einschließlich der Ver- und Entsorgungsleitungen, insbesondere für Wasser und Abwasser oder Heizung und Klima, erstellen und auf dieser Grundlage den Einbau planen, kalkulieren und durchführen; die Vernetzung mit der Bordelektrik und Bordelektronik im Sicherheitskleinspannungsbereich herstellen und die Einrichtung in Betrieb nehmen oder
 
-5.
+5. ein Konzept für den Einbau eines bordelektrischen und bordelektronischen Systems im Sicherheitskleinspannungsbereich einschließlich der Leitungen erstellen und auf dieser Grundlage den Einbau planen, kalkulieren und durchführen; die Vernetzung mit der technischen Bordeinrichtung, der Antriebs-, der Vortriebs-, der Steuerungs- und der Ruderanlage herstellen und das System in Betrieb nehmen.
 
 (4) Für die Bewertung des Meisterprüfungsprojekts werden die einzelnen Arbeiten wie folgt gewichtet:
 
-1.
+1. die Bewertung der Planungsunterlagen mit 40 Prozent,
 
-2.
+2. die Bewertung der durchgeführten Arbeiten mit 50 Prozent und
 
-3.
+3. die Bewertung der Dokumentationsunterlagen, bestehend aus Protokollen und Prüfberichten, mit 10 Prozent.
 
 ### § 5 — Fachgespräch
 
 Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. die fachlichen Zusammenhänge aufzuzeigen, die dem Meisterprüfungsprojekt zugrunde liegen,
 
-2.
+2. Kunden zu beraten, insbesondere unter Berücksichtigung des individuellen Kundenwunsches; dabei hat er wirtschaftliche Überlegungen sowie rechtliche und technische Anforderungen in das Beratungsgespräch einzubeziehen,
 
-3.
+3. sein Vorgehen bei der Planung und bei der Durchführung des Meisterprüfungsprojekts zu begründen und
 
-4.
+4. mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darzustellen und dabei neue Entwicklungen im Bootsbauer-Handwerk zu berücksichtigen.
 
 ### § 6 — Situationsaufgabe
 
@@ -118,11 +112,11 @@ Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
 (2) Als Situationsaufgabe ist eine der unter den Nummern 1 bis 3 aufgeführten Arbeiten auszuführen, wobei die gewählte Arbeit nicht Gegenstand des Meisterprüfungsprojekts gewesen sein darf. Wenn der Prüfling das Meisterprüfungsprojekt nach § 4 Absatz 3 Nummer 1 oder Nummer 2 durchgeführt hat, ist eine Arbeit nach Absatz 2 Nummer 1 oder Nummer 2 auszuführen. Wenn der Prüfling das Meisterprüfungsprojekt nach § 4 Absatz 3 Nummer 3, 4 oder Nummer 5 durchgeführt hat, ist eine Arbeit nach Nummer 3 auszuführen. Als Arbeiten kommen in Betracht:
 
-1.
+1. einen Teil der Antriebs-, der Vortriebs-, der Steuerungs- oder der Ruderanlage, der technischen Bordeinrichtung oder des bordelektrischen und bordelektronischen Systems planen sowie anhand der Planung dieses Element herstellen und montieren,
 
-2.
+2. Störungen in der Vernetzung der Antriebs-, der Vortriebs-, der Steuerungs- und der Ruderanlage und der technischen Bordeinrichtung mit dem bordelektrischen und bordelektronischen System feststellen, Ursachen ermitteln und Störungen beseitigen oder
 
-3.
+3. den Aufriss einer bootsbautypischen Einzelkomponente erstellen und diese Einzelkomponente herstellen.
 
 ### § 7 — Prüfungsdauer und Bestehen des Teils I
 
@@ -138,65 +132,11 @@ Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
 (2) In jedem der nachfolgend aufgeführten Handlungsfelder ist mindestens eine komplexe fallbezogene Aufgabe zu bearbeiten. Die fallbezogenen Aufgaben sind handwerksspezifisch, wobei die in den Handlungsfeldern nach den Nummern 1 bis 3 aufgeführten Qualifikationen auch handlungsfeldübergreifend verknüpft werden können.
 
-1.
+1. Konstruktion, Fertigung, technische Ausrüstung Der Prüfling hat nachzuweisen, dass er in der Lage ist, gestalterische, konstruktions- und fertigungstechnische Aufgaben unter Berücksichtigung wirtschaftlicher und ökologischer Aspekte in einem Bootsbauerbetrieb zu bearbeiten; dabei soll er berufsbezogene Sachverhalte analysieren und bewerten; bei der jeweiligen Aufgabenstellung sollen mehrere der unter den Buchstaben a bis j aufgeführten Qualifikationen verknüpft werden: a)Entwürfe und Konstruktionen für Boote einschließlich des Innenausbaus unter Berücksichtigung von Bootstypen, Antriebsarten, Materialien und Verwendungszweck erstellen und vorhandene Konstruktionen bewerten,b)Fertigungsverfahren und Materialien für den Neu-, Aus- und Umbau von Booten auswählen und Auswahl begründen,c)Verfahren zur Oberflächenbehandlung von Holz, Metall und Kunststoffen auswählen und Auswahl begründen,d)Lösungen für das Ausrüsten und Montieren von Riggsystemen entwickeln, planen und begründen,e)Lösungen für den Einbau von Antriebs-, Vortriebs-, Steuerungs- und Ruderanlagen entwickeln, planen und begründen,f)Lösungen für den Einbau von technischen Bordeinrichtungen, insbesondere für Wasser, Abwasser, Heizung und Klima, entwickeln, planen und begründen,g)Lösungen für den Einbau von bordelektrischen und bordelektronischen Systemen entwickeln, planen und begründen,h)Konzepte für Refits unter Berücksichtigung von Kundenanforderungen entwickeln und begründen,i)Schäden, Störungen und deren Ursachen analysieren, Maßnahmen zur Beseitigung der Schäden und Störungen entwickeln und begründen sowiej)Lösungen für die Herstellung und Montage von Luken, Fenstern, Türen, Zubehörteilen und Beschlägen sowie von Schließ- und Schutzsystemen planen und begründen; Entwürfe und Konstruktionen für Boote einschließlich des Innenausbaus unter Berücksichtigung von Bootstypen, Antriebsarten, Materialien und Verwendungszweck erstellen und vorhandene Konstruktionen bewerten, Fertigungsverfahren und Materialien für den Neu-, Aus- und Umbau von Booten auswählen und Auswahl begründen, Verfahren zur Oberflächenbehandlung von Holz, Metall und Kunststoffen auswählen und Auswahl begründen, Lösungen für das Ausrüsten und Montieren von Riggsystemen entwickeln, planen und begründen, Lösungen für den Einbau von Antriebs-, Vortriebs-, Steuerungs- und Ruderanlagen entwickeln, planen und begründen, Lösungen für den Einbau von technischen Bordeinrichtungen, insbesondere für Wasser, Abwasser, Heizung und Klima, entwickeln, planen und begründen, Lösungen für den Einbau von bordelektrischen und bordelektronischen Systemen entwickeln, planen und begründen, Konzepte für Refits unter Berücksichtigung von Kundenanforderungen entwickeln und begründen, Schäden, Störungen und deren Ursachen analysieren, Maßnahmen zur Beseitigung der Schäden und Störungen entwickeln und begründen sowie Lösungen für die Herstellung und Montage von Luken, Fenstern, Türen, Zubehörteilen und Beschlägen sowie von Schließ- und Schutzsystemen planen und begründen;
 
-a)
+2. Auftragsabwicklung Der Prüfling hat nachzuweisen, dass er in der Lage ist, Auftragsabwicklungsprozesse in einem Bootsbauerbetrieb erfolgs-, kunden- und qualitätsorientiert zu planen und die Durchführung der Prozesse zu kontrollieren und abzuschließen, auch unter Anwendung branchenspezifischer Software; bei der jeweiligen Aufgabenstellung sollen mehrere der unter den Buchstaben a bis i aufgeführten Qualifikationen verknüpft werden: a)Möglichkeiten der Auftragsbeschaffung darstellen,b)Vorgehensweise bei der Ermittlung von Kundenanforderungen aufzeigen und Kundenanforderungen hinsichtlich ihrer Umsetzbarkeit beurteilen,c)Angebotsunterlagen erstellen und externe Angebote auswerten, Angebotskalkulation durchführen und ein Angebot erstellen,d)Methoden und Verfahren der Arbeitsplanung und -organisation unter Berücksichtigung von Fertigung und Montage sowie unter Berücksichtigung des Einsatzes von Personal, Material und Geräten bewerten, dabei qualitätssichernde Aspekte darstellen sowie Schnittstellen zwischen Arbeitsbereichen berücksichtigen,e)berufsbezogene rechtliche Vorschriften und technische Normen sowie allgemein anerkannte Regeln der Technik anwenden, insbesondere Fragen der Haftung bei der Herstellung, der Montage und der Instandhaltung beurteilen,f)Arbeitspläne, Skizzen und Fertigungszeichnungen erstellen sowie vorgegebene Skizzen und Zeichnungen bewerten und anpassen,g)den auftragsbezogenen Einsatz von Material, Maschinen und Geräten bestimmen und die Auswahl begründen,h)Unteraufträge vergeben und kontrollieren,i)Nachkalkulationen durchführen; Möglichkeiten der Auftragsbeschaffung darstellen, Vorgehensweise bei der Ermittlung von Kundenanforderungen aufzeigen und Kundenanforderungen hinsichtlich ihrer Umsetzbarkeit beurteilen, Angebotsunterlagen erstellen und externe Angebote auswerten, Angebotskalkulation durchführen und ein Angebot erstellen, Methoden und Verfahren der Arbeitsplanung und -organisation unter Berücksichtigung von Fertigung und Montage sowie unter Berücksichtigung des Einsatzes von Personal, Material und Geräten bewerten, dabei qualitätssichernde Aspekte darstellen sowie Schnittstellen zwischen Arbeitsbereichen berücksichtigen, berufsbezogene rechtliche Vorschriften und technische Normen sowie allgemein anerkannte Regeln der Technik anwenden, insbesondere Fragen der Haftung bei der Herstellung, der Montage und der Instandhaltung beurteilen, Arbeitspläne, Skizzen und Fertigungszeichnungen erstellen sowie vorgegebene Skizzen und Zeichnungen bewerten und anpassen, den auftragsbezogenen Einsatz von Material, Maschinen und Geräten bestimmen und die Auswahl begründen, Unteraufträge vergeben und kontrollieren, Nachkalkulationen durchführen;
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
+3. Betriebsführung und Betriebsorganisation Der Prüfling hat nachzuweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und der Betriebsorganisation in einem Bootsbauerbetrieb unter Berücksichtigung der rechtlichen Vorschriften wahrzunehmen, auch unter Anwendung von Informations- und Kommunikationssystemen; bei der jeweiligen Aufgabenstellung sollen mehrere der unter den Buchstaben a bis h aufgeführten Qualifikationen verknüpft werden: a)betriebliche Kosten ermitteln und dabei betriebswirtschaftliche Zusammenhänge berücksichtigen,b)betriebliche Kostenstrukturen überprüfen und betriebliche Kennzahlen ermitteln,c)Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden vor dem Hintergrund technischer und wirtschaftlicher Entwicklungen erarbeiten,d)die Bedeutung des betrieblichen Qualitätsmanagements für den Unternehmenserfolg darstellen, Maßnahmen des Qualitätsmanagements festlegen und begründen sowie Dokumentationen dazu bewerten,e)Aufgaben der Personalverwaltung wahrnehmen und die Notwendigkeit der Personalentwicklung begründen, insbesondere unter Berücksichtigung von Auftragslage und Auftragsabwicklung,f)betriebsspezifische Maßnahmen zur Einhaltung der arbeitsschutzrechtlichen Bestimmungen und des Umweltschutzes entwickeln, Gefahrenpotenziale ermitteln und beurteilen sowie Schutzmaßnahmen festlegen,g)Konzepte für Betriebsstätten, einschließlich gewerkspezifischer Betriebs- und Lagerausstattungen, sowie logistische Prozesse planen und darstellen,h)den Nutzen zwischenbetrieblicher Kooperationen auftragsbezogen prüfen sowie Konsequenzen aufzeigen und bewerten, insbesondere für die betriebsinterne Organisation sowie für das betriebliche Personalwesen. betriebliche Kosten ermitteln und dabei betriebswirtschaftliche Zusammenhänge berücksichtigen, betriebliche Kostenstrukturen überprüfen und betriebliche Kennzahlen ermitteln, Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden vor dem Hintergrund technischer und wirtschaftlicher Entwicklungen erarbeiten, die Bedeutung des betrieblichen Qualitätsmanagements für den Unternehmenserfolg darstellen, Maßnahmen des Qualitätsmanagements festlegen und begründen sowie Dokumentationen dazu bewerten, Aufgaben der Personalverwaltung wahrnehmen und die Notwendigkeit der Personalentwicklung begründen, insbesondere unter Berücksichtigung von Auftragslage und Auftragsabwicklung, betriebsspezifische Maßnahmen zur Einhaltung der arbeitsschutzrechtlichen Bestimmungen und des Umweltschutzes entwickeln, Gefahrenpotenziale ermitteln und beurteilen sowie Schutzmaßnahmen festlegen, Konzepte für Betriebsstätten, einschließlich gewerkspezifischer Betriebs- und Lagerausstattungen, sowie logistische Prozesse planen und darstellen, den Nutzen zwischenbetrieblicher Kooperationen auftragsbezogen prüfen sowie Konsequenzen aufzeigen und bewerten, insbesondere für die betriebsinterne Organisation sowie für das betriebliche Personalwesen.
 
 ### § 9 — Prüfungsdauer und Bestehen des Teils II
 
@@ -208,9 +148,9 @@ h)
 
 (4) Voraussetzung für das Bestehen des Teils II der Meisterprüfung ist eine insgesamt mindestens ausreichende Prüfungsleistung. Die Prüfung des Teils II ist nicht bestanden, wenn
 
-1.
+1. ein Handlungsfeld mit weniger als 30 Punkten bewertet worden ist oder
 
-2.
+2. nach durchgeführter Ergänzungsprüfung zwei Handlungsfelder mit jeweils weniger als 50 Punkten bewertet worden sind.
 
 ### § 10 — Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 

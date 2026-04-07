@@ -13,11 +13,11 @@ Auf Grund des § 43 Abs. 1 Satz 1 Nr. 3 des Bundes-Immissionsschutzgesetzes in d
 
 ### § 1 — Anwendungsbereich
 
-Die Verordnung legt Art und Umfang der zum Schutz vor schädlichen Umwelteinwirkungen durch Verkehrsgeräusche notwendigen Schallschutzmaßnahmen für schutzbedürftige Räume in baulichen Anlagen fest, festgelegten Immissionsgrenzwerte überschritten werden.
+Die Verordnung legt Art und Umfang der zum Schutz vor schädlichen Umwelteinwirkungen durch Verkehrsgeräusche notwendigen Schallschutzmaßnahmen für schutzbedürftige Räume in baulichen Anlagen fest,
 
-1.
+1. soweit durch den Bau oder die wesentliche Änderung öffentlicher Straßen sowie von Schienenwegen der Eisenbahnen und Straßenbahnen die in § 2 der Verkehrslärmschutzverordnung vom 12. Juni 1990 (BGBl. I S. 1036) oder
 
-2.
+2. soweit durch den Bau oder die wesentliche Änderung von Verkehrswegen der Magnetschwebebahnen die in § 2 der Magnetschwebebahn-Lärmschutzverordnung vom 23. September 1997 (BGBl. I S. 2329, 2338)
 
 ### § 2 — Art der Schallschutzmaßnahmen,
 Begriffsbestimmungen
@@ -30,9 +30,9 @@ Begriffsbestimmungen
 
 (4) Schallschutzmaßnahmen im Sinne dieser Verordnung sind nicht erforderlich, wenn eine bauliche Anlage
 
-1.
+1. zum Abbruch bestimmt ist oder dieser bauordnungsrechtlich gefordert wird;
 
-2.
+2. bei der Auslegung der Pläne im Planfeststellungsverfahren, bei Bekanntgabe der Plangenehmigung oder der Auslegung des Entwurfs der Bauleitpläne mit ausgewiesener Wegeplanung noch nicht genehmigt war oder sonst nach den baurechtlichen Vorschriften mit dem Bau noch nicht begonnen werden durfte.
 
 ### § 3 — Umfang der Schallschutzmaßnahmen
 
@@ -57,5 +57,3 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 Der Bundesrat hat zugestimmt.
 
 ### Anlage — (zu § 2 Abs. 2 und § 3 Abs. 1, 3 und 4)
-
-Das erforderliche bewertete Schalldämm-Maß der gesamten Außenfläche des Raumes in Dezibel (dB) wird nach folgenden Gleichungen berechnet: Start: BJNR017200997BJNE000801320_01Ende: BJNR017200997BJNE000801320_01Das erforderliche bewertete Schalldämm-Maß eines einzelnen zu verbessernden Bauteils wird berechnet nach folgender Gleichung (3): Start: BJNR017200997BJNE000801320_02Ende: BJNR017200997BJNE000801320_02Das bewertete Schalldämm-Maß der gesamten Außenfläche S(tief)g, die sich aus den Teilflächen S(tief)1, S(tief)2, ..., S(tief)n mit den bewerteten Schalldämm-Maßen R(tief)w,1, R(tief)w,2, ..., R(tief)w,n zusammensetzt, berechnet sich nach folgender Gleichung (4):                            1Die bewerteten Schalldämm-Maße der Umfassungsbauteile (Teilflächen) müssen so verbessert werden, daß das nach Gleichung (4) berechnete bewertete Schalldämm-Maß der gesamten Außenfläche R(tief)w,res mindestens gleich dem erforderlichen bewerteten Schalldämm-Maß nach Gleichung (1) oder (2) ist.

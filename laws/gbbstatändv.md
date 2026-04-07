@@ -30,5 +30,3 @@ Das Statut der GBB Genossenschafts-Holding Berlin erhält die Fassung der Anlage
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 ### Anlage — Statut der GBB Genossenschafts-Holding Berlin
-
-(Text siehe: GBBStatÄndVAnl)

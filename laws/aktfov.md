@@ -12,10 +12,6 @@ Auf Grund des § 127a Abs. 5 des Aktiengesetzes, der durch Artikel 1 Nr. 7 des G
 
 ### § 1 — Einrichtung des Aktionärsforums
 
-(1) Das Aktionärsforum ist Teil des Bundesanzeigers und ist jedenfalls über die Internetseitenerreichbar.
-
-www.bundesanzeiger.de,www.unternehmensregister.de undwww.aktionaersforum.de
-
 (2) Das Aktionärsforum ist so zu gestalten, dass Aktionäre, Aktionärsvereinigungen und Gesellschaften (Eintragende) die Aufforderungen und Hinweise auf Stellungnahmen nach § 127a des Aktiengesetzes (Eintragungen) nur über eine im Aktionärsforum zur Verfügung gestellte Formularmaske elektronisch eintragen können. Eintragungen sind in Deutsch oder Englisch abzufassen.
 
 ### § 2 — Inhalt und Aufbau des Aktionärsforums
@@ -24,11 +20,11 @@ www.bundesanzeiger.de,www.unternehmensregister.de undwww.aktionaersforum.de
 
 (2) Innerhalb des Aktionärsforums kann im Volltext der Eintragungen oder unter Verwendung zumindest folgender Suchmerkmale gesucht werden:
 
-1.
+1. Firma und Firmenteile,
 
-2.
+2. Wertpapierkennnummer (WKN), International Securities Identification Number (ISIN) oder
 
-3.
+3. Handelsregisternummer.
 
 (3) Die Benutzeroberfläche ist in deutscher Sprache gefasst. Eine Fassung in englischer Sprache soll vorhanden sein.
 
@@ -38,15 +34,15 @@ www.bundesanzeiger.de,www.unternehmensregister.de undwww.aktionaersforum.de
 
 (1) Die Veröffentlichung einer Aufforderung kann zur Sicherung gegen Missbrauch nur vorgenommen werden, wenn der Aktionär oder die Aktionärsvereinigung (der Auffordernde)
 
-1.
+1. sich zuvor einmalig unter Angabe von Name oder Firma, der Anschrift des Wohnsitzes oder des Sitzes und einer elektronischen Postadresse bei dem Betreiber registriert hat,
 
-2.
+2. für die Nutzung einen Benutzernamen und ein Kennwort mittels elektronischer Post erhalten und dieses bestätigt hat oder, falls der Betreiber ausschließlich oder zusätzlich ein nach dem Stand der Technik vergleichbares anderes Identifizierungs- und Authentifizierungsverfahren gewählt hat (zum Beispiel elektronische Signatur), dessen Voraussetzungen erfüllt hat,
 
-3.
+3. bei Eintragung der Aufforderung den Benutzernamen und das Kennwort eingegeben oder vergleichbare Anforderungen erfüllt hat,
 
-4.
+4. bei dieser Gelegenheit die Richtigkeit seiner Angaben aus der Registrierung nochmals bestätigt hat und
 
-5.
+5. einen Zahlungsweg angegeben hat, dessen Schlüssigkeit überprüft wurde, oder das Entgelt nach § 9 Abs. 1 entrichtet hat.
 
 (2) Der Auffordernde hat im Rahmen der Eintragung einer Aufforderung zu versichern, dass er Aktionär der betreffenden Gesellschaft oder eine Aktionärsvereinigung im Sinn des § 135 Absatz 8 Satz 1 des Aktiengesetzes ist. Liegen, etwa aufgrund eines Hinweises der betroffenen Gesellschaft, konkrete Anhaltspunkte vor, die an der Aktionärs- oder Aktionärsvereinigungseigenschaft Zweifel begründen, kann der Betreiber die Vorlage von Nachweisen in Schrift- oder Textform verlangen. Werden die geforderten Nachweise nicht in der vom Betreiber gesetzten Frist beigebracht, hat der Betreiber die Aufforderung unverzüglich zu löschen.
 
@@ -54,15 +50,15 @@ www.bundesanzeiger.de,www.unternehmensregister.de undwww.aktionaersforum.de
 
 (4) Der Betreiber sendet dem Auffordernden eine Bestätigung über die Eintragung und ihre anschließende Veröffentlichung mittels elektronischer Post zu. Die Bestätigung soll den Hinweis enthalten, dass der Auffordernde die Löschung der Aufforderung zu bewirken hat, sobald er nicht mehr Aktionär der betreffenden Gesellschaft ist. Kommt die Bestätigung als unzustellbar zurück, so hat der Betreiber die Aufforderung unverzüglich zu löschen.
 
-(5) Eine Aufforderung ist missbräuchlich, wenn sie offensichtlich nicht den Voraussetzungen von § 127a des Aktiengesetzes oder dieser Verordnung entspricht, insbesondere wenn sie Missbräuchliche Aufforderungen werden durch den Betreiber unverzüglich gelöscht. In Zweifelsfällen hat der Betreiber den Auffordernden vorher zu befragen.
+(5) Eine Aufforderung ist missbräuchlich, wenn sie offensichtlich nicht den Voraussetzungen von § 127a des Aktiengesetzes oder dieser Verordnung entspricht, insbesondere wenn sie
 
-1.
+1. Angaben oder Meinungsäußerungen enthält, die über den gesetzlich vorgesehenen Inhalt hinausgehen,
 
-2.
+2. nicht von einem Aktionär oder einer Aktionärsvereinigung stammt,
 
-3.
+3. irreführende oder strafbare Angaben, falsche Angaben zur Person des Auffordernden oder
 
-4.
+4. Werbung für Produkte und nicht mit der Durchführung der Aufforderung verbundene Dienstleistungen enthält.
 
 ### § 4 — Hinweise auf Stellungnahmen der Gesellschaft
 

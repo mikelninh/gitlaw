@@ -15,7 +15,9 @@ Das Internationale Baumwoll-Institut (International Institute for Cotton), das d
 
 ### § 2
 
-(1) Einkünfte und Vermögen, die dem deutschen Büro des Internationalen Baumwoll-Instituts zuzurechnen sind, sind von allen Steuern vom Einkommen und vom Vermögen befreit.(2) Die Befreiung gilt nur hinsichtlich der satzungsgemäßen Tätigkeit des deutschen Büros des Internationalen Baumwoll-Instituts in der Werbung, der technischen Forschung und der Marktforschung auf dem Gebiet des Baumwollmarktes und für die damit zusammenhängende Geschäftsführung. Die Befreiung gilt nicht für die Bediensteten des deutschen Büros des Internationalen Baumwoll-Instituts.
+(1) Einkünfte und Vermögen, die dem deutschen Büro des Internationalen Baumwoll-Instituts zuzurechnen sind, sind von allen Steuern vom Einkommen und vom Vermögen befreit.
+
+(2) Die Befreiung gilt nur hinsichtlich der satzungsgemäßen Tätigkeit des deutschen Büros des Internationalen Baumwoll-Instituts in der Werbung, der technischen Forschung und der Marktforschung auf dem Gebiet des Baumwollmarktes und für die damit zusammenhängende Geschäftsführung. Die Befreiung gilt nicht für die Bediensteten des deutschen Büros des Internationalen Baumwoll-Instituts.
 
 ### § 3
 

@@ -31,28 +31,22 @@ Eine Verarbeitung von personenbezogenen Daten durch die Berechtigten zu Werbezwe
 
 ### § 4 — Technische Anforderungen an die Datenübermittlung und -verarbeitung
 
-Bei der Verarbeitung der Daten sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung des Datenschutzes und der Datensicherheit zu treffen; die Vorgaben nach § 361a Absatz 3 Satz 3 des Fünften Buches Sozialgesetzbuch sind umzusetzen. § 139e Absatz 10 und 11 des Fünften Buches Sozialgesetzbuch bleibt unberührt.
+Bei der Verarbeitung der Daten sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung des Datenschutzes und der Datensicherheit zu treffen; die Vorgaben nach § 361a Absatz 3 Satz 3 des Fünften Buches Sozialgesetzbuch sind umzusetzen. § 139e Absatz 10 und 11 des Fünften Buches Sozialgesetzbuch bleibt unberührt.
 
 ### § 5 — Anforderungen an die Dokumentation der Datenübermittlung
 
 Den Versicherten muss unmittelbar nach jeder Übermittlung ihrer Daten eine Dokumentation barrierefrei und leicht zugänglich in der Anwendung nach § 360 Absatz 10 Satz 1 des Fünften Buches Sozialgesetzbuch zur Verfügung stehen. Diese Dokumentation muss verständliche und vollständige Informationen enthalten über
 
-1.
+1. die elektronische Verordnung, zu der die übermittelten Daten gehören,
 
-2.
+2. die übermittelten technischen Profile und Datenfelder,
 
-3.
+3. den Zeitpunkt der Übermittlung und
 
-4.
+4. den Empfänger der Übermittlung.
 
 ### § 6 — Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Anlage 1 — (zu § 1)
-
-•
-
-•
-
-•

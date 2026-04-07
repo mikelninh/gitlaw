@@ -16,21 +16,21 @@
 
 (2) Als Unternehmen, die nach Absatz 1 zur Führung von Büchern verpflichtet sind, gelten auch
 
-1.
+1. volkseigene Kombinate, Betriebe, selbständige Einrichtungen und wirtschaftsleitende Organe, zwischenbetriebliche Einrichtungen und sonstige im Register der volkseigenen Wirtschaft eingetragene Wirtschaftseinheiten sowie volkseigene Güter,
 
-2.
+2. Aktiengesellschaften im Aufbau, Gesellschaften mit beschränkter Haftung im Aufbau,
 
-3.
+3. Genossenschaften jeder Art einschließlich kooperativer Einrichtungen,
 
-4.
+4. Betriebe mit oder ohne eigene Rechtspersönlichkeit des Staates, der Länder, Kreise, Städte und Gemeinden, die ein Handelsgewerbe im Sinne des § 1 des Handelsgesetzbuchs betreiben,
 
-5.
+5. Anstalten, Stiftungen und Vereine, die ein Handelsgewerbe im Sinne des § 1 des Handelsgesetzbuchs betreiben,
 
-6.
+6. die Deutsche Post,
 
-7.
+7. die Deutsche Reichsbahn,
 
-8.
+8. Zweigniederlassungen und Betriebsstätten von Unternehmen nach Absatz 1 mit Hauptniederlassung außerhalb der Deutschen Demokratischen Republik.
 
 (3) Absatz 1 ist auch auf die Treuhandanstalt und auf in den Absätzen 1 und 2 bezeichnete Unternehmen anzuwenden, die sich in Abwicklung befinden oder über deren Vermögen das Gesamtvollstreckungsverfahren eingeleitet worden ist.
 
@@ -60,8 +60,6 @@ Auf das Inventar zum 1. Juli 1990 ist § 240 des Handelsgesetzbuchs entsprechend
 
 (1) Ist die nach § 3 vorgeschriebene Inventur nicht oder nicht ordnungsgemäß durchgeführt worden, so ist eine den Anforderungen des § 3 Abs. 2 bis 6 genügende Inventur auf einen Stichtag innerhalb der Feststellungsfrist nach § 35 Abs. 1 Satz 3 durchzuführen. Bei prüfungspflichtigen Unternehmen muß der Prüfer bei der Inventur anwesend sein. Das Inventar und die Eröffnungsbilanz für den 1. Juli 1990 sind zu berichtigen oder zu ergänzen, wenn sich anhand der neuen Inventur unter Berücksichtigung der seit dem 1. Juli 1990 nach § 238 Abs. 1 des Handelsgesetzbuchs geführten Handelsbücher mengen- oder wertmäßige Abweichungen ergeben. Die Änderungen und Ergänzungen sind im Anhang betragsmäßig anzugeben und zu erläutern.
 
-(2) Bei prüfungspflichtigen Unternehmen ist im Falle des Absatzes 1 der Bestätigungsvermerk ohne den Hinweis auf die Ordnungsmäßigkeit von Inventar und Inventur zu erteilen und, soweit er aus anderen Gründen nicht einzuschränken oder zu versagen ist, wie folgt zu fassen: "Die Buchführung, die Eröffnungsbilanz und der Anhang entsprechen nach meiner/unserer pflichtgemäßen Prüfung den gesetzlichen Vorschriften. Die Eröffnungsbilanz und der Anhang vermitteln unter Beachtung der Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögenslage des Unternehmens. Die Inventur mußte gemäß § 3a des D-Markbilanzgesetzes nachgeholt werden. Ihre Ordnungsmäßigkeit wird bestätigt."
-
 ### § 4 — Aufstellung der Eröffnungsbilanz
 
 (1) Die Eröffnungsbilanz und der Anhang sind in den ersten vier Monaten des Geschäftsjahrs aufzustellen. Unternehmen, die in der Eröffnungsbilanz eine Bilanzsumme von höchstens drei Millionen neunhunderttausend Deutsche Mark nach Abzug eines Fehlbetrags nach § 268 Abs. 3 des Handelsgesetzbuchs ausweisen oder die am 1. Juli 1990 höchstens fünfzig Arbeitnehmer beschäftigen, dürfen die Eröffnungsbilanz und den Anhang in den ersten sechs Monaten des Geschäftsjahrs aufstellen, wenn dies einem ordnungsgemäßen Geschäftsgang entspricht.
@@ -82,11 +80,11 @@ Auf das Inventar zum 1. Juli 1990 ist § 240 des Handelsgesetzbuchs entsprechend
 
 (1) Bei der Bewertung der in der Eröffnungsbilanz ausgewiesenen Vermögensgegenstände und Schulden gilt insbesondere folgendes:
 
-1.
+1. Bei der Bewertung ist von der Fortführung der Unternehmenstätigkeit auszugehen, sofern dem nicht tatsächliche oder rechtliche Gegebenheiten entgegenstehen.
 
-2.
+2. Die Vermögensgegenstände und Schulden sind zum Stichtag der Eröffnungsbilanz einzeln zu bewerten.
 
-3.
+3. Es ist vorsichtig zu bewerten, namentlich sind alle vorhersehbaren Risiken und Verluste, die bis zum Stichtag der Eröffnungsbilanz entstanden sind, zu berücksichtigen, selbst wenn diese erst zwischen dem Stichtag und dem Tag der Aufstellung der Eröffnungsbilanz bekannt geworden sind; Gewinne sind nur zu berücksichtigen, wenn sie am Stichtag realisiert sind.
 
 (2) Die auf die in der Eröffnungsbilanz ausgewiesenen Vermögensgegenstände und Schulden angewandten Ansatz- und Bewertungsmethoden sind für die folgenden Bilanzen verbindlich, soweit nicht abgewichen werden muß oder eine Abweichung nach § 252 Abs. 2 des Handelsgesetzbuchs zulässig ist; für die erstmalige Abweichung in einem nachfolgenden Abschluß von einem in der Eröffnungsbilanz ausgeübten Wahlrecht bedarf es eines begründeten Ausnahmefalls nicht. Satz 1 gilt auch, wenn sich die Zulässigkeit der Methode nur aus diesem Gesetz ergibt. Die in der Eröffnungsbilanz angesetzten Werte dürfen jedoch in den Folgebilanzen nicht überschritten werden.
 
@@ -174,17 +172,17 @@ Aktive und passive Rechnungsabgrenzungsposten nach § 250 des Handelsgesetzbuchs
 
 (2) Abweichend von Absatz 1 werden folgende auf Mark der Deutschen Demokratischen Republik lautende Verbindlichkeiten mit der Wirkung auf Deutsche Mark umgerechnet, daß für eine Mark der Deutschen Demokratischen Republik eine Deutsche Mark anzusetzen ist:
 
-1.
+1. Löhne und Gehälter in Höhe der nach dem 1. Mai 1990 geltenden Tarifverträge sowie Stipendien, die nach dem 30. Juni 1990 fällig werden;
 
-2.
+2. Renten, die nach dem 30. Juni 1990 fällig werden, soweit sich aus Artikel 20 des Vertrages über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik nichts anderes ergibt;
 
-3.
+3. Mieten und Pachten sowie sonstige regelmäßig wiederkehrende Zahlungen, die nach dem 30. Juni 1990 fällig werden, mit Ausnahme wiederkehrender Zahlungen aus und in Lebensversicherungen und privaten Rentenversicherungen.
 
-(3) Verbindlichkeiten sind in die Eröffnungsbilanz nicht aufzunehmen, wenn eine schriftliche Erklärung des Gläubigers vorliegt, daß er Der Gesamtbetrag solcher Verbindlichkeiten ist im Anhang unter den sonstigen finanziellen Verpflichtungen gesondert anzugeben, soweit sie nicht auf Grund einer Vereinbarung mit dem Unternehmen als nachrangiges Kapital ausgewiesen werden.
+(3) Verbindlichkeiten sind in die Eröffnungsbilanz nicht aufzunehmen, wenn eine schriftliche Erklärung des Gläubigers vorliegt, daß er
 
-1.
+1. Zahlung nur verlangen wird, soweit die Erfüllung aus dem Jahresüberschuß möglich ist, und
 
-2.
+2. im Falle der Auflösung, Zahlungsunfähigkeit oder Überschuldung des Unternehmens hinter alle Gläubiger zurücktritt, die eine solche Erklärung nicht abgegeben haben.
 
 (4) Verbindlichkeiten, die bis zur Feststellung der Eröffnungsbilanz erlassen oder von einem Dritten unentgeltlich übernommen werden, sind nicht zu bilanzieren.
 
@@ -220,37 +218,33 @@ Auf ausländische Währung lautende Vermögensgegenstände, Schulden und Rechnun
 
 (3) Im Anhang sind ferner anzugeben:
 
-1.
+1. zu den in der Bilanz ausgewiesenen Verbindlichkeitena)der Gesamtbetrag der Verbindlichkeiten mit einer Restlaufzeit von mehr als fünf Jahren, b)der Gesamtbetrag der Verbindlichkeiten, die durch Pfandrechte oder ähnliche Rechte gesichert sind, unter Angabe von Art und Form der Sicherheiten; der Gesamtbetrag der Verbindlichkeiten mit einer Restlaufzeit von mehr als fünf Jahren, der Gesamtbetrag der Verbindlichkeiten, die durch Pfandrechte oder ähnliche Rechte gesichert sind, unter Angabe von Art und Form der Sicherheiten;
 
-a)
+2. die Aufgliederung der in Nummer 1 verlangten Angaben für jeden Posten der Verbindlichkeiten nach dem vorgeschriebenen Gliederungsschema, sofern sich diese Angaben nicht aus der Bilanz ergeben;
 
-b)
+3. zu dem in der Eröffnungsbilanz ausgewiesenen Grund und Boden sowie zu den Gebäuden und anderen Bauten sind alle gesetzlichen oder vertraglichen Einschränkungen zu vermerken, die sich auf deren Nutzung, Verfügbarkeit oder Verwertung beziehen. Es sind außerdem alle Sachverhalte anzugeben, aus denen sich künftige finanzielle Verpflichtungen ergeben können, insbesondere für Großreparaturen, Rekultivierungs- oder Entsorgungsaufwendungen;
 
-2.
+4. zu den in der Eröffnungsbilanz ausgewiesenen technischen Anlagen und Maschinen, anderen Anlagen sowie der Betriebs- und Geschäftsausstattung sind deren Zustand (durchschnittliche Abnutzung, technischer Stand) und deren zukünftige Einsatzmöglichkeiten zu beschreiben; der voraussichtliche Investitionsbedarf in den nächsten vier Jahren ist, soweit vorhersehbar, anzugeben;
 
-3.
+5. Ansprüche, die sich gegen das Unternehmen ergeben können, weil die früheren Eigentümer des Unternehmens, von Unternehmensteilen, Betrieben oder von Vermögensgegenständen enteignet worden sind;
 
-4.
+6. der Gesamtbetrag der sonstigen finanziellen Verpflichtungen, die nicht in der Bilanz erscheinen und die auch nicht nach § 251 des Handelsgesetzbuchs oder auf Grund anderer Vorschriften dieses Gesetzes anzugeben sind, sofern diese Angaben für die Beurteilung der Finanzlage von Bedeutung sind; davon sind Verpflichtungen gegenüber Gesellschaftern gesondert anzugeben;
 
-5.
+7. die Zahl der beschäftigten Arbeitnehmer;
 
-6.
+8. alle Mitglieder des Geschäftsführungsorgans und eines Aufsichtsrats, auch wenn sie nur vorläufig bestellt sind, mit dem Familiennamen und mindestens einem ausgeschriebenen Vornamen. Der Vorsitzende eines Aufsichtsrats, seine Stellvertreter und ein etwaiger Vorsitzender des Geschäftsführungsorgans sind als solche zu bezeichnen;
 
-7.
+9. Name und Sitz anderer Unternehmen, von denen das Unternehmen oder eine für seine Rechnung handelnde Person mindestens den fünften Teil der Anteile besitzt; außerdem sind die Höhe des Anteils am Kapital und das in der Eröffnungsbilanz ausgewiesene Eigenkapital oder ein nicht durch Eigenkapital gedeckter Fehlbetrag dieser Unternehmen anzugeben; auf die Berechnung der Anteile ist § 16 Abs. 2 und 4 des Aktiengesetzes entsprechend anzuwenden;
 
-8.
+10. Rückstellungen, die in der Bilanz unter dem Posten "sonstige Rückstellungen" nicht gesondert ausgewiesen werden, sind zu erläutern, wenn sie einen nicht unerheblichen Umfang haben. Aufwandrückstellungen sind stets gesondert anzugeben und zu erläutern;
 
-9.
-
-10.
-
-11.
+11. Name und Sitz des unmittelbaren Mutterunternehmens sowie der Ort der Offenlegung der von diesem Mutterunternehmen aufgestellten Konzerneröffnungsbilanz.
 
 (4) Die in Absatz 2 und 3 verlangten Angaben und Erläuterungen können unterbleiben, soweit sie
 
-1.
+1. für die Darstellung der Vermögenslage des Unternehmens nach § 264 Abs. 2 des Handelsgesetzbuchs von untergeordneter Bedeutung sind oder
 
-2.
+2. in den Fällen der Absätze 2 und 3 Nr. 4 und 9 nach vernünftiger kaufmännischer Beurteilung geeignet sind, dem Unternehmen einen erheblichen Nachteil zuzufügen.
 
 ### § 20 — Vergleichende Darstellung
 
@@ -340,11 +334,11 @@ privater Unternehmen
 
 (6) Bei der Neufestsetzung können die Anteile auf die folgenden Beträge gestellt werden:
 
-1.
+1. Aktien auf einen Nennbetrag von fünfzig Deutsche Mark oder auf höhere Nennbeträge, die auf volle hundert Deutsche Mark lauten,
 
-2.
+2. die Geschäftsanteile an Gesellschaften mit beschränkter Haftung auf fünfhundert Deutsche Mark oder jeden höheren Betrag der durch hundert teilbar ist, und zwar unabhängig von der Zahl der Gesellschafter,
 
-3.
+3. die Geschäftsanteile bei Genossenschaften auf fünfzig Deutsche Mark oder auf jeden höheren auf volle fünfzig Deutsche Mark lautenden Betrag.
 
 (7) In der Eröffnungsbilanz sind das gezeichnete Kapital und die Rücklagen in der Höhe auszuweisen, wie sie nach der Neufestsetzung bestehen sollen.
 
@@ -374,13 +368,13 @@ privater Unternehmen
 
 ### § 31 — Vorläufige Gewinnrücklage
 
-(1) Unternehmen dürfen, wenn sie nicht Geldinstitute oder Außenhandelsbetriebe sind, folgende Maßnahmen treffen, um eine Gewinnrücklage bilden zu können: In Höhe der nach Satz 1 Nr. 1 bis 3 aktivierten Beträge ist auf der Passivseite eine Gewinnrücklage zu bilden, die bis zur Tilgung der aktivierten Beträge als vorläufige zu bezeichnen ist.
+(1) Unternehmen dürfen, wenn sie nicht Geldinstitute oder Außenhandelsbetriebe sind, folgende Maßnahmen treffen, um eine Gewinnrücklage bilden zu können:
 
-1.
+1. Die nicht entgeltlich erworbenen immateriellen Vermögensgegenstände des Anlagevermögens dürfen mit dem Betrag angesetzt werden, den ein Erwerber des Unternehmens bei dessen Fortführung im Rahmen des Gesamtkaufpreises für diese Vermögensgegenstände ansetzen würde. Ein Geschäfts- oder Firmenwert darf berücksichtigt werden.
 
-2.
+2. Die Aufwendungen für die Ingangsetzung und Erweiterung des Geschäftsbetriebs nach § 269 Satz 1 des Handelsgesetzbuchs dürfen aktiviert werden. Dazu gehören alle Maßnahmen, die nach dem 1. März 1990 ergriffen wurden und geeignet sind, die Wettbewerbsfähigkeit des Unternehmens herzustellen.
 
-3.
+3. Zuschüsse, Beihilfen und andere Vermögensvorteile, die ohne Rückzahlungsverpflichtung von Dritten für Investitionen gewährt werden, dürfen aktiviert werden, sofern der Auftrag für die Investition bis zum Ablauf der Aufstellungsfrist für die Eröffnungsbilanz verbindlich erteilt worden ist.
 
 (2) Der nach Absatz 1 Nr. 1 angesetzte Betrag ist planmäßig innerhalb der Zeit abzuschreiben, die der durchschnittlichen Restnutzungsdauer der nach § 7 neu bewerteten entgeltlich erworbenen immateriellen Vermögensgegenstände des Unternehmens entspricht. Fehlen Vergleichszahlen oder sind die Verhältnisse nicht vergleichbar, so ist der Betrag in jedem folgenden Geschäftsjahr zu mindestens einem Viertel durch Abschreibung zu tilgen.
 
@@ -422,11 +416,11 @@ in Deutscher Mark
 
 (5) § 317 des Handelsgesetzbuchs über Gegenstand und Umfang der Prüfung ist mit der Maßgabe anzuwenden, daß auch das Inventar in die Prüfung einzubeziehen ist. Bei Geldinstituten und Außenhandelsbetrieben ist außerdem die vergleichende Darstellung nach § 20 zu prüfen.
 
-(6) Unbeschadet der Regelung in Absatz 1 Satz 3 brauchen Genossenschaften jeder Art einschließlich kooperativer Einrichtungen, die nach dem für sie maßgeblichen Recht zu einem späteren Zeitpunkt aufzulösen sind, wenn sie nicht umgewandelt werden, und die in ihrer Eröffnungsbilanz eine Bilanzsumme von nicht mehr als einhundertfünfundzwanzig Millionen Deutsche Mark ausweisen oder am Bilanzstichtag nicht mehr als fünftausend Arbeitnehmer beschäftigen und die nicht Geldinstitute oder Außenhandelsbetriebe sind, die Eröffnungsbilanz nicht prüfen zu lassen, wenn sie die Aufstellung der Eröffnungsbilanz und des Anhangs auf eine Person übertragen haben, die als Wirtschaftsprüfer oder vereidigter Buchprüfer nach der Wirtschaftsprüferordnung öffentlich bestellt oder als Prüfungsgesellschaft anerkannt oder als Steuerberater oder als Steuerbevollmächtigter nach dem Steuerberatungsgesetz bestellt oder als Steuerberatungsgesellschaft anerkannt worden ist oder als Vereinigung zur Führung der Bezeichnung "Landwirtschaftliche Buchstelle" befugt oder Fachanwalt für Steuerrecht ist. Die Pflicht zur Prüfung entfällt jedoch nur, wenn die aufstellende Person schriftlich erklärt, daß Der Eröffnungsbilanz ist die Erklärung nach Satz 2 und eine Erklärung der Geschäftsführung beizufügen, aus der sich ergibt, daß sie der aufstellenden Person alle Unterlagen vorgelegt und alle Auskünfte erteilt hat, die für die Aufstellung erforderlich waren. § 323 Abs. 2 des Handelsgesetzbuchs über die Haftung bei Fahrlässigkeit ist entsprechend anzuwenden. Die Sätze 1 bis 3 sind entsprechend auf die in § 34 Abs. 2 bezeichneten Prüfungsverbände anzuwenden.
+(6) Unbeschadet der Regelung in Absatz 1 Satz 3 brauchen Genossenschaften jeder Art einschließlich kooperativer Einrichtungen, die nach dem für sie maßgeblichen Recht zu einem späteren Zeitpunkt aufzulösen sind, wenn sie nicht umgewandelt werden, und die in ihrer Eröffnungsbilanz eine Bilanzsumme von nicht mehr als einhundertfünfundzwanzig Millionen Deutsche Mark ausweisen oder am Bilanzstichtag nicht mehr als fünftausend Arbeitnehmer beschäftigen und die nicht Geldinstitute oder Außenhandelsbetriebe sind, die Eröffnungsbilanz nicht prüfen zu lassen, wenn sie die Aufstellung der Eröffnungsbilanz und des Anhangs auf eine Person übertragen haben, die als Wirtschaftsprüfer oder vereidigter Buchprüfer nach der Wirtschaftsprüferordnung öffentlich bestellt oder als Prüfungsgesellschaft anerkannt oder als Steuerberater oder als Steuerbevollmächtigter nach dem Steuerberatungsgesetz bestellt oder als Steuerberatungsgesellschaft anerkannt worden ist oder als Vereinigung zur Führung der Bezeichnung "Landwirtschaftliche Buchstelle" befugt oder Fachanwalt für Steuerrecht ist. Die Pflicht zur Prüfung entfällt jedoch nur, wenn die aufstellende Person schriftlich erklärt, daß
 
-1.
+1. die Eröffnungsbilanz auf einer ordnungsgemäßen Inventur beruht oder die Inventur nach § 3a nachgeholt worden ist und
 
-2.
+2. die Eröffnungsbilanz und der Anhang von ihr unter Beachtung der Grundsätze ordnungsmäßiger Buchführung so aufgestellt worden ist, daß diese Unterlagen ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögenslage im Sinne des § 264 Abs. 2 Satz 1 des Handelsgesetzbuchs vermitteln.
 
 ### § 34 — Durchführung der Prüfung
 
@@ -495,23 +489,23 @@ und Außenhandelsbetriebe
 
 (1) Geldinstitute haben abweichend von § 247 Abs. 1, §§ 251, 265 Abs. 5 bis 7, §§ 266 bis 268 des Handelsgesetzbuchs und unbeschadet einer weiteren Gliederung die Eröffnungsbilanz gemäß der Verordnung über Formblätter für die Gliederung des Jahresabschlusses von Kreditinstituten in der Fassung der Bekanntmachung vom 14. September 1987 (BGBl. I S. 2169) aufzustellen, und zwar
 
-1.
+1. Geldinstitute, die Kapitalgesellschaft sind, nach dem Muster 1 dieser Verordnung für die Bilanz,
 
-2.
+2. Geldinstitute, die eingetragene Genossenschaft sind, nach dem Muster 2 dieser Verordnung für die Bilanz,
 
-3.
+3. Geldinstitute, die Sparkasse sind, und andere Geldinstitute des öffentlichen Rechts nach Mustern, die durch Änderung dieser Verordnung festgelegt werden.
 
 (2) Geldinstitute haben in der Eröffnungsbilanz Pauschalwertberichtigungen nach § 13 Abs. 3 auf Forderungen aus Bankgeschäften in Höhe von 1 vom Hundert und auf Eventualforderungen des Bankgeschäfts aus Bürgschaften und sonstigen Gewährleistungen in Höhe von 0,5 vom Hundert vom Gesamtbetrag der Forderungen an Kunden abzusetzen, soweit diese sich nicht gegen eine Gebietskörperschaft, eine Körperschaft des öffentlichen Rechts, eine Anstalt oder ein Geldinstitut im Währungsgebiet der Deutschen Mark richten oder von ihnen verbürgt sind.
 
 (3) Die Beibehaltung der Pauschalwertberichtigung in künftigen Bilanzen richtet sich nach den allgemeinen Bewertungsgrundsätzen.
 
-(4) Abweichend von § 16 Abs. 1 sind die nachstehend bezeichneten auf Mark der Deutschen Demokratischen Republik lautenden Verbindlichkeiten der Geldinstitute, die vor dem 1. Juli 1990 begründet wurden, mit der Wirkung auf Deutsche Mark umzurechnen, daß für eine Mark der Deutschen Demokratischen Republik eine Deutsche Mark anzusetzen ist: Verbindlichkeiten gegenüber natürlichen Personen mit Wohnsitz in der Deutschen Demokratischen Republik, sofern sie einen entsprechenden Antrag gestellt haben. Ferner sind die nach dem 31. Dezember 1989 begründeten Verbindlichkeiten gegenüber natürlichen oder juristischen Personen oder Stellen, deren Wohnsitz sich außerhalb der Deutschen Demokratischen Republik befindet, in der Weise umzustellen, daß für drei Mark der Deutschen Demokratischen Republik eine Deutsche Mark gutgeschrieben wird, sofern diese Personen oder Stellen einen entsprechenden Antrag gestellt haben.
+(4) Abweichend von § 16 Abs. 1 sind die nachstehend bezeichneten auf Mark der Deutschen Demokratischen Republik lautenden Verbindlichkeiten der Geldinstitute, die vor dem 1. Juli 1990 begründet wurden, mit der Wirkung auf Deutsche Mark umzurechnen, daß für eine Mark der Deutschen Demokratischen Republik eine Deutsche Mark anzusetzen ist:
 
--
+- die nach dem 1. Juli 1976 geboren sind, bis zu zweitausend Mark,
 
--
+- die zwischen dem 2. Juli 1931 und dem 1. Juli 1976 geboren sind, bis zu viertausend Mark,
 
--
+- die vor dem 2. Juli 1931 geboren sind, bis zu sechstausend Mark,
 
 ### § 40 — Ausgleichsforderungen
 
@@ -535,17 +529,11 @@ und Außenhandelsbetriebe
 
 Geldinstitute haben in der vergleichenden Darstellung nach § 20 außerdem anzugeben,
 
-1.
+1. für welche Forderungen über zehntausend Deutsche Mark sie zum Stichtag 1. Juli 1990 Einzelwertberichtigungen gebildet oder Abschreibungen vorgenommen haben; die abgesetzten Beträge sind anzugeben und zu begründen;
 
-2.
+2. die Anzahl der Konten, auf denen Guthaben in Mark der Deutschen Demokratischen Republika)bis zu zweitausend Deutsche Mark im Verhältnis eins zu eins, b)bis zu viertausend Deutsche Mark im Verhältnis eins zu eins, c)bis zu sechstausend Deutsche Mark im Verhältnis eins zu eins bis zu zweitausend Deutsche Mark im Verhältnis eins zu eins, bis zu viertausend Deutsche Mark im Verhältnis eins zu eins, bis zu sechstausend Deutsche Mark im Verhältnis eins zu eins gutgeschrieben wurden;
 
-a)
-
-b)
-
-c)
-
-3.
+3. den Gesamtbetrag der Guthaben in Mark der Deutschen Demokratischen Republik, für die ein Umstellungsantrag noch gestellt werden kann.
 
 ### § 43 — Prüfung
 
@@ -609,33 +597,15 @@ Die Vorschriften dieses Unterabschnitts sind auf Außenhandelsbetriebe entsprech
 
 ### § 48 — Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats eines Unternehmens oder als Geschäftsleiter im Sinne des § 1 Abs. 2 Satz 1 oder des § 53 Abs. 2 Nr. 1 des Gesetzes über das Kreditwesen oder als Inhaber eines in der Rechtsform des Einzelkaufmanns betriebenen Unternehmens zuwiderhandelt.
+(1) Ordnungswidrig handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats eines Unternehmens oder als Geschäftsleiter im Sinne des § 1 Abs. 2 Satz 1 oder des § 53 Abs. 2 Nr. 1 des Gesetzes über das Kreditwesen oder als Inhaber eines in der Rechtsform des Einzelkaufmanns betriebenen Unternehmens
 
-1.
+1. bei der Aufstellung oder Feststellung der Eröffnungsbilanz oder des Anhangs einer Vorschrifta)des § 4 Abs. 2 Satz 1 oder 2 oder des § 5 Abs. 1 Satz 1 in Verbindung mit § 243 Abs. 1 oder 2, §§ 244, 245, 246, 247 Abs. 1 oder 2, §§ 248, 249 Abs. 1 Satz 1 oder Abs. 3, § 250 Abs. 1 Satz 1 oder Abs. 2 oder § 251 des Handelsgesetzbuchs über Form oder Inhalt,b)des § 5 Abs. 1 Satz 1 in Verbindung mit § 253 Abs. 1 Satz 2, Abs. 2 Satz 1, 2 oder 3 oder Abs. 3 Satz 1 oder 2, § 255 Abs. 1 oder 2 Satz 1, 2 oder 6 des Handelsgesetzbuchs oder der §§ 6 bis 18 über die Bewertung,c)des § 5 Abs. 1 Satz 2 in Verbindung mit § 265 Abs. 3 bis 8, §§ 266, 268 Abs. 3 bis 7 oder § 272 des Handelsgesetzbuchs oder des § 39 Abs. 1 oder 2 oder des § 45 über die Gliederung oderd)des § 19 Abs. 1 bis 3, der §§ 20 oder 22 über die im Anhang zu machenden Angaben, des § 4 Abs. 2 Satz 1 oder 2 oder des § 5 Abs. 1 Satz 1 in Verbindung mit § 243 Abs. 1 oder 2, §§ 244, 245, 246, 247 Abs. 1 oder 2, §§ 248, 249 Abs. 1 Satz 1 oder Abs. 3, § 250 Abs. 1 Satz 1 oder Abs. 2 oder § 251 des Handelsgesetzbuchs über Form oder Inhalt, des § 5 Abs. 1 Satz 1 in Verbindung mit § 253 Abs. 1 Satz 2, Abs. 2 Satz 1, 2 oder 3 oder Abs. 3 Satz 1 oder 2, § 255 Abs. 1 oder 2 Satz 1, 2 oder 6 des Handelsgesetzbuchs oder der §§ 6 bis 18 über die Bewertung, des § 5 Abs. 1 Satz 2 in Verbindung mit § 265 Abs. 3 bis 8, §§ 266, 268 Abs. 3 bis 7 oder § 272 des Handelsgesetzbuchs oder des § 39 Abs. 1 oder 2 oder des § 45 über die Gliederung oder des § 19 Abs. 1 bis 3, der §§ 20 oder 22 über die im Anhang zu machenden Angaben,
 
-a)
+2. bei der Aufstellung der Konzerneröffnungsbilanz oder des Konzernanhangs einer Vorschrifta)des § 21 Abs. 3 über den Konsolidierungskreis,b)des § 21 Abs. 4 Satz 1 in Verbindung mit den §§ 5 bis 19 oder § 297 Abs. 2 oder 3 oder § 298 Abs. 1 des Handelsgesetzbuchs, dieser in Verbindung mit § 243 Abs. 1 oder 2, §§ 244, 245, 246, 247 Abs. 1 oder 2, §§ 248, 249 Abs. 1 Satz 1 oder Abs. 3, § 250 Abs. 1 Satz 1 oder Abs. 2 oder § 251 des Handelsgesetzbuchs, über Form oder Inhalt,c)des § 21 Abs. 4 Satz 1 in Verbindung mit § 300 des Handelsgesetzbuchs über die Konsolidierungsgrundsätze oder das Vollständigkeitsgebot,d)des § 21 Abs. 4 Satz 1 in Verbindung mit § 311 Abs. 1 Satz 1 des Handelsgesetzbuchs, dieser in Verbindung mit § 312 des Handelsgesetzbuchs, über die Behandlung assoziierter Unternehmen, odere)des § 22 über die im Konzernanhang zu machenden Angaben, des § 21 Abs. 3 über den Konsolidierungskreis, des § 21 Abs. 4 Satz 1 in Verbindung mit den §§ 5 bis 19 oder § 297 Abs. 2 oder 3 oder § 298 Abs. 1 des Handelsgesetzbuchs, dieser in Verbindung mit § 243 Abs. 1 oder 2, §§ 244, 245, 246, 247 Abs. 1 oder 2, §§ 248, 249 Abs. 1 Satz 1 oder Abs. 3, § 250 Abs. 1 Satz 1 oder Abs. 2 oder § 251 des Handelsgesetzbuchs, über Form oder Inhalt, des § 21 Abs. 4 Satz 1 in Verbindung mit § 300 des Handelsgesetzbuchs über die Konsolidierungsgrundsätze oder das Vollständigkeitsgebot, des § 21 Abs. 4 Satz 1 in Verbindung mit § 311 Abs. 1 Satz 1 des Handelsgesetzbuchs, dieser in Verbindung mit § 312 des Handelsgesetzbuchs, über die Behandlung assoziierter Unternehmen, oder des § 22 über die im Konzernanhang zu machenden Angaben,
 
-b)
+3. bei der Offenlegung, Veröffentlichung oder Vervielfältigung einer Vorschrift des § 37 Abs. 1 Satz 1 in Verbindung mit § 328 des Handelsgesetzbuchs über Form oder Inhalt oder
 
-c)
-
-d)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-3.
-
-4.
+4. der Vorschrift des § 37 Abs. 4 über die Einreichung der D-Markeröffnungsbilanz
 
 (2) Ordnungswidrig handelt auch, wer zu einer Eröffnungsbilanz oder einem Anhang oder einer Konzerneröffnungsbilanz oder einem Konzernanhang, die auf Grund gesetzlicher Vorschriften zu prüfen sind, einen Vermerk nach § 322 des Handelsgesetzbuchs erteilt, obwohl nach § 34 Abs. 5 in Verbindung mit § 319 Abs. 2, 3, 5, § 319a Abs. 1 Satz 1, Abs. 2 des Handelsgesetzbuchs er oder nach § 34 Abs. 5 in Verbindung mit § 319 Absatz 4 des Handelsgesetzbuchs, auch in Verbindung mit § 319a Absatz 1 Satz 2 des Handelsgesetzbuchs, die Wirtschaftsprüfungsgesellschaft oder Buchprüfungsgesellschaft, für die er tätig wird, nicht Prüfer sein darf.
 
@@ -684,23 +654,23 @@ Bei Steuerpflichtigen mit Einkünften nach § 2 Abs. 3 Nr. 1 bis 3 des Einkommen
 
 (1) Für eine Pensionsverpflichtung darf eine Rückstellung (Pensionsrückstellung) nur gebildet werden, wenn
 
-1.
+1. der Pensionsberechtigte einen Rechtsanspruch auf einmalige oder laufende Pensionsleistungen hat,
 
-2.
+2. die Pensionszusage keinen Vorbehalt enthält, daß die Pensionsanwartschaft oder die Pensionsleistung gemindert oder entzogen werden kann, oder ein solcher Vorbehalt sich nur auf Tatbestände erstreckt, bei deren Vorliegen nach allgemeinen Rechtsgrundsätzen unter Beachtung billigen Ermessens eine Minderung oder ein Entzug der Pensionsanwartschaft oder der Pensionsleistung zulässig ist, und
 
-3.
+3. die Pensionszusage schriftlich erteilt ist.
 
 (2) Eine Pensionsrückstellung darf erstmals gebildet werden
 
-1.
+1. vor Eintritt des Versorgungsfalls für das Wirtschaftsjahr, in dem die Pensionszusage erteilt wird, frühestens jedoch für das Wirtschaftsjahr, bis zu dessen Mitte der Pensionsberechtigte das 30. Lebensjahr vollendet,
 
-2.
+2. nach Eintritt des Versorgungsfalls für das Wirtschaftsjahr, in dem der Versorgungsfall eintritt.
 
-(3) Eine Pensionsrückstellung darf höchstens mit dem Teilwert der Pensionsverpflichtung angesetzt werden. Als Teilwert einer Pensionsverpflichtung gilt Bei der Berechnung des Teilwerts der Pensionsverpflichtung sind ein Rechnungszinsfuß von sechs vom Hundert und die anerkannten Regeln der Versicherungsmathematik anzuwenden.
+(3) Eine Pensionsrückstellung darf höchstens mit dem Teilwert der Pensionsverpflichtung angesetzt werden. Als Teilwert einer Pensionsverpflichtung gilt
 
-1.
+1. vor Beendigung des Dienstverhältnisses des Pensionsberechtigten der Barwert der künftigen Pensionsleistungen am Schluß des Wirtschaftsjahrs abzüglich des sich auf denselben Zeitpunkt ergebenden Barwerts betragsmäßig gleichbleibender Jahresbeträge. Die Jahresbeträge sind so zu bemessen, daß am Beginn des Wirtschaftsjahrs, in dem das Dienstverhältnis begonnen hat, ihr Barwert gleich dem Barwert der künftigen Pensionsleistungen ist; die künftigen Pensionsleistungen sind dabei mit dem Betrag anzusetzen, der sich nach den Verhältnissen am Bilanzstichtag ergibt. Es sind die Jahresbeträge zugrunde zu legen, die vom Beginn des Wirtschaftsjahrs, in dem das Dienstverhältnis begonnen hat, bis zu dem in der Pensionszusage vorgesehenen Zeitpunkt des Eintritts des Versorgungsfalls rechnungsmäßig aufzubringen sind. Erhöhungen oder Verminderungen der Pensionsleistungen nach dem Schluß des Wirtschaftsjahrs, die hinsichtlich des Zeitpunkts ihres Wirksamwerdens oder ihres Umfangs ungewiß sind, sind bei der Berechnung des Barwerts der künftigen Pensionsleistungen und der Jahresbeträge erst zu berücksichtigen, wenn sie eingetreten sind. Wird die Pensionszusage erst nach dem Beginn des Dienstverhältnisses erteilt, so ist die Zwischenzeit für die Berechnung der Jahresbeträge nur insoweit als Wartezeit zu behandeln, als sie in der Pensionszusage als solche bestimmt ist. Hat das Dienstverhältnis schon vor der Vollendung des 30. Lebensjahrs des Pensionsberechtigten bestanden, so gilt es als zu Beginn des Wirtschaftsjahrs begonnen, bis zu dessen Mitte der Pensionsberechtigte das 30. Lebensjahr vollendet;
 
-2.
+2. nach Beendigung des Dienstverhältnisses des Pensionsberechtigten unter Aufrechterhaltung seiner Pensionsanwartschaft oder nach Eintritt des Versorgungsfalls der Barwert der künftigen Pensionsleistungen am Schluß des Wirtschaftsjahrs; Nummer 1 Satz 4 gilt sinngemäß.
 
 (4) Eine Pensionsrückstellung darf höchstens um den Unterschied zwischen dem Teilwert der Pensionsverpflichtung am Schluß des am 31. Dezember 1990 endenden Wirtschaftsjahrs (Erstjahr) und dem Beginn des Wirtschaftsjahrs erhöht werden. Erhöht sich am Schluß des Erstjahrs gegenüber dem Beginn dieses Wirtschaftsjahrs der Barwert der künftigen Pensionsleistungen um mehr als 25 vom Hundert, so kann die für das Erstjahr zulässige Erhöhung der Pensionsrückstellung auf dieses Wirtschaftsjahr und die beiden folgenden Wirtschaftsjahre gleichmäßig verteilt werden. Darf am Schluß des Erstjahrs mit der Bildung einer Pensionsrückstellung begonnen werden, darf die Rückstellung bis zur Höhe des Teilwerts der Pensionsverpflichtung am Schluß dieses Wirtschaftsjahrs gebildet werden. Diese Rückstellung kann auf das Erstjahr und die beiden folgenden Wirtschaftsjahre gleichmäßig verteilt werden. Endet das Dienstverhältnis des Pensionsberechtigten unter Aufrechterhaltung seiner Pensionsanwartschaft im Erstjahr oder tritt der Versorgungsfall in diesem Wirtschaftsjahr ein, darf die Pensionsrückstellung stets bis zur Höhe des Teilwerts der Pensionsverpflichtung gebildet werden. Die für dieses Wirtschaftsjahr zulässige Erhöhung der Pensionsrückstellung kann auf das Erstjahr und die beiden folgenden Wirtschaftsjahre gleichmäßig verteilt werden.
 

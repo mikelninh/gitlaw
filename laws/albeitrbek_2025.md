@@ -12,5 +12,3 @@ Auf Grund des § 68 Satz 1 bis 3 des Gesetzes über die Alterssicherung der Land
 Der Beitrag in der Alterssicherung der Landwirte beträgt für das Kalenderjahr 2025 bundeseinheitlich monatlich 312 Euro.
 
 ### Schlussformel
-
-Bundesministerium für Arbeit und Soziales

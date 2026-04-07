@@ -18,5 +18,3 @@ Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes übertragen wir die Vertre
 Diese Anordnung tritt am Tage nach der Veröffentlichung in Kraft.
 
 ### Schlußformel
-
-Das Direktorium der Deutschen Bundespost

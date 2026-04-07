@@ -22,11 +22,11 @@ Der Binnenschifffahrtsfonds ist nicht rechtsfähig. Er kann unter seinem Namen i
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt verwaltet den Binnenschifffahrtsfonds, führt dessen Geschäfte und vertritt ihn nach außen. Sie hat die überregionalen Binnenschifffahrtsverbände über dessen Wirtschaftsplan und den Jahresabschluss zu unterrichten.
 
-(2) Die Mittel des Binnenschifffahrtsfonds einschließlich der Erträge sind bis zur bestimmungsgemäßen Verwendung zu marktüblichen Bedingungen in Euro anzulegen Das Bundesministerium für Verkehr und digitale Infrastruktur erlässt hierzu Anlagerichtlinien.
+(2) Die Mittel des Binnenschifffahrtsfonds einschließlich der Erträge sind bis zur bestimmungsgemäßen Verwendung zu marktüblichen Bedingungen in Euro anzulegen
 
-1.
+1. in handelbaren Schuldverschreibungen, deren Schuldner der Bund, ein Sondervermögen des Bundes, ein Land, die Europäischen Gemeinschaften, ein anderer Mitgliedstaat der Europäischen Union oder ein anderer Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder die Europäische Investitionsbank sind,
 
-2.
+2. bei geeigneten Kreditinstituten.
 
 ### § 5 — Verwendung der Mittel
 

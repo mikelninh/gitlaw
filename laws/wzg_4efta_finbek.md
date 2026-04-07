@@ -7,7 +7,7 @@
 
 ### I.
 
-Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird bekanntgemacht, daß das Kennzeichen des Gerichtshofs der Europäischen Freihandelsassoziation EFTA (Anlage 1) von der Eintragung als Warenzeichen ausgeschlossen ist.
+Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird bekanntgemacht, daß das Kennzeichen
 
 ### II.
 
@@ -19,12 +19,10 @@ Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 5. April 1994
 
 ### Schlußformel
 
-Bundesministerium der Justiz
-
 ### Anlage 1
 
-Kennzeichen des Gerichtshofs der Europäischen Freihandelsassoziation EFTA(Inhalt: Nicht darstellbares Kennzeichen,Fundstelle: BGBl. I 1994, 3014)
+Kennzeichen des Gerichtshofs der Europäischen Freihandelsassoziation EFTA
 
 ### Anlage 2
 
-Finnisches Prüf- und Gewährzeichen für die Sicherheit elektrischer Geräte (schwarz oder mittelblau)(Inhalt: Nicht darstellbares Prüf- und Gewährzeichen,Fundstelle: BGBl. I 1994, 3014)
+Finnisches Prüf- und Gewährzeichen für die Sicherheit elektrischer Geräte (schwarz oder mittelblau)

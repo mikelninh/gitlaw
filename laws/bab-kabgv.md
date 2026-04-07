@@ -47,5 +47,3 @@ Auf die Konzessionsabgabe sind ergänzend die Vorschriften der Abgabenordnung ü
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden Kalendervierteljahres in Kraft.
 
 ### Anlage — (zu § 2 Abs. 3)
-
-(Fundstelle: BGBl. I 2001, 3764)

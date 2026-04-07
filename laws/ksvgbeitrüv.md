@@ -23,9 +23,9 @@ Auf Grund des § 35 Abs. 2 des Künstlersozialversicherungsgesetzes vom 27. Juli
 
 (1) Gegenstand der Prüfung sind die tatsächlichen und rechtlichen Verhältnisse, die maßgebend sind für die Feststellung
 
-1.
+1. der Versicherungspflicht, der Höhe der Beiträge und der Beitragszuschüsse (Beitragsgrundlagen),
 
-2.
+2. der Abgabepflicht und der Höhe der Künstlersozialabgabe (Abgabegrundlagen).
 
 (2) Die Prüfung kann sich auf Stichproben beschränken.
 
@@ -33,13 +33,13 @@ Auf Grund des § 35 Abs. 2 des Künstlersozialversicherungsgesetzes vom 27. Juli
 
 (1) Die Künstlersozialkasse bestimmt den Zeitpunkt der Prüfung im Rahmen einer ordnungsgemäßen Aufgabenerfüllung; dabei bestimmt sie bei der Prüfung der Versicherten den Zeitpunkt nach Maßgabe des Absatzes 2.
 
-(2) Die Prüfung der Versicherten soll erfolgen, wenn Im übrigen erfolgen Prüfungen von Versicherten im Einzelfall nach dem Ermessen der Künstlersozialkasse.
+(2) Die Prüfung der Versicherten soll erfolgen, wenn
 
-1.
+1. der Künstlersozialkasse Anhaltspunkte dafür vorliegen, daß die Angaben der Versicherten über ihre künstlerische oder publizistische Tätigkeit, ihr voraussichtliches Arbeitseinkommen oder andere für die Durchführung der Versicherung maßgebliche Tatsachen unzutreffend sein können, oder
 
-2.
+2. der Künstlersozialkasse Anhaltspunkte dafür vorliegen, daß Versicherte über ihre künstlerische oder publizistische Tätigkeit oder andere für die Durchführung der Versicherung maßgebliche Tatsachen Angaben nicht gemacht haben, oder
 
-3.
+3. Versicherte in drei aufeinanderfolgenden Jahren eine Meldung nach § 12 Abs. 1 Satz 1 oder Abs. 3 des Künstlersozialversicherungsgesetzes nicht abgegeben haben.
 
 (3) Der Abstand zwischen zwei Prüfungen soll mindestens vier Jahre betragen. Dieser Zeitraum kann unterschritten werden, wenn besondere Gründe bei den zu Prüfenden eine vorzeitige Prüfung gerechtfertigt erscheinen lassen.
 
@@ -53,68 +53,64 @@ Die zu Prüfenden haben bei der Ermittlung der Beitrags- und der Abgabegrundlage
 
 (1) Die Versicherten haben bei der Prüfung ihre Einkommensteuerbescheide vorzulegen.
 
-(2) Liegen Anhaltspunkte dafür vor, daß die Angaben der Versicherten über ihre künstlerische oder publizistische Tätigkeit, ihr voraussichtliches Arbeitseinkommen oder andere für die Durchführung der Versicherung maßgebliche Tatsachen unzutreffend sein können, haben sie auf Verlangen außerdem alle vorhandenen Unterlagen über vorzulegen, soweit die Vorlage für die Feststellung der Versicherungspflicht, der Höhe der Beiträge oder Beitragszuschüsse oder für die Erhebung der Künstlersozialabgabe erforderlich ist.
+(2) Liegen Anhaltspunkte dafür vor, daß die Angaben der Versicherten über ihre künstlerische oder publizistische Tätigkeit, ihr voraussichtliches Arbeitseinkommen oder andere für die Durchführung der Versicherung maßgebliche Tatsachen unzutreffend sein können, haben sie auf Verlangen außerdem alle vorhandenen Unterlagen über
 
-1.
+1. ihre Vertragsbeziehungen, die zur Inanspruchnahme ihrer künstlerischen oder publizistischen Werke oder Leistungen geführt haben,
 
-2.
+2. die dafür erhaltenen Entgelte sowie über die Aufwendungen, die nach den Vorschriften des Einkommensteuerrechts als Betriebsausgaben durch ihre künstlerischen und publizistischen Tätigkeiten veranlaßt worden sind,
 
 ### § 6 — Auskunft
 
-Die Versicherten haben über die Beitrags- und die Abgabegrundlagen Auskunft zu geben, insbesondere über soweit dies für die Feststellung der Versicherungspflicht, der Höhe der Beiträge oder Beitragszuschüsse oder für die Erhebung der Künstlersozialabgabe erforderlich ist.
+Die Versicherten haben über die Beitrags- und die Abgabegrundlagen Auskunft zu geben, insbesondere über
 
-1.
+1. ihren Namen, ihre früheren Namen, ihre Künstlernamen und Pseudonyme, ihr Geburtsdatum und ihren Wohnsitz oder gewöhnlichen Aufenthalt,
 
-2.
+2. die Orte, an denen sie ihre künstlerischen und publizistischen Tätigkeiten ausüben und ausgeübt haben,
 
-3.
+3. die Art und Weise, in der sie ihre künstlerischen und publizistischen Tätigkeiten ausüben und ausgeübt haben,
 
-4.
+4. die Vertragsbeziehungen, die zur Inanspruchnahme ihrer Werke oder Leistungen geführt haben,
 
-5.
+5. die Namen und die Anschriften derjenigen, die ihre Werke oder Leistungen in Anspruch genommen haben,
 
-6.
+6. ihre Einnahmen aus künstlerischen und publizistischen Tätigkeiten sowie die Aufwendungen, die nach den Vorschriften des Einkommensteuerrechts als Betriebsausgaben durch die Tätigkeiten veranlaßt worden sind,
 
-7.
+7. sonstige Zuwendungen, die sie von zur Abgabe Verpflichteten erhalten haben,
 
-8.
+8. die für eine Versicherungsfreiheit oder eine Befreiung von der Versicherungspflicht maßgebenden Tatsachen,
 
-9.
+9. die Annahmen, die der Meldung nach § 12 Abs. 1 Satz 1 des Künstlersozialversicherungsgesetzes zugrunde gelegen haben,
 
 ## Dritter Abschnitt: Pflichten der zur Abgabe
 Verpflichteten
 
 ### § 7 — Vorlage von Unterlagen
 
-Die zur Abgabe Verpflichteten haben bei der Prüfung auf Verlangen vorzulegen, soweit die Vorlage für die Feststellung der Abgabepflicht, der Höhe der Künstlersozialabgabe, der Versicherungspflicht oder der Höhe der Beiträge oder Beitragszuschüsse erforderlich ist.
+Die zur Abgabe Verpflichteten haben bei der Prüfung auf Verlangen
 
-1.
+1. die Aufzeichnungen nach § 28 des Künstlersozialversicherungsgesetzes sowie alle ihnen zugrundeliegenden Unterlagen,
 
-2.
+2. die Verträge, die über künstlerische oder publizistische Werke oder Leistungen abgeschlossen worden sind,
 
-3.
+3. alle zum Rechnungswesen gehörenden Geschäftsbücher und sonstigen Unterlagen, die Eintragungen enthalten oder enthalten können übera)die Vertragsbeziehungen, die zur Inanspruchnahme von künstlerischen oder publizistischen Werken oder Leistungen geführt haben,b)die dafür gezahlten Entgelte, die Vertragsbeziehungen, die zur Inanspruchnahme von künstlerischen oder publizistischen Werken oder Leistungen geführt haben, die dafür gezahlten Entgelte,
 
-a)
+4. die Meldungen nach § 28a Absatz 1 Satz 1 Nummer 1 und 2, Abs. 2 und 9 des Vierten Buches Sozialgesetzbuch sowie die Entgeltunterlagen nach § 8 der Beitragsverfahrensverordnung,
 
-b)
-
-4.
-
-5.
+5. Auszüge aus den Prüfberichten der Finanzbehörden und die Prüfungsmitteilungen der Versicherungsträger,
 
 ### § 8 — Auskunft
 
-Die zur Abgabe Verpflichteten haben über die Abgabe- und die Beitragsgrundlagen Auskunft zu geben, insbesondere über soweit dies für die Feststellung der Abgabepflicht, der Höhe der Künstlersozialabgabe, der Versicherungspflicht oder der Höhe der Beiträge oder Beitragszuschüsse erforderlich ist.
+Die zur Abgabe Verpflichteten haben über die Abgabe- und die Beitragsgrundlagen Auskunft zu geben, insbesondere über
 
-1.
+1. Namen, Künstlernamen oder Pseudonyme sowie die Anschriften der Personen, an die sie Entgelte für künstlerische oder publizistische Werke oder Leistungen gezahlt haben,
 
-2.
+2. die Art und Weise, in der Künstler oder Publizisten für sie tätig geworden sind,
 
-3.
+3. die Vertragsbeziehungen, die zur Inanspruchnahme der Werke oder Leistungen geführt haben,
 
-4.
+4. die gezahlten Entgelte,
 
-5.
+5. die Meldungen, Berechnungen und Zahlungen nach § 27 des Künstlersozialversicherungsgesetzes,
 
 ## Vierter Abschnitt: Außenprüfungen
 

@@ -24,11 +24,11 @@ Altersrückstellungen und Deckungskapital für Altersversorgungsverpflichtungen 
 
 (2) Für die Ermittlung des Barwertes der Altersversorgungsverpflichtungen sind folgende Annahmen zugrunde zu legen:
 
-1.
+1. Rechnungszins in Höhe von 4,25 Prozent,
 
-2.
+2. bei gehaltsabhängigen Versorgungszusagen ein jährlicher Anstieg der ruhegehaltsfähigen Dienstbezüge und Vergütungen um 1,5 Prozent,
 
-3.
+3. jährlicher Anstieg der Versorgungsbezüge und Renten um 1 Prozent.
 
 (3) Die Renten und Anwartschaften zum 31. Dezember 2049 werden für diejenigen Versorgungsanwärter und Versorgungsanwärterinnen sowie Rentner und Rentnerinnen ermittelt, deren um vier Jahre erhöhte durchschnittliche Lebenserwartung nach dem 31. Dezember 2049 endet. Die Regelaltersgrenze wird nach dem Geburtsjahrgang festgesetzt. Der Barwert der Beihilfeverpflichtungen ist unter Berücksichtigung der altersabhängigen Kostenentwicklung gesondert zu berechnen.
 
@@ -36,19 +36,9 @@ Altersrückstellungen und Deckungskapital für Altersversorgungsverpflichtungen 
 
 (1) Erforderlich ist ein Zuweisungsbetrag, der in jährlich gleichbleibender Höhe zum Aufbau des benötigten Deckungskapitals führt.
 
-(2) Der Zuweisungsbetrag nach Absatz 1 wird ermittelt, indem das bis zum 31. Dezember 2049 zu bildende Deckungskapital mit einem Quotienten multipliziert wird, der im Dividend den nach § 3 Absatz 2 Nummer 1 zu verwendenden Rechnungszins enthält und dessen Divisor dem Aufzinsungsfaktor, verringert um 1, entspricht. Bereits gebildetes Deckungskapital wird berücksichtigt, indem das gebildete Deckungskapital mit dem Rechnungszins nach § 3 Absatz 2 Nummer 1 über die Restlaufzeit aufgezinst und von dem insgesamt zu bildenden Deckungskapital subtrahiert wird. Es ergibt sich für die Berechnung des Zuweisungsbetrages nach Absatz 1 somit folgende Formel:Solange der jährliche Zuweisungsbetrag (z) kleiner oder gleich Null ist, sind keine Zuführungen zum Deckungskapital zu leisten.
+(2) Der Zuweisungsbetrag nach Absatz 1 wird ermittelt, indem das bis zum 31. Dezember 2049 zu bildende Deckungskapital mit einem Quotienten multipliziert wird, der im Dividend den nach § 3 Absatz 2 Nummer 1 zu verwendenden Rechnungszins enthält und dessen Divisor dem Aufzinsungsfaktor, verringert um 1, entspricht. Bereits gebildetes Deckungskapital wird berücksichtigt, indem das gebildete Deckungskapital mit dem Rechnungszins nach § 3 Absatz 2 Nummer 1 über die Restlaufzeit aufgezinst und von dem insgesamt zu bildenden Deckungskapital subtrahiert wird. Es ergibt sich für die Berechnung des Zuweisungsbetrages nach Absatz 1 somit folgende Formel:
 
-mit
-
-z
-
-D
-
-B
-
-t
-
-i
+mit z= jährlich dem Deckungskapital in gleicher Höhe zuzuführender Zuweisungsbetrag,D= bis zum 31. Dezember 2049 zu bildendes Deckungskapital für Versorgungszusagen gemäß § 170 Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch,B= bereits gebildetes Deckungskapital,t= Restlaufzeit bis zum 31. Dezember 2049 in Jahren,i= Rechnungszins gemäß § 3 Absatz 2 Nummer 1. jährlich dem Deckungskapital in gleicher Höhe zuzuführender Zuweisungsbetrag, bis zum 31. Dezember 2049 zu bildendes Deckungskapital für Versorgungszusagen gemäß § 170 Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch, bereits gebildetes Deckungskapital, Restlaufzeit bis zum 31. Dezember 2049 in Jahren, Rechnungszins gemäß § 3 Absatz 2 Nummer 1.
 
 (3) Die Höhe des Deckungskapitals, der Altersrückstellungen und des erforderlichen jährlichen Zuweisungsbetrages sind bei wesentlichen Änderungen der Berechnungsgrundlagen, spätestens aber alle fünf Jahre zu überprüfen. Der Zuweisungsbetrag ist anzupassen, sobald sich auf Grund einer Überprüfung der Berechnungsgrundlagen nach Satz 1 die Höhe des zum 31. Dezember 2049 aufzubauenden Deckungskapitals verändert.
 

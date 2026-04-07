@@ -11,7 +11,7 @@ Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des Bundesbeamtengesetzes
 
 ### § 1 — Zuständigkeit im Widerspruchsverfahren
 
-Dem Bundesverwaltungsamt wird die Zuständigkeit für den Erlass des Widerspruchsbescheids nach § 126 Absatz 3 Satz 1 des Bundesbeamtengesetzes in Angelegenheiten der Besoldung und der Beihilfe widerruflich übertragen, soweit Widerspruchsführerin oder Widerspruchsführer eine Beamtin oder ein Beamter des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen ist und das Bundesministerium die Maßnahme nicht selbst getroffen hat.
+Dem Bundesverwaltungsamt wird die Zuständigkeit für den Erlass des Widerspruchsbescheids nach § 126 Absatz 3 Satz 1 des Bundesbeamtengesetzes in Angelegenheiten der Besoldung und der Beihilfe widerruflich übertragen, soweit Widerspruchsführerin oder Widerspruchsführer eine Beamtin oder ein Beamter des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen ist und das Bundesministerium die Maßnahme nicht selbst getroffen hat.
 
 ### § 2 — Vertretung bei Klagen
 
@@ -29,15 +29,15 @@ Dem Bundesverwaltungsamt wird die Zuständigkeit für die Beihilfefestsetzung f�
 
 (1) Dem Bundesverwaltungsamt werden, soweit Beamtinnen und Beamte des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen betroffen sind, übertragen:
 
-1.
+1. die Zuständigkeit für die Anordnung einer ärztlichen Untersuchung nach § 35 Absatz 3 Satz 2 des Beamtenversorgungsgesetzes,
 
-2.
+2. die Zuständigkeit für die Anordnung einer ärztlichen Untersuchung nach § 38 Absatz 6 Satz 2 des Beamtenversorgungsgesetzes,
 
-3.
+3. die Zuständigkeit für die Versagung der Unfallfürsorge (§ 44 Absatz 2 Satz 1 des Beamtenversorgungsgesetzes),
 
-4.
+4. die Zuständigkeit für die Entscheidung, ob ein Dienstunfall vorliegt und ob der oder die Verletzte den Unfall vorsätzlich herbeigeführt hat (§ 45 Absatz 3 Satz 2 des Beamtenversorgungsgesetzes).
 
-(2) Für die Fälle nach Absatz 1 wird dem Bundesverwaltungsamt widerruflich die Zuständigkeit für den Erlass des Widerspruchsbescheides nach § 126 Absatz 3 Satz 2 des Bundesbeamtengesetzes übertragen, soweit Widerspruchsführerin oder Widerspruchsführer eine Beamtin oder ein Beamter des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen ist und das Bundesministerium die Maßnahme nicht selbst getroffen hat.
+(2) Für die Fälle nach Absatz 1 wird dem Bundesverwaltungsamt widerruflich die Zuständigkeit für den Erlass des Widerspruchsbescheides nach § 126 Absatz 3 Satz 2 des Bundesbeamtengesetzes übertragen, soweit Widerspruchsführerin oder Widerspruchsführer eine Beamtin oder ein Beamter des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen ist und das Bundesministerium die Maßnahme nicht selbst getroffen hat.
 
 (3) Die Vertretung der Bundesrepublik Deutschland bei Klagen in Fällen nach Absatz 1 wird nach § 127 Absatz 3 Satz 1 des Bundesbeamtengesetzes dem Bundesverwaltungsamt übertragen, soweit es für den Erlass des Widerspruchsbescheides zuständig war.
 
@@ -50,5 +50,3 @@ Für besondere Fälle bleibt vorbehalten, im Einzelfall die Befugnisse nach den 
 Diese Anordnung tritt mit Wirkung vom 2. August 2022 in Kraft.
 
 ### Schlussformel
-
-Die Bundesministerin für Wohnen, Stadtentwicklung und Bauwesen

@@ -14,41 +14,37 @@ Vergütungen für Mehrarbeit an Beamtinnen und Beamte des Bundes dürfen nur nac
 
 (1) Beamtinnen und Beamten mit Dienstbezügen in Besoldungsgruppen mit aufsteigenden Gehältern kann in folgenden Bereichen für Mehrarbeit eine Vergütung gewährt werden:
 
-1.
+1. im ärztlichen und Pflegedienst der Krankenhäuser, Kliniken und Sanatorien,
 
-2.
+2. im Betriebsdienst des Bundeseisenbahnvermögens, soweit dieser bei der Deutsche Bahn Aktiengesellschaft sowie einer gemäß § 2 Abs. 1 und § 3 Abs. 3 des Deutsche Bahn Gründungsgesetzes vom 27. Dezember 1993 (BGBl. I S. 2378, 2386) ausgegliederten Gesellschaft geleistet wird, und im Dienst der Nachfolgeunternehmen der Deutschen Bundespost,
 
-3.
+3. im Abfertigungsdienst der Zollverwaltung,
 
-4.
+4. im polizeilichen Vollzugsdienst,
 
-5.
+5. im Einsatzdienst der Berufsfeuerwehr,
 
-6.
+6. im Schuldienst als Lehrkraft.
 
 (2) Absatz 1 gilt entsprechend auch in anderen Bereichen, soweit Mehrarbeit geleistet wird im Rahmen eines
 
-1.
+1. Dienstes in Bereitschaft,
 
-2.
+2. Schichtdienstes,
 
-3.
+3. allgemein geltenden besonderen Dienstplanes, wenn ihn die Eigenart des Dienstes erfordert,
 
-4.
+4. Dienstes, der ausschließlich aus gleichartigen, im wesentlichen die gleiche Arbeitszeit erfordernden Arbeitsvorgängen besteht, für die der Dienstherr Richtwerte eingeführt hat,
 
-5.
+5. Dienstes zur Herbeiführung eines im öffentlichen Interesse liegenden unaufschiebbaren und termingebundenen Ergebnisses.
 
-(3) Eine Mehrarbeitsvergütung wird nicht gewährt neben Abweichend von Satz 1 Nummer 2 kann im Geschäftsbereich des Bundesministeriums der Verteidigung neben Auslandsdienstbezügen nach § 52 des Bundesbesoldungsgesetzes eine Vergütung für Mehrarbeit gewährt werden, wenn eine Dienstbefreiung nicht möglich ist wegen
+(3) Eine Mehrarbeitsvergütung wird nicht gewährt neben
 
-1.
+1. einer Vergütung nach § 50c des Bundesbesoldungsgesetzes,
 
-2.
+2. Auslandsbesoldung nach Abschnitt 5 des Bundesbesoldungsgesetzes,
 
-3.
-
-1.
-
-2.
+3. einer Vergütung nach der Sanitätsdienstvergütungsverordnung.
 
 (4) Ist die Gewährung einer Mehrarbeitsvergütung neben einer Zulage ganz oder teilweise ausgeschlossen, gilt dies auch für eine nach Wegfall der Zulage gewährte Ausgleichszulage, solange diese noch nicht bis zur Hälfte aufgezehrt ist.
 
@@ -56,13 +52,13 @@ Vergütungen für Mehrarbeit an Beamtinnen und Beamte des Bundes dürfen nur nac
 
 (1) Die Vergütung wird nur gewährt, wenn die Mehrarbeit
 
-1.
+1. von Beamtinnen und Beamten geleistet wurde, für die beamtenrechtliche Arbeitszeitregelungen gelten,
 
-2.
+2. schriftlich oder elektronisch angeordnet oder genehmigt wurde,
 
-3.
+3. aus zwingenden dienstlichen Gründen nicht durch Dienstbefreiung innerhalb einer Ausschlussfrist von einem Jahr ausgeglichen werden kann und
 
-4.
+4. die sich aus der regelmäßigen wöchentlichen Arbeitszeit ergebende Arbeitszeit um mehr als fünf Stunden im Kalendermonat (Mindeststundenzahl) übersteigt.
 
 (2) Soweit nur während eines Teils eines Kalendermonats Dienst geleistet wurde, gilt die Mindeststundenzahl für die jeweils anteilige Arbeitszeit. Sie verkürzt sich bei Teilzeitbeschäftigung entsprechend dem Umfang der bewilligten Teilzeitbeschäftigung.
 
@@ -70,11 +66,7 @@ Vergütungen für Mehrarbeit an Beamtinnen und Beamte des Bundes dürfen nur nac
 
 ### § 4
 
-(1) Die Vergütung beträgt je Stunde
-
 (2) Diese Beträge gelten auch für Beamtinnen und Beamte vergleichbarer Besoldungsgruppen, die der Bundesbesoldungsordnung C angehören.
-
-(3) Bei Mehrarbeit im Schuldienst beträgt die Vergütung abweichend von Absatz 1 je Unterrichtsstunde für Lehrkräfte an Fachhochschulen und Fachschulen des Bundes
 
 (4) Die in den Absätzen 1 und 3 enthaltenen Vergütungssätze gelten nur für Mehrarbeit, die nach dem Inkrafttreten dieser Sätze geleistet wird.
 

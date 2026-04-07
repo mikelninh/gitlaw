@@ -15,7 +15,17 @@ Die Betriebszeiten der Schleusen an den Bundeswasserstraßen im Zuständigkeitsb
 
 ### § 2 — Schleusungen außerhalb der Betriebszeiten
 
-1. Schleusungen außerhalb der im Anhang bestimmten Betriebszeiten können auf Antrag von dem zuständigen Wasser- und Schifffahrtsamt erlaubt werden. Der Antrag muss spätestens 24 Stunden vor der Schleusung bei dem zuständigen Wasser- und Schifffahrtsamt eingegangen sein. Der Antrag muss folgende Angaben enthalten:a)den Namen des Antragstellers und des Schiffsführers,b)den Namen oder die Bezeichnung des Fahrzeuges sowie bei Verbänden Ihre Art und Zusammenstellung,c)die Angaben der Schleusen, die durchfahren werden sollen,d)den Zeitpunkt des Eintreffens an den Schleusen.2. Wird eine nach § 2 Abs. 1 erlaubte Fahrt nicht angetreten, ist das zuständige Wasser- und Schifffahrtsamt unverzüglich zu benachrichtigen. Wird eine nach § 2 Abs. 1 erlaubte Fahrt abgebrochen, ist die nächste noch nicht durchfahrende Schleuse unverzüglich zu benachrichtigen.
+1. Schleusungen außerhalb der im Anhang bestimmten Betriebszeiten können auf Antrag von dem zuständigen Wasser- und Schifffahrtsamt erlaubt werden. Der Antrag muss spätestens 24 Stunden vor der Schleusung bei dem zuständigen Wasser- und Schifffahrtsamt eingegangen sein. Der Antrag muss folgende Angaben enthalten:
+
+a) den Namen des Antragstellers und des Schiffsführers,
+
+b) den Namen oder die Bezeichnung des Fahrzeuges sowie bei Verbänden Ihre Art und Zusammenstellung,
+
+c) die Angaben der Schleusen, die durchfahren werden sollen,
+
+d) den Zeitpunkt des Eintreffens an den Schleusen.
+
+2. Wird eine nach § 2 Abs. 1 erlaubte Fahrt nicht angetreten, ist das zuständige Wasser- und Schifffahrtsamt unverzüglich zu benachrichtigen. Wird eine nach § 2 Abs. 1 erlaubte Fahrt abgebrochen, ist die nächste noch nicht durchfahrende Schleuse unverzüglich zu benachrichtigen.
 
 ### § 3 — Abweichungen von Schleusenbetriebszeiten
 
@@ -30,5 +40,3 @@ Von den im Anhang festgesetzten Schleusenbetriebszeiten kann aus verkehrlichen u
 Die Verordnung tritt am 1. Januar 2009 in Kraft.
 
 ### Anhang — Anhang zur Schleusenbetriebzeitenverordnung mit den ab 1. Januar 2009 geltenden Schleusenbetriebszeiten
-
-(Fundstelle: VkBl 2008, S. 673)

@@ -18,15 +18,21 @@ Für den Erholungsurlaub der Berufssoldatinnen, Berufssoldaten, Soldatinnen auf 
 
 ### § 4 — Erholungsurlaub der Soldatinnen auf Zeit und Soldaten auf Zeit im letzten Urlaubsjahr und vor Beginn des Fachschulbesuches
 
-(1) Läuft die Zeit, für die eine Soldatin auf Zeit oder ein Soldat auf Zeit in ihr oder sein Dienstverhältnis berufen ist, vor Ende des Urlaubsjahres ab, so beträgt der Erholungsurlaub für dieses Urlaubsjahr ein Zwölftel des Jahresurlaubs für jeden vollen Monat der Dienstzeit.(2) Soldatinnen und Soldaten, die eine Maßnahme der schulischen oder beruflichen Bildung nach § 7 des Soldatenversorgungsgesetzes in Anspruch nehmen wollen, wird vor Beginn der Maßnahme Erholungsurlaub für dieses Urlaubsjahr nur anteilig gewährt. Für jeden vollen Monat der militärischen Dienstleistung vor Beginn der Maßnahme ist ein Zwölftel des Jahreserholungsurlaubs zu gewähren.
+(1) Läuft die Zeit, für die eine Soldatin auf Zeit oder ein Soldat auf Zeit in ihr oder sein Dienstverhältnis berufen ist, vor Ende des Urlaubsjahres ab, so beträgt der Erholungsurlaub für dieses Urlaubsjahr ein Zwölftel des Jahresurlaubs für jeden vollen Monat der Dienstzeit.
+
+(2) Soldatinnen und Soldaten, die eine Maßnahme der schulischen oder beruflichen Bildung nach § 7 des Soldatenversorgungsgesetzes in Anspruch nehmen wollen, wird vor Beginn der Maßnahme Erholungsurlaub für dieses Urlaubsjahr nur anteilig gewährt. Für jeden vollen Monat der militärischen Dienstleistung vor Beginn der Maßnahme ist ein Zwölftel des Jahreserholungsurlaubs zu gewähren.
 
 ### § 5 — Erholungsurlaub der sonstigen Soldatinnen und Soldaten
 
-(1) Soldatinnen und Soldaten, die Wehrdienst nach Maßgabe des Wehrpflichtgesetzes oder des § 58b des Soldatengesetzes leisten, erhalten für jeden vollen Monat ihrer Dienstzeit ein Zwölftel des Jahreserholungsurlaubs nach § 1, wenn die Dauer des ohne Unterbrechung abgeleisteten Wehrdienstes mindestens einen Monat beträgt.(2) Absatz 1 gilt entsprechend für Soldatinnen und Soldaten, die Dienstleistungen nach § 60 des Soldatengesetzes erbringen.
+(1) Soldatinnen und Soldaten, die Wehrdienst nach Maßgabe des Wehrpflichtgesetzes oder des § 58b des Soldatengesetzes leisten, erhalten für jeden vollen Monat ihrer Dienstzeit ein Zwölftel des Jahreserholungsurlaubs nach § 1, wenn die Dauer des ohne Unterbrechung abgeleisteten Wehrdienstes mindestens einen Monat beträgt.
+
+(2) Absatz 1 gilt entsprechend für Soldatinnen und Soldaten, die Dienstleistungen nach § 60 des Soldatengesetzes erbringen.
 
 ### § 6 — Urlaub zur Erhaltung der Einsatzfähigkeit
 
-(1) Soldatinnen und Soldaten kann nach einem Einsatz, durch dessen Besonderheiten sie außergewöhnlichen Belastungen ausgesetzt waren, zur Erhaltung ihrer Einsatzfähigkeit angemessener Urlaub im Einzelfall bis zu einer Woche unter Belassung der Geld- und Sachbezüge gewährt werden.(2) Das Bundesministerium der Verteidigung stellt in Verwaltungsvorschriften fest, welcher Einsatz mit außergewöhnlichen Belastungen verbunden ist, und bestimmt, in welchem Umfang Urlaub für die einzelnen Arten eines solchen Einsatzes gewährt werden kann.
+(1) Soldatinnen und Soldaten kann nach einem Einsatz, durch dessen Besonderheiten sie außergewöhnlichen Belastungen ausgesetzt waren, zur Erhaltung ihrer Einsatzfähigkeit angemessener Urlaub im Einzelfall bis zu einer Woche unter Belassung der Geld- und Sachbezüge gewährt werden.
+
+(2) Das Bundesministerium der Verteidigung stellt in Verwaltungsvorschriften fest, welcher Einsatz mit außergewöhnlichen Belastungen verbunden ist, und bestimmt, in welchem Umfang Urlaub für die einzelnen Arten eines solchen Einsatzes gewährt werden kann.
 
 ### § 7 — Urlaub zur Wiederherstellung der vollen Dienstfähigkeit
 

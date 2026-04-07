@@ -36,31 +36,31 @@ Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen Berufsqualifi
 
 (1) Die zuständige Stelle stellt auf Antrag die Gleichwertigkeit fest, sofern
 
-1.
+1. der im Ausland erworbene Ausbildungsnachweis die Befähigung zu vergleichbaren beruflichen Tätigkeiten wie der entsprechende inländische Ausbildungsnachweis belegt und
 
-2.
+2. zwischen den nachgewiesenen Berufsqualifikationen und der entsprechenden inländischen Berufsbildung keine wesentlichen Unterschiede bestehen.
 
 (2) Wesentliche Unterschiede zwischen den nachgewiesenen Berufsqualifikationen und der entsprechenden inländischen Berufsbildung liegen vor, sofern
 
-1.
+1. sich der im Ausland erworbene Ausbildungsnachweis auf Fertigkeiten, Kenntnisse und Fähigkeiten bezieht, die sich hinsichtlich der vermittelten Inhalte oder auf Grund der Ausbildungsdauer wesentlich von den Fertigkeiten, Kenntnissen und Fähigkeiten unterscheiden, auf die sich der entsprechende inländische Ausbildungsnachweis bezieht,
 
-2.
+2. die nach Nummer 1 abweichenden Fertigkeiten, Kenntnisse und Fähigkeiten für die Ausübung des jeweiligen Berufs wesentlich sind und
 
-3.
+3. die Antragstellerin oder der Antragsteller diese Unterschiede nicht durch sonstige Befähigungsnachweise, nachgewiesene einschlägige Berufserfahrung oder sonstige nachgewiesene einschlägige Qualifikationen ausgeglichen hat.
 
 ### § 5 — Vorzulegende Unterlagen
 
 (1) Dem Antrag sind folgende Unterlagen beizufügen:
 
-1.
+1. eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten in deutscher Sprache,
 
-2.
+2. ein Identitätsnachweis,
 
-3.
+3. im Ausland erworbene Ausbildungsnachweise,
 
-4.
+4. Nachweise über einschlägige Berufserfahrung oder sonstige Befähigungsnachweise, sofern diese zur Feststellung der Gleichwertigkeit erforderlich sind, und
 
-5.
+5. eine Erklärung, dass bisher noch kein Antrag auf Feststellung der Gleichwertigkeit gestellt wurde.
 
 (2) Die Unterlagen nach Absatz 1 Nummer 2 bis 4 sind der zuständigen Stelle in Form von Kopien vorzulegen oder elektronisch zu übermitteln. Von den Unterlagen nach Absatz 1 Nummer 3 und 4 sind Übersetzungen in deutscher Sprache vorzulegen. Darüber hinaus kann die zuständige Stelle von den Unterlagen nach Absatz 1 Nummer 2 und allen nachgereichten Unterlagen Übersetzungen in deutscher Sprache verlangen. Die Übersetzungen sind von einem öffentlich bestellten oder beeidigten Dolmetscher oder Übersetzer erstellen zu lassen.
 
@@ -70,13 +70,13 @@ Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen Berufsqualifi
 
 (5) Bestehen begründete Zweifel an der Echtheit oder der inhaltlichen Richtigkeit der vorgelegten Unterlagen, kann die zuständige Stelle die Antragstellerin oder den Antragsteller auffordern, innerhalb einer angemessenen Frist Originale, beglaubigte Kopien oder weitere geeignete Unterlagen vorzulegen.
 
-(6) Die Antragstellerin oder der Antragsteller hat durch geeignete Unterlagen darzulegen, im Inland eine Erwerbstätigkeit ausüben zu wollen. Geeignete Unterlagen sind beispielsweise Die zuständige Stelle darf nicht zwingend einen Vermerk über eine Standortberatung nach Nummer 3 fordern, wenn durch andere Unterlagen die Erwerbsabsicht dargelegt wurde. Für Antragstellerinnen oder Antragsteller mit Wohnsitz in einem Mitgliedstaat der Europäischen Union, einem weiteren Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz sowie für Staatsangehörige dieser Staaten ist diese Darlegung entbehrlich, sofern keine besonderen Gründe gegen eine entsprechende Absicht sprechen.
+(6) Die Antragstellerin oder der Antragsteller hat durch geeignete Unterlagen darzulegen, im Inland eine Erwerbstätigkeit ausüben zu wollen. Geeignete Unterlagen sind beispielsweise
 
-1.
+1. der Nachweis einer Kontaktaufnahme mit potenziellen Arbeitgebern,
 
-2.
+2. ein Geschäftskonzept oder
 
-3.
+3. der Vermerk über eine Standortberatung der Zentralen Servicestelle Berufsanerkennung.
 
 ### § 6 — Verfahren
 
@@ -104,17 +104,17 @@ Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen Berufsqualifi
 
 (1) Zuständige Stelle im Sinne dieses Kapitels bei einer Berufsbildung,
 
-1.
+1. die nach dem Berufsbildungsgesetz für den Bereich der nichthandwerklichen Gewerbeberufe geregelt ist, ist die Industrie- und Handelskammer;
 
-2.
+2. die nach der Handwerksordnung geregelt ist, ist die Handwerkskammer;
 
-3.
+3. die nach dem Berufsbildungsgesetz für den Bereich der Landwirtschaft geregelt ist, ist die Landwirtschaftskammer;
 
-4.
+4. die nach dem Berufsbildungsgesetz für den Bereich der Rechtspflege geregelt ist, sind jeweils für ihren Bereich die Rechtsanwalts-, Patentanwalts- und die Notarkammern;
 
-5.
+5. die nach dem Berufsbildungsgesetz für den Bereich der Wirtschaftsprüfung und Steuerberatung geregelt ist, sind jeweils für ihren Bereich die Wirtschaftsprüfer- und die Steuerberaterkammern;
 
-6.
+6. die nach dem Berufsbildungsgesetz für den Bereich der Gesundheitsdienstberufe geregelt ist, sind jeweils für ihren Bereich die Ärzte-, Zahnärzte-, Tierärzte- und die Apothekerkammern.
 
 (2) Soweit keine Kammern für einzelne Berufsbereiche des Absatzes 1 bestehen, bestimmt das Land die zuständige Stelle.
 
@@ -130,19 +130,19 @@ Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen Berufsqualifi
 
 (1) Bei der Entscheidung über die Befugnis zur Aufnahme oder Ausübung eines im Inland reglementierten Berufs gilt der im Ausland erworbene Ausbildungsnachweis, unter Berücksichtigung sonstiger nachgewiesener Berufsqualifikationen, als gleichwertig mit dem entsprechenden inländischen Ausbildungsnachweis, sofern
 
-1.
+1. der im Ausland erworbene Ausbildungsnachweis die Befähigung zu vergleichbaren beruflichen Tätigkeiten wie der entsprechende inländische Ausbildungsnachweis belegt,
 
-2.
+2. die Antragstellerin oder der Antragsteller bei einem sowohl im Inland als auch im Ausbildungsstaat reglementierten Beruf zur Ausübung des jeweiligen Berufs im Ausbildungsstaat berechtigt ist oder die Befugnis zur Aufnahme oder Ausübung des jeweiligen Berufs aus Gründen verwehrt wurde, die der Aufnahme oder Ausübung im Inland nicht entgegenstehen, und
 
-3.
+3. zwischen den nachgewiesenen Berufsqualifikationen und der entsprechenden inländischen Berufsbildung keine wesentlichen Unterschiede bestehen.
 
 (2) Wesentliche Unterschiede zwischen den nachgewiesenen Berufsqualifikationen und der entsprechenden inländischen Berufsbildung liegen vor, sofern
 
-1.
+1. sich der im Ausland erworbene Ausbildungsnachweis auf Fähigkeiten und Kenntnisse bezieht, die sich hinsichtlich des Inhalts oder auf Grund der Ausbildungsdauer wesentlich von den Fähigkeiten und Kenntnissen unterscheiden, auf die sich der entsprechende inländische Ausbildungsnachweis bezieht,
 
-2.
+2. die entsprechenden Fähigkeiten und Kenntnisse eine maßgebliche Voraussetzung für die Ausübung des jeweiligen Berufs darstellen und
 
-3.
+3. die Antragstellerin oder der Antragsteller diese Unterschiede nicht durch sonstige Befähigungsnachweise, nachgewiesene einschlägige Berufserfahrung oder sonstige nachgewiesene einschlägige Qualifikationen ausgeglichen hat.
 
 ### § 10 — Feststellung der vorhandenen Berufsqualifikationen
 
@@ -164,17 +164,17 @@ Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen Berufsqualifi
 
 (1) Zur Bewertung der Gleichwertigkeit sind dem Antrag auf Befugnis zur Aufnahme oder Ausübung eines im Inland reglementierten Berufs folgende Unterlagen beizufügen:
 
-1.
+1. eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten in deutscher Sprache,
 
-2.
+2. ein Identitätsnachweis,
 
-3.
+3. im Ausland erworbene Ausbildungsnachweise,
 
-4.
+4. Nachweise über einschlägige Berufserfahrungen und sonstige Befähigungsnachweise, sofern diese zur Feststellung der Gleichwertigkeit erforderlich sind,
 
-5.
+5. im Falle von § 9 Absatz 1 Nummer 2 eine Bescheinigung über die Berechtigung zur Berufsausübung im Ausbildungsstaat und
 
-6.
+6. eine Erklärung, dass bisher noch kein Antrag auf Feststellung der Gleichwertigkeit gestellt wurde.
 
 (2) Die Unterlagen nach Absatz 1 Nummer 2 bis 5 sind der zuständigen Stelle in Form von Kopien vorzulegen oder elektronisch zu übermitteln. Von den Unterlagen nach Absatz 1 Nummer 3 bis 5 sind Übersetzungen in deutscher Sprache vorzulegen. Darüber hinaus kann die zuständige Stelle von den Unterlagen nach Absatz 1 Nummer 2 und allen nachgereichten Unterlagen Übersetzungen in deutscher Sprache verlangen. Die Übersetzungen sind von einem öffentlich bestellten oder beeidigten Dolmetscher oder Übersetzer erstellen zu lassen.
 
@@ -184,13 +184,13 @@ Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen Berufsqualifi
 
 (5) Bestehen begründete Zweifel an der Echtheit oder der inhaltlichen Richtigkeit der vorgelegten Unterlagen, kann die zuständige Stelle die Antragstellerin oder den Antragsteller auffordern, innerhalb einer angemessenen Frist Originale, beglaubigte Kopien oder weitere geeignete Unterlagen vorzulegen. Im Fall einer gerichtlichen Feststellung, dass eine Antragstellerin oder ein Antragsteller in einem Verfahren nach diesem Kapitel gefälschte Nachweise über Berufsqualifikationen verwendet hat, unterrichtet die zuständige Stelle spätestens drei Tage nach Rechtskraft dieser Feststellung die zuständigen Stellen der übrigen Mitgliedstaaten der Europäischen Union oder weiteren Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum über das Binnenmarkt-Informationssystem über die Identität der betreffenden Person.
 
-(6) Die Antragstellerin oder der Antragsteller hat durch geeignete Unterlagen darzulegen, im Inland eine Erwerbstätigkeit ausüben zu wollen. Geeignete Unterlagen sind beispielsweise Die zuständige Stelle darf nicht zwingend einen Vermerk über eine Standortberatung nach Nummer 3 fordern, wenn durch andere Unterlagen die Erwerbsabsicht dargelegt wurde. Für Antragstellerinnen oder Antragsteller mit Wohnsitz in einem Mitgliedstaat der Europäischen Union, einem weiteren Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz sowie für Staatsangehörige dieser Staaten ist diese Darlegung entbehrlich, sofern keine besonderen Gründe gegen eine entsprechende Absicht sprechen.
+(6) Die Antragstellerin oder der Antragsteller hat durch geeignete Unterlagen darzulegen, im Inland eine Erwerbstätigkeit ausüben zu wollen. Geeignete Unterlagen sind beispielsweise
 
-1.
+1. der Nachweis einer Kontaktaufnahme mit potenziellen Arbeitgebern,
 
-2.
+2. ein Geschäftskonzept oder
 
-3.
+3. der Vermerk über eine Standortberatung der Zentralen Servicestelle Berufsanerkennung.
 
 ### § 13 — Verfahren
 
@@ -252,23 +252,23 @@ Für Streitigkeiten nach diesem Gesetz ist der Verwaltungsrechtsweg gegeben.
 
 (2) Die Statistik erfasst jährlich für das vorausgegangene Kalenderjahr folgende Erhebungsmerkmale:
 
-1.
+1. Staatsangehörigkeit, Geschlecht, Wohnort des Antragstellers, Datum der Empfangsbestätigung, Datum der Vollständigkeit der vorzulegenden Unterlagen,
 
-2.
+2. Ausbildungsstaat, deutscher Referenzberuf oder deutsche Referenzausbildung,
 
-3.
+3. Datum der Entscheidung, Gegenstand und Art der Entscheidung, Besonderheit im Verfahren,
 
-4.
+4. Meldungen und Entscheidungen betreffend die Dienstleistungsfreiheit nach Artikel 7 Absatz 1 und 4 der Richtlinie 2005/36/EG,
 
-5.
+5. eingelegte Rechtsbehelfe und Entscheidungen darüber.
 
 (3) Hilfsmerkmale sind
 
-1.
+1. Name und Anschrift der Auskunftspflichtigen,
 
-2.
+2. Name und Telefonnummer sowie Adresse für elektronische Post der für Rückfragen zur Verfügung stehenden Person,
 
-3.
+3. Datensatznummer.
 
 (4) Für die Erhebung besteht Auskunftspflicht. Die Angaben nach Absatz 3 Nummer 2 sind freiwillig. Auskunftspflichtig sind die nach diesem Gesetz und nach anderen berufsrechtlichen Gesetzen und Verordnungen für die Verfahren zur Feststellung der Gleichwertigkeit zuständigen Stellen.
 
@@ -276,11 +276,11 @@ Für Streitigkeiten nach diesem Gesetz ist der Verwaltungsrechtsweg gegeben.
 
 (6) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
-1.
+1. die Erhebung einzelner Merkmale auszusetzen, die Periodizität zu verlängern sowie den Kreis der zu Befragenden einzuschränken, wenn die Ergebnisse nicht mehr oder nicht mehr in der ursprünglich vorgesehenen Ausführlichkeit oder Häufigkeit benötigt werden;
 
-2.
+2. einzelne neue Merkmale einzuführen, wenn dies zur Deckung eines geänderten Bedarfs für den in § 1 genannten Zweck erforderlich ist und durch gleichzeitige Aussetzung anderer Merkmale eine Erweiterung des Erhebungsumfangs vermieden wird; nicht eingeführt werden können Merkmale, die besondere Kategorien personenbezogener Daten nach Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung betreffen;
 
-3.
+3. die Erhebung von Merkmalen anzuordnen, soweit dies zur Umsetzung oder Durchführung von Rechtsakten der Europäischen Gemeinschaft erforderlich ist.
 
 (7) Zur kontinuierlichen Beobachtung der Verfahren zur Feststellung der Gleichwertigkeit nach diesem Gesetz und nach anderen berufsrechtlichen Gesetzen und Verordnungen sind die von den statistischen Ämtern der Länder und dem Statistischen Bundesamt nach Absatz 2 und nach Rechtsverordnungen gemäß Absatz 6 erhobenen Angaben nach Abschluss der Datenprüfungen als Summendatensätze an das Bundesinstitut für Berufsbildung zu übermitteln. Das umfasst diejenigen Angaben, die seit dem Inkrafttreten dieses Gesetzes erhoben wurden. Für die Übermittlung findet § 88 Absatz 4 Satz 2 bis 6 des Berufsbildungsgesetzes entsprechend Anwendung.
 

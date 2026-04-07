@@ -18,5 +18,3 @@ Dem Bundesministerium des Innern wird unter Abänderung des Organisationserlasse
 Die Einzelheiten des Übergangs werden zwischen den beteiligten Mitgliedern der Bundesregierung geregelt und dem Chef des Bundeskanzleramtes mitgeteilt.
 
 ### Schlussformel
-
-Die Bundeskanzlerin

@@ -13,22 +13,20 @@ Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit Wirkung zum
 
 Dem Bundesministerium für Bildung und Forschung wird unter teilweiser Aufhebung der Organisationserlasse des Bundeskanzlers von Dezember 1972 (BAnz. Nr. 238 vom 20. Dezember 1972) – Abschnitt VII – und vom 27. Oktober 1998 (BGBl. I S. 3288) – Abschnitt IV – aus dem Geschäftsbereich des Beauftragten der Bundesregierung für Angelegenheiten der Kultur und Medien die Zuständigkeit für folgende Institute übertragen:
 
-a)
+a) Deutsches Bergbau-Museum, Bochum (DBM)
 
-b)
+b) Deutsches Museum, München (DM)
 
-c)
+c) Deutsches Schiffahrtmuseum, Bremerhaven (DSM)
 
-d)
+d) Germanisches Nationalmuseum, Nürnberg (GNM)
 
-e)
+e) Römisch-Germanisches Zentralmuseum, Mainz (RGZM)
 
-f)
+f) Zoologisches Forschungsmuseum Alexander Koenig, Bonn (ZFMK).
 
 ### II.
 
 Die Einzelheiten des Übergangs werden zwischen den beteiligten Mitgliedern der Bundesregierung geregelt und dem Chef des Bundeskanzleramtes mitgeteilt.
 
 ### Schlussformel
-
-Die Bundeskanzlerin

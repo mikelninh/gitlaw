@@ -11,7 +11,11 @@ Auf Grund des § 25 Abs. 2 Satz 3 des Künstlersozialversicherungsgesetzes vom 2
 
 ### § 1
 
-Dem Entgelt im Sinne des § 25 Abs. 2 Satz 1 des Gesetzes sind nicht zuzurechnen: 1.Aufwendungen für nachgewiesene Reisekosten des selbständigen Künstlers oder Publizisten, die der zur Abgabe Verpflichtete übernimmt, soweit sie die in § 3 Nr. 16 des Einkommensteuergesetzes genannten Grenzen nicht übersteigen, 2.übliche Aufwendungen für die Bewirtung des selbständigen Künstlers oder Publizisten.
+Dem Entgelt im Sinne des § 25 Abs. 2 Satz 1 des Gesetzes sind nicht zuzurechnen:
+
+1. Aufwendungen für nachgewiesene Reisekosten des selbständigen Künstlers oder Publizisten, die der zur Abgabe Verpflichtete übernimmt, soweit sie die in § 3 Nr. 16 des Einkommensteuergesetzes genannten Grenzen nicht übersteigen,
+
+2. übliche Aufwendungen für die Bewirtung des selbständigen Künstlers oder Publizisten.
 
 ### § 2
 

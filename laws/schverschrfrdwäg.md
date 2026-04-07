@@ -16,7 +16,11 @@ Lautet eine im Ausland aufgenommene, in Wertpapieren verbriefte Anleihe auf eine
 
 ### § 2
 
-(1) Rechtskräftige Entscheidungen stehen der Anwendung dieses Gesetzes nicht entgegen.(2) Vereinbarungen, durch die nach dem Eintritt einer Abwertung der ausländischen Währung der Umfang der Schuldverpflichtung von § 1 abweichend geregelt ist, werden durch das Gesetz nicht berührt. Dies gilt auch, wenn die Beteiligten den Umtausch von Schuldverschreibungen, die auf eine ausländische Währung lauten, in Deutsche Mark-Schuldverschreibungen vereinbart haben.(3) Bereits geleistete Zahlungen können auf Grund des Gesetzes nicht zurückgefordert werden.
+(1) Rechtskräftige Entscheidungen stehen der Anwendung dieses Gesetzes nicht entgegen.
+
+(2) Vereinbarungen, durch die nach dem Eintritt einer Abwertung der ausländischen Währung der Umfang der Schuldverpflichtung von § 1 abweichend geregelt ist, werden durch das Gesetz nicht berührt. Dies gilt auch, wenn die Beteiligten den Umtausch von Schuldverschreibungen, die auf eine ausländische Währung lauten, in Deutsche Mark-Schuldverschreibungen vereinbart haben.
+
+(3) Bereits geleistete Zahlungen können auf Grund des Gesetzes nicht zurückgefordert werden.
 
 ### § 3
 

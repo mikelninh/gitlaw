@@ -32,12 +32,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Schlußformel
 
-Der Bundesminister des Innern
-
 ### Anlage 1 — (zu § 2 der Verordnung über die Festsetzung des Lärmschutzbereichs
 für den Luft/Boden-Schießplatz Nordhorn)
-
-(Fundstelle des Originaltextes: BGBl. I 1978, 1740 - 1748)
 
 ### Anlage 2 — (zu § 4 der
 Verordnung über die Festsetzung des Lärmschutzbereichs

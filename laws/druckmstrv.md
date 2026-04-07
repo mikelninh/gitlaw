@@ -16,153 +16,21 @@ Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 2
 
 ### § 1 — Berufsbild
 
-(1) Dem Drucker-(Buchdrucker-)Handwerk sind folgende Tätigkeiten zuzurechnen: Herstellung von Druck-Erzeugnissen, insbesondere Anfertigung von Druckformen und Drucken sowie Weiterverarbeitung von Drucken, in handwerksüblichen Verfahren.
-
 (2) Dem Drucker-(Buchdrucker-)Handwerk sind folgende Kenntnisse und Fertigkeiten zuzurechnen:
 
-1.
+1. Druckvorlagenherstellung:a)Kenntnisse über Reprovorlagen, b)Kenntnisse über Gestaltungsmöglichkeiten, c)Kenntnisse der Retusche, d)Kenntnisse über Stanzformzeichnungen, e)Kenntnisse der Sensitometrie, f)Kenntnisse der Farbenlehre, g)Kenntnisse über Reproduktionsmaterialien einschließlich ihrer Verarbeitung, h)Kenntnisse der Reproduktionstechniken, i)Kenntnisse der Geräte und Maschinen, k)Beurteilen der Reprovorlagen, der Retuschen und der Reprofilme sowie Bestimmen ihrer notwendigen Korrekturen, l)Festlegen der Herstellungsverfahren für einen Arbeitsauftrag, m)Einteilen und Disponieren von Arbeitsaufträgen entsprechend den vorhandenen Produktionsmitteln; Kenntnisse über Reprovorlagen, Kenntnisse über Gestaltungsmöglichkeiten, Kenntnisse der Retusche, Kenntnisse über Stanzformzeichnungen, Kenntnisse der Sensitometrie, Kenntnisse der Farbenlehre, Kenntnisse über Reproduktionsmaterialien einschließlich ihrer Verarbeitung, Kenntnisse der Reproduktionstechniken, Kenntnisse der Geräte und Maschinen, Beurteilen der Reprovorlagen, der Retuschen und der Reprofilme sowie Bestimmen ihrer notwendigen Korrekturen, Festlegen der Herstellungsverfahren für einen Arbeitsauftrag, Einteilen und Disponieren von Arbeitsaufträgen entsprechend den vorhandenen Produktionsmitteln;
 
-a)
+2. Druckformherstellung:a)Kenntnisse der Druckformarten, b)Kenntnisse der Layouttechnik, c)Kenntnisse der Manuskriptvorbereitung, d)Kenntnisse der Satzarten, e)Kenntnisse der Setzverfahren, f)Kenntnisse der Korrekturzeichen, g)Kenntnisse der berufsbezogenen Maßsysteme und Berechnungen, h)Kenntnisse des Umbruchs und der Montage, i)Kenntnisse der Druckformkorrektur, k)Kenntnisse des Andrucks, l)Kenntnisse der Geräte, Maschinen, Chemikalien und Hilfsstoffe, m)Kenntnisse der Falz- und der Ausschieß-Schemen, n)Beurteilen der Druckform und Bestimmen ihrer notwendigen Korrekturen, o)Festlegen der Montagemethoden, p)Herstellen der Einteilungs- und Standbogen, q)Festlegen der Kopiermethoden, r)Korrigieren der Texte, s)Festlegen der Herstellungsverfahren für einen Arbeitsauftrag, t)Einteilen und Disponieren von Arbeitsaufträgen entsprechend den vorhandenen Produktionsmitteln; Kenntnisse der Druckformarten, Kenntnisse der Layouttechnik, Kenntnisse der Manuskriptvorbereitung, Kenntnisse der Satzarten, Kenntnisse der Setzverfahren, Kenntnisse der Korrekturzeichen, Kenntnisse der berufsbezogenen Maßsysteme und Berechnungen, Kenntnisse des Umbruchs und der Montage, Kenntnisse der Druckformkorrektur, Kenntnisse des Andrucks, Kenntnisse der Geräte, Maschinen, Chemikalien und Hilfsstoffe, Kenntnisse der Falz- und der Ausschieß-Schemen, Beurteilen der Druckform und Bestimmen ihrer notwendigen Korrekturen, Festlegen der Montagemethoden, Herstellen der Einteilungs- und Standbogen, Festlegen der Kopiermethoden, Korrigieren der Texte, Festlegen der Herstellungsverfahren für einen Arbeitsauftrag, Einteilen und Disponieren von Arbeitsaufträgen entsprechend den vorhandenen Produktionsmitteln;
 
-b)
+3. Druck und Druckverarbeitung:a)Kenntnisse der Druckverfahren, b)Kenntnisse der Druckmaschinensysteme, c)Kenntnisse der Vorbereitung und Einrichtung von Druckmaschinen, d)Kenntnisse des Fortdrucks, e)Kenntnisse über Prägen und Stanzen, f)Kenntnisse der Weiterverarbeitung, insbesondere des Schneidens, Falzens, Heftens und Klebens, g)Festlegen der Herstellungsverfahren für einen Arbeitsauftrag, h)Einteilen und Disponieren von Arbeitsaufträgen entsprechend den vorhandenen Produktionsmitteln, i)Vorbereiten und Einrichten von Druckmaschinen, k)Farbmischen, l)Drucken ein- und mehrfarbiger Produkte, m)Prägen und Stanzen auf der Druckmaschine, n)Kontrollieren der laufenden Produktion, o)Beurteilen der fertigen Druck-Erzeugnisse; Kenntnisse der Druckverfahren, Kenntnisse der Druckmaschinensysteme, Kenntnisse der Vorbereitung und Einrichtung von Druckmaschinen, Kenntnisse des Fortdrucks, Kenntnisse über Prägen und Stanzen, Kenntnisse der Weiterverarbeitung, insbesondere des Schneidens, Falzens, Heftens und Klebens, Festlegen der Herstellungsverfahren für einen Arbeitsauftrag, Einteilen und Disponieren von Arbeitsaufträgen entsprechend den vorhandenen Produktionsmitteln, Vorbereiten und Einrichten von Druckmaschinen, Farbmischen, Drucken ein- und mehrfarbiger Produkte, Prägen und Stanzen auf der Druckmaschine, Kontrollieren der laufenden Produktion, Beurteilen der fertigen Druck-Erzeugnisse;
 
-c)
+4. Werk- und Hilfsstoffe:a)Kenntnisse der Bedruckstoffe, der Druckfarben, der Druckformen und -platten sowie der lichtempfindlichen Materialien, insbesondere ihrer Eigenschaften und Verwendung, b)Kenntnisse über Klebstoffe, insbesondere ihrer Eigenschaften und Verwendung, c)Kenntnisse über Schmierstoffe, insbesondere ihrer Eigenschaften und Verwendung, d)Kenntnisse der berufsbezogenen Meß- und Prüftechniken, e)Prüfen der Eigenschaften von Werk- und Hilfsstoffen, f)Anwenden der berufsbezogenen Werkstoffnormen; Kenntnisse der Bedruckstoffe, der Druckfarben, der Druckformen und -platten sowie der lichtempfindlichen Materialien, insbesondere ihrer Eigenschaften und Verwendung, Kenntnisse über Klebstoffe, insbesondere ihrer Eigenschaften und Verwendung, Kenntnisse über Schmierstoffe, insbesondere ihrer Eigenschaften und Verwendung, Kenntnisse der berufsbezogenen Meß- und Prüftechniken, Prüfen der Eigenschaften von Werk- und Hilfsstoffen, Anwenden der berufsbezogenen Werkstoffnormen;
 
-d)
+5. Betriebstechnik:a)Kenntnisse über die wichtigsten Geräte, Maschinen und Anlagen, insbesondere ihren Aufbau, ihre Wirkungsweise, ihren Betrieb, ihre Wartung und Instandhaltung, b)Kenntnisse über die Energieversorgung im Betrieb, insbesondere über energiesparende Maßnahmen, c)Kenntnisse über Elektronik, d)Kenntnisse über Steuer- und Regeltechnik, e)Kenntnisse über Klimatisierung, f)Überwachen technischer Betriebsmittel; Kenntnisse über die wichtigsten Geräte, Maschinen und Anlagen, insbesondere ihren Aufbau, ihre Wirkungsweise, ihren Betrieb, ihre Wartung und Instandhaltung, Kenntnisse über die Energieversorgung im Betrieb, insbesondere über energiesparende Maßnahmen, Kenntnisse über Elektronik, Kenntnisse über Steuer- und Regeltechnik, Kenntnisse über Klimatisierung, Überwachen technischer Betriebsmittel;
 
-e)
+6. Qualitätskontrolle:a)Kenntnisse über Qualitätssicherung und -kontrolle, b)Kenntnisse über Prüf- und Kontrollmethoden, c)Kenntnisse der Abnahme- und Lieferbedingungen, d)Anwenden von Prüfmethoden; Kenntnisse über Qualitätssicherung und -kontrolle, Kenntnisse über Prüf- und Kontrollmethoden, Kenntnisse der Abnahme- und Lieferbedingungen, Anwenden von Prüfmethoden;
 
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-l)
-
-m)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-p)
-
-q)
-
-r)
-
-s)
-
-t)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-5.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-6.
-
-a)
-
-b)
-
-c)
-
-d)
-
-7.
-
-a)
-
-b)
-
-c)
-
-d)
+7. Arbeitsschutz und Unfallverhütung:a)Kenntnisse der berufsbezogenen Vorschriften der Unfallverhütung, des Arbeitsschutzes, der Arbeitssicherheit und des Immissionsschutzes, b)Kenntnisse über Arbeitsmedizin und Arbeitshygiene, c)Kenntnisse über persönliche Schutzausrüstung, d)Kenntnisse über Arbeitsplatzgestaltung. Kenntnisse der berufsbezogenen Vorschriften der Unfallverhütung, des Arbeitsschutzes, der Arbeitssicherheit und des Immissionsschutzes, Kenntnisse über Arbeitsmedizin und Arbeitshygiene, Kenntnisse über persönliche Schutzausrüstung, Kenntnisse über Arbeitsplatzgestaltung.
 
 ## 2. Abschnitt: Prüfungsanforderungen in den Teilen
 I und II der Meisterprüfung
@@ -178,21 +46,17 @@ Prüfung (Teil I)
 
 ### § 3 — Meisterprüfungsarbeit
 
-(1) Als Meisterprüfungsarbeit kommt insbesondere nachstehende Arbeit in Betracht: Anfertigen eines Druck-Erzeugnisses im Format DIN A2, bestehend aus vier Seiten DIN A4 Text und Bilder, davon zwei Seiten mehrfarbig und zwei Seiten einfarbig.
-
-(2) Mit der Meisterprüfungsarbeit sind abzuliefern: 15 Fortdruckbogen von jeder Farbe, 15 Fortdruckbogen vom Zusammendruck, Andruckskala, Standbogen und, soweit erforderlich, Platten oder Montagen.
-
 ### § 4 — Arbeitsprobe
 
 (1) Als Arbeitsprobe sind drei der nachstehenden Arbeiten, davon in jedem Fall die nach den Nummern 1 und 2, auszuführen:
 
-1.
+1. Umstellen der Druckmaschine auf verschiedene Bedruckstoffe sowie Justieren der Druckwalzen und Anlagemarken,
 
-2.
+2. Nachmischen von mindestens drei Farbtönen,
 
-3.
+3. Einrichten einer einfarbigen Druckform, bestehend aus Text- und Bildteilen im Mindestformat DIN A2 mit einem Bildanteil von insgesamt etwa einer DIN A4-Seite.
 
-4.
+4. Einrichten einer mehrfarbigen Druckform, bestehend aus Text- und Bildteilen im Mindestformat DIN A3.
 
 (2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.
 
@@ -200,67 +64,15 @@ Prüfung (Teil I)
 
 (1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern nachzuweisen:
 
-1.
+1. Technische Mathematik:a)Umrechnung von metrischen ins typografische Maßsystem und umgekehrt, b)Satzspiegelberechnung einschließlich Vergrößern und Verkleinern, c)Papierbedarfs-, Nutzen- und Manuskriptberechnung, d)Farbverbrauchsberechnung, e)Lohn- und Arbeitszeitberechnung; Umrechnung von metrischen ins typografische Maßsystem und umgekehrt, Satzspiegelberechnung einschließlich Vergrößern und Verkleinern, Papierbedarfs-, Nutzen- und Manuskriptberechnung, Farbverbrauchsberechnung, Lohn- und Arbeitszeitberechnung;
 
-a)
+2. Fachtechnologie:a)Druckverfahren, b)Druckmaschinensysteme, c)Satzherstellung, d)Ausschießen, e)Herstellung von Originalen, f)Herstellung von Reproduktionen, Filmmontagen und Druckplatten, g)Physik und Chemie des Drucks, h)Besonderheiten der Herstellung von Formularsätzen, i)Weiterverarbeitung der Druck-Erzeugnisse, k)Farbenlehre, l)berufsbezogene DIN-Normen, m)Qualitätskontrolle, n)technische Hilfsmittel für die Qualitätskontrolle, o)Arbeitsschutz und Unfallverhütung; Druckverfahren, Druckmaschinensysteme, Satzherstellung, Ausschießen, Herstellung von Originalen, Herstellung von Reproduktionen, Filmmontagen und Druckplatten, Physik und Chemie des Drucks, Besonderheiten der Herstellung von Formularsätzen, Weiterverarbeitung der Druck-Erzeugnisse, Farbenlehre, berufsbezogene DIN-Normen, Qualitätskontrolle, technische Hilfsmittel für die Qualitätskontrolle, Arbeitsschutz und Unfallverhütung;
 
-b)
+3. Werk- und Hilfsstoffkunde:a)Arten, Eigenschaften, Bezeichnung, Verwendung und Verarbeitung der Bedruckstoffe, b)Arten, Eigenschaften, Bezeichnung und Verwendung der Druckfarben und Druckhilfsmittel, c)Arten, Eigenschaften, Bezeichnung und Verwendung der Reprofilme und Druckplatten, d)Papierherstellung, e)Druckfarbenherstellung; Arten, Eigenschaften, Bezeichnung, Verwendung und Verarbeitung der Bedruckstoffe, Arten, Eigenschaften, Bezeichnung und Verwendung der Druckfarben und Druckhilfsmittel, Arten, Eigenschaften, Bezeichnung und Verwendung der Reprofilme und Druckplatten, Papierherstellung, Druckfarbenherstellung;
 
-c)
+4. Diktat:a)Schreiben eines Diktats, b)Korrekturlesen einschließlich Angabe der Korrekturzeichen nach DIN 16511; Schreiben eines Diktats, Korrekturlesen einschließlich Angabe der Korrekturzeichen nach DIN 16511;
 
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-4.
-
-a)
-
-b)
-
-5.
+5. Kalkulation: Kostenermittlung mit allen für die Preisbildung wesentlichen Faktoren einschließlich der Berechnung für die Angebots- und die Nachkalkulation.
 
 (2) Die Prüfung ist schriftlich und mündlich durchzuführen.
 
@@ -291,5 +103,3 @@ b)
 (2) Die auf Grund des § 122 der Handwerksordnung weiter anzuwendenden Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln, nicht mehr anzuwenden.
 
 ### Schlußformel
-
-Der Bundesminister für Wirtschaft

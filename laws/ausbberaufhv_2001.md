@@ -14,21 +14,21 @@ Auf Grund des § 25 Abs. 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 Die Anerkennung folgender Ausbildungsberufe wird aufgehoben:
 
-1.
+1. Bohrer,
 
-2.
+2. Handschuhmacher,
 
-3.
+3. Hobler,
 
-4.
+4. Lichtdruckretuscheur,
 
-5.
+5. Schriftgießer,
 
-6.
+6. Stahlstichpräger,
 
-7.
+7. Wärmestellengehilfe,
 
-8.
+8. Zahnlagerist.
 
 ### § 2 — Besitzstandswahrung
 

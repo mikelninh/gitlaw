@@ -12,19 +12,19 @@
 
 (2) Im Sinne dieser Verordnung sind:
 
-1.
+1. Hochfrequenzanlagen: ortsfeste Anlagen, die elektromagnetische Felder im Frequenzbereich von 9 Kilohertz bis 300 Gigahertz erzeugen, ausgenommen sind Anlagen, die breitbandige elektromagnetische Impulse erzeugen und der Landesverteidigung dienen,
 
-2.
+2. Niederfrequenzanlagen: ortsfeste Anlagen zur Umspannung und Fortleitung von Elektrizität mit einer Nennspannung von 1 000 Volt oder mehr, einschließlich Bahnstromfern- und Bahnstromoberleitungen und sonstiger vergleichbarer Anlagen im Frequenzbereich von 1 Hertz bis 9 Kilohertz,
 
-3.
+3. Gleichstromanlagen: ortsfeste Anlagen zur Fortleitung, Umspannung und Umrichtung, einschließlich der Schaltfelder, von Gleichstrom mit einer Nennspannung von 2 000 Volt oder mehr.
 
 ### § 2 — Hochfrequenzanlagen
 
-(1) Zum Schutz vor schädlichen Umwelteinwirkungen sind Hochfrequenzanlagen mit einer äquivalenten isotropen Strahlungsleistung (EIRP) von 10 Watt oder mehr so zu errichten und zu betreiben, dass in ihrem Einwirkungsbereich an Orten, die zum dauerhaften oder vorübergehenden Aufenthalt von Menschen bestimmt sind, bei höchster betrieblicher Anlagenauslastung Das Gleiche gilt für eine Hochfrequenzanlage mit einer äquivalenten isotropen Strahlungsleistung (EIRP) von weniger als 10 Watt, wenn diese an einem Standort gemäß § 2 Nummer 3 der Verordnung über das Nachweisverfahren zur Begrenzung elektromagnetischer Felder vom 20. August 2002 (BGBl. I S. 3366), die zuletzt durch Artikel 3 Absatz 20 des Gesetzes vom 7. Juli 2005 (BGBl. I S. 1970) geändert worden ist, in der jeweils geltenden Fassung, mit einer äquivalenten isotropen Strahlungsleistung (EIRP) der dort vorhandenen Hochfrequenzanlagen (Gesamtstrahlungsleistung) von 10 Watt oder mehr errichtet wird oder wenn durch diese die Gesamtstrahlungsleistung von 10 Watt erreicht oder überschritten wird. Satz 2 gilt nicht für Hochfrequenzanlagen, die eine äquivalente isotrope Strahlungsleistung (EIRP) von 100 Milliwatt oder weniger aufweisen.
+(1) Zum Schutz vor schädlichen Umwelteinwirkungen sind Hochfrequenzanlagen mit einer äquivalenten isotropen Strahlungsleistung (EIRP) von 10 Watt oder mehr so zu errichten und zu betreiben, dass in ihrem Einwirkungsbereich an Orten, die zum dauerhaften oder vorübergehenden Aufenthalt von Menschen bestimmt sind, bei höchster betrieblicher Anlagenauslastung
 
-1.
+1. die in Anhang 1a und 1b bestimmten Grenzwerte für den jeweiligen Frequenzbereich unter Berücksichtigung von Immissionen durch andere ortsfeste Hochfrequenzanlagen sowie Niederfrequenzanlagen gemäß Anhang 2 nicht überschritten werden und
 
-2.
+2. bei gepulsten elektromagnetischen Feldern zusätzlich die in Anhang 3 festgelegten Kriterien eingehalten werden.
 
 (2) Kurzzeitige Überschreitungen der nach Absatz 1 Satz 1 Nummer 1, auch in Verbindung mit Absatz 1 Satz 2, zu beachtenden Grenzwerte aufgrund einer vorübergehenden Gefahr für die öffentliche Sicherheit und Ordnung oder zum Schutz der Sicherheit des Staates bleiben außer Betracht.
 
@@ -32,9 +32,9 @@
 
 (1) Zum Schutz vor schädlichen Umwelteinwirkungen sind Niederfrequenzanlagen, die vor dem 22. August 2013 errichtet worden sind, so zu betreiben, dass sie in ihrem Einwirkungsbereich an Orten, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt sind, bei höchster betrieblicher Anlagenauslastung die im Anhang 1a genannten Grenzwerte nicht überschreiten, wobei Niederfrequenzanlagen mit einer Frequenz von 50 Hertz die Hälfte des in Anhang 1a genannten Grenzwertes der magnetischen Flussdichte nicht überschreiten dürfen. Dabei bleiben, soweit nicht im Einzelfall hinreichende Anhaltspunkte für insbesondere durch Berührungsspannungen hervorgerufene Belästigungen bestehen, die nach Art, Ausmaß oder Dauer für die Nachbarschaft unzumutbar sind, außer Betracht
 
-1.
+1. kurzzeitige Überschreitungen der Grenzwerte nach Satz 1 in Verbindung mit Anhang 1a um nicht mehr als 100 Prozent mit einer Dauer von nicht mehr als 5 Prozent eines Beurteilungszeitraumes von einem Tag und
 
-2.
+2. kleinräumige Überschreitungen der Grenzwerte der elektrischen Feldstärke nach Satz 1 in Verbindung mit Anhang 1a um nicht mehr als 100 Prozent außerhalb von Gebäuden.
 
 (2) Zum Schutz vor schädlichen Umwelteinwirkungen sind Niederfrequenzanlagen, die nach dem 22. August 2013 errichtet werden, so zu errichten und zu betreiben, dass sie bei höchster betrieblicher Anlagenauslastung in ihrem Einwirkungsbereich an Orten, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt sind, die im Anhang 1a genannten Grenzwerte nicht überschreiten, wobei Niederfrequenzanlagen mit einer Frequenz von 50 Hertz die Hälfte des in Anhang 1a genannten Grenzwertes der magnetischen Flussdichte nicht überschreiten dürfen. Bestehende Genehmigungen und Planfeststellungsbeschlüsse bleiben unberührt.
 
@@ -44,11 +44,11 @@
 
 ### § 3a — Gleichstromanlagen
 
-Zum Schutz vor schädlichen Umwelteinwirkungen sind Gleichstromanlagen so zu errichten und zu betreiben, dass in ihrem Einwirkungsbereich an Orten, die zum dauerhaften oder vorübergehenden Aufenthalt von Menschen bestimmt sind, bei höchster betrieblicher Anlagenauslastung Dabei sind alle relevanten Immissionen zu berücksichtigen.
+Zum Schutz vor schädlichen Umwelteinwirkungen sind Gleichstromanlagen so zu errichten und zu betreiben, dass in ihrem Einwirkungsbereich an Orten, die zum dauerhaften oder vorübergehenden Aufenthalt von Menschen bestimmt sind, bei höchster betrieblicher Anlagenauslastung
 
-1.
+1. der in Anhang 1a genannte Grenzwert der magnetischen Flussdichte nicht überschritten wird, sowie
 
-2.
+2. Wirkungen wie Funkenentladungen auch zwischen Personen und leitfähigen Objekten, die zu erheblichen Belästigungen oder Schäden führen können, vermieden werden.
 
 ### § 4 — Anforderungen zur Vorsorge
 
@@ -70,11 +70,11 @@ Weitergehende Anforderungen aufgrund anderer Rechtsvorschriften, insbesondere vo
 
 (1) Die zuständige Behörde ist berechtigt, die vom Betreiber einer ortsfesten Funkanlage, die privaten oder gewerblichen Zwecken dient oder im Rahmen wirtschaftlicher Unternehmungen Anwendung findet, nach den §§ 9, 11 und 12 der Verordnung über das Nachweisverfahren zur Begrenzung elektromagnetischer Felder angezeigten Daten sowie die nach § 5 der vorgenannten Verordnung erteilten Standortbescheinigungen, einschließlich der nach § 4 Absatz 5 der vorgenannten Verordnung vorgelegten Antragsunterlagen, bei der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen abzurufen, soweit dies zur Wahrnehmung ihrer Aufgaben zum Vollzug dieser Verordnung erforderlich ist. Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen stellt der zuständigen Behörde die Daten nach Satz 1 spätestens eine Woche nach Erhalt elektronisch zur Verfügung.
 
-(2) Der Betreiber einer Niederfrequenzanlage mit einer Nennspannung von 110 Kilovolt und mehr oder einer Gleichstromanlage hat diese der zuständigen Behörde mindestens zwei Wochen vor der Inbetriebnahme oder einer wesentlichen Änderung anzuzeigen, soweit Bei Leitungen genügt die Anzeige derjenigen Leitungsabschnitte, für die die Voraussetzungen nach Satz 1 vorliegen.
+(2) Der Betreiber einer Niederfrequenzanlage mit einer Nennspannung von 110 Kilovolt und mehr oder einer Gleichstromanlage hat diese der zuständigen Behörde mindestens zwei Wochen vor der Inbetriebnahme oder einer wesentlichen Änderung anzuzeigen, soweit
 
-1.
+1. die Anlage auf einem Grundstück im Bereich eines Bebauungsplans oder innerhalb eines im Zusammenhang bebauten Ortsteils oder auf einem mit Wohngebäuden bebauten Grundstück im Außenbereich belegen ist oder derartige Grundstücke überquert und
 
-2.
+2. die Anlage oder ihre wesentliche Änderung nicht einer Genehmigung, Planfeststellung oder sonstigen behördlichen Entscheidung nach anderen Rechtsvorschriften bedarf, bei der die Belange des Immissionsschutzes berücksichtigt werden.
 
 (3) Bei Anzeigen nach Absatz 2 soll der Betreiber die für die Anlage maßgebenden Daten angeben und der Anzeige einen Lageplan beifügen. Der Betreiber einer Niederfrequenzanlage mit einer Nennspannung von weniger als 110 Kilovolt hat für diejenigen Leitungsabschnitte, für die die Voraussetzungen nach Absatz 2 Satz 1 Nummer 1 und 2 vorliegen, die maßgeblichen Daten sowie einen Lageplan vorzuhalten und der zuständigen Behörde auf Verlangen unverzüglich vorzulegen.
 
@@ -92,11 +92,11 @@ Die Kommune, in deren Gebiet die Hochfrequenzanlage errichtet werden soll, wird 
 
 Ordnungswidrig im Sinne des § 62 Absatz 1 Nr. 7 des Bundes-Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 2 Satz 1 auch in Verbindung mit Satz 2, entgegen § 3 Absatz 1 Satz 1 oder Absatz 2 Satz 1 oder entgegen § 3a Satz 1 eine dort genannte Anlage errichtet oder betreibt,
 
-2.
+2. entgegen § 4 Absatz 1 eine Niederfrequenzanlage wesentlich ändert,
 
-3.
+3. entgegen § 7 Absatz 2 Satz 1 oder entgegen § 10 Absatz 2 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
 ### § 10 — Übergangsvorschriften
 
@@ -110,28 +110,10 @@ Ordnungswidrig im Sinne des § 62 Absatz 1 Nr. 7 des Bundes-Immissionsschutzgese
 
 Immissionsbeiträge der elektrischen und magnetischen Felder aller Niederfrequenzanlagen und von Hochfrequenzanlagen mit Frequenzen zwischen 9 kHz und 10 MHz müssen die folgenden Bedingungen erfüllen:
 
-Elektrische Felder:
-
-mitIE,i = Immissionsbeitrag des elektrischen Feldes bei der Frequenz i im Bereich von 1 Hz bis 10 MHz, GE,i = Grenzwert der elektrischen Feldstärke bei der Frequenz i im Bereich von 1 Hz bis 10 MHz, gemäß Anhang 1a
-
-Magnetische Felder:
-
-mit  IM,i = Immissionsbeitrag des magnetischen Feldes bei der Frequenz i im Bereich von 1 Hz bis 10 MHz, GM,i = Grenzwert der magnetischen Flussdichte bei der Frequenz i im Bereich von 1 Hz bis 10 MHz, gemäß Anhang 1a in Verbindung mit § 3
-
 Immissionsbeiträge der elektrischen und magnetischen Felder von Hochfrequenzanlagen mit Frequenzen > 100 kHz müssen zusätzlich die folgenden Bedingungen erfüllen:
-
-Elektrische Felder:
-
-mit IE,j = Immissionsbeitrag des elektrischen Feldes bei der Frequenz j im Bereich von 100 kHz bis 300 GHz (quadratisch gemittelt über 6-Minuten-Intervalle), GE,j = Grenzwert der elektrischen Feldstärke bei der Frequenz j im Frequenzbereich von 100 kHz bis 300 GHz (quadratisch gemittelt über 6-Minuten-Intervalle), gemäß Anhang 1b
-
-Magnetische Felder:
-
-mit IM,j = Immissionsbeitrag des magnetischen Feldes bei der Frequenz j im Bereich von 100 kHz bis 300 GHz (quadratisch gemittelt über 6-Minuten-Intervalle), GM,j = Grenzwert der magnetischen Feldstärke bei der Frequenz j im Frequenzbereich von 100 kHz bis 300 GHz (quadratisch gemittelt über 6-Minuten-Intervalle), gemäß Anhang 1b.
 
 ### Anhang 3 — (zu § 2)
 
 Bei gepulsten elektromagnetischen Feldern im Frequenzbereich von 9 kHz bis 100 kHz darf der Spitzenwert für die elektrische und die magnetische Feldstärke das 1,5-fache der Werte des Anhangs 1a nicht überschreiten.
-
-Bei gepulsten elektromagnetischen Feldern im Frequenzbereich über 100 kHz bis 10 MHz darf der Spitzenwert für die elektrische und die magnetische Feldstärke das 6,93 f0,664-fache der Werte des Anhangs 1b (f in MHz) nicht überschreiten.
 
 Bei gepulsten elektromagnetischen Feldern im Frequenzbereich über 10 MHz bis 300 GHz darf der Spitzenwert für die elektrische und die magnetische Feldstärke das 32-fache der Werte des Anhangs 1b nicht überschreiten.

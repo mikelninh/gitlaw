@@ -15,11 +15,11 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 Der Arbeitgeber hat nach Maßgabe dieses Gesetzes Betriebsärzte und Fachkräfte für Arbeitssicherheit zu bestellen. Diese sollen ihn beim Arbeitsschutz und bei der Unfallverhütung unterstützen. Damit soll erreicht werden, daß
 
-1.
+1. die dem Arbeitsschutz und der Unfallverhütung dienenden Vorschriften den besonderen Betriebsverhältnissen entsprechend angewandt werden,
 
-2.
+2. gesicherte arbeitsmedizinische und sicherheitstechnische Erkenntnisse zur Verbesserung des Arbeitsschutzes und der Unfallverhütung verwirklicht werden können,
 
-3.
+3. die dem Arbeitsschutz und der Unfallverhütung dienenden Maßnahmen einen möglichst hohen Wirkungsgrad erreichen.
 
 ## Zweiter Abschnitt: Betriebsärzte
 
@@ -27,11 +27,11 @@ Der Arbeitgeber hat nach Maßgabe dieses Gesetzes Betriebsärzte und Fachkräfte
 
 (1) Der Arbeitgeber hat Betriebsärzte schriftlich zu bestellen und ihnen die in § 3 genannten Aufgaben zu übertragen, soweit dies erforderlich ist im Hinblick auf
 
-1.
+1. die Betriebsart und die damit für die Arbeitnehmer verbundenen Unfall- und Gesundheitsgefahren,
 
-2.
+2. die Zahl der beschäftigten Arbeitnehmer und die Zusammensetzung der Arbeitnehmerschaft und
 
-3.
+3. die Betriebsorganisation, insbesondere im Hinblick auf die Zahl und die Art der für den Arbeitsschutz und die Unfallverhütung verantwortlichen Personen.
 
 (2) Der Arbeitgeber hat dafür zu sorgen, daß die von ihm bestellten Betriebsärzte ihre Aufgaben erfüllen. Er hat sie bei der Erfüllung ihrer Aufgaben zu unterstützen; insbesondere ist er verpflichtet, ihnen, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist, Hilfspersonal sowie Räume, Einrichtungen, Geräte und Mittel zur Verfügung zu stellen. Er hat sie über den Einsatz von Personen zu unterrichten, die mit einem befristeten Arbeitsvertrag beschäftigt oder ihm zur Arbeitsleistung überlassen sind.
 
@@ -41,33 +41,13 @@ Der Arbeitgeber hat nach Maßgabe dieses Gesetzes Betriebsärzte und Fachkräfte
 
 (1) Die Betriebsärzte haben die Aufgabe, den Arbeitgeber beim Arbeitsschutz und bei der Unfallverhütung in allen Fragen des Gesundheitsschutzes zu unterstützen. Sie haben insbesondere
 
-1.
+1. den Arbeitgeber und die sonst für den Arbeitsschutz und die Unfallverhütung verantwortlichen Personen zu beraten, insbesondere beia)der Planung, Ausführung und Unterhaltung von Betriebsanlagen und von sozialen und sanitären Einrichtungen, b)der Beschaffung von technischen Arbeitsmitteln und der Einführung von Arbeitsverfahren und Arbeitsstoffen, c)der Auswahl und Erprobung von Körperschutzmitteln, d)arbeitsphysiologischen, arbeitspsychologischen und sonstigen ergonomischen sowie arbeitshygienischen Fragen, insbesonderedes Arbeitsrhythmus, der Arbeitszeit und der Pausenregelung,der Gestaltung der Arbeitsplätze, des Arbeitsablaufs und der Arbeitsumgebung, e)der Organisation der "Ersten Hilfe" im Betrieb, f)Fragen des Arbeitsplatzwechsels sowie der Eingliederung und Wiedereingliederung Behinderter in den Arbeitsprozeß, g)der Beurteilung der Arbeitsbedingungen, der Planung, Ausführung und Unterhaltung von Betriebsanlagen und von sozialen und sanitären Einrichtungen, der Beschaffung von technischen Arbeitsmitteln und der Einführung von Arbeitsverfahren und Arbeitsstoffen, der Auswahl und Erprobung von Körperschutzmitteln, arbeitsphysiologischen, arbeitspsychologischen und sonstigen ergonomischen sowie arbeitshygienischen Fragen, insbesonderedes Arbeitsrhythmus, der Arbeitszeit und der Pausenregelung,der Gestaltung der Arbeitsplätze, des Arbeitsablaufs und der Arbeitsumgebung, des Arbeitsrhythmus, der Arbeitszeit und der Pausenregelung, der Gestaltung der Arbeitsplätze, des Arbeitsablaufs und der Arbeitsumgebung, der Organisation der "Ersten Hilfe" im Betrieb, Fragen des Arbeitsplatzwechsels sowie der Eingliederung und Wiedereingliederung Behinderter in den Arbeitsprozeß, der Beurteilung der Arbeitsbedingungen,
 
-a)
+2. die Arbeitnehmer zu untersuchen, arbeitsmedizinisch zu beurteilen und zu beraten sowie die Untersuchungsergebnisse zu erfassen und auszuwerten,
 
-b)
+3. die Durchführung des Arbeitsschutzes und der Unfallverhütung zu beobachten und im Zusammenhang damita)die Arbeitsstätten in regelmäßigen Abständen zu begehen und festgestellte Mängel dem Arbeitgeber oder der sonst für den Arbeitsschutz und die Unfallverhütung verantwortlichen Person mitzuteilen, Maßnahmen zur Beseitigung dieser Mängel vorzuschlagen und auf deren Durchführung hinzuwirken, b)auf die Benutzung der Körperschutzmittel zu achten, c)Ursachen von arbeitsbedingten Erkrankungen zu untersuchen, die Untersuchungsergebnisse zu erfassen und auszuwerten und dem Arbeitgeber Maßnahmen zur Verhütung dieser Erkrankungen vorzuschlagen, die Arbeitsstätten in regelmäßigen Abständen zu begehen und festgestellte Mängel dem Arbeitgeber oder der sonst für den Arbeitsschutz und die Unfallverhütung verantwortlichen Person mitzuteilen, Maßnahmen zur Beseitigung dieser Mängel vorzuschlagen und auf deren Durchführung hinzuwirken, auf die Benutzung der Körperschutzmittel zu achten, Ursachen von arbeitsbedingten Erkrankungen zu untersuchen, die Untersuchungsergebnisse zu erfassen und auszuwerten und dem Arbeitgeber Maßnahmen zur Verhütung dieser Erkrankungen vorzuschlagen,
 
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-2.
-
-3.
-
-a)
-
-b)
-
-c)
-
-4.
+4. darauf hinzuwirken, daß sich alle im Betrieb Beschäftigten den Anforderungen des Arbeitsschutzes und der Unfallverhütung entsprechend verhalten, insbesondere sie über die Unfall- und Gesundheitsgefahren, denen sie bei der Arbeit ausgesetzt sind, sowie über die Einrichtungen und Maßnahmen zur Abwendung dieser Gefahren zu belehren und bei der Einsatzplanung und Schulung der Helfer in "Erster Hilfe" und des medizinischen Hilfspersonals mitzuwirken.
 
 (2) Die Betriebsärzte haben auf Wunsch des Arbeitnehmers diesem das Ergebnis arbeitsmedizinischer Untersuchungen mitzuteilen; § 8 Abs. 1 Satz 3 bleibt unberührt.
 
@@ -83,13 +63,13 @@ Der Arbeitgeber darf als Betriebsärzte nur Personen bestellen, die berechtigt s
 
 (1) Der Arbeitgeber hat Fachkräfte für Arbeitssicherheit (Sicherheitsingenieure, -techniker, -meister) schriftlich zu bestellen und ihnen die in § 6 genannten Aufgaben zu übertragen, soweit dies erforderlich ist im Hinblick auf
 
-1.
+1. die Betriebsart und die damit für die Arbeitnehmer verbundenen Unfall- und Gesundheitsgefahren,
 
-2.
+2. die Zahl der beschäftigten Arbeitnehmer und die Zusammensetzung der Arbeitnehmerschaft,
 
-3.
+3. die Betriebsorganisation, insbesondere im Hinblick auf die Zahl und Art der für den Arbeitsschutz und die Unfallverhütung verantwortlichen Personen,
 
-4.
+4. die Kenntnisse und die Schulung des Arbeitgebers oder der nach § 13 Abs. 1 Nr. 1, 2 oder 3 des Arbeitsschutzgesetzes verantwortlichen Personen in Fragen des Arbeitsschutzes.
 
 (2) Der Arbeitgeber hat dafür zu sorgen, daß die von ihm bestellten Fachkräfte für Arbeitssicherheit ihre Aufgaben erfüllen. Er hat sie bei der Erfüllung ihrer Aufgaben zu unterstützen; insbesondere ist er verpflichtet, ihnen, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist, Hilfspersonal sowie Räume, Einrichtungen, Geräte und Mittel zur Verfügung zu stellen. Er hat sie über den Einsatz von Personen zu unterrichten, die mit einem befristeten Arbeitsvertrag beschäftigt oder ihm zur Arbeitsleistung überlassen sind.
 
@@ -99,29 +79,13 @@ Der Arbeitgeber darf als Betriebsärzte nur Personen bestellen, die berechtigt s
 
 Die Fachkräfte für Arbeitssicherheit haben die Aufgabe, den Arbeitgeber beim Arbeitsschutz und bei der Unfallverhütung in allen Fragen der Arbeitssicherheit einschließlich der menschengerechten Gestaltung der Arbeit zu unterstützen. Sie haben insbesondere
 
-1.
+1. den Arbeitgeber und die sonst für den Arbeitsschutz und die Unfallverhütung verantwortlichen Personen zu beraten, insbesondere beia)der Planung, Ausführung und Unterhaltung von Betriebsanlagen und von sozialen und sanitären Einrichtungen, b)der Beschaffung von technischen Arbeitsmitteln und der Einführung von Arbeitsverfahren und Arbeitsstoffen, c)der Auswahl und Erprobung von Körperschutzmitteln, d)der Gestaltung der Arbeitsplätze, des Arbeitsablaufs, der Arbeitsumgebung und in sonstigen Fragen der Ergonomie, e)der Beurteilung der Arbeitsbedingungen, der Planung, Ausführung und Unterhaltung von Betriebsanlagen und von sozialen und sanitären Einrichtungen, der Beschaffung von technischen Arbeitsmitteln und der Einführung von Arbeitsverfahren und Arbeitsstoffen, der Auswahl und Erprobung von Körperschutzmitteln, der Gestaltung der Arbeitsplätze, des Arbeitsablaufs, der Arbeitsumgebung und in sonstigen Fragen der Ergonomie, der Beurteilung der Arbeitsbedingungen,
 
-a)
+2. die Betriebsanlagen und die technischen Arbeitsmittel insbesondere vor der Inbetriebnahme und Arbeitsverfahren insbesondere vor ihrer Einführung sicherheitstechnisch zu überprüfen,
 
-b)
+3. die Durchführung des Arbeitsschutzes und der Unfallverhütung zu beobachten und im Zusammenhang damita)die Arbeitsstätten in regelmäßigen Abständen zu begehen und festgestellte Mängel dem Arbeitgeber oder der sonst für den Arbeitsschutz und die Unfallverhütung verantwortlichen Person mitzuteilen, Maßnahmen zur Beseitigung dieser Mängel vorzuschlagen und auf deren Durchführung hinzuwirken, b)auf die Benutzung der Körperschutzmittel zu achten, c)Ursachen von Arbeitsunfällen zu untersuchen, die Untersuchungsergebnisse zu erfassen und auszuwerten und dem Arbeitgeber Maßnahmen zur Verhütung dieser Arbeitsunfälle vorzuschlagen, die Arbeitsstätten in regelmäßigen Abständen zu begehen und festgestellte Mängel dem Arbeitgeber oder der sonst für den Arbeitsschutz und die Unfallverhütung verantwortlichen Person mitzuteilen, Maßnahmen zur Beseitigung dieser Mängel vorzuschlagen und auf deren Durchführung hinzuwirken, auf die Benutzung der Körperschutzmittel zu achten, Ursachen von Arbeitsunfällen zu untersuchen, die Untersuchungsergebnisse zu erfassen und auszuwerten und dem Arbeitgeber Maßnahmen zur Verhütung dieser Arbeitsunfälle vorzuschlagen,
 
-c)
-
-d)
-
-e)
-
-2.
-
-3.
-
-a)
-
-b)
-
-c)
-
-4.
+4. darauf hinzuwirken, daß sich alle im Betrieb Beschäftigten den Anforderungen des Arbeitsschutzes und der Unfallverhütung entsprechend verhalten, insbesondere sie über die Unfall- und Gesundheitsgefahren, denen sie bei der Arbeit ausgesetzt sind, sowie über die Einrichtungen und Maßnahmen zur Abwendung dieser Gefahren zu belehren und bei der Schulung der Sicherheitsbeauftragten mitzuwirken.
 
 ### § 7 — Anforderungen an Fachkräfte für Arbeitssicherheit
 
@@ -154,7 +118,7 @@ Die Betriebsärzte und die Fachkräfte für Arbeitssicherheit haben bei der Erf�
 
 ### § 11 — Arbeitsschutzausschuß
 
-Soweit in einer sonstigen Rechtsvorschrift nichts anderes bestimmt ist, hat der Arbeitgeber in Betrieben mit mehr als zwanzig Beschäftigten einen Arbeitsschutzausschuß zu bilden; bei der Feststellung der Zahl der Beschäftigten sind Teilzeitbeschäftigte mit einer regelmäßigen wöchentlichen Arbeitszeit von nicht mehr als 20 Stunden mit 0,5 und nicht mehr als 30 Stunden mit 0,75 zu berücksichtigen. Dieser Ausschuß setzt sich zusammen aus: Der Arbeitsschutzausschuß hat die Aufgabe, Anliegen des Arbeitsschutzes und der Unfallverhütung zu beraten. Der Arbeitsschutzausschuß tritt mindestens einmal vierteljährlich zusammen.
+Soweit in einer sonstigen Rechtsvorschrift nichts anderes bestimmt ist, hat der Arbeitgeber in Betrieben mit mehr als zwanzig Beschäftigten einen Arbeitsschutzausschuß zu bilden; bei der Feststellung der Zahl der Beschäftigten sind Teilzeitbeschäftigte mit einer regelmäßigen wöchentlichen Arbeitszeit von nicht mehr als 20 Stunden mit 0,5 und nicht mehr als 30 Stunden mit 0,75 zu berücksichtigen. Dieser Ausschuß setzt sich zusammen aus:
 
 ### § 12 — Behördliche Anordnungen
 
@@ -162,9 +126,9 @@ Soweit in einer sonstigen Rechtsvorschrift nichts anderes bestimmt ist, hat der 
 
 (2) Die zuständige Behörde hat, bevor sie eine Anordnung trifft,
 
-1.
+1. den Arbeitgeber und den Betriebsrat zu hören und mit ihnen zu erörtern, welche Maßnahmen angebracht erscheinen und
 
-2.
+2. dem zuständigen Träger der gesetzlichen Unfallversicherung Gelegenheit zu geben, an der Erörterung mit dem Arbeitgeber teilzunehmen und zu der von der Behörde in Aussicht genommenen Anordnung Stellung zu nehmen.
 
 (3) Die zuständige Behörde hat dem Arbeitgeber zur Ausführung der Anordnung eine angemessene Frist zu setzen.
 
@@ -210,11 +174,11 @@ Die Verpflichtung des Arbeitgebers, Betriebsärzte und Fachkräfte für Arbeitss
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. einer vollziehbaren Anordnung nach § 12 Abs. 1 zuwiderhandelt,
 
-2.
+2. entgegen § 13 Abs. 1 Satz 1 eine Auskunft nicht, nicht richtig oder nicht vollständig erteilt oder
 
-3.
+3. entgegen § 13 Abs. 2 Satz 1 eine Besichtigung nicht duldet.
 
 (2) Eine Ordnungswidrigkeit nach Absatz 1 Nr. 1 kann mit einer Geldbuße bis zu fünfundzwanzigtausend Euro, eine Ordnungswidrigkeit nach Absatz 1 Nr. 2 und 3 mit einer Geldbuße bis zu fünfhundert Euro geahndet werden.
 
@@ -228,32 +192,10 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgeset
 
 ### § 23 — Inkrafttreten
 
-(1) Dieses Gesetz, ausgenommen § 14 und § 21, tritt am ersten Tag des auf die Verkündung folgenden zwölften Kalendermonats in Kraft. § 14 und § 21 treten am Tag nach der Verkündung des Gesetzes in Kraft.
-
 (2) (Aufhebungsvorschrift)
 
 > § 23 Abs. 1 Satz 1 u. 2: IdF d. § 70 Nr. 3 G v. 12.4.1976 I 965 mWv 1.5.1976, Kursivdruck gegenstandslos
 
 ### Anhang EV — Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet B Abschnitt III
 
-Abschnitt III
-
-12.
-
-a)
-
-b)
-
-c)
-
-d)
-
-aa)
-
-bb)
-
-cc)
-
-f)
-
-g)
+12. Gesetz über Betriebsärzte, Sicherheitsingenieure und andere Fachkräfte für Arbeitssicherheit vom 12. Dezember 1973 (BGBl. I S. 1885), geändert durch § 70 des Gesetzes vom 12. April 1976 (BGBl. I S. 965), mit folgenden Maßgaben:a)Die Verpflichtung der Arbeitgeber nach § 2 gilt als erfüllt, wenn die betriebsärztlichen Aufgaben durch eine Einrichtung des betrieblichen Gesundheitswesens wahrgenommen werden. Die Buchstaben b) und d) sind anzuwenden.b)Der Arbeitgeber kann die Fachkunde als Betriebsarzt nach § 4 als nachgewiesen ansehen bei Fachärzten für Arbeitsmedizin oder Arbeitshygiene und Fachärzten mit staatlicher Anerkennung als Betriebsarzt.c)Der Arbeitgeber kann die Fachkunde als Fachkraft für Arbeitssicherheit nach § 7 als nachgewiesen ansehen bei Fachkräften, die eine Hochschul-, Fachschul- oder Meisterqualifikation besitzen und eine der Ausbildung entsprechende praktische Tätigkeit mindestens zwei Jahre lang ausgeübt haben und eine Ausbildung als Fachingenieur oder Fachökonom für Arbeitsschutz oder Arbeitsschutzinspektor oder Sicherheitsingenieur oder Fachingenieur für Brandschutz oder den Erwerb der anerkannten Zusatzqualifikation im Gesundheits- und Arbeitsschutz für Sicherheitsinspektoren oder eine entsprechende Ausbildung auf dem Gebiet der Arbeitshygiene nachweisen können. Fachkräfte für Arbeitssicherheit erfüllen die Anforderungen auch, wenn sie vor dem Inkrafttreten dieses Gesetzes mindestens zwei Jahre lang auf dem Gebiet der Arbeitssicherheit tätig waren.d)Für die Ermittlung der Einsatzzeit der Betriebsärzte sind folgende Mindestwerte zugrunde zu legen:aa)0,25 Stunden/Beschäftigten x Jahr für Betriebe mit geringfügigen Gefährdungen,bb)0,6 Stunden/Beschäftigten x Jahr für Betriebe, in denen eine arbeitsmedizinische Betreuung durchzuführen ist, weil besondere Arbeitserschwernisse vorliegen oder besonderen Berufskrankheiten vorzubeugen ist oder besondere arbeitsbedingte Gefährdungen für die Arbeitnehmer oder Dritte vorliegen,cc)1,2 Stunden/Beschäftigten x Jahr für Betriebe, in denen diese arbeitsmedizinischen Untersuchungen in jährlichen oder kürzeren Zeitabständen durchzuführen sind.Die auf der Grundlage der Mindestwerte ermittelte Einsatzzeit ist zu erhöhen, wenn der Umfang der vom Betriebsarzt durchzuführenden arbeitsmedizinischen Untersuchungen überdurchschnittlich hoch ist oder in Durchsetzung von Rechtsvorschriften zusätzliche Aufgaben im Betrieb zu lösen sind.e)Für die Ermittlung der Einsatzzeit der Fachkräfte für Arbeitssicherheit sind folgende Mindestwerte zugrunde zu legen:aa)0,2 Stunden/Beschäftigten x Jahr für Betriebe mit geringfügigen Gefährdungen,bb)1,5 Stunden/Beschäftigten x Jahr für Betriebe mit mittleren Gefährdungen,cc)3,0 Stunden/Beschäftigten x Jahr für Betriebe mit hohen Gefährdungen,dd)4,0 Stunden/Beschäftigten x Jahr für Betriebe mit sehr hohen Gefährdungen.Die auf der Grundlage der Mindestwerte ermittelte Einsatzzeit ist zu erhöhen, wenn der Schwierigkeitsgrad der arbeitssicherheitlichen Aufgabe oder der Umfang der Aufgaben der technischen Arbeitshygiene überdurchschnittlich hoch ist oder zusätzliche Aufgaben, z.B. für die Bereiche des Brand- oder Strahlenschutzes, zu lösen sind.f)Wird der Arbeitgeber Mitglied eines Unfallversicherungsträgers und hat dieser Unfallverhütungsvorschriften gemäß § 14 Abs. 1 erlassen, so treten an die Stelle der Bestimmungen in den Buchstaben b) bis e) die entsprechenden Bestimmungen der Unfallverhütungsvorschriften. Die erforderliche Fachkunde kann auch weiterhin als nachgewiesen angesehen werden, wenn die Voraussetzungen der Buchstaben b) und c) erfüllt sind.g)Für den öffentlichen Dienst der in Artikel 1 des Vertrages genannten Länder und des Landes Berlin für den Teil, in dem das Grundgesetz bisher nicht galt, ist bis zum Erlaß entsprechender Vorschriften durch die für den öffentlichen Dienst zuständigen Minister der Länder die Richtlinie des Bundesministers des Innern für den betriebsärztlichen und sicherheitstechnischen Dienst in den Verwaltungen und Betrieben des Bundes vom 28. Januar 1978 (GMBl. S. 114 ff.) anzuwenden. Die Verpflichtung der Arbeitgeber nach § 2 gilt als erfüllt, wenn die betriebsärztlichen Aufgaben durch eine Einrichtung des betrieblichen Gesundheitswesens wahrgenommen werden. Die Buchstaben b) und d) sind anzuwenden. Der Arbeitgeber kann die Fachkunde als Betriebsarzt nach § 4 als nachgewiesen ansehen bei Fachärzten für Arbeitsmedizin oder Arbeitshygiene und Fachärzten mit staatlicher Anerkennung als Betriebsarzt. Der Arbeitgeber kann die Fachkunde als Fachkraft für Arbeitssicherheit nach § 7 als nachgewiesen ansehen bei Fachkräften, die eine Hochschul-, Fachschul- oder Meisterqualifikation besitzen und eine der Ausbildung entsprechende praktische Tätigkeit mindestens zwei Jahre lang ausgeübt haben und eine Ausbildung als Fachingenieur oder Fachökonom für Arbeitsschutz oder Arbeitsschutzinspektor oder Sicherheitsingenieur oder Fachingenieur für Brandschutz oder den Erwerb der anerkannten Zusatzqualifikation im Gesundheits- und Arbeitsschutz für Sicherheitsinspektoren oder eine entsprechende Ausbildung auf dem Gebiet der Arbeitshygiene nachweisen können. Fachkräfte für Arbeitssicherheit erfüllen die Anforderungen auch, wenn sie vor dem Inkrafttreten dieses Gesetzes mindestens zwei Jahre lang auf dem Gebiet der Arbeitssicherheit tätig waren. Für die Ermittlung der Einsatzzeit der Betriebsärzte sind folgende Mindestwerte zugrunde zu legen:aa)0,25 Stunden/Beschäftigten x Jahr für Betriebe mit geringfügigen Gefährdungen,bb)0,6 Stunden/Beschäftigten x Jahr für Betriebe, in denen eine arbeitsmedizinische Betreuung durchzuführen ist, weil besondere Arbeitserschwernisse vorliegen oder besonderen Berufskrankheiten vorzubeugen ist oder besondere arbeitsbedingte Gefährdungen für die Arbeitnehmer oder Dritte vorliegen,cc)1,2 Stunden/Beschäftigten x Jahr für Betriebe, in denen diese arbeitsmedizinischen Untersuchungen in jährlichen oder kürzeren Zeitabständen durchzuführen sind. 0,25 Stunden/Beschäftigten x Jahr für Betriebe mit geringfügigen Gefährdungen, 0,6 Stunden/Beschäftigten x Jahr für Betriebe, in denen eine arbeitsmedizinische Betreuung durchzuführen ist, weil besondere Arbeitserschwernisse vorliegen oder besonderen Berufskrankheiten vorzubeugen ist oder besondere arbeitsbedingte Gefährdungen für die Arbeitnehmer oder Dritte vorliegen, 1,2 Stunden/Beschäftigten x Jahr für Betriebe, in denen diese arbeitsmedizinischen Untersuchungen in jährlichen oder kürzeren Zeitabständen durchzuführen sind. Die auf der Grundlage der Mindestwerte ermittelte Einsatzzeit ist zu erhöhen, wenn der Umfang der vom Betriebsarzt durchzuführenden arbeitsmedizinischen Untersuchungen überdurchschnittlich hoch ist oder in Durchsetzung von Rechtsvorschriften zusätzliche Aufgaben im Betrieb zu lösen sind. Für die Ermittlung der Einsatzzeit der Fachkräfte für Arbeitssicherheit sind folgende Mindestwerte zugrunde zu legen:aa)0,2 Stunden/Beschäftigten x Jahr für Betriebe mit geringfügigen Gefährdungen,bb)1,5 Stunden/Beschäftigten x Jahr für Betriebe mit mittleren Gefährdungen,cc)3,0 Stunden/Beschäftigten x Jahr für Betriebe mit hohen Gefährdungen,dd)4,0 Stunden/Beschäftigten x Jahr für Betriebe mit sehr hohen Gefährdungen. 0,2 Stunden/Beschäftigten x Jahr für Betriebe mit geringfügigen Gefährdungen, 1,5 Stunden/Beschäftigten x Jahr für Betriebe mit mittleren Gefährdungen, 3,0 Stunden/Beschäftigten x Jahr für Betriebe mit hohen Gefährdungen, 4,0 Stunden/Beschäftigten x Jahr für Betriebe mit sehr hohen Gefährdungen. Die auf der Grundlage der Mindestwerte ermittelte Einsatzzeit ist zu erhöhen, wenn der Schwierigkeitsgrad der arbeitssicherheitlichen Aufgabe oder der Umfang der Aufgaben der technischen Arbeitshygiene überdurchschnittlich hoch ist oder zusätzliche Aufgaben, z.B. für die Bereiche des Brand- oder Strahlenschutzes, zu lösen sind. Wird der Arbeitgeber Mitglied eines Unfallversicherungsträgers und hat dieser Unfallverhütungsvorschriften gemäß § 14 Abs. 1 erlassen, so treten an die Stelle der Bestimmungen in den Buchstaben b) bis e) die entsprechenden Bestimmungen der Unfallverhütungsvorschriften. Die erforderliche Fachkunde kann auch weiterhin als nachgewiesen angesehen werden, wenn die Voraussetzungen der Buchstaben b) und c) erfüllt sind. Für den öffentlichen Dienst der in Artikel 1 des Vertrages genannten Länder und des Landes Berlin für den Teil, in dem das Grundgesetz bisher nicht galt, ist bis zum Erlaß entsprechender Vorschriften durch die für den öffentlichen Dienst zuständigen Minister der Länder die Richtlinie des Bundesministers des Innern für den betriebsärztlichen und sicherheitstechnischen Dienst in den Verwaltungen und Betrieben des Bundes vom 28. Januar 1978 (GMBl. S. 114 ff.) anzuwenden.

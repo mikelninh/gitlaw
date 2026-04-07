@@ -23,4 +23,6 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 ### Anlage — (zu § 1)
 
-(Fundstelle des Originaltextes: BGBl. I 2005, 2109)FahrzeugklasseHöhe über der VorderachseAnzahl der AchsenFahrzeugart (Beispiele)Mauthöhe in EuroAGE *)MGE ++)A<= 1,30 m2Pkw, Motorrad0,750,90B1<= 1,30 m> 2Pkw mit Anhänger1,732,00B2> 1,30 m2Bus, Caravan, Transporter, Lkw1,732,00C> 1,30 m3Fahrzeuge der Klasse B2 mit Anhänger einachsig, Lkw, Bus4,505,30D> 1,30 m>= 4Fahrzeuge der Klasse B2 mit Anhänger mehrachsig, Fahrzeuge der Klasse C mit Anhänger, Lkw7,508,80----- *)AGE: Automatische Gebührenerhebung (Zahlung mittels Transponder)++)MGE: Manuelle Gebührenerhebung (Zahlung mittels Smart Card, Münzautomat oder bar bei Kassierern)
+*) AGE: Automatische Gebührenerhebung (Zahlung mittels Transponder)
+
+++) MGE: Manuelle Gebührenerhebung (Zahlung mittels Smart Card, Münzautomat oder bar bei Kassierern)

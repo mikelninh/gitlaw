@@ -30,39 +30,39 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 4 — Struktur der Berufsausbildung, Ausbildungsberufsbild
 
-(1) Die Berufsausbildung gliedert sich in: Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
+(1) Die Berufsausbildung gliedert sich in:
 
-1.
+1. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 (2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. Teile und Zubehör organisieren und verkaufen,
 
-2.
+2. an Werkstattprozessen mitwirken und als Schnittstelle zwischen Handel und Werkstatt agieren,
 
-3.
+3. Kundendienst organisieren und Servicebereich unterstützen,
 
-4.
+4. betriebliche Marketingaktivitäten planen und durchführen,
 
-5.
+5. Fahrzeughandel und -vertrieb unterstützen,
 
-6.
+6. Finanzdienstleistungsprodukte im Fahrzeughandel vorbereiten,
 
-7.
+7. personalbezogene Aufgaben bearbeiten und
 
-8.
+8. kaufmännische Steuerung und Kontrolle unterstützen.
 
 (3) Die Berufsbildpositionen der integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. Berufsbildung sowie Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Sicherheit und Gesundheitsschutz bei der Arbeit und
 
-4.
+4. Umweltschutz.
 
 ### § 5 — Ausbildungsplan
 
@@ -88,9 +88,9 @@ Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage de
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
-1.
+1. die im Ausbildungsrahmenplan für die ersten 15 Monate genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 ### § 9 — Prüfungsbereich von Teil 1
 
@@ -98,11 +98,11 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 (2) Im Prüfungsbereich Warenwirtschafts- und Werkstattprozesse soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. das Teile- und Zubehörlager unter Berücksichtigung der Sortimentspolitik, der Anforderungen aus den weiteren Geschäftsfeldern und der Lagerkennzahlen zu organisieren,
 
-2.
+2. die Beschaffung von Teilen und Zubehör unter Berücksichtigung der Kundenwünsche, der Werkstattprozesse und der Fahrzeugtechnik durchzuführen und
 
-3.
+3. den Eingang, die Lagerung und die Ausgabe von Waren zu kontrollieren und zu erfassen.
 
 (3) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
@@ -112,9 +112,9 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
-1.
+1. die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 (2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
@@ -122,13 +122,13 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
-1.
+1. Fahrzeugvertriebsprozesse und Finanzdienstleistungen,
 
-2.
+2. Kaufmännische Unterstützungsprozesse,
 
-3.
+3. Kundendienstprozesse sowie
 
-4.
+4. Wirtschafts- und Sozialkunde.
 
 ### § 12 — Prüfungsbereich Fahrzeugvertriebsprozesse und Finanzdienstleistungen
 
@@ -136,9 +136,9 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (2) Für den Nachweis nach Absatz 1 sind folgende Tätigkeiten zugrunde zu legen:
 
-1.
+1. kundenorientiertes Abwickeln von Fahrzeugvertriebsprozessen und
 
-2.
+2. bedarfsgerechtes Anbieten von Finanzdienstleistungen für den Vertrieb von Fahrzeugen.
 
 (3) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
@@ -148,11 +148,11 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (1) Im Prüfungsbereich Kaufmännische Unterstützungsprozesse soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. in den Geschäftsfeldern Instrumente des Rechnungswesens für die kaufmännische Planung, Steuerung und Kontrolle zu nutzen und Handlungsvorschläge abzuleiten,
 
-2.
+2. Verkaufspreise zu kalkulieren sowie
 
-3.
+3. den Personaleinsatz zu organisieren und an der Personalplanung unter Berücksichtigung betrieblicher Ziele und Grundsätze mitzuwirken.
 
 (2) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
@@ -162,15 +162,15 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (1) Im Prüfungsbereich Kundendienstprozesse soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. komplexe Aufgaben des Kundendienstes unter Einbeziehung betrieblicher Marketingaktivitäten zu bearbeiten,
 
-2.
+2. die Vorgehensweise zu begründen,
 
-3.
+3. Problemlösungen zu erarbeiten,
 
-4.
+4. Hintergründe und Schnittstellen zu anderen Arbeitsbereichen zu erläutern und
 
-5.
+5. Ergebnisse zu bewerten.
 
 (2) Mit dem Prüfling wird ein fallbezogenes Fachgespräch geführt.
 
@@ -190,31 +190,31 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
-1.
+1. Warenwirtschafts- und Werkstatt-prozesse mit20 Prozent,
 
-2.
+2. Fahrzeugvertriebsprozesse und Finanzdienstleistungen mit25 Prozent,
 
-3.
+3. Kaufmännische Unterstützungs-prozesse mit25 Prozent,
 
-4.
+4. Kundendienstprozesse mit20 Prozent sowie
 
-5.
+5. Wirtschafts- und Sozialkunde mit10 Prozent.
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-1.
+1. im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
-2.
+2. im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
-3.
+3. in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
 
-4.
+4. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Fahrzeugvertriebsprozesse und Finanzdienstleistungen“, „Kaufmännische Unterstützungsprozesse“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Fahrzeugvertriebsprozesse und Finanzdienstleistungen“, „Kaufmännische Unterstützungsprozesse“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.
+1. der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
-2.
+2. die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 ## Abschnitt 3: Schlussvorschriften
 
@@ -227,221 +227,3 @@ Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bereits 
 Diese Verordnung tritt am 1. August 2017 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Automobilkaufmann/zur Automobilkauffrau vom 26. Mai 1998 (BGBl. I S. 1145) außer Kraft.
 
 ### Anlage — (zu § 3 Absatz 1 Satz 1)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-p)
-
-q)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)

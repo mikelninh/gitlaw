@@ -35,11 +35,11 @@ Der nach den §§ 2 und 3 ermittelte Wert ist um einen Abschlag von 25 vom Hunde
 
 ### § 5
 
-Für die in Gegendruck- oder Entnahmekondensationsanlagen erzeugte Elektrizität ist der nach den §§ 2 bis 4 ermittelte Wert zusätzlich um 35 vom Hundert herabzusetzen. Bei Entnahmekondensationsanlagen gilt dies nur, wenn im Kondensationsteil Im Falle des Satzes 2 Nr. 2 ist der monatliche Nachweis auch bei jährlicher Ermittlung und Zahlung der Ausgleichsabgabe zu führen.
+Für die in Gegendruck- oder Entnahmekondensationsanlagen erzeugte Elektrizität ist der nach den §§ 2 bis 4 ermittelte Wert zusätzlich um 35 vom Hundert herabzusetzen. Bei Entnahmekondensationsanlagen gilt dies nur, wenn im Kondensationsteil
 
-1.
+1. nicht mehr als 50 vom Hundert der der Schluckfähigkeit der Turbinen entsprechenden Frischdampfmenge ausgenutzt werden können oder
 
-2.
+2. nachweislich im Kalendermonat nicht mehr als 50 vom Hundert der beim Eintritt in die Turbinen gemessenen Frischdampfmenge ausgenutzt worden sind.
 
 ### § 6
 
@@ -67,8 +67,4 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 ### Schlußformel
 
-Der Bundesminister für Wirtschaft
-
 ### Anlage
-
-Fundstelle des Originaltextes: BGBl. I 1974, 3702   Der Abschlag nach § 3 beträgt bei einer Engpaßleistung bis zu

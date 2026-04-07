@@ -23,5 +23,3 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar
 Diese Verordnung tritt am 1. Januar 1957 in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Wirtschaft

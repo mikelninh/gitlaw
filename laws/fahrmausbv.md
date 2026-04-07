@@ -14,9 +14,9 @@ Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsges
 
 Der Ausbildungsberuf Fahrradmonteur/Fahrradmonteurin wird
 
-1.
+1. gemäß § 25 der Handwerksordnung für die Ausbildung für das Gewerbe Nummer 17, Zweiradmechaniker, der Anlage A der Handwerksordnung sowie
 
-2.
+2. gemäß § 25 des Berufsbildungsgesetzes staatlich anerkannt.
 
 ### § 2 — Ausbildungsdauer
 
@@ -36,35 +36,35 @@ Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundb
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
-1.
+1. Berufsbildung, Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-4.
+4. Umweltschutz,
 
-5.
+5. Planen und Vorbereiten von Arbeitsabläufen sowie Kontrollieren von Arbeitsergebnissen,
 
-6.
+6. Qualitätsmanagement,
 
-7.
+7. Messen und Prüfen an Systemen,
 
-8.
+8. Betriebliche und technische Kommunikation,
 
-9.
+9. Kommunikation mit internen und externen Kunden,
 
-10.
+10. Bedienen von Fahrrädern und Systemen,
 
-11.
+11. Warten, Prüfen und Einstellen von Fahrrädern und Systemen sowie von Betriebseinrichtungen,
 
-12.
+12. Montieren, Demontieren und Instandsetzen von Bauteilen, Baugruppen und Systemen,
 
-13.
+13. Manuelles und maschinelles Bearbeiten,
 
-14.
+14. Herstellen und Instandhalten von Systemen und Anlagen der Fahrradtechnik,
 
-15.
+15. Bereitstellen von Waren und Dienstleistungen.
 
 ### § 6 — Ausbildungsrahmenplan
 
@@ -84,11 +84,11 @@ Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu
 
 (2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Die Prüflinge sollen in insgesamt höchstens drei Stunden zwei Arbeitsaufgaben praktisch durchführen sowie in insgesamt höchstens 60 Minuten Aufgaben, die im Zusammenhang mit den Arbeitsaufgaben stehen, schriftlich lösen. Hierfür kommen insbesondere in Betracht: Dabei sollen die Prüflinge zeigen, dass sie Arbeitsschritte planen, Arbeitsmittel anwenden, technische Unterlagen nutzen sowie den Sicherheits- und Gesundheitsschutz bei der Arbeit und den Umweltschutz berücksichtigen können.
+(3) Die Prüflinge sollen in insgesamt höchstens drei Stunden zwei Arbeitsaufgaben praktisch durchführen sowie in insgesamt höchstens 60 Minuten Aufgaben, die im Zusammenhang mit den Arbeitsaufgaben stehen, schriftlich lösen. Hierfür kommen insbesondere in Betracht:
 
-1.
+1. Warten, Prüfen und Einstellen von Fahrradsystemen,
 
-2.
+2. Montieren und Demontieren von Fahrradbauteilen, -baugruppen und -systemen.
 
 ### § 10 — Gesellenprüfung, Abschlussprüfung
 
@@ -98,39 +98,19 @@ Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu
 
 (3) Der schriftliche Teil der Prüfung umfasst die Prüfungsbereiche Fahrradtechnik, Instandhaltung sowie Wirtschafts- und Sozialkunde. Es kommen praxisbezogene Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
-1.
+1. Im Prüfungsbereich Fahrradtechnik:a)Werkstoffe und Betriebsmittel, b)Bremssysteme, c)Antriebssysteme, d)Beleuchtungssysteme, e)Zubehör- und Zusatzeinrichtungen; Werkstoffe und Betriebsmittel, Bremssysteme, Antriebssysteme, Beleuchtungssysteme, Zubehör- und Zusatzeinrichtungen;
 
-a)
+2. im Prüfungsbereich Instandhaltung:a)Reparaturauftrag und Arbeitsplanung, b)Instandsetzung und Wartung, c)Gewährleistung, Garantie- und Kulanzabwicklung; Reparaturauftrag und Arbeitsplanung, Instandsetzung und Wartung, Gewährleistung, Garantie- und Kulanzabwicklung;
 
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-c)
-
-3.
-
-(4) Die schriftliche Prüfung dauert höchstens:
+3. im Prüfungsbereich Wirtschafts- und Sozialkunde: allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 (5) Der schriftliche Teil der Prüfung ist auf Antrag der Prüflinge oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche sind das jeweilige bisherige Ergebnis und das entsprechende Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
+(7) Die Prüfung ist bestanden, wenn
 
-(7) Die Prüfung ist bestanden, wenn mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche des schriftlichen Teils müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich dürfen keine ungenügenden Leistungen erbracht worden sein.
+1. im praktischen Prüfungsteil und
 
-1.
-
-2.
+2. im schriftlichen Prüfungsteil
 
 ### § 11 — Fortsetzung der Berufsausbildung
 

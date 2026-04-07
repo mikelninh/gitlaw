@@ -12,75 +12,75 @@ Auf Grund des § 35c des Einkommensteuergesetzes, der durch Artikel 1 des Gesetz
 
 ### § 1 — Mindestanforderungen an energetische Einzelmaßnahmen
 
-Berücksichtigt werden bauliche Maßnahmen im Sinne des § 35c Absatz 1 Satz 3 des Einkommensteuergesetzes, die die zu dieser Verordnung jeweils aufgeführten Mindestanforderungen erfüllen; im Einzelnen: Für alle baulichen Maßnahmen nach Satz 1 gilt, dass die Aufwendungen für den fachgerechten Einbau beziehungsweise die fachgerechte Installation, für die Inbetriebnahme von Anlagen, für notwendige Umfeldmaßnahmen sowie die direkt mit der Maßnahme verbundenen Materialkosten zu berücksichtigen sind. Die Einhaltung der in den Anlagen zu dieser Verordnung jeweils aufgeführten Mindestanforderungen ist durch ein Fachunternehmen nach § 2 zu bestätigen.
+Berücksichtigt werden bauliche Maßnahmen im Sinne des § 35c Absatz 1 Satz 3 des Einkommensteuergesetzes, die die zu dieser Verordnung jeweils aufgeführten Mindestanforderungen erfüllen; im Einzelnen:
 
-1.
+1. für die Wärmedämmung von Wänden nach der Anlage 1,
 
-2.
+2. für die Wärmedämmung von Dachflächen nach der Anlage 2,
 
-3.
+3. für die Wärmedämmung von Geschossdecken nach der Anlage 3,
 
-4.
+4. für die Erneuerung der Fenster oder Außentüren nach der Anlage 4 und zur Verbesserung des sommerlichen Wärmeschutzes nach der Anlage 4a,
 
-5.
+5. für die Erneuerung oder den Einbau einer Lüftungsanlage nach der Anlage 5,
 
-6.
+6. für die Erneuerung der Heizungsanlage nach der Anlage 6,
 
-7.
+7. für den Einbau von digitalen Systemen zur energetischen Betriebs- und Verbrauchsoptimierung nach der Anlage 7 sowie
 
-8.
+8. für die Optimierung bestehender Heizungsanlagen, sofern diese älter als zwei Jahre sind, nach der Anlage 8.
 
 > (+++ § 1: Zur Anwendung vgl. § 3 +++)
 
 ### § 2 — Anforderung an ein Fachunternehmen
 
-(1) Fachunternehmen gemäß § 35c Absatz 1 Satz 6 des Einkommensteuergesetzes ist jedes Unternehmen, das in den nachfolgend aufgeführten Gewerken tätig ist: Als Fachunternehmen im Sinne von § 35c Absatz 1 Satz 6 des Einkommensteuergesetzes gelten auch Unternehmen, die sich auf die Fenstermontage spezialisiert haben und in diesem Bereich gewerblich tätig sind. Bei der ausgeführten energetischen Maßnahme muss es sich zudem um eine Maßnahme handeln, die dem Gewerk des Fachunternehmens zugehörig ist.
+(1) Fachunternehmen gemäß § 35c Absatz 1 Satz 6 des Einkommensteuergesetzes ist jedes Unternehmen, das in den nachfolgend aufgeführten Gewerken tätig ist:
 
-1.
+1. Mauer- und Betonbauarbeiten,
 
-2.
+2. Stukkateurarbeiten,
 
-3.
+3. Maler- und Lackierungsarbeiten,
 
-4.
+4. Zimmerer-, Tischler- und Schreinerarbeiten,
 
-5.
+5. Wärme-, Kälte- und Schallisolierungsarbeiten,
 
-6.
+6. Steinmetz- und Steinbildhauarbeiten,
 
-7.
+7. Brunnenbauarbeiten,
 
-8.
+8. Dachdeckerarbeiten,
 
-9.
+9. Klempnerarbeiten,
 
-10.
+10. Glasarbeiten,
 
-11.
+11. Installateur- und Heizungsbauarbeiten,
 
-12.
+12. Kälteanlagenbau,
 
-13.
+13. Elektrotechnik und -installation,
 
-14.
+14. Metallbau,
 
-15.
+15. Ofen- und Luftheizungsbau,
 
-16.
+16. Rollladen- und Sonnenschutztechnik,
 
-17.
+17. Schornsteinfegerarbeiten,
 
-18.
+18. Fliesen-, Platten- und Mosaiklegerarbeiten,
 
-19.
+19. Betonstein- und Terrazzoherstellung.
 
-(2) Die Voraussetzungen nach § 35c Absatz 1 Satz 7 des Einkommensteuergesetzes erfüllen zudem Personen mit Ausstellungsberechtigung nach § 88 des Gebäudeenergiegesetzes, sofern
+(2) Die Voraussetzungen nach § 35c Absatz 1 Satz 7 des Einkommensteuergesetzes erfüllen zudem Personen mit Ausstellungsberechtigung nach § 88 des Gebäudeenergiegesetzes, sofern
 
-1.
+1. die energetische Maßnahme durch ein Fachunternehmen nach Absatz 1 Satz 1 und 2 ausgeführt wird,
 
-2.
+2. die Maßnahme dem Gewerk dieses Unternehmens zugehörig ist und
 
-3.
+3. die Person mit Ausstellungsberechtigung nach § 88 des Gebäudeenergiegesetzes durch das Unternehmen oder den Steuerpflichtigen mit der planerischen Begleitung oder Beaufsichtigung der energetischen Maßnahme betraut worden ist.
 
 > (+++ § 2: Zur Anwendung vgl. § 3 +++)
 
@@ -140,25 +140,15 @@ Von der Steuerermäßigung umfasst ist der Ersatz oder erstmalige Einbau von au�
 
 ### Anlage 5 — Erneuerung oder Einbau einer Lüftungsanlage
 
-Förderfähig sind folgende Anlagensysteme: Die jeweiligen Anforderungen an die spezifische elektrische Leistungsaufnahme von Ventilatoren und an den Wärmebereitstellungsgrad von Lüftungsanlagen werden gleichwertig erfüllt, wenn die Lüftungsanlage einen spezifischen Energieverbrauch von SEV < 26 kWh / (m2 a) gemäß Ökodesign-Richtlinie aufweist.
+Förderfähig sind folgende Anlagensysteme:
 
-–
+– Bedarfsgeregelte zentrale Abluftsysteme, die feuchte-, kohlendioxid- oder mischgasgeführt sind und eine spezifische elektrische Leistungsaufnahme der Ventilatoren von Pel,Vent≤ 0,20 W/(m3/h) aufweisen.
 
-–
+– Zentrale, dezentrale oder raumweise Anlagen mit Wärmeübertrager, mit denen –ein Wärmebereitstellungsgrad von ηWBG≥ 80 Prozent bei einer spezifischen elektrischen Leistungsaufnahme von Pel,Vent≤ 0,45 W/(m3/h) oder–ein Wärmebereitstellungsgrad von ηWBG≥ 75 Prozent bei einer spezifischen elektrischen Leistungsaufnahme von Pel,Vent≤ 0,35 W/(m3/h)erreicht wird. ein Wärmebereitstellungsgrad von ηWBG≥ 80 Prozent bei einer spezifischen elektrischen Leistungsaufnahme von Pel,Vent≤ 0,45 W/(m3/h) oder ein Wärmebereitstellungsgrad von ηWBG≥ 75 Prozent bei einer spezifischen elektrischen Leistungsaufnahme von Pel,Vent≤ 0,35 W/(m3/h)
 
-–
+– Kompaktgeräte mit Luft-Luft-Wärmeübertrager und mit Abluftwärmepumpe, mit denen –ein Wärmebereitstellungsgrad von ηWBG≥ 75 Prozent bei–einer jahreszeitbedingten Raumheizungseffizienz von ηs (ETA S) ≥ 140 Prozent (bei 35 °C) und–eine spezifische elektrische Leistungsaufnahme der Ventilatoren von Pel,Vent≤ 0,45 W/(m3/h)erreicht wird. ein Wärmebereitstellungsgrad von ηWBG≥ 75 Prozent bei einer jahreszeitbedingten Raumheizungseffizienz von ηs (ETA S) ≥ 140 Prozent (bei 35 °C) und eine spezifische elektrische Leistungsaufnahme der Ventilatoren von Pel,Vent≤ 0,45 W/(m3/h)
 
-–
-
-–
-
-–
-
-–
-
-–
-
-–
+– Kompaktgeräte ohne Luft-Luft-Wärmeübertrager und mit Abluftwärmepumpe, mit denen eine jahreszeitbedingte Raumheizungseffizienz von ηs (ETA S) ≥ 140 Prozent (bei 35 °C) bei einer spezifischen elektrischen Leistungsaufnahme der Ventilatoren von Pel,Vent≤ 0,35 W/(m3/h) erreicht wird. Eine Lüftungsanlage muss einreguliert sein und mindestens in der Lage sein, die in DIN 1946‑6 genannte Lüftung zum Feuchteschutz für das Gebäude beziehungsweise für mindestens sämtliche Nutzungseinheiten sicherzustellen.
 
 Lüftungsanlagen müssen die zum Zeitpunkt des Einbaus geltenden Anforderungen der Ökodesign-Richtlinie an die umweltgerechte Gestaltung von Wohnungslüftungsanlagen einhalten.
 
@@ -168,29 +158,29 @@ Lüftungsanlagen müssen die zum Zeitpunkt des Einbaus geltenden Anforderungen d
 
 Bei der Planung und der Ausführung sind stets die geltenden nationalen und europäischen Bestimmungen sowie die allgemein anerkannten Regeln der Technik zu berücksichtigen. Zur korrekten Auslegung einer Heizungsanlage (Vermeidung von über- oder unterdimensionierten Anlagen) ist die Dimensionierung der Anlage anhand einer Heizlastermittlung nach DIN EN/TS 12831 durchzuführen. Dabei sind Vereinfachungen möglich (siehe Leistungsbeschreibung im Bestätigungsformular für Einzelmaßnahmen der „VdZ − Wirtschaftsvereinigung Gebäude und Energie e. V.“; www.vdzev.de/broschueren/formulare-hydraulischer-abgleich). Zudem ist die Durchführung folgender Maßnahmen und die Installation folgender technischer Komponenten für eine Steuerermäßigung grundsätzlich erforderlich:
 
-–
+– Alle Energieverbräuche sowie alle erzeugten Wärmemengen eines begünstigten Wärmeerzeugers müssen messtechnisch erfasst werden.
 
-–
+– Alle begünstigten Heizsysteme müssen mit einer Energieverbrauchs- und Effizienzanzeige ausgestattet sein. Ausnahmen: Bei begünstigten Biomasseheizungen müssen lediglich die erzeugten Wärmemengen gemessen werden. Eine Effizienzanzeigepflicht besteht nicht. Bei begünstigten Wärmepumpen, die über das Medium Luft heizen, müssen die Wärmemengen gemessen werden. Eine Energieverbrauchsbilanzierung nach DIN EN 12831 Beiblatt 2 ist dabei zulässig. Bei Wärme- und Gebäudenetzanschlüssen sind keine Energieverbrauchs- oder Effizienzanzeigen notwendig.
 
-–
+– Durchführung eines hydraulischen Abgleichs nach Verfahren B gemäß Bestätigungsformular des hydraulischen Abgleichs der „VdZ − Wirtschaftsvereinigung Gebäude und Energie e. V.“ (www.vdzev.de/broschueren/formulare-hydraulischer-abgleich). Bei luftgeführten Systemen sind die Luftvolumenströme anzupassen.
 
-–
+– Rohrleitungen sind mindestens gemäß den Anforderungen des jeweils geltenden Gebäudeenergiegesetzes zu dämmen.
 
-–
+– Anpassung der Heizkurve an das Gebäude.
 
-–
+– Bei Verfügbarkeit einer Internetverbindung und einer technischen Schnittstelle am Gerät ist die Verbindung der Heizungsanlagen mit dem Internet herzustellen.
 
 Gegenstand der Steuerermäßigung sind die Errichtung oder Erweiterung von Anlagen zur Wärmeerzeugung, die überwiegend (mit mehr als 50 Prozent der erzeugten Wärme) mindestens einem der folgenden Zwecke dienen:
 
-–
+– Warmwasserbereitung,
 
-–
+– Raumheizung,
 
-–
+– kombinierte Warmwasserbereitung und Raumheizung,
 
-–
+– solare Kälteerzeugung,
 
-–
+– die Zuführung der Wärme oder solaren Kälte in ein Gebäudenetz.
 
 Nicht umfasst sind Anlagen, die ausschließlich der Stromerzeugung dienen (zum Beispiel Photovoltaikanlagen).
 
@@ -204,97 +194,63 @@ Nicht förderfähig sind solarthermische Anlagen mit Kollektoren ohne transparen
 
 Die Anlagen müssen die folgenden technischen Mindestanforderungen erfüllen:
 
-–
+– Unabhängige Prüfung/Zertifizierung nach Solar-Keymark eines nach ISO 17025 akkreditierten Prüfinstituts im Sinne des § 71e des Gebäudeenergiegesetzes.
 
-–
+– Jährlicher Kollektorertrag QkOl für flüssigkeitsdurchströmte Kollektoren von mindestens 525 kWh/m2. Der Nachweis von QkOl erfolgt auf Basis der Kollektorerträge bei 25 °C und 50 °C am Standort Würzburg und berechnet sich wie folgt: QkOl = 0,38 (W25/Aap – Ceff) + 0,71 (W50/Aap – Ceff).
 
 Abweichend zu der in den übergreifenden technischen Mindestanforderungen genannten messtechnischen Erfassung der Energieverbräuche sowie aller erzeugten Wärmemengen eines regenerativen Wärmeerzeugers gilt für solarthermische Anlagen Folgendes:
 
-–
+– Die Anlagen müssen mit einem Funktionskontrollgerät (Solarregelung) ausgestattet sein (Luftkollektoren sind ausgenommen).
 
-–
+– Bei Vakuumröhren- und Vakuumflachkollektoren ab 20 m2 oder Flachkollektoren ab 30 m2 ist die Erfassung der solaren Erträge im Kollektorkreislauf erforderlich, zum Beispiel mit einem Wärmemengenzähler oder einer Solarregelung mit entsprechender Option.
 
-–
+– Wenn nur eine Solarkollektoranlage ausschließlich für die Warmwasserbereitung errichtet oder diese durch zusätzliche Solarkollektoren erweitert wird, ist der hydraulische Abgleich nicht notwendig.
 
-Von der Steuerermäßigung umfasst ist die Installation von Anlagen zur Verbrennung von fester Biomasse gemäß § 3 Absatz 1 Nummer 4, 5, 5a, 8 oder Nummer 13 der Verordnung über kleine und mittlere Feuerungsanlagen (1. BImSchV). Hierbei sind die Anforderungen an die Ableitbedingungen nach § 19 Absatz 1 1. BImSchV zu erfüllen, auch wenn es sich um den Austausch einer Bestandsanlage handelt. Begünstigt sind folgende Anlagen ab mindestens 5 kW Nennwärmeleistung: wenn die nachfolgend genannten technischen Vorgaben erfüllt werden.
+Von der Steuerermäßigung umfasst ist die Installation von Anlagen zur Verbrennung von fester Biomasse gemäß § 3 Absatz 1 Nummer 4, 5, 5a, 8 oder Nummer 13 der Verordnung über kleine und mittlere Feuerungsanlagen (1. BImSchV). Hierbei sind die Anforderungen an die Ableitbedingungen nach § 19 Absatz 1 1. BImSchV zu erfüllen, auch wenn es sich um den Austausch einer Bestandsanlage handelt. Begünstigt sind folgende Anlagen ab mindestens 5 kW Nennwärmeleistung:
 
-a)
+a) Kessel zur Verbrennung von Biomassepellets und -hackgut, die –automatisch beschickt sind,–über Leistungs- und Feuerungsregelung sowie automatische Zündung verfügen,–durch ein gemäß ISO 17025 akkreditiertes Prüfinstitut nach EN 303-5 geprüft sind und–ein Pufferspeicher-Volumen von mindestens 30 Liter je kW Nennwärmeleistung einbinden; automatisch beschickt sind, über Leistungs- und Feuerungsregelung sowie automatische Zündung verfügen, durch ein gemäß ISO 17025 akkreditiertes Prüfinstitut nach EN 303-5 geprüft sind und ein Pufferspeicher-Volumen von mindestens 30 Liter je kW Nennwärmeleistung einbinden;
 
-–
+b) Pelletöfen mit Wassertasche, die –automatisch beschickt sind,–über Leistungs- und Feuerungsregelung sowie automatische Zündung verfügen,–durch ein gemäß ISO 17025 akkreditiertes Prüfinstitut nach EN 14785 geprüft sind und–ein Pufferspeicher-Volumen von mindestens 30 Liter je kW Nennwärmeleistung einbinden; automatisch beschickt sind, über Leistungs- und Feuerungsregelung sowie automatische Zündung verfügen, durch ein gemäß ISO 17025 akkreditiertes Prüfinstitut nach EN 14785 geprüft sind und ein Pufferspeicher-Volumen von mindestens 30 Liter je kW Nennwärmeleistung einbinden;
 
-–
+c) besonders emissionsarme Scheitholzvergaserkessel, die –über Leistungs- und Feuerungsregelung (mit Temperaturfühler hinter der Verbrennungskammer und/oder Lambdasonde zur Messung des O2-Gehalts im Abgasrohr oder gleichwertigen Sensoren) verfügen,–ein Pufferspeicher-Volumen von mindestens 55 Liter je kW Nennwärmeleistung einbinden und–durch ein gemäß ISO 17025 akkreditiertes Prüfinstitut nach EN 303-5 geprüft sind; über Leistungs- und Feuerungsregelung (mit Temperaturfühler hinter der Verbrennungskammer und/oder Lambdasonde zur Messung des O2-Gehalts im Abgasrohr oder gleichwertigen Sensoren) verfügen, ein Pufferspeicher-Volumen von mindestens 55 Liter je kW Nennwärmeleistung einbinden und durch ein gemäß ISO 17025 akkreditiertes Prüfinstitut nach EN 303-5 geprüft sind;
 
-–
-
-–
-
-b)
-
-–
-
-–
-
-–
-
-–
-
-c)
-
-–
-
-–
-
-–
-
-d)
-
-–
-
-–
-
-–
-
-–
-
-Der „jahreszeitbedingte Raumheizungsnutzungsgrad“ ƞs (= ETAs) gemäß Ökodesign-Richtlinie begünstigter Biomasseanlagen muss bei durchschnittlichen Klimaverhältnissen mindestens 81 Prozent erreichen.
+d) Kombinationskessel zur Verbrennung von Biomassepellets beziehungsweise -hackgut und Scheitholz, die –bei der Verbrennung von Biomassepellets und -hackgut automatisch beschickt sind,–über Leistungs- und Feuerungsregelung sowie automatische Zündung für den automatisch beschickten Anlagenteil verfügen,–über Leistungs- und Feuerungsregelung (mit Temperaturfühler hinter der Verbrennungskammer und/oder Lambdasonde zur Messung des O2-Gehalts im Abgasrohr oder gleichwertigen Sensoren) verfügen und–ein Pufferspeicher-Volumen von mindestens 55 Liter je kW Nennwärmeleistung einbinden; bei der Verbrennung von Biomassepellets und -hackgut automatisch beschickt sind, über Leistungs- und Feuerungsregelung sowie automatische Zündung für den automatisch beschickten Anlagenteil verfügen, über Leistungs- und Feuerungsregelung (mit Temperaturfühler hinter der Verbrennungskammer und/oder Lambdasonde zur Messung des O2-Gehalts im Abgasrohr oder gleichwertigen Sensoren) verfügen und ein Pufferspeicher-Volumen von mindestens 55 Liter je kW Nennwärmeleistung einbinden;
 
 Alle Biomasseanlagen müssen folgende Emissionsgrenzwerte einhalten (bezogen auf einen Volumengehalt an Sauerstoff im Abgas von 13 Prozent im Normzustand [273 K, 1013 hPa]):
 
-–
+– Kohlenmonoxid: 200 mg/m3 bei Nennwärmeleistung, 250 mg/m3 bei Teillastbetrieb (für Brennstoffe nach § 3 Absatz 1 Nummer 8 1. BImSchV);
 
-–
+– Staub: gemäß § 5 Absatz 1 Satz 1 1. BImSchV.
 
 Nicht umfasst sind:
 
-–
+– luftgeführte Pelletöfen,
 
-–
+– handbeschickte Einzelöfen,
 
-–
+– Anlagen, die überwiegend der Verfeuerung von Abfallstoffen aus der gewerblichen Be- und Verarbeitung von Holz dienen, außer es handelt sich um Altholz der Kategorie A1 (naturbelassenes oder lediglich mechanisch bearbeitetes Altholz),
 
-–
+– Biomasseanlagen, die unter Naturzugbedingungen betrieben werden.
 
 Von der Steuerermäßigung umfasst sind Anlagen, die erneuerbare Energien im Gebäude oder in unmittelbarer Nähe zum versorgten Gebäude zu den in den übergreifenden technischen Mindestanforderungen genannten Zwecken einsetzen. Wärmepumpen, die mit Gas betrieben werden oder Raumluft als Wärmequelle nutzen, sind hiervon ausgenommen. Elektrisch betriebene Wärmepumpen (auch als Komponente einer bivalenten Heizungsanlage) können Gegenstand der Steuerermäßigung sein, wenn die nachfolgend genannten technischen Vorgaben erfüllt werden.
 
 Die unabhängige Prüfung/Zertifizierung erfolgt durch Einzelprüfung nach EN 14511/EN 14825 oder darauf basierende Zertifizierung nach einem der etablierten europäischen Baureihenreglements (EHPA, Keymark, EUROVENT ECP, MCS, NF etc.) durch ein nach ISO 17025 akkreditiertes Prüfinstitut.
 
-Für die Energieeffizienz der Wärmepumpen gelten die folgenden Anforderungen:
-
 Begünstigte Wärmepumpen müssen über Schnittstellen verfügen, über die sie automatisiert netzdienlich aktiviert und betrieben werden können (zum Beispiel anhand der Standards „SG Ready“, „VHP Ready“ oder VDE-AR-E 2829-6/EN 50631 – EEBUS), um an ein zertifiziertes Smart-Meter-Gateway angeschlossen werden zu können, damit energiewirtschaftlich relevante Mess- und Steuerungsvorgänge entsprechend den Anforderungen des Energiewirtschaftsgesetzes und des Messstellenbetriebsgesetzes abgewickelt werden können.
 
 Ab 1. Januar 2028 müssen neu installierte Wärmepumpen natürliche Kältemittel einsetzen. Als solche werden beispielsweise anerkannt:
 
-–
+– R290 Propan,
 
-–
+– R600a Isobutan,
 
-–
+– R1270 Propen,
 
-–
+– R717 Ammoniak,
 
-–
+– R718 Wasser,
 
-–
+– R744 Kohlendioxid.
 
 Bei Luft-Wasser-Wärmepumpen müssen die Geräuschemissionen des Außengeräts zumindest 5 dB (ab 1. Januar 2026: 10 dB) niedriger liegen als die Geräuschemissionsgrenzwerte für Wärmepumpen in der Verordnung (EU) Nr. 813/2013 (Ökodesign-Verordnung) in der Fassung vom 2. August 2013.
 
@@ -308,11 +264,7 @@ Die folgenden Anforderungen sind zu erfüllen:
 
 Die Brennstoffzellen-Heizsysteme dürfen ausschließlich mit grünem oder blauem Wasserstoff nach § 3 Absatz 1 Nummer 4a und 13b des Gebäudeenergiegesetzes oder Biomethan betrieben werden. Ausgaben für die Herstellung des Wasserstoffs sind nicht förderfähig (zum Beispiel Ausgaben für Elektrolyseure). Die Brennstoffzelle ist in die Wärme- und Stromversorgung des Gebäudes einzubinden.
 
-Zum Zeitpunkt der Inbetriebnahme der Brennstoffzelle muss der Gesamtwirkungsgrad η ≥ 0,82 und der elektrische Wirkungsgrad ηel≥ 0,32 betragen.
-
 Der Hersteller stellt – zum Beispiel über die Verfügbarkeit von Ersatzteilen – einen Betrieb der Brennstoffzelle für einen Zeitraum von zehn Jahren sicher.
-
-Für die Brennstoffzelle ist eine Vollwartung über mindestens zehn Jahre zu vereinbaren, die dem Käufer einen elektrischen Wirkungsgrad von mindestens ηel≥ 0,26 sowie die Reparatur und Wiederinbetriebnahme im Fall von Störungen zusichert.
 
 Aufwendungen für bivalente Heizungsanlagen, die Heizungsarten im Sinne der Nummern 6.1 bis 6.4 kombinieren, sind anteilig von der Steuerermäßigung umfasst, soweit sie auf den Teil oder die Teile der Heizungsanlage entfallen, der oder die die Anforderungen der Nummern 6.1 bis 6.4 erfüllt oder erfüllen.
 
@@ -322,15 +274,15 @@ Von der Steuerermäßigung umfasst ist die Errichtung, der Umbau oder die Erweit
 
 Begünstigt sind folgende Komponenten:
 
-–
+– Wärmeverteilung,
 
-–
+– gegebenenfalls Wärmeerzeugung aus Anlagen im Sinne der Nummern 6.1 bis 6.4,
 
-–
+– gegebenenfalls Wärmespeicherung,
 
-–
+– gegebenenfalls Steuer-, Mess- und Regelungstechnik sowie
 
-–
+– gegebenenfalls Wärmeübergabestationen.
 
 Alle Energieverbräuche sowie alle erzeugten Wärmemengen eines begünstigten Gebäudenetzes müssen messtechnisch erfasst werden. Alle begünstigten Gebäudenetze müssen mit einer Energieverbrauchs- und Effizienzanzeige ausgestattet sein.
 
@@ -348,37 +300,37 @@ Systeme zur Verbesserung der Netzdienlichkeit müssen sicherstellen, dass energi
 
 Folgende Maßnahmen sind begünstigt:
 
-–
+– Smart-Meter, Mess-, Steuerungs- und Regeltechnik für Heizungs-, Beleuchtungs-, Lüftungs- beziehungsweise Klimatechnik sowie Einbindung von Wetterdaten, auch als Multi-Sparten-Systeme inklusive Strom, Gas und Wasser,
 
-–
+– Systeme zur Erfassung und Auswertung von Energieflüssen, Energieverbräuchen, Teilverbräuchen der unterschiedlichen Sparten und Energiekosten,
 
-–
+– elektronische Heizkostenverteiler, Wasser- und Wärmemengenzähler zur Visualisierung und Analyse von Heizwärmeverbräuchen,
 
-–
+– elektronische Systeme zur Betriebsoptimierung, der Bereitstellung von Nutzerinformation bei nachlassender Systemeffizienz und der Anzeige von notwendigen Wartungsintervallen, zum Beispiel bei der Wärmeerzeugung, dem hydraulischen Abgleich der Heizungsanlage und den Emissionen aus der Wärmeerzeugung,
 
-–
+– Wohnungsdisplay beziehungsweise Nutzerinterfaces zur Anzeige von aktuellen Daten der Heiz- und Elektroenergie, von Warm- und Kaltwasser etc.,
 
-–
+– elektronische Heizkörperthermostate/Raumthermostate,
 
-–
+– Integration von Luftqualitätssensoren, Fensterkontakten, Präsenzsensoren, Beleuchtungsaktoren.
 
-–
+– Systemtechnik für den Datenaustausch hausintern/-extern,
 
-–
+– elektronische Systeme zur Unterstützung der Netzdienlichkeit von Energieverbräuchen, die sicherstellen, dass energiewirtschaftlich relevante Mess- und Steuerungsvorgänge über ein Smart-Meter-Gateway entsprechend den Anforderungen des Energiewirtschaftsgesetzes und des Messstellenbetriebsgesetzes abgewickelt werden können.
 
-–
+– präsenzabhängige Zentralschaltung von Geräten, Steckdosen etc.,
 
-–
+– baugebundene Bedienungs- und Antriebssysteme für Türen, Innentüren, Jalousien, Rollläden, Fenster, Türkommunikation, Beleuchtung, Heizung- und Klimatechnik,
 
-–
+– intelligente Türsysteme mit personalisierten Zutrittsrechten.
 
-–
+– notwendige Verkabelung (zum Beispiel Ethernetkabel) oder kabellose funkbasierte Installationen (zum Beispiel Router) für Kommunikations-/Notrufsysteme und intelligente Assistenzsysteme, USB-Anschlussbuchsen,
 
-–
+– Anschluss an eine Breitbandverkabelung, Leerrohre, Kabel (zum Beispiel Lichtwellenleiter, CAT 7) für Mess-, Steuerungs- und Regelungstechnik sowie für Smart-Metering-Systeme.
 
-–
+– Energiemanagementsystem inklusive Integration in wohnwirtschaftliche Software,
 
-–
+– Einstellarbeiten an der Regelung der Heizungs-, Beleuchtungs-, Lüftungs- beziehungsweise Klimatechnik mit dem Ziel der Senkung des Energieverbrauchs (zum Beispiel Optimierung der Heizkurve, Anpassung der Vorlauftemperatur und der Pumpenleistung).
 
 Nicht förderfähig sind Endgeräte und Unterhaltungstechnik, wie zum Beispiel Handy, Tablet, Computer, Fernseher, Lautsprecher.
 
@@ -390,39 +342,39 @@ Von der Steuerermäßigung umfasst sind Maßnahmen zur Optimierung bestehender H
 
 Zu den Maßnahmen gehören
 
-–
+– der hydraulische Abgleich der Heizungsanlage inklusive der Einstellung der Heizkurve,
 
-–
+– der Ersatz von Heizungs-Umwälzpumpen (Nass- und Trockenläuferpumpen) und Warmwasser-Zirkulationspumpen durch hocheffiziente Pumpen,
 
-–
+– die Anpassung der Vorlauftemperatur und der Pumpenleistung,
 
-–
+– die Installation von Armaturen beziehungsweise Technik zur Volumenstromregelung wie voreinstellbare Thermostatventile, Einzelraumtemperaturregler, Strangregulierventile und Differenzdruckregler, Strangdifferenzdruckregler, Volumenstromregler, in Einrohrsystemen Maßnahmen zur Volumenstromregelung und der Umbau von Ein- in Zweirohrsysteme,
 
-–
+– die Wärmedämmung ungedämmter oder unzureichend gedämmter Wärmeverteilleitungen,
 
-–
+– Maßnahmen zur Absenkung der Rücklauftemperatur bei Gebäudenetzen,
 
-–
+– der Einbau von Flächenheizungen und Heizleisten (System-Vorlauftemperaturen ≤ 35 °C), von Niedertemperaturheizkörpern (Vorlauftemperatur ≤ 55 °C) und von Wärmespeichern im Gebäude oder gebäudenah (auf dem Gebäudegrundstück),
 
-–
+– der Einbau von Mess-, Steuer- und Regelungstechniken,
 
-–
+– die Umstellung des Trinkwarmwassersystems, das heißt, seine Integration in die Heizungsanlage,
 
-–
+– elektronisch geregelte Durchlauferhitzer,
 
-–
+– Rohrinnensanierungen,
 
-–
+– Filter, Schmutzfänger, Abscheider zur Erhaltung der Funktionalität, Effizienz und Lebensdauer von Heizungsanlagen (Schwerkraftfilter, Schlammabscheider, Magnetitabscheider, Entgasungsgeräte).
 
 Die Steuerermäßigung setzt bei wassergeführten Heizungssystemen ein hydraulisch abgeglichenes Heizungssystem voraus. Sofern ein Heizungssystem nicht abgeglichen ist, muss ein hydraulischer Abgleich nach Verfahren B gemäß Bestätigungsformular des hydraulischen Abgleichs sowie der zugehörigen Fachregel der „VdZ – Wirtschaftsvereinigung Gebäude und Energie e. V.“ (www.vdzev.de/broschueren/formulare-hydraulischer-abgleich) durchgeführt werden. Es ist nicht ausreichend, den hydraulischen Abgleich nur für einen Teil des Heizsystems, beispielsweise eine einzelne Wohneinheit in einem Mehrfamilienhaus mit Zentralheizung, durchzuführen. Weiterhin ist bei luftheizenden Systemen zu bestätigen, dass die Luftvolumenströme gemäß den rechnerisch ermittelten Einstellwerten einreguliert wurden.
 
 Pumpen müssen mindestens folgende Anforderungen erfüllen:
 
-–
+– Nassläufer-Umwälzpumpen: Energieeffizienzindex EEI ≤ 0,2 gemäß Verordnung (EU) Nr. 641/2009 in geltender Fassung;
 
-–
+– Trinkwarmwasser-Zirkulationspumpen: Energieeffizienzindex EEI ≤ 0,2 in Anlehnung an die Verordnung (EU) Nr. 641/2009 in geltender Fassung;
 
-–
+– Trockenläufer-Umwälzpumpen: Elektromotor der Klasse IE4 und Pumpeneffizienz MEI ≥ 0,6 gemäß Verordnung (EU) Nr. 547/2012.
 
 Für den Ersatz und erstmaligen Einbau von Pufferspeichern gilt: Wärmespeicher sind von der Steuerermäßigung umfasst, wenn sie Effizienzklasse A oder A+ gemäß Verordnung (EU) Nr. 812/2013 erreichen oder ihre Warmhalteverluste S in Watt in Abhängigkeit vom Speichervolumen V in Litern weniger als 8,5 W + 4,25 W/l V0,4 gemäß Verordnung (EU) Nr. 814/2013 betragen.
 
@@ -430,6 +382,6 @@ Nicht umfasst ist der Einbau beziehungsweise Austausch von Wärme- oder Stromerz
 
 Anlagen zur Trinkwarmwassererwärmung (zum Beispiel solarthermische Warmwasserbereitung) sind Bestandteil der Heizungsanlage.
 
-Umfasst sind Maßnahmen zur Reduzierung der Staubemissionen von Feuerungsanlagen für feste Biomasse mit einer Nennwärmeleistung von 4 kW oder mehr, die älter als zwei Jahre sind, ausgenommen Einzelraumfeuerungsanlagen. Weitere Voraussetzung ist, dass die Reduzierung der Staubemissionen mindestens 80 Prozent im Vergleich zum Ausgangswert beträgt (bezogen auf einen Volumengehalt an Sauerstoff im Abgas von 13 Prozent im Normzustand [273 K, 1013 hPa]) sowie dass die Einhaltung der nach § 25 Absatz 1 in Verbindung mit § 5 Absatz 1 Satz 1 1. BImSchV geforderten Grenzwerte gewährleistet ist und zuvor bereits die Anforderungswerte der Stufe 1 nach § 5 Absatz 1 Satz 1 1. BImSchV eingehalten wurden.
+Umfasst sind Maßnahmen zur Reduzierung der Staubemissionen von Feuerungsanlagen für feste Biomasse mit einer Nennwärmeleistung von 4 kW oder mehr, die älter als zwei Jahre sind, ausgenommen Einzelraumfeuerungsanlagen. Weitere Voraussetzung ist, dass die Reduzierung der Staubemissionen mindestens 80 Prozent im Vergleich zum Ausgangswert beträgt (bezogen auf einen Volumengehalt an Sauerstoff im Abgas von 13 Prozent im Normzustand [273 K, 1013 hPa]) sowie dass die Einhaltung der nach § 25 Absatz 1 in Verbindung mit § 5 Absatz 1 Satz 1 1. BImSchV geforderten Grenzwerte gewährleistet ist und zuvor bereits die Anforderungswerte der Stufe 1 nach § 5 Absatz 1 Satz 1 1. BImSchV eingehalten wurden.
 
 > (+++ Anlage 8: Zur Anwendung vgl. § 3 +++)

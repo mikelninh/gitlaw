@@ -8,37 +8,19 @@
 
 ### Eingangsformel
 
-Auf Grund des § 25 Nr. 1 und 5 in Verbindung mit § 39 Abs. 2 Satz 1 des Sprengstoffgesetzes vom 13. September 1976 (BGBl. I S. 2737) wird vom Bundesminister für Arbeit und Sozialordnung im Einvernehmen mit dem Bundesminister des Innern, auf Grund des § 29 Nr. 2 Buchstaben a und c des Sprengstoffgesetzes wird vom Bundesminister des Innern, auf Grund des § 4 Abs. 1 Nr. 2 in Verbindung mit § 39 Abs. 1 Satz 1 des Sprengstoffgesetzes wird vom Bundesminister des Innern im Einvernehmen mit dem Bundesminister für Wirtschaft und dem Bundesminister für Arbeit und Sozialordnung mit Zustimmung des Bundesrates verordnet:
-
 ### § 1 — Anzeige
 
 (1) Soll mit explosionsgefährlichen Stoffen gesprengt werden, hat die nach § 19 Abs. 1 Nr. 1 oder, im nichtgewerblichen Bereich, die nach § 28 Satz 1 in Verbindung mit § 19 Abs. 1 Nr. 1 des Sprengstoffgesetzes verantwortliche Person dies der zuständigen Behörde schriftlich in doppelter Ausfertigung oder elektronisch anzuzeigen, und zwar
 
-1.
+1. mindestens vier Wochen vor Beginn der Sprengungen, wenn mehrere gleichartige Sprengungen innerhalb einer Betriebsstätte oder zur Durchführung eines Vorhabens vorgenommen werden sollen, und
 
-2.
+2. mindestens eine Woche vor jeder sonstigen Sprengung.
 
-(2) In der Anzeige sind anzugeben Ihr sind als Unterlagen beizufügen Der Anzeige nach Absatz 1 Nr. 2 braucht ein Lageplan nicht beigefügt zu werden, wenn in der Anzeige die Entfernung der Sprengstelle von den nächstgelegenen Verkehrswegen, Wohn- und Arbeitsstätten und Einrichtungen der öffentlichen Versorgung angegeben ist.
+(2) In der Anzeige sind anzugeben
 
-1.
+1. Ort, Tag und Zeitpunkt der Sprengung; bei mehreren Sprengungen der Zeitraum, in dem sie vorgenommen werden sollen, und
 
-2.
-
-1.
-
-a)
-
-b)
-
-c)
-
-d)
-
-2.
-
-a)
-
-b)
+2. Name und Anschrift der für die Sprengung verantwortlichen Personen sowie Nummer und Datum der Erlaubnis nach § 7 oder § 27 des Sprengstoffgesetzes und des Befähigungsscheins nach § 20 des Sprengstoffgesetzes und die Behörden, die die Erlaubnis und den Befähigungsschein erteilt haben.
 
 ### § 2 — Änderungsanzeige
 
@@ -54,9 +36,9 @@ Sind nach Erstattung der Anzeige Veränderungen gegenüber dem Inhalt der Anzeig
 
 Ordnungswidrig im Sinne des § 41 Abs. 1 Nr. 16 des Sprengstoffgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 1 Abs. 1 eine Anzeige nicht oder nicht rechtzeitig erstattet oder entgegen § 1 Abs. 2 Angaben nicht, nicht vollständig, nicht rechtzeitig oder unrichtig macht oder Unterlagen nicht, nicht vollständig oder nicht rechtzeitig vorlegt,
 
-2.
+2. entgegen § 2 eine Veränderung nicht, nicht rechtzeitig, unvollständig oder unrichtig anzeigt oder eine Sprengung vor Ablauf der vorgeschriebenen Fristen durchführt.
 
 ### § 5
 

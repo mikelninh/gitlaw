@@ -14,7 +14,7 @@ Um den Verlauf der gemeinsamen Landesgrenze zweckmäßig zu gestalten und ein eh
 
 (1) Dieser Staatsvertrag ändert die gemeinsame Landesgrenze. Die Änderungen sind in der Anlage auf zwei Kartenblättern grafisch dargestellt. Die Kartenblätter sind Bestandteil dieses Staatsvertrages.
 
-(2) Es gehen nachfolgend aufgeführte Flurstücke vom Land Niedersachsen auf das Land Nordrhein-Westfalen über: Im Gebiet der Gemeinde Bad Essen, Gemarkung Dahlinghausen,
+(2) Es gehen nachfolgend aufgeführte Flurstücke vom Land Niedersachsen auf das Land Nordrhein-Westfalen über:
 
 ### Art 2
 
@@ -33,7 +33,3 @@ In dem abzutretenden Gebiet befindet sich kein Verwaltungsvermögen im Sinne des
 (2) Der Vertrag tritt am Ersten des auf den Austausch der Ratifikationsurkunden folgenden Monats in Kraft.
 
 ### Schlussformel
-
-Für das Land Niedersachsen Für den Niedersächsischen Ministerpräsidenten Niedersächsischer Minister für Inneres und Sport
-
-Für das Land Nordrhein-Westfalen Namens des Ministerpräsidenten Der Innenminister

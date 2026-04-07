@@ -32,13 +32,13 @@ Die Bundesregierung wird ermächtigt, ohne Zustimmung des Bundesrates die Rechts
 
 (1) Die Landesregierungen werden ermächtigt, für die Grundstücke in den in Artikel 4 und Artikel 5 des Grenzvertrags bezeichneten Gebietsteilen und in den Gebietsteilen, die nach Artikel 2 des Grenzvertrags zu einem späteren Zeitpunkt in das Hoheitsgebiet der Bundesrepublik Deutschland eingegliedert werden, durch Rechtsverordnung
 
-1.
+1. Vorschriften darüber zu treffen, in welcher Weise bis zur Anlegung oder Wiederanlegung von Grundbuchblättern die zu einer Rechtsänderung erforderliche Eintragung in das Grundbuch ersetzt werden soll,
 
-2.
+2. Vorschriften über die Anlegung und die Wiederanlegung der Grundbuchblätter zu treffen,
 
-3.
+3. Vorschriften darüber zu treffen, in welcher Weise Rechte, deren Inhalt sich nach niederländischem Recht bestimmt, in das Grundbuch eingetragen und in der Zwangsvollstreckung behandelt werden,
 
-4.
+4. Vorschriften zur Überleitung solcher Rechte an Grundstücken zu treffen, die ohne Beeinträchtigung der durch die Artikel 22 bis 29 des Grenzvertrags geschützten Belange der Beteiligten in vergleichbare Einrichtungen des deutschen Rechts übergeleitet werden können.
 
 (2) Die Landesregierung kann die Ermächtigung auf die Landesjustizverwaltung übertragen.
 

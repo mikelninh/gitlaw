@@ -12,15 +12,15 @@
 
 (2) Die Verordnung gilt nicht für explosionsgefährliche Stoffe
 
-1.
+1. auf Straßen-, Schienen-, Wasser- und Luftfahrzeugen während der Beförderung,
 
-2.
+2. auf den in Nummer 1 genannten Fahrzeugen, soweit die Stoffe zu Zwecken des Fahrzeugbetriebes aufbewahrt werden,
 
-3.
+3. die sich im Arbeitsgang befinden,
 
-4.
+4. die in der für den Fortgang der Arbeiten erforderlichen Menge bereitgehalten werden,
 
-5.
+5. die als Fertig- oder Zwischenprodukte kurzzeitig abgestellt werden.
 
 ### § 2 — Allgemeine Anforderungen
 
@@ -32,31 +32,31 @@
 
 Die zuständige Behörde kann auf schriftlichen oder elektronischen Antrag Ausnahmen von den Vorschriften des Anhangs zu dieser Verordnung zulassen, wenn
 
-1.
+1. eine andere, ebenso wirksame Maßnahme getroffen wird oder
 
-2.
+2. die Durchführung der Vorschrift im Einzelfall zu einer unverhältnismäßigen Härte führen würde und die Abweichung mit dem Schutz der Arbeitnehmer und Dritter sowie mit den Belangen der öffentlichen Sicherheit vereinbar ist.
 
 ### § 4 — Lager- und Verträglichkeitsgruppenzuordnung
 
 (1) Wer explosionsgefährliche Stoffe, die in der vorgesehenen Verpackung von der Bundesanstalt für Materialforschung und -prüfung (Bundesanstalt) noch keiner Lagergruppe zugeordnet sind, gewerbsmäßig herstellt, in den Geltungsbereich des Gesetzes verbringt oder einführt und selbst aufbewahren oder einem anderen überlassen will, hat die Stoffe und die Art der Verpackung der Bundesanstalt anzuzeigen. Die Anzeige muss Angaben enthalten über
 
-1.
+1. die Bezeichnung der Stoffe,
 
-2.
+2. die chemische Zusammensetzung und die physikalischen Eigenschaften der Stoffe,
 
-3.
+3. die Beschaffenheit (Material, Form) der Verpackungen, die Bruttomasse und das Volumen der Packstücke sowie die Masse der Stoffe.
 
 (2) (weggefallen)
 
-(3) Die Bundesanstalt ordnet die angezeigten explosionsgefährlichen Stoffe in der vorgesehenen Verpackung nach den Nummern 2.1.2 bis 2.1.5 oder 3.1.1.1 bis 3.1.1.3 des Anhangs zu dieser Verordnung der maßgebenden Lagergruppe und die Explosivstoffe der Lagergruppen 1.1 bis 1.4 nach Nummer 2.7 Abs. 1 in Verbindung mit Anlage 5 des Anhangs der zutreffenden Verträglichkeitsgruppe zu. Sie teilt die Zuordnung dem Anzeigenden mit. Sie führt eine Liste der Zuordnungen nach Satz 1, die folgende Angaben enthalten soll: Die Liste ist bei der Bundesanstalt während der Dienststunden auszulegen. Auf Verlangen eines Dritten ist diesem gegen Kostenerstattung eine Abschrift oder Vervielfältigung zu überlassen.
+(3) Die Bundesanstalt ordnet die angezeigten explosionsgefährlichen Stoffe in der vorgesehenen Verpackung nach den Nummern 2.1.2 bis 2.1.5 oder 3.1.1.1 bis 3.1.1.3 des Anhangs zu dieser Verordnung der maßgebenden Lagergruppe und die Explosivstoffe der Lagergruppen 1.1 bis 1.4 nach Nummer 2.7 Abs. 1 in Verbindung mit Anlage 5 des Anhangs der zutreffenden Verträglichkeitsgruppe zu. Sie teilt die Zuordnung dem Anzeigenden mit. Sie führt eine Liste der Zuordnungen nach Satz 1, die folgende Angaben enthalten soll:
 
-1.
+1. die Bezeichnung des Stoffes oder Gegenstandes,
 
-2.
+2. die dem Produkt zugeordnete Lager- und Verträglichkeitsgruppe,
 
-3.
+3. die sicherheitsrelevanten Verpackungsmerkmale und
 
-4.
+4. erforderlichenfalls besondere Sicherheitshinweise.
 
 (4) Soweit es sich um explosionsgefährliche Stoffe handelt, die ausschließlich für eine militärische Verwendung bestimmt sind, tritt in den Fällen der Absätze 1 und 3 an die Stelle der Bundesanstalt die zuständige Stelle der Bundeswehr.
 
@@ -72,15 +72,15 @@ Die zuständige Behörde kann auf schriftlichen oder elektronischen Antrag Ausna
 
 (4) Die Zulassungsbehörde erteilt dem Antragsteller einen Zulassungsbescheid. Dieser muss folgende Angaben enthalten:
 
-1.
+1. Name und Anschrift des Antragstellers,
 
-2.
+2. Art und Modellbezeichnung des Bauteils oder des Systems,
 
-3.
+3. die wesentlichen Merkmale des Bauteils oder des Systems,
 
-4.
+4. Art und Form des Zulassungszeichens,
 
-5.
+5. die inhaltlichen Beschränkungen und die Nebenbestimmungen der Zulassung.
 
 (5) Der Inhaber der Zulassung hat dauerhaft und deutlich sichtbar auf jedem nachgebauten Stück das Zulassungszeichen anzubringen.
 
@@ -106,441 +106,23 @@ Ordnungswidrig im Sinne des § 41 Abs. 1 Nr. 16 des Sprengstoffgesetzes handelt,
 
 ### Anhang — Zu § 2 der Zweiten Verordnung zum Sprengstoffgesetz (2. SprengV)
 
-(Fundstelle des Originaltextes: BGBl. I 2002, 3546 - 3554;
-
-InhaltsübersichtAnlagenverzeichnis
-
-1
-
-1.1
-
-1.2
-
-1.3
-
-1.4
-
-1.5
-
-1.6
-
-1.7
-
-1.8
-
-1.9
-
-1.10
-
-1.11
-
-1.12
-
-1.13
-
-1.14
-
-1.15
-
-1.16
-
-2
-
-2.1
-
-2.1.1
-
-2.1.2
-
-2.1.3
-
-2.1.4
-
-2.1.5
-
-2.2
-
-2.2.1
-
-2.2.2
-
-2.2.3
-
-2.2.4
-
-2.2.5
-
-2.2.6
-
-2.2.7
-
-2.3
-
-2.3.1
-
-2.3.2
-
-2.4
-
-2.4.1
-
-2.4.2
-
-2.4.3
-
-2.5
-
-2.5.1
-
-2.5.2
-
-2.5.3
-
-2.6
-
-2.6.1
-
-2.6.2
-
-2.6.3
-
-2.7
-
-2.8
-
-3
-
-3.1
-
-3.1.1
-
-3.1.1.1
-
-3.1.1.2
-
-3.1.1.3
-
-3.1.2
-
-3.2
-
-3.2.1
-
-3.2.2
-
-3.2.3
-
-3.3
-
-3.3.1
-
-3.3.2
-
-3.4
-
-4
-
-4.1
-
-4.2
-
-4.3
-
-Anlage 1
-
-Anlage 2
-
-Anlage 3
-
-Anlage 4
-
-Anlage 5
-
-Anlage 6
-
-Anlage 7
-
-1
-
-1.1
-
-1.2
-
-1.3
-
-1.4
-
-1.5
-
-1.6
-
-1.7
-
-1.8
-
-1.9
-
-1.10
-
-1.11
-
-1.12
-
-1.13
-
-1.14
-
-1.15
-
-1.16
-
-2
-
-2.1
-
-2.1.1
-
-2.1.2
-
-2.1.3
-
-2.1.4
-
-2.1.5
-
-2.2
-
-2.2.1
-
-2.2.2
-
-2.2.3
-
-2.2.4
-
-2.2.5
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
-2.2.6
-
-2.2.7
-
--
-
--
-
-2.3
-
-2.3.1
-
-2.3.2
-
-2.4
-
-2.4.1
-
-2.4.2
-
-2.4.3
-
-2.5
-
-2.5.1
-
-2.5.2
-
-2.5.3
-
-2.6
-
-2.6.1
-
-2.6.2
-
-2.6.3
-
-2.7
-
-1.
-
-2.
-
-3.
-
-4.
-
-2.8
-
-3
-
-3.1
-
-3.1.1
-
-3.1.1.1
-
-3.1.1.2
-
-3.1.1.3
-
-3.1.2
-
-3.2
-
-3.2.1
-
-3.2.2
-
-3.2.3
-
-3.3
-
-3.3.1
-
-3.3.2
-
--
-
--
-
--
-
--
-
--
-
--
-
-3.4
-
-4
-
-4.1
-
-(1)
-
-(2)
-
-(3)
-
-4.2
-
-4.3
-
 ### Anlage 1 zum Anhang — Schutzabstände nach Nummer 2.2.2 des Anhangs für Lager mit Explosivstoffen der Lagergruppen 1.1 bis 1.4
 
-(Fundstelle des Originaltextes: BGBl. I 2002, 3555;
-
------
-
-1
-
-2
-
-2.1
-
-1.
-
-2.
-
-2.2
-
-1.
-
-a)
-
-b)
-
-2.
-
-a)
-
-b)
-
-2.3
-
-1.
-
-2.
-
-2.4
+*) E = Abstand in Meter
 
 ### Anlage 2 zum Anhang — Sicherheitsabstände nach Nummer 2.2.2 des Anhangs für Lager mit Explosivstoffen der Lagergruppen 1.1 bis 1.4
 
------
-
-1
-
-1.1
-
-1.2
-
-1.3
-
-1.4
-
-1.5
-
-1.6
-
-2
-
-2.1
-
--
-
--
-
-2.2
-
-2.3
-
-2.4
-
-2.5
-
-3
-
-Tabelle 6Sicherheitsabstände für Lager mit Explosivstoffen der Lagergruppe 1.4 nach Anlage 2 Nummer 2Abstand der Gebäude untereinander mindestens 10 m.Ist durch bauliche Maßnahmen, mindestens durch eine Brandwand, gewährleistet, dass keine gefährliche Wirkung auf benachbarte Gebäude auftritt, kann der Abstand verringert werden oder er kann entfallen.
-
 ### Anlage 3 zum Anhang — Schutzabstände nach Nummer 3.2.2 des Anhangs für Lager mit sonstigen explosionsgefährlichen Stoffen der Lagergruppen I bis III
 
-(Fundstelle des Originaltextes: BGBl. I 2002, 3564;
+1 Lagergruppe Ia (1) Bei der Aufbewahrung von Stoffen dieser Lagergruppe ist bei einer Nettomasse bis einschließlich 100 kg ein Schutzabstand nicht erforderlich. Es muss jedoch sichergestellt sein, dass eine Wirkung nicht nach außen oder nur in ungefährlicher Richtung auftreten kann. (2) Bei einer Belegung von mehr als 100 kg Nettomasse wird der Schutzabstand zu Wohnbereichen nach der Formel E=0,185 x A(tief)k(hoch)1/2 x M(hoch)1/3 1) berechnet, wobei jedoch ein Mindestabstand von 30 m einzuhalten ist. (3) Bei einer Belegung von mehr als 100 kg Nettomasse wird der Schutzabstand zu Verkehrswegen nach der Formel E=0,124 x A(tief)k(hoch)1/2 x M(hoch)1/3 1) berechnet, wobei jedoch ein Mindestabstand von 25 m einzuhalten ist. (4) Werden Schutzmaßnahmen getroffen, können die Schutzabstände in den geschützten Wirkungsrichtungen teilweise oder ganz entfallen. (5) Ist in einer Richtung mit einer erhöhten Wirkung zu rechnen, so sind die Schutzabstände in dieser Richtung zu vergrößern.
 
------
+2 Lagergruppe Ib (1) Bei der Aufbewahrung von Stoffen dieser Lagergruppe ist bei einer Nettomasse bis einschließlich 200 kg ein Schutzabstand nicht erforderlich. Es muss jedoch sichergestellt sein, dass eine Wirkung nicht nach außen oder nur in ungefährlicher Richtung auftreten kann. (2) Bei einer Belegung von mehr als 200 kg Nettomasse, jedoch von höchstens 10 000 kg Nettomasse, wird der Schutzabstand zu Wohnbereichen nach der Formel E = 11,0 x M(hoch)1/5 2) berechnet, wobei jedoch ein Mindestabstand von 30 m einzuhalten ist. (3) Bei einer Belegung von mehr als 10 000 kg Nettomasse wird der Schutzabstand zu Wohnbereichen nach der Formel E = 3,2 x M(hoch)1/3 2) berechnet. (4) Bei einer Belegung von mehr als 200 kg Nettomasse, jedoch von höchstens 10 000 kg Nettomasse, wird der Schutzabstand zu Verkehrswegen nach der Formel E = 7,3 x M(hoch)1/5 2) berechnet, wobei jedoch ein Mindestabstand von 25 m einzuhalten ist. (5) Bei einer Belegung von mehr als 10 000 kg Nettomasse wird der Schutzabstand zu Verkehrswegen nach der Formel E = 2,1 x M(hoch)1/3 2) berechnet. (6) Werden Schutzmaßnahmen getroffen, können die Schutzabstände in den geschützten Wirkungsrichtungen teilweise oder ganz entfallen. (7) Ist in einer Richtung mit einer erhöhten Wirkung zu rechnen, so sind die Schutzabstände in dieser Richtung zu vergrößern.
 
-1
+3 Lagergruppe II (1) Bei der Aufbewahrung von Stoffen dieser Lagergruppe ist bei einer Nettomasse bis einschließlich 200 kg ein Schutzabstand nicht erforderlich. Es muss jedoch sichergestellt sein, dass eine Wirkung nicht nach außen oder nur in ungefährlicher Richtung auftreten kann. (2) Bei einer Belegung von mehr als 200 kg Nettomasse, jedoch von höchstens 10 000 kg Nettomasse, wird der Schutzabstand zu Wohnbereichen nach der Formel E = 7,5 x M(hoch)1/5 2) berechnet, wobei jedoch ein Mindestabstand von 25 m einzuhalten ist. (3) Bei einer Belegung von mehr als 10 000 kg Nettomasse wird der Schutzabstand zu Wohnbereichen nach der Formel E = 2,2 x M(hoch)1/3 2) berechnet. (4) Bei einer Belegung von mehr als 200 kg Nettomasse, jedoch von höchstens 10 000 kg Nettomasse, wird der Schutzabstand zu Verkehrswegen nach der Formel E = 5,1 x M(hoch)1/5 2) berechnet, wobei jedoch ein Mindestabstand von 25 m einzuhalten ist. (5) Bei einer Belegung von mehr als 10 000 kg Nettomasse wird der Schutzabstand zu Verkehrswegen nach der Formal E = 1,5 x M(hoch)1/3 2) berechnet. (6) Werden Schutzmaßnahmen getroffen, können die Schutzabstände in den geschützten Wirkungsrichtungen teilweise oder ganz entfallen.
 
-2
-
-3
-
-4
+4 Lagergruppe III (1) Bei der Aufbewahrung von Stoffen dieser Lagergruppe ist bei einer Nettomasse bis einschließlich 200 kg ein Schutzabstand nicht erforderlich. Es muss jedoch sichergestellt sein, dass eine Wirkung nicht nach außen oder nur in ungefährlicher Richtung auftreten kann. (2) Bei einer Belegung von mehr als 200 kg Nettomasse muss zu Wohnbereichen ein Schutzabstand von mindestens 25 m eingehalten werden. (3) Bei einer Belegung von mehr als 200 kg Nettomasse muss zu Verkehrswegen ein Schutzabstand von mindestens 16 m eingehalten werden. (4) Werden Schutzmaßnahmen getroffen, können die Schutzabstände in den geschützten Wirkungsrichtungen teilweise oder ganz entfallen.
 
 ### Anlage 4 zum Anhang — Sicherheitsabstände nach Nummer 3.2.2 des Anhangs für Lager mit sonstigen explosionsgefährlichen Stoffen der Lagergruppen I bis III
-
-(Fundstelle des Originaltextes: BGBl. I 2002, 3565;
-
------
 
 ### Anlage 5 zum Anhang — Verträglichkeitsgruppen nach Nummer 2.7 des Anhangs
 

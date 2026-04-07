@@ -20,29 +20,29 @@ Diese Verordnung regelt das Nachweisverfahren zur Gewährleistung des Schutzes v
 
 Im Sinne dieser Verordnung
 
-1.
+1. ist eine ortsfeste Funkanlage eine Funkanlage im Sinne des § 2 Nr. 3 des Gesetzes über Funkanlagen und Telekommunikationsendeinrichtungen einschließlich Radaranlagen, die während ihres bestimmungsgemäßen Betriebes keine Ortsveränderung erfährt,
 
-2.
+2. ist eine ortsfeste Amateurfunkanlage eine ortsfeste Funkanlage im Sinne der Nummer 1, die gemäß § 2 Nr. 3 des Amateurfunkgesetzes vom 23. Juni 1997 (BGBl. I S. 1494), das zuletzt durch Artikel 48 des Gesetzes vom 10. November 2001 (BGBl. I S. 2992) geändert worden ist, betrieben wird,
 
-3.
+3. ist ein Standort ein Installationsort, an dem eine ortsfeste Funkanlage errichtet wurde oder errichtet werden soll; zum Standort gehören alle Funkanlagen, die auf demselben Mast oder in unmittelbarer Nähe (die Sicherheitsabstände der einzelnen Antennen überschneiden sich) voneinander betrieben werden,
 
-4.
+4. ist der standortbezogene Sicherheitsabstand der erforderliche Abstand zwischen der Bezugsantenne und dem Bereich, in dem die Grenzwerte nach § 3 Satz 1 unter Einbeziehung der relevanten Feldstärken umliegender ortsfester Funkanlagen eingehalten werden,
 
-5.
+5. ist die Bezugsantenne die Sendeantenne mit der niedrigsten Montagehöhe über Grund, die einen systembezogenen Sicherheitsabstand erfordert oder aufgrund ihrer Charakteristik bei der Berechnung des standortbezogenen Sicherheitsabstands berücksichtigt werden muss,
 
-6.
+6. ist der systembezogene Sicherheitsabstand der Abstand zwischen einer einzelnen ortsfesten Antenne und dem Bereich, in dem die Grenzwerte nach § 3 Satz 1 eingehalten werden,
 
-7.
+7. ist der kontrollierbare Bereich der Bereich, in dem der Betreiber über den Zutritt oder Aufenthalt von Personen bestimmen kann oder in dem aufgrund der tatsächlichen Verhältnisse der Zutritt von Personen ausgeschlossen ist,
 
-8.
+8. ist der Betreiber diejenige natürliche oder juristische Person, die die rechtliche und tatsächliche Kontrolle über die Gesamtheit der Funktionen einer Funkanlage hat.
 
 ### § 3 — Grenzwerte
 
-Zur Begrenzung der elektromagnetischen Felder (EMF) von ortsfesten Funkanlagen sind für den Frequenzbereich 9 Kilohertz bis 300 Gigahertz die folgenden Werte als Grenzwerte einzuhalten: Die Grenzwerte nach Satz 1 sind unter Berücksichtigung von Emissionen anderer ortsfester Funkanlagen mindestens an den Orten einzuhalten, an denen auch die Grenzwerte der Verordnung über elektromagnetische Felder - 26. BImSchV - einzuhalten sind. DIN-Normen, auf die in dieser Verordnung verwiesen wird, sind bei der VDE-Verlag GmbH, Berlin und der Beuth-Verlag GmbH, Berlin und Köln erschienen und beim Deutschen Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
+Zur Begrenzung der elektromagnetischen Felder (EMF) von ortsfesten Funkanlagen sind für den Frequenzbereich 9 Kilohertz bis 300 Gigahertz die folgenden Werte als Grenzwerte einzuhalten:
 
-1.
+1. die in der geltenden Fassung der Verordnung über elektromagnetische Felder - 26. BImSchV - festgesetzten Grenzwerte und
 
-2.
+2. für den Frequenzbereich 9 Kilohertz bis 50 Megahertz zusätzlich die zulässigen Werte für aktive Körperhilfen nach DIN EN 50527-1 (Ausgabe Januar 2011) und DIN EN 50527-2-1 (Ausgabe Mai 2012).
 
 ### § 4 — Standortbescheinigung
 
@@ -56,11 +56,11 @@ Zur Begrenzung der elektromagnetischen Felder (EMF) von ortsfesten Funkanlagen s
 
 (5) Der Antrag gilt nur dann als gestellt, wenn die Antragsunterlagen der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen vollständig und im erforderlichen Umfang vorliegen. Mit dem Antrag teilt der Betreiber der Anlagen der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen auch die Installationsorte mit Angabe der geographischen Koordinaten mit. Dem Antrag sind in zweifacher Ausfertigung beizufügen:
 
-1.
+1. ein Lageplan (Kartenausschnitt, Ausschnitt aus dem Bebauungs- oder Flächennutzungsplan), in dem die angrenzenden Grundstücke bzw. Gebäude und deren Nutzung zum Betriebsort der beantragten Funkanlage wiederzugeben sind,
 
-2.
+2. bei Montage der Sendeantenne auf einem Bauwerk eine Bauzeichnung oder Skizze des Bauwerks mit Bemaßung (Seitenansicht und Draufsicht), in der der Montageort der Funkanlage darzustellen ist,
 
-3.
+3. Antennendiagramme bezüglich der zu verwendenden Antennen.
 
 (6) Setzt die Bearbeitung eines Antrages zur Erteilung einer Standortbescheinigung eine Neubewertung von bereits am Standort installierten Funkanlagen voraus, ist der Antragsteller für den dadurch entstehenden Aufwand gebührenpflichtig.
 
@@ -70,11 +70,11 @@ Zur Begrenzung der elektromagnetischen Felder (EMF) von ortsfesten Funkanlagen s
 
 (2) Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen hat eine Standortbescheinigung zu erteilen, wenn der standortbezogene Sicherheitsabstand innerhalb des kontrollierbaren Bereichs liegt. Die Anlage darf nur betrieben werden, wenn sich innerhalb des standortbezogenen Sicherheitsabstands keine Personen aufhalten, es sei denn aus betriebstechnischen Gründen.
 
-(3) Liegen die Voraussetzungen des Absatzes 2 Satz 1 nicht vor, kann eine Standortbescheinigung im Einvernehmen mit der zuständigen Immissionsschutzbehörde nur dann erteilt werden, wenn Zur Gewährleistung dieser Anforderungen ist die Standortbescheinigung mit Nebenbestimmungen zu versehen. Die Grenzen des Ergänzungsbereichs sind vom Betreiber zu kennzeichnen. Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen überprüft in regelmäßigen Abständen die Einhaltung der Anforderungen. Die Anlage darf nur betrieben werden, wenn sich innerhalb des standortbezogenen Sicherheitsabstands, der im kontrollierbaren Bereich liegt, keine Personen aufhalten, es sei denn aus betriebstechnischen Gründen.
+(3) Liegen die Voraussetzungen des Absatzes 2 Satz 1 nicht vor, kann eine Standortbescheinigung im Einvernehmen mit der zuständigen Immissionsschutzbehörde nur dann erteilt werden, wenn
 
-1.
+1. es sich um einen Kurzwellen, Mittelwellen- oder Langwellen-Rundfunksender handelt, und
 
-2.
+2. unter Berücksichtigung der besonderen Umstände des Einzelfalls, insbesondere der Art und Dauer der Anlagenauslastung und des tatsächlichen Aufenthalts von Personen im Einwirkungsbereich der Anlage, schädliche Gesundheitseinwirkungen nicht zu erwarten sind. Der Bereich, in dem die Grenzwerte außerhalb des kontrollierbaren Bereichs nicht eingehalten werden, ist von der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen in der Standortbescheinigung festzustellen (Ergänzungsbereich für Rundfunksendeanlagen).
 
 (4) Kann eine Standortbescheinigung im Sinne der Absätze 2 und 3 für eine ortsfeste Funkanlage aufgrund messtechnischer Gegebenheiten erst nach deren Errichtung und vorläufigen Inbetriebnahme erteilt werden, ist dem Antragsteller auf Verlangen zuvor eine vorläufige Standortbescheinigung zu erteilen, wenn aufgrund der vorliegenden Daten davon auszugehen ist, dass die Voraussetzungen zur Erteilung einer Standortbescheinigung gegeben sein werden. Vor der endgültigen Inbetriebnahme überprüft die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen die Funkanlage. Liegen die Voraussetzungen aufgrund messtechnischer Gegebenheiten zur Erteilung der Standortbescheinigung nach Absatz 2 oder 3 vor, erteilt sie diese.
 
@@ -104,19 +104,19 @@ Zur Begrenzung der elektromagnetischen Felder (EMF) von ortsfesten Funkanlagen s
 
 (2) Eine ortsfeste Amateurfunkanlage, an deren Standort eine Gesamtstrahlungsleistung (EIRP) von 10 Watt oder mehr erreicht wird, darf ansonsten nur betrieben werden, wenn
 
-1.
+1. der standortbezogene Sicherheitsabstand innerhalb des kontrollierbaren Bereichs liegt,
 
-2.
+2. der Betreiber die Anlage nach § 9 angezeigt hat,
 
-3.
+3. die Betriebsdaten die Anzeige- oder Antragsdaten nicht überschreiten und
 
-4.
+4. durch den Betrieb keine Personen, insbesondere Träger von aktiven Körperhilfen, gesundheitlich geschädigt werden können.
 
 (3) Von der Voraussetzung des Absatzes 2 Satz 1 Nr. 1 darf der Betreiber hinsichtlich der Einhaltung der Grenzwerte nach § 3 Satz 1 Nummer 2 abweichen, wenn er
 
-1.
+1. der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen im Rahmen der Anzeige gemäß § 9 den Bereich außerhalb des kontrollierbaren Bereichs darstellt, in dem die Grenzwerte nach § 3 Satz 1 Nummer 2 nicht eingehalten werden (Ergänzungsbereich für aktive Körperhilfen),
 
-2.
+2. dafür Sorge trägt, dass sich Träger von aktiven Körperhilfen während des Betriebes der Amateurfunkanlage nicht im Ergänzungsbereich aufhalten.
 
 ### § 9 — Anzeige ortsfester Amateurfunkanlagen
 
@@ -126,15 +126,15 @@ Zur Begrenzung der elektromagnetischen Felder (EMF) von ortsfesten Funkanlagen s
 
 (3) Der Anzeige ist eine nachvollziehbare zeichnerische Darstellung des standortbezogenen Sicherheitsabstands und des vom Betreiber kontrollierbaren Bereichs beizufügen. Der Betreiber hat ferner ab dem Zeitpunkt der Inbetriebnahme die nachfolgenden Unterlagen zur Verfügung zu halten:
 
-1.
+1. Dokumentation über die Einhaltung der Anforderungen des § 8 Abs. 2 und 3,
 
-2.
+2. Antennendiagramme, sofern es sich um handelsübliche Antennen handelt,
 
-3.
+3. einen Lageplan auf der Grundlage des Bebauungs-, Liegenschafts- oder Flächennutzungsplans, in dem die angrenzenden Grundstücke bzw. Gebäude und deren Nutzung zum Betriebsort der angezeigten Funkanlage sowie die Bereiche, in denen die Grenzwerte nach § 3 einzuhalten sind, wiederzugeben sind,
 
-4.
+4. bei Montage der Sendeantenne auf einem Bauwerk eine Bauzeichnung oder Skizze mit Bemaßung (Seitenansicht und Draufsicht) und
 
-5.
+5. Angabe der Konfiguration der installierten ortsfesten Amateurfunkanlage, einschließlich ihrer Sendeleistung und aller anderen technischen Parameter, die zur Beurteilung der von der Anlage ausgehenden maximalen elektromagnetischen Felder erforderlich sind.
 
 (4) Der Betreiber einer Amateurfunkanlage ist auch nach Abgabe seiner Anzeige verpflichtet, sich zu vergewissern, ob seine gemachten Angaben weiterhin zutreffend sind. In den Fällen, in denen die Anzeige nicht mehr den tatsächlichen Gegebenheiten entspricht, ist vom Betreiber das Anzeigeverfahren erneut durchzuführen.
 

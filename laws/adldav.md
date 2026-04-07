@@ -44,7 +44,7 @@ Die landwirtschaftliche Alterskasse bestimmt nach Anhörung der Vermittlungsstel
 
 ### § 8 — Übermittlung durch Datenfernübertragung
 
-Die Daten sind durch Datenübertragung im 8-Bit-Code – DRV 8 – nach DIN 66 303 (ISO 8859-1, 1987) Code-Tabelle 1 zu übermitteln. Bei der Datenübertragung sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten sowie die Authentizität der übermittelnden und der empfangenden Stelle gewährleisten; bei der Nutzung allgemein zugänglicher Netze sind Verschlüsselungsverfahren anzuwenden.
+Die Daten sind durch Datenübertragung im 8-Bit-Code – DRV 8 – nach DIN 66 303 (ISO 8859-1, 1987) Code-Tabelle 1 zu übermitteln. Bei der Datenübertragung sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten sowie die Authentizität der übermittelnden und der empfangenden Stelle gewährleisten; bei der Nutzung allgemein zugänglicher Netze sind Verschlüsselungsverfahren anzuwenden.
 
 ### § 9 — (weggefallen)
 

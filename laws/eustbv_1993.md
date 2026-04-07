@@ -16,11 +16,11 @@ Auf Grund des Artikels 3 des Vierzehnten Gesetzes zur Änderung des Zollgesetzes
 
 (1a) Im Sinne dieser Verordnung gilt als Zollkodex die Verordnung (EWG) Nr. 2913/92 des Rates vom 12. Oktober 1992 zur Festlegung des Zollkodex der Gemeinschaften (ABl. EG Nr. L 302 S. 1, 1993 Nr. L 79 S. 84, 1996 Nr. L 97 S. 387), zuletzt geändert durch die Verordnung (EG) Nr. 2700/2000 des Europäischen Parlaments und des Rates vom 16. November 2000 (ABl. EG Nr. L 311 S. 17), in der jeweils geltenden Fassung. Im Sinne dieser Verordnung gilt als Durchführungsverordnung zum Zollkodex die Verordnung (EWG) Nr. 2454/93 der Kommission vom 2. Juli 1993 mit Durchführungsvorschriften zu der Verordnung (EWG) Nr. 2913/92 des Rates vom 12. Oktober 1992 zur Festlegung des Zollkodex der Gemeinschaften (ABl. EG Nr. L 253 S. 1, 1994 Nr. L 268 S. 32, 1996 Nr. L 180 S. 34, 1997 Nr. L 156 S. 59, 1999 Nr. L 111 S. 88), zuletzt geändert durch die Verordnung (EG) Nr. 1335/2003 der Kommission vom 25. Juli 2003 (ABl. EU Nr. L 187 S. 16), in der jeweils geltenden Fassung.
 
-(2) Einfuhrumsatzsteuerfrei ist, vorbehaltlich des § 11, die vorübergehende Einfuhr von Gegenständen, die in sinngemäßer Anwendung der genannten Vorschriften sowie der Durchführungsvorschriften dazu; ausgenommen sind die Vorschriften über die vorübergehende Verwendung bei teilweiser Befreiung von Einfuhrabgaben im Sinne des Artikels 4 Nr. 10 Zollkodex.
+(2) Einfuhrumsatzsteuerfrei ist, vorbehaltlich des § 11, die vorübergehende Einfuhr von Gegenständen, die
 
-1.
+1. nach den Artikeln 137 bis 144 des Zollkodex frei von Einfuhrabgaben im Sinne des Artikels 4 Nr. 10 des Zollkodex eingeführt werden können oder die
 
-2.
+2. gelegentlich und ohne gewerbliche Absicht eingeführt werden, sofern der Verwender hinsichtlich dieser Gegenstände nicht oder nicht in vollem Umfang nach § 15 Abs. 1 Nr. 2 des Gesetzes zum Vorsteuerabzug berechtigt ist,
 
 (2a) Einfuhrumsatzsteuerfrei ist, vorbehaltlich des § 12, die Einfuhr der Gegenstände, die nach den Artikeln 185 bis 187 Zollkodex als Rückwaren frei von Einfuhrabgaben im Sinne des Artikels 4 Nr. 10 Zollkodex eingeführt werden können, in sinngemäßer Anwendung dieser Vorschriften sowie der Durchführungsvorschriften dazu. Die Steuerfreiheit gilt auch für die Gegenstände, die in Artikel 185 Abs. 2 Buchstabe b Zollkodex aufgeführt sind.
 
@@ -30,11 +30,11 @@ Auf Grund des Artikels 3 des Vierzehnten Gesetzes zur Änderung des Zollgesetzes
 
 Die Einfuhrumsatzsteuerfreiheit für Investitionsgüter und andere Ausrüstungsgegenstände (Artikel 32 bis 38 der in § 1 Abs. 1 genannten Verordnung) ist ausgeschlossen für Gegenstände, die
 
-1.
+1. ganz oder teilweise zur Ausführung von Umsätzen verwendet werden, die nach § 15 Abs. 2 und 3 des Gesetzes den Vorsteuerabzug ausschließen,
 
-2.
+2. von einer juristischen Person des öffentlichen Rechts für ihren nichtunternehmerischen Bereich eingeführt werden oder
 
-3.
+3. von einem Unternehmer eingeführt werden, der die Vorsteuerbeträge nach Durchschnittssätzen (§§ 23 und 24 des Gesetzes) ermittelt.
 
 ### § 3 — Landwirtschaftliche Erzeugnisse
 
@@ -45,9 +45,9 @@ oder kulturellen Charakters
 
 Die Einfuhrumsatzsteuerfreiheit für Gegenstände erzieherischen, wissenschaftlichen oder kulturellen Charakters im Sinne der Artikel 50 und 51 der in § 1 Abs. 1 genannten Verordnung ist auf die von den Buchstaben B der Anhänge I und II der Verordnung erfaßten Einfuhren beschränkt. Die Steuerfreiheit für Sammlungsstücke und Kunstgegenstände (Artikel 51 der Verordnung) hängt davon ab, daß die Gegenstände
 
-1.
+1. unentgeltlich eingeführt werden oder
 
-2.
+2. nicht von einem Unternehmer geliefert werden; als Lieferer gilt nicht, wer für die begünstigte Einrichtung tätig wird.
 
 ### § 5 — Tiere für Laborzwecke
 
@@ -91,13 +91,13 @@ Einfuhrumsatzsteuerfrei ist die Einfuhr der amtlichen Veröffentlichungen, mit d
 
 ### § 12 — Rückwaren
 
-Die Einfuhrumsatzsteuerfreiheit von Rückwaren (Artikel 185 bis 187 Zollkodex) ist ausgeschlossen, wenn der eingeführte Gegenstand Satz 1 Nr. 2 gilt nicht, wenn derjenige, der die Lieferung bewirkt hat, den Gegenstand zurückerhält und hinsichtlich dieses Gegenstandes in vollem Umfang nach § 15 Abs. 1 Nr. 2 des Gesetzes zum Vorsteuerabzug berechtigt ist.
+Die Einfuhrumsatzsteuerfreiheit von Rückwaren (Artikel 185 bis 187 Zollkodex) ist ausgeschlossen, wenn der eingeführte Gegenstand
 
-1.
+1. vor der Einfuhr geliefert worden ist,
 
-2.
+2. im Rahmen einer steuerfreien Lieferung (§ 4 Nr. 1 des Gesetzes) ausgeführt worden ist oder
 
-3.
+3. im Rahmen des § 4a des Gesetzes von der Umsatzsteuer entlastet worden ist.
 
 ### § 12a — Freihafenlagerung
 

@@ -12,8 +12,6 @@ Auf Grund des § 5 Abs. 3, des § 23 Abs. 5 und des § 76 Abs. 1 in Verbindung m
 
 ### § 1 — Selbständige Anmeldung
 
-Zinsscheine, die zu den im Verzeichnis der Auslandsbonds (Anlage zu § 1 Abs. 1 des Gesetzes, ergänzt durch § 1 der Ersten Durchführungsverordnung vom 21. Februar 1953 - Bundesgesetzbl. I S. 31 - und durch § 1 der Neunten Durchführungsverordnung vom 16. August 1954 - Bundesgesetzblatt I S. 267 -) aufgeführten Arten von Auslandsbonds ausgestellt worden sind, können selbständig zur Anerkennung angemeldet werden; ein Feststellungsbescheid (§ 4 des Gesetzes) kann nicht beansprucht werden.
-
 ### § 2 — Vorlage und Hinterlegung
 
 Zinsscheine, die bei einem Auslandsbevollmächtigten oder bei der Bereinigungsstelle für deutsche Bonds in den Vereinigten Staaten von Amerika nach § 1 zur Anerkennung angemeldet werden, sind nur vorzulegen oder zu hinterlegen, wenn der Auslandsbevollmächtigte oder die Bereinigungsstelle dies verlangt.

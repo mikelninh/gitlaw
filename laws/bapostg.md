@@ -50,27 +50,27 @@ Die Bundesanstalt untersteht der Rechts- und Fachaufsicht des Bundesministeriums
 
 ### § 5 — Verwaltungsrat
 
-(1) Bei der Bundesanstalt wird ein Verwaltungsrat gebildet. Er besteht aus einer oder einem Vorsitzenden, die oder der vom Bundesministerium der Finanzen benannt wird, und weiteren Mitgliedern. Dies sind: Die oder der Vorsitzende und die weiteren Mitglieder des Verwaltungsrats werden durch das Bundesministerium der Finanzen bestellt und abberufen.
+(1) Bei der Bundesanstalt wird ein Verwaltungsrat gebildet. Er besteht aus einer oder einem Vorsitzenden, die oder der vom Bundesministerium der Finanzen benannt wird, und weiteren Mitgliedern. Dies sind:
 
-1.
+1. eine Vertreterin oder ein Vertreter jedes Postnachfolgeunternehmens,
 
-2.
+2. eine Vertreterin oder ein Vertreter des Personals jedes Postnachfolgeunternehmens auf Vorschlag der Arbeitnehmerseite und
 
-3.
+3. vom Bundesministerium der Finanzen benannte Personen, die zusammen so viele Stimmen haben, wie die Vertreterinnen und Vertreter nach den Nummern 1 und 2 zusammen.
 
 (2) Die Einzelheiten der Bestellung und Abberufung der Mitglieder des Verwaltungsrats, die Verteilung der Stimmen auf die Mitglieder des Verwaltungsrats sowie die Dauer der Amtszeit werden durch die Satzung geregelt.
 
 (3) Der Verwaltungsrat gibt sich eine Geschäftsordnung, die der Genehmigung durch das Bundesministerium der Finanzen bedarf.
 
-(4) Der Verwaltungsrat beschließt auf Vorlage der Präsidentin oder des Präsidenten über Die Entlastung gemäß Satz 1 Nr. 3 befreit nicht von der dienstvertraglichen Haftung.
+(4) Der Verwaltungsrat beschließt auf Vorlage der Präsidentin oder des Präsidenten über
 
-1.
+1. die Feststellung und wesentliche Änderungen des Wirtschaftsplans,
 
-2.
+2. die Feststellung des Jahresabschlusses,
 
-3.
+3. die Entlastung der Präsidentin oder des Präsidenten,
 
-4.
+4. Änderungen der Satzung.
 
 (5) Über eine Vorlage der Präsidentin oder des Präsidenten nach Absatz 4 hat der Verwaltungsrat binnen zwei Monaten zu beschließen. Ergeht innerhalb dieser Frist kein Beschluß, gilt die Vorlage als genehmigt.
 
@@ -106,25 +106,25 @@ Die Bundesanstalt nimmt die der Postbeamtenversorgungskasse in den §§ 14 bis 1
 
 ### § 11 — Rechtsnachfolge des Bundes-Pensions-Service für Post und Telekommunikation e. V.
 
-(1) Die Bundesanstalt tritt in die Rechte und Pflichten des Bundes-Pensions-Service für Post und Telekommunikation e. V. als Postbeamtenversorgungskasse ein.
+(1) Die Bundesanstalt tritt in die Rechte und Pflichten des Bundes-Pensions-Service für Post und Telekommunikation e. V. als Postbeamtenversorgungskasse ein.
 
-(2) Die Bundesanstalt übernimmt ohne Wertausgleich mit Ablauf des 31. Dezember 2012 das vom Bundes-Pensions-Service für Post und Telekommunikation e. V. als Postbeamtenversorgungskasse gehaltene Vermögen (Aktiva und Passiva einschließlich etwaiger beschränkter dinglicher Rechte). Bestellte Pfandrechte und sonstige Sicherungsrechte bleiben bestehen.
+(2) Die Bundesanstalt übernimmt ohne Wertausgleich mit Ablauf des 31. Dezember 2012 das vom Bundes-Pensions-Service für Post und Telekommunikation e. V. als Postbeamtenversorgungskasse gehaltene Vermögen (Aktiva und Passiva einschließlich etwaiger beschränkter dinglicher Rechte). Bestellte Pfandrechte und sonstige Sicherungsrechte bleiben bestehen.
 
 (3) (weggefallen)
 
 ### § 12 — Überleitung der Arbeitnehmerinnen und Arbeitnehmer des Bundes-Pensions-Service für Post und Telekommunikation e. V.
 
-(1) Die Bundesanstalt tritt in die Rechte und Pflichten der mit dem Bundes-Pensions-Service für Post und Telekommunikation e. V. bestehenden Arbeitsverhältnisse ein. Die betroffenen Arbeitnehmerinnen und Arbeitnehmer können dem Übergang ihres Arbeitsverhältnisses innerhalb eines Monats nach der Überleitung schriftlich widersprechen. Der Widerspruch kann gegenüber dem Bundes-Pensions-Service für Post und Telekommunikation e. V. oder der Bundesanstalt erklärt werden. § 613a des Bürgerlichen Gesetzbuchs findet keine Anwendung.
+(1) Die Bundesanstalt tritt in die Rechte und Pflichten der mit dem Bundes-Pensions-Service für Post und Telekommunikation e. V. bestehenden Arbeitsverhältnisse ein. Die betroffenen Arbeitnehmerinnen und Arbeitnehmer können dem Übergang ihres Arbeitsverhältnisses innerhalb eines Monats nach der Überleitung schriftlich widersprechen. Der Widerspruch kann gegenüber dem Bundes-Pensions-Service für Post und Telekommunikation e. V. oder der Bundesanstalt erklärt werden. § 613a des Bürgerlichen Gesetzbuchs findet keine Anwendung.
 
 (2) Zur Angleichung der Arbeitsbedingungen an die Tarifstruktur der Bundesanstalt können die nach Absatz 1 übergeleiteten Arbeitsverträge einmalig binnen sechs Monaten nach Übergang von der Bundesanstalt mit einer Frist von sechs Monaten zum Ende eines Kalendermonats im Rahmen von Änderungskündigungen gekündigt werden. Den betroffenen Arbeitnehmerinnen und Arbeitnehmern ist zugleich ein Arbeitsvertrag zu den bei der Bundesanstalt üblichen Konditionen unter Beachtung der geltenden tarifvertraglichen Regelungen anzubieten. Das Recht zur Kündigung der Arbeitsverhältnisse aus anderen Gründen bleibt unberührt.
 
-(3) Schließen die übergeleiteten Arbeitnehmerinnen und Arbeitnehmer mit der Bundesanstalt einen neuen Arbeitsvertrag, stehen Beschäftigungszeiten beim Bundes-Pensions-Service für Post und Telekommunikation e. V. oder einem seiner Rechtsvorgänger Beschäftigungszeiten bei der Bundesanstalt gleich. Verringern sich infolge des Abschlusses eines neuen Arbeitsvertrages die jährlichen Vergütungen, erhalten die betroffenen Arbeitnehmerinnen und Arbeitnehmer eine außertarifliche Ausgleichszulage. Sie wird in Höhe des Unterschiedsbetrages zwischen der jährlichen Vergütung bei der Bundesanstalt und derjenigen Vergütung gewährt, die der Arbeitnehmerin oder dem Arbeitnehmer im Falle einer 100-prozentigen Zielerreichung im letzten Kalenderjahr vor der Überleitung beim Bundes-Pensions-Service für Post und Telekommunikation e. V. aufgrund fester und variabler Vergütungen zugestanden hätte; für die Berechnung des Unterschiedsbetrages wird die Vergütung bei Vollzeitbeschäftigung zugrunde gelegt. Die Ausgleichszulage wird in monatlichen Beträgen von jeweils einem Zwölftel der Ausgleichszulage zusammen mit dem monatlichen Entgelt ausgezahlt; erstmals in dem auf den Abschluss des neuen Arbeitsvertrages folgenden Monat. Jeweils nach Ablauf eines Jahres vermindert sich die Ausgleichszulage um 20 Prozent ihres ursprünglichen Betrages. Sachbezüge, Beihilfen, Versicherungsleistungen, Leistungen der betrieblichen Altersversorgung sowie vergleichbare geldwerte Arbeitgeberleistungen des Bundes-Pensions-Service für Post und Telekommunikation e. V. bleiben für die Berechnung der Ausgleichszulage außer Betracht. Im Falle einer Teilzeitbeschäftigung wird die Ausgleichszulage im gleichen Verhältnis gekürzt wie die Arbeitszeit.
+(3) Schließen die übergeleiteten Arbeitnehmerinnen und Arbeitnehmer mit der Bundesanstalt einen neuen Arbeitsvertrag, stehen Beschäftigungszeiten beim Bundes-Pensions-Service für Post und Telekommunikation e. V. oder einem seiner Rechtsvorgänger Beschäftigungszeiten bei der Bundesanstalt gleich. Verringern sich infolge des Abschlusses eines neuen Arbeitsvertrages die jährlichen Vergütungen, erhalten die betroffenen Arbeitnehmerinnen und Arbeitnehmer eine außertarifliche Ausgleichszulage. Sie wird in Höhe des Unterschiedsbetrages zwischen der jährlichen Vergütung bei der Bundesanstalt und derjenigen Vergütung gewährt, die der Arbeitnehmerin oder dem Arbeitnehmer im Falle einer 100-prozentigen Zielerreichung im letzten Kalenderjahr vor der Überleitung beim Bundes-Pensions-Service für Post und Telekommunikation e. V. aufgrund fester und variabler Vergütungen zugestanden hätte; für die Berechnung des Unterschiedsbetrages wird die Vergütung bei Vollzeitbeschäftigung zugrunde gelegt. Die Ausgleichszulage wird in monatlichen Beträgen von jeweils einem Zwölftel der Ausgleichszulage zusammen mit dem monatlichen Entgelt ausgezahlt; erstmals in dem auf den Abschluss des neuen Arbeitsvertrages folgenden Monat. Jeweils nach Ablauf eines Jahres vermindert sich die Ausgleichszulage um 20 Prozent ihres ursprünglichen Betrages. Sachbezüge, Beihilfen, Versicherungsleistungen, Leistungen der betrieblichen Altersversorgung sowie vergleichbare geldwerte Arbeitgeberleistungen des Bundes-Pensions-Service für Post und Telekommunikation e. V. bleiben für die Berechnung der Ausgleichszulage außer Betracht. Im Falle einer Teilzeitbeschäftigung wird die Ausgleichszulage im gleichen Verhältnis gekürzt wie die Arbeitszeit.
 
-(4) Die Bundesanstalt gewährleistet die zum Zeitpunkt der Überleitung beim Bundes-Pensions-Service für Post und Telekommunikation e. V. bestehenden Anwartschaften aus einer betrieblichen Altersversorgung, auch soweit sie noch nicht unverfallbar sind. Zusätzliche Anwartschaftsansprüche werden nicht mehr erworben. Ab dem Zeitpunkt des Abschlusses eines neuen Arbeitsvertrages mit der Bundesanstalt nehmen die übergeleiteten Arbeitnehmerinnen und Arbeitnehmer an der bei der Bundesanstalt bestehenden betrieblichen Altersversorgung teil.
+(4) Die Bundesanstalt gewährleistet die zum Zeitpunkt der Überleitung beim Bundes-Pensions-Service für Post und Telekommunikation e. V. bestehenden Anwartschaften aus einer betrieblichen Altersversorgung, auch soweit sie noch nicht unverfallbar sind. Zusätzliche Anwartschaftsansprüche werden nicht mehr erworben. Ab dem Zeitpunkt des Abschlusses eines neuen Arbeitsvertrages mit der Bundesanstalt nehmen die übergeleiteten Arbeitnehmerinnen und Arbeitnehmer an der bei der Bundesanstalt bestehenden betrieblichen Altersversorgung teil.
 
 ### § 13 — Überleitung der Beamtinnen und Beamten
 
-Die Beurlaubung der Beamtinnen und Beamten, die im Rahmen eines privatrechtlichen Arbeitsverhältnisses für den Bundes-Pensions-Service für Post und Telekommunikation e. V. tätig sind, ist aufgehoben. Soweit sie Beamtinnen und Beamte des Bundes sind, werden sie auf die Bundesanstalt übergeleitet. Ein nach § 12 Absatz 1 übergeleitetes Arbeitsverhältnis der Beamtinnen und Beamten zur Bundesanstalt erlischt.
+Die Beurlaubung der Beamtinnen und Beamten, die im Rahmen eines privatrechtlichen Arbeitsverhältnisses für den Bundes-Pensions-Service für Post und Telekommunikation e. V. tätig sind, ist aufgehoben. Soweit sie Beamtinnen und Beamte des Bundes sind, werden sie auf die Bundesanstalt übergeleitet. Ein nach § 12 Absatz 1 übergeleitetes Arbeitsverhältnis der Beamtinnen und Beamten zur Bundesanstalt erlischt.
 
 ## Abschnitt 5: Dienstrechtliche Aufgaben
 
@@ -134,27 +134,19 @@ In Disziplinarverfahren, bei Entlassungen und Zurruhesetzungen sowie bei Herabse
 
 ### § 15 — Ausübung der dienstrechtlichen Befugnisse bei Versorgungsempfängerinnen und Versorgungsempfängern aus dem Bereich der früheren Deutschen Bundespost
 
-(1) Die Bundesanstalt nimmt die dem Dienstherrn Bund obliegenden Aufgaben und Befugnisse gegenüber folgenden Personen wahr: Im Rahmen der Zuständigkeit nach Satz 1 vertritt die Präsidentin der Bundesanstalt oder der Präsident der Bundesanstalt die Bundesrepublik Deutschland gerichtlich und außergerichtlich.
+(1) Die Bundesanstalt nimmt die dem Dienstherrn Bund obliegenden Aufgaben und Befugnisse gegenüber folgenden Personen wahr:
 
-1.
+1. Ruhestandsbeamtinnen und Ruhestandsbeamten sowie Versorgungsempfängerinnen und Versorgungsempfängern a)des ehemaligen Sondervermögens Deutsche Bundespost,b)des ehemaligen Teilsondervermögens Deutsche Bundespost POSTDIENST,c)des ehemaligen Teilsondervermögens Deutsche Bundespost POSTBANK undd)des ehemaligen Teilsondervermögens Deutsche Bundespost TELEKOM, des ehemaligen Sondervermögens Deutsche Bundespost, des ehemaligen Teilsondervermögens Deutsche Bundespost POSTDIENST, des ehemaligen Teilsondervermögens Deutsche Bundespost POSTBANK und des ehemaligen Teilsondervermögens Deutsche Bundespost TELEKOM,
 
-a)
+2. Ruhestandsbeamtinnen und Ruhestandsbeamten, die zuletzt bei einem Postnachfolgeunternehmen beschäftigt waren,
 
-b)
+2a. Versorgungsempfängerinnen und Versorgungsempfängern, die bei einem Postnachfolgeunternehmen beschäftigt sind oder zuletzt beschäftigt waren,
 
-c)
+3. früheren Beschäftigten und Vorstandsmitgliedern der in den Nummern 1 und 2 genannten Unternehmen und Sondervermögen, denen aus einem öffentlich-rechtlichen Amtsverhältnis, einem nach § 47 Absatz 2 des Postverfassungsgesetzes geschlossenen Vertrag oder auf Grund des Dienstrechtlichen Kriegsfolgen-Abschlussgesetzes Ansprüche auf beamtenrechtlich ausgestaltete Versorgung zustehen,
 
-d)
+4. früheren Beamtinnen und Beamten, die zuletzt bei einem Postnachfolgeunternehmen beschäftigt waren und denen Altersgeld gewährt wird, und
 
-2.
-
-2a.
-
-3.
-
-4.
-
-5.
+5. Hinterbliebenen der in den Nummern 1 bis 4 genannten Personen.
 
 (2) Die Präsidentin oder der Präsident nimmt die Befugnisse der obersten Dienstbehörde und die Befugnisse der Dienstvorgesetzten oder des Dienstvorgesetzten wahr. Sie oder er nimmt darüber hinaus die Befugnisse der obersten Dienstbehörde nach § 49 Absatz 1 des Beamtenversorgungsgesetzes für die bei den Postnachfolgeunternehmen beschäftigten Beamtinnen und Beamten sowie die sich aus § 2 Absatz 1 Nummer 5 des Dienstrechtlichen Kriegsfolgen-Abschlussgesetzes und aus § 10 des Altersgeldgesetzes ergebenden Zuständigkeiten in Versorgungs- und Altersgeldangelegenheiten wahr.
 
@@ -164,13 +156,13 @@ d)
 
 (1) Der Bundesanstalt werden folgende Aufgaben und Befugnisse in Bezug auf die bei den Postnachfolgeunternehmen beschäftigten Beamtinnen und Beamten übertragen:
 
-1.
+1. die Berechnung, Festsetzung, Auszahlung und Rückforderung der Beihilfe in Krankheits-, Pflege- und Geburtsfällen sowie der Erlass von Widerspruchs-, Rücknahme- und Widerrufsbescheiden in Beihilfeangelegenheiten,
 
-2.
+2. die Führung der Beihilfeakten,
 
-3.
+3. die Geltendmachung von Schadensersatzansprüchen nach § 76 des Bundesbeamtengesetzes, soweit diese Beihilfeleistungen betreffen, sowie
 
-4.
+4. die gerichtliche Vertretung der Bundesrepublik Deutschland in Verfahren nach den Nummern 1 bis 3.
 
 Die Bundesanstalt nimmt insoweit die Befugnisse der obersten Dienstbehörde wahr. § 15 Absatz 1 Satz 2 und Absatz 3 gilt entsprechend. Die Postnachfolgeunternehmen haben die Bundesanstalt bei der Durchführung der Aufgaben zu unterstützen. Die geleisteten Beihilfeausgaben sind der Bundesanstalt durch das Postnachfolgeunternehmen, bei der die Beamtin oder der Beamte beschäftigt ist, zu erstatten.
 
@@ -198,25 +190,25 @@ Die Bundesanstalt nimmt insoweit die Befugnisse der obersten Dienstbehörde wahr
 
 ### § 20 — Wirtschaftsplan
 
-(1) Die Präsidentin oder der Präsident stellt für jedes Jahr einen Wirtschaftsplan auf, der umfasst. Geschäftsjahr ist das Kalenderjahr.
+(1) Die Präsidentin oder der Präsident stellt für jedes Jahr einen Wirtschaftsplan auf, der
 
-1.
+1. eine Vorschau-Gewinn- und -Verlustrechnung,
 
-2.
+2. eine Vorschau-Kapitalrechnung und
 
-3.
+3. einen Stellenplan
 
-(2) Bestandteil des Wirtschaftsplans ist auch eine im Einzelnen aufgeschlüsselte Zuordnung der Planaufwendungen und Planinvestitionen zu folgenden Bereichen: Die Einzelheiten regelt die Satzung.
+(2) Bestandteil des Wirtschaftsplans ist auch eine im Einzelnen aufgeschlüsselte Zuordnung der Planaufwendungen und Planinvestitionen zu folgenden Bereichen:
 
-1.
+1. Versorgungsanstalt der Deutschen Bundespost gemäß § 26 Abs. 1 und 4,
 
-2.
+2. Erholungswerk Post Postbank Telekom e. V. gemäß § 26 Abs. 1 und 4,
 
-3.
+3. Betreuungswerk Post Postbank Telekom gemäß § 26 Abs. 1 und 4,
 
-4.
+4. Postbeamtenkrankenkasse gemäß § 26 Abs. 2 und §§ 26a bis 26k und
 
-5.
+5. übrige Aufgaben der Bundesanstalt.
 
 (3) Der Wirtschaftsplan bedarf der Genehmigung gemäß § 7 Abs. 1.
 
@@ -226,7 +218,7 @@ Die Bundesanstalt nimmt insoweit die Befugnisse der obersten Dienstbehörde wahr
 
 (1) Die Präsidentin oder der Präsident stellt für das vergangene Geschäftsjahr innerhalb der ersten vier Monate des Folgejahres einen Jahresabschluss und einen Lagebericht nach den für große Kapitalgesellschaften geltenden Vorschriften des Handelsgesetzbuchs auf.
 
-(2) Für Zwecke der Bewertung von Rückstellungen für Altersversorgungsverpflichtungen gegenüber Arbeitnehmerinnen und Arbeitnehmern der Bundesanstalt sowie für Versorgungsaufwendungen und Beihilfen für die Ruhestandsbeamtinnen und Ruhestandsbeamten der Bundesanstalt wird abweichend von § 253 Absatz 2 des Handelsgesetzbuchs ein fester Rechnungszins zugrunde gelegt.  Der Vorschlag für den zugrunde zu legenden Rechnungszins wird durch einen von der Bundesanstalt bestellten Aktuar ermittelt.  Die Festlegung des Rechnungszinses erfolgt durch die Bundesanstalt.  Der Rechnungszins muss die im Bestand befindlichen Vermögenswerte sowie den Ertrag künftiger Vermögenswerte angemessen berücksichtigen.  Der Rechnungszins ist im Abstand von vier Jahren zu überprüfen.  Führt die Überprüfung zu einer Abweichung des Rechnungszinses von mindestens 40 Basispunkten, ist der Rechnungszins anzupassen.  Die Anpassung des Rechnungszinses ist in jährlich gleichmäßigen Schritten so vorzunehmen, dass die Abweichung nach vier Jahren ausgeglichen ist.  § 246 Absatz 2 Satz 2 des Handelsgesetzbuchs ist nicht anzuwenden.
+(2) Für Zwecke der Bewertung von Rückstellungen für Altersversorgungsverpflichtungen gegenüber Arbeitnehmerinnen und Arbeitnehmern der Bundesanstalt sowie für Versorgungsaufwendungen und Beihilfen für die Ruhestandsbeamtinnen und Ruhestandsbeamten der Bundesanstalt wird abweichend von § 253 Absatz 2 des Handelsgesetzbuchs ein fester Rechnungszins zugrunde gelegt. Der Vorschlag für den zugrunde zu legenden Rechnungszins wird durch einen von der Bundesanstalt bestellten Aktuar ermittelt. Die Festlegung des Rechnungszinses erfolgt durch die Bundesanstalt. Der Rechnungszins muss die im Bestand befindlichen Vermögenswerte sowie den Ertrag künftiger Vermögenswerte angemessen berücksichtigen. Der Rechnungszins ist im Abstand von vier Jahren zu überprüfen. Führt die Überprüfung zu einer Abweichung des Rechnungszinses von mindestens 40 Basispunkten, ist der Rechnungszins anzupassen. Die Anpassung des Rechnungszinses ist in jährlich gleichmäßigen Schritten so vorzunehmen, dass die Abweichung nach vier Jahren ausgeglichen ist. § 246 Absatz 2 Satz 2 des Handelsgesetzbuchs ist nicht anzuwenden.
 
 (3) Der Jahresabschluss bedarf der Genehmigung nach § 7 Absatz 1. Das Publizitätsgesetz ist nicht anzuwenden.
 
@@ -272,11 +264,11 @@ Einer Beamtin oder einem Beamten, deren oder dessen Aufgabengebiet von Umstruktu
 
 (3) Die betrieblichen Sozialeinrichtungen haben sich an den organisatorischen Gegebenheiten der Postnachfolgeunternehmen zu orientieren und deren Interesse an einer möglichst wirtschaftlichen Leistungserstellung zu befolgen.
 
-(4) Die Bundesanstalt übernimmt im Rahmen der Weiterführung und Aufrechterhaltung den Personal- und Sachaufwand für das Erholungswerk Post Postbank Telekom e. V., das Betreuungswerk Post Postbank Telekom und die Versorgungsanstalt der Deutschen Bundespost. Die hiermit verbundenen Kosten einschließlich der kalkulatorischen Kosten tragen, soweit sie nicht durch andere Einnahmen gedeckt sind Für die Weiterführung des Erholungswerks und die Aufrechterhaltung des Betreuungswerks können besondere Vereinbarungen zum Zwecke der teilweisen Eigenfinanzierung geschlossen werden.
+(4) Die Bundesanstalt übernimmt im Rahmen der Weiterführung und Aufrechterhaltung den Personal- und Sachaufwand für das Erholungswerk Post Postbank Telekom e. V., das Betreuungswerk Post Postbank Telekom und die Versorgungsanstalt der Deutschen Bundespost. Die hiermit verbundenen Kosten einschließlich der kalkulatorischen Kosten tragen, soweit sie nicht durch andere Einnahmen gedeckt sind
 
-1.
+1. die Postnachfolgeunternehmen für die Berechtigten oder Begünstigten aus dem Bereich der Postnachfolgeunternehmen und der Bundesanstalt gemäß § 19 Abs. 1,
 
-2.
+2. im Übrigen die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation, die Museumsstiftung Post und Telekommunikation und die Bundesrepublik Deutschland für ihre Berechtigten oder Begünstigten.
 
 (5) Die Bundesanstalt ist verpflichtet, die Wirtschaftlichkeit der betrieblichen Sozialeinrichtungen zu kontrollieren. Die Bundesanstalt führt die Aufsicht über die Postbeamtenkrankenkasse und die Versorgungsanstalt der Deutschen Bundespost. Die §§ 88 und 89 Abs. 1 und 3 des Vierten Buches Sozialgesetzbuch gelten entsprechend.
 
@@ -306,23 +298,23 @@ Einer Beamtin oder einem Beamten, deren oder dessen Aufgabengebiet von Umstruktu
 
 (7) Der Verwaltungsrat stellt den Vorstand ein und entlässt diesen.
 
-(8) Der Verwaltungsrat beschließt auf Vorlage des Vorstands über Die Beschlüsse nach Satz 1 bedürfen der Genehmigung der Bundesanstalt. Der Verwaltungsrat kann die Bundesanstalt für Finanzdienstleistungsaufsicht um Stellungnahme bitten. Satzungsändernde Beschlüsse bedürfen einer Zweidrittelmehrheit der Mitglieder des Verwaltungsrats.
+(8) Der Verwaltungsrat beschließt auf Vorlage des Vorstands über
 
-1.
+1. die Feststellung und wesentliche Änderungen des Wirtschaftsplans,
 
-2.
+2. die Feststellung des Jahresabschlusses und des Lageberichts,
 
-3.
+3. die Entlastung des Vorstands,
 
-4.
+4. befristete Einschränkungen von Leistungen an die Mitglieder,
 
-5.
+5. Richtlinien für die Anlage des Vermögens,
 
-6.
+6. Änderungen der Satzung,
 
-7.
+7. die Höhe der Beiträge und die Beitragsstruktur und
 
-8.
+8. die Höhe der Aufwandsentschädigung nach Absatz 6.
 
 ### § 26c — Satzung
 
@@ -400,13 +392,13 @@ Die der Bundesanstalt aus der Weiterführung der Postbeamtenkrankenkasse entsteh
 
 ### § 26l — Beihilfebearbeitung für andere Stellen
 
-Die Postbeamtenkrankenkasse kann nach Maßgabe öffentlich-rechtlicher Geschäftsbesorgungsverträge für Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts gegen Entgelt die folgenden Aufgaben ganz oder teilweise übernehmen: Die Übernahme bedarf der Zustimmung der jeweils zuständigen obersten Dienstbehörde und der Bundesanstalt.
+Die Postbeamtenkrankenkasse kann nach Maßgabe öffentlich-rechtlicher Geschäftsbesorgungsverträge für Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts gegen Entgelt die folgenden Aufgaben ganz oder teilweise übernehmen:
 
-1.
+1. die Beihilfebearbeitung,
 
-2.
+2. die Führung der Beihilfeakten und
 
-3.
+3. die Geltendmachung von Schadensersatzansprüchen, soweit diese Beihilfeleistungen betreffen.
 
 ## Unterabschnitt 3: Wohnungsfürsorge
 

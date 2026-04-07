@@ -12,7 +12,11 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 ### § 1
 
-(1) Die bisherigen Reichswasserstraßen (Binnen- und Seewasserstraßen) sind mit Wirkung vom 24. Mai 1949 als Bundeswasserstraßen Eigentum des Bundes. Vom gleichen Zeitpunkt ist der Bund Inhaber aller sonstigen Vermögensrechte, die dem Deutschen Reich gehörten und Zwecken der Verwaltung der Reichswasserstraßen und des Leuchtfeuerwesens sowie anderen navigatorischen Aufgaben dienten oder die ausschließlich für diese Zwecke begründet oder bestimmt worden sind. Dies gilt auch für Rechte, die durch Gesetz für unübertragbar oder nur auf Grund besonderer Vereinbarung für übertragbar erklärt sind. Die in dem Gesetz über den Staatsvertrag, betreffend den Übergang der Wasserstraßen von den Ländern auf das Deutsche Reich vom 29. Juli 1921 (Reichsgesetzbl. S. 961) und den Nachträgen hierzu vom 18. Februar 1922 (Reichsgesetzbl. S. 222) und vom 22. Dezember 1928 (Reichsgesetzbl. 1929 II S. 1) getroffene Regelung gilt sinngemäß weiter.(2) (weggefallen)(3) (weggefallen)
+(1) Die bisherigen Reichswasserstraßen (Binnen- und Seewasserstraßen) sind mit Wirkung vom 24. Mai 1949 als Bundeswasserstraßen Eigentum des Bundes. Vom gleichen Zeitpunkt ist der Bund Inhaber aller sonstigen Vermögensrechte, die dem Deutschen Reich gehörten und Zwecken der Verwaltung der Reichswasserstraßen und des Leuchtfeuerwesens sowie anderen navigatorischen Aufgaben dienten oder die ausschließlich für diese Zwecke begründet oder bestimmt worden sind. Dies gilt auch für Rechte, die durch Gesetz für unübertragbar oder nur auf Grund besonderer Vereinbarung für übertragbar erklärt sind. Die in dem Gesetz über den Staatsvertrag, betreffend den Übergang der Wasserstraßen von den Ländern auf das Deutsche Reich vom 29. Juli 1921 (Reichsgesetzbl. S. 961) und den Nachträgen hierzu vom 18. Februar 1922 (Reichsgesetzbl. S. 222) und vom 22. Dezember 1928 (Reichsgesetzbl. 1929 II S. 1) getroffene Regelung gilt sinngemäß weiter.
+
+(2) (weggefallen)
+
+(3) (weggefallen)
 
 ### § 2
 
@@ -40,7 +44,9 @@ Dingliche Rechte an Grundstücken und sonstigen Sachen und Rechten, die unter §
 
 ### § 8
 
-(1) Steht das Eigentum an einem Grundstück nach § 1 dem Bund zu, so ist der Antrag auf Berichtigung des Grundbuchs von der höheren Behörde der Bundeswasserstraßenverwaltung zu stellen, in deren Bezirk das Grundstück liegt; bei Zweifeln wird die zuständige Behörde von dem Bundesministerium für Verkehr und digitale Infrastruktur bestimmt. War als Eigentümer eines solchen Grundstücks nicht das Deutsche Reich im Grundbuch eingetragen, so ist die Berichtigung des Grundbuchs gemeinsam von der höheren Behörde der Bundeswasserstraßenverwaltung und von der durch die Landesregierung bestimmten Landesbehörde zu beantragen, in deren Bezirk das Grundstück liegt. Der Antrag muß von dem Leiter der Behörde oder seinem Vertreter unterschrieben und mit dem Amtssiegel oder Amtsstempel versehen sein. Zum Nachweis des Eigentums gegenüber dem Grundbuchamt genügt die in den Antrag aufzunehmende Erklärung, daß das Grundstück dem Bund zusteht. Das Eigentum ist einzutragen für die "Bundesrepublik Deutschland (Bundeswasserstraßenverwaltung)".(2) Dies gilt für sonstige im Grundbuch eingetragene Rechte entsprechend.
+(1) Steht das Eigentum an einem Grundstück nach § 1 dem Bund zu, so ist der Antrag auf Berichtigung des Grundbuchs von der höheren Behörde der Bundeswasserstraßenverwaltung zu stellen, in deren Bezirk das Grundstück liegt; bei Zweifeln wird die zuständige Behörde von dem Bundesministerium für Verkehr und digitale Infrastruktur bestimmt. War als Eigentümer eines solchen Grundstücks nicht das Deutsche Reich im Grundbuch eingetragen, so ist die Berichtigung des Grundbuchs gemeinsam von der höheren Behörde der Bundeswasserstraßenverwaltung und von der durch die Landesregierung bestimmten Landesbehörde zu beantragen, in deren Bezirk das Grundstück liegt. Der Antrag muß von dem Leiter der Behörde oder seinem Vertreter unterschrieben und mit dem Amtssiegel oder Amtsstempel versehen sein. Zum Nachweis des Eigentums gegenüber dem Grundbuchamt genügt die in den Antrag aufzunehmende Erklärung, daß das Grundstück dem Bund zusteht. Das Eigentum ist einzutragen für die "Bundesrepublik Deutschland (Bundeswasserstraßenverwaltung)".
+
+(2) Dies gilt für sonstige im Grundbuch eingetragene Rechte entsprechend.
 
 ### § 9
 

@@ -28,17 +28,11 @@ Dem Bund obliegt die Durchsetzung der Fahrgastrechte auf dem Gebiet des Kraftomn
 
 (1) Soweit es zur Durchführung der Verordnung (EU) Nr. 181/2011 erforderlich ist, kann die zuständige Behörde die notwendigen Maßnahmen treffen, die zur Feststellung, Beseitigung oder Verhütung von Verstößen gegen die Verordnung (EU) Nr. 181/2011 erforderlich sind. Sie kann insbesondere
 
-1.
+1. den Beförderer, ausführenden Beförderer, Fahrscheinverkäufer, Reisevermittler, Reiseveranstalter oder Busbahnhofbetreiber im Sinne des Artikels 3 Buchstabe e bis i und o der Verordnung (EU) Nr. 181/2011 verpflichten, einen festgestellten Verstoß gegen die genannte Verordnung zu beseitigen oder künftige Verstöße zu unterlassen,
 
-2.
+2. von dem Beförderer, ausführenden Beförderer, Fahrscheinverkäufer, Reisevermittler, Reiseveranstalter oder Busbahnhofbetreiber alle zur Erfüllung der in Satz 1 genannten Aufgaben erforderlichen Auskünfte innerhalb einer zu bestimmenden angemessenen Frist verlangen,
 
-3.
-
-a)
-
-b)
-
-c)
+3. für die Erfüllung der in Satz 1 sowie in den Nummern 1 und 2 genannten Befugnisse von dem Beförderer, ausführenden Beförderer, Fahrscheinverkäufer, Reisevermittler, Reiseveranstalter oder Busbahnhofbetreiber im Sinne des Artikels 3 Buchstabe e bis i und o der Verordnung (EU) Nr. 181/2011 a)verlangen, Einsicht in die erforderlichen Schrift- oder Datenträger, insbesondere Aufzeichnungen und Vertragsunterlagen zu erhalten,b)Abschriften, Auszüge, Ausdrucke oder Kopien, auch von Datenträgern, anfertigen oder solche verlangen,c)die unter Buchstabe b genannten Unterlagen und Datenträger nutzen und hierfür – soweit erforderlich – speichern. verlangen, Einsicht in die erforderlichen Schrift- oder Datenträger, insbesondere Aufzeichnungen und Vertragsunterlagen zu erhalten, Abschriften, Auszüge, Ausdrucke oder Kopien, auch von Datenträgern, anfertigen oder solche verlangen, die unter Buchstabe b genannten Unterlagen und Datenträger nutzen und hierfür – soweit erforderlich – speichern.
 
 (2) Im Rahmen des Absatzes 1 sind die von der zuständigen Behörde beauftragten Personen befugt, Grundstücke, Betriebsräume sowie Geschäftsräume während der üblichen Betriebs- oder Geschäftszeit zu betreten.
 
@@ -46,25 +40,25 @@ c)
 
 (4) Eine nach Absatz 1 Satz 2 Nummer 2 zur Auskunft verpflichtete Person kann die Auskunft auf solche Fragen verweigern, deren Beantwortung sie selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Sie ist über ihr Recht zur Verweigerung der Auskunft zu belehren.
 
-(5) Die zuständige Behörde kann ihre Anordnungen nach den für die Vollstreckung von Verwaltungsmaßnahmen geltenden Bestimmungen durchsetzen. Bei der Verhängung eines Zwangsgeldes kann dieses bis zu 500 000 Euro betragen.
+(5) Die zuständige Behörde kann ihre Anordnungen nach den für die Vollstreckung von Verwaltungsmaßnahmen geltenden Bestimmungen durchsetzen. Bei der Verhängung eines Zwangsgeldes kann dieses bis zu 500 000 Euro betragen.
 
 ### § 5 — Duldungs- und Mitwirkungspflichten
 
-Beförderer, ausführende Beförderer, Fahrscheinverkäufer, Reisevermittler, Reiseveranstalter oder Busbahnhofbetreiber, die nach Gesetz oder Satzung zu deren Vertretung berufenen Personen und die von ihnen bestellten Vertreter sowie die Eigentümer und sonstigen nutzungsberechtigten Personen der in § 4 Absatz 2 bezeichneten Grundstücke, Betriebs- und Geschäftsräume sind verpflichtet, Insbesondere sind die in Satz 1 genannten Personen verpflichtet, auf Verlangen der zuständigen Behörde und den von ihr beauftragten Personen die in Betracht kommenden Räume zu öffnen.
+Beförderer, ausführende Beförderer, Fahrscheinverkäufer, Reisevermittler, Reiseveranstalter oder Busbahnhofbetreiber, die nach Gesetz oder Satzung zu deren Vertretung berufenen Personen und die von ihnen bestellten Vertreter sowie die Eigentümer und sonstigen nutzungsberechtigten Personen der in § 4 Absatz 2 bezeichneten Grundstücke, Betriebs- und Geschäftsräume sind verpflichtet,
 
-1.
+1. die Maßnahmen nach § 4 Absatz 1 Satz 2 Nummer 3 und Absatz 2 zu dulden und
 
-2.
+2. die zuständige Behörde und die von ihr beauftragten Personen bei der Erfüllung ihrer Aufgaben zu unterstützen.
 
 ### § 6 — Schlichtungsstelle
 
 (1) Zur Beilegung von Streitigkeiten aus der Beförderung im Kraftomnibusverkehr kann der Fahrgast eine geeignete Verbraucherschlichtungsstelle anrufen, wenn sich der Vertragspartner bereit erklärt hat, an der Schlichtung teilzunehmen.
 
-(2) Streitigkeiten im Sinne des Absatzes 1 sind Das Recht, die Gerichte anzurufen, bleibt durch die Schlichtung unberührt.
+(2) Streitigkeiten im Sinne des Absatzes 1 sind
 
-1.
+1. Streitigkeiten wegen der Verletzung der nach der Verordnung (EU) Nr. 181/2011 bestehenden Rechte und Pflichten sowie
 
-2.
+2. Streitigkeiten wegen Verlusts, Beschädigung oder verspäteter Ablieferung von Gepäck eines Fahrgastes oder von sonstigen Sachen, die ein Fahrgast an sich getragen oder mit sich geführt hat.
 
 (3) Die Verbraucherschlichtungsstelle nach Absatz 1 bedarf der Anerkennung nach dem Verbraucherstreitbeilegungsgesetz vom 19. Februar 2016 (BGBl. I S. 254), das durch Artikel 1 des Gesetzes vom 30. November 2019 (BGBl. I S. 1942) geändert worden ist, in der jeweils geltenden Fassung, durch das Bundesamt für Justiz. Die Verbraucherschlichtungsstelle kann auch eine verkehrsträgerübergreifende Schlichtungsstelle sein. Die Anerkennung und der Widerruf oder die Rücknahme der Anerkennung sind im Bundesanzeiger bekannt zu machen.
 
@@ -84,11 +78,11 @@ Das Eisenbahn-Bundesamt erhebt Gebühren und Auslagen für seine individuell zur
 
 (1) Zur Durchsetzung der Fahrgastrechte im Kraftomnibusverkehr nach der Verordnung (EU) Nr. 181/2011 wird das Bundesministerium für Verkehr und digitale Infrastruktur zur Wahrnehmung der Aufgaben des Bundes nach § 2 ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
-1.
+1. das Verfahren zur Durchsetzung der Fahrgastrechte im Kraftomnibusverkehr nach der Verordnung (EU) Nr. 181/2011 zu regeln,
 
-2.
+2. die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach § 9 Absatz 1 geahndet werden können,
 
-3.
+3. Regelungen zur Berichterstattung über die Durchsetzung der Verordnung (EU) Nr. 181/2011 nach deren Artikel 29 zu treffen.
 
 (2) Zur Deckung des Verwaltungsaufwands wird das Bundesministerium für Verkehr und digitale Infrastruktur ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und die Gebührensätze zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
 

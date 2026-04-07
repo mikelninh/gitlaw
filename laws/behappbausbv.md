@@ -30,39 +30,39 @@ Die Berufsausbildung dauert dreieinhalb Jahre.
 
 ### § 4 — Struktur der Berufsausbildung, Ausbildungsberufsbild
 
-(1) Die Berufsausbildung gliedert sich in: Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
+(1) Die Berufsausbildung gliedert sich in:
 
-1.
+1. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 (2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. Planen und Vorbereiten von Herstellungsprozessen und Arbeitsabläufen,
 
-2.
+2. Einsetzen von betrieblicher und technischer Kommunikation,
 
-3.
+3. Herstellen von Bauteilen für Apparate, Behälter und Rohrleitungssysteme,
 
-4.
+4. Herstellen, Montieren und Demontieren von Baugruppen, Apparaten, Behältern und Rohrleitungssystemen,
 
-5.
+5. Durchführen von Arbeits- und Schutzmaßnahmen,
 
-6.
+6. Behandeln und Schützen von Oberflächen,
 
-7.
+7. Durchführen von qualitätssichernden Maßnahmen und
 
-8.
+8. Instandhalten von Bauteilen, Baugruppen, Apparaten, Behältern und Rohrleitungssystemen.
 
 (3) Die Berufsbildpositionen der integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. Berufsbildung sowie Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Sicherheit und Gesundheitsschutz bei der Arbeit und
 
-4.
+4. Umweltschutz.
 
 ### § 5 — Ausbildungsplan
 
@@ -82,9 +82,9 @@ Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage de
 
 Teil 1 der Gesellenprüfung erstreckt sich auf
 
-1.
+1. die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 ### § 8 — Prüfungsbereich Rohrleitungsbau
 
@@ -92,21 +92,21 @@ Teil 1 der Gesellenprüfung erstreckt sich auf
 
 (2) Im Prüfungsbereich Rohrleitungsbau soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. technische Zeichnungen auszuwerten, Arbeitsschritte zu planen, Berechnungen durchzuführen und Arbeitsmittel festzulegen,
 
-2.
+2. Halbzeuge manuell und maschinell auftragsbezogen zu bearbeiten,
 
-3.
+3. Arbeitssicherheit und Gesundheitsschutz einzuhalten,
 
-4.
+4. Fügeverbindungen vorzubereiten und herzustellen und
 
-5.
+5. Mess- und Prüfprotokolle anzufertigen.
 
 (3) Für den Nachweis nach Absatz 2 sind folgende Tätigkeiten zugrunde zu legen:
 
-1.
+1. Herstellung einer Konsole und
 
-2.
+2. Herstellung eines Rohrleitungsabschnitts.
 
 (4) Der Prüfling soll eine Arbeitsprobe durchführen und mit praxisbezogenen Unterlagen dokumentieren. Während der Durchführung wird mit ihm ein situatives Fachgespräch geführt. Das Fachgespräch kann aus mehreren Gesprächsphasen bestehen. Weiterhin soll der Prüfling Aufgaben, die sich auf die Arbeitsprobe beziehen, schriftlich bearbeiten.
 
@@ -116,9 +116,9 @@ Teil 1 der Gesellenprüfung erstreckt sich auf
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf
 
-1.
+1. die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 (2) In Teil 2 der Gesellenprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Gesellenprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
@@ -126,27 +126,27 @@ Teil 1 der Gesellenprüfung erstreckt sich auf
 
 Teil 2 der Gesellenprüfung findet in folgenden Prüfungsbereichen statt:
 
-1.
+1. Behälterbau,
 
-2.
+2. Anlagentechnik,
 
-3.
+3. Instandhaltung sowie
 
-4.
+4. Wirtschafts- und Sozialkunde.
 
 ### § 11 — Prüfungsbereich Behälterbau
 
 (1) Im Prüfungsbereich Behälterbau soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. technische Unterlagen auszuwerten und anzuwenden, Abwicklungen zu konstruieren sowie Arbeitsabläufe unter Einhaltung zeitlicher und technologischer Vorgaben zu planen,
 
-2.
+2. Bauteile manuell und maschinell unter Berücksichtigung von auftragsspezifischen Anforderungen herzustellen,
 
-3.
+3. Behälter aus Bauteilen maßhaltig herzustellen, zu richten und nachzubehandeln,
 
-4.
+4. Schweißverbindungen herzustellen und nachzubehandeln und
 
-5.
+5. Arbeits- und Prüfergebnisse zu bewerten, zu dokumentieren und zu erläutern sowie Qualität sicherzustellen.
 
 (2) Der Prüfling soll ein Prüfungsstück herstellen und mit praxisbezogenen Unterlagen dokumentieren. Nach der Herstellung wird mit ihm auf der Grundlage der Dokumentation und des hergestellten Prüfungsstücks ein auftragsbezogenes Fachgespräch geführt.
 
@@ -156,23 +156,23 @@ Teil 2 der Gesellenprüfung findet in folgenden Prüfungsbereichen statt:
 
 (1) Im Prüfungsbereich Anlagentechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Fertigungsverfahren nach Verwendungszweck auszuwählen, die Auswahl zu begründen und Abwicklungen zu konstruieren,
 
-2.
+2. fertigungs- und verfahrenstechnische Einflussgrößen bei der Herstellung und beim Betrieb zu berechnen und zu beurteilen,
 
-3.
+3. den Einfluss von Medien hinsichtlich ihres Verwendungszwecks sowie hinsichtlich ihrer physikalischen und chemischen Eigenschaften beim Anlagenbau zu berücksichtigen und zu bewerten,
 
-4.
+4. Mess-, Steuer-, Regel- und Sicherheitseinrichtungen auszuwählen, die Auswahl zu begründen sowie Einbauvorschriften zu berücksichtigen und
 
-5.
+5. Vorschriften zur Arbeitssicherheit und zum Umweltschutz anzuwenden.
 
 (2) Für den Nachweis nach Absatz 1 sind folgende Gebiete zugrunde zu legen:
 
-1.
+1. Behälterbau,
 
-2.
+2. Apparatebau und
 
-3.
+3. Rohrleitungsbau.
 
 (3) Der Prüfling soll Aufgaben schriftlich bearbeiten.
 
@@ -182,15 +182,15 @@ Teil 2 der Gesellenprüfung findet in folgenden Prüfungsbereichen statt:
 
 (1) Im Prüfungsbereich Instandhaltung soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Störungen zu analysieren, Fehler zu suchen und Ursachen festzustellen,
 
-2.
+2. technische Unterlagen sowie Daten abzugleichen und auszuwerten,
 
-3.
+3. Instandhaltungsmaßnahmen zu planen, durchzuführen und zu dokumentieren,
 
-4.
+4. Prüfverfahren zur Wiederinbetriebnahme auszuwählen und durchzuführen und
 
-5.
+5. Abnahmen durchzuführen und zu dokumentieren.
 
 (2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
 
@@ -208,33 +208,33 @@ Teil 2 der Gesellenprüfung findet in folgenden Prüfungsbereichen statt:
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
-1.
+1. Rohrleitungsbau mit25 Prozent,
 
-2.
+2. Behälterbau mit35 Prozent,
 
-3.
+3. Anlagentechnik mit15 Prozent,
 
-4.
+4. Instandhaltung mit15 Prozent sowie
 
-5.
+5. Wirtschafts- und Sozialkunde mit10 Prozent.
 
 (2) Die Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-1.
+1. im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
-2.
+2. im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
-3.
+3. im Prüfungsbereich Behälterbau mit mindestens „ausreichend“,
 
-4.
+4. in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 mit mindestens „ausreichend“ und
 
-5.
+5. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Anlagentechnik“, „Instandhaltung“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Anlagentechnik“, „Instandhaltung“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.
+1. der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
-2.
+2. die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
 
 ## Abschnitt 3: Schlussvorschriften
 
@@ -247,271 +247,3 @@ Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bereits 
 Diese Verordnung tritt am 1. August 2018 in Kraft. Gleichzeitig tritt die Behälter- und Apparatebauer-Ausbildungsverordnung vom 21. März 1989 (BGBl. I S. 520), die durch Artikel 1 der Verordnung vom 7. Juli 1998 (BGBl. I S. 1805) geändert worden ist, außer Kraft.
 
 ### Anlage — (zu § 3 Absatz 1)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-p)
-
-q)
-
-r)
-
-s)
-
-t)
-
-u)
-
-v)
-
-w)
-
-x)
-
-y)
-
-z)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-p)
-
-q)
-
-r)
-
-s)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-p)
-
-q)
-
-r)
-
-s)
-
-t)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)

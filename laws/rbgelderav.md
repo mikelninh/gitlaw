@@ -12,11 +12,33 @@ Auf Grund des § 77b des Gesetzes über die internationale Rechtshilfe in Strafs
 
 ### § 1 — Elektronischer Rechtsverkehr mit dem Bundesamt für Justiz
 
-(1) Beim Bundesamt für Justiz können ab dem 24. Oktober 2017 in Verfahren nach den §§ 86 bis 87p des Gesetzes über die internationale Rechtshilfe in Strafsachen einschließlich der Zwangsvollstreckungsverfahren elektronische Dokumente eingereicht werden, wenn 1.für die Leistung von Rechtshilfe die Einreichung schriftlicher Unterlagen einschließlich Originalen und beglaubigten Abschriften notwendig ist oder2.Erklärungen, Anträge oder Begründungen ausdrücklich schriftlich abzufassen oder zu unterzeichnen sind.(2) Das Bundesamt für Justiz gibt die für die Übermittlung und Bearbeitung notwendige Form, insbesondere technische Formate und Parameter, von elektronischen Dokumenten nach Absatz 1 sowie die technisch möglichen Übermittlungswege auf seiner Internetseite www.bundesjustizamt.de bekannt.
+(1) Beim Bundesamt für Justiz können ab dem 24. Oktober 2017 in Verfahren nach den §§ 86 bis 87p des Gesetzes über die internationale Rechtshilfe in Strafsachen einschließlich der Zwangsvollstreckungsverfahren elektronische Dokumente eingereicht werden, wenn
+
+1. für die Leistung von Rechtshilfe die Einreichung schriftlicher Unterlagen einschließlich Originalen und beglaubigten Abschriften notwendig ist oder
+
+2. Erklärungen, Anträge oder Begründungen ausdrücklich schriftlich abzufassen oder zu unterzeichnen sind.
+
+(2) Das Bundesamt für Justiz gibt die für die Übermittlung und Bearbeitung notwendige Form, insbesondere technische Formate und Parameter, von elektronischen Dokumenten nach Absatz 1 sowie die technisch möglichen Übermittlungswege auf seiner Internetseite www.bundesjustizamt.de bekannt.
 
 ### § 2 — Signaturanforderungen
 
-(1) Elektronische Dokumente gemäß § 1 Absatz 1 sind mit einer qualifizierten elektronischen Signatur zu versehen.(2) Die qualifizierte elektronische Signatur kann durch eine einfache elektronische Signatur ersetzt werden, wenn eine Behörde oder ein Gericht ein elektronisches Dokument bei dem Bundesamt für Justiz einreicht und 1.ein verschlüsselter Übermittlungsweg auf der Grundlage des Protokollstandards „OSCI“ oder eines nach dem Stand der Technik vergleichbaren Standards genutzt wird und2.die Integrität und Authentizität der Daten gewährleistet ist.(3) Die qualifizierte elektronische Signatur kann auch durch eine einfache elektronische Signatur ersetzt werden, wenn das elektronische Dokument auf einem sicheren Übermittlungsweg eingereicht wird. Sichere Übermittlungswege sind: 1.der Übermittlungsweg zwischen den besonderen elektronischen Anwaltspostfächern nach den §§ 31a und 31b der Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen Postfach und der elektronischen Poststelle des Bundesamtes für Justiz,2.der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder einer juristischen Person des öffentlichen Rechts und der elektronischen Poststelle des Bundesamtes für Justiz,3.der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten elektronischen Postfach einer natürlichen oder juristischen Person oder einer sonstigen Vereinigung und der elektronischen Poststelle des Bundesamtes für Justiz,4.der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und der elektronischen Poststelle des Bundesamtes für Justiz.
+(1) Elektronische Dokumente gemäß § 1 Absatz 1 sind mit einer qualifizierten elektronischen Signatur zu versehen.
+
+(2) Die qualifizierte elektronische Signatur kann durch eine einfache elektronische Signatur ersetzt werden, wenn eine Behörde oder ein Gericht ein elektronisches Dokument bei dem Bundesamt für Justiz einreicht und
+
+1. ein verschlüsselter Übermittlungsweg auf der Grundlage des Protokollstandards „OSCI“ oder eines nach dem Stand der Technik vergleichbaren Standards genutzt wird und
+
+2. die Integrität und Authentizität der Daten gewährleistet ist.
+
+(3) Die qualifizierte elektronische Signatur kann auch durch eine einfache elektronische Signatur ersetzt werden, wenn das elektronische Dokument auf einem sicheren Übermittlungsweg eingereicht wird. Sichere Übermittlungswege sind:
+
+1. der Übermittlungsweg zwischen den besonderen elektronischen Anwaltspostfächern nach den §§ 31a und 31b der Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen Postfach und der elektronischen Poststelle des Bundesamtes für Justiz,
+
+2. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder einer juristischen Person des öffentlichen Rechts und der elektronischen Poststelle des Bundesamtes für Justiz,
+
+3. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten elektronischen Postfach einer natürlichen oder juristischen Person oder einer sonstigen Vereinigung und der elektronischen Poststelle des Bundesamtes für Justiz,
+
+4. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und der elektronischen Poststelle des Bundesamtes für Justiz.
 
 ### § 3 — Formular
 
@@ -28,7 +50,11 @@ Das Bundesamt für Justiz kann ab dem 24. Oktober 2017 die Akten in Verfahren na
 
 ### § 5 — Führung elektronischer Akten
 
-(1) Es ist durch geeignete technisch-organisatorische Maßnahmen nach dem Stand der Technik sicherzustellen, dass die Grundsätze ordnungsgemäßer Aktenführung eingehalten werden.(2) Bei der Übertragung von in Papierform vorliegenden Schriftstücken und Gegenständen des Augenscheins in die elektronische Form gemäß § 77a Absatz 4 Satz 2 des Gesetzes über die internationale Rechtshilfe in Strafsachen ist nach dem Stand der Technik sicherzustellen, dass das zu den Akten zu nehmende elektronische Dokument mit dem Ausgangsdokument bildlich und inhaltlich übereinstimmt, wenn es lesbar gemacht wird.(3) Enthält eine elektronisch geführte Akte sowohl elektronische als auch in Papierform beibehaltene Bestandteile, so muss beim Zugriff auf jeden der Teile ein Hinweis auf den jeweils anderen Teil enthalten sein.
+(1) Es ist durch geeignete technisch-organisatorische Maßnahmen nach dem Stand der Technik sicherzustellen, dass die Grundsätze ordnungsgemäßer Aktenführung eingehalten werden.
+
+(2) Bei der Übertragung von in Papierform vorliegenden Schriftstücken und Gegenständen des Augenscheins in die elektronische Form gemäß § 77a Absatz 4 Satz 2 des Gesetzes über die internationale Rechtshilfe in Strafsachen ist nach dem Stand der Technik sicherzustellen, dass das zu den Akten zu nehmende elektronische Dokument mit dem Ausgangsdokument bildlich und inhaltlich übereinstimmt, wenn es lesbar gemacht wird.
+
+(3) Enthält eine elektronisch geführte Akte sowohl elektronische als auch in Papierform beibehaltene Bestandteile, so muss beim Zugriff auf jeden der Teile ein Hinweis auf den jeweils anderen Teil enthalten sein.
 
 ### § 6 — Datenschutz und Datensicherheit
 

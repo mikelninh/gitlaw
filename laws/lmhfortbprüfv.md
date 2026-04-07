@@ -22,49 +22,43 @@ Auf Grund des § 42 Absatz 1 in Verbindung mit Absatz 2 der Handwerksordnung, vo
 
 (5) Zur erweiterten beruflichen Handlungsfähigkeit gehören im Einzelnen folgende Aufgaben:
 
-1.
+1. vorhandene Märkte analysieren und neue Märkte erschließen,
 
-2.
+2. kurz-, mittel- und langfristige Vertriebskonzepte und Verkaufsaktivitäten entwickeln, umsetzen und auswerten,
 
-3.
+3. Personal führen und anleiten sowie dessen Einsatz planen,
 
-4.
+4. mit Geschäftspartnern, insbesondere mit Lieferanten sowie mit internen und externen Kunden, kommunizieren und kooperieren,
 
-5.
+5. Verkauf organisieren und steuern,
 
-6.
+6. Gastronomiekonzepte entwickeln und umsetzen,
 
-7.
+7. Warenpräsentationskonzepte entwickeln, planen, vermitteln und die Umsetzung der Konzepte kontrollieren,
 
-8.
+8. betriebliche Kennzahlen ermitteln, auswerten und zur betrieblichen Steuerung nutzen,
 
-9.
+9. Qualitätsmanagement betrieblich gestalten und steuern,
 
-10.
+10. Wettbewerbsfähigkeit von Unternehmen beurteilen,
 
-11.
+11. Gründungs- und Übernahmeaktivitäten vorbereiten, durchführen und bewerten,
 
-12.
+12. Unternehmensführungsstrategien entwickeln sowie
 
-13.
+13. Ausbildung vorbereiten, organisieren, durchführen und abschließen.
 
 (6) Die erbrachten Nachweise nach § 3 Absatz 1 Nummer 1 und 2 führen zusammen mit der erfolgreich abgelegten Prüfung nach § 3 Absatz 1 Nummer 3 zum anerkannten Fortbildungsabschluss „Geprüfter Verkaufsleiter im Lebensmittelhandwerk“ oder „Geprüfte Verkaufsleiterin im Lebensmittelhandwerk“.
 
 ### § 2 — Voraussetzung für die Zulassung zur Prüfung
 
-(1) Zur Prüfung ist zuzulassen, wer Folgendes nachweist: Die Berufspraxis muss jeweils inhaltlich wesentliche Bezüge zu den in § 1 Absatz 4 und 5 genannten Aufgaben haben.
+(1) Zur Prüfung ist zuzulassen, wer Folgendes nachweist:
 
-1.
+1. eine erfolgreich abgelegte a)Abschlussprüfung in dem anerkannten Ausbildungsberuf „Fachverkäuferin im Lebensmittelhandwerk/Fachverkäufer im Lebensmittelhandwerk“ und eine einjährige Berufspraxis,b)Abschlussprüfung oder Gesellenprüfung oder Abschluss- oder Gesellenprüfung in einem anerkannten Ausbildungsberuf in der Lebensmittelherstellung oder in der Lebensmittelverarbeitung und eine einjährige Berufspraxis oderc)Abschlussprüfung Kaufmann im Einzelhandel oder Kauffrau im Einzelhandel mit einer Bedienpraxis, die überwiegend im Lebensmittelhandel erworben wurde, und eine einjährige Berufspraxis oder Abschlussprüfung in dem anerkannten Ausbildungsberuf „Fachverkäuferin im Lebensmittelhandwerk/Fachverkäufer im Lebensmittelhandwerk“ und eine einjährige Berufspraxis, Abschlussprüfung oder Gesellenprüfung oder Abschluss- oder Gesellenprüfung in einem anerkannten Ausbildungsberuf in der Lebensmittelherstellung oder in der Lebensmittelverarbeitung und eine einjährige Berufspraxis oder Abschlussprüfung Kaufmann im Einzelhandel oder Kauffrau im Einzelhandel mit einer Bedienpraxis, die überwiegend im Lebensmittelhandel erworben wurde, und eine einjährige Berufspraxis oder
 
-a)
+2. eine erfolgreich abgelegte Abschlussprüfung oder Gesellenprüfung oder Abschluss- oder Gesellenprüfung in einem anderen anerkannten Ausbildungsberuf und eine zweijährige Berufspraxis oder
 
-b)
-
-c)
-
-2.
-
-3.
+3. eine mindestens fünfjährige Berufspraxis.
 
 (2) Abweichend von Absatz 1 ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten erworben zu haben, die der beruflichen Handlungsfähigkeit vergleichbar sind und die Zulassung zur Prüfung rechtfertigen.
 
@@ -72,11 +66,11 @@ c)
 
 (1) Für den Fortbildungsabschluss zum Geprüften Verkaufsleiter im Lebensmittelhandwerk und zur Geprüften Verkaufsleiterin im Lebensmittelhandwerk ist Folgendes erforderlich:
 
-1.
+1. der Nachweis des Erwerbs der betriebswirtschaftlichen, kaufmännischen und rechtlichen Qualifikationen nach § 4,
 
-2.
+2. der Nachweis des Erwerbs der erworbenen berufs- und arbeitspädagogischen Qualifikationen nach § 5 und
 
-3.
+3. die im Rahmen dieser Verordnung geregelte Prüfung der schwerpunktspezifischen Verkaufsleitungsqualifikationen nach den §§ 6 bis 24.
 
 (2) Die Prüfung der schwerpunktspezifischen Verkaufsleitungsqualifikationen ist innerhalb von zwei Jahren ab der ersten abgelegten Prüfungsleistung in dieser Prüfung abzuschließen.
 
@@ -92,11 +86,11 @@ c)
 
 Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prüfende Person nachzuweisen durch
 
-1.
+1. eine erfolgreich abgelegte Prüfung nach den §§ 4 und 5 der Allgemeinen Meisterprüfungsverordnung in der jeweils geltenden Fassung,
 
-2.
+2. eine erfolgreich abgelegte Prüfung nach § 4 der Ausbilder-Eignungsverordnung vom 21. Januar 2009 (BGBl. I S. 88) in der jeweils geltenden Fassung oder
 
-3.
+3. eine andere erfolgreich abgelegte vergleichbare Prüfung vor einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -106,23 +100,23 @@ Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prü
 
 (2) In der Prüfung „Schwerpunktspezifische Verkaufsleitungsqualifikationen“ werden folgende Handlungsbereiche geprüft:
 
-1.
+1. Informationen zu Rohstoffen und Herstellungsweisen aufbereiten und weitergeben,
 
-2.
+2. Vertriebskonzepte entwickeln,
 
-3.
+3. Warenströme und Retourenmanagement organisieren,
 
-4.
+4. Qualitätsmanagement gestalten, Maßstäbe für die Lebensmittelqualität bestimmen und die Einhaltung von Qualitätsvorgaben systematisch überwachen,
 
-5.
+5. Betriebswirtschaftliche Kennzahlen ermitteln und für die Verkaufsleitung nutzen,
 
-6.
+6. Marketing- und Präsentationskonzepte planen, umsetzen und optimieren,
 
-7.
+7. Gastronomiekonzepte für Imbiss, Café und Außer-Haus-Service ausgestalten und realisieren,
 
-8.
+8. Verkaufs-, Verhandlungs- und Beratungsgespräche fachlich vorbereiten, führen und auswerten sowie
 
-9.
+9. Mitarbeiter und Mitarbeiterinnen führen, fördern und schulen.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -132,9 +126,9 @@ Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prü
 
 (2) In diesem Rahmen kann Folgendes geprüft werden:
 
-1.
+1. Erstellen und Gestalten von Produktinformationen anhand eines vorgegebenen Produktes mit Zutatenliste, insbesondere Erstellen und Gestalten von Zutatenlisten, von Angaben zu Allergenen, von Nährwertberechnungen und von Verzehrempfehlungen, und
 
-2.
+2. Entwickeln und Gestalten von Materialien für die Beratung von Kunden.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -144,19 +138,19 @@ Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prü
 
 (2) In diesem Rahmen kann Folgendes geprüft werden:
 
-1.
+1. Ableiten von Konsequenzen aus Markt- und Unternehmensanalysen für die Vertriebsstruktur, für Vertriebswege, für die Filialgröße und den Standort,
 
-2.
+2. Festlegen der Ausrichtung von Verkaufsstätten und Produktpaletten,
 
-3.
+3. Auswählen, Einführen und Bewerben neuer Produkte,
 
-4.
+4. Festlegen von Wegen der Kunden- und Lieferantenansprache,
 
-5.
+5. Entwickeln von Vorgaben für Betriebsabläufe,
 
-6.
+6. Erarbeiten von Vorschlägen zu Ladeneinrichtung, Raumaufteilung und Ausstattung in Filialen sowie zur praktischen Umsetzung dieser Vorschläge unter Berücksichtigung der Ausrichtung und
 
-7.
+7. Entwickeln eines Konzeptes für den Vertrieb über das Internet.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -166,17 +160,17 @@ Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prü
 
 (2) In diesem Rahmen kann Folgendes geprüft werden:
 
-1.
+1. Organisieren und Überwachen des Wareneingangs,
 
-2.
+2. Organisieren und Überwachen der Lagerung von Produkten,
 
-3.
+3. Disponieren von Warenbeständen,
 
-4.
+4. Programmieren und Auswerten von Daten aus rechnergestützten Kassensystemen sowie Ableiten von Konsequenzen für den Verkauf,
 
-5.
+5. Organisieren von Transporten zum Bestimmungsort und
 
-6.
+6. Einrichten und Optimieren eines Retourenmanagements.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -186,15 +180,15 @@ Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prü
 
 (2) In diesem Rahmen kann Folgendes geprüft werden:
 
-1.
+1. Unterscheiden von Qualitätsmanagementsystemen,
 
-2.
+2. Sicherstellen der Qualitätskontrolle von Produkten und Prozessen, Dokumentation der Ergebnisse der Qualitätskontrolle und Ableiten von Konsequenzen,
 
-3.
+3. Dokumentieren und Auswerten von Temperaturen bei der Herstellung, der Lagerung und dem Transport von Lebensmitteln, Ableiten von Konsequenzen zur Prozessoptimierung,
 
-4.
+4. Gewährleisten der Rückverfolgbarkeit von Produkten und
 
-5.
+5. Anleiten der Mitarbeiter und Mitarbeiterinnen zur Qualitätssicherung.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -204,15 +198,15 @@ Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prü
 
 (2) In diesem Rahmen kann Folgendes geprüft werden:
 
-1.
+1. Ermitteln und Auswerten betriebswirtschaftlicher Kennzahlen zum Ableiten von Konsequenzen für Geschäfts- und Vertriebskonzepte,
 
-2.
+2. Festlegen von Preisschienen,
 
-3.
+3. Durchführen von Nachkalkulationen,
 
-4.
+4. Entwickeln betrieblicher Vorgaben zur Angebotserstellung und
 
-5.
+5. Entwickeln eines Anreizsystems für Mitarbeiter und Mitarbeiterinnen auf der Basis betriebswirtschaftlicher Kennzahlen.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -222,13 +216,13 @@ Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prü
 
 (2) In diesem Rahmen kann unter Berücksichtigung von Vorschriften zum Lebensmittelrecht und zur Hygiene Folgendes geprüft werden:
 
-1.
+1. Planen einer Verkaufsaktion unter Betonung der handwerklichen Herstellung,
 
-2.
+2. Gestalten eines Schaufensters, eines Präsentationstisches oder einer Filiale,
 
-3.
+3. Anpassen der Warenpräsentationen an den Tageszyklus und
 
-4.
+4. Integrieren neuer Produkte und Dienstleistungen in das Angebot.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -238,15 +232,15 @@ Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prü
 
 (2) In diesem Rahmen kann Folgendes geprüft werden:
 
-1.
+1. Erstellen eines Planes zur Organisation eines Gastronomiebetriebes,
 
-2.
+2. Festlegen von Angebotspaletten,
 
-3.
+3. Herstellen, Anrichten und Erläutern eines anlass- oder themenbezogenen Snackarrangements nach von der zu prüfenden Person festgelegter Angebotspalette,
 
-4.
+4. Erstellen eines Personaleinsatzplanes und
 
-5.
+5. Unterweisen in der Herstellung, im Servieren und im Erläutern von Getränken.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -256,17 +250,17 @@ Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prü
 
 (2) In diesem Rahmen kann Folgendes geprüft werden:
 
-1.
+1. Ermitteln der Anforderungen und Bedürfnisse von gewerblichen Kunden und Geschäftspartnern,
 
-2.
+2. Unterbreiten und Erläutern komplexer Angebote,
 
-3.
+3. service- und erfolgsorientiertes Führen von Verkaufsgesprächen,
 
-4.
+4. Auswerten von Reklamationen und Beschwerden mit Mitarbeitern und Mitarbeiterinnen mit dem Ziel der Qualitätsoptimierung,
 
-5.
+5. erfolgsorientiertes Führen eines Verhandlungsgesprächs mit Geschäftspartnern und
 
-6.
+6. Kommunizieren und Kooperieren mit der amtlichen Lebensmittelüberwachung oder anderen Kontrollinstanzen bei Überprüfungen.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -276,17 +270,17 @@ Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prü
 
 (2) In diesem Rahmen kann Folgendes geprüft werden:
 
-1.
+1. Durchführen eines lösungsorientierten Konfliktgesprächs,
 
-2.
+2. Durchführen eines Kritik- und Beurteilungsgesprächs,
 
-3.
+3. Führen, Dokumentieren und Auswerten eines Zielvereinbarungsgesprächs unter Berücksichtigung der Mitarbeitermotivation,
 
-4.
+4. Durchführen einer Unterweisung für Mitarbeiter und Mitarbeiterinnen,
 
-5.
+5. Durchführen eines Vorstellungsgesprächs und
 
-6.
+6. Erläutern der Vorgehensweise bei der Personalgewinnung unter Berücksichtigung der rechtlichen Rahmenbedingungen und der betrieblichen Anforderungen.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -294,9 +288,9 @@ Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prü
 
 Die Prüfung gliedert sich in
 
-1.
+1. eine schriftliche Prüfung und
 
-2.
+2. eine praktische Prüfung.
 
 ### § 17 — Schriftliche Prüfung
 
@@ -310,11 +304,11 @@ Die Prüfung gliedert sich in
 
 (1) Die praktische Prüfung umfasst
 
-1.
+1. eine Projektarbeit auf der Grundlage von § 12 oder § 13,
 
-2.
+2. eine Arbeitsaufgabe auf der Grundlage von § 12 oder § 13, jeweils in Kombination mit § 15, sowie
 
-3.
+3. eine Gesprächssimulation auf der Grundlage von § 14 oder § 15.
 
 (2) Das Projekt für die Projektarbeit wird vom Prüfungsausschuss vorgegeben; Vorschläge der zu prüfenden Person können berücksichtigt werden.
 
@@ -324,11 +318,11 @@ Die Prüfung gliedert sich in
 
 (1) Die Projektarbeit besteht aus
 
-1.
+1. einer Projektmappe,
 
-2.
+2. einer Präsentation des Konzeptes der Projektmappe und
 
-3.
+3. einem Fachgespräch, das sich auf die Projektmappe und auf die Präsentation bezieht.
 
 (2) Für die Projektmappe erstellt die zu prüfende Person ein Marketing- und Präsentationskonzept oder ein Gastronomiekonzept. Das Konzept soll Angaben zum Marketing, zur Kalkulation und zur organisatorischen Durchführung des Projektes beinhalten.
 
@@ -336,13 +330,13 @@ Die Prüfung gliedert sich in
 
 (4) In der Präsentation und in dem Fachgespräch soll die zu prüfende Person nachweisen, dass sie in der Lage ist,
 
-1.
+1. die fachlichen Zusammenhänge, die dem Projekt zugrunde liegen, aufzuzeigen,
 
-2.
+2. das Konzept verkaufsfördernd darzustellen,
 
-3.
+3. den Ablauf des Projektes zu begründen und
 
-4.
+4. mit dem Projekt verbundene berufsbezogene Probleme sowie deren Lösungen darzustellen und dabei aktuelle branchenbezogene Entwicklungen zu berücksichtigen.
 
 (5) Die Präsentation soll nicht länger als 20 Minuten dauern.
 
@@ -354,9 +348,9 @@ Die Prüfung gliedert sich in
 
 (1) Im Rahmen der Arbeitsaufgabe soll die zu prüfende Person
 
-1.
+1. einen Teil des von ihr erstellten Marketing- und Präsentationskonzeptes oder des Gastronomiekonzeptes praktisch umsetzen und
 
-2.
+2. eine Schulungssimulation durchführen.
 
 (2) Bei Abgabe der Projektmappe reicht die zu prüfende Person einen Vorschlag für die Arbeitsaufgabe beim Prüfungsausschuss ein und gibt die geplante Dauer der Schulungssimulation an. Die Schulungssimulation soll mindestens 30 und höchstens 60 Minuten dauern.
 
@@ -388,31 +382,21 @@ Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung von der A
 
 (2) Als Prüfungsleistungen sind einzeln zu bewerten:
 
-1.
+1. die schriftliche Prüfung nach § 17 und
 
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+2. in der praktischen Prüfung a)die Projektmappe nach § 19 Absatz 2 und 3,b)die Präsentation des Konzepts der Projektmappe nach § 19 Absatz 4 und 5,c)das Fachgespräch nach § 19 Absatz 4 und 6,d)die Arbeitsaufgabe nach § 20 unde)die Gesprächssimulation nach § 21. die Projektmappe nach § 19 Absatz 2 und 3, die Präsentation des Konzepts der Projektmappe nach § 19 Absatz 4 und 5, das Fachgespräch nach § 19 Absatz 4 und 6, die Arbeitsaufgabe nach § 20 und die Gesprächssimulation nach § 21.
 
 (3) Aus den einzelnen Bewertungen nach Absatz 2 Nummer 2 Buchstabe a bis e wird als Bewertung für die praktische Prüfung das gewichtete arithmetische Mittel berechnet. Dabei sind die Bewertungen wie folgt zu gewichten:
 
-1.
+1. die Bewertung der Projektmappe mit 20 Prozent,
 
-2.
+2. die Bewertung der Präsentation des Konzepts der Projektmappe mit 20 Prozent,
 
-3.
+3. die Bewertung des Fachgesprächs mit 10 Prozent,
 
-4.
+4. die Bewertung der Arbeitsaufgabe mit 30 Prozent und
 
-5.
+5. die Bewertung der Gesprächssimulation mit 20 Prozent.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -420,9 +404,9 @@ e)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
-1.
+1. in der schriftlichen Prüfung und
 
-2.
+2. in der praktischen Prüfung.
 
 (2) Ist die Prüfung bestanden, ist die Bewertung für die praktische Prüfung kaufmännisch auf eine ganze Zahl zu runden.
 
@@ -430,9 +414,9 @@ e)
 
 (4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das gewichtete arithmetische Mittel zu berechnen. Dabei werden die Bewertungen wie folgt gewichtet:
 
-1.
+1. für die schriftliche Prüfung mit 40 Prozent und
 
-2.
+2. für die praktische Prüfung mit 60 Prozent.
 
 (5) Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl wird nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 
@@ -442,35 +426,31 @@ e)
 
 (1) Wer die Prüfung nach § 24 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
-(2) Auf dem Zeugnis mit den Inhalten nach der Anlage 2 Teil B sind die Noten als Dezimalzahl mit einer Nachkommastelle und die Gesamtnote mit einer Nachkommastelle und in Worten anzugeben. Jede Befreiung nach § 22 ist mit Ort, Datum und der Bezeichnung des Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
-
 (3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur Information (Bemerkungen) enthalten, insbesondere
 
-1.
+1. über den erworbenen Abschluss oder
 
-2.
-
-> (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++) § 25 Abs. 2 Satz 1 Kursivdruck: Wegen offensichtlicher Unrichtigkeit der Änderungsanweisung in Art. 7 Nr. 20 V v. 9.12.2019 I 2153 wurde die Angabe "Anlage 2 B" durch die Angabe "Anlage 2 Teil B" ersetzt
+2. auf Antrag der zu prüfenden Person über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 ### § 26 — Übergangsvorschriften
 
 (1) Diesem Fortbildungsabschluss entsprechende Prüfungen nach den nach der Handwerksordnung in Kraft gesetzten Regelungen der Handwerkskammern, die vor Ablauf des 31. Dezember 2015 angemeldet wurden, werden bis zum 31. Dezember 2017 nach den bisherigen Vorschriften zu Ende geführt; insbesondere:
 
-1.
+1. die Prüfung zum Verkaufsleiter/Verkaufsleiterin im Lebensmittelhandwerk (Bäckerei/Konditorei),
 
-2.
+2. die Prüfung zum Verkaufsleiter/zur Verkaufsleiterin im Lebensmittelhandwerk,
 
-3.
+3. die Prüfung zum Verkaufsleiter/zur Verkaufsleiterin im Lebensmittelhandwerk (HWK),
 
-4.
+4. die Prüfung zum/zur Verkaufsleiter/Verkaufsleiterin im Lebensmittelhandwerk (Bäckerei),
 
-5.
+5. die Prüfung zum/zur Verkaufsleiter/in im Nahrungsmittelhandwerk,
 
-6.
+6. die Prüfung zum oder zur Verkaufsleiter/in im Nahrungsmittelhandwerk (HWK), zum/zur „Verkaufsleiter/in im Nahrungsmittelhandwerk“,
 
-7.
+7. die Prüfung zum/zur „Verkaufsleiter/in im Nahrungsmittelhandwerk (HWK)“,
 
-8.
+8. die Prüfung zum anerkannten Abschluss „Verkaufsleiter im Nahrungsmittelhandwerk (HWK)/Verkaufsleiterin im Nahrungsmittelhandwerk (HWK)“.
 
 (2) Bei Prüfungen, die bis zum Ablauf des 30. September 2016 angemeldet werden, kann der Prüfling die Anwendung der bisherigen Vorschriften beantragen; die Prüfung ist in dem Fall bis zum 31. Dezember 2017 zu Ende zu führen.
 
@@ -498,40 +478,36 @@ Diese Verordnung tritt am 1. Januar 2016 in Kraft.
 
 ### Anlage 2 — (zu § 25)
 
-Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
 
-1.
+2. Name und Geburtsdatum der geprüften Person,
 
-2.
+3. Datum des Bestehens der Prüfung,
 
-3.
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 6,
 
-4.
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
 
-5.
-
-6.
-
-Teil B – Zeugnis mit Prüfungsergebnissen:
+6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
 
 Alle Angaben des Teils A sowie zusätzlich:
 
-1.
+1. Benennung der geprüften Handlungsbereiche der schriftlichen Prüfung nach den §§ 7 bis 11 und Bewertung mit Punkten und als Note,
 
-2.
+2. Benennung der geprüften Handlungsbereiche der praktischen Prüfung nach den §§ 12 bis 15 und Bewertung mit Punkten und als Note,
 
-3.
+3. Benennung des gewählten Schwerpunktes nach § 1 Absatz 2,
 
-4.
+4. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
 
-5.
+5. die Gesamtnote als Dezimalzahl,
 
-6.
+6. die Gesamtnote in Worten,
 
-7.
+7. Befreiungen nach § 22,
 
-8.
+8. Vorliegen des Nachweises des Erwerbs der betriebswirtschaftlichen, kaufmännischen und rechtlichen Qualifikationen nach § 4,
 
-9.
+9. Vorliegen des Nachweises des Erwerbs der berufs- und arbeitspädagogischen Qualifikationen nach § 5.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)

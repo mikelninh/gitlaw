@@ -15,8 +15,12 @@ Dem in Chișinău am 12. Januar 2017 unterzeichneten Abkommen zwischen der Bunde
 
 ### Art 2
 
-Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die zur Durchführung des Abkommens erforderlichen innerstaatlichen Regelungen zu treffen. Dabei können zur Anwendung und Durchführung des Abkommens insbesondere über folgende Gegenstände Regelungen getroffen werden:1.Aufklärungs-, Anzeige- und Mitteilungspflichten sowie das Bereitstellen von Beweismitteln zwischen den mit der Durchführung des Abkommens befassten Stellen sowie zwischen diesen und den betroffenen Personen,2.das Ausstellen, die Vorlage und die Übermittlung von Bescheinigungen sowie die Verwendung von Vordrucken,3.die Zuständigkeit der Versicherungsträger oder anderer im Abkommen genannter Stellen und Behörden.
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die zur Durchführung des Abkommens erforderlichen innerstaatlichen Regelungen zu treffen. Dabei können zur Anwendung und Durchführung des Abkommens insbesondere über folgende Gegenstände Regelungen getroffen werden:
+
+1. Aufklärungs-, Anzeige- und Mitteilungspflichten sowie das Bereitstellen von Beweismitteln zwischen den mit der Durchführung des Abkommens befassten Stellen sowie zwischen diesen und den betroffenen Personen,
+
+2. das Ausstellen, die Vorlage und die Übermittlung von Bescheinigungen sowie die Verwendung von Vordrucken,
+
+3. die Zuständigkeit der Versicherungsträger oder anderer im Abkommen genannter Stellen und Behörden.
 
 ### Art 3
-
-(1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.(2) Der Tag, an dem das Abkommen nach seinem Artikel 26 Absatz 2 in Kraft tritt, ist im Bundesgesetzblatt bekannt zu geben.

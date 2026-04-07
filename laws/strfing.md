@@ -19,7 +19,23 @@ Das Bundesministerium der Finanzen wird ermächtigt, im Vorgriff auf das zweckge
 
 ### Art 3 — Verwendung der Straßenbaumittel
 
-(1) Über die Verwendung der Straßenbaumittel für die Bundesstraßen, soweit nicht dem Bund die Verwaltung der Bundesstraße zusteht, ist ein Straßenbauplan als Anlage zum Bundeshaushaltsplan aufzustellen.(2) Der Straßenbauplan umfaßt 1.die Mittel für Unterhaltung, Erweiterung, Ausbau und Neubau der Bundesstraßen, soweit nicht dem Bund die Verwaltung der Bundesstraße zusteht, die Mittel für den Erwerb von Grundstücken für Straßenbauzwecke, für Straßenbauforschung, für Zuwendungen an fremde Baulastträger und sonstige durch den Straßenbau Betroffene sowie für andere Zwecke des Straßenwesens;2.die Kosten, Zinsen und Tilgungsbeträge für Anleihen und sonstige Schuldverbindlichkeiten, deren Erträge für Zwecke des Straßenwesens verwendet worden sind oder verwendet werden;3.die Leistungen an andere Stellen, die für Rechnung des Bundes Straßenbauaufgaben ausführen;4.die Zahlungen auf Grund von Verpflichtungen aus Sicherheitsleistungen und Gewährleistungen, die für Zwecke des Straßenwesens übernommen worden sind oder übernommen werden;5.sonstige erforderliche Angaben über die Verwendung von Straßenbaumitteln.(3) Der Straßenbauplan kann für mehrere Rechnungsjahre aufgestellt werden. Das Bundesministerium für Verkehr und digitale Infrastruktur kann in diesem Fall mit Zustimmung des Bundesministeriums der Finanzen im Rahmen der für den Bau von Bundesstraßen, soweit nicht dem Bund die Verwaltung der Bundesstraße zusteht, bewilligten Mittel Baumaßnahmen, die im Straßenbauplan erst für ein späteres Rechnungsjahr vorgesehen sind, an Stelle der im laufenden Rechnungsjahr veranschlagten Vorhaben ausführen lassen.(4) Die Vorschriften über die Aufstellung und Feststellung des Bundeshaushaltsplans gelten sinngemäß für den Straßenbauplan.
+(1) Über die Verwendung der Straßenbaumittel für die Bundesstraßen, soweit nicht dem Bund die Verwaltung der Bundesstraße zusteht, ist ein Straßenbauplan als Anlage zum Bundeshaushaltsplan aufzustellen.
+
+(2) Der Straßenbauplan umfaßt
+
+1. die Mittel für Unterhaltung, Erweiterung, Ausbau und Neubau der Bundesstraßen, soweit nicht dem Bund die Verwaltung der Bundesstraße zusteht, die Mittel für den Erwerb von Grundstücken für Straßenbauzwecke, für Straßenbauforschung, für Zuwendungen an fremde Baulastträger und sonstige durch den Straßenbau Betroffene sowie für andere Zwecke des Straßenwesens;
+
+2. die Kosten, Zinsen und Tilgungsbeträge für Anleihen und sonstige Schuldverbindlichkeiten, deren Erträge für Zwecke des Straßenwesens verwendet worden sind oder verwendet werden;
+
+3. die Leistungen an andere Stellen, die für Rechnung des Bundes Straßenbauaufgaben ausführen;
+
+4. die Zahlungen auf Grund von Verpflichtungen aus Sicherheitsleistungen und Gewährleistungen, die für Zwecke des Straßenwesens übernommen worden sind oder übernommen werden;
+
+5. sonstige erforderliche Angaben über die Verwendung von Straßenbaumitteln.
+
+(3) Der Straßenbauplan kann für mehrere Rechnungsjahre aufgestellt werden. Das Bundesministerium für Verkehr und digitale Infrastruktur kann in diesem Fall mit Zustimmung des Bundesministeriums der Finanzen im Rahmen der für den Bau von Bundesstraßen, soweit nicht dem Bund die Verwaltung der Bundesstraße zusteht, bewilligten Mittel Baumaßnahmen, die im Straßenbauplan erst für ein späteres Rechnungsjahr vorgesehen sind, an Stelle der im laufenden Rechnungsjahr veranschlagten Vorhaben ausführen lassen.
+
+(4) Die Vorschriften über die Aufstellung und Feststellung des Bundeshaushaltsplans gelten sinngemäß für den Straßenbauplan.
 
 ## Abschnitt II: Änderung mineralölsteuerrechtlicher
 Vorschriften
@@ -28,7 +44,23 @@ Vorschriften
 
 ### Art 9 — Betriebsbeihilfe für den Werkfernverkehr im Zonenrandgebiet und in den Frachthilfegebieten
 
-(1) Eine Betriebsbeihilfe für das im Werkfernverkehr im Sinne des Güterkraftverkehrsgesetzes bis zum 31. Dezember 1981 verbrauchte Gasöl wird gewährt an Inhaber von Lastkraftwagen, die ihren Standort im Zonenrandgebiet oder in den Frachthilfegebieten haben. Voraussetzung ist, daß das Gasöl zu Beförderungen gedient hat a)unmittelbar zwischen Berlin West und dem Bundesgebiet,b)unmittelbar zwischen dem Zonenrandgebiet oder den Frachthilfegebieten und dem übrigen Geltungsbereich des Grundgesetzes,c)innerhalb des Zonenrandgebietes oder der Frachthilfegebiete.Das Bundesministerium der Finanzen bestimmt im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung, von welchen weiteren Voraussetzungen die Betriebsbeihilfe abhängt, insbesondere welche örtlichen Beziehungen zwischen dem Unternehmer und den bezeichneten Gebieten bestehen müssen, inwieweit eine direkte Beförderung von oder zu bestimmten Standorten zwischen diesen Gebieten und dem übrigen Bundesgebiet erforderlich ist und inwieweit und in welcher Form ein besonderer Buchnachweis für die Beförderungen zu fordern ist. Das Bundesministerium der Finanzen bestimmt ferner durch Rechtsverordnung, welche Gebiete als Zonenrandgebiet und als Frachthilfegebiete anzusehen sind.(2) Die Mittel für die Betriebsbeihilfen werden für jedes Rechnungsjahr in den Bundeshaushaltsplan eingestellt. Die Bemessungsgrundlage für die Haushaltsmittel ist der Verbrauch der begünstigten Verbrauchergruppen an Gasöl für die begünstigten Zwecke im vorangegangenen Kalenderjahr. Dabei werden für je 100 kg des Verbrauches 8,30 DM angesetzt.(3) Die Bundesregierung bestimmt durch Rechtsverordnung das Nähere über 1.die Verteilung der Mittel und die Berechnung der Beihilfen,2.das Verfahren.(4) Die Gewährung der Betriebsbeihilfen kann davon abhängig gemacht werden, daß diese einen Betrag von 200 Deutsche Mark für den Abrechnungszeitraum übersteigen.
+(1) Eine Betriebsbeihilfe für das im Werkfernverkehr im Sinne des Güterkraftverkehrsgesetzes bis zum 31. Dezember 1981 verbrauchte Gasöl wird gewährt an Inhaber von Lastkraftwagen, die ihren Standort im Zonenrandgebiet oder in den Frachthilfegebieten haben. Voraussetzung ist, daß das Gasöl zu Beförderungen gedient hat
+
+a) unmittelbar zwischen Berlin West und dem Bundesgebiet,
+
+b) unmittelbar zwischen dem Zonenrandgebiet oder den Frachthilfegebieten und dem übrigen Geltungsbereich des Grundgesetzes,
+
+c) innerhalb des Zonenrandgebietes oder der Frachthilfegebiete.
+
+(2) Die Mittel für die Betriebsbeihilfen werden für jedes Rechnungsjahr in den Bundeshaushaltsplan eingestellt. Die Bemessungsgrundlage für die Haushaltsmittel ist der Verbrauch der begünstigten Verbrauchergruppen an Gasöl für die begünstigten Zwecke im vorangegangenen Kalenderjahr. Dabei werden für je 100 kg des Verbrauches 8,30 DM angesetzt.
+
+(3) Die Bundesregierung bestimmt durch Rechtsverordnung das Nähere über
+
+1. die Verteilung der Mittel und die Berechnung der Beihilfen,
+
+2. das Verfahren.
+
+(4) Die Gewährung der Betriebsbeihilfen kann davon abhängig gemacht werden, daß diese einen Betrag von 200 Deutsche Mark für den Abrechnungszeitraum übersteigen.
 
 ### Art 10
 
@@ -42,11 +74,15 @@ Vorschriften
 
 ### Art 12
 
-(1) Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.(2) Artikel I Nr. 2 des Gesetzes des Landes Berlin zur Änderung des Kraftfahrzeugsteuergesetzes vom 3. August 1950 (Verordnungsblatt für Groß-Berlin I S. 379) bleibt unberührt.
+(1) Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
+
+(2) Artikel I Nr. 2 des Gesetzes des Landes Berlin zur Änderung des Kraftfahrzeugsteuergesetzes vom 3. August 1950 (Verordnungsblatt für Groß-Berlin I S. 379) bleibt unberührt.
 
 ### Art 13 — Abwicklung von Ausgaberesten
 
-(1) Ausgabereste aus früheren Rechnungsjahren, für die Fortsetzungsraten im Straßenbauplan nicht vorgesehen sind, werden außerhalb des Straßenbauplans zu Lasten der allgemeinen Haushaltsmittel abgewickelt.(2) Vor Inkrafttreten dieses Gesetzes überplanmäßig oder außerplanmäßig bereitgestellte Mittel zur Durchführung von Straßenbaumaßnahmen sind aus den nach Artikel 1 und 2 dieses Gesetzes zweckgebundenen Mitteln zu decken.
+(1) Ausgabereste aus früheren Rechnungsjahren, für die Fortsetzungsraten im Straßenbauplan nicht vorgesehen sind, werden außerhalb des Straßenbauplans zu Lasten der allgemeinen Haushaltsmittel abgewickelt.
+
+(2) Vor Inkrafttreten dieses Gesetzes überplanmäßig oder außerplanmäßig bereitgestellte Mittel zur Durchführung von Straßenbaumaßnahmen sind aus den nach Artikel 1 und 2 dieses Gesetzes zweckgebundenen Mitteln zu decken.
 
 ## Abschnitt VI: Schlußvorschriften
 
@@ -56,4 +92,6 @@ Vorschriften
 
 ### Art 15 — Inkrafttreten
 
-(1) Dieses Gesetz tritt ... am 1. April 1960 in Kraft.(2)
+(1) Dieses Gesetz tritt ... am 1. April 1960 in Kraft.
+
+(2)

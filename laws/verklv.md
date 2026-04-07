@@ -12,7 +12,7 @@ Auf Grund des § 522 Abs. 2 des Handelsgesetzbuchs in der im Bundesgesetzblatt T
 
 ### § 1
 
-Außerhalb des Geltungsbereichs des Grundgesetzes werden Verklarungen durch folgende Auslandsvertretungen aufgenommen: Botschaften der Bundesrepublik Deutschland inAddis AbebaLimaAlgierLissabonAthenLondonBangkokMontevideoBeirutMoskauBogotáOsloBrüsselParisBuenos AiresRomBukarestSantiago de ChileCanberraSingapurCaracasStockholmDen HaagTeheranDublinTel AvivHelsinkiTokyoKairoWashingtonKopenhagenZagrebGeneralkonsulate der Bundesrepublik Deutschland inBarcelonaMumbaiChicagoNew YorkHongkongRio de JaneiroIstanbulSão PauloKarachiSt. PetersburgLos AngelesToronto.
+Außerhalb des Geltungsbereichs des Grundgesetzes werden Verklarungen durch folgende Auslandsvertretungen aufgenommen:
 
 ### § 2
 

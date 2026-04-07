@@ -18,45 +18,13 @@ Diese Verordnung regelt den Kreis der zur Bestellung von Abfallbeauftragten Verp
 
 Einen betriebsangehörigen Abfallbeauftragten zu bestellen haben
 
-1.
+1. die Betreiber folgender Anlagen: a)genehmigungsbedürftige Anlagen, die in den folgenden Nummern des Anhangs 1 zur Verordnung über genehmigungsbedürftige Anlagen vom 2. Mai 2013 (BGBl. I S. 973, 3756), die durch Artikel 3 der Verordnung vom 28. April 2015 (BGBl. I S. 670) geändert worden ist, in der jeweils geltenden Fassung aufgeführt sind: aa)Anlagen nach den Nummern 1 bis 7 sowie den Nummern 9 und 10, soweit pro Kalenderjahr mehr als 100 Tonnen gefährliche Abfälle oder 2 000 Tonnen nicht gefährliche Abfälle anfallen, undbb)Anlagen nach Nummer 8, für die in Spalte c die Verfahrensart G vorgesehen ist,b)Deponien bis zur endgültigen Stilllegung,c)Krankenhäuser und Kliniken, soweit pro Kalenderjahr mehr als 2 Tonnen gefährliche Abfälle anfallen sowied)Abwasserbehandlungsanlagen der Größenklasse 5 gemäß Anhang I der Abwasserverordnung in der Fassung der Bekanntmachung vom 17. Juni 2004 (BGBl. I S. 1108, 2625), die zuletzt durch Artikel 1 der Verordnung vom 1. Juni 2016 (BGBl. I S. 1290) geändert worden ist, in der jeweils geltenden Fassung soweit Abfälle verwertet oder beseitigt werden, genehmigungsbedürftige Anlagen, die in den folgenden Nummern des Anhangs 1 zur Verordnung über genehmigungsbedürftige Anlagen vom 2. Mai 2013 (BGBl. I S. 973, 3756), die durch Artikel 3 der Verordnung vom 28. April 2015 (BGBl. I S. 670) geändert worden ist, in der jeweils geltenden Fassung aufgeführt sind: aa)Anlagen nach den Nummern 1 bis 7 sowie den Nummern 9 und 10, soweit pro Kalenderjahr mehr als 100 Tonnen gefährliche Abfälle oder 2 000 Tonnen nicht gefährliche Abfälle anfallen, undbb)Anlagen nach Nummer 8, für die in Spalte c die Verfahrensart G vorgesehen ist, Anlagen nach den Nummern 1 bis 7 sowie den Nummern 9 und 10, soweit pro Kalenderjahr mehr als 100 Tonnen gefährliche Abfälle oder 2 000 Tonnen nicht gefährliche Abfälle anfallen, und Anlagen nach Nummer 8, für die in Spalte c die Verfahrensart G vorgesehen ist, Deponien bis zur endgültigen Stilllegung, Krankenhäuser und Kliniken, soweit pro Kalenderjahr mehr als 2 Tonnen gefährliche Abfälle anfallen sowie Abwasserbehandlungsanlagen der Größenklasse 5 gemäß Anhang I der Abwasserverordnung in der Fassung der Bekanntmachung vom 17. Juni 2004 (BGBl. I S. 1108, 2625), die zuletzt durch Artikel 1 der Verordnung vom 1. Juni 2016 (BGBl. I S. 1290) geändert worden ist, in der jeweils geltenden Fassung soweit Abfälle verwertet oder beseitigt werden,
 
-a)
+2. folgende Besitzer im Sinne von § 27 des Kreislaufwirtschaftsgesetzes: a)Hersteller und Vertreiber, die pro Kalenderjahr mehr als 100 Tonnen Transportverpackungen gemäß § 15 Absatz 1 Satz 1 Nummer 1 des Verpackungsgesetzes vom 5. Juli 2017 (BGBl. I S. 2234) in der jeweils geltenden Fassung zurücknehmen,b)Hersteller und Vertreiber, die Verkaufs- und Umverpackungen gemäß § 8 Absatz 1 Satz 1 des Verpackungsgesetzes zurücknehmen, es sei denn, die von ihnen hierfür beauftragten Dritten haben einen Abfallbeauftragten bestellt,c)Hersteller und Vertreiber, die pro Kalenderjahr mehr als 100 Tonnen Verkaufs- und Umverpackungen gemäß § 15 Absatz 1 Satz 1 Nummer 2 des Verpackungsgesetzes zurücknehmen,d)Hersteller und Vertreiber, die pro Kalenderjahr mehr als 2 Tonnen Verkaufsverpackungen gemäß § 15 Absatz 1 Satz 1 Nummer 4 des Verpackungsgesetzes zurücknehmen,e)Hersteller, die Elektro- und Elektronikaltgeräte gemäß § 19 des Elektro- und Elektronikgerätegesetzes vom 20. Oktober 2015 (BGBl. I S. 1739), das zuletzt durch Artikel 3 des Gesetzes vom 20. Oktober 2015 (BGBl. I S. 1739) geändert worden ist, in der jeweils geltenden Fassung zurücknehmen, es sei denn, die von ihnen hierfür beauftragten Dritten haben einen Abfallbeauftragten bestellt,f)Vertreiber, die Elektro- und Elektronikaltgeräte gemäß § 17 Absatz 1 oder Absatz 2 des Elektro- und Elektronikgerätegesetzes zurücknehmen,g)Vertreiber, die pro Kalenderjahr mehr als 20 Tonnen Elektro- und Elektronikaltgeräte gemäß § 17 Absatz 3 des Elektro- und Elektronikgerätegesetzes freiwillig zurücknehmen, sowieh)Hersteller und Vertreiber, die mehr als 2 Tonnen gefährliche Abfälle oder mehr als 100 Tonnen nicht gefährliche Abfälle pro Kalenderjahr freiwillig zurücknehmen, Hersteller und Vertreiber, die pro Kalenderjahr mehr als 100 Tonnen Transportverpackungen gemäß § 15 Absatz 1 Satz 1 Nummer 1 des Verpackungsgesetzes vom 5. Juli 2017 (BGBl. I S. 2234) in der jeweils geltenden Fassung zurücknehmen, Hersteller und Vertreiber, die Verkaufs- und Umverpackungen gemäß § 8 Absatz 1 Satz 1 des Verpackungsgesetzes zurücknehmen, es sei denn, die von ihnen hierfür beauftragten Dritten haben einen Abfallbeauftragten bestellt, Hersteller und Vertreiber, die pro Kalenderjahr mehr als 100 Tonnen Verkaufs- und Umverpackungen gemäß § 15 Absatz 1 Satz 1 Nummer 2 des Verpackungsgesetzes zurücknehmen, Hersteller und Vertreiber, die pro Kalenderjahr mehr als 2 Tonnen Verkaufsverpackungen gemäß § 15 Absatz 1 Satz 1 Nummer 4 des Verpackungsgesetzes zurücknehmen, Hersteller, die Elektro- und Elektronikaltgeräte gemäß § 19 des Elektro- und Elektronikgerätegesetzes vom 20. Oktober 2015 (BGBl. I S. 1739), das zuletzt durch Artikel 3 des Gesetzes vom 20. Oktober 2015 (BGBl. I S. 1739) geändert worden ist, in der jeweils geltenden Fassung zurücknehmen, es sei denn, die von ihnen hierfür beauftragten Dritten haben einen Abfallbeauftragten bestellt, Vertreiber, die Elektro- und Elektronikaltgeräte gemäß § 17 Absatz 1 oder Absatz 2 des Elektro- und Elektronikgerätegesetzes zurücknehmen, Vertreiber, die pro Kalenderjahr mehr als 20 Tonnen Elektro- und Elektronikaltgeräte gemäß § 17 Absatz 3 des Elektro- und Elektronikgerätegesetzes freiwillig zurücknehmen, sowie Hersteller und Vertreiber, die mehr als 2 Tonnen gefährliche Abfälle oder mehr als 100 Tonnen nicht gefährliche Abfälle pro Kalenderjahr freiwillig zurücknehmen,
 
-aa)
+3. Betreiber folgender Rücknahmesysteme: a)Systeme, die Verpackungen gemäß § 14 Absatz 1 des Verpackungsgesetzes zurücknehmen, sowieb)herstellereigene Rücknahmesysteme, die Elektro- und Elektronik-Altgeräte gemäß § 16 Absatz 5 des Elektro- und Elektronikgerätegesetzes zurücknehmen. Systeme, die Verpackungen gemäß § 14 Absatz 1 des Verpackungsgesetzes zurücknehmen, sowie herstellereigene Rücknahmesysteme, die Elektro- und Elektronik-Altgeräte gemäß § 16 Absatz 5 des Elektro- und Elektronikgerätegesetzes zurücknehmen.
 
-bb)
-
-b)
-
-c)
-
-d)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-3.
-
-a)
-
-b)
-
-4.
+4. Betreiber von Organisationen für Herstellerverantwortung gemäß § 8 des Batterierecht-Durchführungsgesetzes vom 30. September 2025 (BGBl. 2025 I Nr. 233).
 
 ### § 3 — Mehrere Abfallbeauftragte
 
@@ -74,13 +42,9 @@ Die zuständige Behörde soll einem zur Bestellung Verpflichteten auf Antrag die
 
 Ist die Anlage, der Betrieb eines Besitzers im Sinne des § 27 des Kreislaufwirtschaftsgesetzes, das Rücknahmesystem oder die Rücknahmestelle eines zur Bestellung Verpflichteten unter einer einheitlichen Leitung eines herrschenden Unternehmens zusammengefasst (Konzern), so kann die zuständige Behörde dem zur Bestellung Verpflichteten auf Antrag die Bestellung eines Abfallbeauftragten für den Konzernbereich gestatten,
 
-1.
+1. wenn das herrschende Unternehmen dem zur Bestellung Verpflichteten gegenüber zu Weisungen hinsichtlich folgender Maßnahmen befugt ist: a)Maßnahmen gemäß § 60 Absatz 1 Satz 2 Nummer 4 und 6 des Kreislaufwirtschaftsgesetzes,b)Maßnahmen gemäß § 60 Absatz 3 Satz 1 des Kreislaufwirtschaftsgesetzes in Verbindung mit § 56 Absatz 1 des Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 17. Mai 2013 (BGBl. I S. 1274), das zuletzt durch Artikel 3 des Gesetzes vom 26. Juli 2016 (BGBl. I S. 1839) geändert worden ist, in der jeweils geltenden Fassung und Maßnahmen gemäß § 60 Absatz 1 Satz 2 Nummer 4 und 6 des Kreislaufwirtschaftsgesetzes, Maßnahmen gemäß § 60 Absatz 3 Satz 1 des Kreislaufwirtschaftsgesetzes in Verbindung mit § 56 Absatz 1 des Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 17. Mai 2013 (BGBl. I S. 1274), das zuletzt durch Artikel 3 des Gesetzes vom 26. Juli 2016 (BGBl. I S. 1839) geändert worden ist, in der jeweils geltenden Fassung und
 
-a)
-
-b)
-
-2.
+2. wenn der zur Bestellung Verpflichtete eine oder mehrere Personen bestellt, deren Fachkunde und Zuverlässigkeit die sachgemäße Erfüllung der Aufgaben des betriebsangehörigen Abfallbeauftragten gewährleisten.
 
 ### § 7 — Ausnahme von der Pflicht zur Bestellung eines Abfallbeauftragten
 
@@ -94,59 +58,33 @@ Die zuständige Behörde hat auf Antrag den zur Bestellung Verpflichteten von se
 
 (2) Die erforderliche Zuverlässigkeit ist in der Regel nicht gegeben, wenn die betroffene Person
 
-1.
+1. wegen Verletzung der Vorschriften a)des Strafrechts über Eigentums- und Vermögensdelikte, Urkundenfälschung, Insolvenzstraftaten, gemeingefährliche Delikte oder Umweltdelikte,b)des Immissionsschutz-, Abfall-, Wasser-, Natur- und Landschaftsschutz-, Chemikalien-, Gentechnik- oder Atom- und Strahlenschutzrechts,c)des Lebensmittel-, Arzneimittel-, Pflanzenschutz- oder Infektionsschutzrechts,d)des Gewerbe-, Arbeitsschutz-, Transport- oder Gefahrgutrechts odere)des Betäubungsmittel-, Waffen- oder Sprengstoffrechtsinnerhalb der letzten fünf Jahre mit einer Geldbuße in Höhe von mehr als fünfhundert Euro belegt oder zu einer Strafe verurteilt worden ist, des Strafrechts über Eigentums- und Vermögensdelikte, Urkundenfälschung, Insolvenzstraftaten, gemeingefährliche Delikte oder Umweltdelikte, des Immissionsschutz-, Abfall-, Wasser-, Natur- und Landschaftsschutz-, Chemikalien-, Gentechnik- oder Atom- und Strahlenschutzrechts, des Lebensmittel-, Arzneimittel-, Pflanzenschutz- oder Infektionsschutzrechts, des Gewerbe-, Arbeitsschutz-, Transport- oder Gefahrgutrechts oder des Betäubungsmittel-, Waffen- oder Sprengstoffrechts
 
-a)
+2. wiederholt oder grob pflichtwidrig a)gegen Vorschriften nach Nummer 1 Buchstabe b bis e verstoßen hat oderb)seine Pflichten als Abfallbeauftragter oder als Betriebsbeauftragter für Immissionsschutz oder Gewässerschutz, als Strahlenschutzbeauftragter oder als Störfallbeauftragter verletzt hat, gegen Vorschriften nach Nummer 1 Buchstabe b bis e verstoßen hat oder seine Pflichten als Abfallbeauftragter oder als Betriebsbeauftragter für Immissionsschutz oder Gewässerschutz, als Strahlenschutzbeauftragter oder als Störfallbeauftragter verletzt hat,
 
-b)
+3. infolge strafgerichtlicher Verurteilung die Fähigkeit zur Bekleidung öffentlicher Ämter verloren hat, oder
 
-c)
-
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-3.
-
-4.
+4. sich nicht in geordneten wirtschaftlichen Verhältnissen befindet, es sei denn, dass dadurch die Interessen des zur Bestellung Verpflichteten nicht gefährdet sind.
 
 ### § 9 — Fachkunde
 
 (1) Die nach § 60 Absatz 3 Satz 1 des Kreislaufwirtschaftsgesetzes in Verbindung mit § 55 Absatz 2 Satz 1 des Bundes-Immissionsschutzgesetzes erforderliche Fachkunde ist gegeben, wenn der Abfallbeauftragte
 
-1.
+1. auf einem Fachgebiet, dem die Anlage, der Betrieb eines Besitzers im Sinne des § 27 des Kreislaufwirtschaftsgesetzes, das Rücknahmesystem oder die Rücknahmestelle hinsichtlich der Anlagen- oder Verfahrenstechnik oder der Betriebsvorgänge zuzuordnen ist, a)ein Hochschul- oder Fachhochschulstudium abgeschlossen hat,b)eine kaufmännische, technische oder sonstige Fachschul- oder Berufsausbildung besitzt oderc)eine Qualifikation als Meister vorweisen kann, ein Hochschul- oder Fachhochschulstudium abgeschlossen hat, eine kaufmännische, technische oder sonstige Fachschul- oder Berufsausbildung besitzt oder eine Qualifikation als Meister vorweisen kann,
 
-a)
+2. während einer einjährigen praktischen Tätigkeit Kenntnisse erworben hat über a)die Anlage, den Betrieb eines Besitzers im Sinne des § 27 des Kreislaufwirtschaftsgesetzes, das Rücknahmesystem oder die Rücknahmestelle, für die der Abfallbeauftragte bestellt werden soll, oder über Anlagen, Betriebe oder Rücknahmesysteme, die im Hinblick auf die Erfüllung der Aufgaben des Abfallbeauftragten vergleichbar sind,b)die Vermeidung und die Bewirtschaftung der in der Anlage, in dem Betrieb oder dem Rücknahmesystem anfallenden Abfälle undc)die hergestellten Erzeugnisse sowie die Anlage, den Betrieb eines Besitzers im Sinne des § 27 des Kreislaufwirtschaftsgesetzes, das Rücknahmesystem oder die Rücknahmestelle, für die der Abfallbeauftragte bestellt werden soll, oder über Anlagen, Betriebe oder Rücknahmesysteme, die im Hinblick auf die Erfüllung der Aufgaben des Abfallbeauftragten vergleichbar sind, die Vermeidung und die Bewirtschaftung der in der Anlage, in dem Betrieb oder dem Rücknahmesystem anfallenden Abfälle und die hergestellten Erzeugnisse sowie
 
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-c)
-
-3.
+3. an einem oder mehreren von der zuständigen Behörde anerkannten Lehrgängen, in denen Kenntnisse entsprechend der Anlage 1 vermittelt werden, teilgenommen hat.
 
 (2) Der Abfallbeauftragte muss durch geeignete Fortbildung über den für seine Tätigkeit notwendigen aktuellen Wissensstand verfügen. Dazu hat der zur Bestellung Verpflichtete sicherzustellen, dass der Abfallbeauftragte regelmäßig, mindestens alle zwei Jahre, an von der zuständigen Behörde anerkannten Lehrgängen, in denen Kenntnisse entsprechend Anlage 1 vermittelt werden, teilnimmt.
 
-(3) Zum Nachweis der Fachkunde sind dem zur Bestellung Verpflichteten bei der Bestellung und wenn eine Überprüfung der Fachkunde aus anderen Gründen erforderlich ist, folgende Unterlagen vorzulegen: Der zur Bestellung Verpflichtete hat die Unterlagen der zuständigen Behörde auf Verlangen vorzulegen.
+(3) Zum Nachweis der Fachkunde sind dem zur Bestellung Verpflichteten bei der Bestellung und wenn eine Überprüfung der Fachkunde aus anderen Gründen erforderlich ist, folgende Unterlagen vorzulegen:
 
-1.
+1. ein Nachweis der beruflichen Qualifikation nach Absatz 1 Nummer 1,
 
-2.
+2. ein Nachweis über die einjährige praktische Tätigkeit nach Absatz 1 Nummer 2 und
 
-3.
+3. eine Bescheinigung über die Teilnahme an dem zuletzt besuchten Lehrgang nach Absatz 1 Nummer 3 oder Absatz 2 Satz 2.
 
 (4) Nachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum über die Erfüllung der Anforderungen nach den Absätzen 1 und 2 stehen inländischen Nachweisen gleich, wenn aus ihnen hervorgeht, dass die betreffenden Anforderungen oder die auf Grund ihrer Zielsetzung im Wesentlichen vergleichbaren Anforderungen des Ausstellungsstaates erfüllt sind. Unterlagen nach Satz 1 sind auf Verlangen im Original oder in Kopie vorzulegen. Eine Beglaubigung der Kopie sowie eine beglaubigte deutsche Übersetzung können verlangt werden.
 
@@ -164,112 +102,46 @@ Die Lehrgänge sollen Kenntnisse vermitteln, die für die Erfüllung der Aufgabe
 
 I. Kenntnisse des Abfallrechts und der Abfalltechnik
 
-1.
+1. Das Kreislaufwirtschaftsgesetz, insbesondere a)den Anwendungsbereich,b)die wichtigsten Begriffsbestimmungen,c)die Abfallhierarchie,d)die Grundpflichten (Vermeiden, Verwerten und Beseitigen von Abfällen),e)die Getrennthaltungspflichten und Vermischungsverbote,f)die Überlassungspflichten,g)das Anzeigeverfahren für gemeinnützige und gewerbliche Sammlungen,h)die Rechte und Pflichten der öffentlich-rechtlichen Entsorgungsträger,i)die Beauftragung Dritter,j)die Produktverantwortung,k)die Bedeutung von Abfallwirtschaftsplänen und Abfallvermeidungsprogrammen,l)die abfallrechtliche Überwachung,m)die Register- und Nachweispflichten,n)das Anzeige- und Erlaubnisverfahren für Sammler, Beförderer, Händler und Makler von Abfällen,o)die Kennzeichnung von Fahrzeugen,p)die Zertifizierung von Entsorgungsfachbetrieben,q)die Bußgeldvorschriften, den Anwendungsbereich, die wichtigsten Begriffsbestimmungen, die Abfallhierarchie, die Grundpflichten (Vermeiden, Verwerten und Beseitigen von Abfällen), die Getrennthaltungspflichten und Vermischungsverbote, die Überlassungspflichten, das Anzeigeverfahren für gemeinnützige und gewerbliche Sammlungen, die Rechte und Pflichten der öffentlich-rechtlichen Entsorgungsträger, die Beauftragung Dritter, die Produktverantwortung, die Bedeutung von Abfallwirtschaftsplänen und Abfallvermeidungsprogrammen, die abfallrechtliche Überwachung, die Register- und Nachweispflichten, das Anzeige- und Erlaubnisverfahren für Sammler, Beförderer, Händler und Makler von Abfällen, die Kennzeichnung von Fahrzeugen, die Zertifizierung von Entsorgungsfachbetrieben, die Bußgeldvorschriften,
 
-a)
+2. die auf Grund des Kreislaufwirtschaftsgesetzes ergangenen Rechtsverordnungen,
 
-b)
+3. die weiteren abfallrechtlichen Gesetze, insbesondere a)das Elektro- und Elektronikgerätegesetz,b)Kapitel VIII der Verordnung (EU) 2023/1542 und das Batterierecht-Durchführungsgesetz vom 30. September 2025 (BGBl. 2025 I Nr. 233),c)das Verpackungsgesetz, das Elektro- und Elektronikgerätegesetz, Kapitel VIII der Verordnung (EU) 2023/1542 und das Batterierecht-Durchführungsgesetz vom 30. September 2025 (BGBl. 2025 I Nr. 233), das Verpackungsgesetz,
 
-c)
+4. das Recht der Abfallverbringung,
 
-d)
+5. die für die Abfallwirtschaft einschlägigen EU-rechtlichen Grundlagen,
 
-e)
+6. die für die Abfallwirtschaft einschlägigen inter- und supranationalen Übereinkommen,
 
-f)
+7. die für die Abfallwirtschaft einschlägigen landesrechtlichen Grundlagen,
 
-g)
+8. das für die Abfallwirtschaft einschlägige kommunale Satzungsrecht,
 
-h)
+9. die für die Abfallwirtschaft einschlägigen Verwaltungsvorschriften, Vollzugshilfen (insbesondere der Bund/Länder-Arbeitsgemeinschaft Abfall), technische Anleitungen, Merkblätter und Regeln (insbesondere zum Stand der Technik und zur besten verfügbaren Technik),
 
-i)
+10. das Verhältnis des Abfallrechts zu anderen Rechtsbereichen, insbesondere zum a)Baurecht,b)Immissionsschutzrecht,c)Chemikalienrecht,d)Wasserrecht,e)Bodenschutzrecht undf)Seuchen- und Hygienerecht, Baurecht, Immissionsschutzrecht, Chemikalienrecht, Wasserrecht, Bodenschutzrecht und Seuchen- und Hygienerecht,
 
-j)
+11. die Vorschriften der betrieblichen Haftung,
 
-k)
+12. die Vorschriften des Arbeitsschutzes,
 
-l)
+13. die betrieblichen Risiken und die einschlägigen Versicherungen,
 
-m)
+14. die Bezüge zum Güterkraftverkehrs- und Gefahrgutrecht,
 
-n)
+15. Art und Beschaffenheit von gefährlichen Abfällen,
 
-o)
+16. schädliche Umwelteinwirkungen und sonstige Gefahren, erhebliche Nachteile und erhebliche Belästigungen, die von Abfällen ausgehen können, und Maßnahmen zu ihrer Verhinderung oder Beseitigung,
 
-p)
-
-q)
-
-2.
-
-3.
-
-a)
-
-b)
-
-c)
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-11.
-
-12.
-
-13.
-
-14.
-
-15.
-
-16.
-
-17.
+17. anlagen-, verfahrenstechnische und sonstige Maßnahmen der Vermeidung, der ordnungsgemäßen und schadlosen Verwertung und Beseitigung von Abfällen unter Berücksichtigung des Standes der Technik.
 
 II. Kenntnisse über die Pflichten und Rechte des Abfallbeauftragten
 
-1.
+1. die Pflichten des Abfallbeauftragten, insbesondere a)die Kontrolle der Einhaltung abfallrechtlicher Vorschriften,b)die Information der Betriebsangehörigen über Belange der Vermeidung und Bewirtschaftung von Abfällen,c)die Abgabe von Stellungnahmen zu Investitionsentscheidungen und Vorschläge zur Einführung umweltfreundlicher und abfallarmer Verfahren sowie zur Herstellung umweltfreundlicher und abfallarmer Erzeugnisse,d)die Erstellung eines jährlichen, schriftlichen Berichtes an den zur Bestellung Verpflichteten über die nach § 60 Absatz 1 Satz 2 Nummer 1 bis 5 des Kreislaufwirtschaftsgesetzes getroffenen und beabsichtigten Maßnahmen,e)Optimierungspotenziale bei Abfällen: Reduzierung von Entsorgungskosten durch Methoden zur kostenoptimalen Abfallwirtschaft, die Kontrolle der Einhaltung abfallrechtlicher Vorschriften, die Information der Betriebsangehörigen über Belange der Vermeidung und Bewirtschaftung von Abfällen, die Abgabe von Stellungnahmen zu Investitionsentscheidungen und Vorschläge zur Einführung umweltfreundlicher und abfallarmer Verfahren sowie zur Herstellung umweltfreundlicher und abfallarmer Erzeugnisse, die Erstellung eines jährlichen, schriftlichen Berichtes an den zur Bestellung Verpflichteten über die nach § 60 Absatz 1 Satz 2 Nummer 1 bis 5 des Kreislaufwirtschaftsgesetzes getroffenen und beabsichtigten Maßnahmen, Optimierungspotenziale bei Abfällen: Reduzierung von Entsorgungskosten durch Methoden zur kostenoptimalen Abfallwirtschaft,
 
-a)
+2. die Rechte des Abfallbeauftragten, insbesondere a)das Vortragsrecht,b)das Benachteiligungsverbot und den Kündigungsschutz, das Vortragsrecht, das Benachteiligungsverbot und den Kündigungsschutz,
 
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-3.
+3. das Verfahren zur Bestellung von Abfallbeauftragten.
 
 > (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)

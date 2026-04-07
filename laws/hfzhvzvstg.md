@@ -18,4 +18,6 @@ Abweichend von § 21 Abs. 1 des Bewertungsgesetzes findet für die wirtschaftlic
 ### § 2 — Verlängerung des Hauptveranlagungszeitraums
 für die Vermögensteuer
 
-(1) Abweichend von § 15 Abs. 1 Satz 1 des Vermögensteuergesetzes findet die nächste Hauptveranlagung der Vermögensteuer auf den 1. Januar 1993 statt.(2) Ist ein Bescheid über die Vermögensteuer für das Kalenderjahr 1992 nicht erteilt worden, gilt die Steuer für dieses Kalenderjahr in Höhe der für das Kalenderjahr 1991 festgesetzten Jahressteuer als festgesetzt und ist ohne besondere Aufforderung nach dem IV. Abschnitt des Vermögensteuergesetzes zu entrichten. § 16 sowie §§ 18 und 19 des Vermögensteuergesetzes bleiben unberührt.
+(1) Abweichend von § 15 Abs. 1 Satz 1 des Vermögensteuergesetzes findet die nächste Hauptveranlagung der Vermögensteuer auf den 1. Januar 1993 statt.
+
+(2) Ist ein Bescheid über die Vermögensteuer für das Kalenderjahr 1992 nicht erteilt worden, gilt die Steuer für dieses Kalenderjahr in Höhe der für das Kalenderjahr 1991 festgesetzten Jahressteuer als festgesetzt und ist ohne besondere Aufforderung nach dem IV. Abschnitt des Vermögensteuergesetzes zu entrichten. § 16 sowie §§ 18 und 19 des Vermögensteuergesetzes bleiben unberührt.

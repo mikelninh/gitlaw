@@ -18,15 +18,15 @@
 
 (1) Arbeitsmedizinische Vorsorge im Sinne dieser Verordnung
 
-1.
+1. ist Teil der arbeitsmedizinischen Präventionsmaßnahmen im Betrieb;
 
-2.
+2. dient der Beurteilung der individuellen Wechselwirkungen von Arbeit und physischer und psychischer Gesundheit und der Früherkennung arbeitsbedingter Gesundheitsstörungen sowie der Feststellung, ob bei Ausübung einer bestimmten Tätigkeit eine erhöhte gesundheitliche Gefährdung besteht;
 
-3.
+3. beinhaltet ein ärztliches Beratungsgespräch mit Anamnese einschließlich Arbeitsanamnese sowie körperliche oder klinische Untersuchungen, soweit diese für die individuelle Aufklärung und Beratung erforderlich sind und der oder die Beschäftigte diese Untersuchungen nicht ablehnt;
 
-4.
+4. umfasst die Nutzung von Erkenntnissen aus der Vorsorge für die Gefährdungsbeurteilung und für sonstige Maßnahmen des Arbeitsschutzes;
 
-5.
+5. umfasst nicht den Nachweis der gesundheitlichen Eignung für berufliche Anforderungen nach sonstigen Rechtsvorschriften oder individual- oder kollektivrechtlichen Vereinbarungen.
 
 (2) Pflichtvorsorge ist arbeitsmedizinische Vorsorge, die bei bestimmten besonders gefährdenden Tätigkeiten veranlasst werden muss.
 
@@ -72,11 +72,11 @@
 
 (3) Der Arzt oder die Ärztin hat
 
-1.
+1. das Ergebnis sowie die Befunde der arbeitsmedizinischen Vorsorge schriftlich festzuhalten und den oder die Beschäftigte darüber zu beraten,
 
-2.
+2. dem oder der Beschäftigten auf seinen oder ihren Wunsch hin das Ergebnis zur Verfügung zu stellen sowie
 
-3.
+3. der oder dem Beschäftigten und dem Arbeitgeber eine Vorsorgebescheinigung darüber auszustellen, dass, wann und aus welchem Anlass ein arbeitsmedizinischer Vorsorgetermin stattgefunden hat; die Vorsorgebescheinigung enthält auch die Angabe, wann eine weitere arbeitsmedizinische Vorsorge aus ärztlicher Sicht angezeigt ist.
 
 (4) Der Arzt oder die Ärztin hat die Erkenntnisse arbeitsmedizinischer Vorsorge auszuwerten. Ergeben sich Anhaltspunkte dafür, dass die Maßnahmen des Arbeitsschutzes für den Beschäftigten oder die Beschäftigte oder andere Beschäftigte nicht ausreichen, so hat der Arzt oder die Ärztin dies dem Arbeitgeber mitzuteilen und Maßnahmen des Arbeitsschutzes vorzuschlagen. Hält der Arzt oder die Ärztin aus medizinischen Gründen, die ausschließlich in der Person des oder der Beschäftigten liegen, einen Tätigkeitswechsel für erforderlich, so bedarf diese Mitteilung an den Arbeitgeber der Einwilligung des oder der Beschäftigten.
 
@@ -100,19 +100,19 @@
 
 (2) Das Bundesministerium für Arbeit und Soziales beruft die Mitglieder des Ausschusses und die stellvertretenden Mitglieder. Der Ausschuss gibt sich eine Geschäftsordnung und wählt den Vorsitzenden oder die Vorsitzende aus seiner Mitte. Die Geschäftsordnung und die Wahl des oder der Vorsitzenden bedürfen der Zustimmung des Bundesministeriums für Arbeit und Soziales.
 
-(3) Zu den Aufgaben des Ausschusses gehört es, Das Arbeitsprogramm des Ausschusses für Arbeitsmedizin wird mit dem Bundesministerium für Arbeit und Soziales abgestimmt. Der Ausschuss arbeitet eng mit den anderen Ausschüssen beim Bundesministerium für Arbeit und Soziales zusammen.
+(3) Zu den Aufgaben des Ausschusses gehört es,
 
-1.
+1. dem Stand der Arbeitsmedizin entsprechende Regeln und sonstige gesicherte arbeitsmedizinische Erkenntnisse zu ermitteln,
 
-2.
+2. Regeln und Erkenntnisse zu ermitteln, wie die in dieser Verordnung gestellten Anforderungen insbesondere zu Inhalt und Umfang von Pflicht-, Angebots- oder Wunschvorsorge erfüllt werden können,
 
-3.
+3. Empfehlungen zur arbeitsmedizinischen Vorsorge aufzustellen,
 
-4.
+4. Empfehlungen für weitere Maßnahmen der Gesundheitsvorsorge auszusprechen, insbesondere für betriebliche Gesundheitsprogramme,
 
-5.
+5. Regeln und Erkenntnisse zu sonstigen arbeitsmedizinischen Präventionsmaßnahmen nach § 1 Abs. 3 zu ermitteln, insbesondere zur allgemeinen arbeitsmedizinischen Beratung der Beschäftigten,
 
-6.
+6. das Bundesministerium für Arbeit und Soziales in allen Fragen der arbeitsmedizinischen Vorsorge sowie zu sonstigen Fragen des medizinischen Arbeitsschutzes zu beraten.
 
 (4) Das Bundesministerium für Arbeit und Soziales kann die vom Ausschuss für Arbeitsmedizin ermittelten Regeln und Erkenntnisse sowie Empfehlungen im Gemeinsamen Ministerialblatt bekannt geben.
 
@@ -124,366 +124,24 @@
 
 (1) Ordnungswidrig im Sinne des § 25 Abs. 1 Nr. 1 des Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 4 Abs. 1 eine Pflichtvorsorge nicht oder nicht rechtzeitig veranlasst,
 
-2.
+2. entgegen § 4 Abs. 2 eine Tätigkeit ausüben lässt,
 
-3.
+3. entgegen § 3 Absatz 4 Satz 1 Halbsatz 1 eine Vorsorgekartei nicht, nicht richtig oder nicht vollständig führt oder
 
-4.
+4. entgegen § 5 Abs. 1 Satz 1 eine Angebotsvorsorge nicht oder nicht rechtzeitig anbietet.
 
 (2) Wer durch eine in Absatz 1 bezeichnete vorsätzliche Handlung Leben oder Gesundheit eines oder einer Beschäftigten gefährdet, ist nach § 26 Nr. 2 des Arbeitsschutzgesetzes strafbar.
 
 ### Anhang — Arbeitsmedizinische Pflicht- und Angebotsvorsorge
 
-Teil 1Tätigkeiten mit Gefahrstoffen(1) Pflichtvorsorge bei:(2) Angebotsvorsorge bei:(3) Anlässe für nachgehende Vorsorge:(4) Abweichungen:Vorsorge nach den Absätzen 1 bis 3 muss nicht veranlasst oder angeboten werden, wenn und soweit die auf der Grundlage von § 9 Absatz 3 Satz 1 Nummer 1 ermittelten und nach § 9 Absatz 4 bekannt gegebenen Regeln etwas anderes bestimmen.
+1. Tätigkeiten mit den Gefahrstoffen: –Acrylnitril,–Alkylquecksilberverbindungen,–Alveolengängiger Staub (A-Staub),–Aromatische Nitro- und Aminoverbindungen,–Arsen und Arsenverbindungen,–Asbest,–Benzol,–Beryllium,–Bleitetraethyl und Bleitetramethyl,–Cadmium und Cadmiumverbindungen,–Chrom-VI-Verbindungen,–Dimethylformamid,–Einatembarer Staub (E-Staub),–Fluor und anorganische Fluorverbindungen,–Glycerintrinitrat und Glykoldinitrat (Nitroglycerin/Nitroglykol),–Hartholzstaub,–Kohlenstoffdisulfid,–Kohlenmonoxid,–Methanol,–Nickel und Nickelverbindungen,–Polycyclische aromatische Kohlenwasserstoffe (Pyrolyseprodukte aus organischem Material),–weißer Phosphor (Tetraphosphor),–Platinverbindungen,–Quecksilber und anorganische Quecksilberverbindungen,–Schwefelwasserstoff,–Silikogener Staub,–Styrol,–Tetrachlorethen,–Toluol,–Trichlorethen,–Vinylchlorid,–Xylol (alle Isomeren), Acrylnitril, Alkylquecksilberverbindungen, Alveolengängiger Staub (A-Staub), Aromatische Nitro- und Aminoverbindungen, Arsen und Arsenverbindungen, Asbest, Benzol, Beryllium, Bleitetraethyl und Bleitetramethyl, Cadmium und Cadmiumverbindungen, Chrom-VI-Verbindungen, Dimethylformamid, Einatembarer Staub (E-Staub), Fluor und anorganische Fluorverbindungen, Glycerintrinitrat und Glykoldinitrat (Nitroglycerin/Nitroglykol), Hartholzstaub, Kohlenstoffdisulfid, Kohlenmonoxid, Methanol, Nickel und Nickelverbindungen, Polycyclische aromatische Kohlenwasserstoffe (Pyrolyseprodukte aus organischem Material), weißer Phosphor (Tetraphosphor), Platinverbindungen, Quecksilber und anorganische Quecksilberverbindungen, Schwefelwasserstoff, Silikogener Staub, Styrol, Tetrachlorethen, Toluol, Trichlorethen, Vinylchlorid, Xylol (alle Isomeren),
 
-1.
+2. Sonstige Tätigkeiten mit Gefahrstoffen: a)Feuchtarbeit von regelmäßig vier Stunden oder mehr je Tag,b)Schweißen und Trennen von Metallen bei Überschreitung einer Luftkonzentration von 3 Milligramm pro Kubikmeter Schweißrauch,c)Tätigkeiten mit Exposition gegenüber Getreide- und Futtermittelstäuben bei Überschreitung einer Luftkonzentration von 4 Milligramm pro Kubikmeter einatembarem Staub,d)Tätigkeiten mit Exposition gegenüber Isocyanaten, bei denen ein regelmäßiger Hautkontakt nicht ausgeschlossen werden kann oder eine Luftkonzentration von 0,05 Milligramm pro Kubikmeter überschritten wird,e)Tätigkeiten mit einer Exposition mit Gesundheitsgefährdung durch Labortierstaub in Tierhaltungsräumen und -anlagen,f)Tätigkeiten mit Benutzung von Naturgummilatexhandschuhen mit mehr als 30 Mikrogramm Protein je Gramm im Handschuhmaterial,g)Tätigkeiten mit dermaler Gefährdung oder inhalativer Exposition mit Gesundheitsgefährdung, verursacht durch Bestandteile unausgehärteter Epoxidharze, insbesondere durch Versprühen von Epoxidharzen,h)Tätigkeiten mit Exposition gegenüber Blei und anorganischen Bleiverbindungen bei Überschreitung einer Luftkonzentration von 0,075 Milligramm pro Kubikmeter,i)Tätigkeiten mit Hochtemperaturwollen, soweit dabei als krebserzeugend Kategorie 1A oder 1B im Sinne der Gefahrstoffverordnung eingestufte Faserstäube freigesetzt werden können,j)Tätigkeiten mit Exposition gegenüber Mehlstaub bei Überschreitung einer Mehlstaubkonzentration von 4 Milligramm pro Kubikmeter Luft. Feuchtarbeit von regelmäßig vier Stunden oder mehr je Tag, Schweißen und Trennen von Metallen bei Überschreitung einer Luftkonzentration von 3 Milligramm pro Kubikmeter Schweißrauch, Tätigkeiten mit Exposition gegenüber Getreide- und Futtermittelstäuben bei Überschreitung einer Luftkonzentration von 4 Milligramm pro Kubikmeter einatembarem Staub, Tätigkeiten mit Exposition gegenüber Isocyanaten, bei denen ein regelmäßiger Hautkontakt nicht ausgeschlossen werden kann oder eine Luftkonzentration von 0,05 Milligramm pro Kubikmeter überschritten wird, Tätigkeiten mit einer Exposition mit Gesundheitsgefährdung durch Labortierstaub in Tierhaltungsräumen und -anlagen, Tätigkeiten mit Benutzung von Naturgummilatexhandschuhen mit mehr als 30 Mikrogramm Protein je Gramm im Handschuhmaterial, Tätigkeiten mit dermaler Gefährdung oder inhalativer Exposition mit Gesundheitsgefährdung, verursacht durch Bestandteile unausgehärteter Epoxidharze, insbesondere durch Versprühen von Epoxidharzen, Tätigkeiten mit Exposition gegenüber Blei und anorganischen Bleiverbindungen bei Überschreitung einer Luftkonzentration von 0,075 Milligramm pro Kubikmeter, Tätigkeiten mit Hochtemperaturwollen, soweit dabei als krebserzeugend Kategorie 1A oder 1B im Sinne der Gefahrstoffverordnung eingestufte Faserstäube freigesetzt werden können, Tätigkeiten mit Exposition gegenüber Mehlstaub bei Überschreitung einer Mehlstaubkonzentration von 4 Milligramm pro Kubikmeter Luft.
 
-–
+1. gezielten Tätigkeiten mit einem biologischen Arbeitsstoff der Risikogruppe 4 oder mit –Bacillus anthracis,–Bartonella bacilliformis,–Bartonella henselae,–Bartonella quintana,–Bordetella pertussis,–Borelia burgdorferi,–Borelia burgdorferi sensu lato,–Brucella melitensis,–Burkholderia pseudomallei (Pseudomonas pseudomallei),–Chlamydophila pneumoniae,–Chlamydophila psittaci (aviäre Stämme),–Coxiella burnetii,–Francisella tularensis,–Frühsommermeningoenzephalitis-(FSME)-Virus,–Gelbfieber-Virus,–Helicobacter pylori,–Hepatitis-A-Virus (HAV),–Hepatitis-B-Virus (HBV),–Hepatitis-C-Virus (HCV),–Influenzavirus A oder B,–Japanenzephalitisvirus,–Leptospira spp.,–Masernvirus,–Mumpsvirus,–Mycobacterium bovis,–Mycobacterium tuberculosis,–Neisseria meningitidis,–Poliomyelitisvirus,–Rubivirus,–Salmonella typhi,–Schistosoma mansoni,–Streptococcus pneumoniae,–Tollwutvirus,–Treponema pallidum (Lues),–Tropheryma whipplei,–Trypanosoma cruzi,–Yersinia pestis,–Varizelle-Zoster-Virus (VZV) oder–Vibrio cholerae; Bacillus anthracis, Bartonella bacilliformis, Bartonella henselae, Bartonella quintana, Bordetella pertussis, Borelia burgdorferi, Borelia burgdorferi sensu lato, Brucella melitensis, Burkholderia pseudomallei (Pseudomonas pseudomallei), Chlamydophila pneumoniae, Chlamydophila psittaci (aviäre Stämme), Coxiella burnetii, Francisella tularensis, Frühsommermeningoenzephalitis-(FSME)-Virus, Gelbfieber-Virus, Helicobacter pylori, Hepatitis-A-Virus (HAV), Hepatitis-B-Virus (HBV), Hepatitis-C-Virus (HCV), Influenzavirus A oder B, Japanenzephalitisvirus, Leptospira spp., Masernvirus, Mumpsvirus, Mycobacterium bovis, Mycobacterium tuberculosis, Neisseria meningitidis, Poliomyelitisvirus, Rubivirus, Salmonella typhi, Schistosoma mansoni, Streptococcus pneumoniae, Tollwutvirus, Treponema pallidum (Lues), Tropheryma whipplei, Trypanosoma cruzi, Yersinia pestis, Varizelle-Zoster-Virus (VZV) oder Vibrio cholerae;
 
-–
+2. nicht gezielten Tätigkeiten mit biologischen Arbeitsstoffen der Risikogruppe 4 bei Kontaktmöglichkeit zu infizierten Proben oder Verdachtsproben oder erkrankten oder krankheitsverdächtigen Personen oder Tieren einschließlich deren Transport sowie
 
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-a)
-
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-1.
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-aa)
-
-bb)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-3.
-
-1.
-
-a)
-
-b)
-
-2.
-
-3.
-
-Teil 2Tätigkeiten mit biologischen Arbeitsstoffen einschließlich gentechnischen Arbeiten mit humanpathogenen Organismen
-
-(1) Pflichtvorsorge bei:(2) Angebotsvorsorge(3) Gentechnische Arbeiten mit humanpathogenen Organismen: Die Absätze 1 und 2 zu Pflicht- und Angebotsvorsorge gelten entsprechend bei gentechnischen Arbeiten mit humanpathogenen Organismen.Teil 3Tätigkeiten mit physikalischen Einwirkungen(1) Pflichtvorsorge bei:(2) Angebotsvorsorge bei:Teil 4Sonstige Tätigkeiten(1) Pflichtvorsorge bei:(2) Angebotsvorsorge bei:
-
-1.
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-2.
-
-3.
-
-a)
-
-b)
-
-c)
-
-aa)
-
-–
-
-–
-
-–
-
-–
-
-–
-
-bb)
-
-–
-
-–
-
-d)
-
-e)
-
-–
-
-–
-
-–
-
-f)
-
-–
-
-–
-
-–
-
-–
-
-–
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-aa)
-
-bb)
-
-1.
-
-a)
-
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-3.
-
-1.
-
-2.
-
-3.
-
-4.
-
-a)
-
-b)
-
-5.
-
-6.
-
-1.
-
-2.
-
-a)
-
-b)
-
-3.
-
-4.
-
-a)
-
-b)
-
-c)
-
-5.
-
-1.
-
-2.
-
-1.
-
-2.
-
-3.
+3. nachfolgend aufgeführten nicht gezielten Tätigkeiten a)in Forschungseinrichtungen oder Laboratorien: regelmäßige Tätigkeiten mit Kontaktmöglichkeit zu infizierten Proben oder Verdachtsproben, zu infizierten Tieren oder krankheitsverdächtigen Tieren beziehungsweise zu erregerhaltigen oder kontaminierten Gegenständen oder Materialien hinsichtlich eines biologischen Arbeitsstoffes nach Nummer 1;b)in Tuberkuloseabteilungen und anderen pulmologischen Einrichtungen: Tätigkeiten mit regelmäßigem Kontakt zu erkrankten oder krankheitsverdächtigen Personen hinsichtlich Mycobacterium bovis oder Mycobacterium tuberculosis;c)in Einrichtungen zur medizinischen Untersuchung, Behandlung und Pflege von Menschen: aa)Tätigkeiten mit regelmäßigem direkten Kontakt zu erkrankten oder krankheitsverdächtigen Personen hinsichtlich –Bordetella pertussis,–Hepatitis-A-Virus (HAV),–Masernvirus,–Mumpsvirus oder–Rubivirus,bb)Tätigkeiten, bei denen es regelmäßig und in größerem Umfang zu Kontakt mit Körperflüssigkeiten, Körperausscheidungen oder Körpergewebe kommen kann, insbesondere Tätigkeiten mit erhöhter Verletzungsgefahr oder Gefahr von Verspritzen und Aerosolbildung, hinsichtlich –Hepatitis-B-Virus (HBV) oder–Hepatitis-C-Virus (HCV);dies gilt auch für Bereiche, die der Versorgung oder der Aufrechterhaltung dieser Einrichtungen dienen;d)in Einrichtungen zur medizinischen Untersuchung, Behandlung und Pflege von Kindern, ausgenommen Einrichtungen ausschließlich zur Betreuung von Kindern: Tätigkeiten mit regelmäßigem direkten Kontakt zu erkrankten oder krankheitsverdächtigen Kindern hinsichtlich Varizella-Zoster-Virus (VZV); Buchstabe c bleibt unberührt;e)in Einrichtungen ausschließlich zur Betreuung von Menschen: Tätigkeiten, bei denen es regelmäßig und in größerem Umfang zu Kontakt mit Körperflüssigkeiten, Körperausscheidungen oder Körpergewebe kommen kann, insbesondere Tätigkeiten mit erhöhter Verletzungsgefahr oder Gefahr von Verspritzen und Aerosolbildung, hinsichtlich –Hepatitis-A-Virus (HAV),–Hepatitis-B-Virus (HBV) oder–Hepatitis-C-Virus (HCV);f)in Einrichtungen zur vorschulischen Betreuung von Kindern: Tätigkeiten mit regelmäßigem direkten Kontakt zu Kindern hinsichtlich –Bordetella pertussis,–Masernvirus,–Mumpsvirus,–Rubivirus oder–Varizella-Zoster-Virus (VZV); Buchstabe e bleibt unberührt;g)in Notfall- und Rettungsdiensten: Tätigkeiten, bei denen es regelmäßig und in größerem Umfang zu Kontakt mit Körperflüssigkeiten, Körperausscheidungen oder Körpergewebe kommen kann, insbesondere Tätigkeiten mit erhöhter Verletzungsgefahr oder Gefahr von Verspritzen und Aerosolbildung, hinsichtlich Hepatitis-B-Virus (HBV) oder Hepatitis-C-Virus (HCV);h)in der Pathologie: Tätigkeiten, bei denen es regelmäßig und in größerem Umfang zu Kontakt mit Körperflüssigkeiten, Körperausscheidungen oder Körpergewebe kommen kann, insbesondere Tätigkeiten mit erhöhter Verletzungsgefahr oder Gefahr von Verspritzen und Aerosolbildung, hinsichtlich Hepatitis-B-Virus (HBV) oder Hepatitis-C-Virus (HCV);i)in Kläranlagen oder in der Kanalisation: Tätigkeiten mit regelmäßigem Kontakt zu fäkalienhaltigen Abwässern oder mit fäkalienkontaminierten Gegenständen hinsichtlich Hepatitis-A-Virus (HAV);j)in Einrichtungen zur Aufzucht und Haltung von Vögeln oder zur Geflügelschlachtung: regelmäßige Tätigkeiten mit Kontaktmöglichkeit zu infizierten Proben oder Verdachtsproben, zu infizierten Tieren oder krankheitsverdächtigen Tieren beziehungsweise zu erregerhaltigen oder kontaminierten Gegenständen oder Materialien, wenn dabei der Übertragungsweg gegeben ist, hinsichtlich Chlamydophila psittaci (aviäre Stämme);k)in einem Tollwut gefährdeten Bezirk: Tätigkeiten mit regelmäßigem Kontakt zu frei lebenden Tieren hinsichtlich Tollwutvirus;l)in oder in der Nähe von Fledermausunterschlupfen: Tätigkeiten mit engem Kontakt zu Fledermäusen hinsichtlich Europäischem Fledermaus-Lyssavirus (EBLV 1 und 2);m)auf Freiflächen, in Wäldern, Parks und Gartenanlagen, Tiergärten und Zoos: regelmäßige Tätigkeiten in niederer Vegetation oder direkter Kontakt zu frei lebenden Tieren hinsichtlich aa)Borrellia burgdorferi oderbb)in Endemiegebieten Frühsommermeningoenzephalitis-(FSME)-Virus. in Forschungseinrichtungen oder Laboratorien: regelmäßige Tätigkeiten mit Kontaktmöglichkeit zu infizierten Proben oder Verdachtsproben, zu infizierten Tieren oder krankheitsverdächtigen Tieren beziehungsweise zu erregerhaltigen oder kontaminierten Gegenständen oder Materialien hinsichtlich eines biologischen Arbeitsstoffes nach Nummer 1; in Tuberkuloseabteilungen und anderen pulmologischen Einrichtungen: Tätigkeiten mit regelmäßigem Kontakt zu erkrankten oder krankheitsverdächtigen Personen hinsichtlich Mycobacterium bovis oder Mycobacterium tuberculosis; in Einrichtungen zur medizinischen Untersuchung, Behandlung und Pflege von Menschen: aa)Tätigkeiten mit regelmäßigem direkten Kontakt zu erkrankten oder krankheitsverdächtigen Personen hinsichtlich –Bordetella pertussis,–Hepatitis-A-Virus (HAV),–Masernvirus,–Mumpsvirus oder–Rubivirus,bb)Tätigkeiten, bei denen es regelmäßig und in größerem Umfang zu Kontakt mit Körperflüssigkeiten, Körperausscheidungen oder Körpergewebe kommen kann, insbesondere Tätigkeiten mit erhöhter Verletzungsgefahr oder Gefahr von Verspritzen und Aerosolbildung, hinsichtlich –Hepatitis-B-Virus (HBV) oder–Hepatitis-C-Virus (HCV);dies gilt auch für Bereiche, die der Versorgung oder der Aufrechterhaltung dieser Einrichtungen dienen; Tätigkeiten mit regelmäßigem direkten Kontakt zu erkrankten oder krankheitsverdächtigen Personen hinsichtlich –Bordetella pertussis,–Hepatitis-A-Virus (HAV),–Masernvirus,–Mumpsvirus oder–Rubivirus, Bordetella pertussis, Hepatitis-A-Virus (HAV), Masernvirus, Mumpsvirus oder Rubivirus, Tätigkeiten, bei denen es regelmäßig und in größerem Umfang zu Kontakt mit Körperflüssigkeiten, Körperausscheidungen oder Körpergewebe kommen kann, insbesondere Tätigkeiten mit erhöhter Verletzungsgefahr oder Gefahr von Verspritzen und Aerosolbildung, hinsichtlich –Hepatitis-B-Virus (HBV) oder–Hepatitis-C-Virus (HCV);dies gilt auch für Bereiche, die der Versorgung oder der Aufrechterhaltung dieser Einrichtungen dienen; Hepatitis-B-Virus (HBV) oder Hepatitis-C-Virus (HCV); in Einrichtungen zur medizinischen Untersuchung, Behandlung und Pflege von Kindern, ausgenommen Einrichtungen ausschließlich zur Betreuung von Kindern: Tätigkeiten mit regelmäßigem direkten Kontakt zu erkrankten oder krankheitsverdächtigen Kindern hinsichtlich Varizella-Zoster-Virus (VZV); Buchstabe c bleibt unberührt; in Einrichtungen ausschließlich zur Betreuung von Menschen: Tätigkeiten, bei denen es regelmäßig und in größerem Umfang zu Kontakt mit Körperflüssigkeiten, Körperausscheidungen oder Körpergewebe kommen kann, insbesondere Tätigkeiten mit erhöhter Verletzungsgefahr oder Gefahr von Verspritzen und Aerosolbildung, hinsichtlich –Hepatitis-A-Virus (HAV),–Hepatitis-B-Virus (HBV) oder–Hepatitis-C-Virus (HCV); Hepatitis-A-Virus (HAV), Hepatitis-B-Virus (HBV) oder Hepatitis-C-Virus (HCV); in Einrichtungen zur vorschulischen Betreuung von Kindern: Tätigkeiten mit regelmäßigem direkten Kontakt zu Kindern hinsichtlich –Bordetella pertussis,–Masernvirus,–Mumpsvirus,–Rubivirus oder–Varizella-Zoster-Virus (VZV); Buchstabe e bleibt unberührt; Bordetella pertussis, Masernvirus, Mumpsvirus, Rubivirus oder Varizella-Zoster-Virus (VZV); Buchstabe e bleibt unberührt; in Notfall- und Rettungsdiensten: Tätigkeiten, bei denen es regelmäßig und in größerem Umfang zu Kontakt mit Körperflüssigkeiten, Körperausscheidungen oder Körpergewebe kommen kann, insbesondere Tätigkeiten mit erhöhter Verletzungsgefahr oder Gefahr von Verspritzen und Aerosolbildung, hinsichtlich Hepatitis-B-Virus (HBV) oder Hepatitis-C-Virus (HCV); in der Pathologie: Tätigkeiten, bei denen es regelmäßig und in größerem Umfang zu Kontakt mit Körperflüssigkeiten, Körperausscheidungen oder Körpergewebe kommen kann, insbesondere Tätigkeiten mit erhöhter Verletzungsgefahr oder Gefahr von Verspritzen und Aerosolbildung, hinsichtlich Hepatitis-B-Virus (HBV) oder Hepatitis-C-Virus (HCV); in Kläranlagen oder in der Kanalisation: Tätigkeiten mit regelmäßigem Kontakt zu fäkalienhaltigen Abwässern oder mit fäkalienkontaminierten Gegenständen hinsichtlich Hepatitis-A-Virus (HAV); in Einrichtungen zur Aufzucht und Haltung von Vögeln oder zur Geflügelschlachtung: regelmäßige Tätigkeiten mit Kontaktmöglichkeit zu infizierten Proben oder Verdachtsproben, zu infizierten Tieren oder krankheitsverdächtigen Tieren beziehungsweise zu erregerhaltigen oder kontaminierten Gegenständen oder Materialien, wenn dabei der Übertragungsweg gegeben ist, hinsichtlich Chlamydophila psittaci (aviäre Stämme); in einem Tollwut gefährdeten Bezirk: Tätigkeiten mit regelmäßigem Kontakt zu frei lebenden Tieren hinsichtlich Tollwutvirus; in oder in der Nähe von Fledermausunterschlupfen: Tätigkeiten mit engem Kontakt zu Fledermäusen hinsichtlich Europäischem Fledermaus-Lyssavirus (EBLV 1 und 2); auf Freiflächen, in Wäldern, Parks und Gartenanlagen, Tiergärten und Zoos: regelmäßige Tätigkeiten in niederer Vegetation oder direkter Kontakt zu frei lebenden Tieren hinsichtlich aa)Borrellia burgdorferi oderbb)in Endemiegebieten Frühsommermeningoenzephalitis-(FSME)-Virus. Borrellia burgdorferi oder in Endemiegebieten Frühsommermeningoenzephalitis-(FSME)-Virus.

@@ -22,11 +22,11 @@ Zusätzlich zu den in § 17 Absatz 1 Nummer 2 des Agrarstatistikgesetzes aufgef�
 
 ### § 3 — Aquakulturstatistik
 
-Der Kreis der in der Aquakulturstatistik nach § 68a des Agrarstatistikgesetzes zu Befragenden wird wie folgt eingeschränkt: Im Übrigen bleibt § 68a des Agrarstatistikgesetzes unberührt.
+Der Kreis der in der Aquakulturstatistik nach § 68a des Agrarstatistikgesetzes zu Befragenden wird wie folgt eingeschränkt:
 
-1.
+1. Betriebe mit Teichen ohne nennenswerten kontinuierlichen Durchfluss: Erhebungseinheiten sind solche Betriebe, bei denen die Gesamtgewässerfläche der Teiche mindestens 0,3 Hektar beträgt, und
 
-2.
+2. Betriebe mit Anlagen ohne Kreislaufführung, die von Wasser kontinuierlich durchflossen werden, sowie mit Anlagen mit einer täglichen Frischwasserzufuhr von mindestens 20 Prozent des Anlagenvolumens: Erhebungseinheiten sind solche Betriebe, bei denen das Gesamtvolumen der genannten Anlagen, soweit es für die Aquakultur verwendbar ist, mindestens 200 Kubikmeter beträgt.
 
 ### § 4 — Inkrafttreten, Außerkrafttreten
 

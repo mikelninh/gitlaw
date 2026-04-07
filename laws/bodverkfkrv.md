@@ -14,23 +14,23 @@ Auf Grund des § 58 des Berufsbildungsgesetzes, der durch Artikel 232 Nummer 1 d
 
 (1) Ziel der beruflichen Umschulung ist der Erwerb der beruflichen Handlungsfähigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes, um im Bereich der zivilen Luftfahrt auf Flughäfen unterschiedlicher Größe die folgenden operativen Aufgaben bei der Abfertigung von Luftfahrzeugen eigenständig und verantwortlich wahrnehmen zu können:
 
-1.
+1. Einweisen, Annehmen und Sichern von Luftfahrzeugen,
 
-2.
+2. Überprüfen und Bedienen der für die Abfertigung erforderlichen Geräte und Fahrzeuge sowie Anwenden von Informationssystemen,
 
-3.
+3. Handling von Luftfahrzeugen,
 
-4.
+4. Handling von Gepäck,
 
-5.
+5. Handling von Fracht und Post,
 
-6.
+6. Beachten und Einhalten der Vorschriften über Arbeits-, Umwelt- und Gesundheitsschutz bei der Abfertigung; Gewährleisten der Arbeitssicherheit,
 
-7.
+7. Beachten und Einhalten von luftfahrtrechtlichen Bestimmungen und sonstigen Regelungen,
 
-8.
+8. Kommunizieren mit den an der Abfertigung Beteiligten,
 
-9.
+9. Delegieren von Aufgaben und Anleiten von Mitarbeitern und Mitarbeiterinnen.
 
 (2) In der Umschulungsprüfung haben die Prüfungsteilnehmer und Prüfungsteilnehmerinnen die berufliche Handlungsfähigkeit nachzuweisen, um die qualifizierte berufliche Tätigkeit als Geprüfte Fachkraft Bodenverkehrsdienst im Luftverkehr in einer sich wandelnden Arbeitswelt ausüben zu können. Umschulungsprüfungen werden von der nach dem Berufsbildungsgesetz zuständigen Stelle durchgeführt.
 
@@ -40,9 +40,9 @@ Auf Grund des § 58 des Berufsbildungsgesetzes, der durch Artikel 232 Nummer 1 d
 
 Zur Umschulungsprüfung ist zuzulassen, wer
 
-1.
+1. eine mit Erfolg abgelegte Abschluss- oder Gesellenprüfung in einem anerkannten Ausbildungsberuf oder eine mindestens vierjährige berufliche Tätigkeit nachweist oder durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten erworben zu haben, die der beruflichen Handlungsfähigkeit vergleichbar sind und die Zulassung zur Umschulungsprüfung rechtfertigen, und
 
-2.
+2. eine Umschulung nach § 3 nachweist.
 
 ### § 3 — Art, Dauer und Inhalt der Umschulung
 
@@ -58,9 +58,9 @@ Zur Umschulungsprüfung ist zuzulassen, wer
 
 (1) Die Umschulungsprüfung gliedert sich in zwei Prüfungsteile:
 
-1.
+1. „Theorie des Bodenverkehrsdienstes“ und
 
-2.
+2. „Praxis des Bodenverkehrsdienstes“.
 
 (2) Die Prüfungsteile können in beliebiger Reihenfolge an verschiedenen Prüfungsterminen geprüft werden; dabei ist mit dem letzten Prüfungsteil spätestens ein Jahr nach dem ersten Prüfungstag des bereits abgelegten Prüfungsteils zu beginnen.
 
@@ -68,111 +68,111 @@ Zur Umschulungsprüfung ist zuzulassen, wer
 
 (1) Im Prüfungsteil „Theorie des Bodenverkehrsdienstes“ ist in folgenden Prüfungsbereichen zu prüfen:
 
-1.
+1. Luftfahrzeuge,
 
-2.
+2. Rechtsvorschriften,
 
-3.
+3. Kommunikation und Kooperation.
 
 (2) Im Prüfungsbereich „Luftfahrzeuge“ können geprüft werden:
 
-1.
+1. Kenntnis der Merkmale ziviler Luftfahrzeuge,
 
-2.
+2. Kenntnis der prinzipiellen Anordnung der Laderäume, der Ausstiege, der Versorgungsanschlüsse sowie der Bedienelemente,
 
-3.
+3. Kenntnis und Anwendung von Ladeanweisungen,
 
-4.
+4. Durchführen fachspezifischer Berechnungen.
 
 (3) Im Prüfungsbereich „Rechtsvorschriften“ können geprüft werden:
 
-1.
+1. Kenntnis einschlägiger luftfahrtrechtlicher Bestimmungen,
 
-2.
+2. Kenntnis sonstiger Regelungen, insbesondere Regelungen zum Umgang mit gefährlichen Gütern und besonderen Ladungen,
 
-3.
+3. Kenntnis einschlägiger Arbeitsschutz-, Arbeitssicherheits- und Unfallverhütungsvorschriften,
 
-4.
+4. Kenntnis einschlägiger Regeln für den Gesundheits- und Umweltschutz,
 
-5.
+5. Kenntnis einschlägiger Grundlagen des Arbeits- und Sozialrechts.
 
 (4) Im Prüfungsbereich „Kommunikation und Kooperation“ können geprüft werden:
 
-1.
+1. Anwenden der englischen Sprache als Fremdsprache bei Fachaufgaben,
 
-2.
+2. Planen und Bearbeiten von Aufgaben im Team, Abstimmen und Auswerten der Ergebnisse,
 
-3.
+3. Kenntnis der Prozessabläufe bei der Abfertigung,
 
-4.
+4. Erkennen und Melden von Schäden und besonderen Vorkommnissen.
 
 (5) Die Prüfung im Prüfungsteil „Theorie des Bodenverkehrsdienstes“ ist schriftlich in Form von anwendungsbezogenen Aufgaben durchzuführen.
 
-(6) Die Bearbeitungszeit für die Aufgaben soll betragen: Insgesamt soll die Prüfungsdauer 300 Minuten nicht überschreiten.
+(6) Die Bearbeitungszeit für die Aufgaben soll betragen:
 
-1.
+1. im Prüfungsbereich „Luftfahrzeuge“ mindestens 120 Minuten,
 
-2.
+2. im Prüfungsbereich „Rechtsvorschriften“ mindestens 90 Minuten und
 
-3.
+3. im Prüfungsbereich „Kommunikation und Kooperation“ mindestens 60 Minuten.
 
 ### § 6 — Prüfungsteil „Praxis des Bodenverkehrsdienstes“
 
 (1) Im Prüfungsteil „Praxis des Bodenverkehrsdienstes“ ist in folgenden Prüfungsbereichen zu prüfen:
 
-1.
+1. Einweisen, Annehmen und Sichern von Luftfahrzeugen,
 
-2.
+2. Überprüfen und Bedienen der für die Abfertigung erforderlichen Geräte und Fahrzeuge sowie Anwenden von Informationssystemen,
 
-3.
+3. Abfertigen von Luftfahrzeugen,
 
-4.
+4. Baggage Handling,
 
-5.
+5. Kommunizieren und Kooperieren mit den an der Abfertigung Beteiligten sowie Übernehmen von verantwortlichen Organisationsaufgaben.
 
 (2) Im Prüfungsbereich „Einweisen, Annehmen und Sichern von Luftfahrzeugen“ können geprüft werden:
 
-1.
+1. Einweisen von Luftfahrzeugen zur Vorfeldposition,
 
-2.
+2. Annehmen von Luftfahrzeugen, Kommunizieren mit dem Cockpit,
 
-3.
+3. Anbringen und Entfernen von Sicherungsvorrichtungen.
 
 (3) Im Prüfungsbereich „Überprüfen und Bedienen der für die Abfertigung erforderlichen Geräte und Fahrzeuge sowie Anwenden von Informationssystemen“ können geprüft werden:
 
-1.
+1. Überprüfen der Betriebsbereitschaft und Verkehrssicherheit von Geräten und Fahrzeugen,
 
-2.
+2. Einsetzen von Geräten und Fahrzeugen nach deren Bestimmungen,
 
-3.
+3. Erkennen und Melden von Störungen und Schäden an Geräten und Fahrzeugen,
 
-4.
+4. Überprüfen der Funktionalität von Informationssystemen und Anwenden von Informationssystemen.
 
 (4) Im Prüfungsbereich „Abfertigen von Luftfahrzeugen“ können geprüft werden:
 
-1.
+1. Be- und Entladen von Luftfahrzeugen gemäß Ladeanweisungen,
 
-2.
+2. Cargo und Mail Handling,
 
-3.
+3. Sichern der Ladung,
 
-4.
+4. Abfertigen von gefährlichen Gütern und Sonderfrachten.
 
 (5) Im Prüfungsbereich „Baggage Handling“ können geprüft werden:
 
-1.
+1. Abfertigen des Gepäcks, Bearbeiten von Besonderheiten,
 
-2.
+2. Be- und Entladen der Lademitteleinheiten unter Berücksichtigung der Sortierkriterien,
 
-3.
+3. Bedienen von Gepäckfördereinrichtungen,
 
-4.
+4. Bearbeiten von Besonderheiten, Verfassen von Schadensmeldungen.
 
 (6) Im Prüfungsbereich „Kommunizieren und Kooperieren mit den an der Abfertigung Beteiligten sowie Übernehmen von verantwortlichen Organisationsaufgaben“ können geprüft werden:
 
-1.
+1. situationsgerechtes Kommunizieren,
 
-2.
+2. Koordinieren von Aufgaben.
 
 (7) Die Prüfung im Prüfungsteil „Praxis des Bodenverkehrsdienstes“ ist in Form von praxisorientierten Arbeitsproben und einem situativen Fachgespräch durchzuführen. Das situative Fachgespräch kann in mehrere Gesprächsphasen aufgeteilt werden und ist im Kontext der Arbeitsproben zu führen.
 
@@ -190,29 +190,23 @@ Für die Befreiung von einzelnen Prüfungsbestandteilen ist § 62 Absatz 4 des B
 
 (2) Die beiden Prüfungsteile „Theorie des Bodenverkehrsdienstes“ und „Praxis des Bodenverkehrsdienstes“ sind gesondert mit Punkten zu bewerten.
 
-(3) Im Prüfungsteil „Theorie des Bodenverkehrsdienstes“ sind die Prüfungsbereiche wie folgt zu gewichten:
-
 (4) Im Prüfungsteil „Praxis des Bodenverkehrsdienstes“ sind für jeden Prüfungsbereich die jeweiligen praxisorientierten Arbeitsproben unter Berücksichtigung des situativen Fachgesprächs zu bewerten. Aus den Punktebewertungen der einzelnen Prüfungsleistungen ist eine Note zu bilden.
-
-(5) Im Prüfungsteil „Praxis des Bodenverkehrsdienstes“ sind die Prüfungsbereiche wie folgt zu gewichten:
-
-(6) Aus den Noten der Prüfungsteile „Theorie des Bodenverkehrsdienstes“ und „Praxis des Bodenverkehrsdienstes“ ist eine Gesamtnote zu bilden. Dabei sind die Prüfungsteile wie folgt zu gewichten:
 
 (7) Ist die Prüfung bestanden, stellt die zuständige Stelle darüber ein Zeugnis aus.
 
 (8) Ist die Prüfung bestanden, stellt die zuständige Stelle ein weiteres Zeugnis aus, in dem mindestens anzugeben sind:
 
-1.
+1. die Bezeichnung des Umschulungsabschlusses nach § 1 Absatz 3,
 
-2.
+2. die vollständige Bezeichnung und Fundstelle dieser Umschulungsverordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
 
-3.
+3. die Prüfungsergebnisse nach § 8 Absatz 2 in Verbindung mit Absatz 6,
 
-4.
+4. die Prüfungsbereiche nach § 5 Absatz 1,
 
-5.
+5. die Prüfungsbereiche nach § 6 Absatz 1,
 
-6.
+6. die Befreiungen nach § 7; jede Befreiung ist mit Ort, Datum und der Bezeichnung des Prüfungsgremiums der anderweitig abgelegten Prüfung anzugeben.
 
 ### § 9 — Wiederholung der Prüfung
 
@@ -234,28 +228,28 @@ Diese Verordnung tritt am 1. Mai 2015 in Kraft. Gleichzeitig tritt die Verordnun
 
 Der Umschulungslehrgang gliedert sich in die folgenden fünf Qualifikationsschwerpunkte:
 
-1.
+1. Luftfahrzeuge,
 
-2.
+2. Luftfahrtrechtliche Bestimmungen und sonstige Regelungen,
 
-3.
+3. Vorschriften über Arbeits-, Umwelt- und Gesundheitsschutz bei der Abfertigung, Gewährleisten der Arbeitssicherheit,
 
-4.
+4. Kommunikation und Kooperation,
 
-5.
+5. Arbeits- und sozialrechtliche Bestimmungen.
 
 ### Anlage 2 — (zu § 3 Absatz 3)
 
 Die betriebliche Umschulung umfasst die folgenden sechs Qualifikationsschwerpunkte:
 
-1.
+1. Einweisen, Annehmen und Sichern von Luftfahrzeugen,
 
-2.
+2. Überprüfen und Bedienen der für die Abfertigung erforderlichen Geräte und Fahrzeuge sowie Anwenden von Informationssystemen,
 
-3.
+3. Abfertigen von Luftfahrzeugen,
 
-4.
+4. Baggage Handling,
 
-5.
+5. Kommunizieren und Kooperieren mit den an der Abfertigung Beteiligten,
 
-6.
+6. Übernehmen von verantwortlichen Organisationsaufgaben.

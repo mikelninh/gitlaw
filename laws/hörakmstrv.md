@@ -8,7 +8,7 @@
 
 ### Eingangsformel
 
-Auf Grund des § 45 Absatz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), der zuletzt durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176), verordnet das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 45 Absatz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), der zuletzt durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176), verordnet das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 ### § 1 — Gegenstand
 
@@ -18,79 +18,29 @@ Diese Verordnung regelt das Meisterprüfungsberufsbild, die in der Prüfung in d
 
 In den Teilen I und II der Meisterprüfung im Hörakustiker-Handwerk hat der Prüfling die beruflichen Handlungskompetenzen nachzuweisen, die sich auf wesentliche Tätigkeiten seines Gewerbes und die erforderlichen fachtheoretischen Kenntnisse beziehen. Grundlage dafür sind folgende berufsbezogene Fertigkeiten und Kenntnisse:
 
-1.
+1. einen Betrieb im Hörakustiker-Handwerk führen und organisieren und dabei technische, kaufmännische und personalwirtschaftliche Entscheidungen treffen und begründen, insbesondere unter Berücksichtigung a)der Kostenstrukturen,b)der Wettbewerbssituation,c)der für den Betrieb wesentlichen Aus-, Fort- und Weiterbildung des Personals,d)der Betriebsorganisation,e)des Qualitätsmanagements,f)des Arbeitsschutzrechtes,g)des Handwerksrechts,h)des Sozial- und Medizinprodukterechts,i)des Datenschutzes, der Datensicherheit und der Datenverarbeitung,j)der ökologischen, ökonomischen und sozialen Nachhaltigkeit sowiek)technologischer sowie gesellschaftlicher Entwicklungen, insbesondere digitaler Technologien, der Kostenstrukturen, der Wettbewerbssituation, der für den Betrieb wesentlichen Aus-, Fort- und Weiterbildung des Personals, der Betriebsorganisation, des Qualitätsmanagements, des Arbeitsschutzrechtes, des Handwerksrechts, des Sozial- und Medizinprodukterechts, des Datenschutzes, der Datensicherheit und der Datenverarbeitung, der ökologischen, ökonomischen und sozialen Nachhaltigkeit sowie technologischer sowie gesellschaftlicher Entwicklungen, insbesondere digitaler Technologien,
 
-a)
+2. Konzepte für Betriebs- und Lagerausstattung sowie für logistische Geschäfts- und Arbeitsprozesse entwickeln und umsetzen,
 
-b)
+3. Kundenwünsche und jeweilige Rahmenbedingungen ermitteln, Anforderungen ableiten, Kunden beraten, Serviceleistungen anbieten, für die Versorgung relevante gesundheitliche Gefahren erkennen, Lösungen entwickeln, Verhandlungen führen und Ziele festlegen, schriftliche Verordnungen ausstellen, Leistungen kalkulieren und Angebote erstellen sowie Verträge schließen,
 
-c)
+4. Geschäfts- und Arbeitsprozesse zur Leistungserstellung planen, organisieren und überwachen,
 
-d)
+5. Leistungen im Hörakustiker-Handwerk erbringen, insbesondere die Versorgung von Kindern, Jugendlichen und Erwachsenen mit Hörgeräten, Teil- und Vollimplantaten, Sonderhörversorgungen einschließlich Tinnitusversorgungen, Hörassistenzsystemen und anderen Systemen zur Verbesserung des Hörvermögens (Hörsysteme), mit Gehörschutz oder mit Zubehör, auch im Wege der Teleaudiologie und dabei a)otoskopische Befunde erheben und bewerten sowie über das weitere Vorgehen entscheiden und ohrreinigende Maßnahmen einleiten,b)audiometrische und hördiagnostische Kenndaten ermitteln und beurteilen, Hörprofile bestimmen sowie auf dieser Grundlage Hörsysteme auswählen und anpassen,c)Indikationen und Kontraindikationen für die Versorgung mit Hörsystemen feststellen und beurteilen,d)Beratung und Versorgung von Kunden mit differenzierten sowie postoperativen Versorgungsanforderungen,e)Anamnese aufnehmen, Hörprofil erstellen, Mess-, Anpass-, Fertigungs- und Montagetechniken anwenden, Rehabilitationsmaßnahmen, Hörtraining und Audiotherapie durchführen, Herstellungsverfahren anwenden, Gestaltungsgesichtspunkte berücksichtigen,f)dreidimensionale Abbilder des äußeren Ohres erstellen und auf dieser Basis individuelle Ohrpassstücke (Otoplastiken), Sonderotoplastiken und Gehörschutz herstellen,g)spezifische Anforderungen im pädakustischen Bereich beachten, pädaudiometrische Messungen durchführen und interpretieren sowie pädakustische Gesichtspunkte in der Anpassung von Hörsystemen anwenden und beurteilen,h)die gesetzlich Vertretungsberechtigten des zu versorgenden Kindes oder Jugendlichen beraten und auf weiterführende Rehabilitationsmaßnahmen hinweisen,i)Hörsysteme, insbesondere Teil- und Vollimplantate, auch in Kombination miteinander, anpassen, einstellen und programmieren sowie Maßnahmen zur Nachsorge und Reparatur durchführen, otoskopische Befunde erheben und bewerten sowie über das weitere Vorgehen entscheiden und ohrreinigende Maßnahmen einleiten, audiometrische und hördiagnostische Kenndaten ermitteln und beurteilen, Hörprofile bestimmen sowie auf dieser Grundlage Hörsysteme auswählen und anpassen, Indikationen und Kontraindikationen für die Versorgung mit Hörsystemen feststellen und beurteilen, Beratung und Versorgung von Kunden mit differenzierten sowie postoperativen Versorgungsanforderungen, Anamnese aufnehmen, Hörprofil erstellen, Mess-, Anpass-, Fertigungs- und Montagetechniken anwenden, Rehabilitationsmaßnahmen, Hörtraining und Audiotherapie durchführen, Herstellungsverfahren anwenden, Gestaltungsgesichtspunkte berücksichtigen, dreidimensionale Abbilder des äußeren Ohres erstellen und auf dieser Basis individuelle Ohrpassstücke (Otoplastiken), Sonderotoplastiken und Gehörschutz herstellen, spezifische Anforderungen im pädakustischen Bereich beachten, pädaudiometrische Messungen durchführen und interpretieren sowie pädakustische Gesichtspunkte in der Anpassung von Hörsystemen anwenden und beurteilen, die gesetzlich Vertretungsberechtigten des zu versorgenden Kindes oder Jugendlichen beraten und auf weiterführende Rehabilitationsmaßnahmen hinweisen, Hörsysteme, insbesondere Teil- und Vollimplantate, auch in Kombination miteinander, anpassen, einstellen und programmieren sowie Maßnahmen zur Nachsorge und Reparatur durchführen,
 
-e)
+6. technische, organisatorische und rechtliche Gesichtspunkte bei der Leistungserstellung berücksichtigen, insbesondere a)die berufsbezogenen Rechtsvorschriften, insbesondere des Sozial- und Medizinprodukterechts sowie des Handwerksrechts, und technischen Normen,b)Vorgaben zur Hygiene und Kundensicherheit,c)die allgemein anerkannten Regeln der Technik,d)das benötigte Fachpersonal sowie die Materialien, fachspezifische Arbeits- und Betriebsmittel sowie räumliche Voraussetzungen unde)die Möglichkeiten zum Einsatz von Auszubildenden, die berufsbezogenen Rechtsvorschriften, insbesondere des Sozial- und Medizinprodukterechts sowie des Handwerksrechts, und technischen Normen, Vorgaben zur Hygiene und Kundensicherheit, die allgemein anerkannten Regeln der Technik, das benötigte Fachpersonal sowie die Materialien, fachspezifische Arbeits- und Betriebsmittel sowie räumliche Voraussetzungen und die Möglichkeiten zum Einsatz von Auszubildenden,
 
-f)
+7. Arten und Eigenschaften von zu bearbeitenden und zu verarbeitenden Materialien berücksichtigen,
 
-g)
+8. Service- und Instandhaltungsmaßnahmen an Hörsystemen, Gehörschutz und Zubehör durchführen, Nachsorge erbringen,
 
-h)
+9. Lärmmessungen und Lärmanalysen durchführen und daraus Maßnahmen ableiten,
 
-i)
+10. Unteraufträge kriteriengeleitet, insbesondere unter Berücksichtigung von Qualität der Leistungen und Rechtsvorschriften, vergeben und deren Ausführung kontrollieren,
 
-j)
+11. fortlaufende Qualitätskontrollen durchführen, Störungen analysieren und beseitigen, Ergebnisse daraus bewerten und dokumentieren,
 
-k)
-
-2.
-
-3.
-
-4.
-
-5.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-6.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-12.
+12. erstellte Leistungen unter Berücksichtigung der rechtlichen Rahmenbedingungen kontrollieren, Mängel beseitigen, Leistungen dokumentieren und übergeben, auswerten und abrechnen, Nachkalkulationen sowie den erforderlichen Schriftverkehr durchführen.
 
 ### § 3 — Ziel und Gliederung der Prüfung in Teil I
 
@@ -98,9 +48,9 @@ e)
 
 (2) Die Prüfung in Teil I gliedert sich in folgende Prüfungsbereiche:
 
-1.
+1. ein Meisterprüfungsprojekt nach § 4 und ein darauf bezogenes Fachgespräch nach § 5 sowie
 
-2.
+2. eine Situationsaufgabe nach § 6.
 
 ### § 4 — Meisterprüfungsprojekt
 
@@ -108,11 +58,11 @@ e)
 
 (2) Als Meisterprüfungsprojekt ist eine Versorgung mit Hörsystemen nach § 2 Satz 2 Nummer 5 unter Berücksichtigung von differenzierten Kundenanforderung und -wünschen durchzuführen, bestehend aus
 
-1.
+1. Planung, Messung und Beratung des Kunden,
 
-2.
+2. Fertigungs- und Anpasstätigkeiten,
 
-3.
+3. Kontroll- und Dokumentationsarbeiten zur Qualitätsbeurteilung anhand der Versorgungsunterlagen zur Sicherstellung des Versorgungszieles sowie der sozialrechtlichen Anforderungen.
 
 (3) Die Anforderungen an das jeweilige Meisterprüfungsprojekt werden nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung festgelegt.
 
@@ -122,23 +72,23 @@ e)
 
 (6) Für die Bewertung des Meisterprüfungsprojekts werden die einzelnen Bestandteile wie folgt gewichtet:
 
-1.
+1. die Planungs-, Messungs- und Beratungsarbeiten anhand der Planungsunterlagen mit 30 Prozent,
 
-2.
+2. die Fertigungs- und Anpasstätigkeiten mit 60 Prozent und
 
-3.
+3. die Kontroll- und die Dokumentationsarbeiten anhand der Versorgungsunterlagen mit 10 Prozent.
 
 ### § 5 — Fachgespräch
 
 (1) Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. die fachlichen Zusammenhänge aufzuzeigen, die dem Meisterprüfungsprojekt zugrunde liegen,
 
-2.
+2. den Kunden zu beraten und dabei den jeweiligen Kundenwunsch sowie wirtschaftliche, rechtliche und technische Gesichtspunkte in das Beratungsgespräch einzubeziehen,
 
-3.
+3. sein Vorgehen bei der Planung und Durchführung des Meisterprüfungsprojekts zu begründen sowie
 
-4.
+4. mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darzustellen und dabei aktuelle Entwicklungen im Hörakustiker-Handwerk zu berücksichtigen.
 
 (2) Das Fachgespräch soll höchstens 30 Minuten dauern.
 
@@ -146,39 +96,11 @@ e)
 
 (1) Die Situationsaufgabe orientiert sich an einem Kundenauftrag und vervollständigt für die Meisterprüfung den Nachweis der beruflichen Handlungskompetenz.
 
-(2) Die Situationsaufgabe wird nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung festgelegt. Im Rahmen der Situationsaufgabe hat der Prüfling Daneben sind durch den Meisterprüfungsausschuss zwei weitere Aufgaben aus den folgenden Arbeiten auszuwählen:
+(2) Die Situationsaufgabe wird nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung festgelegt. Im Rahmen der Situationsaufgabe hat der Prüfling
 
-1.
+1. Kenndaten eines Hörsystems zur Qualitätssicherung zu ermitteln und
 
-2.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-12.
-
-13.
-
-14.
+2. ein individuelles Hörprofil zu erstellen sowie audiologische Kenndaten zu ermitteln.
 
 (3) Für die Bearbeitung der Situationsaufgabe stehen dem Prüfling 3 Stunden zur Verfügung.
 
@@ -190,19 +112,19 @@ e)
 
 (2) Der Prüfling hat den Teil I der Meisterprüfung bestanden, wenn
 
-1.
+1. das Meisterprüfungsprojekt, die Situationsaufgabe und das Fachgespräch jeweils mit mindestens 30 Punkten bewertet worden ist und
 
-2.
+2. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
 
 ### § 8 — Ziel und Gliederung der Prüfung in Teil II
 
 (1) In Teil II der Meisterprüfung hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er die erforderlichen fachtheoretischen Kenntnisse im Hörakustiker-Handwerk anwenden kann. Grundlage für den Nachweis bilden die Qualifikationen in den folgenden Handlungsfeldern:
 
-1.
+1. nach Maßgabe des § 9 „Anforderungen von Kunden eines Betriebs im Hörakustiker-Handwerk analysieren, Lösungen erarbeiten und anbieten“,
 
-2.
+2. nach Maßgabe des § 10 „Leistungen eines Betriebs im Hörakustiker-Handwerk erbringen, kontrollieren und übergeben“ und
 
-3.
+3. nach Maßgabe des § 11 „Einen Betrieb im Hörakustiker-Handwerk führen und organisieren“.
 
 (2) Der Prüfling hat in jedem der drei Handlungsfelder mindestens eine fallbezogene Aufgabe zu bearbeiten, die den Anforderungen des Absatzes 1 entspricht. Bei jeder Aufgabenstellung können die Qualifikationen der drei Handlungsfelder handlungsfeldübergreifend verknüpft werden.
 
@@ -216,47 +138,11 @@ e)
 
 (2) Das Handlungsfeld „Anforderungen von Kunden eines Betriebs im Hörakustiker-Handwerk analysieren, Lösungen erarbeiten und anbieten“ besteht aus folgenden Qualifikationen:
 
-1.
+1. Kundenwünsche und die Rahmenbedingungen zu deren Erfüllung analysieren, dokumentieren sowie bewerten und daraus Anforderungen ableiten, hierzu zählen insbesondere: a)Vorgehensweise zur strukturierten Ermittlung der Kundenwünsche und der jeweiligen Rahmenbedingungen erläutern und bewerten, insbesondere unter Anwendung psychologischer, psychosozialer Kompetenzen,b)spezielle Wünsche und Bedürfnisse bei der Versorgung von Kindern und Jugendlichen analysieren,c)Kundenwünsche und -bedürfnisse bei der Versorgung von hörbeeinträchtigten Menschen mit differenzierten und postoperativen Versorgungsanforderungen analysieren,d)Plausibilitätsprüfung durchführen, hierbei insbesondere Unstimmigkeiten, wie fehlerhafte Vormessungen und Angaben der Kunden erkennen,e)Beurteilung des gesundheitlichen Gefährdungspotentials beim Kunden und Folgen aus dem Ergebnis ableiten,f)spezifische Anforderungen im pädakustischen Bereich beachten, pädaudiometrische Messungen durchführen und interpretieren sowie pädakustische Gesichtspunkte in der Anpassung von Hörsystemen anwenden und beurteilen,g)die gesetzlich Vertretungsberechtigten des zu versorgenden Kindes oder Jugendlichen beraten und auf weiterführende Rehabilitationsmaßnahmen hinweisen,h)medizinische und rechtliche Sonderfälle erkennen, entsprechende Maßnahmen ableiten,i)Voraussetzungen für die Anpassung, Nachsorge und Reparatur von Voll- und Teilimplantaten berücksichtigen,j)Kostenträger sowie vertragliche und rechtliche Rahmenbedingungen berücksichtigen,k)Ergebnisse dokumentieren und bewerten, daraus Anforderungen für die Umsetzung ableiten sowie Vorgehensweise zur strukturierten Ermittlung der Kundenwünsche und der jeweiligen Rahmenbedingungen erläutern und bewerten, insbesondere unter Anwendung psychologischer, psychosozialer Kompetenzen, spezielle Wünsche und Bedürfnisse bei der Versorgung von Kindern und Jugendlichen analysieren, Kundenwünsche und -bedürfnisse bei der Versorgung von hörbeeinträchtigten Menschen mit differenzierten und postoperativen Versorgungsanforderungen analysieren, Plausibilitätsprüfung durchführen, hierbei insbesondere Unstimmigkeiten, wie fehlerhafte Vormessungen und Angaben der Kunden erkennen, Beurteilung des gesundheitlichen Gefährdungspotentials beim Kunden und Folgen aus dem Ergebnis ableiten, spezifische Anforderungen im pädakustischen Bereich beachten, pädaudiometrische Messungen durchführen und interpretieren sowie pädakustische Gesichtspunkte in der Anpassung von Hörsystemen anwenden und beurteilen, die gesetzlich Vertretungsberechtigten des zu versorgenden Kindes oder Jugendlichen beraten und auf weiterführende Rehabilitationsmaßnahmen hinweisen, medizinische und rechtliche Sonderfälle erkennen, entsprechende Maßnahmen ableiten, Voraussetzungen für die Anpassung, Nachsorge und Reparatur von Voll- und Teilimplantaten berücksichtigen, Kostenträger sowie vertragliche und rechtliche Rahmenbedingungen berücksichtigen, Ergebnisse dokumentieren und bewerten, daraus Anforderungen für die Umsetzung ableiten sowie
 
-a)
+2. Lösungsmöglichkeiten entwickeln, erläutern und begründen sowie Leistungen vereinbaren, auch unter Berücksichtigung der berufsbezogenen Rechtsvorschriften und technischen Normen sowie allgemein anerkannten Regeln der Technik, hierzu zählen insbesondere: a)Möglichkeiten und Notwendigkeiten des Einsatzes von Materialien, Rohstoffen, Bauteilen, Werkzeugen, Geräten und Personal, auch unter Berücksichtigung einzusetzender Verfahren darstellen, erläutern und begründen,b)altersgerechte Lösungsmöglichkeiten unter Anwendung von audiologischen, anatomischen, physikalischen, chemischen, signalverarbeitungstheoretischen, pathologischen, akustischen, physio- und psychoakustischen, psychologischen, otoskopischen und medizinischen Kompetenzen entwickeln,c)objektive und erweiterte subjektive Messverfahren beurteilen, entsprechende Fertigungs- und Anpassverfahren auswählen, erläutern und bewerten,d)Sicherheits-, Gesundheits- und Haftungsrisiken bewerten und Konsequenzen ableiten,e)Vor- und Nachteile verschiedener Lösungsmöglichkeiten im Hinblick auf Anforderungen, Kostengesichtspunkte sowie rechtliche und technische Gesichtspunkte erläutern und abwägen, Lösung auswählen sowie Auswahl begründen,f)auf der Grundlage entwickelter Lösungsmöglichkeiten Angebote und Kostenvoranschläge für die Hörsystemversorgung, den Gehörschutz sowie das Zubehör nach vorheriger Kostenermittlung erstellen und dabei unterschiedliche Leistungen der Kostenträger berücksichtigen sowieg)Abrechnungsbegründungen für Spezialanpassungen und Zusatzgeräte erstellen. Möglichkeiten und Notwendigkeiten des Einsatzes von Materialien, Rohstoffen, Bauteilen, Werkzeugen, Geräten und Personal, auch unter Berücksichtigung einzusetzender Verfahren darstellen, erläutern und begründen, altersgerechte Lösungsmöglichkeiten unter Anwendung von audiologischen, anatomischen, physikalischen, chemischen, signalverarbeitungstheoretischen, pathologischen, akustischen, physio- und psychoakustischen, psychologischen, otoskopischen und medizinischen Kompetenzen entwickeln, objektive und erweiterte subjektive Messverfahren beurteilen, entsprechende Fertigungs- und Anpassverfahren auswählen, erläutern und bewerten, Sicherheits-, Gesundheits- und Haftungsrisiken bewerten und Konsequenzen ableiten, Vor- und Nachteile verschiedener Lösungsmöglichkeiten im Hinblick auf Anforderungen, Kostengesichtspunkte sowie rechtliche und technische Gesichtspunkte erläutern und abwägen, Lösung auswählen sowie Auswahl begründen, auf der Grundlage entwickelter Lösungsmöglichkeiten Angebote und Kostenvoranschläge für die Hörsystemversorgung, den Gehörschutz sowie das Zubehör nach vorheriger Kostenermittlung erstellen und dabei unterschiedliche Leistungen der Kostenträger berücksichtigen sowie Abrechnungsbegründungen für Spezialanpassungen und Zusatzgeräte erstellen.
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-> § 9 Abs. 2 Nr 1 Buchstabe f Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wurde das Wort "spezifischen" durch das Wort "spezifische"  ersetzt
+> § 9 Abs. 2 Nr 1 Buchstabe f Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wurde das Wort "spezifischen" durch das Wort "spezifische" ersetzt
 
 ### § 10 — Handlungsfeld „Leistungen eines Betriebs im Hörakustiker-Handwerk erbringen, kontrollieren und übergeben“
 
@@ -264,61 +150,11 @@ g)
 
 (2) Das Handlungsfeld „Leistungen eines Betriebs im Hörakustiker-Handwerk erbringen, kontrollieren und übergeben“ besteht aus folgenden Qualifikationen:
 
-1.
+1. die Erstellung der Leistungen vorbereiten, hierzu zählen insbesondere: a)Methoden der Arbeitsplanung und -organisation erläutern, auswählen und Auswahl begründen sowie dabei unter Berücksichtigung einzusetzender Fertigungs-, Herstellungs- und Instandsetzungsverfahren den Einsatz von Personal, Material und Technik planen,b)mögliche Störungen bei der Leistungserbringung, auch in der interdisziplinären Zusammenarbeit bei der Versorgung der Kunden vorhersehen und Auswirkungen bewerten sowie Lösungen zu deren Vermeidung oder Behebung entwickeln,c)Handhabungshinweise und Produktinformationen für Material und Technik leistungsbezogen auswerten und erläutern, Methoden der Arbeitsplanung und -organisation erläutern, auswählen und Auswahl begründen sowie dabei unter Berücksichtigung einzusetzender Fertigungs-, Herstellungs- und Instandsetzungsverfahren den Einsatz von Personal, Material und Technik planen, mögliche Störungen bei der Leistungserbringung, auch in der interdisziplinären Zusammenarbeit bei der Versorgung der Kunden vorhersehen und Auswirkungen bewerten sowie Lösungen zu deren Vermeidung oder Behebung entwickeln, Handhabungshinweise und Produktinformationen für Material und Technik leistungsbezogen auswerten und erläutern,
 
-a)
+2. die Leistungen erbringen, hierzu zählen insbesondere: a)otoskopische Befunde bewerten,b)audiometrische und hördiagnostische Kenndaten und Hörprofile beurteilen sowie auf dieser Grundlage Hörsysteme beschreiben, auswählen und bewerten,c)Anamnese des Kunden aufnehmen und auswerten, Mess-, Anpass-, Fertigungs- und Montagetechniken, Rehabilitationsmaßnahmen sowie Herstellungsverfahren beschreiben und auswählen, Ergebnisse bewerten,d)Verfahren der bimodalen und elektroakustischen Stimulation sowie weitere Sonderversorgungsformen erläutern und bewerten,e)Tinnitustherapie, Hyperakusistherapie, Hörtraining und Audiotherapie beschreiben, auswählen und konkrete Maßnahmen einleiten,f)Art und Ausführung von Otoplastiken und Sonderotoplastiken beschreiben, auswählen und bewerten,g)Arten und Eigenschaften von zu bearbeitenden und zu verarbeitenden Materialien berücksichtigen,h)fortlaufende Qualitätskontrollen durchführen, Störungen analysieren und beseitigen, Ergebnisse daraus ableiten,i)Service-, Nachsorge- und Instandhaltungsmaßnahmen an Hörsystemen, Gehörschutz und Zubehör empfehlen und beschreiben,j)Lärmmessungen und Lärmanalysen beschreiben, auswählen und bewerten,k)Auswahl und Anpassung von individuellen Gehörschutzsystemen, auch als Teil der persönlichen Schutzausrüstung beschreiben,l)berufsbezogene Rechtsvorschriften, insbesondere des Medizinprodukterechts, und technische Normen sowie allgemein anerkannte Regeln der Technik beurteilen,m)Maßnahmen zur Gefahrenvermeidung und -beseitigung erläutern und umsetzen,n)Fehler und Mängel bei der Erstellung der Leistungen erläutern sowie Maßnahmen zur Beseitigung ableiten undo)audiologische, anatomische, pathologische, akustische, physio- und psychoakustische, psychologische, otoskopische und medizinische Befunde sowie physikalische, chemische, signalverarbeitungstheoretische Eigenschaften berücksichtigen und otoskopische Befunde bewerten, audiometrische und hördiagnostische Kenndaten und Hörprofile beurteilen sowie auf dieser Grundlage Hörsysteme beschreiben, auswählen und bewerten, Anamnese des Kunden aufnehmen und auswerten, Mess-, Anpass-, Fertigungs- und Montagetechniken, Rehabilitationsmaßnahmen sowie Herstellungsverfahren beschreiben und auswählen, Ergebnisse bewerten, Verfahren der bimodalen und elektroakustischen Stimulation sowie weitere Sonderversorgungsformen erläutern und bewerten, Tinnitustherapie, Hyperakusistherapie, Hörtraining und Audiotherapie beschreiben, auswählen und konkrete Maßnahmen einleiten, Art und Ausführung von Otoplastiken und Sonderotoplastiken beschreiben, auswählen und bewerten, Arten und Eigenschaften von zu bearbeitenden und zu verarbeitenden Materialien berücksichtigen, fortlaufende Qualitätskontrollen durchführen, Störungen analysieren und beseitigen, Ergebnisse daraus ableiten, Service-, Nachsorge- und Instandhaltungsmaßnahmen an Hörsystemen, Gehörschutz und Zubehör empfehlen und beschreiben, Lärmmessungen und Lärmanalysen beschreiben, auswählen und bewerten, Auswahl und Anpassung von individuellen Gehörschutzsystemen, auch als Teil der persönlichen Schutzausrüstung beschreiben, berufsbezogene Rechtsvorschriften, insbesondere des Medizinprodukterechts, und technische Normen sowie allgemein anerkannte Regeln der Technik beurteilen, Maßnahmen zur Gefahrenvermeidung und -beseitigung erläutern und umsetzen, Fehler und Mängel bei der Erstellung der Leistungen erläutern sowie Maßnahmen zur Beseitigung ableiten und audiologische, anatomische, pathologische, akustische, physio- und psychoakustische, psychologische, otoskopische und medizinische Befunde sowie physikalische, chemische, signalverarbeitungstheoretische Eigenschaften berücksichtigen und
 
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
+3. die Leistungen kontrollieren, dokumentieren, übergeben und abrechnen, hierzu zählen insbesondere: a)Kriterien zur Erfassung und Validierung der erbrachten Leistungen erläutern,b)Leistungen dokumentieren und Ergebnisse beurteilen,c)Vorgehensweise zur Übergabe der Leistungen erläutern und den Kunden über Handhabung, Pflege, Wartung und Nachsorge informieren, den weiteren Versorgungsablauf und Serviceleistungen erläutern,d)Leistungen gegenüber dem Kunden oder dem Kostenträger abrechnen,e)auftragsbezogene Nachkalkulationen durchführen und Konsequenzen ableiten,f)Möglichkeiten des Aufbaus und Erhalts von Kundenzufriedenheit sowie der Kundenbindung erläutern und beurteilen sowieg)Lösungen für Reklamationen und Kundeneinwände unter Berücksichtigung rechtlicher Gesichtspunkte erarbeiten und erläutern. Kriterien zur Erfassung und Validierung der erbrachten Leistungen erläutern, Leistungen dokumentieren und Ergebnisse beurteilen, Vorgehensweise zur Übergabe der Leistungen erläutern und den Kunden über Handhabung, Pflege, Wartung und Nachsorge informieren, den weiteren Versorgungsablauf und Serviceleistungen erläutern, Leistungen gegenüber dem Kunden oder dem Kostenträger abrechnen, auftragsbezogene Nachkalkulationen durchführen und Konsequenzen ableiten, Möglichkeiten des Aufbaus und Erhalts von Kundenzufriedenheit sowie der Kundenbindung erläutern und beurteilen sowie Lösungen für Reklamationen und Kundeneinwände unter Berücksichtigung rechtlicher Gesichtspunkte erarbeiten und erläutern.
 
 ### § 11 — Handlungsfeld „Einen Betrieb im Hörakustiker-Handwerk führen und organisieren“
 
@@ -326,77 +162,15 @@ g)
 
 (2) Das Handlungsfeld „Einen Betrieb im Hörakustiker-Handwerk führen und organisieren“ besteht aus folgenden Qualifikationen:
 
-1.
+1. betriebliche Kosten analysieren und für die Preisgestaltung und Effizienzsteigerung nutzen, hierzu zählen insbesondere: a)betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen,b)Nachkalkulation durchführen und Konsequenzen daraus ableiten,c)betriebliche Kostenstrukturen überprüfen,d)betriebliche Kennzahlen ermitteln und vergleichen,e)Maßnahmen zur Effizienzsteigerung aus der Kostenanalyse ableiten,f)Personal-, Material- und Gerätekosten für standardisierte Leistungen kalkulieren,g)Preise für standardisierte Leistungen ermitteln und anpassen undh)Preise und Stundenverrechnungssätze für individuelle und dienstleistungsintensive Leistungen ermitteln, überprüfen und wenn notwendig anpassen, betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen, Nachkalkulation durchführen und Konsequenzen daraus ableiten, betriebliche Kostenstrukturen überprüfen, betriebliche Kennzahlen ermitteln und vergleichen, Maßnahmen zur Effizienzsteigerung aus der Kostenanalyse ableiten, Personal-, Material- und Gerätekosten für standardisierte Leistungen kalkulieren, Preise für standardisierte Leistungen ermitteln und anpassen und Preise und Stundenverrechnungssätze für individuelle und dienstleistungsintensive Leistungen ermitteln, überprüfen und wenn notwendig anpassen,
 
-a)
+2. Marketingmaßnahmen zur Kundengewinnung und -pflege erarbeiten, hierzu zählen insbesondere: a)Auswirkungen technologischer, wirtschaftlicher, rechtlicher und gesellschaftlicher Entwicklungen sowie veränderter Kundenanforderungen auf das Leistungsangebot darstellen und begründen,b)Möglichkeiten der Auftragsbeschaffung darstellen und Marketingmaßnahmen unter Berücksichtigung wettbewerbsrechtlicher Vorschriften zur Kundengewinnung und -pflege entwickeln,c)ein Konzept entwickeln, insbesondere unter Berücksichtigung von Gesichtspunkten der Kundenberatung,d)Informationen über Produkte und das Leistungsspektrum des Betriebs erstellen sowiee)Vertriebswege, auch informations- und kommunikationsgestützt, ermitteln und unter Berücksichtigung der rechtlichen Rahmenbedingungen bewerten, Auswirkungen technologischer, wirtschaftlicher, rechtlicher und gesellschaftlicher Entwicklungen sowie veränderter Kundenanforderungen auf das Leistungsangebot darstellen und begründen, Möglichkeiten der Auftragsbeschaffung darstellen und Marketingmaßnahmen unter Berücksichtigung wettbewerbsrechtlicher Vorschriften zur Kundengewinnung und -pflege entwickeln, ein Konzept entwickeln, insbesondere unter Berücksichtigung von Gesichtspunkten der Kundenberatung, Informationen über Produkte und das Leistungsspektrum des Betriebs erstellen sowie Vertriebswege, auch informations- und kommunikationsgestützt, ermitteln und unter Berücksichtigung der rechtlichen Rahmenbedingungen bewerten,
 
-b)
+3. betriebliches Qualitätsmanagement entwickeln, hierzu zählen insbesondere: a)Bedeutung des betrieblichen Qualitätsmanagements darstellen und beurteilen,b)Qualitätsmanagementsysteme unterscheiden und beurteilen,c)Maßnahmen zur Kontrolle und Dokumentation der Leistungen erläutern, begründen und bewerten, insbesondere unter Berücksichtigung von Qualitätsstandards, Rechtsvorschriften und technischen Normen,d)Maßnahmen zur kontinuierlichen Verbesserung von Arbeits- und Geschäftsprozessen festlegen und bewerten,e)Verfahren zur Überwachung von Messmitteln beschreiben undf)Maßnahmen zur Rückverfolgbarkeit von abgegebenen Medizinprodukten erläutern, Bedeutung des betrieblichen Qualitätsmanagements darstellen und beurteilen, Qualitätsmanagementsysteme unterscheiden und beurteilen, Maßnahmen zur Kontrolle und Dokumentation der Leistungen erläutern, begründen und bewerten, insbesondere unter Berücksichtigung von Qualitätsstandards, Rechtsvorschriften und technischen Normen, Maßnahmen zur kontinuierlichen Verbesserung von Arbeits- und Geschäftsprozessen festlegen und bewerten, Verfahren zur Überwachung von Messmitteln beschreiben und Maßnahmen zur Rückverfolgbarkeit von abgegebenen Medizinprodukten erläutern,
 
-c)
+4. Personal unter Berücksichtigung gewerbespezifischer Bedingungen planen und anleiten, Personalentwicklung planen, hierzu zählen insbesondere: a)Einsatz von Personal disponieren und dabei die Vorschriften des Arbeits-, Handwerks- und Sozialrechts berücksichtigen,b)Einsatz von Auszubildenden auf Grundlage des betrieblichen Ausbildungsplans disponieren,c)Methoden zur Anleitung von Personal erläutern,d)Qualifikationsbedarfe ermitteln,e)Maßnahmen zur fortlaufenden Qualifizierung planen undf)Maßnahmen zur Mitarbeiterbindung beschreiben und Einsatz von Personal disponieren und dabei die Vorschriften des Arbeits-, Handwerks- und Sozialrechts berücksichtigen, Einsatz von Auszubildenden auf Grundlage des betrieblichen Ausbildungsplans disponieren, Methoden zur Anleitung von Personal erläutern, Qualifikationsbedarfe ermitteln, Maßnahmen zur fortlaufenden Qualifizierung planen und Maßnahmen zur Mitarbeiterbindung beschreiben und
 
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-5.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
+5. Betriebs- und Lagerausstattung sowie Abläufe planen, hierzu zählen insbesondere: a)Durchführung der rechtlich vorgeschriebenen Gefährdungsbeurteilung erläutern, Folgen aus dem Ergebnis ableiten,b)Ausstattung des Betriebs, insbesondere unter Berücksichtigung der Vorschriften der betrieblichen Bedarfe des Gewerbes, des Arbeitsschutzes, sowie unter sowohl ökologischer, ökonomischer, sozialer als auch logistischer Gesichtspunkte planen und begründen,c)Maßnahmen zur Unfallverhütung und zum Arbeitsschutz, insbesondere unter Berücksichtigung sowohl ökologischer, ökonomischer als auch sozialer Gesichtspunkte, planen und begründen,d)Instandhaltung und Überwachung von Werkzeugen, Geräten, Materialien und Prüfmitteln planen,e)Betriebsabläufe planen und verbessern, unter Berücksichtigung der Nachfrage, der betrieblichen Auslastung, des Einsatzes von Personal, Material und Technik undf)Verfahren zur regelmäßigen Prüfung von Betriebsabläufen auf Konformität mit rechtlichen Rahmenbedingungen und allgemeinen technischen Regeln beschreiben. Durchführung der rechtlich vorgeschriebenen Gefährdungsbeurteilung erläutern, Folgen aus dem Ergebnis ableiten, Ausstattung des Betriebs, insbesondere unter Berücksichtigung der Vorschriften der betrieblichen Bedarfe des Gewerbes, des Arbeitsschutzes, sowie unter sowohl ökologischer, ökonomischer, sozialer als auch logistischer Gesichtspunkte planen und begründen, Maßnahmen zur Unfallverhütung und zum Arbeitsschutz, insbesondere unter Berücksichtigung sowohl ökologischer, ökonomischer als auch sozialer Gesichtspunkte, planen und begründen, Instandhaltung und Überwachung von Werkzeugen, Geräten, Materialien und Prüfmitteln planen, Betriebsabläufe planen und verbessern, unter Berücksichtigung der Nachfrage, der betrieblichen Auslastung, des Einsatzes von Personal, Material und Technik und Verfahren zur regelmäßigen Prüfung von Betriebsabläufen auf Konformität mit rechtlichen Rahmenbedingungen und allgemeinen technischen Regeln beschreiben.
 
 ### § 12 — Gewichtung, Bestehen der Prüfung in Teil II
 
@@ -406,11 +180,11 @@ f)
 
 (3) Der Prüfling hat den Teil II der Meisterprüfung bestanden, wenn
 
-1.
+1. jedes der drei Handlungsfelder mit mindestens 30 Punkten bewertet worden ist,
 
-2.
+2. nach durchgeführter Ergänzungsprüfung nach Absatz 2 höchstens ein Handlungsfeld mit weniger als 50 Punkten bewertet worden ist und
 
-3.
+3. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
 
 ### § 13 — Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 

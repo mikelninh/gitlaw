@@ -24,5 +24,3 @@ Ein Mitglied, das in dem der Mitgliederversammlung vorangegangenen Kalenderjahr 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Wirtschaft

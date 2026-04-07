@@ -34,9 +34,9 @@ Ausgabestellen für die Plaketten sind die Zulassungsbehörden oder die nach Lan
 
 (1) Die Zuordnung eines Kraftfahrzeuges zu einer Schadstoffgruppe wird nachgewiesen
 
-1.
+1. durch die in der Zulassungsbescheinigung Teil I, im Kraftfahrzeugschein und im Kraftfahrzeugbrief eingetragene emissionsbezogene Schlüsselnummer,
 
-2.
+2. für Kraftfahrzeuge, die unter die Regelungen des Autobahnmautgesetzes für schwere Nutzfahrzeuge in der Fassung der Bekanntmachung vom 2. Dezember 2004 (BGBl. I S. 3122) fallen, durch Nachweise nach den §§ 8 und 9 der LKW-Maut-Verordnung vom 24. Juni 2003 (BGBl. I S. 1003).
 
 (2) Das Bundesministerium für Verkehr und digitale Infrastruktur gibt die Zuordnung der in den Fahrzeugpapieren eingetragenen Emissionsschlüsselnummern zu den einzelnen Schadstoffgruppen im Verkehrsblatt bekannt.
 
@@ -46,216 +46,72 @@ Ausgabestellen für die Plaketten sind die Zulassungsbehörden oder die nach Lan
 
 (2) Bei Fahrzeugen, die im Ausland zugelassen sind, wird vermutet, dass sie nach Maßgabe der Absätze 3 und 4 zu den dort aufgeführten Schadstoffgruppen gehören, wenn für diese Fahrzeuge kein Nachweis über die Einhaltung der Anforderungen nach
 
-1.
+1. der Richtlinie 70/220/EWG des Rates vom 20. März 1970 über die Angleichung der Rechtsvorschriften der Mitgliedstaaten über Maßnahmen gegen die Verunreinigung der Luft durch Emissionen von Kraftfahrzeugen (ABl. EG Nr. L 76 S. 1) in ihrer jeweils geltenden Fassung oder
 
-2.
+2. der Richtlinie 88/77/EWG des Rates zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Maßnahmen gegen die Emission gasförmiger Schadstoffe und luftverunreinigender Partikel aus Selbstzündungsmotoren zum Antrieb von Fahrzeugen und die Emission gasförmiger Schadstoffe aus mit Erdgas oder Flüssiggas betriebenen Fremdzündungsmotoren zum Antrieb von Fahrzeugen (ABl. EG Nr. L 36 S. 33) in der jeweils geltenden Fassung vorgelegt werden kann.
 
 (3) Kraftfahrzeuge mit Selbstzündungsmotor der Klassen M und N gehören:
 
-1.
+1. zur Schadstoffgruppe 1, wenn sie nicht unter die Schadstoffgruppen 2 bis 4 fallen,
 
-2.
+2. zur Schadstoffgruppe 2,a)wenn sie in den Anwendungsbereich der Richtlinie 70/220/EWG fallen, bei erstmaliger Zulassung nach dem 31. Dezember 1996 und vor dem 1. Januar 2001,b)wenn sie in den Anwendungsbereich der Richtlinie 88/77/EWG fallen, bei erstmaliger Zulassung nach dem 30. September 1996 und vor dem 1. Oktober 2001,c)wenn sie nach dem 1. Januar 1993 erstmalig zugelassen worden sind und die im Anhang 2 Abs. 1 Nr. 2 Buchstabe g und h genannten Anforderungen erfüllen oder ihnen gleichwertig sind und dies durch einen Beleg nachgewiesen wird, wenn sie in den Anwendungsbereich der Richtlinie 70/220/EWG fallen, bei erstmaliger Zulassung nach dem 31. Dezember 1996 und vor dem 1. Januar 2001, wenn sie in den Anwendungsbereich der Richtlinie 88/77/EWG fallen, bei erstmaliger Zulassung nach dem 30. September 1996 und vor dem 1. Oktober 2001, wenn sie nach dem 1. Januar 1993 erstmalig zugelassen worden sind und die im Anhang 2 Abs. 1 Nr. 2 Buchstabe g und h genannten Anforderungen erfüllen oder ihnen gleichwertig sind und dies durch einen Beleg nachgewiesen wird,
 
-a)
+3. zur Schadstoffgruppe 3,a)wenn sie in den Anwendungsbereich der Richtlinie 70/220/EWG fallen, bei erstmaliger Zulassung nach dem 31. Dezember 2000 und vor dem 1. Januar 2006,b)wenn sie in den Anwendungsbereich der Richtlinie 88/77/EWG fallen, bei erstmaliger Zulassung nach dem 30. September 2001 und vor dem 1. Oktober 2006,c)wenn sie nach dem 1. Oktober 1996 erstmalig zugelassen worden sind und die im Anhang 2 Abs. 1 Nr. 3 Buchstabe j bis l genannten Anforderungen erfüllen oder ihnen gleichwertig sind und dies durch einen Beleg nachgewiesen wird, wenn sie in den Anwendungsbereich der Richtlinie 70/220/EWG fallen, bei erstmaliger Zulassung nach dem 31. Dezember 2000 und vor dem 1. Januar 2006, wenn sie in den Anwendungsbereich der Richtlinie 88/77/EWG fallen, bei erstmaliger Zulassung nach dem 30. September 2001 und vor dem 1. Oktober 2006, wenn sie nach dem 1. Oktober 1996 erstmalig zugelassen worden sind und die im Anhang 2 Abs. 1 Nr. 3 Buchstabe j bis l genannten Anforderungen erfüllen oder ihnen gleichwertig sind und dies durch einen Beleg nachgewiesen wird,
 
-b)
-
-c)
-
-3.
-
-a)
-
-b)
-
-c)
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+4. zur Schadstoffgruppe 4,a)wenn sie in den Anwendungsbereich der Richtlinie 70/220/EWG fallen, bei erstmaliger Zulassung nach dem 31. Dezember 2005,b)wenn sie in den Anwendungsbereich der Richtlinie 88/77/EWG fallen, bei erstmaliger Zulassung nach dem 30. September 2006,c)wenn sie in den Anwendungsbereich der Richtlinie 70/220/EWG fallen, die Anforderungen der Richtlinie 98/69/EG oder der Richtlinie 1999/102/EG oder der Richtlinie 2001/1/EG oder der Richtlinie 2001/100/EG oder der Richtlinie 2002/80/EG oder der Richtlinie 2003/76/EG erfüllen und nachweisen können (z. B. durch Herstellerbescheinigung), dass sie über den unter B (2005) der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie vorgeschriebenen Partikelgrenzwert hinaus den Partikelgrenzwert von 5,0 mg/km nicht überschreiten,d)wenn sie nach dem 1. Oktober 2000 erstmalig zugelassen worden sind und die im Anhang 2 Abs. 1 Nr. 4 Buchstabe q und r genannten Anforderungen erfüllen oder ihnen gleichwertig sind und dies durch einen Beleg nachgewiesen wird,e)wenn sie in den Anwendungsbereich der Richtlinie 70/220/EWG oder der Richtlinie 2005/55/EG des Europäischen Parlaments und des Rates vom 28. September 2005 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Maßnahmen gegen die Emission gasförmiger Schadstoffe und luftverunreinigender Partikel aus Selbstzündungsmotoren zum Antrieb von Fahrzeugen und die Emission gasförmiger Schadstoffe aus mit Flüssiggas oder Erdgas betriebenen Fremdzündungsmotoren zum Antrieb von Fahrzeugen (ABl. EU Nr. L 275 S. 1) in der jeweils zuletzt geänderten, im Amtsblatt der Europäischen Union veröffentlichten Fassung fallen. wenn sie in den Anwendungsbereich der Richtlinie 70/220/EWG fallen, bei erstmaliger Zulassung nach dem 31. Dezember 2005, wenn sie in den Anwendungsbereich der Richtlinie 88/77/EWG fallen, bei erstmaliger Zulassung nach dem 30. September 2006, wenn sie in den Anwendungsbereich der Richtlinie 70/220/EWG fallen, die Anforderungen der Richtlinie 98/69/EG oder der Richtlinie 1999/102/EG oder der Richtlinie 2001/1/EG oder der Richtlinie 2001/100/EG oder der Richtlinie 2002/80/EG oder der Richtlinie 2003/76/EG erfüllen und nachweisen können (z. B. durch Herstellerbescheinigung), dass sie über den unter B (2005) der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie vorgeschriebenen Partikelgrenzwert hinaus den Partikelgrenzwert von 5,0 mg/km nicht überschreiten, wenn sie nach dem 1. Oktober 2000 erstmalig zugelassen worden sind und die im Anhang 2 Abs. 1 Nr. 4 Buchstabe q und r genannten Anforderungen erfüllen oder ihnen gleichwertig sind und dies durch einen Beleg nachgewiesen wird, wenn sie in den Anwendungsbereich der Richtlinie 70/220/EWG oder der Richtlinie 2005/55/EG des Europäischen Parlaments und des Rates vom 28. September 2005 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Maßnahmen gegen die Emission gasförmiger Schadstoffe und luftverunreinigender Partikel aus Selbstzündungsmotoren zum Antrieb von Fahrzeugen und die Emission gasförmiger Schadstoffe aus mit Flüssiggas oder Erdgas betriebenen Fremdzündungsmotoren zum Antrieb von Fahrzeugen (ABl. EU Nr. L 275 S. 1) in der jeweils zuletzt geänderten, im Amtsblatt der Europäischen Union veröffentlichten Fassung fallen.
 
 (4) Kraftfahrzeuge mit Fremdzündungsmotor der Klassen M und N gehören der Schadstoffgruppe 4 an, wenn sie
 
-1.
+1. in den Anwendungsbereich der Richtlinie 70/220/EWG fallen, bei erstmaliger Zulassung nach dem 31. Dezember 1992,
 
-2.
+2. in den Anwendungsbereich der Richtlinie 88/77/EWG in der Fassung der Richtlinie 1999/96/EG des Europäischen Parlaments und des Rates vom 13. Dezember 1999 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Maßnahmen gegen die Emission gasförmiger Schadstoffe und luftverunreinigender Partikel aus Selbstzündungsmotoren zum Antrieb von Fahrzeugen und die Emission gasförmiger Schadstoffe aus mit Erdgas oder Flüssiggas betriebenen Fremdzündungsmotoren zum Antrieb von Fahrzeugen und zur Änderung der Richtlinie 88/77/EWG des Rates (ABl. EG 2000 Nr. L 44 S. 1) fallen, den Vorschriften der Richtlinie entsprechen und bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die unter A (2000) oder B 1 (2005) oder B 2 (2008) oder unter C (EEV) der Tabellen 1 und 2 im Abschnitt 6.2.1 des Anhangs I der Richtlinie vorgeschriebenen Grenzwerte nicht überschreiten und die Einhaltung der Grenzwerte durch einen Beleg nachweisen oder
 
-3.
+3. in den Anwendungsbereich der Richtlinie 88/77/EWG in der Fassung der Richtlinie 2001/27/EG des Europäischen Parlaments und des Rates vom 10. April 2001 zur Anpassung der Richtlinie 88/77/EWG des Rates zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Maßnahmen gegen die Emission gasförmiger Schadstoffe und luftverunreinigender Partikel aus Selbstzündungsmotoren zum Antrieb von Fahrzeugen und die Emission gasförmiger Schadstoffe aus mit Erdgas oder Flüssiggas betriebenen Fremdzündungsmotoren zum Antrieb von Fahrzeugen an den technischen Fortschritt (ABl. EG Nr. L 107 S. 10) fallen, den Vorschriften der Richtlinie entsprechen und bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die unter A (2000) oder B 1 (2005) oder B 2 (2008) oder unter C (EEV) der Tabellen 1 und 2 im Abschnitt 6.2.1 des Anhangs I der Richtlinie 1999/96/EG des Europäischen Parlaments und des Rates vom 13. Dezember 1999 (ABl. EG 2000 Nr. L 44 S. 1) vorgeschriebenen Grenzwerte nicht überschreiten und die Einhaltung der Grenzwerte durch einen Beleg nachgewiesen wird.
 
 (5) Kraftfahrzeuge mit Fremdzündungsmotor der Klassen M und N gehören der Schadstoffgruppe 4 an, wenn
 
-1.
+1. durch einen Beleg nachgewiesen wird, dass das Fahrzeug über eine Emissionsminderung verfügt, die den Anforderungen der Anlage XXIII der Straßenverkehrs-Zulassungs-Ordnung in der Fassung der Bekanntmachung vom 28. September 1988 (BGBl. I S. 1793), zuletzt geändert durch die Verordnung vom 24. Mai 2007 (BGBl. I S. 893), entspricht oder ihr gleichwertig ist oder
 
-2.
+2. durch einen Beleg nachgewiesen wird, dass das Fahrzeug durch Nachrüstung mit einem Abgasreinigungssystem über eine Emissionsminderung verfügt, die den Bestimmungen der 52. Ausnahmeverordnung zur StVZO vom 13. August 1996 (BGBl. I S. 1319), geändert durch Artikel 1 der Verordnung vom 18. Februar 1998 (BGBl. I S. 390), entspricht oder ihr gleichwertig ist oder
 
-3.
+3. sie in den Anwendungsbereich der Richtlinie 70/220/EWG oder der Richtlinie 2005/55/EG in der jeweils zuletzt geänderten, im Amtsblatt der Europäischen Union veröffentlichten Fassung fallen.
 
 ### Anhang 1 — Plakettenmuster
 
-(Fundstelle des Originaltextes: BGBl. I 2006, 2220)Die Ziffer der Schadstoffgruppe ist nach dem Schriftmuster der Anlage V Seite 3 der Straßenverkehrs-Zulassungs-Ordnung darzustellen.Die Farbtöne des Untergrundes, des Randes und der Beschriftung sind dem Farbregister RAL 840-HR, herausgegeben vom RAL Deutsches Institut für Gütesicherung und Kennzeichnung e.V., Siegburger Str. 39, 53757 St. Augustin, zu entnehmen.
-
 ### Anhang 2 — Zuordnung der Kraftfahrzeuge zu den Schadstoffgruppen
 
-Fundstelle des Originaltextes: BGBl. I 2006, 2221 - 2224;
+(1) Kraftfahrzeuge mit Selbstzündungsmotor der Klassen M und N werden unter Berücksichtigung ihrer Schadstoffemissionen den Schadstoffgruppen 1 bis 4 wie folgt zugeordnet:
 
-(1) Kraftfahrzeuge mit Selbstzündungsmotor der Klassen M und N werden unter Berücksichtigung ihrer Schadstoffemissionen den Schadstoffgruppen 1 bis 4 wie folgt zugeordnet:Schadstoffgruppe 1Kraftfahrzeuge, die
-
-1.
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-p)
-
-q)
-
-r)
-
-s)
+1. nicht unter die Schadstoffgruppen 2 bis 4 fallen.
 
 (2) Kraftfahrzeuge mit Fremdzündungsmotor der Klassen M und N nach Anhang II A Nr. 1 und Nr. 2 der Richtlinie 70/156/EWG des Rates werden den Schadstoffgruppen 1 und 4 wie folgt zugeordnet:
 
-1.
+1. Schadstoffgruppe 1 Kraftfahrzeuge, die nicht unter die Schadstoffgruppe 4 fallen,
 
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-p)
+2. Schadstoffgruppe 4 Kraftfahrzeuge, diea)in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 91/441/EWG des Rates vom 26. Juni 1991 (ABl. EG Nr. L 242 S. 1) fallen - ausgenommen die Fahrzeuge, die die Übergangsbestimmungen des Anhangs I Nr. 8.1 oder 8.3 in Anspruch nehmen -, den Vorschriften der Richtlinie entsprechen oderb)in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 93/59/EWG des Rates vom 28. Juni 1993 (ABl. EG Nr. L 186 S. 21) fallen, den Vorschriften der Richtlinie entsprechen und die im Anhang I im Abschnitt 5.3.1 der Richtlinie genannte Prüfung Typ I (Prüfung der durchschnittlichen Auspuffemissionen nach einem Kaltstart) nachweisen oderc)in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 94/12/EG des Europäischen Parlaments und des Rates vom 23. März 1994 (ABl. EG Nr. L 100 S. 42) fallen, den Vorschriften der Richtlinie entsprechen und die vorgeschriebenen Grenzwerte der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie nicht überschreiten oderd)in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 96/69/EG des Europäischen Parlaments und des Rates vom 8. Oktober 1996 (ABl. EG Nr. L 282 S. 64) fallen, den Vorschriften der Richtlinie entsprechen und die vorgeschriebenen Grenzwerte der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie nicht überschreiten odere)in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 98/77/EG der Kommission vom 2. Oktober 1998 (ABl. EG Nr. L 286 S. 34) fallen, den Vorschriften der Richtlinie entsprechen und die vorgeschriebenen Grenzwerte der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie nicht überschreiten oderf)in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 98/69/EG des Europäischen Parlaments und des Rates vom 13. Oktober 1998 (ABl. EG Nr. L 350 S. 1) fallen, den Vorschriften der Richtlinie entsprechen und die vorgeschriebenen Grenzwerte der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie nicht überschreiten oderg)in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 1999/102/EG der Kommission vom 15. Dezember 1999 (ABl. EG Nr. L 334 S. 43) fallen, den Vorschriften der Richtlinie entsprechen und die vorgeschriebenen Grenzwerte der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie nicht überschreiten oderh)in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 2001/1/EG des Europäischen Parlaments und des Rates vom 22. Januar 2001 (ABl. EG Nr. L 35 S. 34) fallen, den Vorschriften der Richtlinie entsprechen und die vorgeschriebenen Grenzwerte der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie nicht überschreiten oderi)in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 2001/100/EG des Europäischen Parlaments und des Rates vom 7. Dezember 2001 (ABl. EG Nr. L 16 S. 32) fallen, den Vorschriften der Richtlinie entsprechen und die vorgeschriebenen Grenzwerte der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie nicht überschreiten oderj)in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 2002/80/EG der Kommission vom 3. Oktober 2002 (ABl. EG Nr. L 291 S. 20) fallen, den Vorschriften der Richtlinie entsprechen und die vorgeschriebenen Grenzwerte der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie nicht überschreiten oderk)in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 2003/76/EG der Kommission vom 11. August 2003 (ABl. EU Nr. L 206 S. 29) fallen, den Vorschriften der Richtlinie entsprechen und die vorgeschriebenen Grenzwerte der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie nicht überschreiten oderl)in den Anwendungsbereich der Richtlinie 88/77/EWG in der Fassung der Richtlinie 1999/96/EG des Europäischen Parlaments und des Rates vom 13. Dezember 1999 (ABl. EG 2000 Nr. L 44 S. 1) fallen, den Vorschriften der Richtlinie entsprechen und bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die unter A (2000) oder B 1 (2005) oder B 2 (2008) oder unter C (EEV) der Tabellen 1 und 2 im Abschnitt 6.2.1 des Anhangs I der Richtlinie vorgeschriebenen Grenzwerte nicht überschreiten oderm)in den Anwendungsbereich der Richtlinie 88/77/EWG in der Fassung der Richtlinie 2001/27/EG des Europäischen Parlaments und des Rates vom 10. April 2001 (ABl. EG Nr. L 107 S. 10) fallen, den Vorschriften der Richtlinie entsprechen und bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die unter A (2000) oder B 1 (2005) oder B 2 (2008) oder unter C (EEV) der Tabellen 1 und 2 im Abschnitt 6.2.1 des Anhangs I der Richtlinie 1999/96/EG des Europäischen Parlaments und des Rates vom 13. Dezember 1999 (ABl. EG 2000 Nr. L 44 S. 1) vorgeschriebenen Grenzwerte nicht überschreiten odern)die Anforderungen der Anlage XXIII der Straßenverkehrs-Zulassungs-Ordnung in der Fassung der Bekanntmachung vom 28. September 1988 (BGBl. I S. 1793), zuletzt geändert durch die Verordnung vom 24. Mai 2007 (BGBl. I S. 893), einhalten odero)nach den Bestimmungen der 52. Ausnahmeverordnung zur StVZO vom 13. August 1996 (BGBl. I S. 1319), zuletzt geändert durch Artikel 1 der Verordnung vom 18. Februar 1998 (BGBl. I S. 390), nachgerüstet wurden oderp)in den Anwendungsbereich der Richtlinie 70/220/EWG oder der Richtlinie 2005/55/EG in der jeweils zuletzt geänderten, im Amtsblatt der Europäischen Union veröffentlichten Fassung fallen. in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 91/441/EWG des Rates vom 26. Juni 1991 (ABl. EG Nr. L 242 S. 1) fallen - ausgenommen die Fahrzeuge, die die Übergangsbestimmungen des Anhangs I Nr. 8.1 oder 8.3 in Anspruch nehmen -, den Vorschriften der Richtlinie entsprechen oder in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 93/59/EWG des Rates vom 28. Juni 1993 (ABl. EG Nr. L 186 S. 21) fallen, den Vorschriften der Richtlinie entsprechen und die im Anhang I im Abschnitt 5.3.1 der Richtlinie genannte Prüfung Typ I (Prüfung der durchschnittlichen Auspuffemissionen nach einem Kaltstart) nachweisen oder in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 94/12/EG des Europäischen Parlaments und des Rates vom 23. März 1994 (ABl. EG Nr. L 100 S. 42) fallen, den Vorschriften der Richtlinie entsprechen und die vorgeschriebenen Grenzwerte der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie nicht überschreiten oder in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 96/69/EG des Europäischen Parlaments und des Rates vom 8. Oktober 1996 (ABl. EG Nr. L 282 S. 64) fallen, den Vorschriften der Richtlinie entsprechen und die vorgeschriebenen Grenzwerte der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie nicht überschreiten oder in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 98/77/EG der Kommission vom 2. Oktober 1998 (ABl. EG Nr. L 286 S. 34) fallen, den Vorschriften der Richtlinie entsprechen und die vorgeschriebenen Grenzwerte der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie nicht überschreiten oder in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 98/69/EG des Europäischen Parlaments und des Rates vom 13. Oktober 1998 (ABl. EG Nr. L 350 S. 1) fallen, den Vorschriften der Richtlinie entsprechen und die vorgeschriebenen Grenzwerte der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie nicht überschreiten oder in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 1999/102/EG der Kommission vom 15. Dezember 1999 (ABl. EG Nr. L 334 S. 43) fallen, den Vorschriften der Richtlinie entsprechen und die vorgeschriebenen Grenzwerte der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie nicht überschreiten oder in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 2001/1/EG des Europäischen Parlaments und des Rates vom 22. Januar 2001 (ABl. EG Nr. L 35 S. 34) fallen, den Vorschriften der Richtlinie entsprechen und die vorgeschriebenen Grenzwerte der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie nicht überschreiten oder in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 2001/100/EG des Europäischen Parlaments und des Rates vom 7. Dezember 2001 (ABl. EG Nr. L 16 S. 32) fallen, den Vorschriften der Richtlinie entsprechen und die vorgeschriebenen Grenzwerte der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie nicht überschreiten oder in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 2002/80/EG der Kommission vom 3. Oktober 2002 (ABl. EG Nr. L 291 S. 20) fallen, den Vorschriften der Richtlinie entsprechen und die vorgeschriebenen Grenzwerte der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie nicht überschreiten oder in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 2003/76/EG der Kommission vom 11. August 2003 (ABl. EU Nr. L 206 S. 29) fallen, den Vorschriften der Richtlinie entsprechen und die vorgeschriebenen Grenzwerte der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie nicht überschreiten oder in den Anwendungsbereich der Richtlinie 88/77/EWG in der Fassung der Richtlinie 1999/96/EG des Europäischen Parlaments und des Rates vom 13. Dezember 1999 (ABl. EG 2000 Nr. L 44 S. 1) fallen, den Vorschriften der Richtlinie entsprechen und bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die unter A (2000) oder B 1 (2005) oder B 2 (2008) oder unter C (EEV) der Tabellen 1 und 2 im Abschnitt 6.2.1 des Anhangs I der Richtlinie vorgeschriebenen Grenzwerte nicht überschreiten oder in den Anwendungsbereich der Richtlinie 88/77/EWG in der Fassung der Richtlinie 2001/27/EG des Europäischen Parlaments und des Rates vom 10. April 2001 (ABl. EG Nr. L 107 S. 10) fallen, den Vorschriften der Richtlinie entsprechen und bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die unter A (2000) oder B 1 (2005) oder B 2 (2008) oder unter C (EEV) der Tabellen 1 und 2 im Abschnitt 6.2.1 des Anhangs I der Richtlinie 1999/96/EG des Europäischen Parlaments und des Rates vom 13. Dezember 1999 (ABl. EG 2000 Nr. L 44 S. 1) vorgeschriebenen Grenzwerte nicht überschreiten oder die Anforderungen der Anlage XXIII der Straßenverkehrs-Zulassungs-Ordnung in der Fassung der Bekanntmachung vom 28. September 1988 (BGBl. I S. 1793), zuletzt geändert durch die Verordnung vom 24. Mai 2007 (BGBl. I S. 893), einhalten oder nach den Bestimmungen der 52. Ausnahmeverordnung zur StVZO vom 13. August 1996 (BGBl. I S. 1319), zuletzt geändert durch Artikel 1 der Verordnung vom 18. Februar 1998 (BGBl. I S. 390), nachgerüstet wurden oder in den Anwendungsbereich der Richtlinie 70/220/EWG oder der Richtlinie 2005/55/EG in der jeweils zuletzt geänderten, im Amtsblatt der Europäischen Union veröffentlichten Fassung fallen.
 
 (3) Kraftfahrzeuge mit Antrieb ohne Verbrennungsmotor (z. B. Elektromotor, Brennstoffzellenfahrzeuge) werden der Schadstoffgruppe 4 zugeordnet.
 
 ### Anhang 3 — Ausnahmen von der Kennzeichnungspflicht nach § 2 Abs. 1
 
-Fundstelle des Originaltextes: BGBl. I 2006, 2225;
-
 Folgende Kraftfahrzeuge sind von Verkehrsverboten nach § 40 Abs. 1 des Bundes-Immissionsschutzgesetzes auch dann ausgenommen, wenn sie nicht gemäß § 2 Abs. 1 mit einer Plakette gekennzeichnet sind:
 
-1.
+1. mobile Maschinen und Geräte,
 
-2.
+2. Arbeitsmaschinen,
 
-3.
+3. land- und forstwirtschaftliche Zugmaschinen,
 
-4.
+4. zwei- und dreirädrige Kraftfahrzeuge,
 
-5.
+5. Krankenwagen, Arztwagen mit entsprechender Kennzeichnung „Arzt Notfalleinsatz“ (gemäß § 52 Abs. 6 der Straßenverkehrs-Zulassungs-Ordnung),
 
-6.
+6. Kraftfahrzeuge, mit denen Personen fahren oder gefahren werden, die außergewöhnlich gehbehindert, hilflos oder blind sind und dies durch die nach § 3 Abs. 1 Nr. 1 bis 3 der Schwerbehindertenausweisverordnung im Schwerbehindertenausweis eingetragenen Merkzeichen „aG“, „H“ oder „Bl“ nachweisen,
 
-7.
+7. Fahrzeuge, für die Sonderrechte nach § 35 der Straßenverkehrs-Ordnung in Anspruch genommen werden können,
 
-8.
+8. Fahrzeuge nichtdeutscher Truppen von Nichtvertragsstaaten des Nordatlantikpaktes, die sich im Rahmen der militärischen Zusammenarbeit in Deutschland aufhalten, soweit sie für Fahrten aus dringenden militärischen Gründen genutzt werden,
 
-9.
+9. zivile Kraftfahrzeuge, die im Auftrag der Bundeswehr genutzt werden, soweit es sich um unaufschiebbare Fahrten zur Erfüllung hoheitlicher Aufgaben der Bundeswehr handelt,
 
-10.
+10. Oldtimer (gemäß § 2 Nr. 22 der Fahrzeug-Zulassungsverordnung), die ein Kennzeichen nach § 9 Abs. 1 oder § 17 der Fahrzeug-Zulassungsverordnung führen, sowie Fahrzeuge, die in einem anderen Mitgliedstaat der Europäischen Union, einer anderen Vertragspartei des Abkommens über den Europäischen Wirtschaftsraum oder der Türkei zugelassen sind, wenn sie gleichwertige Anforderungen erfüllen.

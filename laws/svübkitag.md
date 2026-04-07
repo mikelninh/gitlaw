@@ -21,4 +21,6 @@ Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung die
 
 ### Art 4
 
-(1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.(2)
+(1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
+
+(2)

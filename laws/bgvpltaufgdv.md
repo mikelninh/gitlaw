@@ -19,19 +19,19 @@ Soweit in dieser Verordnung nichts anderes bestimmt ist, obliegt die Durchführu
 
 (2) Die Einnahmen und Leistungsausgaben werden nach Einnahme- und Ausgabearten getrennt. Sie werden den einzelnen Unternehmen und Einrichtungen im Sinne von § 121 Absatz 2 Nummer 3 bis 8 des Siebten Buches Sozialgesetzbuch (Mitgliedsunternehmen) sowie den folgenden Aufgabenbereichen zugeordnet:
 
-1.
+1. Unfallfürsorge nach dem Beamtenversorgungsgesetz,
 
-2.
+2. Sachschadensersatz nach § 78 des Bundesbeamtengesetzes und
 
-3.
+3. Geltendmachung von Schadensersatzansprüchen gegenüber Dritten nach § 76 Satz 2 des Bundesbeamtengesetzes.
 
-(3) Die Personal- und Sachkosten werden folgenden Aufgabenbereichen zugeordnet: Soweit eine Zuordnung nicht oder nur mit einem unverhältnismäßig großen Aufwand möglich ist, werden die Personal- und Sachkosten nach dem gleichen Verhältnis wie die den Aufgabenbereichen direkt zurechenbaren Beschäftigten der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation aufgeteilt. In den Fällen des Satzes 2 werden die Personal- und Sachkosten für den Aufgabenbereich Prävention und Arbeitsschutz anschließend nach dem gleichen Zahlenverhältnis den Aufgabenbereichen Gesetzliche Unfallversicherung und Unfallfürsorge zugeordnet, in dem die bei den Mitgliedsunternehmen im vorangegangenen Kalenderjahr beschäftigten Arbeitnehmer und Beamten zueinander stehen; dabei sind die bei den Mitgliedsunternehmen beschäftigten Beamtinnen und Beamten, soweit sie ohne Dienstbezüge beurlaubt sind, den sozialversicherungsrechtlich Versicherten zuzurechnen.
+(3) Die Personal- und Sachkosten werden folgenden Aufgabenbereichen zugeordnet:
 
-1.
+1. gesetzliche Unfallversicherung,
 
-2.
+2. Unfallfürsorge nach dem Beamtenversorgungsgesetz, Sachschadensersatz nach § 78 des Bundesbeamtengesetzes und Geltendmachung von Schadensersatzansprüchen gegenüber Dritten nach § 76 Satz 2 des Bundesbeamtengesetzes sowie
 
-3.
+3. Prävention und Arbeitsschutz für die bei den Mitgliedsunternehmen beschäftigten Personen.
 
 (4) Die Ausgaben für die Prävention sind auf die Aufgabenbereiche Gesetzliche Unfallversicherung und Unfallfürsorge nach dem gleichen Zahlenverhältnis zuzuordnen, in dem die bei den Mitgliedsunternehmen im vorangegangenen Kalenderjahr beschäftigten Arbeitnehmer und Beamten zueinander stehen; dabei sind die bei den Mitgliedsunternehmen beschäftigten Beamtinnen und Beamten, soweit sie ohne Dienstbezüge beurlaubt sind, den sozialversicherungsrechtlich Versicherten zuzurechnen.
 
@@ -47,11 +47,11 @@ Soweit in dieser Verordnung nichts anderes bestimmt ist, obliegt die Durchführu
 
 (1) Zur Sicherstellung ihrer Leistungsfähigkeit erhebt die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation für die übertragenen Aufgaben auf der Grundlage ihres Haushaltsplans und der zu erwartenden Ausgaben Vorschüsse, deren Höhe sie für die einzelnen Mitgliedsunternehmen näher bestimmt, und zwar getrennt nach den folgenden Aufgabenbereichen:
 
-1.
+1. Unfallfürsorge nach dem Beamtenversorgungsgesetz einschließlich Prävention,
 
-2.
+2. Sachschadensersatz nach § 78 des Bundesbeamtengesetzes und
 
-3.
+3. Geltendmachung von Schadensersatzansprüchen gegenüber Dritten nach § 76 Satz 2 des Bundesbeamtengesetzes.
 
 (2) Die Vorschüsse sind jeweils monatlich im Voraus zum 15. des Vormonats fällig, beginnend mit dem 15. März 2016. Die Vorschüsse sind bis zur Neufestsetzung in der bisherigen Höhe weiterzuzahlen.
 
@@ -87,9 +87,9 @@ Soweit in dieser Verordnung nichts anderes bestimmt ist, obliegt die Durchführu
 
 (1) Die Mitgliedsunternehmen haben der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation hinsichtlich der bei ihnen beschäftigten Beamtinnen und Beamten, auch soweit diese unter Anerkennung des dienstlichen Interesses beurlaubt sind, anzuzeigen:
 
-1.
+1. jeden Unfall, der mutmaßlich in Ausübung oder infolge des Dienstes eingetreten ist und
 
-2.
+2. jede mutmaßlich dienstlich verursachte Erkrankung.
 
 (2) Die Mitgliedsunternehmen sollen der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation jeden von einer dritten Person verursachten Unfall anzeigen, durch den eine Beamtin oder ein Beamter, eine Versorgungsempfängerin oder ein Versorgungsempfänger oder deren Hinterbliebene getötet oder körperlich verletzt worden ist.
 
@@ -99,17 +99,17 @@ Soweit in dieser Verordnung nichts anderes bestimmt ist, obliegt die Durchführu
 
 Die Mitgliedsunternehmen sind verpflichtet, die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation bei der Durchführung der übertragenen Aufgaben zu unterstützen. Insbesondere haben sie:
 
-1.
+1. den Unfallhergang zu untersuchen und bei der Aufklärung der Entstehung von Berufskrankheiten und dienstbedingten Erkrankungen mitzuwirken,
 
-2.
+2. Auskunft zu geben über die Art und Dauer der Beschäftigung, den Beschäftigungsort, den Zustand, die Behandlung sowie die Dienst- und Verdienstverhältnisse der verunfallten Bediensteten,
 
-3.
+3. auf Verlangen die für die Berechnung von Leistungen und Regressansprüchen maßgeblichen Beträge nachzuweisen,
 
-4.
+4. die Anträge der Beamtinnen und Beamten auf Ausgleich von Sachschäden an die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation weiterzuleiten und bei der Prüfung der Anspruchsvoraussetzungen und des Schadensumfangs mitzuwirken,
 
-5.
+5. die Geltendmachung von Schadensersatzansprüchen und die Maßnahmen zur Verhütung von Unfällen sowie dienstbedingten Gesundheitsgefahren und zur Ersten Hilfe zu unterstützen und
 
-6.
+6. alle Tatsachen anzugeben, die für die Berechnung der zu erstattenden Kosten und zu erbringenden Vorschüsse notwendig sind.
 
 ### § 10 — Inkrafttreten
 

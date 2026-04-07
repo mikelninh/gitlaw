@@ -14,13 +14,13 @@
 
 (3) Der Bau oder die Änderung eines Bundesschienenweges, der fest disponiert ist oder für den der Bedarfsplan einen Vordringlichen Bedarf feststellt, liegt im überragenden öffentlichen Interesse. Im überragenden öffentlichen Interesse liegen auch folgende Vorhaben und Maßnahmen in Bezug auf die Bundesschienenwege:
 
-1.
+1. Vorhaben zur Verbesserung der Verkehrsverhältnisse für den Schienenpersonennahverkehr, deren Finanzierung ganz oder teilweise mit Mitteln auf Grundlage des Gemeindeverkehrsfinanzierungsgesetzes erfolgt,
 
-2.
+2. Vorhaben, die in Anlage 4 Abschnitt 2 und Anlage 5 Abschnitt 2 zum Investitionsgesetz Kohleregionen vom 8. August 2020 (BGBl. I S. 1795) bezeichnet sind,
 
-3.
+3. mehrere Schienenwegabschnitte übergreifende Maßnahmen zur Änderung, Unterhaltung, Instandsetzung und Erneuerung von Betriebsanlagen, die mindestens einen nach § 55 Absatz 1 Satz 1 des Eisenbahnregulierungsgesetzes als überlastet erklärten Schienenweg umfassen sowie
 
-4.
+4. Maßnahmen zur Digitalisierung von Schienenwegen und Schienenknoten, priorisiert Schienenkorridoren des transeuropäischen Verkehrsnetzes, soweit das Unionsrecht eine Pflicht zur durchgehenden Ausrüstung der Schienenverkehrsinfrastruktur des Kernnetzes mit dem Europäischen Eisenbahnverkehrsleitsystem vorschreibt.
 
 ### § 2 — Bedarfsplan, Einzelmaßnahmen
 
@@ -78,11 +78,11 @@ Die Durchführung der in den Bedarfsplan aufgenommenen Baumaßnahmen sowie deren
 
 (1) Soweit die Eisenbahnen des Bundes vom Bund finanzierte Schienenwege im Sinne des § 8 Abs. 5 stilllegen, zweckentfremden, nicht betriebsbereit vorhalten oder auf andere Eisenbahninfrastrukturbetreiber übertragen, sind die gewährten Bundesmittel vom Empfänger, anteilig im Verhältnis von tatsächlicher Nutzungszeit zu technisch möglicher und üblicher Nutzungszeit, an den Bund zurückzuzahlen. Die technisch mögliche und übliche Nutzungszeit wird in der Vereinbarung nach § 9 Satz 1 zwischen den Eisenbahnen des Bundes und dem Bund festgelegt.
 
-(2) Die Rückzahlungspflicht nach Absatz 1 Satz 1 entfällt im Fall der Übertragung der Schienenwege auf einen anderen Infrastrukturbetreiber, wenn Unterschreitet der übernehmende Infrastrukturbetreiber diese Nutzungszeit, ist er dem Bund anteilig zur Erstattung der nach Absatz 1 fälligen Rückzahlungen verpflichtet.
+(2) Die Rückzahlungspflicht nach Absatz 1 Satz 1 entfällt im Fall der Übertragung der Schienenwege auf einen anderen Infrastrukturbetreiber, wenn
 
-1.
+1. der übernehmende Infrastrukturbetreiber den Betrieb, den Bau und die Unterhaltung der Schienenwege übernimmt und
 
-2.
+2. er gewährleistet, dass die ihm übertragenen Schienenwege langfristig, mindestens jedoch bis zum Ende der möglichen und üblichen Nutzungszeit der vom Bund finanzierten Anlagen als öffentliche Eisenbahninfrastruktur im Sinne des § 3 Abs. 1 des Allgemeinen Eisenbahngesetzes betrieben werden.
 
 (3) Soweit der übernehmende Infrastrukturbetreiber für die Übernahme der Infrastruktur ein Entgelt an die Eisenbahnen des Bundes zu entrichten hat, steht dieses Entgelt bis zur Höhe der nach Absatz 1 bei Stilllegung, Zweckentfremdung oder Nichtbetriebsbereithalten der Infrastruktur zurückzuzahlenden Bundesmittel dem Bund zu. Ist die übertragene Infrastruktur mit zinslosen Darlehen des Bundes finanziert, haben die beteiligten Eisenbahnen des Bundes und der übernehmende Infrastrukturbetreiber gesamtschuldnerisch die Darlehenstilgung zu gewährleisten. In diesem Fall steht das zwischen den Eisenbahnen des Bundes und dem übernehmenden Infrastrukturbetreiber vereinbarte Nutzungsentgelt dem Bund nicht zu.
 
@@ -108,23 +108,17 @@ Die Durchführung der in den Bedarfsplan aufgenommenen Baumaßnahmen sowie deren
 
 (3) Der Bund kann sich an den Kosten für bauliche Maßnahmen beteiligen, die aufgrund baurechtlicher oder eisenbahnrechtlicher Anforderungen an Schienenwegen der Eisenbahnen des Bundes notwendig sind.
 
-(4) Der Bund kann sich im Rahmen der Digitalisierung der Schienenwege der Eisenbahnen des Bundes an den folgenden infrastruktur- und fahrzeugseitigen Kosten beteiligen: Satz 1 gilt nur für Fahrzeuge, die das übergeordnete Netz befahren. Die Förderung der Ausrüstung von Neufahrzeugen nach Satz 1 ist ausgeschlossen. Der Bund kann die Kosten der Ausrüstung von Vorserienfahrzeugen („First of Class“) bis zu 90 Prozent und der Ausrüstung von Serienfahrzeugen bis zu 60 Prozent finanzieren, sofern dafür die nach dem Beihilferecht der Europäischen Union zu beachtenden Voraussetzungen vorliegen. Die Einzelheiten sind vom Bundesministerium für Digitales und Verkehr in einer Förderrichtlinie zu regeln. In dieser sind Anreize für die zügige Ausrüstung von Vorserienfahrzeugen aufzunehmen. Diese Förderrichtlinie wird zum 31. Dezember 2028 vom Bundesministerium für Digitales und Verkehr im Hinblick auf ihre Zielerreichung und die Höhe der Förderung evaluiert. § 11b Absatz 1, 2, 4 und 5 findet auf diesen Absatz keine Anwendung.
+(4) Der Bund kann sich im Rahmen der Digitalisierung der Schienenwege der Eisenbahnen des Bundes an den folgenden infrastruktur- und fahrzeugseitigen Kosten beteiligen:
 
-1.
+1. Kosten für die infrastruktur- und fahrzeugseitige Ausrüstung auf dem übergeordneten Netz im Sinne von § 2b des Allgemeinen Eisenbahngesetzes mit Betriebsleitsystemen, Kommunikationssystemen, Kapazitätsmanagementsystemen und Verkehrsmanagementsystemen, die a)die Sicherheit des Eisenbahnbetriebs gewährleisten,b)die Kapazität der Schienenwege steuern oder steigern oderc)andere aufwendigere Investitionen in diese vermeiden; die Sicherheit des Eisenbahnbetriebs gewährleisten, die Kapazität der Schienenwege steuern oder steigern oder andere aufwendigere Investitionen in diese vermeiden;
 
-a)
-
-b)
-
-c)
-
-2.
+2. Kosten für infrastruktur- und fahrzeugseitige IT-Leistungen, inklusive Entwicklungs- und Zulassungsleistungen, soweit diese im unmittelbaren Zusammenhang mit den Schienenwegen der Eisenbahnen des Bundes stehen und nicht die Kosten für reine Forschungsleistungen und Entwicklungsleistungen ohne unmittelbaren Bezug zur jeweiligen IT-Leistung beinhalten.
 
 (5) Der Bund kann sich an den Kosten für die Instandhaltung von Anlagen zur Herstellung von Barrierefreiheit an Verkehrsstationen oder für freiwillige Lärmsanierungsmaßnahmen an bestehenden Schienenwegen der Eisenbahnen des Bundes beteiligen, soweit die Errichtung solcher Anlagen oder die Durchführung solcher Maßnahmen
 
-1.
+1. auf Initiative des Bundes und ohne Mitbestimmung der Länder erfolgt ist und
 
-2.
+2. vom Bund ganz oder teilweise finanziert worden sind.
 
 (6) Werden Ersatzinvestitionen bei Verkehrsstationen vorgenommen, kann der Bund diese auch dann finanzieren, wenn durch die Ersatzinvestitionen die Verkehrsstationen für den zukünftigen verkehrlichen Bedarf ertüchtigt werden. Dabei ist die Überprüfung nach § 4 Absatz 1 zu berücksichtigen.
 
@@ -152,87 +146,87 @@ c)
 
 (2) Hochleistungskorridore im Sinne von Absatz 1 Satz 1 sind insbesondere:
 
-1.
+1. Frankfurt am Main — Mannheim;
 
-2.
+2. Emmerich — Oberhausen;
 
-3.
+3. Hamburg — Berlin/Spandau;
 
-4.
+4. Köln — Hagen;
 
-5.
+5. Nürnberg-Reichswald — Regensburg;
 
-6.
+6. Obertraubling — Passau;
 
-7.
+7. Troisdorf — Koblenz;
 
-8.
+8. Koblenz — Wiesbaden;
 
-9.
+9. Frankfurt am Main — Heidelberg;
 
-10.
+10. München-Ost — Rosenheim;
 
-11.
+11. Berlin — Lehrte;
 
-12.
+12. Bremen — Bremerhaven;
 
-13.
+13. Rosenheim — Salzburg;
 
-14.
+14. Köln – Dortmund — Hamm;
 
-15.
+15. Hamburg — Lübeck;
 
-16.
+16. Hamburg-Harburg — Bremen;
 
-17.
+17. Hürth-Kalscheuren — Koblenz;
 
-18.
+18. Koblenz — Mainz;
 
-19.
+19. Würzburg — Nürnberg;
 
-20.
+20. Hagen — Hamm;
 
-21.
+21. Uelzen — Stendal;
 
-22.
+22. Stendal — Magdeburg;
 
-23.
+23. Nordstemmen — Göttingen;
 
-24.
+24. Bebra — Fulda;
 
-25.
+25. Lehrte — Groß-Gleidingen;
 
-26.
+26. Hamburg — Hannover;
 
-27.
+27. Köln — Aachen/Aachen-Süd — Grenze;
 
-28.
+28. Bremen/Rotenburg — Wunstorf;
 
-29.
+29. Forbach — Ludwigshafen;
 
-30.
+30. Stuttgart — Ulm;
 
-31.
+31. Erfurt — Bebra;
 
-32.
+32. Weddel — Magdeburg;
 
-33.
+33. Bremen — Osnabrück;
 
-34.
+34. Osnabrück — Münster;
 
-35.
+35. Kassel — Gießen — Friedberg;
 
-36.
+36. Würzburg — Treuchtlingen;
 
-37.
+37. Münster — Recklinghausen-Süd;
 
-38.
+38. Wunstorf — Minden;
 
-39.
+39. Ulm — Augsburg;
 
-40.
+40. Mannheim — Karlsruhe;
 
-41.
+41. Flensburg — Hamburg (nach Fertigstellung der Hinterlandanbindung Fehmarnbeltquerung).
 
 (3) Die durch die Generalsanierung verursachten Kosten eines hochwertigen straßengebundenen Ersatzes von Schienenpersonennahverkehren sind bei erstmaliger vollständiger Durchführung einer Generalsanierung eines Hochleistungskorridors in Vollsperrung nach Maßgabe des Absatzes 5 zu finanzieren.
 
@@ -250,23 +244,7 @@ Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 
 ### Anlage — (zu § 1 Absatz 1)
 
-Abschnitt 1
-
-Laufende und fest disponierte Vorhaben des Vordringlichen Bedarfs
-
-Abschnitt 2
-
 Neue Vorhaben
-
-Unterabschnitt 1
-
-Vordringlicher Bedarf (VB-E (in Fettdruck) u. VB)
-
-Unterabschnitt 2
-
-Vorhaben des Potentiellen Bedarfs, die in den Vordringlichen Bedarf (VB) aufsteigen können. Sobald nachgewiesen ist, dass diese Projekte die Kriterien für die Aufnahme in den VB erfüllen, werden sie in den VB aufgenommen.
-
-Unterabschnitt 3
 
 Neue Vorhaben, Weiterer Bedarf (WB)
 

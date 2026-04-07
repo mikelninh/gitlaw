@@ -21,13 +21,13 @@ Unter dem Namen "Stiftung Reichspräsident-Friedrich-Ebert-Gedenkstätte" wird m
 
 (2) Der Erfüllung dieses Zweckes dienen insbesondere folgende Maßnahmen:
 
-1.
+1. Einrichtung, Unterhaltung und Ausbau der für die Öffentlichkeit zugänglichen Gedenkstätte "Stiftung Reichspräsident-Friedrich-Ebert-Gedenkstätte" in Heidelberg;
 
-2.
+2. Einrichtung und Unterhaltung eines Archivs nebst Forschungs- und Dokumentationsstelle in Heidelberg;
 
-3.
+3. wissenschaftliche Untersuchungen;
 
-4.
+4. Veranstaltungen im Sinne des Stiftungszweckes.
 
 ### § 3 — Stiftungsvermögen
 
@@ -47,9 +47,9 @@ Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer Mehrheit von v
 
 Organe der Stiftung sind
 
-1.
+1. das Kuratorium,
 
-2.
+2. der Vorstand.
 
 ### § 6 — Kuratorium
 

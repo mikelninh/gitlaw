@@ -14,17 +14,17 @@ Auf Grund des § 145 Absatz 4 in Verbindung mit Absatz 5 Satz 2, auch in Verbind
 
 (1) Diese Verordnung gilt für
 
-1.
+1. Lebensversicherungsunternehmen, soweit sie nicht unter die Nummern 2 bis 4 fallen,
 
-2.
+2. Pensionskassen, soweit sie nicht von Nummer 3 erfasst sind,
 
-3.
+3. regulierte Pensionskassen im Sinne des § 233 Absatz 1 des Versicherungsaufsichtsgesetzes und Pensionskassen, die auf Grund des § 233 Absatz 2 des Versicherungsaufsichtsgesetzes als reguliert gelten,
 
-4.
+4. Sterbekassen, die keine kleineren Vereine im Sinne des § 210 des Versicherungsaufsichtsgesetzes sind,
 
-5.
+5. Unfallversicherungsunternehmen, die Versicherungen mit Rückgewähr der Prämien übernehmen, und
 
-6.
+6. Versicherungsunternehmen, die für Rentenleistungen der Allgemeinen Haftpflichtversicherung, der Kraftfahrzeug-Haftpflichtversicherung, der Kraftfahrt-Unfallversicherung sowie der Allgemeinen Unfallversicherung Deckungsrückstellungen zu bilden haben.
 
 (2) Ist ein Unternehmen gemäß Absatz 1 Nummer 1, 5 oder 6 ein kleinerer Verein, sind die §§ 2 bis 4 nicht anzuwenden.
 
@@ -34,25 +34,17 @@ Auf Grund des § 145 Absatz 4 in Verbindung mit Absatz 5 Satz 2, auch in Verbind
 
 ### § 2 — Versicherungsmathematische Bestätigung
 
-(1) Bei Lebensversicherungsunternehmen gemäß § 1 Absatz 1 Nummer 1 hat die versicherungsmathematische Bestätigung Ist kein Altbestand vorhanden, so lautet der zweite Halbsatz der versicherungsmathematischen Bestätigung stattdessen:„Altbestand im Sinne des § 336 VAG und des Artikels 16 § 2 Satz 2 des Dritten Durchführungsgesetzes/EWG zum VAG ist nicht vorhanden.”
+(1) Bei Lebensversicherungsunternehmen gemäß § 1 Absatz 1 Nummer 1 hat die versicherungsmathematische Bestätigung
 
-1.
+1. nach § 141 Absatz 5 Satz 1 Nummer 2 des Versicherungsaufsichtsgesetzes folgenden Wortlaut: „Es wird bestätigt, dass die in der Bilanz unter dem Posten … der Passiva eingestellte Deckungsrückstellung unter Beachtung des § 341f HGB sowie unter Beachtung der auf Grund des § 88 Absatz 3 VAG erlassenen Rechtsverordnung berechnet worden ist; für den Altbestand im Sinne des § 336 VAG und des Artikels 16 § 2 Satz 2 des Dritten Durchführungsgesetzes/EWG zum VAG ist die Deckungsrückstellung nach dem zuletzt am … genehmigten Geschäftsplan berechnet worden.” und
 
-2.
+2. nach § 141 Absatz 5 Satz 1 Nummer 2 in Verbindung mit § 212 Absatz 3 Nummer 11 des Versicherungsaufsichtsgesetzes folgenden Wortlaut: „Es wird bestätigt, dass die in der Bilanz unter dem Posten … der Passiva eingestellte Deckungsrückstellung unter Beachtung des § 341f HGB sowie unter Beachtung der auf Grund des § 217 Satz 1 Nummer 7 bis 10 VAG erlassenen Rechtsverordnung berechnet worden ist; für den Altbestand im Sinne des § 336 VAG und des Artikels 16 § 2 Satz 2 des Dritten Durchführungsgesetzes/EWG zum VAG ist die Deckungsrückstellung nach dem zuletzt am … genehmigten Geschäftsplan berechnet worden.”
 
-(2) Bei Pensionskassen gemäß § 1 Absatz 1 Nummer 2 hat die versicherungsmathematische Bestätigung nach § 141 Absatz 5 Satz 1 Nummer 2 in Verbindung mit § 234 Absatz 3 Satz 2 des Versicherungsaufsichtsgesetzes folgenden Wortlaut:„Es wird bestätigt, dass die in der Bilanz unter dem Posten … der Passiva eingestellte Deckungsrückstellung unter Beachtung des § 341f HGB sowie unter Beachtung der auf Grund des § 235 Absatz 1 Satz 1 Nummer 4 bis 7 VAG erlassenen Rechtsverordnung berechnet worden ist; für den Altbestand im Sinne des § 336 in Verbindung mit § 234 Absatz 6 Satz 1, auch in Verbindung mit § 233 Absatz 5 Satz 2, VAG ist die Deckungsrückstellung nach dem zuletzt am … genehmigten Geschäftsplan berechnet worden.” Ist kein Altbestand vorhanden, so lautet der zweite Halbsatz der versicherungsmathematischen Bestätigung stattdessen:„Altbestand im Sinne des § 336 in Verbindung mit § 234 Absatz 6 Satz 1, auch in Verbindung mit § 233 Absatz 5 Satz 2, VAG ist nicht vorhanden.”
+(5) Bei Versicherungsunternehmen gemäß § 1 Absatz 1 Nummer 5 und 6 hat die versicherungsmathematische Bestätigung
 
-(3) Bei Pensionskassen gemäß § 1 Absatz 1 Nummer 3 hat die versicherungsmathematische Bestätigung nach § 141 Absatz 5 Satz 1 Nummer 2 in Verbindung mit § 234 Absatz 3 Satz 2 des Versicherungsaufsichtsgesetzes folgenden Wortlaut:„Es wird bestätigt, dass die Deckungsrückstellung nach dem zuletzt am … genehmigten Geschäftsplan berechnet worden ist; für den Bestand, bei dem die Verträge nach nicht genehmigten Tarifen abgeschlossen worden sind, wird bestätigt, dass die in der Bilanz unter dem Posten … der Passiva eingestellte Deckungsrückstellung unter Beachtung des § 341f HGB sowie unter Beachtung der auf Grund des § 235 Absatz 1 Nummer 4 bis 7 VAG erlassenen Rechtsverordnung berechnet worden ist.” Ist kein Bestand vorhanden, bei dem die Verträge nach nicht genehmigten Tarifen abgeschlossen worden sind, entfällt der zweite Halbsatz der versicherungsmathematischen Bestätigung.
+1. nach § 141 Absatz 5 Satz 1 Nummer 2 in Verbindung mit § 161 Absatz 1 und § 162 des Versicherungsaufsichtsgesetzes folgenden Wortlaut: „Es wird bestätigt, dass die in der Bilanz unter Posten … der Passiva eingestellte Deckungsrückstellung unter Beachtung von § 341f und § 341g HGB sowie unter Beachtung der auf Grund des § 88 Absatz 3 VAG erlassenen Rechtsverordnung berechnet worden ist.” und
 
-(4) Bei Sterbekassen gemäß § 1 Absatz 1 Nummer 4 hat die versicherungsmathematische Bestätigung nach § 141 Absatz 5 Satz 1 Nummer 2 in Verbindung mit § 219 Absatz 3 Nummer 3 des Versicherungsaufsichtsgesetzes folgenden Wortlaut:„Es wird bestätigt, dass die Deckungsrückstellung nach dem zuletzt am … genehmigten Geschäftsplan berechnet worden ist.”
-
-(5) Bei Versicherungsunternehmen gemäß § 1 Absatz 1 Nummer 5 und 6 hat die versicherungsmathematische Bestätigung Bei Versicherungsunternehmen gemäß § 1 Absatz 1 Nummer 5 ist folgender Halbsatz in der versicherungsmathematischen Bestätigung zu ergänzen:„für den Altbestand im Sinne des § 336 VAG ist die Deckungsrückstellung nach dem zuletzt am … genehmigten Geschäftsplan berechnet worden.” Ist kein Altbestand vorhanden, so lautet dieser Halbsatz stattdessen:„Altbestand im Sinne des § 336 VAG ist nicht vorhanden.”
-
-1.
-
-2.
-
-> (+++ § 2: Zur Nichtanwendung vgl. § 1 Abs. 2 +++) (+++ § 2: Zur Anwendung vgl. § 1 Abs. 3 +++) § 2 Abs. 2 Satz 1 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wurde zwischen "§ 235 Absatz 1" und "Nummer 4 bis 7 VAG" der Zusatz "Satz 1" ergänzt
+2. nach § 141 Absatz 5 Satz 1 Nummer 2 in Verbindung mit § 161 Absatz 1, § 162 und § 212 Absatz 3 Nummer 11 des Versicherungsaufsichtsgesetzes folgenden Wortlaut: „Es wird bestätigt, dass die in der Bilanz unter Posten … der Passiva eingestellte Deckungsrückstellung unter Beachtung von § 341f und § 341g HGB sowie unter Beachtung der auf Grund des § 217 Satz 1 Nummer 7 bis 10 VAG erlassenen Rechtsverordnung berechnet worden ist.”
 
 ### § 3 — Abgabe der versicherungsmathematischen Bestätigung
 
@@ -60,33 +52,31 @@ Auf Grund des § 145 Absatz 4 in Verbindung mit Absatz 5 Satz 2, auch in Verbind
 
 (2) Sind Einwendungen zu erheben, so hat der Verantwortliche Aktuar zu erklären, dass die versicherungsmathematische Bestätigung versagt oder eingeschränkt wird. In beiden Fällen ist die Erklärung um zusätzliche Bemerkungen derart zu ergänzen, dass die Gründe für die Versagung oder Inhalt und Tragweite der Einschränkung klar umrissen werden.
 
-> (+++ § 3: Zur Nichtanwendung vgl. § 1 Abs. 2 +++) (+++ § 3: Zur Anwendung vgl. § 1 Abs. 3 +++)
-
 ### § 4 — Erläuterungsbericht
 
 (1) Der Verantwortliche Aktuar hat im Erläuterungsbericht anzugeben, inwieweit nach den anerkannten Regeln der Versicherungsmathematik eine Einteilung des Bestandes in Risikoklassen erfolgt ist. Insbesondere muss er dabei darauf eingehen, inwieweit versicherungstechnische Risiken und Anlagerisiken berücksichtigt worden sind. Die vorgenommene Einteilung ist zu begründen; dabei ist auch auf Abweichungen gegenüber der Einteilung des Vorjahres einzugehen.
 
 (2) Es ist darzulegen, ob die Deckungsrückstellung berechnet wurde
 
-1.
+1. nach einer prospektiven oder einer retrospektiven Methode,
 
-2.
+2. mit expliziter oder impliziter Berücksichtigung der künftigen Aufwendungen für den laufenden Versicherungsbetrieb einschließlich Provisionen und
 
-3.
+3. einzelvertraglich oder mit statistischen Näherungsverfahren; die verwendeten statistischen Näherungsverfahren sind zu erläutern.
 
 (3) Anzugeben sind die bei der Berechnung der Deckungsrückstellung verwendeten Wahrscheinlichkeitstafeln, Rechnungszinssätze, Zillmersätze und expliziten Kostensätze für künftige Aufwendungen für den laufenden Versicherungsbetrieb einschließlich Provisionen. Auf die Aufwendungen für den laufenden Versicherungsbetrieb einschließlich Provisionen ist auch bei einem impliziten Ansatz einzugehen.
 
-(4) Es ist darzulegen, dass Ferner ist eine Einschätzung über die künftige Entwicklung der in den verwendeten Rechnungsgrundlagen enthaltenen Sicherheitsspannen abzugeben und zu begründen.
+(4) Es ist darzulegen, dass
 
-1.
+1. alle Leistungen der Versicherungsverträge einschließlich der vertraglich oder gesetzlich garantierten Rückkaufswerte, der prämienfreien Leistungen und der Überschussanteile, auf die die Versicherungsnehmer einen Anspruch haben, gemäß dem Vorsichtsprinzip berücksichtigt sind, wobei darauf einzugehen ist, ob dieser Anspruch auf der Basis einer individuellen oder einer kollektiven Betrachtungsweise besteht,
 
-2.
+2. gegebenenfalls verwendete retrospektive Methoden zu keiner geringeren Deckungsrückstellung führen als die Deckungsrückstellung, die sich auf der Grundlage einer ausreichend vorsichtigen prospektiven Berechnung ergäbe,
 
-3.
+3. die bei der Berechnung der Deckungsrückstellung verwendeten Rechnungsgrundlagen angemessene Sicherheitsspannen enthalten,
 
-4.
+4. das Vorsichtsprinzip auch bei der Bewertung der zur Bedeckung der Deckungsrückstellung herangezogenen Aktive angewendet wurde und
 
-5.
+5. die Deckungsrückstellung zu jedem Zeitpunkt mindestens so hoch ist wie der jeweilige vertraglich oder gesetzlich garantierte Rückkaufswert; dies gilt sinngemäß mit der garantierten prämienfreien Versicherungsleistung anstelle des garantierten Rückkaufswerts.
 
 (5) Die nach den Absätzen 2 bis 4 erforderlichen Darlegungen und Angaben sind für jede Risikoklasse gesondert zu erstellen.
 

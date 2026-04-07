@@ -18,7 +18,11 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 ### § 2
 
-(1) Für Soldaten auf Zeit, die sich vor dem 1. Januar 1976 verpflichtet haben, ist § 3 des Bundesbesoldungsgesetzes in der bisherigen Fassung weiter anzuwenden.(2) Für ledige Beamte, Richter und Soldaten, die vor dem 1. Januar 1976 das vierzigste Lebensjahr vollendet haben, ist § 40 Abs. 2 Nr. 3 des Bundesbesoldungsgesetzes in der bisherigen Fassung weiter anzuwenden.(3) Für Beamte, Richter und Soldaten, die vor dem 1. Januar 1976 das vierzigste Lebensjahr vollendet haben und deren Ehe vor dem 1. Januar 1976 geschieden, aufgehoben oder für nichtig erklärt worden ist, findet § 40 Abs. 2 Nr. 2 des Bundesbesoldungsgesetzes in der bisherigen Fassung weiter Anwendung.
+(1) Für Soldaten auf Zeit, die sich vor dem 1. Januar 1976 verpflichtet haben, ist § 3 des Bundesbesoldungsgesetzes in der bisherigen Fassung weiter anzuwenden.
+
+(2) Für ledige Beamte, Richter und Soldaten, die vor dem 1. Januar 1976 das vierzigste Lebensjahr vollendet haben, ist § 40 Abs. 2 Nr. 3 des Bundesbesoldungsgesetzes in der bisherigen Fassung weiter anzuwenden.
+
+(3) Für Beamte, Richter und Soldaten, die vor dem 1. Januar 1976 das vierzigste Lebensjahr vollendet haben und deren Ehe vor dem 1. Januar 1976 geschieden, aufgehoben oder für nichtig erklärt worden ist, findet § 40 Abs. 2 Nr. 2 des Bundesbesoldungsgesetzes in der bisherigen Fassung weiter Anwendung.
 
 ### § 3
 
@@ -30,7 +34,9 @@ Verringert sich durch dieses Gesetz der Ortszuschlag eines Beamten, Richters ode
 
 ### § 5
 
-(1) Die Zulagen nach Nummern 7 und 11 der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B, nach Nummer 3 der Vorbemerkungen zur Bundesbesoldungsordnung C, nach Nummer 2 der Vorbemerkungen zur Bundesbesoldungsordnung R des Bundesbesoldungsgesetzes und Zulagen nach Vorschriften, die gemäß Artikel IX § 22 des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern vom 23. Mai 1975 (Bundesgesetzbl. I S. 1173) in Kraft geblieben sind, oder vergleichbare Zulagen nehmen mit Wirkung vom 1. Juli 1975 künftig an allgemeinen Besoldungsverbesserungen nicht teil.(2) Absatz 1 gilt nicht für Regelungen von Zulagen für Beamte der Bayerischen Versicherungskammer und Beamte vergleichbarer Versicherungsanstalten und Kreditinstitute. Die Zulage für Beamte der Bayerischen Versicherungskammer kann bis zu 22 v. H. des Grundgehalts betragen; in gleichem Verhältnis verringern sich die Höchstbeträge der vergleichbaren Zulagen.
+(1) Die Zulagen nach Nummern 7 und 11 der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B, nach Nummer 3 der Vorbemerkungen zur Bundesbesoldungsordnung C, nach Nummer 2 der Vorbemerkungen zur Bundesbesoldungsordnung R des Bundesbesoldungsgesetzes und Zulagen nach Vorschriften, die gemäß Artikel IX § 22 des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern vom 23. Mai 1975 (Bundesgesetzbl. I S. 1173) in Kraft geblieben sind, oder vergleichbare Zulagen nehmen mit Wirkung vom 1. Juli 1975 künftig an allgemeinen Besoldungsverbesserungen nicht teil.
+
+(2) Absatz 1 gilt nicht für Regelungen von Zulagen für Beamte der Bayerischen Versicherungskammer und Beamte vergleichbarer Versicherungsanstalten und Kreditinstitute. Die Zulage für Beamte der Bayerischen Versicherungskammer kann bis zu 22 v. H. des Grundgehalts betragen; in gleichem Verhältnis verringern sich die Höchstbeträge der vergleichbaren Zulagen.
 
 ### § 6
 
@@ -44,7 +50,9 @@ Verringert sich durch dieses Gesetz der Ortszuschlag eines Beamten, Richters ode
 
 ### § 2
 
-(1) Für die bei Inkrafttreten dieses Gesetzes vorhandenen Versorgungsempfänger bleibt das den ruhegehaltfähigen Dienstbezügen zugrunde liegende Grundgehalt unberührt.(2) Tritt ein Beamter aus einem Amt in den Ruhestand, das nicht der Eingangsbesoldungsgruppe seiner Laufbahn angehört, ist, wenn er die Dienstbezüge seines zuletzt bekleideten Amtes bereits vor Inkrafttreten dieses Gesetzes erhalten hat, § 5 Abs. 3 und 4 des Beamtenversorgungsgesetzes nicht anzuwenden.
+(1) Für die bei Inkrafttreten dieses Gesetzes vorhandenen Versorgungsempfänger bleibt das den ruhegehaltfähigen Dienstbezügen zugrunde liegende Grundgehalt unberührt.
+
+(2) Tritt ein Beamter aus einem Amt in den Ruhestand, das nicht der Eingangsbesoldungsgruppe seiner Laufbahn angehört, ist, wenn er die Dienstbezüge seines zuletzt bekleideten Amtes bereits vor Inkrafttreten dieses Gesetzes erhalten hat, § 5 Abs. 3 und 4 des Beamtenversorgungsgesetzes nicht anzuwenden.
 
 ## Art 5: (weggefallen)
 
@@ -102,7 +110,9 @@ Die §§ 1 und 2 gelten nicht im Land Berlin.
 
 ### § 3
 
-(1) Für Soldaten auf Zeit, deren Anspruch auf Fachausbildung sich nach § 5 Abs. 5 Satz 2 des Soldatenversorgungsgesetzes in der Fassung des Artikels 10 § 1 Nr. 3 des Haushaltsstrukturgesetzes bestimmt und deren Dienstverhältnis vor dem 1. Januar 1976 geendet hat, gilt § 11 Abs. 2 Nr. 4 des Soldatenversorgungsgesetzes in der vor Inkrafttreten dieses Gesetzes geltenden Fassung.(2) Für Soldaten auf Zeit, die auf Grund einer vor dem 11. September 1975 abgegebenen Verpflichtungserklärung in das Dienstverhältnis eines Soldaten auf Zeit berufen worden sind oder die auf Grund einer vor diesem Zeitpunkt abgegebenen Weiterverpflichtungserklärung im Dienstverhältnis eines Soldaten auf Zeit verblieben sind, gilt § 12 Abs. 2 und 3 des Soldatenversorgungsgesetzes in der vor dem Inkrafttreten dieses Gesetzes geltenden Fassung. Bei einer Weiterverpflichtung nach dem 10. September 1975 ist § 12 Abs. 2 des Soldatenversorgungsgesetzes mit der Maßgabe anzuwenden, daß die Übergangsbeihilfe mindestens aus dem Mehrfachen zu berechnen ist, das für die Wehrdienstzeit vor der Weiterverpflichtung maßgebend war.
+(1) Für Soldaten auf Zeit, deren Anspruch auf Fachausbildung sich nach § 5 Abs. 5 Satz 2 des Soldatenversorgungsgesetzes in der Fassung des Artikels 10 § 1 Nr. 3 des Haushaltsstrukturgesetzes bestimmt und deren Dienstverhältnis vor dem 1. Januar 1976 geendet hat, gilt § 11 Abs. 2 Nr. 4 des Soldatenversorgungsgesetzes in der vor Inkrafttreten dieses Gesetzes geltenden Fassung.
+
+(2) Für Soldaten auf Zeit, die auf Grund einer vor dem 11. September 1975 abgegebenen Verpflichtungserklärung in das Dienstverhältnis eines Soldaten auf Zeit berufen worden sind oder die auf Grund einer vor diesem Zeitpunkt abgegebenen Weiterverpflichtungserklärung im Dienstverhältnis eines Soldaten auf Zeit verblieben sind, gilt § 12 Abs. 2 und 3 des Soldatenversorgungsgesetzes in der vor dem Inkrafttreten dieses Gesetzes geltenden Fassung. Bei einer Weiterverpflichtung nach dem 10. September 1975 ist § 12 Abs. 2 des Soldatenversorgungsgesetzes mit der Maßgabe anzuwenden, daß die Übergangsbeihilfe mindestens aus dem Mehrfachen zu berechnen ist, das für die Wehrdienstzeit vor der Weiterverpflichtung maßgebend war.
 
 ### § 4
 
@@ -153,7 +163,11 @@ Abfindungsgeld
 
 ### § 2
 
-§ 1 gilt nicht für Arbeitnehmer, 1.deren Arbeitsverhältnis vor dem 1. Oktober 1975 gekündigt worden ist oder vor dem 1. Januar 1976 endet oder 2.die aus Anlaß einer Stillegungsmaßnahme entlassen werden, die vor dem 1. Oktober 1975 begonnen worden ist. Eine Stillegungsmaßnahme gilt als begonnen, wenn auf Grund eines von dem Arbeitgeber gefaßten Stillegungsbeschlusses wesentliche, auf die Durchführung dieses Beschlusses gerichtete Maßnahmen rechtlicher, technischer oder organisatorischer Art getroffen worden sind.
+§ 1 gilt nicht für Arbeitnehmer,
+
+1. deren Arbeitsverhältnis vor dem 1. Oktober 1975 gekündigt worden ist oder vor dem 1. Januar 1976 endet oder
+
+2. die aus Anlaß einer Stillegungsmaßnahme entlassen werden, die vor dem 1. Oktober 1975 begonnen worden ist.
 
 ## Art 24: Bundesversorgungsgesetz
 
@@ -178,4 +192,16 @@ Das Gesetz tritt am 1. Januar 1976 in Kraft, soweit in § 2 nichts anderes besti
 
 ### § 2
 
-Abweichend von § 1 treten in Kraft: 1.Artikel 14 Nr. 2 mit Wirkung vom 1. Juli 1975, 2.Artikel 18a)§ 1 Nr. 1 Buchstabe a, Nr. 3 und 10 sowie § 2 mit der Maßgabe, daß die darin bestimmten Änderungen bei der Berechnung der Förderungsbeträge für alle Bewilligungszeiträume zu berücksichtigen sind, die nach dem 31. Dezember 1975 beginnen, b)§ 1 Nr. 1 Buchstabe b nur für Auszubildende, die die andere Ausbildung (§ 7 Abs. 3 Bundesausbildungsförderungsgesetz) nach dem 31. März 1976 beginnen, c)§ 1 Nr. 7 mit Wirkung vom 1. August 1975, d)§ 1 Nr. 1 Buchstabe c sowie § 1 Nr. 2, 5, 6 und 8 am 1. April 1976, 3.Artikel 20 und Artikel 21 am 1. Dezember 1975, 4.Artikel 3 § 1 Nr. 5, Artikel 10 § 1 Nr. 18, Artikel 17 § 1 Nr. 5 bis 7, §§ 2, 3 und 5, Artikel 24, und Artikel 44 Nr. 1 am 1. Juli 1976, 5.Artikel 35 und Artikel 44 Nr. 2 am 1. Januar 1977, 6.Artikel 38 § 2 und Artikel 39 § 2 am 1. Januar 1981.
+Abweichend von § 1 treten in Kraft:
+
+1. Artikel 14 Nr. 2 mit Wirkung vom 1. Juli 1975,
+
+2. Artikel 18a)§ 1 Nr. 1 Buchstabe a, Nr. 3 und 10 sowie § 2 mit der Maßgabe, daß die darin bestimmten Änderungen bei der Berechnung der Förderungsbeträge für alle Bewilligungszeiträume zu berücksichtigen sind, die nach dem 31. Dezember 1975 beginnen, b)§ 1 Nr. 1 Buchstabe b nur für Auszubildende, die die andere Ausbildung (§ 7 Abs. 3 Bundesausbildungsförderungsgesetz) nach dem 31. März 1976 beginnen, c)§ 1 Nr. 7 mit Wirkung vom 1. August 1975, d)§ 1 Nr. 1 Buchstabe c sowie § 1 Nr. 2, 5, 6 und 8 am 1. April 1976, § 1 Nr. 1 Buchstabe a, Nr. 3 und 10 sowie § 2 mit der Maßgabe, daß die darin bestimmten Änderungen bei der Berechnung der Förderungsbeträge für alle Bewilligungszeiträume zu berücksichtigen sind, die nach dem 31. Dezember 1975 beginnen, § 1 Nr. 1 Buchstabe b nur für Auszubildende, die die andere Ausbildung (§ 7 Abs. 3 Bundesausbildungsförderungsgesetz) nach dem 31. März 1976 beginnen, § 1 Nr. 7 mit Wirkung vom 1. August 1975, § 1 Nr. 1 Buchstabe c sowie § 1 Nr. 2, 5, 6 und 8 am 1. April 1976,
+
+3. Artikel 20 und Artikel 21 am 1. Dezember 1975,
+
+4. Artikel 3 § 1 Nr. 5, Artikel 10 § 1 Nr. 18, Artikel 17 § 1 Nr. 5 bis 7, §§ 2, 3 und 5, Artikel 24, und Artikel 44 Nr. 1 am 1. Juli 1976,
+
+5. Artikel 35 und Artikel 44 Nr. 2 am 1. Januar 1977,
+
+6. Artikel 38 § 2 und Artikel 39 § 2 am 1. Januar 1981.

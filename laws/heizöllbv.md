@@ -22,17 +22,17 @@ für leichtes Heizöl
 
 (1) Durch Verordnung werden bestimmt
 
-1.
+1. die Menge, bis zu der leichtes Heizöl geliefert und bezogen werden darf, in einem Vomhundertsatz einer Referenzmenge, die nach den §§ 4 bis 7 zu ermitteln ist,
 
-2.
+2. die Verwendungszwecke und Zeiträume, für die Liefer- und Bezugsbeschränkungen gelten.
 
 (2) In der Verordnung kann für den überwiegenden Teil der Abnehmer ein Regelvomhundertsatz festgelegt und bestimmt werden, daß insbesondere für folgende Verwendungszwecke höhere Vomhundertsätze gelten:
 
-1.
+1. Verwendung von leichtem Heizöl in Krankenhäusern, Heimen für Behinderte oder für Klein- und Kleinstkinder, in Kindergärten sowie Alten- und Pflegeheimen.
 
-2.
+2. Verwendung von leichtem Heizöl in einer Heizölverbrauchsanlage ausschließlich zu öffentlichen, gewerblichen, landwirtschaftlichen oder freiberuflichen Zwecken. Die Beheizung von Räumen fällt nur dann darunter, wenn zur Erfüllung dieser Zwecke eine bestimmte Mindesttemperatur in den Räumen erforderlich ist, die bei Belieferung nach dem Regelvomhundertsatz nicht erreicht werden kann.
 
-3.
+3. Verwendung von leichtem Heizöl in einer Heizölverbrauchsanlage teils zu einem in Nummer 2 bezeichneten Zweck, teils zur sonstigen Raumheizung und Warmwasserbereitung.
 
 (3) Werden nach Absatz 2 für bestimmte Verwendungszwecke höhere Vomhundertsätze festgesetzt oder bleiben sie von Liefer- und Bezugsbeschränkungen nach Absatz 1 ausgenommen, so stellen die zuständigen Stellen den Abnehmern für Heizölverbrauchsanlagen, die diesen Zwecken dienen, auf Antrag eine Bescheinigung über den Verwendungszweck der Heizölverbrauchsanlage nach dem Muster der Anlage 1 aus. Der Abnehmer hat nachzuweisen, daß seine Anlage einem der in Absatz 2 genannten Verwendungszwecke dient. Bei Zugehörigkeit des Abnehmers zu einer Industrie- und Handelskammer, Handwerkskammer oder Landwirtschaftskammer kann dieser Nachweis durch eine Bestätigung der zuständigen Kammer erbracht werden, daß die Anlage einem der in Absatz 2 genannten Zwecke dient.
 
@@ -102,17 +102,11 @@ Heizölhändler
 
 (1) Heizölhändler haben, bevor sie Abnehmer beliefern, deren Bezugsrecht auf folgende Weise festzustellen:
 
-1.
+1. Zunächst stellen sie die Referenzmenge des Abnehmers fest.a)Für die Feststellung der Referenzmenge nach § 4 Abs. 1 ziehen sie ihre Lieferaufzeichnungen über die Belieferung des Abnehmers während der Referenzzeit heran. Hierbei dürfen nur Lieferungen berücksichtigt werden, bei denen der Name des Abnehmers und die Lieferanschrift mit dem Namen und der Anschrift, an die geliefert werden soll, übereinstimmen, außer wenn der Abnehmer eine Bescheinigung nach dem Muster der Anlage 4 darüber vorlegt, daß er die Referenzmenge eines früheren Abnehmers übernommen hat. b)Hat der Abnehmer leichtes Heizöl während der Referenzzeit bei anderen Heizölhändlern bezogen, so ist diese Menge auf Grund einer Bescheinigung nach dem Muster der Anlage 3 festzustellen, die der Abnehmer vorzulegen hat. c)Auch Referenzmengen, die nach den §§ 5 und 6 ermittelt worden sind, sind an Hand von Bescheinigungen nach dem Muster der Anlage 3 festzustellen. Für die Feststellung der Referenzmenge nach § 4 Abs. 1 ziehen sie ihre Lieferaufzeichnungen über die Belieferung des Abnehmers während der Referenzzeit heran. Hierbei dürfen nur Lieferungen berücksichtigt werden, bei denen der Name des Abnehmers und die Lieferanschrift mit dem Namen und der Anschrift, an die geliefert werden soll, übereinstimmen, außer wenn der Abnehmer eine Bescheinigung nach dem Muster der Anlage 4 darüber vorlegt, daß er die Referenzmenge eines früheren Abnehmers übernommen hat. Hat der Abnehmer leichtes Heizöl während der Referenzzeit bei anderen Heizölhändlern bezogen, so ist diese Menge auf Grund einer Bescheinigung nach dem Muster der Anlage 3 festzustellen, die der Abnehmer vorzulegen hat. Auch Referenzmengen, die nach den §§ 5 und 6 ermittelt worden sind, sind an Hand von Bescheinigungen nach dem Muster der Anlage 3 festzustellen.
 
-a)
+2. Nach der Referenzmenge des Abnehmers errechnet der Heizölhändler, welche Menge leichten Heizöls dem in einer Verordnung nach § 2 bestimmten Vomhundertsatz entspricht. Dabei darf ein höherer als der Regelvomhundertsatz nur angewandt werden, wenn der Abnehmer eine Bescheinigung nach dem Muster der Anlage 1 vorlegt.
 
-b)
-
-c)
-
-2.
-
-3.
+3. Über ein zusätzliches Bezugsrecht nach § 3 muß der Heizölhändler sich eine Bescheinigung nach dem Muster der Anlage 2 vorlegen lassen.
 
 (2) Sind nach Absatz 1 Bescheinigungen vorzulegen, dann dürfen Heizölhändler nur gegen Vorlage der Originale dieser Bescheinigungen liefern. Die auf Grund von Bescheinigungen nach Anlage 2 oder 3 gelieferten Mengen haben sie darin einzutragen.
 
@@ -178,19 +172,19 @@ Heizölhändler
 
 Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 1 des Energiesicherungsgesetzes 1975 handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 1 Abs. 1 leichtes Heizöl liefert oder bezieht,
 
-2.
+2. gegenüber den zuständigen Stellen nach § 5 Abs. 5 Satz 3 oder nach § 6 Abs. 3 Satz 4 zur Ermittlung der Referenzmenge nicht richtige oder nicht vollständige Angaben macht oder nach § 3 Abs. 3 Satz 1 zur Begründung eines besonderen Bedarfs oder nach § 5 Abs. 5 Satz 2, § 6 Abs. 3 Satz 2 oder § 7 Abs. 1 Satz 3 zur Ermittlung der Referenzmenge nicht richtige Angaben macht,
 
-3.
+3. entgegen § 10 Abs. 2 Satz 1 ohne Vorlage des Originals eine Bescheinigung liefert,
 
-4.
+4. entgegen § 10 Abs. 2 Satz 2, § 11 oder § 12 Abs. 1 Satz 2 oder Abs. 2 Angaben nicht, nicht richtig oder nicht vollständig einträgt,
 
-5.
+5. entgegen § 12 Abs. 1 Satz 1 eine Bescheinigung nicht richtig oder nicht unverzüglich ausstellt,
 
-6.
+6. entgegen § 12 Abs. 4 eine Bescheinigung mehr als einmal ausstellt oder
 
-7.
+7. entgegen § 17 Abs. 1 oder 2 Aufzeichnungen nicht, nicht richtig oder nicht vollständig führt oder nicht aufbewahrt.
 
 ### § 19 — Berlin-Klausel
 
@@ -203,24 +197,16 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung
 
 (2) Voraussetzung für die Anwendung dieser Verordnung mit Ausnahme der §§ 16 und 17 ist
 
-1.
+1. die Feststellung der Bundesregierung, daß die Energieversorgung im Sinne des § 1 Abs. 1 oder § 2 Abs. 3 des Energiesicherungsgesetzes 1975 gefährdet oder gestört ist,
 
-2.
+2. der Erlaß einer Verordnung nach dem Energiesicherungsgesetz 1975, die diese Verordnung ergänzt.
 
 (3) Beginnt die Referenzzeit vor dem 1. Mai 1983, so beträgt sie abweichend von § 4 Abs. 2 24 Monate. Die Referenzmenge beträgt in diesem Fall abweichend von § 4 Abs. 1 Satz 2 die Hälfte der Menge, die in der Referenzzeit für die Heizölverbrauchsanlage des Abnehmers bezogen worden ist. Soweit in anderen Vorschriften auf § 4 Abs. 1 Satz 2 und Abs. 2 verwiesen wird, treten an die Stelle dieser Vorschriften bis zum 1. Mai 1983 die Sätze 1 und 2.
 
 ### Anlage 1
 
-Fundstelle des Originaltextes: BGBl. I 1982, 541
-
 ### Anlage 2
-
-Fundstelle des Originaltextes: BGBl. I 1982, 542
 
 ### Anlage 3
 
-Fundstelle des Originaltextes: BGBl. I 1982, 543
-
 ### Anlage 4
-
-Fundstelle des Originaltextes: BGBl. I 1982, 544

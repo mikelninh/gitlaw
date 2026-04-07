@@ -14,17 +14,17 @@
 
 (2) Vertriebener ist auch, wer als deutscher Staatsangehöriger oder deutscher Volkszugehöriger
 
-1.
+1. nach dem 30. Januar 1933 die in Absatz 1 genannten Gebiete verlassen und seinen Wohnsitz außerhalb des Deutschen Reiches genommen hat, weil aus Gründen politischer Gegnerschaft gegen den Nationalsozialismus oder aus Gründen der Rasse, des Glaubens oder der Weltanschauung nationalsozialistische Gewaltmaßnahmen gegen ihn verübt worden sind oder ihm drohten,
 
-2.
+2. auf Grund der während des zweiten Weltkrieges geschlossenen zwischenstaatlichen Verträge aus außerdeutschen Gebieten oder während des gleichen Zeitraumes auf Grund von Maßnahmen deutscher Dienststellen aus den von der deutschen Wehrmacht besetzten Gebieten umgesiedelt worden ist (Umsiedler),
 
-3.
+3. nach Abschluss der allgemeinen Vertreibungsmaßnahmen vor dem 1. Juli 1990 oder danach im Wege des Aufnahmeverfahrens vor dem 1. Januar 1993 die ehemals unter fremder Verwaltung stehenden deutschen Ostgebiete, Danzig, Estland, Lettland, Litauen, die ehemalige Sowjetunion, Polen, die Tschechoslowakei, Ungarn, Rumänien, Bulgarien, Jugoslawien, Albanien oder China verlassen hat oder verlässt, es sei denn, dass er, ohne aus diesen Gebieten vertrieben und bis zum 31. März 1952 dorthin zurückgekehrt zu sein, nach dem 8. Mai 1945 einen Wohnsitz in diesen Gebieten begründet hat (Aussiedler),
 
-4.
+4. ohne einen Wohnsitz gehabt zu haben, sein Gewerbe oder seinen Beruf ständig in den in Absatz 1 genannten Gebieten ausgeübt hat und diese Tätigkeit infolge Vertreibung aufgeben musste,
 
-5.
+5. seinen Wohnsitz in den in Absatz 1 genannten Gebieten gemäß § 10 des Bürgerlichen Gesetzbuchs durch Eheschließung verloren, aber seinen ständigen Aufenthalt dort beibehalten hatte und diesen infolge Vertreibung aufgeben musste,
 
-6.
+6. in den in Absatz 1 genannten Gebieten als Kind einer unter Nummer 5 fallenden Ehefrau gemäß § 11 des Bürgerlichen Gesetzbuchs keinen Wohnsitz, aber einen ständigen Aufenthalt hatte und diesen infolge Vertreibung aufgeben musste.
 
 (3) Als Vertriebener gilt auch, wer, ohne selbst deutscher Staatsangehöriger oder deutscher Volkszugehöriger zu sein, als Ehegatte eines Vertriebenen seinen Wohnsitz oder in den Fällen des Absatzes 2 Nr. 5 als Ehegatte eines deutschen Staatsangehörigen oder deutschen Volkszugehörigen den ständigen Aufenthalt in den in Absatz 1 genannten Gebieten verloren hat.
 
@@ -42,23 +42,23 @@
 
 (2) Von der Anerkennung als Sowjetzonenflüchtling ist ausgeschlossen,
 
-1.
+1. wer dem in der sowjetischen Besatzungszone und im sowjetisch besetzten Sektor von Berlin herrschenden System erheblich Vorschub geleistet hat,
 
-2.
+2. wer während der Herrschaft des Nationalsozialismus oder in der sowjetischen Besatzungszone oder im sowjetisch besetzten Sektor von Berlin durch sein Verhalten gegen die Grundsätze der Menschlichkeit oder Rechtsstaatlichkeit verstoßen hat,
 
-3.
+3. wer die freiheitliche demokratische Grundordnung der Bundesrepublik Deutschland einschließlich des Landes Berlin bekämpft hat.
 
 (3) § 1 Abs. 1 Satz 2 und 3, Abs. 2 Nr. 4 bis 6, Abs. 3 und 4 ist sinngemäß anzuwenden.
 
 ### § 4 — Spätaussiedler
 
-(1) Spätaussiedler ist in der Regel ein deutscher Volkszugehöriger, der die Republiken der ehemaligen Sowjetunion nach dem 31. Dezember 1992 im Wege des Aufnahmeverfahrens verlassen und innerhalb von sechs Monaten im Geltungsbereich des Gesetzes seinen ständigen Aufenthalt genommen hat, wenn er zuvor seinen Wohnsitz in den Aussiedlungsgebieten hatte.
+(1) Spätaussiedler ist in der Regel ein deutscher Volkszugehöriger, der die Republiken der ehemaligen Sowjetunion nach dem 31. Dezember 1992 im Wege des Aufnahmeverfahrens verlassen und innerhalb von sechs Monaten im Geltungsbereich des Gesetzes seinen ständigen Aufenthalt genommen hat, wenn er zuvor
 
-1.
+1. seit dem 8. Mai 1945 oder
 
-2.
+2. nach seiner Vertreibung oder der Vertreibung eines Elternteils seit dem 31. März 1952 oder
 
-3.
+3. seit seiner Geburt, wenn er vor dem 1. Januar 1993 geboren ist und von einer Person abstammt, die die Stichtagsvoraussetzung des 8. Mai 1945 nach Nummer 1 oder des 31. März 1952 nach Nummer 2 erfüllt, es sei denn, dass Eltern oder Voreltern ihren Wohnsitz erst nach dem 31. März 1952 in die Aussiedlungsgebiete verlegt haben,
 
 (2) Spätaussiedler ist auch ein deutscher Volkszugehöriger aus den Aussiedlungsgebieten des § 1 Abs. 2 Nr. 3 außer den in Absatz 1 genannten Staaten, der die übrigen Voraussetzungen des Absatzes 1 erfüllt und glaubhaft macht, dass er am 31. Dezember 1992 oder danach Benachteiligungen oder Nachwirkungen früherer Benachteiligungen auf Grund deutscher Volkszugehörigkeit unterlag.
 
@@ -70,31 +70,9 @@
 
 Die Rechtsstellung nach § 4 Abs. 1, 2 oder Abs. 3 Satz 2 erwirbt nicht, wer
 
-1.
+1. a)in den Aussiedlungsgebieten der nationalsozialistischen oder einer anderen Gewaltherrschaft erheblich Vorschub geleistet hat, b)in den Aussiedlungsgebieten durch sein Verhalten gegen die Grundsätze der Menschlichkeit oder Rechtsstaatlichkeit verstoßen hat, c)in den Aussiedlungsgebieten in schwerwiegendem Maße seine Stellung zum eigenen Vorteil oder zum Nachteil anderer missbraucht hat, d)eine rechtswidrige Tat begangen hat, die im Inland als Verbrechen im Sinne des § 12 Abs. 1 des Strafgesetzbuchs anzusehen wäre, es sei denn, die Tat wäre nach deutschem Recht verjährt oder eine Verurteilung deswegen nach dem Bundeszentralregistergesetz zu tilgen, oder e)nach einer durch tatsächliche Anhaltspunkte gerechtfertigten Schlussfolgerungaa)einer Vereinigung angehört oder angehört hat, die den Terrorismus unterstützt, oder eine derartige Vereinigung unterstützt oder unterstützt hat, bb)bei der Verfolgung politischer Ziele sich an Gewalttätigkeiten beteiligt oder öffentlich zur Gewaltanwendung aufgerufen oder mit Gewaltanwendung gedroht hat oder cc)Bestrebungen verfolgt oder unterstützt oder verfolgt oder unterstützt hat, die gegen die freiheitliche demokratische Grundordnung, den Bestand oder die Sicherheit des Bundes oder eines Landes oder den Gedanken der Völkerverständigung gerichtet sind, es sei denn, er macht glaubhaft, dass er sich von den früheren Handlungen abgewandt hat, oder in den Aussiedlungsgebieten der nationalsozialistischen oder einer anderen Gewaltherrschaft erheblich Vorschub geleistet hat, in den Aussiedlungsgebieten durch sein Verhalten gegen die Grundsätze der Menschlichkeit oder Rechtsstaatlichkeit verstoßen hat, in den Aussiedlungsgebieten in schwerwiegendem Maße seine Stellung zum eigenen Vorteil oder zum Nachteil anderer missbraucht hat, eine rechtswidrige Tat begangen hat, die im Inland als Verbrechen im Sinne des § 12 Abs. 1 des Strafgesetzbuchs anzusehen wäre, es sei denn, die Tat wäre nach deutschem Recht verjährt oder eine Verurteilung deswegen nach dem Bundeszentralregistergesetz zu tilgen, oder nach einer durch tatsächliche Anhaltspunkte gerechtfertigten Schlussfolgerungaa)einer Vereinigung angehört oder angehört hat, die den Terrorismus unterstützt, oder eine derartige Vereinigung unterstützt oder unterstützt hat, bb)bei der Verfolgung politischer Ziele sich an Gewalttätigkeiten beteiligt oder öffentlich zur Gewaltanwendung aufgerufen oder mit Gewaltanwendung gedroht hat oder cc)Bestrebungen verfolgt oder unterstützt oder verfolgt oder unterstützt hat, die gegen die freiheitliche demokratische Grundordnung, den Bestand oder die Sicherheit des Bundes oder eines Landes oder den Gedanken der Völkerverständigung gerichtet sind, einer Vereinigung angehört oder angehört hat, die den Terrorismus unterstützt, oder eine derartige Vereinigung unterstützt oder unterstützt hat, bei der Verfolgung politischer Ziele sich an Gewalttätigkeiten beteiligt oder öffentlich zur Gewaltanwendung aufgerufen oder mit Gewaltanwendung gedroht hat oder Bestrebungen verfolgt oder unterstützt oder verfolgt oder unterstützt hat, die gegen die freiheitliche demokratische Grundordnung, den Bestand oder die Sicherheit des Bundes oder eines Landes oder den Gedanken der Völkerverständigung gerichtet sind, es sei denn, er macht glaubhaft, dass er sich von den früheren Handlungen abgewandt hat, oder
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-aa)
-
-bb)
-
-cc)
-
-2.
-
-a)
-
-b)
-
-c)
+2. a)die Aussiedlungsgebiete wegen einer drohenden strafrechtlichen Verfolgung auf Grund eines kriminellen Delikts verlassen oder b)in den Aussiedlungsgebieten eine Funktion ausgeübt hat, die für die Aufrechterhaltung des kommunistischen Herrschaftssystems gewöhnlich als bedeutsam galt oder auf Grund der Umstände des Einzelfalles war, oder c)wer für mindestens drei Jahre mit dem Inhaber einer Funktion im Sinne von Buchstabe b in häuslicher Gemeinschaft gelebt hat. die Aussiedlungsgebiete wegen einer drohenden strafrechtlichen Verfolgung auf Grund eines kriminellen Delikts verlassen oder in den Aussiedlungsgebieten eine Funktion ausgeübt hat, die für die Aufrechterhaltung des kommunistischen Herrschaftssystems gewöhnlich als bedeutsam galt oder auf Grund der Umstände des Einzelfalles war, oder wer für mindestens drei Jahre mit dem Inhaber einer Funktion im Sinne von Buchstabe b in häuslicher Gemeinschaft gelebt hat.
 
 ### § 6 — Volkszugehörigkeit
 
@@ -130,21 +108,21 @@ c)
 
 (1) Spätaussiedler gemäß § 4 Abs. 1 oder 2 sowie deren Ehegatten oder Abkömmlinge, welche die Voraussetzungen des § 7 Abs. 2 Satz 1 erfüllen, haben Anspruch auf kostenlose Teilnahme an einem Integrationskurs, der einen Basis- und einen Aufbausprachkurs von gleicher Dauer zur Erlangung ausreichender Sprachkenntnisse sowie einen Orientierungskurs zur Vermittlung von Kenntnissen der Rechtsordnung, der Kultur und der Geschichte in Deutschland umfasst. Ausgenommen sind Kinder, Jugendliche und junge Erwachsene, die eine schulische Ausbildung aufnehmen oder ihre bisherige Schullaufbahn in der Bundesrepublik Deutschland fortsetzen. Der Sprachkurs dauert bei ganztägigem Unterricht (Regelfall) längstens sechs Monate. Soweit erforderlich soll der Integrationskurs durch eine sozialpädagogische Betreuung sowie durch Kinderbetreuungsangebote ergänzt werden. Spätaussiedlern sowie deren Ehegatten oder Abkömmlingen im Sinne des § 7 Abs. 2 Satz 1, denen nach § 2 Abs. 1 des Gesetzes über die Festlegung eines vorläufigen Wohnortes für Spätaussiedler ein Wohnort zugewiesen wurde, wird, solange die Entscheidung über die Zuweisung eines vorläufigen Wohnortes nicht nach § 2 Abs. 4 des Gesetzes über die Festlegung eines vorläufigen Wohnortes für Spätaussiedler gegenstandslos geworden ist, ein Fahrkostenzuschuss zur Teilnahme an einem Integrationskurs gewährt, wenn ein Kursangebot nicht zumutbar erreichbar ist. Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, nähere Einzelheiten des Integrationskurses, insbesondere die Grundstruktur, die Dauer, die Lerninhalte und die Durchführung der Kurse, die Vorgaben bezüglich der Auswahl und Zulassung der Kursträger sowie die Rahmenbedingungen für die Teilnahme durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zu regeln.
 
-(2) Spätaussiedler können erhalten Das Nähere bestimmt der Bundesminister des Innern, für Bau und Heimat durch Richtlinien.
+(2) Spätaussiedler können erhalten
 
-1.
+1. eine einmalige Überbrückungshilfe des Bundes und
 
-2.
+2. einen Ausgleich für Kosten der Aussiedlung.
 
-(3) Spätaussiedlern aus der ehemaligen UdSSR, Estland, Lettland oder Litauen, die vor dem 1. April 1956 geboren sind, gewährt das Bundesverwaltungsamt zum Ausgleich für den erlittenen Gewahrsam auf Antrag eine pauschale Eingliederungshilfe in Höhe von 2 046 Euro. Sie beträgt bei Personen im Sinne des Satzes 1, die vor dem 1. Januar 1946 geboren sind, 3 068 Euro. Der Antrag auf pauschale Eingliederungshilfe kann nur bis zum Ablauf von drei Jahren nach Ablauf des Monats, in dem die Bescheinigung nach § 15 Abs. 1 ausgestellt wurde, gestellt werden. Die Frist endet frühestens am 31. Dezember 2009.
+(3) Spätaussiedlern aus der ehemaligen UdSSR, Estland, Lettland oder Litauen, die vor dem 1. April 1956 geboren sind, gewährt das Bundesverwaltungsamt zum Ausgleich für den erlittenen Gewahrsam auf Antrag eine pauschale Eingliederungshilfe in Höhe von 2 046 Euro. Sie beträgt bei Personen im Sinne des Satzes 1, die vor dem 1. Januar 1946 geboren sind, 3 068 Euro. Der Antrag auf pauschale Eingliederungshilfe kann nur bis zum Ablauf von drei Jahren nach Ablauf des Monats, in dem die Bescheinigung nach § 15 Abs. 1 ausgestellt wurde, gestellt werden. Die Frist endet frühestens am 31. Dezember 2009.
 
 (4) Weitere Integrationshilfen wie Ergänzungsförderung für Jugendliche und ergänzende Sprach- und sozialpädagogische Förderung können gewährt werden. Weitere Integrationshilfen im Sinne von Satz 1 können Personen gemäß Absatz 1 und weiteren Familienangehörigen des Spätaussiedlers gewährt werden, die gemäß § 8 Absatz 2 gemeinsam mit diesem eintreffen.
 
 (5) Das Bundesamt für Migration und Flüchtlinge ist zuständig für
 
-a)
+a) die Entwicklung von Grundstruktur und Lerninhalten des Basissprachkurses, des Aufbaukurses und des Orientierungskurses nach Absatz 1 und
 
-b)
+b) die Durchführung der Maßnahmen nach den Absätzen 1 und 4.
 
 ### § 10 — Prüfungen und Befähigungsnachweise
 
@@ -156,9 +134,9 @@ b)
 
 (4) Voraussetzung für die Ausstellung der Bescheinigung gemäß Absatz 3 ist die glaubhafte Bestätigung
 
-1.
+1. durch schriftliche, an Eides statt abzugebende Erklärung einer Person, die auf Grund ihrer früheren dienstlichen Stellung im Bezirk des Antragstellers von der Ablegung der Prüfung oder dem Erwerb des Befähigungsnachweises Kenntnis hat, oder
 
-2.
+2. durch schriftliche, an Eides statt abzugebende Erklärungen von zwei Personen, die von der Ablegung der Prüfung oder dem Erwerb des Befähigungsnachweises eigene Kenntnisse haben.
 
 (5) Die Bescheinigung gemäß Absatz 3 hat im Rechtsverkehr dieselbe Wirkung wie die Urkunde über die abgelegte Prüfung oder den erworbenen Befähigungsnachweis.
 
@@ -218,13 +196,13 @@ Die Rechtsstellung der Spätaussiedler in der gesetzlichen Rentenversicherung un
 
 Für die Verfahren nach § 15 gilt § 29 Abs. 1 und 1a entsprechend. Die in diesen Verfahren gespeicherten Daten dürfen auf Ersuchen zur Durchführung von Verfahren zur Gewährung von Leistungen nach diesem Gesetz sowie zur Feststellung der Rechtsstellung als Deutscher nach Artikel 116 Abs. 1 des Grundgesetzes übermittelt und innerhalb derselben Behörde weitergegeben werden, wenn dies erforderlich ist. Wird eine ganz oder teilweise ablehnende Entscheidung nach § 15 getroffen oder eine Entscheidung nach § 15 ganz oder teilweise zurückgenommen oder widerrufen, werden alle Stellen, die Personen im Sinne der §§ 1 bis 4 Rechte einräumen, Vergünstigungen oder Leistungen gewähren, und die Staatsangehörigkeits- sowie Pass- und Personalausweisbehörde von der Entscheidung unterrichtet. Dabei dürfen mitgeteilt werden:
 
-1.
+1. Namen einschließlich früherer Namen,
 
-2.
+2. Tag und Ort der Geburt,
 
-3.
+3. Anschrift,
 
-4.
+4. Tag der Entscheidung und Eintritt der Rechtsbeständigkeit.
 
 ### § 17 — Datenaufbewahrung
 
@@ -260,29 +238,29 @@ Das Bundesverwaltungsamt führt das Aufnahmeverfahren durch und erteilt den Aufn
 
 ### § 29 — Datenschutz
 
-(1) Das Bundesverwaltungsamt und die im Aufnahmeverfahren mitwirkenden Behörden dürfen, soweit es zur Feststellung der Voraussetzungen nach § 27 erforderlich ist, Unter den gleichen Voraussetzungen dürfen sie ohne Mitwirkung des Betroffenen bei anderen öffentlichen und nichtöffentlichen Stellen auch außerhalb des Geltungsbereichs dieses Gesetzes personenbezogene Daten erheben, soweit die nach Satz 1 erhobenen Daten eine Entscheidung über den Antrag des Betroffenen nicht ermöglichen. Öffentliche Stellen sind zu diesem Zwecke zu Auskünften verpflichtet. Die Nutzung und Übermittlung nach Satz 1 Nr. 1 und nach den Sätzen 2 und 3 unterbleiben, wenn besondere gesetzliche Verwendungsregelungen oder überwiegende schutzwürdige Interessen des Betroffenen oder Dritter entgegenstehen.
+(1) Das Bundesverwaltungsamt und die im Aufnahmeverfahren mitwirkenden Behörden dürfen, soweit es zur Feststellung der Voraussetzungen nach § 27 erforderlich ist,
 
-1.
+1. bei ihnen vorhandene personenbezogene Daten nutzen, die über die Spätaussiedlereigenschaft Aufschluss geben, auch wenn sie für andere Zwecke erhoben oder gespeichert worden sind,
 
-2.
+2. personenbezogene Daten beim Betroffenen erheben.
 
-(1a) Zur Feststellung von Ausschlussgründen nach § 5 Nummer 1 Buchstabe d und e darf das Bundesverwaltungsamt folgende Daten des Spätaussiedlers, seines Ehegatten oder seiner Abkömmlinge, die in den Aufnahmebescheid einbezogen werden sollen, an den Bundesnachrichtendienst, das Bundesamt für Verfassungsschutz, den Militärischen Abschirmdienst, die Bundespolizei, das Bundeskriminalamt und das Zollkriminalamt übermitteln: Soweit Anhaltspunkte für Ausschlussgründe nach § 5 Nummer 1 Buchstabe d oder e vorliegen, teilen die nach Satz 1 beteiligten Behörden dies dem Bundesverwaltungsamt nach Maßgabe der insoweit bestehenden besonderen gesetzlichen Verwendungsregelungen innerhalb von zehn Tagen nach Übermittlung der Daten nach Satz 1 mit. Hält die jeweilige Sicherheitsbehörde eine weitere Überprüfung der Ausschlussgründe für erforderlich, soll diese insgesamt innerhalb von drei Wochen nach Übermittlung der Daten nach Satz 1 abgeschlossen sein.
+(1a) Zur Feststellung von Ausschlussgründen nach § 5 Nummer 1 Buchstabe d und e darf das Bundesverwaltungsamt folgende Daten des Spätaussiedlers, seines Ehegatten oder seiner Abkömmlinge, die in den Aufnahmebescheid einbezogen werden sollen, an den Bundesnachrichtendienst, das Bundesamt für Verfassungsschutz, den Militärischen Abschirmdienst, die Bundespolizei, das Bundeskriminalamt und das Zollkriminalamt übermitteln:
 
-1.
+1. den Familiennamen,
 
-2.
+2. Bestandteile des Namens, die das deutsche Recht nicht vorsieht,
 
-3.
+3. die Vornamen,
 
-4.
+4. frühere Namen,
 
-5.
+5. das Geschlecht,
 
-6.
+6. das Geburtsdatum,
 
-7.
+7. den Geburtsort und
 
-8.
+8. die letzte Anschrift im Aussiedlungsgebiet.
 
 (2) Die im Aufnahme- und Verteilungsverfahren gesammelten Daten dürfen, soweit gesetzlich nichts anderes bestimmt ist, nur für Zwecke dieser Verfahren einschließlich der vorläufigen Unterbringung durch die Länder, für Verfahren nach § 15 und zur Feststellung der Rechtsstellung als Deutscher nach Artikel 116 Abs. 1 des Grundgesetzes sowie für Verfahren zur Gewährung von Leistungen nach diesem Gesetz genutzt und übermittelt werden.
 
@@ -294,17 +272,17 @@ Das Bundesverwaltungsamt führt das Aufnahmeverfahren durch und erteilt den Aufn
 
 ### § 94 — Familiennamen und Vornamen
 
-(1) Vertriebene und Spätaussiedler, deren Ehegatten und Abkömmlinge, die Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes sind, können durch Erklärung gegenüber dem Bundesverwaltungsamt im Verteilungsverfahren oder dem Standesamt Wird in den Fällen der Nummern 3 bis 5 der Familienname als Ehename geführt, so kann die Erklärung während des Bestehens der Ehe nur von beiden Ehegatten abgegeben werden. Auf den Geburtsnamen eines Abkömmlings, welcher das fünfte Lebensjahr vollendet hat, erstreckt sich die Namensänderung nur dann, wenn er sich der Namensänderung durch Erklärung gegenüber dem Bundesverwaltungsamt im Verteilungsverfahren oder dem Standesamt anschließt. Ein in der Geschäftsfähigkeit beschränktes Kind, welches das 14. Lebensjahr vollendet hat, kann die Erklärung nur selbst abgeben; es bedarf hierzu der Zustimmung seines gesetzlichen Vertreters.
+(1) Vertriebene und Spätaussiedler, deren Ehegatten und Abkömmlinge, die Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes sind, können durch Erklärung gegenüber dem Bundesverwaltungsamt im Verteilungsverfahren oder dem Standesamt
 
-1.
+1. Bestandteile des Namens ablegen, die das deutsche Recht nicht vorsieht,
 
-2.
+2. die ursprüngliche Form eines nach dem Geschlecht oder dem Verwandtschaftsverhältnis abgewandelten Namens annehmen,
 
-3.
+3. eine deutschsprachige Form ihres Vor- oder Familiennamens annehmen; gibt es eine solche Form des Vornamens nicht, so können sie neue Vornamen annehmen,
 
-4.
+4. im Falle der Führung eines gemeinsamen Familiennamens durch Ehegatten einen Ehenamen nach § 1355 Absatz 1 bis 3 des Bürgerlichen Gesetzbuchs bestimmen und eine Erklärung nach § 1355a Absatz 1 des Bürgerlichen Gesetzbuchs abgeben,
 
-5.
+5. den Familiennamen in einer deutschen Übersetzung annehmen, sofern die Übersetzung einen im deutschen Sprachraum in Betracht kommenden Familiennamen ergibt.
 
 (2) Die Erklärungen nach Absatz 1 müssen öffentlich beglaubigt oder beurkundet werden, wenn sie nicht bei der Eheschließung gegenüber einem deutschen Standesamt abgegeben werden. Im Verteilungsverfahren kann auch das Bundesverwaltungsamt die Erklärungen öffentlich beglaubigen oder beurkunden. Gebühren und Auslagen werden nicht erhoben.
 

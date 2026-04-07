@@ -21,4 +21,8 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar
 
 ### § 3
 
-(1) Diese Verordnung tritt an dem Tage in Kraft, an dem die Satzung der "Internationalen Studienzentrale für die Erhaltung und Restaurierung von Kulturgut" für die Bundesrepublik Deutschland in Kraft tritt.(2) Diese Verordnung tritt an dem Tage außer Kraft, an dem ein Austritt der Bundesrepublik Deutschland aus der Studienzentrale nach Artikel 14 ihrer Satzung wirksam geworden ist.(3) Der Tag des Inkrafttretens und des Außerkrafttretens ist im Bundesgesetzblatt bekanntzugeben.
+(1) Diese Verordnung tritt an dem Tage in Kraft, an dem die Satzung der "Internationalen Studienzentrale für die Erhaltung und Restaurierung von Kulturgut" für die Bundesrepublik Deutschland in Kraft tritt.
+
+(2) Diese Verordnung tritt an dem Tage außer Kraft, an dem ein Austritt der Bundesrepublik Deutschland aus der Studienzentrale nach Artikel 14 ihrer Satzung wirksam geworden ist.
+
+(3) Der Tag des Inkrafttretens und des Außerkrafttretens ist im Bundesgesetzblatt bekanntzugeben.

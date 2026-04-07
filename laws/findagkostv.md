@@ -8,7 +8,11 @@
 
 ### Eingangsformel
 
-Auf Grund -des § 14 Abs. 2 Satz 1 und 3 und Abs. 3 des Finanzdienstleistungsaufsichtsgesetzes vom 22. April 2002 (BGBl. I S. 1310) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) und-des § 16 Satz 2 und 3 des Finanzdienstleistungsaufsichtsgesetzesverordnet das Bundesministerium der Finanzen:
+Auf Grund
+
+- des § 14 Abs. 2 Satz 1 und 3 und Abs. 3 des Finanzdienstleistungsaufsichtsgesetzes vom 22. April 2002 (BGBl. I S. 1310) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) und
+
+- des § 16 Satz 2 und 3 des Finanzdienstleistungsaufsichtsgesetzes
 
 ## Abschnitt 1: (weggefallen)
 
@@ -22,7 +26,9 @@ Auf Grund -des § 14 Abs. 2 Satz 1 und 3 und Abs. 3 des Finanzdienstleistungsauf
 
 ### § 13 — Übergangsregelungen
 
-(1) In den Fällen, in denen aufgrund der Übergangsvorschriften der §§ 345 bis 350, 355 des Kapitalanlagegesetzbuches weiterhin Amtshandlungen auf Grundlage des Investmentgesetzes erforderlich sind, sind die Gebührennummern 4. bis 4.1.3.7 der Anlage (zu § 2 Absatz 1) Gebührenverzeichnis in der bis zum 21. Juli 2013 geltenden Fassung weiterhin anzuwenden.(2) Die Gebührennummern 4.3 bis 4.4.3 der Anlage (Gebührenverzeichnis) finden auch auf die am 4. September 2013 anhängigen Verwaltungsverfahren Anwendung.
+(1) In den Fällen, in denen aufgrund der Übergangsvorschriften der §§ 345 bis 350, 355 des Kapitalanlagegesetzbuches weiterhin Amtshandlungen auf Grundlage des Investmentgesetzes erforderlich sind, sind die Gebührennummern 4. bis 4.1.3.7 der Anlage (zu § 2 Absatz 1) Gebührenverzeichnis in der bis zum 21. Juli 2013 geltenden Fassung weiterhin anzuwenden.
+
+(2) Die Gebührennummern 4.3 bis 4.4.3 der Anlage (Gebührenverzeichnis) finden auch auf die am 4. September 2013 anhängigen Verwaltungsverfahren Anwendung.
 
 ### § 13a — (weggefallen)
 

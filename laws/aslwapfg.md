@@ -8,23 +8,15 @@
 
 ### Eingangsformel
 
-Die Umstellung der Agrar- und Ernährungswirtschaft der Deutschen Demokratischen Republik auf die Bedingungen der sozialen Marktwirtschaft im Rahmen der Währungs-, Wirtschafts- und Sozialunion mit der Bundesrepublik Deutschland erfordert einen grundlegenden Strukturwandel, der durch geeignete Maßnahmen bei Wahrung der Chancengleichheit zu fördern ist. Bei der Förderung sind die Marktentwicklung sowie die Ziele und Erfordernisse der Raumordnung, des Umweltschutzes und des Tierschutzes zu beachten. Dazu hat die Volkskammer folgendes Gesetz beschlossen:
-
 ### § 1 — Förderungsmaßnahmen
 
-(1) Im Sinne des Artikels 15 des Vertrages über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Deutschen Demokratischen Republik und der Bundesrepublik Deutschland können gefördert werden: 4.
+(1) Im Sinne des Artikels 15 des Vertrages über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Deutschen Demokratischen Republik und der Bundesrepublik Deutschland können gefördert werden:
 
-1.
+1. Maßnahmen zur Entflechtung und Neuordnung der Betriebsstruktur land-, forst- und fischwirtschaftlicher Betriebe,
 
-2.
+2. Maßnahmen zur Neugründung von bäuerlichen Familienbetrieben,
 
-3.
-
-5.
-
-6.
-
-7.
+3. Maßnahmen zur Verbesserung der Produktions- und Marktstruktur in der Land-, Forst- und Fischwirtschaft,
 
 (2) Der Minister für Ernährung, Land- und Forstwirtschaft wird beauftragt, einvernehmlich mit dem Minister der Finanzen die durchzuführenden Maßnahmen, die Förderungsvoraussetzungen sowie Art und Höhe der Förderung durch Anordnung im einzelnen zu bestimmen.
 
@@ -56,20 +48,20 @@ Der Geltungsbereich wird in den einzelnen Anordnungen geregelt.
 
 (1) Dieses Gesetz tritt am 6. Juli 1990 in Kraft.
 
-(2) Gleichzeitig treten außer Kraft:
+(2)
+
+- Anordnung über Förderungsmittel für LPG, GPG, VEG und deren kooperative Einrichtungen vom 10. Mai 1985 (P-Sonderdruck Nr. 1111/6 des Gesetzblattes),
+
+- Anordnung Nr. 2 über Förderungsmittel für LPG, GPG, VEG und deren kooperative Einrichtungen vom 27. August 1987 (P-Sonderdruck Nr. 1303 des Gesetzblattes),
+
+- Anordnung Nr. 3 über Förderungsmittel für LPG, GPG, VEG und deren kooperative Einrichtungen vom 15. August 1988 (P-Sonderdruck Nr. 1111/8 des Gesetzblattes),
+
+- Anordnung Nr. 4 über Förderungsmittel für LPG, GPG, VEG und deren kooperative Einrichtungen vom 9. Januar 1989 (P-Sonderdruck Nr. 1111/9 des Gesetzblattes).
 
 ### Schlußformel
 
-Die Präsidentin der Volkskammer der Deutschen Demokratischen Republik
-
 ### Anhang EV — Auszug aus EinigVtr Anlage II Kapitel VI Sachgebiet A Abschnitt III
 
-Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
+1. Gesetz zur Förderung der agrarstrukturellen und agrarsozialen Anpassung der Landwirtschaft der DDR an die soziale Marktwirtschaft - Fördergesetz - vom 6. Juli 1990 (GBl. I Nr. 42 S. 633) sowie die darauf gestützten Anordnungen mit folgenden Maßgaben:a)Das Gesetz und die darauf gestützten Anordnungen finden nur Anwendung, soweit nicht das Gesetz über die Gemeinschaftsaufgabe "Verbesserung der Agrarstruktur und des Küstenschutzes" in der Fassung der Bekanntmachung vom 21. Juli 1988 (BGBl. I S. 1055) anzuwenden ist.b)§ 1 Abs. 1 Nr. 4 und die darauf gestützten Anordnungen treten mit Ablauf des 31. Dezember 1990 außer Kraft. Das Gesetz und die darauf gestützten Anordnungen finden nur Anwendung, soweit nicht das Gesetz über die Gemeinschaftsaufgabe "Verbesserung der Agrarstruktur und des Küstenschutzes" in der Fassung der Bekanntmachung vom 21. Juli 1988 (BGBl. I S. 1055) anzuwenden ist. § 1 Abs. 1 Nr. 4 und die darauf gestützten Anordnungen treten mit Ablauf des 31. Dezember 1990 außer Kraft.
 
-1.
-
-a)
-
-b)
-
-2.
+2. ...

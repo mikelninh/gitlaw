@@ -13,9 +13,9 @@ Wer in der Absicht, sich oder einem Dritten einen rechtswidrigen Vermögensvorte
 
 Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer die Einnahmen der Europäischen Union dadurch rechtswidrig vermindert, dass er einen Irrtum erregt oder unterhält, indem er
 
-1.
+1. einer für die Verwaltung von Einnahmen der Europäischen Union zuständigen Stelle über einnahmeerhebliche Tatsachen unrichtige oder unvollständige Angaben macht oder
 
-2.
+2. eine für die Verwaltung von Einnahmen der Europäischen Union zuständige Stelle pflichtwidrig über einnahmeerhebliche Tatsachen in Unkenntnis lässt.
 
 ### § 3 — Bestechlichkeit und Bestechung mit Bezug zu den finanziellen Interessen der Europäischen Union
 

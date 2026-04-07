@@ -76,13 +76,13 @@ Ein Mitglied des Europäischen Parlaments erhält zur Abgeltung seiner durch das
 
 ### § 10b — Leistungen an ehemalige Mitglieder des Europäischen Parlaments und ihre Hinterbliebenen
 
-Die Vorschriften des Fünften Abschnitts und § 32 Abs. 4 bis 8, §§ 35, 35a, 35b, 35c, 37 und 38 Abs. 1 des Abgeordnetengesetzes finden auf vor dem Inkrafttreten des Abgeordnetenstatuts des Europäischen Parlaments ausgeschiedene Mitglieder des Europäischen Parlaments sowie auf Mitglieder des Europäischen Parlaments, die sich nach Artikel 25 Abs. 1 des Abgeordnetenstatuts des Europäischen Parlaments für die Anwendung dieses Gesetzes entscheiden, und ihre Hinterbliebenen mit den Maßgaben Anwendung, daß Zeiten der Mitgliedschaft im Europäischen Parlament gelten als Zeiten der Mitgliedschaft im Bundestag. Versorgungsansprüche nach diesem Gesetz ruhen neben einer Abgeordnetenentschädigung nach § 11 des Abgeordnetengesetzes. § 29 Abs. 3 bis 9 des Abgeordnetengesetzes findet entsprechende Anwendung.
+Die Vorschriften des Fünften Abschnitts und § 32 Abs. 4 bis 8, §§ 35, 35a, 35b, 35c, 37 und 38 Abs. 1 des Abgeordnetengesetzes finden auf vor dem Inkrafttreten des Abgeordnetenstatuts des Europäischen Parlaments ausgeschiedene Mitglieder des Europäischen Parlaments sowie auf Mitglieder des Europäischen Parlaments, die sich nach Artikel 25 Abs. 1 des Abgeordnetenstatuts des Europäischen Parlaments für die Anwendung dieses Gesetzes entscheiden, und ihre Hinterbliebenen mit den Maßgaben Anwendung, daß
 
-1.
+1. in dem Fall, daß Leistungen aus der Unfallversicherung des Europäischen Parlaments in Anspruch genommen werden, der Versorgungsanspruch nach diesem Gesetz bis zur Höhe der Versicherungsleistung ruht,
 
-2.
+2. die Versorgung solange ruht, bis die Versicherungsleistung aus der Lebensversicherung oder sonstige vergleichbare Leistungen des Europäischen Parlaments erreicht sind,
 
-3.
+3. § 22 Abs. 2 Nr. 3 des Europawahlgesetzes an die Stelle des § 15 Abs. 2 Nr. 2 des Bundeswahlgesetzes tritt.
 
 ### § 11 — Zuschuß zu den Kosten in Krankheits-, Pflege- und Geburtsfällen, Unterstützungen
 
@@ -105,11 +105,11 @@ mehrerer Bezüge aus öffentlichen Kassen
 
 (1) Die Entschädigung nach diesem Gesetz ruht, sofern das Abgeordnetengesetz des Bundes oder eines Landes keine anderweitige Regelung getroffen hat,
 
-1.
+1. neben einer Abgeordnetenentschädigung, die nach dem Abgeordnetengesetz eines Landes gewährt wird, bis zur Höhe dieser Entschädigung,
 
-2.
+2. neben einer Versorgung, die nach dem Abgeordnetengesetz des Bundes oder eines Landes gewährt wird, bis zur Höhe dieser Versorgung,
 
-3.
+3. neben einer Versorgung als Abgeordneter, die nach den einschlägigen Gesetzen der übrigen Mitgliedstaaten der Europäischen Union gewährt wird, bis zur Höhe dieser Versorgung.
 
 (2) § 29 Abs. 1, 2, 6, 7 und 9 des Abgeordnetengesetzes gilt entsprechend mit der Maßgabe, daß als Bezüge beziehungsweise Versorgungsbezüge aus einem Amtsverhältnis oder aus einer Verwendung im öffentlichen Dienst auch die Bezüge und Versorgungsbezüge eines anderen Mitgliedstaates der Europäischen Union gelten, die auf Grund eines vergleichbaren Amtsverhältnisses oder einer entsprechenden Verwendung im öffentlichen Dienst gewährt werden.
 

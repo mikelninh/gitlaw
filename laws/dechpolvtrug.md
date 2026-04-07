@@ -18,9 +18,9 @@ Die Aufgaben nach den Artikeln 48 bis 51 des Deutsch-Schweizerischen Polizeivert
 
 Die Vollstreckung einer schweizerischen Entscheidung ist unzulässig
 
-1.
+1. bei Nichtvorliegen der in Artikel 48 Absatz 1 des Deutsch-Schweizerischen Polizeivertrages genannten Voraussetzungen sowie
 
-2.
+2. in den Fällen des Artikels 48 Absatz 4 sowie des Artikels 49 Absatz 1 und 4 Satz 1 des Deutsch-Schweizerischen Polizeivertrages.
 
 ### § 4 — Anhörung der betroffenen Person
 
@@ -30,9 +30,9 @@ Die Vollstreckung einer schweizerischen Entscheidung ist unzulässig
 
 (3) Die Anhörung nach Absatz 1 kann unterbleiben, wenn die Bewilligungsbehörde
 
-1.
+1. die Vollstreckung als unzulässig ablehnt oder
 
-2.
+2. von vornherein die Umwandlung der schweizerischen Entscheidung durch das Gericht nach § 10 Absatz 1 beantragt.
 
 ### § 5 — Rechtsbeistand der betroffenen Person
 
@@ -40,17 +40,17 @@ Die Vollstreckung einer schweizerischen Entscheidung ist unzulässig
 
 (2) Ein Fall der notwendigen Rechtsbeistandschaft liegt vor, wenn
 
-1.
+1. wegen der Schwierigkeit der Sach- oder Rechtslage die Mitwirkung eines Rechtsbeistands geboten erscheint,
 
-2.
+2. die betroffene Person ihre Rechte nicht selbst hinreichend wahrnehmen kann oder
 
-3.
+3. die betroffene Person sich außerhalb des Geltungsbereichs dieses Gesetzes in Haft befindet und deshalb Zweifel bestehen, ob sie ihre Rechte selbst hinreichend wahrnehmen kann.
 
 (3) Liegt ein Fall der notwendigen Rechtsbeistandschaft vor, so ist
 
-1.
+1. die betroffene Person bei der Bekanntgabe der Einleitung des Verfahrens zur Vollstreckung der schweizerischen Entscheidung darauf hinzuweisen, dass sie die Bestellung eines Rechtsbeistands beantragen kann, und
 
-2.
+2. der betroffenen Person auf Antrag oder von Amts wegen ein Rechtsbeistand zu bestellen, wenn sie noch keinen Rechtsbeistand hat.
 
 (4) Über die Bestellung eines Rechtsbeistands entscheidet die Bewilligungsbehörde oder das mit der Sache befasste Gericht. Die Bestellung kann aufgehoben werden, wenn kein Fall der notwendigen Rechtsbeistandschaft mehr vorliegt.
 
@@ -62,9 +62,9 @@ Die Vollstreckung einer schweizerischen Entscheidung ist unzulässig
 
 (2) Soweit die schweizerische Entscheidung in der Bewilligung für vollstreckbar erklärt wird, sind die schweizerische Entscheidung und die Höhe der zu vollstreckenden Geldforderung anzugeben. Die Bewilligung ist mit Gründen zu versehen und enthält
 
-1.
+1. den Hinweis, dass die Bewilligung rechtskräftig und die Geldforderung vollstreckbar wird, soweit kein Einspruch nach § 7 Absatz 1 eingelegt wird,
 
-2.
+2. die Aufforderung an die betroffene Person, die Geldforderung spätestens zwei Wochen nach Rechtskraft der Bewilligung an die Bundeskasse zu zahlen.
 
 (3) Die Bewilligung ist der betroffenen Person zuzustellen.
 
@@ -82,7 +82,7 @@ Die Vollstreckung einer schweizerischen Entscheidung ist unzulässig
 
 (1) Gegen die Bewilligung der Vollstreckung und gegen die Entscheidung über die Unzulässigkeit des Einspruchs (§ 7 Absatz 2) ist der Rechtsweg zu den ordentlichen Gerichten eröffnet.
 
-(2) Hilft die Bewilligungsbehörde dem Einspruch der betroffenen Person nicht ab oder beantragt die betroffene Person eine gerichtliche Entscheidung (§ 7 Absatz 2 Satz 2), so entscheidet das nach Absatz 3 zuständige Amtsgericht. Das zuständige Amtsgericht entscheidet ferner auf Antrag der Bewilligungsbehörde (§ 10 Absatz 1). § 34 Absatz 1 und § 107 des Jugendgerichtsgesetzes sowie § 68 Absatz 2 des Gesetzes über Ordnungswidrigkeiten gelten entsprechend. Die Bewilligungsbehörde bereitet die gerichtliche Entscheidung vor.
+(2) Hilft die Bewilligungsbehörde dem Einspruch der betroffenen Person nicht ab oder beantragt die betroffene Person eine gerichtliche Entscheidung (§ 7 Absatz 2 Satz 2), so entscheidet das nach Absatz 3 zuständige Amtsgericht. Das zuständige Amtsgericht entscheidet ferner auf Antrag der Bewilligungsbehörde (§ 10 Absatz 1). § 34 Absatz 1 und § 107 des Jugendgerichtsgesetzes sowie § 68 Absatz 2 des Gesetzes über Ordnungswidrigkeiten gelten entsprechend. Die Bewilligungsbehörde bereitet die gerichtliche Entscheidung vor.
 
 (3) Ist die betroffene Person eine natürliche Person, so richtet sich die örtliche Zuständigkeit des Gerichts nach deren Wohnsitz. Hat die betroffene Person keinen Wohnsitz im Inland, so richtet sich die Zuständigkeit nach ihrem gewöhnlichen Aufenthalt im Inland oder, wenn ein solcher nicht bekannt ist, nach ihrem letzten Wohnsitz im Inland. Ist die betroffene Person eine juristische Person, so ist das Gericht örtlich zuständig, in dessen Bezirk die juristische Person ihren Sitz hat. Maßgeblich im Fall des § 9 ist der Zeitpunkt des Eingangs des Einspruchs, im Fall des § 10 der Zeitpunkt des Eingangs des Antrags bei Gericht. Kann der Wohnsitz, Aufenthalt oder Sitz der betroffenen Person nicht festgestellt werden, so ist das Gericht zuständig, in dessen Bezirk sich ihr Vermögen befindet. Befindet sich Vermögen der betroffenen Person in den Bezirken verschiedener Amtsgerichte, so richtet sich die Zuständigkeit danach, welches Amtsgericht zuerst mit der Sache befasst wurde. § 58 Absatz 1 des Gerichtsverfassungsgesetzes bleibt unberührt.
 
@@ -102,9 +102,9 @@ Die Vollstreckung einer schweizerischen Entscheidung ist unzulässig
 
 (3) Der Einspruch wird durch Beschluss als unbegründet zurückgewiesen, soweit
 
-1.
+1. die Vollstreckung zulässig ist und
 
-2.
+2. die Geldstrafe oder Geldbuße nach Artikel 50 Absatz 1 des Deutsch-Schweizerischen Polizeivertrages fehlerfrei angepasst wurde.
 
 (4) Soweit der Einspruch wegen Unzulässigkeit der Vollstreckung begründet ist, wird die schweizerische Entscheidung für nicht vollstreckbar erklärt. Soweit die Anpassung nach Artikel 50 Absatz 1 des Deutsch-Schweizerischen Polizeivertrages fehlerhaft ist oder unterlassen wurde, obwohl sie erforderlich war, passt das Gericht die Geldforderung an und erklärt die Entscheidung für vollstreckbar. Soweit von der Bewilligungsentscheidung abgewichen wird, ist die Höhe der zu vollstreckenden Geldforderung in der Beschlussformel anzugeben.
 
@@ -116,15 +116,15 @@ Die Vollstreckung einer schweizerischen Entscheidung ist unzulässig
 
 (1) Ist die schweizerische Entscheidung wegen einer nach schweizerischem Recht strafbaren Tat gegen einen Jugendlichen oder einen Heranwachsenden im Sinne des Jugendgerichtsgesetzes ergangen und ist die Vollstreckung der schweizerischen Entscheidung zulässig, so beantragt die Bewilligungsbehörde die Umwandlung der schweizerischen Entscheidung (Absatz 2) durch das Gericht.
 
-(2) Soweit die Vollstreckung der schweizerischen Entscheidung zulässig ist, wird die Entscheidung für vollstreckbar erklärt. Eine wegen einer nach schweizerischem Recht strafbaren Tat gegen einen Jugendlichen verhängte Geldforderung ist dabei zusätzlich in eine nach dem Jugendgerichtsgesetz zulässige Sanktion umzuwandeln. Satz 2 gilt für einen Heranwachsenden entsprechend, wenn nach § 105 Absatz 1 des Jugendgerichtsgesetzes das Jugendstrafrecht zur Anwendung kommt. Für die Anpassung der Höhe der Geldforderung gilt Artikel 50 Absatz 1 des Deutsch-Schweizerischen Polizeivertrages entsprechend.
+(2) Soweit die Vollstreckung der schweizerischen Entscheidung zulässig ist, wird die Entscheidung für vollstreckbar erklärt. Eine wegen einer nach schweizerischem Recht strafbaren Tat gegen einen Jugendlichen verhängte Geldforderung ist dabei zusätzlich in eine nach dem Jugendgerichtsgesetz zulässige Sanktion umzuwandeln. Satz 2 gilt für einen Heranwachsenden entsprechend, wenn nach § 105 Absatz 1 des Jugendgerichtsgesetzes das Jugendstrafrecht zur Anwendung kommt. Für die Anpassung der Höhe der Geldforderung gilt Artikel 50 Absatz 1 des Deutsch-Schweizerischen Polizeivertrages entsprechend.
 
 (3) Über die Vollstreckbarkeit der schweizerischen Entscheidung entscheidet das Amtsgericht durch Beschluss. Soweit die Entscheidung gemäß Absatz 2 Satz 1 ausschließlich für vollstreckbar erklärt wird, ist in der Beschlussformel auch die Höhe der zu vollstreckenden Geldforderung anzugeben.
 
 (4) Die Bewilligungsbehörde bewilligt die Vollstreckung nach Maßgabe der rechtskräftigen gerichtlichen Entscheidung. Die Bewilligungsentscheidung ist unanfechtbar. § 6 Absatz 2 Satz 1 und 2 gilt entsprechend. Die Bewilligung enthält
 
-1.
+1. den Hinweis, dass die Bewilligung rechtskräftig und die Geldforderung vollstreckbar geworden ist, und
 
-2.
+2. die Aufforderung an die von der schweizerischen Entscheidung betroffene Person, die Geldforderung spätestens zwei Wochen nach Zustellung der Bewilligung entweder an die zuständige Kasse nach § 15 Absatz 4 Satz 2 zu zahlen oder der Sanktion nach dem Jugendgerichtsgesetz nachzukommen, in die die Geldforderung nach Absatz 2 Satz 2 umgewandelt wurde.
 
 ### § 11 — Rechtsbeschwerde
 
@@ -144,9 +144,9 @@ Die Vollstreckung einer schweizerischen Entscheidung ist unzulässig
 
 (1) Das Beschwerdegericht lässt die Rechtsbeschwerde auf Antrag der betroffenen Person oder der Bewilligungsbehörde zu, wenn es geboten ist,
 
-1.
+1. die Nachprüfung des Beschlusses nach § 9 Absatz 3 oder § 10 Absatz 3 zur Fortbildung des Rechts oder zur Sicherung einer einheitlichen Rechtsprechung zu ermöglichen oder
 
-2.
+2. den Beschluss nach § 9 Absatz 3 oder § 10 Absatz 3 wegen Versagung des rechtlichen Gehörs aufzuheben.
 
 (2) Für den Zulassungsantrag gelten die Vorschriften über die Einlegung der Rechtsbeschwerde entsprechend. Der Antrag gilt als vorsorglich eingelegte Rechtsbeschwerde. Die Vorschriften über die Anbringung von Beschwerdeanträgen und deren Begründung (§§ 344 und 345 der Strafprozessordnung) sind zu beachten. Bei der Begründung soll der Antragsteller zugleich angeben, aus welchen Gründen eine der in Absatz 1 bezeichneten Voraussetzungen vorliegt. § 35a der Strafprozessordnung gilt entsprechend.
 
@@ -162,13 +162,13 @@ Die Vollstreckung einer schweizerischen Entscheidung ist unzulässig
 
 (3) Der Senat ist in Verfahren über Rechtsbeschwerden mit drei Richtern einschließlich des Vorsitzenden besetzt, wenn
 
-1.
+1. es sich um die Vollstreckung einer Geldforderung handelt, die auf einer Entscheidung wegen einer nach schweizerischem Recht strafbaren Tat beruht,
 
-2.
+2. ein Zulassungsgrund im Sinne des § 12 Absatz 1 Nummer 1 vorliegt,
 
-3.
+3. besondere Schwierigkeiten der Sach- und Rechtslage dies geboten erscheinen lassen oder
 
-4.
+4. von der Entscheidung eines anderen Oberlandesgerichts abgewichen werden soll.
 
 ### § 14 — Verbot der Doppelverfolgung
 

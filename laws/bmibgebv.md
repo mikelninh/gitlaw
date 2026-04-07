@@ -14,27 +14,27 @@ Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des 
 
 Im Zuständigkeitsbereich des Bundesministeriums des Innern, für Bau und Heimat werden Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen (gebührenfähige Leistungen) erhoben, die auf Grund der folgenden Vorschriften erbracht werden:
 
-1.
+1. Bundespolizeigesetz,
 
-2.
+2. Verwaltungs-Vollstreckungsgesetz,
 
-3.
+3. BDBOS-Gesetz,
 
-4.
+4. BDBOS-Zertifizierungsverordnung,
 
-5.
+5. Laufbahnbefähigungsanerkennungsverordnung,
 
-6.
+6. Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung),
 
-7.
+7. BSI-Gesetz,
 
-8.
+8. De-Mail-Gesetz,
 
-9.
+9. Verordnung zur Erteilung von Unbedenklichkeitsbescheinigungen,
 
-10.
+10. Waffengesetz,
 
-11.
+11. Allgemeine Waffengesetz-Verordnung.
 
 ### § 2 — Höhe der Gebühren und Auslagen
 
@@ -48,9 +48,9 @@ Im Zuständigkeitsbereich des Bundesministeriums des Innern, für Bau und Heimat
 
 Sofern im Gebühren- und Auslagenverzeichnis nichts anderes bestimmt ist, gelten
 
-1.
+1. für den Zeitaufwand von Verwaltungsbeschäftigten in der Bundesverwaltung die in der Anlage 1 Teil A der Allgemeinen Gebührenverordnung in der am 18. Februar 2021 geltenden Fassung bestimmten allgemeinen pauschalen Stundensätze für Verwaltungsbeschäftigte in der Bundesverwaltung und
 
-2.
+2. für den Zeitaufwand von Polizeivollzugsbeamtinnen und -beamten des Bundes die allgemeinen pauschalen Stundensätze für Polizeivollzugsbeamtinnen und -beamte des Bundes nach Anlage 1 Teil A der Allgemeinen Gebührenverordnung in der am 18. Februar 2021 geltenden Fassung.
 
 ### § 4 — Übergangsvorschrift
 
@@ -61,17 +61,3 @@ Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige Leistung
 Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 ### Anlage — (zu § 2 Absatz 1)
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–

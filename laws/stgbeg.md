@@ -30,23 +30,23 @@ Soweit das deutsche Strafrecht auf im Ausland begangene Taten Anwendung findet u
 
 Die Vorschriften des Allgemeinen Teils des Strafgesetzbuches lassen Vorschriften des Landesrechts unberührt, die bei einzelnen landesrechtlichen Straftatbeständen
 
-1.
+1. den Geltungsbereich abweichend von den §§ 3 bis 7 des Strafgesetzbuches bestimmen oder
 
-2.
+2. unter besonderen Voraussetzungen Straflosigkeit vorsehen.
 
 ### Art 3 — Zulässige Rechtsfolgen bei Straftaten nach Landesrecht
 
 (1) Vorschriften des Landesrechts dürfen bei Straftaten keine anderen Rechtsfolgen vorsehen als
 
-1.
+1. Freiheitsstrafe bis zu zwei Jahren und wahlweise Geldstrafe bis zum gesetzlichen Höchstmaß (§ 40 Abs. 1 Satz 2, Abs. 2 Satz 3 des Strafgesetzbuches),
 
-2.
+2. Einziehung von Gegenständen im Sinne der §§ 74 bis 74b und 74d des Strafgesetzbuches.
 
-(2) Vorschriften des Landesrechts dürfen androhen.
+(2) Vorschriften des Landesrechts dürfen
 
-1.
+1. weder Freiheitsstrafe noch Geldstrafe allein und
 
-2.
+2. bei Freiheitsstrafe kein anderes Mindestmaß als das gesetzliche (§ 38 Abs. 2 des Strafgesetzbuches) und kein niedrigeres Höchstmaß als sechs Monate
 
 ### Art 4 — Verhältnis des Besonderen Teils zum Bundes- und Landesrecht
 
@@ -56,21 +56,17 @@ Die Vorschriften des Allgemeinen Teils des Strafgesetzbuches lassen Vorschriften
 
 (3) Die Vorschriften des Strafgesetzbuches über Betrug, Hehlerei und Begünstigung lassen die Vorschriften des Landesrechts unberührt, die bei Steuern oder anderen Abgaben
 
-1.
+1. die Straf- und Bußgeldvorschriften der Abgabenordnung für anwendbar erklären oder
 
-2.
+2. entsprechende Straf- und Bußgeldtatbestände wie die Abgabenordnung enthalten; Artikel 3 bleibt unberührt.
 
 (4) Die Vorschriften des Strafgesetzbuches über Diebstahl, Hehlerei und Begünstigung lassen die Vorschriften des Landesrechts zum Schutz von Feld und Forst unberührt, die bestimmen, daß eine Tat in bestimmten Fällen, die unbedeutend erscheinen, nicht strafbar ist oder nicht verfolgt wird.
 
 (5) Die Vorschriften des Strafgesetzbuches über Hausfriedensbruch, Sachbeschädigung und Urkundenfälschung lassen die Vorschriften des Landesrechts zum Schutz von Feld und Forst unberührt, die
 
-1.
+1. bestimmte Taten nur mit Geldbuße bedrohen oder
 
-2.
-
-a)
-
-b)
+2. bestimmen, daß eine Tat in bestimmten Fällen,a)die unbedeutend erscheinen, nicht strafbar ist oder nicht verfolgt wird, oderb)die geringfügig erscheinen, nur auf Antrag oder nur dann verfolgt wird, wenn die Strafverfolgungsbehörde wegen des besonderen öffentlichen Interesses an der Strafverfolgung ein Einschreiten von Amts wegen für geboten hält. die unbedeutend erscheinen, nicht strafbar ist oder nicht verfolgt wird, oder die geringfügig erscheinen, nur auf Antrag oder nur dann verfolgt wird, wenn die Strafverfolgungsbehörde wegen des besonderen öffentlichen Interesses an der Strafverfolgung ein Einschreiten von Amts wegen für geboten hält.
 
 ## Zweiter Titel: Gemeinsame Vorschriften für Ordnungs- und Zwangsmittel
 
@@ -106,11 +102,11 @@ In Vorschriften des Bundes- und des Landesrechts dürfen Rechtsnachteile, die ni
 
 (2) Die Verjährung schließt auch die Vollstreckung des Ordnungsgeldes und der Ordnungshaft aus. Die Verjährungsfrist beträgt zwei Jahre. Die Verjährung beginnt, sobald das Ordnungsmittel vollstreckbar ist. Die Verjährung ruht, solange
 
-1.
+1. nach dem Gesetz die Vollstreckung nicht begonnen oder nicht fortgesetzt werden kann,
 
-2.
+2. die Vollstreckung ausgesetzt ist oder
 
-3.
+3. eine Zahlungserleichterung bewilligt ist.
 
 ## Zweiter Abschnitt: Allgemeine Anpassung von Strafvorschriften
 
@@ -140,8 +136,6 @@ Droht das Gesetz Freiheitsstrafe mit einem besonderen Mindestmaß an, das einen 
 
 ### (XXXX) Art 14 bis 17
 
-Artikel 14PolizeiaufsichtSoweit Vorschriften die Polizeiaufsicht zulassen, treten sie außer Kraft.Artikel 15 Verfall Soweit Vorschriften außerhalb des Allgemeinen Teils des Strafgesetzbuches den Verfall eines Gegenstandes oder eines ihm entsprechenden Wertersatzes wegen einer Straftat oder einer rechtswidrigen Tat vorschreiben oder zulassen, treten sie außer Kraft.Artikel 16 Rücknahme des Strafantrages Soweit Vorschriften außerhalb des Allgemeinen Teils des Strafgesetzbuches die Rücknahme des Strafantrages regeln, treten sie außer Kraft.Artikel 17 Buße zugunsten des Verletzten Soweit Vorschriften bestimmen, daß zugunsten des Verletzten einer Straftat auf eine Buße erkannt werden kann, treten sie außer Kraft.
-
 ## Dritter bis Fünfter Abschnitt: -
 
 ### (XXXX) Art 18 bis 287
@@ -168,9 +162,9 @@ Vorschriften sind nicht mehr anzuwenden, soweit sie Rechtsfolgen androhen, die n
 
 Vorschriften sind nicht mehr anzuwenden, soweit sie
 
-1.
+1. die Rücknahme des Strafantrags regeln oder
 
-2.
+2. bestimmen, daß zugunsten des Verletzten einer Straftat auf eine Buße erkannt werden kann.
 
 ### Art 292 — Nicht mehr anwendbare Straf- und Bußgeldtatbestände
 
@@ -202,13 +196,13 @@ Die Gerichtshilfe (§ 160 Abs. 3 Satz 2 der Strafprozeßordnung) gehört zum Ges
 
 ### Art 297 — Verbot der Prostitution
 
-(1) Die Landesregierung kann zum Schutz der Jugend oder des öffentlichen Anstandes durch Rechtsverordnung verbieten, der Prostitution nachzugehen. Sie kann das Verbot nach Satz 1 Nr. 3 auch auf bestimmte Tageszeiten beschränken.
+(1) Die Landesregierung kann zum Schutz der Jugend oder des öffentlichen Anstandes
 
-1.
+1. für das ganze Gebiet einer Gemeinde bis zu fünfzigtausend Einwohnern,
 
-2.
+2. für Teile des Gebiets einer Gemeinde über zwanzigtausend Einwohner oder eines gemeindefreien Gebiets,
 
-3.
+3. unabhängig von der Zahl der Einwohner für öffentliche Straßen, Wege, Plätze, Anlagen und für sonstige Orte, die von dort aus eingesehen werden können, im ganzen Gebiet oder in Teilen des Gebiets einer Gemeinde oder eines gemeindefreien Gebiets
 
 (2) Die Landesregierung kann diese Ermächtigung durch Rechtsverordnung auf eine oberste Landesbehörde oder andere Behörden übertragen.
 
@@ -266,9 +260,9 @@ Die Vorschriften des neuen Rechts über die selbständige Anordnung von Maßrege
 
 (1) Für die Anordnung des Verfalls wegen einer Tat, die vor dem 1. Januar 1975 begangen worden ist und über die nach diesem Zeitpunkt entschieden wird, gelten die Vorschriften des neuen Rechts
 
-1.
+1. über die Voraussetzungen des Verfalls (§§ 73, 73a des Strafgesetzbuches), soweit das bisherige Recht den Verfall oder die Einziehung des Entgelts vorschreibt,
 
-2.
+2. über die Schätzung, die Entscheidung in Härtefällen, die Wirkung des Verfalls und seine nachträgliche Anordnung (§§ 73b bis 73d, 76 des Strafgesetzbuches).
 
 (2) Die Anordnung des Verfalls ist auch insoweit zulässig, als nach § 27b des Strafgesetzbuches in der bisherigen Fassung eine höhere Geldstrafe hätte verhängt werden können als nach neuem Recht. An die Stelle der Anordnung des Verfalls eines Gegenstandes tritt der Verfall des Wertersatzes.
 
@@ -304,11 +298,11 @@ Die Vorschriften des neuen Rechts über die gerichtliche Anordnung, daß eine Ve
 
 ### Art 311 — Verletzung von Privatgeheimnissen durch Amtsträger und besonders Verpflichtete
 
-(1) Soweit das Offenbaren oder Verwerten eines fremden Geheimnisses, namentlich eines Betriebs- oder Geschäftsgeheimnisses, durch Personen, die nach neuem Recht für den öffentlichen Dienst besonders verpflichtet werden sollen, nach bisherigem Recht mit Strafe oder Geldbuße bedroht war, gelten sofern die Strafvorschriften des neuen Rechts allein deswegen nicht anwendbar sind, weil der Täter vor dem 1. Januar 1975 nicht für den öffentlichen Dienst besonders verpflichtet worden ist, obwohl die Voraussetzungen, unter denen die Verpflichtung nach neuem Recht vorgenommen werden soll, vorgelegen hatten.
+(1) Soweit das Offenbaren oder Verwerten eines fremden Geheimnisses, namentlich eines Betriebs- oder Geschäftsgeheimnisses, durch Personen, die nach neuem Recht für den öffentlichen Dienst besonders verpflichtet werden sollen, nach bisherigem Recht mit Strafe oder Geldbuße bedroht war, gelten
 
-1.
+1. für die vor dem 1. Januar 1975 begangenen Taten die Vorschriften des bisherigen Rechts über die Verletzung eines fremden Geheimnisses weiter und
 
-2.
+2. für die nach dem 1. Januar 1975 begangenen Taten die Strafvorschriften des neuen Rechts (§ 203 Abs. 2, § 204 des Strafgesetzbuches) entsprechend,
 
 (2) In den Fällen des Absatzes 1 Nr. 1 gelten die Vorschriften des neuen Rechts (§ 203 Abs. 2, 5, § 204 des Strafgesetzbuches), soweit sie im übrigen für den Täter günstiger sind.
 
@@ -318,15 +312,15 @@ Die Vorschriften des neuen Rechts über die gerichtliche Anordnung, daß eine Ve
 
 (2) Der Bundesgerichtshof ist auch dann zur Verhandlung und Entscheidung über das Rechtsmittel der Revision zuständig, wenn die Revision sich gegen ein Urteil des Richters beim Amtsgericht oder des Schöffengerichts oder gegen ein Berufungsurteil der kleinen oder großen Strafkammer richtet, durch das die Unterbringung des Angeklagten in einer Heil- oder Pflegeanstalt angeordnet ist, und Termin zur Hauptverhandlung vor dem Oberlandesgericht noch nicht bestimmt ist.
 
-(3) Ist vor dem 1. Januar 1975 auf Unterbringung in einer Heil- oder Pflegeanstalt oder in einer Trinkerheilanstalt oder einer Entziehungsanstalt, auf Untersagung der Berufsausübung oder der Betriebsführung oder auf Zulassung der Urteilsbekanntmachung erkannt worden und ist das Revisionsgericht der Auffassung, daß die Revision im übrigen unbegründet ist, so berichtigt es den Urteilsspruch dahin, daß an die Stelle tritt.
+(3) Ist vor dem 1. Januar 1975 auf Unterbringung in einer Heil- oder Pflegeanstalt oder in einer Trinkerheilanstalt oder einer Entziehungsanstalt, auf Untersagung der Berufsausübung oder der Betriebsführung oder auf Zulassung der Urteilsbekanntmachung erkannt worden und ist das Revisionsgericht der Auffassung, daß die Revision im übrigen unbegründet ist, so berichtigt es den Urteilsspruch dahin, daß an die Stelle
 
-1.
+1. der Unterbringung in einer Heil- oder Pflegeanstalt die Unterbringung in einem psychiatrischen Krankenhaus,
 
-2.
+2. der Unterbringung in einer Trinkerheilanstalt oder einer Entziehungsanstalt die Unterbringung in einer Entziehungsanstalt,
 
-3.
+3. der Untersagung der Berufsausübung oder der Betriebsführung das Berufsverbot,
 
-4.
+4. der Zulässigkeit der Urteilsbekanntmachung deren Anordnung
 
 (4) Ist das Revisionsgericht der Auffassung, daß ein vor dem 1. Januar 1975 ergangenes Urteil allein wegen der Artikel 299 und 307 dem Gesetz nicht entspricht, so kann die Revision auch dann verworfen werden, wenn eine wesentlich andere Entscheidung über die Höhe der Geldstrafe oder den Verfall nicht zu erwarten ist.
 
@@ -338,9 +332,9 @@ Die Vorschriften des neuen Rechts über die gerichtliche Anordnung, daß eine Ve
 
 (2) Absatz 1 gilt entsprechend, wenn ein vor Inkrafttreten des neuen Rechts erlassenes Urteil nach diesem Zeitpunkt
 
-1.
+1. rechtskräftig wird, weil ein Rechtsmittel nicht eingelegt oder zurückgenommen wird oder das Rechtsmittel nicht zulässig ist, oder
 
-2.
+2. sonst rechtskräftig wird, ohne daß der Schuldspruch geändert werden konnte.
 
 (3) Ist der Täter wegen einer Handlung verurteilt worden, die eine nach neuem Recht nicht mehr anwendbare Strafvorschrift und zugleich eine andere Strafvorschrift verletzt hat (§ 73 Abs. 2 des Strafgesetzbuches in der bisherigen Fassung), so sind die Absätze 1 und 2 nicht anzuwenden. Das Gericht setzt die auf die andere Gesetzesverletzung entfallende Strafe neu fest, wenn die Strafe einer Strafvorschrift entnommen worden ist, die aufgehoben ist oder die den Sachverhalt, welcher der Verurteilung zugrunde lag, nicht mehr unter Strafe stellt oder mit Geldbuße bedroht. Ist die Strafe der anderen Strafvorschrift entnommen, so wird sie angemessen ermäßigt, wenn anzunehmen ist, daß das Gericht wegen der Verletzung der gemilderten Strafvorschrift auf eine höhere Strafe erkannt hat.
 
@@ -454,11 +448,11 @@ Wird über die Anordnung der Einziehung des Tatertrages oder des Wertes des Tate
 
 Wird über die Anordnung der Einziehung des Tatertrages oder des Wertes des Tatertrages wegen einer Tat, die vor dem 29. Dezember 2020 begangen worden ist, nach diesem Zeitpunkt entschieden, so ist abweichend von § 2 Absatz 5 des Strafgesetzbuches § 73e Absatz 1 Satz 2 des Strafgesetzbuches in der am 29. Dezember 2020 geltenden Fassung anzuwenden, wenn
 
-1.
+1. es sich um eine unter den in § 370 Absatz 3 Satz 2 Nummer 1 der Abgabenordnung genannten Voraussetzungen begangene Tat handelt oder
 
-2.
+2. das Erlöschen im Sinne von § 73e Absatz 1 Satz 2 des Strafgesetzbuches durch Verjährung nach § 47 der Abgabenordnung nach dem 1. Juli 2020 eingetreten ist oder
 
-3.
+3. das Erlöschen im Sinne von § 73e Absatz 1 Satz 2 des Strafgesetzbuches nach dem 29. Dezember 2020 eingetreten ist.
 
 ### Art 316k — Übergangsvorschrift zum Gesetz zur Verbesserung der strafrechtlichen Bekämpfung der Geldwäsche
 
@@ -476,17 +470,9 @@ Für die Einziehung von Gegenständen, die nach dem 17. März 2021 sichergestell
 
 (1) Strafgerichtliche Urteile, die aufgrund der folgenden Vorschriften nach dem 3. Oktober 1990 ergangen sind, werden aufgehoben:
 
-1.
+1. aufgrund des § 219a des Strafgesetzbuches a)in der vom 16. Juni 1993 bis einschließlich 31. Dezember 1998 geltenden Fassung,b)in der vom 1. Januar 1999 bis einschließlich 28. März 2019 geltenden Fassung,c)in der vom 29. März 2019 bis einschließlich 31. Dezember 2020 geltenden Fassung oderd)in der seit dem 1. Januar 2021 geltenden Fassung sowie in der vom 16. Juni 1993 bis einschließlich 31. Dezember 1998 geltenden Fassung, in der vom 1. Januar 1999 bis einschließlich 28. März 2019 geltenden Fassung, in der vom 29. März 2019 bis einschließlich 31. Dezember 2020 geltenden Fassung oder in der seit dem 1. Januar 2021 geltenden Fassung sowie
 
-a)
-
-b)
-
-c)
-
-d)
-
-2.
+2. aufgrund des § 219b des Strafgesetzbuches in der vom 1. Oktober 1987 bis einschließlich 15. Juni 1993 geltenden Fassung.
 
 (2) Die Verfahren, die den in Absatz 1 genannten Urteilen zugrunde liegen, werden eingestellt.
 
@@ -524,8 +510,6 @@ In Straf- und Bußgeldsachen werden Gebühren nach dem bisherigen Recht erhoben,
 
 ### Art 322 — Verweisungen
 
-Soweit in anderen Vorschriften auf Vorschriften verwiesen wird, die durch dieses Gesetz geändert werden, treten an deren Stelle die geänderten Vorschriften.
-
 ### Art 323
 
 -
@@ -542,11 +526,9 @@ Soweit in anderen Vorschriften auf Vorschriften verwiesen wird, die durch dieses
 
 (5) Für § 74a Abs. 1 des Gerichtsverfassungsgesetzes gelten im Land Berlin die nachstehend bezeichneten Besonderheiten:
 
-1.
+1. Nummer 2 ist in folgender Fassung anzuwenden:"2.der Gefährdung des demokratischen Rechtsstaates in den Fällen der §§ 85, 86, 87 bis 90, 90a Abs. 3 und des § 90b des Strafgesetzbuches, "2.der Gefährdung des demokratischen Rechtsstaates in den Fällen der §§ 85, 86, 87 bis 90, 90a Abs. 3 und des § 90b des Strafgesetzbuches, der Gefährdung des demokratischen Rechtsstaates in den Fällen der §§ 85, 86, 87 bis 90, 90a Abs. 3 und des § 90b des Strafgesetzbuches,
 
-"2.
-
-2.
+2. Nummer 3 ist nicht anzuwenden.
 
 ### Art 325
 
@@ -568,6 +550,4 @@ Soweit in anderen Vorschriften auf Vorschriften verwiesen wird, die durch dieses
 
 ### Anhang EV — Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet C Abschnitt III
 
-Abschnitt III
-
-2.
+2. Einführungsgesetz zum Strafgesetzbuch vom 2. März 1974 (BGBl. I S. 469), zuletzt geändert durch Artikel 4 des Gesetzes vom 13. April 1986 (BGBl. I S. 393), mit folgender Maßgabe: Artikel 14 bis 292, 298 bis 306, 312 bis 314, 317 bis 319 und 322 bis 326 sind nicht anzuwenden.

@@ -55,33 +55,33 @@ Die Arbeitnehmervertreter haben über vertrauliche Angaben oder Betriebs- und Ge
 
 Zur Regelung der in § 2 bezeichneten Wahlen und Abstimmungen erläßt die Bundesregierung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Vorschriften über
 
-a)
+a) die Vorbereitung der Wahl, insbesondere die Bestellung des Wahlvorstands und die Aufstellung der Wählerlisten,
 
-b)
+b) die Frist für die Einsichtnahme in die Wählerlisten und die Erhebung von Einsprüchen,
 
-c)
+c) die Wahlvorschläge und die Frist für ihre Einreichung,
 
-d)
+d) das Wahlausschreiben und die Fristen für seine Bekanntmachung,
 
-e)
+e) die Stimmabgabe,
 
-f)
+f) die Feststellung des Wahlergebnisses und die Fristen für seine Bekanntmachung,
 
-g)
+g) die Anfechtung der Wahl,
 
-h)
+h) die Aufbewahrung der Wahlakten,
 
-i)
+i) den Widerruf der Bestellung der Arbeitnehmervertreter.
 
 ### § 7
 
 (1) Die Arbeitsgerichte sind ausschließlich zuständig für die Entscheidung über
 
-a)
+a) die Wahlberechtigung und die Wählbarkeit,
 
-b)
+b) die Durchführung der Wahl der Arbeitnehmervertreter und der Abstimmung über den Widerruf der Bestellung eines Arbeitnehmervertreters,
 
-c)
+c) die Anfechtung der Wahl von Arbeitnehmervertretern und die Anfechtung der Abstimmung über den Widerruf der Bestellung eines Arbeitnehmervertreters.
 
 (2) Die Vorschriften des Arbeitsgerichtsgesetzes über das Beschlußverfahren für die Fälle des Betriebsverfassungsgesetzes finden Anwendung.
 

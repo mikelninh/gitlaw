@@ -77,28 +77,20 @@ Das in den übergehenden Gebieten belegene Verwaltungsvermögen von Körperschaf
 ### Anlage 1a — zum Staatsvertrag über die Umgliederung von Gemeinden
 aus dem Landkreis Ludwigslust
 
-(Inhalt: nicht darstellbare topographische Karte,
-
 ### Anlage 1b — zum Staatsvertrag über die Umgliederung von Gemeinden
 und Ortsteilen aus dem Landkreis Perleberg
-
-(Inhalt: nicht darstellbare topographische Karte,
 
 ### Anlage 1c — zum Staatsvertrag über die Umgliederung von Gemeinden
 aus den Landkreisen Strasburg und Pasewalk
 
-(Inhalt: nicht darstellbare topographische Karte,
-
 ### Anlage 1d — zum Staatsvertrag über die Umgliederung von Gemeinden
 aus dem Landkreis Pasewalk
 
-(Inhalt: nicht darstellbare topographische Karte,
-
 ### (XXXX) — Protokollnotiz zum Vertrag zwischen den Ländern Brandenburg und Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze vom 9. Mai 1992
 
-1.
+1. Die vertragschließenden Seiten sind sich einig darüber, daß die Verpflichtung besteht, bis zur Neufeststellung der einwohnerbezogenen Anteile der neuen Bundesländer am Fonds "Deutsche Einheit" sowie am Länderanteil des Umsatzsteueraufkommens der jeweils anderen Seite die für die auszugliedernden Gemeinden bzw. Ortsteile bestimmten einwohnerbezogenen Anteile zu überweisen. Die technische Abwicklung der Überweisung regelt eine Vereinbarung zwischen dem Ministerium der Finanzen des Landes Brandenburg und dem Ministerium der Finanzen des Landes Mecklenburg-Vorpommern.
 
-2.
+2. Die vertragschließenden Seiten sind sich darüber einig, daß die Verpflichtung besteht, soziale Leistungsgesetze im bisherigen Umfang und in bisheriger Höhe bis zum Auslaufen der jeweiligen Leistungsbescheide durch den bisherigen Leistungsträger zu gewährleisten. Die Verrechnung der Leistungen zwischen den beiden vertragschließenden Parteien erfolgt abweichend von den Regelungen der SGB I-X zwischen den jeweiligen Landesressorts der beteiligten Länder. Soweit zur Finanzierung von Sozialleistungen aus gesetzlicher Verpflichtung Mittel aus dem Bundeshaushalt zum Einsatz kommen, ist das jeweils erst bewilligende Land berechtigt, den jeweiligen Bundesanteil einzufordern.
 
 ### (XXXX) — Protokollnotiz zum Vertrag zwischen den Ländern Brandenburg und Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze vom 9. Mai 1992
 
@@ -106,8 +98,4 @@ Die vertragschließenden Parteien sind sich einig darüber, daß die Worte "gege
 
 ### (XXXX) — Protokollnotiz zum Vertrag zwischen den Ländern Brandenburg und Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze vom 9. Mai 1992
 
-Die vertragschließenden Parteien sind sich einig, daß die Eintrittspflicht in die bestehenden Arbeitsverhältnisse gemäß Artikel 4 zwischen den einzelnen Fachressorts des Landes Brandenburg und den Fachressorts des Landes Mecklenburg-Vorpommern geregelt wird. Eine Übernahme von Bediensteten aus dem Polizeibereich findet grundsätzlich nicht statt.
-
 ### (XXXX) — Protokollnotiz zum Vertrag zwischen den Ländern Brandenburg und Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze vom 9. Mai 1992
-
-Die vertragschließenden Parteien sind sich darüber einig, daß weiterhin die Beschulung über die Ländergrenzen hinaus auf Wunsch der Eltern möglich sein soll. Die zuständigen Fachressorts, das Kulturministerium des Landes Mecklenburg-Vorpommern und das Ministerium für Bildung, Jugend und Sport des Landes Brandenburg, werden zur Gewährleistung der länderübergreifenden Beschulung eine Vereinbarung schließen, die näheres regelt.

@@ -24,11 +24,41 @@ Die Ausbildung dauert drei Jahre.
 
 ### § 4 — Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse: 1.Berufsbildung, 2.Aufbau und Organisation des Ausbildungsbetriebes, 3.Arbeits- und Tarifrecht, Arbeitsschutz, 4.Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung, 5.Lesen und Anfertigen von Skizzen, Zeichnungen und technischen Unterlagen, 6.Gestalten und Vorbereiten von Bildhauerarbeiten und Schnitzarbeiten, 7.Erstellen von Modellen, Anwenden von Abformverfahren, 8.Be- und Verarbeiten von Hölzern, 9.Handhaben und Instandhalten von Meßzeugen, Handwerkzeugen und Hilfsmitteln, 10.Bedienen und Warten von Maschinen, 11.Ausführen von Bildhauerarbeiten und Schnitzarbeiten in verschiedenen Materialien, 12.Behandeln von Oberflächen, 13.Fundamentieren, Versetzen und Verankern von Werkstücken, 14.Restaurieren von Bildhauerarbeiten und Schnitzarbeiten.
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
+
+1. Berufsbildung,
+
+2. Aufbau und Organisation des Ausbildungsbetriebes,
+
+3. Arbeits- und Tarifrecht, Arbeitsschutz,
+
+4. Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung,
+
+5. Lesen und Anfertigen von Skizzen, Zeichnungen und technischen Unterlagen,
+
+6. Gestalten und Vorbereiten von Bildhauerarbeiten und Schnitzarbeiten,
+
+7. Erstellen von Modellen, Anwenden von Abformverfahren,
+
+8. Be- und Verarbeiten von Hölzern,
+
+9. Handhaben und Instandhalten von Meßzeugen, Handwerkzeugen und Hilfsmitteln,
+
+10. Bedienen und Warten von Maschinen,
+
+11. Ausführen von Bildhauerarbeiten und Schnitzarbeiten in verschiedenen Materialien,
+
+12. Behandeln von Oberflächen,
+
+13. Fundamentieren, Versetzen und Verankern von Werkstücken,
+
+14. Restaurieren von Bildhauerarbeiten und Schnitzarbeiten.
 
 ### § 5 — Ausbildungsrahmenplan
 
-(1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung der Ausbildungsinhalte ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
+(1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung der Ausbildungsinhalte ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
+
+(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 ### § 6 — Ausbildungsplan
 
@@ -40,31 +70,59 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 ### § 8 — Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr und unter laufender Nummer 8 Buchstabe c und d, laufender Nummer 9 Buchstabe e und f, laufender Nummer 10 Buchstabe a bis c, laufender Nummer 11 Buchstabe c und d und laufender Nummer 12 Buchstabe a für das zweite Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.(3) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens vier Stunden eine Arbeitsprobe durchführen. Hierfür kommt insbesondere in Betracht: 1.Schneiden einer Schrift nach Vorlage, 2.Anfertigen eines Zeichens nach Vorlage, 3.Anfertigen eines Teiles einer figürlichen Plastik nach Modell, 4.Anfertigen einer Form nach Modell. (4) Der Prüfling soll in der schriftlichen Prüfung in insgesamt höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, aus folgenden Gebieten lösen: 1.Arbeitssicherheit, Gesundheitsschutz und Umweltschutz, 2.Bearbeitungsverfahren, 3.Holz, Klebstoffe und Abformmaterialien, 4.Handwerkzeuge, Geräte und Maschinen, 5.Skizzieren und Zeichnen eines Werkstückes. (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
+
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr und unter laufender Nummer 8 Buchstabe c und d, laufender Nummer 9 Buchstabe e und f, laufender Nummer 10 Buchstabe a bis c, laufender Nummer 11 Buchstabe c und d und laufender Nummer 12 Buchstabe a für das zweite Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+
+(3) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens vier Stunden eine Arbeitsprobe durchführen. Hierfür kommt insbesondere in Betracht:
+
+1. Schneiden einer Schrift nach Vorlage,
+
+2. Anfertigen eines Zeichens nach Vorlage,
+
+3. Anfertigen eines Teiles einer figürlichen Plastik nach Modell,
+
+4. Anfertigen einer Form nach Modell.
+
+(4) Der Prüfling soll in der schriftlichen Prüfung in insgesamt höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, aus folgenden Gebieten lösen:
+
+1. Arbeitssicherheit, Gesundheitsschutz und Umweltschutz,
+
+2. Bearbeitungsverfahren,
+
+3. Holz, Klebstoffe und Abformmaterialien,
+
+4. Handwerkzeuge, Geräte und Maschinen,
+
+5. Skizzieren und Zeichnen eines Werkstückes.
+
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
 ### § 9 — Abschlußprüfung/Gesellenprüfung
 
-(1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.(2) Der Prüfling soll in der praktischen Prüfung in höchstens sieben Stunden zwei Arbeitsproben durchführen und in höchstens 80 Stunden ein Prüfungsstück anfertigen. 1.Als Arbeitsproben kommen insbesondere in Betracht:a)Anfertigen eines plastischen Werkstückes und b)Anfertigen eines ornamentalen Werkstückes. 2.Als Prüfungsstück kommt insbesondere in Betracht:Anfertigen einer Holzbildhauerarbeit nach Modell oder nach Entwurf. Der Prüfling hat vor dem Anfertigen des Prüfungsstückes eine maßstabgerechte Zeichnung und eine technische Beschreibung des Prüfungsstückes dem Prüfungsausschuß zur Genehmigung vorzulegen. Die Arbeitsproben sollen zusammen mit 60 vom Hundert und das Prüfungsstück soll mit 40 vom Hundert gewichtet werden.(3) Der Prüfling soll in der schriftlichen Prüfung in den Prüfungsfächern Technologie, Arbeitsplanung sowie Wirtschafts- und Sozialkunde geprüft werden. Es kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht: 1.im Prüfungsfach Technologie:a)Arbeitssicherheit und Gesundheitsschutz, b)Energieeinsparung und umweltgerechter Umgang mit Werk- und Hilfsstoffen, c)Werkstoffe und Hilfsstoffe, d)Werkzeuge, Meß- und Prüfgeräte, e)Übertragen von Maßen, Vergrößern und Verkleinern, f)Bearbeitungstechniken, g)Verbindungstechniken, h)Oberflächengestaltungs- und Oberflächenbeschichtungstechniken, i)Montage- und Versetztechniken, k)Festigkeits- und Kräfteberechnungen, l)Kopier-, Ergänzungs- und Reparaturarbeiten; 2.im Prüfungsfach Arbeitsplanung:a)Kunstgeschichte und Gestaltungselemente, b)Entwerfen, Planen und Vorbereiten einer Arbeit, c)Lesen, Anwenden und Erstellen technischer Unterlagen, d)Materialbedarf und Fertigungskosten; 3.im Prüfungsfach Wirtschafts- und Sozialkunde:allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt. (4) Für die schriftliche Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
+(1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-1.
+(2) Der Prüfling soll in der praktischen Prüfung in höchstens sieben Stunden zwei Arbeitsproben durchführen und in höchstens 80 Stunden ein Prüfungsstück anfertigen.
 
-im Prüfungsfach Technologie
+1. Als Arbeitsproben kommen insbesondere in Betracht:a)Anfertigen eines plastischen Werkstückes und b)Anfertigen eines ornamentalen Werkstückes. Anfertigen eines plastischen Werkstückes und Anfertigen eines ornamentalen Werkstückes.
 
-180 Minuten,
+2. Als Prüfungsstück kommt insbesondere in Betracht: Anfertigen einer Holzbildhauerarbeit nach Modell oder nach Entwurf.
 
-2.
+(3) Der Prüfling soll in der schriftlichen Prüfung in den Prüfungsfächern Technologie, Arbeitsplanung sowie Wirtschafts- und Sozialkunde geprüft werden. Es kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
-im Prüfungsfach Arbeitsplanung
+1. im Prüfungsfach Technologie:a)Arbeitssicherheit und Gesundheitsschutz, b)Energieeinsparung und umweltgerechter Umgang mit Werk- und Hilfsstoffen, c)Werkstoffe und Hilfsstoffe, d)Werkzeuge, Meß- und Prüfgeräte, e)Übertragen von Maßen, Vergrößern und Verkleinern, f)Bearbeitungstechniken, g)Verbindungstechniken, h)Oberflächengestaltungs- und Oberflächenbeschichtungstechniken, i)Montage- und Versetztechniken, k)Festigkeits- und Kräfteberechnungen, l)Kopier-, Ergänzungs- und Reparaturarbeiten; Arbeitssicherheit und Gesundheitsschutz, Energieeinsparung und umweltgerechter Umgang mit Werk- und Hilfsstoffen, Werkstoffe und Hilfsstoffe, Werkzeuge, Meß- und Prüfgeräte, Übertragen von Maßen, Vergrößern und Verkleinern, Bearbeitungstechniken, Verbindungstechniken, Oberflächengestaltungs- und Oberflächenbeschichtungstechniken, Montage- und Versetztechniken, Festigkeits- und Kräfteberechnungen, Kopier-, Ergänzungs- und Reparaturarbeiten;
 
-90 Minuten,
+2. im Prüfungsfach Arbeitsplanung:a)Kunstgeschichte und Gestaltungselemente, b)Entwerfen, Planen und Vorbereiten einer Arbeit, c)Lesen, Anwenden und Erstellen technischer Unterlagen, d)Materialbedarf und Fertigungskosten; Kunstgeschichte und Gestaltungselemente, Entwerfen, Planen und Vorbereiten einer Arbeit, Lesen, Anwenden und Erstellen technischer Unterlagen, Materialbedarf und Fertigungskosten;
 
-3.
+3. im Prüfungsfach Wirtschafts- und Sozialkunde: allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
-im Prüfungsfach Wirtschafts- und Sozialkunde
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
-60 Minuten.
+(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der mündlichen das doppelte Gewicht.
 
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der mündlichen das doppelte Gewicht.(7) Innerhalb der schriftlichen Prüfung hat das Prüfungsfach Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.(8) Die Prüfung ist bestanden, wenn jeweils in der praktischen und der schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht sind.
+(7) Innerhalb der schriftlichen Prüfung hat das Prüfungsfach Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
+
+(8) Die Prüfung ist bestanden, wenn jeweils in der praktischen und der schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht sind.
 
 ### § 10 — Aufheben von Vorschriften
 
@@ -79,5 +137,3 @@ Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung best
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 ### Anlage — (zu § 5)
-
-(Fundstelle: BGBl. I 1997, S. 96 - 99)Lfd. Nr.Teil des Ausbildungs-berufsbildesFertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sindZeitliche Richtwerte in Wochen im Ausbildungsjahr12312341Berufsbildung (§ 4 Nr. 1)a)Bedeutung des Ausbildungsvertrages , insbesondere Abschluß, Dauer und Beendigung, erklärenwährend der gesamten Ausbildung zu vermittelnb)gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennenc)Inhalte der Ausbildungsordnung und den betrieblichen Ausbildungsplan erläuternd)Möglichkeiten der beruflichen Fortbildung nennen2Aufbau und Organisation des Ausbildungs-betriebes (§ 4 Nr. 2)a)Aufbau und Aufgaben des ausbildenden Betriebes erläuternb)Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklärenc)Beziehung des ausbildenden Betriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennend)Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungsrechtlichen Organe des ausbildenden Betriebes beschreiben3Arbeits- und Tarifrecht, Arbeitsschutz (§ 4 Nr. 3)a)wesentliche Teile des Arbeitsvertrages nennenb)wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennenc)Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen Berufsgenossenschaft und der Gewerbeaufsicht erläuternd)wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Arbeitsschutzgesetze nennen4Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung (§ 4 Nr. 4)a)Berufsbezogene Arbeitsschutzvorschriften der Träger der gesetzlichen Unfallversicherung, insbesondere Unfallverhütungsvorschriften, Richtlinien und Merkblätter, beachten und anwendenb)Betriebsanweisungen und Arbeitssicherheitsvorschriften bei Arbeitsabläufen beachten und anwendenc)unfallverursachendes Verhalten sowie berufstypische Unfallquellen und Unfallsituationen beschreibend)Gefahren, die beim Umgang mit elektrischem Strom entstehen, beschreibene)Gefahren, die von Giften, Dämpfen, Gasen und Arbeitsstoffen ausgehen, beschreibenf)Maßnahmen für den vorbeugenden Brandschutz und Explosionsschutz ergreifeng)Brandschutzeinrichtungen und Brandbekämpfungsgeräte bedienenh)Maßnahmen der Ersten Hilfe einleiteni)zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen sowie Möglichkeiten der rationellen und umweltschonenden Materialverwendung, insbesondere durch Wiederverwendung und Entsorgung von Werk- und Hilfsstoffen, nutzenk)die im Ausbildungsbetrieb verwendeten Energiearten nennen und die Möglichkeit rationeller Energieverwendung im beruflichen Einwirkungs- und Beobachtungsbereich anführen5Lesen und Anfertigen von Skizzen, Zeichnungen und technischen Unterlagen (§ 4 Nr. 5)a)Skizzen anfertigen8 b)Pläne, Zeichnungen und Normen lesen und anwendenc)Freihandzeichnungen und Werkzeichnungen anfertigen 4 6Gestalten und Vorbereiten von Bildhauerarbeiten und Schnitzarbeiten (§ 4 Nr. 6)a)Hölzer für die Verarbeitung vorbereiten, Holzfeuchte prüfen 2 b)Schriften, Ornamente, Zeichen, Reliefs und Vollplastiken nach Vorgaben und gestalterischen Grundsätzen entwerfen 4 c)Hölzer nach Verwendungszweck sowie gestalterischen, wirtschaftlichen und ökologischen Gesichtspunkten auswählen 3 d)Kunststoffe, Steine und Metalle nach Verwendungszweck sowie gestalterischen, wirtschaftlichen und ökologischen Gesichtspunkten auswählene)Schablonen und Lehren herstellen 2 f)Maßnahmen für den konstruktiven Holzschutz auswählen und durchführen 27Erstellen von Modellen, Anwenden von Abformverfahren (§ 4 Nr. 7)a)Modellier- und Gipswerkzeuge handhaben und pflegen9 b)Modelliermassen nach Verwendungszweck unterscheiden und anwendenc)Abformmaterialien sowie Abformverfahren unterscheiden und anwenden8 d)Reliefs, Ornamente und Plastiken anlegen und ausmodellieren 5 8Be- und Verarbeiten von Hölzern (§ 4 Nr. 8)a)Eigenschaften und Fehler von Hölzern bei der Be- und Verarbeitung berücksichtigen5 b)Säge-, Hobel- und Bohrarbeiten ausführenc)Klebstoffe auswählen und vorbereiten 3 d)Breiten- und Blockverleimungen ausführen, Spann- und Preß-einrichtungen anwendene)Holzverbindungen auswählen und herstellen, insbesondere Nut und Feder sowie Dübel und Überblattung 29Handhaben und Instandhalten von Meß-zeugen, Handwerkzeugen und Hilfsmitteln (§ 4 Nr. 9)a)Handwerkzeuge, insbesondere für die Bearbeitung von Holz, Kunststoff, Stein und Metall, nach ihrem Verwendungszweck auswählen8 b)Handwerkzeuge für die Holzbearbeitung handhaben, insbesondere Klüpfel, Schnitzeisen, Raspeln und Feilenc)Schnitzeisen schärfend)Handwerkzeuge für die Holzbearbeitung instandhaltene)Meßzeuge und Hilfsmittel auswählen und anwenden, insbesondere Taster, Punktiergeräte und Figurenschraube 2 f)Meßzeuge und Hilfsmittel instandhalteng)Handwerkzeuge für die Kunststoff-, Stein- und Metallbearbeitung handhaben und instandhalten 2 10Bedienen und Warten von Maschinen (§ 4 Nr. 10)a)Maschinen und Vorrichtungen nach dem Verwendungszweck unterscheiden, einrichten und bedienen 5 b)Sicherheitsvorschriften einhalten und Schutzeinrichtungen einsetzenc)Maschinenstörungen erkennen und Fehlerbeseitigung einleitend)Maschinenwerkzeuge auswechseln und instandhalten 2 e)Maschinen und Vorrichtungen wartenf)Handoberfräse einsetzen 211Ausführen von Bildhauerarbeiten und Schnitzarbeiten in verschiedenen Materialien (§ 4 Nr. 11)a)Arbeitsplatz einrichten14 b)Hölzer in unterschiedlichen Techniken formgebend bearbeitenc)Schriften und Zeichen ausführen 5 d)plastische Arbeiten durch Kopieren von Modellen herstellen, insbesondere durch Punktieren 9 e)Plastische Arbeiten nach Modellen und nach Zeichnungen herstellen, insbesondere vergrößern und verkleinern 7f)Kunststoffe und Steine in unterschiedlichen materialbedingten Techniken formgebend bearbeiten 4g)Werkstücke unter Berücksichtigung material- und formbedingter Besonderheiten zusammenbauen 4h)Oberflächenstrukturen herstellen 4i)Arbeitsergebnisse bewerten 212Behandeln von Oberflächen (§ 4 Nr. 12)a)Holzoberflächen für die weitere Behandlung vorbereiten, insbesondere schleifen, wässern und ausbessern 2 b)Hilfs-, Färbe- und Überzugsmittel dem Verwendungszweck zuordnen sowie den Vorschriften entsprechend lagern und entsorgen 2 c)Kunststoff- und andere Oberflächen für die weitere Behandlung vorbereiten, insbesondere spachteln, schleifen und ausbessern 2d)Oberflächen im Hinblick auf Gestaltung und Beanspruchung unter Berücksichtigung des Gesundheitsschutzes behandeln, insbesondere durch Beizen, Ölen, Wachsen, Lasieren, Lackieren und Auftragen von Holzschutz- und Korrosionsschutzmitteln 513Fundamentieren, Versetzen und Verankern von Werkstücken (§ 4 Nr. 13)a)Vermessungsarbeiten ausführen 5b)Fundamente herstellenc)Werkstücke lagern und transportierend)Werkstücke versetzen und verankerne)Arbeitsgerüste unter Beachtung der Sicherheitsvorschriften auf- und abbauen14Restaurieren von Bildhauerarbeiten und Schnitzarbeiten (§ 4 Nr. 14)a)Stilarten unterscheiden und bei Restaurierungsarbeiten berücksichtigen 13b)Objekte ausbessernc)fehlende Teile herstellen und anpassend)Oberflächen wiederherstellen

@@ -34,25 +34,25 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (1) Verkehrsdaten im Sinne dieses Gesetzes sind Daten, die bei der Erbringung eines Telekommunikationsdienstes im Digitalfunk BOS im Zuständigkeitsbereich der Bundesanstalt entstehen. Die Verkehrsdaten umfassen
 
-1.
+1. die Gerätenummer zur Identifikation eines Endgerätes,
 
-2.
+2. den Identifizierungsdatensatz der im Endgerät befindlichen Sicherheitskarte oder Teile davon,
 
-3.
+3. die Gruppenkennung,
 
-4.
+4. die Basisstationskennung,
 
-5.
+5. für jedes Endgerät Datum und Uhrzeit der Einbuchung und Ausbuchung aus einer Basisstation sowie erfolgloser Einbuchungsversuche,
 
-6.
+6. den Beginn und das Ende der jeweiligen Verbindung nach Datum und Uhrzeit sowie
 
-7.
+7. sonstige zum Aufbau und zur Aufrechterhaltung der Dienste im Digitalfunk BOS notwendige Daten.
 
 (2) Zuständige Stelle für den Betrieb des Digitalfunk BOS im Sinne dieses Gesetzes ist diejenige Stelle eines Landes oder des Bundes, die in ihrem Zuständigkeitsbereich die zentrale Schnittstelle zwischen der Betriebsorganisation der Bundesanstalt und der einsatztaktischen Nutzung des Digitalfunk BOS ist.
 
 (3) Nutzer des Digitalfunks BOS sind die zur Teilnahme am Digitalfunk BOS berechtigten Behörden und Organisationen mit Sicherheitsaufgaben nach § 2 Absatz 1 Satz 5 in Verbindung mit § 96 Absatz 4 Satz 1 Nummer 2 des Telekommunikationsgesetzes sowie die Bundeswehr.
 
-(4) Bereitstellungsdienstleistung im Sinne dieses Gesetzes für Zwecke von Aufgaben nach § 2 Absatz 1 ist die entgeltliche oder unentgeltliche Einräumung von Nutzungsrechten an Standorten für Basisstationen, Übertragungsstrecken und Netzelemente wie beispielsweise Konzentratoren sowie in diesem Zusammenhang notwendige Dienstleistungen.
+(4) Bereitstellungsdienstleistung im Sinne dieses Gesetzes für Zwecke von Aufgaben nach § 2 Absatz 1 ist die entgeltliche oder unentgeltliche Einräumung von Nutzungsrechten an Standorten für Basisstationen, Übertragungsstrecken und Netzelemente wie beispielsweise Konzentratoren sowie in diesem Zusammenhang notwendige Dienstleistungen.
 
 ### § 3 — Organe
 
@@ -76,7 +76,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 ### § 5 — Verwaltungsrat
 
-(1) Bei der Bundesanstalt wird ein Verwaltungsrat gebildet, der für Belange im Sinne des § 2 Absatz 1 Satz 1 zuständig ist. Er überwacht insoweit die Geschäftsführung durch die Präsidentin oder den Präsidenten und unterstützt diese oder diesen bei der Erfüllung ihrer oder seiner Aufgaben. Ihm obliegt die Entscheidung über die grundsätzlichen Angelegenheiten der Bundesanstalt, soweit Belange im Sinne des § 2 Absatz 1 Satz 1 betroffen sein können, sowie bei Aufgaben im Sinne von § 2 Absatz 2 Satz 1 und Absatz 3. Näheres regelt die Satzung. Die Präsidentin oder der Präsident hat den Verwaltungsrat regelmäßig über die Geschäftsführung zu unterrichten.
+(1) Bei der Bundesanstalt wird ein Verwaltungsrat gebildet, der für Belange im Sinne des § 2 Absatz 1 Satz 1 zuständig ist. Er überwacht insoweit die Geschäftsführung durch die Präsidentin oder den Präsidenten und unterstützt diese oder diesen bei der Erfüllung ihrer oder seiner Aufgaben. Ihm obliegt die Entscheidung über die grundsätzlichen Angelegenheiten der Bundesanstalt, soweit Belange im Sinne des § 2 Absatz 1 Satz 1 betroffen sein können, sowie bei Aufgaben im Sinne von § 2 Absatz 2 Satz 1 und Absatz 3. Näheres regelt die Satzung. Die Präsidentin oder der Präsident hat den Verwaltungsrat regelmäßig über die Geschäftsführung zu unterrichten.
 
 (2) Der Verwaltungsrat gibt sich eine Geschäftsordnung.
 
@@ -92,25 +92,25 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (1) Die Bundesanstalt gibt sich eine Satzung. Die Satzung wird durch den Verwaltungsrat erlassen. Sie bedarf der Genehmigung des Bundesministeriums des Innern, für Bau und Heimat und wird im Gemeinsamen Ministerialblatt veröffentlicht.
 
-(2) In die Satzung sind insbesondere Bestimmungen aufzunehmen über Die Satzung darf nicht von den Vorgaben des Verwaltungsabkommens nach § 7 abweichen. § 109 Abs. 2 Satz 2 der Bundeshaushaltsordnung ist anzuwenden.
+(2) In die Satzung sind insbesondere Bestimmungen aufzunehmen über
 
-1.
+1. die Organisation der Bundesanstalt,
 
-2.
+2. die Aufgaben und Befugnisse der Präsidentin oder des Präsidenten sowie der Vizepräsidentin oder des Vizepräsidenten,
 
-3.
+3. die Aufgaben und Befugnisse des Verwaltungsrats und seiner Mitglieder sowie über die Stimmverteilung im Verwaltungsrat,
 
-4.
+4. die Wirtschaftsführung einschließlich Buchführung und Rechnungslegung.
 
 ### § 7 — Verwaltungsabkommen
 
 Die Beteiligung der Länder am Digitalfunk BOS wird in einem Verwaltungsabkommen zwischen Bund und Ländern geregelt. Hierbei sollen insbesondere Bestimmungen getroffen werden über
 
-1.
+1. die Grundsätze der Zusammenarbeit von Bund und Ländern,
 
-2.
+2. die Beteiligung der Länder am Aufbau und Betrieb des Digitalfunk BOS, insbesondere über den Verwaltungsrat,
 
-3.
+3. die Einzelheiten der Finanzierung des Digitalfunk BOS sowie zum Zweckvermögen und zur Finanzierung der Bundesanstalt (§ 9).
 
 ### § 8 — Aufsicht
 
@@ -124,17 +124,17 @@ Die Bundesanstalt untersteht der Aufsicht des Bundesministeriums des Innern, fü
 
 ### § 10 — Wirtschaftsplan, mittelfristige Planung
 
-(1) Die Präsidentin oder der Präsident stellt bis zum 31. Oktober eines jeden Jahres einen Wirtschaftsplan für das folgende Geschäftsjahr auf, der umfasst. Der Wirtschaftsplan weist Investitionen und Aufwendungen für Aufgaben gemäß § 2 Absatz 1 Satz 1, Absatz 2 Satz 1 und Absatz 3 Satz 1 jeweils gesondert aus. Zusammen mit dem Wirtschaftsplan stellt die Präsidentin oder der Präsident eine mittelfristige Planung (Erfolgs-, Investitions- und Finanzierungsvorschau) auf, die das Planjahr und mindestens drei darauf folgende Geschäftsjahre umfasst. Geschäftsjahr ist das Kalenderjahr. Die näheren Einzelheiten regelt die Satzung.
+(1) Die Präsidentin oder der Präsident stellt bis zum 31. Oktober eines jeden Jahres einen Wirtschaftsplan für das folgende Geschäftsjahr auf, der
 
--
+- einen Erfolgsplan,
 
--
+- einen Investitions- und Finanzplan,
 
--
+- eine Übersicht über die Planstellen und Stellen sowie
 
--
+- eine Überleitungsrechnung auf Einnahmen und Ausgaben
 
-(2) Die Präsidentin oder der Präsident legt dem Verwaltungsrat und dem Bundesministerium des Innern, für Bau und Heimat den Wirtschaftsplan und die mittelfristige Planung unverzüglich vor. Der Wirtschaftsplan wird im Rahmen seiner Zuständigkeit gemäß § 5 Absatz 1 Satz 1 vom Verwaltungsrat und vom Bundesministerium des Innern, für Bau und Heimat für übertragene Aufgaben gemäß § 2 Absatz 2 Satz 1 und Absatz 3 Satz 1 festgestellt. Er bedarf der Genehmigung des Bundesministeriums des Innern, für Bau und Heimat im Einvernehmen mit dem Bundesministerium der Finanzen.
+(2) Die Präsidentin oder der Präsident legt dem Verwaltungsrat und dem Bundesministerium des Innern, für Bau und Heimat den Wirtschaftsplan und die mittelfristige Planung unverzüglich vor. Der Wirtschaftsplan wird im Rahmen seiner Zuständigkeit gemäß § 5 Absatz 1 Satz 1 vom Verwaltungsrat und vom Bundesministerium des Innern, für Bau und Heimat für übertragene Aufgaben gemäß § 2 Absatz 2 Satz 1 und Absatz 3 Satz 1 festgestellt. Er bedarf der Genehmigung des Bundesministeriums des Innern, für Bau und Heimat im Einvernehmen mit dem Bundesministerium der Finanzen.
 
 ### § 11 — Buchführung, Jahresabschluss
 
@@ -142,7 +142,7 @@ Die Bundesanstalt untersteht der Aufsicht des Bundesministeriums des Innern, fü
 
 (2) Die Präsidentin oder der Präsident der Bundesanstalt stellt nach Abschluss des Geschäftsjahres einen Jahresabschluss und einen Lagebericht nach handelsrechtlichen Grundsätzen für große Kapitalgesellschaften auf und legt diese zur Abschlussprüfung vor.
 
-(3) Für Aufgaben gemäß § 2 Absatz 1 Satz 1 stellt der Verwaltungsrat den Jahresabschluss fest und entscheidet über die Entlastung der Präsidentin oder des Präsidenten nach § 109 Absatz 3 Satz 2 der Bundeshaushaltsordnung. Das Bundesministerium des Innern, für Bau und Heimat stellt für übertragene Aufgaben gemäß § 2 Absatz 2 Satz 1 und Absatz 3 Satz 1 den Jahresabschluss fest und entscheidet über die Entlastung der Präsidentin oder des Präsidenten im Einvernehmen mit dem Bundesministerium der Finanzen.
+(3) Für Aufgaben gemäß § 2 Absatz 1 Satz 1 stellt der Verwaltungsrat den Jahresabschluss fest und entscheidet über die Entlastung der Präsidentin oder des Präsidenten nach § 109 Absatz 3 Satz 2 der Bundeshaushaltsordnung. Das Bundesministerium des Innern, für Bau und Heimat stellt für übertragene Aufgaben gemäß § 2 Absatz 2 Satz 1 und Absatz 3 Satz 1 den Jahresabschluss fest und entscheidet über die Entlastung der Präsidentin oder des Präsidenten im Einvernehmen mit dem Bundesministerium der Finanzen.
 
 (4) Näheres regelt die Satzung. § 109 Abs. 2 Satz 3 und 4 der Bundeshaushaltsordnung ist anzuwenden.
 
@@ -168,13 +168,13 @@ Auf die Arbeitnehmerinnen, Arbeitnehmer und Auszubildenden der Bundesanstalt sin
 
 ### § 15 — Abwehr netzspezifischer Gefahren, Überwachung
 
-(1) Soweit es der Schutz der Funktionsfähigkeit und des laufenden Betriebs des Digitalfunk BOS dringend erfordert, ist die Präsidentin oder der Präsident befugt, die im Einzelfall zur Abwehr von Gefahren für den Digitalfunk BOS erforderlichen netz- und betriebsbezogenen Anordnungen zu treffen. Insbesondere kann die Präsidentin oder der Präsident der Bundesanstalt Die Umsetzung der Anordnung nach Satz 1 erfolgt auf Ersuchen der Präsidentin oder des Präsidenten durch die zuständige Polizei- oder Ordnungsbehörde. Ein generelles Ersuchen ist zulässig. Die Voraussetzungen für ein Tätigwerden werden in diesem Fall durch vorherige Vereinbarung festgelegt. Die sonstigen Vorschriften und Grundsätze der Amts- und Vollzugshilfe bleiben unberührt.
+(1) Soweit es der Schutz der Funktionsfähigkeit und des laufenden Betriebs des Digitalfunk BOS dringend erfordert, ist die Präsidentin oder der Präsident befugt, die im Einzelfall zur Abwehr von Gefahren für den Digitalfunk BOS erforderlichen netz- und betriebsbezogenen Anordnungen zu treffen. Insbesondere kann die Präsidentin oder der Präsident der Bundesanstalt
 
-1.
+1. Beschäftigten der Bundesanstalt den Zugang zu Gebäuden, Einrichtungen und Computersystemen verschaffen, die für den Betrieb des Netzes von Bedeutung sind,
 
-2.
+2. die Steuerung solcher Systeme übernehmen,
 
-3.
+3. Dritte von dem Zugang zu Gebäuden, Einrichtungen und Computersystemen oder von der Steuerung solcher Systeme ausschließen.
 
 (2) Anordnungen nach Absatz 1 müssen auf den Zeitraum beschränkt werden, in dem die Gefahr andauert. Im Übrigen gelten die §§ 15 bis 20 des Bundespolizeigesetzes entsprechend.
 
@@ -188,13 +188,13 @@ Auf die Arbeitnehmerinnen, Arbeitnehmer und Auszubildenden der Bundesanstalt sin
 
 (1) Im Digitalfunk BOS werden nur solche Endgeräte verwendet, die von der Bundesanstalt als hierfür geeignet zertifiziert worden sind. Die Bundesanstalt ist berechtigt, die erforderlichen Maßnahmen zu treffen, um die Nutzung des Digitalfunks BOS mittels nicht zertifizierter Endgeräte zu unterbinden. Die Bundesanstalt zertifiziert auf der Grundlage der entsprechend der Rechtsverordnung nach § 15b Absatz 1 veröffentlichten Leistungsmerkmale ein Endgerät als für den Digitalfunk BOS geeignet, wenn
 
-1.
+1. es die zwingend erforderlichen Leistungsmerkmale einschließlich bestimmter elektromagnetischer und mechanischer Eigenschaften aufweist,
 
-2.
+2. es einschließlich aller weiteren, optionalen Leistungsmerkmale, seines Zubehörs und der auf ihm installierten Anwendungen mit dem Digitalfunk BOS, insbesondere mit seinen Netzelementen und anderen Endgeräten, interoperabel und störungsfrei zu betreiben ist,
 
-3.
+3. die Verwendung des Endgerätes nicht gegen andere öffentlich-rechtliche Vorschriften verstößt und
 
-4.
+4. der Erteilung des Zertifikats keine überwiegenden öffentlichen Interessen, insbesondere sicherheitspolitische Belange der Bundesrepublik Deutschland, entgegenstehen.
 
 (2) Die Bundesanstalt entscheidet auf schriftlichen oder elektronischen Antrag des Herstellers oder Lieferanten eines Endgerätes über die Erteilung eines Zertifikats. Die Überprüfung der Einhaltung der Anforderungen nach Absatz 1 Satz 3 Nummer 1 und 2 soll durch eine sachverständige Prüfstelle aus einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erfolgen. Sie wird vom Hersteller oder Lieferanten beauftragt und nimmt die Prüfung anhand der von der Bundesanstalt festgelegten und gemäß der Rechtsverordnung nach § 15b Absatz 1 veröffentlichten Prüfkriterien vor. Die Bundesanstalt kann die Prüfung auch selbst durchführen. Der Antragsteller legt der Bundesanstalt die für die Erteilung des Zertifikats erforderlichen Unterlagen, insbesondere den Prüfbericht der Prüfstelle, vor und erteilt die Auskünfte, die für die Erteilung des Zertifikats erforderlich sind. Der Antragsteller hat zwei Einzelstücke des zu zertifizierenden Endgerätes unentgeltlich bei der Bundesanstalt abzuliefern; im Fall der vollständigen Versagung des Zertifikats wird die Bundesanstalt eines der Einzelstücke an den Antragsteller zurückgeben. Das Zertifikat führt die Leistungsmerkmale und Anwendungen des Endgerätes auf, auf die sich das Zertifikat bezieht. Satz 6 findet keine Anwendung, wenn es sich bei dem zu zertifizierenden Endgerät um eine mobile oder stationäre Funkleitstelle handelt.
 
@@ -206,23 +206,15 @@ Auf die Arbeitnehmerinnen, Arbeitnehmer und Auszubildenden der Bundesanstalt sin
 
 ### § 15b — Erlass von Rechtsverordnungen; Widerspruchsgebühren
 
-(1) Das Bundesministerium des Innern, für Bau und Heimat erlässt durch Rechtsverordnung Bestimmungen über die Einzelheiten des Zertifizierungsverfahrens und den Inhalt der Zertifikate nach § 15a Absatz 1 bis 3, insbesondere über Das Bundesministerium des Innern, für Bau und Heimat kann diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
+(1) Das Bundesministerium des Innern, für Bau und Heimat erlässt durch Rechtsverordnung Bestimmungen über die Einzelheiten des Zertifizierungsverfahrens und den Inhalt der Zertifikate nach § 15a Absatz 1 bis 3, insbesondere über
 
-1.
+1. die Anforderungen an den Antrag, die Reihenfolge der Bearbeitung der Anträge, die Mitwirkungspflichten von Antragstellern und die Veröffentlichung erteilter Zertifikate,
 
-2.
+2. die Form und die Voraussetzungen einer Veröffentlichung der von der Bundesanstalt vorgegebenen a)Leistungsmerkmale einschließlich der dazugehörigen Leistungsbeschreibungen, die sich auch auf die Bedienbarkeit beziehen können,b)Einstufung einzelner Leistungsmerkmale als zwingend erforderlich,c)weiteren Anforderungen nach § 15a Absatz 1 Satz 3 Nummer 2 sowied)Prüfkriterien nach § 15a Absatz 2 Satz 3, Leistungsmerkmale einschließlich der dazugehörigen Leistungsbeschreibungen, die sich auch auf die Bedienbarkeit beziehen können, Einstufung einzelner Leistungsmerkmale als zwingend erforderlich, weiteren Anforderungen nach § 15a Absatz 1 Satz 3 Nummer 2 sowie Prüfkriterien nach § 15a Absatz 2 Satz 3,
 
-a)
+3. die Dauer der in § 15a Absatz 5 genannten Übergangsfrist; die Übergangsfrist endet spätestens am 31. Dezember 2011,
 
-b)
-
-c)
-
-d)
-
-3.
-
-4.
+4. die Maßstäbe für die Einstufung einer Änderung eines bereits zertifizierten Endgerätes als wesentlich oder unwesentlich und die Einzelheiten der Anzeige nach § 15a Absatz 3 Satz 4.
 
 (2) Für individuell zurechenbare öffentliche Leistungen nach § 15 Absatz 1 und § 15a werden zur Deckung des Verwaltungsaufwands Gebühren und Auslagen erhoben. Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung die gebührenpflichtigen Tatbestände, die Gebührensätze sowie die Auslagenerstattung zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Auslagen können abweichend von § 23 Absatz 6 des Bundesgebührengesetzes bestimmt werden. Das Bundesministerium des Innern, für Bau und Heimat kann die Ermächtigung nach den Sätzen 2 und 3 durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
@@ -262,21 +254,21 @@ Für die Verarbeitung personenbezogener Daten durch die Bundesanstalt gelten die
 
 (1) Die Bundesanstalt darf Verkehrsdaten verarbeiten, soweit dies zum Betreiben des Digitalfunk BOS und zur Sicherstellung der Funktionsfähigkeit des Digitalfunk BOS erforderlich ist. Die Verarbeitung ist insbesondere zulässig:
 
-1.
+1. zum Erkennen, Eingrenzen oder Beseitigen von Störungen oder Fehlern und
 
-2.
+2. zum technischen Kapazitäts- und Verfügbarkeitsmanagement im Rahmen der Einsatzvorbereitung, -durchführung und -nachbereitung im Digitalfunk BOS.
 
 (2) Wenn der Bundesanstalt tatsächliche Anhaltspunkte für eine rechtswidrige Inanspruchnahme des Digitalfunk BOS vorliegen, darf sie Verkehrsdaten auch verarbeiten, soweit dies erforderlich ist, um die rechtswidrige Inanspruchnahme des Digitalfunk BOS festzustellen und zu unterbinden; die tatsächlichen Anhaltspunkte sind aktenkundig zu machen und der behördliche Datenschutzbeauftragte ist über die beabsichtigte Verarbeitung zu informieren.
 
-(3) Soweit es zur Weiterentwicklung des Digitalfunk BOS erforderlich ist, darf die Bundesanstalt Verkehrsdaten auch für die folgenden Zwecke weiterverarbeiten: Die Verkehrsdaten von Gesprächsteilnehmern außerhalb des Digitalfunk BOS sind unverzüglich zu anonymisieren. Im Übrigen ist von den Möglichkeiten der Pseudonymisierung und Anonymisierung zum frühestmöglichen Zeitpunkt Gebrauch zu machen.
+(3) Soweit es zur Weiterentwicklung des Digitalfunk BOS erforderlich ist, darf die Bundesanstalt Verkehrsdaten auch für die folgenden Zwecke weiterverarbeiten:
 
-1.
+1. zur bedarfsgerechten Gestaltung von Diensten,
 
-2.
+2. zur Optimierung von Netzkapazitäten,
 
-3.
+3. zur Verbesserung der Funkqualität und
 
-4.
+4. zur Einführung von neuen Leistungsmerkmalen.
 
 (4) Zur Sicherstellung, dass die Zwecke der Absätze 1 bis 3 erfüllt werden können, dürfen Verkehrsdaten nach ihrem Entstehen 75 Tage gespeichert werden. Nach Ablauf dieser Frist, sind die Verkehrsdaten zu löschen oder zu anonymisieren, es sei denn, ihre weitere Speicherung ist zu den in den Absätzen 1 bis 3 genannten Zwecken erforderlich. Die weitere Speicherung ist zu begründen und zu dokumentieren. In Abständen von drei Monaten ist zu überprüfen, ob eine weitere Speicherung der Verkehrsdaten für die in den Absätzen 1 bis 3 genannten Zwecke erforderlich ist. Wird im Rahmen der Überprüfung festgestellt, dass eine weitere Speicherung der Verkehrsdaten nicht erforderlich ist, sind die Verkehrsdaten unverzüglich zu löschen oder zu anonymisieren.
 
@@ -284,15 +276,15 @@ Für die Verarbeitung personenbezogener Daten durch die Bundesanstalt gelten die
 
 (1) Verkehrsdaten dürfen von der Bundesanstalt an die Zuständigen Stellen für den Betrieb des Digitalfunk BOS übermittelt und von diesen verarbeitet werden, soweit dies erforderlich ist
 
-1.
+1. zu den in § 19 Absatz 1 genannten Zwecken und
 
-2.
+2. für die Überprüfung der Zuordnung von Endgeräten zu Nutzern.
 
-(2) Um das Wiederauffinden eines abhandengekommenen Endgerätes zu unterstützen, darf auf Antrag eines Nutzers die Bundesanstalt an die für diesen Nutzer verantwortliche Zuständige Stelle für den Betrieb des Digitalfunk BOS folgende Daten übermitteln: Der Antrag ist durch den Nutzer über die für ihn verantwortliche Zuständige Stelle für den Betrieb des Digitalfunk BOS zu stellen und hat Angaben zur Identifizierung des Endgerätes zu enthalten.
+(2) Um das Wiederauffinden eines abhandengekommenen Endgerätes zu unterstützen, darf auf Antrag eines Nutzers die Bundesanstalt an die für diesen Nutzer verantwortliche Zuständige Stelle für den Betrieb des Digitalfunk BOS folgende Daten übermitteln:
 
-1.
+1. die Kennung der Basisstationen, an denen sich das Endgerät seit dem Abhandenkommen eingebucht oder einzubuchen versucht hat, und
 
-2.
+2. den Zeitpunkt, zu dem die jeweilige Standortinformation erfasst wurde.
 
 (3) Empfänger, an die Verkehrsdaten nach den Absätzen 1 und 2 übermittelt werden, dürfen diese nur für die Zwecke verarbeiten, zu deren Erfüllung sie ihnen übermittelt werden.
 
@@ -318,25 +310,25 @@ Die Bundesanstalt übermittelt Gerichten und Strafverfolgungsbehörden zu Zwecke
 
 ### § 24 — Pflicht zur Abgabe eines Angebots für die Bereitstellung von Telekommunikationsleistungen
 
-(1) Unternehmen, die öffentliche Telekommunikationsleistungen anbieten (Telekommunikationsunternehmen), haben der Bundesanstalt auf deren Verlangen hin unverzüglich, spätestens aber drei Monate nach Zugang des Angebotsverlangens, ein Angebot zur Erfüllung der Aufgaben der Bundesanstalt nach § 2 Absatz 1 bis 3 für die Bereitstellung von Telekommunikationsleistungen zu unterbreiten. Für die Bestimmung der Preise gilt die Verordnung PR Nr 30/53 über die Preise bei öffentlichen Aufträgen vom 21. November 1953 (BAnz. 1953 Nr. 244), die zuletzt durch Artikel 70 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1864) geändert worden ist, in der jeweils geltenden Fassung mit der Maßgabe, dass die Preise vorrangig auf Grundlage marktüblicher Konditionen zu kalkulieren sind. Scheidet eine Kalkulation auf Grundlage marktüblicher Konditionen aufgrund der Besonderheiten des Einzelfalls aus, sind die Selbstkostenpreise des Telekommunikationsunternehmens gemäß der Verordnung PR Nr 30/53 über die Preise bei öffentlichen Aufträgen in der jeweils geltenden Fassung maßgeblich.
+(1) Unternehmen, die öffentliche Telekommunikationsleistungen anbieten (Telekommunikationsunternehmen), haben der Bundesanstalt auf deren Verlangen hin unverzüglich, spätestens aber drei Monate nach Zugang des Angebotsverlangens, ein Angebot zur Erfüllung der Aufgaben der Bundesanstalt nach § 2 Absatz 1 bis 3 für die Bereitstellung von Telekommunikationsleistungen zu unterbreiten. Für die Bestimmung der Preise gilt die Verordnung PR Nr 30/53 über die Preise bei öffentlichen Aufträgen vom 21. November 1953 (BAnz. 1953 Nr. 244), die zuletzt durch Artikel 70 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1864) geändert worden ist, in der jeweils geltenden Fassung mit der Maßgabe, dass die Preise vorrangig auf Grundlage marktüblicher Konditionen zu kalkulieren sind. Scheidet eine Kalkulation auf Grundlage marktüblicher Konditionen aufgrund der Besonderheiten des Einzelfalls aus, sind die Selbstkostenpreise des Telekommunikationsunternehmens gemäß der Verordnung PR Nr 30/53 über die Preise bei öffentlichen Aufträgen in der jeweils geltenden Fassung maßgeblich.
 
 (2) Die Bundesanstalt darf von einem Telekommunikationsunternehmen ein Angebot nach Absatz 1 nur verlangen, wenn
 
-1.
+1. in einem zuvor durchgeführten Verfahren zur Vergabe der Telekommunikationsleistungen keine oder keine geeigneten Angebote oder kein geeigneter Teilnahmeantrag abgegeben wurde; dies gilt auch für solche Verfahren, in denen sich der Auftraggeber in vergaberechtlich zulässiger Weise ohne vorherige Auftragsbekanntmachung unmittelbar an alle geeigneten Unternehmen wendet; und
 
-2.
+2. ein Verlangen nach Absatz 1 an alle für die geforderte Bereitstellung von Telekommunikationsleistungen geeigneten Telekommunikationsunternehmen gerichtet wird.
 
 (3) Die Bundesanstalt darf die Abgabe eines Angebots nach Absatz 1 nur für die Bereitstellung solcher Telekommunikationsleistungen verlangen, die weder von ihr selbst noch durch Nutzung von vorhandenen bundeseigenen oder aufgrund von Vereinbarungen mit den Ländern zur Verfügung stehenden Telekommunikationsleistungen erbracht werden können. Das Vorliegen der Voraussetzungen des Satzes 1 ist von der Bundesanstalt im Angebotsverlangen gegenüber dem Telekommunikationsunternehmen zu erklären. Solange der Vertrag besteht, ist die Bundesanstalt verpflichtet, mindestens alle fünf Jahre nach dem Zustandekommen des Vertrags, der auf Grundlage der Abgabe eines Angebots nach Absatz 1 zwischen der Bundesanstalt und einem Telekommunikationsunternehmen abgeschlossen worden ist, ihre Erklärung zu erneuern, dass eine Erbringung nach Satz 1 weiterhin nicht möglich ist. Wird die verlangte Erklärung nicht binnen drei Monaten nach Abgabe des Verlangens beigebracht, kann das Telekommunikationsunternehmen den Vertrag außerordentlich kündigen.
 
 (4) Die Bundesanstalt darf ein Telekommunikationsunternehmen nicht verpflichten, soweit die angefragte Bereitstellung oder die Bedingungen der Bereitstellung von Telekommunikationsleistungen für das Telekommunikationsunternehmen aus betriebsbedingten, technischen oder rechtlichen Gründen ganz oder teilweise unmöglich oder unzumutbar sind. Dies gilt insbesondere, wenn
 
-1.
+1. diese zu einem zusätzlichen Ausbau oder der Freihaltung von Netzkapazitäten führen würden,
 
-2.
+2. diese die Ausübung der Rechte durch Dritte für Zwecke des Ausbaus von Netzen mit sehr hoher Kapazität oder des Angebots von Telekommunikationsleistungen gegenüber Endnutzern nicht nur geringfügig einschränken würden,
 
-3.
+3. die Telekommunikationsleistungen erstmalig durch das Telekommunikationsunternehmen geschaffen werden müssten oder
 
-4.
+4. das Telekommunikationsunternehmen anlässlich eines Verfahrens nach Absatz 2 Nummer 1 ein freiwilliges Angebot über geeignete alternative Telekommunikationsleistungen abgegeben hat.
 
 (5) Die Bundesanstalt und die verpflichteten Telekommunikationsunternehmen können ab Zugang des Verlangens, ein Angebot gemäß Absatz 1 abzugeben, die Bundesnetzagentur als Vermittlerin anrufen.
 

@@ -12,7 +12,21 @@ Durch den Verlagsvertrag über ein Werk der Literatur oder der Tonkunst wird der
 
 ### § 2
 
-(1) Der Verfasser hat sich während der Dauer des Vertragsverhältnisses jeder Vervielfältigung und Verbreitung des Werkes zu enthalten, die einem Dritten während der Dauer des Urheberrechts untersagt ist.(2) Dem Verfasser verbleibt jedoch die Befugnis zur Vervielfältigung und Verbreitung: 1.Für die Übersetzung in eine andere Sprache oder in eine andere Mundart; 2.für die Wiedergabe einer Erzählung in dramatischer Form oder eines Bühnenwerkes in der Form einer Erzählung; 3.für die Bearbeitung eines Werkes der Tonkunst, soweit sie nicht bloß ein Auszug oder eine Übertragung in eine andere Tonart oder Stimmlage ist; 4.für die Benutzung des Werkes zum Zwecke der mechanischen Wiedergabe für das Gehör; 5.für die Benutzung eines Schriftwerkes oder einer Abbildung zu einer bildlichen Darstellung, welche das Originalwerk seinem Inhalt nach im Wege der Kinematographie oder eines ihr ähnlichen Verfahrens wiedergibt. (3) Auch ist der Verfasser zur Vervielfältigung und Verbreitung in einer Gesamtausgabe befugt, wenn seit dem Ablaufe des Kalenderjahrs, in welchem das Werk erschienen ist, zwanzig Jahre verstrichen sind.
+(1) Der Verfasser hat sich während der Dauer des Vertragsverhältnisses jeder Vervielfältigung und Verbreitung des Werkes zu enthalten, die einem Dritten während der Dauer des Urheberrechts untersagt ist.
+
+(2) Dem Verfasser verbleibt jedoch die Befugnis zur Vervielfältigung und Verbreitung:
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+(3) Auch ist der Verfasser zur Vervielfältigung und Verbreitung in einer Gesamtausgabe befugt, wenn seit dem Ablaufe des Kalenderjahrs, in welchem das Werk erschienen ist, zwanzig Jahre verstrichen sind.
 
 ### § 3
 
@@ -24,11 +38,15 @@ Der Verleger ist nicht berechtigt, ein Einzelwerk für eine Gesamtausgabe oder e
 
 ### § 5
 
-(1) Der Verleger ist nur zu einer Auflage berechtigt. Ist ihm das Recht zur Veranstaltung mehrerer Auflagen eingeräumt, so gelten im Zweifel für jede neue Auflage die gleichen Abreden wie für die vorhergehende.(2) Ist die Zahl der Abzüge nicht bestimmt, so ist der Verleger berechtigt, tausend Abzüge herzustellen. Hat der Verleger durch eine vor dem Beginne der Vervielfältigung dem Verfasser gegenüber abgegebene Erklärung die Zahl der Abzüge niedriger bestimmt, so ist er nur berechtigt, die Auflage in der angegebenen Höhe herzustellen.
+(1) Der Verleger ist nur zu einer Auflage berechtigt. Ist ihm das Recht zur Veranstaltung mehrerer Auflagen eingeräumt, so gelten im Zweifel für jede neue Auflage die gleichen Abreden wie für die vorhergehende.
+
+(2) Ist die Zahl der Abzüge nicht bestimmt, so ist der Verleger berechtigt, tausend Abzüge herzustellen. Hat der Verleger durch eine vor dem Beginne der Vervielfältigung dem Verfasser gegenüber abgegebene Erklärung die Zahl der Abzüge niedriger bestimmt, so ist er nur berechtigt, die Auflage in der angegebenen Höhe herzustellen.
 
 ### § 6
 
-(1) Die üblichen Zuschußexemplare werden in die Zahl der zulässigen Abzüge nicht eingerechnet. Das Gleiche gilt von Freiexemplaren, soweit ihre Zahl den zwanzigsten Teil der zulässigen Abzüge nicht übersteigt.(2) Zuschußexemplare, die nicht zum Ersatz oder zur Ergänzung beschädigter Abzüge verwendet worden sind, dürfen von dem Verleger nicht verbreitet werden.
+(1) Die üblichen Zuschußexemplare werden in die Zahl der zulässigen Abzüge nicht eingerechnet. Das Gleiche gilt von Freiexemplaren, soweit ihre Zahl den zwanzigsten Teil der zulässigen Abzüge nicht übersteigt.
+
+(2) Zuschußexemplare, die nicht zum Ersatz oder zur Ergänzung beschädigter Abzüge verwendet worden sind, dürfen von dem Verleger nicht verbreitet werden.
 
 ### § 7
 
@@ -40,7 +58,9 @@ In dem Umfang, in welchem der Verfasser nach den §§ 2 bis 7 verpflichtet ist, 
 
 ### § 9
 
-(1) Das Verlagsrecht entsteht mit der Ablieferung des Werkes an den Verleger und erlischt mit der Beendigung des Vertragsverhältnisses.(2) Soweit der Schutz des Verlagsrechts es erfordert, kann der Verleger gegen den Verfasser sowie gegen Dritte die Befugnisse ausüben, die zum Schutze des Urheberrechts durch das Gesetz vorgesehen sind.
+(1) Das Verlagsrecht entsteht mit der Ablieferung des Werkes an den Verleger und erlischt mit der Beendigung des Vertragsverhältnisses.
+
+(2) Soweit der Schutz des Verlagsrechts es erfordert, kann der Verleger gegen den Verfasser sowie gegen Dritte die Befugnisse ausüben, die zum Schutze des Urheberrechts durch das Gesetz vorgesehen sind.
 
 ### § 10
 
@@ -48,11 +68,17 @@ Der Verfasser ist verpflichtet, dem Verleger das Werk in einem für die Vervielf
 
 ### § 11
 
-(1) Ist der Verlagsvertrag über ein bereits vollendetes Werk geschlossen, so ist das Werk sofort abzuliefern.(2) Soll das Werk erst nach dem Abschlusse des Verlagsvertrags hergestellt werden, so richtet sich die Frist der Ablieferung nach dem Zwecke, welchem das Werk dienen soll. Soweit sich hieraus nichts ergibt, richtet sich die Frist nach dem Zeitraum, innerhalb dessen der Verfasser das Werk bei einer seinen Verhältnissen entsprechenden Arbeitsleistung herstellen kann; eine anderweitige Tätigkeit des Verfassers bleibt bei der Bemessung der Frist nur dann außer Betracht, wenn der Verleger die Tätigkeit bei dem Abschlusse des Vertrags weder kannte noch kennen mußte.
+(1) Ist der Verlagsvertrag über ein bereits vollendetes Werk geschlossen, so ist das Werk sofort abzuliefern.
+
+(2) Soll das Werk erst nach dem Abschlusse des Verlagsvertrags hergestellt werden, so richtet sich die Frist der Ablieferung nach dem Zwecke, welchem das Werk dienen soll. Soweit sich hieraus nichts ergibt, richtet sich die Frist nach dem Zeitraum, innerhalb dessen der Verfasser das Werk bei einer seinen Verhältnissen entsprechenden Arbeitsleistung herstellen kann; eine anderweitige Tätigkeit des Verfassers bleibt bei der Bemessung der Frist nur dann außer Betracht, wenn der Verleger die Tätigkeit bei dem Abschlusse des Vertrags weder kannte noch kennen mußte.
 
 ### § 12
 
-(1) Bis zur Beendigung der Vervielfältigung darf der Verfasser Änderungen an dem Werke vornehmen. Vor der Veranstaltung einer neuen Auflage hat der Verleger dem Verfasser zur Vornahme von Änderungen Gelegenheit zu geben. Änderungen sind nur insoweit zulässig, als nicht durch sie ein berechtigtes Interesse des Verlegers verletzt wird.(2) Der Verfasser darf die Änderungen durch einen Dritten vornehmen lassen.(3) Nimmt der Verfasser nach dem Beginne der Vervielfältigung Änderungen vor, welche das übliche Maß übersteigen, so ist er verpflichtet, die hieraus entstehenden Kosten zu ersetzen; die Ersatzpflicht liegt ihm nicht ob, wenn Umstände, die inzwischen eingetreten sind, die Änderung rechtfertigen.
+(1) Bis zur Beendigung der Vervielfältigung darf der Verfasser Änderungen an dem Werke vornehmen. Vor der Veranstaltung einer neuen Auflage hat der Verleger dem Verfasser zur Vornahme von Änderungen Gelegenheit zu geben. Änderungen sind nur insoweit zulässig, als nicht durch sie ein berechtigtes Interesse des Verlegers verletzt wird.
+
+(2) Der Verfasser darf die Änderungen durch einen Dritten vornehmen lassen.
+
+(3) Nimmt der Verfasser nach dem Beginne der Vervielfältigung Änderungen vor, welche das übliche Maß übersteigen, so ist er verpflichtet, die hieraus entstehenden Kosten zu ersetzen; die Ersatzpflicht liegt ihm nicht ob, wenn Umstände, die inzwischen eingetreten sind, die Änderung rechtfertigen.
 
 ### § 13
 
@@ -76,7 +102,9 @@ Ein Verleger, der das Recht hat, eine neue Auflage zu veranstalten, ist nicht ve
 
 ### § 18
 
-(1) Fällt der Zweck, welchem das Werk dienen sollte, nach dem Abschlusse des Vertrags weg, so kann der Verleger das Vertragsverhältnis kündigen; der Anspruch des Verfassers auf die Vergütung bleibt unberührt.(2) Das gleiche gilt, wenn Gegenstand des Verlagsvertrags ein Beitrag zu einem Sammelwerk ist und die Vervielfältigung des Sammelwerkes unterbleibt.
+(1) Fällt der Zweck, welchem das Werk dienen sollte, nach dem Abschlusse des Vertrags weg, so kann der Verleger das Vertragsverhältnis kündigen; der Anspruch des Verfassers auf die Vergütung bleibt unberührt.
+
+(2) Das gleiche gilt, wenn Gegenstand des Verlagsvertrags ein Beitrag zu einem Sammelwerk ist und die Vervielfältigung des Sammelwerkes unterbleibt.
 
 ### § 19
 
@@ -84,7 +112,9 @@ Werden von einem Sammelwerke neue Abzüge hergestellt, so ist der Verleger im Ei
 
 ### § 20
 
-(1) Der Verleger hat für die Korrektur zu sorgen. Einen Abzug hat er rechtzeitig dem Verfasser zur Durchsicht vorzulegen.(2) Der Abzug gilt als genehmigt, wenn der Verfasser ihn nicht binnen einer angemessenen Frist dem Verleger gegenüber beanstandet.
+(1) Der Verleger hat für die Korrektur zu sorgen. Einen Abzug hat er rechtzeitig dem Verfasser zur Durchsicht vorzulegen.
+
+(2) Der Abzug gilt als genehmigt, wenn der Verfasser ihn nicht binnen einer angemessenen Frist dem Verleger gegenüber beanstandet.
 
 ### § 21
 
@@ -92,7 +122,9 @@ Die Bestimmung des Ladenpreises, zu welchem das Werk verbreitet wird, steht für
 
 ### § 22
 
-(1) Der Verleger ist verpflichtet, dem Verfasser die vereinbarte Vergütung zu zahlen. Eine Vergütung gilt als stillschweigend vereinbart, wenn die Überlassung des Werkes den Umständen nach nur gegen eine Vergütung zu erwarten ist.(2) Ist die Höhe der Vergütung nicht bestimmt, so ist eine angemessene Vergütung in Geld als vereinbart anzusehen.
+(1) Der Verleger ist verpflichtet, dem Verfasser die vereinbarte Vergütung zu zahlen. Eine Vergütung gilt als stillschweigend vereinbart, wenn die Überlassung des Werkes den Umständen nach nur gegen eine Vergütung zu erwarten ist.
+
+(2) Ist die Höhe der Vergütung nicht bestimmt, so ist eine angemessene Vergütung in Geld als vereinbart anzusehen.
 
 ### § 23
 
@@ -104,7 +136,11 @@ Bestimmt sich die Vergütung nach dem Absatze, so hat der Verleger jährlich dem
 
 ### § 25
 
-(1) Der Verleger eines Werkes der Literatur ist verpflichtet, dem Verfasser auf je hundert Abzüge ein Freiexemplar, jedoch im ganzen nicht weniger als fünf und nicht mehr als fünfzehn zu liefern. Auch hat er dem Verfasser auf dessen Verlangen ein Exemplar in Aushängebogen zu überlassen.(2) Der Verleger eines Werkes der Tonkunst ist verpflichtet, dem Verfasser die übliche Zahl von Freiexemplaren zu liefern.(3) Von Beiträgen, die in Sammelwerken erscheinen, dürfen Sonderabzüge als Freiexemplare geliefert werden.
+(1) Der Verleger eines Werkes der Literatur ist verpflichtet, dem Verfasser auf je hundert Abzüge ein Freiexemplar, jedoch im ganzen nicht weniger als fünf und nicht mehr als fünfzehn zu liefern. Auch hat er dem Verfasser auf dessen Verlangen ein Exemplar in Aushängebogen zu überlassen.
+
+(2) Der Verleger eines Werkes der Tonkunst ist verpflichtet, dem Verfasser die übliche Zahl von Freiexemplaren zu liefern.
+
+(3) Von Beiträgen, die in Sammelwerken erscheinen, dürfen Sonderabzüge als Freiexemplare geliefert werden.
 
 ### § 26
 
@@ -120,15 +156,27 @@ Der Verleger ist verpflichtet, das Werk, nachdem es vervielfältigt worden ist, 
 
 ### § 29
 
-(1) Ist der Verlagsvertrag auf eine bestimmte Zahl von Auflagen oder von Abzügen beschränkt, so endigt das Vertragsverhältnis, wenn die Auflagen oder Abzüge vergriffen sind.(2) Der Verleger ist verpflichtet, dem Verfasser auf Verlangen Auskunft darüber zu erteilen, ob die einzelne Auflage oder die bestimmte Zahl von Abzügen vergriffen ist.(3) Wird der Verlagsvertrag für eine bestimmte Zeit geschlossen, so ist nach dem Ablaufe der Zeit der Verleger nicht mehr zur Verbreitung der noch vorhandenen Abzüge berechtigt.
+(1) Ist der Verlagsvertrag auf eine bestimmte Zahl von Auflagen oder von Abzügen beschränkt, so endigt das Vertragsverhältnis, wenn die Auflagen oder Abzüge vergriffen sind.
+
+(2) Der Verleger ist verpflichtet, dem Verfasser auf Verlangen Auskunft darüber zu erteilen, ob die einzelne Auflage oder die bestimmte Zahl von Abzügen vergriffen ist.
+
+(3) Wird der Verlagsvertrag für eine bestimmte Zeit geschlossen, so ist nach dem Ablaufe der Zeit der Verleger nicht mehr zur Verbreitung der noch vorhandenen Abzüge berechtigt.
 
 ### § 30
 
-(1) Wird das Werk ganz oder zum Teil nicht rechtzeitig abgeliefert, so kann der Verleger, statt den Anspruch auf Erfüllung geltend zu machen, dem Verfasser eine angemessene Frist zur Ablieferung mit der Erklärung bestimmen, daß er die Annahme der Leistung nach dem Ablaufe der Frist ablehne. Zeigt sich schon vor dem Zeitpunkt, in welchem das Werk nach dem Vertrag abzuliefern ist, daß das Werk nicht rechtzeitig abgeliefert werden wird, so kann der Verleger die Frist sofort bestimmen; die Frist muß so bemessen werden, daß sie nicht vor dem bezeichneten Zeitpunkt abläuft. Nach dem Ablaufe der Frist ist der Verleger berechtigt, von dem Vertrage zurückzutreten, wenn nicht das Werk rechtzeitig abgeliefert worden ist; der Anspruch auf Ablieferung des Werkes ist ausgeschlossen.(2) Der Bestimmung einer Frist bedarf es nicht, wenn die rechtzeitige Herstellung des Werkes unmöglich ist oder von dem Verfasser verweigert wird oder wenn der sofortige Rücktritt von dem Vertrage durch ein besonderes Interesse des Verlegers gerechtfertigt wird.(3) Der Rücktritt ist ausgeschlossen, wenn die nicht rechtzeitige Ablieferung des Werkes für den Verleger nur einen unerheblichen Nachteil mit sich bringt.(4) Durch diese Vorschriften werden die im Falle des Verzugs des Verfassers dem Verleger zustehenden Rechte nicht berührt.
+(1) Wird das Werk ganz oder zum Teil nicht rechtzeitig abgeliefert, so kann der Verleger, statt den Anspruch auf Erfüllung geltend zu machen, dem Verfasser eine angemessene Frist zur Ablieferung mit der Erklärung bestimmen, daß er die Annahme der Leistung nach dem Ablaufe der Frist ablehne. Zeigt sich schon vor dem Zeitpunkt, in welchem das Werk nach dem Vertrag abzuliefern ist, daß das Werk nicht rechtzeitig abgeliefert werden wird, so kann der Verleger die Frist sofort bestimmen; die Frist muß so bemessen werden, daß sie nicht vor dem bezeichneten Zeitpunkt abläuft. Nach dem Ablaufe der Frist ist der Verleger berechtigt, von dem Vertrage zurückzutreten, wenn nicht das Werk rechtzeitig abgeliefert worden ist; der Anspruch auf Ablieferung des Werkes ist ausgeschlossen.
+
+(2) Der Bestimmung einer Frist bedarf es nicht, wenn die rechtzeitige Herstellung des Werkes unmöglich ist oder von dem Verfasser verweigert wird oder wenn der sofortige Rücktritt von dem Vertrage durch ein besonderes Interesse des Verlegers gerechtfertigt wird.
+
+(3) Der Rücktritt ist ausgeschlossen, wenn die nicht rechtzeitige Ablieferung des Werkes für den Verleger nur einen unerheblichen Nachteil mit sich bringt.
+
+(4) Durch diese Vorschriften werden die im Falle des Verzugs des Verfassers dem Verleger zustehenden Rechte nicht berührt.
 
 ### § 31
 
-(1) Die Vorschriften des § 30 finden entsprechende Anwendung, wenn das Werk nicht von vertragsmäßiger Beschaffenheit ist.(2) Beruht der Mangel auf einem Umstande, den der Verfasser zu vertreten hat, so kann der Verleger statt des in § 30 vorgesehenen Rücktrittsrechts den Anspruch auf Schadensersatz wegen Nichterfüllung geltend machen.
+(1) Die Vorschriften des § 30 finden entsprechende Anwendung, wenn das Werk nicht von vertragsmäßiger Beschaffenheit ist.
+
+(2) Beruht der Mangel auf einem Umstande, den der Verfasser zu vertreten hat, so kann der Verleger statt des in § 30 vorgesehenen Rücktrittsrechts den Anspruch auf Schadensersatz wegen Nichterfüllung geltend machen.
 
 ### § 32
 
@@ -136,19 +184,33 @@ Wird das Werk nicht vertragsmäßig vervielfältigt oder verbreitet, so finden z
 
 ### § 33
 
-(1) Geht das Werk nach der Ablieferung an den Verleger durch Zufall unter, so behält der Verfasser den Anspruch auf die Vergütung. Im übrigen werden beide Teile von der Verpflichtung zur Leistung frei.(2) Auf Verlangen des Verlegers hat jedoch der Verfasser gegen eine angemessene Vergütung ein anderes im wesentlichen übereinstimmendes Werk zu liefern, sofern dies auf Grund vorhandener Vorarbeiten oder sonstiger Unterlagen mit geringer Mühe geschehen kann; erbietet sich der Verfasser, ein solches Werk innerhalb einer angemessenen Frist kostenfrei zu liefern, so ist der Verleger verpflichtet, das Werk anstelle des untergegangenen zu vervielfältigen und zu verbreiten. Jeder Teil kann diese Rechte auch geltend machen, wenn das Werk nach der Ablieferung infolge eines Umstandes untergegangen ist, den der andere Teil zu vertreten hat.(3) Der Ablieferung steht es gleich, wenn der Verleger in Verzug der Annahme kommt.
+(1) Geht das Werk nach der Ablieferung an den Verleger durch Zufall unter, so behält der Verfasser den Anspruch auf die Vergütung. Im übrigen werden beide Teile von der Verpflichtung zur Leistung frei.
+
+(2) Auf Verlangen des Verlegers hat jedoch der Verfasser gegen eine angemessene Vergütung ein anderes im wesentlichen übereinstimmendes Werk zu liefern, sofern dies auf Grund vorhandener Vorarbeiten oder sonstiger Unterlagen mit geringer Mühe geschehen kann; erbietet sich der Verfasser, ein solches Werk innerhalb einer angemessenen Frist kostenfrei zu liefern, so ist der Verleger verpflichtet, das Werk anstelle des untergegangenen zu vervielfältigen und zu verbreiten. Jeder Teil kann diese Rechte auch geltend machen, wenn das Werk nach der Ablieferung infolge eines Umstandes untergegangen ist, den der andere Teil zu vertreten hat.
+
+(3) Der Ablieferung steht es gleich, wenn der Verleger in Verzug der Annahme kommt.
 
 ### § 34
 
-(1) Stirbt der Verfasser vor der Vollendung des Werkes, so ist, wenn ein Teil des Werkes dem Verleger bereits abgeliefert worden war, der Verleger berechtigt, in Ansehung des gelieferten Teiles den Vertrag durch eine dem Erben des Verfassers gegenüber abzugebende Erklärung aufrechtzuerhalten.(2) Der Erbe kann dem Verleger zur Ausübung des in Absatz 1 bezeichneten Rechtes eine angemessene Frist bestimmen. Das Recht erlischt, wenn sich der Verleger nicht vor dem Ablaufe der Frist für die Aufrechterhaltung des Vertrags erklärt.(3) Diese Vorschriften finden entsprechende Anwendung, wenn die Vollendung des Werkes infolge eines sonstigen nicht von dem Verfasser zu vertretenden Umstandes unmöglich wird.
+(1) Stirbt der Verfasser vor der Vollendung des Werkes, so ist, wenn ein Teil des Werkes dem Verleger bereits abgeliefert worden war, der Verleger berechtigt, in Ansehung des gelieferten Teiles den Vertrag durch eine dem Erben des Verfassers gegenüber abzugebende Erklärung aufrechtzuerhalten.
+
+(2) Der Erbe kann dem Verleger zur Ausübung des in Absatz 1 bezeichneten Rechtes eine angemessene Frist bestimmen. Das Recht erlischt, wenn sich der Verleger nicht vor dem Ablaufe der Frist für die Aufrechterhaltung des Vertrags erklärt.
+
+(3) Diese Vorschriften finden entsprechende Anwendung, wenn die Vollendung des Werkes infolge eines sonstigen nicht von dem Verfasser zu vertretenden Umstandes unmöglich wird.
 
 ### § 35
 
-(1) Bis zum Beginne der Vervielfältigung ist der Verfasser berechtigt, von dem Verlagsvertrage zurückzutreten, wenn sich Umstände ergeben, die bei dem Abschlusse des Vertrags nicht vorauszusehen waren und den Verfasser bei Kenntnis der Sachlage und verständiger Würdigung des Falles von der Herausgabe des Werkes zurückgehalten haben würden. Ist der Verleger befugt, eine neue Auflage zu veranstalten, so findet für die Auflage diese Vorschrift entsprechende Anwendung.(2) Erklärt der Verfasser auf Grund der Vorschrift des Absatzes 1 den Rücktritt, so ist er dem Verleger zum Ersatze der von diesem gemachten Aufwendungen verpflichtet. Gibt er innerhalb eines Jahres seit dem Rücktritte das Werk anderweit heraus, so ist er zum Schadensersatze wegen Nichterfüllung verpflichtet; diese Ersatzpflicht tritt nicht ein, wenn der Verfasser dem Verleger den Antrag, den Vertrag nachträglich zur Ausführung zu bringen, gemacht und der Verleger den Antrag nicht angenommen hat.
+(1) Bis zum Beginne der Vervielfältigung ist der Verfasser berechtigt, von dem Verlagsvertrage zurückzutreten, wenn sich Umstände ergeben, die bei dem Abschlusse des Vertrags nicht vorauszusehen waren und den Verfasser bei Kenntnis der Sachlage und verständiger Würdigung des Falles von der Herausgabe des Werkes zurückgehalten haben würden. Ist der Verleger befugt, eine neue Auflage zu veranstalten, so findet für die Auflage diese Vorschrift entsprechende Anwendung.
+
+(2) Erklärt der Verfasser auf Grund der Vorschrift des Absatzes 1 den Rücktritt, so ist er dem Verleger zum Ersatze der von diesem gemachten Aufwendungen verpflichtet. Gibt er innerhalb eines Jahres seit dem Rücktritte das Werk anderweit heraus, so ist er zum Schadensersatze wegen Nichterfüllung verpflichtet; diese Ersatzpflicht tritt nicht ein, wenn der Verfasser dem Verleger den Antrag, den Vertrag nachträglich zur Ausführung zu bringen, gemacht und der Verleger den Antrag nicht angenommen hat.
 
 ### § 36
 
-(1) Wird über das Vermögen des Verlegers das Insolvenzverfahren eröffnet, so finden die Vorschriften des § 103 der Insolvenzordnung auch dann Anwendung, wenn das Werk bereits vor der Eröffnung des Verfahrens abgeliefert worden war.(2) Besteht der Insolvenzverwalter auf der Erfüllung des Vertrags, so tritt, wenn er die Rechte des Verlegers auf einen anderen überträgt, dieser anstelle der Insolvenzmasse in die sich aus dem Vertragsverhältnis ergebenden Verpflichtungen ein. Die Insolvenzmasse haftet jedoch, wenn der Erwerber die Verpflichtungen nicht erfüllt, für den von dem Erwerber zu ersetzenden Schaden wie ein Bürge, der auf die Einrede der Vorausklage verzichtet hat. Wird das Insolvenzverfahren aufgehoben, so sind die aus dieser Haftung sich ergebenden Ansprüche des Verfassers gegen die Masse sicherzustellen.(3) War zur Zeit der Eröffnung des Verfahrens mit der Vervielfältigung noch nicht begonnen, so kann der Verfasser von dem Vertrage zurücktreten.
+(1) Wird über das Vermögen des Verlegers das Insolvenzverfahren eröffnet, so finden die Vorschriften des § 103 der Insolvenzordnung auch dann Anwendung, wenn das Werk bereits vor der Eröffnung des Verfahrens abgeliefert worden war.
+
+(2) Besteht der Insolvenzverwalter auf der Erfüllung des Vertrags, so tritt, wenn er die Rechte des Verlegers auf einen anderen überträgt, dieser anstelle der Insolvenzmasse in die sich aus dem Vertragsverhältnis ergebenden Verpflichtungen ein. Die Insolvenzmasse haftet jedoch, wenn der Erwerber die Verpflichtungen nicht erfüllt, für den von dem Erwerber zu ersetzenden Schaden wie ein Bürge, der auf die Einrede der Vorausklage verzichtet hat. Wird das Insolvenzverfahren aufgehoben, so sind die aus dieser Haftung sich ergebenden Ansprüche des Verfassers gegen die Masse sicherzustellen.
+
+(3) War zur Zeit der Eröffnung des Verfahrens mit der Vervielfältigung noch nicht begonnen, so kann der Verfasser von dem Vertrage zurücktreten.
 
 ### § 37
 
@@ -156,11 +218,21 @@ Auf das in den §§ 17, 30, 35, 36 bestimmte Rücktrittsrecht finden die für da
 
 ### § 38
 
-(1) Wird der Rücktritt von dem Verlagsvertrag erklärt, nachdem das Werk ganz oder zum Teil abgeliefert worden ist, so hängt es von den Umständen ab, ob der Vertrag teilweise aufrechterhalten bleibt. Es begründet keinen Unterschied, ob der Rücktritt auf Grund des Gesetzes oder eines Vorbehalts im Vertrag erfolgt.(2) Im Zweifel bleibt der Vertrag insoweit aufrechterhalten, als er sich auf die nicht mehr zur Verfügung des Verlegers stehenden Abzüge, auf frühere Abteilungen des Werkes oder auf ältere Auflagen erstreckt.(3) Soweit der Vertrag aufrechterhalten bleibt, kann der Verfasser einen entsprechenden Teil der Vergütung verlangen.(4) Diese Vorschriften finden auch Anwendung, wenn der Vertrag in anderer Weise rückgängig wird.
+(1) Wird der Rücktritt von dem Verlagsvertrag erklärt, nachdem das Werk ganz oder zum Teil abgeliefert worden ist, so hängt es von den Umständen ab, ob der Vertrag teilweise aufrechterhalten bleibt. Es begründet keinen Unterschied, ob der Rücktritt auf Grund des Gesetzes oder eines Vorbehalts im Vertrag erfolgt.
+
+(2) Im Zweifel bleibt der Vertrag insoweit aufrechterhalten, als er sich auf die nicht mehr zur Verfügung des Verlegers stehenden Abzüge, auf frühere Abteilungen des Werkes oder auf ältere Auflagen erstreckt.
+
+(3) Soweit der Vertrag aufrechterhalten bleibt, kann der Verfasser einen entsprechenden Teil der Vergütung verlangen.
+
+(4) Diese Vorschriften finden auch Anwendung, wenn der Vertrag in anderer Weise rückgängig wird.
 
 ### § 39
 
-(1) Soll Gegenstand des Vertrags ein Werk sein, an dem ein Urheberrecht nicht besteht, so ist der Verfasser zur Verschaffung des Verlagsrechts nicht verpflichtet.(2) Verschweigt der Verfasser arglistig, daß das Werk bereits anderweit in Verlag gegeben oder veröffentlicht worden ist, so finden die Vorschriften des bürgerlichen Rechtes, welche für die dem Verkäufer wegen eines Mangels im Rechte obliegende Gewährleistungspflicht gelten, entsprechende Anwendung.(3) Der Verfasser hat sich der Vervielfältigung und Verbreitung des Werkes gemäß den Vorschriften des § 2 in gleicher Weise zu enthalten, wie wenn an dem Werke ein Urheberrecht bestände. Diese Beschränkung fällt weg, wenn seit der Veröffentlichung des Werkes durch den Verleger sechs Monate abgelaufen sind.
+(1) Soll Gegenstand des Vertrags ein Werk sein, an dem ein Urheberrecht nicht besteht, so ist der Verfasser zur Verschaffung des Verlagsrechts nicht verpflichtet.
+
+(2) Verschweigt der Verfasser arglistig, daß das Werk bereits anderweit in Verlag gegeben oder veröffentlicht worden ist, so finden die Vorschriften des bürgerlichen Rechtes, welche für die dem Verkäufer wegen eines Mangels im Rechte obliegende Gewährleistungspflicht gelten, entsprechende Anwendung.
+
+(3) Der Verfasser hat sich der Vervielfältigung und Verbreitung des Werkes gemäß den Vorschriften des § 2 in gleicher Weise zu enthalten, wie wenn an dem Werke ein Urheberrecht bestände. Diese Beschränkung fällt weg, wenn seit der Veröffentlichung des Werkes durch den Verleger sechs Monate abgelaufen sind.
 
 ### § 40
 
@@ -184,15 +256,21 @@ Soll der Beitrag ohne den Namen des Verfassers erscheinen, so ist der Verleger b
 
 ### § 45
 
-(1) Wird der Beitrag nicht innerhalb eines Jahres nach der Ablieferung an den Verleger veröffentlicht, so kann der Verfasser das Vertragsverhältnis kündigen. Der Anspruch auf die Vergütung bleibt unberührt.(2) Ein Anspruch auf Vervielfältigung und Verbreitung des Beitrags oder auf Schadensersatz wegen Nichterfüllung steht dem Verfasser nur zu, wenn ihm der Zeitpunkt, in welchem der Beitrag erscheinen soll, von dem Verleger bezeichnet worden ist.
+(1) Wird der Beitrag nicht innerhalb eines Jahres nach der Ablieferung an den Verleger veröffentlicht, so kann der Verfasser das Vertragsverhältnis kündigen. Der Anspruch auf die Vergütung bleibt unberührt.
+
+(2) Ein Anspruch auf Vervielfältigung und Verbreitung des Beitrags oder auf Schadensersatz wegen Nichterfüllung steht dem Verfasser nur zu, wenn ihm der Zeitpunkt, in welchem der Beitrag erscheinen soll, von dem Verleger bezeichnet worden ist.
 
 ### § 46
 
-(1) Erscheint der Beitrag in einer Zeitung, so kann der Verfasser Freiexemplare nicht verlangen.(2) Der Verleger ist nicht verpflichtet, dem Verfasser Abzüge zum Buchhändlerpreise zu überlassen.
+(1) Erscheint der Beitrag in einer Zeitung, so kann der Verfasser Freiexemplare nicht verlangen.
+
+(2) Der Verleger ist nicht verpflichtet, dem Verfasser Abzüge zum Buchhändlerpreise zu überlassen.
 
 ### § 47
 
-(1) Übernimmt jemand die Herstellung eines Werkes nach einem Plane, in welchem ihm der Besteller den Inhalt des Werkes sowie die Art und Weise der Behandlung genau vorschreibt, so ist der Besteller im Zweifel zur Vervielfältigung und Verbreitung nicht verpflichtet.(2) Das gleiche gilt, wenn sich die Tätigkeit auf die Mitarbeit an enzyklopädischen Unternehmungen oder auf Hilfs- oder Nebenarbeiten für das Werk eines anderen oder für ein Sammelwerk beschränkt.
+(1) Übernimmt jemand die Herstellung eines Werkes nach einem Plane, in welchem ihm der Besteller den Inhalt des Werkes sowie die Art und Weise der Behandlung genau vorschreibt, so ist der Besteller im Zweifel zur Vervielfältigung und Verbreitung nicht verpflichtet.
+
+(2) Das gleiche gilt, wenn sich die Tätigkeit auf die Mitarbeit an enzyklopädischen Unternehmungen oder auf Hilfs- oder Nebenarbeiten für das Werk eines anderen oder für ein Sammelwerk beschränkt.
 
 ### § 48
 

@@ -11,7 +11,11 @@ Dem in Bonn am 5. November 1971 unterzeichneten Abkommen zwischen der Regierung 
 
 ### Art 2
 
-(1) Die Befreiung nach Artikel 2 Abs. 1 Buchstabe (a) in Verbindung mit den Absätzen 2 und 3 des Abkommens ist bei Fahrzeugen, die nach ihrer Bauart oder Einrichtung zur Beförderung von Gütern bestimmt sind, nur zu gewähren, wenn der einzelne vorübergehende Aufenthalt im Geltungsbereich dieses Gesetzes vierzehn aufeinanderfolgende Tage nicht überschreitet.(2) Bei Berechnung der Aufenthaltsdauer sind der Einreisetag und der Ausreisetag jeweils als voller Tag zu rechnen.(3) Die zuständigen Behörden dürfen von der in Absatz 1 bestimmten Frist Ausnahmen zulassen, wenn die Fahrzeuge betriebsunfähig werden oder für Messen, Ausstellungen oder ähnliche Zwecke verwendet werden oder auf Grund anderer besonderer Umstände aufgehalten werden.
+(1) Die Befreiung nach Artikel 2 Abs. 1 Buchstabe (a) in Verbindung mit den Absätzen 2 und 3 des Abkommens ist bei Fahrzeugen, die nach ihrer Bauart oder Einrichtung zur Beförderung von Gütern bestimmt sind, nur zu gewähren, wenn der einzelne vorübergehende Aufenthalt im Geltungsbereich dieses Gesetzes vierzehn aufeinanderfolgende Tage nicht überschreitet.
+
+(2) Bei Berechnung der Aufenthaltsdauer sind der Einreisetag und der Ausreisetag jeweils als voller Tag zu rechnen.
+
+(3) Die zuständigen Behörden dürfen von der in Absatz 1 bestimmten Frist Ausnahmen zulassen, wenn die Fahrzeuge betriebsunfähig werden oder für Messen, Ausstellungen oder ähnliche Zwecke verwendet werden oder auf Grund anderer besonderer Umstände aufgehalten werden.
 
 ### Art 3
 
@@ -23,4 +27,6 @@ Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung die
 
 ### Art 5
 
-(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.(2) Der Tag, an dem das Abkommen nach seinem Artikel 5 Abs. 1 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
+(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
+
+(2) Der Tag, an dem das Abkommen nach seinem Artikel 5 Abs. 1 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.

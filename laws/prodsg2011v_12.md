@@ -16,95 +16,83 @@ Auf Grund des § 8 Absatz 1 des Produktsicherheitsgesetzes vom 8. November 2011 
 
 ### § 1 — Anwendungsbereich
 
-(1) Diese Verordnung ist auf neue Aufzüge anzuwenden, die in den Verkehr gebracht oder ausgestellt werden, wenn diese Aufzüge Auf Aufzüge, die nur zur Güterbeförderung bestimmt sind, ist diese Verordnung nur dann anzuwenden, wenn die Aufzüge über betretbare Lastträger verfügen sowie über Steuereinrichtungen, die im Innern des Lastträgers oder in Reichweite einer dort befindlichen Person angeordnet sind. Betretbar ist ein Lastträger, wenn eine Person ohne Schwierigkeit in den Lastträger einsteigen kann.
+(1) Diese Verordnung ist auf neue Aufzüge anzuwenden, die in den Verkehr gebracht oder ausgestellt werden, wenn diese Aufzüge
 
-1.
+1. Gebäude und Bauten dauerhaft bedienen und
 
-2.
+2. bestimmt sind zur Personenbeförderung, zur Personen- und Güterbeförderung oder nur zur Güterbeförderung.
 
 (2) Diese Verordnung ist auch auf neue Sicherheitsbauteile für Aufzüge anzuwenden, die auf dem Markt bereitgestellt oder ausgestellt werden.
 
 (3) Diese Verordnung ist nicht anzuwenden auf
 
-1.
+1. Aufzüge, die speziell für militärische Zwecke oder zur Aufrechterhaltung der öffentlichen Ordnung konzipiert und gebaut sind,
 
-2.
+2. Baustellenaufzüge,
 
-3.
+3. Fahrtreppen und Fahrsteige,
 
-4.
+4. Hebezeuge, die in Beförderungsmitteln eingebaut sind,
 
-5.
+5. Hebezeuge, die mit einer Maschine verbunden sind und ausschließlich für den Zugang zu Arbeitsplätzen, einschließlich Wartungs- und Inspektionspunkten an Maschinen, bestimmt sind,
 
-6.
+6. Hebezeuge mit einer Fahrgeschwindigkeit von bis zu 0,15 Metern pro Sekunde,
 
-7.
+7. Hebezeuge, von denen aus Arbeiten durchgeführt werden können,
 
-8.
+8. Hebezeuge zur Beförderung von Darstellern bei künstlerischen Vorführungen,
 
-9.
+9. Schachtförderanlagen,
 
-10.
+10. seilgeführte Einrichtungen einschließlich Seilbahnen,
 
-11.
+11. Zahnradbahnen.
 
 (4) Werden bei einem Aufzug oder einem Sicherheitsbauteil für Aufzüge die in der Richtlinie 2014/33/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Aufzüge und Sicherheitsbauteile für Aufzüge (ABl. L 96 vom 29.3.2014, S. 251) genannten Risiken ganz oder teilweise von speziellen Rechtsvorschriften erfasst, durch die andere Rechtsvorschriften der Europäischen Union in deutsches Recht umgesetzt werden, so gilt diese Verordnung nicht für diese Aufzüge oder diese Sicherheitsbauteile für Aufzüge und die entsprechenden Risiken.
 
 ### § 2 — Begriffsbestimmungen
 
-Im Sinne dieser Verordnung ist oder sind Im Übrigen sind die Begriffsbestimmungen des § 2 des Produktsicherheitsgesetzes vom 27. Juli 2021 (BGBl. I S. 3146) anzuwenden.
+Im Sinne dieser Verordnung ist oder sind
 
-1.
+1. Aufzug: a)ein Hebezeug, das zwischen festgelegten Ebenen mittels eines Lastträgers verkehrt, der sich an starren, gegenüber der Horizontalen um mehr als 15 Grad geneigten Führungen entlang bewegt, oderb)eine Hebeeinrichtung, die sich nicht zwingend an starren Führungen entlang, jedoch in einer räumlich vollständig festgelegten Bahn bewegt, ein Hebezeug, das zwischen festgelegten Ebenen mittels eines Lastträgers verkehrt, der sich an starren, gegenüber der Horizontalen um mehr als 15 Grad geneigten Führungen entlang bewegt, oder eine Hebeeinrichtung, die sich nicht zwingend an starren Führungen entlang, jedoch in einer räumlich vollständig festgelegten Bahn bewegt,
 
-a)
+2. Bereitstellung auf dem Markt: jede entgeltliche oder unentgeltliche Abgabe eines Sicherheitsbauteils für Aufzüge zum Vertrieb oder zur Verwendung auf dem Markt der Europäischen Union im Rahmen einer Geschäftstätigkeit,
 
-b)
+3. Bevollmächtigter: jede im Europäischen Wirtschaftsraum ansässige natürliche oder juristische Person, die von einem Montagebetrieb oder einem Hersteller schriftlich beauftragt wurde, in seinem Namen bestimmte Aufgaben wahrzunehmen, um seine Verpflichtungen nach der einschlägigen Gesetzgebung der Europäischen Union zu erfüllen,
 
-2.
+4. CE-Kennzeichnung: Kennzeichnung, durch die der Montagebetrieb oder der Hersteller erklärt, dass der Aufzug oder das Sicherheitsbauteil für Aufzüge den anwendbaren Anforderungen genügt, die in den Harmonisierungsrechtsvorschriften der Europäischen Union über ihre Anbringung festgelegt sind,
 
-3.
+5. EU-Konformitätserklärung: eine Erklärung gemäß Artikel 17 der Richtlinie 2014/33/EU,
 
-4.
+6. harmonisierte Norm: eine harmonisierte Norm im Sinne des Artikels 2 Nummer 1 Buchstabe c der Verordnung (EU) Nr. 1025/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur europäischen Normung, zur Änderung der Richtlinien 89/686/EWG und 93/15/EWG des Rates sowie der Richtlinien 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG und 2009/105/EG des Europäischen Parlaments und des Rates und zur Aufhebung des Beschlusses 87/95/EWG des Rates und des Beschlusses Nr. 1673/2006/EG des Europäischen Parlaments und des Rates (ABl. L 316 vom 14.11.2012, S. 12),
 
-5.
+7. Hersteller: jede natürliche oder juristische Person, die ein Sicherheitsbauteil für Aufzüge herstellt oder entwickeln oder herstellen lässt und dieses Sicherheitsbauteil für Aufzüge unter ihrem eigenen Namen oder ihrer eigenen Handelsmarke vermarktet,
 
-6.
+8. Inverkehrbringen: a)die erstmalige Bereitstellung eines Sicherheitsbauteils für Aufzüge auf dem Markt oderb)die entgeltliche oder unentgeltliche Abgabe eines Aufzugs zur Verwendung auf dem Markt der Europäischen Union im Rahmen einer Geschäftstätigkeit, die erstmalige Bereitstellung eines Sicherheitsbauteils für Aufzüge auf dem Markt oder die entgeltliche oder unentgeltliche Abgabe eines Aufzugs zur Verwendung auf dem Markt der Europäischen Union im Rahmen einer Geschäftstätigkeit,
 
-7.
+9. Lastträger: der Teil des Aufzugs, in dem Personen oder Güter oder Personen und Güter zur Aufwärts- oder Abwärtsbeförderung untergebracht sind,
 
-8.
+10. Montagebetrieb: jede natürliche oder juristische Person, die die Verantwortung für den Entwurf, die Herstellung, den Einbau und das Inverkehrbringen eines Aufzugs übernimmt,
 
-a)
+11. Musteraufzug: ein repräsentativer, mit Hilfe objektiver Parameter definierter Aufzug, dessen technische Unterlagen verdeutlichen, wie die von ihm abgeleiteten Aufzüge, die identische Sicherheitsbauteile für Aufzüge verwenden, die in Anhang I der Richtlinie 2014/33/EU festgelegten wesentlichen Gesundheitsschutz- und Sicherheitsanforderungen einhalten,
 
-b)
+12. Rückruf: jede Maßnahme, die a)auf die Demontage und unbedenkliche Entsorgung eines Aufzugs abzielt oderb)auf die Rückgabe eines Sicherheitsbauteils für Aufzüge abzielt, das dem Montagebetrieb oder dem Endnutzer bereits bereitgestellt worden ist, auf die Demontage und unbedenkliche Entsorgung eines Aufzugs abzielt oder auf die Rückgabe eines Sicherheitsbauteils für Aufzüge abzielt, das dem Montagebetrieb oder dem Endnutzer bereits bereitgestellt worden ist,
 
-9.
+13. Sicherheitsbauteile für Aufzüge: Bauteile, die in Aufzügen im Sinne dieser Verordnung verwendet werden und in Anhang III der Richtlinie 2014/33/EU aufgeführt sind,
 
-10.
+14. technische Spezifikation: ein Dokument, in dem die technischen Anforderungen vorgeschrieben sind, denen ein Aufzug oder ein Sicherheitsbauteil für Aufzüge genügen muss,
 
-11.
-
-12.
-
-a)
-
-b)
-
-13.
-
-14.
-
-15.
+15. Wirtschaftsakteure: der Montagebetrieb, der Hersteller, der Bevollmächtigte, der Einführer und der Händler.
 
 ### § 3 — Inverkehrbringen und Bereitstellung auf dem Markt
 
 (1) Aufzüge dürfen nur in den Verkehr gebracht werden, wenn
 
-1.
+1. sie die Anforderungen dieser Verordnung erfüllen sowie sachgemäß eingebaut, sachgemäß instand gehalten und bestimmungsgemäß betrieben werden,
 
-2.
+2. die für die Errichtung des Gebäudes oder Bauwerks verantwortliche Person und der Montagebetrieb einander alle notwendigen Informationen zur Verfügung gestellt und die geeigneten Maßnahmen getroffen haben, um den einwandfreien Betrieb und die sichere Benutzung des Aufzugs zu gewährleisten, und
 
-3.
+3. neben den für die Sicherheit und den Betrieb des Aufzugs erforderlichen Leitungen oder Einrichtungen keine weiteren Leitungen oder Einrichtungen im Aufzugsschacht verlegt oder installiert sind.
 
 (2) Sicherheitsbauteile für Aufzüge dürfen nur dann auf dem Markt bereitgestellt werden, wenn sie die Anforderungen dieser Verordnung erfüllen sowie sachgemäß eingebaut, sachgemäß instand gehalten und bestimmungsgemäß betrieben werden.
 
@@ -119,8 +107,6 @@ Bei denjenigen Aufzügen und Sicherheitsbauteilen für Aufzüge, die harmonisier
 (1) Der Montagebetrieb stellt sicher, wenn er einen Aufzug in den Verkehr bringt, dass dieser Aufzug nach den wesentlichen Gesundheitsschutz- und Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/33/EU entworfen, hergestellt, eingebaut und geprüft wurde.
 
 (2) Der Montagebetrieb darf einen Aufzug nur in den Verkehr bringen, wenn die erforderlichen technischen Unterlagen nach Anhang IV Teil B Nummer 3 oder Anhang VIII Nummer 3 der Richtlinie 2014/33/EU erstellt wurden und das Konformitätsbewertungsverfahren nach § 15 Absatz 1 durchgeführt wurde. Wurde mit dem Konformitätsbewertungsverfahren nachgewiesen, dass der Aufzug die wesentlichen Gesundheitsschutz- und Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/33/EU erfüllt, so stellt der Montagebetrieb eine EU-Konformitätserklärung aus und bringt die CE-Kennzeichnung gemäß § 7 des Produktsicherheitsgesetzes in dem Fahrkorb an. Der Montagebetrieb hat sicherzustellen, dass jedem Aufzug die EU-Konformitätserklärung beigefügt ist.
-
-(3) Der Montagebetrieb muss die technischen Unterlagen, die EU-Konformitätserklärung sowie gegebenenfalls die Zulassungen der Qualitätssicherungssysteme nach den Anhängen X, XI oder XII der Richtlinie 2014/33/EU ab dem Inverkehrbringen des Aufzugs für die Dauer von zehn Jahren für die Marktüberwachungsbehörden bereithalten.
 
 (4) Wenn es der Montagebetrieb angesichts der Risiken, die mit einem von ihm in den Verkehr gebrachten Aufzug verbunden sind, als angemessen betrachtet, untersucht er zum Schutz der Gesundheit und Sicherheit der Endnutzer Beschwerden. Erforderlichenfalls führt er ein Verzeichnis der Beschwerden und der nichtkonformen Aufzüge.
 
@@ -142,9 +128,9 @@ Bei denjenigen Aufzügen und Sicherheitsbauteilen für Aufzüge, die harmonisier
 
 (1) Der Hersteller stellt sicher, wenn er Sicherheitsbauteile für Aufzüge in den Verkehr bringt, dass sie
 
-1.
+1. nach den wesentlichen Gesundheitsschutz- und Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/33/EU entworfen und hergestellt wurden und
 
-2.
+2. es ermöglichen, dass die Aufzüge, in die sie eingebaut werden, die wesentlichen Gesundheitsschutz- und Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/33/EU erfüllen.
 
 (2) Der Hersteller darf Sicherheitsbauteile für Aufzüge nur in den Verkehr bringen, wenn die erforderlichen technischen Unterlagen nach Anhang IV Teil A Nummer 3 der Richtlinie 2014/33/EU erstellt wurden und das Konformitätsbewertungsverfahren nach § 16 durchgeführt wurde. Wurde mit dem Konformitätsbewertungsverfahren nachgewiesen, dass das Sicherheitsbauteil für Aufzüge die wesentlichen Gesundheitsschutz- und Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/33/EU erfüllt, so stellt der Hersteller eine EU-Konformitätserklärung aus und bringt die CE-Kennzeichnung gemäß § 7 des Produktsicherheitsgesetzes an. Der Hersteller hat sicherzustellen, dass jedem Sicherheitsbauteil für Aufzüge die EU-Konformitätserklärung beigefügt ist.
 
@@ -180,11 +166,11 @@ Bei denjenigen Aufzügen und Sicherheitsbauteilen für Aufzüge, die harmonisier
 
 (3) Ein Montagebetrieb oder ein Hersteller, der einen Bevollmächtigten einsetzt, muss diesem mindestens die folgenden Pflichten übertragen:
 
-1.
+1. die Pflicht, die technischen Unterlagen sowie die EU-Konformitätserklärung und gegebenenfalls die Zulassungen des Qualitätssicherungssystems nach § 5 Absatz 3 oder nach § 7 Absatz 3 bereitzuhalten,
 
-2.
+2. die Pflicht, der Marktüberwachungsbehörde die Informationen und Unterlagen nach § 6 Absatz 5 oder nach § 8 Absatz 5 zur Verfügung zu stellen, und
 
-3.
+3. die Pflicht, mit der Marktüberwachungsbehörde auf deren Verlangen bei allen Maßnahmen zur Abwendung der Risiken, die mit den Aufzügen oder den Sicherheitsbauteilen für Aufzüge verbunden sind, die zum Aufgabenbereich des Bevollmächtigten gehören, zusammenzuarbeiten.
 
 (4) Die Pflichten gemäß § 5 Absatz 1 und die Pflicht zur Erstellung der technischen Unterlagen gemäß § 5 Absatz 2 darf der Montagebetrieb nicht auf einen Bevollmächtigten übertragen. Die Pflichten gemäß § 7 Absatz 1 und die Pflicht zur Erstellung der technischen Unterlagen gemäß § 7 Absatz 2 darf der Hersteller nicht auf einen Bevollmächtigten übertragen.
 
@@ -194,19 +180,17 @@ Bei denjenigen Aufzügen und Sicherheitsbauteilen für Aufzüge, die harmonisier
 
 (2) Der Einführer darf ein Sicherheitsbauteil für Aufzüge erst in den Verkehr bringen, wenn er sichergestellt hat, dass
 
-1.
+1. der Hersteller das Konformitätsbewertungsverfahren nach § 16 durchgeführt hat,
 
-2.
+2. der Hersteller die technischen Unterlagen erstellt hat,
 
-3.
+3. das Sicherheitsbauteil für Aufzüge mit der CE-Kennzeichnung versehen ist und ihm die EU-Konformitätserklärung beigefügt ist,
 
-4.
+4. dem Sicherheitsbauteil für Aufzüge die Betriebsanleitung nach Anhang I Nummer 6.1 der Richtlinie 2014/33/EU in deutscher Sprache beigefügt ist und
 
-5.
+5. der Hersteller die Pflichten nach § 8 Absatz 1 und 2 erfüllt hat.
 
 (3) Hat der Einführer Grund zu der Annahme, dass ein Sicherheitsbauteil für Aufzüge nicht den Anforderungen dieser Verordnung entspricht, darf er dieses Sicherheitsbauteil für Aufzüge erst in den Verkehr bringen, wenn die Konformität hergestellt ist. Ist mit dem Sicherheitsbauteil für Aufzüge ein Risiko verbunden, so informiert der Einführer den Hersteller und die Marktüberwachungsbehörden darüber.
-
-(4) Solange sich ein Sicherheitsbauteil für Aufzüge im Verantwortungsbereich des Einführers befindet, ist dieser dafür verantwortlich, dass die Lagerungs- und Transportbedingungen die Übereinstimmung des Sicherheitsbauteils für Aufzüge mit den wesentlichen Gesundheitsschutz- und Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/33/EU nicht beeinträchtigen.
 
 (5) Wenn es der Einführer angesichts der Risiken, die mit einem von ihm auf dem Markt bereitgestellten Sicherheitsbauteil für Aufzüge verbunden sind, als angemessen betrachtet, nimmt er zum Schutz der Gesundheit und Sicherheit der Endnutzer Stichproben, prüft diese und untersucht Beschwerden. Erforderlichenfalls führt er ein Verzeichnis der Beschwerden, der nichtkonformen Sicherheitsbauteile für Aufzüge und der Rückrufe. Der Einführer hält die Händler und Montagebetriebe über diese Überwachungstätigkeiten auf dem Laufenden.
 
@@ -226,15 +210,13 @@ Bei denjenigen Aufzügen und Sicherheitsbauteilen für Aufzüge, die harmonisier
 
 (2) Bevor der Händler ein Sicherheitsbauteil für Aufzüge auf dem Markt bereitstellt, hat er zu überprüfen, ob
 
-1.
+1. das Sicherheitsbauteil für Aufzüge mit der CE-Kennzeichnung versehen ist und ihm die EU-Konformitätserklärung beigefügt ist,
 
-2.
+2. dem Sicherheitsbauteil für Aufzüge die Betriebsanleitung nach Anhang I Nummer 6.1 der Richtlinie 2014/33/EU in deutscher Sprache beigefügt ist und
 
-3.
+3. der Hersteller seine Pflichten nach § 8 Absatz 1 und 2 und der Einführer seine Pflichten nach § 11 Absatz 1 erfüllt hat.
 
 (3) Hat der Händler Grund zu der Annahme, dass ein Sicherheitsbauteil für Aufzüge nicht den Anforderungen dieser Verordnung entspricht, darf er dieses Sicherheitsbauteil für Aufzüge erst auf dem Markt bereitstellen, wenn die Konformität hergestellt ist. Ist mit dem Sicherheitsbauteil für Aufzüge ein Risiko verbunden, so informiert der Händler außerdem den Hersteller oder den Einführer sowie die Marktüberwachungsbehörden darüber.
-
-(4) Solange sich ein Sicherheitsbauteil für Aufzüge im Verantwortungsbereich des Händlers befindet, ist dieser dafür verantwortlich, dass die Lagerungs- und Transportbedingungen die Übereinstimmung des Sicherheitsbauteils für Aufzüge mit den Anforderungen dieser Verordnung nicht beeinträchtigen.
 
 (5) Hat der Händler Grund zu der Annahme, dass ein von ihm auf dem Markt bereitgestelltes Sicherheitsbauteil für Aufzüge nicht den Anforderungen dieser Verordnung entspricht, hat er sicherzustellen, dass die erforderlichen Korrekturmaßnahmen ergriffen werden, um die Konformität herzustellen, oder dass das Sicherheitsbauteil für Aufzüge zurückgenommen oder zurückgerufen wird. Sind mit dem Sicherheitsbauteil für Aufzüge Risiken verbunden, so informiert der Händler unverzüglich die Marktüberwachungsbehörden der Mitgliedstaaten, in denen er das Sicherheitsbauteil für Aufzüge auf dem Markt bereitgestellt hat, insbesondere über die Risiken, die Art der Nichtkonformität und die ergriffenen Korrekturmaßnahmen.
 
@@ -244,17 +226,17 @@ Bei denjenigen Aufzügen und Sicherheitsbauteilen für Aufzüge, die harmonisier
 
 Auf einen Einführer oder Händler sind die §§ 7 und 8 entsprechend anzuwenden, wenn er
 
-1.
+1. ein Sicherheitsbauteil für Aufzüge unter eigenem Namen oder eigener Handelsmarke in den Verkehr bringt oder
 
-2.
+2. ein bereits in den Verkehr gebrachtes Sicherheitsbauteil für Aufzüge so verändert, dass die Konformität mit den Anforderungen dieser Verordnung beeinträchtigt werden kann.
 
 ### § 14 — Angabe der Wirtschaftsakteure
 
 (1) Der Wirtschaftsakteur nennt den Marktüberwachungsbehörden auf deren Verlangen die Wirtschaftsakteure,
 
-1.
+1. von denen er ein Sicherheitsbauteil für Aufzüge bezogen hat und
 
-2.
+2. an die er ein Sicherheitsbauteil für Aufzüge abgegeben hat.
 
 (2) Der Wirtschaftsakteur muss die Angaben nach Absatz 1 für die Dauer von zehn Jahren nach dem Bezug des Sicherheitsbauteils für Aufzüge sowie nach der Abgabe des Sicherheitsbauteils für Aufzüge bereithalten.
 
@@ -300,9 +282,9 @@ Für Sicherheitsbauteile für Aufzüge sind die Konformitätsbewertungsverfahren
 
 (4) Die Informationen der Marktüberwachungsbehörde gemäß Absatz 3 Satz 1 müssen alle verfügbaren Angaben enthalten, insbesondere die Daten für die Identifizierung des betreffenden Aufzugs oder des betreffenden Sicherheitsbauteils für Aufzüge, seine Herkunft, die Art der behaupteten Nichtkonformität und des Risikos sowie die Art und Dauer der ergriffenen vorläufigen Maßnahmen sowie die Argumente des betreffenden Wirtschaftsakteurs. Die Marktüberwachungsbehörde gibt insbesondere an, ob die Nichtkonformität darauf zurückzuführen ist, dass
 
-1.
+1. der Aufzug oder das Sicherheitsbauteil für Aufzüge die wesentlichen Gesundheitsschutz- und Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/33/EU nicht erfüllt oder
 
-2.
+2. die harmonisierten Normen, bei deren Einhaltung gemäß § 4 eine Konformitätsvermutung gilt, mangelhaft sind.
 
 (5) Wird die Marktüberwachungsbehörde von der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin darüber informiert, dass in einem anderen Mitgliedstaat der Europäischen Union eine vorläufige Maßnahme nach Artikel 38 Absatz 4 der Richtlinie 2014/33/EU getroffen wurde, trifft die Marktüberwachungsbehörde, sofern sie diese Maßnahme für gerechtfertigt hält, alle geeigneten vorläufigen Maßnahmen nach den Absätzen 1 oder 2. Sie informiert die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin darüber sowie über alle weiteren ihr vorliegenden Informationen hinsichtlich der Nichtkonformität des Aufzugs oder des Sicherheitsbauteils für Aufzüge. Sofern die Marktüberwachungsbehörde die von dem anderen Mitgliedstaat getroffene vorläufige Maßnahme nicht für gerechtfertigt hält, informiert sie die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin innerhalb von zwei Monaten darüber und gibt ihre Einwände an. Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin leitet die Informationen gemäß den Sätzen 2 und 3 unverzüglich der Europäischen Kommission und den übrigen Mitgliedstaaten der Europäischen Union zu.
 
@@ -324,61 +306,59 @@ Für Sicherheitsbauteile für Aufzüge sind die Konformitätsbewertungsverfahren
 
 (1) Unabhängig von den Korrekturmaßnahmen nach § 17 fordert die Marktüberwachungsbehörde den betreffenden Wirtschaftsakteur dazu auf, die folgenden Fälle der Nichtkonformität zu korrigieren:
 
-1.
+1. die CE-Kennzeichnung wurde nicht oder unter Verletzung von § 7 des Produktsicherheitsgesetzes angebracht,
 
-2.
+2. die Kennnummer der notifizierten Stelle wurde nicht oder unter Verletzung von § 7 Absatz 4 des Produktsicherheitsgesetzes angebracht,
 
-3.
+3. die EU-Konformitätserklärung wurde nicht oder nicht ordnungsgemäß ausgestellt,
 
-4.
+4. die technischen Unterlagen sind nicht verfügbar oder nicht vollständig,
 
-5.
+5. die Angaben des Montagebetriebs gemäß § 6 Absatz 2, des Herstellers gemäß § 8 Absatz 2 oder des Einführers gemäß § 11 Absatz 1 fehlen, sind falsch oder unvollständig,
 
-6.
+6. die Informationen zur Identifikation des Aufzugs gemäß § 6 Absatz 1 oder zur Identifikation des Sicherheitsbauteils für Aufzüge gemäß § 8 Absatz 1 fehlen, sind falsch oder unvollständig oder
 
-7.
+7. die Betriebsanleitung ist nicht beigefügt oder erfüllt nicht die Anforderungen nach § 6 Absatz 3 und 4 oder nach § 8 Absatz 3 und 4.
 
 (2) Besteht die Nichtkonformität gemäß Absatz 1 weiter,
 
-1.
+1. trifft die Marktüberwachungsbehörde alle geeigneten Maßnahmen, um die Verwendung des Aufzugs einzuschränken, oder sie untersagt die Verwendung des Aufzugs oder sorgt dafür, dass der Aufzug zurückgerufen wird, oder
 
-2.
+2. trifft die Marktüberwachungsbehörde alle geeigneten Maßnahmen, um die Bereitstellung des Sicherheitsbauteils für Aufzüge auf dem Markt einzuschränken, oder sie untersagt die Bereitstellung des Sicherheitsbauteils für Aufzüge auf dem Markt oder sorgt dafür, dass das Sicherheitsbauteil für Aufzüge zurückgerufen oder zurückgenommen wird.
 
 ## Abschnitt 5: Ordnungswidrigkeiten, Straftaten und Schlussbestimmungen
 
 ### § 21 — Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
+(1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 5 Absatz 2 Satz 1 oder § 7 Absatz 2 Satz 1 einen Aufzug oder ein Sicherheitsbauteil für Aufzüge in den Verkehr bringt,
 
-2.
+2. entgegen § 5 Absatz 2 Satz 3 oder § 7 Absatz 2 Satz 3 nicht sicherstellt, dass dem Aufzug oder dem Sicherheitsbauteil für Aufzüge die EU-Konformitätserklärung beigefügt ist,
 
-3.
+3. entgegen § 6 Absatz 1 oder § 8 Absatz 1 Satz 1 nicht dafür sorgt, dass ein Aufzug oder ein Sicherheitsbauteil für Aufzüge eine dort genannte Nummer oder eine andere Information trägt,
 
-4.
+4. entgegen § 6 Absatz 2 Satz 1, § 8 Absatz 2 Satz 1 oder § 11 Absatz 1 Satz 1 dort genannte Daten nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig anbringt,
 
-5.
+5. entgegen § 6 Absatz 3 oder § 8 Absatz 3 nicht dafür sorgt, dass einem Aufzug oder einem Sicherheitsbauteil für Aufzüge eine Betriebsanleitung beigefügt ist,
 
-6.
+6. entgegen § 8 Absatz 1 Satz 2 nicht dafür sorgt, dass eine dort genannte Information angegeben wird, oder
 
-7.
+7. entgegen § 10 Absatz 2 Nummer 1, 3 oder Nummer 4 ein Sicherheitsbauteil für Aufzüge in den Verkehr bringt.
 
-(2) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe b des Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
+(2) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe b des Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 5 Absatz 3 oder § 7 Absatz 3, jeweils auch in Verbindung mit § 9 Absatz 3 Nummer 1, oder entgegen § 11 Absatz 2 eine technische Unterlage, die EU-Konformitätserklärung oder eine Zulassung nicht oder nicht mindestens zehn Jahre bereithält,
 
-2.
+2. entgegen § 6 Absatz 5 Satz 1 oder § 8 Absatz 5 Satz 1, jeweils auch in Verbindung mit § 9 Absatz 3 Nummer 2, entgegen § 11 Absatz 3 Satz 1 oder § 12 Absatz 6 Satz 1 eine Information oder eine Unterlage nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zur Verfügung stellt oder
 
-3.
+3. entgegen § 14 Absatz 1 einen Wirtschaftsakteur nicht oder nicht rechtzeitig nennt.
 
 ### § 22 — Straftaten
 
 Wer eine in § 21 Absatz 1 bezeichnete vorsätzliche Handlung beharrlich wiederholt oder durch eine solche vorsätzliche Handlung Leben oder Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert gefährdet, ist nach § 29 des Produktsicherheitsgesetzes strafbar.
 
 ### § 23 — Übergangsvorschriften
-
-(1) Aufzüge, die die Anforderungen der Richtlinie 95/16/EG des Europäischen Parlaments und des Rates vom 29. Juni 1995 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Aufzüge (ABl. L 213 vom 7.9.1995, S. 1), die durch die Richtlinie 2014/33/EU aufgehoben worden ist, erfüllen und vor dem 20. April 2016 in den Verkehr gebracht wurden, dürfen in Betrieb genommen werden.
 
 (2) Sicherheitsbauteile für Aufzüge, die die Anforderungen der Richtlinie 95/16/EG erfüllen und vor dem 20. April 2016 in den Verkehr gebracht wurden, dürfen auf dem Markt bereitgestellt werden.
 

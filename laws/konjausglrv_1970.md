@@ -16,7 +16,11 @@ Bund und Länder bilden im Haushaltsjahr 1970 Konjunkturausgleichsrücklagen.
 
 ### § 2
 
-(1) Den Konjunkturausgleichsrücklagen werden insgesamt 2.500.000.000 Deutsche Mark zugeführt. Hiervon entfallen auf den Bund 1.500.000.000 Deutsche Mark und auf die Länder 1.000.000.000 Deutsche Mark.(2) Bund und Länder haben die auf sie entfallenden Beträge jeweils zur Hälfte bis zum 31. März 1970 und bis zum 30. Juni 1970 den Konjunkturausgleichsrücklagen auf Sonderkonten bei der Deutschen Bundesbank zuzuführen.(3) Die Länder haben den auf sie entfallenden Gesamtbetrag der Konjunkturausgleichsrücklagen im Verhältnis der Steuereinnahmen im Haushaltsjahr 1969 je Land gemäß § 15 Abs. 3 des Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft aufzubringen.
+(1) Den Konjunkturausgleichsrücklagen werden insgesamt 2.500.000.000 Deutsche Mark zugeführt. Hiervon entfallen auf den Bund 1.500.000.000 Deutsche Mark und auf die Länder 1.000.000.000 Deutsche Mark.
+
+(2) Bund und Länder haben die auf sie entfallenden Beträge jeweils zur Hälfte bis zum 31. März 1970 und bis zum 30. Juni 1970 den Konjunkturausgleichsrücklagen auf Sonderkonten bei der Deutschen Bundesbank zuzuführen.
+
+(3) Die Länder haben den auf sie entfallenden Gesamtbetrag der Konjunkturausgleichsrücklagen im Verhältnis der Steuereinnahmen im Haushaltsjahr 1969 je Land gemäß § 15 Abs. 3 des Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft aufzubringen.
 
 ### § 3
 

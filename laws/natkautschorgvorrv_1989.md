@@ -20,7 +20,11 @@ Die Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung m
 
 ### § 3
 
-(1) Diese Verordnung tritt an dem Tage in Kraft, an dem das Übereinkommen nach seinem Artikel 60 für die Bundesrepublik Deutschland in Kraft tritt.(2) Diese Verordnung tritt an dem Tage außer Kraft, an dem das Übereinkommen für die Bundesrepublik Deutschland außer Kraft tritt.(3) Der Tag des Inkrafttretens und der Tag des Außerkrafttretens sind im Bundesgesetzblatt bekanntzugeben.
+(1) Diese Verordnung tritt an dem Tage in Kraft, an dem das Übereinkommen nach seinem Artikel 60 für die Bundesrepublik Deutschland in Kraft tritt.
+
+(2) Diese Verordnung tritt an dem Tage außer Kraft, an dem das Übereinkommen für die Bundesrepublik Deutschland außer Kraft tritt.
+
+(3) Der Tag des Inkrafttretens und der Tag des Außerkrafttretens sind im Bundesgesetzblatt bekanntzugeben.
 
 ### Schlußformel
 

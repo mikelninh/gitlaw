@@ -8,42 +8,28 @@
 
 ### § 1 — Anwendungsbereich
 
-Dieses Gesetz trifft Regelungen im Zusammenhang mit dem Beschluß des Deutschen Bundestages vom 20. Juni 1991 zur Vollendung der Einheit Deutschlands. Es gilt für alle personellen Maßnahmen, die in bezug zu Verlegungen von Verfassungsorganen, obersten Bundesbehörden und sonstigen Einrichtungen des Bundes stehen, die erfolgen.
+Dieses Gesetz trifft Regelungen im Zusammenhang mit dem Beschluß des Deutschen Bundestages vom 20. Juni 1991 zur Vollendung der Einheit Deutschlands. Es gilt für alle personellen Maßnahmen, die in bezug zu Verlegungen von Verfassungsorganen, obersten Bundesbehörden und sonstigen Einrichtungen des Bundes stehen, die
 
--
+- im Zusammenhang mit der Verlegung des Parlaments- und Regierungssitzes von Bonn nach Berlin oder
 
--
+- als Ausgleich für die Region Bonn oder
 
--
+- entsprechend den Vorschlägen der Föderalismuskommission
 
 ### § 2 — Anwendung des Bundesumzugskostengesetzes und der
 Trennungsgeldverordnung
 
 (1) Das Bundesumzugskostengesetz in der Fassung vom 11. Dezember 1990 (BGBl. I S. 2682) wird in den Fällen des § 1 mit folgender Maßgabe angewendet:
 
-a)
+a) 1.§ 3 Abs. 1 Nr. 1 ist in der Weise anzuwenden, daß die Zusage der Umzugskostenvergütung für einen Zeitraum von zwei Jahren vom Zeitpunkt der auf Grund der Verlegung der Dienststelle oder von Dienststellenteilen getroffenen Personalmaßnahme nicht wirksam wird. Dies gilt nicht, wenn der Berechtigte umziehen will. Die Umzugskostenvergütung ist nicht zuzusagen, wenn der Berechtigte zum Zeitpunkt der in Satz 1 genannten Personalmaßnahme das 58. Lebensjahr erreicht hat und nicht umziehen will. 2.Liegen nach Ablauf der Frist von zwei Jahren Gründe gemäß § 3 Abs. 1 Nr. 1 vor, ist die Zusage der Umzugskostenvergütung zu widerrufen. § 3 Abs. 1 Nr. 1 ist in der Weise anzuwenden, daß die Zusage der Umzugskostenvergütung für einen Zeitraum von zwei Jahren vom Zeitpunkt der auf Grund der Verlegung der Dienststelle oder von Dienststellenteilen getroffenen Personalmaßnahme nicht wirksam wird. Dies gilt nicht, wenn der Berechtigte umziehen will. Die Umzugskostenvergütung ist nicht zuzusagen, wenn der Berechtigte zum Zeitpunkt der in Satz 1 genannten Personalmaßnahme das 58. Lebensjahr erreicht hat und nicht umziehen will. Liegen nach Ablauf der Frist von zwei Jahren Gründe gemäß § 3 Abs. 1 Nr. 1 vor, ist die Zusage der Umzugskostenvergütung zu widerrufen.
 
-1.
-
-2.
-
-b)
+b) § 8 Abs. 3 Satz 2 wird wie folgt angewendet: Die oberste Dienstbehörde kann diese Frist in besonders begründeten Ausnahmefällen um längstens ein Jahr verlängern.
 
 (2) Die Trennungsgeldverordnung in der Fassung der Bekanntmachung vom 28. Dezember 1994 (BGBl. 1995 I S. 2) wird in den Fällen des § 1 mit folgender Maßgabe angewendet:
 
-a)
+a) § 2 Abs. 3 der Trennungsgeldverordnung ist wie folgt anzuwenden: Die Leistungen der Trennungsgeldverordnung nach Maßgabe dieses Gesetzes können in sinngemäßer Anwendung der Trennungsgeldverordnung bis zum Tag vor der Dienstantrittsreise, längstens für zwei Jahre gewährt werden.
 
-b)
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
+b) § 5 der Trennungsgeldverordnung ist in den Fällen, in denen Trennungsgeld nach Maßgabe dieses Gesetzes gewährt wird, wie folgt anzuwenden:1.Ein Berechtigter nach § 3 erhält eine Reisebeihilfe für jede Woche. Der Anspruchszeitraum wird aus Anlaß einer neuen Maßnahme nach § 1 Abs. 2, durch Sonn- und Feiertage, allgemein dienstfreie Werktage und Tage der Dienstantrittsreise nicht unterbrochen. Eine Reisebeihilfe wird nur gewährt, wenn die Reise im Anspruchszeitraum beginnt. 2.§ 5 Abs. 3 gilt entsprechend mit der Maßgabe, daß mehrere Personen gemeinsam eine Reisebeihilfe in Anspruch nehmen können, wenn der Berechtigte vorher eine entsprechende Anzahl von Heimfahrten nicht in Anspruch genommen hat. 3.Als Reisebeihilfe werden bei Bahnreisen die entstandenen notwendigen Fahrkosten vom Dienstort zum Wohnort und zurück in entsprechender Anwendung des § 5 Abs. 4 Satz 1 und 2 erstattet. Daneben werden die entstandenen billigsten Bettplatz- und Liegeplatzzuschläge erstattet. 4.Bei Benutzung eines Flugzeuges werden unter der Voraussetzung, daß eine unentgeltliche Mitflugmöglichkeit nicht genutzt werden konnte, als Reisebeihilfe die entstandenen notwendigen Flugkosten von dem dem Dienstort nächstliegenden Flughafen zu dem dem Wohnort nächstliegenden Flughafen und zurück bis zur Höhe der Kosten des für den Berechtigten billigsten Flugscheines der allgemein niedrigsten Flugklasse erstattet. Dies gilt nur dann, wenn die Entfernung vom Dienstort zum Wohnort größer ist als zum nächstliegenden Flughafen. Für die Fahrten zum und vom jeweiligen Flughafen gilt § 5 Abs. 4 Satz 1 und 2 entsprechend. Beträgt die Entfernung vom Dienstort zum Wohnort bei einer Bahnreise auf einer üblicherweise befahrenen Strecke weniger als 500 Kilometer, gilt für jede zweite Heimfahrt § 5 Abs. 4 Satz 1. 5.Bei Benutzung eines Kraftfahrzeuges wird als Reisebeihilfe eine Wegstreckenentschädigung in entsprechender Anwendung des § 5 Abs. 1 des Bundesreisekostengesetzes ohne Begrenzung auf den Höchstbetrag gewährt. Beträgt die Entfernung vom Dienstort zum Wohnort bei einer Bahnreise auf einer üblicherweise befahrenen Strecke weniger als 500 Kilometer, gilt für jede zweite Heimfahrt § 5 Abs. 4 Satz 1. Ein Berechtigter nach § 3 erhält eine Reisebeihilfe für jede Woche. Der Anspruchszeitraum wird aus Anlaß einer neuen Maßnahme nach § 1 Abs. 2, durch Sonn- und Feiertage, allgemein dienstfreie Werktage und Tage der Dienstantrittsreise nicht unterbrochen. Eine Reisebeihilfe wird nur gewährt, wenn die Reise im Anspruchszeitraum beginnt. § 5 Abs. 3 gilt entsprechend mit der Maßgabe, daß mehrere Personen gemeinsam eine Reisebeihilfe in Anspruch nehmen können, wenn der Berechtigte vorher eine entsprechende Anzahl von Heimfahrten nicht in Anspruch genommen hat. Als Reisebeihilfe werden bei Bahnreisen die entstandenen notwendigen Fahrkosten vom Dienstort zum Wohnort und zurück in entsprechender Anwendung des § 5 Abs. 4 Satz 1 und 2 erstattet. Daneben werden die entstandenen billigsten Bettplatz- und Liegeplatzzuschläge erstattet. Bei Benutzung eines Flugzeuges werden unter der Voraussetzung, daß eine unentgeltliche Mitflugmöglichkeit nicht genutzt werden konnte, als Reisebeihilfe die entstandenen notwendigen Flugkosten von dem dem Dienstort nächstliegenden Flughafen zu dem dem Wohnort nächstliegenden Flughafen und zurück bis zur Höhe der Kosten des für den Berechtigten billigsten Flugscheines der allgemein niedrigsten Flugklasse erstattet. Dies gilt nur dann, wenn die Entfernung vom Dienstort zum Wohnort größer ist als zum nächstliegenden Flughafen. Für die Fahrten zum und vom jeweiligen Flughafen gilt § 5 Abs. 4 Satz 1 und 2 entsprechend. Beträgt die Entfernung vom Dienstort zum Wohnort bei einer Bahnreise auf einer üblicherweise befahrenen Strecke weniger als 500 Kilometer, gilt für jede zweite Heimfahrt § 5 Abs. 4 Satz 1. Bei Benutzung eines Kraftfahrzeuges wird als Reisebeihilfe eine Wegstreckenentschädigung in entsprechender Anwendung des § 5 Abs. 1 des Bundesreisekostengesetzes ohne Begrenzung auf den Höchstbetrag gewährt. Beträgt die Entfernung vom Dienstort zum Wohnort bei einer Bahnreise auf einer üblicherweise befahrenen Strecke weniger als 500 Kilometer, gilt für jede zweite Heimfahrt § 5 Abs. 4 Satz 1.
 
 (3) Nach Wegfall der Trennungsgeldberechtigung können die notwendigen, entstandenen Kosten für die wöchentliche Heimfahrt in Einzelfällen im Einvernehmen mit der obersten Bundesbehörde erstattet werden. Die Höhe des Kostenersatzes richtet sich nach den Vorschriften zur Reisebeihilfe für Heimfahrten nach § 2 Abs. 2 Buchstabe b dieses Gesetzes.
 

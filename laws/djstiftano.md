@@ -19,8 +19,6 @@ Diese Anordnung tritt mit ihrer Veröffentlichung in Kraft.
 
 ### Schlußformel
 
-Der Minister für Jugend und Sport
-
 ### Anlage — Satzung der "Stiftung Demokratische Jugend"
 
 (Text siehe: DJStiftSa)

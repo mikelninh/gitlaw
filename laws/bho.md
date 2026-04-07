@@ -77,11 +77,11 @@ Alle Einnahmen dienen als Deckungsmittel für alle Ausgaben. Auf die Verwendung 
 
 (2) Der Haushaltsplan enthält alle im Haushaltsjahr
 
-1.
+1. zu erwartenden Einnahmen,
 
-2.
+2. voraussichtlich zu leistenden Ausgaben und
 
-3.
+3. voraussichtlich benötigten Verpflichtungsermächtigungen.
 
 (3) Bei Verkauf und Kauf von Bundeswertpapieren sind die gesamten Zinskosten periodengerecht über die Laufzeit des jeweiligen Wertpapiers anteilig jeweils auf die Periode von Zahlungstermin zu Zahlungstermin aufzuteilen. Der Saldo aus Zinsausgaben und Krediteinnahme muss stets der Kassenwirkung der Zahlungen entsprechen.
 
@@ -93,11 +93,11 @@ Alle Einnahmen dienen als Deckungsmittel für alle Ausgaben. Auf die Verwendung 
 
 (3) Wird der Haushaltsplan in einen Verwaltungshaushalt und in einen Finanzhaushalt gegliedert, enthält der Verwaltungshaushalt
 
-1.
+1. die zu erwartenden Verwaltungseinnahmen,
 
-2.
+2. die voraussichtlich zu leistenden Verwaltungsausgaben (Personalausgaben und sächliche Verwaltungsausgaben),
 
-3.
+3. die voraussichtlich benötigten Verpflichtungsermächtigungen zur Leistung von Verwaltungsausgaben.
 
 ### § 13 — Einzelpläne, Gesamtplan, Gruppierungsplan
 
@@ -107,51 +107,31 @@ Alle Einnahmen dienen als Deckungsmittel für alle Ausgaben. Auf die Verwendung 
 
 (3) In dem Gruppierungsplan sind mindestens gesondert darzustellen
 
-1.
+1. bei den Einnahmen: Steuern, Verwaltungseinnahmen, Einnahmen aus Vermögensveräußerungen, Darlehensrückflüsse, Zuweisungen und Zuschüsse, Einnahmen aus Krediten, wozu nicht Kredite zur Aufrechterhaltung einer ordnungsmäßigen Kassenwirtschaft (Kassenverstärkungskredite) zählen, Entnahmen aus Rücklagen, Münzeinnahmen;
 
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
+2. bei den Ausgaben: Personalausgaben, sächliche Verwaltungsausgaben, Zinsausgaben, Zuweisungen an Gebietskörperschaften, Zuschüsse an Unternehmen, Tilgungsausgaben, Schuldendiensthilfen, Zuführungen an Rücklagen, Ausgaben für Investitionen. Ausgaben für Investitionen sind die Ausgaben füra)Baumaßnahmen, soweit sie nicht militärische Anlagen betreffen,b)den Erwerb von beweglichen Sachen, soweit sie nicht als sächliche Verwaltungsausgaben veranschlagt werden oder soweit es sich nicht um Ausgaben für militärische Beschaffungen handelt,c)den Erwerb von unbeweglichen Sachen,d)den Erwerb von Beteiligungen und sonstigem Kapitalvermögen, von Forderungen und Anteilsrechten an Unternehmen, von Wertpapieren sowie für die Heraufsetzung des Kapitals von Unternehmen,e)Darlehen,f)die Inanspruchnahme aus Gewährleistungen,g)Zuweisungen und Zuschüsse zur Finanzierung von Ausgaben für die in den Buchstaben a bis f genannten Zwecke. Baumaßnahmen, soweit sie nicht militärische Anlagen betreffen, den Erwerb von beweglichen Sachen, soweit sie nicht als sächliche Verwaltungsausgaben veranschlagt werden oder soweit es sich nicht um Ausgaben für militärische Beschaffungen handelt, den Erwerb von unbeweglichen Sachen, den Erwerb von Beteiligungen und sonstigem Kapitalvermögen, von Forderungen und Anteilsrechten an Unternehmen, von Wertpapieren sowie für die Heraufsetzung des Kapitals von Unternehmen, Darlehen, die Inanspruchnahme aus Gewährleistungen, Zuweisungen und Zuschüsse zur Finanzierung von Ausgaben für die in den Buchstaben a bis f genannten Zwecke.
 
 (4) Der Gesamtplan enthält
 
-1.
+1. eine Zusammenfassung der Einnahmen, Ausgaben und Verpflichtungsermächtigungen der Einzelpläne (Haushaltsübersicht),
 
-2.
+2. eine Übersicht der Ausgaben der Bereichsausnahme nach § 1a Absatz 1 des Gesetzes zur Ausführung von Artikel 115 des Grundgesetzes vom 10. August 2009 (BGBl. I S. 2702, 2704) in der jeweils geltenden Fassung sowie eine Berechnung der nach dem Artikel 115-Gesetz zulässigen Kreditaufnahme,
 
-3.
+3. eine Berechnung des Finanzierungssaldos (Finanzierungsübersicht). Der Finanzierungssaldo ergibt sich aus einer Gegenüberstellung der Einnahmen mit Ausnahme der Einnahmen aus Krediten vom Kreditmarkt, der Entnahmen aus Rücklagen, der Einnahmen aus kassenmäßigen Überschüssen sowie der Münzeinnahmen einerseits und der Ausgaben mit Ausnahme der Ausgaben zur Schuldentilgung am Kreditmarkt, der Zuführungen an Rücklagen und der Ausgaben zur Deckung eines kassenmäßigen Fehlbetrags andererseits,
 
-4.
+4. eine Darstellung der Einnahmen aus Krediten und der Tilgungsausgaben (Kreditfinanzierungsplan).
 
 ### § 14 — Übersichten zum Haushaltsplan, Funktionenplan
 
-(1) Der Haushaltsplan hat folgende Anlagen: Die Anlagen sind dem Entwurf des Haushaltsplans beizufügen.
+(1) Der Haushaltsplan hat folgende Anlagen:
 
-1.
+1. Darstellungen der Einnahmen und Ausgabena)in einer Gruppierung nach bestimmten Arten (Gruppierungsübersicht),b)in einer Gliederung nach bestimmten Aufgabengebieten (Funktionenübersicht),c)in einer Zusammenfassung nach Buchstabe a und Buchstabe b (Haushaltsquerschnitt); in einer Gruppierung nach bestimmten Arten (Gruppierungsübersicht), in einer Gliederung nach bestimmten Aufgabengebieten (Funktionenübersicht), in einer Zusammenfassung nach Buchstabe a und Buchstabe b (Haushaltsquerschnitt);
 
-a)
+2. eine aggregierte Darstellung des Anteils der für das jeweilige Haushaltsjahr insgesamt veranschlagten Ausgaben für Investitionen an den veranschlagten Ausgaben im Bundeshaushalt; dabei werden die veranschlagten Ausgaben für Investitionen um ausgabenseitige finanzielle Transaktionen bereinigt; darüber hinaus werden von den veranschlagten Ausgaben im Bundeshaushalt die Ausgaben der Bereichsausnahme nicht berücksichtigt, soweit sie 1 Prozent des nominalen Bruttoinlandprodukts übersteigen sowie ausgabenseitige finanzielle Transaktionen abgezogen,
 
-b)
+3. eine Übersicht über die den Haushalt in Einnahmen und Ausgaben durchlaufenden Posten;
 
-c)
-
-2.
-
-3.
-
-4.
+4. eine Übersicht über die Planstellen der Beamten und die Stellen der Angestellten und Arbeiter.
 
 (2) Die Funktionenübersicht richtet sich nach Verwaltungsvorschriften über die Gliederung der Einnahmen und Ausgaben des Haushaltsplans nach Aufgabengebieten (Funktionenplan).
 
@@ -183,69 +163,47 @@ Die Verpflichtungsermächtigungen sind bei den jeweiligen Ausgaben gesondert zu 
 
 ### § 17a — Obergrenzen für Beförderungsämter
 
-(1) Die Anteile der Beförderungsämter dürfen nach Maßgabe sachgerechter Bewertung nach § 18 des Bundesbesoldungsgesetzes folgende Obergrenzen nicht überschreiten: Die Prozentsätze nach Satz 1 beziehen sich auf die Gesamtzahl aller Planstellen bei einem Dienstherrn in der jeweiligen Laufbahngruppe, im höheren Dienst auf die Gesamtzahl der Planstellen in den Besoldungsgruppen A 13 bis A 16 und B 2. Die für dauernd beschäftigte Arbeitnehmer ausgebrachten gleichwertigen Stellen können mit der Maßgabe in die Berechnungsgrundlage einbezogen werden, dass eine entsprechende Anrechnung auf die jeweiligen Stellen für Beförderungsämter erfolgt. Soweit der Anteil an Beförderungsämtern nach der bis zum 31. Dezember 2015 geltenden Rechtslage über den in Satz 1 genannten Obergrenzen liegt, gilt dieser Anteil unverändert fort.
+(1) Die Anteile der Beförderungsämter dürfen nach Maßgabe sachgerechter Bewertung nach § 18 des Bundesbesoldungsgesetzes folgende Obergrenzen nicht überschreiten:
 
-1.
+1. im einfachen Dienst in der Besoldungsgruppe A 650 Prozent;
 
-2.
+2. im mittleren Polizeivollzugsdienst in der Bundespolizei a)in der Besoldungsgruppe A 850 Prozent,b)in der Besoldungsgruppe A 950 Prozent;die Obergrenzen nach den Buchstaben a und b gelten nur für Planstellen, die Funktionen zugeordnet sind, in denen Polizeivollzugsbeamte in der Bundespolizei bis zum Eintritt in den Ruhestand verwendet werden können; in der Besoldungsgruppe A 850 Prozent, in der Besoldungsgruppe A 950 Prozent;
 
-a)
+3. im mittleren Zolldienst des Bundes a)in der Besoldungsgruppe A 850 Prozent,b)in der Besoldungsgruppe A 950 Prozent; in der Besoldungsgruppe A 850 Prozent, in der Besoldungsgruppe A 950 Prozent;
 
-b)
+4. im mittleren Dienst in allen übrigen Laufbahnen a)in der Besoldungsgruppe A 8, soweit überwiegend im Bereich der Erstellung und Betreuung von Verfahren der Informations- und Kommunikationstechnik verwendet50 Prozent,b)im Übrigen in der Besoldungsgruppe A 840 Prozent,c)in der Besoldungsgruppe A 940 Prozent; in der Besoldungsgruppe A 8, soweit überwiegend im Bereich der Erstellung und Betreuung von Verfahren der Informations- und Kommunikationstechnik verwendet50 Prozent, im Übrigen in der Besoldungsgruppe A 840 Prozent, in der Besoldungsgruppe A 940 Prozent;
 
-3.
+5. im gehobenen Dienst a)in der Besoldungsgruppe A 1240 Prozent,b)in der Besoldungsgruppe A 1330 Prozent; in der Besoldungsgruppe A 1240 Prozent, in der Besoldungsgruppe A 1330 Prozent;
 
-a)
-
-b)
-
-4.
-
-a)
-
-b)
-
-c)
-
-5.
-
-a)
-
-b)
-
-6.
-
-a)
-
-b)
+6. im höheren Dienst a)in den Besoldungsgruppen A 15, A 16 und B 2 nach Einzel- bewertung zusammen50 Prozent,b)in den Besoldungsgruppen A 16 und B 2 zusammen15 Prozent. in den Besoldungsgruppen A 15, A 16 und B 2 nach Einzel- bewertung zusammen50 Prozent, in den Besoldungsgruppen A 16 und B 2 zusammen15 Prozent.
 
 (2) Absatz 1 gilt nicht
 
-1.
+1. für die obersten Bundesbehörden,
 
-2.
+2. für die Hauptverwaltung des Bundeseisenbahnvermögens und die zum Fernstraßen-Bundesamt versetzten Beamten, die spätestens mit Wirkung zum 1. Januar 2021 der „Die Autobahn GmbH des Bundes“ zur Dienstleistung zugewiesen sind,
 
-3.
+3. für Lehrkräfte an verwaltungsinternen Hochschulen,
 
-4.
+4. für Laufbahnen, in denen auf Grund des § 24 Absatz 1 des Bundesbesoldungsgesetzes das Eingangsamt einer höheren Besoldungsgruppe zugewiesen worden ist,
 
-5.
+5. für die dem Bundesrechnungshof unmittelbar nachgeordneten Prüfungsämter, soweit dies wegen der mit bestimmten Funktionen verbundenen Anforderungen erforderlich ist.
 
-(3) Für die nachstehend bezeichneten Besoldungsgruppen gelten folgende weitere Obergrenzen: Außerhalb der obersten Bundesbehörden dürfen für die in Satz 1 Nummer 7 genannten Dienstgrade bis zu 21 Prozent der Gesamtzahl der im Geschäftsbereich der obersten Bundesbehörden ausgebrachten Planstellen in der Besoldungsgruppe B 3 ausgebracht werden.
+(3) Für die nachstehend bezeichneten Besoldungsgruppen gelten folgende weitere Obergrenzen:
 
-1.
+1. die Ausstattung von Funktionen mit einer Amtszulage nach Fußnote 1 zur Besoldungsgruppe A 9 ist auf 30 Prozent der ausgebrachten Planstellen begrenzt,
 
-2.
+2. die Gesamtzahl der Planstellen für Stabsfeldwebel, Stabsbootsmänner, Oberstabsfeldwebel und Oberstabsbootsmänner ist auf 50 Prozent der in den Besoldungsgruppen A 8 und A 9 insgesamt für Unteroffiziere ausgebrachten Planstellen begrenzt,
 
-3.
+3. die Ausstattung von Funktionen mit einer Amtszulage nach Fußnote 1 zur Besoldungsgruppe A 13 ist auf 20 Prozent der ausgebrachten Planstellen begrenzt,
 
-4.
+4. die Zahl der Planstellen für Funktionen in der Laufbahn der Offiziere des militärfachlichen Dienstes in der Besoldungsgruppe A 13 ist auf 6 Prozent der insgesamt für Offiziere in dieser Laufbahn ausgebrachten Planstellen begrenzt,
 
-5.
+5. beim Deutschen Patent- und Markenamt ist die Zahl der in der Besoldungsgruppe A 15 ausgebrachten Planstellen für Prüfer auf 90 Prozent der insgesamt ausgebrachten Planstellen für Prüfer, die keine Gruppenleiter sind, begrenzt,
 
-6.
+6. beim Bundessortenamt ist die Zahl der in der Besoldungsgruppe A 15 ausgebrachten Planstellen für Prüfer auf 90 Prozent der insgesamt für Prüfer ausgebrachten Planstellen begrenzt,
 
-7.
+7. in obersten Bundesbehörden und beim Bundeseisenbahnvermögen ist die Zahl der Planstellen in der Besoldungsgruppe B 3 auf 75 Prozent der Gesamtzahl der für Ministerialräte, Vortragende Legationsräte Erster Klasse sowie Oberste, Kapitäne zur See, Oberstapotheker, Flottenapotheker, Oberstärzte, Flottenärzte und Oberstveterinäre ausgebrachten Planstellen begrenzt.
 
 (4) Mit Zustimmung der obersten Bundesbehörde, des Bundesministeriums des Innern, für Bau und Heimat und des Bundesministeriums der Finanzen können die im jeweiligen Einzelplan ausgewiesenen Beförderungsämter die in den Absätzen 1 und 3 genannten Obergrenzen überschreiten, soweit dies wegen der mit den Aufgaben der Behörde verbundenen Anforderungen nach Maßgabe sachgerechter Bewertung erforderlich ist und ein erhebliches öffentliches Interesse besteht. Dies gilt insbesondere bei der Neueinrichtung, der Umstrukturierung oder bei Personalüberhängen von Behörden.
 
@@ -253,13 +211,13 @@ b)
 
 ### § 18 — Kreditermächtigungen
 
-(1) Einnahmen aus Krediten zur Deckung von Ausgaben dürfen bis zur Höhe der nach dem Artikel 115-Gesetz zulässigen Kreditaufnahme in den Haushaltsplan eingestellt werden. Die Kreditaufnahme, die in den Haushaltsplan eingestellt werden darf, erhöht sich um den Betrag, um den die im Haushaltsplan veranschlagten Ausgaben der Bereichsausnahme nach § 1a Absatz 1 des Artikel 115-Gesetzes 1 Prozent im Verhältnis zum nominalen Bruttoinlandsprodukt übersteigen. Maßgeblich ist dasjenige nominale Bruttoinlandsprodukt des der Aufstellung des Haushalts vorangegangenen Jahres, das durch das Statistische Bundesamt ermittelt wird.
+(1) Einnahmen aus Krediten zur Deckung von Ausgaben dürfen bis zur Höhe der nach dem Artikel 115-Gesetz zulässigen Kreditaufnahme in den Haushaltsplan eingestellt werden. Die Kreditaufnahme, die in den Haushaltsplan eingestellt werden darf, erhöht sich um den Betrag, um den die im Haushaltsplan veranschlagten Ausgaben der Bereichsausnahme nach § 1a Absatz 1 des Artikel 115-Gesetzes 1 Prozent im Verhältnis zum nominalen Bruttoinlandsprodukt übersteigen. Maßgeblich ist dasjenige nominale Bruttoinlandsprodukt des der Aufstellung des Haushalts vorangegangenen Jahres, das durch das Statistische Bundesamt ermittelt wird.
 
 (2) Das Haushaltsgesetz bestimmt, bis zu welcher Höhe das Bundesministerium der Finanzen Kredite aufnehmen darf
 
-1.
+1. zur Deckung von Ausgaben,
 
-2.
+2. zur Aufrechterhaltung einer ordnungsmäßigen Kassenwirtschaft (Kassenverstärkungskredite). Soweit diese Kredite zurückgezahlt sind, kann die Ermächtigung wiederholt in Anspruch genommen werden. Kassenverstärkungskredite dürfen nicht später als sechs Monate nach Ablauf des Haushaltsjahres, für das sie aufgenommen worden sind, fällig werden.
 
 (3) Die Ermächtigungen nach Absatz 2 Nr. 1 gelten bis zum Ende des nächsten Haushaltsjahres und, wenn das Haushaltsgesetz für das zweitnächste Haushaltsjahr nicht rechtzeitig verkündet wird, bis zur Verkündung dieses Haushaltsgesetzes. Die Ermächtigungen nach Absatz 2 Nr. 2 gelten bis zum Ende des laufenden Haushaltsjahres und, wenn das Haushaltsgesetz für das nächste Haushaltsjahr nicht rechtzeitig verkündet wird, bis zur Verkündung dieses Haushaltsgesetzes.
 
@@ -277,13 +235,9 @@ b)
 
 (1) Deckungsfähig sind innerhalb desselben Kapitels
 
-1.
+1. gegenseitig die Ausgaben für Vergütungen der Angestellten und Löhne der Arbeiter,
 
-2.
-
-a)
-
-b)
+2. einseitiga)die Ausgaben für Bezüge der Beamten zugunsten der Ausgaben für Vergütungen der Angestellten und Löhne der Arbeiter, b)die Ausgaben für Unterstützungen zugunsten der Ausgaben für Beihilfen. die Ausgaben für Bezüge der Beamten zugunsten der Ausgaben für Vergütungen der Angestellten und Löhne der Arbeiter, die Ausgaben für Unterstützungen zugunsten der Ausgaben für Beihilfen.
 
 (2) Im Haushaltsplan können Ausgaben und Verpflichtungsermächtigungen jeweils für gegenseitig oder einseitig deckungsfähig erklärt werden, wenn ein verwaltungsmäßiger oder sachlicher Zusammenhang besteht oder eine wirtschaftliche und sparsame Verwendung gefördert wird.
 
@@ -328,11 +282,11 @@ Entwicklungsvorhaben
 
 (2) Bei Sondervermögen sind nur die Zuführungen oder die Ablieferungen im Haushaltsplan zu veranschlagen. Über die Einnahmen, Ausgaben und Verpflichtungsermächtigungen der Sondervermögen sind Übersichten dem Haushaltsplan als Anlagen beizufügen oder in die Erläuterungen aufzunehmen.
 
-(3) Über die Einnahmen und Ausgaben von sind Übersichten dem Haushaltsplan als Anlagen beizufügen oder in die Erläuterungen aufzunehmen. Das Bundesministerium der Finanzen kann Ausnahmen zulassen.
+(3) Über die Einnahmen und Ausgaben von
 
-1.
+1. juristischen Personen des öffentlichen Rechts, die vom Bund ganz oder zum Teil zu unterhalten sind, und
 
-2.
+2. Stellen außerhalb der Bundesverwaltung, die vom Bund Zuwendungen zur Deckung der gesamten Ausgaben oder eines nicht abgegrenzten Teils der Ausgaben erhalten,
 
 ### § 27 — Voranschläge
 
@@ -412,11 +366,11 @@ Nur mit vorheriger Zustimmung (Einwilligung) des Bundesministeriums der Finanzen
 
 (1) Maßnahmen, die den Bund zur Leistung von Ausgaben in künftigen Haushaltsjahren verpflichten können, sind nur zulässig, wenn der Haushaltsplan dazu ermächtigt. Im Falle eines unvorhergesehenen und unabweisbaren Bedarfs kann das Bundesministerium der Finanzen Ausnahmen zulassen; § 37 Abs. 1 Satz 3 ist entsprechend anzuwenden. Eines Nachtragshaushaltsgesetzes bedarf es nicht, wenn im Einzelfall der Gesamtbetrag der überplanmäßigen oder außerplanmäßigen Verpflichtungsermächtigung einen im Haushaltsgesetz festzulegenden Betrag nicht überschreitet oder wenn Rechtsverpflichtungen zu erfüllen sind.
 
-(2) Die Inanspruchnahme von Verpflichtungsermächtigungen bedarf der Einwilligung des Bundesministeriums der Finanzen, wenn Das Bundesministerium der Finanzen kann auf seine Befugnisse verzichten.
+(2) Die Inanspruchnahme von Verpflichtungsermächtigungen bedarf der Einwilligung des Bundesministeriums der Finanzen, wenn
 
-1.
+1. von den in § 16 bezeichneten Angaben erheblich abgewichen werden soll oder
 
-2.
+2. in den Fällen des § 16 Satz 2 Jahresbeträge nicht angegeben sind.
 
 (3) Das Bundesministerium der Finanzen ist bei Maßnahmen nach Absatz 1 von grundsätzlicher oder erheblicher finanzieller Bedeutung über den Beginn und Verlauf von Verhandlungen zu unterrichten.
 
@@ -430,11 +384,11 @@ Nur mit vorheriger Zustimmung (Einwilligung) des Bundesministeriums der Finanzen
 
 (2) Kreditzusagen sowie die Übernahme von Bürgschaften, Garantien oder sonstigen Gewährleistungen bedürfen der Einwilligung des Bundesministeriums der Finanzen. Es ist an den Verhandlungen zu beteiligen. Es kann auf seine Befugnisse verzichten.
 
-(3) Bei Maßnahmen nach Absatz 2 haben die zuständigen Dienststellen auszubedingen, daß sie oder ihre Beauftragten bei den Beteiligten jederzeit prüfen können, Von der Ausbedingung eines Prüfungsrechts kann ausnahmsweise mit Einwilligung des Bundesministeriums der Finanzen abgesehen werden.
+(3) Bei Maßnahmen nach Absatz 2 haben die zuständigen Dienststellen auszubedingen, daß sie oder ihre Beauftragten bei den Beteiligten jederzeit prüfen können,
 
-1.
+1. ob die Voraussetzungen für die Kreditzusage oder ihre Erfüllung vorliegen oder vorgelegen haben,
 
-2.
+2. ob im Falle der Übernahme einer Gewährleistung eine Inanspruchnahme des Bundes in Betracht kommen kann oder die Voraussetzungen für eine solche vorliegen oder vorgelegen haben.
 
 ### § 40 — Andere Maßnahmen von finanzieller Bedeutung
 
@@ -496,15 +450,11 @@ Deckungsfähige Ausgaben dürfen, solange sie verfügbar sind, nach Maßgabe des
 
 ### § 48 — Höchstaltersgrenze bei der Berufung in ein Beamten- oder Soldatenverhältnis oder Versetzung von Beamtinnen und Beamten in den Bundesdienst
 
-(1) Berufungen in ein Beamtenverhältnis oder Versetzungen in den Bundesdienst dürfen nur erfolgen, wenn An die Stelle des 50. Lebensjahres tritt
+(1) Berufungen in ein Beamtenverhältnis oder Versetzungen in den Bundesdienst dürfen nur erfolgen, wenn
 
-1.
+1. die Bewerberin oder der Bewerber das 50. Lebensjahr noch nicht vollendet hat oder
 
-2.
-
-1.
-
-2.
+2. ein außerordentlicher Mangel an gleich geeigneten jüngeren Bewerberinnen und Bewerbern besteht und die Berufung oder Versetzung einen erheblichen Vorteil für den Bund bedeutet.
 
 (2) Für die Berufung oder Versetzung in den Polizeivollzugsdienst des Bundes gilt Absatz 1 Satz 1 mit der Maßgabe, dass bei einer Verwendung im Bundesministerium des Innern, für Bau und Heimat, im Bundeskriminalamt oder im Polizeivollzugsdienst beim Deutschen Bundestag an die Stelle des 50. Lebensjahres das 45. Lebensjahr und bei einer Verwendung in anderen Bereichen an die Stelle des 50. Lebensjahres das 40. Lebensjahr tritt. Außerdem gilt in diesen Fällen Absatz 1 Satz 2 Nummer 2 mit der Maßgabe, dass an die Stelle des 62. Lebensjahres das 52. Lebensjahr tritt. Absatz 1 Satz 2 Nummer 1 findet keine Anwendung.
 
@@ -568,29 +518,27 @@ Zwischen Angehörigen des öffentlichen Dienstes und ihrer Dienststelle dürfen 
 
 ### § 58 — Änderung von Verträgen, Vergleiche
 
-(1) Das zuständige Bundesministerium darf Das zuständige Bundesministerium kann seine Befugnisse übertragen.
+(1) Das zuständige Bundesministerium darf
 
-1.
+1. Verträge zum Nachteil des Bundes nur in besonders begründeten Ausnahmefällen aufheben oder ändern,
 
-2.
+2. einen Vergleich nur abschließen, wenn dies für den Bund zweckmäßig und wirtschaftlich ist.
 
 (2) Maßnahmen nach Absatz 1 bedürfen der Einwilligung des Bundesministeriums der Finanzen, soweit es nicht darauf verzichtet.
 
 ### § 59 — Veränderung von Ansprüchen
 
-(1) Das zuständige Bundesministerium darf Ansprüche nur Das zuständige Bundesministerium kann seine Befugnisse übertragen.
+(1) Das zuständige Bundesministerium darf Ansprüche nur
 
-1.
+1. stunden, wenn die sofortige Einziehung mit erheblichen Härten für den Anspruchsgegner verbunden wäre und der Anspruch durch die Stundung nicht gefährdet wird. Die Stundung soll gegen angemessene Verzinsung und in der Regel nur gegen Sicherheitsleistung gewährt werden,
 
-2.
+2. niederschlagen, wenn feststeht, daß die Einziehung keinen Erfolg haben wird, oder wenn die Kosten der Einziehung außer Verhältnis zur Höhe des Anspruchs stehen,
 
-3.
+3. erlassen, wenn die Einziehung nach Lage des einzelnen Falles für den Anspruchsgegner eine besondere Härte bedeuten würde. Das gleiche gilt für die Erstattung oder Anrechnung von geleisteten Beträgen und für die Freigabe von Sicherheiten.
 
 (2) Maßnahmen nach Absatz 1 bedürfen der Einwilligung des Bundesministeriums der Finanzen, soweit es nicht darauf verzichtet.
 
 (3) Andere Regelungen in Rechtsvorschriften bleiben unberührt.
-
-> (+++ § 59 Abs. 1: Zur entsprechenden Anwendung vgl. § 36 Abs. 1 Satz 1 FFG 2017 +++) "(+++ § 59 Abs. 1 Satz 1 Nr. 1: Zur Anwendung im Haushaltsjahr 2020 vgl. Art. 3  G v. 27.3.2020 I 556 (HNtragsG 2020) +++) (+++ § 59 Abs. 2: Zur entsprechenden Anwendung vgl. § 36 Abs. 1 Satz 2 FFG 2017  +++)
 
 ### § 60 — Vorschüsse, Verwahrungen
 
@@ -640,13 +588,13 @@ Zur Aufrechterhaltung einer ordnungsmäßigen Kassenwirtschaft ohne Inanspruchna
 
 (1) Der Bund soll sich, außer in den Fällen des Absatzes 5, an der Gründung eines Unternehmens in einer Rechtsform des privaten Rechts oder an einem bestehenden Unternehmen in einer solchen Rechtsform nur beteiligen, wenn
 
-1.
+1. ein wichtiges Interesse des Bundes vorliegt und sich der vom Bund angestrebte Zweck nicht besser und wirtschaftlicher auf andere Weise erreichen läßt,
 
-2.
+2. die Einzahlungsverpflichtung des Bundes auf einen bestimmten Betrag begrenzt ist,
 
-3.
+3. der Bund einen angemessenen Einfluß, insbesondere im Aufsichtsrat oder in einem entsprechenden Überwachungsorgan erhält,
 
-4.
+4. gewährleistet ist, daß der Jahresabschluß und der Lagebericht, soweit nicht weitergehende gesetzliche Vorschriften gelten oder andere gesetzliche Vorschriften entgegenstehen, in entsprechender Anwendung der Vorschriften des Dritten Buchs des Handelsgesetzbuchs für große Kapitalgesellschaften aufgestellt und geprüft werden.
 
 (2) Das zuständige Bundesministerium hat die Einwilligung des Bundesministeriums der Finanzen einzuholen und das für das Bundesvermögen zuständigen Bundesministerium zu beteiligen, bevor der Bund Anteile an einem Unternehmen erwirbt, seine Beteiligung erhöht oder sie ganz oder zum Teil veräußert. Entsprechendes gilt bei einer Änderung des Nennkapitals oder des Gegenstandes des Unternehmens oder bei einer Änderung des Einflusses des Bundes. Das Bundesministerium der Finanzen ist an den Verhandlungen zu beteiligen.
 
@@ -659,8 +607,6 @@ Zur Aufrechterhaltung einer ordnungsmäßigen Kassenwirtschaft ohne Inanspruchna
 (6) Das zuständige Bundesministerium soll darauf hinwirken, daß die auf Veranlassung des Bundes gewählten oder entsandten Mitglieder der Aufsichtsorgane der Unternehmen bei ihrer Tätigkeit auch die besonderen Interessen des Bundes berücksichtigen.
 
 (7) Haben Anteile an Unternehmen besondere Bedeutung und ist deren Veräußerung im Haushaltsplan nicht vorgesehen, so dürfen sie nur mit Einwilligung des Bundestages und des Bundesrates veräußert werden, soweit nicht aus zwingenden Gründen eine Ausnahme geboten ist. Ist die Zustimmung nicht eingeholt worden, so sind der Bundestag und der Bundesrat alsbald von der Veräußerung zu unterrichten.
-
-> (+++ § 65: Zur Nichtanwendung vgl. § 61 Abs. 2 Satz 3 SAG +++) (+++ § 65 Abs. 1: Zur Anwendung für den Deutschen Wetterdienst vgl. § 5 Abs. 2 DWDG F ab 1996-05-02 +++)
 
 ### § 66 — Unterrichtung des Bundesrechnungshofes
 
@@ -684,13 +630,13 @@ Besteht keine Mehrheitsbeteiligung im Sinne des § 53 des Haushaltsgrundsätzege
 
 ### § 69 — Unterrichtung des Bundesrechnungshofes
 
-Das zuständige Bundesministerium übersendet dem Bundesrechnungshof innerhalb von drei Monaten nach der Haupt- oder Gesellschafterversammlung, die den Jahresabschluß für das abgelaufene Geschäftsjahr entgegennimmt oder festzustellen hat, Es teilt dabei das Ergebnis seiner Prüfung mit.
+Das zuständige Bundesministerium übersendet dem Bundesrechnungshof innerhalb von drei Monaten nach der Haupt- oder Gesellschafterversammlung, die den Jahresabschluß für das abgelaufene Geschäftsjahr entgegennimmt oder festzustellen hat,
 
-1.
+1. die Unterlagen, die dem Bund als Aktionär oder Gesellschafter zugänglich sind,
 
-2.
+2. die Berichte, welche die auf seine Veranlassung gewählten oder entsandten Mitglieder des Überwachungsorgans unter Beifügung aller ihnen über das Unternehmen zur Verfügung stehenden Unterlagen zu erstatten haben,
 
-3.
+3. die ihm nach § 53 des Haushaltsgrundsätzegesetzes und nach § 67 zu übersendenden Prüfungsberichte.
 
 > (+++ § 69: Zur Nichtanwendung vgl. § 61 Abs. 2 Satz 3 SAG +++)
 
@@ -716,9 +662,9 @@ Zahlungen dürfen nur von Kassen und Zahlstellen angenommen oder geleistet werde
 
 (2) Einnahmen und Ausgaben auf Einnahme- und Ausgabereste (Haushaltsreste) aus Vorjahren,
 
-1.
+1. für die im Haushaltsplan des laufenden Haushaltsjahres wiederum ein Titel vorgesehen ist, sind bei diesem zu buchen,
 
-2.
+2. für die im Haushaltsplan des laufenden Haushaltsjahres kein Titel vorgesehen ist, sind an der Stelle zu buchen, an der sie im Falle der Veranschlagung im Haushaltsplan vorzusehen gewesen wären.
 
 (3) Absatz 2 Nr. 2 gilt entsprechend für außerplanmäßige Einnahmen und Ausgaben.
 
@@ -734,11 +680,11 @@ Zahlungen dürfen nur von Kassen und Zahlstellen angenommen oder geleistet werde
 
 (4) Für das neue Haushaltsjahr sind zu buchen:
 
-1.
+1. Einnahmen, die im neuen Haushaltsjahr fällig werden, jedoch vorher eingehen;
 
-2.
+2. Ausgaben, die im neuen Haushaltsjahr fällig werden, jedoch wegen des fristgerechten Eingangs beim Empfänger vorher gezahlt werden müssen;
 
-3.
+3. im voraus zu zahlende Dienst-, Versorgungs- und entsprechende Bezüge sowie Renten für den ersten Monat des neuen Haushaltsjahres.
 
 (5) Die Absätze 3 und 4 Nr. 1 gelten nicht für Steuern, Gebühren, andere Abgaben, Geldstrafen, Geldbußen sowie damit zusammenhängende Kosten.
 
@@ -786,9 +732,9 @@ Für Zahlungen oder Buchungen zuständige Stellen sind mindestens jährlich, fü
 
 (4) Das Bundesministerium der Finanzen regelt das Nähere
 
-1.
+1. über die Einrichtung, den Zuständigkeitsbereich und das Verwaltungsverfahren der für Zahlungen und Buchungen zuständigen Stellen des Bundes im Benehmen mit dem zuständigen Bundesministerium,
 
-2.
+2. über die Einrichtung der Bücher und Belege im Einvernehmen mit dem Bundesrechnungshof.
 
 (5) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesrechnungshof Vereinfachungen für die Buchführung und die Belegung der Buchungen allgemein anordnen. Der Bundesrechnungshof kann im Einvernehmen mit dem zuständigen Bundesministerium im Einzelfall Vereinfachungen zulassen.
 
@@ -806,43 +752,9 @@ Für Zahlungen oder Buchungen zuständige Stellen sind mindestens jährlich, fü
 
 (2) Bei den einzelnen Titeln und entsprechend bei den Schlußsummen sind besonders anzugeben:
 
-1.
+1. bei den Einnahmen:a)die Ist-Einnahmen, b)die zu übertragenden Einnahmereste, c)die Summe der Ist-Einnahmen und der zu übertragenden Einnahmereste, d)die vermögenswirksamen Beträge der Ist-Einnahmen, soweit eine Vermögensbuchführung besteht, e)die veranschlagten Einnahmen, f)die aus dem Vorjahr übertragenen Einnahmereste, g)die Summe der veranschlagten Einnahmen und der übertragenen Einnahmereste, h)der Mehr- oder Minderbetrag der Summe aus Buchstabe c gegenüber der Summe aus Buchstabe g; die Ist-Einnahmen, die zu übertragenden Einnahmereste, die Summe der Ist-Einnahmen und der zu übertragenden Einnahmereste, die vermögenswirksamen Beträge der Ist-Einnahmen, soweit eine Vermögensbuchführung besteht, die veranschlagten Einnahmen, die aus dem Vorjahr übertragenen Einnahmereste, die Summe der veranschlagten Einnahmen und der übertragenen Einnahmereste, der Mehr- oder Minderbetrag der Summe aus Buchstabe c gegenüber der Summe aus Buchstabe g;
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
+2. bei den Ausgaben:a)die Ist-Ausgaben, b)die zu übertragenden Ausgabereste oder die Vorgriffe, c)die Summe der Ist-Ausgaben und der zu übertragenden Ausgabereste oder der Vorgriffe, d)die vermögenswirksamen Beträge der Ist-Ausgaben, soweit eine Vermögensbuchführung besteht, e)die veranschlagten Ausgaben, f)die aus dem Vorjahr übertragenen Ausgabereste oder die Vorgriffe, g)die Summe der veranschlagten Ausgaben und der übertragenen Ausgabereste oder der Vorgriffe, h)der Mehr- oder Minderbetrag der Summe aus Buchstabe c gegenüber der Summe aus Buchstabe g, i)der Betrag der über- oder außerplanmäßigen Ausgaben sowie der Vorgriffe. die Ist-Ausgaben, die zu übertragenden Ausgabereste oder die Vorgriffe, die Summe der Ist-Ausgaben und der zu übertragenden Ausgabereste oder der Vorgriffe, die vermögenswirksamen Beträge der Ist-Ausgaben, soweit eine Vermögensbuchführung besteht, die veranschlagten Ausgaben, die aus dem Vorjahr übertragenen Ausgabereste oder die Vorgriffe, die Summe der veranschlagten Ausgaben und der übertragenen Ausgabereste oder der Vorgriffe, der Mehr- oder Minderbetrag der Summe aus Buchstabe c gegenüber der Summe aus Buchstabe g, der Betrag der über- oder außerplanmäßigen Ausgaben sowie der Vorgriffe.
 
 (3) Für die jeweiligen Titel und entsprechend für die Schlußsummen ist die Höhe der eingegangenen Verpflichtungen und der Geldforderungen im Sinne des § 71 Abs. 1 Satz 2 besonders anzugeben.
 
@@ -852,49 +764,19 @@ i)
 
 In dem kassenmäßigen Abschluß sind nachzuweisen:
 
-1.
+1. a)die Summe der Ist-Einnahmen, b)die Summe der Ist-Ausgaben, c)der Unterschied aus Buchstabe a und Buchstabe b (kassenmäßiges Jahresergebnis), d)die haushaltsmäßig noch nicht abgewickelten kassenmäßigen Jahresergebnisse früherer Jahre, e)das kassenmäßige Gesamtergebnis aus Buchstabe c und Buchstabe d; die Summe der Ist-Einnahmen, die Summe der Ist-Ausgaben, der Unterschied aus Buchstabe a und Buchstabe b (kassenmäßiges Jahresergebnis), die haushaltsmäßig noch nicht abgewickelten kassenmäßigen Jahresergebnisse früherer Jahre, das kassenmäßige Gesamtergebnis aus Buchstabe c und Buchstabe d;
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-c)
+2. a)die Summe der Ist-Einnahmen mit Ausnahme der Einnahmen aus Krediten vom Kreditmarkt, der Entnahmen aus Rücklagen, der Einnahmen aus kassenmäßigen Überschüssen und der Münzeinnahmen, b)die Summe der Ist-Ausgaben mit Ausnahme der Ausgaben zur Schuldentilgung am Kreditmarkt, der Zuführungen an Rücklagen und der Ausgaben zur Deckung eines kassenmäßigen Fehlbetrags, c)der Finanzierungssaldo aus Buchstabe a und Buchstabe b. die Summe der Ist-Einnahmen mit Ausnahme der Einnahmen aus Krediten vom Kreditmarkt, der Entnahmen aus Rücklagen, der Einnahmen aus kassenmäßigen Überschüssen und der Münzeinnahmen, die Summe der Ist-Ausgaben mit Ausnahme der Ausgaben zur Schuldentilgung am Kreditmarkt, der Zuführungen an Rücklagen und der Ausgaben zur Deckung eines kassenmäßigen Fehlbetrags, der Finanzierungssaldo aus Buchstabe a und Buchstabe b.
 
 ### § 83 — Haushaltsabschluß
 
 In dem Haushaltsabschluß sind nachzuweisen:
 
-1.
+1. a)das kassenmäßige Jahresergebnis nach § 82 Nr. 1 Buchstabe c, b)das kassenmäßige Gesamtergebnis nach § 82 Nr. 1 Buchstabe e; das kassenmäßige Jahresergebnis nach § 82 Nr. 1 Buchstabe c, das kassenmäßige Gesamtergebnis nach § 82 Nr. 1 Buchstabe e;
 
-a)
+2. a)die aus dem Vorjahr übertragenen Einnahmereste und Ausgabereste, b)die in das folgende Haushaltsjahr zu übertragenden Einnahmereste und Ausgabereste, c)der Unterschied aus Buchstabe a und Buchstabe b, d)das rechnungsmäßige Jahresergebnis aus Nummer 1 Buchstabe a und Nummer 2 Buchstabe c, e)das rechnungsmäßige Gesamtergebnis aus Nummer 1 Buchstabe b und Nummer 2 Buchstabe b; die aus dem Vorjahr übertragenen Einnahmereste und Ausgabereste, die in das folgende Haushaltsjahr zu übertragenden Einnahmereste und Ausgabereste, der Unterschied aus Buchstabe a und Buchstabe b, das rechnungsmäßige Jahresergebnis aus Nummer 1 Buchstabe a und Nummer 2 Buchstabe c, das rechnungsmäßige Gesamtergebnis aus Nummer 1 Buchstabe b und Nummer 2 Buchstabe b;
 
-b)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-3.
+3. die Höhe der eingegangenen Verpflichtungen und der Geldforderungen im Sinne des § 71 Abs. 1 Satz 2.
 
 ### § 84 — Abschlußbericht
 
@@ -904,15 +786,15 @@ Der kassenmäßige Abschluß und der Haushaltsabschluß sind in einem Bericht zu
 
 Der Haushaltsrechnung sind Übersichten beizufügen über
 
-1.
+1. die über- und außerplanmäßigen Ausgaben einschließlich der Vorgriffe und ihre Begründung,
 
-2.
+2. die Einnahmen und Ausgaben sowie den Bestand an Sondervermögen und Rücklagen,
 
-3.
+3. den Jahresabschluß bei Bundesbetrieben,
 
-4.
+4. die Gesamtbeträge der nach § 59 erlassenen Ansprüche nach Geschäftsbereichen,
 
-5.
+5. die nicht veranschlagten Einnahmen aus der Veräußerung von Vermögensgegenständen.
 
 ### § 86 — Vermögensrechnung
 
@@ -936,13 +818,13 @@ In der Vermögensrechnung sind der Bestand des Vermögens und der Schulden zu Be
 
 (1) Der Bundesrechnungshof prüft
 
-1.
+1. die Einnahmen, Ausgaben, Verpflichtungen zur Leistung von Ausgaben, das Vermögen und die Schulden,
 
-2.
+2. Maßnahmen, die sich finanziell auswirken können,
 
-3.
+3. Verwahrungen und Vorschüsse,
 
-4.
+4. die Verwendung der Mittel, die zur Selbstbewirtschaftung zugewiesen sind.
 
 (2) Der Bundesrechnungshof kann nach seinem Ermessen die Prüfung beschränken und Rechnungen ungeprüft lassen.
 
@@ -952,29 +834,29 @@ In der Vermögensrechnung sind der Bestand des Vermögens und der Schulden zu Be
 
 Die Prüfung erstreckt sich auf die Einhaltung der für die Haushalts- und Wirtschaftsführung geltenden Vorschriften und Grundsätze, insbesondere darauf, ob
 
-1.
+1. das Haushaltsgesetz und der Haushaltsplan eingehalten worden sind,
 
-2.
+2. die Einnahmen und Ausgaben begründet und belegt sind und die Haushaltsrechnung und die Vermögensrechnung ordnungsgemäß aufgestellt sind,
 
-3.
+3. wirtschaftlich und sparsam verfahren wird,
 
-4.
+4. die Aufgabe mit geringerem Personal- oder Sachaufwand oder auf andere Weise wirksamer erfüllt werden kann.
 
 > (+++ § 90: Zur Anwendung vgl. § 55 Abs. 1 Satz 2 EinSiG +++)
 
 ### § 91 — Prüfung bei Stellen außerhalb der Bundesverwaltung
 
-(1) Der Bundesrechnungshof ist vorbehaltlich anderer gesetzlicher Regelung berechtigt, bei Stellen außerhalb der Bundesverwaltung zu prüfen, wenn sie Leiten diese Stellen die Mittel an Dritte weiter, so kann der Bundesrechnungshof auch bei diesen prüfen.
+(1) Der Bundesrechnungshof ist vorbehaltlich anderer gesetzlicher Regelung berechtigt, bei Stellen außerhalb der Bundesverwaltung zu prüfen, wenn sie
 
-1.
+1. Teile des Bundeshaushaltsplans ausführen oder vom Bund Ersatz von Aufwendungen erhalten,
 
-2.
+2. Bundesmittel oder Vermögensgegenstände des Bundes verwalten,
 
-3.
+3. vom Bund Zuwendungen erhalten,
 
-4.
+4. als juristische Personen des privaten Rechts, an denen der Bund einschließlich seiner Sondervermögen unmittelbar oder mittelbar mit Mehrheit beteiligt ist, nicht im Wettbewerb stehen, bestimmungsgemäß ganz oder überwiegend öffentliche Aufgaben erfüllen oder diesem Zweck dienen und hierfür Haushaltsmittel oder Gewährleistungen des Bundes oder eines seiner Sondervermögen erhalten oder
 
-5.
+5. Finanzierungsmittel bewirtschaften, die der Bund den Ländern zweckgebunden zur Erfüllung von Länderaufgaben zugewiesen hat.
 
 (2) Die Prüfung erstreckt sich auf die bestimmungsmäßige und wirtschaftliche Verwaltung und Verwendung. Bei Zuwendungen kann sie sich auch auf die sonstige Haushalts- und Wirtschaftsführung des Empfängers erstrecken, soweit es der Bundesrechnungshof für seine Prüfung für notwendig hält.
 
@@ -1042,13 +924,13 @@ Erlässt der Bundesrechnungshof zur Durchsetzung seiner Rechte nach § 94 Absatz
 
 (2) In den Bemerkungen ist insbesondere mitzuteilen,
 
-1.
+1. ob die in der Haushaltsrechnung und der Vermögensrechnung und die in den Büchern aufgeführten Beträge übereinstimmen und die geprüften Einnahmen und Ausgaben ordnungsgemäß belegt sind,
 
-2.
+2. in welchen Fällen von Bedeutung die für die Haushalts- und Wirtschaftsführung geltenden Vorschriften und Grundsätze nicht beachtet worden sind,
 
-3.
+3. welche wesentlichen Beanstandungen sich aus der Prüfung der Betätigung bei Unternehmen mit eigener Rechtspersönlichkeit ergeben haben,
 
-4.
+4. welche Maßnahmen für die Zukunft empfohlen werden.
 
 (3) In die Bemerkungen können Feststellungen auch über spätere oder frühere Haushaltsjahre aufgenommen werden.
 
@@ -1084,15 +966,15 @@ Die Rechnung des Bundesrechnungshofes wird von dem Bundestag und dem Bundesrat g
 
 (1) Der Bundesrechnungshof ist unverzüglich zu unterrichten, wenn
 
-1.
+1. oberste Bundesbehörden allgemeine Vorschriften erlassen oder erläutern, welche die Bewirtschaftung der Haushaltsmittel des Bundes betreffen oder sich auf dessen Einnahmen und Ausgaben auswirken,
 
-2.
+2. den Bundeshaushalt berührende Verwaltungseinrichtungen oder Bundesbetriebe geschaffen, wesentlich geändert oder aufgelöst werden,
 
-3.
+3. unmittelbare Beteiligungen des Bundes oder mittelbare Beteiligungen im Sinne des § 65 Abs. 3 an Unternehmen begründet, wesentlich geändert oder aufgegeben werden,
 
-4.
+4. Vereinbarungen zwischen dem Bund und einer Stelle außerhalb der Bundesverwaltung oder zwischen obersten Bundesbehörden über die Bewirtschaftung von Haushaltsmitteln des Bundes getroffen werden,
 
-5.
+5. von den obersten Bundesbehörden organisatorische oder sonstige Maßnahmen von erheblicher finanzieller Tragweite getroffen werden.
 
 (2) Dem Bundesrechnungshof sind auf Anforderung Vorschriften oder Erläuterungen der in Absatz 1 Nr. 1 genannten Art auch dann mitzuteilen, wenn andere Stellen des Bundes sie erlassen.
 
@@ -1110,13 +992,13 @@ Die Rechnung des Bundesrechnungshofes wird von dem Bundestag und dem Bundesrat g
 
 (1) Der Bundesrechnungshof prüft die Haushalts- und Wirtschaftsführung der juristischen Personen des privaten Rechts, wenn
 
-1.
+1. sie auf Grund eines Gesetzes vom Bund Zuschüsse erhalten oder eine Garantieverpflichtung des Bundes gesetzlich begründet ist oder
 
-2.
+2. sie vom Bund oder einer vom Bund bestellten Person allein oder überwiegend verwaltet werden oder
 
-3.
+3. mit dem Bundesrechnungshof eine Prüfung durch ihn vereinbart ist oder
 
-4.
+4. sie nicht Unternehmen sind und in ihrer Satzung mit Zustimmung des Bundesrechnungshofes eine Prüfung durch ihn vorgesehen ist.
 
 (2) Absatz 1 ist auf die vom Bund verwalteten Treuhandvermögen anzuwenden.
 
@@ -1127,11 +1009,11 @@ des öffentlichen Rechts
 
 ### § 105 — Grundsatz
 
-(1) Für bundesunmittelbare juristische Personen des öffentlichen Rechts gelten soweit nicht durch Gesetz oder auf Grund eines Gesetzes etwas anderes bestimmt ist.
+(1) Für bundesunmittelbare juristische Personen des öffentlichen Rechts gelten
 
-1.
+1. die §§ 106 bis 110,
 
-2.
+2. die §§ 1 bis 87 entsprechend,
 
 (2) Für bundesunmittelbare juristische Personen des öffentlichen Rechts kann das zuständige Bundesministerium im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesrechnungshof Ausnahmen von den in Absatz 1 bezeichneten Vorschriften zulassen, soweit kein erhebliches finanzielles Interesse des Bundes besteht.
 
@@ -1156,8 +1038,6 @@ Der Haushaltsplan und die Festsetzung der Umlagen oder der Beiträge bedürfen b
 (2) Die Rechnung und die Haushalts- und Wirtschaftsführung der bundesunmittelbaren juristischen Person des öffentlichen Rechts sind, unbeschadet einer Prüfung durch den Bundesrechnungshof nach § 111, von durch Gesetz oder Satzung bestimmten Stellen zu prüfen. Die Satzungsvorschrift über die Durchführung der Prüfung bedarf der Zustimmung des zuständigen Bundesministeriums im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesrechnungshof. Die Ergebnisse der Prüfung sind dem Bundesrechnungshof vorzulegen. Er kann zulassen, daß die Prüfung beschränkt wird.
 
 (3) Die Entlastung erteilt das zuständige Bundesministerium im Einvernehmen mit dem Bundesministerium der Finanzen. Ist ein besonderes Beschlußorgan vorhanden, obliegt ihm die Entlastung; die Entlastung bedarf dann der Genehmigung des zuständigen Bundesministeriums und des Bundesministeriums der Finanzen.
-
-> (+++ § 109 Abs. 2: Zur Nichtanwendung vgl. § 37 Abs. 4 Satz 3 FFG 2017 +++) (+++ § 109 Abs. 3: Zur Nichtanwendung vgl. § 8 Abs. 2 Satz 2 FFG 2017 +++)
 
 ### § 110 — Wirtschaftsplan
 
@@ -1220,10 +1100,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgeset
 ### § 119 — Inkrafttreten
 
 (1) Dieses Gesetz tritt am 1. Januar 1970 in Kraft.
-
-(2) ... Ferner treten diejenigen Vorschriften anderer Gesetze außer Kraft, die mit den Bestimmungen dieses Gesetzes nicht vereinbar sind.
-
-(3) Soweit in anderen Gesetzen auf die nach Absatz 2 aufgehobenen Bestimmungen Bezug genommen wird, treten an ihre Stelle die Vorschriften dieses Gesetzes.
 
 (4)
 

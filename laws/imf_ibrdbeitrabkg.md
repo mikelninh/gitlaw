@@ -28,7 +28,9 @@ Die Deutsche Bundesbank wickelt den Geschäftsverkehr der Bundesrepublik Deutsch
 
 ### Art 5
 
-(1) Die beiden in Artikel 1 genannten Abkommen werden nachstehend mit Gesetzeskraft veröffentlicht.(2)
+(1) Die beiden in Artikel 1 genannten Abkommen werden nachstehend mit Gesetzeskraft veröffentlicht.
+
+(2)
 
 ### Art 6
 

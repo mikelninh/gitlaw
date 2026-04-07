@@ -14,7 +14,11 @@ Diese Verordnung dient der Überwachung des Verkehrs mit kosmetischen Mitteln so
 
 ### § 2 — Begriffsbestimmungen
 
-Im Sinne dieser Verordnung sind: 1.Bereitstellung auf dem Markt: Bereitstellung auf dem Markt im Sinne des Artikels 2 Absatz 1 Buchstabe g der Verordnung (EG) Nr. 1223/2009,2.Inverkehrbringen: Inverkehrbringen im Sinne des Artikels 2 Absatz 1 Buchstabe h der Verordnung (EG) Nr. 1223/2009.
+Im Sinne dieser Verordnung sind:
+
+1. Bereitstellung auf dem Markt: Bereitstellung auf dem Markt im Sinne des Artikels 2 Absatz 1 Buchstabe g der Verordnung (EG) Nr. 1223/2009,
+
+2. Inverkehrbringen: Inverkehrbringen im Sinne des Artikels 2 Absatz 1 Buchstabe h der Verordnung (EG) Nr. 1223/2009.
 
 ### § 3 — Anzeigepflichten
 
@@ -26,7 +30,9 @@ Kosmetische Mittel dürfen nur auf dem Markt bereitgestellt werden, wenn die Ang
 
 ### § 5 — Kennzeichnung nicht vorverpackter kosmetischer Mittel
 
-(1) Zusätzlich zu der Anforderung des § 4 dürfen nicht vorverpackte kosmetische Mittel und kosmetische Mittel, die an den Verkaufsstellen auf Wunsch des Käufers verpackt werden oder im Hinblick auf ihren sofortigen Verkauf vorverpackt sind, nur auf dem Markt bereitgestellt werden, wenn die in Artikel 19 Absatz 1 der Verordnung (EG) Nr. 1223/2009 genannten Angaben auf einem dem kosmetischen Mittel beigepackten oder an ihm befestigten Etikett, Papierstreifen, Anhänger oder Kärtchen aufgeführt sind.(2) Ist bei Angaben nach Artikel 19 Absatz 1 Buchstabe g der Verordnung (EG) Nr. 1223/2009 die Kennzeichnung nach Absatz 1 aus praktischen Gründen, insbesondere wegen der geringen Größe oder der Form des kosmetischen Mittels, nicht möglich, sind diese auf einem Schild in unmittelbarer Nähe des kosmetischen Mittels oder des Behältnisses, in dem das kosmetische Mittel zum Verkauf angeboten wird, anzubringen.
+(1) Zusätzlich zu der Anforderung des § 4 dürfen nicht vorverpackte kosmetische Mittel und kosmetische Mittel, die an den Verkaufsstellen auf Wunsch des Käufers verpackt werden oder im Hinblick auf ihren sofortigen Verkauf vorverpackt sind, nur auf dem Markt bereitgestellt werden, wenn die in Artikel 19 Absatz 1 der Verordnung (EG) Nr. 1223/2009 genannten Angaben auf einem dem kosmetischen Mittel beigepackten oder an ihm befestigten Etikett, Papierstreifen, Anhänger oder Kärtchen aufgeführt sind.
+
+(2) Ist bei Angaben nach Artikel 19 Absatz 1 Buchstabe g der Verordnung (EG) Nr. 1223/2009 die Kennzeichnung nach Absatz 1 aus praktischen Gründen, insbesondere wegen der geringen Größe oder der Form des kosmetischen Mittels, nicht möglich, sind diese auf einem Schild in unmittelbarer Nähe des kosmetischen Mittels oder des Behältnisses, in dem das kosmetische Mittel zum Verkauf angeboten wird, anzubringen.
 
 ### § 6 — Informations- und Behandlungszentren für Vergiftungen
 
@@ -38,10 +44,74 @@ Für die Einfuhr von kosmetischen Mitteln gilt § 11a Absatz 1 der Bedarfsgegens
 
 ### § 8 — Straftaten
 
-(1) Nach § 58 Absatz 3 Nummer 2, Absatz 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG) Nr. 1223/2009 des Europäischen Parlamentes und des Rates vom 30. November 2009 über kosmetische Mittel (ABI. L 342 vom 22.12.2009, S. 59; L 318 vom 15.11.2012, S. 74; L 72 vom 15.3.2013, S. 16), die zuletzt durch die Verordnung (EU) 2024/996 (ABI. L, 2024/996, 4.4.2024) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig 1.entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe a nicht dafür sorgt, dass ein kosmetisches Mittel einen in Anhang II aufgeführten Stoff nicht enthält,2.entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe b nicht dafür sorgt, dass in einem kosmetischen Mittel ein in Anhang III aufgeführter Stoff nicht enthalten ist, der unter Verstoß gegen die in Anhang III Spalte f oder Spalte h festgelegten Einschränkungen verwendet wird,3.entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe c Nummer i nicht dafür sorgt, dass in einem kosmetischen Mittel ein anderer als in Anhang IV aufgeführter Farbstoff nicht enthalten ist,4.entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe c Nummer i nicht dafür sorgt, dass in einem kosmetischen Mittel ein in Anhang IV aufgeführter Farbstoff nicht enthalten ist, der unter Verstoß gegen die in Anhang IV Spalte g oder Spalte i genannten Verwendungsbedingungen verwendet wird,5.entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe d Nummer i nicht dafür sorgt, dass in einem kosmetischen Mittel ein anderer als in Anhang V aufgeführter Konservierungsstoff nicht enthalten ist,6.entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe d Nummer i nicht dafür sorgt, dass in einem kosmetischen Mittel ein in Anhang V aufgeführter Konservierungsstoff nicht enthalten ist, der unter Verstoß gegen die in Anhang V Spalte f oder Spalte h genannten Verwendungsbedingungen verwendet wird,7.entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe e Nummer i nicht dafür sorgt, dass in einem kosmetischen Mittel ein anderer als in Anhang VI aufgeführter UV-Filter nicht enthalten ist,8.entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe e Nummer i nicht dafür sorgt, dass in einem kosmetischen Mittel ein in Anhang VI aufgeführter UV-Filter nicht enthalten ist, der unter Verstoß gegen die in Anhang VI Spalte f oder Spalte h genannten Verwendungsbedingungen verwendet wird, oder9.entgegen Artikel 15 Absatz 1 Satz 1 oder Absatz 2 Unterabsatz 1 einen als CMR-Stoff der Kategorie 1A, 1B oder 2 eingestuften Stoff verwendet.(2) Nach § 59 Absatz 3 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG) Nr. 1223/2009 verstößt, indem er 1.entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe b nicht dafür sorgt, dass in einem kosmetischen Mittel ein in Anhang III aufgeführter Stoff nicht enthalten ist, der unter Verstoß gegen die in Anhang III Spalte g festgelegten Einschränkungen verwendet wird,2.entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe c Nummer i nicht dafür sorgt, dass in einem kosmetischen Mittel ein in Anhang IV aufgeführter Farbstoff nicht enthalten ist, der unter Verstoß gegen die in Anhang IV Spalte h genannten Verwendungsbedingungen verwendet wird,3.entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe d Nummer i nicht dafür sorgt, dass in einem kosmetischen Mittel ein in Anhang V aufgeführter Konservierungsstoff nicht enthalten ist, der unter Verstoß gegen die in Anhang V Spalte g genannten Verwendungsbedingungen verwendet wird,4.entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe e Nummer i nicht dafür sorgt, dass in einem kosmetischen Mittel ein in Anhang VI aufgeführter UV-Filter nicht enthalten ist, der unter Verstoß gegen die in Anhang VI Spalte g genannten Verwendungsbedingungen verwendet wird, oder5.entgegen Artikel 10 Absatz 1 Unterabsatz 1 nicht sicherstellt, dass a)ein kosmetisches Mittel eine dort genannte Sicherheitsbewertung durchlaufen hat, oderb)ein Sicherheitsbericht für das kosmetische Mittel gemäß Anhang I erstellt worden ist.
+(1) Nach § 58 Absatz 3 Nummer 2, Absatz 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG) Nr. 1223/2009 des Europäischen Parlamentes und des Rates vom 30. November 2009 über kosmetische Mittel (ABI. L 342 vom 22.12.2009, S. 59; L 318 vom 15.11.2012, S. 74; L 72 vom 15.3.2013, S. 16), die zuletzt durch die Verordnung (EU) 2024/996 (ABI. L, 2024/996, 4.4.2024) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
+
+1. entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe a nicht dafür sorgt, dass ein kosmetisches Mittel einen in Anhang II aufgeführten Stoff nicht enthält,
+
+2. entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe b nicht dafür sorgt, dass in einem kosmetischen Mittel ein in Anhang III aufgeführter Stoff nicht enthalten ist, der unter Verstoß gegen die in Anhang III Spalte f oder Spalte h festgelegten Einschränkungen verwendet wird,
+
+3. entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe c Nummer i nicht dafür sorgt, dass in einem kosmetischen Mittel ein anderer als in Anhang IV aufgeführter Farbstoff nicht enthalten ist,
+
+4. entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe c Nummer i nicht dafür sorgt, dass in einem kosmetischen Mittel ein in Anhang IV aufgeführter Farbstoff nicht enthalten ist, der unter Verstoß gegen die in Anhang IV Spalte g oder Spalte i genannten Verwendungsbedingungen verwendet wird,
+
+5. entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe d Nummer i nicht dafür sorgt, dass in einem kosmetischen Mittel ein anderer als in Anhang V aufgeführter Konservierungsstoff nicht enthalten ist,
+
+6. entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe d Nummer i nicht dafür sorgt, dass in einem kosmetischen Mittel ein in Anhang V aufgeführter Konservierungsstoff nicht enthalten ist, der unter Verstoß gegen die in Anhang V Spalte f oder Spalte h genannten Verwendungsbedingungen verwendet wird,
+
+7. entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe e Nummer i nicht dafür sorgt, dass in einem kosmetischen Mittel ein anderer als in Anhang VI aufgeführter UV-Filter nicht enthalten ist,
+
+8. entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe e Nummer i nicht dafür sorgt, dass in einem kosmetischen Mittel ein in Anhang VI aufgeführter UV-Filter nicht enthalten ist, der unter Verstoß gegen die in Anhang VI Spalte f oder Spalte h genannten Verwendungsbedingungen verwendet wird, oder
+
+9. entgegen Artikel 15 Absatz 1 Satz 1 oder Absatz 2 Unterabsatz 1 einen als CMR-Stoff der Kategorie 1A, 1B oder 2 eingestuften Stoff verwendet.
+
+(2) Nach § 59 Absatz 3 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG) Nr. 1223/2009 verstößt, indem er
+
+1. entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe b nicht dafür sorgt, dass in einem kosmetischen Mittel ein in Anhang III aufgeführter Stoff nicht enthalten ist, der unter Verstoß gegen die in Anhang III Spalte g festgelegten Einschränkungen verwendet wird,
+
+2. entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe c Nummer i nicht dafür sorgt, dass in einem kosmetischen Mittel ein in Anhang IV aufgeführter Farbstoff nicht enthalten ist, der unter Verstoß gegen die in Anhang IV Spalte h genannten Verwendungsbedingungen verwendet wird,
+
+3. entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe d Nummer i nicht dafür sorgt, dass in einem kosmetischen Mittel ein in Anhang V aufgeführter Konservierungsstoff nicht enthalten ist, der unter Verstoß gegen die in Anhang V Spalte g genannten Verwendungsbedingungen verwendet wird,
+
+4. entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe e Nummer i nicht dafür sorgt, dass in einem kosmetischen Mittel ein in Anhang VI aufgeführter UV-Filter nicht enthalten ist, der unter Verstoß gegen die in Anhang VI Spalte g genannten Verwendungsbedingungen verwendet wird, oder
+
+5. entgegen Artikel 10 Absatz 1 Unterabsatz 1 nicht sicherstellt, dass a)ein kosmetisches Mittel eine dort genannte Sicherheitsbewertung durchlaufen hat, oderb)ein Sicherheitsbericht für das kosmetische Mittel gemäß Anhang I erstellt worden ist. ein kosmetisches Mittel eine dort genannte Sicherheitsbewertung durchlaufen hat, oder ein Sicherheitsbericht für das kosmetische Mittel gemäß Anhang I erstellt worden ist.
 
 ### § 9 — Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig 1.entgegen § 3 Satz 1 oder Satz 2, jeweils auch in Verbindung mit Satz 4, eine Anzeige nicht, nicht richtig oder nicht rechtzeitig erstattet oder2.entgegen § 4 oder § 5 Absatz 1 ein kosmetisches Mittel auf dem Markt bereitstellt.(2) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S. 59; L 318 vom 15.11.2012, S. 74; L 72 vom 15.3.2013, S. 16), die zuletzt durch die Verordnung (EU) 2024/996 (ABI. L, 2024/996, 4.4.2024) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig 1.entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 11 Absatz 2 nicht dafür sorgt, dass die dort genannten Daten und Angaben aktualisiert werden,2.entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 11 Absatz 3 nicht dafür sorgt, dass eine Produktinformationsdatei in der dort genannten Weise zugänglich gemacht wird,3.entgegen Artikel 6 Absatz 2 erster oder dritter Spiegelstrich eine Überprüfung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt,4.entgegen Artikel 11 Absatz 1 Satz 1 in Verbindung mit Absatz 2 eine Produktinformationsdatei nicht, nicht richtig oder nicht vollständig führt,5.entgegen Artikel 11 Absatz 1 Satz 2 eine Produktinformationsdatei nicht oder nicht mindestens zehn Jahre aufbewahrt,6.entgegen Artikel 13 Absatz 1 Unterabsatz 1 oder Absatz 2 oder Artikel 16 Absatz 3 Unterabsatz 1 eine Notifizierung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,7.entgegen Artikel 13 Absatz 3 eine dort genannte Information nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht vor der Bereitstellung auf dem Markt zugänglich macht,8.entgegen Artikel 13 Absatz 4 Unterabsatz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht vor der Bereitstellung auf dem Markt macht,9.entgegen Artikel 13 Absatz 7 nicht dafür sorgt, dass eine Aktualisierung unverzüglich vorgenommen wird,10.entgegen Artikel 18 Absatz 1 Buchstabe a ein kosmetisches Mittel in Verkehr bringt, dessen endgültige Zusammensetzung zur Einhaltung der Bestimmungen des Artikels 3 Satz 1 Buchstabe a, b oder Buchstabe c durch Tierversuche bestimmt worden ist,11.entgegen Artikel 18 Absatz 1 Buchstabe b ein kosmetisches Mittel in Verkehr bringt, dessen Bestandteile oder Kombinationen von Bestandteilen zur Einhaltung der Bestimmungen des Artikels 3 Satz 1 Buchstabe a, b oder Buchstabe c durch Tierversuche bestimmt worden sind,12.entgegen a)Artikel 19 Absatz 1 Buchstabe a, c, e oder Buchstabe f oderb)Artikel 19 Absatz 1 Buchstabe d oder Buchstabe g, jeweils auch in Verbindung mit Absatz 2,ein kosmetisches Mittel auf dem Markt bereitstellt,13.entgegen Artikel 21 Satz 1 nicht gewährleistet, dass eine dort bezeichnete Angabe der Öffentlichkeit leicht zugänglich gemacht wird, oder14.entgegen Artikel 23 Absatz 1 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
+(1) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
+
+1. entgegen § 3 Satz 1 oder Satz 2, jeweils auch in Verbindung mit Satz 4, eine Anzeige nicht, nicht richtig oder nicht rechtzeitig erstattet oder
+
+2. entgegen § 4 oder § 5 Absatz 1 ein kosmetisches Mittel auf dem Markt bereitstellt.
+
+(2) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S. 59; L 318 vom 15.11.2012, S. 74; L 72 vom 15.3.2013, S. 16), die zuletzt durch die Verordnung (EU) 2024/996 (ABI. L, 2024/996, 4.4.2024) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
+
+1. entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 11 Absatz 2 nicht dafür sorgt, dass die dort genannten Daten und Angaben aktualisiert werden,
+
+2. entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 11 Absatz 3 nicht dafür sorgt, dass eine Produktinformationsdatei in der dort genannten Weise zugänglich gemacht wird,
+
+3. entgegen Artikel 6 Absatz 2 erster oder dritter Spiegelstrich eine Überprüfung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt,
+
+4. entgegen Artikel 11 Absatz 1 Satz 1 in Verbindung mit Absatz 2 eine Produktinformationsdatei nicht, nicht richtig oder nicht vollständig führt,
+
+5. entgegen Artikel 11 Absatz 1 Satz 2 eine Produktinformationsdatei nicht oder nicht mindestens zehn Jahre aufbewahrt,
+
+6. entgegen Artikel 13 Absatz 1 Unterabsatz 1 oder Absatz 2 oder Artikel 16 Absatz 3 Unterabsatz 1 eine Notifizierung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,
+
+7. entgegen Artikel 13 Absatz 3 eine dort genannte Information nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht vor der Bereitstellung auf dem Markt zugänglich macht,
+
+8. entgegen Artikel 13 Absatz 4 Unterabsatz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht vor der Bereitstellung auf dem Markt macht,
+
+9. entgegen Artikel 13 Absatz 7 nicht dafür sorgt, dass eine Aktualisierung unverzüglich vorgenommen wird,
+
+10. entgegen Artikel 18 Absatz 1 Buchstabe a ein kosmetisches Mittel in Verkehr bringt, dessen endgültige Zusammensetzung zur Einhaltung der Bestimmungen des Artikels 3 Satz 1 Buchstabe a, b oder Buchstabe c durch Tierversuche bestimmt worden ist,
+
+11. entgegen Artikel 18 Absatz 1 Buchstabe b ein kosmetisches Mittel in Verkehr bringt, dessen Bestandteile oder Kombinationen von Bestandteilen zur Einhaltung der Bestimmungen des Artikels 3 Satz 1 Buchstabe a, b oder Buchstabe c durch Tierversuche bestimmt worden sind,
+
+12. entgegen a)Artikel 19 Absatz 1 Buchstabe a, c, e oder Buchstabe f oderb)Artikel 19 Absatz 1 Buchstabe d oder Buchstabe g, jeweils auch in Verbindung mit Absatz 2,ein kosmetisches Mittel auf dem Markt bereitstellt, Artikel 19 Absatz 1 Buchstabe a, c, e oder Buchstabe f oder Artikel 19 Absatz 1 Buchstabe d oder Buchstabe g, jeweils auch in Verbindung mit Absatz 2,
+
+13. entgegen Artikel 21 Satz 1 nicht gewährleistet, dass eine dort bezeichnete Angabe der Öffentlichkeit leicht zugänglich gemacht wird, oder
+
+14. entgegen Artikel 23 Absatz 1 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
 > (+++ § 9 Abs. 2 Eingangssatz: IdF d. Art. 2 V v. 26.1.2016 I 108 mWv 30.1.2016 u. d. Art. 2 Nr. 3 V v. 15.1.2025 I Nr. 11 mWv 18.1.2025 (aufgrund offensichtlicher Unrichtigkeit wurde die Änderungsanweisung sinngemäß konsolidiert) +++)

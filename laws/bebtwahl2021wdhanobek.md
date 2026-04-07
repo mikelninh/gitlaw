@@ -12,5 +12,3 @@ Auf Grund des Urteils des Bundesverfassungsgerichts vom 19. Dezember 2023, Akten
 Die teilweise Wiederholung der Wahl zum 20. Deutschen Bundestag im Land Berlin findet am 11. Februar 2024 statt.
 
 ### Schlussformel
-
-Bundesministerium des Innern und für Heimat

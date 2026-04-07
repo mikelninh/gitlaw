@@ -13,13 +13,7 @@ Auf Grund des § 2 Abs. 6 des Aufbauhilfefondsgesetzes vom 19. September 2002 (B
 
 (1) Die dem Fonds nach § 4 Abs. 2 des Aufbauhilfefondsgesetzes zugewiesenen Mittel verteilen sich nach folgenden Maßgaben:
 
-1.
-
-2.
-
-3.
-
-4.
+1. 60 Prozent der für Maßnahmen nach § 2 Abs. 2 Nr. 2 des Aufbauhilfefondsgesetzes und für den Pauschalbetrag nach § 2 Abs. 4 des Aufbauhilfefondsgesetzes vorgesehenen Mittel verteilen sich nach folgendem Schlüssel auf die vom Hochwasser betroffenen Länder:
 
 (2) Die Mittel des Fonds verteilen sich - mit Ausnahme des Pauschalbetrages nach § 2 Abs. 4 des Aufbauhilfefondsgesetzes, soweit dieser zur Finanzierung eigener Länderprogramme und -maßnahmen eingesetzt wird - auf die einzelnen Maßnahmen nach § 2 Abs. 2 des Aufbauhilfefondsgesetzes nach Maßgabe des gemäß § 5 des Aufbauhilfefondsgesetzes aufzustellenden Wirtschaftsplans.
 
@@ -35,11 +29,11 @@ Auf Grund des § 2 Abs. 6 des Aufbauhilfefondsgesetzes vom 19. September 2002 (B
 
 (5) Die Mittel sind nach Maßgabe folgender Grundsätze zu gewähren:
 
-1.
+1. Aus den Mitteln des Fonds können für individuelle Schäden nach § 2 Abs. 2 Nr. 1 des Aufbauhilfefondsgesetzes Leistungen bis zur Höhe des entstandenen Schadens unter Beachtung des § 2 Abs. 3 des Aufbauhilfefondsgesetzes gewährt werden. Leistungen Dritter zum Ausgleich des Schadens und für denselben Schaden gewährte Soforthilfen sind beim Ausgleich des Schadens zu berücksichtigen. Die Auszahlung an Private und Unternehmen ist unter Rückforderungsvorbehalt insbesondere für den Fall zu stellen, dass Leistungen durch Dritte erbracht werden und hierdurch eine Überkompensation des Schadens bewirkt wird. Mittel für Maßnahmen zur Wiederherstellung der Infrastruktur werden im Übrigen nach Maßgabe des Wirtschaftsplans und der auf seiner Basis durchzuführenden Bundes- oder Landesprogramme gewährt. Abweichende Regelungen können in Verwaltungsvereinbarungen zwischen Bund und Ländern getroffen werden.
 
-2.
+2. Schadenausgleichsansprüche gegenüber Dritten, insbesondere Versicherungen, können bei der Berechnung und Gewährung der Mittel des Fonds für Maßnahmen nach § 2 Abs. 2 Nr. 1 des Aufbauhilfefondsgesetzes vorerst außer Acht gelassen werden, soweit die Ansprüche trotz Erfolgsaussicht nach Einschätzung der bewilligenden Stelle nicht kurzfristig von Geschädigten realisiert werden können. In diesen Fällen sind die Ansprüche nach Einschätzung der bewilligenden Stelle jedoch bis zur Höhe der bewilligten Mittel an diese abzutreten. Im weiteren Verfahren ist bei Konkretisierung der Sachlage über eine dann gegebenenfalls erforderliche Rückabtretung zu entscheiden.
 
-3.
+3. Der jeweilige Nachweis der Angaben der Geschädigten kann durch die Glaubhaftmachung und Versicherung der Richtigkeit der Angaben erbracht werden. Dieses schließt auch nachträgliche Überprüfungen und Anforderungen von Nachweisen insbesondere bei Schäden von großem Umfang nicht aus.
 
 ### § 3 — Zweckentsprechende Mittelverwendung, Rückforderung
 

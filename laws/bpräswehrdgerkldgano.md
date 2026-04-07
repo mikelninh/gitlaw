@@ -20,7 +20,13 @@ Die Farbe der Amtstracht ist für den Bundeswehrdisziplinaranwalt karmesinrot, f
 
 ### III.
 
-Am Barett tragen a)der Bundeswehrdisziplinaranwaltzwei karmesinrote Schnüre in Seide, b)die richterlichen Mitglieder der Truppendienstkammerneine Schnur in Silber, c)die Wehrdisziplinaranwälte und die für den Bundeswehrdisziplinaranwalt auftretenden Beamten eine Spangein Gold, wenn sie vor dem Bundesdisziplinarhof,in Silber, wenn sie vor den Truppendienstkammern tätig werden.
+Am Barett tragen
+
+a) der Bundeswehrdisziplinaranwalt zwei karmesinrote Schnüre in Seide,
+
+b) die richterlichen Mitglieder der Truppendienstkammern eine Schnur in Silber,
+
+c) die Wehrdisziplinaranwälte und die für den Bundeswehrdisziplinaranwalt auftretenden Beamten eine Spangein Gold, wenn sie vor dem Bundesdisziplinarhof,in Silber, wenn sie vor den Truppendienstkammern in Gold, wenn sie vor dem Bundesdisziplinarhof, in Silber, wenn sie vor den Truppendienstkammern tätig werden.
 
 ### IV.
 

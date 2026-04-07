@@ -26,19 +26,11 @@
 
 (6) Die im Bundesbedarfsplan mit „F“ gekennzeichneten Vorhaben zur Höchstspannungs-Drehstrom-Übertragung können als Pilotprojekte nach Maßgabe des § 4 als Erdkabel errichtet und betrieben oder geändert werden.
 
-(7) Bei der Zulassung der im Bundesbedarfsplan mit „G“ gekennzeichneten Vorhaben oder Einzelmaßnahmen ist nach § 5a Absatz 4 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz aufgrund ihrer besonderen Eilbedürftigkeit auf eine Bundesfachplanung zu verzichten. Vorhaben im Sinne von Absatz 5 sollen ebenfalls mit „G“ gekennzeichnet werden, wenn eine Angabe nach § 12b Absatz 3a des Energiewirtschaftsgesetzes vorliegt und wenn und soweit sie Satz 2 ist für den länderübergreifenden landseitigen Teil von Vorhaben im Sinne von Absatz 3 entsprechend anzuwenden.
+(7) Bei der Zulassung der im Bundesbedarfsplan mit „G“ gekennzeichneten Vorhaben oder Einzelmaßnahmen ist nach § 5a Absatz 4 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz aufgrund ihrer besonderen Eilbedürftigkeit auf eine Bundesfachplanung zu verzichten. Vorhaben im Sinne von Absatz 5 sollen ebenfalls mit „G“ gekennzeichnet werden, wenn eine Angabe nach § 12b Absatz 3a des Energiewirtschaftsgesetzes vorliegt und wenn und soweit sie
 
-1.
+1. dieselben Netzverknüpfungspunkte haben a)wie ein weiteres Vorhaben im Sinne von Absatz 5, dessen festgelegter Trassenkorridor nachrichtlich in den Bundesnetzplan gemäß § 17 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz aufgenommen worden ist, oderb)wie ein durch Landesplanungen oder nach Landesrecht bestimmter Leitungsverlauf für Erdkabel zur Höchstspannungs-Gleichstrom-Übertragung oder wie ein weiteres Vorhaben im Sinne von Absatz 5, dessen festgelegter Trassenkorridor nachrichtlich in den Bundesnetzplan gemäß § 17 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz aufgenommen worden ist, oder wie ein durch Landesplanungen oder nach Landesrecht bestimmter Leitungsverlauf für Erdkabel zur Höchstspannungs-Gleichstrom-Übertragung oder
 
-a)
-
-b)
-
-2.
-
-a)
-
-b)
+2. räumlich weit überwiegend a)einem weiteren Vorhaben im Sinne von Absatz 5 entsprechen, dessen festgelegter Trassenkorridor nachrichtlich in den Bundesnetzplan gemäß § 17 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz aufgenommen worden ist, oderb)einem durch Landesplanungen oder nach Landesrecht bestimmten Leitungsverlauf für Erdkabel zur Höchstspannungs-Gleichstrom-Übertragung entsprechen. einem weiteren Vorhaben im Sinne von Absatz 5 entsprechen, dessen festgelegter Trassenkorridor nachrichtlich in den Bundesnetzplan gemäß § 17 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz aufgenommen worden ist, oder einem durch Landesplanungen oder nach Landesrecht bestimmten Leitungsverlauf für Erdkabel zur Höchstspannungs-Gleichstrom-Übertragung entsprechen.
 
 (8) Bei den im Bundesbedarfsplan mit „H“ gekennzeichneten Vorhaben stehen die energiewirtschaftliche Notwendigkeit und der vordringliche Bedarf für Leerrohre fest, die nach Maßgabe des § 18 Absatz 3 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz zugelassen werden.
 
@@ -46,21 +38,21 @@ b)
 
 (1) Leitungen zur Höchstspannungs-Gleichstrom-Übertragung der im Bundesbedarfsplan mit „E“ gekennzeichneten Vorhaben sind nach Maßgabe dieser Vorschrift als Erdkabel zu errichten und zu betreiben oder zu ändern.
 
-(2) Die Leitung kann auf technisch und wirtschaftlich effizienten Teilabschnitten als Freileitung errichtet und betrieben oder geändert werden, soweit Auf Verlangen der für die Bundesfachplanung oder Zulassung des Vorhabens zuständigen Behörde müssen die Leitungen auf Teilabschnitten unter den Voraussetzungen des Satzes 1 als Freileitung errichtet und betrieben oder geändert werden.
+(2) Die Leitung kann auf technisch und wirtschaftlich effizienten Teilabschnitten als Freileitung errichtet und betrieben oder geändert werden, soweit
 
-1.
+1. ein Erdkabel gegen die Verbote des § 44 Absatz 1 auch in Verbindung mit Absatz 5 des Bundesnaturschutzgesetzes verstieße und mit dem Einsatz einer Freileitung eine zumutbare Alternative im Sinne des § 45 Absatz 7 Satz 2 des Bundesnaturschutzgesetzes gegeben ist,
 
-2.
+2. ein Erdkabel nach § 34 Absatz 2 des Bundesnaturschutzgesetzes unzulässig wäre und mit dem Einsatz einer Freileitung eine zumutbare Alternative im Sinne des § 34 Absatz 3 Nummer 2 des Bundesnaturschutzgesetzes gegeben ist, oder
 
-3.
+3. die Leitung in oder unmittelbar neben der Trasse einer bestehenden oder bereits zugelassenen Hoch- oder Höchstspannungsfreileitung errichtet und betrieben oder geändert werden soll und der Einsatz einer Freileitung voraussichtlich keine zusätzlichen erheblichen Umweltauswirkungen hat.
 
-(3) Sofern Gebietskörperschaften, auf deren Gebiet ein Trassenkorridor voraussichtlich verlaufen wird, in der Antragskonferenz nach § 7 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz aufgrund örtlicher Belange die Prüfung des Einsatzes einer Freileitung verlangen, ist vom Träger des Vorhabens zu prüfen, ob die Leitung auf Teilabschnitten in dieser Gebietskörperschaft abweichend von Absatz 2 als Freileitung errichtet und betrieben oder geändert werden kann. Sofern die Prüfung ergibt, dass dies möglich ist, und der Träger des Vorhabens dies bei der Vorlage der erforderlichen Unterlagen nach § 8 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz vorschlägt, ist die Errichtung und der Betrieb oder die Änderung einer Leitung als Freileitung auf Teilabschnitten innerhalb der betreffenden Gebietskörperschaft abweichend von Absatz 2 zulässig. Auf Verlangen der für die Bundesfachplanung oder Zulassung des Vorhabens zuständigen Behörde müssen die Leitungen auf Teilabschnitten als Freileitung errichtet und betrieben oder geändert werden. Die Sätze 1 bis 3 sind nur anzuwenden bei Antragskonferenzen nach § 7 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz, die vor dem 29. Juli 2022 durchgeführt worden sind.
+(3) Sofern Gebietskörperschaften, auf deren Gebiet ein Trassenkorridor voraussichtlich verlaufen wird, in der Antragskonferenz nach § 7 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz aufgrund örtlicher Belange die Prüfung des Einsatzes einer Freileitung verlangen, ist vom Träger des Vorhabens zu prüfen, ob die Leitung auf Teilabschnitten in dieser Gebietskörperschaft abweichend von Absatz 2 als Freileitung errichtet und betrieben oder geändert werden kann. Sofern die Prüfung ergibt, dass dies möglich ist, und der Träger des Vorhabens dies bei der Vorlage der erforderlichen Unterlagen nach § 8 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz vorschlägt, ist die Errichtung und der Betrieb oder die Änderung einer Leitung als Freileitung auf Teilabschnitten innerhalb der betreffenden Gebietskörperschaft abweichend von Absatz 2 zulässig. Auf Verlangen der für die Bundesfachplanung oder Zulassung des Vorhabens zuständigen Behörde müssen die Leitungen auf Teilabschnitten als Freileitung errichtet und betrieben oder geändert werden. Die Sätze 1 bis 3 sind nur anzuwenden bei Antragskonferenzen nach § 7 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz, die vor dem 29. Juli 2022 durchgeführt worden sind.
 
-(4) Die Errichtung und der Betrieb oder die Änderung als Freileitung nach Absatz 2 und 3 ist unzulässig, wenn die Leitung Satz 1 ist weder für die nachträgliche Änderung oder Erweiterung der Leitung noch für den nachträglichen Ersatz- und Parallelneubau anzuwenden.
+(4) Die Errichtung und der Betrieb oder die Änderung als Freileitung nach Absatz 2 und 3 ist unzulässig, wenn die Leitung
 
-1.
+1. in einem Abstand von weniger als 400 Metern zu Wohngebäuden errichtet werden soll, die im Geltungsbereich eines Bebauungsplans oder im unbeplanten Innenbereich im Sinne des § 34 des Baugesetzbuchs liegen, falls diese Gebiete vorwiegend dem Wohnen dienen, oder
 
-2.
+2. in einem Abstand von weniger als 200 Metern zu Wohngebäuden errichtet werden soll, die im Außenbereich im Sinne des § 35 des Baugesetzbuchs liegen.
 
 (5) Als Erdkabel im Sinne dieser Vorschrift gelten alle Erdleitungen einschließlich Kabeltunnel, Nebenbauwerken und gasisolierter Rohrleitungen. Kunststoffisolierte Erdkabel mit einer Nennspannung von mehr als 320 Kilovolt bis zu 525 Kilovolt erfüllen die Anforderungen an die technische Sicherheit im Sinne des § 49 des Energiewirtschaftsgesetzes.
 
@@ -70,17 +62,17 @@ b)
 
 (1) Um den Einsatz von Erdkabeln im Drehstrom-Übertragungsnetz als Pilotprojekte zu testen, können die im Bundesbedarfsplan mit „F“ gekennzeichneten Vorhaben zur Höchstspannungs-Drehstrom-Übertragung nach Maßgabe dieser Vorschrift als Erdkabel errichtet und betrieben oder geändert werden.
 
-(2) Im Falle des Neubaus kann eine Höchstspannungs-Drehstrom-Übertragungsleitung eines Vorhabens nach Absatz 1 auf technisch und wirtschaftlich effizienten Teilabschnitten als Erdkabel errichtet und betrieben oder geändert werden, wenn Der Einsatz von Erdkabeln ist auch dann zulässig, wenn die Voraussetzungen nach Satz 1 nicht auf der gesamten Länge der jeweiligen technisch und wirtschaftlich effizienten Teilabschnitte vorliegen. Auf Verlangen der für die Bundesfachplanung oder Zulassung des Vorhabens zuständigen Behörde muss die Leitung auf dem jeweiligen technisch und wirtschaftlich effizienten Teilabschnitt nach Maßgabe dieser Vorschrift als Erdkabel errichtet und betrieben oder geändert werden.
+(2) Im Falle des Neubaus kann eine Höchstspannungs-Drehstrom-Übertragungsleitung eines Vorhabens nach Absatz 1 auf technisch und wirtschaftlich effizienten Teilabschnitten als Erdkabel errichtet und betrieben oder geändert werden, wenn
 
-1.
+1. die Leitung in einem Abstand von weniger als 400 Metern zu Wohngebäuden errichtet werden soll, die im Geltungsbereich eines Bebauungsplans oder im unbeplanten Innenbereich im Sinne des § 34 des Baugesetzbuchs liegen, falls diese Gebiete vorwiegend dem Wohnen dienen,
 
-2.
+2. die Leitung in einem Abstand von weniger als 200 Metern zu Wohngebäuden errichtet werden soll, die im Außenbereich im Sinne des § 35 des Baugesetzbuchs liegen,
 
-3.
+3. eine Freileitung gegen die Verbote des § 44 Absatz 1 auch in Verbindung mit Absatz 5 des Bundesnaturschutzgesetzes verstieße und mit dem Einsatz von Erdkabeln eine zumutbare Alternative im Sinne des § 45 Absatz 7 Satz 2 des Bundesnaturschutzgesetzes gegeben ist,
 
-4.
+4. eine Freileitung nach § 34 Absatz 2 des Bundesnaturschutzgesetzes unzulässig wäre und mit dem Einsatz von Erdkabeln eine zumutbare Alternative im Sinne des § 34 Absatz 3 Nummer 2 des Bundesnaturschutzgesetzes gegeben ist oder
 
-5.
+5. die Leitung eine Bundeswasserstraße im Sinne von § 1 Absatz 1 Nummer 1 des Bundeswasserstraßengesetzes queren soll, deren zu querende Breite mindestens 300 Meter beträgt; bei der Bemessung der Breite ist § 1 Absatz 6 des Bundeswasserstraßengesetzes nicht anzuwenden.
 
 (3) Als Erdkabel im Sinne dieser Vorschrift gelten alle Erdleitungen einschließlich Kabeltunnel, Nebenbauwerken und gasisolierter Rohrleitungen.
 
@@ -100,20 +92,12 @@ b)
 
 Für die in den Bundesbedarfsplan aufgenommenen Vorhaben ist § 50 Absatz 1 Nummer 6 der Verwaltungsgerichtsordnung anzuwenden. Dies ist auch anzuwenden für
 
-1.
+1. auf diese Vorhaben bezogene Veränderungssperren, Zulassungen des vorzeitigen Baubeginns und Anzeigeverfahren und
 
-2.
+2. Genehmigungen nach dem Bundes-Immissionsschutzgesetz für Stromrichteranlagen, die dem Betrieb von Vorhaben aus dem Bundesbedarfsplan dienen.
 
 ### Anlage (zu § 1 Absatz 1) — Bundesbedarfsplan
 
 Vorhaben, für die die energiewirtschaftliche Notwendigkeit und der vordringliche Bedarf bestehen:
 
-–
-
-–
-
-–
-
-–
-
-Kennzeichnung
+– Höchstspannungsleitungen Punkt Biesdorf Süd – Wuhlheide

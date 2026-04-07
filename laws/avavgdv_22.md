@@ -16,13 +16,13 @@ Auf Grund des § 1 Abs. 2 des Gesetzes über Arbeitsvermittlung und Arbeitslosen
 
 Die Bundesagentur für Arbeit wird beauftragt, an der beruflichen Aus- und Fortbildung von Fach- und Führungskräften aus Entwicklungsländern auf Anforderung des Trägers eines Aus- und Fortbildungsprogramms mitzuwirken
 
-1.
+1. bei der Auswahl der Teilnehmer an Aus- und Fortbildungsprogrammen,
 
-2.
+2. bei der Aufstellung und Anpassung der individuellen Aus- und Fortbildungspläne mit dem Ziel einer angemessenen betrieblichen Aus- und Fortbildung,
 
-3.
+3. bei der Vermittlung angemessener Fortbildungspraktika,
 
-4.
+4. bei der Erbringung von zur Aus- und Fortbildung erforderlichen Geldleistungen.
 
 ### § 2
 

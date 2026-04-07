@@ -12,11 +12,23 @@ Auf Grund des § 2 Abs. 2 des Ausbildungsförderungsgesetzes vom 19. September 1
 
 ### § 1 — Vorkurse
 
-(1) Ausbildungsförderung nach dem Ausbildungsförderungsgesetz wird geleistet für die Teilnahme an Vorkursen von einer Mindestdauer von sechs Monaten, die die Zulassung 1.zu einem Kolleg oder 2.zu einer Hochschule ermöglichen oder in geeigneter Weise vorbereiten. Werden Vorkurse nach Nummer 2 in Volkshochschulen durchgeführt, müssen sie von den anderen Lehrveranstaltungen organisatorisch getrennt sein.(2) Ausbildungsförderung wird nur geleistet, wenn die Ausbildung an einer öffentlichen oder an einer durch die zuständige Landesbehörde staatlich anerkannten oder genehmigten Einrichtung durchgeführt wird. Dasselbe gilt, wenn die zuständige Landesbehörde anerkennt, daß der Besuch der Einrichtung dem Besuch der in Satz 1 bezeichneten Einrichtungen gleichwertig ist.
+(1) Ausbildungsförderung nach dem Ausbildungsförderungsgesetz wird geleistet für die Teilnahme an Vorkursen von einer Mindestdauer von sechs Monaten, die die Zulassung
+
+1. zu einem Kolleg oder
+
+2. zu einer Hochschule
+
+(2) Ausbildungsförderung wird nur geleistet, wenn die Ausbildung an einer öffentlichen oder an einer durch die zuständige Landesbehörde staatlich anerkannten oder genehmigten Einrichtung durchgeführt wird. Dasselbe gilt, wenn die zuständige Landesbehörde anerkennt, daß der Besuch der Einrichtung dem Besuch der in Satz 1 bezeichneten Einrichtungen gleichwertig ist.
 
 ### § 2 — Förderungsrechtliche Stellung der Auszubildenden
 
-Die Auszubildenden erhalten Ausbildungsförderung a)in den in § 1 Abs. 1 Nr. 1 bezeichneten Vorkursen wie Schüler von Berufsaufbauschulen, b)in den in § 1 Abs. 1 Nr. 2 bezeichneten Vorkursen wie Schüler von Berufsaufbauschulen, soweit der Besuch der Vorkurse eine abgeschlossene Berufsausbildung oder eine mehrjährige Berufstätigkeit voraussetzt, c)in den in § 1 Abs. 1 Nr. 2 bezeichneten Vorkursen wie Schüler von weiterführenden allgemeinbildenden Schulen, soweit der Besuch der Vorkurse eine abgeschlossene Berufsausbildung oder eine mehrjährige Berufstätigkeit nicht voraussetzt.
+Die Auszubildenden erhalten Ausbildungsförderung
+
+a) in den in § 1 Abs. 1 Nr. 1 bezeichneten Vorkursen wie Schüler von Berufsaufbauschulen,
+
+b) in den in § 1 Abs. 1 Nr. 2 bezeichneten Vorkursen wie Schüler von Berufsaufbauschulen, soweit der Besuch der Vorkurse eine abgeschlossene Berufsausbildung oder eine mehrjährige Berufstätigkeit voraussetzt,
+
+c) in den in § 1 Abs. 1 Nr. 2 bezeichneten Vorkursen wie Schüler von weiterführenden allgemeinbildenden Schulen, soweit der Besuch der Vorkurse eine abgeschlossene Berufsausbildung oder eine mehrjährige Berufstätigkeit nicht voraussetzt.
 
 ### § 3 — Berlin-Klausel
 

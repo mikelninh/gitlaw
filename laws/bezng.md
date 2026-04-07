@@ -18,21 +18,21 @@ Vermögensgegenstände und -rechte sowie Verbindlichkeiten der in § 1 genannten
 
 (1) Das Bundeseisenbahnvermögen ist in zwei Bereiche gegliedert:
 
-1.
+1. Unternehmerischer Bereich; er umfaßt das Erbringen von Eisenbahnverkehrsleistungen sowie das Betreiben der Eisenbahninfrastruktur;
 
-2.
+2. Verwaltungsbereich.
 
 (2) Das Bundeseisenbahnvermögen hat insbesondere folgende Aufgaben:
 
-1.
+1. Erfüllung der in § 20 Abs. 1 und 2 bestimmten Übertragungsverpflichtungen,
 
-2.
+2. Wahrnehmung der hoheitlichen Aufgaben, die bis zum Inkrafttreten dieses Gesetzes von den in § 1 genannten Sondervermögen wahrgenommen worden sind, bis zur Errichtung des Eisenbahn-Bundesamtes gemäß § 2 Abs. 1 des Gesetzes über die Eisenbahnverkehrsverwaltung des Bundes vom 27. Dezember 1993 (BGBl. I S. 2378, 2394),
 
-3.
+3. die Verwaltung des Personals, welches gemäß § 12 Abs. 2 und 3 des Deutsche Bahn Gründungsgesetzes vom 27. Dezember 1993 (BGBl. I S. 2378, 2386) der Deutsche Bahn Aktiengesellschaft zugewiesen ist,
 
-4.
+4. die Unterstützung der Verwaltung der zinspflichtigen Verbindlichkeiten des Bundeseisenbahnvermögens,
 
-5.
+5. die Verwaltung und Verwertung der Liegenschaften, die im Sinne des § 20 Abs. 1 nicht bahnnotwendig sind.
 
 ### § 4 — Stellung im gerichtlichen und außergerichtlichen Verkehr
 
@@ -70,11 +70,11 @@ Vermögensgegenstände und -rechte sowie Verbindlichkeiten der in § 1 genannten
 
 (3) Die Vergütungen, Löhne und Arbeitsbedingungen der Angestellten, Arbeiter und Auszubildenden im Bereich des Bundeseisenbahnvermögens werden durch Tarifverträge geregelt, die mit den zuständigen Gewerkschaften zu schließen sind. Soweit die Vereinbarungen wegen ihrer grundsätzlichen Bedeutung geeignet sind, die Gestaltung der Lohn- und Arbeitsbedingungen in anderen Zweigen der Bundesverwaltung zu beeinflussen, sind sie im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur, dem Bundesministerium der Finanzen und dem Bundesministerium des Innern, für Bau und Heimat abzuschließen. Das Einvernehmen gilt als hergestellt, wenn das Bundesministerium für Verkehr und digitale Infrastruktur nicht binnen einer Frist von einem Monat, gerechnet vom Eingang des Antrages auf Abschluß einer Tarifvereinbarung, entschieden hat.
 
-(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, für die Beamten, die im Zeitpunkt unmittelbar vor der Eintragung der Deutsche Bahn Aktiengesellschaft in das Handelsregister Beamte des Bundeseisenbahnvermögens sind und gemäß § 12 Abs. 1, 2 und 3 des Deutsche Bahn Gründungsgesetzes zu dieser Gesellschaft beurlaubt oder ihr zugewiesen sind, durch Rechtsverordnung soweit es durch die Eigenart des Eisenbahnbetriebes dieser Gesellschaft begründet ist.
+(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, für die Beamten, die im Zeitpunkt unmittelbar vor der Eintragung der Deutsche Bahn Aktiengesellschaft in das Handelsregister Beamte des Bundeseisenbahnvermögens sind und gemäß § 12 Abs. 1, 2 und 3 des Deutsche Bahn Gründungsgesetzes zu dieser Gesellschaft beurlaubt oder ihr zugewiesen sind, durch Rechtsverordnung
 
-1.
+1. im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium der Finanzen nach Maßgabe des § 26 Absatz 1 des Bundesbeamtengesetzes die Laufbahnen beim Bundeseisenbahnvermögen selbständig zu gestalten und Ausnahmeregelungen zu treffen,
 
-2.
+2. im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat für die zugewiesenen Beamten besondere Arbeitszeitvorschriften zu erlassen und dabei von § 88 des Bundesbeamtengesetzes abweichende Regelungen über die Verpflichtung der Beamten, über die regelmäßige wöchentliche Arbeitszeit hinaus Dienst zu tun, sowie über den Ausgleich von Mehrarbeit zu treffen,
 
 (5) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat durch Rechtsverordnung ohne Zustimmung des Bundesrates für die in Absatz 4 genannten Beamten die besonderen Vorschriften für die einzelnen Laufbahnen und Vorbereitungsdienste in sinngemäßer Anwendung des § 26 Abs. 2 des Bundesbeamtengesetzes zu erlassen.
 
@@ -98,11 +98,11 @@ Vermögensgegenstände und -rechte sowie Verbindlichkeiten der in § 1 genannten
 
 ### § 11 — Verwendung auf anderen Dienstposten
 
-Der Präsident oder die von ihm bestimmten Dienststellen des Bundeseisenbahnvermögens können einen Beamten vorübergehend auf einem anderen Dienstposten von geringerer Bewertung unter Belassung seiner Amtsbezeichnung und seiner Dienstbezüge verwenden, wenn es erfordern. Dienstliche Gründe im Sinne der Nummern 1 und 2 sind solche, die sich aus Änderungen der Organisation des Bundeseisenbahnvermögens oder der Gesellschaft ergeben.
+Der Präsident oder die von ihm bestimmten Dienststellen des Bundeseisenbahnvermögens können einen Beamten vorübergehend auf einem anderen Dienstposten von geringerer Bewertung unter Belassung seiner Amtsbezeichnung und seiner Dienstbezüge verwenden, wenn
 
-1.
+1. dienstliche Gründe beim Bundeseisenbahnvermögen oder
 
-2.
+2. dienstliche oder betriebliche Gründe bei einer Gesellschaft, der der Beamte gemäß § 12 Abs. 2 und 3 des Deutsche Bahn Gründungsgesetzes zugewiesen ist,
 
 ### § 12 — Besoldungsrechtliche Regelungen
 
@@ -124,11 +124,11 @@ Der Präsident oder die von ihm bestimmten Dienststellen des Bundeseisenbahnverm
 
 (1) Die Krankenversorgung der Bundesbahnbeamten als betriebliche Sozialeinrichtung der Deutschen Bundesbahn im Sinne des § 27 des Bundesbahngesetzes ist mit Inkrafttreten dieses Gesetzes in ihrem Bestand geschlossen und wird mit dem Ziel der Abwicklung in der bestehenden Rechtsform einer Körperschaft des öffentlichen Rechts nach Maßgabe von Satzung und Tarif weitergeführt.
 
-(2) Der Beitrag zur Krankenversorgung der Bundesbahnbeamten berechnet sich entsprechend § 28 der Satzung für jedes Kalenderjahr nach der Beitragstafel (Anhang IV der Satzung) in der am Tage vor dem Inkrafttreten dieses Gesetzes geltenden Fassung, jedoch unter Zugrundelegung der am letzten Tag des vorangegangenen Kalenderjahres geltenden Fassung der Besoldungsordnung A. Der Prozentsatz nach der Beitragstafel ist, unter Anrechnung der sich aus Satz 1 ergebenden Veränderungen, der durchschnittlichen Kostenentwicklung im allgemeinen Gesundheitswesen anzupassen. Maßgebend hierfür ist der Prozentsatz, der sich im Vergleich der Ausgaben der gesetzlichen Krankenversicherung zu denen des jeweilige Vorjahres ergibt. Der sich aus den Beitragsanpassungen ergebende Prozentsatz nach der Beitragstafel darf nicht übersteigen.
+(2) Der Beitrag zur Krankenversorgung der Bundesbahnbeamten berechnet sich entsprechend § 28 der Satzung für jedes Kalenderjahr nach der Beitragstafel (Anhang IV der Satzung) in der am Tage vor dem Inkrafttreten dieses Gesetzes geltenden Fassung, jedoch unter Zugrundelegung der am letzten Tag des vorangegangenen Kalenderjahres geltenden Fassung der Besoldungsordnung A. Der Prozentsatz nach der Beitragstafel ist, unter Anrechnung der sich aus Satz 1 ergebenden Veränderungen, der durchschnittlichen Kostenentwicklung im allgemeinen Gesundheitswesen anzupassen. Maßgebend hierfür ist der Prozentsatz, der sich im Vergleich der Ausgaben der gesetzlichen Krankenversicherung zu denen des jeweilige Vorjahres ergibt. Der sich aus den Beitragsanpassungen ergebende Prozentsatz nach der Beitragstafel darf
 
-1.
+1. für Mitglieder mit mitversicherten Angehörigen den halben Beitragssatz der Rentner der Bahnbetriebskrankenkasse,
 
-2.
+2. für Mitglieder ohne mitversicherte Angehörige zwei Drittel des vorgenannten Beitragssatzes
 
 (3) Tarifänderungen der Krankenversorgung der Bundesbahnbeamten oder Änderungen hinsichtlich des erstattungsfähigen Betrages, die nach Inkrafttreten dieses Gesetzes erfolgen, gehen, soweit es sich nicht um Anpassungen an das Beihilferecht des Bundes handelt, zu Lasten der Versicherten.
 
@@ -174,11 +174,11 @@ Der Präsident oder die von ihm bestimmten Dienststellen des Bundeseisenbahnverm
 
 (2) Das Bundeseisenbahnvermögen berichtet dem Bundesministerium für Verkehr und digitale Infrastruktur jährlich über seine Tätigkeit, und zwar gegliedert nach
 
-1.
+1. Personaleinsatz und Personalkosten,
 
-2.
+2. Verwaltung der Verbindlichkeiten,
 
-3.
+3. Verwertung von Grundstücken.
 
 (3) Das Bundeseisenbahnvermögen ist verpflichtet, dem Bundesministerium für Verkehr und digitale Infrastruktur auf Verlangen Auskunft über die wesentlichen Vorgänge in der Verwaltung und Wirtschaftsführung des Bundeseisenbahnvermögens zu erteilen.
 
@@ -231,11 +231,11 @@ Liegenschaften des Bundeseisenbahnvermögens, die unmittelbar und ausschließlic
 
 ### § 24 — Schiedsstelle
 
-(1) Auf Antrag der Deutsche Bahn Aktiengesellschaft entscheidet eine Schiedsstelle darüber, Die Schiedsstelle kann auch angerufen werden, wenn das Bundeseisenbahnvermögen auf Antrag der Deutsche Bahn Aktiengesellschaft ohne zureichenden Grund innerhalb einer Frist von drei Monaten nicht entschieden hat. Im übrigen steht der Deutsche Bahn Aktiengesellschaft ein Rechtsmittel nicht zu.
+(1) Auf Antrag der Deutsche Bahn Aktiengesellschaft entscheidet eine Schiedsstelle darüber,
 
-1.
+1. inwieweit die in dem Übergabebescheid genannten Liegenschaften bahnnotwendig sind,
 
-2.
+2. ob die Ablehnung des Erlasses eines Übergabebescheids hinsichtlich einer beanspruchten Liegenschaft rechtmäßig ist.
 
 (2) Soweit der Antrag begründet ist, entscheidet die Schiedsstelle durch Schiedsspruch, welche Liegenschaften in welchem Umfang übertragen werden. Der Schiedsspruch steht einem vollziehbaren Übergabebescheid gleich; § 23 Abs. 3 gilt sinngemäß.
 
@@ -251,13 +251,13 @@ Verwaltungsvorschriften zur Durchführung der §§ 20 bis 24 erläßt das Bundes
 
 (2) Voraussetzung für einen Anspruch auf Übertragung der Liegenschaften nach Absatz 1 ist, daß
 
--
+- die Eisenbahninfrastruktur bei Geltendmachung des Anspruches auf Übertragung der Liegenschaften ausschließlich oder ganz überwiegend für Zwecke des Schienenpersonennahverkehrs genutzt wird,
 
--
+- die Eisenbahnen des Bundes zum Erbringen von Verkehrsleistungen nicht mehr bereit sind,
 
--
+- eine Vereinbarung mit Aufgabenträgern über das Erbringen von Verkehrsleistungen auf der Eisenbahninfrastruktur der Eisenbahnen des Bundes über die Finanzierung des Betriebes der Eisenbahninfrastruktur nicht zustande gekommen ist sowie
 
--
+- der Aufgabenträger das Erbringen von Verkehrsleistungen im Schienenpersonennahverkehr für mindestens 15 Jahre und das Betreiben der Eisenbahninfrastruktur für mindestens 30 Jahre garantiert.
 
 (3) Die Übertragung der Liegenschaften sowie der durch dingliche Rechte an diesen Liegenschaften gesicherten Verbindlichkeiten erfolgt durch Vertrag, der der Zustimmung des Bundesministeriums für Verkehr und digitale Infrastruktur bedarf.
 
@@ -300,36 +300,34 @@ Rechtsverordnungen auf Grund dieses Gesetzes bedürfen nicht der Zustimmung des 
 
 ### Anlage — (zu § 15 Abs. 2)
 
-A.
+A. Betriebliche Sozialeinrichtungen der bisherigen Bundeseisenbahnen
 
-1.
+1. Bundesbahn-Sozialwerk (BSW)
 
-2.
+2. Bahnsozialwerk der DR (BSw-DR)
 
-3.
+3. Bundesbahn-Hausbrandversorgung (BHbv)
 
-4.
+4. Bahn-Hausbrandversorgung (BHbv)
 
-5.
+5. Eisenbahn-Wohnungsgesellschaften (EWG)
 
-B.
+B. Selbsthilfeeinrichtungen der bisherigen Bundeseisenbahnen
 
-1.
+1. Eisenbahn-Waisenhort (EWH)
 
-2.
+2. Bundesbahn-Landwirtschaft (BLw)
 
-3.
+3. Bahn-Landwirtschaft (BLw-DR)
 
-4.
+4. Eisenbahner Sportvereine (ESV) Verband Deutscher Eisenbahner-Sportvereine e.V. (VDES)
 
-5.
+5. Bundesbahn-Zentralstelle gegen die Alkoholgefahren (BZAL)
 
-6.
+6. DEVK Deutsche Eisenbahn Versicherung Lebensversicherungsverein a.G. DEVK Deutsche Eisenbahn Versicherung Sach- und HUK-Versicherungsverein a.G.
 
-7.
+7. Eisenbahner-Baugenossenschaften (EBG)
 
-8.
+8. Sparda-Banken, Verband der Sparda-Banken
 
 ### Anlage — (zu § 22 Abs. 1)
-
-Rechtsvorgänger Deutsches Reich Reichseisenbahnvermögen

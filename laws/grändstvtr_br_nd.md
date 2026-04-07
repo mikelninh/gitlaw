@@ -16,25 +16,23 @@ Zwischen der Freien Hansestadt Bremen und dem Land Niedersachsen wird nach Anhö
 
 (2) Folgende Flurstücke gehen vom Hoheitsgebiet des Landes Niedersachsen in das Hoheitsgebiet der Freien Hansestadt Bremen über:
 
-1.
+1. im Bereich der Großen Luneplate die in der als Anlage 5 beigefügten Flurstücksliste aufgeführten 476 Flurstücke der Gemeinde Loxstedt, Gemarkung Landwürden, mit einer Fläche von insgesamt 14 732 312 m2,
 
-2.
+2. im Gebiet Reithufer die in der als Anlage 6 beigefügten Flurstücksliste aufgeführten 29 Flurstücke der Gemeinde Loxstedt, Gemarkung Lanhausen, mit einer Fläche von insgesamt 332 665 m2,
 
-3.
+3. im Bereich der Autobahnabfahrt Bremerhaven-Wulsdorf/Loxstedt der BAB A 27 die in der als Anlage 7 beigefügten Flurstücksliste aufgeführten sieben Flurstücke der Gemeinde Loxstedt, Gemarkung Bexhövede, und ein Flurstück der Gemeinde Loxstedt, Gemarkung Loxstedt, mit einer Fläche von insgesamt 59 812 m2.
 
 (3) Folgende Flurstücke gehen vom Hoheitsgebiet der Freien Hansestadt Bremen in das Hoheitsgebiet des Landes Niedersachsen über:
 
-1.
+1. im Gebiet Siedewurt die in der als Anlage 8 beigefügten Flurstücksliste aufgeführten 13 Flurstücke der Gemeinde Bremerhaven, Gemarkung Wulsdorf, mit einer Fläche von insgesamt 158 091 m2,
 
-2.
+2. im Bereich der Autobahnabfahrt Bremerhaven-Wulsdorf/Loxstedt der BAB A 27 die in der als Anlage 9 beigefügten Flurstücksliste aufgeführten drei Flurstücke der Stadt Bremerhaven, Gemarkung Wulsdorf, mit einer Fläche von 13 650 m2.
 
 (4) Die in den Absätzen 2 und 3 genannten Anlagen 5 bis 9 sind Bestandteile des Staatsvertrages.
 
 ### Art 2
 
 (1) Das in den abgetretenen Gebieten jeweils gelegene Verwaltungsvermögen von Körperschaften des öffentlichen Rechts geht mit allen Rechten und Pflichten ohne Entschädigung auf die in dem aufnehmenden Land zuständige entsprechende Körperschaft des öffentlichen Rechts über.
-
-(2) Die im Eigentum des Landes Niedersachsen verbleibenden, in dem als Anlage 2 beigefügten Kartenblatt eingezeichneten Außendeichflächen, die im Liegenschaftskataster, Stand 10. Oktober 2006, mit 1 040 220 m2 erfasst sind, unterliegen als Finanzvermögen des Landes Niedersachsen außerhalb dieses Staatsvertrages zu treffenden vertraglichen Regelungen. Dies gilt auch für die in dem als Anlage 2 beigefügten Kartenblatt eingezeichneten, 1 909 320 m2 großen Gewerbeerwartungsflächen, die sich im Eigentum des Landes Niedersachsen befinden und abzüglich einer von der Freien Hansestadt Bremen bereits gekauften 182 769 m2 großen Fläche insgesamt vom Land Niedersachsen an die Freie Hansestadt Bremen verkauft werden sollen.
 
 ### Art 3
 
@@ -61,5 +59,3 @@ Die Länder erklären ihre Bereitschaft, in gegenseitigem Einverständnis den Gr
 (2) Dieser Vertrag tritt am Ersten des auf den Austausch der Ratifikationsurkunden folgenden Monats in Kraft.
 
 ### Schlussformel
-
-Für das Land Niedersachsen

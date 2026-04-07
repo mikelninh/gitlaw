@@ -17,25 +17,25 @@ Unter dem Namen "Otto-von-Bismarck-Stiftung" wird mit Sitz in Aumühle-Friedrich
 
 (2) Der Erfüllung dieses Zweckes dienen insbesondere folgende Maßnahmen:
 
-1.
+1. Einrichtung und Unterhaltung einer für die Öffentlichkeit zugänglichen Gedenkstätte in Aumühle-Friedrichsruh;
 
-2.
+2. Übernahme, Unterhaltung und Ausbau der Bismarck-Bibliothek und des Bismarck-Archivs;
 
-3.
+3. Einrichtung und Unterhaltung einer Forschungs- und Dokumentationsstelle in Aumühle-Friedrichsruh;
 
-4.
+4. Veröffentlichung von Archivbeständen und wissenschaftlichen Untersuchungen;
 
-5.
+5. Veranstaltungen im Sinne des Stiftungszweckes;
 
-6.
+6. museale und wissenschaftliche Betreuung des Bismarck-Museums in Schönhausen (Elbe).
 
 ### § 3 — Stiftungsvermögen
 
 (1) Mit dem Inkrafttreten dieses Gesetzes gehen auf die Stiftung über:
 
-1.
+1. die von der Bundesrepublik Deutschland für die unselbständige Otto-von-Bismarck-Stiftung erworbenen unbeweglichen und beweglichen Vermögensgegenstände und
 
-2.
+2. die Rechte aus den im Leihvertrag vom 14. November 1994 zwischen Ferdinand von Bismarck und der Bundesrepublik Deutschland bezeichneten Archiv- und Bibliotheksbeständen.
 
 (2) Die Stiftung ist berechtigt, Zuwendungen von dritter Seite anzunehmen.
 
@@ -51,9 +51,9 @@ Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer Mehrheit von v
 
 Organe der Stiftung sind
 
-1.
+1. das Kuratorium,
 
-2.
+2. der Vorstand.
 
 ### § 6 — Kuratorium
 

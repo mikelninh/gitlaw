@@ -12,7 +12,21 @@ Auf Grund des § 2 Abs. 3 Nr. 1 des Bundesausbildungsförderungsgesetzes in der 
 
 ### § 1 — Ausbildungsstätten
 
-(1) Ausbildungsförderung nach dem Bundesausbildungsförderungsgesetz wird geleistet für den Besuch 1.von Instituten und Einrichtungen zur fachlichen Ausbildung künftiger Fachlehrer, 2.von Instituten zur pädagogischen Ausbildung künftiger Fachlehrer, 3.von Instituten zur Ausbildung von Pädagogischen Assistenten, 4.des Lehrgangs mit dem Ausbildungsziel "Sportlehrer im freien Beruf" im Sportzentrum der Technischen Universität München, 5.des Lehrgangs mit dem Ausbildungsziel "Staatlich geprüfter Sportlehrer" im Sportzentrum der Universität Trier, 6.des Lehrgangs mit dem Ausbildungsziel "Staatlich geprüfter Fußball-Lehrer" an der Deutschen Sporthochschule Köln. (2) Ausbildungsförderung wird nur geleistet, wenn die Ausbildung in einer öffentlichen oder in einer durch die zuständige Landesbehörde staatlich anerkannten oder genehmigten Einrichtung durchgeführt wird oder wenn die zuständige Landesbehörde anerkennt, daß der Besuch der Einrichtung dem Besuch der in Absatz 1 bezeichneten Einrichtungen gleichwertig ist.
+(1) Ausbildungsförderung nach dem Bundesausbildungsförderungsgesetz wird geleistet für den Besuch
+
+1. von Instituten und Einrichtungen zur fachlichen Ausbildung künftiger Fachlehrer,
+
+2. von Instituten zur pädagogischen Ausbildung künftiger Fachlehrer,
+
+3. von Instituten zur Ausbildung von Pädagogischen Assistenten,
+
+4. des Lehrgangs mit dem Ausbildungsziel "Sportlehrer im freien Beruf" im Sportzentrum der Technischen Universität München,
+
+5. des Lehrgangs mit dem Ausbildungsziel "Staatlich geprüfter Sportlehrer" im Sportzentrum der Universität Trier,
+
+6. des Lehrgangs mit dem Ausbildungsziel "Staatlich geprüfter Fußball-Lehrer" an der Deutschen Sporthochschule Köln.
+
+(2) Ausbildungsförderung wird nur geleistet, wenn die Ausbildung in einer öffentlichen oder in einer durch die zuständige Landesbehörde staatlich anerkannten oder genehmigten Einrichtung durchgeführt wird oder wenn die zuständige Landesbehörde anerkennt, daß der Besuch der Einrichtung dem Besuch der in Absatz 1 bezeichneten Einrichtungen gleichwertig ist.
 
 ### § 2 — Förderungsrechtliche Stellung der Auszubildenden
 
@@ -27,5 +41,3 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung
 Diese Verordnung tritt mit Wirkung vom 1. August 1983 in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Bildung und Wissenschaft

@@ -11,14 +11,4 @@ Nach Anlage IV Nummer 1 und 4 des Bundesbesoldungsgesetzes in der Fassung der Be
 
 ### Schlussformel
 
-Der Bundesminister des Innern, für Bau und Heimat
-
 ### (XXXX) — Zu Anlage IV des BBesG
-
-1. Bundesbesoldungsordnung A
-
-Beträge für die weggefallene Besoldungsgruppe A 2
-
-4. Bundesbesoldungsordnung R
-
-Beträge für die weggefallenen Besoldungsgruppen R 1 und R 4

@@ -8,7 +8,11 @@
 
 ### § 1 — Zuständigkeitsübergang
 
-(1) Werden innerhalb der Bundesregierung Zuständigkeiten aus dem Geschäftsbereich einer obersten Bundesbehörde in den Geschäftsbereich einer anderen obersten Bundesbehörde überführt, so gehen damit die in Gesetzen oder in Rechtsverordnungen zugewiesenen Zuständigkeiten auf die nach der Überführung zuständige oberste Bundesbehörde über.(2) Werden innerhalb der Bundesregierung Behördenbezeichnungen von obersten Bundesbehörden verändert, so berührt dies nicht die ihnen in Gesetzen oder in Rechtsverordnungen zugewiesenen Zuständigkeiten.(3) Veränderungen von Zuständigkeiten im Sinne des Absatzes 1, Veränderungen von Behördenbezeichnungen im Sinne des Absatzes 2 und der Zeitpunkt ihrer Wirksamkeit sind im Bundesgesetzblatt bekannt zu machen.
+(1) Werden innerhalb der Bundesregierung Zuständigkeiten aus dem Geschäftsbereich einer obersten Bundesbehörde in den Geschäftsbereich einer anderen obersten Bundesbehörde überführt, so gehen damit die in Gesetzen oder in Rechtsverordnungen zugewiesenen Zuständigkeiten auf die nach der Überführung zuständige oberste Bundesbehörde über.
+
+(2) Werden innerhalb der Bundesregierung Behördenbezeichnungen von obersten Bundesbehörden verändert, so berührt dies nicht die ihnen in Gesetzen oder in Rechtsverordnungen zugewiesenen Zuständigkeiten.
+
+(3) Veränderungen von Zuständigkeiten im Sinne des Absatzes 1, Veränderungen von Behördenbezeichnungen im Sinne des Absatzes 2 und der Zeitpunkt ihrer Wirksamkeit sind im Bundesgesetzblatt bekannt zu machen.
 
 ### § 2 — Anpassung der Gesetze und Rechtsverordnungen
 
@@ -16,7 +20,11 @@ Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsver
 
 ### § 3 — Neufassung der Gesetze und Rechtsverordnungen
 
-(1) Die obersten Bundesbehörden im Sinne des § 1 Abs. 1 können Gesetze und Rechtsverordnungen ihres Zuständigkeitsbereichs jeweils in der vom Inkrafttreten einer Rechtsverordnung nach § 2 an geltenden Fassung im Bundesgesetzblatt neu bekannt machen.(2) Die obersten Bundesbehörden im Sinne des § 1 Abs. 1 können bei der Bekanntmachung der Neufassung von Gesetzen und Rechtsverordnungen über die jeweils einschlägige Bekanntmachungserlaubnis hinaus bei Änderungen von Behördenbezeichnungen im Sinne des § 1 Abs. 2, die nicht mit einer Änderung von Zuständigkeiten im Sinne des § 1 Abs. 1 verbunden sind, die bisherige Behördenbezeichnung durch die neue Behördenbezeichnung ersetzen.(3) Für die Bekanntmachung der Neufassung einer Rechtsverordnung, die aufgrund einer gesetzlichen Ermächtigung von einer anderen staatlichen Stelle erlassen worden ist, gelten die Absätze 1 und 2 entsprechend.
+(1) Die obersten Bundesbehörden im Sinne des § 1 Abs. 1 können Gesetze und Rechtsverordnungen ihres Zuständigkeitsbereichs jeweils in der vom Inkrafttreten einer Rechtsverordnung nach § 2 an geltenden Fassung im Bundesgesetzblatt neu bekannt machen.
+
+(2) Die obersten Bundesbehörden im Sinne des § 1 Abs. 1 können bei der Bekanntmachung der Neufassung von Gesetzen und Rechtsverordnungen über die jeweils einschlägige Bekanntmachungserlaubnis hinaus bei Änderungen von Behördenbezeichnungen im Sinne des § 1 Abs. 2, die nicht mit einer Änderung von Zuständigkeiten im Sinne des § 1 Abs. 1 verbunden sind, die bisherige Behördenbezeichnung durch die neue Behördenbezeichnung ersetzen.
+
+(3) Für die Bekanntmachung der Neufassung einer Rechtsverordnung, die aufgrund einer gesetzlichen Ermächtigung von einer anderen staatlichen Stelle erlassen worden ist, gelten die Absätze 1 und 2 entsprechend.
 
 ### § 4 — Anwendungsvorschrift
 

@@ -22,37 +22,37 @@ Auf Grund des § 35a Absatz 3a Satz 2 und des § 73 Absatz 9 Satz 2 des Fünften
 
 ### § 2 — Mindestanforderungen an die Informationen in elektronischen Programmen
 
-(1) Die Informationen, die ein elektronisches Programm mindestens enthalten muss, umfassen folgende Angaben aus den Beschlüssen des Gemeinsamen Bundesausschusses: Das elektronische Programm muss gemäß § 73 Absatz 9 Satz 1 Nummer 6 des Fünften Buches Sozialgesetzbuch ferner das genehmigte Schulungsmaterial und die Rote-Hand-Briefe enthalten.
+(1) Die Informationen, die ein elektronisches Programm mindestens enthalten muss, umfassen folgende Angaben aus den Beschlüssen des Gemeinsamen Bundesausschusses:
 
-1.
+1. die Bezeichnung des Arzneimittels;
 
-2.
+2. den Wirkstoff oder die Wirkstoffe;
 
-3.
+3. das zugelassene Anwendungsgebiet oder die zugelassenen Anwendungsgebiete;
 
-4.
+4. die Zuordnung des Wirkstoffs oder der Wirkstoffe zur anatomisch-therapeutisch-chemischen Klassifikation und zu der im datenbankgestützten Informationssystem nach § 67a des Arzneimittelgesetzes hinterlegten Arzneistoffkatalognummer;
 
-5.
+5. die Patientengruppe oder die Patientengruppen, für die eine Aussage zum Zusatznutzen des Arzneimittels getroffen wird;
 
-6.
+6. die Zuordnung zum Krankheitsgebiet gemäß der Internationalen Klassifikation der Krankheiten sowie zur Alpha-ID-Identifikationsnummer in der jeweils vom Bundesinstitut für Arzneimittel und Medizinprodukte im Auftrag des Bundesministeriums für Gesundheit herausgegebenen deutschen Fassung;
 
-7.
+7. das Ausmaß des Zusatznutzens mit Angabe zur Aussagesicherheit und den vom Gemeinsamen Bundesausschuss zu Grunde gelegten zweckmäßigen Vergleichstherapien;
 
-8.
+8. die zusammenfassende Darstellung der klinischen Ergebnisse der für den Zusatznutzen relevanten klinischen Endpunkte;
 
-9.
+9. die Angaben zu Anforderungen an die qualitätsgesicherte Anwendung;
 
-10.
+10. die Angabe, ob für das Arzneimittel vom Gemeinsamen Bundesausschuss die Durchführung einer anwendungsbegleitenden Datenerhebung nach § 35a Absatz 3b des Fünften Buches Sozialgesetzbuch gefordert worden ist sowie ob die Befugnis zur Verordnung des Arzneimittels auf solche Leistungserbringer beschränkt worden ist, die an der Datenerhebung mitwirken;
 
-11.
+11. Datum und Geltungsdauer des Beschlusses des Gemeinsamen Bundesausschusses;
 
-12.
+12. die Zusammenfassung der tragenden Gründe zum Beschluss des Gemeinsamen Bundesausschusses, jeweils zu den Kategorien Mortalität, Morbidität, Lebensqualität und Nebenwirkungen, sowie zusammenfassend für den Gesamtzusatznutzen je Patientengruppe;
 
-13.
+13. die Angabe, ob es sich um ein Arzneimittel zur Behandlung eines seltenen Leidens nach der Verordnung (EG) Nr. 141/2000 des Europäischen Parlaments und des Rates vom 16. Dezember 1999 über Arzneimittel für seltene Leiden (ABl. L 18 vom 22.1.2000, S. 1) oder um ein Arzneimittel mit einer Genehmigung nach Artikel 14 Absatz 7 oder 8 der Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung von Gemeinschaftsverfahren für die Genehmigung und Überwachung von Human- und Tierarzneimitteln und zur Errichtung einer Europäischen Arzneimittel-Agentur (ABl. L 136 vom 30.4.2004, S. 1) handelt;
 
-14.
+14. die Angabe, ob das Arzneimittel Gegenstand der Richtlinie nach § 92 Absatz 1 Satz 2 Nummer 6 des Fünften Buches Sozialgesetzbuch zur Anwendung von Arzneimitteln für neuartige Therapien im Sinne von § 4 Absatz 9 des Arzneimittelgesetzes ist;
 
-15.
+15. den Hyperlink zur Internet-Seite des Gemeinsamen Bundesausschusses, auf der die Informationen zu dem betreffenden Arzneimittel bereitgestellt werden.
 
 (2) Die Informationen sind in regelmäßigen Abständen, mindestens jedoch zweimal monatlich, auf ihre Aktualität zu überprüfen und im Falle etwaiger Änderungen zu aktualisieren.
 
@@ -62,25 +62,23 @@ Auf Grund des § 35a Absatz 3a Satz 2 und des § 73 Absatz 9 Satz 2 des Fünften
 
 (2) Die Angaben nach § 2 müssen so in das elektronische Programm implementiert werden, dass sie eine Recherche mindestens nach den Informationen nach § 2 Absatz 1 Nummer 1, 2 und 3 erlauben.
 
-(3) Liegt zu einem Arzneimittel oder einem Wirkstoff genehmigtes Schulungsmaterial oder ein Rote-Hand-Brief vor, so muss bei der Anzeige des Arzneimittels oder des Wirkstoffs in Suchergebnissen und Vergleichslisten des elektronischen Programms auch das genehmigte Schulungsmaterial oder der Rote-Hand-Brief angezeigt werden. Die Anzeige erfolgt Die Anzeige eines Rote-Hand-Briefs kann aus der in Satz 1 genannten Anzeige des Arzneimittels oder des Wirkstoffs in Suchergebnissen und Vergleichslisten wieder entfernt werden, wenn mindestens sechs Monate vergangen sind, seit der Rote-Hand-Brief von der zuständigen Bundesoberbehörde zur Verfügung gestellt worden ist. Die zuständige Bundesoberbehörde kann im Einzelfall einen von Satz 3 abweichenden Zeitraum festlegen.
+(3) Liegt zu einem Arzneimittel oder einem Wirkstoff genehmigtes Schulungsmaterial oder ein Rote-Hand-Brief vor, so muss bei der Anzeige des Arzneimittels oder des Wirkstoffs in Suchergebnissen und Vergleichslisten des elektronischen Programms auch das genehmigte Schulungsmaterial oder der Rote-Hand-Brief angezeigt werden. Die Anzeige erfolgt
 
-1.
+1. durch einen Hyperlink zur Stelle der Internetseite der zuständigen Bundesoberbehörde, an der der Wortlaut des genehmigten Schulungsmaterials oder des Rote-Hand-Briefs bereitgestellt wird, oder
 
-2.
+2. durch ein im elektronischen Programm hinterlegtes Dokument mit dem Wortlaut des genehmigten Schulungsmaterials oder des Rote-Hand-Briefs im Dateiformat PDF.
 
 (4) Alle Rote-Hand-Briefe müssen im elektronischen Programm an geeigneter Stelle fortlaufend archiviert angezeigt werden. Die Anzeige erfolgt
 
-1.
+1. durch einen Hyperlink zur Internetseite der zuständigen Bundesoberbehörde, auf der der Wortlaut der Rote-Hand-Briefe bereitgestellt wird, oder
 
-2.
+2. durch eine Dateiliste mit im elektronischen Programm hinterlegten Dokumenten mit dem Wortlaut der Rote-Hand-Briefe im Dateiformat PDF.
 
 ### § 4 — Veröffentlichung der Beschlüsse des Gemeinsamen Bundesausschusses
 
-(1) Der Gemeinsame Bundesausschuss stellt die maschinenlesbare Fassung eines Beschlusses als strukturierten Datensatz allgemein zugänglich auf seiner Internetseite bereit.
-
 (2) Die in § 2 Absatz 1 genannten Angaben aus den Beschlüssen des Gemeinsamen Bundesausschusses müssen in der maschinenlesbaren Fassung auch einzeln maschinell lesbar und referenzierbar sein.
 
-(3) Die in § 2 Absatz 1 Nummer 12 genannte Zusammenfassung der tragenden Gründe zum Beschluss soll in verständlicher Sprache abgefasst sein. Sie soll so abgefasst sein, dass kein Widerspruch zu der Aussage des Beschlusses selbst entsteht und die tragenden Gründe aus sich heraus verständlich sind. Die Länge der Zusammenfassung soll 2 000 Zeichen nicht überschreiten.
+(3) Die in § 2 Absatz 1 Nummer 12 genannte Zusammenfassung der tragenden Gründe zum Beschluss soll in verständlicher Sprache abgefasst sein. Sie soll so abgefasst sein, dass kein Widerspruch zu der Aussage des Beschlusses selbst entsteht und die tragenden Gründe aus sich heraus verständlich sind. Die Länge der Zusammenfassung soll 2 000 Zeichen nicht überschreiten.
 
 > § 4 Abs. 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurden die Wörter "Der Gemeinsame Bundessauschusses" durch die Wörter "Der Gemeinsame Bundesausschuss" ersetzt
 

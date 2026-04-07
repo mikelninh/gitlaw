@@ -42,10 +42,6 @@ Das in dem nach Artikel 1 abzutretenden Gebietsteil belegene Verwaltungsvermöge
 
 ### Schlußformel
 
-Für das Land Brandenburg Der Ministerpräsident vertreten durch den Minister des Innern
-
-Für das Land Sachsen-Anhalt Für den Ministerpräsidenten des Landes Sachsen-Anhalt Der Minister des Innern des Landes Sachsen-Anhalt
-
 ### Anlage — zum Staatsvertrag zwischen den Ländern Brandenburg
 und Sachsen-Anhalt über die Änderung der gemeinsamen
 Landesgrenze vom 24.8.1993

@@ -90,29 +90,29 @@ Die Verpflichtung zur Versorgung der ehemaligen dienstordnungsmäßig Angestellt
 
 ### § 16
 
-(1) Die Bundesknappschaft ist entsprechende Einrichtung im Sinne des § 61 des Gesetzes zur Regelung der Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen gegenüber (Nummern 8 und 12 der Anlage A zu § 2 Abs. 1 des Gesetzes).
+(1) Die Bundesknappschaft ist entsprechende Einrichtung im Sinne des § 61 des Gesetzes zur Regelung der Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen gegenüber
 
-1.
+1. der Reichsknappschaft,
 
-2.
+2. der Zentralbruderlade in Prag,
 
-3.
+3. der Sozialversicherungsanstalt Topoltschan,
 
-4.
+4. der Bruderlade Jugoslawien,
 
-5.
+5. der Bruderlade Rumänien,
 
-6.
+6. der Bruderlade Ungarn,
 
-7.
+7. dem Pensionsinstitut der Ferdinands-Nordbahn in Mährisch-Ostrau
 
 (2) Der Bundesminister des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates erst nach Verkündung dieses Gesetzes ermittelte Einrichtungen der Anlage A zu § 2 Abs. 1 des in Absatz 1 bezeichneten Gesetzes in die in Absatz 1 enthaltene Regelung einzubeziehen.
 
-(3) Auf Angestellte und Arbeiter, die am 8. Mai 1945 bei Dienststellen der Reichsknappschaft im Geltungsbereich dieses Gesetzes beschäftigt waren und sowie auf deren Hinterbliebene ist § 62 des in Absatz 1 bezeichneten Gesetzes entsprechend anzuwenden.
+(3) Auf Angestellte und Arbeiter, die am 8. Mai 1945 bei Dienststellen der Reichsknappschaft im Geltungsbereich dieses Gesetzes beschäftigt waren und
 
-1.
+1. ihren Arbeitsplatz aus anderen als dienstordnungs- oder tarifrechtlichen Gründen verloren haben und nicht ihrer früheren Rechtsstellung entsprechend wiederverwendet worden sind oder
 
-2.
+2. vor Inkrafttreten des in Absatz 1 bezeichneten Gesetzes das fünfundsechzigste Lebensjahr vollendet haben oder dienstunfähig geworden sind und aus anderen als dienstordnungs- oder tarifrechtlichen Gründen keine oder keine entsprechende Versorgung erhielten,
 
 (4) Oberste Dienstbehörde für die Anwendung der Absätze 1 und 3 ist der Vorstand der Bundesknappschaft.
 
@@ -120,14 +120,9 @@ Die Verpflichtung zur Versorgung der ehemaligen dienstordnungsmäßig Angestellt
 
 ### § 17
 
-(1) Bis zum Ablauf der vierten Wahlperiode der nach dem Selbstverwaltungsgesetz gewählten Organe gilt folgende Übergangsregelung: 
-	 Es gelten das Selbstverwaltungsgesetz und die Wahlordnung für die Sozialversicherung entsprechend.
+(1) Bis zum Ablauf der vierten Wahlperiode der nach dem Selbstverwaltungsgesetz gewählten Organe gilt folgende Übergangsregelung:
 
-a)
-
-b)
-
-c)
+a) Die Vertreterversammlung der Bundesknappschaft ist aus den Mitgliedern der Vertreterversammlungen der bisherigen Träger der Knappschaftsversicherung zu bilden. Sie besteht aus 60 Mitgliedern, davon entfallen
 
 (2) Die Organe der Bundesknappschaft sind innerhalb von drei Monaten nach Inkrafttreten dieses Gesetzes zu bilden.
 
@@ -151,15 +146,13 @@ Bis zum Erlaß einer Rechtsverordnung gemäß § 147 des Reichsknappschaftsgeset
 
 (2) Bis zur Wahl einer Stufenvertretung nach den Bestimmungen des Personalvertretungsgesetzes vom 5. August 1955 (Bundesgesetzbl. I S. 477), die bis spätestens 18 Monate nach Inkrafttreten dieses Gesetzes eingeleitet sein muß, wird ein Hauptpersonalrat wie folgt gebildet:
 
-a)
+a) Die Zahl der Mitglieder des Hauptpersonalrats richtet sich nach den Bestimmungen des Personalvertretungsgesetzes.
 
-b)
+b) Die Zusammensetzung des Hauptpersonalrats richtet sich nach dem zahlenmäßigen Anteil der Beschäftigten der bisherigen Träger der Knappschaftsversicherung an der Gesamtpersonalstärke der Bundesknappschaft im Zeitpunkt des Inkrafttretens dieses Gesetzes; dabei ist jeder bisherige Träger der Knappschaftsversicherung und die bisherige Arbeitsgemeinschaft der Knappschaften mit mindestens einem Mitglied zu berücksichtigen.
 
-c)
+c) Die einzelnen Mitglieder des Hauptpersonalrats und eine entsprechende Anzahl von persönlichen Stellvertretern werden durch Beschluß der Personalräte aller Dienststellen der bisherigen Träger der Knappschaftsversicherung einschließlich der Arbeitsgemeinschaft der Knappschaften entsandt. Dabei müssen die Gruppen der Beamten, der Angestellten und der Arbeiter anteilmäßig vertreten sein.
 
 ### § 22
-
-Soweit in diesem oder anderen Gesetzen auf Bestimmungen verwiesen wird oder Bezeichnungen verwendet werden, die durch dieses Gesetz geändert werden, treten an ihre Stelle die entsprechenden Bestimmungen und Bezeichnungen dieses Gesetzes.
 
 ### § 23
 
@@ -176,7 +169,5 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgeset
 ### § 26
 
 (1) Dieses Gesetz tritt am ersten Tag des auf seine Verkündung folgenden Monats in Kraft.
-
-(2) Mit dem Inkrafttreten dieses Gesetzes treten alle diesem Gesetz entgegenstehenden oder gleichlautenden Vorschriften außer Kraft, insbesondere ...
 
 (3)

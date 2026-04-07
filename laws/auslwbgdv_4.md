@@ -12,8 +12,6 @@ Auf Grund des § 23 Abs. 5, des § 35 Abs. 2 und des § 76 des Bereinigungsgeset
 
 ### § 1 — Geltungsbereich und Begriffsbestimmungen
 
-(1) Diese Verordnung erstreckt sich auf alle Wertpapiere der im Verzeichnis der Auslandsbonds (§ 1 Abs. 1 des Gesetzes) aufgeführten oder bei einer Ergänzung (§ 1 Abs. 2 des Gesetzes) in das Verzeichnis aufgenommenen Art einschließlich der Nebenurkunden (§ 5 des Gesetzes), soweit Frankreich als Begebungsland angegeben ist.
-
 (2) Im Sinne dieser Verordnung bezeichnet der Ausdruck "der Auslandsbevollmächtigte" den für Frankreich nach § 8 Abs. 1 des Gesetzes bestellten Auslandsbevollmächtigten sowie einen für ihn nach § 8 Abs. 7 des Gesetzes bestellten ständigen Vertreter.
 
 > § 1 Abs. 1 Kursivdruck: Gegenstandslose Ermächtigung

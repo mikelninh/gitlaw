@@ -40,11 +40,11 @@ Diese Verordnung gilt für die Untersuchung gefährlicher Ereignisse im Eisenbah
 
 (3) Von den Absätzen 1 und 2 bleiben unberührt
 
-1.
+1. Bergungs- und Rettungsmaßnahmen,
 
-2.
+2. Maßnahmen zur Abwehr einer unmittelbar drohenden Gefahr,
 
-3.
+3. Löschmaßnahmen.
 
 ### § 5 — Untersuchungsbericht
 
@@ -54,11 +54,11 @@ Diese Verordnung gilt für die Untersuchung gefährlicher Ereignisse im Eisenbah
 
 (3) Angaben im Untersuchungsbericht, die nachteilige Auswirkungen auf Belange der inneren oder äußeren Sicherheit haben können, sind ausschließlich in einem gesonderten Berichtsteil zu führen.
 
-(4) Die Untersuchungsstelle kann darauf hinweisen, dass sie den Entwurf des Untersuchungsberichts, mit Ausnahme des gesonderten Berichtsteils im Sinne des Absatzes 3, schriftlich anfordern und sich zu den für die Ursachenfeststellung maßgeblichen Tatsachen innerhalb einer von der Untersuchungsstelle festgelegten angemessenen Frist schriftlich äußern können. Die Untersuchungsstelle hält die nach Satz 1 Nummer 2 genannten Personen auf deren Verlangen und bei berechtigtem Interesse über den Fortgang der Untersuchung auf dem Laufenden.
+(4) Die Untersuchungsstelle kann
 
-1.
+1. schriftlich die betroffenen Eisenbahnen, Halter, Hersteller, die Sicherheitsbehörde, die Agentur sowie die beteiligten Rettungsdienste und
 
-2.
+2. durch Bekanntmachung auf ihrer Internetseite Unfallopfer und deren Angehörige sowie Eigentümer beschädigter Sachen, einschließlich ihrer bevollmächtigten Vertreter,
 
 (5) Die Untersuchungsstelle erstellt und veröffentlicht den Untersuchungsbericht nach Absatz 2 unverzüglich und leitet ihn der Agentur und im Fall des § 3 Absatz 4 der zuständigen Genehmigungsbehörde des Landes zu. Jegliche Art der Veröffentlichung erfolgt ohne den gesonderten Berichtsteil. Auch den Betroffenen im Sinne des Absatzes 4 Satz 1 Nummer 1 wird der Untersuchungsbericht ohne den gesonderten Berichtsteil zugeleitet. Die Veröffentlichung des Untersuchungsberichts soll nicht später als zwölf Monate nach dem gefährlichen Ereignis erfolgen. Kann der Untersuchungsbericht nicht innerhalb von zwölf Monaten veröffentlicht werden, gibt die Untersuchungsstelle mindestens zu jedem Jahrestag des gefährlichen Ereignisses einen Zwischenbericht heraus, in dem der Untersuchungsfortgang und etwaige aufgetretene Sicherheitsprobleme dargelegt werden.
 
@@ -78,66 +78,16 @@ Diese Verordnung gilt für die Untersuchung gefährlicher Ereignisse im Eisenbah
 
 Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 6 Buchstabe b des Allgemeinen Eisenbahngesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 2 Absatz 3 Satz 1 eine Meldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
 
-2.
+2. entgegen § 2 Absatz 3 Satz 3 eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig nachreicht oder nicht auf dem neuesten Stand hält oder
 
-3.
+3. entgegen § 4 Absatz 2 eine Unfallstelle, eine Unfallspur, ein Fahrzeug, ein Fahrzeugteil oder sonstigen Inhalt eines Fahrzeugs verändert.
 
 ### Anlage — (zu § 2 Absatz 3)
 
-I.
+I. Die Meldung umfasst 1.den Namen und die Anschrift der meldenden Eisenbahn unter Angabe eines Ansprechpartners,2.die Benennung der Ereignisart,3.den Ereignistag und die Uhrzeit,4.Angaben zu a)dem Ereignisort, aufgeführt nach aa)dem Bundesland,bb)der Betriebsstelle und den benachbarten Betriebsstellen undcc)der Streckennummer und des Streckenkilometers,b)der Zugsicherungseinrichtung,c)dem Zugfunk,d)dem Betriebsverfahren unde)einem erteilten Nothaltauftrag,5.die Benennung der beteiligten Eisenbahnen,6.die Angabe der Zugnummern und der Zuggattungen der beteiligten Züge,7.Angaben zum Hergang des gefährlichen Ereignisses,8.Angaben über die Folgen, dargestellt nach Personenschäden, Sachschäden und der Beteiligung von Gefahrgut, und9.Angaben zur Ursache des gefährlichen Ereignisses und, soweit die Ursache nicht eindeutig bestimmbar ist, über die vermutete Ursache des gefährlichen Ereignisses. den Namen und die Anschrift der meldenden Eisenbahn unter Angabe eines Ansprechpartners, die Benennung der Ereignisart, den Ereignistag und die Uhrzeit, Angaben zu a)dem Ereignisort, aufgeführt nach aa)dem Bundesland,bb)der Betriebsstelle und den benachbarten Betriebsstellen undcc)der Streckennummer und des Streckenkilometers,b)der Zugsicherungseinrichtung,c)dem Zugfunk,d)dem Betriebsverfahren unde)einem erteilten Nothaltauftrag, dem Ereignisort, aufgeführt nach aa)dem Bundesland,bb)der Betriebsstelle und den benachbarten Betriebsstellen undcc)der Streckennummer und des Streckenkilometers, dem Bundesland, der Betriebsstelle und den benachbarten Betriebsstellen und der Streckennummer und des Streckenkilometers, der Zugsicherungseinrichtung, dem Zugfunk, dem Betriebsverfahren und einem erteilten Nothaltauftrag, die Benennung der beteiligten Eisenbahnen, die Angabe der Zugnummern und der Zuggattungen der beteiligten Züge, Angaben zum Hergang des gefährlichen Ereignisses, Angaben über die Folgen, dargestellt nach Personenschäden, Sachschäden und der Beteiligung von Gefahrgut, und Angaben zur Ursache des gefährlichen Ereignisses und, soweit die Ursache nicht eindeutig bestimmbar ist, über die vermutete Ursache des gefährlichen Ereignisses.
 
-1.
+II. Zusätzlich zu den Angaben nach I. melden Eisenbahninfrastrukturunternehmen: 1.Angaben zu der Bezeichnung und Nummer der betroffenen Gleise, Weichen und Gleissperren,2.Angaben zu der Signalbezeichnung,3.Angaben zu der Bezeichnung und Bauform der beteiligten Stellwerke,4.den Bahnübergang, die Art der Sicherung des Bahnübergangs und der Überwachung des Bahnübergangs und dessen Bauform und5.die örtlich aktuell zugelassene Geschwindigkeit. Angaben zu der Bezeichnung und Nummer der betroffenen Gleise, Weichen und Gleissperren, Angaben zu der Signalbezeichnung, Angaben zu der Bezeichnung und Bauform der beteiligten Stellwerke, den Bahnübergang, die Art der Sicherung des Bahnübergangs und der Überwachung des Bahnübergangs und dessen Bauform und die örtlich aktuell zugelassene Geschwindigkeit.
 
-2.
-
-3.
-
-4.
-
-a)
-
-aa)
-
-bb)
-
-cc)
-
-b)
-
-c)
-
-d)
-
-e)
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-II.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-III.
-
-1.
-
-2.
-
-3.
+III. Zusätzlich zu den Angaben nach I. melden Eisenbahnverkehrsunternehmen: 1.die europäische Fahrzeugnummer der beteiligten Fahrzeuge,2.die Art der beteiligten Fahrzeuge und3.das Abfertigungsverfahren. die europäische Fahrzeugnummer der beteiligten Fahrzeuge, die Art der beteiligten Fahrzeuge und das Abfertigungsverfahren.

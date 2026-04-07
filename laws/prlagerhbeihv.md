@@ -25,7 +25,9 @@ Die nach den in § 1 genannten Rechtsakten abzuschließenden Lagerverträge habe
 
 ### § 4 — Gewährung der Beihilfe
 
-(1) Anträge auf Gewährung der Beihilfe sind nach dem von der Bundesanstalt im Bundesanzeiger bekanntgemachten Muster zu stellen.(2) Die Bundesanstalt setzt die Beihilfe durch Bescheid fest.
+(1) Anträge auf Gewährung der Beihilfe sind nach dem von der Bundesanstalt im Bundesanzeiger bekanntgemachten Muster zu stellen.
+
+(2) Die Bundesanstalt setzt die Beihilfe durch Bescheid fest.
 
 ### § 5
 
@@ -33,7 +35,19 @@ Die nach den in § 1 genannten Rechtsakten abzuschließenden Lagerverträge habe
 
 ### § 6 — Aufzeichnungs-, Anzeige- und Aufbewahrungspflichten
 
-Unbeschadet weitergehender Bestimmungen in den in § 1 genannten Rechtsakten ist der Einlagerer verpflichtet, 1.ordnungsgemäß kaufmännische Bücher zu führen, 2.gesonderte Aufzeichnungen zu machen über den Zugang und Abgang oder den sonstigen Verbleib sowie den Bestand an Butter, Rahm, lagerfähigen Käsesorten oder Magermilchpulver, der Gegenstand eines Lagervertrages ist, 3.jede Veränderung hinsichtlich der Voraussetzungen für die Gewährung der Beihilfe der Bundesanstalt unverzüglich mitzuteilen, 4.der Bundesanstalt nach dem von dieser im Bundesanzeiger bekanntgemachten Muster den Zugang und Abgang oder den sonstigen Verbleib sowie den Bestanda)an Butter und Rahm bis zum fünften Tag eines jeden Monats für den vorangegangenen Monat, b)an lagerfähigen Käsesorten oder Magermilchpulver innerhalb der in den in § 1 genannten Rechtsakten vorgeschriebenen Frist zu melden, soweit er Gegenstand eines Lagervertrages ist, 5.die in den Nummern 1 und 2 genannten Unterlagen und die sich darauf beziehenden geschäftlichen Belege sieben Jahre lang aufzubewahren, soweit nicht längere Aufbewahrungsfristen nach anderen Vorschriften bestehen, 6.der Bundesanstalt vor der Herstellung von Rahm, der Gegenstand eines Lagervertrages werden soll, den für die Herstellung vorgesehenen Betrieb, Ort und Zeitraum spätestens drei Werktage vor Beginn der Herstellung anzuzeigen.
+Unbeschadet weitergehender Bestimmungen in den in § 1 genannten Rechtsakten ist der Einlagerer verpflichtet,
+
+1. ordnungsgemäß kaufmännische Bücher zu führen,
+
+2. gesonderte Aufzeichnungen zu machen über den Zugang und Abgang oder den sonstigen Verbleib sowie den Bestand an Butter, Rahm, lagerfähigen Käsesorten oder Magermilchpulver, der Gegenstand eines Lagervertrages ist,
+
+3. jede Veränderung hinsichtlich der Voraussetzungen für die Gewährung der Beihilfe der Bundesanstalt unverzüglich mitzuteilen,
+
+4. der Bundesanstalt nach dem von dieser im Bundesanzeiger bekanntgemachten Muster den Zugang und Abgang oder den sonstigen Verbleib sowie den Bestanda)an Butter und Rahm bis zum fünften Tag eines jeden Monats für den vorangegangenen Monat, b)an lagerfähigen Käsesorten oder Magermilchpulver innerhalb der in den in § 1 genannten Rechtsakten vorgeschriebenen Frist an Butter und Rahm bis zum fünften Tag eines jeden Monats für den vorangegangenen Monat, an lagerfähigen Käsesorten oder Magermilchpulver innerhalb der in den in § 1 genannten Rechtsakten vorgeschriebenen Frist zu melden, soweit er Gegenstand eines Lagervertrages ist,
+
+5. die in den Nummern 1 und 2 genannten Unterlagen und die sich darauf beziehenden geschäftlichen Belege sieben Jahre lang aufzubewahren, soweit nicht längere Aufbewahrungsfristen nach anderen Vorschriften bestehen,
+
+6. der Bundesanstalt vor der Herstellung von Rahm, der Gegenstand eines Lagervertrages werden soll, den für die Herstellung vorgesehenen Betrieb, Ort und Zeitraum spätestens drei Werktage vor Beginn der Herstellung anzuzeigen.
 
 ### § 7 — Duldungs- und Mitwirkungspflichten
 
@@ -48,5 +62,3 @@ Zum Zwecke der Überwachung hat der Einlagerer den Beauftragten der Bundesanstal
 Diese Verordnung tritt am 1. April 1979 in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Ernährung, Landwirtschaft und Forsten

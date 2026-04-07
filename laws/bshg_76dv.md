@@ -28,31 +28,23 @@ Bei der Berechnung der Einkünfte in Geld oder Geldeswert, die nach § 82 Abs. 1
 
 (3) Bei der Berechnung der Einkünfte ist von den monatlichen Bruttoeinnahmen auszugehen. Sonderzuwendungen, Gratifikationen und gleichartige Bezüge und Vorteile, die in größeren als monatlichen Zeitabständen gewährt werden, sind wie einmalige Einnahmen zu behandeln.
 
-(4) Zu den mit der Erzielung der Einkünfte aus nichtselbständiger Arbeit verbundenen Ausgaben im Sinne des § 82 Abs. 2 Nr. 4 des Zwölften Buches Sozialgesetzbuch gehören vor allem Ausgaben im Sinne des Satzes 1 sind nur insoweit zu berücksichtigen, als sie von dem Bezieher des Einkommens selbst getragen werden.
+(4) Zu den mit der Erzielung der Einkünfte aus nichtselbständiger Arbeit verbundenen Ausgaben im Sinne des § 82 Abs. 2 Nr. 4 des Zwölften Buches Sozialgesetzbuch gehören vor allem
 
-1.
+1. notwendige Aufwendungen für Arbeitsmittel,
 
-2.
+2. notwendige Aufwendungen für Fahrten zwischen Wohnung und Arbeitsstätte,
 
-3.
+3. notwendige Beiträge für Berufsverbände,
 
-4.
+4. notwendige Mehraufwendungen infolge Führung eines doppelten Haushalts nach näherer Bestimmung des Absatzes 7.
 
 (5) Als Aufwendungen für Arbeitsmittel (Absatz 4 Nr. 1) kann ein monatlicher Pauschbetrag von 5,20 Euro berücksichtigt werden, wenn nicht im Einzelfall höhere Aufwendungen nachgewiesen werden.
 
 (6) Wird für die Fahrt zwischen Wohnung und Arbeitsstätte (Absatz 4 Nr. 2) ein eigenes Kraftfahrzeug benutzt, gilt folgendes:
 
-1.
+1. Wäre bei Nichtvorhandensein eines Kraftfahrzeuges die Benutzung eines öffentlichen Verkehrsmittels notwendig, so ist ein Betrag in Höhe der Kosten der tariflich günstigsten Zeitkarte abzusetzen.
 
-2.
-
-a)
-
-b)
-
-c)
-
-d)
+2. Ist ein öffentliches Verkehrsmittel nicht vorhanden oder dessen Benutzung im Einzelfall nicht zumutbar und deshalb die Benutzung eines Kraftfahrzeuges notwendig, so sind folgende monatliche Pauschbeträge abzusetzen:a)bei Benutzung eines Kraftwagens5,20 Euro,b)bei Benutzung eines Kleinstkraftwagens (drei- oder vierrädriges Kraftfahrzeug, dessen Motor einen Hubraum von nicht mehr als 500 ccm hat)3,70 Euro,c)bei Benutzung eines Motorrades oder eines Motorrollers2,30 Euro,d)bei Benutzung eines Fahrrades mit Motor1,30 Euro bei Benutzung eines Kraftwagens5,20 Euro, 5,20 Euro, 5,20 Euro, bei Benutzung eines Kleinstkraftwagens (drei- oder vierrädriges Kraftfahrzeug, dessen Motor einen Hubraum von nicht mehr als 500 ccm hat)3,70 Euro, 3,70 Euro, 3,70 Euro, bei Benutzung eines Motorrades oder eines Motorrollers2,30 Euro, 2,30 Euro, 2,30 Euro, bei Benutzung eines Fahrrades mit Motor1,30 Euro 1,30 Euro 1,30 Euro für jeden vollen Kilometer, den die Wohnung von der Arbeitsstätte entfernt liegt, jedoch für nicht mehr als 40 Kilometer. Bei einer Beschäftigungsdauer von weniger als einem Monat sind die Beträge anteilmäßig zu kürzen.
 
 (7) Ist der Bezieher des Einkommens außerhalb des Ortes beschäftigt, an dem er einen eigenen Hausstand unterhält, und kann ihm weder der Umzug noch die tägliche Rückkehr an den Ort des eigenen Hausstandes zugemutet werden, so sind die durch Führung des doppelten Haushalts ihm nachweislich entstehenden Mehraufwendungen, höchstens ein Betrag von 130 Euro monatlich, sowie die unter Ausnutzung bestehender Tarifvergünstigungen entstehenden Aufwendungen für Fahrtkosten der zweiten Wagenklasse für eine Familienheimfahrt im Kalendermonat abzusetzen. Ein eigener Hausstand ist dann anzunehmen, wenn der Bezieher des Einkommens eine Wohnung mit eigener oder selbstbeschaffter Möbelausstattung besitzt. Eine doppelte Haushaltsführung kann auch dann anerkannt werden, wenn der Bezieher des Einkommens nachweislich ganz oder überwiegend die Kosten für einen Haushalt trägt, den er gemeinsam mit nächsten Angehörigen führt.
 
@@ -67,15 +59,15 @@ und selbständiger Arbeit
 
 (4) Soweit im Einzelfall geboten, kann abweichend von der Regelung des Absatzes 3 als Einkünfte ein Betrag angesetzt werden, der nach Ablauf des Berechnungsjahres aus der Gegenüberstellung der im Rahmen des Betriebes im Berechnungsjahr erzielten Einnahmen und geleisteten notwendigen Ausgaben zu errechnen ist. Als Einkünfte im Sinne des Satzes 1 kann auch der vom Finanzamt für das Berechnungsjahr festgestellte Gewinn angesetzt werden.
 
-(5) Wird der vom Finanzamt festgestellte Gewinn nach Absatz 3 Satz 2 berücksichtigt oder nach Absatz 4 Satz 2 als Einkünfte angesetzt, so sind Absetzungen, die bei Gebäuden und sonstigen Wirtschaftsgütern durch das Finanzamt nach vorgenommen worden sind, dem durch das Finanzamt festgestellten Gewinn wieder hinzuzurechnen. Soweit jedoch in diesen Fällen notwendige Ausgaben für die Anschaffung oder Herstellung der in Satz 1 genannten Wirtschaftsgüter im Feststellungszeitraum geleistet worden sind, sind sie vom Gewinn abzusetzen.
+(5) Wird der vom Finanzamt festgestellte Gewinn nach Absatz 3 Satz 2 berücksichtigt oder nach Absatz 4 Satz 2 als Einkünfte angesetzt, so sind Absetzungen, die bei Gebäuden und sonstigen Wirtschaftsgütern durch das Finanzamt nach
 
-1.
+1. den §§ 7, 7b und 7e des Einkommensteuergesetzes,
 
-2.
+2. den Vorschriften des Berlinförderungsgesetzes,
 
-3.
+3. den §§ 76, 77 und 78 Abs. 1 der Einkommensteuer-Durchführungsverordnung,
 
-4.
+4. der Verordnung über Steuervergünstigungen zur Förderung des Baues von Landarbeiterwohnungen in der Fassung der Bekanntmachung vom 6. August 1974 (Bundesgesetzbl. I S. 1869)
 
 ### § 5 — Sondervorschrift für die Einkünfte aus Land- und
 Forstwirtschaft
@@ -84,9 +76,9 @@ Forstwirtschaft
 
 (2) Von der Berechnung der Einkünfte nach Absatz 1 ist abzusehen,
 
-1.
+1. wenn sie im Einzelfall offenbar nicht den besonderen persönlichen oder wirtschaftlichen Verhältnissen entspricht oder
 
-2.
+2. wenn der Bezieher der Einkünfte zur Einkommensteuer veranlagt wird, es sei denn, daß der Gewinn auf Grund von Durchschnittssätzen ermittelt wird.
 
 ### § 6 — Einkünfte aus Kapitalvermögen
 
@@ -100,21 +92,19 @@ Forstwirtschaft
 
 (1) Welche Einkünfte zu den Einkünften aus Vermietung und Verpachtung gehören, bestimmt sich nach § 21 Abs. 1 und 3 des Einkommensteuergesetzes.
 
-(2) Als Einkünfte aus Vermietung und Verpachtung ist der Überschuß der Einnahmen über die mit ihrer Erzielung verbundenen notwendigen Ausgaben (§ 82 Abs. 2 Nr. 4 des Zwölften Buches Sozialgesetzbuch) anzusetzen; zu den Ausgaben gehören Zum Erhaltungsaufwand im Sinne des Satzes 1 Nr. 4 gehören die Ausgaben für Instandsetzung und Instandhaltung, nicht jedoch die Ausgaben für Verbesserungen; ohne Nachweis können bei Wohngrundstücken, die vor dem 1. Januar 1925 bezugsfähig geworden sind, 15 vom Hundert, bei Wohngrundstücken, die nach dem 31. Dezember 1924 bezugsfähig geworden sind, 10 vom Hundert der Jahresroheinnahmen als Erhaltungsaufwand berücksichtigt werden.
+(2) Als Einkünfte aus Vermietung und Verpachtung ist der Überschuß der Einnahmen über die mit ihrer Erzielung verbundenen notwendigen Ausgaben (§ 82 Abs. 2 Nr. 4 des Zwölften Buches Sozialgesetzbuch) anzusetzen; zu den Ausgaben gehören
 
-1.
+1. Schuldzinsen und dauernde Lasten,
 
-2.
+2. Steuern vom Grundbesitz, sonstige öffentliche Abgaben und Versicherungsbeiträge,
 
-3.
+3. Leistungen auf die Hypothekengewinnabgabe und die Kreditgewinnabgabe, soweit es sich um Zinsen nach § 211 Abs. 1 Nr. 2 des Lastenausgleichsgesetzes handelt,
 
-4.
+4. der Erhaltungsaufwand,
 
-5.
+5. sonstige Aufwendungen zur Bewirtschaftung des Haus- und Grundbesitzes, ohne besonderen Nachweis Aufwendungen in Höhe von 1 vom Hundert der Jahresroheinnahmen.
 
 (3) Die in Absatz 2 genannten Ausgaben sind von den Einnahmen insoweit nicht abzusetzen, als sie auf den vom Vermieter oder Verpächter selbst genutzten Teil des vermieteten oder verpachteten Gegenstandes entfallen.
-
-(4) Als Einkünfte aus der Vermietung von möblierten Wohnungen und von Zimmern sind anzusetzen der Roheinnahmen. Dies gilt nicht, wenn geringere Einkünfte nachgewiesen werden.
 
 (5) Die Einkünfte sind als Jahreseinkünfte, bei der Vermietung von möblierten Wohnungen und von Zimmern jedoch als Monatseinkünfte zu berechnen. Sind sie als Jahreseinkünfte zu berechnen, gilt § 6 Abs. 3 entsprechend.
 

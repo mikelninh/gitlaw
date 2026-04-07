@@ -18,4 +18,6 @@ Die Aufgaben der zuständigen nationalen Behörde nach Artikel 2 Abs. 1 Satz 2 d
 
 ### Art 5
 
-(1) Mit Ausnahme der Artikel 2 bis 4 tritt dieses Gesetz am Tage nach seiner Verkündung in Kraft. Die Artikel 2 bis 4 treten an dem Tage in Kraft, an dem das Übereinkommen für die Bundesrepublik Deutschland in Kraft tritt.(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 61 Abs. 4 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
+(1) Mit Ausnahme der Artikel 2 bis 4 tritt dieses Gesetz am Tage nach seiner Verkündung in Kraft. Die Artikel 2 bis 4 treten an dem Tage in Kraft, an dem das Übereinkommen für die Bundesrepublik Deutschland in Kraft tritt.
+
+(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 61 Abs. 4 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.

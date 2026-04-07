@@ -26,4 +26,4 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage — (zu § 1)
 
-(Fundstelle des Originaltextes: BGBl. I 1997, 3325)Bezeichnung der deutschen PrüfungszeugnisseBezeichnung der französischen Prüfungszeugnisse1.Meisterprüfung im Kraftfahrzeugmechaniker-Handwerk1.Brevet de Maitrise mecanicien reparateur auto2.Meisterprüfung im Kraftfahrzeugelektriker-Handwerk2.Brevet de Maitrise electricien electronicien specialiste automobile3.Meisterprüfung im Landmaschinenmechaniker-Handwerk3.Brevet de Maitrise mecanicien reparateur rural4.Meisterprüfung im Zimmerer-Handwerk4.Brevet de Maitrise charpentier5.Meisterprüfung im Tischler-Handwerk5.Brevet de Maitrise menuisier de batiment et d'agencement, ebeniste, menuisier en meubles6.Meisterprüfung im Fliesen-, Platten- und Mosaikleger-Handwerk6.Brevet de Maitrise carreleur mosaiste7.Meisterprüfung im Maurer-Handwerk7.Brevet de Maitrise macon8.Meisterprüfung im Konditoren-Handwerk8.Brevet de Maitrise patissier9.Meisterprüfung im Friseur-Handwerk9.Brevet de Maitrise coiffeur - Option C10.Meisterprüfung im Textilreiniger-Handwerk10.Brevet de Maitrise nettoyeurappreteur
+1. Meisterprüfung im Kraftfahrzeugmechaniker-Handwerk

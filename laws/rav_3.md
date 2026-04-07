@@ -8,17 +8,13 @@ Rechengrößen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 
 ### Eingangsformel
 
-Auf Grund verordnet der Bundesminister für Arbeit und Sozialordnung und auf Grund verordnet die Bundesregierung:
+Auf Grund
 
--
+- des § 17 Abs. 2 Satz 1 des Vierten Buches Sozialgesetzbuch (Artikel 1 des Gesetzes vom 23. Dezember 1976, BGBl. I S. 3845), der durch Artikel 9 Nr. 1 des Haushaltsbegleitgesetzes 1984 vom 22. Dezember 1983 (BGBl. I S. 1532) eingefügt worden ist,
 
--
+- des § 16 Abs. 1 des Gesetzes zur Überführung der Ansprüche und Anwartschaften aus Zusatz- und Sonderversorgungssystemen des Beitrittsgebiets (Artikel 3 des Gesetzes vom 25. Juli 1991, BGBl. I S. 1606) und
 
--
-
--
-
--
+- des § 281b Nr. 2 des Sechsten Buches Sozialgesetzbuch (Artikel 1 des Gesetzes vom 25. Juli 1991, BGBl. I S. 1606)
 
 ### § 1 — Bezugsgröße der Sozialversicherung
 
@@ -27,11 +23,11 @@ Die Bezugsgröße (Ost) im Sinne des § 18 Abs. 2 des Vierten Buches Sozialgeset
 ### § 2 — Beitragsbemessungsgrenzen in der Rentenversicherung
 im Beitrittsgebiet
 
-Die Beitragsbemessungsgrenzen (Ost) betragen ab 1. Januar 1992 Die Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird um die Jahresbeträge ergänzt.
+Die Beitragsbemessungsgrenzen (Ost) betragen ab 1. Januar 1992
 
-1.
+1. in der Rentenversicherung der Arbeiter und der Angestellten 57.600 DM jährlich und 4.800 DM monatlich,
 
-2.
+2. in der knappschaftlichen Rentenversicherung 70.800 DM jährlich und 5.900 DM monatlich.
 
 ### § 3 — Werte für Jahreshöchstverdienste in den Anlagen
 3 bis 6 zu dem Anspruchs- und Anwartschaftsüberführungsgesetz
@@ -46,8 +42,6 @@ Die Beitragsbemessungsgrenzen (Ost) betragen ab 1. Januar 1992 Die Anlage 2a zum
 
 ### § 4 — Angleichungsfaktoren für den Versorgungsausgleich
 in der Rentenversicherung
-
-Die Angleichungsfaktoren zur Ermittlung des Wertes von angleichungsdynamischen Anrechten nach § 3 Abs. 2 Nr. 1 Buchstabe a des Versorgungsausgleichs-Überleitungsgesetzes betragen im Zeitpunkt einer Entscheidung über den Versorgungsausgleich in der Zeit vom 1. Januar 1992 bis zum 30. Juni 1992
 
 ### § 5 — Anpassung des aktuellen Rentenwerts (Ost)
 

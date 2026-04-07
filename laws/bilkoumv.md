@@ -18,7 +18,7 @@ Diese Verordnung regelt die Umlegung der in § 17d Abs. 1 Satz 1 und Abs. 4 des 
 
 ### § 2 — Umlagefähige Kosten
 
-(1) Nach Maßgabe des § 17d Abs. 1 Satz 1 und Abs. 4 des Finanzdienstleistungsaufsichtsgesetzes umzulegende Kosten der Bundesanstalt und der Prüfstelle sind die tatsächlich geleisteten Haushaltsausgaben der Bundesanstalt und der Prüfstelle für ein Haushaltsjahr. Hierzu gehören auch die Zuführungen zu der Pensionsrücklage nach  § 19 Abs. 2 des Finanzdienstleistungsaufsichtsgesetzes und zu einer Investitionsrücklage nach § 12 Abs. 4 des Finanzdienstleistungsaufsichtsgesetzes, soweit sie dem in § 17a Satz 1 des Finanzdienstleistungsaufsichtsgesetzes genannten Verwaltungsbereich der Bilanzkontrolle der Bundesanstalt zuzurechnen sind. Satz 2 gilt entsprechend für Rechnungslegungsposten der Prüfstelle, die den Zuführungen zu einer Rücklage im Sinn dieses Satzes vergleichbar sind.
+(1) Nach Maßgabe des § 17d Abs. 1 Satz 1 und Abs. 4 des Finanzdienstleistungsaufsichtsgesetzes umzulegende Kosten der Bundesanstalt und der Prüfstelle sind die tatsächlich geleisteten Haushaltsausgaben der Bundesanstalt und der Prüfstelle für ein Haushaltsjahr. Hierzu gehören auch die Zuführungen zu der Pensionsrücklage nach § 19 Abs. 2 des Finanzdienstleistungsaufsichtsgesetzes und zu einer Investitionsrücklage nach § 12 Abs. 4 des Finanzdienstleistungsaufsichtsgesetzes, soweit sie dem in § 17a Satz 1 des Finanzdienstleistungsaufsichtsgesetzes genannten Verwaltungsbereich der Bilanzkontrolle der Bundesanstalt zuzurechnen sind. Satz 2 gilt entsprechend für Rechnungslegungsposten der Prüfstelle, die den Zuführungen zu einer Rücklage im Sinn dieses Satzes vergleichbar sind.
 
 (2) Fehlbeträge und nicht eingegangene Beträge des dem Haushaltsjahr vorausgehenden Jahres sind den in Absatz 1 genannten Ausgaben hinzuzurechnen. Überschüsse des dem Haushaltsjahr vorausgehenden Jahres werden von den Ausgaben abgezogen.
 
@@ -90,21 +90,21 @@ Die Umlageforderungen werden mit der Bekanntgabe ihrer Festsetzung an den Umlage
 
 (1) Auf die Umlageerhebung für das Jahr 2005 sind die §§ 5 und 9 mit folgenden Maßgaben anzuwenden:
 
-1.
+1. Abweichend von § 5 ist Stichtag für die Umlagepflicht im Sinn des § 17d Abs. 1 Satz 1 des Finanzdienstleistungsaufsichtsgesetzes der Tag nach dem Inkrafttreten dieser Verordnung.
 
-2.
+2. Die Festsetzung der Umlagevorauszahlung für das Umlagejahr 2005 erfolgt auf der Grundlage des gemäß § 17a Satz 1 des Finanzdienstleistungsaufsichtsgesetzes auszuweisenden gesonderten Teils des Haushaltsplans für das Jahr 2005 unter Berücksichtigung der Kosten nach § 17d Abs. 4 des Finanzdienstleistungsaufsichtsgesetzes. Auf den Gesamtbetrag der Kosten im Sinn des Satzes 1 ist ein Zuschlag für Zahlungsausfälle in Höhe von 20 Prozent zu erheben.
 
-3.
+3. Vorauszahlungspflichtig ist, wer umlagepflichtig ist.
 
-4.
+4. Für die Verteilung der voraussichtlichen Kosten im Sinn der Nummer 2, die auf die Vorauszahlungspflichtigen umzulegen sind, ist § 9 Abs. 3 auf der Grundlage der Börsenumsätze des Jahres 2004 anzuwenden.
 
-5.
+5. Der nach Nummer 2 festgesetzte Vorauszahlungsbetrag wird zu einem Zeitpunkt fällig, der von der Bundesanstalt zu bestimmen ist.
 
 (2) Auf die Umlageerhebung für das Jahr 2006 ist § 9 mit folgenden Maßgaben anzuwenden:
 
-1.
+1. Vorauszahlungspflichtig ist, wer im Jahr 2005 umlagepflichtig war.
 
-2.
+2. Für die Verteilung der voraussichtlichen Kosten im Sinn des § 9 Abs. 1 Satz 2, die auf die einzelnen Vorauszahlungspflichtigen umzulegen sind, ist § 9 Abs. 3 auf der Grundlage der Börsenumsätze des Jahres 2004 anzuwenden.
 
 (3) § 1 in der ab dem 26. November 2015 geltenden Fassung ist erstmals auf die Umlageerhebung für das Umlagejahr 2016 anzuwenden.
 

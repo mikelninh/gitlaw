@@ -25,7 +25,9 @@ Das Bundesministerium für Verkehr, Bau- und Wohnungswesen kann den Wortlaut des
 
 ### Art 9 — Aufhebung von Rechtsvorschriften
 
-(1) Das Seeunfalluntersuchungsgesetz vom 6. Dezember 1985 (BGBl. I S. 2146), zuletzt geändert durch Artikel 275 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785), wird aufgehoben. Dies gilt nicht in Bezug auf Rechtsbehelfe gegen Entscheidungen der Seeämter und des Bundesoberseeamtes nach dem Seeunfalluntersuchungsgesetz mit der Maßgabe, dass über Widersprüche gegen die Sprüche der Seeämter nach § 33 entschieden wird. Seeunfälle, über die ein Seeamt nach dem Seeunfalluntersuchungsgesetz durch Spruch entschieden hat, gelten nicht als Vorkommnisse im Sinne des Seesicherheits-Untersuchungs-Gesetzes.(2) bis (4)
+(1) Das Seeunfalluntersuchungsgesetz vom 6. Dezember 1985 (BGBl. I S. 2146), zuletzt geändert durch Artikel 275 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785), wird aufgehoben. Dies gilt nicht in Bezug auf Rechtsbehelfe gegen Entscheidungen der Seeämter und des Bundesoberseeamtes nach dem Seeunfalluntersuchungsgesetz mit der Maßgabe, dass über Widersprüche gegen die Sprüche der Seeämter nach § 33 entschieden wird. Seeunfälle, über die ein Seeamt nach dem Seeunfalluntersuchungsgesetz durch Spruch entschieden hat, gelten nicht als Vorkommnisse im Sinne des Seesicherheits-Untersuchungs-Gesetzes.
+
+(2) bis (4)
 
 ### Art 10 — Inkrafttreten
 

@@ -8,7 +8,13 @@
 
 ### § 1
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie sowie dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit und unbeschadet der Vorschriften des Bundesberggesetzes durch Rechtsverordnung 1.die Durchführung wissenschaftlicher Meeresforschung im deutschen Küstenmeer oder in der deutschen ausschließlichen Wirtschaftszone von Schiffen, die nicht zur Führung der Bundesflagge berechtigt sind, oder in der ausschließlichen Wirtschaftszone von Anlagen im Sinne des Seeaufgabengesetzes durch andere Staaten nach Maßgabe der Artikel 245 bis 255 des Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982 von einer vorherigen Anzeige oder Genehmigung oder der Erfüllung von Auflagen abhängig zu machen,2.in den Fällen der Nummer 1 zur Wahrnehmung der Rechte und zur Einhaltung der Verpflichtungen aus Teil XIII des Seerechtsübereinkommens sowie insbesondere zur Vorsorge gegen Gefahren aus der Durchführung von Vorhaben der wissenschaftlichen Meeresforschung die Möglichkeit der Versagung der Genehmigung vorzusehen sowie3.das nähere Verfahren, insbesondere hinsichtlich Mitteilungspflichten und einzureichender Anträge und Unterlagen, näher zu regeln.
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie sowie dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit und unbeschadet der Vorschriften des Bundesberggesetzes durch Rechtsverordnung
+
+1. die Durchführung wissenschaftlicher Meeresforschung im deutschen Küstenmeer oder in der deutschen ausschließlichen Wirtschaftszone von Schiffen, die nicht zur Führung der Bundesflagge berechtigt sind, oder in der ausschließlichen Wirtschaftszone von Anlagen im Sinne des Seeaufgabengesetzes durch andere Staaten nach Maßgabe der Artikel 245 bis 255 des Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982 von einer vorherigen Anzeige oder Genehmigung oder der Erfüllung von Auflagen abhängig zu machen,
+
+2. in den Fällen der Nummer 1 zur Wahrnehmung der Rechte und zur Einhaltung der Verpflichtungen aus Teil XIII des Seerechtsübereinkommens sowie insbesondere zur Vorsorge gegen Gefahren aus der Durchführung von Vorhaben der wissenschaftlichen Meeresforschung die Möglichkeit der Versagung der Genehmigung vorzusehen sowie
+
+3. das nähere Verfahren, insbesondere hinsichtlich Mitteilungspflichten und einzureichender Anträge und Unterlagen, näher zu regeln.
 
 ### § 2
 
@@ -24,4 +30,8 @@ Die Bestimmungen der §§ 3d, 4 und 8, auch in Verbindung mit § 21, des Seeaufg
 
 ### § 5
 
-(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig als Eigentümer eines Seeschiffs, als vom Eigentümer beauftragter Verantwortlicher oder als Führer eines Seeschiffs einer nach § 1 erlassenen Rechtsverordnung oder einer auf Grund einer solchen Rechtsverordnung getroffenen vollziehbaren Anordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.(3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Seeschiffahrt und Hydrographie.
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig als Eigentümer eines Seeschiffs, als vom Eigentümer beauftragter Verantwortlicher oder als Führer eines Seeschiffs einer nach § 1 erlassenen Rechtsverordnung oder einer auf Grund einer solchen Rechtsverordnung getroffenen vollziehbaren Anordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
+
+(3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Seeschiffahrt und Hydrographie.

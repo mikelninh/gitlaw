@@ -14,41 +14,41 @@
 
 (1) Diese Verordnung dient der Umsetzung unionsrechtlicher Vorgaben des Beihilferechts zur Erhebung, Verarbeitung, Nutzung und Übermittlung von Informationen durch die Zollverwaltung, die für die Erfüllung der Veröffentlichungs-, Informations- und Transparenzpflichten von Bedeutung sind. Auf § 66 Absatz 1 Nummer 21 des Energiesteuergesetzes und § 11 Satz 1 Nummer 13 des Stromsteuergesetzes wird Bezug genommen. Rechtsakte der Kommission hierzu sind insbesondere
 
-1.
+1. die Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1; L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) 2023/1315 (ABl. L 167 vom 30.6.2023, S. 1) geändert worden ist, in der jeweils geltenden Fassung;
 
-2.
+2. die Mitteilung der Kommission – Leitlinien für staatliche Klima-, Umweltschutz- und Energiebeihilfen 2022 (ABl. C 80 vom 18.2.2022, S. 1).
 
 (2) Diese Verordnung gilt ausschließlich für die aufgrund des Energiesteuer- und des Stromsteuergesetzes gewährten Steuerbegünstigungen, die
 
-1.
+1. staatliche Beihilfen im Sinne des Artikels 107 des Vertrags über die Arbeitsweise der Europäischen Union (AEUV) darstellen und
 
-2.
+2. bei der Kommission angezeigt oder von ihr genehmigt worden sind.
 
 ### § 2 — Begriffsbestimmungen
 
-(1) Steuerbegünstigungen im Sinne dieser Verordnung sind die aufgrund des Energiesteuer- oder des Stromsteuergesetzes gewährt werden und zugleich staatliche Beihilfen im Sinne des Artikels 107 des AEUV darstellen. Steuerbegünstigungen nach Satz 1 sind der Anlage zu dieser Verordnung zu entnehmen. Das Bundesministerium der Finanzen veröffentlicht bei Änderungen der Anlage eine Übersicht der betroffenen Vorschriften des Energiesteuer- und des Stromsteuerrechts jeweils gesondert im Bundesanzeiger und im Internet auf den Seiten der Zollverwaltung unter zoll.de.
+(1) Steuerbegünstigungen im Sinne dieser Verordnung sind
 
-1.
+1. die Steuerbefreiungen,
 
-2.
+2. die Steuerermäßigungen oder
 
-3.
+3. die Steuerentlastungen,
 
 (2) Begünstigt im Sinne dieser Verordnung ist, wer eine Steuerbegünstigung im Sinne des Absatzes 1 in Anspruch nimmt.
 
 (3) Einzelbeihilfe im Sinne dieser Verordnung ist jede Regelung des Energiesteuer- oder des Stromsteuergesetzes, die
 
-1.
+1. eine Steuerbegünstigung im Sinne des Absatzes 1 enthält und
 
-2.
+2. in der Anlage zu dieser Verordnung aufgeführt ist.
 
 (4) Kleinstunternehmen sowie kleine und mittlere Unternehmen im Sinne dieser Verordnung sind Unternehmen im Sinne der Empfehlung 2003/361/EG der Kommission vom 6. Mai 2003 betreffend die Definition der Kleinstunternehmen sowie der kleinen und mittleren Unternehmen (ABl. L 124 vom 20.5.2003, S. 36), in der jeweils geltenden Fassung.
 
 (5) Zuständiges Hauptzollamt im Sinne dieser Verordnung ist das Hauptzollamt nach § 1a der Energiesteuer-Durchführungsverordnung und nach § 1 der Stromsteuer-Durchführungsverordnung.
 
-(6) Fischerei und Aquakultur ist die Erzeugung, Verarbeitung und Vermarktung von Erzeugnissen, die aufgeführt sind in Anhang I der Verordnung (EU) Nr. 1379/2013 des Europäischen Parlaments und des Rates vom 11. Dezember 2013 über die gemeinsame Marktorganisation für Erzeugnisse der Fischerei und der Aquakultur, zur Änderung der Verordnungen (EG) Nr. 1184/2006 und (EG) Nr. 1224/2009 des Rates und zur Aufhebung der Verordnung (EG) Nr. 104/2000 des Rates (ABl. L 354 vom 28.12.2013, S. 1), die zuletzt durch die Verordnung (EU) 2020/560 (ABl. L 130 vom 24.4.2020, S. 11) geändert worden ist, in der jeweils geltenden Fassung.
+(6) Fischerei und Aquakultur ist die Erzeugung, Verarbeitung und Vermarktung von Erzeugnissen, die aufgeführt sind in Anhang I der Verordnung (EU) Nr. 1379/2013 des Europäischen Parlaments und des Rates vom 11. Dezember 2013 über die gemeinsame Marktorganisation für Erzeugnisse der Fischerei und der Aquakultur, zur Änderung der Verordnungen (EG) Nr. 1184/2006 und (EG) Nr. 1224/2009 des Rates und zur Aufhebung der Verordnung (EG) Nr. 104/2000 des Rates (ABl. L 354 vom 28.12.2013, S. 1), die zuletzt durch die Verordnung (EU) 2020/560 (ABl. L 130 vom 24.4.2020, S. 11) geändert worden ist, in der jeweils geltenden Fassung.
 
-(7) Primärerzeugung landwirtschaftlicher Erzeugnisse ist die Erzeugung von in Anhang I des AEUV aufgeführten Erzeugnissen des Bodens und der Viehzucht, ohne weitere Vorgänge, die die Beschaffenheit solcher Erzeugnisse verändern.
+(7) Primärerzeugung landwirtschaftlicher Erzeugnisse ist die Erzeugung von in Anhang I des AEUV aufgeführten Erzeugnissen des Bodens und der Viehzucht, ohne weitere Vorgänge, die die Beschaffenheit solcher Erzeugnisse verändern.
 
 ## Abschnitt 2: Veröffentlichungs-, Informations- und Transparenzpflichten
 
@@ -56,45 +56,45 @@
 
 (1) Begünstigte haben gegenüber dem zuständigen Hauptzollamt Anzeige- oder Erklärungspflichten, wenn das Aufkommen der einzelnen gewährten Steuerbegünstigung ab dem Kalenderjahr 2024 jeweils mehr als
 
-1.
+1. 10 000 Euro beträgt bei in der Fischerei und Aquakultur tätigen Begünstigten nach § 2 Absatz 6, falls die Steuerbegünstigung auf der Grundlage von § 1 Absatz 1 Satz 3 Nummer 1 gewährt wird;
 
-2.
+2. 10 000 Euro beträgt bei in der Primärerzeugung landwirtschaftlicher Erzeugnisse tätigen Begünstigten nach § 2 Absatz 7, falls die Steuerbegünstigung auf der Grundlage von § 1 Absatz 1 Satz 3 Nummer 1 gewährt wird;
 
-3.
+3. 100 000 Euro in den sonstigen Fällen beträgt.
 
 (2) Abzugeben ist
 
-1.
+1. eine Erklärung nach § 5, wenn eine Steuerentlastung nach dem Energiesteuer- oder dem Stromsteuergesetz gewährt wurde;
 
-2.
+2. eine Anzeige nach § 4, wenn eine andere Steuerbegünstigung nach dem Energiesteuer- oder dem Stromsteuergesetz in Anspruch genommen wurde.
 
 (3) Die Anzeigen oder die Erklärungen nach Absatz 2 sind durch elektronische Datenübermittlung nach Maßgabe des § 7 beim zuständigen Hauptzollamt für das nach § 4 Absatz 2 Nummer 4 oder nach § 5 Absatz 2 Nummer 4 jeweils maßgebliche Kalenderjahr bis spätestens zum 30. Juni des Folgejahres abzugeben.
 
 (4) Auf einer allgemein zugänglichen Internetseite werden folgende Angaben veröffentlicht:
 
-1.
+1. die Angaben nach § 4 Absatz 2 Nummer 1, 3 und 5 bis 7,
 
-2.
+2. die Angaben nach § 5 Absatz 2 Nummer 1, 3 und 5 bis 7 sowie
 
-3.
+3. die weiteren Angaben, die von der Kommission in den in § 1 Absatz 1 zitierten Rechtsakten aufgeführt sind.
 
 (5) Eine Veröffentlichung nach Absatz 4 erfolgt, wenn das Aufkommen der Steuerbegünstigung für die jeweilige Einzelbeihilfe im Kalenderjahr, das nach § 4 Absatz 2 Nummer 4 oder nach § 5 Absatz 2 Nummer 4 jeweils maßgeblich ist,
 
-1.
+1. bei Begünstigten nach Absatz 1 Nummer 1 mehr als 10 000 Euro beträgt, falls die Steuerbegünstigung auf der Grundlage von § 1 Absatz 1 Satz 3 Nummer 1 gewährt wird;
 
-2.
+2. bei Begünstigten nach Absatz 1 Nummer 2 mehr als 10 000 Euro beträgt, falls die Steuerbegünstigung auf der Grundlage von § 1 Absatz 1 Satz 3 Nummer 1 gewährt wird;
 
-3.
+3. mehr als 100 000 Euro beträgt, falls die Steuerbegünstigung auf der Grundlage von § 1 Absatz 1 Satz 3 Nummer 1 gewährt wird;
 
-4.
+4. mehr als 100 000 Euro beträgt, falls die Steuerbegünstigung auf der Grundlage von § 1 Absatz 1 Satz 3 Nummer 2 gewährt wird.
 
-(6) Die Veröffentlichung nach Absatz 5 erfolgt jeweils gesondert in den Aufkommensschritten von 100 001 Euro bis 500 000 Euro, von 500 001 bis 1 000 000 Euro, von 1 000 001 bis 2 000 000 Euro, von 2 000 001 bis 5 000 000 Euro, von 5 000 001 bis 10 000 000 Euro, von 10 000 001 bis 30 000 000 Euro sowie von 30 000 001 und mehr Euro. Das Aufkommen der Steuerbegünstigung im Einzelnen wird zur Zuordnung zu den Aufkommensschritten auf volle Euro aufgerundet. Unbeschadet des Satzes 1 erfolgt in den Fällen einer Veröffentlichung
+(6) Die Veröffentlichung nach Absatz 5 erfolgt jeweils gesondert in den Aufkommensschritten von 100 001 Euro bis 500 000 Euro, von 500 001 bis 1 000 000 Euro, von 1 000 001 bis 2 000 000 Euro, von 2 000 001 bis 5 000 000 Euro, von 5 000 001 bis 10 000 000 Euro, von 10 000 001 bis 30 000 000 Euro sowie von 30 000 001 und mehr Euro. Das Aufkommen der Steuerbegünstigung im Einzelnen wird zur Zuordnung zu den Aufkommensschritten auf volle Euro aufgerundet. Unbeschadet des Satzes 1 erfolgt in den Fällen einer Veröffentlichung
 
-1.
+1. nach Absatz 5 Nummer 1 zusätzlich eine Veröffentlichung im Aufkommensschritt 10 001 Euro bis 100 000 Euro;
 
-2.
+2. nach Absatz 5 Nummer 2 zusätzlich eine Veröffentlichung im Aufkommensschritt 10 001 Euro bis 100 000 Euro;
 
-3.
+3. nach Absatz 5 Nummer 4 zusätzlich eine Veröffentlichung in den Aufkommensschritten von 30 000 001 bis 60 000 000 Euro, von 60 000 001 bis 100 000 000 Euro, von 100 000 001 bis 250 000 000 Euro sowie von 250 000 001 und mehr Euro.
 
 ### § 4 — Anzeigepflicht für Steuerbegünstigungen
 
@@ -102,23 +102,23 @@
 
 (2) In der Anzeige sind für jeden Begünstigungstatbestand die folgenden Angaben zu machen:
 
-1.
+1. der Name des Begünstigten,
 
-2.
+2. die Anschrift des Begünstigten,
 
-3.
+3. der Identifikator des Begünstigten,
 
-4.
+4. die Art und die Menge der im vorangegangenen Kalenderjahr verwendeten Energieerzeugnisse oder die Menge des im vorangegangenen Kalenderjahr entnommenen Stroms,
 
-5.
+5. die Höhe der daraus resultierenden Steuerbegünstigung in Euro,
 
-6.
+6. der Wirtschaftszweig des Begünstigten anhand der Klassifikation der Wirtschaftszweige nach § 2 Nummer 2a des Stromsteuergesetzes,
 
-7.
+7. ob der Begünstigte zum Zeitpunkt der Inanspruchnahme der Steuerbegünstigung als Kleinstunternehmen, kleines oder mittleres Unternehmen im Sinne des § 2 Absatz 4 galt,
 
-8.
+8. ob der Begünstigte in der Fischerei und Aquakultur im Sinne des § 2 Absatz 6 tätig ist und
 
-9.
+9. ob der Begünstigte in der Primärerzeugung landwirtschaftlicher Erzeugnisse im Sinne des § 2 Absatz 7 tätig ist.
 
 (3) Für die Ermittlung der Angaben nach Absatz 2 Nummer 4 und 5 gilt § 39 Absatz 6 des Energiesteuergesetzes und § 8 Absatz 4a des Stromsteuergesetzes entsprechend. Das Verfahren nach Satz 1 dürfen Begünstigte ausnahmsweise auch dann sinngemäß anwenden, wenn ihnen zum Abgabetermin nach § 3 Absatz 3 für die Anzeige keine abschließenden Angaben zu Absatz 2 Nummer 4 und 5 möglich sind.
 
@@ -126,9 +126,9 @@
 
 (5) In den Fällen des § 2 Absatz 1 Satz 1 Nummer 2 ergibt sich die Höhe der Steuerbegünstigung im Sinne des Absatzes 2 Nummer 5 aus
 
-1.
+1. der Differenz zwischen den Steuersätzen nach § 2 Absatz 1 oder Absatz 2 des Energiesteuergesetzes und den Steuersätzen nach § 2 Absatz 3 des Energiesteuergesetzes einerseits sowie der Menge der verwendeten Energieerzeugnisse andererseits oder
 
-2.
+2. der Differenz zwischen dem Steuersatz nach § 3 des Stromsteuergesetzes und den Steuersätzen nach § 9 Absatz 2 oder Absatz 3 des Stromsteuergesetzes einerseits sowie der Menge des entnommenen Stroms andererseits.
 
 (6) Eine Anzeige ist nicht erforderlich, wenn Energieerzeugnisse ausschließlich der Stromerzeugung in Anlagen im Sinne des § 3 des Energiesteuergesetzes dienen, die während des gesamten von der Anzeige erfassten Zeitraums stromsteuerpflichtig waren.
 
@@ -138,23 +138,23 @@
 
 (2) In der Erklärung sind für jeden Entlastungstatbestand die folgenden Angaben zu machen:
 
-1.
+1. der Name des Begünstigten,
 
-2.
+2. die Anschrift des Begünstigten,
 
-3.
+3. der Identifikator des Begünstigten,
 
-4.
+4. die Art und die Menge der im vorangegangenen Kalenderjahr entlasteten Energieerzeugnisse oder die Menge des im vorangegangenen Kalenderjahr entlasteten Stroms,
 
-5.
+5. die Höhe der daraus resultierenden, im vorangegangenen Kalenderjahr ausgezahlten Steuerentlastung in Euro,
 
-6.
+6. der Wirtschaftszweig des Begünstigten anhand der Klassifikation der Wirtschaftszweige nach § 2 Nummer 2a des Stromsteuergesetzes,
 
-7.
+7. ob der Begünstigte zum Zeitpunkt der Gewährung der Steuerentlastung als Kleinstunternehmen, kleines oder mittleres Unternehmen im Sinne des § 2 Absatz 4 galt,
 
-8.
+8. ob der Begünstigte in der Fischerei und Aquakultur im Sinne des § 2 Absatz 6 tätig ist und
 
-9.
+9. ob der Begünstigte in der Primärerzeugung landwirtschaftlicher Erzeugnisse im Sinne des § 2 Absatz 7 tätig ist.
 
 (3) Das zuständige Hauptzollamt kann darüber hinaus weitere Angaben und Unterlagen verlangen, soweit diese zur Dokumentation der Veröffentlichungs-, Informations- und Transparenzpflichten gegenüber der Kommission oder zur Nachweisführung erforderlich sind.
 
@@ -226,9 +226,9 @@ Die nach dieser Verordnung erhobenen Daten sind ausschließlich über die allgem
 
 (1) Ordnungswidrig im Sinne des § 66c Absatz 1 des Energiesteuergesetzes handelt, wer vorsätzlich oder leichtfertig
 
-1.
+1. entgegen § 3 Absatz 2 eine Erklärung oder eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig abgibt oder
 
-2.
+2. einer vollziehbaren Anordnung nach § 4 Absatz 4 oder § 5 Absatz 3 zuwiderhandelt.
 
 (2) Ordnungswidrig im Sinne des § 14 Absatz 1 Nummer 2 des Stromsteuergesetzes handelt, wer vorsätzlich oder leichtfertig eine in Absatz 1 bezeichnete Handlung in Bezug auf eine Steuerbegünstigung nach dem Stromsteuergesetz begeht.
 
@@ -244,46 +244,8 @@ Die sich aus dieser Verordnung ergebenden Verpflichtungen gelten für Steuerbeg�
 
 Steuerbegünstigungen im Sinne dieser Verordnung sind
 
-1.
+1. die Steuerbefreiungen nach a)§ 28 Absatz 2 des Energiesteuergesetzes,b)§ 9 Absatz 1 Nummer 1 des Stromsteuergesetzes undc)§ 9 Absatz 1 Nummer 3 des Stromsteuergesetzes; § 28 Absatz 2 des Energiesteuergesetzes, § 9 Absatz 1 Nummer 1 des Stromsteuergesetzes und § 9 Absatz 1 Nummer 3 des Stromsteuergesetzes;
 
-a)
+2. die Steuerermäßigungen nach a)den §§ 3 und 3a des Energiesteuergesetzes,b)§ 9 Absatz 2 des Stromsteuergesetzes undc)§ 9 Absatz 3 des Stromsteuergesetzes; den §§ 3 und 3a des Energiesteuergesetzes, § 9 Absatz 2 des Stromsteuergesetzes und § 9 Absatz 3 des Stromsteuergesetzes;
 
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-c)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
+3. die Steuerentlastungen nach a)§ 47a des Energiesteuergesetzes,b)§ 53a Absatz 1 und 4 des Energiesteuergesetzes,c)§ 53a Absatz 6 des Energiesteuergesetzes,d)§ 54 des Energiesteuergesetzes,e)§ 55 des Energiesteuergesetzes,f)§ 56 des Energiesteuergesetzes,g)§ 57 des Energiesteuergesetzes,h)§ 9b des Stromsteuergesetzes,i)§ 9c des Stromsteuergesetzes,j)§ 10 des Stromsteuergesetzes,k)§ 12c der Stromsteuer-Durchführungsverordnung,l)§ 12d der Stromsteuer-Durchführungsverordnung undm)§ 14a der Stromsteuer-Durchführungsverordnung. § 47a des Energiesteuergesetzes, § 53a Absatz 1 und 4 des Energiesteuergesetzes, § 53a Absatz 6 des Energiesteuergesetzes, § 54 des Energiesteuergesetzes, § 55 des Energiesteuergesetzes, § 56 des Energiesteuergesetzes, § 57 des Energiesteuergesetzes, § 9b des Stromsteuergesetzes, § 9c des Stromsteuergesetzes, § 10 des Stromsteuergesetzes, § 12c der Stromsteuer-Durchführungsverordnung, § 12d der Stromsteuer-Durchführungsverordnung und § 14a der Stromsteuer-Durchführungsverordnung.

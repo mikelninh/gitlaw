@@ -8,7 +8,7 @@
 
 ### Eingangsformel
 
-Auf Grund des § 14 Abs. 1 Nr. 3 Buchstabe a und c, des § 17 Abs. 1 Nr. 1 Buchstabe a bis c sowie Abs. 5 des  Chemikaliengesetzes in der Fassung der Bekanntmachung vom 20. Juni 2002 (BGBl. I S. 2090) verordnet die Bundesregierung nach Anhörung der beteiligten Kreise:
+Auf Grund des § 14 Abs. 1 Nr. 3 Buchstabe a und c, des § 17 Abs. 1 Nr. 1 Buchstabe a bis c sowie Abs. 5 des Chemikaliengesetzes in der Fassung der Bekanntmachung vom 20. Juni 2002 (BGBl. I S. 2090) verordnet die Bundesregierung nach Anhörung der beteiligten Kreise:
 
 ### § 1 — Zweck und Anwendungsbereich
 
@@ -16,49 +16,49 @@ Zweck dieser Verordnung ist es, den Gehalt an flüchtigen organischen Verbindung
 
 ### § 2 — Begriffsbestimmungen
 
-Im Sinne dieser Verordnung bezeichnet der Ausdruck Im Übrigen gelten die Begriffsbestimmungen des Chemikaliengesetzes.
+Im Sinne dieser Verordnung bezeichnet der Ausdruck
 
-1.
+1. Gebäude: selbständig benutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können und geeignet oder bestimmt sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen;
 
-2.
+2. Bauteile: hierzu zählen u. a. Fertigteile, Fenster, Türen, Zargen, Fußböden und Treppen, nicht hingegen Möbel;
 
-3.
+3. dekorative Bauelemente: Stuck, Vertäfelungen, nichttragende dekorative Säulen und andere Bauelemente, die der Dekoration von Gebäuden dienen;
 
-4.
+4. Beschichtungsstoffe: Gemische, die dazu verwendet werden, auf einer Oberfläche einen Film mit dekorativer, schützender oder sonstiger funktionaler Wirkung zu erzielen; in einem Gemisch enthaltene organische Lösemittel sowie vor Gebrauch zuzugebende organische Lösemittel sind Teil der Beschichtungsstoffe;
 
-5.
+5. Beschichtungsstoffe auf Lösemittelbasis (Lb): Beschichtungsstoffe, deren Viskosität mit Hilfe von Lösemitteln eingestellt wird;
 
-6.
+6. Beschichtungsstoffe auf Wasserbasis (Wb): Beschichtungsstoffe, deren Viskosität mit Hilfe von Wasser eingestellt wird;
 
-7.
+7. Farben und Lacke: die in Anhang I Ziffer 1 aufgeführten gebrauchsfertigen Produkte, mit Ausnahme von Aerosolen, zur Beschichtung von Gebäuden, ihren Bauteilen und dekorativen Bauelementen zu dekorativen, schützenden oder sonstigen funktionalen Zwecken;
 
-8.
+8. Film: eine zusammenhängende Beschichtung, die durch die Aufbringung einer oder mehrerer Schichten auf ein Substrat entsteht;
 
-9.
+9. flüchtige organische Verbindung (VOC): eine organische Verbindung mit einem Anfangssiedepunkt von höchstens 250 Grad C bei einem Standarddruck von 101,3 kPa.;
 
-10.
+10. organisches Lösemittel: eine flüchtige organische Verbindung, die allein oder in Verbindung mit anderen Stoffen zur Auflösung oder Verdünnung von Rohstoffen, Stoffen und Gemischen oder Abfallstoffen, als Reinigungsmittel zur Auflösung von Verschmutzungen, als Dispersionsmittel, als Mittel zur Einstellung der Viskosität oder der Oberflächenspannung oder als Weichmacher oder Konservierungsstoff verwendet wird;
 
-11.
+11. organische Verbindung: eine Verbindung, die zumindest das Element Kohlenstoff und eines oder mehrere der Elemente Wasserstoff, Halogene, Sauerstoff, Schwefel, Phosphor, Silizium oder Stickstoff enthält, ausgenommen Kohlenstoffoxide sowie anorganische Karbonate und Bikarbonate;
 
-12.
+12. Produkte für die Fahrzeugreparaturlackierung: die in Anhang I Ziffer 2 aufgeführten Produkte zur Behandlung von Kraftfahrzeugen im Sinne der Richtlinie 70/156/EWG oder eines Teils dieser Kraftfahrzeuge im Zuge einer Reparatur, Konservierung oder Verschönerung außerhalb der Fertigungsanlagen;
 
-13.
+13. VOC-Gehalt: die in Gramm pro Liter (g/l) ausgedrückte Masse flüchtiger organischer Verbindungen in dem gebrauchsfertigen Gemisch, wobei die Masse flüchtiger organischer Verbindungen in einem Gemisch, die während der Trocknung chemisch reagieren und somit einen Bestandteil der Beschichtung bilden, nicht als Teil des VOC-Gehalts gilt.
 
 ### § 3 — Verbote
 
-(1) In Anhang I aufgeführte mit einem Gehalt an flüchtigen organischen Verbindungen des gebrauchsfertigen Produkts oberhalb der in Anhang II festgelegten Grenzwerte dürfen ab den in Anhang II genannten Zeitpunkten nicht in den Verkehr gebracht werden. Satz 1 gilt nicht für den Export in Staaten außerhalb der Europäischen Union oder für den Transitverkehr unter zollamtlicher Überwachung, bei dem keine Be- oder Verarbeitung erfolgt.
+(1) In Anhang I aufgeführte
 
-a)
+a) Farben und Lacke zur Beschichtung von Gebäuden, ihren Bauteilen und dekorativen Bauelementen sowie
 
-b)
+b) Produkte für die Fahrzeugreparaturlackierung
 
 (2) Zur Überprüfung der Einhaltung der in Anhang II festgelegten Grenzwerte für den Gehalt an flüchtigen organischen Verbindungen sind die in Anhang III genannten Analysemethoden zu verwenden.
 
 (3) Abweichend von Absatz 1 dürfen gebrauchsfertige Produkte, die die Grenzwerte des Anhangs II für flüchtige organische Verbindungen nicht einhalten, in den Verkehr gebracht werden zum Zwecke der
 
-a)
+a) ausschließlichen Verwendung im Rahmen einer von der Verordnung zur Begrenzung der Emissionen flüchtiger organischer Verbindungen bei der Verwendung organischer Lösemittel in bestimmten Anlagen erfassten Tätigkeit, soweit diese in einer nach § 5 Abs. 2 dieser Verordnung angezeigten Anlage oder in einer nach § 4 des Bundes-Immissionsschutzgesetzes genehmigten Anlage durchgeführt wird, und
 
-b)
+b) Restaurierung und Unterhaltung von Gebäuden, ihren Bauteilen und dekorativen Bauelementen sowie von Oldtimer-Fahrzeugen, die als historisch und kulturell besonders wertvoll eingestuft sind. Der Kauf und Verkauf von streng begrenzten Mengen dieser Stoffe und Gemische bedarf im Einzelfall der Erlaubnis der zuständigen Behörde.
 
 (4) Stoffe und Gemische, die vor den in Anhang II festgelegten Zeitpunkten hergestellt wurden und die Anforderungen des Absatzes 1 nicht erfüllen, dürfen bis zu zwölf Monate nach dem Inkrafttreten der für die betreffenden Stoffe und Gemische geltenden Anforderung in den Verkehr gebracht werden.
 
@@ -66,9 +66,9 @@ b)
 
 Der Hersteller oder Einführer hat die in Anhang I aufgeführten gebrauchsfertigen Produkte vor dem Inverkehrbringen, unbeschadet anderer Kennzeichnungsvorschriften, mit einem Etikett zu versehen, auf dem folgende Angaben waagerecht und deutlich lesbar anzubringen sind:
 
-a)
+a) die Produktkategorie des gebrauchsfertigen Produktes und die entsprechenden Grenzwerte für flüchtige organische Verbindungen in g/l gemäß Anhang II;
 
-b)
+b) der maximale Gehalt an flüchtigen organischen Verbindungen des gebrauchsfertigen Produktes in g/l. Satz 1 gilt nicht, soweit ein Einführer lediglich einen Transitverkehr unter zollamtlicher Überwachung durchführt, bei dem keine Be- oder Verarbeitung erfolgt.
 
 ### § 5 — Überprüfung der Einhaltung der Verordnung
 
@@ -94,62 +94,12 @@ Der Bundesrat hat zugestimmt.
 
 ### Anhang I — Geregelte gebrauchsfertige Produkte
 
-Fundstelle des Originaltextes: BGBl. I 2004, 3511 - 3512;
+1. Farben und Lacke zur Beschichtung von Gebäuden, ihren Bauteilen und dekorativen Bauelementena)"Matte Beschichtungsstoffe für Innenwände und -decken" sind solche, die eine Glanzmaßzahl von <= 25 Einheiten im 60 Grad Messwinkel aufweisen. b)"Glänzende Beschichtungsstoffe für Innenwände und -decken" sind solche, die eine Glanzmaßzahl von > 25 Einheiten im 60 Grad Messwinkel aufweisen. c)"Beschichtungsstoffe für Außenwände aus mineralischen Baustoffen" sind Beschichtungsstoffe für Mauerwerk, Backsteinwände oder Gipswände. Diese Wände können mit Putz oder anderen Stoffen vorbeschichtet sein. d)"Beschichtungsstoffe für Holz-, Metall- oder Kunststoffe für Gebäude, ihren Bauteilen und dekorativen Bauelementen (innen und außen)" sind deckende Beschichtungsstoffe, einschließlich Grund- und Zwischenbeschichtungsstoffe e)"Klarlacke und Lasuren für Gebäude, ihren Bauteilen und dekorativen Bauelementen (innen und außen)" sind transparente oder halbtransparente Beschichtungsstoffe, die zu Dekorations- und Schutzzwecken auf Holz, Metallen und Kunststoffen aufgetragen werden, einschließlich so genannter deckender Lasuren, die eine deckende Beschichtung gemäß der Norm EN 927 - 1 ergeben und zu Dekorationszwecken oder zum Schutz des Holzes vor Witterungseinflüssen dienen. f)"Minimal filmbildende Lasuren" sind Holzlasuren, die gemäß der Norm EN 927 - 1: 1996 eine durchschnittliche Trockenschichtdicke von weniger als 5 my haben (Prüfung gemäß ISO 2808: 1997, Verfahren 5A). g)"Absperrende Grundbeschichtungsstoffe" sind Beschichtungsstoffe mit Versiegelungs- oder absperrenden Eigenschaften zur Anwendung auf Holz, Wänden oder Decken. h)"Verfestigende Grundbeschichtungsstoffe" sind Beschichtungsstoffe zur Stabilisierung loser Substratpartikel, zur Übertragung hydrophober Eigenschaften oder zum Schutz des Holzes vor Bläuepilzbefall. i)"Einkomponenten-Speziallacke" sind Beschichtungsstoffe auf der Grundlage von filmbildenden Stoffen. Sie werden verwendet als Grundbeschichtungsstoffe, Decklacke für Kunststoffe, Grundbeschichtungsstoffe für Eisensubstrate und reaktive Metalle wie Zink und Aluminium, als Korrosionsschutzbeschichtungsstoffe, zur Bodenbeschichtung, einschließlich für Holz- und Betonböden, als Graffitischutz Beschichtungen mit flammhemmender Wirkung und für Beschichtungen zur Einhaltung von Hygienenormen in der Lebensmittel- und Getränkeindustrie oder in Gesundheitseinrichtungen sowie als Beschichtungsstoffe für spezielle militärische Anwendungen. j)"Zweikomponenten-Speziallacke" sind Beschichtungsstoffe für die gleichen Zwecke wie Einkomponenten-Speziallacke, wobei jedoch vor der Anwendung eine zweite Komponente hinzugefügt wird. k)"Multicolorbeschichtungsstoffe" sind Beschichtungsstoffe zur Erzielung eines Zwei- oder Mehrfarbeneffekts direkt bei der ersten Anwendung. l)"Beschichtungsstoffe für Dekorationseffekte" sind Beschichtungsstoffe zur Erzielung besonderer ästhetischer Effekte auf speziell vorbereiteten, vorgestrichenen Substraten oder Grundbeschichtungen, die anschließend währen der Trocknungsphase mit verschiedenen Werkzeugen behandelt werden. "Matte Beschichtungsstoffe für Innenwände und -decken" sind solche, die eine Glanzmaßzahl von <= 25 Einheiten im 60 Grad Messwinkel aufweisen. "Glänzende Beschichtungsstoffe für Innenwände und -decken" sind solche, die eine Glanzmaßzahl von > 25 Einheiten im 60 Grad Messwinkel aufweisen. "Beschichtungsstoffe für Außenwände aus mineralischen Baustoffen" sind Beschichtungsstoffe für Mauerwerk, Backsteinwände oder Gipswände. Diese Wände können mit Putz oder anderen Stoffen vorbeschichtet sein. "Beschichtungsstoffe für Holz-, Metall- oder Kunststoffe für Gebäude, ihren Bauteilen und dekorativen Bauelementen (innen und außen)" sind deckende Beschichtungsstoffe, einschließlich Grund- und Zwischenbeschichtungsstoffe "Klarlacke und Lasuren für Gebäude, ihren Bauteilen und dekorativen Bauelementen (innen und außen)" sind transparente oder halbtransparente Beschichtungsstoffe, die zu Dekorations- und Schutzzwecken auf Holz, Metallen und Kunststoffen aufgetragen werden, einschließlich so genannter deckender Lasuren, die eine deckende Beschichtung gemäß der Norm EN 927 - 1 ergeben und zu Dekorationszwecken oder zum Schutz des Holzes vor Witterungseinflüssen dienen. "Minimal filmbildende Lasuren" sind Holzlasuren, die gemäß der Norm EN 927 - 1: 1996 eine durchschnittliche Trockenschichtdicke von weniger als 5 my haben (Prüfung gemäß ISO 2808: 1997, Verfahren 5A). "Absperrende Grundbeschichtungsstoffe" sind Beschichtungsstoffe mit Versiegelungs- oder absperrenden Eigenschaften zur Anwendung auf Holz, Wänden oder Decken. "Verfestigende Grundbeschichtungsstoffe" sind Beschichtungsstoffe zur Stabilisierung loser Substratpartikel, zur Übertragung hydrophober Eigenschaften oder zum Schutz des Holzes vor Bläuepilzbefall. "Einkomponenten-Speziallacke" sind Beschichtungsstoffe auf der Grundlage von filmbildenden Stoffen. Sie werden verwendet als Grundbeschichtungsstoffe, Decklacke für Kunststoffe, Grundbeschichtungsstoffe für Eisensubstrate und reaktive Metalle wie Zink und Aluminium, als Korrosionsschutzbeschichtungsstoffe, zur Bodenbeschichtung, einschließlich für Holz- und Betonböden, als Graffitischutz Beschichtungen mit flammhemmender Wirkung und für Beschichtungen zur Einhaltung von Hygienenormen in der Lebensmittel- und Getränkeindustrie oder in Gesundheitseinrichtungen sowie als Beschichtungsstoffe für spezielle militärische Anwendungen. "Zweikomponenten-Speziallacke" sind Beschichtungsstoffe für die gleichen Zwecke wie Einkomponenten-Speziallacke, wobei jedoch vor der Anwendung eine zweite Komponente hinzugefügt wird. "Multicolorbeschichtungsstoffe" sind Beschichtungsstoffe zur Erzielung eines Zwei- oder Mehrfarbeneffekts direkt bei der ersten Anwendung. "Beschichtungsstoffe für Dekorationseffekte" sind Beschichtungsstoffe zur Erzielung besonderer ästhetischer Effekte auf speziell vorbereiteten, vorgestrichenen Substraten oder Grundbeschichtungen, die anschließend währen der Trocknungsphase mit verschiedenen Werkzeugen behandelt werden.
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-a)
-
-b)
-
-c)
-
-aa)
-
-bb)
-
-cc)
-
-d)
-
-e)
+2. Produkte für die Fahrzeugreparaturlackierunga)"Vorbereitungs- und Reinigungsprodukte" sind Produkte zur mechanischen oder chemischen Entfernung von alten Beschichtungen und Rost oder zur Vorbereitung neuer Beschichtungen. Vorbereitungsprodukte umfassen Gerätereiniger (Produkte zur Reinigung von Sprühpistolen und anderen Geräten), Lackentferner, Entfettungsmittel (einschließlich antistatischer Mittel für Kunststoffe) und Silikonentferner. Vorreiniger sind Produkte, die vor der Aufbringung von Beschichtungsmitteln zur Entfernung der Oberflächenverschmutzung verwendet werden. b)"Spachtel und Spritzspachtel" sind pastöse oder dickflüssige Produkte, die aufgebracht werden, um vor dem Auftragen des Füllers tiefe Unebenheiten des Untergrundes aufzufüllen. c)Nachfolgend aufgeführte "Grundbeschichtungsstoffe" sind Beschichtungsstoffe zum Korrosionsschutz, die vor Auftragen einer Vorbeschichtung auf blanke metallische Oberflächen oder bereits vorhandenen Beschichtungen aufgebracht werden:aa)"Füller", die unmittelbar vor Auftragen des Decklacks zur Verbesserung der Korrosionsbeständigkeit und des Haftvermögens des Decklacks sowie zur Bildung einer einheitlichen Oberfläche durch Korrektur geringfügiger Oberflächenunebenheiten aufgebracht werden, bb)"Grundbeschichtungsstoffe" für Grundierungen, wie Haftverbesserer, Versiegelungsmittel, Zwischenlacke (Sealer), Kunststoffgrundbeschichtungsstoffe, Nass-in-Nass-Füller und Schleiffüller sowie cc)"Wash-Primer" mit einem Anteil von mindestens 0,5 Gewichtsprozent Phosphorsäure, die direkt auf blanke metallische Oberflächen aufgebracht werden und Korrosionsbeständigkeit und Haftvermögen verleihen einschließlich Beschichtungsstoffe, die als schweißbare Grundierungen oder Beizmittel (galvanisiertes Metall und Zink) verwendet werden. d)"Decklacke" sind pigmentierte Beschichtungsstoffe, die als Ein- oder Mehrschichtlacke Glanz und Dauerhaftigkeit verleihen. Hierunter fallen alle bei der Lackierung verwendeten Produkte wie zum Beispiel Basis- und Klarlacke. Bei einem "Basislack" handelt es sich um einen pigmentierten Beschichtungsstoff, der der Farbgabe und den optischen Effekten, nicht jedoch dem Glanz oder der Widerstandsfähigkeit der Gesamtlackierung dient. "Klarlacke" sind transparente Beschichtungsstoffe, die der Gesamtlackierung Glanz und Widerstandsfähigkeit verleihen. e)"Speziallacke" sind Beschichtungsstoffe, die als Einschichtdecklack besondere Eigenschaften wie Metall- oder Perleffekte verleihen, unifarbige oder transparente Hochleistungslacke (z. B. kratzfeste Klarlacke), reflektierende Basislacke, Struktureffektlacke (z. B. Narbeneffektlacke), rutschhemmende Beschichtungen, Unterbodenversiegelungsmittel, Schutzlacke gegen Steinschlag, Lacke für die Innenlackierung, Beschichtungsstoffe für spezielle militärische Anwendungen und Lacke in Sprühdosen (Aerosole). "Vorbereitungs- und Reinigungsprodukte" sind Produkte zur mechanischen oder chemischen Entfernung von alten Beschichtungen und Rost oder zur Vorbereitung neuer Beschichtungen. Vorbereitungsprodukte umfassen Gerätereiniger (Produkte zur Reinigung von Sprühpistolen und anderen Geräten), Lackentferner, Entfettungsmittel (einschließlich antistatischer Mittel für Kunststoffe) und Silikonentferner. Vorreiniger sind Produkte, die vor der Aufbringung von Beschichtungsmitteln zur Entfernung der Oberflächenverschmutzung verwendet werden. "Spachtel und Spritzspachtel" sind pastöse oder dickflüssige Produkte, die aufgebracht werden, um vor dem Auftragen des Füllers tiefe Unebenheiten des Untergrundes aufzufüllen. Nachfolgend aufgeführte "Grundbeschichtungsstoffe" sind Beschichtungsstoffe zum Korrosionsschutz, die vor Auftragen einer Vorbeschichtung auf blanke metallische Oberflächen oder bereits vorhandenen Beschichtungen aufgebracht werden:aa)"Füller", die unmittelbar vor Auftragen des Decklacks zur Verbesserung der Korrosionsbeständigkeit und des Haftvermögens des Decklacks sowie zur Bildung einer einheitlichen Oberfläche durch Korrektur geringfügiger Oberflächenunebenheiten aufgebracht werden, bb)"Grundbeschichtungsstoffe" für Grundierungen, wie Haftverbesserer, Versiegelungsmittel, Zwischenlacke (Sealer), Kunststoffgrundbeschichtungsstoffe, Nass-in-Nass-Füller und Schleiffüller sowie cc)"Wash-Primer" mit einem Anteil von mindestens 0,5 Gewichtsprozent Phosphorsäure, die direkt auf blanke metallische Oberflächen aufgebracht werden und Korrosionsbeständigkeit und Haftvermögen verleihen einschließlich Beschichtungsstoffe, die als schweißbare Grundierungen oder Beizmittel (galvanisiertes Metall und Zink) verwendet werden. "Füller", die unmittelbar vor Auftragen des Decklacks zur Verbesserung der Korrosionsbeständigkeit und des Haftvermögens des Decklacks sowie zur Bildung einer einheitlichen Oberfläche durch Korrektur geringfügiger Oberflächenunebenheiten aufgebracht werden, "Grundbeschichtungsstoffe" für Grundierungen, wie Haftverbesserer, Versiegelungsmittel, Zwischenlacke (Sealer), Kunststoffgrundbeschichtungsstoffe, Nass-in-Nass-Füller und Schleiffüller sowie "Wash-Primer" mit einem Anteil von mindestens 0,5 Gewichtsprozent Phosphorsäure, die direkt auf blanke metallische Oberflächen aufgebracht werden und Korrosionsbeständigkeit und Haftvermögen verleihen einschließlich Beschichtungsstoffe, die als schweißbare Grundierungen oder Beizmittel (galvanisiertes Metall und Zink) verwendet werden. "Decklacke" sind pigmentierte Beschichtungsstoffe, die als Ein- oder Mehrschichtlacke Glanz und Dauerhaftigkeit verleihen. Hierunter fallen alle bei der Lackierung verwendeten Produkte wie zum Beispiel Basis- und Klarlacke. Bei einem "Basislack" handelt es sich um einen pigmentierten Beschichtungsstoff, der der Farbgabe und den optischen Effekten, nicht jedoch dem Glanz oder der Widerstandsfähigkeit der Gesamtlackierung dient. "Klarlacke" sind transparente Beschichtungsstoffe, die der Gesamtlackierung Glanz und Widerstandsfähigkeit verleihen. "Speziallacke" sind Beschichtungsstoffe, die als Einschichtdecklack besondere Eigenschaften wie Metall- oder Perleffekte verleihen, unifarbige oder transparente Hochleistungslacke (z. B. kratzfeste Klarlacke), reflektierende Basislacke, Struktureffektlacke (z. B. Narbeneffektlacke), rutschhemmende Beschichtungen, Unterbodenversiegelungsmittel, Schutzlacke gegen Steinschlag, Lacke für die Innenlackierung, Beschichtungsstoffe für spezielle militärische Anwendungen und Lacke in Sprühdosen (Aerosole).
 
 ### Anhang II — Grenzwerte für den VOC-Höchstgehalt
 
-(Fundstelle: BGBl. I 2004, 3513 - 3514;
-
-Start: BJNR350800004BJNE001201308_01Ende: BJNR350800004BJNE001201308_01Start: BJNR350800004BJNE001201308_02Ende: BJNR350800004BJNE001201308_02
-
-1.
-
-*)
-
-2.
-
-*)
+1. Grenzwerte für den VOC-Höchstgehalt von Farben und Lacken zur Beschichtung von Gebäuden, dekorativen Bauelementen und Bauteilen zu dekorativen, funktionalen oder schützenden Zwecken
 
 ### Anhang III — Methoden gemäß § 3 Absatz 2
-
-Zulässige Methode für Erzeugnisse mit einem VOC-Gehalt von weniger als 15 Massenhundertteilen, wenn keine reaktiven Verdünnungsmittel vorhanden sind: Zulässige Methoden für Produkte mit einem VOC-Gehalt von wenigstens 15 Massenhundertteilen, wenn keine reaktiven Verdünnungsmittel vorhanden sind: Zulässige Methode für VOC-haltige Produkte, wenn reaktive Verdünnungsmittel vorhanden sind:

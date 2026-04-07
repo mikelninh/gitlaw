@@ -26,13 +26,13 @@ Angestelltenversicherungs-Neuregelungsgesetzes
 
 ### § 2
 
-(1) § 8 des Fremdrentengesetzes in der vor dem 1. August 1991 geltenden Fassung findet weiter Anwendung auf Berechtigte, die Für Berechtigte nach Satz 1 Buchstabe b findet § 8a des Fremdrentengesetzes keine Anwendung.
+(1) § 8 des Fremdrentengesetzes in der vor dem 1. August 1991 geltenden Fassung findet weiter Anwendung auf Berechtigte, die
 
-a)
+a) vor dem 1. Januar 1991 ihren gewöhnlichen Aufenthalt im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet genommen haben oder
 
-b)
+b) nach Maßgabe des Abkommens vom 8. Dezember 1990 zwischen der Bundesrepublik Deutschland und der Republik Polen über Soziale Sicherheit Ansprüche auf der Grundlage des Abkommens vom 9. Oktober 1975 zwischen der Bundesrepublik Deutschland und der Volksrepublik Polen über Renten- und Unfallversicherung haben oder
 
-c)
+c) nach dem 31. Dezember 1990 ihren gewöhnlichen Aufenthalt im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet genommen haben und vor dem 1. August 1991 bereits einen Anspruch auf Zahlung einer Rente nach dem Fremdrentengesetz erworben haben.
 
 (1a) § 2 Satz 1 Buchstabe a des Fremdrentengesetzes gilt nicht für Arbeitsunfälle und Berufskrankheiten, wenn für die Entscheidung über die Entschädigung eine Stelle in Estland, Lettland oder Litauen nach dem 30. April 2004 zuständig ist.
 
@@ -84,23 +84,23 @@ c)
 
 (1) Für Berechtigte, die vor dem 7. Mai 1996 ihren gewöhnlichen Aufenthalt im Gebiet der Bundesrepublik Deutschland genommen haben und deren Rente vor dem 1. Oktober 1996 beginnt, sind für die Berechnung dieser Rente das § 22 Abs. 3 des Fremdrentengesetzes in der bis zum 31. Dezember 1991 geltenden Fassung und § 22 Abs. 4 des Fremdrentengesetzes in der ab dem 1. Januar 1992 geltenden Fassung sowie § 4 Abs. 5 und 7 in der am 6. Mai 1996 geltenden Fassung anzuwenden.
 
-(2) Für Berechtigte, wird für diese Rente einmalig zum Rentenbeginn ein Zuschlag an persönlichen Entgeltpunkten ermittelt. Der Zuschlag an persönlichen Entgeltpunkten ergibt sich aus der Differenz zwischen der mit und ohne Anwendung von § 22 Abs. 4 des Fremdrentengesetzes ermittelten Summe aller persönlichen Entgeltpunkte. Dieser Zuschlag wird monatlich für die Zeit des Rentenbezuges vom 1. Oktober 1996 bis 30. Juni 1997 voll, vom 1. Juli 1997 bis 30. Juni 1998 zu drei Vierteln, vom 1. Juli 1998 bis 30. Juni 1999 zur Hälfte und vom 1. Juli 1999 bis 30. Juni 2000 zu einem Viertel gezahlt. Für die Zeit des Rentenbezuges ab 1. Juli 2000 wird der Zuschlag nicht gezahlt. § 88 des Sechsten Buches Sozialgesetzbuch findet keine Anwendung. § 44 Abs. 4 des Zehnten Buches Sozialgesetzbuch findet Anwendung.
+(2) Für Berechtigte,
 
-1.
+1. die vor dem 1. Januar 1991 ihren gewöhnlichen Aufenthalt im Gebiet der Bundesrepublik Deutschland genommen haben,
 
-2.
+2. deren Rente nach dem 30. September 1996 beginnt und
 
-3.
+3. über deren Rentenantrag oder über deren bis 31. Dezember 2004 gestellten Antrag auf Rücknahme des Rentenbescheides am 30. Juni 2006 noch nicht rechtskräftig entschieden worden ist,
 
 ### § 5
 
-(1) Werden Zeiten der in §§ 15 und 16 des Fremdrentengesetzes genannten Art angerechnet, so sind zur Ermittlung der Entgeltpunkte nach Maßgabe der Anlage 1 des Fremdrentengesetzes zugrunde zu legen. Für Zeiten vor dem 1. Januar 1913, die der Rentenversicherung der Angestellten zuzuordnen sind, wird die Zahl der Beitrags- und Beschäftigungsmonate mit einem Hundertstel der Werte vervielfältigt, die für die einzelnen Klassen und die einzelnen Zeiträume in der Tabelle der Anlage 16 des Fremdrentengesetzes angegeben sind.
+(1) Werden Zeiten der in §§ 15 und 16 des Fremdrentengesetzes genannten Art angerechnet, so sind zur Ermittlung der Entgeltpunkte nach Maßgabe der Anlage 1 des Fremdrentengesetzes
 
-a)
+a) für Zeiten bis zum 28. Juni 1942 für jede Woche die Lohn- und Beitragsklassen der Tabellen der Anlage 4 oder 6 des Fremdrentengesetzes und für Zeiten vom 29. Juni 1942 an die Bruttojahresarbeitsentgelte der Tabellen der Anlage 5 oder 7 des Fremdrentengesetzes, wenn die Zeiten der Rentenversicherung der Arbeiter zuzuordnen sind,
 
-b)
+b) für Zeiten bis zum 30. Juni 1942 für jeden Monat die Gehalts- oder Beitragsklassen der Tabellen der Anlage 8 oder 10 des Fremdrentengesetzes und für Zeiten vom 1. Juli 1942 an die Bruttojahresarbeitsentgelte der Tabellen der Anlage 9 oder 11 des Fremdrentengesetzes, wenn die Zeiten der Rentenversicherung der Angestellten zuzuordnen sind,
 
-c)
+c) für Zeiten bis zum 31. Dezember 1942 für jeden Monat die Beitrags- oder Gehaltsklassen der Tabellen der Anlage 12 oder 14 des Fremdrentengesetzes und für Zeiten vom 1. Januar 1943 an die Bruttojahresarbeitsentgelte der Tabellen der Anlage 13 oder 15 des Fremdrentengesetzes, wenn die Zeiten der knappschaftlichen Rentenversicherung zuzuordnen sind,
 
 (2) Bei Seeleuten sind die für die verschiedenen Dienststellungen jeweils amtlich festgesetzten Beitragsklassen und Durchschnittsheuern zugrunde zu legen. Dies gilt auch für Arbeitnehmer in Kleinbetrieben der Seefischerei für Zeiten nach dem 31. Dezember 1939.
 
@@ -156,15 +156,15 @@ Angestellte, die vor dem 9. Mai 1945 im Dienst des Deutschen Reichs einschließl
 
 (2) Absatz 1 gilt nicht für Personen, die
 
-1.
+1. auf Grund eines Dienst- oder Arbeitsverhältnisses einen Anspruch oder eine Anwartschaft auf lebenslängliche Alters- und Hinterbliebenenversorgung haben, bei deren Bemessung die der Nachversicherung nach Absatz 1 zugrunde zu legenden Dienstzeiten berücksichtigt werden,
 
-2.
+2. bei Inkrafttreten dieses Gesetzes ihren Wohnsitz oder dauernden Aufenthalt außerhalb des Geltungsbereichs dieses Gesetzes haben,
 
-3.
+3. nach dem 8. Mai 1945 durch ein deutsches Gericht im Geltungsbereich dieses Gesetzes zu einer Freiheitsstrafe von mehr als einem Jahr oder wegen einer vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat, Hochverrat, Gefährdung des demokratischen Rechtsstaats oder Landesverrat und Gefährdung der äußeren Sicherheit strafbar ist, zu einer Freiheitsstrafe von sechs Monaten oder längerer Dauer verurteilt worden sind,
 
-4.
+4. durch ihr Verhalten gegen die Grundsätze der Menschlichkeit oder Rechtsstaatlichkeit verstoßen haben,
 
-5.
+5. sich gegen die freiheitliche demokratische Grundordnung der Bundesrepublik Deutschland oder des Landes Berlin betätigt haben.
 
 (3) § 72 Abs. 2 bis 6, 10 und 11 sowie § 81a des Gesetzes zu Artikel 131 des Grundgesetzes gelten entsprechend.
 
@@ -176,13 +176,11 @@ Angestellte, die vor dem 9. Mai 1945 im Dienst des Deutschen Reichs einschließl
 
 ### § 23
 
-(1) Die in § 1 Buchstabe d des Fremdrentengesetzes genannten Personen, die während des Krieges als ausländische Arbeitskräfte im Gebiet des Deutschen Reichs beschäftigt waren, gelten für die Zeiten als nachversichert, Satz 1 gilt auch für den Fall des Todes, wenn rentenberechtigte Hinterbliebene vorhanden sind.
+(1) Die in § 1 Buchstabe d des Fremdrentengesetzes genannten Personen, die während des Krieges als ausländische Arbeitskräfte im Gebiet des Deutschen Reichs beschäftigt waren, gelten für die Zeiten als nachversichert,
 
-a)
+a) in denen sie der Versicherungspflicht unterlegen haben, ohne daß für sie Beiträge zu den gesetzlichen Rentenversicherungen entrichtet worden sind oder als entrichtet gelten,
 
-b)
-
-(2) Die Nachversicherung gilt als durchgeführt in den Fällen des Absatzes 1 Buchstabe a in dem Zweig der gesetzlichen Rentenversicherungen, in dem die Versicherungspflicht bestanden hat, in den Fällen des Absatzes 1 Buchstabe b in dem Zweig der gesetzlichen Rentenversicherungen, in dem die Versicherungspflicht bestanden hätte, wenn der Beschäftigte nicht als Ausländer von der Versicherungspflicht ausgenommen gewesen wäre.
+b) in denen sie der Versicherungspflicht unterlegen hätten, wenn sie nicht als Ausländer von der Versicherungspflicht ausgenommen gewesen wären.
 
 (3) Soweit eine Nachversicherung als durchgeführt gilt, gelten die daraus erworbenen Anwartschaften sowie Anwartschaften aus Beiträgen, die für Zeiten entrichtet worden sind, die vor den in Absatz 1 genannten Zeiten liegen, als bis zum 31. Dezember 1956 erhalten.
 
@@ -214,7 +212,13 @@ Dieses Gesetz gilt nicht im Saarland.
 
 ### § 3
 
-(1) Dieses Gesetz tritt mit Wirkung vom 1. Januar 1959 in Kraft.Mit dem gleichen Zeitpunkt treten unbeschadet der Absätze 2 und 3 alle ihm entgegenstehenden und inhaltsgleichen Vorschriften außer Kraft, insbesondere folgende Verordnungen und Bekanntmachungen mit den zu ihrer Änderung, Ergänzung und Durchführung erlassenen Verordnungen, Erlassen und Bekanntmachungen:
+(1) Dieses Gesetz tritt mit Wirkung vom 1. Januar 1959 in Kraft.
+
+a) bis p) ...
+
+q) Verordnung über die Eingliederung von Umsiedlern in die Reichsversicherung vom 19. Juni 1943 (Reichsgesetzbl. I S. 375),
+
+r) bis u) ...
 
 (2) (weggefallen)
 

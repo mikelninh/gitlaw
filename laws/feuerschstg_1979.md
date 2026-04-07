@@ -10,13 +10,13 @@
 
 ### § 1 — Gegenstand der Steuer
 
-(1) Der Feuerschutzsteuer unterliegt die Entgegennahme des Versicherungsentgelts nur aus den folgenden Versicherungen, wenn die versicherten Gegenstände sich bei der Entgegennahme des Versicherungsentgelts im Geltungsbereich dieses Gesetzes befinden: Das Versicherungsentgelt aus Versicherungen, die nicht in Satz 1 Nummer 1 bis 3 genannt werden, die jedoch teilweise auf Gefahren entfallen, die Gegenstand einer Feuerversicherung sein können, unterliegt nicht der Feuerschutzsteuer.
+(1) Der Feuerschutzsteuer unterliegt die Entgegennahme des Versicherungsentgelts nur aus den folgenden Versicherungen, wenn die versicherten Gegenstände sich bei der Entgegennahme des Versicherungsentgelts im Geltungsbereich dieses Gesetzes befinden:
 
-1.
+1. Feuerversicherungen einschließlich Feuer-Betriebsunterbrechungsversicherungen,
 
-2.
+2. Wohngebäudeversicherungen, bei denen die Versicherung teilweise auf Gefahren entfällt, die Gegenstand einer Feuerversicherung sein können,
 
-3.
+3. Hausratversicherungen, bei denen die Versicherung teilweise auf Gefahren entfällt, die Gegenstand einer Feuerversicherung sein können.
 
 (2) Eine Versicherung im Sinne des Absatzes 1 wird auch begründet, wenn zwischen mehreren Personen oder Personenvereinigungen vereinbart wird, solche Schäden gemeinsam zu tragen, die den Gegenstand einer Versicherung im Sinne des Absatzes 1 bilden können.
 
@@ -32,11 +32,11 @@
 
 (1) Bemessungsgrundlage ist
 
-1.
+1. bei Feuerversicherungen (§ 1 Absatz 1 Satz 1 Nummer 1) ein Anteil von 40 Prozent des Versicherungsentgelts,
 
-2.
+2. bei Wohngebäudeversicherungen (§ 1 Absatz 1 Satz 1 Nummer 2) ein Anteil von 14 Prozent des Gesamtbetrages des Versicherungsentgelts und
 
-3.
+3. bei Hausratversicherungen (§ 1 Absatz 1 Satz 1 Nummer 3) ein Anteil von 15 Prozent des Gesamtbetrages des Versicherungsentgelts.
 
 (2) Die Steuer ist von den Anteilen (Absatz 1 Nummer 1, 2 und 3) zu berechnen, die im Anmeldungszeitraum (§ 8 Absatz 2) vereinnahmt worden sind (Isteinnahmen). Wird das Versicherungsentgelt ganz oder zum Teil zurückgezahlt, weil das Versicherungsverhältnis vorzeitig beendet oder das Versicherungsentgelt herabgesetzt worden ist, so mindert sich die Bemessungsgrundlage um die auf die Anteile zurückgezahlten Versicherungsentgelte.
 
@@ -48,7 +48,7 @@
 
 ### § 3a — Ausnahme von der Besteuerung
 
-Von der Besteuerung ausgenommen ist die Zahlung des Versicherungsentgelts an Brandunterstützungsvereine, soweit die anlässlich eines einzelnen Schadensfalls erhobene Umlage den Betrag von 5 500 Euro nicht übersteigt.
+Von der Besteuerung ausgenommen ist die Zahlung des Versicherungsentgelts an Brandunterstützungsvereine, soweit die anlässlich eines einzelnen Schadensfalls erhobene Umlage den Betrag von 5 500 Euro nicht übersteigt.
 
 ### § 4 — Steuersatz
 
@@ -76,11 +76,11 @@ Die Steuer entsteht mit Ablauf des Monats, in dem das Versicherungsentgelt entge
 
 (1) Der Versicherer (§ 5 Abs. 1) oder der Bevollmächtigte (§ 5 Abs. 2) hat spätestens am fünfzehnten Tag nach Ablauf eines jeden Anmeldungszeitraums (Absatz 2)
 
-1.
+1. eine nach amtlich vorgeschriebenem Vordruck oder im Wege eines Automationsverfahrens des Bundes übermittelte Steuererklärung abzugeben, in der er die im Anmeldungszeitraum entstandene Steuer selbst zu berechnen hat (Steueranmeldung) und
 
-2.
+2. die im Anmeldungszeitraum entstandene Steuer zu entrichten.
 
-(2) Anmeldungszeitraum ist grundsätzlich der Kalendermonat. Hat die Steuer für das vorangegangene Kalenderjahr insgesamt nicht mehr als 2 400 Euro betragen, so ist Anmeldungszeitraum das Kalendervierteljahr. Hat die Steuer für das vorangegangene Kalenderjahr insgesamt nicht mehr als 400 Euro betragen, so ist Anmeldungszeitraum das Kalenderjahr.
+(2) Anmeldungszeitraum ist grundsätzlich der Kalendermonat. Hat die Steuer für das vorangegangene Kalenderjahr insgesamt nicht mehr als 2 400 Euro betragen, so ist Anmeldungszeitraum das Kalendervierteljahr. Hat die Steuer für das vorangegangene Kalenderjahr insgesamt nicht mehr als 400 Euro betragen, so ist Anmeldungszeitraum das Kalenderjahr.
 
 (3) Gibt der Versicherer oder der Bevollmächtigte bis zum Ablauf der Anmeldungsfrist die Steueranmeldung nicht ab, setzt das Bundeszentralamt für Steuern die Steuer fest. Als Zeitpunkt ihrer Fälligkeit gilt der fünfzehnte Tag nach Ablauf des Anmeldungszeitraums.
 
@@ -88,17 +88,17 @@ Die Steuer entsteht mit Ablauf des Monats, in dem das Versicherungsentgelt entge
 
 ### § 9 — Aufzeichnungspflichten und Außenprüfung
 
-(1) Der Versicherer (§ 5 Abs. 1) oder der Bevollmächtigte (§ 5 Abs. 2) ist verpflichtet, zur Feststellung der Steuer und der Grundlagen ihrer Berechnung Aufzeichnungen zu führen. Diese müssen alle Angaben enthalten, die für die Besteuerung von Bedeutung sind, insbesondere Ist das im Geltungsbereich dieses Gesetzes belegene Risiko von einem nicht in dessen Geltungsbereich niedergelassenen Versicherer gedeckt, so hat dieser dem Bundeszentralamt für Steuern auf Anforderung ein vollständiges Verzeichnis der sich auf diese Risiken beziehenden Versicherungsverhältnisse mit den in Satz 2 genannten Angaben schriftlich zu übermitteln. Diese Verpflichtung besteht auch dann, wenn der Versicherer die Voraussetzungen für die Steuerpflicht oder für die Steuerentrichtung nicht für gegeben hält.
+(1) Der Versicherer (§ 5 Abs. 1) oder der Bevollmächtigte (§ 5 Abs. 2) ist verpflichtet, zur Feststellung der Steuer und der Grundlagen ihrer Berechnung Aufzeichnungen zu führen. Diese müssen alle Angaben enthalten, die für die Besteuerung von Bedeutung sind, insbesondere
 
-1.
+1. den Namen und die Anschrift des Versicherungsnehmers,
 
-2.
+2. die Nummer des Versicherungsscheins,
 
-3.
+3. die Versicherungssumme,
 
-4.
+4. das Versicherungsentgelt,
 
-5.
+5. den Steuerbetrag.
 
 (2) Bei Personen und Personenvereinigungen, die Versicherungen vermitteln oder ermächtigt sind, für einen Versicherer Zahlungen entgegenzunehmen, ist zur Ermittlung oder Aufklärung von Vorgängen, die nach diesem Gesetz der Steuer unterliegen, eine Außenprüfung (§§ 193 bis 203 der Abgabenordnung) auch insoweit zulässig, als sie der Feststellung der steuerlichen Verhältnisse anderer Personen dient, die als Versicherungsnehmer nach § 5 Abs. 2 zur Entrichtung der Steuer verpflichtet sind.
 
@@ -114,15 +114,15 @@ Zuständig ist das Bundeszentralamt für Steuern.
 
 (1) Das Gesamtaufkommen der entrichteten Feuerschutzsteuer wird nach den Absätzen 2 und 3 zerlegt.
 
-(2) Die Zerlegungsanteile der einzelnen Länder am Gesamtaufkommen der Feuerschutzsteuer sind nach den folgenden Zerlegungsmaßstäben zu ermitteln: Dabei sind jeweils die am 1. Mai des dem Zerlegungsjahr folgenden Jahres beim Statistischen Bundesamt verfügbaren neuesten Daten zugrunde zu legen.
+(2) Die Zerlegungsanteile der einzelnen Länder am Gesamtaufkommen der Feuerschutzsteuer sind nach den folgenden Zerlegungsmaßstäben zu ermitteln:
 
-1.
+1. zu 30 vom Hundert entsprechend den Anteilen an der Bruttowertschöpfung aller Wirtschaftsbereiche abzüglich der Wertschöpfung der Wirtschaftsbereiche Land- und Forstwirtschaft, Fischerei, öffentliche und sonstige Dienstleister, Erziehung und Gesundheit sowie private Haushalte;
 
-2.
+2. zu 5 vom Hundert entsprechend den Anteilen an der Bruttowertschöpfung des Wirtschaftsbereiches Land- und Forstwirtschaft, Fischerei;
 
-3.
+3. zu 45 vom Hundert entsprechend den Anteilen an der Wohnbevölkerung zu 40 vom Hundert und den Anteilen am Bestand an Wohngebäuden zu 60 vom Hundert;
 
-4.
+4. zu 20 vom Hundert entsprechend den Anteilen an den Privathaushalten.
 
 (3) Die Zerlegung wird von der Finanzbehörde der Freien und Hansestadt Hamburg durchgeführt. Dabei sind unter Berücksichtigung des jeweiligen Vorjahresergebnisses Zerlegungsanteile festzulegen. Nach diesen Zerlegungsanteilen wird die durch das Bundeszentralamt für Steuern verwaltete Feuerschutzsteuer auf die Länder verteilt und entsprechend dem monatlichen Aufkommen in Teilbeträgen bis zum 15. des folgenden Monats an die Länder überwiesen. Bis zur Ermittlung der endgültigen Zerlegungsanteile für das Vorjahr sind die bisherigen Zerlegungsanteile vorläufig zu Grunde zu legen.
 

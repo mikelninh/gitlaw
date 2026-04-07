@@ -15,7 +15,11 @@ Die Schiffsschleusen am Main, Main-Donau-Kanal und an der Donau werden während 
 
 ### § 2
 
-(1) Von den Schiffsschleusen Obernau bis Regensburg werden im Nachtverkehr grundsätzlich nur Fahrzeuge der gewerblichen Schifffahrt nach Anmeldung geschleust. Einer solchen Anmeldung bedarf es nicht, wenn die Schleuse durch eine Fernsteuerzentrale fernbedient wird. Verfahren und Form der Anmeldung werden von der Wasser- und Schifffahrtsdirektion festgesetzt.(2) Fahrzeuge der gewerblichen sowie der nicht gewerblichen Schifffahrt können im Nachtverkehr mit den Fahrzeugen der angemeldeten gewerblichen Schifffahrt mitgeschleust werden, wenn sich daraus keine Verzögerungen im angemeldeten Schleusungsablauf ergeben.(3) Die Regelungen zum Schleusenrang nach § 6.29 BinSchStrO und § 6.28 DonauSchPV bleiben unberührt.
+(1) Von den Schiffsschleusen Obernau bis Regensburg werden im Nachtverkehr grundsätzlich nur Fahrzeuge der gewerblichen Schifffahrt nach Anmeldung geschleust. Einer solchen Anmeldung bedarf es nicht, wenn die Schleuse durch eine Fernsteuerzentrale fernbedient wird. Verfahren und Form der Anmeldung werden von der Wasser- und Schifffahrtsdirektion festgesetzt.
+
+(2) Fahrzeuge der gewerblichen sowie der nicht gewerblichen Schifffahrt können im Nachtverkehr mit den Fahrzeugen der angemeldeten gewerblichen Schifffahrt mitgeschleust werden, wenn sich daraus keine Verzögerungen im angemeldeten Schleusungsablauf ergeben.
+
+(3) Die Regelungen zum Schleusenrang nach § 6.29 BinSchStrO und § 6.28 DonauSchPV bleiben unberührt.
 
 ### § 3
 

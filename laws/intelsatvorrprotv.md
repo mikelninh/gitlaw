@@ -20,4 +20,8 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung
 
 ### § 3
 
-(1) Diese Verordnung tritt an dem Tage in Kraft, an dem das Protokoll nach seinem Artikel 16 für die Bundesrepublik Deutschland in Kraft tritt.(2) Diese Verordnung tritt an dem Tage außer Kraft, an dem das Protokoll für die Bundesrepublik Deutschland außer Kraft tritt.(3) Der Tag des Inkrafttretens und der Tag des Außerkrafttretens sind im Bundesgesetzblatt bekanntzugeben.
+(1) Diese Verordnung tritt an dem Tage in Kraft, an dem das Protokoll nach seinem Artikel 16 für die Bundesrepublik Deutschland in Kraft tritt.
+
+(2) Diese Verordnung tritt an dem Tage außer Kraft, an dem das Protokoll für die Bundesrepublik Deutschland außer Kraft tritt.
+
+(3) Der Tag des Inkrafttretens und der Tag des Außerkrafttretens sind im Bundesgesetzblatt bekanntzugeben.

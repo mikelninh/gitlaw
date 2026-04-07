@@ -20,11 +20,11 @@ Diese Verordnung gilt für Besoldungsempfängerinnen und Besoldungsempfänger in
 
 (2) Besoldungsempfängerinnen und Besoldungsempfänger im Sinne dieser Verordnung sind:
 
-1.
+1. Beamtinnen und Beamte, Soldatinnen und Soldaten,
 
-2.
+2. Richterinnen und Richter, die ihr Amt nicht ausüben,
 
-3.
+3. Staatsanwältinnen und Staatsanwälte.
 
 ### § 3 — Leistungsstufe
 
@@ -62,11 +62,11 @@ Die Leistungsstufe dient der Anerkennung dauerhaft herausragender Leistungen. Be
 
 (3) Leistungsprämien und Leistungszulagen dürfen nicht gewährt werden in Bereichen, in denen folgende Leistungselemente gewährt werden:
 
-1.
+1. Zuwendungen für besondere Leistungen nach § 31 Absatz 4 des Gesetzes über die Deutsche Bundesbank,
 
-2.
+2. Zulagen nach der Postleistungszulagenverordnung, Leistungsentgelt nach der Postleistungsentgeltverordnung oder der Postbankleistungsentgeltverordnung oder
 
-3.
+3. Zulagen der Deutsche Bahn Aktiengesellschaft oder der ausgegliederten Gesellschaften nach § 2 Absatz 1 oder § 3 Absatz 3 des Deutsche Bahn Gründungsgesetzes.
 
 ### § 9 — Entscheidungsberechtigte und Verfahren
 

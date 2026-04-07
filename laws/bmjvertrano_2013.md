@@ -17,21 +17,21 @@ Diese Anordnung gilt für die Vertretung der Bundesrepublik Deutschland im Gesch
 
 (3) Den Leiterinnen und Leitern der Gerichte und Behörden, die zum Geschäftsbereich des Bundesministeriums der Justiz gehören, wird die Vertretungsbefugnis in folgenden Fällen übertragen:
 
-1.
+1. bei Rechtsgeschäften, soweit die Gerichte und Behörden nach der Bundeshaushaltsordnung in Verbindung mit den hierzu ergangenen Verwaltungsvorschriften Annahme- und Auszahlungsanordnungen erteilen können;
 
-2.
+2. bei Klagen aus dem Beamtenverhältnis, soweit die Klagen Beamtinnen oder Beamte der Besoldungsgruppen A 2 bis A 13g betreffen;
 
-3.
+3. in Vollstreckungsverfahren, die die Bundesrepublik Deutschland als Drittschuldnerin betreffen, insbesondere nach den §§ 828 bis 863 der Zivilprozessordnung oder den §§ 309 bis 321 der Abgabenordnung, soweit das Gericht oder die Behörde die Zahlung der Bezüge oder die Bewirkung der sonst geschuldeten Leistung anzuordnen hat;
 
-4.
+4. in sonstigen gerichtlichen, schiedsgerichtlichen und Verwaltungsverfahren, die die Gerichte und Behörden selbst betreffen; die Vertretungsbefugnis in gerichtlichen und schiedsgerichtlichen Verfahren der Gerichte wird insoweit dem Generalbundesanwalt oder der Generalbundesanwältin beim Bundesgerichtshof übertragen.
 
 (4) Die Vertretung bleibt der Bundesministerin oder dem Bundesminister der Justiz vorbehalten, wenn
 
-1.
+1. die nach Absatz 3 zur Vertretung befugte Person persönlich beteiligt ist,
 
-2.
+2. das Verfahren beim Bundesverfassungsgericht anhängig ist oder
 
-3.
+3. das Verfahren Rechtsgeschäfte, Entscheidungen, einschließlich Entscheidungen über Rechtsbehelfe, oder sonstige Maßnahmen zum Gegenstand hat, die im Bundesministerium der Justiz getroffen oder vorgenommen worden sind; die Vertretungsbefugnis nach Absatz 3 Nummer 2 bleibt unberührt.
 
 (5) Die Bundesministerin oder der Bundesminister der Justiz kann im Einzelfall die Vertretung abweichend von dieser Anordnung regeln oder selbst übernehmen.
 
@@ -59,10 +59,8 @@ Diese Anordnung gilt für die Vertretung der Bundesrepublik Deutschland im Gesch
 
 Diese Anordnung tritt am Tag nach der Veröffentlichung im Bundesgesetzblatt in Kraft. Gleichzeitig treten außer Kraft:
 
-1.
+1. die Anordnung über die Vertretung des Bundes im Geschäftsbereich des Bundesministers der Justiz und über das Verfahren bei der Vertretung vom 25. April 1958 (BAnz. Nr. 82 vom 30. April 1958), die zuletzt durch die Anordnung vom 4. Februar 1971 (BAnz. Nr. 29 vom 12. Februar 1971) geändert worden ist, und
 
-2.
+2. die Anordnung über die Vertretung des Bundes im Geschäftsbereich des Bundesministeriums der Justiz bei Klagen aus dem Beamtenverhältnis vom 6. Januar 2009 (BGBl. I S. 34).
 
 ### Schlussformel
-
-Die Bundesministerin der Justiz

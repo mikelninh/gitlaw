@@ -24,8 +24,6 @@ Schwerstbeschädigtenzulage erhalten Beschädigte, deren Schädigungsfolgen alle
 
 ### § 3
 
-(1) Die nach § 2 ermittelte Punktzahl ist, zu erhöhen. Das gilt, mit Ausnahme der Nummer 6, nur, wenn die zusammentreffenden Schädigungsfolgen nach § 2 zu berücksichtigen sind.
-
 (2) Innere Organsysteme im Sinne des Absatzes 1 sind Atmung, Herz-Kreislauf, Verdauung, Harnapparat, Geschlechtsapparat, Blut einschließlich blutbildendem Gewebe und Immunsystem, die innere Sekretion sowie das Gehirn in seiner gesamten Funktion (ohne Aufteilung in Funktionsbereiche).
 
 ### § 4
@@ -33,10 +31,6 @@ Schwerstbeschädigtenzulage erhalten Beschädigte, deren Schädigungsfolgen alle
 Ist für die Zuerkennung der Schwerstbeschädigtenzulage der Anspruch auf Pflegezulage von Bedeutung, bleibt eine Höherstufung der Pflegezulage außer Betracht, wenn sie wegen besonderer wirtschaftlicher Mehraufwendungen und Zusammentreffens mit einer nicht schädigungsbedingten Gesundheitsstörung vorgenommen worden ist.
 
 ### § 5
-
-(1) Schwerstbeschädigtenzulage wird erbracht.
-
-(2) Schwerstbeschädigtenzulage auf Grund des Anspruchs auf eine Pflegezulage wird erbracht.
 
 ### § 6
 

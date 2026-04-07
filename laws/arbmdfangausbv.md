@@ -21,61 +21,15 @@ Die Ausbildung dauert drei Jahre.
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan (Anlage 2, Zeitliche Gliederung) abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Fachangestellten für Arbeitsmarktdienstleistungen und zur Fachangestellten für Arbeitsmarktdienstleistungen gliedert sich wie folgt (Ausbildungsberufsbild):Abschnitt ABerufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten: Abschnitt BIntegrative Fertigkeiten, Kenntnisse und Fähigkeiten:
+(2) Die Berufsausbildung zum Fachangestellten für Arbeitsmarktdienstleistungen und zur Fachangestellten für Arbeitsmarktdienstleistungen gliedert sich wie folgt (Ausbildungsberufsbild):
 
-1.
+1. Kundenorientierte Kommunikation: 1.1Adressaten- und situationsgerechte Kommunikation,1.2Klärung des Kundenanliegens,1.3Konfliktmanagement; Adressaten- und situationsgerechte Kommunikation, Klärung des Kundenanliegens, Konfliktmanagement;
 
-1.1
+2. Rechtsanwendungen;
 
-1.2
+3. Dienstleistungen des Arbeitsmarktausgleichs und der sozialen Sicherung: 3.1Anliegensteuerung,3.2Beratung und Vermittlung sowie Integration,3.3Leistungen zur Förderung des Arbeitsmarktausgleichs,3.4Leistungen der sozialen Sicherung nach dem Dritten Buch Sozialgesetzbuch,3.5Leistungen der sozialen Sicherung nach dem Zweiten Buch Sozialgesetzbuch sowie Auftragsleistungen nach dem Steuer- und Sozialrecht; Anliegensteuerung, Beratung und Vermittlung sowie Integration, Leistungen zur Förderung des Arbeitsmarktausgleichs, Leistungen der sozialen Sicherung nach dem Dritten Buch Sozialgesetzbuch, Leistungen der sozialen Sicherung nach dem Zweiten Buch Sozialgesetzbuch sowie Auftragsleistungen nach dem Steuer- und Sozialrecht;
 
-1.3
-
-2.
-
-3.
-
-3.1
-
-3.2
-
-3.3
-
-3.4
-
-3.5
-
-4.
-
-4.1
-
-4.2
-
-1.
-
-1.1
-
-1.2
-
-1.3
-
-1.4
-
-1.5
-
-1.6
-
-2.
-
-2.1
-
-2.2
-
-2.3
-
-2.4
-
-2.5
+4. Interne Dienstleistungen: 4.1Personalsachbearbeitung,4.2Controlling und Finanzen; Personalsachbearbeitung, Controlling und Finanzen;
 
 ### § 4 — Durchführung der Berufsausbildung
 
@@ -93,39 +47,27 @@ Die Ausbildung dauert drei Jahre.
 
 (2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 2 für das erste Ausbildungsjahr aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Die Zwischenprüfung findet in den Prüfungsbereichen statt.
+(3) Die Zwischenprüfung findet in den Prüfungsbereichen
 
-1.
+1. Geschäftsprozesse der Leistungen nach dem Dritten Buch Sozialgesetzbuch,
 
-2.
+2. Steuerung von Kundenanliegen
 
 (4) Für den Prüfungsbereich Geschäftsprozesse der Leistungen nach dem Dritten Buch Sozialgesetzbuch bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er a)Beratungs- und Vermittlungsdienstleistungen darstellen,b)arbeitsmarktpolitische Ziele der Leistungen zur Förderung des Arbeitsmarktausgleichs darstellen undc)Ansprüche der sozialen Sicherung prüfenkann; Beratungs- und Vermittlungsdienstleistungen darstellen, arbeitsmarktpolitische Ziele der Leistungen zur Förderung des Arbeitsmarktausgleichs darstellen und Ansprüche der sozialen Sicherung prüfen
 
-a)
+2. der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
 
-b)
-
-c)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt 120 Minuten.
 
 (5) Für den Prüfungsbereich Steuerung von Kundenanliegen bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er a)Anliegen von Kunden klären,b)Geschäftsprozesse kundenorientiert einleiten undc)adressaten- und situationsgerecht kommunizierenkann; Anliegen von Kunden klären, Geschäftsprozesse kundenorientiert einleiten und adressaten- und situationsgerecht kommunizieren
 
-a)
+2. der Prüfling soll eine Gesprächssimulation durchführen;
 
-b)
-
-c)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt höchstens 15 Minuten.
 
 ### § 6 — Abschlussprüfung
 
@@ -133,75 +75,67 @@ c)
 
 (2) Die Abschlussprüfung besteht aus den Prüfungsbereichen:
 
-1.
+1. Arbeitsmarktbezogene Geschäftsprozesse,
 
-2.
+2. Prozesse der Leistungsgewährung,
 
-3.
+3. Kundenkommunikation,
 
-4.
+4. Wirtschafts- und Sozialkunde.
 
 (3) Für den Prüfungsbereich Arbeitsmarktbezogene Geschäftsprozesse bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er Sachverhalte rechtlich beurteilen sowie kundenorientiert unter Berücksichtigung von Wirtschaftlichkeit und Wirksamkeit bearbeiten kann;
 
-2.
+2. dem Prüfungsbereich sind folgende Gebiete zugrunde zu legen: a)Vorgänge der Beratung und Vermittlung sowie Integration,b)Leistungen zur Förderung des Arbeitsmarktausgleichs; Vorgänge der Beratung und Vermittlung sowie Integration, Leistungen zur Förderung des Arbeitsmarktausgleichs;
 
-a)
+3. der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
 
-b)
-
-3.
-
-4.
+4. die Prüfungszeit beträgt 90 Minuten.
 
 (4) Für den Prüfungsbereich Prozesse der Leistungsgewährung bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er Sachverhalte der Leistungsgewährung rechtlich beurteilen sowie kundenorientiert unter Berücksichtigung von Wirtschaftlichkeit und Wirksamkeit bearbeiten kann;
 
-2.
+2. dem Prüfungsbereich sind folgende Gebiete zugrunde zu legen: a)Leistungen der sozialen Sicherung nach dem Dritten Buch Sozialgesetzbuch,b)Leistungen der sozialen Sicherung nach dem Zweiten Buch Sozialgesetzbuch sowie Auftragsleistungen nach dem Steuer- und Sozialrecht; Leistungen der sozialen Sicherung nach dem Dritten Buch Sozialgesetzbuch, Leistungen der sozialen Sicherung nach dem Zweiten Buch Sozialgesetzbuch sowie Auftragsleistungen nach dem Steuer- und Sozialrecht;
 
-a)
+3. der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
 
-b)
-
-3.
-
-4.
+4. die Prüfungszeit beträgt 150 Minuten.
 
 (5) Für den Prüfungsbereich Kundenkommunikation bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er Kundenanliegen erkennen, Lösungswege entwickeln und begründen sowie adressaten- und situationsgerecht kommunizieren kann; dabei soll er zeigen, dass er berufsspezifische Informationen einbeziehen und Arbeitsmittel zielgerichtet einsetzen kann;
 
-2.
+2. der Prüfling soll eine Gesprächssimulation und hierüber ein auftragsbezogenes Fachgespräch durchführen;
 
-3.
+3. die Prüfungszeit beträgt höchstens 30 Minuten, die Vorbereitungszeit für den Prüfling höchstens 15 Minuten.
 
 (6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
-2.
+2. der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
 
-3.
+3. die Prüfungszeit beträgt 60 Minuten.
 
 (7) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
-1.
+1. Arbeitsmarktbezogene Geschäftsprozesse25 Prozent,
 
-2.
+2. Prozesse der Leistungsgewährung35 Prozent,
 
-3.
+3. Kundenkommunikation30 Prozent,
 
-4.
+4. Wirtschafts- und Sozialkunde10 Prozent.
 
-(8) Die Abschlussprüfung ist bestanden, wenn die Leistungen bewertet worden sind.
+(8) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-1.
+1. im Gesamtergebnis mit mindestens „ausreichend“,
 
-2.
+2. in mindestens drei der Prüfungsbereiche mit mindestens „ausreichend“ und
 
-3.
+3. in keinem Prüfungsbereich mit „ungenügend“
 
 (9) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
@@ -215,202 +149,6 @@ Diese Verordnung tritt am 1. August 2012 in Kraft. Gleichzeitig tritt die Verord
 
 ### Anlage 1 — (zu § 3 Absatz 1 Satz 1)
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
 ### Anlage 2 — (zu § 3 Absatz 1 Satz 2)
 
 Die nachfolgende zeitliche Gliederung nennt die Zeiträume des Abschnittes B nach § 3 Absatz 2, in denen die jeweiligen Fertigkeiten, Kenntnisse und Fähigkeiten erstmals schwerpunktmäßig vermittelt werden sollen; in der Regel ist eine Fortführung oder Vertiefung zum Erreichen der beruflichen Handlungsfähigkeit erforderlich. Die Fortführung der Inhalte des Abschnittes A nach § 3 Absatz 2 ist, abweichend davon, in den nachfolgend aufgeführten Zeiträumen in den jeweiligen Ausbildungsjahren gesondert dargestellt.
-
-Während der gesamten Ausbildungszeit sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2 zu vermitteln.
-
-(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2  zu vermitteln.
-
-(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2 zu vermitteln.
-
-(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2 zu vermitteln.
-
-(1) In einem Zeitraum von insgesamt ein bis drei Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2 fortzuführen.
-
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2 fortzuführen.
-
-(3) In einem Zeitraum von insgesamt fünf bis sieben Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2 fortzuführen.
-
-(1) In einem Zeitraum von insgesamt ein bis drei Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2 fortzuführen.
-
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2 fortzuführen.
-
-(3) In einem Zeitraum von fünf bis sieben Monaten sind die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2 fortzuführen.

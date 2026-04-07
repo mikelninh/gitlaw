@@ -64,11 +64,11 @@ Für Aktiengesellschaften, die vor dem 1. Januar 1999 in das Handelsregister ein
 
 (2) Solange die Unternehmen wechselseitig beteiligt sind und nicht die Voraussetzungen des § 19 Abs. 2 oder 3 des Aktiengesetzes vorliegen, gilt für die Ausübung der Rechte aus den Anteilen an dem anderen Unternehmen statt dessen folgendes:
 
-1.
+1. Aus den Anteilen, die den Unternehmen beim Inkrafttreten des Aktiengesetzes gehört haben oder die auf diese Anteile bei einer Kapitalerhöhung aus Gesellschaftsmitteln entfallen, können alle Rechte ausgeübt werden.
 
-2.
+2. Aus Anteilen, die bei einer Kapitalerhöhung gegen Einlagen auf Grund eines nach Nummer 1 bestehenden Bezugsrechts übernommen werden, können alle Rechte mit Ausnahme des Stimmrechts ausgeübt werden; das gleiche gilt für Anteile, die auf diese Anteile bei einer Kapitalerhöhung aus Gesellschaftsmitteln entfallen.
 
-3.
+3. Aus anderen Anteilen können mit Ausnahme des Rechts auf neue Aktien bei einer Kapitalerhöhung aus Gesellschaftsmitteln keine Rechte ausgeübt werden.
 
 (3) Hat nur eines der wechselseitig beteiligten Unternehmen fristgemäß (§ 7) die Mitteilung nach § 20 Abs. 3 oder § 21 Abs. 1 des Aktiengesetzes gemacht, so gilt § 328 Abs. 1 und 2 nicht für dieses Unternehmen.
 
@@ -207,11 +207,11 @@ Die Vorschriften des Aktiengesetzes über Verschmelzungen und Vermögensübertra
 ### § 26e — Übergangsregelung zum Gesetz zur Anpassung von
 Verjährungsvorschriften an das Gesetz zur Modernisierung des Schuldrechts
 
-§ 327 Abs. 4 des Aktiengesetzes in der ab dem 15. Dezember 2004 geltenden Fassung ist auf vor diesem Datum entstandene Verbindlichkeiten anzuwenden, wenn Auf später fällig werdende Verbindlichkeiten im Sinne des Satzes 1 ist das bisher geltende Recht mit der Maßgabe anwendbar, dass die Verjährungsfrist ein Jahr beträgt.
+§ 327 Abs. 4 des Aktiengesetzes in der ab dem 15. Dezember 2004 geltenden Fassung ist auf vor diesem Datum entstandene Verbindlichkeiten anzuwenden, wenn
 
-1.
+1. die Eintragung des Endes der Eingliederung in das Handelsregister nach § 10 des Handelsgesetzbuchs nach diesem Datum bekannt gemacht worden ist und
 
-2.
+2. die Verbindlichkeiten nicht später als vier Jahre nach dem Tag, an dem die Eintragung des Endes der Eingliederung in das Handelsregister nach § 10 des Handelsgesetzbuchs bekannt gemacht worden ist, fällig werden.
 
 ### § 26f — Übergangsregelungen zum Kleinstkapitalgesellschaften-Bilanzrechtsänderungsgesetz
 
@@ -247,9 +247,9 @@ Die §§ 111, 170, 171, 176, 237 und 283 des Aktiengesetzes in der Fassung des C
 
 (5) Die Verordnung über den Ersatz von Aufwendungen der Kreditinstitute vom 17. Juni 2003 (BGBl. I S. 885), die durch Artikel 15 des Gesetzes vom 30. Juli 2009 (BGBl. I S. 2479) geändert worden ist, ist in der bis einschließlich 2. September 2020 geltenden Fassung bis zum Inkrafttreten einer Verordnung auf Grundlage der Ermächtigung in § 67f Absatz 3 des Aktiengesetzes, jedoch längstens bis einschließlich 3. September 2025 weiterhin sinngemäß anzuwenden. Die Verordnung über den Ersatz von Aufwendungen der Kreditinstitute ist wie folgt sinngemäß anzuwenden:
 
-1.
+1. auf Mitteilungen nach § 67 Absatz 4 Satz 1 bis 5 des Aktiengesetzes und bei börsennotierten Gesellschaften nach § 67d des Aktiengesetzes ist § 3 der Verordnung über den Ersatz von Aufwendungen der Kreditinstitute sinngemäß anzuwenden, und
 
-2.
+2. auf Mitteilungen nach den §§ 67a bis 67c, auch in Verbindung mit § 125 Absatz 1, 2 und 5 des Aktiengesetzes ist § 1 der Verordnung über den Ersatz von Aufwendungen der Kreditinstitute sinngemäß anzuwenden.
 
 ### § 26k — Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
 
@@ -341,8 +341,6 @@ Dieses Gesetz tritt am 1. Januar 1966 in Kraft.
 
 ### Anhang EV — Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt III
 
-Abschnitt III
-
-6.
+6. Einführungsgesetz zum Aktiengesetz vom 6. September 1965 (BGBl. I S. 1185), zuletzt geändert durch Artikel 10 Abs. 11 des Gesetzes vom 19. Dezember 1985 (BGBl. I S. 2355), mit folgender Maßgabe: § 22 Abs. 1 ist für Aktiengesellschaften, die vor dem 1. Juli 1990 in das Handelsregister eingetragen wurden, mit der Maßgabe anzuwenden, daß das Datum "31. Dezember 1965" durch das Datum "30. Juni 1990" ersetzt wird.Für Aktiengesellschaften, die vor dem 1. Juli 1990 zur Eintragung in das Handelsregister angemeldet, aber noch nicht eingetragen worden sind, bleibt es bei den bisherigen Rechtsvorschriften über die Errichtung und Eintragung der Gesellschaft.
 
 > Anhang EV Abschn. III Nr. 6 Satz 2 Kursivdruck: Nicht mehr anzuwenden gem. § 1 Abs. 1 Nr. 4 Buchst. e G v. 19.4.2006 I 866, 891 (BMJMaßgabenBerG) mWv 25.4.2006

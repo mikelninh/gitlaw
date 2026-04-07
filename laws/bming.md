@@ -50,11 +50,11 @@ Ein Mitglied der Bundesregierung kann nicht zugleich Mitglied einer Landesregier
 
 ### § 6b
 
-(1) Die Bundesregierung kann die Erwerbstätigkeit oder sonstige Beschäftigung für die Zeit der ersten 18 Monate nach dem Ausscheiden aus dem Amt ganz oder teilweise untersagen, soweit zu besorgen ist, dass durch die Beschäftigung öffentliche Interessen beeinträchtigt werden. Von einer Beeinträchtigung ist insbesondere dann auszugehen, wenn die angestrebte Beschäftigung Die Untersagung ist zu begründen.
+(1) Die Bundesregierung kann die Erwerbstätigkeit oder sonstige Beschäftigung für die Zeit der ersten 18 Monate nach dem Ausscheiden aus dem Amt ganz oder teilweise untersagen, soweit zu besorgen ist, dass durch die Beschäftigung öffentliche Interessen beeinträchtigt werden. Von einer Beeinträchtigung ist insbesondere dann auszugehen, wenn die angestrebte Beschäftigung
 
-1.
+1. in Angelegenheiten oder Bereichen ausgeübt werden soll, in denen das ehemalige Mitglied der Bundesregierung während seiner Amtszeit tätig war, oder
 
-2.
+2. das Vertrauen der Allgemeinheit in die Integrität der Bundesregierung beeinträchtigen kann.
 
 (2) Eine Untersagung soll in der Regel die Dauer von einem Jahr nicht überschreiten. In Fällen, in denen öffentliche Interessen schwer beeinträchtigt wären, kann eine Untersagung für die Dauer von bis zu 18 Monaten ausgesprochen werden.
 
@@ -94,11 +94,11 @@ Ein Disziplinarverfahren gegen Mitglieder der Bundesregierung findet nicht statt
 
 (1) Das Amtsverhältnis der Mitglieder der Bundesregierung endet
 
-1.
+1. mit der Entlassung des Bundeskanzlers, wenn der Bundestag ihm nach Artikel 67 des Grundgesetzes das Mißtrauen ausgesprochen hat,
 
-2.
+2. mit dem Zusammentritt eines neuen Bundestages,
 
-3.
+3. mit jeder anderen Erledigung des Amtes des Bundeskanzlers.
 
 (2) Das Amtsverhältnis der einzelnen Bundesminister endet außerdem mit ihrer Entlassung. Die Bundesminister können jederzeit entlassen werden und ihre Entlassung jederzeit verlangen.
 
@@ -108,21 +108,17 @@ Im Falle der Beendigung des Amtsverhältnisses der Mitglieder der Bundesregierun
 
 ### § 11
 
-(1) Die Mitglieder der Bundesregierung erhalten vom Beginn des Kalendermonats an, in dem das Amtsverhältnis beginnt, bis zum Schluß des Kalendermonats, in dem das Amtsverhältnis endet, folgende Amtsbezüge: Die Amtsbezüge werden monatlich im voraus gezahlt.
+(1) Die Mitglieder der Bundesregierung erhalten vom Beginn des Kalendermonats an, in dem das Amtsverhältnis beginnt, bis zum Schluß des Kalendermonats, in dem das Amtsverhältnis endet, folgende Amtsbezüge:
 
-a)
+a) ein Amtsgehalt, und zwar der Bundeskanzler in Höhe von einzweidrittel, die Bundesminister in Höhe von eineindrittel des Grundgehalts der Besoldungsgruppe B 11 einschließlich zum Grundgehalt allgemein gewährter Zulagen,
 
-b)
+b) einen Ortszuschlag in Höhe von eineindrittel des in der Besoldungsgruppe B 11 zustehenden Ortszuschlags,
 
-c)
-
-d)
+c) eine Dienstaufwandsentschädigung, und zwar der Bundeskanzler von
 
 (2) Für den gleichen Zeitraum werden Amtsbezüge nur einmal gewährt. Sind die Bezüge nicht gleich hoch, so stehen die höheren Bezüge zu.
 
 (3) Wird ein Mitglied der Bundesregierung nach Artikel 69 Abs. 3 des Grundgesetzes ersucht, die Geschäfte weiterzuführen, so werden die Amtsbezüge bis zum Schluß des Kalendermonats weitergewährt, in dem die Geschäftsführung endet.
-
-(4) § 83a des Bundesbeamtengesetzes einschließlich der dazu ergangenen Übergangsvorschriften und § 87a des Bundesbeamtengesetzes sind sinngemäß anzuwenden.
 
 (5) (weggefallen)
 
@@ -154,11 +150,11 @@ d)
 
 (2) Das Übergangsgeld wird für die gleiche Anzahl von Monaten gezahlt, für die der Berechtigte ohne Unterbrechung Amtsbezüge als Mitglied der Bundesregierung erhalten hat, jedoch mindestens für sechs Monate und höchstens für zwei Jahre. Treffen Übergangsgeld und Ruhegehalt nach § 15 oder § 17 zusammen, wird das Übergangsgeld um das Ruhegehalt gemindert, bevor auf das Übergangsgeld und das Ruhegehalt sonstige Anrechnungs- und Ruhensvorschriften angewandt werden.
 
-(3) Als Übergangsgeld werden gewährt Das Übergangsgeld wird monatlich im voraus gezahlt.
+(3) Als Übergangsgeld werden gewährt
 
-1.
+1. für die ersten drei Monate das Amtsgehalt und der Ortszuschlag in voller Höhe,
 
-2.
+2. für den Rest der Bezugsdauer die Hälfte dieser Bezüge.
 
 (4) Bei mehreren unterbrochenen Amtszeiten eines Mitgliedes der Bundesregierung wird das Übergangsgeld für jede zusammenhängende Amtszeit besonders berechnet. Wird ein ehemaliges Mitglied der Bundesregierung vor Ablauf der Zeit, für die ihm Übergangsgeld zusteht, wieder ernannt, so wird nach der Wiederentlassung an Stelle des sich aus der späteren Amtszeit ergebenden Übergangsgeldes das frühere Übergangsgeld gewährt, wenn dieses noch für eine längere Dauer zustand als das Übergangsgeld aus der späteren Amtszeit. Die Höhe des früheren Übergangsgeldes bestimmt sich für die auf die Wiederentlassung folgenden ersten sechs Monate nach Absatz 3 Nr. 1 und 2, und zwar stets nach den Amtsbezügen des letzten Amtes, für die anschließende Zeit jedoch nur dann, wenn das letzte Amt höher war als das frühere Amt.
 
@@ -172,11 +168,11 @@ d)
 
 (2) Ruhegehaltfähig ist die Zeit der Mitgliedschaft in der Bundesregierung, im Amt eines Parlamentarischen Staatssekretärs bei einem Mitglied der Bundesregierung und einer vorausgegangenen Mitgliedschaft in einer Landesregierung.
 
-(3) Der Anspruch auf Ruhegehalt ruht bis zum Ende des Monats, in dem wird. Das Ruhegehalt beträgt nach Vollendung einer Amtszeit von vier Jahren 27,74 vom Hundert des Amtsgehalts und des Ortszuschlags. Es steigt mit jedem weiteren Amtsjahr um 2,39167 vom Hundert bis zum Höchstsatz von 71,75 vom Hundert. In den Fällen des Satzes 1 Nr. 2 vermindert sich das Ruhegehalt um 3,6 vom Hundert für jedes Jahr, um das das ehemalige Mitglied der Bundesregierung das Ruhegehalt vor Ende des Monats, in dem es die für Beamte geltende Regelaltersgrenze erreicht, vorzeitig in Anspruch nimmt. Die Minderung des Ruhegehalts darf 14,4 vom Hundert nicht überschreiten.
+(3) Der Anspruch auf Ruhegehalt ruht bis zum Ende des Monats, in dem
 
-1.
+1. die für Beamte geltende Regelaltersgrenze erreicht oder
 
-2.
+2. das Ruhegehalt auf Antrag vorzeitig ab Vollendung des 60. Lebensjahres in Anspruch genommen
 
 (3a) Ein ehemaliges Mitglied der Bundesregierung, das die Voraussetzung des Absatzes 1 nicht erfüllt, wird auf Antrag in sinngemäßer Anwendung der Vorschriften des Sechsten Buches Sozialgesetzbuch über die Nachversicherung für die Dauer seiner Amtszeit nachversichert. Dies gilt nicht, wenn und soweit die Amtszeit in einer öffentlich-rechtlichen Versicherung oder in einer Versorgung nach dienstrechtlichen Grundsätzen berücksichtigt ist oder berücksichtigt wird.
 
@@ -208,11 +204,11 @@ d)
 
 (3) Die Unfallfürsorge besteht
 
-1.
+1. in einem Heilverfahren für den Verletzten,
 
-2.
+2. in einem Ruhegehalt, wenn das Mitglied der Bundesregierung dienstunfähig geworden ist und sein Amtsverhältnis endet,
 
-3.
+3. in einer Hinterbliebenenversorgung, wenn das Mitglied der Bundesregierung infolge des Unfalls verstorben ist.
 
 ### § 18
 
@@ -238,8 +234,6 @@ Bezieht ein Mitglied der Bundesregierung für einen Zeitraum, für den Amtsbezü
 
 (3) Die Absätze 1 bis 2a finden auf die Hinterbliebenen (§ 16) entsprechende Anwendung. § 54 Abs. 3 und Abs. 4 Satz 2 des Beamtenversorgungsgesetzes gilt sinngemäß.
 
-(4) Für ein ehemaliges Mitglied der Bundesregierung oder seine Hinterbliebenen gilt § 160b des Bundesbeamtengesetzes einschließlich der dazu ergangenen Übergangsvorschriften sinngemäß.
-
 (5) (weggefallen)
 
 > § 20 Abs. 4 Kursivdruck: Aufgeh. durch § 92 Abs. 1 Nr. 5 G v. 24.8.1976 I 2485 mWv 1.1.1977; vgl. jetzt § 56 iVm § 90 Beamtenversorgungsgesetz 2030-25
@@ -250,11 +244,11 @@ Bezieht ein Mitglied der Bundesregierung für einen Zeitraum, für den Amtsbezü
 
 (2) Ist ein ehemaliges Mitglied des Verwaltungsrates des Vereinigten Wirtschaftsgebietes im unmittelbaren Anschluß an seine Amtszeit zum Mitglied der Bundesregierung ernannt worden, so gelten die Amtszeiten als Mitglied des Verwaltungsrates und als Mitglied der Bundesregierung im Sinne des § 15 Abs. 1 bis 4 als einheitliche Amtszeit.
 
-(3) Dieses Gesetz ist auf die Mitglieder des Ministerrats der ehemaligen Deutschen Demokratischen Republik, die diesem im Zeitraum ab dem 12. April 1990 angehört haben, mit folgenden Maßgaben anzuwenden:Das Ruhegehalt wird vom Ende des Monats, in dem das ehemalige Mitglied des Ministerrats das 55. Lebensjahr vollendet hat, gewährt. Es beträgt für die Zeit der Zugehörigkeit zum Ministerrat in dem Zeitraum ab dem 12. April 1990 für nach § 11 in Verbindung mit dem Gesetz über die Nichtanpassung von Amtsgehalt und Ortszuschlag der Mitglieder der Bundesregierung und der Parlamentarischen Staatssekretäre. § 20 Abs. 2a ist nur hinsichtlich der Berücksichtigung von Renten anzuwenden. Versorgungsbezüge werden auf Antrag ab dem 1. November 2008 gewährt. Die Sätze 1 bis 5 gelten nicht, wenn der Berechtigte oder derjenige, von dem er seine Berechtigung herleitet, gegen die Grundsätze der Menschlichkeit und Rechtsstaatlichkeit verstoßen oder in schwerwiegendem Maße die Stellung zum eigenen Vorteil oder Nachteil anderer missbraucht hat.
+(3) Dieses Gesetz ist auf die Mitglieder des Ministerrats der ehemaligen Deutschen Demokratischen Republik, die diesem im Zeitraum ab dem 12. April 1990 angehört haben, mit folgenden Maßgaben anzuwenden:
 
-1.
+1. den Ministerpräsidenten fünf vom Hundert des Amtsgehalts und des Ortszuschlags des Bundeskanzlers,
 
-2.
+2. die Minister fünf vom Hundert des Amtsgehalts und des Ortszuschlags eines Bundesministers
 
 (4) Für ehemalige Mitglieder der Bundesregierung, die die Voraussetzungen des Absatzes 3 erfüllen, gilt die Zeit der Zugehörigkeit zum Ministerrat als volles Amtsjahr.
 
@@ -262,9 +256,9 @@ Bezieht ein Mitglied der Bundesregierung für einen Zeitraum, für den Amtsbezü
 
 (1) Die Rechtsverhältnisse der am 1. Januar 1992 vorhandenen ehemaligen Mitglieder der Bundesregierung sowie der Hinterbliebenen eines ehemaligen Mitgliedes der Bundesregierung regeln sich nach dem bis zum 31. Dezember 1991 geltenden Recht mit folgenden Maßgaben:
 
-1.
+1. § 20 Abs. 5 in der vor dem 29. Oktober 2008 geltenden Fassung findet Anwendung. Dies gilt nicht, solange eine am 31. Dezember 1991 über diesen Zeitpunkt hinaus bestehende Beschäftigung oder Tätigkeit eines ehemaligen Mitgliedes der Bundesregierung andauert.
 
-2.
+2. Die Rechtsverhältnisse der Hinterbliebenen eines ehemaligen Mitgliedes der Bundesregierung, das nach dem 31. Dezember 1991 verstorben ist, regeln sich nach den ab dem 1. Januar 1992 geltenden Vorschriften, jedoch unter Zugrundelegung des bisherigen Ruhegehaltes.
 
 (2) Besteht ein Amtsverhältnis über den 31. Dezember 1991 hinaus fort und hat zu diesem Zeitpunkt eine Mitgliedschaft in der Bundesregierung einschließlich einer Zeit im Amt eines Parlamentarischen Staatssekretärs bei einem Mitglied der Bundesregierung insgesamt mindestens zwei Jahre bestanden, so gilt § 15 Abs. 3 in der bis zum 31. Dezember 1991 geltenden Fassung.
 

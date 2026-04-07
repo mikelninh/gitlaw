@@ -18,7 +18,13 @@ Soweit in dieser Anordnung Dienstgradbezeichnungen des Heeres und der Luftwaffe 
 
 ### § 2 — Vorbehaltene Ernennungen und Entlassungen
 
-Dem Bundesministerium der Verteidigung behalte ich vor: 1.Beförderungen zum Oberst in der Besoldungsgruppe A 16 und der Reservistinnen und Reservisten zum Oberst,2.Beförderungen der Anwärterinnen und Anwärter für die Laufbahnen der Offizierinnen und Offiziere des Truppendienstes und des militärfachlichen Dienstes zum Leutnant und3.Ernennungen und Entlassungen in sonstigen besonderen Fällen.
+Dem Bundesministerium der Verteidigung behalte ich vor:
+
+1. Beförderungen zum Oberst in der Besoldungsgruppe A 16 und der Reservistinnen und Reservisten zum Oberst,
+
+2. Beförderungen der Anwärterinnen und Anwärter für die Laufbahnen der Offizierinnen und Offiziere des Truppendienstes und des militärfachlichen Dienstes zum Leutnant und
+
+3. Ernennungen und Entlassungen in sonstigen besonderen Fällen.
 
 ### § 3 — Ausschließliche Zuständigkeit der Dienststellenleitung
 
@@ -28,13 +34,21 @@ Die Ausübung der nachfolgend übertragenen Rechte zur Ernennung und Entlassung 
 
 ### § 4 — Zuständigkeit des Bundesamtes für das Personalmanagement der Bundeswehr
 
-(1) Das Bundesamt für das Personalmanagement der Bundeswehr ernennt und entlässt Soldatinnen und Soldaten bis zum Oberst in der Besoldungsgruppe A 16.(2) Es beruft Bewerberinnen und Bewerber 1.in ein Dienstverhältnis als Soldatin auf Zeit, Soldat auf Zeit, Berufssoldatin oder Berufssoldat bis zum Oberst in der Besoldungsgruppe A 16 und2.in ein Reservewehrdienstverhältnis.
+(1) Das Bundesamt für das Personalmanagement der Bundeswehr ernennt und entlässt Soldatinnen und Soldaten bis zum Oberst in der Besoldungsgruppe A 16.
+
+(2) Es beruft Bewerberinnen und Bewerber
+
+1. in ein Dienstverhältnis als Soldatin auf Zeit, Soldat auf Zeit, Berufssoldatin oder Berufssoldat bis zum Oberst in der Besoldungsgruppe A 16 und
+
+2. in ein Reservewehrdienstverhältnis.
 
 ## Abschnitt 3: Zuständigkeiten für Reservistinnen und Reservisten, Soldatinnen und Soldaten, die nach dem Vierten und Fünften Abschnitt des Soldatengesetzes Wehrdienst leisten und Soldaten, die nach dem Wehrpflichtgesetz Wehrdienst leisten
 
 ### § 5 — Reservistinnen und Reservisten, Soldatinnen und Soldaten, die nach dem Vierten und Fünften Abschnitt des Soldatengesetzes Wehrdienst leisten
 
-(1) Das Bundesamt für das Personalmanagement der Bundeswehr darf zu Dienstgraden bis zum Oberst befördern. Dies gilt auch für die Verleihung vorläufiger und zeitweiliger Dienstgrade nach § 7 Absatz 4, § 22 Absatz 6 und § 48 Absatz 3 der Soldatenlaufbahnverordnung.(2) Das Bundesamt für das Personalmanagement der Bundeswehr entlässt Soldatinnen und Soldaten bis zum Oberst.
+(1) Das Bundesamt für das Personalmanagement der Bundeswehr darf zu Dienstgraden bis zum Oberst befördern. Dies gilt auch für die Verleihung vorläufiger und zeitweiliger Dienstgrade nach § 7 Absatz 4, § 22 Absatz 6 und § 48 Absatz 3 der Soldatenlaufbahnverordnung.
+
+(2) Das Bundesamt für das Personalmanagement der Bundeswehr entlässt Soldatinnen und Soldaten bis zum Oberst.
 
 ### § 6 — Soldaten, die nach dem Wehrpflichtgesetz Wehrdienst leisten
 
@@ -48,8 +62,8 @@ Für laufende Entlassungsverfahren verbleibt die Zuständigkeit bei der Stelle, 
 
 ### § 8 — Inkrafttreten, Außerkrafttreten
 
-(1) Diese Anordnung tritt am 1. Januar 2026 in Kraft.(2) Gleichzeitig wird die Anordnung über die Ernennung und Entlassung von Soldatinnen und Soldaten und die Ernennung von Reservistinnen und Reservisten vom 22. September 2015 (BGBl. I S. 1597) aufgehoben.
+(1) Diese Anordnung tritt am 1. Januar 2026 in Kraft.
+
+(2) Gleichzeitig wird die Anordnung über die Ernennung und Entlassung von Soldatinnen und Soldaten und die Ernennung von Reservistinnen und Reservisten vom 22. September 2015 (BGBl. I S. 1597) aufgehoben.
 
 ### Schlussformel
-
-Der Bundesminister der Verteidigung

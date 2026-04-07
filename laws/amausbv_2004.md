@@ -16,115 +16,65 @@ Der Ausbildungsberuf Aufbereitungsmechaniker/Aufbereitungsmechanikerin wird staa
 
 ### § 2 — Ausbildungsdauer, Fachrichtungen
 
-Die Ausbildung dauert drei Jahre. Für das dritte Ausbildungsjahr kann zwischen den Fachrichtungen gewählt werden.
+Die Ausbildung dauert drei Jahre. Für das dritte Ausbildungsjahr kann zwischen den Fachrichtungen
 
-1.
+1. Naturstein,
 
-2.
+2. feuerfeste und keramische Rohstoffe,
 
-3.
+3. Sand und Kies,
 
-4.
+4. Steinkohle,
 
-5.
+5. Braunkohle
 
 ### § 3 — Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
-1.
+1. Berufsbildung,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Arbeits- und Tarifrecht, Arbeitsschutz,
 
-4.
+4. Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung,
 
-5.
+5. Lesen, Anwenden und Erstellen technischer Unterlagen,
 
-6.
+6. Grundfertigkeiten der Werkstoffbearbeitung,
 
-7.
+7. Instandhalten von Werkzeugen,
 
-8.
+8. Erschließungs-, Gewinnungs- und Fördertechniken von Rohstoffen,
 
-9.
+9. Verarbeiten von Rohstoffen zu Endprodukten,
 
-10.
+10. Grundlagen der Hydraulik und Pneumatik,
 
-11.
+11. Grundlagen der Elektrotechnik, Mess-, Steuerungs- und Regelungstechnik,
 
-12.
+12. Gewinnen, Fördern und Transportieren von Rohstoffen,
 
-13.
+13. Zerkleinern und Klassieren von Rohstoffen,
 
-14.
+14. Sortieren, Mischen und Dosieren von Rohstoffen und Teilprodukten,
 
-15.
+15. Instandhalten von Maschinen und Anlagen,
 
-16.
+16. Lagern und Entsorgen.
 
 (2) Gegenstand der Berufsausbildung in den Fachrichtungen sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
-1.
+1. in der Fachrichtung Naturstein:a)Arbeitsplanung und systematische Störungsbeseitigung, b)Instandsetzen von Maschinen und Anlagen, c)Probenehmen und Durchführen von Maßnahmen zur Qualitätssicherung, d)Überwachen, Steuern und Regeln von automatisierten und teilautomatisierten Aufbereitungsabläufen, e)Verladen, Wiegen und Versandvorbereiten von Natursteinen; Arbeitsplanung und systematische Störungsbeseitigung, Instandsetzen von Maschinen und Anlagen, Probenehmen und Durchführen von Maßnahmen zur Qualitätssicherung, Überwachen, Steuern und Regeln von automatisierten und teilautomatisierten Aufbereitungsabläufen, Verladen, Wiegen und Versandvorbereiten von Natursteinen;
 
-a)
+2. in der Fachrichtung feuerfeste und keramische Rohstoffe:a)Arbeitsplanung und systematische Störungsbeseitigung, b)Instandsetzen von Maschinen und Anlagen, c)Probenehmen und Durchführen von Maßnahmen zur Qualitätssicherung, d)Überwachen, Steuern und Regeln verfahrens- und fertigungstechnischer Abläufe der Nass- oder Trockenaufbereitung keramischer Rohstoffe, e)Füllen, Wiegen und Versandvorbereiten keramischer Rohstoffe; Arbeitsplanung und systematische Störungsbeseitigung, Instandsetzen von Maschinen und Anlagen, Probenehmen und Durchführen von Maßnahmen zur Qualitätssicherung, Überwachen, Steuern und Regeln verfahrens- und fertigungstechnischer Abläufe der Nass- oder Trockenaufbereitung keramischer Rohstoffe, Füllen, Wiegen und Versandvorbereiten keramischer Rohstoffe;
 
-b)
+3. in der Fachrichtung Sand und Kies:a)Arbeitsplanung und systematische Störungsbeseitigung, b)Instandsetzen von Maschinen und Anlagen, c)Probenehmen und Durchführen von Maßnahmen zur Qualitätssicherung, d)Überwachen, Steuern und Regeln von automatisierten und teilautomatisierten Aufbereitungsabläufen, e)Verladen, Wiegen und Versandvorbereiten von Sand und Kies; Arbeitsplanung und systematische Störungsbeseitigung, Instandsetzen von Maschinen und Anlagen, Probenehmen und Durchführen von Maßnahmen zur Qualitätssicherung, Überwachen, Steuern und Regeln von automatisierten und teilautomatisierten Aufbereitungsabläufen, Verladen, Wiegen und Versandvorbereiten von Sand und Kies;
 
-c)
+4. in der Fachrichtung Steinkohle:a)Arbeitsplanung und systematische Störungsbeseitigung, b)Instandsetzen von Maschinen und Anlagen, c)Probenehmen und Durchführen von Maßnahmen zur Qualitätssicherung, d)Überwachen, Steuern und Regeln von automatisierten und teilautomatisierten Aufbereitungsabläufen, e)Verladen, Wiegen und Versandvorbereiten von Steinkohle; Arbeitsplanung und systematische Störungsbeseitigung, Instandsetzen von Maschinen und Anlagen, Probenehmen und Durchführen von Maßnahmen zur Qualitätssicherung, Überwachen, Steuern und Regeln von automatisierten und teilautomatisierten Aufbereitungsabläufen, Verladen, Wiegen und Versandvorbereiten von Steinkohle;
 
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-5.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+5. in der Fachrichtung Braunkohle:a)Arbeitsplanung und systematische Störungsbeseitigung, b)Instandsetzen von Maschinen und Anlagen, c)Probenehmen und Durchführen von Maßnahmen zur Qualitätssicherung, d)Überwachen, Steuern und Regeln von automatisierten und teilautomatisierten Gewinnungs- und Aufbereitungsabläufen, e)Verladen, Wiegen und Versandvorbereiten von Braunkohle. Arbeitsplanung und systematische Störungsbeseitigung, Instandsetzen von Maschinen und Anlagen, Probenehmen und Durchführen von Maßnahmen zur Qualitätssicherung, Überwachen, Steuern und Regeln von automatisierten und teilautomatisierten Gewinnungs- und Aufbereitungsabläufen, Verladen, Wiegen und Versandvorbereiten von Braunkohle.
 
 ### § 4 — Ausbildungsrahmenplan
 
@@ -148,159 +98,55 @@ Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu
 
 (3) Zum Nachweis der Fertigkeiten soll der Prüfling in höchstens vier Stunden ein Prüfungsstück anfertigen und in insgesamt höchstens zwei Stunden zwei Arbeitsproben durchführen. Hierfür kommen insbesondere in Betracht:
 
-1.
+1. als Prüfungsstück: Anfertigen einer mechanischen Baugruppe durch manuelles und maschinelles Spanen, Kaltumformen und Fügen einschließlich Erstellen eines Arbeitsplanes sowie eines Prüfprotokolls;
 
-2.
-
-a)
-
-b)
+2. als Arbeitsproben:a)Herstellen einer mechanischen Verbindung, b)Aufbau einer steuerungstechnischen Baugruppe und Funktionsprüfung. Herstellen einer mechanischen Verbindung, Aufbau einer steuerungstechnischen Baugruppe und Funktionsprüfung.
 
 (4) Zum Nachweis der Kenntnisse soll der Prüfling in insgesamt höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, aus folgenden Gebieten schriftlich lösen:
 
-1.
+1. Arbeitssicherheit, Umweltschutz sowie rationelle Energieverwendung,
 
-2.
+2. Lesen, Anwenden und Erstellen technischer Unterlagen,
 
-3.
+3. berufsbezogene Berechnungen,
 
-4.
+4. Vorkommen, Eigenschaften und Verwendung von Rohstoffen,
 
-5.
+5. Verfahren der Gewinnung, Aufbereitung und Weiterverarbeitung von Rohstoffen,
 
-6.
+6. Maschinen und Anlagen zur Gewinnung, Aufbereitung und Weiterverarbeitung von Rohstoffen,
 
-7.
+7. Grundlagen der Elektro-, Mess-, Steuerungs- und Regelungstechnik.
 
 ### § 8 — Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung unter Beachtung fachrichtungsspezifischer Besonderheiten in höchstens sechs Stunden ein Prüfungsstück anfertigen und in insgesamt höchstens vier Stunden vier Arbeitsproben durchführen. Hierfür kommen insbesondere in Betracht: Dabei sollen das Prüfungsstück mit 40 und die Arbeitsproben zusammen mit 60 vom Hundert gewichtet werden.
+(2) Der Prüfling soll im praktischen Teil der Prüfung unter Beachtung fachrichtungsspezifischer Besonderheiten in höchstens sechs Stunden ein Prüfungsstück anfertigen und in insgesamt höchstens vier Stunden vier Arbeitsproben durchführen. Hierfür kommen insbesondere in Betracht:
 
-1.
+1. als Prüfungsstück: Herstellen einer Baugruppe mit elektropneumatischen oder elektrohydraulischen und elektrotechnischen Steuerungselementen einschließlich Funktionsprüfung oder Herstellen eines fachrichtungsspezifischen Produktes nach Vorgabe;
 
-2.
-
-a)
-
-b)
-
-c)
-
-d)
+2. als Arbeitsproben:a)Einstellen oder Inbetriebnehmen einer automatisierten oder teilautomatisierten Aufbereitungsanlage oder eines Anlagenteils, b)Instandsetzen einer mechanischen Baugruppe, c)Probenehmen, Prüfen und Analysieren einschließlich Dokumentieren, d)Fehlersuche. Einstellen oder Inbetriebnehmen einer automatisierten oder teilautomatisierten Aufbereitungsanlage oder eines Anlagenteils, Instandsetzen einer mechanischen Baugruppe, Probenehmen, Prüfen und Analysieren einschließlich Dokumentieren, Fehlersuche.
 
 (3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsfächern Technologie, Arbeitsplanung, Technische Mathematik sowie Wirtschafts- und Sozialkunde geprüft werden. Es kommen Fragen und Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
-1.
+1. im Prüfungsfach Technologie:a)in der Fachrichtung Naturstein:aa)Arbeitssicherheit, Umweltschutz sowie rationelle Energieverwendung, bb)Einteilung, Eigenschaften und Verwendung von Natursteinprodukten, cc)Mess-, Steuerungs-, Regelungs- und Prozessleittechnik für den Betrieb von Produktionsanlagen, dd)Gewinnungs- und Aufbereitungstechnik, ee)Aufbau und Wirkungsweise von Maschinen und Anlagen zur Gewinnung und Verarbeitung von Natursteinen, ff)Prüftechniken und Analyseverfahren von Natursteinen, gg)Verladen, Wiegen und Versandvorbereiten; b)in der Fachrichtung feuerfeste und keramische Rohstoffe:aa)Arbeitssicherheit, Umweltschutz sowie rationelle Energieverwendung, bb)Einteilung, Eigenschaften und Verwendung feuerfester und keramischer Rohstoffe, cc)Mess-, Steuerungs-, Regelungs- und Prozessleittechnik für den Betrieb von Produktionsanlagen, dd)Aufbereitungstechnik und Aufbereitungsverfahren, ee)Aufbau und Wirkungsweise von Maschinen und Anlagen zur Gewinnung und Aufbereitung feuerfester und keramischer Rohstoffe, ff)Prüftechniken und Analyseverfahren feuerfester und keramischer Rohstoffe, gg)Füllen, Wiegen und Versandvorbereiten; c)in der Fachrichtung Sand und Kies:aa)Arbeitssicherheit, Umweltschutz sowie rationelle Energieverwendung, bb)Einteilung, Eigenschaften und Verwendung von Sand und Kies, cc)Mess-, Steuerungs-, Regelungs- und Prozessleittechnik für den fertigungstechnischen Betrieb von Produktionsanlagen, dd)Gewinnungs- und Aufbereitungstechnik, ee)Aufbau und Wirkungsweise von Maschinen und Anlagen zur Gewinnung und Aufbereitung von Sand und Kies, ff)Prüftechniken und Analyseverfahren, gg)Verladen, Wiegen und Versandvorbereiten; d)in der Fachrichtung Steinkohle:aa)Arbeitssicherheit, Umweltschutz sowie rationelle Energieverwendung, bb)Einteilung, Eigenschaften und Verwendung von Steinkohle, cc)Mess-, Steuerungs-, Regelungs- und Prozessleittechnik in der Steinkohleaufbereitung, dd)Aufbereitungstechnik und Aufbereitungsverfahren von Steinkohle, ee)Aufbau und Wirkungsweise von Maschinen und Anlagen zur Steinkohleaufbereitung, ff)Prüftechniken und Analyseverfahren von Steinkohle, gg)Verladen, Wiegen und Versandvorbereiten; e)in der Fachrichtung Braunkohle:aa)Arbeitssicherheit, Umweltschutz sowie rationelle Energieverwendung, bb)Einteilung, Eigenschaften und Verwendung von Braunkohle, cc)Mess-, Steuerungs-, Regelungs- und Prozessleittechnik in der Braunkohlegewinnung und -aufbereitung, dd)Gewinnungs- und Aufbereitungstechnik sowie -verfahren von Braunkohle, ee)Aufbau und Wirkungsweise von Maschinen und Anlagen zur Braunkohlegewinnung und -aufbereitung, ff)Prüftechniken und Analyseverfahren für Braunkohle, gg)Verladen, Wiegen und Versandvorbereiten; in der Fachrichtung Naturstein:aa)Arbeitssicherheit, Umweltschutz sowie rationelle Energieverwendung, bb)Einteilung, Eigenschaften und Verwendung von Natursteinprodukten, cc)Mess-, Steuerungs-, Regelungs- und Prozessleittechnik für den Betrieb von Produktionsanlagen, dd)Gewinnungs- und Aufbereitungstechnik, ee)Aufbau und Wirkungsweise von Maschinen und Anlagen zur Gewinnung und Verarbeitung von Natursteinen, ff)Prüftechniken und Analyseverfahren von Natursteinen, gg)Verladen, Wiegen und Versandvorbereiten; Arbeitssicherheit, Umweltschutz sowie rationelle Energieverwendung, Einteilung, Eigenschaften und Verwendung von Natursteinprodukten, Mess-, Steuerungs-, Regelungs- und Prozessleittechnik für den Betrieb von Produktionsanlagen, Gewinnungs- und Aufbereitungstechnik, Aufbau und Wirkungsweise von Maschinen und Anlagen zur Gewinnung und Verarbeitung von Natursteinen, Prüftechniken und Analyseverfahren von Natursteinen, Verladen, Wiegen und Versandvorbereiten; in der Fachrichtung feuerfeste und keramische Rohstoffe:aa)Arbeitssicherheit, Umweltschutz sowie rationelle Energieverwendung, bb)Einteilung, Eigenschaften und Verwendung feuerfester und keramischer Rohstoffe, cc)Mess-, Steuerungs-, Regelungs- und Prozessleittechnik für den Betrieb von Produktionsanlagen, dd)Aufbereitungstechnik und Aufbereitungsverfahren, ee)Aufbau und Wirkungsweise von Maschinen und Anlagen zur Gewinnung und Aufbereitung feuerfester und keramischer Rohstoffe, ff)Prüftechniken und Analyseverfahren feuerfester und keramischer Rohstoffe, gg)Füllen, Wiegen und Versandvorbereiten; Arbeitssicherheit, Umweltschutz sowie rationelle Energieverwendung, Einteilung, Eigenschaften und Verwendung feuerfester und keramischer Rohstoffe, Mess-, Steuerungs-, Regelungs- und Prozessleittechnik für den Betrieb von Produktionsanlagen, Aufbereitungstechnik und Aufbereitungsverfahren, Aufbau und Wirkungsweise von Maschinen und Anlagen zur Gewinnung und Aufbereitung feuerfester und keramischer Rohstoffe, Prüftechniken und Analyseverfahren feuerfester und keramischer Rohstoffe, Füllen, Wiegen und Versandvorbereiten; in der Fachrichtung Sand und Kies:aa)Arbeitssicherheit, Umweltschutz sowie rationelle Energieverwendung, bb)Einteilung, Eigenschaften und Verwendung von Sand und Kies, cc)Mess-, Steuerungs-, Regelungs- und Prozessleittechnik für den fertigungstechnischen Betrieb von Produktionsanlagen, dd)Gewinnungs- und Aufbereitungstechnik, ee)Aufbau und Wirkungsweise von Maschinen und Anlagen zur Gewinnung und Aufbereitung von Sand und Kies, ff)Prüftechniken und Analyseverfahren, gg)Verladen, Wiegen und Versandvorbereiten; Arbeitssicherheit, Umweltschutz sowie rationelle Energieverwendung, Einteilung, Eigenschaften und Verwendung von Sand und Kies, Mess-, Steuerungs-, Regelungs- und Prozessleittechnik für den fertigungstechnischen Betrieb von Produktionsanlagen, Gewinnungs- und Aufbereitungstechnik, Aufbau und Wirkungsweise von Maschinen und Anlagen zur Gewinnung und Aufbereitung von Sand und Kies, Prüftechniken und Analyseverfahren, Verladen, Wiegen und Versandvorbereiten; in der Fachrichtung Steinkohle:aa)Arbeitssicherheit, Umweltschutz sowie rationelle Energieverwendung, bb)Einteilung, Eigenschaften und Verwendung von Steinkohle, cc)Mess-, Steuerungs-, Regelungs- und Prozessleittechnik in der Steinkohleaufbereitung, dd)Aufbereitungstechnik und Aufbereitungsverfahren von Steinkohle, ee)Aufbau und Wirkungsweise von Maschinen und Anlagen zur Steinkohleaufbereitung, ff)Prüftechniken und Analyseverfahren von Steinkohle, gg)Verladen, Wiegen und Versandvorbereiten; Arbeitssicherheit, Umweltschutz sowie rationelle Energieverwendung, Einteilung, Eigenschaften und Verwendung von Steinkohle, Mess-, Steuerungs-, Regelungs- und Prozessleittechnik in der Steinkohleaufbereitung, Aufbereitungstechnik und Aufbereitungsverfahren von Steinkohle, Aufbau und Wirkungsweise von Maschinen und Anlagen zur Steinkohleaufbereitung, Prüftechniken und Analyseverfahren von Steinkohle, Verladen, Wiegen und Versandvorbereiten; in der Fachrichtung Braunkohle:aa)Arbeitssicherheit, Umweltschutz sowie rationelle Energieverwendung, bb)Einteilung, Eigenschaften und Verwendung von Braunkohle, cc)Mess-, Steuerungs-, Regelungs- und Prozessleittechnik in der Braunkohlegewinnung und -aufbereitung, dd)Gewinnungs- und Aufbereitungstechnik sowie -verfahren von Braunkohle, ee)Aufbau und Wirkungsweise von Maschinen und Anlagen zur Braunkohlegewinnung und -aufbereitung, ff)Prüftechniken und Analyseverfahren für Braunkohle, gg)Verladen, Wiegen und Versandvorbereiten; Arbeitssicherheit, Umweltschutz sowie rationelle Energieverwendung, Einteilung, Eigenschaften und Verwendung von Braunkohle, Mess-, Steuerungs-, Regelungs- und Prozessleittechnik in der Braunkohlegewinnung und -aufbereitung, Gewinnungs- und Aufbereitungstechnik sowie -verfahren von Braunkohle, Aufbau und Wirkungsweise von Maschinen und Anlagen zur Braunkohlegewinnung und -aufbereitung, Prüftechniken und Analyseverfahren für Braunkohle, Verladen, Wiegen und Versandvorbereiten;
 
-a)
+2. im Prüfungsfach Arbeitsplanung:a)Handhaben von Skizzen und Technischen Zeichnungen, Tabellen, Statistiken, Diagrammen, Montage-, Schalt- und Arbeitsplänen, Materialfluss- und Funktionsablaufplänen sowie von Betriebsablaufplänen, b)Interpretation technischer Daten, c)anwendungsbezogene Datenverarbeitung; Handhaben von Skizzen und Technischen Zeichnungen, Tabellen, Statistiken, Diagrammen, Montage-, Schalt- und Arbeitsplänen, Materialfluss- und Funktionsablaufplänen sowie von Betriebsablaufplänen, Interpretation technischer Daten, anwendungsbezogene Datenverarbeitung;
 
-aa)
+3. im Prüfungsfach Technische Mathematik:a)Ermitteln von Mischungen und Dosierungen, b)Rechnen mit physikalischen und technischen Größen, c)Ermitteln und Auswerten von Produktionsdaten; Ermitteln von Mischungen und Dosierungen, Rechnen mit physikalischen und technischen Größen, Ermitteln und Auswerten von Produktionsdaten;
 
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-ff)
-
-gg)
-
-b)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-ff)
-
-gg)
-
-c)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-ff)
-
-gg)
-
-d)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-ff)
-
-gg)
-
-e)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-ff)
-
-gg)
-
-2.
-
-a)
-
-b)
-
-c)
-
-3.
-
-a)
-
-b)
-
-c)
-
-4.
+4. im Prüfungsfach Wirtschafts- und Sozialkunde: allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 (4) Für die schriftliche Kenntnisprüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
-1.
+1. im Prüfungsfach Technologie 120 Minuten,
 
-2.
+2. im Prüfungsfach Arbeitsplanung 90 Minuten,
 
-3.
+3. im Prüfungsfach Technische Mathematik 90 Minuten,
 
-4.
+4. im Prüfungsfach Wirtschafts- und Sozialkunde 60 Minuten.
 
 (5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 

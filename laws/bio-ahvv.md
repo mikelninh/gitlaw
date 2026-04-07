@@ -17,45 +17,45 @@ Diese Verordnung gilt für Unternehmen der Außer-Haus-Verpflegung.
 
 Im Sinne dieser Verordnung ist oder sind:
 
-1.
+1. „Unternehmen der Außer-Haus-Verpflegung“: Anbieter von Gemeinschaftsverpflegung im Sinne des Artikels 2 Absatz 2 Buchstabe d der Verordnung (EU) 1169/2011 des Europäischen Parlamentes und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S.18),
 
-2.
+2. „Unternehmer“: jede natürliche oder juristische Person, die dafür verantwortlich ist, dass die Anforderungen dieser Verordnung in dem ihrer Aufsicht unterstehenden Unternehmen der Außer-Haus-Verpflegung erfüllt werden,
 
-3.
+3. „Lebensmittel“: Lebensmittel im Sinne des Artikels 2 der Verordnung (EG) 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S.1),
 
-4.
+4. „Zutat“: Zutat im Sinne des Artikels 2 Absatz 2 Buchstabe f der VO (EU) 1169/2011 von Erzeugnissen der Außer-Haus-Verpflegung,
 
-5.
+5. „Erzeugnis der Außer-Haus-Verpflegung“: Lebensmittel, das in einem Unternehmen der Außer-Haus-Verpflegung hergestellt oder zubereitet und dort an Verbraucher abgegeben wird,
 
-6.
+6. „ökologische/biologische Zutat“: Zutat, welche aus ökologischer/biologischer Produktion gemäß Artikel 3 Nummer 1 der Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates (ABl. L 150 vom 14.6.2018, S. 1) stammt, ausgenommen eine solche, die während des Umstellungszeitraums gemäß Artikel 10 der Verordnung (EU) 2018/848 hergestellt wird,
 
-7.
+7. „ökologisches/biologisches Erzeugnis“: Erzeugnis, welches aus ökologischer/biologischer Produktion gemäß Artikel 3 Nummer 1 der Verordnung (EU) 2018/848 stammt, ausgenommen ein solches, das während des Umstellungszeitraums gemäß Artikel 10 der Verordnung (EU) 2018/848 hergestellt wird,
 
-8.
+8. „Umstellungsprodukt“: Zutat oder Erzeugnis, das während des Umstellungszeitraums nach Artikel 10 der Verordnung (EU) 2018/848 hergestellt wird,
 
-9.
+9. „ökologische/biologische Produktion“: ökologische/biologische Produktion im Sinne des Artikels 3 Nummer 1 der Verordnung (EU) 2018/848,
 
-10.
+10. „Bio-Anteil“: der in Prozent ausgewiesene Anteil der ökologischen/biologischen Zutaten und Erzeugnisse am Geldwert des Gesamtwareneinkaufs der von einer Betriebseinheit bezogenen Zutaten und Erzeugnisse,
 
-11.
+11. „zuständige Behörde“: die nach § 2 Absatz 1 des Öko-Landbaugesetzes zuständige Behörde,
 
-12.
+12. „Betriebseinheit“: Unternehmen oder Teil eines Unternehmens der Außer-Haus-Verpflegung mit eigenständiger Organisation und Abrechnung,
 
-13.
+13. „Bio-Zutatenübersicht“: Übersicht aller Zutaten und Erzeugnisse, die mit Bezug auf die ökologische/biologische Produktion gekennzeichnet sind,
 
-14.
+14. „Nicht-Bio-Zutatenübersicht“: Übersicht aller nichtökologischen/nichtbiologischen Zutaten und Erzeugnisse einschließlich der Umstellungsprodukte,
 
-15.
+15. „Veranstaltungszertifikat“: Zertifikat, das von einer Kontrollstelle für einen Anlass, der bis auf eine Dauer von bis zu zwei Monaten befristet ist, ausgestellt wird.
 
 ## Abschnitt 2: Produktion, Kennzeichnung und Auszeichnung
 
 ### § 3 — Kennzeichnung von Zutaten und Erzeugnissen und Auszeichnung des Bio-Anteils
 
-(1) Unbeschadet der allgemeinen Vorschriften zur Kennzeichnung von Lebensmitteln darf ein Unternehmer Der Unternehmer hat sicherzustellen, dass er im Zeitpunkt der Kennzeichnung nach Satz 1 Nummer 1 oder der zusätzlichen Auszeichnung nach Satz 1 Nummer 2 im Besitz eines gültigen Zertifikats nach § 13 Absatz 3 oder § 14 Absatz 1 Satz 3 ist.
+(1) Unbeschadet der allgemeinen Vorschriften zur Kennzeichnung von Lebensmitteln darf ein Unternehmer
 
-1.
+1. Zutaten und Erzeugnisse nach Maßgabe des § 4 Absatz 1 und 2 Satz 1, § 5 Absatz 3, § 6 Absatz 1 und § 7 Absatz 1 und 2 kennzeichnen und
 
-2.
+2. den Bio-Anteil an Zutaten und Erzeugnissen nach Maßgabe des § 8 zusätzlich auszeichnen, sofern eine Kennzeichnung nach Nummer 1 erfolgt.
 
 (2) Es ist verboten, Zutaten und Erzeugnisse in anderer als der in Absatz 1 Nummer 1 bezeichneten Weise zu kennzeichnen.
 
@@ -65,23 +65,15 @@ Im Sinne dieser Verordnung ist oder sind:
 
 (1) Ein Unternehmer darf Zutaten und Erzeugnisse unbeschadet der weiteren Anforderungen nach Absatz 2 Satz 1 nur dann
 
-1.
+1. als ökologisch/biologisch kennzeichnen, wenn er diese Zutaten und Erzeugnisse a)als nach Artikel 30 Absatz 1 der Verordnung (EU) 2018/848 gekennzeichnete Ware bezogen hat oderb)im eigenen landwirtschaftlichen Unternehmen, das nach Artikel 35 Absatz 1 der Verordnung (EU) 2018/848 zertifiziert ist, ökologisch/biologisch, ausgenommen während des Umstellungszeitraums nach Artikel 10 der Verordnung (EU) 2018/848, produziert hat, als nach Artikel 30 Absatz 1 der Verordnung (EU) 2018/848 gekennzeichnete Ware bezogen hat oder im eigenen landwirtschaftlichen Unternehmen, das nach Artikel 35 Absatz 1 der Verordnung (EU) 2018/848 zertifiziert ist, ökologisch/biologisch, ausgenommen während des Umstellungszeitraums nach Artikel 10 der Verordnung (EU) 2018/848, produziert hat,
 
-a)
+2. als Umstellungsprodukt kennzeichnen, wenn er diese Zutaten und Erzeugnisse a)als nach Artikel 30 Absatz 3 Unterabsatz 2 der Verordnung (EU) 2018/848 gekennzeichnete Ware bezogen hat oderb)im eigenen landwirtschaftlichen Unternehmen, das nach Artikel 35 Absatz 1 der Verordnung (EU) 2018/848 zertifiziert ist, ökologisch/biologisch während des Umstellungszeitraums nach Artikel 10 der Verordnung (EU) 2018/848 produziert hat. als nach Artikel 30 Absatz 3 Unterabsatz 2 der Verordnung (EU) 2018/848 gekennzeichnete Ware bezogen hat oder im eigenen landwirtschaftlichen Unternehmen, das nach Artikel 35 Absatz 1 der Verordnung (EU) 2018/848 zertifiziert ist, ökologisch/biologisch während des Umstellungszeitraums nach Artikel 10 der Verordnung (EU) 2018/848 produziert hat.
 
-b)
+(2) Ein Unternehmer darf eine Zutat oder ein Erzeugnis nur dann mit Bezug auf die ökologische/biologische Produktion kennzeichnen, wenn er die gleiche Zutat oder das gleiche Erzeugnis aus nichtökologischer/nichtbiologischer Produktion nicht am selben Tag in derselben oder für dieselbe Betriebseinheit
 
-2.
+1. verwendet oder verwenden lässt und
 
-a)
-
-b)
-
-(2) Ein Unternehmer darf eine Zutat oder ein Erzeugnis nur dann mit Bezug auf die ökologische/biologische Produktion kennzeichnen, wenn er die gleiche Zutat oder das gleiche Erzeugnis aus nichtökologischer/nichtbiologischer Produktion nicht am selben Tag in derselben oder für dieselbe Betriebseinheit Satz 1 Nummer 2 gilt nicht, solange der Unternehmer die zusätzlichen Aufzeichnungspflichten nach § 11 Absatz 2 erfüllt.
-
-1.
-
-2.
+2. lagert oder lagern lässt.
 
 ### § 5 — Gestaltung der Kennzeichnung
 
@@ -89,11 +81,11 @@ b)
 
 (2) Zutaten und Erzeugnisse dürfen auch nach Satz 2 Nummer 1 bis 3 zusammenfassend gekennzeichnet werden, wobei die Differenzierung nach ökologischen/biologischen Produkten und Umstellungsprodukten gewährleistet sein muss. Zulässig ist
 
-1.
+1. eine in Produktgruppen zusammenfassende Kennzeichnung,
 
-2.
+2. bei ausschließlicher Verwendung von Zutaten aus ökologischer/biologischer Produktion für eine Speise oder ein Getränk eine zusammenfassende Kennzeichnung in Form einer Feststellung, dass alle Zutaten dieser Speise oder dieses Getränks biologisch/ökologisch produziert worden sind,
 
-3.
+3. bei ausschließlicher Verwendung von Zutaten und Erzeugnissen aus ökologischer/biologischer Produktion im Unternehmen eine zusammenfassende Kennzeichnung in Form einer Feststellung, dass alle im Unternehmen verwendeten Zutaten und Erzeugnisse biologisch/ökologisch produziert worden sind.
 
 (3) Die Schriftgröße der Kennzeichnung nach § 4 Absatz 1 und 2 Satz 1 darf nicht größer sein als die Schriftgröße der Bezeichnung der Zutaten und Erzeugnisse.
 
@@ -111,29 +103,29 @@ b)
 
 (2) Länderkennzeichen, Verbandslogos und sonstige private Kennzeichen mit Bezug auf die ökologische/biologische Produktion dürfen
 
-1.
+1. zur Kennzeichnung von Zutaten und Erzeugnissen genutzt werden, welche die Voraussetzungen des jeweiligen Kennzeichens oder Logos erfüllen, und
 
-2.
+2. darüber hinaus genutzt werden, wenn unabhängig von einer Zutat oder einem Erzeugnis der ökologische Landbau beworben wird, solange nicht der Eindruck erweckt wird, dass der Herstellungsprozess im Unternehmen der Außer-Haus-Verpflegung nach den Vorgaben der Verordnung (EU) 2018/848 erfolgt.
 
 ### § 8 — Auszeichnung des Bio-Anteils
 
 (1) Zusätzlich zur Kennzeichnung nach § 4 Absatz 1 darf ein Unternehmer für seine Betriebseinheiten deren jeweiligen Bio-Anteil nur auszeichnen, sofern dieser von der nach § 3 Absatz 1a des Öko-Landbaugesetzes zuständigen Kontrollstelle geprüft und zertifiziert wurde.
 
-(2) Für die Auszeichnung nach Absatz 1 darf ein Unternehmer nur das Kennzeichen nach Anlage 1 (AHV-Kennzeichen) verwenden, das für den eingesetzten Bio-Anteil die nach Satz 2 zutreffende Kategorie ausweist. Die Kategorien des Kennzeichens sind: Der Bio-Anteil ist kaufmännisch auf ganze Zahlen zu runden.
+(2) Für die Auszeichnung nach Absatz 1 darf ein Unternehmer nur das Kennzeichen nach Anlage 1 (AHV-Kennzeichen) verwenden, das für den eingesetzten Bio-Anteil die nach Satz 2 zutreffende Kategorie ausweist. Die Kategorien des Kennzeichens sind:
 
-1.
+1. erste Kategorie bei einem Bio-Anteil von 20 bis 49 Prozent,
 
-2.
+2. zweite Kategorie bei einem Bio-Anteil von 50 bis 89 Prozent und
 
-3.
+3. dritte Kategorie bei einem Bio-Anteil von 90 bis 100 Prozent.
 
 (3) Das AHV-Kennzeichen hat sich nach der Maßgabe des Musters und der technischen Beschreibung der Anlage 1 zu richten. Das Weglassen oder Hinzufügen von Bestandteilen oder sonstige Änderungen der Kennzeichnung sind verboten.
 
 (4) Es ist verboten,
 
-1.
+1. eine Kategorie des Kennzeichens nach Absatz 2 Satz 2 zu verwenden, die einen größeren Bio-Anteil als den tatsächlichen Bio-Anteil auszeichnet oder
 
-2.
+2. eine dem AHV-Kennzeichen nachgemachte Kennzeichnung, die zur Irreführung über den Bio-Anteil geeignet ist, zu verwenden.
 
 ### § 9 — Berechnung und Zertifizierung des Bio-Anteils
 
@@ -145,11 +137,11 @@ b)
 
 (4) Der Unternehmer kann eine Erhöhung des Bio-Anteils jederzeit von seiner Kontrollstelle prüfen und zertifizieren lassen. Es gilt der Berechnungszeitraum nach Absatz 3 Satz 2.
 
-(5) Der Unternehmer hat nach Maßgabe des Satzes 2 der Kontrollstelle eine Verringerung des durchschnittlichen Bio-Anteils im Berechnungszeitraum nach Absatz 3 Satz 1 oder 2 mitzuteilen, sobald diese Die Mitteilung hat unverzüglich nach Ablauf des Monats zu erfolgen. Die Kontrollstelle hat die Verringerung zu überprüfen und für den festgestellten Bio-Anteil ein aktualisiertes Zertifikat auszustellen.
+(5) Der Unternehmer hat nach Maßgabe des Satzes 2 der Kontrollstelle eine Verringerung des durchschnittlichen Bio-Anteils im Berechnungszeitraum nach Absatz 3 Satz 1 oder 2 mitzuteilen, sobald diese
 
-1.
+1. mehr als einen Monat angedauert hat und
 
-2.
+2. zur Einordnung in eine andere Auszeichnungskategorie führt oder der untere Schwellenwert der ersten Kategorie nicht mehr erreicht wird.
 
 ## Abschnitt 3: Unternehmerpflichten
 
@@ -157,37 +149,31 @@ b)
 
 (1) Vor der erstmaligen Verwendung von Bezeichnungen mit Bezug auf die ökologische/biologische Produktion und vor der erstmaligen Auszeichnung des Bio-Anteils hat ein Unternehmer die Absicht der Verwendung oder Auszeichnung unter Angabe der Daten des Absatzes 2 Satz 1 und 3 der zuständigen Behörde mitzuteilen. Darüber hinaus hat er über ein gültiges Zertifikat seiner Kontrollstelle nach § 13 Absatz 3 oder § 14 Absatz 1 Satz 3 zu verfügen.
 
-(2) Der Unternehmer hat eine vollständige Beschreibung seiner Betriebseinheiten, in denen Zutaten und Erzeugnisse nach § 4 Absatz 1 und 2 Satz 1 gekennzeichnet werden, zu erstellen. Er hat diese Beschreibung fortlaufend zu aktualisieren. Die Beschreibung hat zu umfassen: Die Sätze 1 bis 3 gelten nicht für Unternehmer nach § 3 Absatz 3.
+(2) Der Unternehmer hat eine vollständige Beschreibung seiner Betriebseinheiten, in denen Zutaten und Erzeugnisse nach § 4 Absatz 1 und 2 Satz 1 gekennzeichnet werden, zu erstellen. Er hat diese Beschreibung fortlaufend zu aktualisieren. Die Beschreibung hat zu umfassen:
 
-1.
+1. den Namen und die Anschrift des Unternehmers,
 
-2.
+2. die Bezeichnung seiner Betriebseinheiten und
 
-3.
+3. die Beschreibung der Tätigkeiten seiner Betriebseinheiten.
 
 (3) Ein Unternehmer muss sich vor Warenannahme über den Zertifizierungsstatus seiner Lieferanten informieren. Satz 1 gilt nicht beim Einkauf im Lebensmitteleinzelhandel und vergleichbaren Einkaufsstätten, auf Märkten, in Hofläden oder bei einem Bezug von Zutaten aus dem eigenen landwirtschaftlichen Unternehmen.
 
 (4) Der Unternehmer hat sicherzustellen, dass die ökologischen/biologischen Zutaten und Erzeugnisse, die Umstellungsprodukte sowie die nicht ökologischen/nicht biologischen Zutaten und Erzeugnisse im Lager eindeutig voneinander getrennt und als solche erkennbar sind und jedes Vertauschen ausgeschlossen ist. Ausgenommen von dieser Pflicht sind Unternehmer nach § 3 Absatz 3.
 
-(5) Der Unternehmer hat der zuständigen Behörde und der Kontrollstelle, die das Zertifikat nach § 13 Absatz 3 oder § 14 Absatz 1 Satz 3 ausgestellt hat, unverzüglich anzuzeigen, wenn er Im Fall von Satz 1 Nummer 2 hat der Unternehmer den Namen und die Anschrift der neuen Kontrollstelle anzuzeigen.
+(5) Der Unternehmer hat der zuständigen Behörde und der Kontrollstelle, die das Zertifikat nach § 13 Absatz 3 oder § 14 Absatz 1 Satz 3 ausgestellt hat, unverzüglich anzuzeigen, wenn er
 
-1.
+1. die Kennzeichnung von Zutaten und Erzeugnissen aus ökologischer/biologischer Produktion aufgegeben hat,
 
-2.
+2. die Kontrollstelle gewechselt hat.
 
 ### § 11 — Aufzeichnungspflichten bei Kennzeichnung nach § 4
 
 (1) Sofern ein Unternehmer Zutaten oder Erzeugnisse nach § 4 kennzeichnet, hat er schriftlich oder elektronisch Folgendes aufzuzeichnen:
 
-1.
+1. den Namen und die Anschrift jedes Lieferanten oder der sonstigen Bezugsquellen,
 
-2.
-
-a)
-
-b)
-
-c)
+2. die Art, die Menge und den Zeitpunkt der von der Betriebseinheit bezogenen a)ökologischen/biologischen Zutaten und Erzeugnisse,b)Zutaten und Erzeugnisse aus der Umstellung auf die ökologische Produktion undc)nicht ökologischen/nicht biologischen Zutaten und Erzeugnisse. ökologischen/biologischen Zutaten und Erzeugnisse, Zutaten und Erzeugnisse aus der Umstellung auf die ökologische Produktion und nicht ökologischen/nicht biologischen Zutaten und Erzeugnisse.
 
 (2) Sofern ein Unternehmer zeitgleich in derselben Betriebseinheit gleiche Zutaten oder Erzeugnisse aus ökologischer/biologischer Produktion und aus nicht ökologischer/nicht biologischer Produktion lagert, hat er sicherzustellen, dass Art und Anzahl der ausgegebenen Speisen und Getränke aus der Buchführung hervorgehen. Eine Warenflussdokumentation ist nicht erforderlich.
 
@@ -195,15 +181,15 @@ c)
 
 (1) Sofern ein Unternehmer den Bio-Anteil nach § 8 auszeichnet, hat er für jeden Wareneinkauf schriftlich oder elektronisch Folgendes aufzuzeichnen:
 
-1.
+1. den Namen und die Anschrift jedes Lieferanten oder der sonstigen Bezugsquelle,
 
-2.
+2. die Rechnungsnummer und das Rechnungsdatum,
 
-3.
+3. den in Geldwert ausgedrückten Netto-Gesamtbetrag aller ökologischen/biologischen Zutaten und Erzeugnisse und deren monatlichen Netto-Gesamtbetrag,
 
-4.
+4. den in Geldwert ausgedrückten Netto-Gesamtbetrag aller nicht ökologischen/nicht biologischen Zutaten und Erzeugnisse und deren monatlichen Netto-Gesamtbetrag und
 
-5.
+5. den in Geldwert ausgedrückten Netto-Gesamtbetrag aller Produkte, die nicht in die Berechnung nach § 9 Absatz 1 Satz 1 einfließen dürfen und deren monatlichen Netto-Gesamtbetrag.
 
 (2) Nicht in die Berechnung nach § 9 Absatz 1 Satz 1 einfließen dürfen Produkte, die keine Lebensmittel sind, und Wasser.
 
@@ -217,11 +203,11 @@ c)
 
 (2) Die Kontrollstelle hat den Unternehmer einmal jährlich zu kontrollieren. Mit Ausnahme der Erstkontrolle sind die Kontrollen in der Regel unangekündigt durchzuführen.
 
-(3) Bei Einhaltung der Vorgaben dieser Verordnung hat die Kontrollstelle dem Unternehmer ein Zertifikat auszustellen. Auf Antrag des Unternehmers ist das Zertifikat auszustellen Das Zertifikat hat sich nach der Maßgabe des Musters der Anlage 2 zu richten. Das Weglassen oder Hinzufügen von Bestandteilen oder sonstige Änderungen des Zertifikates sind verboten.
+(3) Bei Einhaltung der Vorgaben dieser Verordnung hat die Kontrollstelle dem Unternehmer ein Zertifikat auszustellen. Auf Antrag des Unternehmers ist das Zertifikat auszustellen
 
-1.
+1. als Zertifikat mit Auszeichnung des Bio-Anteils entsprechend den Anforderungen des § 8 Absatz 2 oder
 
-2.
+2. als Zertifikat ohne Auszeichnung des Bio-Anteils.
 
 (4) Kontrollen haben als Vor-Ort-Kontrollen stattzufinden. Abweichend von Satz 1 können Kontrollen, die nur der Überprüfung des Bio-Anteils dienen, als Verwaltungskontrollen und mit Ankündigung erfolgen.
 
@@ -243,15 +229,15 @@ c)
 
 (2) Der Kontrollbericht muss mindestens folgende Angaben enthalten:
 
-1.
+1. den Namen und die Anschrift der Betriebseinheit sowie die Kontrollnummer der Betriebseinheit bei der Kontrollstelle,
 
-2.
+2. das Datum und die Dauer der Vor-Ort-Kontrolle,
 
-3.
+3. den Namen derjenigen Person, die die Vor-Ort-Kontrolle durchgeführt hat, und, sofern eine Person nach § 13 Absatz 5 Satz 2 während der Vor-Ort-Kontrolle anwesend war, den Namen dieser Person,
 
-4.
+4. die kontrollierten Bereiche, die Nennung der eingesehenen Aufzeichnungen nach § 11 Absatz 1 und § 12 Absatz 1 und die Tätigkeiten der Betriebseinheit,
 
-5.
+5. festgestellte Verstöße, deren Umfang, die nach § 17 Absatz 1 Nummer 2 festgesetzten Maßnahmen und die zur Beseitigung andauernder Verstöße gesetzte Frist.
 
 (3) Festgestellte Verstöße sind, soweit dies nach der Art der Verstöße möglich ist, in geeigneter Weise durch Bildaufzeichnungen zu dokumentieren. Auf den Bildaufzeichnungen dürfen keine Personen und keine personenbezogenen Daten abgebildet sein. Diese Aufzeichnungen sind dem Kontrollbericht beizufügen.
 
@@ -265,17 +251,17 @@ c)
 
 ### § 17 — Feststellung von Verstößen
 
-(1) Sofern ein Verstoß gegen diese Verordnung festgestellt wird, hat die Kontrollstelle im Rahmen der ihr durch § 3 Absatz 1a des Öko-Landbaugesetzes zugewiesenen Befugnisse Darüber hinaus kann die Kontrollstelle Nachkontrollen durchführen.
+(1) Sofern ein Verstoß gegen diese Verordnung festgestellt wird, hat die Kontrollstelle im Rahmen der ihr durch § 3 Absatz 1a des Öko-Landbaugesetzes zugewiesenen Befugnisse
 
-1.
+1. dem Unternehmer eine angemessene Frist zur Beseitigung andauernder Verstöße zu setzen sowie
 
-2.
+2. geeignete Maßnahmen zu verhängen, um zu gewährleisten, dass der Unternehmer den Verstoß beendet und dass er erneute Verstöße dieser Art verhindert.
 
 (2) Erhält die zuständige Behörde, insbesondere aufgrund einer Unterrichtung einer Kontrollstelle nach § 5 Absatz 3 Satz 2 des Öko-Landbau-Gesetzes, davon Kenntnis, dass ein Unternehmer Zutaten oder Erzeugnisse unzutreffend mit Bezug auf die ökologische/biologische Produktion gekennzeichnet hat oder eine unzutreffende Auszeichnungskategorie nutzt und dieser Verstoß nicht nur geringfügig ist oder der Unternehmer den Maßnahmen der Kontrollstelle nach Absatz 1 nicht Folge leistet, kann sie
 
-1.
+1. dem Unternehmer die Kennzeichnung von Zutaten und Erzeugnissen mit Bezug auf die ökologische/biologische Produktion für einen bestimmten Zeitraum ganz oder teilweise untersagen und
 
-2.
+2. das Zertifikat nach § 13 Absatz 3 oder nach § 14 Absatz 1 Satz 4 befristet aussetzen oder aufheben.
 
 (3) Über die Nachkontrolle hat die Kontrollstelle einen Kontrollbericht nach Maßgabe des § 15 zu erstellen. Dieser ist der zuständigen Behörde auf deren Verlangen zu übermitteln.
 
@@ -287,69 +273,29 @@ c)
 
 Ordnungswidrig im Sinne des § 13 Absatz 2 Nummer 5 des Öko-Landbaugesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 3 Absatz 1 Satz 2 nicht sicherstellt, dass er im Besitz eines Zertifikats ist,
 
-2.
+2. entgegen § 4 Absatz 1 oder 2 Satz 1 eine Zutat oder ein Erzeugnis kennzeichnet,
 
-3.
+3. entgegen § 6 Absatz 1 Satz 1 eine dort genannte Übersicht nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise bereithält,
 
-4.
+4. entgegen § 8 Absatz 4 Nummer 1 oder 2 eine dort genannte Kategorie des Kennzeichens oder eine dort genannte Kennzeichnung verwendet,
 
-5.
+5. entgegen § 9 Absatz 5 Satz 1 oder § 10 Absatz 1 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder
 
-6.
+6. entgegen § 16 Absatz 1 den Zugang zu einer Betriebsstätte nicht gewährt, eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt oder eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt.
 
 ### Anlage 1 — (zu § 8 Absatz 2 und 3)
 
 Das AHV-Kennzeichen ist vorzugsweise in Farbe auszuführen. Im Bedarfsfall kann es in Schwarz-Weiß ausgeführt werden.
 
-1.
+1. Das AHV-Kennzeichen muss den nachstehenden Mustern entsprechen: a)Muster Kategorie „90–100“b)Muster Kategorie „50–89“c)Muster Kategorie „20–49“ Muster Kategorie „90–100“ Muster Kategorie „50–89“ Muster Kategorie „20–49“
 
-a)
+2. Technische Beschreibung der Kennzeichnung nach § 8 Absatz 2: a)FarbenDie Kennzeichnung kann je nach Anwendung mit Sonderfarbe (Pantone) oder vierfarbig (CMYK) umgesetzt werden. Je nach verwendetem Muster ist in den entsprechenden Farben zu drucken: aa)Muster „90–100“: Farbe Gold (Druck-Farbwert Pantone 8661 C, Druck-Farbwerte CMYK: C=25%, M=29%, Y=81%, K=9%)bb)Muster „50–89“: Farbe Silber (Druck-Farbwert Pantone 8001 C, Druck-Farbwerte CMYK: C=31%, M=25%, Y=25%, K=24%)cc)Muster „20–49“: Farbe Bronze (Druck-Farbwert Pantone 8582 C, Druck-Farbwerte CMYK: C=30%, M=51%, Y=72%, K=26%).Der Schriftzug „Bio“, die Prozentangabe sowie Gabel und Messer sind in weiß auszuführen.Das Kennzeichen ist auf weißem Grund zu drucken.b)AusgestaltungDas Kennzeichen ist kreisrund zu gestalten. Innerhalb des Kreises hat linksseitig horizontal das Wort „Bio“ zu stehen. Unter „Bio“ hat eine der drei Kategorien zu stehen: 1.„90–100 %“2.„50–89 %“3.„20–49 %“.Rechtsseitig sind Gabel und Messer abzubilden.c)GrößeDas AHV-Kennzeichen muss eine Mindesthöhe von 20 mm und eine Mindestbreite von 20 mm haben, das Verhältnis Höhe/Breite beträgt stets 1:1.d)DrehungEine Drehung des Kennzeichens ist nicht zulässig.e)Größen und RaumverhältnisDas Größenverhältnis und das räumliche Verhältnis der Wort- und der Grafikbestandteile der Kennzeichnung zueinander darf nicht verändert werden.f)SchutzzoneDas Kennzeichen verfügt über eine Schutzzone, in der kein anderes Element platziert werden darf. Die Schutzzone ergibt sich aus der Größe des Kennzeichenkreises und muss mindestens einem Drittel des Durchmessers des Kreises entsprechen, sodass ausreichend Platz um das Kennzeichen herum gewährleistet wird. Farben Die Kennzeichnung kann je nach Anwendung mit Sonderfarbe (Pantone) oder vierfarbig (CMYK) umgesetzt werden. Je nach verwendetem Muster ist in den entsprechenden Farben zu drucken: aa)Muster „90–100“: Farbe Gold (Druck-Farbwert Pantone 8661 C, Druck-Farbwerte CMYK: C=25%, M=29%, Y=81%, K=9%)bb)Muster „50–89“: Farbe Silber (Druck-Farbwert Pantone 8001 C, Druck-Farbwerte CMYK: C=31%, M=25%, Y=25%, K=24%)cc)Muster „20–49“: Farbe Bronze (Druck-Farbwert Pantone 8582 C, Druck-Farbwerte CMYK: C=30%, M=51%, Y=72%, K=26%).Der Schriftzug „Bio“, die Prozentangabe sowie Gabel und Messer sind in weiß auszuführen. Muster „90–100“: Farbe Gold (Druck-Farbwert Pantone 8661 C, Druck-Farbwerte CMYK: C=25%, M=29%, Y=81%, K=9%) Muster „50–89“: Farbe Silber (Druck-Farbwert Pantone 8001 C, Druck-Farbwerte CMYK: C=31%, M=25%, Y=25%, K=24%) Muster „20–49“: Farbe Bronze (Druck-Farbwert Pantone 8582 C, Druck-Farbwerte CMYK: C=30%, M=51%, Y=72%, K=26%). Das Kennzeichen ist auf weißem Grund zu drucken. Ausgestaltung Das Kennzeichen ist kreisrund zu gestalten. Innerhalb des Kreises hat linksseitig horizontal das Wort „Bio“ zu stehen. Unter „Bio“ hat eine der drei Kategorien zu stehen: 1.„90–100 %“2.„50–89 %“3.„20–49 %“.Rechtsseitig sind Gabel und Messer abzubilden. „90–100 %“ „50–89 %“ „20–49 %“. Größe Das AHV-Kennzeichen muss eine Mindesthöhe von 20 mm und eine Mindestbreite von 20 mm haben, das Verhältnis Höhe/Breite beträgt stets 1:1. Drehung Eine Drehung des Kennzeichens ist nicht zulässig. Größen und Raumverhältnis Das Größenverhältnis und das räumliche Verhältnis der Wort- und der Grafikbestandteile der Kennzeichnung zueinander darf nicht verändert werden. Schutzzone Das Kennzeichen verfügt über eine Schutzzone, in der kein anderes Element platziert werden darf. Die Schutzzone ergibt sich aus der Größe des Kennzeichenkreises und muss mindestens einem Drittel des Durchmessers des Kreises entsprechen, sodass ausreichend Platz um das Kennzeichen herum gewährleistet wird.
 
-b)
+1. Das AHV-Kennzeichen muss den nachstehenden Mustern entsprechen: a)Muster Kategorie „90–100“b)Muster Kategorie „50–89“c)Muster Kategorie „20–49“ Muster Kategorie „90–100“ Muster Kategorie „50–89“ Muster Kategorie „20–49“
 
-c)
-
-2.
-
-a)
-
-aa)
-
-bb)
-
-cc)
-
-b)
-
-1.
-
-2.
-
-3.
-
-c)
-
-d)
-
-e)
-
-f)
-
-1.
-
-a)
-
-b)
-
-c)
-
-2.
-
-a)
-
-b)
+2. Technische Beschreibung der Kennzeichnung nach § 8 Absatz 2: a)FarbenDie Kennzeichnung hat zweifarbig zu sein. Das kreisrunde Element ist in schwarz zu drucken (Schwarz-Anteil: black = 100 %).Der Schriftzug „Bio“, die Prozentangabe sowie Gabel und Messer sind in weiß auszuführen.b)Ausgestaltung, Größe, Drehung, Größen und Raumverhältnis, SchutzzoneDie technische Beschreibung der „Kennzeichnung in Farbe“ Nummer 2b bis f gilt entsprechend. Farben Die Kennzeichnung hat zweifarbig zu sein. Das kreisrunde Element ist in schwarz zu drucken (Schwarz-Anteil: black = 100 %). Der Schriftzug „Bio“, die Prozentangabe sowie Gabel und Messer sind in weiß auszuführen. Ausgestaltung, Größe, Drehung, Größen und Raumverhältnis, Schutzzone Die technische Beschreibung der „Kennzeichnung in Farbe“ Nummer 2b bis f gilt entsprechend.
 
 ### Anlage 2 — (zu § 13 Absatz 3)
 

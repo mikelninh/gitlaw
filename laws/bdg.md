@@ -18,13 +18,9 @@ Dieses Gesetz gilt für Beamte und Ruhestandsbeamte im Sinne des Bundesbeamtenge
 
 (1) Dieses Gesetz gilt für die
 
-1.
+1. von Beamten während ihres Beamtenverhältnisses begangenen Dienstvergehen (§ 77 Abs. 1 des Bundesbeamtengesetzes) und
 
-2.
-
-a)
-
-b)
+2. von Ruhestandsbeamtena)während ihres Beamtenverhältnisses begangenen Dienstvergehen (§ 77 Abs. 1 des Bundesbeamtengesetzes) undb)nach Eintritt in den Ruhestand begangenen als Dienstvergehen geltenden Handlungen (§ 77 Abs. 2 des Bundesbeamtengesetzes). während ihres Beamtenverhältnisses begangenen Dienstvergehen (§ 77 Abs. 1 des Bundesbeamtengesetzes) und nach Eintritt in den Ruhestand begangenen als Dienstvergehen geltenden Handlungen (§ 77 Abs. 2 des Bundesbeamtengesetzes).
 
 (2) Für Beamte und Ruhestandsbeamte, die früher in einem anderen Dienstverhältnis als Beamte, Richter, Berufssoldaten oder Soldaten auf Zeit gestanden haben, gilt dieses Gesetz auch wegen solcher Dienstvergehen, die sie in dem früheren Dienstverhältnis oder als Versorgungsberechtigte aus einem solchen Dienstverhältnis begangen haben; auch bei den aus einem solchen Dienstverhältnis Ausgeschiedenen und Entlassenen gelten Handlungen, die in § 77 Abs. 2 des Bundesbeamtengesetzes bezeichnet sind, als Dienstvergehen. Ein Wechsel des Dienstherrn steht der Anwendung dieses Gesetzes nicht entgegen.
 
@@ -45,21 +41,21 @@ Disziplinarverfahren sind beschleunigt durchzuführen.
 
 (1) Disziplinarmaßnahmen gegen Beamte sind:
 
-1.
+1. Verweis (§ 6)
 
-2.
+2. Geldbuße (§ 7)
 
-3.
+3. Kürzung der Dienstbezüge (§ 8)
 
-4.
+4. Zurückstufung (§ 9) und
 
-5.
+5. Entfernung aus dem Beamtenverhältnis (§ 10).
 
 (2) Disziplinarmaßnahmen gegen Ruhestandsbeamte sind:
 
-1.
+1. Kürzung des Ruhegehalts (§ 11) und
 
-2.
+2. Aberkennung des Ruhegehalts (§ 12).
 
 (3) Beamten auf Probe und Beamten auf Widerruf können nur Verweise erteilt und Geldbußen auferlegt werden. Für die Entlassung von Beamten auf Probe und Beamten auf Widerruf wegen eines Dienstvergehens gelten § 34 Abs. 1 Nr. 1 und Abs. 3 sowie § 37 des Bundesbeamtengesetzes.
 
@@ -99,13 +95,13 @@ Die Geldbuße kann bis zur Höhe der monatlichen Dienst- oder Anwärterbezüge d
 
 (2) Die Zahlung der Dienstbezüge wird mit dem Ende des Kalendermonats eingestellt, in dem die Entscheidung unanfechtbar wird. Tritt der Beamte in den Ruhestand, bevor die Entscheidung über die Entfernung aus dem Beamtenverhältnis unanfechtbar wird, gilt die Entscheidung als Aberkennung des Ruhegehalts.
 
-(3) Der aus dem Beamtenverhältnis entfernte Beamte erhält für die Dauer von sechs Monaten einen Unterhaltsbeitrag in Höhe von 50 Prozent der Dienstbezüge, die ihm bei Eintritt der Unanfechtbarkeit der Entscheidung zustehen; eine Einbehaltung von Dienstbezügen nach § 38 Absatz 2 bleibt unberücksichtigt. Die Gewährung des Unterhaltsbeitrags kann in der Entscheidung über sechs Monate hinaus verlängert werden, soweit dies notwendig ist, um eine unbillige Härte zu vermeiden; der Beamte hat die Umstände glaubhaft zu machen. Für die Zahlung des Unterhaltsbeitrags gilt § 79. Die Gewährung des Unterhaltsbeitrags ist ausgeschlossen,
+(3) Der aus dem Beamtenverhältnis entfernte Beamte erhält für die Dauer von sechs Monaten einen Unterhaltsbeitrag in Höhe von 50 Prozent der Dienstbezüge, die ihm bei Eintritt der Unanfechtbarkeit der Entscheidung zustehen; eine Einbehaltung von Dienstbezügen nach § 38 Absatz 2 bleibt unberücksichtigt. Die Gewährung des Unterhaltsbeitrags kann in der Entscheidung über sechs Monate hinaus verlängert werden, soweit dies notwendig ist, um eine unbillige Härte zu vermeiden; der Beamte hat die Umstände glaubhaft zu machen. Für die Zahlung des Unterhaltsbeitrags gilt § 79. Die Gewährung des Unterhaltsbeitrags ist ausgeschlossen,
 
-1.
+1. wenn der Beamte ihrer nicht würdig ist,
 
-2.
+2. wenn die Entfernung aus dem Beamtenverhältnis zumindest auch auf der Verletzung der Pflicht des Beamten beruht, sich durch sein gesamtes Verhalten zu der freiheitlichen demokratischen Grundordnung zu bekennen und für deren Erhaltung einzutreten, oder
 
-3.
+3. soweit der Beamte den erkennbaren Umständen nach nicht bedürftig ist.
 
 (4) Die Entfernung aus dem Beamtenverhältnis und ihre Rechtsfolgen erstrecken sich auf alle Ämter, die der Beamte bei Eintritt der Unanfechtbarkeit der Entscheidung inne hat.
 
@@ -131,17 +127,17 @@ Die Kürzung des Ruhegehalts ist die bruchteilmäßige Verminderung des monatlic
 
 (1) Die Disziplinarmaßnahme ist nach der Schwere des Dienstvergehens zu bemessen. Das Persönlichkeitsbild des Beamten ist angemessen zu berücksichtigen. Ferner soll berücksichtigt werden, in welchem Umfang der Beamte das Vertrauen des Dienstherrn oder der Allgemeinheit beeinträchtigt hat.
 
-(2) Um den Beamten zur Pflichterfüllung anzuhalten, kann als Disziplinarmaßnahme ausgesprochen werden: Eine Kürzung des Ruhegehalts kann auch ausgesprochen werden, wenn das Dienstvergehen ganz oder teilweise vor dem Eintritt des Beamten in den Ruhestand begangen wurde. Eine Zurückstufung darf unter den Voraussetzungen des Satzes 1 Nummer 5 auch ausgesprochen werden, wenn das Verbleiben des Beamten im bisherigen Amt dem Dienstherrn oder der Allgemeinheit nicht zugemutet werden kann.
+(2) Um den Beamten zur Pflichterfüllung anzuhalten, kann als Disziplinarmaßnahme ausgesprochen werden:
 
-1.
+1. ein Verweis, wenn der Beamte durch ein leichtes Dienstvergehen das Vertrauen des Dienstherrn oder der Allgemeinheit in die pflichtgemäße Amtsführung geringfügig beeinträchtigt hat,
 
-2.
+2. eine Geldbuße, wenn der Beamte durch ein leichtes bis mittelschweres Dienstvergehen das Vertrauen des Dienstherrn oder der Allgemeinheit in die pflichtgemäße Amtsführung nicht nur geringfügig beeinträchtigt hat,
 
-3.
+3. eine Kürzung der Dienstbezüge, wenn der Beamte durch ein mittelschweres Dienstvergehen das Vertrauen des Dienstherrn oder der Allgemeinheit in die pflichtgemäße Amtsführung erheblich beeinträchtigt hat,
 
-4.
+4. eine Kürzung des Ruhegehalts, wenn der Ruhestandsbeamte ein mittelschweres Dienstvergehen begangen hat, das geeignet ist, das Ansehen des öffentlichen Dienstes oder des Berufsbeamtentums erheblich zu beeinträchtigen,
 
-5.
+5. eine Zurückstufung, wenn der Beamte durch ein mittelschweres bis schweres Dienstvergehen das Vertrauen des Dienstherrn oder der Allgemeinheit in die pflichtgemäße Amtsführung nachhaltig erschüttert hat.
 
 (3) Ein schweres Dienstvergehen liegt in der Regel bei einer Mitgliedschaft in einer vom Bundesverfassungsgericht für verfassungswidrig erklärten Partei oder einer unanfechtbar verbotenen Vereinigung oder einer Ersatzorganisation einer solchen Partei oder Vereinigung vor.
 
@@ -151,9 +147,9 @@ Die Kürzung des Ruhegehalts ist die bruchteilmäßige Verminderung des monatlic
 
 (1) Ist gegen einen Beamten im Straf- oder Bußgeldverfahren unanfechtbar eine Strafe, Geldbuße oder Ordnungsmaßnahme verhängt worden oder kann eine Tat nach § 153a Abs. 1 Satz 5 oder Abs. 2 Satz 2 der Strafprozessordnung nach der Erfüllung von Auflagen und Weisungen nicht mehr als Vergehen verfolgt werden, darf wegen desselben Sachverhalts
 
-1.
+1. ein Verweis, eine Geldbuße oder eine Kürzung des Ruhegehalts nicht ausgesprochen werden,
 
-2.
+2. eine Kürzung der Dienstbezüge nur ausgesprochen werden, wenn dies zusätzlich erforderlich ist, um den Beamten zur Pflichterfüllung anzuhalten.
 
 (2) Ist der Beamte im Straf- oder Bußgeldverfahren rechtskräftig freigesprochen worden, darf wegen des Sachverhalts, der Gegenstand der gerichtlichen Entscheidung gewesen ist, eine Disziplinarmaßnahme nur ausgesprochen werden, wenn dieser Sachverhalt ein Dienstvergehen darstellt, ohne den Tatbestand einer Straf- oder Bußgeldvorschrift zu erfüllen.
 
@@ -161,11 +157,11 @@ Die Kürzung des Ruhegehalts ist die bruchteilmäßige Verminderung des monatlic
 
 (1) Es darf nicht mehr ausgesprochen werden:
 
-1.
+1. ein Verweis, wenn seit der Vollendung eines Dienstvergehens mehr als zwei Jahre vergangen sind,
 
-2.
+2. eine Geldbuße oder eine Kürzung der Dienstbezüge oder des Ruhegehalts, wenn seit der Vollendung eines Dienstvergehens mehr als drei Jahre vergangen sind, und
 
-3.
+3. eine Zurückstufung, wenn seit der Vollendung eines Dienstvergehens mehr als sieben Jahre vergangen sind.
 
 (2) Bei Dienstvergehen gegen die Pflichten aus § 60 Absatz 1 Satz 3 oder Absatz 2 des Bundesbeamtengesetzes beträgt die Frist nach Absatz 1 Nummer 1 vier, nach Absatz 1 Nummer 2 sechs und nach Absatz 1 Nummer 3 acht Jahre.
 
@@ -247,13 +243,13 @@ anderen Verfahren
 
 (1) Die erforderlichen Beweise sind zu erheben. Hierbei können insbesondere
 
-1.
+1. schriftliche dienstliche Auskünfte eingeholt werden,
 
-2.
+2. Zeugen und Sachverständige vernommen oder ihre schriftliche Äußerung eingeholt werden,
 
-3.
+3. Urkunden und Akten beigezogen sowie
 
-4.
+4. der Augenschein eingenommen werden.
 
 (2) Niederschriften über Aussagen von Personen, die schon in einem anderen gesetzlich geordneten Verfahren vernommen worden sind, sowie Niederschriften über einen richterlichen Augenschein können ohne erneute Beweiserhebung verwertet werden.
 
@@ -293,13 +289,13 @@ Der Beamte hat Schriftstücke, Zeichnungen, bildliche Darstellungen und Aufzeich
 
 ### § 29a — Informationen nach Maßgabe des Artikels 56a der Richtlinie 2005/36/EG
 
-Nach Maßgabe des Artikels 56a der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22, L 271 vom 16.10.2007, S. 18, L 93 vom 4.4.2008, S. 28, L 33 vom 3.2.2009, S. 49), die zuletzt durch die Richtlinie 2013/55/EU (ABl. L 354 vom 28.12.2013, S. 132) geändert worden ist, unterrichten die Dienststellen die zuständigen Behörden der Mitgliedstaaten der Europäischen Union über Entscheidungen der Disziplinarorgane über die Der Zeitraum nach Artikel 56a Absatz 2 Satz 2 Buchstabe e der Richtlinie 2005/36/EG nach Satz 1 ist der Zeitraum bis zum Erreichen der für die jeweilige Laufbahn maßgeblichen gesetzlichen Altersgrenze für den Eintritt in den Ruhestand, längstens jedoch 15 Jahre.
+Nach Maßgabe des Artikels 56a der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22, L 271 vom 16.10.2007, S. 18, L 93 vom 4.4.2008, S. 28, L 33 vom 3.2.2009, S. 49), die zuletzt durch die Richtlinie 2013/55/EU (ABl. L 354 vom 28.12.2013, S. 132) geändert worden ist, unterrichten die Dienststellen die zuständigen Behörden der Mitgliedstaaten der Europäischen Union über Entscheidungen der Disziplinarorgane über die
 
-1.
+1. Entfernung aus dem Beamtenverhältnis nach § 5 Absatz 1 Nummer 5 in Verbindung mit § 10 Absatz 1,
 
-2.
+2. Einstellung eines Disziplinarverfahrens, wenn das Disziplinarverfahren wegen Beendigung des Beamtenverhältnisses nach § 41 Absatz 1 des Bundesbeamtengesetzes nicht zu Ende geführt wird, und
 
-3.
+3. Einstellung eines Disziplinarverfahrens, wenn die Beamtin oder der Beamte auf Verlangen nach § 33 des Bundesbeamtengesetzes aus dem Beamtenverhältnis entlassen wird und das Disziplinarverfahren voraussichtlich zur Entfernung aus dem Beamtenverhältnis geführt hätte.
 
 ### § 30 — Abschließende Anhörung
 
@@ -315,21 +311,21 @@ Hält der Dienstvorgesetzte nach dem Ergebnis der Anhörungen und Ermittlungen s
 
 (1) Das Disziplinarverfahren wird eingestellt, wenn
 
-1.
+1. ein Dienstvergehen nicht erwiesen ist,
 
-2.
+2. ein Dienstvergehen zwar erwiesen ist, eine Disziplinarmaßnahme jedoch nicht angezeigt erscheint,
 
-3.
+3. nach § 14 oder § 15 eine Disziplinarmaßnahme nicht ausgesprochen werden darf oder
 
-4.
+4. das Disziplinarverfahren oder eine Disziplinarmaßnahme aus sonstigen Gründen unzulässig ist.
 
 (2) Das Disziplinarverfahren wird ferner eingestellt, wenn
 
-1.
+1. der Beamte stirbt,
 
-2.
+2. das Beamtenverhältnis durch Entlassung, Verlust der Beamtenrechte oder Entfernung endet oder
 
-3.
+3. bei einem Ruhestandsbeamten die Folgen einer gerichtlichen Entscheidung nach § 59 Abs. 1 des Beamtenversorgungsgesetzes eintreten.
 
 (3) Die Einstellungsverfügung ist zu begründen und zuzustellen.
 
@@ -339,17 +335,17 @@ Hält der Dienstvorgesetzte nach dem Ergebnis der Anhörungen und Ermittlungen s
 
 (2) Die Disziplinarverfügung ist zu begründen und zuzustellen. Die Begründung muss mindestens enthalten:
 
-1.
+1. die Tatsachen, die ein Dienstvergehen begründen,
 
-2.
+2. die anderen Tatsachen, die für die Entscheidung bedeutsam sind, und
 
-3.
+3. die Beweismittel, die für die Entscheidung bedeutsam sind.
 
 (3) Bei den Disziplinarmaßnahmen der Zurückstufung, der Entfernung aus dem Beamtenverhältnis oder der Aberkennung des Ruhegehalts muss in der Begründung zusätzlich dargestellt werden:
 
-1.
+1. der persönliche und berufliche Werdegang des Beamten und
 
-2.
+2. der Gang des Disziplinarverfahrens.
 
 (4) Im Fall des § 23 Absatz 1 kann wegen der Tatsachen, in denen ein Dienstvergehen gesehen wird, auf die bindenden Feststellungen der ihnen zugrunde liegenden Urteile verwiesen werden.
 
@@ -359,13 +355,13 @@ Hält der Dienstvorgesetzte nach dem Ergebnis der Anhörungen und Ermittlungen s
 
 (2) Kürzungen der Dienstbezüge können festsetzen:
 
-1.
+1. die oberste Dienstbehörde bis zum Höchstmaß und
 
-2.
+2. die der obersten Dienstbehörde unmittelbar nachgeordneten Dienstvorgesetzten bis zu einer Kürzung um 20 Prozent auf zwei Jahre.
 
-(3) Kürzungen des Ruhegehalts bis zum Höchstmaß können die nach § 84 zur Ausübung der Disziplinarbefugnisse zuständigen Dienstvorgesetzten festsetzen.
+(3) Kürzungen des Ruhegehalts bis zum Höchstmaß können die nach § 84 zur Ausübung der Disziplinarbefugnisse zuständigen Dienstvorgesetzten festsetzen.
 
-(4) Die Zurückstufung oder die Entfernung aus dem Beamtenverhältnis wird durch die oberste Dienstbehörde, die Aberkennung des Ruhegehalts durch die nach § 84 zur Ausübung der Disziplinarbefugnisse zuständigen Dienstvorgesetzten ausgesprochen.
+(4) Die Zurückstufung oder die Entfernung aus dem Beamtenverhältnis wird durch die oberste Dienstbehörde, die Aberkennung des Ruhegehalts durch die nach § 84 zur Ausübung der Disziplinarbefugnisse zuständigen Dienstvorgesetzten ausgesprochen.
 
 (5) Die oberste Dienstbehörde kann durch allgemeine Anordnung ihre Befugnisse nach Absatz 2 Nummer 1 ganz oder teilweise auf nachgeordnete Dienstvorgesetzte und ihre Befugnisse nach Absatz 4 auf unmittelbar nachgeordnete Dienstvorgesetzte übertragen. Die Anordnung ist im Bundesgesetzblatt zu veröffentlichen. § 17 Absatz 1 Satz 2 zweiter Teilsatz sowie Absatz 3 und 4 gilt entsprechend.
 
@@ -402,23 +398,23 @@ von Bezügen
 
 ### § 38 — Zulässigkeit
 
-(1) Die für den Erlass der Disziplinarverfügung zuständige Behörde kann einen Beamten gleichzeitig mit oder nach der Einleitung des Disziplinarverfahrens vorläufig des Dienstes entheben, wenn Spricht die Behörde die Entfernung aus dem Beamtenverhältnis oder die Entlassung aus oder wird der Beamte in einem wegen desselben Sachverhalts eingeleiteten Strafverfahren erstinstanzlich zu einer Strafe verurteilt, die den Verlust der Rechte als Beamter zur Folge hat, so ist der Beamte vorläufig des Dienstes zu entheben, es sei denn, dass die vorläufige Dienstenthebung eine unbillige Härte für den Beamten zur Folge hätte.
+(1) Die für den Erlass der Disziplinarverfügung zuständige Behörde kann einen Beamten gleichzeitig mit oder nach der Einleitung des Disziplinarverfahrens vorläufig des Dienstes entheben, wenn
 
-1.
+1. im Disziplinarverfahren voraussichtlich die Entfernung aus dem Beamtenverhältnis oder die Aberkennung des Ruhegehalts erfolgen wird,
 
-2.
+2. in einem wegen desselben Sachverhalts eingeleiteten Strafverfahren voraussichtlich eine Strafe verhängt wird, die den Verlust der Rechte als Beamter oder Ruhestandsbeamter zur Folge hat,
 
-3.
+3. bei einem Beamten auf Probe oder einem Beamten auf Widerruf voraussichtlich eine Entlassung nach § 5 Absatz 3 Satz 2 dieses Gesetzes in Verbindung mit § 34 Absatz 1 Satz 1 Nummer 1 oder § 37 Absatz 1 Satz 1 des Bundesbeamtengesetzes erfolgen wird oder
 
-4.
+4. durch sein Verbleiben im Dienst der Dienstbetrieb oder die Ermittlungen wesentlich beeinträchtigt würden und die vorläufige Dienstenthebung zu der Bedeutung der Sache und der zu erwartenden Disziplinarmaßnahme nicht außer Verhältnis steht.
 
 (2) Gleichzeitig mit oder nach einer vorläufigen Dienstenthebung nach Absatz 1 Satz 1 Nummer 1 bis 3 kann die zuständige Behörde anordnen, dass bis zu 50 Prozent der monatlichen Dienst- oder Anwärterbezüge des Beamten einbehalten werden. Die Einbehaltung ist anzuordnen, wenn die vorläufige Dienstenthebung nach Absatz 1 Satz 2 erfolgt. Die Einbehaltung nach Satz 2 soll in den ersten sechs Monaten mindestens 30, danach 50 Prozent der monatlichen Bezüge betragen und einen zuvor nach Satz 1 festgelegten Einbehalt nicht unterschreiten. Der sich aus der Pfändungsfreigrenzenbekanntmachung nach § 850c Absatz 4 Satz 1 der Zivilprozessordnung ergebende unpfändbare Teil der monatlichen Bezüge ist jeweils zu belassen.
 
-(3) Bei einem Ruhestandsbeamten können gleichzeitig mit oder nach Einleitung eines Disziplinarverfahrens bis zu 30 Prozent seines Ruhegehalts einbehalten werden, wenn Die Einbehaltung ist anzuordnen, wenn die Behörde die Aberkennung des Ruhegehalts ausspricht oder der Ruhestandsbeamte in einem wegen desselben Sachverhalts eingeleiteten Strafverfahren erstinstanzlich zu einer Strafe verurteilt wird, die den Verlust der Rechte als Ruhestandsbeamter zur Folge hat. Die Einbehaltung nach Satz 2 soll in den ersten sechs Monaten mindestens 20, danach 30 Prozent des monatlichen Ruhegehalts betragen und einen zuvor nach Satz 1 festgelegten Einbehalt nicht unterschreiten. Absatz 2 Satz 4 gilt entsprechend.
+(3) Bei einem Ruhestandsbeamten können gleichzeitig mit oder nach Einleitung eines Disziplinarverfahrens bis zu 30 Prozent seines Ruhegehalts einbehalten werden, wenn
 
-1.
+1. im Disziplinarverfahren voraussichtlich die Aberkennung des Ruhegehalts erfolgen wird oder
 
-2.
+2. in einem wegen desselben Sachverhalts eingeleiteten Strafverfahren voraussichtlich eine Strafe verhängt wird, die den Verlust der Rechte als Ruhestandsbeamter zur Folge hat.
 
 (4) Bei der Aufnahme oder der Erweiterung einer Nebentätigkeit aus Anlass der vorläufigen Einbehaltung von Bezügen ist § 99 Absatz 2 Satz 2 Nummer 1, Satz 3 und Absatz 3 des Bundesbeamtengesetzes nicht anzuwenden. Einkünfte aus Nebentätigkeit, die zusammen mit den einbehaltenen Bezügen die zuletzt erhaltenen vollen Dienstbezüge übersteigen, sind auf die weiter gewährten Bezüge anzurechnen. Der Beamte ist zur Auskunft über die Einnahmen aus seiner Nebentätigkeit verpflichtet.
 
@@ -438,13 +434,13 @@ von Bezügen
 
 (1) Die nach § 38 Absatz 2 und 3 einbehaltenen Bezüge verfallen, wenn
 
-1.
+1. im Disziplinarverfahren unanfechtbar die Entfernung aus dem Beamtenverhältnis, die Aberkennung des Ruhegehalts oder eine Entlassung nach § 5 Absatz 3 Satz 2 dieses Gesetzes in Verbindung mit § 34 Absatz 1 Satz 1 Nummer 1 oder § 37 Absatz 1 Satz 1 des Bundesbeamtengesetzes erfolgt ist,
 
-2.
+2. in einem wegen desselben Sachverhalts eingeleiteten Strafverfahren rechtskräftig eine Strafe verhängt worden ist, die den Verlust der Rechte als Beamter oder Ruhestandsbeamter zur Folge hat,
 
-3.
+3. das Disziplinarverfahren auf Grund des § 32 Absatz 1 Nummer 3 eingestellt worden ist und ein neues Disziplinarverfahren, das innerhalb von drei Monaten nach der Einstellung wegen desselben Sachverhalts eingeleitet worden ist, zur Entfernung aus dem Beamtenverhältnis oder zur Aberkennung des Ruhegehalts geführt hat oder
 
-4.
+4. das Disziplinarverfahren aus den Gründen des § 32 Absatz 2 eingestellt worden ist und die für den Erlass der Disziplinarverfügung zuständige Behörde festgestellt hat, dass die Entfernung aus dem Beamtenverhältnis oder die Aberkennung des Ruhegehalts gerechtfertigt gewesen wäre.
 
 (2) Verfallen die einbehaltenen Bezüge nach Absatz 1 Nummer 1 und ist die Gewährung eines Unterhaltsbeitrags nach § 10 Absatz 3 Satz 4 Nummer 1 oder Nummer 2 ausgeschlossen, so hat der Beamte oder der Ruhestandsbeamte die seit der Zustellung der Disziplinarverfügung an ihn gezahlten Bezüge zu erstatten. Verfallen die einbehaltenen Bezüge nach Absatz 1 Nummer 2 und wurde in sämtlichen in dem Verfahren ergangenen Entscheidungen eine Strafe verhängt, die den Verlust der Rechte als Beamter oder Ruhestandsbeamter nach § 41 Absatz 1 Satz 1 Nummer 2 des Bundesbeamtengesetzes oder nach § 59 Absatz 1 Satz 1 Nummer 1 oder Nummer 2 Buchstabe b des Beamtenversorgungsgesetzes zur Folge hat, so hat der Beamte oder der Ruhestandsbeamte die seit der Verkündung des erstinstanzlichen Urteils an ihn gezahlten Bezüge zu erstatten. Die Erstattungspflicht nach Satz 1 oder Satz 2 besteht nur, soweit die gezahlten Beträge den sich aus § 38 Absatz 2 Satz 4 ergebenden Betrag übersteigen. Sie entfällt, wenn eine Unterhaltsleistung nach § 80 gewährt wird.
 
@@ -490,13 +486,13 @@ Die Aufgaben der Disziplinargerichtsbarkeit nach diesem Gesetz nehmen die Gerich
 
 (2) Für die Übertragung des Rechtsstreits auf den Einzelrichter gilt § 6 der Verwaltungsgerichtsordnung. In dem Verfahren der Klage gegen eine Disziplinarverfügung, durch die eine Zurückstufung, eine Entfernung aus dem Beamtenverhältnis oder eine Aberkennung des Ruhegehalts ausgesprochen wurde, ist eine Übertragung auf den Einzelrichter ausgeschlossen.
 
-(3) Der Vorsitzende der Kammer für Disziplinarsachen entscheidet, wenn die Entscheidung im vorbereitenden Verfahren ergeht, Ist ein Berichterstatter bestellt, entscheidet er anstelle des Vorsitzenden.
+(3) Der Vorsitzende der Kammer für Disziplinarsachen entscheidet, wenn die Entscheidung im vorbereitenden Verfahren ergeht,
 
-1.
+1. bei Zurücknahme der Klage, des Antrags oder eines Rechtsmittels,
 
-2.
+2. bei Erledigung des gerichtlichen Disziplinarverfahrens in der Hauptsache und
 
-3.
+3. über die Kosten.
 
 (4) Die Landesgesetzgebung kann die Besetzung der Kammer für Disziplinarsachen abweichend von den Absätzen 1 bis 3 regeln. Soweit nach Landesrecht für die Verfahren nach dem Landesdisziplinargesetz eine andere Besetzung der Kammer für Disziplinarsachen vorgesehen ist, gilt diese Besetzung, wenn nichts anderes bestimmt wird, auch für die gerichtlichen Verfahren nach diesem Gesetz. Soweit nach Landesrecht Regelungen zur Besetzung der Kammer für Disziplinarsachen im Verfahren der Disziplinarklage getroffen werden, gelten diese Regelungen auch für die in Absatz 2 Satz 2 genannten Verfahren.
 
@@ -512,19 +508,19 @@ Die Aufgaben der Disziplinargerichtsbarkeit nach diesem Gesetz nehmen die Gerich
 
 (1) Ein Richter oder Beamtenbeisitzer ist von der Ausübung des Richteramts kraft Gesetzes ausgeschlossen, wenn er
 
-1.
+1. durch das Dienstvergehen verletzt ist,
 
-2.
+2. Ehegatte, Lebenspartner oder gesetzlicher Vertreter des Beamten oder des Verletzten ist oder war,
 
-3.
+3. mit dem Beamten oder dem Verletzten in gerader Linie verwandt oder verschwägert oder in der Seitenlinie bis zum dritten Grad verwandt oder bis zum zweiten Grad verschwägert ist oder war,
 
-4.
+4. in dem Disziplinarverfahren gegen den Beamten tätig war oder als Zeuge gehört wurde oder als Sachverständiger ein Gutachten erstattet hat,
 
-5.
+5. in einem wegen desselben Sachverhalts eingeleiteten Straf- oder Bußgeldverfahren gegen den Beamten beteiligt war,
 
-6.
+6. Dienstvorgesetzter des Beamten ist oder war oder bei einem Dienstvorgesetzten des Beamten mit der Bearbeitung von Personalangelegenheiten des Beamten befasst ist oder
 
-7.
+7. als Mitglied einer Personalvertretung in dem Disziplinarverfahren gegen den Beamten mitgewirkt hat.
 
 (2) Ein Beamtenbeisitzer ist auch ausgeschlossen, wenn er der Dienststelle des Beamten angehört.
 
@@ -536,15 +532,15 @@ Ein Beamtenbeisitzer, gegen den eine Disziplinarmaßnahme nach § 9 oder § 10 a
 
 (1) Der Beamtenbeisitzer ist von seinem Amt zu entbinden, wenn
 
-1.
+1. er im Strafverfahren rechtskräftig zu einer Freiheits-strafe verurteilt worden ist,
 
-2.
+2. im Disziplinarverfahren gegen ihn unanfechtbar eine Disziplinarmaßnahme mit Ausnahme eines Verweises ausgesprochen worden ist,
 
-3.
+3. er in ein Amt außerhalb der Bezirke, für die das Gericht zuständig ist, versetzt wird,
 
-4.
+4. das Beamtenverhältnis endet oder
 
-5.
+5. die Voraussetzungen für das Amt des Beamtenbeisitzers nach § 47 Abs. 1 bei ihrer Auswahl oder Bestellung nicht vorlagen.
 
 (2) In besonderen Härtefällen kann der Beamtenbeisitzer auch auf Antrag von der weiteren Ausübung des Amts entbunden werden.
 
@@ -659,19 +655,19 @@ Für die Zulassung der Revision, für die Form und Frist der Einlegung der Revis
 
 (1) Die Wiederaufnahme des durch rechtskräftiges Urteil abgeschlossenen Disziplinarverfahrens ist zulässig, wenn
 
-1.
+1. in dem Urteil eine Disziplinarmaßnahme ausgesprochen worden ist, die nach Art oder Höhe im Gesetz nicht vorgesehen ist,
 
-2.
+2. Tatsachen oder Beweismittel beigebracht werden, die erheblich und neu sind,
 
-3.
+3. das Urteil auf dem Inhalt einer unechten oder verfälschten Urkunde oder auf einem vorsätzlich oder fahrlässig falsch abgegebenen Zeugnis oder Gutachten beruht,
 
-4.
+4. ein Urteil, auf dessen tatsächlichen Feststellungen das Urteil im Disziplinarverfahren beruht, durch ein anderes rechtskräftiges Urteil aufgehoben worden ist,
 
-5.
+5. an dem Urteil ein Richter oder Beamtenbeisitzer mitgewirkt hat, der sich in dieser Sache der strafbaren Verletzung einer Amtspflicht schuldig gemacht hat,
 
-6.
+6. an dem Urteil ein Richter oder Beamtenbeisitzer mitgewirkt hat, der von der Ausübung des Richteramts kraft Gesetzes ausgeschlossen war, es sei denn, dass die Gründe für den gesetzlichen Ausschluss bereits erfolglos geltend gemacht worden waren, oder
 
-7.
+7. der Beamte nachträglich glaubhaft ein Dienstvergehen eingesteht, das in dem Disziplinarverfahren nicht hat festgestellt werden können.
 
 (2) Erheblich im Sinne des Absatzes 1 Nr. 2 sind Tatsachen und Beweismittel, wenn sie allein oder in Verbindung mit den früher getroffenen Feststellungen geeignet sind, eine andere Entscheidung zu begründen, die Ziel der Wiederaufnahme des Disziplinarverfahrens sein kann. Neu im Sinne des Absatzes 1 Nr. 2 sind Tatsachen und Beweismittel, die dem Gericht bei seiner Entscheidung nicht bekannt gewesen sind. Ergeht nach Eintritt der Rechtskraft des Urteils im Disziplinarverfahren in einem wegen desselben Sachverhalts eingeleiteten Straf- oder Bußgeldverfahren ein rechtskräftiges Urteil auf Grund von tatsächlichen Feststellungen, die von denjenigen tatsächlichen Feststellungen des Urteils im Disziplinarverfahren abweichen, auf denen es beruht, gelten die abweichenden Feststellungen des Urteils im Straf- oder Bußgeldverfahren als neue Tatsachen im Sinne des Absatzes 1 Nr. 2.
 
@@ -681,9 +677,9 @@ Für die Zulassung der Revision, für die Form und Frist der Einlegung der Revis
 
 (1) Die Wiederaufnahme des durch rechtskräftiges Urteil abgeschlossenen Disziplinarverfahrens ist unzulässig, wenn nach dem Eintritt der Rechtskraft
 
-1.
+1. ein Urteil im Straf- oder Bußgeldverfahren ergangen ist, das sich auf denselben Sachverhalt gründet und diesen ebenso würdigt, solange dieses Urteil nicht rechtskräftig aufgehoben worden ist, oder
 
-2.
+2. ein Urteil im Strafverfahren ergangen ist, durch das der Verurteilte sein Amt oder seinen Anspruch auf Ruhegehalt verloren hat oder ihn verloren hätte, wenn er noch im Dienst gewesen wäre oder Ruhegehalt bezogen hätte.
 
 (2) Die Wiederaufnahme des Disziplinarverfahrens zuungunsten des Beamten ist außerdem unzulässig, wenn seit dem Eintritt der Rechtskraft des Urteils drei Jahre vergangen sind.
 
@@ -748,11 +744,11 @@ Beamtenverhältnis oder bei Aberkennung des Ruhegehalts
 
 (1) Im Falle der Entfernung aus dem Beamtenverhältnis oder der Aberkennung des Ruhegehalts kann die zuletzt zuständige oberste Dienstbehörde dem ehemaligen Beamten oder ehemaligen Ruhestandsbeamten, der gegen das Verbot der Annahme von Belohnungen oder Geschenken verstoßen hat, die Gewährung einer monatlichen Unterhaltsleistung zusagen, wenn er sein Wissen über Tatsachen offenbart hat, deren Kenntnis dazu beigetragen hat, Straftaten, insbesondere nach den §§ 331 bis 335 des Strafgesetzbuches, zu verhindern oder über seinen eigenen Tatbeitrag hinaus aufzuklären. Die Nachversicherung ist durchzuführen.
 
-(2) Die Unterhaltsleistung ist als Prozentsatz der Anwartschaft auf eine Altersrente, die sich aus der Nachversicherung ergibt, oder einer entsprechenden Leistung aus der berufsständischen Alterssicherung mit folgenden Maßgaben festzusetzen: Die Höchstgrenzen nach Satz 1 gelten auch für die Zeit des Bezugs der Unterhaltsleistung; an die Stelle der Rentenanwartschaft aus der Nachversicherung tritt die anteilige Rente.
+(2) Die Unterhaltsleistung ist als Prozentsatz der Anwartschaft auf eine Altersrente, die sich aus der Nachversicherung ergibt, oder einer entsprechenden Leistung aus der berufsständischen Alterssicherung mit folgenden Maßgaben festzusetzen:
 
-1.
+1. Die Unterhaltsleistung darf die Höhe der Rentenanwartschaft aus der Nachversicherung nicht erreichen;
 
-2.
+2. Unterhaltsleistung und Rentenanwartschaft aus der Nachversicherung dürfen zusammen den Betrag nicht übersteigen, der sich als Ruhegehalt nach § 14 Abs. 1 des Beamtenversorgungsgesetzes ergäbe.
 
 (3) Die Zahlung der Unterhaltsleistung an den früheren Beamten kann erst erfolgen, wenn dieser die Regelaltersgrenze erreicht hat oder eine Rente wegen Erwerbs- oder Berufsunfähigkeit aus der gesetzlichen Rentenversicherung oder eine entsprechende Leistung aus der berufsständischen Versorgung erhält.
 
@@ -793,42 +789,6 @@ Die zur Durchführung dieses Gesetzes erforderlichen Verwaltungsvorschriften erl
 
 ### Anlage (zu § 78) — Gebührenverzeichnis
 
-1.
+1. Zurücknahme der Klagea)vor dem Schluss der mündlichen Verhandlung oderb)wenn eine solche nicht stattfindet, vor Ablauf des Tages, an dem die Entscheidung in der Hauptsache der Geschäftsstelle übermittelt wird, oder vor dem Schluss der mündlichen Verhandlung oder wenn eine solche nicht stattfindet, vor Ablauf des Tages, an dem die Entscheidung in der Hauptsache der Geschäftsstelle übermittelt wird, oder
 
-a)
-
-b)
-
-2.
-
-1.
-
-a)
-
-b)
-
-2.
-
-1.
-
-a)
-
-b)
-
-2.
-
-1.
-
-a)
-
-b)
-
-2.
-
-1.
-
-a)
-
-b)
-
-2.
+2. Erledigungserklärungen, wenn keine Entscheidung über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Beteiligten über die Kostentragung oder der Kostenübernahmeerklärung eines Beteiligten folgt:

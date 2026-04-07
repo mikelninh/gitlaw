@@ -14,7 +14,9 @@ Den in Paris am 13. Februar 1997 von der Versammlung der Vertragsparteien beschl
 
 ### Art 2
 
-(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, die Voraussetzungen (Zuverlässigkeit, Leistungsfähigkeit, Fachkunde) und das Verfahren für eine Benennung von Unterzeichnern (Signatare) durch Rechtsverordnung zu regeln.(2) Die Benennung erfolgt gegen Gebühr. Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen die gebührenpflichtigen Tatbestände, die Höhe der Gebühr und die Erstattung von Auslagen durch Rechtsverordnung zu regeln.
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, die Voraussetzungen (Zuverlässigkeit, Leistungsfähigkeit, Fachkunde) und das Verfahren für eine Benennung von Unterzeichnern (Signatare) durch Rechtsverordnung zu regeln.
+
+(2) Die Benennung erfolgt gegen Gebühr. Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen die gebührenpflichtigen Tatbestände, die Höhe der Gebühr und die Erstattung von Auslagen durch Rechtsverordnung zu regeln.
 
 ### Art 3
 
@@ -22,4 +24,6 @@ Das Bundesministerium für Wirtschaft und Energie kann das EUTELSAT-Übereinkomm
 
 ### Art 4
 
-(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.(2) Der Tag, an dem die Änderungen des Übereinkommens nach seinem Artikel XIX für die Bundesrepublik Deutschland in Kraft treten, ist im Bundesgesetzblatt bekanntzugeben.
+(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
+
+(2) Der Tag, an dem die Änderungen des Übereinkommens nach seinem Artikel XIX für die Bundesrepublik Deutschland in Kraft treten, ist im Bundesgesetzblatt bekanntzugeben.

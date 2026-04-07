@@ -12,15 +12,11 @@ Auf Grund der §§ 7, 9 Abs. 1 Satz 1 Nr. 2, 3, 4 und 6, Satz 2, Abs. 2 Satz 1 N
 
 ### § 1 — Anwendungsbereich
 
-(1) Diese Verordnung sowie die Schiffahrtsordnung Emsmündung (Anlage A zu dem deutsch-niederländischen Abkommen vom 22. Dezember 1986 über die Schiffahrtsordnung in der Emsmündung - BGBl. 1987 II S. 141, 144 geändert durch das deutsch-niederländische Abkommen vom 5. April 2001 - BGBl. 2001 II S. 1050) finden Anwendung Diese Wasserflächen sind Seeschiffahrtsstraßen.
+(1) Diese Verordnung sowie die Schiffahrtsordnung Emsmündung (Anlage A zu dem deutsch-niederländischen Abkommen vom 22. Dezember 1986 über die Schiffahrtsordnung in der Emsmündung - BGBl. 1987 II S. 141, 144 geändert durch das deutsch-niederländische Abkommen vom 5. April 2001 - BGBl. 2001 II S. 1050) finden Anwendung
 
-1.
+1. auf den Wasserflächen in der Emsmündung, die begrenzt werden durch die Küstenlinie bei mittlerem Hochwasser oder die seewärtige Begrenzung der Binnenwasserstraßen, die seewärtige Begrenzung des Küstenmeeres sowie im Osten durch die Verbindungslinie zwischen dem Pilsumer Watt (53 Grad 29' 08" N; 07 Grad 01' 52" O), Borkum (53 Grad 34' 06" N; 06 Grad 45' 31" O) und dem Schnittpunkt mit der seewärtigen Begrenzung des Küstenmeeres (53 Grad 40' 12" N; 06 Grad 35' 00" O),
 
-2.
-
-a)
-
-b)
+2. zwischen den Ufern der nachstehend bezeichneten Teile der angrenzenden Binnenwasserstraßen:a)Ems bis zu der bei der Hafeneinfahrt nach Papenburg über die Ems gehenden Verbindungslinie zwischen dem Diemer Schöpfwerk und dem Deichdurchlaß bei Halte; b)Leda bis zur Einfahrt in den Vorhafen der Seeschleuse von Leer. Ems bis zu der bei der Hafeneinfahrt nach Papenburg über die Ems gehenden Verbindungslinie zwischen dem Diemer Schöpfwerk und dem Deichdurchlaß bei Halte; Leda bis zur Einfahrt in den Vorhafen der Seeschleuse von Leer.
 
 (2) Diese Verordnung und die Schiffahrtsordnung Emsmündung finden ferner auf den bundeseigenen Schiffahrtsanlagen, den dem Verkehr auf den Bundeswasserstraßen dienenden Grundstücken und im Schutz- und Sicherheitshafen Borkum Anwendung.
 
@@ -30,9 +26,9 @@ b)
 
 Ergänzend zu Artikel 1 der Schiffahrtsordnung Emsmündung sind im Sinne dieser Verordnung:
 
-1.
+1. Binnenschiffe Fahrzeuge, denen eine Fahrtauglichkeitsbescheinigung nach der Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden Fassung erteilt worden ist sowie Binnenfahrzeuge unter ausländischer Flagge,
 
-2.
+2. Flammpunkt im Sinne des Artikels 21 Abs. 1 Nr. 2, 3, Abs. 2 Satz 2 der Schiffahrtsordnung Emsmündung die in Grad Celsius ausgedrückte niedrigste Temperatur, bei der sich entflammbare Dämpfe in solcher Menge entwickeln, daß sie entzündet werden können. Die in der Schiffahrtsordnung Emsmündung angegebenen Werte gelten für Versuche mit geschlossenem Tiegel, die in zugelassenen Prüfgeräten ermittelt werden.
 
 ### § 3 — Grundregeln für das Verhalten im Verkehr
 
@@ -60,27 +56,9 @@ Ergänzend zu Artikel 1 der Schiffahrtsordnung Emsmündung sind im Sinne dieser 
 
 ### § 5 — Schiffahrtszeichen
 
-(1) Ergänzend zu Artikel 2 Abs. 1 der Schiffahrtsordnung Emsmündung können im Anwendungsbereich dieser Verordnung folgende Schiffahrtszeichen verwendet werden: (Inhalt: Nicht darstellbare Abbildung, (Inhalt: Nicht darstellbare Abbildungen, (Inhalt: Nicht darstellbare Abbildungen, (Inhalt: Nicht darstellbare Abbildung, (Inhalt: Nicht darstellbare Abbildungen, (Inhalt: Nicht darstellbare Abbildungen, (Inhalt: Nicht darstellbare Abbildungen, (Inhalt: Nicht darstellbare Abbildung,
+(1) Ergänzend zu Artikel 2 Abs. 1 der Schiffahrtsordnung Emsmündung können im Anwendungsbereich dieser Verordnung folgende Schiffahrtszeichen verwendet werden:
 
-1.
-
-2.
-
-a)
-
-b)
-
-3.
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
+1. Geschwindigkeitsbeschränkung vor Stellen mit Badebetrieb Verbot, vor Stellen mit erkennbarem Badebetrieb außerhalb des Fahrwassers in einem Abstand von weniger als 300 m von der jeweiligen Wasserlinie des Ufers mit einer Geschwindigkeit von mehr als 8 km (4,3 sm) in der Stunde (Fahrt durch das Wasser) zu fahren: Stangen mit einem gelben liegenden Kreuz.
 
 (2) Die durch Gebots- und Verbotszeichen nach Absatz 1 getroffenen Anordnungen sind zu befolgen.
 
@@ -132,9 +110,9 @@ d)
 
 (1) Zuständige Behörden sind
 
-1.
+1. die Generaldirektion Wasserstraßen und Schifffahrt sowie die ihr nachgeordneten Wasserstraßen- und Schifffahrtsämter als Schifffahrtspolizeibehörden; sie bedienen sich der Vollzugshilfe der Wasserschutzpolizei, der Bundespolizei und der Zollverwaltung nach Maßgabe der Vereinbarungen zwischen dem Bund und den Ländern über die Ausübung der schiffahrtspolizeilichen Vollzugsaufgaben, der zwischen dem Bund und den Küstenländern geschlossenen Zusatzvereinbarung zur Vereinbarung über die Ausübung der schiffahrtspolizeilichen Vollzugsaufgaben und der Seeschiffahrtsaufgaben-Übertragungsverordnung vom 23. Juni 1982 (BGBl. I S. 733),
 
-2.
+2. im Sinne des Artikels 5 Abs. 3 der Schiffahrtsordnung Emsmündung das Bundesamt für Seeschifffahrt und Hydrographie.
 
 (2) Örtliche Maßnahmen der Schifffahrtspolizei trifft das vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachte Wasserstraßen- und Schifffahrtsamt. Wirkt sich eine Maßnahme in den Bezirk eines anderen Wasserstraßen- und Schifffahrtsamtes aus, ist das vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachte Wasserstraßen- und Schifffahrtsamt ebenfalls zuständig, wenn der zu regelnde Sachverhalt in seinem Bezirk zuerst eintritt. Wirkt sich eine Maßnahme im Bezirk eines anderen Wasserstraßen- und Schifffahrtsamtes im Anwendungsbereich dieser Verordnung aus, so ist das Wasserstraßen- und Schifffahrtsamt zuständig, in dessen Bezirk der zu regelnde Sachverhalt zuerst eintritt. Ist eine Maßnahme von grundsätzlicher Bedeutung, trifft sie die Generaldirektion Wasserstraßen und Schifffahrt. Schifffahrtspolizeiliche Maßnahmen, die keinen Aufschub dulden, können auch von der Wasserschutzpolizei getroffen werden.
 
@@ -160,89 +138,89 @@ Die Strom- und Schiffahrtspolizeibehörden können von den Vorschriften dieser V
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des Seeaufgabengesetzes handelt, wer als Fahrzeugführer oder sonst nach § 4 Abs. 1 für die Sicherheit Verantwortlicher vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 3 Abs. 1 Satz 1 sich nicht so verhält, dass kein Anderer geschädigt, gefährdet oder mehr, als nach den Umständen unvermeidbar, behindert oder belästigt wird,
 
-2.
+2. entgegen § 5 Abs. 2 eine durch eine Gebots- oder Verbotszeichen getroffene vollziehbare Anordnung nicht befolgt,
 
-3.
+3. entgegen § 6 Abs. 1 Satz 1 Schallsignalanlagen verwendet, die nicht zugelassen sind oder entgegen Satz 2 für eine sachgemäße Instandsetzung oder Ersatz nicht oder nicht rechtzeitig sorgt,
 
-4.
+4. entgegen § 7 Abs. 2 Satz 1 Positionslaternen verwendet, die nicht zugelassen sind, entgegen Satz 2 für eine sachgemäße Instandsetzung oder Ersatz nicht oder nicht rechtzeitig sorgt oder entgegen Absatz 3 Satz 1 eine nicht elektrisch betriebene Positionslaterne verwendet,
 
-5.
+5. entgegen § 8 Abs. 1 Seitenlichter mit einer Mindesttragweite von zwei Seemeilen nicht führt oder
 
-6.
+6. einer Vorschrift des § 9 Abs. 1 über das Durchfahren von Brücken zuwiderhandelt.
 
 (2) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 3 Abs. 3 ein Fahrzeug führt oder eine andere Tätigkeit des Brücken-, Decks- oder Maschinendienstes ausübt, mit einem Wassermotorrad, einem Kite- oder einem Segelsurfbrett fährt, obwohl er infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Führung des Fahrzeuges oder in der sicheren Ausübung der Tätigkeiten des Brücken-, Decks- oder Maschinendienstes behindert ist,
 
-2.
+2. entgegen § 3 Absatz 4 Satz 1, auch in Verbindung mit Satz 4, ein Fahrzeug führt, eine dort genannte Tätigkeit ausübt oder ein Wassermotorrad oder ein Kite- oder Segelsurfbrett fährt,
 
-3.
+3. entgegen § 3 Abs. 5 während der Fahrt alkoholische Getränke zu sich nimmt oder bei Dienstantritt unter der Wirkung solcher Getränke steht,
 
-4.
+4. entgegen § 4 Abs. 2 den Fahrzeugführer oder dessen Vertreter nicht wie dort vorgeschrieben berät,
 
-5.
+5. entgegen § 5 Abs. 3 ein Schiffahrtszeichen beschädigt oder in seiner Erkennbarkeit beeinträchtigt,
 
-6.
+6. als Fahrzeugführer, Eigentümer oder Besitzer entgegen § 6 Abs. 1 Satz 2 in Verbindung mit § 21 Satz 1 der Schiffssicherheitsverordnung für eine sachgemäße Instandsetzung der Schallsignalanlage nicht oder nicht rechtzeitig sorgt,
 
-7.
+7. als Fahrzeugführer, Eigentümer oder Besitzer entgegen § 7 Abs. 2 Satz 2 in Verbindung mit § 21 Satz 1 der Schiffssicherheitsverordnung oder entgegen § 7 Abs. 6 Satz 2 für eine sachgemäße Instandsetzung oder den Ersatz der Positionslaterne nicht oder nicht rechtzeitig sorgt oder
 
-8.
+8. als Fahrzeugführer, Eigentümer oder sonst nach § 4 Abs. 1 für Kurs und Geschwindigkeit verantwortliche Person entgegen § 11 Abs. 1 einer vollziehbaren schiffahrtspolizeilichen Verfügung nicht nachkommt.
 
 ### § 15 — Zuwiderhandlungen gegen Vorschriften der Schiffahrtsordnung Emsmündung
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des Seeaufgabengesetzes handelt, wer als Fahrzeugführer oder sonst nach § 4 Abs. 1 für die Sicherheit Verantwortlicher vorsätzlich oder fahrlässig
 
-1.
+1. entgegen Artikel 2 Abs. 2 eine durch ein Gebots- oder Verbotszeichen getroffene vollziehbare Anordnung nicht befolgt,
 
-2.
+2. entgegen Artikel 3 Abs. 1 Satz 2 ein Sichtzeichen führt oder zeigt oder ein Schallsignal gibt, das mit dem vorgeschriebenen oder vorgesehenen verwechselt werden kann, oder entgegen Abs. 3 einen Scheinwerfer oder ein anderes als das vorgeschriebene Licht gebraucht,
 
-3.
+3. einer Vorschrift des Artikels 4 Abs. 1 Satz 2 oder 3 über das Mitführen, das Anbringen oder den Sichtbereich, des Abs. 2 über die Mindesttragweite oder des Abs. 4 Satz 1 oder 2 über die Beschaffenheit der Sichtzeichen zuwiderhandelt,
 
-4.
+4. einer Vorschrift des Artikels 6 Abs. 1, des Artikels 7 in Verbindung mit Regel 23 Buchstabe a der Internationalen Regeln, des Artikels 8 Abs. 1 Satz 1 oder 2, diese jeweils auch in Verbindung mit Abs. 2, des Artikels 9 oder 10 Abs. 1 oder 2, dieser in Verbindung mit Regel 30 Buchstabe a oder c der Internationalen Regeln, über das Führen von Sichtzeichen zuwiderhandelt,
 
-5.
+5. entgegen Artikel 6 Abs. 2 Satz 1 mit einem kleinen Fahrzeug während der Zeit, in der die Lichterführung vorgeschrieben ist, fährt oder entgegen Satz 2 eine elektrische Leuchte oder eine Laterne mit einem weißen Licht nicht gebrauchsfertig mitführt oder diese nicht oder nicht rechtzeitig zeigt,
 
-6.
+6. einer Vorschrift des Artikels 12 über das Geben des Achtungssignals, des Artikels 13 Abs. 1 oder 2 Satz 1 bis 4 über das Geben des Gefahr- und Warnsignals oder des Artikels 14 über das Geben des Nebelsignals zuwiderhandelt,
 
-7.
+7. einer Vorschrift des Artikels 15 Abs. 1, Abs. 2 oder Abs. 3 Halbsatz 1 über das Rechtsfahrgebot, des Artikels 16 Abs. 1, Abs. 2 Satz 1 oder Abs. 3 bis 5 über das Überholen, des Artikels 17 Abs. 1 bis 3 oder 4 Satz 2, 3 über das Begegnen, des Artikels 18 über die Vorfahrt oder des Artikels 19 Abs. 1 Satz 1, 2 oder 4 oder Abs. 2, 3 über die Fahrgeschwindigkeit zuwiderhandelt,
 
-8.
+8. einer Vorschrift des Artikels 20 über das Schleppen oder Schieben zuwiderhandelt,
 
-9.
+9. entgegen Artikel 21 Abs. 1 allein oder in Verbindung mit Abs. 3 die Emsmündung befährt, entgegen Abs. 4 eine von der Behörde festgelegte Wasserfläche ohne vorherige Meldung oder nicht wie vorgeschrieben befährt oder entgegen Abs. 5 Satz 1 eine von der Behörde festgelegte Wasserfläche befährt,
 
-10.
+10. einer Vorschrift des Artikels 22 Abs. 1, Abs. 2 Satz 1 oder Abs. 4 über den Wasserski zuwiderhandelt,
 
-11.
+11. entgegen Artikel 23 Abs. 1 oder 4 Satz 1 ankert, entgegen Abs. 2 einen Anker schleppt oder zu Manövrierzwecken gebraucht oder entgegen Abs. 5 Satz 1 nicht dafür sorgt, daß ständig Ankerwache gegangen wird,
 
-12.
+12. entgegen Artikel 24 Abs. 1 beim Anlegen oder Festmachen die Schiffahrt beeinträchtigt oder nicht mit der gebotenen Vorsicht navigiert, wenn ein Fahrzeug mit dem Anlegemanöver begonnen hat, oder entgegen Abs. 2 anlegt oder festmacht,
 
-13.
+13. einer Vorschrift des Artikels 25 Abs. 1 bis 4 über den Umschlag oder des Artikels 26 über das Ankern, das Anlegen, das Festmachen oder das Vorbeifahren von oder an Fahrzeugen, die bestimmte gefährliche Güter befördern, zuwiderhandelt,
 
-14.
+14. einer Vorschrift des Artikels 27 über das Verhalten bei Schiffsunfällen oder bei Verlust von Gegenständen zuwiderhandelt oder
 
-15.
+15. entgegen Artikel 28 Abs. 1 Nr. 1 bis 4 eine dort beschriebene Tätigkeit ohne schiffahrtspolizeiliche Genehmigung durchführt oder entgegen Abs. 3 einer mit einer solchen Genehmigung verbundenen vollziehbaren Auflage nicht nachkommt.
 
 (2) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen Artikel 2 Abs. 3 ein Schiffahrtszeichen beschädigt oder in seiner Erkennbarkeit beeinträchtigt,
 
-2.
+2. entgegen Artikel 3 Abs. 2 Satz 2 für eine sachgemäße Instandsetzung der Schallsignale nicht oder nicht rechtzeitig sorgt,
 
-3.
+3. entgegen Artikel 13 Abs. 2 Satz 5 das Bleib-Weg-Signal nicht oder nicht in der in Satz 1 bis 4 vorgeschriebenen Weise gibt,
 
-4.
+4. als Wasserskiläufer einer Vorschrift des Artikels 22 Abs. 1, 2 oder 4 über den Wasserski oder als Segelsurfer einer Vorschrift des Abs. 3 oder 4 über das Segelsurfen zuwiderhandelt,
 
-5.
+5. als Veranstalter entgegen Artikel 28 Abs. 1 Nr. 5 oder 6 eine Veranstaltung ohne schiffahrtspolizeiliche Genehmigung durchführt oder entgegen Abs. 3 einer mit einer solchen Genehmigung verbundenen vollziehbaren Auflage nicht nachkommt oder
 
-6.
+6. entgegen Artikel 29 eine Meldung nicht, nicht richtig, nicht vollständig, nicht rechtzeitig oder nicht in der vorgeschriebenen Form abgibt.
 
-(3) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten wird auf die Generaldirektion Wasserstraßen und Schifffahrt übertragen.
+(3) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten
 
-1.
+1. auf Grund einer nach § 13 Abs. 2 und 3 erlassenen Rechtsverordnung,
 
-2.
+2. nach den §§ 14 und 15 Abs. 1 und 2
 
 ### § 16
 
@@ -253,8 +231,6 @@ Die Strom- und Schiffahrtspolizeibehörden können von den Vorschriften dieser V
 Diese Verordnung tritt am 1. Oktober 1989 in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Verkehr
 
 ### Anlage — (zu § 3 Absatz 4)
 

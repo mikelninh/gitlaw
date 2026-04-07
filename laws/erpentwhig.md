@@ -20,9 +20,9 @@ Die Förderungsmittel dienen in Ergänzung anderer Leistungen, insbesondere des 
 
 (1) Für den Förderungszweck, insbesondere zur Erfüllung der nach § 1 Abs. 1 eingegangenen Verpflichtungen, werden bereitgestellt:
 
-1.
+1. aus dem ERP-Sondervermögen jährlich Mittel nach näherer Bestimmung des ERP-Wirtschaftsplans;
 
-2.
+2. aus der Beschaffung im Wege des Kredits Geldmittel bis zur Höhe von insgesamt fünfhundert Millionen Deutsche Mark.
 
 (2) Den Förderungsmitteln fließen sonstige Zuweisungen zu, wenn sie ausdrücklich für den Förderungszweck bestimmt sind.
 

@@ -22,5 +22,3 @@ Diese Verordnung gilt nach Maßgabe des § 14 des Dritten Überleitungsgesetzes 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister der Justiz

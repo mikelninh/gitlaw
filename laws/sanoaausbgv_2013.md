@@ -16,7 +16,9 @@ Der Anspruch auf Ausbildungsgeld nach § 30 Absatz 2 Satz 1 des Soldatengesetzes
 
 ### § 2 — Höhe des Ausbildungsgeldes
 
-(1) Der Grundbetrag des Ausbildungsgeldes entspricht dem Grundgehalt und den Amtszulagen, die im Bundesbesoldungsgesetz für den jeweiligen Dienstgrad festgelegt sind.(2) Werden Abschnitte des Studiums in Teilzeit absolviert, wird das Ausbildungsgeld im gleichen Verhältnis wie die wöchentliche Ausbildungszeit gekürzt.
+(1) Der Grundbetrag des Ausbildungsgeldes entspricht dem Grundgehalt und den Amtszulagen, die im Bundesbesoldungsgesetz für den jeweiligen Dienstgrad festgelegt sind.
+
+(2) Werden Abschnitte des Studiums in Teilzeit absolviert, wird das Ausbildungsgeld im gleichen Verhältnis wie die wöchentliche Ausbildungszeit gekürzt.
 
 ### § 3 — Anrechnung anderer Einkünfte auf das Ausbildungsgeld
 

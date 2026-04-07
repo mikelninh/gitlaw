@@ -14,11 +14,11 @@ Auf Grund des § 15 Absatz 8 Satz 1 in Verbindung mit den Sätzen 2 bis 4 des Bu
 
 (1) Diese Verordnung findet Anwendung, soweit die Vorschriften des Dritten Kapitels des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 1 des Gesetzes vom 4. März 2020 (BGBl. I S. 440) geändert worden ist, ausschließlich durch die Bundesverwaltung ausgeführt werden. Die Verordnung bestimmt insbesondere das Nähere
 
-1.
+1. zur Vermeidung von Beeinträchtigungen von Natur und Landschaft nach § 15 Absatz 1 Satz 1 des Bundesnaturschutzgesetzes,
 
-2.
+2. zu Inhalt, Art und Umfang von Ausgleichs- und Ersatzmaßnahmen nach § 15 Absatz 2 des Bundesnaturschutzgesetzes sowie
 
-3.
+3. zur Höhe der Ersatzzahlung nach § 15 Absatz 6 des Bundesnaturschutzgesetzes und zum Verfahren ihrer Erhebung.
 
 (2) Diese Verordnung gilt auch im Bereich der Küstengewässer sowie nach Maßgabe des Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982 (BGBl. 1994 II S. 1798, 1799) im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels.
 
@@ -26,41 +26,35 @@ Auf Grund des § 15 Absatz 8 Satz 1 in Verbindung mit den Sätzen 2 bis 4 des Bu
 
 (1) Die nach § 17 des Bundesnaturschutzgesetzes zuständige Behörde trifft die zur Durchführung des § 15 Absatz 1 bis 6 des Bundesnaturschutzgesetzes erforderlichen Entscheidungen und Maßnahmen
 
-1.
+1. auf der Grundlage der vom Verursacher eines Eingriffs gemachten Angaben nach § 17 Absatz 4 des Bundesnaturschutzgesetzes,
 
-2.
+2. auf der Grundlage der Informationen, die bei der zuständigen Behörde und den zu beteiligenden Behörden vorliegen, und
 
-3.
+3. unter Berücksichtigung der Ziele des Naturschutzes und der Landschaftspflege nach § 1 des Bundesnaturschutzgesetzes.
 
 (2) Die Inhalte der Landschaftsplanung im Sinne des § 9 Absatz 2 und 3 des Bundesnaturschutzgesetzes sind zu berücksichtigen
 
-1.
+1. bei der Bewertung des vorhandenen Zustands von Natur und Landschaft und der zu erwartenden Beeinträchtigungen von Natur und Landschaft im Sinne des § 4 Absatz 1 Satz 1 und
 
-2.
+2. bei der Vermeidung, dem Ausgleich und dem Ersatz von erheblichen Beeinträchtigungen von Natur und Landschaft.
 
 (3) Bei der Prüfung, ob zumutbare Alternativen nach § 15 Absatz 1 Satz 2 des Bundesnaturschutzgesetzes gegeben sind, soll auch berücksichtigt werden, inwieweit die Alternativen dazu beitragen, die Inanspruchnahme von Flächen, insbesondere die Versiegelung von Böden, durch den Eingriff zu verringern.
 
-(4) Im Rahmen der Festsetzung des Kompensationsumfangs ist zu prüfen, inwieweit beeinträchtigte Funktionen des Naturhaushalts und des Landschaftsbildes bereits kompensiert werden durch anerkennungsfähige Maßnahmen des Verursachers Soweit nicht kompensierte Beeinträchtigungen verbleiben, sollen die Ausgleichs- und Ersatzmaßnahmen jeweils auf die Wiederherstellung, Herstellung oder Neugestaltung mehrerer beeinträchtigter Funktionen des Naturhaushalts und des Landschaftsbildes gerichtet sein (Multifunktionalität), auch um die Inanspruchnahme von Flächen zu verringern.
+(4) Im Rahmen der Festsetzung des Kompensationsumfangs ist zu prüfen, inwieweit beeinträchtigte Funktionen des Naturhaushalts und des Landschaftsbildes bereits kompensiert werden durch anerkennungsfähige Maßnahmen des Verursachers
 
-1.
+1. im Sinne von § 30 Absatz 3, § 34 Absatz 5, § 44 Absatz 5 Satz 3 oder § 45 Absatz 7 Satz 2 des Bundesnaturschutzgesetzes,
 
-2.
+2. nach § 9 Absatz 2 des Bundeswaldgesetzes vom 2. Mai 1975 (BGBl. I S. 1037), das zuletzt durch Artikel 1 des Gesetzes vom 17. Januar 2017 (BGBl. I S. 75) geändert worden ist, oder
 
-3.
+3. nach den Wald- und Forstgesetzen der Länder.
 
 (5) Zur Deckung des Kompensationsbedarfs soll insbesondere auf bevorratete Kompensationsmaßnahmen nach den §§ 16 und 56a des Bundesnaturschutzgesetzes zurückgegriffen werden, soweit diese Maßnahmen die Anforderungen der §§ 8 und 9 erfüllen und der Rückgriff im Einzelfall, insbesondere auch in wirtschaftlicher Hinsicht, angemessen ist. Wird der Eingriff von einer Bundesbehörde durchgeführt, soll neben bevorrateten Kompensationsmaßnahmen im Sinne von Satz 1 zur Deckung des Kompensationsbedarfs unter den Voraussetzungen des Satzes 1 insbesondere auf Maßnahmen auf Flächen der öffentlichen Hand zurückgegriffen werden. Bei Vorhaben, deren Realisierung aus Gründen eines überragenden öffentlichen Bundesinteresses erforderlich ist, kann zur Deckung des Kompensationsbedarfs auch auf die durch die Bundesanstalt für Immobilienaufgaben bereitgestellten bevorrateten Kompensationsmaßnahmen zurückgegriffen werden.
 
 (6) Unter den Voraussetzungen des Absatzes 5 Satz 1 kann für Kompensationsmaßnahmen auch zurückgegriffen werden auf
 
-1.
+1. festgelegte Entwicklungs- und Wiederherstellungsmaßnahmen a)für den Biotopverbund im Sinne des § 20 Absatz 1 des Bundesnaturschutzgesetzes,b)für Gebiete im Sinne des § 20 Absatz 2 Nummer 1 bis 4 des Bundesnaturschutzgesetzes undc)in Bewirtschaftungsplänen nach § 32 Absatz 5 des Bundesnaturschutzgesetzes, für den Biotopverbund im Sinne des § 20 Absatz 1 des Bundesnaturschutzgesetzes, für Gebiete im Sinne des § 20 Absatz 2 Nummer 1 bis 4 des Bundesnaturschutzgesetzes und in Bewirtschaftungsplänen nach § 32 Absatz 5 des Bundesnaturschutzgesetzes,
 
-a)
-
-b)
-
-c)
-
-2.
+2. Maßnahmen in Maßnahmenprogrammen im Sinne des § 82 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 2 des Gesetzes vom 4. Dezember 2018 (BGBl. I S. 2254) geändert worden ist.
 
 (7) Soweit zur Deckung des Kompensationsbedarfs nicht auf Maßnahmen nach den Absätzen 5 oder 6 zurückgegriffen wird, sind – unter den Voraussetzungen des Absatzes 5 Satz 1 – Maßnahmen zur Entsiegelung, Maßnahmen zur Wiedervernetzung von Lebensräumen und Bewirtschaftungs- oder Pflegemaßnahmen zu berücksichtigen, um möglichst zu vermeiden, dass land- oder forstwirtschaftliche Flächen aus der Nutzung genommen werden.
 
@@ -76,49 +70,47 @@ c)
 
 ### § 4 — Grundsätze der Bewertung des vorhandenen Zustands und der zu erwartenden unvermeidbaren Beeinträchtigungen
 
-(1) Zur Ermittlung des Kompensationsbedarfs Vorhabenbezogene Wirkungen, die naturschutzfachlich als sehr gering eingeschätzt werden, bleiben bei der Bewertung nach § 5 Absatz 3 Satz 1 und § 6 Absatz 2 Satz 1 außer Betracht. Unterhaltungsmaßnahmen an Energieleitungen sind in der Regel nicht zu kompensieren; dies gilt insbesondere im Falle eines ökologischen Trassenmanagements.
+(1) Zur Ermittlung des Kompensationsbedarfs
 
-1.
+1. ist der vorhandene Zustand von Natur und Landschaft im Einwirkungsbereich des Vorhabens zu erfassen und zu bewerten und
 
-2.
+2. sind die bei Durchführung des Vorhabens zu erwartenden unvermeidbaren Beeinträchtigungen der Leistungs- und Funktionsfähigkeit des Naturhaushalts und des Landschaftsbildes nach Maßgabe der nachfolgenden Vorschriften zu ermitteln und zu bewerten.
 
 (2) Die im Einwirkungsbereich des Vorhabens liegenden Biotope sind zu erfassen und zu bewerten. Die Erfassung und Bewertung erfolgt nach Maßgabe des § 5.
 
-(3) Die in der Anlage 1 Spalte 1 und 2 genannten Schutzgüter und Funktionen sind nur dann zu erfassen und zu bewerten, wenn sie von dem Vorhaben betroffen sein werden und wenn auf Grund einer fachlichen Einschätzung der zuständigen Behörde unter Beteiligung der für Naturschutz und Landschaftspflege zuständigen Behörde nach überschlägiger Prüfung folgende Beeinträchtigungen zu erwarten sind: Die Erfassung und Bewertung erfolgt nach Maßgabe des § 6.
+(3) Die in der Anlage 1 Spalte 1 und 2 genannten Schutzgüter und Funktionen sind nur dann zu erfassen und zu bewerten, wenn sie von dem Vorhaben betroffen sein werden und wenn auf Grund einer fachlichen Einschätzung der zuständigen Behörde unter Beteiligung der für Naturschutz und Landschaftspflege zuständigen Behörde nach überschlägiger Prüfung folgende Beeinträchtigungen zu erwarten sind:
 
-1.
+1. bei den Schutzgütern Tiere, Pflanzen, Boden, Wasser, Klima oder Luft eine erhebliche Beeinträchtigung besonderer Schwere,
 
-2.
+2. beim Schutzgut Landschaftsbild mindestens eine erhebliche Beeinträchtigung.
 
 ### § 5 — Grundbewertung des Schutzguts Biotope
 
-(1) Zur Erfassung und Bewertung des vorhandenen Zustands ist jedes Biotop im Einwirkungsbereich des Vorhabens zunächst einem der in der Anlage 2 Spalte 2 aufgeführten Biotoptypen und anschließend dem zugehörigen Biotoptypenwert nach Anlage 2 Spalte 3 zuzuordnen. Im Einzelfall kann der Biotoptypenwert nach Anlage 2 Spalte 3 um bis zu drei Wertpunkte erhöht werden, wenn das Biotop überdurchschnittlich gut ausgeprägt ist, oder um bis zu drei Wertpunkte verringert werden, wenn das Biotop unterdurchschnittlich gut ausgeprägt ist. Dafür sind als Kriterien zugrunde zu legen: Die nach den Sätzen 1 bis 3 ermittelte Summe ergibt den Biotopwert. Bei einem Ersatzneubau im Sinne des § 3 Nummer 4 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz vom 28. Juli 2011 (BGBl. I S. 1690), das zuletzt durch Artikel 2 des Gesetzes vom 13. Mai 2019 (BGBl. I S. 706) geändert worden ist, ist die bereits vorhandene Beeinträchtigung der Biotope durch die zu ersetzende Anlage bei der Wirkungsbewertung auf die Biotope angemessen zu berücksichtigen.
+(1) Zur Erfassung und Bewertung des vorhandenen Zustands ist jedes Biotop im Einwirkungsbereich des Vorhabens zunächst einem der in der Anlage 2 Spalte 2 aufgeführten Biotoptypen und anschließend dem zugehörigen Biotoptypenwert nach Anlage 2 Spalte 3 zuzuordnen. Im Einzelfall kann der Biotoptypenwert nach Anlage 2 Spalte 3 um bis zu drei Wertpunkte erhöht werden, wenn das Biotop überdurchschnittlich gut ausgeprägt ist, oder um bis zu drei Wertpunkte verringert werden, wenn das Biotop unterdurchschnittlich gut ausgeprägt ist. Dafür sind als Kriterien zugrunde zu legen:
 
-1.
+1. die Flächengröße,
 
-2.
+2. die abiotische und die biotische Ausstattung und
 
-3.
+3. die Lage zu anderen Biotopen.
 
 (2) Der ermittelte Biotopwert jedes Biotops ist anschließend den folgenden Wertstufen zuzuordnen, aus denen sich die Bedeutung des Biotops ergibt:
 
-1.
+1. Biotopwerte 0 bis 4: sehr gering,
 
-2.
+2. Biotopwerte 5 bis 9: gering,
 
-3.
+3. Biotopwerte 10 bis 15: mittel,
 
-4.
+4. Biotopwerte 16 bis 18: hoch,
 
-5.
+5. Biotopwerte 19 bis 21: sehr hoch,
 
-6.
+6. Biotopwerte 22 bis 24: hervorragend.
 
 (3) Zur Bewertung der zu erwartenden unvermeidbaren Beeinträchtigungen sind die Wirkungen des Vorhabens auf die erfassten und bewerteten Biotope zu ermitteln und im Hinblick auf ihre Stärke, Dauer und Reichweite den Stufen „gering“, „mittel“ und „hoch“ zuzuordnen. Anschließend ist anhand der Anlage 3 festzustellen, ob die einzelnen zu erwartenden Beeinträchtigungen für das jeweilige Biotop als nicht erheblich, erheblich oder erheblich mit besonderer Schwere einzustufen sind.
 
 (4) Den mittelbaren Wirkungen des Vorhabens auf Biotope ist bei der Bestimmung ihrer Stärke, Dauer und Reichweite nach Absatz 3 Satz 1 entsprechend jeweils ein Faktor zwischen 0,1 und 1 zuzuordnen. Dabei entsprechen die Faktoren 0,1 bis 0,3 der Stufe „gering“, die Faktoren 0,4 bis 0,6 der Stufe „mittel“ und die Faktoren 0,7 bis 1 der Stufe „hoch“. Der Zuordnung können unterschiedliche Wirkzonen zugrunde gelegt werden.
-
-> (+++ § 5 Abs. 1 Satz 1 und 2: Zur Geltung vgl. § 7 Abs. 1 Satz 4 § 5 Abs. 1 Satz 1 und 2: Zur Geltung vgl. § 8 Abs. 2 S 2 +++)
 
 ### § 6 — Bewertung weiterer Schutzgüter
 
@@ -128,17 +120,17 @@ c)
 
 ### § 7 — Biotopwertbezogener und funktionsspezifischer Kompensationsbedarf
 
-(1) Bei den Biotopen, bei denen eine erhebliche Beeinträchtigung zu erwarten ist, ist der biotopwertbezogene Kompensationsbedarf zu ermitteln. Hierzu ist für jedes betroffene Biotop Die Summe der nach Satz 2 gebildeten Produkte ergibt den biotopwertbezogenen Kompensationsbedarf. Für die Bestimmung des Biotopwertes des nach dem Eingriff zu erwartenden Zustands nach Satz 2 Nummer 1 gilt § 5 Absatz 1 Satz 1 und 2 entsprechend.
+(1) Bei den Biotopen, bei denen eine erhebliche Beeinträchtigung zu erwarten ist, ist der biotopwertbezogene Kompensationsbedarf zu ermitteln. Hierzu ist für jedes betroffene Biotop
 
-1.
+1. für eine Flächeninanspruchnahme die Differenz zwischen den Biotopwerten des vorhandenen Zustands und des nach dem Eingriff zu erwartenden Zustands zu bilden und mit der voraussichtlich beeinträchtigten Fläche in Quadratmetern zu multiplizieren und
 
-2.
+2. für mittelbare Beeinträchtigungen der Biotopwert des vorhandenen Zustands mit der voraussichtlich beeinträchtigten Fläche in Quadratmetern und dem nach § 5 Absatz 4 Satz 1 und 2 zugeordneten Faktor zu multiplizieren.
 
-(2) Der funktionsspezifische Kompensationsbedarf ist zu ermitteln, soweit folgende Beeinträchtigungen zu erwarten sind: Die Ermittlung des funktionsspezifischen Kompensationsbedarfs erfolgt verbal-argumentativ.
+(2) Der funktionsspezifische Kompensationsbedarf ist zu ermitteln, soweit folgende Beeinträchtigungen zu erwarten sind:
 
-1.
+1. bei den Schutzgütern Biotope, Tiere, Pflanzen, Boden, Wasser, Klima oder Luft eine erhebliche Beeinträchtigung besonderer Schwere,
 
-2.
+2. beim Schutzgut Landschaftsbild mindestens eine erhebliche Beeinträchtigung.
 
 ### § 8 — Anforderungen an den Ausgleich und den Ersatz erheblicher Beeinträchtigungen von Biotopen
 
@@ -158,11 +150,11 @@ c)
 
 (2) Mindestens erhebliche Beeinträchtigungen des Landschaftsbildes sowie erhebliche Beeinträchtigungen besonderer Schwere sonstiger Schutzgüter sind nach Maßgabe der Absätze 3 bis 5 zu kompensieren. Einer solchen Kompensation bedarf es nicht, soweit
 
-1.
+1. im Einzelfall ein Ausgleich oder Ersatz nach Maßgabe der Absätze 3 und 4 naturschutzfachlich nicht sinnvoll ist und durch Maßnahmen auf der Grundlage eines Konzepts eine naturschutzfachlich sinnvollere Aufwertung erfolgt,
 
-2.
+2. infolge des Eingriffs innerhalb von fünf Jahren höherwertige Biotope entstehen oder entwickelt werden können als die Biotope, die auf der durch das Vorhaben in Anspruch genommenen Fläche vorhanden sind, oder
 
-3.
+3. für die Schutzgüter Boden, Wasser, Klima und Luft entsprechende Maßnahmen nach dem sonstigen Fachrecht vorgesehen sind.
 
 (3) Eine Beeinträchtigung ist ausgeglichen, wenn die betroffene Funktion unter Berücksichtigung der Maßgaben nach Anlage 5 Abschnitt A Spalte 3 durch Maßnahmen in dem in der Anlage 5 Abschnitt A Spalte 4 jeweils bezeichneten Raum und innerhalb einer angemessenen Frist wiederhergestellt ist. Bei der Festlegung von Ausgleichsmaßnahmen sind Entwicklungszeiten nach Anlage 5 Abschnitt B zu berücksichtigen.
 
@@ -198,9 +190,9 @@ c)
 
 (1) Beeinträchtigungen des Naturhaushalts oder des Landschaftsbildes sind im Sinne des § 15 Absatz 6 Satz 1 des Bundesnaturschutzgesetzes nicht in angemessener Frist ausgleichbar oder ersetzbar, soweit die Anforderungen der §§ 8 und 9 aus tatsächlichen oder rechtlichen Gründen nicht erfüllt werden können. Dies ist insbesondere der Fall, wenn
 
-1.
+1. die betroffene Funktion durch Ausgleichs- oder Ersatzmaßnahmen nicht oder nur unter unzumutbaren Belastungen herstellbar ist oder
 
-2.
+2. Flächen, auf denen die Maßnahmen durchgeführt werden können, im betroffenen Naturraum nicht vorhanden oder nicht verfügbar sind.
 
 (2) Beeinträchtigungen des Landschaftsbildes, die von Mast-, Turm- oder sonstigen Hochbauten verursacht werden, die höher als 20 Meter sind, sind in der Regel nicht ausgleichbar oder ersetzbar. Abweichend von Satz 1 ist der Rückbau bestehender Mast- und Turmbauten im räumlichen Zusammenhang als Ausgleichs- und Ersatzmaßnahme anzuerkennen.
 
@@ -210,55 +202,15 @@ c)
 
 (1) Bemisst sich die Ersatzzahlung nach den durchschnittlichen Kosten der nicht durchführbaren Ausgleichs- und Ersatzmaßnahmen nach § 15 Absatz 6 Satz 2 des Bundesnaturschutzgesetzes, sind die erforderlichen durchschnittlichen Kosten für die Flächenbereitstellung auf der Grundlage der Bodenrichtwerte nach § 196 des Baugesetzbuches in der Fassung der Bekanntmachung vom 3. November 2017 (BGBl. I S. 3634), das durch Artikel 6 des Gesetzes vom 27. März 2020 (BGBl. I S. 587) geändert worden ist, festzustellen.
 
-(2) Sind die durchschnittlichen Kosten der nicht durchführbaren Ausgleichs- und Ersatzmaßnahmen nicht feststellbar im Sinne von § 15 Absatz 6 Satz 3 des Bundesnaturschutzgesetzes, beträgt die Ersatzzahlung für Beeinträchtigungen des Landschaftsbildes Sind von einem Vorhaben im Sinne des Satzes 1 unterschiedliche Wertstufen betroffen, ist ein gemittelter Betrag in Euro anzusetzen.
+(2) Sind die durchschnittlichen Kosten der nicht durchführbaren Ausgleichs- und Ersatzmaßnahmen nicht feststellbar im Sinne von § 15 Absatz 6 Satz 3 des Bundesnaturschutzgesetzes, beträgt die Ersatzzahlung für Beeinträchtigungen des Landschaftsbildes
 
-1.
+1. bei Mast- und Turmbauten, insbesondere bei Windenergieanlagen, Freileitungsmasten, Funkmasten, Funk- und Aussichtstürmen, Pfeilern von Talbrücken und vergleichbaren baulichen Anlagen entsprechend der nach § 6 Absatz 1 Satz 2 in Verbindung mit Anlage 1 Spalte 4 ermittelten Wertstufe des betroffenen Landschaftsbildes je Meter Anlagenhöhe a)in Wertstufe 2: 100 Euro,b)in Wertstufe 3: 200 Euro,c)in Wertstufe 4: 300 Euro,d)in Wertstufe 5: 500 Euro,e)in Wertstufe 6: 800 Euro, in Wertstufe 2: 100 Euro, in Wertstufe 3: 200 Euro, in Wertstufe 4: 300 Euro, in Wertstufe 5: 500 Euro, in Wertstufe 6: 800 Euro,
 
-a)
+2. bei Gebäuden entsprechend der nach § 6 Absatz 1 Satz 2 in Verbindung mit Anlage 1 Spalte 4 ermittelten Wertstufe des betroffenen Landschaftsbildes je Kubikmeter umbauten Raums a)in Wertstufe 2: 0,01 Euro,b)in Wertstufe 3: 0,02 Euro,c)in Wertstufe 4: 0,03 Euro,d)in Wertstufe 5: 0,05 Euro,e)in Wertstufe 6: 0,08 Euro, in Wertstufe 2: 0,01 Euro, in Wertstufe 3: 0,02 Euro, in Wertstufe 4: 0,03 Euro, in Wertstufe 5: 0,05 Euro, in Wertstufe 6: 0,08 Euro,
 
-b)
+3. bei Abgrabungen entsprechend der nach § 6 Absatz 1 Satz 2 in Verbindung mit Anlage 1 Spalte 4 ermittelten Wertstufe des betroffenen Landschaftsbildes je Quadratmeter in Anspruch genommener Fläche a)in Wertstufe 2: 0,10 Euro,b)in Wertstufe 3: 0,20 Euro,c)in Wertstufe 4: 0,30 Euro,d)in Wertstufe 5: 0,50 Euro,e)in Wertstufe 6: 0,80 Euro, in Wertstufe 2: 0,10 Euro, in Wertstufe 3: 0,20 Euro, in Wertstufe 4: 0,30 Euro, in Wertstufe 5: 0,50 Euro, in Wertstufe 6: 0,80 Euro,
 
-c)
-
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+4. bei Aufschüttungen entsprechend der nach § 6 Absatz 1 Satz 2 in Verbindung mit Anlage 1 Spalte 4 ermittelten Wertstufe des betroffenen Landschaftsbildes je 100 Kubikmeter aufgeschütteten Materials a)in Wertstufe 2: 0,30 Euro,b)in Wertstufe 3: 0,60 Euro,c)in Wertstufe 4: 1 Euro,d)in Wertstufe 5: 1,60 Euro,e)in Wertstufe 6: 2,40 Euro. in Wertstufe 2: 0,30 Euro, in Wertstufe 3: 0,60 Euro, in Wertstufe 4: 1 Euro, in Wertstufe 5: 1,60 Euro, in Wertstufe 6: 2,40 Euro.
 
 (3) In den Fällen des Absatzes 2 Satz 1 Nummer 1 erfolgt die Ermittlung der Wertstufe des betroffenen Landschaftsbildes in einem Umkreis um die Anlage, dessen Radius das Fünfzehnfache der Anlagenhöhe beträgt. Umfasst ein Vorhaben zwei oder mehr Mast- oder Turmbauten oder werden Mast- oder Turmbauten im räumlichen Zusammenhang mit bereits bestehenden Mast- oder Turmbauten errichtet, verringert sich die nach Absatz 2 errechnete Ersatzzahlung um 15 Prozent. Wird die Landschaft zwischen Mastbauten durch eine oder mehrere Leitungen überspannt, erhöht sich die errechnete Ersatzzahlung um 10 Prozent. Für Windenergieanlagen auf See gilt § 15 Absatz 1 Nummer 2.
 
@@ -270,11 +222,11 @@ e)
 
 (1) Für die Errichtung und den Betrieb von Windenergieanlagen auf See einschließlich der hierfür erforderlichen Nebeneinrichtungen im Bereich der ausschließlichen Wirtschaftszone und des Festlandsockels sind die folgenden Maßgaben anzuwenden:
 
-1.
+1. Soweit eine Sicherheitszone nach § 74 des Windenergie-auf-See-Gesetzes vom 13. Oktober 2016 (BGBl. I S. 2258, 2310), das zuletzt durch Artikel 1 des Gesetzes vom 22. Dezember 2025 (BGBl. 2025 I Nr. 351) geändert worden ist, eingerichtet wird, in der die Fischerei während der gesamten Betriebsdauer ausgeschlossen wird, gelten die Beeinträchtigungen der Schutzgüter Biotope und Boden einschließlich der darin vorkommenden Pflanzen und Tiere als auch der Schutzgüter Wasser und Luft als kompensiert. Unter den Voraussetzungen des Satzes 1 gilt dies auch für Beeinträchtigungen der in Satz 1 genannten Schutzgüter durch Konverter, deren Sicherheitszone eine Schnittmenge mit den von Satz 1 erfassten Sicherheitszonen aufweist. Die Erlaubnis passiver Fischerei mit Reusen und Körben außerhalb des Bereichs der Sicherheitszone, in dem sich die Anlagen selbst befinden, bleibt von Satz 1 unberührt.
 
-2.
+2. Für Anlagen in einem Cluster im Sinne von § 3 Nummer 1 und in einem Gebiet im Sinne von § 3 Nummer 3 des Windenergie-auf-See-Gesetzes verringert sich abweichend von § 14 Absatz 3 Satz 2 die nach § 14 Absatz 2 errechnete Ersatzzahlung um 35 Prozent.
 
-3.
+3. Bei der Bemessung des Ersatzgeldes nach § 14 Absatz 2 Nummer 1 ist für das beeinträchtigte Landschaftsbild die Wertstufe 2 nach § 14 Absatz 2 Nummer 1 Buchstabe a zugrunde zu legen.
 
 (2) Die Geltung dieser Verordnung für die Vermeidung und Kompensation von Eingriffen im Bereich der ausschließlichen Wirtschaftszone und des Festlandsockels bleibt im Übrigen unberührt.
 
@@ -282,25 +234,19 @@ e)
 
 Setzt die zuständige Behörde eine Sicherheitsleistung für die Ersatzzahlung nach § 15 Absatz 6 Satz 6 zweiter Halbsatz des Bundesnaturschutzgesetzes in Art und Umfang fest, kann sie neben den in § 232 des Bürgerlichen Gesetzbuches in der Fassung der Bekanntmachung vom 2. Januar 2002 (BGBl. I S. 42, 2909; 2003 I S. 738), das zuletzt durch Artikel 1 des Gesetzes vom 19. März 2020 (BGBl. I S. 541) geändert worden ist, vorgesehenen Arten der Sicherheit zulassen, dass die Sicherheit bewirkt wird durch
 
-1.
+1. die Stellung einer Konzernbürgschaft,
 
-2.
+2. eine Garantie oder ein Zahlungsversprechen eines Kreditinstituts oder
 
-3.
+3. eine gleichwertige Sicherheit.
 
 ### § 17 — Übergangsvorschriften
 
 (1) Diese Verordnung findet keine Anwendung auf Eingriffe in Natur und Landschaft,
 
-1.
+1. deren Zulassung vor dem 3. Juni 2020 bei einer Behörde beantragt wurde, deren Anzeige vor dem 3. Juni 2020 erfolgt ist oder, für den Fall, dass sie von einer Behörde durchgeführt werden, mit deren Durchführung vor dem 3. Juni 2020 begonnen wurde oder
 
-2.
-
-a)
-
-b)
-
-c)
+2. bei denen die zuständige Behörde vor dem 3. Juni 2020 Folgendes erfolgt ist: a)die Einleitung des Verfahrens zur Feststellung der UVP-Pflicht nach § 5 des Gesetzes über die Umweltverträglichkeitsprüfung in der Fassung der Bekanntmachung vom 24. Februar 2010 (BGBl. I S. 94), das zuletzt durch Artikel 2 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2513) geändert worden ist, oder nach entsprechenden Vorschriften des Landesrechts,b)die Einleitung des Verfahrens zur Unterrichtung über den Untersuchungsrahmen nach § 15 Absatz 1 des Gesetzes über die Umweltverträglichkeitsprüfung oder nach entsprechenden Vorschriften des Landesrechts oderc)die Vorlage des UVP-Berichts durch den Vorhabenträger nach § 16 des Gesetzes über die Umweltverträglichkeitsprüfung. die Einleitung des Verfahrens zur Feststellung der UVP-Pflicht nach § 5 des Gesetzes über die Umweltverträglichkeitsprüfung in der Fassung der Bekanntmachung vom 24. Februar 2010 (BGBl. I S. 94), das zuletzt durch Artikel 2 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2513) geändert worden ist, oder nach entsprechenden Vorschriften des Landesrechts, die Einleitung des Verfahrens zur Unterrichtung über den Untersuchungsrahmen nach § 15 Absatz 1 des Gesetzes über die Umweltverträglichkeitsprüfung oder nach entsprechenden Vorschriften des Landesrechts oder die Vorlage des UVP-Berichts durch den Vorhabenträger nach § 16 des Gesetzes über die Umweltverträglichkeitsprüfung.
 
 (2) Abweichend von Absatz 1 ist diese Verordnung anzuwenden, wenn der Verursacher eines Eingriffs dies beantragt.
 
@@ -318,9 +264,11 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Anlage 3 — (zu § 5 Absatz 3 Satz 2 und § 6 Absatz 2 Satz 2)
 
-### Anlage 4 — (zu § 8 Absatz 1 Satz 2 und § 9 Absatz 4 Satz 1)
+1. Feststellung der Schwere der zu erwartenden BeeinträchtigungenBedeutung der Funktionen des jeweiligen Schutzguts nach WertstufenStärke, Dauer und Reichweite der vorhabenbezogenen WirkungenI geringII mittelIII hoch1 sehr gering–––2 gering––eB3 mittel–eBeB4 hocheBeBeBS5 sehr hocheBeBSeBS6 hervorragendeBSeBSeBS–:keine erhebliche Beeinträchtigung zu erwarteneB:erhebliche Beeinträchtigung zu erwarteneBS:erhebliche Beeinträchtigung besonderer Schwere zu erwarten
 
-Naturräume in Deutschland (Bundesamt für Naturschutz 2011, nach Ssymank 1994)
+2. Feststellung der Schwere der zu erwartenden Beeinträchtigungen der in Anlage 1 aufgeführten Bodenfunktionen Für die Feststellung der Schwere der zu erwartenden Beeinträchtigungen der natürlichen Bodenfunktionen durch Versiegelung oder einen Bodenabtrag von bisher unversiegelten Flächen gilt abweichend von Nummer 1 für eine erhebliche Beeinträchtigung besonderer Schwere Folgendes: Bei einer dauerhaften Versiegelung oder einem Bodenabtrag von bisher unversiegelten Flächen ab einer Größe von 2 000 Quadratmetern sowie bei sonstigen dauerhaften Wirkungen (Verdichtung, Veränderung des Bodenwasser- oder Stoffhaushalts) ab dieser Größe hat eine Prüfung zu erfolgen, ob eine erhebliche Beeinträchtigung besonderer Schwere zu erwarten ist. Für die Bewertung sind die Bedeutung der betroffenen Bodenfunktion im konkreten räumlichen Zusammenhang und die Empfindlichkeit gegenüber der spezifischen Wirkung maßgeblich.
+
+### Anlage 4 — (zu § 8 Absatz 1 Satz 2 und § 9 Absatz 4 Satz 1)
 
 ### Anlage 5 — (zu § 9 Absatz 3 und 4)
 
@@ -328,552 +276,12 @@ Ausgleichsmaßnahmen sind funktionsspezifisch gleichartig hinsichtlich der jewei
 
 Ersatzmaßnahmen sind funktionsspezifisch gleichwertig hinsichtlich der jeweils beeinträchtigten Funktion des Schutzguts zu wählen. Sie sind unter Bezug auf den beeinträchtigten Raum, zumindest jedoch so durchzuführen, dass die jeweilige Funktion im betroffenen Naturraum hergestellt wird (siehe Anlage 4). Bei Eingriffen im Bereich der ausschließlichen Wirtschaftszone und des Festlandsockels können Ersatzmaßnahmen auch außerhalb des betroffenen Naturraums durchgeführt werden, sofern dadurch die jeweils beeinträchtigte Funktion des Schutzguts im betroffenen Naturraum hergestellt wird.
 
-•
+A. Räumlich-funktionale AnforderungenSchutzgüterFunktionen (sieheim Einzelnen Anlage 1)Maßgaben zum Ausgleich und ErsatzRäume, in denen die Ausgleichs- maßnahmen durchzuführen sindBiotopeVielfalt von Lebensgemeinschaften und LebensräumenWiederherstellung/Neuschaffung/Optimierung der betroffenen Biotoptypen (Ausgleich) bzw. von ähnlichen Biotoptypenkomplexen/-gruppen mit einer insgesamt gleichwertigen Bedeutung für die biologische Vielfalt (Ersatz) jeweils unter Berücksichtigung von Art und Umfang des betroffenen Bestandes sowie von Mindestgrößen von Biotopen Als Ausgangszustand der Entwicklung bzw. Wiederherstellung sind Biotope zu wählen, die gemessen an dem Wert des betroffenen Biotoptyps (siehe Anlage 2) aufwertungsfähig sind und die unter Berücksichtigung des erforderlichen Maßnahmenaufwands und der Entwicklungszeiten (siehe Abschnitt B) geeignet sind.Mögliche Maßnahmen sind u. a.: Nährstoffentzug Wiedervernässung Zielgerichteter Einsatz von forstlichen Bewirtschaftungsmaßnahmen (z. B. Aufforstung mit Baumarten der natürlichen Waldgesellschaft oder natürliche Sukzession; Entnahme standortfremder Baumarten, Belassen von Biotop- und Höhlenbäumen und Totholz) wasserwirtschaftliche Renaturierungsmaßnahmen Bewirtschaftungs- oder Pflegemaßnahmen (siehe Anlage 6 Abschnitt A) Im marinen Bereich z. B. die Schaffung oder Aufwertung von Riffen oder anderen Biotopenin dem vom Eingriff betroffenen Landschaftsraum, der sich durch eine ähnliche Biotopausstattung abgrenzt (z. B. Waldbereiche, Niederungsbereiche, strukturiertes Offenland)TiereVielfalt von Tierarten einschließlich der innerartlichen VielfaltWiederherstellung/Optimierung/Neuschaffung der Habitate der betroffenen Art (Ausgleich) bzw. der Habitate einer Art mit ähnlichen Habitatansprüchen und einer insgesamt gleichwertigen Bedeutung für die biologische Vielfalt (Ersatz) jeweils unter Berücksichtigung von Reviergrößen/Minimalarealen der betroffenen bzw. der für den Ersatz gewählten ähnlichen Art(en) Aktionsräumen der betroffenen bzw. der für den Ersatz gewählten ähnlichen Art(en)/Population(en)/Metapopulation(en) artspezifischen Habitatstrukturen (entsprechend den beeinträchtigten Schlüsselhabitaten) und deren zeitlicher WiederherstellbarkeitMögliche Maßnahmen sind u. a.: Optimierung/Aufwertung bestehender artspezifischer Habitatstrukturen (insbesondere Schlüsselhabitate wie Fortpflanzungs- und Ruhestätten, Jagdhabitate)in dem vom Eingriff betroffenen populations- bzw. artspezifischen Funktionsraum möglichst unter Bezug auf konkrete Aktions- oder Dispersionsräume der betroffenen Art(en)/Popula- tion(en)Entwicklung/Wiederherstellung/Neuanlage artspezifischer Habitatstrukturen (insbesondere Schlüsselhabitate wie Fortpflanzungs- und Ruhestätten, Jagdhabitate) Reaktivierung/Schaffung von Vernetzungsstrukturen und Wanderkorridoren, Wiedervernetzung von Lebensräumen Bewirtschaftungs- oder Pflegemaßnahmen (siehe Anlage 6 Abschnitt A)PflanzenVielfalt von Pflanzenarten einschließlich der innerartlichen VielfaltWiederherstellung/Optimierung/Neuschaffung der Standorte der betroffenen Art (Ausgleich) bzw. der Standorte einer Art mit ähnlichen Standortansprüchen und einer insgesamt gleichwertigen Bedeutung für die biologische Vielfalt (Ersatz) jeweils unter Berücksichtigung von Ausbreitungsmechanismen der betroffenen bzw. der für den Ersatz gewählten ähnlichen Art, Verbreitungsareale artspezifischen Standortbedingungen EntwicklungszeitenMögliche Maßnahmen sind u. a.: Optimierung der artspezifisch erforderlichen Standortbedingungen (z. B. Offenhaltung von Sandrasenflächen, Entfernen von Gehölzen) Wiederherstellung von Lebensräumen Maßnahmen zur Wiederansiedlung/Umsiedlung von Pflanzenarten (z. B. Entnahme und Ausbringung von Diasporen) Bewirtschaftungs- oder Pflegemaßnahmen (siehe Anlage 6 Abschnitt A)in dem vom Eingriff betroffenen populations- bzw. artspezifischen Funktionsraum in Abhängigkeit von konkreten VerbreitungsarealenBodennatürliche BodenfunktionenWiederherstellung/Optimierung der BodenfunktionenMögliche Maßnahmen sind u. a.: Entsiegelung oder Teilentsiegelung (siehe Anlage 6 Abschnitt B) Entfernen von Überschüttungen Herstellen oder Verbessern eines durchwurzelbaren Bodenraums Mechanisches und biologisches Tiefenlockern, ggf. mit Untergrundmelioration Wiedervernässung von hydromorphen Böden, Mooren Nutzungsextensivierung Bewirtschaftungs- oder Pflegemaßnahmen (siehe Anlage 6 Abschnitt A)in dem vom Eingriff betroffenen Landschaftsraum, Bereich mit vergleichbaren Bodengesellschaften und -typenVielfalt von Bodentypen und Bodenformen als Ausdruck des natürlichen und kulturellen ErbesWiederherstellung/Optimierung der betroffenen Bodentypen und Bodenformen oder Geotopkategorien (Ausgleich) bzw. ähnlicher Bodentypen/Bodenformen/Geotopkategorien mit Relevanz für die Sicherung des natürlichen und kulturellen Erbes (Ersatz), etwa durch: Wiedervernässung von hydromorphen Böden, Mooren Wiederherstellung der Auenspezifität von Böden durch die Wiederherstellung von fließgewässertypischen Abfluss- und Überflutungsverhältnissen Managementmaßnahmen, die eine Ausprägung von Böden erhalten, die durch kulturhistorische Nutzungen entstanden sind Extensivierung, Steuerung intensiver Flächennutzungen im Umfeld von z. B. Sand- und Kalksteinfelsen Sicherung von z. B. Lösssteilwände in Hohlwegenin dem vom Eingriff betroffenen Landschaftsraum, Bereich mit vergleichbaren Bodengesellschaften und -typenWasserFunktionen für den Naturhaushalt, die sich aus der Qualität und Quantität der Oberflächengewässer einschließlich der natürlichen Selbstreinigungsfähigkeit der Fließgewässer ergebenMaßnahmen zur Verbesserung/Wiederherstellung der Gewässerfunktionen am oder im unmittelbaren Umfeld des betroffenen Gewässers (Ausgleich) bzw. an einem hinsichtlich der Funktionsausprägung ähnlichen Gewässer einschließlich der Neuanlage von Gewässern (Ersatz)Mögliche Maßnahmen sind u. a.: Renaturierung von Fließgewässerabschnitten, Beseitigung von Gewässerverbauen (z. B. Aufhebung von Verrohrungen, Sohl-, Uferbefestigungen, Rückbau von Wehren) Reduzierung bestehender Belastungen durch Optimierung der Selbstreinigungskraft des Gewässers z. B. durch Nutzungsextensivierungen im Randbereich der Gewässer, Entwicklung von natürlichen Uferstrukturen, Uferrandstreifen an Gewässern, Uferrückbau- oder -vorschüttung, Schaffung einer vielgestaltigen Fließgewässermorphologie zur Sauerstoffanreicherung Anbindung von Altarmen und Nebengewässern, Anlage von Auefließgewässern Neuanlage, Erweiterung oder Renaturierung von Stillgewässern Wiederherstellung von fließgewässertypischen Abfluss- und Überflutungsverhältnissen durch z. B.: Rückbau von abflussregulierenden Bauwerken, Deichrückverlegungen, Geschiebemanagement zur Vermeidung weiterer Sohlvertiefungen oder -erosion, Anhebung der Fließgewässersohle, Rückbau von Meliorationsmaßnahmen, Drainagen Extensivierung intensiver Flächennutzungen im Umfeld der Gewässer zur Verringerung von Stoffeinträgen durch Oberflächenabfluss, Erosionsschutzmaßnahmen auf erosionsgefährdeten Böden oder bei ackerbaulicher Nutzung in Hanglagen Bewirtschaftungs- oder Pflegemaßnahmen (siehe Anlage 6 Abschnitt A) Wiederherstellung von auentypischen Biotoptypen bzw. Biotoptypen der Uferzonierungen an Stillgewässern Reduzierung von Direkteinleitungen aus Regenwasserüberläufen, Oberflächenabflüssen, Fischteichen Wiederherstellung der Durchgängigkeit von Fließgewässern (siehe Anlage 6 Abschnitt C)in dem vom Eingriff betroffenen Fließ- oder Stillgewässer oder in dessen unmittelbarem UmfeldFunktionen für den Naturhaushalt, die sich aus der Qualität und Quantität des Grundwassers ergebenVerbesserung/Wiederherstellung der GrundwasserfunktionenMögliche Maßnahmen für die Qualität sind u. a.: Extensivierung intensiver Flächennutzungen zur Verringerung von Stoffeinträgen insbesondere bei hoch anstehendem Grundwasser Bewirtschaftungs- oder Pflegemaßnahmen (siehe Anlage 6 Abschnitt A) Reduzierung/Beseitigung von Grundwasserverschmutzungen z. B. durch AltlastensanierungMögliche Maßnahmen für die Quantität sind u. a.: Entsiegelung zur Erhöhung der Grundwasserneubildung (siehe Anlage 6 Abschnitt B) Maßnahmen zur Erhöhung der Grundwasserneubildung durch Reduzierung des Direktabflusses, in Ausnahmefällen Infiltration von Niederschlagswasserin dem vom Eingriff betroffenen Grundwasserleiter, -einzugsgebietWiederherstellung von natürlichen Grundwasserverhältnissen, insbes. bei Porengrundwasserleitern in Auen, durch die Wiederherstellung von fließgewässertypischen Abfluss- und Überflutungsverhältnissen Rückbau von Meliorationsmaßnahmen, DrainagenHochwasserschutzfunktion und Funktionen im Niederschlags-Abflusshaushalt (Retentionsfunktion)Optimierung/Wiederherstellung der Hochwasserschutz- und RetentionsfunktionenMögliche Maßnahmen sind u. a.: Entsiegelungen (siehe Anlage 6 Abschnitt B) Maßnahmen zur Erhöhung der Grundwasserneubildung durch Reduzierung des Direktabflusses, ggf. Infiltration von Niederschlagswasser und Regenwasserrückhaltung Aufwertung beeinträchtigter Retentionsbereiche durch Nutzungsextensivierung im Retentionsraum oder Einzugsgebiet Rückbau von Barrieren, Querbauwerken im Retentionsraum und Abflussquerschnitt von Auen und Fließgewässern Renaturierung von Fließgewässern, Beseitigung von Gewässerverbauungen Anbindung von Altarmen, Anlage von Flutmulden und von Auefließgewässern Wiederherstellung von fließgewässertypischen Abfluss- und Überflutungsverhältnissen durch z. B.: Rückbau von abflussregulierenden Bauwerken, Geschiebemanagement zur Vermeidung weiterer Sohlvertiefungen oder -erosion, Anhebung der Fließgewässersohle Extensivierung der Auenutzung Rückbau von Meliorationsmaßnahmen, Drainagen Bewirtschaftungs- oder Pflegemaßnahmen (siehe Anlage 6 Abschnitt A) Deichrückverlegung zur Erweiterung des Retentionsraumes Schaffung von Poldern, Regenwasserrückhalteräumen oder -becken Vorlandmanagement in den Deichvorländernin dem vom Eingriff betroffenen Retentionsraum bzw. im betroffenen Einzugsgebiet des FließgewässersBiotopeVielfalt von Lebensgemeinschaften und LebensräumenWiederherstellung/Neuschaffung/Optimierung der betroffenen Biotoptypen (Ausgleich) bzw. von ähnlichen Biotoptypenkomplexen/-gruppen mit einer insgesamt gleichwertigen Bedeutung für die biologische Vielfalt (Ersatz) jeweils unter Berücksichtigung von Art und Umfang des betroffenen Bestandes sowie von Mindestgrößen von Biotopen Als Ausgangszustand der Entwicklung bzw. Wiederherstellung sind Biotope zu wählen, •die gemessen an dem Wert des betroffenen Biotoptyps (siehe Anlage 2) aufwertungsfähig sind und•die unter Berücksichtigung des erforderlichen Maßnahmenaufwands und der Entwicklungszeiten (siehe Abschnitt B) geeignet sind.Mögliche Maßnahmen sind u. a.:•Nährstoffentzug•Wiedervernässungin dem vom Eingriff betroffenen Landschaftsraum, der sich durch eine ähnliche Biotopausstattung abgrenzt (z. B. Waldbereiche, Niederungsbereiche, strukturiertes Offenland)•Zielgerichteter Einsatz von forstlichen Bewirtschaftungsmaßnahmen (z. B. Aufforstung mit Baumarten der natürlichen Waldgesellschaft oder natürliche Sukzession; Entnahme standortfremder Baumarten, Belassen von Biotop- und Höhlenbäumen und Totholz)•wasserwirtschaftliche Renaturierungsmaßnahmen•Bewirtschaftungs- oder Pflegemaßnahmen (siehe Anlage 6 Abschnitt A)•Im marinen Bereich z. B. die Schaffung oder Aufwertung von Riffen oder anderen BiotopenTiereVielfalt vonTierarten einschließlich der innerartlichen VielfaltWiederherstellung/Optimierung/Neuschaffung der Habitate der betroffenen Art (Ausgleich) bzw. der Habitate einer Art mit ähnlichen Habitatansprüchen und einer insgesamt gleichwertigen Bedeutung für die biologische Vielfalt (Ersatz) jeweils unter Berücksichtigung von •Reviergrößen/Minimalarealen der betroffenen bzw. der für den Ersatz gewählten ähnlichen Art(en)•Aktionsräumen der betroffenen bzw. der für den Ersatz gewählten ähnlichen Art(en)/Population(en)/Metapopulation(en)•artspezifischen Habitatstrukturen (entsprechend den beeinträchtigten Schlüsselhabitaten) und deren zeitlicher WiederherstellbarkeitMögliche Maßnahmen sind u. a.:•Optimierung/Aufwertung bestehender artspezifischer Habitatstrukturen (insbesondere Schlüsselhabitate wie Fortpflanzungs- und Ruhestätten, Jagdhabitate)•Entwicklung/Wiederherstellung/Neuanlage artspezifischer Habitatstrukturen (insbesondere Schlüsselhabitate wie Fortpflanzungs- und Ruhestätten, Jagdhabitate)•Reaktivierung/Schaffung von Vernetzungsstrukturen und Wanderkorridoren, Wiedervernetzung von Lebensräumen•Bewirtschaftungs- oder Pflegemaßnahmen (siehe Anlage 6 Abschnitt A)in dem vom Eingriff betroffenen populations- bzw. artspezifischen Funktionsraum möglichst unter Bezug auf konkrete Aktions- oder Dispersionsräume der betroffenen Art(en)/Popula- tion(en)PflanzenVielfalt von Pflanzenarten einschließlich der innerartlichen VielfaltWiederherstellung/Optimierung/Neuschaffung der Standorte der betroffenen Art (Ausgleich) bzw. der Standorte einer Art mit ähnlichen Standortansprüchen und einer insgesamt gleichwertigen Bedeutung für die biologische Vielfalt (Ersatz) jeweils unter Berücksichtigung von •Ausbreitungsmechanismen der betroffenen bzw. der für den Ersatz gewählten ähnlichen Art, Verbreitungsareale•artspezifischen Standortbedingungen•EntwicklungszeitenMögliche Maßnahmen sind u. a.:•Optimierung der artspezifisch erforderlichen Standortbedingungen (z. B. Offenhaltung von Sandrasenflächen, Entfernen von Gehölzen)•Wiederherstellung von Lebensräumenin dem vom Eingriff betroffenen populations- bzw. artspezifischen Funktionsraum in Abhängigkeit von konkreten Verbreitungsarealen•Maßnahmen zur Wiederansiedlung/Umsiedlung von Pflanzenarten (z. B. Entnahme und Ausbringung von Diasporen)•Bewirtschaftungs- oder Pflegemaßnahmen (siehe Anlage 6 Abschnitt A)Bodennatürliche BodenfunktionenWiederherstellung/Optimierung der Bodenfunktionen Mögliche Maßnahmen sind u. a.: •Entsiegelung oder Teilentsiegelung (siehe Anlage 6 Abschnitt B)•Entfernen von Überschüttungen•Herstellen oder Verbessern eines durchwurzelbaren Bodenraums•Mechanisches und biologisches Tiefenlockern, ggf. mit Untergrundmelioration•Wiedervernässung von hydromorphen Böden, Mooren•Nutzungsextensivierung•Bewirtschaftungs- oder Pflegemaßnahmen (siehe Anlage 6 Abschnitt A)in dem vom Eingriff betroffenen Landschaftsraum, Bereich mit vergleichbaren Bodengesellschaften und -typenVielfalt von Bodentypenund Bodenformen als Ausdruck des natürlichen und kulturellen ErbesWiederherstellung/Optimierung der betroffenen Bodentypen und Bodenformen oder Geotopkategorien (Ausgleich) bzw. ähnlicher Bodentypen/Bodenformen/Geotopkategorien mit Relevanz für die Sicherung des natürlichen und kulturellen Erbes (Ersatz), etwa durch: •Wiedervernässung von hydromorphen Böden, Mooren•Wiederherstellung der Auenspezifität von Böden durch die Wiederherstellung von fließgewässertypischen Abfluss- und Überflutungsverhältnissen•Managementmaßnahmen, die eine Ausprägung von Böden erhalten, die durch kulturhistorische Nutzungen entstanden sind•Extensivierung, Steuerung intensiver Flächennutzungen im Umfeld von z. B. Sand- und Kalksteinfelsen•Sicherung von z. B. Lösssteilwände in Hohlwegenin dem vom Eingriff betroffenen Landschaftsraum, Bereich mit vergleichbaren Bodengesellschaften und -typenWasserFunktionen für den Naturhaushalt, die sich aus der Qualität und Quantität der Oberflächen- gewässer einschließlich der natürlichen Selbstreini- gungsfähigkeit der Fließgewässer ergebenMaßnahmen zur Verbesserung/Wiederherstellung der Gewässerfunktionen am oder im unmittelbaren Umfeld des betroffenen Gewässers (Ausgleich) bzw. an einem hinsichtlich der Funktionsausprägung ähnlichen Gewässer einschließlich der Neuanlage von Gewässern (Ersatz)Mögliche Maßnahmen sind u. a.:•Renaturierung von Fließgewässerabschnitten, Beseitigung von Gewässerverbauen (z. B. Aufhebung von Verrohrungen, Sohl-, Uferbefestigungen, Rückbau von Wehren)•Reduzierung bestehender Belastungen durch Optimierung der Selbstreinigungskraft des Gewässers z. B. durch Nutzungsextensivierungen im Randbereich der Gewässer, Entwicklung von natürlichen Uferstrukturen, Uferrandstreifen an Gewässern, Uferrückbau- oder -vorschüttung, Schaffung einer vielgestaltigen Fließgewässermorphologie zur Sauerstoffanreicherung•Anbindung von Altarmen und Nebengewässern, Anlage von Auefließgewässern•Neuanlage, Erweiterung oder Renaturierung von Stillgewässernin dem vom Eingriff betroffenen Fließ- oder Stillgewässer oder in dessen unmittelbarem Umfeld•Wiederherstellung von fließgewässertypischen Abfluss- und Überflutungsverhältnissen durch z. B.: Rückbau von abflussregulierenden Bauwerken, Deichrückverlegungen, Geschiebemanagement zur Vermeidung weiterer Sohlvertiefungen oder -erosion, Anhebung der Fließgewässersohle, Rückbau von Meliorationsmaßnahmen, Drainagen•Extensivierung intensiver Flächennutzungen im Umfeld der Gewässer zur Verringerung von Stoffeinträgen durch Oberflächenabfluss, Erosionsschutzmaßnahmen auf erosionsgefährdeten Böden oder bei ackerbaulicher Nutzung in Hanglagen•Bewirtschaftungs- oder Pflegemaßnahmen (siehe Anlage 6 Abschnitt A)•Wiederherstellung von auentypischen Biotoptypen bzw. Biotoptypen der Uferzonierungen an Stillgewässern•Reduzierung von Direkteinleitungen aus Regenwasserüberläufen, Oberflächenabflüssen, Fischteichen•Wiederherstellung der Durchgängigkeit von Fließgewässern (siehe Anlage 6 Abschnitt C)Funktionen für den Naturhaushalt, die sich aus der Qualität und Quantität des Grundwassers ergebenVerbesserung/Wiederherstellung der GrundwasserfunktionenMögliche Maßnahmen für die Qualität sind u. a.:•Extensivierung intensiver Flächennutzungen zur Verringerung von Stoffeinträgen insbesondere bei hoch anstehendem Grundwasser•Bewirtschaftungs- oder Pflegemaßnahmen (siehe Anlage 6 Abschnitt A)•Reduzierung/Beseitigung von Grundwasserverschmutzungen z. B. durch AltlastensanierungMögliche Maßnahmen für die Quantität sind u. a.:•Entsiegelung zur Erhöhung der Grundwasserneubildung (siehe Anlage 6 Abschnitt B)•Maßnahmen zur Erhöhung der Grundwasserneubildung durch Reduzierung des Direktabflusses, in Ausnahmefällen Infiltration von Niederschlagswasser•Wiederherstellung von natürlichen Grundwasserverhältnissen, insbes. bei Porengrundwasserleitern in Auen, durch die Wiederherstellung von fließgewässertypischen Abfluss- und Überflutungsverhältnissen•Rückbau von Meliorationsmaßnahmen, Drainagenin dem vom Eingriff betroffenen Grundwasserleiter, -einzugsgebietHochwasserschutzfunktion und Funktionen im Niederschlags-Ab-flusshaushalt(Retentionsfunktion)Optimierung/Wiederherstellung der Hochwasserschutz- und RetentionsfunktionenMögliche Maßnahmen sind u. a.:•Entsiegelungen (siehe Anlage 6 Abschnitt B)•Maßnahmen zur Erhöhung der Grundwasserneubildung durch Reduzierung des Direktabflusses, ggf. Infiltration von Niederschlagswasser und Regenwasserrückhaltung•Aufwertung beeinträchtigter Retentionsbereiche durch Nutzungsextensivierung im Retentionsraum oder Einzugsgebietin dem vom Eingriff betroffenen Retentionsraum bzw. im betroffenen Einzugsgebiet des Fließgewässers•Rückbau von Barrieren, Querbauwerken im Retentionsraum und Abflussquerschnitt von Auen und Fließgewässern•Renaturierung von Fließgewässern, Beseitigung von Gewässerverbauungen•Anbindung von Altarmen, Anlage von Flutmulden und von Auefließgewässern•Wiederherstellung von fließgewässertypischen Abfluss- und Überflutungsverhältnissen durch z. B.: Rückbau von abflussregulierenden Bauwerken, Geschiebemanagement zur Vermeidung weiterer Sohlvertiefungen oder -erosion, Anhebung der Fließgewässersohle•Extensivierung der Auenutzung•Rückbau von Meliorationsmaßnahmen, Drainagen•Bewirtschaftungs- oder Pflegemaßnahmen (siehe Anlage 6 Abschnitt A)•Deichrückverlegung zur Erweiterung des Retentionsraumes•Schaffung von Poldern, Regenwasserrückhalteräumen oder -becken Vorlandmanagement in den Deichvorländern die gemessen an dem Wert des betroffenen Biotoptyps (siehe Anlage 2) aufwertungsfähig sind und die unter Berücksichtigung des erforderlichen Maßnahmenaufwands und der Entwicklungszeiten (siehe Abschnitt B) geeignet sind. Nährstoffentzug Wiedervernässung Zielgerichteter Einsatz von forstlichen Bewirtschaftungsmaßnahmen (z. B. Aufforstung mit Baumarten der natürlichen Waldgesellschaft oder natürliche Sukzession; Entnahme standortfremder Baumarten, Belassen von Biotop- und Höhlenbäumen und Totholz) wasserwirtschaftliche Renaturierungsmaßnahmen Bewirtschaftungs- oder Pflegemaßnahmen (siehe Anlage 6 Abschnitt A) Im marinen Bereich z. B. die Schaffung oder Aufwertung von Riffen oder anderen Biotopen Reviergrößen/Minimalarealen der betroffenen bzw. der für den Ersatz gewählten ähnlichen Art(en) Aktionsräumen der betroffenen bzw. der für den Ersatz gewählten ähnlichen Art(en)/Population(en)/Metapopulation(en) artspezifischen Habitatstrukturen (entsprechend den beeinträchtigten Schlüsselhabitaten) und deren zeitlicher Wiederherstellbarkeit Optimierung/Aufwertung bestehender artspezifischer Habitatstrukturen (insbesondere Schlüsselhabitate wie Fortpflanzungs- und Ruhestätten, Jagdhabitate) Entwicklung/Wiederherstellung/Neuanlage artspezifischer Habitatstrukturen (insbesondere Schlüsselhabitate wie Fortpflanzungs- und Ruhestätten, Jagdhabitate) Reaktivierung/Schaffung von Vernetzungsstrukturen und Wanderkorridoren, Wiedervernetzung von Lebensräumen Bewirtschaftungs- oder Pflegemaßnahmen (siehe Anlage 6 Abschnitt A) Ausbreitungsmechanismen der betroffenen bzw. der für den Ersatz gewählten ähnlichen Art, Verbreitungsareale artspezifischen Standortbedingungen Entwicklungszeiten Optimierung der artspezifisch erforderlichen Standortbedingungen (z. B. Offenhaltung von Sandrasenflächen, Entfernen von Gehölzen) Wiederherstellung von Lebensräumen Maßnahmen zur Wiederansiedlung/Umsiedlung von Pflanzenarten (z. B. Entnahme und Ausbringung von Diasporen) Bewirtschaftungs- oder Pflegemaßnahmen (siehe Anlage 6 Abschnitt A) Entsiegelung oder Teilentsiegelung (siehe Anlage 6 Abschnitt B) Entfernen von Überschüttungen Herstellen oder Verbessern eines durchwurzelbaren Bodenraums Mechanisches und biologisches Tiefenlockern, ggf. mit Untergrundmelioration Wiedervernässung von hydromorphen Böden, Mooren Nutzungsextensivierung Bewirtschaftungs- oder Pflegemaßnahmen (siehe Anlage 6 Abschnitt A) Wiedervernässung von hydromorphen Böden, Mooren Wiederherstellung der Auenspezifität von Böden durch die Wiederherstellung von fließgewässertypischen Abfluss- und Überflutungsverhältnissen Managementmaßnahmen, die eine Ausprägung von Böden erhalten, die durch kulturhistorische Nutzungen entstanden sind Extensivierung, Steuerung intensiver Flächennutzungen im Umfeld von z. B. Sand- und Kalksteinfelsen Sicherung von z. B. Lösssteilwände in Hohlwegen Renaturierung von Fließgewässerabschnitten, Beseitigung von Gewässerverbauen (z. B. Aufhebung von Verrohrungen, Sohl-, Uferbefestigungen, Rückbau von Wehren) Reduzierung bestehender Belastungen durch Optimierung der Selbstreinigungskraft des Gewässers z. B. durch Nutzungsextensivierungen im Randbereich der Gewässer, Entwicklung von natürlichen Uferstrukturen, Uferrandstreifen an Gewässern, Uferrückbau- oder -vorschüttung, Schaffung einer vielgestaltigen Fließgewässermorphologie zur Sauerstoffanreicherung Anbindung von Altarmen und Nebengewässern, Anlage von Auefließgewässern Neuanlage, Erweiterung oder Renaturierung von Stillgewässern Wiederherstellung von fließgewässertypischen Abfluss- und Überflutungsverhältnissen durch z. B.: Rückbau von abflussregulierenden Bauwerken, Deichrückverlegungen, Geschiebemanagement zur Vermeidung weiterer Sohlvertiefungen oder -erosion, Anhebung der Fließgewässersohle, Rückbau von Meliorationsmaßnahmen, Drainagen Extensivierung intensiver Flächennutzungen im Umfeld der Gewässer zur Verringerung von Stoffeinträgen durch Oberflächenabfluss, Erosionsschutzmaßnahmen auf erosionsgefährdeten Böden oder bei ackerbaulicher Nutzung in Hanglagen Bewirtschaftungs- oder Pflegemaßnahmen (siehe Anlage 6 Abschnitt A) Wiederherstellung von auentypischen Biotoptypen bzw. Biotoptypen der Uferzonierungen an Stillgewässern Reduzierung von Direkteinleitungen aus Regenwasserüberläufen, Oberflächenabflüssen, Fischteichen Wiederherstellung der Durchgängigkeit von Fließgewässern (siehe Anlage 6 Abschnitt C) Extensivierung intensiver Flächennutzungen zur Verringerung von Stoffeinträgen insbesondere bei hoch anstehendem Grundwasser Bewirtschaftungs- oder Pflegemaßnahmen (siehe Anlage 6 Abschnitt A) Reduzierung/Beseitigung von Grundwasserverschmutzungen z. B. durch Altlastensanierung Entsiegelung zur Erhöhung der Grundwasserneubildung (siehe Anlage 6 Abschnitt B) Maßnahmen zur Erhöhung der Grundwasserneubildung durch Reduzierung des Direktabflusses, in Ausnahmefällen Infiltration von Niederschlagswasser Wiederherstellung von natürlichen Grundwasserverhältnissen, insbes. bei Porengrundwasserleitern in Auen, durch die Wiederherstellung von fließgewässertypischen Abfluss- und Überflutungsverhältnissen Rückbau von Meliorationsmaßnahmen, Drainagen Entsiegelungen (siehe Anlage 6 Abschnitt B) Maßnahmen zur Erhöhung der Grundwasserneubildung durch Reduzierung des Direktabflusses, ggf. Infiltration von Niederschlagswasser und Regenwasserrückhaltung Aufwertung beeinträchtigter Retentionsbereiche durch Nutzungsextensivierung im Retentionsraum oder Einzugsgebiet Rückbau von Barrieren, Querbauwerken im Retentionsraum und Abflussquerschnitt von Auen und Fließgewässern Renaturierung von Fließgewässern, Beseitigung von Gewässerverbauungen Anbindung von Altarmen, Anlage von Flutmulden und von Auefließgewässern Wiederherstellung von fließgewässertypischen Abfluss- und Überflutungsverhältnissen durch z. B.: Rückbau von abflussregulierenden Bauwerken, Geschiebemanagement zur Vermeidung weiterer Sohlvertiefungen oder -erosion, Anhebung der Fließgewässersohle Extensivierung der Auenutzung Rückbau von Meliorationsmaßnahmen, Drainagen Bewirtschaftungs- oder Pflegemaßnahmen (siehe Anlage 6 Abschnitt A) Deichrückverlegung zur Erweiterung des Retentionsraumes Schaffung von Poldern, Regenwasserrückhalteräumen oder -becken
 
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
+B. Berücksichtigung von Entwicklungszeiten Sofern die Entwicklungszeit bis zur Erreichung des Zielzustandes der geplanten Ausgleichs- und Ersatzmaßnahme 30 Jahre überschreitet, ist eine Vergrößerung der Maßnahmenfläche um 25 Prozent erforderlich, um die verzögerte Funktionserfüllung zu berücksichtigen (Timelag-Aufschlag). Sofern Biotoptypen oder Zielzustände anderer Funktionen mit einem Alter von mehr als 100 Jahren erheblich beeinträchtigt werden, sind neben den langfristig wirksamen Maßnahmen mit einer Entwicklungszeit von mehr als 100 Jahren kurz- bis mittelfristig wirksame Maßnahmen mit einer Entwicklungszeit von weniger als 30 Jahren vorzusehen. Die beiden Maßnahmenanteile sollen jeweils 50 Prozent des auf die betreffende erhebliche Beeinträchtigung entfallenden Anteils am biotopwertbezogenen Kompensationsbedarf betragen. Bei Entwicklungszeiten von weniger als 30 Jahren ist kein Timelag-Aufschlag erforderlich. Die Bestimmung der Entwicklungszeit ist maßnahmenspezifisch ausgehend von den jeweiligen Ausgangsbiotopen bzw. Ausgangszuständen der Maßnahmenflächen sowie dem Zielbiotoptyp in der jeweiligen Ausprägung vorzunehmen. Entwicklungszeiten für beispielhafte Zielbiotope und verschiedene AusgangsbiotoptypenZielbiotopAusgangsbiotope (mögliche Maßnahmentypen)EntwicklungszeitTimelag-Aufschlag, kurz- bis mittelfristig wirksame MaßnahmenBuchen-(misch-)wälder frischer, basenreicher Standorte (alte Bestände)Buchen-Mischbestand (Entnahme gebietsfremder Baumarten, Freistellung Altbaumarten)< 30 Jahre–Fichtenforst (Unterpflanzung mit Buchen, später Entnahme der Fichten)30 bis 100 JahreTimelag-Aufschlag erforderlichAcker (Aufforstung von Buchenwäldern)> 100 JahreTimelag-Aufschlag und Maßnahme mit einer Entwicklungszeit< 30 Jahre erforderlichBruchwälder (alte Bestände)entwässerter, eutrophierter Bruchwald (Wiedervernässung, Nutzungsverzicht)< 30 Jahre–Weichholzauenwälder (junge bis mittelalte Bestände)krautige Uferflur am Gewässer (ggf. Verbesserung der Überflutungssituation, Initialpflanzung von Weiden, Sukzession)< 30 Jahre (junge bis mittelalte Bestände)–30 bis 100 Jahre (alte Bestände)Timelag-Aufschlag erforderlichNiedermoore mit Torfenbrachgefallene, ehemals extensiv genutzte Niedermoorstandorte (regelmäßige Mahd, ggf. Wiedervernässung)< 30 Jahre–intensiv genutztes Feuchtgrünland (Wiedervernässung, Aushagerung, regelmäßige Mahd)30 bis 100 JahreTimelag-Aufschlag erforderlichHochmoor-, Zwischen- und Übergangsmoorstandorte (einschl. Moorgewässer und -gehölze)Moordegenerationsstadium mit Zwergsträuchern und Resten von Fichtenforst (Rodung und Wiedervernässung, Sukzession, ggf. Entwicklungspflege)> 100 JahreTimelag-Aufschlag und Maßnahme mit einer Entwicklungszeit< 30 Jahre erforderlichnaturnahe Fließgewässeranthropogen mäßig beeinträchtigtes Fließgewässer (Beseitigung von Sohlabstürzen, verrohrten Durchlässen und Förderung der natürlichen Fließgewässerdynamik)< 30 Jahre–anthropogen stark beeinträchtigtes Fließgewässer (Renaturierung durch Rückverlegung eines längeren Fließgewässerabschnitts in das ursprüngliche Fließgewässerbett)< 30 Jahre–Großseggenriedentwässertes, eutrophiertes Großseggenried (Wiedervernässung, ggf. sporadische Mahd)< 30 Jahre–Entwicklung aus ehemaliger Kiesabbaufläche (Initialpflanzung mit standorttypischen Arten, in Abhängigkeit vom Wasserhaushalt Sukzession oder sporadische Mahd)< 30 Jahre–Halbtrockenrasenbrachgefallener, verbuschter Halbtrockenrasen (Entbuschung und Beweidung)< 30 Jahre–extensiv genutzter Ackerintensiv genutzter Acker (keine chem.-synth. Düngung/nur Wirtschaftsdünger, Düngermenge begrenzen auf max. 50 % der empfohlenen Menge; kein Pflanzenschutzmitteleinsatz)< 30 Jahre–
 
 ### Anlage 6 — (zu § 8 Absatz 3 Satz 2, § 11 Absatz 1 bis 3)
 
-•
+A. Bewirtschaftungs- oder PflegemaßnahmenMaßnahmentyp Zielbiotoptypen (keine abschließende Aufzählung)Anforderungen an die Ausführung der MaßnahmenEignung als Ausgleich oder Ersatz für folgende FunktionenBiotope, Tiere, PflanzenBodenWasserKlima/LuftLand- schaftsbildMindestanforderungenWeitergehende Anforderungen, die im Einzelfall festgesetzt werden könnenVielfalt von Tier- und PflanzenartenVielfalt von BiotoptypenVielfalt von Bodentypen und BodenformenNatürliche BodenfunktionenOberflächengewässerGrundwasserHochwasserschutz- und RetentionsfunktionKlimatische und lufthygienische AusgleichsfunktionenKlimaschutzfunktion durch Treibhausgasspeicher/-senkenVielfalt von Landschaften als natürliches und kulturelles ErbeFunktionen im Bereich Erleben und Wahrnehmen von LandschaftMaßnahmen auf AckerBrachen Ackerbrachen: 33.01.04, 33.02.04, 33.03.04, 33.04a.04, 33.04b.04•Selbstbegrünung (gilt nicht in Gebieten mit hohem Stickstoff-Auswaschungsrisiko)•Keine Düngung, keine PSM•Keine Bodenbearbeitung•Keine Nutzung/Mahd•Höchstdauer der Belassung ohne Umbruch: 3 Jahre•Herstellungskontrolle und ggf. Monitoring (in Abhängigkeit von jeweiligen Zielarten)•Pflegeintervall 2 bis 3 Jahre•Spezifische Maßnahmen, z. B. extensive Pflege zur Schaffung von Heterogenität im Bestand•In Abhängigkeit von Zielarten ggf. Sonderformen•Reduzierung von konkurrenz- starken, nicht dem Zielbiotoptyp entsprechenden Pflanzenarten (z. B. Acker-Kratzdistel, Neophyten) ausschließlich durch mechanische BeseitigungXX(X)X(X)(X)(X)(X)XExtensiv genutzte Äcker/Ackerwildkräuterstreifen Äcker mit vollst. Segetalvegetation: 33.01.01, 33.02.01, 33.03.01, 33.04a.01, 33.04b.01 Äcker mit artenreicher Segetalvegetation: 33.01.02, 33.02.02, 33.03.02, 33.04a.02, 33.04b.02•Erweiterter Saatreihenabstand bzw. reduzierte Saatgutmenge (max. 50 – 70 % der regulären Saatgutmenge)•Vielfältige, mind. Viergliedrige Fruchtfolge mit Winterungen und Sommerungen•Grundsätzlich keine Düngung, eine begrenzte dem Entwicklungsziel angepasste Erhaltungsdüngung mit Wirtschaftsdünger ist im Einzelfall zulässig (Düngermenge dann begrenzen max. auf Entzug bzw. Zielanforderung z. B. aus dem Segetalartenschutz), keine PSM•Striegelverzicht•Winterstoppel•Verzicht auf Bewässerung•Verzicht auf Kalkung•Herstellungskontrolle und ggf. Monitoring (in Abhängigkeit von jeweiligen Zielarten)•Mindestdauer 10 Jahre•Einsatz von Gemengen mit mindestens zwei verschiedenen Arten und Sorten bis hin zu Blüh- und Wildkrautgemengen, z. B. Getreide-Öl-Leguminosen-Gemenge, Blüh-/Wildkrautgemenge•Inanspruchnahme wertvoller landwirtschaftlich genutzter Flächen nur nach Berücksichtigung agrarstruktureller Belange•Konzentration von Maßnahmen im Raum zur Verbesserung der Strukturvielfalt und zur Schaffung von Verbundstrukturen (Biotopverbund)•Verringerung der Schlaggrößen•Integrierte Brachestreifen (auf 10 % der Fläche)•Einschränkung der Bodenbearbeitung während der Brutzeit•Nicht wendende, pfluglose Bodenbearbeitung (i. d. R. nicht geeignet bei Segetalartenschutz)•Belassen von Streifen/Ernte- verzichtXX(X)XX(X)XXEtablierung von artenreichem Grünland artenreiches Grünland frischer Standorte: 34.07a.01, 34.07a.02 Salzgrünland der Küste: 07, 08•Vorher mind. 5 Jahre lang Acker•Die Maßnahmenfläche sollte sich als Bilanzzuwachs (Grünlandfläche) auf Betriebsebene niederschlagen•Ansaat mit standortspezifischem Saatgut•Aushagerung, sofern auf Standort in Bezug zur geplanten Lebensraumqualität erforderlich•Kein Pflegeumbruch•Narbenverbesserung (Nachsaat von Zielarten ist möglich)•1-2schürige Mahd je nach er- wünschtem Nährstoffniveau und Pflanzengesellschaft im ausgehagerten Zustand (i. d. R. nach der Brutzeit), Abfuhr des Mahdgutes (3. Schnitt kann auch als Pflegeschnitt ohne Abfuhr erfolgen) oder Beweidung mit max. 1,5 – 2 GVE/ha möglich; bei Beweidung: Prüfung der Erforderlichkeit einer Nachmahd,•Verwendung regionalen Saatguts•Mahdguttransfer/Heublumenansaat aus der Region•Reduzierung von konkurrenz- starken, nicht dem Zielbiotoptyp entsprechenden Pflanzenarten (z. B. Acker-Kratzdistel, Neophyten) ausschließlich durch mechanische Beseitigung•Herstellungskontrolle und ggf. Monitoring (in Abhängigkeit von jeweiligen Zielarten)XXXX(X)XX(X)(X)XBeschränkung der Weidepflege (Walzen, Schleppen max. 1-mal im Jahr vor März, keine Nachsaat)•Keine PSM•Eine an das jeweiligen Zielbiotop angepasste Düngung ist zulässig•Festlegung von Zeiträumen für die Mahd/Beweidung in Abhängigkeit von ZielartenÄcker mit schlaginterner Segregation z. B. von feuchten Senken, trockenen Kuppen innerhalb des Ackerschlags; Bewertung für Zielarten oder Zielbiotope, z. B. extensiv genutzte Äcker mit artenreicher oder vollst. Segetalvegetation oder andere•Kartierung und Dokumentation der ertragsärmeren und nicht genutzten Teilbereiche (z. B. anhand eines Luftbilds) zur gezielten Auswahl von Standorten mit hohem Biotopentwicklungspotenzial bzw. mit besonderer Bedeutung für den Biotopverbund•Herausnahme von Teilbereichen mit spezifischer Standortcharakteristik aus der Nutzung, auf den Zielbiotop abgestimmte extensive Ackernutzung oder Pflege•Abstandsauflagen zur Maßnah- menfläche für Düngung und PSM•Herstellungskontrolle und ggf. Monitoring (in Abhängigkeit von jeweiligen Zielarten)XX(X)X(X)(X)Xstandortspezifische Ausprägungen von Zielbiotopen•Biotopverbund zu benachbarten Strukturen herstellen (z. B. als Trittstein)•Mindestdauer 10 Jahre(rotierende) Maßnahmen zur Schaffung artspezifischer Habitate Bewertung für Zielarten•Einbindung in Maßnahmenkonzept (insbes. in Artenschutzkonzept)•Schaffung artspezifisch geeigneter Habitatstrukturen, (z. B. Feldlerchenfenster)•Keine PSM•Monitoring/Überprüfung und ggf. Modifizierung der Maßnahmenvorgaben (Art und Zeitpunkt in Abhängigkeit von jeweiligen Zielarten)XXBlühstreifen Bewertung für Zielarten•Breite in der Regel zwischen 5 m und 10 m•Standortspezifische Saatmischung regionaler Herkunft unter Beachtung der standorttypischen Segetalvegetation•Reduzierte Saatgutmenge (max. 50 – 70 % der regulären Saatgutmenge) zur Erzielung eines lückigen Bestands, Fehlstellen im Bestand belassen•Keine Düngung, keine PSM•Bei Rotation in der Fruchtfolge Belassung über 2 bis 5 Jahre•Wenn Mahd, nur im Frühjahr bis Mitte März bzw. angepasst an Zielarten•Herstellungskontrolle und ggf. Monitoring (in Abhängigkeit von Zielarten)XX(X)X(X)(X)X•Zunächst keine Bodenbearbeitung; nach 2 bis 3 Jahren Bodenbearbeitung und Neuansaat, i. d. R. im Frühjahr bis Mitte April; bei Rotation in der Fruchtfolge Belassen bis Frühjahrsbestellung•Keine Mahd•Rotation in der Fruchtfolge möglichMaßnahmen auf GrünlandExtensivierung von Dauergrünland artenreiches Grünland frischer Standorte: 34.07a.01, 34.07a.02 Salzgrünland der Küste: 07, 08•Aushagerung•Im Regelfall keine Bodenbearbei- tung (Ausnahme orchideenreiche Standorte), kein Pflegeumbruch, gezielte Nachsaat von Zielarten (Heumulch, -drusch) möglich•Keine PSM, eine an den jeweiligen Zielbiotoptyp angepasste Düngung ist zulässig•Reduzierte (1-2schürige) Mahd i. d. R. nach der Brutzeit mit Abfuhr des Mahdgutes oder extensive Beweidung mit max. 1,5 GVE/ha; bei Beweidung: Nachmahd erforderlich, Beschränkung der•Bei Beweidung: reduzierte Besatzdichte zur Brutzeit•Kombination von Beweidung und Mahd je nach Standort und betroffener Zielart•Festsetzung des 1. Mahdtermins in Abhängigkeit von Zielarten (z. B. erst nach der Brutzeit)•Herstellungskontrolle und ggf. Monitoring (in Abhängigkeit von jeweiligen Zielarten)XXXX(X)X(X)XXWeidepflege (Walzen, Schleppen max. 1-mal im Jahr i. d. R. bis Mitte März), keine NachsaatMaßnahmen zur Schaffung artspezifischer Habitate Bewertung für bestimmte Zielarten•Einbindung in Maßnahmenkonzept (insbes. in Artenschutzkonzept)•Schaffung artspezifisch geeigneter Habitatstrukturen (z. B. für Wiesenbrüter)•Keine PSM•Mindestdauer 3 Jahre•Monitoring/Überprüfung und ggf. Modifizierung der Maßnahmenvorgaben (Art und Zeitpunkt in Abhängigkeit von jeweiligen Zielarten)XXExtensiv genutzte Streuobstwiesen Streuobstbestand auf Grünland: 41.06.01•Pflanzung und Nachpflanzung hochstämmiger Obstbäume, Pflanzabstand je nach Baumart z. B. zwischen 8 m und 15 m oder Extensivierung bestehender Streuobstbestände•Keine PSM, eine an den jeweiligen Zielbiotoptyp angepasste Düngung ist zulässig•1-3schürige Mahd (je nach er- wünschtem Nährstoffniveau und Pflanzengesellschaft i. d. R. nach der Brutzeit) Abfuhr des Mahdguts (3. Schnitt kann auch als Pflege-•Die Spanne zwischen 60 – 100 Bäumen pro Hektar beschreibt das Optimum der Bestandsdichte, dies entspricht in etwa einem Baumabstand von 10 bis 12 Metern.•Erhaltung alter Obstsorten durch Pflege alter Obstbäume sowie Pflanzung von entsprechenden Hochstämmen mit Veredelung mit alten Obstsorten•Anlegen von Sonderstrukturen wie z. B. Lesesteinhaufen, Hecken an den RändernXXXX(X)XXschnitt ohne Abfuhr erfolgen); ggf. auch Beweidung mit max. 1,5 – 2 GVE/ha möglich; bei Beweidung: Prüfung der Er- forderlichkeit der Nachmahd, Beschränkung der Weidepflege (Walzen, Schleppen max. 1-mal im Jahr/alle 2 Jahre, keine Nachsaat), Nachmahd erforderlich, Verzicht auf Winterbeweidung•Erziehungs-, Pflegeschnitt der Obstbäume•Belassen von Biotopholz (Totholz)/ absterbenden Bäumen•Herstellungskontrolle und ggf. Monitoring (in Abhängigkeit von jeweiligen Zielarten)Maßnahmen auf Sonderstandorten des OffenlandesSümpfe, Seggenriede und Röhrichte z. B. 35.01a, 37.01, 37.02, 38.01 bis 38.07•Besondere Bedeutung der Fläche für den Arten- und Biotopschutz oder für den Biotopverbund•Die Bewirtschaftungsanforderun- gen sind im Hinblick auf die spezifischen Anforderungen in Abhängigkeit von Standort und Zielbiotop oder entsprechend artspezifischen Anforderungen festzulegen•Herstellungskontrolle und ggf. Monitoring (in Abhängigkeit von jeweiligen Zielarten)XXX(X)(X)XX(X)XX(z. B. Beweidung oder Mahd von Sümpfen, Seggenrieden, Röhrich- ten).•Keine Düngung, keine PSMBinnendünen und Magerrasen z. B. 34.01, 34.04•Entkusseln/Entbuschen und/oder Bodenverwundung•Aushagerung•Keine PSM, keine Düngung•Reduzierte (1-2schürige) Mahd i. d. R. nach der Brutzeit mit Abfuhr des Mahdgutes oder extensive Beweidung mit max. 1,5 GVE/ha; bei Beweidung: Nachmahd erforderlichXXX(X)(X)XXHalbtrocken-, Schwermetall- und Borstgrasrasen z. B. 34.02, 34.03, 34.05, 34.06•Aushagerung•Keine PSM, keine Düngung•Reduzierte (1-2schürige) Mahd i. d. R. nach der Brutzeit mit Abfuhr des Mahdgutes oder extensive Beweidung mit max. 1,5 GVE/ha; bei Beweidung: Nachmahd erforderlich•Entkusseln/EntbuschenXXX(X)(X)XXHeiden 40.01 bis 40.05•Beweidung durch Schafe und ggf. Ziegen; Beweidung mit max. 1,5 GVE/ha;•Kontrolliertes Brennen•Abplaggen/Abschieben•Entkusseln/EntbuschenXXX(X)(X)XXNiedermoore (ohne Sümpfe) 35.01•Wiedervernässung•Wasserstandsanhebung•Entbuschen/Entkusseln•Keine Düngung•Vegetations-(narben-) und bodenschonende ErntetechnikXXXX(X)XXXXXFeucht- und Nassgrünland z. B. 35.02 (extensiv bewirtschaftet)•Wasserstandsregulierung•Wiedervernässung•Keine Bodenbearbeitung, kein Pflegeumbruch, keine Neuansaat/Narbenverbesserung•Keine PSM, keine Düngung•Reduzierte (1-2schürige) Mahd i. d. R. nach der Brutzeit mit Abfuhr des Mahdgutes (mind. bis zum Erreichen des Zielzustandes) oderXXXX(X)XXXXXextensive Beweidung mit max. 1,5 GVE/ha; bei Beweidung: Nachmahd erforderlich, Beschränkung der Weidepflege (Walzen, Schleppen max. 1-mal im Jahr i. d. R. bis Mitte März), keine Nachsaat•Vegetations-(narben-) und boden- schonende ErntetechnikMaßnahmen zur Schaffung artspezifischer Habitate Bewertung für Zielarten•Einbindung in Maßnahmenkonzept (insbes. in Artenschutzkonzept)•Schaffung artspezifisch geeigneter Habitatstrukturen (z. B. für Amphibien oder Reptilien)•Keine PSM, keine Düngung•Monitoring/Überprüfung und ggf. Modifizierung der Maßnahmenvorgaben (Art und Zeitpunkt in Abhängigkeit von jeweiligen Zielarten)XXMaßnahmen zur Anlage und Pflege von Landschaftselementen/LandschaftsstrukturenBäume und Hecken, Feldgehölze Feldgehölze, Gebüsche, Hecken und Gehölzkulturen:•Einbindung in landschafts- planerisches Maßnahmenkonzept (insbes. Einbindung in Biotopverbundkonzept)•Mindestbreite von Hecken und Gehölzstreifen 5 m, Höchstbreite 20 m•Pflege bereits vorhandener Hecken und Feldgehölze, sofern damit eine deutliche naturschutzfachliche Aufwertung/landschafts-pflegerische Verbesserung verbunden istXXX(X)(X)(X)(X)XXz. B. 41.01, 41.02, 41.03, 41.05•Verwendung gebietseigener Ge- hölze, Artenmischung/artenreich, stufiger Aufbau mit Säumen entlang von Hecken und Feldgehölzen•Regelmäßige Pflege oder Nutzung in Abhängigkeit von der Bestandsentwicklung•Keine Düngung, keine PSMSäume Krautige Säume und Gehölzsäume, inkl. Ufersäume z. B. 39.01.01, 39.02, 39.03, 39.04a.01, 39.06•Breite in der Regel zwischen 5 m und 10 m•Auf das Zielbiotop/die Zielart abgestimmte extensive Nutzung oder Pflege•Kein Umbruch•Keine Düngung, keine PSM•Mindestdauer 10 Jahre•Einbindung in Maßnahmenkonzept (insbes. in Biotopverbundkonzept)•zusätzliche Abstandsauflagen zur Maßnahmenfläche für Düngung und PSM•Herstellungskontrolle und ggf. Monitoring (in Abhängigkeit von jeweiligen Zielarten)XXXX(X)(X)(X)(X)XTümpel, Feuchtbiotope, Quellen z. B. 22.01 bis 22.04, 24.04a, 24.09a•Einbindung in Maßnahmenkonzept (insbes. Einbindung in Biotopverbundkonzept)•Erhalt bzw. Anlage und dauer- hafte Pflege, sofern erforderlichXX(X)(X)(X)XX•Kein Eintrag von Düngemitteln oder PSM/Abstandsauflagen zur Maßnahmenfläche für Düngung und PSMTrocken-/ Natursteinmauern z. B. 53.02.03a•Regionstypisches Material verwenden•Keine VerfugungXX(X)XXMaßnahmen auf regionalen Sonderkulturenz. B. Weinbau Rebkulturen: 41.08 (extensive Nutzung)•Keine Düngung, keine PSM•Winterbegrünung•Artenreiche Begrünung in jeder 2. Rebzeile•Wiederherstellung der TerrassenXX(X)X(X)(X)XXXMaßnahmen im WaldNaturschutz-konform bewirtschaftete/ gepflegte Wälder Laubwälder ohne Auenwälder: 43.01 bis 43.03, 43.06 bis 43.08•Aufforstung mit Baumarten der natürlichen Waldgesellschaft oder natürliche Sukzession unter Berücksichtigung von Aspekten des Klimawandels bei der Baumartenauswahl•Einbringen seltener/gefährdeter Baumarten•Rückbau oder Verschluss von Entwässerungseinrichtungen•Maßnahmen gegen die Ausbreitung nichtheimischer Arten auf der FlächeXXX(X)(X)(X)(X)(X)XXXNadelwälder: 44.01 bis 44.03 subalpine Wälder: 70•Entnahme standortfremder, nicht der natürlichen Waldgesellschaft angehörender Baumarten•Entwicklung einer der natürlichen Waldgesellschaft entsprechenden Struktur (Baum-, Strauch-, Krautschicht)•Belassen von Biotop- und Höhlenbäumen und Totholz (Anzahl Altbäume je nach Tierart und Waldbestand) in Kombination mit weiteren Maßnahmen im Wald•Auf Moorstandorten nur in Kombination mit Wiedervernässungsmaßnahmen•Außerhalb der Nullnutzungsflächen kann alle 5 Jahre die Nutzung von alten Waldbeständen über 80 Jahren einzelbaumweise und mit einer Absenkung des Bestockungsgrades erfolgenNaturschutz-konform bewirtschaftete/gepflegte Auenwälder 43.04 bis 43.05•Wiederherstellung der für den jeweiligen Auwaldtyp charakteristischen regelmäßigen Überflutung z. B. durch Deichrückverlegung und Renaturierung von Fließgewässern•Auengewässerstrukturen anlegen, erhalten, entwickeln•Einbringen seltener/gefährdeter Baumarten•Rückbau oder Verschluss von Entwässerungseinrichtungen•Maßnahmen gegen die Ausbreitung nichtheimischer Arten auf der FlächeXXXXXXX(X)XXX•Aufforstung mit Baumarten der natürlichen Waldgesellschaft oder natürliche Sukzession•Entwicklung einer der natürlichen Waldgesellschaft entsprechenden Struktur (Baum-, Strauch-, Krautschicht)•Belassen von Biotop- und Höhlenbäumen und Totholz (Anzahl Altbäume je nach Tierart und Waldbestand) in Kombination mit weiteren Maßnahmen im Wald•Entnahme standortfremder, nicht der natürlichen Waldgesellschaft angehörender Baumarten•Außerhalb der Nullnutzungsflächen kann alle 5 Jahre die Nutzung von alten Waldbeständen über 80 Jahren einzelbaumweise und mit einer Absenkung des Bestockungsgrades erfolgen.Entwicklung von Waldrändern Waldmäntel: 42.01•Vorgelagert zum Bestand oder als Waldinnenrand•Mindestbreite 15 m•Neuanlage mit Arten der natür- lichen Waldrandgesellschaft oder durch natürliche Sukzession•Mehrstufiger Aufbau (Kraut-, Stauden- und Gebüschsaum)XX(X)(X)(X)(X)X•Punktuelle Freistellung und/oder Unterpflanzung des Bestandes mit Strauch- und Baumarten•Bewirtschaftung/Pflege zum Erhalt der MehrstufigkeitKleinflächige, punktuelle oder rotierende Maßnahmen im Wald Bewertung für Zielarten•Wiederherstellung von Waldwiesen (einschl. Pflegemanagement)•Habitatentwicklungsmaßnahmen für geschützte und gefährdete Arten•Renaturierung von Stillgewässern und Mooren sowie Fließgewässern und Bachläufen im Wald (einschließlich der bachbegleitenden Vegetation; Wiederherstellung des natürlichen/naturnahen Wasserregimes)•Einbringung gebietseigener seltener/gefährdeter Baumarten (mind. truppweise)•Mindestdauer: 10 Jahre•Schaffung von Alt- und Totholz- strukturen (Altholzinsel Altbaumgruppe Solitärbaum Belassen von Totholz im Bestand)•Berücksichtigung landschafts- pflegerischer Ziel- und Entwicklungskonzepte (insbes. Artenschutz- und Biotopverbundkonzepte)•Herstellungskontrolle und ggf. Monitoring (in Abhängigkeit von jeweiligen Zielarten)XX(X)(X)(X)(X)(X)(X)(X)Historische Waldnutzungsformen z. B. Hutewald: 42.04 Niederwald: 42.05•Berücksichtigung der Biotop- kontinuität bei der Flächenwahl (v. a. Wiederaufnahme bzw. Weiterführung der Bewirtschaftung auf ehemaligen oder noch bewirtschafteten Hute- und Niederwaldflächen)•Rückumwandlung durchwachsener Mittel- oder Niederwälder (Verwendung heimischer Baumarten)•Entwicklung von Hutewäldern durch Etablierung ehemaliger Nutzungsformen, u. a. mit Großtierhaltung•Berücksichtigung landschaftspflegerischer Ziel- und Entwicklungskonzepte (insbes. der Anforderungen für den Biotopverbund aus der Landschaftsplanung sowie der historischen und regionalspezifischen Verbreitung der Wälder)•Herstellungskontrolle und ggf. Monitoring (in Abhängigkeit von jeweiligen Zielarten)XXX(X)(X)(X)(X)(X)(X)XXMaßnahmen zur Schaffung artspezifischer Habitate Bewertung für Zielarten•Einbindung in Maßnahmenkonzept (insbes. in Artenschutzkonzept)•Schaffung artspezifisch geeigneter Habitatstrukturen im Wald•Monitoring/Überprüfung und ggf. Modifizierung der Maßnahmenvorgaben (Art und Zeitpunkt in Abhängigkeit von jeweiligen Zielarten)XX Selbstbegrünung (gilt nicht in Gebieten mit hohem Stickstoff-Auswaschungsrisiko) Keine Düngung, keine PSM Keine Bodenbearbeitung Keine Nutzung/Mahd Höchstdauer der Belassung ohne Umbruch: 3 Jahre Herstellungskontrolle und ggf. Monitoring (in Abhängigkeit von jeweiligen Zielarten) Pflegeintervall 2 bis 3 Jahre Spezifische Maßnahmen, z. B. extensive Pflege zur Schaffung von Heterogenität im Bestand In Abhängigkeit von Zielarten ggf. Sonderformen Reduzierung von konkurrenz- starken, nicht dem Zielbiotoptyp entsprechenden Pflanzenarten (z. B. Acker-Kratzdistel, Neophyten) ausschließlich durch mechanische Beseitigung Erweiterter Saatreihenabstand bzw. reduzierte Saatgutmenge (max. 50 – 70 % der regulären Saatgutmenge) Vielfältige, mind. Viergliedrige Fruchtfolge mit Winterungen und Sommerungen Grundsätzlich keine Düngung, eine begrenzte dem Entwicklungsziel angepasste Erhaltungsdüngung mit Wirtschaftsdünger ist im Einzelfall zulässig (Düngermenge dann begrenzen max. auf Entzug bzw. Zielanforderung z. B. aus dem Segetalartenschutz), keine PSM Striegelverzicht Winterstoppel Verzicht auf Bewässerung Verzicht auf Kalkung Herstellungskontrolle und ggf. Monitoring (in Abhängigkeit von jeweiligen Zielarten) Mindestdauer 10 Jahre Einsatz von Gemengen mit mindestens zwei verschiedenen Arten und Sorten bis hin zu Blüh- und Wildkrautgemengen, z. B. Getreide-Öl-Leguminosen-Gemenge, Blüh-/Wildkrautgemenge Inanspruchnahme wertvoller landwirtschaftlich genutzter Flächen nur nach Berücksichtigung agrarstruktureller Belange Konzentration von Maßnahmen im Raum zur Verbesserung der Strukturvielfalt und zur Schaffung von Verbundstrukturen (Biotopverbund) Verringerung der Schlaggrößen Integrierte Brachestreifen (auf 10 % der Fläche) Einschränkung der Bodenbearbeitung während der Brutzeit Nicht wendende, pfluglose Bodenbearbeitung (i. d. R. nicht geeignet bei Segetalartenschutz) Belassen von Streifen/Ernte- verzicht Vorher mind. 5 Jahre lang Acker Die Maßnahmenfläche sollte sich als Bilanzzuwachs (Grünlandfläche) auf Betriebsebene niederschlagen Ansaat mit standortspezifischem Saatgut Aushagerung, sofern auf Standort in Bezug zur geplanten Lebensraumqualität erforderlich Kein Pflegeumbruch Narbenverbesserung (Nachsaat von Zielarten ist möglich) 1-2schürige Mahd je nach er- wünschtem Nährstoffniveau und Pflanzengesellschaft im ausgehagerten Zustand (i. d. R. nach der Brutzeit), Abfuhr des Mahdgutes (3. Schnitt kann auch als Pflegeschnitt ohne Abfuhr erfolgen) oder Beweidung mit max. 1,5 – 2 GVE/ha möglich; bei Beweidung: Prüfung der Erforderlichkeit einer Nachmahd, Verwendung regionalen Saatguts Mahdguttransfer/Heublumenansaat aus der Region Reduzierung von konkurrenz- starken, nicht dem Zielbiotoptyp entsprechenden Pflanzenarten (z. B. Acker-Kratzdistel, Neophyten) ausschließlich durch mechanische Beseitigung Herstellungskontrolle und ggf. Monitoring (in Abhängigkeit von jeweiligen Zielarten) Beschränkung der Weidepflege (Walzen, Schleppen max. 1-mal im Jahr vor März, keine Nachsaat) Keine PSM Eine an das jeweiligen Zielbiotop angepasste Düngung ist zulässig Festlegung von Zeiträumen für die Mahd/Beweidung in Abhängigkeit von Zielarten Kartierung und Dokumentation der ertragsärmeren und nicht genutzten Teilbereiche (z. B. anhand eines Luftbilds) zur gezielten Auswahl von Standorten mit hohem Biotopentwicklungspotenzial bzw. mit besonderer Bedeutung für den Biotopverbund Herausnahme von Teilbereichen mit spezifischer Standortcharakteristik aus der Nutzung, auf den Zielbiotop abgestimmte extensive Ackernutzung oder Pflege Abstandsauflagen zur Maßnah- menfläche für Düngung und PSM Herstellungskontrolle und ggf. Monitoring (in Abhängigkeit von jeweiligen Zielarten) Biotopverbund zu benachbarten Strukturen herstellen (z. B. als Trittstein) Mindestdauer 10 Jahre Einbindung in Maßnahmenkonzept (insbes. in Artenschutzkonzept) Schaffung artspezifisch geeigneter Habitatstrukturen, (z. B. Feldlerchenfenster) Keine PSM Monitoring/Überprüfung und ggf. Modifizierung der Maßnahmenvorgaben (Art und Zeitpunkt in Abhängigkeit von jeweiligen Zielarten) Breite in der Regel zwischen 5 m und 10 m Standortspezifische Saatmischung regionaler Herkunft unter Beachtung der standorttypischen Segetalvegetation Reduzierte Saatgutmenge (max. 50 – 70 % der regulären Saatgutmenge) zur Erzielung eines lückigen Bestands, Fehlstellen im Bestand belassen Keine Düngung, keine PSM Bei Rotation in der Fruchtfolge Belassung über 2 bis 5 Jahre Wenn Mahd, nur im Frühjahr bis Mitte März bzw. angepasst an Zielarten Herstellungskontrolle und ggf. Monitoring (in Abhängigkeit von Zielarten) Zunächst keine Bodenbearbeitung; nach 2 bis 3 Jahren Bodenbearbeitung und Neuansaat, i. d. R. im Frühjahr bis Mitte April; bei Rotation in der Fruchtfolge Belassen bis Frühjahrsbestellung Keine Mahd Rotation in der Fruchtfolge möglich Aushagerung Im Regelfall keine Bodenbearbei- tung (Ausnahme orchideenreiche Standorte), kein Pflegeumbruch, gezielte Nachsaat von Zielarten (Heumulch, -drusch) möglich Keine PSM, eine an den jeweiligen Zielbiotoptyp angepasste Düngung ist zulässig Reduzierte (1-2schürige) Mahd i. d. R. nach der Brutzeit mit Abfuhr des Mahdgutes oder extensive Beweidung mit max. 1,5 GVE/ha; bei Beweidung: Nachmahd erforderlich, Beschränkung der Bei Beweidung: reduzierte Besatzdichte zur Brutzeit Kombination von Beweidung und Mahd je nach Standort und betroffener Zielart Festsetzung des 1. Mahdtermins in Abhängigkeit von Zielarten (z. B. erst nach der Brutzeit) Herstellungskontrolle und ggf. Monitoring (in Abhängigkeit von jeweiligen Zielarten) Weidepflege (Walzen, Schleppen max. 1-mal im Jahr i. d. R. bis Mitte März), keine Nachsaat Einbindung in Maßnahmenkonzept (insbes. in Artenschutzkonzept) Schaffung artspezifisch geeigneter Habitatstrukturen (z. B. für Wiesenbrüter) Keine PSM Mindestdauer 3 Jahre Monitoring/Überprüfung und ggf. Modifizierung der Maßnahmenvorgaben (Art und Zeitpunkt in Abhängigkeit von jeweiligen Zielarten) Pflanzung und Nachpflanzung hochstämmiger Obstbäume, Pflanzabstand je nach Baumart z. B. zwischen 8 m und 15 m oder Extensivierung bestehender Streuobstbestände Keine PSM, eine an den jeweiligen Zielbiotoptyp angepasste Düngung ist zulässig 1-3schürige Mahd (je nach er- wünschtem Nährstoffniveau und Pflanzengesellschaft i. d. R. nach der Brutzeit) Abfuhr des Mahdguts (3. Schnitt kann auch als Pflege- Die Spanne zwischen 60 – 100 Bäumen pro Hektar beschreibt das Optimum der Bestandsdichte, dies entspricht in etwa einem Baumabstand von 10 bis 12 Metern. Erhaltung alter Obstsorten durch Pflege alter Obstbäume sowie Pflanzung von entsprechenden Hochstämmen mit Veredelung mit alten Obstsorten Anlegen von Sonderstrukturen wie z. B. Lesesteinhaufen, Hecken an den Rändern schnitt ohne Abfuhr erfolgen); ggf. auch Beweidung mit max. 1,5 – 2 GVE/ha möglich; bei Beweidung: Prüfung der Er- forderlichkeit der Nachmahd, Beschränkung der Weidepflege (Walzen, Schleppen max. 1-mal im Jahr/alle 2 Jahre, keine Nachsaat), Nachmahd erforderlich, Verzicht auf Winterbeweidung Erziehungs-, Pflegeschnitt der Obstbäume Belassen von Biotopholz (Totholz)/ absterbenden Bäumen Herstellungskontrolle und ggf. Monitoring (in Abhängigkeit von jeweiligen Zielarten) Besondere Bedeutung der Fläche für den Arten- und Biotopschutz oder für den Biotopverbund Die Bewirtschaftungsanforderun- gen sind im Hinblick auf die spezifischen Anforderungen in Abhängigkeit von Standort und Zielbiotop oder entsprechend artspezifischen Anforderungen festzulegen Herstellungskontrolle und ggf. Monitoring (in Abhängigkeit von jeweiligen Zielarten) (z. B. Beweidung oder Mahd von Sümpfen, Seggenrieden, Röhrich- ten). Keine Düngung, keine PSM Entkusseln/Entbuschen und/oder Bodenverwundung Aushagerung Keine PSM, keine Düngung Reduzierte (1-2schürige) Mahd i. d. R. nach der Brutzeit mit Abfuhr des Mahdgutes oder extensive Beweidung mit max. 1,5 GVE/ha; bei Beweidung: Nachmahd erforderlich Aushagerung Keine PSM, keine Düngung Reduzierte (1-2schürige) Mahd i. d. R. nach der Brutzeit mit Abfuhr des Mahdgutes oder extensive Beweidung mit max. 1,5 GVE/ha; bei Beweidung: Nachmahd erforderlich Entkusseln/Entbuschen Beweidung durch Schafe und ggf. Ziegen; Beweidung mit max. 1,5 GVE/ha; Kontrolliertes Brennen Abplaggen/Abschieben Entkusseln/Entbuschen Wiedervernässung Wasserstandsanhebung Entbuschen/Entkusseln Keine Düngung Vegetations-(narben-) und bodenschonende Erntetechnik Wasserstandsregulierung Wiedervernässung Keine Bodenbearbeitung, kein Pflegeumbruch, keine Neuansaat/Narbenverbesserung Keine PSM, keine Düngung Reduzierte (1-2schürige) Mahd i. d. R. nach der Brutzeit mit Abfuhr des Mahdgutes (mind. bis zum Erreichen des Zielzustandes) oder extensive Beweidung mit max. 1,5 GVE/ha; bei Beweidung: Nachmahd erforderlich, Beschränkung der Weidepflege (Walzen, Schleppen max. 1-mal im Jahr i. d. R. bis Mitte März), keine Nachsaat Vegetations-(narben-) und boden- schonende Erntetechnik Einbindung in Maßnahmenkonzept (insbes. in Artenschutzkonzept) Schaffung artspezifisch geeigneter Habitatstrukturen (z. B. für Amphibien oder Reptilien) Keine PSM, keine Düngung Monitoring/Überprüfung und ggf. Modifizierung der Maßnahmenvorgaben (Art und Zeitpunkt in Abhängigkeit von jeweiligen Zielarten) Einbindung in landschafts- planerisches Maßnahmenkonzept (insbes. Einbindung in Biotopverbundkonzept) Mindestbreite von Hecken und Gehölzstreifen 5 m, Höchstbreite 20 m Pflege bereits vorhandener Hecken und Feldgehölze, sofern damit eine deutliche naturschutzfachliche Aufwertung/landschafts-pflegerische Verbesserung verbunden ist Verwendung gebietseigener Ge- hölze, Artenmischung/artenreich, stufiger Aufbau mit Säumen entlang von Hecken und Feldgehölzen Regelmäßige Pflege oder Nutzung in Abhängigkeit von der Bestandsentwicklung Keine Düngung, keine PSM Breite in der Regel zwischen 5 m und 10 m Auf das Zielbiotop/die Zielart abgestimmte extensive Nutzung oder Pflege Kein Umbruch Keine Düngung, keine PSM Mindestdauer 10 Jahre Einbindung in Maßnahmenkonzept (insbes. in Biotopverbundkonzept) zusätzliche Abstandsauflagen zur Maßnahmenfläche für Düngung und PSM Herstellungskontrolle und ggf. Monitoring (in Abhängigkeit von jeweiligen Zielarten) Einbindung in Maßnahmenkonzept (insbes. Einbindung in Biotopverbundkonzept) Erhalt bzw. Anlage und dauer- hafte Pflege, sofern erforderlich Kein Eintrag von Düngemitteln oder PSM/Abstandsauflagen zur Maßnahmenfläche für Düngung und PSM Regionstypisches Material verwenden Keine Verfugung Keine Düngung, keine PSM Winterbegrünung Artenreiche Begrünung in jeder 2. Rebzeile Wiederherstellung der Terrassen Aufforstung mit Baumarten der natürlichen Waldgesellschaft oder natürliche Sukzession unter Berücksichtigung von Aspekten des Klimawandels bei der Baumartenauswahl Einbringen seltener/gefährdeter Baumarten Rückbau oder Verschluss von Entwässerungseinrichtungen Maßnahmen gegen die Ausbreitung nichtheimischer Arten auf der Fläche Entnahme standortfremder, nicht der natürlichen Waldgesellschaft angehörender Baumarten Entwicklung einer der natürlichen Waldgesellschaft entsprechenden Struktur (Baum-, Strauch-, Krautschicht) Belassen von Biotop- und Höhlenbäumen und Totholz (Anzahl Altbäume je nach Tierart und Waldbestand) in Kombination mit weiteren Maßnahmen im Wald Auf Moorstandorten nur in Kombination mit Wiedervernässungsmaßnahmen Außerhalb der Nullnutzungsflächen kann alle 5 Jahre die Nutzung von alten Waldbeständen über 80 Jahren einzelbaumweise und mit einer Absenkung des Bestockungsgrades erfolgen Wiederherstellung der für den jeweiligen Auwaldtyp charakteristischen regelmäßigen Überflutung z. B. durch Deichrückverlegung und Renaturierung von Fließgewässern Auengewässerstrukturen anlegen, erhalten, entwickeln Einbringen seltener/gefährdeter Baumarten Rückbau oder Verschluss von Entwässerungseinrichtungen Maßnahmen gegen die Ausbreitung nichtheimischer Arten auf der Fläche Aufforstung mit Baumarten der natürlichen Waldgesellschaft oder natürliche Sukzession Entwicklung einer der natürlichen Waldgesellschaft entsprechenden Struktur (Baum-, Strauch-, Krautschicht) Belassen von Biotop- und Höhlenbäumen und Totholz (Anzahl Altbäume je nach Tierart und Waldbestand) in Kombination mit weiteren Maßnahmen im Wald Entnahme standortfremder, nicht der natürlichen Waldgesellschaft angehörender Baumarten Außerhalb der Nullnutzungsflächen kann alle 5 Jahre die Nutzung von alten Waldbeständen über 80 Jahren einzelbaumweise und mit einer Absenkung des Bestockungsgrades erfolgen. Vorgelagert zum Bestand oder als Waldinnenrand Mindestbreite 15 m Neuanlage mit Arten der natür- lichen Waldrandgesellschaft oder durch natürliche Sukzession Mehrstufiger Aufbau (Kraut-, Stauden- und Gebüschsaum) Punktuelle Freistellung und/oder Unterpflanzung des Bestandes mit Strauch- und Baumarten Bewirtschaftung/Pflege zum Erhalt der Mehrstufigkeit Wiederherstellung von Waldwiesen (einschl. Pflegemanagement) Habitatentwicklungsmaßnahmen für geschützte und gefährdete Arten Renaturierung von Stillgewässern und Mooren sowie Fließgewässern und Bachläufen im Wald (einschließlich der bachbegleitenden Vegetation; Wiederherstellung des natürlichen/naturnahen Wasserregimes) Einbringung gebietseigener seltener/gefährdeter Baumarten (mind. truppweise) Mindestdauer: 10 Jahre Schaffung von Alt- und Totholz- strukturen (Altholzinsel Altbaumgruppe Solitärbaum Belassen von Totholz im Bestand) Berücksichtigung landschafts- pflegerischer Ziel- und Entwicklungskonzepte (insbes. Artenschutz- und Biotopverbundkonzepte) Herstellungskontrolle und ggf. Monitoring (in Abhängigkeit von jeweiligen Zielarten) Berücksichtigung der Biotop- kontinuität bei der Flächenwahl (v. a. Wiederaufnahme bzw. Weiterführung der Bewirtschaftung auf ehemaligen oder noch bewirtschafteten Hute- und Niederwaldflächen) Rückumwandlung durchwachsener Mittel- oder Niederwälder (Verwendung heimischer Baumarten) Entwicklung von Hutewäldern durch Etablierung ehemaliger Nutzungsformen, u. a. mit Großtierhaltung Berücksichtigung landschaftspflegerischer Ziel- und Entwicklungskonzepte (insbes. der Anforderungen für den Biotopverbund aus der Landschaftsplanung sowie der historischen und regionalspezifischen Verbreitung der Wälder) Herstellungskontrolle und ggf. Monitoring (in Abhängigkeit von jeweiligen Zielarten) Einbindung in Maßnahmenkonzept (insbes. in Artenschutzkonzept) Schaffung artspezifisch geeigneter Habitatstrukturen im Wald Monitoring/Überprüfung und ggf. Modifizierung der Maßnahmenvorgaben (Art und Zeitpunkt in Abhängigkeit von jeweiligen Zielarten) PSM:Pflanzenschutzmittel, GVE: Großvieheinheiten.X:Maßnahme ist in der Regel geeignet zum Ausgleich oder Ersatz von Beeinträchtigungen der Funktion.(X):Maßnahme ist in bestimmten Fällen geeignet zum Ausgleich oder Ersatz von Beeinträchtigungen der Funktion.
 
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
+C. Maßnahmen zur Wiedervernetzung von LebensräumenMaßnahmentypAnforderungen an die MaßnahmenEignung als Ausgleich oder Ersatz für folgende FunktionenBiotope, Tiere, PflanzenBodenWasserKlima/LuftLandschaftsbildVielfalt von Tier- und PflanzenartenVielfalt von BiotoptypenVielfalt von Bodentypen und BodenformenNatürliche BodenfunktionenOberflächengewässerGrundwasserHochwasserschutz- und RetentionsfunktionKlimatische und lufthygienische AusgleichsfunktionenKlimaschutzfunktion durch Treibhausgasspeicher/-senkenVielfalt von Landschaften als natürliches und kulturelles ErbeFunktionen im Bereich Erleben und Wahrnehmen von LandschaftQuerungshilfen für Tiere und zur Vernetzung von Lebensräumen an linearen Infrastrukturen technische Maßnahmen zur Aufhebung bestehender Zerschneidungswirkungen, z. B. Grünbrücken, Grünunterführungen, Amphibiendurchlässe, Gewässerquerungen etc.•Anlage von Querungshilfen ausschließlich im bestehenden Infrastrukturnetz (an bestehenden Straßen, Bahnlinien, Wasserstraßen usw.)•Anlage vorrangig in den gesetzlich, planerisch oder konzeptionell verankerten Wiedervernetzungsabschnitten/-konzepten des Bundes und der Länder unter besonderer Berücksichtigung der Lebensraumnetze des Bundesamtes für Naturschutz und des Bundesprogramms Wiedervernetzung•Für die Erforderlichkeit von technischen Wiedervernetzungsmaßnahmen in sonstigen Bereichen (z. B. Austausch-, Wander- und Ausbreitungsachsen von Populationen insbesondere gefährdeter Arten) sind entsprechende Nachweise erforderlich (Erfassung/Kartierung, Wirkungsprognose).•Berücksichtigung des Stands der Technik gemäß des anerkannten Regelwerkes, entsprechender Leitfäden und der besten einschlägigen wissenschaftlichen Erkenntnisse für die Planung und Ausführung von Wiedervernetzungsmaßnahmen sowie bei Erfassungen/Kartierungen•Maßnahmen zur Wiedervernetzung sollen der Sicherung überlebensfähiger Populationen bzw. überlebensfähiger Metapopulationsstrukturen dienen.•Durch Umfeldgestaltung und Hinterlandanbindung ist die Funktion der Querungshilfe zu sichern und zu fördern.•In die Bewertung der mittelbaren Aufwertung dürfen nur Bereiche einfließen, für die eine tatsächliche Aufwertung durch eine Vernetzung bestehender Populationen oder die Neubesiedlung bisher isolierter Lebensräume angenommen werden kann.XXGewässerrenaturierungen und Maßnahmen zur Erzielung der Durchgängigkeit von Fließgewässern einschließlich ihrer Uferbereiche•Anlage vorrangig in den gesetzlich, planerisch oder konzeptionell verankerten Biotopvernetzungsbereichen des Bundes und der Länder unter besonderer Berücksichtigung der Lebensraumnetze des Bundesamtes für Naturschutz einschließlich entsprechender Darstellungen in der überörtlichen und örtlichen Landschaftsplanung•Orientierung der Auswahl der Maßnahmen an den WRRL-Maßnahmenprogrammen der Länder und entsprechender Programme und Maßnahmenkonzepte der Flussgebietsgemeinschaften•Zur Wiedervernetzung von Lebensräumen geeignete Bewirtschaftungs- oder Pflegemaßnahmen in den Uferbereichen, die in Abschnitt A Spalte 1 aufgeführt sind, müssen die in Abschnitt A Spalte 2 genannten Anforderungen erfüllen.•Rückbaumaßnahmen im Bereich von Gewässern, die in Abschnitt B Spalte 1 aufgeführt sind, müssen die in Abschnitt B Spalte 2 genannten Anforderungen erfüllen.•Berücksichtigung des Stands der Technik gemäß des anerkannten Regelwerkes, entsprechender Leitfäden und der besten einschlägigen wissenschaftlichen Erkenntnisse bei der Planung und Ausführung von Fließgewässerrenaturierungen sowie bei Erfassungen/Kartierungen•In die Bewertung der mittelbaren Aufwertung dürfen nur Fließgewässerabschnitte und Uferbereiche einfließen, für die eine tatsächliche Aufwertung durch eine Vernetzung bestehender Populationen oder die Neubesiedlung bisher isolierter Lebensräume angenommen werden kann.XXXX(X)(X)(X)Weitere Maßnahmen zur Wiedervernetzung von Lebensräumen z. B. Maßnahmen zum Biotopverbund und zur Biotopvernetzung durch Entwicklung geeigneter Habitatstrukturen als Lebensraum und Leitstrukturen•Anlage vorrangig in den gesetzlich, planerisch oder konzeptionell verankerten Biotopvernetzungsbereichen des Bundes und der Länder unter besonderer Berücksichtigung der Lebensraumnetze des Bundesamtes für Naturschutz einschließlich entsprechender Darstellungen in der überörtlichen und örtlichen Landschaftsplanung sowie in den in Artenschutzkonzepten ausgewiesenen Konfliktstellen•Für die Planung zielartenspezifischer Wiedervernetzungsmaßnahmen (z. B. zur Aufrechterhaltung oder Verbesserung von Austausch-, Wander- und Ausbreitungsbeziehungen von Populationen insbesondere gefährdeter Arten) sind entsprechende Nachweise erforderlich (Erfassung/Kartierung, Wirkungsprognose).•Zur Wiedervernetzung von Lebensräumen geeignete Bewirtschaftungs- oder Pflegemaßnahmen, die in Abschnitt A Spalte 1 aufgeführt sind, müssen die in Abschnitt A Spalte 2 genannten Anforderungen erfüllen.•Maßnahmen zur Wiedervernetzung sollen der Sicherung überlebensfähiger Populationen bzw. überlebensfähiger Metapopulationsstrukturen dienen.•In die Bewertung der mittelbaren Aufwertung dürfen nur Lebensräume/Bereiche einfließen, für die eine tatsächliche Aufwertung durch eine Vernetzung bestehender Populationen oder die Neubesiedlung bisher isolierter Lebensräume angenommen werden kann.XX(X)(X)(X)(X)(X)(X) Anlage von Querungshilfen ausschließlich im bestehenden Infrastrukturnetz (an bestehenden Straßen, Bahnlinien, Wasserstraßen usw.) Anlage vorrangig in den gesetzlich, planerisch oder konzeptionell verankerten Wiedervernetzungsabschnitten/-konzepten des Bundes und der Länder unter besonderer Berücksichtigung der Lebensraumnetze des Bundesamtes für Naturschutz und des Bundesprogramms Wiedervernetzung Für die Erforderlichkeit von technischen Wiedervernetzungsmaßnahmen in sonstigen Bereichen (z. B. Austausch-, Wander- und Ausbreitungsachsen von Populationen insbesondere gefährdeter Arten) sind entsprechende Nachweise erforderlich (Erfassung/Kartierung, Wirkungsprognose). Berücksichtigung des Stands der Technik gemäß des anerkannten Regelwerkes, entsprechender Leitfäden und der besten einschlägigen wissenschaftlichen Erkenntnisse für die Planung und Ausführung von Wiedervernetzungsmaßnahmen sowie bei Erfassungen/Kartierungen Maßnahmen zur Wiedervernetzung sollen der Sicherung überlebensfähiger Populationen bzw. überlebensfähiger Metapopulationsstrukturen dienen. Durch Umfeldgestaltung und Hinterlandanbindung ist die Funktion der Querungshilfe zu sichern und zu fördern. In die Bewertung der mittelbaren Aufwertung dürfen nur Bereiche einfließen, für die eine tatsächliche Aufwertung durch eine Vernetzung bestehender Populationen oder die Neubesiedlung bisher isolierter Lebensräume angenommen werden kann. Anlage vorrangig in den gesetzlich, planerisch oder konzeptionell verankerten Biotopvernetzungsbereichen des Bundes und der Länder unter besonderer Berücksichtigung der Lebensraumnetze des Bundesamtes für Naturschutz einschließlich entsprechender Darstellungen in der überörtlichen und örtlichen Landschaftsplanung Orientierung der Auswahl der Maßnahmen an den WRRL-Maßnahmenprogrammen der Länder und entsprechender Programme und Maßnahmenkonzepte der Flussgebietsgemeinschaften Zur Wiedervernetzung von Lebensräumen geeignete Bewirtschaftungs- oder Pflegemaßnahmen in den Uferbereichen, die in Abschnitt A Spalte 1 aufgeführt sind, müssen die in Abschnitt A Spalte 2 genannten Anforderungen erfüllen. Rückbaumaßnahmen im Bereich von Gewässern, die in Abschnitt B Spalte 1 aufgeführt sind, müssen die in Abschnitt B Spalte 2 genannten Anforderungen erfüllen. Berücksichtigung des Stands der Technik gemäß des anerkannten Regelwerkes, entsprechender Leitfäden und der besten einschlägigen wissenschaftlichen Erkenntnisse bei der Planung und Ausführung von Fließgewässerrenaturierungen sowie bei Erfassungen/Kartierungen In die Bewertung der mittelbaren Aufwertung dürfen nur Fließgewässerabschnitte und Uferbereiche einfließen, für die eine tatsächliche Aufwertung durch eine Vernetzung bestehender Populationen oder die Neubesiedlung bisher isolierter Lebensräume angenommen werden kann. Anlage vorrangig in den gesetzlich, planerisch oder konzeptionell verankerten Biotopvernetzungsbereichen des Bundes und der Länder unter besonderer Berücksichtigung der Lebensraumnetze des Bundesamtes für Naturschutz einschließlich entsprechender Darstellungen in der überörtlichen und örtlichen Landschaftsplanung sowie in den in Artenschutzkonzepten ausgewiesenen Konfliktstellen Für die Planung zielartenspezifischer Wiedervernetzungsmaßnahmen (z. B. zur Aufrechterhaltung oder Verbesserung von Austausch-, Wander- und Ausbreitungsbeziehungen von Populationen insbesondere gefährdeter Arten) sind entsprechende Nachweise erforderlich (Erfassung/Kartierung, Wirkungsprognose). Zur Wiedervernetzung von Lebensräumen geeignete Bewirtschaftungs- oder Pflegemaßnahmen, die in Abschnitt A Spalte 1 aufgeführt sind, müssen die in Abschnitt A Spalte 2 genannten Anforderungen erfüllen. Maßnahmen zur Wiedervernetzung sollen der Sicherung überlebensfähiger Populationen bzw. überlebensfähiger Metapopulationsstrukturen dienen. In die Bewertung der mittelbaren Aufwertung dürfen nur Lebensräume/Bereiche einfließen, für die eine tatsächliche Aufwertung durch eine Vernetzung bestehender Populationen oder die Neubesiedlung bisher isolierter Lebensräume angenommen werden kann. X:Maßnahme ist in der Regel geeignet zum Ausgleich oder Ersatz von Beeinträchtigungen der Funktion.(X):Maßnahme ist in bestimmten Fällen geeignet zum Ausgleich oder Ersatz von Beeinträchtigungen der Funktion.

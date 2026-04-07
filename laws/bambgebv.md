@@ -14,19 +14,19 @@ Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des 
 
 (1) Die Bundesanstalt für Materialforschung und -prüfung erhebt in ihrem Zuständigkeitsbereich Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen (gebührenfähige Leistungen), die auf Grund der folgenden Vorschriften erbracht werden:
 
-1.
+1. Beschussgesetz,
 
-2.
+2. Beschussverordnung,
 
-3.
+3. Sprengstoffgesetz,
 
-4.
+4. Erste Verordnung zum Sprengstoffgesetz,
 
-5.
+5. Zweite Verordnung zum Sprengstoffgesetz,
 
-6.
+6. Deponieverordnung,
 
-7.
+7. Gefahrstoffverordnung.
 
 (2) Die Erhebung von Gebühren und Auslagen für gebührenfähige Leistungen, die von der Bundesanstalt für Materialforschung und -prüfung aufgrund anderer als der in Absatz 1 genannten Vorschriften erbracht werden, wird durch diese Verordnung nicht berührt.
 
@@ -36,9 +36,9 @@ Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des 
 
 (2) Neben den in § 12 Absatz 1 Satz 1 des Bundesgebührengesetzes genannten Auslagen werden Auslagen gesondert in der tatsächlich entstandenen Höhe erhoben für
 
-1.
+1. die Beförderung von Prüfmitteln und Prüfobjekten,
 
-2.
+2. außergewöhnliche Aufwendungen für Material, Energie, besondere Prüfanlagen, Mess- und Hilfseinrichtungen oder andere Vorkehrungen oder Hilfsmittel.
 
 (3) Die zu erhebenden Gebühren und Auslagen umfassen jeweils auch die Kosten für die Festsetzung der Gebühren und Auslagen.
 

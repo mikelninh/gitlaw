@@ -14,5 +14,3 @@
 (3) Die im Bundesministerium des Innern verwahrten Muster sind für die heraldische Gestaltung des Bundeswappens maßgebend. Die künstlerische Ausgestaltung bleibt für jeden besonderen Zweck vorbehalten.
 
 ### Schlußformel
-
-Der Bundespräsident Der Bundeskanzler Der Bundesminister des Innern

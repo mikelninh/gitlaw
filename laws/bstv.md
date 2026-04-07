@@ -8,7 +8,7 @@
 
 ### Eingangsformel
 
-Auf Grund des § 23b in Verbindung mit § 23a des Arbeitnehmer-Entsendegesetzes, die durch Artikel 1 Nummer 16a des Gesetzes vom 10. Juli 2020 (BGBl. I S. 1657) eingefügt worden sind, verordnet das Bundesministerium für Arbeit und Soziales:
+Auf Grund des § 23b in Verbindung mit § 23a des Arbeitnehmer-Entsendegesetzes, die durch Artikel 1 Nummer 16a des Gesetzes vom 10. Juli 2020 (BGBl. I S. 1657) eingefügt worden sind, verordnet das Bundesministerium für Arbeit und Soziales:
 
 ### § 1 — Antragsverfahren
 
@@ -16,39 +16,37 @@ Auf Grund des § 23b in Verbindung mit § 23a des Arbeitnehmer-Entsendegesetzes,
 
 (2) Der Antrag soll mindestens enthalten:
 
-1.
+1. Angaben zur Höhe der beantragten Mittel,
 
-2.
+2. Angaben zur Höhe des Eigenanteils,
 
-3.
+3. die Beschreibung des geplanten Vorhabens unter Berücksichtigung des Leistungszwecks nach § 23a Absatz 1 des Arbeitnehmer-Entsendegesetzes,
 
-4.
+4. den Finanzierungsplan,
 
-5.
+5. Angaben zur Weiterleitung der Leistung an Dritte,
 
-6.
+6. die Erklärung, dass der Wirtschaftlichkeits- und Sparsamkeitsgrundsatz eingehalten werden wird, und
 
-7.
+7. eine Bestätigung des Deutschen Gewerkschaftsbundes, dass die für den Leistungszweck eingesetzten Beschäftigten nicht bessergestellt werden als vergleichbare Bundesbedienstete.
 
-(3) Die Umsatzsteuer, die nach § 15 des Umsatzsteuergesetzes als Vorsteuer abziehbar ist, darf nicht Teil der beantragten Leistung sein. Auf Verlangen des Bundesministeriums für Arbeit und Soziales sind die Angaben im Antrag insoweit durch geeignete Unterlagen zu belegen.
-
-> § 1 Abs. 3 S 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde  das Wort "Umsatzsatzsteuergesetzes" durch das Wort "Umsatzsteuergesetzes" ersetzt
+> § 1 Abs. 3 S 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Umsatzsatzsteuergesetzes" durch das Wort "Umsatzsteuergesetzes" ersetzt
 
 ### § 2 — Leistungsgewährung
 
 (1) Das Bundesministerium für Arbeit und Soziales entscheidet über den Antrag in Form eines Leistungsbescheids. Über den Antrag soll bis spätestens acht Wochen vor Beginn des Leistungszeitraums entschieden werden.
 
-(2) Der Leistungsbescheid muss mindestens enthalten: Der Leistungsbescheid kann Näheres zur Verwendung der Leistung regeln.
+(2) Der Leistungsbescheid muss mindestens enthalten:
 
-1.
+1. die Höhe der Leistung und des Eigenanteils des Deutschen Gewerkschaftsbunds,
 
-2.
+2. die Bezeichnung des Leistungszwecks entsprechend § 31 Absatz 1 des Arbeitnehmer-Entsendegesetzes,
 
-3.
+3. den Leistungszeitraum,
 
-4.
+4. die Zustimmung zur Weiterleitung der Leistung an Dritte, sofern diese beantragt wurde und erteilt wird, und
 
-5.
+5. eine Rechtsbehelfsbelehrung.
 
 (3) Änderungsanträge, die der Deutsche Gewerkschaftsbund stellt, nachdem der Leistungsbescheid bestandskräftig geworden ist, sind nur zulässig, wenn das Bundesministerium für Arbeit und Soziales der Antragstellung zustimmt. Die Zustimmung liegt im Ermessen des Bundesministeriums für Arbeit und Soziales. Die Entscheidung über die Zustimmung kann gleichzeitig mit der Entscheidung über den Änderungsantrag erfolgen. Die Entscheidung über einen Änderungsantrag soll bis spätestens acht Wochen nach Antragstellung erfolgen.
 
@@ -58,21 +56,21 @@ Auf Grund des § 23b in Verbindung mit § 23a des Arbeitnehmer-Entsendegesetzes,
 
 ### § 3 — Weiterleitung der Leistung an Dritte
 
-(1) Die Weiterleitung der Leistung an Dritte ist mit dem Antrag auf Gewährung der Leistung nach § 1 zu beantragen. Die Entscheidung des Bundesministeriums für Arbeit und Soziales über die Weiterleitung der Leistung an Dritte erfolgt im Leistungsbescheid.
+(1) Die Weiterleitung der Leistung an Dritte ist mit dem Antrag auf Gewährung der Leistung nach § 1 zu beantragen. Die Entscheidung des Bundesministeriums für Arbeit und Soziales über die Weiterleitung der Leistung an Dritte erfolgt im Leistungsbescheid.
 
-(2) Die Weiterleitung der Leistung an Dritte erfolgt in Form eines privatrechtlichen Vertrages (Weiterleitungsvertrag). Dieser muss mindestens enthalten: Die Weiterleitungsverträge sind dem Bundesministerium für Arbeit und Soziales spätestens am Tag vor dem Beginn des Leistungszeitraums vorzulegen. Andernfalls kann das Bundesministerium für Arbeit und Soziales die Ermächtigung zur Weiterleitung der Leistung an Dritte widerrufen.
+(2) Die Weiterleitung der Leistung an Dritte erfolgt in Form eines privatrechtlichen Vertrages (Weiterleitungsvertrag). Dieser muss mindestens enthalten:
 
-1.
+1. die Art und Höhe der weitergeleiteten Leistung,
 
-2.
+2. den Leistungszweck,
 
-3.
+3. den Leistungszeitraum,
 
-4.
+4. die zur Erreichung des Leistungszwecks veranschlagten Ausgaben oder Kosten,
 
-5.
+5. die Voraussetzungen, die beim Dritten erfüllt sein müssen, um die Leistung an ihn weiterleiten zu können, und
 
-6.
+6. eine Rücktrittsmöglichkeit vom Vertrag aus wichtigem Grund wie dem Wegfall der Voraussetzungen für den Vertragsabschluss.
 
 ### § 4 — Kontrolle der Mittelverwendung
 

@@ -10,25 +10,25 @@
 
 (1) Die in Absatz 2 genannten statistischen Erhebungen werden als Bundesstatistik durchgeführt als Beitrag zur Darstellung des Energieangebots und der Energieverwendung, insbesondere in Form von Energiebilanzen des Bundes und der Länder, für Zwecke
 
-1.
+1. der Gestaltung der energiepolitischen Rahmenbedingungen für eine sichere, wirtschaftliche und umweltverträgliche Energieversorgung,
 
-2.
+2. der Erstellung des Berichts der Bundesregierung nach § 63 Absatz 1 Satz 1 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970, 3621), das zuletzt durch Artikel 1 des Gesetzes vom 27. Januar 2017 (BGBl. I S. 130) geändert worden ist, in der jeweils geltenden Fassung, und nach § 98 Absatz 1 des Erneuerbare-Energien-Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 2 des Gesetzes vom 22. Dezember 2016 (BGBl. I S. 3106) geändert worden ist, in der jeweils geltenden Fassung, sowie für die Energieberichterstattung des Bundes und der Länder,
 
-3.
+3. der Erfüllung europa- und völkerrechtlicher Berichtspflichten der Bundesrepublik Deutschland.
 
 (2) Die Statistik umfasst die Erhebungen
 
-1.
+1. in der Elektrizitätswirtschaft einschließlich der erneuerbaren Energien (§ 3),
 
-2.
+2. in der Gaswirtschaft einschließlich der erneuerbaren Energien (§ 4),
 
-3.
+3. in der Wärmewirtschaft einschließlich der erneuerbaren Energien (§ 5),
 
-4.
+4. über Kohleeinfuhr und -ausfuhr (§ 6),
 
-5.
+5. über Flüssiggas, Klärgas, Klärschlamm, Tiefengeothermie, Biokraftstoffe, Mineralöl und Mineralölerzeugnisse (§ 7) sowie
 
-6.
+6. über die Energieverwendung einschließlich der erneuerbaren Energien (§ 8).
 
 ### § 2 — Begriffsbestimmungen
 
@@ -40,361 +40,209 @@
 
 (4) „Erneuerbare Energien“ im Sinne dieses Gesetzes sind
 
-1.
+1. erneuerbare Energien nach § 3 Nummer 21 des Erneuerbare-Energien-Gesetzes und
 
-2.
+2. Energie aus Klärschlamm und aus Pflanzenölmethylester sowie Energie aus dem biologisch abbaubaren Anteil von Abfällen aus Gewerbe, Handel und Dienstleistungen.
 
 (5) „Nutzbare Speicherkapazität“ im Sinne dieses Gesetzes ist die maximal aufnehmbare Energiemenge, abzüglich auftretender Lade-, Speicher- und Entladeverluste.
 
 (6) Im Übrigen gelten die Begriffsbestimmungen
 
-1.
+1. des Energiewirtschaftsgesetzes,
 
-2.
+2. des Erneuerbare-Energien-Gesetzes,
 
-3.
+3. des Erneuerbare-Energien-Wärmegesetzes vom 7. August 2008 (BGBl. I S. 1658), das zuletzt durch Artikel 9 des Gesetzes vom 20. Oktober 2015 (BGBl. I S. 1722) geändert worden ist, in der jeweils geltenden Fassung und
 
-4.
+4. des Kraft-Wärme-Kopplungsgesetzes vom 21. Dezember 2015 (BGBl. I S. 2498), das zuletzt durch Artikel 1 des Gesetzes vom 22. Dezember 2016 (BGBl. I S. 3106) geändert worden ist, in der jeweils geltenden Fassung.
 
 ### § 3 — Erhebungen in der Elektrizitätswirtschaft einschließlich der erneuerbaren Energien
 
 (1) Die Erhebung erfasst, jeweils bezogen auf das Inland, monatlich bei allen Betreibern
 
-1.
+1. von denjenigen Anlagen zur Erzeugung von Elektrizität ab einer installierten Nettonennleistung von 1 Megawatt elektrisch, die Brennstoffe oder Wasserkraft als Energieträger einsetzen, soweit sie nicht nach § 7 Satz 1 Nummer 2 oder 3 erfasst werden, Angaben zu folgenden Erhebungsmerkmalen: a)die Menge der erzeugten Elektrizität oder erzeugten Elektrizität und Wärme, getrennt nach eingesetzten Energieträgern und Prozessarten,b)die Menge der abgegebenen Wärme, getrennt nach Abnehmergruppen,c)die Menge des Eigenverbrauchs, jeweils von Elektrizität und Wärme,d)die Nettonennleistung der Anlagen zur Erzeugung von Elektrizität oder von Elektrizität und Wärme,e)die Hocheffizienzeigenschaft der KWK-Anlagen, getrennt nach Prozessarten,f)die Primärenergieeinsparung der KWK-Anlagen, getrennt nach Prozessarten,g)die Menge des Vorratsbestands von Brennstoffen zur Erzeugung von Elektrizität oder von Elektrizität und Wärme bei KWK-Anlagen, jeweils getrennt nach Energieträgern und Energiegehalt,h)die Menge der eingesetzten Brennstoffe zur Erzeugung von Elektrizität oder von Elektrizität und Wärme bei KWK-Anlagen, jeweils getrennt nach Energieträgern und Energiegehalt, die Menge der erzeugten Elektrizität oder erzeugten Elektrizität und Wärme, getrennt nach eingesetzten Energieträgern und Prozessarten, die Menge der abgegebenen Wärme, getrennt nach Abnehmergruppen, die Menge des Eigenverbrauchs, jeweils von Elektrizität und Wärme, die Nettonennleistung der Anlagen zur Erzeugung von Elektrizität oder von Elektrizität und Wärme, die Hocheffizienzeigenschaft der KWK-Anlagen, getrennt nach Prozessarten, die Primärenergieeinsparung der KWK-Anlagen, getrennt nach Prozessarten, die Menge des Vorratsbestands von Brennstoffen zur Erzeugung von Elektrizität oder von Elektrizität und Wärme bei KWK-Anlagen, jeweils getrennt nach Energieträgern und Energiegehalt, die Menge der eingesetzten Brennstoffe zur Erzeugung von Elektrizität oder von Elektrizität und Wärme bei KWK-Anlagen, jeweils getrennt nach Energieträgern und Energiegehalt,
 
-a)
+2. von Anlagen zur Speicherung von Elektrizität ab einer installierten Nettonennleistung von 1 Megawatt elektrisch oder ab einer Speicherkapazität von 1 Megawattstunde Angaben zu folgenden Erhebungsmerkmalen: a)die Menge der ein- und ausgespeicherten Elektrizität, getrennt nach Speichertechnologie, bei Pumpspeicherkraftwerken zusätzlich getrennt nach Erzeugung aus dem Pumpbetrieb und aus natürlichem Zufluss,b)die installierte elektrische Nettonennleistung, bei Pumpspeicherkraftwerken zusätzlich getrennt nach Erzeugung und Pumpbetrieb,c)die nutzbare Speicherkapazität, die Menge der ein- und ausgespeicherten Elektrizität, getrennt nach Speichertechnologie, bei Pumpspeicherkraftwerken zusätzlich getrennt nach Erzeugung aus dem Pumpbetrieb und aus natürlichem Zufluss, die installierte elektrische Nettonennleistung, bei Pumpspeicherkraftwerken zusätzlich getrennt nach Erzeugung und Pumpbetrieb, die nutzbare Speicherkapazität,
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-2.
-
-a)
-
-b)
-
-c)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
+3. von Elektrizitätsversorgungsnetzen, bezogen auf die von ihnen betriebenen Netze, Angaben zu folgenden Erhebungsmerkmalen: a)länderweise die Anzahl, die installierte Nettonennleistung der Anlagen zur Erzeugung, die direkt an das von ihnen betriebene Netz angeschlossen sind, sowie die Einspeisung von Elektrizität in physikalischen Mengen, jeweils getrennt nach eingesetzten Energieträgern sowie innerhalb der Energieträger jeweils getrennt nach Anlagen unter und ab einer Nettonennleistung von 1 Megawatt elektrisch,b)die Ein- und Ausfuhr von Elektrizität in physikalischen Mengen, getrennt nach Staaten,c)die Menge der Netzverluste,d)die Menge der entnommenen Elektrizität, getrennt nach Abnehmergruppen. länderweise die Anzahl, die installierte Nettonennleistung der Anlagen zur Erzeugung, die direkt an das von ihnen betriebene Netz angeschlossen sind, sowie die Einspeisung von Elektrizität in physikalischen Mengen, jeweils getrennt nach eingesetzten Energieträgern sowie innerhalb der Energieträger jeweils getrennt nach Anlagen unter und ab einer Nettonennleistung von 1 Megawatt elektrisch, die Ein- und Ausfuhr von Elektrizität in physikalischen Mengen, getrennt nach Staaten, die Menge der Netzverluste, die Menge der entnommenen Elektrizität, getrennt nach Abnehmergruppen.
 
 (2) Die Erhebung erfasst, jeweils bezogen auf das Inland und länderweise, bei allen Energieversorgungsunternehmen einschließlich der Stromhändler, die Letztverbraucher mit Elektrizität beliefern, jährlich für das Vorjahr Angaben zu folgenden Erhebungsmerkmalen:
 
-1.
+1. die Menge der abgesetzten Elektrizität, getrennt nach Abnehmergruppen,
 
-2.
+2. die Erlöse aus dem Absatz von Elektrizität, getrennt nach Abnehmergruppen,
 
-3.
+3. die Erlöse aus dem Absatz von Elektrizität an Sondervertragskunden nach § 2 Absatz 3 Nummer 1 der Konzessionsabgabenverordnung.
 
-(3) Die Erhebung erfasst, jeweils bezogen auf das Inland, bei allen Betreibern von Elektrizitätsversorgungsnetzen, bezogen auf die von ihnen betriebenen Netze, jährlich für das Vorjahr Angaben zu folgenden Erhebungsmerkmalen: Die Angaben nach Satz 1 Nummer 1 und 2 sind auch länderweise zu erfassen.
+(3) Die Erhebung erfasst, jeweils bezogen auf das Inland, bei allen Betreibern von Elektrizitätsversorgungsnetzen, bezogen auf die von ihnen betriebenen Netze, jährlich für das Vorjahr Angaben zu folgenden Erhebungsmerkmalen:
 
-1.
+1. den Sondervertragskunden nach § 2 Absatz 3 Nummer 1 der Konzessionsabgabenverordnung in Rechnung gestellte Netznutzungsentgelte,
 
-2.
+2. die Menge der Netzausspeisungen an Letztverbraucher sowie Netzeinspeisungen von Elektrizität, getrennt nach Energieträgern,
 
-3.
+3. die Standorte, die Anzahl und die installierte Nettonennleistung der Anlagen zur Erzeugung, die direkt an das von ihnen betriebene Netz angeschlossen sind.
 
 (4) Die Erhebung erfasst, jeweils bezogen auf das Inland und jeweils länderweise, bei allen Betreibern von Elektrizitätsversorgungsnetzen, bezogen auf die von ihnen betriebenen Netze, für KWK-Anlagen unter 1 Megawatt Nettonennleistung jährlich für das Vorjahr Angaben zu folgenden Erhebungsmerkmalen:
 
-1.
+1. die Menge der eingespeisten Elektrizität,
 
-2.
+2. die Art des eingesetzten Hauptbrennstoffs.
 
 (5) Die Erhebung erfasst, jeweils bezogen auf das Inland, bei allen Betreibern von zur Eigenversorgung bestimmten Anlagen zur Erzeugung von Elektrizität ab einer installierten Nettonennleistung von 1 Megawatt elektrisch einschließlich der KWK-Anlagen, soweit sie nicht nach § 7 Satz 1 Nummer 2 oder 3 erfasst werden, jährlich für das Vorjahr Angaben zu folgenden Erhebungsmerkmalen:
 
-1.
+1. die Menge der erzeugten Elektrizität oder der erzeugten Elektrizität und Wärme, getrennt nach eingesetzten Energieträgern und Prozessarten,
 
-2.
+2. die Menge des Eigenverbrauchs, jeweils von Elektrizität und Wärme,
 
-3.
+3. die Nettonennleistung der Anlagen,
 
-4.
+4. die Hocheffizienzeigenschaft der KWK-Anlagen, getrennt nach Prozessarten,
 
-5.
+5. die Primärenergieeinsparung der KWK-Anlagen, getrennt nach Prozessarten,
 
-6.
+6. die Menge des Vorratsbestands von Brennstoffen zur Erzeugung von Elektrizität oder von Elektrizität und Wärme bei KWK-Anlagen, jeweils getrennt nach Energieträgern und Energiegehalt,
 
-7.
+7. die Menge der eingesetzten Brennstoffe zur Erzeugung von Elektrizität oder von Elektrizität und Wärme bei KWK-Anlagen, jeweils getrennt nach Energieträgern und Energiegehalt.
 
 ### § 4 — Erhebungen in der Gaswirtschaft einschließlich der erneuerbaren Energien
 
 (1) Die Erhebung erfasst, jeweils bezogen auf das Inland, monatlich bei allen Betreibern von Anlagen
 
-1.
+1. zur Gewinnung von Erdgas die Menge des gewonnenen Erdgases,
 
-2.
+2. zum Transport von Erdgas Angaben über die Ein- und Ausfuhr von Erdgas in physischen Mengen, getrennt nach Nachbarstaaten,
 
-3.
-
-a)
-
-b)
+3. zur Speicherung von Erdgas Angaben zu folgenden Erhebungsmerkmalen: a)Speichersaldo am Monatsende,b)Speicherfüllstände am Monatsende. Speichersaldo am Monatsende, Speicherfüllstände am Monatsende.
 
 (2) Die Erhebung erfasst, jeweils bezogen auf das Inland, monatlich
 
-1.
+1. bei allen Betreibern von Anlagen zur Gewinnung von Erdgas Angaben zu folgenden Erhebungsmerkmalen: a)die Menge des gewonnenen Erdgases,b)die Menge des Eigenverbrauchs, die Menge des gewonnenen Erdgases, die Menge des Eigenverbrauchs,
 
-a)
+2. bei allen Betreibern von Anlagen zum Transport von Erdgas oder Biogas durch Fernleitungen Angaben zu folgenden Erhebungsmerkmalen: a)die Menge des in das Fernleitungsnetz eingespeisten Erdgases,b)die Menge des in das Fernleitungsnetz eingespeisten Biogases,c)die Menge des aus dem Fernleitungsnetz ausgespeisten Gases,d)die Ein- und Ausfuhr von Erdgas in physischen Mengen, getrennt nach Nachbarstaaten,e)die Menge des Eigenverbrauchs, die Menge des in das Fernleitungsnetz eingespeisten Erdgases, die Menge des in das Fernleitungsnetz eingespeisten Biogases, die Menge des aus dem Fernleitungsnetz ausgespeisten Gases, die Ein- und Ausfuhr von Erdgas in physischen Mengen, getrennt nach Nachbarstaaten, die Menge des Eigenverbrauchs,
 
-b)
+3. bei allen Betreibern von Anlagen zur Speicherung von Erdgas Angaben zu folgenden Erhebungsmerkmalen: a)den Speichersaldo am Monatsende,b)die Speicherfüllstände am Monatsende,c)die Menge des Eigenverbrauchs. den Speichersaldo am Monatsende, die Speicherfüllstände am Monatsende, die Menge des Eigenverbrauchs.
 
-2.
+(3) Die Erhebung erfasst, jeweils bezogen auf das Inland, jährlich für das Vorjahr
 
-a)
+1. bei allen Betreibern von Anlagen zur Gewinnung und Erzeugung von Gas Angaben zu folgenden Erhebungsmerkmalen: a)die Menge des gewonnenen und erzeugten Gases,b)die Menge des abgesetzten Gases, getrennt nach Abnehmergruppen,c)die Erlöse aus dem Absatz von Gas, getrennt nach Abnehmergruppen,d)die Ein- und Ausfuhr von Erdgas nach Vertragsmengen, getrennt nach Ursprungs- und Bestimmungsstaaten,e)die Menge des abgefackelten Gases,f)die Menge des Eigenverbrauchs,g)die Menge der sonstigen Verluste, die Menge des gewonnenen und erzeugten Gases, die Menge des abgesetzten Gases, getrennt nach Abnehmergruppen, die Erlöse aus dem Absatz von Gas, getrennt nach Abnehmergruppen, die Ein- und Ausfuhr von Erdgas nach Vertragsmengen, getrennt nach Ursprungs- und Bestimmungsstaaten, die Menge des abgefackelten Gases, die Menge des Eigenverbrauchs, die Menge der sonstigen Verluste,
 
-b)
+2. bei allen Betreibern von Anlagen zum Transport von Gas durch Fernleitungen Angaben zu folgenden Erhebungsmerkmalen: a)die Menge des eingespeisten Gases,b)die Ein- und Ausfuhr von Erdgas in physischen Mengen, getrennt nach Nachbarstaaten,c)die Menge des Eigenverbrauchs,d)die Menge der sonstigen Verluste, die Menge des eingespeisten Gases, die Ein- und Ausfuhr von Erdgas in physischen Mengen, getrennt nach Nachbarstaaten, die Menge des Eigenverbrauchs, die Menge der sonstigen Verluste,
 
-c)
+3. bei allen Betreibern von Anlagen zur Speicherung von Gas Angaben zu folgenden Erhebungsmerkmalen: a)die Anzahl, die Art, das Arbeitsvolumen und die maximale Ausspeiseleistung der Speicher,b)die am Jahresende kumulierte Menge des eingespeisten Gases und die am Jahresende kumulierte Menge des ausgespeisten Gases,c)die Menge des Eigenverbrauchs,d)die Menge der sonstigen Verluste, die Anzahl, die Art, das Arbeitsvolumen und die maximale Ausspeiseleistung der Speicher, die am Jahresende kumulierte Menge des eingespeisten Gases und die am Jahresende kumulierte Menge des ausgespeisten Gases, die Menge des Eigenverbrauchs, die Menge der sonstigen Verluste,
 
-d)
+4. bei allen Betreibern von Gasverteilernetzen Angaben zu folgenden Erhebungsmerkmalen: a)die Menge des in das Gasverteilernetz eingespeisten Gases,b)die Menge des Eigenverbrauchs,c)die Menge der sonstigen Verluste, die Menge des in das Gasverteilernetz eingespeisten Gases, die Menge des Eigenverbrauchs, die Menge der sonstigen Verluste,
 
-e)
-
-3.
-
-a)
-
-b)
-
-c)
-
-(3) Die Erhebung erfasst, jeweils bezogen auf das Inland, jährlich für das Vorjahr Die Angaben nach Satz 1 Nummer 2 Buchstabe a und Nummer 4 Buchstabe a sind auch nach Gasarten getrennt zu erfassen. Die Angaben nach Satz 1 Nummer 2 Buchstabe c und d und Nummer 4 Buchstabe b und c schließen Erdgasverdichterstationen mit ein. Die Angaben nach Satz 1 Nummer 3 Buchstabe c schließen Kissengas mit ein. Die Angaben nach Satz 1 Nummer 1 Buchstabe b und c, Nummer 2 Buchstabe a, c und d, Nummer 3 Buchstabe b, Nummer 4 Buchstabe a sowie Nummer 5 Buchstabe b und c sind auch länderweise zu erfassen.
-
-1.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-4.
-
-a)
-
-b)
-
-c)
-
-5.
-
-a)
-
-b)
-
-c)
+5. bei allen Gaslieferanten und Großhändlern Angaben zu folgenden Erhebungsmerkmalen: a)die Ein- und Ausfuhr von Erdgas nach Vertragsmengen, getrennt nach Ursprungs- und Bestimmungsstaaten,b)die Menge des abgesetzten Gases, getrennt nach Abnehmergruppen,c)die Erlöse aus dem Absatz von Gas, getrennt nach Abnehmergruppen. die Ein- und Ausfuhr von Erdgas nach Vertragsmengen, getrennt nach Ursprungs- und Bestimmungsstaaten, die Menge des abgesetzten Gases, getrennt nach Abnehmergruppen, die Erlöse aus dem Absatz von Gas, getrennt nach Abnehmergruppen.
 
 ### § 5 — Erhebungen in der Wärmewirtschaft einschließlich der erneuerbaren Energien
 
-Die Erhebung erfasst, jeweils bezogen auf das Inland, bei allen Betreibern von Heizwerken ab einer installierten Nettonennleistung von 1 Megawatt thermisch und bei allen Betreibern von Anlagen zur netzgebundenen Wärmeversorgung einschließlich wärmegeführter Blockheizkraftwerke, soweit deren Anlagen nicht bereits nach § 3 erfasst werden, sowie bei Dritten, die sich dieser Anlagen zur Verteilung bedienen, jährlich für das Vorjahr Angaben zu folgenden Erhebungsmerkmalen: Alle Angaben mit Ausnahme der Angaben nach Satz 1 Nummer 7 und 13 sind länderweise zu erfassen.
+Die Erhebung erfasst, jeweils bezogen auf das Inland, bei allen Betreibern von Heizwerken ab einer installierten Nettonennleistung von 1 Megawatt thermisch und bei allen Betreibern von Anlagen zur netzgebundenen Wärmeversorgung einschließlich wärmegeführter Blockheizkraftwerke, soweit deren Anlagen nicht bereits nach § 3 erfasst werden, sowie bei Dritten, die sich dieser Anlagen zur Verteilung bedienen, jährlich für das Vorjahr Angaben zu folgenden Erhebungsmerkmalen:
 
-1.
+1. die Menge der erzeugten Wärme sowie bei wärmegeführten Anlagen die Menge der erzeugten Elektrizität, jeweils getrennt nach eingesetzten Energieträgern,
 
-2.
+2. die Menge der bezogenen Wärme, getrennt nach Lieferantengruppen,
 
-3.
+3. die Menge der abgegebenen Wärme, getrennt nach Abnehmergruppen,
 
-4.
+4. die Menge des Bestands an Energieträgern, getrennt nach Energiegehalt,
 
-5.
+5. die Menge der eingesetzten Energieträger zur Erzeugung von Wärme und Elektrizität, jeweils getrennt nach Arten und Energiegehalt,
 
-6.
+6. die Menge des Eigenverbrauchs von Wärme und Elektrizität,
 
-7.
+7. die installierte thermische Speicherkapazität,
 
-8.
+8. die Menge der Netzverluste,
 
-9.
+9. die Art und die installierte elektrische Nettonennleistung und thermische Nettonennleistung der Anlagen,
 
-10.
+10. bei Wärmenetzen die vorwiegend verwendeten Wärmeträger,
 
-11.
+11. die Anzahl der Wärmenetze sowie deren gesamte Trassenlänge,
 
-12.
+12. den Umfang des Zu- und Rückbaus von Wärmenetzen,
 
-13.
+13. die Menge der eingeführten Wärme und die Menge der ausgeführten Wärme.
 
 ### § 6 — Erhebungen über Kohleeinfuhr und -ausfuhr
 
 Die Erhebung erfasst, jeweils bezogen auf das Inland, bei allen Unternehmen, die Braunkohle, Braunkohleprodukte, Steinkohle, Steinkohlenkoks oder -briketts ein- oder ausführen, monatlich Angaben zu folgenden Erhebungsmerkmalen:
 
-1.
+1. die Einfuhr und Ausfuhr von Kohle, jeweils getrennt nach Staaten sowie nach Kohlearten, Energiegehalten und Grenzübergangswerten,
 
-2.
+2. die Menge des Bestands, getrennt nach Kohlearten,
 
-3.
+3. die abgegebene Menge, jeweils getrennt nach Kohlearten sowie innerhalb der Kohlearten jeweils getrennt nach Abnehmer- und Verbrauchergruppen.
 
 ### § 7 — Erhebungen über Flüssiggas, Klärgas, Klärschlamm, Tiefengeothermie, Biokraftstoffe, Mineralöl und Mineralölerzeugnisse
 
-Die Erhebungen erfassen, jeweils bezogen auf das Inland, jährlich für das Vorjahr Soweit den statistischen Ämtern der Länder die Daten nach Satz 1 Nummer 5 aus Erhebungen anderer Behörden zur Verfügung gestellt werden, ist von der Durchführung der Erhebung nach Satz 1 Nummer 5 abzusehen.
+Die Erhebungen erfassen, jeweils bezogen auf das Inland, jährlich für das Vorjahr
 
-1.
+1. bei allen Unternehmen, die jährlich mindestens 100 Tonnen Flüssiggas an Letztverbraucher oder Wiederverkäufer abgeben, länderweise die abgegebene Menge von Flüssiggas, getrennt nach Abnehmergruppen,
 
-2.
+2. bei allen Betreibern von Anlagen, die Klärgas erzeugen oder Klärschlamm zur Erzeugung von Elektrizität und Wärme einsetzen, Angaben zu folgenden Erhebungsmerkmalen: a)die Menge des gewonnenen Klärgases und die Menge des gewonnenen Klärschlamms zur Erzeugung von Elektrizität und Wärme, getrennt nach Energiegehalt,b)die Menge des genutzten Klärgases, getrennt nach Verwendungsarten,c)die Menge des abgegebenen Klärgases, getrennt nach Abnehmergruppen,d)die Menge der aus Klärgas und Klärschlamm erzeugten und abgegebenen Elektrizität und Wärme,e)die installierte elektrische Nettonennleistung und thermische Nettonennleistung der Anlagen zur Erzeugung von Elektrizität und Wärme, die Menge des gewonnenen Klärgases und die Menge des gewonnenen Klärschlamms zur Erzeugung von Elektrizität und Wärme, getrennt nach Energiegehalt, die Menge des genutzten Klärgases, getrennt nach Verwendungsarten, die Menge des abgegebenen Klärgases, getrennt nach Abnehmergruppen, die Menge der aus Klärgas und Klärschlamm erzeugten und abgegebenen Elektrizität und Wärme, die installierte elektrische Nettonennleistung und thermische Nettonennleistung der Anlagen zur Erzeugung von Elektrizität und Wärme,
 
-a)
+3. bei allen Betreibern von Anlagen zur Nutzung der Tiefengeothermie Angaben zu folgenden Erhebungsmerkmalen: a)die Art und die Leistung der Anlagen,b)die Menge der erzeugten Wärme und Elektrizität, getrennt nach Verwendungsarten,c)die Menge der abgegebenen Wärme und Elektrizität, getrennt nach Abnehmergruppen, die Art und die Leistung der Anlagen, die Menge der erzeugten Wärme und Elektrizität, getrennt nach Verwendungsarten, die Menge der abgegebenen Wärme und Elektrizität, getrennt nach Abnehmergruppen,
 
-b)
+4. bei allen Betreibern von Anlagen zur Erzeugung von Biokraftstoffen Angaben zu folgenden Erhebungsmerkmalen: a)die Art und die Leistung der Anlagen,b)die Menge der eingesetzten Bioenergieträger, jeweils getrennt nach Art und Herkunft aus dem In- und Ausland,c)die Menge der erzeugten Biokraftstoffe, getrennt nach Arten,d)die Menge der eingeführten und die Menge der ausgeführten Biokraftstoffe, getrennt nach Arten,e)die Menge der abgegebenen Biokraftstoffe, getrennt nach Arten, die Art und die Leistung der Anlagen, die Menge der eingesetzten Bioenergieträger, jeweils getrennt nach Art und Herkunft aus dem In- und Ausland, die Menge der erzeugten Biokraftstoffe, getrennt nach Arten, die Menge der eingeführten und die Menge der ausgeführten Biokraftstoffe, getrennt nach Arten, die Menge der abgegebenen Biokraftstoffe, getrennt nach Arten,
 
-c)
+5. bei allen Unternehmen, die Mineralöl fördern oder Mineralölerzeugnisse herstellen oder herstellen lassen, Angaben zu folgenden Erhebungsmerkmalen: a)die Menge des geförderten Mineralöls,b)die eingesetzte Menge von Mineralöl, von zur Verarbeitung bestimmten Mineralölerzeugnissen und von sonstigen Einsatzstoffen in Verarbeitungsanlagen,c)die zur Herstellung von Mineralölerzeugnissen eigenverbrauchte Menge an Mineralöl und Mineralölerzeugnissen,d)die Menge der hergestellten Mineralölerzeugnisse,e)die Bestandsmengen von Mineralöl und Mineralölerzeugnissen, die Menge des geförderten Mineralöls, die eingesetzte Menge von Mineralöl, von zur Verarbeitung bestimmten Mineralölerzeugnissen und von sonstigen Einsatzstoffen in Verarbeitungsanlagen, die zur Herstellung von Mineralölerzeugnissen eigenverbrauchte Menge an Mineralöl und Mineralölerzeugnissen, die Menge der hergestellten Mineralölerzeugnisse, die Bestandsmengen von Mineralöl und Mineralölerzeugnissen,
 
-d)
-
-e)
-
-3.
-
-a)
-
-b)
-
-c)
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-5.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-6.
+6. bei allen Unternehmen, die Heizöle oder Flugkraftstoffe an Letztverbraucher abgeben, länderweise die Menge der abgesetzten Mineralölerzeugnisse, getrennt nach Erzeugnissen und Abnehmergruppen.
 
 ### § 8 — Erhebungen über die Energieverwendung einschließlich der erneuerbaren Energien
 
 Die Erhebung erfasst, jeweils bezogen auf das Inland, bei den Betrieben des Bergbaus, der Gewinnung von Steinen und Erden sowie des Verarbeitenden Gewerbes, soweit die Betriebe dem Berichtskreis für die Erhebungen nach § 2 des Gesetzes über die Statistik im Produzierenden Gewerbe in der Fassung der Bekanntmachung vom 21. März 2002 (BGBl. I S. 1181), das zuletzt durch Artikel 271 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, in der jeweils geltenden Fassung angehören, jährlich für das Vorjahr Angaben zu folgenden Erhebungsmerkmalen:
 
-1.
+1. die Menge des Bezugs, des Bestands, des Verbrauchs und der Abgabe von Energieträgern, getrennt nach Art und Energiegehalt,
 
-2.
+2. die Menge der Eigenerzeugung und des Verbrauchs von Elektrizität,
 
-3.
+3. die Menge der bezogenen Elektrizität und Wärme, getrennt nach Lieferantengruppen und Einfuhr,
 
-4.
+4. die Menge der abgegebenen Elektrizität und Wärme, getrennt nach Abnehmergruppen und Ausfuhr,
 
-5.
+5. die Menge der energetischen und nichtenergetischen Verwendung der Energieträger.
 
 ### § 9 — Hilfsmerkmale
 
-Hilfsmerkmale bei der Erhebung sind: Bei Betreibern von Elektrizitätsversorgungsnetzen ist der Standort der Anlage kein Hilfsmerkmal, sondern Erhebungsmerkmal nach § 3 Absatz 3 Satz 1 Nummer 3.
+Hilfsmerkmale bei der Erhebung sind:
 
-1.
+1. Name, Anschrift, Telefonnummer und E-Mail-Adresse des Unternehmens, des Betriebes oder der sonstigen Einrichtung,
 
-2.
+2. Name und Kontaktdaten der für Rückfragen zur Verfügung stehenden Personen,
 
-3.
+3. Art und Standort der Anlagen.
 
 ### § 10 — Auskunftspflicht
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Die Auskunftserteilung zu den Angaben nach § 9 Satz 1 Nummer 2 ist freiwillig.
 
-(2) Auskunftspflichtig sind Von der Auskunftspflicht nach Satz 1 Nummer 5 ausgenommen sind Unternehmen, Betriebe oder sonstige Einrichtungen, die Anlagen zur Gewinnung, zum Transport oder zur Speicherung von Biogas betreiben.
+(2) Auskunftspflichtig sind
 
-1.
+1. für die Erhebungen nach § 3 Absatz 1 bis 4: a)die Leitungen der Unternehmen, Betriebe oder sonstigen Einrichtungen, die Anlagen zur Erzeugung oder Speicherung betreiben, andere mit Energie versorgen, einen anderen Energieversorger mit Elektrizität beliefern oder ein Netz für die allgemeine Versorgung betreiben,b)die Leitungen der Unternehmen, Betriebe oder sonstigen Einrichtungen, die sich der Anlagen zur Übertragung und Verteilung bedienen,c)die Leitungen der Unternehmen, Betriebe oder sonstigen Einrichtungen zur thermischen Verwertung von Abfällen, die Leitungen der Unternehmen, Betriebe oder sonstigen Einrichtungen, die Anlagen zur Erzeugung oder Speicherung betreiben, andere mit Energie versorgen, einen anderen Energieversorger mit Elektrizität beliefern oder ein Netz für die allgemeine Versorgung betreiben, die Leitungen der Unternehmen, Betriebe oder sonstigen Einrichtungen, die sich der Anlagen zur Übertragung und Verteilung bedienen, die Leitungen der Unternehmen, Betriebe oder sonstigen Einrichtungen zur thermischen Verwertung von Abfällen,
 
-a)
+2. für die Erhebung nach § 3 Absatz 5 die Leitungen der Unternehmen oder Betriebe des Bergbaus, des Verarbeitenden Gewerbes oder der Gewinnung von Steinen und Erden, soweit diese Unternehmen oder Betriebe Anlagen zur Erzeugung für die Eigenversorgung betreiben,
 
-b)
+3. für die Erhebung nach § 4 Absatz 1 die Leitungen der Unternehmen, Betriebe oder sonstigen Einrichtungen, die Anlagen zur Gewinnung, zum Transport oder zur Speicherung von Erdgas betreiben,
 
-c)
+4. für die Erhebung nach § 4 Absatz 2: a)die Leitungen der Unternehmen, Betriebe oder sonstigen Einrichtungen, die Anlagen zur Gewinnung, zum Transport oder zur Speicherung von Erdgas betreiben,b)die Leitungen der Unternehmen, die Großhändler sind und Ein- und Ausfuhr betreiben, die Leitungen der Unternehmen, Betriebe oder sonstigen Einrichtungen, die Anlagen zur Gewinnung, zum Transport oder zur Speicherung von Erdgas betreiben, die Leitungen der Unternehmen, die Großhändler sind und Ein- und Ausfuhr betreiben,
 
-2.
+5. für die Erhebung nach § 4 Absatz 3: a)die Leitungen der Unternehmen, Betriebe oder sonstigen Einrichtungen, die Anlagen zur Gewinnung, zur Erzeugung, zum Transport, zur Speicherung, zum Vertrieb oder zur leitungsgebundenen Verteilung von Gas betreiben,b)die Leitungen der Unternehmen, Betriebe oder sonstigen Einrichtungen, die sich der Anlagen zur leitungsgebundenen Verteilung von Gas bedienen,c)die Leitungen der Unternehmen, die Gaslieferant oder Großhändler sind, die Leitungen der Unternehmen, Betriebe oder sonstigen Einrichtungen, die Anlagen zur Gewinnung, zur Erzeugung, zum Transport, zur Speicherung, zum Vertrieb oder zur leitungsgebundenen Verteilung von Gas betreiben, die Leitungen der Unternehmen, Betriebe oder sonstigen Einrichtungen, die sich der Anlagen zur leitungsgebundenen Verteilung von Gas bedienen, die Leitungen der Unternehmen, die Gaslieferant oder Großhändler sind,
 
-3.
+6. für die Erhebung nach § 5: a)die Leitungen der Unternehmen, Betriebe oder sonstigen Einrichtungen, die Heizwerke oder Anlagen zur netzgebundenen Wärmeversorgung einschließlich wärmegeführter Blockheizkraftwerke betreiben,b)die Leitungen der Unternehmen, Betriebe oder sonstigen Einrichtungen, die sich der Anlagen zur Verteilung bedienen, die Leitungen der Unternehmen, Betriebe oder sonstigen Einrichtungen, die Heizwerke oder Anlagen zur netzgebundenen Wärmeversorgung einschließlich wärmegeführter Blockheizkraftwerke betreiben, die Leitungen der Unternehmen, Betriebe oder sonstigen Einrichtungen, die sich der Anlagen zur Verteilung bedienen,
 
-4.
+7. für die Erhebung nach § 6 die Leitungen der Unternehmen,
 
-a)
+8. für die Erhebung nach § 7 Satz 1 Nummer 1 die Leitungen der Unternehmen, die Flüssiggas an Letztverbraucher oder Wiederverkäufer abgeben,
 
-b)
+9. für die Erhebungen nach § 7 Satz 1 Nummer 2 bis 4 die Leitungen der Unternehmen, Betriebe oder sonstigen Einrichtungen, die die Anlagen betreiben,
 
-5.
+10. für die Erhebungen nach § 7 Satz 1 Nummer 5 die Leitungen der Unternehmen, die Mineralöl fördern oder Mineralölerzeugnisse herstellen oder herstellen lassen,
 
-a)
+11. für die Erhebungen nach § 7 Satz 1 Nummer 6 die Leitungen der Unternehmen, die Heizöle oder Flugkraftstoffe an Letztverbraucher abgeben,
 
-b)
-
-c)
-
-6.
-
-a)
-
-b)
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-12.
+12. für die Erhebung nach § 8 die Leitungen der Betriebe und Einrichtungen.
 
 ### § 11 — Durchführung der Erhebung, Übermittlungsfrist
 
@@ -406,11 +254,11 @@ b)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates für die nach den §§ 3, 4 Absatz 3, den §§ 5, 7 und 8 durchzuführenden Erhebungen
 
-1.
+1. die Durchführung einer Erhebung oder die Erhebung einzelner Erhebungsmerkmale auszusetzen, die Periodizität der Erhebungen zu verlängern, Erhebungszeitpunkte zu verschieben sowie den Kreis der Auskunftspflichtigen einzuschränken, wenn die Ergebnisse nicht oder nicht mehr in der ursprünglich vorgesehenen Ausführlichkeit oder Häufigkeit oder zu anderen Zeitpunkten benötigt werden oder wenn tatsächliche Voraussetzungen für eine Erhebung entfallen sind oder sich wesentlich geändert haben,
 
-2.
+2. einzelne neue Erhebungsmerkmale einzuführen, soweit dies zur Deckung eines geänderten Bedarfs für Zwecke der Energiepolitik erforderlich ist und soweit durch gleichzeitige Aussetzung anderer Erhebungsmerkmale eine Erweiterung des Erhebungsumfangs vermieden wird; nicht eingeführt werden dürfen Erhebungsmerkmale, die die Höhe von Umsätzen, von Einnahmen oder von Gewinnen, die Bildungs- oder Sozialdaten oder besondere Kategorien personenbezogener Daten nach Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung betreffen,
 
-3.
+3. die Erhebung von Erhebungsmerkmalen anzuordnen, soweit die Erhebung zur Umsetzung oder Durchführung von Rechtsakten der Europäischen Union erforderlich ist.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für die Erhebungen nach § 4 Absatz 1 und 2 sowie § 6 einzelne Erhebungsmerkmale auszusetzen oder einzelne neue Erhebungsmerkmale einzuführen, die Periodizität der Erhebungen zu verkürzen oder zu verlängern, die Erhebungszeitpunkte zu verschieben sowie den Kreis der Auskunftspflichtigen einzuschränken, wenn dies in Übereinstimmung mit der Übermittlungsverpflichtung der Bundesrepublik Deutschland nach der Verordnung (EG) Nr. 1099/2008 des Europäischen Parlaments und des Rates vom 22. Oktober 2008 über die Energiestatistik (ABl. L 304 vom 14.11.2008, S. 1, L 41 vom 12.2.2009, S. 34), die zuletzt durch die Verordnung (EU) Nr. 431/2014 (ABl. L 131 vom 1.5.2014, S. 1) geändert worden ist, in der jeweils geltenden Fassung geschieht und die Zuverlässigkeit der Ergebnisse nicht beeinträchtigt.
 
@@ -428,11 +276,11 @@ b)
 
 ### § 14 — Nutzung von nach energierechtlichen Vorschriften erhobenen Daten
 
-Das Statistische Bundesamt nutzt für die Erstellung der jeweiligen Bundesstatistik folgende Daten, soweit diese Daten für die Erstellung der jeweiligen Bundesstatistik qualitativ geeignet sind: Soweit das Statistische Bundesamt die in Satz 1 genannten Daten nutzt, sieht es von einer Erhebung bei den nach § 10 Absatz 2 Auskunftspflichtigen ab.
+Das Statistische Bundesamt nutzt für die Erstellung der jeweiligen Bundesstatistik folgende Daten, soweit diese Daten für die Erstellung der jeweiligen Bundesstatistik qualitativ geeignet sind:
 
-1.
+1. die Daten, die im Marktstammdatenregister nach § 111e des Energiewirtschaftsgesetzes gespeichert sind, sowie
 
-2.
+2. die Daten, die auf Grund von Bestimmungen des Energiewirtschaftsgesetzes, des Erneuerbare-Energien-Gesetzes oder des Kraft-Wärme-Kopplungsgesetzes oder der auf Grund dieser Gesetze erlassenen Rechtsverordnungen veröffentlicht worden sind.
 
 ### § 15 — Übergangsregelung
 

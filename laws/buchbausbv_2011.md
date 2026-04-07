@@ -12,8 +12,6 @@ Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt durch Arti
 
 ### § 1 — Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Buchbinders und der Buchbinderin wird nach § 25 der Handwerksordnung für die Ausbildung für das Gewerbe Nummer 39 der Anlage B 1 der Handwerksordnung staatlich anerkannt.
-
 > § 1 Kursivdruck: Müsste richtig „ Anlage B Abschnitt 1“ lauten
 
 ### § 2 — Dauer der Berufsausbildung
@@ -24,63 +22,27 @@ Die Ausbildung dauert drei Jahre.
 
 Die Berufsausbildung gliedert sich in
 
-1.
+1. Pflichtqualifikationen nach § 4 Absatz 2 Abschnitt A und C sowie
 
-2.
+2. zwei im Ausbildungsvertrag festzulegende Wahlqualifikationen nach § 4 Absatz 2 Abschnitt B Nummer 1 sowie
 
-3.
+3. eine im Ausbildungsvertrag festzulegende Wahlqualifikation nach § 4 Absatz 2 Abschnitt B Nummer 2.
 
 ### § 4 — Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Buchbinder und zur Buchbinderin gliedert sich wie folgt (Ausbildungsberufsbild):Abschnitt A Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den Pflichtqualifikation nach § 3 Nummer 1: Abschnitt B Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten aus den Auswahllisten I und II: Abschnitt C Integrative Fertigkeiten, Kenntnisse und Fähigkeiten in den Pflichtqualifikationen nach § 3 Nummer 1:
+(2) Die Berufsausbildung zum Buchbinder und zur Buchbinderin gliedert sich wie folgt (Ausbildungsberufsbild):
 
-1.
+1. Planen und Organisieren von Arbeitsabläufen,
 
-2.
+2. Einrichten von Arbeitsplätzen, Geräten, Maschinen und Anlagen,
 
-3.
+3. Herstellen buchbinderischer Erzeugnisse,
 
-4.
+4. Bewerten und Auswählen von Verarbeitungstechniken,
 
-5.
-
-1.
-
-I.1
-
-I.2
-
-I.3
-
-I.4
-
-I.5
-
-I.6
-
-I.7
-
-I.8
-
-I.9
-
-2.
-
-II.1
-
-II.2
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
+5. Pflegen und Warten;
 
 > § 4 Abs. 2 Abschn. A Eingangssatz Kursivdruck: Müsste richtig „Pflichtqualifikationen" lauten.
 
@@ -98,35 +60,27 @@ II.2
 
 (2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Die Zwischenprüfung findet in den Prüfungsbereichen statt.
+(3) Die Zwischenprüfung findet in den Prüfungsbereichen
 
-1.
+1. Arbeitsplanung und
 
-2.
+2. Buchbinderische Fertigungstechniken
 
 (4) Für den Prüfungsbereich Arbeitsplanung bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er in der Lage ist, a)Arbeitsschritte zu planen, Arbeitsmittel festzulegen, Materialien auszuwählen, Anforderungen des Arbeits-, Gesundheits- und Umweltschutzes sowie der Wirtschaftlichkeit zu berücksichtigen,b)Auftragsdaten zu übernehmen und zu prüfen, Produktdaten sowie manuelle und maschinelle Fertigungstechniken im Planungsprozess umzusetzen,c)Einrichtetätigkeiten für manuelle und maschinelle Fertigung zu planen, dabei Wechselwirkungen von Vorprodukten, Materialien und Maschinen im Verarbeitungsprozess zu berücksichtigen,d)verarbeitungsspezifische Berechnungen durchzuführen; Arbeitsschritte zu planen, Arbeitsmittel festzulegen, Materialien auszuwählen, Anforderungen des Arbeits-, Gesundheits- und Umweltschutzes sowie der Wirtschaftlichkeit zu berücksichtigen, Auftragsdaten zu übernehmen und zu prüfen, Produktdaten sowie manuelle und maschinelle Fertigungstechniken im Planungsprozess umzusetzen, Einrichtetätigkeiten für manuelle und maschinelle Fertigung zu planen, dabei Wechselwirkungen von Vorprodukten, Materialien und Maschinen im Verarbeitungsprozess zu berücksichtigen, verarbeitungsspezifische Berechnungen durchzuführen;
 
-a)
+2. der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
 
-b)
-
-c)
-
-d)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt 120 Minuten.
 
 (5) Für den Prüfungsbereich Buchbinderische Fertigungstechniken bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er in der Lage ist, buchbinderische Erzeugnisse zu planen, herzustellen und den Fertigungsprozess mit praxisüblichen Unterlagen zu dokumentieren;
 
-2.
+2. der Prüfling soll ein Prüfungsstück anfertigen und seine Arbeiten mit praxisüblichen Unterlagen dokumentieren;
 
-3.
+3. die Prüfungszeit beträgt fünf Stunden.
 
 ### § 7 — Gesellenprüfung
 
@@ -136,97 +90,59 @@ d)
 
 (3) Die Gesellenprüfung besteht aus den Prüfungsbereichen
 
-1.
+1. Buchbinderische Fertigung,
 
-2.
+2. Auftragsplanung und Kommunikation,
 
-3.
+3. Fertigungstechniken und buchbinderische Gestaltung,
 
-4.
+4. Wirtschafts- und Sozialkunde.
 
 (4) Für den Prüfungsbereich Buchbinderische Fertigung bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er in der Lage ist, a)Arbeitsabläufe zu planen,b)Geräte und Maschinen hinsichtlich ihrer Grundeinstellungen zu justieren und maschinentechnische Zusammenhänge bei Funktionsprüfungen zu berücksichtigen,c)die für den Arbeitsauftrag benötigten Vorgaben und Materialien zum Einrichten von Maschinen und Geräten zu beschaffen,d)den Arbeitsplatz sowie Maschinen und Geräte einzurichten,e)Produkte in der vorgegebenen Qualität termingerecht, wirtschaftlich und unter Berücksichtigung der Anforderungen des Arbeits-, Gesundheits- und Umweltschutzes herzustellen,f)Fertigungsergebnisse zu prüfen, zu beurteilen und zu optimieren,g)Fertigungsdaten zu kommunizieren und mit praxisüblichen Unterlagen zu dokumentieren; Arbeitsabläufe zu planen, Geräte und Maschinen hinsichtlich ihrer Grundeinstellungen zu justieren und maschinentechnische Zusammenhänge bei Funktionsprüfungen zu berücksichtigen, die für den Arbeitsauftrag benötigten Vorgaben und Materialien zum Einrichten von Maschinen und Geräten zu beschaffen, den Arbeitsplatz sowie Maschinen und Geräte einzurichten, Produkte in der vorgegebenen Qualität termingerecht, wirtschaftlich und unter Berücksichtigung der Anforderungen des Arbeits-, Gesundheits- und Umweltschutzes herzustellen, Fertigungsergebnisse zu prüfen, zu beurteilen und zu optimieren, Fertigungsdaten zu kommunizieren und mit praxisüblichen Unterlagen zu dokumentieren;
 
-a)
+2. dem Prüfungsbereich sind folgende Tätigkeiten zugrunde zu legen: a)in der Wahlqualifikation Einzel- und Sonderfertigung ist ein Produkt zu gestalten, herzustellen oder instand zu setzen; dabei ist eine der im Ausbildungsvertrag festgelegten Wahlqualifikationen nach § 4 Absatz 2 Abschnitt B Nummer 1 zu berücksichtigen oderb)in der Wahlqualifikation Maschinelle Fertigung sind drei unterschiedliche Maschinen einzustellen sowie ein Fertigungsmuster herzustellen; dabei ist eine der im Ausbildungsvertrag festgelegten Wahlqualifikationen nach § 4 Absatz 2 Abschnitt B Nummer 1 zu berücksichtigen; in der Wahlqualifikation Einzel- und Sonderfertigung ist ein Produkt zu gestalten, herzustellen oder instand zu setzen; dabei ist eine der im Ausbildungsvertrag festgelegten Wahlqualifikationen nach § 4 Absatz 2 Abschnitt B Nummer 1 zu berücksichtigen oder in der Wahlqualifikation Maschinelle Fertigung sind drei unterschiedliche Maschinen einzustellen sowie ein Fertigungsmuster herzustellen; dabei ist eine der im Ausbildungsvertrag festgelegten Wahlqualifikationen nach § 4 Absatz 2 Abschnitt B Nummer 1 zu berücksichtigen;
 
-b)
+3. der Prüfling soll eine Arbeitsaufgabe sowie ein situatives Fachgespräch durchführen und seine Arbeiten mit praxisüblichen Unterlagen dokumentieren;
 
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-2.
-
-a)
-
-b)
-
-3.
-
-4.
+4. die Prüfungszeit beträgt sieben Stunden, innerhalb dieser Zeit soll das situative Fachgespräch höchstens zehn Minuten dauern.
 
 (5) Für den Prüfungsbereich Auftragsplanung und Kommunikation bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er in der Lage ist, a)Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben kundenorientiert zu planen, durchzuführen und zu dokumentieren,b)Arbeitsschritte unter Einbeziehung von Informationen vor- und nachgelagerter Bereiche zu planen,c)Auftragsdaten auszuwerten, zu kommunizieren und zu dokumentieren,d)Eigenschaften von Vorprodukten und Materialien, sowie deren Wechselwirkungen untereinander und mit den eingesetzten Maschinen und Geräten zu berücksichtigen,e)planungsrelevante Berechnungen durchzuführen; Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben kundenorientiert zu planen, durchzuführen und zu dokumentieren, Arbeitsschritte unter Einbeziehung von Informationen vor- und nachgelagerter Bereiche zu planen, Auftragsdaten auszuwerten, zu kommunizieren und zu dokumentieren, Eigenschaften von Vorprodukten und Materialien, sowie deren Wechselwirkungen untereinander und mit den eingesetzten Maschinen und Geräten zu berücksichtigen, planungsrelevante Berechnungen durchzuführen;
 
-a)
+2. der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
 
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt 120 Minuten.
 
 (6) Für den Prüfungsbereich Fertigungstechniken und buchbinderische Gestaltung bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er in der Lage ist, a)Gestaltungsmöglichkeiten hinsichtlich ihrer Einsatzgebiete zu unterscheiden und Hauptproduktgruppen zuzuordnen,b)Produktionsbedingungen in Bezug auf Gestaltung, Materialien und Fertigungstechniken einschließlich der betrieblichen Rahmenbedingungen zu beurteilen und darzustellen,c)qualitätssichernde Maßnahmen für die Optimierung der Fertigung anzuwenden,d)fertigungstechnische Berechnungen durchzuführen; Gestaltungsmöglichkeiten hinsichtlich ihrer Einsatzgebiete zu unterscheiden und Hauptproduktgruppen zuzuordnen, Produktionsbedingungen in Bezug auf Gestaltung, Materialien und Fertigungstechniken einschließlich der betrieblichen Rahmenbedingungen zu beurteilen und darzustellen, qualitätssichernde Maßnahmen für die Optimierung der Fertigung anzuwenden, fertigungstechnische Berechnungen durchzuführen;
 
-a)
+2. der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
 
-b)
-
-c)
-
-d)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt 120 Minuten.
 
 (7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen;
 
-2.
+2. der Prüfling soll praxisorientierte Aufgaben schriftlich bearbeiten;
 
-3.
+3. die Prüfungszeit beträgt 60 Minuten.
 
 ### § 8 — Gewichtungs- und Bestehensregelung
 
-(1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
+(2) Die Gesellenprüfung ist bestanden, wenn die Leistungen
 
-(2) Die Gesellenprüfung ist bestanden, wenn die Leistungen bewertet worden sind.
+1. im Gesamtergebnis mit mindestens „ausreichend“,
 
-1.
+2. im Prüfungsbereich „Buchbinderische Fertigung“ mit mindestens „ausreichend“,
 
-2.
+3. in mindestens zwei weiteren Prüfungsbereichen mit mindestens „ausreichend“ und
 
-3.
-
-4.
+4. in keinem Prüfungsbereich mit „ungenügend“
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der schlechter als „ausreichend“ bewerteten Prüfungsbereiche „Auftragsplanung und Kommunikation“ oder „Fertigungstechniken und buchbinderische Gestaltung“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
@@ -240,228 +156,48 @@ Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt die Verord
 
 ### Anlage — (zu § 4 Absatz 1 Satz 1)
 
-a)
+a) Arbeitsunterlagen auf Vollständigkeit prüfen und Umsetzbarkeit der Vorgaben abschätzen
 
-b)
+b) Arbeitsabläufe nach organisatorischen, fertigungstechnischen und wirtschaftlichen Kriterien festlegen, dabei Gestaltungsaspekte berücksichtigen
 
-c)
+c) Materialeinsatz disponieren, Verfügbarkeit von Materialien, Werkzeugen und Geräten sicherstellen
 
-d)
+d) Materialeingangskontrolle durchführen
 
-e)
+e) Materialfluss sowie material- und transportgerechte Lagerung von Produkten planen
 
-a)
+a) Abläufe kostenbewusst steuern
 
-b)
+b) Auftragsanweisungen und fertigungstechnische Unterlagen erstellen
 
-c)
+c) Schutzrechte sowie datenschutzrechtliche Aspekte bei der Auftragsvorbereitung berücksichtigen
 
-d)
+d) Musterdokumentation anlegen und pflegen
 
-e)
+e) Trends bewerten und Zielgruppen erschließen
 
-a)
+f) Werbemaßnahmen zur Kundengewinnung und Kundenbindung einschließlich ihrer Kontrollmöglichkeiten darstellen und durchführen
 
-b)
+a) Arbeitsabläufe für Einzel- und Kleinserienfertigung festlegen sowie Materialien auf Qualität, Beschaffenheit und Verarbeitungsfähigkeit prüfen
 
-c)
+b) Produkte in manuellen Einband- und Bindetechniken sowie mit Plastik-, Spiral- und Drahtkammbindungen herstellen
 
-d)
+c) Produkte, insbesondere durch Prägen, Schnittveredeln, Stanzen, Kapitalen sowie Anbringen von Zeichenbändern, ausstatten und veredeln
 
-e)
+d) Mappen und Vollkartonagen herstellen
 
-a)
+e) Schäden an instand zu setzenden Produkten feststellen, Arbeitsaufwand und -weg planen, Kosten ermitteln und Instandsetzung durchführen
 
-b)
+f) Produkte lagern, transport- und versandfertig machen
 
-c)
+g) Arbeitsergebnisse prüfen, beurteilen und dokumentieren
 
-a)
+a) Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
-b)
+b) gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
 
-c)
+c) Möglichkeiten der beruflichen Fortbildung nennen
 
-1. Auswahlliste I
+d) wesentliche Teile des Arbeitsvertrages nennen
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-2. Auswahlliste II
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
+e) wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen

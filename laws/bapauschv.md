@@ -16,11 +16,11 @@ Auf Grund des § 226 Abs. 4 des Sechsten Buches Sozialgesetzbuch - Gesetzliche R
 
 (1) Für die Berechnung des jährlichen Ausgleichsbetrags (AB) in § 224 Abs. 1 des Sechsten Buches Sozialgesetzbuch sind zugrunde zu legen:
 
-1.
+1. die Anzahl der im jeweiligen Kalenderjahr durch die Rentenversicherungsträger erstmals oder durch Rentenänderung neu zugegangenen arbeitsmarktbedingten Erwerbsminderungsrenten (AE),
 
-2.
+2. die Hälfte der durchschnittlichen monatlichen Rente wegen voller Erwerbsminderung einschließlich der darauf entfallenden Beteiligung der Rentenversicherung an den Beiträgen zur Krankenversicherung (RA),
 
-3.
+3. eine durchschnittliche Dauer des Anspruchs auf Arbeitslosengeld von 10,4 Monaten.
 
 (2) Der Ausgleichsbetrag wird nach folgender Formel berechnet:
 

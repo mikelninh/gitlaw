@@ -19,5 +19,3 @@ Fertigarzneimittel nach § 4 Absatz 1 des Arzneimittelgesetzes, die am 1. Juni 2
 § 2 tritt am 1. Juli 2023 außer Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Jugend, Familie und Gesundheit

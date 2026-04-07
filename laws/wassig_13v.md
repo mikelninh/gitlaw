@@ -12,7 +12,9 @@ Auf Grund des § 13 Abs. 2 des Wassersicherstellungsgesetzes vom 24. August 1965
 
 ### § 1
 
-(1) Die Ermächtigung der Bundesregierung zum Erlaß von Rechtsverordnungen nach § 13 Abs. 1 des Wassersicherstellungsgesetzes wird auf die Landesregierungen übertragen.(2) Die Landesregierungen können die ihnen nach Absatz 1 übertragene Ermächtigung durch Rechtsverordnung weiter übertragen.
+(1) Die Ermächtigung der Bundesregierung zum Erlaß von Rechtsverordnungen nach § 13 Abs. 1 des Wassersicherstellungsgesetzes wird auf die Landesregierungen übertragen.
+
+(2) Die Landesregierungen können die ihnen nach Absatz 1 übertragene Ermächtigung durch Rechtsverordnung weiter übertragen.
 
 ### § 2
 

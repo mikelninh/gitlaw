@@ -12,8 +12,6 @@ Auf Grund des § 17 Absatz 1 Satz 1 des Raumordnungsgesetzes vom 22. Dezember 20
 
 ### § 1 — Raumordnungsplanung in der deutschen ausschließlichen Wirtschaftszone in der Nordsee und in der Ostsee
 
-In der deutschen ausschließlichen Wirtschaftszone in der Nordsee und in der Ostsee werden Ziele und Grundsätze der Raumordnung gemäß der Anlage zu dieser Verordnung als Raumordnungsplan festgelegt.,,
-
 ### § 2 — Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. September 2021 in Kraft. Gleichzeitig treten die Verordnung über die Raumordnung in der deutschen ausschließlichen Wirtschaftszone in der Nordsee vom 21. September 2009 (BGBl. I S. 3107), die durch Artikel 5 der Verordnung vom 2. Juni 2016 (BGBl. I S. 1257) geändert worden ist, und die Verordnung über die Raumordnung in der deutschen ausschließlichen Wirtschaftszone in der Ostsee vom 10. Dezember 2009 (BGBl. I S. 3861) außer Kraft.

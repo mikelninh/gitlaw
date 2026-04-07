@@ -111,8 +111,6 @@ Schwerbehinderter im öffentlichen Personenverkehr
 
 -
 
-> Art. 14 bis 21, 23 bis 26: Änderungsvorschriften. Art. 25 gilt nicht in Berlin
-
 ### Art 26 — Änderung des Bundessozialhilfegesetzes
 
 -
@@ -127,11 +125,21 @@ Schwerbehinderter im öffentlichen Personenverkehr
 
 ### Art 29 — Aufhebung des Graduiertenförderungsgesetzes
 
-(1) Das Graduiertenförderungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1976 (BGBl. I S. 207), geändert durch Gesetz vom 28. März 1978 (BGBl. I S. 445), und die Graduiertenförderungsverordnung in der Fassung der Bekanntmachung vom 22. Januar 1976 (BGBl. I S. 211), geändert durch Verordnung vom 3. April 1981 (BGBl. I S. 342), werden aufgehoben; ausgenommen sind die Bestimmungen über die Rückzahlung von Darlehen. Auf Grund dieser Vorschriften ergangene Bescheide bleiben wirksam bis zum Ablauf des jeweiligen Bewilligungszeitraumes.(2) Für die vorzeitige Rückzahlung der Darlehen nach dem Graduiertenförderungsgesetz gilt § 6 der Darlehensverordnung zum Bundesausbildungsförderungsgesetz in der Fassung der Bekanntmachung vom 9. Juli 1980 (BGBl. I S. 895) sinngemäß.(3) Anstelle der in § 7a Abs. 4 Satz 1 und 2 des Graduiertenförderungsgesetzes für die Rückzahlung der Darlehen genannten Beträge gelten die jeweils in § 18a Abs. 1 Satz 1 und 2 des Bundesausbildungsförderungsgesetzes festgesetzten Beträge; dabei ist das Einkommen abweichend von der Regelung des § 20 Abs. 3 der Graduiertenförderungsverordnung entsprechend § 21 BAföG zu bestimmen.
+(1) Das Graduiertenförderungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1976 (BGBl. I S. 207), geändert durch Gesetz vom 28. März 1978 (BGBl. I S. 445), und die Graduiertenförderungsverordnung in der Fassung der Bekanntmachung vom 22. Januar 1976 (BGBl. I S. 211), geändert durch Verordnung vom 3. April 1981 (BGBl. I S. 342), werden aufgehoben; ausgenommen sind die Bestimmungen über die Rückzahlung von Darlehen. Auf Grund dieser Vorschriften ergangene Bescheide bleiben wirksam bis zum Ablauf des jeweiligen Bewilligungszeitraumes.
+
+(2) Für die vorzeitige Rückzahlung der Darlehen nach dem Graduiertenförderungsgesetz gilt § 6 der Darlehensverordnung zum Bundesausbildungsförderungsgesetz in der Fassung der Bekanntmachung vom 9. Juli 1980 (BGBl. I S. 895) sinngemäß.
+
+(3) Anstelle der in § 7a Abs. 4 Satz 1 und 2 des Graduiertenförderungsgesetzes für die Rückzahlung der Darlehen genannten Beträge gelten die jeweils in § 18a Abs. 1 Satz 1 und 2 des Bundesausbildungsförderungsgesetzes festgesetzten Beträge; dabei ist das Einkommen abweichend von der Regelung des § 20 Abs. 3 der Graduiertenförderungsverordnung entsprechend § 21 BAföG zu bestimmen.
 
 ### Art 30 — Gesetz zur Änderung besoldungsrechtlicher Vorschriften
 
-1. 2. 3. 4.Übergangsvorschrift (1) Nummer 1 findet keine Anwendung für die bis zum 30. Juni 1985 ernannten Beamten, Richter und Soldaten, die Grundwehrdienst oder Zivildienst geleistet haben, sofern die Ernennung wegen des Grundwehrdienstes oder Zivildienstes nicht bis zum 31. Dezember 1983 erfolgen konnte.(2) Absatz 1 gilt entsprechend für Beamte auf Widerruf im Vorbereitungsdienst hinsichtlich Nummer 3.
+1.
+
+4. Übergangsvorschrift
+
+(1) Nummer 1 findet keine Anwendung für die bis zum 30. Juni 1985 ernannten Beamten, Richter und Soldaten, die Grundwehrdienst oder Zivildienst geleistet haben, sofern die Ernennung wegen des Grundwehrdienstes oder Zivildienstes nicht bis zum 31. Dezember 1983 erfolgen konnte.
+
+(2) Absatz 1 gilt entsprechend für Beamte auf Widerruf im Vorbereitungsdienst hinsichtlich Nummer 3.
 
 ### Art 31 — Gesetz zur Einsparung von Personalausgaben in der
 mittelbaren Bundesverwaltung sowie bei der Deutschen
@@ -141,21 +149,29 @@ Bundesbahn und der Deutschen Bundespost
 
 ### Art 32 — Änderung des Beamtenversorgungsgesetzes
 
-(1)(2) Ein am Tag vor Inkrafttreten dieses Gesetzes nach den §§ 71 bis 76 des Beamtenversorgungsgesetzes in der bisherigen Fassung zustehender Anpassungszuschlag wird in Höhe von zwei Dritteln des zu diesem Zeitpunkt zustehenden Betrages weitergewährt. Allgemeine Erhöhungen der den Versorgungsbezügen zugrunde liegenden ruhegehaltfähigen Dienstbezüge führen nicht zu einer Erhöhung dieses Betrages.
+(1)
+
+(2) Ein am Tag vor Inkrafttreten dieses Gesetzes nach den §§ 71 bis 76 des Beamtenversorgungsgesetzes in der bisherigen Fassung zustehender Anpassungszuschlag wird in Höhe von zwei Dritteln des zu diesem Zeitpunkt zustehenden Betrages weitergewährt. Allgemeine Erhöhungen der den Versorgungsbezügen zugrunde liegenden ruhegehaltfähigen Dienstbezüge führen nicht zu einer Erhöhung dieses Betrages.
 
 ### Art 33 — Änderung des Gesetzes über das Bundesverfassungsgericht
 
-(1)(2) Artikel 32 Abs. 2 gilt entsprechend.(3) Die Absätze 1 und 2 gelten nicht im Land Berlin.
+(1)
+
+(2) Artikel 32 Abs. 2 gilt entsprechend.
+
+(3) Die Absätze 1 und 2 gelten nicht im Land Berlin.
 
 ### Art 34 — Änderung des Soldatenversorgungsgesetzes
 
-(1)(2) Ein am Tag vor Inkrafttreten dieses Gesetzes nach § 89b des Soldatenversorgungsgesetzes in der bisherigen Fassung zustehender Anpassungszuschlag wird in Höhe von zwei Dritteln des zu diesem Zeitpunkt zustehenden Betrages weitergewährt. Allgemeine Erhöhungen der den Versorgungsbezügen zugrunde liegenden ruhegehaltfähigen Dienstbezüge führen nicht zu einer Erhöhung dieses Betrages.(3) Die Absätze 1 und 2 gelten nicht im Land Berlin.
+(1)
+
+(2) Ein am Tag vor Inkrafttreten dieses Gesetzes nach § 89b des Soldatenversorgungsgesetzes in der bisherigen Fassung zustehender Anpassungszuschlag wird in Höhe von zwei Dritteln des zu diesem Zeitpunkt zustehenden Betrages weitergewährt. Allgemeine Erhöhungen der den Versorgungsbezügen zugrunde liegenden ruhegehaltfähigen Dienstbezüge führen nicht zu einer Erhöhung dieses Betrages.
+
+(3) Die Absätze 1 und 2 gelten nicht im Land Berlin.
 
 ### Art 35 — Änderung des 2. Haushaltsstrukturgesetzes
 
 -
-
-> Art. 32 Abs. 1, 33 Abs. 1, 34 Abs. 1 u. Art. 35 bis 37: Änderungsvorschriften. Art. 35 Abs. 2 gilt nicht in Berlin
 
 ### Art 36 — Änderung des Investitionshilfegesetzes
 
@@ -171,4 +187,20 @@ Bundesbahn und der Deutschen Bundespost
 
 ### Art 39 — Inkrafttreten
 
-(1) Dieses Gesetz tritt vorbehaltlich der Absätze 2 bis 9 am 1. Januar 1984 in Kraft.(2) Artikel 30 Nr. 2 tritt mit Wirkung vom 1. Januar 1979 in Kraft.(3) Artikel 1 Nr. 14 tritt mit Wirkung vom 1. Januar 1982 in Kraft.(4) Artikel 1 Nr. 45, Artikel 2 Nr. 22 und Artikel 3 Nr. 26 sowie Artikel 36 Nr. 1 bis 8 treten mit Wirkung vom 1. Januar 1983 in Kraft.(5) Artikel 10 tritt mit Wirkung vom 1. Juli 1983 in Kraft. Hat ein erstattungspflichtiger Leistungsträger vor Verkündigung dieses Gesetzes Leistungen erbracht, findet § 104 Abs. 2 des Zehnten Buches Sozialgesetzbuch keine Anwendung.(6) Artikel 24 Nr. 2 tritt am 30. Dezember 1983 in Kraft.(7) Artikel 1 Nr. 34 Buchstaben b und c, Artikel 2 Nr. 11 Buchstaben b und c und Artikel 3 Nr. 14 Buchstabe b und Nr. 15 treten am 31. Dezember 1983 in Kraft.(8) Artikel 20 Nr. 1, 2, 4 bis 8 und Artikel 21 treten am 1. April 1984 in Kraft.(9) Artikel 1 Nr. 9 Buchstabe b tritt am 1. Januar 1985 in Kraft.
+(1) Dieses Gesetz tritt vorbehaltlich der Absätze 2 bis 9 am 1. Januar 1984 in Kraft.
+
+(2) Artikel 30 Nr. 2 tritt mit Wirkung vom 1. Januar 1979 in Kraft.
+
+(3) Artikel 1 Nr. 14 tritt mit Wirkung vom 1. Januar 1982 in Kraft.
+
+(4) Artikel 1 Nr. 45, Artikel 2 Nr. 22 und Artikel 3 Nr. 26 sowie Artikel 36 Nr. 1 bis 8 treten mit Wirkung vom 1. Januar 1983 in Kraft.
+
+(5) Artikel 10 tritt mit Wirkung vom 1. Juli 1983 in Kraft. Hat ein erstattungspflichtiger Leistungsträger vor Verkündigung dieses Gesetzes Leistungen erbracht, findet § 104 Abs. 2 des Zehnten Buches Sozialgesetzbuch keine Anwendung.
+
+(6) Artikel 24 Nr. 2 tritt am 30. Dezember 1983 in Kraft.
+
+(7) Artikel 1 Nr. 34 Buchstaben b und c, Artikel 2 Nr. 11 Buchstaben b und c und Artikel 3 Nr. 14 Buchstabe b und Nr. 15 treten am 31. Dezember 1983 in Kraft.
+
+(8) Artikel 20 Nr. 1, 2, 4 bis 8 und Artikel 21 treten am 1. April 1984 in Kraft.
+
+(9) Artikel 1 Nr. 9 Buchstabe b tritt am 1. Januar 1985 in Kraft.

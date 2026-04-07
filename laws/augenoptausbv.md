@@ -21,41 +21,25 @@ Die Ausbildung dauert drei Jahre.
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Augenoptiker und zur Augenoptikerin gliedert sich wie folgt (Ausbildungsberufsbild):Abschnitt A Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten: Abschnitt B Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
+(2) Die Berufsausbildung zum Augenoptiker und zur Augenoptikerin gliedert sich wie folgt (Ausbildungsberufsbild):
 
-1.
+1. Brillengläser bearbeiten und einfassen,
 
-2.
+2. Werkzeuge und Maschinen pflegen,
 
-3.
+3. Brillen modifizieren und instand setzen,
 
-4.
+4. Brillengläser, Kontaktlinsen und vergrößernde Sehhilfen nach optischen Eigenschaften und Wirkungen beurteilen,
 
-5.
+5. Kundenspezifische Sehanforderungen ermitteln und Kunden beraten: 5.1Korrektionsbedarf ermitteln,5.2Kunden beraten und Dienstleistungen anbieten, Korrektionsbedarf ermitteln, Kunden beraten und Dienstleistungen anbieten,
 
-5.1
+6. Brillen optisch und anatomisch anpassen,
 
-5.2
+7. Sehhilfen abgeben,
 
-6.
+8. Waren verkaufen,
 
-7.
-
-8.
-
-9.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
+9. Rechnungswesen und Kalkulation durchführen.
 
 ### § 4 — Durchführung der Berufsausbildung
 
@@ -81,25 +65,13 @@ Die Ausbildung dauert drei Jahre.
 
 (4) Für den Prüfungsbereich bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er in der Lage ist a)verschiedene Form- und Fügetechniken auszuwählen und anzuwenden,b)Fassungsteile nach Vorlage herzustellen oder zu modifizieren,c)sphärisch und torisch monofokale Brillengläser zu prüfen, zu messen, zu zentrieren, manuell zu bearbeiten und in eine Fassung einzuarbeiten,d)Arbeitsergebnisse zu bewerten; verschiedene Form- und Fügetechniken auszuwählen und anzuwenden, Fassungsteile nach Vorlage herzustellen oder zu modifizieren, sphärisch und torisch monofokale Brillengläser zu prüfen, zu messen, zu zentrieren, manuell zu bearbeiten und in eine Fassung einzuarbeiten, Arbeitsergebnisse zu bewerten;
 
-a)
+2. dem Prüfungsbereich sind folgende Tätigkeiten zugrunde zu legen: a)Reparatur einer Brillenfassung undb)Umarbeitung eines Brillenglaspaares per Hand in eine Metallvollrandfassung; Reparatur einer Brillenfassung und Umarbeitung eines Brillenglaspaares per Hand in eine Metallvollrandfassung;
 
-b)
+3. der Prüfling soll eine Arbeitsaufgabe durchführen und Aufgaben schriftlich bearbeiten, die sich inhaltlich auf die durchgeführte Arbeitsaufgabe beziehen. Dabei ist die Reparatur einer Brillenfassung mit 30 Prozent, die Umarbeitung eines Brillenglaspaares mit 40 Prozent und die Bearbeitung der schriftlichen Aufgaben mit 30 Prozent zu gewichten;
 
-c)
-
-d)
-
-2.
-
-a)
-
-b)
-
-3.
-
-4.
+4. die Prüfungszeit beträgt 330 Minuten; innerhalb dieser Zeit soll die Bearbeitung der schriftlichen Aufgaben in 90 Minuten durchgeführt werden.
 
 ### § 7 — Teil 2 der Gesellenprüfung
 
@@ -107,89 +79,59 @@ b)
 
 (2) Teil 2 der Gesellenprüfung besteht aus den Prüfungsbereichen:
 
-1.
+1. Herstellen einer randlosen Korrektionsbrille,
 
-2.
+2. Augenoptische Versorgung,
 
-3.
+3. Auge und Sehhilfe,
 
-4.
+4. Wirtschafts- und Sozialkunde.
 
 (3) Für den Prüfungsbereich Herstellen einer randlosen Korrektionsbrille bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er in der Lage ist a)multifokale Brillengläser nach vorgegebenen Daten zu messen und zu zentrieren sowie mit automatischer Randschleifmaschine zu bearbeiten und in eine randlose Fassung zu montieren,b)die Brille abgabefähig auszurichten,c)das Arbeitsergebnis zu beurteilen und zu dokumentieren; multifokale Brillengläser nach vorgegebenen Daten zu messen und zu zentrieren sowie mit automatischer Randschleifmaschine zu bearbeiten und in eine randlose Fassung zu montieren, die Brille abgabefähig auszurichten, das Arbeitsergebnis zu beurteilen und zu dokumentieren;
 
-a)
+2. der Prüfling soll ein Prüfungsstück anfertigen und das Arbeitsergebnis mit praxisüblichen Unterlagen dokumentieren;
 
-b)
-
-c)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt 150 Minuten.
 
 (4) Für den Prüfungsbereich Augenoptische Versorgung bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er in der Lage ist a)Kundenwünsche zu ermitteln,b)Kunden über Brillengläser nach Glastyp, Werkstoff, Veredelung und Farbgebung unter Berücksichtigung der individuellen Sehanforderung zu beraten,c)Brillenfassung voranzupassen,d)Zentrierdaten zu ermitteln,e)Brillengläser in die vorangepasste Fassung nach ermittelten Zentrierdaten einzuarbeiten,f)die Endanpassung vorzunehmen und Kunden in den Gebrauch einzuweisen; Kundenwünsche zu ermitteln, Kunden über Brillengläser nach Glastyp, Werkstoff, Veredelung und Farbgebung unter Berücksichtigung der individuellen Sehanforderung zu beraten, Brillenfassung voranzupassen, Zentrierdaten zu ermitteln, Brillengläser in die vorangepasste Fassung nach ermittelten Zentrierdaten einzuarbeiten, die Endanpassung vorzunehmen und Kunden in den Gebrauch einzuweisen;
 
-a)
+2. der Prüfling soll eine Arbeitsprobe durchführen;
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt 120 Minuten.
 
 (5) Für den Prüfungsbereich Auge und Sehhilfe bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er in der Lage ist a)Auswirkungen sehleistungsvermindernder Einflüsse und Erkrankungen bei der Auswahl von Sehhilfen zu beschreiben,b)Auswirkungen von Korrektionsmitteln auf anatomische, physiologische und optische Gegebenheiten zu erläutern,c)Eigenschaften und Einsatzmöglichkeiten von Werkstoffen für Kontaktlinsen, Brillengläser und Brillenfassungen zu erläutern,d)die Wirkungsweisen von Kontaktlinsenpflegemitteln zu unterscheiden,e)optische Berechnungen durchzuführen und Eigenschaften von Sehhilfen einschließlich der Abbildungsfehler und Verwendungsmöglichkeiten zu erläutern; Auswirkungen sehleistungsvermindernder Einflüsse und Erkrankungen bei der Auswahl von Sehhilfen zu beschreiben, Auswirkungen von Korrektionsmitteln auf anatomische, physiologische und optische Gegebenheiten zu erläutern, Eigenschaften und Einsatzmöglichkeiten von Werkstoffen für Kontaktlinsen, Brillengläser und Brillenfassungen zu erläutern, die Wirkungsweisen von Kontaktlinsenpflegemitteln zu unterscheiden, optische Berechnungen durchzuführen und Eigenschaften von Sehhilfen einschließlich der Abbildungsfehler und Verwendungsmöglichkeiten zu erläutern;
 
-a)
+2. der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
 
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt 180 Minuten.
 
 (6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
-2.
+2. der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
 
-3.
+3. die Prüfungszeit beträgt 60 Minuten.
 
 ### § 8 — Gewichtungs- und Bestehensregelung
 
-(1) Die Prüfungsbereiche sind wie folgt zu gewichten:
+(2) Die Gesellenprüfung ist bestanden, wenn die Leistungen
 
-(2) Die Gesellenprüfung ist bestanden, wenn die Leistungen bewertet worden sind.
+1. im Gesamtergebnis von Teil 1 und 2 der Gesellenprüfung mit mindestens „ausreichend“,
 
-1.
+2. im Ergebnis von Teil 2 der Gesellenprüfung mit mindestens „ausreichend“,
 
-2.
+3. im Prüfungsbereich „Auge und Sehhilfe“ der Gesellenprüfung mit mindestens „ausreichend“,
 
-3.
+4. in mindestens zwei Prüfungsbereichen von Teil 2 der Gesellenprüfung mit mindestens „ausreichend“ und
 
-4.
-
-5.
+5. in keinem Prüfungsbereich des Teils 2 mit „ungenügend“
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als ausreichend bewerteten Prüfungsbereiche „Auge und Sehhilfe“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
@@ -202,175 +144,3 @@ Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen
 Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Augenoptiker/zur Augenoptikerin vom 4. März 1997 (BGBl. I S. 436) außer Kraft.
 
 ### Anlage — (zu § 3 Absatz 1 Satz 1)
-
-Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)

@@ -12,37 +12,21 @@
 
 ### § 1.01 — Allgemeines
 
-1.
+1. Auf Wasserstraßen der Zone 2-Binnen ist ES-TRIN mit den sich aus den nachfolgenden Vorschriften ergebenden Maßgaben anzuwenden.
 
-2.
+2. Hinsichtlich der vorgeschriebenen Ausrüstungsgegenstände sind die §§ 6.02 bis 6.06 zu erfüllen.
 
-3.
+3. Ein Kompass nach § 6.02 ist nur auf der Kieler Förde erforderlich.
 
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
+4. Ein Radargerät nach § 6.03 ist nur auf a)der Weser unterhalb der stadtbremischen Häfen,b)dem Nord-Ostsee-Kanal,c)der Kieler Förde,d)der Trave unterhalb Stülper Huk,e)der Unterwarnow und Breitling undf)im Wolgaster Hafengebieterforderlich. der Weser unterhalb der stadtbremischen Häfen, dem Nord-Ostsee-Kanal, der Kieler Förde, der Trave unterhalb Stülper Huk, der Unterwarnow und Breitling und im Wolgaster Hafengebiet
 
 > (+++ § 1.01 Nr. 1 u. 2: Zur Anwendung vgl. § 2.01 Nr. 3 +++)
 
 ### § 1.02 — Sonderbestimmungen für Fahrgastschiffe
 
-1.
+1. Für Fahrgastschiffe auf Wasserstraßen der Zone 2-Binnen gelten abweichend von Kapitel 19 ES-TRIN folgende Bestimmungen: a)Bei Fahrgastschiffen ohne Schottendeck muss der Sicherheitsabstand abweichend von Artikel 19.04 Nummer 1 Satz 2 ES-TRIN mindestens 0,80 m betragen.b)Einzelrettungsmittel nach Artikel 19.09 Nummer 4 ES-TRIN können durch Sammelrettungsmittel nach Artikel 19.09 Nummer 5 ES-TRIN in Verbindung mit Nummer 7 und 9 ersetzt werden. Bei Fahrgastschiffen ohne Schottendeck muss der Sicherheitsabstand abweichend von Artikel 19.04 Nummer 1 Satz 2 ES-TRIN mindestens 0,80 m betragen. Einzelrettungsmittel nach Artikel 19.09 Nummer 4 ES-TRIN können durch Sammelrettungsmittel nach Artikel 19.09 Nummer 5 ES-TRIN in Verbindung mit Nummer 7 und 9 ersetzt werden.
 
-a)
-
-b)
-
-2.
+2. Die Bestimmungen des § 6.05 gelten nicht.
 
 > (+++ § 1.02 Buchst. a: Zur Anwendung vgl. § 5.01 Nr. 1 iVm § 5.04 Nr. 1 u. § 5.05 BinSchUO2018Anh II +++)
 
@@ -50,11 +34,11 @@ b)
 
 ### § 2.01 — Allgemeines
 
-1.
+1. Auf Wasserstraßen der Zone 2-See ist ES-TRIN mit den sich aus den nachfolgenden Vorschriften ergebenden Maßgaben anzuwenden.
 
-2.
+2. Die Bestimmungen aus den Kapiteln 3 bis 9 sind zu erfüllen.
 
-3.
+3. Abweichend von den Nummern 1 und 2 ist auf der Ems unterhalb von Emden bis zur Hafeneinfahrt von Delfzijl für Güterschiffe bei geschlossenen Ladeluken, für Schleppboote und Schubboote der § 1.01 Nummer 1 und 2 anzuwenden.
 
 ## Kapitel 3: Festigkeit
 
@@ -65,61 +49,29 @@ b)
 
 ### § 4.01 — Sicherheitsabstand
 
-1.
+1. Der Sicherheitsabstand muss mindestens 0,45 m betragen.
 
-2.
+2. Zu Öffnungen, die sprühwasser- und wetterdicht abgeschlossen sind oder mit Verschlusseinrichtungen versehen sind, muss der Sicherheitsabstand mindestens 0,60 m betragen.
 
-3.
+3. Zu Öffnungen, die offen sind, muss der Sicherheitsabstand mindestens 1,00 m betragen.
 
 ### § 4.02 — Freibord
 
-1.
+1. Der Freibord für Schiffe mit durchlaufendem Deck, ohne Sprung und ohne Aufbauten beträgt 0,30 m.
 
-2.
+2. Bei Schiffen mit Sprung und mit Aufbauten kann der Freibord nach Artikel 4.02 Nummer 2 bis 6 ES-TRIN berichtigt werden: a)Dabei ist aa)die Konstante 150 in der Formel für den Freibord nach Artikel 4.02 Nummer 2 ES-TRIN mit dem Wert 300,bb)für den tatsächlichen Sprung Sv im Vorschiff kein größerer Wert als 2 000 mm undcc)für den tatsächlichen Sprung Sa im Achterschiff kein größerer Wert als 1 000 mmanzusetzen.b)Die Sprunghöhe an den Schiffsenden darf die Höhe bis zum Schiffsende reichender Aufbauten nicht einschließen.c)Bei Berechnungen nach Buchstabe a wird die wirksame Länge des Aufbaus nach folgender Formel berechnet:In diesen Formeln bedeuten: ledie wirksame Länge eines Aufbaus in [m] unabhängig von seiner Lage bezogen auf L,ldie tatsächliche Länge des betreffenden Aufbaus in [m],bdie Breite des betreffenden Aufbaus in [m],B'die Breite des Schiffes gemessen auf der Hälfte der Länge des Aufbaus, Deckshauses oder Lukenschachts in [m],hdie an der Aufbau-, Deckshaus- oder Lukenseite gemessene Höhe des betreffenden Aufbaus in [m], für Luken ergibt sich die Höhe h, indem die Höhe der Sülle um den halben Sicherheitsabstand nach § 4.01 unter Berücksichtigung der Art der Lukenabdeckung vermindert wird. Für die Höhe h darf kein größerer Wert eingesetzt werden als 0,72 m.Wenn kleiner ist als 0,6, ist die wirksame Aufbaulänge le gleich Null zu setzen. Dabei ist aa)die Konstante 150 in der Formel für den Freibord nach Artikel 4.02 Nummer 2 ES-TRIN mit dem Wert 300,bb)für den tatsächlichen Sprung Sv im Vorschiff kein größerer Wert als 2 000 mm undcc)für den tatsächlichen Sprung Sa im Achterschiff kein größerer Wert als 1 000 mmanzusetzen. die Konstante 150 in der Formel für den Freibord nach Artikel 4.02 Nummer 2 ES-TRIN mit dem Wert 300, für den tatsächlichen Sprung Sv im Vorschiff kein größerer Wert als 2 000 mm und für den tatsächlichen Sprung Sa im Achterschiff kein größerer Wert als 1 000 mm Die Sprunghöhe an den Schiffsenden darf die Höhe bis zum Schiffsende reichender Aufbauten nicht einschließen. Bei Berechnungen nach Buchstabe a wird die wirksame Länge des Aufbaus nach folgender Formel berechnet: In diesen Formeln bedeuten: ledie wirksame Länge eines Aufbaus in [m] unabhängig von seiner Lage bezogen auf L,ldie tatsächliche Länge des betreffenden Aufbaus in [m],bdie Breite des betreffenden Aufbaus in [m],B'die Breite des Schiffes gemessen auf der Hälfte der Länge des Aufbaus, Deckshauses oder Lukenschachts in [m],hdie an der Aufbau-, Deckshaus- oder Lukenseite gemessene Höhe des betreffenden Aufbaus in [m], für Luken ergibt sich die Höhe h, indem die Höhe der Sülle um den halben Sicherheitsabstand nach § 4.01 unter Berücksichtigung der Art der Lukenabdeckung vermindert wird. Für die Höhe h darf kein größerer Wert eingesetzt werden als 0,72 m. die wirksame Länge eines Aufbaus in [m] unabhängig von seiner Lage bezogen auf L, die tatsächliche Länge des betreffenden Aufbaus in [m], die Breite des betreffenden Aufbaus in [m], die Breite des Schiffes gemessen auf der Hälfte der Länge des Aufbaus, Deckshauses oder Lukenschachts in [m], die an der Aufbau-, Deckshaus- oder Lukenseite gemessene Höhe des betreffenden Aufbaus in [m], für Luken ergibt sich die Höhe h, indem die Höhe der Sülle um den halben Sicherheitsabstand nach § 4.01 unter Berücksichtigung der Art der Lukenabdeckung vermindert wird. Für die Höhe h darf kein größerer Wert eingesetzt werden als 0,72 m. Wenn kleiner ist als 0,6, ist die wirksame Aufbaulänge le gleich Null zu setzen.
 
-a)
-
-aa)
-
-bb)
-
-cc)
-
-b)
-
-c)
-
-l
-
-l
-
-b
-
-B'
-
-h
-
-3.
-
-a)
-
-aa)
-
-bb)
-
-cc)
-
-b)
+3. Unter Berücksichtigung der Freibordberichtigung nach Nummer 2 muss der Freibord mindestens 0,15 m betragen. Dabei müssen die nachfolgenden Bedingungen erfüllt sein: a)Der Sicherheitsabstand beträgt aa)bei wasserdichten Ladeluken mindestens 0,60 m bis Oberkante Ladelukensüll,bb)bei sprühwasser- und wetterdichten Ladeluken mindestens 0,75 m,cc)bei offenen Ladeluken mindestens 1,20 m.b)Die durchschnittliche Breite des Gangbords beträgt höchstens 0,125 · B. Der Sicherheitsabstand beträgt aa)bei wasserdichten Ladeluken mindestens 0,60 m bis Oberkante Ladelukensüll,bb)bei sprühwasser- und wetterdichten Ladeluken mindestens 0,75 m,cc)bei offenen Ladeluken mindestens 1,20 m. bei wasserdichten Ladeluken mindestens 0,60 m bis Oberkante Ladelukensüll, bei sprühwasser- und wetterdichten Ladeluken mindestens 0,75 m, bei offenen Ladeluken mindestens 1,20 m. Die durchschnittliche Breite des Gangbords beträgt höchstens 0,125 · B.
 
 ## Kapitel 5: Verschlusszustand der Öffnungen des Schiffskörpers und der Aufbauten
 
 ### § 5.01 — Aufbauten
 
-1.
+1. Alle Öffnungen in den Aufbauten müssen mit Süllen von mindestens 0,15 m Höhe über dem Schottendeck versehen sein.
 
-2.
+2. Die Süllhöhe kann geringer sein, wenn die Türen und sonstigen Öffnungen wasserdicht verschließbar sind und wenn die Benutzung während der Fahrt ausgeschlossen ist.
 
-3.
+3. Sofern Deckel von Einstiegsluken und Mannlöchern nicht durch Verschraubungen gesichert sind, müssen sie durch Scharniere fest mit dem Schiff verbunden sein.
 
 ### § 5.02 — Türen
 
@@ -127,41 +79,21 @@ Alle äußeren Türen, die Zugang zu Räumen unter dem Freiborddeck gewähren, m
 
 ### § 5.03 — Fenster und Oberlichter
 
-1.
+1. Fenster unterhalb des Schottendecks müssen wasserdicht und mit einer Seeschlagblende versehen sein.
 
-2.
+2. Fenster und Oberlichter bis 0,15 m oberhalb des Schottendecks müssen wasserdicht sein.
 
-3.
+3. Liegt die Unterkante von Fenstern und Oberlichtern mindestens 0,15 m oberhalb des Schottendecks, müssen sie mindestens sprühwasser- und wetterdicht sein.
 
-4.
-
-a)
-
-b)
-
-c)
+4. Fenster und Oberlichter gelten als a)wasserdicht, wenn ihre Ausführung mindestens der Baureihe B und der nicht zu öffnenden Bauart der Norm DIN ISO 1751, Ausgabe Dezember 2015, entspricht;b)sprühwasser- und wetterdicht, wenn ihre Ausführung als runde Fenster mindestens der Baureihe C der Norm DIN ISO 1751, Ausgabe Dezember 2015, und als rechteckige Fenster mindestens der Baureihe F der Norm DIN ISO 3903, Ausgabe Dezember 2015, entspricht;c)offen, wenn ihre Ausführung den in Buchstabe a und b genannten Normen nicht entspricht. wasserdicht, wenn ihre Ausführung mindestens der Baureihe B und der nicht zu öffnenden Bauart der Norm DIN ISO 1751, Ausgabe Dezember 2015, entspricht; sprühwasser- und wetterdicht, wenn ihre Ausführung als runde Fenster mindestens der Baureihe C der Norm DIN ISO 1751, Ausgabe Dezember 2015, und als rechteckige Fenster mindestens der Baureihe F der Norm DIN ISO 3903, Ausgabe Dezember 2015, entspricht; offen, wenn ihre Ausführung den in Buchstabe a und b genannten Normen nicht entspricht.
 
 ### § 5.04 — Abdeckung der Laderäume
 
-1.
+1. Die wasserdichte Abdeckung der Laderäume muss folgenden Bestimmungen genügen: a)Die Festigkeit und Konstruktion der Einzelteile muss aa)einer Belastung durch Wasser vonq = 1,00 – h [t/m2]zuzüglich Eigengewicht der Deckel, mindestens jedoch von 0,15 t/m² zuzüglich Eigengewicht der Deckel,bb)einer Belastung von 0,075 t als Punktlaststandhalten. In dieser Formel bedeutet: hAbstand des tiefsten Punkts der Lukenabdeckung von der Ebene der zulässigen größten Einsenkung [m].Bei Tankschiffen ist darüber hinaus mindestens der Prüfdruck der Tanks zu berücksichtigen.b)Wasserdichte Lukendeckel müssen durch Schraubverschlüsse oder Vorreiber abgedichtet sein; dies gilt nicht bei seemäßig verschalkten Abdeckungen der Laderäume. Die Festigkeit und Konstruktion der Einzelteile muss aa)einer Belastung durch Wasser vonq = 1,00 – h [t/m2]zuzüglich Eigengewicht der Deckel, mindestens jedoch von 0,15 t/m² zuzüglich Eigengewicht der Deckel,bb)einer Belastung von 0,075 t als Punktlaststandhalten. In dieser Formel bedeutet: hAbstand des tiefsten Punkts der Lukenabdeckung von der Ebene der zulässigen größten Einsenkung [m]. einer Belastung durch Wasser von q = 1,00 – h [t/m2] zuzüglich Eigengewicht der Deckel, mindestens jedoch von 0,15 t/m² zuzüglich Eigengewicht der Deckel, einer Belastung von 0,075 t als Punktlast Abstand des tiefsten Punkts der Lukenabdeckung von der Ebene der zulässigen größten Einsenkung [m]. Bei Tankschiffen ist darüber hinaus mindestens der Prüfdruck der Tanks zu berücksichtigen. Wasserdichte Lukendeckel müssen durch Schraubverschlüsse oder Vorreiber abgedichtet sein; dies gilt nicht bei seemäßig verschalkten Abdeckungen der Laderäume.
 
-a)
+2. Die sprühwasser- und wetterdichte Abdeckung der Laderäume muss folgenden Bestimmungen genügen: a)Die Festigkeit und Konstruktion der Einzelteile muss den Bestimmungen nach Nummer 1 Buchstabe a entsprechen.b)Es müssen Vorrichtungen vorhanden sein, mit denen die Lukenabdeckungen und ihre Einzelteile gegen ein Abheben durch Wind oder Wellenschlag gesichert werden können.Sprühwasser- und wetterdichte Lukendeckel brauchen nicht besonders abgedichtet zu sein, wenn das Eigengewicht der Deckel und die Form der Lukenverschlüsse eine ausreichende Abdichtung bewirkt. Die Festigkeit und Konstruktion der Einzelteile muss den Bestimmungen nach Nummer 1 Buchstabe a entsprechen. Es müssen Vorrichtungen vorhanden sein, mit denen die Lukenabdeckungen und ihre Einzelteile gegen ein Abheben durch Wind oder Wellenschlag gesichert werden können.
 
-aa)
-
-bb)
-
-h
-
-b)
-
-2.
-
-a)
-
-b)
-
-3.
+3. Laderäume ohne Lukendeckel und mit Lukendeckeln, die den Bestimmungen nach Nummer 1 oder 2 nicht entsprechen, gelten als offen.
 
 ## Kapitel 6: Ausrüstung
 
@@ -171,25 +103,19 @@ Abweichend von Artikel 13.01 Nummer 10 ES-TRIN muss jede Bugankerkette mindesten
 
 ### § 6.02 — Kompass
 
-1.
+1. Fahrzeuge mit eigener Triebkraft müssen mit einem von der zuständigen Behörde zugelassenen Kompass oder mit einem Steuerkurstransmitter, jeweils mit Analoganzeige oder grafischer Darstellung, ausgerüstet sein.
 
-2.
+2. Abweichend von Nummer 1 darf für Fahrzeuge ein Kompass mit numerischer Anzeige oder Steuerkurstransmitter mit numerischer Anzeige verwendet werden, wenn die Fahrzeuge mit einem Radargerät nach § 6.03 ausgerüstet sind.
 
-3.
+3. Kompasse und Steuerkurstransmitter müssen den technischen Anforderungen nach Anlage 1 Teil 1 entsprechen. Entsprechende Ausrüstung, die in Abschnitt D Nummer 10 der Anlage zum Schiffssicherheitsgesetz aufgeführt und nach diesen Anforderungen zugelassen ist, gilt als konform mit diesen Bestimmungen.
 
-4.
-
-a)
-
-b)
-
-c)
+4. Kompasse auf Magnet-Basis und Steuerkurstransmitter auf Magnet-Basis müssen a)vor dem Einbau von der zuständigen Behörde geprüft sein; dies ist nicht erforderlich für Kompasse oder Steuerkurstransmitter, die nach Abschnitt D Nummer 10 der Anlage zum Schiffssicherheitsgesetz zugelassen sind,b)entsprechend den technischen Bestimmungen nach Anlage 1 Teil 2 an Bord eingebaut sein undc)vor Inbetriebnahme sowie spätestens bei jeder Verlängerung der Fahrttauglichkeitsbescheinigung reguliert werden; der Nachweis der Regulierung ist in Form einer Deviationstabelle mitzuführen.Die maximale Deviation darf nach der Regulierung nicht mehr als 6 Grad betragen. vor dem Einbau von der zuständigen Behörde geprüft sein; dies ist nicht erforderlich für Kompasse oder Steuerkurstransmitter, die nach Abschnitt D Nummer 10 der Anlage zum Schiffssicherheitsgesetz zugelassen sind, entsprechend den technischen Bestimmungen nach Anlage 1 Teil 2 an Bord eingebaut sein und vor Inbetriebnahme sowie spätestens bei jeder Verlängerung der Fahrttauglichkeitsbescheinigung reguliert werden; der Nachweis der Regulierung ist in Form einer Deviationstabelle mitzuführen.
 
 ### § 6.03 — Navigationsradaranlage
 
-1.
+1. Fahrzeuge mit eigener Triebkraft müssen mit einer Navigationsradaranlage nach Artikel 7.06 Nummer 1 ES-TRIN ausgerüstet sein.
 
-2.
+2. Nummer 1 gilt nicht für Seeschiffe mit Seeradar.
 
 ### § 6.04 — Sende- und Empfangsanlagen
 
@@ -197,27 +123,21 @@ Fahrzeuge mit eigener Triebkraft müssen mit einer Funkanlage für die Teilnahme
 
 ### § 6.05 — Rettungsmittel
 
-1.
+1. Ein Drittel der vorgeschriebenen Rettungsringe muss mit jeweils einer mindestens 30 m langen, schwimmfähigen Leine von 8 bis 11 mm Durchmesser, ein weiteres Drittel muss mit jeweils einem selbstzündenden, batteriebetriebenen, im Wasser nicht verlöschenden Licht versehen sein.
 
-2.
+2. Zusätzlich zu Artikel 13.08 ES-TRIN muss für jede an Bord befindliche Person ein Platz in einem Sammelrettungsmittel nach Artikel 19.09 Nummer 5 ES-TRIN in Verbindung mit dessen Nummer 7 bis 9 vorhanden sein.
 
 ### § 6.06 — Sonstige Ausrüstung
 
 Folgende Ausrüstungsgegenstände müssen mindestens vorhanden sein:
 
-a)
+a) die in Artikel 13.02 Nummer 2, 3 und 4 ES-TRIN aufgeführten Ausrüstungsgegenstände;
 
-b)
+b) zusätzliche Geräte und Vorrichtungen, die zum Geben der in der Seeschifffahrtsstraßen-Ordnung und in der Verordnung zu den Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See vorgeschriebenen Sicht- und Schallsignale sowie zur Bezeichnung der Fahrzeuge erforderlich sind;
 
-c)
+c) vom Bordnetz unabhängige Ersatzlichter für die Nachtbezeichnung aa)der Fahrzeuge beim Stillliegen,bb)manövrierunfähiger Fahrzeuge,cc)stillliegender Schiffe mit bestimmten gefährlichen Gütern; der Fahrzeuge beim Stillliegen, manövrierunfähiger Fahrzeuge, stillliegender Schiffe mit bestimmten gefährlichen Gütern;
 
-aa)
-
-bb)
-
-cc)
-
-d)
+d) an Bord von Fahrzeugen mit Besatzung zusätzlich die in § 13 Absatz 1 Nummer 2 Buchstabe a der Schiffssicherheitsverordnung vorgeschriebenen Seekarten; werden Seekarten in digitaler Form verwendet, so müssen diese auf zugelassenen Inland-ECDIS-Geräten im Navigationsmodus nach Artikel 7.06 Nummer 1 ES-TRIN und nach der Prüfvorschrift „Mindestanforderungen an Inland ECDIS Geräte im Navigationsmodus zur Darstellung von digitalen Seekarten nach der Binnenschiffsuntersuchungsordnung“, die vom Bundesministerium für Verkehr und digitale Infrastruktur am 20. Dezember 2018 (BAnz AT 20.12.2018 B6) bekannt gemacht wurde, dargestellt werden.
 
 ## Kapitel 7: Sonderbestimmungen für Fahrgastschiffe
 
@@ -231,19 +151,11 @@ Abweichend von Artikel 3.02 Nummer 1 Buchstabe a ES-TRIN muss der Schiffskörper
 
 ### § 7.03 — Stabilität, Sicherheitsabstand und Freibord
 
-1.
+1. Abweichend von den Bestimmungen nach Artikel 19.04 Nummer 1 ES-TRIN muss a)der Restsicherheitsabstand mindestens 0,20 m undb)bei Fahrgastschiffen ohne Schottendeck der Sicherheitsabstand mindestens 1,00 m und der Restsicherheitsabstand mindestens 0,30 mbetragen. der Restsicherheitsabstand mindestens 0,20 m und bei Fahrgastschiffen ohne Schottendeck der Sicherheitsabstand mindestens 1,00 m und der Restsicherheitsabstand mindestens 0,30 m
 
-a)
+2. Abweichend von den Bestimmungen nach Artikel 19.04 Nummer 2 ES-TRIN muss a)der Restfreibord mindestens 0,40 m undb)der Freibord mindestens 0,50 mbetragen. der Restfreibord mindestens 0,40 m und der Freibord mindestens 0,50 m
 
-b)
-
-2.
-
-a)
-
-b)
-
-3.
+3. Die Ebene der größten Einsenkung ist abweichend von den Bestimmungen in Artikel 19.04 Nummer 3 ES-TRIN unter Berücksichtigung der Nummern 1 und 2 festzusetzen.
 
 > (+++ § 7.03: Zur Anwendung vgl. § 5.01 Nr. 1 iVm § 5.05 BinSchUO2018Anh II +++)
 
@@ -255,11 +167,11 @@ Die höchstzulässige Zahl der Fahrgäste ist nach den Bestimmungen des Artikels
 
 ### § 7.05 — Anker
 
-Für Fahrgastschiffe ist die Gesamtmasse P der Buganker nach folgender Formel zu berechnen: P = k · B · T + 4 · Af [kg] In dieser Formel bedeuten:
+Für Fahrgastschiffe ist die Gesamtmasse P der Buganker nach folgender Formel zu berechnen:
 
-k
+k Koeffizient nach Artikel 13.01 Nummer 2 ES-TRIN
 
-A
+Af frontale Windangriffsfläche in m2.
 
 ### § 7.06 — Rettungsmittel
 
@@ -279,9 +191,9 @@ Einzelrettungsmittel nach Artikel 19.09 Nummer 4 ES-TRIN können durch Sammelret
 
 ### § 10.01 — Allgemeines
 
-1.
+1. Auf Wasserstraßen der Zone 1 ist ES-TRIN mit den sich aus den nachfolgenden Vorschriften ergebenden Maßgaben anzuwenden.
 
-2.
+2. Die Bestimmungen aus den Kapiteln 2 bis 6 und die Bestimmungen der §§ 10.02 bis 10.07 sind zu erfüllen.
 
 ### § 10.02 — Sicherheitsabstand
 
@@ -293,9 +205,9 @@ Der Freibord muss mindestens 0,50 m betragen.
 
 ### § 10.04 — Verschlusszustand
 
-1.
+1. Abweichend von Artikel 4.03 Nummer 11 ES-TRIN ist die Ebene der größten Einsenkung unter der Voraussetzung festzusetzen, dass die Laderäume mindestens sprühwasser- und wetterdicht geschlossen werden können.
 
-2.
+2. Die Festsetzung der höchstzulässigen Einsenkung für die Fahrt mit ungedeckten Laderäumen ist nicht zulässig.
 
 ### § 10.05 — Festigkeit
 
@@ -309,27 +221,15 @@ Abhängig vom Bau-, Erhaltungs- und Ausrüstungszustand des Fahrzeugs werden des
 
 ### § 10.07 — Zusätzliche Ausrüstung
 
-1.
+1. Zusätzlich zu den Bestimmungen nach Kapitel 6 müssen Fahrzeuge mit Besatzung folgende Ausrüstungsgegenstände an Bord mitführen: a)einen elektrischen Tagessignalscheinwerfer,b)sechs rote, amtlich zugelassene Fallschirmsignale,c)eine Rettungssignaltafel,d)vier Rettungsringe nach Artikel 13.08 ES-TRIN; davon müssen zwei Rettungsringe mit jeweils einer mindestens 30 m langen, schwimmfähigen Leine von 8 bis 11 mm Durchmesser versehen sein, und zwei Rettungsringe müssen mit jeweils einem selbstzündenden, batteriebetriebenen, in Wasser nicht verlöschenden Licht versehen sein,e)ein Rettungsfloß nach Artikel 19.09 Nummer 5 und 7 bis 9 ES-TRIN,f)das Beiboot muss mit einer Laterne und einem wasserdichten Behälter mit sechs Rotfeuern ausgestattet sein. einen elektrischen Tagessignalscheinwerfer, sechs rote, amtlich zugelassene Fallschirmsignale, eine Rettungssignaltafel, vier Rettungsringe nach Artikel 13.08 ES-TRIN; davon müssen zwei Rettungsringe mit jeweils einer mindestens 30 m langen, schwimmfähigen Leine von 8 bis 11 mm Durchmesser versehen sein, und zwei Rettungsringe müssen mit jeweils einem selbstzündenden, batteriebetriebenen, in Wasser nicht verlöschenden Licht versehen sein, ein Rettungsfloß nach Artikel 19.09 Nummer 5 und 7 bis 9 ES-TRIN, das Beiboot muss mit einer Laterne und einem wasserdichten Behälter mit sechs Rotfeuern ausgestattet sein.
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-2.
+2. Zusätzlich zu den Bestimmungen nach Kapitel 6 müssen geschleppte Fahrzeuge mit Besatzung die nach Nummer 1 Buchstabe b bis f geforderten Ausrüstungsgegenstände an Bord mitführen.
 
 ### § 10.08 — Sonderbestimmungen für Fahrgastschiffe
 
-1.
+1. Für Fahrgastschiffe auf Wasserstraßen der Zone 1 gelten die §§ 10.02 bis 10.04 nicht.
 
-2.
+2. Eine anerkannte Klassifikationsgesellschaft muss bescheinigen, dass das Fahrgastschiff zur Fahrt auf Wasserstraßen der Zone 1 ausreichende Stabilität aufweist. Die vorzulegende Bescheinigung muss die zulässigen Fahrtbedingungen des Fahrgastschiffes gemäß § 10.06 angeben.
 
 > (+++ § 10.08 Nr. 2: Zur Anwendung vgl. § 5.01 Nr. 1 iVm § 5.04 Nr. 1 BinSchUO2018Anh II +++)
 
@@ -337,86 +237,50 @@ f)
 
 ### § 11.01 — Anwendung der Übergangsbestimmungen für Fahrzeuge, die schon in Betrieb sind
 
-1.
+1. Die nachstehenden Bestimmungen gelten für Fahrzeuge, für die ein zusätzliches Gemeinschaftszeugnis für Binnenschiffe erstmals vor dem 30. Dezember 2008 erteilt wurde.
 
-2.
+2. Für die Fahrzeuge muss nachgewiesen werden, dass sie am Tage der Erteilung oder letzten Erneuerung ihres Gemeinschaftszeugnisses oder einer anderen Verkehrszulassung den technischen Vorschriften der Binnenschiffs-Untersuchungsordnung in der Fassung vom 30. Dezember 2008 entsprochen haben.
 
 ### § 11.02 — Übergangsbestimmungen für Fahrzeuge, die schon in Betrieb sind
 
-1.
+1. Fahrzeuge, die den Vorschriften dieses Anhangs nicht vollständig entsprechen, müssen den in nachstehender Tabelle aufgeführten Übergangsbestimmungen angepasst werden. Im Fall der Erteilung eines neuen zusätzlichen Unionszeugnisses für Binnenschiffe nach § 11.01 Nummer 1 ist das zusätzliche Gemeinschaftszeugnis oder eine Anlage zum Gemeinschaftszeugnis für Binnenschiffe als Nachweis vorzulegen und einzuziehen.
 
-2.
-
-–
-
-–
+2. In der Tabelle bedeuten –„N.E.U.“:Die Vorschrift gilt nicht für Fahrzeuge, die schon in Betrieb sind, es sei denn, die betroffenen Teile werden ersetzt oder umgebaut, d. h., die Vorschrift gilt nur für Neubauten sowie bei Ersatz oder bei Umbau der betroffenen Teile oder Bereiche. Werden bestehende Teile durch Austauschteile in gleicher Technik und Machart ersetzt, bedeutet dies keinen Ersatz „E“ im Sinne dieser Übergangsbestimmungen.–„Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe“:Die Vorschrift muss bei der nächsten auf das angegebene Datum folgenden Erteilung oder Erneuerung der Gültigkeitsdauer des zusätzlichen Unionszeugnisses für Binnenschiffe oder der Anlage zum Unionszeugnis für Binnenschiffe erfüllt sein.§InhaltFrist oder Bemerkungen4.01SicherheitsabstandN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20494.02FreibordN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20495.01AufbautenN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20495.02TürenN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20495.03Fenster und OberlichterN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20495.04Abdeckung der LaderäumeN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20496.02 Nr. 1KompassN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20296.03 Nr. 1RadarN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20296.06 Buchstabe bSchallsignalanlageN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20496.06 Buchstabe dInland-ECDIS-Geräte und digitale SeekartenN.E.U., spätestens nach dem 18. Januar 202210.02SicherheitsabstandN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.204910.03FreibordN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049 „N.E.U.“: Die Vorschrift gilt nicht für Fahrzeuge, die schon in Betrieb sind, es sei denn, die betroffenen Teile werden ersetzt oder umgebaut, d. h., die Vorschrift gilt nur für Neubauten sowie bei Ersatz oder bei Umbau der betroffenen Teile oder Bereiche. Werden bestehende Teile durch Austauschteile in gleicher Technik und Machart ersetzt, bedeutet dies keinen Ersatz „E“ im Sinne dieser Übergangsbestimmungen. „Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe“: Die Vorschrift muss bei der nächsten auf das angegebene Datum folgenden Erteilung oder Erneuerung der Gültigkeitsdauer des zusätzlichen Unionszeugnisses für Binnenschiffe oder der Anlage zum Unionszeugnis für Binnenschiffe erfüllt sein.§InhaltFrist oder Bemerkungen4.01SicherheitsabstandN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20494.02FreibordN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20495.01AufbautenN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20495.02TürenN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20495.03Fenster und OberlichterN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20495.04Abdeckung der LaderäumeN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20496.02 Nr. 1KompassN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20296.03 Nr. 1RadarN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20296.06 Buchstabe bSchallsignalanlageN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20496.06 Buchstabe dInland-ECDIS-Geräte und digitale SeekartenN.E.U., spätestens nach dem 18. Januar 202210.02SicherheitsabstandN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.204910.03FreibordN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049
 
 ### Anlage — Anforderungen an Kompasse und Steuerkurstransmitter
 
-Kompasse und Steuerkurstransmitter für den Einsatz in der Binnenschifffahrt nach Anhang III § 6.02 müssen dem Stand der Technik entsprechen und insbesondere eine der folgenden Spezifikationen erfüllen: Alle Anzeigen von Kompassen und Steuerkurstransmittern müssen die Anforderungen der DIN EN 60945, Ausgabe Juli 2003, erfüllen. Steuerkurstransmitter nach den Nummern 4, 5 oder 6 der Tabelle mit analoger oder grafischer Anzeige müssen hinsichtlich Unterteilung und Lesbarkeit zusätzlich dem Stand der Technik entsprechen.
+1. Der Aufstellungsort des Kompasses auf Magnetbasis (Magnetkompasses) für Binnenschiffe muss im Rahmen der gegebenen Möglichkeiten so gewählt werden, dass eine Beeinträchtigung der Funktion des Magnetkompasses durch die bei normaler Fahrt des Schiffes zu erwartenden Vibrationen weitgehend vermieden wird.
 
-1.
+2. Befindet sich mehr als ein Magnetkompass für Binnenschiffe an Bord, so dürfen sich diese Magnetkompasse gegenseitig nicht beeinflussen. Kompensiermittel und Rosensystem des einen Kompasses müssen vom Rosensystem des anderen einen Abstand von mindestens 2 m haben.
 
-2.
+3. Bei Ausfall des Hauptstromnetzes muss die Beleuchtung zur Ablesung des Magnetkompasses durch eine Notstromquelle sichergestellt sein.
 
-3.
+4. Der Magnetkompass für Binnenschiffe muss in der Mittschiffsebene aufgestellt sein.
 
-4.
+1. Gleichstromführende Kabel in der Nähe des Magnetkompasses müssen doppelpolig verlegt sein. Dies gilt in Abhängigkeit von der Stromstärke innerhalb der nachstehend angegebenen Bereiche um den Kompassrosenmittelpunkt: StromstärkeBereich um den Kompassrosenmittelpunktbis 10 A5 müber 10 A bis 50 A7 müber 50 A9 m Befestigungsschellen für Kabel und Durchführungsrohre für Leitungen aus magnetisierbarem Material sowie eisenarmierte Kabel müssen einen Abstand von mindestens 1 m vom Magnetkompass haben.
 
-1.
+2. Magnetkompasse für Binnenschiffe müssen so eingebaut sein, dass der Abstand stählerner Schiffbauteile vom Kompassrosenmittelpunkt mindestens 1 m beträgt. Außerhalb der eisenfreien Zone muss magnetisierbares Material möglichst symmetrisch zur Mittschiffsebene angeordnet werden.
 
-2.
+3. Der Magnetkompass darf nicht in einem Ruderhaus aufgestellt werden, das vollkommen aus magnetisierbarem Material hergestellt ist. Wenn das Ruderhaus zum Teil aus magnetisierbarem Material hergestellt ist, soll dieses Material symmetrisch zum Kompass angeordnet sein.
 
-3.
+4. Elektrische Anlagen und Geräte müssen grundsätzlich in einem Abstand zum Magnetkompass angeordnet werden, der nicht kleiner als der angegebene Schutzabstand ist. In den von der zuständigen Behörde erteilten Bescheinigungen über Schutzabstandswerte (Mindestabstände) vom Magnet-Regel- und Magnet-Steuerkompass gelten die dort als verminderte Schutzabstände (reduzierte Mindestabstände) angeführten Werte.
 
-4.
+1. Ein kardanisch aufgehängter Magnetkompass muss in einer zugehörigen Haltevorrichtung mit Kardanlagern fest montiert werden.
 
-1.
+2. Die Haltevorrichtung des Magnetkompasses einschließlich Schutzhaube, Steuerlinse und Übertragungseinrichtung muss so weitgehend eisenfrei sein, dass die Ablenkung der Kompassrose durch evtl. vorhandenes magnetisierbares Material auf keinem Kurs ± 1° überschreitet.
 
-2.
+3. Bei Reflexions- oder Projektionskompassen, die über eine optische Einrichtung abgelesen werden, muss an der Ablesevorrichtung (Schirm, Spiegel) zu beiden Seiten des Steuerstrichs ein Sektor der Rose von mindestens 15° sichtbar sein. Dies gilt auch, wenn eine Steuerlupe verwendet wird. Der durch die optische Übertragungseinrichtung abgelesene Magnetkompasskurs muss mit dem direkt am Hauptsteuerstrich abgelesenen innerhalb von ± 1° übereinstimmen.
 
-3.
+4. Die Haltevorrichtung muss zur Ausrichtung nach der Montage eine Drehung um die Hochachse von ± 2° ermöglichen.
 
-4.
+5. Die Neigungsfreiheit eines kardanisch aufgehängten Magnetkompasses innerhalb der Haltevorrichtung muss mindestens 40° betragen. Diese darf nicht durch zusätzliche Einrichtungen wie z. B. Kursdetektoren, Abtastsonden und ähnliche Installationen für Selbststeueranlagen beeinträchtigt werden.
 
-5.
+6. Der Magnetkompass muss so beleuchtet werden können, dass er für eine normalsichtige Person jederzeit aus einer Entfernung von mindestens 1 m blendfrei ablesbar ist. Ist eine elektrische Beleuchtung vorhanden, so muss diese regelbar sein. Bei Ausfall der Hauptstromquelle muss die Beleuchtung über eine Notstromquelle oder anderweitig sichergestellt sein. Die Glühlampe der elektrischen Beleuchtung muss jederzeit leicht und sicher ausgewechselt werden können. Elektrische Zuleitungen für Gleichstrom müssen in unmittelbarer Nähe des Magnetkompasses verdrillt sein.
 
-6.
+7. Bei Magnetkompassen, die außerhalb des Ruderhauses, z. B. auf dem Dach des Ruderhauses, aufgestellt werden, muss die Haltevorrichtung mit einer abnehmbaren Schutzhaube versehen sein. In diesen Fällen muss dafür gesorgt sein, dass eine ausreichende Belüftung des Raumes innerhalb der Haltevorrichtung gewährleistet ist.
 
-7.
+8. Kompensiermittel Zur Kompensierung der vom festen Schiffsmagnetismus herrührenden Koeffizienten B und C sowie des vom induzierten Schiffsmagnetismus herrührenden Koeffizienten D sind zweckdienliche Vorrichtungen vorzusehen. Geeignet sind z. B. Steckvorrichtungen für die Magnete in Längs- und Querschiffsrichtung. Zur Kompensierung des Koeffizienten D können D-Kugeln, D-Rohre sowie auf oder unter dem Magnetkompass befestigte D-Streifen verwendet werden.a)Diese Kompensiereinrichtungen müssen dauerhaft und sicher angebracht und für den Kompassregulierer leicht zugänglich und bequem zu handhaben sein.Unbeabsichtigte Änderungen der kompensierten Werte müssen ausgeschlossen sein.b)Die Kompensiermagnete für die Koeffizienten B und C sind möglichst unterhalb des Magnetkompasses anzubringen. Ist aus Platzgründen eine Anbringung vor oder hinter dem Magnetkompass oder backbord- oder steuerbordseitig notwendig, so sind die Magnete symmetrisch zum Magnetkompass anzubringen.c)Die Kompensiermagnete für B sind so anzubringen, dass die Querschiffsebene durch den Rosenmittelpunkt genau die Kompensiermagnete halbiert.Die Kompensiermagnete für C sind so anzubringen, dass die Längsschiffsebene durch den Rosenmittelpunkt genau die Kompensiermagnete halbiert.d)Das Material für die Kompensiermittel der vom festen Schiffsmagnetismus herrührenden Koeffizienten B und C muss eine Koerzitivfeldstärke von mindestens 11,2 kA/m aufweisen.e)Das Material für die Kompensiermittel des vom flüchtigen Magnetismus herrührenden Koeffizienten D darf eine Koerzitivfeldstärke von höchstens 120 kA/m aufweisen.f)Es wird empfohlen, das magnetische Moment für Magnete zur Kompensierung der festen Längs- und Querfeldstärken zwischen 1,5 Am2 und 3,0 Am2 oder 4,0 Am2 und 5,0 Am2 zu wählen.g)Es wird empfohlen, als D-Streifen die so genannten Mu-Metall-Weicheisenstreifen zu verwenden.Bei Kugelkompassen werden diese zweckmäßigerweise als Bügel, bei Flachglaskompassen als kleine D-Streifen ausgeführt.h)Mechanische Kompensiereinrichtungen, bei denen die Ablenkungskoeffizienten B und C durch stetiges Verdrehen oder Verschieben von Kompensiermagneten einstellbar sind, dürfen nur eingebaut werden, wenn sie von der zuständigen Behörde für den Gebrauch an Bord als geeignet und sicher befunden worden sind. Diese Kompensiereinrichtungen müssen dauerhaft und sicher angebracht und für den Kompassregulierer leicht zugänglich und bequem zu handhaben sein. Unbeabsichtigte Änderungen der kompensierten Werte müssen ausgeschlossen sein. Die Kompensiermagnete für die Koeffizienten B und C sind möglichst unterhalb des Magnetkompasses anzubringen. Ist aus Platzgründen eine Anbringung vor oder hinter dem Magnetkompass oder backbord- oder steuerbordseitig notwendig, so sind die Magnete symmetrisch zum Magnetkompass anzubringen. Die Kompensiermagnete für B sind so anzubringen, dass die Querschiffsebene durch den Rosenmittelpunkt genau die Kompensiermagnete halbiert. Die Kompensiermagnete für C sind so anzubringen, dass die Längsschiffsebene durch den Rosenmittelpunkt genau die Kompensiermagnete halbiert. Das Material für die Kompensiermittel der vom festen Schiffsmagnetismus herrührenden Koeffizienten B und C muss eine Koerzitivfeldstärke von mindestens 11,2 kA/m aufweisen. Das Material für die Kompensiermittel des vom flüchtigen Magnetismus herrührenden Koeffizienten D darf eine Koerzitivfeldstärke von höchstens 120 kA/m aufweisen. Es wird empfohlen, das magnetische Moment für Magnete zur Kompensierung der festen Längs- und Querfeldstärken zwischen 1,5 Am2 und 3,0 Am2 oder 4,0 Am2 und 5,0 Am2 zu wählen. Es wird empfohlen, als D-Streifen die so genannten Mu-Metall-Weicheisenstreifen zu verwenden. Bei Kugelkompassen werden diese zweckmäßigerweise als Bügel, bei Flachglaskompassen als kleine D-Streifen ausgeführt. Mechanische Kompensiereinrichtungen, bei denen die Ablenkungskoeffizienten B und C durch stetiges Verdrehen oder Verschieben von Kompensiermagneten einstellbar sind, dürfen nur eingebaut werden, wenn sie von der zuständigen Behörde für den Gebrauch an Bord als geeignet und sicher befunden worden sind.
 
-8.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-9.
-
-a)
-
-aa)
-
-bb)
-
-cc)
-
-b)
-
-c)
-
-d)
+9. Ausführungsmöglichkeiten für Haltevorrichtungen a)Beim Einbau von Magnet-Steuerkompassen werden unterschieden: aa)Einbau im Fahrpult, auf einem Tisch oder einer Konsole im Ruderhaus,bb)Einbau im Ruderhaus unter der Ruderhausdecke (Deckenkompass),cc)Einbau auf dem Ruderhausdach.b)Beim Einbau nach Buchstabe a Doppelbuchstabe aa ist Folgendes zu beachten:Die Anbringung der Kompensiermittel für die Koeffizienten B und C hat nach Möglichkeit unter dem Magnetkompass zu erfolgen. In Ausnahmefällen, in denen dies nicht möglich ist, kann die Anbringung auf beiden Seiten oder vor oder hinter dem Magnetkompass auf dem Tisch, der Konsole oder auf dem Fahrpult erfolgen. Voraussetzung dafür ist jedoch, dass beidseitig sowie vor und hinter dem Magnetkompass genügend Raum für die Anbringung der Kompensiermittel zur Verfügung steht, d. h. im Abstand von etwa 600 mm vom Rosenmittelpunkt in Voraus- und Achterausrichtung sowie beiderseits in Querschiffsrichtung dürfen keine Geräte eingebaut werden. Der Raum unter dem Magnetkompass, in dem die Kompensiereinrichtung untergebracht ist, muss abgegrenzt und verschließbar sein. Geräte aus magnetisierbarem Material dürfen in diesem Raum nicht gelagert werden.c)Bei Einbau des Magnetkompasses nach Buchstabe a Doppelbuchstabe bb wird Folgendes empfohlen:Die Haltevorrichtung der unter der Decke des Ruderhauses angebrachten Magnetkompasse (Deckenkompasse) besteht in der Regel aus zwei Haltearmen mit Kardanlagern zur Aufnahme der Kardanzapfen des Magnetkompasses. Die Ausrichtung des Magnetkompasses nach § 2.3 Nummer 4 kann z. B. erreicht werden, indem die beiden Haltearme im Abstand der Kardanachsen fest mit einer Traverse aus nichtmagnetisierbarem Material und von genügender Stärke verbunden werden. Die Traverse wird in ihrer Mitte in der Mittschiffsebene unter der Decke mit einem starken, nichtmagnetisierbaren Schraubbolzen drehbar befestigt. Langlöcher in den überstehenden Enden der Traverse ermöglichen die Ausrichtung und danach die endgültige Befestigung. Die Deckenverkleidung im Bereich der Traverse und der Kompensierungseinrichtungen muss, soweit dies erforderlich ist, verstärkt sein. Da die Verwendung von D-Rohren und D-Kugeln wegen der erschwerten Anbringung unter der Decke des Ruderhauses in der Regel nicht erfolgt, sollten Deckenkompasse mit einer Einrichtung zur Anbringung von D-Streifen versehen sein.d)Beim Einbau des Magnetkompasses nach Buchstabe a Doppelbuchstabe cc ist Folgendes zu beachten:Da der Magnetkompass auf dem Dach des Ruderhauses den Witterungsbedingungen und Temperaturschwankungen ausgesetzt ist, ist dieser in der Haltevorrichtung mit einer Schutzhaube zu versehen. Diese muss spritzwasserdicht, abnehmbar und arretierbar sein. Um nach der Montage eine Ausrichtung der Haltevorrichtung nach § 2.3 Nummer 4 zu ermöglichen, darf die Dichtung zwischen Ruderhausdach und Haltevorrichtung nicht durch Vergussmasse oder ähnliches Material erfolgen. Ist der Abstand der Rosenmagnete bis zur Unterkante der Deckenverschalung des Ruderhauses 600 mm und kleiner, so werden die B- und C-Magnete in Steckvorrichtungen unter der Ruderhausdecke angebracht. Wird dieser Abstand jedoch überschritten, wie es bei so genannten verkürzten Kompassständen der Fall ist, so müssen die Steckvorrichtungen in dieser Haltevorrichtung eingebaut sein. Da ein Betreten des Ruderhausdaches zum Auswechseln der Beleuchtungslampe nicht immer möglich ist, muss diese vom Ruderhaus aus ausgewechselt werden können. Beim Einbau von Magnet-Steuerkompassen werden unterschieden: aa)Einbau im Fahrpult, auf einem Tisch oder einer Konsole im Ruderhaus,bb)Einbau im Ruderhaus unter der Ruderhausdecke (Deckenkompass),cc)Einbau auf dem Ruderhausdach. Einbau im Fahrpult, auf einem Tisch oder einer Konsole im Ruderhaus, Einbau im Ruderhaus unter der Ruderhausdecke (Deckenkompass), Einbau auf dem Ruderhausdach. Beim Einbau nach Buchstabe a Doppelbuchstabe aa ist Folgendes zu beachten: Die Anbringung der Kompensiermittel für die Koeffizienten B und C hat nach Möglichkeit unter dem Magnetkompass zu erfolgen. In Ausnahmefällen, in denen dies nicht möglich ist, kann die Anbringung auf beiden Seiten oder vor oder hinter dem Magnetkompass auf dem Tisch, der Konsole oder auf dem Fahrpult erfolgen. Voraussetzung dafür ist jedoch, dass beidseitig sowie vor und hinter dem Magnetkompass genügend Raum für die Anbringung der Kompensiermittel zur Verfügung steht, d. h. im Abstand von etwa 600 mm vom Rosenmittelpunkt in Voraus- und Achterausrichtung sowie beiderseits in Querschiffsrichtung dürfen keine Geräte eingebaut werden. Der Raum unter dem Magnetkompass, in dem die Kompensiereinrichtung untergebracht ist, muss abgegrenzt und verschließbar sein. Geräte aus magnetisierbarem Material dürfen in diesem Raum nicht gelagert werden. Bei Einbau des Magnetkompasses nach Buchstabe a Doppelbuchstabe bb wird Folgendes empfohlen: Die Haltevorrichtung der unter der Decke des Ruderhauses angebrachten Magnetkompasse (Deckenkompasse) besteht in der Regel aus zwei Haltearmen mit Kardanlagern zur Aufnahme der Kardanzapfen des Magnetkompasses. Die Ausrichtung des Magnetkompasses nach § 2.3 Nummer 4 kann z. B. erreicht werden, indem die beiden Haltearme im Abstand der Kardanachsen fest mit einer Traverse aus nichtmagnetisierbarem Material und von genügender Stärke verbunden werden. Die Traverse wird in ihrer Mitte in der Mittschiffsebene unter der Decke mit einem starken, nichtmagnetisierbaren Schraubbolzen drehbar befestigt. Langlöcher in den überstehenden Enden der Traverse ermöglichen die Ausrichtung und danach die endgültige Befestigung. Die Deckenverkleidung im Bereich der Traverse und der Kompensierungseinrichtungen muss, soweit dies erforderlich ist, verstärkt sein. Da die Verwendung von D-Rohren und D-Kugeln wegen der erschwerten Anbringung unter der Decke des Ruderhauses in der Regel nicht erfolgt, sollten Deckenkompasse mit einer Einrichtung zur Anbringung von D-Streifen versehen sein. Beim Einbau des Magnetkompasses nach Buchstabe a Doppelbuchstabe cc ist Folgendes zu beachten: Da der Magnetkompass auf dem Dach des Ruderhauses den Witterungsbedingungen und Temperaturschwankungen ausgesetzt ist, ist dieser in der Haltevorrichtung mit einer Schutzhaube zu versehen. Diese muss spritzwasserdicht, abnehmbar und arretierbar sein. Um nach der Montage eine Ausrichtung der Haltevorrichtung nach § 2.3 Nummer 4 zu ermöglichen, darf die Dichtung zwischen Ruderhausdach und Haltevorrichtung nicht durch Vergussmasse oder ähnliches Material erfolgen. Ist der Abstand der Rosenmagnete bis zur Unterkante der Deckenverschalung des Ruderhauses 600 mm und kleiner, so werden die B- und C-Magnete in Steckvorrichtungen unter der Ruderhausdecke angebracht. Wird dieser Abstand jedoch überschritten, wie es bei so genannten verkürzten Kompassständen der Fall ist, so müssen die Steckvorrichtungen in dieser Haltevorrichtung eingebaut sein. Da ein Betreten des Ruderhausdaches zum Auswechseln der Beleuchtungslampe nicht immer möglich ist, muss diese vom Ruderhaus aus ausgewechselt werden können.
 
 Für Steuerkurstransmitter auf Magnetbasis gelten die Anforderungen der §§ 2.1 bis 2.3 entsprechend.

@@ -17,13 +17,13 @@ Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 2
 
 Die Meisterprüfung im Drechsler- (Elfenbeinschnitzer-) und Holzspielzeugmacher-Handwerk umfasst folgende selbständige Prüfungsteile:
 
-1.
+1. die Prüfung der meisterhaften Verrichtung der gebräuchlichen Arbeiten (Teil I),
 
-2.
+2. die Prüfung der erforderlichen fachtheoretischen Kenntnisse (Teil II),
 
-3.
+3. die Prüfung der erforderlichen betriebswirtschaftlichen, kaufmännischen und rechtlichen Kenntnisse (Teil III) und
 
-4.
+4. die Prüfung der erforderlichen berufs- und arbeitspädagogischen Kenntnisse (Teil IV).
 
 ### § 2 — Meisterprüfungsberufsbild
 
@@ -31,49 +31,49 @@ Die Meisterprüfung im Drechsler- (Elfenbeinschnitzer-) und Holzspielzeugmacher-
 
 (2) Dem Drechsler- (Elfenbeinschnitzer-) und Holzspielzeugmacher-Handwerk werden zum Zwecke der Meisterprüfung folgende Tätigkeiten, Kenntnisse und Fertigkeiten als ganzheitliche Qualifikationen zugerechnet:
 
-1.
+1. Kundenwünsche ermitteln, Kunden beraten, Auftragsverhandlungen führen und Auftragsziele festlegen,
 
-2.
+2. Preise entsprechend der Betriebskostenstruktur kalkulieren, Kostenvoranschläge erarbeiten und Angebote erstellen,
 
-3.
+3. Aufgaben der technischen und kaufmännischen Betriebsführung, der Betriebsorganisation, der Personalplanung und des Personaleinsatzes wahrnehmen, insbesondere unter Berücksichtigung der betrieb- lichen Aus- und Weiterbildung, des Qualitätsmanagements sowie des Arbeits- und Umweltschutzes; Informationssysteme nutzen,
 
-4.
+4. Produkte entwickeln und Aufträge unter Berücksichtigung von Fertigungstechniken sowie des Personalbedarfs und der Ausbildung durchführen; Auftragsbearbeitung und Auftragsabwicklung organisieren und überwachen sowie Kooperation mit anderen Betrieben planen und durchführen,
 
-5.
+5. Entwurfs- und Werkzeichnungen, Arbeitsskizzen, Konstruktionsunterlagen sowie Modelle und Aufrisse unter Berücksichtigung werkstoffspezifischer und gestalterischer Gesichtspunkte erstellen,
 
-6.
+6. Arten und spezielle Eigenschaften der im Drechsler- (Elfenbeinschnitzer-) und Holzspielzeugmacher-Handwerk verwendeten Werkstoffe bei der Beschaffung, der Lagerung, der Verarbeitung und dem Zusammenfügen berücksichtigen,
 
-7.
+7. Be- und Verarbeitungstechniken, insbesondere Oberflächenbehandlung und Oberflächenschutz bei der Planung, Konstruktion und Fertigung von Produkten beherrschen,
 
-8.
+8. Daten zur Rechnungserstellung erfassen, Rechnung erstellen und begründen, Nachkalkulation durchführen,
 
-9.
+9. die Suche nach Fehlern und Störungen sowie Maßnahmen zu deren Beseitigung durchführen, Ergebnisse bewerten und dokumentieren,
 
-10.
+10. auf drehrundem und rotationssymmetrischem Aufbau gestaltete Produkte aus drechselbaren Werkstoffen unter Berücksichtigung kreativer Gestaltungsaspekte entwickeln und herstellen,
 
-11.
+11. Produkte der verdeckten Formgebung im Holzreifen unter Berücksichtigung kreativer Gestaltungsaspekte entwerfen und herstellen sowie der Werkzeugschneide die erforderliche Form geben,
 
-12.
+12. Schmuck, Figürliches und Dekorationsgegenstände entwickeln und herstellen, insbesondere aus Elfenbein, Mammut oder Bein und unter Berücksichtigung kreativer Gestaltungsaspekte,
 
-13.
+13. berufsbezogene Vorschriften einhalten, insbesondere Artenschutzbestimmungen,
 
-14.
+14. Schmuck, Repräsentationsobjekte und Dekorationsgegenstände aus Bernstein oder mit Bernsteinauflagen oder -inkrustationen unter Berücksichtigung kreativer Gestaltungsaspekte entwickeln und herstellen,
 
-15.
+15. Werkstoffe unter Berücksichtigung der Herkunft und der Verarbeitungsqualität auswählen und einkaufen,
 
-16.
+16. Holzspielzeug sowie Dekorationsfiguren aus Holz und Ergänzungswerkstoffen unter Berücksichtigung kreativer Gestaltungsaspekte entwickeln und herstellen,
 
-17.
+17. Oberflächen von Holzerzeugnissen unter besonderer Berücksichtigung der ornamentalen und figürlichen Farbgestaltung sowie der Schriftmalerei gestalten,
 
-18.
+18. Erzeugnisse des Drechsler- (Elfenbeinschnitzer-) und Holzspielzeugmacher-Handwerks reparieren und restaurieren.
 
 ### § 3 — Gliederung, Prüfungsdauer und Bestehen des Teils I
 
 (1) Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
-1.
+1. ein Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch,
 
-2.
+2. eine Situationsaufgabe.
 
 (2) Die Anfertigung des Meisterprüfungsprojekts soll nicht länger als 15 Arbeitstage und das Fachgespräch nicht länger als 30 Minuten dauern. Die Ausführung der Situationsaufgabe soll sechs Stunden nicht überschreiten.
 
@@ -87,15 +87,15 @@ Die Meisterprüfung im Drechsler- (Elfenbeinschnitzer-) und Holzspielzeugmacher-
 
 (2) Als Meisterprüfungsprojekt ist eine der nachstehenden Aufgaben durchzuführen:
 
-1.
+1. Ein Produkt aus dem Bereich der Drechslerei anfertigen. Dabei sind die verwendeten Vorrichtungen zu dokumentieren;
 
-2.
+2. eine Gruppe von Produkten der Reifendreherei anfertigen, jeweils in allen Herstellungsstadien;
 
-3.
+3. ein Produkt aus dem Bereich der Elfenbeinschnitzerei sowie ein Modell in einem vom Meisterprüfungsausschuss vorgegebenen Werkstoff anfertigen;
 
-4.
+4. ein Produkt oder eine Produktgruppe aus dem Bereich der Bernsteindrechslerei anfertigen;
 
-5.
+5. ein Produkt aus dem Bereich der Holzspielzeugmacherei anfertigen, einschließlich Farbfassung und dekorativer Bemalung.
 
 (3) Das Meisterprüfungsprojekt nach Absatz 2 umfasst zusätzlich einen Entwurf, eine Werkzeichnung oder ein Modell, dazugehörige Planungs-, Kalkulations- und Angebotsunterlagen sowie eine Dokumentation mit gesondertem Nachweis von Fremdleistungen.
 
@@ -111,19 +111,19 @@ Auf der Grundlage der Prüfungsleistungen im Meisterprüfungsprojekt wird ein Fa
 
 (2) Als Situationsaufgabe sind nicht mehr als zwei der nachstehend aufgeführten Arbeiten auszuführen. Die Vorschläge des Prüflings sollen bei der Auswahl der Arbeiten berücksichtigt werden, soweit dies den Vorgaben des Absatzes 1 entspricht. Die konkrete Aufgabenstellung erfolgt durch den Meisterprüfungsausschuss:
 
-1.
+1. Ein gedrehtes Produkt mit unverleimten Teilbereichen und einer Passung herstellen,
 
-2.
+2. Holzreifenprodukte entwerfen und fertigen,
 
-3.
+3. ein Blumenmotiv, ein Tiermotiv oder ein Schmuckstück anfertigen,
 
-4.
+4. einen Schmuckstein bearbeiten oder ein Produkt aus Bernstein herstellen,
 
-5.
+5. ein Produkt herstellen mit einer Verbindung durch Drehen längs zur Faser, durch Schnitzen oder Spanen,
 
-6.
+6. ein Produkt des Drechsler- (Elfenbeinschnitzer-) und Holzspielzeugmacher-Handwerks reparieren oder restaurieren,
 
-7.
+7. ein Holzspielzeug oder eine Dekorationsfigur aus Holz oder Teile davon herstellen oder bearbeiten, einschließlich farbiger Fassung oder Dekoration.
 
 (3) Die Gesamtbewertung der Situationsaufgabe wird aus dem arithmetischen Mittel der Einzelbewertungen der Arbeiten nach Absatz 2 gebildet.
 
@@ -133,63 +133,19 @@ Auf der Grundlage der Prüfungsleistungen im Meisterprüfungsprojekt wird ein Fa
 
 (2) Prüfungsfächer sind:
 
-1.
+1. Gestaltung und Fachtechnik,
 
-2.
+2. Auftragsabwicklung,
 
-3.
+3. Betriebsführung und Betriebsorganisation.
 
 (3) In jedem der Prüfungsfächer ist mindestens eine fallorientierte Aufgabe zu bearbeiten.
 
-1.
+1. Gestaltung und Fachtechnik Der Prüfling soll nachweisen, dass er in der Lage ist, gestalterische und fertigungstechnische Aufgaben und Probleme unter Beachtung wirtschaftlicher, technischer und organisatorischer Aspekte in einem Drechsler- (Elfenbeinschnitzer-) und Holzspielzeugmacher-Betrieb zu bearbeiten. Er soll fachliche Sachverhalte beurteilen und beschreiben. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:a)Lösungen zu Aufgaben aus dem Bereich des Drechsler- (Elfenbeinschnitzer-) und Holzspielzeugmacher-Handwerks unter Berücksichtigung von Gestaltungsgrundsätzen und Materialvorgaben erarbeiten, beurteilen und korrigieren,b)Form- und Farbenlehre unter gestalterischen Aspekten umsetzen,c)Lösungen zur Durchführung von Restaurierungs- und Reparaturarbeiten erarbeiten, bewerten und korrigieren,d)Einsatz von Werk- und Hilfsstoffen bei unterschiedlichen Problemstellungen darlegen und begründen,e)Konstruktionsunterlagen, Stücklisten und Teilezeichnung erstellen,f)Probleme der Materialbe- und -verarbeitung beschreiben, Lösungen erarbeiten, bewerten und korrigieren,g)werkstoff- und fertigungsgerechten Einsatz von Maschinen und Werkzeugen bewerten,h)Vorrichtungen zur Fertigung unter besonderer Berücksichtigung des Arbeitsschutzes planen,i)Verfahren der Oberflächenveredelung und des Oberflächenschutzes darstellen und bewerten; Lösungen zu Aufgaben aus dem Bereich des Drechsler- (Elfenbeinschnitzer-) und Holzspielzeugmacher-Handwerks unter Berücksichtigung von Gestaltungsgrundsätzen und Materialvorgaben erarbeiten, beurteilen und korrigieren, Form- und Farbenlehre unter gestalterischen Aspekten umsetzen, Lösungen zur Durchführung von Restaurierungs- und Reparaturarbeiten erarbeiten, bewerten und korrigieren, Einsatz von Werk- und Hilfsstoffen bei unterschiedlichen Problemstellungen darlegen und begründen, Konstruktionsunterlagen, Stücklisten und Teilezeichnung erstellen, Probleme der Materialbe- und -verarbeitung beschreiben, Lösungen erarbeiten, bewerten und korrigieren, werkstoff- und fertigungsgerechten Einsatz von Maschinen und Werkzeugen bewerten, Vorrichtungen zur Fertigung unter besonderer Berücksichtigung des Arbeitsschutzes planen, Verfahren der Oberflächenveredelung und des Oberflächenschutzes darstellen und bewerten;
 
-a)
+2. Auftragsabwicklung Der Prüfling soll nachweisen, dass er in der Lage ist, bei der Auftragsabwicklung die ablaufbezogenen Maßnahmen, die für den technischen und wirtschaftlichen Erfolg in einem Drechsler- (Elfenbeinschnitzer-) und Holzspielzeugmacher-Betrieb notwendig sind, kundenorientiert einzuleiten und abzuschließen. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:a)Auftragsabwicklungsprozesse planen,b)Methoden und Verfahren der Arbeitsplanung und -organisation unter Berücksichtigung der Fertigungstechnik sowie des Einsatzes von Material, Geräten und Personal bewerten, dabei Aspekte des Qualitätsmanagements darstellen,c)technische Arbeitspläne, auch unter Anwendung von elektronischen Datenverarbeitungssystemen, erarbeiten, bewerten und korrigieren, Arbeitsplatzgestaltung bewerten,d)Vor- und Nachkalkulation durchführen; Auftragsabwicklungsprozesse planen, Methoden und Verfahren der Arbeitsplanung und -organisation unter Berücksichtigung der Fertigungstechnik sowie des Einsatzes von Material, Geräten und Personal bewerten, dabei Aspekte des Qualitätsmanagements darstellen, technische Arbeitspläne, auch unter Anwendung von elektronischen Datenverarbeitungssystemen, erarbeiten, bewerten und korrigieren, Arbeitsplatzgestaltung bewerten, Vor- und Nachkalkulation durchführen;
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
+3. Betriebsführung und Betriebsorganisation Der Prüfling soll nachweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und Betriebsorganisation in einem Drechsler- (Elfenbeinschnitzer-) und Holzspielzeugmacher-Betrieb wahrzunehmen. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:a)betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen,b)betriebliches Qualitätsmanagement planen und darstellen,c)Fertigungszeiterfassung bewerten und Zeitkalkulation erstellen,d)berufsbezogene Gesetze, Normen, Regeln und Vorschriften anwenden, insbesondere die Vorschriften des Umwelt- und Artenschutzes,e)Beschaffung, Lagerung und Auswahl der Werkstoffe planen und darstellen,f)die Haftung bei der Herstellung, der Instandhaltung und bei Dienstleistungen beurteilen,g)Informations- und Kommunikationssysteme in Bezug auf ihre betrieblichen Einsatzmöglichkeiten beurteilen,h)Erfordernisse der Arbeitssicherheit, des Gesundheitsschutzes und des Umweltschutzes darstellen; Gefahren beurteilen und Maßnahmen zur Gefahrenabwehr festlegen,i)Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden beschreiben. betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen, betriebliches Qualitätsmanagement planen und darstellen, Fertigungszeiterfassung bewerten und Zeitkalkulation erstellen, berufsbezogene Gesetze, Normen, Regeln und Vorschriften anwenden, insbesondere die Vorschriften des Umwelt- und Artenschutzes, Beschaffung, Lagerung und Auswahl der Werkstoffe planen und darstellen, die Haftung bei der Herstellung, der Instandhaltung und bei Dienstleistungen beurteilen, Informations- und Kommunikationssysteme in Bezug auf ihre betrieblichen Einsatzmöglichkeiten beurteilen, Erfordernisse der Arbeitssicherheit, des Gesundheitsschutzes und des Umweltschutzes darstellen; Gefahren beurteilen und Maßnahmen zur Gefahrenabwehr festlegen, Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden beschreiben.
 
 (4) Die Prüfung im Teil II ist schriftlich durchzuführen. Sie soll insgesamt nicht länger als sechs Stunden dauern.
 
@@ -197,9 +153,9 @@ i)
 
 (6) Mindestvoraussetzung für das Bestehen des Teils II der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung. Die Prüfung des Teils II ist nicht bestanden, wenn
 
-1.
+1. ein Prüfungsfach mit weniger als 30 Punkten bewertet worden ist oder
 
-2.
+2. nach durchgeführter Ergänzungsprüfung zwei Prüfungsfächer jeweils mit weniger als 50 Punkten bewertet worden sind.
 
 > (+++ § 7 Abs. 5 u. 6: Zur Anwendung vgl. § 9 +++)
 

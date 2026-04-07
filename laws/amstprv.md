@@ -20,65 +20,11 @@ Die Meisterprüfung besteht aus vier selbstständigen Prüfungsteilen. Diese Ver
 
 (2) In jedem der nachfolgend aufgeführten Handlungsfelder ist mindestens eine komplexe fallbezogene Aufgabe zu bearbeiten.
 
-1.
+1. Wettbewerbsfähigkeit von Unternehmen beurteilen Der Prüfling hat nachzuweisen, dass er betriebswirtschaftliche, kaufmännische und rechtliche Voraussetzungen für die Wettbewerbsfähigkeit eines Unternehmens und berufliche Entwicklungspotenziale im Handwerk bewerten sowie Entscheidungsnotwendigkeiten darstellen kann. Bei der Aufgabenstellung sollen mehrere der unter den Buchstaben a bis f aufgeführten Qualifikationen verknüpft werden: a)Unternehmensziele analysieren und in ein Unternehmenszielsystem einordnen,b)Bedeutung der Unternehmenskultur und des Unternehmensimages für die betriebliche Leistungs- und Wettbewerbsfähigkeit begründen,c)Situation eines Unternehmens am Markt analysieren und Erfolgspotenziale begründen,d)Informationen aus dem Rechnungswesen, insbesondere aus Bilanz sowie Gewinn- und Verlustrechnung zur Analyse von Stärken und Schwächen eines Unternehmens nutzen,e)Informationen aus dem internen und externen Rechnungswesen zur Entscheidungsvorbereitung nutzen,f)Rechtsvorschriften, insbesondere des Gewerbe- und Handwerksrechts sowie des Handels- und Wettbewerbsrechts bei der Analyse von Unternehmenszielen und -konzepten anwenden; Unternehmensziele analysieren und in ein Unternehmenszielsystem einordnen, Bedeutung der Unternehmenskultur und des Unternehmensimages für die betriebliche Leistungs- und Wettbewerbsfähigkeit begründen, Situation eines Unternehmens am Markt analysieren und Erfolgspotenziale begründen, Informationen aus dem Rechnungswesen, insbesondere aus Bilanz sowie Gewinn- und Verlustrechnung zur Analyse von Stärken und Schwächen eines Unternehmens nutzen, Informationen aus dem internen und externen Rechnungswesen zur Entscheidungsvorbereitung nutzen, Rechtsvorschriften, insbesondere des Gewerbe- und Handwerksrechts sowie des Handels- und Wettbewerbsrechts bei der Analyse von Unternehmenszielen und -konzepten anwenden;
 
-a)
+2. Gründungs- und Übernahmeaktivitäten vorbereiten, durchführen und bewerten Der Prüfling hat nachzuweisen, dass er in der Lage ist, Aufgaben im Rahmen der Gründung und Übernahme eines Unternehmens unter Berücksichtigung persönlicher, rechtlicher und betriebswirtschaftlicher Rahmenbedingungen und Ziele vorzubereiten, durchzuführen und zu bewerten sowie ihre Bedeutung für ein Unternehmenskonzept zu begründen. Bei der Aufgabenstellung sollen mehrere der unter den Buchstaben a bis j aufgeführten Qualifikationen verknüpft werden: a)Bedeutung persönlicher Voraussetzungen für den Erfolg beruflicher Selbstständigkeit begründen,b)wirtschaftliche, gesellschaftliche und kulturelle Bedeutung des Handwerks sowie Nutzen von Mitgliedschaften in den Handwerksorganisationen darstellen und bewerten,c)Möglichkeiten der Inanspruchnahme von Beratungsdienstleistungen sowie von Förder- und Unterstützungsleistungen bei Gründung und Übernahme eines Unternehmens aufzeigen und bewerten,d)Entscheidungen zu Standort, Betriebsgröße, Personalbedarf sowie zur Einrichtung und Ausstattung eines Unternehmens treffen und begründen,e)Marketingkonzept zur Markteinführung entwickeln und bewerten,f)Investitionsplan und Finanzierungskonzept aufstellen und begründen; Rentabilitätsvorschau erstellen und Liquiditätsplanung durchführen,g)Rechtsform aus einem Unternehmenskonzept ableiten und begründen,h)Rechtsvorschriften, insbesondere des bürgerlichen Rechts sowie des Gesellschafts- und Steuerrechts, im Zusammenhang mit Gründung oder Übernahme von Handwerksbetrieben anwenden,i)Notwendigkeit privater Risiko- und Altersvorsorge begründen, Möglichkeiten aufzeigen,j)Bedeutung persönlicher Aspekte sowie betriebswirtschaftlicher und rechtlicher Bestandteile eines Unternehmenskonzeptes im Zusammenhang darstellen und begründen; Bedeutung persönlicher Voraussetzungen für den Erfolg beruflicher Selbstständigkeit begründen, wirtschaftliche, gesellschaftliche und kulturelle Bedeutung des Handwerks sowie Nutzen von Mitgliedschaften in den Handwerksorganisationen darstellen und bewerten, Möglichkeiten der Inanspruchnahme von Beratungsdienstleistungen sowie von Förder- und Unterstützungsleistungen bei Gründung und Übernahme eines Unternehmens aufzeigen und bewerten, Entscheidungen zu Standort, Betriebsgröße, Personalbedarf sowie zur Einrichtung und Ausstattung eines Unternehmens treffen und begründen, Marketingkonzept zur Markteinführung entwickeln und bewerten, Investitionsplan und Finanzierungskonzept aufstellen und begründen; Rentabilitätsvorschau erstellen und Liquiditätsplanung durchführen, Rechtsform aus einem Unternehmenskonzept ableiten und begründen, Rechtsvorschriften, insbesondere des bürgerlichen Rechts sowie des Gesellschafts- und Steuerrechts, im Zusammenhang mit Gründung oder Übernahme von Handwerksbetrieben anwenden, Notwendigkeit privater Risiko- und Altersvorsorge begründen, Möglichkeiten aufzeigen, Bedeutung persönlicher Aspekte sowie betriebswirtschaftlicher und rechtlicher Bestandteile eines Unternehmenskonzeptes im Zusammenhang darstellen und begründen;
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
+3. Unternehmensführungsstrategien entwickeln Der Prüfling hat nachzuweisen, dass er in der Lage ist, unter Berücksichtigung unternehmensbezogener Stärken und Schwächen sowie marktbezogener Chancen und Risiken, ein Unternehmen zu führen, betriebliche Wachstumspotenziale zu identifizieren und Unternehmensstrategien zu entwickeln. Bei der Aufgabenstellung sollen mehrere der unter den Buchstaben a bis k aufgeführten Qualifikationen verknüpft werden: a)Bedeutung der Aufbau- und Ablauforganisation für die Entwicklung eines Unternehmens beurteilen; Anpassungen vornehmen,b)Entwicklungen bei Produkt- und Dienstleistungsinnovationen sowie Marktbedingungen, auch im internationalen Zusammenhang, bewerten und daraus Wachstumsstrategien ableiten,c)Einsatzmöglichkeiten von Marketinginstrumenten für Absatz und Beschaffung von Produkten und Dienstleistungen begründen,d)Veränderungen des Kapitalbedarfs aus Investitions-, Finanz- und Liquiditätsplanung ableiten; Alternativen der Kapitalbeschaffung darstellen,e)Konzepte für Personalplanung, -beschaffung und -qualifizierung erarbeiten und bewerten sowie Instrumente der Personalführung und -entwicklung darstellen,f)Bestimmungen des Arbeits- und Sozialversicherungsrechts bei der Entwicklung einer Unternehmensstrategie berücksichtigen,g)Chancen und Risiken zwischenbetrieblicher Kooperationen darstellen,h)Controlling zur Entwicklung, Verfolgung, Durchsetzung und Modifizierung von Unternehmenszielen nutzen,i)Instrumente zur Durchsetzung von Forderungen darstellen und Einsatz begründen,j)Notwendigkeit der Planung einer Unternehmensnachfolge, auch unter Berücksichtigung von Erb- und Familienrecht sowie steuerrechtlicher Bestimmungen, darstellen und begründen,k)Notwendigkeit der Einleitung eines Insolvenzverfahrens anhand von Unternehmensdaten prüfen; insolvenzrechtliche Konsequenzen für die Weiterführung oder Liquidation eines Unternehmens aufzeigen. Bedeutung der Aufbau- und Ablauforganisation für die Entwicklung eines Unternehmens beurteilen; Anpassungen vornehmen, Entwicklungen bei Produkt- und Dienstleistungsinnovationen sowie Marktbedingungen, auch im internationalen Zusammenhang, bewerten und daraus Wachstumsstrategien ableiten, Einsatzmöglichkeiten von Marketinginstrumenten für Absatz und Beschaffung von Produkten und Dienstleistungen begründen, Veränderungen des Kapitalbedarfs aus Investitions-, Finanz- und Liquiditätsplanung ableiten; Alternativen der Kapitalbeschaffung darstellen, Konzepte für Personalplanung, -beschaffung und -qualifizierung erarbeiten und bewerten sowie Instrumente der Personalführung und -entwicklung darstellen, Bestimmungen des Arbeits- und Sozialversicherungsrechts bei der Entwicklung einer Unternehmensstrategie berücksichtigen, Chancen und Risiken zwischenbetrieblicher Kooperationen darstellen, Controlling zur Entwicklung, Verfolgung, Durchsetzung und Modifizierung von Unternehmenszielen nutzen, Instrumente zur Durchsetzung von Forderungen darstellen und Einsatz begründen, Notwendigkeit der Planung einer Unternehmensnachfolge, auch unter Berücksichtigung von Erb- und Familienrecht sowie steuerrechtlicher Bestimmungen, darstellen und begründen, Notwendigkeit der Einleitung eines Insolvenzverfahrens anhand von Unternehmensdaten prüfen; insolvenzrechtliche Konsequenzen für die Weiterführung oder Liquidation eines Unternehmens aufzeigen.
 
 ### § 3 — Prüfungsdauer und Bestehen des Teils III
 
@@ -90,9 +36,9 @@ k)
 
 (4) Mindestvoraussetzung für das Bestehen des Teils III der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung. Die Prüfung des Teils III ist nicht bestanden, wenn
 
-1.
+1. ein Handlungsfeld mit weniger als 30 Punkten bewertet worden ist oder
 
-2.
+2. nach durchgeführter Ergänzungsprüfung zwei Handlungsfelder jeweils mit weniger als 50 Punkten bewertet worden sind.
 
 ### § 4 — Ziel, Gliederung und Inhalt des Teils IV
 
@@ -102,73 +48,19 @@ k)
 
 (3) Im schriftlichen Teil der Prüfung sind fallbezogene Aufgaben in jedem der nachfolgend aufgeführten Handlungsfelder zu bearbeiten:
 
-1.
+1. Ausbildungsvoraussetzungen prüfen und Ausbildung planen Der Prüfling hat nachzuweisen, dass er in der Lage ist, Ausbildungsvoraussetzungen auf der Grundlage betrieblicher, berufsbezogener und rechtlicher Bestimmungen zu prüfen und zu bewerten sowie die Ausbildung, auch unter Berücksichtigung außerbetrieblicher Ausbildungszeiten, zu planen. Bei der Aufgabenstellung sollen mehrere der unter den Buchstaben a bis g aufgeführten Qualifikationen verknüpft werden: a)Vorteile und Nutzen betrieblicher Ausbildung darstellen und begründen,b)betrieblichen Ausbildungsbedarf auf der Grundlage rechtlicher, tarifvertraglicher und betrieblicher Rahmenbedingungen planen sowie hierzu Entscheidungen vorbereiten und treffen,c)Strukturen des Berufsbildungssystems und seine Schnittstellen darstellen,d)Ausbildungsberufe für den Betrieb auswählen und Auswahl begründen,e)Eignung des Betriebes für die Ausbildung in angestrebten Ausbildungsberufen prüfen, insbesondere unter Berücksichtigung von Ausbildung im Verbund, überbetrieblicher und außerbetrieblicher Ausbildung,f)Möglichkeiten des Einsatzes von berufsausbildungsvorbereitenden Maßnahmen prüfen und bewerten,g)innerbetriebliche Aufgabenverteilung für die Ausbildung unter Berücksichtigung von Funktionen und Qualifikationen der an der Ausbildung Mitwirkenden koordinieren; Vorteile und Nutzen betrieblicher Ausbildung darstellen und begründen, betrieblichen Ausbildungsbedarf auf der Grundlage rechtlicher, tarifvertraglicher und betrieblicher Rahmenbedingungen planen sowie hierzu Entscheidungen vorbereiten und treffen, Strukturen des Berufsbildungssystems und seine Schnittstellen darstellen, Ausbildungsberufe für den Betrieb auswählen und Auswahl begründen, Eignung des Betriebes für die Ausbildung in angestrebten Ausbildungsberufen prüfen, insbesondere unter Berücksichtigung von Ausbildung im Verbund, überbetrieblicher und außerbetrieblicher Ausbildung, Möglichkeiten des Einsatzes von berufsausbildungsvorbereitenden Maßnahmen prüfen und bewerten, innerbetriebliche Aufgabenverteilung für die Ausbildung unter Berücksichtigung von Funktionen und Qualifikationen der an der Ausbildung Mitwirkenden koordinieren;
 
-a)
+2. Ausbildung vorbereiten und Einstellung von Auszubildenden durchführen Der Prüfling hat nachzuweisen, dass er in der Lage ist, Aufgaben der Ausbildungsvorbereitung wahrzunehmen, Auswahlkriterien für Einstellungen festzulegen sowie Einstellungsverfahren durchzuführen, auch unter Berücksichtigung betrieblicher Arbeits- und Geschäftsprozesse sowie rechtlicher Aspekte. Bei der Aufgabenstellung sollen mehrere der unter den Buchstaben a bis f aufgeführten Qualifikationen verknüpft werden: a)auf der Grundlage einer Ausbildungsordnung einen betrieblichen Ausbildungsplan erstellen, der sich insbesondere an berufstypischen Arbeits- und Geschäftsprozessen orientiert,b)Möglichkeiten der Mitwirkung und Mitbestimmung der betrieblichen Interessenvertretungen in der Berufsbildung darstellen und begründen,c)Kooperationsbedarf ermitteln und inhaltliche sowie organisatorische Abstimmung mit Kooperationspartnern, insbesondere der Berufsschule, durchführen,d)Kriterien und Verfahren zur Auswahl von Auszubildenden auch unter Berücksichtigung ihrer Verschiedenartigkeit anwenden,e)Berufsausbildungsvertrag vorbereiten und abschließen sowie die Eintragung bei der zuständigen Stelle veranlassen,f)Möglichkeiten prüfen, ob Teile der Berufsausbildung im Ausland durchgeführt werden können; auf der Grundlage einer Ausbildungsordnung einen betrieblichen Ausbildungsplan erstellen, der sich insbesondere an berufstypischen Arbeits- und Geschäftsprozessen orientiert, Möglichkeiten der Mitwirkung und Mitbestimmung der betrieblichen Interessenvertretungen in der Berufsbildung darstellen und begründen, Kooperationsbedarf ermitteln und inhaltliche sowie organisatorische Abstimmung mit Kooperationspartnern, insbesondere der Berufsschule, durchführen, Kriterien und Verfahren zur Auswahl von Auszubildenden auch unter Berücksichtigung ihrer Verschiedenartigkeit anwenden, Berufsausbildungsvertrag vorbereiten und abschließen sowie die Eintragung bei der zuständigen Stelle veranlassen, Möglichkeiten prüfen, ob Teile der Berufsausbildung im Ausland durchgeführt werden können;
 
-b)
+3. Ausbildung durchführen Der Prüfling hat nachzuweisen, dass er in der Lage ist, Lernprozesse handlungsorientiert zu planen und zu kontrollieren sowie selbstständiges Lernen zu fördern. Dabei sind berufstypische Arbeits- und Geschäftsprozesse sowie Einsatzmöglichkeiten und Lernvoraussetzungen der Auszubildenden zu berücksichtigen. Bei der Aufgabenstellung sollen mehrere der unter den Buchstaben a bis j aufgeführten Qualifikationen verknüpft werden: a)lernförderliche Bedingungen und motivierende Lernkultur schaffen, Rückmeldungen geben und empfangen,b)Probezeit organisieren, gestalten und bewerten,c)aus dem betrieblichen Ausbildungsplan und den berufstypischen Arbeits- und Geschäftsprozessen betriebliche Lern- und Arbeitsaufgaben entwickeln und gestalten,d)Ausbildungsmethoden und -medien zielgruppengerecht auswählen und situationsspezifisch einsetzen,e)Auszubildende bei Lernschwierigkeiten durch individuelle Gestaltung der Ausbildung und Lernberatung unterstützen, ausbildungsunterstützende Hilfen einsetzen und Möglichkeiten zur Verlängerung der Ausbildungszeit prüfen,f)für Auszubildende zusätzliche Ausbildungsangebote, insbesondere Zusatzqualifikationen, prüfen und vorschlagen; Möglichkeiten der Verkürzung der Ausbildungsdauer und der vorzeitigen Zulassung zur Abschluss- oder Gesellenprüfung prüfen,g)soziale und persönliche Entwicklungen von Auszubildenden fördern; Probleme und Konflikte rechtzeitig erkennen und auf Lösungen hinwirken,h)Lernen und Arbeiten im Team entwickeln,i)Leistungen von Auszubildenden feststellen und bewerten, Leistungsbeurteilungen Dritter und Prüfungsergebnisse auswerten, Beurteilungsgespräche führen, Rückschlüsse für den weiteren Ausbildungsverlauf ziehen,j)interkulturelle Kompetenzen im Betrieb fördern; lernförderliche Bedingungen und motivierende Lernkultur schaffen, Rückmeldungen geben und empfangen, Probezeit organisieren, gestalten und bewerten, aus dem betrieblichen Ausbildungsplan und den berufstypischen Arbeits- und Geschäftsprozessen betriebliche Lern- und Arbeitsaufgaben entwickeln und gestalten, Ausbildungsmethoden und -medien zielgruppengerecht auswählen und situationsspezifisch einsetzen, Auszubildende bei Lernschwierigkeiten durch individuelle Gestaltung der Ausbildung und Lernberatung unterstützen, ausbildungsunterstützende Hilfen einsetzen und Möglichkeiten zur Verlängerung der Ausbildungszeit prüfen, für Auszubildende zusätzliche Ausbildungsangebote, insbesondere Zusatzqualifikationen, prüfen und vorschlagen; Möglichkeiten der Verkürzung der Ausbildungsdauer und der vorzeitigen Zulassung zur Abschluss- oder Gesellenprüfung prüfen, soziale und persönliche Entwicklungen von Auszubildenden fördern; Probleme und Konflikte rechtzeitig erkennen und auf Lösungen hinwirken, Lernen und Arbeiten im Team entwickeln, Leistungen von Auszubildenden feststellen und bewerten, Leistungsbeurteilungen Dritter und Prüfungsergebnisse auswerten, Beurteilungsgespräche führen, Rückschlüsse für den weiteren Ausbildungsverlauf ziehen, interkulturelle Kompetenzen im Betrieb fördern;
 
-c)
+4. Ausbildung abschließen Der Prüfling hat nachzuweisen, dass er in der Lage ist, die Ausbildung zu einem erfolgreichen Abschluss zu führen und Perspektiven von weiteren Lern- und Qualifizierungswegen aufzuzeigen. Bei der Aufgabenstellung sollen mehrere der unter den Buchstaben a bis d aufgeführten Qualifikationen verknüpft werden: a)Auszubildende auf die Abschluss- oder Gesellenprüfung unter Berücksichtigung der Prüfungstermine vorbereiten und die Ausbildung zu einem erfolgreichen Abschluss führen,b)für die Anmeldung der Auszubildenden zu Prüfungen bei der zuständigen Stelle Sorge tragen und diese auf durchführungsrelevante Besonderheiten hinweisen,c)schriftliche Zeugnisse auf der Grundlage von Leistungsbeurteilungen erstellen,d)Auszubildende über betriebliche Entwicklungswege und berufliche Weiterbildungsmöglichkeiten informieren und beraten. Auszubildende auf die Abschluss- oder Gesellenprüfung unter Berücksichtigung der Prüfungstermine vorbereiten und die Ausbildung zu einem erfolgreichen Abschluss führen, für die Anmeldung der Auszubildenden zu Prüfungen bei der zuständigen Stelle Sorge tragen und diese auf durchführungsrelevante Besonderheiten hinweisen, schriftliche Zeugnisse auf der Grundlage von Leistungsbeurteilungen erstellen, Auszubildende über betriebliche Entwicklungswege und berufliche Weiterbildungsmöglichkeiten informieren und beraten.
 
-d)
+(4) Der praktische Teil der Prüfung besteht aus
 
-e)
+1. einer Präsentation oder einer praktischen Durchführung einer Ausbildungssituation und
 
-f)
-
-g)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-(4) Der praktische Teil der Prüfung besteht aus Für die Präsentation oder die praktische Durchführung wählt der Prüfling eine berufstypische Ausbildungssituation aus. Die Auswahl und Gestaltung der Ausbildungssituation sind im Fachgespräch zu erläutern.
-
-1.
-
-2.
+2. einem Fachgespräch.
 
 ### § 5 — Prüfungsdauer und Bestehen des Teils IV
 

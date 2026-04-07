@@ -26,33 +26,33 @@ Auf Grund des Artikels 3 des Gesetzes zu den Verträgen vom 5. Oktober 2004, 12.
 
 (4) Die Zulassung ist zu versagen, wenn für den nach Absatz 1 Satz 2 beantragten Umfang
 
-1.
+1. Tatsachen die Annahme rechtfertigen, dass der Antragsteller für die Wahrnehmung der Rechte und Pflichten nach § 1 in Bezug auf die dort genannten Vertragswerke nicht die erforderliche Leistungsfähigkeit, Zuverlässigkeit oder Fachkunde besitzt,
 
-2.
+2. Tatsachen die Annahme rechtfertigen, dass durch die Wahrnehmung der Rechte und Pflichten nach § 1 die öffentliche Sicherheit oder Ordnung gefährdet würde,
 
-3.
+3. der Antragsteller nicht nach § 15 Absatz 2 in Verbindung mit § 16 Absatz 1 des Postgesetzes zur Erbringung des Universaldienstes verpflichtet ist.
 
-(5) Die nach Absatz 3 erforderliche Die Bundesnetzagentur veröffentlicht auf ihrer Internetseite, welche Nachweise und Unterlagen für die Überprüfung der Zuverlässigkeit, Leistungsfähigkeit und Fachkunde vorzulegen sind.
+(5) Die nach Absatz 3 erforderliche
 
-1.
+1. Leistungsfähigkeit besitzt, wer die Gewähr dafür bietet, dass ihm die für den Aufbau und den Betrieb der zur Wahrnehmung der Rechte und Pflichten nach § 1 erforderlichen Produktionsmittel für den nach Absatz 1 Satz 2 beantragten Umfang zur Verfügung stehen werden. Hierunter fällt auch, dass die Voraussetzungen des Kapitels 3 Abschnitt 2 des Postgesetzes in der jeweils geltenden Fassung hinsichtlich der vorzuhaltenden Universaldienstfilialen, sowie Vorgaben zur Zustellung und der Laufzeit in Bezug auf die beantragten Dienste erfüllt werden.
 
-2.
+2. Zuverlässigkeit besitzt, wer die Gewähr dafür bietet, dass er als zugelassenes Unternehmen die Rechtsvorschriften einhalten wird.
 
-3.
+3. Fachkunde besitzt, wer die Gewähr dafür bietet, dass die bei der Wahrnehmung der Rechte und Pflichten nach § 1 tätigen Personen über die erforderlichen Kenntnisse, Erfahrungen und Fertigkeiten für den nach Absatz 1 Satz 2 beantragten Umfang verfügen werden.
 
 (6) Die wesentlichen Rechte nach § 1 umfassen insbesondere
 
-1.
+1. den Zugang zum und die Einbindung in das universelle Postgebiet mit der Folge, grenzüberschreitende Postdienstleistungen anbieten zu können;
 
-2.
+2. die Nutzung der einschlägigen Formulare für den schnellen Austausch von Sendungen;
 
-3.
+3. die Teilnahme an Sitzungen der deutschen Delegation beim Weltpostverein.
 
-(7) Die wesentlichen Pflichten nach § 1 umfassen insbesondere
+(7) Die wesentlichen Pflichten nach § 1 umfassen insbesondere
 
-1.
+1. die Unterbreitung diskriminierungsfreier Angebote des zugelassenen Unternehmens im gesamten Bundesgebiet im Zusammenwirken mit allen Benannten Betreibern weltweit sowie die Verpflichtung, Nachfragern gleichen Zugang zu den angebotenen Postdienstleistungen zu gewähren (Kontrahierungszwang);
 
-2.
+2. die Gewährleistung sicheren Postaustauschs ohne Gefährdung der öffentlichen Sicherheit oder Ordnung.
 
 (8) Anträge auf Zulassung und Benennung sind bei der Bundesnetzagentur in deutscher Sprache zu stellen. Die Bundesnetzagentur setzt das Bundesministerium für Wirtschaft und Energie über eingegangene vollständige Anträge auf Zulassung unverzüglich in Kenntnis. Die Bundesnetzagentur entscheidet über den Antrag auf Zulassung und gibt die Entscheidung dem Antragsteller bekannt. Im Fall der Erteilung der Zulassung wird das zugelassene Unternehmen vom Bundesministerium für Wirtschaft und Energie als „Benannter Betreiber“ bei dem Weltpostverein benannt.
 
@@ -60,19 +60,19 @@ Auf Grund des Artikels 3 des Gesetzes zu den Verträgen vom 5. Oktober 2004, 12.
 
 (1) Verletzt das zugelassene Unternehmen seine Verpflichtungen nach dieser Rechtsverordnung, so kann die Bundesnetzagentur die zur Einhaltung der Verpflichtung erforderlichen Maßnahmen anordnen oder dem zugelassenen Unternehmen die Tätigkeit als zugelassenes Unternehmen ganz oder zeitweise untersagen.
 
-(2) Eine Zulassung kann durch die Bundesnetzagentur über die in § 49 des Verwaltungsverfahrensgesetzes genannten Gründe hinaus auch ganz oder teilweise widerrufen werden, wenn  Eine Zulassung kann auch widerrufen werden, wenn aufgrund von Entscheidungen des Weltpostvereins das zugelassene Unternehmen beim Weltpostverein nicht als „Benannter Betreiber“ benannt werden kann. Dies gilt auch, wenn eine bereits erfolgte Benennung aufgrund von Entscheidungen des Weltpostvereins aufzuheben ist. Für infolge von Entscheidungen nach den Sätzen 1 bis 3 auftretende Vermögensnachteile findet eine Entschädigung durch die Bundesrepublik Deutschland nicht statt.
+(2) Eine Zulassung kann durch die Bundesnetzagentur über die in § 49 des Verwaltungsverfahrensgesetzes genannten Gründe hinaus auch ganz oder teilweise widerrufen werden, wenn
 
-1.
+1. das zugelassene Unternehmen seine Verpflichtungen nach dieser Rechtsverordnung in schwerer oder wiederholter Weise verletzt,
 
-2.
+2. das zugelassene Unternehmen den von der Bundesnetzagentur zur Abhilfe angeordneten Maßnahmen nach Absatz 1 innerhalb einer ihm gesetzten angemessenen Frist nicht nachkommt oder
 
-3.
+3. nachträglich Gründe nach § 2 Absatz 4 eintreten, die zur Versagung der Zulassung geführt hätten.
 
 ### § 4 — Mitteilungspflichten und Veröffentlichung
 
 (1) Das zugelassene Unternehmen hat die Aufnahme der Wahrnehmung der Rechte und Pflichten nach § 1 innerhalb eines Monats der Bundesnetzagentur schriftlich oder elektronisch mitzuteilen.
 
-(2) Beabsichtigt das zugelassene Unternehmen die Rechte und Pflichten nach § 1 zukünftig nicht mehr oder nicht mehr im vollen Umfang wahrzunehmen, hat es die Einschränkung der Bundesnetzagentur spätestens sechs Monate vor Beginn des nächsten Weltpostkongresses mit Wirkung zum Ablauf der Gültigkeit des zu diesem Zeitpunkt geltenden Weltpostvertrages mitzuteilen.
+(2) Beabsichtigt das zugelassene Unternehmen die Rechte und Pflichten nach § 1 zukünftig nicht mehr oder nicht mehr im vollen Umfang wahrzunehmen, hat es die Einschränkung der Bundesnetzagentur spätestens sechs Monate vor Beginn des nächsten Weltpostkongresses mit Wirkung zum Ablauf der Gültigkeit des zu diesem Zeitpunkt geltenden Weltpostvertrages mitzuteilen.
 
 (3) Die Bundesnetzagentur veröffentlicht die Entscheidungen nach den §§ 2 und 3 sowie Mitteilungen nach den Absätzen 1 und 2 im Bundesanzeiger sowie auf ihrer Internetseite.
 

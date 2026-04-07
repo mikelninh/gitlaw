@@ -13,11 +13,11 @@ Es wird ein unabhängiger Sachverständigenrat gebildet, der die Bezeichnung "De
 
 (1) Der Deutsche Ethikrat verfolgt die ethischen, gesellschaftlichen, naturwissenschaftlichen, medizinischen und rechtlichen Fragen sowie die voraussichtlichen Folgen für Individuum und Gesellschaft, die sich im Zusammenhang mit der Forschung und den Entwicklungen insbesondere auf dem Gebiet der Lebenswissenschaften und ihrer Anwendung auf den Menschen ergeben. Zu seinen Aufgaben gehören insbesondere:
 
-1.
+1. Information der Öffentlichkeit und Förderung der Diskussion in der Gesellschaft unter Einbeziehung der verschiedenen gesellschaftlichen Gruppen;
 
-2.
+2. Erarbeitung von Stellungnahmen sowie von Empfehlungen für politisches und gesetzgeberisches Handeln;
 
-3.
+3. Zusammenarbeit mit nationalen Ethikräten und vergleichbaren Einrichtungen anderer Staaten und internationaler Organisationen.
 
 (2) Der Deutsche Ethikrat führt jedes Jahr mindestens eine öffentliche Veranstaltung zu ethischen Fragen insbesondere im Bereich der Lebenswissenschaften durch. Darüber hinaus kann er weitere öffentliche Veranstaltungen, Anhörungen und öffentliche Sitzungen durchführen.
 

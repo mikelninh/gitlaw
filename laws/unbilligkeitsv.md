@@ -28,7 +28,11 @@ Unbillig ist die Inanspruchnahme, solange Hilfebedürftige sozialversicherungspf
 
 ### § 5 — Bevorstehende Erwerbstätigkeit
 
-(1) Unbillig ist die Inanspruchnahme, wenn Hilfebedürftige durch die Vorlage eines Arbeitsvertrages oder anderer ebenso verbindlicher, schriftlicher Zusagen glaubhaft machen, dass sie in nächster Zukunft eine Erwerbstätigkeit gemäß § 4 aufnehmen und nicht nur vorübergehend ausüben werden.(2) Haben Hilfebedürftige bereits einmal glaubhaft gemacht, dass sie alsbald eine Erwerbstätigkeit nach Absatz 1 aufnehmen, so ist eine erneute Glaubhaftmachung ausgeschlossen.(3) Ist bereits vor dem Zeitpunkt der geplanten Aufnahme der Beschäftigung oder Erwerbstätigkeit anzunehmen, dass diese nicht zu Stande kommen wird, entfällt die Unbilligkeit.
+(1) Unbillig ist die Inanspruchnahme, wenn Hilfebedürftige durch die Vorlage eines Arbeitsvertrages oder anderer ebenso verbindlicher, schriftlicher Zusagen glaubhaft machen, dass sie in nächster Zukunft eine Erwerbstätigkeit gemäß § 4 aufnehmen und nicht nur vorübergehend ausüben werden.
+
+(2) Haben Hilfebedürftige bereits einmal glaubhaft gemacht, dass sie alsbald eine Erwerbstätigkeit nach Absatz 1 aufnehmen, so ist eine erneute Glaubhaftmachung ausgeschlossen.
+
+(3) Ist bereits vor dem Zeitpunkt der geplanten Aufnahme der Beschäftigung oder Erwerbstätigkeit anzunehmen, dass diese nicht zu Stande kommen wird, entfällt die Unbilligkeit.
 
 ### § 6 — Hilfebedürftigkeit im Alter
 

@@ -21,11 +21,19 @@ Bausparkassen der in § 1 bezeichneten Art können für vor dem 21. Juni 1948 be
 
 ### § 3
 
-(1) Bausparkassen der in § 1 bezeichneten Art haben in die Umstellungsrechnung einzustellen: 1.Auf der Passivseitea)ihre Verbindlichkeiten (einschließlich Rückstellungen) im Sinne von § 4 Abs. 1 ABuchstaben a bis c der Bausparkassenverordnung insoweit, als sie wegen dieser Verbindlichkeiten nach § 2 in Anspruch genommen werden können, b)das vorläufige Eigenkapital nach Maßgabe des § 4 Abs. 1 A Buchstabe d der Bausparkassenverordnung. 2.Auf der Aktivseite alle Vermögensgegenstände im Sinne von § 4 Abs. 1 B Buchstaben a bis d der Bausparkassenverordnung, soweit sie am 21. Juni 1948 im Währungsgebiet vorhanden waren.(2) Soweit in den Durchführungsverordnungen zum Umstellungsgesetz auf das frühere Eigenkapital Bezug genommen ist, ist bei Bausparkassen der in § 1 bezeichneten Art nur der auf das Währungsgebiet entfallende Teilbetrag des früheren Eigenkapitals zu berücksichtigen. Dieser Teilbetrag errechnet sich aus dem in Reichsmark berechneten Verhältnis der Verbindlichkeiten, für die sie nach § 2 im Währungsgebiet in Anspruch genommen werden können, zu den Gesamtverbindlichkeiten, die am 20. Juni 1948 bestanden haben.
+(1) Bausparkassen der in § 1 bezeichneten Art haben in die Umstellungsrechnung einzustellen:
+
+1. Auf der Passivseitea)ihre Verbindlichkeiten (einschließlich Rückstellungen) im Sinne von § 4 Abs. 1 ABuchstaben a bis c der Bausparkassenverordnung insoweit, als sie wegen dieser Verbindlichkeiten nach § 2 in Anspruch genommen werden können, b)das vorläufige Eigenkapital nach Maßgabe des § 4 Abs. 1 A Buchstabe d der Bausparkassenverordnung. ihre Verbindlichkeiten (einschließlich Rückstellungen) im Sinne von § 4 Abs. 1 A Buchstaben a bis c der Bausparkassenverordnung insoweit, als sie wegen dieser Verbindlichkeiten nach § 2 in Anspruch genommen werden können, das vorläufige Eigenkapital nach Maßgabe des § 4 Abs. 1 A Buchstabe d der Bausparkassenverordnung.
+
+2. Auf der Aktivseite
+
+(2) Soweit in den Durchführungsverordnungen zum Umstellungsgesetz auf das frühere Eigenkapital Bezug genommen ist, ist bei Bausparkassen der in § 1 bezeichneten Art nur der auf das Währungsgebiet entfallende Teilbetrag des früheren Eigenkapitals zu berücksichtigen. Dieser Teilbetrag errechnet sich aus dem in Reichsmark berechneten Verhältnis der Verbindlichkeiten, für die sie nach § 2 im Währungsgebiet in Anspruch genommen werden können, zu den Gesamtverbindlichkeiten, die am 20. Juni 1948 bestanden haben.
 
 ### § 4
 
-(1) Bausparkassen der in § 1 bezeichneten Art haben an Stelle eines Reichsmarkabschlusses ihre Vermögenswerte und diejenigen Verpflichtungen, für die sie im Währungsgebiet in Anspruch genommen werden können, auf den 20. Juni 1948 in Reichsmark aufzustellen.(2) Die Aufstellung der Vermögenswerte und Verpflichtungen nach Absatz 1 ist im Währungsgebiet nach den für den Jahresabschluß geltenden Vorschriften zu veröffentlichen.
+(1) Bausparkassen der in § 1 bezeichneten Art haben an Stelle eines Reichsmarkabschlusses ihre Vermögenswerte und diejenigen Verpflichtungen, für die sie im Währungsgebiet in Anspruch genommen werden können, auf den 20. Juni 1948 in Reichsmark aufzustellen.
+
+(2) Die Aufstellung der Vermögenswerte und Verpflichtungen nach Absatz 1 ist im Währungsgebiet nach den für den Jahresabschluß geltenden Vorschriften zu veröffentlichen.
 
 ### § 5
 

@@ -12,33 +12,29 @@
 
 ### § 1 — Allgemeine Vorschriften für Bauflächen und Baugebiete
 
-(1) Im Flächennutzungsplan können die für die Bebauung vorgesehenen Flächen nach der allgemeinen Art ihrer baulichen Nutzung (Bauflächen) dargestellt werden als
-
-(2) Die für die Bebauung vorgesehenen Flächen können nach der besonderen Art ihrer baulichen Nutzung (Baugebiete) dargestellt werden als
-
 (3) Im Bebauungsplan können die in Absatz 2 bezeichneten Baugebiete festgesetzt werden. Durch die Festsetzung werden die Vorschriften der §§ 2 bis 14 Bestandteil des Bebauungsplans, soweit nicht auf Grund der Absätze 4 bis 10 etwas anderes bestimmt wird. Bei Festsetzung von Sondergebieten finden die Vorschriften über besondere Festsetzungen nach den Absätzen 4 bis 10 keine Anwendung; besondere Festsetzungen über die Art der Nutzung können nach den §§ 10 und 11 getroffen werden.
 
-(4) Für die in den §§ 4 bis 9 bezeichneten Baugebiete können im Bebauungsplan für das jeweilige Baugebiet Festsetzungen getroffen werden, die das Baugebiet gliedern. Die Festsetzungen nach Satz 1 können auch für mehrere Gewerbegebiete einer Gemeinde im Verhältnis zueinander getroffen werden; dies gilt auch für Industriegebiete. Absatz 5 bleibt unberührt.
+(4) Für die in den §§ 4 bis 9 bezeichneten Baugebiete können im Bebauungsplan für das jeweilige Baugebiet Festsetzungen getroffen werden, die das Baugebiet
 
-1.
+1. nach der Art der zulässigen Nutzung,
 
-2.
+2. nach der Art der Betriebe und Anlagen und deren besonderen Bedürfnissen und Eigenschaften
 
 (5) Im Bebauungsplan kann festgesetzt werden, dass bestimmte Arten von Nutzungen, die nach den §§ 2 bis 9 sowie 13 und 13a allgemein zulässig sind, nicht zulässig sind oder nur ausnahmsweise zugelassen werden können, sofern die allgemeine Zweckbestimmung des Baugebiets gewahrt bleibt.
 
 (6) Im Bebauungsplan kann festgesetzt werden, dass alle oder einzelne Ausnahmen, die in den Baugebieten nach den §§ 2 bis 9 vorgesehen sind,
 
-1.
+1. nicht Bestandteil des Bebauungsplans werden oder
 
-2.
+2. in dem Baugebiet allgemein zulässig sind, sofern die allgemeine Zweckbestimmung des Baugebiets gewahrt bleibt.
 
 (7) In Bebauungsplänen für Baugebiete nach den §§ 4 bis 9 kann, wenn besondere städtebauliche Gründe dies rechtfertigen (§ 9 Absatz 3 des Baugesetzbuchs), festgesetzt werden, dass in bestimmten Geschossen, Ebenen oder sonstigen Teilen baulicher Anlagen
 
-1.
+1. nur einzelne oder mehrere der in dem Baugebiet allgemein zulässigen Nutzungen zulässig sind,
 
-2.
+2. einzelne oder mehrere der in dem Baugebiet allgemein zulässigen Nutzungen unzulässig sind oder als Ausnahme zugelassen werden können oder
 
-3.
+3. alle oder einzelne Ausnahmen, die in den Baugebieten nach den §§ 4 bis 9 vorgesehen sind, nicht zulässig oder, sofern die allgemeine Zweckbestimmung des Baugebiets gewahrt bleibt, allgemein zulässig sind.
 
 (8) Die Festsetzungen nach den Absätzen 4 bis 7 können sich auch auf Teile des Baugebiets beschränken.
 
@@ -52,19 +48,19 @@
 
 (2) Zulässig sind
 
-1.
+1. Kleinsiedlungen einschließlich Wohngebäude mit entsprechenden Nutzgärten, landwirtschaftliche Nebenerwerbsstellen und Gartenbaubetriebe,
 
-2.
+2. die der Versorgung des Gebiets dienenden Läden, Schank- und Speisewirtschaften sowie nicht störenden Handwerksbetriebe.
 
 (3) Ausnahmsweise können zugelassen werden
 
-1.
+1. sonstige Wohngebäude mit nicht mehr als zwei Wohnungen,
 
-2.
+2. Anlagen für kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke,
 
-3.
+3. Tankstellen,
 
-4.
+4. nicht störende Gewerbebetriebe.
 
 ### § 3 — Reine Wohngebiete
 
@@ -72,15 +68,15 @@
 
 (2) Zulässig sind
 
-1.
+1. Wohngebäude,
 
-2.
+2. Anlagen zur Kinderbetreuung, die den Bedürfnissen der Bewohner des Gebiets dienen.
 
 (3) Ausnahmsweise können zugelassen werden
 
-1.
+1. Läden und nicht störende Handwerksbetriebe, die zur Deckung des täglichen Bedarfs für die Bewohner des Gebiets dienen, sowie kleine Betriebe des Beherbergungsgewerbes,
 
-2.
+2. sonstige Anlagen für soziale Zwecke sowie den Bedürfnissen der Bewohner des Gebiets dienende Anlagen für kirchliche, kulturelle, gesundheitliche und sportliche Zwecke.
 
 (4) Zu den nach Absatz 2 sowie den §§ 2, 4 bis 7 zulässigen Wohngebäuden gehören auch solche, die ganz oder teilweise der Betreuung und Pflege ihrer Bewohner dienen.
 
@@ -90,23 +86,23 @@
 
 (2) Zulässig sind
 
-1.
+1. Wohngebäude,
 
-2.
+2. die der Versorgung des Gebiets dienenden Läden, Schank- und Speisewirtschaften sowie nicht störenden Handwerksbetriebe,
 
-3.
+3. Anlagen für kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke.
 
 (3) Ausnahmsweise können zugelassen werden
 
-1.
+1. Betriebe des Beherbergungsgewerbes,
 
-2.
+2. sonstige nicht störende Gewerbebetriebe,
 
-3.
+3. Anlagen für Verwaltungen,
 
-4.
+4. Gartenbaubetriebe,
 
-5.
+5. Tankstellen.
 
 ### § 4a — Gebiete zur Erhaltung und Entwicklung der Wohnnutzung (besondere Wohngebiete)
 
@@ -114,29 +110,29 @@
 
 (2) Zulässig sind
 
-1.
+1. Wohngebäude,
 
-2.
+2. Läden, Betriebe des Beherbergungsgewerbes, Schank- und Speisewirtschaften,
 
-3.
+3. sonstige Gewerbebetriebe,
 
-4.
+4. Geschäfts- und Bürogebäude,
 
-5.
+5. Anlagen für kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke.
 
 (3) Ausnahmsweise können zugelassen werden
 
-1.
+1. Anlagen für zentrale Einrichtungen der Verwaltung,
 
-2.
+2. Vergnügungsstätten, soweit sie nicht wegen ihrer Zweckbestimmung oder ihres Umfangs nur in Kerngebieten allgemein zulässig sind,
 
-3.
+3. Tankstellen.
 
 (4) Für besondere Wohngebiete oder Teile solcher Gebiete kann, wenn besondere städtebauliche Gründe dies rechtfertigen (§ 9 Absatz 3 des Baugesetzbuchs), festgesetzt werden, dass
 
-1.
+1. oberhalb eines im Bebauungsplan bestimmten Geschosses nur Wohnungen zulässig sind oder
 
-2.
+2. in Gebäuden ein im Bebauungsplan bestimmter Anteil der zulässigen Geschossfläche oder eine bestimmte Größe der Geschossfläche für Wohnungen zu verwenden ist.
 
 ### § 5 — Dorfgebiete
 
@@ -144,23 +140,23 @@
 
 (2) Zulässig sind
 
-1.
+1. Wirtschaftsstellen land- und forstwirtschaftlicher Betriebe und die dazugehörigen Wohnungen und Wohngebäude,
 
-2.
+2. Kleinsiedlungen einschließlich Wohngebäude mit entsprechenden Nutzgärten und landwirtschaftliche Nebenerwerbsstellen,
 
-3.
+3. sonstige Wohngebäude,
 
-4.
+4. Betriebe zur Be- und Verarbeitung und Sammlung land- und forstwirtschaftlicher Erzeugnisse,
 
-5.
+5. Einzelhandelsbetriebe, Schank- und Speisewirtschaften sowie Betriebe des Beherbergungsgewerbes,
 
-6.
+6. sonstige Gewerbebetriebe,
 
-7.
+7. Anlagen für örtliche Verwaltungen sowie für kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke,
 
-8.
+8. Gartenbaubetriebe,
 
-9.
+9. Tankstellen.
 
 (3) Ausnahmsweise können Vergnügungsstätten im Sinne des § 4a Absatz 3 Nummer 2 zugelassen werden.
 
@@ -170,29 +166,29 @@
 
 (2) Zulässig sind
 
-1.
+1. Wohngebäude,
 
-2.
+2. Wirtschaftsstellen land- und forstwirtschaftlicher Nebenerwerbsbetriebe und die dazugehörigen Wohnungen und Wohngebäude,
 
-3.
+3. Kleinsiedlungen einschließlich Wohngebäude mit entsprechenden Nutzgärten,
 
-4.
+4. nicht gewerbliche Einrichtungen und Anlagen für die Tierhaltung,
 
-5.
+5. die der Versorgung des Gebiets dienenden Läden sowie Schank- und Speisewirtschaften,
 
-6.
+6. Betriebe des Beherbergungsgewerbes,
 
-7.
+7. sonstige Gewerbebetriebe,
 
-8.
+8. Anlagen für örtliche Verwaltungen sowie für kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke.
 
 (3) Ausnahmsweise können zugelassen werden
 
-1.
+1. Wirtschaftsstellen land- und forstwirtschaftlicher Betriebe und die dazugehörigen Wohnungen und Wohngebäude,
 
-2.
+2. Gartenbaubetriebe,
 
-3.
+3. Tankstellen.
 
 ### § 6 — Mischgebiete
 
@@ -200,21 +196,21 @@
 
 (2) Zulässig sind
 
-1.
+1. Wohngebäude,
 
-2.
+2. Geschäfts- und Bürogebäude,
 
-3.
+3. Einzelhandelsbetriebe, Schank- und Speisewirtschaften sowie Betriebe des Beherbergungsgewerbes,
 
-4.
+4. sonstige Gewerbebetriebe,
 
-5.
+5. Anlagen für Verwaltungen sowie für kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke,
 
-6.
+6. Gartenbaubetriebe,
 
-7.
+7. Tankstellen,
 
-8.
+8. Vergnügungsstätten im Sinne des § 4a Absatz 3 Nummer 2 in den Teilen des Gebiets, die überwiegend durch gewerbliche Nutzungen geprägt sind.
 
 (3) Ausnahmsweise können Vergnügungsstätten im Sinne des § 4a Absatz 3 Nummer 2 außerhalb der in Absatz 2 Nummer 8 bezeichneten Teile des Gebiets zugelassen werden.
 
@@ -224,31 +220,31 @@
 
 (2) Zulässig sind
 
-1.
+1. Wohngebäude,
 
-2.
+2. Geschäfts- und Bürogebäude,
 
-3.
+3. Einzelhandelsbetriebe, Schank- und Speisewirtschaften sowie Betriebe des Beherbergungsgewerbes,
 
-4.
+4. sonstige Gewerbebetriebe,
 
-5.
+5. Anlagen für Verwaltungen sowie für kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke.
 
 (3) Ausnahmsweise können zugelassen werden
 
-1.
+1. Vergnügungsstätten, soweit sie nicht wegen ihrer Zweckbestimmung oder ihres Umfangs nur in Kerngebieten allgemein zulässig sind,
 
-2.
+2. Tankstellen.
 
 (4) Für urbane Gebiete oder Teile solcher Gebiete kann festgesetzt werden, dass in Gebäuden
 
-1.
+1. im Erdgeschoss an der Straßenseite eine Wohnnutzung nicht oder nur ausnahmsweise zulässig ist,
 
-2.
+2. oberhalb eines im Bebauungsplan bestimmten Geschosses nur Wohnungen zulässig sind,
 
-3.
+3. ein im Bebauungsplan bestimmter Anteil der zulässigen Geschossfläche oder eine im Bebauungsplan bestimmte Größe der Geschossfläche für Wohnungen zu verwenden ist, oder
 
-4.
+4. ein im Bebauungsplan bestimmter Anteil der zulässigen Geschossfläche oder eine im Bebauungsplan bestimmte Größe der Geschossfläche für gewerbliche Nutzungen zu verwenden ist.
 
 ### § 7 — Kerngebiete
 
@@ -256,31 +252,31 @@
 
 (2) Zulässig sind
 
-1.
+1. Geschäfts- , Büro- und Verwaltungsgebäude,
 
-2.
+2. Einzelhandelsbetriebe, Schank- und Speisewirtschaften, Betriebe des Beherbergungsgewerbes und Vergnügungsstätten,
 
-3.
+3. sonstige nicht wesentlich störende Gewerbebetriebe,
 
-4.
+4. Anlagen für kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke,
 
-5.
+5. Tankstellen im Zusammenhang mit Parkhäusern und Großgaragen,
 
-6.
+6. Wohnungen für Aufsichts- und Bereitschaftspersonen sowie für Betriebsinhaber und Betriebsleiter,
 
-7.
+7. sonstige Wohnungen nach Maßgabe von Festsetzungen des Bebauungsplans.
 
 (3) Ausnahmsweise können zugelassen werden
 
-1.
+1. Tankstellen, die nicht unter Absatz 2 Nummer 5 fallen,
 
-2.
+2. Wohnungen, die nicht unter Absatz 2 Nummer 6 und 7 fallen.
 
-(4) Für Teile eines Kerngebiets kann, wenn besondere städtebauliche Gründe dies rechtfertigen (§ 9 Absatz 3 des Baugesetzbuchs), festgesetzt werden, dass Dies gilt auch, wenn durch solche Festsetzungen dieser Teil des Kerngebiets nicht vorwiegend der Unterbringung von Handelsbetrieben sowie der zentralen Einrichtungen der Wirtschaft, der Verwaltung und der Kultur dient.
+(4) Für Teile eines Kerngebiets kann, wenn besondere städtebauliche Gründe dies rechtfertigen (§ 9 Absatz 3 des Baugesetzbuchs), festgesetzt werden, dass
 
-1.
+1. oberhalb eines im Bebauungsplan bestimmten Geschosses nur Wohnungen zulässig sind oder
 
-2.
+2. in Gebäuden ein im Bebauungsplan bestimmter Anteil der zulässigen Geschossfläche oder eine bestimmte Größe der Geschossfläche für Wohnungen zu verwenden ist.
 
 ### § 8 — Gewerbegebiete
 
@@ -288,21 +284,21 @@
 
 (2) Zulässig sind
 
-1.
+1. Gewerbebetriebe aller Art einschließlich Anlagen zur Erzeugung von Strom oder Wärme aus solarer Strahlungsenergie oder Windenergie, Lagerhäuser, Lagerplätze und öffentliche Betriebe,
 
-2.
+2. Geschäfts- , Büro- und Verwaltungsgebäude,
 
-3.
+3. Tankstellen,
 
-4.
+4. Anlagen für sportliche Zwecke.
 
 (3) Ausnahmsweise können zugelassen werden
 
-1.
+1. Wohnungen für Aufsichts- und Bereitschaftspersonen sowie für Betriebsinhaber und Betriebsleiter, die dem Gewerbebetrieb zugeordnet und ihm gegenüber in Grundfläche und Baumasse untergeordnet sind,
 
-2.
+2. Anlagen für kirchliche, kulturelle, soziale und gesundheitliche Zwecke,
 
-3.
+3. Vergnügungsstätten.
 
 ### § 9 — Industriegebiete
 
@@ -310,19 +306,17 @@
 
 (2) Zulässig sind
 
-1.
+1. Gewerbebetriebe aller Art einschließlich Anlagen zur Erzeugung von Strom oder Wärme aus solarer Strahlungsenergie oder Windenergie, Lagerhäuser, Lagerplätze und öffentliche Betriebe,
 
-2.
+2. Tankstellen.
 
 (3) Ausnahmsweise können zugelassen werden
 
-1.
+1. Wohnungen für Aufsichts- und Bereitschaftspersonen sowie für Betriebsinhaber und Betriebsleiter, die dem Gewerbebetrieb zugeordnet und ihm gegenüber in Grundfläche und Baumasse untergeordnet sind,
 
-2.
+2. Anlagen für kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke.
 
 ### § 10 — Sondergebiete, die der Erholung dienen
-
-(1) Als Sondergebiete, die der Erholung dienen, kommen insbesondere in BetrachtWochenendhausgebiete,Ferienhausgebiete,Campingplatzgebiete.
 
 (2) Für Sondergebiete, die der Erholung dienen, sind die Zweckbestimmung und die Art der Nutzung darzustellen und festzusetzen. Im Bebauungsplan kann festgesetzt werden, dass bestimmte, der Eigenart des Gebiets entsprechende Anlagen und Einrichtungen zur Versorgung des Gebiets und für sportliche Zwecke allgemein zulässig sind oder ausnahmsweise zugelassen werden können.
 
@@ -336,15 +330,13 @@
 
 (1) Als sonstige Sondergebiete sind solche Gebiete darzustellen und festzusetzen, die sich von den Baugebieten nach den §§ 2 bis 10 wesentlich unterscheiden.
 
-(2) Für sonstige Sondergebiete sind die Zweckbestimmung und die Art der Nutzung darzustellen und festzusetzen. Als sonstige Sondergebiete kommen insbesondere in BetrachtGebiete für den Fremdenverkehr, wie Kurgebiete und Gebiete für die Fremdenbeherbergung, auch mit einer Mischung von Fremdenbeherbergung oder Ferienwohnen einerseits sowie Dauerwohnen andererseits,Ladengebiete,Gebiete für Einkaufszentren und großflächige Handelsbetriebe,Gebiete für Messen, Ausstellungen und Kongresse,Hochschulgebiete,Klinikgebiete,Hafengebiete,Gebiete für Anlagen, die der Erforschung, Entwicklung oder Nutzung erneuerbarer Energien, wie Windenergie und solare Strahlungsenergie, dienen.
+(3)
 
-(3) sind außer in Kerngebieten nur in für sie festgesetzten Sondergebieten zulässig. Auswirkungen im Sinne des Satzes 1 Nummer 2 und 3 sind insbesondere schädliche Umwelteinwirkungen im Sinne des § 3 des Bundes-Immissionsschutzgesetzes sowie Auswirkungen auf die infrastrukturelle Ausstattung, auf den Verkehr, auf die Versorgung der Bevölkerung im Einzugsbereich der in Satz 1 bezeichneten Betriebe, auf die Entwicklung zentraler Versorgungsbereiche in der Gemeinde oder in anderen Gemeinden, auf das Orts- und Landschaftsbild und auf den Naturhaushalt. Auswirkungen im Sinne des Satzes 2 sind bei Betrieben nach Satz 1 Nummer 2 und 3 in der Regel anzunehmen, wenn die Geschossfläche 1 200 m2 überschreitet. Die Regel des Satzes 3 gilt nicht, wenn Anhaltspunkte dafür bestehen, dass Auswirkungen bereits bei weniger als 1 200 m2 Geschossfläche vorliegen oder bei mehr als 1 200 m2 Geschossfläche nicht vorliegen; dabei sind in Bezug auf die in Satz 2 bezeichneten Auswirkungen insbesondere die Gliederung und Größe der Gemeinde und ihrer Ortsteile, die Sicherung der verbrauchernahen Versorgung der Bevölkerung und das Warenangebot des Betriebs zu berücksichtigen.
+1. Einkaufszentren,
 
-1.
+2. großflächige Einzelhandelsbetriebe, die sich nach Art, Lage oder Umfang auf die Verwirklichung der Ziele der Raumordnung und Landesplanung oder auf die städtebauliche Entwicklung und Ordnung nicht nur unwesentlich auswirken können,
 
-2.
-
-3.
+3. sonstige großflächige Handelsbetriebe, die im Hinblick auf den Verkauf an letzte Verbraucher und auf die Auswirkungen den in Nummer 2 bezeichneten Einzelhandelsbetrieben vergleichbar sind,
 
 ### § 12 — Stellplätze und Garagen
 
@@ -354,9 +346,9 @@
 
 (3) Unzulässig sind
 
-1.
+1. Stellplätze und Garagen für Lastkraftwagen und Kraftomnibusse sowie für Anhänger dieser Kraftfahrzeuge in reinen Wohngebieten,
 
-2.
+2. Stellplätze und Garagen für Kraftfahrzeuge mit einem Eigengewicht über 3,5 Tonnen sowie für Anhänger dieser Kraftfahrzeuge in Kleinsiedlungsgebieten und allgemeinen Wohngebieten.
 
 (4) Im Bebauungsplan kann, wenn besondere städtebauliche Gründe dies rechtfertigen (§ 9 Absatz 3 des Baugesetzbuchs), festgesetzt werden, dass in bestimmten Geschossen nur Stellplätze oder Garagen und zugehörige Nebeneinrichtungen (Garagengeschosse) zulässig sind. Eine Festsetzung nach Satz 1 kann auch für Geschosse unterhalb der Geländeoberfläche getroffen werden. Bei Festsetzungen nach den Sätzen 1 und 2 sind Stellplätze und Garagen auf dem Grundstück nur in den festgesetzten Geschossen zulässig, soweit der Bebauungsplan nichts anderes bestimmt.
 
@@ -372,7 +364,7 @@ Für die Berufsausübung freiberuflich Tätiger und solcher Gewerbetreibender, d
 
 ### § 13a — Ferienwohnungen
 
-Räume oder Gebäude, die einem ständig wechselnden Kreis von Gästen gegen Entgelt vorübergehend zur Unterkunft zur Verfügung gestellt werden und die zur Begründung einer eigenen Häuslichkeit geeignet und bestimmt sind (Ferienwohnungen), gehören unbeschadet des § 10 in der Regel zu den nicht störenden Gewerbebetrieben nach § 2 Absatz 3 Nummer 4 und § 4 Absatz 3 Nummer 2 oder zu den Gewerbebetrieben nach § 4a Absatz 2 Nummer 3, § 5 Absatz 2 Nummer 6, § 5a Absatz 2 Nummer 7, § 6 Absatz 2 Nummer 4, § 6a Absatz 2 Nummer 4 und § 7 Absatz 2 Nummer 3. Abweichend von Satz 1 können Räume nach Satz 1 in den übrigen Fällen insbesondere bei einer baulich untergeordneten Bedeutung gegenüber der in dem Gebäude vorherrschenden Hauptnutzung zu den Betrieben des Beherbergungsgewerbes nach § 4 Absatz 3 Nummer 1, § 4a Absatz 2 Nummer 2, § 5 Absatz 2 Nummer 5, § 5a Absatz 2 Nummer 6, § 6 Absatz 2 Nummer 3, § 6a Absatz 2 Nummer 3 und § 7 Absatz 2 Nummer 2 oder zu den kleinen Betrieben des Beherbergungsgewerbes nach § 3 Absatz 3 Nummer 1 gehören.
+Räume oder Gebäude, die einem ständig wechselnden Kreis von Gästen gegen Entgelt vorübergehend zur Unterkunft zur Verfügung gestellt werden und die zur Begründung einer eigenen Häuslichkeit geeignet und bestimmt sind (Ferienwohnungen), gehören unbeschadet des § 10 in der Regel zu den nicht störenden Gewerbebetrieben nach § 2 Absatz 3 Nummer 4 und § 4 Absatz 3 Nummer 2 oder zu den Gewerbebetrieben nach § 4a Absatz 2 Nummer 3, § 5 Absatz 2 Nummer 6, § 5a Absatz 2 Nummer 7, § 6 Absatz 2 Nummer 4, § 6a Absatz 2 Nummer 4 und § 7 Absatz 2 Nummer 3. Abweichend von Satz 1 können Räume nach Satz 1 in den übrigen Fällen insbesondere bei einer baulich untergeordneten Bedeutung gegenüber der in dem Gebäude vorherrschenden Hauptnutzung zu den Betrieben des Beherbergungsgewerbes nach § 4 Absatz 3 Nummer 1, § 4a Absatz 2 Nummer 2, § 5 Absatz 2 Nummer 5, § 5a Absatz 2 Nummer 6, § 6 Absatz 2 Nummer 3, § 6a Absatz 2 Nummer 3 und § 7 Absatz 2 Nummer 2 oder zu den kleinen Betrieben des Beherbergungsgewerbes nach § 3 Absatz 3 Nummer 1 gehören.
 
 ### § 14 — Nebenanlagen; Anlagen zur Nutzung solarer Strahlungsenergie und Kraft-Wärme-Kopplungsanlagen
 
@@ -402,19 +394,19 @@ Räume oder Gebäude, die einem ständig wechselnden Kreis von Gästen gegen Ent
 
 (2) Im Bebauungsplan kann das Maß der baulichen Nutzung bestimmt werden durch Festsetzung
 
-1.
+1. der Grundflächenzahl oder der Größe der Grundflächen der baulichen Anlagen,
 
-2.
+2. der Geschossflächenzahl oder der Größe der Geschossfläche, der Baumassenzahl oder der Baumasse,
 
-3.
+3. der Zahl der Vollgeschosse,
 
-4.
+4. der Höhe baulicher Anlagen.
 
 (3) Bei Festsetzung des Maßes der baulichen Nutzung im Bebauungsplan ist festzusetzen
 
-1.
+1. stets die Grundflächenzahl oder die Größe der Grundflächen der baulichen Anlagen,
 
-2.
+2. die Zahl der Vollgeschosse oder die Höhe baulicher Anlagen, wenn ohne ihre Festsetzung öffentliche Belange, insbesondere das Orts- und Landschaftsbild, beeinträchtigt werden können.
 
 (4) Bei Festsetzung des Höchstmaßes für die Geschossflächenzahl oder die Größe der Geschossfläche, für die Zahl der Vollgeschosse und die Höhe baulicher Anlagen im Bebauungsplan kann zugleich ein Mindestmaß festgesetzt werden. Die Zahl der Vollgeschosse und die Höhe baulicher Anlagen können auch als zwingend festgesetzt werden.
 
@@ -423,8 +415,6 @@ Räume oder Gebäude, die einem ständig wechselnden Kreis von Gästen gegen Ent
 (6) Im Bebauungsplan können nach Art und Umfang bestimmte Ausnahmen von dem festgesetzten Maß der baulichen Nutzung vorgesehen werden.
 
 ### § 17 — Orientierungswerte für die Bestimmung des Maßes der baulichen Nutzung
-
-Bei der Bestimmung des Maßes der baulichen Nutzung nach § 16 bestehen, auch wenn eine Geschossflächenzahl oder eine Baumassenzahl nicht dargestellt oder festgesetzt wird, folgende Orientierungswerte für Obergrenzen:
 
 In Wochenendhausgebieten und Ferienhausgebieten dürfen die Orientierungswerte für Obergrenzen nach Satz 1 nicht überschritten werden.
 
@@ -442,17 +432,13 @@ In Wochenendhausgebieten und Ferienhausgebieten dürfen die Orientierungswerte f
 
 (3) Für die Ermittlung der zulässigen Grundfläche ist die Fläche des Baugrundstücks maßgebend, die im Bauland und hinter der im Bebauungsplan festgesetzten Straßenbegrenzungslinie liegt. Ist eine Straßenbegrenzungslinie nicht festgesetzt, so ist die Fläche des Baugrundstücks maßgebend, die hinter der tatsächlichen Straßengrenze liegt oder die im Bebauungsplan als maßgebend für die Ermittlung der zulässigen Grundfläche festgesetzt ist.
 
-(4) Bei der Ermittlung der Grundfläche sind die Grundflächen von mitzurechnen. Die zulässige Grundfläche darf durch die Grundflächen der in Satz 1 bezeichneten Anlagen bis zu 50 vom Hundert überschritten werden, höchstens jedoch bis zu einer Grundflächenzahl von 0,8; weitere Überschreitungen in geringfügigem Ausmaß können zugelassen werden. Im Bebauungsplan können von Satz 2 abweichende Bestimmungen getroffen werden. Soweit der Bebauungsplan nichts anderes festsetzt, kann im Einzelfall von der Einhaltung der sich aus Satz 2 ergebenden Grenzen abgesehen werden
+(4) Bei der Ermittlung der Grundfläche sind die Grundflächen von
 
-1.
+1. Garagen und Stellplätzen mit ihren Zufahrten,
 
-2.
+2. Nebenanlagen im Sinne des § 14,
 
-3.
-
-1.
-
-2.
+3. baulichen Anlagen unterhalb der Geländeoberfläche, durch die das Baugrundstück lediglich unterbaut wird,
 
 (5) Soweit der Bebauungsplan nichts anderes festsetzt, darf die zulässige Grundfläche in Gewerbe-, Industrie- und sonstigen Sondergebieten durch die Grundflächen von Anlagen zur Erzeugung von Strom und Wärme aus solarer Strahlungsenergie und Windenergie überschritten werden.
 
@@ -484,17 +470,17 @@ In Wochenendhausgebieten und Ferienhausgebieten dürfen die Orientierungswerte f
 
 (3) Soweit § 19 Absatz 4 nicht entgegensteht, ist eine Überschreitung der zulässigen Grundfläche durch überdachte Stellplätze und Garagen bis zu 0,1 der Fläche des Baugrundstücks zulässig; eine weitergehende Überschreitung kann ausnahmsweise zugelassen werden
 
-1.
+1. in Kerngebieten, Gewerbegebieten und Industriegebieten,
 
-2.
+2. in anderen Baugebieten, soweit solche Anlagen nach § 9 Absatz 1 Nummer 4 des Baugesetzbuchs im Bebauungsplan festgesetzt sind.
 
 (4) Bei der Ermittlung der Geschossfläche oder der Baumasse bleiben unberücksichtigt die Flächen oder Baumassen von
 
-1.
+1. Garagengeschossen, die nach Absatz 1 nicht angerechnet werden,
 
-2.
+2. Stellplätzen und Garagen, deren Grundflächen die zulässige Grundfläche unter den Voraussetzungen des Absatzes 3 überschreiten,
 
-3.
+3. Stellplätzen und Garagen in Vollgeschossen, wenn der Bebauungsplan dies festsetzt oder als Ausnahme vorsieht.
 
 (5) Die zulässige Geschossfläche oder die zulässige Baumasse ist um die Flächen oder Baumassen notwendiger Garagen, die unter der Geländeoberfläche hergestellt werden, insoweit zu erhöhen, als der Bebauungsplan dies festsetzt oder als Ausnahme vorsieht.
 

@@ -16,33 +16,33 @@ Auf Grund des § 11 Absatz 1 in Verbindung mit Absatz 2 und 3 des Arbeitnehmer-E
 
 (2) Diese Verordnung gilt vorbehaltlich der Absätze 3 und 4 für alle Arbeitnehmerinnen und Arbeitnehmer. Sie gilt nicht für
 
-1.
+1. Auszubildende nach dem Berufsbildungsgesetz,
 
-2.
+2. Auszubildende und Studierende nach dem Pflegeberufegesetz,
 
-3.
+3. Auszubildende, die nach § 66 Absatz 1 und 2 des Pflegeberufegesetzes ihre auf der Grundlage der Vorschriften des Krankenpflegegesetzes oder des Altenpflegegesetzes, jeweils in der am 31. Dezember 2019 geltenden Fassung, begonnene Ausbildung noch abschließen können sowie
 
-4.
+4. Auszubildende in einer landesrechtlich geregelten Ausbildung zu einem Assistenz- und Helferberuf in der Pflege.
 
 (3) Diese Verordnung gilt nicht für Arbeitnehmerinnen und Arbeitnehmer der Pflegebetriebe in folgenden Bereichen:
 
-1.
+1. Verwaltung,
 
-2.
+2. Haustechnik,
 
-3.
+3. Küche,
 
-4.
+4. hauswirtschaftliche Versorgung,
 
-5.
+5. Gebäudereinigung,
 
-6.
+6. Empfangs- und Sicherheitsdienst,
 
-7.
+7. Garten- und Geländepflege,
 
-8.
+8. Wäscherei sowie
 
-9.
+9. Logistik.
 
 (4) Abweichend von Absatz 3 gilt diese Verordnung für Arbeitnehmerinnen und Arbeitnehmer in den in Absatz 3 genannten Bereichen, soweit sie im Rahmen der von ihnen auszuübenden Tätigkeiten in einem Umfang von mindestens 25 Prozent ihrer vereinbarten Arbeitszeit gemeinsam mit Bezieherinnen und Beziehern von Pflegeleistungen tagesstrukturierend, aktivierend, betreuend oder pflegend tätig werden.
 
@@ -50,25 +50,13 @@ Auf Grund des § 11 Absatz 1 in Verbindung mit Absatz 2 und 3 des Arbeitnehmer-E
 
 ### § 2 — Mindestentgelt
 
-(1) Das Mindestentgelt beträgt Für Pflegekräfte mit einer mindestens einjährigen Ausbildung und einer entsprechenden Tätigkeit beträgt das Mindestentgelt abweichend von Satz 1 Für Pflegefachkräfte beträgt das Mindestentgelt abweichend von den Sätzen 1 und 2
+(1) Das Mindestentgelt beträgt
 
-1.
+1. ab dem 1. Februar 2024: 14,15 Euro brutto je Stunde,
 
-2.
+2. ab dem 1. Mai 2024: 15,50 Euro brutto je Stunde,
 
-3.
-
-1.
-
-2.
-
-3.
-
-1.
-
-2.
-
-3.
+3. ab dem 1. Juli 2025: 16,10 Euro brutto je Stunde.
 
 (2) Pflegekräfte mit einer mindestens einjährigen Ausbildung im Sinne des Absatz 1 Satz 2 sind diejenigen Arbeitnehmerinnen und Arbeitnehmer, die eine Ausbildung zu einem Assistenz- und Helferberuf oder eine vergleichbare Ausbildung in der Pflege abgeschlossen haben, wobei die Ausbildungsdauer mindestens den Vorgaben der Nummer 2 der Eckpunkte für die in Länderzuständigkeit liegenden Ausbildungen zu Assistenz- und Helferberufen in der Pflege (BAnz AT 17.02.2016 B3) entspricht. Die Ausbildung kann im Ausland abgeschlossen worden sein. Eine entsprechende Tätigkeit liegt vor, wenn die Arbeitnehmerin oder der Arbeitnehmer jedenfalls auch Tätigkeiten nach Nummer 1 Buchstabe g der in Satz 1 genannten Eckpunkte auf Anweisung des Arbeitgebers durchführt.
 

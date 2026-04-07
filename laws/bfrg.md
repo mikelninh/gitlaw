@@ -14,31 +14,31 @@ Im Geschäftsbereich des Bundesministeriums für Verbraucherschutz, Ernährung u
 
 (1) Das Bundesinstitut wird, unbeschadet bestehender Zuständigkeiten sonstiger Einrichtungen des Bundes für Fragen der Gesundheit des Menschen, insbesondere auf folgenden Gebieten tätig:
 
-1.
+1. Erstellung von wissenschaftlichen Ausarbeitungen, Gutachten und Stellungnahmen zu Fragen, die unmittelbar oder mittelbar mit der Lebensmittelsicherheit oder dem Verbraucherschutz im Hinblick auf die Gesundheit des Menschen einschließlich Fragen der Ernährung und Ernährungsprävention und, soweit Futtermittel, Futtermittelzusatzstoffe, der Verkehr mit und die Anwendung von Tierarzneimitteln und bei Tieren angewandte pharmakologisch wirksame Stoffe, ausgenommen Tierimpfstoffe, betroffen sind, auch im Hinblick auf die Tiergesundheit in Zusammenhang stehen,
 
-2.
+2. wissenschaftliche Beratung des Bundesministeriums und anderer oberster Bundesbehörden, soweit das Bundesinstitut Tätigkeiten aus deren Geschäftsbereich wahrnimmt, sowie des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit in allen Fragen, die zu den Tätigkeiten des Bundesinstitutes gehören,
 
-3.
+3. Zusammenarbeit mit Dienststellen der Europäischen Gemeinschaft, insbesondere der Europäischen Behörde für Lebensmittelsicherheit, sowie mit anderen wissenschaftlichen Einrichtungen auf nationaler und internationaler Ebene und Koordination des wissenschaftlichen Informationsaustauschs auf dem Gebiet der Lebensmittelsicherheit und des Verbraucherschutzes,
 
-4.
+4. wissenschaftliche Forschung, soweit diese in einem engen Bezug zu seinen Tätigkeiten steht,
 
-5.
+5. Bewertung der Gesundheitsgefährlichkeit von Chemikalien, Dokumentation und Information zu Vergiftungsgeschehen,
 
-6.
+6. Erfassung und Bewertung von Ersatz- und Ergänzungsmethoden zu Tierversuchen,
 
-7.
+7. Risikobewertung bei gentechnisch veränderten Tieren, Pflanzen und Mikroorganismen sowie von gentechnisch veränderten Futtermitteln und Futtermittelzusatzstoffen,
 
-8.
+8. gesundheitliche Fragen der Beförderung gefährlicher Güter, insbesondere giftiger und ätzender Stoffe,
 
-9.
+9. Beteiligung am Monitoring nach den §§ 50 bis 52 des Lebensmittel- und Futtermittelgesetzbuches sowie an bundesweiten Erhebungen im Bereich der Futtermittel und Futtermittelzusatzstoffe,
 
-10.
+10. Wahrnehmung der Funktion eines gemeinschaftlichen oder nationalen Referenzlabors, soweit für diese Tätigkeit durch Rechtsakte oder auf der Grundlage von Rechtsakten der Europäischen Gemeinschaft das Bundesgesundheitsamt oder das Bundesinstitut für gesundheitlichen Verbraucherschutz und Veterinärmedizin benannt ist und diese Tätigkeit nicht von einer anderen Stelle wahrgenommen wird,
 
-11.
+11. Wahrnehmung der Funktion eines gemeinschaftlichen oder nationalen Referenzlabors, soweit für diese Tätigkeit durch Rechtsakte oder auf der Grundlage von Rechtsakten der Europäischen Gemeinschaft das Bundesinstitut benannt wird,
 
-12.
+12. Unterrichtung der Öffentlichkeit auf seinen Tätigkeitsgebieten über Risiken gesundheitlicher Art sowie sonstige gewonnene Erkenntnisse und Arbeitsergebnisse; die Vorschriften des Produktsicherheitsgesetzes bleiben unberührt,
 
-13.
+13. Unterrichtung und Beratung der Bundesregierung auf dem Gebiet der Auswirkungen von Pflanzenschutzmitteln im Hinblick auf die Gesundheit von Mensch und Tier.
 
 (2) Bei der Durchführung seiner Tätigkeiten kann das Bundesinstitut wissenschaftliche Erkenntnisse der Forschungsanstalten im Geschäftsbereich des Bundesministeriums sowie anderer wissenschaftlicher Einrichtungen heranziehen. Soweit es sich bei den in Satz 1 genannten wissenschaftlichen Einrichtungen um solche der Länder handelt, sind deren Erkenntnisse im Rahmen einer vertrauensvollen Zusammenarbeit einzubeziehen.
 
@@ -68,15 +68,15 @@ Im Geschäftsbereich des Bundesministeriums für Verbraucherschutz, Ernährung u
 
 (2) Das Direktorium hat die Aufgabe, die Präsidentin oder den Präsidenten bei der Leitung des Bundesinstitutes zu unterstützen; dazu wirkt es insbesondere mit bei
 
-1.
+1. der Behandlung wissenschaftlicher Fragestellungen mit besonderer Bedeutung,
 
-2.
+2. der Planung und Vergabe von Forschungsvorhaben,
 
-3.
+3. der Einsetzung von Kommissionen und der Abstimmung ihrer Tätigkeit untereinander,
 
-4.
+4. der Aufstellung des Haushaltsplans,
 
-5.
+5. den Grundsätzen der Organisation, Personalführung und Personalverwaltung.
 
 (3) Das Direktorium berät unter dem Vorsitz der Präsidentin oder des Präsidenten. Die Präsidentin oder der Präsident ist verpflichtet, das Direktorium regelmäßig zur Beratung einzuberufen.
 
@@ -86,13 +86,13 @@ Im Geschäftsbereich des Bundesministeriums für Verbraucherschutz, Ernährung u
 
 Das Direktorium erlässt mit der Mehrheit seiner Mitglieder eine Satzung für das Bundesinstitut; § 6 Abs. 4 ist nicht anzuwenden. Die Satzung bedarf der Genehmigung des Bundesministeriums und ist im Bundesanzeiger zu veröffentlichen. In die Satzung sind, soweit erforderlich, insbesondere Bestimmungen aufzunehmen über
 
-1.
+1. die Rechte und Pflichten der Organe des Bundesinstitutes,
 
-2.
+2. die Übertragung der Zeichnungsbefugnis an Beschäftigte des Bundesinstitutes,
 
-3.
+3. den Aufbau des Bundesinstitutes,
 
-4.
+4. die Haushaltsführung und Rechnungslegung.
 
 ### § 8 — Aufsicht
 

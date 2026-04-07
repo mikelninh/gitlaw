@@ -40,13 +40,13 @@ Ziel des Gesetzes ist es, das Gebot des gleichen Entgelts für Frauen und Männe
 
 (4) Verwendet der Arbeitgeber für das Entgelt, das den Beschäftigten zusteht, ein Entgeltsystem, müssen dieses Entgeltsystem als Ganzes und auch die einzelnen Entgeltbestandteile so ausgestaltet sein, dass eine Benachteiligung wegen des Geschlechts ausgeschlossen ist. Dazu muss es insbesondere
 
-1.
+1. die Art der zu verrichtenden Tätigkeit objektiv berücksichtigen,
 
-2.
+2. auf für weibliche und männliche Beschäftigte gemeinsamen Kriterien beruhen,
 
-3.
+3. die einzelnen Differenzierungskriterien diskriminierungsfrei gewichten sowie
 
-4.
+4. insgesamt durchschaubar sein.
 
 (5) Für tarifvertragliche Entgeltregelungen sowie für Entgeltregelungen, die auf einer bindenden Festsetzung nach § 19 Absatz 3 des Heimarbeitsgesetzes beruhen, gilt eine Angemessenheitsvermutung. Tätigkeiten, die aufgrund dieser Regelungen unterschiedlichen Entgeltgruppen zugewiesen werden, werden als nicht gleichwertig angesehen, sofern die Regelungen nicht gegen höherrangiges Recht verstoßen.
 
@@ -58,17 +58,17 @@ Ziel des Gesetzes ist es, das Gebot des gleichen Entgelts für Frauen und Männe
 
 (2) Beschäftigte im Sinne dieses Gesetzes sind
 
-1.
+1. Arbeitnehmerinnen und Arbeitnehmer,
 
-2.
+2. Beamtinnen und Beamte des Bundes sowie der sonstigen der Aufsicht des Bundes unterstehenden Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts,
 
-3.
+3. Richterinnen und Richter des Bundes,
 
-4.
+4. Soldatinnen und Soldaten,
 
-5.
+5. die zu ihrer Berufsbildung Beschäftigten sowie
 
-6.
+6. die in Heimarbeit Beschäftigten sowie die ihnen Gleichgestellten.
 
 (3) Arbeitgeber im Sinne dieses Gesetzes sind natürliche und juristische Personen sowie rechtsfähige Personengesellschaften, die Personen nach Absatz 2 beschäftigen, soweit durch dieses Gesetz nichts anderes bestimmt wird. Für die in Heimarbeit Beschäftigten und die ihnen Gleichgestellten tritt an die Stelle des Arbeitgebers der Auftraggeber oder Zwischenmeister.
 
@@ -116,9 +116,9 @@ Der Arbeitgeber darf Beschäftigte nicht wegen der Inanspruchnahme von Rechten n
 
 (3) Die Auskunftsverpflichtung in Bezug auf das Vergleichsentgelt erstreckt sich auf die Angabe des Entgelts für die Vergleichstätigkeit (Vergleichsentgelt). Das Vergleichsentgelt ist anzugeben als auf Vollzeitäquivalente hochgerechneter statistischer Median des durchschnittlichen monatlichen Bruttoentgelts sowie der benannten Entgeltbestandteile, jeweils bezogen auf ein Kalenderjahr, nach folgenden Vorgaben:
 
-1.
+1. in den Fällen des § 14 sowie in den Fällen einer gesetzlichen Entgeltregelung ist das Vergleichsentgelt der Beschäftigten des jeweils anderen Geschlechts anzugeben, die in die gleiche Entgelt- oder Besoldungsgruppe eingruppiert sind wie der oder die auskunftverlangende Beschäftigte;
 
-2.
+2. in den Fällen des § 15 ist das Vergleichsentgelt aller Beschäftigten des jeweils anderen Geschlechts anzugeben, die die erfragte Vergleichstätigkeit oder die nach § 15 Absatz 4 ermittelte Vergleichstätigkeit ausüben.
 
 (4) Auf kollektiv-rechtliche Entgeltregelungen der Kirchen oder der öffentlich-rechtlichen Religionsgesellschaften ist Absatz 2 Satz 2 und Absatz 3 Nummer 1 entsprechend anzuwenden.
 
@@ -130,15 +130,13 @@ Der Arbeitgeber darf Beschäftigte nicht wegen der Inanspruchnahme von Rechten n
 
 (2) Die Auskunftspflicht nach § 10 umfasst
 
-1.
+1. nur Entgeltregelungen, die in demselben Betrieb und bei demselben Arbeitgeber angewendet werden,
 
-2.
+2. keine regional unterschiedlichen Entgeltregelungen bei demselben Arbeitgeber und
 
-3.
+3. keinen Vergleich der Beschäftigtengruppen nach § 5 Absatz 2 untereinander.
 
 (3) Bei der Beantwortung eines Auskunftsverlangens ist der Schutz personenbezogener Daten der auskunftverlangenden Beschäftigten sowie der vom Auskunftsverlangen betroffenen Beschäftigten zu wahren. Insbesondere ist das Vergleichsentgelt nicht anzugeben, wenn die Vergleichstätigkeit von weniger als sechs Beschäftigten des jeweils anderen Geschlechts ausgeübt wird. Es ist sicherzustellen, dass nur die mit der Beantwortung betrauten Personen Kenntnis von den hierfür notwendigen Daten erlangen.
-
-> (+++ § 12: Zur Anwendung vgl. § 16 +++) (+++ § 12 Abs. 1 u. 2: Zur Anwendung vgl. § 18 Abs. 3 +++)
 
 ### § 13 — Aufgaben und Rechte des Betriebsrates
 
@@ -165,8 +163,6 @@ Der Arbeitgeber darf Beschäftigte nicht wegen der Inanspruchnahme von Rechten n
 (3) Besteht kein Betriebsrat, wenden sich die Beschäftigten an den Arbeitgeber. Der Arbeitgeber informiert die Vertreterinnen und Vertreter der zuständigen Tarifvertragsparteien nach § 6 Absatz 1 Satz 2 über seine Antwort zu eingegangenen Auskunftsverlangen. Der Arbeitgeber sowie die Vertreterinnen und Vertreter der zuständigen Tarifvertragsparteien können vereinbaren, dass die Vertreterinnen und Vertreter der zuständigen Tarifvertragsparteien die Beantwortung von Auskunftsverlangen übernehmen. In diesem Fall informiert der Arbeitgeber diese umfassend und rechtzeitig über eingehende Auskunftsverlangen. Die Beschäftigten sind jeweils darüber zu informieren, wer die Auskunft erteilt.
 
 (4) Soweit die Vertreterinnen und Vertreter der zuständigen Tarifvertragsparteien nach Absatz 3 Satz 3 das Auskunftsverlangen beantworten, hat der Arbeitgeber diesen auf Verlangen die zur Erfüllung ihrer Aufgaben erforderlichen Informationen bereitzustellen. Diese unterliegen im Rahmen ihrer Aufgaben der Verschwiegenheitspflicht.
-
-> (+++ § 14: Zur Anwendung vgl. § 16 +++) (+++ § 14 Abs. 1 u. 2: Zur Anwendung vgl. § 15 Abs. 2 +++)
 
 ### § 15 — Verfahren bei nicht tarifgebundenen und nicht tarifanwendenden Arbeitgebern
 
@@ -216,17 +212,17 @@ Ergeben sich aus einem betrieblichen Prüfverfahren Benachteiligungen wegen des 
 
 ### § 21 — Bericht zur Gleichstellung und Entgeltgleichheit
 
-(1) Arbeitgeber mit in der Regel mehr als 500 Beschäftigten, die zur Erstellung eines Lageberichts nach den §§ 264 und 289 des Handelsgesetzbuches verpflichtet sind, erstellen einen Bericht zur Gleichstellung und Entgeltgleichheit, in dem sie Folgendes darstellen: Arbeitgeber, die keine Maßnahmen im Sinne des Satzes 1 Nummer 1 oder 2 durchführen, haben dies in ihrem Bericht zu begründen.
+(1) Arbeitgeber mit in der Regel mehr als 500 Beschäftigten, die zur Erstellung eines Lageberichts nach den §§ 264 und 289 des Handelsgesetzbuches verpflichtet sind, erstellen einen Bericht zur Gleichstellung und Entgeltgleichheit, in dem sie Folgendes darstellen:
 
-1.
+1. ihre Maßnahmen zur Förderung der Gleichstellung von Frauen und Männern und deren Wirkungen sowie
 
-2.
+2. ihre Maßnahmen zur Herstellung von Entgeltgleichheit für Frauen und Männer.
 
 (2) Der Bericht enthält außerdem nach Geschlecht aufgeschlüsselte Angaben
 
-1.
+1. zu der durchschnittlichen Gesamtzahl der Beschäftigten sowie
 
-2.
+2. zu der durchschnittlichen Zahl der Vollzeit- und Teilzeitbeschäftigten.
 
 ### § 22 — Berichtszeitraum und Veröffentlichung
 

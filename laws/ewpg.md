@@ -12,11 +12,11 @@
 
 Dieses Gesetz ist anzuwenden auf
 
-1.
+1. Schuldverschreibungen auf den Inhaber,
 
-2.
+2. Aktien, die auf den Namen lauten, und
 
-3.
+3. Aktien, die auf den Inhaber lauten, wenn sie in einem zentralen Register eingetragen sind.
 
 ### § 2 — Elektronisches Wertpapier
 
@@ -36,9 +36,9 @@ Dieses Gesetz ist anzuwenden auf
 
 (1) Elektronische Wertpapierregister sind
 
-1.
+1. zentrale Register gemäß § 12 und
 
-2.
+2. Kryptowertpapierregister gemäß § 16.
 
 (2) Ein Zentralregisterwertpapier ist ein elektronisches Wertpapier, das in ein zentrales Register eingetragen ist.
 
@@ -64,17 +64,17 @@ Dieses Gesetz ist anzuwenden auf
 
 (1) Der Emittent hat vor der Eintragung des elektronischen Wertpapiers in einem elektronischen Wertpapierregister die Emissionsbedingungen bei der registerführenden Stelle als beständiges elektronisches Dokument jedermann zur beliebig wiederholbaren unmittelbaren Kenntnisnahme zugänglich zu machen (Niederlegung). Auf Veranlassung des Emittenten kann der Zugang zu den Emissionsbedingungen nach Maßgabe einer Rechtsverordnung nach § 15 oder § 23 beschränkt werden. Wird das elektronische Wertpapier nicht spätestens drei Monate nach der Niederlegung eingetragen, so löscht die registerführende Stelle die niedergelegten Emissionsbedingungen.
 
-(2) Die registerführende Stelle stellt sicher, dass nur Änderungen an den niedergelegten Emissionsbedingungen auf folgenden Grundlagen erfolgen: Satz 1 gilt nicht für die Berichtigung offenbarer Unrichtigkeiten.
+(2) Die registerführende Stelle stellt sicher, dass nur Änderungen an den niedergelegten Emissionsbedingungen auf folgenden Grundlagen erfolgen:
 
-1.
+1. durch Gesetz,
 
-2.
+2. auf Grund eines Gesetzes,
 
-3.
+3. auf Grund eines Rechtsgeschäfts,
 
-4.
+4. auf Grund einer gerichtlichen Entscheidung oder
 
-5.
+5. auf Grund eines vollstreckbaren Verwaltungsakts.
 
 (3) Änderungen von bereits niedergelegten Emissionsbedingungen bedürfen zu ihrer Wirksamkeit wiederum der Niederlegung.
 
@@ -86,23 +86,19 @@ Dieses Gesetz ist anzuwenden auf
 
 (1) Ein Anspruch auf Ausreichung einzelner Wertpapierurkunden besteht nicht. Das gilt nicht, wenn die Emissionsbedingungen des elektronischen Wertpapiers oder im Fall von elektronischen Aktien die Satzung der Aktiengesellschaft einen solchen Anspruch ausdrücklich vorsehen.
 
-(2) Der Emittent kann ein elektronisches Wertpapier durch ein inhaltsgleiches mittels Urkunde begebenes Wertpapier ersetzen, wenn Das elektronische Wertpapier ist im Falle einer Ersetzung durch ein mittels Urkunde begebenes Wertpapier aus dem Register zu löschen. An die Stelle der Eintragung im Register tritt die Verkörperung des Rechts in der neu zu begebenden Urkunde, sobald die Löschung vollzogen und die Urkunde ausgestellt ist.
+(2) Der Emittent kann ein elektronisches Wertpapier durch ein inhaltsgleiches mittels Urkunde begebenes Wertpapier ersetzen, wenn
 
-1.
+1. der Berechtigte zustimmt oder
 
-2.
+2. die Emissionsbedingungen oder im Fall von elektronischen Aktien die Satzung der Aktiengesellschaft eine solche Ersetzung ohne Zustimmung des Berechtigten ausdrücklich zulassen.
 
-(3) Der Emittent kann ein Wertpapier, das mittels Sammelurkunde begeben wurde oder mittels Einzelurkunden, die in Sammelverwahrung verwahrt werden, jederzeit und ohne Zustimmung der Berechtigten durch ein inhaltsgleiches Zentralregisterwertpapier ersetzen, wenn Mit der Eintragung des Zentralregisterwertpapiers wird die Urkunde kraftlos.
+(3) Der Emittent kann ein Wertpapier, das mittels Sammelurkunde begeben wurde oder mittels Einzelurkunden, die in Sammelverwahrung verwahrt werden, jederzeit und ohne Zustimmung der Berechtigten durch ein inhaltsgleiches Zentralregisterwertpapier ersetzen, wenn
 
-1.
+1. das Zentralregisterwertpapier in ein bei einer Wertpapiersammelbank geführtes zentrales Register eingetragen wird,
 
-2.
+2. für das Zentralregisterwertpapier eine Wertpapiersammelbank als Inhaber eingetragen wird und
 
-3.
-
-a)
-
-b)
+3. dies in den Emissionsbedingungen oder im Fall von elektronischen Aktien in der Satzung der Aktiengesellschafta)nicht ausgeschlossen ist oderb)nicht von der Zustimmung der Berechtigten abhängig gemacht wird. nicht ausgeschlossen ist oder nicht von der Zustimmung der Berechtigten abhängig gemacht wird.
 
 (4) In allen anderen als den in Absatz 3 geregelten Fällen setzt die Ersetzung eines mittels Urkunde begebenen Wertpapiers durch ein elektronisches Wertpapier die ausdrückliche Zustimmung des Berechtigten voraus. Mit der Eintragung des elektronischen Wertpapiers wird die Urkunde kraftlos.
 
@@ -122,9 +118,9 @@ b)
 
 (1) Auf Veranlassung des Emittenten kann als Inhaber elektronischer Wertpapiere bis zur Höhe des Nennbetrages der jeweiligen Emission, bei Stückaktien bis zur Gesamtzahl der Stücke, eingetragen werden:
 
-1.
+1. eine Wertpapiersammelbank oder ein Verwahrer (Sammeleintragung) oder
 
-2.
+2. eine natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die das elektronische Wertpapier als Berechtigte hält (Einzeleintragung).
 
 (2) Einzeleintragungen können auf Antrag des Inhabers in eine Sammeleintragung umgewandelt werden, sofern dies nicht in den Emissionsbedingungen, bei Aktien in der Satzung der Aktiengesellschaft ausgeschlossen ist.
 
@@ -142,13 +138,13 @@ b)
 
 (2) Die registerführende Stelle hat jedem, der ein berechtigtes Interesse darlegt, die elektronische Einsicht in das elektronische Wertpapierregister zu gewähren.
 
-(3) Auskünfte, die über die Angaben im elektronischen Wertpapierregister zum eingetragenen Wertpapier hinausgehen, einschließlich der Auskunft über die Identität und die Adresse eines Inhabers, darf die registerführende Stelle nur erteilen, soweit Für den Inhaber eines elektronischen Wertpapiers besteht in Bezug auf ein für ihn eingetragenes Wertpapier stets ein besonderes berechtigtes Interesse.
+(3) Auskünfte, die über die Angaben im elektronischen Wertpapierregister zum eingetragenen Wertpapier hinausgehen, einschließlich der Auskunft über die Identität und die Adresse eines Inhabers, darf die registerführende Stelle nur erteilen, soweit
 
-1.
+1. derjenige, der Auskunft verlangt, ein besonderes berechtigtes Interesse darlegt,
 
-2.
+2. die Erteilung der Auskunft für die Erfüllung des Interesses erforderlich ist und
 
-3.
+3. die Interessen des Inhabers am Schutz seiner personenbezogenen Daten das Interesse desjenigen, der Auskunft verlangt, nicht überwiegen.
 
 (4) Den zuständigen Aufsichts-, Ordnungs- und Strafverfolgungsbehörden ist gemäß Absatz 2 Einsicht in ein elektronisches Wertpapierregister zu gewähren und gemäß Absatz 3 Auskunft zu erteilen, soweit dies jeweils für die Erfüllung der gesetzlichen Aufgaben dieser Behörden erforderlich ist. Die registerführende Stelle hat stets vom Vorliegen dieser Voraussetzungen auszugehen, wenn sie von den in § 34 Absatz 4 Satz 1 des Bundesmeldegesetzes genannten Behörden um Einsicht oder Auskunft ersucht wird.
 
@@ -166,9 +162,9 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht überwacht als Aufsichtsbeh
 
 (2) Zentrale Register können geführt werden von
 
-1.
+1. Wertpapiersammelbanken oder
 
-2.
+2. einem Verwahrer, sofern der Emittent diesen ausdrücklich und in Textform dazu ermächtigt.
 
 (3) Ein Zentralregisterwertpapier, das in ein durch eine Wertpapiersammelbank geführtes Register eingetragen wird und als dessen Inhaber eine Wertpapiersammelbank eingetragen wird, wird zur Abwicklung im Effektengiro bei einer Wertpapiersammelbank erfasst.
 
@@ -178,61 +174,37 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht überwacht als Aufsichtsbeh
 
 (1) Die registerführende Stelle hat sicherzustellen, dass das zentrale Register die folgenden Angaben über das eingetragene Wertpapier enthält:
 
-1.
+1. den wesentlichen Inhalt des Rechts einschließlich einer eindeutigen Wertpapierkennnummer,
 
-2.
+2. das Emissionsvolumen,
 
-3.
+3. den Nennbetrag, bei Stückaktien deren Zahl,
 
-4.
+4. den Emittenten,
 
-5.
+5. eine Kennzeichnung, ob es sich um eine Einzel- oder eine Sammeleintragung handelt,
 
-6.
+6. den Inhaber,
 
-7.
+7. Angaben zum Mischbestand nach § 9 Absatz 3 sowie
 
-8.
+8. bei Aktien zusätzlich Folgendes: a)ob sie auf den Namen oder auf den Inhaber lauten,b)im Fall von vor der vollen Leistung des Ausgabebetrags ausgegebenen Namensaktien den Betrag der Teilleistung,c)ob sie als Nennbetragsaktien oder als Stückaktien begründet wurden,d)die Gattung der Aktien, wenn mehrere Gattungen bestehen,e)im Fall von Mehrstimmrechtsaktien die Zahl der auf sie entfallenden Stimmrechte,f)ob sie als Aktien ohne Stimmrecht ausgegeben wurden undg)ob die Satzung der Aktiengesellschaft die Übertragung an die Zustimmung der Gesellschaft bindet. ob sie auf den Namen oder auf den Inhaber lauten, im Fall von vor der vollen Leistung des Ausgabebetrags ausgegebenen Namensaktien den Betrag der Teilleistung, ob sie als Nennbetragsaktien oder als Stückaktien begründet wurden, die Gattung der Aktien, wenn mehrere Gattungen bestehen, im Fall von Mehrstimmrechtsaktien die Zahl der auf sie entfallenden Stimmrechte, ob sie als Aktien ohne Stimmrecht ausgegeben wurden und ob die Satzung der Aktiengesellschaft die Übertragung an die Zustimmung der Gesellschaft bindet.
 
-a)
+(2) Bei einer Einzeleintragung hat die registerführende Stelle sicherzustellen, dass das zentrale Register neben den Angaben nach Absatz 1 auch die folgenden Angaben über das eingetragene Wertpapier enthält:
 
-b)
+1. Verfügungsbeschränkungen zugunsten einer bestimmten Person und
 
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-(2) Bei einer Einzeleintragung hat die registerführende Stelle sicherzustellen, dass das zentrale Register neben den Angaben nach Absatz 1 auch die folgenden Angaben über das eingetragene Wertpapier enthält: Die Bezeichnung des Inhabers nach Absatz 1 Nummer 6 kann bei einer Einzeleintragung auch durch Zuordnung einer eindeutigen Kennung erfolgen. Die registerführende Stelle hat auf Weisung eines nach § 14 Absatz 1 Satz 1 Nummer 1 oder Nummer 2 Weisungsberechtigten zusätzlich Angaben zu sonstigen Verfügungsbeschränkungen sowie zur Geschäftsfähigkeit des Inhabers aufzunehmen.
-
-1.
-
-2.
+2. Rechte Dritter.
 
 (3) Die registerführende Stelle hat sicherzustellen, dass die Angaben nach den Absätzen 1 und 2 Satz 1 in einer Weise verknüpft sind, dass sie nur zusammen abgerufen werden können.
 
 ### § 14 — Änderungen des Registerinhalts
 
-(1) Die registerführende Stelle darf, soweit gesetzlich nicht anders bestimmt, Änderungen der Angaben nach § 13 Absatz 1 und 2 sowie die Löschung des Wertpapiers und seiner niedergelegten Emissionsbedingungen nur vornehmen auf Grund einer Weisung Im Falle einer Verfügungsbeschränkung nach § 13 Absatz 2 Satz 1 Nummer 1 hat der Inhaber über seine Weisung hinaus der registerführenden Stelle zu versichern, dass die Zustimmung der durch die Verfügungsbeschränkungen begünstigten Personen zu der Änderung vorliegt. Im Falle des § 13 Absatz 2 Satz 1 Nummer 2 tritt an die Stelle des Inhabers der eingetragene Dritte. Die registerführende Stelle versieht den Eingang der Weisungen mit einem Zeitstempel. Die registerführende Stelle darf von einer Weisung des Inhabers ausgehen, wenn die Weisung mittels eines geeigneten Authentifizierungsinstruments erteilt wurde.
+(1) Die registerführende Stelle darf, soweit gesetzlich nicht anders bestimmt, Änderungen der Angaben nach § 13 Absatz 1 und 2 sowie die Löschung des Wertpapiers und seiner niedergelegten Emissionsbedingungen nur vornehmen auf Grund einer Weisung
 
-1.
+1. des Inhabers, es sei denn, der registerführenden Stelle ist bekannt, dass dieser nicht berechtigt ist, oder
 
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+2. einer Person oder Stelle, die berechtigt ist a)durch Gesetz,b)auf Grund eines Gesetzes,c)durch Rechtsgeschäft,d)durch gerichtliche Entscheidung odere)durch vollstreckbaren Verwaltungsakt. durch Gesetz, auf Grund eines Gesetzes, durch Rechtsgeschäft, durch gerichtliche Entscheidung oder durch vollstreckbaren Verwaltungsakt.
 
 (2) Die registerführende Stelle darf Änderungen der Angaben nach § 13 Absatz 1 Nummer 1 bis 5, 7 und 8 sowie die Löschung einer Eintragung und ihrer niedergelegten Emissionsbedingungen, soweit gesetzlich nichts anderes bestimmt ist, nur mit Zustimmung des Emittenten vornehmen. Für die Eintragung des Erlöschens von nach § 13 Absatz 1 Nummer 8 Buchstabe d eingetragenen Mehrstimmrechten ist auch der Emittent allein weisungsbefugt.
 
@@ -244,31 +216,31 @@ e)
 
 ### § 15 — Verordnungsermächtigung in Bezug auf zentrale Register
 
-(1) Das Bundesministerium der Justiz und für Verbraucherschutz und das Bundesministerium der Finanzen können für zentrale Register durch gemeinsame Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die näheren Bestimmungen treffen über Das Bundesamt für Sicherheit in der Informationstechnik ist anzuhören, soweit die Sicherheit informationstechnischer Systeme betroffen ist.
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz und das Bundesministerium der Finanzen können für zentrale Register durch gemeinsame Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die näheren Bestimmungen treffen über
 
-1.
+1. die technischen Anforderungen an die Niederlegung der Emissionsbedingungen nach § 5, einschließlich der Darstellung von Änderungen und des Datenzugangs, sowie die Bedingungen für die Beschränkung des Zugangs zu den Emissionsbedingungen nach § 5 Absatz 1 Satz 2,
 
-2.
+2. das Verfahren zum Wechsel der Begebungsform oder der Auslieferung von Einzelurkunden nach § 6,
 
-3.
+3. die Einrichtung und die Führung des Registers nach § 7, einschließlich der für die zentralen Register vorzusehenden Eintragungsarten nach § 8 Absatz 1,
 
-4.
+4. die Vorgaben zur Datenspeicherung und zur Datendarstellung nach § 13,
 
-5.
+5. die Anforderungen an die Gewährleistung des Einsichtsrechts gemäß § 10, den Kreis der Einsichtsberechtigten, einschließlich des Umfangs der Einsichtnahme und des jeweiligen Teilnehmerkreises für die zentralen Register, und die Gründe, die ein berechtigtes oder ein besonderes berechtigtes Einsichtsinteresse begründen, sowie die Regelungen zur Darlegung des Interesses und zum Verfahren der Einsichtnahme,
 
-6.
+6. den zu erwartenden Sorgfaltsmaßstab für die Abbildung der Rechtslage nach § 7 Absatz 2,
 
-7.
+7. die Anforderungen an die Vertraulichkeit, Integrität, Verfügbarkeit und Authentizität der Daten nach § 7 Absatz 3,
 
-8.
+8. die Anforderungen an die Zurechnung zu einem Mischbestand nach § 9 Absatz 3,
 
-9.
+9. die Anforderungen an die Identifizierung des Weisungsberechtigten und das Authentifizierungsinstrument nach § 14 Absatz 1,
 
-10.
+10. die Verfahrensanforderung zur Übermittlung und zur Vollziehung von Weisungen nach § 14 Absatz 1 bis 4,
 
-11.
+11. die Anforderungen an den angemessenen Zeitraum für Umtragungen und die Gültigkeit von Transaktionen nach § 14 Absatz 4 und
 
-12.
+12. die Modalitäten der Anzeige der Einrichtung eines zentralen Registers gegenüber der Aufsichtsbehörde nach § 12 Absatz 4.
 
 (2) Das Bundesministerium der Justiz und für Verbraucherschutz und das Bundesministerium der Finanzen können die Ermächtigung nach Absatz 1 durch gemeinsame Rechtsverordnung auf die Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
 
@@ -284,61 +256,37 @@ e)
 
 (1) Die registerführende Stelle hat sicherzustellen, dass das Kryptowertpapierregister folgende Angaben über das eingetragene Kryptowertpapier enthält:
 
-1.
+1. den wesentlichen Inhalt des Rechts einschließlich einer eindeutigen Kennnummer und der Kennzeichnung als Wertpapier,
 
-2.
+2. das Emissionsvolumen,
 
-3.
+3. den Nennbetrag, bei Stückaktien deren Zahl,
 
-4.
+4. den Emittenten,
 
-5.
+5. eine Kennzeichnung, ob es sich um eine Einzel- oder eine Sammeleintragung handelt,
 
-6.
+6. den Inhaber,
 
-7.
+7. Angaben zum Mischbestand nach § 9 Absatz 3 sowie
 
-8.
+8. bei Aktien zusätzlich Folgendes: a)dass sie auf den Namen lauten,b)im Fall von vor der vollen Leistung des Ausgabebetrags ausgegebenen Aktien den Betrag der Teilleistung,c)ob sie als Nennbetragsaktien oder als Stückaktien begründet wurden,d)die Gattung der Aktien, wenn mehrere Gattungen bestehen,e)im Fall von Mehrstimmrechtsaktien die Zahl der auf sie entfallenden Stimmrechte,f)ob sie als Aktien ohne Stimmrecht ausgegeben wurden undg)ob die Satzung der Aktiengesellschaft die Eigentumsübertragung an die Zustimmung der Gesellschaft bindet. dass sie auf den Namen lauten, im Fall von vor der vollen Leistung des Ausgabebetrags ausgegebenen Aktien den Betrag der Teilleistung, ob sie als Nennbetragsaktien oder als Stückaktien begründet wurden, die Gattung der Aktien, wenn mehrere Gattungen bestehen, im Fall von Mehrstimmrechtsaktien die Zahl der auf sie entfallenden Stimmrechte, ob sie als Aktien ohne Stimmrecht ausgegeben wurden und ob die Satzung der Aktiengesellschaft die Eigentumsübertragung an die Zustimmung der Gesellschaft bindet.
 
-a)
+(2) Bei einer Einzeleintragung hat die registerführende Stelle sicherzustellen, dass das Kryptowertpapierregister neben den Angaben nach Absatz 1 auch die folgenden Angaben über das eingetragene Wertpapier enthält:
 
-b)
+1. Verfügungsbeschränkungen zugunsten einer bestimmten Person und
 
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-(2) Bei einer Einzeleintragung hat die registerführende Stelle sicherzustellen, dass das Kryptowertpapierregister neben den Angaben nach Absatz 1 auch die folgenden Angaben über das eingetragene Wertpapier enthält: Die Bezeichnung des Inhabers nach Absatz 1 Nummer 6 muss bei einer Einzeleintragung durch Zuordnung einer eindeutigen Kennung erfolgen. Die registerführende Stelle hat auf Weisung eines nach § 18 Absatz 1 Satz 1 Nummer 1 oder Nummer 2 Weisungsberechtigten zusätzlich Angaben zu sonstigen Verfügungsbeschränkungen sowie zur Geschäftsfähigkeit des Inhabers aufzunehmen.
-
-1.
-
-2.
+2. Rechte Dritter.
 
 (3) Die registerführende Stelle hat sicherzustellen, dass die Angaben nach den Absätzen 1 und 2 Satz 1 in einer Weise verknüpft sind, dass sie nur zusammen abgerufen werden können.
 
 ### § 18 — Änderungen des Registerinhalts
 
-(1) Die registerführende Stelle darf Änderungen der Angaben nach § 17 Absatz 1 und 2 sowie die Löschung des Kryptowertpapiers und seiner niedergelegten Emissionsbedingungen nur vornehmen auf Grund einer Weisung Im Falle einer Verfügungsbeschränkung nach § 17 Absatz 2 Satz 1 Nummer 1 hat der Inhaber über seine Weisung hinaus der registerführenden Stelle zu versichern, dass die Zustimmung der durch die Verfügungsbeschränkungen begünstigten Personen zu der Änderung vorliegt. Im Falle des § 17 Absatz 2 Satz 1 Nummer 2 tritt an die Stelle des Inhabers der eingetragene Dritte. Die registerführende Stelle versieht den Eingang der Weisungen mit einem Zeitstempel. Die registerführende Stelle darf von einer Weisung des Inhabers ausgehen, wenn die Weisung mittels eines geeigneten Authentifizierungsinstruments erteilt wurde.
+(1) Die registerführende Stelle darf Änderungen der Angaben nach § 17 Absatz 1 und 2 sowie die Löschung des Kryptowertpapiers und seiner niedergelegten Emissionsbedingungen nur vornehmen auf Grund einer Weisung
 
-1.
+1. des Inhabers, es sei denn, der registerführenden Stelle ist bekannt, dass dieser nicht berechtigt ist, oder
 
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+2. einer Person oder Stelle, die hierzu berechtigt ist a)durch Gesetz,b)auf Grund eines Gesetzes,c)durch Rechtsgeschäft,d)durch gerichtliche Entscheidung odere)durch vollstreckbaren Verwaltungsakt. durch Gesetz, auf Grund eines Gesetzes, durch Rechtsgeschäft, durch gerichtliche Entscheidung oder durch vollstreckbaren Verwaltungsakt.
 
 (2) Die registerführende Stelle darf Änderungen der Angaben nach § 17 Absatz 1 Nummer 1 bis 5, 7 und 8 sowie die Löschung einer Eintragung und ihrer niedergelegten Emissionsbedingungen nur mit Zustimmung des Emittenten vornehmen, soweit gesetzlich nichts anderes bestimmt ist. Für die Eintragung des Erlöschens von nach § 17 Absatz 1 Nummer 8 Buchstabe d eingetragenen Mehrstimmrechten ist auch der Emittent allein weisungsbefugt.
 
@@ -354,11 +302,11 @@ e)
 
 (2) Ist der Inhaber eines einzeln eingetragenen Kryptowertpapiers ein Verbraucher, so hat die registerführende Stelle dem Inhaber zu folgenden Zeitpunkten einen Registerauszug in Textform zur Verfügung zu stellen:
 
-1.
+1. nach Eintragung eines Kryptowertpapiers in das Register zugunsten des Inhabers,
 
-2.
+2. bei jeder Veränderung des Registerinhalts, die den Inhaber betrifft, und
 
-3.
+3. einmal jährlich.
 
 ### § 20 — (weggefallen)
 
@@ -374,61 +322,61 @@ Will der Emittent ein Kryptowertpapier in ein anderes elektronisches Wertpapierr
 
 ### § 23 — Verordnungsermächtigung in Bezug auf Kryptowertpapierregister
 
-(1) Das Bundesministerium der Justiz und für Verbraucherschutz und das Bundesministerium der Finanzen können für Kryptowertpapierregister durch gemeinsame Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über Das Bundesamt für Sicherheit in der Informationstechnik ist anzuhören, soweit die Sicherheit informationstechnischer Systeme betroffen ist.
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz und das Bundesministerium der Finanzen können für Kryptowertpapierregister durch gemeinsame Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
 
-1.
+1. das Verfahren und die Einzelheiten der Eintragung nach § 4 Absatz 4,
 
-2.
+2. die technischen Anforderungen an die Niederlegung der Emissionsbedingungen nach § 5, einschließlich der Darstellung von Änderungen und des Datenzugangs, sowie die Bedingungen für die Beschränkung des Zugangs zu den Emissionsbedingungen nach § 5 Absatz 1 Satz 2,
 
-3.
+3. das Verfahren zum Wechsel der Begebungsform oder der Auslieferung von Einzelurkunden nach § 6,
 
-4.
+4. die Einrichtung und die Führung des Registers nach § 7, einschließlich der für die Kryptowertpapierregister vorzusehenden Eintragungsarten nach § 8 Absatz 1,
 
-5.
+5. den zu erwartenden Sorgfaltsmaßstab für die Abbildung der Rechtslage nach § 7 Absatz 2 sowie die Regelungen zur Rückgängigmachung von Eintragungen nach § 18 Absatz 5,
 
-6.
+6. die Anforderungen an die Vertraulichkeit, Integrität, Verfügbarkeit und Authentizität der Daten nach § 7 Absatz 3,
 
-7.
+7. die Anforderungen für die Zurechnung zu einem Mischbestand nach § 9 Absatz 3,
 
-8.
+8. die Anforderungen an die Gewährleistung des Einsichtsrechts gemäß § 10, den Kreis der Einsichtsberechtigten, einschließlich des Umfangs der Einsichtnahme und des jeweiligen Teilnehmerkreises für die Kryptowertpapierregister, und die Gründe, die ein berechtigtes oder ein besonderes berechtigtes Einsichtsinteresse begründen, sowie die Regelungen zur Darlegung des Interesses und zum Verfahren der Einsichtnahme,
 
-9.
+9. die Anforderungen an die Identifizierung des Weisungsberechtigten und an das Authentifizierungsinstrument nach § 18 Absatz 1,
 
-10.
+10. die Verfahrensanforderung zur Übermittlung und zur Vollziehung von Weisungen nach § 18 Absatz 1 bis 4,
 
-11.
+11. die Anforderungen an den angemessenen Zeitraum für Umtragungen und an die Gültigkeit von Transaktionen auf dem Aufzeichnungssystem nach § 18 Absatz 4,
 
-12.
+12. die Anforderungen an den Austausch von Informationen des Registers mit dritten Systemen oder Anwendungen und an die gegenseitige Nutzung ausgetauschter Informationen,
 
-13.
+13. die Zugänglichkeit des verwendeten Quellcodes,
 
-14.
+14. die verwendeten Steuerungsverfahren und Steuerungsmaßnahmen,
 
-15.
+15. die Sicherstellung von Verantwortlichkeiten und Identifizierungsmerkmalen,
 
-16.
+16. die Anforderungen an die technische Leistungsfähigkeit und die technische Skalierbarkeit,
 
-17.
+17. die Berechtigungskonzepte zur Änderung und Fortschreibung der Daten auf dem Aufzeichnungssystem und der Inhalte des Registers,
 
-18.
+18. die verwendeten kryptografischen Verfahren und alle Mittel und Methoden für die Transformation von Daten, um ihren semantischen Inhalt zu verbergen, ihre unbefugte Verwendung zu verhindern oder ihre unbemerkte Veränderung zu verhindern,
 
-19.
+19. die Daten, die im Aufzeichnungssystem gespeichert werden müssen,
 
-20.
+20. die Informationen, die die registerführende Stelle mit den Informationen im Aufzeichnungssystem abgleichen oder ergänzen muss und speichern muss,
 
-21.
+21. die Kriterien für eine Teilnahme am Register, die einen fairen und offenen Zugang ermöglichen,
 
-22.
+22. die Kommunikationsverfahren mit den Teilnehmern einschließlich der Schnittstellen, über die diese mit der registerführenden Stelle sowie dem Aufzeichnungssystem verbunden sind,
 
-23.
+23. die Anforderungen an die erforderlichen technischen und organisatorischen Maßnahmen des Emittenten nach § 21 Absatz 1,
 
-24.
+24. die Details bezüglich des Verfahrens für den Wechsel des Wertpapierregisters nach § 21 Absatz 2 und § 22,
 
-25.
+25. die Dokumentation und die Beschreibung des Registers,
 
-26.
+26. die Anforderungen an die Geschäftsorganisation bei der Führung des Registers und
 
-27.
+27. die Art, das Format und den Inhalt des Registerauszugs gemäß § 19.
 
 (2) Das Bundesministerium der Justiz und für Verbraucherschutz und das Bundesministerium der Finanzen können die Ermächtigung nach Absatz 1 durch gemeinsame Rechtsverordnung auf die Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
 
@@ -438,11 +386,11 @@ Will der Emittent ein Kryptowertpapier in ein anderes elektronisches Wertpapierr
 
 Folgende Verfügungen bedürfen vorbehaltlich der sonstigen gesetzlichen Anforderungen zu ihrer Wirksamkeit einer Eintragung oder Umtragung in dem elektronischen Wertpapierregister:
 
-1.
+1. Verfügungen über ein elektronisches Wertpapier,
 
-2.
+2. Verfügungen über ein Recht aus einem elektronischen Wertpapier oder über ein Recht an einem solchen Recht oder
 
-3.
+3. Verfügungen über ein Recht an einem elektronischen Wertpapier oder über ein Recht an einem solchen Recht.
 
 ### § 25 — Übereignung
 
@@ -468,17 +416,13 @@ Sofern dieses Gesetz nichts anderes vorsieht, wird zugunsten des Inhabers eines 
 
 (2) Der Emittent einer elektronisch begebenen Schuldverschreibung kann nur folgende Einwendungen erheben:
 
-1.
+1. Einwendungen, die sich aus der Eintragung ergeben,
 
-2.
+2. Einwendungen, die die Gültigkeit der Eintragung betreffen,
 
-3.
+3. Einwendungen, die sich aus den Anleihebedingungen ergeben, oder
 
-4.
-
-a)
-
-b)
+4. Einwendungen, die ihm zustehen a)im Fall einer Einzeleintragung unmittelbar gegen den Inhaber,b)im Fall einer Sammeleintragung unmittelbar gegen denjenigen, der auf Grund einer Depotbescheinigung zur Rechtsausübung gemäß § 6 Absatz 2 Satz 3 des Depotgesetzes als Inhaber gilt. im Fall einer Einzeleintragung unmittelbar gegen den Inhaber, im Fall einer Sammeleintragung unmittelbar gegen denjenigen, der auf Grund einer Depotbescheinigung zur Rechtsausübung gemäß § 6 Absatz 2 Satz 3 des Depotgesetzes als Inhaber gilt.
 
 ### § 29 — Leistungspflicht nur gegen Umtragung; Erlöschen
 
@@ -504,39 +448,39 @@ Der Emittent ist berechtigt, die Aktien, die zugunsten eines nach § 64 Absatz 3
 
 ### § 31 — Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer einer vollziehbaren Anordnung nach § 21 Absatz 2 Satz 2 zuwiderhandelt.
+(1) Ordnungswidrig handelt, wer einer vollziehbaren Anordnung nach § 21 Absatz 2 Satz 2 zuwiderhandelt.
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 7 Absatz 1, auch in Verbindung mit einer Rechtsverordnung nach § 15 Absatz 1 Satz 1 Nummer 3 oder § 23 Absatz 1 Satz 1 Nummer 4, ein Register nicht oder nicht richtig führt,
 
-2.
+2. entgegen § 7 Absatz 2 Satz 1 in Verbindung mit einer Rechtsverordnung nach § 15 Absatz 1 Satz 1 Nummer 6 oder § 23 Absatz 1 Satz 1 Nummer 5 nicht sicherstellt, dass eine Eintragung oder Umtragung in der dort genannten Weise erfolgt,
 
-3.
+3. entgegen § 7 Absatz 3 Satz 1 in Verbindung mit einer Rechtsverordnung nach § 15 Absatz 1 Satz 1 Nummer 7 oder § 23 Absatz 1 Satz 1 Nummer 6 eine dort genannte Maßnahme nicht, nicht richtig oder nicht rechtzeitig trifft,
 
-4.
+4. entgegen § 7 Absatz 3 Satz 3, auch in Verbindung mit einer Rechtsverordnung nach § 15 Absatz 1 Satz 1 Nummer 7 oder § 23 Absatz 1 Satz 1 Nummer 6 nicht sicherstellt, dass der dort genannte Gesamtbestand nicht verändert wird,
 
-5.
+5. entgegen § 10 Absatz 1, auch in Verbindung mit einer Rechtsverordnung nach § 15 Absatz 1 Satz 1 Nummer 5 oder § 23 Absatz 1 Satz 1 Nummer 8, nicht sicherstellt, dass die Teilnehmer Einsicht nehmen können,
 
-6.
+6. entgegen § 10 Absatz 2 in Verbindung mit einer Rechtsverordnung nach § 15 Absatz 1 Satz 1 Nummer 5 oder § 23 Absatz 1 Satz 1 Nummer 8 Einsicht nicht oder nicht rechtzeitig gewährt,
 
-7.
+7. entgegen § 10 Absatz 3 Satz 1 in Verbindung mit einer Rechtsverordnung nach § 15 Absatz 1 Satz 1 Nummer 5 oder § 23 Absatz 1 Satz 1 Nummer 8 eine Auskunft erteilt,
 
-8.
+8. entgegen § 12 Absatz 4 eine Anzeige nicht, nicht richtig oder nicht rechtzeitig erstattet,
 
-9.
+9. entgegen § 13 Absatz 1, auch in Verbindung mit einer Rechtsverordnung nach § 15 Absatz 1 Satz 1 Nummer 4, oder entgegen § 17 Absatz 1 nicht sicherstellt, dass ein dort genanntes Register die dort genannten Angaben enthält,
 
-10.
+10. entgegen § 13 Absatz 3, auch in Verbindung mit einer Rechtsverordnung nach § 15 Absatz 1 Satz 1 Nummer 4, oder entgegen § 17 Absatz 3 nicht sicherstellt, dass die Angaben in der dort genannten Weise verknüpft sind,
 
-11.
+11. entgegen § 14 Absatz 1 oder 2 oder § 18 Absatz 1 oder 2 eine Änderung oder Löschung vornimmt,
 
-12.
+12. entgegen § 14 Absatz 4 in Verbindung mit einer Rechtsverordnung nach § 15 Absatz 1 Satz 1 Nummer 11 oder entgegen § 18 Absatz 4 in Verbindung mit einer Rechtsverordnung nach § 23 Absatz 1 Nummer 11 nicht sicherstellt, dass eine Umtragung oder Transaktion eine dort genannte Anforderung erfüllt,
 
-13.
+13. entgegen § 14 Absatz 5 Satz 1 oder entgegen § 18 Absatz 5 Satz 1, auch in Verbindung mit einer Rechtsverordnung nach § 23 Absatz 1 Satz 1 Nummer 5, eine Änderung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig rückgängig macht,
 
-14.
+14. entgegen § 16 Absatz 1 ein Kryptowertpapierregister nicht richtig führt oder
 
-15.
+15. entgegen § 19, auch in Verbindung mit einer Rechtsverordnung nach § 23 Absatz 1 Satz 1 Nummer 27, einen Registerauszug nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt.
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu einhunderttausend Euro geahndet werden.
 

@@ -8,14 +8,14 @@ Angabe des Feingehalts auf goldenen und silbernen Geräten
 
 ### (XXXX)
 
-Auf Grund des § 3 des Gesetzes über den Feingehalt der Gold- und Silberwaren vom 16. Juli 1884 (Reichsgesetzbl. S. 120) hat der Bundesrat folgende Bestimmung getroffen: Das Stempelzeichen für die Gold- und Silbergeräte muß enthalten: Die Krone muß sich befinden.(... = nicht darstellbare Abbildungen,
+Auf Grund des § 3 des Gesetzes über den Feingehalt der Gold- und Silberwaren vom 16. Juli 1884 (Reichsgesetzbl. S. 120) hat der Bundesrat folgende Bestimmung getroffen:
 
-1.
+1. die Reichs-Krone,
 
-2.
+2. das Sonnenzeichen ... für Gold oder das Mondsichelzeichen ... für Silber,
 
-3.
+3. die Angabe des Feingehalts in Tausendteilen und
 
-4.
+4. die Firma oder die in Gemäßheit des Gesetzes vom 30. November 1874 eingetragene Schutzmarke des Geschäfts, für welches die Stempelung bewirkt ist.
 
 > Nr. 4 Kursivdruck: Jetzt des Warenzeichengesetzes 423-1

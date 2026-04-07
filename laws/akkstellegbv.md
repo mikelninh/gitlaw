@@ -18,87 +18,35 @@ Auf Grund des § 8 Absatz 1 des Akkreditierungsstellengesetzes vom 31. Juli 2009
 
 ### § 2 — Aufsicht
 
-Die Aufsicht über die Akkreditierungsstelle wird ausgeübt vom Soweit ein Bereich nicht dem Satz 1 Nummer 1 bis 7 unterfällt, wird die Aufsicht über die Akkreditierungsstelle vom Bundesministerium für Wirtschaft und Energie ausgeübt.
+Die Aufsicht über die Akkreditierungsstelle wird ausgeübt vom
 
-1.
+1. Bundesministerium des Innern, für Bau und Heimat im Bereich der Sicherheit in der Informationstechnik;
 
-1a.
+1a. Bundesministerium der Finanzen im Bereich des Finanzmarktes;
 
-2.
+2. Bundesministerium für Arbeit und Soziales oder der von ihm benannten Behörden in den Bereichen Arbeit und Soziales; hierzu gehört insbesondere der Bereich a)der Geräte- und Produktsicherheit,b)der Betriebs- und Anlagensicherheit,c)des Gefahrstoff- und Biostoffrechts,d)der arbeitsmarktlichen beruflichen Weiterbildungsförderung sowiee)der Rehabilitation; der Geräte- und Produktsicherheit, der Betriebs- und Anlagensicherheit, des Gefahrstoff- und Biostoffrechts, der arbeitsmarktlichen beruflichen Weiterbildungsförderung sowie der Rehabilitation;
 
-a)
+3. Bundesministerium für Ernährung und Landwirtschaft oder der von ihm benannten Behörde in den Bereichen Ernährung, Landwirtschaft und Verbraucherschutz einschließlich Lebensmittelsicherheit; hierzu gehört insbesondere der Bereich der a)Futter- und Lebensmittel,b)kosmetische Mittel, Bedarfsgegenstände und Erzeugnisse im Sinne von § 2 Nummer 1 des Tabakerzeugnisgesetzes sowiec)Erzeugnisse im Sinne des Artikels 1 der Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober 2007 über eine gemeinsame Organisation der Agrarmärkte und mit Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse einschließlich der auf Grundlage der Verordnung erlassenen Rechtsvorschriften (ABl. L 299 vom 16.11.2007, S. 1), die zuletzt durch die Verordnung (EG) 183/2009 (ABl. L 63 vom 7.3.2009, S. 9) geändert worden ist; Futter- und Lebensmittel, kosmetische Mittel, Bedarfsgegenstände und Erzeugnisse im Sinne von § 2 Nummer 1 des Tabakerzeugnisgesetzes sowie Erzeugnisse im Sinne des Artikels 1 der Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober 2007 über eine gemeinsame Organisation der Agrarmärkte und mit Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse einschließlich der auf Grundlage der Verordnung erlassenen Rechtsvorschriften (ABl. L 299 vom 16.11.2007, S. 1), die zuletzt durch die Verordnung (EG) 183/2009 (ABl. L 63 vom 7.3.2009, S. 9) geändert worden ist;
 
-b)
+4. Bundesministerium für Gesundheit für die Bereiche der Gesundheit; hierzu gehört insbesondere der Bereich a)des Apotheken-, Arzneimittel- und Medizinprodukterechts, der Gen- und Laboratoriumsdiagnostik, medizinischer Verfahren und Technologien,b)der Gesundheits- und Pflegeeinrichtungen sowie der im Gesundheits- und Pflegebereich tätigen Personen undc)des Trinkwassers; des Apotheken-, Arzneimittel- und Medizinprodukterechts, der Gen- und Laboratoriumsdiagnostik, medizinischer Verfahren und Technologien, der Gesundheits- und Pflegeeinrichtungen sowie der im Gesundheits- und Pflegebereich tätigen Personen und des Trinkwassers;
 
-c)
+5. Bundesministerium für Verkehr und digitale Infrastruktur bei Bauprodukten sowie im Bereich Verkehr; hierzu gehört insbesondere der Bereich a)des Kraftfahrwesens,b)der Beförderung gefährlicher Güter,c)der Eisenbahn undd)der Verkehrstechnik; des Kraftfahrwesens, der Beförderung gefährlicher Güter, der Eisenbahn und der Verkehrstechnik;
 
-d)
+6. Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit oder der von ihm benannten Behörde im Bereich des Umweltrechts; hierzu gehört insbesondere der Bereich a)des Immissionsschutzes,b)der Wasserwirtschaft,c)der Kreislauf- und Abfallwirtschaft,d)des Bodenschutzes,e)der Chemikaliensicherheit undf)des Umweltmanagements; des Immissionsschutzes, der Wasserwirtschaft, der Kreislauf- und Abfallwirtschaft, des Bodenschutzes, der Chemikaliensicherheit und des Umweltmanagements;
 
-e)
-
-3.
-
-a)
-
-b)
-
-c)
-
-4.
-
-a)
-
-b)
-
-c)
-
-5.
-
-a)
-
-b)
-
-c)
-
-d)
-
-6.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-7.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+7. Bundesministerium für Wirtschaft und Energie im Bereich a)der elektronischen Signaturen,b)der elektromagnetischen Verträglichkeit,c)der Funkanlagen und Telekommunikationsendeinrichtungen,d)der Produktsicherheit bei Spielzeug,e)der Produktsicherheit bei Sportbooten. der elektronischen Signaturen, der elektromagnetischen Verträglichkeit, der Funkanlagen und Telekommunikationsendeinrichtungen, der Produktsicherheit bei Spielzeug, der Produktsicherheit bei Sportbooten.
 
 ### § 3 — Berichtspflichten der Akkreditierungsstelle
 
 Die Akkreditierungsstelle hat dem Bundesministerium für Wirtschaft und Energie und nachrichtlich den in § 2 genannten weiteren Bundesministerien jährlich zum 1. April einen Bericht vorzulegen, in dem konkret und substantiiert nachzuweisen ist, dass sie:
 
-1.
+1. über einen geeigneten Aufbau und eine geeignete Ablauforganisation verfügt, die den Anforderungen in Artikel 8 der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) genügt,
 
-2.
+2. einen Akkreditierungsausschuss eingerichtet hält, der im Innenverhältnis in den in § 1 Absatz 2 Satz 2 des Akkreditierungsstellengesetzes genannten Bereichen die Akkreditierungsentscheidung trifft sowie in diesen Bereichen den die Befugnis erteilenden Behörden die Kosten für ihre Tätigkeiten erstattet,
 
-3.
+3. ständig ein geeignetes Qualitätssicherungssystem anwendet und
 
-4.
+4. die erforderliche Überwachung gemäß Artikel 5 Absatz 3 der Verordnung (EG) Nr. 765/2008 durchgeführt hat, wobei in dem Bericht dazu unter anderem auf den Umfang, den Inhalt und etwaige aufgetretene Probleme einzugehen ist.
 
 ### § 4 — Öffentlich-rechtlicher Vertrag
 

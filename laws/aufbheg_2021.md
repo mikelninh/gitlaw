@@ -15,9 +15,9 @@ Es wird ein nationaler Fonds „Aufbauhilfe 2021“ als Sondervermögen des Bund
 
 (2) Aus den Mitteln des Fonds werden als Aufbauhilfen geleistet, soweit die Schäden nicht durch Versicherungen oder sonstige Dritte abgedeckt sind,
 
-1.
+1. Maßnahmen für geschädigte Privathaushalte und Unternehmen sowie für andere Einrichtungen und
 
-2.
+2. Maßnahmen zur Wiederherstellung der Infrastruktur der betroffenen Länder, Gemeinden und des Bundes sowie weiterer öffentlich-rechtlicher Körperschaften einschließlich der Gebäude und Einrichtungen von Religionsgemeinschaften, soweit sie Körperschaften des öffentlichen Rechts sind, sowie unabhängig von der Trägerschaft von Infrastrukturen des Personenverkehrs und des Schienengüterverkehrs einschließlich der Bereitstellung von insbesondere Ersatzmobilität im öffentlichen Personennahverkehr bis zur Wiederherstellung der Infrastrukturen.
 
 (3) Bei der Verteilung der Mittel auf Bund, Länder und Gemeinden sowie bei der Gewährung der Hilfen sind die unterschiedlichen Schadensbelastungen der Betroffenen zu berücksichtigen.
 

@@ -46,7 +46,7 @@ Wasser im Sinne des § 9 Abs. 1 des Gesetzes ist alles in der Natur vorkommende,
 
 (1) Die Verwendung von Rückständen, die bei der Bereitung obergärigen Bieres verbleiben, zu dem anderes Malz als Gerstenmalz oder zu dem Zucker verwendet wurde, ist bei der Bereitung untergärigen Bieres nicht zulässig.
 
-(2)
+(2) bis (4) (weggefallen)
 
 ### § 21
 
@@ -56,8 +56,8 @@ Als obergärig gelten die mit obergäriger, Auftrieb gebender Hefe hergestellten
 
 (1) Zucker und aus Zucker hergestellte Farbmittel (gebräunter Zucker) dürfen nur bei der Bereitung von solchem Bier verwendet werden, dessen Würze mit reiner obergäriger Hefe, also weder mit untergäriger Hefe noch mit einer aus obergäriger und untergäriger Hefe zusammengesetzten Mischhefe, angestellt worden ist. Die nach Landesrecht zuständige Behörde kann jedoch im Bedürfnisfall widerruflich zulassen, daß unter Zuckerverwendung oder aus Weizenmalz hergestellten obergärigen Bieren eine verhältnismäßig geringe Menge untergäriger Hefe oder untergäriger Kräusen (in Gärung befindlicher, mit untergäriger Hefe angestellter Würze) zum Zweck einer besseren Klärung oder zur Erzielung eines festeren Absetzens der Hefe zugesetzt wird. Die Zulassung ist an folgende Bedingungen und Auflagen zu knüpfen:
 
-a)
+a) Der Zusatz der untergärigen Kräusen darf 15 vom Hundert, der Zusatz der untergärigen Hefe 0,1 vom Hundert der Menge der mit reiner obergäriger Hefe angestellten Würze nicht überschreiten; an untergäriger Hefe dürfen jedoch nicht mehr als 50 vom Hundert der verwendeten Menge obergäriger Hefe zugesetzt werden. Einfachbier, das unter Verwendung von Süßstoff hergestellt und in der Brauerei nur angegoren wird, dürfen bis zu 75 vom Hundert der insgesamt zu verwendenden Hefe untergärige Hefe zugesetzt werden;
 
-b)
+b) untergärige Hefe oder untergärige Kräusen dürfen niemals in den Anstell- oder Gärbottichen zugesetzt werden, sondern, wenn das Bier die Haupt- und Nachgärung in der Brauerei durchmacht, erst in den Gär- und Lagerfässern und auch hier erst, wenn keine Hefe mehr ausgestoßen wird und der auftretende zarte weiße Schaum erkennen läßt, daß die Hauptgärung und der erste Teil der Nachgärung - die sogenannte beschleunigte Nachgärung - beendet sind. Wenn das Bier in der Brauerei nur angegoren wird, darf der Zusatz erst im Abziehbottich oder in den Versandgefäßen stattfinden.
 
-(2)
+(2) (weggefallen)

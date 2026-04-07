@@ -18,8 +18,6 @@ Auf Grund des § 2 Absatz 4 des Aufbauhilfefonds-Errichtungsgesetzes 2021 vom 10
 
 (3) Die übrigen Mittel werden für Maßnahmen nach § 2 Absatz 2 des Aufbauhilfefonds-Errichtungsgesetzes 2021 auf die vom Starkregen und Hochwasser betroffenen Länder verteilt.
 
-(4) Die Verteilung der Mittel nach Absatz 3 zwischen den betroffenen Ländern erfolgt nach dem Schlüssel: Der Schlüssel nach Satz 1 ist im gegenseitigen Einvernehmen zwischen den betroffenen Ländern und dem Bund auf die prozentuale Verteilung der nach § 2 ermittelten Gesamtschäden anzupassen. Dazu wird spätestens am 30. Juni 2031 in einer Bund-Länder-Vereinbarung ein angepasster Verteilungsschlüssel festgelegt.
-
 (5) Die Verteilung der auf den Bund und die Länder entfallenden Mittel des Fonds auf die einzelnen Maßnahmen nach § 2 Absatz 2 des Aufbauhilfefonds-Errichtungsgesetzes 2021 erfolgt für die Mittel, welche 2021 zugeführt werden, nach Maßgabe des gemäß § 6 des Aufbauhilfefonds-Errichtungsgesetzes 2021 aufzustellenden Wirtschaftsplans. Der Wirtschaftsplan wird für das Jahr 2021 als Anlage zu dieser Rechtsverordnung festgestellt. Ab dem Haushaltsjahr 2022 wird er zusammen mit dem Haushaltsgesetz festgestellt und als Anlage zum Bundeshaushaltsplan veröffentlicht.
 
 ### § 2 — Ermittlung der Gesamtschäden
@@ -28,35 +26,33 @@ Auf Grund des § 2 Absatz 4 des Aufbauhilfefonds-Errichtungsgesetzes 2021 vom 10
 
 (2) Es werden bei der Ermittlung der Gesamtschäden nur Schäden berücksichtigt, die durch den Starkregen und das Hochwasser im Juli 2021 in den folgenden Regionen der betroffenen Länder entstanden sind und insbesondere dort, wo Soforthilfen geleistet wurden:
 
-1.
+1. Bayern: die Landkreise Ansbach, Berchtesgadener Land, Erlangen-Höchstadt, Forchheim, Fürth, Haßberge, Hof, Kitzingen, Miesbach, Neustadt an der Aisch-Bad Windsheim, Oberallgäu, Rosenheim, Roth, Schweinfurt, Traunstein und Würzburg sowie die kreisfreien Städte Ansbach und Hof,
 
-2.
+2. Nordrhein-Westfalen: die Regierungsbezirke Arnsberg, Düsseldorf, Köln und Münster,
 
-3.
+3. Rheinland-Pfalz: die Landkreise Ahrweiler, Bernkastel-Wittlich, Cochem-Zell, Eifelkreis Bitburg-Prüm, Mayen-Koblenz, Trier-Saarburg und Vulkaneifel sowie die kreisfreie Stadt Trier,
 
-4.
+4. Sachsen: die Landkreise Bautzen, Erzgebirgskreis, Görlitz, Mittelsachsen, Sächsische Schweiz Osterzgebirge und Vogtlandkreis.
 
 (3) Bei der Schadensermittlung werden Schäden durch Hochwasser und Starkregen sowie Schäden durch wild abfließendes Wasser, Sturzflut, aufsteigendes Grundwasser, überlaufende oder beschädigte Abwasseranlagen, Regenrückhaltebecken und Einrichtungen zur Wasserversorgung einschließlich Talsperren und Schäden durch Hangrutsch, soweit sie jeweils unmittelbar in Folge der Hochwasser- bzw. der Starkregenereignisse verursacht worden sind, berücksichtigt. Berücksichtigt werden auch unmittelbare Schäden durch Einsatzkräfte und Einsatzfahrzeuge sowie privat Helfende. Nicht berücksichtigt werden Schäden, die wegen des Verstoßes gegen Vorschriften zum Schutz vor Hochwassergefahren in festgesetzten oder vorläufig gesicherten Überschwemmungsgebieten eingetreten sind.
 
 (4) Schäden in folgenden Bereichen werden bei der Schadensermittlung berücksichtigt:
 
-1.
+1. Privathaushalte,
 
-2.
+2. gewerbliche und freiberufliche Wirtschaft,
 
-3.
+3. Land- und Forstwirtschaft sowie Aquakultur und Binnenfischerei,
 
-4.
+4. kulturelle und wissenschaftliche Einrichtungen unabhängig von ihrer Trägerschaft,
 
-5.
+5. andere Einrichtungen nach § 2 Absatz 2 Nummer 1 des Aufbauhilfefonds-Errichtungsgesetzes 2021, wie Vereine und Stiftungen,
 
-6.
+6. Infrastruktur der Gemeinden und Infrastruktur weiterer Körperschaften des öffentlichen Rechts,
 
-7.
+7. Infrastruktur der Länder,
 
-8.
-
-(5) Bei der Schadensermittlung wird auf die Beseitigungskosten nebst den Kosten für die Wiederherstellung oder Ersatzbeschaffung unter Einhaltung von baulichen und technischen Normen abgestellt. Die Ermittlung der Schäden bei Unternehmen im beihilferechtlichen Sinn richtet sich nach den Maßgaben von Artikel 50 der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014. In Abweichung zu Absatz 3 werden danach bei Unternehmen nur Schäden durch Erdrutsche und Überschwemmungen, soweit sie jeweils unmittelbar in Folge der Hochwasser- bzw. der Starkregenereignisse verursacht worden sind, berücksichtigt. Als Schäden von Unternehmen im beihilferechtlichen Sinn können auch Einkommenseinbußen im Sinne von Artikel 50 der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 anerkannt werden. Die Schadensermittlung im Agrarsektor richtet sich im beihilferechtlichen Sinn nach Artikel 30 der Verordnung (EU) Nr. 702/2014 der Kommission vom 25. Juni 2014. Die Schadensermittlung in der Aquakultur und Binnenfischerei richtet sich im beihilferechtlichen Sinn nach Artikel 44 der Verordnung (EU) Nr. 1388/2014 der Kommission vom 16. Dezember 2014. Die Sätze 3 und 4 gelten für die in den Sätzen 5 und 6 beschriebenen Bereiche des Absatzes 4 Nummer 3 entsprechend der jeweiligen Verordnungen.
+8. Religionsgemeinschaften, die als Körperschaften des öffentlichen Rechts anerkannt sind.
 
 (6) Bei der Schadensermittlung werden Kosten für Maßnahmen berücksichtigt, die unmittelbar vor oder während des Zeitraums nach Absatz 2 getroffen wurden, soweit sie unmittelbar der Abwehr von hochwasserbedingten Gefahren und der Begrenzung hochwasserbedingter Schäden gedient haben. Kosten der Beseitigung der Maßnahmen nach Satz 1 sind ebenfalls berücksichtigungsfähig.
 
@@ -72,13 +68,13 @@ Auf Grund des § 2 Absatz 4 des Aufbauhilfefonds-Errichtungsgesetzes 2021 vom 10
 
 (4) Die Mittel sind nach Maßgabe folgender Grundsätze zu gewähren:
 
-1.
+1. Aus den Mitteln des Fonds können für individuelle Schäden von Privathaushalten, Unternehmen, anderen Einrichtungen sowie der als Körperschaften des öffentlichen Rechts anerkannten Religionsgemeinschaften Leistungen bis zur Höhe von 80 Prozent des entstandenen Schadens unter Beachtung des § 2 Absatz 3 des Aufbauhilfefonds-Errichtungsgesetzes 2021 gewährt werden. Mittel für Maßnahmen zur Sicherung und Restaurierung von Archiven privater Vereine, Stiftungen und gemeinnütziger Einrichtungen sowie für die Heimatgeschichte bedeutsamen privaten Unterlagen werden nach Maßgabe des Wirtschaftsplans und der auf seiner Basis durchzuführenden Programme gewährt. Für denselben Schaden gewährte Soforthilfen sind anzurechnen. Die Auszahlung ist unter Rückforderungsvorbehalt insbesondere für den Fall zu stellen, dass Leistungen durch Dritte erbracht werden und hierdurch eine Überkompensation des Schadens bewirkt wird. Zur Vermeidung von Härtefällen können in begründeten Einzelfällen andere Regelungen getroffen werden.
 
-2.
+2. Mittel für Maßnahmen zur Wiederherstellung der Infrastruktur gemäß § 2 Absatz 2 Nummer 2 des Aufbauhilfefonds-Errichtungsgesetzes 2021, von privaten Infrastrukturbetreibern im Bereich der Energie- und Wasserwirtschaft, von privaten Betreibern von Telekommunikationsnetzen nach dem Telekommunikationsgesetz, von privaten Betreibern von Krankenhäusern und Pflegeeinrichtungen sowie von gemeinnützigen Trägern sozialer Infrastruktur werden nach Maßgabe des Wirtschaftsplans und der auf seiner Basis durchzuführenden Bundes- oder Landesprogramme unter Beachtung des § 2 Absatz 3 des Aufbauhilfefonds-Errichtungsgesetzes 2021 in Höhe von bis zu 100 Prozent gewährt.
 
-3.
+3. Schadensausgleichsansprüche gegenüber Dritten, insbesondere Versicherungen, können bei der Berechnung und Gewährung der Mittel des Fonds für Maßnahmen nach § 2 Absatz 2 Nummer 1 des Aufbauhilfefonds-Errichtungsgesetzes 2021 sowie zur Wiederherstellung von Gebäuden und Einrichtungen der als Körperschaften des öffentlichen Rechts anerkannten Religionsgemeinschaften vorerst außer Acht gelassen werden, soweit die Ansprüche trotz Erfolgsaussicht nach Einschätzung der bewilligenden Stelle nicht kurzfristig von den Geschädigten realisiert werden können. In diesen Fällen sind die Ansprüche nach pflichtgemäßem Ermessen der bewilligenden Stelle jedoch bis zur Höhe der bewilligten Mittel an diese abzutreten. Im weiteren Verfahren ist bei Konkretisierung der Sachlage über eine dann gegebenenfalls erforderliche Rückabtretung zu entscheiden.
 
-4.
+4. Der jeweilige Nachweis der Schadensangaben der Geschädigten kann durch die Glaubhaftmachung mittels geeigneter Belege und Versicherung der Richtigkeit der Angaben erbracht werden. Nachträgliche Überprüfungen und Anforderungen von Nachweisen, insbesondere bei Schäden von großem Umfang, sind dadurch nicht ausgeschlossen.
 
 ### § 4 — Zweckentsprechende Mittelverwendung, Prüfungen, Rückforderung
 

@@ -22,8 +22,6 @@ Für das Einleiten von Abwasser in ein Gewässer im Sinne von § 3 Nummer 1 bis 
 
 ### § 3 — Bewertungsgrundlage
 
-(1) Die Abwasserabgabe richtet sich nach der Schädlichkeit des Abwassers, die unter Zugrundelegung der oxidierbaren Stoffe, des Phosphors, des Stickstoffs, der organischen Halogenverbindungen, der Metalle Quecksilber, Cadmium, Chrom, Nickel, Blei, Kupfer und ihrer Verbindungen sowie der Giftigkeit des Abwassers gegenüber Fischeiern nach der Anlage zu diesem Gesetz in Schadeinheiten bestimmt wird. Eine Bewertung der Schädlichkeit entfällt außer bei Niederschlagswasser (§ 7) und Kleineinleitungen (§ 8), wenn die der Ermittlung der Zahl der Schadeinheiten zugrunde zu legende Schadstoffkonzentration oder Jahresmenge die in der Anlage angegebenen Schwellenwerte nicht überschreitet oder der Verdünnungsfaktor G(tief)EI nicht mehr als 2 beträgt.
-
 (2) In den Fällen des § 9 Abs. 3 (Flusskläranlagen) richtet sich die Abgabe nach der Zahl der Schadeinheiten im Gewässer unterhalb der Flusskläranlage.
 
 (3) Die Länder können bestimmen, dass die Schädlichkeit des Abwassers insoweit außer Ansatz bleibt, als sie in Nachklärteichen, die einer Abwasserbehandlungsanlage klärtechnisch unmittelbar zugeordnet sind, beseitigt wird.
@@ -79,13 +77,11 @@ Schmutzwasser
 
 (3) Wird das Wasser eines Gewässers in einer Flusskläranlage gereinigt, können die Länder bestimmen, dass an Stelle der Einleiter eines festzulegenden Einzugsbereichs der Betreiber der Flusskläranlage abgabepflichtig ist. Absatz 2 Satz 3 gilt entsprechend.
 
-(4) Die Abgabepflicht entsteht bis zum 31. Dezember 1980 nicht. Der Abgabesatz beträgt für jede Schadeinheit im Jahr.
+(5) Der Abgabesatz nach Absatz 4 ermäßigt sich außer bei Niederschlagswasser (§ 7) und bei Kleineinleitungen (§ 8) um 75 vom Hundert, vom Veranlagungsjahr 1999 an um die Hälfte für die Schadeinheiten, die nicht vermieden werden, obwohl
 
-(5) Der Abgabesatz nach Absatz 4 ermäßigt sich außer bei Niederschlagswasser (§ 7) und bei Kleineinleitungen (§ 8) um 75 vom Hundert, vom Veranlagungsjahr 1999 an um die Hälfte für die Schadeinheiten, die nicht vermieden werden, obwohl Satz 1 gilt entsprechend, wenn für die im Bescheid nach § 4 Absatz 1 festgesetzten oder die nach § 6 Absatz 1 Satz 1 erklärten Überwachungswerte in einer Rechtsverordnung nach Satz 1 Nummer 1 keine Anforderungen festgelegt sind.
+1. der Inhalt des Bescheides nach § 4 Absatz 1 oder die Erklärung nach § 6 Absatz 1 Satz 1 mindestens den in einer Rechtsverordnung nach § 7a des Wasserhaushaltsgesetzes in der am 28. Februar 2010 geltenden Fassung oder § 23 Absatz 1 Nummer 3 in Verbindung mit § 57 Absatz 2 des Wasserhaushaltsgesetzes festgelegten Anforderungen entspricht und
 
-1.
-
-2.
+2. die in einer Rechtsverordnung nach Nummer 1 festgelegten Anforderungen im Veranlagungszeitraum eingehalten werden.
 
 (6) Im Falle einer Erklärung nach § 4 Abs. 5 berechnet sich die Ermäßigung nach dem erklärten Wert, wenn der Bescheid im Anschluss an die Erklärung an den erklärten Wert angepasst wird und dieser die Voraussetzungen des Absatzes 5 erfüllt.
 
@@ -93,13 +89,13 @@ Schmutzwasser
 
 (1) Nicht abgabepflichtig ist das Einleiten von
 
-1.
+1. Schmutzwasser, das vor Gebrauch einem Gewässer entnommen worden ist und über die bei der Entnahme vorhandene Schädlichkeit im Sinne dieses Gesetzes hinaus keine weitere Schädlichkeit im Sinne dieses Gesetzes aufweist,
 
-2.
+2. Schmutzwasser in ein beim Abbau von mineralischen Rohstoffen entstandenes oberirdisches Gewässer, sofern das Wasser nur zum Waschen der dort gewonnenen Erzeugnisse gebraucht wird und keine anderen schädlichen Stoffe als die abgebauten enthält und soweit gewährleistet ist, dass keine schädlichen Stoffe in andere Gewässer gelangen,
 
-3.
+3. Schmutzwasser von Wasserfahrzeugen, das auf ihnen anfällt,
 
-4.
+4. Niederschlagswasser von bis zu drei Hektar großen befestigten gewerblichen Flächen und von Schienenwegen der Eisenbahnen, wenn es nicht über eine öffentliche Kanalisation vorgenommen wird.
 
 (2) Die Länder können bestimmen, dass das Einleiten von Abwasser in Untergrundschichten, in denen das Grundwasser wegen seiner natürlichen Beschaffenheit für eine Trinkwassergewinnung mit den herkömmlichen Aufbereitungsverfahren nicht geeignet ist, nicht abgabepflichtig ist.
 
@@ -136,19 +132,19 @@ Widerspruch und Anfechtungsklage gegen die Anforderung der Abgabe haben keine au
 
 (2) Maßnahmen nach Absatz 1 sind insbesondere:
 
-1.
+1. der Bau von Abwasserbehandlungsanlagen,
 
-2.
+2. der Bau von Regenrückhaltebecken und Anlagen zur Reinigung des Niederschlagswassers,
 
-3.
+3. der Bau von Ring- und Auffangkanälen an Talsperren, See- und Meeresufern sowie von Hauptverbindungssammlern, die die Errichtung von Gemeinschaftskläranlagen ermöglichen,
 
-4.
+4. der Bau von Anlagen zur Beseitigung des Klärschlamms,
 
-5.
+5. Maßnahmen im und am Gewässer zur Beobachtung und Verbesserung der Gewässergüte wie Niedrigwasseraufhöhung oder Sauerstoffanreicherung sowie zur Gewässerunterhaltung,
 
-6.
+6. Forschung und Entwicklung von Anlagen oder Verfahren zur Verbesserung der Gewässergüte,
 
-7.
+7. Ausbildung und Fortbildung des Betriebspersonals für Abwasserbehandlungsanlagen und andere Anlagen zur Erhaltung und Verbesserung der Gewässergüte.
 
 ## Fünfter Abschnitt: Gemeinsame Vorschriften; Schlussvorschriften
 
@@ -161,9 +157,9 @@ Für die Hinterziehung von Abwasserabgaben gelten die Strafvorschriften des § 3
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 11 Abs. 2 Satz 1 die Berechnungen oder Unterlagen nicht, nicht richtig oder nicht vollständig vorlegt,
 
-2.
+2. entgegen § 11 Abs. 2 Satz 2 dem Abgabepflichtigen die notwendigen Daten oder Unterlagen nicht, nicht richtig oder nicht vollständig überlässt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zweitausendfünfhundert Euro geahndet werden.
 
@@ -180,7 +176,5 @@ Für die Hinterziehung von Abwasserabgaben gelten die Strafvorschriften des § 3
 (Inkrafttreten)
 
 ### Anlage — (zu § 3)
-
-(1) Die Bewertungen der Schadstoffe und Schadstoffgruppen sowie die Schwellenwerte ergeben sich aus folgender Tabelle: G(tief)EI ist der Verdünnungsfaktor, bei dem Abwasser im Fischeitest nicht mehr giftig ist. Die Verfahren zur Bestimmung der Schädlichkeit des Abwassers entsprechen den Analyse- und Messverfahren nach den Nummern, die in Anlage 1 der Abwasserverordnung angegeben sind.
 
 (2) Wird Abwasser in Küstengewässer eingeleitet, bleibt die Giftigkeit gegenüber Fischeiern insoweit unberücksichtigt, als sie auf dem Gehalt an solchen Salzen beruht, die den Hauptbestandteilen des Meerwassers gleichen. Das Gleiche gilt für das Einleiten von Abwasser in Mündungsstrecken oberirdischer Gewässer in das Meer, die einen ähnlichen natürlichen Salzgehalt wie die Küstengewässer aufweisen.

@@ -14,13 +14,13 @@ Auf Grund des § 3 Absatz 3 in Verbindung mit Absatz 1 des Gemeindefinanzreformg
 
 (1) Für die Ermittlung der Schlüsselzahlen für die Aufteilung des Gemeindeanteils an der Einkommensteuer für die Jahre 2024, 2025 und 2026 ist die Bundesstatistik über die Lohn- und Einkommensteuer für das Jahr 2019 maßgebend.
 
-(2) Bei der Ermittlung der Schlüsselzahlen wird die Einkommensteuer nach § 51a des Einkommensteuergesetzes zugrunde gelegt. Sofern keine Angabe zur Einkommensteuer nach § 51a des Einkommensteuergesetzes vorliegt, wird die tarifliche Einkommensteuer nach § 32a Absatz 1 und 5 des Einkommensteuergesetzes verwendet. Bei nichtveranlagten steuerpflichtigen Personen ist die einbehaltene Lohnsteuer maßgebend.
+(2) Bei der Ermittlung der Schlüsselzahlen wird die Einkommensteuer nach § 51a des Einkommensteuergesetzes zugrunde gelegt. Sofern keine Angabe zur Einkommensteuer nach § 51a des Einkommensteuergesetzes vorliegt, wird die tarifliche Einkommensteuer nach § 32a Absatz 1 und 5 des Einkommensteuergesetzes verwendet. Bei nichtveranlagten steuerpflichtigen Personen ist die einbehaltene Lohnsteuer maßgebend.
 
 (3) Bei der Ermittlung der Schlüsselzahlen bleiben unberücksichtigt
 
-1.
+1. die personell veranlagten Einkommensteuerfälle und
 
-2.
+2. der Kinderfreibetrag bei nichtveranlagten Arbeitnehmern mit Lohnsteuerabzug.
 
 ### § 2 — Zurechnung der Steuerbeträge an die Gemeinden
 

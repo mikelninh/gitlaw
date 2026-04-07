@@ -14,17 +14,17 @@ Auf Grund des § 20 Absatz 6 des Wertpapierhandelsgesetzes, der durch Artikel 2 
 
 (1) Diese Verordnung regelt
 
-1.
+1. den Gegenstand und den Zeitpunkt der Prüfung von prüfpflichtigen nichtfinanziellen Gegenparteien nach § 32 Absatz 1 des Wertpapierhandelsgesetzes sowie
 
-2.
+2. die Art und den Umfang der Bescheinigung nach § 32 Absatz 3 des Wertpapierhandelsgesetzes.
 
 (2) Prüfpflichtige nichtfinanzielle Gegenparteien sind Kapitalgesellschaften und Gesellschaften im Sinne des § 264a Absatz 1 des Handelsgesetzbuchs, die jeweils
 
-1.
+1. nicht klein im Sinne des § 267 Absatz 1 des Handelsgesetzbuchs sind,
 
-2.
+2. nicht eine finanzielle Gegenpartei im Sinne des Artikels 2 Nummer 8 der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012 über OTC-Derivate, zentrale Gegenparteien und Transaktionsregister (ABl. L 201 vom 27.7.2012, S. 1), die zuletzt durch die Verordnung (EU) 2019/834 (ABl. L 141 vom 28.5.2019, S. 42) geändert worden ist, in der jeweils geltenden Fassung, sind und
 
-3.
+3. die Schwellen nach § 32 Absatz 1 des Wertpapierhandelsgesetzes überschritten haben.
 
 ### § 2 — Begriffsbestimmungen
 
@@ -36,21 +36,21 @@ Auf Grund des § 20 Absatz 6 des Wertpapierhandelsgesetzes, der durch Artikel 2 
 
 (1) Wenn die prüfpflichtige nichtfinanzielle Gegenpartei im prüfpflichtigen Zeitraum clearingpflichtig war oder geworden ist, hat der Prüfer zu prüfen, ob die prüfpflichtige nichtfinanzielle Gegenpartei Vorkehrungen getroffen hat oder über Systeme verfügt, die jeweils geeignet sind, die Einhaltung der Clearingpflicht nach Artikel 4 Absatz 1, 2 und 3 Unterabsatz 2 der Verordnung (EU) Nr. 648/2012 sicherzustellen. Wenn Derivatekontrakte, die von der prüfpflichtigen nichtfinanziellen Gegenpartei im prüfpflichtigen Zeitraum abgeschlossen wurden, nach Artikel 4 Absatz 2 der Verordnung (EU) Nr. 648/2012 nicht der Clearingpflicht unterliegen, hat der Prüfer zu prüfen, ob die prüfpflichtige nichtfinanzielle Gegenpartei Vorkehrungen getroffen hat oder über Systeme verfügt, die jeweils geeignet sind, die Einhaltung der Anforderungen nach Artikel 4 Absatz 2 der Verordnung (EU) Nr. 648/2012 sicherzustellen.
 
-(2) Der Prüfer hat zu prüfen, ob die prüfpflichtige nichtfinanzielle Gegenpartei Vorkehrungen getroffen hat oder über Systeme verfügt, die jeweils geeignet sind, die Einhaltung der Meldepflichten nach Artikel 9 Absatz 1 bis 3 der Verordnung (EU) Nr. 648/2012 in Verbindung mit sicherzustellen.
+(2) Der Prüfer hat zu prüfen, ob die prüfpflichtige nichtfinanzielle Gegenpartei Vorkehrungen getroffen hat oder über Systeme verfügt, die jeweils geeignet sind, die Einhaltung der Meldepflichten nach Artikel 9 Absatz 1 bis 3 der Verordnung (EU) Nr. 648/2012 in Verbindung mit
 
-1.
+1. der Durchführungsverordnung (EU) Nr. 1247/2012 der Kommission vom 19. Dezember 2012 zur Festlegung technischer Durchführungsstandards im Hinblick auf das Format und die Häufigkeit von Transaktionsmeldungen an Transaktionsregister gemäß der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates über OTC-Derivate, zentrale Gegenparteien und Transaktionsregister (ABl. L 352 vom 21.12.2012, S. 20) sowie
 
-2.
+2. der Delegierten Verordnung (EU) Nr. 148/2013 der Kommission vom 19. Dezember 2012 zur Ergänzung der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates über OTC-Derivate, zentrale Gegenparteien und Transaktionsregister bezüglich technischer Regulierungsstandards für die Mindestangaben der Meldungen an Transaktionsregister (ABl. L 52 vom 23.2.2013, S. 1)
 
 (3) Der Prüfer hat zu prüfen, ob die prüfpflichtige nichtfinanzielle Gegenpartei Vorkehrungen getroffen hat oder über Systeme verfügt, die jeweils geeignet sind,
 
-1.
+1. die Einhaltung der Unterrichtungspflicht gegenüber der Europäischen Wertpapiermarktaufsichtsbehörde nach Artikel 10 Absatz 1 Unterabsatz 2 Buchstabe a der Verordnung (EU) Nr. 648/2012 sicherzustellen,
 
-2.
+2. die Einhaltung der Unterrichtungspflicht gegenüber der Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) nach Artikel 10 Absatz 1 Unterabsatz 2 Buchstabe a der Verordnung (EU) Nr. 648/2012, auch in Verbindung mit einer auf Grund des § 31 Satz 1 des Wertpapierhandelsgesetzes erlassenen Rechtsverordnung, sicherzustellen,
 
-3.
+3. die Einhaltung der Nachweispflicht gegenüber der Bundesanstalt nach Artikel 10 Absatz 2 Unterabsatz 1 der Verordnung (EU) Nr. 648/2012, auch in Verbindung mit einer auf Grund des § 31 Satz 1 des Wertpapierhandelsgesetzes erlassenen Rechtsverordnung, sicherzustellen,
 
-4.
+4. die individuell zu berechnenden Positionen in OTC-Derivatekontrakten nach Artikel 10 der Verordnung (EU) Nr. 648/2012 in Verbindung mit Artikel 10 der Delegierten Verordnung (EU) Nr. 149/2013 der Kommission vom 19. Dezember 2012 zur Ergänzung der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates im Hinblick auf technische Regulierungsstandards für indirekte Clearingvereinbarungen, die Clearingpflicht, das öffentliche Register, den Zugang zu einem Handelsplatz, nichtfinanzielle Gegenparteien und Risikominderungstechniken für nicht durch eine CCP geclearte OTC-Derivatekontrakte (ABl. L 52 vom 23.2.2013, S. 11) zu bestimmen.
 
 (4) Wenn die prüfpflichtige nichtfinanzielle Gegenpartei im prüfpflichtigen Zeitraum clearingpflichtig war oder geworden ist, hat der Prüfer zu prüfen, ob geeignete Risikomanagementverfahren nach Artikel 11 Absatz 3 Satz 2 der Verordnung (EU) Nr. 648/2012 in Verbindung mit dem auf Grund des Artikels 11 Absatz 15 Unterabsatz 1 Buchstabe a und Unterabsatz 3 der Verordnung (EU) Nr. 648/2012 erlassenen technischen Regulierungsstandard vorliegen. Wenn die Besicherung gruppeninterner Geschäfte nicht erforderlich ist, weil entweder der Ausnahmetatbestand nach Artikel 11 Absatz 5 der Verordnung (EU) Nr. 648/2012 vorliegt oder weil ein oder mehrere Befreiungstatbestände nach Artikel 11 Absatz 6 bis 10 der Verordnung (EU) Nr. 648/2012 in Verbindung mit dem nach Artikel 11 Absatz 15 Unterabsatz 1 Buchstabe c und d sowie Unterabsatz 3 der Verordnung (EU) Nr. 648/2012 erlassenen technischen Regulierungsstandard vorliegen, hat der Prüfer zu prüfen, ob die prüfpflichtige nichtfinanzielle Gegenpartei Vorkehrungen getroffen hat oder über Systeme verfügt, die jeweils geeignet sind, die Erfüllung der Voraussetzungen der Ausnahme- und Befreiungstatbestände sowie die daraus folgenden Veröffentlichungspflichten nach Artikel 11 Absatz 11 der Verordnung (EU) Nr. 648/2012 in Verbindung mit Artikel 20 der Delegierten Verordnung (EU) Nr. 149/2013 sicherzustellen.
 
@@ -96,9 +96,9 @@ Der Prüfer unterrichtet die Bundesanstalt unverzüglich, wenn sich die prüfpfl
 
 (1) Der Prüfer hat in seiner Bescheinigung auf die in § 3 genannten Prüfungsbereiche einzugehen und darzustellen, inwieweit die Vorkehrungen oder Systeme zur Einhaltung der gesetzlichen Vorgaben geeignet sind. Festgestellte Mängel sind ausführlich darzustellen. Darüber hinaus hat die Bescheinigung Folgendes zu enthalten:
 
-1.
+1. die Angabe des prüfpflichtigen Zeitraums und des Prüfungszeitraums,
 
-2.
+2. die Art und Weise, wie die Stichproben und deren Anzahl ermittelt wurden, sowie das Ergebnis der Stichproben.
 
 (2) Vorgänge von besonderer Bedeutung, die im Zeitraum zwischen dem Ende des prüfpflichtigen Zeitraums und dem Ende des Prüfungszeitraums eingetreten und dem Prüfer im Rahmen der Prüfung bekannt geworden sind, hat der Prüfer in der Bescheinigung darzustellen.
 

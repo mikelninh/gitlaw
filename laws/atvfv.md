@@ -17,17 +17,17 @@ Für die in § 7 Abs. 1 und 5 des Atomgesetzes genannten Anlagen ist das Verfahr
 
 ### § 1a — Gegenstand der Umweltverträglichkeitsprüfung
 
-Die Umweltverträglichkeitsprüfung umfasst die Ermittlung, Beschreibung und Bewertung der für die Prüfung der Zulassungsvoraussetzungen bedeutsamen Auswirkungen eines UVP-pflichtigen Vorhabens auf § 2 Absatz 2 des Gesetzes über die Umweltverträglichkeitsprüfung bleibt unberührt.
+Die Umweltverträglichkeitsprüfung umfasst die Ermittlung, Beschreibung und Bewertung der für die Prüfung der Zulassungsvoraussetzungen bedeutsamen Auswirkungen eines UVP-pflichtigen Vorhabens auf
 
-1.
+1. Menschen, insbesondere die menschliche Gesundheit,
 
-2.
+2. Tiere, Pflanzen und die biologische Vielfalt,
 
-3.
+3. Fläche, Boden, Wasser, Luft, Klima und Landschaft,
 
-4.
+4. kulturelles Erbe und sonstige Sachgüter sowie
 
-5.
+5. die Wechselwirkungen zwischen den in den Nummern 1 bis 4 genannten Schutzgütern.
 
 ### § 1b — Unterrichtung über voraussichtlich beizubringende Unterlagen
 
@@ -47,51 +47,33 @@ Die Umweltverträglichkeitsprüfung umfasst die Ermittlung, Beschreibung und Bew
 
 (2) Der Antrag muß enthalten
 
-1.
+1. die Angabe des Namens und des Wohnsitzes oder des Sitzes des Antragstellers,
 
-2.
+2. die Angabe, ob eine Genehmigung oder ein Vorbescheid beantragt wird,
 
-3.
+3. die Angabe des Standortes und Angaben über Art und Umfang der Anlage.
 
 ### § 3 — Art und Umfang der Unterlagen
 
 (1) Dem Antrag sind die Unterlagen beizufügen, die zur Prüfung der Zulassungsvoraussetzungen erforderlich sind, insbesondere
 
-1.
+1. ein Sicherheitsbericht, der im Hinblick auf die kerntechnische Sicherheit und den Strahlenschutz die für die Entscheidung über den Antrag erheblichen Auswirkungen des Vorhabens darlegt und Dritten insbesondere die Beurteilung ermöglicht, ob sie durch die mit der Anlage und ihrem Betrieb verbundenen Auswirkungen in ihren Rechten verletzt werden können. Hierzu muß der Sicherheitsbericht, soweit dies für die Beurteilung der Zulässigkeit des Vorhabens erforderlich ist, enthalten:a)eine Beschreibung der Anlage und ihres Betriebes unter Beifügung von Lageplänen und Übersichtszeichnungen;b)eine Darstellung und Erläuterung der Konzeption (grundlegende Auslegungsmerkmale), der sicherheitstechnischen Auslegungsgrundsätze und der Funktion der Anlage einschließlich ihrer Betriebs- und Sicherheitssysteme;c)eine Darlegung der zur Erfüllung des § 7 Abs. 2 Nr. 3 und § 7 Abs. 2a des Atomgesetzes vorgesehenen Vorsorgemaßnahmen, einschließlich einer Erläuterung der zum Ausschluß oder zur Begrenzung von Auswirkungen auslegungsüberschreitender Ereignisabläufe vorgesehenen Maßnahmen und deren Aufgaben;d)eine Beschreibung der Umwelt und ihrer Bestandteile;e)Angaben über die mit der Anlage und ihrem Betrieb verbundene Direktstrahlung und Abgabe radioaktiver Stoffe, einschließlich der Freisetzungen aus der Anlage bei Störfällen im Sinne des § 104 der Strahlenschutzverordnung (Auslegungsstörfälle);f)eine Beschreibung der Auswirkungen der unter Buchstabe e dargestellten Direktstrahlung und Abgabe radioaktiver Stoffe auf die in § 1a dargelegten Schutzgüter, einschließlich der Wechselwirkungen mit sonstigen Stoffen; eine Beschreibung der Anlage und ihres Betriebes unter Beifügung von Lageplänen und Übersichtszeichnungen; eine Darstellung und Erläuterung der Konzeption (grundlegende Auslegungsmerkmale), der sicherheitstechnischen Auslegungsgrundsätze und der Funktion der Anlage einschließlich ihrer Betriebs- und Sicherheitssysteme; eine Darlegung der zur Erfüllung des § 7 Abs. 2 Nr. 3 und § 7 Abs. 2a des Atomgesetzes vorgesehenen Vorsorgemaßnahmen, einschließlich einer Erläuterung der zum Ausschluß oder zur Begrenzung von Auswirkungen auslegungsüberschreitender Ereignisabläufe vorgesehenen Maßnahmen und deren Aufgaben; eine Beschreibung der Umwelt und ihrer Bestandteile; Angaben über die mit der Anlage und ihrem Betrieb verbundene Direktstrahlung und Abgabe radioaktiver Stoffe, einschließlich der Freisetzungen aus der Anlage bei Störfällen im Sinne des § 104 der Strahlenschutzverordnung (Auslegungsstörfälle); eine Beschreibung der Auswirkungen der unter Buchstabe e dargestellten Direktstrahlung und Abgabe radioaktiver Stoffe auf die in § 1a dargelegten Schutzgüter, einschließlich der Wechselwirkungen mit sonstigen Stoffen;
 
-a)
+2. ergänzende Pläne, Zeichnungen und Beschreibungen der Anlage und ihrer Teile;
 
-b)
+3. Angaben über Maßnahmen, die zum Schutz der Anlage und ihres Betriebs gegen Störmaßnahmen und sonstige Einwirkungen Dritter nach § 7 Abs. 2 Nr. 5 des Atomgesetzes vorgesehen sind;
 
-c)
+4. Angaben, die es ermöglichen, die Zuverlässigkeit und Fachkunde der für die Errichtung der Anlage und für die Leitung und Beaufsichtigung ihres Betriebes verantwortlichen Personen zu prüfen;
 
-d)
+5. Angaben, die es ermöglichen, die Gewährleistung der nach § 7 Abs. 2 Nr. 2 des Atomgesetzes notwendigen Kenntnisse der bei dem Betrieb der Anlage sonst tätigen Personen festzustellen;
 
-e)
+6. eine Aufstellung, die alle für die Sicherheit der Anlage und ihres Betriebes bedeutsamen Angaben, die für die Beherrschung von Stör- und Schadensfällen vorgesehenen Maßnahmen sowie einen Rahmenplan für die vorgesehenen Prüfungen an sicherheitstechnisch bedeutsamen Teilen der Anlage (Sicherheitsspezifikationen) enthält;
 
-f)
+7. Vorschläge über die Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen;
 
-2.
+8. eine Beschreibung der anfallenden radioaktiven Reststoffe sowie Angaben über vorgesehene Maßnahmena)zur Vermeidung des Anfalls von radioaktiven Reststoffen;b)zur schadlosen Verwertung anfallender radioaktiver Reststoffe und ausgebauter oder abgebauter radioaktiver Anlagenteile entsprechend den in § 1 Nr. 2 bis 4 des Atomgesetzes bezeichneten Zwecken;c)zur geordneten Beseitigung radioaktiver Reststoffe oder abgebauter radioaktiver Anlagenteile als radioaktive Abfälle, einschließlich ihrer vorgesehenen Behandlung, sowie zum voraussichtlichen Verbleib radioaktiver Abfälle bis zur Endlagerung; zur Vermeidung des Anfalls von radioaktiven Reststoffen; zur schadlosen Verwertung anfallender radioaktiver Reststoffe und ausgebauter oder abgebauter radioaktiver Anlagenteile entsprechend den in § 1 Nr. 2 bis 4 des Atomgesetzes bezeichneten Zwecken; zur geordneten Beseitigung radioaktiver Reststoffe oder abgebauter radioaktiver Anlagenteile als radioaktive Abfälle, einschließlich ihrer vorgesehenen Behandlung, sowie zum voraussichtlichen Verbleib radioaktiver Abfälle bis zur Endlagerung;
 
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-a)
-
-b)
-
-c)
-
-9.
+9. Angaben über sonstige Umweltauswirkungen des Vorhabens, die zur Prüfung nach § 7 Abs. 2 Nr. 6 des Atomgesetzes für die im Einzelfall in der Genehmigungsentscheidung eingeschlossenen Zulassungsentscheidungen oder für von der Genehmigungsbehörde zu treffende Entscheidungen nach Vorschriften über Naturschutz und Landschaftspflege erforderlich sind; die Anforderungen an den Inhalt der Angaben bestimmen sich nach den für die genannten Entscheidungen jeweils maßgeblichen Rechtsvorschriften.
 
 (2) Bei UVP-pflichtigen Vorhaben hat der Antragsteller dem Antrag einen UVP-Bericht beizufügen, der die Angaben enthält, die nach § 16 des Gesetzes über die Umweltverträglichkeitsprüfung erforderlich sind.
 
@@ -107,17 +89,17 @@ c)
 
 (1) Sind die zur Auslegung (§ 6) erforderlichen Unterlagen vollständig, so hat die Genehmigungsbehörde das Vorhaben in ihrem amtlichen Veröffentlichungsblatt und außerdem in örtlichen Tageszeitungen, die im Bereich des Standortes der Anlage verbreitet sind, öffentlich bekanntzumachen. Eine zusätzliche Bekanntmachung und Auslegung ist, auch in den Fällen der §§ 18 und 19, nur nach Maßgabe der Absätze 2 und 3 erforderlich. Auf die Bekanntmachung ist im Bundesanzeiger hinzuweisen.
 
-(2) Wird das Vorhaben während des Genehmigungsverfahrens wesentlich geändert, so darf die Genehmigungsbehörde von einer zusätzlichen Bekanntmachung und Auslegung absehen, wenn im Sicherheitsbericht keine zusätzlichen oder anderen Umstände darzulegen wären, die nachteilige Auswirkungen für Dritte besorgen lassen. Dies ist insbesondere dann der Fall, wenn erkennbar ist, daß nachteilige Auswirkungen für Dritte durch die zur Vorsorge gegen Schäden getroffenen oder vom Träger des Vorhabens vorgesehenen Maßnahmen ausgeschlossen werden oder die sicherheitstechnischen Nachteile der Änderung im Verhältnis zu den sicherheitstechnischen Vorteilen gering sind. Eine zusätzliche Bekanntmachung und Auslegung (§ 6) ist erforderlich bei Ist eine zusätzliche Bekanntmachung und Auslegung erforderlich, werden die Einwendungsmöglichkeit und die Erörterung auf die vorgesehenen Änderungen beschränkt; hierauf ist in der Bekanntmachung hinzuweisen.
+(2) Wird das Vorhaben während des Genehmigungsverfahrens wesentlich geändert, so darf die Genehmigungsbehörde von einer zusätzlichen Bekanntmachung und Auslegung absehen, wenn im Sicherheitsbericht keine zusätzlichen oder anderen Umstände darzulegen wären, die nachteilige Auswirkungen für Dritte besorgen lassen. Dies ist insbesondere dann der Fall, wenn erkennbar ist, daß nachteilige Auswirkungen für Dritte durch die zur Vorsorge gegen Schäden getroffenen oder vom Träger des Vorhabens vorgesehenen Maßnahmen ausgeschlossen werden oder die sicherheitstechnischen Nachteile der Änderung im Verhältnis zu den sicherheitstechnischen Vorteilen gering sind. Eine zusätzliche Bekanntmachung und Auslegung (§ 6) ist erforderlich bei
 
-1.
+1. Änderungen, die eine Erhöhung der für den bestimmungsgemäßen Betrieb je Jahr vorgesehenen Aktivitätsabgaben und eine Erhöhung der Immissionen um mehr als 5 vom Hundert auf mehr als 75 vom Hundert der Dosisgrenzwerte des § 99 Absatz 1 der Strahlenschutzverordnung zur Folge haben können,
 
-2.
+2. Änderung der Konzeption der Anlage oder der räumlichen Anordnung von Bauwerken, sofern die Änderungen im Rahmen der Beherrschung von Auslegungsstörfällen zu einer sicherheitstechnisch bedeutsamen Erhöhung der ursprünglich angenommenen Beanspruchung von Anlageteilen führen können; bei der Beurteilung der sicherheitstechnischen Bedeutung ist Satz 2 entsprechend anzuwenden,
 
-3.
+3. Änderungen an Sicherheitssystemen, die besorgen lassen, daß die Zuverlässigkeit der von ihnen zu erfüllenden Sicherheitsfunktionen bei der Beherrschung von Auslegungsstörfällen nicht unwesentlich gemindert wird,
 
-4.
+4. Erhöhung der thermischen Leistung oder des maximalen Spaltproduktinventars um mehr als 10 vom Hundert der sich aus dem vorgesehenen Vollastbetrieb ergebenden Werte oder
 
-5.
+5. Erhöhung der vorgesehenen Lagerkapazität für bestrahlte Brennelemente um mehr als 10 vom Hundert.
 
 (3) Wird das Vorhaben während eines Genehmigungsverfahrens, in dem eine Prüfung nach § 1a durchzuführen ist, geändert, ist ein Absehen von einer zusätzlichen Bekanntmachung und Auslegung nur zulässig, wenn bei der Änderung keine zusätzlichen oder anderen erheblichen Auswirkungen auf in § 1a genannte Schutzgüter zu besorgen sind. Absatz 2 Satz 4 gilt entsprechend.
 
@@ -131,15 +113,15 @@ c)
 
 (1) Die Bekanntmachung muß die in § 2 Abs. 2 vorgeschriebenen Angaben enthalten. Im übrigen ist
 
-1.
+1. darauf hinzuweisen, wo und wann der Antrag und die in § 6 Abs. 1 und 2 bezeichneten Unterlagen zur Einsicht ausgelegt sind; der erste und der letzte Tag der Auslegungsfrist sind anzugeben,
 
-2.
+2. dazu aufzufordern, etwaige Einwendungen bei einer in der Bekanntmachung zu bezeichnenden Stelle innerhalb der Auslegungsfrist (§ 6 Abs. 1) vorzubringen; dabei ist auf die Rechtsfolgen nach § 7 Abs. 1 Satz 2 hinzuweisen,
 
-3.
+3. ein Erörterungstermin zu bestimmen oder darauf hinzuweisen, daß ein Erörterungstermin stattfinden und der Termin in der gleichen Weise wie das Vorhaben bekanntgemacht werden wird,
 
-4.
+4. darauf hinzuweisen, daß die Einwendungen in dem Termin auch bei Ausbleiben des Antragstellers oder von Personen, die Einwendungen erhoben haben, erörtert werden,
 
-5.
+5. darauf hinzuweisen, daß die Zustellung der Entscheidung über die Einwendungen durch die öffentliche Bekanntmachung (§ 15 Abs. 3 Satz 2) ersetzt wird, wenn außer an den Antragsteller mehr als 300 Zustellungen vorzunehmen sind.
 
 (2) Zwischen der Bekanntmachung des Vorhabens und dem Beginn der Auslegungsfrist soll eine Woche liegen; maßgebend ist dabei der voraussichtliche Tag der Ausgabe des Veröffentlichungsblattes oder der Tageszeitung, die zuletzt erscheint.
 
@@ -147,27 +129,27 @@ c)
 
 (4) Betrifft der Antrag ein UVP-pflichtiges Vorhaben, muss die Bekanntmachung zusätzlich folgende Angaben enthalten:
 
-1.
+1. einen Hinweis auf die UVP-Pflicht des Vorhabens,
 
-2.
+2. die Art einer möglichen Entscheidung zum Abschluss des Genehmigungsverfahrens,
 
-3.
+3. erforderlichenfalls einen Hinweis auf die Durchführung einer grenzüberschreitenden Beteiligung nach § 7a,
 
-4.
+4. die Angabe, dass ein UVP-Bericht nach § 3 Absatz 2 vorgelegt wurde,
 
-5.
+5. die Bezeichnung der entscheidungserheblichen Berichte und Empfehlungen betreffend das Vorhaben, die der Genehmigungsbehörde zum Zeitpunkt des Beginns des Beteiligungsverfahrens vorliegen,
 
-6.
+6. die Behörde, bei der weitere Informationen über das Vorhaben erhältlich sein werden und der Fragen übermittelt werden können.
 
 ### § 6 — Auslegung von Antrag und Unterlagen
 
 (1) Während einer Frist von zwei Monaten sind bei der Genehmigungsbehörde und einer geeigneten Stelle in der Nähe des Standorts des Vorhabens zur Einsicht während der Dienststunden auszulegen
 
-1.
+1. der Antrag,
 
-2.
+2. der Sicherheitsbericht nach § 3 Abs. 1 Nr. 1,
 
-3.
+3. die Kurzbeschreibung nach § 3 Abs. 4.
 
 (2) Betrifft der Antrag ein UVP-pflichtiges Vorhaben, sind zusätzlich der UVP-Bericht nach § 3 Absatz 2 sowie die entscheidungserheblichen Berichte und Empfehlungen betreffend das Vorhaben, die der Genehmigungsbehörde zum Zeitpunkt des Beginns des Beteiligungsverfahrens vorgelegen haben, auszulegen. Weitere Informationen, die für die Entscheidung über die Zulässigkeit des Vorhabens von Bedeutung sein können und die der zuständigen Behörde erst nach Beginn des Beteiligungsverfahrens vorliegen, sind der Öffentlichkeit nach den Bestimmungen des Bundes und der Länder über den Zugang zu Umweltinformationen zugänglich zu machen.
 
@@ -211,11 +193,11 @@ Einwendungen, die auf besonderen privatrechtlichen Titeln beruhen, sind im Erör
 
 (1) Ein Erörterungstermin findet nicht statt, wenn
 
-1.
+1. Einwendungen gegen das Vorhaben nicht oder nicht rechtzeitig erhoben worden sind,
 
-2.
+2. die rechtzeitig erhobenen Einwendungen zurückgenommen worden sind oder
 
-3.
+3. ausschließlich Einwendungen erhoben worden sind, die auf besonderen privatrechtlichen Titeln beruhen.
 
 (2) Der Antragsteller ist vom Wegfall des Termins zu unterrichten.
 
@@ -239,15 +221,15 @@ Einwendungen, die auf besonderen privatrechtlichen Titeln beruhen, sind im Erör
 
 ### § 13 — Niederschrift
 
-(1) Über den Erörterungstermin ist eine Niederschrift zu fertigen. Die Niederschrift muß Angaben enthalten über Die Niederschrift ist von dem Verhandlungsleiter und, soweit ein Schriftführer hinzugezogen worden ist, auch von diesem zu unterzeichnen. Der Aufnahme in die Verhandlungsniederschrift steht die Aufnahme in eine Schrift gleich, die ihr als Anlage beigefügt und als solche bezeichnet ist; auf die Anlage ist in der Verhandlungsniederschrift hinzuweisen. Die Genehmigungsbehörde kann den Erörterungstermin zum Zwecke der Anfertigung der Niederschrift auf Tonträger aufzeichnen. Die Tonaufzeichnungen sind nach Eintritt der Unanfechtbarkeit der Entscheidung über den Genehmigungsantrag zu löschen; liegen im Falle eines Vorbescheidsverfahrens die Voraussetzungen des § 7a Abs. 1 Satz 2 des Atomgesetzes vor, hat die Löschung nach Eintritt der Unwirksamkeit zu erfolgen.
+(1) Über den Erörterungstermin ist eine Niederschrift zu fertigen. Die Niederschrift muß Angaben enthalten über
 
-1.
+1. den Ort und den Tag der Erörterung,
 
-2.
+2. den Namen des Verhandlungsleiters,
 
-3.
+3. den Gegenstand des Genehmigungsverfahrens,
 
-4.
+4. den Verlauf und die Ergebnisse des Erörterungstermins.
 
 (2) Dem Antragsteller ist eine Abschrift der Niederschrift zu überlassen. Auf Anforderung ist auch demjenigen, der rechtzeitig Einwendungen erhoben hat, eine Abschrift zu überlassen.
 
@@ -259,13 +241,13 @@ Die Prüfung durch die Genehmigungsbehörde erstreckt sich außer auf die Genehm
 
 ### § 14a — Zusammenfassende Darstellung, begründete Bewertung
 
-(1) Bei UVP-pflichtigen Vorhaben erarbeitet die zuständige Behörde eine zusammenfassende Darstellung Die Erarbeitung erfolgt auf der Grundlage des UVP-Berichts nach § 3 Absatz 2, der behördlichen Stellungnahmen nach § 7 Absatz 4 Satz 1 des Atomgesetzes sowie der Äußerungen und Einwendungen Dritter. Die Ergebnisse eigener Ermittlungen sind einzubeziehen. Bedarf das Vorhaben der Zulassung durch mehrere Behörden, gilt § 1b Absatz 5.
+(1) Bei UVP-pflichtigen Vorhaben erarbeitet die zuständige Behörde eine zusammenfassende Darstellung
 
-1.
+1. der für die Entscheidung über die Genehmigung des Vorhabens bedeutsamen Auswirkungen des Vorhabens auf die in § 1a genannten Schutzgüter einschließlich der Wechselwirkungen,
 
-2.
+2. der Merkmale des Vorhabens und des Standorts, mit denen erhebliche nachteilige Umweltauswirkungen ausgeschlossen, vermindert oder ausgeglichen werden sollen sowie
 
-3.
+3. der Maßnahmen, mit denen erhebliche nachteilige Umweltauswirkungen ausgeschlossen, vermindert oder ausgeglichen werden sollen, sowie der Ersatzmaßnahmen bei Eingriffen in Natur und Landschaft.
 
 (2) Die Genehmigungsbehörde bewertet die Auswirkungen des Vorhabens auf in § 1a genannte Schutzgüter auf der Grundlage der zusammenfassenden Darstellung nach den für ihre Entscheidung maßgeblichen Rechts- und Verwaltungsvorschriften im Hinblick auf eine wirksame Umweltvorsorge. Die Bewertung ist zu begründen. Bedarf das Vorhaben der Zulassung durch mehrere Behörden, wirkt die Genehmigungsbehörde an der Gesamtbewertung durch alle Zulassungsbehörden nach § 31 Absatz 4 des Gesetzes über die Umweltverträglichkeitsprüfung mit. Ist die atomrechtliche Genehmigungsbehörde federführende Behörde, so hat sie das Zusammenwirken aller Zulassungsbehörden sicherzustellen. Die Genehmigungsbehörde hat die vorgenommene Bewertung oder Gesamtbewertung bei der Entscheidung über den Antrag nach Maßgabe der hierfür geltenden Rechtsvorschriften zu berücksichtigen. Bei der Entscheidung über die Genehmigung des UVP-pflichtigen Vorhabens müssen die zusammenfassende Darstellung und die begründete Bewertung nach Einschätzung der Genehmigungsbehörde noch hinreichend aktuell sein.
 
@@ -283,35 +265,27 @@ Die Prüfung durch die Genehmigungsbehörde erstreckt sich außer auf die Genehm
 
 (1) Der Genehmigungsbescheid muß enthalten
 
-1.
+1. die Angabe des Namens und des Wohnsitzes oder des Sitzes des Antragstellers,
 
-2.
+2. die Angabe, daß eine Genehmigung oder eine Teilgenehmigung erteilt wird, und die Angabe der Rechtsgrundlage,
 
-3.
+3. die genaue Bezeichnung des Gegenstandes der Genehmigung einschließlich des Standortes der Anlage,
 
-4.
+4. die Nebenbestimmungen zur Genehmigung,
 
-5.
+5. die Begründung, aus der die wesentlichen tatsächlichen und rechtlichen Gründe, die die Behörde auch im Hinblick auf die Beachtung von § 4 zu ihrer Entscheidung bewogen haben, und die Behandlung der Einwendungen hervorgehen sollen; die Begründung enthält auch eine Beschreibung der wichtigsten Maßnahmen, mit denen erhebliche nachteilige Auswirkungen vermieden oder vermindert werden.
 
 (2) Der Genehmigungsbescheid soll enthalten
 
-1.
+1. den Hinweis, daß der Genehmigungsbescheid unbeschadet der Entscheidungen anderer Behörden ergeht, die für das Gesamtvorhaben auf Grund anderer öffentlich-rechtlicher Vorschriften erforderlich sind, und
 
-2.
+2. die Rechtsbehelfsbelehrung.
 
-(3) Bei UVP-pflichtigen Vorhaben muss der Bescheid über die Angaben nach Absatz 1 und 2 hinaus zumindest folgende Angaben enthalten: Wird das Vorhaben nicht zugelassen, so müssen im Bescheid die dafür wesentlichen Gründe erläutert werden.
+(3) Bei UVP-pflichtigen Vorhaben muss der Bescheid über die Angaben nach Absatz 1 und 2 hinaus zumindest folgende Angaben enthalten:
 
-1.
+1. eine Beschreibung der vorgesehenen umweltbezogenen Überwachungsmaßnahmen,
 
-2.
-
-a)
-
-b)
-
-c)
-
-d)
+2. eine Begründung, aus der die wesentlichen tatsächlichen und rechtlichen Gründe hervorgehen, die die Behörde zu ihrer Entscheidung bewogen haben; hierzu gehören: a)Angaben über das Verfahren zur Beteiligung der Öffentlichkeit,b)die zusammenfassende Darstellung nach § 14a Absatz 1,c)die begründete Bewertung nach § 14a Absatz 2,d)eine Erläuterung, auf welche Art und Weise die begründete Bewertung, insbesondere die Angaben des UVP-Berichts nach § 3 Absatz 2, die behördlichen Stellungnahmen nach § 7 Absatz 4 Satz 1 des Atomgesetzes und die behördlichen Stellungnahmen nach § 7a sowie die Einwendungen der Öffentlichkeit nach den §§ 7 und 7a in der Entscheidung berücksichtigt wurden oder auf welche Art und Weise ihnen anderweitig Rechnung getragen wurde. Angaben über das Verfahren zur Beteiligung der Öffentlichkeit, die zusammenfassende Darstellung nach § 14a Absatz 1, die begründete Bewertung nach § 14a Absatz 2, eine Erläuterung, auf welche Art und Weise die begründete Bewertung, insbesondere die Angaben des UVP-Berichts nach § 3 Absatz 2, die behördlichen Stellungnahmen nach § 7 Absatz 4 Satz 1 des Atomgesetzes und die behördlichen Stellungnahmen nach § 7a sowie die Einwendungen der Öffentlichkeit nach den §§ 7 und 7a in der Entscheidung berücksichtigt wurden oder auf welche Art und Weise ihnen anderweitig Rechnung getragen wurde.
 
 ### § 17 — Zustellung durch öffentliche Bekanntmachung und Auslegung des Bescheids
 
@@ -339,25 +313,25 @@ d)
 
 (3) Der Vorbescheid muß enthalten
 
-1.
+1. die Angabe des Namens und des Wohnsitzes oder Sitzes des Antragstellers,
 
-2.
+2. die Angabe, daß ein Vorbescheid erteilt wird, und die Angabe der Rechtsgrundlage,
 
-3.
+3. die genaue Bezeichnung des Gegenstandes des Vorbescheides,
 
-4.
+4. die Voraussetzungen und Vorbehalte, unter denen der Vorbescheid erteilt wird,
 
-5.
+5. die Begründung, aus der die wesentlichen tatsächlichen und rechtlichen Gründe, die die Behörde zu ihrer Entscheidung bewogen haben, und die Behandlung der erhobenen Einwendungen hervorgehen sollen.
 
 (4) Der Vorbescheid soll enthalten
 
-1.
+1. den Hinweis auf § 7a Abs. 1 Satz 2 des Atomgesetzes,
 
-2.
+2. den Hinweis, daß der Vorbescheid nicht zur Errichtung der Anlage oder von Teilen der Anlage berechtigt,
 
-3.
+3. den Hinweis, daß der Vorbescheid unbeschadet der behördlichen Entscheidungen ergeht, die für das Gesamtvorhaben auf Grund anderer öffentlich-rechtlicher Vorschriften erforderlich sind, und
 
-4.
+4. die Rechtsbehelfsbelehrung.
 
 (5) § 18 Abs. 2 und 3 gilt entsprechend.
 
@@ -381,9 +355,9 @@ Die Genehmigungsbehörde hat die bei der Raumverträglichkeitsprüfung nach § 1
 
 (2) Abweichend von Absatz 1 sind Genehmigungsverfahren für UVP-pflichtige Vorhaben nach dieser Verordnung in der vor dem 16. Mai 2017 und nach dem Gesetz über die Umweltverträglichkeitsprüfung in der vor dem 16. Mai 2017 geltenden Fassung dieses Gesetzes zu Ende zu führen, wenn vor diesem Zeitpunkt
 
-1.
+1. das Verfahren zur Unterrichtung über voraussichtlich beizubringende Unterlagen nach § 1b in der vor diesem Zeitpunkt geltenden Fassung dieser Verordnung eingeleitet wurde oder
 
-2.
+2. die Unterlagen nach § 3 der vor diesem Zeitpunkt geltenden Fassung dieser Verordnung vorgelegt wurden.
 
 ### § 21
 

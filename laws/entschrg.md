@@ -14,8 +14,6 @@ Die Ehrenpensionen und Hinterbliebenenpensionen aufgrund der Anordnung über Ehr
 
 (1) Personen, die bis zum 30. April 1992 eine Ehrenpension bezogen haben, erhalten eine Entschädigungsrente in Höhe von 717,50 Euro monatlich.
 
-(2) Empfänger von Hinterbliebenenpensionen und Hinterbliebene von Empfängern einer Entschädigungsrente nach Absatz 1 erhalten eine Entschädigungsrente in folgender Höhe:
-
 (3) Die Entschädigungsrenten nach Absatz 1 und 2 werden um den Vomhundertsatz erhöht, um den die Mindestrenten nach § 32 des Bundesentschädigungsgesetzes in Anlehnung an die Erhöhung der Dienst- und Versorgungsbezüge der Bundesbeamten durch Rechtsverordnung jeweils angehoben werden. Die Erhöhung erfolgt erstmals, wenn und soweit eine im Mai 1992 unterstellte Rentenleistung in Höhe von monatlich 512,50 Euro bei Anpassung nach Satz 1 den Betrag von monatlich 717,50 Euro übersteigt.
 
 (4) Soweit nach § 4 der Anordnung über Ehrenpensionen bei einem Körperschaden von mindestens 20 vom Hundert eine Teilpension in Höhe des festgestellten prozentualen Körperschadens gewährt wurde, wird die Teilrente von dem in Absatz 1 bestimmten Betrag abgeleitet. Bei Erreichen des Pensionsalters oder bei Eintritt von Invalidität nach dem 30. April 1992 wird eine Entschädigungsrente nach Absatz 1 gewährt.
@@ -26,13 +24,13 @@ Die Ehrenpensionen und Hinterbliebenenpensionen aufgrund der Anordnung über Ehr
 
 ### § 3
 
-(1) Personen, die die Voraussetzungen für den Bezug einer Entschädigungsrente nur deshalb nicht erfüllen, weil sie eine Ehrenpension oder Hinterbliebenenpension am 30. April 1992 nicht bezogen haben, erhalten auf Antrag frühestens ab 3. Oktober 1990 eine Entschädigungsrente, wenn sie und zu keiner Zeit Gründe für eine Aberkennung der Eigenschaft als Verfolgte vorgelegen haben.
+(1) Personen, die die Voraussetzungen für den Bezug einer Entschädigungsrente nur deshalb nicht erfüllen, weil sie eine Ehrenpension oder Hinterbliebenenpension am 30. April 1992 nicht bezogen haben, erhalten auf Antrag frühestens ab 3. Oktober 1990 eine Entschädigungsrente, wenn sie
 
-a)
+a) in der Zeit vom 1. März 1990 bis zum 2. Oktober 1990 einschließlich als Verfolgte nach den in § 2 der Anordnung über Ehrenpensionen genannten Vorschriften anerkannt worden sind,
 
-b)
+b) die Voraussetzungen für die Anerkennung der Eigenschaft als Verfolgte erfüllt haben und die Ablehnung der Anerkennung mit rechtsstaatlichen Grundsätzen oder mit den Regelungen des Einigungsvertrages unvereinbar ist (Artikel 19 Satz 2 des Einigungsvertrages) oder
 
-c)
+c) vor dem 1. März 1990 als Verfolgte anerkannt worden sind und die Nichtbewilligung oder der Entzug einer Ehrenpension oder die Aberkennung der Eigenschaft als Verfolgte mit rechtsstaatlichen Grundsätzen oder mit den Regelungen des Einigungsvertrages unvereinbar ist (Artikel 19 Satz 2 des Einigungsvertrages)
 
 (2) Eine Entschädigungsrente nach Absatz 1 wird nicht geleistet, wenn für die Sachverhalte, die zur Anerkennung als Verfolgter geführt haben oder hätten führen können, Entschädigung oder Wiedergutmachung nach anderen Vorschriften, insbesondere des Bundesentschädigungsgesetzes, gewährt wird oder gewährt worden ist.
 
@@ -70,11 +68,11 @@ Entschädigungsrenten und Leistungen aufgrund der nach § 8 zu erlassenden Richt
 
 ### § 8
 
-(1) Die Bundesregierung erläßt Richtlinien für die Entschädigung von Personen, die Verfolgte im Sinne des § 1 des Bundesentschädigungsgesetzes (BEG) sind, keinen Anspruch auf Entschädigungsrente nach diesem Gesetz haben und die wegen ihres Wohnsitzes im Beitrittsgebiet keine Wiedergutmachungsleistungen nach dem Bundesentschädigungsgesetz oder anderen vergleichbaren Regelungen erhalten konnten. Laufende Leistungen sind vorzusehen Leistungen sind auch vorzusehen bei Vorliegen außergewöhnlicher Umstände; hierbei sind insbesondere die Art und Schwere der Verfolgung sowie die Stärke und Dauer ihrer Auswirkungen zu berücksichtigen.
+(1) Die Bundesregierung erläßt Richtlinien für die Entschädigung von Personen, die Verfolgte im Sinne des § 1 des Bundesentschädigungsgesetzes (BEG) sind, keinen Anspruch auf Entschädigungsrente nach diesem Gesetz haben und die wegen ihres Wohnsitzes im Beitrittsgebiet keine Wiedergutmachungsleistungen nach dem Bundesentschädigungsgesetz oder anderen vergleichbaren Regelungen erhalten konnten. Laufende Leistungen sind vorzusehen
 
-1.
+1. bei Haft in einem Konzentrationslager im Sinne des § 42 Abs. 2 BEG während mindestens sechs Monaten oder
 
-2.
+2. bei Freiheitsentziehung in einer anderen Haftstätte oder bei entschädigungsfähigen Freiheitsbeschränkungen im Sinne des § 47 BEG während mindestens 12 Monaten.
 
 (2) Für die Anspruchsberechtigung von Witwen und Witwern von Verfolgten im Sinne des § 1 BEG gilt § 2 Abs. 6 entsprechend.
 

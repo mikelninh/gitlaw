@@ -49,27 +49,27 @@ Versorgungsunterbrechungen
 
 (1) Das Wasserversorgungsunternehmen ist verpflichtet, Wasser im vereinbarten Umfang jederzeit am Ende der Anschlußleitung zur Verfügung zu stellen. Dies gilt nicht
 
-1.
+1. soweit zeitliche Beschränkungen zur Sicherstellung der öffentlichen Wasserversorgung erforderlich oder sonst vertraglich vorbehalten sind,
 
-2.
+2. soweit und solange das Unternehmen an der Versorgung durch höhere Gewalt oder sonstige Umstände, deren Beseitigung ihm wirtschaftlich nicht zugemutet werden kann, gehindert ist.
 
 (2) Die Versorgung kann unterbrochen werden, soweit dies zur Vornahme betriebsnotwendiger Arbeiten erforderlich ist. Das Wasserversorgungsunternehmen hat jede Unterbrechung oder Unregelmäßigkeit unverzüglich zu beheben.
 
 (3) Das Wasserversorgungsunternehmen hat die Kunden bei einer nicht nur für kurze Dauer beabsichtigten Unterbrechung der Versorgung rechtzeitig in geeigneter Weise zu unterrichten. Die Pflicht zur Benachrichtigung entfällt, wenn die Unterrichtung
 
-1.
+1. nach den Umständen nicht rechtzeitig möglich ist und das Unternehmen dies nicht zu vertreten hat oder
 
-2.
+2. die Beseitigung von bereits eingetretenen Unterbrechungen verzögern würde.
 
 ### § 6 — Haftung bei Versorgungsstörungen
 
-(1) Für Schäden, die ein Kunde durch Unterbrechung der Wasserversorgung oder durch Unregelmäßigkeiten in der Belieferung erleidet, haftet das ihn beliefernde Wasserversorgungsunternehmen aus Vertrag oder unerlaubter Handlung im Falle § 831 Abs. 1 Satz 2 des Bürgerlichen Gesetzbuches ist nur bei vorsätzlichem Handeln von Verrichtungsgehilfen anzuwenden.
+(1) Für Schäden, die ein Kunde durch Unterbrechung der Wasserversorgung oder durch Unregelmäßigkeiten in der Belieferung erleidet, haftet das ihn beliefernde Wasserversorgungsunternehmen aus Vertrag oder unerlaubter Handlung im Falle
 
-1.
+1. der Tötung oder Verletzung des Körpers oder der Gesundheit des Kunden, es sei denn, daß der Schaden von dem Unternehmen oder einem Erfüllungs- oder Verrichtungsgehilfen weder vorsätzlich noch fahrlässig verursacht worden ist,
 
-2.
+2. der Beschädigung einer Sache, es sei denn, daß der Schaden weder durch Vorsatz noch durch grobe Fahrlässigkeit des Unternehmens oder eines Erfüllungs- oder Verrichtungsgehilfen verursacht worden ist,
 
-3.
+3. eines Vermögensschadens, es sei denn, daß dieser weder durch Vorsatz noch durch grobe Fahrlässigkeit des Inhabers des Unternehmens oder eines vertretungsberechtigten Organs oder Gesellschafters verursacht worden ist.
 
 (2) Absatz 1 ist auch auf Ansprüche von Kunden anzuwenden, die diese gegen ein drittes Wasserversorgungsunternehmen aus unerlaubter Handlung geltend machen. Das Wasserversorgungsunternehmen ist verpflichtet, seinen Kunden auf Verlangen über die mit der Schadensverursachung durch ein drittes Unternehmen zusammenhängenden Tatsachen insoweit Auskunft zu geben, als sie ihm bekannt sind oder von ihm in zumutbarer Weise aufgeklärt werden können und ihre Kenntnis zur Geltendmachung des Schadensersatzes erforderlich ist.
 
@@ -121,11 +121,11 @@ Versorgungsunterbrechungen
 
 (3) Hausanschlüsse gehören zu den Betriebsanlagen des Wasserversorgungsunternehmens und stehen vorbehaltlich abweichender Vereinbarung in dessen Eigentum. In dem in Artikel 3 des Einigungsvertrages genannten Gebiet bleibt das am Tag des Wirksamwerdens des Beitritts bestehende Eigentum eines Kunden an einem Hausanschluss, den er auf eigene Kosten errichtet oder erweitert hat, bestehen, solange er das Eigentum nicht auf das Wasserversorgungsunternehmen überträgt. Hausanschlüsse werden ausschließlich von dem Wasserversorgungsunternehmen hergestellt, unterhalten, erneuert, geändert, abgetrennt und beseitigt, müssen zugänglich und vor Beschädigungen geschützt sein. Soweit das Versorgungsunternehmen die Erstellung des Hausanschlusses oder Veränderungen des Hausanschlusses nicht selbst, sondern durch Nachunternehmer durchführen läßt, sind Wünsche des Anschlußnehmers bei der Auswahl der Nachunternehmen zu berücksichtigen. Der Anschlußnehmer hat die baulichen Voraussetzungen für die sichere Errichtung des Hausanschlusses zu schaffen. Er darf keine Einwirkungen auf den Hausanschluß vornehmen oder vornehmen lassen.
 
-(4) Das Wasserversorgungsunternehmen ist berechtigt, vom Anschlußnehmer die Erstattung der bei wirtschaftlicher Betriebsführung notwendigen Kosten für zu verlangen. Die Kosten können pauschal berechnet werden.
+(4) Das Wasserversorgungsunternehmen ist berechtigt, vom Anschlußnehmer die Erstattung der bei wirtschaftlicher Betriebsführung notwendigen Kosten für
 
-1.
+1. die Erstellung des Hausanschlusses,
 
-2.
+2. die Veränderungen des Hausanschlusses, die durch eine Änderung oder Erweiterung seiner Anlage erforderlich oder aus anderen Gründen von ihm veranlaßt werden,
 
 (5) Kommen innerhalb von fünf Jahren nach Herstellung des Hausanschlusses weitere Anschlüsse hinzu und wird der Hausanschluß dadurch teilweise zum Bestandteil des Verteilungsnetzes, so hat das Wasserversorgungsunternehmen die Kosten neu aufzuteilen und dem Anschlußnehmer den etwa zuviel gezahlten Betrag zu erstatten.
 
@@ -139,11 +139,11 @@ Versorgungsunterbrechungen
 
 (1) Das Wasserversorgungsunternehmen kann verlangen, daß der Anschlußnehmer auf eigene Kosten nach seiner Wahl an der Grundstücksgrenze einen geeigneten Wasserzählerschacht oder Wasserzählerschrank anbringt, wenn
 
-1.
+1. das Grundstück unbebaut ist oder
 
-2.
+2. die Versorgung des Gebäudes mit Anschlußleitungen erfolgt, die unverhältnismäßig lang sind oder nur unter besonderen Erschwernissen verlegt werden können, oder
 
-3.
+3. kein Raum zur frostsicheren Unterbringung des Wasserzählers vorhanden ist.
 
 (2) Der Anschlußnehmer ist verpflichtet, die Einrichtungen in ordnungsgemäßem Zustand und jederzeit zugänglich zu halten.
 
@@ -286,9 +286,9 @@ Vordrucke für Rechnungen und Abschläge müssen verständlich sein. Die für di
 
 Einwände gegen Rechnungen und Abschlagsberechnungen berechtigen zum Zahlungsaufschub oder zur Zahlungsverweigerung nur,
 
-1.
+1. soweit sich aus den Umständen ergibt, daß offensichtliche Fehler vorliegen, und
 
-2.
+2. wenn der Zahlungsaufschub oder die Zahlungsverweigerung innerhalb von zwei Jahren nach Zugang der fehlerhaften Rechnung oder Abschlagsberechnung geltend gemacht wird.
 
 ### § 31 — Aufrechnung
 
@@ -314,11 +314,11 @@ Gegen Ansprüche des Wasserversorgungsunternehmens kann nur mit unbestrittenen o
 
 (1) Das Wasserversorgungsunternehmen ist berechtigt, die Versorgung fristlos einzustellen, wenn der Kunde den allgemeinen Versorgungsbedingungen zuwiderhandelt und die Einstellung erforderlich ist, um
 
-1.
+1. eine unmittelbare Gefahr für die Sicherheit von Personen oder Anlagen abzuwenden,
 
-2.
+2. den Verbrauch von Wasser unter Umgehung, Beeinflussung oder vor Anbringung der Meßeinrichtungen zu verhindern oder
 
-3.
+3. zu gewährleisten, daß Störungen anderer Kunden, störende Rückwirkungen auf Einrichtungen des Unternehmens oder Dritter oder Rückwirkungen auf die Güte des Trinkwassers ausgeschlossen sind.
 
 (2) Bei anderen Zuwiderhandlungen, insbesondere bei Nichterfüllung einer Zahlungsverpflichtung trotz Mahnung, ist das Wasserversorgungsunternehmen berechtigt, die Versorgung zwei Wochen nach Androhung einzustellen. Dies gilt nicht, wenn der Kunde darlegt, daß die Folgen der Einstellung außer Verhältnis zur Schwere der Zuwiderhandlung stehen und hinreichende Aussicht besteht, daß der Kunde seinen Verpflichtungen nachkommt. Das Wasserversorgungsunternehmen kann mit der Mahnung zugleich die Einstellung der Versorgung androhen.
 
@@ -332,9 +332,9 @@ Gegen Ansprüche des Wasserversorgungsunternehmens kann nur mit unbestrittenen o
 
 (2) Das gleiche gilt,
 
-1.
+1. wenn der Kunde keinen allgemeinen Gerichtsstand im Inland hat oder
 
-2.
+2. wenn der Kunde nach Vertragsschluß seinen Wohnsitz oder gewöhnlichen Aufenthaltsort aus dem Geltungsbereich dieser Verordnung verlegt oder sein Wohnsitz oder gewöhnlicher Aufenthalt im Zeitpunkt der Klageerhebung nicht bekannt ist.
 
 ### § 35 — Öffentlich-rechtliche Versorgung mit Wasser
 
@@ -353,5 +353,3 @@ Gegen Ansprüche des Wasserversorgungsunternehmens kann nur mit unbestrittenen o
 (3) § 24 Abs. 2 und 3, § 25 Abs. 1 und 2 sowie § 28 gelten nur für Abrechnungszeiträume, die nach dem 31. Dezember 1980 beginnen.
 
 ### Schlußformel
-
-Der Bundesminister für Wirtschaft

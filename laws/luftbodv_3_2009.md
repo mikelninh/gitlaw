@@ -24,91 +24,65 @@ Diese Verordnung gilt für die Ausrüstung und den Betrieb des nach den Vorschri
 
 (1) Motorgetriebene Luftfahrzeuge, die nach Instrumentenflugregeln geflogen werden, sind wie folgt auszurüsten:
 
-1.
+1. einem Doppelsteuer, wenn das Luftfahrzeug nach den Vorschriften der Betriebsordnung für Luftfahrtgerät von zwei Luftfahrzeugführern zu führen und zu bedienen ist, und
 
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
+2. Flugüberwachungsgeräten, die für die sichere Führung und Bedienung des Luftfahrzeuges erforderlich sind, mindestens jedoch mit:a)einer Fahrtmesseranlage, die gegen Vereisung und Kondensation geschützt ist,b)zwei barometrischen Höhenmesseranlagen, darunter einem Feinhöhenmesser,c)einem Variometer,d)einem Kurskreisel,e)einem Magnetkompass,f)einem Kreiselhorizont,g)einer Scheinlotanzeige,h)einem Außenluftthermometer,i)einem Wendezeiger oder einem zusätzlichen Kreiselhorizont, die unabhängig von der Energiequelle des unter Buchstabe f geforderten Kreiselhorizontes versorgt werden,j)einer Uhr mit großem Sekundenzeiger und Stoppeinrichtung,k)einer Beleuchtungsanlage für alle Instrumente und Bedienungsgeräte, die für die sichere Führung des Luftfahrzeugs erforderlich sind,l)einem Anzeigegerät für die ordnungsgemäße Funktion der Energieversorgung der Kreiselgeräte undm)einer elektrischen Handlampe für jedes Besatzungsmitglied, die unabhängig vom Bordnetz ist. einer Fahrtmesseranlage, die gegen Vereisung und Kondensation geschützt ist, zwei barometrischen Höhenmesseranlagen, darunter einem Feinhöhenmesser, einem Variometer, einem Kurskreisel, einem Magnetkompass, einem Kreiselhorizont, einer Scheinlotanzeige, einem Außenluftthermometer, einem Wendezeiger oder einem zusätzlichen Kreiselhorizont, die unabhängig von der Energiequelle des unter Buchstabe f geforderten Kreiselhorizontes versorgt werden, einer Uhr mit großem Sekundenzeiger und Stoppeinrichtung, einer Beleuchtungsanlage für alle Instrumente und Bedienungsgeräte, die für die sichere Führung des Luftfahrzeugs erforderlich sind, einem Anzeigegerät für die ordnungsgemäße Funktion der Energieversorgung der Kreiselgeräte und einer elektrischen Handlampe für jedes Besatzungsmitglied, die unabhängig vom Bordnetz ist.
 
 (2) Hubschrauber sind abweichend von den Buchstaben f und g mit einem künstlichen Horizont je vorgeschriebenem Piloten und einem zusätzlichen künstlichen Horizont auszurüsten.
 
 ### § 3 — Ausrüstung für Flüge nach Instrumentenflugregeln über den Nordatlantik
 
-(1) Flugzeuge müssen für Flüge nach Instrumentenflugregeln über den Nordatlantik zusätzlich zu der Ausrüstung nach § 2 mit zwei Langstrecken-Navigationsanlagen in folgendem begrenzten Luftraum ausgerüstet sein:zwischen Flugfläche 275 und Flugfläche 400 in dem
+(1) Flugzeuge müssen für Flüge nach Instrumentenflugregeln über den Nordatlantik zusätzlich zu der Ausrüstung nach § 2 mit zwei Langstrecken-Navigationsanlagen in folgendem begrenzten Luftraum ausgerüstet sein:
 
-1.
+1. im Osten durch die östlichen Grenzen der Kontrollbezirke Santa Maria Oceanic, Shanwick Oceanic und Reykjavik,
 
-2.
+2. im Norden durch den geografischen Nordpol,
 
-3.
+3. im Westen – nördlich der geografischen Breite 38°30’N – durch die westlichen Grenzen der Kontrollbezirke Reykjavik, Gander Oceanic und New York Oceanic und – südlich der geografischen Breite 38°30’N – durch den Längengrad 60°W im Kontrollbezirk New York Oceanic und
 
-4.
+4. im Süden – östlich des Längengrades 60°W – durch den Breitengrad 27 °N und – westlich des Längengrades 60 °W – durch die geografische Breite 38°30’N.
 
 (2) Jede einzelne der zwei Langstrecken-Navigationsanlagen muss der Besatzung fortlaufend die Position des Flugzeuges anzeigen können und bestehen aus:
 
-1.
+1. einer Trägheitsnavigationsanlage oder
 
-2.
+2. einer Global Navigation Satellite System (GNSS)-Empfangsanlage.
 
 (3) Dem Luftfahrt-Bundesamt ist ein Nachweis darüber zu erbringen, dass diese Ausrüstung folgende Genauigkeit der Navigation ermöglicht:
 
-1.
+1. die Standardabweichung des seitlichen Kursfehlers darf 6,3 Seemeilen nicht überschreiten,
 
-2.
+2. der Anteil an der Gesamtflugzeit, den das Luftfahrzeug sich 30 Seemeilen oder mehr außerhalb des zugewiesenen Kurses über Grund befindet, muss weniger als 5,3 x 10-4 betragen (weniger als eine Stunde in etwa 2 000 Flugstunden),
 
-3.
+3. der Anteil an der Gesamtflugzeit, den das Luftfahrzeug sich zwischen 50 und 70 Seemeilen außerhalb des zugewiesenen Kurses über Grund befindet, muss weniger als 13 x 10-5 betragen (weniger als eine Stunde in etwa 8 000 Flugstunden).
 
 (4) Abweichend von Absatz 1 ist die Ausrüstung des Flugzeuges mit nur einer Langstrecken-Navigationsanlage nach Absatz 2 oder Absatz 6 zusätzlich zur Ausrüstung nach § 2 zulässig, wenn Flüge nach Instrumentenflugregeln ausschließlich zwischen dem Nordteil Großbritanniens oder Irland einerseits und Nordostkanada andererseits über Island und Grönland in dem nach Absatz 1 festgelegten Luftraum durchgeführt werden.
 
-(5) Einer zusätzlichen Ausrüstung nach Absatz 2 bedarf es nicht bei Flügen nach Instrumentenflugregeln von und nach Island auf den durch die Navigationsfunkfeuerfestgelegten Flugstrecken.
+(5) Einer zusätzlichen Ausrüstung nach Absatz 2 bedarf es nicht bei Flügen nach Instrumentenflugregeln von und nach Island auf den durch die Navigationsfunkfeuer
 
-1.
+1. Flesland, Myggenaes und Ingolfshofdi oder
 
-2.
+2. Sumburgh, Akraberg und Myggenaes
 
 (6) Das Luftfahrt-Bundesamt kann andere als die in Absatz 2 geforderten Navigationsanlagen als Ausrüstung genehmigen, wenn diese Ausrüstung die Navigationsgenauigkeit nach Absatz 3 aufweist.
 
 ### § 4 — Ausrüstung für Flüge in Lufträumen mit verringerter Höhenstaffelung
 
-(1) Flugzeuge müssen für Flüge nach Instrumentenflugregeln in Lufträumen mit verringerter Höhenstaffelung (RVSM-Lufträume) mitausgestattet und als Flugzeug-Gruppe (group aircraft) oder als einzelnes Flugzeug (non-group aircraft) den geltenden Lufttüchtigkeitsforderungen genügen und entsprechend zugelassen sein.
+(1) Flugzeuge müssen für Flüge nach Instrumentenflugregeln in Lufträumen mit verringerter Höhenstaffelung (RVSM-Lufträume) mit
 
-1.
+1. zwei voneinander unabhängigen Höhenmesseranlagen,
 
-2.
+2. einem Sekundärradar-Antwortgerät (Transponder) mit automatischer Höhenübermittlung,
 
-3.
+3. einer Höhen-Warnanlage und
 
-4.
+4. einem Flugregler mit Höhenhaltung
 
 (2) Die Ausrüstung nach Absatz 1 muss dabei für die Zulassung als Flugzeug-Gruppe folgende Anforderungen erfüllen:
 
-1.
+1. Der mittlere Fehler der Höhenmesseranlage (mean altrimetry system error; ASE) darf unter den in der technischen Dokumentation der Musterzulassungsbehörde vorgesehenen normalen Betriebsbedingungen 80 Fuß und unter allen übrigen Betriebsbedingungen 120 Fuß nicht überschreiten.
 
-2.
+2. Der mittlere Fehler der Höhenmesseranlage zuzüglich der dreifachen Standardabweichung darf unter den in der technischen Dokumentation der Musterzulassungsbehörde vorgesehenen normalen Betriebsbedingungen 200 Fuß und unter allen übrigen Betriebsbedingungen 245 Fuß nicht überschreiten.
 
 (3) Für die Zulassung eines einzelnen Flugzeuges darf der mittlere Fehler der Höhenmesseranlage der Ausrüstung nach Absatz 1 unter den in der technischen Dokumentation der Musterzulassungsbehörde vorgesehenen normalen Betriebsbedingungen 160 Fuß und unter allen übrigen Betriebsbedingungen 200 Fuß nicht überschreiten.
 
@@ -118,81 +92,79 @@ m)
 
 (1) Für Flüge nach Sichtflugregeln am Tage sind motorgetriebene Luftfahrzeuge wie folgt auszurüsten:
 
-1.
+1. einem Magnetkompass,
 
-2.
+2. einem barometrischen Feinhöhenmesser,
 
-3.
+3. einer Fahrtmesseranlage und
 
-4.
+4. einer Uhr mit Sekundenanzeige.
 
 (2) Für Flüge nach Sichtflugregeln bei Nacht sind motorgetriebene Luftfahrzeuge zusätzlich zu der Ausrüstung nach Absatz 1 wie folgt auszurüsten:
 
-1.
+1. einer Fluglageanzeige (künstlicher Horizont) für jeden vorgeschriebenen Piloten,
 
-2.
+2. einer Scheinlotanzeige,
 
-3.
+3. einem Kurskreisel,
 
-4.
+4. einem Variometer,
 
-5.
+5. einem Landescheinwerfer,
 
-6.
+6. Beleuchtungsanlagen für die Fluggasträume,
 
-7.
+7. einer elektrischen Handlampe für jedes Besatzungsmitglied, die unabhängig vom Bordnetz ist und
 
-8.
+8. einer Beleuchtung aller für den sicheren Betrieb notwendigen Fluginstrumente,
 
-9.
+9. für Flugzeuge mit einem Außenluftthermometer und
 
-10.
+10. für Flugzeuge mit einem Anzeigegerät für die ordnungsgemäße Funktion der Energieversorgung der Kreiselgeräte.
 
 ### § 6 — Ausrüstung für kontrollierte Flüge nach Sichtflugregeln
 
 Für kontrollierte Flüge nach Sichtflugregeln in dafür von der zuständigen Flugsicherungsorganisation festgelegten Lufträumen sind motorgetriebene Luftfahrzeuge zusätzlich zu der Ausrüstung nach § 5 Absatz 1 wie folgt auszurüsten:
 
-1.
+1. einem Kurskreisel,
 
-2.
+2. einem Variometer,
 
-3.
+3. einem Wendezeiger oder einem Kreiselhorizont und
 
-4.
+4. einer Scheinlotanzeige.
 
 ### § 7 — Ausrüstung von Segelflugzeugen für Wolkenflüge
 
 Für Wolkenflüge sind Segelflugzeuge wie folgt auszurüsten:
 
-1.
+1. einem Fahrtmesser,
 
-2.
+2. einem Höhenmesser,
 
-3.
+3. einem Wendezeiger mit Scheinlot,
 
-4.
+4. einem Magnetkompass und
 
-5.
+5. einem Variometer.
 
 ### § 8 — Sonstige Ausrüstung
 
 Flugzeuge und Hubschrauber sind im Übrigen immer wie folgt auszurüsten:
 
-1.
+1. einem leicht zugänglichen Verbandskasten, der mindestens DIN 13164, Ausgabe Januar 1998, erfüllt,
 
-2.
+2. einem Handfeuerlöscher im Cockpit und in jedem Fluggastraum, wenn dieser durch die Besatzung nicht leicht zu erreichen ist,
 
-3.
+3. aktuellen und entsprechend der Betriebsart geeigneten Karten für die geplante Flugstrecke und mögliche Ausweichstrecken,
 
-4.
+4. Unterlagen über Maßnahmen und Signale, die gemäß §21 Absatz 4 LuftVO bei der Ansteuerung durch militärische oder polizeiliche Luftfahrzeuge anzuwenden sind,
 
-5.
+5. einer ausreichenden Anzahl von Ersatzsicherungen, sofern Schmelzsicherungen im Cockpit Verwendung finden.
 
 ### § 9 — Durchbruchstellen
 
 (1) Wenn an einem Luftfahrzeug von außen aufbrechbare Rettungsöffnungen (Durchbruchstellen) gemäß den Angaben des Luftfahrzeugherstellers zur Rettung der Insassen in einem Notfall für die Rettungskräfte von außen angebracht werden, sind diese Bereiche wie unten dargestellt zu markieren. Die Markierungen müssen rot oder gelb sein und gegebenenfalls eine weiße Konturlinie haben, um sich vom Hintergrund abzuheben.
-
-(2) Wenn die Markierungen der Ecken eines Durchbruchbereiches weiter als zwei Meter voneinander entfernt sind, müssen Zwischenmarkierungen mit den Abmessungen neun Zentimeter x drei Zentimeter eingefugt werden, so dass nicht mehr als zwei Meter zwischen zwei benachbarten Markierungen liegen.
 
 ### § 10 — Navigations- und Sprechfunkausrüstung
 
@@ -202,11 +174,11 @@ Luftfahrzeuge müssen mit einer Navigations- und Sprechfunkausrüstung ausgestat
 
 (1) Der erforderliche mitzuführende Sauerstoffvorrat richtet sich nach der Flughöhe, der Flugdauer in bestimmten Flughöhen und nach der Anzahl der Personen an Bord.
 
-(2) Flüge in Kabinendruckhöhen von mehr als 3 600 Meter (12 000 Fuß) dürfen nur durchgeführt werden, wenn die an Bord mitgeführte Menge an Sauerstoff zur Versorgung wie folgt ausreicht:
+(2) Flüge in Kabinendruckhöhen von mehr als 3 600 Meter (12 000 Fuß) dürfen nur durchgeführt werden, wenn die an Bord mitgeführte Menge an Sauerstoff zur Versorgung wie folgt ausreicht:
 
-1.
+1. Versorgung aller Besatzungsmitglieder sowie zehn Prozent der Fluggäste, wenn die Flugzeit 30 Minuten in einer Kabinendruckhöhe von 3 600 Meter (12 000 Fuß) überschreitet und
 
-2.
+2. Versorgung aller Besatzungsmitglieder sowie der Fluggäste für die gesamte Zeit in einer Kabinendruckhöhe von mehr als 4 000 Meter (13 000 Fuß).
 
 (3) Der verantwortliche Luftfahrzeugführer hat sicherzustellen, dass der erforderliche Sauerstoffvorrat an Bord zur Verfügung steht.
 
@@ -256,19 +228,19 @@ Weist ein Staat, in dessen Luftraum der Flug durchgeführt werden soll, in seine
 
 ### § 17 — Tonaufzeichnungsanlage für das Cockpit
 
-(1) Flugzeuge mit einer höchstzulässigen Startmasse von mehr als 27 000 Kilogramm, die seit dem 1. Januar 1987 erstmals zum Verkehr zugelassen worden sind, sind mit einer Tonaufzeichnungsanlage für das Cockpit auszurüsten.
+(1) Flugzeuge mit einer höchstzulässigen Startmasse von mehr als 27 000 Kilogramm, die seit dem 1. Januar 1987 erstmals zum Verkehr zugelassen worden sind, sind mit einer Tonaufzeichnungsanlage für das Cockpit auszurüsten.
 
 (2) Die Tonaufzeichnungsanlage dient der Speicherung des Funkverkehrs, der Gespräche und der Geräusche innerhalb des Cockpits.
 
 (3) Die Tonaufzeichnungsanlage für das Cockpit muss mindestens die Daten speichern können, die während der letzten 30 Betriebsminuten der Anlage aufgezeichnet wurden.
 
-(4) Die Aufzeichnungszeit für Tonaufzeichnungsanlagen in Flugzeugen mit einer höchstzulässigen Startmasse von mehr als 5 700 Kilogramm, die nach dem 1. Oktober 2009 erstmals zum Verkehr zugelassen werden, muss mindestens zwei Stunden betragen.
+(4) Die Aufzeichnungszeit für Tonaufzeichnungsanlagen in Flugzeugen mit einer höchstzulässigen Startmasse von mehr als 5 700 Kilogramm, die nach dem 1. Oktober 2009 erstmals zum Verkehr zugelassen werden, muss mindestens zwei Stunden betragen.
 
 ### § 18 — Flugdatenschreiberanlage
 
-(1) Flugzeuge mit einer höchstzulässigen Startmasse von mehr als 27 000 Kilogramm, die am oder nach dem 1. Januar 1989 erstmals zum Verkehr zugelassen worden sind, sind mit einem Flugdatenschreiber des Typs I auszurüsten.
+(1) Flugzeuge mit einer höchstzulässigen Startmasse von mehr als 27 000 Kilogramm, die am oder nach dem 1. Januar 1989 erstmals zum Verkehr zugelassen worden sind, sind mit einem Flugdatenschreiber des Typs I auszurüsten.
 
-(2) Flugzeuge mit einer höchstzulässigen Startmasse von mehr als 5 700 Kilogramm, die nach dem 1. Januar 2005 erstmals zum Verkehr zugelassen worden sind, sind mit einem Flugdatenschreiber des Typs IA auszurüsten.
+(2) Flugzeuge mit einer höchstzulässigen Startmasse von mehr als 5 700 Kilogramm, die nach dem 1. Januar 2005 erstmals zum Verkehr zugelassen worden sind, sind mit einem Flugdatenschreiber des Typs IA auszurüsten.
 
 (3) Der Flugdatenschreiber muss mindestens die Daten speichern können, die während der letzten 25 Betriebsstunden der Anlage aufgezeichnet wurden.
 
@@ -280,7 +252,7 @@ Weist ein Staat, in dessen Luftraum der Flug durchgeführt werden soll, in seine
 
 ### § 19 — Bodenannäherungswarnanlage
 
-Ab dem 1. Oktober 2009 sind turbinengetriebene Flugzeuge mit einer höchstzulässigen Startmasse von mehr als 5 700 Kilogramm oder einer höchsten genehmigten Fluggastsitzzahl von mehr als neun mit einer Bodenannäherungswarnanlage der Klasse B (TAWS Class B) auszurüsten, sofern sie nicht bereits mit einer Bodenannäherungswarnanlage (GPWS) ausgerüstet sind.
+Ab dem 1. Oktober 2009 sind turbinengetriebene Flugzeuge mit einer höchstzulässigen Startmasse von mehr als 5 700 Kilogramm oder einer höchsten genehmigten Fluggastsitzzahl von mehr als neun mit einer Bodenannäherungswarnanlage der Klasse B (TAWS Class B) auszurüsten, sofern sie nicht bereits mit einer Bodenannäherungswarnanlage (GPWS) ausgerüstet sind.
 
 ### § 20 — Machzahlanzeige
 
@@ -288,7 +260,7 @@ Flugzeuge, deren Kompressibilitätsgrenzwerte auf den vorgeschriebenen Fahrtmess
 
 ### § 21 — Bordseitige Kollisionsschutzanlage
 
-Turbinengetriebene Flugzeuge mit einer höchstzulässigen Startmasse von mehr als 5 700 Kilogramm oder mit einer Fluggastsitzzahl von mehr als neunzehn sind mit einer bordseitigen Kollisionsschutzanlage, die hinsichtlich der Leistungsanforderungen mindestens denen der Klasse II (ACAS II) entspricht, auszurüsten.
+Turbinengetriebene Flugzeuge mit einer höchstzulässigen Startmasse von mehr als 5 700 Kilogramm oder mit einer Fluggastsitzzahl von mehr als neunzehn sind mit einer bordseitigen Kollisionsschutzanlage, die hinsichtlich der Leistungsanforderungen mindestens denen der Klasse II (ACAS II) entspricht, auszurüsten.
 
 ## Unterabschnitt 3: Hubschrauber
 
@@ -296,9 +268,9 @@ Turbinengetriebene Flugzeuge mit einer höchstzulässigen Startmasse von mehr al
 
 Folgende Hubschrauber, die für Flüge über Wasser eingesetzt werden, müssen mit einer dauerhaft entfalteten oder schnell entfaltbaren Notschwimmeranlage ausgerüstet sein:
 
-1.
+1. mehrmotorige Hubschrauber bei Flügen über Wasser in einer Entfernung zum Land, die einer Flugstrecke von mehr als zehn Minuten bei normaler Reisefluggeschwindigkeit entspricht, oder
 
-2.
+2. einmotorige Hubschrauber bei Flügen über Wasser außerhalb einer Entfernung zum Land, die im Autorotationsflug zurückgelegt werden kann oder eine sichere Notlandung erlaubt.
 
 ### § 23 — Ausrüstung für Flüge über Wasser - Notausrüstung
 
@@ -306,9 +278,9 @@ Folgende Hubschrauber, die für Flüge über Wasser eingesetzt werden, müssen m
 
 (2) Hubschrauber, die Flüge über Wasser nach § 22 durchführen, sind zusätzlich mit folgender Notausrüstung auszustatten:
 
-1.
+1. Rettungsinseln oder Schlauchboote in ausreichender Anzahl für die Aufnahme aller Personen, die mit einer Überlebensausrüstung, einschließlich lebenserhaltender Mittel, in Abhängigkeit von der Flugstrecke ausgestattet und so verstaut sind, dass ein schneller Einsatz im Notfall möglich ist.
 
-2.
+2. pyrotechnische Notsignalmittel.
 
 ### § 24 — Ausrüstung für Flüge über Wasser - Notsender
 
@@ -322,7 +294,7 @@ Ab dem 1. Oktober 2009 müssen alle Hubschrauber für Flüge über Wasser nach �
 
 ### § 26 — Tonaufzeichnungsanlage für das Cockpit
 
-(1) Hubschrauber mit einer höchstzulässigen Startmasse von mehr als 7 000 Kilogramm, die am oder nach dem 1. Januar 1987 erstmals zum Verkehr zugelassen wurden, sind mit einer Tonaufzeichnungsanlage für das Cockpit auszurüsten.
+(1) Hubschrauber mit einer höchstzulässigen Startmasse von mehr als 7 000 Kilogramm, die am oder nach dem 1. Januar 1987 erstmals zum Verkehr zugelassen wurden, sind mit einer Tonaufzeichnungsanlage für das Cockpit auszurüsten.
 
 (2) Für Hubschrauber ohne Flugdatenschreiber muss zudem mindestens die Hauptrotordrehzahl aufgezeichnet werden.
 
@@ -332,9 +304,9 @@ Ab dem 1. Oktober 2009 müssen alle Hubschrauber für Flüge über Wasser nach �
 
 ### § 27 — Flugdatenschreiberanlage
 
-(1) Hubschrauber mit einer höchstzulässigen Startmasse von mehr als 7 000 Kilogramm, die nach dem 1. Januar 1989 erstmals zum Verkehr zugelassen worden sind, müssen mit einem Flugdatenschreiber vom Typ IV ausgerüstet sein.
+(1) Hubschrauber mit einer höchstzulässigen Startmasse von mehr als 7 000 Kilogramm, die nach dem 1. Januar 1989 erstmals zum Verkehr zugelassen worden sind, müssen mit einem Flugdatenschreiber vom Typ IV ausgerüstet sein.
 
-(2) Hubschrauber mit einer höchstzulässigen Startmasse von mehr als 3 180 Kilogramm, die nach dem 1. Januar 2005 erstmals zum Verkehr zugelassen worden sind, müssen mit einem Flugdatenschreiber vom Typ IV A ausgerüstet sein.
+(2) Hubschrauber mit einer höchstzulässigen Startmasse von mehr als 3 180 Kilogramm, die nach dem 1. Januar 2005 erstmals zum Verkehr zugelassen worden sind, müssen mit einem Flugdatenschreiber vom Typ IV A ausgerüstet sein.
 
 (3) Der Flugdatenschreiber muss mindestens die Daten speichern können, die während der letzten zehn Betriebsstunden der Anlage aufgezeichnet wurden.
 
@@ -352,11 +324,11 @@ Ab dem 1. Oktober 2009 müssen alle Hubschrauber für Flüge über Wasser nach �
 
 (2) Die Ausnahmegenehmigung kann mit Auflagen verbunden werden.
 
-(3) Das Luftfahrt-Bundesamt kann im Einzelfall von den Bestimmungen des § 8 Nummer 1 und Nummer 2, der §§ 16 bis 20 sowie der §§ 24 bis 27 eine Ausnahmegenehmigung über den in Absatz 1 genannten Zeitraum hinaus gewähren fürwenn sichergestellt ist, dass der Flug auch ohne die vorgeschriebenen Ausrüstungsgegenstände sicher durchgeführt werden kann.
+(3) Das Luftfahrt-Bundesamt kann im Einzelfall von den Bestimmungen des § 8 Nummer 1 und Nummer 2, der §§ 16 bis 20 sowie der §§ 24 bis 27 eine Ausnahmegenehmigung über den in Absatz 1 genannten Zeitraum hinaus gewähren für
 
-a)
+a) Luftfahrzeuge, deren Konstruktion sich für eine nachträgliche Ausrüstung mit den vorgeschriebenen Ausrüstungsgegenständen nicht eignet oder
 
-b)
+b) Luftfahrzeuge, die in besonderen Betriebsarten (Kunstflug, Platzrundenbetrieb) betrieben werden,
 
 ## Abschnitt 3: Flugbetrieb
 
@@ -378,17 +350,9 @@ Luftfahrzeugführer dürfen Segelflugzeuge oder Motorsegler, die nicht mit einer
 
 (1) Auf die Festlegung eines Ausweichflugplatzes für einen Flug nach Instrumentenflugregeln kann verzichtet werden, wenn nach den neuesten verfügbaren Wetterinformationen für den Zeitraum von zwei Stunden vor bis zwei Stunden nach der voraussichtlichen Ankunftszeit an dem Landeplatz oder von der aktuellen Startzeit bis zwei Stunden nach der voraussichtlichen Ankunftszeit am Landeplatz mindestens folgende Wetterbedingungen herrschen:
 
-1.
+1. Wolkenuntergrenze:a)für Flugzeuge: 300 Meter (1 000 Fuß),b)für Hubschrauber: 120 Meter (400 Fuß)über dem jeweiligen Minimum des anzuwendenden Instrumentenanflugverfahrens, für Flugzeuge: 300 Meter (1 000 Fuß), für Hubschrauber: 120 Meter (400 Fuß)über dem jeweiligen Minimum des anzuwendenden Instrumentenanflugverfahrens,
 
-a)
-
-b)
-
-2.
-
-a)
-
-b)
+2. Sicht:a)für Flugzeuge: 4 Kilometer,b)für Hubschrauber: 1,5 Kilometerüber dem jeweiligen Minimum des anzuwendenden Instrumentenanflugverfahrens. für Flugzeuge: 4 Kilometer, für Hubschrauber: 1,5 Kilometerüber dem jeweiligen Minimum des anzuwendenden Instrumentenanflugverfahrens.
 
 (2) Für Flugzeuge kann abweichend von den Bedingungen des Absatzes 1 Nummer 2 Buchstabe a ein pauschaler Wert von 5,5 Kilometern verwendet werden.
 
@@ -400,15 +364,15 @@ b)
 
 (3) Bei der Berechnung der mitzuführenden Betriebsstoffmengen sind folgende Umstände zu berücksichtigen:
 
-1.
+1. Vorhersage der meteorologischen Bedingungen,
 
-2.
+2. zu erwartende Streckenvorgaben und Verzögerungen durch die Flugverkehrskontrollstelle,
 
-3.
+3. für Flüge nach Instrumentenflugregeln mindestens ein Instrumentenanflug einschließlich eines Fehlanflugverfahrens am Landeplatz,
 
-4.
+4. Druckverlust in der Kabine, wenn eine Druckkabine vorhanden ist, oder Ausfall eines Triebwerkes auf der Flugstrecke,
 
-5.
+5. weitere Umstände, die eine Verzögerung der Landung oder einen erhöhten Kraftstoffverbrauch zur Folge haben.
 
 ### § 34 — Betriebsstoffvorräte - Hubschrauber
 
@@ -416,33 +380,33 @@ b)
 
 (2) Für einen Flug nach Instrumentenflugregeln ohne Planung eines Ausweichflugplatzes müssen die an Bord mitzuführenden Betriebsstoffmengen Folgendes ermöglichen:
 
-1.
+1. den Flug zum geplanten Hubschrauberflugplatz,
 
-2.
+2. weitere 30 Minuten Flugzeit mit der Geschwindigkeit für ein Warteverfahren in einer Höhe von 450 Metern (1 500 Fuß) über dem Landeplatz und
 
-3.
+3. die Durchführung des Anflugverfahrens und der Landung.
 
 (3) Für einen Flug nach Instrumentenflugregeln mit Planung eines Ausweichflugplatzes müssen die an Bord mitzuführenden Betriebsstoffmengen Folgendes ermöglichen:
 
-1.
+1. den Flug zum geplanten Hubschrauberflugplatz mit Anflugverfahren und Fehlanflugverfahren,
 
-2.
+2. den Flug zum Ausweichflugplatz gemäß Flugplan,
 
-3.
+3. weitere 30 Minuten Flugzeit mit der Geschwindigkeit für ein Warteverfahren in einer Höhe von 450 Metern (1 500 Fuß) über dem Ausweichflugplatz und
 
-4.
+4. die Durchführung des Anflugverfahrens und der Landung.
 
 (4) Ist für einen Flug kein geeigneter Ausweichlandeplatz vorhanden, müssen die Betriebsstoffmengen den Flug zum Landeplatz und zusätzlich zwei Stunden bei der vom Flughandbuch und der zuständigen Flugsicherungsorganisation für ein Warteverfahren vorgesehenen Geschwindigkeit ermöglichen.
 
 (5) Bei der Berechnung der mitzuführenden Betriebsstoffmengen sind folgende Umstände zu berücksichtigen:
 
-1.
+1. Vorhersage der meteorologischen Bedingungen,
 
-2.
+2. zu erwartende Streckenvorgaben und Verzögerungen durch die Flugverkehrskontrollstelle,
 
-3.
+3. für Flüge nach Instrumentenflugregeln mindestens ein Instrumentenanflug einschließlich eines Fehlanflugverfahrens am Landeplatz und
 
-4.
+4. weitere Umstände, die eine Verzögerung der Landung oder einen erhöhten Kraftstoffverbrauch zur Folge haben.
 
 ## Abschnitt 4: Schlussvorschriften
 

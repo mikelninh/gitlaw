@@ -64,8 +64,4 @@ Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
 ### Anhang EV — Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III
 
-Abschnitt III
-
-2.
-
-11.
+2. Gesetz über die vermögensrechtlichen Verhältnisse der Deutschen Bundesbahn in der im Bundesgesetzblatt Teil III, Gliederungsnummer 931-2, veröffentlichten bereinigten Fassung mit folgender Maßgabe: Für § 1 finden die Vorschriften des Artikels 26 Abs. 1 und 2 des Vertrages Anwendung.

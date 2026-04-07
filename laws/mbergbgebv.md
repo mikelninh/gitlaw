@@ -11,7 +11,9 @@ Auf Grund des § 22 Absatz 4 in Verbindung mit Absatz 1 Satz 2 des Bundesgebühr
 
 ### § 1 — Erhebung von Gebühren und Auslagen
 
-(1) Für individuell zurechenbare öffentliche Leistungen nach dem Meeresbodenbergbaugesetz erhebt das Landesamt für Bergbau, Energie und Geologie Gebühren nach dem Gebührenverzeichnis der Anlage.(2) Auslagen werden gesondert nach Maßgabe des Bundesgebührengesetzes erhoben.
+(1) Für individuell zurechenbare öffentliche Leistungen nach dem Meeresbodenbergbaugesetz erhebt das Landesamt für Bergbau, Energie und Geologie Gebühren nach dem Gebührenverzeichnis der Anlage.
+
+(2) Auslagen werden gesondert nach Maßgabe des Bundesgebührengesetzes erhoben.
 
 ### § 2 — Übergangsbestimmung
 
@@ -22,5 +24,3 @@ Für die Erhebung von Gebühren und Auslagen für eine individuelle zurechenbare
 Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
 ### Anlage — (zu § 1 Absatz 1)
-
-(Fundstelle: BGBl. I 2021, 3714)NummerGebührentatbestandHöhe der Gebühr in Euro1Prüfung der Befürwortung eines Antragstellers für den Abschluss eines Vertrags für Tätigkeiten im Gebiet gegenüber der Internationalen Meeresbodenbehörde1.1mit einem Arbeitsplan nach § 4 Absatz 4 des Meeresbodenbergbaugesetzes (MBergG)1.1.1für Erforschung, einschließlich enthaltener Vor-Ort-Versuche5 000 bis 100 0001.1.2für Ausbeutung, einschließlich enthaltener Vor-Ort-Versuche10 000 bis 150 0001.1.3für Erforschung und Ausbeutung, einschließlich enthaltener Vor-Ort-Versuche15 000 bis 200 0001.1.4für gesonderte Vor-Ort-Versuche und Tests, je Versuch und Test5 000 bis 100 0001.2ohne Prüfung eines Arbeitsplans nach § 4 Absatz 7 MBergG1.2.1für Erforschung2 000 bis 30 0001.2.2für Ausbeutung3 000 bis 40 0001.2.3für Erforschung und Ausbeutung4 000 bis 50 0002Prüfung der Befürwortung eines Antrags an die Internationale Meeresbodenbehörde auf Verlängerung eines Vertrags nach § 4 Absatz 2 MBergG und nach Abschnitt 1 Absatz 9 der Anlage zum Übereinkommen vom 28. Juli 1994 zur Durchführung des Teils XI des Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982 (BGBl. 1994 II S. 2565)1 000 bis 20 0003Erlass einer nachträglichen Auflage zu einer erteilten Befürwortung nach § 4 Absatz 9 Satz 2 MBergG250 bis 5 000

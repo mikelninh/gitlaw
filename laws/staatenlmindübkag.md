@@ -10,11 +10,21 @@ Verminderung der Staatenlosigkeit und zu dem Übereinkommen vom 13. September
 
 ### Art 1
 
-Das Übereinkommen vom 30. August 1961 zur Verminderung der Staatenlosigkeit (BGBl. 1977 II S. 597) wird angewandt 1.zur Beseitigung von Staatenlosigkeit auf Personen, die staatenlos nach Artikel 1 Abs. 1 des Übereinkommens vom 28. September 1954 über die Rechtsstellung der Staatenlosen (BGBl. 1976 II S. 473) sind; 2.zur Verhinderung von Staatenlosigkeit oder Erhaltung der Staatsangehörigkeit auf Deutsche nach Artikel 116 Abs. 1 des Grundgesetzes. Die Verleihung der Staatsangehörigkeit zur Beseitigung von Staatenlosigkeit erfolgt durch Einbürgerung.
+Das Übereinkommen vom 30. August 1961 zur Verminderung der Staatenlosigkeit (BGBl. 1977 II S. 597) wird angewandt
+
+1. zur Beseitigung von Staatenlosigkeit auf Personen, die staatenlos nach Artikel 1 Abs. 1 des Übereinkommens vom 28. September 1954 über die Rechtsstellung der Staatenlosen (BGBl. 1976 II S. 473) sind;
+
+2. zur Verhinderung von Staatenlosigkeit oder Erhaltung der Staatsangehörigkeit auf Deutsche nach Artikel 116 Abs. 1 des Grundgesetzes.
 
 ### Art 2
 
-Ein seit der Geburt Staatenloser ist auf seinen Antrag einzubürgern, wenn er 1.im Geltungsbereich dieses Gesetzes oder an Bord eines Schiffes, das berechtigt ist, die Bundesflagge der Bundesrepublik Deutschland zu führen, oder in einem Luftfahrzeug, das das Staatszugehörigkeitszeichen der Bundesrepublik Deutschland führt, geboren ist, 2.seit fünf Jahren rechtmäßig seinen dauernden Aufenthalt im Geltungsbereich dieses Gesetzes hat und 3.den Antrag vor der Vollendung des einundzwanzigsten Lebensjahres stellt, es sei denn, daß er rechtskräftig zu einer Freiheits- oder Jugendstrafe von fünf Jahren oder mehr verurteilt worden ist. Für das Verfahren bei der Einbürgerung einschließlich der Bestimmung der örtlichen Zuständigkeit gelten die Vorschriften des Staatsangehörigkeitsrechts.
+Ein seit der Geburt Staatenloser ist auf seinen Antrag einzubürgern, wenn er
+
+1. im Geltungsbereich dieses Gesetzes oder an Bord eines Schiffes, das berechtigt ist, die Bundesflagge der Bundesrepublik Deutschland zu führen, oder in einem Luftfahrzeug, das das Staatszugehörigkeitszeichen der Bundesrepublik Deutschland führt, geboren ist,
+
+2. seit fünf Jahren rechtmäßig seinen dauernden Aufenthalt im Geltungsbereich dieses Gesetzes hat und
+
+3. den Antrag vor der Vollendung des einundzwanzigsten Lebensjahres stellt,
 
 ### (XXXX) Art 3 u. 4
 

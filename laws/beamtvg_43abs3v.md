@@ -19,33 +19,29 @@ Auf Grund des § 43 Abs. 3 Satz 2 und 3 des Beamtenversorgungsgesetzes vom 24. A
 
 (3) Zum Flugdienst gehören auch
 
-1.
+1. bei Luftfahrzeugen mit Strahl- oder Turbinenantrieba)das Rollen, Schweben oder Anschwimmen von der Park- zur Startposition und das Rollen, Schweben oder Abschwimmen nach dem Verlassen der Start- und Landebahn oder des Landepunktes zur Parkposition, b)der Betrieb im Stand vom Anlassen des Triebwerkes bis zum Stillstand des Triebwerkes sowie die Bewegung bei laufendem Triebwerk zum Zwecke von Funktionsprüfungen oder Positionswechsel, das Rollen, Schweben oder Anschwimmen von der Park- zur Startposition und das Rollen, Schweben oder Abschwimmen nach dem Verlassen der Start- und Landebahn oder des Landepunktes zur Parkposition, der Betrieb im Stand vom Anlassen des Triebwerkes bis zum Stillstand des Triebwerkes sowie die Bewegung bei laufendem Triebwerk zum Zwecke von Funktionsprüfungen oder Positionswechsel,
 
-a)
+2. bei Starrflüglern mit Kolbentriebwerk das Rollen auf nicht ordnungsgemäß ausgebauter und befestigter Oberfläche, die nicht durch Angehörige des Flugbetriebspersonals oder durch einen Luftfahrzeugführer vorher erkundet ist,
 
-b)
+3. im Luftnotfall der Absprung mit dem Fallschirm,
 
-2.
-
-3.
-
-4.
+4. im Luftrettungsdienst oder in der Ausbildung dazu Dienstverrichtungen im Gefahrenbereich der Rotoren eines Drehflüglers oder beim Abseilen oder Aufseilen an einem Drehflügler.
 
 ### § 2 — Besonders gefährdetes fliegendes Personal
 
-(1) Beamte, die sind Angehörige des besonders gefährdeten fliegenden Personals.
+(1) Beamte, die
 
-1.
+1. zur Besatzung eines Starrflüglers mit Strahl- oder Turbinenantrieb gehören,
 
-2.
+2. in der Ausbildung zum Angehörigen der Besatzung, zum Fluglehrer oder zum Testpiloten stehen oder auf einen anderen Luftfahrzeugtyp umgeschult werden,
 
-3.
+3. zum Lehrpersonal für die fliegerische Ausbildung oder zum Prüfpersonal für die Abnahme fliegerischer Prüfungen gehören,
 
-4.
+4. Dienstverrichtungen nach § 1 Abs. 3 vornehmen,
 
-5.
+5. einen besonders gefährlichen Auftrag (§ 3 Abs. 1) durchführen,
 
-6.
+6. zur Besatzung eines Luftfahrzeuges gehören, das sich in einem besonders gefährlichen Flug- oder Betriebszustand (§ 3 Abs. 3) befindet,
 
 (2) Für Beamte, die auf Grund eines dienstlich erteilten Auftrages in einem Luftfahrzeug des Bundes, eines Landes oder der verbündeten Streitkräfte mitfliegen, gilt Absatz 1 sinngemäß.
 
@@ -53,35 +49,35 @@ b)
 
 (1) Ein besonders gefährlicher Auftrag (§ 2 Abs. 1 Nr. 5) liegt vor bei vorgeschriebenen Flügen
 
-1.
+1. in einer Flughöhe von weniger als 500 Meter über Grund,
 
-2.
+2. mit Verlastung oder Abwurf von Gegenständen,
 
-3.
+3. im Luftrettungseinsatz, dessen Durchführung mit einer besonderen Lebensgefahr verbunden ist,
 
-4.
+4. im Langsamflug, Kunstflug oder Verbandsflug,
 
-5.
+5. zur Durchführung von Messungen im Rahmen der Flugsicherung oder Wettererkundung (Meßflug),
 
-6.
+6. im Gebirge bei einem seitlichen Abstand von weniger als 20 Meter zu einer Steilwand,
 
-7.
+7. zur Erprobung oder zum Nachfliegen von neuen Luftfahrzeugtypen oder Luftfahrzeugen im Rahmen einer beabsichtigten Änderung des bisherigen Verwendungszwecks,
 
-8.
+8. zur Abnahme von neuen Luftfahrzeugen,
 
-9.
+9. zur Überprüfung von überholten Luftfahrzeugen oder neuen oder erneuerten wesentlichen Luftfahrzeugteilen,
 
-10.
+10. zur Durchführung von Triebwerks- und Geräteerprobungen.
 
 (2) Einem besonders gefährlichen Auftrag im Sinne des Absatzes 1 Nr. 1, 3, 4 und 6 stehen die Fälle gleich, in denen sich abweichend von dem erteilten Flugauftrag die Notwendigkeit der dort bezeichneten Flugarten erst nach dem Start auf Grund der die Flugbedingungen beeinflussenden Umstände ergibt.
 
 (3) Ein besonders gefährlicher Flug- oder Betriebszustand (§ 2 Abs. 1 Nr. 6) liegt vor
 
-1.
+1. für die Dauer des Start- und Landevorganges (§ 1 Abs. 2),
 
-2.
+2. für die Dauer eines zur Durchführung des Flugauftrages notwendigen Durchfliegens von Schlechtwettergebieten, wenn das Luftfahrzeug nach Instrumentenflugregeln fliegen muß,
 
-3.
+3. wenn das Luftfahrzeug steuerungsunfähig ist.
 
 ### § 4 — Helm- und Schwimmtaucher
 
@@ -89,21 +85,21 @@ b)
 
 (2) Besonders gefährlicher Tauchdienst ist jede Dienstverrichtung,
 
-1.
+1. des Helmtauchers vom Schließen bis zum Öffnen des Helmfensters,
 
-2.
+2. des Schwimmtauchers vom Aufsetzen bis zum Absetzen der Schwimmaske.
 
 ### § 5 — Beamte im Bergrettungsdienst
 
-(1) Beamte, die sind während der Dienstverrichtung nach Absatz 2 Beamte im Bergrettungsdienst.
+(1) Beamte, die
 
-1.
+1. Bergführer sind oder an Bergführerlehrgängen teilnehmen,
 
-2.
+2. aus dienstlichen Gründen Bergnothilfe leisten,
 
-3.
+3. für die Bergnothilfe ausgebildet werden oder
 
-4.
+4. Ausbildungspersonal für die Fels- und Eisausbildung sind,
 
 (2) Bergrettungsdienst ist jede Dienstverrichtung, die beim Einsatz oder bei der Ausbildung zur Bergnothilfe ausgeübt wird, und zwar im Felsklettern ab Schwierigkeitsgrad III, im Eisgehen ab Schwierigkeitsgrad II oder unter sonstigen Bedingungen, mit denen eine besondere Lebensgefahr verbunden ist. Ausbildung sind auch alle Dienstverrichtungen im Sinne des Satzes 1, die notwendig sind, um den Beamten für die Bergnothilfe in Übung zu halten.
 

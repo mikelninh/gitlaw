@@ -16,4 +16,6 @@ Die nach Artikel 20 des Übereinkommens festgesetzten Benutzergebühren sind von
 
 ### Art 3
 
-(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.(2)
+(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
+
+(2)

@@ -14,15 +14,15 @@
 
 (3) Diese Verordnung gilt nicht
 
-1.
+1. für Schiffe, die zu hoheitlichen Zwecken eingesetzt sind und nicht Handelszwecken dienen, insbesondere Dienstschiffe und Forschungsschiffe, sowie Schiffe im Lotsenversetzdienst,
 
-2.
+2. mit Ausnahme der Nummern 3.1 und 8 der Anlage für Kriegsschiffe anderer Staaten und sonstige staatliche Schiffe, die nicht zu Handelszwecken eingesetzt werden,
 
-3.
+3. für Traditionsschiffe, deren Rumpflänge 45 Meter nicht übersteigt,
 
-4.
+4. für Sportfahrzeuge, die für nicht mehr als zwölf Personen zugelassen sind und deren Rumpflänge 45 Meter nicht übersteigt.
 
-(4) Diese Verordnung gilt ferner nicht für Bunker auf Schiffen unter 1 000 BRZ, Bordvorräte und Schiffsausrüstung.
+(4) Diese Verordnung gilt ferner nicht für Bunker auf Schiffen unter 1 000 BRZ, Bordvorräte und Schiffsausrüstung.
 
 ### § 2 — Folgen von Verstößen
 
@@ -40,264 +40,112 @@
 
 ### Anlage — (zu § 1 Abs. 1)
 
-1
+1 Begriffsbestimmungen Im Sinne dieser Verordnung sind
 
-1.1
+1.1 "Betreiber": Eigentümer, Reeder, Charterer oder Manager des Schiffes;
 
-1.2
+1.2 "Agent": jede Person, die dazu befugt oder beauftragt ist, im Namen des Schiffsbetreibers alle Schiffs- und Ladungsinformationen zu übermitteln;
 
-1.3
+1.3 "gefährliche Güter":-Stoffe und Gegenstände, die unter die jeweiligen Begriffsbestimmungen für die Klassen 1 bis 9 des IMDG-Codes fallen,-Stoffe, die bei der Beförderung als Schüttladung im IMSBC-Code als gefährliche Güter klassifiziert sind, oder-Stoffe, die in Tankschiffen befördert werden sollen unda)denen eine UN-Nummer zugeordnet worden ist oderb)die in Kapitel 17 des IBC-Codes aufgeführt sind und denen dort eine Verschmutzungskategorie zugeordnet ist und die in Kapitel 18 des IBC-Codes aufgeführt sind und denen dort eine Verschmutzungskategorie zugeordnet ist oderc)die in Kapitel 19 des IGC-Codes aufgeführt sind,-die im INF-Code genannten radioaktiven Stoffe; Stoffe und Gegenstände, die unter die jeweiligen Begriffsbestimmungen für die Klassen 1 bis 9 des IMDG-Codes fallen, Stoffe, die bei der Beförderung als Schüttladung im IMSBC-Code als gefährliche Güter klassifiziert sind, oder Stoffe, die in Tankschiffen befördert werden sollen unda)denen eine UN-Nummer zugeordnet worden ist oderb)die in Kapitel 17 des IBC-Codes aufgeführt sind und denen dort eine Verschmutzungskategorie zugeordnet ist und die in Kapitel 18 des IBC-Codes aufgeführt sind und denen dort eine Verschmutzungskategorie zugeordnet ist oderc)die in Kapitel 19 des IGC-Codes aufgeführt sind, denen eine UN-Nummer zugeordnet worden ist oder die in Kapitel 17 des IBC-Codes aufgeführt sind und denen dort eine Verschmutzungskategorie zugeordnet ist und die in Kapitel 18 des IBC-Codes aufgeführt sind und denen dort eine Verschmutzungskategorie zugeordnet ist oder die in Kapitel 19 des IGC-Codes aufgeführt sind, die im INF-Code genannten radioaktiven Stoffe;
 
--
+1.4 "umweltschädliche Güter":-Rohöl und Mineralölerzeugnisse laut Begriffsbestimmung in Anlage I des MARPOL-Übereinkommens,-flüssige Schadstoffe laut Begriffsbestimmung in Anlage II des MARPOL-Übereinkommens,-Schadstoffe laut Begriffsbestimmung in Anlage III des MARPOL-Übereinkommens; Rohöl und Mineralölerzeugnisse laut Begriffsbestimmung in Anlage I des MARPOL-Übereinkommens, flüssige Schadstoffe laut Begriffsbestimmung in Anlage II des MARPOL-Übereinkommens, Schadstoffe laut Begriffsbestimmung in Anlage III des MARPOL-Übereinkommens;
 
--
+1.5 "MARPOL-Übereinkommen": das Internationale Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe und das dazugehörige Protokoll von 1978 (BGBl. 1982 II S. 2), in der jeweils nach Maßgabe des deutschen Rechts geltenden Fassung;
 
--
+1.6 "Kollisionsverhütungsregeln": die Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See (BGBl. 1977 I S. 813), in der jeweils nach Maßgabe des deutschen Rechts geltenden Fassung;
 
-a)
+1.7 "IMDG-Code": der International Maritime Dangerous Goods Code, in der amtlichen deutschen Übersetzung, bekannt gegeben durch die Bekanntmachung vom 28. Februar 2009 (VkBl. 2009 S. 102);
 
-b)
+1.8 "IBC-Code": der Internationale Code für den Bau und die Ausrüstung von Schiffen zur Beförderung gefährlicher Chemikalien als Massengut (BAnz. Nr. 125a vom 12. Juli 1986), in der jeweils nach Maßgabe des deutschen Rechts geltenden Fassung;
 
-c)
+1.9 "IGC-Code": der Internationale Code für den Bau und die Ausrüstung von Schiffen zur Beförderung verflüssigter Gase als Massengut (BAnz. Nr. 125a vom 12. Juni 1986), in der jeweils nach Maßgabe des deutschen Rechts geltenden Fassung;
 
--
+1.10 „IMSBC-Code“: der International Maritime Solid Bulk Cargoes Code in der amtlichen deutschen Übersetzung bekannt gegeben am 15. Dezember 2009 (VkBl. 2009 S. 775);
 
-1.4
+1.11 "INF-Code": der Internationale Code für die sichere Beförderung von verpackten bestrahlten Kernbrennstoffen, Plutonium und hochradioaktiven Abfällen (BAnz. 2000 S. 23322) in der jeweils nach Maßgabe des deutschen Rechts geltenden Fassung;
 
--
+1.12 "Hafenbehörde": Behörde oder sonstige Stelle, die für die Entgegennahme und Weitergabe von Hafenanlaufmeldungen zuständig ist;
 
--
+1.13 "Maritime Verkehrssicherung": die von der Verkehrszentrale zur Verhütung von Kollisionen und Grundberührungen, zur Verkehrsablaufsteuerung oder zur Verhütung von der Schifffahrt ausgehender Gefahren für die Meeresumwelt gegebenen Verkehrsinformationen und Verkehrsunterstützungen sowie erlassenen Verfügungen zur Verkehrsregelung und -lenkung;
 
--
+1.14 "Verkehrsinformationen": nautische Warnnachrichten sowie Mitteilungen der Verkehrszentrale über die Verkehrslage, Fahrwasser- sowie Wetter- und Tideverhältnisse, die zu festgelegten Zeiten in regelmäßigen Abständen oder auf Anforderung einzelner Schiffe gegeben werden;
 
-1.5
+1.15 "Verkehrsunterstützungen": Hinweise und Warnungen der Verkehrszentrale an die Schifffahrt und Empfehlungen im Rahmen einer Schiffsberatung von der Verkehrszentrale aus durch Seelotsen nach § 23 Abs. 1 des Gesetzes über das Seelotswesen, die bei verminderter Sicht, auf Anforderung oder wenn die Verkehrszentrale es auf Grund der Verkehrsbeobachtung für erforderlich hält, gegeben werden und sich entsprechend den Erfordernissen der Verkehrslage, der Fahrwasser- sowie der Wetter- und Tideverhältnisse auch auf Positionen, Passierzeiten, Kurse, Geschwindigkeiten oder Manöver bestimmter Schiffe erstrecken können;
 
-1.6
+1.16 "Verkehrsregelungen": schifffahrtspolizeiliche Verfügungen der Verkehrszentrale im Einzelfall, die entsprechend den Erfordernissen der Verkehrslage, der Fahrwasser- sowie der Wetter- und Tideverhältnisse Regelungen über Vorfahrt, Überholen, Begegnen, Höchst- und Mindestgeschwindigkeiten oder über das Befahren einer Seeschifffahrtsstraße umfassen können;
 
-1.7
+1.17 "Innere Deutsche Bucht" (German Bight): das Seegebiet ergibt sich aus dem Anhang zu dieser Anlage;
 
-1.8
+1.18 "UN-Nummer": die zum Stoff gehörende Nummer gemäß den Empfehlungen, die vom Ausschuss der Sachverständigen der Vereinten Nationen für die Beförderung gefährlicher Güter vorgeschlagen wurde und in den in den Nummern 1.7 bis 1.10 dieser Anlage genannten Codes aufgeführt ist;
 
-1.9
+1.19 "AIS": Automatisches Schiffsidentifizierungssystem der Regel V/19.2.4 des Internationalen Übereinkommens von 1974 zum Schutz des menschlichen Lebens auf See (BGBl. 1979 II S. 141), das zuletzt nach Maßgabe des Gesetzes vom 22. Dezember 2003 (BGBl. 2003 II S. 2018) geändert worden ist.
 
-1.10
+2 Meldungen an die Zentrale Meldestelle
 
-1.11
+2.1 Allgemeine Meldungen
 
-1.12
+2.1.1 Meldung vor Einlaufen nach der Richtlinie 2002/59/EG des Europäischen Parlaments und des Rates vom 27. Juni 2002 über die Einrichtung eines gemeinschaftlichen Überwachungs- und Informationssystems für den Schiffsverkehr (ABl. L 208 vom 5.8.2002, S. 10) in der jeweils geltenden Fassung. Der Betreiber, Agent oder Schiffsführer eines Schiffes, das im Geltungsbereich dieser Verordnung verkehrt, ist verpflichtet, a)mindestens 24 Stunden im Voraus oderb)spätestens zu dem Zeitpunkt, zu dem das Schiff aus dem vorigen Hafen ausläuft, sofern die Reisezeit weniger als 24 Stunden beträgt, oderc)wenn der Anlaufhafen nicht bekannt ist oder sich während der Reise ändert, sobald diese Information vorliegt,die in Satz 2 bezeichneten Angaben der Zentralen Meldestelle zu übermitteln. Angaben im Sinne des Satzes 1 sind: a)Identifikation des Schiffes (Name, Rufzeichen und IMO-Schiffsidentifikationsnummer),b)Identifizierungsmerkmal des Bestimmungshafens,c)Voraussichtliche Zeit der Ankunft im Bestimmungshafen oder an der Lotsenstation und voraussichtliche Zeit des Auslaufens aus diesem Hafen undd)Gesamtzahl der an Bord befindlichen Personen. mindestens 24 Stunden im Voraus oder spätestens zu dem Zeitpunkt, zu dem das Schiff aus dem vorigen Hafen ausläuft, sofern die Reisezeit weniger als 24 Stunden beträgt, oder wenn der Anlaufhafen nicht bekannt ist oder sich während der Reise ändert, sobald diese Information vorliegt, Identifikation des Schiffes (Name, Rufzeichen und IMO-Schiffsidentifikationsnummer), Identifizierungsmerkmal des Bestimmungshafens, Voraussichtliche Zeit der Ankunft im Bestimmungshafen oder an der Lotsenstation und voraussichtliche Zeit des Auslaufens aus diesem Hafen und Gesamtzahl der an Bord befindlichen Personen.
 
-1.13
+2.1.2 Meldungen nach Ein- und Auslaufen nach der Richtlinie 2009/16/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über die Hafenstaatkontrolle (Neufassung) (ABl. L 131 vom 28.5.2009, S. 57) in der jeweils geltenden Fassung Ergänzend zur Meldung nach Nummer 2.1.1 ist der Betreiber, Agent oder Schiffsführer eines Schiffes unter fremder Flagge, das einen deutschen Hafen oder ein anderes Gebiet im Zuständigkeitsbereich eines deutschen Hafens anläuft oder ihn verlässt, verpflichtet, a)nach dem Einlaufen den genauen Zeitpunkt der Ankunft des Schiffes undb)nach dem Auslaufen den genauen Zeitpunkt des Auslaufens des Schiffessowie jeweils das Identifizierungsmerkmal des Hafens unverzüglich der Zentralen Meldestelle zu übermitteln. nach dem Einlaufen den genauen Zeitpunkt der Ankunft des Schiffes und nach dem Auslaufen den genauen Zeitpunkt des Auslaufens des Schiffes
 
-1.14
+2.2 Besondere Meldungen
 
-1.15
+2.2.1 Meldung vor Einlaufen und vor Auslaufen für Gefahrguttransporte nach der Richtlinie 2002/59/EG Der Betreiber, Agent oder Schiffsführer eines Schiffes, das gefährliche oder umweltschädliche Güter befördert, hat, wenn der nächste Anlaufhafen, Auslaufhafen, Liege- oder Ankerplatz im Geltungsbereich dieser Verordnung liegt oder eine Durchfahrt durch den Nord-Ostsee-Kanal beabsichtigt ist, spätestens beim Verlassen des letzten Auslaufhafens der Zentralen Meldestelle folgende Angaben zu übermitteln: a)Identifikation des Schiffes (Name, Rufzeichen und IMO-Schiffsidentifikationsnummer);b)letzter Auslaufhafen und Zeit des Auslaufens aus diesem Hafen;c)nächster Anlaufhafen, Liege- oder Ankerplatz;d)voraussichtliche Ankunftszeit im nächsten Anlaufhafen, Liege- oder Ankerplatz oder an der Lotsenstation;e)Gesamtzahl der an Bord befindlichen Personen;f)gefährliche oder umweltschädliche Güter mit dem Richtigen Technischen Namen beziehungsweise dem Stoff- oder Produktnamen und bei brennbaren Flüssigkeiten nach dem IMDG-Code dem Flammpunkt;g)die Gefahr auslösenden Stoffe und die von den Vereinten Nationen zugeteilten UN-Nummern;h)die nach IMDG-Code bestimmte Gefahrgutklasse und Kategorie des Schiffes im Sinne des INF-Codes;i)die Mengen der in Buchstabe g genannten Güter und ihr Aufbewahrungsort an Bord, Verpackungsart und Verpackungsgruppe sowie, soweit sie in anderen Beförderungseinheiten als festen Tanks befördert werden, die Art der Beförderungseinheit und deren Identifikationsnummer;j)Lade- und Löschhafen der Ladung;k)Bestätigung, dass eine Aufstellung, ein Verzeichnis oder ein Lageplan in geeigneter Form zur Angabe der an Bord des Schiffes geladenen gefährlichen oder umweltschädlichen Güter und ihrer jeweiligen Lage im Schiff beziehungsweise ein entsprechender Stauplan auf der Brücke oder in der Schiffsführungszentrale vorgehalten wird;l)eine Adresse, unter der detaillierte Informationen über die Ladung erhältlich sind, sowie die Notrufdaten des Versenders oder jeder anderen Person oder Einrichtung, die im Besitz von Informationen über die physikalisch chemischen Merkmale der Erzeugnisse und über die im Notfall zu ergreifenden Maßnahmen ist;m)die Menge der als vorhergehende Ladung beförderten Massengüter im Sinne des § 30 Absatz 1 Nummer 1 der Seeschifffahrtsstraßen-Ordnung, soweit die Tanks nicht gereinigt und entgast oder vollständig inertisiert sind;n)Merkmale und geschätzte Menge des mitgeführten Bunkertreibstoffs.Soweit die Angaben nach den Buchstaben c, d und j beim Verlassen des letzten Auslaufhafens nicht verfügbar sind, ist die vollständige Meldung erneut zu machen, sobald der nächste Anlaufhafen, Liege- oder Ankerplatz bekannt ist. Identifikation des Schiffes (Name, Rufzeichen und IMO-Schiffsidentifikationsnummer); letzter Auslaufhafen und Zeit des Auslaufens aus diesem Hafen; nächster Anlaufhafen, Liege- oder Ankerplatz; voraussichtliche Ankunftszeit im nächsten Anlaufhafen, Liege- oder Ankerplatz oder an der Lotsenstation; Gesamtzahl der an Bord befindlichen Personen; gefährliche oder umweltschädliche Güter mit dem Richtigen Technischen Namen beziehungsweise dem Stoff- oder Produktnamen und bei brennbaren Flüssigkeiten nach dem IMDG-Code dem Flammpunkt; die Gefahr auslösenden Stoffe und die von den Vereinten Nationen zugeteilten UN-Nummern; die nach IMDG-Code bestimmte Gefahrgutklasse und Kategorie des Schiffes im Sinne des INF-Codes; die Mengen der in Buchstabe g genannten Güter und ihr Aufbewahrungsort an Bord, Verpackungsart und Verpackungsgruppe sowie, soweit sie in anderen Beförderungseinheiten als festen Tanks befördert werden, die Art der Beförderungseinheit und deren Identifikationsnummer; Lade- und Löschhafen der Ladung; Bestätigung, dass eine Aufstellung, ein Verzeichnis oder ein Lageplan in geeigneter Form zur Angabe der an Bord des Schiffes geladenen gefährlichen oder umweltschädlichen Güter und ihrer jeweiligen Lage im Schiff beziehungsweise ein entsprechender Stauplan auf der Brücke oder in der Schiffsführungszentrale vorgehalten wird; eine Adresse, unter der detaillierte Informationen über die Ladung erhältlich sind, sowie die Notrufdaten des Versenders oder jeder anderen Person oder Einrichtung, die im Besitz von Informationen über die physikalisch chemischen Merkmale der Erzeugnisse und über die im Notfall zu ergreifenden Maßnahmen ist; die Menge der als vorhergehende Ladung beförderten Massengüter im Sinne des § 30 Absatz 1 Nummer 1 der Seeschifffahrtsstraßen-Ordnung, soweit die Tanks nicht gereinigt und entgast oder vollständig inertisiert sind; Merkmale und geschätzte Menge des mitgeführten Bunkertreibstoffs.
 
-1.16
+2.2.2 Meldung vor Einlaufen für erweiterte Überprüfung nach der Richtlinie 2009/16/EG Der Betreiber, Agent oder Schiffsführer eines Schiffes unter fremder Flagge, das nach Artikel 14 der Richtlinie 2009/16/EG für eine erweiterte Überprüfung in Betracht kommt, hat der Zentralen Meldestelle 72 Stunden vor der erwarteten Ankunft in einem deutschen Hafen oder einem anderen Gebiet im Zuständigkeitsbereich eines deutschen Hafens folgende Angaben zu melden: a)Identifikation des Schiffes (Name, Rufzeichen und IMO-Schiffsidentifikationsnummer);b)Identifizierungsmerkmal des Hafens, der angelaufen werden soll;c)vorgesehene Dauer der Liegezeit, einschließlich des voraussichtlichen Zeitpunkts der Ankunft und des Auslaufens;d)für Tankschiffe: aa)Bauweise: einfache Hülle, einfache Hülle mit getrenntem Ballasttank (SBT), Doppelhülle;bb)Zustand der Lade- und Ballasttanks: voll, leer, inertisiert;cc)Ladungsart und -volumen;e)geplante Tätigkeiten im Bestimmungshafen oder am Bestimmungsankerplatz (Laden, Löschen, sonstige);f)geplante vorgeschriebene Kontrollüberprüfungen und wesentliche Instandhaltungs- und Instandsetzungsarbeiten, die während des Aufenthalts im Bestimmungshafen durchzuführen sind;g)Datum der letzten erweiterten Überprüfung in der unter die Pariser Vereinbarung fallenden Region. Identifikation des Schiffes (Name, Rufzeichen und IMO-Schiffsidentifikationsnummer); Identifizierungsmerkmal des Hafens, der angelaufen werden soll; vorgesehene Dauer der Liegezeit, einschließlich des voraussichtlichen Zeitpunkts der Ankunft und des Auslaufens; für Tankschiffe: aa)Bauweise: einfache Hülle, einfache Hülle mit getrenntem Ballasttank (SBT), Doppelhülle;bb)Zustand der Lade- und Ballasttanks: voll, leer, inertisiert;cc)Ladungsart und -volumen; Bauweise: einfache Hülle, einfache Hülle mit getrenntem Ballasttank (SBT), Doppelhülle; Zustand der Lade- und Ballasttanks: voll, leer, inertisiert; Ladungsart und -volumen; geplante Tätigkeiten im Bestimmungshafen oder am Bestimmungsankerplatz (Laden, Löschen, sonstige); geplante vorgeschriebene Kontrollüberprüfungen und wesentliche Instandhaltungs- und Instandsetzungsarbeiten, die während des Aufenthalts im Bestimmungshafen durchzuführen sind; Datum der letzten erweiterten Überprüfung in der unter die Pariser Vereinbarung fallenden Region.
 
-1.17
+2.3 Zentrale Meldestelle und Meldeverfahren
 
-1.18
+2.3.1 Zentrale Meldestelle Zentrale Meldestelle im Sinne dieser Verordnung ist das Havariekommando (Zentrale Meldestelle), Am Alten Hafen 2, in 27472 Cuxhaven, Tel.: + 49 (0) 30 185420 1400, Fax: + 49 (0) 30 185420 2408. Das Havariekommando betreibt im Sinne des § 2 Nummer 4 des Seeschifffahrt-Meldeportal-Gesetzes das Zentrale Meldeportal des Bundes.
 
-1.19
+2.3.2 Ersatzmeldestelle bei erweiterten Überprüfungen Ist dem Betreiber, Agent oder Schiffsführer eine Meldung nach Nummer 2.2.2 an die Zentrale Meldestelle nicht möglich, müssen die Angaben als elektronisches Dokument an die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation, Ottenser Hauptstraße 54, 22765 Hamburg (E-Mail: psc-germany@bg-verkehr.de) gemeldet werden.
 
-2
+2.3.3 Meldeverfahren Der Betreiber, der Agent oder der Schiffsführer hat die nach den Nummern 2.1 und 2.2 erforderlichen Meldungen über das Internet unter www.national-single-window.de im Zentralen Meldeportal des Bundes oder über die im Bundesanzeiger bekannt gemachten Hafenbehörden und Hafeninformationssysteme vorzunehmen. Die Meldung muss Namen, Anschrift, Ruf- und Telefax-Nummer des Meldenden enthalten. Der meldende Betreiber, Agent oder Schiffsführer hat sicherzustellen, dass die erforderlichen Meldungen je Schiffsreise nur einmal abgegeben werden.
 
-2.1
+2.4 Möglichkeit der befreienden Meldung an eine Hafenbehörde Der Betreiber, der Agent oder der Schiffsführer eines Schiffes ist von der Meldung der Angaben nach den Nummern 2.1.1, 2.1.2 und 2.2.1 an die Zentrale Meldestelle befreit, wenn er diese Angaben einer Hafenbehörde gemeldet hat und die Hafenbehörde in der Lage ist, die Angaben der Zentralen Meldestelle auf deren Anfrage 24 Stunden am Tag unverzüglich im Wege der Datenfernübertragung zu übermitteln. Die Hafenbehörden, die diese Voraussetzung erfüllen, werden vom Bundesministerium für Digitales und Verkehr im Verkehrsblatt und nachrichtlich auf der Internetseite der Zentralen Meldestelle unter www.national-single-window.de bekannt gemacht.
 
-2.1.1
+2.5 Ausnahmeregelung für Liniendienste
 
-a)
+2.5.1 Nationale Liniendienste
 
-b)
+2.5.1.1 Befreiung von der Gefahrgutmeldung Schiffe eines Liniendienstes zwischen deutschen Häfen, der mindestens einen Monat lang betrieben werden soll, sind auf Fahrten von bis zu 12 Stunden planmäßiger Dauer von der Pflicht zur Abgabe der Meldung nach Nummer 2.2.1 befreit, soweit der Betreiber des jeweiligen Liniendienstes eine Liste der betreffenden Schiffe erstellt und laufend aktualisiert sowie diese als elektronisches Dokument an die Zentrale Meldestelle nach Nummer 2.3.1 (E-Mail: MLZ@havariekommando.de) übermittelt hat. Der Betreiber des jeweiligen Liniendienstes hat sicherzustellen, dass für jede Fahrt die Angaben nach Nummer 2.2.1 24 Stunden am Tag auf Anforderung der Zentralen Meldestelle unverzüglich übermittelt werden können. Jede Abweichung von drei oder mehr Stunden von der voraussichtlichen Zeit der Ankunft im Bestimmungshafen ist an die Zentrale Meldestelle (E-Mail: MLZ@havariekommando.de oder telefonisch: 030 54 18 20 1400) zu melden.
 
-c)
+2.5.1.2 Befreiung von der Personenmeldung vor Einlaufen Fahrgastschiffe im Liniendienst zwischen deutschen Häfen, der mindestens einen Monat lang betrieben werden soll, sind von der Verpflichtung nach Nummer 2.1.1 Satz 1 und Satz 2 Buchstabe d, die Zahl der an Bord befindlichen Personen vor Einlaufen an die Zentrale Meldestelle zu melden, befreit,a)wenn die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation nach Abschnitt A.III.a. Nummer 1.2 Buchstabe c der Anlage 1 zur Schiffssicherheitsverordnung eine Befreiung für die Meldung der Personenanzahl vor Abfahrt nach Artikel 9 Absatz 2 Satz 1 der Richtlinie 98/41/EG des Rates vom 18. Juni 1998 über die Registrierung der an Bord von Fahrgastschiffen im Verkehr nach oder von einem Hafen eines Mitgliedstaates der Gemeinschaft befindlichen Personen (ABl. L 188 vom 2.7.1998, S. 35) in der jeweils geltenden Fassung erteilt hat undb)der Betreiber des jeweiligen Liniendienstes eine Liste der betreffenden Schiffe erstellt und laufend aktualisiert sowie diese als elektronisches Dokument an die Zentrale Meldestelle nach Nummer 2.3.1 (E-Mail: MLZ@havariekommando.de) übermittelt hat.Der Betreiber des jeweiligen Liniendienstes hat sicherzustellen, dass für jede Fahrt die Angabe nach Nummer 2.1.1 Satz 2 Buchstabe d 24 Stunden am Tag auf Anforderung der zuständigen Behörde unverzüglich übermittelt werden kann. wenn die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation nach Abschnitt A.III.a. Nummer 1.2 Buchstabe c der Anlage 1 zur Schiffssicherheitsverordnung eine Befreiung für die Meldung der Personenanzahl vor Abfahrt nach Artikel 9 Absatz 2 Satz 1 der Richtlinie 98/41/EG des Rates vom 18. Juni 1998 über die Registrierung der an Bord von Fahrgastschiffen im Verkehr nach oder von einem Hafen eines Mitgliedstaates der Gemeinschaft befindlichen Personen (ABl. L 188 vom 2.7.1998, S. 35) in der jeweils geltenden Fassung erteilt hat und der Betreiber des jeweiligen Liniendienstes eine Liste der betreffenden Schiffe erstellt und laufend aktualisiert sowie diese als elektronisches Dokument an die Zentrale Meldestelle nach Nummer 2.3.1 (E-Mail: MLZ@havariekommando.de) übermittelt hat.
 
-a)
+2.5.1.3 Vereinfachte Personenmeldung Fahrgastschiffe im Liniendienst zwischen deutschen Häfen, der mindestens einen Monat lang betrieben werden soll, sind von der Pflicht zur Meldung der Angaben nach Nummer 2.1.1 Satz 2 Buchstabe c und d vor Einlaufen befreit, wenn vor Abfahrt eine Meldung der Zahl der Personen an Bord nach Artikel 4 Absatz 2 der Richtlinie 98/41/EG erfolgt. Der Betreiber des jeweiligen Liniendienstes muss eine Liste der betreffenden Schiffe erstellen und laufend aktualisieren sowie diese als elektronisches Dokument an die Zentrale Meldestelle nach Nummer 2.3.1 (E-Mail: MLZ@havariekommando.de) übermitteln. Der Betreiber des jeweiligen Liniendienstes hat sicherzustellen, dass für jede Fahrt die Angabe nach Nummer 2.1.1 Satz 2 Buchstabe c und d 24 Stunden am Tag auf Anforderung der zuständigen Behörde unverzüglich übermittelt werden kann.
 
-b)
+2.5.1.4 Befreiung von der Meldung vor Einlaufen Schiffe im Liniendienst zwischen deutschen Häfen, der mindestens einen Monat lang betrieben werden soll, sind von der Pflicht zur Meldung vor Einlaufen nach der Nummer 2.1.1 befreit, wenna)das jeweilige Schiff keine gefährlichen oder umweltschädlichen Güter befördert oder wenn es nach Nummer 2.5.1.1 von der Meldung für Gefahrguttransporte befreit ist,b)eine Befreiung nach Nummer 2.5.1.2 Buchstabe a vorliegt,c)es sich nicht um ein Schiff im Sinne der Regel 2 Absatz 1.1 des Kapitels XI-2 der Anlage des SOLAS-Übereinkommens handelt oder eine Befreiung nach Artikel 7 Absatz 1 der Verordnung (EG) Nr. 725/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Erhöhung der Gefahrenabwehr auf Schiffen und in Hafenanlagen (ABl. L 129 vom 29.4.2004, S. 6) in der jeweils geltenden Fassung vorliegt undd)im Falle eines Fahrgastschiffes die zuständigen Behörden der vom Liniendienst bedienten Häfen eine Befreiung nach Artikel 9 der Richtlinie (EU) 2019/883 des Europäischen Parlaments und des Rates vom 17. April 2019 über Hafenauffangeinrichtungen für die Entladung von Abfällen von Schiffen, zur Änderung der Richtlinie 2010/65/EU und zur Aufhebung der Richtlinie 2000/59/EG (ABl. L 151 vom 7.6.2019, S. 116) erteilt haben.Der Betreiber des jeweiligen Liniendienstes muss eine Liste der betreffenden Schiffe erstellen und laufend aktualisieren sowie diese als elektronisches Dokument an die Zentrale Meldestelle nach Nummer 2.3.1 (E-Mail: MLZ@havariekommando.de) übermitteln. Der Betreiber des jeweiligen Liniendienstes hat sicherzustellen, dass für jede Fahrt 24 Stunden am Tag auf Anforderung der zuständigen Behörde unverzüglich a)die Angaben nach Nummer 2.1.1 Satz 2 Buchstabe c und d sowieb)der Nachweis über das Vorliegen der Voraussetzungen nach Satz 1übermittelt werden können. das jeweilige Schiff keine gefährlichen oder umweltschädlichen Güter befördert oder wenn es nach Nummer 2.5.1.1 von der Meldung für Gefahrguttransporte befreit ist, eine Befreiung nach Nummer 2.5.1.2 Buchstabe a vorliegt, es sich nicht um ein Schiff im Sinne der Regel 2 Absatz 1.1 des Kapitels XI-2 der Anlage des SOLAS-Übereinkommens handelt oder eine Befreiung nach Artikel 7 Absatz 1 der Verordnung (EG) Nr. 725/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Erhöhung der Gefahrenabwehr auf Schiffen und in Hafenanlagen (ABl. L 129 vom 29.4.2004, S. 6) in der jeweils geltenden Fassung vorliegt und im Falle eines Fahrgastschiffes die zuständigen Behörden der vom Liniendienst bedienten Häfen eine Befreiung nach Artikel 9 der Richtlinie (EU) 2019/883 des Europäischen Parlaments und des Rates vom 17. April 2019 über Hafenauffangeinrichtungen für die Entladung von Abfällen von Schiffen, zur Änderung der Richtlinie 2010/65/EU und zur Aufhebung der Richtlinie 2000/59/EG (ABl. L 151 vom 7.6.2019, S. 116) erteilt haben. die Angaben nach Nummer 2.1.1 Satz 2 Buchstabe c und d sowie der Nachweis über das Vorliegen der Voraussetzungen nach Satz 1
 
-c)
+2.5.2 Internationale Liniendienste Einem internationalen Liniendienst kann auf schriftlichen Antrag bei der Generaldirektion Wasserstraßen und Schifffahrt eine Ausnahme genehmigt werden, soweit die übrigen Mitgliedstaaten der Europäischen Union zugestimmt haben. Nach Erteilung der Genehmigung gilt Nummer 2.5.1 entsprechend.
 
-d)
+2.6 Meldungen, die nach der Verordnung (EU) 2019/1239 abzugeben sind, können gemäß Artikel 7 Absatz 2 und 3 der Verordnung (EU) 2019/1239 über das von der Zentralen Meldestelle nach Nummer 2.3.1 betriebene Zentrale Meldeportal des Bundes abgegeben werden. Sicherheitsmeldungen im Sinne des Abschnitts A Nummer 5 des Anhangs der Verordnung (EU) 2019/1239, die nach § 10 Absatz 3 Satz 1 der See-Eigensicherungsverordnung zu übermitteln sind, können gemäß Artikel 7 Absatz 2 und 3 der Verordnung (EU) 2019/1239 über das Zentrale Meldeportal des Bundes im Internet unter www.national-single-window.de abgegeben werden.
 
-2.1.2
+3 Meldungen bei Anlaufen bestimmter Seegebiete
 
-a)
+3.1 Meldung bei Ansteuerung der Inneren Deutschen Bucht Der Schiffsführer eines aus westlicher oder nördlicher Richtung die Innere Deutsche Bucht anlaufenden Schiffes oder Schub- und Schleppverbandes mit einer Bruttoraumzahl von mehr als 300 hat, unabhängig davon, ob das Verkehrstrennungsgebiet „German Bight Western Approach“ benutzt wird, beim Passieren des Meridians 007° 10' E oder, aus nördlicher oder nordwestlicher Richtung anlaufend, beim Passieren des Breitenparallels 54° 20' N, folgende Angaben der Verkehrszentrale „German Bight Traffic“ über UKW-Sprechfunk (UKW-Kanal 79 oder 80) oder über ein vorhandenes AIS zu melden: a)Name, Unterscheidungssignal, gegebenenfalls IMO-Schiffsidentifikationsnummer und Art des Schiffes;b)Position des Schiffes;c)Länge, Breite und aktueller Frischwassertiefgang des Schiffes in Metern;d)Bruttoraumzahl des Schiffes;e)letzter Auslauf- und nächster Anlaufhafen des Schiffes;f)Angabe, ob verflüssigte Gase, Chemikalien oder Erdöl und Erdölprodukte als Massengut befördert werden, oder ob solche Güter befördert worden sind und danach die Tanks nicht gereinigt und entgast oder vollständig inertisiert worden sind;g)Angabe, ob gefährliche oder umweltschädliche Güter befördert werden;h)Erklärung, ob Mängel an Schiff oder Ladung vorliegen;i)Betreiber oder Agent oder deren Bevollmächtigte;j)Gesamtzahl der an Bord befindlichen Personen.Nach Abgabe der Meldung muss das Schiff ständig auf UKW-Kanal 70, 79, 80 oder 16 empfangsbereit sein. Name, Unterscheidungssignal, gegebenenfalls IMO-Schiffsidentifikationsnummer und Art des Schiffes; Position des Schiffes; Länge, Breite und aktueller Frischwassertiefgang des Schiffes in Metern; Bruttoraumzahl des Schiffes; letzter Auslauf- und nächster Anlaufhafen des Schiffes; Angabe, ob verflüssigte Gase, Chemikalien oder Erdöl und Erdölprodukte als Massengut befördert werden, oder ob solche Güter befördert worden sind und danach die Tanks nicht gereinigt und entgast oder vollständig inertisiert worden sind; Angabe, ob gefährliche oder umweltschädliche Güter befördert werden; Erklärung, ob Mängel an Schiff oder Ladung vorliegen; Betreiber oder Agent oder deren Bevollmächtigte; Gesamtzahl der an Bord befindlichen Personen.
 
-b)
+3.2 Meldung bei Anlaufen des bundeseigenen Hafens Helgoland Der Betreiber, der Agent oder der Schiffsführer eines Schiffes, dessen nächster Anlaufhafen der bundeseigene Hafen Helgoland ist, muss 24 Stunden im Voraus, spätestens jedoch beim Auslaufen aus dem zuletzt angelaufenen Hafen oder sobald bekannt ist, dass Helgoland angelaufen wird, der zuständigen Hafenbehörde folgende Angaben melden: a)Name und Adresse des Meldenden;b)Identifikation des Schiffes (Name, Unterscheidungssignal, IMO-Schiffsidentifikationsnummer);c)voraussichtliche Ankunftszeit;d)voraussichtliche Zeit des Wiederauslaufens;e)Gesamtzahl der an Bord befindlichen Personen. Name und Adresse des Meldenden; Identifikation des Schiffes (Name, Unterscheidungssignal, IMO-Schiffsidentifikationsnummer); voraussichtliche Ankunftszeit; voraussichtliche Zeit des Wiederauslaufens; Gesamtzahl der an Bord befindlichen Personen.
 
-2.2
+4 (weggefallen)
 
-2.2.1
+5 Maritime Verkehrssicherung
 
-a)
+5.1 Der Schiffsverkehr wird im Rahmen der maritimen Verkehrssicherung überwacht.
 
-b)
+5.2 Zur Gewährleistung einer sicheren Schiffsführung hat der Schiffsführer im Rahmen seiner seemännischen Sorgfaltspflicht gemäß Regel 2 der Kollisionsverhütungsregeln beim An- und Auslaufen die in deutscher, auf Anforderung in englischer Sprache gegebenen Verkehrsinformationen und -unterstützungen unverzüglich entsprechend den Bedingungen der jeweiligen Verkehrssituation zu berücksichtigen und den getroffenen Verkehrsregelungen nachzukommen.
 
-c)
+5.3 Die Tätigkeit der maritimen Verkehrssicherung entbindet den Schiffsführer nicht von der Pflicht, eigenverantwortlich die Kollisionsverhütungsregeln und im Bereich der deutschen Hoheitsbefugnisse die ergänzenden nationalen Sondervorschriften zu befolgen.
 
-d)
+6 Verpflichtung zur Benutzung des Verkehrstrennungsgebietes "German Bight Western Approach" (Tiefwasserweg) Von Westen die Innere Deutsche Bucht ansteuernde oder sie verlassendea)Tankschiffe mit einer Bruttoraumzahl von mehr als 10 000, die Öle nach Anlage I des MARPOL-Übereinkommens befördern,b)Tankschiffe mit einer Bruttoraumzahl von mehr als 10 000, die schädliche flüssige Stoffe der Gruppe Z nach Anlage II des MARPOL-Übereinkommens befördern,c)Tankschiffe mit einer Bruttoraumzahl von mehr als 5 000, die schädliche flüssige Stoffe der Gruppe X oder Y nach Anlage II des MARPOL-Übereinkommens befördern,d)Gastankschiffe mit einer Bruttoraumzahl von mehr als 10 000, die Flüssiggase befördern, Tankschiffe mit einer Bruttoraumzahl von mehr als 10 000, die Öle nach Anlage I des MARPOL-Übereinkommens befördern, Tankschiffe mit einer Bruttoraumzahl von mehr als 10 000, die schädliche flüssige Stoffe der Gruppe Z nach Anlage II des MARPOL-Übereinkommens befördern, Tankschiffe mit einer Bruttoraumzahl von mehr als 5 000, die schädliche flüssige Stoffe der Gruppe X oder Y nach Anlage II des MARPOL-Übereinkommens befördern, Gastankschiffe mit einer Bruttoraumzahl von mehr als 10 000, die Flüssiggase befördern, haben das Verkehrstrennungsgebiet "German Bight Western Approach" zu befahren.
 
-e)
+7 Wegerechtschiffe
 
-f)
+7.1 Schiffe, die die Innere Deutsche Bucht anlaufen, gelten als Wegerechtschiffe, wenn sie auf den Fahrtstrecken vom Feuerschiff "GB" oder von der Tiefwasserreede zur Jade, Weser oder Elbe auf Grund ihres Tiefgangs in den voraus liegenden Revieren tidegebunden fahren müssen und deshalb das Wegerecht in Anspruch nehmen. Sie haben dies der zuständigen Verkehrszentrale zu melden. Sie gelten als manövrierbehinderte Schiffe im Sinne der Regel 3 Buchstabe g der Kollisionsverhütungsregeln und haben die Lichter und Signalkörper nach Regel 27 Buchstabe b der Kollisionsverhütungsregeln zu führen.
 
-g)
+7.2 Die Revierfahrt darf nur dann angetreten werden, wenn in Absprache mit der zuständigen Verkehrszentrale der Tidefahrplan des zuständigen Wasserstraßen- und Schifffahrtsamtes eingehalten werden kann.
 
-h)
+8 Verpflichtung zur Annahme eines Lotsen Soweit in den Lotsverordnungen Elbe vom 8. April 2003 (BAnz. S. 9989), Weser/Jade vom 25. Februar 2003 (BAnz. S. 3702) und Ems vom 25. Februar 2003 (BAnz. S. 3703) in der jeweils geltenden Fassung nichts anderes bestimmt ist, haben in der Inneren Deutschen Bucht außerhalb des deutschen Küstenmeeres einen Seelotsen anzunehmen:a)auf den Fahrtstrecken zu einem deutschen Hafen ab der Lotsenversetzposition bei Tonne "GW/TG" in Richtung Außenposition des Lotsenschiffes vor der Emsmündung:Tankschiffe im Sinne des Artikels 21 Abs. 1 der Schifffahrtsordnung Emsmündung vom 22. Dezember 1986 (BGBl.1987 II S. 141) in der jeweils geltenden Fassung mit einer Länge über alles von 150 m oder einer größten Breite von 23 m und mehr;b)auf den Fahrtstrecken ab der Lotsenversetzposition im Verkehrstrennungsgebiet "Jade Approach" einkommend 5 Seemeilen nördlich der Tonne "TG 18" in Richtung Außenposition des Lotsenschiffes vor der Wesermündung:aa)Tankschiffe im Sinne des § 30 Abs. 1 der Seeschifffahrtsstraßen-Ordnung mit einer Länge über alles von 150 m oder einer größten Breite von 23 m und mehr; mit einer Länge ab 300 m oder einem Tiefgang von 16,50 m und mehr sind zwei Seelotsen anzunehmen,bb)andere Massengutschiffe mit einer Länge über alles von 250 m oder einer größten Breite von 40 m oder einem Tiefgang von 13,50 m und mehr,cc)andere Seeschiffe mit einer Länge über alles von 350 m oder einer größten Breite von 45 m und mehr. auf den Fahrtstrecken zu einem deutschen Hafen ab der Lotsenversetzposition bei Tonne "GW/TG" in Richtung Außenposition des Lotsenschiffes vor der Emsmündung: Tankschiffe im Sinne des Artikels 21 Abs. 1 der Schifffahrtsordnung Emsmündung vom 22. Dezember 1986 (BGBl.1987 II S. 141) in der jeweils geltenden Fassung mit einer Länge über alles von 150 m oder einer größten Breite von 23 m und mehr; auf den Fahrtstrecken ab der Lotsenversetzposition im Verkehrstrennungsgebiet "Jade Approach" einkommend 5 Seemeilen nördlich der Tonne "TG 18" in Richtung Außenposition des Lotsenschiffes vor der Wesermündung:aa)Tankschiffe im Sinne des § 30 Abs. 1 der Seeschifffahrtsstraßen-Ordnung mit einer Länge über alles von 150 m oder einer größten Breite von 23 m und mehr; mit einer Länge ab 300 m oder einem Tiefgang von 16,50 m und mehr sind zwei Seelotsen anzunehmen,bb)andere Massengutschiffe mit einer Länge über alles von 250 m oder einer größten Breite von 40 m oder einem Tiefgang von 13,50 m und mehr,cc)andere Seeschiffe mit einer Länge über alles von 350 m oder einer größten Breite von 45 m und mehr. Tankschiffe im Sinne des § 30 Abs. 1 der Seeschifffahrtsstraßen-Ordnung mit einer Länge über alles von 150 m oder einer größten Breite von 23 m und mehr; mit einer Länge ab 300 m oder einem Tiefgang von 16,50 m und mehr sind zwei Seelotsen anzunehmen, andere Massengutschiffe mit einer Länge über alles von 250 m oder einer größten Breite von 40 m oder einem Tiefgang von 13,50 m und mehr, andere Seeschiffe mit einer Länge über alles von 350 m oder einer größten Breite von 45 m und mehr. Die in den jeweiligen Lotsverordnungen vorgesehenen Interpolationsmöglichkeiten hinsichtlich der Länge und Breite bleiben unberührt.
 
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-2.2.2
-
-a)
-
-b)
-
-c)
-
-d)
-
-aa)
-
-bb)
-
-cc)
-
-e)
-
-f)
-
-g)
-
-2.3
-
-2.3.1
-
-2.3.2
-
-2.3.3
-
-2.4
-
-2.5
-
-2.5.1
-
-2.5.1.1
-
-2.5.1.2
-
-a)
-
-b)
-
-2.5.1.3
-
-2.5.1.4
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-2.5.2
-
-2.6
-
-3
-
-3.1
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-3.2
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-4
-
-5
-
-5.1
-
-5.2
-
-5.3
-
-6
-
-a)
-
-b)
-
-c)
-
-d)
-
-7
-
-7.1
-
-7.2
-
-8
-
-a)
-
-b)
-
-aa)
-
-bb)
-
-cc)
-
-9
+9 (weggefallen)
 
 ### Anhang — (zu § 1 Abs. 1 Nr. 1.17)
-
-(Inhalt: Nicht darstellbare topographische Karte,

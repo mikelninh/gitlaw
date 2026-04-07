@@ -11,11 +11,15 @@ Das Bundesministerium für Digitales und Staatsmodernisierung verordnet aufgrund
 
 ### § 1 — Architekturvorgaben für informationstechnische Systeme
 
-(1) Informationstechnische Systeme, die für den übergreifenden informationstechnischen Zugang zu den Verwaltungsleistungen von Bund und Ländern genutzt werden, sind nach den Architekturvorgaben auszugestalten, die in der nach Absatz 2 jeweils bekanntgemachten Fassung der vom IT-Planungsrat beschlossenen Föderalen IT‑Architekturrichtlinie als Regeln der Nationalen Architekturrichtlinie und als Föderale Ergänzungen aufgelistet sind.(2) Die am 26. März 2025 vom IT-Planungsrat beschlossene Föderale IT‑Architekturrichtlinie wird vom Bundesministerium für Digitales und Staatsmodernisierung im Bundesanzeiger bekanntgemacht; Entsprechendes gilt für geänderte Fassungen. In der Bekanntmachung ist das Datum des jeweiligen Beschlusses des IT-Planungsrats anzugeben und im Einvernehmen mit dem IT-Planungsrat festzulegen, ab welchem Zeitpunkt die jeweilige Fassung der Föderalen IT-Architekturrichtlinie gilt.
+(1) Informationstechnische Systeme, die für den übergreifenden informationstechnischen Zugang zu den Verwaltungsleistungen von Bund und Ländern genutzt werden, sind nach den Architekturvorgaben auszugestalten, die in der nach Absatz 2 jeweils bekanntgemachten Fassung der vom IT-Planungsrat beschlossenen Föderalen IT‑Architekturrichtlinie als Regeln der Nationalen Architekturrichtlinie und als Föderale Ergänzungen aufgelistet sind.
+
+(2) Die am 26. März 2025 vom IT-Planungsrat beschlossene Föderale IT‑Architekturrichtlinie wird vom Bundesministerium für Digitales und Staatsmodernisierung im Bundesanzeiger bekanntgemacht; Entsprechendes gilt für geänderte Fassungen. In der Bekanntmachung ist das Datum des jeweiligen Beschlusses des IT-Planungsrats anzugeben und im Einvernehmen mit dem IT-Planungsrat festzulegen, ab welchem Zeitpunkt die jeweilige Fassung der Föderalen IT-Architekturrichtlinie gilt.
 
 ### § 2 — Qualitätsanforderungen an informationstechnische Systeme
 
-(1) Für informationstechnische Systeme, die für den übergreifenden informationstechnischen Zugang zu den Verwaltungsleistungen von Bund und Ländern genutzt und neu entwickelt werden, sind zur Gewährleistung der Qualität Maßnahmen nach den allgemein anerkannten Regeln der Technik zu treffen. Satz 1 gilt entsprechend für solche Systeme, die einer grundlegenden Überarbeitung unterzogen werden.(2) Die Einhaltung der allgemein anerkannten Regeln der Technik im Sinne von Absatz 1 wird vermutet, wenn die Anforderungen der DIN SPEC 66336, Ausgabe April 2025, die bei der DIN Media GmbH, Berlin, zu beziehen und bei der Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt ist, eingehalten werden.
+(1) Für informationstechnische Systeme, die für den übergreifenden informationstechnischen Zugang zu den Verwaltungsleistungen von Bund und Ländern genutzt und neu entwickelt werden, sind zur Gewährleistung der Qualität Maßnahmen nach den allgemein anerkannten Regeln der Technik zu treffen. Satz 1 gilt entsprechend für solche Systeme, die einer grundlegenden Überarbeitung unterzogen werden.
+
+(2) Die Einhaltung der allgemein anerkannten Regeln der Technik im Sinne von Absatz 1 wird vermutet, wenn die Anforderungen der DIN SPEC 66336, Ausgabe April 2025, die bei der DIN Media GmbH, Berlin, zu beziehen und bei der Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt ist, eingehalten werden.
 
 ### § 3 — Übergangsregelungen
 

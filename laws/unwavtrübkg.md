@@ -34,7 +34,7 @@ im internationalen Straßengüterverkehr (CMR)
 
 ### Art 5
 
-(1) Das Einheitliche Gesetz über den internationalen Kauf beweglicher Sachen vom 17. Juli 1973 (BGBl. I S. 856) und das Einheitliche Gesetz über den Abschluß von internationalen Kaufverträgen über bewegliche Sachen vom 17. Juli 1973 (BGBl. I S. 868) werden aufgehoben.(2) Für Verträge, die Gegenstand des Einheitlichen Gesetzes über den internationalen Kauf beweglicher Sachen sind, bleibt dieses Einheitliche Gesetz maßgebend, sofern der Vertrag vor dem Tage geschlossen wird, an dem das Übereinkommen von 1980 für die Bundesrepublik Deutschland in Kraft tritt. Für den Abschluß solcher Verträge bleibt das Einheitliche Gesetz über den Abschluß von internationalen Kaufverträgen über bewegliche Sachen maßgebend, sofern das Angebot zum Abschluß des Vertrages vor dem Tage gemacht wird, an dem das Übereinkommen von 1980 für die Bundesrepublik Deutschland in Kraft tritt.
+(2) Für Verträge, die Gegenstand des Einheitlichen Gesetzes über den internationalen Kauf beweglicher Sachen sind, bleibt dieses Einheitliche Gesetz maßgebend, sofern der Vertrag vor dem Tage geschlossen wird, an dem das Übereinkommen von 1980 für die Bundesrepublik Deutschland in Kraft tritt. Für den Abschluß solcher Verträge bleibt das Einheitliche Gesetz über den Abschluß von internationalen Kaufverträgen über bewegliche Sachen maßgebend, sofern das Angebot zum Abschluß des Vertrages vor dem Tage gemacht wird, an dem das Übereinkommen von 1980 für die Bundesrepublik Deutschland in Kraft tritt.
 
 > Art. 5 Abs. 1 Kursivdruck: Änderungsvorschrift
 
@@ -44,4 +44,6 @@ Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung die
 
 ### Art 7
 
-(1) Mit Ausnahme der Artikel 2, 3 und 5 tritt dieses Gesetz am Tage nach seiner Verkündung in Kraft. Die Artikel 2, 3 und 5 treten an dem Tage in Kraft, an dem das Übereinkommen von 1980 für die Bundesrepublik Deutschland in Kraft tritt.(2) Der Tag, an dem das Übereinkommen von 1980 nach seinem Artikel 99 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
+(1) Mit Ausnahme der Artikel 2, 3 und 5 tritt dieses Gesetz am Tage nach seiner Verkündung in Kraft. Die Artikel 2, 3 und 5 treten an dem Tage in Kraft, an dem das Übereinkommen von 1980 für die Bundesrepublik Deutschland in Kraft tritt.
+
+(2) Der Tag, an dem das Übereinkommen von 1980 nach seinem Artikel 99 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.

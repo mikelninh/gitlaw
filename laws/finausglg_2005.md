@@ -10,11 +10,7 @@
 
 ### § 1 — Anteile von Bund und Ländern an der Umsatzsteuer
 
-(1) Das Aufkommen der Umsatzsteuer wird auf Bund, Länder und Gemeinden nach folgenden Prozentsätzen aufgeteilt:
-
-(2) Die im Folgenden genannten Beträge verändern die Anteile des Bundes, der Länder und Gemeinden nach Absatz 1:
-
-(2a) Zur finanziellen Beteiligung der Länder an der Bekämpfung der durch die Starkregenfälle und das Hochwasser im Juli 2021 verursachten Schäden und dem Wiederaufbau erhöhen sich die in Absatz 2 genannten Beträge für den Bund um jeweils 233 333 333 Euro in den Jahren von 2021 bis 2050; die in Absatz 2 genannten Beträge für die Länder verringern sich entsprechend um jeweils 233 333 333 Euro in den Jahren von 2021 bis 2050.
+(2a) Zur finanziellen Beteiligung der Länder an der Bekämpfung der durch die Starkregenfälle und das Hochwasser im Juli 2021 verursachten Schäden und dem Wiederaufbau erhöhen sich die in Absatz 2 genannten Beträge für den Bund um jeweils 233 333 333 Euro in den Jahren von 2021 bis 2050; die in Absatz 2 genannten Beträge für die Länder verringern sich entsprechend um jeweils 233 333 333 Euro in den Jahren von 2021 bis 2050.
 
 (3) Diese Aufteilung der Umsatzsteuer gilt jeweils für alle Beträge, die während der Geltungsdauer des Beteiligungsverhältnisses vereinnahmt oder erstattet werden.
 
@@ -22,25 +18,9 @@
 
 (5) Zum Ausgleich für Belastungen der Länder aus dem KiTa-Qualitäts- und Teilhabeverbesserungsgesetz vom 19. Dezember 2018 (BGBl. I S. 2696) und aus der Änderung des Achten Buches Sozialgesetzbuch durch die Artikel 1 und 2 des Gesetzes vom 19. Dezember 2018 (BGBl. I S. 2696)
 
-1.
+1. verringern sich die in Absatz 2 genannten Beträge für den Bund a)im Jahr 2020 um 993 Millionen Euro,b)in den Jahren 2021 und 2022 um jeweils 1 993 Millionen Euro,c)im Jahr 2023 um 1 884 Millionen Euro undd)in den Jahren 2024, 2025 und 2026 um jeweils 1 993 Millionen Euro und im Jahr 2020 um 993 Millionen Euro, in den Jahren 2021 und 2022 um jeweils 1 993 Millionen Euro, im Jahr 2023 um 1 884 Millionen Euro und in den Jahren 2024, 2025 und 2026 um jeweils 1 993 Millionen Euro und
 
-a)
-
-b)
-
-c)
-
-d)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
+2. erhöhen sich die in Absatz 2 genannten Beträge für die Länder a)im Jahr 2020 um 993 Millionen Euro,b)in den Jahren 2021 und 2022 um jeweils 1 993 Millionen Euro,c)im Jahr 2023 um 1 884 Millionen Euro undd)in den Jahren 2024, 2025 und 2026 um jeweils 1 993 Millionen Euro. im Jahr 2020 um 993 Millionen Euro, in den Jahren 2021 und 2022 um jeweils 1 993 Millionen Euro, im Jahr 2023 um 1 884 Millionen Euro und in den Jahren 2024, 2025 und 2026 um jeweils 1 993 Millionen Euro.
 
 (6) Um den finanziellen Lasten der Länder, die ihnen aus der Umsetzung des Aktionsprogramms „Aufholen nach Corona für Kinder und Jugendliche für die Jahre 2021 und 2022“ im eigenen Zuständigkeitsbereich entstehen, Rechnung zu tragen, verringern sich die in Absatz 2 genannten Beträge für den Bund im Jahr 2021 um weitere 430 Millionen Euro und im Jahr 2022 um weitere 860 Millionen Euro; die in Absatz 2 genannten Beträge für die Länder erhöhen sich entsprechend im Jahr 2021 um weitere 430 Millionen Euro und im Jahr 2022 um weitere 860 Millionen Euro.
 
@@ -72,15 +52,15 @@ Der Verteilung der Umsatzsteuer unter den Ländern ist ein angemessener Ausgleic
 
 ### § 7 — Einnahmen der Länder aus Steuern und Förderabgabe
 
-(1) Als Steuereinnahmen eines Landes gelten die ihm im Ausgleichsjahr zugeflossenen Einnahmen Als Steuereinnahme eines Landes gilt ebenfalls seine Steuerkraftzahl der Grunderwerbsteuer im Ausgleichsjahr. Als Steuerkraftzahlen werden für die einzelnen Länder die Beträge angesetzt, die sich ergeben, wenn die im Bundesgebiet insgesamt im Ausgleichsjahr aufgekommene Grunderwerbsteuer im Verhältnis der dem Aufkommen zu Grunde liegenden länderweisen Steuerbemessungsgrundlagen der Grunderwerbsteuer verteilt wird. Für Fälle der Pauschalbesteuerung nach § 12 des Grunderwerbsteuergesetzes ist zur Ermittlung der Steuerbemessungsgrundlage der Pauschalbetrag durch den Steuersatz zu dividieren, der zum Zeitpunkt des pauschaliert besteuerten Rechtsvorgangs gültig war. Als Steuereinnahmen eines Landes gelten ferner die sich nach § 2 entsprechend seinem Einwohneranteil für das Ausgleichsjahr ergebenden Anteile der Umsatzsteuer.
+(1) Als Steuereinnahmen eines Landes gelten die ihm im Ausgleichsjahr zugeflossenen Einnahmen
 
-1.
+1. aus seinem Anteil an der Einkommensteuer, der Körperschaftsteuer und der Mindeststeuer;
 
-2.
+2. aus seinem Anteil an der Gewerbesteuerumlage nach § 6 des Gemeindefinanzreformgesetzes;
 
-3.
+3. aus der Vermögensteuer, der Erbschaftsteuer, der Biersteuer, der Steuern nach dem Rennwett- und Lotteriegesetz mit Ausnahme der Totalisatorsteuer, der Feuerschutzsteuer und der Spielbankabgabe mit Ausnahme der Sonderabgabe und der Troncabgabe;
 
-4.
+4. nach dem Gesetz zur Regelung der finanziellen Kompensation zugunsten der Länder infolge der Übertragung der Ertragshoheit der Kraftfahrzeugsteuer auf den Bund.
 
 (2) Den Steuereinnahmen der Länder nach Absatz 1 werden 33 Prozent des Aufkommens aus der Förderabgabe nach § 31 des Bundesberggesetzes hinzugesetzt.
 
@@ -88,11 +68,11 @@ Der Verteilung der Umsatzsteuer unter den Ländern ist ein angemessener Ausgleic
 
 ### § 8 — Steuereinnahmen der Gemeinden
 
-(1) Als Steuereinnahmen der Gemeinden eines Landes gelten nach Maßgabe des Absatzes 3 Für die von den Gemeinden geleistete Gewerbesteuerumlage sind die Feststellungen der Länder maßgebend.
+(1) Als Steuereinnahmen der Gemeinden eines Landes gelten nach Maßgabe des Absatzes 3
 
-1.
+1. die Gemeindeanteile an der Umsatzsteuer und an der Einkommensteuer im Ausgleichsjahr,
 
-2.
+2. die Steuerkraftzahlen der Grundsteuern und der Gewerbesteuer nach Absatz 2, vermindert um die im Ausgleichsjahr geleistete Gewerbesteuerumlage.
 
 (2) Als Steuerkraftzahlen der Gewerbesteuer werden jeweils für die einzelnen Länder die Beträge angesetzt, die sich ergeben, wenn die im Bundesgebiet insgesamt im Ausgleichsjahr aufgekommene Gewerbesteuer im Verhältnis der länderweisen Grundbeträge dieser Steuern in dem dem Ausgleichsjahr vorausgehenden Kalenderjahr verteilt werden. Dabei sind die Grundbeträge maßgebend, die das Statistische Bundesamt nach dem Ergebnis der Gemeindefinanzstatistik festgestellt hat. Als Steuerkraftzahlen der Grundsteuer von den land- und forstwirtschaftlichen Betrieben und der Grundsteuer von den Grundstücken werden für die einzelnen Länder jeweils die Beträge angesetzt, die sich ergeben, wenn die im Bundesgebiet insgesamt im Ausgleichsjahr aufgekommenen Grundsteuern jeweils im Verhältnis der Summen der nach bundesgesetzlich normiertem Bewertungsrecht berechneten Grundsteuermessbeträge, die die Länder für das dem Ausgleichsjahr vorausgehende Kalenderjahr für ihr Gebiet festzustellen haben, verteilt werden; dies gilt nicht, soweit das Statistische Bundesamt für alle Länder in bundeseinheitlicher Abgrenzung Grundbeträge der Grundsteuern festgestellt hat. Bei der Ermittlung der Summen nach Satz 3 ist unverhältnismäßiger Verwaltungsaufwand zu vermeiden. Für die Steuerpflichtigen darf durch das Verfahren zur Normierung des Grundsteueraufkommens keine gesonderte Erklärungspflicht entstehen.
 
@@ -100,11 +80,11 @@ Der Verteilung der Umsatzsteuer unter den Ländern ist ein angemessener Ausgleic
 
 (4) Für die Ausgleichsjahre 2025 bis 2027 werden bei der Ermittlung der Steuerkraftzahlen der Grundsteuer von den land- und forstwirtschaftlichen Betrieben und der Grundsteuer von den Grundstücken abweichend von den Regelungen in Absatz 2 jeweils die vom Statistischen Bundesamt festgestellten Grundbeträge des Jahres 2024 angesetzt.
 
-(5) Für die Ausgleichsjahre 2028 und 2029 werden bei der Ermittlung der Steuerkraftzahlen der Grundsteuer von den land- und forstwirtschaftlichen Betrieben und der Grundsteuer von den Grundstücken abweichend von den Regelungen in Absatz 2 jeweils die Steuerkraftzahlen für jedes Land ermittelt, indem jeweils anteilig zugrunde gelegt werden.
+(5) Für die Ausgleichsjahre 2028 und 2029 werden bei der Ermittlung der Steuerkraftzahlen der Grundsteuer von den land- und forstwirtschaftlichen Betrieben und der Grundsteuer von den Grundstücken abweichend von den Regelungen in Absatz 2 jeweils die Steuerkraftzahlen für jedes Land ermittelt, indem jeweils anteilig
 
-1.
+1. die Grundbeträge nach Absatz 4 im Jahr 2028 zu 67 Prozent und im Jahr 2029 zu 33 Prozent sowie
 
-2.
+2. die für das dem Ausgleichsjahr vorangehende Kalenderjahr ermittelten Beträge gemäß Absatz 2 im Jahr 2028 zu 33 Prozent und im Jahr 2029 zu 67 Prozent
 
 (6) Das Bundesministerium der Finanzen kann in der Verordnung nach § 14 Absatz 4 für die Ausgleichsjahre 2025 bis 2029 bei den Grundsteuern in Anlehnung an die Festlegungen in Absatz 4 von § 13 Nummer 2 abweichende Festlegungen treffen.
 
@@ -130,10 +110,6 @@ Der Verteilung der Umsatzsteuer unter den Ländern ist ein angemessener Ausgleic
 
 (2) Zur ergänzenden Deckung ihres allgemeinen Finanzbedarfs erhalten leistungsschwache Länder allgemeine Bundesergänzungszuweisungen. Leistungsschwach im Sinne von Satz 1 ist ein Land, dessen Summe aus Finanzkraftmesszahl und Zuschlag nach § 10 Fehlbeträge an 99,75 Prozent der Ausgleichsmesszahl des Ausgleichsjahres aufweist. Ein leistungsschwaches Land erhält 80 Prozent dieser Fehlbeträge als allgemeine Bundesergänzungszuweisungen.
 
-(3) Zum Ausgleich von Sonderlasten durch die strukturelle Arbeitslosigkeit und der daraus entstehenden überproportionalen Lasten bei der Zusammenführung von Arbeitslosenhilfe und Sozialhilfe für Erwerbsfähige erhalten nachstehende Länder jährlich folgende Sonderbedarfs-Bundesergänzungszuweisungen: Bund und Länder überprüfen gemeinsam in einem Abstand von drei Jahren, beginnend im Jahr 2022, in welcher Höhe die Sonderlasten dieser Länder ab dem jeweils folgenden Jahr auszugleichen sind. Die Sonderlasten sind entsprechend den im Jahr vor der Überprüfung gegebenen einwohnerbezogenen Verhältnissen der Bedarfsgemeinschaften und der Entwicklung der Kosten der Unterkunft im Durchschnitt der Länder Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen im Verhältnis zum Durchschnitt der Länder Baden-Württemberg, Bayern, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland und Schleswig-Holstein in Bezug zum Ausgangsjahr 2005 zu ermitteln.
-
-(4) Wegen überdurchschnittlich hoher Kosten politischer Führung erhalten nachstehende Länder jährlich folgende Sonderbedarfs-Bundesergänzungszuweisungen, wenn sie im jeweiligen Ausgleichsjahr das Kriterium der Leistungsschwäche gemäß Absatz 2 Satz 2 erfüllen: Bund und Länder überprüfen gemeinsam die Voraussetzungen der Vergabe in einem Abstand von fünf Jahren, erstmals im Jahr 2023, im Hinblick auf die Vergabe im jeweils übernächsten Jahr.
-
 (5) Leistungsschwache Länder, in denen die kommunalen Steuereinnahmen gemäß § 8 Absatz 1 und 2 im Ausgleichsjahr je Einwohner weniger als 80 Prozent des Durchschnitts aller gemäß § 8 Absatz 1 und 2 ermittelten Steuereinnahmen der Gemeinden betragen, erhalten Bundesergänzungszuweisungen zum Ausgleich besonders geringer kommunaler Steuerkraft. Die Zuweisungen erfolgen in Höhe von 53,5 Prozent des zu 80 Prozent des Durchschnitts bestehenden Fehlbetrages. Für die Berechnung der Zuweisungen sind die nach § 9 Absatz 1 ermittelten Einwohnerzahlen maßgebend. Absatz 2 Satz 2 gilt entsprechend.
 
 (6) Zuweisungen werden leistungsschwachen Ländern gewährt, die aus Mitteln der Forschungsförderung nach Artikel 91b des Grundgesetzes einen Forschungsnettozufluss in Höhe von weniger als 95 Prozent des den Ländern durchschnittlich gewährten Forschungsnettozuflusses erhalten haben. Diese Länder erhalten pro Einwohner Ergänzungszuweisungen des Bundes in Höhe von 35 Prozent des zu 95 Prozent des durchschnittlich von den Ländern vereinnahmten Forschungsnettozuflusses bestehenden Fehlbetrages. Forschungsnettozufluss ist der Nettozufluss pro Einwohner in der von der Gemeinsamen Wissenschaftskonferenz für das dem Ausgleichsjahr sieben Jahre vorausgehende Jahr festgestellten Höhe. Absatz 2 Satz 2 gilt entsprechend.
@@ -152,17 +128,17 @@ Das Bundesministerium der Finanzen stellt nach Ablauf des Ausgleichsjahres die e
 
 Die Verteilung der Umsatzsteuer und der Finanzkraftausgleich werden während des Ausgleichsjahres aufgrund vorläufiger Bemessungsgrundlagen vorgenommen. Die vorläufigen Anteile an der Umsatzsteuer sowie die vorläufigen Zuschläge zu und Abschläge von der Finanzkraft werden nach den §§ 2 sowie 4 bis 10 ermittelt; jedoch werden zugrunde gelegt
 
-1.
+1. die Einnahmen der Länder nach § 7 Abs. 1 und 2 sowie die Gemeindeanteile an der Umsatzsteuer und an der Einkommensteuer und die Gewerbesteuerumlage nach § 8 in dem Jahreszeitraum, der am 30. September des vorausgehenden Jahres endet;
 
-2.
+2. die Steuerkraftzahlen der Grundsteuern und der Gewerbesteuer der Gemeinden gemäß § 8 nach den Grundbeträgen, die das Statistische Bundesamt zuletzt festgestellt hat, und nach ihren Aufkommen in dem Jahreszeitraum, der am 30. Juni des vorausgehenden Jahres endet;
 
-3.
+3. die Einwohnerzahlen nach § 9 Abs. 1, die das Statistische Bundesamt zum 30. Juni des Jahres festgestellt hat, das dem Ausgleichsjahr vorausgeht; sind diese nicht rechtzeitig verfügbar, die vom Statistischen Bundesamt zuletzt festgestellten Einwohnerzahlen.
 
 ### § 14 — Zahlungsverkehr zum Vollzug der Umsatzsteuerverteilung und des Finanzkraftausgleichs
 
 (1) Der Zahlungsverkehr wird während des Ausgleichsjahres in der Weise abgewickelt, dass die Ablieferung des Bundesanteils an der durch Landesfinanzbehörden verwalteten Umsatzsteuer um die Beträge erhöht oder ermäßigt wird, die nach der vorläufigen Bemessung der nach dem Verhältnis der Einwohnerzahlen der Länder verteilten Länderanteile an der Umsatzsteuer nach § 2 Satz 1 sowie der vorläufig erhobenen Abschläge und der vorläufig gewährten Zuschläge nach § 10 zu verrechnen sind. Soweit der Anspruch eines Landes aus diesen Verrechnungen durch den Bundesanteil an der Umsatzsteuer nicht voll gedeckt wird, überweist das Bundesministerium der Finanzen diesem Land den nicht gedeckten Teil des vorläufigen Ausgleichsanspruchs in monatlichen Teilbeträgen. Soweit die Verpflichtung eines Landes aus diesen Verrechnungen über dem Aufkommen der von Landesfinanzbehörden verwalteten Umsatzsteuer liegt, ist der darüber liegende Teil von dem Land dem Bundesministerium der Finanzen in monatlichen Teilbeträgen zu überweisen. Die für die Aufteilung des Umsatzsteueraufkommens auf Bund, Länder und Gemeinden in § 1 Absatz 2 genannten Beträge werden gesondert im Rahmen des Zahlungsverkehrs der Einfuhrumsatzsteuer nach Absatz 2 berücksichtigt; Entsprechendes gilt für unterjährige Gesetzesänderungen mit Auswirkungen auf die Umsatzsteueranteile nach § 1 Absatz 1 im laufenden Ausgleichsjahr.
 
-(2) Der Länderanteil an der durch Bundesfinanzbehörden verwalteten Einfuhrumsatzsteuer wird auf die Länder nach der Einwohnerzahl verteilt und in monatlichen Teilbeträgen überwiesen. Im Ausgleichsjahr 2024 gilt ein Betrag von 1 750 000 000 Euro aus der in den Monaten Januar bis Juni überwiesenen Teilbetragssumme als Abschlagszahlung auf eine flüchtlingskostenbezogene Pro-Kopf-Pauschale.
+(2) Der Länderanteil an der durch Bundesfinanzbehörden verwalteten Einfuhrumsatzsteuer wird auf die Länder nach der Einwohnerzahl verteilt und in monatlichen Teilbeträgen überwiesen. Im Ausgleichsjahr 2024 gilt ein Betrag von 1 750 000 000 Euro aus der in den Monaten Januar bis Juni überwiesenen Teilbetragssumme als Abschlagszahlung auf eine flüchtlingskostenbezogene Pro-Kopf-Pauschale.
 
 (3) Die Differenzen der vorläufigen Umsatzsteueranteile, Zuschläge und Abschläge nach § 13 zu den auf der Grundlage der tatsächlichen Entwicklung der Bemessungsgrundlagen bestimmten Umsatzsteueranteilen, Zuschlägen und Abschlägen des Ausgleichsjahres werden vierteljährlich vorläufig abgerechnet.
 

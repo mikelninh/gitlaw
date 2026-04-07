@@ -18,21 +18,13 @@ Zweck dieses Gesetzes ist es, in der Umgebung von Flugplätzen bauliche Nutzungs
 
 (1) In der Umgebung von Flugplätzen werden Lärmschutzbereiche eingerichtet, die das Gebiet der in dem nachfolgenden Absatz genannten Schutzzonen außerhalb des Flugplatzgeländes umfassen.
 
-(2) Der Lärmschutzbereich eines Flugplatzes wird nach dem Maße der Lärmbelastung in zwei Schutzzonen für den Tag und eine Schutzzone für die Nacht gegliedert. Schutzzonen sind jeweils diejenigen Gebiete, in denen der durch Fluglärm hervorgerufene äquivalente Dauerschallpegel L(tief)Aeq sowie bei der Nacht-Schutzzone auch der fluglärmbedingte Maximalpegel L(tief)Amax die nachfolgend genannten Werte übersteigt, wobei die Häufigkeit aus dem Mittelwert über die sechs verkehrsreichsten Monate des Prognosejahres bestimmt wird (Anlage zu § 3): Neue oder wesentlich baulich erweiterte Flugplätze im Sinne dieser Vorschrift sind Flugplätze, für die ab dem 7. Juni 2007 eine Genehmigung, eine Planfeststellung oder eine Plangenehmigung nach § 6 oder § 8 des Luftverkehrsgesetzes für ihre Anlegung, den Bau einer neuen Start- oder Landebahn oder eine sonstige wesentliche bauliche Erweiterung erteilt wird. Die sonstige bauliche Erweiterung eines Flugplatzes ist wesentlich, wenn sie zu einer Erhöhung des äquivalenten Dauerschallpegels L(tief)Aeq Tag an der Grenze der Tag-Schutzzone 1 oder des äquivalenten Dauerschallpegels L(tief)Aeq Nacht an der Grenze der Nacht-Schutzzone um mindestens 2 dB(A) führt. Bestehende Flugplätze im Sinne dieser Vorschrift sind Flugplätze, bei denen die Voraussetzungen der Sätze 3 und 4 nicht erfüllt sind.
+(2) Der Lärmschutzbereich eines Flugplatzes wird nach dem Maße der Lärmbelastung in zwei Schutzzonen für den Tag und eine Schutzzone für die Nacht gegliedert. Schutzzonen sind jeweils diejenigen Gebiete, in denen der durch Fluglärm hervorgerufene äquivalente Dauerschallpegel
 
-1.
-
-2.
-
-3.
-
-4.
+1. Werte für neue oder wesentlich baulich erweiterte zivile Flugplätze im Sinne des § 4 Abs. 1 Nr. 1 und 2:
 
 (3) Die Bundesregierung erstattet spätestens im Jahre 2017 und spätestens nach Ablauf von jeweils weiteren zehn Jahren dem Deutschen Bundestag Bericht über die Überprüfung der in Absatz 2 genannten Werte unter Berücksichtigung des Standes der Lärmwirkungsforschung und der Luftfahrttechnik.
 
 ### § 3 — Ermittlung der Lärmbelastung
-
-(1) Der äquivalente Dauerschallpegel L(tief)Aeq Tag für die Tag-Schutzzonen 1 und 2 sowie der äquivalente Dauerschallpegel L(tief)Aeq Nacht und der Maximalpegel L(tief)Amax für die Nacht-Schutzzone werden unter Berücksichtigung von Art und Umfang des voraussehbaren Flugbetriebs nach der Anlage zu diesem Gesetz ermittelt.
 
 (2) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 15) durch Rechtsverordnung mit Zustimmung des Bundesrates Art und Umfang der erforderlichen Auskünfte der nach § 11 Verpflichteten und die Berechnungsmethode für die Ermittlung der Lärmbelastung zu regeln.
 
@@ -40,21 +32,19 @@ Zweck dieses Gesetzes ist es, in der Umgebung von Flugplätzen bauliche Nutzungs
 
 (1) Ein Lärmschutzbereich ist für folgende Flugplätze festzusetzen:
 
-1.
+1. Verkehrsflughäfen mit Fluglinien- oder Pauschalflugreiseverkehr,
 
-2.
+2. Verkehrslandeplätze mit Fluglinien- oder Pauschalflugreiseverkehr und mit einem Verkehrsaufkommen von über 25.000 Bewegungen pro Jahr; hiervon sind ausschließlich der Ausbildung dienende Bewegungen mit Leichtflugzeugen ausgenommen,
 
-3.
+3. militärische Flugplätze, die dem Betrieb von Flugzeugen mit Strahltriebwerken zu dienen bestimmt sind,
 
-4.
+4. militärische Flugplätze, die dem Betrieb von Flugzeugen mit einer höchstzulässigen Startmasse von mehr als 20 Tonnen zu dienen bestimmt sind, mit einem Verkehrsaufkommen von über 25.000 Bewegungen pro Jahr; hiervon sind ausschließlich der Ausbildung dienende Bewegungen mit Leichtflugzeugen ausgenommen.
 
 (2) Die Festsetzung des Lärmschutzbereichs erfolgt durch Rechtsverordnung der Landesregierung. Karten und Pläne, die Bestandteil der Rechtsverordnung sind, können dadurch verkündet werden, dass sie bei einer Amtsstelle zu jedermanns Einsicht archivmäßig gesichert niedergelegt werden. In der Rechtsverordnung ist darauf hinzuweisen.
 
 (3) Der Lärmschutzbereich für einen neuen Flugplatz im Sinne des § 2 Abs. 2 Satz 2 Nr. 1 und 3 ist auf der Grundlage der dort angegebenen Werte festzusetzen. Auf derselben Grundlage ist der Lärmschutzbereich für einen wesentlich baulich erweiterten Flugplatz im Sinne des § 2 Abs. 2 Satz 2 Nr. 1 und 3 neu festzusetzen oder erstmalig festzusetzen, wenn bislang noch keine Festsetzung erfolgt ist. Die Festsetzung soll vorgenommen werden, sobald die Genehmigung, die Planfeststellung oder die Plangenehmigung für die Anlegung oder die Erweiterung des Flugplatzes erteilt ist.
 
 (4) Der Lärmschutzbereich für einen bestehenden Flugplatz im Sinne des § 2 Abs. 2 Satz 2 Nr. 2 und 4 ist auf der Grundlage der dort angegebenen Werte spätestens bis zum Ende des Jahres 2009 neu festzusetzen oder erstmalig festzusetzen, wenn bislang noch keine Festsetzung erfolgt ist. Ist eine wesentliche bauliche Erweiterung beantragt, ist eine Festsetzung für den bestehenden Flugplatz, die den bisherigen Bestand zur Grundlage hat, nicht mehr erforderlich, wenn eine Festsetzung des Lärmschutzbereichs für den wesentlich baulich erweiterten Flugplatz vorgenommen wird und die Inbetriebnahme des erweiterten Flugplatzes unmittelbar folgt. Die Festsetzungen für verschiedene Flugplätze sollen nach Prioritäten vorgenommen werden, die sich aus der voraussichtlichen Größe der Lärmschutzbereiche und der betroffenen Bevölkerung ergeben; die vorgesehene Abfolge der Festsetzungen und ihr voraussichtlicher Zeitpunkt sind festzulegen und der Öffentlichkeit mitzuteilen.
-
-(5) Der Lärmschutzbereich für einen neuen, wesentlich baulich erweiterten oder bestehenden Flugplatz im Sinne des § 2 Abs. 2 Satz 2 Nr. 1 bis 4 ist neu festzusetzen, wenn eine Änderung in der Anlage oder im Betrieb des Flugplatzes zu einer wesentlichen Veränderung der Lärmbelastung in der Umgebung des Flugplatzes führen wird. Eine Veränderung der Lärmbelastung ist insbesondere dann als wesentlich anzusehen, wenn sich die Höhe des äquivalenten Dauerschallpegels L(tief)Aeq Tag an der Grenze der Tag-Schutzzone 1 oder des äquivalenten Dauerschallpegels L(tief)Aeq Nacht an der Grenze der Nacht-Schutzzone um mindestens 2 dB(A) ändert. Die Neufestsetzung ist für einen neuen oder wesentlich baulich erweiterten Flugplatz im Sinne des § 2 Abs. 2 Satz 2 Nr. 1 und 3 auf der Grundlage der dort angegebenen Werte vorzunehmen. Die Neufestsetzung ist für einen bestehenden Flugplatz im Sinne des § 2 Abs. 2 Satz 2 Nr. 2 und 4 auf der Grundlage der dort angegebenen Werte vorzunehmen, solange kein Fall des Absatzes 4 Satz 2 vorliegt.
 
 (6) Spätestens nach Ablauf von zehn Jahren seit Festsetzung des Lärmschutzbereichs ist zu prüfen, ob sich die Lärmbelastung wesentlich verändert hat oder innerhalb der nächsten zehn Jahre voraussichtlich wesentlich verändern wird. Die Prüfung ist in Abständen von zehn Jahren zu wiederholen, sofern nicht besondere Umstände eine frühere Prüfung erforderlich machen.
 
@@ -68,19 +58,19 @@ Zweck dieses Gesetzes ist es, in der Umgebung von Flugplätzen bauliche Nutzungs
 
 (2) In der Tag-Schutzzone 1 und in der Nacht-Schutzzone dürfen Wohnungen nicht errichtet werden.
 
-(3) Das Verbot nach Absatz 2 gilt nicht für die Errichtung von Satz 1 Nr. 4 gilt nicht für Grundstücke, auf denen die Errichtung von Wohnungen bauplanungsrechtlich mehr als sieben Jahre nach einer nach dem 6. Juni 2007 erfolgten Festsetzung des Lärmschutzbereichs vorgesehen gewesen ist, sofern im Geltungsbereich des Bebauungsplans noch nicht mit der Erschließung oder der Bebauung begonnen worden ist.
+(3) Das Verbot nach Absatz 2 gilt nicht für die Errichtung von
 
-1.
+1. Wohnungen für Aufsichts- und Bereitschaftspersonen von Betrieben oder öffentlichen Einrichtungen sowie für Betriebsinhaber und Betriebsleiter,
 
-2.
+2. Wohnungen, die nach § 35 Abs. 1 des Baugesetzbuchs im Außenbereich zulässig sind,
 
-3.
+3. Wohnungen und Gemeinschaftsunterkünften für Angehörige der Bundeswehr und der auf Grund völkerrechtlicher Verträge in der Bundesrepublik Deutschland stationierten Streitkräfte,
 
-4.
+4. Wohnungen im Geltungsbereich eines vor der Festsetzung des Lärmschutzbereichs bekannt gemachten Bebauungsplans,
 
-5.
+5. Wohnungen innerhalb der im Zusammenhang bebauten Ortsteile nach § 34 des Baugesetzbuchs,
 
-6.
+6. Wohnungen im Geltungsbereich eines nach der Festsetzung des Lärmschutzbereichs bekannt gemachten Bebauungsplans, wenn dieser der Erhaltung, der Erneuerung, der Anpassung oder dem Umbau von vorhandenen Ortsteilen mit Wohnbebauung dient.
 
 (4) Absatz 1 Satz 1 und 2 und Absatz 2 gelten nicht für bauliche Anlagen, für die vor der Festsetzung des Lärmschutzbereichs eine Baugenehmigung erteilt worden ist, sowie für nichtgenehmigungsbedürftige bauliche Anlagen, mit deren Errichtung nach Maßgabe des Bauordnungsrechts vor der Festsetzung des Lärmschutzbereichs hätte begonnen werden dürfen.
 
@@ -100,15 +90,9 @@ Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 
 
 ### § 9 — Erstattung von Aufwendungen für bauliche Schallschutzmaßnahmen, Entschädigung für Beeinträchtigungen des Außenwohnbereichs
 
-(1) Dem Eigentümer eines in der Tag-Schutzzone 1 gelegenen Grundstücks, auf dem bei Festsetzung des Lärmschutzbereichs Einrichtungen nach § 5 Abs. 1 Satz 1 und 2 oder Wohnungen errichtet sind oder auf dem die Errichtung von baulichen Anlagen nach § 5 Abs. 4 zulässig ist, werden auf Antrag Aufwendungen für bauliche Schallschutzmaßnahmen nach Maßgabe der Absätze 3 und 4 und des § 10 erstattet. Soweit für einen bestehenden zivilen Flugplatz im Sinne des § 2 Abs. 2 Satz 2 Nr. 2 der durch Fluglärm hervorgerufene äquivalente Dauerschallpegel L(tief)Aeq Tag bei einem Grundstück den Wert von 70 dB(A) übersteigt, entsteht der Anspruch mit der Festsetzung des Lärmschutzbereichs; ansonsten entsteht der Anspruch mit Beginn des sechsten Jahres nach Festsetzung des Lärmschutzbereichs. Für einen bestehenden militärischen Flugplatz im Sinne des § 2 Abs. 2 Satz 2 Nr. 4 gilt Satz 2 mit der Maßgabe, dass auf einen Wert von 73 dB(A) abzustellen ist. Für einen neuen oder wesentlich baulich erweiterten zivilen Flugplatz im Sinne des § 2 Abs. 2 Satz 2 Nr. 1 gilt Satz 2 mit der Maßgabe, dass auf einen Wert von 65 dB(A) abzustellen ist. Für einen neuen oder wesentlich baulich erweiterten militärischen Flugplatz im Sinne des § 2 Abs. 2 Satz 2 Nr. 3 gilt Satz 2 mit der Maßgabe, dass auf einen Wert von 68 dB(A) abzustellen ist.
-
-(2) Dem Eigentümer eines in der Nacht-Schutzzone gelegenen Grundstücks, auf dem bei Festsetzung des Lärmschutzbereichs Einrichtungen nach § 5 Abs. 1 Satz 1 oder Wohnungen errichtet sind oder auf dem die Errichtung von solchen baulichen Anlagen gemäß § 5 Abs. 4 zulässig ist, werden für Räume, die in nicht nur unwesentlichem Umfang zum Schlafen benutzt werden, Aufwendungen für bauliche Schallschutzmaßnahmen, bei einem zivilen Flugplatz im Sinne des § 2 Abs. 2 Satz 2 Nr. 1 und 2 einschließlich des Einbaus von Belüftungseinrichtungen, nach Maßgabe der Absätze 3 und 4 und des § 10 erstattet. Soweit für einen bestehenden Flugplatz im Sinne des § 2 Abs. 2 Satz 2 Nr. 2 und 4 der durch Fluglärm hervorgerufene äquivalente Dauerschallpegel L(tief)Aeq Nacht bei einem Grundstück den Wert von 60 dB(A) übersteigt, entsteht der Anspruch mit der Festsetzung des Lärmschutzbereichs; ansonsten entsteht der Anspruch mit Beginn des sechsten Jahres nach Festsetzung des Lärmschutzbereichs. Für einen neuen oder wesentlich baulich erweiterten Flugplatz im Sinne des § 2 Abs. 2 Satz 2 Nr. 1 Buchstabe a und Nr. 3 Buchstabe a gilt Satz 2 mit der Maßgabe, dass auf einen Wert von 58 dB(A) abzustellen ist; für einen Flugplatz im Sinne des § 2 Abs. 2 Satz 2 Nr. 1 Buchstabe b und Nr. 3 Buchstabe b ist auf einen Wert von 55 dB(A) abzustellen.
-
 (3) Ist ein Lärmschutzbereich auf Grund des § 4 Abs. 3, 4 oder 5 neu festgesetzt worden, werden Aufwendungen für bauliche Schallschutzmaßnahmen nicht erstattet, wenn gemäß § 6 bauliche Anlagen sowie Wohnungen schon bei der Errichtung in der bis zur Neufestsetzung geltenden Tag-Schutzzone 2 den Schallschutzanforderungen genügen mussten und die danach erforderlichen Schallschutzmaßnahmen sich im Rahmen der nach § 7 erlassenen Rechtsverordnung halten. Ferner ist eine Erstattung ausgeschlossen, wenn der nach § 12 Zahlungspflichtige bereits im Rahmen freiwilliger Schallschutzprogramme oder in sonstigen Fällen Aufwendungen für bauliche Schallschutzmaßnahmen erstattet hat, die sich im Rahmen der nach § 7 erlassenen Rechtsverordnung halten. Einer Erstattung steht nicht entgegen, dass ein Grundstückseigentümer oder ein sonstiger nach Absatz 7 Anspruchsberechtigter bauliche Schallschutzmaßnahmen vor dem Zeitpunkt des Entstehens des Anspruchs auf Erstattung der Aufwendungen durchgeführt hat, soweit die Durchführung nach der Festsetzung des der Anspruchsentstehung zugrunde liegenden Lärmschutzbereichs erfolgt ist.
 
 (4) Die Aufwendungen für bauliche Schallschutzmaßnahmen werden nur erstattet, soweit sich die Maßnahmen im Rahmen der nach § 7 erlassenen Rechtsverordnung halten. Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates den Höchstbetrag der Erstattung je Quadratmeter Wohnfläche und die Berechnung der Wohnfläche, pauschalierte Erstattungsbeträge sowie Art und Umfang der erstattungsfähigen Nebenleistungen zu regeln.
-
-(5) Der Eigentümer eines in der Tag-Schutzzone 1 gelegenen Grundstücks, auf dem bei Festsetzung des Lärmschutzbereichs für einen neuen oder wesentlich baulich erweiterten Flugplatz im Sinne des § 2 Abs. 2 Satz 2 Nr. 1 und 3 Einrichtungen nach § 5 Abs. 1 Satz 1 und 2 oder Wohnungen errichtet sind oder auf dem die Errichtung von solchen baulichen Anlagen gemäß § 5 Abs. 4 zulässig ist, kann eine angemessene Entschädigung für Beeinträchtigungen des Außenwohnbereichs in Geld nach Maßgabe der nach Absatz 6 erlassenen Rechtsverordnung verlangen. Soweit für einen neuen oder wesentlich baulich erweiterten zivilen Flugplatz im Sinne des § 2 Abs. 2 Satz 2 Nr. 1 der durch Fluglärm hervorgerufene äquivalente Dauerschallpegel L(tief)Aeq Tag bei einem Grundstück den Wert von 65 dB(A) übersteigt, entsteht der Anspruch auf Erstattung mit der Inbetriebnahme des neuen oder wesentlich baulich erweiterten Flugplatzes; ansonsten entsteht der Anspruch mit Beginn des sechsten Jahres nach Festsetzung des Lärmschutzbereichs. Für einen neuen oder wesentlich baulich erweiterten militärischen Flugplatz im Sinne des § 2 Abs. 2 Satz 2 Nr. 3 gilt Satz 2 mit der Maßgabe, dass auf einen Wert von 68 dB(A) abzustellen ist.
 
 (6) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Regelungen über die Entschädigung für Beeinträchtigungen des Außenwohnbereichs zu treffen, insbesondere über den schutzwürdigen Umfang des Außenwohnbereichs und die Bemessung der Wertminderung und Entschädigung, auch unter Berücksichtigung der Intensität der Fluglärmbelastung, der Vorbelastung und der Art der baulichen Nutzung der betroffenen Flächen. Im Übrigen gelten für das Verfahren die Enteignungsgesetze der Länder.
 
@@ -159,5 +143,3 @@ Soweit Ermächtigungen zum Erlass von Rechtsverordnungen die Anhörung der betei
 -
 
 ### Anlage — (zu § 3)
-
-Der äquivalente Dauerschallpegel für die Tag-Schutzzonen 1 und 2 wird nach Gleichung (1) und für die Nacht-Schutzzone nach Gleichung (2) ermittelt: (1) (2) mit Zusätzlich wird auf der Grundlage der nach § 3 Abs. 2 erlassenen Rechtsverordnung für die Nachtzeit (22 bis 6 Uhr) die Kontur gleicher Pegelhäufigkeit für das Häufigkeits-Maximalpegelkriterium unter Berücksichtigung eines Pegelunterschiedes zwischen außen und innen von 15 dB(A) ermittelt. Die Nacht-Schutzzone bestimmt sich als Umhüllende dieser Kontur und der Kontur gleichen äquivalenten Dauerschallpegels während der Beurteilungszeit T nachts.

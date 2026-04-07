@@ -11,7 +11,9 @@ Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den Beitritt der B
 
 ### § 1
 
-(1) Die Bestimmungen des Abkommens über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen finden sinngemäß auf die Internationale Atomenergie-Organisation Anwendung nach Maßgabe der auf Artikel XV der Satzung der Internationalen Atomenergie-Organisation (Bundesgesetzbl. 1957 II S. 1357) beruhenden Vereinbarung über die Vorrechte und Befreiungen der Internationalen Atomenergie-Organisation.(2) Auf Deutsche im Sinne des Artikels 116 des Grundgesetzes finden Artikel VI § 19 Buchstabe b des Abkommens vom 21. November 1947 und Artikel VI § 18 Buchstabe a (ii) der Vereinbarung über die Vorrechte und Befreiungen der Internationalen Atomenergie-Organisation keine Anwendung.
+(1) Die Bestimmungen des Abkommens über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen finden sinngemäß auf die Internationale Atomenergie-Organisation Anwendung nach Maßgabe der auf Artikel XV der Satzung der Internationalen Atomenergie-Organisation (Bundesgesetzbl. 1957 II S. 1357) beruhenden Vereinbarung über die Vorrechte und Befreiungen der Internationalen Atomenergie-Organisation.
+
+(2) Auf Deutsche im Sinne des Artikels 116 des Grundgesetzes finden Artikel VI § 19 Buchstabe b des Abkommens vom 21. November 1947 und Artikel VI § 18 Buchstabe a (ii) der Vereinbarung über die Vorrechte und Befreiungen der Internationalen Atomenergie-Organisation keine Anwendung.
 
 ### § 2
 
@@ -19,4 +21,6 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar
 
 ### § 3
 
-(1) Diese Verordnung tritt an dem Tage in Kraft, an dem die Vereinbarung über die Vorrechte und Befreiungen der Internationalen Atomenergie-Organisation gemäß ihrem Artikel XII § 38 für die Bundesrepublik Deutschland in Kraft tritt.(2)
+(1) Diese Verordnung tritt an dem Tage in Kraft, an dem die Vereinbarung über die Vorrechte und Befreiungen der Internationalen Atomenergie-Organisation gemäß ihrem Artikel XII § 38 für die Bundesrepublik Deutschland in Kraft tritt.
+
+(2)

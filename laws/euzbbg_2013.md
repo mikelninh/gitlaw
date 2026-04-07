@@ -29,35 +29,21 @@ Der Bundestag bestellt einen Ausschuss für die Angelegenheiten der Europäische
 
 ### § 4 — Übersendung von Dokumenten und Berichtspflichten
 
-(1) Die Unterrichtung des Bundestages nach § 3 erfolgt insbesondere durch Übersendung von allen bei der Bundesregierung eingehenden Der Bundestag muss bereits im Voraus und so rechtzeitig informiert werden, dass er sich über den Gegenstand der Sitzungen sowie die Position der Bundesregierung eine Meinung bilden und auf die Verhandlungslinie und das Abstimmungsverhalten der Bundesregierung Einfluss nehmen kann. Berichte über Sitzungen müssen zumindest die von der Bundesregierung und von anderen Staaten vertretenen Positionen, den Verlauf der Verhandlungen und Zwischen- und Endergebnisse darstellen sowie über eingelegte Parlamentsvorbehalte unterrichten.
+(1) Die Unterrichtung des Bundestages nach § 3 erfolgt insbesondere durch Übersendung von allen bei der Bundesregierung eingehenden
 
-1.
+1. Dokumenten a)der Organe der Europäischen Union, der informellen Ministertreffen, des Ausschusses der Ständigen Vertreter und sonstiger Ausschüsse und Arbeitsgruppen des Rates,b)des Eurogipfels, der Eurogruppe und vergleichbarer Institutionen, die auf der Grundlage von völkerrechtlichen Verträgen und sonstigen Vereinbarungen, die in einem Ergänzungs- oder sonstigen besonderen Näheverhältnis zum Recht der Europäischen Union stehen, zusammentreten,c)aller die Institutionen nach den Buchstaben a und b vorbereitenden Gremien und Arbeitsgruppen; der Organe der Europäischen Union, der informellen Ministertreffen, des Ausschusses der Ständigen Vertreter und sonstiger Ausschüsse und Arbeitsgruppen des Rates, des Eurogipfels, der Eurogruppe und vergleichbarer Institutionen, die auf der Grundlage von völkerrechtlichen Verträgen und sonstigen Vereinbarungen, die in einem Ergänzungs- oder sonstigen besonderen Näheverhältnis zum Recht der Europäischen Union stehen, zusammentreten, aller die Institutionen nach den Buchstaben a und b vorbereitenden Gremien und Arbeitsgruppen;
 
-a)
+2. Berichten der Ständigen Vertretung der Bundesrepublik Deutschland bei der Europäischen Union beziehungsweise der Bundesregierung zu a)Sitzungen der in Nummer 1 genannten Institutionen,b)Sitzungen des Europäischen Parlaments und seiner Ausschüsse,c)Einberufungen, Verhandlungen und Ergebnissen von Trilogen,d)Beschlüssen der Europäischen Kommission. Sitzungen der in Nummer 1 genannten Institutionen, Sitzungen des Europäischen Parlaments und seiner Ausschüsse, Einberufungen, Verhandlungen und Ergebnissen von Trilogen, Beschlüssen der Europäischen Kommission.
 
-b)
+(2) Die Bundesregierung übersendet dem Bundestag zudem
 
-c)
+1. Dokumente und Informationen über Initiativen, Stellungnahmen, Konsultationsbeiträge, Programmentwürfe und Erläuterungen der Bundesregierung für Organe der Europäischen Union, informelle Ministertreffen sowie den Eurogipfel, die Eurogruppe und vergleichbare Institutionen auf der Grundlage von völkerrechtlichen Verträgen und sonstigen Vereinbarungen, die in einem Ergänzungs- oder sonstigen besonderen Näheverhältnis zum Recht der Europäischen Union stehen,
 
-2.
+2. entsprechende Initiativen, Stellungnahmen, Konsultationsbeiträge und Erläuterungen der Regierungen von Mitgliedstaaten der Europäischen Union,
 
-a)
+3. entsprechende Initiativen, Stellungnahmen, Konsultationsbeiträge und Erläuterungen des Bundesrates und der Länder sowie
 
-b)
-
-c)
-
-d)
-
-(2) Die Bundesregierung übersendet dem Bundestag zudem Dies gilt auch für alle vorbereitenden Gremien und Arbeitsgruppen.
-
-1.
-
-2.
-
-3.
-
-4.
+4. Sammelweisungen für den deutschen Vertreter im Ausschuss der Ständigen Vertreter.
 
 (3) Die Bundesregierung gibt Auskunft über ihr vorliegende inoffizielle Dokumente zu Angelegenheiten der Europäischen Union und stellt diese auf Anforderung frühestmöglich zur Verfügung.
 
@@ -67,63 +53,63 @@ d)
 
 (6) Die Bundesregierung unterrichtet den Bundestag ferner
 
-1.
+1. über die Einleitung von Vertragsverletzungsverfahren nach den Artikeln 258 und 260 des Vertrags über die Arbeitsweise der Europäischen Union durch Übermittlung von Mahnschreiben und mit Gründen versehenen Stellungnahmen sowie erläuternden Informationen und Dokumenten, insbesondere der Antwortschreiben der Bundesregierung, soweit diese Verfahren die ausgebliebene, unvollständige oder fehlerhafte Umsetzung von Richtlinien durch den Bund betreffen,
 
-2.
+2. über Verfahren vor dem Gerichtshof der Europäischen Union, bei denen die Bundesrepublik Deutschland Verfahrensbeteiligte ist. Zu Verfahren, an denen sich die Bundesregierung beteiligt, übermittelt sie die entsprechenden Dokumente, und
 
-3.
+3. auf Anforderung über weitere Verfahren vor dem Gerichtshof der Europäischen Union und übermittelt die entsprechenden Dokumente, soweit sie ihr vorliegen.
 
 ### § 5 — Vorhaben der Europäischen Union
 
 (1) Vorhaben der Europäischen Union (Vorhaben) im Sinne dieses Gesetzes sind insbesondere
 
-1.
+1. Vorschläge und Initiativen für Beschlüsse zur Aufnahme von Verhandlungen zu Änderungen der vertraglichen Grundlagen der Europäischen Union,
 
-2.
+2. Vorschläge und Initiativen für Beschlüsse zur Aufnahme von Verhandlungen zur Vorbereitung von Beitritten zur Europäischen Union,
 
-3.
+3. Vorschläge und Initiativen für Beschlüsse gemäß Artikel 140 Absatz 2 des Vertrages über die Arbeitsweise der Europäischen Union zur Einführung des Euro,
 
-4.
+4. Vorschläge für Gesetzgebungsakte der Europäischen Union,
 
-5.
+5. Verhandlungsmandate für die Europäische Kommission zu Verhandlungen über völkerrechtliche Verträge der Europäischen Union,
 
-6.
+6. Beratungsgegenstände, Initiativen sowie Verhandlungsmandate und Verhandlungsrichtlinien für die Europäische Kommission im Rahmen der gemeinsamen Handelspolitik und der Welthandelsrunden,
 
-7.
+7. Mitteilungen, Stellungnahmen, Grün- und Weißbücher sowie Empfehlungen der Europäischen Kommission,
 
-8.
+8. Berichte, Aktionspläne und Politische Programme der Organe der Europäischen Union,
 
-9.
+9. Interinstitutionelle Vereinbarungen der Organe der Europäischen Union,
 
-10.
+10. Haushalts- und Finanzplanung der Europäischen Union,
 
-11.
+11. Entwürfe zu völkerrechtlichen Verträgen und sonstigen Vereinbarungen, wenn sie in einem Ergänzungs- oder sonstigen besonderen Näheverhältnis zum Recht der Europäischen Union stehen,
 
-12.
+12. Beratungsgegenstände, Vorschläge und Initiativen, die im Rahmen von völkerrechtlichen Verträgen und Vereinbarungen im Sinne von Nummer 11 behandelt werden.
 
 (2) Vorhaben im Sinne dieses Gesetzes sind auch Vorschläge und Initiativen der Europäischen Union, bei denen eine Mitwirkung des Bundestages nach dem Integrationsverantwortungsgesetz vom 22. September 2009 (BGBl. I S. 3022) in der jeweils geltenden Fassung erforderlich ist.
 
 (3) Für Angelegenheiten
 
-1.
+1. des Europäischen Stabilitätsmechanismus gelten unbeschadet der §§ 1 bis 4 die Bestimmungen des ESM-Finanzierungsgesetzes vom 13. September 2012 (BGBl. I S. 1918) in der jeweils geltenden Fassung,
 
-2.
+2. der Europäischen Finanzstabilisierungsfazilität gelten unbeschadet der §§ 1 bis 4 die Bestimmungen des Stabilisierungsmechanismusgesetzes vom 22. Mai 2010 (BGBl. I S. 627) in der jeweils geltenden Fassung,
 
-3.
+3. der Gemeinsamen Außen- und Sicherheitspolitik und der Gemeinsamen Sicherheits- und Verteidigungspolitik gilt § 7.
 
 ### § 6 — Förmliche Zuleitung, Berichtsbogen und Umfassende Bewertung, Abschluss von EU-Gesetzgebungsverfahren
 
 (1) Die Bundesregierung übersendet dem Bundestag alle Vorhaben mit einem Zuleitungsschreiben (förmliche Zuleitung). Das Zuleitungsschreiben enthält auf der Grundlage des zuzuleitenden Dokuments die folgenden Hinweise:
 
-1.
+1. den wesentlichen Inhalt und die Zielsetzung des Vorhabens,
 
-2.
+2. das Datum des Erscheinens des betreffenden Dokuments in deutscher Sprache,
 
-3.
+3. die Rechtsgrundlage,
 
-4.
+4. das anzuwendende Verfahren und
 
-5.
+5. die Benennung des federführenden Bundesministeriums.
 
 (2) Die Bundesregierung übermittelt binnen zwei Wochen nach förmlicher Zuleitung eines Vorhabens einen Bericht gemäß der Anlage (Berichtsbogen). Dieser enthält insbesondere die Bewertung des Vorhabens hinsichtlich seiner Vereinbarkeit mit den Grundsätzen der Subsidiarität und der Verhältnismäßigkeit.
 
@@ -159,11 +145,11 @@ d)
 
 ### § 9 — Aufnahme von Verhandlungen über Beitritte und Vertragsänderungen
 
-(1) Mit der Unterrichtung über Vorschläge und Initiativen für Beschlüsse zur Aufnahme von Verhandlungen weist die Bundesregierung den Bundestag auf sein Recht zur Stellungnahme nach § 8 hin.
+(1) Mit der Unterrichtung über Vorschläge und Initiativen für Beschlüsse zur Aufnahme von Verhandlungen
 
-1.
+1. zur Vorbereitung eines Beitritts zur Europäischen Union oder
 
-2.
+2. zu Änderungen der vertraglichen Grundlagen der Europäischen Union
 
 (2) Vor der abschließenden Entscheidung im Rat oder im Europäischen Rat soll die Bundesregierung Einvernehmen mit dem Bundestag herstellen. Das Recht der Bundesregierung, in Kenntnis der Stellungnahme des Bundestages aus wichtigen außen- oder integrationspolitischen Gründen abweichende Entscheidungen zu treffen, bleibt unberührt.
 

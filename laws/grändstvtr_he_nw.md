@@ -12,21 +12,17 @@ Um die politische Zuordnung geschlossener Siedlungen im Interesse der betroffene
 
 ### Art 1
 
-(1) Dieser Staatsvertrag ändert die gemeinsame Landesgrenze in den Bereichen Die Änderungen sind in den Kartenblättern der Anlagen 1a bis c und 2a bis c graphisch dargestellt. Die Kartenblätter sind Bestandteil dieses Staatsvertrages.
+(1) Dieser Staatsvertrag ändert die gemeinsame Landesgrenze in den Bereichen
 
-1.
+1. Marsberg-Udorf (Hochsauerlandkreis, Nordrhein-Westfalen) und Bad Arolsen-Kohlgrund (Kreis Waldeck-Frankenberg, Hessen) sowie
 
-2.
+2. Brilon-Bontkirchen (Hochsauerlandkreis, Nordrhein-Westfalen) und Diemelsee-Stormbruch (Kreis Waldeck-Frankenberg, Hessen).
 
 (2) Es gehen nachfolgend aufgeführte Flurstücke über:
 
-1.
+1. im Gebiet der Gemeinden Marsberg-Udorf und Bad Arolsen-Kohlgrund a)vom Land Hessen auf das Land Nordrhein-Westfalenin der Gemarkung Kohlgrund, Flur 6, die Flurstücke: 44/1, 45/1, 46/1, 47/1, 51/1, 51/5, 51/6, 51/11, 51/8, 51/9, 52/2, 53/1, 53/2, 54, 60/2.b)vom Land Nordrhein-Westfalen auf das Land Hessenin der Gemarkung Udorf, Flur 1, die Flurstücke: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 445, 447, 449, 451, 453. vom Land Hessen auf das Land Nordrhein-Westfalen in der Gemarkung Kohlgrund, Flur 6, die Flurstücke: 44/1, 45/1, 46/1, 47/1, 51/1, 51/5, 51/6, 51/11, 51/8, 51/9, 52/2, 53/1, 53/2, 54, 60/2. vom Land Nordrhein-Westfalen auf das Land Hessen in der Gemarkung Udorf, Flur 1, die Flurstücke: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 445, 447, 449, 451, 453.
 
-a)
-
-b)
-
-2.
+2. im Gebiet der Gemeinden Brilon-Bontkirchen und Diemelsee-Stormbruch vom Land Hessen auf das Land Nordrhein-Westfalen in der Gemarkung Stormbruch, Flur 3, die Flurstücke: 66/4, 66/5, 69/3, 70/1, 70/2, 70/3, 72/3, 73/1, 74/13, 74/15, 74/16, 74/17, 74/18, 76/3, 77, 78, 79, 80/1, 80/2, 81/4, 83/1, 84/5, 86/4, 86/6, 87/16, 87/29, 88/8, 89/4, 92/4, 93/4, 95/3, 98/4, 99/5, 99/6, 101/5, 102/2, 103/10, 103/11, 103/12, 103/13, 103/14, 107/4, 251/95, 87/17, 87/19, 86/5, 249/5, 87/27, 87/26, 87/25, 144/1, 259/13, 249/6, 89/1, 87/6.
 
 ### Art 2
 
@@ -53,7 +49,3 @@ b)
 (2) Der Vertrag tritt nach Zustimmung der verfassungsmäßig zuständigen Organe der vertragschließenden Länder am ersten Tag des Monats in Kraft, der auf den Monat folgt, in dem die letzte Ratifikationsurkunde hinterlegt wurde.
 
 ### Schlussformel
-
-Für das Land Hessen
-
-Für das Land Nordrhein-Westfalen

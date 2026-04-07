@@ -20,23 +20,23 @@ Diese Verordnung regelt die Gestaltung und Verwendung des IT-Sicherheitskennzeic
 
 Im Sinne dieser Verordnung ist oder sind:
 
-1.
+1. Hersteller jede juristische oder natürliche Person, die einen Dienst anbietet oder ein Produkt herstellt beziehungsweise entwickeln oder herstellen lässt und dieses Produkt oder diesen Dienst unter ihrem eigenen Namen oder ihrer eigenen Marke vermarktet; nicht erfasst sind die Hersteller einzelner Teile oder Komponenten davon;
 
-2.
+2. Verkäufer jede juristische oder natürliche Person, die gewerblich ein Produkt unmittelbar Verbrauchern und Verbraucherinnen auf dem Markt bereitstellt;
 
-3.
+3. Branche die Unternehmen und Organisationen und ihre Verbände, die für den jeweiligen Wirtschaftsbereich Produkte oder Dienstleistungen im Geltungsbereich dieses Gesetzes herstellen oder vertreiben;
 
-4.
+4. branchenabgestimmte IT-Sicherheitsvorgabe ein Anforderungskatalog, der von einer Branche erstellt und gepflegt wird und dessen Geeignetheit das Bundesamt nach § 55 Absatz 3 Satz 1 des BSI-Gesetzes festgestellt hat;
 
-5.
+5. geeignete und qualifizierte Dritte juristische oder natürliche Personen, die aufgrund ihrer fachlichen Qualifikation eine Aussage darüber treffen können, ob Sicherheitsversprechen eines Produktes eingehalten werden oder bestimmte Eigenschaften nachgewiesen werden können;
 
-6.
+6. Plausibilitätsprüfung die Sichtung der Herstellererklärung, der Angaben des Herstellers im Antrag und eventueller Unterlagen zur Ermittlung, ob die Konformität mit den vom Bundesamt festgelegten Sicherheitsanforderungen plausibel und nachvollziehbar zugesichert wird;
 
-7.
+7. Produktkategorie ein durch das Bundesamt festgelegter Oberbegriff für die Erfassung einer Gruppe von vergleichbaren informationstechnischen Produkten in einem eingrenzbaren Bereich;
 
-8.
+8. zugehörige Internetseite der für das einzelne Produkt angepasste Zielbereich auf der Internetseite des Bundesamtes, auf der Informationen zu diesem Produkt vorgehalten werden;
 
-9.
+9. Etikett die physische oder elektronische Kennzeichnung am Produkt oder seiner Umverpackung, welche produktspezifisch mit dem Verweis auf die zugehörige Internetseite angepasst wird.
 
 ### § 3 — Gestaltung des Etiketts und der Internetseite zum IT-Sicherheitskennzeichen
 
@@ -44,9 +44,9 @@ Im Sinne dieser Verordnung ist oder sind:
 
 (2) Das Etikett hat dafür jedenfalls zwingend zu umfassen:
 
-1.
+1. einen Verweis auf die zugehörige Internetseite des Bundesamtes nach Absatz 4;
 
-2.
+2. die Nennung des Bundesamtes.
 
 (3) Das Etikett kann durch das Bundesamt mit einer grafischen Darstellung ausgestaltet werden, um mittels dieser bildlich für den Verbraucher einen sofortigen Wiedererkennungswert zu erzeugen.
 
@@ -56,7 +56,7 @@ Im Sinne dieser Verordnung ist oder sind:
 
 ### § 4 — Antrag
 
-(1) Ein Antrag auf Freigabe des IT-Sicherheitskennzeichens für ein Produkt kann nur innerhalb der vom Bundesamt nach § 11 bekannt gegebenen Produktkategorien gestellt werden. Der Antrag kann vom Hersteller des Produktes gestellt werden.
+(1) Ein Antrag auf Freigabe des IT-Sicherheitskennzeichens für ein Produkt kann nur innerhalb der vom Bundesamt nach § 11 bekannt gegebenen Produktkategorien gestellt werden. Der Antrag kann vom Hersteller des Produktes gestellt werden.
 
 (2) Der Antrag ist unter Verwendung der dafür geltenden Vorlage einzureichen, wenn das Bundesamt eine solche veröffentlicht hat. Der Hersteller hat dafür Sorge zu tragen, dass die Erklärung und beigefügten Unterlagen ausschließlich zutreffende Angaben enthalten.
 
@@ -72,11 +72,11 @@ Im Sinne dieser Verordnung ist oder sind:
 
 (4) Liegen die gesetzlichen Voraussetzungen gemäß § 55 Absatz 5 des BSI-Gesetzes vor, erteilt das Bundesamt die Freigabe zur Nutzung des IT-Sicherheitskennzeichens.
 
-(5) Das Bundesamt kann den Antrag ablehnen, wenn Hinweise dafür vorliegen, dass Das Bundesamt kann die Freigabe der Nutzung auch dann verweigern, wenn der Freigabe unabhängig von den eingereichten Unterlagen ernstliche Zweifel an der Herstellererklärung entgegenstehen.
+(5) Das Bundesamt kann den Antrag ablehnen, wenn Hinweise dafür vorliegen, dass
 
-1.
+1. das Produkt oder die mit dem Produkt ausgelieferte Software bekannte Sicherheitslücken enthält oder
 
-2.
+2. Produkte des Herstellers bereits Gegenstand einer Warnung oder Information nach den § 13 oder 14 des BSI-Gesetzes oder von Maßnahmen nach § 55 Absatz 8 des BSI-Gesetzes betroffen waren.
 
 (6) Entscheidungen, mit denen abschließend über einen nach dieser Verordnung gestellten Antrag entschieden wird, sind schriftlich oder elektronisch zu erlassen.
 
@@ -154,11 +154,11 @@ Verbraucherinformationen zu Produkten mit der Freigabe zur Nutzung des IT-Sicher
 
 Drei Jahre nach Inkrafttreten dieser Rechtsverordnung und folgend alle drei Jahre sind unter Beteiligung der in § 56 Absatz 2 des BSI-Gesetzes genannten Ressorts zu evaluieren:
 
-1.
+1. die Produktkategorien;
 
-2.
+2. die Anerkennung von Branchenstandards;
 
-3.
+3. die Freigabekriterien für das Kennzeichen.
 
 ### § 15 — Inkrafttreten
 

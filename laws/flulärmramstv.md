@@ -35,13 +35,9 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Schlußformel
 
-Der Bundesminister des Innern
-
 ### Anlage 1 — (zu Artikel 1 Nummer 2 der Ersten Verordnung zur Änderung der
 Verordnung über die Festsetzung des Lärmschutzbereichs für
 den militärischen Flugplatz Ramstein)
-
-(Fundstelle des Originaltextes: BGBl. I 1983, 1046 - 1053)
 
 ### Anlage 2 — (zu Artikel 1
 Nummer 2 der Ersten Verordnung zur Änderung der Verordnung

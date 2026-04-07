@@ -16,71 +16,69 @@ Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 2
 
 ### § 1 — Berufsbild
 
-(1) Dem Bogenmacher-Handwerk sind folgende Tätigkeiten zuzurechnen: Entwurf, Herstellung, Instandhaltung und Restaurierung von Bögen für Streichinstrumente, insbesondere Violinen-, Bratschen-, Cello-, Baß- und Gambenbögen.
-
 (2) Dem Bogenmacher-Handwerk sind folgende Kenntnisse und Fertigkeiten zuzurechnen:
 
-1.
+1. Kenntnisse der Bögen für Streichinstrumente,
 
-2.
+2. Kenntnisse der berufsbezogenen Roh-, Werk- und Hilfsstoffe, insbesondere der Holzarten,
 
-3.
+3. Kenntnisse der berufsbezogenen Vorschriften des Artenschutzes,
 
-4.
+4. Kenntnisse der berufsbezogenen Werkzeuge, Geräte und Maschinen,
 
-5.
+5. Kenntnisse der berufsbezogenen Musik- und Musikinstrumentengeschichte sowie der Stilkunde, insbesondere der Bogenbauschulen,
 
-6.
+6. Kenntnisse auf dem Gebiet der Musiktheorie,
 
-7.
+7. Kenntnisse der Gewichtsverteilung, Spannung und Elastizität von Bögen,
 
-8.
+8. Kenntnisse der Stricharten von Bögen,
 
-9.
+9. Kenntnisse der Instandhaltung und Restaurierung von Bögen,
 
-10.
+10. Kenntnisse der Arten und Eigenschaften von Streichinstrumenten und den zugeordneten Bögen,
 
-11.
+11. Kenntnisse der berufsbezogenen Normen und Maße,
 
-12.
+12. Kenntnisse der berufsbezogenen Vorschriften des Umweltschutzes, insbesondere des Immissionsschutzes,
 
-13.
+13. Kenntnisse der berufsbezogenen Vorschriften der Arbeitssicherheit und des Arbeitsschutzes,
 
-14.
+14. Entwerfen und Anfertigen von Werkzeichnungen,
 
-15.
+15. Vierteln und Spalten der Hölzer sowie Zuschneiden der Bretter und Stangen,
 
-16.
+16. Bearbeiten von Holz, insbesondere Spalten, Sägen, Drehen, Hobeln, Feilen, Bohren, Stechen, Schleifen und Krätzen,
 
-17.
+17. Aushobeln der rohen Bogenstangen sowie Aussägen des Kopfes,
 
-18.
+18. Biegen, Ankanten und Hobeln der Stangen,
 
-19.
+19. Ausformen des Kopfes, insbesondere durch Schnitzen und Feilen,
 
-20.
+20. Anfertigen von Rohstöckchen, insbesondere durch Spalten, Sägen, Stechen und Raspeln von Ebenholz,
 
-21.
+21. Bearbeiten von Edelmetallen, insbesondere Sägen, Walzen, Feilen, Stanzen, Stiften und Löten,
 
-22.
+22. Montieren der Metall- und Perlmutterteile zum Frosch,
 
-23.
+23. Ausformen des Frosches,
 
-24.
+24. Anfertigen des Beinchens,
 
-25.
+25. Aufpassen und Zusammensetzen von Stange, Frosch und Beinchen,
 
-26.
+26. Sortieren, Binden und Einziehen von Haaren,
 
-27.
+27. Kontrollieren und Korrigieren des Bogens,
 
-28.
+28. manuelle und maschinelle Oberflächenbearbeitung, insbesondere Beizen, Ölen und Polieren,
 
-29.
+29. Anbringen der Bewicklung,
 
-30.
+30. Pflegen und Instandhalten von Bögen,
 
-31.
+31. Pflegen und Instandhalten der berufsbezogenen Werkzeuge, Geräte und Maschinen.
 
 ## 2. Abschnitt: Prüfungsanforderungen in den
 Teilen I und II der Meisterprüfung
@@ -98,13 +96,13 @@ Prüfung (Teil I)
 
 (1) Als Meisterprüfungsarbeit ist eine der nachstehend genannten Arbeiten anzufertigen:
 
-1.
+1. ein Geigenbogen,
 
-2.
+2. ein Bratschenbogen,
 
-3.
+3. ein Cellobogen,
 
-4.
+4. ein Baßbogen nach deutschem oder französischem Modell.
 
 (2) Der Prüfling hat vor Anfertigung der Meisterprüfungsarbeit dem Meisterprüfungsausschuß das zu verwendende Material und die Vorkalkulation zur Genehmigung vorzulegen.
 
@@ -116,23 +114,23 @@ Prüfung (Teil I)
 
 (1) Als Arbeitsprobe sind vier der nachstehend genannten Arbeiten auszuführen:
 
-1.
+1. Hobeln einer Bogenstange,
 
-2.
+2. Beziehen eines Bogens,
 
-3.
+3. Ausarbeiten eines ausgesägten und aufgeplatteten Kopfes,
 
-4.
+4. Aufpassen und Nacharbeiten einer Kopfplatte auf einen fertigen Bogen,
 
-5.
+5. Ausrichten einer Bogenstange,
 
-6.
+6. manuelles Anfertigen eines Frosches,
 
-7.
+7. manuelles Anschäften eines Kopfes mit Schwalbenschwanz,
 
-8.
+8. Anschäften eines Froschfüßchens und Aufpassen eines Froschringes,
 
-9.
+9. Anschäften eines Stangenendes und Aufpassen eines Frosches.
 
 (2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.
 
@@ -141,37 +139,15 @@ Prüfung (Teil I)
 
 (1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern nachzuweisen:
 
-1.
+1. Technische Mathematik:a)Material- und Verschnittberechnungen, b)Gewichtsberechnungen; Material- und Verschnittberechnungen, Gewichtsberechnungen;
 
-a)
+2. Fachtechnologie:a)Herstellung, Instandhaltung und Restaurierung von Bögen für Streichinstrumente, b)Arten und Eigenschaften von Streichinstrumenten und den zugeordneten Bögen, c)Gewichtsverteilung, Spannung und Elastizität von Bögen, d)Stricharten von Bögen, e)berufsbezogene Normen und Maße, f)berufsbezogene Vorschriften der Arbeitssicherheit und des Arbeitsschutzes; Herstellung, Instandhaltung und Restaurierung von Bögen für Streichinstrumente, Arten und Eigenschaften von Streichinstrumenten und den zugeordneten Bögen, Gewichtsverteilung, Spannung und Elastizität von Bögen, Stricharten von Bögen, berufsbezogene Normen und Maße, berufsbezogene Vorschriften der Arbeitssicherheit und des Arbeitsschutzes;
 
-b)
+3. Werkstoffkunde: Arten, Eigenschaften, Bezeichnungen, Verwendung, Verarbeitung, Lagerung und Entsorgung der berufsbezogenen Roh-, Werk- und Hilfsstoffe;
 
-2.
+4. Stilkunde, Musik- und Musikinstrumentengeschichte, Musiktheorie:a)Stilkunde, insbesondere Bogenbauschulen, b)Musik- und Musikinstrumentengeschichte, insbesondere der Bögen für Streichinstrumente, c)Musiktheorie; Stilkunde, insbesondere Bogenbauschulen, Musik- und Musikinstrumentengeschichte, insbesondere der Bögen für Streichinstrumente, Musiktheorie;
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-3.
-
-4.
-
-a)
-
-b)
-
-c)
-
-5.
+5. Kalkulation: Kostenermittlung unter Einbeziehung aller für die Preisbildung wesentlichen Faktoren.
 
 (2) Die Prüfung ist schriftlich und mündlich durchzuführen.
 

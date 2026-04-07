@@ -20,73 +20,59 @@ Zweck dieses Gesetzes ist es, nachhaltig die Funktionen des Bodens zu sichern od
 
 (2) Der Boden erfüllt im Sinne dieses Gesetzes
 
-1.
+1. natürliche Funktionen alsa)Lebensgrundlage und Lebensraum für Menschen, Tiere, Pflanzen und Bodenorganismen, b)Bestandteil des Naturhaushalts, insbesondere mit seinen Wasser- und Nährstoffkreisläufen, c)Abbau-, Ausgleichs- und Aufbaumedium für stoffliche Einwirkungen auf Grund der Filter-, Puffer- und Stoffumwandlungseigenschaften, insbesondere auch zum Schutz des Grundwassers, Lebensgrundlage und Lebensraum für Menschen, Tiere, Pflanzen und Bodenorganismen, Bestandteil des Naturhaushalts, insbesondere mit seinen Wasser- und Nährstoffkreisläufen, Abbau-, Ausgleichs- und Aufbaumedium für stoffliche Einwirkungen auf Grund der Filter-, Puffer- und Stoffumwandlungseigenschaften, insbesondere auch zum Schutz des Grundwassers,
 
-a)
+2. Funktionen als Archiv der Natur- und Kulturgeschichte sowie
 
-b)
-
-c)
-
-2.
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
+3. Nutzungsfunktionen alsa)Rohstofflagerstätte, b)Fläche für Siedlung und Erholung, c)Standort für die land- und forstwirtschaftliche Nutzung, d)Standort für sonstige wirtschaftliche und öffentliche Nutzungen, Verkehr, Ver- und Entsorgung. Rohstofflagerstätte, Fläche für Siedlung und Erholung, Standort für die land- und forstwirtschaftliche Nutzung, Standort für sonstige wirtschaftliche und öffentliche Nutzungen, Verkehr, Ver- und Entsorgung.
 
 (3) Schädliche Bodenveränderungen im Sinne dieses Gesetzes sind Beeinträchtigungen der Bodenfunktionen, die geeignet sind, Gefahren, erhebliche Nachteile oder erhebliche Belästigungen für den einzelnen oder die Allgemeinheit herbeizuführen.
 
 (4) Verdachtsflächen im Sinne dieses Gesetzes sind Grundstücke, bei denen der Verdacht schädlicher Bodenveränderungen besteht.
 
-(5) Altlasten im Sinne dieses Gesetzes sind durch die schädliche Bodenveränderungen oder sonstige Gefahren für den einzelnen oder die Allgemeinheit hervorgerufen werden.
+(5) Altlasten im Sinne dieses Gesetzes sind
 
-1.
+1. stillgelegte Abfallbeseitigungsanlagen sowie sonstige Grundstücke, auf denen Abfälle behandelt, gelagert oder abgelagert worden sind (Altablagerungen), und
 
-2.
+2. Grundstücke stillgelegter Anlagen und sonstige Grundstücke, auf denen mit umweltgefährdenden Stoffen umgegangen worden ist, ausgenommen Anlagen, deren Stillegung einer Genehmigung nach dem Atomgesetz bedarf (Altstandorte),
 
 (6) Altlastverdächtige Flächen im Sinne dieses Gesetzes sind Altablagerungen und Altstandorte, bei denen der Verdacht schädlicher Bodenveränderungen oder sonstiger Gefahren für den einzelnen oder die Allgemeinheit besteht.
 
 (7) Sanierung im Sinne dieses Gesetzes sind Maßnahmen
 
-1.
+1. zur Beseitigung oder Verminderung der Schadstoffe (Dekontaminationsmaßnahmen),
 
-2.
+2. die eine Ausbreitung der Schadstoffe langfristig verhindern oder vermindern, ohne die Schadstoffe zu beseitigen (Sicherungsmaßnahmen),
 
-3.
+3. zur Beseitigung oder Verminderung schädlicher Veränderungen der physikalischen, chemischen oder biologischen Beschaffenheit des Bodens.
 
 (8) Schutz- und Beschränkungsmaßnahmen im Sinne dieses Gesetzes sind sonstige Maßnahmen, die Gefahren, erhebliche Nachteile oder erhebliche Belästigungen für den einzelnen oder die Allgemeinheit verhindern oder vermindern, insbesondere Nutzungsbeschränkungen.
 
 ### § 3 — Anwendungsbereich
 
-(1) Dieses Gesetz findet auf schädliche Bodenveränderungen und Altlasten Anwendung, soweit Einwirkungen auf den Boden nicht regeln.
+(1) Dieses Gesetz findet auf schädliche Bodenveränderungen und Altlasten Anwendung, soweit
 
-1.
+1. Vorschriften des Kreislaufwirtschaftsgesetzes über das Aufbringen von Abfällen zur Verwertung als Düngemittel im Sinne des § 2 des Düngegesetzes und der hierzu auf Grund des Kreislaufwirtschaftsgesetzes und des bis zum 1. Juni 2012 geltenden Kreislaufwirtschafts- und Abfallgesetzes erlassenen Rechtsverordnungen,
 
-2.
+2. Vorschriften des Kreislaufwirtschaftsgesetzes über die Zulassung und den Betrieb von Abfallbeseitigungsanlagen zur Beseitigung von Abfällen sowie über die Stillegung von Deponien,
 
-3.
+3. Vorschriften über die Beförderung gefährlicher Güter,
 
-4.
+4. Vorschriften des Düngemittel- und Pflanzenschutzrechts,
 
-5.
+5. Vorschriften des Gentechnikgesetzes,
 
-6.
+6. Vorschriften des Zweiten Kapitels des Bundeswaldgesetzes und der Forst- und Waldgesetze der Länder,
 
-7.
+7. Vorschriften des Flurbereinigungsgesetzes über das Flurbereinigungsgebiet, auch in Verbindung mit dem Landwirtschaftsanpassungsgesetz,
 
-8.
+8. Vorschriften über Bau, Änderung, Unterhaltung und Betrieb von Verkehrswegen oder Vorschriften, die den Verkehr regeln,
 
-9.
+9. Vorschriften des Bauplanungs- und Bauordnungsrechts,
 
-10.
+10. Vorschriften des Bundesberggesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen über die Errichtung, Führung oder Einstellung eines Betriebes sowie
 
-11.
+11. Vorschriften des Bundes-Immissionsschutzgesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen über die Errichtung und den Betrieb von Anlagen unter Berücksichtigung von Absatz 3
 
 (2) Dieses Gesetz findet keine Anwendung auf Anlagen, Tätigkeiten, Geräte oder Vorrichtungen, Kernbrennstoffe und sonstige radioaktive Stoffe, Grundstücke, Teile von Grundstücken, Gewässer und Grubenbaue, soweit Rechtsvorschriften den Schutz vor den Gefahren der Kernenergie oder der Wirkung ionisierender Strahlen regeln. Dieses Gesetz gilt ferner nicht für das Aufsuchen, Bergen, Befördern, Lagern, Behandeln und Vernichten von Kampfmitteln.
 
@@ -115,11 +101,11 @@ Soweit die Vorschriften des Baurechts die Befugnisse der Behörden nicht regeln,
 ### § 6 — Auf- und Einbringen von Materialien auf oder in
 den Boden
 
-Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 20) durch Rechtsverordnung mit Zustimmung des Bundesrates zur Erfüllung der sich aus diesem Gesetz ergebenden Anforderungen an das Auf- und Einbringen von Materialien hinsichtlich der Schadstoffgehalte und sonstiger Eigenschaften, insbesondere zu bestimmen.
+Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 20) durch Rechtsverordnung mit Zustimmung des Bundesrates zur Erfüllung der sich aus diesem Gesetz ergebenden Anforderungen an das Auf- und Einbringen von Materialien hinsichtlich der Schadstoffgehalte und sonstiger Eigenschaften, insbesondere
 
-1.
+1. Verbote oder Beschränkungen nach Maßgabe von Merkmalen wie Art und Beschaffenheit der Materialien und des Bodens, Aufbringungsort und -zeit und natürliche Standortverhältnisse sowie
 
-2.
+2. Untersuchungen der Materialien oder des Bodens, Maßnahmen zur Vorbehandlung dieser Materialien oder geeignete andere Maßnahmen
 
 ### § 7 — Vorsorgepflicht
 
@@ -127,29 +113,19 @@ Der Grundstückseigentümer, der Inhaber der tatsächlichen Gewalt über ein Gru
 
 ### § 8 — Werte und Anforderungen
 
-(1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 20) durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über die Erfüllung der sich aus § 4 ergebenden boden- und altlastenbezogenen Pflichten sowie die Untersuchung und Bewertung von Verdachtsflächen, schädlichen Bodenveränderungen, altlastverdächtigen Flächen und Altlasten zu erlassen. Hierbei können insbesondere festgelegt werden.
+(1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 20) durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über die Erfüllung der sich aus § 4 ergebenden boden- und altlastenbezogenen Pflichten sowie die Untersuchung und Bewertung von Verdachtsflächen, schädlichen Bodenveränderungen, altlastverdächtigen Flächen und Altlasten zu erlassen. Hierbei können insbesondere
 
-1.
+1. Werte, bei deren Überschreiten unter Berücksichtigung der Bodennutzung eine einzelfallbezogene Prüfung durchzuführen und festzustellen ist, ob eine schädliche Bodenveränderung oder Altlast vorliegt (Prüfwerte),
 
-2.
+2. Werte für Einwirkungen oder Belastungen, bei deren Überschreiten unter Berücksichtigung der jeweiligen Bodennutzung in der Regel von einer schädlichen Bodenveränderung oder Altlast auszugehen ist und Maßnahmen erforderlich sind (Maßnahmenwerte),
 
-3.
-
-a)
-
-b)
-
--
-
--
-
--
+3. Anforderungen ana)die Abwehr schädlicher Bodenveränderungen; hierzu gehören auch Anforderungen an den Umgang mit ausgehobenem, abgeschobenem und behandeltem Bodenmaterial, b)die Sanierung des Bodens und von Altlasten, insbesondere an-die Bestimmung des zu erreichenden Sanierungsziels, -den Umfang von Dekontaminations- und Sicherungsmaßnahmen, die langfristig eine Ausbreitung von Schadstoffen verhindern, sowie -Schutz- und Beschränkungsmaßnahmen die Abwehr schädlicher Bodenveränderungen; hierzu gehören auch Anforderungen an den Umgang mit ausgehobenem, abgeschobenem und behandeltem Bodenmaterial, die Sanierung des Bodens und von Altlasten, insbesondere an-die Bestimmung des zu erreichenden Sanierungsziels, -den Umfang von Dekontaminations- und Sicherungsmaßnahmen, die langfristig eine Ausbreitung von Schadstoffen verhindern, sowie -Schutz- und Beschränkungsmaßnahmen die Bestimmung des zu erreichenden Sanierungsziels, den Umfang von Dekontaminations- und Sicherungsmaßnahmen, die langfristig eine Ausbreitung von Schadstoffen verhindern, sowie Schutz- und Beschränkungsmaßnahmen
 
 (2) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 20) durch Rechtsverordnung mit Zustimmung des Bundesrates zur Erfüllung der sich aus § 7 ergebenden Pflichten sowie zur Festlegung von Anforderungen an die damit verbundene Untersuchung und Bewertung von Flächen mit der Besorgnis einer schädlichen Bodenveränderung Vorschriften zu erlassen, insbesondere über
 
-1.
+1. Bodenwerte, bei deren Überschreiten unter Berücksichtigung von geogenen oder großflächig siedlungsbedingten Schadstoffgehalten in der Regel davon auszugehen ist, daß die Besorgnis einer schädlichen Bodenveränderung besteht (Vorsorgewerte),
 
-2.
+2. zulässige Zusatzbelastungen und Anforderungen zur Vermeidung oder Verminderung von Stoffeinträgen.
 
 (3) Mit den in den Absätzen 1 und 2 genannten Werten sind Verfahren zur Ermittlung von umweltgefährdenden Stoffen in Böden, biologischen und anderen Materialien festzulegen. Diese Verfahren umfassen auch Anforderungen an eine repräsentative Probenahme, Probenbehandlung und Qualitätssicherung einschließlich der Ermittlung der Werte für unterschiedliche Belastungen.
 
@@ -177,13 +153,13 @@ Die nach § 9 Abs. 2 Satz 1 zur Untersuchung der Altlast und die nach § 4 Abs. 
 
 ### § 13 — Sanierungsuntersuchungen und Sanierungsplanung
 
-(1) Bei Altlasten, bei denen wegen der Verschiedenartigkeit der nach § 4 erforderlichen Maßnahmen ein abgestimmtes Vorgehen notwendig ist oder von denen auf Grund von Art, Ausbreitung oder Menge der Schadstoffe in besonderem Maße schädliche Bodenveränderungen oder sonstige Gefahren für den einzelnen oder die Allgemeinheit ausgehen, soll die zuständige Behörde von einem nach § 4 Abs. 3, 5 oder 6 zur Sanierung Verpflichteten die notwendigen Untersuchungen zur Entscheidung über Art und Umfang der erforderlichen Maßnahmen (Sanierungsuntersuchungen) sowie die Vorlage eines Sanierungsplans verlangen, der insbesondere enthält. Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 20) durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über die Anforderungen an Sanierungsuntersuchungen sowie den Inhalt von Sanierungsplänen zu erlassen.
+(1) Bei Altlasten, bei denen wegen der Verschiedenartigkeit der nach § 4 erforderlichen Maßnahmen ein abgestimmtes Vorgehen notwendig ist oder von denen auf Grund von Art, Ausbreitung oder Menge der Schadstoffe in besonderem Maße schädliche Bodenveränderungen oder sonstige Gefahren für den einzelnen oder die Allgemeinheit ausgehen, soll die zuständige Behörde von einem nach § 4 Abs. 3, 5 oder 6 zur Sanierung Verpflichteten die notwendigen Untersuchungen zur Entscheidung über Art und Umfang der erforderlichen Maßnahmen (Sanierungsuntersuchungen) sowie die Vorlage eines Sanierungsplans verlangen, der insbesondere
 
-1.
+1. eine Zusammenfassung der Gefährdungsabschätzung und der Sanierungsuntersuchungen,
 
-2.
+2. Angaben über die bisherige und künftige Nutzung der zu sanierenden Grundstücke,
 
-3.
+3. die Darstellung des Sanierungsziels und die hierzu erforderlichen Dekontaminations-, Sicherungs-, Schutz-, Beschränkungs- und Eigenkontrollmaßnahmen sowie die zeitliche Durchführung dieser Maßnahmen
 
 (2) Die zuständige Behörde kann verlangen, daß die Sanierungsuntersuchungen sowie der Sanierungsplan von einem Sachverständigen nach § 18 erstellt werden.
 
@@ -197,13 +173,13 @@ Die nach § 9 Abs. 2 Satz 1 zur Untersuchung der Altlast und die nach § 4 Abs. 
 
 ### § 14 — Behördliche Sanierungsplanung
 
-Die zuständige Behörde kann den Sanierungsplan nach § 13 Abs. 1 selbst erstellen oder ergänzen oder durch einen Sachverständigen nach § 18 erstellen oder ergänzen lassen, wenn § 13 Abs. 3 bis 6 gilt entsprechend.
+Die zuständige Behörde kann den Sanierungsplan nach § 13 Abs. 1 selbst erstellen oder ergänzen oder durch einen Sachverständigen nach § 18 erstellen oder ergänzen lassen, wenn
 
-1.
+1. der Plan nicht, nicht innerhalb der von der Behörde gesetzten Frist oder fachlich unzureichend erstellt worden ist,
 
-2.
+2. ein nach § 4 Abs. 3, 5 oder 6 Verpflichteter nicht oder nicht rechtzeitig herangezogen werden kann oder
 
-3.
+3. auf Grund der großflächigen Ausdehnung der Altlast, der auf der Altlast beruhenden weiträumigen Verunreinigung eines Gewässers oder auf Grund der Anzahl der nach § 4 Abs. 3, 5 oder 6 Verpflichteten ein koordiniertes Vorgehen erforderlich ist.
 
 ### § 15 — Behördliche Überwachung, Eigenkontrolle
 
@@ -227,19 +203,19 @@ Die zuständige Behörde kann den Sanierungsplan nach § 13 Abs. 1 selbst erstel
 
 (2) Grundsätze der guten fachlichen Praxis der landwirtschaftlichen Bodennutzung sind die nachhaltige Sicherung der Bodenfruchtbarkeit und Leistungsfähigkeit des Bodens als natürlicher Ressource. Zu den Grundsätzen der guten fachlichen Praxis gehört insbesondere, daß
 
-1.
+1. die Bodenbearbeitung unter Berücksichtigung der Witterung grundsätzlich standortangepaßt zu erfolgen hat,
 
-2.
+2. die Bodenstruktur erhalten oder verbessert wird,
 
-3.
+3. Bodenverdichtungen, insbesondere durch Berücksichtigung der Bodenart, Bodenfeuchtigkeit und des von den zur landwirtschaftlichen Bodennutzung eingesetzten Geräten verursachten Bodendrucks, so weit wie möglich vermieden werden,
 
-4.
+4. Bodenabträge durch eine standortangepaßte Nutzung, insbesondere durch Berücksichtigung der Hangneigung, der Wasser- und Windverhältnisse sowie der Bodenbedeckung, möglichst vermieden werden,
 
-5.
+5. die naturbetonten Strukturelemente der Feldflur, insbesondere Hecken, Feldgehölze, Feldraine und Ackerterrassen, die zum Schutz des Bodens notwendig sind, erhalten werden,
 
-6.
+6. die biologische Aktivität des Bodens durch entsprechende Fruchtfolgegestaltung erhalten oder gefördert wird und
 
-7.
+7. der standorttypische Humusgehalt des Bodens, insbesondere durch eine ausreichende Zufuhr an organischer Substanz oder durch Reduzierung der Bearbeitungsintensität erhalten wird.
 
 (3) Die Pflichten nach § 4 werden durch die Einhaltung der in § 3 Abs. 1 genannten Vorschriften erfüllt; enthalten diese keine Anforderungen an die Gefahrenabwehr und ergeben sich solche auch nicht aus den Grundsätzen der guten fachlichen Praxis nach Absatz 2, so gelten die übrigen Bestimmungen dieses Gesetzes.
 
@@ -263,15 +239,11 @@ Soweit Ermächtigungen zum Erlaß von Rechtsverordnungen die Anhörung der betei
 
 (1) Zur Ausführung des Zweiten und Dritten Teils dieses Gesetzes können die Länder ergänzende Verfahrensregelungen erlassen.
 
-(2) Die Länder können bestimmen, daß über die im Dritten Teil geregelten altlastverdächtigen Flächen und Altlasten hinaus bestimmte Verdachtsflächen daß bei schädlichen Bodenveränderungen, von denen auf Grund von Art, Ausbreitung oder Menge der Schadstoffe in besonderem Maße Gefahren, erhebliche Nachteile oder erhebliche Belästigungen für den einzelnen oder die Allgemeinheit ausgehen, verlangt werden können.
+(2) Die Länder können bestimmen, daß über die im Dritten Teil geregelten altlastverdächtigen Flächen und Altlasten hinaus bestimmte Verdachtsflächen
 
-1.
+1. von der zuständigen Behörde zu erfassen und
 
-2.
-
-1.
-
-2.
+2. von den Verpflichteten der zuständigen Behörde mitzuteilen sind sowie
 
 (3) Die Länder können darüber hinaus Gebiete, in denen flächenhaft schädliche Bodenveränderungen auftreten oder zu erwarten sind, und die dort zu ergreifenden Maßnahmen bestimmen sowie weitere Regelungen über gebietsbezogene Maßnahmen des Bodenschutzes treffen.
 
@@ -314,12 +286,12 @@ Gemeinschaften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. einer Rechtsverordnung nach § 5 Satz 1, §§ 6, 8 Abs. 1 oder § 22 Abs. 1 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
-2.
+2. einer vollziehbaren Anordnung nach § 10 Abs. 1 Satz 1 zuwiderhandelt, soweit sie sich auf eine Pflicht nach § 4 Abs. 3, 5 oder 6 bezieht,
 
-3.
+3. einer vollziehbaren Anordnung nach § 13 Abs. 1 oder § 15 Abs. 2 Satz 1, 3 oder 4 zuwiderhandelt oder
 
-4.
+4. entgegen § 15 Abs. 3 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 2 mit einer Geldbuße bis zu fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.

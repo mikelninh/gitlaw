@@ -30,49 +30,49 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 4 — Struktur der Berufsausbildung, Ausbildungsberufsbild
 
-(1) Die Berufsausbildung gliedert sich in: Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
+(1) Die Berufsausbildung gliedert sich in:
 
-1.
+1. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 (2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. Serviceleistungen anbieten,
 
-2.
+2. Kunden ganzheitlich beraten,
 
-3.
+3. Kunden gewinnen und Kundenbeziehungen intensivieren,
 
-4.
+4. Liquidität sicherstellen,
 
-5.
+5. Vermögen bilden mit Sparformen,
 
-6.
+6. Vermögen bilden mit Wertpapieren,
 
-7.
+7. zu Vorsorge und Absicherung informieren,
 
-8.
+8. Konsumentenkredite anbieten und Abschlüsse vorbereiten,
 
-9.
+9. Baufinanzierungen vorbereiten und bearbeiten,
 
-10.
+10. an gewerblichen Finanzierungen mitwirken,
 
-11.
+11. Instrumente der kaufmännischen Steuerung und Kontrolle nutzen sowie
 
-12.
+12. projektorientiert arbeiten.
 
 (3) Die Berufsbildpositionen der integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. Prozesse und Wechselwirkungen einschätzen,
 
-2.
+2. Berufsbildung sowie Arbeits- und Tarifrecht,
 
-3.
+3. Aufbau und Organisation des Ausbildungsbetriebes,
 
-4.
+4. Sicherheit und Gesundheitsschutz bei der Arbeit sowie
 
-5.
+5. Umweltschutz.
 
 ### § 5 — Ausbildungsplan
 
@@ -90,9 +90,9 @@ Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage de
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
-1.
+1. die im Ausbildungsrahmenplan für die ersten 15 Ausbildungsmonate genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 ### § 8 — Prüfungsbereich von Teil 1
 
@@ -100,21 +100,21 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 (2) Im Prüfungsbereich Konten führen und Anschaffungen finanzieren hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. Kundensituationen und -anliegen zu analysieren,
 
-2.
+2. kundenorientierte Lösungen zu entwickeln und zu erörtern,
 
-3.
+3. Möglichkeiten projektorientierter Arbeitsweisen aufzuzeigen sowie
 
-4.
+4. rechtliche Regelungen einzuhalten.
 
 (3) Für den Nachweis nach Absatz 1 sind folgende Gebiete zugrunde zu legen:
 
-1.
+1. Kontoführung und nicht-dokumentärer Zahlungsverkehr,
 
-2.
+2. Anlage auf Konten sowie
 
-3.
+3. Konsumentenkredite.
 
 (4) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
@@ -124,9 +124,9 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
-1.
+1. die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 (2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
@@ -134,27 +134,27 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
-1.
+1. Vermögen aufbauen und Risiken absichern,
 
-2.
+2. Finanzierungsvorhaben begleiten,
 
-3.
+3. Kunden beraten sowie
 
-4.
+4. Wirtschafts- und Sozialkunde.
 
 ### § 11 — Prüfungsbereich Vermögen aufbauen und Risiken absichern
 
 (1) Im Prüfungsbereich Vermögen aufbauen und Risiken absichern hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. komplexe Kundenanliegen und Vermögenssituationen zu analysieren,
 
-2.
+2. kursbeeinflussende Faktoren zu berücksichtigen,
 
-3.
+3. kundenorientierte Lösungen zum Aufbau und zur Optimierung von Vermögen zu entwickeln und zu erörtern,
 
-4.
+4. Kunden und Kundinnen anlassbezogen über Vorsorge und Absicherung zu informieren sowie
 
-5.
+5. rechtliche Regelungen einzuhalten.
 
 (2) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
@@ -164,17 +164,17 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (1) Im Prüfungsbereich Finanzierungsvorhaben begleiten hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. Informationen zu Finanzierungsvorhaben sowie zu den Kreditnehmern und Kreditnehmerinnen aufzubereiten und zu bewerten,
 
-2.
+2. Sicherheiten zu bewerten und auszuwählen,
 
-3.
+3. Konditionen zu begründen, insbesondere unter Berücksichtigung der Art der Sicherheit, der Bonität sowie der Rentabilität der Kundenverbindung,
 
-4.
+4. Kunden und Kundinnen Prozesse im Rahmen des Immobilienerwerbs zu beschreiben,
 
-5.
+5. Signale für die Gefährdungen von Kreditengagements zu erkennen und Maßnahmen abzuleiten sowie
 
-6.
+6. rechtliche Regelungen einzuhalten.
 
 (2) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
@@ -184,33 +184,33 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (1) Im Prüfungsbereich Kunden beraten hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. Beratungsgespräche ganzheitlich, systematisch, situationsgerecht und zielorientiert zu führen,
 
-2.
+2. sich kundenorientiert zu verhalten,
 
-3.
+3. analoge oder digitale vertriebs- und beratungsunterstützende Hilfsmittel einzusetzen,
 
-4.
+4. Kunden und Kundinnen über Nutzen und Konditionen von Bankleistungen zu informieren sowie rechtliche Regelungen einzuhalten,
 
-5.
+5. auf Kundenfragen und -einwände einzugehen,
 
-6.
+6. über den Gesprächsanlass hinausgehende Kundenbedarfe zu erkennen und anzusprechen,
 
-7.
+7. fachliche Hintergründe und Zusammenhänge zu berücksichtigen sowie
 
-8.
+8. Gespräche kundenorientiert abzuschließen.
 
 (2) Für den Nachweis nach Absatz 1 sind folgende Tätigkeiten zugrunde zu legen:
 
-1.
+1. Konten führen,
 
-2.
+2. Anschaffungen finanzieren,
 
-3.
+3. Vermögen aufbauen,
 
-4.
+4. Risiken absichern und
 
-5.
+5. Baufinanzierungsvorhaben im Privatkundengeschäft begleiten.
 
 (3) Mit dem Prüfling wird ein Beratungsgespräch als Gesprächssimulation geführt.
 
@@ -230,43 +230,37 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
-1.
+1. Konten führen und Anschaffungenfinanzieren mit20 Prozent,
 
-2.
+2. Vermögen aufbauenund Risiken absichern mit20 Prozent,
 
-3.
+3. Finanzierungsvorhaben begleiten mit20 Prozent,
 
-4.
+4. Kunden beraten mit30 Prozent sowie
 
-5.
+5. Wirtschafts- und Sozialkunde mit10 Prozent.
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen – auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 16 – wie folgt bewertet worden sind:
 
-1.
+1. im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
-2.
+2. im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
-3.
+3. in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
 
-4.
+4. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
 ### § 16 — Mündliche Ergänzungsprüfung
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
-(2) Dem Antrag ist stattzugeben, Die mündliche Ergänzungsprüfung darf nur in einem einzigen Prüfungsbereich durchgeführt werden.
+(2) Dem Antrag ist stattzugeben,
 
-1.
+1. wenn er für einen der folgenden Prüfungsbereiche gestellt worden ist: a)Vermögen aufbauen und Risiken absichern,b)Finanzierungsvorhaben begleiten oderc)Wirtschafts- und Sozialkunde, Vermögen aufbauen und Risiken absichern, Finanzierungsvorhaben begleiten oder Wirtschafts- und Sozialkunde,
 
-a)
+2. wenn der benannte Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
-b)
-
-c)
-
-2.
-
-3.
+3. wenn die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 (3) Die mündliche Ergänzungsprüfung soll 15 Minuten dauern.
 
@@ -279,265 +273,3 @@ c)
 Diese Verordnung tritt am 1. August 2020 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Bankkaufmann/zur Bankkauffrau vom 30. Dezember 1997 (BGBl. 1998 I S. 51) außer Kraft.
 
 ### Anlage — (zu § 3 Absatz 1)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)

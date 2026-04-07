@@ -36,19 +36,19 @@ Ein Pflanzenschutzmittel, das nach einer in der jeweiligen Zulassung festgelegte
 
 ### § 4 — Aufzeichnungs- und Fortbildungspflichten
 
-(1) Der Leiter eines landwirtschaftlichen oder gärtnerischen Betriebs mit Flächen in einem der in Anlage 1 bezeichneten Gebiete, der Pflanzenschutzmittel nach Maßgabe des § 2 in Verbindung mit § 3 anwendet, hat über deren Anwendung zusätzlich zu den Aufzeichnungen nach Artikel 67 Absatz 1 Satz 2 der Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Richtlinien 79/117/EWG und 91/414/EWG des Rates (ABl. L 309 vom 24.11.2009, S. 1) Aufzeichnungen unter Verwendung des in Anlage 2 aufgeführten Musters zu führen, in dem zusätzlich zu den Aufzeichnungen nach Artikel 67 Absatz 1 Satz 2 der Verordnung (EG) Nr. 1107/2009 angegeben sind.
+(1) Der Leiter eines landwirtschaftlichen oder gärtnerischen Betriebs mit Flächen in einem der in Anlage 1 bezeichneten Gebiete, der Pflanzenschutzmittel nach Maßgabe des § 2 in Verbindung mit § 3 anwendet, hat über deren Anwendung zusätzlich zu den Aufzeichnungen nach Artikel 67 Absatz 1 Satz 2 der Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Richtlinien 79/117/EWG und 91/414/EWG des Rates (ABl. L 309 vom 24.11.2009, S. 1) Aufzeichnungen unter Verwendung des in Anlage 2 aufgeführten Musters zu führen, in dem zusätzlich zu den Aufzeichnungen nach Artikel 67 Absatz 1 Satz 2 der Verordnung (EG) Nr. 1107/2009
 
-1.
+1. der Name des Anwenders,
 
-2.
+2. das Anwendungsgebiet,
 
-3.
+3. der Typ des verwendeten Pflanzenschutzgeräts und des Zerstäubers,
 
-4.
+4. die Eintragungsnummer des Pflanzenschutzgeräts in dem Verzeichnis Verlustmindernde Geräte,
 
-5.
+5. die Einstellungen des verlustmindernden Geräts einschließlich der Angabe des Spritzdrucks, der Zapfwellendrehzahl und der Getriebestufe des Gebläseantriebs sowohl für die Randreihen als auch die übrige Anbaufläche, und
 
-6.
+6. die genaue Lage und Bezeichnung der behandelten Fläche, die Gewässerart, der Wasserführungsgrad und die Expositionsklasse der an die Behandlungsflächen angrenzenden Gewässer
 
 (2) Die Aufzeichnungen sind für die Dauer von zehn Jahren gerechnet ab dem Beginn des Jahres, das auf das Jahr des Entstehens der Aufzeichnung folgt, aufzubewahren. Die zuständige Behörde kann Einsicht in die Aufzeichnungen nehmen.
 
@@ -68,9 +68,9 @@ Ein Pflanzenschutzmittel, das nach einer in der jeweiligen Zulassung festgelegte
 
 (2) Die Maßnahme nach Anlage 4 ist so auszuwählen, dass bei einem normalen Verlauf davon auszugehen ist, dass der Gewässerabschnitt, an den die Fläche des Verfügungsberechtigten oder Besitzers grenzt, nach Durchführung der Maßnahme,
 
-1.
+1. spätestens jedoch am 1. Oktober 2020 die Voraussetzungen dafür erfüllt, anhand der in der in Anlage 3 festgelegten Berechnungsmethode in eine Expositionsklasse eingeteilt zu werden, die um eine Klasse günstiger ist als die ursprüngliche Einteilung und
 
-2.
+2. spätestens jedoch am 1. Oktober 2025 die Voraussetzungen dafür erfüllt, anhand der in Anlage 3 festgelegten Berechnungsmethode in die Expositionsklasse 1 oder 2 eingeteilt zu werden.
 
 (3) Der Verfügungsberechtigte oder Besitzer ist verpflichtet, die Auswahl und den Beginn der Durchführung der Maßnahme nach Anlage 4 gegenüber der zuständigen Behörde bis spätestens 1. Oktober 2017 mitzuteilen.
 
@@ -84,8 +84,6 @@ Ein Pflanzenschutzmittel, das nach einer in der jeweiligen Zulassung festgelegte
 
 (1) Die zuständigen Behörden überwachen die Anwendung von Pflanzenschutzmitteln nach § 3 und die Einhaltung der Pflichten der §§ 4, 5 Absatz 3 und § 6 Absatz 1 bis 3. Die Berichte nach § 36 Absatz 6 des Pflanzenschutzgesetzes sind dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit zum 31. Dezember eines jeden Jahres vorzulegen. Die zuständigen Behörden berichten über den Umfang und die Ergebnisse der Erhebungen und durchgeführten Überprüfungen der Anwendung von Pflanzenschutzmitteln in den in Anlage 1 bezeichneten Gebieten, die Einhaltung der Aufzeichnungspflichten und Fortbildungspflichten nach § 4, und über weitere getroffene Risikominderungsmaßnahmen. Die zuständigen Behörden unterrichten das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit unverzüglich über Anhaltspunkte hinsichtlich möglicher, nicht vertretbarer Auswirkungen für den Naturhaushalt. Auf der Grundlage der Berichte der zuständigen Behörden erstellt das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit unter Beteiligung des Umweltbundesamts und von Vertretern des Obstanbaus und der Umwelt- und Naturschutzverbände bis zum 31. Dezember 2020 eine Übersicht über die bis zu dem genannten Zeitpunkt durchgeführten Maßnahmen im Sinne des § 6 sowie über die Entwicklung des Zustands der Gewässer.
 
-(2) Die zuständigen Behörden führen in den Gewässern in dem in Anlage 1 bezeichneten Gebiet Untersuchungen durch, um Daten zur Bewertung möglicher Auswirkungen der Anwendung von Pflanzenschutzmitteln auf aquatische Organismen zu erheben. Zu diesem Zweck errichten sie in Ergänzung zu den Messstellen im Sinne des § 10 Absatz 2 der Oberflächengewässerverordnung vom 20. Juni 2016 (BGBl. I S. 1373) in dem in Anlage 1 bezeichneten Gebiet eine angemessene Anzahl zusätzlicher Messstellen. Die Ergebnisse aller in Satz 1 genannten Messstellen in dem in Anlage 1 genannten Gebiet sind in jedem dritten Jahr, erstmals 2018 in die Berichte nach Absatz 1 einzubeziehen.
-
 > § 7 Abs. 2 Satz 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "MessstelIen" durch "Messstellen" ersetzt
 
 ### § 8 — Inkrafttreten
@@ -94,29 +92,27 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Anlage 1 — (zu den §§ 1 und 5 Absatz 1)
 
-In Hamburg das Gebiet, das von folgenden Grenzen umschlossen ist:
-
 In Niedersachsen die Gebiete der
 
-1.
+1. Städte Buxtehude und Stade,
 
-2.
+2. Samtgemeinden Horneburg und Lühe,
 
-3.
+3. Gemeinden Jork und Neu Wulmstorf,
 
-4.
+4. Samtgemeinden Nordkehdingen und Oldendorf-Himmelpforten (letztere nur nördlich der Bundesstraße 73),
 
-5.
+5. Gemeinde Drochtersen,
 
-6.
+6. Stadt Cuxhaven,
 
-7.
+7. Samtgemeinden Land Hadeln, Hemmoor und Am Dobrock,
 
-8.
+8. Stadt Winsen,
 
-9.
+9. Samtgemeinde Elbmarsch,
 
-10.
+10. Gemeinde Stelle.
 
 ### Anlage 2 — (zu § 5 Absatz 1)
 
@@ -126,16 +122,6 @@ Als Referenzwert wird der bundesweit geltende Abdrifteckwert für ein Pflanzensc
 
 Der aktuell für das Gewässer anzuwendende Abdrifteckwert ergibt sich nach folgender Formel:
 
-y = 60,36 * (x-1,75) –1,2243 für x < 15
-
-y = 212,13 * (x-1,75) –1,7583 für x ≥ 15
-
 Der Risikofaktor ergibt sich als Quotient aus dem für das Gewässer aktuell anzuwendenden Abdrifteckwert und dem Referenzwert.
 
-Folgende Risikofaktoren wurden für die Ermittlung der Expositionsklasse errechnet:
-
-Die Gewässer werden in eine der vier folgenden Expositionsklassen eingeordnet:
-
 ### Anlage 4 — (zu § 5 Absatz 2, § 6)
-
-Folgende Maßnahmen sind Maßnahmen im Sinne des § 5 Absatz 1

@@ -21,5 +21,3 @@ Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach
 Diese Verordnung tritt am 1. Januar 1975 in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Verkehr

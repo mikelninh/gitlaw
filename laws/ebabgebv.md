@@ -10,15 +10,15 @@
 
 Für individuell zurechenbare öffentliche Leistungen (gebührenfähige Leistungen) des Eisenbahn-Bundesamtes, der benannten Stelle und der bestimmten Stelle, die auf Grund der folgenden Gesetze oder nach den auf Grund dieser Gesetze erlassenen Rechtsverordnungen erbracht werden, werden Gebühren und Auslagen erhoben:
 
-1.
+1. Allgemeines Eisenbahngesetz,
 
-2.
+2. Bundeseisenbahnverkehrsverwaltungsgesetz,
 
-3.
+3. Arbeitsschutzgesetz,
 
-4.
+4. Infektionsschutzgesetz,
 
-5.
+5. Schienenlärmschutzgesetz.
 
 ### § 2 — Höhe der Gebühren und Nachweispflicht
 
@@ -38,7 +38,7 @@ Für individuell zurechenbare öffentliche Leistungen (gebührenfähige Leistung
 
 ### § 4 — Stundung, Niederschlagung und Erlass
 
-Das Eisenbahn-Bundesamt ist befugt, festgesetzte Gebühren gemäß § 59 der Bundeshaushaltsordnung zu stunden, niederzuschlagen oder zu erlassen.
+Das Eisenbahn-Bundesamt ist befugt, festgesetzte Gebühren gemäß § 59 der Bundeshaushaltsordnung zu stunden, niederzuschlagen oder zu erlassen.
 
 ### § 4a — Alt-Sachverhalte
 
@@ -50,162 +50,16 @@ Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige Leistung
 
 ### Anlage — (zu § 2 Absatz 1)
 
-–
-
-–
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
 ### Anhang — Anhang zum Gebührenverzeichnis
 
-1.
+1. Die Gebührenbemessung für die Nummern 1.5, 2.1, 2.4 und 2.7 sowie 7.7, 7.8, 7.9, 7.13, 7.14 und 7.15 richtet sich nach den Baukosten und gegebenenfalls den nach Schwierigkeitsgraden in Gebührenzonen eingeteilten Bewertungsmerkmalen. Satz 1 gilt entsprechend für die Nummern 2.2, 2.8 und 2.10. Wird der Plan in den Fällen der Nummern 2.7, 2.8 und 2.10 geändert, so sind die Baukosten heranzuziehen, die für den Gegenstand der Änderung anfallen.
 
-2.
+2. Nicht zu den Baukosten im Sinne der Gebührenbemessung gehören die Kosten für: a)den Erwerb, das Freimachen, das Herrichten und die Erschließung des Grundstücks,b)Winterbauschutzvorkehrungen,c)Vermessung und Vermarkung,d)Entschädigungen und Schadenersatzleistungen,e)Baunebenkosten,f)Kunstwerke und künstlerisch gestaltete Bauteile, soweit sie nicht wesentliche Bestandteile des Objekts sind. den Erwerb, das Freimachen, das Herrichten und die Erschließung des Grundstücks, Winterbauschutzvorkehrungen, Vermessung und Vermarkung, Entschädigungen und Schadenersatzleistungen, Baunebenkosten, Kunstwerke und künstlerisch gestaltete Bauteile, soweit sie nicht wesentliche Bestandteile des Objekts sind.
 
-a)
+3. Ebenso nicht zu den Baukosten im Sinne der Gebührenbemessung nach den Tafeln 2 und 4 gehören die Kosten für Signal-, Telekommunikations- und elektrotechnische Anlagen.
 
-b)
+4. Für die Tafeln 1 und 3 werden die Betriebsanlagen folgenden Gebührenzonen zugerechnet: a)Zone 1:Objekte mit sehr geringen Planungsanforderungen; z. B. Betriebsanlagen ohne Weichen und Kreuzungen, soweit nicht in den Zonen 2 bis 5 erwähnt, einfache Verkehrsflächen;b)Zone 2:Objekte mit geringen Planungsanforderungen, z. B. Betriebsanlagen der freien Strecke ohne besondere Zwangspunkte, Betriebsanlagen der freien Strecke im wenig bewegten Gelände, Betriebsanlagen der Bahnhöfe mit einfachen Spurplänen;c)Zone 3:Objekte mit durchschnittlichen Planungsanforderungen, z. B. innerörtliche Betriebsanlagen, soweit nicht in Zone 4 erwähnt, Betriebsanlagen der freien Strecke mit besonderen Zwangspunkten, Betriebsanlagen der freien Strecke im bewegten Gelände, Betriebsanlagen der Bahnhöfe mit schwierigen Spurplänen;d)Zone 4:Objekte mit überdurchschnittlichen Planungsanforderungen, z. B. schwierige innerörtliche Betriebsanlagen, Betriebsanlagen der freien Strecke mit einer Vielzahl besonderer Zwangspunkte, Betriebsanlagen der freien Strecke im stark bewegten Gelände, Betriebsanlagen der Bahnhöfe mit sehr schwierigen Spurplänen, Verkehrsflächen für Güterumschlag im kombinierten Verkehr;e)Zone 5:Objekte mit sehr hohen Planungsanforderungen, z. B. sehr schwierige innerörtliche Betriebsanlagen. Zone 1: Objekte mit sehr geringen Planungsanforderungen; z. B. Betriebsanlagen ohne Weichen und Kreuzungen, soweit nicht in den Zonen 2 bis 5 erwähnt, einfache Verkehrsflächen; Zone 2: Objekte mit geringen Planungsanforderungen, z. B. Betriebsanlagen der freien Strecke ohne besondere Zwangspunkte, Betriebsanlagen der freien Strecke im wenig bewegten Gelände, Betriebsanlagen der Bahnhöfe mit einfachen Spurplänen; Zone 3: Objekte mit durchschnittlichen Planungsanforderungen, z. B. innerörtliche Betriebsanlagen, soweit nicht in Zone 4 erwähnt, Betriebsanlagen der freien Strecke mit besonderen Zwangspunkten, Betriebsanlagen der freien Strecke im bewegten Gelände, Betriebsanlagen der Bahnhöfe mit schwierigen Spurplänen; Zone 4: Objekte mit überdurchschnittlichen Planungsanforderungen, z. B. schwierige innerörtliche Betriebsanlagen, Betriebsanlagen der freien Strecke mit einer Vielzahl besonderer Zwangspunkte, Betriebsanlagen der freien Strecke im stark bewegten Gelände, Betriebsanlagen der Bahnhöfe mit sehr schwierigen Spurplänen, Verkehrsflächen für Güterumschlag im kombinierten Verkehr; Zone 5: Objekte mit sehr hohen Planungsanforderungen, z. B. sehr schwierige innerörtliche Betriebsanlagen.
 
-c)
+5. Für die Tafel 2 werden die Ingenieurbauwerke folgenden Gebührenzonen zugerechnet: a)Zone 1:Objekte mit sehr geringen Planungsanforderungen, z. B. einfacher Erdbau, Stege, Lärmschutzwälle, Leitungen für Wasser oder Abwasser ohne Zwangspunkte;b)Zone 2:Objekte mit geringen Planungsanforderungen, z. B. Dammbauten, soweit nicht in Zone 3 oder 4 erwähnt, gerade Einfeldbrücken einfacher Bauart, Stützbauwerke mit Verkehrsbelastung, einfache Lärmschutzanlagen, Leitungen für Wasser und Abwasser mit geringen Verknüpfungen und wenigen Zwangspunkten;c)Zone 3:Objekte mit durchschnittlichen Planungsanforderungen, z. B. schwierige Dammbauten, Einfeldbrücken, soweit nicht in Zone 2 oder 4 erwähnt, einfache Mehrfeld- und Bogenbrücken, Stützbauwerke mit Verankerung, einfache Tunnel- und Trogbauwerke, einfache Untergrundbahnhöfe, Leitungen für Wasser oder Abwasser mitzahlreichen Verknüpfungen und zahlreichen Zwangspunkten;d)Zone 4:Objekte mit überdurchschnittlichen Planungsanforderungen, z. B. besonders schwierige Dammbauten, schwierige Einfeld-, Mehrfeld- und Bogenbrücken, Lärmschutzanlagen in schwieriger städtebaulicher Situation, schwierige Tunnel- und Trogbauwerke, schwierige Untergrundbahnhöfe, soweit nicht in Zone 5 erwähnt;e)Zone 5:Objekte mit sehr hohen Planungsanforderungen, z. B. besonders schwierige Brücken, besonders schwierige Tunnel- und Trogbauwerke, Untergrund-Kreuzungsbahnhöfe. Zone 1: Objekte mit sehr geringen Planungsanforderungen, z. B. einfacher Erdbau, Stege, Lärmschutzwälle, Leitungen für Wasser oder Abwasser ohne Zwangspunkte; Zone 2: Objekte mit geringen Planungsanforderungen, z. B. Dammbauten, soweit nicht in Zone 3 oder 4 erwähnt, gerade Einfeldbrücken einfacher Bauart, Stützbauwerke mit Verkehrsbelastung, einfache Lärmschutzanlagen, Leitungen für Wasser und Abwasser mit geringen Verknüpfungen und wenigen Zwangspunkten; Zone 3: Objekte mit durchschnittlichen Planungsanforderungen, z. B. schwierige Dammbauten, Einfeldbrücken, soweit nicht in Zone 2 oder 4 erwähnt, einfache Mehrfeld- und Bogenbrücken, Stützbauwerke mit Verankerung, einfache Tunnel- und Trogbauwerke, einfache Untergrundbahnhöfe, Leitungen für Wasser oder Abwasser mitzahlreichen Verknüpfungen und zahlreichen Zwangspunkten; Zone 4: Objekte mit überdurchschnittlichen Planungsanforderungen, z. B. besonders schwierige Dammbauten, schwierige Einfeld-, Mehrfeld- und Bogenbrücken, Lärmschutzanlagen in schwieriger städtebaulicher Situation, schwierige Tunnel- und Trogbauwerke, schwierige Untergrundbahnhöfe, soweit nicht in Zone 5 erwähnt; Zone 5: Objekte mit sehr hohen Planungsanforderungen, z. B. besonders schwierige Brücken, besonders schwierige Tunnel- und Trogbauwerke, Untergrund-Kreuzungsbahnhöfe.
 
-d)
-
-e)
-
-f)
-
-3.
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-5.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-6.
-
-a)
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-b)
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-c)
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-d)
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-Zwischenwerte sind linear zu interpolieren.
-
-Zwischenwerte sind linear zu interpolieren.
-
-Zwischenwerte sind linear zu interpolieren.
-
-Zwischenwerte sind linear zu interpolieren.
+6. Die Gebührenzone der Tafel 4 wird bei Hochbauten auf Grund folgender Bewertungsmerkmale ermittelt: a)Zone 1:Gebäude mit sehr geringen Planungsanforderungen, das heißt mit –sehr geringen Anforderungen an die Einbindung in die Umgebung,–einem Funktionsbereich,–sehr geringen gestalterischen Anforderungen,–einfachsten Konstruktionen,–keiner oder einfacher technischer Ausrüstung,–keinem oder einfachem Ausbau;b)Zone 2:Gebäude mit geringen Planungsanforderungen, das heißt mit –geringen Anforderungen an die Einbindung in die Umgebung,–wenigen Funktionsbereichen,–geringen gestalterischen Anforderungen,–einfachen Konstruktionen,–geringer technischer Ausrüstung,–geringem Ausbau;c)Zone 3:Gebäude mit durchschnittlichen Planungsanforderungen, das heißt mit –durchschnittlichen Anforderungen an die Einbindung in die Umgebung,–mehreren einfachen Funktionsbereichen,–durchschnittlichen gestalterischen Anforderungen,–normalen oder gebräuchlichen Konstruktionen,–durchschnittlicher technischer Ausrüstung,–durchschnittlichem normalem Ausbau;d)Zone 4:Gebäude mit überdurchschnittlichen Planungsanforderungen, das heißt mit –überdurchschnittlichen Anforderungen an die Einbindung in die Umgebung,–mehreren Funktionsbereichen mit vielfältigen Beziehungen,–überdurchschnittlichen gestalterischen Anforderungen,–überdurchschnittlichen konstruktiven Anforderungen,–überdurchschnittlicher technischer Ausrüstung,–überdurchschnittlichem Ausbau. Zone 1: Gebäude mit sehr geringen Planungsanforderungen, das heißt mit –sehr geringen Anforderungen an die Einbindung in die Umgebung,–einem Funktionsbereich,–sehr geringen gestalterischen Anforderungen,–einfachsten Konstruktionen,–keiner oder einfacher technischer Ausrüstung,–keinem oder einfachem Ausbau; sehr geringen Anforderungen an die Einbindung in die Umgebung, einem Funktionsbereich, sehr geringen gestalterischen Anforderungen, einfachsten Konstruktionen, keiner oder einfacher technischer Ausrüstung, keinem oder einfachem Ausbau; Zone 2: Gebäude mit geringen Planungsanforderungen, das heißt mit –geringen Anforderungen an die Einbindung in die Umgebung,–wenigen Funktionsbereichen,–geringen gestalterischen Anforderungen,–einfachen Konstruktionen,–geringer technischer Ausrüstung,–geringem Ausbau; geringen Anforderungen an die Einbindung in die Umgebung, wenigen Funktionsbereichen, geringen gestalterischen Anforderungen, einfachen Konstruktionen, geringer technischer Ausrüstung, geringem Ausbau; Zone 3: Gebäude mit durchschnittlichen Planungsanforderungen, das heißt mit –durchschnittlichen Anforderungen an die Einbindung in die Umgebung,–mehreren einfachen Funktionsbereichen,–durchschnittlichen gestalterischen Anforderungen,–normalen oder gebräuchlichen Konstruktionen,–durchschnittlicher technischer Ausrüstung,–durchschnittlichem normalem Ausbau; durchschnittlichen Anforderungen an die Einbindung in die Umgebung, mehreren einfachen Funktionsbereichen, durchschnittlichen gestalterischen Anforderungen, normalen oder gebräuchlichen Konstruktionen, durchschnittlicher technischer Ausrüstung, durchschnittlichem normalem Ausbau; Zone 4: Gebäude mit überdurchschnittlichen Planungsanforderungen, das heißt mit –überdurchschnittlichen Anforderungen an die Einbindung in die Umgebung,–mehreren Funktionsbereichen mit vielfältigen Beziehungen,–überdurchschnittlichen gestalterischen Anforderungen,–überdurchschnittlichen konstruktiven Anforderungen,–überdurchschnittlicher technischer Ausrüstung,–überdurchschnittlichem Ausbau. überdurchschnittlichen Anforderungen an die Einbindung in die Umgebung, mehreren Funktionsbereichen mit vielfältigen Beziehungen, überdurchschnittlichen gestalterischen Anforderungen, überdurchschnittlichen konstruktiven Anforderungen, überdurchschnittlicher technischer Ausrüstung, überdurchschnittlichem Ausbau.

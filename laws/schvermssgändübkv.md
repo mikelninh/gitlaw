@@ -23,5 +23,3 @@ Die Änderungen der internationalen Vorschriften für die Schiffsvermessung, die
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Verkehr

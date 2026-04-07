@@ -39,21 +39,21 @@ und Steuerbevollmächtigte
 
 (2) Der Bewerber muß in dem Antrag angeben
 
-1.
+1. Namen, Wohnsitz oder vorwiegenden Aufenthalt und Anschrift sowie Beruf und Ort der vorwiegend beruflichen Tätigkeit,
 
-2.
+2. den Ort der beabsichtigten beruflichen Niederlassung,
 
-3.
+3. ob und bei welcher Stelle er bereits früher einen Antrag auf Zulassung zur Prüfung eingereicht hat,
 
-4.
+4. welche Staatsangehörigkeit er besitzt.
 
 (3) Dem Antrag sind beizufügen
 
-1.
+1. ein Lebenslauf mit genauen Angaben über die Person und den beruflichen Werdegang,
 
-2.
+2. beglaubigte Abschrift der Prüfungszeugnisse, Diplome und Befähigungsnachweise über die gesetzlichen Vorbildungsvoraussetzungen für die Prüfung als Steuerberater,
 
-3.
+3. beglaubigte Abschrift der Zeugnisse über die bisherige berufliche Tätigkeit des Bewerbers, insbesondere mit Angaben über Art und Umfang der Tätigkeit auf dem Gebiet der von den Bundes- oder Landesfinanzbehörden verwalteten Steuern, und über bisher von ihm abgelegte einschlägige Prüfungen; Nachweise über die Arbeitszeit.
 
 (4) u. (5) (weggefallen)
 
@@ -63,11 +63,11 @@ und Steuerbevollmächtigte
 
 (2) Einem Antrag auf Zulassung zur Eignungsprüfung ist zusätzlich zu den in § 4 Absatz 3 Nummer 1 und 2 genannten Unterlagen beizufügen:
 
-1.
+1. ein Befähigungs- oder Ausbildungsnachweis im Sinne des § 37a Absatz 3 Satz 1 und 2 des Steuerberatungsgesetzes oder ein gleichgestellter Nachweis im Sinne des § 37a Absatz 3 Satz 3 und 4 des Steuerberatungsgesetzes,
 
-2.
+2. sofern die Hilfeleistung in Steuersachen im Herkunftsstaat nicht reglementiert ist und soweit nach § 37a Absatz 3 Satz 5 bis 7 des Steuerberatungsgesetzes erforderlich, ein Nachweis, dass der Bewerber auf die Ausübung des Berufs vorbereitet wurde und in den vorhergehenden zehn Jahren mindestens ein Jahr in einem Umfang von sechzehn Wochenstunden steuerberatend tätig war,
 
-3.
+3. ein Nachweis im Sinne des § 37a Absatz 4 Satz 5 und 6 des Steuerberatungsgesetzes über die erlangten Kenntnisse in den Prüfungsgebieten, die entfallen sollen.
 
 (3) Die beizufügenden Unterlagen sind in deutscher oder englischer Sprache einzureichen. Eine beglaubigte deutsche Übersetzung kann im begründeten Einzelfall angefordert werden.
 
@@ -95,13 +95,9 @@ und Steuerbevollmächtigte
 
 (2) Der Bewerber hat dem Antrag auf Befreiung von der Prüfung an Stelle der in § 4 Abs. 3 Nr. 2 und 3 genannten Nachweise beizufügen
 
-1.
+1. in den Fällen des § 38 Abs. 1 Nr. 1 des Steuerberatungsgesetzes die Bescheinigung einer deutschen Hochschule, der er angehört oder angehört hat, über Art und Dauer seiner Lehrtätigkeit auf dem Gebiet der von den Bundes- oder Landesfinanzbehörden verwalteten Steuern;
 
-2.
-
-a)
-
-b)
+2. in den Fällen des § 38 Abs. 1 Nr. 2 bis 4 des Steuerberatungsgesetzes eine Bescheinigunga)der letzten Dienstbehörde oderb)des Fraktionsvorstands, wenn er bei einer Fraktion des Deutschen Bundestages angestellt gewesen ist, der letzten Dienstbehörde oder des Fraktionsvorstands, wenn er bei einer Fraktion des Deutschen Bundestages angestellt gewesen ist, über Art und Dauer seiner Tätigkeit auf dem Gebiet der von den Bundes- oder Landesfinanzbehörden verwalteten Steuern.
 
 ### § 9
 
@@ -146,9 +142,6 @@ b)
 (2) Die Prüfungen und die Beratungen des Prüfungsausschusses sind nicht öffentlich. An der mündlichen Prüfung können Vertreter der für die Finanzverwaltung zuständigen obersten Landesbehörde und des Vorstandes der zuständigen Steuerberaterkammer teilnehmen. Anderen Personen kann der Vorsitzende des Prüfungsausschusses die Anwesenheit gestatten.
 
 ### § 15 — Prüfungsnoten, Gesamtnoten
-
-(1) Für die Bewertung der einzelnen Prüfungsleistungen werden sechs Notenstufen gebildet. Es bedeuten 
-	 Die Bewertung mit halben Zwischennoten ist zulässig.
 
 (2) Gesamtnoten errechnen sich aus der Summe der einzelnen Noten, geteilt durch deren Zahl. Das Ergebnis ist auf zwei Dezimalstellen zu berechnen; die dritte Dezimalstelle bleibt unberücksichtigt.
 
@@ -204,15 +197,15 @@ Die zuständige Steuerberaterkammer lädt die Bewerber, die Aufsichtsarbeiten zu
 
 Der Aufsichtführende hat an jedem Prüfungstag jeweils eine Niederschrift zu fertigen, in der insbesondere zu vermerken sind
 
-1.
+1. der Beginn und das Ende der Bearbeitungszeit,
 
-2.
+2. etwa beobachtete Täuschungsversuche und sonstige Unregelmäßigkeiten,
 
-3.
+3. die Namen der Bewerber, die nicht erschienen sind, wegen ungebührlichen Verhaltens aus dem Prüfungsraum gewiesen worden sind oder keine Arbeit abgegeben haben,
 
-4.
+4. etwaige Einwendungen wegen Störung des Prüfungsablaufs (§ 20 Abs. 4) und eine Stellungnahme hierzu,
 
-5.
+5. etwaige Rücktritte von Bewerbern,
 
 ### § 23 — Täuschungsversuche, Ordnungsverstöße
 
@@ -296,15 +289,15 @@ Der Aufsichtführende hat an jedem Prüfungstag jeweils eine Niederschrift zu fe
 
 (1) Über die Prüfung ist eine Niederschrift zu fertigen. Aus ihr müssen ersichtlich sein
 
-1.
+1. die Namen der anwesenden Personen,
 
-2.
+2. für jeden Bewerber die Bewertung des Vortrags und jedes Prüfungsabschnitts,
 
-3.
+3. das Ergebnis der Prüfung und seine Bekanntgabe an die Bewerber,
 
-4.
+4. ein Begehren nach § 28 Abs. 2 und die Behandlung des Begehrens durch den Prüfungsausschuss,
 
-5.
+5. besondere Vorkommnisse.
 
 (2) Ein Auszug aus der Niederschrift ist zu den Akten des Bewerbers zu nehmen.
 
@@ -331,23 +324,23 @@ Steuerbevollmächtigter
 
 (2) Der Antrag auf Bestellung ist nach amtlich vorgeschriebenem Vordruck zu stellen.
 
-(3) Der Bewerber muss in dem Antrag angeben: Ein Bewerber, der nach § 38 Abs. 1 des Steuerberatungsgesetzes von der Prüfung befreit wurde, muss außerdem eine Erklärung darüber abgeben, ob innerhalb der letzten zwölf Monate disziplinarrechtliche Maßnahmen gegen ihn verhängt worden sind und ob disziplinarrechtliche Ermittlungen gegen ihn anhängig sind oder innerhalb der letzten zwölf Monate anhängig waren.
+(3) Der Bewerber muss in dem Antrag angeben:
 
-1.
+1. Name, Wohnsitz oder vorwiegenden Aufenthalt und Anschrift sowie Beruf und Ort der beruflichen Tätigkeit,
 
-2.
+2. den Ort der beabsichtigten beruflichen Niederlassung,
 
-3.
+3. wann und bei welcher Stelle er die Steuerberaterprüfung bestanden hat bzw. von der Prüfung befreit wurde,
 
-4.
+4. ob und bei welcher Stelle er bereits früher einen Antrag auf Bestellung eingereicht hat,
 
-5.
+5. ob er sich in geordneten wirtschaftlichen Verhältnissen befindet,
 
-6.
+6. ob er innerhalb der letzten zwölf Monate strafgerichtlich verurteilt worden ist und ob gegen ihn ein gerichtliches Strafverfahren oder ein Ermittlungsverfahren anhängig ist; Entsprechendes gilt für berufsaufsichtliche Verfahren sowie für Bußgeldverfahren nach der Abgabenordnung und nach dem Steuerberatungsgesetz,
 
-7.
+7. ob und gegebenenfalls welche Tätigkeit er nach seiner Bestellung neben dem Beruf als Steuerberater weiter ausüben oder übernehmen will,
 
-8.
+8. dass er bei der Meldebehörde die Erteilung eines Führungszeugnisses zur Vorlage bei der zuständigen Steuerberaterkammer beantragt hat.
 
 (4) Dem Antrag ist eine beglaubigte Abschrift der Bescheinigung der zuständigen Stelle über die erfolgreich abgelegte Steuerberaterprüfung oder die Befreiung von dieser Prüfung beizulegen. Ist der Bewerber Rechtsanwalt, niedergelassener europäischer Rechtsanwalt, Wirtschaftsprüfer oder vereidigter Buchprüfer, so hat er außerdem eine Bescheinigung der für ihn zuständigen Berufsorganisation oder sonst zuständigen Stelle beizufügen, dass keine Tatsachen bekannt sind, die die Rücknahme oder den Widerruf der Zulassung oder Bestellung oder die Einleitung eines berufsaufsichtlichen Verfahrens gegen ihn rechtfertigen.
 
@@ -355,19 +348,19 @@ Steuerbevollmächtigter
 
 ### § 35 — Berufsurkunde
 
-Die Berufsurkunde enthält Weitere Berufsbezeichnungen des Bewerbers sind in die Berufsurkunde nicht aufzunehmen. Akademische Grade oder staatlich verliehene Graduierungen sind nur aufzunehmen, wenn sie nachgewiesen worden sind.
+Die Berufsurkunde enthält
 
-1.
+1. die Bezeichnung der bestellenden Steuerberaterkammer,
 
-2.
+2. Ort und Datum der Ausstellung,
 
-3.
+3. Namen, Geburtsort und Geburtsdatum des Bewerbers,
 
-4.
+4. die Erklärung, daß der Bewerber als Steuerberater oder Steuerbevollmächtigter bestellt wird,
 
-5.
+5. Dienstsiegel und
 
-6.
+6. Unterschrift.
 
 ### § 36
 
@@ -397,9 +390,9 @@ Die Berufsurkunde enthält Weitere Berufsbezeichnungen des Bewerbers sind in die
 
 (1) Der Antrag auf Anerkennung als Berufsausübungsgesellschaft ist schriftlich bei der Steuerberaterkammer einzureichen, in deren Kammerbezirk die Berufsausübungsgesellschaft ihren Sitz hat. In dem Antrag sind anzugeben:
 
-1.
+1. Name, Beruf und berufliche Niederlassung der Personen, die die Berufsausübungsgesellschaft verantwortlich führen (§ 55b des Steuerberatungsgesetzes), sowie
 
-2.
+2. Name, Beruf und berufliche Niederlassung der Gesellschafter der Berufsausübungsgesellschaft (§ 50 Absatz 1 des Steuerberatungsgesetzes).
 
 (2) Die zuständige Steuerberaterkammer prüft anhand des Gesellschaftsvertrages oder der Satzung, ob die Voraussetzungen nach § 53 Absatz 2 des Steuerberatungsgesetzes erfüllt sind.
 
@@ -409,19 +402,19 @@ Die Berufsurkunde enthält Weitere Berufsbezeichnungen des Bewerbers sind in die
 
 ### § 41 — Anerkennungsurkunde
 
-Die Anerkennungsurkunde enthält Außer der Firma oder dem Namen sind keine weiteren Bezeichnungen der Berufsausübungsgesellschaft in die Anerkennungsurkunde aufzunehmen.
+Die Anerkennungsurkunde enthält
 
-1.
+1. die Bezeichnung der anerkennenden Steuerberaterkammer,
 
-2.
+2. Ort und Datum der Anerkennung,
 
-3.
+3. Firma oder Name der Berufsausübungsgesellschaft,
 
-4.
+4. die Anerkennung als Berufsausübungsgesellschaft,
 
-5.
+5. Dienstsiegel und
 
-6.
+6. Unterschrift.
 
 ## Vierter Teil: Verleihung der Berechtigung zur Führung
 der Bezeichnung "Landwirtschaftliche Buchstelle"
@@ -432,19 +425,19 @@ der Bezeichnung "Landwirtschaftliche Buchstelle"
 
 (2) Der Antrag muss genaue Angaben über den beruflichen Werdegang und die bisherige berufliche Tätigkeit des Antragstellers enthalten. In dem Antrag ist anzugeben, ob der Antragsteller die besondere Sachkunde durch eine mündliche Prüfung vor dem Sachkunde-Ausschuss nachweisen oder von dieser Prüfung befreit werden will; erforderliche Nachweise sind dem Antrag beizufügen.
 
-(3) Die mündliche Prüfung erstreckt sich auf folgende Gebiete: Nicht erforderlich ist, dass alle Gebiete Gegenstand der Prüfung sind. Die auf jeden Antragsteller entfallende Prüfungszeit soll sechzig Minuten nicht übersteigen.
+(3) Die mündliche Prüfung erstreckt sich auf folgende Gebiete:
 
-1.
+1. steuerliche Besonderheiten der Land- und Forstwirtschaft,
 
-2.
+2. Höferecht (Anerbenrecht) bzw. erbrechtliche Bestimmungen des Bürgerlichen Gesetzbuchs,
 
-3.
+3. Landpachtrecht,
 
-4.
+4. Grundstücksverkehrsrecht,
 
-5.
+5. Grundlagen des Agrarkreditwesens,
 
-6.
+6. landwirtschaftliche Betriebswirtschaft einschließlich Rechnungswesen und Statistik.
 
 (4) Die Steuerberaterkammer hat die Antragsteller, die an der mündlichen Prüfung teilnehmen, hierzu spätestens zwei Wochen vorher zu laden.
 
@@ -452,11 +445,11 @@ der Bezeichnung "Landwirtschaftliche Buchstelle"
 
 (6) Für die Befreiung von der mündlichen Prüfung hat der Antragsteller neben einer einschlägigen Ausbildung nachzuweisen, dass er vor der Antragstellung mindestens fünf buchführende land- und forstwirtschaftliche Betriebe drei Jahre lang steuerlich beraten hat. Die steuerliche Beratung kann auch im Rahmen einer Tätigkeit als Angestellter nach § 58 des Steuerberatungsgesetzes erfolgt sein.
 
-(7) Einschlägig im Sinne des § 44 Abs. 2 Satz 2 des Steuerberatungsgesetzes ist eine Ausbildung, die Kenntnisse auf den in Absatz 3 genannten Gebieten vermittelt. Dazu rechnen insbesondere Die Teilnahme an einem fachbezogenen Seminar bzw. Lehrgang ohne Abschlussprüfung oder sonstigen Leistungsnachweis der einzelnen Teilnehmer reicht nicht aus.
+(7) Einschlägig im Sinne des § 44 Abs. 2 Satz 2 des Steuerberatungsgesetzes ist eine Ausbildung, die Kenntnisse auf den in Absatz 3 genannten Gebieten vermittelt. Dazu rechnen insbesondere
 
-1.
+1. ein erfolgreich abgeschlossenes Hochschulstudium der Agrarwissenschaften oder
 
-2.
+2. sonstige Ausbildungsgänge im Sinne des Satzes 1, die mit einer Prüfung abgeschlossen werden.
 
 (8) Nachweise über eine einschlägige Ausbildung und über die praktische Tätigkeit im Sinne des § 44 Abs. 2 Satz 2 des Steuerberatungsgesetzes sind dem Antrag beizufügen. Antrag und Nachweise hat die Steuerberaterkammer der für die Landwirtschaft zuständigen obersten Landesbehörde oder der von ihr benannten Behörde und, soweit der Antragsteller Rechtsanwalt oder niedergelassener europäischer Rechtsanwalt ist, der für die berufliche Niederlassung zuständigen Rechtsanwaltskammer zur Stellungnahme zuzuleiten.
 
@@ -470,9 +463,9 @@ der Bezeichnung "Landwirtschaftliche Buchstelle"
 
 (3) Dem Sachkunde-Ausschuss gehören an
 
-1.
+1. zwei Vertreter der Steuerberaterkammer, davon einer als Vorsitzender,
 
-2.
+2. ein Vertreter der für die Landwirtschaft zuständigen obersten Landesbehörde oder einer von ihr benannten Behörde.
 
 (4) Die Mitglieder des Sachkunde-Ausschusses und ihre Stellvertreter sind durch die Steuerberaterkammer für drei Jahre zu berufen. § 10 Absatz 3 und die §§ 11 bis 13 Absatz 1 gelten mit Ausnahme des § 11 Absatz 2 Satz 2 entsprechend. Vor der Berufung oder Abberufung eines Vertreters der Landwirtschaft ist die für die Landwirtschaft zuständige oberste Landesbehörde oder die von ihr benannte Behörde zu hören.
 
@@ -484,17 +477,17 @@ der Bezeichnung "Landwirtschaftliche Buchstelle"
 
 (2) Die Urkunde enthält
 
-1.
+1. die Bezeichnung der verleihenden Steuerberaterkammer,
 
-2.
+2. Namen und Berufsbezeichnung des Empfängers der Urkunde,
 
-3.
+3. die Erklärung, daß dem in der Urkunde Bezeichneten die Berechtigung verliehen wird, als Zusatz zur Berufsbezeichnung die Bezeichnung "Landwirtschaftliche Buchstelle" zu führen,
 
-4.
+4. Ort und Datum der Verleihung,
 
-5.
+5. Dienstsiegel und
 
-6.
+6. Unterschrift.
 
 (3) (weggefallen)
 
@@ -528,35 +521,35 @@ der Bezeichnung "Landwirtschaftliche Buchstelle"
 
 (1) Der Versicherungsvertrag muß vorsehen, daß
 
-1.
+1. Versicherungsschutz für jede einzelne, während der Geltung des Versicherungsvertrages begangene Pflichtverletzung besteht, die gesetzliche Haftpflichtansprüche privatrechtlichen Inhalts zur Folge haben könnte,
 
-2.
+2. der Versicherungsschutz für einen allgemeinen Vertreter, einen Praxisabwickler oder einen Praxistreuhänder für die Dauer ihrer Bestellung sowie für einen Vertreter während der Dauer eines Berufs- oder Vertretungsverbots aufrechterhalten bleibt, soweit die Mitversicherten nicht durch eine eigene Versicherung Deckung erhalten, und
 
-3.
+3. die Leistungen des Versicherers für das mitversicherte Auslandsrisiko im Inland in Euro zu erbringen sind.
 
 (2) Im Versicherungsvertrag ist der Versicherer zu verpflichten, der zuständigen Steuerberaterkammer den Beginn und die Beendigung oder Kündigung des Versicherungsvertrages sowie jede Änderung des Versicherungsvertrages, die den vorgeschriebenen Versicherungsschutz beeinträchtigt, unverzüglich mitzuteilen. Satz 1 gilt nicht für Berufsausübungsgesellschaften, die nach § 53 Absatz 1 Satz 2 des Steuerberatungsgesetzes nicht anerkennungspflichtig sind und für die auch keine freiwillige Anerkennung nach § 53 Absatz 1 Satz 3 des Steuerberatungsgesetzes beantragt oder erfolgt ist.
 
 (3) Der Versicherungsvertrag kann vorsehen, daß die Versicherungssumme den Höchstbetrag der dem Versicherer in jedem einzelnen Schadenfall obliegenden Leistung darstellt, und zwar mit der Maßgabe, daß nur eine einmalige Leistung der Versicherungssumme in Frage kommt,
 
-a)
+a) gegenüber mehreren entschädigungspflichtigen Personen, auf welche sich der Versicherungsschutz erstreckt,
 
-b)
+b) bezüglich eines aus mehreren Verstößen stammenden einheitlichen Schadens,
 
-c)
+c) bezüglich sämtlicher Folgen eines Verstoßes. Dabei gilt mehrfaches, auf gleicher oder gleichartiger Fehlerquelle beruhendes Tun oder Unterlassen als einheitlicher Verstoß, wenn die betreffenden Angelegenheiten miteinander in rechtlichem oder wirtschaftlichem Zusammenhang stehen. In diesem Fall kann die Leistung des Versicherers auf das Fünffache der Mindestversicherungssumme begrenzt werden.
 
 ### § 53a — Ausschlüsse
 
 (1) Von der Versicherung kann die Haftung ausgeschlossen werden für
 
-1.
+1. Ersatzansprüche wegen wissentlicher Pflichtverletzung,
 
-2.
+2. Ersatzansprüche wegen Schäden, die durch Fehlbeträge bei der Kassenführung, durch Verstöße beim Zahlungsakt oder durch Veruntreuung durch das Personal, Angehörige oder Mitgesellschafter des Versicherungsnehmers entstehen,
 
-3.
+3. Ersatzansprüche, die aus Tätigkeiten entstehen, die über Niederlassungen, Zweigniederlassungen oder weitere Beratungsstellen im Ausland ausgeübt werden,
 
-4.
+4. Ersatzansprüche wegen Verletzung oder Nichtbeachtung des Rechts außereuropäischer Staaten,
 
-5.
+5. Ersatzansprüche, die vor Gerichten in außereuropäischen Staaten geltend gemacht werden.
 
 (2) (weggefallen)
 

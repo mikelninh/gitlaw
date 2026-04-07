@@ -17,12 +17,16 @@ Ein aufrechtes, gleicharmiges, geradliniges weißes Kreuz auf grünem Grund gilt
 
 ### § 2
 
-(1) Das in § 1 beschriebene Zeichen wird für den allgemeinen Gebrauch freigegeben.(2) Wegen seiner Verwendung nach dem Inkrafttreten dieser Verordnung können keine Ansprüche aus bestehenden Schutzrechten für Marken oder Ausstattungen geltend gemacht werden.(3) Marken, die das beschriebene Zeichen oder verwechslungsfähige Nachahmungen davon enthalten, können nicht mehr in das Register eingetragen werden.(4) (weggefallen)
+(1) Das in § 1 beschriebene Zeichen wird für den allgemeinen Gebrauch freigegeben.
+
+(2) Wegen seiner Verwendung nach dem Inkrafttreten dieser Verordnung können keine Ansprüche aus bestehenden Schutzrechten für Marken oder Ausstattungen geltend gemacht werden.
+
+(3) Marken, die das beschriebene Zeichen oder verwechslungsfähige Nachahmungen davon enthalten, können nicht mehr in das Register eingetragen werden.
+
+(4) (weggefallen)
 
 ### § 3
 
 -
 
 ### Schlußformel
-
-Der Reichsminister des Innern

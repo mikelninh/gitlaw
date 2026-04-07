@@ -16,57 +16,53 @@ Bei der Prüfung nach § 177 Absatz 2 Satz 1 Nummer 2 des Dritten Buches Sozialg
 
 ### § 2 — Trägerzulassung
 
-(1) Ein Träger ist nach § 178 Nummer 1 des Dritten Buches Sozialgesetzbuch leistungsfähig und zuverlässig, wenn insbesondere seine finanzielle und fachliche Leistungsfähigkeit gewährleistet ist und keine Tatsachen vorliegen, die seine Unzuverlässigkeit oder die der für die Führung der Geschäfte bestellten Personen darlegen. Damit die fachkundige Stelle die Leistungsfähigkeit des Trägers beurteilen kann, erhält sie von dem Träger grundsätzlich folgende Angaben und Nachweise:Damit die fachkundige Stelle die Zuverlässigkeit des Trägers beurteilen kann, erhält sie von dem Träger grundsätzlich folgende Angaben und Nachweise:
+(1) Ein Träger ist nach § 178 Nummer 1 des Dritten Buches Sozialgesetzbuch leistungsfähig und zuverlässig, wenn insbesondere seine finanzielle und fachliche Leistungsfähigkeit gewährleistet ist und keine Tatsachen vorliegen, die seine Unzuverlässigkeit oder die der für die Führung der Geschäfte bestellten Personen darlegen. Damit die fachkundige Stelle die Leistungsfähigkeit des Trägers beurteilen kann, erhält sie von dem Träger grundsätzlich folgende Angaben und Nachweise:
 
-1.
+1. eine Erklärung, ob über sein Vermögen ein Insolvenzverfahren eröffnet, beantragt oder die Eröffnung mangels Masse abgelehnt wurde,
 
-2.
+2. eine Darstellung seiner Organisations- und Personalstruktur sowie der Eignung dieser Strukturen für die Durchführung von Maßnahmen der Arbeitsförderung,
 
-3.
+3. eine Darstellung der Eignung seiner von den Teilnehmenden zu nutzenden Räumlichkeiten und
 
-4.
-
-1.
-
-2.
+4. eine Übersicht über sein aktuelles Angebot an Maßnahmen.
 
 (2) Die Fähigkeit des Trägers, die Eingliederung der Teilnehmenden nach § 178 Nummer 2 des Dritten Buches Sozialgesetzbuch zu unterstützen, setzt insbesondere voraus, dass er bei der Durchführung von Maßnahmen Lage und Entwicklung des Ausbildungs- und Arbeitsmarktes berücksichtigt. Damit die fachkundige Stelle diese Fähigkeit des Trägers beurteilen kann, erhält sie von dem Träger grundsätzlich folgende Angaben und Nachweise:
 
-1.
+1. eine Darstellung von Art und Umfang der Zusammenarbeit mit Akteuren des Ausbildungs- und Arbeitsmarktes vor Ort,
 
-2.
+2. eine Darstellung der Methoden, mit denen der Träger aktuelle arbeitsmarktrelevante Entwicklungen berücksichtigt,
 
-3.
+3. eine Übersicht der im jeweiligen Fachbereich nach § 5 Absatz 1 Satz 3 bereits durchgeführten Maßnahmen und deren arbeitsmarktliche Ergebnisse und
 
-4.
+4. Bewertungen des Trägers durch Teilnehmende und Betriebe.
 
 (3) Damit die fachkundige Stelle beurteilen kann, ob die Aus- und Fortbildung sowie Berufserfahrung der Leitung sowie der Lehr- und Fachkräfte nach § 178 Nummer 3 des Dritten Buches Sozialgesetzbuch eine erfolgreiche Durchführung einer Maßnahme erwarten lassen, erhält sie von dem Träger grundsätzlich folgende Angaben und Nachweise:
 
-1.
+1. zur Person sowie zur Aus- und Weiterbildung der Leitung sowie der Lehr- und Fachkräfte, einschließlich ihres beruflichen Werdegangs und ihrer praktischen Berufserfahrung im Fachbereich,
 
-2.
+2. zur pädagogischen Eignung der Lehr- und Fachkräfte, einschließlich ihrer methodisch-didaktischen Kompetenz, und
 
-3.
+3. Bewertungen der Lehr- und Fachkräfte durch Teilnehmende.
 
 (4) Ein System zur Sicherung der Qualität nach § 178 Nummer 4 des Dritten Buches Sozialgesetzbuch liegt vor, wenn durch zielgerichtete und systematische Verfahren und Maßnahmen die Qualität der Leistungen gewährleistet und kontinuierlich verbessert wird. Damit die fachkundige Stelle das Vorliegen der Voraussetzungen beurteilen kann, erhält sie von dem Träger eine Dokumentation grundsätzlich
 
-1.
+1. zu einem kundenorientierten und auf Eingliederung in den Ausbildungs- und Arbeitsmarkt gerichteten Leitbild,
 
-2.
+2. zur Unternehmensorganisation und -führung, einschließlich der Festlegung von Unternehmenszielen und der Durchführung eigener Prüfungen zur Funktionsweise des Unternehmens,
 
-3.
+3. zu einem zielorientierten Konzept zur Qualifizierung und Fortbildung der Leitung und der Lehr- und Fachkräfte,
 
-4.
+4. zu Zielvereinbarungen, einschließlich der Messung der Zielerreichung und der Steuerung fortlaufender Optimierungsprozesse auf Grundlage erhobener Kennzahlen und Indikatoren,
 
-5.
+5. zur Berücksichtigung arbeitsmarktlicher Entwicklungen bei Konzeption und Durchführung von Maßnahmen der Arbeitsförderung,
 
-6.
+6. zu den Methoden zur Förderung der individuellen Entwicklungs-, Eingliederungs- und Lernprozesse der Teilnehmenden,
 
-7.
+7. zu den Methoden der Bewertung der durchgeführten Maßnahmen sowie ihrer arbeitsmarktlichen Ergebnisse,
 
-8.
+8. zur Art und Weise der kontinuierlichen Zusammenarbeit mit Dritten und der ständigen Weiterentwicklung dieser Zusammenarbeit und
 
-9.
+9. zu einem systematischen Beschwerdemanagement, einschließlich der Berücksichtigung regelmäßiger Befragungen der Teilnehmenden.
 
 (5) Die vertraglichen Vereinbarungen nach § 178 Nummer 5 des Dritten Buches Sozialgesetzbuch sollen vorsehen, dass den Teilnehmenden nach Abschluss der Maßnahme eine Teilnahmebescheinigung mit Angaben zum Inhalt, zeitlichen Umfang und Ziel der Maßnahme ausgehändigt wird.
 
@@ -78,23 +74,23 @@ Bei der Prüfung nach § 177 Absatz 2 Satz 1 Nummer 2 des Dritten Buches Sozialg
 
 (1) Eine Maßnahme lässt nach § 179 Absatz 1 Nummer 1 des Dritten Buches Sozialgesetzbuch eine erfolgreiche Teilnahme erwarten, wenn
 
-1.
+1. Ziele, Dauer und Inhalte der Maßnahme jeweils auf die Voraussetzungen der Zielgruppe und das Maßnahmeziel hin konzipiert sind und
 
-2.
+2. sie aktuelle Entwicklungen des Ausbildungs- und Arbeitsmarktes berücksichtigt.
 
 (2) Die Bundesagentur für Arbeit veröffentlicht zweijährlich, erstmals im Jahr 2022, die durchschnittlichen Kostensätze nach § 179 Absatz 2 des Dritten Buches Sozialgesetzbuch. Grundlage sind die der Bundesagentur für Arbeit gemeldeten Kostensätze der zugelassenen Maßnahmen der vorangegangenen zwei Kalenderjahre.
 
 (3) Bei der Prüfung nach § 179 Absatz 1 Nummer 3 des Dritten Buches Sozialgesetzbuch, ob die Kosten einer Maßnahme angemessen sind, berücksichtigt die fachkundige Stelle insbesondere die Maßnahmekonzeption einschließlich ihrer Kalkulation. Der Kostenkalkulation für eine Gruppenmaßnahme ist grundsätzlich eine Gruppengröße von zwölf Teilnehmenden zu Grunde zu legen.
 
-(4) Als besondere Aufwendungen im Sinne des § 179 Absatz 2 Satz 1 des Dritten Buches Sozialgesetzbuch können insbesondere solche Aufwendungen anerkannt werden, die begründet sind durch Als besondere Aufwendungen können auch Kosten anerkannt werden, die auf eine barrierefreie Ausgestaltung der Maßnahme oder auf eine begründete geringere Teilnehmerzahl zurückzuführen sind.
+(4) Als besondere Aufwendungen im Sinne des § 179 Absatz 2 Satz 1 des Dritten Buches Sozialgesetzbuch können insbesondere solche Aufwendungen anerkannt werden, die begründet sind durch
 
-1.
+1. einen notwendigen überdurchschnittlichen Einsatz von Personal,
 
-2.
+2. eine besondere räumliche Ausstattung,
 
-3.
+3. eine besondere technische Ausstattung oder
 
-4.
+4. eine besondere inhaltliche Ausgestaltung.
 
 (5) Die Bundesagentur für Arbeit kann bei der Ermittlung der durchschnittlichen Kostensätze neben den ihr nach § 181 Absatz 8 des Dritten Buches Sozialgesetzbuch vorliegenden Daten auch die allgemeine Preisentwicklung oder die Lohnentwicklung im Bereich der beruflichen Erwachsenenbildung berücksichtigen, sofern der Anstieg bei den durchschnittlichen Kostensätzen die allgemeine Preis- und Lohnentwicklung nicht übersteigt.
 
@@ -112,17 +108,17 @@ Soweit Maßnahmen der beruflichen Weiterbildung nach den §§ 81 und 82 des Drit
 
 (1) Im Rahmen der Trägerzulassung prüft die fachkundige Stelle das Vorliegen der Anforderungen des § 2 Absatz 1 bis 6 ortsbezogen und bezogen auf den jeweiligen Fachbereich. Die ortsbezogene Prüfung bezieht die Standorte des Trägers mit ein. Die jeweiligen Fachbereiche sind:
 
-1.
+1. Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 45 Absatz 1 Satz 1 Nummer 1 bis 5 des Dritten Buches Sozialgesetzbuch,
 
-2.
+2. ausschließlich erfolgsbezogen vergütete Arbeitsvermittlung in versicherungspflichtige Beschäftigung nach § 45 Absatz 4 Satz 3 Nummer 2 des Dritten Buches Sozialgesetzbuch,
 
-3.
+3. Maßnahmen der Berufswahl und Berufsausbildung nach dem Dritten Abschnitt des Dritten Kapitels des Dritten Buches Sozialgesetzbuch,
 
-4.
+4. Maßnahmen der beruflichen Weiterbildung nach dem Vierten Abschnitt des Dritten Kapitels des Dritten Buches Sozialgesetzbuch,
 
-5.
+5. Transferleistungen nach den §§ 110 und 111 des Dritten Buches Sozialgesetzbuch,
 
-6.
+6. Maßnahmen zur Teilhabe behinderter Menschen am Arbeitsleben nach dem Siebten Abschnitt des Dritten Kapitels des Dritten Buches Sozialgesetzbuch.
 
 (2) Im Rahmen der Maßnahmezulassung prüft die fachkundige Stelle das Vorliegen der Anforderungen der §§ 3 und 4 ortsbezogen. Absatz 1 Satz 2 gilt entsprechend.
 

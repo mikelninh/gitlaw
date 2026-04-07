@@ -15,4 +15,4 @@ Der Bundesminister der Justiz
 
 ### Anlage — Bezeichnungen der Vereinigten Internationalen Büros für den Schutz des geistigen Eigentums (BIRPI)
 
-1. Kennzeichen und Siegel: (Inhalt: Nicht darstellbares Kennzeichen und Siegel,Fundstelle: BGBl. I 1964, 486)2. Sonstige Bezeichnungen: Vereinigte Internationale Büros für den Schutz des geistigen EigentumsBureaux Internationaux Reunis pour la Protection de la Propriete IntellectuelleUnited International Bureaux for the Protection of Intellectual PropertyBIRPI
+1. Kennzeichen und Siegel:

@@ -42,15 +42,15 @@ Der Verwahrer ist verpflichtet, die Wertpapiere unter äußerlich erkennbarer Be
 
 (3) Auf die Sammelverwahrung bei einem Dritten ist § 3 anzuwenden.
 
-(4) Wertpapiersammelbanken dürfen einem ausländischen Verwahrer im Rahmen einer gegenseitigen Kontoverbindung, die zur Aufnahme eines grenzüberschreitenden Effektengiroverkehrs vereinbart wird, Wertpapiere zur Sammelverwahrung anvertrauen, sofern Die Haftung der Wertpapiersammelbanken nach § 3 Abs. 2 Satz 1 für ein Verschulden des ausländischen Verwahrers kann durch Vereinbarung nicht beschränkt werden.
+(4) Wertpapiersammelbanken dürfen einem ausländischen Verwahrer im Rahmen einer gegenseitigen Kontoverbindung, die zur Aufnahme eines grenzüberschreitenden Effektengiroverkehrs vereinbart wird, Wertpapiere zur Sammelverwahrung anvertrauen, sofern
 
-1.
+1. der ausländische Verwahrer in seinem Sitzstaat die Aufgaben einer Wertpapiersammelbank wahrnimmt und einer öffentlichen Aufsicht oder einer anderen für den Anlegerschutz gleichwertigen Aufsicht unterliegt,
 
-2.
+2. dem Hinterleger hinsichtlich des Sammelbestands dieses Verwahrers eine Rechtsstellung eingeräumt wird, die derjenigen nach diesem Gesetz gleichwertig ist,
 
-3.
+3. dem Anspruch der Wertpapiersammelbank gegen den ausländischen Verwahrer auf Auslieferung der Wertpapiere keine Verbote des Sitzstaats dieses Verwahrers entgegenstehen und
 
-4.
+4. die Wertpapiere vertretbar und zur Sammelverwahrung durch die Wertpapiersammelbank und den ausländischen Verwahrer im Rahmen ihrer gegenseitigen Kontoverbindung zugelassen sind.
 
 ### § 6 — Miteigentum am Sammelbestand, Verwaltungsbefugnis des Verwahrers bei der Sammelverwahrung
 
@@ -78,11 +78,11 @@ bei der Sammelverwahrung
 
 ### § 9a — Sammelurkunde
 
-(1) Der Verwahrer hat ein Wertpapier, das mehrere Rechte verbrieft, die jedes für sich in vertretbaren Wertpapieren einer und derselben Art verbrieft sein könnten (Sammelurkunde), einer Wertpapiersammelbank zur Verwahrung zu übergeben, es sei denn, der Hinterleger hat nach § 2 Satz 1 die gesonderte Aufbewahrung der Sammelurkunde verlangt. Der Aussteller kann jederzeit und ohne Zustimmung der übrigen Beteiligten ersetzen.
+(1) Der Verwahrer hat ein Wertpapier, das mehrere Rechte verbrieft, die jedes für sich in vertretbaren Wertpapieren einer und derselben Art verbrieft sein könnten (Sammelurkunde), einer Wertpapiersammelbank zur Verwahrung zu übergeben, es sei denn, der Hinterleger hat nach § 2 Satz 1 die gesonderte Aufbewahrung der Sammelurkunde verlangt. Der Aussteller kann jederzeit und ohne Zustimmung der übrigen Beteiligten
 
-1.
+1. eine von der Wertpapiersammelbank in Verwahrung genommene Sammelurkunde ganz oder teilweise durch einzelne in Sammelverwahrung zu nehmende Wertpapiere oder
 
-2.
+2. einzelne Wertpapiere eines Sammelbestands einer Wertpapiersammelbank durch eine Sammelurkunde
 
 (2) Verwahrt eine Wertpapiersammelbank eine Sammelurkunde allein oder zusammen mit einzelnen Wertpapieren, die über Rechte der in der Sammelurkunde verbrieften Art ausgestellt sind, gelten die §§ 6 bis 9 sowie die sonstigen Vorschriften dieses Gesetzes über Sammelverwahrung und Sammelbestandanteile sinngemäß, soweit nicht in Absatz 3 etwas anderes bestimmt ist.
 
@@ -160,11 +160,11 @@ Eine Erklärung, durch die der Hinterleger den Verwahrer ermächtigt, an Stelle 
 
 Die Formvorschriften des § 4 Abs. 2, des § 5 Abs. 1 Satz 2 und 3 und der §§ 10, 12, 13 und 15 Abs. 2 und 3 sind nicht anzuwenden, wenn der Verwahrer einer gesetzlichen Aufsicht untersteht und der Hinterleger ein Kaufmann ist, der
 
-1.
+1. in das Handelsregister oder Genossenschaftsregister eingetragen ist oder
 
-2.
+2. im Falle einer juristischen Person des öffentlichen Rechts nach der für sie maßgebenden gesetzlichen Regelung, nicht eingetragen zu werden braucht oder
 
-3.
+3. nicht eingetragen wird, weil er seinen Sitz oder seine Hauptniederlassung im Ausland hat.
 
 ### § 17 — Pfandverwahrung
 
@@ -267,11 +267,11 @@ Die §§ 18 bis 30 gelten sinngemäß, wenn jemand im Betrieb seines Gewerbes We
 
 (1) Im Insolvenzverfahren über das Vermögen eines der in den §§ 1, 17 und 18 bezeichneten Verwahrer, Pfandgläubiger und Kommissionäre haben Vorrang nach den Absätzen 3 und 4:
 
-1.
+1. Kommittenten, die bei Eröffnung des Insolvenzverfahrens das Eigentum oder Miteigentum an Wertpapieren noch nicht erlangt, aber ihre Verpflichtungen aus dem Geschäft über diese Wertpapiere dem Kommissionär gegenüber vollständig erfüllt haben; dies gilt auch dann, wenn im Zeitpunkt der Eröffnung des Insolvenzverfahrens der Kommissionär die Wertpapiere noch nicht angeschafft hat;
 
-2.
+2. Hinterleger, Verpfänder und Kommittenten, deren Eigentum oder Miteigentum an Wertpapieren durch eine rechtswidrige Verfügung des Verwahrers, Pfandgläubigers oder Kommissionärs oder ihrer Leute verletzt worden ist, wenn sie bei Eröffnung des Insolvenzverfahrens ihre Verpflichtungen aus dem Geschäft über diese Wertpapiere dem Schuldner gegenüber vollständig erfüllt haben;
 
-3.
+3. die Gläubiger der Nummern 1 und 2, wenn der nichterfüllte Teil ihrer dort bezeichneten Verpflichtungen bei Eröffnung des Insolvenzverfahrens zehn vom Hundert des Wertes ihres Wertpapierlieferungsanspruchs nicht überschreitet und wenn sie binnen einer Woche nach Aufforderung des Insolvenzverwalters diese Verpflichtungen vollständig erfüllt haben.
 
 (2) Entsprechendes gilt im Insolvenzverfahren über das Vermögen eines Eigenhändlers, bei dem jemand Wertpapiere gekauft oder erworben hat, und im Insolvenzverfahren über das Vermögen eines Kommissionärs, der den Auftrag zum Einkauf oder zum Umtausch von Wertpapieren im Wege des Selbsteintritts ausgeführt hat (§ 31).
 
@@ -287,11 +287,11 @@ Die §§ 18 bis 30 gelten sinngemäß, wenn jemand im Betrieb seines Gewerbes We
 
 (2) Die am Ausgleichsverfahren beteiligten Hinterleger werden aus einer Sondermasse befriedigt. In diese Sondermasse sind aufzunehmen:
 
-1.
+1. die Wertpapiere oder Sammelbestandanteile, die dem Pfandgläubiger nach § 12 Abs. 2 verpfändet waren, von diesem aber nicht zu seiner Befriedigung verwertet worden sind;
 
-2.
+2. der Erlös aus den Wertpapieren oder Sammelbestandanteilen, die der Pfandgläubiger verwertet hat, soweit er ihm zu seiner Befriedigung nicht gebührt;
 
-3.
+3. die Forderungen gegen einen am Ausgleichsverfahren beteiligten Hinterleger aus dem ihm eingeräumten Kredit sowie Leistungen zur Abwendung einer drohenden Pfandverwertung.
 
 (3) Die Sondermasse ist unter den am Ausgleichsverfahren beteiligten Hinterlegern nach dem Verhältnis des Wertes der von ihnen dem Verwahrer anvertrauten Wertpapiere oder Sammelbestandanteile zu verteilen. Maßgebend ist der Wert am Tag der Eröffnung des Insolvenzverfahrens, es sei denn, daß die Wertpapiere oder Sammelbestandanteile erst später verwertet worden sind. In diesem Falle ist der erzielte Erlös maßgebend. Ein nach Befriedigung aller am Ausgleichsverfahren beteiligter Hinterleger in der Sondermasse verbleibender Betrag ist an die Insolvenzmasse abzuführen.
 
@@ -305,11 +305,11 @@ Die §§ 18 bis 30 gelten sinngemäß, wenn jemand im Betrieb seines Gewerbes We
 
 ### § 34 — Depotunterschlagung
 
-Wer, abgesehen von den Fällen der §§ 246 und 266 des Strafgesetzbuchs, eigenen oder fremden Vorteils wegen wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+Wer, abgesehen von den Fällen der §§ 246 und 266 des Strafgesetzbuchs, eigenen oder fremden Vorteils wegen
 
-1.
+1. über ein Wertpapier der in § 1 Abs. 1 bezeichneten Art, das ihm als Verwahrer oder Pfandgläubiger anvertraut worden ist oder das er als Kommissionär für den Kommittenten im Besitz hat oder das er im Falle des § 31 für den Kunden im Besitz hat, rechtswidrig verfügt,
 
-2.
+2. einen Sammelbestand solcher Wertpapiere oder den Anteil an einem solchen Bestand dem § 6 Absatz 3 Satz 2 zuwider verringert oder darüber rechtswidrig verfügt,
 
 ### § 35 — Unwahre Angaben über das Eigentum
 

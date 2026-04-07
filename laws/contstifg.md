@@ -16,9 +16,9 @@ Die durch das Gesetz vom 17. Dezember 1971 (BGBl. I S. 2018, 1972 I S. 2045) (im
 
 Zweck der Stiftung ist es, Menschen mit Behinderung, deren Fehlbildungen mit der Einnahme thalidomidhaltiger Präparate der Grünenthal GmbH, Aachen (früher Chemie Grünenthal GmbH in Stolberg), durch die Mutter während der Schwangerschaft in Verbindung gebracht werden können,
 
-1.
+1. Leistungen zu erbringen und
 
-2.
+2. ihnen durch die Förderung oder Durchführung von Forschungs- und Erprobungsvorhaben Hilfe zu gewähren, um ihre Teilhabe am Leben in der Gesellschaft zu unterstützen und die durch Spätfolgen hervorgerufenen Beeinträchtigungen zu mildern.
 
 ### § 3 — Steuerbegünstigung
 
@@ -26,21 +26,21 @@ Die Stiftung verfolgt ausschließlich und unmittelbar steuerbegünstigte Zwecke 
 
 ### § 4 — Stiftungsvermögen
 
-(1) Das Stiftungsvermögen besteht aus und dem daraus erwirtschafteten Vermögen.
+(1) Das Stiftungsvermögen besteht aus
 
-1.
+1. den Mitteln, die der Bund der Stiftung für die Leistung von Kapitalentschädigungen und Conterganrenten nach § 13 Abs. 1 sowie für die notwendigen Verwaltungskosten zur Verfügung stellt;
 
-2.
+2. den Mitteln in Höhe von 30 Millionen Euro jährlich, die der Bund für die Leistungen zur Deckung spezifischer Bedarfe und zur Förderung multidisziplinärer medizinischer Kompetenzzentren zur Verfügung stellt; die sonstigen Kosten im Zusammenhang mit diesen Leistungen und der Förderung der Kompetenzzentren einschließlich der Verwaltungskosten werden ebenfalls aus diesem Betrag gezahlt;
 
-3.
+3. einer Zuwendung von 50 Millionen Euro der Grünenthal GmbH, die am 15. Juli 2009 zu leisten ist;
 
-4.
+4. den Mitteln in Höhe von 51 129 000 Euro, die der Bund nach § 4 Abs. 1 Nr. 1 des Errichtungsgesetzes zur Verfügung gestellt hat, sowie aus den Mitteln, die der Bund für bis zum Ablauf des 30. Juni 2022 noch nicht rechtskräftig beschiedene Anträge gemäß § 13 Absatz 4 Satz 4 zur Verfügung stellt;
 
-5.
+5. dem Kapitalstock in Höhe von 1,5 Millionen Euro, die der Bund nach § 4 Absatz 1 Nummer 1 des Errichtungsgesetzes zur Verfügung gestellt hat;
 
-6.
+6. Mitteln in Höhe von 5 Millionen Euro, die der Bund nach § 4 Absatz 1 Nummer 1 des Errichtungsgesetzes zur Verfügung gestellt hat;
 
-7.
+7. den Zuwendungen nach Absatz 2
 
 (2) Die Stiftung ist berechtigt, Zuwendungen von dritter Seite anzunehmen. Die Stiftung wirbt um weitere Zuwendungen bei Dritten.
 
@@ -48,9 +48,9 @@ Die Stiftung verfolgt ausschließlich und unmittelbar steuerbegünstigte Zwecke 
 
 (1) Organe der Stiftung sind
 
-1.
+1. der Stiftungsrat,
 
-2.
+2. der Stiftungsvorstand.
 
 (2) Ehrenamtliche Organmitglieder haften gegenüber der Stiftung für einen Schaden, den sie bei der Wahrnehmung ihrer Pflichten verursacht haben, nur, wenn sie den Schaden vorsätzlich oder grob fahrlässig verursacht haben. Wenn ehrenamtliche Organmitglieder von Dritten auf Ersatz eines Schadens, den sie bei Wahrnehmung ihrer Pflichten verursacht haben, in Anspruch genommen werden, stellt die Stiftung sie von der Haftung frei, es sei denn, sie haben den Schaden grob fahrlässig oder vorsätzlich verursacht. Die Sätze 1 und 2 gelten entsprechend für ehemalige ehrenamtliche Organmitglieder.
 
@@ -110,15 +110,11 @@ Die Mittel der Stiftung dürfen nur für die Stiftungszwecke verwendet werden.
 
 Die Leistungen nach diesem Abschnitt sind aus dem Stiftungsvermögen zu erbringen. Es sind zu verwenden:
 
-1.
+1. für die jährlichen Sonderzahlungen an die leistungsberechtigten Personen nach den §§ 12 und 13 a)die Mittel nach § 4 Abs. 1 Nummer 3 und die daraus erzielten Erträge sowieb)die Mittel nach § 4 Abs. 1 Nummer 4 in Höhe von 50 Millionen Euro und die daraus seit dem 1. Januar 2009 erzielten Erträge; die Mittel nach § 4 Abs. 1 Nummer 3 und die daraus erzielten Erträge sowie die Mittel nach § 4 Abs. 1 Nummer 4 in Höhe von 50 Millionen Euro und die daraus seit dem 1. Januar 2009 erzielten Erträge;
 
-a)
+2. für die Leistungen zur Deckung spezifischer Bedarfe und für die Förderung multidisziplinärer medizinischer Kompetenzzentren einschließlich der sonstigen Kosten sowie der Verwaltungskosten im Zusammenhang mit den Leistungen zur Deckung spezifischer Bedarfe und der Förderung der Kompetenzzentren die Mittel nach § 4 Absatz 1 Nummer 2;
 
-b)
-
-2.
-
-3.
+3. für die übrigen Leistungen nach diesem Abschnitt die Mittel nach § 4 Abs. 1 Nr. 1 mit Ausnahme der Mittel für die notwendigen Verwaltungskosten.
 
 ### § 12 — Leistungsberechtigte Personen
 
@@ -128,23 +124,23 @@ b)
 
 ### § 13 — Art und Umfang der Leistungen
 
-(1) Den in § 12 genannten leistungsberechtigten Personen stehen als Leistungen zu: Die jährlichen Leistungen zur Deckung spezifischer Bedarfe, zur Förderung multidisziplinärer medizinischer Kompetenzzentren und die jährlichen Sonderzahlungen werden nur geleistet, soweit dafür Mittel nach § 11 Satz 2 Nummer 1 und 2 im Stiftungsvermögen vorhanden sind. Als jährliche Sonderzahlung werden im Jahr 2022 die gemäß § 11 Satz 2 Nummer 1 insgesamt für die jährlichen Sonderzahlungen zur Verfügung stehenden Mittel bis einschließlich 30. Juni 2022 an die leistungsberechtigten Personen ausgezahlt.
+(1) Den in § 12 genannten leistungsberechtigten Personen stehen als Leistungen zu:
 
-1.
+1. eine einmalige Kapitalentschädigung,
 
-2.
+2. eine lebenslängliche Conterganrente vorbehaltlich des Absatzes 2 Satz 3,
 
-3.
+3. jährliche Leistungen zur Deckung spezifischer Bedarfe und
 
-4.
+4. eine jährliche Sonderzahlung, die erstmals für das Jahr 2009 und letztmalig für das Jahr 2022 gewährt wird.
 
-(2) Die Höhe der in Absatz 1 genannten Leistungen richtet sich nach der Schwere des Körperschadens und der hierdurch hervorgerufenen Körperfunktionsstörungen und liegt In leichten Fällen sind die Leistungen auf die Kapitalentschädigung zu beschränken. Die Höhe der Conterganrente wird durch das Bundesministerium für Familie, Senioren, Frauen und Jugend jeweils entsprechend dem Prozentsatz angepasst, um den sich die Renten der gesetzlichen Rentenversicherung verändern. Die Anpassung nach Satz 4 erfolgt jeweils zum gleichen Zeitpunkt, zu dem die Renten der gesetzlichen Rentenversicherung angepasst werden.
+(2) Die Höhe der in Absatz 1 genannten Leistungen richtet sich nach der Schwere des Körperschadens und der hierdurch hervorgerufenen Körperfunktionsstörungen und liegt
 
-1.
+1. bei der einmaligen Kapitalentschädigung zwischen 1 278 Euro und 12 782 Euro,
 
-2.
+2. bei der monatlichen Conterganrente zwischen 662 Euro und 7 480 Euro,
 
-3.
+3. bei den jährlichen Leistungen zur Deckung spezifischer Bedarfe zwischen 876 Euro und 9 900 Euro. Zusätzlich erhält jede leistungsberechtigte Person einen jährlichen Sockelbetrag von 4 800 Euro.
 
 (3) Auf Antrag ist die Conterganrente zu kapitalisieren, wenn dies im Interesse des Menschen mit Behinderungen liegt. Die Conterganrente kann auf Antrag auch teilweise kapitalisiert werden. Die Kapitalisierung ist auf die für einen Zeitraum von höchstens fünf Jahre zustehende Conterganrente beschränkt. Der Anspruch auf Conterganrente, an deren Stelle die Kapitalabfindung tritt, erlischt für die Dauer des Zeitraumes, für den die Kapitalisierung gewährt wird, mit Ablauf des Monats, der auf den Monat der Auszahlung der Abfindung folgt.
 
@@ -200,11 +196,11 @@ Leistungen nach diesem Abschnitt sind einkommensteuerfrei. Ansprüche auf solche
 
 Für Maßnahmen nach diesem Abschnitt sind zu verwenden
 
-1.
+1. die Erträge aus den Mitteln nach § 4 Absatz 1 Nummer 5;
 
-2.
+2. die Mittel nach § 4 Absatz 1 Nummer 6 und die daraus erzielten Erträge;
 
-3.
+3. Zuwendungen nach § 4 Abs. 2, soweit nicht die oder der Zuwendende etwas anderes bestimmt hat.
 
 ### § 20 — Förderungsmaßnahmen
 
@@ -230,11 +226,11 @@ Für Streitigkeiten über Ansprüche nach diesem Gesetz ist der Verwaltungsrecht
 
 ### § 24 — Übergangsvorschrift
 
-Soweit die Conterganstiftung Leistungen zur Deckung spezifischer Bedarfe nach der bis zum 31. Dezember 2016 geltenden Fassung des Gesetzes bewilligt hat, die werden diese auf Leistungen nach § 13 Absatz 1 Satz 1 Nummer 3 angerechnet.
+Soweit die Conterganstiftung Leistungen zur Deckung spezifischer Bedarfe nach der bis zum 31. Dezember 2016 geltenden Fassung des Gesetzes bewilligt hat, die
 
-1.
+1. nach dem 1. Januar 2017 ausgezahlt werden und
 
-2.
+2. zur Deckung spezifischer Bedarfe ab dem 1. Januar 2017 bestimmt sind,
 
 ### § 25 — Bericht
 

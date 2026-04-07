@@ -27,14 +27,6 @@ Bemessungsgrundlage für das Jahr 1960
 
 ### § 3
 
-(1) Bei Renten aus der Rentenversicherung der Arbeiter und der Rentenversicherung der Angestellten, die auf Versicherungsfällen der Jahre 1957, 1958 und 1959 beruhen und nach § 1253ff. der Reichsversicherungsordnung oder § 30ff. des Angestelltenversicherungsgesetzes berechnet worden sind, sowie bei Renten aus der knappschaftlichen Rentenversicherung und Renten aus der Rentenversicherung der Arbeiter und der Rentenversicherung der Angestellten mit einem Leistungsteil aus der knappschaftlichen Rentenversicherung darf der nach § 1 Abs. 1 erster Halbsatz errechnete Betrag den Betrag nicht überschreiten, der sich ergeben würde, wenn die Rente ohne Änderung der übrigen Berechnungsfaktoren unter Zugrundelegung der allgemeinen Bemessungsgrundlage für das Jahr 1960 und der Beitragsbemessungsgrenze für dieses Jahr berechnet werden würde. Auf die übrigen Renten aus der Rentenversicherung der Arbeiter und der Rentenversicherung der Angestellten findet Artikel 2 § 34 des Arbeiterrentenversicherungs-Neuregelungsgesetzes oder Artikel 2 § 33 des Angestelltenversicherungs-Neuregelungsgesetzes Anwendung. Die in diesen Vorschriften angegebenen Werte werden durch folgende Werte ersetzt:
-
-(2) § 1282 Abs. 2 der Reichsversicherungsordnung und § 59 Abs. 2 des Angestelltenversicherungsgesetzes gelten; im übrigen gilt in den Fällen, in denen § 1282 Abs. 2 der Reichsversicherungsordnung und § 59 Abs. 2 des Angestelltenversicherungsgesetzes anzuwenden sind, Absatz 1 sinngemäß.
-
-(3) Absatz 1 Satz 1 gilt nicht für Renten aus der knappschaftlichen Rentenversicherung, die nach Artikel 2 § 11 oder Artikel 2 § 25 des Knappschaftsrentenversicherungs-Neuregelungsgesetzes berechnet worden sind.
-
-> § 3 Kursivdruck: §§ 1253 bis 1256 RVO aufgeh. durch Art. 6 Nr. 24 G v. 18.12.1989 I 2261 mWv 1.1.1992 § 3 Kursivdruck: § 1282 Abs. 2 RVO, § 59 Abs. 2 AVG aufgeh. durch Art. 2 Nr. 27 u. Art. 3 Nr. 3 G v. 1.12.1981 I 1205 mWv 5.12.1981
-
 ### § 4
 
 Ergibt die Anpassung keinen höheren als den bisherigen Zahlbetrag, so ist dieser weiterzuzahlen.
@@ -46,8 +38,6 @@ Soweit bei den Versorgungsbezügen nach dem Bundesversorgungsgesetz und den Gese
 ### § 6
 
 (1) Dem Berechtigten ist über die Anpassung eine schriftliche Mitteilung zu geben. Ergibt eine spätere Überprüfung, daß die Anpassung fehlerhaft ist, so ist sie zu berichtigen. Die Rente ist in ihrer bisherigen Höhe bis zum Ablauf des Monats zu gewähren, in dem der Berichtigungsbescheid zugestellt wird. Eine Rückforderung überzahlter Beträge findet nicht statt. Die Berichtigung ist nur bis zum 31. Dezember 1961 zulässig.
-
-(2) § 1300 der Reichsversicherungsordnung, § 79 des Angestelltenversicherungsgesetzes und § 93 Abs. 1 des Reichsknappschaftsgesetzes bleiben unberührt.
 
 > § 6 Abs. 2 Kursivdruck: § 1300 RVO aufgeh. durch Art. II § 4 Nr. 1, § 79 AVG aufgeh. durch Art. II § 6 Nr. 1 u. § 93 RKG aufgeh. durch Art. II § 8 Nr. 1 G v. 18.8.1980 I 1469 mWv 1.1.1981
 

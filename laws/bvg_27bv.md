@@ -18,9 +18,9 @@ Auf dem Gebiet der Kriegsopferfürsorge wird eine Zusatzstatistik über Leistung
 
 Die Zusatzstatistik erfaßt
 
-1.
+1. laufende und einmalige Leistungen, gegliedert nach den im Abschnitt 3 des Bundessozialhilfegesetzes genannten Hilfearten sowie nach Leistungen in und außerhalb von Anstalten, Heimen und gleichartigen Einrichtungen,
 
-2.
+2. Name und Alter der Empfänger dieser Leistungen sowie deren Zuordnung zu einer bestimmten Empfängergruppe.
 
 ### § 3
 

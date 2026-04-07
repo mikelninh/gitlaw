@@ -15,7 +15,9 @@ Dem in Brüssel am 27. Juni 1997 von der Bundesrepublik Deutschland unterzeichne
 
 ### Art 2
 
-(1) Die nach Artikel 3 Satz 2 Buchstabe b und c der Anlage IV zum Übereinkommen („Bestimmungen über das gemeinsame Flugsicherungs-Streckengebührensystem“) gefassten Beschlüsse sind in ihrer jeweils geltenden, in der Bundesrepublik Deutschland angewendeten Fassung vom Bundesministerium für Verkehr und digitale Infrastruktur im Bundesgesetzblatt bekannt zu machen.(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Abweichungen von einem Beschluss nach Absatz 1 festzulegen, wenn der Beschluss dieses vorsieht.
+(1) Die nach Artikel 3 Satz 2 Buchstabe b und c der Anlage IV zum Übereinkommen („Bestimmungen über das gemeinsame Flugsicherungs-Streckengebührensystem“) gefassten Beschlüsse sind in ihrer jeweils geltenden, in der Bundesrepublik Deutschland angewendeten Fassung vom Bundesministerium für Verkehr und digitale Infrastruktur im Bundesgesetzblatt bekannt zu machen.
+
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Abweichungen von einem Beschluss nach Absatz 1 festzulegen, wenn der Beschluss dieses vorsieht.
 
 ### Art 3
 
@@ -23,4 +25,6 @@ Die Einziehung der Gebühr gemäß den Artikeln 6 und 7 der Anlage IV zum Übere
 
 ### Art 5
 
-(1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.(2) Der Tag, an dem das Protokoll nach seinem Artikel II Absatz 3 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekannt zu geben.
+(1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
+
+(2) Der Tag, an dem das Protokoll nach seinem Artikel II Absatz 3 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekannt zu geben.

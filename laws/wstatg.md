@@ -16,7 +16,13 @@ Das Ergebnis der Wahl zum Deutschen Bundestag und der Wahl der Abgeordneten des 
 
 ### § 2 — Art der Statistik
 
-(1) Aus dem Ergebnis der Wahlen gemäß § 1 sind unter Wahrung des Wahlgeheimnisses in ausgewählten Wahlbezirken repräsentative Wahlstatistiken über a)die Wahlberechtigten, Wahlscheinvermerke und die Beteiligung an der Wahl nach Geschlecht und Geburtsjahresgruppen, b)die Wähler und ihre Stimmabgabe für die einzelnen Wahlvorschläge nach Geschlecht und Geburtsjahresgruppen sowie die Gründe für die Ungültigkeit von Stimmen als Bundesstatistik zu erstellen.(2) In die Statistik nach Absatz 1 Buchstabe b sind ausgewählte Briefwahlbezirke einzubeziehen. Ein Briefwahlbezirk wird bestimmt durch die dem Briefwahlvorstand zugewiesene Zuständigkeit nach Wahlbezirken, die auf der Grundlage von § 2 Abs. 3 des Bundeswahlgesetzes oder von § 3 Abs. 2 des Europawahlgesetzes gebildet worden sind.
+(1) Aus dem Ergebnis der Wahlen gemäß § 1 sind unter Wahrung des Wahlgeheimnisses in ausgewählten Wahlbezirken repräsentative Wahlstatistiken über
+
+a) die Wahlberechtigten, Wahlscheinvermerke und die Beteiligung an der Wahl nach Geschlecht und Geburtsjahresgruppen,
+
+b) die Wähler und ihre Stimmabgabe für die einzelnen Wahlvorschläge nach Geschlecht und Geburtsjahresgruppen sowie die Gründe für die Ungültigkeit von Stimmen
+
+(2) In die Statistik nach Absatz 1 Buchstabe b sind ausgewählte Briefwahlbezirke einzubeziehen. Ein Briefwahlbezirk wird bestimmt durch die dem Briefwahlvorstand zugewiesene Zuständigkeit nach Wahlbezirken, die auf der Grundlage von § 2 Abs. 3 des Bundeswahlgesetzes oder von § 3 Abs. 2 des Europawahlgesetzes gebildet worden sind.
 
 ### § 3 — Stichprobenauswahl
 
@@ -28,7 +34,9 @@ Erhebungsmerkmale für die Statistik nach § 2 Abs. 1 Buchstabe a sind Wahlberec
 
 ### § 5 — Durchführende Stellen
 
-(1) Die Statistik nach § 2 Abs. 1 Buchstabe a wird von den Gemeinden, in denen ausgewählte Wahlbezirke liegen, unter Auszählung der Wählverzeichnisse durchgeführt. Die Gemeinden teilen die Ergebnisse getrennt nach Wahlbezirken dem zuständigen statistischen Amt des Landes mit.(2) Die Statistik nach § 2 Abs. 1 Buchstabe b wird unter Verwendung von amtlichen Stimmzetteln, welche zudem Unterscheidungsmerkmale nach Geschlecht und Geburtsjahresgruppen enthalten, oder unter Verwendung hierfür zugelassener Wahlgeräte durchgeführt. Die Gemeindebehörden und andere Stellen, die Briefwahlvorstände berufen haben, leiten die ihnen von den Wahlvorstehern übergebenen verpackten und versiegelten Stimmzettel ungeöffnet und getrennt nach Wahlbezirken und Briefwahlbezirken zur Auswertung an das zuständige statistische Amt des Landes weiter; die Gemeindebehörden leiten Ergebnisaufzeichnungen von Wahlgeräten der für die Statistik ausgewählten Wahlbezirke entsprechend weiter. Gemeinden mit einer Statistikstelle, welche die Voraussetzungen des § 16 Abs. 5 Satz 2 des Bundesstatistikgesetzes vom 22. Januar 1987 (BGBl. I S. 462, 565), zuletzt geändert durch Artikel 3 Abs. 18 des Gesetzes vom 21. Dezember 2000 (BGBl. I S. 1857), erfüllt, können die Auswertung der Stimmzettel mit Zustimmung des Landeswahlleiters selbst in der Statistikstelle vornehmen; sie teilen die Ergebnisse getrennt nach Wahlbezirken und nach Briefwahlbezirken dem zuständigen statistischen Amt des Landes mit. Wählerverzeichnisse und gekennzeichnete Stimmzettel oder Ergebnisaufzeichnungen von Wahlgeräten dürfen nicht zusammengeführt werden.
+(1) Die Statistik nach § 2 Abs. 1 Buchstabe a wird von den Gemeinden, in denen ausgewählte Wahlbezirke liegen, unter Auszählung der Wählverzeichnisse durchgeführt. Die Gemeinden teilen die Ergebnisse getrennt nach Wahlbezirken dem zuständigen statistischen Amt des Landes mit.
+
+(2) Die Statistik nach § 2 Abs. 1 Buchstabe b wird unter Verwendung von amtlichen Stimmzetteln, welche zudem Unterscheidungsmerkmale nach Geschlecht und Geburtsjahresgruppen enthalten, oder unter Verwendung hierfür zugelassener Wahlgeräte durchgeführt. Die Gemeindebehörden und andere Stellen, die Briefwahlvorstände berufen haben, leiten die ihnen von den Wahlvorstehern übergebenen verpackten und versiegelten Stimmzettel ungeöffnet und getrennt nach Wahlbezirken und Briefwahlbezirken zur Auswertung an das zuständige statistische Amt des Landes weiter; die Gemeindebehörden leiten Ergebnisaufzeichnungen von Wahlgeräten der für die Statistik ausgewählten Wahlbezirke entsprechend weiter. Gemeinden mit einer Statistikstelle, welche die Voraussetzungen des § 16 Abs. 5 Satz 2 des Bundesstatistikgesetzes vom 22. Januar 1987 (BGBl. I S. 462, 565), zuletzt geändert durch Artikel 3 Abs. 18 des Gesetzes vom 21. Dezember 2000 (BGBl. I S. 1857), erfüllt, können die Auswertung der Stimmzettel mit Zustimmung des Landeswahlleiters selbst in der Statistikstelle vornehmen; sie teilen die Ergebnisse getrennt nach Wahlbezirken und nach Briefwahlbezirken dem zuständigen statistischen Amt des Landes mit. Wählerverzeichnisse und gekennzeichnete Stimmzettel oder Ergebnisaufzeichnungen von Wahlgeräten dürfen nicht zusammengeführt werden.
 
 ### § 6 — Wahlstatistische Auszählungen der Gemeinden
 
@@ -36,7 +44,11 @@ Gemeinden dürfen bei den in § 1 genannten Wahlen mit Zustimmung des Landeswahl
 
 ### § 7 — Ergebnisfeststellung
 
-(1) Durch die Statistiken nach § 2 und die wahlstatistischen Auszählungen nach § 6 darf die Feststellung von Wahlergebnissen nicht verzögert werden.(2) Die statistischen Ämter der Länder teilen die Ergebnisse der Statistiken nach § 2 dem Statistischen Bundesamt mit.(3) Nach Abschluß der Aufbereitung durch die statistischen Ämter der Länder sind die Wahlunterlagen unverzüglich den Gemeindebehörden und andere Stellen, die Briefwahlvorstände berufen haben, zurückzugeben und von diesen entsprechend den wahlrechtlichen Bestimmungen zu behandeln.
+(1) Durch die Statistiken nach § 2 und die wahlstatistischen Auszählungen nach § 6 darf die Feststellung von Wahlergebnissen nicht verzögert werden.
+
+(2) Die statistischen Ämter der Länder teilen die Ergebnisse der Statistiken nach § 2 dem Statistischen Bundesamt mit.
+
+(3) Nach Abschluß der Aufbereitung durch die statistischen Ämter der Länder sind die Wahlunterlagen unverzüglich den Gemeindebehörden und andere Stellen, die Briefwahlvorstände berufen haben, zurückzugeben und von diesen entsprechend den wahlrechtlichen Bestimmungen zu behandeln.
 
 ### § 8 — Veröffentlichung der Ergebnisse
 

@@ -11,7 +11,27 @@ Die Bundesregierung verordnet aufgrund des § 29b des Asylgesetzes in der Fassun
 
 ### § 1 — Sichere Herkunftsstaaten im Sinne des § 29b des Asylgesetzes
 
-Sichere Herkunftsstaaten im Sinne des § 29b des Asylgesetzes sind: 1.Albanien2.Bosnien und Herzegowina3.Georgien4.Ghana5.Kosovo6.Moldau, Republik7.Montenegro8.Nordmazedonien9.Senegal10.Serbien.
+Sichere Herkunftsstaaten im Sinne des § 29b des Asylgesetzes sind:
+
+1. Albanien
+
+2. Bosnien und Herzegowina
+
+3. Georgien
+
+4. Ghana
+
+5. Kosovo
+
+6. Moldau, Republik
+
+7. Montenegro
+
+8. Nordmazedonien
+
+9. Senegal
+
+10. Serbien.
 
 ### § 2 — Inkrafttreten
 

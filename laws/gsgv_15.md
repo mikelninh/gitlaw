@@ -15,11 +15,11 @@ Diese Verordnung regelt das Verbot der Einfuhr, des Inverkehrbringens und der Be
 
 ### § 2 — Begriffsbestimmung
 
-(1) Eine Himmelslaterne im Sinne dieser Verordnung ist ein unbemannter ballonartiger Flugleuchtkörper, Der Brennstoff als Feuerquelle zur Lufterwärmung kann fest, flüssig oder gasförmig sein.
+(1) Eine Himmelslaterne im Sinne dieser Verordnung ist ein unbemannter ballonartiger Flugleuchtkörper,
 
-1.
+1. bei dem der Auftrieb durch eine offene Feuerquelle erzeugt wird und
 
-2.
+2. der frei und ohne Kontrollmöglichkeit fliegt.
 
 (2) Andere Bezeichnungen einer Himmelslaterne, wie zum Beispiel Wunschlaterne oder Glücksballon, lassen § 3 dieser Verordnung unberührt.
 

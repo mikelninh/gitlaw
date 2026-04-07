@@ -8,4 +8,4 @@ die Festsetzung einer Amtsbezeichnung
 
 ### (XXXX)
 
-Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende Amtsbezeichnung fest: "Präsident und Professor derBundesanstalt für Arbeitsschutz und Arbeitsmedizin".Der Bundespräsident
+Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende Amtsbezeichnung fest:

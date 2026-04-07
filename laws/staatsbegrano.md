@@ -30,5 +30,3 @@ Die Durchführung von Staatsbegräbnissen und Staatsakten obliegt dem Bundesmini
 Staatsbegräbnisse und Staatsakte auf Grund landesrechtlicher Anordnung bleiben unberührt.
 
 ### Schlußformel
-
-Der Bundespräsident Der Bundeskanzler Der Bundesminister des Innern

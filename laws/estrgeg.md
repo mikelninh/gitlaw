@@ -33,11 +33,11 @@ Soweit und solange die für die Kinder des Versorgungsberechtigten insgesamt gew
 
 ### Art 44 — Übergangsregelung zum Arbeitsförderungsgesetz
 
-(1) Soweit die nach Inkrafttreten dieses Gesetzes geltenden Leistungssätze für das Unterhaltsgeld, das Arbeitslosengeld und die Arbeitslosenhilfe zuzüglich eines Betrages in Höhe des Kindergeldes nach dem Bundeskindergeldgesetz niedriger als nach den vor Inkrafttreten dieses Gesetzes geltenden Vorschriften sind, erhöhen sich die Leistungssätze um den Unterschiedsbetrag. Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung bestimmen, daß in den betroffenen Arbeitsentgeltstufen allen Verheirateten und allen nach § 111 Abs. 2 Satz 3 des Arbeitsförderungsgesetzes den Verheirateten gleichstehenden Anspruchsberechtigten der höchste Unterschiedsbetrag in der Arbeitsentgeltstufe zu zahlen ist, sofern dies im Interesse einer schnellen Auszahlung der Leistungen notwendig ist; es kann auch bestimmen, daß die nach Inkrafttreten dieses Gesetzes geltenden Leistungssätze für das Unterhaltsgeld erstmalig für den ersten Zahlungszeitraum, der nach Inkrafttreten dieses Gesetzes beginnt, anzuwenden sind. Die Rechtsverordnung bedarf nicht der Zustimmung des Bundesrates.
+(1) Soweit die nach Inkrafttreten dieses Gesetzes geltenden Leistungssätze für das Unterhaltsgeld, das Arbeitslosengeld und die Arbeitslosenhilfe zuzüglich eines Betrages in Höhe des Kindergeldes nach dem Bundeskindergeldgesetz niedriger als nach den vor Inkrafttreten dieses Gesetzes geltenden Vorschriften sind, erhöhen sich die Leistungssätze
 
-1.
+1. bei Ansprüchen auf Unterhaltsgeld, die bei Inkrafttreten dieses Gesetzes noch nicht erschöpft sind, sowie
 
-2.
+2. bei Ansprüchen auf Arbeitslosengeld und Arbeitslosenhilfe für die Zeit bis zum 31. März 1975 und bei Ansprüchen auf diese Leistungen, die bis zu diesem Zeitpunkt noch nicht erschöpft sind,
 
 (2) Auf die bei Inkrafttreten dieses Gesetzes noch nicht erschöpften Ansprüche auf Unterhaltsgeld nach § 44 Abs. 5 ist weiterhin § 44 Abs. 5 Satz 2 in der bisherigen Fassung anzuwenden.
 
@@ -45,10 +45,6 @@ Soweit und solange die für die Kinder des Versorgungsberechtigten insgesamt gew
 
 ### Art 46 — Übergangsregelung bei Außerkrafttreten zwischenstaatlicher
 Abkommen
-
-(1) Kindergeld, das auf Grund von Abkommen der Bundesrepublik Deutschland mit Griechenland, Jugoslawien, Portugal, Spanien und der Türkei geleistet wird, beträgt monatlich
-
-(2) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Familie, Senioren, Frauen und Jugend und dem Bundesministerium der Finanzen ohne Zustimmung des Bundesrates durch Rechtsverordnung zu bestimmen, daß Vorschriften über die Gewährung von Kindergeld, die in einem zwischenstaatlichen Abkommen über Soziale Sicherheit enthalten sind, weiterhin anwendbar bleiben, wenn sie durch Kündigung des Abkommens außer Kraft getreten sind.Die Höhe des Kindergeldes beträgt monatlich Soweit dies mit Rücksicht auf die durchschnittlichen Lebenshaltungskosten für Kinder in deren Wohnland und auf die dort gewährten, dem Kindergeld vergleichbaren Leistungen geboten ist, kann Kindergeld auch für das erste Kind bis zu einer Höhe von 10 Deutsche Mark monatlich gezahlt werden.
 
 ### Art 47
 

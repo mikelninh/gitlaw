@@ -8,11 +8,15 @@
 
 ### § 1
 
-(1) Das Gesetz über die Zwangsversteigerung und die Zwangsverwaltung tritt, soweit es die Schiffe betrifft, gleichzeitig mit dem Bürgerlichen Gesetzbuch, im übrigen für jeden Grundbuchbezirk mit dem Zeitpunkt in Kraft, in welchem das Grundbuch als angelegt anzusehen ist.(2) Die Artikel 1 Abs. 2, Artikel 2, 50, 55 des Einführungsgesetzes zum Bürgerlichen Gesetzbuch finden entsprechende Anwendung.
+(1) Das Gesetz über die Zwangsversteigerung und die Zwangsverwaltung tritt, soweit es die Schiffe betrifft, gleichzeitig mit dem Bürgerlichen Gesetzbuch, im übrigen für jeden Grundbuchbezirk mit dem Zeitpunkt in Kraft, in welchem das Grundbuch als angelegt anzusehen ist.
+
+(2) Die Artikel 1 Abs. 2, Artikel 2, 50, 55 des Einführungsgesetzes zum Bürgerlichen Gesetzbuch finden entsprechende Anwendung.
 
 ### § 2
 
-(1) Soweit in dem Einführungsgesetz zum Bürgerlichen Gesetzbuch zugunsten der Landesgesetze Vorbehalte gemacht sind, gelten sie auch für die Vorschriften der Landesgesetze über die Zwangsversteigerung und die Zwangsverwaltung.(2) Es treten jedoch die landesgesetzlichen Vorschriften außer Kraft, nach welchen den landschaftlichen und ritterschaftlichen Kreditanstalten für den Anspruch auf ältere als zweijährige Rückstände wiederkehrender Leistungen ein Vorrecht vor den im § 10 Nr. 1 bis 6 des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung bezeichneten Ansprüchen beigelegt ist.
+(1) Soweit in dem Einführungsgesetz zum Bürgerlichen Gesetzbuch zugunsten der Landesgesetze Vorbehalte gemacht sind, gelten sie auch für die Vorschriften der Landesgesetze über die Zwangsversteigerung und die Zwangsverwaltung.
+
+(2) Es treten jedoch die landesgesetzlichen Vorschriften außer Kraft, nach welchen den landschaftlichen und ritterschaftlichen Kreditanstalten für den Anspruch auf ältere als zweijährige Rückstände wiederkehrender Leistungen ein Vorrecht vor den im § 10 Nr. 1 bis 6 des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung bezeichneten Ansprüchen beigelegt ist.
 
 ### § 3
 
@@ -20,7 +24,9 @@ Die im Artikel 113 des Einführungsgesetzes zum Bürgerlichen Gesetzbuch bezeich
 
 ### § 4
 
-(1) Durch Landesgesetz kann bestimmt werden, daß gewisse öffentliche Lasten anderen im Range vorgehen.(2)
+(1) Durch Landesgesetz kann bestimmt werden, daß gewisse öffentliche Lasten anderen im Range vorgehen.
+
+(2)
 
 ### § 5
 
@@ -36,15 +42,23 @@ Unberührt bleiben die bestehenden landesgesetzlichen Vorschriften, nach welchen
 
 ### § 8
 
-(1) Durch Landesgesetz kann für die Zwangsversteigerung bestimmt werden, daß die vor dem Inkrafttreten des Bürgerlichen Gesetzbuchs eingetragenen Hypotheken bei der Feststellung des geringsten Gebots und bei der Aufstellung des Teilungsplans nur auf Grund einer Anmeldung zu berücksichtigen sind.(2) In einem solchen Fall muß die im § 37 Nr. 4 des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung vorgeschriebene Aufforderung auf die Anmeldung der Ansprüche aus den bezeichneten Hypotheken ausgedehnt werden.
+(1) Durch Landesgesetz kann für die Zwangsversteigerung bestimmt werden, daß die vor dem Inkrafttreten des Bürgerlichen Gesetzbuchs eingetragenen Hypotheken bei der Feststellung des geringsten Gebots und bei der Aufstellung des Teilungsplans nur auf Grund einer Anmeldung zu berücksichtigen sind.
+
+(2) In einem solchen Fall muß die im § 37 Nr. 4 des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung vorgeschriebene Aufforderung auf die Anmeldung der Ansprüche aus den bezeichneten Hypotheken ausgedehnt werden.
 
 ### § 9
 
-(1) Soweit ein nach Landesgesetz begründetes Recht an einem Grundstück, das nicht in einer Hypothek besteht, zur Wirksamkeit gegen Dritte der Eintragung nicht bedarf oder soweit eine Dienstbarkeit oder eine Reallast als Leibgedinge, Leibzucht, Altenteil oder Auszug eingetragen ist, bleibt das Recht nach Maßgabe des Landesgesetzes von der Zwangsversteigerung unberührt, auch wenn es bei der Feststellung des geringsten Gebots nicht berücksichtigt ist.(2) Das Erlöschen eines solchen Rechts ist auf Verlangen eines Beteiligten als Versteigerungsbedingung zu bestimmen, wenn durch das Fortbestehen ein dem Recht vorgehendes oder gleichstehendes Recht des Beteiligten beeinträchtigt werden würde; die Zustimmung eines anderen Beteiligten ist nicht erforderlich.
+(1) Soweit ein nach Landesgesetz begründetes Recht an einem Grundstück, das nicht in einer Hypothek besteht, zur Wirksamkeit gegen Dritte der Eintragung nicht bedarf oder soweit eine Dienstbarkeit oder eine Reallast als Leibgedinge, Leibzucht, Altenteil oder Auszug eingetragen ist, bleibt das Recht nach Maßgabe des Landesgesetzes von der Zwangsversteigerung unberührt, auch wenn es bei der Feststellung des geringsten Gebots nicht berücksichtigt ist.
+
+(2) Das Erlöschen eines solchen Rechts ist auf Verlangen eines Beteiligten als Versteigerungsbedingung zu bestimmen, wenn durch das Fortbestehen ein dem Recht vorgehendes oder gleichstehendes Recht des Beteiligten beeinträchtigt werden würde; die Zustimmung eines anderen Beteiligten ist nicht erforderlich.
 
 ### § 9a
 
-(1) In dem in Artikel 3 des Einigungsvertrages genannten Gebiet umfaßt die nach dem 31. Dezember 2000 angeordnete Beschlagnahme des Grundstücks auch das in Artikel 233 §§ 2b, 4 und 8 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bezeichnete Gebäudeeigentum. Nach Ablauf der in Satz 1 bezeichneten Frist erlöschen durch den Zuschlag auch die in Artikel 233 § 2c Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bezeichneten Ansprüche, es sei denn, daß für diese ein Vermerk im Grundbuch eingetragen ist oder diese im Verfahren nach Absatz 2 angemeldet worden sind. Satz 2 gilt für Ansprüche auf Rückübertragung nach dem Vermögensgesetz sinngemäß.(2) Dem Inhaber des Gebäudeeigentums stehen die in § 28 des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung bezeichneten Rechte zu. Die in Artikel 233 § 2c Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bezeichneten Ansprüche sind, sofern sie nicht in dem für das Grundstück angelegten Grundbuch vermerkt sind, spätestens im Versteigerungstermin vor der Aufforderung zur Abgabe von Angeboten anzumelden. § 3b Abs. 2 des Vermögensgesetzes bleibt unberührt.(3) Der Beschluß, durch den die Zwangsversteigerung angeordnet wird, ist dem Nutzer zuzustellen. Ist dieser nicht bekannt, so ist, wenn nicht ein Pfleger bestellt wird, auf Ersuchen des Gerichts in entsprechender Anwendung des Artikels 233 § 2 Abs. 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ein Vertreter zu bestellen. Ein Zwangsversteigerungsvermerk ist auch in ein bestehendes Gebäudegrundbuch für Gebäudeeigentum auf dem Grundstück einzutragen.
+(1) In dem in Artikel 3 des Einigungsvertrages genannten Gebiet umfaßt die nach dem 31. Dezember 2000 angeordnete Beschlagnahme des Grundstücks auch das in Artikel 233 §§ 2b, 4 und 8 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bezeichnete Gebäudeeigentum. Nach Ablauf der in Satz 1 bezeichneten Frist erlöschen durch den Zuschlag auch die in Artikel 233 § 2c Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bezeichneten Ansprüche, es sei denn, daß für diese ein Vermerk im Grundbuch eingetragen ist oder diese im Verfahren nach Absatz 2 angemeldet worden sind. Satz 2 gilt für Ansprüche auf Rückübertragung nach dem Vermögensgesetz sinngemäß.
+
+(2) Dem Inhaber des Gebäudeeigentums stehen die in § 28 des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung bezeichneten Rechte zu. Die in Artikel 233 § 2c Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bezeichneten Ansprüche sind, sofern sie nicht in dem für das Grundstück angelegten Grundbuch vermerkt sind, spätestens im Versteigerungstermin vor der Aufforderung zur Abgabe von Angeboten anzumelden. § 3b Abs. 2 des Vermögensgesetzes bleibt unberührt.
+
+(3) Der Beschluß, durch den die Zwangsversteigerung angeordnet wird, ist dem Nutzer zuzustellen. Ist dieser nicht bekannt, so ist, wenn nicht ein Pfleger bestellt wird, auf Ersuchen des Gerichts in entsprechender Anwendung des Artikels 233 § 2 Abs. 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ein Vertreter zu bestellen. Ein Zwangsversteigerungsvermerk ist auch in ein bestehendes Gebäudegrundbuch für Gebäudeeigentum auf dem Grundstück einzutragen.
 
 ### § 10
 

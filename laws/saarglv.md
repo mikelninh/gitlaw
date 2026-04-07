@@ -12,7 +12,7 @@ Auf Grund des § 14 des Gesetzes über die Angelegenheiten der Vertriebenen und 
 
 ### § 1
 
-(1) Deutsche Staatsangehörige oder deutsche Volkszugehörige, die im Zeitpunkt der Besetzung ihren Wohnsitz im Saargebiet hatten und diesen auf Grund politisch bedingter und von ihnen nicht zu vertretender Maßnahmen der Besatzungsmacht oder der Saarbehörden aufgeben mußten oder aus den gleichen Gründen dorthin nicht zurückkehren konnten, werden Sowjetzonenflüchtlingen im Sinne des § 3 des Bundesvertriebenengesetzes gleichgestellt.(2) § 1 Abs. 1 Satz 2 und 3, Abs. 2 Nr. 4 und Abs. 3 des Bundesvertriebenengesetzes findet sinngemäß Anwendung.
+(1) Deutsche Staatsangehörige oder deutsche Volkszugehörige, die im Zeitpunkt der Besetzung ihren Wohnsitz im Saargebiet hatten und diesen auf Grund politisch bedingter und von ihnen nicht zu vertretender Maßnahmen der Besatzungsmacht oder der Saarbehörden aufgeben mußten oder aus den gleichen Gründen dorthin nicht zurückkehren konnten, werden Sowjetzonenflüchtlingen im Sinne des § 3 des Bundesvertriebenengesetzes gleichgestellt.
 
 > § 1 Abs. 2: Kursivdruck jetzt § 1 Abs. 4 BVFG 240-1
 

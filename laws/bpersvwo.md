@@ -41,13 +41,13 @@
 
 ### § 4 — Vorabstimmungen
 
-(1) Vorabstimmungen über werden nur berücksichtigt, wenn ihr Ergebnis dem Wahlvorstand binnen sechs Arbeitstagen seit der Bekanntgabe nach § 1 Abs. 3 vorliegt und dem Wahlvorstand glaubhaft gemacht wird, daß das Ergebnis unter Leitung eines aus mindestens drei wahlberechtigten Beschäftigten bestehenden Abstimmungsvorstandes in geheimen und in den Fällen der Nummern 1 und 2 nach Gruppen getrennten Abstimmungen zustande gekommen ist. Dem Abstimmungsvorstand muß ein Mitglied jeder in der Dienststelle, in den Fällen des Satzes 1 Nr. 3 der Nebenstelle oder des Teils der Dienststelle, vertretenen Gruppe angehören.
+(1) Vorabstimmungen über
 
-1.
+1. eine von § 17 Absatz 1 bis 5 des Gesetzes abweichende Verteilung der Mitglieder des Personalrates auf die Gruppen (§ 17 Absatz 6 des Gesetzes) oder
 
-2.
+2. die Durchführung gemeinsamer Wahl (§ 19 Abs. 2 des Gesetzes) oder
 
-3.
+3. die Geltung von Nebenstellen oder Teilen einer Dienststelle als selbständige Dienststelle (§ 7 des Gesetzes)
 
 (2) Der Wahlvorstand hat in der Bekanntgabe nach § 1 Abs. 3 auf die in Absatz 1 bezeichneten Fristen hinzuweisen.
 
@@ -67,39 +67,39 @@
 
 (2) Das Wahlausschreiben muß enthalten
 
-1.
+1. Ort und Tag seines Erlasses,
 
-2.
+2. die Zahl der zu wählenden Mitglieder des Personalrates, getrennt nach Gruppen,
 
-2a.
+2a. Angaben über die Anteile der Geschlechter innerhalb der Dienststelle, getrennt nach Gruppen,
 
-3.
+3. Angaben darüber, ob die Gruppen ihre Vertreter in getrennten Wahlgängen wählen (Gruppenwahl) oder vor Erlaß des Wahlausschreibens gemeinsame Wahl beschlossen worden ist,
 
-4.
+4. die Angabe, wo und wann das Wählerverzeichnis und diese Wahlordnung zur Einsicht ausliegen,
 
-5.
+5. den Hinweis, daß nur Beschäftigte wählen können, die in das Wählerverzeichnis eingetragen sind,
 
-5a.
+5a. den Hinweis, daß die Geschlechter im Personalrat entsprechend dem Zahlenverhältnis vertreten sein sollen,
 
-6.
+6. den Hinweis, daß Einsprüche gegen das Wählerverzeichnis nur binnen sechs Arbeitstagen seit seiner Auslegung schriftlich beim Wahlvorstand eingelegt werden können, der letzte Tag der Einspruchsfrist ist anzugeben,
 
-7.
+7. die Mindestzahl von wahlberechtigten Beschäftigten, von denen ein Wahlvorschlag unterzeichnet sein muß, und den Hinweis, daß jeder Beschäftigte für die Wahl des Personalrates nur auf einem Wahlvorschlag benannt werden kann,
 
-7a.
+7a. den Hinweis, daß der Wahlvorschlag einer in der Dienststelle vertretenen Gewerkschaft von zwei Beauftragten unterzeichnet sein muß (§ 20 Absatz 5 des Gesetzes),
 
-8.
+8. die Aufforderung, Wahlvorschläge binnen achtzehn Kalendertagen nach dem Erlaß des Wahlausschreibens beim Wahlvorstand einzureichen, der letzte Tag der Einreichungsfrist ist anzugeben,
 
-9.
+9. den Hinweis, daß nur fristgerecht eingereichte Wahlvorschläge berücksichtigt werden und daß nur gewählt werden kann, wer in einen solchen Wahlvorschlag aufgenommen ist,
 
-10.
+10. den Ort, an dem die Wahlvorschläge bekanntgegeben werden,
 
-11.
+11. den Ort und die Zeit der Stimmabgabe,
 
-12.
+12. einen Hinweis auf die Möglichkeit der schriftlichen Stimmabgabe, gegebenenfalls auf die Anordnung der schriftlichen Stimmabgabe nach § 19 oder § 19a,
 
-13.
+13. den Ort und die Zeit der Stimmenauszählung und der Sitzung des Wahlvorstandes, in der das Wahlergebnis abschließend festgestellt wird,
 
-14.
+14. den Ort, an dem Einsprüche, Wahlvorschläge und andere Erklärungen gegenüber dem Wahlvorstand abzugeben sind.
 
 (3) Der Wahlvorstand hat eine Abschrift oder einen Abdruck des Wahlausschreibens vom Tage des Erlasses bis zum Abschluß der Stimmabgabe an einer oder an mehreren geeigneten, den Wahlberechtigten zugänglichen Stellen auszuhängen und in gut lesbarem Zustand zu erhalten.
 
@@ -115,21 +115,21 @@
 
 ### § 8 — Inhalt der Wahlvorschläge
 
-(1) Jeder Wahlvorschlag soll mindestens doppelt soviel Bewerber enthalten, wie zu wählen sind.
+(1) Jeder Wahlvorschlag soll mindestens doppelt soviel Bewerber enthalten, wie
 
-1.
+1. bei Gruppenwahl Gruppenvertreter,
 
-2.
+2. bei gemeinsamer Wahl Personalratsmitglieder
 
 (2) Die Namen der einzelnen Bewerber sind auf dem Wahlvorschlag untereinander aufzuführen und mit fortlaufenden Nummern zu versehen. Außer dem Familiennamen sind der Vorname, das Geburtsdatum, die Amts- oder Funktionsbezeichnung, die Gruppenzugehörigkeit und, soweit Sicherheitsbedürfnisse nicht entgegenstehen, die Beschäftigungsstelle anzugeben. Bei gemeinsamer Wahl sind in dem Wahlvorschlag die Bewerber jeweils nach Gruppen zusammenzufassen. Der Wahlvorschlag darf keine Änderungen enthalten; gegebenenfalls ist ein neuer Wahlvorschlag zu fertigen und zu unterzeichnen.
 
-(3) Jeder Wahlvorschlag der Beschäftigten muß nach § 20 Absatz 1 bis 3 des Gesetzes unterzeichnet sein. Bruchteile eines Zehntels oder Zwanzigstels werden auf ein volles Zehntel oder Zwanzigstel aufgerundet. In jedem Falle genügen bei Gruppenwahl die Unterschriften von 50 wahlberechtigten Gruppenangehörigen, bei gemeinsamer Wahl die Unterschriften von 50 wahlberechtigten Beschäftigten. Macht eine in der Dienststelle vertretene Gewerkschaft einen Wahlvorschlag, so muß dieser von zwei in der Dienststelle beschäftigten Beauftragten, die einer der in der Dienststelle vertretenen Gewerkschaften angehören, unterzeichnet sein. Hat der Wahlvorstand Zweifel, ob eine Beauftragung durch eine in der Dienststelle vertretene Gewerkschaft tatsächlich vorliegt, kann er verlangen, daß die Gewerkschaft den Auftrag bestätigt; dies soll schriftlich erfolgen. Entsprechendes gilt bei Zweifeln, ob ein Beauftragter einer in der Dienststelle vertretenen Gewerkschaft als Mitglied angehört.
+(3) Jeder Wahlvorschlag der Beschäftigten muß nach § 20 Absatz 1 bis 3 des Gesetzes
 
-1.
+1. bei Gruppenwahl von mindestens einem Zwanzigstel der wahlberechtigten Gruppenangehörigen, jedoch mindestens von drei wahlberechtigten Gruppenangehörigen,
 
-2.
+2. bei gemeinsamer Wahl von mindestens einem Zwanzigstel der wahlberechtigten Beschäftigten, jedoch mindestens von drei wahlberechtigten Beschäftigten,
 
-3.
+3. bei gemeinsamer Wahl, wenn gruppenfremde Bewerber vorgeschlagen werden, von mindestens einem Zehntel der wahlberechtigten Angehörigen der Gruppe, für die sie vorgeschlagen sind,
 
 (4) Aus dem Wahlvorschlag der Beschäftigten soll zu ersehen sein, welcher Beschäftigte zur Vertretung des Vorschlages gegenüber dem Wahlvorstand und zur Entgegennahme von Erklärungen und Entscheidungen des Wahlvorstandes berechtigt ist (Listenvertreter). Fehlt eine Angabe hierüber, gilt der Unterzeichner als berechtigt, der an erster Stelle steht. In den Fällen des Absatzes 3 Satz 4 kann die Gewerkschaft einen der von ihr beauftragten Vorschlagsberechtigten oder einen anderen in der Dienststelle Beschäftigten, der Mitglied der Gewerkschaft ist, als Listenvertreter benennen.
 
@@ -156,13 +156,13 @@ ungültige Wahlvorschläge
 
 (4) Der Wahlvorstand hat einen vorschlagsberechtigten Beschäftigten (§ 8 Abs. 3), der mehrere Wahlvorschläge unterzeichnet hat, schriftlich gegen Empfangsbestätigung, erforderlichenfalls durch eingeschriebenen Brief, aufzufordern, binnen drei Arbeitstagen seit dem Zugang der Aufforderung zu erklären, welche Unterschrift er aufrechterhält. Gibt der Beschäftigte diese Erklärung nicht fristgerecht ab, so zählt seine Unterschrift auf keinem Wahlvorschlag. Entsprechendes gilt für Wahlvorschläge der Gewerkschaften, die mit § 9 Abs. 3 Satz 2 nicht in Einklang stehen.
 
-(5) Wahlvorschläge, die hat der Wahlvorstand gegen schriftliche Empfangsbestätigung, erforderlichenfalls durch eingeschriebenen Brief, mit der Aufforderung zurückzugeben, die Mängel binnen drei Arbeitstagen seit dem Zugang der Aufforderung zu beseitigen. Werden die Mängel nicht fristgerecht beseitigt, sind diese Wahlvorschläge ungültig.
+(5) Wahlvorschläge, die
 
-1.
+1. den Erfordernissen des § 8 Abs. 2 Satz 1 bis 3 nicht entsprechen,
 
-2.
+2. ohne die schriftliche Zustimmung der Bewerber eingereicht sind,
 
-3.
+3. infolge von Streichungen gemäß Absatz 4 nicht mehr die erforderliche Anzahl von Unterschriften aufweisen,
 
 ### § 11 — Nachfrist für die Einreichung von Wahlvorschlägen
 
@@ -172,9 +172,9 @@ ungültige Wahlvorschläge
 
 (3) Gehen auch innerhalb der Nachfrist gültige Wahlvorschläge nicht ein, so gibt der Wahlvorstand sofort bekannt
 
-1.
+1. bei Gruppenwahl, für welche Gruppe oder für welche Gruppen keine Vertreter gewählt werden können,
 
-2.
+2. bei gemeinsamer Wahl, daß diese Wahl nicht stattfinden kann.
 
 ### § 12 — Bezeichnung der Wahlvorschläge
 
@@ -203,13 +203,13 @@ Stimmabgabe
 
 (4) Ungültig sind Stimmzettel,
 
-1.
+1. die nicht in einem Wahlumschlag abgegeben sind,
 
-2.
+2. die nicht den Erfordernissen des Absatzes 2 Satz 2 entsprechen,
 
-3.
+3. aus denen sich der Wille des Wählers nicht zweifelsfrei ergibt,
 
-4.
+4. die ein besonderes Merkmal, einen Zusatz oder einen Vorbehalt enthalten.
 
 (5) Mehrere in einem Wahlumschlag für eine Wahl enthaltene Stimmzettel, die gleich lauten, werden als eine Stimme gezählt.
 
@@ -229,23 +229,23 @@ Stimmabgabe
 
 ### § 17 — Schriftliche Stimmabgabe
 
-(1) Einem wahlberechtigten Beschäftigten, der im Zeitpunkt der Wahl verhindert ist, seine Stimme persönlich abzugeben, hat der Wahlvorstand auf sein Verlangen auszuhändigen oder zu übersenden. Der Wahlvorstand soll dem Wähler ferner ein Merkblatt über die Art und Weise der schriftlichen Stimmabgabe (Absatz 2) aushändigen oder übersenden. Auf Antrag ist auch ein Abdruck des Wahlausschreibens auszuhändigen oder zu übersenden. Der Wahlvorstand hat die Aushändigung oder Übersendung im Wählerverzeichnis zu vermerken.
+(1) Einem wahlberechtigten Beschäftigten, der im Zeitpunkt der Wahl verhindert ist, seine Stimme persönlich abzugeben, hat der Wahlvorstand auf sein Verlangen
 
-1.
+1. die Wahlvorschläge,
 
-2.
+2. den Stimmzettel und den Wahlumschlag,
 
-3.
+3. eine vorgedruckte, vom Wähler abzugebende Erklärung, in der dieser gegenüber dem Wahlvorstand versichert, daß er den Stimmzettel persönlich gekennzeichnet hat oder, soweit unter den Voraussetzungen des § 16 Abs. 2 erforderlich, durch eine Person seines Vertrauens hat kennzeichnen lassen sowie
 
-4.
+4. einen größeren Freiumschlag, der die Anschrift des Wahlvorstandes und als Absender den Namen und die Anschrift des Wahlberechtigten sowie den Vermerk "Schriftliche Stimmabgabe" trägt,
 
-(2) Der Wähler gibt seine Stimme in der Weise ab, daß er Der Wähler kann, soweit unter den Voraussetzungen des § 16 Abs. 2 erforderlich, die in den Nummern 1 bis 3 bezeichneten Tätigkeiten durch eine Person seines Vertrauens verrichten lassen.
+(2) Der Wähler gibt seine Stimme in der Weise ab, daß er
 
-1.
+1. den Stimmzettel unbeobachtet persönlich kennzeichnet und in den Wahlumschlag legt,
 
-2.
+2. die vorgedruckte Erklärung unter Angabe des Ortes und des Datums unterschreibt und
 
-3.
+3. den Wahlumschlag, in den der Stimmzettel gelegt ist, und die unterschriebene Erklärung (Absatz 1 Satz 1 Nr. 3) in dem Freiumschlag verschließt und diesen so rechtzeitig an den Wahlvorstand absendet oder übergibt, daß er vor Abschluß der Stimmabgabe vorliegt.
 
 ### § 18 — Behandlung der schriftlich abgegebenen Stimmen
 
@@ -255,11 +255,11 @@ Stimmabgabe
 
 ### § 19 — Stimmabgabe bei Nebenstellen und Teilen von Dienststellen
 
-Für die Beschäftigten von kann der Wahlvorstand die Stimmabgabe in diesen Stellen durchführen oder die schriftliche Stimmabgabe anordnen. Wird die schriftliche Stimmabgabe angeordnet, so hat der Wahlvorstand den wahlberechtigten Beschäftigten die in § 17 Abs. 1 bezeichneten Unterlagen zu übersenden.
+Für die Beschäftigten von
 
-1.
+1. nachgeordneten Stellen einer Dienststelle, die nicht nach § 6 Absatz 1 Satz 2 des Gesetzes selbständig sind, oder
 
-2.
+2. Nebenstellen oder Teilen einer Dienststelle, die räumlich weit von dieser entfernt liegen und nicht als selbständige Dienststellen nach § 7 des Gesetzes gelten,
 
 ### § 20 — Feststellung des Wahlergebnisses
 
@@ -267,11 +267,11 @@ Für die Beschäftigten von kann der Wahlvorstand die Stimmabgabe in diesen Stel
 
 (2) Nach Öffnung der Wahlurne entnimmt der Wahlvorstand die Stimmzettel den Wahlumschlägen und prüft ihre Gültigkeit.
 
-(3) Der Wahlvorstand zählt entfallenen gültigen Stimmzettel zusammen.
+(3) Der Wahlvorstand zählt
 
-1.
+1. im Falle der Verhältniswahl die auf jede Vorschlagsliste,
 
-2.
+2. im Falle der Personenwahl die auf jeden einzelnen Bewerber
 
 (4) Stimmzettel, über deren Gültigkeit oder Ungültigkeit der Wahlvorstand beschließt, weil sie zu Zweifeln Anlaß geben, sind mit fortlaufender Nummer zu versehen und von den übrigen Stimmzetteln gesondert bei den Wahlunterlagen aufzubewahren.
 
@@ -279,17 +279,17 @@ Für die Beschäftigten von kann der Wahlvorstand die Stimmabgabe in diesen Stel
 
 (1) Über das Wahlergebnis fertigt der Wahlvorstand eine Niederschrift, die von sämtlichen Mitgliedern des Wahlvorstandes zu unterzeichnen ist. Die Niederschrift muß enthalten
 
-1.
+1. bei Gruppenwahl die Summe der von jeder Gruppe abgegebenen Stimmen, bei gemeinsamer Wahl die Summe aller abgegebenen Stimmen,
 
-2.
+2. bei Gruppenwahl die Summe der von jeder Gruppe abgegebenen gültigen Stimmen, bei gemeinsamer Wahl die Summe aller abgegebenen gültigen Stimmen,
 
-3.
+3. die Zahl der für jede Gruppe abgegebenen ungültigen Stimmen, bei gemeinsamer Wahl die Summe aller abgegebenen ungültigen Stimmen,
 
-4.
+4. die für die Gültigkeit oder die Ungültigkeit zweifelhafter Stimmen maßgebenden Gründe,
 
-5.
+5. im Falle der Verhältniswahl die Zahl der auf jede Vorschlagsliste entfallenen gültigen Stimmen sowie die Errechnung der Höchstzahlen und ihre Verteilung auf die Vorschlagslisten, im Falle der Personenwahl die Zahl der auf jeden Bewerber entfallenen gültigen Stimmen,
 
-6.
+6. die Namen der gewählten Bewerber.
 
 (2) Besondere Vorkommnisse bei der Wahlhandlung oder der Feststellung des Wahlergebnisses sind in der Niederschrift zu vermerken.
 
@@ -310,11 +310,11 @@ bei Vorliegen mehrerer Wahlvorschläge (Verhältniswahl)
 
 ### § 25 — Voraussetzungen für Verhältniswahl, Stimmzettel, Stimmabgabe
 
-(1) Nach den Grundsätzen der Verhältniswahl (Listenwahl) ist zu wählen, wenn eingegangen sind. In diesen Fällen kann jeder Wähler seine Stimme nur für den gesamten Wahlvorschlag (Vorschlagsliste) abgeben.
+(1) Nach den Grundsätzen der Verhältniswahl (Listenwahl) ist zu wählen, wenn
 
-1.
+1. bei Gruppenwahl für die betreffende Gruppe mehrere gültige Wahlvorschläge,
 
-2.
+2. bei gemeinsamer Wahl mehrere gültige Wahlvorschläge
 
 (2) Auf dem Stimmzettel sind die Vorschlagslisten in der nach § 12 Abs. 1 ermittelten Reihenfolge unter Angabe von Familienname, Vorname, Amts- oder Funktionsbezeichnung und Gruppenzugehörigkeit der an erster und zweiter Stelle benannten Bewerber, bei gemeinsamer Wahl der für die Gruppen an erster Stelle benannten Bewerber untereinander aufzuführen; bei Listen, die mit einem Kennwort versehen sind, ist auch das Kennwort anzugeben.
 
@@ -343,17 +343,17 @@ bei Vorliegen eines Wahlvorschlages (Personenwahl)
 ### § 28 — Voraussetzungen für Personenwahl, Stimmzettel,
 Stimmabgabe
 
-(1) Nach den Grundsätzen der Personenwahl ist zu wählen, wenn eingegangen ist. In diesen Fällen kann jeder Wähler nur solche Bewerber wählen, die in dem Wahlvorschlag aufgeführt sind.
+(1) Nach den Grundsätzen der Personenwahl ist zu wählen, wenn
 
-1.
+1. bei Gruppenwahl für die betreffende Gruppe nur ein gültiger Wahlvorschlag,
 
-2.
+2. bei gemeinsamer Wahl nur ein gültiger Wahlvorschlag
 
 (2) In den Stimmzettel werden die Bewerber aus dem Wahlvorschlag in unveränderter Reihenfolge unter Angabe von Familienname, Vorname, Amts- oder Funktionsbezeichnung und Gruppenzugehörigkeit übernommen. Der Wähler hat auf dem Stimmzettel die Namen der Bewerber anzukreuzen, für die er seine Stimme abgeben will. Der Wähler darf
 
-1.
+1. bei Gruppenwahl nicht mehr Namen ankreuzen, als für die betreffende Gruppe Vertreter zu wählen sind,
 
-2.
+2. bei gemeinsamer Wahl nicht mehr Namen ankreuzen, als Personalratsmitglieder zu wählen sind.
 
 ### § 29 — Ermittlung der gewählten Bewerber
 
@@ -370,11 +370,11 @@ Gruppenvertreters (Personenwahl)
 ### § 30 — Voraussetzungen für Personenwahl, Stimmzettel, Stimmabgabe,
 Wahlergebnis
 
-(1) Nach den Grundsätzen der Personenwahl ist zu wählen, wenn zu wählen ist.
+(1) Nach den Grundsätzen der Personenwahl ist zu wählen, wenn
 
-1.
+1. bei Gruppenwahl nur ein Vertreter,
 
-2.
+2. bei gemeinsamer Wahl nur ein Personalratsmitglied
 
 (2) In den Stimmzettel werden die Bewerber aus den Wahlvorschlägen in alphabetischer Reihenfolge unter Angabe von Familienname, Vorname, Amts- oder Funktionsbezeichnung übernommen.
 
@@ -424,43 +424,43 @@ Die Wahl des Bezirkspersonalrates soll möglichst gleichzeitig mit der Wahl der 
 
 (3) Das Wahlausschreiben muß enthalten
 
-1.
+1. Ort und Tag seines Erlasses,
 
-2.
+2. die Zahl der zu wählenden Mitglieder des Bezirkspersonalrates, getrennt nach Gruppen,
 
-2a.
+2a. Angaben über die Anteile der Geschlechter innerhalb des Geschäftsbereichs, getrennt nach Gruppen,
 
-3.
+3. Angaben darüber, ob die Gruppen ihre Vertreter in getrennten Wahlgängen wählen (Gruppenwahl) oder vor Erlaß des Wahlausschreibens gemeinsame Wahl beschlossen worden ist,
 
-4.
+4. den Hinweis, daß nur Beschäftigte wählen können, die in das Wählerverzeichnis eingetragen sind,
 
-4a.
+4a. den Hinweis, daß die Geschlechter im Bezirkspersonalrat entsprechend dem Zahlenverhältnis vertreten sein sollen,
 
-5.
+5. die Mindestzahl von wahlberechtigten Beschäftigten, von denen ein Wahlvorschlag unterzeichnet sein muß, und den Hinweis, daß jeder Beschäftigte nur auf einem Wahlvorschlag benannt werden kann,
 
-5a.
+5a. den Hinweis, daß der Wahlvorschlag einer im Geschäftsbereich der Behörde der Mittelstufe vertretenen Gewerkschaft von zwei Beauftragten unterzeichnet sein muß (§ 89 Absatz 2 in Verbindung mit § 20 Absatz 5 des Gesetzes),
 
-6.
+6. die Aufforderung, Wahlvorschläge binnen achtzehn Kalendertagen nach dem Erlaß des Wahlausschreibens beim Bezirkswahlvorstand einzureichen, der letzte Tag der Einreichungsfrist ist anzugeben,
 
-7.
+7. den Hinweis, daß nur fristgerecht eingereichte Wahlvorschläge berücksichtigt werden und daß nur gewählt werden kann, wer in einen solchen Wahlvorschlag aufgenommen ist,
 
-8.
+8. den Tag oder die Tage der Stimmabgabe.
 
 (4) Der örtliche Wahlvorstand ergänzt das Wahlausschreiben durch die folgenden Angaben:
 
-1.
+1. die Angabe, wo und wann das für die örtliche Dienststelle aufgestellte Wählerverzeichnis und diese Wahlordnung zur Einsicht ausliegen,
 
-2.
+2. den Hinweis, daß Einsprüche gegen das Wählerverzeichnis nur binnen sechs Arbeitstagen seit seiner Auslegung schriftlich beim örtlichen Wahlvorstand eingelegt werden können, der letzte Tag der Einspruchsfrist ist anzugeben,
 
-3.
+3. den Ort, an dem die Wahlvorschläge bekanntgegeben werden,
 
-4.
+4. den Ort und die Zeit der Stimmabgabe,
 
-5.
+5. einen Hinweis auf die Möglichkeit der schriftlichen Stimmabgabe, gegebenenfalls auf die Anordnung der schriftlichen Stimmabgabe nach § 19,
 
-6.
+6. den Ort und die Zeit der Stimmenauszählung,
 
-7.
+7. den Ort, an dem Einsprüche und andere Erklärungen gegenüber dem Wahlvorstand abzugeben sind.
 
 (5) Der örtliche Wahlvorstand vermerkt auf dem Wahlausschreiben den ersten und letzten Tag des Aushanges.
 
@@ -505,15 +505,15 @@ Der Hauptwahlvorstand leitet die Wahl des Hauptpersonalrates.
 
 ### § 44 — Durchführung der Wahl nach Bezirken
 
-(1) Der Hauptwahlvorstand kann die bei den Behörden der Mittelstufe bestehenden oder auf sein Ersuchen bestellten örtlichen Wahlvorstände beauftragen, Die Wahlvorstände bei den Behörden der Mittelstufe unterrichten in diesen Fällen die übrigen örtlichen Wahlvorstände im Bereich der Behörde der Mittelstufe darüber, daß die in den Nummern 1 bis 3 genannten Angaben an sie einzusenden sind.
+(1) Der Hauptwahlvorstand kann die bei den Behörden der Mittelstufe bestehenden oder auf sein Ersuchen bestellten örtlichen Wahlvorstände beauftragen,
 
-1.
+1. die von den örtlichen Wahlvorständen im Bereich der Behörde der Mittelstufe festzustellenden Zahlen der in der Regel Beschäftigten und ihre Verteilung auf die Gruppen zusammenzustellen,
 
-2.
+2. die Zahl der im Bereich der Behörde der Mittelstufe wahlberechtigten Beschäftigten, getrennt nach ihrer Gruppenzugehörigkeit und innerhalb der Gruppen nach den Anteilen der Geschlechter, festzustellen,
 
-3.
+3. die bei den Dienststellen im Bereich der Behörde der Mittelstufe festgestellten Wahlergebnisse zusammenzustellen,
 
-4.
+4. Bekanntmachungen des Hauptwahlvorstandes an die übrigen örtlichen Wahlvorstände im Bereich der Behörde der Mittelstufe weiterzuleiten.
 
 (2) Die Wahlvorstände bei den Behörden der Mittelstufe fertigen über die Zusammenstellung der Wahlergebnisse (Absatz 1 Satz 1 Nr. 3) eine Niederschrift.
 
@@ -550,13 +550,13 @@ Für die Wahl des Gesamtpersonalrates gelten die §§ 32 bis 41 entsprechend.
 
 Für den Bundesnachrichtendienst gilt diese Wahlordnung mit folgenden Abweichungen:
 
-1.
+1. Bei der Erstellung der Wahlunterlagen sind die Sicherheitsbestimmungen des Bundesnachrichtendienstes zu beachten. An die Stelle der Bekanntmachung durch Aushang tritt die im Bundesnachrichtendienst übliche Bekanntmachung. Die Bekanntmachungen müssen den Beschäftigten für die Dauer der in den einzelnen Vorschriften bestimmten Zeiträume zur Einsichtnahme während der Dienststunden zugänglich sein.
 
-2.
+2. § 2 Abs. 3 ist mit der Maßgabe anzuwenden, daß die Beschäftigten nur das Wählerverzeichnis ihrer Gruppe einsehen dürfen.
 
-3.
+3. Wird nach § 17 Abs. 1 Satz 3 ein Abdruck des Wahlausschreibens ausgehändigt oder versandt, so darf dieser nicht die Angaben nach § 6 Abs. 2 Nr. 2 und 7 enthalten.
 
-4.
+4. Die Beschäftigten von Teilen einer Dienststelle, die räumlich von dieser entfernt liegen, geben ihre Stimme schriftlich ab.
 
 ### § 49a
 
@@ -575,8 +575,6 @@ Für den Bundesnachrichtendienst gilt diese Wahlordnung mit folgenden Abweichung
 (1) Der Personalrat bestellt spätestens drei Wochen vor dem Ablauf der Amtszeit der Vertrauensperson der lokal Beschäftigten drei lokal Beschäftigte als Wahlvorstand und bestimmt einen von ihnen als Vorsitzenden. Hat der Personalrat den Wahlvorstand nicht fristgemäß bestellt oder besteht in der Dienststelle kein Personalrat, so bestellt der Leiter der Dienststelle den Wahlvorstand. Sind lokal Beschäftigte nicht oder nicht in ausreichender Zahl zur Übernahme des Wahlvorstandsamtes bereit, können wahlberechtigte Beschäftigte bestellt werden.
 
 (2) Der Wahlvorstand hat unverzüglich eine Versammlung der lokal Beschäftigten einzuberufen. In dieser Versammlung ist die Wahl der Vertrauensperson und ihrer Stellvertreter durchzuführen.
-
-(3) Ist eine geheime Wahl vorzunehmen (§ 120 Absatz 2 Satz 1 zweiter Halbsatz des Gesetzes), so ist wie folgt zu verfahren: Der Wahlvorstand verteilt unbeschriebene Stimmzettel von gleicher Farbe und Größe. Jeder Wähler schreibt den Namen eines Kandidaten auf seinen Stimmzettel, faltet diesen so, daß der Name verdeckt wird, und übergibt ihn dem Wahlvorstand. Dieser legt den Stimmzettel in Gegenwart des Wählers ungeöffnet in einen dafür bestimmten Behälter und hält den Namen des Wählers in einer Liste fest. Der Wahlvorstand trifft Vorkehrungen, daß die Wähler ihren Stimmzettel unbeobachtet beschreiben können. Hat der Wahlvorstand festgestellt, daß die Wahlhandlung beendet ist, zählt er unverzüglich und ohne Unterbrechung öffentlich die Stimmen aus und stellt das Ergebnis fest.
 
 (4) Zur Vertrauensperson gewählt ist der Kandidat, der die meisten Stimmen erhalten hat. Der Kandidat mit der zweithöchsten Stimmenzahl ist zum ersten Stellvertreter, der mit der dritthöchsten Stimmenzahl zum zweiten Stellvertreter gewählt. Bei gleicher Stimmenzahl entscheidet das Los.
 

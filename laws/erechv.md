@@ -8,8 +8,6 @@
 
 ### Eingangsformel
 
-Auf Grund des § 4a Absatz 3 des E-Government-Gesetzes, der durch Artikel 1 Nummer 2 des Gesetzes vom 4. April 2017 (BGBl. I S. 770) eingefügt worden ist, verordnet die Bundesregierung:
-
 ### § 1 — Geltungsbereich
 
 Diese Verordnung gilt grundsätzlich für alle Rechnungen, mit denen eine Lieferung oder eine sonstige Leistung abgerechnet wird und die nach Erfüllung von öffentlichen Aufträgen und Aufträgen sowie zu Konzessionen ausgestellt wurden, soweit diese Verordnung keine abweichenden Bestimmungen für geheimhaltungsbedürftige Rechnungsdaten sowie für Angelegenheiten des Auswärtigen Dienstes und der sonstigen Beschaffungen im Ausland enthält.
@@ -20,9 +18,9 @@ Diese Verordnung gilt grundsätzlich für alle Rechnungen, mit denen eine Liefer
 
 (2) Eine elektronische Rechnung ist jedes Dokument im Sinne von Absatz 1, wenn
 
-1.
+1. es in einem strukturierten elektronischen Format ausgestellt, übermittelt und empfangen wird und
 
-2.
+2. das Format die automatische und elektronische Verarbeitung des Dokuments ermöglicht.
 
 (3) Rechnungssteller sind alle Unternehmer im Sinne von § 14 Absatz 1 des Bürgerlichen Gesetzbuches, die eine Rechnung an Rechnungsempfänger im Sinne von Absatz 4 ausstellen und übermitteln.
 
@@ -40,11 +38,11 @@ Diese Verordnung gilt grundsätzlich für alle Rechnungen, mit denen eine Liefer
 
 (3) Die Pflicht zur elektronischen Rechnungsstellung nach Absatz 1 gilt nicht für Rechnungen,
 
-1.
+1. die nach Erfüllung eines Direktauftrags bis zu einem Betrag von 1 000 Euro gestellt werden,
 
-2.
+2. die den Ausnahmeregelungen nach § 8 oder § 9 unterfallen oder
 
-3.
+3. die in Verfahren der Organleihe nach § 159 Absatz 1 Nummer 5 des Gesetzes gegen Wettbewerbsbeschränkungen auszustellen sind.
 
 ### § 4 — Anforderungen an das Rechnungsdatenmodell und an die Übermittlung
 
@@ -62,19 +60,19 @@ Diese Verordnung gilt grundsätzlich für alle Rechnungen, mit denen eine Liefer
 
 (1) Die elektronische Rechnung hat neben den umsatzsteuerrechtlichen Rechnungsbestandteilen mindestens folgende Angaben zu enthalten:
 
-1.
+1. eine Leitweg-Identifikationsnummer,
 
-2.
+2. die Bankverbindungsdaten,
 
-3.
+3. die Zahlungsbedingungen und
 
-4.
+4. die De-Mail-Adresse oder eine E-Mail-Adresse des Rechnungsstellers.
 
 (2) Die elektronische Rechnung hat zusätzlich zu den Angaben nach Absatz 1 folgende Angaben zu enthalten, wenn diese dem Rechnungssteller bereits bei Beauftragung übermittelt wurden:
 
-1.
+1. die Lieferantennummer,
 
-2.
+2. eine Bestellnummer.
 
 (3) Die Vorgaben nach den Absätzen 1 und 2 gelten nicht für Rechnungen, die in Verfahren der Organleihe nach § 159 Absatz 1 Nummer 5 des Gesetzes gegen Wettbewerbsbeschränkungen auszustellen sind.
 

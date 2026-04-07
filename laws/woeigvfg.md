@@ -16,11 +16,31 @@ In der Aufschrift ist unter die Blattnummer in Klammern das Wort "Wohnungsgrundb
 
 ### § 3
 
-(1) Im Bestandsverzeichnis sind in dem durch die Spalte 3 gebildeten Raum einzutragen: a)der in einem zahlenmäßigen Bruchteil ausgedrückte Miteigentumsanteil an dem Grundstück;b)die Bezeichnung des Grundstücks nach den allgemeinen Vorschriften; besteht das Grundstück aus mehreren Teilen, die in dem maßgebenden amtlichen Verzeichnis (§ 2 Abs. 2 der Grundbuchordnung) als selbständige Teile eingetragen sind, so ist bei der Bezeichnung des Grundstücks in geeigneter Weise zum Ausdruck zu bringen, daß die Teile ein Grundstück bilden;c)das mit dem Miteigentumsanteil verbundene Sondereigentum und die Beschränkung des Miteigentums durch die Einräumung der zu den anderen Miteigentumsanteilen gehörenden Sondereigentumsrechte; dabei sind die Grundbuchblätter der übrigen Miteigentumsanteile anzugeben.(2) Wegen des Gegenstandes und des Inhalts des Sondereigentums kann auf die Eintragungsbewilligung und einen Nachweis nach § 7 Absatz 2 Satz 1 des Wohnungseigentumsgesetzes Bezug genommen werden (§ 7 Absatz 3 Satz 1 des Wohnungseigentumsgesetzes); vereinbarte Veräußerungsbeschränkungen (§ 12 des Wohnungseigentumsgesetzes) und Vereinbarungen über die Haftung von Sondernachfolgern für Geldschulden sind jedoch ausdrücklich einzutragen (§ 7 Absatz 3 Satz 2 des Wohnungseigentumsgesetzes).(3) In Spalte 1 ist die laufende Nummer der Eintragung einzutragen. In Spalte 2 ist die bisherige laufende Nummer des Miteigentumsanteils anzugeben, aus dem der Miteigentumsanteil durch Vereinigung oder Teilung entstanden ist.(4) In Spalte 4 ist die Größe des im Miteigentum stehenden Grundstücks nach den allgemeinen Vorschriften einzutragen.(5) In den Spalten 6 und 8 sind die Übertragung des Miteigentumsanteils auf das Blatt sowie die Veränderungen, die sich auf den Bestand des Grundstücks, die Größe des Miteigentumsanteils oder den Gegenstand oder den Inhalt des Sondereigentums beziehen, einzutragen. Der Vermerk über die Übertragung des Miteigentumsanteils auf das Blatt kann jedoch statt in Spalte 6 auch in die Eintragung in Spalte 3 aufgenommen werden.(6) Verliert durch die Eintragung einer Veränderung nach ihrem aus dem Grundbuch ersichtlichen Inhalt eine frühere Eintragung ganz oder teilweise ihre Bedeutung, so ist sie insoweit rot zu unterstreichen.(7) Vermerke über Rechte, die dem jeweiligen Eigentümer des Grundstücks zustehen, sind in den Spalten 1, 3 und 4 des Bestandsverzeichnisses sämtlicher für Miteigentumsanteile an dem herrschenden Grundstück angelegten Wohnungs- und Teileigentumsgrundbücher einzutragen. Hierauf ist in dem in Spalte 6 einzutragenden Vermerk hinzuweisen.
+(1) Im Bestandsverzeichnis sind in dem durch die Spalte 3 gebildeten Raum einzutragen:
+
+a) der in einem zahlenmäßigen Bruchteil ausgedrückte Miteigentumsanteil an dem Grundstück;
+
+b) die Bezeichnung des Grundstücks nach den allgemeinen Vorschriften; besteht das Grundstück aus mehreren Teilen, die in dem maßgebenden amtlichen Verzeichnis (§ 2 Abs. 2 der Grundbuchordnung) als selbständige Teile eingetragen sind, so ist bei der Bezeichnung des Grundstücks in geeigneter Weise zum Ausdruck zu bringen, daß die Teile ein Grundstück bilden;
+
+c) das mit dem Miteigentumsanteil verbundene Sondereigentum und die Beschränkung des Miteigentums durch die Einräumung der zu den anderen Miteigentumsanteilen gehörenden Sondereigentumsrechte; dabei sind die Grundbuchblätter der übrigen Miteigentumsanteile anzugeben.
+
+(2) Wegen des Gegenstandes und des Inhalts des Sondereigentums kann auf die Eintragungsbewilligung und einen Nachweis nach § 7 Absatz 2 Satz 1 des Wohnungseigentumsgesetzes Bezug genommen werden (§ 7 Absatz 3 Satz 1 des Wohnungseigentumsgesetzes); vereinbarte Veräußerungsbeschränkungen (§ 12 des Wohnungseigentumsgesetzes) und Vereinbarungen über die Haftung von Sondernachfolgern für Geldschulden sind jedoch ausdrücklich einzutragen (§ 7 Absatz 3 Satz 2 des Wohnungseigentumsgesetzes).
+
+(3) In Spalte 1 ist die laufende Nummer der Eintragung einzutragen. In Spalte 2 ist die bisherige laufende Nummer des Miteigentumsanteils anzugeben, aus dem der Miteigentumsanteil durch Vereinigung oder Teilung entstanden ist.
+
+(4) In Spalte 4 ist die Größe des im Miteigentum stehenden Grundstücks nach den allgemeinen Vorschriften einzutragen.
+
+(5) In den Spalten 6 und 8 sind die Übertragung des Miteigentumsanteils auf das Blatt sowie die Veränderungen, die sich auf den Bestand des Grundstücks, die Größe des Miteigentumsanteils oder den Gegenstand oder den Inhalt des Sondereigentums beziehen, einzutragen. Der Vermerk über die Übertragung des Miteigentumsanteils auf das Blatt kann jedoch statt in Spalte 6 auch in die Eintragung in Spalte 3 aufgenommen werden.
+
+(6) Verliert durch die Eintragung einer Veränderung nach ihrem aus dem Grundbuch ersichtlichen Inhalt eine frühere Eintragung ganz oder teilweise ihre Bedeutung, so ist sie insoweit rot zu unterstreichen.
+
+(7) Vermerke über Rechte, die dem jeweiligen Eigentümer des Grundstücks zustehen, sind in den Spalten 1, 3 und 4 des Bestandsverzeichnisses sämtlicher für Miteigentumsanteile an dem herrschenden Grundstück angelegten Wohnungs- und Teileigentumsgrundbücher einzutragen. Hierauf ist in dem in Spalte 6 einzutragenden Vermerk hinzuweisen.
 
 ### § 4
 
-(1) Rechte, die ihrer Natur nach nicht an dem Wohnungseigentum als solchem bestehen können (wie z.B. Wegerechte), sind in Spalte 3 der zweiten Abteilung in der Weise einzutragen, daß die Belastung des ganzen Grundstücks erkennbar ist. Die Belastung ist in sämtlichen für Miteigentumsanteile an dem belasteten Grundstück angelegten Wohnungs- und Teileigentumsgrundbüchern einzutragen, wobei jeweils auf die übrigen Eintragungen zu verweisen ist.(2) Absatz 1 gilt entsprechend für Verfügungsbeschränkungen, die sich auf das Grundstück als Ganzes beziehen.
+(1) Rechte, die ihrer Natur nach nicht an dem Wohnungseigentum als solchem bestehen können (wie z.B. Wegerechte), sind in Spalte 3 der zweiten Abteilung in der Weise einzutragen, daß die Belastung des ganzen Grundstücks erkennbar ist. Die Belastung ist in sämtlichen für Miteigentumsanteile an dem belasteten Grundstück angelegten Wohnungs- und Teileigentumsgrundbüchern einzutragen, wobei jeweils auf die übrigen Eintragungen zu verweisen ist.
+
+(2) Absatz 1 gilt entsprechend für Verfügungsbeschränkungen, die sich auf das Grundstück als Ganzes beziehen.
 
 ### § 5
 
@@ -44,7 +64,13 @@ Die nähere Einrichtung der Wohnungs- und Teileigentumsgrundbücher sowie der Wo
 
 ### § 10
 
-(1) Die Befugnis der zuständigen Landesbehörden, zur Anpassung an landesrechtliche Besonderheiten ergänzende Vorschriften zu treffen, wird durch diese Verfügung nicht berührt.(2) Soweit auf die Vorschriften der Grundbuchverfügung verwiesen wird und deren Bestimmungen nach den für die Überleitung der Grundbuchverfügung bestimmten Maßgaben nicht anzuwenden sind, treten an die Stelle der in Bezug genommenen Vorschriften der Grundbuchverfügung die entsprechenden anzuwendenden Regelungen über die Einrichtung und Führung der Grundbücher. Die in § 3 vorgesehenen Angaben sind in diesem Falle in die entsprechenden Spalten für den Bestand einzutragen.(3) Ist eine Aufschrift mit Blattnummer nicht vorhanden, ist die in § 2 erwähnte Bezeichnung an vergleichbarer Stelle im Kopf der ersten Seite des Grundbuchblatts anzubringen.(4) Wurde von der Anlegung besonderer Grundbuchblätter abgesehen, sollen diese bei der nächsten Eintragung, die das Wohnungseigentum betrifft, spätestens jedoch bei der Anlegung des Datenbankgrundbuchs angelegt werden.
+(1) Die Befugnis der zuständigen Landesbehörden, zur Anpassung an landesrechtliche Besonderheiten ergänzende Vorschriften zu treffen, wird durch diese Verfügung nicht berührt.
+
+(2) Soweit auf die Vorschriften der Grundbuchverfügung verwiesen wird und deren Bestimmungen nach den für die Überleitung der Grundbuchverfügung bestimmten Maßgaben nicht anzuwenden sind, treten an die Stelle der in Bezug genommenen Vorschriften der Grundbuchverfügung die entsprechenden anzuwendenden Regelungen über die Einrichtung und Führung der Grundbücher. Die in § 3 vorgesehenen Angaben sind in diesem Falle in die entsprechenden Spalten für den Bestand einzutragen.
+
+(3) Ist eine Aufschrift mit Blattnummer nicht vorhanden, ist die in § 2 erwähnte Bezeichnung an vergleichbarer Stelle im Kopf der ersten Seite des Grundbuchblatts anzubringen.
+
+(4) Wurde von der Anlegung besonderer Grundbuchblätter abgesehen, sollen diese bei der nächsten Eintragung, die das Wohnungseigentum betrifft, spätestens jedoch bei der Anlegung des Datenbankgrundbuchs angelegt werden.
 
 ### § 11
 
@@ -52,16 +78,10 @@ Die nähere Einrichtung der Wohnungs- und Teileigentumsgrundbücher sowie der Wo
 
 ### Anlage 1 — (zu § 9)
 
-(Inhalt: nicht darstellbares Muster eines Wohnungs- und Teileigentumsgrundbuchs Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 70 - 76)
-
 ### Anlage 2 — (weggefallen)
 
 -
 
 ### Anlage 3 — (zu § 9)
 
-(Inhalt: nicht darstellbares Muster einer Aufschrift und Bestandsverzeichnis eines Wohnungserbbaugrundbuchs Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 78 - 80)
-
 ### Anlage 4 — (zu § 9)
-
-(Inhalt: nicht darstellbares Muster eines Hypothekenbriefes, Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 81)

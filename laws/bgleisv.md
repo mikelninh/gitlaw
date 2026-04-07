@@ -30,11 +30,11 @@
 
 (5) Unter Beteiligung der oder des Beauftragten für die Belange von Menschen mit Behinderungen nach Abschnitt 5 des Behindertengleichstellungsgesetzes kann das Bundesministerium für Arbeit und Soziales eine schlichtende Person nur abberufen, wenn
 
-1.
+1. Tatsachen vorliegen, die eine unabhängige und unparteiische Ausübung der Tätigkeit als schlichtende Person nicht mehr erwarten lassen,
 
-2.
+2. sie nicht nur vorübergehend an der Ausübung der Tätigkeit als schlichtende Person gehindert ist oder
 
-3.
+3. ein vergleichbar wichtiger Grund vorliegt.
 
 (6) Eine schlichtende Person darf nicht zur Beilegung einer Streitigkeit tätig werden, wenn ein Grund vorliegt, der geeignet ist, Misstrauen gegen ihre Unparteilichkeit zu rechtfertigen. Das Verfahren übernimmt in diesem Fall ihre Vertreterin oder ihr Vertreter.
 

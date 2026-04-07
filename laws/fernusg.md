@@ -10,9 +10,9 @@
 
 (1) Fernunterricht im Sinne dieses Gesetzes ist die auf vertraglicher Grundlage erfolgende, entgeltliche Vermittlung von Kenntnissen und Fähigkeiten, bei der
 
-1.
+1. der Lehrende und der Lernende ausschließlich oder überwiegend räumlich getrennt sind und
 
-2.
+2. der Lehrende oder sein Beauftragter den Lernerfolg überwachen.
 
 (2) Dieses Gesetz findet auch auf unentgeltlichen Fernunterricht Anwendung, soweit dies ausdrücklich vorgesehen ist.
 
@@ -28,15 +28,15 @@
 
 (4) Außer der vereinbarten Vergütung darf für Tätigkeiten, die mit dem Abschluss des Fernunterrichtsvertrags zusammenhängen, sowie für etwaige Nebenleistungen eine Vergütung irgendwelcher Art weder vereinbart noch gefordert oder angenommen werden. Dies gilt auch für Einschreibegebühren, Provisionen und Auslagenerstattungen.
 
-(5) Unwirksam sind Vereinbarungen zu Lasten des Teilnehmers über Ebenfalls unwirksam ist eine Vereinbarung, durch die sich der Teilnehmer im Zusammenhang mit dem Abschluss des Fernunterrichtsvertrags verpflichtet, Waren zu erwerben oder den Gebrauch von Sachen oder Dienst- oder Werkleistungen in Anspruch zu nehmen, deren Erwerb oder deren Inanspruchnahme nicht den Zielen des Fernunterrichtsvertrags dient.
+(5) Unwirksam sind Vereinbarungen zu Lasten des Teilnehmers über
 
-1.
+1. Vertragsstrafen,
 
-2.
+2. die Festsetzung der Höhe eines Schadensersatzes in Pauschbeträgen,
 
-3.
+3. den Ausschluss oder die Beschränkung von Schadensersatzansprüchen,
 
-4.
+4. den Verzicht des Teilnehmers auf das Recht, im Falle der Abtretung der Ansprüche des Veranstalters an einen Dritten Einwendungen, die zur Zeit der Abtretung der Forderung gegen den Veranstalter begründet waren, dem neuen Gläubiger entgegenzusetzen.
 
 ### § 3 — Form und Inhalt des Fernunterrichtsvertrags
 
@@ -46,13 +46,13 @@
 
 (3) Bei einem Fernunterrichtsvertrag gehören zu den wesentlichen Eigenschaften, über die der Unternehmer den Verbraucher nach Artikel 246a § 1 Absatz 1 Satz 1 Nummer 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu informieren hat, in der Regel insbesondere
 
-1.
+1. die Art und Geltung des Lehrgangsabschlusses,
 
-2.
+2. Ort, Dauer und Häufigkeit des begleitenden Unterrichts,
 
-3.
+3. Angaben über die vereinbarten Zeitabstände für die Lieferung des Fernlehrmaterials,
 
-4.
+4. wenn der Fernunterrichtsvertrag die Vorbereitung auf eine öffentlich-rechtliche oder sonstige externe Prüfung umfasst, auch die Angaben zu Zulassungsvoraussetzungen.
 
 ### § 4 — Widerrufsrecht des Teilnehmers
 
@@ -106,25 +106,25 @@ Von den §§ 2 bis 9 kann nicht zum Nachteil des Teilnehmers abgewichen werden.
 
 (1) Fernlehrgänge bedürfen der Zulassung. Das gleiche gilt für wesentliche Änderungen zugelassener Fernlehrgänge. Keiner Zulassung bedürfen Fernlehrgänge, die nach Inhalt und Ziel ausschließlich der Freizeitgestaltung oder der Unterhaltung dienen. Der Vertrieb von Fernlehrgängen nach Satz 3 ist der zuständigen Behörde anzuzeigen.
 
-(2) Die Zulassung eines Fernlehrgangs ist außer in den in § 13 Abs. 1 genannten Fällen insbesondere zu versagen, wenn Das Landesrecht kann weitere Versagungsgründe vorsehen und die näheren Einzelheiten über Inhalt und Umfang der Versagungsgründe nach Satz 1 bestimmen.
+(2) Die Zulassung eines Fernlehrgangs ist außer in den in § 13 Abs. 1 genannten Fällen insbesondere zu versagen, wenn
 
-1.
+1. der Fernlehrgang nicht zur Erreichung des vom Veranstalter angegebenen Lehrgangsziels geeignet ist oder
 
-2.
+2. Inhalt oder Zielsetzung des Fernlehrgangs gegen die öffentliche Sicherheit oder Ordnung verstoßen oder
 
-3.
+3. der Veranstalter nicht den Nachweis erbringt, dass eine vollständige, zutreffende und den gesetzlichen Bestimmungen entsprechende Unterrichtung des Teilnehmers (§ 16) rechtzeitig vor Abgabe des Vertragsangebots vorgesehen ist, oder
 
-4.
+4. die Ausgestaltung der vom Veranstalter vorgesehenen Vertragsbedingungen den gesetzlichen Anforderungen nicht entspricht.
 
-(3) Ein Fernlehrgang, dessen Lehrmaterial noch nicht vollständig vorliegt, soll vorläufig zugelassen werden, wenn Die vorläufige Zulassung wird unter der Bedingung erteilt, dass das restliche Fernlehrmaterial innerhalb zu bestimmender Fristen vorgelegt wird; die Fristen sind so zu bestimmen, dass eine ordnungsgemäße Durchführung des Fernlehrgangs gewährleistet ist.
+(3) Ein Fernlehrgang, dessen Lehrmaterial noch nicht vollständig vorliegt, soll vorläufig zugelassen werden, wenn
 
-1.
+1. eine auf das Lehrgangsziel hinführende Lehrgangsplanung abgeschlossen ist,
 
-2.
+2. die fertiggestellten Teile des Fernlehrgangs die Annahme rechtfertigen, dass nach Fertigstellung des Fernlehrgangs keine Versagungsgründe nach Absatz 2 Satz 1 Nr. 1 und 2, nach Landesrecht (Absatz 2 Satz 2) und nach § 13 Abs. 1 vorliegen werden,
 
-3.
+3. der Veranstalter auf Grund seiner bisherigen Tätigkeit als Veranstalter oder auf Grund einer anderen Tätigkeit Gewähr dafür bietet, dass das Fernlehrmaterial den gesetzlichen Anforderungen entsprechend innerhalb angemessener Zeit fertiggestellt sein wird, und
 
-4.
+4. keine Versagungsgründe nach Absatz 2 Satz 1 Nr. 3 und 4 vorliegen.
 
 (4) Die Zulassung kann befristet, unter Bedingungen erteilt und mit Auflagen verbunden werden, die dem Schutz des Teilnehmers und der ordnungsgemäßen Durchführung dieses Gesetzes durch die zuständige Behörde dienen. Nachträgliche Auflagen sind zulässig. Änderungen der tatsächlichen Umstände, die für die Zulassung maßgebend sind, hat der Veranstalter unverzüglich mitzuteilen.
 
@@ -168,11 +168,11 @@ Von den §§ 2 bis 9 kann nicht zum Nachteil des Teilnehmers abgewichen werden.
 
 ### § 17 — Vertreter, Berater
 
-Der Veranstalter oder seine Beauftragten dürfen zum Zweck der Werbung oder der Beratung über Fernlehrgänge des Veranstalters oder des Vertragsabschlusses Personen nur dann aufsuchen, wenn diese Für eine Beratung nach Satz 1 sollen der Veranstalter oder seine Beauftragten die erforderliche Eignung besitzen.
+Der Veranstalter oder seine Beauftragten dürfen zum Zweck der Werbung oder der Beratung über Fernlehrgänge des Veranstalters oder des Vertragsabschlusses Personen nur dann aufsuchen, wenn diese
 
-1.
+1. vorher Informationsmaterial, das den Anforderungen des § 16 entspricht, erhalten und
 
-2.
+2. nach Erhalt des Informationsmaterials schriftlich darum gebeten haben.
 
 ### § 18 — Ergänzende Fernlehrgänge
 
@@ -199,23 +199,17 @@ Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. als Veranstalter einen Fernlehrgang, der nicht nach § 12 Abs. 1 Satz 1 oder dessen wesentliche Änderung nicht nach § 12 Abs. 1 Satz 2 zugelassen ist, vertreibt oder vertreiben lässt,
 
-2.
+2. entgegen § 12 Abs. 1 Satz 4 den Vertrieb eines Fernlehrgangs, der nach Inhalt und Ziel ausschließlich der Freizeitgestaltung oder der Unterhaltung dient, oder entgegen § 18 Satz 2 den Vertrieb eines ergänzenden Fernlehrgangs nach § 18 Satz 1 nicht anzeigt,
 
-3.
+3. a)entgegen § 16 Abs. 1 als Veranstalter Informationsmaterial übermittelt, das keinen vollständigen Überblick über die Vertragsbedingungen und die Anforderungen an den Teilnehmer gibt,b)entgegen § 16 Abs. 2 als Veranstalter in dem Informationsmaterial nicht deutlich kennzeichnet, dass der Fernlehrgang nur vorläufig zugelassen ist,c)entgegen § 16 Abs. 3 als Veranstalter die Anerkennung eines unentgeltlichen berufsbildenden Fernlehrgangs nach § 15 Abs. 1 zur geschäftlichen Werbung für Fernlehrgänge verwendet, entgegen § 16 Abs. 1 als Veranstalter Informationsmaterial übermittelt, das keinen vollständigen Überblick über die Vertragsbedingungen und die Anforderungen an den Teilnehmer gibt, entgegen § 16 Abs. 2 als Veranstalter in dem Informationsmaterial nicht deutlich kennzeichnet, dass der Fernlehrgang nur vorläufig zugelassen ist, entgegen § 16 Abs. 3 als Veranstalter die Anerkennung eines unentgeltlichen berufsbildenden Fernlehrgangs nach § 15 Abs. 1 zur geschäftlichen Werbung für Fernlehrgänge verwendet,
 
-a)
+4. entgegen § 17 Satz 1 zum Zweck der Werbung, Beratung oder des Vertragsabschlusses Personen aufsucht, oder
 
-b)
+5. entgegen § 20 Abs. 1 eine Auskunft nicht, nicht rechtzeitig, nicht richtig oder nicht vollständig erteilt, Unterlagen nicht, nicht rechtzeitig oder nicht vollständig vorlegt oder eine Besichtigung nicht duldet.
 
-c)
-
-4.
-
-5.
-
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1, 3 und 4 mit einer Geldbuße bis zu 10 000 Euro, in den Fällen des Absatzes 1 Nr. 2 und 5 mit einer Geldbuße bis zu 1 000 Euro geahndet werden.
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1, 3 und 4 mit einer Geldbuße bis zu 10 000 Euro, in den Fällen des Absatzes 1 Nr. 2 und 5 mit einer Geldbuße bis zu 1 000 Euro geahndet werden.
 
 ## 4. Abschnitt: Übergangsvorschriften; Änderung von
 Bundesgesetzen; Schlussvorschriften
@@ -238,9 +232,9 @@ Bundesgesetzen; Schlussvorschriften
 
 (2) Eine abweichende Vereinbarung ist nur zulässig, wenn sie ausdrücklich und schriftlich
 
-1.
+1. nach dem Entstehen der Streitigkeit oder
 
-2.
+2. für den Fall geschlossen wird, dass der Teilnehmer nach Vertragsschluss seinen Wohnsitz oder seinen gewöhnlichen Aufenthaltsort aus dem Geltungsbereich dieses Gesetzes verlegt oder sein Wohnsitz oder gewöhnlicher Aufenthaltsort im Zeitpunkt der Klageerhebung nicht bekannt ist.
 
 ### § 27 — Übergangsvorschrift
 

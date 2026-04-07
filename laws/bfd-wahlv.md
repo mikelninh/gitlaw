@@ -25,33 +25,31 @@ Der Zeitraum für die Wahl der Sprecherinnen und Sprecher beträgt 15 Werktage. 
 
 (1) Wählerverzeichnis ist das Verzeichnis der Freiwilligen, die sich während des Wahlzeitraums im Dienst befinden und sich registriert haben.
 
-(2) Freiwillige können sich auf der Internetseite www.bundesfreiwilligendienst.de als Wählerinnen und Wähler registrieren lassen. Das Bundesamt sendet nach Identifikation als Wahlberechtigte oder Wahlberechtigter jeder registrierten Wählerin und jedem registrierten Wähler durch zwei getrennte E-Mails die Zugangsdaten und einen Transaktionscode für die Stimmabgabe zu.
-
 (3) Die Registrierung beginnt sechs Wochen vor der Wahl und endet zwei Wochen vor der Wahl.
 
 ### § 5 — Wahlbekanntgabe
 
-(1) Der Wahlvorstand veröffentlicht auf einer nur für registrierte Wählerinnen und Wähler zugänglichen Internetseite unter www.bundesfreiwilligendienst.de folgende Informationen:
+(1) Der Wahlvorstand veröffentlicht auf einer nur
 
-1.
+1. die Namen seiner Mitglieder,
 
-2.
+2. die Personen, die Auskünfte über das Wählerverzeichnis erteilen,
 
-3.
+3. den Zeitraum, in dem sich die Wählerin oder der Wähler registrieren kann,
 
-4.
+4. die Frist zur Einlegung von Einsprüchen gegen das Wählerverzeichnis,
 
-5.
+5. Hinweise zu den Kandidatinnen und Kandidaten,
 
-6.
+6. den Zeitraum für die Wahl der Sprecherinnen und Sprecher und
 
-7.
+7. die E-Mail-Adresse des Wahlvorstands.
 
 (2) Bei der Veröffentlichung nach Absatz 1 ist darauf hinzuweisen, dass
 
-1.
+1. nur Freiwillige wählen können, die als Wählerin oder Wähler registriert sind und
 
-2.
+2. Einspruch gegen das Wählerverzeichnis nur bis zum angegebenen Zeitpunkt durch E-Mail beim Wahlvorstand eingelegt werden kann.
 
 (3) Nach Abschluss der Wahl sind die veröffentlichten Informationen zur Wahlbekanntgabe auf dieser Internetseite unverzüglich zu löschen.
 
@@ -87,21 +85,21 @@ Der Zeitraum für die Wahl der Sprecherinnen und Sprecher beträgt 15 Werktage. 
 
 ### § 9 — Bekanntgabe des Wahlergebnisses
 
-(1) Der Wahlvorstand gibt die Namen der gewählten Sprecherinnen und der Sprecher sowie der gewählten Stellvertreterinnen und Stellvertreter auf einer nur für registrierte Wählerinnen und Wähler zugänglichen Internetseite unter www.bundesfreiwilligendienst.de bekannt. Die Bekanntgabe des Wahlergebnisses muss enthalten:
+(1) Der Wahlvorstand gibt die Namen der gewählten Sprecherinnen und der Sprecher sowie der gewählten Stellvertreterinnen und Stellvertreter auf einer nur für registrierte Wählerinnen und Wähler zugänglichen
 
-1.
+1. die Zahl der registrierten Wählerinnen und Wähler,
 
-2.
+2. die Zahl der abgegebenen Stimmen,
 
-3.
+3. die Namen der Kandidatinnen und Kandidaten und die Zahl der auf sie jeweils entfallenen Stimmen sowie
 
-4.
+4. die Namen der gewählten Sprecherinnen und Sprecher sowie der gewählten Stellvertreterinnen und Stellvertreter.
 
-(2) Auf dieser Internetseite ist die Bekanntgabe des Wahlergebnisses zu löschen.
+(2) Auf dieser Internetseite ist die Bekanntgabe des Wahlergebnisses
 
-1.
+1. der unterlegenen Kandidatinnen und Kandidaten innerhalb von zwei Wochen nach der Wahl und
 
-2.
+2. der gewählten Sprecherinnen und Sprecher sowie der gewählten Stellvertreterinnen und Stellvertreter nach dem Ende ihrer Amtszeit
 
 ### § 10 — Wahlunterlagen
 

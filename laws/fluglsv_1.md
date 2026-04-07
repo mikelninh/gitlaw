@@ -24,11 +24,11 @@ Diese Verordnung gilt für die Festsetzung von Lärmschutzbereichen nach dem Ges
 
 (4) Die Vorlage der Daten über den Flugbetrieb erfolgt mit einem Datenerfassungssystem nach der Anleitung zur Datenerfassung über den Flugbetrieb (AzD) in der in Absatz 1 Satz 2 genannten Fassung. Ferner sind Unterlagen vorzulegen, in denen die wesentlichen fachlichen Annahmen beschrieben werden, die der Prognose über Art und Umfang des voraussehbaren Flugbetriebs zugrunde liegen. Zukünftige, in der Prognose berücksichtigte Änderungen in der Anlage oder im Betrieb des Flugplatzes sowie in den Flugverfahren sind zu erläutern. Die Unterlagen enthalten auch Angaben über den Flugplatz insbesondere mit Flugplatzdaten und Plänen.
 
-(5) Die Daten über Art und Umfang des voraussehbaren Flugbetriebs werden zur Verfügung gestellt von Der Halter des Flugplatzes und die mit der Flugsicherung Beauftragten gleichen ihre Daten ab und teilen Unstimmigkeiten der zuständigen Behörde mit.
+(5) Die Daten über Art und Umfang des voraussehbaren Flugbetriebs werden zur Verfügung gestellt von
 
-1.
+1. dem Halter des Flugplatzes insbesondere zu den Flugbewegungszahlen und
 
-2.
+2. den mit der Flugsicherung Beauftragten insbesondere zu den Flugverfahren und Flugstrecken.
 
 (6) Die Angaben nach den Absätzen 1 bis 5 werden der zuständigen Behörde unentgeltlich zur Verfügung gestellt.
 
@@ -42,23 +42,19 @@ Diese Verordnung gilt für die Festsetzung von Lärmschutzbereichen nach dem Ges
 
 ### § 4 — Berechnungsverfahren für die Festsetzung von Lärmschutzbereichen
 
-(1) Die für die Festsetzung eines Lärmschutzbereichs nach § 4 Abs. 3 und 4 des Gesetzes zum Schutz gegen Fluglärm erforderliche Ermittlung der Lärmbelastung erfolgt auf der Grundlage der in der Anlage zu § 3 des Gesetzes zum Schutz gegen Fluglärm definierten Lärmindizes LAeq Tag, LAeq Nacht und LAmax. Zur Abgrenzung der verschiedenen Schutzzonen des Lärmschutzbereichs werden jeweils einschließlich des Zuschlags zur Berücksichtigung der zeitlich variierenden Nutzung der einzelnen Betriebsrichtungen (3-Sigma) gemäß der Anlage zu § 3 des Gesetzes zum Schutz gegen Fluglärm berechnet. Für die Berechnung des Maximalpegels LAmax wird gemäß der Anlage zu § 3 des Gesetzes zum Schutz gegen Fluglärm ein Pegelunterschied zwischen außen und innen von 15 Dezibel (A) berücksichtigt.
+(1) Die für die Festsetzung eines Lärmschutzbereichs nach § 4 Abs. 3 und 4 des Gesetzes zum Schutz gegen Fluglärm erforderliche Ermittlung der Lärmbelastung erfolgt auf der Grundlage der in der Anlage zu § 3 des Gesetzes zum Schutz gegen Fluglärm definierten Lärmindizes L
 
-1.
+1. der äquivalente Dauerschallpegel LAeq Tag als Außenpegel für die Tag-Schutzzonen 1 und 2,
 
-2.
+2. der äquivalente Dauerschallpegel LAeq Nacht als Außenpegel für die Nacht-Schutzzone und
 
-3.
+3. der Maximalpegel LAmax als Pegel im Rauminnern für die Nacht-Schutzzone
 
 (2) Die Berechnung der Lärmindizes erfolgt entsprechend der Anleitung zur Berechnung von Lärmschutzbereichen (AzB) vom 19. November 2008 (BAnz. Nr. 195a vom 23. Dezember 2008). Dabei müssen die Flugbahnen in einzelne Abschnitte unterteilt und die Beiträge der Flugbahnabschnitte zur Fluglärmbelastung an den Immissionsorten bestimmt werden (Segmentierungsverfahren).
-
-(3) Die Berechnungspunkte zur Ermittlung der äquivalenten Dauerschallpegel und des Maximalpegels liegen in einer Höhe von vier Metern über dem Boden. Für die Berechnung ist in der Regel ein rechtwinkliges Raster von 50 Meter mal 50 Meter zugrunde zu legen. Die Bestimmung der Kurvenpunkte mit konstanten Werten der äquivalenten Dauerschallpegel LAeq Tag und LAeq Nacht sowie der Kurvenpunkte mit konstanter Häufigkeit der Überschreitung des Maximalpegels LAmax erfolgt durch Interpolation zwischen benachbarten Punkten des Rasters nach Satz 2.
 
 (4) Die Ergebnisse der Berechnung sind in Form von Listen der Kurvenpunkte und von Karten darzustellen. Die Karten müssen georeferenziert sein.
 
 ### § 5 — Berechnungsverfahren für die Überprüfung von Lärmschutzbereichen
-
-(1) Die für die Neufestsetzung eines Lärmschutzbereichs nach § 4 Abs. 5 Satz 1 des Gesetzes zum Schutz gegen Fluglärm bedeutsame Änderung der Höhe des äquivalenten Dauerschallpegels um mindestens 2 Dezibel (A) wird ermittelt, indem die Differenz zwischen dem äquivalenten Dauerschallpegel LAeq Tag an der Grenze der Tag-Schutzzone 1 des bestehenden Lärmschutzbereichs und dem für dieselben Immissionsorte neu berechneten äquivalenten Dauerschallpegel LAeq Tag aufgrund des voraussehbaren Flugbetriebs gebildet wird, der sich infolge einer Änderung in der Anlage oder im Betrieb eines Flugplatzes ergibt. Entsprechend wird die Differenz zwischen dem äquivalenten Dauerschallpegel LAeq Nacht an der Grenze der Nacht-Schutzzone des bestehenden Lärmschutzbereichs und dem für dieselben Immissionsorte neu berechneten äquivalenten Dauerschallpegel LAeq Nacht gebildet.
 
 (2) Die für die Neufestsetzung eines Lärmschutzbereichs nach § 4 Abs. 3 Satz 2 des Gesetzes zum Schutz gegen Fluglärm vorausgesetzte Änderung der Höhe des äquivalenten Dauerschallpegels um mindestens 2 Dezibel (A) wird entsprechend Absatz 1 mit der Maßgabe ermittelt, dass es auf den voraussehbaren Flugbetrieb ankommt, der sich allein infolge einer sonstigen wesentlichen baulichen Erweiterung eines Flugplatzes ergibt.
 

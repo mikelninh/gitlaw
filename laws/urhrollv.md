@@ -12,7 +12,15 @@ Auf Grund des § 138 Abs. 5 des Urheberrechtsgesetzes vom 9. September 1965 (Bun
 
 ### § 1 — Form des Antrags
 
-(1) Der Antrag auf Eintragung in das Register anonymer und pseudonymer Werke nach § 66 Abs. 2 Nr. 2 des Uhrheberrechtsgesetzes ist schriftlich beim Patentamt einzureichen.(2) In dem Antrag sind anzugeben 1.der Name des Urhebers, der Tag und der Ort seiner Geburt und, wenn der Urheber verstorben ist, das Sterbejahr; ist das Werk unter einem Decknamen veröffentlicht, so ist auch der Deckname anzugeben; 2.der Titel, unter dem das Werk veröffentlicht ist, oder, wenn das Werk ohne Titel veröffentlicht ist, eine sonstige Bezeichnung des Werkes; ist das Werk erschienen, so ist auch der Verlag anzugeben; 3.der Zeitpunkt und die Form der ersten Veröffentlichung des Werkes.
+(1) Der Antrag auf Eintragung in das Register anonymer und pseudonymer Werke nach § 66 Abs. 2 Nr. 2 des Uhrheberrechtsgesetzes ist schriftlich beim Patentamt einzureichen.
+
+(2) In dem Antrag sind anzugeben
+
+1. der Name des Urhebers, der Tag und der Ort seiner Geburt und, wenn der Urheber verstorben ist, das Sterbejahr; ist das Werk unter einem Decknamen veröffentlicht, so ist auch der Deckname anzugeben;
+
+2. der Titel, unter dem das Werk veröffentlicht ist, oder, wenn das Werk ohne Titel veröffentlicht ist, eine sonstige Bezeichnung des Werkes; ist das Werk erschienen, so ist auch der Verlag anzugeben;
+
+3. der Zeitpunkt und die Form der ersten Veröffentlichung des Werkes.
 
 ### § 2 — Inhalt der Eintragung
 
@@ -28,37 +36,9 @@ Dem Antragsteller ist auf Verlangen eine Bescheinigung über die Eintragung ausz
 
 ### § 5 — Kosten
 
-(1) Für das Verfahren zur Eintragung eines anonym oder unter Pseudonym veröffentlichten Werkes in das Register werden folgende Gebühren erhoben:
+(2) Für das Verfahren bei der Erhebung der Gebühren nach Absatz 1 ist die Verordnung über die Verwaltungskosten beim Deutschen Patent- und Markenamt entsprechend anzuwenden.
 
-1.
-
-bei einem Werk
-
-12 Euro;
-
-2.
-
-bei mehreren Werken, deren Eintragung gleichzeitig beantragt wird,
-
-a)
-
-für das erste Werk
-
-12 Euro;
-
-b)
-
-für das zweite bis zehnte Werk je
-
-5 Euro;
-
-c)
-
-ab dem elften Werk je
-
-2 Euro.
-
-(2) Für das Verfahren bei der Erhebung der Gebühren nach Absatz 1 ist die Verordnung über die Verwaltungskosten beim Deutschen Patent- und Markenamt entsprechend anzuwenden.(3) (weggefallen)
+(3) (weggefallen)
 
 ### § 6
 

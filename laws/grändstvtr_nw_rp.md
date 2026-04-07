@@ -27,5 +27,3 @@ Die betroffenen Gemeinden und Gemeindeverbände regeln die Rechtsfolgen der Änd
 (2) Der Staatsvertrag tritt am ersten Tag des auf den Austausch der Ratifikationsurkunden folgenden Monats in Kraft.
 
 ### Schlußformel
-
-Für das Land Nordrhein-Westfalen Der Ministerpräsident Für das Land Rheinland-Pfalz Der Ministerpräsident

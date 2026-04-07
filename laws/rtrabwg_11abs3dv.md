@@ -12,7 +12,17 @@ Auf Grund des § 11 Abs. 3 des Rechtsträger-Abwicklungsgesetzes vom 6. Septembe
 
 ### § 1
 
-(1) Ein Anspruch auf Alters- und Hinterbliebenenversorgung nach § 11 Abs. 2 des Gesetzes gilt an den Träger der Versorgungslast in der Höhe als abgetreten, in der dieser an die anspruchsberechtigte Person nach den Vorschriften des Kapitels I des Gesetzes zur Regelung der Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen und den ergänzenden Übergangs- und Schlußvorschriften Zahlungen der folgenden Art geleistet hat oder leistet: 1.Ruhegehalt, Witwengeld, Witwergeld, Waisengeld, Unterhaltsbeitrag, Übergangsgehalt, 2.Ruhevergütung, Ruhelohn, Übergangsvergütung, Übergangslohn, Übergangsbezüge, 3.Bezüge nach den §§ 37b, 37c, 37d, 4.Kapitalabfindung, 5.Entlassungsgeld. (2) Zu den Zahlungen nach Absatz 1 gehören auch jährliche Sonderzuwendungen nach dem Gesetz vom 15. Juli 1965 (Bundesgesetzbl. I S. 609) und frühere auf Gesetz beruhende einmalige Zahlungen (z.B. Weihnachtszuwendungen, Überbrückungszulagen).
+(1) Ein Anspruch auf Alters- und Hinterbliebenenversorgung nach § 11 Abs. 2 des Gesetzes gilt an den Träger der Versorgungslast in der Höhe als abgetreten, in der dieser an die anspruchsberechtigte Person nach den Vorschriften des Kapitels I des Gesetzes zur Regelung der Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen und den ergänzenden Übergangs- und Schlußvorschriften Zahlungen der folgenden Art geleistet hat oder leistet:
+
+1. Ruhegehalt, Witwengeld, Witwergeld, Waisengeld, Unterhaltsbeitrag, Übergangsgehalt,
+
+2. Ruhevergütung, Ruhelohn, Übergangsvergütung, Übergangslohn, Übergangsbezüge,
+
+3. Bezüge nach den §§ 37b, 37c, 37d,
+
+4. Kapitalabfindung,
+
+5. Entlassungsgeld.
 
 > § 1 Abs. 2 Kursivdruck: Jetzt G v. 23.5.1975 I 1173; G 2032-6
 
@@ -34,7 +44,9 @@ Wird eine auf der Nachversicherung nach § 72 des Gesetzes zu Artikel 131 des Gr
 
 ### § 6
 
-(1) Der in § 11 Abs. 3 Satz 2 Halbsatz 2 des Gesetzes bezeichnete Kapitalbetrag der auf der Nachversicherung nach § 72 des Gesetzes zu Artikel 131 des Grundgesetzes beruhenden Rente ist aus den in der Zeit vom 1. April 1951 bis zur Beendigung der Abwicklung, spätestens bis zum 30. April 1967 gezahlten Rentenbeträgen und dem in entsprechender Anwendung der in § 19 Abs. 3 Satz 2 des Gesetzes bezeichneten Tabellen I bis V und des § 3 Satz 2 ermittelten Schätzwert der Rente und der Rentenanwartschaften zu errechnen. Bei der Berechnung des Schätzwertes laufender Renten sind Kinderzuschüsse, bei der Berechnung des Schätzwertes der Rentenanwartschaften auch Ausfallzeiten und Zurechnungszeiten außer Betracht zu lassen. Im Falle einer Anwartschaft auf Versichertenrente ist ein Anspruch auf eine Rente wegen Erwerbsunfähigkeit anzunehmen. Beruhen die Rente und die Rentenanwartschaften nur zum Teil auf der Nachversicherung nach § 72 des Gesetzes zu Artikel 131 des Grundgesetzes, so ist nur dieser Teil der gezahlten oder noch zu zahlenden Rente und der Rentenanwartschaften zugrunde zu legen.(2) Der Träger der gesetzlichen Rentenversicherung hat den Kapitalbetrag nach Absatz 1 auf Verlangen des Trägers der Versorgungslast zu ermitteln und ihm den Kapitalbetrag und dessen Berechnung mitzuteilen. Der Träger der Versorgungslast hat dem Träger der Rentenversicherung die Verwaltungskosten in Höhe von 1 v.H. des in Satz 1 genannten Kapitalbetrages zu ersetzen.
+(1) Der in § 11 Abs. 3 Satz 2 Halbsatz 2 des Gesetzes bezeichnete Kapitalbetrag der auf der Nachversicherung nach § 72 des Gesetzes zu Artikel 131 des Grundgesetzes beruhenden Rente ist aus den in der Zeit vom 1. April 1951 bis zur Beendigung der Abwicklung, spätestens bis zum 30. April 1967 gezahlten Rentenbeträgen und dem in entsprechender Anwendung der in § 19 Abs. 3 Satz 2 des Gesetzes bezeichneten Tabellen I bis V und des § 3 Satz 2 ermittelten Schätzwert der Rente und der Rentenanwartschaften zu errechnen. Bei der Berechnung des Schätzwertes laufender Renten sind Kinderzuschüsse, bei der Berechnung des Schätzwertes der Rentenanwartschaften auch Ausfallzeiten und Zurechnungszeiten außer Betracht zu lassen. Im Falle einer Anwartschaft auf Versichertenrente ist ein Anspruch auf eine Rente wegen Erwerbsunfähigkeit anzunehmen. Beruhen die Rente und die Rentenanwartschaften nur zum Teil auf der Nachversicherung nach § 72 des Gesetzes zu Artikel 131 des Grundgesetzes, so ist nur dieser Teil der gezahlten oder noch zu zahlenden Rente und der Rentenanwartschaften zugrunde zu legen.
+
+(2) Der Träger der gesetzlichen Rentenversicherung hat den Kapitalbetrag nach Absatz 1 auf Verlangen des Trägers der Versorgungslast zu ermitteln und ihm den Kapitalbetrag und dessen Berechnung mitzuteilen. Der Träger der Versorgungslast hat dem Träger der Rentenversicherung die Verwaltungskosten in Höhe von 1 v.H. des in Satz 1 genannten Kapitalbetrages zu ersetzen.
 
 ### § 7
 
@@ -49,5 +61,3 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar
 Diese Verordnung tritt mit Wirkung vom 1. November 1965 in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister der Finanzen Der Bundesminister des Innern

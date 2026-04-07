@@ -11,7 +11,9 @@ Auf Grund des Artikels 3 Nummer 1 Buchstabe b des Gesetzes vom 22. Juni 1954 üb
 
 ### § 1
 
-(1) Die Bestimmungen des Artikels II § 3, des Artikels III § 6, des Artikels IV §§ 11 und 12, des Artikels V §§ 15 bis 17, des Artikels VI § 19 Buchstabe c, §§ 20, 22 und 23, des Artikels VII §§ 24 und 25 sowie des Artikels IX § 31 Buchstabe b des Abkommens vom 21. November 1947 über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen finden nach Maßgabe dieser Verordnung auf die Internationale Union für die Erhaltung der Natur und der natürlichen Hilfsquellen (IUCN) entsprechende Anwendung.(2) Der Leiter der IUCN genießt mit Ausnahme von steuerlichen und Befreiungen von der Gerichtsbarkeit die Vorrechte und Befreiungen, die nach dem Völkerrecht diplomatischen Vertretern gewährt werden.
+(1) Die Bestimmungen des Artikels II § 3, des Artikels III § 6, des Artikels IV §§ 11 und 12, des Artikels V §§ 15 bis 17, des Artikels VI § 19 Buchstabe c, §§ 20, 22 und 23, des Artikels VII §§ 24 und 25 sowie des Artikels IX § 31 Buchstabe b des Abkommens vom 21. November 1947 über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen finden nach Maßgabe dieser Verordnung auf die Internationale Union für die Erhaltung der Natur und der natürlichen Hilfsquellen (IUCN) entsprechende Anwendung.
+
+(2) Der Leiter der IUCN genießt mit Ausnahme von steuerlichen und Befreiungen von der Gerichtsbarkeit die Vorrechte und Befreiungen, die nach dem Völkerrecht diplomatischen Vertretern gewährt werden.
 
 ### § 2
 
@@ -27,7 +29,25 @@ Das Vermögen und die Guthaben der IUCN sind von Beschränkungen, Regelungen, Ko
 
 ### § 5
 
-(1) Die IUCN, ihre Guthaben, Einkünfte und sonstigen Vermögenswerte sind im Rahmen ihrer amtlichen Tätigkeit befreit von jeder direkten Steuer. Die direkten Steuern umfassen insbesondere, ohne jedoch darauf beschränkt zu sein,a)die Einkommensteuer,b)die Körperschaftsteuer,c)die Gewerbesteuer,d)die Vermögensteuer,e)die Grundsteuer,f)die Grunderwerbsteuer undg)die Kraftfahrzeugsteuer.(2) Die Gelder, Guthaben und alle sonstigen Vermögenswerte der IUCN einschließlich Veröffentlichungen, audiovisueller Materialien und sonstiger Dokumente, ungeachtet ihrer Form, sind von Verboten und Beschränkungen hinsichtlich der von der IUCN für ihren amtlichen Gebrauch ein- oder ausgeführten Gegenstände befreit. Das gilt nicht für zollrechtliche Bestimmungen.(3) Die in Absatz 1 genannten Befreiungen und Vorrechte werden in Übereinstimmung mit den förmlichen Erfordernissen der Bundesrepublik Deutschland angewandt. Die IUCN erhält keine Befreiung von Steuern und sonstigen Abgaben, die tatsächlich lediglich eine Vergütung für Leistungen öffentlicher Versorgungsdienste darstellen.
+(1) Die IUCN, ihre Guthaben, Einkünfte und sonstigen Vermögenswerte sind im Rahmen ihrer amtlichen Tätigkeit befreit von jeder direkten Steuer. Die direkten Steuern umfassen insbesondere, ohne jedoch darauf beschränkt zu sein,
+
+a) die Einkommensteuer,
+
+b) die Körperschaftsteuer,
+
+c) die Gewerbesteuer,
+
+d) die Vermögensteuer,
+
+e) die Grundsteuer,
+
+f) die Grunderwerbsteuer und
+
+g) die Kraftfahrzeugsteuer.
+
+(2) Die Gelder, Guthaben und alle sonstigen Vermögenswerte der IUCN einschließlich Veröffentlichungen, audiovisueller Materialien und sonstiger Dokumente, ungeachtet ihrer Form, sind von Verboten und Beschränkungen hinsichtlich der von der IUCN für ihren amtlichen Gebrauch ein- oder ausgeführten Gegenstände befreit. Das gilt nicht für zollrechtliche Bestimmungen.
+
+(3) Die in Absatz 1 genannten Befreiungen und Vorrechte werden in Übereinstimmung mit den förmlichen Erfordernissen der Bundesrepublik Deutschland angewandt. Die IUCN erhält keine Befreiung von Steuern und sonstigen Abgaben, die tatsächlich lediglich eine Vergütung für Leistungen öffentlicher Versorgungsdienste darstellen.
 
 ### § 6
 

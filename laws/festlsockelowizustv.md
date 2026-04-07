@@ -22,5 +22,3 @@ Das Bundesamt für Seeschifffahrt und Hydrographie ist zuständig für die Verfo
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Verkehr

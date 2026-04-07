@@ -17,7 +17,15 @@ In den Gebietsteilen, die nach Artikel 2 des Vertrags Hoheitsgebiet der Bundesre
 
 ### Art 3
 
-(1) Die Regierungen des Landes Rheinland-Pfalz und des Saarlandes werden ermächtigt, zum Zwecke der Ausführung des Vertrags durch Rechtsverordnungen Vorschriften zu treffen 1.darüber, in welcher Weise Rechte, deren Inhalt sich nach luxemburgischem Recht bestimmt, in das Grundbuch eingetragen und in der Zwangsvollstreckung behandelt werden; 2.über die Ausscheidung von Grundstücken, die in dem im Vertrag bezeichneten gemeinschaftlichen Hoheitsgebiet liegen, aus dem Grundbuch; 3.über die Grundbuchbezirke für die im gemeinschaftlichen Hoheitsgebiet liegenden Grundstücke. (2) Die Regierungen des Landes Rheinland-Pfalz und des Saarlandes können die Ermächtigung auf die Landesjustizverwaltung übertragen.
+(1) Die Regierungen des Landes Rheinland-Pfalz und des Saarlandes werden ermächtigt, zum Zwecke der Ausführung des Vertrags durch Rechtsverordnungen Vorschriften zu treffen
+
+1. darüber, in welcher Weise Rechte, deren Inhalt sich nach luxemburgischem Recht bestimmt, in das Grundbuch eingetragen und in der Zwangsvollstreckung behandelt werden;
+
+2. über die Ausscheidung von Grundstücken, die in dem im Vertrag bezeichneten gemeinschaftlichen Hoheitsgebiet liegen, aus dem Grundbuch;
+
+3. über die Grundbuchbezirke für die im gemeinschaftlichen Hoheitsgebiet liegenden Grundstücke.
+
+(2) Die Regierungen des Landes Rheinland-Pfalz und des Saarlandes können die Ermächtigung auf die Landesjustizverwaltung übertragen.
 
 ### Art 4
 
@@ -25,4 +33,6 @@ Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung die
 
 ### Art 5
 
-(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.(2) Der Tag, an dem der Vertrag nach seinem Artikel 13 Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
+(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
+
+(2) Der Tag, an dem der Vertrag nach seinem Artikel 13 Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.

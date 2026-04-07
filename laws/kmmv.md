@@ -11,11 +11,19 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht verordnet aufgrund des § 1
 
 ### § 1 — Anwendungsbereich
 
-Diese Verordnung ist anzuwenden auf: 1.den Mindestinhalt, die Art, die Sprache, den Umfang und die Form sowie die Art und Weise einer Übermittlung von Insiderinformationen nach § 36 Absatz 1 des Kryptomärkteaufsichtsgesetzes und2.die Art und Weise der Übermittlung nach Artikel 3 Absatz 1 Unterabsatz 3 der Durchführungsverordnung (EU) 2024/2861 sowie den Mindestinhalt der Information über den Aufschub der Offenlegung von Insiderinformationen (Aufschubmitteilung) nach Artikel 88 Absatz 3 der Verordnung (EU) 2023/1114.
+Diese Verordnung ist anzuwenden auf:
+
+1. den Mindestinhalt, die Art, die Sprache, den Umfang und die Form sowie die Art und Weise einer Übermittlung von Insiderinformationen nach § 36 Absatz 1 des Kryptomärkteaufsichtsgesetzes und
+
+2. die Art und Weise der Übermittlung nach Artikel 3 Absatz 1 Unterabsatz 3 der Durchführungsverordnung (EU) 2024/2861 sowie den Mindestinhalt der Information über den Aufschub der Offenlegung von Insiderinformationen (Aufschubmitteilung) nach Artikel 88 Absatz 3 der Verordnung (EU) 2023/1114.
 
 ### § 2 — Inhalt der Mitteilung nach § 36 Absatz 1 des Kryptomärkteaufsichtsgesetzes
 
-In der Mitteilung nach § 36 Absatz 1 des Kryptomärkteaufsichtsgesetzes sind anzugeben: 1.der Wortlaut, der Zeitpunkt und die konkreten Medienkanäle der Veröffentlichung nach Artikel 88 Absatz 1 der Verordnung (EU) 2023/1114 sowie2.ein Ansprechpartner beim Emittenten, Anbieter oder bei der Person, die die Zulassung zum Handel beantragt, mit Telefonnummer und E-Mail-Adresse.
+In der Mitteilung nach § 36 Absatz 1 des Kryptomärkteaufsichtsgesetzes sind anzugeben:
+
+1. der Wortlaut, der Zeitpunkt und die konkreten Medienkanäle der Veröffentlichung nach Artikel 88 Absatz 1 der Verordnung (EU) 2023/1114 sowie
+
+2. ein Ansprechpartner beim Emittenten, Anbieter oder bei der Person, die die Zulassung zum Handel beantragt, mit Telefonnummer und E-Mail-Adresse.
 
 ### § 3 — Art und Weise der Übermittlung nach § 36 Absatz 1 des Kryptomärkteaufsichtsgesetzes
 
@@ -23,7 +31,15 @@ Die Mitteilungen nach § 2 sind der Bundesanstalt für Finanzdienstleistungsaufs
 
 ### § 4 — Anforderungen an den Mindestinhalt einer Aufschubmitteilung nach Artikel 88 Absatz 3 der Verordnung (EU) 2023/1114
 
-(1) Die Aufschubmitteilung nach Artikel 88 Absatz 3 Satz 1 der Verordnung (EU) 2023/1114 hat in Ergänzung zu den Vorschriften der Durchführungsverordnung (EU) 2024/2861 folgende Angaben zu enthalten: 1.alle Zeitpunkte, an denen der Fortbestand der Gründe überprüft wurde,2.den Vor- und Familiennamen sowie3.die Geschäftsanschriften und geschäftlichen Telefonnummern und E-Mail-Adressen aller Personen, die an der Entscheidung über den Aufschub beteiligt waren.(2) § 3 gilt für die Art und Weise der Übermittlung von Aufschubmitteilungen nach Absatz 1 an die Bundesanstalt entsprechend.
+(1) Die Aufschubmitteilung nach Artikel 88 Absatz 3 Satz 1 der Verordnung (EU) 2023/1114 hat in Ergänzung zu den Vorschriften der Durchführungsverordnung (EU) 2024/2861 folgende Angaben zu enthalten:
+
+1. alle Zeitpunkte, an denen der Fortbestand der Gründe überprüft wurde,
+
+2. den Vor- und Familiennamen sowie
+
+3. die Geschäftsanschriften und geschäftlichen Telefonnummern und E-Mail-Adressen aller Personen, die an der Entscheidung über den Aufschub beteiligt waren.
+
+(2) § 3 gilt für die Art und Weise der Übermittlung von Aufschubmitteilungen nach Absatz 1 an die Bundesanstalt entsprechend.
 
 ### § 5 — Inkrafttreten
 

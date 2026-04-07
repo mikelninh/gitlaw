@@ -58,33 +58,33 @@ Die betroffenen Gemeinden und Landkreise sind verpflichtet, möglichst innerhalb
 
 Für den Geschäftsbereich des Sächsischen Staatsministeriums für Kultus und des Thüringer Kultusministeriums sind sich die Vertragsparteien über folgendes einig:
 
-1.
+1. Schülerbeförderungen werden vom jeweiligen Schulträger bei Notwendigkeit eingerichtet. Anfallende Kosten für die Beförderung sowie die anteiligen Kosten für Schülerspeisung werden entsprechend der Landeszugehörigkeit der Schüler vom jeweiligen Sachträger entsprechend dem Landesrecht vom Inkrafttreten dieses Vertrages an übernommen.
 
-2.
+2. Bestehende Schulbezirke bleiben im Schuljahr 1993/94 erhalten. Ab dem Schuljahr 1994/95 treten die entsprechenden Regelungen des Schulgesetzes für den Freistaat Sachsen in Kraft. Das Recht, Schulen der bisherigen Schuleinzugsbezirke zu besuchen, bleibt im Rahmen der landesrechtlichen Bestimmungen unbenommen.
 
-3.
+3. Entsprechend bisheriger Praxis in der Bundesrepublik Deutschland werden keine Gastschulbeiträge für Schüler der vertragschließenden Länder erhoben.
 
-4.
+4. Der Freistaat Sachsen unterläßt alle Maßnahmen, die geeignet sind, das Recht der Eltern oder sonstiger Sorgeberechtigten auf Wahl eines Kindergartenplatzes in Thüringen zu beeinträchtigen.
 
 ### Art 6
 
 Für den Geschäftsbereich des Sächsischen Staatsministeriums für Landwirtschaft, Ernährung und Forsten und des Thüringer Ministeriums für Landwirtschaft und Forsten sind sich die Vertragsparteien über folgendes einig:
 
-1.
+1. Fördermaßnahmen im Bereich der Landwirtschaft, für die Haushaltsmittel bereits bewilligt wurden, sind vom Land Thüringen bis zur Verwendungsprüfung durchzuführen. Dies gilt auch für eine etwaige Nachfinanzierung, längstens jedoch bis zum 1. Juni 1994. Nach Abschluß der Verwendungsprüfung sind die abgeschlossenen Akten an den Freistaat Sachsen abzugeben.
 
-2.
+2. Der Freistaat Thüringen verzichtet auf eine Rückforderung der Fördermittel.
 
 ### Art 7
 
 Für den Geschäftsbereich des Sächsischen Staatsministeriums für Umwelt und Landesentwicklung und des Thüringer Ministeriums für Umwelt und Landesplanung sind sich die Vertragsparteien über folgendes einig:
 
-1.
+1. Die Bereitstellung von Fördermitteln erfolgt im Rahmen der durch Zuwendungsbescheide festgelegte Fördersummen bis zum Tage vor Inkrafttreten des Vertrages durch den Freistaat Thüringen. Ab Inkrafttreten des Vertrages erfolgt die Bereitstellung von Fördermitteln durch den Freistaat Sachsen. Dies umfaßt auch die Bereitstellung von Mitteln aus dem Landeshaushalt.
 
-2.
+2. Der Freistaat Sachsen verpflichtet sich, die für 1993 zugesicherten Fördermittel im Umfang der festgelegten Verpflichtungsermächtigungen nach Maßgabe von Artikel 3 Abs. 5 des Vertrages zu übernehmen.
 
-3.
+3. Ein Haushaltsausgleich mit dem Freistaat Thüringen wird nicht durchgeführt.
 
-4.
+4. Der Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit ist über die Abgabe zu unterrichten.
 
 ### Art 8
 

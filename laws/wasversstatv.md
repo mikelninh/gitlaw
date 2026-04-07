@@ -16,11 +16,21 @@ In der öffentlichen Wasserversorgung und im öffentlichen Abwasserwesen werden 
 
 ### § 2
 
-Die Statistik erfaßt für das dem Erhebungsjahr vorangegangene Kalenderjahr folgende Tatbestände: 1.In der öffentlichen Wasserversorgunga)die Gewinnung und den Bezug von Grundwasser, Quellwasser und Oberflächenwasser, b)die Abgabe von Wasser, c)die Zahl der versorgten Einwohner; 2.im öffentlichen Abwasserwesena)den Abwasseranfall, b)die Fortleitung und Reinigung des Abwassers, c)die Zahl der an die öffentliche Kanalisation angeschlossenen Einwohner.
+Die Statistik erfaßt für das dem Erhebungsjahr vorangegangene Kalenderjahr folgende Tatbestände:
+
+1. In der öffentlichen Wasserversorgunga)die Gewinnung und den Bezug von Grundwasser, Quellwasser und Oberflächenwasser, b)die Abgabe von Wasser, c)die Zahl der versorgten Einwohner; die Gewinnung und den Bezug von Grundwasser, Quellwasser und Oberflächenwasser, die Abgabe von Wasser, die Zahl der versorgten Einwohner;
+
+2. im öffentlichen Abwasserwesena)den Abwasseranfall, b)die Fortleitung und Reinigung des Abwassers, c)die Zahl der an die öffentliche Kanalisation angeschlossenen Einwohner. den Abwasseranfall, die Fortleitung und Reinigung des Abwassers, die Zahl der an die öffentliche Kanalisation angeschlossenen Einwohner.
 
 ### § 3
 
-(1) Auskunftspflichtig nach § 10 des Gesetzes sind Anstalten und Körperschaften des öffentlichen Rechts, Unternehmen und andere Einrichtungen, die Anlagen der öffentlichen Wasserversorgung und des öffentlichen Abwasserwesens betreiben.(2) Die Meldungen nach § 2 sind unter Verwendung der amtlichen Erhebungsvordrucke zu den auf diesen angegebenen Meldeterminen der nach Landesrecht bestimmten, fachlich zuständigen Stelle einzureichen.(3) Besitzt ein Auskunftspflichtiger an getrennten Orten Betriebe mit selbständigen Wasserversorgungs- oder Entwässerungsgebieten, so ist für die einzelnen Betriebe jeweils gesondert zu berichten.(4) Die Auskünfte sind auf Anfordern gesondert für die einzelnen Gemeinden zu machen.
+(1) Auskunftspflichtig nach § 10 des Gesetzes sind Anstalten und Körperschaften des öffentlichen Rechts, Unternehmen und andere Einrichtungen, die Anlagen der öffentlichen Wasserversorgung und des öffentlichen Abwasserwesens betreiben.
+
+(2) Die Meldungen nach § 2 sind unter Verwendung der amtlichen Erhebungsvordrucke zu den auf diesen angegebenen Meldeterminen der nach Landesrecht bestimmten, fachlich zuständigen Stelle einzureichen.
+
+(3) Besitzt ein Auskunftspflichtiger an getrennten Orten Betriebe mit selbständigen Wasserversorgungs- oder Entwässerungsgebieten, so ist für die einzelnen Betriebe jeweils gesondert zu berichten.
+
+(4) Die Auskünfte sind auf Anfordern gesondert für die einzelnen Gemeinden zu machen.
 
 ### § 4
 

@@ -10,17 +10,17 @@
 
 Es verordnen
 
--
+- das Bundesministerium für Gesundheit und Soziale Sicherung auf Grund des § 6 Abs. 1 Satz 1 und des § 83 Abs. 1 und 2 des Arzneimittelgesetzes in der Fassung der Bekanntmachung vom 11. Dezember 1998 (BGBl. I S. 3586), von denen § 6 Abs. 1 zuletzt durch Artikel 1 Nr. 4 Buchstabe a des Gesetzes vom 30. Juli 2004 (BGBl. I S. 2031) neu gefasst worden ist,
 
--
+- das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft auf Grund des § 6 Abs. 1 Satz 1 in Verbindung mit Satz 2 und des § 83 Abs. 1 und 2 des Arzneimittelgesetzes in der Fassung der Bekanntmachung vom 11. Dezember 1998 (BGBl. I S. 3586), von denen § 6 Abs. 1 zuletzt durch Artikel 1 Nr. 4 Buchstabe a des Gesetzes vom 30. Juli 2004 (BGBl. I S. 2031) neu gefasst worden ist, im Einvernehmen mit dem Bundesministerium für Gesundheit und Soziale Sicherung:
 
 ### § 1
 
-(1) Bei der Herstellung von Arzneimitteln im Sinne des § 2 Absatz 1 des Arzneimittelgesetzes dürfen über die in § 55 Absatz 8 des Arzneimittelgesetzes genannten Voraussetzungen hinaus zur Färbung nur solche Stoffe oder Zubereitungen aus Stoffen verwendet werden, die Satz 1 gilt nicht, soweit die Stoffe und Zubereitungen aus diesen Stoffen zur Färbung ausschließlich in Arzneimitteln verwendet werden, die in den Anwendungsbereich der Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1; L 311 vom 17.11.2016, S. 25) fallen.
+(1) Bei der Herstellung von Arzneimitteln im Sinne des § 2 Absatz 1 des Arzneimittelgesetzes dürfen über die in § 55 Absatz 8 des Arzneimittelgesetzes genannten Voraussetzungen hinaus zur Färbung nur solche Stoffe oder Zubereitungen aus Stoffen verwendet werden, die
 
-1.
+1. in der Richtlinie 2009/35/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über die Stoffe, die Arzneimitteln zum Zwecke der Färbung hinzugefügt werden dürfen (Neufassung) (ABl. L 109 vom 30.4.2009, S. 10) in Verbindung mit Anhang II der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16), die zuletzt durch die Verordnung (EU) 2018/1497 (ABl. L 253 vom 9.10.2018, S. 36) geändert worden ist, in der jeweils geltenden Fassung aufgeführt sind, und
 
-2.
+2. den jeweiligen Anforderungen an die Reinheit nach dem Anhang der Verordnung (EU) Nr. 231/2012 der Kommission vom 9. März 2012 mit Spezifikationen für die in den Anhängen II und III der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates aufgeführten Lebensmittelzusatzstoffe (ABl. L 83 vom 22.3.2012, S. 1), die zuletzt durch die Verordnung (EU) 2018/1481 (ABl. L 251 vom 5.10.2018, S. 13) geändert worden ist, in der jeweils geltenden Fassung entsprechen.
 
 (2) Arzneimittel im Sinne des § 2 Abs. 1 des Arzneimittelgesetzes, die nicht nach den Vorschriften des Absatzes 1 hergestellt sind, dürfen im Geltungsbereich des Arzneimittelgesetzes nicht in den Verkehr gebracht werden.
 

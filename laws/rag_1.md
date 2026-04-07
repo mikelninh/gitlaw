@@ -29,12 +29,6 @@ Auf Renten, die nach Artikel 2 § 43 Abs. 1 des Arbeiterrentenversicherungs-Neur
 
 ### § 4
 
-(1) Bei Renten aus der Rentenversicherung der Arbeiter und der Rentenversicherung der Angestellten, die auf Versicherungsfällen des Jahres 1957 beruhen und nach §§ 1253ff. der Reichsversicherungsordnung oder §§ 30ff. des Angestelltenversicherungsgesetzes berechnet worden sind, sowie bei Renten aus der knappschaftlichen Rentenversicherung und Renten aus der Rentenversicherung der Arbeiter und der Rentenversicherung der Angestellten mit einem Leistungsanteil aus der knappschaftlichen Rentenversicherung darf der nach § 1 Abs. 1 erster Halbsatz errechnete Betrag den Betrag nicht überschreiten, der sich ergeben würde, wenn die Rente ohne Änderung der übrigen Berechnungsfaktoren unter Zugrundelegung der allgemeinen Bemessungsgrundlage für das Jahr 1958 berechnet werden würde. Auf die übrigen Renten aus der Rentenversicherung der Arbeiter und der Rentenversicherung der Angestellten finden Artikel 2 § 34 des Arbeiterrentenversicherungs-Neuregelungsgesetzes oder Artikel 2 § 33 des Angestelltenversicherungs-Neuregelungsgesetzes Anwendung. § 1282 Abs. 2 der Reichsversicherungsordnung und § 59 Abs. 2 des Angestelltenversicherungsgesetzes gelten.
-
-(2) Absatz 1 Satz 1 gilt nicht für Renten aus der knappschaftlichen Rentenversicherung, die nach Artikel 2 § 11 oder Artikel 2 § 25 des Knappschaftsrentenversicherungs-Neuregelungsgesetzes berechnet worden sind.
-
-> § 4 Kursivdruck: §§ 1253 bis 1256 RVO aufgeh. durch Art. 6 Nr. 24 G v. 18.12.1989 I 2261 mWv 1.1.1992 § 4 Kursivdruck: § 1282 Abs. 2 RVO, § 59 Abs. 2 AVG aufgeh. durch Art. 2 Nr. 27 u. Art. 3 Nr. 3 G v. 1.12.1981 I 1205 mWv 5.12.1981
-
 ### § 5
 
 Ergibt die Anpassung keinen höheren als den bisherigen Zahlbetrag, so ist dieser weiterzuzahlen.
@@ -48,8 +42,6 @@ Ergibt die Anpassung keinen höheren als den bisherigen Zahlbetrag, so ist diese
 ### § 7
 
 (1) Dem Berechtigten ist über die Anpassung eine schriftliche Mitteilung zu geben. Ergibt eine spätere Überprüfung, daß die Anpassung fehlerhaft ist, so ist sie zu berichtigen. Die Rente ist in ihrer bisherigen Höhe bis zum Ablauf des Monats zu gewähren, in dem der Berichtigungsbescheid zugestellt wird. Eine Rückforderung überzahlter Beträge findet nicht statt. Die Berichtigung ist nur bis zum 31. Dezember 1959 zulässig.
-
-(2) § 1300 der Reichsversicherungsordnung, § 79 des Angestelltenversicherungsgesetzes und § 93 Abs. 1 des Reichsknappschaftsgesetzes bleiben unberührt.
 
 > § 7 Abs. 2 Kursivdruck: § 1300 RVO aufgeh. durch Art. II § 4 Nr. 1, § 79 AVG aufgeh. durch Art. II § 6 Nr. 1 u. § 93 Abs. 1 RKG aufgeh. durch Art. II § 8 Nr. 1 G v. 18.8.1980 I 1469 mWv 1.1.1981
 

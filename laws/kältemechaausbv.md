@@ -13,9 +13,9 @@ Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 
 
 Der Ausbildungsberuf Mechatroniker für Kältetechnik/Mechatronikerin für Kältetechnik wird
 
-1.
+1. nach § 4 Abs. 1 des Berufsbildungsgesetzes und
 
-2.
+2. nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 18, Kälteanlagenbauer, der Anlage A der Handwerksordnung staatlich anerkannt.
 
 ### § 2 — Dauer der Berufsausbildung
 
@@ -25,39 +25,23 @@ Die Ausbildung dauert dreieinhalb Jahre.
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Mechatroniker für Kältetechnik/zur Mechatronikerin für Kältetechnik gliedert sich wie folgt (Ausbildungsberufsbild): Abschnitt A Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten: Abschnitt B Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
+(2) Die Berufsausbildung zum Mechatroniker für Kältetechnik/zur Mechatronikerin für Kältetechnik gliedert sich wie folgt (Ausbildungsberufsbild):
 
-1.
+1. Fügen von Bauteilen und Baugruppen,
 
-2.
+2. Installieren von elektrotechnischen und elektronischen Anlagenteilen, Mess-, Steuerungs- und Regelungstechnik, einschließlich der Funktions- und Sicherheitsprüfung,
 
-3.
+3. Montieren, Inbetriebnehmen und Demontieren von Anlagen, Systemen und Komponenten der Kälte- und Klimatechnik,
 
-4.
+4. Durchführen von Dämm-, Korrosionsschutz- und Brandschutzmaßnahmen,
 
-5.
+5. Instandhalten von Betriebsmitteln; Transportieren von Bauteilen, Baugruppen und Anlagen,
 
-6.
+6. Warten und Instandsetzen von Anlagen und Systemen der Kälte- und Klimatechnik,
 
-7.
+7. Wiederverwenden und Entsorgen von Kältemitteln, Kühlmitteln und Kältemaschinenölen,
 
-8.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
+8. Optimieren von Kälte- und Klimaanlagen aus ökonomischen und ökologischen Gesichtspunkten;
 
 ### § 4 — Durchführung der Berufsausbildung
 
@@ -81,21 +65,11 @@ Die Ausbildung dauert dreieinhalb Jahre.
 
 (3) Teil 1 der Abschlussprüfung/Gesellenprüfung besteht aus dem Prüfungsbereich Arbeitsauftrag. Hierfür bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass era)technische Unterlagen nutzen, Arbeitsschritte planen, Messungen durchführen und protokollieren, Material und Werkzeuge disponieren, b)Material manuell und maschinell bearbeiten, umformen, fügen und montieren, c)Komponenten montieren, verdrahten, anschließen, einstellen und prüfen, d)die Auftragsdurchführung dokumentieren, Prüfprotokolle ausfüllen sowie e)Maßnahmen zur Arbeitssicherheit, zum Umweltschutz und zur Wirtschaftlichkeit berücksichtigen technische Unterlagen nutzen, Arbeitsschritte planen, Messungen durchführen und protokollieren, Material und Werkzeuge disponieren, Material manuell und maschinell bearbeiten, umformen, fügen und montieren, Komponenten montieren, verdrahten, anschließen, einstellen und prüfen, die Auftragsdurchführung dokumentieren, Prüfprotokolle ausfüllen sowie Maßnahmen zur Arbeitssicherheit, zum Umweltschutz und zur Wirtschaftlichkeit berücksichtigen kann; diese Anforderungen sollen an einem Bauteil oder einer Baugruppe aus der Kälte- oder Klimatechnik nachgewiesen werden;
 
-a)
+2. der Prüfling soll eine Arbeitsaufgabe durchführen, die einem Kundenauftrag entspricht, ein darauf bezogenes situatives Fachgespräch führen und schriftliche Aufgabenstellungen bearbeiten, die sich inhaltlich auf die Arbeitsaufgabe beziehen;
 
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt fünf bis sieben Stunden; innerhalb dieser Zeit soll das situative Fachgespräch in höchstens 15 Minuten und die Bearbeitung der schriftlichen Aufgabenstellungen in höchstens 60 Minuten durchgeführt werden.
 
 ### § 7 — Teil 2 der Abschlussprüfung/Gesellenprüfung
 
@@ -103,65 +77,49 @@ e)
 
 (2) Teil 2 der Abschlussprüfung/Gesellenprüfung besteht aus den Prüfungsbereichen:
 
-1.
+1. Kundenauftrag,
 
-2.
+2. Kälte- und Klimatechnik,
 
-3.
+3. Wirtschafts- und Sozialkunde.
 
 (3) Für den Prüfungsbereich Kundenauftrag bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass era)Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher, technischer, organisatorischer und zeitlicher Vorgaben selbstständig planen,b)Aufträge durchführen, Anlagen, Systeme oder Baugruppen auf Funktion und Sicherheit prüfen,c)Arbeitsergebnisse bewerten,d)Steuerungs- und Regelungsparameter einstellen sowie systematische Fehler- und Störungssuche durchführen sowiee)Anlagen, Systeme oder Baugruppen dem Kunden übergeben, Fachauskünfte erteilen, Kunden einweisen und Abnahmeprotokolle anfertigen Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher, technischer, organisatorischer und zeitlicher Vorgaben selbstständig planen, Aufträge durchführen, Anlagen, Systeme oder Baugruppen auf Funktion und Sicherheit prüfen, Arbeitsergebnisse bewerten, Steuerungs- und Regelungsparameter einstellen sowie systematische Fehler- und Störungssuche durchführen sowie Anlagen, Systeme oder Baugruppen dem Kunden übergeben, Fachauskünfte erteilen, Kunden einweisen und Abnahmeprotokolle anfertigen kann;
 
-a)
+2. dem Prüfungsbereich sind folgende Tätigkeiten zugrunde zu legen:a)das Montieren und Inbetriebnehmen einer Anlage, eines Systems oder einer Baugruppe der Kälte- oder Klimatechnik undb)das Feststellen, Beheben und Dokumentieren von Fehlern und Störungen in Anlagen oder Anlagenteilen der Kälte- oder Klimatechnik; das Montieren und Inbetriebnehmen einer Anlage, eines Systems oder einer Baugruppe der Kälte- oder Klimatechnik und das Feststellen, Beheben und Dokumentieren von Fehlern und Störungen in Anlagen oder Anlagenteilen der Kälte- oder Klimatechnik;
 
-b)
+3. der Prüfling soll zwei Arbeitsaufgaben, die einem Kundenauftrag entsprechen, ausführen und mit praxisüblichen Unterlagen dokumentieren sowie bei einer Arbeitsaufgabe oder bei beiden Arbeitsaufgaben ein fallbezogenes Fachgespräch führen; durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgaben wesentlichen fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Durchführung begründen kann; dabei ist die Arbeitsaufgabe nach Nummer 2 Buchstabe a einschließlich Dokumentation mit 40 Prozent, die Arbeitsaufgabe nach Nummer 2 Buchstabe b einschließlich Dokumentation mit 30 Prozent und das fallbezogene Fachgespräch mit 30 Prozent zu gewichten;
 
-c)
-
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-3.
-
-4.
+4. die Prüfungszeit beträgt höchstens zehn Stunden; innerhalb dieser Zeit soll das fallbezogene Fachgespräch in höchstens 20 Minuten durchgeführt werden.
 
 (4) Im Prüfungsbereich Kälte- und Klimatechnik bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er Wirkungen elektrischer Größen und der Elektronik sowie thermodynamische Prozesse berücksichtigen, Analysen an mechatronischen Systemen durchführen, Fehler systematisch eingrenzen und deren Ursachen feststellen, Folgen abschätzen und Maßnahmen zur Beseitigung darlegen sowie Gesichtspunkte der Sicherheit, der Wirtschaftlichkeit und des Umweltschutzes berücksichtigen kann;
 
-2.
+2. dem Prüfungsbereich sind folgende Tätigkeiten zugrunde zu legen: Anfertigen eines Arbeitsplanes zur Montage mit Inbetriebnahme oder zur Optimierung mit Inbetriebnahme einer kälte- und klimatechnischen Anlage oder Baugruppe und Beschreiben der Vorgehensweise zur vorbeugenden Instandhaltung und zur systematischen Eingrenzung von Fehlern an kälte- und klimatechnischen Anlagen; die Prüfung soll fachliche Probleme mit verknüpften informationstechnischen, technologischen und mathematischen Sachverhalten enthalten;
 
-3.
+3. der Prüfling soll fallorientierte Aufgaben schriftlich bearbeiten;
 
-4.
+4. die Prüfungszeit beträgt 240 Minuten.
 
 (5) Im Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
-2.
+2. der Prüfling soll fallorientierte Aufgaben schriftlich bearbeiten;
 
-3.
+3. die Prüfungszeit beträgt 60 Minuten.
 
-(6) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
+(7) Die Abschlussprüfung/Gesellenprüfung ist bestanden, wenn die Leistungen
 
-(7) Die Abschlussprüfung/Gesellenprüfung ist bestanden, wenn die Leistungen bewertet worden ist.
+1. im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens ausreichend,
 
-1.
+2. im Prüfungsbereich Kundenauftrag mit mindestens ausreichend,
 
-2.
+3. im Ergebnis von Teil 2 der Abschlussprüfung/Gesellenprüfung mit mindestens ausreichend und
 
-3.
-
-4.
+4. in keinem Prüfungsbereich von Teil 2 mit ungenügend
 
 (8) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung/Gesellenprüfung mit schlechter als ausreichend bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
@@ -175,210 +133,8 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 ### Anlage — (zu § 3)
 
-(Fundstelle: BGBl. I 2007, 1496 - 1500)
+a) Schraubverbindungen herstellen, Drehmomente beachten und Verbindungen sichern
 
-a)
+b) Lötstellen vorbereiten, Lote und Flussmittel auswählen und insbesondere Hartlötverbindungen herstellen
 
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-p)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
+c) Klebe-, Press- und Steckverbindungen unter Beachtung der Verarbeitungsrichtlinien herstellen

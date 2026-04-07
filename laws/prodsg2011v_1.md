@@ -16,49 +16,49 @@ Auf Grund des § 8 Absatz 1 des Produktsicherheitsgesetzes vom 8. November 2011 
 
 ### § 1 — Anwendungsbereich
 
-(1) Diese Verordnung ist auf neue elektrische Betriebsmittel, die auf dem Markt bereitgestellt werden, anzuwenden, sofern diese elektrischen Betriebsmittel zur Verwendung bei einer Nennspannung zwischen 50 und 1 000 Volt für Wechselstrom und zwischen 75 und 1 500 Volt für Gleichstrom vorgesehen sind.
+(1) Diese Verordnung ist auf neue elektrische Betriebsmittel, die auf dem Markt bereitgestellt werden, anzuwenden, sofern diese elektrischen Betriebsmittel zur Verwendung bei einer Nennspannung zwischen 50 und 1 000 Volt für Wechselstrom und zwischen 75 und 1 500 Volt für Gleichstrom vorgesehen sind.
 
 (2) Diese Verordnung ist nicht anzuwenden auf
 
-1.
+1. elektrische Betriebsmittel zur Verwendung in explosionsfähiger Atmosphäre,
 
-2.
+2. elektro-radiologische und elektro-medizinische Betriebsmittel,
 
-3.
+3. elektrische Teile von Personen- und Lastenaufzügen,
 
-4.
+4. Elektrizitätszähler,
 
-5.
+5. Haushaltssteckvorrichtungen,
 
-6.
+6. Vorrichtungen zur Stromversorgung von elektrischen Weidezäunen,
 
-7.
+7. elektrische Betriebsmittel unter dem Aspekt der Funkentstörung,
 
-8.
+8. spezielle elektrische Betriebsmittel, die zur Verwendung auf Schiffen, in Flugzeugen oder in Eisenbahnen bestimmt sind und den Sicherheitsbestimmungen internationaler Einrichtungen entsprechen, denen die Mitgliedstaaten angehören,
 
-9.
+9. kunden- und anwendungsspezifisch angefertigte Erprobungsmodule, die von Fachleuten ausschließlich in Forschungs- und Entwicklungseinrichtungen für Forschungs- und Entwicklungszwecke verwendet werden.
 
 ### § 2 — Begriffsbestimmungen
 
-Im Sinne dieser Verordnung ist Im Übrigen sind die Begriffsbestimmungen des § 2 des Produktsicherheitsgesetzes vom 27. Juli 2021 (BGBl. I S. 3146) anzuwenden.
+Im Sinne dieser Verordnung ist
 
-1.
+1. EU-Konformitätserklärung: eine Erklärung gemäß Artikel 15 der Richtlinie 2014/35/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 zur Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die Bereitstellung elektrischer Betriebsmittel zur Verwendung innerhalb bestimmter Spannungsgrenzen auf dem Markt (ABl. L 96 vom 29.3.2014, S. 357),
 
-2.
+2. harmonisierte Norm: eine harmonisierte Norm im Sinne des Artikels 2 Nummer 1 Buchstabe c der Verordnung (EU) Nr. 1025/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur europäischen Normung, zur Änderung der Richtlinien 89/686/EWG und 93/15/EWG des Rates sowie der Richtlinien 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG und 2009/105/EG des Europäischen Parlaments und des Rates und zur Aufhebung des Beschlusses 87/95/EWG des Rates und des Beschlusses Nr. 1673/2006/EG des Europäischen Parlaments und des Rates (ABl. L 316 vom 14.11.2012, S. 12),
 
-3.
+3. Hersteller: jede natürliche oder juristische Person, die ein elektrisches Betriebsmittel herstellt oder entwickeln oder herstellen lässt und dieses elektrische Betriebsmittel unter ihrem eigenen Namen oder ihrer eigenen Handelsmarke vermarktet,
 
-4.
+4. technische Spezifikation: ein Dokument, in dem die technischen Anforderungen vorgeschrieben sind, denen ein elektrisches Betriebsmittel genügen muss.
 
 ### § 3 — Bereitstellung auf dem Markt
 
 Elektrische Betriebsmittel dürfen nur dann auf dem Markt bereitgestellt werden, wenn sie
 
-1.
+1. mit den in Anhang I der Richtlinie 2014/35/EU genannten Sicherheitszielen übereinstimmen,
 
-2.
+2. entsprechend dem in der Europäischen Union geltenden Stand der Sicherheitstechnik hergestellt sind und
 
-3.
+3. bei ordnungsgemäßer Installation und Instandhaltung und bei bestimmungsgemäßer Verwendung die Gesundheit und Sicherheit von Menschen, Haus- und Nutztiere sowie Güter nicht gefährden.
 
 ### § 4 — Konformitätsvermutung auf der Grundlage harmonisierter Normen
 
@@ -108,11 +108,11 @@ Sofern keine harmonisierten Normen nach § 4 und keine internationalen Normen na
 
 (3) Ein Hersteller, der einen Bevollmächtigten einsetzt, muss diesem mindestens die folgenden Pflichten übertragen:
 
-1.
+1. die Pflicht, die technischen Unterlagen sowie die EU-Konformitätserklärung nach § 7 Absatz 3 bereitzuhalten,
 
-2.
+2. die Pflicht, der Marktüberwachungsbehörde die Informationen und Unterlagen nach § 8 Absatz 5 zur Verfügung zu stellen, und
 
-3.
+3. die Pflicht, mit der Marktüberwachungsbehörde auf deren Verlangen bei allen Maßnahmen zur Abwendung der Risiken, die mit den elektrischen Betriebsmitteln verbunden sind, die zum Aufgabenbereich des Bevollmächtigten gehören, zusammenzuarbeiten.
 
 (4) Die Pflicht gemäß § 7 Absatz 1 und die Pflicht zur Erstellung der technischen Unterlagen gemäß § 7 Absatz 2 darf der Hersteller nicht auf einen Bevollmächtigten übertragen.
 
@@ -122,15 +122,15 @@ Sofern keine harmonisierten Normen nach § 4 und keine internationalen Normen na
 
 (2) Der Einführer darf ein elektrisches Betriebsmittel erst in den Verkehr bringen, wenn er sichergestellt hat, dass
 
-1.
+1. der Hersteller das Konformitätsbewertungsverfahren nach Anhang III Nummer 1 der Richtlinie 2014/35/EU durchgeführt hat,
 
-2.
+2. der Hersteller die technischen Unterlagen erstellt hat,
 
-3.
+3. das elektrische Betriebsmittel mit der CE-Kennzeichnung versehen ist,
 
-4.
+4. dem elektrischen Betriebsmittel die Betriebsanleitung und die Sicherheitsinformationen in deutscher Sprache beigefügt sind und
 
-5.
+5. der Hersteller die Pflichten nach § 8 Absatz 1 und 2 erfüllt hat.
 
 (3) Hat der Einführer Grund zu der Annahme, dass ein elektrisches Betriebsmittel nicht den Anforderungen nach § 3 entspricht, darf er dieses elektrische Betriebsmittel erst in den Verkehr bringen, wenn die Konformität hergestellt ist. Ist mit dem elektrischen Betriebsmittel ein Risiko verbunden, so informiert der Einführer den Hersteller und die Marktüberwachungsbehörden darüber.
 
@@ -154,11 +154,11 @@ Sofern keine harmonisierten Normen nach § 4 und keine internationalen Normen na
 
 (2) Bevor der Händler ein elektrisches Betriebsmittel auf dem Markt bereitstellt, hat er zu überprüfen, ob
 
-1.
+1. das elektrische Betriebsmittel mit der CE-Kennzeichnung versehen ist,
 
-2.
+2. dem elektrischen Betriebsmittel die Betriebsanleitung und die Sicherheitsinformationen in deutscher Sprache beigefügt sind und
 
-3.
+3. der Hersteller seine Pflichten nach § 8 Absatz 1 und 2 und der Einführer seine Pflichten nach § 11 Absatz 1 erfüllt hat.
 
 (3) Hat der Händler Grund zu der Annahme, dass ein elektrisches Betriebsmittel nicht den Anforderungen nach § 3 entspricht, darf er dieses elektrische Betriebsmittel erst auf dem Markt bereitstellen, wenn die Konformität hergestellt ist. Ist mit dem elektrischen Betriebsmittel ein Risiko verbunden, so informiert der Händler außerdem den Hersteller oder den Einführer sowie die Marktüberwachungsbehörden darüber.
 
@@ -172,17 +172,17 @@ Sofern keine harmonisierten Normen nach § 4 und keine internationalen Normen na
 
 Auf einen Einführer oder einen Händler sind die §§ 7 und 8 entsprechend anzuwenden, wenn er
 
-1.
+1. ein elektrisches Betriebsmittel unter eigenem Namen oder eigener Handelsmarke in den Verkehr bringt oder
 
-2.
+2. ein auf dem Markt befindliches elektrisches Betriebsmittel so verändert, dass die Konformität mit den Anforderungen dieser Verordnung beeinträchtigt werden kann.
 
 ### § 14 — Angabe der Wirtschaftsakteure
 
 (1) Der Wirtschaftsakteur nennt den Marktüberwachungsbehörden auf deren Verlangen die Wirtschaftsakteure,
 
-1.
+1. von denen er ein elektrisches Betriebsmittel bezogen hat und
 
-2.
+2. an die er ein elektrisches Betriebsmittel abgegeben hat.
 
 (2) Der Wirtschaftsakteur muss die Angaben nach Absatz 1 für die Dauer von zehn Jahren nach dem Bezug des elektrischen Betriebsmittels sowie nach der Abgabe des elektrischen Betriebsmittels vorlegen können.
 
@@ -206,9 +206,9 @@ Auf einen Einführer oder einen Händler sind die §§ 7 und 8 entsprechend anzu
 
 (3) Die Informationen der Marktüberwachungsbehörde gemäß Absatz 2 Satz 1 müssen alle verfügbaren Angaben enthalten, insbesondere die Daten für die Identifizierung des betreffenden elektrischen Betriebsmittels, dessen Herkunft, die Art der behaupteten Nichtkonformität und des Risikos sowie die Art und Dauer der ergriffenen vorläufigen Maßnahmen sowie die Argumente des betreffenden Wirtschaftsakteurs. Die Marktüberwachungsbehörde gibt insbesondere an, ob die Nichtkonformität darauf zurückzuführen ist, dass
 
-1.
+1. das elektrische Betriebsmittel die Anforderungen nach § 3 nicht erfüllt oder
 
-2.
+2. die in den §§ 4 bis 6 genannten Normen, bei deren Einhaltung eine Konformitätsvermutung gilt, mangelhaft sind.
 
 (4) Wird die Marktüberwachungsbehörde von der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin darüber informiert, dass in einem anderen Mitgliedstaat der Europäischen Union eine vorläufige Maßnahme nach Artikel 19 Absatz 4 der Richtlinie 2014/35/EU getroffen wurde, trifft die Marktüberwachungsbehörde, sofern sie diese Maßnahme für gerechtfertigt hält, alle geeigneten vorläufigen Maßnahmen nach Absatz 1. Sie informiert die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin darüber sowie über alle weiteren ihr vorliegenden Informationen hinsichtlich der Nichtkonformität des elektrischen Betriebsmittels. Sofern die Marktüberwachungsbehörde die von dem anderen Mitgliedstaat getroffene vorläufige Maßnahme nicht für gerechtfertigt hält, informiert sie die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin innerhalb von zwei Monaten darüber und gibt ihre Einwände an. Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin leitet die Informationen gemäß den Sätzen 2 und 3 unverzüglich der Europäischen Kommission und den übrigen Mitgliedstaaten der Europäischen Union zu.
 
@@ -228,15 +228,15 @@ Auf einen Einführer oder einen Händler sind die §§ 7 und 8 entsprechend anzu
 
 (1) Unabhängig von den Korrekturmaßnahmen nach § 15 fordert die Marktüberwachungsbehörde den betreffenden Wirtschaftsakteur dazu auf, die folgenden Fälle der Nichtkonformität zu korrigieren:
 
-1.
+1. die CE-Kennzeichnung wurde nicht oder unter Verletzung von § 7 des Produktsicherheitsgesetzes angebracht,
 
-2.
+2. die EU-Konformitätserklärung wurde nicht oder nicht ordnungsgemäß ausgestellt,
 
-3.
+3. die technischen Unterlagen sind nicht verfügbar oder nicht vollständig,
 
-4.
+4. die Angaben des Herstellers gemäß § 8 Absatz 2 oder des Einführers gemäß § 11 Absatz 1 fehlen, sind falsch oder unvollständig oder
 
-5.
+5. eine andere formale Anforderung nach den §§ 7, 8, 10 oder § 11 ist nicht erfüllt.
 
 (2) Besteht die Nichtkonformität gemäß Absatz 1 weiter, trifft die Marktüberwachungsbehörde alle geeigneten Maßnahmen, um die Bereitstellung des elektrischen Betriebsmittels auf dem Markt einzuschränken, oder sie untersagt die Bereitstellung auf dem Markt oder sorgt dafür, dass das elektrische Betriebsmittel zurückgerufen oder zurückgenommen wird.
 
@@ -244,35 +244,33 @@ Auf einen Einführer oder einen Händler sind die §§ 7 und 8 entsprechend anzu
 
 ### § 19 — Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
+(1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 7 Absatz 2 Satz 1 ein elektrisches Betriebsmittel in den Verkehr bringt,
 
-2.
+2. entgegen § 8 Absatz 1 Satz 1 nicht dafür sorgt, dass ein elektrisches Betriebsmittel eine dort genannte Nummer oder eine andere Information trägt,
 
-3.
+3. entgegen § 8 Absatz 1 Satz 2 nicht dafür sorgt, dass eine dort genannte Information angegeben wird,
 
-4.
+4. entgegen § 8 Absatz 2 Satz 1 oder § 11 Absatz 1 Satz 1 dort genannte Daten nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig anbringt,
 
-5.
+5. entgegen § 8 Absatz 3 nicht dafür sorgt, dass einem elektrischen Betriebsmittel eine Betriebsanleitung und die Sicherheitsinformationen beigefügt sind, oder
 
-6.
+6. entgegen § 10 Absatz 2 Nummer 1, 3 oder Nummer 4 ein elektrisches Betriebsmittel in den Verkehr bringt.
 
-(2) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe b des Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
+(2) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe b des Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 7 Absatz 3, auch in Verbindung mit § 9 Absatz 3 Nummer 1, oder entgegen § 11 Absatz 2 eine technische Unterlage, eine EU-Konformitätserklärung oder eine dort genannte Kopie nicht oder nicht mindestens zehn Jahre bereithält,
 
-2.
+2. entgegen § 8 Absatz 5 Satz 1, auch in Verbindung mit § 9 Absatz 3 Nummer 2, entgegen § 11 Absatz 3 Satz 1 oder § 12 Absatz 6 Satz 1 eine Information oder eine Unterlage nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zur Verfügung stellt oder
 
-3.
+3. entgegen § 14 Absatz 1 einen Wirtschaftsakteur nicht oder nicht rechtzeitig nennt.
 
 ### § 20 — Straftaten
 
 Wer eine in § 19 Absatz 1 bezeichnete vorsätzliche Handlung beharrlich wiederholt oder durch eine solche vorsätzliche Handlung Leben oder Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert gefährdet, ist nach § 29 des Produktsicherheitsgesetzes strafbar.
 
 ### § 21 — Übergangsvorschriften
-
-Elektrische Betriebsmittel, die die Anforderungen der Richtlinie 2006/95/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten betreffend elektrische Betriebsmittel zur Verwendung innerhalb bestimmter Spannungsgrenzen (ABl. L 374 vom 27.12.2006, S. 10), die durch die Richtlinie 2014/35/EU aufgehoben worden ist, erfüllen und vor dem 20. April 2016 in den Verkehr gebracht wurden, dürfen auf dem Markt bereitgestellt werden.
 
 ### § 22 — Inkrafttreten, Außerkrafttreten
 

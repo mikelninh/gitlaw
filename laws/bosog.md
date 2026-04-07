@@ -13,13 +13,13 @@ dinglichen Nutzungsrechten
 
 Durch einen mit Sonderungsbescheid festgestellten Sonderungsplan kann bei Grundstücken in dem in Artikel 3 des Einigungsvertrages genannten Gebiet bestimmt werden,
 
-1.
+1. wie weit sich amtlich nicht nachweisbare Eigentumsrechte (unvermessenes Eigentum) oder grafisch nicht nachweisbare dingliche Nutzungsrechte, die nicht auf dem vollen Umfang eines Grundstücks ausgeübt werden dürfen, an solchen Grundstücken erstrecken (unvermessene Nutzungsrechte),
 
-2.
+2. für welchen Teil solcher Grundstücke auch in Ansehung von Rest- und Splitterflächen ein Anspruch auf Bestellung von Erbbaurechten oder beschränkten dinglichen Rechten oder auf Übertragung des Eigentums nach dem in Artikel 233 § 3 Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche vorgesehenen Gesetz (Sachenrechtsbereinigungsgesetz) besteht,
 
-3.
+3. wie die dinglichen Rechtsverhältnisse an nicht der Vermögenszuordnung unterliegenden Grundstücken, die im räumlichen und funktionalen Zusammenhang mit dem Gegenstand eines Zuordnungsplans gemäß § 2 Abs. 2a bis 2c des Vermögenszuordnungsgesetzes stehen, neu geordnet werden (ergänzende Bodenneuordnung),
 
-4.
+4. wie die dinglichen Rechtsverhältnisse an im Zusammenhang bebauten nicht der Zuordnung unterliegenden Grundstücken, die nicht im räumlichen und funktionalen Zusammenhang mit dem Gegenstand eines Zuordnungsplans gemäß § 2 Abs. 2a bis 2c des Vermögenszuordnungsgesetzes stehen, mit den tatsächlichen Nutzungsverhältnissen in Einklang gebracht werden (komplexe Bodenneuordnung).
 
 ### § 2 — Unvermessenes Eigentum
 
@@ -123,9 +123,9 @@ Die Sonderungsbehörde kann ein Verfahren nach diesem Gesetz aussetzen, soweit i
 
 (4) Rückübertragungsansprüche nach dem Vermögensgesetz setzen sich an den neu gebildeten Grundstücken fort. Dies gilt nicht, wenn
 
-1.
+1. die Grundstücke für Zwecke der öffentlichen Wohnungsversorgung im komplexen Wohnungsbau, für hiermit in Zusammenhang stehende Maßnahmen der Infrastruktur oder für einen anderen in § 5 Abs. 1 des Vermögensgesetzes genannten Zweck genutzt werden oder
 
-2.
+2. das neu gebildete Grundstück für die Rückübertragung geteilt werden müßte.
 
 ### § 14 — Bereicherungsausgleich
 

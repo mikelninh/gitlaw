@@ -19,5 +19,3 @@ Ist eine Vermögensmasse, die zu einem standesherrlichen Hausvermögen, einem Fa
 Diese Verordnung gilt erstmalig für den ersten Steuerabschnitt, für den nach dem Körperschaftsteuergesetz vom 10. August 1925 (Reichsgesetzbl. I S. 208) eine Stiftung der in § 1 bezeichneten Art zur Körperschaftsteuer zu veranlagen ist.
 
 ### Schlußformel
-
-Der Reichsminister der Finanzen

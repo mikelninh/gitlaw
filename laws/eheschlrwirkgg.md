@@ -10,11 +10,11 @@
 
 (1) Hat auf Grund einer bis zum 31. März 1946 ergangenen Anordnung einer obersten Verwaltungsbehörde ein Standesbeamter ausgesprochen, daß zwischen einer Frau und einem bereits verstorbenen Mann nachträglich die Ehe geschlossen sei, so hat dieser Ausspruch folgende Rechtswirkungen erzeugt:
 
-1.
+1. Die Frau hat den Familiennamen des Mannes erhalten.
 
-2.
+2. Ihr stehen die Ansprüche nach dem Gesetz über die Versorgung der Opfer des Krieges (Bundesversorgungsgesetz) vom 20. Dezember 1950 (Bundesgesetzbl. S. 791) sowie die öffentlich-rechtlichen Versicherungsansprüche und die Ansprüche aus einer betrieblichen Alters- und Hinterbliebenenversorgung wie einer Witwe zu. Hinsichtlich der Gewährung von Witwengeld aus einem Beamtenverhältnis oder einem sonstigen öffentlich-rechtlichen Dienstverhältnis des Verstorbenen wird sie wie die Witwe eines Beamten behandelt, der die Ehe erst nach dem Eintritt in den Ruhestand geschlossen hat. Weitergehende Ansprüche nach Landesrecht bleiben unberührt.
 
-3.
+3. Ein von dem Manne stammendes Kind der Frau hat die Rechtsstellung eines ehelichen Kindes erlangt; § 1720 des Bürgerlichen Gesetzbuchs findet entsprechende Anwendung.
 
 (2) Die Rechtswirkungen gelten mit dem Tage als eingetreten, der in dem Ausspruch des Standesbeamten als Tag der Eheschließung bezeichnet worden ist.
 
@@ -56,8 +56,8 @@ Der Ausspruch des Standesbeamten hat keine Rechtswirkung, wenn er erschlichen is
 
 (2) Mit dem Inkrafttreten dieses Gesetzes treten außer Kraft:
 
-1.
+1. die Verordnung des Präsidenten des Zentral-Justizamts für die Britische Zone über die Rechtswirkungen des Ausspruchs einer nachträglichen Eheschließung vom 13. August 1948 (Verordnungsbl. für die Britische Zone S. 237),
 
-2.
+2. das rheinland-pfälzische Landesgesetz über die Rechtswirkungen des Ausspruchs einer nachträglichen Eheschließung vom 24. Februar 1949 (Gesetz- und Verordnungsbl. S. 81).
 
 (3) Ansprüche, die auf Grund der aufgehobenen Bestimmungen erworben sind, bleiben unberührt.

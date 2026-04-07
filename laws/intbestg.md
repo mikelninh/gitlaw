@@ -18,7 +18,9 @@ Dem in Paris am 17. Dezember 1997 von der Bundesrepublik Deutschland unterzeichn
 ### § 2 — Bestechung ausländischer Abgeordneter im
 Zusammenhang mit internationalem geschäftlichen Verkehr
 
-(1) Wer in der Absicht, sich oder einem Dritten einen Auftrag oder einen unbilligen Vorteil im internationalen geschäftlichen Verkehr zu verschaffen oder zu sichern, einem Mitglied eines Gesetzgebungsorgans eines ausländischen Staates oder einem Mitglied einer parlamentarischen Versammlung einer internationalen Organisation einen Vorteil für dieses oder einen Dritten als Gegenleistung dafür anbietet, verspricht oder gewährt, daß es eine mit seinem Mandat oder seinen Aufgaben zusammenhängende Handlung oder Unterlassung künftig vornimmt, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.(2) Der Versuch ist strafbar.
+(1) Wer in der Absicht, sich oder einem Dritten einen Auftrag oder einen unbilligen Vorteil im internationalen geschäftlichen Verkehr zu verschaffen oder zu sichern, einem Mitglied eines Gesetzgebungsorgans eines ausländischen Staates oder einem Mitglied einer parlamentarischen Versammlung einer internationalen Organisation einen Vorteil für dieses oder einen Dritten als Gegenleistung dafür anbietet, verspricht oder gewährt, daß es eine mit seinem Mandat oder seinen Aufgaben zusammenhängende Handlung oder Unterlassung künftig vornimmt, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+
+(2) Der Versuch ist strafbar.
 
 ### § 3 — Auslandstaten
 
@@ -29,4 +31,6 @@ Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts, für die Bestec
 ## Art 3: Inkrafttreten
 
 
-(1) Artikel 2 dieses Gesetzes tritt an dem Tage in Kraft, an dem das Übereinkommen für die Bundesrepublik Deutschland in Kraft tritt. Im übrigen tritt dieses Gesetz am Tage nach seiner Verkündung in Kraft.(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 15 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
+(1) Artikel 2 dieses Gesetzes tritt an dem Tage in Kraft, an dem das Übereinkommen für die Bundesrepublik Deutschland in Kraft tritt. Im übrigen tritt dieses Gesetz am Tage nach seiner Verkündung in Kraft.
+
+(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 15 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.

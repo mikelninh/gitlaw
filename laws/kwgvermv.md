@@ -16,7 +16,13 @@ Die Anzeigen nach § 2 Absatz 10 Satz 1 und 3 des Kreditwesengesetzes sowie die 
 
 ### § 2 — Inhalt der Anzeigen
 
-Die Anzeige nach § 2 Absatz 10 Satz 1 des Kreditwesengesetzes oder nach § 3 Absatz 2 Satz 1 des Wertpapierinstitutsgesetzes muss enthalten: 1.sofern der vertraglich gebundene Vermittler eine natürliche Person ist: die Firma, den Familiennamen, den Geburtsnamen, den Vornamen, den Tag und den Ort der Geburt sowie die Geschäftsanschrift des Vermittlers;2.sofern der vertraglich gebundene Vermittler eine juristische Person oder eine Personenhandelsgesellschaft ist: die Firma, die Rechtsform, den Sitz (Straße, Hausnummer, Postleitzahl, Ort, Sitzstaat) des Vermittlers sowie die Familiennamen, die Vornamen und die Geburtstage der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Führung der Geschäfte und zur Vertretung berufenen Personen;3.den Tag des Beginns der Tätigkeit des vertraglich gebundenen Vermittlers für das haftende Unternehmen.Jede Änderung der nach Satz 1 angezeigten Angaben ist unverzüglich als Änderungsanzeige nach § 2 Absatz 10 Satz 3 des Kreditwesengesetzes oder § 3 Absatz 2 Satz 3 des Wertpapierinstitutsgesetzes in dem in § 1 vorgegebenen Verfahren einzureichen. Endet die Tätigkeit des vertraglich gebundenen Vermittlers für das haftende Unternehmen, ist der Tag der Beendigung der Tätigkeit anzuzeigen.
+Die Anzeige nach § 2 Absatz 10 Satz 1 des Kreditwesengesetzes oder nach § 3 Absatz 2 Satz 1 des Wertpapierinstitutsgesetzes muss enthalten:
+
+1. sofern der vertraglich gebundene Vermittler eine natürliche Person ist: die Firma, den Familiennamen, den Geburtsnamen, den Vornamen, den Tag und den Ort der Geburt sowie die Geschäftsanschrift des Vermittlers;
+
+2. sofern der vertraglich gebundene Vermittler eine juristische Person oder eine Personenhandelsgesellschaft ist: die Firma, die Rechtsform, den Sitz (Straße, Hausnummer, Postleitzahl, Ort, Sitzstaat) des Vermittlers sowie die Familiennamen, die Vornamen und die Geburtstage der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Führung der Geschäfte und zur Vertretung berufenen Personen;
+
+3. den Tag des Beginns der Tätigkeit des vertraglich gebundenen Vermittlers für das haftende Unternehmen.
 
 ### § 3 — Bestätigung der fachlichen Eignung und Zuverlässigkeit
 
@@ -24,7 +30,29 @@ In der Anzeige nach § 2 Absatz 10 Satz 1 des Kreditwesengesetzes oder nach § 3
 
 ### § 4 — Inhalt des Registers
 
-(1) Von den Angaben nach § 2 werden die folgenden Angaben automatisiert in das öffentliche Register nach § 2 Absatz 10 Satz 5 des Kreditwesengesetzes oder nach § 3 Absatz 2 Satz 5 des Wertpapierinstitutsgesetzes eingestellt: 1.sofern der vertraglich gebundene Vermittler eine natürliche Person ist: die Firma, der Familienname, der Vorname sowie die Geschäftsanschrift des Vermittlers;2.sofern der vertraglich gebundene Vermittler eine juristische Person oder Personenhandelsgesellschaft ist: die Firma, die Rechtsform, der Sitz (Straße, Hausnummer, Postleitzahl, Ort, Sitzstaat) des vertraglich gebundenen Vermittlers und die Familiennamen sowie die Vornamen der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Führung der Geschäfte und zur Vertretung berufenen Personen;3.der Tag des Beginns der Tätigkeit des vertraglich gebundenen Vermittlers für das haftende Unternehmen;4.der Tag der Beendigung der Tätigkeit des vertraglich gebundenen Vermittlers für das haftende Unternehmen.(2) In dem Register werden außerdem folgende Angaben ausgewiesen: 1.die Firma, die Rechtsform und der Sitz (Straße, Hausnummer, Postleitzahl, Ort, Sitzstaat) des haftenden Unternehmens;2.der Tag, an dem die Anzeige nach § 2 Absatz 10 Satz 1 des Kreditwesengesetzes oder nach § 3 Absatz 2 Satz 1 des Wertpapierinstitutsgesetzes bei der Bundesanstalt eingegangen ist;3.der Tag, an dem die Anzeige über die Beendigung der Tätigkeit des vertraglich gebundenen Vermittlers bei der Bundesanstalt eingegangen ist;4.der Tag, an dem die in Absatz 1 Nr. 3 und 4 genannten Angaben abgeändert oder berichtigt worden sind;5.den angezeigten Zeitpunkt des Beginns oder der Beendigung der Tätigkeit des vertraglich gebundenen Vermittlers auch dann, wenn diese Daten nachträglich abgeändert oder berichtigt worden sind.(3) Weitere Angaben werden in dem Register nicht ausgewiesen.
+(1) Von den Angaben nach § 2 werden die folgenden Angaben automatisiert in das öffentliche Register nach § 2 Absatz 10 Satz 5 des Kreditwesengesetzes oder nach § 3 Absatz 2 Satz 5 des Wertpapierinstitutsgesetzes eingestellt:
+
+1. sofern der vertraglich gebundene Vermittler eine natürliche Person ist: die Firma, der Familienname, der Vorname sowie die Geschäftsanschrift des Vermittlers;
+
+2. sofern der vertraglich gebundene Vermittler eine juristische Person oder Personenhandelsgesellschaft ist: die Firma, die Rechtsform, der Sitz (Straße, Hausnummer, Postleitzahl, Ort, Sitzstaat) des vertraglich gebundenen Vermittlers und die Familiennamen sowie die Vornamen der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Führung der Geschäfte und zur Vertretung berufenen Personen;
+
+3. der Tag des Beginns der Tätigkeit des vertraglich gebundenen Vermittlers für das haftende Unternehmen;
+
+4. der Tag der Beendigung der Tätigkeit des vertraglich gebundenen Vermittlers für das haftende Unternehmen.
+
+(2) In dem Register werden außerdem folgende Angaben ausgewiesen:
+
+1. die Firma, die Rechtsform und der Sitz (Straße, Hausnummer, Postleitzahl, Ort, Sitzstaat) des haftenden Unternehmens;
+
+2. der Tag, an dem die Anzeige nach § 2 Absatz 10 Satz 1 des Kreditwesengesetzes oder nach § 3 Absatz 2 Satz 1 des Wertpapierinstitutsgesetzes bei der Bundesanstalt eingegangen ist;
+
+3. der Tag, an dem die Anzeige über die Beendigung der Tätigkeit des vertraglich gebundenen Vermittlers bei der Bundesanstalt eingegangen ist;
+
+4. der Tag, an dem die in Absatz 1 Nr. 3 und 4 genannten Angaben abgeändert oder berichtigt worden sind;
+
+5. den angezeigten Zeitpunkt des Beginns oder der Beendigung der Tätigkeit des vertraglich gebundenen Vermittlers auch dann, wenn diese Daten nachträglich abgeändert oder berichtigt worden sind.
+
+(3) Weitere Angaben werden in dem Register nicht ausgewiesen.
 
 ### § 5 — Verantwortlichkeit
 

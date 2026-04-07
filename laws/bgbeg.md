@@ -19,25 +19,11 @@ Gesetz im Sinne des Bürgerlichen Gesetzbuchs und dieses Gesetzes ist jede Recht
 ## Art 3: Anwendungsbereich; Verhältnis zu Regelungen der Europäischen Union und zu völkerrechtlichen Vereinbarungen
 
 
-Soweit nicht maßgeblich sind, bestimmt sich das anzuwendende Recht bei Sachverhalten mit einer Verbindung zu einem ausländischen Staat nach den Vorschriften dieses Kapitels (Internationales Privatrecht).
+Soweit nicht
 
-1.
+1. unmittelbar anwendbare Regelungen der Europäischen Union in ihrer jeweils geltenden Fassung, insbesondere a)die Verordnung (EG) Nr. 864/2007 des Europäischen Parlaments und des Rates vom 11. Juli 2007 über das auf außervertragliche Schuldverhältnisse anzuwendende Recht (Rom II),b)die Verordnung (EG) Nr. 593/2008 des Europäischen Parlaments und des Rates vom 17. Juni 2008 über das auf vertragliche Schuldverhältnisse anzuwendende Recht (Rom I),c)Artikel 15 der Verordnung (EG) Nr. 4/2009 des Rates vom 18. Dezember 2008 über die Zuständigkeit, das anwendbare Recht, die Anerkennung und Vollstreckung von Entscheidungen und die Zusammenarbeit in Unterhaltssachen in Verbindung mit dem Haager Protokoll vom 23. November 2007 über das auf Unterhaltspflichten anzuwendende Recht,d)die Verordnung (EU) Nr. 1259/2010 des Rates vom 20. Dezember 2010 zur Durchführung einer Verstärkten Zusammenarbeit im Bereich des auf die Ehescheidung und Trennung ohne Auflösung des Ehebandes anzuwendenden Rechts,e)die Verordnung (EU) Nr. 650/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012 über die Zuständigkeit, das anzuwendende Recht, die Anerkennung und Vollstreckung von Entscheidungen und die Annahme und Vollstreckung öffentlicher Urkunden in Erbsachen sowie zur Einführung eines Europäischen Nachlasszeugnisses,f)die Verordnung (EU) 2016/1103 des Rates vom 24. Juni 2016 zur Durchführung einer Verstärkten Zusammenarbeit im Bereich der Zuständigkeit, des anzuwendenden Rechts und der Anerkennung und Vollstreckung von Entscheidungen in Fragen des ehelichen Güterstands sowieg)die Verordnung (EU) 2016/1104 des Rates vom 24. Juni 2016 zur Durchführung der Verstärkten Zusammenarbeit im Bereich der Zuständigkeit, des anzuwendenden Rechts und der Anerkennung und Vollstreckung von Entscheidungen in Fragen güterrechtlicher Wirkungen eingetragener Partnerschaften oder die Verordnung (EG) Nr. 864/2007 des Europäischen Parlaments und des Rates vom 11. Juli 2007 über das auf außervertragliche Schuldverhältnisse anzuwendende Recht (Rom II), die Verordnung (EG) Nr. 593/2008 des Europäischen Parlaments und des Rates vom 17. Juni 2008 über das auf vertragliche Schuldverhältnisse anzuwendende Recht (Rom I), Artikel 15 der Verordnung (EG) Nr. 4/2009 des Rates vom 18. Dezember 2008 über die Zuständigkeit, das anwendbare Recht, die Anerkennung und Vollstreckung von Entscheidungen und die Zusammenarbeit in Unterhaltssachen in Verbindung mit dem Haager Protokoll vom 23. November 2007 über das auf Unterhaltspflichten anzuwendende Recht, die Verordnung (EU) Nr. 1259/2010 des Rates vom 20. Dezember 2010 zur Durchführung einer Verstärkten Zusammenarbeit im Bereich des auf die Ehescheidung und Trennung ohne Auflösung des Ehebandes anzuwendenden Rechts, die Verordnung (EU) Nr. 650/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012 über die Zuständigkeit, das anzuwendende Recht, die Anerkennung und Vollstreckung von Entscheidungen und die Annahme und Vollstreckung öffentlicher Urkunden in Erbsachen sowie zur Einführung eines Europäischen Nachlasszeugnisses, die Verordnung (EU) 2016/1103 des Rates vom 24. Juni 2016 zur Durchführung einer Verstärkten Zusammenarbeit im Bereich der Zuständigkeit, des anzuwendenden Rechts und der Anerkennung und Vollstreckung von Entscheidungen in Fragen des ehelichen Güterstands sowie die Verordnung (EU) 2016/1104 des Rates vom 24. Juni 2016 zur Durchführung der Verstärkten Zusammenarbeit im Bereich der Zuständigkeit, des anzuwendenden Rechts und der Anerkennung und Vollstreckung von Entscheidungen in Fragen güterrechtlicher Wirkungen eingetragener Partnerschaften oder
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-2.
+2. Regelungen in völkerrechtlichen Vereinbarungen, soweit sie unmittelbar anwendbares innerstaatliches Recht geworden sind,
 
 ## Art 4: Verweisung
 
@@ -109,19 +95,19 @@ Die Todeserklärung, die Feststellung des Todes und des Todeszeitpunkts sowie Le
 
 (1) Der Name einer Person unterliegt den Sachvorschriften des Staates, in dem sie ihren gewöhnlichen Aufenthalt hat.
 
-(2) Ehegatten können bei oder nach der Eheschließung durch Erklärung gegenüber dem Standesamt ihren künftig zu führenden Namen nach dem Recht eines Staates wählen, Nach der Eheschließung abgegebene Erklärungen müssen öffentlich beglaubigt werden.
+(2) Ehegatten können bei oder nach der Eheschließung durch Erklärung gegenüber dem Standesamt ihren künftig zu führenden Namen nach dem Recht eines Staates wählen,
 
-1.
+1. dem einer von ihnen angehört oder
 
-2.
+2. in dem einer von ihnen seinen gewöhnlichen Aufenthalt hat.
 
-(3) Der Inhaber der elterlichen Sorge kann durch Erklärung gegenüber dem Standesamt bestimmen, dass ein Kind den Namen erhalten soll Nach der Beurkundung der Geburt abgegebene Erklärungen müssen öffentlich beglaubigt werden.
+(3) Der Inhaber der elterlichen Sorge kann durch Erklärung gegenüber dem Standesamt bestimmen, dass ein Kind den Namen erhalten soll
 
-1.
+1. nach dem Recht des Staates, dem ein Elternteil oder das Kind angehört,
 
-2.
+2. nach deutschem Recht, wenn ein Elternteil seinen gewöhnlichen Aufenthalt im Inland hat, oder
 
-3.
+3. nach dem Recht des Staates, dem ein den Namen Erteilender angehört.
 
 (4) Im Übrigen kann eine Person durch Erklärung gegenüber dem Standesamt für ihren Namen das Recht des Staates wählen, dem sie angehört. Die Erklärung muss öffentlich beglaubigt werden.
 
@@ -150,17 +136,17 @@ Wird ein Vertrag zwischen Personen geschlossen, die sich in demselben Staat befi
 
 (2) Fehlt danach eine Voraussetzung, so ist insoweit deutsches Recht anzuwenden, wenn
 
-1.
+1. ein Verlobter seinen gewöhnlichen Aufenthalt im Inland hat oder Deutscher ist,
 
-2.
+2. die Verlobten die zumutbaren Schritte zur Erfüllung der Voraussetzung unternommen haben und
 
-3.
+3. es mit der Eheschließungsfreiheit unvereinbar ist, die Eheschließung zu versagen; insbesondere steht die frühere Ehe eines Verlobten nicht entgegen, wenn ihr Bestand durch eine hier erlassene oder anerkannte Entscheidung beseitigt oder der Ehegatte des Verlobten für tot erklärt ist.
 
 (3) Unterliegt die Ehemündigkeit eines Verlobten nach Absatz 1 ausländischem Recht, ist die Ehe nach deutschem Recht
 
-1.
+1. unwirksam, wenn der Verlobte im Zeitpunkt der Eheschließung das 16. Lebensjahr nicht vollendet hatte, und
 
-2.
+2. aufhebbar, wenn der Verlobte im Zeitpunkt der Eheschließung das 16., aber nicht das 18. Lebensjahr vollendet hatte.
 
 (4) Eine Ehe kann im Inland nur in der hier vorgeschriebenen Form geschlossen werden. Eine Ehe zwischen Verlobten, von denen keiner Deutscher ist, kann jedoch vor einer von der Regierung des Staates, dem einer der Verlobten angehört, ordnungsgemäß ermächtigten Person in der nach dem Recht dieses Staates vorgeschriebenen Form geschlossen werden; eine beglaubigte Abschrift der Eintragung der so geschlossenen Ehe in das Standesregister, das von der dazu ordnungsgemäß ermächtigten Person geführt wird, erbringt vollen Beweis der Eheschließung.
 
@@ -169,28 +155,28 @@ Wird ein Vertrag zwischen Personen geschlossen, die sich in demselben Staat befi
 ## Art 14: Allgemeine Ehewirkungen
 
 
-(1) Soweit allgemeine Ehewirkungen nicht in den Anwendungsbereich der Verordnung (EU) 2016/1103 fallen, unterliegen sie dem von den Ehegatten gewählten Recht. Wählbar sind Die Rechtswahl muss notariell beurkundet werden. Wird sie nicht im Inland vorgenommen, so genügt es, wenn sie den Formerfordernissen für einen Ehevertrag nach dem gewählten Recht oder am Ort der Rechtswahl entspricht.
+(1) Soweit allgemeine Ehewirkungen nicht in den Anwendungsbereich der Verordnung (EU) 2016/1103 fallen, unterliegen sie dem von den Ehegatten gewählten Recht. Wählbar sind
 
-1.
+1. das Recht des Staates, in dem beide Ehegatten im Zeitpunkt der Rechtswahl ihren gewöhnlichen Aufenthalt haben,
 
-2.
+2. das Recht des Staates, in dem beide Ehegatten ihren gewöhnlichen Aufenthalt während der Ehe zuletzt hatten, wenn einer von ihnen im Zeitpunkt der Rechtswahl dort noch seinen gewöhnlichen Aufenthalt hat, oder
 
-3.
+3. ungeachtet des Artikels 5 Absatz 1 das Recht des Staates, dem ein Ehegatte im Zeitpunkt der Rechtswahl angehört.
 
 (2) Sofern die Ehegatten keine Rechtswahl getroffen haben, gilt
 
-1.
+1. das Recht des Staates, in dem beide Ehegatten ihren gewöhnlichen Aufenthalt haben, sonst
 
-2.
+2. das Recht des Staates, in dem beide Ehegatten ihren gewöhnlichen Aufenthalt während der Ehe zuletzt hatten, wenn einer von ihnen dort noch seinen gewöhnlichen Aufenthalt hat, sonst
 
-3.
+3. das Recht des Staates, dem beide Ehegatten angehören, sonst
 
-4.
+4. das Recht des Staates, mit dem die Ehegatten auf andere Weise gemeinsam am engsten verbunden sind.
 
 ## Art 15: Gegenseitige Vertretung von Ehegatten
 
 
-In Angelegenheiten der Gesundheitssorge, die im Inland wahrgenommen werden, ist § 1358 des Bürgerlichen Gesetzbuchs auch dann anzuwenden, wenn nach anderen Vorschriften insoweit ausländisches Recht anwendbar wäre.
+In Angelegenheiten der Gesundheitssorge, die im Inland wahrgenommen werden, ist § 1358 des Bürgerlichen Gesetzbuchs auch dann anzuwenden, wenn nach anderen Vorschriften insoweit ausländisches Recht anwendbar wäre.
 
 ## Art 17: Sonderregelungen zur Scheidung
 
@@ -199,15 +185,15 @@ In Angelegenheiten der Gesundheitssorge, die im Inland wahrgenommen werden, ist 
 
 (2) Auf Scheidungen, die nicht in den Anwendungsbereich der Verordnung (EU) Nr. 1259/2010 fallen, finden die Vorschriften des Kapitels II dieser Verordnung mit folgenden Maßgaben entsprechende Anwendung:
 
-1.
+1. Artikel 5 Absatz 1 Buchstabe d der Verordnung (EU) Nr. 1259/2010 ist nicht anzuwenden;
 
-2.
+2. in Artikel 5 Absatz 2, Artikel 6 Absatz 2 und Artikel 8 Buchstabe a bis c der Verordnung (EU) Nr. 1259/2010 ist statt auf den Zeitpunkt der Anrufung des Gerichts auf den Zeitpunkt der Einleitung des Scheidungsverfahrens abzustellen;
 
-3.
+3. abweichend von Artikel 5 Absatz 3 der Verordnung (EU) Nr. 1259/2010 können die Ehegatten die Rechtswahl auch noch im Laufe des Verfahrens in der durch Artikel 7 dieser Verordnung bestimmten Form vornehmen, wenn das gewählte Recht dies vorsieht;
 
-4.
+4. im Fall des Artikels 8 Buchstabe d der Verordnung (EU) Nr. 1259/2010 ist statt des Rechts des angerufenen Gerichts das Recht desjenigen Staates anzuwenden, mit dem die Ehegatten im Zeitpunkt der Einleitung des Scheidungsverfahrens auf andere Weise gemeinsam am engsten verbunden sind, und
 
-5.
+5. statt der Artikel 10 und 12 der Verordnung (EU) Nr. 1259/2010 findet Artikel 6 Anwendung.
 
 (3) Eine Ehe kann im Inland nur durch ein Gericht geschieden werden.
 
@@ -308,11 +294,11 @@ Soweit die Rechtsnachfolge von Todes wegen nicht in den Anwendungsbereich der Ve
 
 (3) Ansprüche, die dem Recht eines anderen Staates unterliegen, können nicht geltend gemacht werden, soweit sie
 
-1.
+1. wesentlich weiter gehen als zur angemessenen Entschädigung des Verletzten erforderlich,
 
-2.
+2. offensichtlich anderen Zwecken als einer angemessenen Entschädigung des Verletzten dienen oder
 
-3.
+3. haftungsrechtlichen Regelungen eines für die Bundesrepublik Deutschland verbindlichen Übereinkommens widersprechen.
 
 (4) Der Verletzte kann seinen Anspruch unmittelbar gegen einen Versicherer des Ersatzpflichtigen geltend machen, wenn das auf die unerlaubte Handlung anzuwendende Recht oder das Recht, dem der Versicherungsvertrag unterliegt, dies vorsieht.
 
@@ -323,9 +309,9 @@ Soweit die Rechtsnachfolge von Todes wegen nicht in den Anwendungsbereich der Ve
 
 (2) Eine wesentlich engere Verbindung kann sich insbesondere ergeben
 
-1.
+1. aus einer besonderen rechtlichen oder tatsächlichen Beziehung zwischen den Beteiligten im Zusammenhang mit dem Schuldverhältnis oder
 
-2.
+2. in den Fällen des Artikels 38 Abs. 2 und 3 und des Artikels 39 aus dem gewöhnlichen Aufenthalt der Beteiligten in demselben Staat im Zeitpunkt des rechtserheblichen Geschehens; Artikel 40 Abs. 2 Satz 2 gilt entsprechend.
 
 ## Art 42: Rechtswahl
 
@@ -351,17 +337,11 @@ Für Ansprüche aus beeinträchtigenden Einwirkungen, die von einem Grundstück 
 
 (1) Rechte an Luft-, Wasser- und Schienenfahrzeugen unterliegen dem Recht des Herkunftsstaats. Das ist
 
-1.
+1. bei Luftfahrzeugen der Staat ihrer Staatszugehörigkeit,
 
-2.
+2. bei Wasserfahrzeugen der Staat der Registereintragung, sonst des Heimathafens oder des Heimatorts,
 
-3.
-
-a)
-
-b)
-
-c)
+3. bei Schienenfahrzeugen a)der Staat der Zulassung,b)mangels Zulassung der Staat der Registrierung oderc)bei Registrierung in einem supranationalen Register der Staat, dem das Schienenfahrzeug in diesem Register zugeordnet ist. der Staat der Zulassung, mangels Zulassung der Staat der Registrierung oder bei Registrierung in einem supranationalen Register der Staat, dem das Schienenfahrzeug in diesem Register zugeordnet ist.
 
 (2) Die Entstehung gesetzlicher Sicherungsrechte an diesen Fahrzeugen unterliegt dem Recht, das auf die zu sichernde Forderung anzuwenden ist. Für die Rangfolge mehrerer Sicherungsrechte gilt Artikel 43 Abs. 1.
 
@@ -380,40 +360,40 @@ Die geschädigte Person kann das ihr nach Artikel 7 der Verordnung (EG) Nr. 864/
 
 (1) Unterliegt ein Vertrag auf Grund einer Rechtswahl nicht dem Recht eines Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum, weist der Vertrag jedoch einen engen Zusammenhang mit dem Gebiet eines dieser Staaten auf, so sind die im Gebiet dieses Staates geltenden Bestimmungen zur Umsetzung der Verbraucherschutzrichtlinien gleichwohl anzuwenden.
 
-(2) Ein enger Zusammenhang ist insbesondere anzunehmen, wenn der Unternehmer und der Vertrag in den Bereich dieser Tätigkeit fällt.
+(2) Ein enger Zusammenhang ist insbesondere anzunehmen, wenn der Unternehmer
 
-1.
+1. in dem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, in dem der Verbraucher seinen gewöhnlichen Aufenthalt hat, eine berufliche oder gewerbliche Tätigkeit ausübt oder
 
-2.
+2. eine solche Tätigkeit auf irgendeinem Wege auf diesen Mitgliedstaat der Europäischen Union oder einen anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder auf mehrere Staaten, einschließlich dieses Staates, ausrichtet
 
 (3) Verbraucherschutzrichtlinien im Sinne dieser Vorschrift sind in ihrer jeweils geltenden Fassung:
 
-1.
+1. die Richtlinie 93/13/EWG des Rates vom 5. April 1993 über missbräuchliche Klauseln in Verbraucherverträgen (ABl. L 95 vom 21.4.1993, S. 29);
 
-2.
+2. die Richtlinie 2002/65/EG des Europäischen Parlaments und des Rates vom 23. September 2002 über den Fernabsatz von Finanzdienstleistungen an Verbraucher und zur Änderung der Richtlinie 90/619/EWG des Rates und der Richtlinien 97/7/EG und 98/27/EG (ABl. L 271 vom 9.10.2002, S. 16);
 
-3.
+3. die Richtlinie 2008/48/EG des Europäischen Parlaments und des Rates vom 23. April 2008 über Verbraucherkreditverträge und zur Aufhebung der Richtlinie 87/102/EWG des Rates (ABl. L 133 vom 22.5.2008, S. 66).
 
 (4) Unterliegt ein Teilzeitnutzungsvertrag, ein Vertrag über ein langfristiges Urlaubsprodukt, ein Wiederverkaufsvertrag oder ein Tauschvertrag im Sinne von Artikel 2 Absatz 1 Buchstabe a bis d der Richtlinie 2008/122/EG des Europäischen Parlaments und des Rates vom 14. Januar 2009 über den Schutz der Verbraucher im Hinblick auf bestimmte Aspekte von Teilzeitnutzungsverträgen, Verträgen über langfristige Urlaubsprodukte sowie Wiederverkaufs- und Tauschverträgen (ABl. L 33 vom 3.2.2009, S. 10) nicht dem Recht eines Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum, so darf Verbrauchern der in Umsetzung dieser Richtlinie gewährte Schutz nicht vorenthalten werden, wenn
 
-1.
+1. eine der betroffenen Immobilien im Hoheitsgebiet eines Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum belegen ist oder
 
-2.
+2. im Falle eines Vertrags, der sich nicht unmittelbar auf eine Immobilie bezieht, der Unternehmer eine gewerbliche oder berufliche Tätigkeit in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ausübt oder diese Tätigkeit auf irgendeine Weise auf einen solchen Staat ausrichtet und der Vertrag in den Bereich dieser Tätigkeit fällt.
 
 ## Art 46c: Pauschalreisen und verbundene Reiseleistungen
 
 
-(1) Hat der Reiseveranstalter im Zeitpunkt des Vertragsschlusses seine Niederlassung im Sinne des § 4 Absatz 3 der Gewerbeordnung weder in einem Mitgliedstaat der Europäischen Union noch in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum und so sind die sachrechtlichen Vorschriften anzuwenden, die der in Nummer 1 oder Nummer 2 genannte Staat zur Umsetzung des Artikels 17 der Richtlinie (EU) 2015/2302 des Europäischen Parlaments und des Rates vom 25. November 2015 über Pauschalreisen und verbundene Reiseleistungen, zur Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie 2011/83/EU des Europäischen Parlaments und des Rates sowie zur Aufhebung der Richtlinie 90/314/EWG des Rates (ABl. L 326 vom 11.12.2015, S. 1) erlassen hat, sofern der Vertrag in den Bereich dieser Tätigkeit fällt.
+(1) Hat der Reiseveranstalter im Zeitpunkt des Vertragsschlusses seine Niederlassung im Sinne des § 4 Absatz 3 der Gewerbeordnung weder in einem Mitgliedstaat der Europäischen Union noch in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum und
 
-1.
+1. schließt der Reiseveranstalter in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum Pauschalreiseverträge oder bietet er in einem dieser Staaten an, solche Verträge zu schließen, oder
 
-2.
+2. richtet der Reiseveranstalter seine Tätigkeit im Sinne der Nummer 1 auf einen Mitgliedstaat der Europäischen Union oder einen anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum aus,
 
-(2) Hat der Vermittler verbundener Reiseleistungen im Zeitpunkt des Vertragsschlusses seine Niederlassung im Sinne des § 4 Absatz 3 der Gewerbeordnung weder in einem Mitgliedstaat der Europäischen Union noch einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum und so sind die sachrechtlichen Vorschriften anzuwenden, die der in Nummer 1 oder Nummer 2 genannte Staat zur Umsetzung des Artikels 19 Absatz 1 in Verbindung mit Artikel 17 und des Artikels 19 Absatz 3 der Richtlinie (EU) 2015/2302 erlassen hat, sofern der Vertrag in den Bereich dieser Tätigkeit fällt.
+(2) Hat der Vermittler verbundener Reiseleistungen im Zeitpunkt des Vertragsschlusses seine Niederlassung im Sinne des § 4 Absatz 3 der Gewerbeordnung weder in einem Mitgliedstaat der Europäischen Union noch einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum und
 
-1.
+1. vermittelt er verbundene Reiseleistungen in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder bietet er sie dort zur Vermittlung an oder
 
-2.
+2. richtet er seine Vermittlungstätigkeit auf einen Mitgliedstaat der Europäischen Union oder einen anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum aus,
 
 (3) Hat der Vermittler verbundener Reiseleistungen in dem nach Artikel 251 § 1 maßgeblichen Zeitpunkt seine Niederlassung im Sinne des § 4 Absatz 3 der Gewerbeordnung weder in einem Mitgliedstaat der Europäischen Union noch in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum und richtet er seine Vermittlungstätigkeit auf einen Mitgliedstaat der Europäischen Union oder einen anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum aus, so sind die sachrechtlichen Vorschriften anzuwenden, die der Staat, auf den die Vermittlungstätigkeit ausgerichtet ist, zur Umsetzung des Artikels 19 Absatz 2 und 3 der Richtlinie (EU) 2015/2302 erlassen hat, sofern der in Aussicht genommene Vertrag in den Bereich dieser Tätigkeit fällt.
 
@@ -434,17 +414,17 @@ Die geschädigte Person kann das ihr nach Artikel 7 der Verordnung (EG) Nr. 864/
 ## Art 47: Vor- und Familiennamen
 
 
-(1) Hat eine Person nach einem anwendbaren ausländischen Recht einen Namen erworben und richtet sich ihr Name fortan nach deutschem Recht, so kann sie durch Erklärung gegenüber dem StandesamtIst der Name Ehename oder Lebenspartnerschaftsname, so kann die Erklärung während des Bestehens der Ehe oder Lebenspartnerschaft nur von beiden Ehegatten oder Lebenspartnern abgegeben werden.
+(1) Hat eine Person nach einem anwendbaren ausländischen Recht einen Namen erworben und richtet sich ihr Name fortan nach deutschem Recht, so kann sie durch Erklärung gegenüber dem Standesamt
 
-1.
+1. aus dem Namen Vor- und Familiennamen bestimmen,
 
-2.
+2. bei Fehlen von Vor- oder Familiennamen einen solchen Namen wählen,
 
-3.
+3. Bestandteile des Namens ablegen, die das deutsche Recht nicht vorsieht,
 
-4.
+4. die ursprüngliche Form eines nach dem Geschlecht oder dem Verwandtschaftsverhältnis abgewandelten Namens annehmen,
 
-5.
+5. eine deutschsprachige Form ihres Vor- oder ihres Familiennamens annehmen; gibt es eine solche Form des Vornamens nicht, so kann sie neue Vornamen annehmen.
 
 (2) Absatz 1 gilt entsprechend für die Bildung eines Namens nach deutschem Recht, wenn dieser von einem Namen abgeleitet werden soll, der nach einem anwendbaren ausländischen Recht erworben worden ist.
 
@@ -520,9 +500,6 @@ Unberührt bleiben die landesgesetzlichen Vorschriften, welche dem Deich- und Si
 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche die Belastung eines Grundstücks mit dem vererblichen und veräußerlichen Recht zur Gewinnung eines den bergrechtlichen Vorschriften nicht unterliegenden Minerals gestatten und den Inhalt dieses Rechtes näher bestimmen. Die Vorschriften der §§ 874, 875, 876, 1015, 1017 des Bürgerlichen Gesetzbuchs finden entsprechende Anwendung.
-
-
-Unberührt bleiben die landesgesetzlichen Vorschriften über Jagd und Fischerei, unbeschadet der Vorschrift des § 958 Abs. 2 des Bürgerlichen Gesetzbuchs und der Vorschriften des Bürgerlichen Gesetzbuchs über den Ersatz des Wildschadens.
 
 ## Art 70 bis 72: (weggefallen)
 
@@ -613,9 +590,9 @@ Unberührt bleiben die landesgesetzlichen Vorschriften über die öffentlichen S
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen bei Schuldverschreibungen auf den Inhaber, die der Bundesstaat oder eine ihm angehörende Körperschaft, Stiftung oder Anstalt des öffentlichen Rechts ausstellt:
 
-1.
+1. die Gültigkeit der Unterzeichnung von der Beobachtung einer besonderen Form abhängt, auch wenn eine solche Bestimmung in die Urkunde nicht aufgenommen ist;
 
-2.
+2. der im § 804 Abs. 1 des Bürgerlichen Gesetzbuchs bezeichnete Anspruch ausgeschlossen ist, auch wenn die Ausschließung in dem Zins- oder Rentenschein nicht bestimmt ist.
 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche den Bundesstaat oder ihm angehörende Körperschaften, Stiftungen und Anstalten des öffentlichen Rechts abweichend von der Vorschrift des § 806 Satz 2 des Bürgerlichen Gesetzbuchs verpflichten, die von ihnen ausgestellten, auf den Inhaber lautenden Schuldverschreibungen auf den Namen eines bestimmten Berechtigten umzuschreiben, sowie die landesgesetzlichen Vorschriften, welche die sich aus der Umschreibung einer solchen Schuldverschreibung ergebenden Rechtsverhältnisse, mit Einschluß der Kraftloserklärung, regeln.
@@ -629,11 +606,6 @@ Unberührt bleiben die landesgesetzlichen Vorschriften, welche den Bundesstaat o
 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über den Anspruch auf Rückerstattung mit Unrecht erhobener öffentlicher Abgaben oder Kosten eines Verfahrens.
-
-
-Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen der Unternehmer eines Eisenbahnbetriebs oder eines anderen mit gemeiner Gefahr verbundenen Betriebs für den aus dem Betrieb entstehenden Schaden in weiterem Umfang als nach den Vorschriften des Bürgerlichen Gesetzbuchs verantwortlich ist.
-
-> Art. 105 Kursivdruck: Außer Kraft gesetzt durch § 12 Abs. 2 G v. 29.4.1940 I 691 mWv 1.4.1940, soweit er die Haftpflicht der Eisenbahnen und Straßenbahnen betrifft
 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen, wenn ein dem öffentlichen Gebrauch dienendes Grundstück zu einer Anlage oder zu einem Betrieb benutzt werden darf, der Unternehmer der Anlage oder des Betriebs für den Schaden verantwortlich ist, der bei dem öffentlichen Gebrauch des Grundstücks durch die Anlage oder den Betrieb verursacht wird.
@@ -679,20 +651,20 @@ Unberührt bleiben die landesgesetzlichen Vorschriften, welche einer Geldrente, 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche
 
-1.
+1. die Veräußerung eines Grundstücks beschränken;
 
-2.
+2. die Teilung eines Grundstücks oder die getrennte Veräußerung von Grundstücken, die bisher zusammen bewirtschaftet worden sind, untersagen oder beschränken.
 
 
 (1) Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen im Falle der Veräußerung eines Teiles eines Grundstücks dieser Teil von den Belastungen des Grundstücks befreit wird, wenn von der zuständigen Behörde festgestellt wird, daß die Rechtsänderung für die Berechtigten unschädlich ist.
 
 (2) Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen unter der gleichen Voraussetzung:
 
-1.
+1. im Falle der Teilung eines mit einer Reallast belasteten Grundstücks die Reallast auf die einzelnen Teile des Grundstücks verteilt wird;
 
-2.
+2. im Falle der Aufhebung eines dem jeweiligen Eigentümer eines Grundstücks an einem anderen Grundstück zustehenden Rechts die Zustimmung derjenigen nicht erforderlich ist, zu deren Gunsten das Grundstück des Berechtigten belastet ist;
 
-3.
+3. in den Fällen des § 1128 des Bürgerlichen Gesetzbuchs und des Artikel 52 dieses Gesetzes der dem Eigentümer zustehende Entschädigungsanspruch von dem einem Dritten an dem Anspruch zustehenden Recht befreit wird.
 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen im Falle der Teilung eines für den Staat oder eine öffentliche Anstalt mit einer Reallast belasteten Grundstücks nur ein Teil des Grundstücks mit der Reallast belastet bleibt und dafür zugunsten des jeweiligen Eigentümers dieses Teiles die übrigen Teile mit gleichartigen Reallasten belastet werden.
@@ -755,7 +727,7 @@ Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen das Nachla�
 (2) Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen es bei der Auflassung eines Grundstücks der gleichzeitigen Anwesenheit beider Teile nicht bedarf, wenn das Grundstück durch einen Notar versteigert worden ist und die Auflassung noch in dem Versteigerungstermin stattfindet.
 
 
-Die Landesgesetze können bestimmen, daß das Jugendamt die Beistandschaft mit Zustimmung des Elternteils auf einen nach § 54 des Achten Buches Sozialgesetzbuch anerkannten Vormundschaftsverein übertragen kann.
+Die Landesgesetze können bestimmen, daß das Jugendamt die Beistandschaft mit Zustimmung des Elternteils auf einen nach § 54 des Achten Buches Sozialgesetzbuch anerkannten Vormundschaftsverein übertragen kann.
 
 ## Art 145 und 146: (weggefallen)
 
@@ -810,8 +782,6 @@ Wird eine Sache, die zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs v
 Auf eine zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs bestehende Gemeinschaft nach Bruchteilen finden von dieser Zeit an die Vorschriften des Bürgerlichen Gesetzbuchs Anwendung.
 
 
-(1) Von dem Inkrafttreten des Bürgerlichen Gesetzbuchs an gelten für die vorher ausgestellten Schuldverschreibungen auf den Inhaber die Vorschriften der §§ 798 bis 800, 802 und 804 und des § 806 Satz 1 des Bürgerlichen Gesetzbuchs. Bei den auf Sicht zahlbaren unverzinslichen Schuldverschreibungen sowie bei Zins, Renten- und Gewinnanteilscheinen bleiben jedoch für die Kraftloserklärung und die Zahlungssperre die bisherigen Gesetze maßgebend.
-
 (2) Die Verjährung der Ansprüche aus den vor dem Inkrafttreten des Bürgerlichen Gesetzbuchs ausgestellten Schuldverschreibungen auf den Inhaber bestimmt sich, unbeschadet der Vorschriften des § 802 des Bürgerlichen Gesetzbuchs, nach den bisherigen Gesetzen.
 
 > Art. 174 Abs. 1 Satz 2 Kursivdruck: Muß richtig "Zins-, Renten- und Gewinnanteilscheinen" lauten
@@ -847,11 +817,6 @@ Zugunsten eines Grundstücks, das zur Zeit des Inkrafttretens des Bürgerlichen 
 
 
 Rechte, mit denen eine Sache oder ein Recht zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs belastet ist, bleiben mit dem sich aus den bisherigen Gesetzen ergebenden Inhalt und Rang bestehen, soweit sich nicht aus den Artikeln 192 bis 195 ein anderes ergibt. Von dem Inkrafttreten des Bürgerlichen Gesetzbuchs an gelten jedoch für ein Erbbaurecht die Vorschriften des § 1017, für eine Grunddienstbarkeit die Vorschriften der §§ 1020 bis 1028 des Bürgerlichen Gesetzbuchs.
-
-
-Ist zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs die Ersitzung des Eigentums oder Nießbrauchs an einer beweglichen Sache noch nicht vollendet, so finden auf die Ersitzung die Vorschriften des Artikel 169 entsprechende Anwendung.
-
-> Art. 185 Kursivdruck: Muß richtig "des Artikels" lauten
 
 
 (1) Das Verfahren, in welchem die Anlegung der Grundbücher erfolgt, sowie der Zeitpunkt, in welchem das Grundbuch für einen Bezirk als angelegt anzusehen ist, werden für jeden Bundesstaat durch landesherrliche Verordnung bestimmt.
@@ -998,13 +963,13 @@ Soweit nach den Vorschriften dieses Abschnitts die bisherigen Landesgesetze maß
 
 (2) Die Wirkungen familienrechtlicher Rechtsverhältnisse unterliegen von dem in Absatz 1 genannten Tag an den Vorschriften des Zweiten Kapitels des Ersten Teils.
 
-(3) Die güterrechtlichen Wirkungen von Ehen, die nach dem 31. März 1953 und vor dem 9. April 1983 geschlossen worden sind, unterliegen bis zum 8. April 1983 Für die Zeit nach dem 8. April 1983 ist Artikel 15 in der bis einschließlich 28. Januar 2019 geltenden Fassung anzuwenden. Dabei tritt für Ehen, auf die vorher Satz 1 Nr. 3 anzuwenden war, an die Stelle des Zeitpunkts der Eheschließung der 9. April 1983. Soweit sich allein aus einem Wechsel des anzuwendenden Rechts zum Ablauf des 8. April 1983 Ansprüche wegen der Beendigung des früheren Güterstands ergeben würden, gelten sie bis zu dem in Absatz 1 genannten Tag als gestundet. Auf die güterrechtlichen Wirkungen von Ehen, die nach dem 8. April 1983 geschlossen worden sind, ist Artikel 15 in der bis einschließlich 28. Januar 2019 geltenden Fassung anzuwenden. Die güterrechtlichen Wirkungen von Ehen, die vor dem 1. April 1953 geschlossen worden sind, bleiben unberührt; die Ehegatten können jedoch eine Rechtswahl nach Artikel 15 Absatz 2 und 3 in der bis einschließlich 28. Januar 2019 geltenden Fassung treffen.
+(3) Die güterrechtlichen Wirkungen von Ehen, die nach dem 31. März 1953 und vor dem 9. April 1983 geschlossen worden sind, unterliegen bis zum 8. April 1983
 
-1.
+1. dem Recht des Staates, dem beide Ehegatten bei der Eheschließung angehörten, sonst
 
-2.
+2. dem Recht, dem die Ehegatten sich unterstellt haben oder von dessen Anwendung sie ausgegangen sind, insbesondere nach dem sie einen Ehevertrag geschlossen haben, hilfsweise
 
-3.
+3. dem Recht des Staates, dem der Ehemann bei der Eheschließung angehörte.
 
 (4) (weggefallen)
 
@@ -1017,9 +982,9 @@ Vorschriften
 
 Bei einer vor dem 1. Juli 1990 zugegangenen Kündigung werden bei der Berechnung der Beschäftigungsdauer auch Zeiten, die zwischen der Vollendung des fünfundzwanzigsten Lebensjahres und der Vollendung des fünfunddreißigsten Lebensjahres liegen, berücksichtigt, wenn am 1. Juli 1990
 
-1.
+1. das Arbeitsverhältnis noch nicht beendet ist oder
 
-2.
+2. ein Rechtsstreit über den Zeitpunkt der Beendigung des Arbeitsverhältnisses anhängig ist.
 
 ## Art 222: Übergangsvorschrift zum Kündigungsfristengesetz
 vom 7. Oktober 1993
@@ -1027,13 +992,9 @@ vom 7. Oktober 1993
 
 Bei einer vor dem 15. Oktober 1993 zugegangenen Kündigung gilt Artikel 1 des Kündigungsfristengesetzes vom 7. Oktober 1993 (BGBl. I S. 1668), wenn am 15. Oktober 1993
 
-1.
+1. das Arbeitsverhältnis noch nicht beendet ist und die Vorschriften des Artikels 1 des Kündigungsfristengesetzes vom 7. Oktober 1993 für den Arbeitnehmer günstiger als die vor dem 15. Oktober 1993 geltenden gesetzlichen Vorschriften sind oder
 
-2.
-
-a)
-
-b)
+2. ein Rechtsstreit anhängig ist, bei dem die Entscheidung über den Zeitpunkt der Beendigung des Arbeitsverhältnisses abhängt vona)der Vorschrift des § 622 Abs. 2 Satz 1 und Satz 2 erster Halbsatz des Bürgerlichen Gesetzbuchs in der Fassung des Artikels 2 Nr. 4 des Ersten Arbeitsrechtsbereinigungsgesetzes vom 14. August 1969 (BGBl. I S. 1106) oderb)der Vorschrift des § 2 Abs. 1 Satz 1 des Gesetzes über die Fristen für die Kündigung von Angestellten in der im Bundesgesetzblatt Teil III, Gliederungsnummer 800-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 30 des Gesetzes vom 18. Dezember 1989 (BGBl. I S. 2261) geändert worden ist, soweit danach die Beschäftigung von in der Regel mehr als zwei Angestellten durch den Arbeitgeber Voraussetzung für die Verlängerung der Fristen für die Kündigung von Angestellten ist. der Vorschrift des § 622 Abs. 2 Satz 1 und Satz 2 erster Halbsatz des Bürgerlichen Gesetzbuchs in der Fassung des Artikels 2 Nr. 4 des Ersten Arbeitsrechtsbereinigungsgesetzes vom 14. August 1969 (BGBl. I S. 1106) oder der Vorschrift des § 2 Abs. 1 Satz 1 des Gesetzes über die Fristen für die Kündigung von Angestellten in der im Bundesgesetzblatt Teil III, Gliederungsnummer 800-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 30 des Gesetzes vom 18. Dezember 1989 (BGBl. I S. 2261) geändert worden ist, soweit danach die Beschäftigung von in der Regel mehr als zwei Angestellten durch den Arbeitgeber Voraussetzung für die Verlängerung der Fristen für die Kündigung von Angestellten ist.
 
 ## Art 223: Übergangsvorschrift zum Beistandschaftsgesetz
 vom 4. Dezember 1997
@@ -1109,9 +1070,9 @@ erbrechtlichen Gleichstellung nichtehelicher Kinder vom 16. Dezember 1997
 
 (1) Die bis zum 1. April 1998 geltenden Vorschriften über das Erbrecht des nichtehelichen Kindes sind weiter anzuwenden, wenn vor diesem Zeitpunkt
 
-1.
+1. der Erblasser gestorben ist oder
 
-2.
+2. über den Erbausgleich eine wirksame Vereinbarung getroffen oder der Erbausgleich durch rechtskräftiges Urteil zuerkannt worden ist.
 
 (2) Ist ein Erbausgleich nicht zustande gekommen, so gelten für Zahlungen, die der Vater dem Kinde im Hinblick auf den Erbausgleich geleistet und nicht zurückgefordert hat, die Vorschriften des § 2050 bs. 1, des § 2051 Abs. 1 und des § 2315 des Bürgerlichen Gesetzbuchs entsprechend.
 
@@ -1146,19 +1107,19 @@ Die §§ 241a, 361a, 361b, 661a und 676h des Bürgerlichen Gesetzbuchs sind nur 
 
 (1) Auf ein am 1. September 2001 bestehendes Mietverhältnis oder Pachtverhältnis sind
 
-1.
+1. im Falle einer vor dem 1. September 2001 zugegangenen Kündigung § 554 Abs. 2 Nr. 2, §§ 565, 565c Satz 1 Nr. 1b, § 565d Abs. 2, § 570 des Bürgerlichen Gesetzbuchs sowie § 9 Abs. 1 des Gesetzes zur Regelung der Miethöhe jeweils in der bis zu diesem Zeitpunkt geltenden Fassung anzuwenden;
 
-2.
+2. im Falle eines vor dem 1. September 2001 zugegangenen Mieterhöhungsverlangens oder einer vor diesem Zeitpunkt zugegangenen Mieterhöhungserklärung die §§ 2, 3, 5, 7, 11 bis 13, 15 und 16 des Gesetzes zur Regelung der Miethöhe in der bis zu diesem Zeitpunkt geltenden Fassung anzuwenden; darüber hinaus richten sich auch nach dem in Satz 1 genannten Zeitpunkt Mieterhöhungen nach § 7 Abs. 1 bis 3 des Gesetzes zur Regelung der Miethöhe in der bis zu diesem Zeitpunkt geltenden Fassung, soweit es sich um Mietverhältnisse im Sinne des § 7 Abs. 1 jenes Gesetzes handelt;
 
-3.
+3. im Falle einer vor dem 1. September 2001 zugegangenen Erklärung über eine Betriebskostenänderung § 4 Abs. 2 bis 4 des Gesetzes zur Regelung der Miethöhe in der bis zu diesem Zeitpunkt geltenden Fassung anzuwenden;
 
-4.
+4. im Falle einer vor dem 1. September 2001 zugegangenen Erklärung über die Abrechnung von Betriebskosten § 4 Abs. 5 Satz 1 Nr. 2 und § 14 des Gesetzes zur Regelung der Miethöhe in der bis zu diesem Zeitpunkt geltenden Fassung anzuwenden;
 
-5.
+5. im Falle des Todes des Mieters oder Pächters die §§ 569 bis 569b, 570b Abs. 3 und § 594d Abs. 1 des Bürgerlichen Gesetzbuchs in der bis zum 1. September 2001 geltenden Fassung anzuwenden, wenn der Mieter oder Pächter vor diesem Zeitpunkt verstorben ist, im Falle der Vermieterkündigung eines Mietverhältnisses über Wohnraum gegenüber dem Erben jedoch nur, wenn auch die Kündigungserklärung dem Erben vor diesem Zeitpunkt zugegangen ist;
 
-6.
+6. im Falle einer vor dem 1. September 2001 zugegangenen Mitteilung über die Durchführung von Modernisierungsmaßnahmen § 541b des Bürgerlichen Gesetzbuchs in der bis zu diesem Zeitpunkt geltenden Fassung anzuwenden;
 
-7.
+7. hinsichtlich der Fälligkeit § 551 des Bürgerlichen Gesetzbuchs in der bis zum 1. September 2001 geltenden Fassung anzuwenden.
 
 (2) Ein am 1. September 2001 bestehendes Mietverhältnis im Sinne des § 564b Abs. 4 Nr. 2 oder Abs. 7 Nr. 4 des Bürgerlichen Gesetzbuchs in der bis zum 1. September 2001 geltenden Fassung kann noch bis zum 31. August 2006 nach § 564b des Bürgerlichen Gesetzbuchs in der vorstehend genannten Fassung gekündigt werden.
 
@@ -1168,11 +1129,11 @@ Die §§ 241a, 361a, 361b, 661a und 676h des Bürgerlichen Gesetzbuchs sind nur 
 
 (5) Auf einen Mietspiegel, der vor dem 1. September 2001 unter Voraussetzungen erstellt worden ist, die § 558d Abs. 1 und 2 des Bürgerlichen Gesetzbuchs entsprechen, sind die Vorschriften über den qualifizierten Mietspiegel anzuwenden, wenn die Gemeinde ihn nach dem 1. September 2001 als solchen veröffentlicht hat. War der Mietspiegel vor diesem Zeitpunkt bereits veröffentlicht worden, so ist es ausreichend, wenn die Gemeinde ihn später öffentlich als qualifizierten Mietspiegel bezeichnet hat. In jedem Fall sind § 558a Abs. 3 und § 558d Abs. 3 des Bürgerlichen Gesetzbuchs nicht anzuwenden auf Mieterhöhungsverlangen, die dem Mieter vor dieser Veröffentlichung zugegangen sind.
 
-(6) Auf vermieteten Wohnraum, der sich in einem Gebiet befindet, das aufgrund bestimmt ist, sind die am 31. August 2001 geltenden vorstehend genannten Bestimmungen über Beschränkungen des Kündigungsrechts des Vermieters bis zum 31. August 2004 weiter anzuwenden. Ein am 1. September 2001 bereits verstrichener Teil einer Frist nach den vorstehend genannten Bestimmungen wird auf die Frist nach § 577a des Bürgerlichen Gesetzbuchs angerechnet. § 577a des Bürgerlichen Gesetzbuchs ist jedoch nicht anzuwenden im Falle einer Kündigung des Erwerbers nach § 573 Abs. 2 Nr. 3 jenes Gesetzes, wenn die Veräußerung vor dem 1. September 2001 erfolgt ist und sich die veräußerte Wohnung nicht in einem nach Satz 1 bezeichneten Gebiet befindet.
+(6) Auf vermieteten Wohnraum, der sich in einem Gebiet befindet, das aufgrund
 
-1.
+1. des § 564b Abs. 2 Nr. 2, auch in Verbindung mit Nr. 3, des Bürgerlichen Gesetzbuchs in der bis zum 1. September 2001 geltenden Fassung oder
 
-2.
+2. des Gesetzes über eine Sozialklausel in Gebieten mit gefährdeter Wohnungsversorgung vom 22. April 1993 (BGBl. I S. 466, 487)
 
 (7) § 548 Abs. 3 des Bürgerlichen Gesetzbuchs ist nicht anzuwenden, wenn das selbständige Beweisverfahren vor dem 1. September 2001 beantragt worden ist.
 
@@ -1182,11 +1143,11 @@ Die §§ 241a, 361a, 361b, 661a und 676h des Bürgerlichen Gesetzbuchs sind nur 
 
 (10) § 573c Abs. 4 des Bürgerlichen Gesetzbuchs ist nicht anzuwenden, wenn die Kündigungsfristen vor dem 1. September 2001 durch Vertrag vereinbart worden sind. Für Kündigungen, die ab dem 1. Juni 2005 zugehen, gilt dies nicht, wenn die Kündigungsfristen des § 565 Abs. 2 Satz 1 und 2 des Bürgerlichen Gesetzbuchs in der bis zum 1. September 2001 geltenden Fassung durch Allgemeine Geschäftsbedingungen vereinbart worden sind.
 
-(11) Nicht unangemessen hoch im Sinn des § 5 des Wirtschaftsstrafgesetzes 1954 sind Entgelte für Wohnraum im Sinn des § 11 Abs. 2 des Gesetzes zur Regelung der Miethöhe in der bis zum 31. August 2001 geltenden Fassung, die worden sind. Für Zwecke des Satzes 1 bleiben die hier genannten Bestimmungen weiterhin anwendbar.
+(11) Nicht unangemessen hoch im Sinn des § 5 des Wirtschaftsstrafgesetzes 1954 sind Entgelte für Wohnraum im Sinn des § 11 Abs. 2 des Gesetzes zur Regelung der Miethöhe in der bis zum 31. August 2001 geltenden Fassung, die
 
-1.
+1. bis zum 31. Dezember 1997 nach § 3 oder § 13 des Gesetzes zur Regelung der Miethöhe in der bis zum 31. August 2001 geltenden Fassung geändert oder nach § 13 in Verbindung mit § 17 jenes Gesetzes in der bis zum 31. August 2001 geltenden Fassung vereinbart oder
 
-2.
+2. bei der Wiedervermietung in einer der Nummer 1 entsprechenden Höhe vereinbart
 
 ### § 4 — Übergangsvorschrift zum Zweiten Gesetz zur Änderung reiserechtlicher Vorschriften
 
@@ -1194,15 +1155,15 @@ Die §§ 241a, 361a, 361b, 661a und 676h des Bürgerlichen Gesetzbuchs sind nur 
 
 (2) Abweichend von § 651k Abs. 2 Satz 1 des Bürgerlichen Gesetzbuchs gelten für die nachfolgenden Zeiträume folgende Haftungshöchstsummen.
 
-1.
+1. vom 1. November 1994 bis zum 31. Oktober 1995 70 Millionen Deutsche Mark,
 
-2.
+2. vom 1. November 1995 bis zum 31. Oktober 1996 100 Millionen Deutsche Mark,
 
-3.
+3. vom 1. November 1996 bis zum 31. Oktober 1997 150 Millionen Deutsche Mark,
 
-4.
+4. vom 1. November 1997 bis zum 31. Oktober 2000 200 Millionen Deutsche Mark und
 
-5.
+5. vom 1. November 2000 bis zum 1. September 2001 110 Millionen Euro.
 
 ### § 5 — Allgemeine Überleitungsvorschrift zum Gesetz zur Modernisierung des Schuldrechts vom 26. November 2001
 
@@ -1224,75 +1185,69 @@ Auf Schuldverhältnisse, die vor dem 1. Januar 2002 entstanden sind, sind das B�
 
 ### § 7 — Überleitungsvorschrift zu Zinsvorschriften nach dem Gesetz zur Modernisierung des Schuldrechts vom 26. November 2001
 
-(1) Soweit sie als Bezugsgröße für Zinsen und andere Leistungen in Rechtsvorschriften des Bundes auf dem Gebiet des Bürgerlichen Rechts und des Verfahrensrechts der Gerichte, in nach diesem Gesetz vorbehaltenem Landesrecht und in Vollstreckungstiteln und Verträgen auf Grund solcher Vorschriften verwendet werden, treten mit Wirkung vom 1. Januar 2002 Satz 1 Nr. 5 bis 7 ist auf Zinsperioden nicht anzuwenden, die auf einen vor Ablauf des 31. Dezember 1998 festgestellten FIBOR-Satz Bezug nehmen; insoweit verbleibt es bei den zu Beginn der Zinsperiode vereinbarten FIBOR-Sätzen. Soweit Zinsen für einen Zeitraum vor dem 1. Januar 1999 geltend gemacht werden, bezeichnet eine Bezugnahme auf den Basiszinssatz den Diskontsatz der Deutschen Bundesbank in der in diesem Zeitraum maßgebenden Höhe. Die in den vorstehenden Sätzen geregelte Ersetzung von Zinssätzen begründet keinen Anspruch auf vorzeitige Kündigung, einseitige Aufhebung oder Abänderung von Verträgen und Abänderung von Vollstreckungstiteln. Das Recht der Parteien, den Vertrag einvernehmlich zu ändern, bleibt unberührt.
+(1) Soweit sie als Bezugsgröße für Zinsen und andere Leistungen in Rechtsvorschriften des Bundes auf dem Gebiet des Bürgerlichen Rechts und des Verfahrensrechts der Gerichte, in nach diesem Gesetz vorbehaltenem Landesrecht und in Vollstreckungstiteln und Verträgen auf Grund solcher Vorschriften verwendet werden, treten mit Wirkung vom 1. Januar 2002
 
-1.
+1. an die Stelle des Basiszinssatzes nach dem Diskontsatz-Überleitungs-Gesetz vom 9. Juni 1998 (BGBl. I S. 1242) der Basiszinssatz des Bürgerlichen Gesetzbuchs,
 
-2.
+2. an die Stelle des Diskontsatzes der Deutschen Bundesbank der Basiszinssatz (§ 247 des Bürgerlichen Gesetzbuchs),
 
-3.
+3. an die Stelle des Zinssatzes für Kassenkredite des Bundes der um 1,5 Prozentpunkte erhöhte Basiszinssatz des Bürgerlichen Gesetzbuchs,
 
-4.
+4. an die Stelle des Lombardsatzes der Deutschen Bundesbank der Zinssatz der Spitzenrefinanzierungsfazilität der Europäischen Zentralbank (SRF-Zinssatz),
 
-5.
+5. an die Stelle der "Frankfurt Interbank Offered Rate"-Sätze für die Beschaffung von Ein- und Zwölfmonatsgeld von ersten Adressen auf dem deutschen Markt auf ihrer seit dem 2. Juli 1990 geltenden Grundlage (FIBOR-neu-Sätze) die "EURO Interbank Offered Rate"-Sätze für die Beschaffung von Ein- bis Zwölfmonatsgeld von ersten Adressen in den Teilnehmerstaaten der Europäischen Währungsunion (EURIBOR-Sätze) für die entsprechende Laufzeit,
 
-6.
+6. an die Stelle des "Frankfurt Interbank Offered Rate"-Satzes für die Beschaffung von Tagesgeld ("Overnight") von ersten Adressen auf dem deutschen Markt ("FIBOR-Overnight"-Satz) der "EURO Overnight Index Average"-Satz für die Beschaffung von Tagesgeld ("Overnight") von ersten Adressen in den Teilnehmerstaaten der Europäischen Währungsunion (EONIA-Satz) und
 
-7.
-
-a)
-
-b)
-
-c)
+7. bei Verwendung der "Frankfurt Interbank Offered Rate"-Sätze für die Geldbeschaffung von ersten Adressen auf dem deutschen Markt auf ihrer seit dem 12. August 1985 geltenden Grundlage (FIBOR-alt-Sätze)a)an die Stelle des FIBOR-alt-Satzes für Dreimonatsgeld der EURIBOR-Satz für Dreimonatsgeld, multipliziert mit der Anzahl der Tage der jeweiligen Dreimonatsperiode und dividiert durch 90,b)an die Stelle des FIBOR-alt-Satzes für Sechsmonatsgeld der EURIBOR-Satz für Sechsmonatsgeld, multipliziert mit der Anzahl der Tage der jeweiligen Sechsmonatsperiode und dividiert durch 180 undc)wenn eine Anpassung der Bestimmungen über die Berechnung unterjähriger Zinsen nach § 5 Satz 1 Nr. 3 des Gesetzes zur Umstellung von Schuldverschreibungen auf Euro vom 9. Juni 1998 (BGBl. I S. 1242, 1250) erfolgt, an die Stelle aller FIBOR-alt-Sätze die EURIBOR-Sätze für die entsprechende Laufzeit. an die Stelle des FIBOR-alt-Satzes für Dreimonatsgeld der EURIBOR-Satz für Dreimonatsgeld, multipliziert mit der Anzahl der Tage der jeweiligen Dreimonatsperiode und dividiert durch 90, an die Stelle des FIBOR-alt-Satzes für Sechsmonatsgeld der EURIBOR-Satz für Sechsmonatsgeld, multipliziert mit der Anzahl der Tage der jeweiligen Sechsmonatsperiode und dividiert durch 180 und wenn eine Anpassung der Bestimmungen über die Berechnung unterjähriger Zinsen nach § 5 Satz 1 Nr. 3 des Gesetzes zur Umstellung von Schuldverschreibungen auf Euro vom 9. Juni 1998 (BGBl. I S. 1242, 1250) erfolgt, an die Stelle aller FIBOR-alt-Sätze die EURIBOR-Sätze für die entsprechende Laufzeit.
 
 (2) Für die Zeit vor dem 1. Januar 2002 sind das Diskontsatz-Überleitungs-Gesetz vom 9. Juni 1998 (BGBl. I S. 1242) und die auf seiner Grundlage erlassenen Rechtsverordnungen in der bis zu diesem Tag geltenden Fassung anzuwenden.
 
 (3) Eine Veränderung des Basiszinssatzes gemäß § 247 Abs. 1 Satz 2 des Bürgerlichen Gesetzbuchs erfolgt erstmals zum 1. Januar 2002.
 
-(4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates durch einen anderen Zinssatz der Europäischen Zentralbank zu ersetzen, der dem Basiszinssatz, den durch diesen ersetzten Zinssätzen und dem Lombardsatz in ihrer Funktion als Bezugsgrößen für Zinssätze eher entspricht.
+(4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
-1.
+1. die Bezugsgröße für den Basiszinssatz gemäß § 247 des Bürgerlichen Gesetzbuchs und
 
-2.
+2. den SRF-Zinssatz als Ersatz für den Lombardsatz der Deutschen Bundesbank
 
 ### § 8 — Übergangsvorschriften zum Zweiten Gesetz zur Änderung schadensersatzrechtlicher Vorschriften vom 19. Juli 2002
 
-(1) Die durch das Zweite Gesetz zur Änderung schadensersatzrechtlicher Vorschriften im in der Luftverkehrs-Zulassungs-Ordnung geänderten Vorschriften sind mit Ausnahme des durch Artikel 1 Nr. 2 des Zweiten Gesetzes zur Änderung schadensersatzrechtlicher Vorschriften eingefügten § 84a des Arzneimittelgesetzes und des durch Artikel 1 Nr. 4 des Zweiten Gesetzes zur Änderung schadensersatzrechtlicher Vorschriften geänderten § 88 des Arzneimittelgesetzes anzuwenden, wenn das schädigende Ereignis nach dem 31. Juli 2002 eingetreten ist.
+(1) Die durch das Zweite Gesetz zur Änderung schadensersatzrechtlicher Vorschriften im
 
-1.
+1. Arzneimittelgesetz,
 
-2.
+2. Bürgerlichen Gesetzbuch,
 
-3.
+3. Bundesberggesetz,
 
-4.
+4. Straßenverkehrsgesetz,
 
-5.
+5. Haftpflichtgesetz,
 
-6.
+6. Luftverkehrsgesetz,
 
-7.
+7. Bundesdatenschutzgesetz,
 
-8.
+8. Gentechnikgesetz,
 
-9.
+9. Produkthaftungsgesetz,
 
-10.
+10. Umwelthaftungsgesetz,
 
-11.
+11. Handelsgesetzbuch,
 
-12.
+12. Bundesgrenzschutzgesetz,
 
-13.
+13. Bundessozialhilfegesetz,
 
-14.
+14. Gesetz über die Abgeltung von Besatzungsschäden,
 
-15.
+15. Atomgesetz,
 
-16.
+16. Bundesversorgungsgesetz,
 
-17.
+17. Pflichtversicherungsgesetz und
 
 (2) Der durch Artikel 1 Nr. 2 des Zweiten Gesetzes zur Änderung schadensersatzrechtlicher Vorschriften eingefügte § 84a des Arzneimittelgesetzes ist auch auf Fälle anzuwenden, in denen das schädigende Ereignis vor dem 1. August 2002 eingetreten ist, es sei denn, dass zu diesem Zeitpunkt über den Schadensersatz durch rechtskräftiges Urteil entschieden war oder Arzneimittelanwender und pharmazeutischer Unternehmer sich über den Schadensersatz geeinigt hatten.
 
@@ -1300,11 +1255,11 @@ c)
 
 ### § 9 — Überleitungsvorschrift zum OLG-Vertretungsänderungsgesetz vom 23. Juli 2002
 
-(1) Die §§ 312a, 312d, 346, 355, 358, 491, 492, 494, 495, 497, 498, 502, 505 und 506 des Bürgerlichen Gesetzbuchs in der seit dem 1. August 2002 geltenden Fassung sind, soweit nichts anderes bestimmt ist, nur anzuwenden auf § 355 Abs. 3 des Bürgerlichen Gesetzbuchs in der in Satz 1 genannten Fassung ist jedoch auch auf Haustürgeschäfte anzuwenden, die nach dem 31. Dezember 2001 abgeschlossen worden sind, einschließlich ihrer Rückabwicklung.
+(1) Die §§ 312a, 312d, 346, 355, 358, 491, 492, 494, 495, 497, 498, 502, 505 und 506 des Bürgerlichen Gesetzbuchs in der seit dem 1. August 2002 geltenden Fassung sind, soweit nichts anderes bestimmt ist, nur anzuwenden auf
 
-1.
+1. Haustürgeschäfte, die nach dem 1. August 2002 abgeschlossen worden sind, einschließlich ihrer Rückabwicklung und
 
-2.
+2. andere Schuldverhältnisse, die nach dem 1. November 2002 entstanden sind.
 
 (2) § 355 Abs. 2 ist in der in Absatz 1 Satz 1 genannten Fassung auch auf Verträge anzuwenden, die vor diesem Zeitpunkt geschlossen worden sind, wenn die erforderliche Belehrung über das Widerrufs- oder Rückgaberecht erst nach diesem Zeitpunkt erteilt wird.
 
@@ -1320,47 +1275,47 @@ Im Fall der Anfechtung nach § 1600 Abs. 1 Nr. 2 des Bürgerlichen Gesetzbuchs b
 
 ### § 12 — Überleitungsvorschrift zum Gesetz zur Anpassung von Verjährungsvorschriften an das Gesetz zur Modernisierung des Schuldrechts
 
-(1) Auf die Verjährungsfristen gemäß den durch das Gesetz zur Anpassung von Verjährungsvorschriften an das Gesetz zur Modernisierung des Schuldrechts vom 9. Dezember 2004 (BGBl. I S. 3214) geänderten Vorschriften ist § 6 entsprechend anzuwenden, soweit nicht ein anderes bestimmt ist. An die Stelle des 1. Januar 2002 tritt der 15. Dezember 2004, an die Stelle des 31. Dezember 2001 der 14. Dezember 2004.
+(1) Auf die Verjährungsfristen gemäß den durch das Gesetz zur Anpassung von Verjährungsvorschriften an das Gesetz zur Modernisierung des Schuldrechts vom 9. Dezember 2004 (BGBl. I S. 3214) geänderten Vorschriften
 
-1.
+1. im Arzneimittelgesetz,
 
-2.
+2. im Lebensmittelspezialitätengesetz,
 
-3.
+3. in der Bundesrechtsanwaltsordnung,
 
-4.
+4. in der Insolvenzordnung,
 
-5.
+5. im Bürgerlichen Gesetzbuch,
 
-6.
+6. im Gesetz zur Regelung der Wohnungsvermittlung,
 
-7.
+7. im Handelsgesetzbuch,
 
-8.
+8. im Umwandlungsgesetz,
 
-9.
+9. im Aktiengesetz,
 
-10.
+10. im Gesetz betreffend die Gesellschaften mit beschränkter Haftung,
 
-11.
+11. im Gesetz betreffend die Erwerbs- und Wirtschaftsgenossenschaften,
 
-12.
+12. in der Patentanwaltsordnung,
 
-13.
+13. im Steuerberatungsgesetz,
 
-14.
+14. in der Verordnung über Allgemeine Bedingungen für die Elektrizitätsversorgung von Tarifkunden,
 
-15.
+15. in der Verordnung über Allgemeine Bedingungen für die Gasversorgung von Tarifkunden,
 
-16.
+16. in der Verordnung über Allgemeine Bedingungen für die Versorgung mit Wasser,
 
-17.
+17. in der Verordnung über Allgemeine Bedingungen für die Versorgung mit Fernwärme,
 
-18.
+18. im Rindfleischetikettierungsgesetz,
 
-19.
+19. in der Telekommunikations-Kundenschutzverordnung und
 
-20.
+20. in der Verordnung über die Allgemeinen Beförderungsbedingungen für den Straßenbahn- und Obusverkehr sowie für den Linienverkehr mit Kraftfahrzeugen
 
 (2) Noch nicht verjährte Ansprüche, deren Verjährung sich nach Maßgabe des bis zum 14. Dezember 2004 geltenden Rechts nach den Regelungen über die regelmäßige Verjährung nach dem Bürgerlichen Gesetzbuch bestimmt hat und für die durch das Gesetz zur Anpassung von Verjährungsvorschriften an das Gesetz zur Modernisierung des Schuldrechts längere Verjährungsfristen bestimmt werden, verjähren nach den durch dieses Gesetz eingeführten Vorschriften. Der Zeitraum, der vor dem 15. Dezember 2004 abgelaufen ist, wird in die Verjährungsfrist eingerechnet.
 
@@ -1462,9 +1417,9 @@ Sowohl Artikel 246 § 2 Absatz 3 Satz 1 als auch § 360 Absatz 3 des Bürgerlich
 
 (1) Auf ein bis zum 1. Mai 2013 entstandenes Mietverhältnis sind die §§ 536, 554, 559 bis 559b, 578 des Bürgerlichen Gesetzbuchs in der bis zum 1. Mai 2013 geltenden Fassung weiter anzuwenden, wenn
 
-1.
+1. bei Modernisierungsmaßnahmen die Mitteilung nach § 554 Absatz 3 Satz 1 des Bürgerlichen Gesetzbuchs dem Mieter vor dem 1. Mai 2013 zugegangen ist oder
 
-2.
+2. bei Modernisierungsmaßnahmen, auf die § 554 Absatz 3 Satz 3 des Bürgerlichen Gesetzbuchs in der bis zum 1. Mai 2013 geltenden Fassung anzuwenden ist, der Vermieter mit der Ausführung der Maßnahme vor dem 1. Mai 2013 begonnen hat.
 
 (2) § 569 Absatz 2a des Bürgerlichen Gesetzbuchs ist auf ein vor dem 1. Mai 2013 entstandenes Mietverhältnis nicht anzuwenden.
 
@@ -1482,11 +1437,11 @@ Die Vorschriften des Bürgerlichen Gesetzbuchs in der seit dem 30. Juni 2013 gel
 
 (2) Solange der Verbraucher bei einem Fernabsatzvertrag, der vor dem 13. Juni 2014 geschlossen wurde, nicht oder nicht entsprechend den zum Zeitpunkt des Vertragsschlusses geltenden gesetzlichen Anforderungen des Bürgerlichen Gesetzbuchs über sein Widerrufsrecht belehrt worden ist und solange das Widerrufsrecht aus diesem Grunde nicht erloschen ist, erlischt das Widerrufsrecht
 
-1.
+1. bei der Lieferung von Waren: zwölf Monate und 14 Tage nach Eingang der Waren beim Empfänger, jedoch nicht vor Ablauf des 27. Juni 2015,
 
-2.
+2. bei der wiederkehrenden Lieferung gleichartiger Waren: zwölf Monate und 14 Tage nach Eingang der ersten Teillieferung, jedoch nicht vor Ablauf des 27. Juni 2015,
 
-3.
+3. bei Dienstleistungen: mit Ablauf des 27. Juni 2015.
 
 (3) Solange der Verbraucher bei einem Haustürgeschäft, das vor dem 13. Juni 2014 geschlossen wurde, nicht oder nicht entsprechend den zum Zeitpunkt des Vertragsschlusses geltenden Anforderungen des Bürgerlichen Gesetzbuchs über sein Widerrufsrecht belehrt worden ist und solange das Widerrufsrecht aus diesem Grunde nicht erloschen ist, erlischt das Widerrufsrecht zwölf Monate und 14 Tage nach vollständiger Erbringung der beiderseitigen Leistungen aus dem Vertrag, nicht jedoch vor Ablauf des 27. Juni 2015.
 
@@ -1516,11 +1471,11 @@ Auf Verfahren zur Erteilung von Erbscheinen nach einem Erblasser, der vor dem 17
 
 ### § 38 — Übergangsvorschrift zum Gesetz zur Umsetzung der Wohnimmobilienkreditrichtlinie und zur Änderung handelsrechtlicher Vorschriften
 
-(1) Dieses Gesetz und das Bürgerliche Gesetzbuch jeweils in der bis zum 20. März 2016 geltenden Fassung sind vorbehaltlich des Absatzes 2 auf folgende Verträge anzuwenden, wenn sie vor dem 21. März 2016 abgeschlossen wurden: Für Verbraucherdarlehensverträge gemäß § 504 des Bürgerlichen Gesetzbuchs ist der Zeitpunkt des Abschlusses des Vertrags maßgeblich, mit dem der Darlehensgeber dem Darlehensnehmer das Recht einräumt, sein laufendes Konto in bestimmter Höhe zu überziehen. Für Verbraucherdarlehensverträge gemäß § 505 Absatz 1 des Bürgerlichen Gesetzbuchs ist der Zeitpunkt des Abschlusses des Vertrags maßgeblich, mit dem der Unternehmer mit dem Verbraucher ein Entgelt für den Fall vereinbart, dass er eine Überziehung seines laufenden Kontos duldet.
+(1) Dieses Gesetz und das Bürgerliche Gesetzbuch jeweils in der bis zum 20. März 2016 geltenden Fassung sind vorbehaltlich des Absatzes 2 auf folgende Verträge anzuwenden, wenn sie vor dem 21. März 2016 abgeschlossen wurden:
 
-1.
+1. Verbraucherdarlehensverträge und Verträge über entgeltliche Finanzierungshilfen,
 
-2.
+2. Verträge über die Vermittlung von Verträgen gemäß Nummer 1.
 
 (2) Die §§ 504a und 505 Absatz 2 des Bürgerlichen Gesetzbuchs sind auf Verbraucherdarlehensverträge gemäß den §§ 504 und 505 des Bürgerlichen Gesetzbuchs auch dann anzuwenden, wenn diese Verträge vor dem 21. März 2016 abgeschlossen wurden.
 
@@ -1534,15 +1489,15 @@ Auf ein Schuldverhältnis, das vor dem 1. Januar 2018 entstanden ist, finden die
 
 (1) Das Bürgerliche Gesetzbuch ist in der bis zum 9. Juni 2017 geltenden Fassung auf folgende Verträge anzuwenden, wenn sie vor dem 10. Juni 2017 abgeschlossen wurden:
 
-1.
+1. Darlehensverträge, Verträge über entgeltliche und unentgeltliche Finanzierungshilfen sowie Immobilienverzehrkreditverträge,
 
-2.
+2. Verträge über die Vermittlung von Verträgen nach Nummer 1.
 
 (2) Dieses Gesetz ist in der bis zum 30. Juni 2018 geltenden Fassung auf folgende Verträge anzuwenden, wenn sie vor dem 1. Juli 2018 abgeschlossen wurden:
 
-1.
+1. Darlehensverträge und Verträge über entgeltliche Finanzierungshilfen,
 
-2.
+2. Verträge über die Vermittlung von Verträgen nach Nummer 1.
 
 ### § 41 — Übergangsvorschrift zum Gesetz zur Änderung von Vorschriften im Bereich des Internationalen Privat- und Zivilverfahrensrechts vom 11. Juni 2017
 
@@ -1556,21 +1511,21 @@ Auf einen vor dem 1. Juli 2018 abgeschlossenen Reisevertrag sind die Vorschrifte
 
 Wenn die zum Tode führende Verletzung nach dem 22. Juli 2017 eingetreten ist, sind die durch das Gesetz zur Einführung eines Anspruchs auf Hinterbliebenengeld vom 17. Juli 2017 (BGBl. I S. 2421) geänderten Vorschriften in folgenden Gesetzen anzuwenden:
 
-1.
+1. Bürgerliches Gesetzbuch,
 
-2.
+2. Arzneimittelgesetz,
 
-3.
+3. Gentechnikgesetz,
 
-4.
+4. Produkthaftungsgesetz,
 
-5.
+5. Umwelthaftungsgesetz,
 
-6.
+6. Atomgesetz,
 
-7.
+7. Straßenverkehrsgesetz und
 
-8.
+8. Haftpflichtgesetz.
 
 ### § 44 — Überleitungsvorschrift zum Gesetz zur Bekämpfung von Kinderehen
 
@@ -1582,9 +1537,9 @@ Wenn die zum Tode führende Verletzung nach dem 22. Juli 2017 eingetreten ist, s
 
 (4) Artikel 13 Absatz 3 Nummer 1 gilt nicht, wenn
 
-1.
+1. der minderjährige Ehegatte vor dem 22. Juli 1999 geboren worden ist, oder
 
-2.
+2. die nach ausländischem Recht wirksame Ehe bis zur Volljährigkeit des minderjährigen Ehegatten geführt worden ist und kein Ehegatte seit der Eheschließung bis zur Volljährigkeit des minderjährigen Ehegatten seinen gewöhnlichen Aufenthalt in Deutschland hatte.
 
 ### § 45 — Übergangsvorschriften zum Gesetz zur Umsetzung der Zweiten Zahlungsdiensterichtlinie vom 17. Juli 2017
 
@@ -1608,9 +1563,9 @@ Wenn die zum Tode führende Verletzung nach dem 22. Juli 2017 eingetreten ist, s
 
 (2) Haben die Ehegatten die Ehe vor dem 29. Januar 2019 geschlossen und ab diesem Zeitpunkt keine Rechtswahl nach der Verordnung (EU) 2016/1103 über das auf ihren Güterstand anzuwendende Recht getroffen, sind folgende Vorschriften jeweils in ihrer bis einschließlich 28. Januar 2019 geltenden Fassung weiter anzuwenden:
 
-1.
+1. die Vorschriften des Gesetzes über den ehelichen Güterstand von Vertriebenen und Flüchtlingen;
 
-2.
+2. die Artikel 3a, 15, 16, 17a sowie 17b Absatz 4.
 
 (3) Haben die Lebenspartner ihre eingetragene Partnerschaft vor dem 29. Januar 2019 eintragen lassen und ab diesem Zeitpunkt keine Rechtswahl nach der Verordnung (EU) 2016/1104 über das auf die güterrechtlichen Wirkungen ihrer eingetragenen Partnerschaft anzuwendende Recht getroffen, ist Artikel 17b Absatz 1 Satz 1 sowie Absatz 2 Satz 2 und 3 in der bis einschließlich 28. Januar 2019 geltenden Fassung weiter anzuwenden.
 
@@ -1654,7 +1609,7 @@ Auf Rechtsverhältnisse, die vor dem 23. Dezember 2020 entstanden sind, sind die
 
 (3) Ist am 1. Januar 2023 ein Betreuer zur Besorgung aller Angelegenheiten bestellt, ist der Aufgabenkreis bis zum 1. Januar 2024 nach Maßgabe des § 1815 Absatz 1 des Bürgerlichen Gesetzbuchs zu ändern.
 
-(4) Auf Betreuungen, die am 1. Januar 2023 bestehen, findet § 1815 Absatz 2 Nummer 1 bis 4 des Bürgerlichen Gesetzbuchs bis zum 1. Januar 2028 keine Anwendung. Bei der nächsten Entscheidung über die Aufhebung oder Verlängerung der Betreuung oder im Rahmen eines gerichtlichen Genehmigungsverfahrens nach § 1831 Absatz 2 des Bürgerlichen Gesetzbuchs hat das Betreuungsgericht über den Aufgabenkreis nach Maßgabe des § 1815 Absatz 2 des Bürgerlichen Gesetzbuchs zu entscheiden.
+(4) Auf Betreuungen, die am 1. Januar 2023 bestehen, findet § 1815 Absatz 2 Nummer 1 bis 4 des Bürgerlichen Gesetzbuchs bis zum 1. Januar 2028 keine Anwendung. Bei der nächsten Entscheidung über die Aufhebung oder Verlängerung der Betreuung oder im Rahmen eines gerichtlichen Genehmigungsverfahrens nach § 1831 Absatz 2 des Bürgerlichen Gesetzbuchs hat das Betreuungsgericht über den Aufgabenkreis nach Maßgabe des § 1815 Absatz 2 des Bürgerlichen Gesetzbuchs zu entscheiden.
 
 (5) Betreuer, die erstmals durch § 1859 Absatz 2 des Bürgerlichen Gesetzbuchs befreit sind, haben bis zum Ablauf des am 1. Januar 2023 noch laufenden Betreuungsjahres Rechnung zu legen.
 
@@ -1666,13 +1621,13 @@ Auf Rechtsverhältnisse, die vor dem 23. Dezember 2020 entstanden sind, sind die
 
 ### § 56 — Überleitungsvorschrift zum Gesetz über die Insolvenzsicherung durch Reisesicherungsfonds und zur Änderung reiserechtlicher Vorschriften
 
-(1) Auf Pauschalreiseverträge und Verträge über verbundene Reiseleistungen, die vor dem 1. November 2021 abgeschlossen wurden, ist § 651r des Bürgerlichen Gesetzbuchs, auch in Verbindung mit § 651w Absatz 3 des Bürgerlichen Gesetzbuchs, in der bis zum 30. Juni 2021 geltenden Fassung mit der Maßgabe weiter anzuwenden, dass
+(1) Auf Pauschalreiseverträge und Verträge über verbundene Reiseleistungen, die vor dem 1. November 2021 abgeschlossen wurden, ist § 651r des Bürgerlichen Gesetzbuchs, auch in Verbindung mit § 651w Absatz 3 des Bürgerlichen Gesetzbuchs, in der bis zum 30. Juni 2021 geltenden Fassung mit der Maßgabe weiter anzuwenden, dass
 
-1.
+1. ein Reisesicherungsfonds, der gemäß § 16 des Reisesicherungsfondsgesetzes fortbestehende Einstandspflichten eines Kundengeldabsicherers übernimmt, an die Stelle des bisherigen Kundengeldabsicherers tritt und
 
-2.
+2. in den Fällen der Nummer 1 sich der bisherige Kundengeldabsicherer abweichend von § 651r Absatz 4 Satz 2 des Bürgerlichen Gesetzbuchs gegenüber dem Reisenden auf die Beendigung des Kundengeldabsicherungsvertrags berufen kann.
 
-(2) Auf einen Reisegutschein nach Artikel 240 § 6 sind die Vorschriften dieses Gesetzes und des Bürgerlichen Gesetzbuchs jeweils in der bis einschließlich 30. Juni 2021 geltenden Fassung weiter anzuwenden; Absatz 1 Nummer 1 und 2 gilt entsprechend. In den Fällen des Artikels 240 § 6 Absatz 6 Satz 2 kann der Reisesicherungsfonds die Reisenden gegen Abtretung derjenigen Ansprüche, die ihnen nach Artikel 240 § 6 Absatz 6 Satz 2 gegen die Bundesrepublik Deutschland zustehen, vollständig entschädigen. Er hat im Fall des Satzes 2 neben den abgetretenen Ansprüchen auch einen Anspruch auf angemessenen Ausgleich des zusätzlichen Abwicklungsaufwands gegen die Bundesrepublik Deutschland.
+(2) Auf einen Reisegutschein nach Artikel 240 § 6 sind die Vorschriften dieses Gesetzes und des Bürgerlichen Gesetzbuchs jeweils in der bis einschließlich 30. Juni 2021 geltenden Fassung weiter anzuwenden; Absatz 1 Nummer 1 und 2 gilt entsprechend. In den Fällen des Artikels 240 § 6 Absatz 6 Satz 2 kann der Reisesicherungsfonds die Reisenden gegen Abtretung derjenigen Ansprüche, die ihnen nach Artikel 240 § 6 Absatz 6 Satz 2 gegen die Bundesrepublik Deutschland zustehen, vollständig entschädigen. Er hat im Fall des Satzes 2 neben den abgetretenen Ansprüchen auch einen Anspruch auf angemessenen Ausgleich des zusätzlichen Abwicklungsaufwands gegen die Bundesrepublik Deutschland.
 
 ### § 57 — Übergangsvorschrift zum Gesetz zur Umsetzung der Richtlinie über bestimmte vertragsrechtliche Aspekte der Bereitstellung digitaler Inhalte und digitaler Dienstleistungen
 
@@ -1690,7 +1645,7 @@ Auf einen Kaufvertrag, der vor dem 1. Januar 2022 geschlossen worden ist, sind d
 
 ### § 59 — Allgemeine Überleitungsvorschrift zum Gesetz zur Vereinheitlichung des Stiftungsrechts
 
-Auf die vor dem 1. Juli 2023 bestehenden Stiftungen sind die §§ 82a bis 88 des Bürgerlichen Gesetzbuchs in der am 1. Juli 2023 geltenden Fassung anzuwenden. In § 87c Absatz 1 Satz 1 bis 3 des Bürgerlichen Gesetzbuchs tritt bei diesen Stiftungen an die Stelle der Satzung die Stiftungsverfassung.
+Auf die vor dem 1. Juli 2023 bestehenden Stiftungen sind die §§ 82a bis 88 des Bürgerlichen Gesetzbuchs in der am 1. Juli 2023 geltenden Fassung anzuwenden. In § 87c Absatz 1 Satz 1 bis 3 des Bürgerlichen Gesetzbuchs tritt bei diesen Stiftungen an die Stelle der Satzung die Stiftungsverfassung.
 
 ### § 60 — Übergangsvorschrift zum Gesetz für faire Verbraucherverträge
 
@@ -1712,21 +1667,21 @@ Für Gemeinden, für die infolge der durch § 558c Absatz 4 Satz 2 des Bürgerli
 
 (1) Abweichend von § 1412 des Bürgerlichen Gesetzbuchs können Ehegatten und Partner einer eingetragenen Lebenspartnerschaft auch aus Eintragungen im Güterrechtsregister Dritten gegenüber Einwendungen
 
-1.
+1. gegen ein Rechtsgeschäft herleiten, das zwischen einem der Ehegatten und dem Dritten vorgenommen worden ist, wenn das Geschäft vor dem 1. Januar 2028 abgeschlossen oder die Rechtshandlung vorgenommen worden ist, oder
 
-2.
+2. gegen ein rechtskräftiges Urteil herleiten, das zwischen einem der Ehegatten und dem Dritten ergangen ist, wenn der Rechtsstreit vor dem 1. Januar 2028 rechtshängig geworden ist.
 
 (2) Haben die Ehegatten Gütergemeinschaft vereinbart und dies in das Güterrechtsregister eintragen lassen, kann jeder Ehegatte ab dem 1. Januar 2023 verlangen, dass die vertragliche Regelung wegen Wegfalls des Güterrechtsregisters nach den Grundsätzen des § 313 des Bürgerlichen Gesetzbuchs angepasst wird.
 
 (3) Wird eine bestehende Eintragung in dem Register in der Zeit vom 1. Januar 2023 bis 31. Dezember 2027 unrichtig oder verlegen beide Ehegatten in diesem Zeitraum ihren gewöhnlichen Aufenthalt in einen anderen Registerbezirk, so verliert die Eintragung ihre Wirkung. Eine nach Satz 1 unwirksame Eintragung ist auf Antrag eines Ehegatten zu löschen; die folgenden Vorschriften sind in der bis einschließlich 31. Dezember 2022 geltenden Fassung entsprechend anzuwenden:
 
-1.
+1. die §§ 1558 und 1560 des Bürgerlichen Gesetzbuchs,
 
-2.
+2. die auf der Grundlage des § 1558 Absatz 2 des Bürgerlichen Gesetzbuchs erlassenen Rechtsverordnungen,
 
-3.
+3. das Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit und
 
-4.
+4. § 3 Nummer 1 Buchstabe e des Rechtspflegergesetzes.
 
 (4) Bis zum 31. Dezember 2037 ist jedem die Einsicht in das Register gestattet. Von den Eintragungen kann eine Abschrift angefordert werden. Die Abschrift ist auf Verlangen zu beglaubigen.
 
@@ -1744,19 +1699,19 @@ Auf ein Schuldverhältnis, das vor dem 15. Dezember 2023 entstanden ist, ist § 
 
 ### § 67 — Überleitungsvorschrift zum Gesetz zur Änderung des Ehenamens- und Geburtsnamensrechts und des Internationalen Namensrechts
 
-(1) Ehegatten, die am 1. Mai 2025 bereits einen Ehenamen führen, können In den Fällen des Satzes 1 Nummer 2 können Ehegatten den Geburtsnamen ihrer minderjährigen Kinder nach Absatz 2 neu bestimmen. Ein volljähriges Kind kann seinen Geburtsnamen entsprechend § 1617d Absatz 3 Satz 1 Nummer 2, Satz 2 des Bürgerlichen Gesetzbuchs neu bestimmen; § 1617c Absatz 3 gilt entsprechend.
+(1) Ehegatten, die am 1. Mai 2025 bereits einen Ehenamen führen, können
 
-1.
+1. ihren Ehenamen durch Wahl eines aus den Namen beider Ehegatten gebildeten Doppelnamens nach § 1355 Absatz 2 Satz 1 Nummer 3 in Verbindung mit Satz 2, Absatz 3 Nummer 2, Absatz 4 Satz 2 des Bürgerlichen Gesetzbuchs neu bestimmen oder
 
-2.
+2. die Bestimmung des Ehenamens durch Erklärung gegenüber dem Standesamt, die öffentlich zu beglaubigen ist, widerrufen.
 
 (2) Der Geburtsname vor dem 1. Mai 2025 geborener minderjähriger Kinder von Eltern ohne Ehenamen kann durch Wahl eines aus den Namen beider Elternteile gebildeten Doppelnamens nach § 1617 Absatz 1 Satz 1 Nummer 2 in Verbindung mit Satz 2, Absatz 2 Nummer 2, Absatz 3 und 5 des Bürgerlichen Gesetzbuchs, auch in Verbindung mit den §§ 1617a und 1617b des Bürgerlichen Gesetzbuchs, neu bestimmt werden. Hat das Kind das fünfte Lebensjahr vollendet, so bedarf die Neubestimmung seines Geburtsnamens seiner Einwilligung. Für die Einwilligung gilt § 1617c Absatz 1 Satz 2 und 3 des Bürgerlichen Gesetzbuchs entsprechend.
 
 (3) § 1617e Absatz 4 des Bürgerlichen Gesetzbuchs ist auf Kinder anzuwenden, die
 
-1.
+1. vor dem 1. Mai 2025 nach § 1618 des Bürgerlichen Gesetzbuchs oder vor dem 1. Juli 1970 nach § 1706 des Bürgerlichen Gesetzbuchs in den jeweils geltenden Fassungen einbenannt wurden oder
 
-2.
+2. vor dem 2. Oktober 1990 nach § 65 des Familiengesetzbuchs der Deutschen Demokratischen Republik vom 20. Dezember 1965 (GBl. 1966 I Nr. 1 S. 1) in der jeweils geltenden Fassung einbenannt wurden.
 
 (4) Der Geburtsname vor dem 1. Mai 2025 geborener minderjähriger Kinder, die der friesischen Volksgruppe oder der dänischen Minderheit angehören, kann nach den §§ 1617g und 1617h des Bürgerlichen Gesetzbuchs neu bestimmt werden. Absatz 2 Satz 2 und 3 gilt entsprechend.
 
@@ -1849,13 +1804,13 @@ Die §§ 31 und 89 des Bürgerlichen Gesetzbuchs sind nur auf solche Handlungen 
 
 (2) Rechtsgeschäfte und Rechtshandlungen, die der Vertreter einer Kommune zwischen dem 17. Mai 1990 und dem 3. Oktober 1990 namens des früheren Rates der betreffenden Kommune mit Vertretungsmacht vorgenommen hat, gelten als Rechtsgeschäfte und Rechtshandlungen der Kommune, die an die Stelle des früheren Rates der Kommune getreten ist. Die Vertretungsmacht des Vertreters der Kommune wird widerleglich vermutet, wenn die Kommune innerhalb eines Monats von dem Eingang einer Anzeige des Grundbuchamts von einer beabsichtigten Eintragung an keinen Widerspruch erhebt. Der Widerspruch der Kommune ist nur zu beachten, wenn er darauf gestützt wird, daß
 
-1.
+1. die für den früheren Rat handelnde Person als gesetzlicher Vertreter oder dessen Stellvertreter nach § 81 Satz 2 oder 3 des Gesetzes über die örtlichen Volksvertretungen vom 4. Juli 1985 (GBl. I Nr. 18 S. 213) auftrat, nachdem eine andere Person nach der Kommunalverfassung vom 17. Mai 1990 (GBl. I Nr. 28 S. 255) zum vertretungsbefugten Bürgermeister oder Landrat gewählt worden war und ihr Amt angetreten hatte,
 
-2.
+2. eine rechtsgeschäftlich erteilte Vollmacht widerrufen worden oder durch Zeitablauf erloschen war,
 
-3.
+3. die Gebietskörperschaft innerhalb von 2 Monaten nach Kenntnis des von einer Person abgeschlossenen Rechtsgeschäftes, die zum Zeitpunkt des Abschlusses Mitarbeiter der Verwaltung war, gegenüber dem Käufer erklärt hat, das im einzelnen bezeichnete Rechtsgeschäft nicht erfüllen zu wollen, oder
 
-4.
+4. das Rechtsgeschäft von einer Person abgeschlossen wurde, die nicht oder nicht mehr Mitarbeiter der Kommunalverwaltung war.
 
 ### § 9 — Heilung unwirksamer Vermögensübertragungen
 
@@ -1863,23 +1818,9 @@ Die §§ 31 und 89 des Bürgerlichen Gesetzbuchs sind nur auf solche Handlungen 
 
 (2) Im Sinne des Absatzes 1 Satz 1 sind:
 
-1.
+1. Betriebe der kommunalen Wohnungswirtschaft:a)ehemals volkseigene Betriebe Kommunale Wohnungsverwaltung,b)ehemals volkseigene Betriebe Gebäudewirtschaft oderc)aus solchen Betrieben hervorgegangene kommunale Regie- oder Eigenbetriebe; ehemals volkseigene Betriebe Kommunale Wohnungsverwaltung, ehemals volkseigene Betriebe Gebäudewirtschaft oder aus solchen Betrieben hervorgegangene kommunale Regie- oder Eigenbetriebe;
 
-a)
-
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
+2. Umwandlungsvorschriften:a)die Verordnung zur Umwandlung von volkseigenen Kombinaten, Betrieben und Einrichtungen in Kapitalgesellschaften vom 1. März 1990 (GBl. I Nr. 14 S. 107),b)das Treuhandgesetz,c)das Gesetz über die Umwandlung volkseigener Wohnungswirtschaftsbetriebe in gemeinnützige Wohnungsbaugesellschaften und zur Übertragung des Grundeigentums an die Wohnungsgenossenschaften vom 22. Juli 1990 (GBl. I Nr. 49 S. 901) oderd)das Umwandlungsgesetz in der Fassung der Bekanntmachung vom 6. November 1969 (BGBl. I S. 2081). die Verordnung zur Umwandlung von volkseigenen Kombinaten, Betrieben und Einrichtungen in Kapitalgesellschaften vom 1. März 1990 (GBl. I Nr. 14 S. 107), das Treuhandgesetz, das Gesetz über die Umwandlung volkseigener Wohnungswirtschaftsbetriebe in gemeinnützige Wohnungsbaugesellschaften und zur Übertragung des Grundeigentums an die Wohnungsgenossenschaften vom 22. Juli 1990 (GBl. I Nr. 49 S. 901) oder das Umwandlungsgesetz in der Fassung der Bekanntmachung vom 6. November 1969 (BGBl. I S. 2081).
 
 (3) Durch einen solchen Bescheid kann auch ein durch die Umwandlung eines der in Absatz 1 Satz 1 bezeichneten Unternehmen eingetretener Übergang ehemals volkseigenen Vermögens geändert werden.
 
@@ -1947,9 +1888,9 @@ Mietverhältnisse aufgrund von Verträgen, die vor dem Wirksamwerden des Beitrit
 
 (2) § 613a des Bürgerlichen Gesetzbuchs ist in dem in Artikel 3 des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885) genannten Gebiet vom Tage des Inkrafttretens dieses Gesetzes bis zum 31. Dezember 1998 mit folgenden Maßgaben anzuwenden:
 
-1.
+1. Innerhalb des bezeichneten Zeitraums ist auf eine Betriebsübertragung im Gesamtvollstreckungsverfahren § 613a des Bürgerlichen Gesetzbuchs nicht anzuwenden.
 
-2.
+2. Anstelle des Absatzes 4 Satz 2 gilt folgende Vorschrift: "Satz 1 läßt das Recht zur Kündigung aus wirtschaftlichen, technischen oder organisatorischen Gründen, die Änderungen im Bereich der Beschäftigung mit sich bringen, unberührt."
 
 ### § 6 — Verträge über wiederkehrende Dienstleistungen
 
@@ -1987,15 +1928,15 @@ Auf ein am Tag des Wirksamwerdens des Beitritts bestehendes Besitzverhältnis fi
 
 ### § 2a — Moratorium
 
-(1) Als zum Besitz eines in dem in Artikel 3 des Einigungsvertrages genannten Gebiet belegenen Grundstücks berechtigt gelten unbeschadet bestehender Nutzungsrechte und günstigerer Vereinbarungen und Regelungen: Das Recht nach Satz 1 besteht bis zur Bereinigung der genannten Rechtsverhältnisse durch besonderes Gesetz längstens bis zum Ablauf des 31. Dezember 1994; die Frist kann durch Rechtsverordnung des Bundesministers der Justiz und für Verbraucherschutz einmal verlängert werden. In den in § 3 Abs. 3 und den §§ 4 und 121 des Sachenrechtsbereinigungsgesetzes bezeichneten Fällen besteht das in Satz 1 bezeichnete Recht zum Besitz bis zur Bereinigung dieser Rechtsverhältnisse nach jenem Gesetz fort. Für die Zeit vom 22. Juli 1992 bis 31. März 1995 kann der jeweilige Grundstückseigentümer vom jeweiligen Nutzer ein Entgelt in Höhe des nach § 51 Abs. 1 Satz 2 Nr. 1, §§ 43, 45 des Sachenrechtsbereinigungsgesetzes zu zahlenden Erbbauzinses verlangen, für die Zeit ab 1. Januar 1995 jedoch nur, wenn er kein Entgelt nach Satz 8 verlangen kann. Für die Zeit vom 1. Januar 1995 bis zum 31. März 1995 kann der Grundstückseigentümer das Entgelt nach Satz 4 nicht verlangen, wenn er sich in einem bis zum 31. März 1995 eingeleiteten notariellen Vermittlungsverfahren nach den §§ 87 bis 102 des Sachenrechtsbereinigungsgesetzes oder Bodenordnungsverfahren nach dem Achten Abschnitt des Landwirtschaftsanpassungsgesetzes nicht unverzüglich auf eine Verhandlung zur Begründung dinglicher Rechte oder eine Übereignung eingelassen hat. Für die Bestimmung des Entgeltes sind der Bodenwert und der Restwert eines überlassenen Gebäudes zum 22. Juli 1992 maßgebend. Der Anspruch nach Satz 4 verjährt in zwei Jahren vom 8. November 2000 an. Der Grundstückseigentümer kann vom 1. Januar 1995 an vom Nutzer ein Entgelt bis zur Höhe des nach dem Sachenrechtsbereinigungsgesetz zu zahlenden Erbbauzinses verlangen, wenn ein Verfahren zur Bodenneuordnung nach dem Bodensonderungsgesetz eingeleitet wird, er ein notarielles Vermittlungsverfahren nach den §§ 87 bis 102 des Sachenrechtsbereinigungsgesetzes oder ein Bodenordnungsverfahren nach dem Achten Abschnitt des Landwirtschaftsanpassungsgesetzes beantragt oder sich in den Verfahren auf eine Verhandlung zur Begründung dinglicher Rechte oder eine Übereignung eingelassen hat. Vertragliche oder gesetzliche Regelungen, die ein abweichendes Nutzungsentgelt oder einen früheren Beginn der Zahlungspflicht begründen, bleiben unberührt. Umfang und Inhalt des Rechts bestimmen sich im übrigen nach der bisherigen Ausübung. In den Fällen des § 20b Abs. 3 des Parteiengesetzes vom 21. Februar 1990 (GBl. I Nr. 9 S. 66), das zuletzt durch Artikel 1 des Gesetzes vom 19. Dezember 2006 (BGBl. I S. 3230) geändert worden ist, kann das Recht nach Satz 1 allein von der Bundesanstalt für vereinigungsbedingte Sonderaufgaben oder deren Rechtsnachfolger geltend gemacht werden.
+(1) Als zum Besitz eines in dem in Artikel 3 des Einigungsvertrages genannten Gebiet belegenen Grundstücks berechtigt gelten unbeschadet bestehender Nutzungsrechte und günstigerer Vereinbarungen und Regelungen:
 
-a)
+a) wer das Grundstück bis zum Ablauf des 2. Oktober 1990 aufgrund einer bestandskräftigen Baugenehmigung oder sonst entsprechend den Rechtsvorschriften mit Billigung staatlicher oder gesellschaftlicher Organe mit Gebäuden oder Anlagen bebaut oder zu bebauen begonnen hat und bei Inkrafttreten dieser Vorschrift selbst nutzt,
 
-b)
+b) Genossenschaften und ehemals volkseigene Betriebe der Wohnungswirtschaft, denen vor dem 3. Oktober 1990 aufgrund einer bestandskräftigen Baugenehmigung oder sonst entsprechend den Rechtsvorschriften mit Billigung staatlicher oder gesellschaftlicher Organe errichtete Gebäude und dazugehörige Grundstücksflächen und -teilflächen zur Nutzung sowie selbständigen Bewirtschaftung und Verwaltung übertragen worden waren und von diesen oder ihren Rechtsnachfolgern genutzt werden,
 
-c)
+c) wer über ein bei Abschluß des Vertrages bereits mit einem Wohnhaus bebautes Grundstück, das bis dahin unter staatlicher oder treuhänderischer Verwaltung gestanden hat, einen Überlassungsvertrag geschlossen hat, sowie diejenigen, die mit diesem einen gemeinsamen Hausstand führen,
 
-d)
+d) wer ein auf einem Grundstück errichtetes Gebäude gekauft oder den Kauf beantragt hat.
 
 (2) Das Recht zum Besitz nach Absatz 1 wird durch eine Übertragung oder einen Übergang des Eigentums oder eine sonstige Verfügung über das Grundstück nicht berührt. Das Recht kann übertragen werden; die Übertragung ist gegenüber dem Grundstückseigentümer nur wirksam, wenn sie diesem vom Veräußerer angezeigt wird.
 
@@ -2005,17 +1946,13 @@ d)
 
 (5) Das Vermögensgesetz, § 20b Abs. 3 des Parteiengesetzes vom 21. Februar 1990 (GBl. I Nr. 9 S. 66), das zuletzt durch Artikel 1 des Gesetzes vom 19. Dezember 2006 (BGBl. I S. 3230) geändert worden ist, sowie Verfahren nach dem Achten Abschnitt des Landwirtschaftsanpassungsgesetzes bleiben unberührt.
 
-(6) Bestehende Rechte des gemäß Absatz 1 Berechtigten werden nicht berührt. In Ansehung der Nutzung des Grundstücks getroffene Vereinbarungen bleiben außer in den Fällen des Absatzes 1 Satz 1 Buchstabe c unberührt. Sie sind in allen Fällen auch weiterhin möglich. Das Recht nach Absatz 1 kann ohne Einhaltung einer Frist durch einseitige Erklärung des Grundeigentümers beendet werden, wenn In den Fällen des Satzes 4 Buchstabe a und c ist § 1000 des Bürgerlichen Gesetzbuchs nicht anzuwenden. Das Recht zum Besitz nach dieser Vorschrift erlischt, wenn eine Vereinbarung nach den Sätzen 2 und 3 durch den Nutzer gekündigt wird.
+(6) Bestehende Rechte des gemäß Absatz 1 Berechtigten werden nicht berührt. In Ansehung der Nutzung des Grundstücks getroffene Vereinbarungen bleiben außer in den Fällen des Absatzes 1 Satz 1 Buchstabe c unberührt. Sie sind in allen Fällen auch weiterhin möglich. Das Recht nach Absatz 1 kann ohne Einhaltung einer Frist durch einseitige Erklärung des Grundeigentümers beendet werden, wenn
 
-a)
+a) der Nutzeraa)im Sinne der §§ 20a und 20b des Parteiengesetzes der Deutschen Demokratischen Republik eine Massenorganisation, eine Partei, eine ihr verbundene Organisation oder eine juristische Person ist und die treuhänderische Verwaltung über den betreffenden Vermögenswert beendet worden ist oderbb)dem Bereich der Kommerziellen Koordinierung zuzuordnen ist oder im Sinne der §§ 20a und 20b des Parteiengesetzes der Deutschen Demokratischen Republik eine Massenorganisation, eine Partei, eine ihr verbundene Organisation oder eine juristische Person ist und die treuhänderische Verwaltung über den betreffenden Vermögenswert beendet worden ist oder dem Bereich der Kommerziellen Koordinierung zuzuordnen ist oder
 
-aa)
+b) die Rechtsverhältnisse des Nutzers an dem fraglichen Grund und Boden Gegenstand eines gerichtlichen Strafverfahrens gegen den Nutzer sind oder
 
-bb)
-
-b)
-
-c)
+c) es sich um ein ehemals volkseigenes Grundstück handelt und seine Nutzung am 2. Oktober 1990 auf einer Rechtsträgerschaft beruhte, es sei denn, der Nutzer ist eine landwirtschaftliche Produktionsgenossenschaft, ein ehemals volkseigener Betrieb der Wohnungswirtschaft, eine Arbeiter-Wohnungsbaugenossenschaft oder eine gemeinnützige Wohnungsgenossenschaft oder deren jeweiliger Rechtsnachfolger.
 
 (7) Die vorstehenden Regelungen gelten nicht für Nutzungen zur Erholung, Freizeitgestaltung oder zu ähnlichen persönlichen Bedürfnissen einschließlich der Nutzung innerhalb von Kleingartenanlagen. Ein Miet- oder Pachtvertrag ist nicht als Überlassungsvertrag anzusehen.
 
@@ -2060,8 +1997,6 @@ c)
 (1) Für das Gebäudeeigentum nach § 288 Abs. 4 oder § 292 Abs. 3 des Zivilgesetzbuchs der Deutschen Demokratischen Republik gelten von dem Wirksamwerden des Beitritts an die sich auf Grundstücke beziehenden Vorschriften des Bürgerlichen Gesetzbuchs mit Ausnahme der §§ 927 und 928 entsprechend. Vor der Anlegung eines Gebäudegrundbuchblatts ist das dem Gebäudeeigentum zugrundeliegende Nutzungsrecht von Amts wegen im Grundbuch des belasteten Grundstücks einzutragen. Der Erwerb eines selbständigen Gebäudeeigentums oder eines dinglichen Rechts am Gebäude der in Satz 1 genannten Art aufgrund der Vorschriften über den öffentlichen Glauben des Grundbuchs ist nur möglich, wenn auch das zugrundeliegende Nutzungsrecht bei dem belasteten Grundstück eingetragen ist.
 
 (2) Ein Nutzungsrecht nach den §§ 287 bis 294 des Zivilgesetzbuchs der Deutschen Demokratischen Republik, das nicht im Grundbuch des belasteten Grundstücks eingetragen ist, wird durch die Vorschriften des Bürgerlichen Gesetzbuchs über den öffentlichen Glauben des Grundbuchs nicht beeinträchtigt, wenn ein aufgrund des Nutzungsrechts zulässiges Eigenheim oder sonstiges Gebäude in dem für den öffentlichen Glauben maßgebenden Zeitpunkt ganz oder teilweise errichtet ist und der dem Erwerb zugrundeliegende Eintragungsantrag vor dem 1. Januar 2001 gestellt worden ist. Der Erwerber des Eigentums oder eines sonstigen Rechts an dem belasteten Grundstück kann in diesem Fall die Aufhebung oder Änderung des Nutzungsrechts gegen Ausgleich der dem Nutzungsberechtigten dadurch entstehenden Vermögensnachteile verlangen, wenn das Nutzungsrecht für ihn mit Nachteilen verbunden ist, welche erheblich größer sind als der dem Nutzungsberechtigten durch die Aufhebung oder Änderung seines Rechts entstehende Schaden; dies gilt nicht, wenn er beim Erwerb des Eigentums oder sonstigen Rechts in dem für den öffentlichen Glauben des Grundbuchs maßgeblichen Zeitpunkt das Vorhandensein des Nutzungsrechts kannte.
-
-(3) Der Untergang des Gebäudes läßt den Bestand des Nutzungsrechts unberührt. Aufgrund des Nutzungsrechts kann ein neues Gebäude errichtet werden; Belastungen des Gebäudeeigentums setzen sich an dem Nutzungsrecht und dem neu errichteten Gebäude fort. Ist ein Nutzungsrecht nur auf die Gebäudegrundfläche verliehen worden, so umfaßt das Nutzungsrecht auch die Nutzung des Grundstücks in dem für Gebäude der errichteten Art zweckentsprechenden ortsüblichen Umfang, bei Eigenheimen nicht mehr als eine Fläche von 500 qm. Auf Antrag ist das Grundbuch entsprechend zu berichtigen. Absatz 2 gilt entsprechend.
 
 (4) Besteht am Gebäude selbständiges Eigentum nach § 288 Abs. 4 und § 292 Abs. 3 des Zivilgesetzbuchs der Deutschen Demokratischen Republik, so bleibt bei bis zum Ablauf des 31. Dezember 2000 angeordneten Zwangsversteigerungen ein nach jenem Recht begründetes Nutzungsrecht am Grundstück bei dessen Versteigerung auch dann bestehen, wenn es bei der Feststellung des geringsten Gebots nicht berücksichtigt ist.
 
@@ -2123,11 +2058,11 @@ Soweit Rechtsverhältnisse und Ansprüche aufgrund des früheren § 459 des Zivi
 
 (1) Eigentümer eines Grundstücks, das im Grundbuch als Grundstück aus der Bodenreform gekennzeichnet ist oder war, ist der aus einem bestätigten Übergabe-Übernahme-Protokoll oder einer Entscheidung über einen Besitzwechsel nach der (Ersten) Verordnung über die Durchführung des Besitzwechsels bei Bodenreformgrundstücken vom 7. August 1975 (GBl. I Nr. 35 S. 629) in der Fassung der Zweiten Verordnung über die Durchführung des Besitzwechsels bei Bodenreformgrundstücken vom 7. Januar 1988 (GBl. I Nr. 3 S. 25) Begünstigte, wenn vor dem Ablauf des 2. Oktober 1990 bei dem Grundbuchamt ein nicht erledigtes Ersuchen oder ein nicht erledigter Antrag auf Vornahme der Eintragung eingegangen ist. Grundstücke aus der Bodenreform, die in Volkseigentum überführt worden sind, sind nach der Dritten Durchführungsverordnung zum Treuhandgesetz vom 29. August 1990 (GBl. I Nr. 57 S. 1333) zu behandeln, wenn vor dem Ablauf des 2. Oktober 1990 ein Ersuchen oder ein Antrag auf Eintragung als Eigentum des Volkes bei dem Grundbuchamt eingegangen ist.
 
-(2) Das Eigentum an einem anderen als den in Absatz 1 bezeichneten Grundstücken, das im Grundbuch als Grundstück aus der Bodenreform gekennzeichnet ist oder war, wird mit dem Inkrafttreten dieser Vorschriften übertragen, Auf die Gemeinschaft sind die Vorschriften des Fünfzehnten Titels des Zweiten Buchs des Bürgerlichen Gesetzbuchs anzuwenden, die Bruchteile bestimmen sich jedoch nach den Erbteilen, sofern nicht die Teilhaber übereinstimmend eine andere Aufteilung der Bruchteile bewilligen.
+(2) Das Eigentum an einem anderen als den in Absatz 1 bezeichneten Grundstücken, das im Grundbuch als Grundstück aus der Bodenreform gekennzeichnet ist oder war, wird mit dem Inkrafttreten dieser Vorschriften übertragen,
 
-1.
+1. wenn bei Ablauf des 15. März 1990 eine noch lebende natürliche Person als Eigentümer eingetragen war, dieser Person,
 
-2.
+2. wenn bei Ablauf des 15. März 1990 eine verstorbene natürliche Person als Eigentümer eingetragen war oder die in Nummer 1 genannte Person nach dem 15. März 1990 verstorben ist, derjenigen Person, die sein Erbe ist, oder einer Gemeinschaft, die aus den Erben des zuletzt im Grundbuch eingetragenen Eigentümers gebildet wird.
 
 (3) Der nach § 12 Berechtigte kann von demjenigen, dem das Eigentum an einem Grundstück aus der Bodenreform nach Absatz 2 übertragen worden ist, Zug um Zug gegen Übernahme der Verbindlichkeiten nach § 15 Abs. 1 Satz 2 die unentgeltliche Auflassung des Grundstücks verlangen. Die Übertragung ist gebührenfrei. Jeder Beteiligte trägt seine Auslagen selbst; die Kosten einer Beurkundung von Rechtsgeschäften, zu denen der Eigentümer nach Satz 1 verpflichtet ist, trägt der Berechtigte. Als Ersatz für die Auflassung kann der Berechtigte auch Zahlung des Verkehrswertes des Grundstücks verlangen; maßgeblich ist der Zeitpunkt des Verlangens. Der Anspruch nach Satz 4 kann nur geltend gemacht werden, wenn der Eigentümer zur Zahlung aufgefordert worden ist und nicht innerhalb von 2 Wochen von dem Eingang der Zahlungsaufforderung an darauf bestanden hat, den Anspruch durch Auflassung des Grundstücks erfüllen zu können.
 
@@ -2135,39 +2070,25 @@ Soweit Rechtsverhältnisse und Ansprüche aufgrund des früheren § 459 des Zivi
 
 (5) Ist die in Absatz 1 Satz 1 oder in Absatz 2 Satz 1 bezeichnete Person in dem maßgeblichen Zeitpunkt verheiratet und unterlag die Ehe vor dem Wirksamwerden des Beitritts dem gesetzlichen Güterstand der Eigentums- und Vermögensgemeinschaft des Familiengesetzbuchs der Deutschen Demokratischen Republik, so sind diese Person und ihr Ehegatte zu gleichen Bruchteilen Eigentümer, wenn der Ehegatte den 22. Juli 1992 erlebt hat. Maßgeblich ist
 
-1.
+1. in den Fällen des Absatzes 1 Satz 1 der Zeitpunkt der Bestätigung des Übergabe-Übernahme-Protokolls oder der Entscheidung,
 
-2.
+2. in den Fällen des Absatzes 2 Satz 1 Nr. 1 und 2 Fall 2 der Ablauf des 15. März 1990 und
 
-3.
+3. in den Fällen des Absatzes 2 Nr. 2 Fall 1 der Tod der als Eigentümer eingetragenen Person.
 
 ### § 12 — Berechtigter
 
 (1) Berechtigter ist in den Fällen des § 11 Abs. 2 Satz 1 Nr. 1 und Nr. 2 Fall 2 in nachfolgender Reihenfolge:
 
-1.
+1. diejenige Person, der das Grundstück oder der Grundstücksteil nach den Vorschriften über die Bodenreform oder den Besitzwechsel bei Grundstücken aus der Bodenreform förmlich zugewiesen oder übergeben worden ist, auch wenn der Besitzwechsel nicht im Grundbuch eingetragen worden ist,
 
-2.
+2. diejenige Person, die das Grundstück oder den Grundstücksteil auf Veranlassung einer staatlichen Stelle oder mit deren ausdrücklicher Billigung wie ein Eigentümer in Besitz genommen, den Besitzwechsel beantragt hat und zuteilungsfähig ist, sofern es sich um Häuser und die dazu gehörenden Gärten handelt.
 
 (2) Berechtigter ist in den Fällen des § 11 Abs. 2 Satz 1 Nr. 2 Fall 1 in nachfolgender Reihenfolge:
 
-1.
+1. bei nicht im wesentlichen gewerblich genutzten, zum Ablauf des 15. März 1990 noch vorhandenen Häusern und den dazugehörenden Gärtena)diejenige Person, der das Grundstück oder der Grundstücksteil, auf dem sie sich befinden, nach den Vorschriften über die Bodenreform oder den Besitzwechsel bei Grundstücken aus der Bodenreform förmlich zugewiesen oder übergeben worden ist, auch wenn der Besitzwechsel nicht im Grundbuch eingetragen worden ist,b)diejenige Person, die das Grundstück oder den Grundstücksteil, auf dem sie sich befinden, auf Veranlassung einer staatlichen Stelle oder mit deren ausdrücklicher Billigung wie ein Eigentümer in Besitz genommen, den Besitzwechsel beantragt hat und zuteilungsfähig ist,c)der Erbe des zuletzt im Grundbuch aufgrund einer Entscheidung nach den Vorschriften über die Bodenreform oder über die Durchführung des Besitzwechsels eingetragenen Eigentümers, der das Haus am Ende des 15. März 1990 bewohnte,d)abweichend von den Vorschriften der Dritten Durchführungsverordnung zum Treuhandgesetz vom 29. August 1990 (GBl. I Nr. 57 S. 1333) der Fiskus des Landes, in dem das Hausgrundstück liegt, wenn dieses am 15. März 1990 weder zu Wohnzwecken noch zu gewerblichen Zwecken genutzt wurde. diejenige Person, der das Grundstück oder der Grundstücksteil, auf dem sie sich befinden, nach den Vorschriften über die Bodenreform oder den Besitzwechsel bei Grundstücken aus der Bodenreform förmlich zugewiesen oder übergeben worden ist, auch wenn der Besitzwechsel nicht im Grundbuch eingetragen worden ist, diejenige Person, die das Grundstück oder den Grundstücksteil, auf dem sie sich befinden, auf Veranlassung einer staatlichen Stelle oder mit deren ausdrücklicher Billigung wie ein Eigentümer in Besitz genommen, den Besitzwechsel beantragt hat und zuteilungsfähig ist, der Erbe des zuletzt im Grundbuch aufgrund einer Entscheidung nach den Vorschriften über die Bodenreform oder über die Durchführung des Besitzwechsels eingetragenen Eigentümers, der das Haus am Ende des 15. März 1990 bewohnte, abweichend von den Vorschriften der Dritten Durchführungsverordnung zum Treuhandgesetz vom 29. August 1990 (GBl. I Nr. 57 S. 1333) der Fiskus des Landes, in dem das Hausgrundstück liegt, wenn dieses am 15. März 1990 weder zu Wohnzwecken noch zu gewerblichen Zwecken genutzt wurde.
 
-a)
-
-b)
-
-c)
-
-d)
-
-2.
-
-a)
-
-b)
-
-c)
+2. bei für die Land- oder Forstwirtschaft genutzten Grundstücken (Schlägen)a)diejenige Person, der das Grundstück oder der Grundstücksteil nach den Vorschriften über die Bodenreform oder den Besitzwechsel bei Grundstücken aus der Bodenreform förmlich zugewiesen oder übergeben worden ist, auch wenn der Besitzwechsel nicht im Grundbuch eingetragen worden ist,b)der Erbe des zuletzt im Grundbuch aufgrund einer Entscheidung nach den Vorschriften über die Bodenreform oder über die Durchführung des Besitzwechsels eingetragenen Eigentümers, der zuteilungsfähig ist,c)abweichend von den Vorschriften der Dritten Durchführungsverordnung zum Treuhandgesetz der Fiskus des Landes, in dem das Grundstück liegt. diejenige Person, der das Grundstück oder der Grundstücksteil nach den Vorschriften über die Bodenreform oder den Besitzwechsel bei Grundstücken aus der Bodenreform förmlich zugewiesen oder übergeben worden ist, auch wenn der Besitzwechsel nicht im Grundbuch eingetragen worden ist, der Erbe des zuletzt im Grundbuch aufgrund einer Entscheidung nach den Vorschriften über die Bodenreform oder über die Durchführung des Besitzwechsels eingetragenen Eigentümers, der zuteilungsfähig ist, abweichend von den Vorschriften der Dritten Durchführungsverordnung zum Treuhandgesetz der Fiskus des Landes, in dem das Grundstück liegt.
 
 (3) Zuteilungsfähig im Sinne der Absätze 1 und 2 ist, wer bei Ablauf des 15. März 1990 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet in der Land-, Forst- oder Nahrungsgüterwirtschaft tätig war oder wer vor Ablauf des 15. März 1990 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet in der Land-, Forst- oder Nahrungsgüterwirtschaft insgesamt mindestens zehn Jahre lang tätig war und im Anschluß an diese Tätigkeit keiner anderen Erwerbstätigkeit nachgegangen ist und einer solchen voraussichtlich auf Dauer nicht nachgehen wird.
 
@@ -2227,7 +2148,7 @@ Die Vorschriften über das Verlöbnis gelten nicht für Verlöbnisse, die vor de
 
 (5) Für Ehegatten, die vor dem Wirksamwerden des Beitritts geschieden worden sind, bleibt für die Auseinandersetzung des gemeinschaftlichen Eigentums und Vermögens und für die Entscheidung über die Ehewohnung das bisherige Recht maßgebend.
 
-(6) Für die Beurkundung der Erklärung nach Absatz 2 beträgt der Geschäftswert 3 000 Euro.
+(6) Für die Beurkundung der Erklärung nach Absatz 2 beträgt der Geschäftswert 3 000 Euro.
 
 ### § 4a — Gemeinschaftliches Eigentum
 
@@ -2245,11 +2166,11 @@ Für den Unterhaltsanspruch eines Ehegatten, dessen Ehe vor dem Wirksamwerden de
 
 (1) Für Ehegatten, die vor dem grundsätzlichen Inkrafttreten der versicherungs- und rentenrechtlichen Vorschriften des Sechsten Buches Sozialgesetzbuch - Gesetzliche Rentenversicherung - in dem in Artikel 3 des Einigungsvertrages genannten Gebiet geschieden worden sind oder geschieden werden, gilt das Recht des Versorgungsausgleichs nicht. Wird die Ehe nach diesem Zeitpunkt geschieden, findet der Versorgungsausgleich insoweit nicht statt, als das auszugleichende Anrecht Gegenstand oder Grundlage einer vor dem Wirksamwerden des Beitritts geschlossenen wirksamen Vereinbarung oder gerichtlichen Entscheidung über die Vermögensverteilung war.
 
-(2) Absatz 1 gilt entsprechend in Bezug auf in der jeweils geltenden Fassung.
+(2) Absatz 1 gilt entsprechend in Bezug auf
 
-1.
+1. das Gesetz zur Regelung von Härten im Versorgungsausgleich vom 21. Februar 1983 (BGBl. I S. 105), zuletzt geändert durch Artikel 24 des Gesetzes vom 9. Dezember 2004 (BGBl. I S. 3242),
 
-2.
+2. die Barwert-Verordnung vom 24. Juni 1977 (BGBl. I S. 1014), zuletzt geändert durch die Verordnung vom 26. Mai 2003 (BGBl. I S. 728),
 
 ### § 7 — Abstammung
 
@@ -2281,13 +2202,13 @@ Die Frist nach § 1740e Abs. 1 Satz 1 des Bürgerlichen Gesetzbuchs beginnt nich
 
 (3) Ist ein Annahmeverhältnis vor dem Wirksamwerden des Beitritts ohne die Einwilligung des Kindes oder eines Elternteils begründet worden, so kann es aus diesem Grund nur aufgehoben werden, wenn die Einwilligung nach dem bisherigen Recht erforderlich war.
 
-(4) Ist ein Annahmeverhältnis vor dem Wirksamwerden des Beitritts begründet worden und war die Einwilligung eines Elternteils nach dem bisherigen Recht nicht erforderlich, weil so kann das Annahmeverhältnis gleichwohl auf Antrag dieses Elternteils aufgehoben werden. § 1761 des Bürgerlichen Gesetzbuchs gilt entsprechend.
+(4) Ist ein Annahmeverhältnis vor dem Wirksamwerden des Beitritts begründet worden und war die Einwilligung eines Elternteils nach dem bisherigen Recht nicht erforderlich, weil
 
-1.
+1. dieser Elternteil zur Abgabe einer Erklärung für eine nicht absehbare Zeit außerstande war,
 
-2.
+2. diesem Elternteil das Erziehungsrecht entzogen war oder
 
-3.
+3. der Aufenthalt dieses Elternteils nicht ermittelt werden konnte,
 
 (5) Ist ein Annahmeverhältnis vor dem Wirksamwerden des Beitritts begründet worden und ist die Einwilligung eines Elternteils ersetzt worden, so gilt Absatz 4 entsprechend.
 
@@ -2367,53 +2288,29 @@ Die güterrechtlichen Wirkungen von Ehen, die vor dem Wirksamwerden des Beitritt
 
 (1) Zur Erstellung eines qualifizierten Mietspiegels dürfen die nach Landesrecht zuständigen Behörden bezogen auf das Gebiet, für das der Mietspiegel erstellt werden soll, die bei der Verwaltung der Grundsteuer bekannt gewordenen Namen und Anschriften der Grundstückseigentümer von den für die Verwaltung der Grundsteuer zuständigen Behörden erheben und in sonstiger Weise verarbeiten.
 
-(2) Zur Erstellung eines qualifizierten Mietspiegels übermittelt die Meldebehörde der nach Landesrecht zuständigen Behörde bezogen auf das Gebiet, für das der Mietspiegel erstellt werden soll, auf Ersuchen die nachfolgenden Daten aller volljährigen Personen: Das Ersuchen kann nur alle zwei Jahre gestellt werden. Die nach Landesrecht zuständigen Behörden dürfen die in Satz 1 genannten Daten in dem zur Erstellung eines qualifizierten Mietspiegels erforderlichen Umfang erheben und in sonstiger Weise verarbeiten.
+(2) Zur Erstellung eines qualifizierten Mietspiegels übermittelt die Meldebehörde der nach Landesrecht zuständigen Behörde bezogen auf das Gebiet, für das der Mietspiegel erstellt werden soll, auf Ersuchen die nachfolgenden Daten aller volljährigen Personen:
 
-1.
+1. Familienname,
 
-2.
+2. Vornamen unter Kennzeichnung des gebräuchlichen Vornamens,
 
-3.
+3. derzeitige Anschriften im Zuständigkeitsbereich der Meldebehörde,
 
-4.
+4. Einzugsdaten sowie
 
-5.
+5. Namen und Anschriften der Wohnungsgeber.
 
 (3) Die in den Absätzen 1 und 2 Satz 1 genannten Daten dürfen auch von Stellen verarbeitet werden, die von der nach Landesrecht zuständigen Behörde damit beauftragt wurden, wenn die Datenverarbeitung auf der Grundlage einer Vereinbarung nach Artikel 28 Absatz 3 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) erfolgt.
 
 (4) Die nach Landesrecht zuständige Behörde und die in Absatz 3 bezeichneten Stellen haben die nach den Absätzen 1 und 2 erhobenen Daten unverzüglich zu löschen, sobald sie für die Erstellung des qualifizierten Mietspiegels nicht mehr erforderlich sind, es sei denn, sie werden für eine Anpassung mittels Stichprobe nach § 558d Absatz 2 Satz 2 des Bürgerlichen Gesetzbuchs benötigt. Die nach den Absätzen 1 und 2 erhobenen Daten sind spätestens drei Jahre nach ihrer Erhebung zu löschen.
 
-(5) Zur Erstellung eines qualifizierten Mietspiegels dürfen die Statistikstellen der Gemeinden und der Gemeindeverbände, sofern sie das Statistikgeheimnis gewährleisten, von den Statistischen Ämtern des Bundes und der Länder folgende Daten aus der Gebäude- und Wohnungszählung des Zensus, bezogen auf das Gebiet, für das der Mietspiegel erstellt werden soll, erheben und in sonstiger Weise verarbeiten: Die Statistikstellen der Gemeinden und Gemeindeverbände haben die nach Satz 1 Nummer 3 erhobenen Hilfsmerkmale zum frühestmöglichen Zeitpunkt, spätestens jedoch zwei Jahre nach Erhebung, zu löschen.
+(5) Zur Erstellung eines qualifizierten Mietspiegels dürfen die Statistikstellen der Gemeinden und der Gemeindeverbände, sofern sie das Statistikgeheimnis gewährleisten, von den Statistischen Ämtern des Bundes und der Länder folgende Daten aus der Gebäude- und Wohnungszählung des Zensus, bezogen auf das Gebiet, für das der Mietspiegel erstellt werden soll, erheben und in sonstiger Weise verarbeiten:
 
-1.
+1. Erhebungsmerkmale für Gebäude mit Wohnraum und bewohnte Unterkünfte: a)Gemeinde, Postleitzahl und amtlicher Gemeindeschlüssel,b)Art des Gebäudes,c)Eigentumsverhältnisse,d)Gebäudetyp,e)Baujahr,f)Heizungsart und Energieträger,g)Zahl der Wohnungen, Gemeinde, Postleitzahl und amtlicher Gemeindeschlüssel, Art des Gebäudes, Eigentumsverhältnisse, Gebäudetyp, Baujahr, Heizungsart und Energieträger, Zahl der Wohnungen,
 
-a)
+2. Erhebungsmerkmale für Wohnungen: a)Art der Nutzung,b)Leerstandsdauer,c)Fläche der Wohnung,d)Zahl der Räume,e)Nettokaltmiete, Art der Nutzung, Leerstandsdauer, Fläche der Wohnung, Zahl der Räume, Nettokaltmiete,
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-3.
+3. Hilfsmerkmale: Straße und Hausnummer der Wohnung.
 
 ### § 2 — Auskunftspflichten
 
@@ -2421,25 +2318,9 @@ e)
 
 (2) Zur Erstellung eines qualifizierten Mietspiegels und zu seiner Anpassung mittels Stichprobe sind Vermieter und Mieter von Wohnraum verpflichtet, der nach Landesrecht zuständigen Behörde auf Verlangen Auskunft über folgende Merkmale zu erteilen:
 
-1.
+1. Erhebungsmerkmale: a)Beginn des Mietverhältnisses,b)Zeitpunkt und Art der letzten Mieterhöhung mit Ausnahme von Erhöhungen nach § 560 des Bürgerlichen Gesetzbuchs,c)Festlegungen der Miethöhe durch Gesetz oder im Zusammenhang mit einer Förderzusage,d)Art der Miete und Miethöhe,e)Art, Größe, Ausstattung, Beschaffenheit und Lage des vermieteten Wohnraums einschließlich seiner energetischen Ausstattung und Beschaffenheit (§ 558 Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs),f)Vorliegen besonderer Umstände, die zu einer Ermäßigung der Miethöhe geführt haben, insbesondere Verwandtschaft zwischen Vermieter und Mieter, ein zwischen Vermieter und Mieter bestehendes Beschäftigungsverhältnis oder die Übernahme besonderer Pflichten durch den Mieter, Beginn des Mietverhältnisses, Zeitpunkt und Art der letzten Mieterhöhung mit Ausnahme von Erhöhungen nach § 560 des Bürgerlichen Gesetzbuchs, Festlegungen der Miethöhe durch Gesetz oder im Zusammenhang mit einer Förderzusage, Art der Miete und Miethöhe, Art, Größe, Ausstattung, Beschaffenheit und Lage des vermieteten Wohnraums einschließlich seiner energetischen Ausstattung und Beschaffenheit (§ 558 Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs), Vorliegen besonderer Umstände, die zu einer Ermäßigung der Miethöhe geführt haben, insbesondere Verwandtschaft zwischen Vermieter und Mieter, ein zwischen Vermieter und Mieter bestehendes Beschäftigungsverhältnis oder die Übernahme besonderer Pflichten durch den Mieter,
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-2.
-
-a)
-
-b)
+2. Hilfsmerkmale: a)Anschrift der Wohnung,b)Namen und Anschriften der Mieter und Vermieter. Anschrift der Wohnung, Namen und Anschriften der Mieter und Vermieter.
 
 (3) Die Auskunftspflichten nach den Absätzen 1 und 2 bestehen auch gegenüber Stellen, die von der nach Landesrecht zuständigen Behörde mit der Erstellung oder Anpassung eines qualifizierten Mietspiegels nach § 1 Absatz 3 beauftragt wurden.
 
@@ -2486,13 +2367,13 @@ Die Länder können durch Gesetz bestimmen, dass der Antrag auf Erteilung eines 
 
 (1) Als vorvertragliche Informationen nach § 482 Absatz 1 des Bürgerlichen Gesetzbuchs für den Abschluss eines Teilzeit-Wohnrechtevertrags, eines Vertrags über ein langfristiges Urlaubsprodukt, eines Vermittlungsvertrags oder eines Tauschsystemvertrags sind die Angaben nach den Anhängen der Richtlinie 2008/122/EG des Europäischen Parlaments und des Rates vom 14. Januar 2009 über den Schutz der Verbraucher im Hinblick auf bestimmte Aspekte von Teilzeitnutzungsverträgen, Verträgen über langfristige Urlaubsprodukte sowie Wiederverkaufs- und Tauschverträgen (ABl. L 33 vom 3.2.2009, S. 10) in leicht zugänglicher Form zur Verfügung zu stellen, und zwar
 
-1.
+1. für einen Teilzeit-Wohnrechtevertrag die Angaben nach Anhang I der Richtlinie,
 
-2.
+2. für einen Vertrag über ein langfristiges Urlaubsprodukt die Angaben nach Anhang II der Richtlinie,
 
-3.
+3. für einen Vermittlungsvertrag die Angaben nach Anhang III der Richtlinie,
 
-4.
+4. für einen Tauschsystemvertrag die Angaben nach Anhang IV der Richtlinie.
 
 (2) Die Angaben in den Teilen 1 und 2 der Anhänge nach Absatz 1 Nummer 1 bis 4 sind in einem Formblatt nach den in den Anhängen enthaltenen Mustern zur Verfügung zu stellen. Die Angaben nach Teil 3 des Anhangs können in das Formblatt aufgenommen oder auf andere Weise zur Verfügung gestellt werden. Werden sie nicht in das Formblatt aufgenommen, ist auf dem Formblatt darauf hinzuweisen, wo die Angaben zu finden sind.
 
@@ -2503,13 +2384,13 @@ Einem Teilzeit-Wohnrechtevertrag, einem Vertrag über ein langfristiges Urlaubsp
 ## Art 243: Ver- und Entsorgungsbedingungen
 
 
-Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung mit Zustimmung des Bundesrates die Allgemeinen Bedingungen für die Versorgung mit Wasser und Fernwärme sowie die Entsorgung von Abwasser einschließlich von Rahmenregelungen über die Entgelte ausgewogen gestalten und hierbei unter angemessener Berücksichtigung der beiderseitigen Interessen Satz 1 gilt entsprechend für Bedingungen öffentlich-rechtlich gestalteter Ver- und Entsorgungsverhältnisse mit Ausnahme der Regelung des Verwaltungsverfahrens.
+Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung mit Zustimmung des Bundesrates die Allgemeinen Bedingungen für die Versorgung mit Wasser und Fernwärme sowie die Entsorgung von Abwasser einschließlich von Rahmenregelungen über die Entgelte ausgewogen gestalten und hierbei unter angemessener Berücksichtigung der beiderseitigen Interessen
 
-1.
+1. die Bestimmungen der Verträge einheitlich festsetzen,
 
-2.
+2. Regelungen über den Vertragsschluss, den Gegenstand und die Beendigung der Verträge treffen sowie
 
-3.
+3. die Rechte und Pflichten der Vertragsparteien festlegen.
 
 ## Art 244: Abschlagszahlungen beim Hausbau
 
@@ -2521,123 +2402,123 @@ Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im
 
 (1) Der Unternehmer ist, sofern sich diese Informationen nicht aus den Umständen ergeben, nach § 312a Absatz 2 des Bürgerlichen Gesetzbuchs verpflichtet, dem Verbraucher vor Abgabe von dessen Vertragserklärung folgende Informationen in klarer und verständlicher Weise zur Verfügung zu stellen:
 
-1.
+1. die wesentlichen Eigenschaften der Waren oder Dienstleistungen in dem für den Datenträger und die Waren oder Dienstleistungen angemessenen Umfang,
 
-2.
+2. seine Identität, beispielsweise seinen Handelsnamen und die Anschrift des Ortes, an dem er niedergelassen ist, sowie seine Telefonnummer,
 
-3.
+3. den Gesamtpreis der Waren und Dienstleistungen einschließlich aller Steuern und Abgaben oder in den Fällen, in denen der Preis auf Grund der Beschaffenheit der Ware oder Dienstleistung vernünftigerweise nicht im Voraus berechnet werden kann, die Art der Preisberechnung sowie gegebenenfalls alle zusätzlichen Fracht-, Liefer- oder Versandkosten und alle sonstigen Kosten oder in den Fällen, in denen diese Kosten vernünftigerweise nicht im Voraus berechnet werden können, die Tatsache, dass solche zusätzlichen Kosten anfallen können,
 
-4.
+4. gegebenenfalls die Zahlungs-, Liefer- und Leistungsbedingungen, den Termin, bis zu dem sich der Unternehmer verpflichtet hat, die Waren zu liefern oder die Dienstleistungen zu erbringen, sowie das Verfahren des Unternehmers zum Umgang mit Beschwerden,
 
-5.
+5. das Bestehen eines gesetzlichen Mängelhaftungsrechts für die Waren oder die digitalen Produkte sowie gegebenenfalls das Bestehen und die Bedingungen von Kundendienstleistungen und Garantien,
 
-6.
+6. gegebenenfalls die Laufzeit des Vertrags oder die Bedingungen der Kündigung unbefristeter Verträge oder sich automatisch verlängernder Verträge,
 
-7.
+7. gegebenenfalls die Funktionalität der Waren mit digitalen Elementen oder der digitalen Produkte, einschließlich anwendbarer technischer Schutzmaßnahmen, und
 
-8.
+8. gegebenenfalls, soweit wesentlich, die Kompatibilität und die Interoperabilität der Waren mit digitalen Elementen oder der digitalen Produkte, soweit diese Informationen dem Unternehmer bekannt sind oder bekannt sein müssen.
 
 (2) Absatz 1 ist nicht anzuwenden auf Verträge, die Geschäfte des täglichen Lebens zum Gegenstand haben und bei Vertragsschluss sofort erfüllt werden.
 
 (3) Steht dem Verbraucher ein Widerrufsrecht zu, ist der Unternehmer verpflichtet, den Verbraucher in Textform über sein Widerrufsrecht zu belehren. Die Widerrufsbelehrung muss deutlich gestaltet sein und dem Verbraucher seine wesentlichen Rechte in einer dem benutzten Kommunikationsmittel angepassten Weise deutlich machen. Sie muss Folgendes enthalten:
 
-1.
+1. einen Hinweis auf das Recht zum Widerruf,
 
-2.
+2. einen Hinweis darauf, dass der Widerruf durch Erklärung gegenüber dem Unternehmer erfolgt und keiner Begründung bedarf,
 
-3.
+3. den Namen und die ladungsfähige Anschrift desjenigen, gegenüber dem der Widerruf zu erklären ist, und
 
-4.
+4. einen Hinweis auf Dauer und Beginn der Widerrufsfrist sowie darauf, dass zur Fristwahrung die rechtzeitige Absendung der Widerrufserklärung genügt.
 
 ## Art 246a: Informationspflichten bei außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen
 
 ### § 1 — Informationspflichten
 
-(1) Der Unternehmer ist nach § 312d Absatz 1 des Bürgerlichen Gesetzbuchs verpflichtet, dem Verbraucher folgende Informationen zur Verfügung zu stellen: Wird der Vertrag im Rahmen einer öffentlich zugänglichen Versteigerung geschlossen, können anstelle der Angaben nach Satz 1 Nummer 2 bis 4 die entsprechenden Angaben des Versteigerers zur Verfügung gestellt werden.
+(1) Der Unternehmer ist nach § 312d Absatz 1 des Bürgerlichen Gesetzbuchs verpflichtet, dem Verbraucher folgende Informationen zur Verfügung zu stellen:
 
-1.
+1. die wesentlichen Eigenschaften der Waren oder Dienstleistungen in dem für das Kommunikationsmittel und für die Waren und Dienstleistungen angemessenen Umfang,
 
-2.
+2. seine Identität, beispielsweise seinen Handelsnamen, sowie die Anschrift des Ortes, an dem er niedergelassen ist, sowie gegebenenfalls die Identität und die Anschrift des Unternehmers, in dessen Auftrag er handelt,
 
-3.
+3. seine Telefonnummer, seine E-Mail-Adresse sowie gegebenenfalls andere von ihm zur Verfügung gestellte Online-Kommunikationsmittel, sofern diese gewährleisten, dass der Verbraucher seine Korrespondenz mit dem Unternehmer, einschließlich deren Datums und deren Uhrzeit, auf einem dauerhaften Datenträger speichern kann,
 
-4.
+4. zusätzlich zu den Angaben gemäß den Nummern 2 und 3 die Geschäftsanschrift des Unternehmers und gegebenenfalls die Anschrift des Unternehmers, in dessen Auftrag er handelt, an die sich der Verbraucher mit jeder Beschwerde wenden kann, falls diese Anschrift von der Anschrift nach Nummer 2 abweicht,
 
-5.
+5. den Gesamtpreis der Waren oder der Dienstleistungen, einschließlich aller Steuern und Abgaben, oder in den Fällen, in denen der Preis auf Grund der Beschaffenheit der Waren oder der Dienstleistungen vernünftigerweise nicht im Voraus berechnet werden kann, die Art der Preisberechnung,
 
-6.
+6. gegebenenfalls den Hinweis, dass der Preis auf der Grundlage einer automatisierten Entscheidungsfindung personalisiert wurde,
 
-7.
+7. gegebenenfalls alle zusätzlich zu dem Gesamtpreis nach Nummer 5 anfallenden Fracht-, Liefer- oder Versandkosten und alle sonstigen Kosten, oder in den Fällen, in denen diese Kosten vernünftigerweise nicht im Voraus berechnet werden können, die Tatsache, dass solche zusätzlichen Kosten anfallen können,
 
-8.
+8. im Falle eines unbefristeten Vertrags oder eines Abonnement-Vertrags den Gesamtpreis; dieser umfasst die pro Abrechnungszeitraum anfallenden Gesamtkosten und, wenn für einen solchen Vertrag Festbeträge in Rechnung gestellt werden, ebenfalls die monatlichen Gesamtkosten; wenn die Gesamtkosten vernünftigerweise nicht im Voraus berechnet werden können, ist die Art der Preisberechnung anzugeben,
 
-9.
+9. die Kosten für den Einsatz des für den Vertragsabschluss genutzten Fernkommunikationsmittels, sofern dem Verbraucher Kosten berechnet werden, die über die Kosten für die bloße Nutzung des Fernkommunikationsmittels hinausgehen,
 
-10.
+10. die Zahlungs-, Liefer- und Leistungsbedingungen, den Termin, bis zu dem der Unternehmer die Waren liefern oder die Dienstleistung erbringen muss, und gegebenenfalls das Verfahren des Unternehmers zum Umgang mit Beschwerden,
 
-11.
+11. das Bestehen eines gesetzlichen Mängelhaftungsrechts für die Waren oder die digitalen Produkte,
 
-12.
+12. gegebenenfalls das Bestehen und die Bedingungen von Kundendienst, Kundendienstleistungen und Garantien,
 
-13.
+13. gegebenenfalls bestehende einschlägige Verhaltenskodizes gemäß Artikel 2 Buchstabe f der Richtlinie 2005/29/EG des Europäischen Parlaments und des Rates vom 11. Mai 2005 über unlautere Geschäftspraktiken im binnenmarktinternen Geschäftsverkehr zwischen Unternehmen und Verbrauchern und zur Änderung der Richtlinie 84/450/EWG des Rates, der Richtlinien 97/7/EG, 98/27/EG und 2002/65/EG des Europäischen Parlaments und des Rates sowie der Verordnung (EG) Nr. 2006/2004 des Europäischen Parlaments und des Rates (ABl. L 149 vom 11.6.2005, S. 22; L 253 vom 25.9.2009, S. 18), die zuletzt durch die Richtlinie (EU) 2019/2161 (ABl. L 328 vom 18.12.2019, S. 7) geändert worden ist, und wie Exemplare davon erhalten werden können,
 
-14.
+14. gegebenenfalls die Laufzeit des Vertrags oder die Bedingungen der Kündigung unbefristeter Verträge oder sich automatisch verlängernder Verträge,
 
-15.
+15. gegebenenfalls die Mindestdauer der Verpflichtungen, die der Verbraucher mit dem Vertrag eingeht,
 
-16.
+16. gegebenenfalls die Tatsache, dass der Unternehmer vom Verbraucher die Stellung einer Kaution oder die Leistung anderer finanzieller Sicherheiten verlangen kann, sowie deren Bedingungen,
 
-17.
+17. gegebenenfalls die Funktionalität der Waren mit digitalen Elementen oder der digitalen Produkte, einschließlich anwendbarer technischer Schutzmaßnahmen,
 
-18.
+18. gegebenenfalls, soweit wesentlich, die Kompatibilität und die Interoperabilität der Waren mit digitalen Elementen oder der digitalen Produkte, soweit diese Informationen dem Unternehmer bekannt sind oder bekannt sein müssen, und
 
-19.
+19. gegebenenfalls, dass der Verbraucher ein außergerichtliches Beschwerde- und Rechtsbehelfsverfahren, dem der Unternehmer unterworfen ist, nutzen kann, und dessen Zugangsvoraussetzungen.
 
-(2) Steht dem Verbraucher ein Widerrufsrecht nach § 312g Absatz 1 des Bürgerlichen Gesetzbuchs zu, ist der Unternehmer verpflichtet, den Verbraucher zu informieren Der Unternehmer kann diese Informationspflichten dadurch erfüllen, dass er das in der Anlage 1 vorgesehene Muster für die Widerrufsbelehrung zutreffend ausgefüllt in Textform übermittelt.
+(2) Steht dem Verbraucher ein Widerrufsrecht nach § 312g Absatz 1 des Bürgerlichen Gesetzbuchs zu, ist der Unternehmer verpflichtet, den Verbraucher zu informieren
 
-1.
+1. über die Bedingungen, die Fristen und das Verfahren für die Ausübung des Widerrufsrechts nach § 355 Absatz 1 des Bürgerlichen Gesetzbuchs sowie das Muster-Widerrufsformular in der Anlage 2,
 
-2.
+2. gegebenenfalls darüber, dass der Verbraucher im Widerrufsfall die Kosten für die Rücksendung der Waren zu tragen hat, und bei Fernabsatzverträgen zusätzlich über die Kosten für die Rücksendung der Waren, wenn die Waren auf Grund ihrer Beschaffenheit nicht auf dem normalen Postweg zurückgesendet werden können, und
 
-3.
+3. darüber, dass der Verbraucher dem Unternehmer bei einem Vertrag über die Erbringung von Dienstleistungen, für die die Zahlung eines Preises vorgesehen ist, oder über die nicht in einem bestimmten Volumen oder in einer bestimmten Menge vereinbarte Lieferung von Wasser, Gas, Strom oder die Lieferung von Fernwärme einen angemessenen Betrag nach § 357a Absatz 2 des Bürgerlichen Gesetzbuchs für die vom Unternehmer erbrachte Leistung schuldet, wenn der Verbraucher das Widerrufsrecht ausübt, nachdem er auf Aufforderung des Unternehmers von diesem ausdrücklich den Beginn der Leistung vor Ablauf der Widerrufsfrist verlangt hat.
 
 (3) Der Unternehmer hat den Verbraucher auch zu informieren, wenn
 
-1.
+1. dem Verbraucher nach § 312g Absatz 2 Nummer 1, 2, 5 und 7 bis 13 des Bürgerlichen Gesetzbuchs ein Widerrufsrecht nicht zusteht, dass der Verbraucher seine Willenserklärung nicht widerrufen kann, oder
 
-2.
+2. das Widerrufsrecht des Verbrauchers nach § 312g Absatz 2 Nummer 3, 4 und 6 sowie § 356 Absatz 4 und 5 des Bürgerlichen Gesetzbuchs vorzeitig erlöschen kann, über die Umstände, unter denen der Verbraucher ein zunächst bestehendes Widerrufsrecht verliert.
 
 ### § 2 — Erleichterte Informationspflichten bei Reparatur- und Instandhaltungsarbeiten
 
 (1) Hat der Verbraucher bei einem Vertrag über Reparatur- und Instandhaltungsarbeiten, der außerhalb von Geschäftsräumen geschlossen wird, bei dem die beiderseitigen Leistungen sofort erfüllt werden und die vom Verbraucher zu leistende Vergütung 200 Euro nicht übersteigt, ausdrücklich die Dienste des Unternehmers angefordert, muss der Unternehmer dem Verbraucher lediglich folgende Informationen zur Verfügung stellen:
 
-1.
+1. die Angaben nach § 1 Absatz 1 Satz 1 Nummer 2 und 3 sowie
 
-2.
+2. den Preis oder die Art der Preisberechnung zusammen mit einem Kostenvoranschlag über die Gesamtkosten.
 
 (2) Ferner hat der Unternehmer dem Verbraucher folgende Informationen zur Verfügung zu stellen:
 
-1.
+1. die wesentlichen Eigenschaften der Waren oder Dienstleistungen in dem für das Kommunikationsmittel und die Waren oder Dienstleistungen angemessenen Umfang,
 
-2.
+2. gegebenenfalls die Bedingungen, die Fristen und das Verfahren für die Ausübung des Widerrufsrechts sowie das Muster-Widerrufsformular in der Anlage 2 und
 
-3.
+3. gegebenenfalls die Information, dass der Verbraucher seine Willenserklärung nicht widerrufen kann, oder die Umstände, unter denen der Verbraucher ein zunächst bestehendes Widerrufsrecht vorzeitig verliert.
 
 (3) Eine vom Unternehmer zur Verfügung gestellte Abschrift oder Bestätigung des Vertrags nach § 312f Absatz 1 des Bürgerlichen Gesetzbuchs muss alle nach § 1 zu erteilenden Informationen enthalten.
 
 ### § 3 — Erleichterte Informationspflichten bei begrenzter Darstellungsmöglichkeit
 
-Soll ein Fernabsatzvertrag mittels eines Fernkommunikationsmittels geschlossen werden, das nur begrenzten Raum oder begrenzte Zeit für die dem Verbraucher zu erteilenden Informationen bietet, ist der Unternehmer verpflichtet, dem Verbraucher mittels dieses Fernkommunikationsmittels zumindest folgende Informationen zur Verfügung zu stellen: Die weiteren Angaben nach § 1 hat der Unternehmer dem Verbraucher in geeigneter Weise unter Beachtung von § 4 Absatz 3 zugänglich zu machen.
+Soll ein Fernabsatzvertrag mittels eines Fernkommunikationsmittels geschlossen werden, das nur begrenzten Raum oder begrenzte Zeit für die dem Verbraucher zu erteilenden Informationen bietet, ist der Unternehmer verpflichtet, dem Verbraucher mittels dieses Fernkommunikationsmittels zumindest folgende Informationen zur Verfügung zu stellen:
 
-1.
+1. die wesentlichen Eigenschaften der Waren oder Dienstleistungen,
 
-2.
+2. die Identität des Unternehmers,
 
-3.
+3. den Gesamtpreis oder in den Fällen, in denen der Preis auf Grund der Beschaffenheit der Waren oder Dienstleistungen vernünftigerweise nicht im Voraus berechnet werden kann, die Art der Preisberechnung,
 
-4.
+4. gegebenenfalls die Bedingungen, die Fristen und das Verfahren für die Ausübung des Widerrufsrechts nach § 355 Absatz 1 des Bürgerlichen Gesetzbuchs und
 
-5.
+5. gegebenenfalls die Vertragslaufzeit und die Bedingungen für die Kündigung eines Dauerschuldverhältnisses.
 
 ### § 4 — Formale Anforderungen an die Erfüllung der Informationspflichten
 
@@ -2653,63 +2534,63 @@ Soll ein Fernabsatzvertrag mittels eines Fernkommunikationsmittels geschlossen w
 
 (1) Der Unternehmer ist nach § 312d Absatz 2 des Bürgerlichen Gesetzbuchs verpflichtet, dem Verbraucher rechtzeitig vor Abgabe von dessen Vertragserklärung klar und verständlich und unter Angabe des geschäftlichen Zwecks, bei Fernabsatzverträgen in einer dem benutzten Fernkommunikationsmittel angepassten Weise, folgende Informationen zur Verfügung zu stellen:
 
-1.
+1. seine Identität, anzugeben ist auch das öffentliche Unternehmensregister, bei dem der Rechtsträger eingetragen ist, und die zugehörige Registernummer oder gleichwertige Kennung,
 
-2.
+2. die Hauptgeschäftstätigkeit des Unternehmers und die für seine Zulassung zuständige Aufsichtsbehörde,
 
-3.
+3. die Identität des Vertreters des Unternehmers in dem Mitgliedstaat, in dem der Verbraucher seinen Wohnsitz hat, wenn es einen solchen Vertreter gibt, oder die Identität einer anderen gewerblich tätigen Person als dem Anbieter, wenn der Verbraucher mit dieser Person geschäftlich zu tun hat, und die Eigenschaft, in der diese Person gegenüber dem Verbraucher tätig wird,
 
-4.
+4. die ladungsfähige Anschrift des Unternehmers und jede andere Anschrift, die für die Geschäftsbeziehung zwischen diesem, seinem Vertreter oder einer anderen gewerblich tätigen Person nach Nummer 3 und dem Verbraucher maßgeblich ist, bei juristischen Personen, Personenvereinigungen oder Personengruppen auch den Namen des Vertretungsberechtigten,
 
-5.
+5. die wesentlichen Merkmale der Finanzdienstleistung sowie Informationen darüber, wie der Vertrag zustande kommt,
 
-6.
+6. den Gesamtpreis der Finanzdienstleistung einschließlich aller damit verbundenen Preisbestandteile sowie alle über den Unternehmer abgeführten Steuern oder, wenn kein genauer Preis angegeben werden kann, seine Berechnungsgrundlage, die dem Verbraucher eine Überprüfung des Preises ermöglicht,
 
-7.
+7. gegebenenfalls zusätzlich anfallende Kosten sowie einen Hinweis auf mögliche weitere Steuern oder Kosten, die nicht über den Unternehmer abgeführt oder von ihm in Rechnung gestellt werden,
 
-8.
+8. gegebenenfalls den Hinweis, dass sich die Finanzdienstleistung auf Finanzinstrumente bezieht, die wegen ihrer spezifischen Merkmale oder der durchzuführenden Vorgänge mit speziellen Risiken behaftet sind oder deren Preis Schwankungen auf dem Finanzmarkt unterliegt, auf die der Unternehmer keinen Einfluss hat, und dass in der Vergangenheit erwirtschaftete Erträge kein Indikator für künftige Erträge sind,
 
-9.
+9. gegebenenfalls eine Befristung der Gültigkeitsdauer der zur Verfügung gestellten Informationen, beispielsweise die Gültigkeitsdauer befristeter Angebote, insbesondere hinsichtlich des Preises,
 
-10.
+10. Einzelheiten hinsichtlich der Zahlung und der Erfüllung,
 
-11.
+11. alle spezifischen zusätzlichen Kosten, die der Verbraucher für die Benutzung des Fernkommunikationsmittels zu tragen hat, wenn solche zusätzlichen Kosten durch den Unternehmer in Rechnung gestellt werden,
 
-12.
+12. das Bestehen oder Nichtbestehen eines Widerrufsrechts sowie die Bedingungen, Einzelheiten der Ausübung, insbesondere Name und Anschrift desjenigen, gegenüber dem der Widerruf zu erklären ist, und die Rechtsfolgen des Widerrufs einschließlich Informationen über den Betrag, den der Verbraucher im Falle des Widerrufs nach § 357b des Bürgerlichen Gesetzbuchs für die erbrachte Leistung zu zahlen hat,
 
-13.
+13. die Mindestlaufzeit des Vertrags, wenn dieser eine dauernde oder regelmäßig wiederkehrende Leistung zum Inhalt hat,
 
-14.
+14. gegebenenfalls die vertraglichen Kündigungsbedingungen einschließlich etwaiger Vertragsstrafen,
 
-15.
+15. die Mitgliedstaaten der Europäischen Union, deren Recht der Unternehmer der Aufnahme von Beziehungen zum Verbraucher vor Abschluss des Vertrags zugrunde legt,
 
-16.
+16. gegebenenfalls eine Vertragsklausel über das auf den Vertrag anwendbare Recht oder über das zuständige Gericht,
 
-17.
+17. die Sprachen, in welchen die Vertragsbedingungen und die in dieser Vorschrift genannten Vorabinformationen mitgeteilt werden, sowie die Sprachen, in welchen sich der Unternehmer verpflichtet, mit Zustimmung des Verbrauchers die Kommunikation während der Laufzeit dieses Vertrags zu führen,
 
-18.
+18. den Hinweis, ob der Verbraucher ein außergerichtliches Beschwerde- und Rechtsbehelfsverfahren, dem der Unternehmer unterworfen ist, nutzen kann, und gegebenenfalls dessen Zugangsvoraussetzungen,
 
-19.
+19. gegebenenfalls das Bestehen eines Garantiefonds oder anderer Entschädigungsregelungen, die weder unter die Richtlinie 2014/49/EU des Europäischen Parlaments und des Rates vom 16. April 2014 über Einlagensicherungssysteme (ABl. L 173 vom 12.6.2014, S. 149; L 212 vom 18.7.2014, S. 47; L 309 vom 30.10.2014, S. 37) noch unter die Richtlinie 97/9/EG des Europäischen Parlaments und des Rates vom 3. März 1997 über Systeme für die Entschädigung der Anleger (ABl. L 84 vom 26.3.1997, S. 22) fallen.
 
-(2) Bei Telefongesprächen hat der Unternehmer nur folgende Informationen zur Verfügung zu stellen: Satz 1 gilt nur, wenn der Unternehmer den Verbraucher darüber informiert hat, dass auf Wunsch weitere Informationen übermittelt werden können und welcher Art diese Informationen sind, und der Verbraucher ausdrücklich auf die Übermittlung der weiteren Informationen vor Abgabe seiner Vertragserklärung verzichtet hat.
+(2) Bei Telefongesprächen hat der Unternehmer nur folgende Informationen zur Verfügung zu stellen:
 
-1.
+1. die Identität der Kontaktperson des Verbrauchers und deren Verbindung zum Unternehmer,
 
-2.
+2. die Beschreibung der Hauptmerkmale der Finanzdienstleistung,
 
-3.
+3. den Gesamtpreis, den der Verbraucher dem Unternehmer für die Finanzdienstleistung schuldet, einschließlich aller über den Unternehmer abgeführten Steuern, oder, wenn kein genauer Preis angegeben werden kann, die Grundlage für die Berechnung des Preises, die dem Verbraucher eine Überprüfung des Preises ermöglicht,
 
-4.
+4. mögliche weitere Steuern und Kosten, die nicht über den Unternehmer abgeführt oder von ihm in Rechnung gestellt werden, und
 
-5.
+5. das Bestehen oder Nichtbestehen eines Widerrufsrechts sowie für den Fall, dass ein Widerrufsrecht besteht, auch die Widerrufsfrist und die Bedingungen, Einzelheiten der Ausübung und die Rechtsfolgen des Widerrufs einschließlich Informationen über den Betrag, den der Verbraucher im Falle des Widerrufs nach § 357b des Bürgerlichen Gesetzbuchs für die erbrachte Leistung zu zahlen hat.
 
 ### § 2 — Weitere Informationspflichten
 
-(1) Der Unternehmer hat dem Verbraucher rechtzeitig vor Abgabe von dessen Vertragserklärung die folgenden Informationen auf einem dauerhaften Datenträger mitzuteilen: Wird der Vertrag auf Verlangen des Verbrauchers telefonisch oder unter Verwendung eines anderen Fernkommunikationsmittels geschlossen, das die Mitteilung auf einem dauerhaften Datenträger vor Vertragsschluss nicht gestattet, hat der Unternehmer dem Verbraucher abweichend von Satz 1 die Informationen unverzüglich nach Abschluss des Fernabsatzvertrags zu übermitteln.
+(1) Der Unternehmer hat dem Verbraucher rechtzeitig vor Abgabe von dessen Vertragserklärung die folgenden Informationen auf einem dauerhaften Datenträger mitzuteilen:
 
-1.
+1. die Vertragsbestimmungen einschließlich der Allgemeinen Geschäftsbedingungen und
 
-2.
+2. die in § 1 Absatz 1 genannten Informationen.
 
 (2) Der Verbraucher kann während der Laufzeit des Vertrags vom Unternehmer jederzeit verlangen, dass dieser ihm die Vertragsbedingungen einschließlich der Allgemeinen Geschäftsbedingungen in Papierform zur Verfügung stellt.
 
@@ -2720,15 +2601,15 @@ Soll ein Fernabsatzvertrag mittels eines Fernkommunikationsmittels geschlossen w
 
 Bei Verträgen im elektronischen Geschäftsverkehr muss der Unternehmer den Kunden unterrichten
 
-1.
+1. über die einzelnen technischen Schritte, die zu einem Vertragsschluss führen,
 
-2.
+2. darüber, ob der Vertragstext nach dem Vertragsschluss von dem Unternehmer gespeichert wird und ob er dem Kunden zugänglich ist,
 
-3.
+3. darüber, wie er mit den nach § 312i Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs zur Verfügung gestellten technischen Mitteln Eingabefehler vor Abgabe der Vertragserklärung erkennen und berichtigen kann,
 
-4.
+4. über die für den Vertragsschluss zur Verfügung stehenden Sprachen und
 
-5.
+5. über sämtliche einschlägigen Verhaltenskodizes, denen sich der Unternehmer unterwirft, sowie über die Möglichkeit eines elektronischen Zugangs zu diesen Regelwerken.
 
 ## Art 246d: Allgemeine Informationspflichten für Betreiber von Online-Marktplätzen
 
@@ -2736,23 +2617,19 @@ Bei Verträgen im elektronischen Geschäftsverkehr muss der Unternehmer den Kund
 
 Der Betreiber eines Online-Marktplatzes muss den Verbraucher informieren
 
-1.
+1. zum Ranking der Waren, Dienstleistungen oder digitalen Inhalte, die dem Verbraucher als Ergebnis seiner Suchanfrage auf dem Online-Marktplatz präsentiert werden, allgemein über a)die Hauptparameter zur Festlegung des Rankings undb)die relative Gewichtung der Hauptparameter zur Festlegung des Rankings im Vergleich zu anderen Parametern, die Hauptparameter zur Festlegung des Rankings und die relative Gewichtung der Hauptparameter zur Festlegung des Rankings im Vergleich zu anderen Parametern,
 
-a)
+2. falls dem Verbraucher auf dem Online-Marktplatz das Ergebnis eines Vergleichs von Waren, Dienstleistungen oder digitalen Inhalten präsentiert wird, über die Anbieter, die bei der Erstellung des Vergleichs einbezogen wurden,
 
-b)
+3. gegebenenfalls darüber, dass es sich bei ihm und dem Anbieter der Waren, Dienstleistungen oder digitalen Inhalte um verbundene Unternehmen im Sinne von § 15 des Aktiengesetzes handelt,
 
-2.
+4. darüber, ob es sich bei dem Anbieter der Waren, Dienstleistungen oder digitalen Inhalte nach dessen eigener Erklärung gegenüber dem Betreiber des Online-Marktplatzes um einen Unternehmer handelt,
 
-3.
+5. falls es sich bei dem Anbieter der Waren, Dienstleistungen oder digitalen Inhalte nach dessen eigener Erklärung gegenüber dem Betreiber des Online-Marktplatzes nicht um einen Unternehmer handelt, darüber, dass die besonderen Vorschriften für Verbraucherverträge auf den Vertrag nicht anzuwenden sind,
 
-4.
+6. gegebenenfalls darüber, in welchem Umfang der Anbieter der Waren, Dienstleistungen oder digitalen Inhalte sich des Betreibers des Online-Marktplatzes bei der Erfüllung von Verbindlichkeiten aus dem Vertrag mit dem Verbraucher bedient, und darüber, dass dem Verbraucher hierdurch keine eigenen vertraglichen Ansprüche gegenüber dem Betreiber des Online-Marktplatzes entstehen, und
 
-5.
-
-6.
-
-7.
+7. falls ein Anbieter eine Eintrittsberechtigung für eine Veranstaltung weiterverkaufen will, ob und gegebenenfalls in welcher Höhe der Veranstalter nach Angaben des Anbieters einen Preis für den Erwerb dieser Eintrittsberechtigung festgelegt hat.
 
 ### § 2 — Formale Anforderungen
 
@@ -2768,59 +2645,41 @@ b)
 
 (2) Eine Verletzung von Verbraucherinteressen im Zusammenhang mit Verbraucherverträgen im Sinne des Absatzes 1 liegt vor, wenn
 
-1.
+1. gegenüber dem Verbraucher ein nach § 241a Absatz 1 des Bürgerlichen Gesetzbuchs nicht begründeter Anspruch geltend gemacht wird,
 
-2.
+2. von einem Unternehmer in seinen Allgemeinen Geschäftsbedingungen eine Bestimmung empfohlen oder verwendet wird, a)die nach § 309 des Bürgerlichen Gesetzbuchs unwirksam ist oderb)deren Empfehlung oder Verwendung gegenüber Verbrauchern dem Unternehmer durch rechtskräftiges Urteil untersagt wurde, die nach § 309 des Bürgerlichen Gesetzbuchs unwirksam ist oder deren Empfehlung oder Verwendung gegenüber Verbrauchern dem Unternehmer durch rechtskräftiges Urteil untersagt wurde,
 
-a)
+3. eine Identität oder der geschäftliche Zweck eines Anrufs nicht nach § 312a Absatz 1 des Bürgerlichen Gesetzbuchs offengelegt wird,
 
-b)
+4. der Verbraucher nicht nach § 312a Absatz 2 Satz 1 oder § 312d Absatz 1 des Bürgerlichen Gesetzbuchs informiert wird,
 
-3.
+5. eine Vereinbarung nach § 312a Absatz 3 Satz 1, auch in Verbindung mit Satz 2, des Bürgerlichen Gesetzbuchs nicht ausdrücklich getroffen wird,
 
-4.
+6. eine nach § 312a Absatz 4 Nummer 2 oder Absatz 5 Satz 1 des Bürgerlichen Gesetzbuchs unwirksame Vereinbarung abgeschlossen wird,
 
-5.
+7. von dem Verbraucher entgegen § 312e des Bürgerlichen Gesetzbuchs die Erstattung der Kosten verlangt wird,
 
-6.
+8. eine Abschrift oder eine Bestätigung des Vertrags nach § 312f Absatz 1 Satz 1, auch in Verbindung mit Satz 2, oder nach Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs nicht zur Verfügung gestellt wird,
 
-7.
+9. im elektronischen Geschäftsverkehr gegenüber Verbrauchern a)eine zusätzliche Angabe nicht nach den Vorgaben des § 312j Absatz 1 des Bürgerlichen Gesetzbuchs gemacht wird,b)eine Information nicht nach den Vorgaben des § 312j Absatz 2 des Bürgerlichen Gesetzbuchs zur Verfügung gestellt wird oderc)die Bestellsituation nicht nach den Vorgaben des § 312j Absatz 3 des Bürgerlichen Gesetzbuchs gestaltet wird, eine zusätzliche Angabe nicht nach den Vorgaben des § 312j Absatz 1 des Bürgerlichen Gesetzbuchs gemacht wird, eine Information nicht nach den Vorgaben des § 312j Absatz 2 des Bürgerlichen Gesetzbuchs zur Verfügung gestellt wird oder die Bestellsituation nicht nach den Vorgaben des § 312j Absatz 3 des Bürgerlichen Gesetzbuchs gestaltet wird,
 
-8.
+10. der Verbraucher nicht nach § 312l Absatz 1 des Bürgerlichen Gesetzbuchs informiert wird,
 
-9.
+11. eine Sache bei einem Verbrauchsgüterkauf nicht innerhalb einer dem Unternehmer nach § 323 Absatz 1 des Bürgerlichen Gesetzbuchs gesetzten angemessenen Frist geliefert wird,
 
-a)
+12. nach einem wirksamen Widerruf des Vertrags durch den Verbraucher a)Inhalte entgegen § 327p Absatz 2 Satz 1 in Verbindung mit § 357 Absatz 8 des Bürgerlichen Gesetzbuchs genutzt werden,b)Inhalte nicht nach § 327p Absatz 3 Satz 1 in Verbindung mit § 357 Absatz 8 des Bürgerlichen Gesetzbuchs bereitgestellt werden,c)eine empfangene Leistung dem Verbraucher nicht nach § 355 Absatz 3 Satz 1 in Verbindung mit § 357 Absatz 1 bis 3 des Bürgerlichen Gesetzbuchs zurückgewährt wird oderd)Ware nicht nach § 357 Absatz 7 des Bürgerlichen Gesetzbuchs auf eigene Kosten abgeholt wird, Inhalte entgegen § 327p Absatz 2 Satz 1 in Verbindung mit § 357 Absatz 8 des Bürgerlichen Gesetzbuchs genutzt werden, Inhalte nicht nach § 327p Absatz 3 Satz 1 in Verbindung mit § 357 Absatz 8 des Bürgerlichen Gesetzbuchs bereitgestellt werden, eine empfangene Leistung dem Verbraucher nicht nach § 355 Absatz 3 Satz 1 in Verbindung mit § 357 Absatz 1 bis 3 des Bürgerlichen Gesetzbuchs zurückgewährt wird oder Ware nicht nach § 357 Absatz 7 des Bürgerlichen Gesetzbuchs auf eigene Kosten abgeholt wird,
 
-b)
+13. im Falle eines Rücktritts des Verbrauchers von einem Verbrauchsgüterkauf eine Leistung des Verbrauchers nicht nach § 346 Absatz 1 des Bürgerlichen Gesetzbuchs zurückgewährt wird,
 
-c)
+14. der Zugang eines Widerrufs nicht nach § 356 Absatz 1 Satz 2 des Bürgerlichen Gesetzbuchs bestätigt wird oder
 
-10.
-
-11.
-
-12.
-
-a)
-
-b)
-
-c)
-
-d)
-
-13.
-
-14.
-
-15.
+15. eine Sache dem Verbraucher nicht innerhalb der nach § 433 Absatz 1 Satz 1 in Verbindung mit § 475 Absatz 1 Satz 1 und 2 des Bürgerlichen Gesetzbuchs maßgeblichen Leistungszeit übergeben wird.
 
 (3) Eine Verletzung von Verbraucherinteressen im Zusammenhang mit Verbraucherverträgen nach Absatz 1 liegt auch vor, wenn
 
-1.
+1. eine Handlung oder Unterlassung die tatsächlichen Voraussetzungen eines der in Absatz 2 geregelten Fälle erfüllt und
 
-2.
+2. auf den Verbrauchervertrag das nationale Recht eines anderen Mitgliedstaates der Europäischen Union anwendbar ist, welches eine Vorschrift enthält, die der jeweiligen in Absatz 2 genannten Vorschrift entspricht.
 
 ### § 2 — Bußgeldvorschriften
 
@@ -2858,37 +2717,37 @@ d)
 
 (1) Die Unterrichtung vor Vertragsschluss muss folgende Informationen enthalten:
 
-1.
+1. den Namen und die Anschrift des Darlehensgebers,
 
-2.
+2. die Art des Darlehens,
 
-3.
+3. den effektiven Jahreszins,
 
-4.
+4. den Nettodarlehensbetrag,
 
-5.
+5. den Sollzinssatz,
 
-6.
+6. die Vertragslaufzeit,
 
-7.
+7. Betrag, Zahl und Fälligkeit der einzelnen Teilzahlungen,
 
-8.
+8. den Gesamtbetrag,
 
-9.
+9. die Auszahlungsbedingungen,
 
-10.
+10. alle sonstigen Kosten, insbesondere in Zusammenhang mit der Auszahlung oder der Verwendung eines Zahlungsinstruments, mit dem sowohl Zahlungsvorgänge als auch Abhebungen getätigt werden können, sowie die Bedingungen, unter denen die Kosten angepasst werden können,
 
-11.
+11. den Verzugszinssatz und die Art und Weise seiner etwaigen Anpassung sowie gegebenenfalls anfallende Verzugskosten,
 
-12.
+12. einen Warnhinweis zu den Folgen ausbleibender Zahlungen,
 
-13.
+13. das Bestehen oder Nichtbestehen eines Widerrufsrechts,
 
-14.
+14. das Recht des Darlehensnehmers, das Darlehen vorzeitig zurückzuzahlen,
 
-15.
+15. die sich aus § 491a Abs. 2 des Bürgerlichen Gesetzbuchs ergebenden Rechte,
 
-16.
+16. die sich aus § 29 Abs. 7 des Bundesdatenschutzgesetzes ergebenden Rechte.
 
 (2) Gesamtbetrag ist die Summe aus Nettodarlehensbetrag und Gesamtkosten. Nettodarlehensbetrag ist der Höchstbetrag, auf den der Darlehensnehmer aufgrund des Darlehensvertrags Anspruch hat. Die Gesamtkosten und der effektive Jahreszins sind nach § 16 der Preisangabenverordnung zu berechnen.
 
@@ -2900,13 +2759,13 @@ d)
 
 (1) Die Unterrichtung muss bei Allgemein-Verbraucherdarlehensverträgen folgende Angaben enthalten, soweit sie für den in Betracht kommenden Vertragsabschluss erheblich sind:
 
-1.
+1. einen Hinweis, dass der Darlehensnehmer infolge des Vertragsabschlusses Notarkosten zu tragen hat,
 
-2.
+2. Sicherheiten, die der Darlehensgeber verlangt,
 
-3.
+3. den Anspruch auf Vorfälligkeitsentschädigung und dessen Berechnungsmethode, soweit der Darlehensgeber diesen Anspruch geltend macht, falls der Darlehensnehmer das Darlehen vorzeitig zurückzahlt,
 
-4.
+4. gegebenenfalls den Zeitraum, für den sich der Darlehensgeber an die übermittelten Informationen bindet.
 
 (2) Weitere Hinweise des Darlehensgebers müssen räumlich getrennt von den Angaben nach Absatz 1 und nach den §§ 3 und 8 bis 13a übermittelt werden.
 
@@ -2920,19 +2779,19 @@ d)
 
 ### § 6 — Vertragsinhalt
 
-(1) Der Verbraucherdarlehensvertrag muss klar und verständlich folgende Angaben enthalten: Bei einem Immobiliar-Verbraucherdarlehensvertrag sind abweichend von Satz 1 nur die in § 3 Absatz 1 Nummer 1 bis 7, 10 und 13 sowie Absatz 4 genannten Angaben zwingend. Abweichend von § 3 Absatz 1 Nummer 7 ist die Anzahl der Teilzahlungen nicht anzugeben, wenn die Laufzeit des Darlehensvertrags von dem Zeitpunkt der Zuteilung eines Bausparvertrags abhängt.
+(1) Der Verbraucherdarlehensvertrag muss klar und verständlich folgende Angaben enthalten:
 
-1.
+1. die in § 3 Abs. 1 Nr. 1 bis 14 und Abs. 4 genannten Angaben,
 
-2.
+2. den Namen und die Anschrift des Darlehensnehmers,
 
-3.
+3. die für den Darlehensgeber zuständige Aufsichtsbehörde,
 
-4.
+4. einen Hinweis auf den Anspruch des Darlehensnehmers auf einen Tilgungsplan nach § 492 Abs. 3 Satz 2 des Bürgerlichen Gesetzbuchs,
 
-5.
+5. das einzuhaltende Verfahren bei der Kündigung des Vertrags,
 
-6.
+6. sämtliche weitere Vertragsbedingungen.
 
 (2) Besteht ein Widerrufsrecht nach § 495 des Bürgerlichen Gesetzbuchs, müssen im Vertrag Angaben zur Frist und zu anderen Umständen für die Erklärung des Widerrufs sowie ein Hinweis auf die Verpflichtung des Darlehensnehmers enthalten sein, ein bereits ausbezahltes Darlehen zurückzuzahlen und Zinsen zu vergüten. Der pro Tag zu zahlende Zinsbetrag ist anzugeben. Enthält der Verbraucherdarlehensvertrag eine Vertragsklausel in hervorgehobener und deutlich gestalteter Form, die bei Allgemein-Verbraucherdarlehensverträgen dem Muster in Anlage 7 und bei Immobiliar-Verbraucherdarlehensverträgen dem Muster in Anlage 8 entspricht, genügt diese Vertragsklausel den Anforderungen der Sätze 1 und 2. Dies gilt bis zum Ablauf des 4. November 2011 auch bei entsprechender Verwendung dieses Musters in der Fassung des Gesetzes zur Einführung einer Musterwiderrufsinformation für Verbraucherdarlehensverträge, zur Änderung der Vorschriften über das Widerrufsrecht bei Verbraucherdarlehensverträgen und zur Änderung des Darlehensvermittlungsrechts vom 24. Juli 2010 (BGBl. I S. 977). Der Darlehensgeber darf unter Beachtung von Satz 3 in Format und Schriftgröße jeweils von dem Muster abweichen.
 
@@ -2942,19 +2801,19 @@ d)
 
 (1) Der Allgemein-Verbraucherdarlehensvertrag muss folgende klar und verständlich formulierte weitere Angaben enthalten, soweit sie für den Vertrag bedeutsam sind:
 
-1.
+1. einen Hinweis, dass der Darlehensnehmer Notarkosten zu tragen hat,
 
-2.
+2. die vom Darlehensgeber verlangten Sicherheiten und Versicherungen, im Fall von entgeltlichen Finanzierungshilfen insbesondere einen Eigentumsvorbehalt,
 
-3.
+3. die Berechnungsmethode des Anspruchs auf Vorfälligkeitsentschädigung, soweit der Darlehensgeber beabsichtigt, diesen Anspruch geltend zu machen, falls der Darlehensnehmer das Darlehen vorzeitig zurückzahlt,
 
-4.
+4. den Zugang des Darlehensnehmers zu einem außergerichtlichen Beschwerde- und Rechtsbehelfsverfahren und gegebenenfalls die Voraussetzungen für diesen Zugang.
 
 (2) Der Immobiliar-Verbraucherdarlehensvertrag muss folgende klar und verständlich formulierte weitere Angaben enthalten, soweit sie für den Vertrag bedeutsam sind:
 
-1.
+1. die Voraussetzungen und die Berechnungsmethode für den Anspruch auf Vorfälligkeitsentschädigung, soweit der Darlehensgeber beabsichtigt, diesen Anspruch geltend zu machen, falls der Darlehensnehmer das Darlehen vorzeitig zurückzahlt, und die sich aus § 493 Absatz 5 des Bürgerlichen Gesetzbuchs ergebenden Pflichten,
 
-2.
+2. bei einem Immobiliar-Verbraucherdarlehensvertrag in Fremdwährung auch die sich aus den §§ 503 und 493 Absatz 4 des Bürgerlichen Gesetzbuchs ergebenden Rechte des Darlehensnehmers.
 
 ### § 8 — Verträge mit Zusatzleistungen
 
@@ -2970,23 +2829,9 @@ d)
 
 (1) Bei Überziehungsmöglichkeiten im Sinne des § 504 Abs. 2 des Bürgerlichen Gesetzbuchs sind abweichend von den §§ 3, 4 und 6 nur anzugeben:
 
-1.
+1. in der vorvertraglichen Information a)die Angaben nach § 3 Absatz 1 Nummer 1 bis 6, 10, 11 und 16, Absatz 3 und 4 sowie gegebenenfalls nach § 4 Abs. 1 Nr. 4,b)die Bedingungen zur Beendigung des Darlehensverhältnisses undc)der Hinweis, dass der Darlehensnehmer jederzeit zur Rückzahlung des gesamten Darlehensbetrags aufgefordert werden kann, falls ein entsprechendes Kündigungsrecht für den Darlehensgeber vereinbart werden soll; die Angaben nach § 3 Absatz 1 Nummer 1 bis 6, 10, 11 und 16, Absatz 3 und 4 sowie gegebenenfalls nach § 4 Abs. 1 Nr. 4, die Bedingungen zur Beendigung des Darlehensverhältnisses und der Hinweis, dass der Darlehensnehmer jederzeit zur Rückzahlung des gesamten Darlehensbetrags aufgefordert werden kann, falls ein entsprechendes Kündigungsrecht für den Darlehensgeber vereinbart werden soll;
 
-a)
-
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
+2. im Vertrag a)die Angaben nach § 6 Abs. 1 Nr. 1 in Verbindung mit § 3 Abs. 1 Nr. 1 bis 6, 9 und 10, Abs. 4,b)die Angaben nach § 6 Abs. 1 Nr. 2 und 5,c)die Gesamtkosten sowied)gegebenenfalls der Hinweis nach Nummer 1 Buchstabe c. die Angaben nach § 6 Abs. 1 Nr. 1 in Verbindung mit § 3 Abs. 1 Nr. 1 bis 6, 9 und 10, Abs. 4, die Angaben nach § 6 Abs. 1 Nr. 2 und 5, die Gesamtkosten sowie gegebenenfalls der Hinweis nach Nummer 1 Buchstabe c.
 
 (2) In den Fällen des § 5 Absatz 1 muss die Beschreibung der wesentlichen Merkmale nach Artikel 246b § 1 Absatz 1 Nummer 5 zumindest die Angaben nach § 3 Absatz 1 Nummer 3 bis 5, 10, Absatz 3 und 4 sowie nach Absatz 1 Nr. 1 Buchstabe c enthalten.
 
@@ -2996,21 +2841,9 @@ d)
 
 (1) Bei Allgemein-Verbraucherdarlehensverträgen zur Umschuldung gemäß § 495 Absatz 2 Nummer 1 des Bürgerlichen Gesetzbuchs sind abweichend von den §§ 3, 4 und 6 nur anzugeben:
 
-1.
+1. in der vorvertraglichen Information a)die Angaben nach § 3 Abs. 1 Nr. 1 bis 7, 10, 11, 14 und 16, Abs. 3 und 4,b)die Angaben nach § 4 Abs. 1 Nr. 3,c)die Angaben nach § 10 Abs. 1 Nr. 1 Buchstabe b sowied)gegebenenfalls die Angaben nach § 4 Abs. 1 Nr. 4; die Angaben nach § 3 Abs. 1 Nr. 1 bis 7, 10, 11, 14 und 16, Abs. 3 und 4, die Angaben nach § 4 Abs. 1 Nr. 3, die Angaben nach § 10 Abs. 1 Nr. 1 Buchstabe b sowie gegebenenfalls die Angaben nach § 4 Abs. 1 Nr. 4;
 
-a)
-
-b)
-
-c)
-
-d)
-
-2.
-
-a)
-
-b)
+2. im Vertrag a)die Angaben nach § 6 Abs. 1 Nr. 1 in Verbindung mit § 3 Abs. 1 Nr. 1 bis 9, 11 und 14, Abs. 3 und 4 sowieb)die Angaben nach § 6 Abs. 1 Nr. 2 bis 4 und 6. die Angaben nach § 6 Abs. 1 Nr. 1 in Verbindung mit § 3 Abs. 1 Nr. 1 bis 9, 11 und 14, Abs. 3 und 4 sowie die Angaben nach § 6 Abs. 1 Nr. 2 bis 4 und 6.
 
 (2) In den Fällen des § 5 Absatz 1 muss die Beschreibung der wesentlichen Merkmale nach Artikel 246b § 1 Absatz 1 Nummer 5 zumindest die Angaben nach § 3 Abs. 1 Nr. 3 bis 6, 10 sowie Abs. 3 und 4 enthalten.
 
@@ -3018,15 +2851,11 @@ b)
 
 ### § 12 — Verbundene Verträge und entgeltliche Finanzierungshilfen
 
-(1) Die §§ 1 bis 11 gelten entsprechend für die in § 506 Absatz 1 des Bürgerlichen Gesetzbuchs bezeichneten Verträge über entgeltliche Finanzierungshilfen. Bei diesen Verträgen oder Verbraucherdarlehensverträgen, die mit einem anderen Vertrag gemäß § 358 des Bürgerlichen Gesetzbuchs verbunden sind oder in denen eine Ware oder Leistung gemäß § 360 Absatz 2 Satz 2 des Bürgerlichen Gesetzbuchs angegeben ist, muss enthalten: Enthält der Verbraucherdarlehensvertrag eine Vertragsklausel in hervorgehobener und deutlich gestalteter Form, die bei Allgemein-Verbraucherdarlehensverträgen dem Muster in Anlage 7 und bei Immobiliar-Verbraucherdarlehensverträgen dem Muster in Anlage 8 entspricht, genügt diese Vertragsklausel bei verbundenen Verträgen sowie Geschäften gemäß § 360 Absatz 2 Satz 2 des Bürgerlichen Gesetzbuchs den in Satz 2 Nummer 2 Buchstabe b gestellten Anforderungen. Dies gilt bis zum Ablauf des 4. November 2011 auch bei entsprechender Verwendung dieses Musters in der Fassung des Gesetzes zur Einführung einer Musterwiderrufsinformation für Verbraucherdarlehensverträge, zur Änderung der Vorschriften über das Widerrufsrecht bei Verbraucherdarlehensverträgen und zur Änderung des Darlehensvermittlungsrechts vom 24. Juli 2010 (BGBl. I S. 977). Bei Verträgen über eine entgeltliche Finanzierungshilfe treten diese Rechtsfolgen nur ein, wenn die Informationen dem im Einzelfall vorliegenden Vertragstyp angepasst sind. Der Darlehensgeber darf unter Beachtung von Satz 3 in Format und Schriftgröße von dem Muster abweichen.
+(1) Die §§ 1 bis 11 gelten entsprechend für die in § 506 Absatz 1 des Bürgerlichen Gesetzbuchs bezeichneten Verträge über entgeltliche Finanzierungshilfen. Bei diesen Verträgen oder Verbraucherdarlehensverträgen, die mit einem anderen Vertrag gemäß § 358 des Bürgerlichen Gesetzbuchs verbunden sind oder in denen eine Ware oder Leistung gemäß § 360 Absatz 2 Satz 2 des Bürgerlichen Gesetzbuchs angegeben ist, muss enthalten:
 
-1.
+1. die vorvertragliche Information, auch in den Fällen des § 5, den Gegenstand und den Barzahlungspreis,
 
-2.
-
-a)
-
-b)
+2. der Vertrag a)den Gegenstand und den Barzahlungspreis sowieb)Informationen über die sich aus den §§ 358 und 359 oder § 360 des Bürgerlichen Gesetzbuchs ergebenden Rechte und über die Bedingungen für die Ausübung dieser Rechte. den Gegenstand und den Barzahlungspreis sowie Informationen über die sich aus den §§ 358 und 359 oder § 360 des Bürgerlichen Gesetzbuchs ergebenden Rechte und über die Bedingungen für die Ausübung dieser Rechte.
 
 (2) Bei Verträgen gemäß § 506 Absatz 2 Satz 1 Nummer 3 des Bürgerlichen Gesetzbuchs sind die Angaben nach § 3 Abs. 1 Nr. 14, § 4 Abs. 1 Nr. 3 und § 7 Nummer 3 entbehrlich. § 14 Abs. 1 Satz 2 ist nicht anzuwenden. Hat der Unternehmer den Gegenstand für den Verbraucher erworben, tritt an die Stelle des Barzahlungspreises der Anschaffungspreis.
 
@@ -3034,15 +2863,15 @@ b)
 
 (1) Ist bei der Anbahnung oder beim Abschluss eines Verbraucherdarlehensvertrags oder eines Vertrags über eine entgeltliche Finanzierungshilfe ein Darlehensvermittler beteiligt, so ist der Vertragsinhalt nach § 6 Abs. 1 um den Namen und die Anschrift des beteiligten Darlehensvermittlers zu ergänzen.
 
-(2) Wird der Darlehensvermittlungsvertrag im Sinne des § 655a des Bürgerlichen Gesetzbuchs mit einem Verbraucher abgeschlossen, so hat der Darlehensvermittler den Verbraucher rechtzeitig vor Abschluss des Darlehensvermittlungsvertrags auf einem dauerhaften Datenträger zu unterrichten über Wird der Darlehensvermittlungsvertrag im Sinne des § 655a des Bürgerlichen Gesetzbuchs ausschließlich mit einem Dritten abgeschlossen, so hat der Darlehensvermittler den Verbraucher rechtzeitig vor Abschluss eines vermittelten Vertrags im Sinne von Absatz 1 auf einem dauerhaften Datenträger über die Einzelheiten gemäß Satz 1 Nummer 2 und 3 zu unterrichten.
+(2) Wird der Darlehensvermittlungsvertrag im Sinne des § 655a des Bürgerlichen Gesetzbuchs mit einem Verbraucher abgeschlossen, so hat der Darlehensvermittler den Verbraucher rechtzeitig vor Abschluss des Darlehensvermittlungsvertrags auf einem dauerhaften Datenträger zu unterrichten über
 
-1.
+1. die Höhe einer vom Verbraucher verlangten Vergütung,
 
-2.
+2. die Tatsache, ob er für die Vermittlung von einem Dritten ein Entgelt oder sonstige Anreize erhält sowie gegebenenfalls die Höhe,
 
-3.
+3. den Umfang seiner Befugnisse, insbesondere, ob er ausschließlich für einen oder mehrere bestimmte Darlehensgeber oder unabhängig tätig wird, und
 
-4.
+4. gegebenenfalls weitere vom Verbraucher verlangte Nebenentgelte sowie deren Höhe, soweit diese zum Zeitpunkt der Unterrichtung bekannt ist, andernfalls einen Höchstbetrag.
 
 (3) Der Darlehensvermittler hat dem Darlehensgeber die Höhe der von ihm verlangten Vergütung vor der Annahme des Auftrags mitzuteilen. Darlehensvermittler und Darlehensgeber haben sicherzustellen, dass die andere Partei eine Abschrift des Vertrags im Sinne von Absatz 1 erhält.
 
@@ -3054,21 +2883,21 @@ Ist bei der Anbahnung oder beim Abschluss eines Allgemein-Verbraucherdarlehensve
 
 ### § 13b — Besondere Regelungen für Darlehensvermittler bei Immobiliar-Verbraucherdarlehensverträgen
 
-(1) Bei der Vermittlung von Immobiliar-Verbraucherdarlehensverträgen muss der Darlehensvermittler mit der Unterrichtung nach § 13 Absatz 2 Folgendes zusätzlich mitteilen: Beginnt der Darlehensvermittler seine Vermittlungstätigkeit vor Abschluss des Vermittlungsvertrags, so sind die Informationspflichten gemäß Satz 1 rechtzeitig vor Ausübung der Vermittlungstätigkeit zu erteilen.
+(1) Bei der Vermittlung von Immobiliar-Verbraucherdarlehensverträgen muss der Darlehensvermittler mit der Unterrichtung nach § 13 Absatz 2 Folgendes zusätzlich mitteilen:
 
-1.
+1. seine Identität und Anschrift,
 
-2.
+2. in welches Register er eingetragen wurde, gegebenenfalls die Registrierungsnummer, und auf welche Weise der Registereintrag eingesehen werden kann,
 
-3.
+3. ob er an einen oder mehrere Darlehensgeber gemäß § 655a Absatz 3 Satz 3 des Bürgerlichen Gesetzbuchs gebunden oder ausschließlich für einen oder mehrere Darlehensgeber tätig ist, und wenn ja, die Namen der Darlehensgeber,
 
-4.
+4. ob er Beratungsleistungen anbietet,
 
-5.
+5. die Methode, nach der seine Vergütung berechnet wird, falls die Höhe noch nicht genau benannt werden kann,
 
-6.
+6. welche interne Verfahren für Beschwerden von Verbrauchern oder anderen interessierten Parteien über Darlehensvermittler zur Verfügung stehen sowie einen möglichen Zugang des Verbrauchers zu einem außergerichtlichen Beschwerde- und Rechtsbehelfsverfahren,
 
-7.
+7. ob ihm für seine im Zusammenhang mit dem Darlehensvertrag stehende Dienstleistung Provisionen oder sonstige Anreize von einem Dritten gewährt werden, und wenn ja, in welcher Höhe; ist die Höhe noch nicht bekannt, so ist mitzuteilen, dass der tatsächliche Betrag zu einem späteren Zeitpunkt im ESIS-Merkblatt angegeben wird.
 
 (2) Bei Immobiliar-Verbraucherdarlehensverträgen hat der Darlehensvermittler dem Darlehensgeber die Informationen gemäß § 1 Absatz 1, die er von dem Darlehensnehmer erhalten hat, zum Zweck der Kreditwürdigkeitsprüfung richtig und vollständig zu übermitteln.
 
@@ -3084,13 +2913,13 @@ Ist bei der Anbahnung oder beim Abschluss eines Allgemein-Verbraucherdarlehensve
 
 ### § 15 — Unterrichtungen bei Zinsanpassungen
 
-(1) Eine Zinsanpassung in einem Verbraucherdarlehensvertrag oder einem Vertrag über eine entgeltliche Finanzierungshilfe wird erst wirksam, nachdem der Darlehensgeber den Darlehensnehmer über unterrichtet hat.
+(1) Eine Zinsanpassung in einem Verbraucherdarlehensvertrag oder einem Vertrag über eine entgeltliche Finanzierungshilfe wird erst wirksam, nachdem der Darlehensgeber den Darlehensnehmer über
 
-1.
+1. den angepassten Sollzinssatz,
 
-2.
+2. die angepasste Höhe der Teilzahlungen und
 
-3.
+3. die Zahl und die Fälligkeit der Teilzahlungen, sofern sich diese ändern,
 
 (2) Geht die Anpassung des Sollzinssatzes auf die Änderung eines Referenzzinssatzes zurück, können die Vertragsparteien einen von Absatz 1 abweichenden Zeitpunkt für die Wirksamkeit der Zinsanpassung vereinbaren. In diesen Fällen muss der Vertrag eine Pflicht des Darlehensgebers vorsehen, den Darlehensnehmer nach Absatz 1 in regelmäßigen Zeitabständen zu unterrichten. Bei einem Immobiliar-Verbraucherdarlehensvertrag muss der Vertrag ferner die Pflicht vorsehen, auch über den neuen Referenzzinssatz zu unterrichten. Außerdem muss der Darlehensnehmer die Höhe des Referenzzinssatzes in den Geschäftsräumen des Darlehensgebers einsehen können.
 
@@ -3100,51 +2929,47 @@ Ist bei der Anbahnung oder beim Abschluss eines Allgemein-Verbraucherdarlehensve
 
 Die Unterrichtung nach § 504 Abs. 1 Satz 1 des Bürgerlichen Gesetzbuchs muss folgende Angaben enthalten:
 
-1.
+1. den genauen Zeitraum, auf den sie sich bezieht,
 
-2.
+2. Datum und Höhe der an den Darlehensnehmer ausbezahlten Beträge,
 
-3.
+3. Saldo und Datum der vorangegangenen Unterrichtung,
 
-4.
+4. den neuen Saldo,
 
-5.
+5. Datum und Höhe der Rückzahlungen des Darlehensnehmers,
 
-6.
+6. den angewendeten Sollzinssatz,
 
-7.
+7. die erhobenen Kosten und
 
-8.
+8. den gegebenenfalls zurückzuzahlenden Mindestbetrag.
 
 ### § 17 — Angaben bei geduldeten Überziehungen
 
 (1) Die Unterrichtung nach § 505 Abs. 1 des Bürgerlichen Gesetzbuchs muss folgende Angaben enthalten:
 
-1.
+1. den Sollzinssatz, die Bedingungen für seine Anwendung und, soweit vorhanden, Indizes oder Referenzzinssätze, auf die sich der Sollzinssatz bezieht,
 
-2.
+2. sämtliche Kosten, die ab dem Zeitpunkt der Überziehung anfallen, sowie die Bedingungen, unter denen die Kosten angepasst werden können.
 
 (2) Die Unterrichtung nach § 505 Abs. 2 des Bürgerlichen Gesetzbuchs muss folgende Angaben enthalten:
 
-1.
+1. das Vorliegen einer Überziehung,
 
-2.
+2. den Betrag der Überziehung,
 
-3.
+3. den Sollzinssatz und
 
-4.
+4. etwaige Vertragsstrafen, Kosten und Verzugszinsen.
 
 ### § 18 — Vorvertragliche Informationen bei Beratungsleistungen für Immobiliar-Verbraucherdarlehensverträge
 
-(1) Bevor der Darlehensgeber Beratungsleistungen für einen Immobiliar-Verbraucherdarlehensvertrag erbringt oder einen entsprechenden Beratungsvertrag schließt, hat er den Darlehensnehmer darüber zu informieren, Lässt sich die Höhe des Entgelts nach Satz 1 Nummer 1 noch nicht bestimmen, ist über die Methode zu informieren, die für die Berechnung verwendet wird.
+(1) Bevor der Darlehensgeber Beratungsleistungen für einen Immobiliar-Verbraucherdarlehensvertrag erbringt oder einen entsprechenden Beratungsvertrag schließt, hat er den Darlehensnehmer darüber zu informieren,
 
-1.
+1. wie hoch das Entgelt ist, sofern ein solches für die Beratungsleistungen verlangt wird,
 
-2.
-
-a)
-
-b)
+2. ob der Darlehensgeber seiner Empfehlung a)nur oder im Wesentlichen eigene Produkte zugrunde legt oderb)neben eigenen Produkten auch eine größere Anzahl von Produkten anderer Anbieter zugrunde legt. nur oder im Wesentlichen eigene Produkte zugrunde legt oder neben eigenen Produkten auch eine größere Anzahl von Produkten anderer Anbieter zugrunde legt.
 
 (2) Die Informationen sind auf einem dauerhaften Datenträger zu übermitteln; sie können in der gleichen Art und Weise wie weitere vorvertragliche Informationen gemäß § 1 Absatz 3 Satz 1 erteilt werden.
 
@@ -3154,35 +2979,35 @@ b)
 
 (1) Unternehmer, die den Abschluss von Immobiliar-Verbraucherdarlehensverträgen oder deren Vermittlung durch gebundene Darlehensvermittler gemäß § 655a Absatz 3 Satz 3 des Bürgerlichen Gesetzbuchs anbieten, stellen für Standardgeschäfte nach § 675a des Bürgerlichen Gesetzbuchs in Textform unentgeltlich Informationen über Entgelte und Auslagen der Geschäftsbesorgung zur Verfügung, soweit nicht eine Preisfestsetzung nach § 315 des Bürgerlichen Gesetzbuchs erfolgt oder die Entgelte und Auslagen gesetzlich verbindlich geregelt sind.
 
-(2) Die Informationen nach Absatz 1 müssen zumindest folgende Angaben enthalten: Werden Verträge in einer anderen Währung als der Landeswährung des Darlehensnehmers nach § 503 Absatz 1 Satz 1 des Bürgerlichen Gesetzbuchs angeboten, so sind die in Betracht kommenden ausländischen Währungen anzugeben sowie die möglichen Konsequenzen eines Darlehens in Fremdwährung für den Darlehensnehmer zu erläutern.
+(2) Die Informationen nach Absatz 1 müssen zumindest folgende Angaben enthalten:
 
-1.
+1. die Identität und Anschrift des Darlehensgebers oder Darlehensvermittlers,
 
-2.
+2. die Zwecke, für die das Darlehen verwendet werden kann,
 
-3.
+3. die möglichen Formen von Sicherheiten, gegebenenfalls einschließlich eines Hinweises darauf, dass die Grundstücke oder grundstücksgleichen Rechte, an denen die Sicherheiten bestellt werden, in einem anderen Mitgliedstaat der Europäischen Union belegen sein dürfen,
 
-4.
+4. die möglichen Laufzeiten der Darlehensverträge,
 
-5.
+5. die angebotenen Arten von Sollzinssätzen, jeweils mit dem Hinweis, ob diese als feste oder veränderliche Zinssätze oder in beiden Varianten angeboten werden; die Merkmale eines festen und eines veränderlichen Zinssatzes, einschließlich der sich hieraus ergebenden Konsequenzen für den Darlehensnehmer, sind kurz darzustellen,
 
-6.
+6. ein repräsentatives Beispiel des Nettodarlehensbetrags, der Gesamtkosten, des Gesamtbetrags und des effektiven Jahreszinses,
 
-7.
+7. einen Hinweis auf mögliche weitere, im Zusammenhang mit einem Darlehensvertrag anfallende Kosten, die nicht in den Gesamtkosten des Darlehens enthalten sind,
 
-8.
+8. die verschiedenen möglichen Optionen zur Rückzahlung des Darlehens einschließlich der Anzahl, Häufigkeit und Höhe der regelmäßigen Rückzahlungsraten,
 
-9.
+9. gegebenenfalls einen klaren und prägnanten Hinweis darauf, dass die Einhaltung der Bedingungen des Darlehensvertrags nicht in jedem Fall gewährleistet, dass damit der in Anspruch genommene Darlehensbetrag vollständig zurückgezahlt werden wird,
 
-10.
+10. die Bedingungen, die für eine vorzeitige Rückzahlung gelten,
 
-11.
+11. Auskunft darüber, ob für den Vertragsschluss eine Bewertung des Werts des belasteten Grundstücks oder des Werts des zu erwerbenden oder zu erhaltenden Grundstücks, Gebäudes oder grundstücksgleichen Rechts erforderlich ist und, falls ja, wer dafür verantwortlich ist, dass die Bewertung durchgeführt wird, sowie Informationen darüber, ob dem Darlehensnehmer hierdurch Kosten entstehen,
 
-12.
+12. Auskunft über die Nebenleistungen, die der Darlehensnehmer erwerben muss, damit ihm das Darlehen überhaupt oder nach den vorgesehenen Vertragsbedingungen gewährt wird, und gegebenenfalls einen Hinweis darauf, dass die Nebenleistungen von einem anderen Anbieter als dem Darlehensgeber erworben werden können,
 
-13.
+13. eine allgemeine Warnung vor möglichen Konsequenzen für den Fall, dass der Darlehensnehmer die mit dem Darlehensvertrag eingegangenen Verpflichtungen nicht einhält, und
 
-14.
+14. falls Verträge angeboten werden, in denen auf einen Referenzwert im Sinne des Artikels 3 Absatz 1 Nummer 3 der Verordnung (EU) 2016/1011 Bezug genommen wird, die Bezeichnungen der Referenzwerte und die Namen der Administratoren sowie die möglichen Auswirkungen auf den Darlehensnehmer.
 
 (3) Die Absätze 1 und 2 gelten entsprechend, wenn der Abschluss von Verträgen über entgeltliche Finanzierungshilfen gemäß § 506 Absatz 1 Satz 2 und 3 des Bürgerlichen Gesetzbuchs oder deren Vermittlung durch gebundene Darlehensvermittler gemäß § 655a Absatz 3 Satz 3 des Bürgerlichen Gesetzbuchs angeboten wird.
 
@@ -3214,73 +3039,21 @@ Bei Zahlungsdiensterahmenverträgen (§ 675f Abs. 2 des Bürgerlichen Gesetzbuch
 
 (1) Die folgenden vorvertraglichen Informationen und Vertragsbedingungen müssen rechtzeitig vor Abgabe der Vertragserklärung des Zahlungsdienstnutzers mitgeteilt werden:
 
-1.
+1. zum Zahlungsdienstleister a)den Namen, die ladungsfähige Anschrift seiner Hauptverwaltung und gegebenenfalls seines Agenten oder seiner Zweigniederlassung in dem Mitgliedstaat, in dem der Zahlungsdienst angeboten wird, sowie alle anderen Anschriften einschließlich E-Mail-Adresse, die für die Kommunikation mit dem Zahlungsdienstleister von Belang sind, undb)die für den Zahlungsdienstleister zuständigen Aufsichtsbehörden und das bei der Bundesanstalt für Finanzdienstleistungsaufsicht geführte Register oder jedes andere relevante öffentliche Register, in das der Zahlungsdienstleister als zugelassen eingetragen ist, sowie seine Registernummer oder eine gleichwertige in diesem Register verwendete Kennung, den Namen, die ladungsfähige Anschrift seiner Hauptverwaltung und gegebenenfalls seines Agenten oder seiner Zweigniederlassung in dem Mitgliedstaat, in dem der Zahlungsdienst angeboten wird, sowie alle anderen Anschriften einschließlich E-Mail-Adresse, die für die Kommunikation mit dem Zahlungsdienstleister von Belang sind, und die für den Zahlungsdienstleister zuständigen Aufsichtsbehörden und das bei der Bundesanstalt für Finanzdienstleistungsaufsicht geführte Register oder jedes andere relevante öffentliche Register, in das der Zahlungsdienstleister als zugelassen eingetragen ist, sowie seine Registernummer oder eine gleichwertige in diesem Register verwendete Kennung,
 
-a)
+2. zur Nutzung des Zahlungsdienstes a)eine Beschreibung der wesentlichen Merkmale des zu erbringenden Zahlungsdienstes,b)Informationen oder Kundenkennungen, die für die ordnungsgemäße Auslösung oder Ausführung eines Zahlungsauftrags erforderlich sind,c)die Art und Weise der Zustimmung zur Auslösung eines Zahlungsauftrags oder zur Ausführung eines Zahlungsvorgangs und des Widerrufs eines Zahlungsauftrags gemäß den §§ 675j und 675p des Bürgerlichen Gesetzbuchs,d)den Zeitpunkt, ab dem ein Zahlungsauftrag gemäß § 675n Abs. 1 des Bürgerlichen Gesetzbuchs als zugegangen gilt, und gegebenenfalls den vom Zahlungsdienstleister gemäß § 675n Abs. 1 Satz 3 festgelegten Zeitpunkt,e)die maximale Ausführungsfrist für die zu erbringenden Zahlungsdienste,f)die Angabe, ob die Möglichkeit besteht, Betragsobergrenzen für die Nutzung eines Zahlungsinstruments gemäß § 675k Abs. 1 des Bürgerlichen Gesetzbuchs zu vereinbaren, undg)im Falle von kartengebundenen Zahlungsinstrumenten, die mehrere Zahlungsmarken tragen, die Rechte des Zahlungsdienstnutzers gemäß Artikel 8 der Verordnung (EU) 2015/751 des Europäischen Parlaments und des Rates vom 29. April 2015 über Interbankenentgelte für kartengebundene Zahlungsvorgänge (ABl. L 123 vom 19.5.2015, S. 1), eine Beschreibung der wesentlichen Merkmale des zu erbringenden Zahlungsdienstes, Informationen oder Kundenkennungen, die für die ordnungsgemäße Auslösung oder Ausführung eines Zahlungsauftrags erforderlich sind, die Art und Weise der Zustimmung zur Auslösung eines Zahlungsauftrags oder zur Ausführung eines Zahlungsvorgangs und des Widerrufs eines Zahlungsauftrags gemäß den §§ 675j und 675p des Bürgerlichen Gesetzbuchs, den Zeitpunkt, ab dem ein Zahlungsauftrag gemäß § 675n Abs. 1 des Bürgerlichen Gesetzbuchs als zugegangen gilt, und gegebenenfalls den vom Zahlungsdienstleister gemäß § 675n Abs. 1 Satz 3 festgelegten Zeitpunkt, die maximale Ausführungsfrist für die zu erbringenden Zahlungsdienste, die Angabe, ob die Möglichkeit besteht, Betragsobergrenzen für die Nutzung eines Zahlungsinstruments gemäß § 675k Abs. 1 des Bürgerlichen Gesetzbuchs zu vereinbaren, und im Falle von kartengebundenen Zahlungsinstrumenten, die mehrere Zahlungsmarken tragen, die Rechte des Zahlungsdienstnutzers gemäß Artikel 8 der Verordnung (EU) 2015/751 des Europäischen Parlaments und des Rates vom 29. April 2015 über Interbankenentgelte für kartengebundene Zahlungsvorgänge (ABl. L 123 vom 19.5.2015, S. 1),
 
-b)
+3. zu Entgelten, Zinsen und Wechselkursen a)alle Entgelte, die der Zahlungsdienstnutzer an den Zahlungsdienstleister zu entrichten hat, einschließlich derjenigen, die sich danach richten, wie und wie oft über die geforderten Informationen zu unterrichten ist, sowie gegebenenfalls eine Aufschlüsselung dieser Entgelte,b)gegebenenfalls die zugrunde gelegten Zinssätze und Wechselkurse oder, bei Anwendung von Referenzzinssätzen und -wechselkursen, die Methode für die Berechnung der tatsächlichen Zinsen sowie der maßgebliche Stichtag und der Index oder die Grundlage für die Bestimmung des Referenzzinssatzes oder -wechselkurses, undc)soweit vereinbart, das unmittelbare Wirksamwerden von Änderungen des Referenzzinssatzes oder -wechselkurses gemäß § 675g Absatz 3 des Bürgerlichen Gesetzbuchs, alle Entgelte, die der Zahlungsdienstnutzer an den Zahlungsdienstleister zu entrichten hat, einschließlich derjenigen, die sich danach richten, wie und wie oft über die geforderten Informationen zu unterrichten ist, sowie gegebenenfalls eine Aufschlüsselung dieser Entgelte, gegebenenfalls die zugrunde gelegten Zinssätze und Wechselkurse oder, bei Anwendung von Referenzzinssätzen und -wechselkursen, die Methode für die Berechnung der tatsächlichen Zinsen sowie der maßgebliche Stichtag und der Index oder die Grundlage für die Bestimmung des Referenzzinssatzes oder -wechselkurses, und soweit vereinbart, das unmittelbare Wirksamwerden von Änderungen des Referenzzinssatzes oder -wechselkurses gemäß § 675g Absatz 3 des Bürgerlichen Gesetzbuchs,
 
-2.
+4. zur Kommunikation a)die Kommunikationsmittel, deren Nutzung zwischen den Parteien für die Informationsübermittlung und Anzeigepflichten vereinbart wird, einschließlich der technischen Anforderungen an die Ausstattung und die Software des Zahlungsdienstnutzers,b)Angaben dazu, wie und wie oft die nach diesem Artikel geforderten Informationen mitzuteilen oder zugänglich zu machen sind,c)die Sprache oder Sprachen, in der oder in denen der Vertrag zu schließen ist und in der oder in denen die Kommunikation für die Dauer des Vertragsverhältnisses erfolgen soll, undd)einen Hinweis auf das Recht des Zahlungsdienstnutzers gemäß § 5, Informationen und Vertragsbedingungen in einer Urkunde zu erhalten, die Kommunikationsmittel, deren Nutzung zwischen den Parteien für die Informationsübermittlung und Anzeigepflichten vereinbart wird, einschließlich der technischen Anforderungen an die Ausstattung und die Software des Zahlungsdienstnutzers, Angaben dazu, wie und wie oft die nach diesem Artikel geforderten Informationen mitzuteilen oder zugänglich zu machen sind, die Sprache oder Sprachen, in der oder in denen der Vertrag zu schließen ist und in der oder in denen die Kommunikation für die Dauer des Vertragsverhältnisses erfolgen soll, und einen Hinweis auf das Recht des Zahlungsdienstnutzers gemäß § 5, Informationen und Vertragsbedingungen in einer Urkunde zu erhalten,
 
-a)
+5. zu den Schutz- und Abhilfemaßnahmen a)gegebenenfalls eine Beschreibung, wie der Zahlungsdienstnutzer ein Zahlungsinstrument sicher aufbewahrt und wie er seine Anzeigepflicht gegenüber dem Zahlungsdienstleister gemäß § 675l Absatz 1 Satz 2 des Bürgerlichen Gesetzbuchs erfüllt,b)eine Beschreibung des sicheren Verfahrens zur Unterrichtung des Zahlungsdienstnutzers durch den Zahlungsdienstleister im Falle vermuteten oder tatsächlichen Betrugs oder bei Sicherheitsrisiken,c)soweit vereinbart, die Bedingungen, unter denen sich der Zahlungsdienstleister das Recht vorbehält, ein Zahlungsinstrument gemäß § 675k Abs. 2 des Bürgerlichen Gesetzbuchs zu sperren,d)Informationen zur Haftung des Zahlers gemäß § 675v des Bürgerlichen Gesetzbuchs einschließlich Angaben zum Höchstbetrag,e)Angaben dazu, wie und innerhalb welcher Frist der Zahlungsdienstnutzer dem Zahlungsdienstleister nicht autorisierte oder fehlerhaft ausgelöste oder ausgeführte Zahlungsvorgänge gemäß § 676b des Bürgerlichen Gesetzbuchs anzeigen muss, sowie Informationen über die Haftung des Zahlungsdienstleisters bei nicht autorisierten Zahlungsvorgängen gemäß § 675u des Bürgerlichen Gesetzbuchs,f)Informationen über die Haftung des Zahlungsdienstleisters bei der Auslösung oder Ausführung von Zahlungsvorgängen gemäß § 675y des Bürgerlichen Gesetzbuchs undg)die Bedingungen für Erstattungen gemäß § 675x des Bürgerlichen Gesetzbuchs, gegebenenfalls eine Beschreibung, wie der Zahlungsdienstnutzer ein Zahlungsinstrument sicher aufbewahrt und wie er seine Anzeigepflicht gegenüber dem Zahlungsdienstleister gemäß § 675l Absatz 1 Satz 2 des Bürgerlichen Gesetzbuchs erfüllt, eine Beschreibung des sicheren Verfahrens zur Unterrichtung des Zahlungsdienstnutzers durch den Zahlungsdienstleister im Falle vermuteten oder tatsächlichen Betrugs oder bei Sicherheitsrisiken, soweit vereinbart, die Bedingungen, unter denen sich der Zahlungsdienstleister das Recht vorbehält, ein Zahlungsinstrument gemäß § 675k Abs. 2 des Bürgerlichen Gesetzbuchs zu sperren, Informationen zur Haftung des Zahlers gemäß § 675v des Bürgerlichen Gesetzbuchs einschließlich Angaben zum Höchstbetrag, Angaben dazu, wie und innerhalb welcher Frist der Zahlungsdienstnutzer dem Zahlungsdienstleister nicht autorisierte oder fehlerhaft ausgelöste oder ausgeführte Zahlungsvorgänge gemäß § 676b des Bürgerlichen Gesetzbuchs anzeigen muss, sowie Informationen über die Haftung des Zahlungsdienstleisters bei nicht autorisierten Zahlungsvorgängen gemäß § 675u des Bürgerlichen Gesetzbuchs, Informationen über die Haftung des Zahlungsdienstleisters bei der Auslösung oder Ausführung von Zahlungsvorgängen gemäß § 675y des Bürgerlichen Gesetzbuchs und die Bedingungen für Erstattungen gemäß § 675x des Bürgerlichen Gesetzbuchs,
 
-b)
+6. zu Änderungen der Bedingungen und Kündigung des Zahlungsdiensterahmenvertrags a)soweit vereinbart, die Angabe, dass die Zustimmung des Zahlungsdienstnutzers zu einer Änderung der Vertragsbedingungen gemäß § 675g des Bürgerlichen Gesetzbuchs als erteilt gilt, wenn er dem Zahlungsdienstleister seine Ablehnung nicht vor dem Zeitpunkt angezeigt hat, zu dem die geänderten Vertragsbedingungen in Kraft treten sollen,b)die Laufzeit des Zahlungsdiensterahmenvertrags undc)einen Hinweis auf das Recht des Zahlungsdienstnutzers, den Vertrag zu kündigen, sowie auf sonstige kündigungsrelevante Vereinbarungen gemäß § 675g Abs. 2 und § 675h des Bürgerlichen Gesetzbuchs, soweit vereinbart, die Angabe, dass die Zustimmung des Zahlungsdienstnutzers zu einer Änderung der Vertragsbedingungen gemäß § 675g des Bürgerlichen Gesetzbuchs als erteilt gilt, wenn er dem Zahlungsdienstleister seine Ablehnung nicht vor dem Zeitpunkt angezeigt hat, zu dem die geänderten Vertragsbedingungen in Kraft treten sollen, die Laufzeit des Zahlungsdiensterahmenvertrags und einen Hinweis auf das Recht des Zahlungsdienstnutzers, den Vertrag zu kündigen, sowie auf sonstige kündigungsrelevante Vereinbarungen gemäß § 675g Abs. 2 und § 675h des Bürgerlichen Gesetzbuchs,
 
-c)
+7. die Vertragsklauseln über das auf den Zahlungsdiensterahmenvertrag anwendbare Recht oder über das zuständige Gericht und
 
-d)
-
-e)
-
-f)
-
-g)
-
-3.
-
-a)
-
-b)
-
-c)
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-5.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-6.
-
-a)
-
-b)
-
-c)
-
-7.
-
-8.
+8. einen Hinweis auf die Beschwerdeverfahren gemäß den §§ 60 bis 62 des Zahlungsdiensteaufsichtsgesetzes sowie auf das außergerichtliche Rechtsbehelfsverfahren gemäß § 14 des Unterlassungsklagengesetzes.
 
 (2) Wenn auf Verlangen des Zahlungsdienstnutzers der Zahlungsdiensterahmenvertrag unter Verwendung eines Fernkommunikationsmittels geschlossen wird, das dem Zahlungsdienstleister die Mitteilung der in Absatz 1 bestimmten Informationen und Vertragsbedingungen auf einem dauerhaften Datenträger nicht gestattet, hat der Zahlungsdienstleister dem Zahlungsdienstnutzer diese unverzüglich nach Abschluss des Vertrags in der in den §§ 2 und 3 vorgesehenen Form mitzuteilen.
 
@@ -3294,47 +3067,47 @@ Während der Vertragslaufzeit kann der Zahlungsdienstnutzer jederzeit die Überm
 
 Vor Ausführung eines einzelnen vom Zahler ausgelösten Zahlungsvorgangs teilt der Zahlungsdienstleister auf Verlangen des Zahlers Folgendes mit:
 
-1.
+1. die maximale Ausführungsfrist,
 
-2.
+2. die dem Zahler in Rechnung zu stellenden Entgelte und
 
-3.
+3. gegebenenfalls die Aufschlüsselung der Entgelte nach Nummer 2.
 
 ### § 7 — Informationen an den Zahler bei einzelnen Zahlungsvorgängen
 
 Nach Belastung des Kontos des Zahlers mit dem Zahlungsbetrag eines einzelnen Zahlungsvorgangs oder, falls der Zahler kein Zahlungskonto verwendet, nach Zugang des Zahlungsauftrags teilt der Zahlungsdienstleister des Zahlers diesem unverzüglich die folgenden Informationen mit:
 
-1.
+1. eine dem Zahlungsvorgang zugeordnete Kennung, die dem Zahler die Identifizierung des betreffenden Zahlungsvorgangs ermöglicht, sowie gegebenenfalls Angaben zum Zahlungsempfänger,
 
-2.
+2. den Zahlungsbetrag in der Währung, in der das Zahlungskonto des Zahlers belastet wird, oder in der Währung, die im Zahlungsauftrag verwendet wird,
 
-3.
+3. die für den Zahlungsvorgang zu entrichtenden Entgelte und gegebenenfalls eine Aufschlüsselung der Beträge dieser Entgelte oder die vom Zahler zu entrichtenden Zinsen,
 
-4.
+4. gegebenenfalls den Wechselkurs, den der Zahlungsdienstleister des Zahlers dem Zahlungsvorgang zugrunde gelegt hat, und den Betrag, der nach dieser Währungsumrechnung Gegenstand des Zahlungsvorgangs ist, und
 
-5.
+5. das Wertstellungsdatum der Belastung oder das Datum des Zugangs des Zahlungsauftrags.
 
 ### § 8 — Informationen an den Zahlungsempfänger bei einzelnen Zahlungsvorgängen
 
 Nach Ausführung eines einzelnen Zahlungsvorgangs teilt der Zahlungsdienstleister des Zahlungsempfängers diesem unverzüglich die folgenden Informationen mit:
 
-1.
+1. eine dem Zahlungsvorgang zugeordnete Kennung, die dem Zahlungsempfänger die Identifizierung des Zahlungsvorgangs und des Zahlers ermöglicht, sowie alle weiteren mit dem Zahlungsvorgang übermittelten Angaben,
 
-2.
+2. den Zahlungsbetrag in der Währung, in der dieser Betrag auf dem Zahlungskonto des Zahlungsempfängers gutgeschrieben wird,
 
-3.
+3. den Betrag der für den Zahlungsvorgang zu entrichtenden Entgelte und gegebenenfalls deren Aufschlüsselung oder der vom Zahlungsempfänger zu entrichtenden Zinsen,
 
-4.
+4. gegebenenfalls den Wechselkurs, den der Zahlungsdienstleister des Zahlungsempfängers dem Zahlungsvorgang zugrunde gelegt hat, und den Betrag, der vor dieser Währungsumrechnung Gegenstand des Zahlungsvorgangs war, und
 
-5.
+5. das Wertstellungsdatum der Gutschrift.
 
 ### § 9 — Sonstige Informationen während des Vertragsverhältnisses
 
 Während des Vertragsverhältnisses ist der Zahlungsdienstleister verpflichtet, den Zahlungsdienstnutzer unverzüglich zu unterrichten, wenn
 
-1.
+1. sich Umstände, über die gemäß § 4 Abs. 1 Nr. 1 unterrichtet wurde, ändern oder
 
-2.
+2. zum Nachteil des Zahlungsdienstnutzers Änderungen von Zinssätzen wirksam geworden sind.
 
 ### § 10 — Abweichende Vereinbarungen
 
@@ -3342,21 +3115,21 @@ Für die in den §§ 7, 8 und 9 Nr. 2 genannten Informationen können Zahlungsdi
 
 ### § 11 — Ausnahmen für Kleinbetragsinstrumente und E-Geld
 
-(1) Bei Zahlungsdiensteverträgen über die Überlassung eines Kleinbetragsinstruments (§ 675i Abs. 1 des Bürgerlichen Gesetzbuchs) teilt der Zahlungsdienstleister dem Zahlungsdienstnutzer abweichend von den §§ 4 und 6 nur Folgendes mit: Ferner gibt der Zahlungsdienstleister an, wo die weiteren gemäß § 4 vorgeschriebenen Informationen und Vertragsbedingungen in leicht zugänglicher Form zur Verfügung gestellt sind.
+(1) Bei Zahlungsdiensteverträgen über die Überlassung eines Kleinbetragsinstruments (§ 675i Abs. 1 des Bürgerlichen Gesetzbuchs) teilt der Zahlungsdienstleister dem Zahlungsdienstnutzer abweichend von den §§ 4 und 6 nur Folgendes mit:
 
-1.
+1. die wesentlichen Merkmale des Zahlungsdienstes, einschließlich der Nutzungsmöglichkeiten des Kleinbetragsinstruments,
 
-2.
+2. Haftungshinweise,
 
-3.
+3. die anfallenden Entgelte und
 
-4.
+4. die anderen für den Zahlungsdienstnutzer wesentlichen Vertragsinformationen.
 
 (2) Bei Verträgen nach Absatz 1 können die Vertragsparteien abweichend von den §§ 7 und 8 vereinbaren, dass der Zahlungsdienstleister dem Zahlungsdienstnutzer nach Ausführung eines Zahlungsvorgangs
 
-1.
+1. nur eine dem Zahlungsvorgang zugeordnete Kennung mitteilen oder zur Verfügung stellen muss, die es ermöglicht, den betreffenden Zahlungsvorgang, seinen Betrag sowie die erhobenen Entgelte zu identifizieren, und im Fall mehrerer gleichartiger Zahlungsvorgänge an den selben Zahlungsempfänger eine Information, die den Gesamtbetrag und die erhobenen Entgelte für diese Zahlungsvorgänge enthält,
 
-2.
+2. die unter Nummer 1 genannten Informationen nicht mitteilen oder zur Verfügung stellen muss, wenn die Nutzung des Kleinbetragsinstruments keinem Zahlungsdienstnutzer zugeordnet werden kann oder wenn der Zahlungsdienstleister auf andere Weise technisch nicht in der Lage ist, diese Informationen mitzuteilen; in diesem Fall hat der Zahlungsdienstleister dem Zahlungsdienstnutzer eine Möglichkeit anzubieten, die gespeicherten Beträge zu überprüfen.
 
 ## Abschnitt 3: Einzelzahlungsverträge
 
@@ -3368,19 +3141,19 @@ Bei einem Einzelzahlungsvertrag, der nicht Gegenstand eines Zahlungsdiensterahme
 
 (1) Die folgenden vorvertraglichen Informationen und Vertragsbedingungen sind rechtzeitig vor Abgabe der Vertragserklärung des Zahlungsdienstnutzers zur Verfügung zu stellen:
 
-1.
+1. die vom Zahlungsdienstnutzer mitzuteilenden Informationen oder Kundenkennungen, die für die ordnungsgemäße Auslösung oder Ausführung eines Zahlungsauftrags erforderlich sind,
 
-2.
+2. die maximale Ausführungsfrist für den zu erbringenden Zahlungsdienst,
 
-3.
+3. alle Entgelte, die der Zahlungsdienstnutzer an den Zahlungsdienstleister zu entrichten hat, und gegebenenfalls ihre Aufschlüsselung,
 
-4.
+4. gegebenenfalls der dem Zahlungsvorgang zugrunde zu legende tatsächliche Wechselkurs oder Referenzwechselkurs.
 
 (2) Ein Zahlungsauslösedienstleister hat dem Zahler rechtzeitig vor der Auslösung des Zahlungsvorgangs auch die folgenden Informationen zur Verfügung zu stellen:
 
-1.
+1. den Namen des Zahlungsauslösedienstleisters, die Anschrift seiner Hauptverwaltung und gegebenenfalls die Anschrift seines Agenten oder seiner Zweigniederlassung in dem Mitgliedstaat, in dem der Zahlungsauslösedienst angeboten wird, sowie alle anderen Kontaktdaten einschließlich der E-Mail-Adresse, die für die Kommunikation mit dem Zahlungsauslösedienstleister von Belang sind, und
 
-2.
+2. die Kontaktdaten der zuständigen Behörde.
 
 (3) Die anderen in § 4 Absatz 1 genannten Informationen sind, soweit sie für den Einzelzahlungsvertrag erheblich sind, dem Zahlungsdienstnutzer ebenfalls zur Verfügung zu stellen.
 
@@ -3392,41 +3165,41 @@ Bei einem Einzelzahlungsvertrag, der nicht Gegenstand eines Zahlungsdiensterahme
 
 Ein Zahlungsauslösedienstleister unterrichtet den Zahler und gegebenenfalls den Zahlungsempfänger unmittelbar nach der Auslösung des Zahlungsauftrags über
 
-1.
+1. die erfolgreiche Auslösung des Zahlungsauftrags beim kontoführenden Zahlungsdienstleister des Zahlers,
 
-2.
+2. die dem Zahlungsvorgang zugeordnete Kennung, die dem Zahler und dem Zahlungsempfänger die Identifizierung des Zahlungsvorgangs und dem Zahlungsempfänger gegebenenfalls die Identifizierung des Zahlers ermöglicht, sowie jede weitere mit dem Zahlungsvorgang übermittelte Angabe,
 
-3.
+3. den Zahlungsbetrag,
 
-4.
+4. gegebenenfalls die Höhe aller an den Zahlungsauslösedienstleister für den Zahlungsvorgang zu entrichtenden Entgelte sowie gegebenenfalls deren Aufschlüsselung.
 
 ### § 14 — Informationen an den Zahler nach Zugang des Zahlungsauftrags
 
 Nach Zugang des Zahlungsauftrags unterrichtet der Zahlungsdienstleister des Zahlers diesen hinsichtlich der von ihm zu erbringenden Zahlungsdienste unverzüglich über
 
-1.
+1. die dem Zahlungsvorgang zugeordnete Kennung, die dem Zahler die Identifizierung des betreffenden Zahlungsvorgangs ermöglicht, sowie gegebenenfalls Angaben zum Zahlungsempfänger,
 
-2.
+2. den Zahlungsbetrag in der im Zahlungsauftrag verwendeten Währung,
 
-3.
+3. die Höhe der vom Zahler für den Zahlungsvorgang zu entrichtenden Entgelte und gegebenenfalls deren Aufschlüsselung,
 
-4.
+4. gegebenenfalls den Wechselkurs, den der Zahlungsdienstleister des Zahlers dem Zahlungsvorgang zugrunde gelegt hat, oder einen Verweis darauf, sofern dieser Kurs von dem in § 13 Abs. 1 Nr. 4 genannten Kurs abweicht, und den Betrag, der nach dieser Währungsumrechnung Gegenstand des Zahlungsvorgangs ist, und
 
-5.
+5. das Datum des Zugangs des Zahlungsauftrags.
 
 ### § 15 — Informationen an den Zahlungsempfänger nach Ausführung des Zahlungsvorgangs
 
 Nach Ausführung des Zahlungsvorgangs unterrichtet der Zahlungsdienstleister des Zahlungsempfängers diesen hinsichtlich der von ihm erbrachten Zahlungsdienste unverzüglich über
 
-1.
+1. die dem Zahlungsvorgang zugeordnete Kennung, die dem Zahlungsempfänger die Identifizierung des betreffenden Zahlungsvorgangs und gegebenenfalls des Zahlers ermöglicht, sowie jede weitere mit dem Zahlungsvorgang übermittelte Angabe,
 
-2.
+2. den Zahlungsbetrag in der Währung, in der er dem Zahlungsempfänger zur Verfügung steht,
 
-3.
+3. die Höhe aller vom Zahlungsempfänger für den Zahlungsvorgang zu entrichtenden Entgelte und gegebenenfalls deren Aufschlüsselung,
 
-4.
+4. gegebenenfalls den Wechselkurs, den der Zahlungsdienstleister des Zahlungsempfängers dem Zahlungsvorgang zugrunde gelegt hat, und den Betrag, der vor dieser Währungsumrechnung Gegenstand des Zahlungsvorgangs war, und
 
-5.
+5. das Wertstellungsdatum der Gutschrift.
 
 ### § 16 — Informationen bei Einzelzahlung mittels rahmenvertraglich geregelten Zahlungsinstruments
 
@@ -3462,23 +3235,23 @@ Der Unternehmer ist nach § 650j des Bürgerlichen Gesetzbuchs verpflichtet, dem
 
 (1) In der Baubeschreibung sind die wesentlichen Eigenschaften des angebotenen Werks in klarer Weise darzustellen. Sie muss mindestens folgende Informationen enthalten:
 
-1.
+1. allgemeine Beschreibung des herzustellenden Gebäudes oder der vorzunehmenden Umbauten, gegebenenfalls Haustyp und Bauweise,
 
-2.
+2. Art und Umfang der angebotenen Leistungen, gegebenenfalls der Planung und der Bauleitung, der Arbeiten am Grundstück und der Baustelleneinrichtung sowie der Ausbaustufe,
 
-3.
+3. Gebäudedaten, Pläne mit Raum- und Flächenangaben sowie Ansichten, Grundrisse und Schnitte,
 
-4.
+4. gegebenenfalls Angaben zum Energie-, zum Brandschutz- und zum Schallschutzstandard sowie zur Bauphysik,
 
-5.
+5. Angaben zur Beschreibung der Baukonstruktionen aller wesentlichen Gewerke,
 
-6.
+6. gegebenenfalls Beschreibung des Innenausbaus,
 
-7.
+7. gegebenenfalls Beschreibung der gebäudetechnischen Anlagen,
 
-8.
+8. Angaben zu Qualitätsmerkmalen, denen das Gebäude oder der Umbau genügen muss,
 
-9.
+9. gegebenenfalls Beschreibung der Sanitärobjekte, der Armaturen, der Elektroanlage, der Installationen, der Informationstechnologie und der Außenanlagen.
 
 (2) Die Baubeschreibung hat verbindliche Angaben zum Zeitpunkt der Fertigstellung des Werks zu enthalten. Steht der Beginn der Baumaßnahme noch nicht fest, ist ihre Dauer anzugeben.
 
@@ -3486,15 +3259,15 @@ Der Unternehmer ist nach § 650j des Bürgerlichen Gesetzbuchs verpflichtet, dem
 
 (1) Steht dem Verbraucher ein Widerrufsrecht nach § 650l Satz 1 des Bürgerlichen Gesetzbuchs zu, ist der Unternehmer verpflichtet, den Verbraucher vor Abgabe von dessen Vertragserklärung in Textform über sein Widerrufsrecht zu belehren. Die Widerrufsbelehrung muss deutlich gestaltet sein und dem Verbraucher seine wesentlichen Rechte in einer an das benutzte Kommunikationsmittel angepassten Weise deutlich machen. Sie muss Folgendes enthalten:
 
-1.
+1. einen Hinweis auf das Recht zum Widerruf,
 
-2.
+2. einen Hinweis darauf, dass der Widerruf durch Erklärung gegenüber dem Unternehmer erfolgt und keiner Begründung bedarf,
 
-3.
+3. den Namen, die ladungsfähige Anschrift und die Telefonnummer desjenigen, gegenüber dem der Widerruf zu erklären ist, gegebenenfalls seine Telefaxnummer und E-Mail-Adresse,
 
-4.
+4. einen Hinweis auf die Dauer und den Beginn der Widerrufsfrist sowie darauf, dass zur Fristwahrung die rechtzeitige Absendung der Widerrufserklärung genügt, und
 
-5.
+5. einen Hinweis darauf, dass der Verbraucher dem Unternehmer Wertersatz nach § 357e des Bürgerlichen Gesetzbuchs schuldet, wenn die Rückgewähr der bis zum Widerruf erbrachten Leistung ihrer Natur nach ausgeschlossen ist.
 
 (2) Der Unternehmer kann seine Belehrungspflicht dadurch erfüllen, dass er dem Verbraucher das in Anlage 10 vorgesehene Muster für die Widerrufsbelehrung zutreffend ausgefüllt in Textform übermittelt.
 
@@ -3518,49 +3291,29 @@ Der Unternehmer ist nach § 650j des Bürgerlichen Gesetzbuchs verpflichtet, dem
 
 Die Unterrichtung muss folgende Informationen enthalten, soweit sie für die in Betracht kommende Pauschalreise erheblich sind:
 
-1.
+1. die wesentlichen Eigenschaften der Reiseleistungen, und zwar a)Bestimmungsort oder, wenn die Pauschalreise mehrere Aufenthalte umfasst, die einzelnen Bestimmungsorte sowie die einzelnen Zeiträume (Datumsangaben und Anzahl der Übernachtungen),b)Reiseroute,c)Transportmittel (Merkmale und Klasse),d)Ort, Tag und Zeit der Abreise und der Rückreise oder, sofern eine genaue Zeitangabe noch nicht möglich ist, ungefähre Zeit der Abreise und Rückreise, ferner Orte und Dauer von Zwischenstationen sowie die dort zu erreichenden Anschlussverbindungen,e)Unterkunft (Lage, Hauptmerkmale und gegebenenfalls touristische Einstufung der Unterkunft nach den Regeln des jeweiligen Bestimmungslandes),f)Mahlzeiten,g)Besichtigungen, Ausflüge oder sonstige im Reisepreis inbegriffene Leistungen,h)sofern dies nicht aus dem Zusammenhang hervorgeht, die Angabe, ob eine der Reiseleistungen für den Reisenden als Teil einer Gruppe erbracht wird, und wenn dies der Fall ist, sofern möglich, die Angabe der ungefähren Gruppengröße,i)sofern die Nutzung touristischer Leistungen im Sinne des § 651a Absatz 3 Satz 1 Nummer 4 des Bürgerlichen Gesetzbuchs durch den Reisenden von einer wirksamen mündlichen Kommunikation abhängt, die Sprache, in der diese Leistungen erbracht werden, undj)die Angabe, ob die Pauschalreise im Allgemeinen für Personen mit eingeschränkter Mobilität geeignet ist, sowie auf Verlangen des Reisenden genaue Informationen über eine solche Eignung unter Berücksichtigung der Bedürfnisse des Reisenden, Bestimmungsort oder, wenn die Pauschalreise mehrere Aufenthalte umfasst, die einzelnen Bestimmungsorte sowie die einzelnen Zeiträume (Datumsangaben und Anzahl der Übernachtungen), Reiseroute, Transportmittel (Merkmale und Klasse), Ort, Tag und Zeit der Abreise und der Rückreise oder, sofern eine genaue Zeitangabe noch nicht möglich ist, ungefähre Zeit der Abreise und Rückreise, ferner Orte und Dauer von Zwischenstationen sowie die dort zu erreichenden Anschlussverbindungen, Unterkunft (Lage, Hauptmerkmale und gegebenenfalls touristische Einstufung der Unterkunft nach den Regeln des jeweiligen Bestimmungslandes), Mahlzeiten, Besichtigungen, Ausflüge oder sonstige im Reisepreis inbegriffene Leistungen, sofern dies nicht aus dem Zusammenhang hervorgeht, die Angabe, ob eine der Reiseleistungen für den Reisenden als Teil einer Gruppe erbracht wird, und wenn dies der Fall ist, sofern möglich, die Angabe der ungefähren Gruppengröße, sofern die Nutzung touristischer Leistungen im Sinne des § 651a Absatz 3 Satz 1 Nummer 4 des Bürgerlichen Gesetzbuchs durch den Reisenden von einer wirksamen mündlichen Kommunikation abhängt, die Sprache, in der diese Leistungen erbracht werden, und die Angabe, ob die Pauschalreise im Allgemeinen für Personen mit eingeschränkter Mobilität geeignet ist, sowie auf Verlangen des Reisenden genaue Informationen über eine solche Eignung unter Berücksichtigung der Bedürfnisse des Reisenden,
 
-a)
+2. die Firma oder den Namen des Reiseveranstalters, die Anschrift des Ortes, an dem er niedergelassen ist, die Telefonnummer und gegebenenfalls die E-Mail-Adresse; diese Angaben sind gegebenenfalls auch bezüglich des Reisevermittlers zu erteilen,
 
-b)
+3. den Reisepreis einschließlich Steuern und gegebenenfalls aller zusätzlichen Gebühren, Entgelte und sonstigen Kosten, oder, wenn sich diese Kosten vor Vertragsschluss nicht bestimmen lassen, die Angabe der Art von Mehrkosten, für die der Reisende gegebenenfalls noch aufkommen muss,
 
-c)
+4. die Zahlungsmodalitäten einschließlich des Betrags oder des Prozentsatzes des Reisepreises, der als Anzahlung zu leisten ist, sowie des Zeitplans für die Zahlung des Restbetrags oder für die Stellung finanzieller Sicherheiten durch den Reisenden,
 
-d)
+5. die für die Durchführung der Pauschalreise erforderliche Mindestteilnehmerzahl sowie die Angabe, bis zu welchem Zeitpunkt vor dem vertraglich vereinbarten Reisebeginn dem Reisenden die Rücktrittserklärung des Reiseveranstalters gemäß § 651h Absatz 4 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs zugegangen sein muss,
 
-e)
+6. allgemeine Pass- und Visumerfordernisse des Bestimmungslands, einschließlich der ungefähren Fristen für die Erlangung von Visa, sowie gesundheitspolizeiliche Formalitäten,
 
-f)
+7. den Hinweis, dass der Reisende vor Reisebeginn gegen Zahlung einer angemessenen Entschädigung oder gegebenenfalls einer vom Reiseveranstalter verlangten Entschädigungspauschale jederzeit vom Vertrag zurücktreten kann,
 
-g)
-
-h)
-
-i)
-
-j)
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
+8. den Hinweis auf den möglichen Abschluss einer Reiserücktrittskostenversicherung oder einer Versicherung zur Deckung der Kosten einer Unterstützung einschließlich einer Rückbeförderung bei Unfall, Krankheit oder Tod.
 
 ### § 4 — Vorvertragliche Unterrichtung in den Fällen des § 651c des Bürgerlichen Gesetzbuchs
 
 Für Pauschalreiseverträge nach § 651c des Bürgerlichen Gesetzbuchs ist abweichend von § 2 Absatz 1 anstelle des Formblatts gemäß dem in Anlage 11 enthaltenen Muster das zutreffend ausgefüllte Formblatt gemäß dem in Anlage 13 enthaltenen Muster zu verwenden. Zur Unterrichtung nach § 3 sind verpflichtet
 
-1.
+1. der als Reiseveranstalter anzusehende Unternehmer nur in Bezug auf die Reiseleistung, die er zu erbringen hat,
 
-2.
+2. jeder andere Unternehmer, dem nach § 651c Absatz 1 Nummer 2 des Bürgerlichen Gesetzbuchs Daten übermittelt werden, in Bezug auf die von ihm zu erbringende Reiseleistung; er trägt gegenüber dem Reisenden die Beweislast für die Erfüllung seiner Informationspflichten.
 
 ### § 5 — Gestaltung des Vertrags
 
@@ -3570,41 +3323,27 @@ Der Pauschalreisevertrag muss in einfacher und verständlicher Sprache abgefasst
 
 (1) Dem Reisenden ist bei oder unverzüglich nach Vertragsschluss auf einem dauerhaften Datenträger eine Abschrift oder Bestätigung des Vertrags zur Verfügung zu stellen. Der Reisende hat Anspruch auf eine Abschrift oder Bestätigung des Vertrags in Papierform, wenn der Vertragsschluss
 
-1.
+1. bei gleichzeitiger körperlicher Anwesenheit der Vertragsschließenden erfolgte oder
 
-2.
+2. außerhalb von Geschäftsräumen erfolgte (§ 312b des Bürgerlichen Gesetzbuchs); wenn der Reisende zustimmt, kann für die Abschrift oder die Bestätigung des Vertrags auch ein anderer dauerhafter Datenträger verwendet werden.
 
 (2) Die Abschrift oder Bestätigung des Vertrags muss klar, verständlich und in hervorgehobener Weise den vollständigen Vertragsinhalt wiedergeben und außer den in § 3 genannten Informationen die folgenden Angaben enthalten:
 
-1.
+1. besondere Vorgaben des Reisenden, denen der Reiseveranstalter zugestimmt hat,
 
-2.
+2. den Hinweis, dass der Reiseveranstalter a)gemäß § 651i des Bürgerlichen Gesetzbuchs für die ordnungsgemäße Erbringung aller von dem Vertrag umfassten Reiseleistungen verantwortlich ist undb)gemäß § 651q des Bürgerlichen Gesetzbuchs zum Beistand verpflichtet ist, wenn sich der Reisende in Schwierigkeiten befindet, gemäß § 651i des Bürgerlichen Gesetzbuchs für die ordnungsgemäße Erbringung aller von dem Vertrag umfassten Reiseleistungen verantwortlich ist und gemäß § 651q des Bürgerlichen Gesetzbuchs zum Beistand verpflichtet ist, wenn sich der Reisende in Schwierigkeiten befindet,
 
-a)
+3. den Namen des Absicherers sowie dessen Kontaktdaten einschließlich der Anschrift des Ortes, an dem er niedergelassen ist; im Fall des § 651s des Bürgerlichen Gesetzbuchs sind diese Angaben zu erteilen in Bezug auf die Einrichtung, die den Insolvenzschutz bietet, und gegebenenfalls in Bezug auf die zuständige Behörde,
 
-b)
+4. Namen, Anschrift, Telefonnummer, E-Mail-Adresse und gegebenenfalls Faxnummer des Vertreters des Reiseveranstalters vor Ort, einer Kontaktstelle oder eines anderen Dienstes, an den oder die sich der Reisende wenden kann, um schnell mit dem Reiseveranstalter Verbindung aufzunehmen, wenn der Reisende a)Beistand nach § 651q des Bürgerlichen Gesetzbuchs benötigt oderb)einen aufgetretenen Reisemangel anzeigen will, Beistand nach § 651q des Bürgerlichen Gesetzbuchs benötigt oder einen aufgetretenen Reisemangel anzeigen will,
 
-3.
+5. den Hinweis auf die Obliegenheit des Reisenden, dem Reiseveranstalter einen aufgetretenen Reisemangel unverzüglich anzuzeigen,
 
-4.
+6. bei Minderjährigen, die ohne Begleitung durch einen Elternteil oder eine andere berechtigte Person reisen, Angaben darüber, wie eine unmittelbare Verbindung zu dem Minderjährigen oder zu dem an dessen Aufenthaltsort für ihn Verantwortlichen hergestellt werden kann; dies gilt nicht, wenn der Vertrag keine Beherbergung des Minderjährigen umfasst,
 
-a)
+7. Informationen a)zu bestehenden internen Beschwerdeverfahren,b)gemäß § 36 des Verbraucherstreitbeilegungsgesetzes zur Teilnahme an alternativen Streitbeilegungsverfahren undc)zur Online-Streitbeilegungsplattform gemäß Artikel 14 der Verordnung (EU) Nr. 524/2013 des Europäischen Parlaments und des Rates vom 21. Mai 2013 über die Online-Beilegung verbraucherrechtlicher Streitigkeiten und zur Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie 2009/22/EG (ABl. L 165 vom 18.6.2013, S. 1), zu bestehenden internen Beschwerdeverfahren, gemäß § 36 des Verbraucherstreitbeilegungsgesetzes zur Teilnahme an alternativen Streitbeilegungsverfahren und zur Online-Streitbeilegungsplattform gemäß Artikel 14 der Verordnung (EU) Nr. 524/2013 des Europäischen Parlaments und des Rates vom 21. Mai 2013 über die Online-Beilegung verbraucherrechtlicher Streitigkeiten und zur Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie 2009/22/EG (ABl. L 165 vom 18.6.2013, S. 1),
 
-b)
-
-5.
-
-6.
-
-7.
-
-a)
-
-b)
-
-c)
-
-8.
+8. den Hinweis auf das Recht des Reisenden, den Vertrag gemäß § 651e des Bürgerlichen Gesetzbuchs auf einen anderen Reisenden zu übertragen.
 
 ### § 7 — Reiseunterlagen, Unterrichtung vor Reisebeginn
 
@@ -3622,27 +3361,23 @@ c)
 
 Über die in § 6 Absatz 2 bestimmten Angaben hinaus hat der Reiseveranstalter dem Reisenden folgende Informationen zu erteilen:
 
-1.
+1. Namen, Anschrift, Telefonnummer und gegebenenfalls E-Mail-Adresse der Gastfamilie, in welcher der Gastschüler untergebracht ist, einschließlich Veränderungen,
 
-2.
+2. Namen und Erreichbarkeit eines Ansprechpartners im Aufnahmeland, bei dem auch Abhilfe verlangt werden kann, einschließlich Veränderungen, und
 
-3.
+3. Abhilfeverlangen des Gastschülers und die vom Reiseveranstalter ergriffenen Maßnahmen.
 
 ### § 10 — Unterrichtung bei erheblichen Vertragsänderungen
 
 Beabsichtigt der Reiseveranstalter eine Vertragsänderung nach § 651g Absatz 1 des Bürgerlichen Gesetzbuchs, hat er den Reisenden unverzüglich nach Kenntnis von dem Änderungsgrund auf einem dauerhaften Datenträger klar, verständlich und in hervorgehobener Weise zu informieren über
 
-1.
+1. die angebotene Vertragsänderung, die Gründe hierfür sowie a)im Fall einer Erhöhung des Reisepreises über deren Berechnung,b)im Fall einer sonstigen Vertragsänderung über die Auswirkungen dieser Änderung auf den Reisepreis gemäß § 651g Absatz 3 Satz 2 des Bürgerlichen Gesetzbuchs, im Fall einer Erhöhung des Reisepreises über deren Berechnung, im Fall einer sonstigen Vertragsänderung über die Auswirkungen dieser Änderung auf den Reisepreis gemäß § 651g Absatz 3 Satz 2 des Bürgerlichen Gesetzbuchs,
 
-a)
+2. die Frist, innerhalb derer der Reisende ohne Zahlung einer Entschädigung vom Vertrag zurücktreten oder das Angebot zur Vertragsänderung annehmen kann,
 
-b)
+3. den Umstand, dass das Angebot zur Vertragsänderung als angenommen gilt, wenn der Reisende sich nicht innerhalb der Frist erklärt, und
 
-2.
-
-3.
-
-4.
+4. die gegebenenfalls als Ersatz angebotene Pauschalreise und deren Reisepreis.
 
 ## Art 251: Informationspflichten bei Vermittlung verbundener Reiseleistungen
 
@@ -3652,19 +3387,11 @@ Die Unterrichtung des Reisenden nach § 651w Absatz 2 des Bürgerlichen Gesetzbu
 
 ### § 2 — Formblatt für die Unterrichtung des Reisenden
 
-Dem Reisenden ist gemäß den in den Anlagen 14 bis 17 enthaltenen Mustern ein zutreffend ausgefülltes Formblatt zur Verfügung zu stellen, und zwar Erfolgt die Vermittlung verbundener Reiseleistungen in den Fällen von Satz 1 Nummer 1 und 2 Buchstabe b bei gleichzeitiger körperlicher Anwesenheit des Reisenden und des Vermittlers verbundener Reiseleistungen, hat der Vermittler verbundener Reiseleistungen abweichend von Satz 1 die in den betreffenden Formblättern enthaltenen Informationen in einer der Vermittlungssituation angepassten Weise zur Verfügung zu stellen. Entsprechendes gilt, wenn die Vermittlung verbundener Reiseleistungen weder bei gleichzeitiger körperlicher Anwesenheit des Reisenden und des Vermittlers verbundener Reiseleistungen noch online erfolgt.
+Dem Reisenden ist gemäß den in den Anlagen 14 bis 17 enthaltenen Mustern ein zutreffend ausgefülltes Formblatt zur Verfügung zu stellen, und zwar
 
-1.
+1. sofern der Vermittler verbundener Reiseleistungen ein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Beförderungsvertrag geschlossen hat: a)ein Formblatt gemäß dem Muster in Anlage 14, wenn die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs erfolgt,b)ein Formblatt gemäß dem Muster in Anlage 15, wenn die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs erfolgt, ein Formblatt gemäß dem Muster in Anlage 14, wenn die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs erfolgt, ein Formblatt gemäß dem Muster in Anlage 15, wenn die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs erfolgt,
 
-a)
-
-b)
-
-2.
-
-a)
-
-b)
+2. sofern es sich bei dem Vermittler verbundener Reiseleistungen nicht um einen Beförderer handelt, mit dem der Reisende einen die Rückbeförderung umfassenden Beförderungsvertrag geschlossen hat: a)ein Formblatt gemäß dem Muster in Anlage 16, wenn die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs erfolgt,b)ein Formblatt gemäß dem Muster in Anlage 17, wenn die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs erfolgt. ein Formblatt gemäß dem Muster in Anlage 16, wenn die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs erfolgt, ein Formblatt gemäß dem Muster in Anlage 17, wenn die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs erfolgt.
 
 ## Art 252: Sicherungsschein; Mitteilungspflicht des Absicherers
 
@@ -3701,89 +3428,39 @@ Das Bundesamt für Justiz leitet Auskunftsersuchen der zuständigen Behörden zu
 
 ### Anlage 1 — (zu Artikel 246a § 1 Absatz 2 Satz 2)
 
-Gestaltungshinweise:
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-–
-
-–
-
-b)
-
-–
-
-–
-
-–
-
-–
-
-c)
-
 ### Anlage 2 — (zu Artikel 246a § 1 Absatz 2 Satz 1 Nummer 1 und § 2 Absatz 2 Nummer 2)
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
 
 ### Anlage 3 — (zu Artikel 246b § 2 Absatz 3 Satz 1) Muster für die Widerrufsbelehrung bei im Fernabsatz und außerhalb von Geschäftsräumen geschlossenen Verträgen über Finanzdienstleistungen mit Ausnahme von Verträgen über die Erbringung von Zahlungsdiensten und Immobiliarförderdarlehensverträgen
 
-Gestaltungshinweise:
-
 ### Anlage 3a — (zu Artikel 246b § 2 Absatz 3 Satz 1)
-
-Gestaltungshinweise:
 
 ### Anlage 3b — (zu Artikel 246b § 2 Absatz 3 Satz 1)
 
-Gestaltungshinweise:
-
 ### Anlage 4 — (zu Artikel 247 § 2)
 
-1.
+1. Name und Kontaktangaben des Kreditgebers/Kreditvermittlers Kreditgeber Anschrift Telefon*) E-Mail*) Fax*) Internet-Adresse*)[Name] [Ladungsfähige Anschrift für Kontakte des Verbrauchers](falls zutreffend) Kreditvermittler Anschrift Telefon*) E-Mail*) Fax*) Internet-Adresse*) [Name] [Anschrift für Kontakte mit dem Verbraucher]-----*) Freiwillige Angaben des Kreditgebers In allen Fällen, in denen „falls zutreffend“ angegeben ist, muss der Kreditgeber das betreffende Kästchen ausfüllen, wenn die Information für den Kreditvertrag relevant ist, oder die betreffende Information bzw. die gesamte Zeile streichen, wenn die Information für die in Frage kommende Kreditart nicht relevant ist. Die Vermerke in eckigen Klammern dienen zur Erläuterung und sind durch die entsprechenden Angaben zu ersetzen.
 
-2.
+2. Beschreibung der wesentlichen Merkmale des Kredits KreditartGesamtkreditbetrag Obergrenze oder Summe aller Beträge, die aufgrund des Kreditvertrags zur Verfügung gestellt wirdBedingungen für die Inanspruchnahme Gemeint ist, wie und wann Sie das Geld erhaltenLaufzeit des KreditvertragsTeilzahlungen und gegebenenfalls Reihenfolge, in der die Teilzahlungen angerechnet werdenSie müssen folgende Zahlungen leisten: [Betrag, Anzahl und Periodizität der vom Verbraucher zu leistenden Zahlungen] Zinsen und/oder Kosten sind wie folgt zu entrichten:Von Ihnen zu zahlender Gesamtbetrag Betrag des geliehenen Kapitals zuzüglich Zinsen und etwaiger Kosten im Zusammenhang mit Ihrem Kredit[Summe des Gesamtkreditbetrags und der Gesamtkosten des Kredits](falls zutreffend) Der Kredit wird in Form eines Zahlungsaufschubs für eine Ware oder Dienstleistung gewährt oder ist mit der Lieferung bestimmter Waren oder der Erbringung einer Dienstleistung verbunden. Bezeichnung der Ware oder Dienstleistung Barzahlungspreis(falls zutreffend) Verlangte Sicherheiten Beschreibung der von Ihnen im Zusammenhang mit dem Kreditvertrag zu stellenden Sicherheiten [Art der Sicherheiten](falls zutreffend) Zahlungen dienen nicht der unmittelbaren Kapitaltilgung
 
-3.
+3. Kreditkosten Sollzinssatz oder gegebenenfalls die verschiedenen Sollzinssätze, die für den Kreditvertrag gelten[% – gebunden oder – veränderlich (mit dem Index oder Referenzzinssatz für den anfänglichen Sollzinssatz) – Zeiträume]Effektiver Jahreszins Gesamtkosten ausgedrückt als jährlicher Prozentsatz des Gesamtkreditbetrags Diese Angabe hilft Ihnen dabei, unterschiedliche Angebote zu vergleichen.[% Repräsentatives Beispiel unter Angabe sämtlicher in die Berechnung des Jahreszinses einfließender Annahmen]Ist – der Abschluss einer Kreditversicherung oder – die Inanspruchnahme einer anderen mit dem Kreditvertrag zusammenhängenden Nebenleistung zwingende Voraussetzung dafür, dass der Kredit überhaupt oder nach den vorgesehenen Vertragsbedingungen gewährt wird? Falls der Kreditgeber die Kosten dieser Dienstleistungen nicht kennt, sind sie nicht im effektiven Jahreszins enthalten. Ja/Nein [Falls ja, Art der Versicherung:] Ja/Nein [Falls ja, Art der Nebenleistung:]Kosten im Zusammenhang mit dem Kredit(falls zutreffend) Die Führung eines oder mehrerer Konten ist für die Buchung der Zahlungsvorgänge und der in Anspruch genommenen Kreditbeträge erforderlich.(falls zutreffend) Höhe der Kosten für die Verwendung eines bestimmten Zahlungsmittels (z. B. einer Kreditkarte)(falls zutreffend) Sonstige Kosten im Zusammenhang mit dem Kreditvertrag(falls zutreffend) Bedingungen, unter denen die vorstehend genannten Kosten im Zusammenhang mit dem Kreditvertrag geändert werden können(falls zutreffend) Verpflichtung zur Zahlung von NotarkostenKosten bei Zahlungsverzug Ausbleibende Zahlungen können schwer wiegende Folgen für Sie haben (z. B. Zwangsverkauf) und die Erlangung eines Kredits erschweren. Bei Zahlungsverzug wird Ihnen [… (anwendbarer Zinssatz und Regelungen für seine Anpassung sowie gegebenenfalls Verzugskosten)] berechnet.
 
-4.
+4. Andere wichtige rechtliche Aspekte Widerrufsrecht Sie haben das Recht, innerhalb von 14 Kalendertagen den Kreditvertrag zu widerrufen.Ja/NeinVorzeitige Rückzahlung Sie haben das Recht, den Kredit jederzeit ganz oder teilweise vorzeitig zurückzuzahlen. (falls zutreffend) Dem Kreditgeber steht bei vorzeitiger Rückzahlung eine Entschädigung zu [Festlegung der Entschädigung (Berechnungsmethode) gemäß § 502 BGB]Datenbankabfrage Der Kreditgeber muss Sie unverzüglich und unentgeltlich über das Ergebnis einer Datenbankabfrage unterrichten, wenn ein Kreditantrag aufgrund einer solchen Abfrage abgelehnt wird. Dies gilt nicht, wenn eine entsprechende Unterrichtung durch die Rechtsvorschriften der Europäischen Union untersagt ist oder den Zielen der öffentlichen Ordnung oder Sicherheit zuwiderläuft.Recht auf einen Kreditvertragsentwurf Sie haben das Recht, auf Verlangen unentgeltlich eine Kopie des Kreditvertragsentwurfs zu erhalten. Diese Bestimmung gilt nicht, wenn der Kreditgeber zum Zeitpunkt der Beantragung nicht zum Abschluss eines Kreditvertrags mit Ihnen bereit ist.(falls zutreffend) Zeitraum, während dessen der Kreditgeber an die vorvertraglichen Informationen gebunden ist Diese Informationen gelten vom … bis … (falls zutreffend)
 
-5.
+5. Zusätzliche Informationen beim Fernabsatz von Finanzdienstleistungen a) zum Kreditgeber(falls zutreffend) Vertreter des Kreditgebers in dem Mitgliedstaat, in dem Sie Ihren Wohnsitz haben Anschrift Telefon*) E-Mail*) Fax*) Internet-Adresse*) *) Freiwillige Angaben des Kreditgebers [Name] [Ladungsfähige Anschrift für Kontakte des Verbrauchers](falls zutreffend) Eintrag im Handelsregister [Handelsregister, in das der Kreditgeber eingetragen ist, und seine Handelsregisternummer oder eine gleichwertige in diesem Register verwendete Kennung](falls zutreffend) Zuständige Aufsichtsbehördeb) zum Kreditvertrag(falls zutreffend) Ausübung des Widerrufsrechts [Praktische Hinweise zur Ausübung des Widerrufsrechts, darunter Widerrufsfrist, Angabe der Anschrift, an die die Widerruferklärung zu senden ist, sowie Folgen bei Nichtausübung dieses Rechts](falls zutreffend) Recht, das der Kreditgeber der Aufnahme von Beziehungen zu Ihnen vor Abschluss des Kreditvertrags zugrunde legt(falls zutreffend) Klauseln über das auf den Kreditvertrag anwendbare Recht und/oder das zuständige Gericht [Entsprechende Klauseln hier wiedergeben](falls zutreffend) Wahl der SpracheDie Informationen und Vertragsbedingungen werden in [Angabe der Sprache] vorgelegt. Mit Ihrer Zustimmung werden wir während der Laufzeit des Kreditvertrags in [Angabe der Sprache(n)] mit Ihnen Kontakt halten.c) zu den RechtsmittelnVerfügbarkeit außergerichtlicher Beschwerde- und Rechtsbehelfsverfahren und Zugang dazu[Angabe, ob der Verbraucher, der Vertragspartei eines Fernabsatzvertrags ist, Zugang zu einem außergerichtlichen Beschwerde- und Rechtsbehelfsverfahren hat, und gegebenenfalls die Voraussetzungen für diesen Zugang]
 
 ### Anlage 5 — (zu Artikel 247 § 2)
 
-1.
+1. Name und Kontaktangaben des Kreditgebers/Kreditvermittlers Kreditgeber Anschrift Telefon*) E-Mail*) Fax*) Internet-Adresse*)[Name] [Ladungsfähige Anschrift für Kontakte des Verbrauchers](falls zutreffend) Kreditvermittler Anschrift Telefon*) E-Mail*) Fax*) Internet-Adresse*) [Name] [Ladungsfähige Anschrift für Kontakte des Verbrauchers]-----*) Freiwillige Angaben des Kreditgebers In allen Fällen, in denen „falls zutreffend" angegeben ist, muss der Kreditgeber das betreffende Kästchen ausfüllen, wenn die Information für den Kreditvertrag relevant ist, oder die betreffende Information bzw. die gesamte Zeile streichen, wenn die Information für die in Frage kommende Kreditart nicht relevant ist. Die Vermerke in eckigen Klammern dienen zur Erläuterung und sind durch die entsprechenden Angaben zu ersetzen.
 
-2.
+2. Beschreibung der wesentlichen Merkmale des Kredits KreditartGesamtkreditbetrag Obergrenze oder Summe aller Beträge, die aufgrund des Kreditvertrags zur Verfügung gestellt wirdLaufzeit des Kreditvertrags(falls zutreffend) Sie können jederzeit zur Rückzahlung des gesamten Kreditbetrags aufgefordert werden.
 
-3.
+3. Kreditkosten Sollzinssatz oder gegebenenfalls die verschiedenen Sollzinssätze, die für den Kreditvertrag gelten[% – gebunden oder – veränderlich (mit dem Index oder Referenzzinssatz für den anfänglichen Sollzinssatz)](falls zutreffend) Effektiver Jahreszins*) Gesamtkosten ausgedrückt als jährlicher Prozentsatz des Gesamtkreditbetrags Diese Angabe hilft Ihnen dabei, unterschiedliche Angebote zu vergleichen.[%. Repräsentatives Beispiel unter Angabe sämtlicher in die Berechnung des Jahreszinses einfließender Annahmen](falls zutreffend) Kosten (falls zutreffend) Bedingungen, unter denen diese Kosten geändert werden können[Sämtliche vom Zeitpunkt des Vertragsabschlusses des Kreditvertrags an zu zahlende Kosten]Kosten bei ZahlungsverzugBei Zahlungsverzug wird Ihnen [… (anwendbarer Zinssatz und Regelungen für seine Anpassung sowie gegebenenfalls Verzugskosten)] berechnet.-----*) Bei Überziehungsmöglichkeiten nach § 504 Abs. 2 des Bürgerlichen Gesetzbuchs, bei denen der Kredit jederzeit vom Kreditgeber gekündigt werden kann oder binnen drei Monaten zurückgezahlt werden muss, muss der effektive Jahreszins nicht angegeben werden, wenn der Kreditgeber außer den Sollzinsen keine weiteren Kosten verlangt.
 
-4.
+4. Andere wichtige rechtliche Aspekte Beendigung des Kreditvertrags[Bedingungen und Verfahren zur Beendigung des Kreditvertrags]Datenbankabfrage Der Kreditgeber muss Sie unverzüglich und unentgeltlich über das Ergebnis einer Datenbankabfrage unterrichten, wenn ein Kreditantrag aufgrund einer solchen Abfrage abgelehnt wird. Dies gilt nicht, wenn eine entsprechende Unterrichtung durch die Rechtsvorschriften der Europäischen Union untersagt ist oder den Zielen der öffentlichen Ordnung oder Sicherheit zuwiderläuft.(falls zutreffend) Zeitraum, während dessen der Kreditgeber an die vorvertraglichen Informationen gebunden istDiese Informationen gelten vom … bis … (falls zutreffend)
 
-5.
+5. Zusätzliche Informationen, die zu liefern sind, wenn die vorvertraglichen Informationen einen Verbraucherkredit für eine Umschuldung betreffen Teilzahlungen und gegebenenfalls Reihenfolge, in der die Teilzahlungen angerechnet werdenSie müssen folgende Zahlungen leisten: [Repräsentatives Beispiel für einen Ratenzahlungsplan unter Angabe des Betrags, der Anzahl und der Periodizität der vom Verbraucher zu leistenden Zahlungen]Von Ihnen zu zahlender GesamtbetragVorzeitige Rückzahlung Sie haben das Recht, den Kredit jederzeit ganz oder teilweise vorzeitig zurückzuzahlen. (falls zutreffend) Dem Kreditgeber steht bei vorzeitiger Rückzahlung eine Entschädigung zu. [Festlegung der Entschädigung (Berechnungsmethode) gemäß § 502 BGB]
 
-6.
+6. Zusätzlich zu gebende Informationen beim Fernabsatz von Finanzdienstleistungen a) zum Kreditgeber(falls zutreffend) Vertreter des Kreditgebers in dem Mitgliedstaat, in dem Sie Ihren Wohnsitz haben Anschrift Telefon*) E-Mail*) Fax*) Internet-Adresse*) *) Freiwillige Angaben des Kreditgebers.[Name][Ladungsfähige Anschrift für Kontakte des Verbrauchers](falls zutreffend) Eintrag im Handelsregister [Handelsregister, in das der Kreditgeber eingetragen ist, und seine Handelsregisternummer oder eine gleichwertige in diesem Register verwendete Kennung](falls zutreffend) zuständige Aufsichtsbehördeb) zum KreditvertragWiderrufsrecht Sie haben das Recht, innerhalb von 14 Kalendertagen den Kreditvertrag zu widerrufen. (falls zutreffend) Ausübung des WiderrufsrechtsJa/Nein [Praktische Hinweise zur Ausübung des Widerrufsrechts, u. a. Anschrift, an die die Widerrufserklärung zu senden ist, sowie Folgen bei Nichtausübung dieses Rechts](falls zutreffend) Recht, das der Kreditgeber der Aufnahme von Beziehungen zu Ihnen vor Abschluss des Kreditvertrags zugrunde legt(falls zutreffend) Klauseln über das auf den Kreditvertrag anwendbare Recht und/oder das zuständige Gericht [Entsprechende Klauseln hier wiedergeben](falls zutreffend) Wahl der Sprache Die Informationen und Vertragsbedingungen werden in [Angabe der Sprache] vorgelegt. Mit Ihrer Zustimmung werden wir während der Laufzeit des Kreditvertrags in [Angabe der Sprache(n)] mit Ihnen Kontakt halten.c) zu den RechtsmittelnVerfügbarkeit außergerichtlicher Beschwerde- und Rechtsbehelfsverfahren und Zugang zu ihnen[Angabe, ob der Verbraucher, der Vertragspartei eines Fernabsatzvertrags ist, Zugang zu einem außergerichtlichen Beschwerde- und Rechtsbehelfsverfahren hat, und gegebenenfalls die Voraussetzungen für diesen Zugang]
 
 ### Anlage 6 — (zu Artikel 247 § 1 Absatz 2)
 
@@ -3793,175 +3470,135 @@ Bei Angaben, denen der Text „falls zutreffend“ vorangestellt ist, hat der Kr
 
 Die nachstehenden Informationen müssen in einem einzigen Dokument enthalten sein. Es ist eine gut lesbare Schriftgröße zu wählen. Zur Hervorhebung sind Fettdruck, Schattierung oder eine größere Schriftgröße zu verwenden. Sämtliche Warnhinweise sind optisch hervorzuheben.
 
-Muster für das ESIS-Merkblatt
-
 Beim Ausfüllen des ESIS-Merkblatts sind die folgenden Hinweise zu beachten:
 
 Abschnitt „Vorbemerkungen“
 
 Das Datum, bis zu dem die Angaben gelten, ist optisch angemessen hervorzuheben. Für die Zwecke dieses Abschnitts bezeichnet der Begriff „Gültigkeitsdatum“ den Zeitraum, innerhalb dessen die im ESIS-Merkblatt enthaltenen Angaben, etwa der Sollzinssatz, unverändert bleiben und zur Anwendung kommen werden, falls der Kreditgeber beschließt, den Kredit innerhalb dieser Frist zu bewilligen. Hängt die Festlegung des anwendbaren Sollzinssatzes und anderer Kosten vom Ergebnis des Verkaufs zugrunde liegender Wertpapiere ab, so können der vertraglich vereinbarte Sollzinssatz und andere Kosten gegebenenfalls von diesen Angaben abweichen. Ausschließlich unter diesen Umständen ist auf die Tatsache, dass sich das Gültigkeitsdatum nicht auf den Sollzinssatz und andere Kosten bezieht, mit folgender Angabe hinzuweisen: „mit Ausnahme des Zinssatzes und anderer Kosten“.
 
-(1)
+(1) Name, Telefonnummer und Anschrift des Kreditgebers müssen diejenigen Kontaktdaten sein, die der Verbraucher in der künftigen Kommunikation verwenden kann.
 
-(2)
+(2) Angaben zu E-Mail-Adresse, Faxnummer, Internetadresse und Kontaktperson oder -stelle sind fakultativ.
 
-(3)
+(3) Wird der Kreditvertrag im Rahmen eines Fernabsatzgeschäfts gemäß § 312c des Bürgerlichen Gesetzbuchs angeboten, muss der Kreditgeber hier gegebenenfalls gemäß Artikel 246b § 1 Absatz 1 Nummer 3 und 4 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche Namen und Anschrift seines Vertreters in dem Mitgliedstaat der Europäischen Union, in dem der Verbraucher seinen Wohnsitz hat, angeben. Die Angabe von Telefonnummer, E-Mail-Adresse und Internetadresse des Vertreters des Kreditgebers ist fakultativ.
 
-(4)
+(4) Kommt Abschnitt 2 nicht zur Anwendung, so unterrichtet der Kreditgeber unter Verwendung der Formulierungen in Teil A den Verbraucher darüber, ob und auf welcher Grundlage Beratungsdienstleistungen (Beratungsleistungen gemäß § 511 des Bürgerlichen Gesetzbuchs) erbracht werden.
 
 Erhält der Verbraucher die Produktinformationen von einem Kreditvermittler, so erteilt dieser die folgenden Informationen:
 
-(1)
+(1) Name, Telefonnummer und Anschrift des Kreditvermittlers müssen diejenigen Kontaktdaten sein, die der Verbraucher in der künftigen Kommunikation verwenden kann.
 
-(2)
+(2) Angaben zu E-Mail-Adresse, Faxnummer, Internetadresse und Kontaktperson oder -stelle sind fakultativ.
 
-(3)
+(3) Der Kreditvermittler unterrichtet unter Verwendung der Formulierungen in Teil A den Verbraucher darüber, ob und auf welcher Grundlage Beratungsdienstleistungen (Beratungsleistungen gemäß § 511 des Bürgerlichen Gesetzbuchs) erbracht werden.
 
-(4)
+(4) Erläuterungen zur Art und Weise der Vergütung des Kreditvermittlers. Erhält dieser eine Provision vom Kreditgeber, so sind der Betrag und – sofern abweichend von der Angabe unter Abschnitt 1 – der Name des Kreditgebers anzugeben.
 
-(1)
+(1) In diesem Abschnitt sind die Hauptmerkmale des Kredits, einschließlich des Wertes, der Währung und der potenziellen Risiken, die mit dem Sollzinssatz (darunter die unter Nummer 8 genannten Risiken) und der Amortisationsstruktur verbunden sind, klar darzulegen.
 
-(2)
+(2) Handelt es sich bei der Kreditwährung nicht um die Landeswährung des Verbrauchers, so weist der Kreditgeber darauf hin, dass der Verbraucher einen regelmäßigen Warnhinweis erhält, sobald der Wechselkurs um mehr als 20 % schwankt, und dass er das Recht hat, die Währung des Kreditvertrags in seine Landeswährung umzuwandeln. Er weist auch auf alle sonstigen Regelungen, die dem Verbraucher zur Begrenzung des Wechselkursrisikos zur Verfügung stehen, hin. Ist im Kreditvertrag eine Bestimmung zur Begrenzung des Wechselkursrisikos vorgesehen, so gibt der Kreditgeber den Höchstbetrag an, den der Verbraucher gegebenenfalls zurückzuzahlen hat. Ist im Kreditvertrag keine Bestimmung vorgesehen, wonach das Wechselkursrisiko für den Verbraucher auf eine Wechselkursschwankung von weniger als 20 % begrenzt wird, so gibt der Kreditgeber ein anschauliches Beispiel dafür, wie sich ein Kursverfall der Landeswährung des Verbrauchers von 20 % gegenüber der Kreditwährung auf den Wert des Kredits auswirkt.
 
-(3)
+(3) Die Laufzeit des Kredits ist – je nach Relevanz – in Jahren oder Monaten auszudrücken. Kann sich die Kreditlaufzeit während der Geltungsdauer des Vertrags ändern, erläutert der Kreditgeber, wann und unter welchen Bedingungen dies möglich ist. Handelt es sich um einen unbefristeten Kredit, etwa für eine gesicherte Kreditkarte, so ist dies vom Kreditgeber klar anzugeben.
 
-(4)
+(4) Die Art des Kredits ist genau anzugeben (z. B. grundpfandrechtlich besicherter Kredit, wohnungswirtschaftlicher Kredit, gesicherte Kreditkarte). Bei der Beschreibung der Kreditart ist klar anzugeben, wie Kapital und Zinsen während der Laufzeit des Kredits zurückzuzahlen sind (d. h. die Amortisationsstruktur) und ob der Kreditvertrag auf einer Kapitalrückzahlung oder auf der Endfälligkeit basiert oder eine Mischung von beidem ist.
 
-(5)
+(5) Handelt es sich bei dem gewährten Kredit oder einem Teil davon um einen endfälligen Kredit, so ist ein diesbezüglicher eindeutiger Hinweis unter Verwendung der Formulierung in Teil A deutlich sichtbar am Ende dieses Abschnitts einzufügen.
 
-(6)
+(6) In der Rubrik [Art des anwendbaren Zinssatzes] ist anzugeben, ob der Sollzinssatz fest oder variabel ist, sowie gegebenenfalls die Zeiträume, für die der Zinssatz festgeschrieben ist, wie häufig der Zinssatz in der Folge überprüft wird und inwieweit die Variabilität des Sollzinssatzes nach oben oder nach unten hin begrenzt ist. Die Formel für die Überprüfung des Sollzinssatzes und ihrer einzelnen Bestandteile (z. B. Referenzzinssatz, Zinsmarge) ist zu erläutern. Der Kreditgeber hat anzugeben, etwa mittels einer Internetadresse, wo weitere Informationen zu den in der Formel zugrunde gelegten Indizes oder Zinssätzen zu finden sind, z. B. EURIBOR-Satz oder Referenzzinssatz der Zentralbank.
 
-(7)
+(7) Gelten unter bestimmten Umständen unterschiedliche Sollzinssätze, so sind diese Angaben für alle anzuwendenden Sollzinssätze zu machen.
 
-(8)
+(8) Der „zurückzuzahlende Gesamtbetrag“ entspricht dem Gesamtbetrag, den der Verbraucher zu zahlen hat. Er wird dargestellt als die Summe aus Nettodarlehensbetrag und Gesamtkosten des Kredits für den Verbraucher. Ist der Sollzinssatz für die Laufzeit des Vertrags nicht festgelegt, so ist optisch hervorzuheben, dass dieser Betrag lediglich Beispielcharakter hat und insbesondere bei einer Veränderung des Sollzinssatzes variieren kann.
 
-(9)
+(9) Wird der Kredit durch eine Hypothek auf die Immobilie oder durch eine andere vergleichbare Sicherheit oder ein Recht an einer Immobilie gesichert, hat der Kreditgeber den Verbraucher darauf hinzuweisen. Der Kreditgeber hat gegebenenfalls den geschätzten Wert der Immobilie oder der sonstigen Sicherheiten zu nennen, die zur Erstellung dieses Merkblatts herangezogen wurden.
 
-(10)
+(10) Der Kreditgeber gibt gegebenenfalls Folgendes an: a)die „Beleihungsgrenze“ (maximale Höhe des Kredits im Verhältnis zum Wert der Immobilie), die das Verhältnis zwischen Kredithöhe und Objektwert angibt; neben der entsprechenden Angabe ist ein konkretes Zahlenbeispiel für die Ermittlung des Höchstbetrags zu nennen, der bei einem bestimmten Immobilienwert als Kredit aufgenommen werden kann oderb)den „Mindestwert der Immobilie, den der Kreditgeber für die Vergabe eines Kredits in der angegebenen Höhe voraussetzt“. die „Beleihungsgrenze“ (maximale Höhe des Kredits im Verhältnis zum Wert der Immobilie), die das Verhältnis zwischen Kredithöhe und Objektwert angibt; neben der entsprechenden Angabe ist ein konkretes Zahlenbeispiel für die Ermittlung des Höchstbetrags zu nennen, der bei einem bestimmten Immobilienwert als Kredit aufgenommen werden kann oder den „Mindestwert der Immobilie, den der Kreditgeber für die Vergabe eines Kredits in der angegebenen Höhe voraussetzt“.
 
-a)
+(11) Bei mehrteiligen Krediten (z. B. zum Teil mit festem und zum Teil mit variablem Zinssatz) muss dies aus den Angaben zur Art des Kredits hervorgehen und die vorgeschriebenen Informationen müssen für jeden Teil des Kredits angegeben werden.
 
-b)
+(1) Der Begriff „Zinssatz“ bezeichnet den Sollzinssatz oder die Sollzinssätze.
 
-(11)
+(2) Der Sollzinssatz ist als Prozentwert anzugeben. Handelt es sich um einen variablen Sollzinssatz auf Basis eines Referenzzinssatzes, so kann der Kreditgeber den Sollzinssatz in Form eines Referenzzinssatzes und eines Prozentwerts seiner Zinsmarge angeben. Der Kreditgeber muss allerdings den am Tag der Ausstellung des ESIS-Merkblatts geltenden Wert des Referenzzinssatzes angeben. Im Falle eines variablen Sollzinssatzes ist Folgendes anzugeben: a)die der Berechnung des effektiven Jahreszinses zugrunde gelegten Annahmen,b)gegebenenfalls die geltenden Ober- und Untergrenzen sowiec)ein Warnhinweis, dass sich die Variabilität negativ auf die tatsächliche Höhe des effektiven Jahreszinses auswirken könnte. die der Berechnung des effektiven Jahreszinses zugrunde gelegten Annahmen, gegebenenfalls die geltenden Ober- und Untergrenzen sowie ein Warnhinweis, dass sich die Variabilität negativ auf die tatsächliche Höhe des effektiven Jahreszinses auswirken könnte. Der Warnhinweis hat in größerer Schrift deutlich sichtbar im Hauptteil des ESIS-Merkblatts zu erscheinen, damit die Aufmerksamkeit der Verbraucher darauf gelenkt wird. Der Warnhinweis ist durch ein anschauliches Beispiel zum effektiven Jahreszins zu ergänzen. Besteht eine Obergrenze für den Sollzinssatz, so basiert das Beispiel auf der Annahme, dass der Sollzinssatz bei frühestmöglicher Gelegenheit auf das höchste im Kreditvertrag vorgesehene Niveau ansteigt. Besteht keine Obergrenze, so bildet das Beispiel den effektiven Jahreszins beim höchsten Sollzinssatz der mindestens letzten 20 Jahre ab oder – falls die der Berechnung des Sollzinssatzes zugrunde liegenden Daten nur für einen Zeitraum von weniger als 20 Jahren vorliegen – des längsten Zeitraums, für den solche Daten vorliegen, und zwar ausgehend vom Höchststand des jeweiligen externen Referenzsatzes, der gegebenenfalls für die Berechnung des Sollzinssatzes herangezogen wurde oder vom Höchststand eines Benchmarkzinssatzes, der von einer zuständigen Behörde oder der Europäischen Bankenaufsichtsbehörde (EBA) festgesetzt wird, sofern der Kreditgeber keinen externen Referenzsatz verwendet. Diese Anforderung gilt nicht für Kreditverträge, bei denen für einen konkreten Anfangszeitraum von mindestens fünf Jahren ein fester Sollzinssatz vereinbart wurde, der anschließend nach Verhandlungen zwischen Kreditgeber und Verbraucher für einen weiteren Zeitraum festgeschrieben werden kann. Im Falle von Kreditverträgen, bei denen für einen konkreten Anfangszeitraum von mindestens fünf Jahren ein fester Sollzinssatz vereinbart wurde, der anschließend nach Verhandlungen zwischen Kreditgeber und Verbraucher für einen weiteren Zeitraum festgeschrieben werden kann, muss das Merkblatt einen Warnhinweis enthalten, dass der effektive Jahreszins auf der Grundlage des Sollzinssatzes für den Anfangszeitraum berechnet worden ist. Der Warnhinweis ist durch ein zusätzliches anschauliches Beispiel für den gemäß § 16 Absatz 2 bis 6 und 8 der Preisangabenverordnung errechneten effektiven Jahreszins zu ergänzen. Bei mehrteiligen Krediten (z. B. zugleich zum Teil mit festem und zum Teil mit variablem Zinssatz) sind die entsprechenden Informationen für jeden einzelnen Teil des Kredits zu erteilen.
 
-(1)
+(3) In der Rubrik „sonstige Komponenten des effektiven Jahreszinses“ sind alle sonstigen im effektiven Jahreszins enthaltenen Kosten aufzuführen, einschließlich einmaliger Kosten – etwa Verwaltungsgebühren – sowie regelmäßige Kosten wie jährliche Verwaltungsgebühren. Der Kreditgeber listet die einzelnen Kosten nach Kategorien auf (einmalige Kosten, in den Raten enthaltene regelmäßig anfallende Kosten, in den Raten nicht enthaltene regelmäßig anfallende Kosten) und gibt die jeweiligen Beträge, den Zahlungsempfänger und den Zeitpunkt der Fälligkeit an. Dabei müssen die für Vertragsverletzungen anfallenden Kosten nicht enthalten sein. Ist die Höhe der Kosten nicht bekannt, so gibt der Kreditgeber, falls möglich, einen Näherungswert an; ist dies nicht möglich, so erläutert er, wie sich der Betrag berechnen wird, wobei ausdrücklich anzugeben ist, dass der genannte Betrag lediglich Hinweischarakter hat. Sind einzelne Kosten im effektiven Jahreszins nicht enthalten, weil sie dem Kreditgeber nicht bekannt sind, so ist dies optisch hervorzuheben. Hat der Verbraucher dem Kreditgeber seine Wünsche in Bezug auf eines oder mehrere Elemente seines Kredits mitgeteilt, beispielsweise in Bezug auf die Laufzeit des Kreditvertrags oder den Gesamtkreditbetrag, so muss der Kreditgeber diese Elemente soweit möglich aufgreifen; sofern ein Kreditvertrag unterschiedliche Verfahren der Inanspruchnahme mit jeweils unterschiedlichen Gebühren oder Sollzinssätzen vorsieht und der Kreditgeber die Annahmen nach der Anlage zu § 16 der Preisangabenverordnung zugrunde legt, so weist er darauf hin, dass andere Mechanismen der Inanspruchnahme bei dieser Art des Kreditvertrags zu einem höheren effektiven Jahreszins führen können. Falls die Bedingungen für die Inanspruchnahme in die Berechnung des effektiven Jahreszinses einfließen, hebt der Kreditgeber die Gebühren optisch hervor, die mit anderen Mechanismen der Inanspruchnahme verbunden sein können, welche nicht notwendigerweise diejenigen sind, anhand deren der effektive Jahreszins berechnet worden ist.
 
-(2)
+(4) Fällt eine Gebühr für die Eintragung einer Hypothek oder vergleichbaren Sicherheit an, so ist diese zusammen mit dem Betrag (sofern bekannt) in diesem Abschnitt anzugeben oder – falls dies nicht möglich ist – ist die Grundlage für die Festsetzung dieses Betrags anzugeben. Ist die Gebühr bekannt und wurde sie in den effektiven Jahreszins eingerechnet, so sind das Anfallen der Gebühr und deren Höhe unter „einmalige Kosten“ auszuweisen. Ist dem Kreditgeber die Gebühr nicht bekannt und wurde diese daher nicht in den effektiven Jahreszins eingerechnet, so muss das Anfallen einer Gebühr klar und deutlich in der Liste der dem Kreditgeber nicht bekannten Kosten aufgeführt werden. In beiden Fällen ist die Standardformulierung gemäß Teil A unter der entsprechenden Rubrik zu verwenden.
 
-a)
+(1) Sind regelmäßige Zahlungen zu leisten, ist das Zahlungsintervall (z. B. monatlich) anzugeben. Sind Zahlungen in unregelmäßigen Abständen vorgesehen, ist dies dem Verbraucher klar zu erläutern.
 
-b)
+(2) Es sind alle über die gesamte Kreditlaufzeit zu leistenden Zahlungen aufzuführen.
 
-c)
+(1) Es ist klar anzugeben, in welcher Währung der Kredit bereitgestellt wird und die Raten gezahlt werden.
 
-(3)
+(2) Kann sich die Höhe der Raten während der Kreditlaufzeit ändern, hat der Kreditgeber anzugeben, für welchen Zeitraum die anfängliche Ratenhöhe unverändert bleibt und wann und wie häufig sie sich in der Folge ändern wird.
 
-(4)
+(3) Handelt es sich bei dem gewährten Kredit oder einem Teil davon um einen endfälligen Kredit, so ist ein diesbezüglicher eindeutiger Hinweis unter Verwendung der Formulierung in Teil A deutlich sichtbar am Ende dieses Abschnitts einzufügen. Muss der Verbraucher ein damit verbundenes Sparprodukt aufnehmen, um einen durch eine Hypothek oder eine vergleichbare Sicherheit gesicherten endfälligen Kredit zu erhalten, sind Betrag und Häufigkeit von Zahlungen für dieses Produkt anzugeben.
 
-(1)
+(4) Im Falle eines variablen Sollzinssatzes muss das Merkblatt einen diesbezüglichen Hinweis enthalten, wobei die Formulierung unter Teil A zu verwenden und ein anschauliches Beispiel für die maximale Zahlungsrate anzuführen ist. Besteht eine Obergrenze, so muss in dem Beispiel die Höhe der Raten aufgezeigt werden, die fällig sind, falls der Sollzinssatz die Obergrenze erreicht. Besteht keine Obergrenze, so bildet der ungünstigste denkbare Verlauf die Höhe der Ratenzahlungen beim höchsten Sollzinssatz der letzten 20 Jahre ab oder – falls die der Berechnung des Sollzinssatzes zugrunde liegenden Daten nur für einen Zeitraum von weniger als 20 Jahren vorliegen – des längsten Zeitraums, für den solche Daten vorliegen, und zwar ausgehend vom Höchststand des jeweiligen externen Referenzsatzes, der gegebenenfalls für die Berechnung des Sollzinssatzes herangezogen wurde oder vom Höchststand eines Benchmarkzinssatzes, der von einer zuständigen Behörde oder der EBA festgesetzt wird, sofern der Kreditgeber keinen externen Referenzsatz verwendet. Die Anforderung, ein anschauliches Beispiel anzuführen, gilt nicht für Kreditverträge, bei denen ein fester Sollzinssatz für einen konkreten Anfangszeitraum von mindestens fünf Jahren vereinbart wurde, der anschließend nach Verhandlungen zwischen Kreditgeber und Verbraucher für einen weiteren Zeitraum festgelegt werden kann. Bei mehrteiligen Krediten (d. h. zugleich zum Teil mit festem und zum Teil mit variablem Zinssatz) sind die entsprechenden Informationen für jeden einzelnen Teil des Kredits und für den Gesamtkredit anzugeben.
 
-(2)
+(5) (falls zutreffend) Wird der Kredit in einer anderen Währung als der Landeswährung des Verbrauchers bereitgestellt oder ist er auf eine andere Währung als die Landeswährung des Verbrauchers indexiert, verdeutlicht der Kreditgeber – unter Verwendung der Formulierung unter Teil A – anhand eines Zahlenbeispiels, wie sich Änderungen des maßgeblichen Wechselkurses auf die Höhe der Raten auswirken können. Dieses Beispiel basiert auf einem Kursverlust der Landeswährung des Verbrauchers von 20 % und wird von einem Hinweis an hervorgehobener Stelle begleitet, dass die Raten um mehr als den in diesem Beispiel angenommenen Betrag steigen können. Besteht eine Obergrenze, die den Anstieg auf weniger als 20 % begrenzt, so ist stattdessen der Höchstwert der Zahlungen in der Landeswährung des Verbrauchers anzugeben und der Hinweis auf etwaige weitere Anstiege entfällt.
 
-(1)
+(6) Handelt es sich bei dem gesamten Kreditvertrag oder einem Teil davon um einen Kreditvertrag mit variablem Zinssatz und kommt ferner Nummer 5 zur Anwendung, so ist das Beispiel nach Nummer 4 auf der Grundlage der Ratenhöhe im Sinne von Nummer 1 anzugeben.
 
-(2)
+(7) Werden die Raten in einer anderen Währung als der Kreditwährung gezahlt oder hängt die Höhe der einzelnen in der Landeswährung des Verbrauchers ausgedrückten Raten von dem entsprechenden Betrag in einer anderen Währung ab, so sind in diesem Abschnitt der Termin, zu dem der anwendbare Wechselkurs berechnet wurde, sowie entweder der Wechselkurs oder die Grundlage für dessen Berechnung und die Häufigkeit der Anpassung desselben anzugeben. Gegebenenfalls ist dabei der Name der den Wechselkurs veröffentlichenden Einrichtung zu nennen.
 
-(3)
+(8) Handelt es sich um einen Kredit mit abgegrenztem Zins, bei dem der fällige Zins durch die Raten nicht vollständig zurückbezahlt und zum ausstehenden Gesamtkreditbetrag hinzuaddiert wird, so ist zu erläutern, wie und wann der abgegrenzte Zins als Barbetrag zu dem Kredit hinzuaddiert wird und wie sich dies auf die Restschuld des Verbrauchers auswirkt.
 
-(4)
+(1) Dieser Abschnitt ist aufzunehmen, falls es sich um einen Kredit mit abgegrenztem Zins handelt, bei dem der fällige Zins durch die Raten nicht vollständig zurückbezahlt und zum ausstehenden Gesamtkreditbetrag hinzuaddiert wird, oder falls der Sollzinssatz für die Laufzeit des Kreditvertrags festgeschrieben ist. Der Abschnitt ist ferner aufzunehmen, wenn im Kreditvertrag ein Zeitpunkt für die Rückzahlung des Kredits bestimmt werden soll. Soll im Kreditvertrag ein Zeitpunkt für die Rückzahlung des Kredits bestimmt werden, ist der Verbraucher darauf hinzuweisen, dass er vom Kreditgeber jederzeit einen Tilgungsplan nach Artikel 247 § 14 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche verlangen kann.
 
-(5)
+(2) Kann der Sollzinssatz während der Kreditlaufzeit variieren, so muss der Kreditgeber nach Angabe des Sollzinssatzes den Zeitraum nennen, während dessen der Anfangszinssatz unverändert bleibt, wenn dieser bekannt ist.
 
-(6)
+(3) Die Tabelle in diesem Abschnitt muss folgende Spalten enthalten: „Rückzahlungsplan“ (z. B. Monat 1, Monat 2, Monat 3), „Ratenhöhe“, „pro Rate zu zahlende Zinsen“, „sonstige in der Rate enthaltene Kosten“ (falls zutreffend), „pro Rate zurückgezahltes Kapital“ und „nach der jeweiligen Ratenzahlung noch zurückzuzahlendes Kapital“.
 
-(7)
+(4) Für das erste Jahr der Rückzahlung sind für jede einzelne Ratenzahlung die betreffenden Angaben und für jede einzelne Spalte die Zwischensumme am Ende des ersten Jahres anzugeben. Für die Folgejahre können die Angaben auf Jahresbasis gemacht werden. Am Ende der Tabelle ist eine Reihe mit den Gesamtbeträgen für alle Spalten anzufügen. Die vom Verbraucher gezahlte Gesamtsumme der Spalte „Höhe der Ratenzahlung“ ist optisch deutlich hervorzuheben und als solche darzustellen.
 
-(8)
+(5) Ist der Sollzinssatz Gegenstand einer Überprüfung und ist die Ratenhöhe nach einer solchen Überprüfung nicht bekannt, kann der Kreditgeber im Tilgungsplan für die gesamte Kreditlaufzeit dieselbe Ratenhöhe angeben. In diesem Fall macht der Kreditgeber den Verbraucher darauf aufmerksam, indem er den Unterschied zwischen bereits feststehenden Beträgen und hypothetischen Beträgen optisch verdeutlicht (z. B. durch Schriftgröße, Rahmen oder Schattierung). Außerdem ist in leicht verständlicher Form zu erläutern, für welche Zeiträume und aus welchen Gründen sich die in der Tabelle angegebenen Beträge ändern können.
 
-(1)
+(1) Der Kreditgeber nennt in diesem Abschnitt die mit der Kreditvergabe verbundenen Auflagen, so die Auflage, die Immobilie zu versichern, eine Lebensversicherung abzuschließen, das Gehalt auf ein bei dem Kreditgeber geführtes Konto überweisen zu lassen oder ein anderes Produkt oder eine andere Dienstleistung zu erwerben. Für jede dieser Auflagen gibt der Kreditgeber an, wem gegenüber die Verpflichtung besteht und bis wann ihr nachzukommen ist.
 
-(2)
+(2) Der Kreditgeber gibt die Dauer der Auflage an, z. B. bis zum Ablauf des Kreditvertrags. Der Kreditgeber gibt für jede Verpflichtung die dem Verbraucher entstehenden Kosten an, die im effektiven Jahreszins nicht berücksichtigt wurden.
 
-(3)
+(3) Der Kreditgeber teilt mit, ob der Verbraucher zum Erwerb etwaiger Nebenleistungen verpflichtet ist, um den Kredit zu den genannten Bedingungen zu erhalten, und ob der Verbraucher gegebenenfalls verpflichtet ist, diese vom bevorzugten Anbieter des Kreditgebers zu erwerben oder ob er diese von einem Anbieter seiner Wahl erwerben kann. Hängt eine solche Möglichkeit davon ab, dass die Nebenleistungen bestimmte Mindestmerkmale aufweisen, so sind diese in dieser Rubrik zu beschreiben. Sofern der Kreditvertrag mit anderen Produkten gebündelt angeboten wird, nennt der Kreditgeber die wichtigsten Merkmale dieser anderen Produkte und gibt eindeutig an, ob der Verbraucher das Recht hat, den Kreditvertrag oder die an ihn geknüpften Produkte voneinander getrennt zu kündigen und zu welchen Bedingungen und mit welchen Folgen dies möglich ist sowie gegebenenfalls die möglichen Folgen der Kündigung der in Verbindung mit dem Kreditvertrag vorgeschriebenen Nebenleistungen.
 
-(4)
+(1) Der Kreditgeber nennt die etwaigen Bedingungen für eine vorzeitige vollständige oder teilweise Rückzahlung des Kredits.
 
-(5)
+(2) In der Rubrik „Ablöseentschädigung“ weist der Kreditgeber den Verbraucher auf die im Falle einer vorzeitigen Rückzahlung mögliche Vorfälligkeitsentschädigung hin und gibt sofern möglich deren Höhe an. Der Kreditgeber erläutert, wie die Vorfälligkeitsentschädigung berechnet wird, und gibt den potenziellen Höchstbetrag der Entschädigung an oder – falls dies nicht möglich ist – macht dem Verbraucher in einem anschaulichen Beispiel deutlich, wie hoch die Entschädigung bei Zugrundelegung unterschiedlicher möglicher Szenarien ausfällt.
 
-(1)
+(1) Gegebenenfalls erläutert der Kreditgeber die Möglichkeit und die Bedingungen für die Übertragung des Kredits auf einen anderen Kreditnehmer oder eine andere Immobilie.
 
-(2)
+(2) (falls zutreffend) Zusätzliche Merkmale: Wenn Produkte eines der unten unter Nummer 5 aufgelisteten Merkmale enthalten, muss dieser Abschnitt diese Merkmale auflisten und eine knappe Erläuterung der folgenden Punkte enthalten: –die Bedingungen, unter denen der Verbraucher dieses Merkmal nutzen kann;–jegliche mit dem Merkmal verbundenen Bedingungen;–ob gewöhnlich mit dem Merkmal verbundene gesetzliche oder andere Schutzvorkehrungen für den Verbraucher wegfallen, wenn das Merkmal Bestandteil des durch eine Hypothek oder vergleichbare Sicherheit gesicherten Kredits ist, und–die Firma, die das Merkmal anbietet (sofern mit dem Kreditgeber nicht identisch). die Bedingungen, unter denen der Verbraucher dieses Merkmal nutzen kann; jegliche mit dem Merkmal verbundenen Bedingungen; ob gewöhnlich mit dem Merkmal verbundene gesetzliche oder andere Schutzvorkehrungen für den Verbraucher wegfallen, wenn das Merkmal Bestandteil des durch eine Hypothek oder vergleichbare Sicherheit gesicherten Kredits ist, und die Firma, die das Merkmal anbietet (sofern mit dem Kreditgeber nicht identisch).
 
-(3)
+(3) Wenn das Merkmal zusätzliche Kredite umfasst, müssen dem Verbraucher in diesem Abschnitt die folgenden Punkte erläutert werden: der Gesamtkreditbetrag (einschließlich des Kredits, der durch die Hypothek oder vergleichbare Sicherheit gesichert ist); ob der zusätzliche Kredit besichert ist; die entsprechenden Sollzinssätze und ob er einer Regulierung unterliegt. Dieser zusätzliche Kreditbetrag ist entweder im Rahmen der ursprünglichen Kreditwürdigkeitsprüfung enthalten oder – wenn dies nicht der Fall ist – es wird in diesem Abschnitt klargestellt, dass die Verfügbarkeit des zusätzlichen Betrags von einer weiteren Prüfung der Fähigkeit des Verbrauchers, den Kredit zurückzuzahlen, abhängt.
 
-(1)
+(4) Wenn das Merkmal einen Träger für Spareinlagen umfasst, sind die entsprechenden Zinssätze zu erläutern.
 
-(2)
+(5) Die möglichen weiteren Merkmale sind: –„Überzahlungen/Unterzahlungen“ [es wird mehr oder weniger zurückgezahlt als die im Rahmen der Amortisationsstruktur vereinbarte normale Rate];–„Zahlungsunterbrechungen“ [Zeiträume, während denen der Verbraucher keine Zahlungen leisten muss];–„Rückdarlehen“ [Möglichkeit für den Verbraucher, Beträge, die bereits in Anspruch genommen und zurückbezahlt wurden, erneut aufzunehmen];–„verfügbare zusätzliche Kreditaufnahme ohne weitere Genehmigung“;–„zusätzliche besicherte oder unbesicherte Kreditaufnahme [in Übereinstimmung mit Nummer 3 oben] „Kreditkarte“;–„damit verbundenes Girokonto“ sowie–„damit verbundenes Sparkonto“. „Überzahlungen/Unterzahlungen“ [es wird mehr oder weniger zurückgezahlt als die im Rahmen der Amortisationsstruktur vereinbarte normale Rate]; „Zahlungsunterbrechungen“ [Zeiträume, während denen der Verbraucher keine Zahlungen leisten muss]; „Rückdarlehen“ [Möglichkeit für den Verbraucher, Beträge, die bereits in Anspruch genommen und zurückbezahlt wurden, erneut aufzunehmen]; „verfügbare zusätzliche Kreditaufnahme ohne weitere Genehmigung“; „zusätzliche besicherte oder unbesicherte Kreditaufnahme [in Übereinstimmung mit Nummer 3 oben] „Kreditkarte“; „damit verbundenes Girokonto“ sowie „damit verbundenes Sparkonto“.
 
-(1)
+(6) Der Kreditgeber kann alle weiteren Merkmale erläutern, die er als Teil des Kreditvertrags anbietet und die nicht in den vorausgehenden Abschnitten genannt sind.
 
-(2)
+(1) Der Kreditgeber weist auf die bestehenden Rechte hin wie etwa ein Recht auf Widerruf oder Bedenkzeit oder gegebenenfalls andere Rechte wie etwa ein Recht auf Übertragbarkeit (einschließlich Abtretung), spezifiziert die Voraussetzungen für ihre Ausübung, die bei ihrer Ausübung vom Verbraucher einzuhaltenden Verfahren – unter anderem die Adresse, an die die Mitteilung über den Widerruf zu richten ist – sowie die entsprechenden Gebühren (falls zutreffend).
 
-–
+(2) Falls der Verbraucher ein Recht auf Bedenkzeit oder Widerruf hat, so wird deutlich darauf hingewiesen. Bei einem Widerrufsrecht nach § 495 des Bürgerlichen Gesetzbuchs kann für die Information zu dem „Zeitpunkt, zu dem die Frist beginnt“, die Formulierung aus Satz 2 (gegebenenfalls mit Gestaltungshinweis [2]) des Musters in Anlage 8 zu Artikel 247 § 6 Absatz 2 und Artikel 247 § 12 Absatz 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche verwandt werden.
 
-–
+(3) Wird der Kreditvertrag im Rahmen eines Fernabsatzgeschäfts angeboten und besteht kein Widerrufsrecht nach § 495 des Bürgerlichen Gesetzbuchs, ist der Verbraucher darüber zu unterrichten, ob er über ein Widerrufsrecht nach § 312g des Bürgerlichen Gesetzbuchs verfügt oder nicht. Im Fall des Bestehens eines solchen Widerrufsrechts ist Artikel 246b § 2 Absatz 3 Satz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche nur unter der Voraussetzung anwendbar, dass der Verbraucher wie folgt unterrichtet wird: a)Für die Information zur [Dauer der Widerrufsfrist] ist folgende Formulierung zu verwenden:„Die Vertragserklärung kann innerhalb von 14 Tagen widerrufen werden. “b)Für die Information zum [Zeitpunkt, zu dem die Widerrufsfrist beginnt] ist folgende Formulierung zu verwenden:„Die Widerrufsfrist beginnt nach Abschluss des Vertrags und nachdem Sie die Vertragsbestimmungen einschließlich der Allgemeinen Geschäftsbedingungen sowie dieses ESIS-Merkblatt auf einem dauerhaften Datenträger (z. B. Brief, Telefax, E-Mail) erhalten haben. “c)Für die Information zu [Bedingungen] und [Verfahren] ist folgende Formulierung zu verwenden:„Die Vertragserklärung kann ohne Angabe von Gründen mittels einer eindeutigen Erklärung widerrufen werden. Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs, wenn die Erklärung auf einem dauerhaften Datenträger erfolgt.Der Widerruf ist zu richten an: [Einsetzen: Namen/Firma und ladungsfähige Anschrift des Widerrufsadressaten. Zusätzlich können angegeben werden: Telefaxnummer, E-Mail-Adresse und/oder, wenn der Kreditnehmer eine Bestätigung seiner Widerrufserklärung an den Unternehmer erhält, auch eine Internetadresse.]Im Fall eines wirksamen Widerrufs sind die beiderseits empfangenen Leistungen zurückzugewähren. Sie sind zur Zahlung von Wertersatz für die bis zum Widerruf erbrachte Dienstleistung verpflichtet, wenn Sie vor Abgabe Ihrer Vertragserklärung auf diese Rechtsfolge hingewiesen wurden und ausdrücklich zugestimmt haben, dass vor dem Ende der Widerrufsfrist mit der Ausführung der Gegenleistung begonnen werden kann. Besteht eine Verpflichtung zur Zahlung von Wertersatz, kann dies dazu führen, dass Sie die vertraglichen Zahlungsverpflichtungen für den Zeitraum bis zum Widerruf dennoch erfüllen müssen. Ihr Widerrufsrecht erlischt vorzeitig, wenn der Vertrag von beiden Seiten auf Ihren ausdrücklichen Wunsch vollständig erfüllt ist, bevor Sie Ihr Widerrufsrecht ausgeübt haben. Verpflichtungen zur Erstattung von Zahlungen müssen innerhalb von 30 Tagen erfüllt werden. Diese Frist beginnt für Sie mit der Absendung Ihrer Widerrufserklärung, für uns mit deren Empfang. “Wenn ein verbundenes Geschäft (§ 358 des Bürgerlichen Gesetzbuchs) oder zusammenhängendes Geschäft (§ 360 des Bürgerlichen Gesetzbuchs) vorliegt, sind hier Hinweise über die sich daraus ergebenden Rechtsfolgen des Widerrufs einzufügen. Für die sich aus § 360 des Bürgerlichen Gesetzbuchs ergebenden Rechtsfolgen kann die Formulierung aus Gestaltungshinweis des Musters in Anlage 3 zu Artikel 246b § 2 Absatz 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche verwendet werden. Für die Information zur [Dauer der Widerrufsfrist] ist folgende Formulierung zu verwenden: „Die Vertragserklärung kann innerhalb von 14 Tagen widerrufen werden. “ Für die Information zum [Zeitpunkt, zu dem die Widerrufsfrist beginnt] ist folgende Formulierung zu verwenden: „Die Widerrufsfrist beginnt nach Abschluss des Vertrags und nachdem Sie die Vertragsbestimmungen einschließlich der Allgemeinen Geschäftsbedingungen sowie dieses ESIS-Merkblatt auf einem dauerhaften Datenträger (z. B. Brief, Telefax, E-Mail) erhalten haben. “ Für die Information zu [Bedingungen] und [Verfahren] ist folgende Formulierung zu verwenden: „Die Vertragserklärung kann ohne Angabe von Gründen mittels einer eindeutigen Erklärung widerrufen werden. Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs, wenn die Erklärung auf einem dauerhaften Datenträger erfolgt. Der Widerruf ist zu richten an: [Einsetzen: Namen/Firma und ladungsfähige Anschrift des Widerrufsadressaten. Zusätzlich können angegeben werden: Telefaxnummer, E-Mail-Adresse und/oder, wenn der Kreditnehmer eine Bestätigung seiner Widerrufserklärung an den Unternehmer erhält, auch eine Internetadresse.] Im Fall eines wirksamen Widerrufs sind die beiderseits empfangenen Leistungen zurückzugewähren. Sie sind zur Zahlung von Wertersatz für die bis zum Widerruf erbrachte Dienstleistung verpflichtet, wenn Sie vor Abgabe Ihrer Vertragserklärung auf diese Rechtsfolge hingewiesen wurden und ausdrücklich zugestimmt haben, dass vor dem Ende der Widerrufsfrist mit der Ausführung der Gegenleistung begonnen werden kann. Besteht eine Verpflichtung zur Zahlung von Wertersatz, kann dies dazu führen, dass Sie die vertraglichen Zahlungsverpflichtungen für den Zeitraum bis zum Widerruf dennoch erfüllen müssen. Ihr Widerrufsrecht erlischt vorzeitig, wenn der Vertrag von beiden Seiten auf Ihren ausdrücklichen Wunsch vollständig erfüllt ist, bevor Sie Ihr Widerrufsrecht ausgeübt haben. Verpflichtungen zur Erstattung von Zahlungen müssen innerhalb von 30 Tagen erfüllt werden. Diese Frist beginnt für Sie mit der Absendung Ihrer Widerrufserklärung, für uns mit deren Empfang. “ Wenn ein verbundenes Geschäft (§ 358 des Bürgerlichen Gesetzbuchs) oder zusammenhängendes Geschäft (§ 360 des Bürgerlichen Gesetzbuchs) vorliegt, sind hier Hinweise über die sich daraus ergebenden Rechtsfolgen des Widerrufs einzufügen. Für die sich aus § 360 des Bürgerlichen Gesetzbuchs ergebenden Rechtsfolgen kann die Formulierung aus Gestaltungshinweis des Musters in Anlage 3 zu Artikel 246b § 2 Absatz 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche verwendet werden.
 
-–
+(1) In diesem Abschnitt werden die interne Kontaktstelle [Bezeichnung der einschlägigen Abteilung] und ein Weg zur Kontaktaufnahme mit dieser Beschwerdestelle [Anschrift] oder [Telefonnummer] oder [eine Kontaktperson] [Kontaktangaben] sowie ein Link zu einem Beschwerdeverfahren auf der entsprechenden Seite einer Website oder ähnlichen Informationsquelle angegeben.
 
-–
+(2) Es wird der Name der externen Stelle für außergerichtliche Beschwerde- und Rechtsbehelfsverfahren angegeben und – falls die Nutzung des internen Beschwerdeverfahrens eine Voraussetzung für den Zugang zu dieser Stelle ist – wird unter Verwendung der Formulierung in Teil A auf diesen Umstand hingewiesen.
 
-(3)
+(3) Bei Kreditverträgen mit einem Verbraucher, der seinen Wohnsitz in einem anderen Mitgliedstaat hat, macht der Kreditgeber diesen auf das FIN-NET aufmerksam (http://ec.europa.eu/internal_market/fin-net/).
 
-(4)
+(1) Kann die Nichteinhaltung einer aus dem Kredit erwachsenden Verpflichtung durch den Verbraucher für diesen finanzielle oder rechtliche Konsequenzen haben, erläutert der Kreditgeber in diesem Abschnitt die wichtigsten Fälle (z. B. Zahlungsverzug/Zahlungsausfall, Nichteinhaltung der in Abschnitt 8 – „Zusätzliche Auflagen“ – genannten Verpflichtungen) und gibt an, wo weitere Informationen hierzu eingeholt werden können.
 
-(5)
+(2) Der Kreditgeber gibt für jeden dieser Fälle in klarer, leicht verständlicher Form an, welche Sanktionen oder Konsequenzen daraus erwachsen können. Hinweise auf schwerwiegende Konsequenzen sind optisch hervorzuheben.
 
-–
+(3) Kann die zur Besicherung des Kredits verwendete Immobilie an den Kreditgeber zurückgegeben oder übertragen werden, falls der Verbraucher seinen Verpflichtungen nicht nachkommt, so ist in diesem Abschnitt unter Verwendung der Formulierung in Teil A auf diesen Umstand hinzuweisen.
 
-–
+(1) Im Falle von im Fernabsatz geschlossenen Verträgen enthält dieser Abschnitt sämtliche Angaben zu dem auf den Kreditvertrag anwendbaren Recht oder zur zuständigen Gerichtsbarkeit.
 
-–
+(2) Beabsichtigt der Kreditgeber, während der Vertragslaufzeit mit dem Verbraucher in einer anderen Sprache als der des ESIS-Merkblatts zu kommunizieren, wird dies ebenfalls erwähnt und die Sprache angegeben, in der kommuniziert werden soll. Die Verpflichtung zur vorvertraglichen Information bei Fernabsatzverträgen über die verwendete Sprache gemäß § 312d des Bürgerlichen Gesetzbuchs und Artikel 246b § 1 Absatz 1 Nummer 17 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bleibt hiervon unberührt.
 
-–
-
-–
-
-–
-
-–
-
-(6)
-
-(1)
-
-(2)
-
-(3)
-
-a)
-
-b)
-
-c)
-
-(1)
-
-(2)
-
-(3)
-
-(1)
-
-(2)
-
-(3)
-
-(1)
-
-(2)
-
-(3)
+(3) Der Kreditgeber oder der Kreditvermittler weisen auf das Recht des Verbrauchers hin, dass er gegebenenfalls zumindest zum Zeitpunkt der Vorlage eines für den Kreditgeber verbindlichen Angebots eine Ausfertigung des Kreditvertragsentwurfs erhält oder ihm dies angeboten wird.
 
 Es sind die Behörden anzugeben, die für die Überwachung des vorvertraglichen Stadiums der Kreditvergabe zuständig sind.
 
@@ -3975,188 +3612,16 @@ Es sind die Behörden anzugeben, die für die Überwachung des vorvertraglichen 
 
 ### Anlage 11 — (zu Artikel 250 § 2 Absatz 1)
 
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-Gestaltungshinweise:
-
-a)
-
-b)
-
-a)
-
-b)
-
-a)
-
-b)
-
 ### Anlage 12 — (zu Artikel 250 § 2 Absatz 2)
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-Gestaltungshinweise:
-
-a)
-
-b)
-
-a)
-
-b)
-
-a)
-
-b)
 
 ### Anlage 13 — (zu Artikel 250 § 4)
 
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-Gestaltungshinweise:
-
-a)
-
-b)
-
-a)
-
-b)
-
 ### Anlage 14 — (zu Artikel 251 § 2 Satz 1 Nummer 1 Buchstabe a)
-
-Gestaltungshinweise:
-
-a)
-
-b)
-
-a)
-
-b)
 
 ### Anlage 15 — (zu Artikel 251 § 2 Satz 1 Nummer 1 Buchstabe b)
 
-Gestaltungshinweise:
-
-a)
-
-b)
-
-a)
-
-b)
-
 ### Anlage 16 — (zu Artikel 251 § 2 Satz 1 Nummer 2 Buchstabe a)
-
-Gestaltungshinweise:
-
-a)
-
-b)
-
-a)
-
-b)
-
-a)
-
-b)
-
-a)
-
-b)
 
 ### Anlage 17 — (zu Artikel 251 § 2 Satz 1 Nummer 2 Buchstabe b)
 
-Gestaltungshinweise:
-
-a)
-
-b)
-
-a)
-
-b)
-
 ### Anlage 18 — (zu Artikel 252 Absatz 1 Satz 1)
-
-Gestaltungshinweise:
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)

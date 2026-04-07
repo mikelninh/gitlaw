@@ -12,25 +12,15 @@ Im Bundesfreiwilligendienst engagieren sich Personen für das Allgemeinwohl, ins
 
 ### § 2 — Freiwillige
 
-Freiwillige im Sinne dieses Gesetzes sind Personen, die Angemessen ist ein monatliches Taschengeld, das 8 Prozent der in der allgemeinen Rentenversicherung monatlich geltenden Beitragsbemessungsgrenze nicht übersteigt und dem Taschengeld anderer Personen entspricht, die einen Jugendfreiwilligendienst nach dem Jugendfreiwilligendienstegesetz leisten und eine vergleichbare Tätigkeit in derselben Einsatzstelle ausüben. Bei einem freiwilligen Dienst vergleichbar einer Teilzeitbeschäftigung ist das Taschengeld zu kürzen.
+Freiwillige im Sinne dieses Gesetzes sind Personen, die
 
-1.
+1. die Vollzeitschulpflicht erfüllt haben,
 
-2.
+2. einen freiwilligen Dienst leisten ohne Erwerbsabsicht, außerhalb einer Berufsausbildung und vergleichbar a)einer Vollzeitbeschäftigung oderb)einer Teilzeitbeschäftigung von mehr als 20 Stunden pro Woche, einer Vollzeitbeschäftigung oder einer Teilzeitbeschäftigung von mehr als 20 Stunden pro Woche,
 
-a)
+3. sich auf Grund einer Vereinbarung nach § 8 zur Leistung eines Bundesfreiwilligendienstes für eine Zeit von mindestens sechs Monaten und höchstens 24 Monaten verpflichtet haben und
 
-b)
-
-3.
-
-4.
-
-a)
-
-b)
-
-c)
+4. für den Dienst nur folgende Geld- und Sachleistungen erhalten dürfen: a)ein angemessenes Taschengeld,b)unentgeltliche Unterkunft, Verpflegung und Arbeitskleidung oder entsprechende Geldersatzleistungen sowiec)Mobilitätszuschläge oder entsprechende Sachleistungen. ein angemessenes Taschengeld, unentgeltliche Unterkunft, Verpflegung und Arbeitskleidung oder entsprechende Geldersatzleistungen sowie Mobilitätszuschläge oder entsprechende Sachleistungen.
 
 ### § 3 — Einsatzbereiche, Dauer
 
@@ -58,13 +48,13 @@ Die bestehenden Anerkennungen sowie die Möglichkeit neuer Anerkennungen von Tr�
 
 (1) Die Freiwilligen leisten den Bundesfreiwilligendienst in einer dafür anerkannten Einsatzstelle.
 
-(2) Eine Einsatzstelle kann auf ihren Antrag von der zuständigen Bundesbehörde anerkannt werden, wenn sie Die Anerkennung wird für bestimmte Plätze ausgesprochen. Sie kann mit Auflagen verbunden werden.
+(2) Eine Einsatzstelle kann auf ihren Antrag von der zuständigen Bundesbehörde anerkannt werden, wenn sie
 
-1.
+1. Aufgaben insbesondere in Einrichtungen der Kinder- und Jugendhilfe, einschließlich der Einrichtungen für außerschulische Jugendbildung und für Jugendarbeit, in Einrichtungen der Wohlfahrts-, Gesundheits- und Altenpflege, der Behindertenhilfe, der Kultur und Denkmalpflege, des Sports, der Integration, des Zivil- und Katastrophenschutzes und in Einrichtungen, die im Bereich des Umweltschutzes einschließlich des Naturschutzes und der Bildung zur Nachhaltigkeit tätig sind, wahrnimmt,
 
-2.
+2. die Gewähr bietet, dass Beschäftigung, Leitung und Betreuung der Freiwilligen den Bestimmungen dieses Gesetzes entsprechen sowie
 
-3.
+3. die Freiwilligen persönlich und fachlich begleitet und für deren Leitung und Betreuung qualifiziertes Personal einsetzt.
 
 (3) Die am 1. April 2011 nach § 4 des Zivildienstgesetzes anerkannten Beschäftigungsstellen und Dienstplätze des Zivildienstes gelten als anerkannte Einsatzstellen und -plätze nach Absatz 2.
 
@@ -88,17 +78,17 @@ Die bestehenden Anerkennungen sowie die Möglichkeit neuer Anerkennungen von Tr�
 
 (1) Der Bund und die oder der Freiwillige schließen vor Beginn des Bundesfreiwilligendienstes auf gemeinsamen Vorschlag der oder des Freiwilligen und der Einsatzstelle eine schriftliche Vereinbarung ab. Die Vereinbarung muss enthalten:
 
-1.
+1. Vor- und Familienname, Geburtstag und Anschrift der oder des Freiwilligen, bei Minderjährigen die Anschrift der Erziehungsberechtigten sowie die Einwilligung des gesetzlichen Vertreters,
 
-2.
+2. die Bezeichnung der Einsatzstelle und, sofern diese einem Träger angehört, die Bezeichnung des Trägers,
 
-3.
+3. die Angabe des Zeitraumes, für den die oder der Freiwillige sich zum Bundesfreiwilligendienst verpflichtet sowie eine Regelung zur vorzeitigen Beendigung des Dienstverhältnisses,
 
-4.
+4. den Hinweis, dass die Bestimmungen dieses Gesetzes während der Durchführung des Bundesfreiwilligendienstes einzuhalten sind,
 
-5.
+5. Angaben zur Art und Höhe der Geld- und Sachleistungen sowie
 
-6.
+6. die Angabe der Anzahl der Urlaubstage und der Seminartage.
 
 (2) Die Einsatzstelle kann mit der Erfüllung von gesetzlichen oder sich aus der Vereinbarung ergebenden Aufgaben einen Träger oder eine Zentralstelle beauftragen. Dies ist im Vorschlag nach Absatz 1 festzuhalten.
 
@@ -154,17 +144,17 @@ Die Einsatzstellen, Zentralstellen und Träger dürfen personenbezogene Daten na
 
 (2) Dem Beirat gehören an:
 
-1.
+1. bis zu sieben Bundessprecherinnen oder Bundessprecher der Freiwilligen,
 
-2.
+2. bis zu sieben Vertreterinnen oder Vertreter der Zentralstellen,
 
-3.
+3. je eine Vertreterin oder ein Vertreter der evangelischen Kirche und der katholischen Kirche,
 
-4.
+4. je eine Vertreterin oder ein Vertreter der Gewerkschaften und der Arbeitgeberverbände,
 
-5.
+5. vier Vertreterinnen oder Vertreter der Länder und
 
-6.
+6. eine Vertreterin oder ein Vertreter der kommunalen Spitzenverbände.
 
 (3) Das Bundesministerium für Familie, Senioren, Frauen und Jugend beruft die Mitglieder des Beirats in der Regel für die Dauer von vier Jahren. Die in Absatz 2 genannten Stellen sollen hierzu Vorschläge machen. Die Mitglieder nach Absatz 2 Nummer 1 sind für die Dauer ihrer Dienstzeit zu berufen. Für jedes Mitglied wird eine persönliche Stellvertretung berufen.
 

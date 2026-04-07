@@ -12,19 +12,15 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 ### § 1 — Feststellung des Wirtschaftsplans des ERP-Sondervermögens
 
-Der Wirtschaftsplan des ERP-Sondervermögens für das Jahr 2026, der diesem Gesetz als Anlage beigefügt und nach § 8 Absatz 1 Satz 1 des ERP-Verwaltungsgesetzes vom 26. Juni 2007 (BGBl. I S. 1160), geändert durch Artikel 246 der Verordnung vom 31. August 2015 (BGBl. I S. 1474), aufgestellt worden ist, wird in Einnahmen und Ausgaben auf 1 324 030 000 Euro festgestellt.
-
 ### § 2 — Ermächtigung zur Kreditaufnahme
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, Kredite bei der Kreditanstalt für Wiederaufbau bis zu der Höhe von 30 Prozent des in § 1 festgestellten Betrages aufzunehmen.
 
 ### § 3 — Zulässige Mehrausgaben ohne Nachtragswirtschaftsplan
 
-Wird gegenüber dem ERP-Wirtschaftsplan infolge eines unvorhergesehenen und unabweisbaren Bedürfnisses eine Mehrausgabe erforderlich (Artikel 112 des Grundgesetzes), so bedarf es keines Nachtragswirtschaftsplans, wenn die Mehrausgabe im Einzelfall einen Betrag von 5 000 000 Euro nicht überschreitet oder wenn Rechtsverpflichtungen zu erfüllen sind.
+Wird gegenüber dem ERP-Wirtschaftsplan infolge eines unvorhergesehenen und unabweisbaren Bedürfnisses eine Mehrausgabe erforderlich (Artikel 112 des Grundgesetzes), so bedarf es keines Nachtragswirtschaftsplans, wenn die Mehrausgabe im Einzelfall einen Betrag von 5 000 000 Euro nicht überschreitet oder wenn Rechtsverpflichtungen zu erfüllen sind.
 
 ### § 4 — Übernahme von Gewährleistungen
-
-(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, mit Einwilligung des Bundesministeriums der Finanzen Bürgschaften, Garantien oder sonstige Gewährleistungen zur Förderung der gewerblichen Wirtschaft einschließlich der freien Berufe und von Unternehmensgründungen von gewerblich orientierten gemeinnützigen Unternehmen bis zu einem Gesamtbetrag von 4 940 000 000 Euro zu Lasten des ERP-Sondervermögens zu übernehmen.
 
 (2) Auf den Höchstbetrag nach Absatz 1 werden die aufgrund der Ermächtigungen der früheren Wirtschaftsplangesetze übernommenen Bürgschaften, Garantien und sonstigen Gewährleistungen angerechnet, soweit das ERP-Sondervermögen noch in Anspruch genommen werden kann oder in Anspruch genommen worden ist und für die erbrachten Leistungen keinen Ersatz erlangt hat.
 
@@ -46,85 +42,29 @@ Dieses Gesetz tritt am 1. Januar 2026 in Kraft.
 
 ### Anlage — (zu § 1)
 
-1.
+1. Einsparungen dienen der Deckung von Mehrausgaben bei folgenden Titeln: 870 01, 531 01 und 575 01.
 
-2.
+2. Die Ausgaben sind mit folgenden Titeln gegenseitig deckungsfähig: 683 01 und 682 01.
 
-3.
+3. Die Verpflichtungsermächtigung ist mit der Verpflichtungsermächtigung bei folgenden Titeln gegenseitig deckungsfähig: 683 01 und 682 01.
 
-4.
+4. Mehrausgaben dürfen bis zur Höhe der Mehreinnahmen bei folgendem Titel geleistet werden: 162 01. Dies gilt auch für zu erwartende Einnahmen aus bestehenden Ansprüchen. Falls Ausgaben aufgrund zu erwartender Einnahmen geleistet wurden und diese Einnahmen im laufenden Haushaltsjahr nicht eingehen, dürfen diese Einnahmen, soweit sie in den folgenden Haushaltsjahren eingehen, nicht mehr zur Leistung von Ausgaben verwendet werden.
 
-1.
+a) Existenzgründungen, Unternehmensübernahmen und Wachstumsfinanzierungen mittelständischer Unternehmen der gewerblichen Wirtschaft und der Freien Berufe unter besonderer Berücksichtigung regionaler Fördergebiete, einschließlich des ERP-Startfonds und Leasingfinanzierung.
 
-2.
+b) Refinanzierung für private Kapitalbeteiligungsgesellschaften, die mittelständischen Unternehmen die Beschaffung von haftendem Kapital erleichtern.
 
-3.
+c) Finanzierung von Digitalisierungs- und Innovationsvorhaben sowie des gesamten Finanzierungsbedarfs innovativer Unternehmen.
 
-1.
+d) Finanzierung von Lieferungen und Leistungen im Zusammenhang mit der Ausfuhr von Investitionsgütern in Entwicklungsländer.
 
-2.
+1. Mehrausgaben dürfen bis zur Höhe der Einsparungen bei folgenden Titeln geleistet werden: 892 01, 682 01 und 683 01.
 
-3.
-
-1.
-
-2.
-
-1.
-
-2.
-
-Investitionsfinanzierung
-
-a)
-
-b)
-
-c)
-
-d)
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-1.
-
-2.
-
-1.
-
-2.
-
-Sonstige Ausgaben
-
-Einnahmen
+2. Die Ausgaben sind mit folgendem Titel gegenseitig deckungsfähig: 575 01.
 
 ### Anlage 1
 
 ### Anlage 2
-
-Aktivseite
-
-Passivseite
 
 ### Anlage 3
 
@@ -134,26 +74,26 @@ Die ERP-Förderrücklage wird im Rahmen dieses Finanzierungsbedarfs eingesetzt, 
 
 Das seit 2007 im Rahmen der Neuordnung der ERP-Wirtschaftsförderung eingebrachte Kapital hat die KfW für den Zeitraum vom 01.01. bis 31.12.2024 vertragsgemäß wie folgt vergütet:
 
-•
+• Vergütung der ERP-Förderrücklage gemäß § 8 des „Durchführungsvertrages 2019“ durch Teilnahme der Rücklagen an der jährlichen Verteilung des nach den Vorabdotierungen verbleibenden handelsrechtlichen Jahresergebnisses der KfW.
 
-•
+• Die in den Vorjahren nicht zur ERP-Förderung eingesetzten anteiligen Jahresergebnisse werden einer separaten Gewinnrücklage zugeführt (ERP-Gewinnrücklagen I), die für die ERP-Förderung in Folgejahren eingesetzt werden können.
 
-•
+• Die gemäß § 6 des „Durchführungsvertrages 2019“ als gesonderte Gewinnrücklage gebildete ERP-Risikodeckungsmasse dient vorrangig der Abdeckung der Risiken aus dem ERP-Beteiligungsportfolio in der KfW Capital. Anpassungen der ERP-Risikodeckungsmasse an die Höhe des ERP-Beteiligungsvolumens in der KfW Capital erfolgen zu Lasten bzw. zu Gunsten der ERP-Gewinnrücklage I.
 
-•
+• Die Gewinnrücklagen nehmen ebenfalls an der Verteilung des nach den Vorabdotierungen verbleibenden handelsrechtlichen Jahresergebnisses der KfW teil.
 
 Die entsprechenden Anteile am zu verteilenden Jahresüberschuss der KfW beliefen sich für das Geschäftsjahr 2024 auf 357,2 Mio. EUR und verteilten sich wie folgt auf die ERP-Rücklagen:
 
-•
+• 239,6 Mio. EUR für die ERP-Förderrücklage
 
-•
+• 56,9 Mio. EUR für die ERP-Gewinnrücklage I
 
-•
+• 60,7 Mio. EUR für die ERP-Risikodeckungsmasse.
 
 Diese zur Abdeckung der ERP-Förderlasten 2024 zur Verfügung stehenden Erträge aus dem in die KfW eingebrachten Kapital wurden wie folgt eingesetzt:
 
-1.
+1. Abdeckung der Förderlasten aus der ERP-Wirtschaftsförderung 2024 in Höhe von 238,3 Mio. EUR.
 
-2.
+2. Die danach verbleibenden Mittel in Höhe von 118,9 Mio. EUR wurden gemäß den vertraglichen Regelungen der ERP-Gewinnrücklage I zugeführt. Da das ERP-Beteiligungsvolumen der KfW Capital in Höhe von 2 004,8 Mio. EUR den Saldo vom 31.12.2023 von 1 748,0 Mio. EUR übersteigt, war eine Dotierung der ERP-Risikodeckungsmasse zum 31.12.2024 mit 256,8 Mio. EUR zulasten der ERP-Gewinnrücklage I erforderlich. Hiernach beläuft sich der Saldo der ERP-Gewinnrücklage I zum 31.12.2024 auf 1 501,1 Mio. EUR. Der Saldo der ERP-Risikodeckungsmasse zum 31.12.2024 beläuft sich auf 2 004,8 Mio. EUR.
 
 Somit wurden die aus dem eingebrachten Kapital erzielten Erträge für die ERP-Förderung eingesetzt bzw. dem ERP-Sondervermögen zugeführt. Die Ordnungsmäßigkeit der Berichterstattung zum 31.12.2024 wird vertragsgemäß durch einen Wirtschaftsprüfer geprüft und bestätigt.

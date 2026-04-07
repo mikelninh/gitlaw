@@ -26,5 +26,3 @@ Die §§ 1 und 2 sind nicht auf Widersprüche und Klagen anzuwenden, die vor dem
 Diese Anordnung tritt am Tag nach der Veröffentlichung im Bundesgesetzblatt in Kraft.
 
 ### Schlussformel
-
-Der Bundesminister der Justiz und für Verbraucherschutz

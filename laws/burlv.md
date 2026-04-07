@@ -24,17 +24,17 @@ Urlaubsjahr ist das Kalenderjahr. Für die bei den Postnachfolgeunternehmen besc
 
 (2) Beamtinnen und Beamten steht für jeden vollen Monat der Dienstleistungspflicht ein Zwölftel des Jahresurlaubs nach Absatz 1 zu, wenn
 
-1.
+1. sie im Laufe des Urlaubsjahres in den öffentlichen Dienst eingetreten sind,
 
-2.
+2. ein Urlaub ohne Besoldung durch Aufnahme des Dienstes vorübergehend unterbrochen wird oder
 
-3.
+3. das Beamtenverhältnis im Laufe des Urlaubsjahres endet.
 
-(3) Der Jahresurlaub nach Absatz 1 wird für jeden vollen Kalendermonat um ein Zwölftel gekürzt.
+(3) Der Jahresurlaub nach Absatz 1 wird für jeden vollen Kalendermonat
 
-1.
+1. eines Urlaubs ohne Besoldung oder
 
-2.
+2. einer Freistellung von der Arbeit nach § 9 der Arbeitszeitverordnung
 
 (4) Arbeitstage im Sinne dieser Verordnung sind alle Kalendertage, an denen die Beamtin oder der Beamte Dienst zu leisten hat. Endet ein Dienst erst am folgenden Kalendertag, gilt als Arbeitstag nur der Kalendertag, an dem der Dienst begonnen hat. Ein nach Absatz 1 als Erholungsurlaub zustehender Arbeitstag entspricht einem Fünftel der jeweiligen regelmäßigen Arbeitszeit der Beamtin oder des Beamten; ändert sich deren Dauer im Laufe eines Monats, ist die höhere Dauer für den ganzen Monat anzusetzen.
 
@@ -50,17 +50,17 @@ Urlaubsjahr ist das Kalenderjahr. Für die bei den Postnachfolgeunternehmen besc
 
 ### § 5a — Urlaubsdauer bei Übergang zu Teilzeit
 
-(1) Verringert sich bei einem Übergang von Vollzeit- zu Teilzeitbeschäftigung die Zahl der wöchentlichen Arbeitstage, so bleibt der bis dahin erworbene Erholungsurlaubsanspruch in Höhe des unionsrechtlich gewährleisteten Mindesturlaubsanspruchs (Artikel 7 Absatz 1 der Richtlinie 2003/88/EG des Europäischen Parlaments und des Rates vom 4. November 2003 über bestimmte Aspekte der Arbeitszeitgestaltung [ABl. L 299 vom 18.11.2003, S. 9]) unberührt, soweit er aus einem der folgenden Gründe nicht erfüllt werden konnte:Satz 1 Nummer 4 findet nur Anwendung, wenn eine erneute Berufung in das Beamtenverhältnis nach § 46 des Bundesbeamtengesetzes erfolgt.
+(1) Verringert sich bei einem Übergang von Vollzeit- zu Teilzeitbeschäftigung die Zahl der wöchentlichen Arbeitstage, so bleibt der bis dahin erworbene Erholungsurlaubsanspruch in Höhe des unionsrechtlich gewährleisteten Mindesturlaubsanspruchs (Artikel 7 Absatz 1 der Richtlinie 2003/88/EG des Europäischen Parlaments und des Rates vom 4. November 2003 über bestimmte Aspekte der Arbeitszeitgestaltung [ABl. L 299 vom 18.11.2003, S. 9]) unberührt, soweit er aus einem der folgenden Gründe nicht erfüllt werden konnte:
 
-1.
+1. Ablehnung oder Widerruf des Erholungsurlaubs,
 
-2.
+2. durch ein ärztliches Zeugnis nachgewiesene Dienstunfähigkeit infolge von Krankheit (§ 96 Absatz 1 Satz 2 des Bundesbeamtengesetzes),
 
-3.
+3. Beschäftigungsverbot nach § 16 Absatz 1 des Mutterschutzgesetzes in Verbindung mit § 2 Absatz 1 Satz 1 Nummer 5 der Mutterschutz- und Elternzeitverordnung.
 
-4.
+4. Dienstunfähigkeit nach § 44 des Bundesbeamtengesetzes,
 
-5.
+5. begrenzte Dienstfähigkeit nach § 45 des Bundesbeamtengesetzes.
 
 (2) Der Urlaubsanspruch, der über den Urlaubsanspruch hinausgeht, der nach Absatz 1 unberührt bleibt, ist ab dem Zeitpunkt des Übergangs im selben Verhältnis zu verringern wie die Zahl der wöchentlichen Arbeitstage. Das gilt nicht, wenn der Erholungsurlaub nach Stunden berechnet wird.
 
@@ -116,11 +116,11 @@ Urlaubsjahr ist das Kalenderjahr. Für die bei den Postnachfolgeunternehmen besc
 
 ### § 12 — Zusatzurlaub
 
-(1) Beamtinnen und Beamte haben Anspruch auf einen halben Arbeitstag zusätzlichen Erholungsurlaub (Zusatzurlaub) im Kalendermonat, wenn sie Dienst zu wechselnden Zeiten wird geleistet, wenn mindestens viermal im Kalendermonat die Differenz zwischen den Anfangsuhrzeiten zweier Dienste mindestens 7 und höchstens 17 Stunden beträgt. Bereitschaftsdienst gilt nicht als Dienst im Sinne dieser Vorschrift. Geleistete Nachtdienststunden, die nicht für einen halben Arbeitstag Zusatzurlaub ausreichen, und Nachtdienststunden, die in einem Kalendermonat über 35 Nachtdienststunden hinaus geleistet worden sind, werden jeweils in den folgenden Kalendermonat übertragen. Der Übertrag ist auf 70 Nachtdienststunden begrenzt. Im Urlaubsjahr werden bis zu sechs Arbeitstage Zusatzurlaub gewährt. Es werden nur ganze Arbeitstage Zusatzurlaub gewährt. Absatz 5 bleibt unberührt. § 5 Absatz 5 ist nicht anzuwenden.
+(1) Beamtinnen und Beamte haben Anspruch auf einen halben Arbeitstag zusätzlichen Erholungsurlaub (Zusatzurlaub) im Kalendermonat, wenn sie
 
-1.
+1. zu wechselnden Zeiten zum Dienst herangezogen werden und
 
-2.
+2. im Kalendermonat mindestens 35 Stunden Dienst in der Zeit zwischen 20 Uhr und 6 Uhr (Nachtdienststunden) leisten.
 
 (2) Soweit Beamtinnen und Beamte die Voraussetzungen des Absatzes 1 Satz 1 nicht erfüllen, erhalten sie für jeweils 100 geleistete Nachtdienststunden einen Arbeitstag Zusatzurlaub. Im Urlaubsjahr werden bis zu sechs Arbeitstage Zusatzurlaub gewährt. Nachtdienststunden, die nicht durch die Gewährung eines Arbeitstages Zusatzurlaub abgegolten sind, und Nachtdienststunden, die in einem Urlaubsjahr über 600 Nachtdienststunden hinaus geleistet worden sind, werden in das folgende Urlaubsjahr übertragen. Der Übertrag ist auf 100 Nachtdienststunden begrenzt. Absatz 5 bleibt unberührt. § 5 Absatz 5 ist nicht anzuwenden.
 
@@ -130,9 +130,9 @@ Urlaubsjahr ist das Kalenderjahr. Für die bei den Postnachfolgeunternehmen besc
 
 (5) Der Zusatzurlaub nach den Absätzen 1 und 2 erhöht sich
 
-1.
+1. für Beamtinnen und Beamte, die das 50. Lebensjahr im Laufe des Urlaubsjahres vollenden, um einen Arbeitstag,
 
-2.
+2. für Beamtinnen und Beamte, die das 60. Lebensjahr im Laufe des Urlaubsjahres vollenden, um einen weiteren Arbeitstag.
 
 ### § 13 — Sonderregelungen für ehemals bundeseigene Unternehmen
 
@@ -140,19 +140,19 @@ Urlaubsjahr ist das Kalenderjahr. Für die bei den Postnachfolgeunternehmen besc
 
 (2) Für Beamtinnen und Beamte, die bei den Postnachfolgeunternehmen beschäftigt sind, kann die oberste Dienstbehörde
 
-1.
+1. statt des Zusatzurlaubs Freischichten in entsprechendem Umfang gewähren oder
 
-2.
+2. von der Anwendung des § 12 Absatz 1 absehen.
 
 ### § 14 — Zusatzurlaub für Beamtinnen und Beamte in besonderen Verwendungen
 
-Der Zusatzurlaub für Dienst zu wechselnden Zeiten wird nicht gewährt Dauert mindestens ein Viertel der Schichten, die Beamtinnen und Beamte der Feuerwehr oder des Wachdienstes leisten, weniger als 24, aber mehr als 11 Stunden, erhalten sie für je fünf Monate Schichtdienst im Urlaubsjahr einen Arbeitstag Zusatzurlaub; § 12 Absatz 5 ist nicht anzuwenden.
+Der Zusatzurlaub für Dienst zu wechselnden Zeiten wird nicht gewährt
 
-1.
+1. Beamtinnen und Beamten der Feuerwehr oder des Wachdienstes, wenn sie nach einem Schichtplan eingesetzt sind, der für den Regelfall Schichten von 24 Stunden Dauer vorsieht,
 
-2.
+2. Beamtinnen und Beamten, die sich zwischen Dienstende und nächstem Dienstbeginn an Bord von ruhenden Schiffen oder auf ruhenden schwimmenden Geräten bereithalten,
 
-3.
+3. Beamtinnen und Beamten, die an Bord von Schiffen oder auf schwimmenden Geräten zur Bord- und Hafenwache oder zur Ankerwache eingesetzt sind.
 
 ### § 15 — Geltungsbereich
 

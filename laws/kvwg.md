@@ -31,4 +31,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgeset
 
 ### § 9
 
-(1) Dieses Gesetz tritt am Ersten des auf seine Verkündung folgenden Kalendervierteljahres in Kraft.(2)
+(1) Dieses Gesetz tritt am Ersten des auf seine Verkündung folgenden Kalendervierteljahres in Kraft.
+
+(2)

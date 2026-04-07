@@ -20,7 +20,13 @@
 
 ### § 4 — Eigentumsverhältnisse
 
-(1) Das Eigentum an den in § 1 Abs. 1 und 2 bezeichneten Strecken steht dem Bund zu. Das gilt auch für die kanalisierte Regnitz von km 3,70 rechts bis 170 m oberhalb der Brückenachse des Wehres Bamberg.(2) Das Eigentum an den in § 2 Nr. 1 bis 5 bezeichneten Strecken steht Bayern zu.(3) Ein Wertausgleich findet nicht statt.(4) Das Grundbuch wird auf Grund eines gemeinsamen Ersuchens des Bundes und Bayerns berichtigt. Ein Übergang des Eigentums und der anderen Rechte ist von Abgaben und Kosten befreit.
+(1) Das Eigentum an den in § 1 Abs. 1 und 2 bezeichneten Strecken steht dem Bund zu. Das gilt auch für die kanalisierte Regnitz von km 3,70 rechts bis 170 m oberhalb der Brückenachse des Wehres Bamberg.
+
+(2) Das Eigentum an den in § 2 Nr. 1 bis 5 bezeichneten Strecken steht Bayern zu.
+
+(3) Ein Wertausgleich findet nicht statt.
+
+(4) Das Grundbuch wird auf Grund eines gemeinsamen Ersuchens des Bundes und Bayerns berichtigt. Ein Übergang des Eigentums und der anderen Rechte ist von Abgaben und Kosten befreit.
 
 ### § 5 — Sperrtor bei Bug
 

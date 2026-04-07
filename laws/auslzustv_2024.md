@@ -15,39 +15,39 @@ Diese Verordnung regelt die örtliche Zuständigkeit für die Durchführung des 
 
 ### § 2 — Örtliche Zuständigkeit bei Antragstellung durch Geschädigte
 
-(1) Beantragt die geschädigte Person, die ihren Wohnsitz oder gewöhnlichen Aufenthalt im Ausland hat, Leistungen der sozialen Entschädigung, ist für die Durchführung des Sozialen Entschädigungsrechts zuständig Die Zugehörigkeit eines Staates zu Afrika, Asien, Australien-Ozeanien, Nordamerika oder Südamerika ergibt sich aus der Anlage zu dieser Verordnung.
+(1) Beantragt die geschädigte Person, die ihren Wohnsitz oder gewöhnlichen Aufenthalt im Ausland hat, Leistungen der sozialen Entschädigung, ist für die Durchführung des Sozialen Entschädigungsrechts zuständig
 
-1.
+1. Baden-Württemberg bei Wohnsitz oder gewöhnlichem Aufenthalt der Geschädigten in den Staaten Armenien, Aserbaidschan, Georgien, Kasachstan, Kirgisien, Liechtenstein, Schweiz, Spanien, Mexiko, Guatemala, Honduras, Tadschikistan, Turkmenistan oder Usbekistan;
 
-2.
+2. Bayern bei Wohnsitz oder gewöhnlichem Aufenthalt der Geschädigten in den Staaten Polen, wenn der Nachname mit einem der Buchstaben von A bis M beginnt, Griechenland, Italien, Österreich, San Marino, Vatikan, Zypern Türkei, Kuba, Nicaragua oder Panama;
 
-3.
+3. Berlin bei Wohnsitz oder gewöhnlichem Aufenthalt der Geschädigten in einem Staat in Asien, sofern einzelne Staaten nicht ausdrücklich einem anderen Bundesland zugeordnet sind;
 
-4.
+4. Brandenburg bei Wohnsitz oder gewöhnlichem Aufenthalt der Geschädigten in den Staaten Estland, Lettland, Litauen, Costa Rica, Dominica, Dominikanische Republik oder El Salvador;
 
-5.
+5. Bremen bei Wohnsitz oder gewöhnlichem Aufenthalt der Geschädigten in einem Staat in Nordamerika, sofern einzelne Staaten nicht ausdrücklich einem anderen Bundesland zugeordnet sind;
 
-6.
+6. Hessen bei Wohnsitz oder gewöhnlichem Aufenthalt der Geschädigten in den Staaten Albanien, Slowenien, Kroatien, Bosnien-Herzegowina, Serbien, Montenegro, Nordmazedonien, Kosovo, Slowakische Republik, Tschechische Republik, Russland, Ukraine oder Weißrussland;
 
-7.
+7. Mecklenburg-Vorpommern bei Wohnsitz oder gewöhnlichem Aufenthalt der Geschädigten in den Staaten Pakistan, Indien, Bangladesch, Sri Lanka, Nordkorea oder Südkorea;
 
-8.
+8. Niedersachsen bei Wohnsitz oder gewöhnlichem Aufenthalt der Geschädigten in den Staaten Südafrika, Thailand, Laos, Philippinen, Japan oder in einem Staat in Australien-Ozeanien;
 
-9.
+9. Nordrhein-Westfalen bei Wohnsitz oder gewöhnlichem Aufenthalt der Geschädigten in den Staaten Polen, wenn der Nachname mit einem der Buchstaben von N bis Z beginnt, Belgien, Niederlande oder Ungarn;
 
-10.
+10. Rheinland-Pfalz bei Wohnsitz oder gewöhnlichem Aufenthalt der Geschädigten in den Staaten Luxemburg, Rumänien, Moldawien oder Bulgarien;
 
-11.
+11. Saarland bei Wohnsitz oder gewöhnlichem Aufenthalt der Geschädigten in den Staaten Andorra, Frankreich, Monaco, Haiti, Demokratische Republik Kongo, Republik Kongo, Elfenbeinküste, Kamerun, Burkina Faso, Niger, Mali, Senegal oder Benin;
 
-12.
+12. Sachsen bei Wohnsitz oder gewöhnlichem Aufenthalt der Geschädigten in einem Staat in Afrika, sofern einzelne Staaten nicht ausdrücklich einem anderen Bundesland zugeordnet sind;
 
-13.
+13. Sachsen-Anhalt bei Wohnsitz oder gewöhnlichem Aufenthalt der Geschädigten in den Staaten Portugal, Brasilien, Angola, São Tomé und Príncipe, Mosambik, Kap Verde, Guinea-Bissau oder Macau;
 
-14.
+14. Schleswig-Holstein bei Wohnsitz oder gewöhnlichem Aufenthalt der Geschädigten in den Staaten Dänemark, Finnland, Island, Norwegen oder Schweden;
 
-15.
+15. Thüringen bei Wohnsitz oder gewöhnlichem Aufenthalt der Geschädigten in einem Staat in Südamerika, sofern einzelne Staaten nicht ausdrücklich einem anderen Bundesland zugeordnet sind sowie
 
-16.
+16. Hamburg bei Wohnsitz oder gewöhnlichem Aufenthalt der Geschädigten in den Staaten Irland, Vereinigtes Königreich, Malta oder im übrigen Ausland.
 
 (2) Verlegt die geschädigte Person ihren Wohnsitz oder gewöhnlichen Aufenthalt in einen anderen ausländischen Staat, so ist die Zuständigkeit nach Absatz 1 neu zu bestimmen.
 
@@ -76,8 +76,6 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft.
 Der Bundesrat hat zugestimmt.
 
 ### Anlage I — (zu § 2 Absatz 1 Satz 2)
-
-Afrika umfasst folgende Staaten:
 
 Ägypten
 
@@ -187,8 +185,6 @@ Uganda
 
 Zentralafrikanische Republik
 
-Asien umfasst folgende Staaten:
-
 Afghanistan
 
 Armenien
@@ -283,8 +279,6 @@ Vietnam
 
 Zypern
 
-Australien-Ozeanien umfasst folgende Staaten:
-
 Australien
 
 Fidschi
@@ -312,8 +306,6 @@ Tonga
 Tuvalu
 
 Vanuatu
-
-Nordamerika umfasst folgende Staaten:
 
 Antigua und Barbuda
 
@@ -358,8 +350,6 @@ Saint Lucia
 St. Vincent und die Grenadinen
 
 Vereinigte Staaten von Amerika
-
-Südamerika umfasst folgende Staaten:
 
 Argentinien
 

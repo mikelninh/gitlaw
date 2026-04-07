@@ -20,17 +20,17 @@
 
 (2) Der Erfüllung dieses Zweckes dienen insbesondere:
 
-1.
+1. Einrichtung, Unterhaltung und Weiterentwicklung einer ständigen Ausstellung;
 
-2.
+2. Erwerb von Realien zur deutschen Geschichte sowie deren Inventarisierung, Dokumentation und erforderlichenfalls Restaurierung;
 
-3.
+3. Wechselausstellungen, museumspädagogische Vermittlung, Vorträge, Seminare, Filmvorführungen und sonstige Veranstaltungen;
 
-4.
+4. Unterhaltung einer Bibliothek und einer Mediathek;
 
-5.
+5. Forschung und Veröffentlichungen;
 
-6.
+6. Zusammenarbeit mit deutschen und internationalen Museen und sonstigen Einrichtungen mit fachlichem Bezug.
 
 ### § 3 — Stiftungsvermögen
 
@@ -50,23 +50,23 @@ Die Stiftung gibt sich eine Satzung, die von ihrem Kuratorium beschlossen wird u
 
 Organe der Stiftung sind
 
-1.
+1. das Kuratorium,
 
-2.
+2. die Präsidentin oder der Präsident,
 
-3.
+3. der wissenschaftliche Beirat.
 
 ### § 6 — Kuratorium
 
 (1) Das Kuratorium besteht aus 15 Mitgliedern, die für jeweils fünf Jahre entsandt werden.
 
-(2) In das Kuratorium werden jeweils fünf Mitglieder entsandt von Für jedes Mitglied ist für den Fall der Verhinderung ein stellvertretendes Mitglied zu entsenden. Die vom Deutschen Bundestag entsandten Mitglieder und stellvertretenden Mitglieder müssen während der gesamten Zeit der Entsendung Abgeordnete des Deutschen Bundestages sein. Ist auch das stellvertretende Mitglied verhindert, kann das Stimmrecht von einem anderen Mitglied oder stellvertretenden Mitglied des Kuratoriums ausgeübt werden.
+(2) In das Kuratorium werden jeweils fünf Mitglieder entsandt von
 
-1.
+1. dem Deutschen Bundestag,
 
-2.
+2. der Bundesregierung, davon je ein Mitglied auf Vorschlag der oder des Beauftragten der Bundesregierung für Kultur und Medien und des Auswärtigen Amtes, und
 
-3.
+3. den Ländern, davon ein Mitglied vom Land Berlin.
 
 (3) Die entsendungsberechtigten Stellen können jedes von ihnen entsandte Mitglied oder stellvertretende Mitglied abberufen. Scheidet ein Mitglied oder ein stellvertretendes Mitglied aus, so ist für die bis zum Ablauf der fünf Jahre verbleibende Zeit ein neues Mitglied oder ein neues stellvertretendes Mitglied zu entsenden.
 
@@ -152,15 +152,15 @@ Unter dem Namen „Stiftung Flucht, Vertreibung, Versöhnung“ wird mit Inkraft
 
 (2) Der Erfüllung dieses Zweckes dienen insbesondere:
 
-1.
+1. Errichtung, Unterhaltung und Weiterentwicklung einer Dauerausstellung zu Flucht und Vertreibung im 20. Jahrhundert, den historischen Hintergründen und Zusammenhängen sowie europäischen Dimensionen und Folgen;
 
-2.
+2. Erarbeitung von Einzelausstellungen zu speziellen Aspekten der Gesamtthematik;
 
-3.
+3. Vermittlung von Forschungsergebnissen und wissenschaftlichen Erkenntnissen;
 
-4.
+4. Sammlung, Dokumentation und wissenschaftliche Auswertung einschlägiger Unterlagen und Materialien, insbesondere auch von Zeitzeugenberichten;
 
-5.
+5. Zusammenarbeit mit deutschen und internationalen Museen und Forschungseinrichtungen.
 
 ### § 17 — Stiftungsvermögen
 
@@ -178,11 +178,11 @@ Unter dem Namen „Stiftung Flucht, Vertreibung, Versöhnung“ wird mit Inkraft
 
 ### § 18 — Gremien und Leitung der unselbständigen Stiftung
 
-(1) Bei der unselbständigen Stiftung werden gebildet Die Mitglieder des Stiftungsrates und des wissenschaftlichen Beraterkreises sind ehrenamtlich tätig.
+(1) Bei der unselbständigen Stiftung werden gebildet
 
-1.
+1. der Stiftungsrat,
 
-2.
+2. der wissenschaftliche Beraterkreis.
 
 (2) Die unselbständige Stiftung hat eine Direktorin oder einen Direktor.
 
@@ -190,15 +190,15 @@ Unter dem Namen „Stiftung Flucht, Vertreibung, Versöhnung“ wird mit Inkraft
 
 (1) Der Stiftungsrat besteht aus 21 Mitgliedern.
 
-(2) Es werden vorgeschlagen: Für jedes Mitglied ist für den Fall der Verhinderung ein stellvertretendes Mitglied vorzuschlagen. Die vom Deutschen Bundestag vorgeschlagenen Mitglieder und stellvertretenden Mitglieder müssen Abgeordnete des Deutschen Bundestages sein.
+(2) Es werden vorgeschlagen:
 
-1.
+1. vier Mitglieder durch den Deutschen Bundestag,
 
-2.
+2. je ein Mitglied durch das Auswärtige Amt, das Bundesministerium des Innern, für Bau und Heimat und die Beauftragte oder den Beauftragten der Bundesregierung für Kultur und Medien,
 
-3.
+3. sechs Mitglieder durch den Bund der Vertriebenen e. V.,
 
-4.
+4. je zwei Mitglieder durch die Evangelische Kirche in Deutschland, die Katholische Kirche in Deutschland und den Zentralrat der Juden in Deutschland.
 
 (3) Die oder der Beauftragte der Bundesregierung für Kultur und Medien leitet die Vorschläge nach Absatz 2 Satz 1 Nummer 2 bis 4 und Satz 2 mit einem entsprechenden Antrag zur Wahl der Präsidentin oder dem Präsidenten des Deutschen Bundestages zu. Der Deutsche Bundestag wählt auf Grund der Vorschläge nach Absatz 2 Satz 1 Nummer 1 bis 4 und Satz 2 die Mitglieder und stellvertretenden Mitglieder. Der Wahl liegt ein Gesamtvorschlag zugrunde, der nur als Ganzes angenommen oder abgelehnt werden kann. Die Präsidentin oder der Präsident des Deutschen Bundestages teilt das Ergebnis der Wahl der oder dem Beauftragten der Bundesregierung für Kultur und Medien mit.
 

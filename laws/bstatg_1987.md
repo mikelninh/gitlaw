@@ -22,39 +22,39 @@ Die Statistik für Bundeszwecke (Bundesstatistik) hat im föderativ gegliederten
 
 (1) Aufgabe des Statistischen Bundesamtes ist es, vorbehaltlich sonstiger Rechtsvorschriften,
 
-1.
+1. Statistiken für Bundeszwecke (Bundesstatistiken) methodisch und technisch im Benehmen mit den statistischen Ämtern der Länder vorzubereiten und weiterzuentwickeln,
 
-2.
+2. die einheitliche und termingemäße Erstellung von Bundesstatistiken durch die Länder zu koordinieren sowie die Qualität der Ergebnisse dieser Statistiken in Zusammenarbeit mit den statistischen Ämtern der Länder zu sichern,
 
-3.
+3. die Ergebnisse der Bundesstatistiken in der erforderlichen sachlichen und regionalen Gliederung für den Bund zusammenzustellen sowie für allgemeine Zwecke zu veröffentlichen und darzustellen,
 
-4.
+4. Einzelangaben nach Maßgabe dieses Gesetzes oder einer anderen Rechtsvorschrift für wissenschaftliche Zwecke bereitzustellen; die Zuständigkeit der Länder, diese Aufgabe ebenfalls wahrzunehmen, bleibt unberührt,
 
-5.
+5. Bundesstatistiken zu erstellen, wenn und soweit dies in diesem oder einem sonstigen Bundesgesetz bestimmt ist oder die beteiligten Länder zustimmen,
 
-6.
+6. jeweils auf Anforderung oberster Bundesbehörden Zusatzaufbereitungen für Bundeszwecke, einschließlich der Entwicklung und der Anwendung von Mikrosimulationsmodellen sowie mikroökonometrischer Analysen durchzuführen,
 
-7.
+7. Sonderaufbereitungen durchzuführen, soweit die statistischen Ämter der Länder diese Aufbereitung nicht selbst durchführen,
 
-8.
+8. Prüfungen und Eignungsuntersuchungen nach § 5a Absatz 2 und 3 durchzuführen,
 
-9.
+9. im Auftrag oberster Bundesbehörden Statistiken nach § 8 zu erstellen,
 
-10.
+10. Statistiken anderer Staaten, der Europäischen Union und internationaler Organisationen zusammenzustellen und ihre Ergebnisse für allgemeine Zwecke zu veröffentlichen und darzustellen,
 
-11.
+11. die sachliche, zeitliche und räumliche Abstimmung von Bundesstatistiken und Statistiken, die in Nummer 9 genannt sind, zu koordinieren,
 
-12.
+12. die Bundesregierung bei der Vorbereitung des Programms der Bundesstatistik und der Rechts- und allgemeinen Verwaltungsvorschriften des Bundes, die die Bundesstatistik berühren, zu unterstützen,
 
-13.
+13. Volkswirtschaftliche Gesamtrechnungen und sonstige Gesamtsysteme statistischer Daten für Bundeszwecke aufzustellen sowie sie für allgemeine Zwecke zu veröffentlichen und darzustellen,
 
-14.
+14. das Statistische Informationssystem des Bundes zu führen sowie an der Koordinierung von speziellen Datenbanken anderer Stellen des Bundes mitzuwirken; das Gleiche gilt, soweit der Bund in entsprechende Vorhaben außerhalb der Bundesverwaltung eingeschaltet wird,
 
-15.
+15. zur Vereinfachung und Verbesserung der Datengewinnung und -verarbeitung für Zwecke der Bundesstatistik an Nummerungsvorhaben und Bestrebungen des Bundes zur Automation von Verwaltungsvorgängen und Gerichtsverfahren mitzuwirken; das Gleiche gilt, soweit der Bund in entsprechende Vorhaben außerhalb der Bundesverwaltung eingeschaltet wird,
 
-16.
+16. die Bundesbehörden bei der Vergabe von Forschungsaufträgen bezüglich der Gewinnung und Bereitstellung statistischer Daten zu beraten sowie im Auftrag der obersten Bundesbehörden auf dem Gebiet der Bundesstatistik Forschungsaufträge auszuführen, Gutachten zu erstellen und sonstige Arbeiten statistischer und ähnlicher Art durchzuführen;
 
-17.
+17. zur Verringerung des Erhebungsaufwandes und zur Sicherstellung der Qualität und Kohärenz bei der Erstellung von Statistiken eng mit der Deutschen Bundesbank zusammenzuarbeiten.
 
 (2) Die statistischen Ämter der Länder und die sonstigen mit der Durchführung von Bundesstatistiken betrauten Stellen leiten dem Statistischen Bundesamt auf Anforderung Einzelangaben zu, soweit dies für die methodische und technische Vorbereitung von Bundesstatistiken und die Weiterentwicklung nach Absatz 1 Nummer 1, für die Sicherung der Qualität der Ergebnisse nach Absatz 1 Nummer 2 oder für die Durchführung von Aufbereitungen nach Absatz 1 Nummer 6 und 7 erforderlich ist; das Gleiche gilt für die Erfüllung der entsprechenden Aufgaben des Bundesamtes im supra- und internationalen Bereich.
 
@@ -76,13 +76,13 @@ Die Statistik für Bundeszwecke (Bundesstatistik) hat im föderativ gegliederten
 
 (1) Die Bundesstatistiken werden, soweit in diesem Gesetz oder in einer sonstigen Rechtsvorschrift nichts anderes bestimmt ist, durch Gesetz angeordnet. Die Rechtsvorschrift soll auch das Informationsbedürfnis der Länder einschließlich der Gemeinden und Gemeindeverbände berücksichtigen.
 
-(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Bundesstatistiken mit einer Geltungsdauer bis zu drei Jahren anzuordnen sowie Bundesstatistiken hinsichtlich der Merkmale und des Kreises der zu Befragenden für eine Geltungsdauer bis zu drei Jahren zu ergänzen, wenn folgende Voraussetzungen gegeben sind: Wirtschafts- und Umweltstatistiken dürfen mit Auskunftspflicht sonstige Bundesstatistiken dürfen nur ohne Auskunftspflicht angeordnet werden.
+(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Bundesstatistiken mit einer Geltungsdauer bis zu drei Jahren anzuordnen sowie Bundesstatistiken hinsichtlich der Merkmale und des Kreises der zu Befragenden für eine Geltungsdauer bis zu drei Jahren zu ergänzen, wenn folgende Voraussetzungen gegeben sind:
 
-1.
+1. Die Ergebnisse der Bundesstatistiken müssen zur Erfüllung bestimmter, im Zeitpunkt der Erhebung schon festliegender Bundeszwecke erforderlich sein,
 
-2.
+2. die Bundesstatistiken dürfen nur einen beschränkten Personenkreis erfassen,
 
-3.
+3. die voraussichtlichen Kosten der jeweiligen Bundesstatistik ohne die Kosten für die Veröffentlichung dürfen beim Bund und bei den Ländern einschließlich der Gemeinden und Gemeindeverbände zusammen zwei Millionen Euro für die Erhebungen innerhalb eines Jahres nicht übersteigen.
 
 (2a) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Bundesstatistiken anzuordnen sowie durch Gesetz angeordnete Bundesstatistiken zu ergänzen, wenn dies zur Umsetzung oder Durchführung von Rechtsakten der Europäischen Union nach Artikel 338 des Vertrags über die Arbeitsweise der Europäischen Union erforderlich ist. Wirtschafts- und Umweltstatistiken dürfen mit Auskunftspflicht angeordnet werden, sonstige Bundesstatistiken dürfen nur ohne Auskunftspflicht angeordnet werden.
 
@@ -104,31 +104,27 @@ Die Statistik für Bundeszwecke (Bundesstatistik) hat im föderativ gegliederten
 
 ### § 6 — Maßnahmen zur Vorbereitung und Durchführung von Bundesstatistiken
 
-(1) Das Statistische Bundesamt und die statistischen Ämter der Länder können zur Vorbereitung und Durchführung durch Rechtsvorschrift angeordneter Bundesstatistiken Für die Erhebung von Angaben nach Satz 1 Nummer 1 besteht Auskunftspflicht, soweit für die Bundesstatistik eine Auskunftspflicht festgelegt ist. Im Übrigen besteht für die Angaben nach Satz 1 Nummer 1 und 2 keine Auskunftspflicht. Die Angaben nach Nummern 1 und 2 sind zum frühestmöglichen Zeitpunkt zu löschen, die Angaben nach Nummer 1 spätestens nachdem die entsprechenden im Rahmen der Durchführung der jeweiligen Bundesstatistik zu erhebenden Angaben auf ihre Schlüssigkeit und Vollständigkeit überprüft worden sind, die Angaben nach Nummer 2 spätestens 3 Jahre nach Durchführung der Erprobung. Bei den Angaben nach Nummer 2 sind Name und Anschrift von den übrigen Angaben zum frühestmöglichen Zeitpunkt zu trennen und gesondert aufzubewahren.
+(1) Das Statistische Bundesamt und die statistischen Ämter der Länder können zur Vorbereitung und Durchführung durch Rechtsvorschrift angeordneter Bundesstatistiken
 
-1.
+1. zur Klärung des Kreises der zu Befragenden und deren statistischer Zuordnung Angaben erheben,
 
-2.
+2. Fragebogen und Erhebungsverfahren auf ihre Zweckmäßigkeit erproben.
 
 (2) Die Angaben nach Absatz 1 Nummer 1 dürfen zur Führung des Statistikregisters nach § 13 Absatz 1 verwendet werden, sofern sie zur Vorbereitung und Durchführung von durch Rechtsvorschrift angeordneten Wirtschafts- und Umweltstatistiken erhoben wurden.
 
-(3) Das Statistische Bundesamt und die statistischen Ämter der Länder können auch zur Vorbereitung einer eine Bundesstatistik anordnenden Rechtsvorschrift Für die Angaben nach Nummern 1 und 2 besteht keine Auskunftspflicht. Sie sind zum frühestmöglichen Zeitpunkt zu löschen, die Angaben nach Nummer 2 spätestens drei Jahre nach Durchführung der Erprobung. Bei den Angaben nach Nummer 2 sind Name und Anschrift von den übrigen Angaben zum frühestmöglichen Zeitpunkt zu trennen und gesondert aufzubewahren.
+(3) Das Statistische Bundesamt und die statistischen Ämter der Länder können auch zur Vorbereitung einer eine Bundesstatistik anordnenden Rechtsvorschrift
 
-1.
+1. zur Bestimmung des Kreises der zu Befragenden und deren statistischer Zuordnung Angaben erheben,
 
-2.
+2. Fragebogen und Erhebungsverfahren auf ihre Zweckmäßigkeit erproben.
 
 (4) Ein Unternehmen mit weniger als 50 Beschäftigten soll im Kalenderjahr in höchstens drei Stichprobenerhebungen für Bundesstatistiken mit Auskunftspflicht einbezogen werden. Dabei gelten mehrmals im Kalenderjahr durchgeführte Erhebungen als eine einzige Erhebung.
 
-(5) Um direkte Befragungen zu ersetzen oder zu vereinfachen, darf zur Erstellung von Bundesstatistiken Folgendes verwendet werden: Zu dem in Satz 1 genannten Zweck dürfen Angaben zu den Erhebungsmerkmalen vorübergehend mit Angaben zu den Hilfsmerkmalen zusammengeführt werden. Das Ersetzen von Angaben durch Daten aus allgemein zugänglichen Quellen darf nur mit Zustimmung des für die der Bundesstatistik zugrunde liegenden Rechtsvorschrift zuständigen Bundesministeriums erfolgen. Soweit Daten nach den Sätzen 1 und 2 verwendet werden, darf von der Erhebung im Übrigen abgesehen werden.
+(5) Um direkte Befragungen zu ersetzen oder zu vereinfachen, darf zur Erstellung von Bundesstatistiken Folgendes verwendet werden:
 
-1.
+1. Angaben aus vorangegangenen Erhebungen der jeweiligen Bundesstatistik sowie
 
-2.
-
-a)
-
-b)
+2. bei Wirtschafts- und Umweltstatistiken bei Unternehmen, Betrieben und Arbeitsstätten a)Angaben aus anderen Wirtschafts- und Umweltstatistiken sowieb)Daten aus allgemein zugänglichen Quellen. Angaben aus anderen Wirtschafts- und Umweltstatistiken sowie Daten aus allgemein zugänglichen Quellen.
 
 > (+++ § 6 Abs. 4: Zur Nichtanwendung vgl. § 93 Abs. 1 Satz 2 AgrStatG (F 2009-03-06) +++)
 
@@ -140,7 +136,7 @@ b)
 
 (3) Das Statistische Bundesamt ist berechtigt, die Bundesstatistiken nach den Absätzen 1 und 2 durchzuführen, soweit dies in den Fällen des Absatzes 1 nicht von den statistischen Ämtern der Länder innerhalb der von den obersten Bundesbehörden gesetzten Fristen und in den Fällen des Absatzes 2 nicht von den statistischen Ämtern der Länder selbst erfolgt.
 
-(4) Bundesstatistiken nach den Absätzen 1 und 2 dürfen jeweils höchstens Angaben von 20 000 Befragten erfassen.
+(4) Bundesstatistiken nach den Absätzen 1 und 2 dürfen jeweils höchstens Angaben von 20 000 Befragten erfassen.
 
 (5) Wiederholungsbefragungen sind auch zum Zweck der Darstellung eines Verlaufs bis zu fünf Jahren nach der ersten Befragung zulässig.
 
@@ -186,31 +182,31 @@ b)
 
 (1) Das Statistische Bundesamt führt zur Vorbereitung und Erstellung von Bundesstatistiken sowie für Auswertungszwecke ein Unternehmensregister für statistische Verwendungszwecke (Statistikregister) gemäß der Verordnung (EG) Nr. 177/2008 des Europäischen Parlaments und des Rates vom 20. Februar 2008 zur Schaffung eines gemeinsamen Rahmens für Unternehmensregister für statistische Zwecke und zur Aufhebung der Verordnung (EWG) Nr. 2186/93 des Rates (ABl. L 61 vom 5.3.2008, S. 6) in der jeweils geltenden Fassung und dem Statistikregistergesetz. Die statistischen Ämter der Länder wirken bei der Pflege des Statistikregisters mit und dürfen es nutzen, soweit es zur Erfüllung ihrer Aufgaben nach diesem Gesetz oder einem sonstigen Bundes- oder Landesgesetz erforderlich ist.
 
-(2) Das Statistische Bundesamt führt zur Vorbereitung und Erstellung von Bundesstatistiken sowie für Auswertungszwecke ein Anschriftenregister, das zu jeder Anschrift die Postleitzahl, die Gemeindebezeichnung, die Straßenbezeichnung mit Hausnummer, die Geokoordinate des Grundstücks sowie eine Ordnungsnummer enthält. Darüber hinaus dürfen folgende Daten im Anschriftenregister gespeichert werden: Die statistischen Ämter der Länder wirken bei der Pflege des Anschriftenregisters mit und dürfen es nutzen, soweit es zur Erfüllung ihrer Aufgaben nach diesem Gesetz oder einem sonstigen Bundes- oder Landesgesetz erforderlich ist. Zur Pflege und Führung des Registers dürfen Angaben aus Bundes- und Landesstatistiken sowie aus allgemein zugänglichen Quellen verwendet werden. Zu den Daten nach Satz 2 Nummer 1 bis 3 werden vorherige Stände vier Jahre nach dem Ende des Kalenderjahres gelöscht, in dem die Übermittlung der Daten erfolgt ist.
+(2) Das Statistische Bundesamt führt zur Vorbereitung und Erstellung von Bundesstatistiken sowie für Auswertungszwecke ein Anschriftenregister, das zu jeder Anschrift die Postleitzahl, die Gemeindebezeichnung, die Straßenbezeichnung mit Hausnummer, die Geokoordinate des Grundstücks sowie eine Ordnungsnummer enthält. Darüber hinaus dürfen folgende Daten im Anschriftenregister gespeichert werden:
 
-1.
+1. die Wohnraumeigenschaft,
 
-2.
+2. die Anzahl der Personen an der Anschrift,
 
-3.
+3. die Zuordnung der Anschrift zu kleinräumigen Gliederungen sowie
 
-4.
+4. die Arten von an der Anschrift vorhandenen Sozial-, Bildungs-, Kultur-, Gesundheits- oder Verwaltungseinrichtungen.
 
 (3) Zur Pflege der Register nach den Absätzen 1 und 2 übermittelt das Bundesamt für Kartographie und Geodäsie dem Statistischen Bundesamt ab dem 1. November 2022 jährlich zum 1. November den jeweils aktuellen Datenbestand „Georeferenzierte Adressdaten“, soweit vorhanden.
 
 ### § 13a — Zusammenführung von Daten
 
-Soweit es zur Gewinnung von statistischen Informationen ohne zusätzliche statistische Erhebungen sowie zur Erfüllung der Zwecke nach § 13 Absatz 1 erforderlich ist, dürfen folgende Daten zusammengeführt werden: Für Zusammenführungen nach Satz 1 darf die Deutsche Bundesbank Daten aus den von ihr erstellten Wirtschaftsstatistiken an das Statistische Bundesamt übermitteln. Für Zusammenführungen nach Satz 1 dürfen die obersten Bundesbehörden und die von ihnen beauftragten Stellen die in Satz 1 Nummer 5 genannten Daten an das Statistische Bundesamt übermitteln. Soweit die nach Satz 1 Nummer 5 zusammengeführten Daten Merkmale enthalten, die der Identifikation von Einheiten im Statistikregister nach § 13 Absatz 1 dienen, werden diese Merkmale beim Statistischen Bundesamt spätestens vier Jahre nach Übermittlung der Daten gelöscht. Für Zusammenführungen nach Satz 1 dürfen Kennnummern nach § 1 Absatz 1 Satz 4 des Statistikregistergesetzes in den Datensätzen mit den Angaben zu den Erhebungsmerkmalen bis zu 30 Jahre gespeichert werden. Nach Ablauf der Speicherfrist sind die Kennnummern zu löschen. Die Frist beginnt mit Abschluss der jeweiligen Erhebung.
+Soweit es zur Gewinnung von statistischen Informationen ohne zusätzliche statistische Erhebungen sowie zur Erfüllung der Zwecke nach § 13 Absatz 1 erforderlich ist, dürfen folgende Daten zusammengeführt werden:
 
-1.
+1. Daten aus Wirtschafts- und Umweltstatistiken bei Unternehmen, Betrieben und Arbeitsstätten, einschließlich aus solchen Statistiken, die von der Deutschen Bundesbank erstellt wurden,
 
-2.
+2. Daten aus dem Statistikregister,
 
-3.
+3. Daten nach dem Verwaltungsdatenverwendungsgesetz,
 
-4.
+4. Daten, die die statistischen Ämter des Bundes und der Länder aus allgemein zugänglichen Quellen gewinnen sowie
 
-5.
+5. Daten oberster Bundesbehörden, die diese zur Erfüllung statistischer Berichtspflichten nach dem Recht der Europäischen Union erhoben haben oder die zu diesem Zweck in deren Auftrag erhoben wurden.
 
 ### § 14 — Erhebungsbeauftragte
 
@@ -232,11 +228,11 @@ Soweit es zur Gewinnung von statistischen Informationen ohne zusätzliche statis
 
 (4) Die Antwort kann elektronisch, schriftlich, mündlich oder telefonisch erteilt werden, soweit diese Möglichkeit zur Antworterteilung von der Erhebungsstelle angeboten wird. Im Falle einer mündlichen oder telefonischen Befragung ist auch die Möglichkeit einer schriftlichen Antworterteilung vorzusehen. Die Pflicht zur elektronischen Antworterteilung darf nur unter den Bedingungen des § 11a oder aufgrund eines Bundesgesetzes vorgegeben werden.
 
-(5) Die Antwort ist wahrheitsgemäß, vollständig und innerhalb der von den Erhebungsstellen gesetzten Fristen zu erteilen. Die Antwort ist erteilt, wenn sie Die Antwort ist, soweit in einer Rechtsvorschrift nichts anderes bestimmt ist, für den Empfänger kosten- und portofrei zu erteilen.
+(5) Die Antwort ist wahrheitsgemäß, vollständig und innerhalb der von den Erhebungsstellen gesetzten Fristen zu erteilen. Die Antwort ist erteilt, wenn sie
 
-1.
+1. bei postalischer Übermittlung der Erhebungsstelle zugegangen ist, oder
 
-2.
+2. bei elektronischer Übermittlung von der für den Empfang bestimmten Einrichtung in für die Erhebungsstelle bearbeitbarer Weise aufgezeichnet worden ist.
 
 (6) Wird bei einer mündlichen oder telefonischen Befragung die Antwort nach Absatz 4 Satz 2 schriftlich erteilt, können die ausgefüllten Fragebogen den Erhebungsbeauftragten übergeben, bei der Erhebungsstelle abgegeben oder dorthin übersandt werden.
 
@@ -244,15 +240,15 @@ Soweit es zur Gewinnung von statistischen Informationen ohne zusätzliche statis
 
 ### § 16 — Geheimhaltung
 
-(1) Einzelangaben über persönliche und sachliche Verhältnisse, die für eine Bundesstatistik gemacht werden, sind von den Amtsträgern und Amtsträgerinnen und für den öffentlichen Dienst besonders Verpflichteten, die mit der Durchführung von Bundesstatistiken betraut sind, geheim zu halten, soweit durch besondere Rechtsvorschrift nichts anderes bestimmt ist. Die Geheimhaltungspflicht besteht auch nach Beendigung ihrer Tätigkeit fort. Die Geheimhaltungspflicht gilt nicht für Die §§ 93, 97, 105 Absatz 1, § 111 Absatz 5 in Verbindung mit § 105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung vom 16. März 1976 (BGBl. I S. 613; 1977 I S. 269), zuletzt geändert durch Artikel 1 des Gesetzes vom 19. Dezember 1985 (BGBl. I S. 2436), gelten nicht für Personen und Stellen, soweit sie mit der Durchführung von Bundes- , Landes- oder Kommunalstatistiken betraut sind.
+(1) Einzelangaben über persönliche und sachliche Verhältnisse, die für eine Bundesstatistik gemacht werden, sind von den Amtsträgern und Amtsträgerinnen und für den öffentlichen Dienst besonders Verpflichteten, die mit der Durchführung von Bundesstatistiken betraut sind, geheim zu halten, soweit durch besondere Rechtsvorschrift nichts anderes bestimmt ist. Die Geheimhaltungspflicht besteht auch nach Beendigung ihrer Tätigkeit fort. Die Geheimhaltungspflicht gilt nicht für
 
-1.
+1. Einzelangaben, in deren Übermittlung oder Veröffentlichung die Betroffenen schriftlich eingewilligt haben, soweit nicht wegen besonderer Umstände eine andere Form der Einwilligung angemessen ist,
 
-2.
+2. Einzelangaben aus allgemein zugänglichen Quellen, wenn sie sich auf die in § 15 Absatz 1 genannten öffentlichen Stellen beziehen, auch soweit eine Auskunftspflicht aufgrund einer eine Bundesstatistik anordnenden Rechtsvorschrift besteht,
 
-3.
+3. Einzelangaben, die vom Statistischen Bundesamt oder den statistischen Ämtern der Länder mit den Einzelangaben anderer Befragter zusammengefasst und in statistischen Ergebnissen dargestellt sind,
 
-4.
+4. Einzelangaben, wenn sie den Befragten oder Betroffenen nicht zuzuordnen sind.
 
 (2) Die Übermittlung von Einzelangaben zwischen den mit der Durchführung einer Bundesstatistik betrauten Personen und Stellen ist zulässig, soweit dies zur Erstellung der Bundesstatistik erforderlich ist. Darüber hinaus ist die Übermittlung von Einzelangaben zwischen den an einer Zusammenarbeit nach § 3a beteiligten statistischen Ämtern und die zentrale Verarbeitung und Nutzung dieser Einzelangaben in einem oder mehreren statistischen Ämtern zulässig.
 
@@ -262,11 +258,11 @@ Soweit es zur Gewinnung von statistischen Informationen ohne zusätzliche statis
 
 (5) Für ausschließlich statistische Zwecke dürfen vom Statistischen Bundesamt und den statistischen Ämtern der Länder Einzelangaben an die zur Durchführung statistischer Aufgaben zuständigen Stellen der Gemeinden und Gemeindeverbände übermittelt werden, wenn die Übermittlung in einem eine Bundesstatistik anordnenden Gesetz vorgesehen ist sowie Art und Umfang der zu übermittelnden Einzelangaben bestimmt sind. Die Übermittlung ist nur zulässig, wenn durch Landesgesetz eine Trennung dieser Stellen von anderen kommunalen Verwaltungsstellen sichergestellt und das Statistikgeheimnis durch Organisation und Verfahren gewährleistet ist.
 
-(6) Für die Durchführung wissenschaftlicher Vorhaben dürfen das Statistische Bundesamt und die statistischen Ämter der Länder Hochschulen oder sonstigen Einrichtungen mit der Aufgabe unabhängiger wissenschaftlicher Forschung Berechtigte können nur Amtsträger oder Amtsträgerinnen, für den öffentlichen Dienst besonders Verpflichtete oder Verpflichtete nach Absatz 7 sein.
+(6) Für die Durchführung wissenschaftlicher Vorhaben dürfen das Statistische Bundesamt und die statistischen Ämter der Länder Hochschulen oder sonstigen Einrichtungen mit der Aufgabe unabhängiger wissenschaftlicher Forschung
 
-1.
+1. Einzelangaben übermitteln, wenn die Einzelangaben nur mit einem unverhältnismäßig großen Aufwand an Zeit, Kosten und Arbeitskraft zugeordnet werden können (faktisch anonymisierte Einzelangaben),
 
-2.
+2. innerhalb speziell abgesicherter Bereiche des Statistischen Bundesamtes und der statistischen Ämter der Länder Zugang zu formal anonymisierten Einzelangaben gewähren, wenn wirksame Vorkehrungen zur Wahrung der Geheimhaltung getroffen werden.
 
 (7) Personen, die Einzelangaben nach Absatz 6 erhalten sollen, sind vor der Übermittlung zur Geheimhaltung zu verpflichten, soweit sie nicht Amtsträger oder Amtsträgerinnen oder für den öffentlichen Dienst besonders Verpflichtete sind. § 1 Absatz 2, 3 und 4 Nummer 2 des Verpflichtungsgesetzes vom 2. März 1974 (BGBl. I S. 469, Artikel 42), das durch Gesetz vom 15. August 1974 (BGBl. I S. 1942) geändert worden ist, gilt entsprechend.
 
@@ -280,23 +276,23 @@ Soweit es zur Gewinnung von statistischen Informationen ohne zusätzliche statis
 
 Die zu Befragenden sind schriftlich oder elektronisch zu unterrichten über
 
-1.
+1. Zweck, Art und Umfang der Erhebung,
 
-2.
+2. die Geheimhaltung (§ 16),
 
-3.
+3. die Auskunftspflicht oder die Freiwilligkeit der Auskunftserteilung (§ 15),
 
-4.
+4. die Rechtsgrundlage der jeweiligen Bundesstatistik und die bei ihrer Durchführung verwendeten Hilfsmerkmale,
 
-5.
+5. die Trennung und Löschung (§ 12),
 
-6.
+6. die Rechte und Pflichten der Erhebungsbeauftragten (§ 14),
 
-7.
+7. den Ausschluss der aufschiebenden Wirkung von Widerspruch und Anfechtungsklage gegen die Aufforderung zur Auskunftserteilung (§ 15 Absatz 7),
 
-8.
+8. die Hilfs- und Erhebungsmerkmale zur Führung des Statistikregisters (§ 13 Absatz 1),
 
-9.
+9. die Bedeutung und den Inhalt von laufenden Nummern und Ordnungsnummern (§ 9 Absatz 2).
 
 ### § 18 — Statistische Erhebungen der Europäischen Union
 
@@ -328,9 +324,9 @@ Wer entgegen § 21 Einzelangaben aus Bundesstatistiken oder solche Einzelangaben
 
 (2) Ordnungswidrig handelt, wer
 
-1.
+1. entgegen § 15 Absatz 3 eine Antwort nicht in der vorgeschriebenen Form erteilt oder
 
-2.
+2. entgegen § 11a Absatz 2 Satz 1 ein dort genanntes Verfahren nicht nutzt.
 
 (2a) Ordnungswidrig handelt, wer entgegen § 6 Absatz 1 Satz 2 eine Auskunft nicht, nicht richtig, nicht vollständig, nicht rechtzeitig oder nicht in der vorgegebenen Form erteilt.
 
@@ -338,13 +334,13 @@ Wer entgegen § 21 Einzelangaben aus Bundesstatistiken oder solche Einzelangaben
 
 ### § 24 — Verwaltungsbehörde im Sinne des Gesetzes über Ordnungswidrigkeiten (OWiG)
 
-Verwaltungsbehörde im Sinne des § 36 Absatz 1 des Gesetzes über Ordnungswidrigkeiten ist das Statistische Bundesamt, soweit es Bundesstatistiken Das Gleiche gilt, soweit dem Statistischen Bundesamt entsprechende Aufgaben bei der Durchführung der Erhebungen nach § 18 obliegen.
+Verwaltungsbehörde im Sinne des § 36 Absatz 1 des Gesetzes über Ordnungswidrigkeiten ist das Statistische Bundesamt, soweit es Bundesstatistiken
 
-1.
+1. nach § 3 Absatz 1 Nummer 1 in Verbindung mit § 6 Absatz 1 vorbereitet oder
 
-2.
+2. nach § 3 Absatz 1 Nummer 5, auch in Verbindung mit § 5 Absatz 2, 2a und § 6 Absatz 1 erhebt oder
 
-3.
+3. aufgrund dieses oder eines sonstigen Bundesgesetzes aufbereitet.
 
 ### § 25 — Aufschiebende Wirkung von Widerspruch und Anfechtungsklage bei Landes- und Kommunalstatistiken
 

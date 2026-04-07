@@ -14,53 +14,47 @@
 
 (1) Wer Personen ausbildet, die eine Erlaubnis zum Führen von Kraftfahrzeugen nach § 2 des Straßenverkehrsgesetzes erwerben wollen (Fahrschüler), bedarf der Fahrlehrerlaubnis oder der Anwärterbefugnis. Die Fahrlehrerlaubnis wird auf Antrag in der Fahrlehrerlaubnisklasse BE und zusätzlich in den Fahrlehrerlaubnisklassen A, CE und DE erteilt. Bewerber um die Fahrlehrerlaubnis der Klasse BE erhalten zunächst eine Anwärterbefugnis nach § 9.
 
-(2) Die Fahrlehrerlaubnis wird in folgendem Umfang erteilt: Die Anwärterbefugnis berechtigt zur Ausbildung in den Fahrerlaubnisklassen BE, B und L.
+(2) Die Fahrlehrerlaubnis wird in folgendem Umfang erteilt:
 
-1.
+1. Die Fahrlehrerlaubnisklasse BE berechtigt zur Ausbildung in den Fahrerlaubnisklassen B, BE und L.
 
-2.
+2. Die Fahrlehrerlaubnisklasse A berechtigt zur Ausbildung in den Fahrerlaubnisklassen AM, A1, A2 und A.
 
-3.
+3. Die Fahrlehrerlaubnisklasse CE berechtigt zur Ausbildung in den Fahrerlaubnisklassen C1, C1E, C, CE und T.
 
-4.
+4. Die Fahrlehrerlaubnisklasse DE berechtigt zur Ausbildung in den Fahrerlaubnisklassen D1, D1E, D und DE.
 
 (3) Jede Fahrlehrerlaubnis und jede Anwärterbefugnis berechtigt zur Durchführung des allgemeinen Teils des theoretischen Unterrichts jeder Fahrerlaubnisklasse.
 
 (4) Von der Fahrlehrerlaubnis darf nur zusammen mit der Fahrschulerlaubnis oder im Rahmen eines Beschäftigungsverhältnisses mit dem Inhaber einer Fahrschule Gebrauch gemacht werden. Von der Anwärterbefugnis darf nur unselbstständig im Rahmen eines Ausbildungsverhältnisses mit dem Inhaber einer Fahrschule Gebrauch gemacht werden. Im Fall des § 44 Absatz 1 gilt die Gebietskörperschaft, welche die Fahrschule eingerichtet hat, als deren Inhaber. Von der Fahrlehrerlaubnis mit einem Zusatz nach § 3 Absatz 1 Satz 2 darf nur zur vorübergehenden und gelegentlichen Ausbildung von Fahrschülern Gebrauch gemacht werden.
 
-> (+++ § 1: Zur Anwendung vgl. § 9 Abs. 1 +++) (+++ § 1 Abs. 2: Zur Anwendung vgl. § 17 Abs. 2 +++)
-
 ### § 2 — Voraussetzungen der Fahrlehrerlaubnis
 
-(1) Die Fahrlehrerlaubnis wird erteilt, wenn Unzuverlässig im Sinne des Satzes 1 Nummer 4 ist der Bewerber insbesondere dann, wenn er wiederholt die Pflichten gröblich verletzt hat, die ihm nach diesem Gesetz oder den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen obliegen.
+(1) Die Fahrlehrerlaubnis wird erteilt, wenn
 
-1.
+1. der Bewerber das 21. Lebensjahr vollendet hat,
 
-2.
+2. der Bewerber geistig und körperlich geeignet ist,
 
-3.
+3. der Bewerber fachlich und pädagogisch geeignet ist,
 
-4.
+4. gegen den Bewerber keine Tatsachen vorliegen, die ihn für den Fahrlehrerberuf als unzuverlässig erscheinen lassen,
 
-5.
+5. der Bewerber mindestens eine abgeschlossene Berufsausbildung in einem anerkannten Lehrberuf oder eine gleichwertige Vorbildung besitzt,
 
-6.
+6. der Bewerber im Besitz der Fahrerlaubnis der Klasse ist, für die die Fahrlehrerlaubnis erteilt werden soll,
 
-7.
+7. der Bewerber seit mindestens drei Jahren die Fahrerlaubnis der Klasse B und, sofern die Fahrlehrerlaubnis zusätzlich für die Klasse A, CE oder DE erteilt werden soll, jeweils auch zwei Jahre die Fahrerlaubnis der Klasse A2, CE oder D besitzt,
 
-8.
+8. der Bewerber innerhalb der letzten drei Jahre vor Erteilung der Fahrlehrerlaubnis nach § 7 zum Fahrlehrer ausgebildet worden ist,
 
-9.
+9. der Bewerber eine Prüfung nach § 8 bestanden hat und
 
-10.
+10. der Bewerber über die für die Ausübung der Berufstätigkeit erforderlichen Kenntnisse der deutschen Sprache verfügt.
 
 (2) Des zweijährigen Besitzes einer Fahrerlaubnis der Klasse CE oder D bedarf es nicht, wenn der Bewerber um die Fahrlehrerlaubnis der Klasse CE oder DE sechs Monate lang hauptberuflich – als Angehöriger der Bundeswehr, der Bundespolizei oder der Polizei überwiegend – Kraftfahrzeuge der beantragten Klasse geführt oder sich nach Erwerb der Fahrerlaubnis einer 60 Fahrstunden zu 45 Minuten umfassenden Zusatzausbildung in einer Fahrschule auf solchen Kraftfahrzeugen unterzogen hat.
 
-> (+++ § 2: Zur Anwendung vgl. § 3 Abs. 5 +++) (+++ § 2: Zur Anwendung vgl. § 9 Abs. 1 +++) (+++ § 2 Abs. 1 Satz 1 Nr. 5 bis 8: Zur Nichtanwendung vgl. § 15 Abs. 1 +++)
-
 ### § 3 — Voraussetzungen für die Erteilung der Fahrlehrerlaubnis bei Inhabern eines Befähigungsnachweises aus einem anderen Staat
-
-(1) Einem Bewerber um eine Fahrlehrerlaubnis, der Inhaber einer in einem anderen Staat erteilten Fahrlehrerlaubnis oder eines in einem anderen Staat ausgestellten Nachweises über die Befähigung zur Fahrschülerausbildung (Befähigungsnachweis) ist, wird abweichend von § 2 Absatz 1 Satz 1 Nummer 5, 7 bis 9 die Fahrlehrerlaubnis der seiner Fahrlehrerlaubnis oder seinem Befähigungsnachweis entsprechenden Fahrlehrerlaubnisklasse erteilt, wenn die Voraussetzungen der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22), die zuletzt durch die Richtlinie 2013/55/EU vom 20. November 2013 (ABl. L 354 vom 28.12.2013, S. 132) geändert worden ist, erfüllt sind. In die Fahrlehrerlaubnis, die zur vorübergehenden und gelegentlichen Ausbildung von Fahrschülern berechtigt, ist ein darauf bezogener Zusatz aufzunehmen.
 
 (2) Unterscheidet sich die bisherige durch Ausbildung und Prüfung eines Bewerbers erworbene Qualifikation wesentlich von den durch Rechtsverordnungen auf Grund dieses Gesetzes für die Aufnahme der Fahrlehrertätigkeit im Inland vorgeschriebenen Anforderungen und wird dieser Unterschied auch durch die von dem Bewerber im Rahmen der Berufserfahrung oder durch sonstige nachgewiesene einschlägige Qualifikationen erworbenen Kenntnisse nicht ausgeglichen, kann die Erteilung der Fahrlehrerlaubnis nach Absatz 1, die zur Niederlassung im Inland berechtigt, von der Teilnahme an einem Anpassungslehrgang oder einer Eignungsprüfung abhängig gemacht werden.
 
@@ -68,93 +62,89 @@
 
 (4) Die nach Landesrecht zuständige Behörde kann einem Bewerber eine beschränkte Fahrlehrerlaubnis erteilen, wenn
 
-1.
+1. der Bewerber ohne Einschränkung qualifiziert ist, im Herkunftsmitgliedstaat die berufliche Tätigkeit auszuüben, für die eine beschränkte Fahrlehrerlaubnis begehrt wird und
 
-2.
+2. die Unterschiede zwischen der rechtmäßig ausgeübten Berufstätigkeit im Herkunftsmitgliedstaat und der Fahrlehrertätigkeit im Inland so groß sind, dass ein der Ausbildung nach § 7 entsprechender Anpassungslehrgang zu durchlaufen wäre.
 
 (5) Im Übrigen gilt § 2 entsprechend.
 
 (6) Unbeschadet des § 5 Absatz 6a findet das Berufsqualifikationsfeststellungsgesetz mit Ausnahme des § 17 keine Anwendung.
 
-> (+++ § 3: Zur Anwendung vgl. § 9 Abs. 1 +++) (+++ § 3 Abs. 1 Satz 2 u. Abs. 2, 4, 6: Zur Anwendung vgl. § 21 +++)
-
 ### § 4 — Antrag auf Erteilung der Fahrlehrerlaubnis
 
 (1) In dem Antrag auf Erteilung der Fahrlehrerlaubnis hat der Bewerber anzugeben, für welche Fahrlehrerlaubnisklasse er die Fahrlehrerlaubnis erwerben will. Dem Antrag sind beizufügen:
 
-1.
+1. ein amtlicher Nachweis über Ort und Tag der Geburt,
 
-2.
+2. ein Lebenslauf,
 
-3.
+3. ein Zeugnis oder ein Gutachten über die Erfüllung der von Bewerbern um eine Fahrerlaubnis der Klasse C1 geforderten Anforderungen an die körperliche und geistige Eignung und eine Bescheinigung oder ein Zeugnis über die Erfüllung der von Bewerbern um eine Fahrerlaubnis der Klasse C1 geforderten Anforderungen an das Sehvermögen, die bei Antragstellung nicht älter als ein Jahr sind,
 
-4.
+4. eine Ablichtung des nach dem 1. Januar 1999 ausgestellten Kartenführerscheins; sie muss amtlich beglaubigt sein, wenn der Führerschein nicht zur Einsichtnahme vorgelegt wird,
 
-5.
+5. ein Nachweis über die nach § 2 Absatz 1 Satz 1 Nummer 5 geforderte Vorbildung,
 
-6.
+6. eine Bescheinigung der amtlich anerkannten Fahrlehrerausbildungsstätte über die Dauer der durchgeführten Ausbildung nach § 7,
 
-7.
+7. dem Antrag auf Erteilung der Fahrlehrerlaubnis der Klasse BE zusätzlich eine Bescheinigung der Ausbildungsfahrschule über die Dauer der durchgeführten Ausbildung nach § 7.
 
 (2) Der Nachweis nach Absatz 1 Satz 2 Nummer 3 kann auch durch einen Führerschein mit den gültigen und nach dem 31. Dezember 1998 erworbenen Fahrerlaubnisklassen C1, C1E, C, CE, D1, D1E, D oder DE erbracht werden.
 
-(3) Abweichend von Absatz 1 Satz 2 Nummer 3, auch in Verbindung mit Absatz 2 Satz 1, kann die nach Landesrecht zuständige Behörde die Beibringung eines ärztlichen Gutachtens anordnen, wenn Tatsachen bekannt werden, die Bedenken gegen die körperliche oder geistige Eignung begründen. Die Behörde bestimmt in der Anordnung auch, ob das Gutachten von erstellt werden soll. Die Behörde kann auch mehrere solcher Anordnungen treffen. Der Facharzt nach Satz 2 Nummer 1 soll nicht zugleich der den Bewerber behandelnde Arzt sein.
+(3) Abweichend von Absatz 1 Satz 2 Nummer 3, auch in Verbindung mit Absatz 2 Satz 1, kann die nach Landesrecht zuständige Behörde die Beibringung eines ärztlichen Gutachtens anordnen, wenn Tatsachen bekannt werden, die Bedenken gegen die körperliche oder geistige Eignung begründen. Die Behörde bestimmt in der Anordnung auch, ob das Gutachten von
 
-1.
+1. einem für die Fragestellung zuständigen Facharzt mit verkehrsmedizinischer Qualifikation,
 
-2.
+2. einem Arzt des Gesundheitsamtes oder einem anderen Arzt der öffentlichen Verwaltung,
 
-3.
+3. einem Arzt mit der Gebietsbezeichnung „Arbeitsmedizin“ oder der Zusatzbezeichnung „Betriebsmedizin“,
 
-4.
+4. einem Arzt mit der Gebietsbezeichnung „Facharzt für Rechtsmedizin“ oder
 
-5.
+5. einem Arzt in einer Begutachtungsstelle für Fahreignung, der die Anforderungen nach Anlage 14 der Fahrerlaubnis-Verordnung erfüllt,
 
-(4) Die Beibringung eines Gutachtens einer amtlich anerkannten Begutachtungsstelle für Fahreignung kann angeordnet werden.
+(4) Die Beibringung eines Gutachtens einer amtlich anerkannten Begutachtungsstelle für Fahreignung kann
 
-1.
+1. zur weiteren Klärung von Eignungszweifeln nach Würdigung der Gutachten gemäß Absatz 1 Satz 2 Nummer 3 oder Absatz 3 Satz 2 Nummer 1 bis 4 oder
 
-2.
+2. zur Klärung, ob die für die Ausübung des Fahrlehrerberufs notwendige Zuverlässigkeit besteht,
 
 (5) Der Bewerber hat ferner ein Führungszeugnis im Sinne des § 30a Absatz 1 Nummer 1 des Bundeszentralregistergesetzes nach Maßgabe des § 30 Absatz 5 des Bundeszentralregistergesetzes vorzulegen, das nicht älter als drei Monate sein darf.
 
 (6) Zur Prüfung der Voraussetzungen nach § 2 Absatz 1 Nummer 4 hat die nach Landesrecht zuständige Behörde auf Kosten des Bewerbers eine Auskunft aus dem Fahreignungsregister einzuholen. Die sich auf die Ausbildung nach § 7 beziehenden Bescheinigungen nach Absatz 1 Satz 2 Nummer 6 und 7 sind nach Abschluss der Ausbildung nachzureichen.
 
-> (+++ § 4: Zur Anwendung vgl. § 9 Abs. 1 +++) (+++ § 4 Abs. 1 Satz 2 Nr. 5 bis 8: Zur Nichtanwendung vgl. § 15 Abs. 1 +++) (+++ § 4 Abs. 4: Zur Nichtanwendung vgl. § 44 Abs. 4 +++)
-
 ### § 5 — Antrag auf Erteilung einer Fahrlehrerlaubnis bei Inhabern eines Befähigungsnachweises aus einem anderen Staat nach § 3
 
 (1) In dem Antrag auf Erteilung der Fahrlehrerlaubnis nach § 3 hat der Bewerber anzugeben, für welche Fahrlehrerlaubnisklasse er die Fahrlehrerlaubnis erwerben will.
 
-(2) Dem Antrag auf Erteilung der Fahrlehrerlaubnis nach § 3, die zur Niederlassung im Inland berechtigt, sind beizufügen: Die Unterlagen nach Satz 1 Nummer 3 und 4 dürfen bei ihrer Vorlage nicht älter als drei Monate sein. Weist ein Bewerber nach, dass in dem Staat, in welchem der Ausbildungs- oder Befähigungsnachweis erworben wurde, Unterlagen nach Satz 1 Nummer 3 oder 4 nicht ausgestellt werden, können diese durch eine Versicherung an Eides statt des Bewerbers ersetzt werden.
+(2) Dem Antrag auf Erteilung der Fahrlehrerlaubnis nach § 3, die zur Niederlassung im Inland berechtigt, sind beizufügen:
 
-1.
+1. ein Identitätsnachweis,
 
-2.
+2. eine amtlich beglaubigte Kopie des Befähigungsnachweises oder des Ausbildungsnachweises, der zur Aufnahme des entsprechenden Berufs im ausstellenden Staat berechtigt,
 
-3.
+3. eine dem Führungszeugnis nach § 30a Absatz 1 Nummer 1 des Bundeszentralregistergesetzes vergleichbare Bescheinigung des Staates, in welchem der Befähigungs- oder Ausbildungsnachweis oder die Berufserfahrung erworben wurde,
 
-4.
+4. ein amtlicher Nachweis des Staates, in welchem der Ausbildungs- oder Befähigungsnachweis oder die Berufserfahrung erworben wurde, dass kein Fall vorliegt, in dem die Ausübung des Berufs wegen fehlender geistiger oder körperlicher Eignung im Sinne des § 3 Absatz 6 in Verbindung mit § 2 Absatz 1 Satz 1 Nummer 2 zu untersagen wäre,
 
-5.
+5. eine Bescheinigung darüber, dass die Tätigkeit des Fahrlehrers innerhalb der letzten zehn Jahre vor Ausstellung der Bescheinigung mindestens zwei Jahre lang ausgeübt wurde, wenn in dem ausstellenden Staat die Fahrlehrertätigkeit nicht reglementiert ist, und
 
-6.
+6. wenn die Kenntnisse nach § 3 Absatz 2 durch sonstige nachgewiesene einschlägige Qualifikationen erworben wurden, ein amtlicher Nachweis des Staates, in welchem diese Kenntnisse erworben wurden, darüber, dass diese als gültig anerkannt wurden.
 
-(3) Die nach Landesrecht zuständige Behörde kann im Fall des Absatzes 2 den Bewerber auffordern, Unterlagen vorzulegen: Ferner kann sich die nach Landesrecht zuständige Behörde an die Kontaktstelle oder die zuständige Behörde oder Stelle des Staates wenden, in dem der Bewerber die Ausbildung absolviert hat, die Prüfung bestanden oder die Berufserfahrung erworben hat, um die Echtheit der Unterlagen zu prüfen.
+(3) Die nach Landesrecht zuständige Behörde kann im Fall des Absatzes 2 den Bewerber auffordern, Unterlagen vorzulegen:
 
-1.
+1. zu Ausbildung und Prüfung, soweit dies erforderlich ist um festzustellen, ob die Ausbildung oder Prüfung im Sinne des § 3 Absatz 2 Satz 1 wesentlich von den Anforderungen der Fahrlehrer-Ausbildungsordnung und der Fahrlehrer-Prüfungsordnung für die Aufnahme der Fahrlehrertätigkeit im Inland abweicht,
 
-2.
+2. zur Berufserfahrung, soweit dies erforderlich ist um festzustellen, ob eine festgestellte wesentliche Abweichung der Ausbildung oder Prüfung von den Anforderungen der Fahrlehrer-Ausbildungsordnung und der Fahrlehrer-Prüfungsordnung für die Aufnahme der Fahrlehrertätigkeit im Inland durch die im Rahmen der Berufserfahrung erworbenen Kenntnisse im Sinne des § 3 Absatz 2 Satz 1 ausgeglichen werden kann.
 
 (4) Dem Antrag auf Erteilung einer Fahrlehrerlaubnis zur vorübergehenden und gelegentlichen Fahrschülerausbildung nach § 3 Absatz 1 Satz 2 sind beizufügen:
 
-1.
+1. ein Identitätsnachweis,
 
-2.
+2. eine amtliche Bescheinigung darüber, dass der Bewerber zum Zeitpunkt der Ausstellung der Bescheinigung in einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz rechtmäßig als Fahrlehrer niedergelassen ist und dass ihm die Ausübung dieses Berufs zum Zeitpunkt der Ausstellung der Bescheinigung nicht, auch nicht vorübergehend, untersagt ist,
 
-3.
+3. ein amtlich beglaubigter Nachweis über die Berufsqualifikation im Sinne von Artikel 3 Absatz 1 Buchstabe b der Richtlinie 2005/36/EG,
 
-4.
+4. in den Fällen, in denen die Fahrlehrertätigkeit oder die Ausbildung zu diesem Beruf in dem Staat seiner Niederlassung nicht im Sinne von Artikel 3 Absatz 1 Buchstabe a oder e der Richtlinie 2005/36/EG reglementiert ist, eine Bescheinigung darüber, dass die Tätigkeit des Fahrlehrers innerhalb der letzten zehn Jahre vor Ausstellung der Bescheinigung mindestens zwei Jahre lang im Staat seiner Niederlassung ausgeübt wurde.
 
 (5) Der Bewerber hat in den Fällen des Absatzes 4 den Nachweis des Antrags auf Erteilung eines Führungszeugnisses nach § 30a Absatz 1 Nummer 1 in Verbindung mit § 30 Absatz 5 des Bundeszentralregistergesetzes sowie eine vergleichbare Bescheinigung der zuständigen Behörde des Staates, in welchem er niedergelassen ist, beizufügen, die bei Antragstellung nicht älter als drei Monate sind. Weist ein Bewerber nach, dass in diesem Staat keine vergleichbare Bescheinigung ausgestellt wird, kann diese durch eine Versicherung an Eides statt des Bewerbers ersetzt werden. Die nach Landesrecht zuständige Behörde kann sich an den Mitgliedstaat, der die Bescheinigung nach Satz 1 Nummer 2 ausgestellt hat, wenden und alle Informationen über die Rechtmäßigkeit der Niederlassung des Bewerbers anfordern sowie Informationen darüber, dass keine berufsbezogenen verwaltungsrechtlichen und strafrechtlichen Sanktionen gegen den Bewerber vorliegen.
 
@@ -168,8 +158,6 @@
 
 (9) Unterlagen nach Absatz 2 und Absatz 4, die in einem Mitgliedstaat der Europäischen Union oder einem weiteren Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ausgestellt oder anerkannt wurden, können auch elektronisch übermittelt werden. § 3a des Verwaltungsverfahrensgesetzes gilt entsprechend.
 
-> (+++ § 5: Zur Anwendung vgl. § 9 Abs. 1 +++) (+++ § 5 Abs. 5 Satz 2: Zur Anwendung vgl. § 6 +++) (+++ § 5 Abs. 6 u. 7: Zur Anwendung vgl. § 24 Abs. 7 +++)
-
 ### § 6 — Meldepflicht der Inhaber einer Fahrlehrerlaubnis zur vorübergehenden und gelegentlichen Fahrschülerausbildung nach § 3 Absatz 1 Satz 2
 
 Der Inhaber einer Fahrlehrerlaubnis zur vorübergehenden und gelegentlichen Fahrschülerausbildung nach § 3 Absatz 1 Satz 2 hat der nach Landesrecht zuständigen Behörde jährlich formlos Meldung nach Maßgabe des Satzes 2 zu erstatten, wo er beabsichtigt, in dem betreffenden Jahr vorübergehend und gelegentlich Fahrschüler auszubilden. Die Meldung nach Satz 1 muss abweichend von Satz 1 schriftlich oder elektronisch erfolgen und ihr sind die Unterlagen nach § 5 Absatz 4 und 5 Satz 1 beizufügen, soweit sich wesentliche Änderungen gegenüber der in den Unterlagen, die dem Antrag auf Erteilung der Fahrlehrerlaubnis nach § 3 Absatz 1 Satz 2 beigefügt waren, bescheinigten Situation ergeben. § 5 Absatz 5 Satz 2 gilt entsprechend. In dem Jahr der Erteilung der Fahrlehrerlaubnis nach § 3 Absatz 1 Satz 2 ist eine Meldung entbehrlich.
@@ -182,17 +170,13 @@ Der Inhaber einer Fahrlehrerlaubnis zur vorübergehenden und gelegentlichen Fahr
 
 (2) Die Ausbildung findet in einer Fahrlehrerausbildungsstätte und zum Erwerb der Fahrlehrerlaubnis der Fahrlehrerlaubnisklasse BE zusätzlich in einer Ausbildungsfahrschule statt. Sie endet mit Bestehen oder endgültigem Nichtbestehen eines einzelnen Prüfungsteils der Fahrlehrerprüfung nach § 8.
 
-(3) Die Dauer der in § 2 Absatz 1 Satz 1 Nummer 8 bezeichneten Ausbildung beträgt für Bewerber Besitzt der Bewerber so verkürzt sich die jeweilige Ausbildungsdauer nach Satz 1 Nummer 3 um einen Monat.
+(3) Die Dauer der in § 2 Absatz 1 Satz 1 Nummer 8 bezeichneten Ausbildung beträgt für Bewerber
 
-1.
+1. für die Fahrlehrerlaubnis der Fahrlehrerlaubnisklasse BE mindestens zwölf Monate
 
-2.
+2. für die Fahrlehrerlaubnis der Fahrlehrerlaubnisklasse A zusätzlich zu der Ausbildung nach Nummer 1 mindestens einen Monat,
 
-3.
-
-1.
-
-2.
+3. für die Fahrlehrerlaubnis der Fahrlehrerlaubnisklasse CE oder DE zusätzlich zu der Ausbildung nach Nummer 1 mindestens zwei Monate.
 
 > (+++ § 7: Zur Anwendung vgl. § 9 Abs. 1 +++)
 
@@ -208,11 +192,11 @@ Der Inhaber einer Fahrlehrerlaubnis zur vorübergehenden und gelegentlichen Fahr
 
 (1) Bewerbern für die Fahrlehrerlaubnis der Klasse BE (Fahrlehreranwärter) wird zum Zwecke der weiteren Ausbildung nach § 7 und der Prüfung nach § 8, soweit diese sich auf die Lehrproben im theoretischen und fahrpraktischen Unterricht erstreckt, eine Anwärterbefugnis erteilt, wenn die fahrpraktische Prüfung und die Fachkundeprüfung jeweils mit Erfolg abgelegt wurden. Im Übrigen sind die §§ 1 bis 8 und 11 bis 14 mit den nachstehenden Maßgaben entsprechend anzuwenden. Die Erteilungsvoraussetzungen nach § 2 Absatz 1 Satz 1 Nummer 1, 8 und 9 und § 7 Absatz 3 brauchen nicht erfüllt zu sein. Die Anwärterbefugnis ist auf zwei Jahre zu befristen. Sie erlischt
 
-1.
+1. mit Erteilung der Fahrlehrerlaubnis,
 
-2.
+2. nach dreimaliger erfolgloser Lehrprobe im theoretischen oder im fahrpraktischen Unterricht (§ 8 Absatz 2) oder
 
-3.
+3. durch Ablauf der Frist.
 
 (2) Von der Anwärterbefugnis darf nur unter Aufsicht eines Ausbildungsfahrlehrers im Sinne des § 16 Gebrauch gemacht werden.
 
@@ -220,35 +204,35 @@ Der Inhaber einer Fahrlehrerlaubnis zur vorübergehenden und gelegentlichen Fahr
 
 (1) Die Fahrlehrerlaubnis wird durch Aushändigung oder Zustellung des Fahrlehrerscheins erteilt, die Anwärterbefugnis wird durch die Aushändigung oder Zustellung des Anwärterscheins erteilt. Inhaber einer Fahrlehrerlaubnis haben den Fahrlehrerschein und Fahrlehreranwärter haben den Anwärterschein bei Fahrten mit Fahrschülern mitzuführen und der nach Landesrecht zuständigen Behörde sowie den für die Überwachung des Straßenverkehrs und bei Fahrerlaubnisprüfungen den für die Prüfung zuständigen Personen auf Verlangen auszuhändigen.
 
-(2) Der Fahrlehrerschein muss enthalten. Der Fahrlehrerschein ist der nach Landesrecht zuständigen Behörde bei Beginn und Ende des Beschäftigungsverhältnisses unverzüglich vorzulegen.
+(2) Der Fahrlehrerschein muss
 
-1.
+1. den Namen,
 
-2.
+2. die Vornamen,
 
-3.
+3. den Geburtstag und -ort,
 
-4.
+4. die Angabe, für welche Fahrlehrerlaubnisklassen die Fahrlehrerlaubnis gilt,
 
-5.
+5. die Angabe, welche Auflagen bestehen,
 
-6.
+6. die Beschäftigungsverhältnisse mit dem Inhaber einer Fahrschule oder die selbstständige Tätigkeit als Inhaber einer Fahrschule sowie
 
-7.
+7. in den Fällen des § 3 Absatz 1 Satz 2 den Zusatz, dass die Fahrlehrerlaubnis nur zur vorübergehenden und gelegentlichen Ausbildung von Fahrschülern berechtigt,
 
-(3) Der Anwärterschein muss enthalten. Der Anwärterschein ist der nach Landesrecht zuständigen Behörde bei Ablauf der Gültigkeit und bei Beendigung des Ausbildungsverhältnisses vorzulegen.
+(3) Der Anwärterschein muss
 
-1.
+1. den Namen,
 
-2.
+2. die Vornamen,
 
-3.
+3. den Geburtstag und -ort,
 
-4.
+4. die Angabe, welche Auflagen bestehen,
 
-5.
+5. das Ausbildungsverhältnis mit dem Inhaber einer Fahrschule sowie
 
-6.
+6. die Gültigkeitsdauer
 
 ### § 11 — Geistige und körperliche Eignung des Fahrlehrers, Prüfung der Zuverlässigkeit
 
@@ -280,8 +264,6 @@ Fahrlehrer und Fahrlehreranwärter haben die Fahrschüler gewissenhaft auszubild
 
 (5) Bei Ruhen, teilweisem Erlöschen oder Erlöschen der Fahrlehrerlaubnis ist der Fahrlehrerschein unverzüglich der nach Landesrecht zuständigen Behörde zurückzugeben.
 
-> (+++ § 13: Zur Anwendung vgl. § 9 Abs. 1 +++) (+++ § 13: Zur Anwendung vgl. § 45 Abs. 6 +++) (+++ § 13: Zur Anwendung vgl. § 46 Abs. 6 +++)
-
 ### § 14 — Rücknahme und Widerruf der Fahrlehrerlaubnis
 
 (1) Die Fahrlehrerlaubnis ist zurückzunehmen, wenn bei ihrer Erteilung eine der Voraussetzungen des § 2 nicht vorgelegen hat und nachträglich keine Ausnahme nach § 54 Absatz 1 durch die nach Landesrecht zuständige Behörde erteilt ist. Die nach Landesrecht zuständige Behörde kann von der Rücknahme absehen, wenn der Mangel nicht mehr besteht.
@@ -306,9 +288,9 @@ Fahrlehrer und Fahrlehreranwärter haben die Fahrschüler gewissenhaft auszubild
 
 (1) Wer Fahrlehreranwärter ausbildet (Ausbildungsfahrlehrer), bedarf der Erlaubnis (Ausbildungsfahrlehrerlaubnis). Die Ausbildungsfahrlehrerlaubnis wird auf Antrag erteilt, wenn der Fahrlehrer
 
-1.
+1. seit mindestens drei Jahren im Besitz der Fahrlehrerlaubnisklasse BE ist und
 
-2.
+2. innerhalb der letzten zwei Jahre erfolgreich an einem fünftägigen Einweisungsseminar in einer amtlich anerkannten Fahrlehrerausbildungsstätte oder von einem Berufsverband der Fahrlehrer, sofern dieser hierfür von der nach Landesrecht zuständigen Behörde anerkannt ist, teilgenommen hat.
 
 (2) Die Teilnahme an einem Einweisungsseminar nach Absatz 1 war erfolgreich, wenn der Teilnehmer an allen Veranstaltungen des Seminars teilgenommen und durch aktive Beteiligung gezeigt hat, dass er zur Ausbildung von Fahrlehreranwärtern befähigt ist.
 
@@ -334,25 +316,23 @@ Fahrlehrer und Fahrlehreranwärter haben die Fahrschüler gewissenhaft auszubild
 
 ### § 18 — Voraussetzungen der Fahrschulerlaubnis
 
-(1) Die Fahrschulerlaubnis wird erteilt, wenn Unzuverlässig im Sinne des Satzes 1 Nummer 1 ist ein Bewerber insbesondere dann, wenn er wiederholt die Pflichten gröblich verletzt hat, die ihm nach diesem Gesetz oder den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen obliegen.
+(1) Die Fahrschulerlaubnis wird erteilt, wenn
 
-1.
+1. der Bewerber das 25. Lebensjahr vollendet hat und keine Tatsachen vorliegen, die ihn für die Führung einer Fahrschule als unzuverlässig erscheinen lassen,
 
-2.
+2. keine Tatsachen vorliegen, welche die Annahme rechtfertigen, dass der Bewerber die Pflichten nach § 29 nicht erfüllen kann,
 
-3.
+3. der Bewerber die Fahrlehrerlaubnis für die Klasse besitzt, für die er die Fahrschulerlaubnis beantragt,
 
-4.
+4. der Bewerber mindestens zwei Jahre lang im Rahmen eines Beschäftigungsverhältnisses mit dem Inhaber einer Fahrschulerlaubnis hauptberuflich als Fahrlehrer tätig war,
 
-5.
+5. der Bewerber erfolgreich an einem Lehrgang von mindestens 70 Unterrichtseinheiten zu 45 Minuten über Fahrschulbetriebswirtschaft teilgenommen hat,
 
-6.
+6. der Bewerber den erforderlichen Unterrichtsraum, die erforderlichen Lehrmittel und die zur Fahrausbildung in der betreffenden Fahrerlaubnisklasse bestimmten Lehrfahrzeuge zur Verfügung hat.
 
 (2) Ist der Bewerber eine juristische Person oder rechtsfähige Personengesellschaft, wird die Fahrschulerlaubnis erteilt, wenn die in Absatz 1 Nummer 6 genannten Voraussetzungen erfüllt sind und keine Tatsachen vorliegen, die die durch Gesetz, Satzung oder durch Einzelprokura zur Vertretung berechtigten Personen als unzuverlässig erscheinen lassen und eine von ihnen, die die Voraussetzungen des Absatzes 1 Nummer 1 bis 5 erfüllt, zur verantwortlichen Leitung des Ausbildungsbetriebs bestellt wird. Die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person muss nach den Umständen, insbesondere bei Berücksichtigung der beruflichen Verpflichtungen, die Gewähr dafür bieten, dass die Pflichten nach § 29 erfüllt werden.
 
 (3) Die Teilnahme an einem Lehrgang nach Absatz 1 Nummer 5 war erfolgreich, wenn der Teilnehmer an allen Veranstaltungen des Lehrgangs teilgenommen und durch aktive Beteiligung gezeigt hat, dass er zur betriebswirtschaftlichen Leitung einer Fahrschule befähigt ist.
-
-> (+++ § 18: Zur Anwendung vgl. § 21 +++) (+++ § 18 Abs. 1 Nr. 1 bis 5 u. Abs. 2 Satz 2: Zur Anwendung vgl. § 34 Abs. 4 +++)
 
 ### § 19 — Gemeinschaftsfahrschule
 
@@ -368,25 +348,25 @@ Ein Bewerber um eine Fahrschulerlaubnis, der Inhaber einer in einem anderen Staa
 
 ### § 22 — Antrag auf Erteilung der Fahrschulerlaubnis
 
-(1) In dem Antrag auf Erteilung der Fahrschulerlaubnis hat der Bewerber den Namen und die Anschrift der Fahrschule mitzuteilen und anzugeben, für welche Fahrschulerlaubnisklasse nach § 17 Absatz 2 die Fahrschulerlaubnis erteilt werden soll. Dem Antrag sind beizufügen: Der Bewerber hat ferner ein Führungszeugnis im Sinne des § 30a Absatz 1 Nummer 1 des Bundeszentralregistergesetzes nach Maßgabe des § 30 Absatz 5 des Bundeszentralregistergesetzes vorzulegen, das nicht älter als drei Monate sein darf.
+(1) In dem Antrag auf Erteilung der Fahrschulerlaubnis hat der Bewerber den Namen und die Anschrift der Fahrschule mitzuteilen und anzugeben, für welche Fahrschulerlaubnisklasse nach § 17 Absatz 2 die Fahrschulerlaubnis erteilt werden soll. Dem Antrag sind beizufügen:
 
-1.
+1. eine amtlich beglaubigte Abschrift oder Ablichtung des Fahrlehrerscheins,
 
-2.
+2. Unterlagen über die Tätigkeit als Fahrlehrer nach § 18 Absatz 1 Nummer 4,
 
-3.
+3. eine Bescheinigung des Trägers eines fahrschulbetriebswirtschaftlichen Lehrgangs nach § 18 Absatz 1 Nummer 5 über die erfolgreiche Lehrgangsteilnahme,
 
-4.
+4. eine Erklärung, ob und von welcher Behörde bereits eine Fahrschulerlaubnis erteilt worden ist,
 
-5.
+5. ein maßstabgerechter Plan der Unterrichtsräume mit Angaben über ihre Ausstattung,
 
-6.
+6. eine Erklärung, dass die vorgeschriebenen Lehrmittel zur Verfügung stehen,
 
-7.
+7. eine Aufstellung über Anzahl und Art der Lehrfahrzeuge,
 
-8.
+8. ein Auszug aus dem Gewerbezentralregister, der nicht älter als drei Monate ist,
 
-9.
+9. eine Bestätigung der zuständigen Finanzbehörde über die Erfüllung der steuerlichen Pflichten.
 
 (2) Ist der Bewerber eine juristische Person oder rechtsfähige Personengesellschaft, sind die Unterlagen nach Absatz 1 Satz 2 Nummer 4 bis 9, ein beglaubigter Auszug aus dem Handelsregister, Gesellschaftsregister oder aus dem Vereinsregister und für die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person zusätzlich die Unterlagen nach Absatz 1 Satz 2 Nummer 1 bis 4 beizufügen. Ferner ist zu erklären, welche beruflichen Verpflichtungen für die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person sonst noch zu erfüllen hat. Für die zur Vertretung der juristischen Person oder der rechtsfähigen Personengesellschaft berechtigten Personen und für die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person gilt Absatz 1 Satz 3 entsprechend.
 
@@ -398,33 +378,29 @@ Ein Bewerber um eine Fahrschulerlaubnis, der Inhaber einer in einem anderen Staa
 
 (1) In dem Antrag auf Erteilung der Fahrschulerlaubnis nach § 21, die zur Niederlassung im Inland berechtigt, hat der Bewerber den Namen und die Anschrift der Fahrschule mitzuteilen und anzugeben, für welche Klasse von Kraftfahrzeugen die Fahrschulerlaubnis erworben werden soll. Dem Antrag sind beizufügen
 
-1.
+1. ein amtlicher Nachweis über seine Staatsangehörigkeit,
 
-2.
+2. ein maßstabgerechter Plan der Unterrichtsräume mit Angaben über ihre Ausstattung,
 
-3.
+3. eine Erklärung, dass die vorgeschriebenen Lehrmittel zur Verfügung stehen, und
 
-4.
+4. eine Aufstellung über Anzahl und Art der Lehrfahrzeuge.
 
-(2) Ist der Bewerber bereits Inhaber einer inländischen Fahrlehrerlaubnis, sind dem Antrag über Absatz 1 Satz 2 hinaus folgende Unterlagen beizufügen: Der Bewerber hat ferner ein Führungszeugnis im Sinne des § 30a Absatz 1 Nummer 1 des Bundeszentralregistergesetzes nach Maßgabe des § 30 Absatz 5 des Bundeszentralregistergesetzes vorzulegen, das nicht älter drei Monate sein darf. Die nach Landesrecht zuständige Behörde kann den Bewerber auffordern, Unterlagen vorzulegen Ferner kann sich die nach Landesrecht zuständige Behörde an die Kontaktstelle oder die zuständige Behörde oder Stelle des Staates wenden, in dem der Bewerber die Ausbildung absolviert, die Prüfung bestanden oder die Berufserfahrung erworben hat, um die Echtheit der Unterlagen zu prüfen.
+(2) Ist der Bewerber bereits Inhaber einer inländischen Fahrlehrerlaubnis, sind dem Antrag über Absatz 1 Satz 2 hinaus folgende Unterlagen beizufügen:
 
-1.
+1. eine amtlich beglaubigte Abschrift oder Ablichtung des Fahrlehrerscheins,
 
-2.
+2. eine Erklärung, ob und von welcher Behörde bereits eine Fahrschulerlaubnis erteilt wurde.
 
-1.
+(3) Ist der Bewerber um eine Fahrschulerlaubnis nach § 21, die zur Niederlassung im Inland berechtigt, noch nicht Inhaber einer inländischen Fahrlehrerlaubnis, sind dem Antrag nach Absatz 1 Satz 1 über Absatz 1 Satz 2 hinaus folgende Unterlagen beizufügen:
 
-2.
+1. eine amtlich beglaubigte Kopie des Befähigungsnachweises oder des Ausbildungsnachweises im Sinne von Artikel 3 Absatz 1 Buchstabe c der Richtlinie 2005/36/EG, der zur Aufnahme der selbstständigen Fahrschülerausbildung der entsprechenden Klasse im ausstellenden Staat berechtigt,
 
-(3) Ist der Bewerber um eine Fahrschulerlaubnis nach § 21, die zur Niederlassung im Inland berechtigt, noch nicht Inhaber einer inländischen Fahrlehrerlaubnis, sind dem Antrag nach Absatz 1 Satz 1 über Absatz 1 Satz 2 hinaus folgende Unterlagen beizufügen: Weist der Bewerber nach, dass in dem Staat, in welchem der Ausbildungs- oder Befähigungsnachweis erworben wurde, Unterlagen nach Satz 1 Nummer 2 oder 3 nicht ausgestellt werden, können diese durch eine Versicherung an Eides statt des Bewerbers ersetzt werden. Die Bescheinigungen nach Satz 1 Nummer 2 und 3 dürfen bei ihrer Vorlage nicht älter als drei Monate sein. Absatz 2 Satz 3 und 4 gilt entsprechend.
+2. eine dem Führungszeugnis nach § 30a Absatz 1 Nummer 1 des Bundeszentralregistergesetzes vergleichbare Bescheinigung des Staates, in welchem der Ausbildungs- oder Befähigungsnachweis oder die Berufserfahrung erworben wurde, die bei Antragstellung nicht älter als drei Monate ist,
 
-1.
+3. ein amtlicher Nachweis des Staates, in welchem der Ausbildungs- oder Befähigungsnachweis oder die Berufserfahrung erworben wurde, dass kein Fall vorliegt, in dem die Ausübung des Berufs wegen fehlender geistiger oder körperlicher Eignung nach § 3 Absatz 6 in Verbindung mit § 2 Absatz 1 Satz 1 Nummer 2 zu untersagen wäre,
 
-2.
-
-3.
-
-4.
+4. eine Bescheinigung darüber, dass die Tätigkeit des Fahrlehrers innerhalb der letzten zehn Jahre vor Ausstellung der Bescheinigung mindestens zwei Jahre lang in einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz ausgeübt wurde, wenn in diesem Staat die Fahrlehrertätigkeit nicht im Sinne von Artikel 3 Absatz 1 Buchstabe a der Richtlinie 2005/36/EG reglementiert ist.
 
 (4) Ist der Bewerber eine juristische Person oder rechtsfähige Personengesellschaft, sind die Unterlagen nach Absatz 1 Satz 2 Nummer 2 bis 4, Absatz 2 Satz 1 Nummer 2 und für die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person zusätzlich die Unterlagen nach Absatz 1 Satz 2 Nummer 1 sowie Absatz 2 Satz 1 Nummer 1 oder Absatz 3 Satz 1 Nummer 1, 3 und 4 und Satz 2, auf Anforderung der Behörde auch die Unterlagen nach Absatz 2 Satz 4, auch in Verbindung mit Absatz 3 Satz 4 vorzulegen. Ferner ist zu erklären, welche sonstigen beruflichen Verpflichtungen die verantwortliche Leitung zu erfüllen hat. Für die zur Vertretung der juristischen Person oder der rechtsfähigen Personengesellschaft berechtigten Personen gilt Absatz 2 Satz 2 und 3 oder Absatz 3 Satz 1 Nummer 2, auch in Verbindung mit Satz 2, entsprechend.
 
@@ -436,33 +412,33 @@ Ein Bewerber um eine Fahrschulerlaubnis, der Inhaber einer in einem anderen Staa
 
 (1) In dem Antrag auf Erteilung einer Fahrschulerlaubnis zur vorübergehenden und gelegentlichen Fahrschülerausbildung nach § 21 Satz 2 in Verbindung mit § 3 Absatz 1 Satz 2 hat der Bewerber den Namen und die Anschrift der Fahrschule mitzuteilen und anzugeben, für welche Klasse von Kraftfahrzeugen die Fahrschulerlaubnis erworben werden soll. Dem Antrag sind beizufügen
 
-1.
+1. ein amtlicher Nachweis über die Staatsangehörigkeit,
 
-2.
+2. eine amtliche Bescheinigung darüber, dass er zum Zeitpunkt der Ausstellung der Bescheinigung in einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz rechtmäßig als Fahrlehrer niedergelassen ist und dass die Ausübung dieses Berufs zum Zeitpunkt der Ausstellung der Bescheinigung nicht, auch nicht vorübergehend, untersagt ist,
 
-3.
+3. ein maßstabgerechter Plan der Unterrichtsräume mit Angaben über ihre Ausstattung,
 
-4.
+4. eine Erklärung, dass die vorgeschriebenen Lehrmittel zur Verfügung stehen,
 
-5.
+5. eine Aufstellung über Anzahl und Art der Lehrfahrzeuge.
 
-(2) Der Bewerber hat ferner Die Bescheinigungen nach Satz 1 Nummer 1 und 2 dürfen nicht älter als drei Monate sein. Weist ein Bewerber nach, dass in diesem Staat keine vergleichbare Bescheinigung im Sinne des Satzes 1 Nummer 2 ausgestellt wird, kann diese durch eine Versicherung an Eides statt des Bewerbers ersetzt werden. Die nach Landesrecht zuständige Behörde kann sich an den Mitgliedstaat, der die Bescheinigung nach Absatz 1 Satz 2 Nummer 2 ausgestellt hat, wenden und alle Informationen über die Rechtmäßigkeit der Niederlassung des Bewerbers anfordern sowie Informationen darüber, dass keine berufsbezogenen verwaltungsrechtlichen und strafrechtlichen Sanktionen gegen den Bewerber vorliegen.
+(2) Der Bewerber hat ferner
 
-1.
+1. ein Führungszeugnis im Sinne des § 30a Absatz 1 Nummer 1 des Bundeszentralregistergesetzes nach Maßgabe des § 30 Absatz 5 des Bundeszentralregistergesetzes vorzulegen und
 
-2.
+2. eine vergleichbare Bescheinigung der zuständigen Behörde des Staates, in welchem er niedergelassen ist, seinem Antrag beizufügen.
 
 (3) Ist der Bewerber bereits Inhaber einer inländischen Fahrlehrerlaubnis, sind dem Antrag über Absatz 1 Satz 2 und Absatz 2 hinaus folgende Unterlagen beizufügen:
 
-1.
+1. eine amtlich beglaubigte Abschrift oder Ablichtung des Fahrlehrerscheins,
 
-2.
+2. eine Erklärung, ob und von welcher Behörde bereits eine Fahrschulerlaubnis erteilt wurde.
 
 (4) Ist der Bewerber noch nicht Inhaber einer inländischen Fahrlehrerlaubnis, sind dem Antrag über Absatz 1 Satz 2 und Absatz 2 hinaus folgende Unterlagen beizufügen:
 
-1.
+1. ein amtlich beglaubigter Nachweis über seine Berufsqualifikation im Sinne von Artikel 3 Absatz 1 Buchstabe b der Richtlinie 2005/36/EG,
 
-2.
+2. in den Fällen, in denen die Fahrlehrertätigkeit oder die Ausbildung zu diesem Beruf in dem Staat seiner Niederlassung nicht im Sinne von Artikel 3 Absatz 1 Buchstabe a oder e der Richtlinie 2005/36/EG reglementiert ist, eine Bescheinigung darüber, dass die Fahrlehrertätigkeit innerhalb der letzten zehn Jahre vor Ausstellung der Bescheinigung mindestens zwei Jahre lang im Staat der Niederlassung ausgeübt wurde.
 
 (5) Ist der Bewerber eine juristische Person oder rechtsfähige Personengesellschaft, sind die Unterlagen nach Absatz 1 Satz 2 Nummer 2 bis 5, Absatz 3 Nummer 2 und für die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person zusätzlich die Unterlagen nach Absatz 1 Satz 2 Nummer 1 sowie Absatz 3 Nummer 1 oder Absatz 4 beizufügen. Ferner ist zu erklären, welche sonstigen beruflichen Verpflichtungen die verantwortliche Leitung zu erfüllen hat. Für die zur Vertretung der juristischen Person oder der rechtsfähigen Personengesellschaft berechtigten Personen gilt Absatz 2 Satz 1, 2 sowie Satz 3 letzter Halbsatz entsprechend.
 
@@ -482,17 +458,17 @@ Der Inhaber einer Fahrschulerlaubnis zur vorübergehenden und gelegentlichen Fah
 
 (2) Die Erlaubnis muss enthalten:
 
-1.
+1. den Namen und die Anschrift der Fahrschule,
 
-2.
+2. den Namen und die Anschrift des Inhabers der Fahrschulerlaubnis – bei natürlichen Personen auch die Vornamen und den Geburtstag und -ort,
 
-3.
+3. bei juristischen Personen oder rechtsfähige Personengesellschaften die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person mit Namen, Vornamen und den Geburtstag und -ort,
 
-4.
+4. die Angabe, für welche Fahrschulerlaubnisklasse nach § 17 Absatz 2 die Fahrschulerlaubnis gilt,
 
-5.
+5. welche Auflagen bestehen und
 
-6.
+6. in den Fällen des § 21 Satz 2 in Verbindung mit § 3 Absatz 1 Satz 2 den Zusatz, dass die Fahrschulerlaubnis nur zur vorübergehenden und gelegentlichen Ausbildung von Fahrschülern berechtigt.
 
 (3) Ist der Inhaber der Fahrschulerlaubnis eine natürliche Person, so ist die Erteilung der Fahrschulerlaubnis im Fahrlehrerschein zu vermerken. Nach der Erteilung oder dem Erlöschen der Fahrschulerlaubnis ist der Schein unverzüglich der nach Landesrecht zuständigen Behörde vorzulegen.
 
@@ -504,31 +480,31 @@ Der Inhaber einer Fahrschulerlaubnis zur vorübergehenden und gelegentlichen Fah
 
 (1) Wer als Inhaber einer Fahrschule Zweigstellen seiner Fahrschule betreibt, bedarf der Zweigstellenerlaubnis.
 
-(2) Die Erlaubnis wird erteilt, wenn Die Anzahl der Zweigstellen soll insgesamt zehn nicht übersteigen. Bei Gemeinschaftsfahrschulen gilt diese Regelung auch für jeden Gesellschafter.
+(2) Die Erlaubnis wird erteilt, wenn
 
-1.
+1. die Zweigstelle hinsichtlich des Unterrichtsraums, der Lehrmittel und der Lehrfahrzeuge den Anforderungen des § 18 Absatz 1 Satz 1 Nummer 6 und der auf Grund des § 68 Absatz 1 Nummer 12 erlassenen Rechtsverordnung entspricht und
 
-2.
+2. nach den Umständen, insbesondere wegen der Anzahl der Zweigstellen oder ihrer räumlichen Entfernung und der Anzahl der Fahrlehrer, gewährleistet ist, dass der Inhaber der Fahrschulerlaubnis oder die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person den Pflichten nach § 29 nachkommen kann.
 
 (3) Es gelten entsprechend
 
-1.
+1. § 17 Absatz 2 zu den Fahrlehrerlaubnisklassen,
 
-2.
+2. § 22 Absatz 1 Satz 1 Nummer 4 bis 7 zu der Erklärung über bestehende Fahrschulerlaubnisse und den Angaben über Unterrichtsräume, Lehrmittel und Lehrfahrzeuge,
 
-3.
+3. § 26 Absatz 1 und 2 zur Erteilung und
 
-4.
+4. die §§ 28 bis 33 zum Fortführen nach dem Tode des Inhabers, den allgemeinen Pflichten, den Anzeigepflichten, den Aufzeichnungen, den Unterrichtsentgelten und dem Ruhen oder Erlöschen der Fahrschulerlaubnis.
 
 ### § 28 — Fortführen der Fahrschule nach dem Tod des Inhabers der Fahrschulerlaubnis
 
 (1) Nach dem Tod des Inhabers der Fahrschulerlaubnis kann die Fahrschule fortgeführt werden
 
-1.
+1. für Rechnung des überlebenden Ehegatten oder Lebenspartners,
 
-2.
+2. für Rechnung eines Erben, solange dieser noch nicht das 26. Lebensjahr vollendet hat oder seit dem Erbfall drei Jahre noch nicht verstrichen sind, oder
 
-3.
+3. für Rechnung des Testamentsvollstreckers, Nachlassverwalters, Nachlasspflegers oder Nachlassinsolvenzverwalters während einer Testamentsvollstreckung, Nachlassverwaltung, Nachlasspflegschaft oder Nachlassinsolvenzverwaltung.
 
 (2) Nach Ablauf von sechs Monaten seit dem Tod des Inhabers darf von der Fahrschulerlaubnis nur Gebrauch gemacht werden, wenn die in Absatz 1 genannten Personen oder eine andere als verantwortliche Leitung des Ausbildungsbetriebs bestellte Person die Voraussetzungen des § 18 Absatz 1 Nummer 1 bis 5 und Absatz 2 Satz 2 oder des § 21 erfüllen.
 
@@ -548,33 +524,25 @@ Der Inhaber einer Fahrschulerlaubnis zur vorübergehenden und gelegentlichen Fah
 
 ### § 30 — Anzeigepflichten des Inhabers der Fahrschule und der für die verantwortliche Leitung des Ausbildungsbetriebs bestellten Person
 
-Der Inhaber der Fahrschule oder in den Fällen des § 18 Absatz 2, § 28 Absatz 2, § 33 Absatz 1 Satz 3 und § 34 Absatz 4 die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person hat der nach Landesrecht zuständigen Behörde unverzüglich schriftlich oder elektronisch anzuzeigen Der Anzeige nach Satz 1 Nummer 5 sind Unterlagen nach § 22 Absatz 1 Nummer 1 bis 3 und eine Erklärung nach § 22 Absatz 2 Satz 2 beizufügen; § 23 Absatz 1 Satz 2 Nummer 1, Absatz 2 Satz 1, Absatz 3 Nummer 1, 3 und 4, Absatz 4 Satz 2 sowie § 24 Absatz 1 Satz 2 Nummer 1 und 2, Absatz 3, 4 und 5 Satz 2 gelten entsprechend. Der Anzeige nach Satz 1 Nummer 6 sind bei einer juristischen Person oder bei einer rechtsfähigen Personengesellschaft ein beglaubigter Auszug aus dem Handelsregister oder Vereinsregister, bei einem nichtrechtsfähigen Verein oder einer Gesellschaft bürgerlichen Rechts Unterlagen über die Vertretungsbefugnis der für ihn handelnden Personen beizufügen.
+Der Inhaber der Fahrschule oder in den Fällen des § 18 Absatz 2, § 28 Absatz 2, § 33 Absatz 1 Satz 3 und § 34 Absatz 4 die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person hat der nach Landesrecht zuständigen Behörde unverzüglich schriftlich oder elektronisch anzuzeigen
 
-1.
+1. Verlegung, Stilllegung und Schließung der Fahrschule,
 
-2.
+2. Beginn und Ende des Beschäftigungsverhältnisses mit einem Fahrlehrer oder des Ausbildungsverhältnisses mit einem Fahrlehreranwärter, Erteilung der Ausbildungsfahrlehrerlaubnis,
 
-3.
+3. Verlegung oder Verkleinerung der Unterrichtsräume,
 
-4.
+4. die Fortführung der Fahrschule nach § 28 Absatz 1,
 
-5.
+5. die Bestellung oder Entlassung der für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person,
 
-6.
+6. bei juristischen Personen, nichtrechtsfähigen Vereinen oder rechtsfähigen Personengesellschaften als Fahrschulinhabern die Bestellung oder das Ausscheiden von Personen, die nach Gesetz, Satzung oder Einzelprokura zur Vertretung berufen sind,
 
-7.
+7. Ausübung, Aufnahme und Beendigung anderer Tätigkeiten durch die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person oder den Inhaber einer Fahrschule unter Angabe der Art und des Umfangs,
 
-8.
+8. bei Gemeinschaftsfahrschulen im Sinne des § 19 a)Aufnahme des Betriebs einer Gemeinschaftsfahrschule; der Anzeige ist eine beglaubigte Abschrift des Gesellschaftsvertrags und der einzelnen Fahrschulerlaubnisse beizufügen,b)Änderungen des Gesellschaftsvertrags und der Ansprechperson nach § 29 Absatz 3, Aufnahme des Betriebs einer Gemeinschaftsfahrschule; der Anzeige ist eine beglaubigte Abschrift des Gesellschaftsvertrags und der einzelnen Fahrschulerlaubnisse beizufügen, Änderungen des Gesellschaftsvertrags und der Ansprechperson nach § 29 Absatz 3,
 
-a)
-
-b)
-
-9.
-
-a)
-
-b)
+9. bei Kooperationen im Sinne des § 20: a)Aufnahme einer Kooperation mit einer anderen Fahrschule; der Anzeige ist eine Abschrift der einzelnen Fahrschulerlaubnisse beizufügen,b)Änderungen der Kooperationspartner. Aufnahme einer Kooperation mit einer anderen Fahrschule; der Anzeige ist eine Abschrift der einzelnen Fahrschulerlaubnisse beizufügen, Änderungen der Kooperationspartner.
 
 > (+++ § 30: Zur Anwendung vgl. § 27 Abs. 3 +++)
 
@@ -592,41 +560,11 @@ b)
 
 (1) Jeder Inhaber der Fahrschulerlaubnis bildet seine Entgelte frei, selbstständig und in eigener Verantwortung; dies gilt für Gemeinschaftsfahrschulen im Sinne des § 19 entsprechend. Der Inhaber der Fahrschulerlaubnis hat die Entgelte mit den Geschäftsbedingungen in den Geschäftsräumen durch Aushang bekanntzugeben.
 
-(2) Das Entgelt ist anzugeben. Im Preisaushang sind insbesondere für jede Fahrerlaubnisklasse folgende Entgelte anzugeben: Die Sätze 1 und 2 gelten auch, wenn in der Werbung außerhalb der Geschäftsräume Entgelte angegeben werden. Die Angaben über die Entgelte und deren Bestandteile sowie über die Geschäftsbedingungen müssen den Grundsätzen der Preisklarheit und der Preiswahrheit entsprechen.
+(2) Das Entgelt ist
 
-1.
+1. pauschaliert für die allgemeinen Aufwendungen des Fahrschulbetriebs einschließlich des gesamten theoretischen Unterrichts, für die Vorstellung zur theoretischen Prüfung, für die Vorstellung zur praktischen Prüfung, für die Aufbauseminare nach § 2a Absatz 2 Satz 1 Nummer 1 des Straßenverkehrsgesetzes, für die Fahreignungsseminare nach § 4a Absatz 2 Nummer 1 des Straßenverkehrsgesetzes und für die Ausbildung für das Führen von Mofas und geschwindigkeitsbeschränkten Kleinkrafträdern nach den fahrerlaubnisrechtlichen Vorschriften sowie
 
-2.
-
-1.
-
-a)
-
-b)
-
-2.
-
-a)
-
-b)
-
-3.
-
-a)
-
-b)
-
-c)
-
-4.
-
-a)
-
-b)
-
-c)
-
-5.
+2. für eine Unterrichtseinheit im praktischen Unterricht und für die Unterweisung am Fahrzeug zu jeweils 45 Minuten (Fahrstunde)
 
 > (+++ § 32: Zur Anwendung vgl. § 27 Abs. 3 +++)
 
@@ -640,9 +578,9 @@ c)
 
 (4) Wird ein Ausbildungsbetrieb nach den Vorschriften dieses Gesetzes von einer für die verantwortliche Leitung des Ausbildungsbetriebs bestellten Person geführt, so ruht die Fahrschulerlaubnis, wenn
 
-1.
+1. für diese Person ein Fahrverbot nach § 25 des Straßenverkehrsgesetzes oder nach § 44 des Strafgesetzbuchs besteht, ihr Führerschein nach § 94 der Strafprozessordnung in Verwahrung genommen, sichergestellt oder beschlagnahmt, die Fahrerlaubnis nach § 111a der Strafprozessordnung vorläufig entzogen oder bei einer Entziehung im Verwaltungsverfahren die sofortige Vollziehung angeordnet und die aufschiebende Wirkung eines Rechtsbehelfs nicht wiederhergestellt worden ist oder
 
-2.
+2. dieser Person die Fahrerlaubnis rechtskräftig oder unanfechtbar entzogen, die Fahrlehrerlaubnis unanfechtbar zurückgenommen oder widerrufen worden ist oder die Fahrerlaubnis auf andere Weise erlischt.
 
 (5) Im Fall des Absatzes 4 Nummer 1 gilt Absatz 1 Satz 2 entsprechend. Im Fall des Absatzes 4 Nummer 2 sowie in den Fällen des § 18 Absatz 2, des § 28 Absatz 2 oder des § 33 Absatz 1 Satz 3 nach dem Ausscheiden der für die verantwortliche Leitung des Ausbildungsbetriebs bestellten Person erlischt die Fahrschulerlaubnis, wenn nicht binnen drei Monaten eine andere Person nach den Vorschriften dieses Gesetzes zur verantwortlichen Leitung des Ausbildungsbetriebs bestellt wird.
 
@@ -654,13 +592,13 @@ c)
 
 (2) Die Fahrschulerlaubnis ist zu widerrufen, wenn nachträglich eine der in § 18 Absatz 1 Nummer 1 zweiter Halbsatz, Nummer 2, 3 und 6 und Absatz 2 genannten Voraussetzungen weggefallen ist.
 
-(3) Die Fahrschulerlaubnis kann widerrufen werden, wenn Satz 1 Nummer 1 gilt nicht, soweit es sich um eine Fahrschulerlaubnis zur vorübergehenden und gelegentlichen Fahrschülerausbildung nach § 21 Satz 2 in Verbindung mit § 3 Absatz 1 Satz 2 handelt. In den Fällen der Kooperation im Sinne des § 20 kann die Fahrschulerlaubnis der Auftrag gebenden Fahrschule widerrufen werden, wenn die Fahrschulleitung der Auftrag nehmenden Fahrschule die Pflichten nach diesem Gesetz oder den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen gröblich verletzt hat und die Auftrag gebende Fahrschulleitung davon Kenntnis hatte oder hätte haben müssen.
+(3) Die Fahrschulerlaubnis kann widerrufen werden, wenn
 
-1.
+1. der Ausbildungsbetrieb aus einem von dem Inhaber zu vertretenden Grunde über die Dauer eines Jahres hinaus stillliegt,
 
-2.
+2. der Inhaber einer Fahrschulerlaubnis zur vorübergehenden und gelegentlichen Fahrschülerausbildung nach § 21 Satz 2 in Verbindung mit § 3 Absatz 1 Satz 2 nicht mehr in einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz rechtmäßig niedergelassen ist,
 
-3.
+3. in den Fällen des § 18 Absatz 2, der §§ 21, 28 Absatz 2, des § 33 Absatz 1 Satz 3 und des § 34 Absatz 4 die verantwortliche Leitung des Ausbildungsbetriebs wiederholt die Pflichten gröblich verletzt hat, die ihr nach diesem Gesetz oder den auf ihm beruhenden Rechtsverordnungen obliegen.
 
 (4) Werden der nach Landesrecht zuständigen Behörde geistige oder körperliche Mängel des Inhabers bekannt, kann die Fahrschule bis zum Ablauf von sechs Monaten auf Rechnung des Ehegatten oder Lebenspartners fortgeführt werden. Nach Ablauf von sechs Monaten nach Bekanntwerden des Mangels kann die nach Landesrecht zuständige Behörde bei körperlichen Mängeln des Inhabers davon absehen, die Fahrschulerlaubnis zurückzunehmen oder zu widerrufen, wenn eine andere Person als verantwortliche Leitung des Ausbildungsbetriebs bestellt wird; für diese gilt § 18 Absatz 1 Nummer 1 bis 5 und Absatz 2 Satz 2.
 
@@ -676,9 +614,9 @@ c)
 
 (1) In einer Fahrschule dürfen nur dann Fahrlehreranwärter ausgebildet werden, wenn der Inhaber oder die für die verantwortliche Leitung des Ausbildungsbetriebs bestellte Person
 
-1.
+1. seit mindestens zwei Jahren die Ausbildungsfahrlehrerlaubnis nach § 16 Absatz 1 Satz 1 besitzt oder
 
-2.
+2. die Ausbildungsfahrlehrerlaubnis besitzt und seit mindestens zwei Jahren im Besitz der Fahrschulerlaubnis ist.
 
 (2) Der Inhaber der Ausbildungsfahrschule oder die verantwortliche Leitung des Ausbildungsbetriebs, in dem Fahrlehrer ausgebildet werden, hat dafür zu sorgen, dass Ausbildungsfahrlehrer ihren Verpflichtungen nach § 16 Absatz 3 nachkommen. Bietet er nicht die Gewähr dafür, dass diesen Verpflichtungen nachgekommen wird, kann die nach Landesrecht zuständige Behörde die Ausbildung von Fahrlehreranwärtern untersagen.
 
@@ -692,39 +630,39 @@ c)
 
 ### § 37 — Voraussetzungen der amtlichen Anerkennung
 
-(1) Die amtliche Anerkennung wird erteilt, wenn Spätere Änderungen des Ausbildungsplans bedürfen der Genehmigung durch die nach Landesrecht zuständige Behörde. Unzuverlässig im Sinne des Satzes 1 Nummer 1 ist der Antragsteller insbesondere dann, wenn er wiederholt die Pflichten gröblich verletzt hat, die ihm nach diesem Gesetz oder den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen obliegen.
+(1) Die amtliche Anerkennung wird erteilt, wenn
 
-1.
+1. keine Tatsachen vorliegen, die den Inhaber oder die für die verantwortliche Leitung der Fahrlehrerausbildungsstätte bestellte Person für die Führung einer Fahrlehrerausbildungsstätte als unzuverlässig erscheinen lassen,
 
-2.
+2. die Fahrlehrerausbildungsstätte eine verantwortliche Leitung hat, die in der Lage ist, den Unterricht sachkundig zu überwachen, und die Gewähr dafür bietet, dass die Pflichten des § 40 erfüllt werden,
 
-3.
+3. der Fahrlehrerausbildungsstätte in ausreichender Anzahl Lehrkräfte zur Verfügung stehen, die in der Lage sind, in ihrem Aufgabenbereich den Fahrlehreranwärtern die nach § 7 notwendigen Kompetenzen zu vermitteln,
 
-4.
+4. der Fahrlehrerausbildungsstätte der erforderliche Unterrichtsraum und die erforderlichen Lehrmittel und Lehrfahrzeuge zur Verfügung stehen,
 
-5.
+5. ein sachgerechter Ausbildungsplan vorgelegt wird.
 
 (2) Ist der Inhaber eine juristische Person oder rechtsfähige Personengesellschaft, wird die amtliche Anerkennung erteilt, wenn die in Absatz 1 Satz 1 Nummer 4 genannten Voraussetzungen erfüllt sind und keine Tatsachen vorliegen, die die durch Gesetz, Satzung oder Einzelprokura berechtigten Personen als unzuverlässig erscheinen lassen und eine von ihnen, die die Voraussetzung des Absatzes 1 Satz 1 Nummer 1 erfüllt, zur verantwortlichen Leitung der Fahrlehrerausbildungsstätte bestellt wird. Absatz 1 Satz 3 gilt entsprechend.
 
 ### § 38 — Antrag auf amtliche Anerkennung
 
-(1) Im Antrag auf amtliche Anerkennung hat der Bewerber den Namen und die Anschrift der Fahrlehrerausbildungsstätte anzugeben. Dem Antrag sind beizufügen Der Bewerber hat ferner ein Führungszeugnis im Sinne des § 30a Absatz 1 Nummer 1 des Bundeszentralregistergesetzes nach Maßgabe des § 30 Absatz 5 des Bundeszentralregistergesetzes vorzulegen, das nicht älter drei Monate sein darf. Zur Ermittlung der Voraussetzungen nach § 37 Absatz 1 Satz 1 Nummer 1 hat die nach Landesrecht zuständige Behörde auf Kosten des Bewerbers eine Auskunft aus dem Fahreignungsregister einzuholen. Die Sätze 3 und 4 gelten auch für die für die verantwortliche Leitung des Ausbildungsbetriebs vorgesehene Person.
+(1) Im Antrag auf amtliche Anerkennung hat der Bewerber den Namen und die Anschrift der Fahrlehrerausbildungsstätte anzugeben. Dem Antrag sind beizufügen
 
-1.
+1. Unterlagen zum Nachweis der Eignung der für die verantwortliche Leitung der Fahrlehrerausbildungsstätte bestellten Person sowie eine Erklärung darüber, welche beruflichen Verpflichtungen die vorgesehene verantwortliche Leitung sonst noch zu erfüllen hat,
 
-2.
+2. ein Verzeichnis der Lehrkräfte und Unterlagen zum Nachweis der Eignung der Lehrkräfte,
 
-3.
+3. ein maßstabgerechter Plan der Unterrichtsräume mit Angaben über deren Ausstattung,
 
-4.
+4. eine Erklärung, dass die vorgeschriebenen Lehrmittel zur Verfügung stehen,
 
-5.
+5. eine Aufstellung über Anzahl und Art der Lehrfahrzeuge,
 
-6.
+6. der Ausbildungsplan,
 
-7.
+7. ein Auszug aus dem Gewerbezentralregister, der nicht älter als 3 Monate ist,
 
-8.
+8. eine Bestätigung der zuständigen Finanzbehörde über die Erfüllung der steuerlichen Pflichten.
 
 (2) Dem Antrag einer juristischen Person oder rechtsfähige Personengesellschaft ist außerdem ein beglaubigter Auszug aus dem Handelsregister oder Vereinsregister, dem Antrag eines nichtrechtsfähigen Vereins oder einer Gesellschaft bürgerlichen Rechts Unterlagen über die Vertretungsbefugnis der für ihn handelnden Personen beizufügen.
 
@@ -736,15 +674,15 @@ c)
 
 (2) Die amtliche Anerkennung muss enthalten:
 
-1.
+1. den Namen und die Anschrift der amtlich anerkannten Fahrlehrerausbildungsstätte,
 
-2.
+2. den Namen und die Anschrift des Inhabers der amtlich anerkannten Fahrlehrerausbildungsstätte – bei natürlichen Personen auch die Vornamen und den Geburtstag und -ort,
 
-2a.
+2a. bei juristischen Personen oder rechtsfähigen Personengesellschaften die für die verantwortliche Leitung der Fahrlehrerausbildungsstätte bestellte Person mit Namen, Vornamen, Geburtstag und Geburtsort,
 
-3.
+3. die Angabe, für welche Fahrlehrerlaubnisklasse nach § 17 Absatz 2 die Fahrlehreranwärter ausgebildet werden sollen, und
 
-4.
+4. bestehende Auflagen.
 
 ### § 40 — Allgemeine Pflichten des Inhabers und der für die verantwortliche Leitung der Fahrlehrerausbildungsstätte bestellten Person
 
@@ -754,31 +692,31 @@ c)
 
 ### § 41 — Anzeigepflichten des Inhabers und der für die verantwortliche Leitung der Fahrlehrerausbildungsstätte bestellten Person
 
-Der Inhaber oder die für die verantwortliche Leitung der Fahrlehrerausbildungsstätte bestellte Person hat der nach Landesrecht zuständigen Behörde unverzüglich anzuzeigen Der Anzeige ist bei einer juristischen Person oder rechtsfähigen Personengesellschaft ein beglaubigter Auszug aus dem Handelsregister oder Vereinsregister, bei einem nichtrechtsfähigen Verein oder einer Gesellschaft bürgerlichen Rechts Unterlagen über die Vertretungsbefugnis der für ihn handelnden Personen beizufügen. Der Anzeige nach Satz 1 Nummer 2 über die Bestellung sind Unterlagen zum Nachweis der Eignung und eine Erklärung darüber beizufügen, welche beruflichen Pflichten die für die verantwortliche Leitung der Fahrlehrerausbildungsstätte bestellte Person sonst noch zu erfüllen hat.
+Der Inhaber oder die für die verantwortliche Leitung der Fahrlehrerausbildungsstätte bestellte Person hat der nach Landesrecht zuständigen Behörde unverzüglich anzuzeigen
 
-1.
+1. die Verlegung, die Stilllegung und die Schließung der Fahrlehrerausbildungsstätte,
 
-2.
+2. die Bestellung und die Entlassung einer verantwortlichen Leitung der Fahrlehrerausbildungsstätte,
 
-3.
+3. Änderungen im Lehrpersonal; der Anzeige über die Einstellung einer Lehrkraft sind Unterlagen zum Nachweis der Eignung beizufügen,
 
-4.
+4. Verlegung der Unterrichtsräume,
 
-5.
+5. bei juristischen Personen, nichtrechtsfähigen Vereinen oder rechtsfähigen Personengesellschaften als Inhabern der amtlich anerkannten Fahrlehrerausbildungsstätte die Bestellung oder das Ausscheiden von Personen, die nach Gesetz oder Satzung zur Vertretung berufen sind.
 
 ### § 42 — Aufzeichnungen
 
-(1) Der Inhaber oder die für die verantwortliche Leitung der Fahrlehrerausbildungsstätte bestellte Person hat Aufzeichnungen über die Ausbildung nach Maßgabe der Sätze 2 und 3 zu führen. Die Aufzeichnungen müssen enthalten: Die Aufzeichnungen sind den Fahrlehreranwärtern nach Abschluss der Ausbildung zur Unterschrift vorzulegen.
+(1) Der Inhaber oder die für die verantwortliche Leitung der Fahrlehrerausbildungsstätte bestellte Person hat Aufzeichnungen über die Ausbildung nach Maßgabe der Sätze 2 und 3 zu führen. Die Aufzeichnungen müssen enthalten:
 
-1.
+1. Name, Vorname, Geburtsdatum und Anschrift jedes Fahrlehreranwärters,
 
-2.
+2. die erstrebte Fahrlehrerlaubnisklasse,
 
-3.
+3. Beginn und Ende der Ausbildungszeit,
 
-4.
+4. Anzahl der Unterrichtseinheiten, aufgegliedert nach dem Ausbildungsplan,
 
-5.
+5. die Ausbildungsfahrschule, in der hospitiert wurde, einschließlich des Zeitraums und Stundenumfangs der Hospitation.
 
 (2) Die Aufzeichnungen sind von dem Inhaber oder der für die verantwortliche Leitung der Fahrlehrerausbildungsstätte bestellten Person nach Ablauf des Jahres, in welchem der Unterricht abgeschlossen worden ist, fünf Jahre lang aufzubewahren und der nach Landesrecht zuständigen Behörde und den von ihr beauftragten Personen oder Stellen auf Verlangen zur Prüfung vorzulegen. Nach Ablauf dieser Frist sind sie von den in Absatz 1 genannten Personen unverzüglich zu löschen oder sonst zu vernichten.
 
@@ -804,15 +742,11 @@ Der Inhaber oder die für die verantwortliche Leitung der Fahrlehrerausbildungss
 
 (4) Eine Dienststelle nach Absatz 2 darf eine Fahrlehrerlaubnis nur erteilen, wenn der Bewerber die Voraussetzungen des § 2 erfüllt. Auf die Erteilung besteht kein Rechtsanspruch. Sie kann jederzeit zurückgenommen oder widerrufen werden und erlischt, wenn der Inhaber aus dem öffentlichen Dienst ausscheidet. Bei Angehörigen der Bundeswehr ruht sie, solange ein Dienstverhältnis nicht besteht. Die erteilte Fahrlehrerlaubnis berechtigt Inhaber nur, Angehörige des öffentlichen Dienstes im dienstlichen Auftrag auszubilden. § 4 Absatz 4 ist nicht anzuwenden.
 
-(5) Beantragt ein Inhaber einer nach Absatz 4 erteilten Fahrlehrerlaubnis eine entsprechende Fahrlehrerlaubnis nach § 1 in Verbindung mit § 2, gelten die allgemeinen Vorschriften. Die Prüfung im Sinne des § 2 Absatz 1 Satz 1 Nummer 9 entfällt, wenn Die Sätze 1 und 2 gelten auch, wenn der Antrag innerhalb von zwei Jahren nach der Rücknahme, dem Widerruf, dem Erlöschen oder dem Eintritt des Ruhens der nach Absatz 4 erteilten Fahrlehrerlaubnis gestellt wird.
+(5) Beantragt ein Inhaber einer nach Absatz 4 erteilten Fahrlehrerlaubnis eine entsprechende Fahrlehrerlaubnis nach § 1 in Verbindung mit § 2, gelten die allgemeinen Vorschriften. Die Prüfung im Sinne des § 2 Absatz 1 Satz 1 Nummer 9 entfällt, wenn
 
-1.
+1. der Bewerber a)in den letzten zwei Jahren in der Kraftfahrausbildung tätig war oderb)die Teilnahme an der Fortbildung gemäß § 53 nachweist und in den letzten zwei Jahren in der Kraftfahrausbildung tätig war oder die Teilnahme an der Fortbildung gemäß § 53 nachweist und
 
-a)
-
-b)
-
-2.
+2. nicht Tatsachen vorliegen, die Zweifel an der fachlichen Eignung des Bewerbers begründen.
 
 (6) Hinsichtlich der Seminarerlaubnis sowie der Anerkennung der Träger von vorgeschriebenen Einweisungs- und Fortbildungslehrgängen gelten die Absätze 2 und 4 entsprechend. Die Voraussetzung des § 45 Absatz 2 Nummer 2 gilt als erfüllt, wenn der Inhaber einer Fahrlehrerlaubnis nach Absatz 4 innerhalb der letzten fünf Jahre überwiegend theoretischen und praktischen Fahrschulunterricht erteilt hat.
 
@@ -828,19 +762,15 @@ b)
 
 (1) Wer Aufbauseminare im Sinne des § 2a Absatz 2 Satz 1 Nummer 1 des Straßenverkehrsgesetzes durchführt, bedarf der Seminarerlaubnis (Seminarerlaubnis Aufbauseminar).
 
-(2) Eine Seminarerlaubnis Aufbauseminar wird auf Antrag erteilt, wenn der Fahrlehrer Die Seminarerlaubnis Aufbauseminar kann – auch nachträglich – mit Auflagen verbunden werden, soweit dies erforderlich ist, um die Einhaltung der Anforderungen an Aufbauseminare, deren ordnungsgemäße Durchführung und deren Überwachung sicherzustellen. Die Seminarerlaubnis Aufbauseminar ist zu versagen, wenn Tatsachen vorliegen, die Bedenken gegen die Zuverlässigkeit des Antragstellers begründen.
+(2) Eine Seminarerlaubnis Aufbauseminar wird auf Antrag erteilt, wenn der Fahrlehrer
 
-1.
+1. mindestens die Fahrlehrerlaubnis der Klassen A und BE besitzt,
 
-2.
+2. innerhalb der letzten fünf Jahre drei Jahre lang Fahrschülern hauptberuflich theoretischen und praktischen Unterricht erteilt hat,
 
-3.
+3. im Fahreignungsregister mit nicht mehr als zwei Punkten belastet ist und
 
-4.
-
-a)
-
-b)
+4. innerhalb der letzten zwei Jahre mit Erfolg an einem Einweisungslehrgang teilgenommen hat, der a)einen viertägigen Grundkursus undb)einen viertägigen programmspezifischen Kurs zur Durchführung des Aufbauseminars nach § 2a Absatz 2 Satz 1 Nummer 1 Straßenverkehrsgesetz besteht,umfasst. einen viertägigen Grundkursus und einen viertägigen programmspezifischen Kurs zur Durchführung des Aufbauseminars nach § 2a Absatz 2 Satz 1 Nummer 1 Straßenverkehrsgesetz besteht,
 
 (3) Die Teilnahme an einem Einweisungslehrgang nach Absatz 2 Satz 1 Nummer 4 war erfolgreich, wenn der Teilnehmer an allen Veranstaltungen des Lehrgangs teilgenommen und durch aktive Beteiligung, insbesondere bei Übungsmoderationen, gezeigt hat, dass er zur Leitung des Aufbauseminars befähigt ist. Die Träger der Kurse nach Absatz 2 Satz 1 Nummer 4 müssen von der nach Landesrecht zuständigen Behörde oder von einer durch sie bestimmten oder nach Landesrecht zuständigen Stelle anerkannt sein.
 
@@ -858,41 +788,29 @@ b)
 
 (1) Wer die verkehrspädagogische Teilmaßnahme des Fahreignungsseminars im Sinne des § 4a Absatz 2 Satz 2 Nummer 1 des Straßenverkehrsgesetzes durchführt, bedarf der Erlaubnis (Seminarerlaubnis Verkehrspädagogik).
 
-(2) Die Seminarerlaubnis Verkehrspädagogik wird auf Antrag erteilt, wenn der Fahrlehrer Die Seminarerlaubnis Verkehrspädagogik kann – auch nachträglich – mit Auflagen verbunden werden, soweit dies erforderlich ist, um die Einhaltung der Anforderungen an Fahreignungsseminare, deren ordnungsgemäße Durchführung und deren Überwachung sicherzustellen. Die Seminarerlaubnis Verkehrspädagogik ist zu versagen, wenn Tatsachen vorliegen, die Bedenken gegen die Zuverlässigkeit des Antragstellers begründen.
+(2) Die Seminarerlaubnis Verkehrspädagogik wird auf Antrag erteilt, wenn der Fahrlehrer
 
-1.
+1. mindestens die Fahrlehrerlaubnis der Klassen A und BE besitzt,
 
-2.
+2. innerhalb der letzten fünf Jahre drei Jahre lang Fahrschülern hauptberuflich theoretischen und praktischen Unterricht erteilt hat,
 
-3.
+3. im Fahreignungsregister mit nicht mehr als zwei Punkten belastet ist und
 
-4.
-
-a)
-
-b)
-
-c)
-
-d)
+4. innerhalb der letzten zwei Jahre erfolgreich an einem Einweisungslehrgang teilgenommen hat, der a)einen viertägigen verkehrspädagogischen Grundkurs,b)einen viertägigen Kurs zur inhaltlichen Gestaltung der verkehrspädagogischen Teilmaßnahme des Fahreignungsseminars,c)die Hospitation einer vollständigen verkehrspädagogischen Teilmaßnahme des Fahreignungsseminars undd)eine eigenständige, durch die Lehrgangsleitung beaufsichtigte Durchführung einer vollständigen verkehrspädagogischen Teilmaßnahme des Fahreignungsseminarsumfasst. einen viertägigen verkehrspädagogischen Grundkurs, einen viertägigen Kurs zur inhaltlichen Gestaltung der verkehrspädagogischen Teilmaßnahme des Fahreignungsseminars, die Hospitation einer vollständigen verkehrspädagogischen Teilmaßnahme des Fahreignungsseminars und eine eigenständige, durch die Lehrgangsleitung beaufsichtigte Durchführung einer vollständigen verkehrspädagogischen Teilmaßnahme des Fahreignungsseminars
 
 (3) Die Teilnahme an einem Einweisungslehrgang nach Absatz 2 Satz 1 Nummer 4 war erfolgreich, wenn der Teilnehmer an allen Veranstaltungen des Lehrgangs teilgenommen und durch aktive Beteiligung, insbesondere bei Übungsmoderationen, gezeigt hat, dass er zur Erfüllung der aufgestellten Qualitätsmerkmale zur Seminardurchführung befähigt ist.
 
 (4) Die Seminarerlaubnis Verkehrspädagogik wird schriftlich erteilt. Von der Seminarerlaubnis Verkehrspädagogik darf nur zusammen mit der Fahrschulerlaubnis oder im Rahmen eines Beschäftigungsverhältnisses mit dem Inhaber einer Fahrschule Gebrauch gemacht werden. Der Inhaber oder die verantwortliche Leitung der Fahrschule muss ebenfalls die Seminarerlaubnis Verkehrspädagogik besitzen.
 
-(5) Der Inhaber der Seminarerlaubnis Verkehrspädagogik hat personenbezogene Daten, die ihm als Seminarleitung der verkehrspädagogischen Teilmaßnahme bekannt geworden sind, zu speichern und fünf Jahre nach der Ausstellung einer vorgeschriebenen Teilnahmebescheinigung unverzüglich zu löschen. Die Daten nach Satz 1 dürfen Der Empfänger nach Satz 2 hat die Daten unverzüglich zu löschen, wenn sie nicht mehr für die in Satz 2 jeweils genannten Zwecke benötigt werden, spätestens jedoch fünf Jahre nach der Ausstellung der Teilnahmebescheinigung nach Satz 1.
+(5) Der Inhaber der Seminarerlaubnis Verkehrspädagogik hat personenbezogene Daten, die ihm als Seminarleitung der verkehrspädagogischen Teilmaßnahme bekannt geworden sind, zu speichern und fünf Jahre nach der Ausstellung einer vorgeschriebenen Teilnahmebescheinigung unverzüglich zu löschen. Die Daten nach Satz 1 dürfen
 
-1.
+1. vom Inhaber der Seminarerlaubnis Verkehrspädagogik längstens neun Monate nach der Ausstellung der Teilnahmebescheinigung für die Durchführung des jeweiligen Fahreignungsseminars genutzt werden,
 
-2.
+2. vom Inhaber der Seminarerlaubnis Verkehrspädagogik der Bundesanstalt für Straßenwesen übermittelt und von dieser zur Evaluierung nach § 49 genutzt werden,
 
-3.
+3. von der Bundesanstalt für Straßenwesen oder in ihrem Auftrag an Dritte, die die Evaluierung nach § 49 im Auftrag der Bundesanstalt für Straßenwesen durchführen oder an ihr beteiligt sind, übermittelt und von Dritten für die Evaluierung genutzt werden,
 
-4.
-
-a)
-
-b)
+4. vom Inhaber der Seminarerlaubnis Verkehrspädagogik ausschließlich in Gestalt von Name, Vorname, Geburtsdatum und Anschrift der Seminarteilnehmer sowie deren Unterschrift auf der Teilnehmerliste a)der nach Landesrecht zuständigen Behörde übermittelt und von dieser zur Überwachung nach Absatz 7 genutzt werden,b)an Dritte, die ein von der nach Landesrecht zuständigen Behörde genehmigtes Qualitätssicherungssystem nach § 51 Absatz 6 betreiben und an dem der Inhaber der Seminarerlaubnis Verkehrspädagogik teilnimmt, übermittelt und im Rahmen dieses Qualitätssicherungssystems genutzt werden. der nach Landesrecht zuständigen Behörde übermittelt und von dieser zur Überwachung nach Absatz 7 genutzt werden, an Dritte, die ein von der nach Landesrecht zuständigen Behörde genehmigtes Qualitätssicherungssystem nach § 51 Absatz 6 betreiben und an dem der Inhaber der Seminarerlaubnis Verkehrspädagogik teilnimmt, übermittelt und im Rahmen dieses Qualitätssicherungssystems genutzt werden.
 
 (6) Für Ruhen und Erlöschen der Seminarerlaubnis Verkehrspädagogik gilt § 13 entsprechend.
 
@@ -902,21 +820,17 @@ b)
 
 ### § 47 — Voraussetzungen für die Durchführung von Einweisungslehrgängen nach § 46 Absatz 2 Satz 1 Nummer 4
 
-(1) Zur Durchführung von Einweisungslehrgängen nach § 46 Absatz 2 Satz 1 Nummer 4 ist berechtigt, wer von der nach Landesrecht zuständigen Behörde anerkannt ist. Die Anerkennung ist auf Antrag zu erteilen, wenn der Bewerber folgende Voraussetzungen erfüllt: Die Anerkennung ist zu versagen, wenn Tatsachen vorliegen, die Bedenken gegen die Zuverlässigkeit des Bewerbers begründen. Die Anerkennung kann – auch nachträglich – mit Auflagen, insbesondere hinsichtlich der Aufsicht über die Durchführung der Einweisungslehrgänge sowie der Teilnahme an Fortbildungsmaßnahmen verbunden werden, soweit dies erforderlich ist, um die Einhaltung der Anforderungen an Einweisungslehrgänge, deren ordnungsgemäße Durchführung und deren Überwachung sicherzustellen.
+(1) Zur Durchführung von Einweisungslehrgängen nach § 46 Absatz 2 Satz 1 Nummer 4 ist berechtigt, wer von der nach Landesrecht zuständigen Behörde anerkannt ist. Die Anerkennung ist auf Antrag zu erteilen, wenn der Bewerber folgende Voraussetzungen erfüllt:
 
-1.
+1. Vorlage eines Ausbildungsprogramms, mit dem Kenntnisse und Fähigkeiten vermittelt werden, die erforderlich sind, um die verkehrspädagogische Teilmaßnahme des Fahreignungsseminars nach § 4a Absatz 2 Satz 2 Nummer 1 des Straßenverkehrsgesetzes und der auf Grund des Straßenverkehrsgesetzes erlassenen Rechtsvorschriften durchzuführen,
 
-2.
+2. Nachweis geeigneter Räumlichkeiten sowie einer sachgerechten Ausstattung,
 
-3.
+3. Nachweis der folgenden Qualifikation a)Seminarerlaubnis Aufbauseminar nach § 45, Seminarerlaubnis für Aufbauseminare nach § 31 in der bis zum Ablauf des 30. April 2014 anwendbaren Fassung oder Seminarerlaubnis für Aufbauseminare nach § 45 und eine mindestens dreijährige Erfahrung in der Durchführung eines dieser Seminare oderb)Abschluss eines Hochschulstudiums mit bildungswissenschaftlichem Schwerpunkt und Diplom- oder gleichwertigem Studienabschluss, Besitz der Fahrerlaubnis der Klasse BE und mindestens dreijährige Berufserfahrung in der Erwachsenenbildung, Seminarerlaubnis Aufbauseminar nach § 45, Seminarerlaubnis für Aufbauseminare nach § 31 in der bis zum Ablauf des 30. April 2014 anwendbaren Fassung oder Seminarerlaubnis für Aufbauseminare nach § 45 und eine mindestens dreijährige Erfahrung in der Durchführung eines dieser Seminare oder Abschluss eines Hochschulstudiums mit bildungswissenschaftlichem Schwerpunkt und Diplom- oder gleichwertigem Studienabschluss, Besitz der Fahrerlaubnis der Klasse BE und mindestens dreijährige Berufserfahrung in der Erwachsenenbildung,
 
-a)
+4. Belastung mit nicht mehr als zwei Punkten im Fahreignungsregister und
 
-b)
-
-4.
-
-5.
+5. Teilnahme an einem mindestens viertägigen Einführungsseminar für Lehrgangsleitungen von Einweisungslehrgängen bei einem von der nach Landesrecht zuständigen Behörde anerkannten Träger.
 
 (2) Der Einweisungslehrgang besteht mindestens aus einem viertägigen verkehrspädagogischen Grundkurs und einem viertägigen spezialisierten Kurs, in dem die Inhalte der verkehrspädagogischen Teilmaßnahme des Fahreignungsseminars vermittelt werden. Die Kurse sollen an jeweils vier zusammenhängenden Tagen stattfinden. Ihre tägliche Dauer beträgt acht Unterrichtseinheiten zu je 45 Minuten. Die Zahl der Teilnehmer darf zwölf nicht überschreiten.
 
@@ -936,15 +850,15 @@ Das Fahreignungsseminar, die Vorschriften hierzu und der Vollzug einschließlich
 
 (2) Örtlich zuständig nach Absatz 1 ist
 
-1.
+1. in Angelegenheiten der Anwärterbefugnis, der Fahrlehrerlaubnis, der Ausbildungsfahrlehrerlaubnis und der Seminarerlaubnis die nach Landesrecht zuständige Behörde des Wohnsitzes des Fahrlehreranwärters oder des Erlaubnisinhabers, in Ermangelung eines Wohnsitzes die des Aufenthaltsortes, in Ermangelung eines Wohnsitzes und eines Aufenthaltsortes die des geplanten Beschäftigungsortes oder im Fall des § 3 Absatz 1 Satz 2 die des Ortes, an dem erstmals Fahrschüler ausgebildet werden sollen; die Zuständigkeit geht auf die nach Landesrecht zuständige Behörde des Beschäftigungsortes über, sobald der Inhaber der Fahrlehrerlaubnis die Tätigkeit als Fahrlehrer aufnimmt,
 
-2.
+2. in Angelegenheiten der Fahrschulerlaubnis die nach Landesrecht zuständige Behörde des Sitzes der Fahrschule oder unter den Voraussetzungen des § 21 Satz 2 in Verbindung mit § 3 Absatz 1 Satz 2 die des Ortes, an dem erstmals Fahrschüler selbstständig ausgebildet werden sollen oder ausgebildet werden,
 
-3.
+3. in Angelegenheiten der Kooperationen die nach Landesrecht zuständige Behörde des Sitzes der Auftrag gebenden Fahrschule,
 
-4.
+4. in Angelegenheiten der Zweigstellen die nach Landesrecht zuständige Behörde des Sitzes der Zweigstelle,
 
-5.
+5. in Angelegenheiten der Fahrlehrerausbildungsstätten die nach Landesrecht zuständige Behörde des Sitzes der Ausbildungsstätte.
 
 ### § 51 — Überwachung
 
@@ -952,43 +866,41 @@ Das Fahreignungsseminar, die Vorschriften hierzu und der Vollzug einschließlich
 
 (2) Die Überwachung umfasst
 
-1.
+1. vorbehaltlich der Nummer 2 die Überwachung der Einhaltung fahrlehrerrechtlicher Vorschriften insbesondere die Einhaltung der Ausstattungsstandards und der Aufzeichnungspflichten und
 
-2.
+2. die Beurteilung der fachlichen und pädagogischen Qualität der Fahrschulausbildung, der Seminare und Lehrgänge.
 
 (3) Die nach Landesrecht zuständige Behörde soll dazu mindestens alle zwei Jahre vor Ort insbesondere prüfen, ob
 
-1.
+1. die Ausbildung, die Aufbauseminare nach § 2a Absatz 2 Satz 1 Nummer 1 des Straßenverkehrsgesetzes, die verkehrspädagogische Teilmaßnahme der Fahreignungsseminare nach § 4a Absatz 2 Nummer 1 des Straßenverkehrsgesetzes, die Einweisungsseminare nach § 16 Absatz 1 Satz 2 Nummer 2, die Einweisungslehrgänge nach § 45 Absatz 2 Satz 1 Nummer 4 und § 46 Absatz 2 Satz 1 Nummer 4, der Einführungslehrgang nach § 47 Absatz 1 Satz 1 Nummer 5 und die Fortbildungslehrgänge nach § 53 Absatz 1, 2 und 3 ordnungsgemäß durchgeführt werden,
 
-2.
+2. die Unterrichtsräume, Lehrmittel und Lehrfahrzeuge zur Verfügung stehen und den gesetzlichen Vorschriften entsprechen und
 
-3.
+3. die sonstigen Pflichten auf Grund dieses Gesetzes und der auf ihm beruhenden Rechtsverordnungen erfüllt werden.
 
-(4) Die mit der Prüfung beauftragten Personen sind befugt, Der nach Satz 1 Verpflichtete hat die Maßnahmen nach Satz 1 Nummer 1 bis 4 zu dulden, die in der Überwachung tätigen Personen bei der Erfüllung ihrer Aufgabe zu unterstützen. Der nach Satz 1 Verpflichtete hat den in der Überwachung tätigen Personen auf Verlangen unverzüglich die in Satz 1 Nummer 5 genannten Auskünfte zu erteilen. Der nach Satz 1 Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
+(4) Die mit der Prüfung beauftragten Personen sind befugt,
 
-1.
+1. während der üblichen Geschäftszeiten Grundstücke und Geschäftsräume des Erlaubnisinhabers zu betreten,
 
-2.
+2. dort Prüfungen und Besichtigungen vorzunehmen,
 
-3.
+3. dem Unterricht, den Aufbauseminaren nach § 2a Absatz 2 Satz 1 Nummer 1 des Straßenverkehrsgesetzes, den verkehrspädagogischen Teilmaßnahmen der Fahreignungsseminare nach § 4a Absatz 2 Nummer 1 des Straßenverkehrsgesetzes, den Einweisungslehrgängen nach den § 45 Absatz 2 Satz 1 Nummer 4 und § 46 Absatz 2 Satz 1 Nummer 4 und dem Einführungslehrgang nach § 47 Absatz 1 Satz 1 Nummer 5 und den Fortbildungslehrgängen nach § 53 Absatz 1, 2 und 3 beizuwohnen und
 
-4.
+4. in die vorgeschriebenen Aufzeichnungen Einsicht zu nehmen, Ablichtungen zu fertigen und diese sicherzustellen,
 
-5.
+5. von natürlichen und juristischen Personen und sonstigen Personenvereinigungen alle erforderlichen Auskünfte zu verlangen.
 
 (5) Die in Absatz 3 Satz 1 genannte Frist kann von der nach Landesrecht zuständigen Behörde auf vier Jahre verlängert werden, wenn in zwei aufeinanderfolgenden Überwachungen keine oder nur geringfügige Mängel festgestellt worden sind.
 
-(6) Erhält die Behörde, welche eine Fahrlehrerlaubnis nach § 1 oder eine Fahrschulerlaubnis nach § 17 erteilt hat, von einer öffentlichen Stelle eines anderen Mitgliedstaats der Europäischen Union, eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz, in dem der Inhaber der jeweiligen Erlaubnis die Fahrlehrertätigkeit ausübt, Mitteilung über eine Tatsache, auf Grund derer eine Rücknahme oder ein Widerruf der Erlaubnis in Betracht kommt, so prüft sie die Richtigkeit der übermittelten Tatsache, befindet über Art und Ausmaß der nach diesem Gesetz oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung durchzuführenden Maßnahmen und unterrichtet die öffentliche Stelle, die die Tatsache übermittelt hat, über die Maßnahmen, die sie oder eine andere inländische Behörde auf Grund der übermittelten Tatsache trifft. Die Daten über die von der inländischen Behörde getroffenen Maßnahmen sind mit der Maßgabe zu übermitteln, dass sie nur verwendet werden dürfen, soweit dies erforderlich ist Die Übermittlung unterbleibt, soweit die betroffene Person ein schutzwürdiges Interesse an dem Ausschluss der Übermittlung der Daten hat, insbesondere wenn im Empfängerstaat ein angemessenes Datenschutzniveau nicht gewährleistet ist.
+(6) Erhält die Behörde, welche eine Fahrlehrerlaubnis nach § 1 oder eine Fahrschulerlaubnis nach § 17 erteilt hat, von einer öffentlichen Stelle eines anderen Mitgliedstaats der Europäischen Union, eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz, in dem der Inhaber der jeweiligen Erlaubnis die Fahrlehrertätigkeit ausübt, Mitteilung über eine Tatsache, auf Grund derer eine Rücknahme oder ein Widerruf der Erlaubnis in Betracht kommt, so prüft sie die Richtigkeit der übermittelten Tatsache, befindet über Art und Ausmaß der nach diesem Gesetz oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung durchzuführenden Maßnahmen und unterrichtet die öffentliche Stelle, die die Tatsache übermittelt hat, über die Maßnahmen, die sie oder eine andere inländische Behörde auf Grund der übermittelten Tatsache trifft. Die Daten über die von der inländischen Behörde getroffenen Maßnahmen sind mit der Maßgabe zu übermitteln, dass sie nur verwendet werden dürfen, soweit dies erforderlich ist
 
-1.
+1. für Verwaltungsmaßnahmen auf dem Gebiet des Fahrlehrerrechts,
 
-2.
+2. zur Verfolgung von Zuwiderhandlungen gegen Rechtsvorschriften auf dem Gebiet des Fahrlehrerrechts oder
 
-3.
+3. zur Verfolgung von Straftaten, die im Zusammenhang mit der Tätigkeit als Fahrlehrer stehen.
 
 (7) Die nach Landesrecht zuständigen Behörden können von der wiederkehrenden Überwachung nach Absatz 3 absehen, wenn die in Absatz 1 Satz 1 genannten Einrichtungen oder Personen sich einem von der nach Landesrecht zuständigen Behörde genehmigten Qualitätssicherungssystem angeschlossen haben. Die Befugnis der nach Landesrecht zuständigen Behörde zur Überwachung im Sinne des Absatzes 2 bleibt unberührt.
-
-> (+++ § 51 Abs. 1 Satz 2: Zur Anwendung vgl. § 22 Abs. 3 +++) (+++ § 51 Abs. 1 Satz 2: Zur Anwendung vgl. § 23 Abs. 5 +++) (+++ § 51 Abs. 1 Satz 2: Zur Anwendung vgl. § 24 Abs. 6 +++) (+++ § 51 Abs. 1 Satz 2: Zur Anwendung vgl. § 38 Abs. 3 +++)
 
 ### § 52 — Mitteilung über Eignungs- und Zuverlässigkeitsmängel
 
@@ -998,17 +910,17 @@ Die Polizei, bei Straftaten die Staatsanwaltschaft, hat den nach Landesrecht zus
 
 (1) Jeder Fahrlehrer hat nach Maßgabe der Sätze 2 und 3 alle vier Jahre an einem jeweils dreitägigen Fortbildungslehrgang teilzunehmen. Die Lehrgänge sind an aufeinanderfolgenden Tagen durchzuführen. Hiervon kann der Fahrlehrer abweichen; die Dauer der Fortbildung beträgt dann vier Tage.
 
-(2) Inhaber haben ferner alle zwei Jahre an jeweils einer eintägigen Fortbildung für die jeweilige Erlaubnis teilzunehmen, in der Inhalte und Methoden der Durchführung für das jeweilige Seminar vermittelt werden.
+(2) Inhaber
 
-1.
+1. einer Seminarerlaubnis Aufbauseminar und
 
-2.
+2. einer Seminarerlaubnis Verkehrspädagogik
 
 (3) Ausbildungsfahrlehrer nach § 16 haben außerdem alle vier Jahre an einer eintägigen Fortbildung teilzunehmen.
 
 (4) In den Fällen der Absätze 1 bis 3 beginnt die Frist mit Ablauf des Jahres, in dem die jeweilige Erlaubnis erteilt wurde. Die Nachweise sind spätestens innerhalb von zwei Wochen nach Ablauf der jeweiligen Fortbildungsfrist der nach Landesrecht zuständigen Behörde vorzulegen. Die Frist für die nächste Fortbildung beginnt mit dem Ablauf der letzten Fortbildungsfrist.
 
-(5) Die Fortbildungspflicht nach Absatz 1 Satz 3 zweiter Halbsatz verringert sich, wenn der Fahrlehrer innerhalb der Frist nach Absatz 1 seine Fortbildungspflicht nach den Absätzen 2 und 3 oder nach einer auf Grund des § 68 erlassenen Rechtsverordnung erfüllt hat, um jeweils einen Tag auf bis zu einen Tag.
+(5) Die Fortbildungspflicht nach Absatz 1 Satz 3 zweiter Halbsatz verringert sich, wenn der Fahrlehrer innerhalb der Frist nach Absatz 1 seine Fortbildungspflicht nach den Absätzen 2 und 3 oder nach einer auf Grund des § 68 erlassenen Rechtsverordnung erfüllt hat, um jeweils einen Tag auf bis zu einen Tag.
 
 (6) Bei Lehrgängen nach Absatz 1 darf die Zahl der Teilnehmer 36, bei Lehrgängen nach Absatz 2 und 3 darf die Zahl der Teilnehmer 16 nicht überschreiten.
 
@@ -1016,65 +928,57 @@ Die Polizei, bei Straftaten die Staatsanwaltschaft, hat den nach Landesrecht zus
 
 (8) Die tägliche Dauer beträgt acht Unterrichtseinheiten zu 45 Minuten.
 
-(9) Inhaber einer Fahrlehrerlaubnis, die nicht mehr von ihrer Fahrlehrerlaubnis Gebrauch machen oder deren Fahrerlaubnis nach § 13 Absatz 2 ruht, haben eine Fortbildung nach Absatz 1 abzuschließen, wenn eine auf der Fahrlehrerlaubnis beruhende Tätigkeit wieder aufgenommen wird und zu diesem Zeitpunkt die Vierjahresfrist abgelaufen ist. Sind sie zugleich Inhaber einer Erlaubnis nach § 16 Absatz 1, § 45 Absatz 1 oder § 46 Absatz 1, haben sie zusätzlich jeweils eine Fortbildung nach den Absätzen 2 oder 3 abzuschließen, wenn eine entsprechende Tätigkeit wieder aufgenommen wird und zu diesem Zeitpunkt abgelaufen ist. Satz 1 gilt bei der Neuerteilung der Fahrlehrerlaubnis nach § 15 entsprechend.
+(9) Inhaber einer Fahrlehrerlaubnis, die nicht mehr von ihrer Fahrlehrerlaubnis Gebrauch machen oder deren Fahrerlaubnis nach § 13 Absatz 2 ruht, haben eine Fortbildung nach Absatz 1 abzuschließen, wenn eine auf der Fahrlehrerlaubnis beruhende Tätigkeit wieder aufgenommen wird und zu diesem Zeitpunkt die Vierjahresfrist abgelaufen ist. Sind sie zugleich Inhaber einer Erlaubnis nach § 16 Absatz 1, § 45 Absatz 1 oder § 46 Absatz 1, haben sie zusätzlich jeweils eine Fortbildung nach den Absätzen 2 oder 3 abzuschließen, wenn eine entsprechende Tätigkeit wieder aufgenommen wird und zu diesem Zeitpunkt
 
-1.
+1. im Fall des Absatzes 2 die Zweijahresfrist,
 
-2.
+2. im Fall des Absatzes 3 die Vierjahresfrist
 
 (10) Der Träger der Lehrgänge nach Absatz 1 bis 3 bedarf einer Anerkennung durch die nach Landesrecht zuständige Behörde.
 
 ### § 54 — Ausnahmen
 
-(1) Die nach Landesrecht zuständigen Behörden können Ausnahmen genehmigen Von den auf Grund des § 68 Absatz 1 Nummer 14 erlassenen Rechtsverordnungen können Ausnahmen von den Anforderungen an die Unterrichtsräume, die Lehrmittel und die Lehrfahrzeuge genehmigt werden. Die Ausnahmen nach Satz 1 oder Satz 2 können nur genehmigt werden, wenn Gründe der Verkehrssicherheit nicht entgegenstehen.
+(1) Die nach Landesrecht zuständigen Behörden können Ausnahmen genehmigen
 
-1.
+1. von folgenden Voraussetzungen für die Erteilung einer Fahrlehrerlaubnis a)Mindestalter nach § 2 Absatz 1 Satz 1 Nummer 1,b)Eignung nach § 2 Absatz 1 Satz 1 Nummer 2,c)Bildungsabschluss nach § 2 Absatz 1 Satz 1 Nummer 5,d)Ausbildung zum Fahrlehrer nach § 2 Absatz 1 Satz 1 Nummer 8, Mindestalter nach § 2 Absatz 1 Satz 1 Nummer 1, Eignung nach § 2 Absatz 1 Satz 1 Nummer 2, Bildungsabschluss nach § 2 Absatz 1 Satz 1 Nummer 5, Ausbildung zum Fahrlehrer nach § 2 Absatz 1 Satz 1 Nummer 8,
 
-a)
+2. von der Dauer der Ausbildung nach § 7 Absatz 3,
 
-b)
+3. von der Eignung nach § 11 Absatz 1,
 
-c)
+4. vom Erlöschen der Anwärterbefugnis nach § 9 Absatz 1 Satz 5,
 
-d)
+4a. von der Prüfung nach § 15 Absatz 2 Satz 2,
 
-2.
+5. von den Voraussetzungen für die Tätigkeit als Ausbildungsfahrlehrer nach § 16 Absatz 1,
 
-3.
+6. von den Voraussetzungen für die Erteilung einer Fahrschulerlaubnis nach § 18 Absatz 1 Satz 1 Nummer 4 und 5,
 
-4.
+7. von Voraussetzungen für die Erteilung einer Fahrschulerlaubnis an eine juristische Person nach § 18 Absatz 2,
 
-4a.
+8. von den Vorgaben für die Bestellung einer verantwortlichen Leitung nach dem Tod des Inhabers der Fahrschule nach § 28 Absatz 2,
 
-5.
+9. von den Voraussetzungen für den Betrieb oder die Leitung einer Ausbildungsfahrschule nach § 35 Absatz 1 Buchstabe a oder b,
 
-6.
+10. von den Voraussetzungen für die Erteilung der Seminarerlaubnis Aufbauseminare nach § 45 Absatz 2 Satz 1 Nummer 2 und 3,
 
-7.
+11. von den Voraussetzungen für die Erteilung der Seminarerlaubnis Verkehrspädagogik nach § 46 Absatz 2 Satz 1 Nummer 2 bis 4,
 
-8.
+12. von den Voraussetzungen für die Durchführung von Einweisungslehrgängen nach § 47 Absatz 1 Satz 2 Nummer 2 bis 4 sowie
 
-9.
-
-10.
-
-11.
-
-12.
-
-13.
+13. von den Vorschriften der auf § 68 Absatz 1 Nummer 13 beruhenden Rechtsverordnung zu Einzelheiten der Voraussetzungen der Fahrschulerlaubnis und des Betriebs einer Fahrschule.
 
 (2) In den Fällen des Absatzes 1 kann eine Ausnahme genehmigt werden von
 
-1.
+1. § 2 Absatz 1 Satz 1 Nummer 1, wenn der Bewerber die erforderliche Eignung für den Fahrlehrerberuf durch Vorlage eines medizinisch-psychologischen Gutachtens nachgewiesen hat,
 
-2.
+2. (weggefallen)
 
-3.
+3. § 2 Absatz 1 Satz 1 Nummer 8, wenn der Bewerber eine andere Ausbildung oder eine Berufstätigkeit von ausreichender Dauer nachweist, die ihm den Erwerb der für einen Fahrlehrer notwendigen Kenntnisse und Fertigkeiten ganz oder überwiegend ermöglicht haben kann,
 
-4.
+4. § 18 Absatz 1 Nummer 4, wenn der Bewerber eine andere Tätigkeit von ausreichender Dauer nachweist, die ihm den Erwerb der für eine Fahrschulleitung nötigen Fertigkeiten und Erfahrungen ermöglicht haben kann,
 
-5.
+5. § 18 Absatz 1 Nummer 5, wenn der Bewerber nachweist, dass er die erforderlichen Kenntnisse auf andere Weise erworben hat.
 
 (3) Abweichend von § 18 Absatz 1 Satz 1 Nummer 3 kann die nach Landesrecht zuständige Behörde dem Inhaber der Fahrschulerlaubnis, der die Fahrerlaubnis der Klasse CE oder DE nicht mehr besitzt, weiterhin die Leitung der Fahrschule gestatten, wenn die körperliche und geistige Eignung im Sinne des § 2 Absatz 1 Satz 1 Nummer 2 vorliegt. Dies gilt auch bei einer Fahrschulerlaubnis einer rechtsfähigen Personengesellschaft, wenn die zur Vertretung berechtigte Person keine Fahrerlaubnis der Klassen CE oder DE mehr besitzt und wenn die körperliche und geistige Eignung im Sinne des § 2 Absatz 1 Satz 1 Nummer 2 vorliegt.
 
@@ -1094,57 +998,57 @@ d)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig:
 
-1.
+1. entgegen § 1 Absatz 1 Satz 1 einen Fahrschüler ausbildet,
 
-2.
+2. entgegen § 1 Absatz 4 Satz 1 von einer Fahrlehrerlaubnis Gebrauch macht,
 
-3.
+3. entgegen § 1 Absatz 4 Satz 2 von einer Anwärterbefugnis Gebrauch macht,
 
-4.
+4. entgegen § 6 Satz 1 oder § 25 Satz 1 eine Meldung nicht, nicht richtig, nicht vollständig, oder nicht rechtzeitig abgibt,
 
-5.
+5. entgegen § 10 Absatz 1 Satz 2 eine dort genannte Bescheinigung nicht mitführt oder nicht aushändigt,
 
-6.
+6. entgegen § 10 Absatz 2 Satz 2, § 10 Absatz 3 Satz 2 oder § 26 Absatz 3 Satz 2 eine dort genannte Bescheinigung nicht oder nicht rechtzeitig vorlegt,
 
-7.
+7. entgegen § 13 Absatz 5 oder § 14 Absatz 4 eine dort genannte Bescheinigung nicht oder nicht rechtzeitig zurückgibt,
 
-7a.
+7a. ohne Erlaubnis nach § 16 Absatz 1 Satz 1 einen Fahrlehreranwärter ausbildet,
 
-7b.
+7b. einer vollziehbaren Auflage nach § 16 Absatz 4 Satz 2 zuwiderhandelt,
 
-8.
+8. entgegen § 17 Absatz 1 Satz 1 einen Fahrschüler ausbildet oder ausbilden lässt,
 
-9.
+9. entgegen § 17 Absatz 1 Satz 2 oder § 33 Absatz 1 Satz 2 von einer Fahrschulerlaubnis Gebrauch macht,
 
-10.
+10. entgegen § 27 Absatz 1 eine Zweigstelle betreibt,
 
-11.
+11. entgegen § 28 Absatz 2, auch in Verbindung mit § 27 Absatz 3 Nummer 4, von einer Fahrschulerlaubnis Gebrauch macht,
 
-12.
+12. entgegen § 30 Satz 1 oder § 41 Satz 1 eine Anzeige nicht, nicht richtig oder nicht rechtzeitig erstattet,
 
-13.
+13. entgegen § 31 Absatz 1 Satz 1, auch in Verbindung mit § 27 Absatz 3 Nummer 4, oder § 42 Absatz 1 Satz 1, die dort genannten Aufzeichnungen nicht oder nicht ordnungsgemäß führt,
 
-14.
+14. entgegen § 31 Absatz 2 Satz 1 oder § 42 Absatz 2 Satz 1 die dort genannten Aufzeichnungen nicht, nicht fristgemäß oder nicht ordnungsgemäß aufbewahrt oder nicht oder nicht rechtzeitig vorlegt,
 
-15.
+15. entgegen § 32 Absatz 1 Satz 2 Entgelte oder Geschäftsbedingungen nicht oder nicht in der vorgeschriebenen Weise bekannt gibt,
 
-16.
+16. entgegen § 35 Absatz 1 einen Fahrlehreranwärter ausbildet,
 
-17.
+17. entgegen § 36 Absatz 1 Satz 1 einen Fahrlehreranwärter ausbildet oder ausbilden lässt,
 
-18.
+18. entgegen § 40 Absatz 2 Satz 1 Unterricht anbietet oder durchführt,
 
-19.
+19. entgegen § 40 Absatz 2 Satz 2 einen Abdruck des Ausbildungsplans nicht oder nicht rechtzeitig aushändigt,
 
-20.
+20. entgegen § 51 Absatz 4 Satz 2 eine dort bezeichnete Maßnahme der Überwachung nicht duldet oder eine in der Überwachung tätige Person nicht unterstützt,
 
-21.
+21. entgegen § 51 Absatz 4 Satz 3 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt,
 
-22.
+22. entgegen § 53 Absatz 1 Satz 1, Absatz 2 oder Absatz 3 nicht oder nicht rechtzeitig an einem dort bezeichneten Fortbildungslehrgang teilnimmt,
 
-23.
+23. einer Rechtsverordnung nach § 68 Absatz 1 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist, oder
 
-24.
+24. entgegen § 69 Absatz 8 und 11 eine dort genannte Bescheinigung nicht oder nicht rechtzeitig zurückgibt.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1, 2, 3, 8, 9, 10, 11, 16 und 17 mit einer Geldbuße bis fünftausend Euro, in den übrigen Fällen mit einer Geldbuße bis eintausend Euro geahndet werden.
 
@@ -1156,71 +1060,71 @@ d)
 
 (2) Das Kraftfahrt-Bundesamt vermerkt
 
-1.
+1. im Zentralen Fahrerlaubnisregister, ob der Inhaber einer Fahrerlaubnis auch Fahrlehrer oder Fahrlehreranwärter ist,
 
-2.
+2. im Fahreignungsregister die in § 59 Absatz 2 näher bestimmten Maßnahmen, Entscheidungen und Erklärungen auf dem Gebiet des Fahrlehrerrechts.
 
 ### § 58 — Zweck der Registrierung
 
 Die Eintragungen erfolgen:
 
-1.
+1. zur Feststellung über Bestand, Art und Umfang der Erlaubnisse und der amtlichen Anerkennungen nach diesem Gesetz, und
 
-2.
+2. zur Beurteilung der Eignung und Zuverlässigkeit der einzutragenden Personen nach diesem Gesetz.
 
 ### § 59 — Inhalt der Registrierung
 
 (1) Im Zentralen Fahrerlaubnisregister nach § 48 des Straßenverkehrsgesetzes werden bei den dort eingetragenen betreffenden Inhabern von Fahrerlaubnissen zusätzlich die Erteilung einer Fahrlehrerlaubnis oder einer Anwärterbefugnis, deren Datum und Befristung sowie die nach Landesrecht zuständige Behörde gespeichert.
 
-(2) Im Fahreignungsregister nach § 28 des Straßenverkehrsgesetzes werden gespeichert Unberührt bleiben die Eintragungen nach § 28 Absatz 3 des Straßenverkehrsgesetzes.
+(2) Im Fahreignungsregister nach § 28 des Straßenverkehrsgesetzes werden gespeichert
 
-1.
+1. unanfechtbare Versagungen einer Anwärterbefugnis oder einer Fahrlehrerlaubnis wegen nicht bestandener Prüfung,
 
-2.
+2. unanfechtbare Versagung einer Anwärterbefugnis oder einer Fahrlehrerlaubnis wegen geistiger oder körperlicher Mängel,
 
-3.
+3. unanfechtbare oder sofort vollziehbare Widerrufe und Rücknahmen einer Anwärterbefugnis oder Fahrlehrerlaubnis,
 
-4.
+4. das Ruhen oder Erlöschen der Anwärterbefugnis oder der Fahrlehrerlaubnis,
 
-5.
+5. Verzicht auf eine Anwärterbefugnis oder eine Fahrlehrerlaubnis,
 
-6.
+6. Rücknahmen eines Antrags auf Erteilung einer Anwärterbefugnis oder einer Fahrlehrerlaubnis nach nicht bestandener Prüfung,
 
-7.
+7. rechtskräftige Entscheidungen wegen einer Ordnungswidrigkeit nach § 56 Absatz 1, wenn gegen die betroffene Person eine Geldbuße von mindestens einhundertfünfzig Euro festgesetzt worden ist,
 
-8.
+8. unanfechtbare Versagungen oder sofort vollziehbare Widerrufe oder Rücknahmen der amtlichen Anerkennung einer Fahrlehrerausbildungsstätte sowie Verzichte auf die amtliche Anerkennung.
 
-(3) In den örtlichen Fahrlehrerregistern dürfen, soweit die örtliche Zuständigkeit nach § 50 gegeben ist, gespeichert werden Eine Fahrlehrerlaubnis zur vorübergehenden und gelegentlichen Fahrschülerausbildung nach § 3 Absatz 1 Satz 2 wird in den Fällen des Satzes 1 Nummer 1 mit einem Zusatz nach § 3 Absatz 1 Satz 2, eine Fahrschulerlaubnis zur vorübergehenden und gelegentlichen Fahrschülerausbildung nach § 21 Satz 2 in Verbindung mit § 3 Absatz 1 Satz 2 in den Fällen des Satzes 1 Nummer 3 mit einem Zusatz nach § 21 Satz 2 in Verbindung mit § 3 Absatz 1 Satz 2 in den örtlichen Fahrlehrerregistern gespeichert.
+(3) In den örtlichen Fahrlehrerregistern dürfen, soweit die örtliche Zuständigkeit nach § 50 gegeben ist, gespeichert werden
 
-1.
+1. Name, Familiennamen, Geburtsnamen, sonstige frühere Namen, Vornamen, Ordens- oder Künstlername, Doktorgrad, Geschlecht, Tag und Ort der Geburt,
 
-1a.
+1a. bei juristischen Personen: Name und Anschrift der juristischen Person sowie alle vertretungsberechtigten Personen mit Namen, Vornamen, Tag und Ort der Geburt,
 
-1b.
+1b. bei rechtsfähigen Personengesellschaften: Name und Anschrift der rechtsfähigen Personengesellschaft sowie alle Gesellschafter mit Namen, Vornamen, Tag und Ort der Geburt sowie Angaben zur Vertretungsbefugnis,
 
-1c.
+1c. bei Behörden: Name oder Bezeichnung und Anschrift der Behörde sowie die jeweilige für die verantwortliche Leitung bestellte Person mit Namen, Vornamen, Tag und Ort der Geburt,
 
-2.
+2. Anwärterbefugnis und Fahrlehrerlaubnisse,
 
-3.
+3. Seminarerlaubnisse,
 
-4.
+4. Fahrschulerlaubnisse und Zugehörigkeit zu einer Gemeinschaftsfahrschule,
 
-5.
+5. Zugehörigkeit zu einer Kooperation,
 
-6.
+6. Zweigstellenerlaubnisse,
 
-7.
+7. Beschäftigungsverhältnisse von Fahrlehrern,
 
-8.
+8. Ausbildungsverhältnis von Fahrlehreranwärtern,
 
-9.
+9. Ausbildungsfahrlehrerlaubnis,
 
-10.
+10. Betrieb als Ausbildungsfahrschule,
 
-11.
+11. amtliche Anerkennungen von Fahrlehrerausbildungsstätten, deren Inhaber und die für die verantwortliche Leitung der Fahrlehrerausbildungsstätte bestellte Person,
 
-12.
+12. die nach § 62 übermittelten Daten.
 
 ### § 60 — Übermittlung der Daten zur Registrierung
 
@@ -1230,13 +1134,13 @@ Die Eintragungen erfolgen:
 
 ### § 61 — Übermittlung der Daten aus den Registern
 
-Die in den Registern nach § 59 gespeicherten Daten dürfen den Stellen, die zuständig sind, übermittelt werden, soweit dies für ihre Aufgabenerfüllung zu den in § 58 genannten Zwecken jeweils erforderlich ist.
+Die in den Registern nach § 59 gespeicherten Daten dürfen den Stellen, die
 
-1.
+1. für die Verfolgung von Straftaten, zur Vollstreckung oder zum Vollzug von Strafen, soweit ein Zusammenhang mit der Tätigkeit als Fahrlehrer, Fahrlehreranwärter, Inhaber einer Fahrschule oder einer Fahrlehrerausbildungsstätte oder als verantwortliche Leitung eines Ausbildungsbetriebes oder Fahrlehrerausbildungsstätte besteht,
 
-2.
+2. für die Verfolgung von Ordnungswidrigkeiten nach diesem Gesetz sowie die Vollstreckung von Bußgeldbescheiden und ihren Nebenfolgen oder
 
-3.
+3. für Verwaltungsmaßnahmen auf Grund dieses Gesetzes oder nach den auf Grund dieses Gesetzes erlassenen Rechtsvorschriften
 
 ### § 62 — Abgleich der Daten mit dem Fahreignungsregister
 
@@ -1246,13 +1150,13 @@ Die in den Registern nach § 59 gespeicherten Daten dürfen den Stellen, die zus
 
 ### § 63 — Übermittlung von Daten an öffentliche Stellen außerhalb des Geltungsbereichs dieses Gesetzes
 
-(1) Die nach § 62 Absatz 1 in Verbindung mit § 59 Absatz 2 Nummer 1 bis 5 und 7 dieses Gesetzes oder in Verbindung mit § 28 Absatz 3 Nummer 1 bis 3 und 6 bis 9 des Straßenverkehrsgesetzes ermittelten Daten aus dem Fahreignungsregister, die Fahrlehrer oder Fahrlehreranwärter betreffen, übermittelt das Kraftfahrt-Bundesamt an die zuständigen öffentlichen Stellen eines anderen Mitgliedstaats der Europäischen Union, eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz, wenn die betroffene Person den amtlichen Nachweis über seine Berufsqualifikation im Sinne von Artikel 3 Absatz 1 Buchstabe b der Richtlinie 2005/36/EG dort erworben hat und die Tätigkeit des Fahrlehrers im Inland ausübt oder zuletzt ausgeübt hat. Die Daten sind mit der Maßgabe zu übermitteln, dass sie nur verwendet werden dürfen, soweit dies erforderlich ist Die Übermittlung unterbleibt, soweit die betroffene Person ein schutzwürdiges Interesse an dem Ausschluss der Übermittlung der Daten hat, insbesondere wenn im Empfängerstaat ein angemessenes Datenschutzniveau nicht gewährleistet ist.
+(1) Die nach § 62 Absatz 1 in Verbindung mit § 59 Absatz 2 Nummer 1 bis 5 und 7 dieses Gesetzes oder in Verbindung mit § 28 Absatz 3 Nummer 1 bis 3 und 6 bis 9 des Straßenverkehrsgesetzes ermittelten Daten aus dem Fahreignungsregister, die Fahrlehrer oder Fahrlehreranwärter betreffen, übermittelt das Kraftfahrt-Bundesamt an die zuständigen öffentlichen Stellen eines anderen Mitgliedstaats der Europäischen Union, eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz, wenn die betroffene Person den amtlichen Nachweis über seine Berufsqualifikation im Sinne von Artikel 3 Absatz 1 Buchstabe b der Richtlinie 2005/36/EG dort erworben hat und die Tätigkeit des Fahrlehrers im Inland ausübt oder zuletzt ausgeübt hat. Die Daten sind mit der Maßgabe zu übermitteln, dass sie nur verwendet werden dürfen, soweit dies erforderlich ist
 
-1.
+1. für Verwaltungsmaßnahmen auf dem Gebiet des Fahrlehrerrechts,
 
-2.
+2. zur Verfolgung von Zuwiderhandlungen gegen Rechtsvorschriften auf dem Gebiet des Fahrlehrerrechts oder
 
-3.
+3. zur Verfolgung von Straftaten, die im Zusammenhang mit der Tätigkeit als Fahrlehrer stehen.
 
 (2) Im Übrigen gilt für die Übermittlung der nach § 59 gespeicherten Daten im Rahmen der Zwecke nach § 58 an ausländische öffentliche Stellen, die für Verwaltungsmaßnahmen auf dem Gebiet des Fahrlehrerrechts zuständig sind, § 55 des Straßenverkehrsgesetzes entsprechend.
 
@@ -1260,11 +1164,11 @@ Die in den Registern nach § 59 gespeicherten Daten dürfen den Stellen, die zus
 
 ### § 64 — Weiterverarbeitung der Daten für wissenschaftliche und statistische Zwecke
 
-Es gelten für die Weiterverarbeitung der nach § 59 gespeicherten Daten des Straßenverkehrsgesetzes entsprechend.
+Es gelten für die Weiterverarbeitung der nach § 59 gespeicherten Daten
 
-1.
+1. zu Zwecken der wissenschaftlichen Forschung § 38 sowie
 
-2.
+2. zu statistischen Zwecken § 38a
 
 ### § 65 — Datenvergleich zur Beseitigung von Fehlern
 
@@ -1280,61 +1184,61 @@ Der Empfänger darf die übermittelten Daten nur zu dem Zweck weiterverarbeiten,
 
 ### § 67 — Löschung der Daten
 
-Die auf Grund des § 59 gespeicherten Daten sind zu löschen. Für die Löschung der nach § 62 übermittelten Daten gilt § 29 des Straßenverkehrsgesetzes entsprechend.
+Die auf Grund des § 59 gespeicherten Daten sind
 
-1.
+1. zehn Jahre nach Eintritt der Unanfechtbarkeit oder sofortigen Vollziehbarkeit bei Entscheidungen nach § 59 Absatz 2 Nummer 1 bis 3 und 8,
 
-2.
+2. fünf Jahre nach Eintritt der Rechtskraft bei Entscheidungen nach § 59 Absatz 2 Nummer 7,
 
-3.
+3. fünf Jahre nach Erlöschen oder Beendigung der Erlaubnisse, Anerkennungen, Rechtsverhältnisse und der Aktivitäten nach § 59 Absatz 2 Nummer 4 und Absatz 3 Nummer 1 bis 11 oder nach Abgabe der Erklärungen nach § 59 Absatz 2 Nummer 5 und 6,
 
-4.
+4. sonst nach der amtlichen Mitteilung über den Tod des Eingetragenen
 
 ## Abschnitt 8: Ermächtigungsgrundlagen, Übergangs- und Schlussvorschriften
 
 ### § 68 — Rechtsverordnungen
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu regeln.
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
-1.
+1. nähere Anforderungen an die geistige und körperliche Eignung der Bewerber nach § 2 Absatz 1 Satz 1 Nummer 2 und der Inhaber nach § 11 Absatz 1 bis 3 in Verbindung mit § 2 Absatz 1 Satz 1 Nummer 2 und nähere Voraussetzungen für das Erfordernis eines Sprachtests zur Überprüfung der Kenntnisse nach § 2 Absatz 1 Satz 1 Nummer 10,
 
-2.
+2. nähere Anforderungen an die inhaltliche und zeitliche Gestaltung des Anpassungslehrgangs sowie an die Durchführung der Eignungsprüfung nach § 3 Absatz 2 und 3,
 
-3.
+3. die Dauer und Ausgestaltung der Ausbildung nach § 7,
 
-4.
+4. Einzelheiten über die Fahrlehrerprüfung, insbesondere die Bildung der Prüfungsausschüsse, die Zulassungsvoraussetzungen, Inhalt, Gliederung, Verfahren, Rücktritt, Bewertung, Entscheidung und Wiederholung,
 
-5.
+5. das Muster des Fahrlehrerscheins und des Anwärterscheins sowie das Verfahren der Aus- und Zustellung,
 
-6.
+6. die notwendigen Anforderungen an die Unterrichtsgestaltung, insbesondere an die Lehrpläne und die Unterrichtsmethoden,
 
-7.
+7. die notwendigen Anforderungen an die Gestaltung der Ausbildung für die Ausbildungsfahrlehrer, insbesondere an Inhalt und Durchführung des Einweisungsseminars nach § 16 Absatz 1 sowie die Gestaltung der Ausbildung durch die Ausbildungsfahrlehrer, insbesondere an die Lehrpläne und die Unterrichtsmethoden nach § 16 Absatz 3,
 
-7a.
+7a. die notwendigen Anforderungen an die Gestaltung, insbesondere an Inhalt und Durchführung des Lehrgangs über Fahrschulbetriebswirtschaft nach § 18 Absatz 1 Nummer 5,
 
-8.
+8. nähere Anforderungen an die Gestaltung und Ausführung einer Kooperation durch die Auftrag gebende und die Auftrag nehmende Fahrschule nach § 20,
 
-9.
+9. nähere Anforderungen an den Betrieb von Zweigstellen nach § 27,
 
-10.
+10. die Ausgestaltung des Ausbildungsnachweises und der Ausbildungsbescheinigung für Fahrschüler gemäß § 31 Absatz 1,
 
-11.
+11. die Ausgestaltung des Aushanges nach § 32,
 
-12.
+12. die notwendigen Anforderungen an Inhalt und Durchführung des Einweisungsseminars für die Leitung von Ausbildungsfahrschulen nach § 35,
 
-13.
+13. Einzelheiten der Voraussetzungen der Fahrschulerlaubnis und des Betriebs einer Fahrschule, insbesondere die Anforderungen an Unterrichtsräume, Lehrmittel und Lehrfahrzeuge,
 
-14.
+14. die nötigen Anforderungen an die für die verantwortliche Leitung des jeweiligen Betriebs bestellten Personen, die Lehrkräfte, die Unterrichtsräume, die Lehrmittel, die Lehrfahrzeuge und die Unterrichtsgestaltung, insbesondere an die Ausbildungspläne und die Unterrichtsmethoden der amtlich anerkannten Fahrlehrerausbildungsstätten,
 
-15.
+15. nähere Anforderungen an die Veranstalter von Lehrgängen nach § 45 Absatz 2 Nummer 4 und § 46 Absatz 2 Nummer 4 sowie deren inhaltliche und zeitliche Gestaltung,
 
-16.
+16. nähere Anforderungen an die inhaltliche und zeitliche Gestaltung der Lehrgänge nach § 53 und eine Aufteilung der Lehrgänge im Ausnahmefall,
 
-17.
+17. Anforderungen an die Überwachung, an das Überwachungspersonal, Maßnahmen zur Beseitigung von in der Überwachung festgestellter Mängel sowie Regeln für die Durchführung der Qualitätssicherung und Maßnahmen zur Sicherung der Qualität, insbesondere die Pflicht zu besonderen Fortbildungen,
 
-18.
+18. den näheren Inhalt einschließlich der Personendaten der nach § 59 zu speichernden Eintragungen,
 
-19.
+19. die Art und den Umfang der zu übermittelnden Daten, die Maßnahmen zur Sicherung gegen Missbrauch, die weiteren Aufzeichnungen und die Einzelheiten des Übermittlungsverfahrens
 
 (2) Rechtsverordnungen nach Absatz 1 Nummer 4 oder Nummer 14 bedürfen des Einvernehmens des Bundesministeriums für Bildung und Forschung.
 

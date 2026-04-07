@@ -12,5 +12,3 @@ Auf Grund des § 17 Absatz 2 Satz 5 des Berufsbildungsgesetzes in der Fassung de
 Die Höhe der monatlichen Mindestvergütung nach § 17 Absatz 2 Satz 1 des Berufsbildungsgesetzes beträgt, wenn die Berufsausbildung im Zeitraum vom 1. Januar 2024 bis zum 31. Dezember 2024 begonnen wird,
 
 ### Schlussformel
-
-Bundesministerium für Bildung und Forschung

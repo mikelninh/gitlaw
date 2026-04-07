@@ -15,7 +15,11 @@ Soweit ich zur Entscheidung über eine Beschwerde nach § 23 Absatz 1 der Wehrbe
 
 ### Art 2 — Besondere Zuständigkeiten
 
-Meine Entscheidungsbefugnis übertrage ich 1.dem Bundesamt für das Personalmanagement der Bundeswehr für Beschwerden gegen Maßnahmen anderer Stellen der Bundeswehr in Angelegenheiten der Besoldung,2.dem Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr für Beschwerden gegen Maßnahmen anderer Stellen der Bundeswehr in Angelegenheiten des Mietzuschusses nach § 54 des Bundesbesoldungsgesetzes sowie der Nebengebührnisse (Reisekosten, Trennungsgeld und Umzugskosten).Soweit ich aufgrund der Auflösung einer Ausgangsbehörde oder einer für die Beschwerde zuständigen Stelle zuständig bin, übertrage ich unbeschadet des Satzes 1 die Entscheidungsbefugnis für Beschwerden gegen Maßnahmen 1.einer Bundeswehrfachschule, Bundeswehrverwaltungsschule oder der Bundesakademie für Wehrverwaltung und Wehrtechnik auf das Bildungszentrum der Bundeswehr,2.eines Zentrums für Nachwuchsgewinnung auf das Bundesamt für das Personalmanagement der Bundeswehr,3.einer sonstigen Dienststelle der früheren Territorialen Wehrverwaltung in Angelegenheiten der Dienstzeit- und Beschädigtenversorgung sowie der Beihilfe auf das Bundesamt für das Personalmanagement der Bundeswehr und im Übrigen auf das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr,4.einer Dienststelle des früheren Rüstungsbereichs auf das Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr.
+Meine Entscheidungsbefugnis übertrage ich
+
+1. dem Bundesamt für das Personalmanagement der Bundeswehr für Beschwerden gegen Maßnahmen anderer Stellen der Bundeswehr in Angelegenheiten der Besoldung,
+
+2. dem Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr für Beschwerden gegen Maßnahmen anderer Stellen der Bundeswehr in Angelegenheiten des Mietzuschusses nach § 54 des Bundesbesoldungsgesetzes sowie der Nebengebührnisse (Reisekosten, Trennungsgeld und Umzugskosten).
 
 ### Art 3 — Vorbehaltsklausel
 
@@ -26,5 +30,3 @@ Das Bundesministerium der Verteidigung kann die nach Artikel 1 und 2 übertragen
 Diese Anordnung tritt am 1. Juli 2013 in Kraft. Gleichzeitig tritt die Allgemeine Anordnung über die Übertragung von Zuständigkeiten zur Entscheidung über Beschwerden nach der Wehrbeschwerdeordnung im Bereich des Bundesministers der Verteidigung vom 27. September 1973 (BGBl. I S. 1512), zuletzt geändert durch Artikel 1 der Anordnung vom 4. April 2007 (BGBl. I S. 497), außer Kraft.
 
 ### Schlussformel
-
-Der Bundesminister der Verteidigung

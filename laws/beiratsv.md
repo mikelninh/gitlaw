@@ -18,23 +18,23 @@ Bei dem Bundesministerium für Bildung und Forschung wird ein Beirat für Ausbil
 
 Dem Beirat gehören an
 
-1.
+1. vier Vertreter aus den Lehrkörpern der Ausbildungsstätten,
 
-2.
+2. fünf Vertreter aus dem Kreis der Auszubildenden,
 
-3.
+3. zwei Vertreter der Rechts-, Wirtschafts- oder Sozialwissenschaften,
 
-4.
+4. je ein Vertreter der Arbeitgeber und Arbeitnehmer,
 
-5.
+5. ein Vertreter der Elternschaft,
 
-6.
+6. vier Vertreter der Obersten Landesbehörden für Ausbildungsförderung,
 
-7.
+7. zwei Vertreter der Bundesvereinigung der kommunalen Spitzenverbände,
 
-8.
+8. ein Vertreter der Bundesagentur für Arbeit,
 
-9.
+9. ein Vertreter des Deutschen Studentenwerkes e.V..
 
 ### § 3 — Berufung und Dauer der Mitgliedschaft
 
@@ -59,5 +59,3 @@ Die Geschäfte des Beirates führt das Bundesministerium für Bildung und Forsch
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Jugend, Familie und Gesundheit

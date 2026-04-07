@@ -18,21 +18,21 @@
 
 Ein im Sinne des § 18 Absatz 12 Satz 1 des Bundesausbildungsförderungsgesetzes (Gesetz) nur geringfügiger Verstoß gegen die Zahlungs- und Mitwirkungspflichten ist anzunehmen, wenn im maßgeblichen Rückzahlungszeitraum nach § 18 Absatz 3 Satz 1 des Gesetzes
 
-1.
+1. höchstens einmal eine Kostenpauschale für die Anschriftenermittlung nach § 12 Absatz 2 Satz 1 wegen Verstoßes gegen die Mitteilungsverpflichtung bei Änderungen der Wohnanschrift und des Familiennamens zu erheben war,
 
-2.
+2. kein Bußgeld wegen Verstoßes gegen die Mitteilungsverpflichtung nach § 12 Absatz 1 Nummer 4 bei einer Änderung der nach § 18a des Gesetzes maßgeblichen Familien- und Einkommensverhältnisse bestandskräftig festgesetzt wurde und
 
-3.
+3. höchstens für die Dauer von 150 Tagen nach § 18 Absatz 2 Satz 2 und 3 des Gesetzes Zinsen wegen Überschreitung des Zahlungstermins angefallen sind.
 
 ### § 3 — Nachweise für die Freistellung von der Rückzahlungsverpflichtung
 
-(1) Die für eine Freistellung nach § 18a Absatz 1 des Gesetzes maßgebliche Höhe ihres Einkommens können Darlehensnehmende insbesondere nachweisen durch die Vorlage von Liegt im Fall von Einkommen aus selbständiger Erwerbstätigkeit kein Einkommensteuerbescheid vor, so können die Einkünfte anhand der Einnahmenüberschussrechnung nach § 4 Absatz 3 des Einkommensteuergesetzes nachgewiesen werden. Es genügt im Regelfall die Vorlage einer Kopie.
+(1) Die für eine Freistellung nach § 18a Absatz 1 des Gesetzes maßgebliche Höhe ihres Einkommens können Darlehensnehmende insbesondere nachweisen durch die Vorlage von
 
-1.
+1. Lohn- und Gehaltsbescheinigungen ihres Arbeitgebers im Fall eines Einkommens aus nichtselbständiger Erwerbstätigkeit,
 
-2.
+2. Einkommensteuerbescheiden mit ausgewiesenen Gewinneinkünften im Fall eines Einkommens aus selbständiger Erwerbstätigkeit oder
 
-3.
+3. Bescheiden über den Bezug staatlicher Transferleistungen, deren Zweckbestimmung einer Anrechnung auf den Bedarf im Sinne von § 21 Absatz 3 Satz 1 Nummer 4 des Gesetzes entgegensteht.
 
 (2) Die Nachweispflicht nach § 18a Absatz 3 Satz 3 des Gesetzes gilt nur für Freistellungszeiträume ab dem 1. September 2019.
 
@@ -50,11 +50,11 @@ Ein im Sinne des § 18 Absatz 12 Satz 1 des Bundesausbildungsförderungsgesetzes
 
 (1) Über den Antrag auf Gewährung eines Nachlasses wegen vorzeitiger Rückzahlung der verbleibenden Darlehensschuld entscheidet das Bundesverwaltungsamt nach Maßgabe der folgenden Absätze und der Anlage.
 
-(2) Die für die Höhe des Nachlasses maßgebliche verbleibende Darlehensschuld wird berücksichtigt Für die Bemessung des Nachlasses bleibt der Teil des geleisteten Zahlungsbetrags zur Ablösung der verbleibenden Darlehensschuld unberücksichtigt, der bereits nach § 1 Absatz 3 Satz 2 auf zuvor fällige Beträge angerechnet wurde. Soweit ein Teil einer Rückzahlung, die nach dem 31. März 2020 vorzeitig geleistet wurde, auf Tilgungsraten entfällt, die zu diesem Zeitpunkt lediglich wegen vorausgegangener Freistellung von der Rückzahlungsverpflichtung nach § 18a Absatz 1 des Gesetzes noch nicht fällig waren, sind diese Tilgungsraten für die Bemessung des Nachlasses nicht zu berücksichtigen.
+(2) Die für die Höhe des Nachlasses maßgebliche verbleibende Darlehensschuld wird berücksichtigt
 
-1.
+1. für Darlehen, die nach § 17 Absatz 2 Satz 1 des Gesetzes in der bis zum 31. Juli 2019 geltenden Fassung geleistet wurden, höchstens bis zu 10 000 Euro,
 
-2.
+2. für Darlehen, die nach § 17 Absatz 2 Satz 1 des Gesetzes in der ab dem 1. August 2019 geltenden Fassung geleistet wurden, höchstens bis zu 10 010 Euro.
 
 (3) Wird die gesamte verbleibende Darlehensschuld nicht in einer Summe abgelöst, so ist der Nachlass nur für die Ablösung von mindestens 500 Euro zu gewähren. Reichen vorzeitig zurückgezahlte Beträge nicht zur Ablösung der vollen verbleibenden Darlehensschuld aus, sind sie auf die zuletzt fällig werdenden Rückzahlungsraten anzurechnen. Die verbleibende Darlehensschuld verringert sich um den vorzeitig geleisteten Zahlungsbetrag sowie den im Gegenzug gewährten Nachlass nach Maßgabe des § 18 Absatz 13 des Gesetzes.
 
@@ -64,11 +64,11 @@ Der Abschluss von Vergleichen sowie die Stundung, Niederschlagung und der Erlass
 
 ### § 8 — Zahlungsrückstand
 
-(1) Nach dem Zahlungstermin werden gesondert erhoben: Mahnkosten in Höhe von 5 Euro werden auch dann erhoben, wenn ausschließlich Anschriftenermittlungskosten nach § 12 Absatz 2 oder Zinsen fällig sind, die nach § 18 Absatz 2 Satz 2 des Gesetzes oder nach § 59 Absatz 1 Nummer 1 Satz 2 der Bundeshaushaltsordnung erhoben wurden.
+(1) Nach dem Zahlungstermin werden gesondert erhoben:
 
-1.
+1. Zinsen nach § 18 Absatz 2 des Gesetzes ab dem auf den Zahlungstermin folgenden Monat, wobei einem Kalendermonat 30 Tage zugrunde zu legen sind,
 
-2.
+2. 5 Euro Mahnkosten.
 
 (2) Die Rechtsfolgen nach Absatz 1 treten unabhängig davon ein, ob dem Darlehensnehmenden ein Rückzahlungsbescheid nach § 10 zugegangen ist. Abweichend von Satz 1 werden Zinsen nach Absatz 1 Satz 1 Nummer 1 nicht erhoben, solange der Bescheid dem Darlehensnehmenden aus von ihm nicht zu vertretenden Gründen nicht zugegangen ist.
 
@@ -76,11 +76,11 @@ Der Abschluss von Vergleichen sowie die Stundung, Niederschlagung und der Erlass
 
 ### § 9 — Datenermittlung
 
-(1) Die Ämter für Ausbildungsförderung stellen nach Ablauf eines jeden Kalenderjahres bis zum 31. März dem Bundesverwaltungsamt die für die Zinsberechnung und den Darlehenseinzug erforderlichen Daten über auch für die elektronische Datenverarbeitung geeigneten, maschinell lesbaren Datenträgern zur Verfügung.
+(1) Die Ämter für Ausbildungsförderung stellen nach Ablauf eines jeden Kalenderjahres bis zum 31. März dem Bundesverwaltungsamt die für die Zinsberechnung und den Darlehenseinzug erforderlichen Daten über
 
-1.
+1. die in dem Kalenderjahr geleisteten Darlehen,
 
-2.
+2. die in dem Kalenderjahr getroffenen Änderungen über in zurückliegenden Kalenderjahren geleistete Darlehen
 
 (2) Abweichend von Absatz 1 können die Ämter für Ausbildungsförderung in Einzelfällen, in denen die maschinelle Datenmitteilung wegen eines unverhältnismäßigen Verwaltungsaufwandes nicht vertretbar ist, die Datenmitteilung an das Bundesverwaltungsamt auf den Darlehenserfassungsbögen übermitteln.
 
@@ -98,9 +98,9 @@ Der Abschluss von Vergleichen sowie die Stundung, Niederschlagung und der Erlass
 
 (2) In dem Rückzahlungsbescheid werden festgestellt:
 
-1.
+1. der Zeitpunkt des Beginns der Rückzahlung des Darlehens und
 
-2.
+2. die Höhe der monatlichen oder vierteljährlichen Raten.
 
 ### § 11 — Rückzahlungsbedingungen
 
@@ -110,15 +110,15 @@ Der Abschluss von Vergleichen sowie die Stundung, Niederschlagung und der Erlass
 
 ### § 12 — Mitteilungspflichten
 
-(1) Der Darlehensnehmer ist verpflichtet, dem Bundesverwaltungsamt unverzüglich schriftlich oder elektronisch mitzuteilen.
+(1) Der Darlehensnehmer ist verpflichtet,
 
-1.
+1. jede Änderung der Wohnanschrift und des Familiennamens,
 
-2.
+2. (weggefallen)
 
-3.
+3. (weggefallen)
 
-4.
+4. während der Dauer der Freistellung von der Rückzahlungsverpflichtung jede nach der Geltendmachung eintretende Änderung seiner nach § 18a des Gesetzes maßgeblichen Familien- und Einkommensverhältnisse
 
 (2) Kommt der Darlehensnehmer seinen Mitteilungspflichten nach Absatz 1 Nummer 1 nicht nach und muss seine Anschrift deshalb ermittelt werden, so hat er für die Ermittlung, sofern nicht höhere Kosten nachgewiesen werden, pauschal 25 Euro zu zahlen. Anschriftenermittlungskosten sollen nicht erhoben werden, wenn der Darlehensnehmer seine Mitteilungspflichten nach Bekanntgabe des Bescheides nach § 18 Absatz 9 des Gesetzes und nach § 10 verletzt und das Darlehenskonto des Darlehensnehmers im Zeitpunkt der Notwendigkeit der Anschriftenermittlung keinen Zahlungsrückstand aufweist. § 8 Absatz 1 Nummer 2 gilt entsprechend.
 

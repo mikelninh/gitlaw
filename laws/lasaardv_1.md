@@ -19,21 +19,21 @@ Für die Schadensberechnung bei land- und forstwirtschaftlichen Betrieben sowie 
 
 (1) Der Sonderwert wird berechnet
 
-1.
+1. bei land- und forstwirtschaftlichen Betrieben aus der Zusammenfassung der Wertanteile für den Grund und Boden, für die Gebäude und für die anderen Betriebsbestandteile,
 
-2.
+2. bei den bebauten Grundstücken aus der Zusammenfassung der Wertanteile für den Grund und Boden und für die Gebäude.
 
-(2) Für die Bemessung der Wertanteile ist maßgebend Die in den Anlagen A und B enthaltenen Hundertsätze sind auf den vor Eintritt des Kriegssachschadens geltenden Einheitswert anzuwenden. Bei Anwendung der Anlage B sind die Hundertsätze für den Wertanteil der Gebäude zu ermitteln, indem von der Zahl Hundert die Hundertsätze der Wertanteile für den Grund und Boden abgezogen werden.
+(2) Für die Bemessung der Wertanteile ist maßgebend
 
-1.
+1. bei land- und forstwirtschaftlichen Betrieben die Anlage A,
 
-2.
+2. bei den bebauten Grundstücken die Anlage B.
 
 (3) Für die Anwendung der Anlage B sind maßgebend
 
-1.
+1. als Bewertungsbezirk die für die Durchführung der Einheitsbewertung auf den 1. Januar 1935 oder 1. Januar 1936 als Bewertungsbezirke abgegrenzten Gebietsbereiche,
 
-2.
+2. als Hauptgeschäftsstraßen und Geschäftsstraßen die in Anlage C aufgeführten Straßen und Plätze mit der für sie jeweils angegebenen maßgebenden Anzahl der Gebäudegeschosse (§ 3).
 
 (4) Für die Berücksichtigung des Umfangs der mit den Wertanteilen zu erfassenden Wirtschaftsgüter sind die Verhältnisse am 20. November 1947 maßgebend. Für die Zerlegung der Grundstücksfläche bei bebauten Grundstücken ist § 3 zu beachten.
 
@@ -41,7 +41,7 @@ Für die Schadensberechnung bei land- und forstwirtschaftlichen Betrieben sowie 
 
 (1) Bei der Ermittlung der Wertanteile für den Grund und Boden der bebauten Grundstücke ist die Größe der regelmäßig zu den Gebäuden gehörenden Grundstücksfläche (Bezugsfläche) nach der Größe der Grundflächen der Gebäude des Grundstücks und der Anzahl der Gebäudegeschosse (Geschosse) zu bestimmen.
 
-(2) Grundlage für die Ermittlung der Bezugsfläche ist, wenn für das bebaute Grundstück eine Bebauung baupolizeilich zulässig oder gegendüblich war bei Mietwohngrundstücken, gemischtgenutzten Grundstücken und Geschäftsgrundstücken mit der vor Eintritt des Kriegssachschadens vorhanden gewesenen Gebäude. Bezugsfläche ist die so errechnete Flächengröße, erhöht um 200 Quadratmeter. Kellergeschosse und Dachgeschosse zählen bei der Berechnung nicht mit. Bei Grundstücken mit Gebäuden verschiedener Geschoßzahl ist die Anzahl der Geschosse des Hauptgebäudes maßgebend.
+(2) Grundlage für die Ermittlung der Bezugsfläche ist, wenn für das bebaute Grundstück eine Bebauung baupolizeilich zulässig oder gegendüblich war bei Mietwohngrundstücken, gemischtgenutzten Grundstücken und Geschäftsgrundstücken mit
 
 (3) Die Grundstücksfläche, die über die Bezugsfläche hinaus vorhanden ist (Ergänzungsfläche), ist mit dem Wert anzusetzen, der auf sie bei der Zerlegung des Einheitswerts für das bebaute Grundstück vor Eintritt des Kriegssachschadens unter Berücksichtigung der Größen der Bezugsfläche und der Ergänzungsfläche mit Anwendung der Hundertsätze nach Anlage B rechnerisch entfällt.
 
@@ -61,15 +61,6 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 ### Anlage A — (zu § 2 Abs. 2 Nr. 1)
 
-Fundstelle des Originaltextes: BGBl. I 1961, 1648 - 1649  
-		  Für die in Spalte 1 nicht enthaltenen Betriebs-Hektarsätze sind die entsprechenden Zahlen in den Spalten 2 bis 6 durch rechnerische Zwischenschaltung zu ermitteln. 
-		
-		  Abschnitt IV Gärtnerische Betriebe Der Wertanteil der Betriebsbestandteile am Einheitswert des gärtnerischen Betriebs ist im Einzelfall auf Grund der jeweils angewandten Bewertungsrichtlinien zu ermitteln.
-
 ### Anlage B — (zu § 2 Abs. 2 Nr. 2)
 
-Fundstelle des Originaltextes: BGBl. I 1961, 1649
-
 ### Anlage C — (zu § 2 Abs. 3 Nr. 2)
-
-Fundstelle des Originaltextes: BGBl. I 1961, 1650

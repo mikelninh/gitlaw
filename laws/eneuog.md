@@ -18,11 +18,11 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 ### § 1
 
-Mit Inkrafttreten dieses Gesetzes treten außer Kraft: 3.
+Mit Inkrafttreten dieses Gesetzes treten außer Kraft:
 
-1.
+1. das Allgemeine Eisenbahngesetz in der im Bundesgesetzblatt Teil III, Gliederungsnummer 930-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 2 des Gesetzes vom 13. August 1993 (BGBl. I S. 1489), soweit sich aus § 2 nichts anderes ergibt,
 
-2.
+2. das Bundesbahngesetz in der im Bundesgesetzblatt Teil III, Gliederungsnummer 931-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 6 Abs. 129 dieses Gesetzes, soweit sich aus § 3 nichts anderes ergibt,
 
 ### § 2
 

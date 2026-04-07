@@ -22,37 +22,37 @@ Eine Beurkundung ist nicht deshalb unwirksam, weil der Notar sie außerhalb sein
 
 ### § 3 — Verbot der Mitwirkung als Notar
 
-(1) Ein Notar soll an einer Beurkundung nicht mitwirken, wenn es sich handelt um Der Notar hat vor der Beurkundung nach einer Vorbefassung im Sinne des Satzes 1 Nummer 7 zu fragen und in der Urkunde die Antwort zu vermerken.
+(1) Ein Notar soll an einer Beurkundung nicht mitwirken, wenn es sich handelt um
 
-1.
+1. eigene Angelegenheiten, auch wenn der Notar nur mitberechtigt oder mitverpflichtet ist,
 
-2.
+2. Angelegenheiten seines Ehegatten, früheren Ehegatten oder seines Verlobten,
 
-2a.
+2a. Angelegenheiten seines Lebenspartners oder früheren Lebenspartners,
 
-3.
+3. Angelegenheiten einer Person, die mit dem Notar in gerader Linie verwandt oder verschwägert oder in der Seitenlinie bis zum dritten Grade verwandt oder bis zum zweiten Grade verschwägert ist oder war,
 
-4.
+4. Angelegenheiten einer Person, mit der sich der Notar zur gemeinsamen Berufsausübung verbunden oder mit der er gemeinsame Geschäftsräume hat,
 
-5.
+5. Angelegenheiten einer Person, deren gesetzlicher Vertreter der Notar oder eine Person im Sinne der Nummer 4 ist,
 
-6.
+6. Angelegenheiten einer Person, deren vertretungsberechtigtem Organ der Notar oder eine Person im Sinne der Nummer 4 angehört,
 
-7.
+7. Angelegenheiten einer Person, für die der Notar, eine Person im Sinn der Nummer 4 oder eine mit dieser im Sinn der Nummer 4 oder in einem verbundenen Unternehmen (§ 15 des Aktiengesetzes) verbundene Person außerhalb einer Amtstätigkeit in derselben Angelegenheit bereits tätig war oder ist, es sei denn, diese Tätigkeit wurde im Auftrag aller Personen ausgeübt, die an der Beurkundung beteiligt sein sollen,
 
-8.
+8. Angelegenheiten einer Person, die den Notar in derselben Angelegenheit bevollmächtigt hat oder zu der der Notar oder eine Person im Sinne der Nummer 4 in einem ständigen Dienst- oder ähnlichen ständigen Geschäftsverhältnis steht, oder
 
-9.
+9. Angelegenheiten einer Gesellschaft, an der der Notar mit mehr als fünf vom Hundert der Stimmrechte oder mit einem anteiligen Betrag des Haftkapitals von mehr als 2 500 Euro beteiligt ist.
 
 (2) Handelt es sich um eine Angelegenheit mehrerer Personen und ist der Notar früher in dieser Angelegenheit als gesetzlicher Vertreter oder Bevollmächtigter tätig gewesen oder ist er für eine dieser Personen in anderer Sache als Bevollmächtigter tätig, so soll er vor der Beurkundung darauf hinweisen und fragen, ob er die Beurkundung gleichwohl vornehmen soll. In der Urkunde soll er vermerken, daß dies geschehen ist.
 
-(3) Absatz 2 gilt entsprechend, wenn es sich handelt um In den Fällen des Satzes 1 Nummer 2 und 3 ist Absatz 1 Satz 1 Nummer 6 nicht anwendbar.
+(3) Absatz 2 gilt entsprechend, wenn es sich handelt um
 
-1.
+1. Angelegenheiten einer Person, deren nicht zur Vertretung berechtigtem Organ der Notar angehört,
 
-2.
+2. Angelegenheiten einer Gemeinde oder eines Kreises, deren Organ der Notar angehört,
 
-3.
+3. Angelegenheiten einer als Körperschaft des öffentlichen Rechts anerkannten Religions- oder Weltanschauungsgemeinschaft oder einer als Körperschaft des öffentlichen Rechts anerkannten Teilorganisation einer solchen Gemeinschaft, deren Organ der Notar angehört.
 
 ### § 4 — Ablehnung der Beurkundung
 
@@ -68,31 +68,31 @@ Der Notar soll die Beurkundung ablehnen, wenn sie mit seinen Amtspflichten nicht
 
 ### § 6 — Ausschließungsgründe
 
-(1) Die Beurkundung von Willenserklärungen ist unwirksam, wenn an der Beurkundung beteiligt ist.
+(1) Die Beurkundung von Willenserklärungen ist unwirksam, wenn
 
-1.
+1. der Notar selbst,
 
-2.
+2. sein Ehegatte,
 
-2a.
+2a. sein Lebenspartner,
 
-3.
+3. eine Person, die mit ihm in gerader Linie verwandt ist oder war oder
 
-4.
+4. ein Vertreter, der für eine der in den Nummern 1 bis 3 bezeichneten Personen handelt,
 
 (2) An der Beurkundung beteiligt sind die Erschienenen, deren im eigenen oder fremden Namen abgegebene Erklärungen beurkundet werden sollen.
 
 ### § 7 — Beurkundungen zugunsten des Notars oder seiner Angehörigen
 
-Die Beurkundung von Willenserklärungen ist insoweit unwirksam, als diese darauf gerichtet sind, einen rechtlichen Vorteil zu verschaffen.
+Die Beurkundung von Willenserklärungen ist insoweit unwirksam, als diese darauf gerichtet sind,
 
-1.
+1. dem Notar,
 
-2.
+2. seinem Ehegatten oder früheren Ehegatten,
 
-2a.
+2a. seinem Lebenspartner oder früheren Lebenspartner oder
 
-3.
+3. einer Person, die mit ihm in gerader Linie verwandt oder verschwägert oder in der Seitenlinie bis zum dritten Grade verwandt oder bis zum zweiten Grade verschwägert ist oder war,
 
 ## Unterabschnitt 2: Niederschrift
 
@@ -104,11 +104,11 @@ Die Beurkundung von Willenserklärungen ist insoweit unwirksam, als diese darauf
 
 ### § 9 — Inhalt der Niederschrift
 
-(1) Die Niederschrift muß enthalten Erklärungen in einem Schriftstück, auf das in der Niederschrift verwiesen und das dieser beigefügt wird, gelten als in der Niederschrift selbst enthalten. Satz 2 gilt entsprechend, wenn die Beteiligten unter Verwendung von Karten, Zeichnungen oder Abbildungen Erklärungen abgeben.
+(1) Die Niederschrift muß enthalten
 
-1.
+1. die Bezeichnung des Notars und der Beteiligten sowie
 
-2.
+2. die Erklärungen der Beteiligten.
 
 (2) Die Niederschrift soll Ort und Tag der Verhandlung enthalten.
 
@@ -144,9 +144,9 @@ Die Beurkundung von Willenserklärungen ist insoweit unwirksam, als diese darauf
 
 (1) Die elektronische Niederschrift muss in Gegenwart des Notars von den Beteiligten
 
-1.
+1. mit ihren qualifizierten elektronischen Signaturen versehen werden oder
 
-2.
+2. auf einem zur elektronischen Erfassung der Unterschrift geeigneten Hilfsmittel eigenhändig unterschrieben werden.
 
 (2) Die elektronische Niederschrift muss von dem Notar mit seiner qualifizierten elektronischen Signatur versehen werden.
 
@@ -212,15 +212,11 @@ Bei der Beurkundung von Versteigerungen gelten nur solche Bieter als beteiligt, 
 
 ### § 16c — Feststellung der Beteiligten mittels Videokommunikation
 
-Erfolgt die Beurkundung mittels Videokommunikation, soll sich der Notar Gewissheit über die Person der Beteiligten anhand eines ihm elektronisch übermittelten Lichtbildes sowie anhand eines der folgenden Nachweise oder Mittel verschaffen: Das dem Notar zu übermittelnde Lichtbild ist mit Zustimmung des betreffenden Beteiligten nebst Vornamen, Familienname, Tag der Geburt, ausstellendem Staat, Dokumentenart, Gültigkeitsdauer sowie derjenigen Daten, die zur Überprüfung der Echtheit des Dokuments erforderlich sind, aus dem elektronischen Speicher- und Verarbeitungsmedium eines von der Bundesrepublik Deutschland ausgegebenen Personalausweises, Passes oder elektronischen Aufenthaltstitels oder eines amtlichen Ausweises oder Passes eines anderen Staates, mit dem die Pass- und Ausweispflicht im Inland erfüllt wird, auszulesen. Sofern ein Beteiligter dem Notar bekannt ist, ist die elektronische Übermittlung eines Lichtbildes nicht erforderlich.
+Erfolgt die Beurkundung mittels Videokommunikation, soll sich der Notar Gewissheit über die Person der Beteiligten anhand eines ihm elektronisch übermittelten Lichtbildes sowie anhand eines der folgenden Nachweise oder Mittel verschaffen:
 
-1.
+1. eines elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes, der auf dem Vertrauensniveau „hoch“ im Sinne des Artikels 8 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44) notifiziert wurde, oder
 
-2.
-
-a)
-
-b)
+2. eines elektronischen Identifizierungsmittels, das von einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ausgestellt wurde und dasa)für die Zwecke der grenzüberschreitenden Authentifizierung nach Artikel 6 der Verordnung (EU) Nr. 910/2014 anerkannt ist undb)auf dem Vertrauensniveau „hoch“ im Sinne des Artikels 8 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 910/2014 notifiziert wurde. für die Zwecke der grenzüberschreitenden Authentifizierung nach Artikel 6 der Verordnung (EU) Nr. 910/2014 anerkannt ist und auf dem Vertrauensniveau „hoch“ im Sinne des Artikels 8 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 910/2014 notifiziert wurde.
 
 ### § 16d — (weggefallen)
 
@@ -238,11 +234,11 @@ b)
 
 (2) Bestehen Zweifel, ob das Geschäft dem Gesetz oder dem wahren Willen der Beteiligten entspricht, so sollen die Bedenken mit den Beteiligten erörtert werden. Zweifelt der Notar an der Wirksamkeit des Geschäfts und bestehen die Beteiligten auf der Beurkundung, so soll er die Belehrung und die dazu abgegebenen Erklärungen der Beteiligten in der Niederschrift vermerken.
 
-(2a) Der Notar soll das Beurkundungsverfahren so gestalten, daß die Einhaltung der Amtspflichten nach den Absätzen 1 und 2 gewährleistet ist. Bei Verbraucherverträgen soll der Notar darauf hinwirken, dass Weitere Amtspflichten des Notars bleiben unberührt.
+(2a) Der Notar soll das Beurkundungsverfahren so gestalten, daß die Einhaltung der Amtspflichten nach den Absätzen 1 und 2 gewährleistet ist. Bei Verbraucherverträgen soll der Notar darauf hinwirken, dass
 
-1.
+1. die rechtsgeschäftlichen Erklärungen des Verbrauchers von diesem persönlich oder durch eine Vertrauensperson vor dem Notar abgegeben werden und
 
-2.
+2. der Verbraucher ausreichend Gelegenheit erhält, sich vorab mit dem Gegenstand der Beurkundung auseinanderzusetzen; bei Verbraucherverträgen, die der Beurkundungspflicht nach § 311b Absatz 1 Satz 1 und Absatz 3 des Bürgerlichen Gesetzbuchs unterliegen, soll dem Verbraucher der beabsichtigte Text des Rechtsgeschäfts vom beurkundenden Notar oder einem Notar, mit dem sich der beurkundende Notar zur gemeinsamen Berufsausübung verbunden hat, zur Verfügung gestellt werden. Dies soll im Regelfall zwei Wochen vor der Beurkundung erfolgen. Wird diese Frist unterschritten, sollen die Gründe hierfür in der Niederschrift angegeben werden.
 
 (3) Kommt ausländisches Recht zur Anwendung oder bestehen darüber Zweifel, so soll der Notar die Beteiligten darauf hinweisen und dies in der Niederschrift vermerken. Zur Belehrung über den Inhalt ausländischer Rechtsordnungen ist er nicht verpflichtet.
 
@@ -296,29 +292,29 @@ Vermag ein Beteiligter nach seinen Angaben oder nach der Überzeugung des Notars
 
 (1) Als Zeuge oder zweiter Notar soll bei der Beurkundung nicht zugezogen werden, wer
 
-1.
+1. selbst beteiligt ist oder durch einen Beteiligten vertreten wird,
 
-2.
+2. aus einer zu beurkundenden Willenserklärung einen rechtlichen Vorteil erlangt,
 
-3.
+3. mit dem Notar verheiratet ist,
 
-3a.
+3a. mit ihm eine Lebenspartnerschaft führt oder
 
-4.
+4. mit ihm in gerader Linie verwandt ist oder war.
 
 (2) Als Zeuge soll bei der Beurkundung ferner nicht zugezogen werden, wer
 
-1.
+1. zu dem Notar in einem ständigen Dienstverhältnis steht,
 
-2.
+2. minderjährig ist,
 
-3.
+3. geisteskrank oder geistesschwach ist,
 
-4.
+4. nicht hinreichend zu hören, zu sprechen oder zu sehen vermag,
 
-5.
+5. nicht schreiben kann oder
 
-6.
+6. der deutschen Sprache nicht hinreichend kundig ist; dies gilt nicht im Falle des § 5 Abs. 2, wenn der Zeuge der Sprache der Niederschrift hinreichend kundig ist.
 
 ## Unterabschnitt 6: Besonderheiten für Verfügungen von Todes wegen
 
@@ -382,11 +378,11 @@ Hat der Notar die Niederschrift über die Errichtung einer Verfügung von Todes 
 
 ### § 37 — Inhalt der Niederschrift
 
-(1) Die Niederschrift muß enthalten Der Bericht des Notars in einem Schriftstück, auf das in der Niederschrift verwiesen und das dieser beigefügt wird, gilt als in der Niederschrift selbst enthalten. Satz 2 gilt entsprechend, wenn der Notar unter Verwendung von Karten, Zeichnungen oder Abbildungen seinen Bericht erstellt.
+(1) Die Niederschrift muß enthalten
 
-1.
+1. die Bezeichnung des Notars sowie
 
-2.
+2. den Bericht über seine Wahrnehmungen.
 
 (2) In der Niederschrift sollen Ort und Tag der Wahrnehmungen des Notars sowie Ort und Tag der Errichtung der Urkunde angegeben werden.
 
@@ -530,9 +526,9 @@ Die Ausfertigung erteilt, soweit bundes- oder landesrechtlich nichts anderes bes
 
 (1) Die Ausfertigung besteht, jeweils mit einem Ausfertigungsvermerk versehen, in
 
-1.
+1. einer Abschrift der Urschrift, der elektronischen Urschrift oder der elektronischen Fassung der Urschrift oder
 
-2.
+2. einem Ausdruck der elektronischen Urschrift oder der elektronischen Fassung der Urschrift.
 
 (2) Der Ausfertigungsvermerk soll den Tag und den Ort der Erteilung angeben, die Person bezeichnen, der die Ausfertigung erteilt wird, und die Übereinstimmung der Ausfertigung mit der Urschrift, der elektronischen Urschrift oder der elektronischen Fassung der Urschrift bestätigen. Er muß unterschrieben und mit dem Siegel der erteilenden Stelle versehen sein. Besteht die Ausfertigung in einer Abschrift oder einem Ausdruck der elektronischen Urschrift oder der elektronischen Fassung der Urschrift, soll das Ergebnis der Signaturprüfung dokumentiert werden. § 39a Absatz 3 Satz 2 gilt entsprechend.
 
@@ -552,11 +548,11 @@ Die Ausfertigung erteilt, soweit bundes- oder landesrechtlich nichts anderes bes
 
 ### § 51 — Recht auf Ausfertigungen, Abschriften und Einsicht
 
-(1) Ausfertigungen können verlangen sowie die Rechtsnachfolger dieser Personen.
+(1) Ausfertigungen können verlangen
 
-1.
+1. bei Niederschriften über Willenserklärungen jeder, der eine Erklärung im eigenen Namen abgegeben hat oder in dessen Namen eine Erklärung abgegeben worden ist,
 
-2.
+2. bei anderen Niederschriften jeder, der die Aufnahme der Urkunde beantragt hat,
 
 (2) Die in Absatz 1 genannten Personen können gemeinsam in der Niederschrift oder durch besondere Erklärung gegenüber der zuständigen Stelle etwas anderes bestimmen.
 
@@ -606,11 +602,11 @@ Sind Willenserklärungen beurkundet worden, die beim Grundbuchamt oder Registerg
 
 (2) Der Notar darf Geld zur Verwahrung nur entgegennehmen, wenn
 
-1.
+1. hierfür ein berechtigtes Sicherungsinteresse der am Verwahrungsgeschäft beteiligten Personen besteht,
 
-2.
+2. ihm ein Antrag auf Verwahrung verbunden mit einer Verwahrungsanweisung vorliegt, in der hinsichtlich der Masse und ihrer Erträge der Anweisende, der Empfangsberechtigte sowie die zeitlichen und sachlichen Bedingungen der Verwahrung und die Auszahlungsvoraussetzungen bestimmt sind,
 
-3.
+3. er den Verwahrungsantrag und die Verwahrungsanweisung angenommen hat.
 
 (3) Der Notar darf den Verwahrungsantrag nur annehmen, wenn die Verwahrungsanweisung den Bedürfnissen einer ordnungsgemäßen Geschäftsabwicklung und eines ordnungsgemäßen Vollzugs der Verwahrung sowie dem Sicherungsinteresse aller am Verwahrungsgeschäft beteiligten Personen genügt.
 
@@ -650,11 +646,11 @@ Das Bundesministerium der Justiz und für Verbraucherschutz hat durch Rechtsvero
 
 (3) Erfolgt der Widerruf nach Absatz 2 nicht durch alle Anweisenden und wird er darauf gegründet, daß das mit der Verwahrung durchzuführende Rechtsverhältnis aufgehoben, unwirksam oder rückabzuwickeln sei, soll sich der Notar jeder Verfügung über das Verwahrungsgut enthalten. Der Notar soll alle an dem Verwahrungsgeschäft beteiligten Personen im Sinne des § 57 hiervon unterrichten. Der Widerruf wird jedoch unbeachtlich, wenn
 
-1.
+1. eine spätere übereinstimmende Anweisung vorliegt oder
 
-2.
+2. der Widerrufende nicht innerhalb einer von dem Notar festzusetzenden angemessenen Frist dem Notar nachweist, daß ein gerichtliches Verfahren zur Herbeiführung einer übereinstimmenden Anweisung rechtshängig ist, oder
 
-3.
+3. dem Notar nachgewiesen wird, daß die Rechtshängigkeit der nach Nummer 2 eingeleiteten Verfahren entfallen ist.
 
 (4) Die Verwahrungsanweisung kann von den Absätzen 2 und 3 abweichende oder ergänzende Regelungen enthalten.
 
@@ -664,9 +660,9 @@ Das Bundesministerium der Justiz und für Verbraucherschutz hat durch Rechtsvero
 
 Der Notar hat von der Auszahlung abzusehen und alle an dem Verwahrungsgeschäft beteiligten Personen im Sinne des § 57 hiervon zu unterrichten, wenn
 
-1.
+1. hinreichende Anhaltspunkte dafür vorliegen, daß er bei Befolgung der unwiderruflichen Weisung an der Erreichung unerlaubter oder unredlicher Zwecke mitwirken würde, oder
 
-2.
+2. einem Auftraggeber im Sinne des § 57 durch die Auszahlung des verwahrten Geldes ein unwiederbringlicher Schaden erkennbar droht.
 
 ### § 62 — Verwahrung von Wertpapieren und Kostbarkeiten
 
@@ -696,39 +692,39 @@ Soweit in diesem Gesetz nichts anderes bestimmt ist, bleiben bundesrechtliche Vo
 
 (1) Unbeschadet der Zuständigkeit des Notars bleiben folgende landesrechtliche Vorschriften unberührt:
 
-1.
+1. Vorschriften über die Beurkundung von freiwilligen Versteigerungen; dies gilt nicht für die freiwillige Versteigerung von Grundstücken und grundstücksgleichen Rechten;
 
-2.
+2. Vorschriften über die Zuständigkeit zur Aufnahme von Inventaren, Bestandsverzeichnissen, Nachlaßverzeichnissen und anderen Vermögensverzeichnissen sowie zur Mitwirkung bei der Aufnahme solcher Vermögensverzeichnisse;
 
-3.
+3. Vorschriften, nach denen die Gerichtsvollzieher zuständig sind, Wechsel- und Scheckproteste aufzunehmen sowie das tatsächliche Angebot einer Leistung zu beurkunden;
 
-4.
+4. Vorschriften, nach denen die Amtsgerichte zuständig sind, außerhalb eines anhängigen Verfahrens die Aussagen von Zeugen und die Gutachten von Sachverständigen, die Vereidigung sowie eidesstattliche Versicherungen dieser Personen zu beurkunden;
 
-5.
+5. Vorschriften, nach denen Beurkundungen in Fideikommißsachen, für die ein Kollegialgericht zuständig ist, durch einen beauftragten oder ersuchten Richter erfolgen können;
 
-6.
+6. Vorschriften, nach denen die Vorstände der Vermessungsbehörden, die das amtliche Verzeichnis im Sinne des § 2 Abs. 2 der Grundbuchordnung führen, und die von den Vorständen beauftragten Beamten dieser Behörden zuständig sind, Anträge der Eigentümer auf Vereinigung oder Teilung von Grundstücken zu beurkunden oder zu beglaubigen;
 
-7.
+7. Vorschriften über die Beurkundung der Errichtung fester Grenzzeichen (Abmarkung);
 
-8.
+8. Vorschriften über die Beurkundung von Tatbeständen, die am Grund und Boden durch vermessungstechnische Ermittlungen festgestellt werden, durch Behörden, öffentlich bestellte Vermessungsingenieure oder Markscheider;
 
-9.
+9. Vorschriften über Beurkundungen in Gemeinheitsteilungs- und agrarrechtlichen Ablösungsverfahren einschließlich der Rentenübernahme- und Rentengutsverfahren;
 
-10.
+10. Vorschriften über Beurkundungen im Rückerstattungsverfahren;
 
-11.
+11. Vorschriften über die Beglaubigung amtlicher Unterschriften zum Zwecke der Legalisation;
 
-12.
+12. Vorschriften über Beurkundungen in Kirchenaustrittssachen.
 
 (2) Auf Grund dieser Vorbehalte können den Gerichten Beurkundungszuständigkeiten nicht neu übertragen werden.
 
 (3) Auf Grund anderer bundesrechtlicher Vorbehalte kann
 
-1.
+1. die Zuständigkeit der Notare für öffentliche Beurkundungen (§ 20 der Bundesnotarordnung) nicht eingeschränkt werden,
 
-2.
+2. nicht bestimmt werden, daß für öffentliche Beurkundungen neben dem Notar andere Urkundspersonen oder sonstige Stellen zuständig sind, und
 
-3.
+3. keine Regelung getroffen werden, die den Vorschriften der Abschnitte 1 bis 4 dieses Gesetzes entgegensteht.
 
 (4) (weggefallen)
 
@@ -736,11 +732,11 @@ Soweit in diesem Gesetz nichts anderes bestimmt ist, bleiben bundesrechtliche Vo
 
 (1) Unbeschadet der Zuständigkeit sonstiger Stellen sind die Amtsgerichte zuständig für die Beurkundung von
 
-1.
+1. Erklärungen über die Anerkennung der Vaterschaft,
 
-2.
+2. Verpflichtungen zur Erfüllung von Unterhaltsansprüchen eines Kindes,
 
-3.
+3. Verpflichtungen zur Erfüllung von Unterhaltsansprüchen nach § 1615l des Bürgerlichen Gesetzbuchs.
 
 (2) Die Zustellung von Urkunden, die eine Verpflichtung nach Absatz 1 Nr. 2 oder 3 zum Gegenstand haben, kann auch dadurch vollzogen werden, daß der Schuldner eine beglaubigte Abschrift der Urkunde ausgehändigt erhält; § 174 Satz 2 und 3 der Zivilprozeßordnung gilt entsprechend.
 

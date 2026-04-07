@@ -12,8 +12,6 @@ Auf Grund des § 8 Abs. 6, des § 9 Abs. 5, des § 23 Abs. 5, des § 24 Abs. 4, 
 
 ### § 1 — Geltungsbereich und Begriffsbestimmungen
 
-(1) Diese Verordnung erstreckt sich auf alle Wertpapiere der im Verzeichnis der Auslandsbonds (§ 1 Abs. 1 des Gesetzes) aufgeführten oder bei einer Ergänzung (§ 1 Abs. 2 des Gesetzes) in das Verzeichnis aufgenommenen Art einschließlich der dazu ausgegebenen Zins-, Gewinnanteil-, Erneuerungs- und Bezugscheine und anderer Nebenurkunden (§ 5 des Gesetzes), soweit die Vereinigten Staaten von Amerika als Begebungsland angegeben sind (im folgenden "Dollarbonds" genannt).
-
 (2) Im Sinne dieser Verordnung bezeichnet der Ausdruck "der Auslandsbevollmächtigte" den für die Vereinigten Staaten von Amerika gemäß § 8 Abs. 1 des Gesetzes bestellten Auslandsbevollmächtigten sowie die nach § 8 Abs. 7 des Gesetzes bestellten ständigen Vertreter des Auslandsbevollmächtigten.
 
 > § 1 Abs. 1 Kursivdruck: Gegenstandslose Ermächtigung
@@ -40,21 +38,19 @@ Auf Grund des § 8 Abs. 6, des § 9 Abs. 5, des § 23 Abs. 5, des § 24 Abs. 4, 
 
 (3) Kann der Anmelder den in Absatz 2 Satz 2 genannten Zinsschein nicht hinterlegen, so soll er der Anmeldung Urkunden beifügen, die geeignet sind, zu beweisen, daß sich der angemeldete Bond am 1. Januar 1945 außerhalb der in § 3 Abs. 2 Satz 1 des Gesetzes bezeichneten Gebiete befunden hat. In dieser Hinsicht soll er folgendes beachten:
 
-1.
+1. Hat der Anmelder den Bond vor dem 1. Januar 1945 erworben, so soll er eine von einer Bank, einem Wertpapiermakler oder einem Wertpapierhändler ausgestellte Bescheinigung beibringen, aus der sich ergibt, daß der Anmelder den Bond von der Bank, dem Makler oder dem Händler oder deren Rechtsvorgänger oder durch deren Vermittlung vor dem 1. Januar 1945 erworben hat oder daß der Bond bei der Bank, dem Makler oder dem Händler oder deren Rechtsvorgänger vor dem oder am 1. Januar 1945 für den Anmelder in Verwahrung war.
 
-2.
+2. Kann der Anmelder die in Nummer 1 bezeichnete Bescheinigung nicht beibringen oder hat er den Bond nach dem 1. Januar 1945 erworben, so soll er diejenigen Urkunden (einschließlich eidesstattlicher Erklärungen dritter Personen) beibringen, die er als den besten ihm verfügbaren Beweis ansieht.
 
-(4) Stehen dem Anmelder weder der in Absatz 2 Satz 2 bezeichnete Zinsschein noch in Absatz 3 bezeichnete Urkunden zur Verfügung, so soll er eine eigene eidesstattliche Erklärung mit den folgenden Angaben abgeben: und, falls der Anmelder den Bond nach dem 1. Januar 1945 erworben hat,
+(4) Stehen dem Anmelder weder der in Absatz 2 Satz 2 bezeichnete Zinsschein noch in Absatz 3 bezeichnete Urkunden zur Verfügung, so soll er eine eigene eidesstattliche Erklärung mit den folgenden Angaben abgeben:
 
-1.
+1. Datum des Erwerbs des Bonds durch den Anmelder,
 
-2.
+2. Art dieses Erwerbs (z.B. Kauf, Erbgang, Schenkung),
 
-3.
+3. Namen und Anschrift der Person, von der er den Bond erworben hat, oder des Maklers oder sonstigen Vermittlers, durch den dieser Erwerb erfolgt ist,
 
-4.
-
-5.
+4. Ort, an dem sich der Bond am 1. Januar 1945 befunden hat, und Namen und Anschrift der Person, die ihn zu jenem Zeitpunkt in Verwahrung hatte,
 
 (5) Die Befugnisse der Bereinigungsstelle, Ermittlungen anzustellen und von dem Anmelder weitere Beweismittel zu verlangen (§ 24 Abs. 3 des Gesetzes), sind durch die Vorschriften der Absätze 2 bis 4 nicht berührt.
 

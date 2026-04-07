@@ -22,11 +22,11 @@ Auf Grund des § 19 des Arbeitsschutzgesetzes vom 7. August 1996 (BGBl. I S. 124
 
 (1) Bei der Planung der Ausführung eines Bauvorhabens, insbesondere bei der Einteilung der Arbeiten, die gleichzeitig oder nacheinander durchgeführt werden, und bei der Bemessung der Ausführungszeiten für diese Arbeiten, sind die allgemeinen Grundsätze nach § 4 des Arbeitsschutzgesetzes zu berücksichtigen.
 
-(2) Für jede Baustelle, bei der hat der nach § 4 Verantwortliche der zuständigen Behörde spätestens zwei Wochen vor Einrichtung der Baustelle eine Vorankündigung zu übermitteln, die mindestens die Angaben nach Anhang I enthält. Die Vorankündigung hat der nach § 4 Verantwortliche sichtbar auf der Baustelle auszuhängen und bei erheblichen Änderungen anzupassen.
+(2) Für jede Baustelle, bei der
 
-1.
+1. die voraussichtliche Dauer der Arbeiten mehr als 30 Arbeitstage beträgt und auf der mehr als 20 Beschäftigte gleichzeitig tätig werden, oder
 
-2.
+2. der Umfang der Arbeiten voraussichtlich 500 Personentage überschreitet,
 
 (3) Ist für eine Baustelle, auf der Beschäftigte mehrerer Arbeitgeber tätig werden, eine Vorankündigung zu übermitteln, oder werden auf einer Baustelle, auf der Beschäftigte mehrerer Arbeitgeber tätig werden, besonders gefährliche Arbeiten nach Anhang II ausgeführt, so hat der nach § 4 Verantwortliche dafür zu sorgen, daß vor Einrichtung der Baustelle ein Sicherheits- und Gesundheitsschutzplan erstellt wird. Der Plan muß die für die betreffende Baustelle anzuwendenden Arbeitsschutzbestimmungen erkennen lassen und besondere Maßnahmen für die besonders gefährlichen Arbeiten nach Anhang II enthalten. Erforderlichenfalls sind bei Erstellung des Planes betriebliche Tätigkeiten auf dem Gelände zu berücksichtigen.
 
@@ -40,23 +40,23 @@ Auf Grund des § 19 des Arbeitsschutzgesetzes vom 7. August 1996 (BGBl. I S. 124
 
 (2) Während der Planung der Ausführung des Bauvorhabens hat der Koordinator
 
-1.
+1. die in § 2 Abs. 1 vorgesehenen Maßnahmen zu koordinieren,
 
-2.
+2. den Sicherheits- und Gesundheitsschutzplan auszuarbeiten oder ausarbeiten zu lassen und
 
-3.
+3. eine Unterlage mit den erforderlichen, bei möglichen späteren Arbeiten an der baulichen Anlage zu berücksichtigenden Angaben zur Sicherheit und Gesundheitsschutz zusammenzustellen.
 
 (3) Während der Ausführung des Bauvorhabens hat der Koordinator
 
-1.
+1. die Anwendung der allgemeinen Grundsätze nach § 4 des Arbeitsschutzgesetzes zu koordinieren,
 
-2.
+2. darauf zu achten, daß die Arbeitgeber und die Unternehmer ohne Beschäftigte ihre Pflichten nach dieser Verordnung erfüllen,
 
-3.
+3. den Sicherheits- und Gesundheitsschutzplan bei Änderungen in der Ausführung des Bauvorhabens, die sich auf die weitere Koordination auswirken, anzupassen oder anpassen zu lassen,
 
-4.
+4. die Zusammenarbeit der Arbeitgeber zu organisieren und
 
-5.
+5. die Überwachung der ordnungsgemäßen Anwendung der Arbeitsverfahren durch die Arbeitgeber zu koordinieren.
 
 ### § 4 — Beauftragung
 
@@ -64,19 +64,19 @@ Die Maßnahmen nach § 2 und § 3 Abs. 1 Satz 1 hat der Bauherr zu treffen, es s
 
 ### § 5 — Pflichten der Arbeitgeber
 
-(1) Die Arbeitgeber haben bei der Ausführung der Arbeiten die erforderlichen Maßnahmen des Arbeitsschutzes insbesondere in bezug auf die zu treffen sowie die Unterrichtung nach § 2 Absatz 4, die Hinweise des Koordinators und den Sicherheits- und Gesundheitsschutzplan zu berücksichtigen.
+(1) Die Arbeitgeber haben bei der Ausführung der Arbeiten die erforderlichen Maßnahmen des Arbeitsschutzes insbesondere in bezug auf die
 
-1.
+1. Instandhaltung der Arbeitsmittel,
 
-2.
+2. Vorkehrungen zur Lagerung und Entsorgung der Arbeitsstoffe und Abfälle, insbesondere der Gefahrstoffe,
 
-3.
+3. Anpassung der Ausführungszeiten für die Arbeiten unter Berücksichtigung der Gegebenheiten auf der Baustelle,
 
-4.
+4. Zusammenarbeit zwischen Arbeitgebern und Unternehmern ohne Beschäftigte,
 
-5.
+5. Wechselwirkungen zwischen den Arbeiten auf der Baustelle und anderen betrieblichen Tätigkeiten auf dem Gelände, auf dem oder in dessen Nähe die erstgenannten Arbeiten ausgeführt werden,
 
-6.
+6. Ausführung besonders gefährlicher Arbeiten nach Anhang II auf der Baustelle
 
 (2) Die Arbeitgeber haben die Beschäftigten in verständlicher Form und Sprache über die sie betreffenden Schutzmaßnahmen zu informieren.
 
@@ -94,9 +94,9 @@ Das Bundesministerium für Arbeit und Soziales wird in allen Fragen der Sicherhe
 
 (1) Ordnungswidrig im Sinne des § 25 Abs. 1 Nr. 1 des Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 2 Abs. 2 Satz 1 der zuständigen Behörde eine Vorankündigung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt, oder
 
-2.
+2. entgegen § 2 Abs. 3 Satz 1 nicht dafür sorgt, daß vor Einrichtung der Baustelle ein Sicherheits- und Gesundheitsschutzplan erstellt wird.
 
 (2) Wer durch eine im Absatz 1 bezeichnete vorsätzliche Handlung Leben oder Gesundheit eines Beschäftigten gefährdet, ist nach § 26 Nr. 2 des Arbeitsschutzgesetzes strafbar.
 
@@ -112,56 +112,42 @@ Der Bundesrat hat zugestimmt.
 
 ### Anhang I
 
-Fundstelle des Originaltextes: BGBl. I 1998, 1285
+1. Ort der Baustelle,
 
-1.
+2. Name und Anschrift des Bauherrn,
 
-2.
+3. Art des Bauvorhabens,
 
-3.
+4. Name und Anschrift des anstelle des Bauherrn verantwortlichen Dritten,
 
-4.
+5. Name und Anschrift des Koordinators,
 
-5.
+6. voraussichtlicher Beginn und voraussichtliche Dauer der Arbeiten,
 
-6.
+7. voraussichtliche Höchstzahl der Beschäftigten auf der Baustelle,
 
-7.
+8. Zahl der Arbeitgeber und Unternehmer ohne Beschäftigte, die voraussichtlich auf der Baustelle tätig werden,
 
-8.
-
-9.
+9. Angabe der bereits ausgewählten Arbeitgeber und Unternehmer ohne Beschäftigte.
 
 ### Anhang II
 
-Besonders gefährliche Arbeiten im Sinne des § 2 Abs. 3 sind:
+1. Arbeiten, bei denen die Beschäftigten der Gefahr des Versinkens, des Verschüttetwerdens in Baugruben oder in Gräben mit einer Tiefe von mehr als 5 m oder des Absturzes aus einer Höhe von mehr als 7 m ausgesetzt sind,
 
-1.
+2. Arbeiten, bei denen Beschäftigte ausgesetzt sind gegenüber a)biologischen Arbeitsstoffen der Risikogruppen 3 oder 4 im Sinne des § 3 Absatz 1 der Biostoffverordnung,b)Stoffen und Gemischen, die den in Anhang I der Verordnung (EG) Nr. 1272/2008 dargelegten Kriterien entsprechen für aa)Explosive Stoffe/Gemische und Erzeugnisse mit Explosivstoff,bb)Entzündbare Flüssigkeiten oder Akute Toxizität (jeweils Kategorie 1 oder 2) odercc)Keimzellmutagenität, Karzinogenität oder Reproduktionstoxizität (jeweils Kategorie 1A oder 1B),der Gefahrstoffverordnung, biologischen Arbeitsstoffen der Risikogruppen 3 oder 4 im Sinne des § 3 Absatz 1 der Biostoffverordnung, Stoffen und Gemischen, die den in Anhang I der Verordnung (EG) Nr. 1272/2008 dargelegten Kriterien entsprechen für aa)Explosive Stoffe/Gemische und Erzeugnisse mit Explosivstoff,bb)Entzündbare Flüssigkeiten oder Akute Toxizität (jeweils Kategorie 1 oder 2) odercc)Keimzellmutagenität, Karzinogenität oder Reproduktionstoxizität (jeweils Kategorie 1A oder 1B), Explosive Stoffe/Gemische und Erzeugnisse mit Explosivstoff, Entzündbare Flüssigkeiten oder Akute Toxizität (jeweils Kategorie 1 oder 2) oder Keimzellmutagenität, Karzinogenität oder Reproduktionstoxizität (jeweils Kategorie 1A oder 1B),
 
-2.
+3. Arbeiten mit ionisierenden Strahlungen, die die Festlegung von Kontroll- oder Überwachungsbereichen im Sinne des Strahlenschutzgesetzes und der auf dessen Grundlage erlassenen Rechtsverordnungen erfordern,
 
-a)
+4. Arbeiten in einem geringeren Abstand als 5 m von Hochspannungsleitungen,
 
-b)
+5. Arbeiten, bei denen die unmittelbare Gefahr des Ertrinkens besteht,
 
-aa)
+6. Brunnenbau, unterirdische Erdarbeiten und Tunnelbau,
 
-bb)
+7. Arbeiten mit Tauchgeräten,
 
-cc)
+8. Arbeiten in Druckluft,
 
-3.
+9. Arbeiten, bei denen Sprengstoff oder Sprengschnüre eingesetzt werden,
 
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.
+10. Aufbau oder Abbau von Massivbauelementen, wenn dazu aufgrund deren Masse kraftbetriebene Arbeitsmittel zum Heben von Lasten oder kraftbetriebene Arbeitsmittel zum anderweitigen Versetzen von Lasten eingesetzt werden.

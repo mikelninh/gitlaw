@@ -14,19 +14,19 @@ Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des Bundesbeamtengesetzes
 
 (1) Die Zuständigkeit für den Erlass von Widerspruchsbescheiden auf den Gebieten des Besoldungs-, Dienstunfall-, Reisekosten-, Umzugskosten-, Trennungsgeld- und Beihilferechts wird folgenden Behörden übertragen, soweit diese oder ihnen nachgeordnete Behörden die Maßnahme getroffen oder abgelehnt haben:
 
-1.
+1. der Generalzolldirektion,
 
-2.
+2. dem Bundeszentralamt für Steuern,
 
-3.
+3. dem Informationstechnikzentrum Bund und
 
-4.
+4. dem Bundesverwaltungsamt.
 
 (2) In allen anderen beamtenrechtlichen Angelegenheiten wird die Zuständigkeit für den Erlass von Widerspruchsbescheiden folgenden Behörden übertragen, soweit diese oder ihnen nachgeordnete Behörden die Maßnahme getroffen oder abgelehnt haben:
 
-1.
+1. der Generalzolldirektion für die Besoldungsgruppen A 2 bis A 16, W 2 und W 3,
 
-2.
+2. den in Absatz 1 Nummer 2 und 3 bezeichneten Stellen für die Besoldungsgruppen A 2 bis A 13 (gehobener Dienst).
 
 (3) Das Bundesministerium der Finanzen kann im Einzelfall die Zuständigkeit abweichend regeln oder selbst entscheiden.
 

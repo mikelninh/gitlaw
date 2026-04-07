@@ -12,55 +12,39 @@ Auf Grund des § 32 Absatz 3 Satz 3 und Absatz 4 Nummer 1 des Luftverkehrsgesetz
 
 ### § 1 — Lufttüchtigkeitsforderungen (Bauvorschriften)
 
-(1) Zur Prüfung der Lufttüchtigkeit nach § 9 Absatz 1 der Verordnung zur Prüfung von Luftfahrtgerät sind als Lufttüchtigkeitsforderungen anzuwenden. Die Festlegung einzelfallabhängiger Zusatzforderungen nach der Verordnung (EU) Nr. 748/2012 der Kommission vom 3. August 2012 zur Festlegung der Durchführungsbestimmungen für die Erteilung von Lufttüchtigkeits- und Umweltzeugnissen für Luftfahrzeuge und zugehörige Produkte, Bau- und Ausrüstungsteile sowie für die Zulassung von Entwicklungs- und Herstellungsbetrieben (ABl. L 224 vom 21.8.2012, S. 1) bleibt hiervon unberührt.
+(1) Zur Prüfung der Lufttüchtigkeit nach § 9 Absatz 1 der Verordnung zur Prüfung von Luftfahrtgerät sind
 
-1.
+1. für Luftschiffe der Kategorie a)Normal-, Nutz- und Zubringerluftschiffe die „Lufttüchtigkeitsforderungen für Luftschiffe der Kategorie Normal und Zubringer (LFLS)“ vom 3. August 1999 (NfL II-103/99, NfL II-25/01),b)Heißluft-Luftschiffe die „Lufttüchtigkeitsforderungen für Heißluft-Luftschiffe (LFHLLS)“ vom 30. Oktober 1997 (BAnz. S. 13 594),c)Verkehr die „Transport Airship Requirements (TAR)“ vom März 2000 (NfL II-22/01), Normal-, Nutz- und Zubringerluftschiffe die „Lufttüchtigkeitsforderungen für Luftschiffe der Kategorie Normal und Zubringer (LFLS)“ vom 3. August 1999 (NfL II-103/99, NfL II-25/01), Heißluft-Luftschiffe die „Lufttüchtigkeitsforderungen für Heißluft-Luftschiffe (LFHLLS)“ vom 30. Oktober 1997 (BAnz. S. 13 594), Verkehr die „Transport Airship Requirements (TAR)“ vom März 2000 (NfL II-22/01),
 
-a)
+2. für sonstiges Luftfahrtgerät a)die in § 1 Absatz 1 Nummer 11 der Luftverkehrs-Zulassungs-Ordnung genannten Vorschriften,b)die „Lufttüchtigkeitsforderungen für Schleppkupplungen“ vom 4. August 1976 (BAnz. Nr. 148 vom 11. August 1976),c)die in NfL II-39/01, II-60/01, II-73/01, II-77/01, II-87/01, II-25/02, II-78/02, II-101/02, II-19/03 und II-29/03 bekannt gemachten Nationalen Technischen Standards, die in § 1 Absatz 1 Nummer 11 der Luftverkehrs-Zulassungs-Ordnung genannten Vorschriften, die „Lufttüchtigkeitsforderungen für Schleppkupplungen“ vom 4. August 1976 (BAnz. Nr. 148 vom 11. August 1976), die in NfL II-39/01, II-60/01, II-73/01, II-77/01, II-87/01, II-25/02, II-78/02, II-101/02, II-19/03 und II-29/03 bekannt gemachten Nationalen Technischen Standards,
 
-b)
+(2) Zur Prüfung der Lufttüchtigkeit nach § 9 Absatz 2 der Verordnung zur Prüfung von Luftfahrtgerät sind für Luftsportgeräte der Kategorie
 
-c)
+1. motorgetriebene, aerodynamisch gesteuerte Ultraleichtflugzeuge die „Lufttüchtigkeitsforderungen für motorgetriebene, aerodynamisch gesteuerte Ultraleichtflugzeuge" vom 19. Mai 2020 (NfL 2-547-20),
 
-2.
+2. schwerkraftgesteuerte Ultraleicht-Flugzeuge a)die „Lufttüchtigkeitsforderungen für schwerkraftgesteuerte Ultraleicht-Flugzeuge Bauart: Trike und Fußstart-UL“ vom 1. Dezember 2021 (NfL 2021-2-651)b)die „Lufttüchtigkeitsforderungen für schwerkraftgesteuerte Ultraleicht-Flugzeuge Bauart: Motorschirm und Motorschirmtrike“ vom 3. Februar 2005 (NfL II-23/05), die „Lufttüchtigkeitsforderungen für schwerkraftgesteuerte Ultraleicht-Flugzeuge Bauart: Trike und Fußstart-UL“ vom 1. Dezember 2021 (NfL 2021-2-651) die „Lufttüchtigkeitsforderungen für schwerkraftgesteuerte Ultraleicht-Flugzeuge Bauart: Motorschirm und Motorschirmtrike“ vom 3. Februar 2005 (NfL II-23/05),
 
-a)
+3. Hängegleiter und Gleitsegel die „Lufttüchtigkeitsforderungen für Hängegleiter und Gleitsegel“ vom 23. Mai 2024 (NfL 2024-2-785),
 
-b)
+4. Sprungfallschirme die „European Technical Standard Order – Personnel Parachute Assemblies“ (ETSO-C23f) in der Fassung vom 21. Februar 2018, die auf den Internetseiten der European Union Aviation Safety Agency (EASA) unter https://www.easa.europa.eu/download/etso/ETSO-C23f_CS-ETSO_13.pdf veröffentlicht ist,
 
-c)
+5. Rettungsgerät für Luftsportgerät die „Lufttüchtigkeitsforderungen für Rettungsgeräte für Ultraleicht-Flugzeuge“ vom 7. September 2017 (NfL 2-366-17),
 
-(2) Zur Prüfung der Lufttüchtigkeit nach § 9 Absatz 2 der Verordnung zur Prüfung von Luftfahrtgerät sind für Luftsportgeräte der Kategorie anzuwenden.
+6. Ultraleichtflugzeuge in der Bauart Drehflügelflugzeuge (Tragschrauber) die „Bauvorschriften für Ultraleichte Tragschrauber (einmotorig)“ vom 15. Januar 2019 (NfL 2-445-19),
 
-1.
+7. aerodynamisch gesteuerte Luftsportgeräte mit einer höchstzulässigen Leermasse bis 120 kg die „Bekanntmachung von Lufttüchtigkeitsanforderungen für aerodynamisch gesteuerte Luftsportgeräte bis 120 kg Leermasse (nicht motorisiert oder motorisiert)" vom 22. März 2012 (NfL II-23/12),
 
-2.
+8. Ultraleichthubschrauber die „Lufttüchtigkeitsforderungen für Ultraleichthubschrauber“ vom 28. Februar 2019 (NfL 2-460-19)
 
-a)
+(3) Zur Prüfung der Lufttüchtigkeit nach § 9 Absatz 3 der Verordnung zur Prüfung von Luftfahrtgerät sind für Flugmodelle der Kategorie
 
-b)
+1. ferngesteuerte Flächenflugmodelle die „Lufttüchtigkeitsforderungen für ferngesteuerte Flächenflugmodelle mit einer höchstzulässigen Startmasse von mehr als 25 kg und bis zu 150 kg“ vom 2. März 2011 (NfL II-21/11),
 
-3.
+2. ferngesteuerte, unbemannte Modell-Heißluft-Ballone die „Lufttüchtigkeitsforderungen für ferngesteuerte, unbemannte Modell-Heißluft-Ballone mit einer höchstzulässigen Startmasse vom mehr als 25 kg und bis zu 150 kg“ vom 2. März 2011 (NfL II-22/11),
 
-4.
+3. ferngesteuerte Modell-Hubschrauber die „Lufttüchtigkeitsforderungen für ferngesteuerte Modell-Hubschrauber mit einer höchstzulässigen Startmasse von mehr als 25 kg und bis zu 150 kg“ vom 2. März 2011 (NfL II-23/11),
 
-5.
-
-6.
-
-7.
-
-8.
-
-(3) Zur Prüfung der Lufttüchtigkeit nach § 9 Absatz 3 der Verordnung zur Prüfung von Luftfahrtgerät sind für Flugmodelle der Kategorie anzuwenden.
-
-1.
-
-2.
-
-3.
-
-4.
+4. ferngesteuerte Modell-Luftschiffe die „Lufttüchtigkeitsforderungen für ferngesteuerte Modell-Luftschiffe mit einer höchstzulässigen Startmasse von mehr als 25 kg und bis zu 150 kg“ vom 2. März 2011 (NfL II-24/11)
 
 ### § 1a — Übergangsregelung
 

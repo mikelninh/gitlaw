@@ -16,11 +16,11 @@ Auf Grund des § 1 Abs. 1 Satz 1 Nr. 1, 2, 5 bis 8, der §§ 3 und 5 Abs. 1, des
 
 (1) Inhaber von Unternehmen der Mineralölwirtschaft mit einer Betriebsstätte im Geltungsbereich dieser Verordnung, die im Rahmen ihres Geschäftsbetriebes die in der Anlage aufgeführten Produkte (Produkte) gewinnen, herstellen, bearbeiten, verarbeiten, beziehen, liefern oder in Rohrleitungen weiterleiten (Unternehmer), können von der zuständigen Behörde verpflichtet werden,
 
-1.
+1. in bestimmter Weise über Produkte zu verfügen,
 
-2.
+2. in bestimmter Weise Produkte zu gewinnen, herzustellen, zu verlagern, in Rohrleitungen weiterzuleiten, zu bearbeiten, zu verarbeiten, sonst innerbetrieblich einzusetzen oder auf sie tatsächlich einzuwirken oder
 
-3.
+3. Verfügungen und Handlungen im Sinne der Nummern 1 und 2 zu unterlassen.
 
 (2) Der Erdölbevorratungsverband steht den Unternehmen nach Absatz 1 gleich; für die Einhaltung der Verpflichtungen sind die Mitglieder des Vorstandes verantwortlich.
 
@@ -32,11 +32,11 @@ Unternehmer nach § 1 Abs. 1 können von der zuständigen Behörde verpflichtet 
 
 ### § 3 — Umfang der Verpflichtung
 
-Verpflichtungen nach den §§ 1 und 2 sind nur zulässig, Sie sind auf das unerläßliche Maß zu beschränken.
+Verpflichtungen nach den §§ 1 und 2 sind nur zulässig,
 
-1.
+1. um die für Zwecke der Verteidigung, insbesondere zur Deckung des Bedarfs der Zivilbevölkerung, der Bundeswehr und der verbündeten Streitkräfte erforderliche Versorgung mit Produkten sicherzustellen und
 
-2.
+2. wenn eine Gefährdung der Versorgung durch marktgerechte Maßnahmen nicht, nicht rechtzeitig oder nur mit unverhältnismäßigen Mitteln zu beheben oder zu verhindern ist.
 
 ## II. Abschnitt: Allgemeine Bewirtschaftung
 
@@ -44,13 +44,13 @@ Verpflichtungen nach den §§ 1 und 2 sind nur zulässig, Sie sind auf das unerl
 
 (1) Schränkt das Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung nach § 1 Abs. 1 Satz 1 Nr. 1, 2, 5 bis 8 des Wirtschaftssicherstellungsgesetzes den Verbrauch oder die Verwendung von Produkten zeitlich oder mengenmäßig ein (Bewirtschaftung), so darf der Unternehmer über diese Produkte nur verfügen, sie beziehen oder verwenden, soweit
 
-1.
+1. eine Verpflichtung nach § 1 Abs. 1 vorliegt,
 
-2.
+2. eine allgemeine Genehmigung nach § 5 Abs. 1 oder 3 erlassen ist,
 
-3.
+3. eine Einzelgenehmigung nach § 5 Abs. 2 erteilt wurde oder
 
-4.
+4. die Lieferung gegen Bezugschein nach § 6 erfolgt.
 
 (2) Die Entnahme von Produkten durch den Unternehmer für eigene Zwecke steht der Verfügung nach Absatz 1 gleich.
 
@@ -58,19 +58,19 @@ Verpflichtungen nach den §§ 1 und 2 sind nur zulässig, Sie sind auf das unerl
 
 (1) In der Rechtsverordnung nach § 4 Abs. 1 kann die Verfügung des Unternehmers über Produkte, deren Bezug oder Verwendung insgesamt oder hinsichtlich bestimmter Arten oder Tatbestände allgemein genehmigt werden, soweit dadurch die für Zwecke der Verteidigung, insbesondere zur Deckung des Bedarfs der Zivilbevölkerung, der Bundeswehr, der verbündeten Streitkräfte und der öffentlichen Verwaltung erforderliche Versorgung mit Produkten nicht gefährdet wird. Dies gilt insbesondere für Produkte, die
 
-1.
+1. zur gewerblichen Bearbeitung oder Verarbeitung oder zur Herstellung von anderen Produkten oder Waren bestimmt sind,
 
-2.
+2. an Unternehmer zum Zwecke der gewerblichen Weiterveräußerung abgegeben werden oder
 
-3.
+3. an öffentliche Auftraggeber und die verbündeten Streitkräfte auf Grund von Verträgen zu liefern sind, die zum Zeitpunkt der Anwendbarkeit der Rechtsverordnung nach § 4 Abs. 1 bestehen, und in denen die zu erbringende Leistung nach Art, Umfang und Zeit bestimmt ist.
 
 (2) Sind Produkte nach § 4 Abs. 1 bewirtschaftet, so kann die zuständige Behörde in Einzelfällen die Verfügung über diese Produkte, deren Bezug oder Verwendung genehmigen, wenn die Voraussetzungen des Absatzes 1 Satz 1 vorliegen.
 
-(3) Wird der Verbrauch von Produkten nach § 4 Abs. 1 eingeschränkt, so kann das Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung für die Übergangszeit bis zur Erteilung von Bezugscheinen allgemein genehmigen, daß in einem zu bestimmenden Zeitraum gegenüber dem Halter eines Kraftfahrzeugs eine festzulegende Menge Vergaser-, Dieselkraftstoff oder Flüssiggas unter der Voraussetzung abgegeben werden kann, daß der Unternehmer In der Rechtsverordnung ist zu bestimmen, ob und inwieweit die Abgabe dem Halter des Kraftfahrzeugs auf seine Zuteilung nach § 6 anzurechnen ist.
+(3) Wird der Verbrauch von Produkten nach § 4 Abs. 1 eingeschränkt, so kann das Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung für die Übergangszeit bis zur Erteilung von Bezugscheinen allgemein genehmigen, daß in einem zu bestimmenden Zeitraum gegenüber dem Halter eines Kraftfahrzeugs eine festzulegende Menge Vergaser-, Dieselkraftstoff oder Flüssiggas unter der Voraussetzung abgegeben werden kann, daß der Unternehmer
 
-1.
+1. über die Abgabe eine Liste führt, die das Datum der Abgabe, das amtliche Kennzeichen oder das Versicherungskennzeichen des betankten Kraftfahrzeugs, Art und Menge der Abgabe sowie die Unterschrift des Empfängers enthält und
 
-2.
+2. die abgegebene Menge mit dem Namensstempel der Tankstelle in ein zu bestimmendes Kontrollpapier einträgt.
 
 ### § 6 — Bezugscheine
 
@@ -90,37 +90,13 @@ Verpflichtungen nach den §§ 1 und 2 sind nur zulässig, Sie sind auf das unerl
 
 ### § 7 — Meldung des Aufkommens und der Verarbeitung
 
-(1) Um die für Zwecke der Verteidigung, insbesondere zur Deckung des Bedarfs der Zivilbevölkerung, der Bundeswehr und der verbündeten Streitkräfte erforderliche Versorgung mit Produkten sicherzustellen, haben nach § 1 Abs. 1 verpflichtete Unternehmer der zuständigen Behörde für den abgelaufenen, den laufenden und den nächsten Monat folgende Angaben zu melden: Als Produkte im Sinne der Nummern 1 und 2 gelten auch andere zur Herstellung von Fertigprodukten erforderliche Einsatzstoffe sowie die aus anderen Rohstoffen gewonnenen, den Produkten gleichstehende Erzeugnisse.
+(1) Um die für Zwecke der Verteidigung, insbesondere zur Deckung des Bedarfs der Zivilbevölkerung, der Bundeswehr und der verbündeten Streitkräfte erforderliche Versorgung mit Produkten sicherzustellen, haben nach § 1 Abs. 1 verpflichtete Unternehmer der zuständigen Behörde für den abgelaufenen, den laufenden und den nächsten Monat folgende Angaben zu melden:
 
-1.
+1. nach Art und Mengea)die inländische Rohölförderung,b)die Ein- und Ausfuhr von Rohöl und Produkten nach Ursprungs- und Bestimmungsländern,c)die Zugänge von Rohöl und Produkten aus dem Inland,d)den Absatz von Rohöl und Produkten im Inland nach Abnehmergruppen; gesondert auszuweisen sind die Ablieferungen an die See- und Binnenschiffahrt, die Luftfahrt, die chemische Industrie und an eigene sowie verbündete Streitkräfte,e)den Einsatz von Rohöl, von zur Verarbeitung bestimmten Produkten und sonstigen Einsatzstoffen in Verarbeitungsanlagen, den zur Herstellung von Produkten benötigten Eigenverbrauch und die Herstellung von Produkten; die inländische Rohölförderung, die Ein- und Ausfuhr von Rohöl und Produkten nach Ursprungs- und Bestimmungsländern, die Zugänge von Rohöl und Produkten aus dem Inland, den Absatz von Rohöl und Produkten im Inland nach Abnehmergruppen; gesondert auszuweisen sind die Ablieferungen an die See- und Binnenschiffahrt, die Luftfahrt, die chemische Industrie und an eigene sowie verbündete Streitkräfte, den Einsatz von Rohöl, von zur Verarbeitung bestimmten Produkten und sonstigen Einsatzstoffen in Verarbeitungsanlagen, den zur Herstellung von Produkten benötigten Eigenverbrauch und die Herstellung von Produkten;
 
-a)
+2. unterteilt nach Art und Menge der Produktea)die zur inländischen Versorgung bestimmten Bestände im Ausland oder auf See,b)die Bestände im Inland,c)die Bestände zu Erfüllung der Pflichtbevorratung im Bereich der Europäischen Gemeinschaft,d)die Bestandsveränderungen durch Verluste; die zur inländischen Versorgung bestimmten Bestände im Ausland oder auf See, die Bestände im Inland, die Bestände zu Erfüllung der Pflichtbevorratung im Bereich der Europäischen Gemeinschaft, die Bestandsveränderungen durch Verluste;
 
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-3.
-
-a)
-
-b)
-
-c)
+3. die Kapazitätena)der Raffinerien, Konversions- und Nachverarbeitungsanlagen,b)der zur Weiterleitung von Produkten bestimmten Rohrleitungen,c)der Tanklager mit einem Fassungsvermögen ab 1 000 Kubikmeter. der Raffinerien, Konversions- und Nachverarbeitungsanlagen, der zur Weiterleitung von Produkten bestimmten Rohrleitungen, der Tanklager mit einem Fassungsvermögen ab 1 000 Kubikmeter.
 
 (2) Das Bundesministerium für Wirtschaft und Energie bestimmt durch Rechtsverordnung nach § 3 des Wirtschaftssicherstellungsgesetzes, zu welchen Zeitpunkten nach § 1 Abs. 1 verpflichtete Unternehmer die Meldungen abzugeben haben.
 
@@ -136,11 +112,11 @@ c)
 
 (2) Die Meldungen sind schriftlich in doppelter Ausfertigung zu erstatten und müssen folgende Angaben enthalten:
 
-1.
+1. den Namen (Firma) des Unternehmers,
 
-2.
+2. die Anschrift der Tankstelle bzw. Bunkerstation und
 
-3.
+3. die Höhe des Bestandes an bewirtschafteten Produkten in der für diese üblichen Maßeinheit sowie den Stand der Zählwerke für die Messung der Abgabemengen.
 
 (3) Die zuständige Behörde kann bestimmen, daß und zu welchem Zeitpunkt erneut Meldungen abzugeben sind.
 
@@ -150,23 +126,15 @@ c)
 
 (1) Zuständig sind
 
-1.
+1. das Bundesministerium für Wirtschaft und Energie oder die von ihm bestimmte Stelle füra)Verpflichtungen nach den §§ 1 und 2;b)die Erteilung von Bezugscheinen nach § 6 Abs. 1 andas Bundesministerium der Verteidigung für die Bundeswehr und die verbündeten Streitkräfte,das Bundesministerium des Innern, für Bau und Heimat für die Bundespolizei,das Bundesministerium für Wirtschaft und Energie für die Unternehmen, die gemäß Kapitel 12 des Postgesetzes oder Teil 10 Abschnitt 2 des Telekommunikationsgesetzes verpflichtet sind, sowie für die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen,das Bundesministerium für Verkehr und digitale Infrastruktur für die Eisenbahnen des Bundes und das Bundesamt für Logistik und Mobilitätsowiedas Auswärtige Amt oder das Bundeskanzleramt für die diplomatischen und berufskonsularischen Vertretungen, die bevorrechtigten internationalen Organisationen und andere bevorrechtigte Vertretungen; Verpflichtungen nach den §§ 1 und 2; die Erteilung von Bezugscheinen nach § 6 Abs. 1 an das Bundesministerium der Verteidigung für die Bundeswehr und die verbündeten Streitkräfte, das Bundesministerium des Innern, für Bau und Heimat für die Bundespolizei, das Bundesministerium für Wirtschaft und Energie für die Unternehmen, die gemäß Kapitel 12 des Postgesetzes oder Teil 10 Abschnitt 2 des Telekommunikationsgesetzes verpflichtet sind, sowie für die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen, das Bundesministerium für Verkehr und digitale Infrastruktur für die Eisenbahnen des Bundes und das Bundesamt für Logistik und Mobilität sowie das Auswärtige Amt oder das Bundeskanzleramt für die diplomatischen und berufskonsularischen Vertretungen, die bevorrechtigten internationalen Organisationen und andere bevorrechtigte Vertretungen;
 
-a)
+2. das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) für die Erhebung der Meldungen nach § 7;
 
-b)
+3. die Behörden der Wasserstraßen- und Schifffahrtsverwaltung des Bundesa)für die Erteilung von Bezugscheinen nach § 6 Abs. 1 und die Anordnung nach § 6 Abs. 5 zur Deckung des Bedarfs an Produkten für Binnen- und Seeschiffe, die auf Bundeswasserstraßen verkehren,b)gegenüber Bunkerstationen, wenn sie bewirtschaftete Produkte an Schiffe im Sinne des Buchstabens a liefern, für die Anforderung entwerteter Bezugscheine nach § 6 Abs. 6 sowie die Erhebung der Meldungen nach § 8; für die Erteilung von Bezugscheinen nach § 6 Abs. 1 und die Anordnung nach § 6 Abs. 5 zur Deckung des Bedarfs an Produkten für Binnen- und Seeschiffe, die auf Bundeswasserstraßen verkehren, gegenüber Bunkerstationen, wenn sie bewirtschaftete Produkte an Schiffe im Sinne des Buchstabens a liefern, für die Anforderung entwerteter Bezugscheine nach § 6 Abs. 6 sowie die Erhebung der Meldungen nach § 8;
 
-2.
+4. die für Angelegenheiten der Luftfahrt zuständigen höheren Verwaltungsbehörden der Länder - in Ländern, in denen diese nicht bestehen, die für die gewerbliche Wirtschaft zuständige oberste Landesbehörde - für die Erteilung von Bezugscheinen nach § 6 Abs. 1 sowie die Anordnung des Vorranges nach § 6 Abs. 5 zur Deckung des Bedarfs an Produkten für Luftfahrzeuge und den Flugplatzbetrieb;
 
-3.
-
-a)
-
-b)
-
-4.
-
-5.
+5. die Behörden der allgemeinen Verwaltung auf der Kreisstufe in allen übrigen Fällen.
 
 (2) Soweit in Ländern Behörden der allgemeinen Verwaltung auf der Kreisstufe als untere Behörden der allgemeinen Landesverwaltung tätig sind, können die Landesregierungen die Zuständigkeit nach Absatz 1 Nr. 5 ganz oder teilweise auf die Behörden der kreisangehörigen Gemeinden oder Gemeindeverbände übertragen.
 
@@ -180,21 +148,21 @@ b)
 
 ### § 10 — Zuwiderhandlungen
 
-(1) Wer vorsätzlich oder fahrlässig begeht eine Zuwiderhandlung im Sinne des § 18 des Wirtschaftssicherstellungsgesetzes, die nach dem Wirtschaftsstrafgesetz 1954 geahndet wird.
+(1) Wer vorsätzlich oder fahrlässig
 
-1.
+1. einer vollziehbaren Verpflichtung nach § 1, § 2 oder § 6 Abs. 5 nicht nachkommt,
 
-2.
+2. entgegen § 4 Abs. 1, auch in Verbindung mit Abs. 2, über Produkte verfügt, diese entnimmt, bezieht oder verwendet,
 
-3.
+3. entgegen § 6 Abs. 3 Satz 1 einen Bezugschein überträgt,
 
-4.
+4. entgegen § 6 Abs. 4 Produkte nicht in der im Bezugschein bestimmten Art oder Menge abgibt,
 
-5.
+5. entgegen § 6 Abs. 6 Bezugscheine nicht in der vorgeschriebenen Weise entwertet, nicht ein Jahr aufbewahrt oder nicht vorlegt,
 
-6.
+6. entgegen § 7 Abs. 1 Satz 1 Nr. 1 oder 2, auch in Verbindung mit einer Rechtsverordnung nach Abs. 2, eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet oder
 
-7.
+7. entgegen § 8 Abs. 1 oder 2 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet oder einer vollziehbaren Anordnung nach § 8 Abs. 3 nicht oder nicht rechtzeitig nachkommt,
 
 (2) Zuständige Verwaltungsbehörde im Sinne des § 21 Nr. 2 des Wirtschaftssicherstellungsgesetzes ist in den Fällen des Absatzes 1 Nr. 1 die Behörde, die den Bescheid erlassen hat, in den Fällen des Absatzes 1 Nr. 3, 6 und 7 die für die Entgegennahme des Antrags oder der Meldung zuständige Behörde, in Fällen des Absatzes 1 Nr. 2, 4 und 5, soweit die Zuwiderhandlungen mit dem Schiffsbetrieb auf Bundeswasserstraßen in Zusammenhang stehen, die Behörden der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, im übrigen die Behörden der allgemeinen Verwaltung auf der Kreisstufe. Die übergeordnete Behörde ist in den Fällen des § 9 Abs. 4 zuständig.
 
@@ -207,5 +175,3 @@ b)
 (3) § 9 Abs. 2 und 5 ist mit dem Inkrafttreten anwendbar.
 
 ### Anlage — zur Mineralölbewirtschaftungs-Verordnung
-
-Fundstelle des Originaltextes: BGBl. I 1988, 534   Rohöl Raffineriegas Flüssiggas Rohbenzin Vergaserkraftstoff (VK) Testbenzin Flugbenzin Spezialbenzin Flugturbinenkraftstoff, leicht Benzinkomponenten Dieselkraftstoff (DK) Heizöl, leicht (HEL) Petroleum und andere Leuchtöle Flugturbinenkraftstoff, schwer Mitteldestillatkomponenten Heizöl, schwer (HS) HS-Komponenten Bitumen Petrolkoks Andere Rückstände Wachse Paraffine Vaseline Motorenöle Turbinenöle Getriebeöle Hydrauliköle Metallbearbeitungsöle Korrosionsschutzmittel Formenöle Weißöle Elektro-Isolieröle Schmierfette Extrakte aus der Schmierölraffination Basisöle Sonstige mineralische Öle für besondere Anwendung Sonstige Schmieröle

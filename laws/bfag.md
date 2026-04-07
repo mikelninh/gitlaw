@@ -28,17 +28,11 @@
 
 ### § 8
 
-Die Satzung muß Bestimmungen enthalten über 3. 4. 7. 8. 10.
+Die Satzung muß Bestimmungen enthalten über
 
-1.
+1. Mitgliederzahl, Rechte und Pflichten der Vertreterversammlung, Art der Beschlußfassung der Vertreterversammlung sowie ihre Vertretung nach außen,
 
-2.
-
-5.
-
-6.
-
-9.
+2. Mitgliederzahl, Art der Beschlußfassung des Vorstands und seine Vertretung nach außen, Form der Willenserklärung des Vorstands sowie seiner Unterschrift für die Bundesversicherungsanstalt,
 
 ## V.: Beamte, Angestellte, Arbeiter
 
@@ -70,11 +64,13 @@ Die Satzung muß Bestimmungen enthalten über 3. 4. 7. 8. 10.
 
 ### § 16
 
-(1) Von der Gesamtzahl der am 31. Dezember 1952 bei den Landesversicherungsanstalten beschäftigten Beamten ist von der Bundesversicherungsanstalt die Anzahl zu übernehmen, die dem Verhältnis der Zahl der für Januar 1953 im Bezirk der Landesversicherungsanstalt gezahlten Renten aus der Rentenversicherung der Arbeiter zur Zahl der aus der Rentenversicherung der Angestellten gezahlten Renten entspricht. Im übrigen gelten, soweit in § 31 nichts anderes bestimmt ist, für die Beamten die Vorschriften des Kapitels V des Gesetzes zur Änderung von Vorschriften auf dem Gebiete des allgemeinen Beamten-, des Besoldungs- und des Versorgungsrechts vom 30. Juni 1933 in der Bundesfassung vom 24. Januar 1951 (Bundesgesetzbl. I S. 87, 97).
-
 (2) ...
 
-(3) Außer in den Fällen des § 23 Abs. 3 des Gesetzes zur Änderung von Vorschriften auf dem Gebiete des allgemeinen Beamten-, des Besoldungs- und des Versorgungsrechts kann der Vorstand der Bundesversicherungsanstalt innerhalb eines Jahres nach Inkrafttreten dieses Gesetzes Beamte in den Wartestand versetzen, die
+(3)
+
+1. für den Dienst in der Bundesversicherungsanstalt nicht geeignet sind,
+
+2. nach dem 31. Dezember 1951a)bei einer Landesversicherungsanstalt unter Nichtbeachtung der beamtenrechtlichen Vorschriften ernannt oder als solche befördert oder b)aus anderen Verwaltungen an eine Landesversicherungsanstalt versetzt worden sind. bei einer Landesversicherungsanstalt unter Nichtbeachtung der beamtenrechtlichen Vorschriften ernannt oder als solche befördert oder aus anderen Verwaltungen an eine Landesversicherungsanstalt versetzt worden sind.
 
 (4) Für die Beamten, welche die Bundesversicherungsanstalt nach Absatz 3 in den Wartestand versetzt, erstattet die abgebende Landesversicherungsanstalt die Hälfte des Versorgungsaufwands, insbesondere Wartegeld, Ruhegehalt und Hinterbliebenenbezüge.
 
@@ -86,13 +82,9 @@ Die Bundesversicherungsanstalt ist "entsprechende Einrichtung" im Sinne des § 6
 
 ### § 18
 
-(1) Für die bei den Landesversicherungsanstalten beschäftigten Angestellten gilt § 16 Abs. 1 Satz 1 und Abs. 2 entsprechend. Die zu übernehmenden Angestellten treten zu dem nach § 26 bestimmten Zeitpunkt nach der für sie bisher maßgebenden Vergütungsgruppe in den Dienst der Bundesversicherungsanstalt.
-
 (2) Sind die Dienstbezüge eines Angestellten nach dem Stand am Tag vor der Übernahme höher als die am Tag der Übernahme zustehenden Dienstbezüge, so wird der Unterschiedsbetrag als persönliche Ausgleichszulage so lange gewährt, bis er durch Steigen der Dienstbezüge ausgeglichen wird. Hierbei werden nicht angerechnet Änderungen des Wohnungsgeldzuschusses und des örtlichen Sonderzuschlags, die durch Versetzung an einen anderen Ort oder durch Einweisung des Dienstortes in eine andere Ortsklasse eintreten.
 
 (3) Dienstbezüge im Sinne des Absatzes 2 sind sämtliche laufenden Geldbezüge aus dem Dienstvertrag mit Ausnahme von Kinderzuschlägen, Überstundenvergütungen, Aufwandsentschädigungen, Reisekostenvergütungen und Trennungsgeldern.
-
-(4) Die bei den Landesversicherungsanstalten beschäftigten Arbeiter, die am 31. Dezember 1952 ausschließlich für Zwecke der Angestelltenversicherung tätig waren, treten zu dem nach § 26 bestimmten Zeitpunkt nach der für sie bisher maßgebenden Lohngruppe in den Dienst der Bundesversicherungsanstalt. Die Absätze 2 und 3 gelten entsprechend.
 
 ## II.: Vermögen
 
@@ -152,8 +144,6 @@ Gerichtsgebühren und andere Abgaben, die aus Anlaß und in Durchführung der Vo
 
 (1) Die Durchführung der Angestelltenversicherung für Seeleute und Seelotsen richtet sich ausschließlich nach der zwischen der Reichsversicherungsanstalt für Angestellte und der Seekasse getroffenen Vereinbarung vom 16. Dezember 1943. Änderungen und Ergänzungen, welche die Bundesversicherungsanstalt und die Seekasse vereinbaren, bedürfen der Genehmigung des Bundesministeriums für Arbeit und Soziales.
 
-(2) Soweit in der Verordnung über die Durchführung der deutschen Sozialversicherung bei Auslandsaufenthalt vom 29. März 1951 (Bundesgesetzblatt I S. 230) die Landesversicherungsanstalt Rheinprovinz für Angelegenheiten der Angestelltenversicherung zuständig ist, tritt unbeschadet der Vorschrift des Absatzes 1 an ihre Stelle die Bundesversicherungsanstalt.
-
 > § 29 Abs. 2 Kursivdruck: V aufgeh. durch § 3 Satz 2 V v. 4.12.1972 I 2232 mWv 8.12.1972
 
 ### § 30
@@ -165,8 +155,6 @@ Gerichtsgebühren und andere Abgaben, die aus Anlaß und in Durchführung der Vo
 (weggefallen)
 
 ### § 32
-
-Soweit in anderen Gesetzen auf Vorschriften oder Bezeichnungen verwiesen wird, die durch dieses Gesetz aufgehoben oder geändert werden, treten an deren Stelle die entsprechenden Vorschriften oder die Bezeichnungen dieses Gesetzes.
 
 ### § 33
 

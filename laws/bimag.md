@@ -8,7 +8,7 @@
 
 ### § 1 — Errichtung, Zweck, Sitz
 
-(1) Im Geschäftsbereich des Bundesministeriums der Finanzen wird eine bundesunmittelbare rechtsfähige Anstalt des öffentlichen Rechts zum 1. Januar 2005 errichtet. Sie trägt die Bezeichnung "Bundesanstalt für Immobilienaufgaben" (BImA). Die Bundesanstalt nimmt die ihr vom Bund übertragenen liegenschaftsbezogenen sowie sonstigen Aufgaben eigenverantwortlich wahr. Hierzu gehören insbesondere die Verwaltung von Liegenschaften, die von Dienststellen der Bundesverwaltung zur Erfüllung ihrer Aufgaben genutzt werden (Dienstliegenschaften), sowie die zivilen Bauangelegenheiten des Bundes insbesondere auf den Dienstliegenschaften; die gesetzlich festgelegte Zuständigkeit des Bundesamtes für Bauwesen und Raumordnung für die Durchführung von Bauaufgaben bleibt unberührt. Die Bundesanstalt hat das Ziel, eine einheitliche Verwaltung des Liegenschaftsvermögens des Bundes nach kaufmännischen Grundsätzen und unter Berücksichtigung des in § 15 des Bundes-Klimaschutzgesetzes festgelegten Ziels der klimaneutralen Bundesverwaltung bis 2030 sowie der Vorbildfunktion öffentlicher Gebäude bei der energetischen Sanierung vorzunehmen und nicht betriebsnotwendiges Vermögen wirtschaftlich zu veräußern.
+(1) Im Geschäftsbereich des Bundesministeriums der Finanzen wird eine bundesunmittelbare rechtsfähige Anstalt des öffentlichen Rechts zum 1. Januar 2005 errichtet. Sie trägt die Bezeichnung "Bundesanstalt für Immobilienaufgaben" (BImA). Die Bundesanstalt nimmt die ihr vom Bund übertragenen liegenschaftsbezogenen sowie sonstigen Aufgaben eigenverantwortlich wahr. Hierzu gehören insbesondere die Verwaltung von Liegenschaften, die von Dienststellen der Bundesverwaltung zur Erfüllung ihrer Aufgaben genutzt werden (Dienstliegenschaften), sowie die zivilen Bauangelegenheiten des Bundes insbesondere auf den Dienstliegenschaften; die gesetzlich festgelegte Zuständigkeit des Bundesamtes für Bauwesen und Raumordnung für die Durchführung von Bauaufgaben bleibt unberührt. Die Bundesanstalt hat das Ziel, eine einheitliche Verwaltung des Liegenschaftsvermögens des Bundes nach kaufmännischen Grundsätzen und unter Berücksichtigung des in § 15 des Bundes-Klimaschutzgesetzes festgelegten Ziels der klimaneutralen Bundesverwaltung bis 2030 sowie der Vorbildfunktion öffentlicher Gebäude bei der energetischen Sanierung vorzunehmen und nicht betriebsnotwendiges Vermögen wirtschaftlich zu veräußern.
 
 (1a) Die Bundesanstalt hat bei der Erfüllung ihrer Aufgaben nach diesem Gesetz auch bau-, wohnungs-, stadtentwicklungspolitische und ökologische Ziele des Bundes zu unterstützen.
 
@@ -40,39 +40,39 @@
 
 (1) Die Bundesanstalt wird von einem Vorstand geleitet und vertreten. Er besteht aus der Sprecherin oder dem Sprecher und bis zu zwei weiteren Mitgliedern. Aufgaben und Befugnisse des Vorstandes bestimmen dieses Gesetz und die Satzung. Die Sprecherin oder der Sprecher führt die Amtsbezeichnung "Sprecherin des Vorstandes der Bundesanstalt für Immobilienaufgaben" oder "Sprecher des Vorstandes der Bundesanstalt für Immobilienaufgaben"; die übrigen Mitglieder führen die Amtsbezeichnung "Mitglied des Vorstandes der Bundesanstalt für Immobilienaufgaben".
 
-(2) Bei der Bundesanstalt wird ein Verwaltungsrat gebildet. Der Verwaltungsrat überwacht den Vorstand der Bundesanstalt und unterstützt diesen bei der Erfüllung seiner Aufgaben. Der Vorstand hat den Verwaltungsrat regelmäßig über die Geschäftsführung der Bundesanstalt zu unterrichten. Der Verwaltungsrat gibt sich im Einvernehmen mit dem Bundesministerium der Finanzen eine Geschäftsordnung. Der Verwaltungsrat trifft auf Vorlage des Vorstands Beschlüsse über Die Beschlüsse des Verwaltungsrats ergehen mit einfacher Mehrheit. Bei Stimmengleichheit entscheidet die Stimme der oder des Vorsitzenden. Die oder der Vorsitzende ist berechtigt, einem nach Satz 5 gefassten Beschluss zu widersprechen (Vetorecht), wenn sie oder er der Auffassung ist, dass der Beschluss wichtigen Interessen des Bundes nicht gerecht wird, insbesondere im Widerspruch zu den der Bundesanstalt übertragenen Aufgaben steht. Die Ausübung des Vetorechts soll auf Beschlüsse mit erheblichen finanziellen Auswirkungen für die Bundesanstalt beschränkt werden. Beschließt der Verwaltungsrat mit der Mehrheit seiner Mitglieder, das Vetorecht der oder des Vorsitzenden zurückzuweisen, entscheidet das Bundesministerium der Finanzen auf Vorlage der oder des Vorsitzenden. Sofern das Vetorecht nicht zurückgewiesen wird, gilt die Vorlage der oder des Vorsitzenden als beschlossen.
+(2) Bei der Bundesanstalt wird ein Verwaltungsrat gebildet. Der Verwaltungsrat überwacht den Vorstand der Bundesanstalt und unterstützt diesen bei der Erfüllung seiner Aufgaben. Der Vorstand hat den Verwaltungsrat regelmäßig über die Geschäftsführung der Bundesanstalt zu unterrichten. Der Verwaltungsrat gibt sich im Einvernehmen mit dem Bundesministerium der Finanzen eine Geschäftsordnung. Der Verwaltungsrat trifft auf Vorlage des Vorstands Beschlüsse über
 
-1.
+1. die Feststellung und wesentliche Änderungen des Wirtschaftsplans einschließlich der Finanzierung und Durchführung von Bauprojekten des zivilen Bundesbaus in Zuständigkeit der Bundesanstalt,
 
-2.
+2. die Feststellung des Jahresabschlusses,
 
-3.
+3. die Empfehlung zur Höhe der Abführung,
 
-4.
+4. die Entlastung des Vorstands und
 
-5.
+5. die Verwendung des Bilanzgewinns.
 
-(3) Der Verwaltungsrat besteht aus Die Mitglieder des Verwaltungsrats werden durch das Bundesministerium der Finanzen für eine Amtszeit von vier Jahren berufen. Die in Satz 1 Nummer 3 genannten Mitglieder des Deutschen Bundestages werden vom Deutschen Bundestag vorgeschlagen; sie werden für die Dauer der Wahlperiode des Deutschen Bundestages in den Verwaltungsrat berufen und bleiben nach Ende der Wahlperiode des Deutschen Bundestages noch so lange im Amt, bis die neuen Mitglieder berufen worden sind. Eine erneute Berufung ist möglich. Die in Satz 1 Nummer 4 genannten sachverständigen Personen werden im Einvernehmen mit dem Haushaltsausschuss und dem Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen des Deutschen Bundestages berufen. Näheres regelt die Geschäftsordnung.
+(3) Der Verwaltungsrat besteht aus
 
-1.
+1. der oder dem Vorsitzenden, die oder der vom Bundesministerium der Finanzen entsandt wird,
 
-2.
+2. jeweils einer Vertreterin oder einem Vertreter, die oder der vom Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen, vom Bundesministerium der Verteidigung und vom Bundesministerium für Wirtschaft und Klimaschutz entsandt werden,
 
-3.
+3. bis zu fünf Mitgliedern des Deutschen Bundestages, darunter die oder der Vorsitzende der Kommission des Ältestenrates für Bau- und Raumangelegenheiten des Deutschen Bundestages, und
 
-4.
+4. bis zu vier weiteren sachverständigen Personen.
 
-(4) Das Bundesministerium der Finanzen erlässt die Satzung der Bundesanstalt. In die Satzung sind insbesondere Bestimmungen aufzunehmen über Die Satzung wird im Bundesanzeiger veröffentlicht.
+(4) Das Bundesministerium der Finanzen erlässt die Satzung der Bundesanstalt. In die Satzung sind insbesondere Bestimmungen aufzunehmen über
 
-1.
+1. den Aufbau und die Organisation,
 
-2.
+2. die Aufgaben und Befugnisse des Vorstandes,
 
-3.
+3. die Aufgaben und Befugnisse eines Verwaltungsrates,
 
-4.
+4. die rechtsgeschäftliche Vertretung,
 
-5.
+5. die Wirtschaftsführung einschließlich Buchführung und Rechnungslegung.
 
 ### § 5 — Rechtsstellung der Vorstandsmitglieder
 
@@ -80,7 +80,7 @@
 
 (2) Die Mitglieder des Vorstandes werden von der Bundespräsidentin oder vom Bundespräsidenten auf Vorschlag der Bundesministerin oder des Bundesministers der Finanzen ernannt. Das Amtsverhältnis der Mitglieder des Vorstandes beginnt mit der Aushändigung der Ernennungsurkunde, wenn nicht in der Urkunde ein späterer Tag bestimmt ist. Es endet mit Ablauf der Amtszeit, Erreichen der Altersgrenze des § 51 Abs. 1 und 2 des Bundesbeamtengesetzes oder mit der Entlassung. Die Bundespräsidentin oder der Bundespräsident entlässt ein Mitglied des Vorstandes auf dessen Verlangen oder auf Beschluss der Bundesregierung bei gestörtem Vertrauensverhältnis oder aus wichtigem Grund. Vor dem Beschluss ist dem Mitglied des Vorstandes Gelegenheit zur Stellungnahme zu geben. Im Falle der Beendigung des Amtsverhältnisses erhält das Mitglied des Vorstandes eine von der Bundespräsidentin oder dem Bundespräsidenten vollzogene Urkunde. Die Entlassung auf Verlangen wird mit der Aushändigung der Urkunde wirksam, wenn in ihr nicht ausdrücklich ein späterer Tag bestimmt ist. Die Entlassung aus wichtigem Grund oder bei gestörtem Vertrauensverhältnis wird mit dem Vollzug des Beschlusses der Bundesregierung wirksam, wenn sie sie nicht ausdrücklich für einen späteren Tag beschließt.
 
-(3) Die Mitglieder des Vorstandes leisten nach Aushändigung der Ernennungsurkunde vor der Bundesministerin oder dem Bundesminister der Finanzen folgenden Eid: Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
+(3) Die Mitglieder des Vorstandes leisten nach Aushändigung der Ernennungsurkunde vor der Bundesministerin oder dem Bundesminister der Finanzen folgenden Eid:
 
 (4) Im Übrigen werden die Rechtsverhältnisse der Mitglieder des Vorstandes durch Verträge geregelt, die das Bundesministerium der Finanzen mit den Mitgliedern des Vorstandes schließt.
 
@@ -100,13 +100,13 @@
 
 ### § 7 — Wirtschaftsplan
 
-(1) Der Vorstand stellt vor Beginn des Geschäftsjahres einen Wirtschaftsplan auf, der umfasst. In den Wirtschaftsplan können Mittel zur Bildung von Rücklagen eingestellt werden. Geschäftsjahr ist das Kalenderjahr. Einzelheiten regelt die Satzung.
+(1) Der Vorstand stellt vor Beginn des Geschäftsjahres einen Wirtschaftsplan auf, der
 
--
+- eine Vorschau-Gewinn- und Verlustrechnung,
 
--
+- eine Überleitungsrechnung auf Einnahmen und Ausgaben einschließlich der Investitionsplanung,
 
--
+- eine Personalplanung
 
 (2) Der Wirtschaftsplan bedarf der Genehmigung des Verwaltungsrats. Die Abführung an den Bundeshaushalt erfolgt auf der Grundlage des Wirtschaftsplanes. Die Höhe der Abführung soll sich am Jahresüberschuss der Bundesanstalt orientieren.
 
@@ -116,7 +116,7 @@
 
 (2) Das der Bundesanstalt übertragene Vermögen ist nach handelsrechtlichen Grundsätzen zu bewerten.
 
-(3) Die Bundesanstalt stellt für jedes Geschäftsjahr einen Jahresabschluss, einen Lagebericht nach handelsrechtlichen Grundsätzen sowie eine Liquiditätsrechnung auf und legt sie dem Bundesministerium der Finanzen vor. Näheres regeln die Satzung und die vom Bundesministerium der Finanzen zu erlassenden Wirtschaftsführungsbestimmungen. § 109 Abs. 2 Satz 2 bis 4 der Bundeshaushaltsordnung ist anzuwenden. § 69 der Bundeshaushaltsordnung gilt entsprechend.
+(3) Die Bundesanstalt stellt für jedes Geschäftsjahr einen Jahresabschluss, einen Lagebericht nach handelsrechtlichen Grundsätzen sowie eine Liquiditätsrechnung auf und legt sie dem Bundesministerium der Finanzen vor. Näheres regeln die Satzung und die vom Bundesministerium der Finanzen zu erlassenden Wirtschaftsführungsbestimmungen. § 109 Abs. 2 Satz 2 bis 4 der Bundeshaushaltsordnung ist anzuwenden. § 69 der Bundeshaushaltsordnung gilt entsprechend.
 
 ### § 9 — Prüfungsrecht des Bundesrechnungshofes
 

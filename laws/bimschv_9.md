@@ -12,21 +12,15 @@
 
 ### § 1 — Anwendungsbereich
 
-(1) Für die in der Vierten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über genehmigungsbedürftige Anlagen) genannten Anlagen ist das Verfahren bei der Erteilung nach dieser Verordnung durchzuführen, soweit es nicht in den §§ 8 bis 17 und 19 des Bundes-Immissionsschutzgesetzes oder in § 2 der Vierzehnten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über Anlagen der Landesverteidigung) geregelt ist; § 1 Absatz 2 des Gesetzes über die Umweltverträglichkeitsprüfung bleibt unberührt.
+(1) Für die in der Vierten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über genehmigungsbedürftige Anlagen) genannten Anlagen ist das Verfahren bei der Erteilung
 
-1.
+1. einer Genehmigunga)zur Errichtung und zum Betrieb,b)zur wesentlichen Änderung der Lage, der Beschaffenheit oder des Betriebs oder zur störfallrelevanten Änderung (Änderungsgenehmigung),c)zur Errichtung oder zum Betrieb einer Anlage oder eines Teils einer Anlage oder zur Errichtung und zum Betrieb eines Teils einer Anlage (Teilgenehmigung), zur Errichtung und zum Betrieb, zur wesentlichen Änderung der Lage, der Beschaffenheit oder des Betriebs oder zur störfallrelevanten Änderung (Änderungsgenehmigung), zur Errichtung oder zum Betrieb einer Anlage oder eines Teils einer Anlage oder zur Errichtung und zum Betrieb eines Teils einer Anlage (Teilgenehmigung),
 
-a)
+2. eines Vorbescheides,
 
-b)
+3. einer Zulassung des vorzeitigen Beginns oder
 
-c)
-
-2.
-
-3.
-
-4.
+4. einer nachträglichen Anordnung nach § 17 Abs. 1a des Bundes-Immissionsschutzgesetzes
 
 (2) Ist nach den §§ 6 bis 14 des Gesetzes über die Umweltverträglichkeitsprüfung für die Errichtung und den Betrieb einer Anlage eine Umweltverträglichkeitsprüfung durchzuführen (UVP-pflichtige Anlage), so ist die Umweltverträglichkeitsprüfung jeweils unselbständiger Teil der in Absatz 1 genannten Verfahren. Für die genehmigungsbedürftige Änderung einer Anlage gilt Satz 1 entsprechend. Soweit in den in Absatz 1 genannten Verfahren über die Zulässigkeit des Vorhabens entschieden wird, ist die Umweltverträglichkeitsprüfung nach den Vorschriften dieser Verordnung und den für diese Prüfung in den genannten Verfahren ergangenen allgemeinen Verwaltungsvorschriften durchzuführen.
 
@@ -34,35 +28,35 @@ c)
 
 ### § 1a — Gegenstand der Prüfung der Umweltverträglichkeit
 
-Das Prüfverfahren nach § 1 Absatz 2 umfasst die Ermittlung, Beschreibung und Bewertung der für die Prüfung der Genehmigungsvoraussetzungen sowie der für die Prüfung der Belange des Naturschutzes und der Landschaftspflege bedeutsamen Auswirkungen einer UVP-pflichtigen Anlage auf die folgenden Schutzgüter: Die Auswirkungen nach Satz 1 schließen Auswirkungen des UVP-pflichtigen Vorhabens ein, die aufgrund von dessen Anfälligkeit für schwere Unfälle oder Katastrophen zu erwarten sind, soweit diese schweren Unfälle oder Katastrophen für das UVP-pflichtige Vorhaben relevant sind.
+Das Prüfverfahren nach § 1 Absatz 2 umfasst die Ermittlung, Beschreibung und Bewertung der für die Prüfung der Genehmigungsvoraussetzungen sowie der für die Prüfung der Belange des Naturschutzes und der Landschaftspflege bedeutsamen Auswirkungen einer UVP-pflichtigen Anlage auf die folgenden Schutzgüter:
 
-1.
+1. Menschen, insbesondere die menschliche Gesundheit,
 
-2.
+2. Tiere, Pflanzen und die biologische Vielfalt,
 
-3.
+3. Fläche, Boden, Wasser, Luft, Klima und Landschaft,
 
-4.
+4. kulturelles Erbe und sonstige Sachgüter sowie
 
-5.
+5. die Wechselwirkung zwischen den vorgenannten Schutzgütern.
 
 ### § 2 — Antragstellung
 
 (1) Der Antrag ist von dem Träger des Vorhabens bei der Genehmigungsbehörde schriftlich oder elektronisch zu stellen. Träger des Vorhabens kann auch sein, wer nicht beabsichtigt, die Anlage zu errichten oder zu betreiben.
 
-(2) Sobald der Träger des Vorhabens die Genehmigungsbehörde über das geplante Vorhaben unterrichtet, soll diese ihn im Hinblick auf die Antragstellung beraten und mit ihm den zeitlichen Ablauf des Genehmigungsverfahrens sowie sonstige für die Durchführung dieses Verfahrens erhebliche Fragen erörtern. Sie kann andere Behörden hinzuziehen, soweit dies für Zwecke des Satzes 1 erforderlich ist. Die Erörterung soll insbesondere der Klärung dienen, Bei UVP-pflichtigen Vorhaben gilt ergänzend § 2a.
+(2) Sobald der Träger des Vorhabens die Genehmigungsbehörde über das geplante Vorhaben unterrichtet, soll diese ihn im Hinblick auf die Antragstellung beraten und mit ihm den zeitlichen Ablauf des Genehmigungsverfahrens sowie sonstige für die Durchführung dieses Verfahrens erhebliche Fragen erörtern. Sie kann andere Behörden hinzuziehen, soweit dies für Zwecke des Satzes 1 erforderlich ist. Die Erörterung soll insbesondere der Klärung dienen,
 
-1.
+1. welche Antragsunterlagen bei Antragstellung vorgelegt werden müssen,
 
-2.
+2. welche voraussichtlichen Auswirkungen das Vorhaben auf die Allgemeinheit und die Nachbarschaft haben kann und welche Folgerungen sich daraus für das Verfahren ergeben,
 
-3.
+3. welche Gutachten voraussichtlich erforderlich sind und wie doppelte Gutachten vermieden werden können,
 
-4.
+4. wie der zeitliche Ablauf des Genehmigungsverfahrens ausgestaltet werden kann und welche sonstigen Maßnahmen zur Vereinfachung und Beschleunigung des Genehmigungsverfahrens vom Träger des Vorhabens und von der Genehmigungsbehörde getroffen werden können,
 
-5.
+5. ob eine Verfahrensbeschleunigung dadurch erreicht werden kann, dass der behördliche Verfahrensbevollmächtigte, der die Gestaltung des zeitlichen Verfahrensablaufs sowie die organisatorische und fachliche Bestimmung überwacht, sich auf Vorschlag oder mit Zustimmung und auf Kosten des Antragstellers eines Projektmanagers bedient,
 
-6.
+6. welche Behörden voraussichtlich im Verfahren zu beteiligen sind.
 
 ### § 2a — Unterrichtung über den Untersuchungsrahmen bei UVP-pflichtigen Vorhaben
 
@@ -78,25 +72,25 @@ Das Prüfverfahren nach § 1 Absatz 2 umfasst die Ermittlung, Beschreibung und B
 
 (1) Die Genehmigungsbehörde soll in jeder Stufe des Verfahrens einen Dritten als Projektmanager, der als Verwaltungshelfer beschäftigt werden kann, auf Antrag oder mit Zustimmung des Vorhabenträgers und auf dessen Kosten mit der Vorbereitung und Durchführung von Verfahrensschritten beauftragen. Dies kann insbesondere folgende Verfahrensschritte umfassen:
 
-1.
+1. Die Erstellung von Verfahrensleitplänen unter Bestimmung von Verfahrensabschnitten und Zwischenterminen,
 
-2.
+2. die Fristenkontrolle,
 
-3.
+3. die Koordinierung von erforderlichen Sachverständigengutachten,
 
-4.
+4. das Qualitätsmanagement der Anträge und Unterlagen der Vorhabenträger,
 
-5.
+5. die erste Auswertung der eingereichten Stellungnahmen,
 
-6.
+6. die organisatorische Vorbereitung eines Erörterungstermins,
 
-7.
+7. die Leitung des Erörterungstermins,
 
-8.
+8. den Entwurf der Niederschrift nach § 19,
 
-9.
+9. den Entwurf der Entscheidung nach § 20 sowie
 
-10.
+10. die Prüfung der Vollständigkeit der Unterlagen nach § 7.
 
 (2) Die Entscheidung nach § 20 trifft allein die Genehmigungsbehörde.
 
@@ -104,17 +98,17 @@ Das Prüfverfahren nach § 1 Absatz 2 umfasst die Ermittlung, Beschreibung und B
 
 ### § 3 — Antragsinhalt
 
-Der Antrag muss enthalten Soll die Genehmigungsbehörde zulassen, dass die Genehmigung abweichend von § 19 Absatz 1 und 2 des Bundes-Immissionsschutzgesetzes nicht in einem vereinfachten Verfahren erteilt wird, so ist dies im Antrag anzugeben.
+Der Antrag muss enthalten
 
-1.
+1. die Angabe des Namens und des Wohnsitzes oder des Sitzes des Antragstellers,
 
-2.
+2. die Angabe, ob eine Genehmigung oder ein Vorbescheid beantragt wird und im Falle eines Antrags auf Genehmigung, ob es sich um eine Änderungsgenehmigung handelt, ob eine Teilgenehmigung oder ob eine Zulassung des vorzeitigen Beginns beantragt wird,
 
-3.
+3. die Angabe des Standortes der Anlage, bei ortsveränderlicher Anlage die Angabe der vorgesehenen Standorte,
 
-4.
+4. Angaben über Art und Umfang der Anlage,
 
-5.
+5. die Angabe, zu welchem Zeitpunkt die Anlage in Betrieb genommen werden soll.
 
 ### § 4 — Antragsunterlagen
 
@@ -130,73 +124,59 @@ Der Antrag muss enthalten Soll die Genehmigungsbehörde zulassen, dass die Geneh
 
 (1) Die Unterlagen müssen die für die Entscheidung nach § 20 oder § 21 erforderlichen Angaben enthalten über
 
-1.
+1. die Anlagenteile, Verfahrensschritte und Nebeneinrichtungen, auf die sich das Genehmigungserfordernis gemäß § 1 Absatz 2 der Verordnung über genehmigungsbedürftige Anlagen erstreckt,
 
-2.
+2. den Bedarf an Grund und Boden und den Zustand des Anlagengrundstückes,
 
-3.
+3. das vorgesehene Verfahren oder die vorgesehenen Verfahrenstypen einschließlich der erforderlichen Daten zur Kennzeichnung, wie Angaben zu Art, Menge und Beschaffenheita)der Einsatzstoffe oder -stoffgruppen,b)der Zwischen-, Neben- und Endprodukte oder -produktgruppen,c)der anfallenden Reststoffe der Einsatzstoffe oder -stoffgruppen, der Zwischen-, Neben- und Endprodukte oder -produktgruppen, der anfallenden Reststoffe und darüber hinaus, soweit ein Stoff für Zwecke der Forschung und Entwicklung hergestellt werden soll, der gemäß Artikel 9 Absatz 1, auch in Verbindung mit Absatz 7 der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Chemikalienagentur, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission (ABl. L 396 vom 30.12.2006, S. 1), die zuletzt durch die Verordnung (EU) 2016/863 (ABl. L 144 vom 1.6.2016, S. 27) geändert worden ist, von der Registrierungspflicht ausgenommen ist,d)Angaben zur Identität des Stoffes, soweit vorhanden,e)dem Antragsteller vorliegende Prüfnachweise über physikalische, chemische und physikalisch-chemische sowie toxische und ökotoxische Eigenschaften des Stoffes einschließlich des Abbauverhaltens, Angaben zur Identität des Stoffes, soweit vorhanden, dem Antragsteller vorliegende Prüfnachweise über physikalische, chemische und physikalisch-chemische sowie toxische und ökotoxische Eigenschaften des Stoffes einschließlich des Abbauverhaltens,
 
-a)
+4. die in der Anlage verwendete und anfallende Energie,
 
-b)
+5. mögliche Freisetzungen oder Reaktionen von Stoffen bei Störungen im Verfahrensablauf,
 
-c)
+6. Art und Ausmaß der Emissionen, die voraussichtlich von der Anlage ausgehen werden, wobei sich diese Angaben, soweit es sich um Luftverunreinigungen handelt, auch auf das Rohgas vor einer Vermischung oder Verdünnung beziehen müssen, die Art, Lage und Abmessungen der Emissionsquellen, die räumliche und zeitliche Verteilung der Emissionen sowie über die Austrittsbedingungen und
 
-d)
-
-e)
-
-4.
-
-5.
-
-6.
-
-7.
+7. die wichtigsten vom Antragsteller gegebenenfalls geprüften Alternativen in einer Übersicht.
 
 (2) Soweit schädliche Umwelteinwirkungen hervorgerufen werden können, müssen die Unterlagen auch enthalten:
 
-1.
+1. eine Prognose der zu erwartenden Immissionen, soweit Immissionswerte in Rechts- oder Verwaltungsvorschriften festgelegt sind und nach dem Inhalt dieser Vorschriften eine Prognose zum Vergleich mit diesen Werten erforderlich ist;
 
-2.
+2. im Übrigen Angaben über Art, Ausmaß und Dauer von Immissionen sowie ihre Eignung, schädliche Umwelteinwirkungen herbeizuführen, soweit nach Rechts- oder Verwaltungsvorschriften eine Sonderfallprüfung durchzuführen ist.
 
 (3) Für Anlagen, auf die die Verordnung über die Verbrennung und die Mitverbrennung von Abfällen anzuwenden ist, müssen die Unterlagen über Absatz 1 hinaus Angaben enthalten über
 
-1.
+1. Art (insbesondere Abfallbezeichnung und -schlüssel gemäß der Verordnung über das Europäische Abfallverzeichnis) und Menge der zur Verbrennung vorgesehenen Abfälle,
 
-2.
+2. die kleinsten und größten Massenströme der zur Verbrennung vorgesehenen Abfälle, angegeben als stündliche Einsatzmengen,
 
-3.
+3. die kleinsten und größten Heizwerte der zur Verbrennung vorgesehenen Abfälle,
 
-4.
+4. den größten Gehalt an Schadstoffen in den zur Verbrennung vorgesehenen Abfällen, insbesondere an polychlorierten Biphenylen (PCB), Pentachlorphenol (PCP), Chlor, Fluor, Schwefel und Schwermetallen,
 
-5.
+5. die Maßnahmen für das Zuführen der Abfälle und den Einbau der Brenner, so dass ein möglichst weitgehender Ausbrand erreicht wird und
 
-6.
+6. die Maßnahmen, wie die Emissionsgrenzwerte der Verordnung über Verbrennungsanlagen für Abfälle und ähnliche brennbare Stoffe eingehalten werden.
 
-(4) Der Bericht über den Ausgangszustand nach § 10 Absatz 1a des Bundes-Immissionsschutzgesetzes hat die Informationen zu enthalten, die erforderlich sind, um den Stand der Boden- und Grundwasserverschmutzungen zu ermitteln, damit ein quantifizierter Vergleich mit dem Zustand bei der Betriebseinstellung der Anlage vorgenommen werden kann. Der Bericht über den Ausgangszustand hat die folgenden Informationen zu enthalten: Erfüllen Informationen, die auf Grund anderer Vorschriften erstellt wurden, die Anforderungen der Sätze 1 und 2, so können diese Informationen in den Bericht über den Ausgangszustand aufgenommen oder diesem beigefügt werden. Der Bericht über den Ausgangszustand ist für den Teilbereich des Anlagengrundstücks zu erstellen, auf dem durch Verwendung, Erzeugung oder Freisetzung der relevanten gefährlichen Stoffe durch die Anlage die Möglichkeit der Verschmutzung des Bodens oder des Grundwassers besteht. Die Sätze 1 bis 4 sind bei einem Antrag für eine Änderungsgenehmigung nur dann anzuwenden, wenn mit der Änderung neue relevante gefährliche Stoffe verwendet, erzeugt oder freigesetzt werden oder wenn mit der Änderung erstmals relevante gefährliche Stoffe verwendet, erzeugt oder freigesetzt werden; ein bereits vorhandener Bericht über den Ausgangszustand ist zu ergänzen. § 25 Absatz 2 bleibt unberührt.
+(4) Der Bericht über den Ausgangszustand nach § 10 Absatz 1a des Bundes-Immissionsschutzgesetzes hat die Informationen zu enthalten, die erforderlich sind, um den Stand der Boden- und Grundwasserverschmutzungen zu ermitteln, damit ein quantifizierter Vergleich mit dem Zustand bei der Betriebseinstellung der Anlage vorgenommen werden kann. Der Bericht über den Ausgangszustand hat die folgenden Informationen zu enthalten:
 
-1.
+1. Informationen über die derzeitige Nutzung und, falls verfügbar, über die frühere Nutzung des Anlagengrundstücks,
 
-2.
+2. Informationen über Boden- und Grundwassermessungen, die den Zustand zum Zeitpunkt der Erstellung des Berichts über den Ausgangszustand nach § 10 Absatz 1a des Bundes-Immissionsschutzgesetzes wiedergeben und die dem Stand der Messtechnik entsprechen; neue Boden- und Grundwassermessungen sind nicht erforderlich, soweit bereits vorhandene Informationen die Anforderungen des ersten Halbsatzes erfüllen.
 
 ### § 4b — Angaben zu den Schutzmaßnahmen
 
 (1) Die Unterlagen müssen die für die Entscheidung nach § 20 oder § 21 erforderlichen Angaben enthalten über
 
-1.
+1. die vorgesehenen Maßnahmen zum Schutz vor und zur Vorsorge gegen schädliche Umwelteinwirkungen, insbesondere zur Verminderung der Emissionen, sowie zur Messung von Emissionen und Immissionen,
 
-2.
+2. die vorgesehenen Maßnahmen zum Schutz der Allgemeinheit und der Nachbarschaft vor sonstigen Gefahren, erheblichen Nachteilen und erheblichen Belästigungen, wie Angaben über die vorgesehenen technischen und organisatorischen Vorkehrungena)zur Verhinderung von Störungen des bestimmungsgemäßen Betriebs undb)zur Begrenzung der Auswirkungen, die sich aus Störungen des bestimmungsgemäßen Betriebs ergeben können, zur Verhinderung von Störungen des bestimmungsgemäßen Betriebs und zur Begrenzung der Auswirkungen, die sich aus Störungen des bestimmungsgemäßen Betriebs ergeben können,
 
-a)
+3. die vorgesehenen Maßnahmen zum Arbeitsschutz,
 
-b)
+4. die vorgesehenen Maßnahmen zum Schutz vor schädlichen Umwelteinwirkungen und sonstigen Gefahren, erheblichen Nachteilen und erheblichen Belästigungen für die Allgemeinheit und die Nachbarschaft im Falle der Betriebseinstellung und
 
-3.
-
-4.
-
-5.
+5. die vorgesehenen Maßnahmen zur Überwachung der Emissionen in die Umwelt.
 
 (2) Soweit eine genehmigungsbedürftige Anlage Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, für die ein Sicherheitsbericht nach § 9 der Störfall-Verordnung anzufertigen ist, müssen die Teile des Sicherheitsberichts, die den Abschnitten II Nummer 1, 3 und 4 sowie den Abschnitten III bis V des Anhangs II der Störfall-Verordnung entsprechen, dem Antrag beigefügt werden, soweit sie sich auf die genehmigungsbedürftige Anlage beziehen oder für sie von Bedeutung sind. In einem Genehmigungsverfahren nach § 16 des Bundes-Immissionsschutzgesetzes gilt dies nur, soweit durch die beantragte Änderung sicherheitsrelevante Anlagenteile betroffen sind. In diesem Fall und im Fall eines Genehmigungsverfahrens nach § 16a des Bundes-Immissionsschutzgesetzes kann die Behörde zulassen, dass sich die vorzulegenden Teile des Sicherheitsberichts nur auf diese Anlagenteile beschränken, wenn sie trotz dieser Beschränkung aus sich heraus verständlich und prüffähig erstellt werden können.
 
@@ -206,17 +186,17 @@ b)
 
 Die Unterlagen müssen die für die Entscheidung nach § 20 oder § 21 erforderlichen Angaben enthalten über die Maßnahmen zur Vermeidung oder Verwertung von Abfällen; hierzu sind insbesondere Angaben zu machen zu
 
-1.
+1. den vorgesehenen Maßnahmen zur Vermeidung von Abfällen,
 
-2.
+2. den vorgesehenen Maßnahmen zur ordnungsgemäßen und schadlosen stofflichen oder thermischen Verwertung der anfallenden Abfälle,
 
-3.
+3. den Gründen, warum eine weitergehende Vermeidung oder Verwertung von Abfällen technisch nicht möglich oder unzumutbar ist,
 
-4.
+4. den vorgesehenen Maßnahmen zur Beseitigung nicht zu vermeidender oder zu verwertender Abfälle einschließlich der rechtlichen und tatsächlichen Durchführbarkeit dieser Maßnahmen und der vorgesehenen Entsorgungswege,
 
-5.
+5. den vorgesehenen Maßnahmen zur Verwertung oder Beseitigung von Abfällen, die bei einer Störung des bestimmungsgemäßen Betriebs entstehen können, sowie
 
-6.
+6. den vorgesehenen Maßnahmen zur Behandlung der bei einer Betriebseinstellung vorhandenen Abfälle.
 
 ### § 4d — Angaben zur Energieeffizienz
 
@@ -224,21 +204,21 @@ Die Unterlagen müssen Angaben über vorgesehene Maßnahmen zur sparsamen und ef
 
 ### § 4e — Zusätzliche Angaben zur Prüfung der Umweltverträglichkeit; UVP-Bericht
 
-(1) Der Träger des UVP-pflichtigen Vorhabens hat den Unterlagen einen Bericht zu den voraussichtlichen Auswirkungen des UVP-pflichtigen Vorhabens auf die in § 1a genannten Schutzgüter (UVP-Bericht) beizufügen, der zumindest folgende Angaben enthält: Bei einem UVP-pflichtigen Vorhaben, das einzeln oder im Zusammenwirken mit anderen Projekten oder Plänen geeignet ist, ein Natura 2000-Gebiet erheblich zu beeinträchtigen, muss der UVP-Bericht Angaben zu den Auswirkungen des UVP-pflichtigen Vorhabens auf die Erhaltungsziele dieses Gebiets enthalten.
+(1) Der Träger des UVP-pflichtigen Vorhabens hat den Unterlagen einen Bericht zu den voraussichtlichen Auswirkungen des UVP-pflichtigen Vorhabens auf die in § 1a genannten Schutzgüter (UVP-Bericht) beizufügen, der zumindest folgende Angaben enthält:
 
-1.
+1. eine Beschreibung des UVP-pflichtigen Vorhabens mit Angaben zum Standort, zur Art, zum Umfang und zur Ausgestaltung, zur Größe und zu anderen wesentlichen Merkmalen des Vorhabens,
 
-2.
+2. eine Beschreibung der Umwelt und ihrer Bestandteile im Einwirkungsbereich des UVP-pflichtigen Vorhabens,
 
-3.
+3. eine Beschreibung der Merkmale des UVP-pflichtigen Vorhabens und des Standorts, mit denen das Auftreten erheblicher nachteiliger Auswirkungen des UVP-pflichtigen Vorhabens auf die in § 1a genannten Schutzgüter vermieden, vermindert oder ausgeglichen werden soll,
 
-4.
+4. eine Beschreibung der geplanten Maßnahmen, mit denen das Auftreten erheblicher nachteiliger Auswirkungen des UVP-pflichtigen Vorhabens auf die in § 1a genannten Schutzgüter vermieden, vermindert oder ausgeglichen werden soll, sowie eine Beschreibung geplanter Ersatzmaßnahmen,
 
-5.
+5. eine Beschreibung der möglichen erheblichen Auswirkungen des UVP-pflichtigen Vorhabens auf die in § 1a genannten Schutzgüter,
 
-6.
+6. eine Beschreibung der vernünftigen Alternativen zum Schutz vor und zur Vorsorge gegen schädliche Umwelteinwirkungen sowie zum Schutz der Allgemeinheit und der Nachbarschaft vor sonstigen Gefahren, erheblichen Nachteilen und erheblichen Belästigungen, die für das UVP-pflichtige Vorhaben und seine spezifischen Merkmale relevant und von dem Träger des UVP-pflichtigen Vorhabens geprüft worden sind, und die Angabe der wesentlichen Gründe für die getroffene Wahl unter Berücksichtigung der jeweiligen Auswirkungen auf die in § 1a genannten Schutzgüter sowie
 
-7.
+7. eine allgemein verständliche, nichttechnische Zusammenfassung des UVP-Berichts.
 
 (2) Der UVP-Bericht muss auch die in der Anlage zu § 4e genannten weiteren Angaben enthalten, soweit diese Angaben für die Entscheidung über die Zulassung des UVP-pflichtigen Vorhabens erforderlich sind.
 
@@ -246,9 +226,9 @@ Die Unterlagen müssen Angaben über vorgesehene Maßnahmen zur sparsamen und ef
 
 (4) Der UVP-Bericht muss den gegenwärtigen Wissensstand und die gegenwärtigen Prüfmethoden berücksichtigen. Er muss die Angaben enthalten, die der Träger des UVP-pflichtigen Vorhabens mit zumutbarem Aufwand ermitteln kann. Die Angaben müssen ausreichend sein, um
 
-1.
+1. der Genehmigungsbehörde eine begründete Bewertung der Auswirkungen des UVP-pflichtigen Vorhabens auf die in § 1a genannten Schutzgüter nach § 20 Absatz 1b zu ermöglichen und
 
-2.
+2. Dritten die Beurteilung zu ermöglichen, ob und in welchem Umfang sie von den Auswirkungen des UVP-pflichtigen Vorhabens auf die in § 1a genannten Schutzgüter betroffen sein können.
 
 (5) Zur Vermeidung von Mehrfachprüfungen hat der Träger des UVP-pflichtigen Vorhabens die vorhandenen Ergebnisse anderer rechtlich vorgeschriebener Prüfungen in den UVP-Bericht einzubeziehen.
 
@@ -282,19 +262,19 @@ Die Genehmigungsbehörde hat dem Antragsteller den Eingang des Antrags und der U
 
 ### § 9 — Inhalt der Bekanntmachung
 
-(1) Die Bekanntmachung muss neben den Angaben nach § 10 Absatz 4 des Bundes-Immissionsschutzgesetzes Folgendes enthalten: Auf die zuständige Genehmigungsbehörde, die für die Beteiligung der Öffentlichkeit maßgebenden Vorschriften sowie eine grenzüberschreitende Behörden- und Öffentlichkeitsbeteiligung nach § 11a ist hinzuweisen.
+(1) Die Bekanntmachung muss neben den Angaben nach § 10 Absatz 4 des Bundes-Immissionsschutzgesetzes Folgendes enthalten:
 
-1.
+1. die in § 3 bezeichneten Angaben,
 
-2.
+2. den Hinweis auf die Auslegungs- und die Einwendungsfrist unter Angabe des jeweils ersten und letzten Tages und
 
-3.
+3. die Bezeichnung der für das Vorhaben entscheidungserheblichen Berichte und Empfehlungen, die der Genehmigungsbehörde zum Zeitpunkt des Beginns des Beteiligungsverfahrens vorliegen.
 
 (1a) Ist das Vorhaben UVP-pflichtig, muss die Bekanntmachung zusätzlich folgende Angaben enthalten:
 
-1.
+1. einen Hinweis auf die UVP-Pflicht des Vorhabens und
 
-2.
+2. die Angabe, dass ein UVP-Bericht vorgelegt wurde.
 
 (2) Zwischen der Bekanntmachung des Vorhabens und dem Beginn der Auslegungsfrist soll eine Woche liegen; maßgebend ist dabei der Tag der zeitlich letzten Veröffentlichung nach § 10 Absatz 3 Satz 1 des Bundes-Immissionsschutzgesetzes.
 
@@ -334,13 +314,13 @@ Spätestens gleichzeitig mit der öffentlichen Bekanntmachung des Vorhabens ford
 
 ### § 13 — Sachverständigengutachten
 
-(1) Die Genehmigungsbehörde holt Sachverständigengutachten ein, soweit dies für die Prüfung der Genehmigungsvoraussetzungen notwendig ist. Der Auftrag hierzu soll möglichst bis zum Zeitpunkt der Bekanntmachung des Vorhabens (§ 8) erteilt werden. Ein Sachverständigengutachten ist in der Regel notwendig Sachverständige können darüber hinaus mit Einwilligung des Antragstellers herangezogen werden, wenn zu erwarten ist, dass hierdurch das Genehmigungsverfahren beschleunigt wird.
+(1) Die Genehmigungsbehörde holt Sachverständigengutachten ein, soweit dies für die Prüfung der Genehmigungsvoraussetzungen notwendig ist. Der Auftrag hierzu soll möglichst bis zum Zeitpunkt der Bekanntmachung des Vorhabens (§ 8) erteilt werden. Ein Sachverständigengutachten ist in der Regel notwendig
 
-1.
+1. zur Beurteilung der Angaben derjenigen Teile des Sicherheitsberichts nach § 9 der Störfall-Verordnung, die Abschnitt II Nummer 1, 3 und 4 sowie den Abschnitten III bis V des Anhangs II der Störfall-Verordnung entsprechen, soweit sie dem Antrag nach § 4b Absatz 2 beizufügen sind;
 
-2.
+2. zur Beurteilung der Wirtschaftlichkeitsanalyse einschließlich des Kosten-Nutzen-Vergleichs gemäß § 6 der KWK-Kosten-Nutzen-Vergleich-Verordnung, es sei denn, es liegt ein Testat einer für die Prüfung der Wirtschaftlichkeitsanalyse nach gesetzlichen Vorschriften zuständigen Bundesbehörde vor, sowie
 
-3.
+3. zur Beurteilung der Angaben zur Finanzlage gemäß § 8 Absatz 2 der KWK-Kosten-Nutzen-Vergleich-Verordnung.
 
 (1a) Bei der Entscheidung, ob vorgelegte Unterlagen durch externe Sachverständige überprüft werden sollen, wird die Standorteintragung nach der Verordnung (EG) Nr. 761/2001 des Europäischen Parlaments und des Rates vom 19. März 2001 über die freiwillige Beteiligung von Organisationen an einem Gemeinschaftssystem für das Umweltmanagement und die Umweltbetriebsprüfung (EMAS) berücksichtigt.
 
@@ -360,17 +340,17 @@ Einwendungen, die auf besonderen privatrechtlichen Titeln beruhen, sind im Erör
 
 ### § 16 — Wegfall
 
-(1) Ein Erörterungstermin findet nicht statt, wenn In den Fällen des Absatzes 1 Satz 1 Nummer 5 soll der Erörterungstermin spätestens vier Wochen nach Ablauf der Einwendungsfrist nach § 10 Absatz 3 Satz 8 des Bundes-Immissionsschutzgesetzes durchgeführt werden. Auf einen Erörterungstermin soll verzichtet werden bei der Errichtung oder Änderung von Windenergieanlagen an Land, bei der Errichtung oder Änderung von Anlagen zur Herstellung von Wasserstoff aus erneuerbaren Energien und bei der Errichtung oder Änderung von Anlagen zur Speicherung von Wasserstoff aus erneuerbaren Energien, die im unmittelbar räumlichen Zusammenhang mit Anlagen zur Herstellung von Wasserstoff aus erneuerbaren Energien stehen, wenn nicht der Antragsteller diesen beantragt. Die Sätze 1 bis 3 gelten auch für UVP-pflichtige Anlagen.
+(1) Ein Erörterungstermin findet nicht statt, wenn
 
-1.
+1. Einwendungen gegen das Vorhaben nicht oder nicht rechtzeitig erhoben worden sind,
 
-2.
+2. die rechtzeitig erhobenen Einwendungen zurückgenommen worden sind,
 
-3.
+3. ausschließlich Einwendungen erhoben worden sind, die auf besonderen privatrechtlichen Titeln beruhen,
 
-4.
+4. die erhobenen Einwendungen nach der Einschätzung der Behörde keiner Erörterung bedürfen oder
 
-5.
+5. der Vorhabenträger die Durchführung eines Erörterungstermins nicht beantragt und die Genehmigungsbehörde nicht im Einzelfall die Durchführung für geboten hält.
 
 (2) Der Antragsteller ist vom Wegfall des Termins zu unterrichten.
 
@@ -394,15 +374,15 @@ Einwendungen, die auf besonderen privatrechtlichen Titeln beruhen, sind im Erör
 
 ### § 19 — Niederschrift
 
-(1) Über den Erörterungstermin ist eine Niederschrift zu fertigen. Die Niederschrift muss Angaben enthalten über Die Niederschrift ist von dem Verhandlungsleiter und, soweit ein Schriftführer hinzugezogen worden ist, auch von diesem zu unterzeichnen. Der Aufnahme in die Verhandlungsniederschrift steht die Aufnahme in eine Schrift gleich, die ihr als Anlage beigefügt und als solche bezeichnet ist; auf die Anlage ist in der Verhandlungsniederschrift hinzuweisen. Die Genehmigungsbehörde kann den Erörterungstermin zum Zwecke der Anfertigung der Niederschrift auf Tonträger aufzeichnen. Die Tonaufzeichnungen sind nach dem Eintritt der Unanfechtbarkeit der Entscheidung über den Genehmigungsantrag zu löschen; liegen im Falle eines Vorbescheidsverfahrens die Voraussetzungen des § 9 Absatz 2 des Bundes-Immissionsschutzgesetzes vor, ist die Löschung nach Eintritt der Unwirksamkeit durchzuführen.
+(1) Über den Erörterungstermin ist eine Niederschrift zu fertigen. Die Niederschrift muss Angaben enthalten über
 
-1.
+1. den Ort und den Tag der Erörterung,
 
-2.
+2. den Namen des Verhandlungsleiters,
 
-3.
+3. den Gegenstand des Genehmigungsverfahrens,
 
-4.
+4. den Verlauf und die Ergebnisse des Erörterungstermins.
 
 (2) Dem Antragsteller ist eine Abschrift der Niederschrift zu überlassen. Auf Anforderung ist auch demjenigen, der rechtzeitig Einwendungen erhoben hat, eine Abschrift der Niederschrift zu überlassen.
 
@@ -412,15 +392,15 @@ Einwendungen, die auf besonderen privatrechtlichen Titeln beruhen, sind im Erör
 
 (1) Sind alle Umstände ermittelt, die für die Beurteilung des Antrags von Bedeutung sind, hat die Genehmigungsbehörde unverzüglich über den Antrag zu entscheiden. Nach dem Ablauf der Einwendungsfrist oder, soweit ein Erörterungstermin nach § 10 Absatz 6 des Bundes-Immissionsschutzgesetzes durchgeführt worden ist, nach dem Erörterungstermin eingehende Stellungnahmen von nach § 11 beteiligten Behörden sollen dabei nicht mehr berücksichtigt werden, es sei denn, die vorgebrachten öffentlichen Belange sind der Genehmigungsbehörde bereits bekannt oder hätten ihr bekannt sein müssen oder sind für die Beurteilung der Genehmigungsvoraussetzungen von Bedeutung.
 
-(1a) Die Genehmigungsbehörde erarbeitet bei UVP-pflichtigen Anlagen eine zusammenfassende Darstellung Die Erarbeitung einer zusammenfassenden Darstellung erfolgt auf der Grundlage der nach den §§ 4 bis 4e beizufügenden Unterlagen, der behördlichen Stellungnahmen nach den §§ 11 und 11a, der Ergebnisse eigener Ermittlungen sowie der Äußerungen und Einwendungen Dritter. Die Darstellung ist möglichst innerhalb eines Monats nach Ablauf der Einwendungsfrist oder, soweit ein Erörterungstermin nach § 10 Absatz 6 des Bundes-Immissionsschutzgesetzes durchgeführt worden ist, des Erörterungstermins zu erarbeiten. Bedarf das Vorhaben der Zulassung durch mehrere Behörden, so obliegt die Erarbeitung der zusammenfassenden Darstellung der Genehmigungsbehörde nur, wenn sie gemäß § 31 Absatz 1 und 2 Satz 1 und 2 des Gesetzes über die Umweltverträglichkeitsprüfung als federführende Behörde bestimmt ist; sie hat die Darstellung im Zusammenwirken zumindest mit den anderen Zulassungsbehörden und der für Naturschutz und Landschaftspflege zuständigen Behörde zu erarbeiten, deren Aufgabenbereich durch das Vorhaben berührt wird.
+(1a) Die Genehmigungsbehörde erarbeitet bei UVP-pflichtigen Anlagen eine zusammenfassende Darstellung
 
-1.
+1. der möglichen Auswirkungen des UVP-pflichtigen Vorhabens auf die in § 1a genannten Schutzgüter, einschließlich der Wechselwirkung,
 
-2.
+2. der Merkmale des UVP-pflichtigen Vorhabens und des Standorts, mit denen erhebliche nachteilige Auswirkungen auf die in § 1a genannten Schutzgüter vermieden, vermindert oder ausgeglichen werden sollen, und
 
-3.
+3. der Maßnahmen, mit denen erhebliche nachteilige Auswirkungen auf die in § 1a genannten Schutzgüter vermieden, vermindert oder ausgeglichen werden sollen, sowie
 
-4.
+4. der Ersatzmaßnahmen bei Eingriffen in Natur und Landschaft.
 
 (1b) Die Genehmigungsbehörde bewertet auf der Grundlage der zusammenfassenden Darstellung und nach den für die Entscheidung maßgeblichen Rechts- und Verwaltungsvorschriften die Auswirkungen des UVP-pflichtigen Vorhabens auf die in § 1a genannten Schutzgüter. Die Bewertung ist zu begründen. Bedarf das Vorhaben der Zulassung durch mehrere Behörden, so haben diese im Zusammenwirken auf der Grundlage der zusammenfassenden Darstellung nach Absatz 1a eine Gesamtbewertung der Auswirkungen vorzunehmen; ist die Genehmigungsbehörde federführende Behörde, so hat sie das Zusammenwirken sicherzustellen. Bei der Entscheidung über den Antrag berücksichtigt die Genehmigungsbehörde die vorgenommene Bewertung oder die Gesamtbewertung nach Maßgabe der hierfür geltenden Vorschriften. Bei der Entscheidung über die Genehmigung der UVP-pflichtigen Anlage müssen die zusammenfassende Darstellung und die begründete Bewertung nach Einschätzung der Genehmigungsbehörde hinreichend aktuell sein.
 
@@ -434,69 +414,53 @@ Einwendungen, die auf besonderen privatrechtlichen Titeln beruhen, sind im Erör
 
 (1) Der Genehmigungsbescheid muss enthalten
 
-1.
+1. die Angabe des Namens und des Wohnsitzes oder des Sitzes des Antragstellers,
 
-2.
+2. die Angabe, dass eine Genehmigung, eine Teilgenehmigung oder eine Änderungsgenehmigung erteilt wird, und die Angabe der Rechtsgrundlage,
 
-3.
+3. die genaue Bezeichnung des Gegenstandes der Genehmigung einschließlich des Standortes der Anlage sowie den Bericht über den Ausgangszustand,
 
-3a.
+3a. die Festlegung der erforderlichen Emissionsbegrenzungen einschließlich der Begründung für die Festlegung weniger strenger Emissionsbegrenzungen nach § 7 Absatz 1b Satz 1 Nummer 2, § 12 Absatz 1b oder § 48 Absatz 1b Satz 1 Nummer 2 des Bundes-Immissionsschutzgesetzes,
 
-4.
+4. die Nebenbestimmungen zur Genehmigung,
 
-5.
+5. die Begründung, aus der die wesentlichen tatsächlichen und rechtlichen Gründe, die die Behörde zu ihrer Entscheidung bewogen haben, und die Behandlung der Einwendungen hervorgehen sollen,
 
-6.
+6. Angaben über das Verfahren zur Beteiligung der Öffentlichkeit,
 
-7.
+7. eine Rechtsbehelfsbelehrung.
 
 (1a) Der Genehmigungsbescheid für UVP-pflichtige Anlagen muss neben den nach Absatz 1 erforderlichen Angaben zumindest noch folgende Angaben enthalten:
 
-1.
+1. eine Beschreibung der vorgesehenen Überwachungsmaßnahmen und
 
-2.
-
-a)
-
-b)
-
-c)
+2. eine ergänzende Begründung, in der folgende Angaben enthalten sind: a)die zusammenfassende Darstellung nach § 20 Absatz 1a,b)die begründete Bewertung nach § 20 Absatz 1b undc)eine Erläuterung, wie die begründete Bewertung nach § 20 Absatz 1b, insbesondere die Angaben des UVP-Berichts nach § 4e, die behördlichen Stellungnahmen nach den §§ 11 und 11a sowie die Äußerungen der Öffentlichkeit nach den §§ 11a und 12, in der Entscheidung berücksichtigt wurden oder wie ihnen anderweitig Rechnung getragen wurde. die zusammenfassende Darstellung nach § 20 Absatz 1a, die begründete Bewertung nach § 20 Absatz 1b und eine Erläuterung, wie die begründete Bewertung nach § 20 Absatz 1b, insbesondere die Angaben des UVP-Berichts nach § 4e, die behördlichen Stellungnahmen nach den §§ 11 und 11a sowie die Äußerungen der Öffentlichkeit nach den §§ 11a und 12, in der Entscheidung berücksichtigt wurden oder wie ihnen anderweitig Rechnung getragen wurde.
 
 (2) Der Genehmigungsbescheid soll den Hinweis enthalten, dass der Genehmigungsbescheid unbeschadet der behördlichen Entscheidungen ergeht, die nach § 13 des Bundes-Immissionsschutzgesetzes nicht von der Genehmigung eingeschlossen werden.
 
-(2a) Außer den nach Absatz 1 erforderlichen Angaben muss der Genehmigungsbescheid für Anlagen nach der Industrieemissions-Richtlinie folgende Angaben enthalten: In den Fällen von Nummer 3 Buchstabe c sind die Zeiträume für die Überwachung so festzulegen, dass sie mindestens alle fünf Jahre für das Grundwasser und mindestens alle zehn Jahre für den Boden betragen, es sei denn, diese Überwachung erfolgt anhand einer systematischen Beurteilung des Verschmutzungsrisikos.
+(2a) Außer den nach Absatz 1 erforderlichen Angaben muss der Genehmigungsbescheid für Anlagen nach der Industrieemissions-Richtlinie folgende Angaben enthalten:
 
-1.
+1. Auflagen zum Schutz des Bodens und des Grundwassers sowie Maßnahmen zur Überwachung und Behandlung der von der Anlage erzeugten Abfälle,
 
-2.
+2. Regelungen für die Überprüfung der Einhaltung der Emissionsgrenzwerte oder sonstiger Anforderungen, im Fall von Messungen a)Anforderungen an die Messmethodik, die Messhäufigkeit und das Bewertungsverfahren zur Überwachung der Emissionen,b)die Vorgabe, dass in den Fällen, in denen ein Wert außerhalb der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten festgelegt wurde, die Ergebnisse der Emissionsüberwachung für die gleichen Zeiträume und Referenzbedingungen verfügbar sein müssen wie sie für die Emissionsbandbreiten der BVT-Schlussfolgerungen gelten, Anforderungen an die Messmethodik, die Messhäufigkeit und das Bewertungsverfahren zur Überwachung der Emissionen, die Vorgabe, dass in den Fällen, in denen ein Wert außerhalb der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten festgelegt wurde, die Ergebnisse der Emissionsüberwachung für die gleichen Zeiträume und Referenzbedingungen verfügbar sein müssen wie sie für die Emissionsbandbreiten der BVT-Schlussfolgerungen gelten,
 
-a)
+3. Anforderungen an a)die regelmäßige Wartung,b)die Überwachung der Maßnahmen zur Vermeidung der Verschmutzung von Boden und Grundwasser sowiec)die Überwachung von Boden und Grundwasser hinsichtlich der in der Anlage verwendeten, erzeugten oder freigesetzten relevanten gefährlichen Stoffe, einschließlich der Zeiträume, in denen die Überwachung stattzufinden hat, die regelmäßige Wartung, die Überwachung der Maßnahmen zur Vermeidung der Verschmutzung von Boden und Grundwasser sowie die Überwachung von Boden und Grundwasser hinsichtlich der in der Anlage verwendeten, erzeugten oder freigesetzten relevanten gefährlichen Stoffe, einschließlich der Zeiträume, in denen die Überwachung stattzufinden hat,
 
-b)
+4. Maßnahmen im Hinblick auf von den normalen Betriebsbedingungen abweichende Bedingungen, wie das An- und Abfahren der Anlage, das unbeabsichtigte Austreten von Stoffen, Störungen, das kurzzeitige Abfahren der Anlage sowie die endgültige Stilllegung des Betriebs,
 
-3.
-
-a)
-
-b)
-
-c)
-
-4.
-
-5.
+5. Vorkehrungen zur weitestgehenden Verminderung der weiträumigen oder grenzüberschreitenden Umweltverschmutzung.
 
 (3) Außer den nach Absatz 1 erforderlichen Angaben muss der Genehmigungsbescheid für Anlagen, auf die die Verordnung über die Verbrennung und die Mitverbrennung von Abfällen anzuwenden ist, Angaben enthalten über
 
-1.
+1. Art (insbesondere Abfallschlüssel und -bezeichnung gemäß der Verordnung über das Europäische Abfallverzeichnis) und Menge der zur Verbrennung zugelassenen Abfälle,
 
-2.
+2. die gesamte Abfallverbrennungs- und Abfallmitverbrennungskapazität der Anlage,
 
-3.
+3. die kleinsten und größten Massenströme der zur Verbrennung zugelassenen Abfälle, angegeben als stündliche Einsatzmenge,
 
-4.
+4. die kleinsten und größten Heizwerte der zur Verbrennung zugelassenen Abfälle und
 
-5.
+5. den größten Gehalt an Schadstoffen in den zur Verbrennung zugelassenen Abfällen, insbesondere an polychlorierten Biphenylen (PCB), Pentachlorphenol (PCP), Chlor, Fluor, Schwefel und Schwermetallen.
 
 ### § 21a — Öffentliche Bekanntmachung und Veröffentlichung des Genehmigungsbescheids
 
@@ -518,27 +482,27 @@ c)
 
 (1) Der Antrag auf Erteilung eines Vorbescheides muss außer den in § 3 genannten Angaben insbesondere die bestimmte Angabe, für welche Genehmigungsvoraussetzungen oder für welchen Standort der Vorbescheid beantragt wird, enthalten.
 
-(2) Der Vorbescheid muss enthalten Bei UVP-pflichtigen Anlagen gilt § 20 Absatz 1a und 1b entsprechend.
+(2) Der Vorbescheid muss enthalten
 
-1.
+1. die Angabe des Namens und des Wohnsitzes oder des Sitzes des Antragstellers,
 
-2.
+2. die Angabe, dass ein Vorbescheid erteilt wird, und die Angabe der Rechtsgrundlage,
 
-3.
+3. die genaue Bezeichnung des Gegenstandes des Vorbescheides,
 
-4.
+4. die Voraussetzungen und die Vorbehalte, unter denen der Vorbescheid erteilt wird,
 
-5.
+5. die Begründung, aus der die wesentlichen tatsächlichen und rechtlichen Gründe, die die Behörde zu ihrer Entscheidung bewogen haben, und die Behandlung der Einwendungen hervorgehen sollen.
 
 (3) Der Vorbescheid soll enthalten
 
-1.
+1. den Hinweis auf § 9 Absatz 2 des Bundes-Immissionsschutzgesetzes,
 
-2.
+2. den Hinweis, dass der Vorbescheid nicht zur Errichtung der Anlage oder von Teilen der Anlage berechtigt,
 
-3.
+3. den Hinweis, dass der Vorbescheid unbeschadet der behördlichen Entscheidungen ergeht, die nach § 13 des Bundes-Immissionsschutzgesetzes nicht von der Genehmigung eingeschlossen werden, und
 
-4.
+4. die Rechtsbehelfsbelehrung.
 
 (4) § 22 gilt entsprechend.
 
@@ -554,29 +518,29 @@ In dem vereinfachten Verfahren sind § 4 Abs. 3, die §§ 8 bis 10a, 12, 14 bis 
 
 (1) Ist in einem Verfahren zur Erteilung einer Genehmigung ein Antrag auf Zulassung des vorzeitigen Beginns im Sinne des § 8a des Bundes-Immissionsschutzgesetzes gestellt, so muss dieser
 
-1.
+1. das öffentliche Interesse oder das berechtigte Interesse des Antragstellers an dem vorzeitigen Beginn darlegen und
 
-2.
+2. die Verpflichtung des Trägers des Vorhabens enthalten, alle bis zur Erteilung der Genehmigung durch die Errichtung, den Probebetrieb und den Betrieb der Anlage verursachten Schäden zu ersetzen und, falls das Vorhaben nicht genehmigt wird, den früheren Zustand wiederherzustellen.
 
 (2) Der Bescheid über die Zulassung des vorzeitigen Beginns muss enthalten
 
-1.
+1. die Angabe des Namens und des Wohnsitzes oder des Sitzes des Antragstellers,
 
-2.
+2. die Angabe, dass der vorzeitige Beginn zugelassen wird, und die Angabe der Rechtsgrundlage,
 
-3.
+3. die genaue Bezeichnung des Gegenstandes des Bescheides,
 
-4.
+4. die Nebenbestimmungen der Zulassung,
 
-5.
+5. die Begründung, aus der die wesentlichen tatsächlichen und rechtlichen Gründe, die die Behörde zu ihrer Entscheidung bewogen haben, hervorgehen sollen.
 
 (3) Der Bescheid über die Zulassung des vorzeitigen Beginns soll enthalten
 
-1.
+1. die Bestätigung der Verpflichtung nach Absatz 1,
 
-2.
+2. den Hinweis, dass die Zulassung jederzeit widerrufen werden kann,
 
-3.
+3. die Bestimmung einer Sicherheitsleistung, sofern dies erforderlich ist, um die Erfüllung der Pflichten des Trägers des Vorhabens zu sichern.
 
 ### § 24b — Verbundene Prüfverfahren bei UVP-pflichtigen Vorhaben
 
@@ -594,9 +558,9 @@ Ist die Genehmigungsbehörde bei der Umweltverträglichkeitsprüfung zugleich Tr
 
 (1a) Abweichend von Absatz 1 sind Verfahren für UVP-pflichtige Vorhaben nach der Fassung dieser Verordnung, die bis zum 16. Mai 2017 galt, zu Ende zu führen, wenn vor dem 16. Mai 2017
 
-1.
+1. das Verfahren zur Unterrichtung über die voraussichtlich beizubringenden Unterlagen in der bis dahin geltenden Fassung des § 2a eingeleitet wurde oder
 
-2.
+2. die Unterlagen nach den §§ 4 bis 4e der bis dahin geltenden Fassung dieser Verordnung vorgelegt wurden.
 
 (2) § 4a Absatz 4 Satz 1 bis 5 ist bei Anlagen, die sich am 2. Mai 2013 in Betrieb befanden oder für die vor diesem Zeitpunkt eine Genehmigung erteilt oder für die vor diesem Zeitpunkt von ihren Betreibern ein vollständiger Genehmigungsantrag gestellt wurde, bei dem ersten nach dem 7. Januar 2014 gestellten Änderungsantrag hinsichtlich der gesamten Anlage anzuwenden, unabhängig davon, ob die beantragte Änderung die Verwendung, die Erzeugung oder die Freisetzung relevanter gefährlicher Stoffe betrifft. Anlagen nach Satz 1, die nicht von Anhang I der Richtlinie 2008/1/EG über die integrierte Vermeidung und Verminderung der Umweltverschmutzung erfasst wurden, haben abweichend von Satz 1 die dort genannten Anforderungen ab dem 7. Juli 2015 zu erfüllen.
 
@@ -608,68 +572,26 @@ Ist die Genehmigungsbehörde bei der Umweltverträglichkeitsprüfung zugleich Tr
 
 Soweit die nachfolgenden Angaben über die in § 4e Absatz 1 genannten Mindestanforderungen hinausgehen und sie für die Entscheidung über die Zulassung des UVP-pflichtigen Vorhabens erforderlich sind, muss nach § 4e Absatz 2 der UVP-Bericht hierzu Angaben enthalten.
 
-1.
+1. Eine Beschreibung des UVP-pflichtigen Vorhabens, insbesondere a)eine Beschreibung des Standorts,b)eine Beschreibung der physischen Merkmale des gesamten UVP-pflichtigen Vorhabens, einschließlich der erforderlichen Abrissarbeiten, soweit relevant, sowie des Flächenbedarfs während der Bau- und der Betriebsphase,c)eine Beschreibung der wichtigsten Merkmale der Betriebsphase des UVP-pflichtigen Vorhabens (insbesondere von Produktionsprozessen), z. B. aa)Energiebedarf und Energieverbrauch,bb)Art und Menge der verwendeten Rohstoffe undcc)Art und Menge der natürlichen Ressourcen (insbesondere Fläche, Boden, Wasser, Tiere, Pflanzen und biologische Vielfalt),d)eine Abschätzung, aufgeschlüsselt nach Art und Quantität, aa)der erwarteten Rückstände und Emissionen (z. B. Verunreinigung des Wassers, der Luft, des Bodens und Untergrunds, Lärm, Erschütterungen, Licht, Wärme, Strahlung) sowiebb)des während der Bau- und Betriebsphase erzeugten Abfalls. eine Beschreibung des Standorts, eine Beschreibung der physischen Merkmale des gesamten UVP-pflichtigen Vorhabens, einschließlich der erforderlichen Abrissarbeiten, soweit relevant, sowie des Flächenbedarfs während der Bau- und der Betriebsphase, eine Beschreibung der wichtigsten Merkmale der Betriebsphase des UVP-pflichtigen Vorhabens (insbesondere von Produktionsprozessen), z. B. aa)Energiebedarf und Energieverbrauch,bb)Art und Menge der verwendeten Rohstoffe undcc)Art und Menge der natürlichen Ressourcen (insbesondere Fläche, Boden, Wasser, Tiere, Pflanzen und biologische Vielfalt), Energiebedarf und Energieverbrauch, Art und Menge der verwendeten Rohstoffe und Art und Menge der natürlichen Ressourcen (insbesondere Fläche, Boden, Wasser, Tiere, Pflanzen und biologische Vielfalt), eine Abschätzung, aufgeschlüsselt nach Art und Quantität, aa)der erwarteten Rückstände und Emissionen (z. B. Verunreinigung des Wassers, der Luft, des Bodens und Untergrunds, Lärm, Erschütterungen, Licht, Wärme, Strahlung) sowiebb)des während der Bau- und Betriebsphase erzeugten Abfalls. der erwarteten Rückstände und Emissionen (z. B. Verunreinigung des Wassers, der Luft, des Bodens und Untergrunds, Lärm, Erschütterungen, Licht, Wärme, Strahlung) sowie des während der Bau- und Betriebsphase erzeugten Abfalls.
 
-a)
+2. Eine Beschreibung der von dem Träger des UVP-pflichtigen Vorhabens geprüften vernünftigen Alternativen (z. B. in Bezug auf Ausgestaltung, Technologie, Standort, Größe und Umfang des UVP-pflichtigen Vorhabens), die für das Vorhaben und seine spezifischen Merkmale relevant sind, und die Angabe der wesentlichen Gründe für die getroffene Wahl unter Berücksichtigung der jeweiligen Auswirkungen auf die in § 1a genannten Schutzgüter.
 
-b)
+3. Eine Beschreibung des aktuellen Zustands der Umwelt und ihrer Bestandteile im Einwirkungsbereich des UVP-pflichtigen Vorhabens und eine Übersicht über die voraussichtliche Entwicklung der Umwelt bei Nichtdurchführung des UVP-pflichtigen Vorhabens, soweit diese Entwicklung gegenüber dem aktuellen Zustand mit zumutbarem Aufwand auf der Grundlage der verfügbaren Umweltinformationen und wissenschaftlichen Erkenntnissen abgeschätzt werden kann.
 
-c)
+4. Eine Beschreibung der möglichen erheblichen Auswirkungen des UVP-pflichtigen Vorhabens auf die in § 1a genannten Schutzgüter. Die Darstellung der Auswirkungen auf die in § 1a genannten Schutzgüter soll den Umweltschutzzielen Rechnung tragen, die nach den Rechtsvorschriften, einschließlich verbindlicher planerischer Vorgaben, maßgebend sind für die Entscheidung über die Zulassung des UVP-pflichtigen Vorhabens. Die Darstellung soll sich auf die Art der Auswirkungen auf die in § 1a genannten Schutzgüter nach Buchstabe a erstrecken. Anzugeben sind jeweils die Art, in der Schutzgüter betroffen sind nach Buchstabe b, und die Ursachen der Auswirkungen nach Buchstabe c.a)Art der Auswirkungen auf die in § 1a genannten SchutzgüterDie Beschreibung der möglichen erheblichen Auswirkungen auf die in § 1a genannten Schutzgüter soll sich auf die direkten und die etwaigen indirekten, sekundären, kumulativen, grenzüberschreitenden, kurzfristigen, mittelfristigen und langfristigen, ständigen und vorübergehenden, positiven und negativen Auswirkungen des UVP-pflichtigen Vorhabens erstrecken.b)Art, in der Schutzgüter betroffen sindBei der Angabe, in welcher Hinsicht die Schutzgüter von den Auswirkungen des UVP-pflichtigen Vorhabens betroffen sein können, sind in Bezug auf die nachfolgenden Schutzgüter insbesondere folgende Auswirkungen zu berücksichtigen: Schutzgut (Auswahl)mögliche Art der BetroffenheitMenschen, insbesondere die menschliche GesundheitAuswirkungen sowohl auf einzelne Menschen als auch auf die BevölkerungTiere, Pflanzen, biologische VielfaltAuswirkungen auf Flora und FaunaFlächeFlächenverbrauchBodenVeränderung der organischen Substanz, Bodenerosion, Bodenverdichtung, BodenversiegelungWasserhydromorphologische Veränderungen, Veränderungen von Quantität oder Qualität des WassersLuftLuftverunreinigungenKlimaVeränderungen des Klimas, z. B. durch Treibhausgasemissionen, Veränderung des Kleinklimas am StandortKulturelles ErbeAuswirkungen auf historisch, architektonisch oder archäologisch bedeutende Stätten und Bauwerke und auf Kulturlandschaften.c)Mögliche Ursachen der Auswirkungen auf die in § 1a genannten SchutzgüterBei der Beschreibung der Umstände, die zu erheblichen Auswirkungen des UVP-pflichtigen Vorhabens auf die in § 1a genannten Schutzgüter führen können, sind insbesondere folgende Gesichtspunkte zu berücksichtigen: aa)die Durchführung baulicher Maßnahmen, einschließlich der Abrissarbeiten, soweit relevant, sowie die physische Anwesenheit der errichteten Anlagen oder Bauwerke,bb)verwendete Techniken und eingesetzte Stoffe,cc)die Nutzung natürlicher Ressourcen, insbesondere Fläche, Boden, Wasser, Tiere, Pflanzen und biologische Vielfalt und, soweit möglich, jeweils auch die nachhaltige Verfügbarkeit der betroffenen Ressource,dd)Emissionen und Belästigungen sowie Verwertung oder Beseitigung von Abfällen,ee)Risiken für die menschliche Gesundheit, für Natur und Landschaft sowie für das kulturelle Erbe, z. B. durch schwere Unfälle oder Katastrophen,ff)das Zusammenwirken mit den Auswirkungen anderer bestehender oder zugelassener Vorhaben oder Tätigkeiten; dabei ist auch auf Umweltprobleme einzugehen, die sich daraus ergeben, dass ökologisch empfindliche Gebiete nach Anlage 3 Nummer 2.3 des Gesetzes über die Umweltverträglichkeitsprüfung betroffen sind oder die sich aus einer Nutzung natürlicher Ressourcen ergeben,gg)Auswirkungen des UVP-pflichtigen Vorhabens auf das Klima, z. B. durch Art und Ausmaß der mit dem Vorhaben verbundenen Treibhausgasemissionen,hh)die Anfälligkeit des UVP-pflichtigen Vorhabens gegenüber den Folgen des Klimawandels (z. B. durch erhöhte Hochwassergefahr am Standort),ii)die Anfälligkeit des UVP-pflichtigen Vorhabens für die Risiken von schweren Unfällen oder Katastrophen, soweit solche Risiken nach der Art, den Merkmalen und dem Standort des UVP-pflichtigen Vorhabens von Bedeutung sind. Art der Auswirkungen auf die in § 1a genannten Schutzgüter Die Beschreibung der möglichen erheblichen Auswirkungen auf die in § 1a genannten Schutzgüter soll sich auf die direkten und die etwaigen indirekten, sekundären, kumulativen, grenzüberschreitenden, kurzfristigen, mittelfristigen und langfristigen, ständigen und vorübergehenden, positiven und negativen Auswirkungen des UVP-pflichtigen Vorhabens erstrecken. Art, in der Schutzgüter betroffen sind Bei der Angabe, in welcher Hinsicht die Schutzgüter von den Auswirkungen des UVP-pflichtigen Vorhabens betroffen sein können, sind in Bezug auf die nachfolgenden Schutzgüter insbesondere folgende Auswirkungen zu berücksichtigen: Schutzgut (Auswahl)mögliche Art der BetroffenheitMenschen, insbesondere die menschliche GesundheitAuswirkungen sowohl auf einzelne Menschen als auch auf die BevölkerungTiere, Pflanzen, biologische VielfaltAuswirkungen auf Flora und FaunaFlächeFlächenverbrauchBodenVeränderung der organischen Substanz, Bodenerosion, Bodenverdichtung, BodenversiegelungWasserhydromorphologische Veränderungen, Veränderungen von Quantität oder Qualität des WassersLuftLuftverunreinigungenKlimaVeränderungen des Klimas, z. B. durch Treibhausgasemissionen, Veränderung des Kleinklimas am StandortKulturelles ErbeAuswirkungen auf historisch, architektonisch oder archäologisch bedeutende Stätten und Bauwerke und auf Kulturlandschaften. Mögliche Ursachen der Auswirkungen auf die in § 1a genannten Schutzgüter Bei der Beschreibung der Umstände, die zu erheblichen Auswirkungen des UVP-pflichtigen Vorhabens auf die in § 1a genannten Schutzgüter führen können, sind insbesondere folgende Gesichtspunkte zu berücksichtigen: aa)die Durchführung baulicher Maßnahmen, einschließlich der Abrissarbeiten, soweit relevant, sowie die physische Anwesenheit der errichteten Anlagen oder Bauwerke,bb)verwendete Techniken und eingesetzte Stoffe,cc)die Nutzung natürlicher Ressourcen, insbesondere Fläche, Boden, Wasser, Tiere, Pflanzen und biologische Vielfalt und, soweit möglich, jeweils auch die nachhaltige Verfügbarkeit der betroffenen Ressource,dd)Emissionen und Belästigungen sowie Verwertung oder Beseitigung von Abfällen,ee)Risiken für die menschliche Gesundheit, für Natur und Landschaft sowie für das kulturelle Erbe, z. B. durch schwere Unfälle oder Katastrophen,ff)das Zusammenwirken mit den Auswirkungen anderer bestehender oder zugelassener Vorhaben oder Tätigkeiten; dabei ist auch auf Umweltprobleme einzugehen, die sich daraus ergeben, dass ökologisch empfindliche Gebiete nach Anlage 3 Nummer 2.3 des Gesetzes über die Umweltverträglichkeitsprüfung betroffen sind oder die sich aus einer Nutzung natürlicher Ressourcen ergeben,gg)Auswirkungen des UVP-pflichtigen Vorhabens auf das Klima, z. B. durch Art und Ausmaß der mit dem Vorhaben verbundenen Treibhausgasemissionen,hh)die Anfälligkeit des UVP-pflichtigen Vorhabens gegenüber den Folgen des Klimawandels (z. B. durch erhöhte Hochwassergefahr am Standort),ii)die Anfälligkeit des UVP-pflichtigen Vorhabens für die Risiken von schweren Unfällen oder Katastrophen, soweit solche Risiken nach der Art, den Merkmalen und dem Standort des UVP-pflichtigen Vorhabens von Bedeutung sind. die Durchführung baulicher Maßnahmen, einschließlich der Abrissarbeiten, soweit relevant, sowie die physische Anwesenheit der errichteten Anlagen oder Bauwerke, verwendete Techniken und eingesetzte Stoffe, die Nutzung natürlicher Ressourcen, insbesondere Fläche, Boden, Wasser, Tiere, Pflanzen und biologische Vielfalt und, soweit möglich, jeweils auch die nachhaltige Verfügbarkeit der betroffenen Ressource, Emissionen und Belästigungen sowie Verwertung oder Beseitigung von Abfällen, Risiken für die menschliche Gesundheit, für Natur und Landschaft sowie für das kulturelle Erbe, z. B. durch schwere Unfälle oder Katastrophen, das Zusammenwirken mit den Auswirkungen anderer bestehender oder zugelassener Vorhaben oder Tätigkeiten; dabei ist auch auf Umweltprobleme einzugehen, die sich daraus ergeben, dass ökologisch empfindliche Gebiete nach Anlage 3 Nummer 2.3 des Gesetzes über die Umweltverträglichkeitsprüfung betroffen sind oder die sich aus einer Nutzung natürlicher Ressourcen ergeben, Auswirkungen des UVP-pflichtigen Vorhabens auf das Klima, z. B. durch Art und Ausmaß der mit dem Vorhaben verbundenen Treibhausgasemissionen, die Anfälligkeit des UVP-pflichtigen Vorhabens gegenüber den Folgen des Klimawandels (z. B. durch erhöhte Hochwassergefahr am Standort), die Anfälligkeit des UVP-pflichtigen Vorhabens für die Risiken von schweren Unfällen oder Katastrophen, soweit solche Risiken nach der Art, den Merkmalen und dem Standort des UVP-pflichtigen Vorhabens von Bedeutung sind.
 
-aa)
+5. Die Beschreibung der grenzüberschreitenden Auswirkungen des UVP-pflichtigen Vorhabens soll in einem gesonderten Abschnitt erfolgen.
 
-bb)
+6. Eine Beschreibung und Erläuterung der Merkmale des UVP-pflichtigen Vorhabens und seines Standorts, mit denen das Auftreten erheblicher nachteiliger Auswirkungen auf die in § 1a genannten Schutzgüter vermieden, vermindert oder ausgeglichen werden soll.
 
-cc)
+7. Eine Beschreibung und Erläuterung der geplanten Maßnahmen, mit denen das Auftreten erheblicher nachteiliger Auswirkungen auf die in § 1a genannten Schutzgüter vermieden, vermindert oder ausgeglichen werden soll, sowie eine Beschreibung geplanter Ersatzmaßnahmen und etwaiger Überwachungsmaßnahmen des Trägers des UVP-pflichtigen Vorhabens.
 
-d)
+8. Soweit Auswirkungen aufgrund der Anfälligkeit des UVP-pflichtigen Vorhabens für die Risiken von schweren Unfällen oder Katastrophen zu erwarten sind, soll die Beschreibung, soweit möglich, auch auf vorgesehene Vorsorge- und Notfallmaßnahmen eingehen.
 
-aa)
+9. Die Beschreibung der Auswirkungen auf Natura 2000-Gebiete soll in einem gesonderten Abschnitt erfolgen.
 
-bb)
+10. Die Beschreibung der Auswirkungen auf besonders geschützte Arten soll in einem gesonderten Abschnitt erfolgen.
 
-2.
+11. Eine Beschreibung der Methoden oder Nachweise, die zur Ermittlung der erheblichen Auswirkungen auf die in § 1a genannten Schutzgüter genutzt wurden, einschließlich näherer Hinweise auf Schwierigkeiten und Unsicherheiten, die bei der Zusammenstellung der Angaben aufgetreten sind, insbesondere soweit diese Schwierigkeiten auf fehlenden Kenntnissen und Prüfmethoden oder auf technischen Lücken beruhen.
 
-3.
-
-4.
-
-a)
-
-b)
-
-c)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-ff)
-
-gg)
-
-hh)
-
-ii)
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-12.
+12. Eine Referenzliste der Quellen, die für die im UVP-Bericht enthaltenen Angaben herangezogen wurden.

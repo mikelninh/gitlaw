@@ -21,19 +21,15 @@ Diese Verordnung regelt die Gewährung von Zuschüssen durch die Filmförderungs
 
 ### § 3 — Zuwendungsempfänger
 
-Empfänger der Förderung sind Filmtheater mit Sitz in der Bundesrepublik Deutschland, die Abweichend von Satz 1 sind Filmtheater mit Sitz in der Bundesrepublik Deutschland mit mehr als sechs Leinwänden pro Betriebsstätte förderberechtigt, wenn sie die übrigen Voraussetzungen nach Satz 1 erfüllen und in einem Ort mit weniger als 50 000 Einwohnern liegen.
+Empfänger der Förderung sind Filmtheater mit Sitz in der Bundesrepublik Deutschland, die
 
-1.
+1. bis zu sechs Leinwände pro Betriebsstätte haben,
 
-2.
-
-a)
-
-b)
+2. in den letzten drei Kalenderjahren vor Antragstellung bei Betrachtung des Gesamtnettokartenumsatzes und der Gesamtbesucherzahl der Betriebsstätte durchschnittlich pro Leinwand und Jahr a)maximal 260 000 Euro Nettokartenumsatz undb)mindestens einen Nettokartenumsatz von 40 000 Euro oder eine Besucherzahl von mindestens 8 000erzielt haben. maximal 260 000 Euro Nettokartenumsatz und mindestens einen Nettokartenumsatz von 40 000 Euro oder eine Besucherzahl von mindestens 8 000
 
 ### § 4 — Art und Umfang, Höhe der Zuwendung
 
-(1) Der Zuschuss wird auf Antrag einmalig in Höhe von bis zu 15 Prozent der förderfähigen Investitionskosten, höchstens jedoch in Höhe von 10 000 Euro pro Leinwand gewährt. Die Filmförderungsanstalt vergibt die Zuschüsse im Rahmen der für diesen Förderzweck nach § 68 Absatz 1 Nummer 5 des Filmförderungsgesetzes im Haushalt der Anstalt zur Verfügung stehenden Mittel. Ein Anspruch auf einen Zuschuss besteht nicht. Es gelten die §§ 23 und 44 der Bundeshaushaltsordnung und die zu diesen Regelungen erlassenen Verwaltungsvorschriften.
+(1) Der Zuschuss wird auf Antrag einmalig in Höhe von bis zu 15 Prozent der förderfähigen Investitionskosten, höchstens jedoch in Höhe von 10 000 Euro pro Leinwand gewährt. Die Filmförderungsanstalt vergibt die Zuschüsse im Rahmen der für diesen Förderzweck nach § 68 Absatz 1 Nummer 5 des Filmförderungsgesetzes im Haushalt der Anstalt zur Verfügung stehenden Mittel. Ein Anspruch auf einen Zuschuss besteht nicht. Es gelten die §§ 23 und 44 der Bundeshaushaltsordnung und die zu diesen Regelungen erlassenen Verwaltungsvorschriften.
 
 (2) Der Zuschuss wird nur gewährt, wenn der Zuwendungsempfänger eine Eigenbeteiligung von mindestens 20 Prozent der förderfähigen Investitionskosten pro Leinwand aufbringt.
 

@@ -16,7 +16,7 @@ Die Bundespolizei kann abweichend von § 110a Absatz 1 Satz 1 und 2 des Gesetzes
 
 ### § 2 — Anlegung, Führung und Weiterführung von papiergebundenen Akten in Bußgeldverfahren des Bundesverwaltungsamtes
 
-Das Bundesverwaltungsamt kann abweichend von § 110a Absatz 1 Satz 1 und 2 des Gesetzes über Ordnungswidrigkeiten in der ab dem 1. Januar 2026 geltenden Fassung Akten bis einschließlich 31. Dezember 2026 in Papierform anlegen sowie von anderer Stelle bis einschließlich 31. Dezember 2026 übermittelte elektronische Akten in Papierform führen oder weiterführen.
+Das Bundesverwaltungsamt kann abweichend von § 110a Absatz 1 Satz 1 und 2 des Gesetzes über Ordnungswidrigkeiten in der ab dem 1. Januar 2026 geltenden Fassung Akten bis einschließlich 31. Dezember 2026 in Papierform anlegen sowie von anderer Stelle bis einschließlich 31. Dezember 2026 übermittelte elektronische Akten in Papierform führen oder weiterführen.
 
 ### § 3 — Außerkrafttreten
 

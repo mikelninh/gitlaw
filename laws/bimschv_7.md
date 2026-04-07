@@ -27,11 +27,11 @@ Anlagen im Sinne des § 1 sind bei ihrer Errichtung mit Abluftreinigungsanlagen 
 
 ### § 4 — Emissionswert
 
-(1) Anlagen im Sinne des § 1 sind so zu betreiben, daß die Massenkonzentration an Staub und Spänen in der Abluft, bezogen auf den Normzustand (0 Grad C; 1013 Millibar), (Inhalt: nicht darstellbare Abbildung,
+(1) Anlagen im Sinne des § 1 sind so zu betreiben, daß die Massenkonzentration an Staub und Spänen in der Abluft, bezogen auf den Normzustand
 
-1.
+1. einen Wert von 50 Milligramm je Kubikmeter Abluft nicht überschreitet, wenn in der Abluft Schleifstaub oder ein Gemisch mit Schleifstaub enthalten ist oder
 
-2.
+2. einen aus dem folgenden Diagramm sich ergebenden Wert nicht überschreitet, wenn in der Abluft kein Schleifstaub, sondern anderer Staub oder Späne enthalten sind.
 
 (2) Anlagen nach Absatz 1 Nr. 1, die nach dem 1. Januar 1977 errichtet werden, sind abweichend von Absatz 1 so zu betreiben, daß die Massenkonzentration an Staub und Spänen in der Abluft, bezogen auf den Normzustand, einen Wert von 20 Milligramm je Kubikmeter Abluft nicht überschreitet.
 
@@ -49,11 +49,11 @@ Die zuständige Behörde kann auf Antrag Ausnahmen von den Vorschriften der Vero
 
 Ordnungswidrig im Sinne des § 62 Abs. 1 Nr. 7 des Bundes-Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 2 eine Anlage nicht mit einer Abluftreinigungsanlage ausrüstet,
 
-2.
+2. entgegen § 3 Holzstaub und Späne nicht in Bunkern, Silos oder sonstigen geschlossenen Räumen lagert, keine regelmäßigen Füllstandskontrollen durchführt, Bunker, Silos oder sonstige geschlossene Räume sowie Filteranlagen nicht so entleert, daß Emissionen so weit wie möglich vermieden werden oder
 
-3.
+3. entgegen § 4 oder § 8 eine Anlage so betreibt, daß die zulässige Massenkonzentration an Staub in der Abluft überschritten wird.
 
 > § 7 Nr. 3 Kursivdruck: Gegenstandslos
 

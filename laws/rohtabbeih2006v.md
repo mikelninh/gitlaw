@@ -12,7 +12,7 @@ Auf Grund des § 6 Abs. 1 Nr. 1 Buchstabe g und § 6 Abs. 1 Nr. 2 des Gesetzes z
 
 ### Art 1
 
-(1) Der Beihilfebetrag nach Artikel 171ci der Verordnung (EG) Nr. 1973/2004 der Kommission vom 29. Oktober 2004 mit Durchführungsvorschriften zu der Verordnung (EG) Nr. 1782/2003 des Rates hinsichtlich der Stützungsregelungen nach Titel IV und IVa der Verordnung und der Verwendung von Stilllegungsflächen für die Erzeugung von Rohstoffen (ABl. EU Nr. L 345 S. 1), die zuletzt durch die Verordnung EU Nr. 1679/2006 der Kommission vom 15. November 2006 (ABl. EU Nr. L 314 S. 7) geändert worden ist, wird für das Erntejahr 2006 wie folgt festgesetzt: 1.für die Sortengruppe I (Flue-cured):2,62904 Euro/kg, 2.für die Sortengruppe II (Light Air-cured):2,46449 Euro/kg, 3.für die Sortengruppe III (Dark Air-cured):2,21453 Euro/kg.(2) Der in Absatz 1 festgesetzte Beihilfebetrag bezieht sich auf das nach Artikel 171cj Abs. 2 der Verordnung (EG) Nr. 1973/2004 feuchtigkeitskorrigierte Gewicht.
+(2) Der in Absatz 1 festgesetzte Beihilfebetrag bezieht sich auf das nach Artikel 171cj Abs. 2 der Verordnung (EG) Nr. 1973/2004 feuchtigkeitskorrigierte Gewicht.
 
 ### Art 2
 

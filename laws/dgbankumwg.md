@@ -109,8 +109,6 @@ Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 
 ### Anhang 1 — Anteilseigner der DG BANK
 
-Fundstelle des Originaltextes: BGBl. I 1998, 2106 - 2113
-
 ### Anhang 2 — Satzung DG Bank AG
 
 (Text siehe: DGBankSa)

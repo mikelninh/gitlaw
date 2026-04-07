@@ -17,41 +17,25 @@
 
 ### § 2 — Fachbereiche und Tätigkeiten der Prüfsachverständigen
 
-(1) Die Fachbereiche nach § 1 gliedern sich in folgende Fachgebiete: Eine weitere Unterteilung der Fach- und Teilgebiete erfolgt bei Bedarf in Verwaltungsvorschriften.
+(1) Die Fachbereiche nach § 1 gliedern sich in folgende Fachgebiete:
 
-1.
+1. der Fachbereich Ingenieurbau, Oberbau und Hochbau in a)das Fachgebiet Ingenieurbau, das sich gliedert in aa)das Teilgebiet Brückenbau einschließlich des konstruktiven Ingenieurbaus undbb)das Teilgebiet Geotechnik und Tunnelbau,b)das Fachgebiet Oberbau undc)das Fachgebiet Hochbau, das Fachgebiet Ingenieurbau, das sich gliedert in aa)das Teilgebiet Brückenbau einschließlich des konstruktiven Ingenieurbaus undbb)das Teilgebiet Geotechnik und Tunnelbau, das Teilgebiet Brückenbau einschließlich des konstruktiven Ingenieurbaus und das Teilgebiet Geotechnik und Tunnelbau, das Fachgebiet Oberbau und das Fachgebiet Hochbau,
 
-a)
-
-aa)
-
-bb)
-
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-c)
+2. der Fachbereich Signaltechnik, Telekommunikation und Elektrotechnik in a)das Fachgebiet Signaltechnik,b)das Fachgebiet Telekommunikation undc)das Fachgebiet Elektrotechnik. das Fachgebiet Signaltechnik, das Fachgebiet Telekommunikation und das Fachgebiet Elektrotechnik.
 
 (2) Prüfsachverständige dürfen folgende Tätigkeiten ausüben:
 
-1.
+1. bautechnische Prüfung der Nachweise von Ingenieurbau-, Oberbau- oder Hochbau-Anlagen nach § 9,
 
-2.
+2. Planprüfung von Signal-, Telekommunikations- oder elektrotechnischen Anlagen nach § 10,
 
-3.
+3. Abnahmeprüfung von Signal-, Telekommunikations- oder elektrotechnischen Anlagen nach § 11,
 
-4.
+4. Zulassungsprüfung von generischen Produkten, von Verfahren, Anwendungen, Bauprodukten oder Bauarten nach § 12,
 
-5.
+5. Prüfung von Nachweisen mindestens gleicher Sicherheit wie bei der Einhaltung von nationalen technischen Vorschriften oder von den zu beachtenden behördlichen Entscheidungen oder Prüfung von Vergleichen mit Referenzsystemen bei nichtsignifikanten Änderungen nach § 13 Satz 1 Nummer 1 und 2 und
 
-6.
+6. Prüfung von Nachweisen mindestens gleicher Sicherheit wie bei der Einhaltung von nationalen technischen Vorschriften oder von den zu beachtenden behördlichen Entscheidungen oder Prüfung von expliziten Risikoabschätzungen bei nichtsignifikanten Änderungen nach § 13 Satz 1 Nummer 1 und 3.
 
 ### § 3 — Zuständige Behörde
 
@@ -65,19 +49,19 @@ Das Eisenbahn-Bundesamt ist die zuständige Behörde für die Anerkennung und Ü
 
 (2) Die zuständige Behörde erkennt eine Person auf deren Antrag als Prüfsachverständigen an, wenn diese Person
 
-1.
+1. ein Studium an einer deutschen Hochschule oder eine vergleichbare Ausbildung in einem Mitgliedstaat der Europäischen Union in einer Fachrichtung erfolgreich abgeschlossen hat, die einschlägig ist für das Fachgebiet, für das die Anerkennung beantragt wird,
 
-2.
+2. über Fachkunde im Eisenbahnwesen nach Anlage 1 verfügt,
 
-3.
+3. über eine ausreichende Berufserfahrung in den Tätigkeiten des Fachgebietes und des zugehörigen Teilgebietes nach Anlage 2 verfügt, für das die Anerkennung beantragt wird,
 
-4.
+4. bei der Ausübung ihrer Tätigkeit als Prüfsachverständiger weisungsfrei ist, so dass sie ihre Aufgaben unabhängig und unparteiisch wahrnehmen kann,
 
-5.
+5. über deutsche Sprachkenntnisse auf dem Niveau C1 des Gemeinsamen europäischen Referenzrahmens für Sprachen verfügt,
 
-6.
+6. zuverlässig ist und
 
-7.
+7. körperlich geeignet ist.
 
 ### § 5 — Antragsverfahren
 
@@ -87,41 +71,37 @@ Das Eisenbahn-Bundesamt ist die zuständige Behörde für die Anerkennung und Ü
 
 (3) Dem Antrag auf erstmalige Anerkennung als Prüfsachverständiger, auf Erweiterung einer vorhandenen Anerkennung und auf eine projektspezifische Anerkennung als Prüfsachverständiger sind folgende Unterlagen beizufügen:
 
-1.
+1. ein tabellarischer Lebenslauf,
 
-2.
+2. eine Kopie des Hochschulabschlusszeugnisses oder des Zeugnisses über eine vergleichbare Ausbildung nach § 4 Absatz 2 Nummer 1,
 
-3.
+3. Nachweise über die bisherige berufliche Tätigkeit unter Darlegung der Sachkunde nach § 4 Absatz 2 Nummer 2 und 3, insbesondere a)Zeugnisse der bisherigen Arbeitgeber undb)Nachweise über die Fachkunde in dem Fachgebiet, für das die Anerkennung beantragt wird, Zeugnisse der bisherigen Arbeitgeber und Nachweise über die Fachkunde in dem Fachgebiet, für das die Anerkennung beantragt wird,
 
-a)
+4. bereits vorhandene staatliche Anerkennungen,
 
-b)
+5. bei Antragstellern, die in einem Arbeits- oder Beamtenverhältnis stehen, eine Erklärung des Arbeitgebers, dass der Arbeitgeber den Antragsteller für die Tätigkeit als Prüfsachverständiger weisungsfrei stellt,
 
-4.
+6. soweit der Schul- oder Hochschulabschluss nicht in deutscher Sprache abgelegt worden ist, ein Nachweis über die notwendigen deutschen Sprachkenntnisse nach § 4 Absatz 2 Nummer 5,
 
-5.
+7. ein Führungszeugnis, das nicht älter als drei Monate ist, und
 
-6.
-
-7.
-
-8.
+8. ein Nachweis, der auf die Feststellung der körperlichen Eignung nach § 4 Absatz 2 Nummer 7 beschränkt ist.
 
 (4) Kann der Antragsteller die Sachkunde nach § 4 Absatz 2 Nummer 2 und 3 nicht hinreichend belegen, so ist im Rahmen einer Prüfung nach der Eisenbahn-Prüfsachverständigen-Prüfungsverordnung festzustellen, ob der Antragsteller über die erforderliche Sachkunde verfügt.
 
-(5) Dem Antrag auf Verlängerung der Anerkennung als Prüfsachverständiger sind folgende Nachweise beizufügen: Der Antrag auf Verlängerung der Anerkennung als Prüfsachverständiger ist spätestens sechs Monate vor Ablauf der Anerkennung zu stellen. Die Verlängerung der Anerkennung gilt im Fall rechtzeitiger Antragstellung als vorläufig erteilt, bis die Entscheidung über den Antrag unanfechtbar ist.
+(5) Dem Antrag auf Verlängerung der Anerkennung als Prüfsachverständiger sind folgende Nachweise beizufügen:
 
-1.
+1. Nachweise über Arbeitsergebnisse, die der Antragsteller nach der Erteilung der vorhandenen Anerkennung in demjenigen Fachgebiet erbracht hat, für das er die Verlängerung der Anerkennung beantragt,
 
-2.
+2. Nachweise über relevante Lehr- oder Fortbildungsveranstaltungen, die der Antragsteller nach der Erteilung der vorhandenen Anerkennung besucht hat,
 
-3.
+3. Nachweise über Prüfungen, die der Antragsteller nach der Erteilung der vorhandenen Anerkennung bestanden hat,
 
-4.
+4. Nachweise über Veränderungen bei der bisherigen beruflichen Tätigkeit nach Absatz 3 Nummer 3 und bei bereits vorhandenen staatlichen Anerkennungen nach Absatz 3 Nummer 4, die nach der Erteilung der vorhandenen Anerkennung eingetreten sind,
 
-5.
+5. ein Führungszeugnis, das nicht älter als drei Monate ist, und
 
-6.
+6. ein Nachweis, der auf die Feststellung der körperlichen Eignung nach § 4 Absatz 2 Nummer 7 beschränkt ist.
 
 (6) Die zuständige Behörde kann Ausnahmen zu § 4 Absatz 2 Nummer 1, 2 und 3 sowie zu § 5 Absatz 4 zulassen. Näheres regeln Verwaltungsvorschriften.
 
@@ -131,11 +111,11 @@ b)
 
 (1) Der Prüfsachverständige erhält über seine Anerkennung einen Bescheid. In dem Bescheid sind festzulegen:
 
-1.
+1. die Fachgebiete und Tätigkeiten nach § 2, für die der Prüfsachverständige anerkannt ist,
 
-2.
+2. die Geltungsdauer der Anerkennung und
 
-3.
+3. die vom Prüfsachverständigen zu verwendenden Stempel.
 
 (2) Die Anerkennung kann mit Nebenbestimmungen versehen werden.
 
@@ -147,21 +127,21 @@ b)
 
 (1) Die Anerkennung erlischt
 
-1.
+1. durch schriftlichen oder elektronischen Verzicht des Prüfsachverständigen gegenüber der zuständigen Behörde,
 
-2.
+2. mit der Vollendung des 70. Lebensjahres des Prüfsachverständigen oder
 
-3.
+3. mit dem Ablauf der Geltungsdauer der Anerkennung.
 
 (2) Die zuständige Behörde kann die Anerkennung zurücknehmen, wenn bei der Erteilung der Anerkennung eine der Anerkennungsvoraussetzungen nicht vorgelegen hat.
 
-(3) Die zuständige Behörde kann die Anerkennung widerrufen, wenn der Prüfsachverständige Ein Widerruf wegen eines wiederholten Verstoßes setzt voraus, dass wegen eines vorangegangenen Verstoßes eine Ermahnung ausgesprochen und auf die Möglichkeit eines Widerrufes hingewiesen worden ist.
+(3) Die zuständige Behörde kann die Anerkennung widerrufen, wenn der Prüfsachverständige
 
-1.
+1. die Anerkennungsvoraussetzungen nicht mehr erfüllt,
 
-2.
+2. nicht über einen Versicherungsschutz gemäß § 16 verfügt oder
 
-3.
+3. gegen eine Pflicht nach den §§ 14 bis 23 wiederholt oder gröblich verstoßen hat oder gegen mehrere Pflichten nach den §§ 14 bis 23 verstoßen hat.
 
 (4) Die Regelungen der §§ 48 bis 51 des Verwaltungsverfahrensgesetzes bleiben unberührt.
 
@@ -181,9 +161,9 @@ b)
 
 (2) Bei Bedarf können Prüfsachverständige stichprobenartig auch Folgendes vor Ort überprüfen:
 
-1.
+1. die Bauausführung auf Übereinstimmung mit den freigegebenen Ausführungsunterlagen und mit dem Prüfbericht sowie
 
-2.
+2. die ordnungsgemäße Durchführung erforderlicher Abnahmen.
 
 ### § 10 — Planprüfung von Signal-, Telekommunikations- oder elektrotechnischen Anlagen
 
@@ -203,13 +183,13 @@ Bei der Zulassungsprüfung von generischen Produkten, von Verfahren, Anwendungen
 
 ### § 13 — Prüfung bei festgestellten Abweichungen von nationalen technischen Vorschriften oder behördlichen Entscheidungen
 
-Wenn eine Abweichung von den nationalen technischen Vorschriften oder den zu beachtenden behördlichen Entscheidungen festgestellt wird, prüft der Prüfsachverständige, Dies gilt nicht, wenn die Durchführung eines Risikomanagementverfahrens wegen einer signifikanten Änderung nach der Durchführungsverordnung (EU) Nr. 402/2013 der Kommission vom 30. April 2013 über die gemeinsame Sicherheitsmethode für die Evaluierung und Bewertung von Risiken und zur Aufhebung der Verordnung (EG) Nr. 352/2009 (ABl. L 121 vom 3.5.2013, S. 8), die durch die Durchführungsverordnung (EU) 2015/1136 (ABl. L 185 vom 14.7.2015, S. 6; L 70 vom 16.3.2016, S. 38) geändert worden ist, erforderlich ist.
+Wenn eine Abweichung von den nationalen technischen Vorschriften oder den zu beachtenden behördlichen Entscheidungen festgestellt wird, prüft der Prüfsachverständige,
 
-1.
+1. ob der Nachweis mindestens gleicher Sicherheit geführt worden ist,
 
-2.
+2. ob ein Vergleich mit einem Referenzsystem angestellt worden ist und ob das gleiche Sicherheitsniveau erreicht wird wie bei der Einhaltung der geltenden nationalen technischen Vorschriften oder
 
-3.
+3. ob eine explizite Risikoabschätzung durchgeführt worden ist und ob alle zu ermittelnden Gefährdungen auf einem vertretbaren Niveau gehalten werden.
 
 ## Teil 4: Pflichten der Prüfsachverständigen
 
@@ -257,35 +237,35 @@ Der Prüfsachverständige ist für die zur Ausübung seiner Tätigkeit erforderl
 
 (2) Der Prüfsachverständige hält das Ergebnis seiner Prüfung in einem Prüfbericht fest. Der Prüfbericht ist nachvollziehbar zu fassen. Er ist zu unterzeichnen sowie mit dem Datum seiner Fertigstellung und mit dem nach § 6 Absatz 1 Satz 2 Nummer 3 zu verwendenden Stempel zu versehen.
 
-(3) Der Prüfsachverständige ist verpflichtet, folgende Unterlagen zehn Jahre aufzubewahren: Die Aufbewahrungsfrist beginnt mit dem Ende des Kalenderjahres, in dem der betreffende Prüfauftrag abgeschlossen worden ist.
+(3) Der Prüfsachverständige ist verpflichtet, folgende Unterlagen zehn Jahre aufzubewahren:
 
-1.
+1. die Aufzeichnungen seiner Prüfergebnisse und
 
-2.
+2. sonstige Unterlagen, die sich auf die durchgeführten Prüfungen und seine Tätigkeit als Prüfsachverständiger beziehen.
 
 (4) Werden die Unterlagen nach Absatz 3 Satz 1 auf Datenträgern gespeichert, muss der Prüfsachverständige durch technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung die Daten vor unbefugter Einsichtnahme schützen und sicherstellen, dass die Daten
 
-1.
+1. während der Dauer der Aufbewahrungsfrist verfügbar sind,
 
-2.
+2. innerhalb einer angemessenen Frist lesbar gemacht werden können und
 
-3.
+3. nicht nachträglich geändert werden können.
 
 ### § 21 — Anzeigepflichten zur Person und zur beruflichen oder gewerblichen Tätigkeit des Prüfsachverständigen
 
 Der Prüfsachverständige hat der zuständigen Behörde unverzüglich Folgendes anzuzeigen:
 
-1.
+1. die Änderung seiner Wohn- oder Niederlassungsadresse,
 
-2.
+2. die Änderung seiner beruflichen oder gewerblichen Tätigkeit und die Aufnahme einer weiteren beruflichen oder gewerblichen Tätigkeit, insbesondere den Eintritt in ein Arbeitsverhältnis oder in ein Beamtenverhältnis,
 
-3.
+3. rechtskräftige Verurteilungen in einem gegen ihn gerichteten Strafverfahren,
 
-4.
+4. die Antragstellung auf Eröffnung eines Insolvenzverfahrens über sein Vermögen oder über das Vermögen einer Handelsgesellschaft, deren Geschäftsführer oder Gesellschafter er ist, die Eröffnung eines Insolvenzverfahrens und die Abweisung der Eröffnung des Insolvenzverfahrens mangels Masse,
 
-5.
+5. die dauerhafte Verschlechterung seines Gesundheitszustands, aufgrund derer er unfähig ist, die Tätigkeit des Prüfsachverständigen ordnungsgemäß auszuüben, und
 
-6.
+6. das Erlöschen des Versicherungsschutzes nach § 16.
 
 ### § 22 — Auskunftspflichten
 
@@ -303,15 +283,15 @@ Der Prüfsachverständige hat sich in den Fachgebieten, für die er anerkannt is
 
 (2) Die Überwachung kann insbesondere erfolgen in Form
 
-1.
+1. einer Durchsicht von Arbeitsergebnissen,
 
-2.
+2. einer Begleitung bei der Durchführung von Prüfungen,
 
-3.
+3. einer Befragung,
 
-4.
+4. einer Auditierung oder
 
-5.
+5. einer Auswertung von elektronisch gespeicherten Arbeitsergebnissen.
 
 ## Teil 6: Schlussbestimmungen
 

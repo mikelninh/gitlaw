@@ -16,11 +16,11 @@ Lässt die Agentur für Arbeit als Träger der Grundsicherung für Arbeitsuchend
 
 ### § 2 — Berechnungsgrundlage
 
-(1) Der monatliche Erstattungsbetrag errechnet sich, indem multipliziert wird.
+(1) Der monatliche Erstattungsbetrag errechnet sich, indem
 
-1.
+1. die Anzahl der Ausbildungsuchenden, für die die für die Arbeitsförderung zuständige Stelle der Bundesagentur für Arbeit die Ausbildungsvermittlung im jeweiligen Monat für die Agentur für Arbeit als Träger der Grundsicherung für Arbeitsuchende wahrgenommen hat,
 
-2.
+2. mit den durchschnittlichen monatlichen Aufwendungen für die Ausbildungsvermittlung je Ausbildungsuchendem
 
 (2) Die für die Arbeitsförderung zuständige Stelle der Bundesagentur für Arbeit übermittelt die Anzahl der Ausbildungsuchenden nach Absatz 1 Nr. 1 an die beauftragende Agentur für Arbeit als Träger der Grundsicherung.
 

@@ -69,5 +69,3 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar
 Diese Verordnung tritt mit Wirkung vom 1. September 1955 in Kraft. ...
 
 ### Schlußformel
-
-Der Bundesminister für Arbeit

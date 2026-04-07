@@ -13,49 +13,47 @@ Auf Grund des § 171 Abs. 2 des Bundesgesetzes zur Entschädigung für Opfer der
 
 Folgende Versorgungseinrichtungen sind als durch nationalsozialistische Gewaltmaßnahmen aufgelöst anzusehen:
 
-1.
+1. Unterstützungsvereinigung der in der modernen Arbeiterbewegung tätigen Angestellten.
 
-2.
+2. Unterstützungsverein der im Deutschen Metallarbeiterverband tätigen Personen.
 
-3.
+3. Unfall- und Unterstützungskasse für die im Verbande der Fabrikarbeiter Deutschlands tätigen Funktionäre.
 
-4.
+4. Ruhegehaltskasse für die Beamten des Zentralverbandes der Angestellten (ZdA).
 
-5.
+5. Pensionszuschußkasse des Deutschen Werkmeister-Verbandes.
 
-6.
+6. Versorgungskasse des Gesamtverbandes Christlicher Gewerkschaften (Unterstützungskasse für die Angehörigen der Christlichen Gewerkschaften).
 
-7.
+7. Angestellten-Pensionskasse des Zentralverbandes christlicher Fabrik- und Transportarbeiter Deutschlands.
 
-8.
+8. Unterstützungskasse des Zentralverbandes der christlichen Bauarbeiter Deutschlands.
 
-9.
+9. Rentenzuschußkasse für die Beamten des Christlichen Metallarbeiterverbandes Deutschlands.
 
-10.
+10. Pensionszuschußkasse des Gewerkvereins christlicher Bergarbeiter Deutschlands.
 
-11.
+11. Versorgungskasse des Zentralverbands christlicher Textilarbeiter Deutschlands.
 
-12.
+12. Ruhegehaltskasse für die Angestellten des Gewerkschaftsbundes der Angestellten (GdA).
 
-13.
+13. Pensionskasse der Beamten (Sekretäre) der Gewerkschaft deutscher Eisenbahner e.V.
 
-14.
+14. Unterstützungskasse der Angestellten des Gewerkvereins deutscher Metallarbeiter (HD).
 
-15.
+15. Pensionskasse des Gewerkschaftsringes Deutscher Arbeiter-, Angestellten- und Beamtenverbände (HD) Berlin.
 
-16.
+16. Pensionszuschußkasse für die Angestellten des Gewerkvereins der Fabrik- und Handarbeiter (HD) Berlin.
 
-17.
+17. Fürsorgekasse für die in sozialdemokratischen Betrieben beschäftigten Personen.
 
-18.
+18. Pensionskasse des Zentralverbandes der Angestellten.
 
-19.
+19. Renten-, Pensions- und Sterbezuschußkasse (Rentka).
 
-20.
+20. Pensionskasse des Volksvereins für das katholische Deutschland in Mönchengladbach.
 
 ### § 2
-
-Diese Rechtsverordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 240 BEG auch im Land Berlin; sie gilt nicht im Saarland.
 
 > § 2 Kursivdruck: Überholt durch Einführung der V im Saarland durch G Nr. 658 ABl. des Sarlandes 1959 S. 759
 

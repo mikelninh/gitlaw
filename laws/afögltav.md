@@ -14,7 +14,15 @@ Auf Grund des § 2 Abs. 2 des Ausbildungsförderungsgesetzes vom 19. September 1
 
 ### § 1 — Ausbildungsstätten
 
-(1) Ausbildungsförderung nach dem Ausbildungsförderungsgesetz wird geleistet für den Besuch von Ausbildungsstätten für 1.landwirtschaftlich-technische Assistentinnen und Assistenten, 2.milchwirtschaftlich-technische Assistentinnen und Assistenten, 3.biologisch-technische Assistentinnen und Assistenten. (2) Ausbildungsförderung wird nur geleistet, wenn die Ausbildung an einer öffentlichen oder an einer durch die zuständige Landesbehörde staatlich anerkannten oder genehmigten Einrichtung durchgeführt wird. Diesen Einrichtungen sind Ausbildungsstätten von Bundesforschungsanstalten gleichgestellt, sofern die Ausbildung nach den Ausbildungs- und Prüfungsbestimmungen der Länder durchgeführt wird.
+(1) Ausbildungsförderung nach dem Ausbildungsförderungsgesetz wird geleistet für den Besuch von Ausbildungsstätten für
+
+1. landwirtschaftlich-technische Assistentinnen und Assistenten,
+
+2. milchwirtschaftlich-technische Assistentinnen und Assistenten,
+
+3. biologisch-technische Assistentinnen und Assistenten.
+
+(2) Ausbildungsförderung wird nur geleistet, wenn die Ausbildung an einer öffentlichen oder an einer durch die zuständige Landesbehörde staatlich anerkannten oder genehmigten Einrichtung durchgeführt wird. Diesen Einrichtungen sind Ausbildungsstätten von Bundesforschungsanstalten gleichgestellt, sofern die Ausbildung nach den Ausbildungs- und Prüfungsbestimmungen der Länder durchgeführt wird.
 
 ### § 2 — Förderungsrechtliche Stellung der Auszubildenden
 

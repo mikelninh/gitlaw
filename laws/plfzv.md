@@ -12,7 +12,11 @@ Auf Grund des § 2 Absatz 2 des Netzausbaubeschleunigungsgesetzes Übertragungsn
 
 ### § 1 — Durchführung der Planfeststellung durch die Bundesnetzagentur
 
-Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen führt die Planfeststellungsverfahren nach Abschnitt 3 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz durch für 1.die gemäß § 2 Absatz 1 Satz 1 des Bundesbedarfsplangesetzes in der Anlage zu diesem Gesetz mit „A1“ gekennzeichneten länderübergreifenden Höchstspannungsleitungen und2.die gemäß § 2 Absatz 1 Satz 2 des Bundesbedarfsplangesetzes in der Anlage zu diesem Gesetz mit „A2“ gekennzeichneten grenzüberschreitenden Höchstspannungsleitungen.
+Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen führt die Planfeststellungsverfahren nach Abschnitt 3 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz durch für
+
+1. die gemäß § 2 Absatz 1 Satz 1 des Bundesbedarfsplangesetzes in der Anlage zu diesem Gesetz mit „A1“ gekennzeichneten länderübergreifenden Höchstspannungsleitungen und
+
+2. die gemäß § 2 Absatz 1 Satz 2 des Bundesbedarfsplangesetzes in der Anlage zu diesem Gesetz mit „A2“ gekennzeichneten grenzüberschreitenden Höchstspannungsleitungen.
 
 ### § 2 — Inkrafttreten
 

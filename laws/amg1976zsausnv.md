@@ -10,9 +10,9 @@
 
 Es verordnen, jeweils in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. Januar 2001 (BGBl. I S. 127),
 
--
+- das Bundesministerium für Gesundheit und Soziale Sicherung auf Grund des § 71 Abs. 2 in Verbindung mit Abs. 3 des Arzneimittelgesetzes in der Fassung der Bekanntmachung vom 11. Dezember 1998 (BGBl. I S. 3586) in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206) im Einvernehmen mit dem Bundesministerium des Innern und mit dem Bundesministerium der Verteidigung,
 
--
+- das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft auf Grund des § 71 Abs. 2 in Verbindung mit Abs. 3 des Arzneimittelgesetzes in der Fassung der Bekanntmachung vom 11. Dezember 1998 (BGBl. I S. 3586) im Einvernehmen mit dem Bundesministerium des Innern und mit dem Bundesministerium der Verteidigung:
 
 ### § 1 — Zweck und Anwendungsbereich der Verordnung
 
@@ -24,15 +24,15 @@ Es verordnen, jeweils in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetz
 
 ### § 2 — Ausnahmen vom Vierten Abschnitt des Arzneimittelgesetzes
 
-(1) Abweichend von § 21 Abs. 1 des Arzneimittelgesetzes dürfen in § 1 Abs. 2 genannte Arzneimittel auch dann in den Verkehr gebracht werden, wenn für sie weder eine Zulassung durch die nach § 77 Absatz 1 oder Absatz 2 des Arzneimittelgesetzes zuständige Bundesoberbehörde noch eine Genehmigung für das Inverkehrbringen gemäß Artikel 3 Absatz 1 der Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung der Verfahren der Union für die Genehmigung und Überwachung von Humanarzneimitteln und zur Errichtung einer Europäischen Arzneimittel-Agentur (ABl. L 136 vom 30.4.2004 S. 1), die zuletzt durch die Verordnung (EU) 2019/5 (ABl. L 4 vom 7.1.2019, S. 24) geändert worden ist, durch die Europäische Kommission erteilt ist, sofern das Inverkehrbringen nicht zugelassener Arzneimittel für die Erfüllung der in § 1 Absatz 1 genannten Aufgaben unverzichtbar ist.
+(1) Abweichend von § 21 Abs. 1 des Arzneimittelgesetzes dürfen in § 1 Abs. 2 genannte Arzneimittel auch dann in den Verkehr gebracht werden, wenn für sie weder eine Zulassung durch die nach § 77 Absatz 1 oder Absatz 2 des Arzneimittelgesetzes zuständige Bundesoberbehörde noch eine Genehmigung für das Inverkehrbringen gemäß Artikel 3 Absatz 1 der Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung der Verfahren der Union für die Genehmigung und Überwachung von Humanarzneimitteln und zur Errichtung einer Europäischen Arzneimittel-Agentur (ABl. L 136 vom 30.4.2004 S. 1), die zuletzt durch die Verordnung (EU) 2019/5 (ABl. L 4 vom 7.1.2019, S. 24) geändert worden ist, durch die Europäische Kommission erteilt ist, sofern das Inverkehrbringen nicht zugelassener Arzneimittel für die Erfüllung der in § 1 Absatz 1 genannten Aufgaben unverzichtbar ist.
 
-(2) Der pharmazeutische Unternehmer oder die zuständige oberste Bundes- oder Landesbehörde übergeben alle ihnen verfügbaren Unterlagen, die die nach § 22 des Arzneimittelgesetzes für eine Zulassung erforderlichen Angaben zu Qualität, Wirksamkeit und Unbedenklichkeit des nicht zugelassenen Arzneimittels enthalten, der nach § 77 Absatz 1 oder Absatz 2 des Arzneimittelgesetzes zuständigen Bundesoberbehörde. Die Übergabe erfolgt spätestens zu dem Zeitpunkt, zu dem das nicht zugelassene Arzneimittel an eine zuständige Bundes- oder Landesbehörde oder an eine von diesen Behörden beauftragte Stelle abgegeben wird. Die nach § 77 Absatz 1 oder Absatz 2 des Arzneimittelgesetzes zuständige Bundesoberbehörde prüft die Unterlagen vorrangig und teilt der die Arzneimittelbeschaffung veranlassenden Stelle unverzüglich das Ergebnis mit einer Bewertung des Arzneimittels mit.
+(2) Der pharmazeutische Unternehmer oder die zuständige oberste Bundes- oder Landesbehörde übergeben alle ihnen verfügbaren Unterlagen, die die nach § 22 des Arzneimittelgesetzes für eine Zulassung erforderlichen Angaben zu Qualität, Wirksamkeit und Unbedenklichkeit des nicht zugelassenen Arzneimittels enthalten, der nach § 77 Absatz 1 oder Absatz 2 des Arzneimittelgesetzes zuständigen Bundesoberbehörde. Die Übergabe erfolgt spätestens zu dem Zeitpunkt, zu dem das nicht zugelassene Arzneimittel an eine zuständige Bundes- oder Landesbehörde oder an eine von diesen Behörden beauftragte Stelle abgegeben wird. Die nach § 77 Absatz 1 oder Absatz 2 des Arzneimittelgesetzes zuständige Bundesoberbehörde prüft die Unterlagen vorrangig und teilt der die Arzneimittelbeschaffung veranlassenden Stelle unverzüglich das Ergebnis mit einer Bewertung des Arzneimittels mit.
 
-(2a) Die Abgabe eines nach § 1 Absatz 2 beschafften, nicht zum Inverkehrbringen im Geltungsbereich des Arzneimittelgesetzes zugelassenen Arzneimittels ist nur zulässig, wenn die nach § 77 Absatz 1 oder Absatz 2 des Arzneimittelgesetzes zuständige Bundesoberbehörde festgestellt hat, dass
+(2a) Die Abgabe eines nach § 1 Absatz 2 beschafften, nicht zum Inverkehrbringen im Geltungsbereich des Arzneimittelgesetzes zugelassenen Arzneimittels ist nur zulässig, wenn die nach § 77 Absatz 1 oder Absatz 2 des Arzneimittelgesetzes zuständige Bundesoberbehörde festgestellt hat, dass
 
-1.
+1. die Qualität des Arzneimittels gewährleistet ist und
 
-2.
+2. seine Anwendung nach den Erkenntnissen der medizinischen Wissenschaft ein positives Nutzen-Risiko-Verhältnis zur Vorbeugung oder Behandlung der jeweiligen Erkrankung erwarten lässt.
 
 (3) Der pharmazeutische Unternehmer, der ein nicht zugelassenes Arzneimittel nach Absatz 1 an eine zuständige oberste Bundes- oder Landesbehörde oder eine von diesen beauftragte Stelle abgibt, hat der nach § 77 des Arzneimittelgesetzes zuständigen Bundesoberbehörde unverzüglich, spätestens aber innerhalb von 15 Tagen nach Bekanntwerden, jeden ihm bekannt gewordenen Verdachtsfall einer Nebenwirkung anzuzeigen. Der pharmazeutische Unternehmer und die zuständige oberste Bundes- oder Landesbehörde oder eine von ihr beauftragte Stelle können von Satz 1 abweichend vertraglich vereinbaren, dass bekannt gewordene Verdachtsfälle einer Nebenwirkung spätestens innerhalb von 15 Tagen nach Bekanntwerden der europäischen Arzneimittel-Agentur anzuzeigen sind, wenn dadurch in gleicher Weise die Arzneimittelsicherheit gewährleistet ist.
 
@@ -40,7 +40,7 @@ Es verordnen, jeweils in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetz
 
 ### § 3 — Ausnahmen vom Siebten Abschnitt des Arzneimittelgesetzes
 
-§ 43 Absatz 1 Satz 1 und Absatz 3 des Arzneimittelgesetzes, § 47 Absatz 1 des Arzneimittelgesetzes und § 48 Absatz 1 des Arzneimittelgesetzes finden auf die in § 1 Absatz 2 genannten Arzneimittel keine Anwendung.
+§ 43 Absatz 1 Satz 1 und Absatz 3 des Arzneimittelgesetzes, § 47 Absatz 1 des Arzneimittelgesetzes und § 48 Absatz 1 des Arzneimittelgesetzes finden auf die in § 1 Absatz 2 genannten Arzneimittel keine Anwendung.
 
 ### § 4 — Ausnahmen vom Dreizehnten Abschnitt des Arzneimittelgesetzes
 
@@ -52,29 +52,29 @@ Es verordnen, jeweils in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetz
 
 ### § 5 — Ausnahmen vom Zweiten Abschnitt des Arzneimittelgesetzes
 
-(1) Abweichend von § 8 Absatz 3 des Arzneimittelgesetzes dürfen in § 1 Absatz 2 genannte Arzneimittel, deren Verfalldatum abgelaufen ist, in den Verkehr gebracht werden, wenn die nach § 77 Absatz 1 oder Absatz 2 des Arzneimittelgesetzes zuständige Bundesoberbehörde festgestellt hat, dass Abweichend von Satz 1 kann für Arzneimittel, die ausschließlich im Geschäftsbereich des Bundesministeriums der Verteidigung in Verkehr gebracht werden, die Feststellung nach Satz 1 Nummer 2 durch das Bundesministerium der Verteidigung erfolgen.
+(1) Abweichend von § 8 Absatz 3 des Arzneimittelgesetzes dürfen in § 1 Absatz 2 genannte Arzneimittel, deren Verfalldatum abgelaufen ist, in den Verkehr gebracht werden, wenn die nach § 77 Absatz 1 oder Absatz 2 des Arzneimittelgesetzes zuständige Bundesoberbehörde festgestellt hat, dass
 
-1.
+1. die Qualität, die Wirksamkeit und die Unbedenklichkeit dieser Arzneimittel nicht wesentlich beeinträchtigt sind und
 
-2.
+2. das Inverkehrbringen zur Erfüllung der in § 1 Absatz 1 genannten Aufgaben erforderlich ist.
 
-(2) Die §§ 10, 11 und 11a des Arzneimittelgesetzes finden auf die in § 1 Absatz 2 genannten Arzneimittel keine Anwendung. Werden Arzneimittel ohne Kennzeichnung oder Packungsbeilage oder mit einer von den §§ 10 und 11 des Arzneimittelgesetzes abweichenden Kennzeichnung oder Packungsbeilage in den Verkehr gebracht, haben die zuständigen obersten Bundes- und Landesbehörden sicherzustellen, dass der Endverbraucher des Arzneimittels und die Fachkreise in geeigneter Weise Zugang zu den erforderlichen Produktinformationen erhalten.
+(2) Die §§ 10, 11 und 11a des Arzneimittelgesetzes finden auf die in § 1 Absatz 2 genannten Arzneimittel keine Anwendung. Werden Arzneimittel ohne Kennzeichnung oder Packungsbeilage oder mit einer von den §§ 10 und 11 des Arzneimittelgesetzes abweichenden Kennzeichnung oder Packungsbeilage in den Verkehr gebracht, haben die zuständigen obersten Bundes- und Landesbehörden sicherzustellen, dass der Endverbraucher des Arzneimittels und die Fachkreise in geeigneter Weise Zugang zu den erforderlichen Produktinformationen erhalten.
 
-(3) § 9 Absatz 2 des Arzneimittelgesetzes findet auf die in § 1 Absatz 2 genannten Arzneimittel keine Anwendung.
+(3) § 9 Absatz 2 des Arzneimittelgesetzes findet auf die in § 1 Absatz 2 genannten Arzneimittel keine Anwendung.
 
 ### § 5a — Ausnahmen vom Dritten Abschnitt des Arzneimittelgesetzes und von der Arzneimittel- und Wirkstoffherstellungsverordnung
 
-(1) Die zuständige Behörde kann das Inverkehrbringen von in § 1 Absatz 2 genannten Arzneimitteln gestatten, die abweichend von den §§ 13 bis 15 und 19 des Arzneimittelgesetzes oder abweichend von den §§ 3, 4, 11, 13, 15 bis 17 der Arzneimittel- und Wirkstoffherstellungsverordnung und den §§ 22 bis 26 der Arzneimittel- und Wirkstoffherstellungsverordnung hergestellt wurden, wenn die nach § 77 Absatz 1 oder Absatz 2 zuständige Bundesoberbehörde festgestellt hat, dass
+(1) Die zuständige Behörde kann das Inverkehrbringen von in § 1 Absatz 2 genannten Arzneimitteln gestatten, die abweichend von den §§ 13 bis 15 und 19 des Arzneimittelgesetzes oder abweichend von den §§ 3, 4, 11, 13, 15 bis 17 der Arzneimittel- und Wirkstoffherstellungsverordnung und den §§ 22 bis 26 der Arzneimittel- und Wirkstoffherstellungsverordnung hergestellt wurden, wenn die nach § 77 Absatz 1 oder Absatz 2 zuständige Bundesoberbehörde festgestellt hat, dass
 
-1.
+1. seine Anwendung nach den Erkenntnissen der medizinischen Wissenschaft ein positives Nutzen-Risiko-Verhältnis zur Vorbeugung oder Behandlung der jeweiligen Erkrankung erwarten lässt,
 
-2.
+2. die Abweichung von den Vorschriften des Arzneimittelgesetzes oder der Arzneimittel- und Wirkstoffherstellungsverordnung zur Erfüllung der in § 1 Absatz 1 genannten Aufgaben erforderlich ist und
 
-3.
+3. die Qualität, die Wirksamkeit und die Unbedenklichkeit der Arzneimittel gewährleistet sind.
 
 (2) § 13 Absatz 2a Satz 1 des Arzneimittelgesetzes findet auf die in § 1 Absatz 2 genannten Arzneimittel keine Anwendung.
 
-(3) Zuständige Behörde im Sinne des Absatzes 1 ist bei in § 1 Absatz 2 genannten Arzneimitteln, die ausschließlich im Geschäftsbereich des Bundesministeriums der Verteidigung in den Verkehr gebracht werden, die zuständige Stelle der Bundeswehr. Die Feststellung nach Absatz 1 trifft bei solchen Arzneimitteln das Bundesministerium der Verteidigung.
+(3) Zuständige Behörde im Sinne des Absatzes 1 ist bei in § 1 Absatz 2 genannten Arzneimitteln, die ausschließlich im Geschäftsbereich des Bundesministeriums der Verteidigung in den Verkehr gebracht werden, die zuständige Stelle der Bundeswehr. Die Feststellung nach Absatz 1 trifft bei solchen Arzneimitteln das Bundesministerium der Verteidigung.
 
 ### § 6 — Ausnahmen vom Achten Abschnitt des Arzneimittelgesetzes
 
@@ -82,13 +82,13 @@ Es verordnen, jeweils in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetz
 
 ### § 7 — Ausnahmen vom Sechzehnten Abschnitt des Arzneimittelgesetzes
 
-(1) Pharmazeutische Unternehmer, Hersteller und Angehörige von Gesundheitsberufen unterliegen hinsichtlich der Auswirkungen der Verwendung der in § 1 Abs. 2 genannten Arzneimittel, die zur Anwendung bei Menschen bestimmt sind, nicht der Haftung, wenn Pharmazeutische Unternehmer, Hersteller und Angehörige von Gesundheitsberufen haben die Folgen der auf § 2 Absatz 1 oder Absatz 4 oder § 5 Absatz 1 oder Absatz 2 gestützten Abweichungen von dem Zweiten oder Vierten Abschnitt des Arzneimittelgesetzes nur bei grober Fahrlässigkeit oder Vorsatz zu vertreten. Im Übrigen bleibt die Haftung für schuldhaftes Handeln und für fehlerhafte Produkte nach den Vorschriften des Produkthaftungsgesetzes unberührt.
+(1) Pharmazeutische Unternehmer, Hersteller und Angehörige von Gesundheitsberufen unterliegen hinsichtlich der Auswirkungen der Verwendung der in § 1 Abs. 2 genannten Arzneimittel, die zur Anwendung bei Menschen bestimmt sind, nicht der Haftung, wenn
 
-1.
+1. diese Arzneimittel unter Anwendung des § 2 Absatz 1 oder Absatz 4 oder § 5 Absatz 1 oder Absatz 2 als Reaktion auf die vermutete oder bestätigte Verbreitung von pathogenen Erregern, Toxinen, Chemikalien oder eine Freisetzung ionisierender Strahlung in Verkehr gebracht werden und
 
-2.
+2. nach den Gegebenheiten des Einzelfalls die auf § 2 Absatz 1 oder Absatz 4 oder § 5 Absatz 1 oder Absatz 2 gestützten Abweichungen von dem Zweiten oder Vierten Abschnitt des Arzneimittelgesetzes geeignet sind, den Schaden zu verursachen.
 
-(2) § 94 des Arzneimittelgesetzes findet auf die in § 1 Absatz 2 genannten Arzneimittel keine Anwendung.
+(2) § 94 des Arzneimittelgesetzes findet auf die in § 1 Absatz 2 genannten Arzneimittel keine Anwendung.
 
 ### § 8 — Inkrafttreten
 

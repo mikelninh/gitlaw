@@ -20,5 +20,3 @@ Der Generaldirektion Wasserstraßen und Schifffahrt wird die Ermächtigung über
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Verkehr

@@ -38,37 +38,37 @@ Die Heilfürsorge wird grundsätzlich als Sachleistung gewährt. Für Zuzahlunge
 
 (1) Die Heilfürsorge umfasst folgende Leistungen:
 
-1.
+1. Leistungen zur Verhütung und Früherkennung von Krankheiten, medizinische Vorsorgeleistungen und medizinische Vorsorge für Mütter und Väter entsprechend den §§ 20, 20i, 23 bis 24b und 25 des Fünften Buches Sozialgesetzbuch,
 
-2.
+2. Leistungen bei Schwangerschaft, Entbindung und Mutterschaft entsprechend den §§ 24c bis 24h des Fünften Buches Sozialgesetzbuch sowie zusätzlich 200 Euro pro Schwangerschaft für zusätzliche Vorsorge- und Früherkennungsleistungen,
 
-3.
+3. Leistungen zur künstlichen Befruchtung entsprechend § 27a des Fünften Buches Sozialgesetzbuch,
 
-4.
+4. ärztliche und zahnärztliche Behandlung entsprechend § 27 Absatz 1 in Verbindung mit den §§ 28, 55 und 56 des Fünften Buches Sozialgesetzbuch,
 
-5.
+5. Versorgung mit Arznei- und Verbandmitteln entsprechend § 27 Absatz 1 in Verbindung mit § 31 des Fünften Buches Sozialgesetzbuch,
 
-6.
+6. Versorgung mit Heilmitteln entsprechend § 27 Absatz 1 in Verbindung mit den §§ 32 und 92 des Fünften Buches Sozialgesetzbuch,
 
-7.
+7. Versorgung mit Hilfsmitteln entsprechend § 27 Absatz 1 in Verbindung mit den §§ 33, 36 und 92 des Fünften Buches Sozialgesetzbuch,
 
-8.
+8. häusliche Krankenpflege, Soziotherapie und spezialisierte ambulante Palliativversorgung entsprechend § 27 Absatz 1 in Verbindung mit den §§ 37 bis 37b des Fünften Buches Sozialgesetzbuch,
 
-9.
+9. Haushaltshilfe entsprechend § 27 Absatz 1 in Verbindung mit § 38 des Fünften Buches Sozialgesetzbuch,
 
-10.
+10. Krankenhausbehandlung sowie stationäre und ambulante Hospizleistungen entsprechend § 27 Absatz 1 in Verbindung mit den §§ 39 und 39a des Fünften Buches Sozialgesetzbuch,
 
-11.
+11. Leistungen zur medizinischen Rehabilitation, medizinische Rehabilitation für Mütter und Väter sowie ergänzende Leistungen zur Rehabilitation entsprechend § 27 Absatz 1 in Verbindung mit den §§ 40, 41 und 43 des Fünften Buches Sozialgesetzbuch,
 
-12.
+12. Fahrkosten entsprechend § 60 des Fünften Buches Sozialgesetzbuch,
 
-13.
+13. Leistungen bei Pflegebedürftigkeit entsprechend dem Elften Buch Sozialgesetzbuch.
 
-(2) Soweit in dieser Verordnung nichts anderes bestimmt ist, entsprechen die Leistungen der Heilfürsorge den Leistungen Die Leistungen müssen ausreichend, zweckmäßig und wirtschaftlich sein; sie dürfen das Maß des Notwendigen nicht überschreiten.
+(2) Soweit in dieser Verordnung nichts anderes bestimmt ist, entsprechen die Leistungen der Heilfürsorge den Leistungen
 
-1.
+1. der gesetzlichen Krankenversicherung nach dem Fünften Buch Sozialgesetzbuch und den hierauf beruhenden, im Rang nachgehenden Regelungen sowie
 
-2.
+2. der sozialen Pflegeversicherung nach dem Elften Buch Sozialgesetzbuch.
 
 (3) Grundsätzlich werden die Kosten der Leistungen auf der Grundlage der von den Ersatzkassen getroffenen Vereinbarungen mit den Leistungserbringern übernommen.
 
@@ -144,11 +144,11 @@ Bei Organ- und Gewebetransplantationen werden in entsprechender Anwendung der Vo
 
 ### § 13 — Fahrkosten
 
-(1) Fahrtkosten für Krankenbeförderungen werden entsprechend der Krankentransport-Richtlinie des Gemeinsamen Bundesausschusses nach § 92 Absatz 1 Satz 2 Nummer 12 des Fünften Buches Sozialgesetzbuch in der jeweils geltenden und nach § 94 Absatz 2 des Fünften Buches Sozialgesetzbuch im Bundesanzeiger bekannt gemachten Fassung mit der Maßgabe übernommen, dass über erforderliche Genehmigungen das für Heilfürsorgeangelegenheiten zuständige Referat des Bundespolizeipräsidiums entscheidet. Dies gilt auch für Krankentransporte mit Fahrzeugen der Bundespolizei. Über die Erteilung der Genehmigung nach § 9 der Krankentransport-Richtlinien entscheidet
+(1) Fahrtkosten für Krankenbeförderungen werden entsprechend der Krankentransport-Richtlinie des Gemeinsamen Bundesausschusses nach § 92 Absatz 1 Satz 2 Nummer 12 des Fünften Buches Sozialgesetzbuch in der jeweils geltenden und nach § 94 Absatz 2 des Fünften Buches Sozialgesetzbuch im Bundesanzeiger bekannt gemachten Fassung mit der Maßgabe übernommen, dass über erforderliche Genehmigungen das für Heilfürsorgeangelegenheiten zuständige Referat des Bundespolizeipräsidiums entscheidet. Dies gilt auch für Krankentransporte mit Fahrzeugen der Bundespolizei. Über die Erteilung der Genehmigung nach § 9 der Krankentransport-Richtlinien entscheidet
 
-1.
+1. bei Heilfürsorgeberechtigten, die eine allgemeine Heilfürsorgekarte besitzen, das für Heilfürsorgeangelegenheiten zuständige Referat des Bundespolizeipräsidiums,
 
-2.
+2. bei Heilfürsorgeberechtigten, die keine allgemeine Heilfürsorgekarte besitzen, die zuständige Ärztin der Bundespolizei oder der zuständige Arzt der Bundespolizei.
 
 (2) Übernommen werden die durch Landes- oder Kommunalrecht oder in den Verträgen der Mitglieder des Verbandes der Ersatzkassen e. V. mit den Trägern der Rettungs- und Krankentransportdienste festgelegten Entgelte.
 
@@ -162,21 +162,21 @@ Bei Organ- und Gewebetransplantationen werden in entsprechender Anwendung der Vo
 
 (1) Bei Erkrankungen während eines dienstlichen Aufenthaltes im Ausland werden die notwendigen und wirtschaftlich angemessenen krankheitsbedingten Aufwendungen im Einsatzland übernommen. Sofern nicht zwingende Gründe entgegenstehen, dürfen nur Leistungserbringer in Anspruch genommen werden, die ortsübliche Vergütungen berechnen.
 
-(2) Heilfürsorgeberechtigte haben die Kostenerstattung bei dem für Heilfürsorgeangelegenheiten zuständigen Referat des Bundespolizeipräsidiums schriftlich zu beantragen; eine Bankverbindung ist anzugeben. Dem Antrag sind beizufügen: Die Kosten für Übersetzungen nach Satz 2 Nummer 2 werden übernommen.
+(2) Heilfürsorgeberechtigte haben die Kostenerstattung bei dem für Heilfürsorgeangelegenheiten zuständigen Referat des Bundespolizeipräsidiums schriftlich zu beantragen; eine Bankverbindung ist anzugeben. Dem Antrag sind beizufügen:
 
-1.
+1. Originalbelege (Rechnung mit Diagnose, Verordnung),
 
-2.
+2. gegebenenfalls Kopien der Arztberichte mit deutscher Übersetzung und
 
-3.
+3. gegebenenfalls ein Nachweis des Umrechnungskurses der ausländischen Währung am Tag der Zahlung.
 
 ### § 16 — Behandlung während eines privaten Aufenthaltes oder bei Wohnsitz in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz
 
 (1) Während eines privaten Aufenthaltes oder bei Wohnsitz in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz dürfen nur solche Leistungserbringer in Anspruch genommen werden,
 
-1.
+1. bei denen die Bedingungen des Zuganges und der Ausübung des Berufes Gegenstand einer Richtlinie der Europäischen Union sind oder
 
-2.
+2. die im System der Krankenversicherung des Aufenthaltsstaates zur Versorgung der Versicherten berechtigt sind.
 
 (1a) Ist während eines vorübergehenden privaten Aufenthaltes eine Behandlung unverzüglich erforderlich, die auch im Inland möglich wäre, so übernimmt die Heilfürsorge die Kosten der erforderlichen Behandlung. Die Kostenübernahme ist nicht zulässig, wenn Heilfürsorgeberechtigte sich zur Behandlung ins Ausland begeben.
 
@@ -198,7 +198,7 @@ Bei Organ- und Gewebetransplantationen werden in entsprechender Anwendung der Vo
 
 ### § 18 — Übergangsvorschrift
 
-(1) § 6 Absatz 4 ist anwendbar auf Behandlungen, die nach Ablauf des 31. Oktober 2025 begonnen wurden. Der Beginn einer Behandlung in diesem Sinne ist die Erbringung der ersten kostenauslösenden Behandlungsleistung. Im Einzelfall kann die Erstattung trotz einer bereits vor dem 1. April 2025 begonnenen Behandlung nach § 6 Absatz 4 erfolgen, wenn die bereits erbrachten Leistungen im Verhältnis zur Gesamtbehandlung als geringfügig zu bewerten sind.
+(1) § 6 Absatz 4 ist anwendbar auf Behandlungen, die nach Ablauf des 31. Oktober 2025 begonnen wurden. Der Beginn einer Behandlung in diesem Sinne ist die Erbringung der ersten kostenauslösenden Behandlungsleistung. Im Einzelfall kann die Erstattung trotz einer bereits vor dem 1. April 2025 begonnenen Behandlung nach § 6 Absatz 4 erfolgen, wenn die bereits erbrachten Leistungen im Verhältnis zur Gesamtbehandlung als geringfügig zu bewerten sind.
 
 (2) Im Übrigen ist die ab dem 1. November 2025 geltende Fassung dieser Verordnung auf Leistungen anwendbar, die ab dem 1. November 2025 erbracht werden. Maßgebend hierfür ist die erste kostenauslösende Behandlungsleistung oder, sofern keine Behandlungsleistung erbracht wird, die erste kostenauslösende Tätigkeit eines Leistungserbringers.
 

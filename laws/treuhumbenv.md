@@ -17,7 +17,13 @@ Die Treuhandanstalt wird in Bundesanstalt für vereinigungsbedingte Sonderaufgab
 
 ### § 2
 
-(1) Die Bundesanstalt für vereinigungsbedingte Sonderaufgaben ist auch für die Erteilung des Investitionsvorrangbescheides nach den Vorschriften des Investitionsvorranggesetzes zuständig bei Vermögenswerten, die im Eigentum einer Kapitalgesellschaft stehen, deren sämtliche Geschäftsanteile oder Aktien sich unmittelbar oder mittelbar in der Hand der Bundesanstalt für vereinigungsbedingte Sonderaufgaben befinden. Diese Zuständigkeit besteht auch für den Fall, daß Beteiligungen an in Satz 1 bezeichneten Kapitalgesellschaften auf den Bund, Einrichtungen des Bundes oder eine Kapitalgesellschaft übertragen werden, deren sämtliche Geschäftsanteile oder Aktien sich unmittelbar oder mittelbar in der Hand des Bundes befinden.(2) Die Bundesanstalt für vereinigungsbedingte Sonderaufgaben ist auch zuständig, wenn Vermögenswerte von in Absatz 1 Satz 1 bezeichneten Kapitalgesellschaften oder der Bundesanstalt für vereinigungsbedingte Sonderaufgaben auf den Bund, Einrichtungen des Bundes oder eine Kapitalgesellschaft übertragen werden, deren sämtliche Geschäftsanteile oder Aktien sich unmittelbar oder mittelbar in der Hand des Bundes befinden.(3) Die Absätze 1 und 2 gelten in den Fällen des § 7 Abs. 1 Satz 3 der Grundstücksverkehrsordnung sinngemäß.(4) § 4 Abs. 2 des Investitionsvorranggesetzes bleibt im übrigen unberührt.
+(1) Die Bundesanstalt für vereinigungsbedingte Sonderaufgaben ist auch für die Erteilung des Investitionsvorrangbescheides nach den Vorschriften des Investitionsvorranggesetzes zuständig bei Vermögenswerten, die im Eigentum einer Kapitalgesellschaft stehen, deren sämtliche Geschäftsanteile oder Aktien sich unmittelbar oder mittelbar in der Hand der Bundesanstalt für vereinigungsbedingte Sonderaufgaben befinden. Diese Zuständigkeit besteht auch für den Fall, daß Beteiligungen an in Satz 1 bezeichneten Kapitalgesellschaften auf den Bund, Einrichtungen des Bundes oder eine Kapitalgesellschaft übertragen werden, deren sämtliche Geschäftsanteile oder Aktien sich unmittelbar oder mittelbar in der Hand des Bundes befinden.
+
+(2) Die Bundesanstalt für vereinigungsbedingte Sonderaufgaben ist auch zuständig, wenn Vermögenswerte von in Absatz 1 Satz 1 bezeichneten Kapitalgesellschaften oder der Bundesanstalt für vereinigungsbedingte Sonderaufgaben auf den Bund, Einrichtungen des Bundes oder eine Kapitalgesellschaft übertragen werden, deren sämtliche Geschäftsanteile oder Aktien sich unmittelbar oder mittelbar in der Hand des Bundes befinden.
+
+(3) Die Absätze 1 und 2 gelten in den Fällen des § 7 Abs. 1 Satz 3 der Grundstücksverkehrsordnung sinngemäß.
+
+(4) § 4 Abs. 2 des Investitionsvorranggesetzes bleibt im übrigen unberührt.
 
 ### § 3
 

@@ -26,9 +26,9 @@
 
 (7) Die Entscheidung zur Auferlegung eines Anpassungslehrgangs oder einer Eignungsprüfung muss hinreichend begründet sein. Insbesondere ist dem Bewerber mitzuteilen
 
-a)
+a) das Niveau der in Deutschland verlangten Berufsqualifikation und das Niveau der vom Bewerber vorgelegten Berufsqualifikation gemäß der Klassifizierung in Artikel 11 der Richtlinie 2005/36/EG und
 
-b)
+b) die wesentlichen Unterschiede zwischen der bisherigen Ausbildung oder Prüfung des Bewerbers und den Vorgaben der Fahrlehrer-Ausbildungsverordnung und der Fahrlehrer-Prüfungsverordnung sowie die Gründe, aus denen diese Unterschiede nicht durch Kenntnisse, Fähigkeiten und Kompetenzen, die durch lebenslanges Lernen erworben und hierfür von der nach Landesrecht zuständigen Stelle als gültig anerkannt wurden, ausgeglichen werden können.
 
 (8) Für die Erteilung einer Fahrschulerlaubnis nach § 21 des Fahrlehrergesetzes gelten die Absätze 2 bis 7 entsprechend. Im Hinblick auf das Erfordernis von Ausgleichsmaßnahmen kommt es auch auf die in § 18 Absatz 1 Nummer 4 und 5 des Fahrlehrergesetzes enthaltenen Anforderungen an. Wird ausschließlich von dem durch § 18 Absatz 1 Nummer 5 des Fahrlehrergesetzes vorausgesetzten Standard abgewichen, ist Absatz 3 Satz 2 bis 5 nicht anzuwenden.
 
@@ -44,13 +44,13 @@ b)
 
 ### § 2a — Durchführung des Lehrgangs Fahrschulbetriebswirtschaft
 
-(1) Der Träger der Lehrgänge über Fahrschulbetriebswirtschaft nach § 18 Absatz 1 Satz 1 Nummer 5 des Fahrlehrergesetzes muss mindestens folgende Lehrkräfte mit folgender Qualifikation einsetzen: Abweichend davon dürfen auch andere Lehrkräfte eingesetzt werden, wenn diese in der Lage sind, die im Musterplan nach Anlage 1a genannten Inhalte zu vermitteln.
+(1) Der Träger der Lehrgänge über Fahrschulbetriebswirtschaft nach § 18 Absatz 1 Satz 1 Nummer 5 des Fahrlehrergesetzes muss mindestens folgende Lehrkräfte mit folgender Qualifikation einsetzen:
 
-1.
+1. eine Lehrkraft mit der Befähigung zum Richteramt (Jurist),
 
-2.
+2. eine Fachkraft für Betriebswirtschaft (Betriebswirt) und
 
-3.
+3. einen Fahrlehrer, der die Fahrlehrerlaubnisklassen A, BE und CE oder DE besitzt und mindestens drei Jahre lang eine Fahrschule verantwortlich geführt hat.
 
 (2) Der Lehrgang muss mindestens die Sachgebiete des Musterplans nach Anlage 1a umfassen. Die tägliche Dauer darf acht Unterrichtseinheiten zu je 45 Minuten nicht überschreiten.
 
@@ -90,39 +90,29 @@ Für den nach § 32 Absatz 1 des Fahrlehrergesetzes vorgeschriebenen Aushang ist
 
 ### § 8 — Verantwortliche Leitung
 
-(1) Die für die verantwortliche Leitung einer Fahrlehrerausbildungsstätte bestellte Person muss: Außerdem dürfen keine Tatsachen vorliegen, die ihn für die Tätigkeit als unzuverlässig erscheinen lassen.
+(1) Die für die verantwortliche Leitung einer Fahrlehrerausbildungsstätte bestellte Person muss:
 
-1.
+1. das 28. Lebensjahr vollendet haben,
 
-2.
+2. geistig und körperlich geeignet sein,
 
-3.
+3. die Fahrlehrerlaubnis aller Klassen (ausgenommen Klasse DE) besitzen und
 
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+4. a)drei Jahre lang Inhaber der Fahrschulerlaubnis oder für die verantwortliche Leitung einer Fahrschule bestellte Person gewesen sein,b)drei Jahre lang hauptberufliche Lehrkraft einer Fahrlehrerausbildungsstätte gewesen sein,c)ein Studium, das ausreichende Kenntnisse des Maschinenbaus vermittelt, an einer Hochschule abgeschlossen haben,d)die Befähigung zum Richteramt besitzen odere)ein Hochschulstudium mit bildungswissenschaftlichem Schwerpunkt und Diplom- oder gleichwertigem Studienabschluss abgeschlossen haben. drei Jahre lang Inhaber der Fahrschulerlaubnis oder für die verantwortliche Leitung einer Fahrschule bestellte Person gewesen sein, drei Jahre lang hauptberufliche Lehrkraft einer Fahrlehrerausbildungsstätte gewesen sein, ein Studium, das ausreichende Kenntnisse des Maschinenbaus vermittelt, an einer Hochschule abgeschlossen haben, die Befähigung zum Richteramt besitzen oder ein Hochschulstudium mit bildungswissenschaftlichem Schwerpunkt und Diplom- oder gleichwertigem Studienabschluss abgeschlossen haben.
 
 (2) Besitzt die für die verantwortliche Leitung bestellte Person aus gesundheitlichen Gründen keine Fahrerlaubnis der Klasse CE, genügt es, dass sie mindestens einmal die entsprechende Fahrerlaubnis erworben hatte. Absatz 1 Satz 1 Nummer 2 bleibt unberührt.
 
 ### § 9 — Lehrkräfte in der Fahrlehrerausbildungsstätte
 
-(1) In der Fahrlehrerausbildungsstätte müssen mindestens folgende Lehrkräfte mit folgender Qualifikation tätig sein:Eine Lehrkraft kann mehrere der Anforderungen nach den Nummern 1 bis 4 erfüllen. Jede Lehrkraft muss eine Fahrerlaubnis besitzen.
+(1) In der Fahrlehrerausbildungsstätte müssen mindestens folgende Lehrkräfte mit folgender Qualifikation tätig sein:
 
-1.
+1. eine Lehrkraft mit der Befähigung zum Richteramt (Jurist),
 
-2.
+2. eine Lehrkraft mit einem abgeschlossenen Studium des Maschinenbaufachs, des Kraftfahrzeugbaufachs oder der Elektrotechnik an einer deutschen Universität oder Technischen Hochschule oder einer als gleichwertig anerkannten ausländischen Hochschule, und mit mindestens zweijähriger Praxis auf dem Gebiet des Baus oder des Betriebs von Kraftfahrzeugen,
 
-3.
+3. ein Fahrlehrer, der die Fahrlehrerlaubnisklassen A, BE, CE und, sofern Bewerber in der Fahrlehrerlaubnisklasse DE ausgebildet werden sollen, auch die Fahrlehrerlaubnis der Klasse DE besitzt und drei Jahre lang hauptberuflich Fahrschüler theoretisch und praktisch ausgebildet hat, und
 
-4.
+4. eine Lehrkraft mit abgeschlossenem Hochschulstudium mit bildungswissenschaftlichem Schwerpunkt und Diplom oder gleichwertigem Studienabschluss.
 
 (2) Abweichend von Absatz 1 Satz 1 Nummer 3 kann die nach Landesrecht zuständige Behörde nach § 50 Absatz 2 Nummer 4 des Fahrlehrergesetzes einer Lehrkraft, die aus gesundheitlichen Gründen die der jeweiligen Fahrlehrerlaubnisklasse zugrunde liegende Fahrerlaubnisklasse nicht mehr besitzt, gestatten, weiterhin an der Fahrlehrerausbildungsstätte theoretischen Unterricht zu erteilen, wenn sie körperlich und geistig im Sinne des § 2 Absatz 1 Satz 1 Nummer 2 des Fahrlehrergesetzes geeignet ist.
 
@@ -134,21 +124,21 @@ Die Unterrichtsräume müssen nach Größe, Beschaffenheit und Einrichtung einen
 
 ### § 11 — Lehrmittel in der Fahrlehrerausbildungsstätte
 
-In der Fahrlehrerausbildungsstätte müssen folgende Lehrmittel ständig vorhanden sein: Die Lehrmittel müssen dem geltenden Recht und dem Stand der Technik entsprechen.
+In der Fahrlehrerausbildungsstätte müssen folgende Lehrmittel ständig vorhanden sein:
 
-1.
+1. Medien, die der visuellen und großflächigen Darstellung dienen,
 
-2.
+2. Anschauungsmaterial über Verkehrsvorschriften, Verkehrsvorgänge, fahrtechnische Vorgänge sowie Kraftfahrzeugbau und -betrieb,
 
-3.
+3. Lehrmodelle der wichtigsten Fahrzeugbauteile, je nach Ausbildungsklasse,
 
-4.
+4. das wichtigste Kraftfahrzeugzubehör im Original oder in Modellen,
 
-5.
+5. Gesetze, Verordnungen und Allgemeine Verwaltungsvorschriften des Straßenverkehrsrechts und der benachbarten Rechtsgebiete sowie die dazu erlassenen Richtlinien des Bundesministeriums für Verkehr und digitale Infrastruktur,
 
-6.
+6. Erläuterungswerke zu den Gesetzen und Verordnungen des Straßenverkehrsrechts und
 
-7.
+7. fortlaufende Sammlung des Verkehrsblattes (Amtsblatt des Bundesministeriums für Verkehr und digitale Infrastruktur der Bundesrepublik Deutschland) und verkehrsrechtliche Entscheidungen sowie kraftfahrzeugtechnische und pädagogische Fachliteratur.
 
 ### § 12 — Lehrfahrzeuge in der Fahrlehrerausbildungsstätte
 
@@ -164,19 +154,19 @@ Die für die Fahrlehrerausbildung zu verwendenden Fahrzeuge müssen den Anforder
 
 (3) Die Lehrgänge bestehen aus den Abschnitten
 
-1.
+1. Grundeinweisung in die gruppenorientierten Lehrmethoden,
 
-2.
+2. Einweisung in die Durchführung von Seminaren nach § 2a des Straßenverkehrsgesetzes.
 
 ### § 14 — Dauer und Leitung der Lehrgänge
 
 (1) Die Lehrgangsabschnitte nach § 13 Absatz 3 sind jeweils in vier zusammenhängenden Tagen zu vermitteln. Ihre tägliche Dauer beträgt acht Unterrichtseinheiten zu je 45 Minuten. Die Zahl der Teilnehmer darf sechs nicht unterschreiten und 16 nicht überschreiten. Die Leitung erfolgt gemeinsam durch je eine der in Absatz 2 genannten Lehrkräfte.
 
-(2) Zur Leitung ist berechtigt, wer und an jeweils viertägigen von der nach Landesrecht zuständigen Behörde anerkannten Einführungsseminaren für Lehrgangsleitungen in den Lehrgangsabschnitten nach § 13 Absatz 3 teilgenommen hat.
+(2) Zur Leitung ist berechtigt, wer
 
-1.
+1. Inhaber der Seminarerlaubnis nach § 45 des Fahrlehrergesetzes ist und über Erfahrungen in der Durchführung von Seminaren nach dem Straßenverkehrsgesetz oder über vergleichbare Erfahrungen in der Moderationstechnik verfügt, oder
 
-2.
+2. die Voraussetzungen des § 9 Absatz 1 Satz 1 Nummer 4 erfüllt, eine Fahrerlaubnis nach § 9 Absatz 1 Satz 3 besitzt sowie über Kenntnisse und Erfahrungen in gruppenorientierten Lernprozessen und der Erwachsenenbildung verfügt,
 
 ## Vierter Abschnitt: Überwachung
 
@@ -184,23 +174,11 @@ Die für die Fahrlehrerausbildung zu verwendenden Fahrzeuge müssen den Anforder
 
 (1) Als Überwachungsperson darf eingesetzt werden, wer
 
-1.
+1. als Inhaber einer Fahrlehrerlaubnis a)über eine mindestens vierjährige Berufserfahrung als Fahrlehrer verfügt,b)die letzten beiden Überprüfungen nach § 51 des Fahrlehrergesetzes ohne oder mit nur geringfügigen Beanstandungen absolviert hat, undc)keine verantwortliche Position in einem Verband der Fahrlehrer wahrnimmt, über eine mindestens vierjährige Berufserfahrung als Fahrlehrer verfügt, die letzten beiden Überprüfungen nach § 51 des Fahrlehrergesetzes ohne oder mit nur geringfügigen Beanstandungen absolviert hat, und keine verantwortliche Position in einem Verband der Fahrlehrer wahrnimmt, oder
 
-a)
+2. als andere geeignete Person a)zum Zeitpunkt der Aufnahme dieser Tätigkeit ein eintragungsfreies Führungszeugnis nach § 30a Absatz 1 des Bundeszentralregistergesetzes und einen eintragungsfreien Auszug aus dem Fahreignungsregister vorlegt, die nicht älter als drei Monate sind,b)die erforderlichen grundlegenden fachlichen und pädagogisch-didaktischen Kenntnisse nachweist, undc)eine gültige Fahrerlaubnis der Klasse B besitzt, zum Zeitpunkt der Aufnahme dieser Tätigkeit ein eintragungsfreies Führungszeugnis nach § 30a Absatz 1 des Bundeszentralregistergesetzes und einen eintragungsfreien Auszug aus dem Fahreignungsregister vorlegt, die nicht älter als drei Monate sind, die erforderlichen grundlegenden fachlichen und pädagogisch-didaktischen Kenntnisse nachweist, und eine gültige Fahrerlaubnis der Klasse B besitzt, oder
 
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-c)
-
-3.
+3. qualifizierter und geeigneter Bediensteter der nach Landesrecht zuständigen Behörde ist oder durch die Dienststelle nach § 44 Absatz 2 des Fahrlehrergesetzes bestimmt wird und eine gültige Fahrerlaubnis der Klasse B besitzt.
 
 (2) Die mit der Beurteilung der pädagogischen Qualität betrauten Personen müssen zudem an einer mindestens neuntägigen Basisausbildung zur pädagogisch erweiterten Überwachung teilnehmen, die den jeweiligen Inhalten der Überwachung entspricht. Die Ausbildung ist nach einem von der am Sitz des Ausbildungsträgers nach Landesrecht zuständigen Behörde zu genehmigenden Rahmenlehrplan durchzuführen.
 
@@ -210,11 +188,11 @@ c)
 
 ### § 16 — Qualitätssichernde Anordnungen
 
-(1) Werden im Rahmen der Überwachung der fachlichen und pädagogischen Qualität des Unterrichts Mängel festgestellt, kann die nach Landesrecht zuständige Behörde oder die Dienststelle nach § 44 Absatz 2 des Fahrlehrergesetzes gegenüber dem Fahrlehrer, gegenüber dem Inhaber oder der für die verantwortliche Leitung der Fahrschule oder der Fahrlehrerausbildungsstätte bestellten Person, oder gegenüber dem Träger von Einweisungsseminaren, Einweisungslehrgängen und Einführungslehrgängen für Lehrgangsleitungen sowie Fortbildungslehrgängen, folgende Maßnahmen anordnen: Beide Maßnahmen können auch zusammen angeordnet werden.
+(1) Werden im Rahmen der Überwachung der fachlichen und pädagogischen Qualität des Unterrichts Mängel festgestellt, kann die nach Landesrecht zuständige Behörde oder die Dienststelle nach § 44 Absatz 2 des Fahrlehrergesetzes gegenüber dem Fahrlehrer, gegenüber dem Inhaber oder der für die verantwortliche Leitung der Fahrschule oder der Fahrlehrerausbildungsstätte bestellten Person, oder gegenüber dem Träger von Einweisungsseminaren, Einweisungslehrgängen und Einführungslehrgängen für Lehrgangsleitungen sowie Fortbildungslehrgängen, folgende Maßnahmen anordnen:
 
-1.
+1. eine Praxisberatung über eine verkehrspädagogisch-didaktisch angemessene Gestaltung der Fahrschulausbildung,
 
-2.
+2. eine inhaltsspezifische Sonderfortbildung.
 
 (2) Die nach Landesrecht zuständige Behörde kann zur Sicherstellung der qualitätssichernden Anordnungen nach Absatz 1 Nachkontrollen durchführen.
 
@@ -224,39 +202,39 @@ c)
 
 (1) Die Fortbildung nach § 53 Absatz 1 des Fahrlehrergesetzes für Inhaber einer Fahrlehrerlaubnis hat alle Gebiete zu erfassen, die für die berufliche Tätigkeit der Fahrlehrer von Bedeutung sind, insbesondere:
 
-1.
+1. die Weiterentwicklung des Straßenverkehrsrechts einschließlich des Fahrlehrerrechts,
 
-2.
+2. die Änderung der Verhältnisse im Straßenverkehr und im Kraftfahrwesen,
 
-3.
+3. die Verfahren und Methoden zur Gestaltung des theoretischen und praktischen Unterrichts, Verkehrspädagogik,
 
-4.
+4. verkehrspolitische und umweltpolitische Perspektiven mit Bezug zum Straßenverkehr,
 
-5.
+5. betriebswirtschaftliche und organisatorische Fragen, die für den Betrieb einer Fahrschule von Bedeutung sind, und
 
-6.
+6. nachhaltige Mobilität insbesondere alternative Antriebsformen, Fahrerassistenzsysteme und E-Mobilität.
 
-(2) Der Fortbildungslehrgang nach § 53 Absatz 2 des Fahrlehrergesetzes für Inhaber einer Seminarerlaubnis hat folgende Bereiche zu erfassen: Die Bereiche zu den Nummern 3 und 4 sind jeweils programmspezifisch bezogen auf die Seminare nach § 2a und 4a des Straßenverkehrsgesetzes zu gestalten.
+(2) Der Fortbildungslehrgang nach § 53 Absatz 2 des Fahrlehrergesetzes für Inhaber einer Seminarerlaubnis hat folgende Bereiche zu erfassen:
 
-1.
+1. Unfallentwicklung im Straßenverkehr und ihre Ursachen,
 
-2.
+2. Verstöße im Straßenverkehr und ihre Ursachen,
 
-3.
+3. Wege zur Beeinflussung von auffälligen Kraftfahrern und
 
-4.
+4. Methoden zur Kursleitung und Moderationstechnik.
 
 (3) Der Fortbildungslehrgang nach § 53 Absatz 3 des Fahrlehrergesetzes für Ausbildungsfahrlehrer hat folgende Bereiche zu erfassen:
 
-1.
+1. Weiterentwicklung des Fahrlehrerrechts,
 
-2.
+2. Verfahren und Methoden zur Gestaltung des theoretischen und praktischen Unterrichts,
 
-3.
+3. Verfahren und Methoden zur Beobachtung, Bewertung und Beurteilung der Qualitätskriterien guter Ausbildung,
 
-4.
+4. Verfahren und Methoden zur Beobachtung, Bewertung und Beurteilung des beruflichen Erlebens und Verhaltens und
 
-5.
+5. Verfahren und Methoden zur Rückmeldung und Beratung.
 
 (4) Die Inhalte und Methoden der Fortbildung nach § 46 des Fahrlehrergesetzes für Inhaber einer Seminarerlaubnis Verkehrspädagogik sind an den Inhalten und Methoden der Anlage 16 der Fahrerlaubnis-Verordnung zu orientieren.
 
@@ -268,19 +246,11 @@ c)
 
 Im örtlichen Fahrlehrerregister sind für die Zwecke des § 58 des Fahrlehrergesetzes bei Erlaubnissen, Anwärterbefugnissen und Anerkennungen folgende Angaben einzutragen:
 
-1.
+1. a)zur Person des Inhabers der Erlaubnis, Anwärterbefugnis oder Anerkennung sowie zur Person der für die verantwortliche Leitung des Ausbildungsbetriebes einer Fahrschule oder einer Fahrlehrerausbildungsstätte bestellten Person: Familienname, Geburtsname, sonstige frühere Namen, Vornamen, Doktorgrad, Geschlecht, Geburtsdatum und Geburtsort, Anschrift und Staatsangehörigkeit,b)bei einer juristischen Person, rechtsfähigen Personengesellschaft oder Behörde: Name oder Bezeichnung und Anschrift sowie zusätzlich bei juristischen Personen und rechtsfähigen Personengesellschaften die nach Gesetz, Vertrag oder Satzung zur Vertretung berechtigten Personen mit den Angaben nach Buchstabe a,c)bei einer Vereinigung: Name oder Bezeichnung und Anschrift sowie die nach Gesetz, Vertrag oder Satzung zur Vertretung berechtigten Personen mit den Angaben nach Buchstabe a undd)bei einer Gemeinschaftsfahrschule, bei Beschäftigungs- und Ausbildungsverhältnissen, bei der Tätigkeit als Ausbildungsfahrlehrer und beim Betrieb als Ausbildungsfahrschule: Name oder Bezeichnung und Anschrift sowie Inhaber und für die verantwortliche Leitung des Ausbildungsbetriebes der betreffenden Fahrschule bestellten Person mit den Angaben nach Buchstabe a sowie die beschäftigten Fahrlehreranwärter und Fahrlehrer und die Ausbildungsfahrlehrer mit den Angaben nach Buchstabe a, zur Person des Inhabers der Erlaubnis, Anwärterbefugnis oder Anerkennung sowie zur Person der für die verantwortliche Leitung des Ausbildungsbetriebes einer Fahrschule oder einer Fahrlehrerausbildungsstätte bestellten Person: Familienname, Geburtsname, sonstige frühere Namen, Vornamen, Doktorgrad, Geschlecht, Geburtsdatum und Geburtsort, Anschrift und Staatsangehörigkeit, bei einer juristischen Person, rechtsfähigen Personengesellschaft oder Behörde: Name oder Bezeichnung und Anschrift sowie zusätzlich bei juristischen Personen und rechtsfähigen Personengesellschaften die nach Gesetz, Vertrag oder Satzung zur Vertretung berechtigten Personen mit den Angaben nach Buchstabe a, bei einer Vereinigung: Name oder Bezeichnung und Anschrift sowie die nach Gesetz, Vertrag oder Satzung zur Vertretung berechtigten Personen mit den Angaben nach Buchstabe a und bei einer Gemeinschaftsfahrschule, bei Beschäftigungs- und Ausbildungsverhältnissen, bei der Tätigkeit als Ausbildungsfahrlehrer und beim Betrieb als Ausbildungsfahrschule: Name oder Bezeichnung und Anschrift sowie Inhaber und für die verantwortliche Leitung des Ausbildungsbetriebes der betreffenden Fahrschule bestellten Person mit den Angaben nach Buchstabe a sowie die beschäftigten Fahrlehreranwärter und Fahrlehrer und die Ausbildungsfahrlehrer mit den Angaben nach Buchstabe a,
 
-a)
+2. die entscheidende Stelle, Tag der Entscheidung und Geschäftsnummer oder Aktenzeichen und
 
-b)
-
-c)
-
-d)
-
-2.
-
-3.
+3. die nach Maßgabe von § 62 Absatz 2 des Fahrlehrergesetzes übermittelten Daten nach § 59 Absatz 1 und 2 der Fahrerlaubnis-Verordnung.
 
 ## Siebter Abschnitt: Übergangs-, Bußgeld- und Schlussvorschriften
 
@@ -288,9 +258,9 @@ d)
 
 (1) Abweichend von § 8 Absatz 1 Satz 1 Nummer 3 dürfen Personen, die am 31. Dezember 1998 für die verantwortliche Leitung von Fahrlehrerausbildungsstätten bestellte Personen sind, ohne eine Fahrlehrerlaubnis zu besitzen, eine amtlich anerkannte Fahrlehrerausbildungsstätte leiten, wenn sie:
 
-1.
+1. ein technisches Studium, das eine ausreichende Kenntnis des Maschinenbaus vermittelt, an einer deutschen oder einer als gleichwertig anerkannten ausländischen Hochschule abgeschlossen haben oder
 
-2.
+2. die Befähigung zum Richteramt besitzen.
 
 (2) Fahrlehrerscheine und befristete Fahrlehrerscheine, die der bis zum 31. Dezember 2017 geltenden Fassung der Anlagen 1.1 und 1.2 entsprechen, bleiben gültig.
 
@@ -308,29 +278,29 @@ d)
 
 (1) Ordnungswidrig im Sinne des § 56 Absatz 1 Nummer 23 des Fahrlehrergesetzes handelt, wer als Inhaber einer Fahrschule oder als für die verantwortliche Leitung des Ausbildungsbetriebes einer Fahrschule bestellte Person vorsätzlich oder fahrlässig:
 
-1.
+1. entgegen § 4 Absatz 1 die dort vorgeschriebenen Lehrmittel nicht vorhält,
 
-2.
+2. entgegen § 5 Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz 3 für die Ausbildung andere als die dort vorgeschriebenen Fahrzeuge verwendet oder verwenden lässt,
 
-3.
+3. entgegen § 5 Absatz 2 Satz 2 für die Ausbildung Fahrzeuge verwendet oder verwenden lässt, die keine Doppelbedienungseinrichtung besitzen oder für die die hierfür erforderliche Betriebserlaubnis nach der Straßenverkehrs-Zulassungs-Ordnung nicht erteilt worden ist, oder
 
-4.
+4. entgegen § 16 einer qualitätssichernden Anordnung nicht nachkommt.
 
 (2) Ordnungswidrig im Sinne des § 56 Absatz 1 Nummer 23 des Fahrlehrergesetzes handelt, wer als Inhaber einer amtlich anerkannten Fahrlehrerausbildungsstätte oder als für die verantwortliche Leitung einer Fahrlehrerausbildungsstätte bestellte Person vorsätzlich oder fahrlässig:
 
-1.
+1. entgegen § 11 die dort vorgeschriebenen Lehrmittel nicht vorhält oder
 
-2.
+2. entgegen § 12 für die Fahrlehrerausbildung Fahrzeuge verwendet oder verwenden lässt, die nicht den Vorschriften des § 5 entsprechen.
 
 ### Anlage 1.1 — (zu § 2 Absatz 1)
 
-Zusammenhängend auf Neobondpapier in einer Stärke von 150 g/m2 ohne optische Aufheller, Farbe weiß, Breite 222 mm, Höhe 105 mm. In das Trägermaterial sind die folgenden fälschungserschwerenden Sicherheitsmerkmale eingearbeitet:
+Zusammenhängend auf Neobondpapier in einer Stärke von 150 g/m
 
-1.
+1. als Wasserzeichen das gesetzlich für die Bundesdruckerei geschützte Motiv „Stilisierter Bundesadler“,
 
-2.
+2. nur unter UV-Licht sichtbare rot und blau fluoreszierende Melierfasern,
 
-3.
+3. chemische Reagenzien.
 
 Vorderseite
 
@@ -338,13 +308,13 @@ Rückseite
 
 ### Anlage 1.2 — (zu § 2 Absatz 1)
 
-Zusammenhängend auf Neobondpapier in einer Stärke von 150 g/m2 ohne optische Aufheller, Farbe gelb, Breite 222 mm, Höhe 105 mm. In das Trägermaterial sind die folgenden fälschungserschwerenden Sicherheitsmerkmale eingearbeitet:
+Zusammenhängend auf Neobondpapier in einer Stärke von 150 g/m
 
-1.
+1. als Wasserzeichen das gesetzlich für die Bundesdruckerei geschützte Motiv „Stilisierter Bundesadler“,
 
-2.
+2. nur unter UV-Licht sichtbare rot und blau fluoreszierende Melierfasern,
 
-3.
+3. chemische Reagenzien.
 
 Vorderseite
 
@@ -356,61 +326,41 @@ Rückseite
 
 Die Anforderungen an die Unterrichtsräume nach § 18 Absatz 1 Nummer 6 des Fahrlehrergesetzes und nach § 3 der Durchführungsverordnung zum Fahrlehrergesetz sind erfüllt, wenn folgenden Mindestanforderungen entsprochen wird:
 
-Die Fahrschüler/Teilnehmer müssen dem Unterricht ohne Behinderung folgen können. Die nach Landesrecht zuständige Behörde bestimmt, wie viele Fahrschüler in dem Unterrichtsraum gleichzeitig unterrichtet werden dürfen. Sie kann durch Auflage einen entsprechenden Aushang in dem Unterrichtsraum verlangen.
+Im Interesse des sachgerechten Unterrichts ist sicherzustellen, dass der Unterrichtsraum
 
-Im Interesse des sachgerechten Unterrichts ist sicherzustellen, dass der Unterrichtsraum Eine ausreichend bemessene Kleiderablage muss vorhanden sein. In unmittelbarer Nähe des Unterrichtsraumes muss mindestens ein WC mit Waschgelegenheit zur Verfügung stehen. Für jeden Fahrschüler/Teilnehmer muss eine Sitzgelegenheit mit Rückenlehne und eine Schreibunterlage (Mindestgröße DIN A4) vorhanden sein. Weitergehende Anforderungen können sich insbesondere aus sicherheits- und ordnungsrechtlichen Vorschriften ergeben.
+– nicht Teil einer Gastwirtschaft und kein Wohnraum ist,
 
-–
+– einen eigenen Zugang besitzt und nicht als Durchgang dient,
 
-–
+– vor Beeinträchtigungen durch Lärm, Staub und Geruch geschützt ist,
 
-–
+– gut beleuchtet ist,
 
-–
+– ausreichend belüftet werden kann sowie
 
-–
-
-–
+– gut beheizbar ist.
 
 ### Anlage 2a — (zu § 4 Absatz 2)
 
-1.
+1. Es muss seitens der Fahrschule eine ausreichende Internetverbindung vorhanden sein, die eine Durchführung des digitalen Unterrichts ermöglicht.
 
-2.
+2. Die zur Durchführung des digitalen Unterrichts durch die Fahrschule eingesetzten Systeme müssen mindestens verfügen über a)einen Bildschirm oder Monitor, der durch seine Größe gewährleistet, dass der Fahrschüler jederzeit in der Lage ist, dargestellte verkehrliche Situationen detailgenau wahrnehmen zu können undb)eine Webcam mit Mikrofon und Lautsprecher oder eine Kombination aus Webcam und Headset, sofern Kamera, Lautsprecher und Mikrophon nicht bereits im System integriert sind. einen Bildschirm oder Monitor, der durch seine Größe gewährleistet, dass der Fahrschüler jederzeit in der Lage ist, dargestellte verkehrliche Situationen detailgenau wahrnehmen zu können und eine Webcam mit Mikrofon und Lautsprecher oder eine Kombination aus Webcam und Headset, sofern Kamera, Lautsprecher und Mikrophon nicht bereits im System integriert sind.
 
-a)
+3. Die zur Durchführung des digitalen Unterrichts eingesetzte Software muss mindestens a)das Kamerabild aller Teilnehmer dem Kursleiter anzeigen,b)ermöglichen, dass der Kursleiter die Sprechzeit der Teilnehmer zuteilen und bei Bedarf die Mikrofone aller Teilnehmer stumm schalten kann, um insbesondere Rückkopplung und sonstige Störgeräusche zu vermeiden,c)ermöglichen, dass sich die Teilnehmer melden können, um einen Sprechwunsch zu äußern (z. B. über die Schaltfläche „Hand heben“),d)ermöglichen, dass der Kursleiter seinen Bildschirm allen Teilnehmern freigeben kann, um Schulungsmedien allen Teilnehmern anzuzeigen,e)ermöglichen, separate virtuelle Räume aus der Software zu starten, um Gruppenarbeit in Kleingruppen durchzuführen,f)die Kontrolle ermöglichen, dass und ob alle Teilnehmer des Unterrichts anwesend sind. das Kamerabild aller Teilnehmer dem Kursleiter anzeigen, ermöglichen, dass der Kursleiter die Sprechzeit der Teilnehmer zuteilen und bei Bedarf die Mikrofone aller Teilnehmer stumm schalten kann, um insbesondere Rückkopplung und sonstige Störgeräusche zu vermeiden, ermöglichen, dass sich die Teilnehmer melden können, um einen Sprechwunsch zu äußern (z. B. über die Schaltfläche „Hand heben“), ermöglichen, dass der Kursleiter seinen Bildschirm allen Teilnehmern freigeben kann, um Schulungsmedien allen Teilnehmern anzuzeigen, ermöglichen, separate virtuelle Räume aus der Software zu starten, um Gruppenarbeit in Kleingruppen durchzuführen, die Kontrolle ermöglichen, dass und ob alle Teilnehmer des Unterrichts anwesend sind.
 
-b)
+4. Die zur Durchführung des digitalen Unterrichts eingesetzte Software muss den datenschutzrechtlichen Anforderungen, insbesondere der Datenschutzgrundverordnung und den Anforderungen an die Datensicherheit, insbesondere den Vorgaben der Artikel 24, 25 und 32 der Datenschutzgrundverordnung, jederzeit entsprechen; ein entsprechender Nachweis hierzu muss jederzeit geführt werden können.
 
-3.
+5. Für die Durchführung des digitalen Unterrichts müssen für die Gesamtzahl der Teilnehmer ausreichende Softwarelizenzen vorhanden sein.
 
-a)
+6. Die Teilnehmerzahl darf 25 Personen nicht überschreiten.
 
-b)
+7. Der Fahrlehrer hat vor Beginn des digitalen Unterrichts die Identität und während des Unterrichts die Anwesenheit der Fahrschüler zu prüfen; ferner hat er eine Teilnehmerliste zu führen.
 
-c)
+8. Der digitale Unterricht ist aus Räumen zu erteilen, die die Vorgaben des § 3 erfüllen.
 
-d)
-
-e)
-
-f)
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
+9. Die Fahrschule hat die Überwachung der fachlichen und pädagogischen Qualität des digitalen Unterrichts durch die nach Landesrecht zuständige Behörde zu ermöglichen.
 
 ### Anlage 3 — (zu § 6 Absatz 1)
-
-Ausbildungsnachweis für Klasse ____________________gemäß § 31 Absatz 1 Fahrlehrergesetz und § 6 Absatz 2 Fahrschüler-Ausbildungsordnung
 
 Abweichungen vom vorstehenden Muster sind zulässig, soweit Besonderheiten des Verfahrens, insbesondere der Einsatz maschineller Datenverarbeitung, dies erfordern.
 

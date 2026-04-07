@@ -13,8 +13,6 @@ Seehäfen
 
 (1) Der Bund gewährt den Ländern Bremen, Hamburg, Mecklenburg-Vorpommern, Niedersachsen sowie Schleswig-Holstein Finanzhilfen für besonders bedeutsame Investitionen im Bereich der Seehäfen, insbesondere für Maßnahmen zur Verbesserung der wirtschaftlichen Infrastruktur von Seehäfen wie den Bau oder Ausbau von Hafenanlagen, von Verkehrswegen und öffentlichen Verkehrsflächen, in Höhe von jährlich insgesamt 38.346.000 Euro.
 
-(2) Von dem Jahresbetrag nach Absatz 1 erhalten die Länder
-
 ### § 2
 
 (1) Die Finanzhilfen des Bundes betragen 90 vom Hundert der förderungsfähigen Ausgaben.

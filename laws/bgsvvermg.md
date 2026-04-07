@@ -70,27 +70,21 @@ Forderungen, Verbindlichkeiten
 
 (3) Akten, Dateien oder Archive des Gesundheitswesens Wismut, die bis zum 30. September 1996 nicht auf einen Sozialversicherungsträger übergegangen sind, werden mit Wirkung vom 1. Oktober 1996 Eigentum der Bundesrepublik Deutschland; Absatz 1 Satz 3 zweiter Halbsatz findet keine Anwendung. Die Besitzer übermitteln die Datenbestände, auch soweit sie personenbezogene Daten enthalten, an die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin. Diese Daten sind 40 Jahre nach der Übermittlung an die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin zu löschen. Sie können im Einzelfall über die in Satz 3 genannte Frist hinaus bis zum Ablauf des Jahres aufbewahrt werden, in welchem die untersuchte Person 75 Jahre alt geworden ist. Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin darf die Daten zum Zweck der wissenschaftlichen Forschung in ihrem Aufgabenbereich speichern, verändern, nutzen, übermitteln oder in der Verarbeitung einschränken.
 
-(4) Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin übermittelt die Daten, auch soweit sie personenbezogen sind, Übermittlungen zu anderen Zwecken sind nicht zulässig.
+(4) Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin übermittelt die Daten, auch soweit sie personenbezogen sind,
 
-1.
+1. an Sozialleistungsträger, soweit diese sie zur Erfüllung ihrer Aufgaben nach dem Sozialgesetzbuch benötigten; eine Übermittlung der Daten ist auch an Gerichte zulässig, soweit sie für die Durchführung eines mit der Aufgabenerfüllung des Sozialleistungsträgers zusammenhängenden gerichtlichen Verfahrens erforderlich ist,
 
-2.
+2. an das Bundesamt für Strahlenschutz sowie an andere wissenschaftliche Forschung betreibende öffentliche oder nicht-öffentliche Stellen zum Zweck der wissenschaftlichen Forschung, soweita)dies für die Durchführung bestimmter wissenschaftlicher Forschungsarbeiten erforderlich ist,b)eine Nutzung anonymisierter Daten zu diesem Zweck nicht möglich ist undc)das öffentliche Interesse an der Forschungsarbeit das schutzwidrige Interesse des Betroffenen an dem Ausschluß der Übermittlung erheblich überwiegt, oder dies für die Durchführung bestimmter wissenschaftlicher Forschungsarbeiten erforderlich ist, eine Nutzung anonymisierter Daten zu diesem Zweck nicht möglich ist und das öffentliche Interesse an der Forschungsarbeit das schutzwidrige Interesse des Betroffenen an dem Ausschluß der Übermittlung erheblich überwiegt, oder
 
-a)
+3. an Angehörige, soweit es sich um Daten Verstorbener handelt und deren schutzwürdige Interessen durch die Übermittlung nicht beeinträchtigt werden.
 
-b)
+(5) Personenbezogene Daten werden im Rahmen des Absatzes 4 Nr. 1 und 2 nur an solche Personen übermittelt, die
 
-c)
+1. Amtsträger sind,
 
-3.
+2. für den öffentlichen Dienst besonders Verpflichtete sind oder
 
-(5) Personenbezogene Daten werden im Rahmen des Absatzes 4 Nr. 1 und 2 nur an solche Personen übermittelt, die § 1 Abs. 2, 3 und 4 Nr. 2 des Verpflichtungsgesetzes findet auf die Verpflichtung zur Geheimhaltung entsprechende Anwendung.
-
-1.
-
-2.
-
-3.
+3. zur Geheimhaltung verpflichtet worden sind.
 
 (6) Die nach Absatz 4 Satz 1 Nr. 2 übermittelten personenbezogenen Daten dürfen nur für die Forschungsarbeiten gespeichert, verändert, genutzt, übermittelt oder in der Verarbeitung eingeschränkt werden, für die sie übermittelt worden sind. Die Verarbeitung für andere Forschungsarbeiten oder eine Übermittlung an dritte Stellen richtet sich nach Absatz 4 Satz 1 Nr. 2 und Absatz 5 und bedarf der Zustimmung der Stelle, die die Daten übermittelt hat.
 
@@ -98,7 +92,7 @@ c)
 
 (8) Sobald der Forschungszweck es erlaubt, sind die personenbezogenen Daten zu anonymisieren. Solange dies nicht möglich ist und die Daten in Dateisystemen gespeichert werden, sind die Merkmale gesondert zu speichern, mit denen Einzelangaben über persönliche oder sachliche Verhältnisse einer bestimmten oder bestimmbaren Person zugeordnet werden können.
 
-(9) Ist der Empfänger eine nicht-öffentliche Stelle, so überwachen die Aufsichtsbehörden der Länder die Anwendung der Vorschriften über den Datenschutz gemäß § 40 Absatz 1 des Bundesdatenschutzgesetzes auch insoweit, als der Anwendungsbereich nach Artikel 2 Absatz 1 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung nicht eröffnet ist.
+(9) Ist der Empfänger eine nicht-öffentliche Stelle, so überwachen die Aufsichtsbehörden der Länder die Anwendung der Vorschriften über den Datenschutz gemäß § 40 Absatz 1 des Bundesdatenschutzgesetzes auch insoweit, als der Anwendungsbereich nach Artikel 2 Absatz 1 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung nicht eröffnet ist.
 
 (10) Soweit Datenbestände durch Verwaltungsakt des Bundesamtes für Soziale Sicherung den gewerblichen Berufsgenossenschaften zugewiesen worden sind, dürfen darin enthaltene Sozialdaten von den gewerblichen Berufsgenossenschaften an die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin, das Bundesamt für Strahlenschutz und an andere wissenschaftliche Forschung betreibende öffentliche oder private Stellen unter den Voraussetzungen des Absatzes 4 Satz 1 Nr. 2 und des Absatzes 5 übermittelt werden. Insoweit gelten die Absätze 6 bis 9. Vor einer Entscheidung über eine Übermittlung an Dritte haben sich die gewerblichen Berufsgenossenschaften mit der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin über die Erforderlichkeit der Übermittlung ins Benehmen zu setzen. Dieser Absatz gilt als andere Rechtsvorschrift im Sinne des § 67b Absatz 1 des Zehnten Buches Sozialgesetzbuch.
 
@@ -136,11 +130,11 @@ c)
 
 (1) Der Geschäftsführer der Überleitungsanstalt Sozialversicherung oder eine von ihm zu ermächtigende Person sind bis zu einer Übertragung gemäß § 2 oder der Feststellung eines Rechtsübergangs nach den §§ 7 oder 8 berechtigt, die Eigentümer des Gesamthandsvermögens oder des Vermögens des Gesundheitswesens Wismut im Sinne des § 1 zu vertreten, soweit sie
 
-1.
+1. die für die Verwaltung des Vermögens notwendigen Handlungen vornimmt,
 
-2.
+2. im Benehmen mit den Spitzenverbänden der Sozialversicherungsträger Verträge über das Vermögen abschließt oder
 
-3.
+3. notwendige Verfügungen über Einnahmen und bewegliches Eigentum vornimmt.
 
 (2) Verträge nach § 2 Abs. 4, die die Überleitungsanstalt Sozialversicherung vor dem Inkrafttreten dieses Gesetzes abgeschlossen hat, gelten als genehmigt, wenn die Verträge im Benehmen mit den Spitzenverbänden abgeschlossen worden sind.
 
@@ -153,11 +147,11 @@ Sozialversicherungsträger
 
 (2) Rechtsnachfolger im Sinne des § 3 Abs. 2 der Anlage I Kapitel VIII Sachgebiet F Abschnitt II Nr. 1 des Einigungsvertrages
 
-1.
+1. ist die Innungskrankenkasse, in deren Bezirk ein Grundstück ganz oder überwiegend belegen ist, für das am 8. Mai 1945 eine Innungskrankenkasse als Eigentümerin im Grundbuch eingetragen war;
 
-2.
+2. sind die Ortskrankenkassen, in deren Bezirk ein Grundstück ganz oder überwiegend belegen ist, für das am 8. Mai 1945 eine Landkrankenkasse als Eigentümerin oder Miteigentümerin im Grundbuch eingetragen war, und die Landwirtschaftliche Krankenkasse Berlin für die genannten Grundstücke zu gleichen Teilen;
 
-3.
+3. sind die Krankenkassen, die Rechtsnachfolger der Mitglieder eines Kassenverbandes nach § 406 der Reichsversicherungsordnung gewesen sind; sie erhalten das Vermögen zu gleichen Teilen; sind einzelne Mitglieder nicht mehr zu ermitteln, fallen ihre Anteile den Rechtsnachfolgern der übrigen Mitglieder zu gleichen Teilen zu.
 
 (3) Ein Grundstück oder Gebäude, für das am 8. Mai 1945 eine Landesversicherungsanstalt - Abteilung Krankenversicherung - als Eigentümerin im Grundbuch eingetragen war oder für das sich deren Eigentum auf sonstige Weise nachweisen läßt, wird Eigentum des Landes, in dem das Grundstück oder Gebäude ganz oder überwiegend belegen ist. Wenn der örtlich zuständige Medizinische Dienst das Grundstück oder Gebäude zu seiner Aufgabenerfüllung benötigt, ist es vom Land auf diesen unentgeltlich zu übertragen.
 

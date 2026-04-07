@@ -10,11 +10,11 @@
 
 Es verordnen
 
-–
+– die Bundesregierung auf Grund des § 34 Absatz 1 und 3 des Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 26. September 2002 (BGBl. I S. 3830), von dem Absatz 3 durch Artikel 1 Nummer 3 des Gesetzes vom 26. November 2010 (BGBl. I S. 1728) eingefügt worden ist, nach Anhörung der beteiligten Kreise, sowie auf Grund des § 34 Absatz 2 und des § 37 Satz 1 des Bundes-Immissionsschutzgesetzes und auf Grund des § 2a Absatz 3 des Benzinbleigesetzes, der durch Artikel 1 Nummer 3 des Gesetzes vom 25. November 1975 (BGBl. I S. 2919) eingefügt worden ist,
 
-–
+– das Bundesministerium für Verkehr, Bau und Stadtentwicklung und das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales auf Grund des § 3 Absatz 1 Nummer 2 Buchstabe a in Verbindung mit Absatz 2 Nummer 2 und Absatz 5 Satz 1 und 2 des Binnenschifffahrtsaufgabengesetzes, von dem die Absätze 1 und 5 zuletzt durch Artikel 313 Nummer 2 Buchstabe a und b der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden sind und Absatz 2 durch Artikel 1 Nummer 3 Buchstabe b des Gesetzes vom 19. Juli 2005 (BGBl. I S. 2186) geändert worden ist,
 
-–
+– das Bundesministerium für Verkehr, Bau und Stadtentwicklung und das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit nach Anhörung der beteiligten Kreise auf Grund des § 38 Absatz 2 des Bundes-Immissionsschutzgesetzes, der durch Artikel 60 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist:
 
 ### Inhaltsübersicht
 
@@ -24,29 +24,21 @@ Es verordnen
 
 (2) Ottokraftstoff ist jedes flüchtige Mineralölerzeugnis im Sinne des Kapitels 27 der Kombinierten Nomenklatur, einschließlich der Zubereitungen mit einem Gehalt an Mineralöl von mindestens 70 Gewichtshundertteilen, in denen diese Öle Grundbestandteil sind, das
 
-1.
+1. unter die Unterpositionen 2710 12 41, 2710 12 45, 2710 12 49 oder 2710 12 50 der Kombinierten Nomenklatur fällt und
 
-2.
+2. zum Betrieb von Fahrzeugverbrennungsmotoren mit Fremdzündung bestimmt ist.
 
 (3) Dieselkraftstoff ist jedes Gasölerzeugnis im Sinne des Kapitels 27 der Kombinierten Nomenklatur, einschließlich der Zubereitungen mit einem Gehalt an Mineralöl von mindestens 70 Gewichtshundertteilen, in denen diese Öle Grundbestandteil sind, das
 
-1.
+1. unter die Unterpositionen 2710 20 11, 2710 20 16 (bis zu einem Schwefelgehalt von 0,05 Gewichtshundertteilen), 2710 19 43, 2710 19 46 oder 2710 19 47 (bis zu einem Schwefelgehalt von 0,05 Gewichtshundertteilen) der Kombinierten Nomenklatur fällt und
 
-2.
-
-a)
-
-b)
+2. verwendet wird zum Antrieb von Fahrzeugen im Sinne a)der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge (ABl. L 171 vom 29.6.2007, S. 1), die zuletzt durch die Verordnung (EU) 2018/858 (ABl. L 151 vom 14.6.2018, S. 1) geändert worden ist, oderb)der Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Typgenehmigung von Kraftfahrzeugen und Motoren hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen, zur Änderung der Verordnung (EG) Nr. 715/2007 und der Richtlinie 2007/46/EG sowie zur Aufhebung der Richtlinien 80/1269/EWG, 2005/55/EG und 2005/78/EG (ABl. L 188 vom 18.7.2009, S. 1; L 200 vom 31.7.2009, S. 52), die zuletzt durch die Verordnung (EU) 2019/1242 (ABl. L 198 vom 25.7.2019, S. 202) geändert worden ist. der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge (ABl. L 171 vom 29.6.2007, S. 1), die zuletzt durch die Verordnung (EU) 2018/858 (ABl. L 151 vom 14.6.2018, S. 1) geändert worden ist, oder der Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Typgenehmigung von Kraftfahrzeugen und Motoren hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen, zur Änderung der Verordnung (EG) Nr. 715/2007 und der Richtlinie 2007/46/EG sowie zur Aufhebung der Richtlinien 80/1269/EWG, 2005/55/EG und 2005/78/EG (ABl. L 188 vom 18.7.2009, S. 1; L 200 vom 31.7.2009, S. 52), die zuletzt durch die Verordnung (EU) 2019/1242 (ABl. L 198 vom 25.7.2019, S. 202) geändert worden ist.
 
 (4) Dieselkraftstoff zur Verwendung für mobile Maschinen und Geräte, für land- und forstwirtschaftliche Zugmaschinen sowie für Binnenschiffe und Sportboote ist jeder aus Erdöl gewonnene flüssige Kraftstoff im Sinne des Kapitels 27 der Kombinierten Nomenklatur, einschließlich der Zubereitungen mit einem Gehalt an Mineralöl von mindestens 70 Gewichtshundertteilen, in denen diese Öle der Grundbestandteil sind, der
 
-1.
+1. unter die Unterpositionen 2710 20 11, 2710 20 16 (bis zu einem Schwefelgehalt von 0,05 Gewichtshundertteilen), 2710 19 43, 2710 19 46 oder 2710 19 47 (bis zu einem Schwefelgehalt von 0,05 Gewichtshundertteilen) der Kombinierten Nomenklatur fällt und
 
-2.
-
-a)
-
-c)
+2. für den Betrieb von Kompressionszündungsmotoren bestimmt ist, die in den folgenden Rechtsakten der Europäischen Union genannt werden: a)Richtlinie 2013/53/EU des Europäischen Parlaments und des Rates vom 20. November 2013 über Sportboote und Wassermotorräder und zur Aufhebung der Richtlinie 94/25/EG (ABl. L 354 vom 28.12.2013, S. 90; L 297 vom 13.11.2015, S. 9),b)Verordnung (EU) 2016/1628 des Europäischen Parlaments und des Rates vom 14. September 2016 über die Anforderungen in Bezug auf die Emissionsgrenzwerte für gasförmige Schadstoffe und luftverunreinigende Partikel und die Typgenehmigung für Verbrennungsmotoren für nicht für den Straßenverkehr bestimmte mobile Maschinen und Geräte, zur Änderung der Verordnungen (EU) Nr. 1024/2012 und (EU) Nr. 167/2013 und zur Änderung und Aufhebung der Richtlinie 97/68/EG (ABl. L 252 vom 16.9.2016, S. 53; L 231 vom 6.9.2019, S. 29), die zuletzt durch die Verordnung (EU) 2022/992 (ABl. L 169 vom 27.6.2022, S. 43) geändert worden ist, oderc)Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates vom 5. Februar 2013 über die Genehmigung und Marktüberwachung von land- und forstwirtschaftlichen Fahrzeugen (ABl. L 60 vom 2.3.2013, S. 1), die zuletzt durch die Verordnung (EU) 2019/519 (ABl. L 91 vom 29.3.2019, S. 42) geändert worden ist. Richtlinie 2013/53/EU des Europäischen Parlaments und des Rates vom 20. November 2013 über Sportboote und Wassermotorräder und zur Aufhebung der Richtlinie 94/25/EG (ABl. L 354 vom 28.12.2013, S. 90; L 297 vom 13.11.2015, S. 9), Verordnung (EU) 2016/1628 des Europäischen Parlaments und des Rates vom 14. September 2016 über die Anforderungen in Bezug auf die Emissionsgrenzwerte für gasförmige Schadstoffe und luftverunreinigende Partikel und die Typgenehmigung für Verbrennungsmotoren für nicht für den Straßenverkehr bestimmte mobile Maschinen und Geräte, zur Änderung der Verordnungen (EU) Nr. 1024/2012 und (EU) Nr. 167/2013 und zur Änderung und Aufhebung der Richtlinie 97/68/EG (ABl. L 252 vom 16.9.2016, S. 53; L 231 vom 6.9.2019, S. 29), die zuletzt durch die Verordnung (EU) 2022/992 (ABl. L 169 vom 27.6.2022, S. 43) geändert worden ist, oder Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates vom 5. Februar 2013 über die Genehmigung und Marktüberwachung von land- und forstwirtschaftlichen Fahrzeugen (ABl. L 60 vom 2.3.2013, S. 1), die zuletzt durch die Verordnung (EU) 2019/519 (ABl. L 91 vom 29.3.2019, S. 42) geändert worden ist.
 
 (5) Schiffskraftstoff ist jeder aus Erdöl gewonnene flüssige Kraft- oder Brennstoff, der zur Verwendung auf einem Schiff bestimmt ist oder auf einem Schiff verwendet wird, einschließlich Kraft- oder Brennstoffen im Sinne der Definition nach DIN ISO 8217, Ausgabe Oktober 2018.
 
@@ -64,11 +56,9 @@ c)
 
 (12) Vermischer ist, wer Kraft- oder Brennstoffe gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen vermischt oder die Vermischung veranlasst.
 
-(13) Großverteiler ist, wer Kraft- oder Brennstoffe gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen verteilt und über eine Lagerkapazität von mehr als 1 000 Kubikmeter verfügt. Das Verteilen nach Satz 1 schließt die Abgabe an Schiffe ein.
+(13) Großverteiler ist, wer Kraft- oder Brennstoffe gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen verteilt und über eine Lagerkapazität von mehr als 1 000 Kubikmeter verfügt. Das Verteilen nach Satz 1 schließt die Abgabe an Schiffe ein.
 
 (14) Inverkehrbringen ist jedes Überlassen an andere.
-
-(15) Kombinierte Nomenklatur ist die Warennomenklatur nach Artikel 1 in Verbindung mit Anhang I der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 256 vom 7.9.1987, S. 1; L 341 vom 3.12.1987, S. 38; L 378 vom 31.12.1987, S. 120; L 130 vom 26.5.1988, S. 42; L 151 vom 8.6.2016, S. 22), die zuletzt durch die Verordnung (EU) 2022/2465 (ABl. L 322 vom 16.12.2022, S. 81) geändert worden ist.
 
 ### § 2 — Chlor- und Bromverbindungen
 
@@ -146,39 +136,17 @@ Wasserstoff darf nur dann gewerbsmäßig oder im Rahmen wirtschaftlicher Unterne
 
 (2) Schweres Heizöl darf nur dann gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen gegenüber dem Letztverbraucher in den Verkehr gebracht werden, wenn sein Gehalt an Schwefelverbindungen, berechnet als Schwefel, 10,0 Gramm pro Kilogramm schweres Heizöl nicht überschreitet. Schweres Heizöl mit höheren Schwefelgehalten darf nur dann gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen gegenüber dem Letztverbraucher in den Verkehr gebracht werden, wenn dieses Heizöl:
 
-1.
+1. in Übereinstimmung mit den Anforderungen der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen in Verbrennungseinrichtungen eingesetzt werden darf oder
 
-2.
+2. in Übereinstimmung mit den Anforderungen zur Vorsorge gegen schädliche Umwelteinwirkungen der Technischen Anleitung zur Reinhaltung der Luft vom 18. August 2021 (GMBl 2021 Nr. 48-54, S. 1050) in Verbrennungseinrichtungen eingesetzt werden darf und sichergestellt ist, dass die maximalen Schwefeldioxidemissionen von 1 700 Milligramm Schwefeldioxid pro Normkubikmeter bei einem Sauerstoffgehalt des Rauchgases von 3 Volumeneinheiten im trockenen Bezugszustand nicht überschritten werden.
 
 ### § 11 — Gleichwertigkeitsklausel
 
 Den Kraftstoffen nach § 3 und § 4 Absatz 1 bis 3 sowie den §§ 5 bis 9a sind solche Kraftstoffe gleichgestellt, die den Anforderungen anderer Normen oder technischer Spezifikationen genügen, die in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Türkei oder einem anderen Mitglied der Welthandelsorganisation in Kraft sind, sofern
 
-1.
+1. diese Normen oder technischen Spezifikationen mit einer der folgenden Normen übereinstimmen: a)DIN EN 228, Ausgabe August 2017,b)DIN EN 590, Ausgabe Mai 2022,c)DIN EN 16734, Ausgabe September 2022,d)DIN EN 15940, Ausgabe Juli 2023,e)DIN EN 14214, Ausgabe Mai 2019,f)DIN EN 15293, Ausgabe Oktober 2018,g)DIN EN 589, Ausgabe April 2022,h)DIN EN 16723-2, Ausgabe Oktober 2017, mit der Maßgabe, dass für Anforderungen, Grenzwerte und zugehörige Prüfverfahren für Erdgas und Biogas als Kraftstoffe für Kraftfahrzeuge Tabelle D.1 der DIN EN 16723-2, Ausgabe Oktober 2017, gilt und dass für Anforderungen an zugesetzte Additive Abschnitt 5.2 der DIN 51624, Ausgabe Februar 2008, gilt,i)DIN 51605, Ausgabe November 2020,j)DIN 51623, Ausgabe November 2020, oderk)DIN EN 17124, Ausgabe Dezember 2022, und DIN EN 228, Ausgabe August 2017, DIN EN 590, Ausgabe Mai 2022, DIN EN 16734, Ausgabe September 2022, DIN EN 15940, Ausgabe Juli 2023, DIN EN 14214, Ausgabe Mai 2019, DIN EN 15293, Ausgabe Oktober 2018, DIN EN 589, Ausgabe April 2022, DIN EN 16723-2, Ausgabe Oktober 2017, mit der Maßgabe, dass für Anforderungen, Grenzwerte und zugehörige Prüfverfahren für Erdgas und Biogas als Kraftstoffe für Kraftfahrzeuge Tabelle D.1 der DIN EN 16723-2, Ausgabe Oktober 2017, gilt und dass für Anforderungen an zugesetzte Additive Abschnitt 5.2 der DIN 51624, Ausgabe Februar 2008, gilt, DIN 51605, Ausgabe November 2020, DIN 51623, Ausgabe November 2020, oder DIN EN 17124, Ausgabe Dezember 2022, und
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-2.
+2. die Kraftstoffe die klimatischen Anforderungen erfüllen, die in den unter Nummer 1 angegebenen Normen für die Bundesrepublik Deutschland festgelegt sind.
 
 ### § 12 — Einschränkungen
 
@@ -190,41 +158,31 @@ k)
 
 ### § 13 — Auszeichnung von Kraft- und Brennstoffen
 
-(1) Der Betreiber einer Zapfstelle hat an den entsprechenden Zapfsäulen und Zapfventilen die Qualität des jeweiligen Kraftstoffs gemäß der Sätze 2 und 3 in folgender Weise deutlich sichtbar zu machen: Für die Auszeichnung der Zapfsäulen ist das Zeichen nach Teil a der jeweils zutreffenden Anlage zu verwenden. Für die Auszeichnung des Zapfventils ist das Zeichen nach Teil b der jeweils zutreffenden Anlage zu verwenden.
+(1) Der Betreiber einer Zapfstelle hat an den entsprechenden Zapfsäulen und Zapfventilen die Qualität des jeweiligen Kraftstoffs gemäß der Sätze 2 und 3 in folgender Weise deutlich sichtbar zu machen:
 
-1.
+1. schwefelfreier Ottokraftstoff mit einem maximalen Sauerstoffgehalt von 2,7 Massenprozent und einem maximalen Ethanolgehalt von 5 Volumenprozent, der den Anforderungen der DIN EN 228, Ausgabe August 2017, genügt oder der gleichwertig nach § 11 ist, wird mit der Bezeichnung „Super“ oder „Super Plus“ und dem jeweils zutreffenden Zeichen nach Anlage 1 oder 2 gekennzeichnet; der Hinweis „Enthält bis zu 5 % Bioethanol“ muss im Zeichen Teil a enthalten sein;
 
-2.
+2. schwefelfreier Ottokraftstoff, der den Anforderungen der DIN EN 228, Ausgabe August 2017, genügt oder der gleichwertig nach § 11 ist und dessen Sauerstoffgehalt 2,7 Massenprozent oder dessen Ethanolgehalt 5 Volumenprozent überschreiten kann, wird mit der Bezeichnung „Super E10“ oder „Super Plus E10“ und dem jeweils zutreffenden Zeichen nach Anlage 3 oder 4 gekennzeichnet; die Hinweise „Enthält bis zu 10 % Bioethanol“ und „Verträgt Ihr Fahrzeug E10? Herstellerinformation einholen! Im Zweifel Super oder Super Plus tanken!“ müssen im Zeichen Teil a enthalten sein;
 
-3.
+3. Dieselkraftstoff, der den Anforderungen der DIN EN 590, Ausgabe Mai 2022, genügt oder der gleichwertig nach § 11 ist, wird mit der Bezeichnung „Diesel“ und dem Zeichen nach Anlage 5 gekennzeichnet; der Hinweis „Enthält bis zu 7 % Biodiesel“ muss im Zeichen Teil a enthalten sein;
 
-4.
+4. Dieselkraftstoff, der den Anforderungen der DIN EN 16734, Ausgabe September 2022, genügt oder der gleichwertig nach § 11 ist, wird mit der Bezeichnung „Diesel B10“ und dem Zeichen nach Anlage 6 gekennzeichnet; die Hinweise „Enthält bis zu 10 % Biodiesel“ und „Verträgt Ihr Fahrzeug B10? Herstellerinformation beachten (z. B. Tankklappe oder Betriebsanleitung)! Im Zweifel Diesel B7 tanken!“ müssen im Zeichen Teil a enthalten sein;
 
-5.
+5. paraffinischer Dieselkraftstoff, der den Anforderungen der DIN EN 15940, Ausgabe Juli 2023, genügt oder der gleichwertig nach § 11 ist, wird mit der Bezeichnung „Paraffinischer Diesel“ und dem Zeichen nach Anlage 7 gekennzeichnet; die Hinweise „Enthält bis zu 7 % Biodiesel“ und „Verträgt Ihr Fahrzeug XTL? Herstellerinformation beachten (z.B. Tankklappe oder Betriebsanleitung)!“ müssen im Zeichen Teil a enthalten sein;
 
-6.
+6. Fettsäure-Methylester für Dieselmotoren, das den Anforderungen der DIN EN 14214, Ausgabe Mai 2019, genügt oder das gleichwertig nach § 11 ist, wird mit der Bezeichnung „Biodiesel“ und dem Zeichen nach Anlage 8 gekennzeichnet;
 
-7.
+7. Ethanol für Kraftfahrzeuge, das den Anforderungen der DIN EN 15293, Ausgabe Oktober 2018, genügt oder das gleichwertig nach § 11 ist, wird mit der Bezeichnung „Ethanolkraftstoff (E85)“ und dem Zeichen nach Anlage 9 gekennzeichnet;
 
-8.
+8. Autogas, das den Anforderungen der DIN EN 589, Ausgabe April 2022, genügt oder gleichwertig nach § 11 ist, wird mit der Bezeichnung „Autogas“ und dem Zeichen nach Anlage 10 gekennzeichnet;
 
-9.
+9. Erdgas- und Biogaskraftstoffe, die den Anforderungen der DIN EN 16723-2, Ausgabe Oktober 2017, genügen, wobei für die Anforderungen, Grenzwerte und zugehörigen Prüfverfahren für Erdgas und Biogas als Kraftstoffe für Kraftfahrzeuge die Tabelle D.1 der DIN EN 16723-2, Ausgabe Oktober 2017 anzuwenden ist, oder gleichwertige Kraftstoffe nach § 11 werden gekennzeichnet a)sofern sie als komprimiertes Erdgas (CNG) in den Verkehr gebracht werden aa)mit der Bezeichnung „Erdgas H“ und dem Zeichen nach Anlage 11 oderbb)mit der Bezeichnung „Erdgas L“ und dem Zeichen nach Anlage 12, sofern abweichend von Tabelle D.1 der DIN EN 16723-2, Ausgabe Oktober 2017, die Qualität nur den Anforderungen eines unteren Wobbe-Index von mindestens 36,3 Megajoule pro Kubikmeter genügt und einen Heizwert von mindestens 39 Megajoule pro Kilogramm aufweist, oderb)sofern sie als verflüssigtes Erdgas (LNG) in den Verkehr gebracht werden aa)mit der Bezeichnung „Erdgas H“ und dem Zeichen nach Anlage 13; sofern sie als komprimiertes Erdgas (CNG) in den Verkehr gebracht werden aa)mit der Bezeichnung „Erdgas H“ und dem Zeichen nach Anlage 11 oderbb)mit der Bezeichnung „Erdgas L“ und dem Zeichen nach Anlage 12, sofern abweichend von Tabelle D.1 der DIN EN 16723-2, Ausgabe Oktober 2017, die Qualität nur den Anforderungen eines unteren Wobbe-Index von mindestens 36,3 Megajoule pro Kubikmeter genügt und einen Heizwert von mindestens 39 Megajoule pro Kilogramm aufweist, oder mit der Bezeichnung „Erdgas H“ und dem Zeichen nach Anlage 11 oder mit der Bezeichnung „Erdgas L“ und dem Zeichen nach Anlage 12, sofern abweichend von Tabelle D.1 der DIN EN 16723-2, Ausgabe Oktober 2017, die Qualität nur den Anforderungen eines unteren Wobbe-Index von mindestens 36,3 Megajoule pro Kubikmeter genügt und einen Heizwert von mindestens 39 Megajoule pro Kilogramm aufweist, oder sofern sie als verflüssigtes Erdgas (LNG) in den Verkehr gebracht werden aa)mit der Bezeichnung „Erdgas H“ und dem Zeichen nach Anlage 13; mit der Bezeichnung „Erdgas H“ und dem Zeichen nach Anlage 13;
 
-a)
+10. Pflanzenölkraftstoff, der den Anforderungen der DIN 51605, Ausgabe November 2020, genügt oder der gleichwertig nach § 11 ist, wird mit der Bezeichnung „Pflanzenölkraftstoff – Rapsöl“ und dem Zeichen nach Anlage 15 gekennzeichnet;
 
-aa)
+11. Pflanzenölkraftstoff, der den Anforderungen der DIN 51623, Ausgabe November 2020, genügt oder der gleichwertig nach § 11 ist, wird mit der Bezeichnung „Pflanzenölkraftstoff – alle Saaten“ und dem Zeichen nach Anlage 16 gekennzeichnet;
 
-bb)
-
-b)
-
-aa)
-
-10.
-
-11.
-
-12.
+12. Wasserstoff als Kraftstoff, der den Anforderungen der DIN EN 17124, Ausgabe Dezember 2022, genügt oder der gleichwertig nach § 11 ist, wird mit der Bezeichnung „Wasserstoff“ und dem Zeichen nach Anlage 17 gekennzeichnet.
 
 (2) Wer gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen gegenüber dem Letztverbraucher Kraftstoffe mit metallhaltigen Zusätzen in den Verkehr bringt, hat im untersten Abschnitt des Zeichens an der Zapfsäule den folgenden Hinweis nach Absatz 3 Satz 1 anzubringen: „Enthält metallhaltige Zusätze. Fragen Sie Ihren Fahrzeughersteller, ob diese Zusätze für Ihr Fahrzeug geeignet sind. Verwenden Sie im Zweifelsfall Kraftstoff ohne metallhaltige Zusätze.“
 
@@ -232,21 +190,19 @@ aa)
 
 (4) Leichtes Heizöl, das nach § 11 Absatz 1 in den Verkehr gebracht wird, kann
 
-1.
+1. als „schwefelarm“ bezeichnet werden, wenn sein Schwefelgehalt 50 Milligramm pro Kilogramm leichtes Heizöl nicht überschreitet,
 
-2.
+2. als „stickstoffarm“ bezeichnet werden, wenn sein Schwefelgehalt 50 Milligramm und sein Stickstoffgehalt 140 Milligramm pro Kilogramm leichtes Heizöl nicht überschreitet.
 
 (5) Die Absätze 1 bis 3 finden keine Anwendung im Bereich der Kraft- und Brennstoffe nach § 1 Absatz 4 bis 10.
 
-(6) Der Betreiber eines Ladepunktes hat die Verbraucherinformation nach Abschnitt 6.3 der DIN EN 17186, Ausgabe Oktober 2019, gemäß der Sätze 2 und 4 am Ladepunkt anzubringen. In der Verbraucherinformation ist in Abschnitt A des Zeichens nach Abschnitt 6.3.1 der DIN EN 17186, Ausgabe Oktober 2019, der Text „Laden von E-Fahrzeugen“ einzutragen. Für das Zeichen in Abschnitt B des Zeichens wird eine Mindestbreite von 40 Millimetern empfohlen. In Abschnitt C des Zeichens ist gemäß der Empfehlung der DIN EN 17186, Ausgabe Oktober 2019, die berechnete Leistung anzugeben.
-
 ### § 14 — Nachweisführung
 
-(1) Wer gewerbsmäßig oder im Rahmen einer wirtschaftlichen Unternehmung Kraftstoffe in den Verkehr bringt, hat den nach § 13 Absatz 1 bis 5 Auszeichnungspflichtigen bei Anlieferung der Ware darüber zu unterrichten, dass die Kraftstoffe Die Unterrichtung erfolgt schriftlich oder elektronisch. Sie kann für jede einzelne Lieferung separat vorgenommen werden oder für mehrere zeitlich aufeinander folgende Lieferungen; in diesem Fall ist sie bei der ersten Lieferung vorzunehmen.
+(1) Wer gewerbsmäßig oder im Rahmen einer wirtschaftlichen Unternehmung Kraftstoffe in den Verkehr bringt, hat den nach § 13 Absatz 1 bis 5 Auszeichnungspflichtigen bei Anlieferung der Ware darüber zu unterrichten, dass die Kraftstoffe
 
-1.
+1. den in den § 3 und § 4 Absatz 1 bis 3 sowie den §§ 5 bis 9a genannten Anforderungen genügen oder
 
-2.
+2. nach § 11 gleichwertig sind.
 
 (2) Auskunftspflichtige nach § 52 Absatz 3 Satz 1 in Verbindung mit Absatz 2 Satz 1 des Bundes-Immissionsschutzgesetzes, die Kraft- und Brennstoffe nach § 1 Absatz 4 bis 10 als Hersteller, Vermischer, Einführer oder Großverteiler lagern, haben Tankbelegbücher zu führen und auf Verlangen vorzulegen, aus denen hervorgeht, welche Lieferanten den Kraft- und Brennstoff geliefert haben.
 
@@ -268,61 +224,43 @@ DIN-, DIN EN-, ISO-, DIN ISO- und DIN EN ISO-Normen, auf die in dieser Verordnun
 
 ### § 18 — Überwachung
 
-(1) Die zuständigen Behörden überwachen die in den §§ 3 bis 9a festgelegten Anforderungen an Kraftstoffe sowie die in § 13 festgelegten Anforderungen an die Auszeichnungspflicht dieser Kraftstoffe Für Otto- und Dieselkraftstoffe ergeben sich die zu beprobenden Kraftstoffeigenschaften aus Abschnitt 6.4 der DIN EN 14274, Ausgabe Mai 2013.
+(1) Die zuständigen Behörden überwachen die in den §§ 3 bis 9a festgelegten Anforderungen an Kraftstoffe sowie die in § 13 festgelegten Anforderungen an die Auszeichnungspflicht dieser Kraftstoffe
 
-1.
+1. anhand der Prüfverfahren, die in den DIN- und DIN EN-Normen der §§ 3 bis 10 genannten DIN- und DIN EN-Normen angegebenen sind, und
 
-2.
-
-a)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-b)
+2. anhand der vorgeschriebenen Verfahren a)der DIN–Normen aa)DIN EN 14274, Ausgabe Mai 2013,bb)DIN EN ISO 3170, Ausgabe Juni 2004,cc)DIN EN ISO 3171, Ausgabe November 2000,dd)DIN EN ISO 4257, Ausgabe März 2002,ee)DIN ISO 21087, Ausgabe März 2022, sowieb)des DVGWs-Arbeitsblatts G 264, Ausgabe Februar 2019. der DIN–Normen aa)DIN EN 14274, Ausgabe Mai 2013,bb)DIN EN ISO 3170, Ausgabe Juni 2004,cc)DIN EN ISO 3171, Ausgabe November 2000,dd)DIN EN ISO 4257, Ausgabe März 2002,ee)DIN ISO 21087, Ausgabe März 2022, sowie DIN EN 14274, Ausgabe Mai 2013, DIN EN ISO 3170, Ausgabe Juni 2004, DIN EN ISO 3171, Ausgabe November 2000, DIN EN ISO 4257, Ausgabe März 2002, DIN ISO 21087, Ausgabe März 2022, sowie des DVGWs-Arbeitsblatts G 264, Ausgabe Februar 2019.
 
 (2) Der Auszeichnungspflichtige nach § 13, § 14 Absatz 1 oder 2 hat auf Verlangen der zuständigen Behörde den nach § 14 Absatz 1 erhaltenen Unterrichtungsnachweis vorzulegen. Auskunftspflichtige nach § 14 Absatz 2, die Kraft- und Brennstoffe nach § 1 Absatz 4 bis 10 lagern, haben auf Verlangen der zuständigen Behörde eine Erklärung des Herstellers oder Vermischers über die Beschaffenheit dieser Kraft- oder Brennstoffe vorzulegen. Sofern der Hersteller oder Vermischer nicht selbst geliefert hat, muss die Erklärung zusätzlich Angaben des Lieferanten über die gelieferte Menge enthalten. Für die Erklärung ist ein Vordruck nach dem Muster der Anlage 17 zu verwenden. Die zuständige Behörde kann dem Auskunftspflichtigen für die Vorlage der Erklärung eine Frist setzen.
 
 (3) Die zuständigen Behörden überwachen durch Probenahmen, ob der Schwefelgehalt der verwendeten und der in Verkehr gebrachten Kraft- und Brennstoffe den Anforderungen nach § 4 Absatz 6 bis 9 und nach § 10 entspricht. Die Probenahmen müssen mit ausreichender Häufigkeit und ausreichenden Mengen vorgenommen werden, so dass die Ergebnisse für den geprüften Kraft- und Brennstoff repräsentativ sind.
 
-(4) Der Schwefelgehalt in Dieselkraftstoff zur Verwendung für mobile Maschinen und Geräte, für land- und forstwirtschaftliche Zugmaschinen sowie für Binnenschiffe und Sportboote ist im Rahmen der Überwachung nach Absatz 3 durch eines der folgenden Prüfverfahren zu bestimmen: Als Referenzverfahren dient das Prüfverfahren nach DIN EN ISO 20846, Ausgabe Dezember 2019, oder nach DIN EN ISO 20884, Ausgabe Januar 2022.
+(4) Der Schwefelgehalt in Dieselkraftstoff zur Verwendung für mobile Maschinen und Geräte, für land- und forstwirtschaftliche Zugmaschinen sowie für Binnenschiffe und Sportboote ist im Rahmen der Überwachung nach Absatz 3 durch eines der folgenden Prüfverfahren zu bestimmen:
 
-1.
+1. nach DIN EN ISO 20846, Ausgabe Dezember 2019,
 
-2.
+2. nach DIN EN ISO 20884, Ausgabe Januar 2022, oder
 
-3.
+3. nach DIN EN ISO 13032, Ausgabe Juni 2012.
 
-(5) Für die Bestimmung des Schwefelgehalts in leichtem Heizöl ist im Rahmen der Überwachung nach Absatz 3 eines der folgenden Prüfverfahren zu verwenden: Als Referenzverfahren dient das Prüfverfahren nach ISO 8754, Ausgabe Dezember 2003.Bei leichtem Heizöl, das zusätzlich nach § 13 Absatz 4 Nummer 1 mit dem Begriff „schwefelarm“ ausgezeichnet ist, ist eines der folgenden Prüfverfahren zu verwenden: Bei leichtem Heizöl, das zusätzlich nach § 13 Absatz 4 Nummer 2 mit dem Begriff „stickstoffarm“ ausgezeichnet ist, ist das Prüfverfahren nach DIN 51444, Ausgabe Oktober 2020, zu verwenden.
+(5) Für die Bestimmung des Schwefelgehalts in leichtem Heizöl ist im Rahmen der Überwachung nach Absatz 3 eines der folgenden Prüfverfahren zu verwenden:
 
-1.
+1. nach DIN EN ISO 8754, Ausgabe Dezember 2003, oder
 
-2.
+2. nach DIN EN ISO 14596, Ausgabe Dezember 2007.
 
-1.
+(6) Für die Bestimmung des Schwefelgehalts in schwerem Heizöl ist im Rahmen der Überwachung nach Absatz 3 eines der folgenden Prüfverfahren zu verwenden:
 
-2.
+1. nach DIN 51400-3, Ausgabe Juni 2001,
 
-(6) Für die Bestimmung des Schwefelgehalts in schwerem Heizöl ist im Rahmen der Überwachung nach Absatz 3 eines der folgenden Prüfverfahren zu verwenden: Als Referenzverfahren dient das Prüfverfahren nach DIN EN ISO 14596, Ausgabe Dezember 2007.
+2. nach DIN EN ISO 8754, Ausgabe Dezember 2003, oder
 
-1.
+3. nach DIN EN ISO 14596, Ausgabe Dezember 2007.
 
-2.
+(7) Für die Bestimmung des Schwefelgehalts in Gasöl für den Seeverkehr, für Schiffsdiesel und für sonstige Schiffskraftstoffe nach § 1 Absatz 8 ist im Rahmen der Überwachung nach Absatz 3 eines der folgenden Prüfverfahren zu verwenden:
 
-3.
+1. nach DIN EN ISO 8754, Ausgabe Dezember 2003, oder
 
-(7) Für die Bestimmung des Schwefelgehalts in Gasöl für den Seeverkehr, für Schiffsdiesel und für sonstige Schiffskraftstoffe nach § 1 Absatz 8 ist im Rahmen der Überwachung nach Absatz 3 eines der folgenden Prüfverfahren zu verwenden: Als Referenzverfahren dient das Prüfverfahren nach DIN EN ISO 8754, Ausgabe Dezember 2003.
-
-1.
-
-2.
+2. nach DIN EN ISO 14596, Ausgabe Dezember 2007.
 
 (8) Die nach Landesrecht zuständigen obersten Landesbehörden oder die von ihnen bestimmten Behörden übermitteln dem Umweltbundesamt elektronisch über das Online-Datenerfassungstool FQMS-Portal bis spätestens zum 30. April eine jährliche Übersicht der Überwachungsergebnisse nach Absatz 1 und 3 zur Weiterleitung an die Europäische Kommission.
 
@@ -338,37 +276,31 @@ b)
 
 (1) Ordnungswidrig im Sinne des § 62 Absatz 1 Nummer 7 des Bundes-Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen a)§ 2 Absatz 1, § 4 Absatz 6, Absatz 7 oder Absatz 8 oder § 10 Absatz 1 oder Absatz 2 Satz 1 oderb)§ 3 Absatz 1, § 4 Absatz 1, Absatz 2 oder Absatz 3, §§ 5 bis 9 oder § 9a, jeweils auch in Verbindung mit § 11,einen Brenn- oder Kraftstoff in den Verkehr bringt, § 2 Absatz 1, § 4 Absatz 6, Absatz 7 oder Absatz 8 oder § 10 Absatz 1 oder Absatz 2 Satz 1 oder § 3 Absatz 1, § 4 Absatz 1, Absatz 2 oder Absatz 3, §§ 5 bis 9 oder § 9a, jeweils auch in Verbindung mit § 11,
 
-a)
+2. entgegen § 2 Absatz 2 Chlor- oder Bromverbindungen als Zusatz zu Kraftstoffen in den Verkehr bringt,
 
-b)
+3. entgegen § 3 Absatz 2 oder Absatz 3 oder § 4 Absatz 4 einen dort genannten Kraftstoff nicht anbietet,
 
-2.
+4. entgegen § 4 Absatz 9 einen dort genannten Kraftstoff verwendet,
 
-3.
+5. entgegen § 13 Absatz 1 Satz 1 eine Qualität nicht oder nicht richtig sichtbar macht,
 
-4.
+6. entgegen § 13 Absatz 2 einen dort genannten Hinweis nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise anbringt,
 
-5.
+7. entgegen § 14 Absatz 1 Satz 1 den Auszeichnungspflichtigen nicht, nicht richtig oder nicht rechtzeitig unterrichtet,
 
-6.
+8. entgegen § 14 Absatz 2 ein Tankbelegbuch nicht oder nicht richtig führt oder nicht oder nicht rechtzeitig vorlegt,
 
-7.
+9. entgegen § 18 Absatz 2 Satz 1 oder Satz 2 einen Unterrichtungsnachweis oder eine dort genannte Erklärung nicht oder nicht rechtzeitig vorlegt,
 
-8.
+10. entgegen § 19 Absatz 1 eine Meldung nicht, nicht richtig oder nicht rechtzeitig macht,
 
-9.
+11. entgegen § 19 Absatz 2 Satz 1 die Qualitäts- oder Analysezertifikate nicht oder nicht für die vorgeschriebene Dauer verfügbar hält oder
 
-10.
-
-11.
-
-12.
+12. entgegen § 19 Absatz 2 Satz 2 die Qualitäts- oder Analysezertifikate nicht oder nicht mindestens ein Jahr aufbewahrt.
 
 (2) Ordnungswidrig im Sinne des § 95 Absatz 1 Nummer 5 Buchstabe c des Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 13 Absatz 6 Satz 1 einen dort genannten Hinweis oder eine dort genannte Verbraucherinformation nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise anbringt.
-
-(3) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach Absatz 1 Nummer 4 wird im Anwendungsbereich des § 1 Absatz 1 Nummer 2 erster Halbsatz des Binnenschifffahrtsaufgabengesetzes in der Fassung der Bekanntmachung vom 20. März 2023 (BGBl. 2023 I Nr. 82, Nr. 126), das durch Artikel 14 des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 409) geändert worden ist, auf die Generaldirektion Wasserstraßen und Schifffahrt übertragen.
 
 ### § 21 — Übergangsvorschriften
 
@@ -420,8 +352,6 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig treten
 
 ### Anlage 17 — (zu § 18 Absatz 2 Satz 4)
 
-(Fundstelle: BGBl. 2024 I Nr. 169, S. 8 - 11)
+1. Erklärung des Herstellers oder des Vermischers über die Beschaffenheit flüssiger Kraft- und Brennstoffe Nummer der Ausfertigung: Dieselkraftstoff gemäß § 1 Absatz 4Gasöl für den Seeverkehr gemäß § 1 Absatz 6Schiffsdiesel gemäß § 1 Absatz 7Sonstige Schiffskraft-stoffe gemäß § 1 Absatz 8Leichtes Heizöl gemäß § 1 Absatz 9Schweres Heizöl gemäß § 1 Absatz 10Menge in terster Bestimmungsort der SendungKenndatena)Dichte bei 15 Grad C nach DIN EN ISO 3675, Ausgabe November 1999, oder nach DIN EN ISO 12185 (Referenzverfahren), Ausgabe November 1997, in kg/cbm; bei schwerem Heizöl nach DIN 51757, Ausgabe Januar 2011, in kg/cbm:b)Viskosität in mm2/s:bei 40 Grad C nach DIN EN ISO 3104, Ausgabe Januar 2021bei 40 Grad C nach DIN EN ISO 3104, Ausgabe Januar 2021bei 40 Grad C nach DIN EN ISO 3104, Ausgabe Januar 2021bei 40 Grad C nach DIN EN ISO 3104, Ausgabe Januar 2021bei 20 Grad C nach DIN 53000-1, Ausgabe Juli 2023bei 100 und 150 Grad C nach DIN EN ISO 3104, Ausgabe Januar 2021, nach DIN 51366, Ausgabe Dezember 2013, oder nach DIN 53000-1, Ausgabe Juli 2023c)Siedeverlauf; aufgefangene Destillatmenge in Vol.-%:nach DIN EN ISO 3405, Ausgabe September 2019, oder nach DIN EN ISO 3924, Ausgabe Dezember 2019: bis 180 Grad C:bis 340 Grad C:nach DIN EN ISO 3405, Ausgabe September 2019:bis 250 Grad C:bis 350 Grad C:d)Schwefelgehaltnach DIN EN ISO 20846, Ausgabe Dezember 2019, oder nach DIN EN ISO 20884, Ausgabe Januar 2022, oder nach DIN EN ISO 13032, Ausgabe Juni 2012, in mg/kg:nach DIN EN ISO 8754, Ausgabe Dezember 2003, oder nach DIN EN ISO 14596, Ausgabe Dezember 2007, in Gew.-%:nach DIN EN ISO 8754, Ausgabe Dezember 2003, oder DIN EN ISO 14596, Ausgabe Dezember 2007, in Gew.-%:nach DIN EN ISO 8754, Ausgabe Dezember 2003, oder nach DIN EN ISO 14596, Ausgabe Dezember 2007, in Gew.-%:nach DIN EN ISO 8754, Ausgabe Dezember 2003, oder nach DIN EN ISO 14596, Ausgabe Dezember 2007, in % (m/m) oder in mg/kg; bzw. bei Auszeichnung als „Schwefelarm“ nach DIN EN ISO 20846, Ausgabe Dezember 2019, oder DIN EN ISO 20884, Ausgabe Januar 2022, in % (m/m) oder mg/kg:nach DIN 51400-3, Ausgabe Juni 2001, nach DIN EN ISO 8754, Ausgabe Dezember 2003, oder nach DIN EN ISO 14596, Ausgabe Dezember 2007, in Gew.-%:e)Stickstoffgehaltbei Auszeichnung als „Stickstoffarm“ nach DIN 51444, Ausgabe Oktober 2020, in mg/kg: Ort, Datum und Nummer der Prüfung: Hersteller (Name und Anschrift): Unterschrift:
 
-1.
-
-2.
+2. Zusätzliche Erklärung des Lieferanten nach § 18 Absatz 2 Satz 3 Firmenname und Geschäftssitz: gelieferte Menge: Empfänger: Bestimmungsort: Ort, Datum: Unterschrift:

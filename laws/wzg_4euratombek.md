@@ -15,4 +15,8 @@ Der Bundesminister der Justiz
 
 ### Anlage — Bezeichnungen der Europäischen Atomgemeinschaft (EURATOM)
 
-1.Kennzeichen:(Inhalt: Nicht darstellbares Kennzeichen,Fundstelle: BGBl. I 1964, 289)2.Siegel:(Inhalt: Nicht darstellbares Siegel,Fundstelle: BGBl. I 1964, 289)3.Sonstige Bezeichnungen:EUROPÄISCHE ATOMGEMEINSCHAFT (EURATOM)COMMUNAUTE EUROPEENNE DE L'ENERGIE ATOMIQUE (EURATOM)COMUNITA EUROPEA DELL'ENERGIA ATOMICA (EURATOM)EUROPESE GEMEENSCHAP VOOR ATOOMENERGIE (EURATOM)E A GC.E.E.A.E.G.A.
+1. Kennzeichen: (Inhalt: Nicht darstellbares Kennzeichen,Fundstelle: BGBl. I 1964, 289)
+
+2. Siegel: (Inhalt: Nicht darstellbares Siegel,Fundstelle: BGBl. I 1964, 289)
+
+3. Sonstige Bezeichnungen: EUROPÄISCHE ATOMGEMEINSCHAFT (EURATOM) COMMUNAUTE EUROPEENNE DE L'ENERGIE ATOMIQUE (EURATOM) COMUNITA EUROPEA DELL'ENERGIA ATOMICA (EURATOM) EUROPESE GEMEENSCHAP VOOR ATOOMENERGIE (EURATOM) E A G C.E.E.A. E.G.A.

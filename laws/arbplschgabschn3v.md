@@ -18,11 +18,11 @@ Hinterbliebenenversorgung außerhalb des öffentlichen Dienstes
 
 Als betriebliche oder überbetriebliche Alters- und Hinterbliebenenversorgung im Sinne des § 14a Abs. 3 des Gesetzes sind anzusehen:
 
-1.
+1. Die Versicherung in Einrichtungen im Sinne des Gesetzes zur Verbesserung der betrieblichen Altersversorgung vom 19. Dezember 1974 (BGBl. I S. 3610) soweit sie auf den Arbeitnehmer bezogene Beiträge erheben und diesem einen Rechtsanspruch auf ihre Leistungen gewähren,
 
-2.
+2. die freiwillige Versicherung in einem Zweig der gesetzlichen Rentenversicherung,
 
-3.
+3. die Versicherung in öffentlich-rechtlichen Versicherungs- oder Versorgungseinrichtungen einer Berufsgruppe.
 
 ## Zweiter Abschnitt: Erstattungsverfahren für
 Arbeitgeber des öffentlichen Dienstes und außerhalb des
@@ -38,17 +38,17 @@ Arbeitgeber des öffentlichen Dienstes und außerhalb des
 
 (1) Der vom Arbeitgeber einzureichende Antrag muß Angaben enthalten über
 
-1.
+1. Vor- und Zuname sowie Geburtstag des Arbeitnehmers und dessen Wohnort vor Beginn des Wehrdiensts,
 
-2.
+2. die Dauer und die Art des Wehrdiensts,
 
-3.
+3. die Einrichtung der Alters- und Hinterbliebenenversorgung und die Bestimmungen, nach denen die Beiträge an diese zu entrichten sind, insbesondere den Tarifvertrag, die Betriebsvereinbarung, die Satzung, den Arbeitsvertrag, den Versicherungsvertrag,
 
-4.
+4. die Höhe des Beitrags, der auf die Wehrdienstzeit entfällt,
 
-5.
+5. die Dauer des Arbeitsverhältnisses,
 
-6.
+6. die Stelle, an die der zu erstattende Betrag gezahlt werden soll unter Angabe insbesondere von Kontonummer und Kassenzeichen.
 
 (2) Die Angaben zu Absatz 1 Nr. 2 bis 5 sind zu belegen. Liegen schriftliche Unterlagen nicht vor, so hat der Arbeitgeber die Richtigkeit der Angaben auf geeignete andere Weise nachzuweisen. Für die Vorlage von Unterlagen können die mit der Erstattung beauftragten Stellen Erleichterung gewähren.
 
@@ -56,17 +56,17 @@ Arbeitgeber des öffentlichen Dienstes und außerhalb des
 
 (1) Der vom Wehrpflichtigen einzureichende Antrag muß Angaben enthalten über
 
-1.
+1. Vor- und Zuname sowie Geburtstag und den Wohnort vor Beginn des Wehrdiensts,
 
-2.
+2. die Dauer und die Art des Wehrdiensts,
 
-3.
+3. die Einrichtung der Alters- und Hinterbliebenenversorgung und die Bestimmungen, nach denen die Beiträge an diese entrichtet werden, insbesondere die Satzung, den Versicherungsvertrag, die sonstigen Vereinbarungen,
 
-4.
+4. die Höhe des Beitrags, der auf die Wehrdienstzeit entfällt, sowie über die Höhe der in den letzten 12 Monaten vor Beginn des Wehrdiensts entrichteten Beiträge,
 
-5.
+5. eine Befreiung von der Versicherungspflicht in der gesetzlichen Rentenversicherung als Mitglied einer öffentlich-rechtlichen Versicherungseinrichtung oder Versorgungseinrichtung seiner Berufsgruppe,
 
-6.
+6. die Stelle, an die der zu erstattende Betrag gezahlt werden soll unter Angabe insbesondere von Kontonummer, Kassenzeichen und Sozialversicherungsnummer.
 
 (2) Die Angaben zu Absatz 1 Nr. 2 bis 5 sind nachzuweisen. Für die Vorlage von Unterlagen können die mit der Erstattung beauftragten Stellen Erleichterung gewähren.
 

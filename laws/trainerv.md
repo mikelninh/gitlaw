@@ -12,7 +12,9 @@ Auf Grund des § 2 Abs. 3 Nr. 1 des Bundesausbildungsförderungsgesetzes in der 
 
 ### § 1 — Ausbildungsstätte
 
-(1) Ausbildungsförderung nach dem Bundesausbildungsförderungsgesetz wird für den Besuch der Trainerakademie Köln e.V. geleistet.(2) Ausbildungsförderung wird nur geleistet, wenn die Ausbildung nach der von der zuständigen Landesbehörde erlassenen Studien- und Prüfungsordnung für staatlich geprüfte Trainer durchgeführt wird.
+(1) Ausbildungsförderung nach dem Bundesausbildungsförderungsgesetz wird für den Besuch der Trainerakademie Köln e.V. geleistet.
+
+(2) Ausbildungsförderung wird nur geleistet, wenn die Ausbildung nach der von der zuständigen Landesbehörde erlassenen Studien- und Prüfungsordnung für staatlich geprüfte Trainer durchgeführt wird.
 
 ### § 2 — Förderungsrechtliche Stellung der Auszubildenden
 

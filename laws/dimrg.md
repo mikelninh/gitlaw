@@ -18,23 +18,23 @@
 
 (2) Zu seinen Aufgaben gehören insbesondere folgende:
 
-1.
+1. Information der Öffentlichkeit über die Lage der Menschenrechte im In- und Ausland, in geeigneten Fällen in vergleichender Perspektive, sowie Einrichten und Betreiben einer fachspezifischen Bibliothek,
 
-2.
+2. wissenschaftliche Forschung und Publikation,
 
-3.
+3. Politikberatung,
 
-4.
+4. Bildungsarbeit im Inland,
 
-5.
+5. Förderung des Dialogs und der nationalen und internationalen Zusammenarbeit mit menschenrechtsrelevanten Stellen und
 
-6.
+6. Erstellen von Analysen zu weiterwirkenden menschenrechtlichen Folgen totalitärer Diktaturen sowie von Kriegs- und Nachkriegsgeschehen in Ergänzung der Arbeit bestehender Institutionen.
 
 (3) Das Deutsche Institut für Menschenrechte e. V. nimmt daneben die folgenden Aufgaben wahr, wenn und soweit zusätzliche Finanzmittel verfügbar sind:
 
-1.
+1. Unterstützung der Bundesregierung bei der Erstellung von Berichten über die Menschenrechte in Drittstaaten, bei der Erstellung von Länderanalysen und Fragekatalogen zu menschenrechtlichen Defiziten in Drittstaaten,
 
-2.
+2. Erstellen von Analysen der Wirkung von europäischer und deutscher Politik, insbesondere Entwicklungspolitik, auf die Lage der Menschenrechte in Adressatenländern.
 
 (4) Als unabhängiger Mechanismus gemäß Artikel 33 Absatz 2 des Übereinkommens der Vereinten Nationen vom 13. Dezember 2006 über die Rechte von Menschen mit Behinderungen soll das Deutsche Institut für Menschenrechte e. V. die in dem Übereinkommen beschriebenen Aufgaben wahrnehmen.
 
@@ -44,11 +44,11 @@
 
 Das Deutsche Institut für Menschenrechte e. V. hat in seiner Satzung folgende Organe:
 
-1.
+1. das Kuratorium,
 
-2.
+2. den Vorstand und
 
-3.
+3. Beiräte, die nach Bedarf fach- oder projektbezogen berufen werden können.
 
 ### § 4 — Mitgliedschaft
 
@@ -60,9 +60,9 @@ Das Deutsche Institut für Menschenrechte e. V. hat in seiner Satzung folgende O
 
 (4) In der Satzung muss bestimmt werden:
 
-1.
+1. das Kuratorium entscheidet über die Aufnahme und den Ausschluss ordentlicher und fördernder Mitglieder,
 
-2.
+2. die Aufnahme eines Mitgliedes durch das Kuratorium wird von der nächsten Mitgliederversammlung bestätigt; bei Nichtbestätigung endet die Mitgliedschaft.
 
 ### § 5 — Mitgliederversammlung
 
@@ -74,37 +74,37 @@ Die Mitgliederversammlung berät über die Leitlinien der Arbeit des Deutschen I
 
 (2) In der Satzung muss bestimmt werden, dass als Kuratoren mit Stimmrecht benannt werden
 
-1.
+1. aus der Mitgliederversammlung sechs Vertreter oder Vertreterinnen,
 
-2.
+2. vom Deutschen Behindertenrat ein Vertreter oder eine Vertreterin,
 
-3.
+3. aus dem Ausschuss für Menschenrechte und humanitäre Hilfe des Deutschen Bundestages zwei Mitglieder,
 
-4.
+4. drei vom Bundestag zu benennende Vertreter oder Vertreterinnen wissenschaftlicher Einrichtungen mit menschenrechtlichem Bezug,
 
-5.
+5. drei vom Bundestag zu benennende Mitglieder der Zivilgesellschaft,
 
-6.
+6. vom Forum Menschenrechte drei Vertreter oder Vertreterinnen.
 
 (3) In der Satzung muss bestimmt werden, dass als Kuratoren ohne Stimmrecht benannt werden je ein Vertreter oder eine Vertreterin
 
-1.
+1. von der Beauftragten der Bundesregierung für Migration, Flüchtlinge und Integration,
 
-2.
+2. von dem Beauftragten der Bundesregierung für Menschenrechte und Humanitäre Hilfe,
 
-3.
+3. von der Beauftragten der Bundesregierung für Menschenrechtsfragen,
 
-4.
+4. von der Beauftragten der Bundesregierung für Aussiedlerfragen und nationale Minderheiten,
 
-5.
+5. von der Beauftragten der Bundesregierung für die Belange behinderter Menschen,
 
-6.
+6. des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung,
 
-7.
+7. des Bundesministeriums für Familie, Senioren, Frauen und Jugend,
 
-8.
+8. des Bundesministeriums der Verteidigung,
 
-9.
+9. des Bundesrates.
 
 ### § 7 — Vorstand
 

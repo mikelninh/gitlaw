@@ -16,61 +16,39 @@
 
 (2) Dieses Gesetz gilt für folgende Produkte, die nach dem 28. Juni 2025 in den Verkehr gebracht werden:
 
-1.
+1. Hardwaresysteme für Universalrechner für Verbraucher einschließlich der für diese Hardwaresysteme bestimmte Betriebssysteme;
 
-2.
+2. die folgenden Selbstbedienungsterminals: a)Zahlungsterminals und zu diesen gehörige Hardware und Software;b)die folgenden Selbstbedienungsterminals, die zur Erbringung der unter dieses Gesetz fallenden Dienstleistungen bestimmt sind: aa)Geldautomaten;bb)Fahrausweisautomaten;cc)Check-in-Automaten;dd)interaktive Selbstbedienungsterminals zur Bereitstellung von Informationen, mit Ausnahme von Terminals, die als integrierte Bestandteile von Fahrzeugen, Luftfahrzeugen, Schiffen oder Schienenfahrzeugen eingebaut sind; Zahlungsterminals und zu diesen gehörige Hardware und Software; die folgenden Selbstbedienungsterminals, die zur Erbringung der unter dieses Gesetz fallenden Dienstleistungen bestimmt sind: aa)Geldautomaten;bb)Fahrausweisautomaten;cc)Check-in-Automaten;dd)interaktive Selbstbedienungsterminals zur Bereitstellung von Informationen, mit Ausnahme von Terminals, die als integrierte Bestandteile von Fahrzeugen, Luftfahrzeugen, Schiffen oder Schienenfahrzeugen eingebaut sind; Geldautomaten; Fahrausweisautomaten; Check-in-Automaten; interaktive Selbstbedienungsterminals zur Bereitstellung von Informationen, mit Ausnahme von Terminals, die als integrierte Bestandteile von Fahrzeugen, Luftfahrzeugen, Schiffen oder Schienenfahrzeugen eingebaut sind;
 
-a)
+3. Verbraucherendgeräte mit interaktivem Leistungsumfang, die für Telekommunikationsdienste verwendet werden;
 
-b)
+4. Verbraucherendgeräte mit interaktivem Leistungsumfang, die für den Zugang zu audiovisuellen Mediendiensten verwendet werden, und
 
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-3.
-
-4.
-
-5.
+5. E-Book-Lesegeräte.
 
 (3) Dieses Gesetz gilt für folgende Dienstleistungen, die für Verbraucher nach dem 28. Juni 2025 erbracht werden:
 
-1.
+1. Telekommunikationsdienste mit Ausnahme von Übertragungsdiensten zur Bereitstellung von Diensten der Maschine-Maschine-Kommunikation;
 
-2.
+2. folgende Elemente von Personenbeförderungsdiensten im Luft-, Bus-, Schienen- und Schiffsverkehr mit Ausnahme von Stadt-, Vorort- und Regionalverkehrsdiensten, für die nur die Elemente unter Buchstabe e gelten: a)Webseiten;b)auf Mobilgeräten angebotene Dienstleistungen, einschließlich mobiler Anwendungen;c)elektronische Tickets und elektronische Ticketdienste;d)die Bereitstellung von Informationen in Bezug auf den Verkehrsdienst, einschließlich Reiseinformationen in Echtzeit, bei Informationsbildschirmen allerdings nur dann, wenn es sich um interaktive Bildschirme im Hoheitsgebiet der Europäischen Union handelt, unde)interaktive Selbstbedienungsterminals im Hoheitsgebiet der Europäischen Union, mit Ausnahme der Terminals, die als integrierte Bestandteile von Fahrzeugen, Luftfahrzeugen, Schiffen und Schienenfahrzeugen eingebaut sind und für die Erbringung von solchen Personenbeförderungsdiensten verwendet werden; Webseiten; auf Mobilgeräten angebotene Dienstleistungen, einschließlich mobiler Anwendungen; elektronische Tickets und elektronische Ticketdienste; die Bereitstellung von Informationen in Bezug auf den Verkehrsdienst, einschließlich Reiseinformationen in Echtzeit, bei Informationsbildschirmen allerdings nur dann, wenn es sich um interaktive Bildschirme im Hoheitsgebiet der Europäischen Union handelt, und interaktive Selbstbedienungsterminals im Hoheitsgebiet der Europäischen Union, mit Ausnahme der Terminals, die als integrierte Bestandteile von Fahrzeugen, Luftfahrzeugen, Schiffen und Schienenfahrzeugen eingebaut sind und für die Erbringung von solchen Personenbeförderungsdiensten verwendet werden;
 
-a)
+3. Bankdienstleistungen für Verbraucher;
 
-b)
+4. E-Books und hierfür bestimmte Software und
 
-c)
-
-d)
-
-e)
-
-3.
-
-4.
-
-5.
+5. Dienstleistungen im elektronischen Geschäftsverkehr.
 
 (4) Dieses Gesetz gilt nicht für den folgenden Inhalt von Webseiten und mobilen Anwendungen:
 
-1.
+1. aufgezeichnete zeitbasierte Medien, die vor dem 28. Juni 2025 veröffentlicht wurden;
 
-2.
+2. Dateiformate von Büro-Anwendungen, die vor dem 28. Juni 2025 veröffentlicht wurden;
 
-3.
+3. Online-Karten und Kartendienste, sofern bei Karten für Navigationszwecke wesentliche Informationen barrierefrei zugänglich in digitaler Form bereitgestellt werden;
 
-4.
+4. Inhalte von Dritten, die von dem betreffenden Wirtschaftsakteur weder finanziert noch entwickelt werden noch dessen Kontrolle unterliegen;
 
-5.
+5. Inhalte von Webseiten und mobilen Anwendungen, die als Archive gelten, da ihre Inhalte nach dem 28. Juni 2025 weder aktualisiert noch überarbeitet werden.
 
 (5) Die §§ 45a bis 45d und 95a bis 96 des Urheberrechtsgesetzes und die Verordnung (EU) 2017/1563 des Europäischen Parlaments und des Rates vom 13. September 2017 über den grenzüberschreitenden Austausch von Vervielfältigungsstücken bestimmter urheberrechtlich oder durch verwandte Schutzrechte geschützter Werke und sonstiger Schutzgegenstände in einem barrierefreien Format zwischen der Europäischen Union und Drittländern zugunsten blinder, sehbehinderter oder anderweitig lesebehinderter Personen (ABl. L 242 vom 20.9.2017, S. 1) bleiben von diesem Gesetz unberührt.
 
@@ -78,109 +56,87 @@ e)
 
 Im Sinne dieses Gesetzes ist oder sind
 
-1.
+1. „Menschen mit Behinderungen“ Menschen, die langfristige körperliche, seelische, geistige oder Sinnesbeeinträchtigungen haben, welche sie in Wechselwirkung mit einstellungs- und umweltbedingten Barrieren an der gleichberechtigten Teilhabe an der Gesellschaft hindern können; als langfristig gilt ein Zeitraum, der mit hoher Wahrscheinlichkeit länger als sechs Monate andauert;
 
-2.
+2. „Produkt“ ein Stoff, eine Zubereitung oder eine Ware, der oder die durch einen Fertigungsprozess hergestellt worden ist, mit Ausnahme von Lebensmitteln, Futtermitteln, lebenden Pflanzen und Tieren, Erzeugnissen menschlichen Ursprungs und Erzeugnissen von Pflanzen und Tieren, die unmittelbar mit ihrer künftigen Reproduktion zusammenhängen;
 
-3.
+3. „Dienstleistung“ eine Dienstleistung im Sinne des Artikels 4 Nummer 1 der Richtlinie 2006/123/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Dienstleistungen im Binnenmarkt (ABl. L 376 vom 27.12.2006, S. 36);
 
-4.
+4. „Dienstleistungserbringer“ jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die auf dem Unionsmarkt eine Dienstleistung für Verbraucher erbringt oder anbietet, eine solche Dienstleistung zu erbringen;
 
-5.
+5. „audiovisuelle Mediendienste“ Dienste im Sinne des Artikels 1 Absatz 1 Buchstabe a der Richtlinie 2010/13/EU des Europäischen Parlaments und des Rates vom 10. März 2010 zur Koordinierung bestimmter Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über die Bereitstellung audiovisueller Mediendienste (ABl. L 95 vom 15.4.2010, S. 1; L 263 vom 6.10.2010, S. 15), die durch die Richtlinie (EU) 2018/1808 des Europäischen Parlaments und des Rates vom 14. November 2018 (ABl. L 303 vom 28.11.2018, S. 69) geändert worden ist;
 
-6.
+6. „Verbraucherendgeräte mit interaktivem Leistungsumfang, die für den Zugang zu audiovisuellen Mediendiensten verwendet werden“ Geräte für Verbraucher mit interaktivem Leistungsumfang, deren Hauptzweck es ist, Zugang zu audiovisuellen Mediendiensten zu bieten;
 
-7.
+7. „Telekommunikationsdienste" ein Telekommunikationsdienst im Sinne des Artikels 2 Nummer 4 der Richtlinie (EU) 2018/1972 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über den europäischen Kodex für die elektronische Kommunikation (ABl. L 321 vom 17.12.2018, S. 36; L 334 vom 27.12.2019, S. 164);
 
-8.
+8. „Text in Echtzeit“ eine Form der textbasierten Kommunikation in Punkt-zu-Punkt-Verbindungen oder bei Mehrpunktverbindungen, wobei der eingegebene Text so versendet wird, dass die Kommunikation vom Nutzer Zeichen für Zeichen als kontinuierlich wahrgenommen wird;
 
-9.
+9. „Bereitstellung auf dem Markt“ jede entgeltliche oder unentgeltliche Abgabe eines Produkts zum Vertrieb, zum Gebrauch oder zum Verbrauch auf dem Unionsmarkt im Rahmen einer Geschäftstätigkeit;
 
-10.
+10. „Inverkehrbringen“ die erstmalige Bereitstellung eines Produkts auf dem Unionsmarkt;
 
-11.
+11. „Hersteller“ jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die ein Produkt herstellt oder entwickeln oder herstellen lässt und dieses Produkt unter ihrem eigenen Namen oder ihrer eigenen Marke vermarktet;
 
-12.
+12. „Bevollmächtigter“ jede in der Europäischen Union ansässige natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die von einem Hersteller schriftlich beauftragt wurde, in seinem Namen bestimmte Aufgaben wahrzunehmen;
 
-13.
+13. „Einführer“ jede in der Europäischen Union ansässige natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die ein Produkt aus einem Drittstaat auf dem Unionsmarkt in den Verkehr bringt;
 
-14.
+14. „Händler“ jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft in der Lieferkette, die ein Produkt auf dem Markt bereitstellt, mit Ausnahme des Herstellers oder des Einführers;
 
-15.
+15. „Wirtschaftsakteur“ ein Hersteller, Bevollmächtigter, Einführer, Händler oder Dienstleistungserbringer;
 
-16.
+16. „Verbraucher“ jede natürliche Person, die ein unter dieses Gesetz fallendes Produkt oder eine unter dieses Gesetz fallende Dienstleistung zu Zwecken kauft oder empfängt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können;
 
-17.
+17. „Kleinstunternehmen“ ein Unternehmen, das weniger als zehn Personen beschäftigt und das entweder einen Jahresumsatz von höchstens 2 Millionen Euro erzielt oder dessen Jahresbilanzsumme sich auf höchstens 2 Millionen Euro beläuft;
 
-18.
+18. „kleine und mittlere Unternehmen“ Unternehmen, die weniger als 250 Personen beschäftigen und die entweder einen Jahresumsatz von höchstens 50 Millionen Euro erzielen oder deren Jahresbilanzsumme sich auf höchstens 43 Millionen Euro beläuft, mit Ausnahme von Kleinstunternehmen;
 
-19.
+19. „harmonisierte Norm“ eine harmonisierte Norm im Sinne des Artikels 2 Nummer 1 Buchstabe c der Verordnung (EU) Nr. 1025/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur europäischen Normung, zur Änderung der Richtlinien 89/686/EWG und 93/15/EWG des Rates sowie der Richtlinien 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG und 2009/105/EG des Europäischen Parlaments und des Rates und zur Aufhebung des Beschlusses 87/95/EWG des Rates und des Beschlusses Nr. 1673/2006/EG des Europäischen Parlaments und des Rates (ABl. L 316 vom 14.11.2012, S. 12);
 
-20.
+20. „technische Spezifikation“ eine technische Spezifikation im Sinne des Artikels 2 Nummer 4 der Verordnung (EU) Nr. 1025/2012, die ein Mittel zur Erfüllung der für ein Produkt oder eine Dienstleistung geltenden Barrierefreiheitsanforderungen darstellt;
 
-21.
+21. „CE-Kennzeichnung“ die Kennzeichnung, durch die der Hersteller erklärt, dass das Produkt den geltenden Anforderungen genügt, die in den Harmonisierungsrechtsvorschriften der Europäischen Union, die ihre Anbringung vorschreiben, festgelegt sind;
 
-22.
+22. „Marktüberwachungsbehörde“ jede Behörde, die nach Landesrecht für die Durchführung der Marktüberwachung zuständig ist;
 
-23.
+23. „Rücknahme“ jede Maßnahme, mit der verhindert werden soll, dass ein Produkt, das sich in der Lieferkette befindet, auf dem Markt bereitgestellt wird, oder bewirkt werden soll, dass ein auf dem Markt bereitgestelltes Produkt dem Markt wieder entzogen wird;
 
-24.
+24. „Bankdienstleistungen für Verbraucher“ die Bereitstellung der folgenden Bank- und Finanzdienstleistungen für Verbraucher: a)Kreditverträge im Sinne der Richtlinie 2008/48/EG des Europäischen Parlaments und des Rates vom 23. April 2008 über Verbraucherkreditverträge und zur Aufhebung der Richtlinie 87/102/EWG des Rates (ABl. L 133 vom 22.5.2008, S. 66), mit der Maßgabe, dass die Höchstgrenze gemäß Artikel 2 Absatz 2 Buchstabe c der Richtlinie 2008/48/EG keine Anwendung findet, oder Kreditverträge im Sinne der Richtlinie 2014/17/EU des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Wohnimmobilienkreditverträge für Verbraucher und zur Änderung der Richtlinien 2008/48/EG und 2013/36/EU und der Verordnung (EU) Nr. 1093/2010 (ABl. L 60 vom 28.2.2014, S. 34);b)Dienste gemäß Anhang I Abschnitt A Nummer 1, 2, 4 und 5 und Abschnitt B Nummer 1, 2, 4 und 5 der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente sowie zur Änderung der Richtlinien 2002/92/EG und 2011/61/EU (ABl. L 173 vom 12.6.2014, S. 349; L 74 vom 18.3.2015, S. 38; L 188 vom 13.7.2016, S. 28; L 273 vom 8.10.2016, S. 35; L 64 vom 10.3.2017, S. 116; L 278 vom 27.10.2017, S. 56), die zuletzt durch die Verordnung (EU) 2019/2115 (ABl. L 30 vom 11.12.2019, S. 1) geändert worden ist;c)Zahlungsdienste gemäß § 1 Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes vom 17. Juli 2017 (BGBl. I S. 2446), das zuletzt durch Artikel 9 Absatz 8 des Gesetzes vom 9. Dezember 2020 (BGBl. I S. 2773) geändert worden ist;d)mit einem Zahlungskonto verbundene Dienste gemäß § 2 Absatz 2 des Zahlungskontengesetzes vom 11. April 2016 (BGBl. I S. 720), das zuletzt durch Artikel 9 Absatz 7 des Gesetzes vom 9. Dezember 2020 (BGBl. I S. 2773) geändert worden ist unde)E-Geld gemäß § 1 Absatz 2 Satz 3 des Zahlungsdiensteaufsichtsgesetzes; Kreditverträge im Sinne der Richtlinie 2008/48/EG des Europäischen Parlaments und des Rates vom 23. April 2008 über Verbraucherkreditverträge und zur Aufhebung der Richtlinie 87/102/EWG des Rates (ABl. L 133 vom 22.5.2008, S. 66), mit der Maßgabe, dass die Höchstgrenze gemäß Artikel 2 Absatz 2 Buchstabe c der Richtlinie 2008/48/EG keine Anwendung findet, oder Kreditverträge im Sinne der Richtlinie 2014/17/EU des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Wohnimmobilienkreditverträge für Verbraucher und zur Änderung der Richtlinien 2008/48/EG und 2013/36/EU und der Verordnung (EU) Nr. 1093/2010 (ABl. L 60 vom 28.2.2014, S. 34); Dienste gemäß Anhang I Abschnitt A Nummer 1, 2, 4 und 5 und Abschnitt B Nummer 1, 2, 4 und 5 der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente sowie zur Änderung der Richtlinien 2002/92/EG und 2011/61/EU (ABl. L 173 vom 12.6.2014, S. 349; L 74 vom 18.3.2015, S. 38; L 188 vom 13.7.2016, S. 28; L 273 vom 8.10.2016, S. 35; L 64 vom 10.3.2017, S. 116; L 278 vom 27.10.2017, S. 56), die zuletzt durch die Verordnung (EU) 2019/2115 (ABl. L 30 vom 11.12.2019, S. 1) geändert worden ist; Zahlungsdienste gemäß § 1 Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes vom 17. Juli 2017 (BGBl. I S. 2446), das zuletzt durch Artikel 9 Absatz 8 des Gesetzes vom 9. Dezember 2020 (BGBl. I S. 2773) geändert worden ist; mit einem Zahlungskonto verbundene Dienste gemäß § 2 Absatz 2 des Zahlungskontengesetzes vom 11. April 2016 (BGBl. I S. 720), das zuletzt durch Artikel 9 Absatz 7 des Gesetzes vom 9. Dezember 2020 (BGBl. I S. 2773) geändert worden ist und E-Geld gemäß § 1 Absatz 2 Satz 3 des Zahlungsdiensteaufsichtsgesetzes;
 
-a)
+25. „Zahlungsterminal“ ein Gerät, dessen Hauptzweck es ist, Zahlungen mithilfe von Zahlungsinstrumenten im Sinne des § 1 Absatz 20 des Zahlungsdiensteaufsichtsgesetzes an einer physischen Verkaufsstelle vorzunehmen, nicht jedoch in einer virtuellen Umgebung;
 
-b)
+26. „Dienstleistungen im elektronischen Geschäftsverkehr“ digitale Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes, die über Webseiten und über Anwendungen auf Mobilgeräten angeboten werden und elektronisch und auf individuelle Anfrage eines Verbrauchers im Hinblick auf den Abschluss eines Verbrauchervertrags erbracht werden;
 
-c)
+27. „Personenbeförderungsdienste im Luftverkehr“ gewerbliche Passagierflugdienste gemäß Artikel 2 Buchstabe l der Verordnung (EG) Nr. 1107/2006 des Europäischen Parlaments und des Rates vom 5. Juli 2006 über die Rechte von behinderten Flugreisenden und Flugreisenden mit eingeschränkter Mobilität (ABl. L 204 vom 26.7.2006, S. 1; ABl. R 026 vom 26.01.2013, S. 34), wenn von einem Flughafen, der im Hoheitsgebiet eines Mitgliedstaats liegt, abgeflogen, auf einem solchen angekommen oder ein solcher im Transit benutzt wird; einschließlich Flügen ab einem in einem Drittland gelegenen Flughafen zu einem im Hoheitsgebiet eines Mitgliedstaats gelegenen Flughafen, wenn diese Dienste von einem Luftfahrtunternehmen aus der Europäischen Union betrieben werden;
 
-d)
+28. „Personenbeförderungsdienste im Busverkehr“ Dienstleistungen, die Gegenstand von Artikel 2 Absatz 1 und 2 der Verordnung (EU) Nr. 181/2011 des Europäischen Parlaments und des Rates vom 16. Februar 2011 über die Fahrgastrechte im Kraftomnibusverkehr und zur Änderung der Verordnung (EG) Nr. 2006/2004 (ABl. L 55 vom 28.2.2011, S. 1) sind;
 
-e)
+29. „Personenbeförderungsdienste im Schienenverkehr“ alle Eisenbahnfahrten und -dienstleistungen im Sinne von Artikel 2 Absatz 1 der Verordnung (EG) Nr. 1371/2007 des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über die Rechte und Pflichten der Fahrgäste im Eisenbahnverkehr (ABl. L 315 vom 3.12.2007, S. 14) mit Ausnahme der in Artikel 2 Absatz 2 der genannten Verordnung genannten Dienstleistungen;
 
-25.
+30. „Personenbeförderungsdienste im Schiffsverkehr“ alle Dienstleistungen für Fahrgäste im Sinne von Artikel 2 Absatz 1 der Verordnung (EU) Nr. 1177/2010 des Europäischen Parlaments und des Rates vom 24. November 2010 über die Fahrgastrechte im See- und Binnenschiffsverkehr und zur Änderung der Verordnung (EG) Nr. 2006/2004 (ABl. L 334 vom 17.12.2010, S. 1) mit Ausnahme der in Artikel 2 Absatz 2 der genannten Verordnung genannten Dienstleistungen;
 
-26.
+31. „Stadt- und Vorortverkehrsdienste“ Verkehrsdienste mit den Verkehrsmitteln Eisenbahn, Bus, U-Bahn, Straßenbahn und Oberleitungsomnibus, deren Hauptzweck es ist, die Verkehrsbedürfnisse eines Stadtgebietes oder eines, auch grenzüberschreitenden, Ballungsraumes sowie die Verkehrsbedürfnisse zwischen einem Stadtgebiet oder Ballungsraum und dem Umland abzudecken;
 
-27.
+32. „Regionalverkehrsdienste“ Verkehrsdienste mit den Verkehrsmitteln Eisenbahn, Bus, U-Bahn, Straßenbahn und Oberleitungsomnibus, deren Hauptzweck es ist, die Verkehrsbedürfnisse einer, auch grenzüberschreitenden, Region abzudecken;
 
-28.
+33. „assistive Technologien“ jedes Element, Gerät oder Produktsystem, einschließlich Software, a)das genutzt wird, um die funktionellen Fähigkeiten von Menschen mit Behinderungen zu erhöhen, aufrechtzuerhalten, zu ersetzen oder zu verbessern, oderb)das der Linderung und dem Ausgleich von Behinderungen, Beeinträchtigungen der Aktivität oder Beeinträchtigungen der Teilhabe von Menschen mit Behinderungen dient; das genutzt wird, um die funktionellen Fähigkeiten von Menschen mit Behinderungen zu erhöhen, aufrechtzuerhalten, zu ersetzen oder zu verbessern, oder das der Linderung und dem Ausgleich von Behinderungen, Beeinträchtigungen der Aktivität oder Beeinträchtigungen der Teilhabe von Menschen mit Behinderungen dient;
 
-29.
+34. „Betriebssystem“ die Software, die unter anderem die Schnittstelle zur peripheren Hardware steuert, Aufgaben plant, Speicherplatz zuweist und dem Verbraucher eine Standardschnittstelle anzeigt, wenn kein Anwenderprogramm läuft, einschließlich einer grafischen Nutzerschnittstelle, unabhängig davon, ob diese Software integraler Bestandteil der Hardware für Universalrechner für Verbraucher ist oder als externe Software zur Ausführung auf der Hardware für Universalrechner für Verbraucher bestimmt ist; ausgeschlossen sind Lader eines Betriebssystems, ein BIOS oder eine andere Firmware, die beim Hochfahren oder beim Installieren des Betriebssystems erforderlich ist;
 
-30.
+35. „Hardwaresystem für Universalrechner für Verbraucher“ die Kombination von Hardware, a)die einen vollständigen Computer bildet und durch ihren Mehrzweckcharakter und ihre Fähigkeit gekennzeichnet ist, mit der geeigneten Software die vom Verbraucher geforderten üblichen Computeraufgaben durchzuführen, undb)dazu bestimmt ist, von Verbrauchern bedient zu werden; einschließlich Personal Computer, insbesondere Desktops, Notebooks, Smartphones und Tablets; die einen vollständigen Computer bildet und durch ihren Mehrzweckcharakter und ihre Fähigkeit gekennzeichnet ist, mit der geeigneten Software die vom Verbraucher geforderten üblichen Computeraufgaben durchzuführen, und dazu bestimmt ist, von Verbrauchern bedient zu werden; einschließlich Personal Computer, insbesondere Desktops, Notebooks, Smartphones und Tablets;
 
-31.
+36. „interaktiver Leistungsumfang“ die Funktionalität zur Unterstützung der Interaktion zwischen Mensch und Gerät, um die Verarbeitung und Übertragung von Daten, Sprache oder Video oder einer beliebigen Kombination daraus zu ermöglichen;
 
-32.
+37. „E-Book und hierfür bestimmte Software“ a)einen Dienst, der in der Bereitstellung digitaler Dateien besteht, die eine elektronische Fassung eines Buches übermitteln und Zugriff, Blättern, Lektüre und Nutzung ermöglichen, undb)die Software, die speziell auf Zugriff, Navigieren, Lektüre und Nutzung der betreffenden digitalen Dateien ausgelegt ist, einschließlich Dienstleistungen und mobiler Anwendungen, die auf Mobilgeräten angeboten werden und ausgenommen Software für E-Book-Lesegeräte nach Nummer 38; einen Dienst, der in der Bereitstellung digitaler Dateien besteht, die eine elektronische Fassung eines Buches übermitteln und Zugriff, Blättern, Lektüre und Nutzung ermöglichen, und die Software, die speziell auf Zugriff, Navigieren, Lektüre und Nutzung der betreffenden digitalen Dateien ausgelegt ist, einschließlich Dienstleistungen und mobiler Anwendungen, die auf Mobilgeräten angeboten werden und ausgenommen Software für E-Book-Lesegeräte nach Nummer 38;
 
-33.
+38. „E-Book-Lesegerät“ ein spezielles Gerät, einschließlich Hardware und Software, das für Zugriff, Navigieren, Lektüre und Nutzung von E-Book-Dateien verwendet wird;
 
-a)
+39. „elektronische Tickets“ Systeme, in denen eine Fahrberechtigung in Form eines Fahrscheins für eine einfache Fahrt oder mehrere Fahrten, eines Abonnements oder eines Fahrguthabens nicht auf Papier gedruckt wird, sondern elektronisch auf einem physischen Fahrausweis oder einem anderen Gerät gespeichert wird;
 
-b)
+40. „elektronische Ticketdienste“ Systeme, in denen Fahrberechtigungen mithilfe eines Geräts mit interaktivem Leistungsumfang unter anderem online erworben und dem Käufer elektronisch übermittelt werden, damit sie in Papierform ausgedruckt oder mithilfe eines Geräts mit interaktivem Leistungsumfang während der Fahrt angezeigt werden können;
 
-34.
-
-35.
-
-a)
-
-b)
-
-36.
-
-37.
-
-a)
-
-b)
-
-38.
-
-39.
-
-40.
-
-41.
+41. „Ingebrauchnahme“ die erstmalige Eröffnung der Nutzungsmöglichkeit eines Selbstbedienungsterminals.
 
 ## Abschnitt 2: Anforderungen an die Barrierefreiheit
 
@@ -188,13 +144,13 @@ b)
 
 (1) Produkte, die ein Wirtschaftsakteur auf dem Markt bereitstellt und Dienstleistungen, die er anbietet oder erbringt, müssen barrierefrei sein. Produkte und Dienstleistungen sind barrierefrei, wenn sie für Menschen mit Behinderungen in der allgemein üblichen Weise, ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe auffindbar, zugänglich und nutzbar sind. Die konkreten Anforderungen an die Barrierefreiheit für Produkte und Dienstleistungen nach diesem Absatz richten sich nach der nach Absatz 2 zu erlassenden Rechtsverordnung.
 
-(2) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen, dem Bundesministerium für Gesundheit, dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung mit Zustimmung des Bundesrates konkrete Anforderungen an die Barrierefreiheit von Produkten gemäß § 1 Absatz 2 und Dienstleistungen gemäß § 1 Absatz 3 entsprechend den Anforderungen des Anhangs I der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates vom 17. April 2019 über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen (ABl. L 151 vom 7.6.2019, S. 70) zu regeln, insbesondere an Durch Rechtsverordnung nach Satz 1 können konkretisierende Bestimmungen auch insoweit erlassen werden, als Barrierefreiheitsanforderungen im Sinne des Anhangs I der Richtlinie (EU) 2019/882 nach Artikel 4 Absatz 9 dieser Richtlinie durch delegierte Rechtsakte der Europäischen Kommission präzisiert worden sind.
+(2) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen, dem Bundesministerium für Gesundheit, dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung mit Zustimmung des Bundesrates konkrete Anforderungen an die Barrierefreiheit von Produkten gemäß § 1 Absatz 2 und Dienstleistungen gemäß § 1 Absatz 3 entsprechend den Anforderungen des Anhangs I der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates vom 17. April 2019 über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen (ABl. L 151 vom 7.6.2019, S. 70) zu regeln, insbesondere an
 
-1.
+1. die Gestaltung und Herstellung der Produkte einschließlich der Benutzerschnittstelle,
 
-2.
+2. die Zugänglichkeit und Gestaltung des Angebots und der Ausführung der Dienstleistungen,
 
-3.
+3. die Art und Weise der Bereitstellung von Informationen insbesondere zur Nutzung der Produkte, wie etwa an die Kennzeichnung, die Gebrauchsanleitung, Sicherheitsinformationen und die Funktionsweise der Dienstleistungen sowie an die Barrierefreiheitsmerkmale und Barrierefreiheitsfunktionen der Produkte und Dienstleistungen sowie an die mögliche Nutzung assistiver Technologien.
 
 (3) Absatz 1 gilt nicht für Kleinstunternehmen, die Dienstleistungen anbieten oder erbringen. Das Bundesministerium für Arbeit und Soziales erstellt im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie Leitlinien für Kleinstunternehmen, um ihnen die Anwendung dieses Gesetzes zu erleichtern. Das Bundesministerium für Arbeit und Soziales ist berechtigt, sich im Rahmen der Erstellung der Leitlinien nach Satz 2 Dritter zu bedienen.
 
@@ -220,13 +176,13 @@ Entsprechen die Merkmale, Bestandteile oder Funktionen von Produkten und Dienstl
 
 (1) Der Hersteller darf ein Produkt nur in den Verkehr bringen, wenn
 
-1.
+1. das Produkt nach den Barrierefreiheitsanforderungen der nach § 3 Absatz 2 zu erlassenden Rechtsverordnung gestaltet und hergestellt worden ist,
 
-2.
+2. die technische Dokumentation nach der Anlage 2 erstellt wurde, das Konformitätsbewertungsverfahren durchgeführt wurde und die Konformität des Produkts mit den geltenden Barrierefreiheitsanforderungen im Rahmen dieses Verfahrens nachgewiesen wurde,
 
-3.
+3. der Hersteller eine EU-Konformitätserklärung nach § 18 ausgestellt hat und
 
-4.
+4. die CE-Kennzeichnung nach § 19 angebracht wurde.
 
 (2) Der Hersteller bewahrt die technische Dokumentation und die EU-Konformitätserklärung nach dem Inverkehrbringen des Produkts für die Dauer von fünf Jahren in schriftlicher oder elektronischer Form auf.
 
@@ -256,11 +212,11 @@ Entsprechen die Merkmale, Bestandteile oder Funktionen von Produkten und Dienstl
 
 (3) Ein Hersteller, der einen Bevollmächtigten einsetzt, muss diesem mindestens die folgenden Pflichten übertragen:
 
-1.
+1. die Pflicht, die EU-Konformitätserklärung und die technischen Unterlagen gemäß § 6 Absatz 2 für die Marktüberwachungsbehörde für eine Dauer von fünf Jahren aufzubewahren;
 
-2.
+2. die Pflicht, der Marktüberwachungsbehörde alle Auskünfte nach § 7 Absatz 5 Satz 1 zu erteilen und dieser alle Unterlagen nach § 7 Absatz 5 Satz 1 auszuhändigen;
 
-3.
+3. die Pflicht, mit der Marktüberwachungsbehörde auf deren Verlangen bei allen Maßnahmen zur Herstellung der Konformität zusammenzuarbeiten, soweit die betroffenen Produkte zum Aufgabenbereich des Bevollmächtigten gehören.
 
 (4) Die Pflichten gemäß § 6 Absatz 1 Nummer 1 und die Pflicht zur Erstellung der technischen Dokumentation gemäß § 6 Absatz 1 Nummer 2 darf der Hersteller nicht auf einen Bevollmächtigten übertragen.
 
@@ -270,15 +226,15 @@ Entsprechen die Merkmale, Bestandteile oder Funktionen von Produkten und Dienstl
 
 (2) Der Einführer darf ein Produkt erst in den Verkehr bringen, wenn
 
-1.
+1. der Hersteller das Konformitätsbewertungsverfahren gemäß Anlage 2 durchgeführt hat,
 
-2.
+2. der Hersteller die gemäß Anlage 2 erforderlichen technischen Unterlagen erstellt hat,
 
-3.
+3. das Produkt mit der CE-Kennzeichnung nach § 19 versehen ist,
 
-4.
+4. dem Produkt die Gebrauchsanleitung und Sicherheitsinformationen beigefügt sind und
 
-5.
+5. der Hersteller die Pflichten nach § 7 Absatz 1 und 2 erfüllt hat.
 
 (3) Hat ein Einführer Kenntnis davon oder Grund zur Annahme, dass ein Produkt die Barrierefreiheitsanforderungen dieses Gesetzes nicht erfüllt, darf er dieses Produkt erst in den Verkehr bringen, wenn die Konformität hergestellt worden ist. Wenn das Produkt den Barrierefreiheitsanforderungen nicht genügt, informiert der Einführer außerdem den Hersteller und die Marktüberwachungsbehörden darüber.
 
@@ -300,13 +256,13 @@ Entsprechen die Merkmale, Bestandteile oder Funktionen von Produkten und Dienstl
 
 (1) Der Händler darf ein Produkt erst auf dem Markt bereitstellen, wenn
 
-1.
+1. das Produkt mit der CE-Kennzeichnung nach § 19 versehen ist,
 
-2.
+2. dem Produkt die Unterlagen nach § 7 Absatz 3 beigefügt sind,
 
-3.
+3. der Hersteller seine Pflichten nach § 7 Absatz 1 und 2 erfüllt hat und
 
-4.
+4. der Einführer seine Pflichten nach § 10 Absatz 1 und 2 erfüllt hat.
 
 (2) Hat der Händler Kenntnis davon oder Grund zur Annahme, dass ein Produkt nicht den Barrierefreiheitsanforderungen der nach § 3 Absatz 2 zu erlassenden Rechtsverordnung entspricht, darf er dieses Produkt erst auf dem Markt bereitstellen, wenn die Konformität hergestellt worden ist. Wenn das Produkt den geltenden Barrierefreiheitsanforderungen nicht genügt, informiert der Händler außerdem unverzüglich den Hersteller oder den Einführer sowie die Marktüberwachungsbehörden darüber.
 
@@ -320,17 +276,17 @@ Entsprechen die Merkmale, Bestandteile oder Funktionen von Produkten und Dienstl
 
 Auf einen Einführer oder Händler sind die §§ 6 und 7 entsprechend anzuwenden, wenn er
 
-1.
+1. ein Produkt unter seinem eigenen Namen oder seiner eigenen Marke in den Verkehr bringt oder
 
-2.
+2. ein bereits in den Verkehr gebrachtes Produkt so ändert, dass dessen Konformität mit den Anforderungen der nach § 3 Absatz 2 zu erlassenden Rechtsverordnung beeinträchtigt werden kann.
 
 ### § 13 — Angabe der Wirtschaftsakteure, Verordnungsermächtigung
 
 (1) Der Wirtschaftsakteur hat der Marktüberwachungsbehörde auf deren Verlangen Auskunft über die Wirtschaftsakteure zu erteilen,
 
-1.
+1. von denen er ein Produkt bezogen hat und
 
-2.
+2. an die er ein Produkt abgegeben hat.
 
 (2) Der Wirtschaftsakteur stellt sicher, dass er die Angaben nach Absatz 1 mindestens fünf Jahre ab dem Zeitpunkt des Bezugs des Produkts oder der Abgabe des Produkts vorlegen kann.
 
@@ -340,9 +296,9 @@ Auf einen Einführer oder Händler sind die §§ 6 und 7 entsprechend anzuwenden
 
 (1) Der Dienstleistungserbringer darf seine Dienstleistung nur anbieten oder erbringen, wenn
 
-1.
+1. die Dienstleistung die Barrierefreiheitsanforderungen der nach § 3 Absatz 2 zu erlassenden Rechtsverordnung erfüllt und
 
-2.
+2. er die Informationen nach Anlage 3 Nummer 1 erstellt hat und diese Informationen für die Allgemeinheit in barrierefreier Form zugänglich gemacht hat; für die Zugänglichmachung sind die Vorgaben der nach § 3 Absatz 2 zu erlassenden Rechtsverordnung maßgebend.
 
 (2) Der Dienstleistungserbringer bewahrt die Informationen nach Absatz 1 Nummer 2 so lange auf, wie er die Dienstleistung anbietet oder erbringt.
 
@@ -376,9 +332,9 @@ Die Beratung der Bundesfachstelle für Barrierefreiheit nach § 13 Absatz 2 Satz
 
 (3) Ein Dienstleistungserbringer, der sich auf Absatz 1 Satz 1 beruft, nimmt seine Beurteilung nach Absatz 1 Satz 2 für jede Dienstleistungskategorie oder -art mindestens alle fünf Jahre vor. Die Beurteilung nach Satz 1 hat stets zu erfolgen, wenn
 
-1.
+1. die angebotene Dienstleistung verändert wird oder
 
-2.
+2. der Dienstleistungserbringer von der für die Prüfung der Konformität der Dienstleistung zuständigen Behörde dazu aufgefordert wird.
 
 (4) Wenn ein Wirtschaftsakteur zu Zwecken der Verbesserung der Barrierefreiheit nichteigene öffentliche oder private Mittel erhält, ist er nicht dazu berechtigt, sich auf Absatz 1 Satz 1 zu berufen.
 
@@ -422,17 +378,17 @@ Die Beratung der Bundesfachstelle für Barrierefreiheit nach § 13 Absatz 2 Satz
 
 (3) Die Marktüberwachungsbehörde prüft für den Fall, dass sich der Hersteller, Einführer oder Händler auf § 16 oder § 17 berufen hat,
 
-1.
+1. ob der Wirtschaftsakteur die nach der jeweiligen Vorschrift erforderliche Beurteilung durchgeführt hat,
 
-2.
+2. die Beurteilung einschließlich der ordnungsgemäßen Anwendung der in Anlage 4 genannten Kriterien und
 
-3.
+3. ob die übrigen Barrierefreiheitsanforderungen der nach § 3 Absatz 2 zu erlassenden Rechtsverordnung eingehalten werden.
 
-(4) Die Marktüberwachungsbehörde stellt einem Verbraucher auf Antrag Folgendes in einer für ihn wahrnehmbaren Form zur Verfügung: Soweit dies erforderlich ist, soll die Marktüberwachungsbehörde die ihr vorliegenden Informationen in einfacher und verständlicher Weise erläutern. Ist eine solche Erläuterung nach Satz 2 für den Verbraucher nicht ausreichend, soll die Marktüberwachungsbehörde die Informationen in Leichter Sprache erläutern. Die Verpflichtung nach Satz 1 gilt nicht, wenn die Informationen entsprechend Artikel 17 der Verordnung (EU) Nr. 2019/1020 aus Gründen der Vertraulichkeit nicht erteilt werden können.
+(4) Die Marktüberwachungsbehörde stellt einem Verbraucher auf Antrag Folgendes in einer für ihn wahrnehmbaren Form zur Verfügung:
 
-1.
+1. die ihr vorliegenden Informationen darüber, ob ein bestimmter Wirtschaftsakteur die Barrierefreiheitsanforderungen der nach § 3 Absatz 2 zu erlassenden Rechtsverordnung einhält und
 
-2.
+2. die Beurteilung, die der Wirtschaftsakteur nach § 16 Absatz 1 Satz 2 und § 17 Absatz 1 Satz 2 durchgeführt hat.
 
 (5) Menschen mit Hörbehinderungen und Menschen mit Sprachbehinderungen haben das Recht, im Verfahren nach Absatz 4 in Deutscher Gebärdensprache, mit lautsprachbegleitenden Gebärden oder über andere geeignete Kommunikationshilfen mit der Marktüberwachungsbehörde zu kommunizieren. Die Kosten für Kommunikationshilfen sind von der Marktüberwachungsbehörde zu tragen. § 5 der Kommunikationshilfenverordnung vom 17. Juli 2002 (BGBl. I S. 2650), die zuletzt durch Artikel 12 Absatz 2 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3229) geändert worden ist, in der jeweils geltenden Fassung gilt entsprechend.
 
@@ -456,15 +412,15 @@ Die Beratung der Bundesfachstelle für Barrierefreiheit nach § 13 Absatz 2 Satz
 
 (2) Eine formale Nichtkonformität liegt vor, wenn
 
-1.
+1. die CE-Kennzeichnung nicht oder unter Nichteinhaltung der Vorgaben des § 19 angebracht wurde,
 
-2.
+2. die EU-Konformitätserklärung nach § 18 nicht oder nicht ordnungsgemäß ausgestellt wurde,
 
-3.
+3. die technischen Unterlagen nicht verfügbar oder nicht vollständig sind,
 
-4.
+4. die Angaben des Herstellers nach § 7 Absatz 2 oder des Einführers nach § 10 Absatz 1 fehlen, falsch oder unvollständig sind oder
 
-5.
+5. eine andere formale Verpflichtung nach § 6, § 7, § 9 oder § 10 nicht erfüllt ist.
 
 (3) Ergreift der Wirtschaftsakteur innerhalb der nach Absatz 1 gesetzten Frist keine geeigneten Maßnahmen zur Herstellung der Konformität, so trifft die Marktüberwachungsbehörde geeignete Maßnahmen, um die Bereitstellung des Produkts auf dem Markt zu beschränken, oder sie untersagt die Bereitstellung auf dem Markt solange, bis die Konformität hergestellt ist. § 22 Absatz 2 Satz 2 und Absatz 4 Satz 4 und 5 gilt entsprechend.
 
@@ -474,17 +430,17 @@ Die Beratung der Bundesfachstelle für Barrierefreiheit nach § 13 Absatz 2 Satz
 
 (2) Trifft die Marktüberwachungsbehörde Maßnahmen nach § 22 Absatz 4, so informiert sie unverzüglich die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin über die getroffenen Maßnahmen. Die Information enthält alle verfügbaren Angaben, insbesondere die Daten für die Identifizierung des betroffenen Produktes, die Herkunft des Produktes, die Art der behaupteten Nichtkonformität sowie die Art und Dauer der ergriffenen Maßnahmen und die Argumente des betreffenden Wirtschaftsakteurs. Die Information enthält darüber hinaus Angaben dazu, ob die behauptete Nichtkonformität darauf beruht, dass
 
-1.
+1. das Produkt die Barrierefreiheitsanforderungen der nach § 3 Absatz 2 zu erlassenden Rechtsverordnung nicht erfüllt oder
 
-2.
+2. die harmonisierten Normen oder die technischen Spezifikationen, bei deren Einhaltung nach den §§ 4 und 5 eine Konformitätsvermutung gilt, mangelhaft sind.
 
 (3) Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin überprüft die eingegangenen Informationen nach Absatz 1 und Absatz 2 auf Vollständigkeit und Schlüssigkeit. Sie leitet diese Informationen unverzüglich an die Europäische Kommission und die übrigen Mitgliedstaaten der Europäischen Union weiter.
 
 (4) Die Marktüberwachungsbehörde hebt den Widerrufsvorbehalt nach § 22 Absatz 5 auf, wenn
 
-1.
+1. die Frist von drei Monaten nach Artikel 20 Absatz 7 der Richtlinie (EU) 2019/882 verstrichen ist, ohne dass ein Mitgliedstaat der Europäischen Union Einwände gegen die Maßnahmen erhoben hat, oder
 
-2.
+2. die Europäische Kommission nach Artikel 21 Absatz 1 der Richtlinie (EU) 2019/882 festgestellt hat, dass die Maßnahmen gerechtfertigt sind.
 
 (5) Die Marktüberwachungsbehörde widerruft die nach § 22 Absatz 4 getroffenen Maßnahmen, wenn die Europäische Kommission nach Artikel 21 Absatz 1 der Richtlinie (EU) 2019/882 feststellt, dass die Maßnahmen nicht gerechtfertigt sind.
 
@@ -506,11 +462,11 @@ Die Beratung der Bundesfachstelle für Barrierefreiheit nach § 13 Absatz 2 Satz
 
 ### § 27 — Aufgaben der zentralen Verbindungsstelle
 
-(1) Die zentrale Verbindungsstelle teilt der Europäischen Kommission und den anderen Mitgliedstaaten der Europäischen Union mit: Hierfür greift sie auf das in Artikel 34 der Verordnung (EU) 2019/1020 genannte Informations- und Kommunikationssystem zurück. Die Länder teilen der zentralen Verbindungsstelle die nach Satz 1 Nummer 2 erforderlichen Informationen mit.
+(1) Die zentrale Verbindungsstelle teilt der Europäischen Kommission und den anderen Mitgliedstaaten der Europäischen Union mit:
 
-1.
+1. die nach § 20 Absatz 2 von den Ländern übermittelte Marktüberwachungsstrategie und
 
-2.
+2. die Marktüberwachungsbehörden und deren jeweilige Zuständigkeiten.
 
 (2) Die zentrale Verbindungsstelle stellt der Öffentlichkeit eine Zusammenfassung der Marktüberwachungsstrategie zur Verfügung.
 
@@ -526,17 +482,17 @@ Die Beratung der Bundesfachstelle für Barrierefreiheit nach § 13 Absatz 2 Satz
 
 (3) Die Marktüberwachungsbehörde überprüft für den Fall, dass sich der Dienstleistungserbringer auf § 16 oder § 17 berufen hat,
 
-1.
+1. ob der Dienstleistungserbringer die nach der jeweiligen Vorschrift erforderliche Beurteilung durchgeführt hat,
 
-2.
+2. die Beurteilung einschließlich der ordnungsgemäßen Anwendung der in Anlage 4 genannten Kriterien und
 
-3.
+3. ob die übrigen Barrierefreiheitsanforderungen eingehalten werden.
 
-(4) Die Marktüberwachungsbehörde stellt einem Verbraucher auf Antrag Folgendes in einer für ihn wahrnehmbaren Form zur Verfügung: Falls erforderlich, soll die Marktüberwachungsbehörde die ihr vorliegenden Informationen in einfacher und verständlicher Weise erläutern. Ist eine Erläuterung nach Satz 2 für den Verbraucher nicht ausreichend, soll die Marktüberwachungsbehörde die Informationen in Leichter Sprache erläutern. Die Verpflichtung nach Satz 1 gilt nicht, wenn die Informationen gemäß Artikel 17 der Verordnung (EU) Nr. 2019/1020 aus Gründen der Vertraulichkeit nicht erteilt werden können.
+(4) Die Marktüberwachungsbehörde stellt einem Verbraucher auf Antrag Folgendes in einer für ihn wahrnehmbaren Form zur Verfügung:
 
-1.
+1. die ihr vorliegenden Informationen darüber, ob ein bestimmter Wirtschaftsakteur die Barrierefreiheitsanforderungen der nach § 3 Absatz 2 zu erlassenden Rechtsverordnung einhält und
 
-2.
+2. die Beurteilung, die der Wirtschaftsakteur nach § 16 Absatz 1 Satz 2 oder § 17 Absatz 1 Satz 2 vorgenommen hat.
 
 (5) Menschen mit Hörbehinderungen und Menschen mit Sprachbehinderungen haben das Recht, im Verfahren nach Absatz 4 in Deutscher Gebärdensprache, mit lautsprachbegleitenden Gebärden oder über andere geeignete Kommunikationshilfen mit der Marktüberwachungsbehörde zu kommunizieren. Die Kosten für Kommunikationshilfen sind von der Marktüberwachungsbehörde zu tragen. § 5 der Kommunikationshilfenverordnung gilt entsprechend.
 
@@ -572,11 +528,11 @@ Die Beratung der Bundesfachstelle für Barrierefreiheit nach § 13 Absatz 2 Satz
 
 (1) Auf Antrag eines Verbrauchers hat die Marktüberwachungsbehörde ein Verfahren zur Durchführung von Maßnahmen nach Abschnitt 6 oder Abschnitt 7 dieses Gesetzes gegen einen Wirtschaftsakteur einzuleiten, wenn der Verbraucher geltend macht, dass der Wirtschaftsakteur gegen eine Bestimmung dieses Gesetzes oder eine Bestimmung der nach § 3 Absatz 2 zu erlassenden Rechtsverordnung verstößt und der Verbraucher daher das betreffende Produkt oder die betreffende Dienstleistung nicht oder nur in eingeschränkter Weise nutzen kann. Der Verbraucher hat das Recht, einen nach § 15 Absatz 3 des Behindertengleichstellungsgesetzes anerkannten Verband oder eine Stelle nach § 3 Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes zu beauftragen, in seinem Namen oder an seiner Stelle die Einleitung des Verfahrens nach Satz 1 zu beantragen. Nach dem Eingang eines Antrags nach Satz 1 ist dem betreffenden Wirtschaftsakteur Gelegenheit zur Stellungnahme zu geben.
 
-(2) Das Verfahren nach Absatz 1 Satz 1 gegen einen Wirtschaftsakteur ist auch einzuleiten, wenn Der Antragsteller hat in seinem Antrag nach Satz 1 Nummer 1 darzulegen, dass sein satzungsgemäßer Aufgabenbereich nach Satz 1 Nummer 2 berührt ist. Zur Geltendmachung des Rechts bedarf es keiner eigenen Rechtsverletzung des Antragstellers.
+(2) Das Verfahren nach Absatz 1 Satz 1 gegen einen Wirtschaftsakteur ist auch einzuleiten, wenn
 
-1.
+1. ein nach § 15 Absatz 3 des Behindertengleichstellungsgesetzes anerkannter Verband oder eine Stelle nach § 3 Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes dies beantragt und
 
-2.
+2. der geltend gemachte Verstoß des Wirtschaftsakteurs gegen eine Bestimmung dieses Gesetzes oder gegen eine Bestimmung der aufgrund des § 3 Absatz 2 erlassenen Rechtsverordnung den satzungsgemäßen Aufgabenbereich des Antragstellers berührt.
 
 (3) Die Marktüberwachungsbehörde entscheidet über einen Antrag nach Absatz 1 oder Absatz 2 durch Bescheid.
 
@@ -588,11 +544,11 @@ Die Beratung der Bundesfachstelle für Barrierefreiheit nach § 13 Absatz 2 Satz
 
 (1) Der Verbraucher hat unter den Voraussetzungen des § 32 Absatz 1 Satz 1 das Recht, einen nach § 15 Absatz 3 des Behindertengleichstellungsgesetzes anerkannten Verband oder eine Stelle nach § 3 Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes zu beauftragen, in seinem Namen oder an seiner Stelle Rechtsbehelfe nach Maßgabe der Verwaltungsgerichtsordnung gegen den an ihn gerichteten Bescheid nach § 32 Absatz 3 oder gegen dessen Unterlassen einzulegen. Die Vertretungsbefugnis nach Satz 1 gilt auch vor dem Oberverwaltungsgericht und dem Bundesverwaltungsgericht. Handeln Verbände oder Stellen nach Satz 1 anstelle von Verbrauchern, so können sie den Rechtsstreit auch vor dem Oberverwaltungsgericht und dem Bundesverwaltungsgericht selbst führen. Vor dem Bundesverwaltungsgericht müssen sie durch Personen mit der Befähigung zum Richteramt handeln.
 
-(2) Nach § 15 Absatz 3 des Behindertengleichstellungsgesetzes anerkannte Verbände oder Stellen nach § 3 Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes können, ohne in eigenen Rechten verletzt zu sein, Rechtsbehelfe nach Maßgabe der Verwaltungsgerichtsordnung gegen einen an sie gerichteten Bescheid oder gegen das Unterlassen einlegen, wenn sie geltend machen, dass Sie können den Rechtsstreit auch vor dem Oberverwaltungsgericht selbst führen. Absatz 1 Satz 4 gilt entsprechend.
+(2) Nach § 15 Absatz 3 des Behindertengleichstellungsgesetzes anerkannte Verbände oder Stellen nach § 3 Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes können, ohne in eigenen Rechten verletzt zu sein, Rechtsbehelfe nach Maßgabe der Verwaltungsgerichtsordnung gegen einen an sie gerichteten Bescheid oder gegen das Unterlassen einlegen, wenn sie geltend machen, dass
 
-1.
+1. eine Bestimmung dieses Gesetzes oder eine Bestimmung der aufgrund des § 3 Absatz 2 erlassenen Rechtsverordnung verletzt ist und
 
-2.
+2. die Verletzung nach Nummer 1 ihren satzungsmäßigen Aufgabenbereich berührt.
 
 ### § 34 — Schlichtung
 
@@ -622,25 +578,25 @@ Zur Vorbereitung der Berichterstattung an die Europäische Kommission teilen die
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 6 Absatz 1 Nummer 1 oder § 9 Absatz 1, jeweils in Verbindung mit einer Rechtsverordnung nach § 3 Absatz 2, ein Produkt in den Verkehr bringt,
 
-2.
+2. entgegen § 6 Absatz 4 Satz 3, auch in Verbindung mit § 11 Absatz 4, entgegen § 11 Absatz 2 Satz 2 oder § 14 Absatz 4 Satz 2, jeweils in Verbindung mit einer Rechtsverordnung nach § 3 Absatz 2, eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gibt,
 
-3.
+3. entgegen § 7 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, jeweils in Verbindung mit einer Rechtsverordnung nach § 3 Absatz 2, nicht dafür sorgt, dass ein Produkt eine dort genannte Nummer oder ein dort genanntes Kennzeichen trägt,
 
-4.
+4. entgegen § 7 Absatz 2 Satz 1, auch in Verbindung mit Satz 2, oder § 10 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, eine Angabe nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
 
-5.
+5. entgegen § 7 Absatz 3 oder § 10 Absatz 2, jeweils in Verbindung mit einer Rechtsverordnung nach § 3 Absatz 2, nicht sicherstellt, dass einem Produkt eine Gebrauchsanleitung und dort genannte Sicherheitsinformationen beigefügt sind,
 
-6.
+6. entgegen § 7 Absatz 5 Satz 1, § 13 Absatz 1 oder § 14 Absatz 5 Satz 1 eine Auskunft nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erteilt oder eine Unterlage nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig aushändigt,
 
-7.
+7. entgegen § 11 Absatz 1 Nummer 1 oder Absatz 2 Satz 1 in Verbindung mit einer Rechtsverordnung nach § 3 Absatz 2 ein Produkt auf dem Markt bereitstellt,
 
-8.
+8. entgegen § 14 Absatz 1 in Verbindung mit einer Rechtsverordnung nach § 3 Absatz 2 eine Dienstleistung anbietet oder erbringt,
 
-9.
+9. entgegen § 19 Absatz 1 in Verbindung mit einer Rechtsverordnung nach § 3 Absatz 2 ein Produkt mit einer CE-Kennzeichnung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig versieht oder
 
-10.
+10. entgegen § 19 Absatz 3 in Verbindung mit Artikel 30 Absatz 5 Satz 1 der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) eine Kennzeichnung, ein Zeichen oder eine Aufschrift auf einem Produkt anbringt.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1, 7, 8, 9 und 10 mit einer Geldbuße bis zu hunderttausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
@@ -652,122 +608,36 @@ Zur Vorbereitung der Berichterstattung an die Europäische Kommission teilen die
 
 ### Anlage 1 — (zu § 28)
 
-1.
+1. Überwachungsmethode Die folgende Überwachungsmethode fügt den durch die nach § 3 Absatz 2 zu erlassenden Rechtsverordnung festgelegten Anforderungen weder neue Anforderungen hinzu noch ersetzt sie diese oder geht ihnen vor. Die Methode ist unabhängig von bestimmten Prüfungen, Bewertungsinstrumenten für die Barrierefreiheit, Betriebssystemen, Web-Browsern oder spezifischen unterstützenden Technologien. Damit ist die Überwachungsmethode technologieneutral anzuwenden und dient der Überprüfung der Wahrnehmbarkeit, Bedienbarkeit, Verständlichkeit und Robustheit der zu prüfenden Dienstleistungen.a)Es werden in der Stichprobe alle Verfahrensschritte mindestens in der Standardreihenfolge eines üblichen Nutzers für die Erbringung der Dienstleistung überprüft. Medienbrüche durch nicht digitale Schritte sind zu vermeiden.b)Es werden mindestens die Interaktion mit Formularen sowie Steuerelementen und Dialogfeldern der Benutzeroberfläche, die Bestätigungen für die Dateneingabe, die Fehlermeldungen und sonstigen Rückmeldungen, die sich aus der Interaktion mit dem Nutzer ergeben, sowie das Verhalten der Webseite oder mobilen Anwendung beim Einsatz unterschiedlicher Software oder Hilfstechnologien bei unterschiedlichen Einstellungen oder Voreinstellungen bewertet. Gleichfalls werden Elemente wie Dokumente oder notwendige externe Interaktionsschritte, die sich auf Objekte außerhalb der Benutzeroberfläche beziehen überprüft, wenn diese für einen erfolgreichen Abschluss der Interaktion notwendig sind.c)Es können gegebenenfalls Prüfungen der Benutzerfreundlichkeit umfasst sein, zum Beispiel die Beobachtung und Analyse, wie Nutzer mit Behinderungen oder mit funktionellen Einschränkungen die Inhalte der Webseite oder mobilen Anwendung beim Einsatz unterschiedlicher Software oder Hilfstechnologien wahrnehmen, verstehen und wie schwierig die Bedienung bestimmter Elemente der Benutzeroberfläche wie Navigationsmenüs oder Formulare für sie ist. Es werden in der Stichprobe alle Verfahrensschritte mindestens in der Standardreihenfolge eines üblichen Nutzers für die Erbringung der Dienstleistung überprüft. Medienbrüche durch nicht digitale Schritte sind zu vermeiden. Es werden mindestens die Interaktion mit Formularen sowie Steuerelementen und Dialogfeldern der Benutzeroberfläche, die Bestätigungen für die Dateneingabe, die Fehlermeldungen und sonstigen Rückmeldungen, die sich aus der Interaktion mit dem Nutzer ergeben, sowie das Verhalten der Webseite oder mobilen Anwendung beim Einsatz unterschiedlicher Software oder Hilfstechnologien bei unterschiedlichen Einstellungen oder Voreinstellungen bewertet. Gleichfalls werden Elemente wie Dokumente oder notwendige externe Interaktionsschritte, die sich auf Objekte außerhalb der Benutzeroberfläche beziehen überprüft, wenn diese für einen erfolgreichen Abschluss der Interaktion notwendig sind. Es können gegebenenfalls Prüfungen der Benutzerfreundlichkeit umfasst sein, zum Beispiel die Beobachtung und Analyse, wie Nutzer mit Behinderungen oder mit funktionellen Einschränkungen die Inhalte der Webseite oder mobilen Anwendung beim Einsatz unterschiedlicher Software oder Hilfstechnologien wahrnehmen, verstehen und wie schwierig die Bedienung bestimmter Elemente der Benutzeroberfläche wie Navigationsmenüs oder Formulare für sie ist.
 
-a)
-
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-ff)
-
-gg)
-
-c)
+2. Stichproben a)Für die Zwecke dieser Nummer bedeutet „Seite“ eine Webseite oder einen Bildschirm in einer mobilen Anwendung.b)Es werden die folgenden Seiten und Dokumente, falls vorhanden, geprüft: aa)Startseite (Home), Anmeldung (Login), Site-Übersicht (Sitemap), Kontakt, Hilfeseiten und Hilfefunktionen und Seiten mit rechtlichen Informationen;bb)mindestens eine relevante Seite für jede Art von Dienst, der von der Webseite oder mobilen Anwendung bereitgestellt wird und der nicht bereits durch Doppelbuchstabe aa erfasst wird, und für jeden anderen Hauptzweck, einschließlich der Suchfunktion, der nicht durch Doppelbuchstabe aa erfasst wird;cc)die Seiten mit der Information oder den Angaben zur Barrierefreiheit nach § 14 Absatz 1 Nummer 2 in Verbindung mit Anlage 3;dd)beispielhaft ausgewählte Seiten mit einem deutlich anderen Erscheinungsbild oder anderen Arten von Inhalten;ee)mindestens ein relevantes abrufbares Dokument, falls vorhanden, für jede Art von Dienst, der von der Webseite oder mobilen Anwendung bereitgestellt wird, und für jeden anderen Hauptzweck;ff)andere von der Marktüberwachungsbehörde als relevant betrachtete Seiten;gg)nach dem Zufallsprinzip weitere ausgewählte Seiten und Dokumente, falls vorhanden, im Umfang von mindestens 10 Prozent der unter den Doppelbuchstaben aa bis ff festgelegten Stichprobe.c)Beinhaltet eine der Seiten in der gemäß Buchstabe b ausgewählten Stichprobe einen Schritt in einem Verfahren, so werden alle Verfahrensschritte gemäß Nummer 1 Buchstabe a geprüft. Für die Zwecke dieser Nummer bedeutet „Seite“ eine Webseite oder einen Bildschirm in einer mobilen Anwendung. Es werden die folgenden Seiten und Dokumente, falls vorhanden, geprüft: aa)Startseite (Home), Anmeldung (Login), Site-Übersicht (Sitemap), Kontakt, Hilfeseiten und Hilfefunktionen und Seiten mit rechtlichen Informationen;bb)mindestens eine relevante Seite für jede Art von Dienst, der von der Webseite oder mobilen Anwendung bereitgestellt wird und der nicht bereits durch Doppelbuchstabe aa erfasst wird, und für jeden anderen Hauptzweck, einschließlich der Suchfunktion, der nicht durch Doppelbuchstabe aa erfasst wird;cc)die Seiten mit der Information oder den Angaben zur Barrierefreiheit nach § 14 Absatz 1 Nummer 2 in Verbindung mit Anlage 3;dd)beispielhaft ausgewählte Seiten mit einem deutlich anderen Erscheinungsbild oder anderen Arten von Inhalten;ee)mindestens ein relevantes abrufbares Dokument, falls vorhanden, für jede Art von Dienst, der von der Webseite oder mobilen Anwendung bereitgestellt wird, und für jeden anderen Hauptzweck;ff)andere von der Marktüberwachungsbehörde als relevant betrachtete Seiten;gg)nach dem Zufallsprinzip weitere ausgewählte Seiten und Dokumente, falls vorhanden, im Umfang von mindestens 10 Prozent der unter den Doppelbuchstaben aa bis ff festgelegten Stichprobe. Startseite (Home), Anmeldung (Login), Site-Übersicht (Sitemap), Kontakt, Hilfeseiten und Hilfefunktionen und Seiten mit rechtlichen Informationen; mindestens eine relevante Seite für jede Art von Dienst, der von der Webseite oder mobilen Anwendung bereitgestellt wird und der nicht bereits durch Doppelbuchstabe aa erfasst wird, und für jeden anderen Hauptzweck, einschließlich der Suchfunktion, der nicht durch Doppelbuchstabe aa erfasst wird; die Seiten mit der Information oder den Angaben zur Barrierefreiheit nach § 14 Absatz 1 Nummer 2 in Verbindung mit Anlage 3; beispielhaft ausgewählte Seiten mit einem deutlich anderen Erscheinungsbild oder anderen Arten von Inhalten; mindestens ein relevantes abrufbares Dokument, falls vorhanden, für jede Art von Dienst, der von der Webseite oder mobilen Anwendung bereitgestellt wird, und für jeden anderen Hauptzweck; andere von der Marktüberwachungsbehörde als relevant betrachtete Seiten; nach dem Zufallsprinzip weitere ausgewählte Seiten und Dokumente, falls vorhanden, im Umfang von mindestens 10 Prozent der unter den Doppelbuchstaben aa bis ff festgelegten Stichprobe. Beinhaltet eine der Seiten in der gemäß Buchstabe b ausgewählten Stichprobe einen Schritt in einem Verfahren, so werden alle Verfahrensschritte gemäß Nummer 1 Buchstabe a geprüft.
 
 ### Anlage 2 — (zu den §§ 6, 9, 18 und 19)
 
 Bei dem Konformitätsbewertungsverfahren handelt es sich um eine interne Fertigungskontrolle, mit dem der Hersteller die in den Nummern 1, 2 und 3 dieser Anlage genannten Verpflichtungen erfüllt sowie gewährleistet und auf eigene Verantwortung erklärt, dass die betreffenden Produkte den einschlägigen Anforderungen dieses Gesetzes genügen.
 
-1.
+1. Technische Dokumentation Der Hersteller erstellt die technische Dokumentation. Anhand der technischen Dokumentation muss es möglich sein, die Übereinstimmung des Produkts mit den Barrierefreiheitsanforderungen der nach § 3 Absatz 2 zu erlassenden Rechtsverordnung zu bewerten und, wenn sich der Hersteller auf § 16 oder § 17 gestützt hat, nachzuweisen, dass die Einhaltung dieser Barrierefreiheitsanforderungen eine grundlegende Veränderung oder eine unverhältnismäßige Belastung bedeuten würden. In der technischen Dokumentation sind nur die geltenden Anforderungen aufzuführen und die Gestaltung, die Herstellung und der Betrieb des Produkts zu erfassen, soweit sie für die Bewertung von Belang sind.
 
-2.
+2. Die technische Dokumentation enthält gegebenenfalls zumindest folgende Elemente: a)eine allgemeine Beschreibung des Produkts;b)eine Aufstellung, welche harmonisierten Normen und technischen Spezifikationen, deren Fundstellen im Amtsblatt der Europäischen Union veröffentlicht wurden, vollständig oder in Teilen angewandt worden sind, und eine Beschreibung, mit welchen Lösungen den Barrierefreiheitsanforderungen der nach § 3 Absatz 2 zu erlassenden Rechtsverordnung in den Punkten entsprochen wurde, in denen diese harmonisierten Normen oder technischen Spezifikationen nicht angewandt wurden; bei teilweise angewendeten harmonisierten Normen oder technischen Spezifikationen werden die Teile, die angewandt wurden, in der technischen Dokumentation angegeben. eine allgemeine Beschreibung des Produkts; eine Aufstellung, welche harmonisierten Normen und technischen Spezifikationen, deren Fundstellen im Amtsblatt der Europäischen Union veröffentlicht wurden, vollständig oder in Teilen angewandt worden sind, und eine Beschreibung, mit welchen Lösungen den Barrierefreiheitsanforderungen der nach § 3 Absatz 2 zu erlassenden Rechtsverordnung in den Punkten entsprochen wurde, in denen diese harmonisierten Normen oder technischen Spezifikationen nicht angewandt wurden; bei teilweise angewendeten harmonisierten Normen oder technischen Spezifikationen werden die Teile, die angewandt wurden, in der technischen Dokumentation angegeben.
 
-a)
+3. Herstellung Der Hersteller trifft alle erforderlichen Maßnahmen, damit der Fertigungsprozess und seine Überwachung die Übereinstimmung der Produkte mit der in Nummer 2 dieser Anlage genannten technischen Dokumentation und mit den Barrierefreiheitsanforderungen dieses Gesetzes gewährleisten.
 
-b)
+4. CE-Kennzeichnung und EU-Konformitätserklärung a)Der Hersteller bringt an jedem einzelnen Produkt, das den geltenden Anforderungen dieses Gesetzes genügt, die in diesem Gesetz genannte CE-Kennzeichnung an.b)Der Hersteller stellt für ein Produktmuster eine schriftliche oder elektronische EU-Konformitätserklärung aus. Aus der EU-Konformitätserklärung muss hervorgehen, für welches Produkt sie ausgestellt wurde.Ein Exemplar der EU-Konformitätserklärung wird den zuständigen Behörden auf Verlangen zur Verfügung gestellt. Der Hersteller bringt an jedem einzelnen Produkt, das den geltenden Anforderungen dieses Gesetzes genügt, die in diesem Gesetz genannte CE-Kennzeichnung an. Der Hersteller stellt für ein Produktmuster eine schriftliche oder elektronische EU-Konformitätserklärung aus. Aus der EU-Konformitätserklärung muss hervorgehen, für welches Produkt sie ausgestellt wurde.
 
-3.
-
-4.
-
-a)
-
-b)
-
-5.
+5. Bevollmächtigter Die in Nummer 4 genannten Verpflichtungen des Herstellers können von seinem Bevollmächtigten in seinem Auftrag und unter seiner Verantwortung erfüllt werden, falls sie im Auftrag festgelegt sind.
 
 ### Anlage 3 — (zu den §§ 14 und 28)
 
-1.
+1. Der Dienstleistungserbringer gibt zu seiner Dienstleistung im Sinne des § 1 Absatz 3 in seinen Allgemeinen Geschäftsbedingungen oder auf andere deutlich wahrnehmbare Weise an, wie sie die Barrierefreiheitsanforderungen der nach § 3 Absatz 2 zu erlassenden Rechtsverordnung erfüllt. Die entsprechenden Informationen umfassen eine Beschreibung der geltenden Anforderungen und decken, soweit für die Bewertung von Belang, die Gestaltung und die Durchführung der Dienstleistung ab. Neben den Anforderungen an die Verbraucherinformation nach Artikel 246 des Einführungsgesetzes zum Bürgerlichen Gesetzbuch enthalten die Informationen, soweit anwendbar, jedenfalls folgende Elemente: a)eine allgemeine Beschreibung der Dienstleistung in einem barrierefreien Format;b)Beschreibungen und Erläuterungen, die zum Verständnis der Durchführung der Dienstleistung erforderlich sind;c)eine Beschreibung, wie die Dienstleistung die einschlägigen in der nach § 3 Absatz 2 zu erlassenden Rechtsverordnung aufgeführten Barrierefreiheitsanforderungen erfüllt;d)die Angabe der zuständigen Marktüberwachungsbehörde. eine allgemeine Beschreibung der Dienstleistung in einem barrierefreien Format; Beschreibungen und Erläuterungen, die zum Verständnis der Durchführung der Dienstleistung erforderlich sind; eine Beschreibung, wie die Dienstleistung die einschlägigen in der nach § 3 Absatz 2 zu erlassenden Rechtsverordnung aufgeführten Barrierefreiheitsanforderungen erfüllt; die Angabe der zuständigen Marktüberwachungsbehörde.
 
-a)
-
-b)
-
-c)
-
-d)
-
-2.
+2. Um den Anforderungen gemäß Nummer 1 dieser Anlage zu entsprechen, kann der Dienstleistungserbringer die harmonisierten Normen und technischen Spezifikationen, deren Fundstellen im Amtsblatt der Europäischen Union veröffentlicht wurden, vollständig oder in Teilen anwenden.
 
 ### Anlage 4 — (zu den §§ 17, 21 und 28)
 
 Kriterien für die Beurteilung und für die Dokumentation der Beurteilung sind:
 
-1.
+1. Verhältnis der Nettokosten, die mit der Einhaltung der Barrierefreiheitsanforderungen verbunden sind, zu den Gesamtkosten (Betriebs- und Investitionsausgaben) für die Herstellung, den Vertrieb oder die Einfuhr des Produkts oder die Erbringung der Dienstleistung für die Wirtschaftsakteure; Kriterien für die Beurteilung der mit der Einhaltung der Barrierefreiheitsanforderungen verbundenen Nettokosten: a)Kriterien in Bezug auf einmalige Organisationskosten, die in die Beurteilung einzubeziehen sind: aa)Kosten für zusätzliches Personal mit Fachkenntnissen im Bereich Barrierefreiheit;bb)Kosten im Zusammenhang mit der Ausbildung von Personal und dem Erwerb von Kompetenzen im Bereich Barrierefreiheit;cc)Kosten für die Entwicklung eines neuen Prozesses zur Einbeziehung der Barrierefreiheit in die Produktentwicklung oder die Erbringung von Dienstleistungen;dd)Kosten im Zusammenhang mit der Entwicklung von Leitfäden zur Barrierefreiheit;ee)einmalige Kosten, um sich mit der Rechtslage zur Barrierefreiheit vertraut zu machen;b)Kriterien in Bezug auf laufende Kosten für Produktion und Entwicklung, die in die Beurteilung einzubeziehen sind: aa)Kosten im Zusammenhang mit der Planung und Auslegung von Barrierefreiheitsfunktionen des Produkts oder der Dienstleistung;bb)Kosten im Zusammenhang der Produktionsprozesse;cc)Kosten im Zusammenhang mit der Prüfung des Produkts oder der Dienstleistung unter dem Aspekt der Barrierefreiheit;dd)Kosten im Zusammenhang mit der Erstellung der Dokumentation. Kriterien in Bezug auf einmalige Organisationskosten, die in die Beurteilung einzubeziehen sind: aa)Kosten für zusätzliches Personal mit Fachkenntnissen im Bereich Barrierefreiheit;bb)Kosten im Zusammenhang mit der Ausbildung von Personal und dem Erwerb von Kompetenzen im Bereich Barrierefreiheit;cc)Kosten für die Entwicklung eines neuen Prozesses zur Einbeziehung der Barrierefreiheit in die Produktentwicklung oder die Erbringung von Dienstleistungen;dd)Kosten im Zusammenhang mit der Entwicklung von Leitfäden zur Barrierefreiheit;ee)einmalige Kosten, um sich mit der Rechtslage zur Barrierefreiheit vertraut zu machen; Kosten für zusätzliches Personal mit Fachkenntnissen im Bereich Barrierefreiheit; Kosten im Zusammenhang mit der Ausbildung von Personal und dem Erwerb von Kompetenzen im Bereich Barrierefreiheit; Kosten für die Entwicklung eines neuen Prozesses zur Einbeziehung der Barrierefreiheit in die Produktentwicklung oder die Erbringung von Dienstleistungen; Kosten im Zusammenhang mit der Entwicklung von Leitfäden zur Barrierefreiheit; einmalige Kosten, um sich mit der Rechtslage zur Barrierefreiheit vertraut zu machen; Kriterien in Bezug auf laufende Kosten für Produktion und Entwicklung, die in die Beurteilung einzubeziehen sind: aa)Kosten im Zusammenhang mit der Planung und Auslegung von Barrierefreiheitsfunktionen des Produkts oder der Dienstleistung;bb)Kosten im Zusammenhang der Produktionsprozesse;cc)Kosten im Zusammenhang mit der Prüfung des Produkts oder der Dienstleistung unter dem Aspekt der Barrierefreiheit;dd)Kosten im Zusammenhang mit der Erstellung der Dokumentation. Kosten im Zusammenhang mit der Planung und Auslegung von Barrierefreiheitsfunktionen des Produkts oder der Dienstleistung; Kosten im Zusammenhang der Produktionsprozesse; Kosten im Zusammenhang mit der Prüfung des Produkts oder der Dienstleistung unter dem Aspekt der Barrierefreiheit; Kosten im Zusammenhang mit der Erstellung der Dokumentation.
 
-a)
+2. Die geschätzten Kosten und Vorteile für die Wirtschaftsakteure, einschließlich Produktionsprozessen und Investitionen, im Verhältnis zu dem geschätzten Nutzen für Menschen mit Behinderungen, wobei die Anzahl der Nutzungen und die Nutzungshäufigkeit des betreffenden Produkts oder der betreffenden Dienstleistung zu berücksichtigen sind.
 
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-b)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-2.
-
-3.
-
-a)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-b)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
+3. Verhältnis der Nettokosten, die mit der Einhaltung der Barrierefreiheitsanforderungen verbunden sind, zum Nettoumsatz des Wirtschaftsakteurs. Kriterien zur Beurteilung der mit der Einhaltung der Barrierefreiheitsanforderungen verbundenen Nettokosten: a)Kriterien in Bezug auf einmalige Organisationskosten, die in die Beurteilung einzubeziehen sind: aa)Kosten für zusätzliches Personal mit Fachkenntnissen im Bereich Barrierefreiheit;bb)Kosten im Zusammenhang mit der Ausbildung von Personal und dem Erwerb von Kompetenzen im Bereich Barrierefreiheit;cc)Kosten für die Entwicklung eines neuen Prozesses zur Einbeziehung der Barrierefreiheit in die Produktentwicklung oder die Erbringung von Dienstleistungen;dd)Kosten im Zusammenhang mit der Entwicklung von Leitfäden zur Barrierefreiheit;ee)einmalige Kosten, um sich mit der Rechtslage zur Barrierefreiheit vertraut zu machen;b)Kriterien in Bezug auf laufende Kosten für Produktion und Entwicklung, die in die Beurteilung einzubeziehen sind: aa)Kosten im Zusammenhang mit der Planung und Auslegung von Barrierefreiheitsfunktionen des Produkts oder der Dienstleistung;bb)Kosten im Zusammenhang der Produktionsprozesse;cc)Kosten im Zusammenhang mit der Prüfung des Produkts oder der Dienstleistung unter dem Aspekt der Barrierefreiheit;dd)Kosten im Zusammenhang mit der Erstellung der Dokumentation. Kriterien in Bezug auf einmalige Organisationskosten, die in die Beurteilung einzubeziehen sind: aa)Kosten für zusätzliches Personal mit Fachkenntnissen im Bereich Barrierefreiheit;bb)Kosten im Zusammenhang mit der Ausbildung von Personal und dem Erwerb von Kompetenzen im Bereich Barrierefreiheit;cc)Kosten für die Entwicklung eines neuen Prozesses zur Einbeziehung der Barrierefreiheit in die Produktentwicklung oder die Erbringung von Dienstleistungen;dd)Kosten im Zusammenhang mit der Entwicklung von Leitfäden zur Barrierefreiheit;ee)einmalige Kosten, um sich mit der Rechtslage zur Barrierefreiheit vertraut zu machen; Kosten für zusätzliches Personal mit Fachkenntnissen im Bereich Barrierefreiheit; Kosten im Zusammenhang mit der Ausbildung von Personal und dem Erwerb von Kompetenzen im Bereich Barrierefreiheit; Kosten für die Entwicklung eines neuen Prozesses zur Einbeziehung der Barrierefreiheit in die Produktentwicklung oder die Erbringung von Dienstleistungen; Kosten im Zusammenhang mit der Entwicklung von Leitfäden zur Barrierefreiheit; einmalige Kosten, um sich mit der Rechtslage zur Barrierefreiheit vertraut zu machen; Kriterien in Bezug auf laufende Kosten für Produktion und Entwicklung, die in die Beurteilung einzubeziehen sind: aa)Kosten im Zusammenhang mit der Planung und Auslegung von Barrierefreiheitsfunktionen des Produkts oder der Dienstleistung;bb)Kosten im Zusammenhang der Produktionsprozesse;cc)Kosten im Zusammenhang mit der Prüfung des Produkts oder der Dienstleistung unter dem Aspekt der Barrierefreiheit;dd)Kosten im Zusammenhang mit der Erstellung der Dokumentation. Kosten im Zusammenhang mit der Planung und Auslegung von Barrierefreiheitsfunktionen des Produkts oder der Dienstleistung; Kosten im Zusammenhang der Produktionsprozesse; Kosten im Zusammenhang mit der Prüfung des Produkts oder der Dienstleistung unter dem Aspekt der Barrierefreiheit; Kosten im Zusammenhang mit der Erstellung der Dokumentation.

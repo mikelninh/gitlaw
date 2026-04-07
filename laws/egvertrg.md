@@ -20,15 +20,15 @@ Ein Beamter oder Richter, dessen Amtsverhältnis als Mitglied eines Organs der E
 
 ### Art 3
 
-Dieses Gesetz sowie gelten auch im Land Berlin, sofern das Land Berlin die Anwendung dieser Gesetze feststellt.
+Dieses Gesetz sowie
 
--
+- das Gesetz betreffend den Vertrag vom 18. April 1951 über die Gründung der Europäischen Gemeinschaft für Kohle und Stahl vom 29. April 1952 (Bundesgesetzbl. II S. 445),
 
--
+- das Gesetz über den Beschluß vom 8. Dezember 1954 betreffend die Anwendung des Artikels 69 des Vertrages vom 18. April 1951 über die Gründung der Europäischen Gemeinschaft für Kohle und Stahl vom 30. Mai 1956 (Bundesgesetzbl. II S. 599),
 
--
+- das Gesetz über den Vertrag vom 27. Oktober 1956 zur Abänderung des Vertrages über die Gründung der Europäischen Gemeinschaft für Kohle und Stahl vom 22. Dezember 1956 (Bundesgesetzbl. II S. 1874),
 
--
+- das Gesetz zu dem Beschluß vom 16. Mai 1961 zur Ergänzung des Beschlusses vom 8. Dezember 1954 betreffend die Anwendung des Artikels 69 des Vertrages vom 18. April 1951 über die Gründung der Europäischen Gemeinschaft für Kohle und Stahl vom 4. April 1963 (Bundesgesetzbl. II S. 173)
 
 ### Art 4
 

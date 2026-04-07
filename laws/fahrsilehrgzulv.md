@@ -22,31 +22,25 @@ Diese Verordnung regelt das Zulassungsverfahren für Basislehrgänge und für Au
 
 (2) Dem Antrag sind folgende Unterlagen beizufügen:
 
-1.
+1. ein Lehrplan für die durchzuführenden Basis- bzw. Auffrischungslehrgänge, der folgende Angaben enthält: a)eine Gliederung und die wesentlichen Inhalte der Lehrgängeb)die Art und Weise der Vermittlung der Lehrgangsinhaltec)die zeitliche Planung der Lehrgangsinhalte, eine Gliederung und die wesentlichen Inhalte der Lehrgänge die Art und Weise der Vermittlung der Lehrgangsinhalte die zeitliche Planung der Lehrgangsinhalte,
 
-a)
+2. eine Erklärung der antragsstellenden Person, ob der Lehrgang für die Öffentlichkeit oder für einen beschränkten Teilnehmerkreis angeboten werden soll,
 
-b)
+3. sofern die Lehrgänge nicht für die Öffentlichkeit angeboten werden sollen, eine Darstellung der Voraussetzungen, die Teilnehmende erfüllen müssen, um an den Lehrgängen teilnehmen zu können,
 
-c)
+4. eine detaillierte Darstellung des Ablaufes und der Inhalte des praktischen Prüfungsteils
 
-2.
+5. eine Liste der als Lehrkräfte eingesetzten Personen,
 
-3.
+6. eine Liste der als Prüfende eingesetzten Personen,
 
-4.
+7. für jede der auf der Liste nach Nummer 6 genannten Person in Kopie das in Deutschland gültige Zeugnis für Sachkundige für die Fahrgastschifffahrt sowie den entsprechenden Nachweis nach § 13 Absatz 1 Satz 3 dieser Verordnung,
 
-5.
+8. genauen Angaben über den Ort, an dem die Lehrgänge durchgeführt werden sollen,
 
-6.
+9. eine Erklärung, dass der Antragsstellende die zuständige Behörde unverzüglich und aus eigener Initiative über jede Änderung der sich aus dem Antrag oder den beizufügenden Unterlagen ergebenden Umstände informiert sowie
 
-7.
-
-8.
-
-9.
-
-10.
+10. die vier Fragebögen nach § 11, wobei die jeweils richtigen Antworten als solche markiert sein müssen.
 
 (3) Auf Verlangen der zuständigen Behörde sind die in Kopie einzureichenden Nachweise im Original vorzulegen.
 
@@ -104,17 +98,17 @@ Im Falle des Nichtbestehens des theoretischen oder des praktischen Prüfungsteil
 
 (2) Jeder Fragebogen muss Fragen zu folgenden Themenbereichen enthalten:
 
-1.
+1. Inhalte von Sicherheitsrolle und Sicherheitsplan,
 
-2.
+2. Rettungsmittel und ihre Funktionen,
 
-3.
+3. Ergreifung von erforderlichen Maßnahmen zum Schutz der Fahrgäste im Allgemeinen sowie in Notfällen,
 
-4.
+4. Hilfeleistung und Erteilung von Anweisungen zur sicheren Einschiffung, Ausschiffung und Bereisung mit dem Schiff von Menschen mit Behinderung und Personen mit eingeschränkter Mobilität,
 
-5.
+5. Kommunikation über sicherheitsrelevante Themen in einfachem Englisch und
 
-6.
+6. Hilfeleistung für Fahrgäste in Bezug auf Fahrgastrechte.
 
 (3) Jede Frage muss vier Antwortmöglichkeiten enthalten, von denen ein bis vier Antwortmöglichkeiten richtig sein können. Die falschen Antwortmöglichkeiten müssen so formuliert sein, dass sie nicht offenkundig als falsch zu erkennen sind.
 
@@ -130,11 +124,11 @@ Der praktische Prüfungsteil ist von einer Prüfungskommission abzunehmen und zu
 
 ### § 13 — Qualifikationen der Prüfenden
 
-(1) Als Mitglied einer Prüfungskommission für den praktischen Prüfungsteil darf nur eingesetzt werden, wer zum Zeitpunkt der Antragsstellung nach § 2 Inhaber eines in Deutschland gültigen Zeugnisses für Sachkundige für die Fahrgastschifffahrt ist. Jedes Mitglied der Prüfungskommission muss zudem Erfahrungen über die Abläufe an Bord von Fahrgastschiffen und den Umgang mit Fahrgästen besitzen. Diese Erfahrungen werden nachgewiesen durch Für den Nachweis der Fahrtage von Mitgliedern der Mindestbesatzung nach Satz 1 Nummer 2 gilt § 27 der Binnenschiffspersonalverordnung. Sachkundige weisen die Fahrtage nach Satz 1 Nummer 2 durch geeignete Bescheinigungen, insbesondere durch entsprechende Arbeitszeitnachweise, nach.
+(1) Als Mitglied einer Prüfungskommission für den praktischen Prüfungsteil darf nur eingesetzt werden, wer zum Zeitpunkt der Antragsstellung nach § 2 Inhaber eines in Deutschland gültigen Zeugnisses für Sachkundige für die Fahrgastschifffahrt ist. Jedes Mitglied der Prüfungskommission muss zudem Erfahrungen über die Abläufe an Bord von Fahrgastschiffen und den Umgang mit Fahrgästen besitzen. Diese Erfahrungen werden nachgewiesen durch
 
-1.
+1. ein gültiges Schiffsführerzeugnis nach § 11 Absatz 1 Nummer 1, Absatz 2 oder § 127 Satz 1 der Binnenschiffspersonalverordnung oder
 
-2.
+2. den Nachweis von 180 Fahrtagen als Mitglied der Mindestbesatzung oder als Sachkundiger für die Fahrgastschifffahrt an Bord eines Fahrgastschiffes in den vergangenen fünf Jahren.
 
 (2) Mitglieder einer Prüfungskommission dürfen in dem vorangegangenen Lehrgang als Lehrkraft eingesetzt gewesen sein. § 6 bleibt unberührt.
 

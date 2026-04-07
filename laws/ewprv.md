@@ -22,13 +22,13 @@ Diese Verordnung gilt für elektronische Wertpapierregister nach § 4 Absatz 1 s
 
 (1) Teilnehmer eines elektronischen Wertpapierregisters sind
 
-1.
+1. der Emittent eines elektronischen Wertpapiers,
 
-2.
+2. der Inhaber eines elektronischen Wertpapiers,
 
-3.
+3. jede bestimmte Person, zugunsten derer in einem elektronischen Wertpapierregister eine Verfügungsbeschränkung gemäß § 13 Absatz 2 Satz 1 Nummer 1 oder § 17 Absatz 2 Satz 1 Nummer 1 des Gesetzes über elektronische Wertpapiere eingetragen ist, und
 
-4.
+4. jeder Dritte, für den ein Recht in einem elektronischen Wertpapierregister gemäß § 13 Absatz 2 Satz 1 Nummer 2 oder § 17 Absatz 2 Satz 1 Nummer 2 des Gesetzes über elektronische Wertpapiere eingetragen ist.
 
 (2) Teilnehmer ist außerdem, wer aufgrund einer Vereinbarung mit der registerführenden Stelle Zugang zu den Funktionen des Registers erhält.
 
@@ -36,11 +36,11 @@ Diese Verordnung gilt für elektronische Wertpapierregister nach § 4 Absatz 1 s
 
 (1) Die registerführende Stelle hat in einer nachvollziehbaren, aussagefähigen und für einen sachkundigen Dritten leicht verständlichen Art und Weise Folgendes zu dokumentieren:
 
-1.
+1. die Einzelheiten der Einrichtung und der Führung des Registers nach § 7 des Gesetzes über elektronische Wertpapiere,
 
-2.
+2. die Einzelheiten der Verfahrensanforderungen zur Übermittlung und Vollziehung einer Weisung oder Übermittlung einer Zustimmung nach § 14 Absatz 1 bis 4 des Gesetzes über elektronische Wertpapiere bei zentralen Registern oder nach § 18 Absatz 1 bis 4 des Gesetzes über elektronische Wertpapiere bei Kryptowertpapierregistern sowie
 
-3.
+3. den angemessenen Zeitraum für Umtragungen und die Anforderungen an die Gültigkeit der Umtragungen nach § 14 Absatz 4 des Gesetzes über elektronische Wertpapiere bei zentralen Registern oder nach § 18 Absatz 4 des Gesetzes über elektronische Wertpapiere bei Kryptowertpapierregistern.
 
 (2) Die Dokumentation ist der Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) auf deren Anforderung elektronisch zur Verfügung zu stellen. Auf Anfrage eines Teilnehmers ist sie auch diesem elektronisch zur Verfügung zu stellen.
 
@@ -74,15 +74,15 @@ Eine registerführende Stelle kann die technischen Vorkehrungen für die Registe
 
 (1) Bei der Eintragung einer elektronischen Schuldverschreibung auf den Inhaber genügt es für die Angabe des wesentlichen Inhalts des Rechts gemäß § 13 Absatz 1 Nummer 1 oder § 17 Absatz 1 Nummer 1 des Gesetzes über elektronische Wertpapiere, wenn auf die niedergelegten Emissionsbedingungen Bezug genommen wird. Wird von der Möglichkeit nach Satz 1 kein Gebrauch gemacht, so sind als wesentlicher Inhalt des Rechts in das Register alle Angaben aufzunehmen, die aus Sicht eines verständigen Anlegers für die Anlageentscheidung relevant sind. Dazu gehören mindestens die folgenden Angaben:
 
-1.
+1. Laufzeit,
 
-2.
+2. Höhe und Art der Verzinsung einschließlich der angewandten Berechnungsmethode,
 
-3.
+3. Fälligkeit sämtlicher Zahlungen,
 
-4.
+4. ordentliche und außerordentliche Kündigungsrechte sowie
 
-5.
+5. Rangrücktrittsvereinbarungen.
 
 (2) Bei elektronischen Anteilscheinen gemäß § 95 Absatz 1 des Kapitalanlagegesetzbuchs erfolgt die Angabe des wesentlichen Inhalts des Rechts durch Bezugnahme auf die Anlagebedingungen. Änderungen eines Zugangs zu den Anlagebedingungen sind rechtzeitig und in geeigneter Weise bekannt zu machen. Eine Bezugnahme auf die Anlagebedingungen ist unverzüglich zu aktualisieren.
 
@@ -90,13 +90,13 @@ Eine registerführende Stelle kann die technischen Vorkehrungen für die Registe
 
 ### § 8 — Personenbezogene Registerangaben
 
-(1) Bei einem elektronischen Wertpapier in Sammeleintragung hat die registerführende Stelle sicherzustellen, dass das elektronische Wertpapierregister zur Bezeichnung des Emittenten und des Inhabers die folgenden Angaben enthält: Bei der Bezeichnung von juristischen Personen sowie Handels- und Partnerschaftsgesellschaften sollen zudem das Registergericht und das Registerblatt der Eintragung in das Handels-, Genossenschafts-, Partnerschafts- oder Vereinsregister angegeben werden, wenn sich diese Angaben aus den der registerführenden Stelle vorliegenden Aufzeichnungen ergeben oder der registerführenden Stelle anderweitig bekannt sind. Die Angaben nach Satz 2 sind nicht erforderlich, wenn für die juristische Person, Handels- oder Partnerschaftsgesellschaft die gültige Kennung für Rechtsträger angegeben worden ist.
+(1) Bei einem elektronischen Wertpapier in Sammeleintragung hat die registerführende Stelle sicherzustellen, dass das elektronische Wertpapierregister zur Bezeichnung des Emittenten und des Inhabers die folgenden Angaben enthält:
 
-1.
+1. bei natürlichen Personen: Vorname und Familienname, Geburtsdatum, Wohnort und, falls ersichtlich, akademische Grade und frühere Familiennamen;
 
-2.
+2. bei juristischen Personen, Handels- und Partnerschaftsgesellschaften: der Name oder die Firma und der Sitz oder die gültige Kennung für Rechtsträger;
 
-3.
+3. bei einer Gesellschaft bürgerlichen Rechts: zur Bezeichnung der Gesellschafter die Merkmale gemäß Nummer 1 oder Nummer 2; zur Bezeichnung der Gesellschaft können zusätzlich deren Name und Sitz angegeben werden.
 
 (2) Bei einem elektronischen Wertpapier in Einzeleintragung hat die registerführende Stelle sicherzustellen, dass das elektronische Wertpapierregister zur Bezeichnung des Emittenten und von Personen, zugunsten derer ein Recht oder eine Verfügungsbeschränkung einzutragen ist, die Angaben nach Absatz 1 enthält. Die Bezeichnung des Inhabers kann bei Zentralregisterwertpapieren in Einzeleintragung durch die Angaben nach Absatz 1 oder durch Zuordnung einer eindeutigen Kennung erfolgen. Bei Kryptowertpapieren in Einzeleintragung ist der Inhaber durch Zuordnung einer eindeutigen Kennung zu bezeichnen.
 
@@ -110,9 +110,9 @@ Eine registerführende Stelle kann die technischen Vorkehrungen für die Registe
 
 (4) In den Fällen von § 6 Absatz 4 des Gesetzes über elektronische Wertpapiere hat der Emittent:
 
-1.
+1. die Zustimmung des Berechtigten in einer Weise zu dokumentieren, die dem Berechtigten oder der Bundesanstalt eine spätere Überprüfung der Zustimmungserklärung und ihres Zugangs ermöglicht, und
 
-2.
+2. die Ersetzung im elektronischen Wertpapierregister kenntlich zu machen.
 
 ### § 10 — Einsichtnahme in das Register gemäß § 10 des Gesetzes über elektronische Wertpapiere
 
@@ -132,51 +132,31 @@ Eine registerführende Stelle kann die technischen Vorkehrungen für die Registe
 
 (8) Das Protokoll, das nach § 10 Absatz 5 Satz 1 des Gesetzes über elektronische Wertpapiere zu führen ist, muss enthalten:
 
-1.
+1. das Datum der Einsicht,
 
-2.
+2. die Bezeichnung der Einsicht nehmenden Person und gegebenenfalls die Bezeichnung der von dieser vertretenen Person oder Stelle,
 
-3.
+3. die Rechtsgrundlage der Einsicht,
 
-4.
+4. Angaben über den Umfang der Einsichtsgewährung sowie
 
-5.
+5. eine Beschreibung des der Einsicht zugrundeliegenden berechtigten Interesses.
 
 ### § 11 — Anforderungen an die Identifizierung des Weisungsberechtigten und das Authentifizierungsinstrument nach § 14 Absatz 1 oder § 18 Absatz 1 des Gesetzes über elektronische Wertpapiere
 
 (1) Derjenige, der Weisungen nach § 14 Absatz 1 Satz 1 oder § 18 Absatz 1 Satz 1 des Gesetzes über elektronische Wertpapiere erteilt, hat gegenüber der registerführenden Stelle seine Identität durch geeignete Nachweise zu belegen. Satz 1 gilt bei juristischen Personen oder Personengesellschaften auch für die für diese auftretende Person sowie für den Nachweis, dass diese hierzu berechtigt ist.
 
-(2) Die registerführende Stelle hat bei der Identifizierung nach Absatz 1 folgende Angaben zu erheben: Die registerführende Stelle darf die nach Satz 1 erhobenen personenbezogenen Daten speichern und verwenden, soweit dies zur Erfüllung ihrer Aufgaben nach dieser Vorschrift erforderlich ist.
+(2) Die registerführende Stelle hat bei der Identifizierung nach Absatz 1 folgende Angaben zu erheben:
 
-1.
+1. bei einer natürlichen Person: a)Vorname und Nachname,b)Geburtsort,c)Geburtsdatum,d)Staatsangehörigkeit unde)Anschrift; Vorname und Nachname, Geburtsort, Geburtsdatum, Staatsangehörigkeit und Anschrift;
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+2. bei einer juristischen Person oder Personengesellschaft: a)Firma, Name oder Bezeichnung,b)Rechtsform,c)Registernummer, falls vorhanden,d)Anschrift des Sitzes oder der Hauptniederlassung unde)die Vor- und Nachnamen der Mitglieder des Vertretungsorgans oder die Vor- und Nachnamen der gesetzlichen Vertreter und, sofern ein Mitglied des Vertretungsorgans oder der gesetzliche Vertreter eine juristische Person ist, von dieser Person die Angaben nach den Buchstaben a bis d. Firma, Name oder Bezeichnung, Rechtsform, Registernummer, falls vorhanden, Anschrift des Sitzes oder der Hauptniederlassung und die Vor- und Nachnamen der Mitglieder des Vertretungsorgans oder die Vor- und Nachnamen der gesetzlichen Vertreter und, sofern ein Mitglied des Vertretungsorgans oder der gesetzliche Vertreter eine juristische Person ist, von dieser Person die Angaben nach den Buchstaben a bis d.
 
 (3) Die registerführende Stelle hat die Angaben nach Absatz 2 Satz 1 anhand geeigneter Nachweise zu überprüfen. Geeignete Nachweise sind
 
-1.
+1. bei natürlichen Personen: einer der in § 12 Absatz 1 Satz 1 Nummer 1 bis 5 des Geldwäschegesetzes genannten Nachweise sowie
 
-2.
+2. bei juristischen Personen oder Personengesellschaften: einer der in § 12 Absatz 2 Nummer 1 bis 3 des Geldwäschegesetzes genannten Nachweise.
 
 (4) Die registerführende Stelle hat die Überprüfung der Nachweise nach einem Verfahren gemäß § 13 des Geldwäschegesetzes vorzunehmen. Bei der Überprüfung eines Nachweises anhand einer qualifizierten elektronischen Signatur nach § 12 Absatz 1 Satz 1 Nummer 3 des Geldwäschegesetzes hat sie zudem die Vorgaben in § 12 Absatz 1 Satz 2 und 3 des Geldwäschegesetzes zu erfüllen.
 
@@ -184,9 +164,9 @@ e)
 
 (6) Eine kryptografische Signatur oder ein vergleichbares Authentifizierungsinstrument ist als geeignet im Sinne des § 14 Absatz 1 Satz 5 und des § 18 Absatz 1 Satz 5 des Gesetzes über elektronische Wertpapiere anzusehen, wenn
 
-1.
+1. die verwendeten Verfahren dem Stand der Technik entsprechen und
 
-2.
+2. die registerführende Stelle die verwendete Signatur oder das verwendete vergleichbare Authentifizierungsinstrument derjenigen natürlichen oder juristischen Person oder Personengesellschaft, die die Weisung erteilt hat, zuverlässig zuordnen kann.
 
 ### § 12 — Anforderungen an den angemessenen Zeitraum und die Gültigkeit von Umtragungen nach § 14 Absatz 4 oder § 18 Absatz 4 des Gesetzes über elektronische Wertpapiere
 
@@ -200,15 +180,15 @@ e)
 
 (1) Die registerführende Stelle nach § 16 Absatz 2 des Gesetzes über elektronische Wertpapiere hat in dem von ihr geführten Kryptowertpapierregister zusätzlich zu den in § 3 Absatz 1 genannten Gegenständen Folgendes in einer nachvollziehbaren, aussagefähigen und für einen sachkundigen Dritten leicht verständlichen Art und Weise zu dokumentieren:
 
-1.
+1. die Einzelheiten des Verfahrens und der Eintragung nach § 4 Absatz 4 des Gesetzes über elektronische Wertpapiere,
 
-2.
+2. die Einzelheiten der Berichtigung des Registers bei fehlender Zustimmung oder Weisung gemäß § 18 Absatz 5 des Gesetzes über elektronische Wertpapiere,
 
-3.
+3. die Einzelheiten des Verfahrens für den Wechsel des Wertpapierregisters nach § 21 Absatz 2 und § 22 des Gesetzes über elektronische Wertpapiere einschließlich der Einzelheiten des Datentransfers in ein anderes elektronisches Wertpapierregister,
 
-4.
+4. Kriterien für die Teilnahme am Register, die einen fairen und offenen Zugang ermöglichen sowie
 
-5.
+5. Art, Format und Inhalt des Registerauszugs nach § 19 des Gesetzes über elektronische Wertpapiere.
 
 (2) § 3 Absatz 2 bis 4 gilt entsprechend.
 
@@ -250,11 +230,11 @@ e)
 
 (2) Das Aufzeichnungssystem nach § 4 Absatz 11 des Gesetzes über elektronische Wertpapiere muss mindestens über eine Schnittstelle zum Export der Eintragungen in einem gängigen Datenformat sowie über eine Schnittstelle zum Abruf von Daten verfügen. Die Bundesanstalt kann über diese Schnittstelle im Einzelfall zum Zwecke der Überwachung der Einhaltung folgender aufsichtsrechtlicher Bestimmungen solche Daten abrufen, die zur Einschätzung der aktuellen Eigenschaften des Aufzeichnungssystems erforderlich sind:
 
-1.
+1. Vorschriften dieser Verordnung,
 
-2.
+2. Vorschriften des Gesetzes über elektronische Wertpapiere und
 
-3.
+3. aufsichtsrechtlicher Bestimmungen, die nicht Gegenstand der Nummern 1 und 2 sind.
 
 (3) Die Gestaltung und die Sicherheit aller implementierten Schnittstellen müssen dem Stand der Technik entsprechen.
 
@@ -270,21 +250,21 @@ e)
 
 (1) Bei einer registerführenden Stelle nach § 16 Absatz 2 des Gesetzes über elektronische Wertpapiere hat die Dokumentation gemäß § 3 Absatz 1 Nummer 1 mindestens Folgendes zu enthalten:
 
-1.
+1. eine Beschreibung der verwendeten Datenbanken oder sonstigen Speichersysteme, einschließlich des dezentralen Aufzeichnungssystems nach § 4 Absatz 11 des Gesetzes über elektronische Wertpapiere,
 
-2.
+2. eine Darstellung, in welchem System die Inhalte des Registers jeweils gespeichert werden, insbesondere welche Inhalte außerhalb des dezentralen Aufzeichnungssystems gespeichert werden,
 
-3.
+3. eine Beschreibung der Daten, die über das nach den Regelungen des Gesetzes über elektronische Wertpapiere vorgesehene Maß hinaus in dem Kryptowertpapierregister gespeichert werden,
 
-4.
+4. eine Darstellung, wie die verwendeten Datenbanken oder sonstigen Speichersysteme miteinander verknüpft sind, und der dabei verwendeten automatisierten Verfahren,
 
-5.
+5. eine Darstellung des auf dem dezentralen Aufzeichnungssystem angewandten Konsensverfahrens sowie eine Beschreibung und Bewertung der damit einhergehenden Risiken, insbesondere die Angabe, nach welcher Zeitspanne in das Aufzeichnungssystem eingebrachte Eintragungen oder Umtragungen gültig werden und unter welchen Umständen gültige Eintragungen oder Umtragungen wieder ungültig werden können,
 
-6.
+6. eine Darstellung der technischen Verfahren zur Rückgängigmachung von Eintragungen gemäß § 18 Absatz 5 des Gesetzes über elektronische Wertpapiere,
 
-7.
+7. nähere Angaben zu den implementierten kryptografischen Funktionen und Verfahren sowie
 
-8.
+8. nähere Angaben zu den implementierten Schnittstellen und deren Nutzbarkeit.
 
 (2) Wesentliche Veränderungen sind allen Teilnehmern des Aufzeichnungssystems frühzeitig bekanntzugeben.
 

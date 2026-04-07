@@ -26,13 +26,13 @@ Werden wegen desselben Mediums mehrere Anträge gestellt oder Anregungen eingere
 
 ### § 4 — Beteiligte, Anregende
 
-(1) Beteiligte sind in einem Verfahren: Bei digitalen Diensten sind zusätzlich die Anbieterin oder der Anbieter Beteiligte im Sinne des Satz 1.
+(1) Beteiligte sind in einem Verfahren:
 
-1.
+1. die Antragstellerin oder der Antragsteller,
 
-2.
+2. die Urheberin oder der Urheber und
 
-3.
+3. die Inhaberin oder der Inhaber der Nutzungsrechte.
 
 (2) Anregende im Sinne dieser Verordnung sind die in § 21 Absatz 4 des Jugendschutzgesetzes genannten zur Verfahrensanregung berechtigten Stellen und die zu deren Vertretung berechtigten Personen.
 
@@ -78,19 +78,15 @@ Werden wegen desselben Mediums mehrere Anträge gestellt oder Anregungen eingere
 
 ### § 8a — Durchführung der Sitzung des Gremiums im Wege der Bild- und Tonübertragung
 
-(1) Die oder der Vorsitzende der Prüfstelle für jugendgefährdende Medien kann folgenden Personen auf deren Antrag oder von Amts wegen gestatten, sich während der Verhandlung an einem anderen Ort aufzuhalten und dort Verfahrenshandlungen vorzunehmen: Ist eine solche Gestattung erfolgt, so muss es für die Verhandlung eine gleichzeitige Bild- und Tonübertragung geben zwischen
+(1) Die oder der Vorsitzende der Prüfstelle für jugendgefährdende Medien kann folgenden Personen auf deren Antrag oder von Amts wegen gestatten, sich während der Verhandlung an einem anderen Ort aufzuhalten und dort Verfahrenshandlungen vorzunehmen:
 
-1.
+1. den Beteiligten und den zu ihrer Vertretung jeweils berechtigten Personen,
 
-2.
+2. den Anregenden,
 
-3.
+3. den Beisitzerinnen und Beisitzern sowie
 
-4.
-
-1.
-
-2.
+4. den in § 9 Absatz 1 Satz 1 genannten Personen.
 
 (2) Die oder der Vorsitzende kann Zeuginnen und Zeugen und Sachverständigen auf Antrag oder von Amts wegen gestatten, sich während ihrer Vernehmung an einem anderen Ort aufzuhalten. Die Vernehmung wird zeitgleich im Wege der Bild- und Tonübertragung an diesen Ort und den Ort der Verhandlung übertragen. Ist einer Person nach Absatz 1 Satz 1 gestattet worden, sich an einem anderen Ort aufzuhalten, so wird die Vernehmung auch an diesen Ort übertragen.
 
@@ -98,17 +94,11 @@ Werden wegen desselben Mediums mehrere Anträge gestellt oder Anregungen eingere
 
 ### § 9 — Beratung, Abstimmung, Entscheidung, Zustellung
 
-(1) Bei der Beratung und Abstimmung sind anwesend Sie sind verpflichtet, über den Hergang bei der Beratung und Abstimmung Stillschweigen zu bewahren.
+(1) Bei der Beratung und Abstimmung sind anwesend
 
-1.
+1. die zur Entscheidung berufenen Mitglieder der Prüfstelle für jugendgefährdende Medien und
 
-2.
-
-a)
-
-b)
-
-c)
+2. mit Genehmigung der oder des Vorsitzenden a)die hinzugezogenen Berichterstatterinnen und Berichterstatter,b)weitere Bedienstete der Bundeszentrale für Kinder- und Jugendmedienschutz, die durch Protokollierung oder andere Handlungen die Erstellung der schriftlichen Entscheidung unterstützen undc)Personen, die der Bundeszentrale für Kinder- und Jugendmedienschutz zur Ausbildung im höheren Dienst zugeteilt sind. die hinzugezogenen Berichterstatterinnen und Berichterstatter, weitere Bedienstete der Bundeszentrale für Kinder- und Jugendmedienschutz, die durch Protokollierung oder andere Handlungen die Erstellung der schriftlichen Entscheidung unterstützen und Personen, die der Bundeszentrale für Kinder- und Jugendmedienschutz zur Ausbildung im höheren Dienst zugeteilt sind.
 
 (2) Die Entscheidung erfolgt auf Grund der mündlichen Verhandlung durch die ordnungsgemäß besetzte Prüfstelle für jugendgefährdende Medien. Sie wird im Anschluss an die Beratung und Abstimmung verkündet und ist von der oder dem Vorsitzenden zu unterzeichnen. Die Zustellung der Entscheidung nach § 21 Absatz 8 des Jugendschutzgesetzes soll innerhalb von vier Wochen nach dem Abschluss der Verhandlung erfolgen.
 
@@ -155,8 +145,6 @@ Die Bundeszentrale für Kinder- und Jugendmedienschutz hat den als öffentlich g
 (1) Wird ein Trägermedium in die Liste jugendgefährdender Medien aufgenommen, die Aufnahme in die Liste jedoch nach § 24 Absatz 2a Satz 2 des Jugendschutzgesetzes nicht bekannt gemacht, so teilt die Bundeszentrale für Kinder- und Jugendmedienschutz den obersten Landesjugendbehörden den Zeitpunkt der Zustellung der Entscheidung mit.
 
 (2) Wird ein digitaler Dienst in die Liste aufgenommen oder aus dieser gestrichen, so teilt die Bundeszentrale für Kinder- und Jugendmedienschutz der Kommission für Jugendmedienschutz den Zeitpunkt der Entscheidung mit.
-
-(3) Bei erfolgloser Zustellung soll die Bundeszentrale für Kinder- und Jugendmedienschutz die Entscheidungen den im Bereich der digitalen Dienste anerkannten Einrichtungen der Selbstkontrolle mitteilen.
 
 > § 15 Abs. 3: IdF d. Art. 1 Nr. 15 Buchst. b V v. 23.11.2022 I 2066 mWv 29.11.2022 u. d. Art. 13 Nr. 4 Buchst. b G v. 6.5.2024 I Nr. 149 mWv 14.5.2024 (Kursivdruck: aufgrund offensichtlicher Unrichtigkeit wurde anstelle des Wortes "Telemedium" das Wort "Telemedien" durch die Wörter "digitalen Dienste" ersetzt)
 

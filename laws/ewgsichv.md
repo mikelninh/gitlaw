@@ -18,13 +18,13 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte 
 
 (1) Die Sicherheit ist bei der zuständigen Stelle zu leisten. Zuständige Stelle ist
 
-1.
+1. die gemäß § 3 des Marktorganisationsgesetzes zuständige Marktordnungsstelle,
 
-2.
+2. (weggefallen)
 
-3.
+3. die auf Grund einer Rechtsverordnung nach § 31 Absatz 2 oder 3 des Marktorganisationsgesetzes als für die Durchführung bestimmte zuständige Stelle oder
 
-4.
+4. die nach Landesrecht zuständige Stelle, soweit durch Bundesrecht keine zuständige Stelle bestimmt ist.
 
 (2) Ist die zuständige Stelle nach Absatz 1 Nr. 3 eine Dienststelle der Bundesfinanzverwaltung, so bleiben abweichende Zuständigkeitsregelungen nach der Hauptzollamtszuständigkeitsverordnung vom 13. November 2020 (BGBl. I S. 2487) in der jeweils geltenden Fassung unberührt.
 
@@ -65,5 +65,3 @@ Soweit in den in § 1 genannten Rechtsakten nichts anderes vorgeschrieben ist, v
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Bundesrat hat zugestimmt.  Der Bundesminister für Ernährung, Landwirtschaft und Forsten

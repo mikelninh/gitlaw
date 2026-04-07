@@ -20,5 +20,3 @@ Das im Einvernehmen mit dem Bundesminister für Verteidigung und den Innenminist
 Diese Anordnung tritt am Tage nach ihrer Verkündung im Bundesanzeiger in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister des Innern

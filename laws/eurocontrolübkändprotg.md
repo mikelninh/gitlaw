@@ -19,7 +19,9 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 ### Art 2
 
-(1) Die nach Artikel 3 Abs. 2 Buchstaben b bis f in Verbindung mit Artikel 6 Abs. 1 Buchstabe a der Vereinbarung gefaßten Beschlüsse sind in ihrer jeweils geltenden Fassung von dem Bundesministerium für Verkehr und digitale Infrastruktur im Bundesgesetzblatt bekanntzumachen, soweit sie in der Bundesrepublik Deutschland angewendet werden.(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Abweichungen von einem Beschluß nach Absatz 1 festzulegen, wenn der Beschluß dieses vorsieht.
+(1) Die nach Artikel 3 Abs. 2 Buchstaben b bis f in Verbindung mit Artikel 6 Abs. 1 Buchstabe a der Vereinbarung gefaßten Beschlüsse sind in ihrer jeweils geltenden Fassung von dem Bundesministerium für Verkehr und digitale Infrastruktur im Bundesgesetzblatt bekanntzumachen, soweit sie in der Bundesrepublik Deutschland angewendet werden.
+
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Abweichungen von einem Beschluß nach Absatz 1 festzulegen, wenn der Beschluß dieses vorsieht.
 
 ### Art 3
 
@@ -31,4 +33,6 @@ Die Einziehung der Gebühr gemäß Artikel 11 der Vereinbarung wird auf dem Verw
 
 ### Art 5
 
-(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.(2)
+(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
+
+(2)

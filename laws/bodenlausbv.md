@@ -22,39 +22,39 @@ Die Ausbildung dauert drei Jahre.
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
-1.
+1. Berufsbildung, Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-4.
+4. Umweltschutz,
 
-5.
+5. Umgang mit Informations- und Kommunikationstechniken,
 
-6.
+6. Vorbereiten von Arbeitsabläufen, Auswerten von Informationen, Arbeiten im Team,
 
-7.
+7. Anfertigen und Anwenden von technischen Unterlagen, Durchführen von Messungen,
 
-8.
+8. Vorbereiten, Einrichten, Sichern und Räumen von Arbeitsplätzen,
 
-9.
+9. Handhaben und Warten von Werkzeugen, Geräten, Maschinen und technischen Einrichtungen,
 
-10.
+10. Be- und Verarbeiten von Werk- und Hilfsstoffen,
 
-11.
+11. Prüfen der Verlegebedingungen, Herstellen von Untergründen,
 
-12.
+12. Gestalten und Verlegen von textilen und elastischen Bodenbelägen,
 
-13.
+13. Verlegen von Fertigparkett und Schichtwerkstoffen,
 
-14.
+14. Behandeln von Oberflächen,
 
-15.
+15. Be- und Verarbeiten von Profilen,
 
-16.
+16. Durchführen von Instandhaltungs- und Instandsetzungsarbeiten,
 
-17.
+17. Qualitätssichernde Maßnahmen, Kundenorientierung.
 
 ### § 4 — Ausbildungsrahmenplan
 
@@ -82,31 +82,21 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens 14 Stunden eine Arbeitsaufgabe I sowie eine Arbeitsaufgabe II durchführen und dokumentieren sowie während dieser Zeit in höchstens 15 Minuten ein Fachgespräch über eine der Arbeitsaufgaben führen. Dabei soll der Prüfling zeigen, dass er die Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert planen, die Arbeitszusammenhänge erkennen, die Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz durchführen kann.
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens 14 Stunden eine Arbeitsaufgabe I sowie eine Arbeitsaufgabe II durchführen und dokumentieren sowie während dieser Zeit in höchstens 15 Minuten ein Fachgespräch über eine der Arbeitsaufgaben führen.
 
-1.
+1. Für die Arbeitsaufgabe I kommt insbesondere das Gestalten und Verlegen eines textilen und eines elastischen Bodenbelages einschließlich des Herstellens des Untergrundes und des Anbringens von Abschlüssen in Betracht.
 
-2.
-
-a)
-
-b)
-
-c)
+2. Für die Arbeitsaufgabe II kommen insbesondere in Betracht:a)Verlegen eines Fertigparketts einschließlich des Herstellens des Untergrundes und des Anbringens von Abschlüssen, b)Verlegen eines Schichtwerkstoffes einschließlich des Herstellens des Untergrundes und des Anbringens von Abschlüssen oder c)Verlegen eines Korkbodens einschließlich des Herstellens des Untergrundes, des Behandelns der Oberfläche und des Anbringens von Abschlüssen. Verlegen eines Fertigparketts einschließlich des Herstellens des Untergrundes und des Anbringens von Abschlüssen, Verlegen eines Schichtwerkstoffes einschließlich des Herstellens des Untergrundes und des Anbringens von Abschlüssen oder Verlegen eines Korkbodens einschließlich des Herstellens des Untergrundes, des Behandelns der Oberfläche und des Anbringens von Abschlüssen.
 
 (3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Untergründe, Bodenbeläge sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Untergründe und Bodenbeläge soll der Prüfling praxisbezogene Fälle mit verknüpften technologischen, chemischen und mathematischen Inhalten lösen können. Dabei soll er zeigen, dass er die Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen berücksichtigen, die Verwendung von textilen und elastischen Bodenbelägen, Fertigparkett, Schichtwerkstoffen sowie von Werk- und Hilfsstoffen planen sowie Werkzeuge und Maschinen zuordnen und qualitätssichernde Maßnahmen einbeziehen kann.
 
-1.
+1. Für den Prüfungsbereich Untergründe kommt insbesondere in Betracht: Beschreiben der Vorgehensweise bei der Prüfung und Herstellung von Untergründen sowie zur Ermittlung und Eingrenzung von Fehlern und deren Behebung, Erstellen von Planungsunterlagen, Planen und Steuern von Arbeitsabläufen unter Berücksichtigung der Produktqualität. Dabei soll der Prüfling zeigen, dass er die für die Prüf- und Herstellungsaufgaben erforderlichen Werkzeuge und Hilfsmittel unter Beachtung von Vorgaben und technischen Regeln auswählen und die notwendigen Arbeitsschritte planen kann.
 
-2.
+2. Für den Prüfungsbereich Bodenbeläge kommt insbesondere in Betracht: Beschreiben der Vorgehensweise bei der Verlegung, Instandhaltung und bei der Ermittlung und Behebung von Schäden textiler und elastischer Bodenbeläge sowie Fertigparkett oder Schichtwerkstoffen. Dabei soll der Prüfling zeigen, dass er die erforderlichen Maßnahmen unter Berücksichtigung verfahrensbedingter Abläufe planen, Unterlagen auswerten, Schäden bewerten und dokumentieren sowie Gestaltungsmerkmale darstellen und zuordnen kann.
 
-3.
-
-(4) Die schriftliche Prüfung dauert höchstens:
+3. Für den Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht: allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 (5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
-
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung mindestens ausreichende Leistungen erbracht sind. Wird die Prüfungsleistung in einer der Arbeitsaufgaben oder in einem der Prüfungsbereiche Untergründe und Bodenbeläge mit ungenügend bewertet, ist die Prüfung nicht bestanden.
 
@@ -116,6 +106,4 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 ### Anlage — (zu § 4)
 
-(Fundstelle: BGBl. I 2002, 1864 - 1868)
-
-*)
+*) Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten Ausbildungsinhalten zu vermitteln.

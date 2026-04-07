@@ -8,15 +8,25 @@
 
 ### § 1 — Anspruchsvoraussetzungen
 
-Eine Vergütung für Bereitschaftsdienst und Rufbereitschaft erhalten Soldatinnen und Soldaten sowie Beamtinnen und Beamte in Bundeswehrkrankenhäusern mit Dienstbezügen nach der Bundesbesoldungsordnung A,1.die innerhalb des Krankenhausbetriebs zur medizinischen Versorgung der Patientinnen und Patienten eingesetzt sind (Anspruchsberechtigte),2.für die die regelmäßige wöchentliche Arbeitszeit gilt,3.deren Arbeitszeit automatisiert erfasst wird und4.die in Bundeswehrkrankenhäusern Bereitschaftsdienst außerhalb der regelmäßigen Arbeitszeit oder Rufbereitschaft leisten, wenn die geleisteten Zeiten aus zwingenden dienstlichen Gründen nicht innerhalb eines Jahres durch Freistellung vom Dienst ausgeglichen werden können.
+Eine Vergütung für Bereitschaftsdienst und Rufbereitschaft erhalten Soldatinnen und Soldaten sowie Beamtinnen und Beamte in Bundeswehrkrankenhäusern mit Dienstbezügen nach der Bundesbesoldungsordnung A,
+
+1. die innerhalb des Krankenhausbetriebs zur medizinischen Versorgung der Patientinnen und Patienten eingesetzt sind (Anspruchsberechtigte),
+
+2. für die die regelmäßige wöchentliche Arbeitszeit gilt,
+
+3. deren Arbeitszeit automatisiert erfasst wird und
+
+4. die in Bundeswehrkrankenhäusern Bereitschaftsdienst außerhalb der regelmäßigen Arbeitszeit oder Rufbereitschaft leisten, wenn die geleisteten Zeiten aus zwingenden dienstlichen Gründen nicht innerhalb eines Jahres durch Freistellung vom Dienst ausgeglichen werden können.
 
 ### § 2 — Bereitschaftsdienst
 
-(1) Die während eines Kalendermonats geleisteten Zeiten eines Bereitschaftsdienstes werden entsprechend der durchschnittlich anfallenden tatsächlichen Inanspruchnahme während des Bereitschaftsdienstes wie folgt berücksichtigt:StufeDurchschnittlich anfallende tatsächliche InanspruchnahmeBerücksichtigung zuIbis zu 25 %60 %IImehr als 25 %75 %IIImehr als 40 %90 %Die tatsächliche Inanspruchnahme während des Bereitschaftsdienstes ist damit abgegolten.(2) Die Anspruchsberechtigten werden jeweils einer der in Absatz 1 Satz 1 genannten Stufen zugeordnet. Die Zuordnung richtet sich nach der jeweils durchschnittlich anfallenden tatsächlichen Inanspruchnahme aller Anspruchsberechtigten in einer Abteilung oder Sektion während aller Bereitschaftsdienste der betroffenen Dienstgradgruppen. Der Berechnung werden drei zusammenhängende Kalendermonate zugrunde gelegt. Nicht berücksichtigt werden Zeiten einer Tätigkeit, für die Gebühren nach der Gebührenordnung für Ärzte oder nach der Gebührenordnung für Zahnärzte berechnet werden können. Die Zuordnung ist mindestens einmal jährlich zu überprüfen. Sie kann nur mit Wirkung für die Zukunft geändert werden.
+(2) Die Anspruchsberechtigten werden jeweils einer der in Absatz 1 Satz 1 genannten Stufen zugeordnet. Die Zuordnung richtet sich nach der jeweils durchschnittlich anfallenden tatsächlichen Inanspruchnahme aller Anspruchsberechtigten in einer Abteilung oder Sektion während aller Bereitschaftsdienste der betroffenen Dienstgradgruppen. Der Berechnung werden drei zusammenhängende Kalendermonate zugrunde gelegt. Nicht berücksichtigt werden Zeiten einer Tätigkeit, für die Gebühren nach der Gebührenordnung für Ärzte oder nach der Gebührenordnung für Zahnärzte berechnet werden können. Die Zuordnung ist mindestens einmal jährlich zu überprüfen. Sie kann nur mit Wirkung für die Zukunft geändert werden.
 
 ### § 3 — Rufbereitschaft
 
-(1) Zeiten einer Rufbereitschaft ohne tatsächliche Inanspruchnahme, die 10 Stunden im Kalendermonat übersteigen, werden zu einem Achtel berücksichtigt. Bei Teilzeitbeschäftigung werden die 10 Stunden im gleichen Verhältnis wie die Arbeitszeit gekürzt.(2) Zeiten einer tatsächlichen Inanspruchnahme während einer Rufbereitschaft werden vollständig berücksichtigt. § 2 Absatz 2 Satz 4 gilt entsprechend.
+(1) Zeiten einer Rufbereitschaft ohne tatsächliche Inanspruchnahme, die 10 Stunden im Kalendermonat übersteigen, werden zu einem Achtel berücksichtigt. Bei Teilzeitbeschäftigung werden die 10 Stunden im gleichen Verhältnis wie die Arbeitszeit gekürzt.
+
+(2) Zeiten einer tatsächlichen Inanspruchnahme während einer Rufbereitschaft werden vollständig berücksichtigt. § 2 Absatz 2 Satz 4 gilt entsprechend.
 
 ### § 4 — Gesamtzeit
 
@@ -24,12 +34,32 @@ Die berücksichtigten Zeiten eines Kalendermonats sind zu addieren und danach au
 
 ### § 5 — Vergütung bei Vollzeitbeschäftigung
 
-Je Stunde der Gesamtzeit erhalten Vollzeitbeschäftigte 1.der Besoldungsgruppen A 5bis A 817,64 Euro,2.der Besoldungsgruppen A 9bis A 1222,68 Euro,3.der Besoldungsgruppe A 1330,24 Euro,4.der Besoldungsgruppe A 1432,76 Euro,5.der Besoldungsgruppen A 15und A 1635,28 Euro.
+Je Stunde der Gesamtzeit erhalten Vollzeitbeschäftigte
+
+1. der Besoldungsgruppen A 5bis A 817,64 Euro,
+
+2. der Besoldungsgruppen A 9bis A 1222,68 Euro,
+
+3. der Besoldungsgruppe A 1330,24 Euro,
+
+4. der Besoldungsgruppe A 1432,76 Euro,
+
+5. der Besoldungsgruppen A 15und A 1635,28 Euro.
 
 ### § 6 — Vergütung bei Teilzeitbeschäftigung
 
-(1) Teilzeitbeschäftigte erhalten je Stunde der Gesamtzeit bis zum Erreichen der regelmäßigen Arbeitszeit von Vollzeitbeschäftigten eine Vergütung in Höhe des auf 1 Stunde entfallenden Anteils der Besoldung entsprechender Vollzeitbeschäftigter.(2) Zur Ermittlung der auf 1 Stunde entfallenden anteiligen Besoldung sind die monatlichen Bezüge entsprechender Vollzeitbeschäftigter durch das 4,348-Fache ihrer regelmäßigen wöchentlichen Arbeitszeit zu teilen. Bezüge, die nicht der anteiligen Kürzung nach § 6 Absatz 1 des Bundesbesoldungsgesetzes unterliegen, bleiben unberücksichtigt.(3) Zeiten, die über die regelmäßige Arbeitszeit von Vollzeitbeschäftigten hinausgehen, werden nach § 5 vergütet.
+(1) Teilzeitbeschäftigte erhalten je Stunde der Gesamtzeit bis zum Erreichen der regelmäßigen Arbeitszeit von Vollzeitbeschäftigten eine Vergütung in Höhe des auf 1 Stunde entfallenden Anteils der Besoldung entsprechender Vollzeitbeschäftigter.
+
+(2) Zur Ermittlung der auf 1 Stunde entfallenden anteiligen Besoldung sind die monatlichen Bezüge entsprechender Vollzeitbeschäftigter durch das 4,348-Fache ihrer regelmäßigen wöchentlichen Arbeitszeit zu teilen. Bezüge, die nicht der anteiligen Kürzung nach § 6 Absatz 1 des Bundesbesoldungsgesetzes unterliegen, bleiben unberücksichtigt.
+
+(3) Zeiten, die über die regelmäßige Arbeitszeit von Vollzeitbeschäftigten hinausgehen, werden nach § 5 vergütet.
 
 ### § 7 — Ausschluss des Vergütungsanspruchs
 
-Eine Vergütung wird nicht gewährt1.für nach § 2 berücksichtigte Zeiten eines Bereitschaftsdienstes und Zeiten einer tatsächlichen Inanspruchnahme während angeordneter Rufbereitschaft, wenn die entsprechend § 4 gerundete Summe dieser Zeiten 5 Stunden im Kalendermonat nicht übersteigt; bei Teilzeitbeschäftigung werden die 5 Stunden im gleichen Verhältnis wie die Arbeitszeit gekürzt,2.mit Feststellung des Spannungs- oder Verteidigungsfalles oder nach einem Beschluss nach Artikel 80a Absatz 3 Satz 1 des Grundgesetzes oder3.für Dienste zur Erhöhung der Bereitschaft der Streitkräfte, die das Bundesministerium der Verteidigung anordnet, um die notwendige Reaktionsfähigkeit der Streitkräfte zur Wahrnehmung ihrer Aufgaben herzustellen.
+Eine Vergütung wird nicht gewährt
+
+1. für nach § 2 berücksichtigte Zeiten eines Bereitschaftsdienstes und Zeiten einer tatsächlichen Inanspruchnahme während angeordneter Rufbereitschaft, wenn die entsprechend § 4 gerundete Summe dieser Zeiten 5 Stunden im Kalendermonat nicht übersteigt; bei Teilzeitbeschäftigung werden die 5 Stunden im gleichen Verhältnis wie die Arbeitszeit gekürzt,
+
+2. mit Feststellung des Spannungs- oder Verteidigungsfalles oder nach einem Beschluss nach Artikel 80a Absatz 3 Satz 1 des Grundgesetzes oder
+
+3. für Dienste zur Erhöhung der Bereitschaft der Streitkräfte, die das Bundesministerium der Verteidigung anordnet, um die notwendige Reaktionsfähigkeit der Streitkräfte zur Wahrnehmung ihrer Aufgaben herzustellen.

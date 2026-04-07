@@ -16,9 +16,9 @@ Auf Grund des § 9c Abs. 1 Satz 1 und 2 Nr. 1 in Verbindung mit § 2a Abs. 5 Sat
 
 Diese Verordnung regelt die Meldungen der nach dem Adoptionsvermittlungsgesetz zur internationalen Adoptionsvermittlung befugten Stellen an das Bundesamt für Justiz als Bundeszentralstelle für Auslandsadoption (Bundeszentralstelle). Die Verordnung gilt für alle Vermittlungsfälle, in denen
 
-1.
+1. das Kind oder die Adoptionsbewerber ihren gewöhnlichen Aufenthalt im Ausland haben oder
 
-2.
+2. das Kind innerhalb von zwei Jahren vor der Einleitung des Vermittlungsverfahrens in das Inland gebracht worden ist.
 
 ## Abschnitt 2: Adoptionsvermittlungsverfahren im
 Verhältnis zu Vertragsstaaten des Adoptionsübereinkommens
@@ -27,19 +27,19 @@ Verhältnis zu Vertragsstaaten des Adoptionsübereinkommens
 
 (1) Der Bundeszentralstelle sind zu melden:
 
-1.
+1. die Übermittlung des Berichts über die Adoptionsbewerber an die Zentrale Behörde des Heimatstaates des Kindes nach Artikel 15 Abs. 2 des Haager Übereinkommens vom 29. Mai 1993 über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der internationalen Adoption (Adoptionsübereinkommen) (BGBl. 2001 II S. 1034),
 
-2.
+2. die Annahme des Vermittlungsvorschlags aus dem Heimatstaat des Kindes nach Artikel 16 Abs. 2 des Adoptionsübereinkommens durch die Adoptionsbewerber und
 
-3.
+3. der vorläufige oder endgültige Abschluss des Vermittlungsverfahrens bei der meldepflichtigen Stelle.
 
 (2) Kommt eine Vermittlung zustande, gilt das Vermittlungsverfahren für die Zwecke dieser Verordnung als endgültig abgeschlossen, wenn die Entscheidung über die Annahme als Kind wirksam geworden ist und das Kind seinen gewöhnlichen Aufenthalt oder Wohnsitz bei den Adoptiveltern hat.
 
 (3) Ist das Vermittlungsverfahren vorläufig abgeschlossen worden, ohne dass eine Adoption zustande gekommen ist, erfolgt eine zusätzliche Meldung, wenn
 
-1.
+1. endgültig feststeht, dass das Kind für eine Adoptionsvermittlung nicht mehr in Betracht kommt, oder
 
-2.
+2. die Adoptionsbewerber an einer internationalen Adoptionsvermittlung erkennbar nicht mehr interessiert sind.
 
 ### § 3 — Meldepflichtige Stelle, Mitteilung von Änderungen und Berichtigungen
 
@@ -49,103 +49,37 @@ Meldepflichtig ist die nach dem Adoptionsvermittlungsgesetz zur internationalen 
 
 (1) Die Meldung nach § 2 Abs. 1 Nr. 1 muss enthalten:
 
-1.
+1. Daten der beteiligten Stellen:a)Bezeichnung der nach dem Adoptionsvermittlungsgesetz zur internationalen Adoptionsvermittlung befugten aktenführenden Stelle, deren Anschrift und Aktenzeichen,b)zentrale Adoptionsstelle des für die Adoptionsbewerber zuständigen Landesjugendamtes undc)zuständige örtliche Adoptionsvermittlungsstelle (§ 9b des Adoptionsvermittlungsgesetzes), Bezeichnung der nach dem Adoptionsvermittlungsgesetz zur internationalen Adoptionsvermittlung befugten aktenführenden Stelle, deren Anschrift und Aktenzeichen, zentrale Adoptionsstelle des für die Adoptionsbewerber zuständigen Landesjugendamtes und zuständige örtliche Adoptionsvermittlungsstelle (§ 9b des Adoptionsvermittlungsgesetzes),
 
-a)
+2. Daten der Adoptionsbewerber:a)Familienname,b)Geburtsname,c)Vornamen,d)Geschlecht,e)Geburtsdatum,f)Geburtsort,g)Staatsangehörigkeit,h)Familienstand undi)Wohnsitz oder gewöhnlicher Aufenthalt, Familienname, Geburtsname, Vornamen, Geschlecht, Geburtsdatum, Geburtsort, Staatsangehörigkeit, Familienstand und Wohnsitz oder gewöhnlicher Aufenthalt,
 
-b)
+3. Angabe des Heimatstaates, aus dem die Adoptionsbewerber ein Kind annehmen möchten,
 
-c)
+4. Datum der Übermittlung des Berichts sowie
 
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-3.
-
-4.
-
-5.
+5. Angaben nach Absatz 3 Nr. 1 und 2, soweit diese bereits bekannt sind.
 
 (2) Alle weiteren Meldungen müssen enthalten:
 
-1.
+1. die von der Bundeszentralstelle auf Grund der Meldung nach § 2 Abs. 1 Nr. 1 vergebene Verfahrensnummer,
 
-2.
+2. die Angaben nach Absatz 1 Nr. 1 Buchstabe a, Nr. 2 Buchstabe a und b und Nr. 3 sowie
 
-3.
+3. das Datum des die Meldepflicht auslösenden Ereignisses.
 
 (3) Die Meldung nach § 2 Abs. 1 Nr. 2 muss ferner folgende Daten enthalten, soweit diese bekannt und noch nicht nach Absatz 1 Nr. 5 übermittelt worden sind:
 
-1.
+1. bezüglich des Kindes:a)Geburtsname,b)Vornamen,c)Geschlecht,d)Geburtsdatum,e)Geburtsort,f)Staatsangehörigkeit,g)Wohnsitz oder gewöhnlicher Aufenthalt, Geburtsname, Vornamen, Geschlecht, Geburtsdatum, Geburtsort, Staatsangehörigkeit, Wohnsitz oder gewöhnlicher Aufenthalt,
 
-a)
+2. bezüglich der Mutter und des Vaters des Kindes:a)Familienname,b)Geburtsname,c)Vornamen,d)Geschlecht,e)Geburtsdatum,f)Geburtsort,g)Staatsangehörigkeit,h)Familienstand undi)Wohnsitz oder gewöhnlicher Aufenthalt sowie Familienname, Geburtsname, Vornamen, Geschlecht, Geburtsdatum, Geburtsort, Staatsangehörigkeit, Familienstand und Wohnsitz oder gewöhnlicher Aufenthalt sowie
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-3.
+3. bezüglich des Verfahrens im Heimatstaat des Kindes die Bezeichnung der Zentralen Behörde oder sonstigen zuständigen Stelle, deren Anschrift und das Aktenzeichen des dortigen Vermittlungsverfahrens.
 
 (4) Die Meldung nach § 2 Abs. 1 Nr. 3 muss über die Angaben nach Absatz 2 hinaus enthalten:
 
-1.
+1. wenn das Verfahren mit der Annahme des Kindes abgeschlossen wird:a)das Datum der Zustimmung des Heimatstaates nach Artikel 17 Buchstabe c des Adoptionsübereinkommens,b)das Datum der Entscheidung über die Annahme als Kind und ihres Wirksamwerdens,c)den Familiennamen des Kindes nach der Annahme als Kind, falls er vom Familiennamen der Annehmenden abweicht,d)die Vornamen des Kindes nach der Annahme als Kind unde)soweit bekannt die Staatsangehörigkeit des Kindes nach der Annahme als Kind, das Datum der Zustimmung des Heimatstaates nach Artikel 17 Buchstabe c des Adoptionsübereinkommens, das Datum der Entscheidung über die Annahme als Kind und ihres Wirksamwerdens, den Familiennamen des Kindes nach der Annahme als Kind, falls er vom Familiennamen der Annehmenden abweicht, die Vornamen des Kindes nach der Annahme als Kind und soweit bekannt die Staatsangehörigkeit des Kindes nach der Annahme als Kind,
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-2.
+2. wenn die Annahme des Kindes nicht erfolgt: die Mitteilung dieser Tatsache.
 
 ## Abschnitt 3: Adoptionsvermittlungsverfahren im
 Verhältnis zu sonstigen Staaten

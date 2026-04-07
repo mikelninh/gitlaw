@@ -127,7 +127,7 @@ Die Mitglieder des Aufsichtsrats haben - auch nach dem Ausscheiden aus dem Amt -
 
 ### § 16 — Vergütungen
 
-(1) Die Mitglieder des Aufsichtsrats erhalten neben dem Ersatz ihrer Auslagen eine feste, nach Ablauf des Geschäftsjahres zahlbare jährliche Vergütung, deren  Höhe die Hauptversammlung festsetzt. Der Vorsitzende des Aufsichtsrats erhält das Doppelte, ein stellvertretender Vorsitzender das Eineinhalbfache dieses Betrages. Aufsichtsratsmitglieder, die nur während eines Teils des Geschäftsjahres dem Aufsichtsrat angehört haben, erhalten eine im Verhältnis der Zeit geringere Vergütung.
+(1) Die Mitglieder des Aufsichtsrats erhalten neben dem Ersatz ihrer Auslagen eine feste, nach Ablauf des Geschäftsjahres zahlbare jährliche Vergütung, deren Höhe die Hauptversammlung festsetzt. Der Vorsitzende des Aufsichtsrats erhält das Doppelte, ein stellvertretender Vorsitzender das Eineinhalbfache dieses Betrages. Aufsichtsratsmitglieder, die nur während eines Teils des Geschäftsjahres dem Aufsichtsrat angehört haben, erhalten eine im Verhältnis der Zeit geringere Vergütung.
 
 (2) Die auf die Vergütung und Auslagen zu zahlende Umsatzsteuer wird von der Gesellschaft erstattet.
 
@@ -196,8 +196,6 @@ Die Mitglieder des Aufsichtsrats haben - auch nach dem Ausscheiden aus dem Amt -
 (1) Vorstand und Aufsichtsrat sind ermächtigt, bei der Feststellung des Jahresabschlusses Beträge bis zur Hälfte des Jahresüberschusses in andere Gewinnrücklagen einzustellen. Sie sind darüber hinaus ermächtigt, weitere Beträge bis zu einem Viertel des Jahresüberschusses in andere Gewinnrücklagen einzustellen, solange die anderen Gewinnrücklagen die Hälfte des Grundkapitals nicht übersteigen oder insoweit sie nach der Einstellung die Hälfte des Grundkapitals nicht übersteigen würden.
 
 (2) Stellt die Hauptversammlung den Jahresabschluss fest, so ist ein Viertel des Jahresüberschusses in andere Gewinnrücklagen einzustellen.
-
-(3) Bei der Errechnung des gemäß Absatz 1 oder 2 in andere Gewinnrücklagen einzustellenden Teils des Jahresüberschusses sind vorweg Zuweisungen zu gesetzlichen Rücklagen und Verlustvorträge abzuziehen. Der Bilanzgewinn wird an die Aktionäre verteilt, soweit die Hauptversammlung nicht eine andere Verwendung beschließt.
 
 ### § 25 — Bundesrechnungshof
 

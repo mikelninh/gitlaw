@@ -20,4 +20,8 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar
 
 ### § 3
 
-(1) Diese Verordnung tritt an dem Tage in Kraft, an dem der Notenwechsel vom 12. Juli 1961 in Kraft tritt.(2) Diese Verordnung tritt an dem Tage außer Kraft, an dem der Notenwechsel vom 12. Juli 1961 außer Kraft tritt.(3) Der Tag des Inkrafttretens und Außerkrafttretens ist im Bundesgesetzblatt bekanntzugeben.
+(1) Diese Verordnung tritt an dem Tage in Kraft, an dem der Notenwechsel vom 12. Juli 1961 in Kraft tritt.
+
+(2) Diese Verordnung tritt an dem Tage außer Kraft, an dem der Notenwechsel vom 12. Juli 1961 außer Kraft tritt.
+
+(3) Der Tag des Inkrafttretens und Außerkrafttretens ist im Bundesgesetzblatt bekanntzugeben.

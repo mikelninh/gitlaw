@@ -12,11 +12,11 @@
 
 (2) Diese Verordnung gilt nicht
 
-1.
+1. auf Seeschiffen unter fremder Flagge oder auf Seeschiffen, für die das Bundesministerium für Verkehr und digitale Infrastruktur nach § 10 des Flaggenrechtsgesetzes in der Fassung der Bekanntmachung vom 26. Oktober 1994 (BGBl. I S. 3140), das zuletzt durch Artikel 2 Absatz 6 des Gesetzes vom 25. Juni 2009 (BGBl. I S. 1574) geändert worden ist, die Befugnis zur Führung der Bundesflagge zur ersten Überführungsreise in einen anderen Hafen verliehen hat,
 
-2.
+2. an Bord von Wasserfahrzeugen, sofern der Heimatort dieser Fahrzeuge nicht im Geltungsbereich dieser Verordnung liegt,
 
-3.
+3. in Luftfahrzeugen, die nicht im Geltungsbereich dieser Verordnung eingetragen und zugelassen sind.
 
 ### § 2 — Anzeige der Verwendung von Halonen
 
@@ -28,11 +28,11 @@ Wer nach Maßgabe des Artikels 13 Absatz 1 der Verordnung (EG) Nr. 1005/2009 fü
 
 (2) Hersteller und Vertreiber der in Absatz 1 genannten Stoffe sind verpflichtet, diese nach Gebrauch zurückzunehmen oder die Rücknahme durch einen von ihnen bestimmten Dritten sicherzustellen. Satz 1 gilt nicht, soweit die Vorschriften der Verordnung über die Entsorgung gebrauchter halogenierter Lösemittel vom 23. Oktober 1989 (BGBl. I S. 1918), die durch Artikel 7b der Verordnung vom 20. Oktober 2006 (BGBl. I S. 2298) geändert worden ist, anzuwenden sind.
 
-(3) Wer hat über Art und Menge der zurückgenommenen oder entsorgten Stoffe sowie über deren Verbleib Aufzeichnungen zu führen. Die Aufzeichnungen sind nach ihrer Erstellung mindestens drei Jahre lang aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen. Soweit der Betreiber einer Entsorgungsanlage nach § 49 des Kreislaufwirtschaftsgesetzes in Verbindung mit Teil 3 der Nachweisverordnung vom 20. Oktober 2006 (BGBl. I S. 2298), die durch Artikel 4 des Gesetzes vom 19. Juli 2007 (BGBl. I S. 1462) geändert worden ist, in der jeweils geltenden Fassung, über die Entsorgung geregelter Stoffe im Sinne von Artikel 3 Nummer 4 der Verordnung (EG) Nr. 1005/2009 Register zu führen hat, werden die nach Satz 1 erforderlichen Aufzeichnungen durch die Register nach der Nachweisverordnung ersetzt. In diesem Fall ist bei der Führung des Registers nach § 24 Absatz 2 der Nachweisverordnung in den in das Register einzustellenden Begleitdokumenten zusätzlich im Feld „Frei für Vermerke” und bei Führung der Register nach § 24 Absatz 4 und 5 der Nachweisverordnung zusätzlich zur Angabe des Abfallschlüssels und der Abfallart jeweils der entsorgte Stoff oder die entsprechende Stoffgruppe nach Anhang I der Verordnung (EG) Nr. 1005/2009 zu nennen und anzugeben, ob eine Verwertung oder Beseitigung erfolgte. Die Bestimmungen zur elektronischen Nachweis- und Registerführung nach den §§ 17 bis 22 der Nachweisverordnung finden entsprechende Anwendung mit der Maßgabe, dass die für die zusätzlichen Angaben nach Satz 4 erforderlichen Schnittstellen nach § 18 Absatz 1 Satz 2 der Nachweisverordnung vom Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit bekannt gegeben werden.
+(3) Wer
 
-1.
+1. nach Absatz 2 Stoffe zurücknimmt oder
 
-2.
+2. als Betreiber einer Entsorgungsanlage in Absatz 1 genannte Stoffe entsorgt,
 
 ### § 4 — Verhinderung des Austritts in die Atmosphäre; Dichtheitsprüfungen; Aufzeichnungs- und Aufbewahrungspflicht
 
@@ -44,27 +44,27 @@ Wer nach Maßgabe des Artikels 13 Absatz 1 der Verordnung (EG) Nr. 1005/2009 fü
 
 ### § 5 — Persönliche Voraussetzungen für bestimmte Arbeiten
 
-(1) Die Rückgewinnung von geregelten Stoffen im Sinne von Artikel 3 Nummer 4 der Verordnung (EG) Nr. 1005/2009 nach Artikel 22 Absatz 1 oder Absatz 4 der Verordnung (EG) Nr. 1005/2009, die Rücknahme solcher Stoffe oder von Gemischen, die diese Stoffe mit einem Massengehalt von insgesamt mehr als 1 Prozent enthalten nach § 3 Absatz 2, die Inspektion und Wartung von sie enthaltenden Einrichtungen oder Produkten nach § 4 Absatz 2 Satz 1 sowie Dichtheitskontrollen und Reparaturen nach Artikel 23 Absatz 2 der Verordnung (EG) Nr. 1005/2009 und § 4 Absatz 2 Satz 3 dürfen nur von Personen durchgeführt werden, die Abweichend von Satz 1 Nummer 1 dürfen im Fall des § 4 Absatz 2 Satz 1 Inspektionen an kältetechnischen Einrichtungen, die keinen Eingriff in den Kältemittelkreislauf erfordern, durch Betriebspersonal durchgeführt werden, welches zuvor durch einen Sachkundigen unterwiesen wurde. Über die erfolgte Unterweisung wird ein Nachweis ausgestellt, der der zuständigen Behörde auf Verlangen vorzulegen ist.
+(1) Die Rückgewinnung von geregelten Stoffen im Sinne von Artikel 3 Nummer 4 der Verordnung (EG) Nr. 1005/2009 nach Artikel 22 Absatz 1 oder Absatz 4 der Verordnung (EG) Nr. 1005/2009, die Rücknahme solcher Stoffe oder von Gemischen, die diese Stoffe mit einem Massengehalt von insgesamt mehr als 1 Prozent enthalten nach § 3 Absatz 2, die Inspektion und Wartung von sie enthaltenden Einrichtungen oder Produkten nach § 4 Absatz 2 Satz 1 sowie Dichtheitskontrollen und Reparaturen nach Artikel 23 Absatz 2 der Verordnung (EG) Nr. 1005/2009 und § 4 Absatz 2 Satz 3 dürfen nur von Personen durchgeführt werden, die
 
-1.
+1. die erforderliche Sachkunde nachgewiesen haben,
 
-2.
+2. über die hierzu erforderliche technische Ausstattung verfügen,
 
-3.
+3. zuverlässig sind und
 
-4.
+4. im Falle der Dichtheitskontrollen nach Artikel 23 Absatz 2 der Verordnung (EG) Nr. 1005/2009 hinsichtlich dieser Tätigkeit keinen Weisungen unterliegen.
 
 (2) Die erforderliche Sachkunde nach Absatz 1 Satz 1 Nummer 1 hat nachgewiesen, wer
 
-1.
+1. eine zu der jeweiligen Tätigkeit befähigende technische oder handwerkliche Ausbildung erfolgreich absolviert hat oder gemäß Absatz 4 oder § 5 Absatz 2 Satz 5 der Chemikalien-Klimaschutzverordnung vom 2. Juli 2008 (BGBl. I S. 1139), die durch Artikel 4 der Verordnung vom 9. November 2010 (BGBl. I S. 1504) geändert worden ist, von dem Erfordernis einer technischen oder handwerklichen Ausbildung befreit ist, sowie jeweils an einer von der zuständigen Behörde anerkannten Fortbildungsveranstaltung, in der die Lehrinhalte nach Absatz 3 vermittelt wurden, teilgenommen hat,
 
-2.
+2. im Falle von Tätigkeiten an Kälte- und Klimaanlagen sowie Wärmepumpen eine abgeschlossene Ausbildung als Kälteanlagenbauer/in, Mechatroniker/in für Kältetechnik, staatlich geprüfte/r Techniker/in der Fachrichtung Kälteanlagentechnik oder als Ingenieur/in nach einem Studium, in dem die Grundlagen der Kältetechnik vermittelt wurden, hat,
 
-3.
+3. im Falle von Tätigkeiten an Feuerlösch- und Brandschutzanlagen eine von der zuständigen Behörde anerkannte Zertifizierung vorweisen kann,
 
-4.
+4. eine Sachkundebescheinigung für die entsprechende Tätigkeit nach § 5 Absatz 2 Satz 1 der Chemikalien-Klimaschutzverordnung vom 2. Juli 2008 (BGBl. I S. 1139), die zuletzt durch Artikel 4 der Verordnung vom 9. November 2010 (BGBl. I S. 1504) geändert worden ist, vorweisen kann oder
 
-5.
+5. für die jeweilige Tätigkeit einen Befähigungsnachweis vorweisen kann, der in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ausgestellt wurde und der einem Befähigungsnachweis nach den Nummern 1, 2, 3 oder 4 gleichwertig ist. Für die Zwecke dieser Verordnung stehen Nachweise über die Erfüllung von Anforderungen an die Ausbildung nach Nummer 1 oder Nummer 2, die in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ausgestellt worden sind, inländischen Nachweisen gleich, soweit sie gleichwertig sind.
 
 (3) Die Fortbildungsveranstaltung nach Absatz 2 Nummer 1 erstreckt sich auf die für den jeweiligen Aufgabenbereich erforderlichen Kenntnisse über die Anlagentechnik, die einschlägigen Vorschriften, Richtlinien und allgemein anerkannten Regeln der Technik sowie die wesentlichen Eigenschaften der betreffenden Stoffe und Gemische und die mit ihrer Verwendung verbundenen Gefahren. Über die Teilnahme an einer Fortbildungsveranstaltung nach Absatz 2 Nummer 1 ist ein Nachweis auszustellen. Der Nachweis ist der zuständigen Behörde auf Verlangen vorzulegen.
 
@@ -76,17 +76,17 @@ Wer nach Maßgabe des Artikels 13 Absatz 1 der Verordnung (EG) Nr. 1005/2009 fü
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 7 Buchstabe a des Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 2 eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
 
-2.
+2. entgegen § 4 Absatz 1 Satz 1 ein Austreten eines dort genannten Stoffes nicht verhindert,
 
-3.
+3. entgegen § 4 Absatz 1 Satz 2 ein Austreten eines dort genannten Stoffes nicht reduziert,
 
-4.
+4. entgegen § 4 Absatz 2 Satz 1 nicht dafür sorgt, dass eine Einrichtung oder ein Produkt inspiziert und gewartet wird,
 
-5.
+5. entgegen § 4 Absatz 2 Satz 3 nicht sicherstellt, dass eine Einrichtung oder ein Produkt überprüft und eine Undichtigkeit repariert wird oder
 
-6.
+6. entgegen § 5 Absatz 1 Satz 1 Nummer 1 eine dort genannte Tätigkeit durchführt.
 
 (2) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 7 Buchstabe c des Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 4 Absatz 3 Satz 1 nicht sicherstellt, dass eine dort genannte Aufzeichnung geführt, vorgelegt und aufbewahrt wird.
 

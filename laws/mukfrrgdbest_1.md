@@ -17,7 +17,15 @@ Schwangere Frauen und Wöchnerinnen erhalten zu ihrer Schonung und zur Erleichte
 
 ### § 2
 
-Der Ausweis für Schwangere und Wöchnerinnen berechtigt zur Inanspruchnahme der folgenden, im Ausweis verzeichneten Vergünstigungen: a)Benutzung der Abteile für Mutter und Kind und der Schwerbeschädigtenabteile in den Verkehrsmitteln der Reichsbahn sowie von reservierten Plätzen in anderen öffentlichen Verkehrsmitteln, b)bevorzugte Abfertigung in allen öffentlichen Dienststellen, c)bevorzugte Abfertigung beim Einkauf von Lebensmitteln und Bedarfsartikeln, d)bevorzugte Gewährung ärztlicher Hilfe.
+Der Ausweis für Schwangere und Wöchnerinnen berechtigt zur Inanspruchnahme der folgenden, im Ausweis verzeichneten Vergünstigungen:
+
+a) Benutzung der Abteile für Mutter und Kind und der Schwerbeschädigtenabteile in den Verkehrsmitteln der Reichsbahn sowie von reservierten Plätzen in anderen öffentlichen Verkehrsmitteln,
+
+b) bevorzugte Abfertigung in allen öffentlichen Dienststellen,
+
+c) bevorzugte Abfertigung beim Einkauf von Lebensmitteln und Bedarfsartikeln,
+
+d) bevorzugte Gewährung ärztlicher Hilfe.
 
 ### § 3
 
@@ -36,8 +44,6 @@ Bei mißbräuchlicher Benutzung kann der Ausweis durch die Abteilung Gesundheits
 Diese Durchführungsbestimmung tritt mit ihrer Verkündung in Kraft.
 
 ### Schlußformel
-
-Ministerium für Gesundheitswesen
 
 ### Anlage
 

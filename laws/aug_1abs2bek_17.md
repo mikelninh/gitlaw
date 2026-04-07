@@ -7,4 +7,4 @@
 
 ### (XXXX)
 
-Auf Grund des § 1 Abs. 2 des Auslandsunterhaltsgesetzes 19. Dezember 1986 (BGBl. I S. 2563) wird bekanntgemacht, daß die Gegenseitigkeit im Sinne dieses Gesetzes verbürgt ist im Verhältnis zu den kanadischen Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 13. April 1993 (BGBl. I S. 928).Bundesministerium der Justiz
+Auf Grund des § 1 Abs. 2 des Auslandsunterhaltsgesetzes 19. Dezember 1986 (BGBl. I S. 2563) wird bekanntgemacht, daß die Gegenseitigkeit im Sinne dieses Gesetzes verbürgt ist im Verhältnis zu den kanadischen

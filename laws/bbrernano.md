@@ -15,12 +15,10 @@ Der Präsidentin oder dem Präsidenten des Bundesamtes für Bauwesen und Raumord
 
 ### § 2 — Vorbehaltsklausel
 
-Für besondere Fälle bleibt die Ernennung und Entlassung der unter § 1 genannten Beamtinnen und Beamten vorbehalten.
+Für besondere Fälle bleibt die Ernennung und Entlassung der unter § 1 genannten Beamtinnen und Beamten vorbehalten.
 
 ### § 3 — Inkrafttreten
 
 Diese Anordnung tritt mit Wirkung vom 8. Dezember 2021 in Kraft.
 
 ### Schlussformel
-
-Die Bundesministerin für Wohnen, Stadtentwicklung und Bauwesen

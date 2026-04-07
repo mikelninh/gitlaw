@@ -14,9 +14,9 @@ Auf Grund des § 3 Abs. 1 Nr. 1 bis 4 des Gesetzes über Einheiten im Meßwesen 
 
 (1) Gesetzliche Einheiten und Einheitenzeichen gemäß § 2 Nr. 1 des Einheiten- und Zeitgesetzes sind
 
-1.
+1. die in Anlage 1 Spalten 2 und 3 aufgeführten Einheiten mit besonderem Namen,
 
-2.
+2. die aus den Einheiten nach Nummer 1 mit dem Zahlenfaktor 1 abgeleiteten Einheiten.
 
 (2) Für die Einheiten in Anlage 1 gelten die Definitionen und Beziehungen, die in Kapitel I des Anhangs der Richtlinie 80/181/EG vom 20. Dezember 1979 (ABl. L 39 vom 15.2.1980, S. 40) in ihrer jeweils geltenden Fassung aufgeführt sind.
 
@@ -45,8 +45,6 @@ Ordnungswidrig im Sinne des § 10 Abs. 1 Nr. 3 des Einheiten- und Zeitgesetzes h
 Diese Verordnung tritt am 1. Januar 1986 in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Wirtschaft
 
 ### Anlage 1 — (zu § 1)
 

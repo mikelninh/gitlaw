@@ -12,7 +12,7 @@ Auf Grund des § 6 Absatz 1 Nummer 1 Buchstabe w in Verbindung mit § 6 Absatz 3
 
 ### § 1
 
-Abweichend von § 6 Absatz 1 der Fahrerlaubnis-Verordnung dürfen die in Anhang II Teil A Absatz 5 Ziffer 2 der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (ABl. L 263 vom 9.10.2007, S. 1) genannten beschussgeschützten Fahrzeuge mit einer zulässigen Gesamtmasse von mehr als 3 500 kg bis einschließlich 4 100 kg mit einer Fahrerlaubnis der Klasse B geführt werden, sofern sie als Fahrzeuge für den Personenschutz vom Bundeskriminalamt nach § 6 des Bundeskriminalamtgesetzes oder den Polizeien der Länder eingesetzt werden und die in der Anlage aufgeführten Anforderungen erfüllt sind.
+Abweichend von § 6 Absatz 1 der Fahrerlaubnis-Verordnung dürfen die in Anhang II Teil A Absatz 5 Ziffer 2 der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (ABl. L 263 vom 9.10.2007, S. 1) genannten beschussgeschützten Fahrzeuge mit einer zulässigen Gesamtmasse von mehr als 3 500 kg bis einschließlich 4 100 kg mit einer Fahrerlaubnis der Klasse B geführt werden, sofern sie als Fahrzeuge für den Personenschutz vom Bundeskriminalamt nach § 6 des Bundeskriminalamtgesetzes oder den Polizeien der Länder eingesetzt werden und die in der Anlage aufgeführten Anforderungen erfüllt sind.
 
 ### § 2
 
@@ -20,20 +20,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Anlage — (zu § 1)
 
-Der Kraftfahrzeugführer muss eine vom Bundeskriminalamt oder von den Polizeien der Länder durchgeführte zusätzliche Fahrausbildung nachgewiesen haben. An der zusätzlichen Fahrausbildung können nur Inhaber der Fahrerlaubnis der Klasse B teilnehmen, die zu Beginn der zusätzlichen Fahrausbildung nicht mit Punkten im Fahreignungsregister belastet sind. Der Nachweis erfolgt durch Vorlage eines Auszuges aus dem Fahreignungsregister, der nicht älter als sechs Monate sein darf.
+a) Die Ausbildung umfasst mindestens drei Tage mit jeweils acht Stunden Unterricht.
 
-a)
+b) Die Ausbildung enthält einen theoretischen und einen praktischen Teil. In beiden Ausbildungsteilen sind die besonderen Fahreigenschaften der Fahrzeuge sowohl bei Routine- als auch bei konkreten Gefahrensituationen mit unterschiedlichen Geschwindigkeiten, Sichtverhältnissen und Straßenzuständen sowie Bremsvorgängen zu schulen.
 
-b)
+c) Der erfolgreiche Abschluss der zusätzlichen Fahrausbildung ist durch eine vom Bundeskriminalamt oder den Polizeien der Länder ausgestellte Bescheinigung nachzuweisen, die beim Führen des Kraftfahrzeuges mitzuführen und zuständigen Personen auf Verlangen zur Prüfung auszuhändigen ist.
 
-c)
+d) Nach erfolgreichem Abschluss der zusätzlichen Fahrausbildung hat der Fahrer einmal im Jahr an einem Wiederholungs- und Vertiefungskurs teilzunehmen.
 
-d)
+a) Die eingesetzten Sonderschutzfahrzeuge müssen über eine europäische Typgenehmigung oder eine Einzelgenehmigung gemäß Artikel 24 der Richtlinie 2007/46/EG verfügen.
 
-a)
+b) Die Fahrzeuge müssen die Anforderungen an Bremssysteme nach Anhang I Nummer 2.2.1 der Richtlinie 71/320/EWG des Rates vom 21. Juli 1971 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Bremsanlagen bestimmter Klassen von Fahrzeugen und deren Anhängern (ABl. L 202 vom 6.9.1971, S. 37) erfüllen.
 
-b)
+c) Die Abmessungen der Fahrzeuge sollen denen eines Personenkraftwagens der Klasse M1, AA Limousine im Sinne von Anhang II Teil C Ziffer 1 der Richtlinie 2007/46/EG bei der Breite, Länge und Wendekreis entsprechen.
 
-c)
-
-d)
+d) Die Sichtverhältnisse der eingesetzten Sonderschutzfahrzeuge müssen denen eines Personenkraftwagens der Klasse M1, AA Limousine im Sinne von Anhang II Teil C der Richtlinie 2007/46/EG entsprechen.

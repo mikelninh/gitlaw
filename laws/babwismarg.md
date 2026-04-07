@@ -21,13 +21,13 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates den Plan nach § 1 unter Einhaltung der Grundzüge der Planung zu ändern und zu ergänzen, soweit nach Inkrafttreten dieses Gesetzes Tatsachen bekannt werden, die der Ausführung des Vorhabens nach den getroffenen Festsetzungen entgegenstehen. Das Bundesministerium für Verkehr und digitale Infrastruktur hat dabei eine Abwägung aller betroffenen Belange vorzunehmen.
 
-(2) Die nach dem Bundesfernstraßengesetz für Planfeststellungen zuständige Behörde hat zusätzliche Regelungen zu treffen, Auf das Verfahren finden die für die Planfeststellung geltenden Vorschriften Anwendung.
+(2) Die nach dem Bundesfernstraßengesetz für Planfeststellungen zuständige Behörde hat zusätzliche Regelungen zu treffen,
 
-1.
+1. soweit ihr die abschließende Entscheidung in dem Plan nach § 1 oder einer Rechtsverordnung nach Absatz 1 vorbehalten ist,
 
-2.
+2. wenn nicht vorhersehbare Wirkungen des Vorhabens oder der dem Plan nach § 1 oder einer Rechtsverordnung nach Absatz 1 entsprechenden Anlagen auf die benachbarten Grundstücke erst nach Inkrafttreten dieses Gesetzes auftreten und der Betroffene Vorkehrungen oder die Errichtung und Unterhaltung von Anlagen verlangt, welche die nachteiligen Wirkungen ausschließen,
 
-3.
+3. soweit es sich um Planänderungen von unwesentlicher Bedeutung handelt.
 
 (3) Über die Gültigkeit der Rechtsverordnungen nach Absatz 1 entscheidet auf Antrag das Bundesverwaltungsgericht. Auf das Verfahren finden die Vorschriften des § 47 der Verwaltungsgerichtsordnung entsprechende Anwendung.
 
@@ -64,49 +64,25 @@ Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 
 ### Anlage 1 — Erläuterungsbericht
 
-(Inhalt: nicht erfaßter Erläuterungsbericht mit nicht darstellbaren Graphiken und Übersichtskarten,
-
 ### Anlage 2 — Übersichtskarte
-
-(Inhalt: nicht darstellbare Übersichtskarten,
 
 ### Anlage 3 — Übersichtsplan
 
-(Inhalt: nicht darstellbarer Übersichtsplan,
-
 ### Anlage 4 — Übersichtslageplan und Übersichtshöhenplan
-
-(Inhalt: nicht darstellbarer Übersichtslageplan und Übersichtshöhenplan,
 
 ### Anlage 5 — Verzeichnis der Bauwerke, Versorgungsleitungen und
 sonstigen Anlagen (Bauwerksverzeichnis)
 
-(Inhalt: nicht erfaßtes Bauwerksverzeichnis,
-
 ### Anlage 6 — Querschnitte
-
-(Inhalt: nicht darstellbare Querschnittszeichnungen,
 
 ### Anlage 7 — Lageplan und Höhenplan
 
-(Inhalt: nicht darstellbare Lage- und Höhenpläne,
-
 ### Anlage 8 — Versorgungsleitungsplan
-
-(Inhalt: nicht darstellbarer Versorgungsleitungsplan - die von dem Plan betroffenen Versorgungsleitungen sind in den Anlagen 5 und 7 enthalten -,
 
 ### Anlage 9 — Grunderwerbsverzeichnis
 
-(Inhalt: nicht erfaßtes Grunderwerbsverzeichnis,
-
 ### Anlage 10 — Grunderwerbspläne
-
-(Inhalt: nicht darstellbare Grunderwerbspläne,
 
 ### Anlage 11 — Ergebnisse der landschaftspflegerischen Begleitplanung
 
-(Inhalt: nicht erfaßter Erläuterungsbericht mit nicht darstellbaren Graphiken und Plänen,
-
 ### Anlage 12 — Schalltechnische Untersuchung
-
-(Inhalt: nicht erfaßter Erläuterungsbericht mit nicht darstellbaren Übersichtslageplänen,

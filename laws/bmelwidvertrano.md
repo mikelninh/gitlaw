@@ -13,23 +13,23 @@ Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des Bundesbeamtengesetzes
 
 Die Befugnis, Widerspruchsbescheide in beamtenrechtlichen Angelegenheiten zu erlassen, wird den folgenden Behörden übertragen, soweit diese die Maßnahme getroffen haben:
 
-1.
+1. der Bundesanstalt für Landwirtschaft und Ernährung,
 
-2.
+2. dem Bundessortenamt,
 
-3.
+3. dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit,
 
-4.
+4. dem Julius Kühn-Institut, Bundesforschungsinstitut für Kulturpflanzen,
 
-5.
+5. dem Friedrich-Loeffler-Institut, Bundesforschungsinstitut für Tiergesundheit,
 
-6.
+6. dem Max Rubner-Institut, Bundesforschungsinstitut für Ernährung und Lebensmittel,
 
-7.
+7. dem Johann Heinrich von Thünen-Institut, Bundesforschungsinstitut für Ländliche Räume, Wald und Fischerei,
 
-8.
+8. dem Bundesamt für zentrale Dienste und offene Vermögensfragen,
 
-9.
+9. dem Bundesverwaltungsamt.
 
 ### § 2 — Vertretung bei Klagen aus dem Beamtenverhältnis
 
@@ -49,10 +49,10 @@ Auf Widersprüche und Klagen, die vor dem 1. Juni 2017 erhoben worden sind, sind
 
 (2) Gleichzeitig treten die folgenden Anordnungen außer Kraft:
 
-1.
+1. die Allgemeine Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz vom 8. April 2009 (BGBl. I S. 814),
 
-2.
+2. die Allgemeine Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz vom 3. Dezember 2009 (BGBl. I S. 3883),
 
-3.
+3. die Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz vom 29. Juli 2013 (BGBl. I S. 2854).
 
 > (+++ § 5 Abs. 2: zur Anwendung vgl. § 4 +++)

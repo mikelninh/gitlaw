@@ -8,7 +8,7 @@ Geprüfte Fachhauswirtschafterin/Geprüfter Fachhauswirtschafter
 
 ### Eingangsformel
 
-Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 5 Nr. 1 des Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2256) geändert worden ist, in Verbindung mit  Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie nach Anhörung des Ständigen Ausschusses des Bundesinstituts für Berufsbildung und im Einvernehmen mit den Bundesministerien für Arbeit und Sozialordnung, für Ernährung, Landwirtschaft und Forsten sowie für Familie, Senioren, Frauen und Jugend:
+Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 5 Nr. 1 des Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2256) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie nach Anhörung des Ständigen Ausschusses des Bundesinstituts für Berufsbildung und im Einvernehmen mit den Bundesministerien für Arbeit und Sozialordnung, für Ernährung, Landwirtschaft und Forsten sowie für Familie, Senioren, Frauen und Jugend:
 
 ### § 1 — Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -16,23 +16,23 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (2) Durch die Prüfung ist festzustellen, ob der Prüfungsteilnehmer die notwendigen Kenntnisse, Fertigkeiten und Erfahrungen besitzt, die folgenden Aufgaben insbesondere im ambulanten Bereich sowie im teilstationären und im stationären Bereich fachgerecht und eigenverantwortlich wahrzunehmen um:
 
-1.
+1. die zu betreuenden Personen, insbesondere ältere Menschen, bei der Haushaltsführung zu unterstützen, bei Bedarf die hauswirtschaftliche Versorgung zu übernehmen und hierbei die jeweilige Haushaltssituation, die Bedürfnisse und Wünsche der zu betreuenden Personen zu berücksichtigen;
 
-2.
+2. die zu betreuenden Personen bei der eigenständigen Lebensführung zu unterstützen, ihnen je nach Bedarf bei personenbezogenen Alltagsverrichtungen sowie bei der Bewältigung von Problemlagen des Alltags Hilfestellung zu geben, sie bei ihren Lebensgestaltungsmöglichkeiten zu beraten und hierbei den jeweiligen Gesundheitszustand, die Bedürfnisse und Wünsche der zu betreuenden Personen zu berücksichtigen;
 
-3.
+3. bei der hauswirtschaftlichen Versorgung und den Betreuungsaufgaben die zu betreuenden Personen mit einzubeziehen, ihre Fähigkeiten zu trainieren und sie zu eigener Lebensgestaltung zu aktivieren und zu motivieren;
 
-4.
+4. bei seiner Tätigkeit mit anderen Hilfen und Diensten zusammenzuarbeiten und unter Berücksichtigung seiner eigenen fachlichen Handlungsmöglichkeiten erforderlichenfalls auf Hinzuziehung weiterer Fachkräfte hinzuwirken.
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluß Geprüfte Fachhauswirtschafterin/ Geprüfter Fachhauswirtschafter.
 
 ### § 2 — Zulassungsvoraussetzungen
 
-(1) Zur Fortbildungsprüfung ist zuzulassen, wer nachweist.
+(1) Zur Fortbildungsprüfung ist zuzulassen, wer
 
-1.
+1. eine mit Erfolg abgelegte Abschlußprüfung zur Hauswirtschafterin/zum Hauswirtschafter und danach eine mindestens zweijährige Berufspraxis, davon eine mindestens halbjährige dem angestrebten Abschluß entsprechende Berufspraxis, oder
 
-2.
+2. eine mindestens sechsjährige, dem angestrebten Abschluß entsprechende Berufspraxis
 
 (2) Eine dem angestrebten Abschluß entsprechende Berufspraxis nach Absatz 1 ist anzunehmen, wenn für die Ausübung des Berufs wesentliche Kenntnisse, Fertigkeiten und Erfahrungen erworben werden konnten.
 
@@ -42,92 +42,89 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 Die Prüfung umfaßt die Bereiche:
 
-1.
+1. Hauswirtschaftliche Leistungen;
 
-2.
+2. Betreuung bei alltagsbezogenen Verrichtungen;
 
-3.
+3. Kommunikation;
 
-4.
+4. Berufliche und rechtliche Rahmenbedingungen.
 
 ### § 4 — Bereich Hauswirtschaftliche Leistungen
 
 Im Bereich "Hauswirtschaftliche Leistungen" soll der Prüfungsteilnehmer nachweisen, daß er in der Lage ist, zu betreuende Personen, insbesondere ältere Menschen, bei der Sicherstellung der hauswirtschaftlichen Versorgungsleistungen zu unterstützen und sie dabei aktivierend einzubeziehen sowie bei Bedarf die Versorgungsleistungen in eigener Verantwortung zu übernehmen. Dazu gehören die Analyse der persönlichen und sozialen Bedürfnisse sowie die Planung, Durchführung und Kontrolle der hauswirtschaftlichen Versorgungsleistungen in den Bereichen Ernährung, Kleidung/Textilien und Wohnen unter Berücksichtigung des Gesundheitszustandes, der Ansprüche, Gewohnheiten, Erfahrungen und Entscheidungen der zu betreuenden Personen. In diesem Rahmen können geprüft werden:
 
-1.
+1. Analysieren der Haushaltssituation unter Berücksichtigung des Leistungsvermögens der zu betreuenden Personen, der verfügbaren Mittel und Dienstleistungsangebote;
 
-2.
+2. Planen, Gestalten und Erfassen der Versorgungsleistungen unter Einbeziehung der Gewohnheiten der zu betreuenden Personen und Einsatz spezieller Hilfsmittel;
 
-3.
+3. Unterstützen der zu betreuenden Personen bei der Erfassung und Bewertung des Haushaltsbudgets, bei der Prüfung von Einsparungs- und zusätzlichen Finanzierungsmöglichkeiten sowie beim Aufstellen eines Haushaltsvoranschlages;
 
-4.
+4. Planen und Unterstützen bei Verpflegung und Nahrungsaufnahme unter Berücksichtigung alters- und krankheitsbedingter Kostformen, spezifischer Probleme bei Ernährung, Nahrungsaufnahme und des Flüssigkeitshaushaltes, von Darreichungsformen und des Einsatzes von Hilfsmitteln;
 
-5.
+5. Versorgen mit bedarfsgerechter Kleidung und situationsgerechter Haushaltswäsche unter besonderer Beachtung hygienischer Anforderungen bei Wäsche und Reinigung;
 
-6.
+6. Analysieren der Wohnsituation, Gestalten und Pflegen einer bedarfsgerechten Wohnung unter Vermeidung von Unfallgefahren.
 
 ### § 5 — Bereich Betreuung bei alltagsbezogenen Verrichtungen
 
 Im Bereich "Betreuung bei alltagsbezogenen Verrichtungen" soll der Prüfungsteilnehmer nachweisen, daß er in der Lage ist, die zu betreuenden Personen, insbesondere ältere Menschen, bei den alltäglichen Verrichtungen im Bereich der Körperpflege und -hygiene und des An- und Auskleidens zu unterstützen. Er soll fähig sein, die zu erbringenden Unterstützungsaufgaben nach Vorgaben der zu betreuenden Personen wahrzunehmen und durch seine Hilfestellung eine selbständige Lebensführung fördern und erhalten. Dabei soll er erkennen können, wann eine Pflegefachkraft und/oder ein Arzt hinzugezogen werden muß. In diesem Rahmen können geprüft werden:
 
-1.
+1. Planen und Dokumentieren von Betreuungsaufgaben;
 
-2.
+2. individuelle Unterstützungsmöglichkeiten bei der Körperpflege unter Beachtung der Erhaltung der Selbständigkeit sowie hygienischer Gewohnheiten;
 
-3.
+3. Beachten von Kleidungsgewohnheiten sowie Hilfestellung beim An- und Auskleiden, Kenntnisse über Spezialkleidung;
 
-4.
+4. Fördern der Mobilität durch Einbeziehung in alltägliche Verrichtungen;
 
-5.
+5. Erkennen von Ressourcen und Problemen in der alltäglichen Lebensgestaltung, Unterstützen bei der Tagesstrukturierung;
 
-6.
+6. Einleiten von Maßnahmen der Ersten Hilfe und Grundkenntnisse zur Medikamenteneinnahme, Kenntnisse über Hilfsmittel.
 
 ### § 6 — Bereich Kommunikation
 
 Im Bereich "Kommunikation" soll der Prüfungsteilnehmer nachweisen, daß er in der Lage ist, die zu betreuenden Personen in ihrer individuellen Situation und ihrem sozialen Umfeld einzuschätzen, zu akzeptieren und mit ihrer spezifischen Lebenssituation umzugehen. Er muß alters-, krankheits- und behinderungsbedingte Veränderungen erkennen und situationsbezogen darauf reagieren können. Neben Kenntnissen von Formen der Alltagskommunikation ist die Befähigung zur Gesprächsführung nachzuweisen. Der Prüfungsteilnehmer soll fähig sein, die zu betreuenden Personen im Hinblick auf Erhaltung oder Wiedergewinnung der Selbständigkeit zu unterstützen und zu motivieren. In diesem Rahmen können geprüft werden:
 
-1.
+1. Vorgänge des Alterns, insbesondere im Hinblick auf Veränderungen der Persönlichkeit, der Lebenssituation sowie der Wohn- und Haushaltssituation;
 
-2.
+2. Auswirkungen individueller Lebensverläufe auf Verhalten und Einstellungen der Menschen, Konsequenzen für die Fachhauswirtschafterin/den Fachhauswirtschafter;
 
-3.
+3. Grundzüge der Kommunikation, insbesondere Gesprächsformen und Gesprächsinhalte, Techniken und Methoden der Gesprächsführung, Unterstützungs- und Motivierungsmöglichkeiten sowie Methoden der Konfliktlösung;
 
-4.
+4. Verhalten bei Kommunikations- und Gesundheitsstörungen, insbesondere Auswirkungen geriatrischer Erkrankungen auf Verhalten und Kommunikation, typische körperliche und psychische Veränderungen und Krankheiten;
 
-5.
+5. Verhalten bei Lebenskrisen, chronischen Krankheiten, Behinderungen, Sterben, Tod, Trauer;
 
-6.
+6. Kommunikation im sozialen Umfeld zur Einbeziehung von Hilfemöglichkeiten, insbesondere von Familie und Nachbarschaft;
 
-7.
+7. Möglichkeiten der Bewältigung berufsbedingter Belastungen.
 
 ### § 7 — Bereich Berufliche und rechtliche Rahmenbedingungen
 
 Im Bereich "Berufliche und rechtliche Rahmenbedingungen" soll der Prüfungsteilnehmer nachweisen, daß er Anforderungen und Aufgaben der Fachhauswirtschafterin/des Fachhauswirtschafters sowie die Grenzen seines beruflichen Handelns kennt. Er soll die Einsatzbereiche, Arbeitsvertrags- und Beschäftigungsmöglichkeiten der Fachhauswirtschafterin/des Fachhauswirtschafters kennen. Der Prüfungsteilnehmer soll Kenntnisse über einschlägige Rechtsgrundlagen, die für seinen beruflichen Verantwortungsbereich wesentlich sind, nachweisen. In diesem Rahmen können geprüft werden:
 
-1.
+1. Funktionsbild der Fachhauswirtschafterin/des Fachhauswirtschafters, insbesondere Aufgaben, Anforderungen und Weiterbildungsmöglichkeiten;
 
-2.
+2. Versorgungs- und Dienstleistungsangebote, Kooperationsmöglichkeiten und -formen und Möglichkeiten ihrer Erschließung;
 
-3.
+3. Abgrenzen zu anderen in der ambulanten, teilstationären und stationären Versorgung tätigen Berufsgruppen;
 
-4.
+4. Beschäftigungsverhältnisse, Anstellungsträger, Tarifparteien, Interessenvertretung, Berufsgenossenschaften;
 
-5.
+5. tätigkeitsbezogene Bestimmungen des Arbeitsrechts, des Berufs- und Haftungsrechts, des Arbeitsschutz- und Umweltschutzrechts;
 
-6.
+6. Grundkenntnisse über einschlägige Bestimmungen der Sozialgesetzgebung, des Familienrechts, des Erbrechts, des Strafrechts, des Datenschutzes sowie bestehende Möglichkeiten der Rechtsberatung.
 
 ### § 8 — Gliederung der Prüfung
 
 (1) Die Prüfung gliedert sich in die Teile:
 
-1.
+1. schriftliche Prüfung;
 
-2.
+2. situationsbezogene praktische Fachaufgabe;
 
-3.
-
-(2) Die schriftliche Prüfung erstreckt sich auf die in § 3 genannten Prüfungsbereiche. Die schriftliche Prüfung soll nicht länger als fünf Stunden dauern. Sie besteht je Prüfungsbereich aus einer unter Aufsicht anzufertigenden Arbeit, in der im wesentlichen Kenntnisse und Zusammenhänge aus den genannten Themenbereichen nachgewiesen werden müssen. Die Mindestzeiten betragen im Prüfungsbereich: 
-	 Die schriftliche Prüfung ist auf Antrag des Prüfungsteilnehmers oder nach Ermessen des Prüfungsausschusses durch eine mündliche Prüfung zu ergänzen, wenn sie für das Bestehen der Prüfung oder für die eindeutige Beurteilung der Prüfungsleistung von wesentlicher Bedeutung ist. Die Ergänzungsprüfung soll je Prüfungsbereich und Prüfungsteilnehmer nicht länger als zehn Minuten, im ganzen nicht länger als 30 Minuten dauern.
+3. Fachgespräch.
 
 (3) In der situationsbezogenen praktischen Fachaufgabe soll der Prüfungsteilnehmer anhand eines Fallbeispieles nachweisen, daß er in der Lage ist, eigenständig komplexe Haushaltssituationen zu erfassen, darzustellen, zu beurteilen und auftretende Probleme einzuschätzen und zu lösen. Die situationsbezogene praktische Fachaufgabe ist als Hausarbeit anzufertigen und soll zeitnah nach Durchführung der schriftlichen Prüfung gemäß Absatz 2 als Aufgabe gestellt werden. Die Hausarbeit ist 20 Tage nach Aufgabenstellung vorzulegen. Die situationsbezogene praktische Fachaufgabe soll die praktische Erfahrung des Prüfungsteilnehmers im ambulanten, teilstationären oder stationären Bereich sowie die wesentlichen Qualifikationsanforderungen an eine Fachhauswirtschafterin/einen Fachhauswirtschafter berücksichtigen. Die situationsbezogene praktische Fachaufgabe soll die Analyse einer komplexen Fallsituation einschließlich Rahmenbedingungen und vollständige realisierbare Lösungsvorschläge umfassen. Vorschläge des Prüfungsteilnehmers können berücksichtigt werden.
 
@@ -162,5 +159,3 @@ Prüfungen auf der Grundlage entsprechender Rechtsvorschriften nach § 46 Abs. 1
 Diese Verordnung tritt am 1. Januar 1997 in Kraft.
 
 ### Anlage — (zu § 10 Abs. 4)
-
-(Fundstelle: BGBl. I 1996, 1869)

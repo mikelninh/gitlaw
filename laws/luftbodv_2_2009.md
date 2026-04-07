@@ -36,9 +36,9 @@ Auf Grund des § 32 Absatz 1 Satz 1 Nummer 1, Absatz 3 Satz 2 und 3 sowie Absatz
 
 (6) Reisezeit ist
 
-1.
+1. die Zeit für die Hin- und Rückfahrt zwischen dem Wohnort und der Heimatbasis;
 
-2.
+2. die Zeit für den örtlichen Transfer vom Ruheort zum Ort des Dienstbeginns und für die Rückfahrt.
 
 (7) Bereitschaftszeit ist ein festgelegter Zeitraum, in dem sich das Besatzungsmitglied dem Luftfahrtunternehmer zur Verfügung halten muss, um für einen Flug, eine Positionierung oder für einen anderen Dienst ohne vorhergehende Ruhezeit eingesetzt werden zu können.
 
@@ -78,7 +78,7 @@ Auf Grund des § 32 Absatz 1 Satz 1 Nummer 1, Absatz 3 Satz 2 und 3 sowie Absatz
 
 (1) Der Luftfahrtunternehmer benennt gegenüber dem Besatzungsmitglied einen Ort als Heimatbasis, an dem das Besatzungsmitglied regelmäßig eine Dienstzeit oder eine Abfolge von Dienstzeiten beginnt und beendet und an dem der Luftfahrtunternehmer in der Regel nicht für die Unterbringung des betreffenden Besatzungsmitglieds verantwortlich ist.
 
-(2) Die höchstzulässige kalenderjährliche Dienstzeit beträgt 2 000 Stunden. Bei nicht ganzjähriger Beschäftigung ist die höchstzulässige Dienstzeit anteilig zu kürzen. Im Übrigen soll sie möglichst gleichmäßig über das Jahr verteilt werden.
+(2) Die höchstzulässige kalenderjährliche Dienstzeit beträgt 2 000 Stunden. Bei nicht ganzjähriger Beschäftigung ist die höchstzulässige Dienstzeit anteilig zu kürzen. Im Übrigen soll sie möglichst gleichmäßig über das Jahr verteilt werden.
 
 (3) Absatz 2 gilt nicht für Selbstständige.
 
@@ -96,15 +96,15 @@ Auf Grund des § 32 Absatz 1 Satz 1 Nummer 1, Absatz 3 Satz 2 und 3 sowie Absatz
 
 (1) Die Flugdienstzeit umfasst
 
-1.
+1. die Zeiten für Vorarbeiten vom angeordneten Antritt des Flugdienstes bis zum Beginn der Blockzeit, mindestens jedoch eine halbe Stunde,
 
-2.
+2. die Blockzeit,
 
-3.
+3. mindestens 15 Minuten für Abschlussarbeiten nach dem Ende der Blockzeit,
 
-4.
+4. die auf Anordnung im Flugübungsgerät verbrachte Zeit einschließlich der Zeiten für Vor- und Abschlussarbeiten nach den Nummern 1 und 3,
 
-5.
+5. die Zeit, die nach § 13 und § 14 als Flugdienstzeit anzurechnen ist.
 
 (2) Überschreiten die tatsächlichen Zeiten die bei der Planung des Flugdienstes eingesetzten Zeiten, so sind die tatsächlichen Zeiten zur Ermittlung der Flugdienstzeit in Ansatz zu bringen.
 
@@ -122,15 +122,15 @@ Auf Grund des § 32 Absatz 1 Satz 1 Nummer 1, Absatz 3 Satz 2 und 3 sowie Absatz
 
 (5) Endet die Flugdienstzeit im Tagesrhythmus-Tief oder umfasst sie es ganz, werden von der nach Absatz 2 höchstzulässigen Zeitverlängerung von vier Stunden 50 Prozent der Überschneidung abgezogen.
 
-(6) Eine nach den Absätzen 4 oder 5 verringerte Zeitverlängerung istzu kürzen.
+(6) Eine nach den Absätzen 4 oder 5 verringerte Zeitverlängerung ist
 
-1.
+1. bei mehr als drei, jedoch weniger als sechs Landungen um eine weitere Stunde,
 
-2.
+2. bei mehr als fünf Landungen um weitere zwei Stunden
 
 (7) Beginnt eine verlängerte Flugdienstzeit in der Zeit von 22 Uhr bis 5 Uhr Ortszeit des Startflugplatzes, hat der Luftfahrtunternehmer die Flugdienstzeit auf elf Stunden und 45 Minuten zu begrenzen.
 
-(8) Die Flugdienstzeiten dürfen innerhalb 30 aufeinanderfolgender Tage 210 Stunden, innerhalb eines Kalenderjahres 1 800 Stunden nicht überschreiten.
+(8) Die Flugdienstzeiten dürfen innerhalb 30 aufeinanderfolgender Tage 210 Stunden, innerhalb eines Kalenderjahres 1 800 Stunden nicht überschreiten.
 
 ### § 9 — Verlängerung der Flugdienstzeit bei verstärkter Besatzung
 
@@ -142,13 +142,13 @@ Die Aufsichtsbehörde kann auf schriftlichen Antrag eine zweimalige Verlängerun
 
 (2) Sofern in den Fällen des Absatzes 1 die Dienstzeiten die höchstzulässigen täglichen Flugdienstzeiten nach § 8 Absatz 1 bis 7 überschreiten, gelten folgende Maßgaben:
 
-1.
+1. Jedes Flugbesatzungsmitglied darf nicht länger als zehn Stunden ein Luftfahrzeug führen und bedienen.
 
-2.
+2. Innerhalb des Flugdienstes dürfen nicht mehr als zwei Landungen nach der Pause geplant werden.
 
-3.
+3. Innerhalb jeweils sieben aufeinanderfolgender Tage dürfen nicht mehr als zwei Flugdienste nach Absatz 2 geleistet werden.
 
-4.
+4. Flugdienste nach Absatz 2 und § 9 dürfen nicht innerhalb von sieben aufeinanderfolgenden Tagen geleistet werden.
 
 (3) Können bei einem Flugdienst mit Unterbrechung die Voraussetzungen nach § 15 Absatz 1 nicht eingehalten werden, ist eine Ruhezeit von mindestens zwölf Stunden unmittelbar nach Beendigung des Flugdienstes zu gewähren.
 
@@ -170,9 +170,9 @@ Die für die Positionierung aufgewendete Zeit gilt als Dienstzeit. Die Positioni
 
 (1) Bereitschaftszeit ist als Flugdienstzeit anzurechnen, wenn Bereitschaftszeit und Flugdienstzeit nicht durch eine Ruhezeit nach § 15 unterbrochen werden und
 
-1.
+1. entweder dem Besatzungsmitglied während der Bereitschaftszeit kein ruhig gelegener Raum mit Schlafgelegenheit zur Verfügung steht,
 
-2.
+2. oder dem Besatzungsmitglied während der Bereitschaftszeit ein ruhig gelegener Raum mit Schlafgelegenheit zur Verfügung steht, die Bereitschaftszeit jedoch weniger als zwei Stunden beträgt, es sei denn, die Bereitschaftszeit wird im Anschluss an eine Ruhezeit abgeleistet.
 
 (2) Steht dem Besatzungsmitglied ein ruhig gelegener Raum mit Schlafgelegenheit zur Verfügung, kann die Bereitschaftszeit als Pause gewertet werden.
 
@@ -182,11 +182,7 @@ Die für die Positionierung aufgewendete Zeit gilt als Dienstzeit. Die Positioni
 
 ### § 15 — Ruhezeiten der Besatzungsmitglieder
 
-(1) Innerhalb einer 24-Stunden-Periode ist jedem Besatzungsmitglied eine Ruhezeit von mindestens zehn Stunden zu gewähren. Eine 24-Stunden-Periode beginnt zu dem Zeitpunkt, an dem eine Ruhezeit endet. Die Ruhezeit ist bei einer nach § 9, § 10 oder § 18 Absatz 1 verlängerten Flugdienstzeit von mehr als 14 Stunden unmittelbar nach Beendigung des Flugdienstes zu gewähren. Eine Beförderung des Besatzungsmitgliedes vom Einsatzort an seine Heimatbasis ohne Anrechnung auf die Ruhezeit ist zulässig.
-
 (2) Die Mindestruhezeit ist nach einem nach § 8 Absatz 2 bis 7, § 9, § 10 oder § 18 Absatz 1 verlängerten Flugdienst von mehr als elf Stunden auf zwölf Stunden, von mehr als zwölf Stunden auf 14 Stunden, von mehr als 14 Stunden auf 16 Stunden und von mehr als 16 Stunden auf 18 Stunden zu erhöhen.
-
-(3) Der Luftfahrtunternehmer hat sicherzustellen, dass die Mindestruhezeit nach Absatz 1 und 2 regelmäßig auf eine wöchentliche Ruhezeit in Form eines 36-Stunden-Zeitraums einschließlich zweier Ortsnächte in der Weise ausgedehnt wird, dass zwischen dem Ende einer wöchentlichen Ruhezeit und dem Beginn der nächsten nicht mehr als 168 Stunden liegen. Bei Vorliegen eines wichtigen Grundes kann die Aufsichtsbehörde abweichend von Satz 1 festlegen, dass die zweite dieser Ortsnächte um 20 Uhr beginnen kann, wenn die wöchentliche Ruhezeit eine Dauer von mindestens 40 Stunden hat.
 
 (4) Bei Mindestruhezeiten außerhalb der Heimatbasis muss der Luftfahrtunternehmer dafür sorgen, dass die Möglichkeit von acht Stunden Schlaf gewährt wird, wobei die Reisezeit und andere physiologische Bedürfnisse zu berücksichtigen sind. Der Unternehmer hat an den Orten außerhalb der Heimatbasis, an denen den Besatzungsmitgliedern eine Ruhezeit zu gewähren ist, für die Bereitstellung ruhig gelegener Räume mit Schlafgelegenheit zu sorgen.
 
@@ -214,23 +210,23 @@ Besteht zwischen dem Ort des Antritts des Flugdienstes und dem Ort der Beendigun
 
 (2) Wichtige Gründe für die Verlängerung der Flugdienstzeit oder für die Verkürzung der Ruhezeit können insbesondere sein:
 
-1.
+1. Undurchführbarkeit eines Fluges auf Grund der vorgeschriebenen Flugdienst- und Ruhezeiten und mangels geeigneter Flugplätze für Zwischenlandungen,
 
-2.
+2. nachteilige Auswirkungen auf die Gesamtbelastung der Besatzungsmitglieder bei Einhaltung der vorgeschriebenen Flugdienst- und Ruhezeiten,
 
-3.
+3. unverhältnismäßig hoher Mehraufwand für bestimmte Flüge bei Einhaltung der vorgeschriebenen Flugdienst- und Ruhezeiten.
 
 (3) Verlängerungen der Flugdienstzeiten oder Verkürzungen der Ruhezeiten nach Absatz 1 sind nur zulässig, wenn die erhöhte Belastung der Besatzung ausgeglichen wird und eine Gefahr für die Sicherheit des Luftverkehrs ausgeschlossen ist.
 
 (4) Bei Prüfung des Antrags werden berücksichtigt:
 
-1.
+1. die Betriebsausrüstung und deren Zustand der verwendeten Luftfahrzeuge,
 
-2.
+2. die Zusammensetzung der Besatzung und deren Flug-, Strecken- und Luftfahrzeugmustererfahrung,
 
-3.
+3. die Anzahl von Zwischenlandungen,
 
-4.
+4. sonstige die Belastung der Besatzung beeinflussende Faktoren.
 
 (5) Die Abweichungen können im Einzelfall oder allgemein zugelassen, mit Auflagen verbunden und befristet werden.
 
@@ -238,27 +234,27 @@ Besteht zwischen dem Ort des Antritts des Flugdienstes und dem Ort der Beendigun
 
 (1) Die Aufsichtsbehörde kann für Flüge zum Zwecke der Forschung, für Arbeits- und Wettbewerbsflüge Ausnahmen von den Vorschriften dieser Verordnung zulassen, wenn:
 
-1.
+1. bei Einhaltung der Vorschriften der Zweck der Forschungs-, Arbeits- oder Wettbewerbsflüge gefährdet ist,
 
-2.
+2. die Ausnahmen auf Flüge ohne die Beförderung von Personen, bei Arbeits- und Wettbewerbsflügen zusätzlich auf Flüge nach Sichtflugregeln beschränkt bleiben,
 
-3.
+3. eine Gefahr für die öffentliche Sicherheit und Ordnung ausgeschlossen ist.
 
 (2) Die Ausnahmen können im Einzelfall oder allgemein zugelassen, mit Auflagen verbunden und befristet werden.
 
 ### § 20 — Abweichungen bei besonderen Belastungen
 
-Treten besondere Belastungen auf, insbesondere wegenkann die Aufsichtsbehörde im Rahmen der Anerkennung der vom Unternehmer festzulegenden höchstzulässigen Flugdienstzeiten und angemessenen Ruhezeiten geringere Flugdienstzeiten oder längere Ruhezeiten für die Besatzungsmitglieder festlegen, soweit dies aus Gründen der Sicherheit des Luftverkehrs erforderlich ist.
+Treten besondere Belastungen auf, insbesondere wegen
 
-1.
+1. der Betriebsausrüstung und deren Zustand oder der Betriebseigenschaften der verwendeten Luftfahrzeuge,
 
-2.
+2. des Einsatzes von Besatzungsmitgliedern mit geringer Flug-, Strecken- oder Luftfahrzeugmustererfahrung,
 
-3.
+3. erschwerter Flugdurchführung insbesondere auf Strecken mit fehlenden oder unzureichenden Navigationshilfen, hoher Luftverkehrsdichte oder häufigem Schlechtwetter,
 
-4.
+4. der Verwendung neuer Luftfahrzeugmuster,
 
-5.
+5. der Anzahl von Zwischenlandungen,
 
 ## Abschnitt 8: Abweichende Regelungen für Besatzungsmitglieder, die in Hubschraubern des Rettungsdienstes eingesetzt werden
 
@@ -272,7 +268,7 @@ Treten besondere Belastungen auf, insbesondere wegenkann die Aufsichtsbehörde i
 
 (4) Flugdienstzeit und Bereitschaftszeit nach Absatz 6 dürfen zwischen zwei Ruhezeiten in Abweichung von § 10 nicht mehr als 15 Stunden und 30 Minuten betragen.
 
-(5) Die Flugdienstzeiten dürfen in Abweichung zu § 8 Absatz 8 innerhalb 30 aufeinanderfolgender Tage 210 Stunden, innerhalb von zwölf aufeinanderfolgender Monate 1 800 Stunden nicht überschreiten.
+(5) Die Flugdienstzeiten dürfen in Abweichung zu § 8 Absatz 8 innerhalb 30 aufeinanderfolgender Tage 210 Stunden, innerhalb von zwölf aufeinanderfolgender Monate 1 800 Stunden nicht überschreiten.
 
 (6) Bereitschaftszeit ist die Zeit, in der sich Besatzungsmitglieder an der Luftrettungsbasis zum Flugdienst bereithält. Steht dem Besatzungsmitglied ein ruhig gelegener Raum mit Schlafgelegenheit zur Verfügung, kann die Bereitschaftszeit als Pause gewertet werden. Bereitschaftszeiten von weniger als einer Stunde Dauer zwischen zwei Einsätzen sind in Abweichung zu § 14 Absatz 2 Satz 2 dabei als Flugdienstzeit anzurechnen. Bereitschaftszeit, in der dem Besatzungsmitglied kein ruhig gelegener Raum mit Schlafgelegenheit zur Verfügung steht, ist voll als Flugdienstzeit anzurechnen.
 

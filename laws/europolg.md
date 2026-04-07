@@ -9,11 +9,11 @@
 ## § 1: Zuständigkeiten und Aufgaben
 
 
-Das Bundeskriminalamt ist zuständige Behörde im Rahmen der Verordnung (EU) 2016/794 Trägt nach § 2 Absatz 2 innerstaatlich eine andere Stelle für die von einem Antrag auf Auskunftserteilung betroffenen Daten die datenschutzrechtliche Verantwortung, nimmt das Bundeskriminalamt die nach Artikel 36 Absatz 5 der Verordnung (EU) 2016/794 vorgesehene Mitwirkung im Einvernehmen mit dieser Stelle wahr.
+Das Bundeskriminalamt ist zuständige Behörde im Rahmen der Verordnung (EU) 2016/794
 
-1.
+1. als nationale Stelle nach Artikel 7 Absatz 2 Satz 1 der Verordnung (EU) 2016/794,
 
-2.
+2. als nationale Behörde nach Artikel 36 Absatz 3 der Verordnung (EU) 2016/794.
 
 ## § 2: Gemeinsame Vorschriften für die Informationsverarbeitung im Zusammenhang mit Europol
 
@@ -22,19 +22,19 @@ Das Bundeskriminalamt ist zuständige Behörde im Rahmen der Verordnung (EU) 201
 
 (2) Das Bundeskriminalamt kann Daten, die an Europol übermittelt werden sollen oder übermittelt worden sind, in seinem Informationssystem verarbeiten, soweit dies zur Erfüllung seiner Aufgaben als nationale Stelle erforderlich ist.
 
-(3) Zur Unterstützung des Informationsaustausches im Rahmen der Verhütung und Verfolgung von Straftaten können die folgenden Behörden unmittelbar mit den deutschen Verbindungsbeamten bei Europol gemäß Artikel 8 Absatz 3 und 4 der Verordnung (EU) 2016/794 Daten austauschen, soweit dies zur Beschleunigung des Geschäftsganges erforderlich und ein nationaler Koordinierungsbedarf nicht erkennbar ist: Das Bundeskriminalamt ist nachrichtlich zu beteiligen.
+(3) Zur Unterstützung des Informationsaustausches im Rahmen der Verhütung und Verfolgung von Straftaten können die folgenden Behörden unmittelbar mit den deutschen Verbindungsbeamten bei Europol gemäß Artikel 8 Absatz 3 und 4 der Verordnung (EU) 2016/794 Daten austauschen, soweit dies zur Beschleunigung des Geschäftsganges erforderlich und ein nationaler Koordinierungsbedarf nicht erkennbar ist:
 
-1.
+1. die Behörden der Bundespolizei,
 
-2.
+2. die Behörden des Zollfahndungsdienstes nach § 1 des Zollfahndungsdienstgesetzes,
 
-3.
+3. die Hauptzollämter nach § 1 Nummer 3 des Finanzverwaltungsgesetzes,
 
-4.
+4. weitere Ermittlungsbehörden der Bundesfinanzverwaltung, soweit diese für die Verhütung und Bekämpfung von Straftaten nach Artikel 3 der Verordnung (EU) 2016/794 zuständig sind,
 
-5.
+5. die Polizeien der Länder sowie
 
-6.
+6. die mit der Steuerfahndung betrauten Dienststellen der Landesfinanzbehörden.
 
 (4) Die datenschutzrechtliche Verantwortung nach Artikel 38 Absatz 2 Buchstabe a, Absatz 5 Buchstabe a und Absatz 7 der Verordnung (EU) 2016/794 für die Rechtmäßigkeit der Erhebung, die Zulässigkeit der Übermittlung an Europol, die Übermittlung an das Bundeskriminalamt sowie die Zuverlässigkeit der Quelle, Richtigkeit und Aktualität der Daten obliegt innerstaatlich der übermittelnden Stelle. Die Verantwortung für die Zulässigkeit des Zugriffs auf Daten bei Europol trägt innerstaatlich die zugreifende Stelle. Die datenschutzrechtliche Verantwortung des Bundeskriminalamts als nationale Stelle bleibt unberührt. Die datenschutzrechtlichen Verwendungsbeschränkungen nach nationalem Recht bleiben für die nationale Verwendung der an Europol übermittelten Daten unberührt.
 
@@ -43,17 +43,17 @@ Das Bundeskriminalamt ist zuständige Behörde im Rahmen der Verordnung (EU) 201
 
 (1) Unbeschadet des § 1 Satz 1 Nummer 1 sind die in § 2 Absatz 3 Satz 1 genannten Behörden innerstaatlich befugt, über das Bundeskriminalamt Daten an Europol zum Zweck der Verarbeitung nach Artikel 18 Absatz 2 Buchstabe a bis c und f der Verordnung (EU) 2016/794 zu übermitteln und nach Maßgabe des Artikels 20 Absatz 1, 2 und 2a der Verordnung (EU) 2016/794 auf zu diesem Zweck übermittelte Daten zuzugreifen. Soweit die übermittelnde Stelle Daten über das Bundeskriminalamt an Europol im Rahmen von Projekten der operativen Analyse nach Artikel 18 Absatz 2 Buchstabe c und Absatz 3 der Verordnung (EU) 2016/794 übermittelt, teilt sie mit, ob und welche Informationen Europol ausgewählten anderen Mitgliedstaaten für gemeinsame operative Analysen nach Artikel 20 Absatz 2a der Verordnung (EU) 2016/794 direkt zugänglich machen darf. Nur die übermittelnde Stelle ist befugt, die übermittelten Daten zu ändern, zu berichtigen oder zu löschen; die datenschutzrechtliche Verantwortung des Bundeskriminalamts als Zentralstelle bleibt unberührt. Die datenschutzrechtlichen Verwendungsbeschränkungen nach nationalem Recht bleiben für die nationale Verwendung der an Europol übermittelten Daten unberührt. Hat eine zur Übermittlung berechtigte Stelle Anhaltspunkte dafür, dass Daten unrichtig sind, teilt sie dies umgehend der übermittelnden Stelle mit, die verpflichtet ist, diese Mitteilung unverzüglich zu prüfen und erforderlichenfalls die Daten unverzüglich zu ändern, zu berichtigen oder zu löschen.
 
-(1a) Unbeschadet des § 1 Satz 1 Nummer 1 sind die in § 2 Absatz 3 Satz 1 genannten Behörden innerstaatlich befugt, In den Fällen des Satzes 1 gilt Absatz 1 Satz 2 bis 5 entsprechend. Die übermittelnde Stelle informiert unverzüglich das Bundeskriminalamt, wenn die Voraussetzung des Artikels 18a Absatz 2 Unterabsatz 1 der Verordnung (EU) 2016/794 eintritt oder wenn im Falle des Artikels 18a Absatz 4 Unterabsatz 1 oder Unterabsatz 2 der Verordnung (EU) 2016/794 das Gerichtsverfahren nicht mehr anhängig ist.
+(1a) Unbeschadet des § 1 Satz 1 Nummer 1 sind die in § 2 Absatz 3 Satz 1 genannten Behörden innerstaatlich befugt,
 
-1.
+1. über das Bundeskriminalamt Daten an Europol zum Zweck der Verarbeitung nach Artikel 18a Absatz 1 Unterabsatz 1 Buchstabe a und Absatz 4 der Verordnung (EU) 2016/794 zu übermitteln und
 
-2.
+2. nach Maßgabe des Artikels 20 Absatz 1, 2 und 2a der Verordnung (EU) 2016/794 auf zu diesem Zweck übermittelte Daten zuzugreifen.
 
-(2) Von Personen nach Buchstabe A Absatz 1 Buchstabe a des Anhangs II zur Verordnung (EU) 2016/794 dürfen nur übermittelt werden, soweit die Weiterverarbeitung der Daten erforderlich ist, weil wegen der Art oder Ausführung der Tat, der Persönlichkeit der betroffenen Person oder sonstiger Erkenntnisse Grund zu der Annahme besteht, dass zukünftige Strafverfahren gegen sie zu führen sind.
+(2) Von Personen nach Buchstabe A Absatz 1 Buchstabe a des Anhangs II zur Verordnung (EU) 2016/794 dürfen
 
-1.
+1. bei Personen, die einer Straftat verdächtig sind, die in Buchstabe A Absatz 2 und 3 des Anhangs II zur Verordnung (EU) 2016/794 genannten Daten und
 
-2.
+2. bei Verurteilten und Beschuldigten, die in Buchstabe A Absatz 3 Buchstabe b und d des Anhangs II zur Verordnung (EU) 2016/794 genannten Daten
 
 ## § 4: Anwendung anderer Vorschriften
 

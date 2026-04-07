@@ -19,4 +19,4 @@ Der Tag, an dem der Staatsvertrag nach seinem Artikel 5 in Kraft tritt, ist im B
 
 ### Anlage
 
-(Fundstelle: BGBl. I 2018, 2258 - 2259)(Text der Anlage siehe: WAStAÜStVtr)
+(Text der Anlage siehe: WAStAÜStVtr)

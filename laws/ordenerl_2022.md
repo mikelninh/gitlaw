@@ -19,8 +19,4 @@ Dieser Erlass tritt am Tag nach der Verkündung in Kraft.
 
 ### Schlussformel
 
-Der Bundespräsident
-
 ### Anlage
-
-(Fundstelle: BGBl. I 2022, 1495 - 1498)(Text der Anlage siehe: FluthilfeMedErl 2022)

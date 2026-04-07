@@ -9,7 +9,19 @@ Raumfahrt
 
 ### § 1 — Aufgabenübertragung
 
-(1) Die für Raumfahrtangelegenheiten zuständigen obersten Bundesbehörden verleihen dem Deutschen Zentrum für Luft- und Raumfahrt e.V. (DLR) die Befugnis, Verwaltungsaufgaben auf dem Gebiet der Raumfahrt im eigenen Namen und in den Handlungsformen des öffentlichen Rechts wahrzunehmen.(2) Verwaltungsaufgaben im Sinne des Absatzes 1 sind 1.die Erstellung der deutschen Raumfahrtplanung, 2.die Durchführung der deutschen Raumfahrtprogramme, insbesondere durch Vergabe von Aufträgen und Zuwendungen, 3.die Wahrnehmung deutscher Raumfahrtinteressen im internationalen Bereich, insbesondere gegenüber der Europäischen Weltraumorganisation. (3) Über Widersprüche gegen Verwaltungsakte, die das DLR aufgrund der ihm übertragenen Befugnisse erlassen hat, entscheidet dieses selbst.(4) Das DLR unterliegt hinsichtlich der Durchführung der übertragenen Verwaltungsaufgaben auf dem Gebiet der Raumfahrt der Aufsicht der auftraggebenden obersten Bundesbehörden.
+(1) Die für Raumfahrtangelegenheiten zuständigen obersten Bundesbehörden verleihen dem Deutschen Zentrum für Luft- und Raumfahrt e.V. (DLR) die Befugnis, Verwaltungsaufgaben auf dem Gebiet der Raumfahrt im eigenen Namen und in den Handlungsformen des öffentlichen Rechts wahrzunehmen.
+
+(2) Verwaltungsaufgaben im Sinne des Absatzes 1 sind
+
+1. die Erstellung der deutschen Raumfahrtplanung,
+
+2. die Durchführung der deutschen Raumfahrtprogramme, insbesondere durch Vergabe von Aufträgen und Zuwendungen,
+
+3. die Wahrnehmung deutscher Raumfahrtinteressen im internationalen Bereich, insbesondere gegenüber der Europäischen Weltraumorganisation.
+
+(3) Über Widersprüche gegen Verwaltungsakte, die das DLR aufgrund der ihm übertragenen Befugnisse erlassen hat, entscheidet dieses selbst.
+
+(4) Das DLR unterliegt hinsichtlich der Durchführung der übertragenen Verwaltungsaufgaben auf dem Gebiet der Raumfahrt der Aufsicht der auftraggebenden obersten Bundesbehörden.
 
 ### § 2
 

@@ -13,33 +13,9 @@ Auf Grund des § 1 Absatz 5 Nummer 2 und 3 des Auswandererschutzgesetzes in der 
 
 (1) Der Antrag auf Erteilung der Erlaubnis zur Auswandererberatung muss enthalten:
 
-1.
+1. personenbezogene Daten des Antragstellers: a)Familienname,b)Geburtsname,c)Vornamen,d)Geschlecht,e)Geburtsdatum,f)Geburtsort,g)Staatsangehörigkeit,h)Beruf,i)Wohnsitz oder gewöhnlicher Aufenthalt,j)Telekommunikationsdaten; Familienname, Geburtsname, Vornamen, Geschlecht, Geburtsdatum, Geburtsort, Staatsangehörigkeit, Beruf, Wohnsitz oder gewöhnlicher Aufenthalt, Telekommunikationsdaten;
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-2.
-
-a)
-
-b)
+2. geschäftsbezogene Daten: a)Anschrift der Hauptniederlassung,b)Anschrift jeder Zweigniederlassung. Anschrift der Hauptniederlassung, Anschrift jeder Zweigniederlassung.
 
 (2) Für den Antrag ist das Muster nach der Anlage zu verwenden.
 
@@ -47,11 +23,11 @@ b)
 
 ### § 2 — Beurteilung der Persönlichen Zuverlässigkeit
 
-(1) Zur Beurteilung der persönlichen Zuverlässigkeit im Sinne des § 1 Absatz 1 Satz 2 des Auswandererschutzgesetzes hat der Antragsteller mit seinem Antrag folgende Unterlagen vorzulegen: Mit dem Antrag auf die Erlaubnis ist nach § 30, auch in Verbindung mit § 30b, des Bundeszentralregistergesetzes ein Führungszeugnis zur Vorlage beim Bundesverwaltungsamt zu beantragen.
+(1) Zur Beurteilung der persönlichen Zuverlässigkeit im Sinne des § 1 Absatz 1 Satz 2 des Auswandererschutzgesetzes hat der Antragsteller mit seinem Antrag folgende Unterlagen vorzulegen:
 
-1.
+1. Lebenslauf,
 
-2.
+2. Kopie des Personalausweises oder des Reisepasses oder im Falle der Staatsangehörigkeit eines anderen Staates eine gleichwertige Unterlage.
 
 (2) Wird der Antrag auf die Erlaubnis von einer selbständig tätigen Person oder von einer juristischen Person für unselbständig beschäftigte Mitarbeiter gestellt, so kann das Bundesverwaltungsamt zusätzlich eine Unbedenklichkeitsbescheinigung des zuständigen Finanzamtes oder bei ausländischen Antragstellern ein vergleichbares Dokument verlangen.
 
@@ -61,13 +37,13 @@ b)
 
 Der Bewerber hat zur Beurteilung seiner Sachkunde Unterlagen vorzulegen, aus denen seine Qualifikation für die Beratertätigkeit deutlich wird. Die Sachkunde kann insbesondere durch im Studium und in Aus- und Fortbildungen erworbene Zeugnisse, Zertifikate und ähnliche Urkunden belegt werden. Die erforderliche Sachkunde umfasst insbesondere:
 
-1.
+1. Berufstätigkeit/Berufserfahrung,
 
-2.
+2. Auslandsaufenthalte,
 
-3.
+3. Kenntnisse des einschlägigen deutschen Rechts,
 
-4.
+4. Kenntnisse des ausländischen Rechts hinsichtlich der Staaten, für die die Auswandererberatung erbracht werden soll, insbesondere hinsichtlich des jeweiligen Einwanderungsrechts, Staatsangehörigkeitsrechts, Arbeitsrechts und Sozialversicherungsrechts.
 
 ### § 4 — Mitteilungspflicht
 
@@ -83,76 +59,10 @@ Ort, Datum
 
 Absender
 
-Bundesverwaltungsamt Referat II B 6 50728 Köln
-
-Antrag/Anträge auf Erlaubnis zur Auswanderungsberatung gemäß § 1 des Auswandererschutzgesetzes (AuswSG)
-
-Sehr geehrte Damen und Herren,
-
-in der Anlage übersende(n) ich/wir Ihnen den Antrag/die Anträge für folgende Personen mit der Bitte um weitere Veranlassung.
-
 Ort, Datum
 
 Absender
 
-Bundesverwaltungsamt Referat II B 6 50728 Köln
-
-Antrag auf Erlaubnis zur Auswanderungsberatung gemäß § 1 des Auswandererschutzgesetzes (AuswSG)
-
-Sehr geehrte Damen und Herren,
-
-ich beantrage die Erlaubnis zur Auswanderungsberatung.
-
-Antragsbegründende Unterlagen habe ich diesem Antrag beigefügt:
-
-Anrede (Titel, Frau, Herr):
-
-Familienname:
-
-Geburtsname:
-
-Vorname(n):
-
-Geschlecht:
-
-Geburtsdatum:
-
-Geburtsort/Land:
-
-Staatsangehörigkeit(en):
-
-Beruf(e):
-
-Wohnsitz oder gewöhnlicher Aufenthalt:
-
 Telekommunikationsdaten:
-
-Telefon
-
-E-Mail-Adresse (optional)
-
-II. Geschäftsbezogene Daten
-
-Hauptniederlassung (Adresse):
-
-Zweigniederlassung (Adresse):
-
-III. Nachweis der persönlichen Zuverlässigkeit
-
-(Zutreffendes bitte ankreuzen)
-
-IV. Nachweis der Sachkunde
-
-(Zutreffendes bitte ankreuzen)
-
-Wenn ja, Nachweise (Kopien):
-
-Wenn ja, Nachweise (Kopien):
-
-Wenn ja, Nachweise (Kopien):
-
-Wenn ja, Nachweise (Kopien):
-
-Hinweis:
 
 Gegebenenfalls können weitere Unterlagen gefordert werden.

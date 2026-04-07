@@ -11,13 +11,13 @@
 
 (2) Ein Anspruch auf Zahlung einer einmaligen Energiepreispauschale in Höhe von 200 Euro besteht ferner für jede Person, die am 1. Dezember 2022 für den Besuch angemeldet war an:
 
-1.
+1. einer im Inland gelegenen Ausbildungsstätte im Sinne des § 2 Absatz 1 Satz 1 Nummer 2 des Bundesausbildungsförderungsgesetzes,
 
-2.
+2. einer im Inland gelegenen Ausbildungsstätte im Sinne des § 2 Absatz 1 Satz 1 Nummer 3 des Bundesausbildungsförderungsgesetzes, mit Ausnahme der Fachoberschulen,
 
-3.
+3. einer im Inland gelegenen Ausbildungsstätte im Sinne des § 2 Absatz 1 Satz 1 Nummer 5 des Bundesausbildungsförderungsgesetzes oder
 
-4.
+4. einer im Inland gelegenen Ausbildungsstätte, die in einer Rechtsverordnung nach § 2 Absatz 3 Nummer 1 des Bundesausbildungsförderungsgesetzes erfasst ist, sofern die Ausbildungsstätte einer Ausbildungsstätte nach den Nummern 1 bis 3 zugeordnet werden kann, mit Ausnahme der Verordnung über die Ausbildungsförderung für die Teilnahme an Vorkursen zur Vorbereitung des Besuchs von Kollegs und Hochschulen.
 
 (3) § 2 Absatz 1 Satz 2 des Bundesausbildungsförderungsgesetzes ist entsprechend anzuwenden. § 2 Absatz 1 Satz 3 des Bundesausbildungsförderungsgesetzes ist mit der Maßgabe anzuwenden, dass nur solche Ersatzschulen erfasst sind, die eine in Absatz 2 genannte Ausbildungsstätte ersetzen.
 
@@ -27,7 +27,7 @@
 
 ### § 2 — Zuständigkeit, Verordnungsermächtigung, Antragserfordernis
 
-(1) Zuständig für die Durchführung dieses Gesetzes sind die nach Landesrecht zuständigen Stellen. Die Landesregierungen werden ermächtigt, die für die Bewilligung der einmaligen Energiepreispauschale nach § 1 zuständigen Stellen durch Rechtsverordnung zu bestimmen.
+(1) Zuständig für die Durchführung dieses Gesetzes sind die nach Landesrecht zuständigen Stellen. Die Landesregierungen werden ermächtigt, die für die Bewilligung der einmaligen Energiepreispauschale nach § 1 zuständigen Stellen durch Rechtsverordnung zu bestimmen.
 
 (2) Die Energiepreispauschale nach § 1 wird auf Antrag der anspruchsberechtigten Person von der nach Landesrecht zuständigen Stelle geleistet. Nach Ablauf des 30. September 2023 kann ein Anspruch nach § 1 nicht mehr geltend gemacht werden.
 
@@ -43,9 +43,9 @@ Einmalige Energiepreispauschalen, die ein Land aufgrund dieses Gesetzes gewährt
 
 (3) Abweichend von § 903 Absatz 1 Satz 2 der Zivilprozessordnung kann der Nachweis auch geführt werden durch die Vorlage
 
-1.
+1. des Bewilligungsbescheides über die Energiepreispauschale oder
 
-2.
+2. eines Kontoauszuges, wenn sich aus dem Kontoauszug ergibt, dass es sich bei der Gutschrift um eine Energiepreispauschale nach diesem Gesetz handelt.
 
 (4) Die Absätze 2 und 3 gelten nicht für Pfändungen wegen Rückforderungen von Energiepreispauschalen.
 

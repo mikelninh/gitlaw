@@ -12,11 +12,21 @@ Auf Grund des § 28 Abs. 3 des Saatgutverkehrsgesetzes vom 20. Mai 1968 (Bundesg
 
 ### § 1 — Einfuhranzeige
 
-(1) Unter das Saatgutverkehrsgesetz fallendes Saatgut darf nur eingeführt werden, wenn der Einführer die Absicht der Einfuhr der Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) durch Abgabe einer Einfuhranzeige gemeldet und die Bundesanstalt die Einfuhranzeige mit einem numerierten Bestätigungsvermerk versehen hat, aus dem hervorgeht, ob die Voraussetzungen des § 23 des Saatgutverkehrsgesetzes erfüllt sind. Dies gilt nicht für 1.Saatgut aus Vertragsstaaten, 2.Saatgut außer Kartoffelpflanzgut, wenn die einzuführende Saatgutmenge 2 kg nicht übersteigt. (2) Die Einfuhranzeige muß dem von der Bundesanstalt im Bundesanzeiger bekanntgemachten Muster entsprechen.
+(1) Unter das Saatgutverkehrsgesetz fallendes Saatgut darf nur eingeführt werden, wenn der Einführer die Absicht der Einfuhr der Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) durch Abgabe einer Einfuhranzeige gemeldet und die Bundesanstalt die Einfuhranzeige mit einem numerierten Bestätigungsvermerk versehen hat, aus dem hervorgeht, ob die Voraussetzungen des § 23 des Saatgutverkehrsgesetzes erfüllt sind. Dies gilt nicht für
+
+1. Saatgut aus Vertragsstaaten,
+
+2. Saatgut außer Kartoffelpflanzgut, wenn die einzuführende Saatgutmenge 2 kg nicht übersteigt.
+
+(2) Die Einfuhranzeige muß dem von der Bundesanstalt im Bundesanzeiger bekanntgemachten Muster entsprechen.
 
 ### § 2 — Verfahren
 
-(1) Die Einfuhranzeige ist in dreifacher Ausfertigung einzureichen. Die Bundesanstalt versieht eine Ausfertigung mit dem Bestätigungsvermerk und leitet sie mit einer weiteren Ausfertigung an den Einführer zurück. Die Gültigkeitsdauer des Bestätigungsvermerks ist auf sechs Monate oder, wenn die Einfuhr des Saatguts auf Grund anderer Rechtsvorschriften nur innerhalb einer kürzeren Frist zulässig ist, entsprechend zu befristen.(2) Die mit dem Bestätigungsvermerk versehene Ausfertigung der Einfuhranzeige ist vom Einführer bei der Einfuhr der abfertigenden Zollstelle vorzulegen; diese schreibt die abgefertigten Mengen darauf ab.(3) Nach Erschöpfung der Menge, auf die sich die Einfuhranzeige bezieht, oder nach Ablauf der Gültigkeitsdauer des Bestätigungsvermerks hat der Einführer die mit dem Bestätigungsvermerk versehene Ausfertigung der Einfuhranzeige unverzüglich der Bundesanstalt zurückzugeben.
+(1) Die Einfuhranzeige ist in dreifacher Ausfertigung einzureichen. Die Bundesanstalt versieht eine Ausfertigung mit dem Bestätigungsvermerk und leitet sie mit einer weiteren Ausfertigung an den Einführer zurück. Die Gültigkeitsdauer des Bestätigungsvermerks ist auf sechs Monate oder, wenn die Einfuhr des Saatguts auf Grund anderer Rechtsvorschriften nur innerhalb einer kürzeren Frist zulässig ist, entsprechend zu befristen.
+
+(2) Die mit dem Bestätigungsvermerk versehene Ausfertigung der Einfuhranzeige ist vom Einführer bei der Einfuhr der abfertigenden Zollstelle vorzulegen; diese schreibt die abgefertigten Mengen darauf ab.
+
+(3) Nach Erschöpfung der Menge, auf die sich die Einfuhranzeige bezieht, oder nach Ablauf der Gültigkeitsdauer des Bestätigungsvermerks hat der Einführer die mit dem Bestätigungsvermerk versehene Ausfertigung der Einfuhranzeige unverzüglich der Bundesanstalt zurückzugeben.
 
 ### § 3 — Amtliche Bescheinigung
 
@@ -31,5 +41,3 @@ Die Bundesanstalt kann den Bestätigungsvermerk mit der Auflage verbinden, das S
 Diese Verordnung tritt am 1. Juli 1975 in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Ernährung, Landwirtschaft und Forsten

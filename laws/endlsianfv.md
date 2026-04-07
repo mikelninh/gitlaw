@@ -11,31 +11,31 @@
 
 ### § 1 — Anwendungsbereich
 
-(1) Diese Verordnung gilt für Anlagen des Bundes zur Endlagerung radioaktiver Abfälle nach § 9a Absatz 3 Satz 1 des Atomgesetzes in der Fassung der Bekanntmachung vom 15. Juli 1985 (BGBl. I S. 1565), das zuletzt durch Artikel 239 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung, die zur Endlagerung hochradioaktiver Abfälle bestimmt sind. Sie ist im Genehmigungsverfahren nach § 9b Absatz 1a des Atomgesetzes in Verbindung mit der Atomrechtlichen Verfahrensverordnung in der Fassung der Bekanntmachung vom 3. Februar 1995 (BGBl. I S. 180), die zuletzt durch Artikel 14 der Verordnung vom 29. November 2018 (BGBl. I S. 2034) geändert worden ist, in der jeweils geltenden Fassung zu Grunde zu legen. Der Dritte nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes hat die Einhaltung der Regelungen dieser Verordnung zu gewährleisten.
+(1) Diese Verordnung gilt für Anlagen des Bundes zur Endlagerung radioaktiver Abfälle nach § 9a Absatz 3 Satz 1 des Atomgesetzes in der Fassung der Bekanntmachung vom 15. Juli 1985 (BGBl. I S. 1565), das zuletzt durch Artikel 239 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung, die zur Endlagerung hochradioaktiver Abfälle bestimmt sind. Sie ist im Genehmigungsverfahren nach § 9b Absatz 1a des Atomgesetzes in Verbindung mit der Atomrechtlichen Verfahrensverordnung in der Fassung der Bekanntmachung vom 3. Februar 1995 (BGBl. I S. 180), die zuletzt durch Artikel 14 der Verordnung vom 29. November 2018 (BGBl. I S. 2034) geändert worden ist, in der jeweils geltenden Fassung zu Grunde zu legen. Der Dritte nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes hat die Einhaltung der Regelungen dieser Verordnung zu gewährleisten.
 
 (2) Erfolgt am selben Standort eine zusätzliche Endlagerung schwach- und mittelradioaktiver Abfälle nach § 1 Absatz 6 des Standortauswahlgesetzes vom 5. Mai 2017 (BGBl. I S. 1074), das zuletzt durch Artikel 247 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung, so sind für die Endlagerung dieser weiteren radioaktiven Abfälle die Bestimmungen des § 21 zu beachten.
 
 ### § 2 — Begriffsbestimmungen
 
-Im Sinne dieser Verordnung ist oder sind: Im Übrigen sind die Begriffsbestimmungen nach § 2 des Standortauswahlgesetzes anzuwenden.
+Im Sinne dieser Verordnung ist oder sind:
 
-1.
+1. wesentliche Barrieren die Barrieren, auf denen der sichere Einschluss der radioaktiven Abfälle beruht;
 
-2.
+2. weitere Barrieren die Barrieren, die zusätzlich zu den wesentlichen Barrieren und im Zusammenwirken mit ihnen eine Ausbreitung von Radionukliden be- oder verhindern;
 
-3.
+3. Bewertungszeitraum der Zeitraum, für den die Langzeitsicherheit des Endlagers zu prüfen und darzustellen ist;
 
-4.
+4. Endlagergebinde die zur Endlagerung vorgesehenen Behälter mit radioaktiven Abfällen;
 
-5.
+5. Integrität der Erhalt der für den sicheren Einschluss der radioaktiven Abfälle relevanten Eigenschaften der Barrieren des Endlagersystems;
 
-6.
+6. Langzeitsicherheit der dauerhafte Schutz des Menschen und, soweit es um den langfristigen Schutz der menschlichen Gesundheit geht, der Umwelt vor der schädlichen Wirkung ionisierender Strahlung radioaktiver Abfälle;
 
-7.
+7. Sicherheitsbericht der Sicherheitsbericht nach § 3 Absatz 1 Nummer 1 der Atomrechtlichen Verfahrensverordnung;
 
-8.
+8. Sicherheitsfunktion eine Eigenschaft einer Komponente des Endlagersystems oder ein im Endlagersystem ablaufender Prozess, die oder der sicherheitsrelevante Anforderungen an ein sicherheitsbezogenes System oder Teilsystem oder an eine Einzelkomponente erfüllt;
 
-9.
+9. Robustheit die Unempfindlichkeit der Sicherheitsfunktionen des Endlagersystems und seiner Barrieren gegenüber inneren und äußeren Einflüssen und Störungen.
 
 > (+++ § 2: Zur Anwendung vgl. § 2 EndlSiUntV +++)
 
@@ -45,11 +45,11 @@ Im Sinne dieser Verordnung ist oder sind: Im Übrigen sind die Begriffsbestimmun
 
 (1) Der Bewertungszeitraum beträgt eine Million Jahre ab dem vorgesehenen Verschluss des Endlagers.
 
-(2) Die für die Auslegung des Endlagers und die Bewertung der Langzeitsicherheit relevanten Entwicklungen des Endlagersystems und der geologischen Situation am Endlagerstandort innerhalb des Bewertungszeitraumes sind systematisch zu ermitteln, zu beschreiben und einzuordnen als Die Einordnung ist zu begründen.
+(2) Die für die Auslegung des Endlagers und die Bewertung der Langzeitsicherheit relevanten Entwicklungen des Endlagersystems und der geologischen Situation am Endlagerstandort innerhalb des Bewertungszeitraumes sind systematisch zu ermitteln, zu beschreiben und einzuordnen als
 
-1.
+1. zu erwartende Entwicklungen oder
 
-2.
+2. abweichende Entwicklungen.
 
 (3) Als zu erwartende Entwicklungen einzuordnen sind diejenigen Entwicklungen, die sicher oder in der Regel eintreten werden, insbesondere hinsichtlich der geologischen und klimatischen Situation, der geologischen, technischen und geotechnischen Barrieren sowie der einzulagernden Abfälle.
 
@@ -69,17 +69,17 @@ Im Sinne dieser Verordnung ist oder sind: Im Übrigen sind die Begriffsbestimmun
 
 (3) Die wesentlichen Barrieren zum Erreichen des sicheren Einschlusses der radioaktiven Abfälle sind
 
-1.
+1. ein oder mehrere einschlusswirksame Gebirgsbereiche oder
 
-2.
+2. im Fall des Wirtsgesteins Kristallingestein, sofern kein einschlusswirksamer Gebirgsbereich ausgewiesen werden kann, für die jeweilige geologische Umgebung geeignete technische und geotechnische Barrieren.
 
 (4) Der sichere Einschluss muss innerhalb der wesentlichen Barrieren nach Absatz 3 so erfolgen, dass die Radionuklide aus den radioaktiven Abfällen weitestgehend am Ort ihrer ursprünglichen Einlagerung verbleiben.
 
-(5) Für die zu erwartenden Entwicklungen ist zu prüfen und darzustellen, dass im Bewertungszeitraum sowohl der Masse als auch der Anzahl der Atome aller ursprünglich eingelagerten Radionuklide aus dem Bereich der wesentlichen Barrieren ausgetragen wird. In diesen Anteilen sind auch radioaktive Zerfallsprodukte der ursprünglich eingelagerten Radionuklide zu berücksichtigen.
+(5) Für die zu erwartenden Entwicklungen ist zu prüfen und darzustellen, dass im Bewertungszeitraum
 
-1.
+1. insgesamt höchstens ein Anteil von 10–4 und
 
-2.
+2. jährlich höchstens ein Anteil von 10–9
 
 (6) Für die abweichenden Entwicklungen ist zu prüfen und darzustellen, dass das Endlagersystem im Bewertungszeitraum seine Funktion nach den Absätzen 1 bis 4 beibehält.
 
@@ -89,15 +89,11 @@ Im Sinne dieser Verordnung ist oder sind: Im Übrigen sind die Begriffsbestimmun
 
 (2) Hinsichtlich der Integrität des einschlusswirksamen Gebirgsbereichs ist zu prüfen und darzustellen, dass
 
-1.
+1. die Ausbildung von Fluidwegsamkeiten, die zum Eindringen oder Austreten von erheblichen Mengen an Flüssigkeiten oder Gasen führen können, innerhalb des einschlusswirksamen Gebirgsbereichs ausgeschlossen ist; dafür dürfen a)die Dilatanzfestigkeiten der Gesteinsformationen des einschlusswirksamen Gebirgsbereichs außerhalb der auffahrungsbedingten Auflockerungszonen auf Grund von zu erwartenden Beanspruchungen nicht überschritten werden undb)die zu erwartenden Fluiddrücke die Fluiddruckbelastbarkeiten der Gesteinsformationen des einschlusswirksamen Gebirgsbereichs nicht in einer Weise überschreiten, die zu einer erheblichen Zunahme von Fluidwegsamkeiten im einschlusswirksamen Gebirgsbereich führt; die Dilatanzfestigkeiten der Gesteinsformationen des einschlusswirksamen Gebirgsbereichs außerhalb der auffahrungsbedingten Auflockerungszonen auf Grund von zu erwartenden Beanspruchungen nicht überschritten werden und die zu erwartenden Fluiddrücke die Fluiddruckbelastbarkeiten der Gesteinsformationen des einschlusswirksamen Gebirgsbereichs nicht in einer Weise überschreiten, die zu einer erheblichen Zunahme von Fluidwegsamkeiten im einschlusswirksamen Gebirgsbereich führt;
 
-a)
+2. durch die Temperaturentwicklung die Barrierewirkung des einschlusswirksamen Gebirgsbereichs nicht erheblich beeinträchtigt wird und
 
-b)
-
-2.
-
-3.
+3. die möglichen Änderungen der chemischen Verhältnisse im Einlagerungsbereich, insbesondere auf Grund der in das Endlagerbergwerk eingebrachten Materialien, die Barrierewirkung des einschlusswirksamen Gebirgsbereichs nicht erheblich beeinträchtigen.
 
 (3) Bei der Prüfung und Darstellung sind sämtliche im Endlagerbereich aufzufahrenden oder bereits bestehenden Hohlräume und die zu ihrer Abdichtung und ihrem Verschluss vorgesehenen technischen und geotechnischen Barrieren zu berücksichtigen.
 
@@ -109,11 +105,11 @@ b)
 
 (2) Hinsichtlich der Integrität des Systems der wesentlichen technischen und geotechnischen Barrieren ist zu prüfen und darzustellen, dass die Sicherheitsfunktionen der wesentlichen technischen und geotechnischen Barrieren nicht erheblich beeinträchtigt werden durch
 
-1.
+1. die im Einlagerungsbereich möglicherweise ablaufenden hydraulischen, chemischen und physikalischen Prozesse, insbesondere Korrosion und Erosion,
 
-2.
+2. im umgebenden Gebirge auftretende Spannungen, Drücke und mögliche Gebirgsbewegungen und
 
-3.
+3. die Temperaturentwicklung.
 
 (3) Bei der Prüfung und Darstellung sind die geologische und hydrogeologische Umgebung, die Eigenschaften der weiteren Barrieren des Endlagersystems sowie die Eigenschaften der einzulagernden Abfälle zu berücksichtigen.
 
@@ -125,19 +121,19 @@ b)
 
 (2) Die Abschätzung ist sowohl für die zu erwartenden Entwicklungen als auch für die abweichenden Entwicklungen vorzunehmen. Expositionen auf Grund von Austragungen von Radionukliden aus den eingelagerten radioaktiven Abfällen sind geringfügig im Sinne von Absatz 1 Satz 1, wenn
 
-1.
+1. für die zu erwartenden Entwicklungen die abgeschätzte zusätzliche effektive Dosis für Einzelpersonen der Bevölkerung höchstens im Bereich von 10 Mikrosievert pro Kalenderjahr liegt und
 
-2.
+2. für die abweichenden Entwicklungen die abgeschätzte zusätzliche effektive Dosis für Einzelpersonen der Bevölkerung 100 Mikrosievert pro Kalenderjahr nicht überschreitet.
 
 ### § 8 — Ausschluss sich selbst tragender Kettenreaktionen
 
 (1) Es ist zu prüfen und darzustellen, dass sich selbst tragende Kettenreaktionen während des Betriebs und der Stilllegung des Endlagers sowie für die zu erwartenden und die abweichenden Entwicklungen im Bewertungszeitraum ausgeschlossen sind.
 
-(2) Um eine sich selbst tragende Kettenreaktion ausschließen zu können, muss der berechnete Neutronenmultiplikationsfaktor kleiner sein als Die Berechnung erfolgt nach der Anlage.
+(2) Um eine sich selbst tragende Kettenreaktion ausschließen zu können, muss der berechnete Neutronenmultiplikationsfaktor kleiner sein als
 
-1.
+1. 0,95 im Zeitraum von 500 Jahren nach dem geplanten Verschluss des Endlagers und
 
-2.
+2. 0,98 während des übrigen Bewertungszeitraumes.
 
 ## Abschnitt 3: Erkundung des Endlagerstandortes und Planung des Endlagers
 
@@ -167,41 +163,37 @@ b)
 
 (6) Das Sicherheitskonzept hat im Übrigen zu enthalten:
 
-1.
+1. einen Ablaufplan für die Errichtung, den Betrieb und die Stilllegung des Endlagers, der darlegt, wie die Sicherheit des Endlagers nach § 17 sichergestellt werden kann und wie die radioaktiven Abfälle in einem sicheren Zustand gehalten werden können,
 
-2.
+2. eine Darstellung der Maßnahmen, mit denen die Rückholbarkeit der eingelagerten radioaktiven Abfälle nach § 13 bis zum Beginn der Stilllegung gewährleistet wird, und
 
-3.
+3. eine Darstellung der Vorkehrungen, die zur Ermöglichung einer Bergung der eingelagerten radioaktiven Abfälle nach § 14 getroffen werden.
 
 (7) Im Sicherheitskonzept zu berücksichtigen sind Maßnahmen, die bis zum Abschluss der Stilllegung erforderlich sind
 
-1.
+1. zur Gewährleistung des erforderlichen Schutzes des Endlagers vor Störmaßnahmen und sonstigen Einwirkungen Dritter und
 
-2.
+2. zur Überwachung von Kernmaterial.
 
 ### § 11 — Auslegung des Endlagers
 
 (1) Die technische Auslegung des Endlagers ist aus dem Sicherheitskonzept abzuleiten und zu optimieren. Sie hat insbesondere Folgendes zu umfassen:
 
-1.
+1. die Definition der wesentlichen Barrieren nach § 4 Absatz 3 unter Berücksichtigung der Endlagergebinde, der Einlagerungstechnik und der Einlagerungsgeometrie, dabei a)im Fall des § 4 Absatz 3 Nummer 1 Lage und Abmessungen des einschlusswirksamen Gebirgsbereichs oderb)im Fall des § 4 Absatz 3 Nummer 2 Spezifikationen der wesentlichen technischen und geotechnischen Barrieren, im Fall des § 4 Absatz 3 Nummer 1 Lage und Abmessungen des einschlusswirksamen Gebirgsbereichs oder im Fall des § 4 Absatz 3 Nummer 2 Spezifikationen der wesentlichen technischen und geotechnischen Barrieren,
 
-a)
+2. die Definition der weiteren Barrieren des Endlagersystems unter Berücksichtigung der Endlagergebinde, der Einlagerungstechnik und der Einlagerungsgeometrie,
 
-b)
+3. die Positionierung und technische Ausführung aller untertägigen Hohlräume, insbesondere der für die Einlagerung von Endlagergebinden bestimmten Bereiche, sowie aller Tageszugänge,
 
-2.
+4. die Spezifikation der Einbauten und Geräte, die der Handhabung von Endlagergebinden dienen,
 
-3.
+5. die sicherheitstechnischen Anforderungen an die Endlagergebinde sowie die Vorgaben für die Behandlung der darin enthaltenen Abfälle nach § 3 Absatz 1 Satz 2 der Atomrechtlichen Entsorgungsverordnung vom 29. November 2018 (BGBl. I S. 2034, 2172) in der jeweils geltenden Fassung,
 
-4.
+6. das Einlagerungskonzept, insbesondere Anordnung sowie Handhabung und Kontrolle der Endlagergebinde,
 
-5.
+7. die Maßnahmen zur Gewährleistung der Rückholbarkeit bereits eingelagerter Endlagergebinde und
 
-6.
-
-7.
-
-8.
+8. die Stilllegungsmaßnahmen einschließlich der Verschlussmaßnahmen.
 
 (2) Es ist darzustellen, dass die Optimierung der Auslegung des Endlagers nach § 12 Absatz 2 abgeschlossen ist.
 
@@ -215,9 +207,9 @@ b)
 
 (1) Das Sicherheitskonzept und die technische Auslegung des Endlagers sind unter Berücksichtigung aller Umstände des Einzelfalls und unter Beachtung der Ausgewogenheit der Maßnahmen zur Erreichung folgender Ziele zu optimieren:
 
-1.
+1. die Langzeitsicherheit des Endlagers, insbesondere die Qualität des sicheren Einschlusses der radioaktiven Abfälle und Robustheit des Endlagersystems, sowie
 
-2.
+2. die Betriebssicherheit des Endlagers.
 
 (2) Die Optimierung ist abgeschlossen, wenn eine weitere Verbesserung der Sicherheit nur mit unverhältnismäßig hohem Aufwand erreicht werden kann.
 
@@ -243,21 +235,9 @@ b)
 
 (2) Die Vorkehrungen sind ausreichend, wenn
 
-1.
+1. für die zu erwartenden Entwicklungen des Endlagersystems die eingelagerten Endlagergebinde für einen Zeitraum von 500 Jahren nach dem vorgesehenen Verschluss des Endlagers a)individuell aufgefunden und identifiziert werden können,b)mechanisch so stabil sind, dass eine Handhabung ganzer Endlagergebinde möglich ist, undc)bei ihrer Handhabung keine Freisetzung von radioaktiven Aerosolen erwarten lassen und individuell aufgefunden und identifiziert werden können, mechanisch so stabil sind, dass eine Handhabung ganzer Endlagergebinde möglich ist, und bei ihrer Handhabung keine Freisetzung von radioaktiven Aerosolen erwarten lassen und
 
-a)
-
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-c)
+2. eine umfassende Dokumentation angelegt wird über a)das aufgefahrene Endlagerbergwerk einschließlich seiner Stilllegung,b)sämtliche eingelagerten Endlagergebinde einschließlich ihrer jeweiligen Beladung und Position im Endlagerbergwerk undc)die zu erwartenden und die abweichenden Entwicklungen des Endlagersystems.Die Dokumentation muss an mindestens zwei räumlich und organisatorisch voneinander getrennten Stellen möglichst langfristig verfügbar und lesbar gehalten werden. das aufgefahrene Endlagerbergwerk einschließlich seiner Stilllegung, sämtliche eingelagerten Endlagergebinde einschließlich ihrer jeweiligen Beladung und Position im Endlagerbergwerk und die zu erwartenden und die abweichenden Entwicklungen des Endlagersystems.
 
 (3) Maßnahmen, die der Ermöglichung einer Bergung dienen, dürfen die Langzeitsicherheit des Endlagers nicht gefährden.
 
@@ -269,15 +249,15 @@ c)
 
 (2) Zur Errichtung des Endlagers zählen insbesondere
 
-1.
+1. die Errichtung der übertägigen Betriebs- und Infrastrukturgebäude sowie die Errichtung der Einrichtungen zur zeitweiligen Lagerung und Handhabung von Endlagergebinden,
 
-2.
+2. die Errichtung der Zugangs- und Bewetterungsbauwerke,
 
-3.
+3. das Auffahren der untertägigen Infrastrukturbereiche und das Auffahren der Ansatzpunkte für Zugangsstrecken zu den Bereichen des Endlagerbergwerks, die für die Einlagerung von radioaktiven Abfällen vorgesehen sind,
 
-4.
+4. die Installation aller technischen Einrichtungen, die für die untertägige Handhabung und Einlagerung von Endlagergebinden erforderlich sind, und
 
-5.
+5. die Bereitstellung aller technischen Einrichtungen, die für eine mögliche Rückholung von eingelagerten Endlagergebinden erforderlich sind.
 
 (3) § 9 Absatz 2 bis 4 gilt entsprechend.
 
@@ -287,13 +267,13 @@ c)
 
 (2) Bei der Erprobung des Betriebs
 
-1.
+1. muss die Errichtung des Endlagers nach § 15 abgeschlossen sein,
 
-2.
+2. muss die Handhabung und Einlagerung von Endlagergebinden ohne radioaktive Beladung durchgeführt werden,
 
-3.
+3. muss die Funktionsfähigkeit aller technischen Einrichtungen, die für eine mögliche Rückholung von eingelagerten Endlagergebinden erforderlich sind, sichergestellt werden und
 
-4.
+4. müssen die vorgesehenen technischen Stilllegungs- und Verschlussmaßnahmen nach § 11 Absatz 1 Satz 2 Nummer 8 verfügbar sein.
 
 (3) Zum Abschluss der Erprobung ist der Sicherheitsbericht zu überprüfen.
 
@@ -303,25 +283,25 @@ c)
 
 (1) Die für die Sicherheit des Endlagers relevanten Anlagenzustände während der Errichtung, des Betriebs und der Stilllegung sind systematisch zu ermitteln, zu beschreiben und einzuordnen als
 
-1.
+1. Normalbetrieb,
 
-2.
+2. anomaler Betrieb,
 
-3.
+3. Auslegungsstörfälle oder
 
-4.
+4. auslegungsüberschreitende Unfälle und Ereignisse.
 
 (2) Für diese Anlagenzustände sind entsprechend gestaffelte Abwehr- und Schutzmaßnahmen als Teil des Sicherheitskonzeptes zu entwickeln und umzusetzen.
 
 (3) In dem Sicherheitskonzept sind
 
-1.
+1. für den Normalbetrieb Maßnahmen vorzusehen, die den bestimmungsgemäßen Betrieb des Endlagers gewährleisten und das Eintreten anderer Anlagenzustände vermeiden,
 
-2.
+2. für den anomalen Betrieb Maßnahmen vorzusehen, die das Eintreten von Störfällen verhindern und das Endlager in den Normalbetrieb zurückführen,
 
-3.
+3. für Auslegungsstörfälle Maßnahmen entsprechend § 104 Absatz 1 Satz 1 und 2 der Strahlenschutzverordnung vom 29. November 2018 (BGBl. I S. 2034, 2036), die durch Artikel 1 der Verordnung vom 27. März 2020 (BGBl. I S. 748) geändert worden ist, in der jeweils geltenden Fassung vorzusehen, die den Störfall beherrschen und das Endlager in einen sichereren Anlagenzustand zurückführen,
 
-4.
+4. für auslegungsüberschreitende Unfälle und Ereignisse Maßnahmen vorzusehen, die die Auswirkungen des Ereignisses auf die Umgebung soweit wie möglich begrenzen.
 
 (4) Die Maßnahmen dürfen die Langzeitsicherheit des Endlagersystems nicht erheblich und nicht mehr als unvermeidlich beeinträchtigen.
 
@@ -351,7 +331,7 @@ c)
 
 (2) Das Monitoring ist vom Betreiber möglichst frühzeitig einzurichten. Es beginnt spätestens mit der Erkundung des Endlagerstandortes nach § 9. Die Ergebnisse des Monitorings sind zu dokumentieren.
 
-(3) Das Monitoring ist ab seinem Beginn in zehnjährigen Abständen systematisch fortzuschreiben. Nach der Erteilung der Genehmigung nach § 9b Absatz 1a des Atomgesetzes erfolgt die Fortschreibung im Rahmen der periodischen Sicherheitsüberprüfungen nach § 9h des Atomgesetzes in Verbindung mit § 19a Absatz 3 und 4 des Atomgesetzes. In jeder Fortschreibung sind die jeweils bestehenden Zugangsmöglichkeiten zu den radioaktiven Abfällen sowie mögliche Fortentwicklungen der Erkenntnismethoden und Erkenntnismöglichkeiten zu berücksichtigen. In jeder Fortschreibung ist auch aufzuzeigen, welcher Entwicklungsbedarf für die verwendeten und möglichen neuen Monitoring-Methoden besteht und wie dieser berücksichtigt werden soll.
+(3) Das Monitoring ist ab seinem Beginn in zehnjährigen Abständen systematisch fortzuschreiben. Nach der Erteilung der Genehmigung nach § 9b Absatz 1a des Atomgesetzes erfolgt die Fortschreibung im Rahmen der periodischen Sicherheitsüberprüfungen nach § 9h des Atomgesetzes in Verbindung mit § 19a Absatz 3 und 4 des Atomgesetzes. In jeder Fortschreibung sind die jeweils bestehenden Zugangsmöglichkeiten zu den radioaktiven Abfällen sowie mögliche Fortentwicklungen der Erkenntnismethoden und Erkenntnismöglichkeiten zu berücksichtigen. In jeder Fortschreibung ist auch aufzuzeigen, welcher Entwicklungsbedarf für die verwendeten und möglichen neuen Monitoring-Methoden besteht und wie dieser berücksichtigt werden soll.
 
 (4) Die Maßnahmen des Monitorings dürfen zu keiner sicherheitsrelevanten Beeinträchtigung des Endlagersystems führen.
 
@@ -359,9 +339,9 @@ c)
 
 (1) Durch eine zusätzliche Endlagerung von schwach- und mittelradioaktiven Abfällen am selben Standort
 
-1.
+1. darf die Robustheit des Endlagersystems für hochradioaktive Abfälle für zu erwartende Entwicklungen nicht beeinträchtigt werden und
 
-2.
+2. dürfen sich mögliche Austragungen von Radionukliden nach § 4 Absatz 5 und 6 für die zu erwartenden und die abweichenden Entwicklungen nicht erhöhen.
 
 (2) Soll am selben Standort eine zusätzliche Endlagerung von schwach- und mittelradioaktiven Abfällen erfolgen, so ist für diese Abfälle ein separates Endlagerbergwerk aufzufahren. Zwischen der technischen Infrastruktur dieses Endlagerbergwerkes und der technischen Infrastruktur des Endlagerbergwerkes für hochradioaktive Abfälle dürfen keine sicherheitsrelevanten wechselseitigen Abhängigkeiten oder nachteiligen Beeinflussungen bestehen. Die übertägige Handhabung und Behandlung der hochradioaktiven Abfälle und der schwach- und mittelradioaktiven Abfälle sind voneinander zu trennen. Über die Sätze 1 bis 3 hinausgehende Anforderungen an die Betriebs-und Langzeitsicherheit des Endlagers für schwach- und mittelradioaktive Abfälle sind nicht Gegenstand dieser Verordnung.
 
@@ -369,15 +349,13 @@ c)
 
 ### Anlage — (zu § 8 Absatz 2)
 
-Zum Ausschluss einer sich selbst tragenden Kettenreaktion ist jeweils die reaktivste Anordnung der Abfälle zu berücksichtigen. Die reaktivste Anordnung ist die Anordnung, die zum größten Wert des berechneten Neutronenmultiplikationsfaktors keff, calc zuzüglich der Summe σk aller seiner Ungewissheiten führt.
+Bei der Ermittlung der reaktivsten Anordnung sind die Bandbreiten
 
-Bei der Ermittlung der reaktivsten Anordnung sind die Bandbreiten zu berücksichtigen. Außerdem sind alle zu erwartenden und abweichenden Entwicklungen des Endlagersystems mit den damit verbundenen geologischen, geophysikalischen und geochemischen Prozessen über den gesamten Bewertungszeitraum auf die Reaktivität der eingelagerten Spaltstoffe hin zu untersuchen und bei der Ermittlung der reaktivsten Anordnung zu berücksichtigen.
+– der element- und isotopenweisen Zusammensetzungen,
 
-–
+– der physikalischen und chemischen Beschaffenheiten der hochradioaktiven Abfälle und
 
-–
-
-–
+– der in Teil B genannten reaktivitätsrelevanten Gebindeparameter
 
 Bei der Ermittlung der reaktivsten Anordnung ist die Veränderung der hochradioaktiven Abfälle während des Bewertungszeitraumes, insbesondere auf Grund des radioaktiven Zerfalls und der im betrachteten Endlagersystem ablaufenden Prozesse, zu berücksichtigen. Zu diesen Prozessen gehören auch der Stofftransport und die mögliche daraus resultierende Akkumulation von Spaltstoffen.
 
@@ -385,28 +363,26 @@ Abdeckende oder andere konservative Annahmen dürfen für den gesamten Bewertung
 
 Die eingesetzten Berechnungsprogramme und Stoffdatenbanken müssen dem Stand von Wissenschaft und Technik entsprechen und diesbezüglich qualifiziert sein.
 
-Eine sich selbst tragende Kettenreaktion im Bewertungszeitraum gilt als ausgeschlossen, wenn der berechnete Neutronenmultiplikationsfaktor keff, calc zuzüglich der Summe σk aller seiner Ungewissheiten für die reaktivste zu betrachtende Anordnung von hochradioaktiven Abfällen das Akzeptanzkriterium nach § 8 Absatz 2 erfüllt.
+Das Rechenmodell zur Berechnung von k
 
-Das Rechenmodell zur Berechnung von keff, calc hat relevante reaktivitätsbeeinflussende Größen der realen Anordnung zu berücksichtigen. Die relevanten Größen umfassen mindestens: Die Berücksichtigung von reaktivitätsmindernden Einflussfaktoren ist in dem Maße zulässig, wie ihr Vorhandensein im jeweils unterstellten Zeitraum gewährleistet werden kann.
+1. die Menge der Spaltstoffe sowie ihre element- und isotopenweise Zusammensetzung,
 
-1.
+2. Neutronen moderierende oder reflektierende Stoffe in den Spaltstoffanordnungen, zwischen den Spaltstoffanordnungen und um die Spaltstoffanordnungen,
 
-2.
+3. die geometrische Anordnung aller beteiligten Materialien und
 
-3.
+4. die Temperatur der Anordnung.
 
-4.
+Folgende Größen des jeweils zu Grunde liegenden Rechenmodells sind bei der Ermittlung der Summe der Ungewissheiten σ
 
-Folgende Größen des jeweils zu Grunde liegenden Rechenmodells sind bei der Ermittlung der Summe der Ungewissheiten σk mindestens zu berücksichtigen: Die Ungewissheiten sowie ihre wechselseitigen Abhängigkeiten und Wechselwirkungen sind durch Unsicherheits- und Sensitivitätsanalysen zu untersuchen.
+1. Ungewissheiten bei den eingesetzten Wirkungsquerschnitten,
 
-1.
+2. Ungewissheiten hinsichtlich der Spaltstoffmenge,
 
-2.
+3. Ungewissheiten hinsichtlich der element- und isotopenweisen Zusammensetzung der Spaltstoffe,
 
-3.
+4. Ungewissheiten hinsichtlich der Art, Zusammensetzung und Konzentration der übrigen Materialien, insbesondere der Neutronen moderierenden, reflektierenden oder absorbierenden Stoffe,
 
-4.
+5. Auswirkungen von Ungewissheiten in der Berechnung der für den Ausschluss von Kritikalität wesentlichen geologischen, geophysikalischen und geochemischen Prozesse im Endlagersystem und
 
-5.
-
-6.
+6. bekannte systematische Abweichungen in den verwendeten Berechnungsprogrammen.

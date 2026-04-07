@@ -23,5 +23,3 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1976 in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Arbeit und Sozialordnung

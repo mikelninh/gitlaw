@@ -45,23 +45,23 @@ Die Deutsche Bundesbank ist unbeschadet des Artikels 6 Abs. 2 der Satzung des Eu
 
 (1) Die Deutsche Bundesbank unterhält je eine Hauptverwaltung für den Bereich
 
-1.
+1. des Landes Baden-Württemberg,
 
-2.
+2. des Freistaates Bayern,
 
-3.
+3. der Länder Berlin und Brandenburg,
 
-4.
+4. der Freien Hansestadt Bremen und der Länder Niedersachsen und Sachen-Anhalt,
 
-5.
+5. der Freien und Hansestadt Hamburg und der Länder Mecklenburg-Vorpommern und Schleswig-Holstein,
 
-6.
+6. des Landes Hessen,
 
-7.
+7. des Landes Nordrhein-Westfalen,
 
-8.
+8. der Länder Rheinland-Pfalz und Saarland,
 
-9.
+9. der Freistaaten Sachsen und Thüringen.
 
 (2) Die Hauptverwaltungen werden jeweils von einem Präsidenten geleitet, der dem Vorstand der Deutschen Bundesbank untersteht. Diese tragen die Bezeichnung Präsident der Hauptverwaltung.
 
@@ -121,27 +121,25 @@ Die Deutsche Bundesbank ist bei der Ausübung der Befugnisse, die ihr nach diese
 
 Die Deutsche Bundesbank ist berechtigt, zur Erfüllung ihrer Aufgabe Statistiken auf dem Gebiet des Bank- und Geldwesens bei allen Kreditinstituten, Kapitalverwaltungsgesellschaften und extern verwalteten Investmentgesellschaften anzuordnen und durchzuführen. §§ 9, 15 und 16 des Bundesstatistikgesetzes sind entsprechend anzuwenden. Die Deutsche Bundesbank kann die Ergebnisse der Statistiken für allgemeine Zwecke veröffentlichen. Die Veröffentlichungen dürfen keine Einzelangaben enthalten. Den nach § 13 Abs. 1 Auskunftsberechtigten dürfen Einzelangaben nur mitgeteilt werden, wenn und soweit es in der Anordnung über die Statistik vorgesehen ist.
 
-> (+++ § 18 Satz 5: Zur Geltung vgl. § 7 Abs. 3 Satz 3 Halbsatz 2 KredWG +++) (+++ § 18: Zur Anwendung vgl. § 51 Abs. 4 Satz 2 u. § 54 Abs. 4 Satz 2 KAGB +++)
-
 ## Fünfter Abschnitt: Geschäftskreis
 
 ### § 19 — Geschäfte mit Kreditinstituten und anderen Marktteilnehmern
 
 Die Deutsche Bundesbank darf mit Kreditinstituten und anderen Marktteilnehmern unbeschadet des Kapitels IV der Satzung des Europäischen Systems der Zentralbanken und der Europäischen Zentralbank (BGBl. 1992 II S. 1251, 1297) folgende Geschäfte betreiben:
 
-1.
+1. Darlehen gegen Sicherheiten gewähren sowie am offenen Markt Forderungen, börsengängige Wertpapiere und Edelmetalle endgültig (per Kasse oder Termin) oder im Rahmen von Rückkaufsvereinbarungen kaufen oder verkaufen; bei Pfändern ist die Bank mit Eintritt der Pfandreife berechtigt, das Pfand durch einen ihrer Mitarbeiter oder durch eine zu Versteigerungen befugte Person zu versteigern oder, wenn der verpfändete Gegenstand einen Börsen- oder Marktpreis hat, durch eine der vorgenannten Personen oder einen Handelsmakler zum laufenden Preis zu verkaufen und sich aus dem Erlös für Kosten, Zinsen und Kapital zu befriedigen oder sich den verpfändeten Gegenstand anzueignen, wobei die Ansprüche der Bank in Höhe des Börsen- oder Marktpreises erlöschen; diese Rechte stehen der Bank auch gegenüber anderen Gläubigern und gegenüber der Insolvenzmasse des Schuldners sowie auch im Falle einer vorhergehenden Sicherungsmaßnahme gegen den Schuldner zu; sie gelten auch, wenn die Bank die Verwertung für ein anderes Mitglied des Europäischen Systems der Zentralbanken vornimmt;
 
-2.
+2. Giroeinlagen und andere Einlagen annehmen;
 
-3.
+3. Wertgegenstände, insbesondere Wertpapiere, in Verwahrung und Verwaltung nehmen; die Ausübung des Stimmrechts aus den von ihr verwahrten oder verwalteten Wertpapieren ist der Bank untersagt;
 
-4.
+4. Schecks, Lastschriften, Wechsel, Anweisungen, Wertpapiere und Zinsscheine zum Einzug übernehmen und nach Deckung Zahlung leisten, soweit nicht die Bank für die Gutschrift des Gegenwertes für Schecks, Lastschriften und Anweisungen etwas anderes bestimmt;
 
-5.
+5. andere bankmäßige Auftragsgeschäfte nach Deckung ausführen;
 
-6.
+6. auf eine andere Währung als Euro lautende Zahlungsmittel einschließlich Wechsel und Schecks, Forderungen und Wertpapiere sowie Gold, Silber und Platin kaufen und verkaufen;
 
-7.
+7. alle Bankgeschäfte im Verkehr mit dem Ausland vornehmen.
 
 ### § 20 — Geschäfte mit öffentlichen Verwaltungen
 
@@ -201,9 +199,9 @@ Gewinnverteilung
 
 Der Reingewinn ist in nachstehender Reihenfolge zu verwenden:
 
-1.
+1. zwanzig vom Hundert des Gewinns, jedoch mindestens zweihundertfünfzig Millionen Euro, sind einer gesetzlichen Rücklage, soweit sie den Betrag von 2,5 Milliarden Euro unterschreitet, bis zu ihrer Auffüllung zuzuführen; die gesetzliche Rücklage darf nur zum Ausgleich von Wertminderungen und zur Deckung anderer Verluste verwendet werden;
 
-2.
+2. der Restbetrag ist an den Bund abzuführen.
 
 ### § 28
 
@@ -231,37 +229,27 @@ Der Präsident der Deutschen Bundesbank kann für die Zwecke des § 11 Abs. 3 Ur
 
 (3) Die Beamten der Deutschen Bundesbank sind Bundesbeamte. Soweit nicht in diesem Gesetz etwas anderes bestimmt ist, sind die für Bundesbeamte allgemein geltenden Vorschriften anzuwenden. An die Stelle des Inkrafttretens des Bundesbeamtengesetzes tritt das Inkrafttreten dieses Gesetzes.
 
-(4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Rechtsverhältnisse der Beamten, Angestellten und Arbeiter der Deutschen Bundesbank zu regeln, soweit die Bedürfnisse eines geordneten und leistungsfähigen Bankbetriebes es erfordern. In der Rechtsverordnung nach Satz 1 kann nur bestimmt werden, Die Bundesregierung kann die Befugnis nach Satz 1 durch Rechtsverordnung ohne Zustimmung des Bundesrates auf den Vorstand der Deutschen Bundesbank übertragen. Rechtsverordnungen des Vorstandes der Deutschen Bundesbank bedürfen des Einvernehmens des Bundesministeriums des Innern, für Bau und Heimat und des Bundesministeriums der Finanzen.
+(4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Rechtsverhältnisse der Beamten, Angestellten und Arbeiter der Deutschen Bundesbank zu regeln, soweit die Bedürfnisse eines geordneten und leistungsfähigen Bankbetriebes es erfordern. In der Rechtsverordnung nach Satz 1 kann nur bestimmt werden,
 
-1.
+1. dass für die Beamten der Deutschen Bundesbank von folgenden Vorschriften des Bundesbeamtenrechts abgewichen wird: a)von den §§ 19, 22 Absatz 5, § 28 Abs. 1 und 2, § 33 Abs. 2, § 99 Abs. 1 Satz 2 Nr. 3 und § 100 Abs. 1 Nr. 2 des Bundesbeamtengesetzes und von § 11 Nr. 3 Buchstabe a des Beamtenversorgungsgesetzes;b)von den §§ 42 bis 49 des Bundesbesoldungsgesetzes in ihrer jeweils geltenden Fassung, soweit eine widerrufliche, nicht ruhegehaltfähige Bankzulage für eine Verwendung in der Zentrale bis zur Höhe von 9 vom Hundert des Grundgehalts und für eine Verwendung in den Hauptverwaltungen bis zur Höhe von 5 vom Hundert sowie in der Zentrale, den Hauptverwaltungen und Filialen eine Zuwendung für besondere Leistungen in Form einer Zulage oder einer Einmalzahlung gewährt werden;c)von den Vorschriften über die Gewährung von Unterhaltszuschüssen für Beamte im Vorbereitungsdienst; von den §§ 19, 22 Absatz 5, § 28 Abs. 1 und 2, § 33 Abs. 2, § 99 Abs. 1 Satz 2 Nr. 3 und § 100 Abs. 1 Nr. 2 des Bundesbeamtengesetzes und von § 11 Nr. 3 Buchstabe a des Beamtenversorgungsgesetzes; von den §§ 42 bis 49 des Bundesbesoldungsgesetzes in ihrer jeweils geltenden Fassung, soweit eine widerrufliche, nicht ruhegehaltfähige Bankzulage für eine Verwendung in der Zentrale bis zur Höhe von 9 vom Hundert des Grundgehalts und für eine Verwendung in den Hauptverwaltungen bis zur Höhe von 5 vom Hundert sowie in der Zentrale, den Hauptverwaltungen und Filialen eine Zuwendung für besondere Leistungen in Form einer Zulage oder einer Einmalzahlung gewährt werden; von den Vorschriften über die Gewährung von Unterhaltszuschüssen für Beamte im Vorbereitungsdienst;
 
-a)
+2. dass, soweit die Bankzulage nach Nummer 1 Buchstabe b durch das Haushaltsbegleitgesetz 2006 mit Wirkung vom 1. August 2006 weggefallen oder gekürzt wurde, eine Ausgleichszulage gewährt wird in Höhe des Unterschiedsbetrages zwischen der bisherigen und der neuen Zulage, bei Wegfall der Zulage in Höhe der bisherigen Zulage. Maßgebend ist die Höhe der am 31. Juli 2006 gewährten Bankzulage. Für an diesem Tag Beurlaubte ist die Bankzulage maßgebend, die ohne Beurlaubung an diesem Tag zugestanden hätte. Die Ausgleichszulage wird gezahlt, soweit und solange die bisherigen Anspruchsvoraussetzungen weiter erfüllt sind. Die Ausgleichszulage vermindert sich bei jeder Erhöhung der Dienstbezüge um die Hälfte des Erhöhungsbetrages; dies gilt nicht für Erhöhungen, die der Anpassung an die Bezüge im bisherigen Bundesgebiet dienen. Dienstbezüge in diesem Sinne sind Grundgehalt, Amts- und Stellenzulagen. Zu den Dienstbezügen rechnen auch Überleitungszulagen und Ausgleichszulagen, soweit sie wegen des Wegfalls oder der Verminderung solcher Dienstbezüge gewährt werden;
 
-b)
+3. dass die Angestellten der Deutschen Bundesbanka)zur Ausübung einer der in § 99 Abs. 1 Satz 2 Nr. 3 und § 100 Abs. 1 Nr. 2 des Bundesbeamtengesetzes bezeichneten Nebentätigkeiten der vorherigen Genehmigung bedürfen,b)die in Nummer 1 Buchstabe b bezeichneten Bezüge sowie die Ausgleichszulage nach Nummer 2 entsprechend erhalten; zur Ausübung einer der in § 99 Abs. 1 Satz 2 Nr. 3 und § 100 Abs. 1 Nr. 2 des Bundesbeamtengesetzes bezeichneten Nebentätigkeiten der vorherigen Genehmigung bedürfen, die in Nummer 1 Buchstabe b bezeichneten Bezüge sowie die Ausgleichszulage nach Nummer 2 entsprechend erhalten;
 
-c)
-
-2.
-
-3.
-
-a)
-
-b)
-
-4.
+4. dass die Arbeiter die in Nummer 1 Buchstabe b bezeichnete Zuwendung für besondere Leistungen erhalten.
 
 (5) Die in Absatz 4 Satz 2 Nr. 1 Buchstabe b bezeichneten Zuwendungen für besondere Leistungen dürfen insgesamt ein Zwanzigstel der Ausgaben für die Besoldung und Vergütung und Löhne der Beamten, Angestellten und Arbeiter der Deutschen Bundesbank nicht übersteigen. Die Bankzulage nimmt ab dem 1. August 2006 nicht an allgemeinen Erhöhungen der Besoldung teil.
 
 (6) Die Bundesregierung wird ermächtigt, zum Zweck eines geordneten und leistungsfähigen Bankbetriebs durch Rechtsverordnung die Vorschriften über die Vorbildung und die Laufbahnen der Beamten der Deutschen Bundesbank sowie die besonderen Vorschriften für die einzelnen Laufbahnen (Laufbahn-, Ausbildungs- und Prüfungsordnungen) der Beamten der Deutschen Bundesbank zu erlassen. In der Rechtsverordnung nach Satz 1 kann von den Vorschriften des Bundesbeamtenrechts über die Dauer des Vorbereitungsdienstes und der Probezeit sowie über die Dauer der Bewährungszeit für Beförderungen im gehobenen Dienst und für die Zulassung zum Aufstieg in den höheren Dienst abgewichen werden. Die Bundesregierung kann die Befugnis nach Satz 1 durch Rechtsverordnung auf den Vorstand der Deutschen Bundesbank übertragen. Rechtsverordnungen des Vorstands der Deutschen Bundesbank über die Vorbildung und die Laufbahnen bedürfen des Einvernehmens des Bundesministeriums des Innern, für Bau und Heimat und des Bundesministeriums der Finanzen; Rechtsverordnungen über die einzelnen Laufbahnen (Laufbahn-, Ausbildungs- und Prüfungsordnungen) bedürfen des Einvernehmens des Bundesministeriums des Innern, für Bau und Heimat.
 
-(7) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf, Vorschriften zur Lehrverpflichtung des hauptberuflichen wissenschaftlichen Personals der Hochschule der Deutschen Bundesbank zu erlassen, insbesondere Die Bundesregierung kann die Ermächtigung nach Satz 1 durch Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf, auf den Vorstand der Deutschen Bundesbank übertragen.
+(7) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf, Vorschriften zur Lehrverpflichtung des hauptberuflichen wissenschaftlichen Personals der Hochschule der Deutschen Bundesbank zu erlassen, insbesondere
 
-1.
+1. zum Umfang,
 
-2.
+2. zu Anrechnungs- und Ermäßigungstatbeständen und
 
-3.
+3. zu den Nebenpflichten, die mit der Lehrverpflichtung verbunden sind.
 
 ### § 32 — Schweigepflicht
 
@@ -282,9 +270,9 @@ Die Deutsche Bundesbank hat ihre für die Öffentlichkeit bestimmten Bekanntmach
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft,
 
-1.
+1. wer unbefugt Geldzeichen (Marken, Münzen, Scheine oder andere Urkunden, die geeignet sind, im Zahlungsverkehr an Stelle der gesetzlich zugelassenen Münzen oder Banknoten verwendet zu werden) oder unverzinsliche Inhaberschuldverschreibungen ausgibt, auch wenn ihre Wertbezeichnung nicht auf Euro lautet;
 
-2.
+2. wer unbefugt ausgegebene Gegenstände der in Nummer 1 genannten Art zu Zahlungen verwendet.
 
 (2) Der Versuch ist strafbar.
 
@@ -300,15 +288,15 @@ Die Deutsche Bundesbank hat ihre für die Öffentlichkeit bestimmten Bekanntmach
 
 (4) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen Absatz 1 Satz 1 Falschgeld oder einen dort genannten Gegenstand nicht anhält,
 
-2.
+2. entgegen Absatz 2 oder Absatz 3 Satz 1, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 36a Satz 1, Falschgeld oder einen dort genannten Gegenstand nicht oder nicht rechtzeitig übermittelt,
 
-3.
+3. entgegen § 37a Absatz 1 Satz 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt,
 
-4.
+4. entgegen § 37a Absatz 2 Satz 2 eine dort genannte Maßnahme nicht duldet oder
 
-5.
+5. einer vollziehbaren Anordnung nach § 37a Absatz 3 zuwiderhandelt.
 
 (4a) Ordnungswidrig handelt, wer entgegen Artikel 6 Absatz 1 der Verordnung (EG) Nr. 1338/2001 des Rates vom 28. Juni 2001 zur Festlegung von zum Schutz des Euro gegen Geldfälschung erforderlichen Maßnahmen (ABl. L 181 vom 4.7.2001, S. 6), die durch die Verordnung (EG) Nr. 44/2009 (ABl. L 17 vom 22.1.2009, S. 1) geändert worden ist, nicht sicherstellt, dass die dort genannten Euro-Banknoten und Euro-Münzen auf Echtheit geprüft werden, oder nicht dafür Sorge trägt, dass Fälschungen aufgedeckt werden.
 
@@ -331,8 +319,6 @@ Das Bundesministerium der Finanzen wird ermächtigt, im Benehmen mit der Deutsch
 (1) Verpflichtete nach § 36 Absatz 1, die Banknoten wieder in Umlauf geben wollen, haben der Deutschen Bundesbank auf Verlangen Auskünfte über die Herkunft der Banknoten, deren Bearbeitung sowie die verwendeten Banknotenbearbeitungsgeräte zu erteilen und Unterlagen vorzulegen. Die Auskunft kann verweigert werden, wenn die Beantwortung den Verpflichteten oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 (2) Die Deutsche Bundesbank kann, auch ohne besonderen Anlass, bei den Verpflichteten nach § 36 Absatz 1 Prüfungen vornehmen und die Geschäftsräume innerhalb der üblichen Betriebs- und Geschäftszeiten betreten; das gilt auch für Unternehmen, auf die die Verpflichteten ihre Tätigkeiten ausgelagert haben. Die Betroffenen haben diese Maßnahmen zu dulden.
-
-(3) Verstößt ein Verpflichteter nach § 36 Absatz 1 gegen die nach dem Beschluss EZB/2010/14 der- Europäischen Zentralbank vom 16. September 2010 über die Prüfung der Echtheit und Umlauffähigkeit und über die Wiederausgabe von Euro-Banknoten (ABl. L 267 vom 9.10.2010, S. 1) zu erfüllenden Prüfpflichten, soll die Deutsche Bundesbank dem Verpflichteten untersagen, Banknoten oder bestimmte Banknotenstückelungen wieder in den Umlauf zu geben oder mittels bestimmter Systeme zur Banknotenbearbeitung zu prüfen.
 
 > § 36a Abs. 3 Kursivdruck: Das Wort "der-" müsste richtig "der" lauten
 
@@ -359,11 +345,11 @@ und die Beiräte
 
 (4) Absatz 3 ist auf die Beamten der Deutschen Reichsbank, die nach dem 8. Mai 1945 bei einer Dienststelle der Deutschen Reichsbank im Bundesgebiet entsprechend ihrer früheren Rechtsstellung wiederverwendet und in den Ruhestand getreten sind, ohne vorher in den Dienst der Bank deutscher Länder, einer bisherigen Landeszentralbank oder der Berliner Zentralbank übernommen worden zu sein, sowie auf ihre Hinterbliebenen sinngemäß anzuwenden.
 
-(5) Die nach den Bundesgesetzen zur Regelung der Wiedergutmachung nationalsozialistischen Unrechts für Angehörige des öffentlichen Dienstes und zur Regelung der Wiedergutmachung nationalsozialistischen Unrechts für die im Ausland lebenden Angehörigen des öffentlichen Dienstes bestehenden Ansprüche von Personen, richten sich gegen die Deutsche Bundesbank. Dies gilt in den Fällen der Nummer 1 nicht, wenn ein anderer Dienstherr nach § 22 Abs. 3 des vorgenannten Gesetzes zur Wiedergutmachung verpflichtet ist.
+(5) Die nach den Bundesgesetzen zur Regelung der Wiedergutmachung nationalsozialistischen Unrechts für Angehörige des öffentlichen Dienstes und zur Regelung der Wiedergutmachung nationalsozialistischen Unrechts für die im Ausland lebenden Angehörigen des öffentlichen Dienstes bestehenden Ansprüche von Personen,
 
-1.
+1. die im Bereich der Deutschen Reichsbank geschädigt worden sind oder
 
-2.
+2. bei denen als Angehörigen oder ehemaligen Angehörigen der Bank deutscher Länder, der bisherigen Landeszentralbanken oder der Berliner Zentralbank die Voraussetzungen des § 22 Abs. 3 des Gesetzes zur Regelung der Wiedergutmachung nationalsozialistischen Unrechts für Angehörige des öffentlichen Dienstes gegeben sind,
 
 (6) Für Personen, die Versorgungsbezüge nach dem Gesetz zur Regelung der Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen erhielten oder hätten erhalten können, gilt § 41 dieses Gesetzes.
 
@@ -374,13 +360,11 @@ fallenden Personen
 
 (1) Die Deutsche Bundesbank ist entsprechende Einrichtung im Sinne des § 61 des Gesetzes zur Regelung der Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen gegenüber der Deutschen Reichsbank, der Nationalbank für Böhmen und Mähren und ausländischen Notenbanken (Nr. 19 der Anlage A zu § 2 Abs. 1 des Gesetzes).
 
-(2) Auf Beamte, Angestellte und Arbeiter der Deutschen Reichsbank, die am 8. Mai 1945 bei Dienststellen der Deutschen Reichsbank im Bundesgebiet und im Land Berlin im Dienst standen und ist § 62 des in Absatz 1 bezeichneten Gesetzes entsprechend anzuwenden.
+(2) Auf Beamte, Angestellte und Arbeiter der Deutschen Reichsbank, die am 8. Mai 1945 bei Dienststellen der Deutschen Reichsbank im Bundesgebiet und im Land Berlin im Dienst standen und
 
-1.
+1. ihr Amt oder ihren Arbeitsplatz aus anderen als beamten- oder tarifrechtlichen Gründen verloren haben und noch nicht entsprechend ihrer früheren Rechtsstellung wiederverwendet worden sind oder
 
-2.
-
-(3) Bei Ruhestandsbeamten der Deutschen Reichsbank, die vor dem 1. September 1953 in den Ruhestand getreten sind (§ 5 Abs. 1 Nr. 1, § 6 Abs. 2, § 35 Abs. 1, § 48 des in Absatz 1 bezeichneten Gesetzes), bleibt es vorbehaltlich der Abweichungen, die sich aus §§ 7, 8, 29 Abs. 2 und 3 sowie §§ 30, 31 und 35 Abs. 3 des in Absatz 1 bezeichneten Gesetzes und §§ 108, 112, 117 Abs. 1, § 140 Abs. 2 und 3 Satz 1 und 2, § 156 Abs. 1, §§ 181a und 181b des Bundesbeamtengesetzes ergeben, bei der bisherigen Bemessungsgrundlage nach dem Deutschen Beamtengesetz in der Bundesfassung (ruhegehaltfähige Dienstbezüge, Ruhegehaltssätze); liegt der Berechnung der ruhegehaltfähigen Dienstzeit eine dem § 117 Abs. 2 des Bundesbeamtengesetzes oder dem § 181 Abs. 5 des Bundesbeamtengesetzes in der am 30. Juni 1975 geltenden Fassung entsprechende Vorschriften zugrunde, gilt § 117 Abs. 3 des Bundesbeamtengesetzes entsprechend. Das Ruhegehalt darf fünfundsiebzig vom Hundert der ruhegehaltfähigen Dienstbezüge nicht übersteigen. Entsprechendes gilt für die Hinterbliebenen. § 64 Abs. 1 Satz 6 Halbsatz 2 des in Absatz 1 bezeichneten Gesetzes ist anzuwenden.
+2. vor Inkrafttreten des in Absatz 1 bezeichneten Gesetzes das fünfundsechzigste Lebensjahr vollendet haben oder dienstunfähig geworden sind und aus anderen als beamten- oder tarifrechtlichen Gründen keine oder keine entsprechende Versorgung erhalten,
 
 (4) Der Präsident der Deutschen Bundesbank ist oberste Dienstbehörde für die Personen, auf die die Vorschriften der Absätze 1 und 2 anzuwenden sind. Er vertritt insoweit die Bank gerichtlich und außergerichtlich. Er kann seine Aufgaben und Befugnisse nach den Sätzen 1 und 2 auf ein Mitglied des Vorstands übertragen. In den Fällen des Absatzes 1 tritt er, soweit in dem dort bezeichneten Gesetz und den danach anzuwendenden beamtenrechtlichen Vorschriften die Mitwirkung des Bundesministeriums der Finanzen vorgesehen ist, an dessen Stelle.
 

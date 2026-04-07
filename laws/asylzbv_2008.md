@@ -14,29 +14,29 @@ Auf Grund des § 88 Abs. 1 des Asylverfahrensgesetzes in der Fassung der Bekannt
 
 Die Verordnung bestimmt die zuständigen Behörden für die Ausführung
 
-1.
+1. des Übereinkommens vom 15. Juni 1990 über die Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat der Europäischen Gemeinschaften gestellten Asylantrags (Dubliner Übereinkommen) (BGBl. 1994 II S. 791),
 
-2.
+2. der Verordnung (EG) Nr. 343/2003 des Rates vom 18. Februar 2003 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen in einem Mitgliedstaat gestellten Asylantrags zuständig ist (ABl. EU Nr. L 50 S. 1),
 
-3.
+3. der Verordnung (EG) Nr. 1560/2003 der Kommission vom 2. September 2003 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 343/2003 des Rates zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen in einem Mitgliedstaat gestellten Asylantrags zuständig ist (ABl. EU Nr. L 222 S. 3),
 
-4.
+4. der Verordnung (EG) Nr. 2725/2000 des Rates vom 11. Dezember 2000 über die Einrichtung von „Eurodac“ für den Vergleich von Fingerabdrücken zum Zwecke der effektiven Anwendung des Dubliner Übereinkommens (ABl. EG Nr. L 316 S. 1).
 
 ### § 2
 
 (1) Das Bundesamt für Migration und Flüchtlinge ist zuständig für die Ausführung des Übereinkommens nach § 1 Nr. 1 und der Verordnungen nach § 1 Nr. 2 und 3 in Bezug auf
 
-1.
+1. die Übermittlung von Auf- und Wiederaufnahmeersuchen an die anderen Staaten sowie die Festlegung der Modalitäten der Überstellung,
 
-2.
+2. die Entscheidung über Auf- und Wiederaufnahmeersuchen der anderen Staaten sowie die Festlegung der Modalitäten der Überstellung,
 
-3.
+3. den Informationsaustausch sowie die notwendigen Mitteilungen an die betroffenen Drittstaatsangehörigen.
 
 (2) Das Bundesamt für Migration und Flüchtlinge ist auch zuständig für die Zusammenarbeit mit den anderen Staaten nach der Verordnung gemäß § 1 Nr. 4 bei
 
-1.
+1. der endgültigen Identifizierung,
 
-2.
+2. der Auskunft über die gemäß Artikel 4 der Verordnung (EG) Nr. 2725/2000 an die Zentraleinheit übermittelten und in der zentralen Datenbank gespeicherten Daten sowie deren Berichtigung, Löschung und Sperrung.
 
 ### § 3
 
@@ -54,19 +54,19 @@ Das Bundesamt kann Verfahren übernehmen, für welche die Zuständigkeit der Gre
 
 Das Bundeskriminalamt ist zuständig für die Ausführung der Verordnung nach § 1 Nr. 4 in Bezug auf die
 
-1.
+1. Übermittlung der Daten an die Zentraleinheit,
 
-2.
+2. Prüfung der von der Zentraleinheit übermittelten Ergebnisse,
 
-3.
+3. Übermittlung der Ergebnisse an das Bundesamt und an die Behörde, die die Fingerabdrücke übermittelt hat,
 
-4.
+4. Berichtigung und Löschung der gemäß Artikel 8 der Verordnung (EG) Nr. 2725/2000 an die Zentraleinheit übermittelten und in der zentralen Datenbank gespeicherten Daten,
 
-5.
+5. Löschung und Vernichtung der von der Zentraleinheit erhaltenen unzuverlässigen Informationen über sonstige Daten,
 
-6.
+6. Übermittlung des Verzeichnisses der auf die zentrale Datenbank zugriffsberechtigten Behörden,
 
-7.
+7. Schadenersatzansprüche gegen die Bundesrepublik Deutschland nach Artikel 17 Abs. 2 der Verordnung (EG) Nr. 2725/2000.
 
 ### § 6
 

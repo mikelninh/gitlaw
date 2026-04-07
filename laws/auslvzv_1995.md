@@ -16,53 +16,21 @@
 
 Als materielle Mehraufwendungen und immaterielle Belastungen im Verwendungsgebiet und am Ort der besonderen Verwendung werden berücksichtigt:
 
-1.
+1. Allgemeine physische und psychische Belastungen, insbesondere durch a)Art und Dauer der Verwendung,b)Einschränkung der persönlichen Bewegungsfreiheit, der Privatsphäre oder der Freizeitmöglichkeiten,c)Unterbringung in Zelten, Containern oder Massenunterkünften,d)erhebliche, potentiell gesundheitsgefährdende Mängel der Sanitär- und Hygieneeinrichtungen,e)besondere zeitliche Beanspruchung während der gesamten Dauer der Verwendung, hohe Bereitschaftsstufen,f)extreme Klimabelastungen; Art und Dauer der Verwendung, Einschränkung der persönlichen Bewegungsfreiheit, der Privatsphäre oder der Freizeitmöglichkeiten, Unterbringung in Zelten, Containern oder Massenunterkünften, erhebliche, potentiell gesundheitsgefährdende Mängel der Sanitär- und Hygieneeinrichtungen, besondere zeitliche Beanspruchung während der gesamten Dauer der Verwendung, hohe Bereitschaftsstufen, extreme Klimabelastungen;
 
-a)
+2. Gefahr für Leib und Leben, insbesondere durch a)Seuchen, Epidemien, Tropenkrankheiten, gefährliche Strahlen oder Chemikalien,b)minenverseuchtes Gebiet,c)Terrorakte, organisierte Kriminalität, hohe Gewaltbereitschaft, Piraterie, Geiselnahme,d)bürgerkriegsähnliche und kriegerische Auseinandersetzungen, Bürgerkrieg; Seuchen, Epidemien, Tropenkrankheiten, gefährliche Strahlen oder Chemikalien, minenverseuchtes Gebiet, Terrorakte, organisierte Kriminalität, hohe Gewaltbereitschaft, Piraterie, Geiselnahme, bürgerkriegsähnliche und kriegerische Auseinandersetzungen, Bürgerkrieg;
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-3.
+3. Mehraufwendungen, die durch die besonderen Verhältnisse im Verwendungsgebiet, insbesondere durch Mängel und erschwerende Umstände bei Versorgung und Kommunikation entstehen, soweit keine reisekostenrechtlichen Ansprüche bestehen.
 
 ### § 3 — Höhe und Festsetzung des Auslandsverwendungszuschlags
 
 (1) Die Mehraufwendungen und Belastungen der Verwendung werden in sechs Stufen des Auslandsverwendungszuschlags wie folgt berücksichtigt:
 
-a)
+a) besondere zeitliche Beanspruchung während der gesamten Dauer der Verwendung, die im Inland einen Dienstzeitausgleich oder eine finanzielle Abgeltung zur Folge hätte,
 
-b)
+b) Unterbringung in Zelten, Massenunterkünften oder Containern oder
 
-c)
-
-aa)
-
-bb)
-
-a)
-
-b)
-
-a)
-
-b)
+c) hohe Kosten aa)qualitativ angemessener Güter des täglichen Bedarfs undbb)der Kommunikation mit dem Heimatland, sofern nur eine unzureichende militärische oder vergleichbare Infrastruktur vorhanden ist qualitativ angemessener Güter des täglichen Bedarfs und der Kommunikation mit dem Heimatland, sofern nur eine unzureichende militärische oder vergleichbare Infrastruktur vorhanden ist
 
 (2) Die Stufe des Auslandsverwendungszuschlags wird von der für die besondere Verwendung im Ausland zuständigen obersten Dienstbehörde im Benehmen mit dem Bundesministerium des Innern, für Bau und Heimat, dem Bundesministerium der Verteidigung, dem Bundesministerium der Finanzen und dem Auswärtigen Amt festgesetzt. Dies gilt nicht in den Fällen des § 56 Absatz 2 des Bundesbesoldungsgesetzes.
 
@@ -80,14 +48,14 @@ b)
 
 (1) Anzurechnen sind Bezüge, mit denen Belastungen abgegolten werden, die beim Auslandsverwendungszuschlag berücksichtigt worden sind.
 
-(2) Der nach § 56 Absatz 3 Satz 9 des Bundesbesoldungsgesetzes weitergezahlte Auslandszuschlag wird auf den Auslandsverwendungszuschlag wie folgt angerechnet: Mindestens sind jedoch 30 Prozent des zustehenden Auslandsverwendungszuschlags zu belassen.
+(2) Der nach § 56 Absatz 3 Satz 9 des Bundesbesoldungsgesetzes weitergezahlte Auslandszuschlag wird auf den Auslandsverwendungszuschlag wie folgt angerechnet:
 
-1.
+1. zu 15 Prozent, wenn der Hausstand des Berechtigten am bisherigen Dienstort im Ausland fortgeführt wird und sich im Auslandszuschlag berücksichtigungsfähige Personen (§ 53 Absatz 4 des Bundesbesoldungsgesetzes) weiterhin dort aufhalten;
 
-2.
+2. zu 70 Prozent, wenn der Hausstand eines alleinstehenden Berechtigten am bisherigen Dienstort im Ausland beibehalten wird; eine Gemeinschaftsunterkunft gilt nicht als Hausstand;
 
-3.
+3. zu 80 Prozent, wenn eine Gemeinschaftsunterkunft gegen Bezahlung am bisherigen Dienstort im Ausland beibehalten wird; handelt es sich um eine unentgeltlich bereitgestellte Gemeinschaftsunterkunft, erhöht sich der Anrechnungsbetrag auf 90 Prozent;
 
-4.
+4. zu 90 Prozent, wenn der Hausstand des Berechtigten oder eine Gemeinschaftsunterkunft am bisherigen Dienstort im Ausland aufgegeben wird.
 
 (3) Die rückwirkende Anrechnung ist zulässig. Zahlungen in einer anderen Währung werden nach dem zum Zahlungszeitpunkt geltenden Umrechnungskurs angerechnet.

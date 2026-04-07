@@ -23,20 +23,8 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 ### Anlage — (zu § 1)
 
-A. Vorbemerkungen
+1. Bei der weinbaulichen Nutzung dienen als Bewertungsstützpunkte Weinbaulagen oder Teile von Weinbaulagen (§ 57 BewG). Die Bezeichnung der Hauptbewertungsstützpunkte entspricht daher der jeweiligen Weinbaulage. Soweit Teile von Weinbaulagen als Hauptbewertungsstützpunkte dienen, sind die Flurstücks-Nummern nach dem Stand vom 1. Januar 1964 angegeben.
 
-1.
+2. Die Hauptbewertungsstützpunkte der weinbaulichen Nutzung sind gekennzeichnet a)durch W = Weinbau,b)durch laufende Nummern (Lfd. Nr.), deren erste Ziffer das Land und deren nächste Ziffer die Oberfinanzdirektion erkennen lassen. Die Ziffern nach dem Punkt kennzeichnen die laufende Nummer innerhalb der Oberfinanzdirektion. Den Ziffern entsprechen: ZifferLandZifferOberfinanzdirektion4Rheinland-Pfalz1Koblenz5Hessen1Frankfurt7Baden-1Karlsruhe Württemberg2Freiburg 3Stuttgart8Bayern1NürnbergBeispiel:Bei dem Hauptbewertungsstützpunkt W 41.04 handelt es sich um den vierten Hauptbewertungsstützpunkt der weinbaulichen Nutzung in Rheinland-Pfalz, Oberfinanzdirektion Koblenz. durch W = Weinbau, durch laufende Nummern (Lfd. Nr.), deren erste Ziffer das Land und deren nächste Ziffer die Oberfinanzdirektion erkennen lassen. Die Ziffern nach dem Punkt kennzeichnen die laufende Nummer innerhalb der Oberfinanzdirektion. Den Ziffern entsprechen: ZifferLandZifferOberfinanzdirektion4Rheinland-Pfalz1Koblenz5Hessen1Frankfurt7Baden-1Karlsruhe Württemberg2Freiburg 3Stuttgart8Bayern1NürnbergBeispiel:Bei dem Hauptbewertungsstützpunkt W 41.04 handelt es sich um den vierten Hauptbewertungsstützpunkt der weinbaulichen Nutzung in Rheinland-Pfalz, Oberfinanzdirektion Koblenz.
 
-2.
-
-a)
-
-b)
-
-3.
-
-a)
-
-b)
-
-c)
+3. Für jeden Hauptbewertungsstützpunkt der weinbaulichen Nutzung sind je nach den Verhältnissen ein bis drei Lagenvergleichszahlen festgesetzt. Die Lagenvergleichszahlen a)in Spalte 4 gelten bei Verkauf oder Ablieferung der Trauben oder der Maische an Genossenschaften oder andere Gemeinschaften zur gemeinschaftlichen Verarbeitung - nichtausbauende Betriebsweise;b)in Spalte 5 gelten bei Verarbeitung der Trauben im eigenen Betrieb mit Erzeugung und Vertrieb von Faßwein - ausbauende Betriebsweise mit Faßweinerzeugung;c)in Spalte 6 gelten bei Verarbeitung der Trauben im eigenen Betrieb mit Erzeugung und Vertrieb von Flaschenwein - ausbauende Betriebsweise mit Flaschenweinerzeugung. in Spalte 4 gelten bei Verkauf oder Ablieferung der Trauben oder der Maische an Genossenschaften oder andere Gemeinschaften zur gemeinschaftlichen Verarbeitung - nichtausbauende Betriebsweise; in Spalte 5 gelten bei Verarbeitung der Trauben im eigenen Betrieb mit Erzeugung und Vertrieb von Faßwein - ausbauende Betriebsweise mit Faßweinerzeugung; in Spalte 6 gelten bei Verarbeitung der Trauben im eigenen Betrieb mit Erzeugung und Vertrieb von Flaschenwein - ausbauende Betriebsweise mit Flaschenweinerzeugung.

@@ -11,7 +11,13 @@ Das Bundesministerium für Arbeit und Soziales verordnet aufgrund des § 132a Ab
 
 ### § 1 — Übertragung der Befugnisse
 
-Das Bundesministerium für Arbeit und Soziales überträgt seine Befugnisse zum Erlass einer besonderen Lehrverpflichtungsverordnung nach § 132a Absatz 3 und 4 des Bundesbeamtengesetzes für den jeweiligen Fachbereich der Hochschule des Bundes für öffentliche Verwaltung auf 1.den Vorstand der Deutschen Rentenversicherung Bund,2.den Vorstand der Deutschen Rentenversicherung Knappschaft-Bahn-See,3.den Vorstand der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau.Soweit für einen Fachbereich der Hochschule des Bundes für öffentliche Verwaltung eine gemeinsame Zuständigkeit mehrerer Vorstände besteht, sind diese Vorstände auch für den Erlass der besonderen Lehrverpflichtungsverordnung gemeinsam zuständig.
+Das Bundesministerium für Arbeit und Soziales überträgt seine Befugnisse zum Erlass einer besonderen Lehrverpflichtungsverordnung nach § 132a Absatz 3 und 4 des Bundesbeamtengesetzes für den jeweiligen Fachbereich der Hochschule des Bundes für öffentliche Verwaltung auf
+
+1. den Vorstand der Deutschen Rentenversicherung Bund,
+
+2. den Vorstand der Deutschen Rentenversicherung Knappschaft-Bahn-See,
+
+3. den Vorstand der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau.
 
 ### § 2 — Inkrafttreten
 

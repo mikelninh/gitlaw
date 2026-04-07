@@ -12,13 +12,13 @@
 
 (1) Dieses Gesetz dient der Durchführung der Verordnung (EU) Nr. 1307/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 mit Vorschriften über Direktzahlungen an Inhaber landwirtschaftlicher Betriebe im Rahmen von Stützungsregelungen der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EG) Nr. 637/2008 des Rates und der Verordnung (EG) Nr. 73/2009 des Rates (ABl. L 347 vom 20.12.2013, S. 608) in der jeweils geltenden Fassung sowie der im Rahmen dieser Verordnung und zu ihrer Durchführung erlassenen Rechtsakte der Europäischen Union.
 
-(2) Dieses Gesetz ist ein Gesetz im Sinne des § 1 Absatz 2 Nummer 4 des Marktorganisationsgesetzes mit den Maßgaben, dass Satz 1 Nummer 3 gilt nicht für die Einführung von Direktzahlungen und die Flexibilität zwischen den Säulen der Gemeinsamen Agrarpolitik der Europäischen Union.
+(2) Dieses Gesetz ist ein Gesetz im Sinne des § 1 Absatz 2 Nummer 4 des Marktorganisationsgesetzes mit den Maßgaben, dass
 
-1.
+1. anwendbar nur die Vorschriften des Ersten und Zweiten Abschnitts und die §§ 33 und 36 des Marktorganisationsgesetzes sind, soweit sich diese jeweils auf die Gewährung besonderer Vergünstigungen beziehen,
 
-2.
+2. Rechtsverordnungen auf Grund der in Nummer 1 bezeichneten Vorschriften stets der Zustimmung des Bundesrates bedürfen,
 
-3.
+3. Rechtsverordnungen auf Grund der in Nummer 1 bezeichneten Vorschriften auch erlassen werden können, um Regelungen im Sinne des § 1 Absatz 1 sachgerecht durchzuführen, einschließlich der Wahrnehmung der in den in Absatz 1 bezeichneten Rechtsakten der Europäischen Union enthaltenen Optionen für die Mitgliedstaaten, soweit die Ausübung der Optionen für die Durchführung der Regelungen im Sinne des § 1 Absatz 1 sachdienlich sind, es sei denn, in diesem Gesetz wird etwas anderes geregelt.
 
 ### § 2 — Dauergrünland
 
@@ -54,9 +54,9 @@ Artikel 11 Absatz 1 der Verordnung (EU) Nr. 1307/2013 wird nicht angewendet.
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates den in Absatz 1 genannten Prozentsatz für die Jahre ab 2016 anzupassen, um
 
-1.
+1. eine höhere Ausschöpfung der Nettoobergrenze zu erreichen oder
 
-2.
+2. eine Überschreitung der Nettoobergrenze zu vermeiden.
 
 ### § 7 — Nationale Reserve
 
@@ -128,35 +128,29 @@ Ein Betriebsinhaber kann gleichwertige Methoden nach Maßgabe des Artikels 43 Ab
 
 (2) Absatz 1 gilt nicht für Flächen, die an dem dort genannten Tag Gegenstand einer Verpflichtung sind
 
-1.
+1. zur Stilllegung nach der Verordnung (EWG) Nr. 2078/92 des Rates vom 30. Juni 1992 für umweltgerechte und den natürlichen Lebensraum schützende landwirtschaftliche Produktionsverfahren (ABl. L 215 vom 30.7.1992, S. 85) in der jeweils geltenden Fassung,
 
-2.
+2. zur Umwandlung von Ackerland in Grünland nach Artikel 39 der Verordnung (EG) Nr. 1698/2005 des Rates vom 20. September 2005 über die Förderung der Entwicklung des ländlichen Raums durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) (ABl. L 277 vom 21.10.2005, S. 1) in der jeweils geltenden Fassung oder
 
-3.
+3. zur Beibehaltung von Grünland, das durch Umwandlung von Ackerland in Grünland im Rahmen einer Verpflichtung nach a)der Verordnung (EWG) Nr. 2078/92,b)den Artikeln 22 bis 24 der Verordnung (EG) Nr. 1257/1999 des Rates vom 17. Mai 1999 über die Förderung der Entwicklung des ländlichen Raums durch den Europäischen Ausrichtungs- und Garantiefonds für die Landwirtschaft (EAGFL) und zur Änderung bzw. Aufhebung bestimmter Verordnungen (ABl. L 160 vom 26.6.1999, S. 80) in der jeweils geltenden Fassung oderc)Artikel 39 der Verordnung (EG) Nr. 1698/2005entstanden ist und seither fortlaufend Gegenstand von Verpflichtungen zur Beibehaltung von Grünland nach den vorstehend genannten Vorschriften oder Artikel 28 der Verordnung (EU) Nr. 1305/2013 ist. der Verordnung (EWG) Nr. 2078/92, den Artikeln 22 bis 24 der Verordnung (EG) Nr. 1257/1999 des Rates vom 17. Mai 1999 über die Förderung der Entwicklung des ländlichen Raums durch den Europäischen Ausrichtungs- und Garantiefonds für die Landwirtschaft (EAGFL) und zur Änderung bzw. Aufhebung bestimmter Verordnungen (ABl. L 160 vom 26.6.1999, S. 80) in der jeweils geltenden Fassung oder Artikel 39 der Verordnung (EG) Nr. 1698/2005
 
-a)
+(2a) Beabsichtigt ein Betriebsinhaber die Nutzung einer Fläche, die als umweltsensibles Dauergrünland im Sinne des Absatzes 1 nach Maßgabe des Artikels 45 Absatz 1 Unterabsatz 3 der Verordnung (EU) Nr. 1307/2013 nicht gepflügt oder umgewandelt werden darf, so zu ändern, dass sie keine landwirtschaftliche Fläche im Sinne des Artikels 4 Absatz 1 Buchstabe e der Verordnung (EU) Nr. 1307/2013 ist, wird die Bestimmung dieser Fläche als umweltsensibel nach Absatz 1 auf seinen Antrag aufgehoben, wenn
 
-b)
+1. im Fall der Durchführung eines nach anderen Rechtsvorschriften genehmigungspflichtigen Vorhabens die erforderliche Genehmigung erteilt ist oder im Fall der Durchführung eines nach Bauordnungsrecht anzeige- oder sonst mitteilungspflichtigen Vorhabens die erforderliche Anzeige vorliegt und mit der Ausführung begonnen werden darf,
 
-c)
+2. im Fall der Durchführung eines nach § 34 Absatz 6 Satz 1 des Bundesnaturschutzgesetzes anzeigepflichtigen Projekts die Anzeige des Betriebsinhabers innerhalb der nach § 34 Absatz 6 Satz 3 des Bundesnaturschutzgesetzes einzuhaltenden Frist weder zu einer behördlichen Untersagung des Projekts noch zu einer Beschränkung, die die beabsichtigte Nutzung ausschließt, geführt hat oder
 
-(2a) Beabsichtigt ein Betriebsinhaber die Nutzung einer Fläche, die als umweltsensibles Dauergrünland im Sinne des Absatzes 1 nach Maßgabe des Artikels 45 Absatz 1 Unterabsatz 3 der Verordnung (EU) Nr. 1307/2013 nicht gepflügt oder umgewandelt werden darf, so zu ändern, dass sie keine landwirtschaftliche Fläche im Sinne des Artikels 4 Absatz 1 Buchstabe e der Verordnung (EU) Nr. 1307/2013 ist, wird die Bestimmung dieser Fläche als umweltsensibel nach Absatz 1 auf seinen Antrag aufgehoben, wenn Der Antrag auf Aufhebung der Bestimmung einer Fläche als umweltsensibel ist zusammen mit dem Antrag auf Genehmigung der Umwandlung des Dauergrünlands nach § 16 Absatz 3 zu stellen. Wird einer der beiden Anträge abgelehnt, gilt der andere Antrag ebenfalls als abgelehnt.
-
-1.
-
-2.
-
-3.
+3. in einem anderen als in den Nummern 1 und 2 genannten Fall Rechtsvorschriften, insbesondere die §§ 33 und 34 des Bundesnaturschutzgesetzes, oder Verpflichtungen gegenüber öffentlichen Stellen der beabsichtigten Nutzung nicht entgegenstehen und diese mit den für das jeweilige Gebiet festgelegten naturschutzrechtlichen Erhaltungszielen vereinbar ist.
 
 (2b) Für eine bis zum 27. Oktober 2016 vorgenommene, mit den sonstigen Vorschriften vereinbare Änderung der Nutzung einer nach Absatz 1 umweltsensiblen Dauergrünlandfläche derart, dass die Fläche keine landwirtschaftliche Fläche im Sinne des Artikels 4 Absatz 1 Buchstabe e der Verordnung (EU) Nr. 1307/2013 ist, gilt die Bestimmung als umweltsensibel als zum Zeitpunkt der Änderung der Nutzung aufgehoben. Der Betriebsinhaber hat der zuständigen Behörde eine bis zum 27. Oktober 2016 vorgenommene Änderung der Nutzung mitzuteilen.
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, um Regelungen im Sinne des § 1 Absatz 1 zur Gewährleistung des Erhaltes des Dauergrünlands sachgerecht durchzuführen, durch Rechtsverordnung mit Zustimmung des Bundesrates für den Fall der Nichteinhaltung der Verpflichtung nach Artikel 45 Absatz 1 Unterabsatz 3 der Verordnung (EU) Nr. 1307/2013
 
-1.
+1. Vorschriften über die Verpflichtung des Betriebsinhabers zur Rückumwandlung oder Wiederanlage umgewandelten oder gepflügten Dauergrünlands vorzusehen,
 
-2.
+2. Grundsätze über Maßgaben für eine Rückumwandlung oder Wiederanlage zu regeln,
 
-3.
+3. Vorschriften über das Verfahren zu erlassen.
 
 (4) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, um Regelungen im Sinne des § 1 Absatz 1 zur Gewährleistung des Erhalts des Dauergrünlands sachgerecht durchzuführen, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über das Verfahren in den Fällen der Absätze 2a und 2b zu erlassen.
 
@@ -166,31 +160,13 @@ c)
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, um Regelungen im Sinne des § 1 Absatz 1 sachgerecht durchzuführen, durch Rechtsverordnung mit Zustimmung des Bundesrates die genaue Methode zur Bestimmung des Dauergrünlandanteils, der nach den in § 1 Absatz 1 genannten Rechtsakten beizubehalten ist, sowie zur Bestimmung oder Anpassung des in Artikel 45 Absatz 2 Unterabsatz 1 der Verordnung (EU) Nr. 1307/2013 bezeichneten Referenzanteils zu bestimmen. Die zuständigen Behörden machen den maßgeblichen Referenzanteil im Bundesanzeiger bekannt.
 
-(3) Dauergrünland darf nur mit Genehmigung umgewandelt werden. Eine Genehmigung wird erteilt Abweichend von Satz 2 Nummer 2 ist Dauergrünland, das auf Grund angelegt worden ist, Dauergrünland im Sinne des Satzes 2 Nummer 3. Abweichend von Satz 2 Nummer 3 wird die Genehmigung ohne Pflicht zur Neuanlage von Dauergrünland erteilt, wenn Eine Genehmigung nach Satz 2, auch in Verbindung mit Satz 4, wird jedoch nicht erteilt, wenn
+(3) Dauergrünland darf nur mit Genehmigung umgewandelt werden. Eine Genehmigung wird erteilt
 
-1.
+1. im Fall von Dauergrünland, das im Rahmen von Agrarumweltmaßnahmen nach der Verordnung (EG) Nr. 1257/1999 oder der Verordnung (EG) Nr. 1698/2005 oder Agrarumwelt-Klima-Maßnahmen nach der Verordnung (EU) Nr. 1305/2013 entstanden ist,
 
-2.
+2. im Fall von anderem Dauergrünland als dem in Nummer 1 genannten, das ab dem Jahr 2015 neu entstanden ist,
 
-3.
-
-1.
-
-2.
-
-1.
-
-a)
-
-b)
-
-2.
-
-1.
-
-2.
-
-3.
+3. im Fall von anderem Dauergrünland als dem in den Nummern 1 und 2 genannten, wenn in derselben Region nach Absatz 1 eine andere Fläche mit der entsprechenden Hektarzahl als Dauergrünland angelegt wird.
 
 (4) Sobald der nach Artikel 45 Absatz 2 der Verordnung (EU) Nr. 1307/2013 ermittelte Dauergrünlandanteil in einer Region um mehr als 5 Prozent im Vergleich zu dem nach Absatz 2 Satz 2 bekannt gemachten Referenzanteil abgenommen hat, macht die zuständige Behörde dies im Bundesanzeiger bekannt.
 
@@ -206,27 +182,27 @@ b)
 
 (2) Absatz 1 findet keine Anwendung:
 
-1.
+1. wenn die Umwandlung vor dem 1. Januar 2020 erfolgt ist,
 
-2.
+2. bei Flächen, die an Flächen angrenzen, die auf Grund einer Genehmigung zur Umwandlung von Dauergrünland im selben Jahr umgewandelt worden sind oder werden können,
 
-3.
+3. wenn ein Fall des § 15 Absatz 2a vorliegt,
 
-4.
+4. bei Dauergrünland, das auf Grund der in § 16 Absatz 3 Satz 3 Nummer 1 und 2 genannten Vorschriften angelegt worden ist, vor Ablauf des Zeitraums, in dem die Flächen zum Anbau von Gras oder anderen Grünfutterpflanzen genutzt werden müssen,
 
-5.
+5. mit Ablauf des Tages einer Bekanntmachung nach § 16 Absatz 4 in der davon betroffenen Region oder
 
-6.
+6. bei Umwandlung einer zusammenhängenden Fläche von mehr als 500 Quadratmetern.
 
 (3) Bei Umwandlung ohne Genehmigung von mehreren Flächen Dauergrünland durch einen Betriebsinhaber in einem Jahr, deren einzelne Umwandlung zwar keiner Genehmigung bedurft hätte, die aber zusammen größer als 500 Quadratmeter sind, gilt eine Genehmigung zur Umwandlung von Dauergrünland in Anwendung des Absatzes 1 als nicht erforderlich für diejenige oder diejenigen dieser Flächen, deren Größe einzeln oder zusammengerechnet am nächsten an 500 Quadratmeter herankommt, ohne dass 500 Quadratmeter überschritten werden.
 
 (4) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, um Regelungen im Sinne des § 1 Absatz 1 zur Gewährleistung des Erhalts des Dauergrünlands sachgerecht durchzuführen, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zur Durchführung der Absätze 1 bis 3 zu erlassen. Rechtsverordnungen nach Satz 1 können insbesondere umfassen:
 
-1.
+1. weitere Voraussetzungen für eine Umwandlung nach Absatz 1,
 
-2.
+2. Melde- und Auskunftspflichten,
 
-3.
+3. Vorschriften über das Verfahren.
 
 ### § 17 — Ermächtigungen zur Beibehaltung des Dauergrünlandanteils
 
@@ -234,37 +210,23 @@ b)
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, um Regelungen im Sinne des § 1 Absatz 1 zur Gewährleistung der Beibehaltung des Dauergrünlandanteils sachgerecht durchzuführen, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen für die Genehmigung nach § 16 Absatz 3 über
 
-1.
+1. ergänzende Regelungen für die Neuanlage von Dauergrünland an anderer Stelle in derselben Region nach § 16 Absatz 1,
 
-2.
+2. das Verfahren.
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, um Regelungen im Sinne des § 1 Absatz 1 zur Gewährleistung der Beibehaltung des Dauergrünlandanteils sachgerecht durchzuführen, durch Rechtsverordnung mit Zustimmung des Bundesrates vorzusehen, dass Dauergrünland im Fall des § 16 Absatz 5 mit Genehmigung umgewandelt werden darf und Vorschriften über die Erteilung der Genehmigung für eine oder mehrere der in § 16 Absatz 3 Satz 2 bis 4 genannten Fallgestaltungen zu erlassen. Rechtsverordnungen nach Satz 1 können insbesondere umfassen:
 
-1.
+1. weitere Voraussetzungen für die Genehmigung der Umwandlung von Dauergrünland,
 
-2.
+2. Vorschriften über die Neuanlage von Dauergrünland an anderer Stelle in derselben Region nach § 16 Absatz 1,
 
-3.
+3. Vorschriften über das Verfahren.
 
-(4) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, um Regelungen im Sinne des § 1 Absatz 1 zur Gewährleistung der Beibehaltung des Dauergrünlandanteils sachgerecht durchzuführen, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über die Rückumwandlung anderer umgewandelter Dauergrünlandflächen als der in § 15 Absatz 1 genannten Dauergrünlandflächen, soweit Diese Vorschriften können insbesondere umfassen:
+(4) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, um Regelungen im Sinne des § 1 Absatz 1 zur Gewährleistung der Beibehaltung des Dauergrünlandanteils sachgerecht durchzuführen, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über die Rückumwandlung anderer umgewandelter Dauergrünlandflächen als der in § 15 Absatz 1 genannten Dauergrünlandflächen, soweit
 
-1.
+1. die Umwandlung entgegen a)§ 16 Absatz 3 oder 5 oderb)einer Rechtsverordnung nach Absatz 2 oder 3 § 16 Absatz 3 oder 5 oder einer Rechtsverordnung nach Absatz 2 oder 3 erfolgt ist oder
 
-a)
-
-b)
-
-2.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
+2. der Anteil von Flächen mit Dauergrünland auf Ebene der jeweiligen Region um mehr als 5 Prozent im Vergleich zum Referenzanteil abgenommen hat.
 
 ### § 18 — Flächennutzung im Umweltinteresse
 
@@ -274,21 +236,21 @@ b)
 
 (3) Eine Fläche der in Artikel 46 Absatz 2 Buchstabe i der Verordnung (EU) Nr. 1307/2013 bezeichneten Flächenart ist vorbehaltlich einer Rechtsverordnung auf Grund des Absatzes 5 Satz 1 Nummer 1 hinsichtlich weiterer Kriterien dann als im Umweltinteresse genutzte Fläche anzusehen, wenn
 
-1.
+1. dort im Antragsjahr nach der Ernte der Vorkultur weder chemisch-synthetische Pflanzenschutzmittel noch mineralische Stickstoffdüngemittel noch Klärschlamm eingesetzt werden,
 
-2.
+2. im Fall der Einsaat einer Kulturpflanzenmischung diese aus mindestens zwei Arten besteht und
 
-3.
+3. im Fall der Aussaat einer Kulturpflanzenmischung diese nach der Ernte der Vorkultur im selben Kalenderjahr und spätestens am 1. Oktober erfolgt.
 
 (4) Eine Fläche der in Artikel 46 Absatz 2 Buchstabe j der Verordnung (EU) Nr. 1307/2013 bezeichneten Flächenart ist vorbehaltlich einer Rechtsverordnung auf Grund des Absatzes 5 Satz 1 Nummer 1 hinsichtlich weiterer Kriterien dann als im Umweltinteresse genutzte Fläche anzusehen, wenn nach Beendigung des Anbaus der stickstoffbindenden Pflanzen im Antragsjahr eine Winterkultur oder Winterzwischenfrucht angebaut wird.
 
-(5) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, um Regelungen im Sinne des § 1 Absatz 1 sachgerecht durchzuführen, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über Die Ermächtigung nach Satz 1 Nummer 1 gilt bei Flächen der in Artikel 46 Absatz 2 Buchstabe j der Verordnung (EU) Nr. 1307/2013 bezeichneten Flächenart für Kriterien hinsichtlich des Einsatzes von Düngemitteln sowie von Pflanzenschutzmitteln mit der Maßgabe, dass nur Regelungen für die vorbezeichnete Flächenart getroffen werden, die eine Startdüngung und Pflanzenschutz nach guter fachlicher Praxis zulassen.
+(5) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, um Regelungen im Sinne des § 1 Absatz 1 sachgerecht durchzuführen, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über
 
-1.
+1. die Festlegung weiterer Kriterien für die Einstufung der in Absatz 1 genannten Flächenarten als im Umweltinteresse genutzte Flächen,
 
-2.
+2. die Festlegung anderer als der in Artikel 46 Absatz 2 der Verordnung (EU) Nr. 1307/2013 bezeichneten Flächenarten, die nach Regelungen in einem Rechtsakt der Europäischen Kommission nach Artikel 46 Absatz 9 Buchstabe b der Verordnung (EU) Nr. 1307/2013 ergänzt werden können, als im Umweltinteresse genutzte Flächen einschließlich der Festlegung weiterer Kriterien für die Einstufung dieser Flächenarten als im Umweltinteresse genutzte Flächen,
 
-3.
+3. die Heranziehung von Umrechnungsfaktoren zur Berechnung der Gesamthektarfläche der im Umweltinteresse genutzten Flächen des Betriebs.
 
 ## Unterabschnitt 3: Zahlung für Junglandwirte
 
@@ -324,9 +286,9 @@ b)
 
 (2) Die Umverteilungsprämie wird bundeseinheitlich gewährt
 
-1.
+1. je aktiviertem Zahlungsanspruch eines Betriebsinhabers im Umfang von höchstens 46 Zahlungsansprüchen (berücksichtigungsfähige Zahlungsansprüche) unter Aufteilung der berücksichtigungsfähigen Zahlungsansprüche in die Gruppe der ersten 30 berücksichtigungsfähigen Zahlungsansprüche (Gruppe 1) und die Gruppe der weiteren 16 berücksichtigungsfähigen Zahlungsansprüche (Gruppe 2) und
 
-2.
+2. auf der Grundlage der Festlegung eines Betrages je Zahlungsanspruch der Gruppe 1 und eines Betrages je Zahlungsanspruch der Gruppe 2 nach § 22.
 
 ### § 22 — Finanzvolumen und Beträge
 
@@ -350,7 +312,7 @@ Die Gewährung einer Umverteilungsprämie ist ausgeschlossen, wenn ein Betriebsi
 
 ### § 25 — Anwendung der Kleinerzeugerregelung
 
-Die Kleinerzeugerregelung nach Titel V der Verordnung (EU) Nr. 1307/2013 wird angewendet mit der Zahlungsmodalität nach Artikel 63 Absatz 2 Unterabsatz 1 Buchstabe a der Verordnung (EU) Nr. 1307/2013. Der einem teilnehmenden Betriebsinhaber zu gewährende Betrag beträgt für jedes Jahr höchstens 1 250 Euro.
+Die Kleinerzeugerregelung nach Titel V der Verordnung (EU) Nr. 1307/2013 wird angewendet mit der Zahlungsmodalität nach Artikel 63 Absatz 2 Unterabsatz 1 Buchstabe a der Verordnung (EU) Nr. 1307/2013. Der einem teilnehmenden Betriebsinhaber zu gewährende Betrag beträgt für jedes Jahr höchstens 1 250 Euro.
 
 ## Abschnitt 3: Schlussvorschriften
 
@@ -358,9 +320,9 @@ Die Kleinerzeugerregelung nach Titel V der Verordnung (EU) Nr. 1307/2013 wird an
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
-1.
+1. Verweisungen auf Vorschriften der Verordnung (EU) Nr. 1307/2013 oder der Verordnung (EU) Nr. 1305/2013 in diesem Gesetz zu ändern, soweit es zur Anpassung an Änderungen dieser Vorschriften erforderlich ist,
 
-2.
+2. Vorschriften dieses Gesetzes zu streichen oder in ihrem Wortlaut einem verbleibenden Anwendungsbereich anzupassen, soweit sie durch den Erlass entsprechender Vorschriften in Verordnungen der Europäischen Union unanwendbar geworden sind.
 
 ### § 27 — Bundesanstalt für Landwirtschaft und Ernährung
 

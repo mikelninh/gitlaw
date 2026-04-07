@@ -17,14 +17,32 @@ Im Sinne dieser Verordnung sind Deckinfektionen des Rindes die durch den Deckakt
 
 ### § 2
 
-(1) Die Vorschriften des § 2 Abs. 2 bis § 10 gelten nur für 1.die durch Tritrichomonas foetus hervorgerufene Trichomonadenseuche des Rindes und 2.die durch Vibrio fetus venerealis hervorgerufene Vibrionenseuche des Rindes. (2) Bei einem Rind liegen vor: 1.Eine Deckinfektion, wenna)in den Geschlechtsorganen eines weiblichen Rindes, in den Eihäuten, in der abgestoßenen Frucht, im Vaginalschleim oder im Gebärmutterausfluss oder b)im Samen eines Bullen oder in der Präputialspülflüssigkeit der Erreger nachgewiesen ist; 2.der Verdacht auf eine Deckinfektion, wenna)ein oder mehrere Rinder verkalben oder mehrmals umrindern oder sonstige Erscheinungen bei einem weiblichen Rind vorliegen, die den Ausbruch der Krankheit befürchten lassen, und im Bestand vermehrt Fruchtbarkeitsstörungen auftreten, b)bei einem Deck- oder Besamungsbullen oder bei Rindern, die von einem solchen Bullen gedeckt oder besamt worden sind, Erscheinungen auftreten, die den Ausbruch der Krankheit befürchten lassen; 3.der Ansteckungsverdacht auf eine Deckinfektion, wenna)das Rind mit Rindern, bei denen eine Deckinfektion oder der Verdacht auf eine Deckinfektion festgestellt ist, in geschlechtliche Berührung gekommen ist oder b)bei Rindern, die mit dem Samen eines seuchenkranken Besamungsbullen besamt worden sind,aa)die Auswertung der Besamungsergebnisse auf eine Deckinfektion oder den Verdacht auf eine Deckinfektion schließen lässt oder bb)durch Untersuchung bei mindestens einem Rind eine Deckinfektion oder der Verdacht einer Deckinfektion festgestellt worden ist.
+(1) Die Vorschriften des § 2 Abs. 2 bis § 10 gelten nur für
+
+1. die durch Tritrichomonas foetus hervorgerufene Trichomonadenseuche des Rindes und
+
+2. die durch Vibrio fetus venerealis hervorgerufene Vibrionenseuche des Rindes.
+
+(2) Bei einem Rind liegen vor:
+
+1. Eine Deckinfektion, wenna)in den Geschlechtsorganen eines weiblichen Rindes, in den Eihäuten, in der abgestoßenen Frucht, im Vaginalschleim oder im Gebärmutterausfluss oder b)im Samen eines Bullen oder in der Präputialspülflüssigkeit in den Geschlechtsorganen eines weiblichen Rindes, in den Eihäuten, in der abgestoßenen Frucht, im Vaginalschleim oder im Gebärmutterausfluss oder im Samen eines Bullen oder in der Präputialspülflüssigkeit der Erreger nachgewiesen ist;
+
+2. der Verdacht auf eine Deckinfektion, wenna)ein oder mehrere Rinder verkalben oder mehrmals umrindern oder sonstige Erscheinungen bei einem weiblichen Rind vorliegen, die den Ausbruch der Krankheit befürchten lassen, und im Bestand vermehrt Fruchtbarkeitsstörungen auftreten, b)bei einem Deck- oder Besamungsbullen oder bei Rindern, die von einem solchen Bullen gedeckt oder besamt worden sind, Erscheinungen auftreten, die den Ausbruch der Krankheit befürchten lassen; ein oder mehrere Rinder verkalben oder mehrmals umrindern oder sonstige Erscheinungen bei einem weiblichen Rind vorliegen, die den Ausbruch der Krankheit befürchten lassen, und im Bestand vermehrt Fruchtbarkeitsstörungen auftreten, bei einem Deck- oder Besamungsbullen oder bei Rindern, die von einem solchen Bullen gedeckt oder besamt worden sind, Erscheinungen auftreten, die den Ausbruch der Krankheit befürchten lassen;
+
+3. der Ansteckungsverdacht auf eine Deckinfektion, wenna)das Rind mit Rindern, bei denen eine Deckinfektion oder der Verdacht auf eine Deckinfektion festgestellt ist, in geschlechtliche Berührung gekommen ist oder b)bei Rindern, die mit dem Samen eines seuchenkranken Besamungsbullen besamt worden sind,aa)die Auswertung der Besamungsergebnisse auf eine Deckinfektion oder den Verdacht auf eine Deckinfektion schließen lässt oder bb)durch Untersuchung bei mindestens einem Rind eine Deckinfektion oder der Verdacht einer Deckinfektion festgestellt worden ist. das Rind mit Rindern, bei denen eine Deckinfektion oder der Verdacht auf eine Deckinfektion festgestellt ist, in geschlechtliche Berührung gekommen ist oder bei Rindern, die mit dem Samen eines seuchenkranken Besamungsbullen besamt worden sind,aa)die Auswertung der Besamungsergebnisse auf eine Deckinfektion oder den Verdacht auf eine Deckinfektion schließen lässt oder bb)durch Untersuchung bei mindestens einem Rind eine Deckinfektion oder der Verdacht einer Deckinfektion festgestellt worden ist. die Auswertung der Besamungsergebnisse auf eine Deckinfektion oder den Verdacht auf eine Deckinfektion schließen lässt oder durch Untersuchung bei mindestens einem Rind eine Deckinfektion oder der Verdacht einer Deckinfektion festgestellt worden ist.
 
 ## 2.: Schutzmaßregeln vor amtlicher
 Feststellung einer Deckinfektion
 
 ### § 3
 
-Im Falle des Verdachts auf eine Deckinfektion hat der Tierhalter 1.die Rinder seines Bestandes unverzüglich durch einen Tierarzt auf das Vorliegen einer Deckinfektion untersuchen zu lassen, 2.an den Ein- und Ausgängen der Ställe oder sonstigen Standortea)Matten oder sonstige saugfähige Bodenauflagen (Bodenauflagen) auszulegen und b)die Bodenauflagen mit einem wirksamen Desinfektionsmittel zu tränken und feucht zu halten, 3.sicherzustellen, dassa)die Rinder seines Bestandes nur künstlich besamt werden, b)Rinder aus dem Bestand nicht verbracht werden, c)abgestoßene oder abgestorbene Früchte, totgeborene Kälber und Nachgeburten unverzüglich auf das Vorliegen von Erregern einer Deckinfektion untersucht werden, d)die zur Samengewinnung benutzten Gerätschaften gereinigt und desinfiziert werden und e)bereits gewonnener Samen bis zu dem Zeitpunkt, in dem sich der Verdacht auf eine Deckinfektion als unbegründet erwiesen hat, nicht verwendet wird.
+Im Falle des Verdachts auf eine Deckinfektion hat der Tierhalter
+
+1. die Rinder seines Bestandes unverzüglich durch einen Tierarzt auf das Vorliegen einer Deckinfektion untersuchen zu lassen,
+
+2. an den Ein- und Ausgängen der Ställe oder sonstigen Standortea)Matten oder sonstige saugfähige Bodenauflagen (Bodenauflagen) auszulegen und b)die Bodenauflagen mit einem wirksamen Desinfektionsmittel zu tränken und feucht zu halten, Matten oder sonstige saugfähige Bodenauflagen (Bodenauflagen) auszulegen und die Bodenauflagen mit einem wirksamen Desinfektionsmittel zu tränken und feucht zu halten,
+
+3. sicherzustellen, dassa)die Rinder seines Bestandes nur künstlich besamt werden, b)Rinder aus dem Bestand nicht verbracht werden, c)abgestoßene oder abgestorbene Früchte, totgeborene Kälber und Nachgeburten unverzüglich auf das Vorliegen von Erregern einer Deckinfektion untersucht werden, d)die zur Samengewinnung benutzten Gerätschaften gereinigt und desinfiziert werden und e)bereits gewonnener Samen bis zu dem Zeitpunkt, in dem sich der Verdacht auf eine Deckinfektion als unbegründet erwiesen hat, nicht verwendet wird. die Rinder seines Bestandes nur künstlich besamt werden, Rinder aus dem Bestand nicht verbracht werden, abgestoßene oder abgestorbene Früchte, totgeborene Kälber und Nachgeburten unverzüglich auf das Vorliegen von Erregern einer Deckinfektion untersucht werden, die zur Samengewinnung benutzten Gerätschaften gereinigt und desinfiziert werden und bereits gewonnener Samen bis zu dem Zeitpunkt, in dem sich der Verdacht auf eine Deckinfektion als unbegründet erwiesen hat, nicht verwendet wird.
 
 ## 3.: Schutzmaßregeln nach amtlicher
 Feststellung einer Deckinfektion
@@ -49,13 +67,33 @@ Ansteckungsverdächtige Rinder, die sich in nicht gesperrten Gehöften oder sons
 
 ### § 9
 
-Nach näherer Anweisung des beamteten Tierarztes sind 1.zur künstlichen Besamung seuchenkranker und verdächtiger Rinder verwendete Geräte, soweit sie nicht unschädlich beseitigt werden, 2.Standplätze der Tiere und die diesen benachbarten Standplätze nach Geburten, tierärztlichen Behandlungen und bei Verunreinigungen durch krankhafte Ausscheidungen und 3.Gegenstände, die Träger des Ansteckungsstoffes sein können, zu reinigen und zu desinfizieren.
+Nach näherer Anweisung des beamteten Tierarztes sind
+
+1. zur künstlichen Besamung seuchenkranker und verdächtiger Rinder verwendete Geräte, soweit sie nicht unschädlich beseitigt werden,
+
+2. Standplätze der Tiere und die diesen benachbarten Standplätze nach Geburten, tierärztlichen Behandlungen und bei Verunreinigungen durch krankhafte Ausscheidungen und
+
+3. Gegenstände, die Träger des Ansteckungsstoffes sein können,
 
 ## 6.: Aufhebung der Schutzmaßregeln
 
 ### § 10
 
-(1) Angeordnete Schutzmaßregeln sind aufzuheben, wenn die Deckinfektion erloschen ist oder der Verdacht auf eine Deckinfektion sich als unbegründet erwiesen hat.(2) Die Deckinfektion gilt als erloschen, wenn 1.alle seuchenkranken und seuchenverdächtigen Rinder entfernt worden sind oder die im Bestand verbliebenen seuchenkranken und seuchenverdächtigen Rinder sich als unverdächtig nach Absatz 4 erwiesen haben und 2.a)die ansteckungsverdächtigen Rinder des Bestandes sich als unverdächtig nach Absatz 4 erwiesen haben oder b)in dem Bestand mindestens zwei Jahre seit Feststellung der Infektion ausschließlich künstlich besamt wurde. (3) Der Verdacht auf eine Deckinfektion gilt als unbegründet, wenn die Rinder unverdächtig sind.(4) Unverdächtig sind 1.weibliche Rinder, wenna)bei einer mindestens zweimaligen, in etwa zehntägigem Abstand durchgeführten mikrobiologischen Untersuchung Erreger von Deckinfektionen nicht nachgewiesen und b)bei einer klinischen Untersuchung Anzeichen, die das Vorliegen einer Deckinfektion befürchten lassen, nicht festgestellt wurden; 2.Zuchtbullen, wenna)bei einer dreimaligen, in etwa zehntägigem Abstand durchgeführten mikrobiologischen Untersuchung von Präputialspülflüssigkeit oder von Samen Erreger einer Deckinfektion nicht nachgewiesen wurden, b)bei einer klinischen Untersuchung Anzeichen, die das Vorliegen einer Deckinfektion befürchten lassen, nicht festgestellt wurden und c)während des Zeitraumes der Untersuchung der Bulle abgesondert von weiblichen Tieren gehalten wurde.
+(1) Angeordnete Schutzmaßregeln sind aufzuheben, wenn die Deckinfektion erloschen ist oder der Verdacht auf eine Deckinfektion sich als unbegründet erwiesen hat.
+
+(2) Die Deckinfektion gilt als erloschen, wenn
+
+1. alle seuchenkranken und seuchenverdächtigen Rinder entfernt worden sind oder die im Bestand verbliebenen seuchenkranken und seuchenverdächtigen Rinder sich als unverdächtig nach Absatz 4 erwiesen haben und
+
+2. a)die ansteckungsverdächtigen Rinder des Bestandes sich als unverdächtig nach Absatz 4 erwiesen haben oder b)in dem Bestand mindestens zwei Jahre seit Feststellung der Infektion ausschließlich künstlich besamt wurde. die ansteckungsverdächtigen Rinder des Bestandes sich als unverdächtig nach Absatz 4 erwiesen haben oder in dem Bestand mindestens zwei Jahre seit Feststellung der Infektion ausschließlich künstlich besamt wurde.
+
+(3) Der Verdacht auf eine Deckinfektion gilt als unbegründet, wenn die Rinder unverdächtig sind.
+
+(4) Unverdächtig sind
+
+1. weibliche Rinder, wenna)bei einer mindestens zweimaligen, in etwa zehntägigem Abstand durchgeführten mikrobiologischen Untersuchung Erreger von Deckinfektionen nicht nachgewiesen und b)bei einer klinischen Untersuchung Anzeichen, die das Vorliegen einer Deckinfektion befürchten lassen, nicht festgestellt wurden; bei einer mindestens zweimaligen, in etwa zehntägigem Abstand durchgeführten mikrobiologischen Untersuchung Erreger von Deckinfektionen nicht nachgewiesen und bei einer klinischen Untersuchung Anzeichen, die das Vorliegen einer Deckinfektion befürchten lassen, nicht festgestellt wurden;
+
+2. Zuchtbullen, wenna)bei einer dreimaligen, in etwa zehntägigem Abstand durchgeführten mikrobiologischen Untersuchung von Präputialspülflüssigkeit oder von Samen Erreger einer Deckinfektion nicht nachgewiesen wurden, b)bei einer klinischen Untersuchung Anzeichen, die das Vorliegen einer Deckinfektion befürchten lassen, nicht festgestellt wurden und c)während des Zeitraumes der Untersuchung der Bulle abgesondert von weiblichen Tieren gehalten wurde. bei einer dreimaligen, in etwa zehntägigem Abstand durchgeführten mikrobiologischen Untersuchung von Präputialspülflüssigkeit oder von Samen Erreger einer Deckinfektion nicht nachgewiesen wurden, bei einer klinischen Untersuchung Anzeichen, die das Vorliegen einer Deckinfektion befürchten lassen, nicht festgestellt wurden und während des Zeitraumes der Untersuchung der Bulle abgesondert von weiblichen Tieren gehalten wurde.
 
 ## B.: Schutzmaßregeln gegen andere Deckinfektionen
 
@@ -71,7 +109,17 @@ Werden bei Rindern durch klinische, bakteriologische, virologische oder serologi
 
 ### § 13
 
-Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig 1.entgegen § 3 Nummer 1 ein Rind nicht oder nicht rechtzeitig untersuchen lässt,2.entgegen § 4 Satz 2 nicht sicherstellt, dass Samen beseitigt wird,3.einer vollziehbaren Anordnung nach § 7 oder § 11 zuwiderhandelt,4.entgegen § 8 Satz 2 ein Rind entfernt oder besamt oder einen Bullen zum Decken verwendet oder5.einer mit einer Genehmigung nach § 8 Satz 2 verbundenen vollziehbaren Auflage zuwiderhandelt.
+Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
+
+1. entgegen § 3 Nummer 1 ein Rind nicht oder nicht rechtzeitig untersuchen lässt,
+
+2. entgegen § 4 Satz 2 nicht sicherstellt, dass Samen beseitigt wird,
+
+3. einer vollziehbaren Anordnung nach § 7 oder § 11 zuwiderhandelt,
+
+4. entgegen § 8 Satz 2 ein Rind entfernt oder besamt oder einen Bullen zum Decken verwendet oder
+
+5. einer mit einer Genehmigung nach § 8 Satz 2 verbundenen vollziehbaren Auflage zuwiderhandelt.
 
 ### § 14
 

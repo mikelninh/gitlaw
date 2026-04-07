@@ -15,15 +15,15 @@ Auf Grund des § 15 Absatz 1 der Erneuerbare-Energien-Verordnung vom 17. Februar
 
 ### § 1 — Anwendungsbereich und Gegenstand der Verordnung
 
-Für die im Flächenentwicklungsplan vom 20. Januar 2023, der am 20. Januar 2023 auf der Internetseite des Bundesamtes für Seeschifffahrt und Hydrographie bekanntgemacht wurde, festgelegten Flächen N-9.1, N-9.2 und N-9.3 in der deutschen ausschließlichen Wirtschaftszone der Nordsee werden durch diese Verordnung
+Für die im Flächenentwicklungsplan vom 20. Januar 2023
 
-1.
+1. die Eignung zur Ausschreibung nach § 12 Absatz 5 Satz 1 des Windenergie-auf-See-Gesetzes festgestellt,
 
-2.
+2. nach § 12 Absatz 5 Satz 2 des Windenergie-auf-See-Gesetzes entsprechend § 1 Absatz 3 des Windenergie-auf-See-Gesetzes festgestellt, dass die Realisierung von Windenergieanlagen auf See auf der zentral voruntersuchten Fläche aus Gründen eines überragenden öffentlichen Interesses und im Interesse der öffentlichen Sicherheit erforderlich ist,
 
-3.
+3. Vorgaben für das spätere Vorhaben nach § 12 Absatz 5 Satz 3 und 4 des Windenergie-auf-See-Gesetzes festgelegt und
 
-4.
+4. die auf den Flächen zu installierende Leistung nach § 12 Absatz 5 Satz 1 in Verbindung mit § 10 Absatz 3 des Windenergie-auf-See-Gesetzes festgestellt.
 
 ## Kapitel 1: Feststellung der Eignung und der Erforderlichkeit der Realisierung von Windenergieanlagen auf See
 
@@ -43,8 +43,6 @@ Die Realisierung von Windenergieanlagen auf See auf den Flächen N-9.1, N-9.2 un
 
 (2) Um das Schiffswrack mit dem Wrackmittelpunkt 54°27,7722'N, 005°40,4030'E WGS84 ist eine Ausschlusszone mit einem Radius von 90 Metern um den Wrackmittelpunkt einzuhalten.
 
-(3) Um das Schiffswrack mit dem Wrackmittelpunkt 54°31.6334'N, 005°47.3732'E WGS84 und das dazugehörige Trümmerfeld ist eine Ausschlusszone mit einem Radius von 90 Metern um die Schwerpunktkoordinate 54°31.6523'N, 005°47.3679'E WGS84 einzuhalten.
-
 ## Abschnitt 2: Besondere Vorgabe für die Fläche N-9.3
 
 ### § 5 — Ausschlusszone
@@ -55,11 +53,11 @@ Um das Schiffswrack mit dem Wrackmittelpunkt 54°33.1555'N, 005°50.2961'E WGS84
 
 ### § 6 — Feststellung der zu installierenden Leistung
 
-(1) Die auf der Fläche N-9.1 zu installierende Leistung beträgt 2 000 Megawatt.
+(1) Die auf der Fläche N-9.1 zu installierende Leistung beträgt 2 000 Megawatt.
 
-(2) Die auf der Fläche N-9.2 zu installierende Leistung beträgt 2 000 Megawatt.
+(2) Die auf der Fläche N-9.2 zu installierende Leistung beträgt 2 000 Megawatt.
 
-(3) Die auf der Fläche N-9.3 zu installierende Leistung beträgt 1 500 Megawatt.
+(3) Die auf der Fläche N-9.3 zu installierende Leistung beträgt 1 500 Megawatt.
 
 ## Teil 4: Schlussbestimmungen
 

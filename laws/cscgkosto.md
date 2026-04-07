@@ -27,6 +27,4 @@ Diese Verordnung tritt hinsichtlich der Kosten für die Zulassung der Container 
 
 ### Schlußformel
 
-Der Bundesminister für Verkehr
-
 ### Anlage — (zu § 1 Absatz 2)

@@ -8,61 +8,61 @@
 
 ### Eingangsformel
 
-Auf Grundverordnet das Bundesministerium für Wirtschaft und Technologie:
+Auf Grund
 
-–
+– des § 24 Absatz 1 des Schornsteinfegergesetzes in der Fassung der Bekanntmachung vom 10. August 1998 (BGBl. I S. 2071), der zuletzt durch das Dritte Gesetz zur Änderung des Energieeinsparungsgesetzes vom 28. März 2009 (BGBl. I S. 643) geändert worden ist,
 
-–
+– des § 1 Absatz 1 Satz 2 und des § 4 Absatz 4 des Schornsteinfeger-Handwerksgesetzes vom 26. November 2008 (BGBl. I S. 2242)
 
 ### § 1 — Kehr- oder überprüfungspflichtige Anlagen
 
 (1) Kehr- oder überprüfungspflichtig sind folgende Anlagen:
 
-1.
+1. Abgasanlagen,
 
-2.
+2. Heizgaswege der Feuerstätten,
 
-3.
+3. Räucheranlagen,
 
-4.
+4. notwendige Verbrennungsluft- und Abluftanlagen.
 
-(2) Bei Feuerstätten, Blockheizkraftwerken, Wärmepumpen und ortsfesten Verbrennungsmotoren für flüssige und gasförmige Brennstoffe darf der Kohlenmonoxidanteil im Rahmen der Abgaswegüberprüfung bezogen auf unverdünntes, trockenes Abgas nicht mehr als 1 000 ppm betragen. Bei Überschreitung dieser Werte ist die Überprüfung in Abhängigkeit von der konkreten Gefährdungslage spätestens nach sechs Wochen zu wiederholen. Eine Kohlenmonoxidmessung entfällt beiDie Messungen sind mit geeigneten Messeinrichtungen durchzuführen. Die eingesetzten Messeinrichtungen sind halbjährlich von einer der Stellen zu überprüfen, die in § 13 Absatz 3 der Verordnung über kleine und mittlere Feuerungsanlagen vom 26. Januar 2010 (BGBl. I S. 38) in der jeweils geltenden Fassung bezeichnet sind.
+(2) Bei Feuerstätten, Blockheizkraftwerken, Wärmepumpen und ortsfesten Verbrennungsmotoren für flüssige und gasförmige Brennstoffe darf der Kohlenmonoxidanteil im Rahmen der Abgaswegüberprüfung bezogen auf unverdünntes, trockenes Abgas nicht mehr als 1 000 ppm betragen. Bei Überschreitung dieser Werte ist die Überprüfung in Abhängigkeit von der konkreten Gefährdungslage spätestens nach sechs Wochen zu wiederholen. Eine Kohlenmonoxidmessung entfällt bei
 
-1.
+1. gasbeheizten Wäschetrocknern,
 
-2.
+2. Feuerstätten für gasförmige Brennstoffe ohne Gebläse mit Verbrennungsluftzufuhr und Abgasabführung durch die Außenwand, deren Ausmündung des Abgasaustritts im Bereich von mehr als 3 Meter über Erdgleiche liegt und zu Fenstern, Türen und Lüftungsöffnungen einen Abstand von mehr als 1 Meter hat,
 
-3.
+3. ortsfesten Netzersatzanlagen (Notstromaggregate).
 
 (3) Von der Kehr- und Überprüfungspflicht sind ausgenommen:
 
-1.
+1. Anlagen nach Absatz 1, die dauerhaft stillgelegt sind, wenn die Anschlussöffnungen für Feuerstätten an der Abgasanlage dichte Verschlüsse aus nicht brennbaren Stoffen haben, bei Feuerstätten für gasförmige Brennstoffe die Gaszufuhr durch Verschluss der Gasleitungen dauerhaft unterbunden ist und eine Mitteilung über die dauerhafte Stilllegung an die zuständige bevollmächtigte Bezirksschornsteinfegerin oder den zuständigen bevollmächtigten Bezirksschornsteinfeger schriftlich oder elektronisch erfolgt ist,
 
-2.
+2. freistehende senkrechte Teile der Abgasanlagen mit einem lichten Querschnitt von mehr als 10 000 Quadratzentimeter an der Sohle,
 
-3.
+3. frei in Wohnungen oder Aufenthaltsräumen verlaufende demontierbare Verbindungsstücke von Einzelfeuerstätten, Etagenheizungen oder Heizungsherden für feste oder flüssige Brennstoffe, sofern sie nicht von unten in die Schornsteinsohle einmünden und nicht abgedeckt werden können,
 
-4.
+4. Heizgaswege von betriebsbereiten, jedoch dauernd unbenutzten Anlagen nach Anlage 1 Nummer 1.9 und 2.5 sowie in Feuerstätten von kehrpflichtigen Anlagen, sofern es sich bei der Feuerstätte nicht um einen offenen Kamin handelt,
 
-5.
+5. dicht geschweißte Abgasanlagen von Blockheizkraftwerken, Kompressionswärmepumpen und ortsfesten Verbrennungsmotoren,
 
-6.
+6. gasbeheizte Haushalts-Wäschetrockner mit einer maximalen Wärmebelastung bis 6 Kilowatt,
 
-7.
+7. Koch- und Garschränke.
 
 (4) Die Anzahl der Kehrungen oder Überprüfungen richtet sich nach Anlage 1. Treffen bei Anlagen unterschiedliche Kehr- oder Überprüfungspflichten zu, so ist die geringste Festsetzung maßgebend. Bei Anschluss von mehreren Feuerstätten an eine Abgasanlage (Mehrfachbelegung) richtet sich die Anzahl der Kehrungen oder Überprüfungen nach der Feuerstätte, für die die höchste Anzahl der Kehrungen oder Überprüfungen festgesetzt ist. Wurden Anlagen nach Absatz 3 Nummer 1 zum Zeitpunkt der letzten regulären Kehrung oder Überprüfung nicht benutzt, sind sie vor Wiederinbetriebnahme zu überprüfen und erforderlichenfalls zu kehren.
 
 (5) Im Einzelfall kann die zuständige Behörde auf Antrag der zuständigen bevollmächtigten Bezirksschornsteinfegerin oder des zuständigen bevollmächtigten Bezirksschornsteinfegers die in Anlage 1 bestimmte Anzahl der Kehrungen oder Überprüfungen erhöhen, wenn es die Betriebs- und Brandsicherheit erfordert.
 
-(5a) Im Einzelfall kann die zuständige bevollmächtigte Bezirksschornsteinfegerin oder der zuständige bevollmächtigte Bezirksschornsteinfeger auf Antrag der Eigentümerin oder des Eigentümers des Grundstücks oder der Räume für Feuerstätten für feste Brennstoffe die in Anlage 1 Nummer 1.3, 1.5 und 1.6 bestimmte Anzahl der Kehrungen auf eine im Kalenderjahr herabsetzen, wenn Stellt die zuständige bevollmächtigte Bezirksschornsteinfegerin oder der zuständige bevollmächtigte Bezirksschornsteinfeger erstmals fest, dass die Voraussetzungen für eine Herabsetzung des Umfangs der Kehrungen vorliegen, hat sie oder er die Eigentümerin oder den Eigentümer auf die Möglichkeit eines Antrages nach Satz 1 hinzuweisen. Eine Herabsetzung kann erstmals nach einer Nutzungsdauer der Feuerstätte von einem Jahr beantragt werden. Liegen die Voraussetzungen für die Herabsetzung nicht mehr vor, hat die zuständige bevollmächtigte Bezirksschornsteinfegerin oder der zuständige bevollmächtigte Bezirksschornsteinfeger mit dem nächsten Feuerstättenbescheid die Anzahl der Kehrungen wieder entsprechend der Anlage 1 festzulegen.
+(5a) Im Einzelfall kann die zuständige bevollmächtigte Bezirksschornsteinfegerin oder der zuständige bevollmächtigte Bezirksschornsteinfeger auf Antrag der Eigentümerin oder des Eigentümers des Grundstücks oder der Räume für Feuerstätten für feste Brennstoffe die in Anlage 1 Nummer 1.3, 1.5 und 1.6 bestimmte Anzahl der Kehrungen auf eine im Kalenderjahr herabsetzen, wenn
 
-1.
+1. eine erkennbar rückstandsarme Verbrennung festgestellt worden ist,
 
-2.
+2. die Betriebs- und Brandsicherheit auch bei einer Herabsetzung sichergestellt ist,
 
-3.
+3. die Feuerstätte mindestens die Anforderungen der Stufe 2 nach § 5 Absatz 1 oder Anlage 4 Nummer 1 der Verordnung über kleine und mittlere Feuerungsanlagen einhält und
 
-4.
+4. der für die Feuerstätte benutzte Schornstein nur einfach belegt ist.
 
 (6) Im Einzelfall kann die zuständige Behörde auf Antrag der Eigentümerin oder des Eigentümers des Grundstücks oder der Räume und nach Anhörung der zuständigen bevollmächtigten Bezirksschornsteinfegerin oder des zuständigen bevollmächtigten Bezirksschornsteinfegers für kehr- oder überprüfungspflichtige Anlagen, die nach dem Bundes-Immissionsschutzgesetz genehmigt wurden, von dieser Verordnung abweichende Regelungen treffen, wenn die Betriebs- und Brandsicherheit durch besondere brandschutztechnische Einrichtungen oder andere Maßnahmen sichergestellt ist.
 
@@ -100,19 +100,19 @@ Für die Formblätter nach § 4 Absatz 1 des Schornsteinfeger-Handwerksgesetzes 
 
 (1) Gebühren sind für folgende Tätigkeiten zu entrichten:
 
-1.
+1. Feuerstättenschau nach § 14 Absatz 1 des Schornsteinfeger-Handwerksgesetzes,
 
-2.
+2. Erlass oder Änderung des Feuerstättenbescheides nach § 14a des Schornsteinfeger-Handwerksgesetzes,
 
-3.
+3. anlassbezogene Überprüfung nach § 15 Satz 1 des Schornsteinfeger-Handwerksgesetzes, wenn bei der Überprüfung tatsächlich Mängel festgestellt wurden,
 
-4.
+4. Mahnung rückständiger Gebühren nach § 20 Absatz 1 Satz 2 des Schornsteinfeger-Handwerksgesetzes,
 
-5.
+5. Ersatzvornahme nach § 26 des Schornsteinfeger-Handwerksgesetzes,
 
-6.
+6. Ablehnung eines Antrags auf Herabsetzung der Kehrhäufigkeit nach § 1 Absatz 5a, sowie
 
-7.
+7. anlassbezogene Überprüfung nach § 1 Absatz 8.
 
 (2) Eine Mahnung kann ausgesprochen werden, wenn eine rückständige Gebühr nach Anlage 3 innerhalb von 30 Tagen nach Zugang der Gebührenrechnung nicht bezahlt wurde. Die Mahngebühr nach Absatz 1 Nummer 4 darf nur einmal je fällige Gebührenrechnung erhoben werden.
 
@@ -138,60 +138,54 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage 3 — (zu § 6)
 
-> Anlage 3 Nr. 1.2 idF d. V v. 16.6.2009 I 1292: Hamburg - Abweichung durch § 2 Abs. 2 des Gesetzes zur Bemessung von Gebühren für Schornsteinfegerarbeiten und der Anzahl der Kehrbezirke (SchfGebG HA) v. 27.4.2010 HmbGVBl. S. 332 mWv 8.5.2010 (vgl. BGBl. I 2011, 96). Es besteht Unstimmigkeit bzgl. der Untergliederung. Anlage 3 Nr. 3 idF d. V v. 16.6.2009 I 1292: Hamburg - Abweichung durch § 2 Abs. 3 des Gesetzes zur Bemessung von Gebühren für Schornsteinfegerarbeiten und der Anzahl der Kehrbezirke (SchfGebG HA) v. 27.4.2010 HmbGVBl. S. 332 mWv 8.5.2010 (vgl. BGBl. I 2011, 96). Es besteht Unstimmigkeit bzgl. der Untergliederung.
-
 ### Anlage 4 — (zu § 7)
 
 Es bedeuten die Begriffe:
 
-1.
+1. „Abgasanlage“: Anlage, wie Schornstein, Verbindungsstück, Abgasleitung, Luft-Abgas-System oder Abluftschacht nach Nummer 15 b), für die Ableitung der Abgase von Feuerstätten und Räucheranlagen, sowie eine Anlage zur Abführung von Verbrennungsgasen von Blockheizkraftwerken, Wärmepumpen, ortsfesten Verbrennungsmotoren und Brennstoffzellenheizgeräten;
 
-2.
+2. „Abgasanlage für Überdruck“: Abgasanlage, bei deren Betrieb der statische Druck im Innern höher sein darf als der statische Druck in der Umgebung der Abgasanlage in gleicher Höhe;
 
-3.
+3. „Abgaskanal“: Verbindungsstück, das mit Böden, Decken, Wänden oder anderen Bauteilen fest verbunden ist;
 
-4.
+4. „Abgasleitung“: Abgasanlage, die nicht rußbrandbeständig sein muss;
 
-5.
+5. „Abgasrohr“: Frei verlaufendes Verbindungsstück;
 
-6.
+6. „Abgasweg“: Heizgasweg und Strömungsstrecke der Abgase innerhalb des Verbindungsstücks;
 
-7.
+7. „Blockheizkraftwerk“: Stationärer Motor oder Gasturbine, der oder die nach dem Prinzip der Kraft-Wärme-Kopplung sowohl elektrischen Strom als auch Wärme produziert;
 
-8.
+8. „Brennstoffzellenheizgerät“: Stationäre Anlage, die die im Brennstoff gebundene chemische Energie in einer Brennstoffzelle direkt in elektrische Energie umwandelt und die dabei entstehende Wärme für Heizzwecke nutzt;
 
-9.
+9. „Brennwertfeuerstätte“: Feuerstätte, bei der die Verdampfungswärme des im Abgas enthaltenen Wasserdampfes konstruktionsbedingt durch Kondensation nutzbar gemacht wird;
 
-10.
+10. „Feuerstätte“: Im oder am Gebäude ortsfest benutzte Anlage, die dazu bestimmt ist, durch Verbrennung Wärme zu erzeugen;
 
-11.
+11. „Feuerungsanlage“: Einheit von Verbrennungsluftversorgung, Feuerstätte oder Räucheranlage und Abgasanlage; wenn mehrere nicht überprüfungspflichtige Feuerstätten an eine gemeinsame Abgasanlage angeschlossen sind (Mehrfachbelegung), zählt dies als eine Feuerungsanlage, wenn mehrere überprüfungspflichtige Feuerstätten an eine gemeinsame Abgasanlage angeschlossen sind, zählt jeder Anschluss als Feuerungsanlage;
 
-12.
+12. „Gebäude“: Selbständig benutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können und geeignet oder bestimmt sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen;
 
-13.
+13. „Heizgasweg“: Strömungsstrecke der Verbrennungsgase oder Abgase innerhalb der Feuerstätte;
 
-14.
+14. „Luft-Abgas-System“: Abgasanlage mit nebeneinander oder ineinander angeordneten Schächten, durch die Feuerstätten Verbrennungsluft über den Luftschacht aus dem Bereich der Mündung der Abgasanlage zugeführt und von denen Abgase über den Abgasschacht ins Freie abgeführt werden;
 
-15.
+15. „notwendige Abluftanlage“: a)Schacht oder sonstige Anlage, der oder die zum Betrieb einer Feuerstätte oder zur Lüftung eines Raumes mit Feuerstätte erforderlich ist und deren Betrieb beeinflussen kann,b)Abluftschacht, der einen Raum entlüftet und Abgase einer Feuerstätte ins Freie leitet; Schacht oder sonstige Anlage, der oder die zum Betrieb einer Feuerstätte oder zur Lüftung eines Raumes mit Feuerstätte erforderlich ist und deren Betrieb beeinflussen kann, Abluftschacht, der einen Raum entlüftet und Abgase einer Feuerstätte ins Freie leitet;
 
-a)
+16. „notwendige Verbrennungsluftanlage“: Anlage oder Öffnung zur Zuführung von Außenluft zum Zwecke der Verbrennungsluftversorgung der Feuerstätte (einschließlich der Öffnung zum Zwecke des Verbrennungsluftverbundes);
 
-b)
+17. „Nutzungseinheit“: Gebäude oder Teil eines Gebäudes, der selbständig nutzbar ist und einen eigenen Zugang hat (z. B. Wohnung);
 
-16.
+18. „ortsfester Verbrennungsmotor“: Stationäre Wärmekraftmaschine, die durch innere Verbrennung von Treibstoff über Kolben oder eine Turbine mechanische Arbeit verrichtet;
 
-17.
+19. „Räucheranlage“: Anlage zum Konservieren oder zur Geschmacksveränderung von Lebensmitteln, die aus Raucherzeuger, Räucherschrank oder -kammer besteht;
 
-18.
+20. „Raumluftunabhängige Feuerstätte“: Feuerstätte, der die Verbrennungsluft über dichte Leitungen direkt aus dem Freien zugeführt wird, und bei der bei einem statischen Überdruck in der Feuerstätte gegenüber dem Aufstellraum kein Abgas in Gefahr drohender Menge in den Aufstellungsraum austreten kann;
 
-19.
+21. „Schornstein“: Senkrechter Teil der Abgasanlage, der rußbrandbeständig ist;
 
-20.
+22. „Senkrechter Teil der Abgasanlage“: Vom Baugrund oder von einem Unterbau ins Freie führender Teil der Abgasanlage;
 
-21.
+23. „Verbindungsstück“: Vorrichtung zwischen dem Abgasstutzen der Feuerstätte, der Räucheranlage, des Blockheizkraftwerks, der Wärmepumpe, des ortsfesten Verbrennungsmotors oder des Brennstoffzellenheizgeräts und dem senkrechten Teil der Abgasanlage;
 
-22.
-
-23.
-
-24.
+24. „Wärmepumpe“: Maschine, die der Luft, dem Wasser oder dem Erdreich Wärme entzieht, diese über verbrennungsmotorisch angetriebene Kompressoren oder über Sorptionseinrichtungen von einem niedrigen Temperaturniveau auf ein höheres bringt und damit für Heizzwecke bzw. Warmwasserbereitung nutzbar macht.

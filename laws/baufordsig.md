@@ -14,11 +14,11 @@
 
 (2) Ist der Empfänger selbst an der Herstellung oder dem Umbau beteiligt, so darf er das Baugeld in Höhe des angemessenen Wertes der von ihm erbrachten Leistungen für sich behalten.
 
-(3) Baugeld sind Geldbeträge, Beträge, die zum Zweck der Bestreitung der Kosten eines Baues oder Umbaues gewährt werden, sind insbesondere Abschlagszahlungen und solche, deren Auszahlung ohne nähere Bestimmung des Zweckes der Verwendung nach Maßgabe des Fortschrittes des Baues oder Umbaues erfolgen soll.
+(3) Baugeld sind Geldbeträge,
 
-1.
+1. die zum Zweck der Bestreitung der Kosten eines Baues oder Umbaues in der Weise gewährt werden, dass zur Sicherung der Ansprüche des Geldgebers eine Hypothek oder Grundschuld an dem zu bebauenden Grundstück dient oder die Übertragung eines Eigentums an dem Grundstück erst nach gänzlicher oder teilweiser Herstellung des Baues oder Umbaues erfolgen soll, oder
 
-2.
+2. die der Empfänger von einem Dritten für eine im Zusammenhang mit der Herstellung des Baues oder Umbaues stehende Leistung, die der Empfänger dem Dritten versprochen hat, erhalten hat, wenn an dieser Leistung andere Unternehmer (§ 14 des Bürgerlichen Gesetzbuchs) auf Grund eines Werk-, Dienst- oder Kaufvertrags beteiligt waren.
 
 (4) Ist die Baugeldeigenschaft oder die Verwendung des Baugeldes streitig, so trifft die Beweislast den Empfänger.
 

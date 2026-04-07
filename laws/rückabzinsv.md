@@ -20,19 +20,11 @@ Die Null-Kupon-Euro-Zinsswapkurve wird auf der Grundlage von Euro-Festzins-Swaps
 
 ### § 3 — Berechnungsgrundlagen und deren Abkürzungen
 
-Die Zins-Swapsätze mit jährlicher Verzinsung werden wie folgt bezeichnet: S t =Festzins-Swapsatz mit Laufzeit t in Jahren,N t =Null-Kupon-Swapsatz mit Laufzeit t und Zinszahlung erst am Laufzeitende,Tt 1,t 2 =impliziter Null-Kupon-Termin-Swapsatz mit Laufzeit von t 1 bis t 2.
-
 ### § 4 — Umrechnung von Festzins-Swapsätzen in Null-Kupon-Swapsätze
-
-Die Null-Kupon-Swapsätze werden aus den Festzins-Swapsätzen mit Hilfe der Null-Kupon-Anleihen-Entbündelung (Bootstrapping) abgeleitet, und sind dadurch charakterisiert, dass die Fälligkeitstermine im Jahresabstand aufeinanderfolgen und mit den Kuponterminen zusammenfallen. Für den Gegenwartswert eines Festzins-Swaps mit Laufzeit t gilt: Der Festzins-Swapsatz mit einer Laufzeit von einem Jahr entspricht dem Null-Kupon-Swapsatz mit einer einjährigen Laufzeit; S1 = N1. Die weiteren ganzjährigen Null-Kupon-Swapsätze werden wie folgt schrittweise berechnet:
 
 ### § 5 — Interpolation fehlender Laufzeiten
 
-(1) Der implizite Termin-Swapsatz aus Null-Kupon-Swapsätzen mit Laufzeitbeginn t über eine Laufzeit von einem Jahr (der Termin-Swapsatz zwischen t und t +1) wird wie folgt berechnet:(2) Für Laufzeiten über zehn Jahre werden nicht alle jährlichen Festzins-Swapsätze verwendet. Die dazwischenliegenden ganzjährigen Laufzeiten werden aus den verwendeten Laufzeiten zwölf, 15, 20, 25, 30, 40 und 50 Jahre abgeleitet. Für die Interpolation wird die Annahme getroffen, dass die Termin-Swapsätze für die dazwischenliegenden Laufzeiten konstant sind. Die fehlenden Null-Kupon-Swapsätze mit Laufzeit t 2 werden dann mit der nachstehenden Methode ermittelt. Der Gegenwartswert eines Festzins-Swaps mit Laufzeit t 3 stellt sich wie folgt dar, wobei S1, S2,…, St 1 und St 3 sowie N1, N2,…, Nt 1 bekannt sind, t 1< t 2< t 3 und t 2 – t 1 ≥ 1 sind: Annahmegemäß gilt: Der Termin-Swapsatz (Tt 1,t 3) wird in der letzten Gleichung, da der Swapsatz mit Laufzeit t 3 (St 3) und die Null-Kupon-Swapsätze N1 bis Nt 1 bekannt sind, mittels eines numerischen Verfahrens (Newton-Verfahren) berechnet. Danach wird der Null-Kupon-Swapsatz mit Laufzeit t 2 (Nt 2) durch das Einsetzen des Termin-Swapsatzes Tt 1,t 3 in die folgende Gleichung bestimmt:
-
 ### § 6 — Berechnung des Aufschlags
-
-Zur Berechnung des Aufschlags wird die Rendite des Unternehmensanleihenindexes über die vergangenen 84 Monatsendstände arithmetisch gemittelt. Weiterhin wird die durchschnittliche Laufzeit der im Index enthaltenen Anleihen über den gleichen Zeitraum berechnet. Für diese durchschnittliche Laufzeit wird der Null-Kupon-Swapsatz ermittelt (bei nicht ganzjährigen Laufzeiten durch lineare Interpolation), auch dieser aus dem arithmetischen Mittel der letzten 84 Monatsendstände der Swapsätze. Dann wird der Abstand zwischen der gemittelten Unternehmensanleihenrendite und dem laufzeitgleichen gemittelten Null-Kupon-Swapsatz berechnet. Dieser Abstand erhöht als Aufschlag die gemittelte Null-Kupon-Euro-Zinsswapkurve über deren gesamte Laufzeit. Dabei sind Uz die Rendite des Unternehmensanleihenindexes, tz die durchschnittliche Laufzeit der Anleihen des Indexes und Ntz der Null-Kupon-Swapsatz mit Laufzeit t zum Zeitpunkt z.Der Aufschlag (Az) ergibt sich wie folgt: Der Abzinsungszinssatz mit Laufzeit t zum Zeitpunkt z (AStz) ergibt sich dann als Summe vom jeweiligen gemittelten Null-Kupon-Swapsatz und dem für diesen Zeitpunkt einheitlichen Aufschlag:
 
 ### § 6a — Berechnung des Aufschlags bei Rückstellungen für Altersversorgungsverpflichtungen
 

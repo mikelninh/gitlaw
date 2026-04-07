@@ -18,11 +18,11 @@ Die Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der bea
 
 ### 9.
 
-Diese Anordnung tritt am Tage nach ihrer Verkündung im Bundesgesetzblatt in Kraft, soweit in Satz 2 nichts Abweichendes bestimmt ist. Abweichend von Satz 1 tritt Nummer 6 in Kraft, soweit der Unfall zu bzw. nach dem jeweils genannten Zeitpunkt eintritt. Für Unfälle, die zu den genannten Zeitpunkten bereits anhängig waren, geht die Zuständigkeit jeweils sechs Monate nach dem in Satz 2 genannten Zeitpunkt auf das Sozialamt der Deutschen Bundespost über. Für die Landespostdirektion Berlin und die in Satz 2 nicht genannten Oberpostdirektionen gilt die ZOVers in der am 30. September 1976 gültigen Fassung bis auf weiteres weiter.
+Diese Anordnung tritt am Tage nach ihrer Verkündung im Bundesgesetzblatt in Kraft, soweit in Satz 2 nichts Abweichendes bestimmt ist.
 
-a)
+a) in Verbindung mit Nummer 3 am 1. Januar 1977,
 
-b)
+b) in Verbindung mit Nummer 4 und 5 für den Bereich der Oberpostdirektionen Freiburg im Breisgau, Karlsruhe und Stuttgart am 1. Oktober 1976, für den Bereich der Oberpostdirektionen Koblenz und Münster am 1. Januar 1977, für den Bereich der Oberpostdirektionen Hamburg und Nürnberg am 1. April 1977, für den Bereich der Oberpostdirektionen Bremen, Düsseldorf und München am 1. Mai 1977, für den Bereich der Oberpostdirektion Dortmund am 1. Juli 1977 für den Bereich der Oberpostdirektion Saarbrücken am 1. September 1977, für den Bereich des Fernmeldetechnischen Zentralamtes, des Posttechnischen Zentralamtes, der Fachhochschule der Deutschen Bundespost Dieburg, der Oberpostdirektionen Frankfurt am Main und Kiel am 1. Oktober 1977, für den Bereich der Fachhochschule der Deutschen Bundespost Berlin am 1. Februar 1978,
 
 ### Schlußformel
 

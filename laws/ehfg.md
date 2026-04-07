@@ -16,29 +16,29 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (1) Entwicklungshelfer im Sinne dieses Gesetzes ist, wer
 
-1.
+1. in Entwicklungsländern ohne Erwerbsabsicht Dienst leistet, um in partnerschaftlicher Zusammenarbeit zum Fortschritt dieser Länder beizutragen (Entwicklungsdienst),
 
-2.
+2. sich zur Leistung des Entwicklungsdienstes gegenüber einem anerkannten Träger des Entwicklungsdienstes für eine ununterbrochene Zeit von mindestens einem Jahr vertraglich verpflichtet hat,
 
-3.
+3. für den Entwicklungsdienst nur Leistungen erhält, die dieses Gesetz vorsieht,
 
-4.
+4. das 18. Lebensjahr vollendet hat und Deutscher im Sinne des Artikels 116 des Grundgesetzes oder Staatsangehöriger eines anderen Mitgliedsstaates der Europäischen Gemeinschaften ist.
 
 (2) Als Entwicklungshelfer im Sinne dieses Gesetzes gilt auch, wer durch einen anerkannten Träger des Entwicklungsdienstes darauf vorbereitet wird, Entwicklungsdienst zu leisten (Vorbereitungsdienst), für den Vorbereitungsdienst nur Leistungen erhält, die dieses Gesetz vorsieht, neben dem Vorbereitungsdienst keine Tätigkeit gegen Entgelt ausübt und die Voraussetzungen des Absatzes 1 Nr. 2 und 4 erfüllt.
 
 ### § 2 — Träger des Entwicklungsdienstes
 
-(1) Als Träger des Entwicklungsdienstes können juristische Personen des privaten Rechts anerkannt werden, die Satz 1 Nummer 1 gilt nicht für juristische Personen des privaten Rechts, an denen ausschließlich die Bundesrepublik Deutschland beteiligt und deren Zweck die Unterstützung der Bundesregierung bei der Erreichung ihrer entwicklungspolitischen Ziele ist.
+(1) Als Träger des Entwicklungsdienstes können juristische Personen des privaten Rechts anerkannt werden, die
 
-1.
+1. ausschließlich oder überwiegend Entwicklungshelfer vorbereiten, entsenden und betreuen,
 
-2.
+2. Gewähr dafür bieten, daß sie ihre Aufgabe auf die Dauer erfüllen und den ihnen nach diesem Gesetz obliegenden Verpflichtungen nachkommen,
 
-3.
+3. sich verpflichten, Entwicklungshelfer nur zu solchen Vorhaben zu entsenden, die mit den Förderungsmaßnahmen der Bundesrepublik Deutschland für Entwicklungsländer im Einklang stehen,
 
-4.
+4. ausschließlich und unmittelbar steuerbegünstigten Zwecken im Sinne der §§ 51 bis 68 der Abgabenordnung dienen,
 
-5.
+5. ihren Sitz im Geltungsbereich des Grundgesetzes haben.
 
 (2) Über die Anerkennung eines Trägers des Entwicklungsdienstes entscheidet auf dessen Antrag der Bundesminister für wirtschaftliche Zusammenarbeit. Er kann die Anerkennung mit Auflagen verbinden, insbesondere über die allgemeinen Bedingungen der mit den Entwicklungshelfern zu schließenden Verträge, über Entsendungsgrundsätze, die im Interesse der Gesundheit des Entwicklungshelfers erforderlich sind, über den Versicherungsschutz, über die Höhe der Unterhaltsleistungen, der Wiedereingliederungsbeihilfen und der Reisekostenerstattung sowie über Art und Dauer der Fortbildung (§ 22) und des Vorbereitungsdienstes. Die Auflagen können unter dem Vorbehalt späterer Änderungen erteilt werden.
 
@@ -52,13 +52,13 @@ Zu den Aufwendungen für Leistungen, die dem anerkannten Träger des Entwicklung
 
 (1) Der Träger hat mit dem Entwicklungshelfer einen schriftlichen Vertrag über den Entwicklungsdienst und den Vorbereitungsdienst abzuschließen, der folgende Leistungen des Trägers vorsehen muß:
 
-1.
+1. Unterhaltsgeld und Sachleistungen zur Sicherung des Lebensbedarfs (Unterhaltsleistungen);
 
-2.
+2. eine nach Beendigung des Entwicklungsdienstes zu zahlende angemessene Wiedereingliederungsbeihilfe; dies gilt auch, wenn der Entwicklungsdienst vorzeitig beendet wird; vor Ablauf von sechs Monaten jedoch nur dann, wenn der Entwicklungshelfer die vorzeitige Beendigung nicht zu vertreten hat. Die Wiedereingliederungsbeihilfe gilt nicht als Einkommen im Sinne von Rechts- und Verwaltungsvorschriften zur Förderung der Ausbildung, beruflichen Fortbildung und Umschulung,
 
-3.
+3. Erstattungen der notwendigen Reisekosten,
 
-4.
+4. die Übernahme der Pflichten, die nach dem Bundesurlaubsgesetz und dem Mutterschutzgesetz dem Arbeitgeber obliegen.
 
 (2) In dem Vertrag über den Entwicklungsdienst und den Vorbereitungsdienst können weitere Leistungen zur sozialen Sicherung des Entwicklungshelfers, seines Ehegatten und seiner unterhaltsberechtigten Kinder im Rahmen der vom Bundesminister für wirtschaftliche Zusammenarbeit nach § 2 Abs. 2 erlassenen Auflagen vereinbart werden.
 
@@ -86,11 +86,11 @@ Zu den Aufwendungen für Leistungen, die dem anerkannten Träger des Entwicklung
 
 ### § 7 — Krankenversicherung
 
-(1) Für die Zeit des Entwicklungsdienstes hat der Träger einen Gruppenversicherungsvertrag abzuschließen und aufrechtzuerhalten, der dem Entwicklungshelfer sowie dessen unterhaltsberechtigtem Ehegatten und unterhaltsberechtigten Kindern, solange diese sich außerhalb des Geltungsbereichs dieses Gesetzes aufhalten, für den Fall der Krankheit, der Entbindung und des Unfalles, soweit nicht Leistungen auf Grund sozialversicherungsrechtlicher Vorschriften oder nach § 10 dieses Gesetzes gewährt werden, Versicherungsschutz mit mindestens folgenden Leistungen gewährt: In dem Gruppenversicherungsvertrag muß außerdem bestimmt sein, daß der Versicherte das Recht hat, die Versicherung innerhalb eines Monats nach dem Ausscheiden aus dem Gruppenversicherungsvertrag oder nach Beendigung des Gruppenversicherungsvertrages als Einzelversicherung nach den geltenden Krankheitskostentarifen fortzusetzen. Krankheiten, die sich der Entwicklungshelfer oder ein Familienangehöriger im Sinne des Satzes 1 während der Dauer seiner Versicherung im Gruppenversicherungsvertrag zugezogen hat, sind dabei ohne Risikozuschlag in den Versicherungsschutz einzubeziehen.
+(1) Für die Zeit des Entwicklungsdienstes hat der Träger einen Gruppenversicherungsvertrag abzuschließen und aufrechtzuerhalten, der dem Entwicklungshelfer sowie dessen unterhaltsberechtigtem Ehegatten und unterhaltsberechtigten Kindern, solange diese sich außerhalb des Geltungsbereichs dieses Gesetzes aufhalten, für den Fall der Krankheit, der Entbindung und des Unfalles, soweit nicht Leistungen auf Grund sozialversicherungsrechtlicher Vorschriften oder nach § 10 dieses Gesetzes gewährt werden, Versicherungsschutz mit mindestens folgenden Leistungen gewährt:
 
-1.
+1. Erstattung von Krankheitskosten und Entbindungskosten in voller Höhe bis zu 2 556 Euro je Versicherungsfall (Krankheit, Entbindung, Unfall),
 
-2.
+2. Erstattung von Rückführungs- und Überführungskosten.
 
 (2) Für die Zeit des Vorbereitungsdienstes hat der Träger für den Fall, daß der Entwicklungshelfer in der gesetzlichen Krankenversicherung versichert ist, die Beiträge in voller Höhe zu übernehmen; ist der Entwicklungshelfer oder ein Familienangehöriger im Sinne des Absatzes 1 Satz 1 bereits in einer privaten Krankheitskostenversicherung versichert, so hat der Träger die Beiträge oder Prämien in Höhe der Aufwendungen zu übernehmen, höchstens jedoch den Betrag, der für einen versicherungspflichtigen Angestellten mit einem Arbeitsverdienst in Höhe der für die gesetzliche Krankenversicherung geltenden Beitragsbemessungsgrenze zu zahlen wäre; hierbei ist der Beitragssatz der für den Sitz des Trägers zuständigen allgemeinen Ortskrankenkasse zugrunde zu legen. Sind der Entwicklungshelfer und seine Familienangehörigen im Sinne des Absatzes 1 Satz 1 für diese Zeit weder in der gesetzlichen Krankenversicherung noch anderweitig in einer privaten Krankheitskostenversicherung versichert, so hat der Träger sie nach Absatz 1 zu versichern.
 
@@ -104,23 +104,23 @@ Zu den Aufwendungen für Leistungen, die dem anerkannten Träger des Entwicklung
 
 ### § 9 — Tagegeld bei Arbeitsunfähigkeit
 
-(1) Ist der Entwicklungshelfer arbeitsunfähig, so gewährt ihm der Bund im Anschluß an die Leistungen nach § 8 Abs. 1 ein Tagegeld in Höhe des Übergangsgeldes aus der gesetzlichen Unfallversicherung, Wird das Dienstverhältnis des Entwicklungshelfers während der Arbeitsunfähigkeit aufgelöst, so bleibt der Anspruch auf Tagegeld hiervon unberührt.
+(1) Ist der Entwicklungshelfer arbeitsunfähig, so gewährt ihm der Bund im Anschluß an die Leistungen nach § 8 Abs. 1 ein Tagegeld in Höhe des Übergangsgeldes aus der gesetzlichen Unfallversicherung,
 
-1.
+1. wenn die Arbeitsunfähigkeit nicht Folge eines Arbeitsunfalls oder einer Gesundheitsstörung im Sinne des § 10 Abs. 1 ist,
 
-2.
+2. wenn der Entwicklungshelfer die Arbeitsunfähigkeit nicht vorsätzlich herbeigeführt hat und
 
-3.
+3. soweit kein Anspruch auf Krankengeld aus der gesetzlichen Krankenversicherung besteht.
 
 (2) Tagegeld wird wegen derselben Krankheit oder desselben Unfalles längstens für achtundsiebzig Wochen gewährt, gerechnet vom Tag des Beginns der Arbeitsunfähigkeit an.
 
-(3) Der Anspruch auf Tagegeld endet mit dem Tag, von dem an Ist über diesen Zeitraum hinaus Tagegeld gezahlt worden, so geht der Anspruch auf die in Satz 1 bezeichneten Leistungen bis zur Höhe des für denselben Zeitraum gezahlten Tagegeldes auf den Bund über. Übersteigt das Tagegeld die genannten Leistungen, so kann der überschießende Betrag nicht zurückgefordert werden.
+(3) Der Anspruch auf Tagegeld endet mit dem Tag, von dem an
 
-1.
+1. Rente wegen voller Erwerbsminderung, Erwerbsunfähigkeit oder Altersrente aus der gesetzlichen Rentenversicherung oder
 
-2.
+2. eine entsprechende Leistung aus einer nach Artikel 2 § 1 des Angestelltenversicherungs-Neuregelungsgesetzes in der Fassung des Finanzänderungsgesetzes 1967 vom 21. Dezember 1967 (BGBl. I S. 1259) von der Versicherungspflicht befreienden Lebensversicherung, an der sich der Arbeitgeber mit Beitragszuschüssen beteiligt hat, oder
 
-3.
+3. eine entsprechende Leistung aus einer Versicherungs- oder Versorgungseinrichtung im Sinne der Vorschrift über die Versicherungsbefreiung in der gesetzlichen Rentenversicherung zugebilligt wird.
 
 (4) Wird dem Anspruchsberechtigten während des Tagegeldbezugs Rente wegen teilweiser Erwerbsminderung oder Berufsunfähigkeit aus der gesetzlichen Rentenversicherung zugebilligt, so wird das Tagegeld um den Betrag der für denselben Zeitraum gewährten Rente gekürzt. Insoweit geht bei rückwirkender Gewährung der Rente aus der gesetzlichen Rentenversicherung der Rentenanspruch auf den Bund über. Entsprechendes gilt für Leistungen nach Absatz 3 Satz 1 Nummer 2 und 3, wenn sie wegen teilweiser Erwerbsminderung oder Berufsunfähigkeit gewährt werden.
 

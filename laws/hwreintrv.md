@@ -18,12 +18,36 @@ Die Verordnung regelt die Eintragung in die Handwerksrolle für den nach § 7 Ab
 ### § 2 — Abschlussprüfungen an Hochschulen und an solchen Bildungseinrichtungen,
 die nach Landesrecht dem tertiären Bereich zugeordnet sind
 
-Abschlussprüfungen in Studiengängen mit technischer Ausrichtung, die an Hochschulen im Sinne des Hochschulrahmengesetzes, insbesondere an Universitäten und Fachhochschulen sowie an Bildungseinrichtungen, die nach Landesrecht dem tertiären Bereich zugeordnet sind, erfolgreich abgelegt worden sind, werden für die Eintragung in die Handwerksrolle in zulassungspflichtigen Handwerken nach Maßgabe der Voraussetzungen des Absatzes 2 anerkannt.(2) Der Abschluss ist anzuerkennen, wenn der Studienschwerpunkt in seinen wesentlichen Inhalten der Meisterprüfung in dem zulassungspflichtigen Handwerk, für das die Eintragung beantragt wird, entspricht. Für die Beurteilung der wesentlichen Inhalte sind insbesondere 1.die technische Ausrichtung des Studiengangs, 2.die Fächer, die als Studienschwerpunkt im Studiengang gewählt wurden und in denen ein Leistungsnachweis erbracht worden ist, 3.die erfolgreich angefertigte Abschlussarbeit und 4.die erfolgreich absolvierte Abschlussprüfung maßgeblich.(3) Als Nachweis über erfolgreich abgelegte Prüfungen gelten insbesondere von Hochschulen ausgestellte Zeugnisse.
+Abschlussprüfungen in Studiengängen mit technischer Ausrichtung, die an Hochschulen im Sinne des Hochschulrahmengesetzes, insbesondere an Universitäten und Fachhochschulen sowie an Bildungseinrichtungen, die nach Landesrecht dem tertiären Bereich zugeordnet sind, erfolgreich abgelegt worden sind, werden für die Eintragung in die Handwerksrolle in zulassungspflichtigen Handwerken nach Maßgabe der Voraussetzungen des Absatzes 2 anerkannt.
+
+(2) Der Abschluss ist anzuerkennen, wenn der Studienschwerpunkt in seinen wesentlichen Inhalten der Meisterprüfung in dem zulassungspflichtigen Handwerk, für das die Eintragung beantragt wird, entspricht. Für die Beurteilung der wesentlichen Inhalte sind insbesondere
+
+1. die technische Ausrichtung des Studiengangs,
+
+2. die Fächer, die als Studienschwerpunkt im Studiengang gewählt wurden und in denen ein Leistungsnachweis erbracht worden ist,
+
+3. die erfolgreich angefertigte Abschlussarbeit und
+
+4. die erfolgreich absolvierte Abschlussprüfung
+
+(3) Als Nachweis über erfolgreich abgelegte Prüfungen gelten insbesondere von Hochschulen ausgestellte Zeugnisse.
 
 ### § 3 — Abschlussprüfungen an staatlichen oder staatlich anerkannten
 Fachschulen
 
-(1) Abschlussprüfungen, die an staatlichen oder staatlich anerkannten deutschen Fachschulen in den Fachbereichen Technik oder Gestaltung erfolgreich abgelegt worden sind, werden für die Eintragung in die Handwerksrolle in zulassungspflichtigen Handwerken nach Maßgabe der Voraussetzungen des Absatzes 2 anerkannt.(2) Der Abschluss ist anzuerkennen, wenn der Schulschwerpunkt in seinen wesentlichen Inhalten der Meisterprüfung in dem zulassungspflichtigen Handwerk, für das die Eintragung beantragt wird, entspricht. Für die Beurteilung der wesentlichen Inhalte sind insbesondere 1.die gewählte Fachrichtung im Fachbereich, 2.die Fächer, die als Schwerpunkt in der Fachrichtung gewählt wurden, soweit eine Schwerpunktbildung auf Grund Landesregelung vorgesehen ist, und in denen ein Leistungsnachweis erbracht worden ist, 3.die erfolgreich angefertigte Abschlussarbeit, soweit eine solche auf Grund Landesregelung vorgesehen ist, und 4.die erfolgreich absolvierte Abschlussprüfung maßgeblich.(3) Als Nachweis über erfolgreich abgelegte Prüfungen gelten insbesondere von Fachschulen ausgestellte Zeugnisse.
+(1) Abschlussprüfungen, die an staatlichen oder staatlich anerkannten deutschen Fachschulen in den Fachbereichen Technik oder Gestaltung erfolgreich abgelegt worden sind, werden für die Eintragung in die Handwerksrolle in zulassungspflichtigen Handwerken nach Maßgabe der Voraussetzungen des Absatzes 2 anerkannt.
+
+(2) Der Abschluss ist anzuerkennen, wenn der Schulschwerpunkt in seinen wesentlichen Inhalten der Meisterprüfung in dem zulassungspflichtigen Handwerk, für das die Eintragung beantragt wird, entspricht. Für die Beurteilung der wesentlichen Inhalte sind insbesondere
+
+1. die gewählte Fachrichtung im Fachbereich,
+
+2. die Fächer, die als Schwerpunkt in der Fachrichtung gewählt wurden, soweit eine Schwerpunktbildung auf Grund Landesregelung vorgesehen ist, und in denen ein Leistungsnachweis erbracht worden ist,
+
+3. die erfolgreich angefertigte Abschlussarbeit, soweit eine solche auf Grund Landesregelung vorgesehen ist, und
+
+4. die erfolgreich absolvierte Abschlussprüfung
+
+(3) Als Nachweis über erfolgreich abgelegte Prüfungen gelten insbesondere von Fachschulen ausgestellte Zeugnisse.
 
 ### § 4 — Antrag
 

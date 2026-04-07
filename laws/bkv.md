@@ -27,11 +27,11 @@ Für Versicherte in Unternehmen der Seefahrt erstreckt sich die Versicherung geg
 
 (1) Besteht für Versicherte die Gefahr, daß eine Berufskrankheit entsteht, wiederauflebt oder sich verschlimmert, haben die Unfallversicherungsträger dieser Gefahr mit allen geeigneten Mitteln entgegenzuwirken. Ist die Gefahr gleichwohl nicht zu beseitigen, haben die Unfallversicherungsträger darauf hinzuwirken, daß die Versicherten die gefährdende Tätigkeit unterlassen. Den für den medizinischen Arbeitsschutz zuständigen Stellen ist Gelegenheit zur Äußerung zu geben.
 
-(2) Versicherte, die die gefährdende Tätigkeit unterlassen, weil die Gefahr fortbesteht, haben zum Ausgleich hierdurch verursachter Minderungen des Verdienstes oder sonstiger wirtschaftlicher Nachteile gegen den Unfallversicherungsträger Anspruch auf Übergangsleistungen. Als Übergangsleistung wird gezahlt. Renten wegen Minderung der Erwerbsfähigkeit sind nicht zu berücksichtigen.
+(2) Versicherte, die die gefährdende Tätigkeit unterlassen, weil die Gefahr fortbesteht, haben zum Ausgleich hierdurch verursachter Minderungen des Verdienstes oder sonstiger wirtschaftlicher Nachteile gegen den Unfallversicherungsträger Anspruch auf Übergangsleistungen. Als Übergangsleistung wird
 
-1.
+1. ein einmaliger Betrag bis zur Höhe der Vollrente oder
 
-2.
+2. eine monatlich wiederkehrende Zahlung bis zur Höhe eines Zwölftels der Vollrente längstens für die Dauer von fünf Jahren
 
 ### § 4 — Mitwirkung der für den medizinischen Arbeitsschutz zuständigen Stellen
 
@@ -47,11 +47,11 @@ Für Versicherte in Unternehmen der Seefahrt erstreckt sich die Versicherung geg
 
 (1) Erstellen die für den medizinischen Arbeitsschutz zuständigen Stellen ein Zusammenhangsgutachten nach § 4 Abs. 4, erhalten sie von den Unfallversicherungsträgern jeweils eine Gebühr in Höhe von 200 Euro. Mit dieser Gebühr sind alle Personal- und Sachkosten, die bei der Erstellung des Gutachtens entstehen, einschließlich der Kosten für die ärztliche Untersuchung von Versicherten durch die für den medizinischen Arbeitsschutz zuständigen Stellen abgegolten.
 
-(2) Ein Gutachten im Sinne des Absatzes 1 setzt voraus, daß der Gutachter unter Würdigung eine eigenständig begründete schriftliche Bewertung des Ursachenzusammenhangs zwischen der Erkrankung und den tätigkeitsbezogenen Gefährdungen unter Berücksichtigung der besonderen für die gesetzliche Unfallversicherung geltenden Bestimmungen vornimmt.
+(2) Ein Gutachten im Sinne des Absatzes 1 setzt voraus, daß der Gutachter unter Würdigung
 
-1.
+1. der Arbeitsanamnese des Versicherten und der festgestellten Einwirkungen am Arbeitsplatz,
 
-2.
+2. der Beschwerden, der vorliegenden Befunde und der Diagnose
 
 ### § 6 — Rückwirkung
 
@@ -81,11 +81,11 @@ Der Ärztliche Sachverständigenbeirat Berufskrankheiten (Sachverständigenbeira
 
 (1) Der Sachverständigenbeirat besteht in der Regel aus zwölf Mitgliedern, die vom Bundesministerium für Arbeit und Soziales für die Dauer von fünf Jahren berufen werden. Dem Sachverständigenbeirat sollen angehören:
 
-1.
+1. acht Hochschullehrerinnen oder Hochschullehrer, insbesondere der Fachrichtung Arbeitsmedizin oder Epidemiologie,
 
-2.
+2. zwei Staatliche Gewerbeärztinnen oder Staatliche Gewerbeärzte und
 
-3.
+3. zwei Ärztinnen oder Ärzte aus dem betriebs- oder werksärztlichen Bereich.
 
 (2) Die Mitgliedschaft im Sachverständigenbeirat ist ein persönliches Ehrenamt, das keine Stellvertretung zulässt. Der Name und die hauptamtliche Funktion der Mitglieder werden vom Bundesministerium für Arbeit und Soziales veröffentlicht.
 
@@ -131,8 +131,4 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage 1
 
-(Fundstelle: BGBl. I 1997, 2625 - 2626;
-
 ### Anlage 2 — Berufskrankheit Nummer 4114 Verursachungswahrscheinlichkeit in Prozent
-
-(Fundstelle des Originaltextes: BGBl. I 2009, 1274 - 1276)

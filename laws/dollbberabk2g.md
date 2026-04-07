@@ -42,17 +42,17 @@ Schuldverschreibungen
 
 (1) Für Schuldverschreibungen, die von den im Verzeichnis zu Artikel I Abs. 1 des Abkommens genannten Ausstellern vor dem 9. Mai 1945 in deutscher Währung ausgegeben worden sind, gelten die in § 27 des Dritten Gesetzes zur Änderung und Ergänzung des Wertpapierbereinigungsgesetzes vom 16. November 1956 (Bundesgesetzbl. I S. 850) bezeichneten Wertpapierbereinigungsgesetze sinngemäß mit folgenden Maßgaben:
 
-1.
+1. Soweit nach diesen Gesetzen der Zeitpunkt ihres Inkrafttretens maßgebend ist, tritt an dessen Stelle der Zeitpunkt des Inkrafttretens dieses Gesetzes.
 
-2.
+2. Schuldverschreibungen, für die keine Lieferbarkeitsbescheinigungen ausgestellt sind, gelten im Geltungsbereich dieses Gesetzes als kraftlos. Vom Tag der Bekanntmachung der rechtskräftigen Feststellung durch die Kammer für Wertpapierbereinigung an dürfen Lieferbarkeitsbescheinigungen nicht mehr ausgestellt werden.
 
-3.
+3. Für die Bereinigung von Schuldverschreibungen, die von dem im Verzeichnis unter Nummer 1 genannten Aussteller ausgegeben worden sind, gelten die in dem Verzeichnis genannten Garanten als Aussteller.
 
-4.
+4. Als Prüfstelle kann ein Kreditinstitut im Geltungsbereich dieses Gesetzes benannt werden.
 
-5.
+5. Zuständigkeiten, die nach dem Wertpapierbereinigungsgesetz von dem Sitz des Ausstellers abhängen, richten sich nach dem Sitz der Prüfstelle.
 
-6.
+6. Die Schuldverschreibungen gelten für das Bereinigungsverfahren als fällig im Sinne des § 1 des Zweiten Gesetzes zur Änderung und Ergänzung des Wertpapierbereinigungsgesetzes; §§ 11, 12, 13, 19 des Zweiten Gesetzes zur Änderung und Ergänzung des Wertpapierbereinigungsgesetzes sind nicht anzuwenden.
 
 (2) Für Schuldverschreibungen, die von dem im Verzeichnis unter Nummer 1 genannten Aussteller ausgegeben worden sind, gelten auch die Vorschriften des Dritten Gesetzes zur Änderung und Ergänzung des Wertpapierbereinigungsgesetzes über Nachanmeldungen sinngemäß.
 

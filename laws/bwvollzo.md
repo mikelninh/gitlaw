@@ -8,8 +8,6 @@
 
 ### Eingangsformel
 
-Auf Grund des Artikels 7 des Einführungsgesetzes zum Wehrstrafgesetz vom 30. März 1957 (Bundesgesetzbl. I S. 306) und des § 115 des Jugendgerichtsgesetzes vom 4. August 1953 (Bundesgesetzbl. I S. 751), beide zuletzt geändert durch das Gesetz zur Neuordnung des Wehrdisziplinarrechts vom 21. August 1972 (Bundesgesetzbl. I S. 1481), wird von der Bundesregierung mit Zustimmung des Bundesrates und auf Grund des § 49 Abs. 4 der Wehrdisziplinarordnung in der Fassung der Bekanntmachung vom 4. September 1972 (Bundesgesetzbl. I S. 1665) von dem Bundesminister der Verteidigung verordnet:
-
 ### § 1 — Geltungsbereich
 
 Diese Verordnung gilt für den Vollzug von Freiheitsstrafe, Strafarrest und Jugendarrest sowie für den Vollzug von Disziplinararrest an Soldaten durch Behörden der Bundeswehr.
@@ -52,9 +50,9 @@ Der Vollzugsleiter hat einen auf die Persönlichkeit des Soldaten ausgerichteten
 
 Der Disziplinarvorgesetzte veranlaßt vor Beginn des Vollzugs eine ärztliche Untersuchung, wenn ihm Anhaltspunkte dafür bekannt geworden sind, daß der Gesundheitszustand des Soldaten den Vollzug nicht zuläßt. Ist der Soldat nicht vollzugstauglich, so hat
 
-1.
+1. der vollstreckende Vorgesetzte, wenn Disziplinararrest zu vollziehen ist, die Vollstreckung aufzuschieben,
 
-2.
+2. der Vollzugsleiter, wenn Freiheitsstrafe oder Strafarrest zu vollziehen ist, die Entscheidung der Vollstreckungsbehörde, wenn Jugendarrest zu vollziehen ist, die Entscheidung des Vollstreckungsleiters herbeizuführen.
 
 ### § 8 — Mitnahme dienstlicher und persönlicher Gegenstände
 
@@ -132,15 +130,15 @@ Der Soldat erhält Truppenverpflegung; Tabakwaren, andere Genußmittel, zusätzl
 
 (1) Verstößt ein Soldat gegen die Ordnung oder gefährdet er die Sicherheit im Vollzug, so können besondere Maßnahmen getroffen werden. Sie dürfen nur insoweit und solange aufrechterhalten werden, als notwendig ist, um die Sicherheit oder Ordnung im Vollzug zu gewährleisten oder wiederherzustellen.
 
-(2) Als besondere Maßnahmen sind zulässig: Maßnahmen nach den Nummern 1 und 2 sind unzulässig, wenn der Soldat nur gegen die Ordnung im Vollzug verstößt.
+(2) Als besondere Maßnahmen sind zulässig:
 
-1.
+1. der Entzug oder die Vorenthaltung von Gegenständen, die der Soldat zu Gewalttätigkeiten, zur Flucht, zum Selbstmord oder zur Selbstbeschädigung oder sonst mißbrauchen könnte,
 
-2.
+2. die Beobachtung bei Nacht,
 
-3.
+3. der Entzug oder die Beschränkung des Aufenthalts im Freien,
 
-4.
+4. die Unterbringung in einem besonders gesicherten Arrestraum ohne gefährdende Gegenstände.
 
 (3) Mehrere Maßnahmen können nebeneinander angeordnet werden, soweit die Ordnung oder Sicherheit im Vollzug nur dadurch gewährleistet oder wiederhergestellt werden kann. Eine in ihrer Wirkung schärfere Maßnahme darf nur angeordnet werden, wenn eine leichtere keinen Erfolg verspricht.
 

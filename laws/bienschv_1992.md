@@ -14,25 +14,17 @@ Der Bundesminister für Ernährung, Landwirtschaft und Forsten verordnet auf Gru
 
 Im Sinne dieser Verordnung sind
 
-1.
+1. bienengefährliche Pflanzenschutzmittel:a)Pflanzenschutzmittel, die das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit mit der Auflage zugelassen hat, sie als "bienengefährlich" zu kennzeichnen, b)andere zugelassene Pflanzenschutzmittel in einer höheren als der höchsten in der Gebrauchsanleitung vorgesehenenaa)Aufwandmenge oder bb)Konzentration, falls eine Aufwandmenge nicht vorgesehen ist; Pflanzenschutzmittel, die das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit mit der Auflage zugelassen hat, sie als "bienengefährlich" zu kennzeichnen, andere zugelassene Pflanzenschutzmittel in einer höheren als der höchsten in der Gebrauchsanleitung vorgesehenenaa)Aufwandmenge oder bb)Konzentration, falls eine Aufwandmenge nicht vorgesehen ist; Aufwandmenge oder Konzentration, falls eine Aufwandmenge nicht vorgesehen ist;
 
-a)
-
-b)
-
-aa)
-
-bb)
-
-2.
+2. blühende Pflanzen: Pflanzen, an denen sich geöffnete Blüten befinden, außer Hopfen und Kartoffeln.
 
 ### § 2 — Anwendung
 
-(1) Bienengefährliche Pflanzenschutzmittel dürfen nicht an angewandt werden.
+(1) Bienengefährliche Pflanzenschutzmittel dürfen nicht an
 
-1.
+1. blühenden Pflanzen,
 
-2.
+2. anderen Pflanzen, wenn sie von Bienen beflogen werden,
 
 (2) Bienengefährliche Pflanzenschutzmittel dürfen nicht so angewandt werden, daß Pflanzen nach Absatz 1 mitgetroffen werden.
 
@@ -46,19 +38,19 @@ bb)
 
 ### § 3 — Ausnahmen
 
-Die zuständige Behörde kann Ausnahmen zulassen Sie hat die Ausnahmegenehmigung mit den erforderlichen Auflagen zu verbinden, um sicherzustellen, daß die Imker, deren Bienenstände sich im Umkreis von 3 Kilometern befinden, spätestens 48 Stunden vor Beginn der Anwendung des Pflanzenschutzmittels unterrichtet werden. Sie kann die Ausnahmegenehmigung mit Auflagen zur Sicherstellung der Belange des Naturschutzes und der Landschaftspflege versehen.
+Die zuständige Behörde kann Ausnahmen zulassen
 
-1.
+1. von § 2 Abs. 1 für Forschungs-, Untersuchungs- und Versuchszwecke,
 
-2.
+2. von § 2 Abs. 1 bis 3, soweit es zur Verhütung schwerer Schäden oder Verluste an Pflanzen durch Schadorganismen erforderlich ist.
 
 ### § 4 — Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 2 Absatz 1, 2 oder Absatz 3 ein bienengefährliches Pflanzenschutzmittel anwendet oder
 
-2.
+2. entgegen § 2 Absatz 4 ein bienengefährliches Pflanzenschutzmittel handhabt, aufbewahrt oder beseitigt.
 
 ### § 5 — Inkrafttreten, abgelöste Vorschrift
 

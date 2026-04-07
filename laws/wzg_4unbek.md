@@ -15,5 +15,3 @@ Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der Fassung vom 9. 
 Der Bundesminister der Justiz
 
 ### Anlage
-
-(Fundstelle: BGBl. I 1963, 781, bzgl. der einzelnen Änderungen vgl. Fußnote)(Inhalt: nicht darstellbare Bezeichnungen der Vereinten Nationen und ihrer Organisationen)

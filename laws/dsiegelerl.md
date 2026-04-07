@@ -38,5 +38,3 @@ Die Bundesbehörden dürfen Dienstsiegel von abweichender Größe oder Form nur 
 Der Bundesminister des Innern wird allgemeinverbindliche Richtlinien zur Ausführung des Erlasses aufstellen.
 
 ### Schlußformel
-
-Der Bundespräsident Der Bundeskanzler Der Bundesminister des Innern

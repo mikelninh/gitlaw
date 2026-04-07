@@ -21,9 +21,9 @@ Auf Grund des § 10 Abs. 3 und des § 11 Abs. 3 in Verbindung mit § 10 Abs. 3 d
 
 Wer einen Anspruch auf Entschädigung oder Härteausgleich erhebt, hat der zuständigen Behörde schriftlich oder zur Niederschrift zu erklären, ob und welche anderen Personen nach seiner Kenntnis ein Recht auf die Entschädigung oder den Härteausgleich geltend machen oder geltend machen können. Die Erklärung ist zuzustellen
 
-1.
+1. dem zur Entschädigung oder zum Härteausgleich Verpflichteten, es sei denn, daß die Körperschaft Verpflichteter ist, der die zuständige Behörde angehört,
 
-2.
+2. den nach Satz 1 als Berechtigte benannten Personen.
 
 ### § 3 — Gütliche Einigung
 
@@ -71,9 +71,9 @@ Wird der als Entschädigung oder Härteausgleich zu zahlende Betrag nach Maßgab
 
 (3) Hilft die Behörde dem Widerspruch nicht ab, so ergeht ein Widerspruchsbescheid. Diesen erläßt
 
-1.
+1. die nächsthöhere Behörde,
 
-2.
+2. wenn die nächsthöhere Behörde eine oberste Bundes- oder oberste Landesbehörde ist, die Behörde, die den Festsetzungsbescheid erlassen hat.
 
 (4) Der Widerspruchsbescheid ist zu begründen, mit einer Rechtsmittelbelehrung zu versehen und zuzustellen.
 

@@ -18,25 +18,19 @@ Das Bundesamt für Justiz, der Generalbundesanwalt beim Bundesgerichtshof und di
 
 Kontaktstellen nach Artikel 20 Absatz 3 Buchstabe e der Eurojust-Verordnung (Eurojust-Kontaktstellen) sind:
 
-1.
+1. das Bundesamt für Justiz für das a)Netzwerk nationaler Experten für gemeinsame Ermittlungsgruppen,b)Netzwerk im Sinne des Beschlusses 2002/494/JI des Rates vom 13. Juni 2002 zur Einrichtung eines Europäischen Netzes von Anlaufstellen betreffend Personen, die für Völkermord, Verbrechen gegen die Menschlichkeit und Kriegsverbrechen verantwortlich sind (ABl. L 167 vom 26.6.2002, S. 1),c)Netzwerk im Sinne des Beschlusses 2007/845/JI des Rates vom 6. Dezember 2007 über die Zusammenarbeit zwischen den Vermögensabschöpfungsstellen der Mitgliedstaaten auf dem Gebiet des Aufspürens und der Ermittlung von Erträgen aus Straftaten oder anderen Vermögensgegenständen im Zusammenhang mit Straftaten (ABl. L 332 vom 18.12.2007, S. 103) und Netzwerk nationaler Experten für gemeinsame Ermittlungsgruppen, Netzwerk im Sinne des Beschlusses 2002/494/JI des Rates vom 13. Juni 2002 zur Einrichtung eines Europäischen Netzes von Anlaufstellen betreffend Personen, die für Völkermord, Verbrechen gegen die Menschlichkeit und Kriegsverbrechen verantwortlich sind (ABl. L 167 vom 26.6.2002, S. 1), Netzwerk im Sinne des Beschlusses 2007/845/JI des Rates vom 6. Dezember 2007 über die Zusammenarbeit zwischen den Vermögensabschöpfungsstellen der Mitgliedstaaten auf dem Gebiet des Aufspürens und der Ermittlung von Erträgen aus Straftaten oder anderen Vermögensgegenständen im Zusammenhang mit Straftaten (ABl. L 332 vom 18.12.2007, S. 103) und
 
-a)
-
-b)
-
-c)
-
-2.
+2. die Justizbehörde, die von der Bundesregierung für das Netzwerk im Sinne des Beschlusses 2008/852/JI des Rates vom 24. Oktober 2008 über ein Kontaktstellennetz zur Korruptionsbekämpfung (ABl. L 301 vom 12.11.2008, S. 38) benannt ist.
 
 ### § 4 — Nationales Eurojust-Koordinierungssystem
 
-(1) Zur Koordinierung der Zusammenarbeit zwischen wird ein nationales Eurojust-Koordinierungssystem eingerichtet.
+(1) Zur Koordinierung der Zusammenarbeit zwischen
 
-1.
+1. den Eurojust-Anlaufstellen,
 
-2.
+2. den Eurojust-Kontaktstellen und
 
-3.
+3. dem Generalbundesanwalt beim Bundesgerichtshof als nationaler Anlaufstelle im Sinne von § 1 der Eurojust-Anlaufstellen-Verordnung
 
 (2) Die Eurojust-Anlaufstellen sind für die Organisation des Eurojust-Koordinierungssystems zuständig. Das Bundesamt für Justiz nimmt diese Aufgabe im Einvernehmen mit den übrigen Eurojust-Anlaufstellen wahr.
 

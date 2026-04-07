@@ -21,29 +21,19 @@
 
 (1) Im Sinne dieses Gesetzes ist oder sind
 
-1.
+1. „Abkommen“: die Abkommen der Bundesrepublik Deutschland mit einem anderen Mitgliedstaat auf dem Gebiet der Steuern vom Einkommen und vom Vermögen, welche die Beseitigung von Doppelbesteuerung vorsehen;
 
-2.
+2. „Übereinkommen“: das Übereinkommen über die Beseitigung der Doppelbesteuerung im Falle von Gewinnberichtigungen zwischen verbundenen Unternehmen (90/436/EWG, ABl. L 225 vom 20.8.1990, S. 10) in der jeweils geltenden Fassung und andere zukünftige Übereinkommen, die als solche gesetzlich benannt werden;
 
-3.
+3. „Streitigkeiten“: rechtliche Meinungsunterschiede, die durch die Auslegung und Anwendung von Abkommen und Übereinkommen entstehen; ein Gegenstand dieser Streitigkeiten ist eine Streitfrage;
 
-4.
+4. „Doppelbesteuerung“: die Erhebung von Steuern, die unter ein Abkommen oder Übereinkommen fallen, durch die Bundesrepublik Deutschland und einen oder mehrere andere Mitgliedstaaten in Bezug auf dasselbe steuerpflichtige Einkommen oder Vermögen, wenn die Erhebung a)zu einer zusätzlichen Steuerbelastung führt,b)zu einer Erhöhung der Steuerverbindlichkeiten führt oderc)zu der Streichung oder Verringerung von Verlusten führt, die zur Verrechnung mit steuerpflichtigen Gewinnen hätten genutzt werden können; zu einer zusätzlichen Steuerbelastung führt, zu einer Erhöhung der Steuerverbindlichkeiten führt oder zu der Streichung oder Verringerung von Verlusten führt, die zur Verrechnung mit steuerpflichtigen Gewinnen hätten genutzt werden können;
 
-a)
+5. „zuständige Behörde der Bundesrepublik Deutschland“: das Bundesministerium der Finanzen oder die Behörde, an die das Bundesministerium der Finanzen seine Befugnisse delegiert hat; für die Zwecke dieses Gesetzes wird das Bundeszentralamt für Steuern mit der Wahrnehmung der Aufgaben des Bundesministeriums der Finanzen beauftragt; „zuständige Behörde eines anderen Mitgliedstaats“ ist die Behörde, die als solche von dem betreffenden Mitgliedstaat benannt worden ist;
 
-b)
+6. „zuständiges Gericht der Bundesrepublik Deutschland“: das Finanzgericht, das nach der Finanzgerichtsordnung für Klagen gegen das Bundeszentralamt für Steuern örtlich oder aufgrund einer Bestimmung des Bundesfinanzhofs zuständig ist; „zuständiges Gericht eines anderen Mitgliedstaats“ ist das Gericht oder eine andere Stelle, die als solche von dem betreffenden Mitgliedstaat benannt wurde;
 
-c)
-
-5.
-
-6.
-
-7.
-
-a)
-
-b)
+7. „betroffene Person“: eine Person, die a)nach einem Abkommen zwischen der Bundesrepublik Deutschland mit einem anderen betroffenen Mitgliedstaat ansässig ist oder für Zwecke eines Übereinkommens ein Unternehmen eines Vertragsstaats ist undb)deren Besteuerung von der Streitfrage nach demselben Abkommen oder Übereinkommen unmittelbar betroffen ist. nach einem Abkommen zwischen der Bundesrepublik Deutschland mit einem anderen betroffenen Mitgliedstaat ansässig ist oder für Zwecke eines Übereinkommens ein Unternehmen eines Vertragsstaats ist und deren Besteuerung von der Streitfrage nach demselben Abkommen oder Übereinkommen unmittelbar betroffen ist.
 
 (2) Jeder für die Zwecke dieses Gesetzes nicht definierte Begriff hat, wenn der Zusammenhang nichts anderes erfordert, die Bedeutung, die ihm nach dem jeweiligen Abkommen oder Übereinkommen zwischen der Bundesrepublik Deutschland und dem oder den betroffenen Mitgliedstaaten im Zeitpunkt des Eingangs der ersten Mitteilung der Maßnahme an die betroffene Person zukommt, die im Ergebnis zu einer Streitfrage geführt hat oder führen wird. In Ermangelung einer Begriffsbestimmung in einem solchen Abkommen oder Übereinkommen haben nicht definierte Begriffe die Bedeutung, die ihnen zum jeweiligen Zeitpunkt nach dem Recht des betroffenen Mitgliedstaats für die Zwecke der Steuern zukam, für die das genannte Abkommen oder Übereinkommen gilt, wobei jede Bedeutung nach dem geltenden Steuerrecht des genannten Mitgliedstaats Vorrang vor einer Bedeutung hat, die der Begriff nach anderen Gesetzen des genannten Mitgliedstaats hat.
 
@@ -67,41 +57,29 @@ Jegliche Kommunikation zwischen der betroffenen Person und der zuständigen Beh�
 
 Die Streitbeilegungsbeschwerde hat zu enthalten:
 
-1.
+1. den Namen, die Anschrift, das Steueridentifikationsmerkmal und jegliche sonstige Angaben, die für die Identifikation der betroffenen Person, welche die Streitbeilegungsbeschwerde bei den zuständigen Behörden eingereicht hat, und für die Identifikation weiterer betroffener Personen erforderlich sind;
 
-2.
+2. die von der Streitbeilegungsbeschwerde betroffenen Mitgliedstaaten;
 
-3.
+3. die von der Streitfrage berührten Besteuerungszeiträume;
 
-4.
+4. genaue Angaben zu den maßgeblichen Tatsachen und Umständen des Falls mit Kopien aller Belege und Nachweisen a)einschließlich genauer Angaben zur Struktur der maßgeblichen Transaktionen und zu den Beziehungen zwischen der betroffenen Person und den anderen an den maßgeblichen Transaktionen beteiligten Parteien einschließlich aller Fakten, die in gutem Glauben in einer für beide Seiten verbindlichen Vereinbarung zwischen der betroffenen Person und der Finanzverwaltung festgelegt wurden, soweit vorhanden,b)im Einzelnen zur Art und zum Zeitpunkt der Maßnahmen, die im Ergebnis zu einer Streitfrage geführt haben oder führen werden, einschließlich genauer Angaben zu demselben im anderen Mitgliedstaat erzielten Einkommen und zur Einbeziehung dieses Einkommens in das steuerpflichtige Einkommen im anderen Mitgliedstaat sowie genauer Angaben zu Steuern, die auf das Einkommen im anderen Mitgliedstaat erhoben wurden oder noch erhoben werden, undc)zu den entsprechenden Beträgen in den Währungen der betroffenen Mitgliedstaaten; einschließlich genauer Angaben zur Struktur der maßgeblichen Transaktionen und zu den Beziehungen zwischen der betroffenen Person und den anderen an den maßgeblichen Transaktionen beteiligten Parteien einschließlich aller Fakten, die in gutem Glauben in einer für beide Seiten verbindlichen Vereinbarung zwischen der betroffenen Person und der Finanzverwaltung festgelegt wurden, soweit vorhanden, im Einzelnen zur Art und zum Zeitpunkt der Maßnahmen, die im Ergebnis zu einer Streitfrage geführt haben oder führen werden, einschließlich genauer Angaben zu demselben im anderen Mitgliedstaat erzielten Einkommen und zur Einbeziehung dieses Einkommens in das steuerpflichtige Einkommen im anderen Mitgliedstaat sowie genauer Angaben zu Steuern, die auf das Einkommen im anderen Mitgliedstaat erhoben wurden oder noch erhoben werden, und zu den entsprechenden Beträgen in den Währungen der betroffenen Mitgliedstaaten;
 
-a)
+5. Verweis auf die anzuwendenden nationalen Vorschriften und Abkommen oder Übereinkommen; ist mehr als ein Abkommen oder Übereinkommen anwendbar, ist anzugeben, welches Abkommen oder Übereinkommen in Bezug auf die maßgebliche Streitfrage ausgelegt wird;
 
-b)
+6. eine Stellungnahme, aus der hervorgeht, aus welchen Gründen eine Streitfrage vorliegt;
 
-c)
+7. Angaben zu von der betroffenen Person eingelegten Rechtsbehelfen oder eingeleiteten Gerichtsverfahren im Zusammenhang mit den maßgeblichen Transaktionen sowie zu allen die Streitfrage betreffenden Gerichtsentscheidungen mit Kopien aller Belege;
 
-5.
+8. eine Erklärung der betroffenen Person, in der diese sich verpflichtet, alle angemessenen Anfragen einer zuständigen Behörde der betroffenen Mitgliedstaaten vollständig und umgehend zu beantworten und auf Anfrage den zuständigen Behörden alle angeforderten Unterlagen und Nachweise zu übermitteln;
 
-6.
+9. Kopien der folgenden Unterlagen, soweit vorhanden: a)der Entscheidung über die Steuerveranlagung in Form eines Steuerbescheids,b)der Steuerprüfungsberichte oder anderer vergleichbarer Unterlagen, die im Ergebnis zu der Streitfrage geführt haben oder führen werden, sowiec)Kopien aller sonstigen von den Finanzbehörden erstellten Unterlagen im Zusammenhang mit der Streitfrage; der Entscheidung über die Steuerveranlagung in Form eines Steuerbescheids, der Steuerprüfungsberichte oder anderer vergleichbarer Unterlagen, die im Ergebnis zu der Streitfrage geführt haben oder führen werden, sowie Kopien aller sonstigen von den Finanzbehörden erstellten Unterlagen im Zusammenhang mit der Streitfrage;
 
-7.
+10. soweit vorhanden, Angaben zu von der betroffenen Person beantragten Verständigungsverfahren oder Schiedsverfahren über dieselbe Streitfrage und denselben Besteuerungszeitraum mit Kopien aller Belege;
 
-8.
+11. eine Erklärung der betroffenen Person, die Bestimmungen des § 4 Absatz 4 einzuhalten;
 
-9.
-
-a)
-
-b)
-
-c)
-
-10.
-
-11.
-
-12.
+12. alle weiteren Informationen, die für die inhaltliche Prüfung des jeweiligen Falls hinsichtlich der Streitfrage von der betroffenen Person als erforderlich erachtet werden.
 
 ### § 6 — Eingangsbestätigung
 
@@ -121,23 +99,23 @@ c)
 
 (1) Die zuständige Behörde der Bundesrepublik Deutschland trifft innerhalb von sechs Monaten ab Eingang der Streitbeilegungsbeschwerde eine Entscheidung über ihre Zulassung oder Zurückweisung. Hat die zuständige Behörde der Bundesrepublik Deutschland ein Informationsersuchen nach § 7 Absatz 1 gestellt, so beginnt die Frist nach Satz 1 erst an dem Tag zu laufen, der auf den Tag folgt, an dem die Antwort nach § 7 Absatz 2 zugegangen ist. Hat die betroffene Person ein Rechtsbehelfsverfahren nach dem nationalen Recht der betroffenen Mitgliedstaaten eingeleitet, so beginnt die Frist nach Satz 1 erst an dem Tag zu laufen, der auf den Tag folgt, an dem
 
-1.
+1. eine in diesem Verfahren ergangene Entscheidung rechtskräftig geworden ist,
 
-2.
+2. dieses Verfahren auf andere Weise endgültig abgeschlossen worden ist oder
 
-3.
+3. dieses Verfahren ausgesetzt oder ruhend gestellt oder das Ruhen des Verfahrens angeordnet worden ist.
 
 (2) Die zuständige Behörde der Bundesrepublik Deutschland unterrichtet die betroffene Person, welche die Streitbeilegungsbeschwerde eingereicht hat, und die zuständigen Behörden der anderen betroffenen Mitgliedstaaten unverzüglich über ihre Entscheidung nach Absatz 1.
 
-(3) Die Streitbeilegungsbeschwerde kann zurückgewiesen werden, wenn Weist die zuständige Behörde der Bundesrepublik Deutschland die Streitbeilegungsbeschwerde zurück, so hat sie bei der Mitteilung an die betroffene Person nach Absatz 2 auch die Gründe für die Zurückweisung anzugeben.
+(3) Die Streitbeilegungsbeschwerde kann zurückgewiesen werden, wenn
 
-1.
+1. bei der Einreichung der Streitbeilegungsbeschwerde die nach § 5 erforderlichen Angaben oder Unterlagen fehlen,
 
-2.
+2. die nach § 7 angeforderten Informationen nicht fristgemäß eingereicht wurden,
 
-3.
+3. keine Streitfrage der betroffenen Person, welche die Streitbeilegungsbeschwerde eingereicht hat, vorliegt oder
 
-4.
+4. die Streitbeilegungsbeschwerde nicht innerhalb der Frist nach § 4 Absatz 3 eingereicht wurde.
 
 (4) Hat die zuständige Behörde der Bundesrepublik Deutschland mit Ablauf der in Absatz 1 genannten Frist keine Entscheidung über die Zulassung oder Zurückweisung der Streitbeilegungsbeschwerde getroffen, so gilt die Streitbeilegungsbeschwerde als zugelassen.
 
@@ -151,11 +129,11 @@ c)
 
 (1) Wurde die Streitbeilegungsbeschwerde von der zuständigen Behörde mindestens eines betroffenen Mitgliedstaats, jedoch nicht von den zuständigen Behörden aller betroffenen Mitgliedstaaten zurückgewiesen, so kann die betroffene Person, welche die Streitbeilegungsbeschwerde eingereicht hat, einen Antrag auf Einsetzung eines Beratenden Ausschusses stellen, der über die Zulassung der Streitbeilegungsbeschwerde entscheidet. Ein solcher Antrag der betroffenen Person ist nur zulässig, wenn
 
-1.
+1. gegen eine Zurückweisung der Streitbeilegungsbeschwerde kein Rechtsbehelf gegeben ist,
 
-2.
+2. gegen eine Zurückweisung der Streitbeilegungsbeschwerde kein Rechtsbehelfsverfahren anhängig ist und
 
-3.
+3. die betroffene Person auf ihr Recht, ein Rechtsbehelf einzulegen, verzichtet hat; der Verzicht ist im Rahmen des Antrags zu erklären.
 
 (2) Der Antrag nach Absatz 1 muss schriftlich und innerhalb von 50 Tagen, gerechnet ab dem Tag, der auf den Tag folgt, an dem der betroffenen Person die Mitteilung nach § 8 Absatz 2 bekannt gegeben wurde, gestellt werden. In Fällen des § 9 Absatz 2 muss der Antrag abweichend von Satz 1 innerhalb von 50 Tagen gestellt werden, gerechnet ab dem Tag, der auf den Tag folgt, an dem der betroffenen Person die gerichtliche Entscheidung bekannt gegeben wurde, welche die Zurückweisung der Streitbeilegungsbeschwerde durch eine zuständige Behörde der betroffenen Mitgliedstaaten ersetzt. Der Antrag ist bei der zuständigen Behörde der Bundesrepublik Deutschland und den zuständigen Behörden der anderen betroffenen Mitgliedstaaten gleichzeitig und mit den gleichen Angaben einzureichen.
 
@@ -195,11 +173,11 @@ c)
 
 (3) Hat die betroffene Person ein Rechtsbehelfsverfahren in der Bundesrepublik Deutschland oder nach dem Recht eines anderen betroffenen Mitgliedstaats eingeleitet, so beginnt die Einigungsfrist an dem Tag, der auf den Tag folgt, an dem
 
-1.
+1. eine in einem solchen Verfahren ergangene Entscheidung rechtskräftig geworden ist,
 
-2.
+2. das Verfahren auf andere Weise endgültig abgeschlossen worden ist oder
 
-3.
+3. das Verfahren ausgesetzt worden beziehungsweise das Ruhen des Verfahrens angeordnet worden ist.
 
 (4) Die zuständige Behörde der Bundesrepublik Deutschland kann bei den anderen zuständigen Behörden der betroffenen Mitgliedstaaten vorschlagen, die in Absatz 2 Satz 1 genannte Einigungsfrist um ein Jahr zu verlängern. Der Vorschlag einer Fristverlängerung ist schriftlich zu begründen. Die zuständige Behörde der Bundesrepublik Deutschland widerspricht einem Verlängerungsvorschlag einer zuständigen Behörde eines anderen betroffenen Mitgliedstaats nicht, wenn er schriftlich begründet worden ist. Die zuständige Behörde der Bundesrepublik Deutschland unterrichtet die betroffene Person unverzüglich über eine Verlängerung der Einigungsfrist.
 
@@ -257,21 +235,21 @@ Sofern die zuständige Behörde der Bundesrepublik Deutschland es für erforderl
 
 (1) Die zuständige Behörde der Bundesrepublik Deutschland kann mit den zuständigen Behörden der anderen betroffenen Mitgliedstaaten die Veröffentlichung des gesamten Wortlauts der abschließenden Entscheidung nach § 18 vorbehaltlich des Einverständnisses aller betroffenen Personen vereinbaren.
 
-(2) Ist eine der zuständigen Behörden oder eine betroffene Person nicht mit der Veröffentlichung des gesamten Wortlauts der abschließenden Entscheidung einverstanden, so veröffentlicht die zuständige Behörde der Bundesrepublik Deutschland in Abstimmung mit den zuständigen Behörden der anderen betroffenen Mitgliedstaaten eine Zusammenfassung der abschließenden Entscheidung. Diese Zusammenfassung hat Folgendes zu enthalten: Die zuständige Behörde der Bundesrepublik Deutschland soll dabei die von der Kommission erstellten Musterformulare verwenden.
+(2) Ist eine der zuständigen Behörden oder eine betroffene Person nicht mit der Veröffentlichung des gesamten Wortlauts der abschließenden Entscheidung einverstanden, so veröffentlicht die zuständige Behörde der Bundesrepublik Deutschland in Abstimmung mit den zuständigen Behörden der anderen betroffenen Mitgliedstaaten eine Zusammenfassung der abschließenden Entscheidung. Diese Zusammenfassung hat Folgendes zu enthalten:
 
-1.
+1. eine Beschreibung des Sachverhalts und des Streitgegenstands,
 
-2.
+2. das Datum der abschließenden Entscheidung,
 
-3.
+3. die betroffenen Steuerzeiträume,
 
-4.
+4. die Rechtsgrundlage,
 
-5.
+5. den Wirtschaftsbereich,
 
-6.
+6. eine Kurzbeschreibung des Endergebnisses und
 
-7.
+7. die Art des Schiedsverfahrens.
 
 (3) Die zuständige Behörde der Bundesrepublik Deutschland übermittelt der betroffenen Person die Informationen, die nach Absatz 2 veröffentlicht werden sollen. Spätestens 60 Tage, gerechnet ab dem Tag, der auf den Tag folgt, an dem die Informationen nach Satz 1 der betroffenen Person bekannt gegeben wurden, kann die betroffene Person bei der zuständigen Behörde der Bundesrepublik Deutschland und den zuständigen Behörden der anderen betroffenen Mitgliedstaaten beantragen, keine Informationen hinsichtlich Handels-, Geschäfts-, Gewerbe- oder Berufsgeheimnissen oder Geschäftsverfahren oder Informationen, die der öffentlichen Ordnung zuwiderlaufen, zu veröffentlichen.
 
@@ -279,13 +257,13 @@ Sofern die zuständige Behörde der Bundesrepublik Deutschland es für erforderl
 
 ### § 20 — Versagungsgründe und vorzeitige Beendigung
 
-(1) Abweichend von § 17 Absatz 1 Satz 1 kann die zuständige Behörde der Bundesrepublik Deutschland den Antrag auf Einsetzung eines Beratenden Ausschusses ablehnen, wenn Ist ein Straf- oder Bußgeldverfahren anhängig, kann die zuständige Behörde der Bundesrepublik Deutschland ein Streitbeilegungsverfahren nach diesem Gesetz ab dem Zeitpunkt der Zulassung der Streitbeilegungsbeschwerde bis zur rechtskräftigen Beendigung des Straf- oder Bußgeldverfahrens aussetzen.
+(1) Abweichend von § 17 Absatz 1 Satz 1 kann die zuständige Behörde der Bundesrepublik Deutschland den Antrag auf Einsetzung eines Beratenden Ausschusses ablehnen, wenn
 
-1.
+1. eine betroffene Person gegen die Steuergesetze verstoßen hat,
 
-2.
+2. dieser Verstoß mit Freiheitsstrafe, Geldstrafe oder Geldbuße geahndet worden ist und
 
-3.
+3. dieser Verstoß im Zusammenhang mit der Streitfrage steht.
 
 (2) Abweichend von § 17 Absatz 1 Satz 1 kann die zuständige Behörde der Bundesrepublik Deutschland den Antrag auf Einsetzung eines Beratenden Ausschusses im Einzelfall ablehnen, wenn es bei einer Streitfrage nicht um eine Frage der Doppelbesteuerung geht. In diesem Fall informiert die zuständige Behörde der Bundesrepublik Deutschland unverzüglich die betroffene Person und die zuständigen Behörden der anderen betroffenen Mitgliedstaaten.
 
@@ -297,13 +275,13 @@ Sofern die zuständige Behörde der Bundesrepublik Deutschland es für erforderl
 
 ### § 21 — Zusammensetzung
 
-Der Beratende Ausschuss setzt sich zusammen aus Kommen die zuständigen Behörden überein, so kann die Zahl der Personen nach den Nummern 2 und 3 auf zwei Vertreter oder unabhängige Personen für jede zuständige Behörde der betroffenen Mitgliedstaaten erhöht werden.
+Der Beratende Ausschuss setzt sich zusammen aus
 
-1.
+1. einem Vorsitzenden,
 
-2.
+2. jeweils einem Vertreter der zuständigen Behörde jedes betroffenen Mitgliedstaats und
 
-3.
+3. jeweils einer unabhängigen Person, die von der zuständigen Behörde eines jeden betroffenen Mitgliedstaats aus der in § 26 genannten Liste ausgewählt wird.
 
 ### § 22 — Einsetzungsfrist
 
@@ -317,11 +295,11 @@ Geht bei der zuständigen Behörde der Bundesrepublik Deutschland ein Antrag nac
 
 (3) Die zuständige Behörde der Bundesrepublik Deutschland kann die Vorlage von Informationen nach Absatz 2 verweigern, wenn
 
-1.
+1. sie die angeforderten Informationen nach geltendem Recht nicht erlangen oder beschaffen kann,
 
-2.
+2. die Informationen Handels-, Geschäfts-, Gewerbe- oder Berufsgeheimnisse oder ein Geschäftsverfahren betreffen oder
 
-3.
+3. die Preisgabe der Informationen der öffentlichen Ordnung widerspricht.
 
 (4) Eine betroffene Person kann auf eigenen Antrag und mit Zustimmung der zuständigen Behörde der Bundesrepublik Deutschland und der zuständigen Behörden der anderen betroffenen Mitgliedstaaten vor einem Beratenden Ausschuss selbst erscheinen oder sich vertreten lassen. Auf entsprechende Aufforderung des Beratenden Ausschusses hat eine betroffene Person oder ihr Vertreter vor dem Beratenden Ausschuss zu erscheinen.
 
@@ -345,15 +323,15 @@ Geht bei der zuständigen Behörde der Bundesrepublik Deutschland ein Antrag nac
 
 ### § 25 — Unabhängigkeit
 
-(1) Die zuständige Behörde der Bundesrepublik Deutschland kann die Benennung einer bestimmten unabhängigen Person für den Beratenden Ausschuss aus jedem der folgenden Gründe ablehnen: Die zuständige Behörde der Bundesrepublik Deutschland kann mit den zuständigen Behörden der anderen betroffenen Mitgliedstaaten bis zur Einsetzung des Beratenden Ausschusses weitere Gründe für die Ablehnung der Benennung von unabhängigen Personen für den Beratenden Ausschuss vereinbaren.
+(1) Die zuständige Behörde der Bundesrepublik Deutschland kann die Benennung einer bestimmten unabhängigen Person für den Beratenden Ausschuss aus jedem der folgenden Gründe ablehnen:
 
-1.
+1. die betreffende Person gehört einer der beteiligten Finanzverwaltungen an oder ist für diese tätig oder befand sich zu irgendeinem Zeitpunkt während der vorhergehenden drei Jahre in einer solchen Situation;
 
-2.
+2. die betreffende Person hat oder hatte eine wesentliche Beteiligung an oder ein Stimmrecht in der betroffenen Person oder ist oder war zu irgendeinem Zeitpunkt während der letzten fünf Jahre vor der Benennung deren Angestellter oder Berater;
 
-3.
+3. die betreffende Person bietet keine hinreichende Gewähr für Unbefangenheit in dem zu schlichtenden Streitfall oder den zu schlichtenden Streitfällen;
 
-4.
+4. die betreffende Person ist Angestellte eines Unternehmens der Steuerberatung oder erteilt auf andere Weise berufsmäßig Steuerberatung oder befand sich zu irgendeinem Zeitpunkt während der letzten drei Jahre vor der Benennung in einer solchen Situation.
 
 (2) Die zuständige Behörde der Bundesrepublik Deutschland kann verlangen, dass eine unabhängige Person, die nicht nach § 24 Absatz 2 und 3 gerichtlich benannt worden ist, oder ihre Stellvertreter etwaige Interessen, Beziehungen oder alle sonstigen Angelegenheiten offenlegt, welche die Unabhängigkeit oder Unparteilichkeit dieser Person im Verfahren beeinträchtigen oder den begründeten Anschein von Befangenheit erwecken könnten.
 
@@ -381,19 +359,19 @@ Geht bei der zuständigen Behörde der Bundesrepublik Deutschland ein Antrag nac
 
 (3) In der Geschäftsordnung ist insbesondere Folgendes zu regeln:
 
-1.
+1. Beschreibung der Streitfrage und deren Merkmale,
 
-2.
+2. Beschreibung der rechtlichen und faktischen Fragestellungen, auf die sich die zuständigen Behörden der betroffenen Mitgliedstaaten geeinigt haben,
 
-3.
+3. Form des Streitbeilegungsgremiums, bei dem es sich entweder um einen Beratenden Ausschuss oder einen Ausschuss für Alternative Streitbeilegung zu handeln hat, sowie Art des Verfahrens für die Alternative Streitbeilegung, wenn dieses vom Verfahren der unabhängigen Stellungnahme, das von einem Beratenden Ausschuss angewandt wird, abweicht,
 
-4.
+4. Zeitrahmen für das Streitbeilegungsverfahren,
 
-5.
+5. Zusammensetzung des Beratenden Ausschusses oder des Ausschusses für Alternative Streitbeilegung einschließlich der Anzahl und der Namen der Mitglieder, Angaben zu deren Kompetenz und Qualifikationen sowie Offenlegung von eventuell bestehenden Interessenkonflikten der Mitglieder,
 
-6.
+6. Regeln für die Beteiligung jeder betroffenen Person und von Dritten am Verfahren, für den Austausch von Schriftsätzen, von Informationen und von Nachweisen, für die Kosten, für die Art des Streitbeilegungsverfahrens und für sonstige wichtige verfahrenstechnische oder organisatorische Aspekte,
 
-7.
+7. logistische Regelungen für das Verfahren des Beratenden Ausschusses und die Abgabe seiner Stellungnahme.
 
 (4) Wird ein Beratender Ausschuss nach § 10 zur Entscheidung über die Zulassung einer Streitbeilegungsbeschwerde eingesetzt, so sind lediglich die in Absatz 3 Nummer 1, 4, 5 und 6 genannten Inhalte in der Geschäftsordnung festzulegen.
 
@@ -405,11 +383,11 @@ Geht bei der zuständigen Behörde der Bundesrepublik Deutschland ein Antrag nac
 
 ### § 28 — Verfahrenserleichterungen für natürliche Personen und kleinere Unternehmen
 
-(1) Eine betroffene Person, die kann die Streitbeilegungsbeschwerde, die Antwort auf ein Ersuchen um zusätzliche Informationen, die Rücknahme oder den Antrag nach den §§ 4, 7 oder 11 (Benachrichtigungen) abweichend von diesen Bestimmungen nur bei der zuständigen Behörde des Mitgliedstaats einreichen, in dem die betroffene Person ansässig ist.
+(1) Eine betroffene Person, die
 
-1.
+1. eine natürliche Person ist oder
 
-2.
+2. ein Unternehmen ist, das nicht ein großes Unternehmen im Sinne des Artikels 3 Absatz 4 der Richtlinie 2013/34/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Jahresabschluss, den konsolidierten Abschluss und damit verbundene Berichte von Unternehmen bestimmter Rechtsformen und zur Änderung der Richtlinie 2006/43/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 78/660/EWG und 83/349/EWG des Rates (ABl. L 182 vom 29.6.2013, S. 19) und nicht Teil einer großen Gruppe im Sinne des Artikels 3 Absatz 7 der genannten Richtlinie 2013/34/EU ist,
 
 (2) Die zuständige Behörde der Bundesrepublik Deutschland teilt den zuständigen Behörden der anderen betroffenen Mitgliedstaaten gleichzeitig und innerhalb von zwei Monaten nach Eingang von Benachrichtigungen deren Inhalt mit.
 
@@ -445,17 +423,17 @@ Geht bei der zuständigen Behörde der Bundesrepublik Deutschland ein Antrag nac
 
 (1) Die zuständige Behörde der Bundesrepublik Deutschland trägt zu gleichen Teilen mit den zuständigen Behörden der anderen betroffenen Mitgliedstaaten die folgenden Kosten des Streitbeilegungsverfahrens einschließlich des Verfahrens vor dem Beratenden Ausschuss oder dem Ausschuss für Alternative Streitbeilegung:
 
-1.
+1. die Auslagen der unabhängigen oder sonst benannten Personen entsprechend einem Betrag in Höhe des Durchschnitts des üblichen Erstattungsbetrags für hochrangige Beamte der betroffenen Mitgliedstaaten und
 
-2.
+2. das Honorar für die unabhängigen oder sonst benannten Personen in Höhe von höchstens 1 000 Euro pro Person und pro Tag für jeden Sitzungstag des Beratenden Ausschusses.
 
 (2) Die den betroffenen Personen entstandenen Verfahrenskosten werden von der Bundesrepublik Deutschland nicht ersetzt.
 
-(3) Abweichend von Absatz 1 trägt die betroffene Person die dort genannten Kosten der betroffenen Mitgliedstaaten, soweit die zuständige Behörde der Bundesrepublik Deutschland und die zuständigen Behörden der anderen betroffenen Mitgliedstaaten der Kostentragung durch die betroffene Person nach den Nummern 1 und 2 zustimmen.
+(3) Abweichend von Absatz 1 trägt die betroffene Person die dort genannten Kosten der betroffenen Mitgliedstaaten,
 
-1.
+1. wenn sie eine Streitbeilegungsbeschwerde nach § 11 zurückgenommen hat oder
 
-2.
+2. wenn der Beratende Ausschuss die Zurückweisung der Streitbeilegungsbeschwerde nach § 10 bestätigt hat,
 
 ### § 32 — Schutz von Informationen und Geheimnissen
 

@@ -12,13 +12,13 @@
 
 (2) Alkopops im Sinne dieses Gesetzes sind Getränke, auch in gefrorenem Zustand, die
 
-1.
+1. aus einer Mischung von Getränken mit einem Alkoholgehalt von 1,2 Prozent vol oder weniger oder gegorenen Getränken mit einem Alkoholgehalt von mehr als 1,2 Prozent vol mit Erzeugnissen nach § 1 Absatz 1 des Alkoholsteuergesetzes bestehen,
 
-2.
+2. einen Alkoholgehalt von mehr als 1,2 Prozent vol, aber von weniger als 10 Prozent vol aufweisen,
 
-3.
+3. trinkfertig gemischt in verkaufsfertigen, verschlossenen Behältnissen abgefüllt sind und
 
-4.
+4. als Erzeugnisse nach § 1 Absatz 1 des Alkoholsteuergesetzes der Alkoholsteuer unterliegen.
 
 (3) Als Alkopops gelten auch industriell vorbereitete Mischungskomponenten von Getränken nach Absatz 2, die in einer gemeinsamen Verpackung enthalten sind.
 

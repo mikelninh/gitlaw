@@ -27,33 +27,33 @@ Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen bezogen au
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
-1.
+1. Berufsbildung, Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-4.
+4. Umweltschutz,
 
-5.
+5. Zuordnen und Handhaben von Werk-, Betriebs- und Hilfsstoffen,
 
-6.
+6. Betriebliche und technische Kommunikation,
 
-7.
+7. Planen und Vorbereiten von Arbeitsabläufen,
 
-8.
+8. Prüfen,
 
-9.
+9. Branchenspezifische Fertigungstechniken,
 
-10.
+10. Steuerungs- und Regelungstechnik,
 
-11.
+11. Einrichten und Bedienen von Produktionsanlagen,
 
-12.
+12. Steuern des Materialflusses,
 
-13.
+13. Warten und Inspizieren von Maschinen und Anlagen,
 
-14.
+14. Durchführen von qualitätssichernden Maßnahmen.
 
 ### § 5 — Ausbildungsrahmenplan
 
@@ -73,199 +73,55 @@ Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu
 
 (2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll in insgesamt höchstens drei Stunden eine praktische Aufgabe durchführen sowie in insgesamt höchstens 60 Minuten Aufgaben, die im Zusammenhang mit der praktischen Aufgabe stehen, schriftlich bearbeiten. Hierfür kommt schwerpunktorientiert insbesondere in Betracht: Dabei soll der Prüfling zeigen, dass er Arbeitsschritte planen, Arbeitsmittel anwenden, technische Unterlagen nutzen sowie den Sicherheits- und Gesundheitsschutz bei der Arbeit und den Umweltschutz berücksichtigen kann.
+(3) Der Prüfling soll in insgesamt höchstens drei Stunden eine praktische Aufgabe durchführen sowie in insgesamt höchstens 60 Minuten Aufgaben, die im Zusammenhang mit der praktischen Aufgabe stehen, schriftlich bearbeiten. Hierfür kommt schwerpunktorientiert insbesondere in Betracht:
 
-1.
+1. Positionieren von Maschinenelementen,
 
-2.
+2. Vorbereiten von Maschinen und Anlagen für die Produktion oder
 
-3.
+3. Einstellen und Kontrollieren von Maschinen- und Anlagenelementen sowie Zusatzeinrichtungen.
 
 ### § 9 — Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in höchstens sieben Stunden bis zu zwei praktische Aufgaben durchführen. Hierfür kommen insbesondere in Betracht: Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe planen, Werkzeuge, Betriebs- und Hilfsstoffe festlegen, Messungen durchführen, technische Unterlagen nutzen, Prozesse steuern, Qualitätsprüfungen, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz durchführen kann. Bei der Aufgabenstellung ist der Ausbildungsschwerpunkt nach § 4 Abs. 1 zu berücksichtigen.
+(2) Der Prüfling soll im praktischen Teil der Prüfung in höchstens sieben Stunden bis zu zwei praktische Aufgaben durchführen. Hierfür kommen insbesondere in Betracht:
 
-1.
+1. Einrichten, in Betrieb nehmen und Bedienen einer Maschine oder Anlage,
 
-2.
+2. Umrüsten, in Betrieb nehmen und Bedienen einer Maschine oder Anlage oder
 
-3.
+3. Durchführen einer vorbeugenden Instandsetzung einschließlich der Inbetriebnahme.
 
-(3) Der schriftliche Teil der Prüfung umfasst die Prüfungsbereiche: In den Prüfungsbereichen Produktionstechnik und Produktionsplanung kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht: Im Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht: allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
+(3) Der schriftliche Teil der Prüfung umfasst die Prüfungsbereiche:
 
-1.
+1. Produktionstechnik,
 
-2.
+2. Produktionsplanung sowie
 
-3.
-
-1.
-
-1.1
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-1.2
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-2.1
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-2.2
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-3.
-
-3.1
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-3.2
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-4.
-
-4.1
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-4.2
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-5.
-
-5.1
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-5.2
-
-a)
-
-b)
-
-c)
-
-d)
-
-(4) Die schriftliche Prüfung dauert höchstens:
+3. Wirtschafts- und Sozialkunde.
 
 (5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
+(7) Die Prüfung ist bestanden, wenn
 
-(7) Die Prüfung ist bestanden, wenn jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche des schriftlichen Teils müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich dürfen keine ungenügenden Leistungen erbracht worden sein.
+1. im praktischen Prüfungsteil und
 
-1.
-
-2.
+2. im schriftlichen Prüfungsteil
 
 ### § 10 — Anrechnungsregelung
 
-(1) Die erfolgreich abgeschlossene Berufsausbildung zum Maschinen- und Anlagenführer/zur Maschinen- und Anlagenführerin kann nach den Vorschriften des dritten und vierten Ausbildungsjahres im fortgesetzt werden.
+(1) Die erfolgreich abgeschlossene Berufsausbildung zum Maschinen- und Anlagenführer/zur Maschinen- und Anlagenführerin kann nach den Vorschriften des dritten und vierten Ausbildungsjahres im
 
-1.
+1. Schwerpunkt Metalltechnik/Kunststofftechnik in einem der Ausbildungsberufe Kunststoff- und Kautschuktechnologe/Kunststoff- und Kautschuktechnologin, Feinwerkmechaniker/Feinwerkmechanikerin, Fertigungsmechaniker/Fertigungsmechanikerin, Industriemechaniker/Industriemechanikerin, Werkzeugmechaniker/Werkzeugmechanikerin, Zerspanungsmechaniker/Zerspanungsmechanikerin;
 
-2.
+2. Schwerpunkt Textiltechnik in dem Ausbildungsberuf Produktionsmechaniker-Textil/Produktionsmechanikerin-Textil;
 
-3.
+3. Schwerpunkt Textilveredelung in dem Ausbildungsberuf Produktveredler-Textil/Produktveredlerin-Textil;
 
-4.
+4. Schwerpunkt Lebensmitteltechnik in einem der Ausbildungsberufe Fachkraft für Lebensmitteltechnik, Fachkraft für Fruchtsafttechnik, Brauer und Mälzer/Brauerin und Mälzerin;
 
-5.
+5. Schwerpunkt Druckweiter- und Papierverarbeitung in einem der Ausbildungsberufe Buchbinder/Buchbinderin, Fachrichtung Buchfertigung (Serie) und Druckweiterverarbeitung (Serie), Verpackungsmittelmechaniker/Verpackungsmittelmechanikerin
 
 (2) Berufsausbildungsverhältnisse im Schwerpunkt Lebensmitteltechnik, die bis zum 8. April 2006 begründet worden sind, können im Ausbildungsberuf Molkereifachmann/Molkereifachfrau nach den Vorschriften des dritten Ausbildungsjahres fortgesetzt werden.
 
@@ -276,5 +132,3 @@ d)
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 ### Anlage — (zu § 5)
-
-(Fundstelle: BGBl. I 2004, 651 - 660)

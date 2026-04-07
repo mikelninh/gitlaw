@@ -10,7 +10,7 @@ Senioren, Frauen und Jugend
 
 ### I. — Erlass von Widerspruchsbescheiden
 
-Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in Verbindung mit § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 654) übertrage ich die Befugnis, Widerspruchsbescheide in Reisekosten-, Umzugskosten- und Trennungsgeldangelegenheiten zu erlassen, dem Bundesverwaltungsamt, soweit es den mit dem Widerspruch angefochtenen Verwaltungsakt erlassen oder den Erlass eines Verwaltungsaktes oder einen Anspruch abgelehnt hat und Beamtinnen und Beamte aus dem Bundesamt für  Zivildienst betroffen sind.
+Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in Verbindung mit § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 654) übertrage ich die Befugnis, Widerspruchsbescheide in Reisekosten-, Umzugskosten- und Trennungsgeldangelegenheiten zu erlassen, dem Bundesverwaltungsamt, soweit es den mit dem Widerspruch angefochtenen Verwaltungsakt erlassen oder den Erlass eines Verwaltungsaktes oder einen Anspruch abgelehnt hat und Beamtinnen und Beamte aus dem Bundesamt für Zivildienst betroffen sind.
 
 ### II.
 

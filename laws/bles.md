@@ -37,21 +37,21 @@ ihrer Stellvertreter
 
 (1) Die Vertreter der in § 5 Abs. 1 des Gesetzes genannten Wirtschaftsgruppen werden durch folgende Bundesverbände namentlich vorgeschlagen:
 
-1.
+1. die Vertreter der Landwirtschaft einschließlich des Gartenbaus, des Weinbaus, der Forstwirtschaft sowie der Fischwirtschaft durch den Deutschen Bauernverband e.V. im Einvernehmen mit dem Zentralverband Gartenbau e.V., dem Deutschen Weinbauverband e.V., dem Deutschen Forstwirtschaftsrat e.V. und dem Bundesmarktverband der Fischwirtschaft e.V.,
 
-2.
+2. je ein Vertreter der Verbraucher durch den Deutschen Gewerkschaftsbund, die Deutsche Angestellten-Gewerkschaft und die Arbeitsgemeinschaft der Verbraucherverbände e.V.,
 
-3.
+3. die Vertreter des Groß- und Außenhandels durch den Bundesverband des Deutschen Groß- und Außenhandels e.V. im Einvernehmen mit dem Zentralverband gewerblicher Verbundgruppen e.V.,
 
-4.
+4. die Vertreter des Einzelhandels durch den Bundesverband des Deutschen Lebensmittel-Einzelhandels e.V. im Einvernehmen mit dem Bundesverband der Filialbetriebe und Selbstbedienungs-Warenhäuser e.V. und dem Bundesverband deutscher Konsumgenossenschaften e.V.,
 
-5.
+5. die Vertreter des Ernährungshandwerks durch den Zentralverband des Deutschen Handwerks,
 
-6.
+6. die Vertreter der Ernährungsindustrie durch die Bundesvereinigung der Deutschen Ernährungsindustrie e.V.,
 
-7.
+7. die Vertreter der landwirtschaftlichen Genossenschaften durch den Deutschen Raiffeisenverband e.V.,
 
-8.
+8. der Vertreter des Landwarenhandels durch den Zentralverband des Deutschen Getreide-, Futter- und Düngemittelhandels e.V.
 
 (2) Für alle Mitglieder des Verwaltungsrates im Sinne des § 5 Abs. 1 des Gesetzes ist für den Fall ihrer Verhinderung ein Stellvertreter namentlich zu benennen. Hinsichtlich des Vorschlags und der Bestellung der Stellvertreter gilt Absatz 1 und § 5 Abs. 2 und 3 des Gesetzes entsprechend.
 
@@ -143,9 +143,9 @@ Eine Beschlußfassung des Verwaltungsrates im schriftlichen Verfahren ist zuläs
 
 (6) Dem Bundesministerium sind vom Präsidenten einzureichen:
 
-a)
+a) zum 1. Februar eine Nachweisung über die im letzten Geschäftsjahr tatsächlich in Anspruch genommenen Mittel,
 
-b)
+b) zum 1. Juli die Bilanz, die Gewinn- und Verlustrechnung sowie der Geschäftsbericht für das abgelaufene Geschäftsjahr.
 
 ### § 14 — Kreditaufnahme
 

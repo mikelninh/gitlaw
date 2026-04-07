@@ -9,11 +9,11 @@ Flächen
 
 ### § 1
 
-(1) Flächen, die nach Maßgabe der Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union über Direktzahlungen im Rahmen der Gemeinsamen Agrarpolitik oder über sonstige Stützungsregelungen für Inhaber landwirtschaftlicher Betriebe stillgelegt worden sind, gelten weiterhin als landwirtschaftlich genutzte Flächen. Als stillgelegt gelten auch die Flächen, die nach Maßgabe der Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union über Direktzahlungen im Rahmen der Gemeinsamen Agrarpolitik soweit diese Flächen für die Nutzung von Zahlungsansprüchen für die einheitliche Betriebsprämie oder die Basisprämie angemeldet worden sind.
+(1) Flächen, die nach Maßgabe der Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union über Direktzahlungen im Rahmen der Gemeinsamen Agrarpolitik oder über sonstige Stützungsregelungen für Inhaber landwirtschaftlicher Betriebe stillgelegt worden sind, gelten weiterhin als landwirtschaftlich genutzte Flächen. Als stillgelegt gelten auch die Flächen, die nach Maßgabe der Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union über Direktzahlungen im Rahmen der Gemeinsamen Agrarpolitik
 
-1.
+1. für den Anbau von Kurzumtriebswäldern genutzt oder
 
-2.
+2. nicht mehr für die Erzeugung genutzt werden,
 
 (2) Die für die Landwirtschaft in anderen Rechtsgebieten geltenden Rechtsvorschriften, insbesondere im Bereich des Bürgerlichen Rechts, des Grundstücksverkehrsrechts, des Landpachtverkehrsrechts, des Baurechts, des Naturschutzrechts, der Statistik und des Wasserrechts, finden auf diesen Flächen weiterhin Anwendung. § 1 Abs. 4 Satz 3 und § 21 Abs. 4 des Gesetzes über die Alterssicherung der Landwirte bleiben unberührt.
 

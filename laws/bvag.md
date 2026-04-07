@@ -57,5 +57,3 @@ Die nach diesem Gesetz dem Bundesamt für Soziale Sicherung zustehenden Aufgaben
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
 ### § 14
-
-Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft; zu demselben Zeitpunkt treten die diesem Gesetz entgegenstehenden Vorschriften der Reichsversicherungsgesetze und der zu ihrer Änderung, Ergänzung oder Durchführung erlassenen Vorschriften außer Kraft.

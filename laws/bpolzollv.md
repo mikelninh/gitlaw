@@ -12,23 +12,23 @@ Auf Grund des § 68 Abs. 1 Satz 1 des Bundespolizeigesetzes vom 19. Oktober 1994
 
 ### § 1
 
-Unbeschadet der Aufgaben der Bundespolizei werden der Zollverwaltung die Aufgaben zur Ausübung übertragen.
+Unbeschadet der Aufgaben der Bundespolizei werden der Zollverwaltung die Aufgaben
 
-1.
+1. der polizeilichen Überwachung der Grenzen (§ 2 Abs. 2 Nr. 1 des Bundespolizeigesetzes),
 
-2.
+2. der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs (§ 2 Abs. 2 Nr. 2 des Bundespolizeigesetzes) an den in der Anlage aufgeführten Grenzübergangsstellen sowie außerhalb dieser Grenzübergangsstellen und
 
-3.
+3. der Beseitigung von Störungen und der Abwehr von Gefahren, die die Sicherheit der Grenzen beeinträchtigen (§ 2 Abs. 2 Nr. 3 des Bundespolizeigesetzes)
 
 ### § 2
 
-Unbeschadet der Aufgaben der Bundespolizei werden der Zollverwaltung die Aufgaben zur Ausübung übertragen, soweit sie im Zusammenhang mit der Wahrnehmung der Aufgaben nach § 1 anfallen.
+Unbeschadet der Aufgaben der Bundespolizei werden der Zollverwaltung die Aufgaben
 
-1.
+1. nach § 71 Abs. 3 Nr. 1 bis 1e, mit Ausnahme der Zurückschiebung und Abschiebungen an der Grenze sowie der Rückführung von Ausländern aus und in andere Staaten, nach § 71 Abs. 3 Nr. 2 bis 6 und nach § 71 Abs. 4 des Aufenthaltsgesetzes in der jeweils geltenden Fassung,
 
-2.
+2. nach den §§ 10 und 19 Abs. 1 Satz 2 des Passgesetzes vom 19. April 1986 (BGBl. I S. 537) in der jeweils geltenden Fassung und
 
-3.
+3. nach § 8 Nr. 1 Buchstabe b und Nr. 3 des Freizügigkeitsgesetzes/EU vom 30. Juli 2004 (BGBl. I S. 1950, 1986) in der jeweils geltenden Fassung
 
 ### § 3
 
@@ -53,5 +53,3 @@ Das Bundesministerium des Innern, für Bau und Heimat benennt dem Bundesminister
 Diese Verordnung tritt am 1. Juli 2005 in Kraft.
 
 ### Anlage — (zu § 1)
-
-(Fundstelle des Originaltextes: BGBl. I 2005, 1868 - 1869;

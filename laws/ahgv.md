@@ -16,15 +16,15 @@ Auf Grund des § 6a des Altschuldenhilfe-Gesetzes, der durch Artikel 1 Nr. 3 des
 
 (2) Der Entlastungsbetrag darf nur gewährt werden, wenn
 
-1.
+1. der Leerstand einschließlich der seit dem 1. Januar 1998 abgerissenen Wohnfläche bei Antragstellung mindestens 15 Prozent der eigenen Wohnfläche des Unternehmens umfasst,
 
-2.
+2. der Antragsteller in seiner wirtschaftlichen Existenz infolge der finanziellen Belastungen durch nicht vermietete Wohnfläche gefährdet ist,
 
-3.
+3. die Wohnraumverminderung notwendiger Bestandteil eines tragfähigen Sanierungskonzeptes für den Antragsteller ist, das städtebauliche Aspekte berücksichtigt, an dem sich das Land beteiligt und zu dem das Kreditinstitut einen Finanzierungsbeitrag mindestens in Höhe des Verzichts auf Vorfälligkeitsentschädigung leistet,
 
-4.
+4. die Leerstandsquote, die Existenzgefährdung des Unternehmens und das Sanierungskonzept von einem Wirtschaftsprüfer bestätigt werden und
 
-5.
+5. das Kreditinstitut rechtsverbindlich sein Einverständnis mit der Tilgung der Verbindlichkeit erklärt.
 
 ### § 2 — Berechnung der Entlastung
 

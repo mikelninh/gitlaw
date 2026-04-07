@@ -33,7 +33,9 @@ Die Beihilfe ist vom Einlagerer bei der Bundesanstalt schriftlich zu beantragen.
 
 ### § 6 — Mitwirkungspflichten
 
-(1) Der Einlagerer hat der Bundesanstalt auf Verlangen die Voraussetzungen der Beihilfegewährung nachzuweisen. Die geforderten Nachweise sind durch Vorlage von in übersichtlicher Form geführten Aufzeichnungen über die Geschäftsvorgänge, insbesondere über Einzelheiten des Erwerbs und der Einlagerung der Fischereierzeugnisse sowie über die Angaben des in § 3 genannten Vertrages zu erbringen. Ferner ist über die Bestandsentwicklung eine laufende Aufzeichnung zu führen, aus der sämtliche Mengenveränderungen bis zum Ablauf der jeweiligen Lagerzeit hervorgehen. Bei automatischer Buchführung hat der Beteiligte auf seine Kosten Listen mit den erforderlichen Angaben auszudrucken, soweit es die Bundesanstalt verlangt.(2) Der Beihilfeempfänger ist verpflichtet, die in Absatz 1 vorgeschriebenen Nachweise und sonstigen Unterlagen, die sich auf die Beihilfegewährung beziehen, sieben Jahre nach Gewährung der Beihilfe aufzubewahren, soweit nicht längere Aufbewahrungsfristen nach anderen Vorschriften bestehen.
+(1) Der Einlagerer hat der Bundesanstalt auf Verlangen die Voraussetzungen der Beihilfegewährung nachzuweisen. Die geforderten Nachweise sind durch Vorlage von in übersichtlicher Form geführten Aufzeichnungen über die Geschäftsvorgänge, insbesondere über Einzelheiten des Erwerbs und der Einlagerung der Fischereierzeugnisse sowie über die Angaben des in § 3 genannten Vertrages zu erbringen. Ferner ist über die Bestandsentwicklung eine laufende Aufzeichnung zu führen, aus der sämtliche Mengenveränderungen bis zum Ablauf der jeweiligen Lagerzeit hervorgehen. Bei automatischer Buchführung hat der Beteiligte auf seine Kosten Listen mit den erforderlichen Angaben auszudrucken, soweit es die Bundesanstalt verlangt.
+
+(2) Der Beihilfeempfänger ist verpflichtet, die in Absatz 1 vorgeschriebenen Nachweise und sonstigen Unterlagen, die sich auf die Beihilfegewährung beziehen, sieben Jahre nach Gewährung der Beihilfe aufzubewahren, soweit nicht längere Aufbewahrungsfristen nach anderen Vorschriften bestehen.
 
 ### § 7 — Inkrafttreten
 

@@ -16,45 +16,45 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 d
 
 (2) Durch die Prüfung ist festzustellen, ob die notwendigen Kompetenzen vorhanden sind, um in unterschiedlichen Betriebsformen des Einzelhandels eigenständig und verantwortlich Fach-, Organisations- und Führungsaufgaben im Vertrieb wahrzunehmen und ob betriebswirtschaftliche und personalwirtschaftliche Managementinstrumente eingesetzt werden können. Dabei sollen gesellschaftliche, volkswirtschaftliche und rechtliche Rahmenbedingungen berücksichtigt werden. Dazu zählen insbesondere:
 
-1.
+1. Umsetzen und Fördern von Kunden- und Dienstleistungsorientierung im Vertrieb,
 
-2.
+2. Analysieren und Beurteilen der Auswirkungen einzelhandelsrelevanter Marktentwicklungen auf den Vertrieb,
 
-3.
+3. Erarbeiten und Umsetzen kundenorientierter und wirtschaftlicher Vertriebskonzepte und -lösungen,
 
-4.
+4. Konzipieren, Umsetzen und Auswerten von Marketingkonzepten für unterschiedliche Betriebstypen des Einzelhandels,
 
-5.
+5. Beurteilen, Auswählen und Einsetzen von Instrumenten des visuellen Marketings (Visual Merchandising),
 
-6.
+6. Steuern des Vertriebs mittels Kennzahlen,
 
-7.
+7. Steuern der Bestandsführung und Pflegen des Sortiments,
 
-8.
+8. Kooperieren mit Geschäftspartnern und internen Unternehmensbereichen, Kommunikation kunden- und dienstleistungsorientiert gestalten,
 
-9.
+9. Umsetzen serviceorientierter Konzepte,
 
-10.
+10. Führen von Mitarbeiterinnen und Mitarbeitern und Fördern ihrer beruflichen Entwicklung,
 
-11.
+11. Organisieren und Durchführen der Berufsausbildung,
 
-12.
+12. Umsetzen arbeitsorganisatorischer Veränderungen,
 
-13.
+13. Umsetzen des Qualitätsmanagements im Vertrieb und Fördern von Nachhaltigkeit.
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Geprüfter Fachwirt für Vertrieb im Einzelhandel“ oder „Geprüfte Fachwirtin für Vertrieb im Einzelhandel“.
 
 ### § 2 — Zulassungsvoraussetzungen
 
-(1) Zur ersten schriftlichen Teilprüfung nach § 3 Absatz 2 und 3 ist zuzulassen, wer nachweist.
+(1) Zur ersten schriftlichen Teilprüfung nach § 3 Absatz 2 und 3 ist zuzulassen, wer
 
-1.
+1. eine mit Erfolg abgelegte Abschlussprüfung in einem anerkannten dreijährigen kaufmännischen Ausbildungsberuf im Einzelhandel und danach eine mindestens einjährige Berufspraxis oder
 
-2.
+2. eine mit Erfolg abgelegte Abschlussprüfung zum Verkäufer oder zur Verkäuferin oder in einem anerkannten dreijährigen kaufmännisch-verwaltenden Ausbildungsberuf und danach eine mindestens zweijährige Berufspraxis oder
 
-3.
+3. den Erwerb von mindestens 90 ECTS-Punkten in einem betriebswirtschaftlichen Studium und eine mindestens zweijährige Berufspraxis oder
 
-4.
+4. eine mindestens fünfjährige Berufspraxis
 
 (2) Die Berufspraxis nach Absatz 1 muss in Verkaufstätigkeiten oder anderen kaufmännischen Tätigkeiten im institutionellen oder funktionellen Handel erworben sein und inhaltlich wesentliche Bezüge zu den in § 1 Absatz 2 genannten Aufgaben haben.
 
@@ -70,17 +70,17 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 d
 
 (3) Die erste schriftliche Teilprüfung gliedert sich in die Handlungsbereiche:
 
-1.
+1. Kundenorientierung,
 
-2.
+2. Personalmanagement,
 
-3.
+3. Führung und Kommunikation.
 
 (4) Die zweite schriftliche Teilprüfung gliedert sich in die Handlungsbereiche:
 
-1.
+1. Marketing im Einzelhandel,
 
-2.
+2. Vertriebssteuerung.
 
 (5) Die mündliche Teilprüfung gliedert sich in Präsentation und situationsbezogenes Fachgespräch.
 
@@ -100,85 +100,85 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 d
 
 (1) Im Handlungsbereich „Kundenorientierung“ soll die Fähigkeit nachgewiesen werden, dass Verkaufsprozesse kunden- und erfolgsorientiert gestaltet werden können. In diesem Rahmen kann Folgendes geprüft werden:
 
-1.
+1. Gestalten des Beratungsprozesses und Unterstützen der Mitarbeiter bei der Durchführung von Kundengesprächen,
 
-2.
+2. Durchführen und Auswerten von Kundengesprächen, -befragungen und -foren zur Sicherstellung und Optimierung von Qualitätsstandards,
 
-3.
+3. Entwickeln und Umsetzen von Maßnahmen der Kundenbindung und -gewinnung,
 
-4.
+4. Umsetzen serviceorientierter Konzepte,
 
-5.
+5. Umsetzen des Beschwerdemanagements und Durchführen eines effizienten Qualitätsmanagements.
 
 (2) Im Handlungsbereich „Personalmanagement“ soll die Fähigkeit nachgewiesen werden, dass personalwirtschaftliche Aufgaben im Vertrieb systematisch und entscheidungsorientiert geplant, umgesetzt und analysiert werden können. Dabei sollen unternehmenspolitische Vorgaben und rechtliche Bestimmungen berücksichtigt werden. In diesem Rahmen kann Folgendes geprüft werden:
 
-1.
+1. Durchführen der Personalbedarfs- und Personalkostenplanung,
 
-2.
+2. Anwenden von Konzepten des Personalmarketings, Mitwirken bei der Auswahl und Einstellung von Mitarbeitern und Auszubildenden,
 
-3.
+3. Planen und Durchführen der Berufsausbildung,
 
-4.
+4. Steuern des Personaleinsatzes,
 
-5.
+5. Bewerten und Einsetzen von Maßnahmen der Personalentwicklung und Personalbindung,
 
-6.
+6. Auswerten von Personalkennziffern.
 
 (3) Im Handlungsbereich „Führung und Kommunikation“ soll die Fähigkeit nachgewiesen werden, dass zielorientiert kommuniziert und Mitarbeiter und Mitarbeiterinnen sowie Projektgruppen geführt werden können. Weiter soll in Verhandlungen und in Konfliktfällen lösungsorientiert agiert werden. Dabei sollen situationsangemessene Methoden der Präsentation, Kommunikation und Motivationsförderung unter Berücksichtigung der betrieblichen Rahmenbedingungen eingesetzt werden. In diesem Rahmen kann Folgendes geprüft werden:
 
-1.
+1. Anwenden von Methoden des Zeit- und des Selbstmanagements,
 
-2.
+2. Einsetzen von Führungsinstrumenten und -methoden,
 
-3.
+3. Fördern der beruflichen Entwicklung und Weiterbildung von Mitarbeitern und Mitarbeiterinnen,
 
-4.
+4. Beurteilen von Mitarbeiterentwicklungspotenzialen sowie Vereinbaren von individuellen Entwicklungszielen und -maßnahmen,
 
-5.
+5. Unterstützen und Beurteilen von Lernprozessen der Mitarbeiter und Mitarbeiterinnen,
 
-6.
+6. Fördern der Teamentwicklung,
 
-7.
+7. Planen und Steuern von Arbeits- und Projektgruppen,
 
-8.
+8. Optimieren der Zusammenarbeit mit internen und externen Partnern,
 
-9.
+9. Einsetzen von Instrumenten zur Konfliktlösung,
 
-10.
+10. Nutzen von Moderations- und Präsentationstechniken.
 
 (4) Im Handlungsbereich „Marketing im Einzelhandel“ soll die Fähigkeit nachgewiesen werden, dass Entwicklungen am Standort des Einzelhandelsbetriebes analysiert und Marketingkonzepte gesteuert und organisiert werden können. Zudem soll die Fähigkeit nachgewiesen werden, dass unter Einsatz von Instrumenten des visuellen Marketings Waren präsentiert und Geschäftsräume gestaltet werden können. Die Maßnahmen sollen nachbereitet und bewertet sowie notwendige Veränderungsprozesse eingeleitet werden. In diesem Rahmen kann Folgendes geprüft werden:
 
-1.
+1. Analysieren und Bewerten der Entwicklung von Märkten und Zielgruppen sowie des Wettbewerbs und der Nachfrage,
 
-2.
+2. Ableiten von Marktstrategien unter Berücksichtigung von Kooperationsformen und Zusammenwirken der Marketinginstrumente,
 
-3.
+3. Entwickeln und Umsetzen von Maßnahmen des Standortmarketings,
 
-4.
+4. Optimieren und Pflegen des Sortiments,
 
-5.
+5. Analysieren und Steuern von Verkaufskonzepten, Umsetzen der Preispolitik,
 
-6.
+6. Planen, Umsetzen und Kontrollieren von Werbekonzepten,
 
-7.
+7. Entwickeln und Umsetzen von Konzepten der Verkaufsförderung unter Berücksichtigung von Visual Merchandising,
 
-8.
+8. Kooperieren und Kommunizieren mit internen und externen Partnern des Marketings,
 
-9.
+9. Umsetzen von E-Commerce-Konzepten und Kundenbindungsprogrammen,
 
-10.
+10. Umsetzen standortbezogener Öffentlichkeitsarbeit.
 
 (5) Im Handlungsbereich „Vertriebssteuerung“ soll gezeigt werden, dass Geschäftsprozesse gesteuert und optimiert sowie aus vertriebsbezogenen Statistiken und Kennziffern Schlussfolgerungen für die Weiterentwicklung der Verkaufsprozesse gezogen werden können. Dabei sollen insbesondere wettbewerbsrechtliche Bestimmungen und Auswirkungen volkswirtschaftlicher Entwicklungen sowie des regionalen Strukturwandels beachtet werden. Es sollen Maßnahmen zur Sicherung der Wettbewerbsfähigkeit entwickelt werden. In diesem Rahmen kann Folgendes geprüft werden:
 
-1.
+1. Planen von Umsatz, Erträgen und Kosten unter Berücksichtigung von Markt- und Preisentwicklungen, Vertriebskennziffern und Veränderungen im Kaufverhalten von Kunden sowie in der Kundenstruktur,
 
-2.
+2. Analysieren der warenwirtschaftlichen Daten und der Sortimentsentwicklung, Steuern der Bestände und Ableiten von Maßnahmen,
 
-3.
+3. Steuern und Organisieren der Warenlogistik und betrieblichen Lagerwirtschaft,
 
-4.
+4. Auswerten der Kosten- und Leistungsrechnung und Entwickeln von Verbesserungsvorschlägen,
 
-5.
+5. Einsetzen von betrieblichen Steuerungsinstrumenten zur Qualitätssicherung.
 
 ### § 5 — Befreiung von einzelnen Prüfungsbestandteilen
 
@@ -192,15 +192,11 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (2) Im schriftlichen Prüfungsteil sind die beiden betrieblichen Situationsbeschreibungen nach § 3 Absatz 3 und 4 jeweils einzeln zu bewerten. Aus den beiden Teilleistungen wird als zusammengefasste Bewertung der schriftlichen Prüfung das arithmetische Mittel berechnet.
 
-(3) Im mündlichen Prüfungsteil sind als Prüfungsleistungen jeweils einzeln zu bewerten: Aus den einzelnen Bewertungen des situationsbezogenen Fachgesprächs und der Präsentation wird als zusammengefasste Bewertung der mündlichen Prüfung das gewichtete arithmetische Mittel berechnet. Dabei sind die Bewertungen wie folgt zu gewichten:
+(3) Im mündlichen Prüfungsteil sind als Prüfungsleistungen jeweils einzeln zu bewerten:
 
-1.
+1. die Präsentation nach § 3 Absatz 5, 8 und 9,
 
-2.
-
-1.
-
-2.
+2. das Fachgespräch nach § 3 Absatz 5 und 10.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -210,9 +206,9 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (2) Ist die Prüfung bestanden, sind die folgenden Punktebewertungen jeweils kaufmännisch auf eine ganze Zahl zu runden:
 
-1.
+1. die zusammengefasste Bewertung der schriftlichen Prüfung,
 
-2.
+2. die zusammengefasste Bewertung der mündlichen Prüfung.
 
 (3) Den Bewertungen für die Prüfungsteile „schriftliche Prüfung“ und „mündliche Prüfung“ ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
 
@@ -228,9 +224,9 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur Information (Bemerkungen) enthalten, insbesondere
 
-1.
+1. über den erworbenen Abschluss oder
 
-2.
+2. auf Antrag der geprüften Person über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -266,42 +262,32 @@ Diese Verordnung tritt am 1. Januar 2015 in Kraft. Gleichzeitig tritt die Verord
 
 ### Anlage 2 — (zu § 8)
 
-Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
 
-1.
+2. Name und Geburtsdatum der geprüften Person,
 
-2.
+3. Datum des Bestehens der Prüfung,
 
-3.
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
 
-4.
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
 
-5.
-
-6.
-
-Teil B – Zeugnis mit Prüfungsergebnissen:
+6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
 
 Alle Angaben des Teils A sowie zusätzlich:
 
-1.
+1. zum Prüfungsteil „schriftliche Prüfung“ a)Benennung der Handlungsbereiche in der ersten und zweiten Teilprüfung,b)die zusammengefasste Bewertung dieses Prüfungsteils mit Punkten und Note,c)Bewertung der beiden betrieblichen Situationsaufgaben jeweils mit Punkten, Benennung der Handlungsbereiche in der ersten und zweiten Teilprüfung, die zusammengefasste Bewertung dieses Prüfungsteils mit Punkten und Note, Bewertung der beiden betrieblichen Situationsaufgaben jeweils mit Punkten,
 
-a)
+2. zum Prüfungsteil „mündliche Prüfung“ die zusammengefasste Bewertung dieses Prüfungsteils mit Punkten und Note,
 
-b)
+3. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
 
-c)
+4. die Gesamtnote als Dezimalzahl,
 
-2.
+5. die Gesamtnote in Worten,
 
-3.
+6. Befreiungen nach § 5,
 
-4.
-
-5.
-
-6.
-
-7.
+7. Bescheinigung der Befreiung vom schriftlichen Teil der Prüfung nach der Ausbilder-Eignungsverordnung nach § 10.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)

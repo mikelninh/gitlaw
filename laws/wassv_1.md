@@ -22,9 +22,6 @@ Trinkwasser
 
 (3) Für Betriebe und Anstalten, deren Weiterarbeit nach der Zivilverteidigungsplanung unerläßlich ist, wird der Bedarf nach Art und Umfang der Leistungen, die der Betrieb oder die Anstalt im Verteidigungsfall zu erbringen hat, errechnet.
 
-(4) Für die Haltung von Nutztieren sind in der Regel 40 l je Großvieheinheit und Tag zugrunde zu legen. Als Großvieheinheit im Sinne dieser Verordnung gelten: 
-	 sowie die entsprechende Anzahl anderer Nutztiere mit einem Gesamtlebendgewicht von 500 kg.
-
 ### § 3 — Beschaffenheit des Trinkwassers
 
 (1) Trinkwasser aus Anlagen, die nach der Zivilverteidigungsplanung im Verteidigungsfall der Deckung des lebensnotwendigen Bedarfs an Trinkwasser dienen, muß so beschaffen sein, daß durch seinen Genuß oder Gebrauch die Gesundheit der Menschen sowie der Nutztiere durch Krankheitserreger nicht geschädigt werden kann. Es muß weiterhin frei sein von anderen Stoffen in gesundheitsschädlicher Konzentration.
@@ -45,8 +42,6 @@ Der unentbehrliche Bedarf an Betriebswasser für Betriebe und Anstalten, deren W
 ### § 6 — Bemessung des Bedarfs an Löschwasser
 
 (1) Der Bedarf an Löschwasser ist in der Regel auf einen Zeitraum von 5 Stunden zu bemessen; er richtet sich nach der Art und dem Maß der baulichen Nutzung im Sinne der Baunutzungsverordnung vom 26. Juli 1962 in der Fassung der Bekanntmachung vom 26. November 1968 (Bundesgesetzbl. I S. 1237). Art und Maß der baulichen Nutzung sind unter Berücksichtigung der Festsetzungen in den Bauleitplänen nach der vorhandenen Bebauung zu bestimmen.
-
-(2) Für je einen Hektar bebauten Gebietes ist als Bedarf zugrunde zu legen:
 
 ### § 7 — Inkrafttreten
 

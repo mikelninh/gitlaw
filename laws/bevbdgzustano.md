@@ -13,15 +13,9 @@ Nach § 34 Absatz 5, § 42 Absatz 1 Satz 2 und § 84 Satz 2 des Bundesdisziplina
 
 Den Leiterinnen und Leitern der Dienststellen des Bundeseisenbahnvermögens werden für den jeweiligen Geschäftsbereich übertragen:
 
-1.
+1. gegenüber Beamtinnen und Beamten: a)die Befugnis, Kürzungen der Dienstbezüge bis zum Höchstmaß festzusetzen,b)die Befugnis, die Zurückstufung oder die Entfernung aus dem Beamtenverhältnis auszusprechen, undc)die Zuständigkeit für den Erlass des Widerspruchsbescheids, die Befugnis, Kürzungen der Dienstbezüge bis zum Höchstmaß festzusetzen, die Befugnis, die Zurückstufung oder die Entfernung aus dem Beamtenverhältnis auszusprechen, und die Zuständigkeit für den Erlass des Widerspruchsbescheids,
 
-a)
-
-b)
-
-c)
-
-2.
+2. die Disziplinarbefugnisse gegenüber Ruhestandsbeamtinnen und Ruhestandsbeamten.
 
 ### § 2 — Vorbehaltsklausel
 

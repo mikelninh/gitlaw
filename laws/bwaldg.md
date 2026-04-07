@@ -12,11 +12,11 @@
 
 Zweck dieses Gesetzes ist insbesondere,
 
-1.
+1. den Wald wegen seines wirtschaftlichen Nutzens (Nutzfunktion) und wegen seiner Bedeutung für die Umwelt, insbesondere für die dauernde Leistungsfähigkeit des Naturhaushaltes, das Klima, den Wasserhaushalt, die Reinhaltung der Luft, die Bodenfruchtbarkeit, das Landschaftsbild, die Agrar- und Infrastruktur und die Erholung der Bevölkerung (Schutz- und Erholungsfunktion) zu erhalten, erforderlichenfalls zu mehren und seine ordnungsgemäße Bewirtschaftung nachhaltig zu sichern,
 
-2.
+2. die Forstwirtschaft zu fördern und
 
-3.
+3. einen Ausgleich zwischen dem Interesse der Allgemeinheit und den Belangen der Waldbesitzer herbeizuführen.
 
 ### § 2 — Wald
 
@@ -24,19 +24,15 @@ Zweck dieses Gesetzes ist insbesondere,
 
 (2) Kein Wald im Sinne dieses Gesetzes sind
 
-1.
+1. Grundflächen auf denen Baumarten mit dem Ziel baldiger Holzentnahme angepflanzt werden und deren Bestände eine Umtriebszeit von nicht länger als 20 Jahren haben (Kurzumtriebsplantagen),
 
-2.
+2. Flächen mit Baumbestand, die gleichzeitig dem Anbau landwirtschaftlicher Produkte dienen (agroforstliche Nutzung),
 
-3.
+3. mit Forstpflanzen bestockte Flächen, die am 6. August 2010 in dem in § 3 Satz 1 der InVeKoS-Verordnung vom 3. Dezember 2004 (BGBl. I S. 3194), die zuletzt durch Artikel 2 der Verordnung vom 7. Mai 2010 (eBAnz AT51 2010 V1) geändert worden ist, bezeichneten Flächenidentifizierungssystem als landwirtschaftliche Flächen erfasst sind, solange deren landwirtschaftliche Nutzung andauert,
 
-4.
+4. in der Flur oder im bebauten Gebiet gelegene kleinere Flächen, die mit einzelnen Baumgruppen, Baumreihen oder mit Hecken bestockt sind oder als Baumschulen verwendet werden, und
 
-5.
-
-a)
-
-b)
+5. mit Forstpflanzen bestockte Grundflächen a)auf Schienenwegen, auch auf solchen in Serviceeinrichtungen, sowieb)beidseits der Schienenwege in einer Breite von 6,80 Meter, gemessen von der Gleismitte des außen liegenden Gleises, oder, wenn die Schienenwege im Bereich von Böschungen oder Einschnitten liegen, bei denen die Böschungsschulter oder der Böschungsfuß weiter als 6,80 Meter von der Gleismitte aus liegt, in einer Breite von der Gleismitte bis zum Böschungsfuß oder zur Böschungsschulter. auf Schienenwegen, auch auf solchen in Serviceeinrichtungen, sowie beidseits der Schienenwege in einer Breite von 6,80 Meter, gemessen von der Gleismitte des außen liegenden Gleises, oder, wenn die Schienenwege im Bereich von Böschungen oder Einschnitten liegen, bei denen die Böschungsschulter oder der Böschungsfuß weiter als 6,80 Meter von der Gleismitte aus liegt, in einer Breite von der Gleismitte bis zum Böschungsfuß oder zur Böschungsschulter.
 
 (3) Die Länder können andere Grundflächen dem Wald zurechnen und Weihnachtsbaum- und Schmuckreisigkulturen sowie zum Wohnbereich gehörende Parkanlagen vom Waldbegriff ausnehmen.
 
@@ -69,9 +65,9 @@ Trägern öffentlicher Vorhaben
 
 Die Träger öffentlicher Vorhaben haben bei Planungen und Maßnahmen, die eine Inanspruchnahme von Waldflächen vorsehen oder die in ihren Auswirkungen Waldflächen betreffen können,
 
-1.
+1. die Funktionen des Waldes nach § 1 Nr. 1 angemessen zu berücksichtigen;
 
-2.
+2. die für die Forstwirtschaft zuständigen Behörden bereits bei der Vorbereitung der Planungen und Maßnahmen zu unterrichten und anzuhören, soweit nicht nach diesem Gesetz und sonstigen Vorschriften eine andere Form der Beteiligung vorgeschrieben ist.
 
 ## Abschnitt II: Erhaltung und Bewirtschaftung
 des Waldes, Erstaufforstung
@@ -84,9 +80,9 @@ des Waldes, Erstaufforstung
 
 (3) Die Länder können bestimmen, daß die Umwandlung
 
-1.
+1. keiner Genehmigung nach Absatz 1 bedarf, wenn für die Waldfläche auf Grund anderer öffentlich-rechtlicher Vorschriften rechtsverbindlich eine andere Nutzungsart festgestellt worden ist;
 
-2.
+2. weiteren Einschränkungen unterworfen oder, insbesondere bei Schutz- und Erholungswald, untersagt wird.
 
 ### § 10 — Erstaufforstung
 
@@ -94,23 +90,23 @@ des Waldes, Erstaufforstung
 
 (2) Die Länder können bestimmen, daß die Erstaufforstung
 
-1.
+1. keiner Genehmigung bedarf, wenn für eine Fläche auf Grund anderer öffentlich-rechtlicher Vorschriften die Aufforstung rechtsverbindlich festgesetzt worden ist oder Erfordernisse der Raumordnung und Landesplanung nicht berührt werden;
 
-2.
+2. weiteren Einschränkungen unterworfen oder auch untersagt wird.
 
 ### § 11 — Bewirtschaftung des Waldes
 
-(1) Der Wald soll im Rahmen seiner Zweckbestimmung ordnungsgemäß und nachhaltig bewirtschaftet werden. Durch Landesgesetz ist mindestens die Verpflichtung für alle Waldbesitzer zu regeln, kahlgeschlagene Waldflächen oder verlichtete Waldbestände in angemessener Frist falls nicht die Umwandlung in eine andere Nutzungsart genehmigt worden oder sonst zulässig ist.
+(1) Der Wald soll im Rahmen seiner Zweckbestimmung ordnungsgemäß und nachhaltig bewirtschaftet werden. Durch Landesgesetz ist mindestens die Verpflichtung für alle Waldbesitzer zu regeln, kahlgeschlagene Waldflächen oder verlichtete Waldbestände in angemessener Frist
 
-1.
+1. wieder aufzuforsten oder
 
-2.
+2. zu ergänzen, soweit die natürliche Wiederbestockung unvollständig bleibt,
 
-(2) Bei der Bewirtschaftung sollen angemessen berücksichtigt werden.
+(2) Bei der Bewirtschaftung sollen
 
-1.
+1. die Funktion des Waldes als Archiv der Natur- und Kulturgeschichte sowie
 
-2.
+2. im Falle von Parkanlagen, Gartenanlagen und Friedhofsanlagen die denkmalpflegerischen Belange
 
 ### § 12 — Schutzwald
 
@@ -128,13 +124,13 @@ des Waldes, Erstaufforstung
 
 (2) Das Nähere regeln die Länder. Sie können insbesondere Vorschriften erlassen über
 
-1.
+1. die Bewirtschaftung des Waldes nach Art und Umfang;
 
-2.
+2. die Beschränkung der Jagdausübung zum Schutz der Waldbesucher;
 
-3.
+3. die Verpflichtung der Waldbesitzer, den Bau, die Errichtung und die Unterhaltung von Wegen, Bänken, Schutzhütten und ähnlichen Anlagen oder Einrichtungen und die Beseitigung von störenden Anlagen oder Einrichtungen zu dulden;
 
-4.
+4. das Verhalten der Waldbesucher.
 
 ### § 14 — Betreten des Waldes
 
@@ -158,49 +154,35 @@ Forstbetriebsgemeinschaften sind privatrechtliche Zusammenschlüsse von Grundbes
 
 Die Forstbetriebsgemeinschaft muß mindestens eine der folgenden Maßnahmen zur Aufgabe haben:
 
-1.
+1. Abstimmung der Betriebspläne oder Betriebsgutachten und der Wirtschaftspläne sowie der einzelnen forstlichen Vorhaben;
 
-2.
+2. Abstimmung der für die forstwirtschaftliche Erzeugung wesentlichen Vorhaben und Absatz des Holzes oder sonstiger Forstprodukte;
 
-3.
+3. Ausführung der Forstkulturen, Bodenverbesserungen und Bestandspflegearbeiten einschließlich des Forstschutzes;
 
-4.
+4. Bau und Unterhaltung von Wegen;
 
-5.
+5. Durchführung des Holzeinschlags, der Holzaufarbeitung und der Holzbringung;
 
-6.
+6. Beschaffung und Einsatz von Maschinen und Geräten für mehrere der unter den Nummern 2 bis 5 zusammengefaßten Maßnahmen.
 
 ### § 18 — Anerkennung
 
 (1) Eine Forstbetriebsgemeinschaft wird von der nach Landesrecht zuständigen Behörde auf Antrag anerkannt, wenn sie folgende Voraussetzungen erfüllt:
 
-1.
+1. Sie muß eine juristische Person des Privatrechts sein;
 
-2.
+2. sie muß nach Größe, Lage und Zusammenhang aller angeschlossenen Grundstücke eine wesentliche Verbesserung der Bewirtschaftung ermöglichen;
 
-3.
+3. die Satzung oder der Gesellschaftsvertrag muß Bestimmungen enthalten übera)die Aufgabe; b)die Finanzierung der Aufgabe; c)das Recht und die Pflicht der Forstbetriebsgemeinschaft, über die Erfüllung der Aufgabe zu wachen; d)Ordnungsmittel oder Vertragsstrafen bei schuldhaftem Verstoß gegen wesentliche Mitgliedschaftspflichten; e)die Verpflichtung der Mitglieder, das zur Veräußerung bestimmte Holz ganz oder teilweise durch die Forstbetriebsgemeinschaft zum Verkauf anbieten zu lassen, sofern sie den Absatz des Holzes zur Aufgabe hat. die Aufgabe; die Finanzierung der Aufgabe; das Recht und die Pflicht der Forstbetriebsgemeinschaft, über die Erfüllung der Aufgabe zu wachen; Ordnungsmittel oder Vertragsstrafen bei schuldhaftem Verstoß gegen wesentliche Mitgliedschaftspflichten; die Verpflichtung der Mitglieder, das zur Veräußerung bestimmte Holz ganz oder teilweise durch die Forstbetriebsgemeinschaft zum Verkauf anbieten zu lassen, sofern sie den Absatz des Holzes zur Aufgabe hat.
 
-a)
+4. Wird die Rechtsform der Genossenschaft oder des rechtsfähigen Vereins mit wirtschaftlichem Geschäftsbetrieb gewählt, so muß die Satzung ferner bestimmen:a)die Voraussetzungen für Erwerb und Verlust der Mitgliedschaft, wobei die Mitgliedschaft frühestens zum Schluß des dritten vollen Geschäftsjahres gekündigt werden kann und die Kündigungsfrist mindestens ein Jahr betragen muß; b)die Organe, ihre Aufgaben und die Art der Beschlußfassung. Dabei muß bestimmt sein, daß Beschlüsse über Art und Umfang der durchzuführenden forstlichen Maßnahmen sowie über gemeinsame Verkaufsregeln, soweit nicht die Beschlußfassung darüber nach der Satzung dem Vorstand zusteht, durch die General- oder Mitgliederversammlung zu fassen sind und einer Mehrheit von zwei Dritteln der Stimmen bedürfen; die Voraussetzungen für Erwerb und Verlust der Mitgliedschaft, wobei die Mitgliedschaft frühestens zum Schluß des dritten vollen Geschäftsjahres gekündigt werden kann und die Kündigungsfrist mindestens ein Jahr betragen muß; die Organe, ihre Aufgaben und die Art der Beschlußfassung. Dabei muß bestimmt sein, daß Beschlüsse über Art und Umfang der durchzuführenden forstlichen Maßnahmen sowie über gemeinsame Verkaufsregeln, soweit nicht die Beschlußfassung darüber nach der Satzung dem Vorstand zusteht, durch die General- oder Mitgliederversammlung zu fassen sind und einer Mehrheit von zwei Dritteln der Stimmen bedürfen;
 
-b)
+5. wird die Rechtsform einer Kapitalgesellschaft gewählt, so muß gewährleistet sein, daß die Gesellschafter die Aufgabe mindestens drei volle Geschäftsjahre lang gemeinsam verfolgen;
 
-c)
+6. sie muß mindestens sieben Mitglieder umfassen;
 
-d)
-
-e)
-
-4.
-
-a)
-
-b)
-
-5.
-
-6.
-
-7.
+7. sie muß einen wesentlichen Wettbewerb auf dem Holzmarkt bestehen lassen.
 
 (2) Die Verpflichtung nach Absatz 1 Nr. 3 Buchstabe e gilt nicht für die Holzmenge, für die Mitglieder vor ihrem Beitritt Kaufverträge abgeschlossen haben; sie haben die Forstbetriebsgemeinschaft über Umfang und Dauer dieser Verträge vor dem Beitritt zu unterrichten.
 
@@ -228,13 +210,13 @@ Die nach Landesrecht zuständige Behörde kann die Anerkennung widerrufen, wenn 
 
 (2) Weitere Voraussetzungen sind, daß
 
-1.
+1. der Zusammenschluß nach Größe, Lage und Zusammenhang der in Betracht kommenden Grundstücke eine wesentliche Verbesserung der Bewirtschaftung ermöglicht;
 
-2.
+2. der Zusammenschluß einen wesentlichen Wettbewerb auf dem Holzmarkt bestehen läßt;
 
-3.
+3. mindestens zwei Drittel der Grundstückseigentümer, die zugleich mindestens zwei Drittel der Fläche vertreten, der Bildung zustimmen;
 
-4.
+4. eine an alle betroffenen Grundstückseigentümer gerichtete Aufforderung der nach Landesrecht zuständigen Behörde, eine Forstbetriebsgemeinschaft (Abschnitt II) zu gründen, ohne Erfolg geblieben ist.
 
 (3) Bei der Aufforderung nach Absatz 2 Nr. 4 hat die Behörde eine Frist zu setzen. Die Frist soll in der Regel ein Jahr betragen und darf zwei Jahre nicht überschreiten.
 
@@ -262,21 +244,21 @@ Die nach Landesrecht zuständige Behörde kann die Anerkennung widerrufen, wenn 
 
 (2) Die Satzung des Forstbetriebsverbands muß Vorschriften enthalten über:
 
-1.
+1. seinen Namen und seinen Sitz;
 
-2.
+2. seine Aufgabe;
 
-3.
+3. die Rechte und Pflichten der Mitglieder;
 
-4.
+4. das Stimmrecht der Mitglieder;
 
-5.
+5. seine Verfassung, seine Verwaltung und seine Vertretung;
 
-6.
+6. den Maßstab für die Umlagen und die Bemessungsgrundlage für Beiträge;
 
-7.
+7. das Haushaltswesen, die Wirtschafts- und Kassenführung sowie die Rechnungsführung;
 
-8.
+8. die Verwendung des Vermögens bei Auflösung des Forstbetriebsverbands.
 
 (3) Die Vorschriften des § 18 Abs. 1 Nr. 3 Buchstabe e und Absatz 2 gelten entsprechend.
 
@@ -288,19 +270,19 @@ Organe des Forstbetriebsverbandes sind die Verbandsversammlung, der Vorstand und
 
 Die Verbandsversammlung wählt den Vorstand und dessen Vorsitzenden. Sie beschließt über
 
-1.
+1. die Höhe der Umlagen und Beiträge;
 
-2.
+2. den Haushaltsplan, die Jahresrechnung und die Verwendung von Erträgen;
 
-3.
+3. die Entlastung des Vorstands;
 
-4.
+4. die Änderung der Satzung;
 
-5.
+5. den Erwerb, die Veräußerung und die Belastung von Grundstücken durch den Forstbetriebsverband;
 
-6.
+6. die Auflösung des Forstbetriebsverbands;
 
-7.
+7. die ihr in der Satzung zugewiesenen Angelegenheiten.
 
 ### § 28 — Vorsitz in der Verbandsversammlung, Einberufung und
 Stimmenverhältnis
@@ -343,9 +325,9 @@ In der Satzung kann bestimmt werden, daß ein Verbandsausschuß gebildet wird. D
 
 (1) Der Forstbetriebsverband unterliegt der Aufsicht der nach Landesrecht zuständigen Behörde. Er bedarf der Genehmigung der Aufsichtsbehörde
 
-1.
+1. zur Veräußerung und Belastung von Grundstücken und grundstücksgleichen Rechten;
 
-2.
+2. zur Aufnahme von Darlehen und zur Übernahme von Bürgschaften.
 
 (2) Im übrigen bestimmt sich die Aufsicht über den Forstbetriebsverband nach Landesrecht. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die Befugnisse der Aufsichtsbehörde im einzelnen zu regeln; sie können diese Ermächtigungen auf oberste Landesbehörden übertragen.
 
@@ -363,35 +345,29 @@ Der Forstbetriebsverband führt ein Verzeichnis der beteiligten Grundstücke, de
 
 ### § 37 — Begriff und Aufgabe
 
-(1) Forstwirtschaftliche Vereinigungen sind privatrechtliche Zusammenschlüsse von anerkannten Forstbetriebsgemeinschaften, Forstbetriebsverbänden oder nach Landesrecht gebildeten Waldwirtschaftsgenossenschaften oder ähnlichen Zusammenschlüssen einschließlich der Gemeinschaftsforsten zu dem ausschließlichen Zweck, auf die Anpassung der forstwirtschaftlichen Erzeugung und des Absatzes von Forsterzeugnissen an die Erfordernisse des Marktes hinzuwirken.
-
 (2) Forstwirtschaftliche Vereinigungen dürfen nur folgende Maßnahmen zur Aufgabe haben:
 
-1.
+1. Unterrichtung und Beratung der Mitglieder sowie Beteiligung an der forstlichen Rahmenplanung;
 
-2.
+2. Koordinierung des Absatzes;
 
-3.
+3. marktgerechte Aufbereitung und Lagerung der Erzeugnisse;
 
-4.
+4. Vermarktung der Erzeugnisse der Mitglieder;
 
-5.
+5. Beschaffung und Einsatz von Maschinen und Geräten.
 
 ### § 38 — Anerkennung
 
 (1) Eine Forstwirtschaftliche Vereinigung wird durch die nach Landesrecht zuständige Behörde auf Antrag anerkannt, wenn sie folgende Voraussetzungen erfüllt:
 
-1.
+1. Sie muß eine juristische Person des Privatrechts sein;
 
-2.
+2. sie muß geeignet sein, auf die Anpassung der forstwirtschaftlichen Erzeugung und des Absatzes von Forsterzeugnissen nachhaltig hinzuwirken;
 
-3.
+3. ihre Satzung oder ihr Gesellschaftsvertrag muß Bestimmungen enthalten übera)ihre Aufgabe; b)die Finanzierung der Aufgabe; ihre Aufgabe; die Finanzierung der Aufgabe;
 
-a)
-
-b)
-
-4.
+4. sie muß einen wesentlichen Wettbewerb auf dem Holzmarkt bestehen lassen.
 
 (2) Die nach Landesrecht zuständige Behörde kann den Beitritt einzelner Grundbesitzer, die nicht Mitglied einer Forstbetriebsgemeinschaft oder eines Forstbetriebsverbands sein können, zu der Forstwirtschaftlichen Vereinigung zulassen.
 
@@ -434,9 +410,9 @@ Auskunftspflicht
 
 (5) Staatliche Zuwendungen auf Grund des in Absatz 4 genannten Gesetzes können erhalten:
 
-1.
+1. forstwirtschaftliche Zusammenschlüsse im Sinne dieses Gesetzes und nach § 39 gleichgestellte sonstige Zusammenschlüsse in der Forstwirtschaft sowie die nach Landesrecht gebildeten öffentlich-rechtlichen Waldwirtschaftsgenossenschaften und ähnliche Zusammenschlüsse einschließlich der Gemeinschaftsforsten, sofern ihre Aufgabe sich auf die Verbesserung der forstwirtschaftlichen Erzeugung oder die Förderung des Absatzes von Forsterzeugnissen erstreckt und sie einen wesentlichen Wettbewerb auf dem Holzmarkt bestehen lassen;
 
-2.
+2. Inhaber land- oder forstwirtschaftlicher Betriebe oder Grundbesitzer, soweit ihre forstlichen Vorhaben nicht über forstwirtschaftliche Zusammenschlüsse gefördert werden.
 
 ### § 41a — Walderhebungen
 
@@ -450,13 +426,13 @@ Auskunftspflicht
 
 (5) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften über das für die Bundeswaldinventur anzuwendende Stichprobenverfahren und die zu ermittelnden Grunddaten zu erlassen.
 
-(6) Das Bundesministerium für Ernährung und Landwirtschaft kann durch Rechtsverordnung mit Zustimmung des Bundesrates vorsehen, dass Daten erhoben werden können und dabei nähere Vorschriften über den Zeitpunkt, die anzuwendenden Verfahren und die zu ermittelnden Grunddaten erlassen. Im Falle einer Rechtsverordnung nach Satz 1 gilt Absatz 2 entsprechend.
+(6) Das Bundesministerium für Ernährung und Landwirtschaft kann durch Rechtsverordnung mit Zustimmung des Bundesrates vorsehen, dass Daten
 
-1.
+1. zur Nährstoffversorgung und Schadstoffbelastung der Waldböden (Bodenzustandserhebung),
 
-2.
+2. zur Vitalität der Wälder,
 
-3.
+3. zu Wirkungszusammenhängen in Waldökosystemen
 
 ### § 42 — Auskunftspflicht
 
@@ -478,13 +454,13 @@ Das Bundesministerium für Ernährung und Landwirtschaft erläßt mit Zustimmung
 
 ### § 45 — Anwendung des Gesetzes in besonderen Fällen
 
-(1) Auf Flächen, die Zwecken dienen, sind die nach den §§ 6, 7 und 9 bis 13 dieses Gesetzes erlassenen Landesvorschriften nur anzuwenden, soweit dadurch die bestimmungsgemäße Nutzung nicht beeinträchtigt wird.
+(1) Auf Flächen, die Zwecken
 
-1.
+1. der Verteidigung einschließlich des Schutzes der Zivilbevölkerung,
 
-2.
+2. der Bundespolizei oder
 
-3.
+3. des zivilen Luftverkehrs
 
 (2) Soll bei Vorhaben, die den in Absatz 1 Nr. 1 und 2 genannten Zwecken dienen, Wald in eine andere Nutzungsart umgewandelt werden (§ 9), eine Fläche erstmals aufgeforstet (§ 10), Schutzwald (§ 12) oder Erholungswald (§ 13) für die in Absatz 1 Nr. 1 und 2 genannten Zwecke verwendet werden, so ist die höhere Forstbehörde zu hören. Ist es erforderlich, von der Stellungnahme dieser Behörde abzuweichen, so entscheidet hierüber das zuständige Bundesministerium im Einvernehmen mit den beteiligten Bundesministerien und im Benehmen mit der nach Landesrecht zuständigen obersten Landesbehörde. Findet ein Anhörungsverfahren nach § 1 Landbeschaffungsgesetz, § 1 Schutzbereichsgesetz oder § 30 Abs. 3 Luftverkehrsgesetz statt, so sind die forstlichen Erfordernisse in diesem Verfahren abschließend zu erörtern.
 
@@ -510,12 +486,12 @@ Das Bundesministerium für Ernährung und Landwirtschaft erläßt mit Zustimmung
 
 (2) Gleichzeitig treten folgende Vorschriften außer Kraft:
 
-1.
+1. das Gesetz über forstwirtschaftliche Zusammenschlüsse vom 1. September 1969 (Bundesgesetzblatt I S. 1543), zuletzt geändert durch das Einführungsgesetz zum Strafgesetzbuch vom 2. März 1974 (Bundesgesetzbl. I S. 469);
 
-2.
+2. die Verordnung zur Förderung der Forst- und der Weidewirtschaft vom 7. Februar 1924 (Reichsgesetzbl. I S. 50);
 
-3.
+3. das Gesetz gegen Waldverwüstung vom 18. Januar 1934 (Reichsgesetzbl. I S. 37), geändert durch das Einführungsgesetz zum Gesetz über Ordnungswidrigkeiten vom 24. Mai 1968 (Bundesgesetzbl. I S. 503);
 
-4.
+4. die Verordnung zur Verhütung und Bekämpfung von Waldbränden in den nicht im Eigentum des Reichs oder der Länder stehenden Waldungen vom 18. Juni 1937 (Reichsgesetzbl. I S. 721);
 
-5.
+5. die Verordnung zur Förderung der Nutzholzgewinnung vom 30. Juli 1937 (Reichsgesetzbl. I S. 876).

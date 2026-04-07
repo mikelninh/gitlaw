@@ -20,17 +20,17 @@ Dem in Berlin am 31. August 1990 unterzeichneten Vertrag zwischen der Bundesrepu
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die erforderlichen Anpassungen der von Artikel 11 des Einigungsvertrages erfaßten Verträge und Vereinbarungen der Bundesrepublik Deutschland im Bereich der sozialen Sicherheit (gesetzliche Kranken-, Unfall- und Rentenversicherung, Arbeitsförderung sowie Familienleistungen) in Kraft zu setzen sowie die hierfür erforderlichen Ausführungsvorschriften zu erlassen. Dabei können insbesondere Regelungen getroffen werden über
 
-1.
+1. die Zuständigkeit der Versicherungsträger oder anderer Stellen,
 
-2.
+2. das Verwaltungsverfahren,
 
-3.
+3. die Erstattung von Krankheitskosten, wenn die Leistungen auf eigene Rechnung in Anspruch genommen werden,
 
-4.
+4. die gegenseitige Umrechnung von Versicherungszeiten nach den Rechtsvorschriften der Vertragsstaaten,
 
-5.
+5. den Ausgleich außergewöhnlicher finanzieller Belastungen eines Trägers der gesetzlichen Krankenversicherung aus der Durchführung eines Abkommens unter den Trägern sowie
 
-6.
+6. die Umlage der Aufwendungen für die Erbringung von Leistungen der gesetzlichen Kranken- oder Unfallversicherung auf die Träger der Kranken- oder Unfallversicherung.
 
 (2) Die Rechtsverordnung bedarf der Zustimmung des Bundesrates, soweit darin Regelungen getroffen werden, die bei einem Gesetz die Zustimmungsbedürftigkeit begründen würden.
 
@@ -38,19 +38,19 @@ Dem in Berlin am 31. August 1990 unterzeichneten Vertrag zwischen der Bundesrepu
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung vorübergehend die weitere Anwendung der von Artikel 12 des Einigungsvertrages erfaßten völkerrechtlichen Verträge der Deutschen Demokratischen Republik im Bereich der sozialen Sicherheit (gesetzliche Kranken-, Unfall- und Rentenversicherung, Arbeitsförderung sowie Familienleistungen) in dem in Artikel 3 des Einigungsvertrages genannten Gebiet zu regeln, bis das vereinte Deutschland seine Haltung zum Übergang dieser Verträge festgelegt hat. Zur Durchführung können insbesondere Regelungen getroffen werden über
 
-1.
+1. die Zuständigkeit der Versicherungsträger oder anderer Stellen,
 
-2.
+2. das Verwaltungsverfahren,
 
-3.
+3. den Ausgleich außergewöhnlicher finanzieller Belastungen eines Trägers der gesetzlichen Krankenversicherung aus der Durchführung eines Vertrages unter den Trägern,
 
-4.
+4. die Umlage von Aufwendungen für die Erbringung von Leistungen der gesetzlichen Kranken- oder Unfallversicherung auf die Träger der Kranken- oder Unfallversicherung,
 
-5.
+5. die Erstattung von Krankheitskosten, wenn die Leistungen auf eigene Rechnung in Anspruch genommen werden,
 
-6.
+6. die Verrechnung der aufgrund der Verträge erbrachten Leistungen der Versicherungsträger oder anderer Stellen der Vertragsstaaten,
 
-7.
+7. die gegenseitige Umrechnung von Versicherungszeiten nach den Rechtsvorschriften der Vertragsstaaten.
 
 (2) Die Rechtsverordnung bedarf der Zustimmung des Bundesrates, soweit darin Regelungen getroffen werden, die bei einem Gesetz die Zustimmungsbedürftigkeit begründen würden.
 
@@ -79,6 +79,18 @@ Gesetze
 Der jeweils zuständige Bundesminister kann den Wortlaut eines durch den Vertrag geänderten Gesetzes in der am Tage nach der Verkündung dieses Gesetzes oder der am Tage des Inkrafttretens der Änderung geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 
 ### Art 8
+
+1. § 1 Satz 1 wird wie folgt gefaßt: "Über den Warenwert zwischen dem in Artikel 3 des Einigungsvertrages genannten Gebiet und dem anderen Teil des Bundesgebietes wird eine Bundesstatistik durchgeführt."
+
+2. § 2 wird wie folgt gefaßt: "Die Statistik erfaßt die Waren, die aus dem Teil des Bundesgebietes, in dem das Grundgesetz bereits vor dem Wirksamwerden des Beitritts galt, in das in Artikel 3 des Einigungsvertrages genannte Gebiet sowie die Waren, die aus dem in Artikel 3 des Einigungsvertrages genannten Gebiet in den anderen Teil des Bundesgebietes verbracht werden."
+
+3. In § 2a treten an die Stelle der Worte "mit der Deutschen Demokratischen Republik einschl. Berlin (Ost)" die Worte "mit dem in Artikel 3 des Einigungsvertrages genannten Gebiet".
+
+4. Nach § 2c wird folgender § 2d eingefügt:"§ 2d "§ 2d "§ 2d "§ 2d "§ 2d Die Finanzbehörden übermitteln dem Statistischen Bundesamt für die Durchführung der Statistik auf Anforderung Name und Anschrift der Unternehmen und Betriebe, die Waren in das in Artikel 3 des Einigungsvertrages genannte Gebiet liefern oder aus diesem Gebiet beziehen, solange und soweit solche Anschriften bei der Durchführung der Steuergesetze anfallen."
+
+5. In § 3 werden die Worte "die Deutsche Demokratische Republik einschl. Berlin (Ost)" und "der Deutschen Demokratischen Republik einschl. Berlin (Ost)" durch die Worte "das in Artikel 3 des Einigungsvertrages genannte Gebiet" und "dem in Artikel 3 des Einigungsvertrages genannte Gebiet" ersetzt.
+
+6. § 5 wird wie folgt gefaßt: "Dieses Gesetz tritt zum 31. Dezember 1995 außer Kraft."
 
 > Art. 8 Kursivdruck: Änderungsvorschrift
 

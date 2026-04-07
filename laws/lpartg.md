@@ -10,7 +10,11 @@
 
 ### § 1 — Lebenspartnerschaft
 
-Nach dem 30. September 2017 können Lebenspartnerschaften zwischen zwei Personen gleichen Geschlechts nicht mehr begründet werden. Dieses Gesetz gilt für 1.vor dem 1. Oktober 2017 in der Bundesrepublik Deutschland begründete Lebenspartnerschaften und2.im Ausland begründete Lebenspartnerschaften, soweit auf sie deutsches Recht anwendbar ist.
+Nach dem 30. September 2017 können Lebenspartnerschaften zwischen zwei Personen gleichen Geschlechts nicht mehr begründet werden. Dieses Gesetz gilt für
+
+1. vor dem 1. Oktober 2017 in der Bundesrepublik Deutschland begründete Lebenspartnerschaften und
+
+2. im Ausland begründete Lebenspartnerschaften, soweit auf sie deutsches Recht anwendbar ist.
 
 ## Abschnitt 2: Wirkungen der Lebenspartnerschaft
 
@@ -38,19 +42,49 @@ Die Lebenspartner können ihre güterrechtlichen Verhältnisse durch Vertrag (Le
 
 ### § 8 — Sonstige vermögensrechtliche Wirkungen
 
-(1) Zugunsten der Gläubiger eines der Lebenspartner wird vermutet, dass die im Besitz eines Lebenspartners oder beider Lebenspartner befindlichen beweglichen Sachen dem Schuldner gehören. Im Übrigen gilt § 1362 Abs. 1 Satz 2 und 3 und Abs. 2 des Bürgerlichen Gesetzbuchs entsprechend.(2) § 1357 des Bürgerlichen Gesetzbuchs gilt entsprechend.
+(1) Zugunsten der Gläubiger eines der Lebenspartner wird vermutet, dass die im Besitz eines Lebenspartners oder beider Lebenspartner befindlichen beweglichen Sachen dem Schuldner gehören. Im Übrigen gilt § 1362 Abs. 1 Satz 2 und 3 und Abs. 2 des Bürgerlichen Gesetzbuchs entsprechend.
+
+(2) § 1357 des Bürgerlichen Gesetzbuchs gilt entsprechend.
 
 ### § 9 — Regelungen in Bezug auf Kinder eines Lebenspartners
 
-(1) Führt der allein sorgeberechtigte Elternteil eine Lebenspartnerschaft, hat sein Lebenspartner im Einvernehmen mit dem sorgeberechtigten Elternteil die Befugnis zur Mitentscheidung in Angelegenheiten des täglichen Lebens des Kindes. § 1629 Abs. 2 Satz 1 des Bürgerlichen Gesetzbuchs gilt entsprechend.(2) Bei Gefahr im Verzug ist der Lebenspartner dazu berechtigt, alle Rechtshandlungen vorzunehmen, die zum Wohl des Kindes notwendig sind; der sorgeberechtigte Elternteil ist unverzüglich zu unterrichten.(3) Das Familiengericht kann die Befugnisse nach Absatz 1 einschränken oder ausschließen, wenn dies zum Wohl des Kindes erforderlich ist.(4) Die Befugnisse nach Absatz 1 bestehen nicht, wenn die Lebenspartner nicht nur vorübergehend getrennt leben.(5) Nimmt ein Lebenspartner ein Kind allein an, ist hierfür die Einwilligung des anderen Lebenspartners erforderlich. § 1749 Absatz 1 Satz 2 und 3 sowie Absatz 2 des Bürgerlichen Gesetzbuchs gilt entsprechend.(6) Ein Lebenspartner kann ein Kind seines Lebenspartners allein annehmen. Für diesen Fall gelten die §§ 1742, 1743 Satz 1, § 1751 Abs. 2 und 4 Satz 2, § 1754 Abs. 1 und 3, § 1755 Abs. 2, § 1756 Abs. 2, § 1757 Abs. 2 Satz 1 und § 1772 Abs. 1 Satz 1 Buchstabe c des Bürgerlichen Gesetzbuchs entsprechend.
+(1) Führt der allein sorgeberechtigte Elternteil eine Lebenspartnerschaft, hat sein Lebenspartner im Einvernehmen mit dem sorgeberechtigten Elternteil die Befugnis zur Mitentscheidung in Angelegenheiten des täglichen Lebens des Kindes. § 1629 Abs. 2 Satz 1 des Bürgerlichen Gesetzbuchs gilt entsprechend.
+
+(2) Bei Gefahr im Verzug ist der Lebenspartner dazu berechtigt, alle Rechtshandlungen vorzunehmen, die zum Wohl des Kindes notwendig sind; der sorgeberechtigte Elternteil ist unverzüglich zu unterrichten.
+
+(3) Das Familiengericht kann die Befugnisse nach Absatz 1 einschränken oder ausschließen, wenn dies zum Wohl des Kindes erforderlich ist.
+
+(4) Die Befugnisse nach Absatz 1 bestehen nicht, wenn die Lebenspartner nicht nur vorübergehend getrennt leben.
+
+(5) Nimmt ein Lebenspartner ein Kind allein an, ist hierfür die Einwilligung des anderen Lebenspartners erforderlich. § 1749 Absatz 1 Satz 2 und 3 sowie Absatz 2 des Bürgerlichen Gesetzbuchs gilt entsprechend.
+
+(6) Ein Lebenspartner kann ein Kind seines Lebenspartners allein annehmen. Für diesen Fall gelten die §§ 1742, 1743 Satz 1, § 1751 Abs. 2 und 4 Satz 2, § 1754 Abs. 1 und 3, § 1755 Abs. 2, § 1756 Abs. 2, § 1757 Abs. 2 Satz 1 und § 1772 Abs. 1 Satz 1 Buchstabe c des Bürgerlichen Gesetzbuchs entsprechend.
 
 ### § 10 — Erbrecht
 
-(1) Der überlebende Lebenspartner des Erblassers ist neben Verwandten der ersten Ordnung zu einem Viertel, neben Verwandten der zweiten Ordnung oder neben Großeltern zur Hälfte der Erbschaft gesetzlicher Erbe. Treffen mit Großeltern Abkömmlinge von Großeltern zusammen, so erhält der Lebenspartner auch von der anderen Hälfte den Anteil, der nach § 1926 des Bürgerlichen Gesetzbuchs den Abkömmlingen zufallen würde. Zusätzlich stehen ihm die zum lebenspartnerschaftlichen Haushalt gehörenden Gegenstände, soweit sie nicht Zubehör eines Grundstücks sind, und die Geschenke zur Begründung der Lebenspartnerschaft als Voraus zu. Ist der überlebende Lebenspartner neben Verwandten der ersten Ordnung gesetzlicher Erbe, so steht ihm der Voraus nur zu, soweit er ihn zur Führung eines angemessenen Haushalts benötigt. Auf den Voraus sind die für Vermächtnisse geltenden Vorschriften anzuwenden. Gehört der überlebende Lebenspartner zu den erbberechtigten Verwandten, so erbt er zugleich als Verwandter. Der Erbteil, der ihm aufgrund der Verwandtschaft zufällt, gilt als besonderer Erbteil.(2) Sind weder Verwandte der ersten noch der zweiten Ordnung noch Großeltern vorhanden, erhält der überlebende Lebenspartner die ganze Erbschaft. Bestand beim Erbfall Gütertrennung und sind als gesetzliche Erben neben dem überlebenden Lebenspartner ein oder zwei Kinder des Erblassers berufen, so erben der überlebende Lebenspartner und jedes Kind zu gleichen Teilen; § 1924 Abs. 3 des Bürgerlichen Gesetzbuchs gilt auch in diesem Fall.(3) Das Erbrecht des überlebenden Lebenspartners ist ausgeschlossen, wenn zur Zeit des Todes des Erblassers 1.die Voraussetzungen für die Aufhebung der Lebenspartnerschaft nach § 15 Abs. 2 Nr. 1 oder 2 gegeben waren und der Erblasser die Aufhebung beantragt oder ihr zugestimmt hatte oder2.der Erblasser einen Antrag nach § 15 Abs. 2 Nr. 3 gestellt hatte und dieser Antrag begründet war.In diesen Fällen gilt § 16 entsprechend.(4) Lebenspartner können ein gemeinschaftliches Testament errichten. Die §§ 2266 bis 2272 des Bürgerlichen Gesetzbuchs gelten entsprechend.(5) Auf eine letztwillige Verfügung, durch die der Erblasser seinen Lebenspartner bedacht hat, ist § 2077 des Bürgerlichen Gesetzbuchs entsprechend anzuwenden.(6) Hat der Erblasser den überlebenden Lebenspartner durch Verfügung von Todes wegen von der Erbfolge ausgeschlossen, kann dieser von den Erben die Hälfte des Wertes des gesetzlichen Erbteils als Pflichtteil verlangen. Die Vorschriften des Bürgerlichen Gesetzbuchs über den Pflichtteil gelten mit der Maßgabe entsprechend, dass der Lebenspartner wie ein Ehegatte zu behandeln ist.(7) Die Vorschriften des Bürgerlichen Gesetzbuchs über das Inventar für eine zum Gesamtgut gehörende Erbschaft und über den Erbverzicht gelten entsprechend.
+(1) Der überlebende Lebenspartner des Erblassers ist neben Verwandten der ersten Ordnung zu einem Viertel, neben Verwandten der zweiten Ordnung oder neben Großeltern zur Hälfte der Erbschaft gesetzlicher Erbe. Treffen mit Großeltern Abkömmlinge von Großeltern zusammen, so erhält der Lebenspartner auch von der anderen Hälfte den Anteil, der nach § 1926 des Bürgerlichen Gesetzbuchs den Abkömmlingen zufallen würde. Zusätzlich stehen ihm die zum lebenspartnerschaftlichen Haushalt gehörenden Gegenstände, soweit sie nicht Zubehör eines Grundstücks sind, und die Geschenke zur Begründung der Lebenspartnerschaft als Voraus zu. Ist der überlebende Lebenspartner neben Verwandten der ersten Ordnung gesetzlicher Erbe, so steht ihm der Voraus nur zu, soweit er ihn zur Führung eines angemessenen Haushalts benötigt. Auf den Voraus sind die für Vermächtnisse geltenden Vorschriften anzuwenden. Gehört der überlebende Lebenspartner zu den erbberechtigten Verwandten, so erbt er zugleich als Verwandter. Der Erbteil, der ihm aufgrund der Verwandtschaft zufällt, gilt als besonderer Erbteil.
+
+(2) Sind weder Verwandte der ersten noch der zweiten Ordnung noch Großeltern vorhanden, erhält der überlebende Lebenspartner die ganze Erbschaft. Bestand beim Erbfall Gütertrennung und sind als gesetzliche Erben neben dem überlebenden Lebenspartner ein oder zwei Kinder des Erblassers berufen, so erben der überlebende Lebenspartner und jedes Kind zu gleichen Teilen; § 1924 Abs. 3 des Bürgerlichen Gesetzbuchs gilt auch in diesem Fall.
+
+(3) Das Erbrecht des überlebenden Lebenspartners ist ausgeschlossen, wenn zur Zeit des Todes des Erblassers
+
+1. die Voraussetzungen für die Aufhebung der Lebenspartnerschaft nach § 15 Abs. 2 Nr. 1 oder 2 gegeben waren und der Erblasser die Aufhebung beantragt oder ihr zugestimmt hatte oder
+
+2. der Erblasser einen Antrag nach § 15 Abs. 2 Nr. 3 gestellt hatte und dieser Antrag begründet war.
+
+(4) Lebenspartner können ein gemeinschaftliches Testament errichten. Die §§ 2266 bis 2272 des Bürgerlichen Gesetzbuchs gelten entsprechend.
+
+(5) Auf eine letztwillige Verfügung, durch die der Erblasser seinen Lebenspartner bedacht hat, ist § 2077 des Bürgerlichen Gesetzbuchs entsprechend anzuwenden.
+
+(6) Hat der Erblasser den überlebenden Lebenspartner durch Verfügung von Todes wegen von der Erbfolge ausgeschlossen, kann dieser von den Erben die Hälfte des Wertes des gesetzlichen Erbteils als Pflichtteil verlangen. Die Vorschriften des Bürgerlichen Gesetzbuchs über den Pflichtteil gelten mit der Maßgabe entsprechend, dass der Lebenspartner wie ein Ehegatte zu behandeln ist.
+
+(7) Die Vorschriften des Bürgerlichen Gesetzbuchs über das Inventar für eine zum Gesamtgut gehörende Erbschaft und über den Erbverzicht gelten entsprechend.
 
 ### § 11 — Sonstige Wirkungen der Lebenspartnerschaft
 
-(1) Ein Lebenspartner gilt als Familienangehöriger des anderen Lebenspartners, soweit nicht etwas anderes bestimmt ist.(2) Die Verwandten eines Lebenspartners gelten als mit dem anderen Lebenspartner verschwägert. Die Linie und der Grad der Schwägerschaft bestimmen sich nach der Linie und dem Grad der sie vermittelnden Verwandtschaft. Die Schwägerschaft dauert fort, auch wenn die Lebenspartnerschaft, die sie begründet hat, aufgelöst wurde.
+(1) Ein Lebenspartner gilt als Familienangehöriger des anderen Lebenspartners, soweit nicht etwas anderes bestimmt ist.
+
+(2) Die Verwandten eines Lebenspartners gelten als mit dem anderen Lebenspartner verschwägert. Die Linie und der Grad der Schwägerschaft bestimmen sich nach der Linie und dem Grad der sie vermittelnden Verwandtschaft. Die Schwägerschaft dauert fort, auch wenn die Lebenspartnerschaft, die sie begründet hat, aufgelöst wurde.
 
 ## Abschnitt 3: Getrenntleben der Lebenspartner
 
@@ -60,17 +94,41 @@ Leben die Lebenspartner getrennt, so kann ein Lebenspartner von dem anderen den 
 
 ### § 13 — Verteilung der Haushaltsgegenstände bei Getrenntleben
 
-(1) Leben die Lebenspartner getrennt, so kann jeder von ihnen die ihm gehörenden Haushaltsgegenstände von dem anderen Lebenspartner herausverlangen. Er ist jedoch verpflichtet, sie dem anderen Lebenspartner zum Gebrauch zu überlassen, soweit dieser sie zur Führung eines abgesonderten Haushalts benötigt und die Überlassung nach den Umständen des Falles der Billigkeit entspricht.(2) Haushaltsgegenstände, die den Lebenspartnern gemeinsam gehören, werden zwischen ihnen nach den Grundsätzen der Billigkeit verteilt. Das Gericht kann eine angemessene Vergütung für die Benutzung der Haushaltsgegenstände festsetzen.(3) Die Eigentumsverhältnisse bleiben unberührt, sofern die Lebenspartner nichts anderes vereinbaren.
+(1) Leben die Lebenspartner getrennt, so kann jeder von ihnen die ihm gehörenden Haushaltsgegenstände von dem anderen Lebenspartner herausverlangen. Er ist jedoch verpflichtet, sie dem anderen Lebenspartner zum Gebrauch zu überlassen, soweit dieser sie zur Führung eines abgesonderten Haushalts benötigt und die Überlassung nach den Umständen des Falles der Billigkeit entspricht.
+
+(2) Haushaltsgegenstände, die den Lebenspartnern gemeinsam gehören, werden zwischen ihnen nach den Grundsätzen der Billigkeit verteilt. Das Gericht kann eine angemessene Vergütung für die Benutzung der Haushaltsgegenstände festsetzen.
+
+(3) Die Eigentumsverhältnisse bleiben unberührt, sofern die Lebenspartner nichts anderes vereinbaren.
 
 ### § 14 — Wohnungszuweisung bei Getrenntleben
 
-(1) Leben die Lebenspartner voneinander getrennt oder will einer von ihnen getrennt leben, so kann ein Lebenspartner verlangen, dass ihm der andere die gemeinsame Wohnung oder einen Teil zur alleinigen Benutzung überlässt, soweit dies auch unter Berücksichtigung der Belange des anderen Lebenspartners notwendig ist, um eine unbillige Härte zu vermeiden. Eine unbillige Härte kann auch dann gegeben sein, wenn das Wohl von im Haushalt lebenden Kindern beeinträchtigt ist. Steht einem Lebenspartner allein oder gemeinsam mit einem Dritten das Eigentum, das Erbbaurecht oder der Nießbrauch an dem Grundstück zu, auf dem sich die gemeinsame Wohnung befindet, so ist dies besonders zu berücksichtigen; Entsprechendes gilt für das Wohnungseigentum, das Dauerwohnrecht und das dingliche Wohnrecht.(2) Hat der Lebenspartner, gegen den sich der Antrag richtet, den anderen Lebenspartner widerrechtlich und vorsätzlich am Körper, der Gesundheit oder der Freiheit verletzt oder mit einer solchen Verletzung oder der Verletzung des Lebens widerrechtlich gedroht, ist in der Regel die gesamte Wohnung zur alleinigen Benutzung zu überlassen. Der Anspruch auf Wohnungsüberlassung ist nur dann ausgeschlossen, wenn keine weiteren Verletzungen und widerrechtlichen Drohungen zu besorgen sind, es sei denn, dass dem verletzten Lebenspartner das weitere Zusammenleben mit dem anderen wegen der Schwere der Tat nicht zuzumuten ist.(3) Wurde einem Lebenspartner die gemeinsame Wohnung ganz oder zum Teil überlassen, so hat der andere alles zu unterlassen, was geeignet ist, die Ausübung dieses Nutzungsrechts zu erschweren oder zu vereiteln. Er kann von dem nutzungsberechtigten Lebenspartner eine Vergütung für die Nutzung verlangen, soweit dies der Billigkeit entspricht.(4) Ist ein Lebenspartner aus der gemeinsamen Wohnung ausgezogen, um getrennt zu leben und hat er binnen sechs Monaten nach seinem Auszug eine ernstliche Rückkehrabsicht dem anderen Lebenspartner gegenüber nicht bekundet, so wird unwiderleglich vermutet, dass er dem in der gemeinsamen Wohnung verbliebenen Lebenspartner das alleinige Nutzungsrecht überlassen hat.
+(1) Leben die Lebenspartner voneinander getrennt oder will einer von ihnen getrennt leben, so kann ein Lebenspartner verlangen, dass ihm der andere die gemeinsame Wohnung oder einen Teil zur alleinigen Benutzung überlässt, soweit dies auch unter Berücksichtigung der Belange des anderen Lebenspartners notwendig ist, um eine unbillige Härte zu vermeiden. Eine unbillige Härte kann auch dann gegeben sein, wenn das Wohl von im Haushalt lebenden Kindern beeinträchtigt ist. Steht einem Lebenspartner allein oder gemeinsam mit einem Dritten das Eigentum, das Erbbaurecht oder der Nießbrauch an dem Grundstück zu, auf dem sich die gemeinsame Wohnung befindet, so ist dies besonders zu berücksichtigen; Entsprechendes gilt für das Wohnungseigentum, das Dauerwohnrecht und das dingliche Wohnrecht.
+
+(2) Hat der Lebenspartner, gegen den sich der Antrag richtet, den anderen Lebenspartner widerrechtlich und vorsätzlich am Körper, der Gesundheit oder der Freiheit verletzt oder mit einer solchen Verletzung oder der Verletzung des Lebens widerrechtlich gedroht, ist in der Regel die gesamte Wohnung zur alleinigen Benutzung zu überlassen. Der Anspruch auf Wohnungsüberlassung ist nur dann ausgeschlossen, wenn keine weiteren Verletzungen und widerrechtlichen Drohungen zu besorgen sind, es sei denn, dass dem verletzten Lebenspartner das weitere Zusammenleben mit dem anderen wegen der Schwere der Tat nicht zuzumuten ist.
+
+(3) Wurde einem Lebenspartner die gemeinsame Wohnung ganz oder zum Teil überlassen, so hat der andere alles zu unterlassen, was geeignet ist, die Ausübung dieses Nutzungsrechts zu erschweren oder zu vereiteln. Er kann von dem nutzungsberechtigten Lebenspartner eine Vergütung für die Nutzung verlangen, soweit dies der Billigkeit entspricht.
+
+(4) Ist ein Lebenspartner aus der gemeinsamen Wohnung ausgezogen, um getrennt zu leben und hat er binnen sechs Monaten nach seinem Auszug eine ernstliche Rückkehrabsicht dem anderen Lebenspartner gegenüber nicht bekundet, so wird unwiderleglich vermutet, dass er dem in der gemeinsamen Wohnung verbliebenen Lebenspartner das alleinige Nutzungsrecht überlassen hat.
 
 ## Abschnitt 4: Aufhebung der Lebenspartnerschaft
 
 ### § 15 — Aufhebung der Lebenspartnerschaft
 
-(1) Die Lebenspartnerschaft wird auf Antrag eines oder beider Lebenspartner durch richterliche Entscheidung aufgehoben.(2) Das Gericht hebt die Lebenspartnerschaft auf, wenn 1.die Lebenspartner seit einem Jahr getrennt leben unda)beide Lebenspartner die Aufhebung beantragen oder der Antragsgegner der Aufhebung zustimmt oderb)nicht erwartet werden kann, dass eine partnerschaftliche Lebensgemeinschaft wieder hergestellt werden kann,2.ein Lebenspartner die Aufhebung beantragt und die Lebenspartner seit drei Jahren getrennt leben,3.die Fortsetzung der Lebenspartnerschaft für den Antragsteller aus Gründen, die in der Person des anderen Lebenspartners liegen, eine unzumutbare Härte wäre.Das Gericht hebt die Lebenspartnerschaft ferner auf, wenn bei einem Lebenspartner ein Willensmangel im Sinne des § 1314 Abs. 2 Nr. 1 bis 4 des Bürgerlichen Gesetzbuchs vorlag; § 1316 Abs. 1 Nr. 2 des Bürgerlichen Gesetzbuchs gilt entsprechend.(3) Die Lebenspartnerschaft soll nach Absatz 2 Satz 1 nicht aufgehoben werden, obwohl die Lebenspartner seit mehr als drei Jahren getrennt leben, wenn und solange die Aufhebung der Lebenspartnerschaft für den Antragsgegner, der sie ablehnt, aufgrund außergewöhnlicher Umstände eine so schwere Härte darstellen würde, dass die Aufrechterhaltung der Lebenspartnerschaft auch unter Berücksichtigung der Belange des Antragstellers ausnahmsweise geboten erscheint.(4) Die Aufhebung nach Absatz 2 Satz 2 ist bei einer Bestätigung der Lebenspartnerschaft ausgeschlossen; § 1315 Absatz 1 Satz 1 Nummer 3 und 4 und § 1317 des Bürgerlichen Gesetzbuchs gelten entsprechend.(5) Die Lebenspartner leben getrennt, wenn zwischen ihnen keine häusliche Gemeinschaft besteht und ein Lebenspartner sie erkennbar nicht herstellen will, weil er die lebenspartnerschaftliche Gemeinschaft ablehnt. § 1567 Abs. 1 Satz 2 und Abs. 2 des Bürgerlichen Gesetzbuchs gilt entsprechend.
+(1) Die Lebenspartnerschaft wird auf Antrag eines oder beider Lebenspartner durch richterliche Entscheidung aufgehoben.
+
+(2) Das Gericht hebt die Lebenspartnerschaft auf, wenn
+
+1. die Lebenspartner seit einem Jahr getrennt leben unda)beide Lebenspartner die Aufhebung beantragen oder der Antragsgegner der Aufhebung zustimmt oderb)nicht erwartet werden kann, dass eine partnerschaftliche Lebensgemeinschaft wieder hergestellt werden kann, beide Lebenspartner die Aufhebung beantragen oder der Antragsgegner der Aufhebung zustimmt oder nicht erwartet werden kann, dass eine partnerschaftliche Lebensgemeinschaft wieder hergestellt werden kann,
+
+2. ein Lebenspartner die Aufhebung beantragt und die Lebenspartner seit drei Jahren getrennt leben,
+
+3. die Fortsetzung der Lebenspartnerschaft für den Antragsteller aus Gründen, die in der Person des anderen Lebenspartners liegen, eine unzumutbare Härte wäre.
+
+(3) Die Lebenspartnerschaft soll nach Absatz 2 Satz 1 nicht aufgehoben werden, obwohl die Lebenspartner seit mehr als drei Jahren getrennt leben, wenn und solange die Aufhebung der Lebenspartnerschaft für den Antragsgegner, der sie ablehnt, aufgrund außergewöhnlicher Umstände eine so schwere Härte darstellen würde, dass die Aufrechterhaltung der Lebenspartnerschaft auch unter Berücksichtigung der Belange des Antragstellers ausnahmsweise geboten erscheint.
+
+(4) Die Aufhebung nach Absatz 2 Satz 2 ist bei einer Bestätigung der Lebenspartnerschaft ausgeschlossen; § 1315 Absatz 1 Satz 1 Nummer 3 und 4 und § 1317 des Bürgerlichen Gesetzbuchs gelten entsprechend.
+
+(5) Die Lebenspartner leben getrennt, wenn zwischen ihnen keine häusliche Gemeinschaft besteht und ein Lebenspartner sie erkennbar nicht herstellen will, weil er die lebenspartnerschaftliche Gemeinschaft ablehnt. § 1567 Abs. 1 Satz 2 und Abs. 2 des Bürgerlichen Gesetzbuchs gilt entsprechend.
 
 ### § 16 — Nachpartnerschaftlicher Unterhalt
 
@@ -90,13 +148,29 @@ Für die Behandlung der gemeinsamen Wohnung und der Haushaltsgegenstände anläs
 
 ### § 20 — Versorgungsausgleich
 
-(1) Wird eine Lebenspartnerschaft aufgehoben, findet in entsprechender Anwendung des Versorgungsausgleichsgesetzes ein Ausgleich von im In- oder Ausland bestehenden Anrechten (§ 2 Abs. 1 des Versorgungsausgleichsgesetzes) statt, soweit sie in der Lebenspartnerschaftszeit begründet oder aufrechterhalten worden sind.(2) Als Lebenspartnerschaftszeit gilt die Zeit vom Beginn des Monats, in dem die Lebenspartnerschaft begründet worden ist, bis zum Ende des Monats, der dem Eintritt der Rechtshängigkeit des Antrages auf Aufhebung der Lebenspartnerschaft vorausgeht.(3) Schließen die Lebenspartner in einem Lebenspartnerschaftsvertrag (§ 7) Vereinbarungen über den Versorgungsausgleich, so sind die §§ 6 bis 8 des Versorgungsausgleichsgesetzes entsprechend anzuwenden.(4) Die Absätze 1 bis 3 sind nicht anzuwenden, wenn die Lebenspartnerschaft vor dem 1. Januar 2005 begründet worden ist und die Lebenspartner eine Erklärung nach § 21 Abs. 4 nicht abgegeben haben.
+(1) Wird eine Lebenspartnerschaft aufgehoben, findet in entsprechender Anwendung des Versorgungsausgleichsgesetzes ein Ausgleich von im In- oder Ausland bestehenden Anrechten (§ 2 Abs. 1 des Versorgungsausgleichsgesetzes) statt, soweit sie in der Lebenspartnerschaftszeit begründet oder aufrechterhalten worden sind.
+
+(2) Als Lebenspartnerschaftszeit gilt die Zeit vom Beginn des Monats, in dem die Lebenspartnerschaft begründet worden ist, bis zum Ende des Monats, der dem Eintritt der Rechtshängigkeit des Antrages auf Aufhebung der Lebenspartnerschaft vorausgeht.
+
+(3) Schließen die Lebenspartner in einem Lebenspartnerschaftsvertrag (§ 7) Vereinbarungen über den Versorgungsausgleich, so sind die §§ 6 bis 8 des Versorgungsausgleichsgesetzes entsprechend anzuwenden.
+
+(4) Die Absätze 1 bis 3 sind nicht anzuwenden, wenn die Lebenspartnerschaft vor dem 1. Januar 2005 begründet worden ist und die Lebenspartner eine Erklärung nach § 21 Abs. 4 nicht abgegeben haben.
 
 ## Abschnitt 5: Umwandlung einer Lebenspartnerschaft in eine Ehe
 
 ### § 20a — Umwandlung einer Lebenspartnerschaft in eine Ehe
 
-(1) Eine Lebenspartnerschaft wird in eine Ehe umgewandelt, wenn beide Lebenspartner vor dem Standesbeamten persönlich und bei gleichzeitiger Anwesenheit erklären, miteinander eine Ehe führen zu wollen. Für die Umwandlung gelten die Vorschriften über die Eheschließung und die Eheaufhebung entsprechend. Die Lebenspartnerschaft wird nach der Umwandlung als Ehe fortgeführt.(2) Bei der Umwandlung einer Lebenspartnerschaft in eine Ehe kann ein Ehename nicht mehr bestimmt werden, wenn die Lebenspartner zuvor bereits einen Lebenspartnerschaftsnamen nach § 3 bestimmt hatten.(3) Ein Lebenspartnerschaftsvertrag gilt nach der Umwandlung der Lebenspartnerschaft in eine Ehe als Ehevertrag weiter.(4) Die Umwandlung der Lebenspartnerschaft in eine Ehe hat keine Auswirkungen auf ein nach § 10 Absatz 4 errichtetes gemeinschaftliches Testament.(5) Nach der Umwandlung der Lebenspartnerschaft in eine Ehe ist für Rechte und Pflichten der Ehegatten der Tag der Begründung der Lebenspartnerschaft maßgebend.(6) Nach der Umwandlung der Lebenspartnerschaft in eine Ehe gilt für den Versorgungsausgleich der erste Tag des Monats, in dem die Lebenspartnerschaft begründet worden ist, als Beginn der Ehezeit.
+(1) Eine Lebenspartnerschaft wird in eine Ehe umgewandelt, wenn beide Lebenspartner vor dem Standesbeamten persönlich und bei gleichzeitiger Anwesenheit erklären, miteinander eine Ehe führen zu wollen. Für die Umwandlung gelten die Vorschriften über die Eheschließung und die Eheaufhebung entsprechend. Die Lebenspartnerschaft wird nach der Umwandlung als Ehe fortgeführt.
+
+(2) Bei der Umwandlung einer Lebenspartnerschaft in eine Ehe kann ein Ehename nicht mehr bestimmt werden, wenn die Lebenspartner zuvor bereits einen Lebenspartnerschaftsnamen nach § 3 bestimmt hatten.
+
+(3) Ein Lebenspartnerschaftsvertrag gilt nach der Umwandlung der Lebenspartnerschaft in eine Ehe als Ehevertrag weiter.
+
+(4) Die Umwandlung der Lebenspartnerschaft in eine Ehe hat keine Auswirkungen auf ein nach § 10 Absatz 4 errichtetes gemeinschaftliches Testament.
+
+(5) Nach der Umwandlung der Lebenspartnerschaft in eine Ehe ist für Rechte und Pflichten der Ehegatten der Tag der Begründung der Lebenspartnerschaft maßgebend.
+
+(6) Nach der Umwandlung der Lebenspartnerschaft in eine Ehe gilt für den Versorgungsausgleich der erste Tag des Monats, in dem die Lebenspartnerschaft begründet worden ist, als Beginn der Ehezeit.
 
 ## Abschnitt 6: Übergangsvorschriften
 

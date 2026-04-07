@@ -61,7 +61,3 @@ Die Anlagen 1 und 2 sind Bestandteil dieses Vertrages. Ausfertigungen der Anlage
 (2) Dieser Vertrag tritt am Tage nach dem Austausch der Ratifikationsurkunden in Kraft.
 
 ### Schlussformel
-
-Für das Land Brandenburg Dr.  Manfred Stolpe
-
-Für den Freistaat Sachsen Prof. Dr.  Kurt Biedenkopf

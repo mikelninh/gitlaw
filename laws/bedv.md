@@ -22,11 +22,11 @@ Diese Verordnung gilt innerhalb des Anwendungsbereichs des Brennstoffemissionsha
 
 Für diese Verordnung gelten neben den Begriffsbestimmungen des Brennstoffemissionshandelsgesetzes die folgenden Begriffsbestimmungen:
 
-1.
+1. Abrechnungsjahr: Kalenderjahr in den Jahren 2021 bis 2030, für das die Kompensation beantragt wird;
 
-2.
+2. Anlagenbetreiber: ein Anlagenbetreiber im Sinne des § 3 Nummer 2 des Treibhausgas-Emissionshandelsgesetzes;
 
-3.
+3. emissionshandelspflichtige Anlage: eine Anlage im Sinne des § 3 Nummer 1 des Treibhausgas-Emissionshandelsgesetzes.
 
 ### § 3 — Zuständige Behörde
 
@@ -38,9 +38,9 @@ Zuständige Behörde für die Durchführung dieser Verordnung ist das Umweltbund
 
 (2) Die Antragstellung nach § 8 ist nicht zulässig, wenn
 
-1.
+1. der antragstellende Anlagenbetreiber einer Rückforderungsanordnung aufgrund einer früheren Kommissionsentscheidung zur Feststellung der Rechtswidrigkeit oder Unvereinbarkeit einer Beihilfe mit dem Gemeinsamen Markt gemäß Kapitel III der Verordnung (EU) 2015/1589 des Rates vom 13. Juli 2015 über besondere Vorschriften für die Anwendung von Artikel 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 248 vom 24.9.2015, S. 9) nicht Folge geleistet hat oder
 
-2.
+2. das Anlagenkonto im Unionsregister des antragstellenden Anlagenbetreibers wegen Nichtmitteilung von geprüften Emissionen nach Artikel 32 Absatz 1 der Delegierten Verordnung (EU) 2019/1122 der Kommission vom 12. März 2019 zur Ergänzung der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates im Hinblick auf die Funktionsweise des Unionsregisters (ABl. L 177 vom 2.7.2019, S. 3), die durch die Delegierte Verordnung (EU) 2019/1124 der Kommission vom 13. März 2019 (ABl. L 177 vom 2.7.2019, S. 66) geändert worden ist, gesperrt ist oder der Erfüllungsstatuswert des Vorjahres nach Artikel 33 der Delegierten Verordnung (EU) 2019/1122 negativ ist.
 
 ## Abschnitt 2: Berechnung der Kompensationshöhe
 
@@ -48,31 +48,31 @@ Zuständige Behörde für die Durchführung dieser Verordnung ist das Umweltbund
 
 Der Kompensationsbetrag wird berechnet, indem die folgenden Werte miteinander multipliziert werden:
 
-1.
+1. die maßgebliche Emissionsmenge nach § 6 und
 
-2.
+2. der für das Abrechnungsjahr maßgebliche Preis der Emissionszertifikate in Euro pro Tonne nach § 7.
 
 ### § 6 — Maßgebliche Emissionsmenge
 
-(1) Die maßgebliche Emissionsmenge der emissionshandelspflichtigen Anlage wird berechnet, indem die folgenden Werte miteinander multipliziert werden: Soweit für einen Brennstoff keine Standardwerte festgelegt sind, sind die Berechnungsfaktoren aus dem Emissionsbericht nach § 5 des Treibhausgas-Emissionshandelsgesetzes zu übernehmen.
+(1) Die maßgebliche Emissionsmenge der emissionshandelspflichtigen Anlage wird berechnet, indem die folgenden Werte miteinander multipliziert werden:
 
-1.
+1. die kompensationsfähige Brennstoffmenge, die nach den Absätzen 2 und 3 zu ermitteln ist, und
 
-2.
+2. diejenigen Standardwerte für den heizwertbezogenen Emissionsfaktor, den Heizwert und den Umrechnungsfaktor des jeweiligen Brennstoffs, die in dem jeweiligen Abrechnungsjahr anzuwenden sind gemäß der jeweils geltenden Fassung der Verordnung nach § 7 Absatz 4 des Brennstoffemissionshandelsgesetzes.
 
-(2) Bei der Ermittlung der kompensationsfähigen Brennstoffmenge sind sämtliche Brennstoffmengen zu berücksichtigen, die nach § 2 Absatz 2 des Brennstoffemissionshandelsgesetzes in Verkehr gebracht und von dem Anlagenbetreiber in dem jeweiligen Abrechnungsjahr zum Einsatz in der emissionshandelspflichtigen Anlage bezogen wurden. Für Brennstoffmengen, die in dem Abrechnungsjahr nicht eingesetzt, sondern zu einem späteren Einsatz in der emissionshandelspflichtigen Anlage eingelagert wurden, muss der Einsatznachweis mit dem Emissionsbericht nach § 5 des Treibhausgas-Emissionshandelsgesetzes für das Kalenderjahr erbracht werden, das dem Abrechnungsjahr folgt. Die zuständige Behörde kann auf Antrag des Anlagenbetreibers die Frist zur Erbringung des Einsatznachweises verlängern, wenn der Einsatz der Brennstoffmengen im Fall von Nummer 1 in dem auf das Abrechnungsjahr folgenden Kalenderjahr und im Fall von Nummer 2 in den zwei auf das Abrechnungsjahr folgenden Kalenderjahren aus energiewirtschaftlichen, technischen oder betrieblichen Gründen nicht möglich war.
+(2) Bei der Ermittlung der kompensationsfähigen Brennstoffmenge sind sämtliche Brennstoffmengen zu berücksichtigen, die nach § 2 Absatz 2 des Brennstoffemissionshandelsgesetzes in Verkehr gebracht und von dem Anlagenbetreiber in dem jeweiligen Abrechnungsjahr zum Einsatz in der emissionshandelspflichtigen Anlage bezogen wurden. Für Brennstoffmengen, die in dem Abrechnungsjahr nicht eingesetzt, sondern zu einem späteren Einsatz in der emissionshandelspflichtigen Anlage eingelagert wurden, muss der Einsatznachweis mit dem Emissionsbericht nach § 5 des Treibhausgas-Emissionshandelsgesetzes für das Kalenderjahr erbracht werden, das dem Abrechnungsjahr folgt. Die zuständige Behörde kann auf Antrag des Anlagenbetreibers die Frist zur Erbringung des Einsatznachweises
 
-1.
+1. um ein Jahr und
 
-2.
+2. für die Abrechnungsjahre 2021 und 2022 nochmals um ein weiteres Jahr
 
-(3) Nicht als kompensationsfähig zu berücksichtigen sind Brennstoffmengen oder Teilmengen eines Brennstoffes, die im Abrechnungsjahr bezogen wurden, sofern Ist für den Nachweis nach Satz 1 Nummer 2 die Verwendung von Formularvorlagen durch die zuständige Behörde vorgeschrieben, so sind diese vom Anlagenbetreiber zusammen mit dem Antrag einzureichen.
+(3) Nicht als kompensationsfähig zu berücksichtigen sind Brennstoffmengen oder Teilmengen eines Brennstoffes, die im Abrechnungsjahr bezogen wurden, sofern
 
-1.
+1. es sich um nachhaltige biogene Brennstoffe oder Klärschlämme handelt,
 
-2.
+2. ein Verantwortlicher für diese Brennstoffe bereits im Rahmen der Berichterstattung nach § 7 Absatz 1 des Brennstoffemissionshandelsgesetzes einen Abzug aufgrund eines Nachweises des Anlagenbetreibers geltend gemacht hat, oder
 
-3.
+3. diese Brennstoffe in dem Abrechnungsjahr nicht der Abgabepflicht nach § 8 des Brennstoffemissionshandelsgesetzes unterlagen.
 
 ### § 7 — Maßgeblicher Preis
 
@@ -84,17 +84,17 @@ Für die Abrechnungsjahre 2021 bis 2025 entspricht der maßgebliche Preis der Em
 
 (1) Kompensationsanträge für die Abrechnungsjahre 2022 bis 2030 sind bei der zuständigen Behörde jeweils bis zum Ablauf des 31. Juli des auf das Abrechnungsjahr folgenden Kalenderjahres zu stellen. Für Kompensationsanträge für das Abrechnungsjahr 2021 endet die Antragsfrist mit Ablauf des 31. März 2023.
 
-(2) Die zuständige Behörde kann für Kompensationsanträge anordnen, dass Anordnungen nach Satz 1 werden im Bundesanzeiger bekannt gemacht.
+(2) Die zuständige Behörde kann für Kompensationsanträge anordnen, dass
 
-1.
+1. die Schriftform, die elektronische Form oder eine andere Form nach § 3a Absatz 3 des Verwaltungsverfahrensgesetzes zu verwenden ist und
 
-2.
+2. nur die auf ihrer Internetseite zur Verfügung gestellten elektronischen Formularvorlagen zu benutzen und die ausgefüllten Formularvorlagen elektronisch unter Verwendung einer qualifizierten elektronischen Signatur zu übermitteln sind.
 
 (3) Dem Antrag ist eine Bescheinigung einer Prüfstelle nach § 21 Absatz 1 des Treibhausgas-Emissionshandelsgesetzes beizufügen, aus der hervorgeht, dass die tatsachenbezogenen Angaben im Kompensationsantrag mit hinreichender Sicherheit frei von wesentlichen Falschangaben sind. Die zu beachtende Wesentlichkeitsschwelle beträgt 5 Prozent. § 13 Absatz 2 und 3 der BEHG-Carbon-Leakage-Verordnung gilt entsprechend.
 
 (4) Für die Kompensationsanträge für die Abrechnungsjahre 2021 und 2022 entfällt abweichend von Absatz 3 die Verpflichtung zur Prüfung der tatsachenbezogenen Angaben durch eine Prüfstelle nach § 21 Absatz 1 des Treibhausgas-Emissionshandelsgesetzes.
 
-(5) Für die Kompensationsanträge für die Abrechnungsjahre 2023 bis 2030 entfällt abweichend von Absatz 3 die Verpflichtung zur Prüfung der tatsachenbezogenen Angaben durch eine Prüfstelle nach § 21 Absatz 1 des Treibhausgas-Emissionshandelsgesetzes, soweit die maßgebliche Emissionsmenge die Schwelle von 1 000 Tonnen Kohlendioxid unterschreitet.
+(5) Für die Kompensationsanträge für die Abrechnungsjahre 2023 bis 2030 entfällt abweichend von Absatz 3 die Verpflichtung zur Prüfung der tatsachenbezogenen Angaben durch eine Prüfstelle nach § 21 Absatz 1 des Treibhausgas-Emissionshandelsgesetzes, soweit die maßgebliche Emissionsmenge die Schwelle von 1 000 Tonnen Kohlendioxid unterschreitet.
 
 ### § 9 — Kompensationsvorbehalt für eingelagerte Brennstoffmengen
 
@@ -112,9 +112,9 @@ Die Gewährung der Kompensation für Brennstoffmengen nach § 6 Absatz 2 Satz 2 
 
 (1) Im Rahmen der Evaluierung nach § 23 des Brennstoffemissionshandelsgesetzes legt die zuständige Behörde der Bundesregierung einen Bericht zu den wesentlichen Ergebnissen des Kompensationsverfahrens nach dieser Verordnung für die jeweils vorangegangenen Abrechnungsjahre zu folgenden Zeitpunkten vor:
 
-1.
+1. jeweils bis zum 31. Mai desjenigen Jahres, in dem die Bundesregierung dem Bundestag gemäß § 23 Absatz 1 Satz 1 des Brennstoffemissionshandelsgesetzes einen Erfahrungsbericht vorzulegen hat,
 
-2.
+2. erstmals bis zum 31. Mai 2024.
 
 (2) Auf Grundlage der Berichte nach Absatz 1 überprüft die Bundesregierung regelmäßig, ob Änderungsbedarf an dieser Verordnung besteht.
 

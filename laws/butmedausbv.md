@@ -30,95 +30,91 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 4 — Struktur der Berufsausbildung, Ausbildungsberufsbild
 
-(1) Die Berufsausbildung gliedert sich in: Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in Berufsbildpositionen und Wahlqualifikationen als Teil des Ausbildungsberufsbildes gebündelt.
+(1) Die Berufsausbildung gliedert sich in:
 
-1.
+1. wahlqualifikationsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten,
 
-2.
+2. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten a)in einer ersten Wahlqualifikation, die zwanzig Wochen dauern soll, undb)in einer zweiten Wahlqualifikation, die zwölf Wochen dauern soll, sowie in einer ersten Wahlqualifikation, die zwanzig Wochen dauern soll, und in einer zweiten Wahlqualifikation, die zwölf Wochen dauern soll, sowie
 
-a)
-
-b)
-
-3.
+3. wahlqualifikationsübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 (2) Die Berufsbildpositionen der wahlqualifikationsübergreifenden berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. Bild- und Tonaufnahmen ohne Regieeinrichtungen herstellen,
 
-2.
+2. audiovisuelle Medienprodukte mit Hilfe von Regieeinrichtungen herstellen,
 
-3.
+3. Bild- und Tonmaterial nachbearbeiten,
 
-4.
+4. Tonaufnahmen herstellen und bearbeiten und
 
-5.
+5. Inhalte für Bild- und Tonproduktionen ausarbeiten und umsetzen.
 
 (3) Als erste Wahlqualifikation ist eine der folgenden Wahlqualifikationen auszuwählen:
 
-1.
+1. Kameraproduktionen,
 
-2.
+2. Studio-, Außenübertragungs- und Bühnenproduktionen,
 
-3.
+3. Postproduktion und
 
-4.
+4. Ton.
 
 (4) Als zweite Wahlqualifikation ist eine der folgenden Wahlqualifikationen auszuwählen:
 
-1.
+1. Bild- und Tonaufnahmen unter Einsatz von erweiterter Produktionstechnik durchführen,
 
-2.
+2. Kamerasysteme bei Studioproduktionen oder Außenübertragungen einrichten und einsetzen,
 
-3.
+3. Regie-Serversysteme einsetzen,
 
-4.
+4. Bildmischungen durchführen,
 
-5.
+5. Medienpräsentationen bei Veranstaltungen durchführen,
 
-6.
+6. Montageformen anwenden,
 
-7.
+7. Farbkorrekturen gestalterisch einsetzen,
 
-8.
+8. visuelle Effekte herstellen und gestalten,
 
-9.
+9. Hörfunkproduktionen und -sendungen durchführen,
 
-10.
+10. Sounddesign durchführen,
 
-11.
+11. Musikproduktionen durchführen,
 
-12.
+12. Audioproduktionen unter Livebedingungen durchführen,
 
-13.
+13. redaktionell arbeiten,
 
-14.
+14. eigenständig Beiträge herstellen,
 
-15.
+15. fiktionale Formate produzieren und gestalten,
 
-16.
+16. Inhalte für soziale Netzwerke entwickeln,
 
-17.
+17. Produktionen organisieren und koordinieren und
 
-18.
+18. produktionsbezogenes Datenmanagement unterstützen.
 
 (5) Die Berufsbildpositionen der wahlqualifikationsübergreifenden, integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. Berufsbildung sowie Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-4.
+4. Umweltschutz,
 
-5.
+5. kommunizieren und Kooperation fördern,
 
-6.
+6. Projekte planen, durchführen und abschließen,
 
-7.
+7. Gefährdungen bei Produktionen vermeiden und
 
-8.
+8. rechtliche Grundlagen der Medienproduktion einhalten.
 
 ### § 5 — Ausbildungsplan
 
@@ -134,39 +130,39 @@ Die Zwischenprüfung findet im vierten Ausbildungshalbjahr statt. Den Zeitpunkt 
 
 Die Zwischenprüfung erstreckt sich auf
 
-1.
+1. die im Ausbildungsrahmenplan für die ersten 18 Monate genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 ### § 8 — Prüfungsbereiche
 
 Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
-1.
+1. Audiovisuelle Medienprodukte vorbereiten und herstellen und
 
-2.
+2. Produktionssysteme in Betrieb nehmen und bedienen.
 
 ### § 9 — Prüfungsbereich Audiovisuelle Medienprodukte vorbereiten und herstellen
 
 (1) Im Prüfungsbereich Audiovisuelle Medienprodukte vorbereiten und herstellen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. Produktionsmittel zur Herstellung und Bearbeitung von Bild- und Tonaufnahmen auszuwählen, einzurichten und unter Beachtung von Sicherheit und Gesundheitsschutz bei der Arbeit sowie Umweltschutz einzusetzen,
 
-2.
+2. redaktionelle, technische und gestalterische Vorgaben bei der Herstellung und Bearbeitung von Bild- und Tonaufnahmen zu beachten und umzusetzen,
 
-3.
+3. Informationen zu beschaffen und auszuwerten, auch in englischer Sprache,
 
-4.
+4. Produktionskomponenten zu verbinden und zu vernetzen,
 
-5.
+5. Bild- und Tonaufnahmen herzustellen,
 
-6.
+6. Lichtsituationen nach gestalterischen und technischen Vorgaben einzurichten,
 
-7.
+7. Audiosignale in Mono und Stereo zu übertragen, aufzuzeichnen und zu verarbeiten,
 
-8.
+8. Daten zu organisieren und zu sichern und
 
-9.
+9. rechtliche Regelungen bei der Medienproduktion zu beachten.
 
 (2) Der Prüfling hat Aufgaben schriftlich zu bearbeiten.
 
@@ -176,19 +172,11 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (1) Im Prüfungsbereich Produktionssysteme in Betrieb nehmen und bedienen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. Arbeitsaufträge auszuwerten und Arbeitsschritte unter Beachtung von Sicherheit und Gesundheitsschutz bei der Arbeit festzulegen,
 
-2.
+2. medientechnische Systeme und Produktionsmittel a)zur Herstellung von Bild- und Tonaufnahmen ohne Regieeinrichtungen in Betrieb zu nehmen und zu bedienen,b)zur Herstellung von Bild- und Tonaufnahmen mit Regieeinrichtungen in Betrieb zu nehmen und zu bedienen,c)zur Bearbeitung von Bild- und Tonmaterial einzurichten und zu bedienen oderd)zur Herstellung und Bearbeitung von Tonaufnahmen einzusetzen und zu bedienen sowie zur Herstellung von Bild- und Tonaufnahmen ohne Regieeinrichtungen in Betrieb zu nehmen und zu bedienen, zur Herstellung von Bild- und Tonaufnahmen mit Regieeinrichtungen in Betrieb zu nehmen und zu bedienen, zur Bearbeitung von Bild- und Tonmaterial einzurichten und zu bedienen oder zur Herstellung und Bearbeitung von Tonaufnahmen einzusetzen und zu bedienen sowie
 
-a)
-
-b)
-
-c)
-
-d)
-
-3.
+3. die eigene Vorgehensweise zu erklären.
 
 (2) Der Prüfling hat eine Arbeitsprobe durchzuführen. Während der Durchführung wird mit ihm ein situatives Fachgespräch über die Arbeitsprobe geführt.
 
@@ -204,35 +192,35 @@ Die Abschlussprüfung findet am Ende der Berufsausbildung statt. Den Zeitpunkt l
 
 Die Abschlussprüfung erstreckt sich auf
 
-1.
+1. die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 ### § 13 — Prüfungsbereiche
 
 Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
-1.
+1. Realisieren eines Bild- und Tonproduktes,
 
-2.
+2. Wahlqualifikationen,
 
-3.
+3. Bild- und Tonproduktion sowie
 
-4.
+4. Wirtschafts- und Sozialkunde.
 
 ### § 14 — Prüfungsbereich Realisieren eines Bild- und Tonproduktes
 
 (1) Im Prüfungsbereich Realisieren eines Bild- und Tonproduktes hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. auf der Grundlage redaktioneller Vorgaben ein Realisierungskonzept zu entwickeln und daraus Produktionsunterlagen zu erstellen,
 
-2.
+2. Arbeitsabläufe gewerkübergreifend zu planen, einen Produktionsstab zusammenzustellen und den Produktionsablauf nach inhaltlichen, rechtlichen und wirtschaftlichen Gesichtspunkten zu steuern,
 
-3.
+3. ein Bild- und Tonprodukt genre- und formatgerecht unter Berücksichtigung technischer Standards und gestalterischer Aspekte zeitgerecht umzusetzen,
 
-4.
+4. Abläufe zu dokumentieren und
 
-5.
+5. das Bild- und Tonprodukt mit Medienbegleitdaten bereitzustellen.
 
 (2) Der Prüfling hat als Prüfungsstück ein Bild- und Tonprodukt zu erstellen und den Ablauf mit praxisüblichen Unterlagen zu dokumentieren. Für das Bild- und Tonprodukt erhält er vom Prüfungsausschuss eine redaktionelle Vorgabe. Die Länge des Bild- und Tonproduktes muss zwischen zwei und fünf Minuten liegen.
 
@@ -242,15 +230,15 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 ### § 15 — Prüfungsbereich Wahlqualifikationen
 
-(1) Im Prüfungsbereich Wahlqualifikationen hat der Prüfling nachzuweisen, dass er in der Lage ist, Für den Nachweis ist die erste im Ausbildungsvertrag festgelegte Wahlqualifikation zugrunde zu legen.
+(1) Im Prüfungsbereich Wahlqualifikationen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. Aufgabenstellungen zu erfassen, zu analysieren und Arbeitsschritte daraus abzuleiten,
 
-2.
+2. Produktionsmittel gemäß Aufgabenstellung auszuwählen oder vorzubereiten,
 
-3.
+3. Produktionsmittel gemäß Aufgabenstellung einzusetzen und
 
-4.
+4. Gefährdungen zu vermeiden.
 
 (2) Der Prüfling hat eine Arbeitsprobe durchzuführen. Während der Durchführung ist mit ihm ein situatives Fachgespräch über die Arbeitsprobe zu führen. Gegenstand des situativen Fachgesprächs ist zudem die zweite im Ausbildungsvertrag festgelegte Wahlqualifikation.
 
@@ -260,25 +248,25 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (1) Im Prüfungsbereich Bild- und Tonproduktion hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. Aufträge für Bild- und Tonaufnahmen auszuwerten und die Umsetzung dieser Aufträge zu planen,
 
-2.
+2. Produktionsabläufe und -mittel nach technischen, inhaltlichen, gestalterischen und zeitlichen Gesichtspunkten zu planen und zu organisieren,
 
-3.
+3. Produktionskomponenten zu konfigurieren und miteinander zu verbinden,
 
-4.
+4. rechtliche Vorgaben einzuhalten und wirtschaftliche Grundlagen und die Rolle der Medien in der Gesellschaft zu berücksichtigen,
 
-5.
+5. Gefährdungen zu beurteilen und Sicherheitsvorkehrungen zu beschreiben,
 
-6.
+6. Lichtsituationen nach technischen und gestalterischen Vorgaben zu planen und darzustellen,
 
-7.
+7. Bild- und Tonmaterial sowie Bildeffekte, Grafiken und Schriften unter technischen und gestalterischen Gesichtspunkten zu beurteilen, zu prüfen und auszuwerten,
 
-8.
+8. Möglichkeiten der Bild- und Tongestaltung zu benennen und anzuwenden,
 
-9.
+9. Montageformen zu erkennen, zu beschreiben und anzuwenden und
 
-10.
+10. Datenschutz und Datensicherheit zu gewährleisten.
 
 (2) Der Prüfling hat Aufgaben schriftlich zu bearbeiten.
 
@@ -296,37 +284,33 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
-1.
+1. Realisieren eines Bild- und Tonproduktesmit 30 Prozent,
 
-2.
+2. Wahlqualifikationenmit 30 Prozent,
 
-3.
+3. Bild- und Tonproduktionmit 30 Prozent sowie
 
-4.
+4. Wirtschafts- und Sozialkundemit 10 Prozent.
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen – auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 19 – wie folgt bewertet worden sind:
 
-1.
+1. im Gesamtergebnis mit mindestens „ausreichend“,
 
-2.
+2. in mindestens drei Prüfungsbereichen mit mindestens „ausreichend“ und
 
-3.
+3. in keinem Prüfungsbereich mit „ungenügend“.
 
 ### § 19 — Mündliche Ergänzungsprüfung
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
-(2) Dem Antrag ist stattzugeben, Die mündliche Ergänzungsprüfung darf nur in einem einzigen Prüfungsbereich durchgeführt werden.
+(2) Dem Antrag ist stattzugeben,
 
-1.
+1. wenn er für einen der folgenden Prüfungsbereiche gestellt worden ist: a)Bild- und Tonproduktion oderb)Wirtschafts- und Sozialkunde, Bild- und Tonproduktion oder Wirtschafts- und Sozialkunde,
 
-a)
+2. wenn der benannte Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
-b)
-
-2.
-
-3.
+3. wenn die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 (3) Die mündliche Ergänzungsprüfung soll 15 Minuten dauern.
 
@@ -338,454 +322,10 @@ b)
 
 Diese Verordnung tritt am 1. August 2020 in Kraft. Gleichzeitig treten außer Kraft
 
-1.
+1. die Verordnung über die Berufsausbildung zum Mediengestalter Bild und Ton/zur Mediengestalterin Bild und Ton vom 26. Mai 2006 (BGBl. I S. 1271) und
 
-2.
+2. die Verordnung über die Berufsausbildung zum Film- und Videoeditor/zur Film- und Videoeditorin vom 29. Januar 1996 (BGBl. I S. 125).
 
 ### Anlage — (zu § 3 Absatz 1)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-p)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-ff)
-
-gg)
-
-hh)
-
-b)
-
-c)
-
-d)
 
 > Abschnitt B Nummer 4 Spalte 2 Kursivdruck: Fachlich ist wohl § 4 Absatz 3 Nummer 4 gemeint.

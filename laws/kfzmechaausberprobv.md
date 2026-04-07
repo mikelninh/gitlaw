@@ -12,7 +12,9 @@ Auf Grund des § 28 Abs. 3 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 ### § 3 — Übergangsregelung
 
-(1) (weggefallen)(2) Auf Berufsausbildungsverhältnisse, die bis zum 31. Juli 2007 begonnen wurden, sind die Vorschriften dieser Verordnung weiter anzuwenden.
+(1) (weggefallen)
+
+(2) Auf Berufsausbildungsverhältnisse, die bis zum 31. Juli 2007 begonnen wurden, sind die Vorschriften dieser Verordnung weiter anzuwenden.
 
 ### § 4 — Inkrafttreten, Außerkrafttreten
 

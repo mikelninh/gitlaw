@@ -14,83 +14,79 @@
 
 (1) Diese Verordnung regelt nähere Anforderungen, insbesondere
 
-1.
+1. zur Vorsorge gegen das Entstehen schädlicher Bodenveränderungen, einschließlich Anforderungen an das Auf- oder Einbringen von Materialien auf oder in den Boden sowie Vorsorgewerte und zulässige Zusatzbelastungen,
 
-2.
+2. zur Gefahrenabwehr bei Bodenerosion,
 
-3.
+3. zur Untersuchung, Bewertung und Sanierung von schädlichen Bodenveränderungen und Altlasten, einschließlich Anforderungen an Sanierungsuntersuchungen und Sanierungsplanung sowie Prüf- und Maßnahmenwerte,
 
-4.
+4. an die Vorerkundung, Probennahme und -analyse.
 
 (2) Diese Verordnung gilt nicht für
 
-1.
+1. den Einbau von mineralischen Ersatzbaustoffen in technische Bauwerke, soweit dieser nach Maßgabe der Ersatzbaustoffverordnung vom 9. Juli 2021 (BGBl. I S. 2598) erfolgt,
 
-2.
+2. das Auf- oder Einbringen von Baggergut unterhalb oder außerhalb einer durchwurzelbaren Bodenschicht im Deichbau,
 
-3.
+3. das Auf- oder Einbringen von Materialien unterhalb oder außerhalb einer durchwurzelbaren Bodenschicht auf Halden oder in Absetzteichen des Bergbaus sowie die Herstellung einer durchwurzelbaren Bodenschicht auf Halden des Kalibergbaus, soweit auf der Halde nicht eine regelmäßige Nutzung durch Park- und Freizeitanlagen geplant ist,
 
-4.
+4. das Einbringen von Materialien in bergbauliche Hohlräume gemäß der Versatzverordnung,
 
-5.
+5. das Einbringen von Materialien in Anlagen des Bundes gemäß § 9a Absatz 3 des Atomgesetzes in der Fassung der Bekanntmachung vom 15. Juli 1985 (BGBl. I S. 1565), das zuletzt durch Artikel 3 des Gesetzes vom 12. Mai 2021 (BGBl. I S. 1087) geändert worden ist,
 
-6.
+6. das Auf- oder Einbringen von Materialien nach den Vorschriften des Dünge- und Pflanzenschutzrechts.
 
 ### § 2 — Begriffsbestimmungen
 
 Für diese Verordnung gelten folgende Begriffsbestimmungen:
 
-1.
+1. Bodenansprache: Beschreibung von Bodenhorizonten und -profilen sowie die bodenkundliche und sensorische Beurteilung von Bodenproben in dem Umfang, in dem er jeweils für den vorsorgenden Bodenschutz oder für die Gefahrenbeurteilung nach dieser Verordnung erforderlich ist;
 
-2.
+2. Oberboden: oberer Teil des Mineralbodens, der einen der jeweiligen Bodenbildung entsprechenden Anteil an Humus und Bodenorganismen enthält und der sich meist durch dunklere Bodenfarbe vom Unterboden abhebt, in der Regel Ah-, Aa-, Al-, Ac- und Ap-Horizonte; die organischen O- und L-Horizonte zählen zum Oberboden im Sinne dieser Verordnung; Mutterboden im Sinne des § 202 Baugesetzbuch entspricht dem Oberboden;
 
-3.
+3. Unterboden: Bereich zwischen Oberboden und Untergrund, der im Allgemeinen die B-Horizonte umfasst, je nach Bodentyp auch P-, T-, S-, G-, M-, und Yo-Horizonte;
 
-4.
+4. Untergrund: Bereich unterhalb des Unterbodens mit durch Verwitterung und Bodenbildung nicht beeinflusstem Gestein, einschließlich Lockersedimenten, der in der Regel das Ausgangsgestein der Bodenbildung darstellt; in der Regel C-Horizonte; auch H-, G- und S-Horizonte, wenn bei Stau- und Grundwasserböden sowie Mooren keine C-Horizonte erkennbar sind und mehr als die Hälfte der Horizontmächtigkeit tiefer als 120 Zentimeter unterhalb der Erdoberfläche liegt;
 
-5.
+5. durchwurzelbare Bodenschicht: Bodenschicht, die von den Pflanzenwurzeln in Abhängigkeit von den natürlichen Standortbedingungen durchdrungen werden kann; sie schließt in der Regel den Oberboden und den Unterboden ein;
 
-6.
+6. Bodenmaterial: Material aus dem Oberboden, dem Unterboden oder dem Untergrund, das ausgehoben, abgeschoben, abgetragen oder in einer Aufbereitungsanlage behandelt wird oder wurde;
 
-7.
+7. Baggergut: Material, das im Rahmen von Unterhaltungs-, Neu- und Ausbaumaßnahmen oder bei Maßnahmen der Errichtung, Unterhaltung oder Stilllegung von Anlagen in, an, über und unter oberirdischen Gewässern entnommen wurde; Baggergut kann bestehen aus Sedimenten und Material aus subhydrischen Böden der Gewässersohle, aus dem Oberboden, dem Unterboden oder dem Untergrund im unmittelbaren Umfeld des Gewässerbettes oder aus Material aus Oberböden im Ufer- und Überschwemmungsbereich des Gewässers;
 
-8.
+8. mineralische Fremdbestandteile: mineralische Bestandteile im Bodenmaterial oder im Baggergut, die keine natürlichen Bodenausgangssubstrate sind, insbesondere Beton, Ziegel, Keramik, Bauschutt, Straßenaufbruch und Schlacke;
 
-9.
+9. Störstoffe: in der Regel Gegenstände im Bodenmaterial oder im Baggergut, die deren Verwertungseignung nachteilig beeinflussen können, insbesondere behandeltes Holz, Kunststoffe, Glas und Metallteile;
 
-10.
+10. Erosionsfläche: Fläche, von der Bodenmaterial durch Wind oder Wasser abgetragen wird;
 
-11.
+11. Schadstoffe: Stoffe und Stoffgemische, die auf Grund ihrer Gesundheitsschädlichkeit, Ökotoxizität oder anderer Eigenschaften geeignet sind, in Abhängigkeit von ihren Gehalten oder Konzentrationen unter Berücksichtigung ihrer Bioverfügbarkeit und Langlebigkeit, schädliche Bodenveränderungen oder sonstige Gefahren herbeizuführen;
 
-12.
+12. Expositionsbedingungen: durch örtliche Umstände und die Grundstücksnutzung im Einzelfall geprägte Art und Weise, in der Schutzgüter der Wirkung von Schadstoffen oder physikalischen Einwirkungen ausgesetzt sein können;
 
-13.
+13. Wirkungspfad: Weg eines Schadstoffes von der Schadstoffquelle bis zu dem Ort einer möglichen Wirkung auf ein Schutzgut;
 
-14.
+14. Einwirkungsbereich: Bereich, in dem von einem Grundstück im Sinne des § 2 Absatz 4 bis 6 des Bundes-Bodenschutzgesetzes oder von einem schädlich veränderten Boden im Sinne des § 2 Absatz 3 des Bundes-Bodenschutzgesetzes Einwirkungen auf Schutzgüter zu erwarten sind oder in dem durch Einwirkungen auf den Boden die Besorgnis des Entstehens schädlicher Bodenveränderungen hervorgerufen wird;
 
-15.
+15. Sickerwasserprognose: Abschätzung der von einer Verdachtsfläche, altlastverdächtigen Fläche, schädlichen Bodenveränderung oder Altlast ausgehenden oder zu erwartenden Schadstoffeinträge über das Sickerwasser in das Grundwasser, unter Berücksichtigung von Konzentrationen und Frachten und bezogen auf den Ort der Beurteilung;
 
-16.
+16. Ort der Beurteilung: für den Wirkungspfad Boden-Grundwasser der Übergangsbereich von der wasserungesättigten zur wassergesättigten Bodenzone;
 
-17.
+17. natürliche Schadstoffminderung: Ergebnis biologischer, chemischer oder physikalischer Prozesse, die ohne menschliches Eingreifen zu einer Verringerung der Masse, des Volumens, der Fracht, der Konzentration, der Toxizität oder der Mobilität eines Schadstoffes im Boden oder im Grundwasser führen;
 
-18.
+18. Kinderspielflächen: Aufenthaltsbereiche für Kinder, die regelmäßig zum Spielen genutzt werden, ohne den Spielsand von Sandkästen;
 
-19.
+19. Wohngebiete: dem Wohnen dienende Gebiete, einschließlich Hausgärten und sonstiger Gärten gleichartiger Nutzung, auch wenn sie nicht im Sinne der Baunutzungsverordnung als Wohngebiet planungsrechtlich dargestellt oder festgesetzt sind, ausgenommen Park- und Freizeitanlagen, Kinderspielflächen sowie befestigte Verkehrsflächen;
 
-20.
+20. Park- und Freizeitanlagen: a)Anlagen für soziale, gesundheitliche oder sportliche Zwecke, insbesondere öffentliche und private Grünanlagen, einschließlich Bolzplätzen und Sportflächen,b)unbefestigte Flächen, die regelmäßig zugänglich sind und vergleichbar zu den in Buchstabe a genannten Anlagen genutzt werden; Anlagen für soziale, gesundheitliche oder sportliche Zwecke, insbesondere öffentliche und private Grünanlagen, einschließlich Bolzplätzen und Sportflächen, unbefestigte Flächen, die regelmäßig zugänglich sind und vergleichbar zu den in Buchstabe a genannten Anlagen genutzt werden;
 
-a)
+21. Industrie- und Gewerbegrundstücke: unbefestigte Flächen von Arbeits- und Produktionsstätten, die nur während der Arbeitszeit genutzt werden;
 
-b)
+22. Ackerflächen: Flächen zum Anbau von Ackerkulturen, einschließlich Gemüse und Feldfutter, hierzu zählen auch erwerbsgärtnerisch genutzte Flächen;
 
-21.
+23. Nutzgärten: Hausgarten-, Kleingarten- und sonstige Gartenflächen, die zum Anbau von Nahrungspflanzen genutzt werden;
 
-22.
-
-23.
-
-24.
+24. Grünlandflächen: landwirtschaftlich genutzte Flächen, auf denen Gräser oder andere krautige Pflanzen eingesät sind oder natürlich wachsen und die beweidet oder zur Futtergewinnung genutzt werden.
 
 ## Abschnitt 2: Vorsorge gegen das Entstehen schädlicher Bodenveränderungen
 
@@ -98,13 +94,13 @@ b)
 
 (1) Das Entstehen schädlicher Bodenveränderungen ist in der Regel zu besorgen, wenn
 
-1.
+1. Böden Schadstoffgehalte aufweisen, die die Vorsorgewerte nach Anlage 1 Tabelle 1 oder 2 überschreiten,
 
-2.
+2. eine erhebliche Anreicherung von anderen Schadstoffen in Böden erfolgt, die auf Grund ihrer krebserzeugenden, erbgutverändernden, fortpflanzungsgefährdenden oder toxischen Eigenschaften in besonderem Maße geeignet sind, schädliche Bodenveränderungen herbeizuführen,
 
-3.
+3. physikalische Einwirkungen den Boden verändern und dadurch die natürlichen Funktionen sowie die Nutzungsfunktion als Standort für die land- oder forstwirtschaftliche Nutzung erheblich beeinträchtigt werden können, oder
 
-4.
+4. Stoffeinträge den Bodenzustand irreversibel verändern und dadurch die Bodenfunktionen erheblich beeinträchtigt werden können.
 
 (2) Bei Böden mit naturbedingt oder großflächig siedlungsbedingt erhöhten Schadstoffgehalten besteht bei Überschreiten von Vorsorgewerten nach Anlage 1 Tabelle 1 oder 2 die Besorgnis des Entstehens schädlicher Bodenveränderungen nur dann, wenn eine erhebliche Freisetzung von Schadstoffen oder zusätzliche Einträge durch die nach § 7 Satz 1 des Bundes-Bodenschutzgesetzes Pflichtigen nachteilige Auswirkungen auf die Bodenfunktionen erwarten lassen.
 
@@ -118,7 +114,7 @@ b)
 
 (4) Zur Einhaltung der sich aus den Absätzen 1, 2 und 3 ergebenden Anforderungen kann die zuständige Behörde nach § 10 Absatz 1 Satz 1 des Bundes-Bodenschutzgesetzes die erforderlichen Maßnahmen treffen.
 
-(5) Bei Vorhaben, bei denen auf einer Fläche von mehr als 3 000 Quadratmetern Materialien auf oder in die durchwurzelbare Bodenschicht auf- oder eingebracht werden, Bodenmaterial aus dem Ober- oder Unterboden ausgehoben oder abgeschoben wird oder der Ober- und Unterboden dauerhaft oder vorübergehend vollständig oder teilweise verdichtet wird, kann die für die Zulassung des Vorhabens zuständige Behörde im Benehmen mit der für den Bodenschutz zuständigen Behörde von dem nach § 7 Satz 1 des Bundes-Bodenschutzgesetzes Pflichtigen die Beauftragung einer bodenkundlichen Baubegleitung nach DIN 19639 im Einzelfall verlangen. Satz 1 gilt entsprechend, wenn das Vorhaben einer Anzeige an eine Behörde bedarf oder von einer Behörde durchgeführt wird.
+(5) Bei Vorhaben, bei denen auf einer Fläche von mehr als 3 000 Quadratmetern Materialien auf oder in die durchwurzelbare Bodenschicht auf- oder eingebracht werden, Bodenmaterial aus dem Ober- oder Unterboden ausgehoben oder abgeschoben wird oder der Ober- und Unterboden dauerhaft oder vorübergehend vollständig oder teilweise verdichtet wird, kann die für die Zulassung des Vorhabens zuständige Behörde im Benehmen mit der für den Bodenschutz zuständigen Behörde von dem nach § 7 Satz 1 des Bundes-Bodenschutzgesetzes Pflichtigen die Beauftragung einer bodenkundlichen Baubegleitung nach DIN 19639 im Einzelfall verlangen. Satz 1 gilt entsprechend, wenn das Vorhaben einer Anzeige an eine Behörde bedarf oder von einer Behörde durchgeführt wird.
 
 ### § 5 — Zulässige Zusatzbelastung
 
@@ -134,9 +130,9 @@ b)
 
 (2) Das Auf- und Einbringen von Materialien oder die Herstellung einer durchwurzelbaren Bodenschicht ist nur zulässig, wenn
 
-1.
+1. nach Art, Menge, Schadstoffgehalten, Schadstoffkonzentrationen und physikalischen Eigenschaften der Materialien sowie nach den Schadstoffgehalten der Böden am Ort des Auf- und Einbringens das Entstehen einer schädlichen Bodenveränderung nach § 3 nicht zu besorgen ist und
 
-2.
+2. mindestens eine der in § 2 Absatz 2 Nummer 1 und Nummer 3 Buchstabe b und c des Bundes-Bodenschutzgesetzes genannten Bodenfunktionen nachhaltig verbessert, gesichert oder wiederhergestellt wird.
 
 (3) Eine schädliche Bodenveränderung im Sinne des Absatzes 2 ist aufgrund von Schadstoffgehalten nicht zu besorgen, wenn Bodenmaterial oder Baggergut am Herkunftsort oder in dessen räumlichen Umfeld unter vergleichbaren Bodenverhältnissen sowie geologischen und hydrogeologischen Bedingungen umgelagert wird und das Vorliegen einer Altlast oder sonstigen schädlichen Bodenveränderung aufgrund von Schadstoffgehalten auszuschließen ist.
 
@@ -146,11 +142,11 @@ b)
 
 (6) Von einer analytischen Untersuchung von Bodenmaterial und Baggergut nach Absatz 5 Satz 2 und 3 kann abgesehen werden, wenn
 
-1.
+1. sich bei einer Vorerkundung nach § 18 durch einen Sachverständigen im Sinne des § 18 des Bundes-Bodenschutzgesetzes oder durch eine Person mit vergleichbarer Sachkunde keine Anhaltspunkte ergeben, dass die Materialien die Vorsorgewerte nach Anlage 1 Tabelle 1 und 2 dieser Verordnung überschreiten und keine Hinweise auf weitere Belastungen der Materialien vorliegen,
 
-2.
+2. die im Rahmen der jeweiligen Maßnahme angefallene Menge nicht mehr als 500 Kubikmeter beträgt und sich nach Inaugenscheinnahme der Materialien am Herkunftsort und auf Grund der Vornutzung der betreffenden Grundstücke keine Anhaltspunkte ergeben, dass die Materialen die in Nummer 1 genannten Werte überschreiten und keine Hinweise auf weitere Belastungen der Materialien vorliegen oder
 
-3.
+3. die Materialien am Herkunftsort oder in dessen räumlichen Umfeld oder innerhalb eines Gebietes im Sinne des Absatzes 4 umgelagert werden, das Vorliegen einer Altlast oder sonstigen schädlichen Bodenveränderung aufgrund von Schadstoffgehalten auszuschließen ist und durch die Umlagerung das Entstehen einer schädlichen Bodenveränderung nicht zu besorgen ist.
 
 (7) Die nach § 7 Satz 1 des Bundes-Bodenschutzgesetzes Pflichtigen haben die Untersuchungsergebnisse nach Absatz 5 oder das Vorliegen der Voraussetzungen des Absatzes 6 spätestens vor dem Auf- oder Einbringen zu dokumentieren. Die Dokumente sind nach Beendigung der Auf- oder Einbringungsmaßnahme zehn Jahre aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 
@@ -166,11 +162,11 @@ b)
 
 ### § 7 — Zusätzliche Anforderungen an das Auf- oder Einbringen von Materialien auf oder in eine durchwurzelbare Bodenschicht
 
-(1) Die nach § 7 Satz 1 des Bundes-Bodenschutzgesetzes Pflichtigen dürfen für das Auf- oder Einbringen auf oder in eine durchwurzelbare Bodenschicht sowie für die Herstellung einer durchwurzelbaren Bodenschicht nur verwenden. Mineralische Fremdbestandteile in Bodenmaterial und Baggergut sind zulässig, sofern sie bereits beim Anfall enthalten waren und ihr Anteil 10 Volumenprozent nicht überschreitet. Störstoffe sind nur in einem vernachlässigbaren und unvermeidbaren Anteil zulässig.
+(1) Die nach § 7 Satz 1 des Bundes-Bodenschutzgesetzes Pflichtigen dürfen für das Auf- oder Einbringen auf oder in eine durchwurzelbare Bodenschicht sowie für die Herstellung einer durchwurzelbaren Bodenschicht nur
 
-1.
+1. Bodenmaterial und Baggergut sowie
 
-2.
+2. Gemische von Materialien nach Nummer 1 mit solchen Abfällen, die die stofflichen Qualitätsanforderungen nach § 3 Absatz 2 Satz 1, § 3a Satz 2 und § 4 Absatz 1, Absatz 3 Satz 1 bis 3, Absatz 4, auch in Verbindung mit § 5 Absatz 1 der Bioabfallverordnung sowie nach § 8 Absatz 1, Absatz 2 Satz 1 und § 11 der Klärschlammverordnung erfüllen,
 
 (2) Eine schädliche Bodenveränderung im Sinne des § 6 Absatz 2 ist aufgrund von Schadstoffgehalten nicht zu besorgen, wenn die nach Absatz 1 zur Verwendung zulässigen Materialien die Vorsorgewerte nach Anlage 1 Tabelle 1 und 2 dieser Verordnung einhalten oder nach Anlage 1 Tabelle 3 der Ersatzbaustoffverordnung als Bodenmaterial der Klasse 0 oder Baggergut der Klasse 0 – BM-0 oder BG-0 – klassifiziert wurden und auf Grund der Herkunft und der bisherigen Nutzung keine Hinweise auf weitere Belastungen der Materialien vorliegen. Sind die Anforderungen nach Satz 1 erfüllt, bedarf das Auf- oder Einbringen keiner Erlaubnis nach § 8 Absatz 1 des Wasserhaushaltsgesetzes.
 
@@ -180,67 +176,67 @@ b)
 
 (5) Die Nährstoffzufuhr durch das Auf- oder Einbringen der Materialien ist nach Menge und Verfügbarkeit dem Pflanzenbedarf der Folgevegetation anzupassen, um insbesondere Nährstoffeinträge in Gewässer zu vermeiden. Die entsprechenden Anforderungen der DIN 18919 sind zu beachten.
 
-(6) Das Auf- oder Einbringen von Materialien auf oder in eine bestehende durchwurzelbare Bodenschicht ist nicht zulässig auf Flächen, die die in § 2 Absatz 2 Nummer 1 oder 2 des Bundes-Bodenschutzgesetzes genannten Bodenfunktionen im besonderen Maße erfüllen. Das Auf- oder Einbringungsverbot gilt auch für Böden in Die für den Schutz der in den Sätzen 1 und 2 Nummer 2 bis 11 genannten Flächen zuständige Behörde und im Falle des Satzes 2 Nummer 1 die Forstbehörde kann im Benehmen mit der für den Bodenschutz zuständigen Behörde Abweichungen von den Verboten der Sätze 1 und 2 zulassen, wenn das Auf- oder Einbringen aus land- oder forstwirtschaftlichen Gründen, aus Gründen des Naturschutzes und der Landschaftspflege oder zum Schutz des Grundwassers erforderlich ist. Regelungen aufgrund der §§ 51 bis 53 des Wasserhaushaltsgesetzes bleiben unberührt.
+(6) Das Auf- oder Einbringen von Materialien auf oder in eine bestehende durchwurzelbare Bodenschicht ist nicht zulässig auf Flächen, die die in § 2 Absatz 2 Nummer 1 oder 2 des Bundes-Bodenschutzgesetzes genannten Bodenfunktionen im besonderen Maße erfüllen. Das Auf- oder Einbringungsverbot gilt auch für Böden in
 
-1.
+1. Wäldern,
 
-2.
+2. Wasserschutzgebieten und Heilquellenschutzgebieten der Zonen I und II,
 
-3.
+3. Naturschutzgebieten,
 
-4.
+4. Nationalparks,
 
-5.
+5. nationalen Naturmonumenten,
 
-6.
+6. Biosphärenreservaten,
 
-7.
+7. Naturdenkmälern,
 
-8.
+8. geschützten Landschaftsbestandteilen,
 
-9.
+9. Natura 2000-Gebieten und
 
-10.
+10. gesetzlich geschützten Biotopen im Sinne des § 30 des Bundesnaturschutzgesetzes sowie
 
-11.
+11. den Kernzonen von Naturschutzgroßprojekten des Bundes von gesamtstaatlicher Bedeutung.
 
-(7) Beim Auf- oder Einbringen von im räumlichen Umfeld des Herkunftsortes unter vergleichbaren Bodenverhältnissen sowie geologischen und hydrogeologischen Bedingungen ist eine schädliche Bodenveränderung im Sinne des § 6 Absatz 2 aufgrund von Schadstoffgehalten nicht zu besorgen. Überschreiten die Materialien die Vorsorgewerte nach Anlage 1 Tabelle 1 und 2 nicht erheblich und sollen Materialien nach Satz 1 Nummer 2 nicht im räumlichen Umfeld des Herkunftsortes auf- oder eingebracht werden oder ist der Herkunftsort der Materialien nicht mehr eindeutig zuzuordnen, kann die für den Bodenschutz zuständige Behörde im Einzelfall das Auf- oder Einbringen gestatten, wenn nachgewiesen wird, dass trotz der Überschreitung eine ordnungsgemäße und schadlose Verwertung erfolgt und das Entstehen einer schädlichen Bodenveränderung nicht zu besorgen ist.
+(7) Beim Auf- oder Einbringen von
 
-1.
+1. abgetragenem Bodenmaterial nach Erosionsereignissen,
 
-2.
+2. Bodenmaterial aus der Reinigung landwirtschaftlicher Ernteprodukte oder
 
-3.
+3. Baggergut aus der Unterhaltung von Entwässerungsgräben
 
 ### § 8 — Zusätzliche Anforderungen an das Auf- oder Einbringen von Materialien unterhalb oder außerhalb einer durchwurzelbaren Bodenschicht
 
-(1) Die nach § 7 Satz 1 des Bundes-Bodenschutzgesetzes Pflichtigen dürfen für das Auf- oder Einbringen unterhalb oder außerhalb einer durchwurzelbaren Bodenschicht nur verwenden. Mineralische Fremdbestandteile sind zulässig, sofern sie bereits beim Anfall enthalten waren und ihr Anteil 10 Volumenprozent nicht überschreiten. Störstoffe sind nur in einem vernachlässigbaren und unvermeidbaren Anteil zulässig. Ist bei der Umlagerung von Bodenmaterial in Braunkohletagebauen der gesonderte Abtrag des Oberbodens mit einem unverhältnismäßigen Aufwand verbunden, darf abweichend von Satz 1 Nummer 1 Bodenmaterial mit Oberboden unterhalb der durchwurzelbaren Bodenschicht verwendet werden.
+(1) Die nach § 7 Satz 1 des Bundes-Bodenschutzgesetzes Pflichtigen dürfen für das Auf- oder Einbringen unterhalb oder außerhalb einer durchwurzelbaren Bodenschicht nur
 
-1.
+1. Bodenmaterial ohne Oberboden und
 
-2.
+2. Baggergut, das aus Sanden und Kiesen besteht und dessen Feinkornanteil, der kleiner als 63 Mikrometer ist, höchstens 10 Masseprozent beträgt,
 
 (2) Eine schädliche Bodenveränderung im Sinne des § 6 Absatz 2 ist aufgrund von Schadstoffgehalten nicht zu besorgen, wenn die Materialien die Vorsorgewerte nach Anlage 1 Tabelle 1 und 2 dieser Verordnung einhalten oder nach Anlage 1 Tabelle 3 der Ersatzbaustoffverordnung als Bodenmaterial der Klasse 0 oder Baggergut der Klasse 0 Sand – BM-0 oder BG-0 Sand – klassifiziert wurden und auf Grund von Herkunft und bisheriger Nutzung keine Hinweise auf weitere Belastungen der Materialien vorliegen.
 
 (3) Bei der Verfüllung einer Abgrabung oder eines Tagebaus und beim Massenausgleich im Rahmen einer Baumaßnahme ist eine schädliche Bodenveränderung auch dann nicht zu besorgen, wenn
 
-1.
+1. die Materialien die Werte nach Anlage 1 Tabelle 4 dieser Verordnung einhalten oder nach Anlage 1 Tabelle 3 der Ersatzbaustoffverordnung als Bodenmaterial der Klasse 0* oder Baggergut der Klasse 0* – BM-0* oder BG-0* – klassifiziert wurden,
 
-2.
+2. auf Grund von Herkunft und bisheriger Nutzung keine Hinweise auf weitere Belastungen der Materialien vorliegen,
 
-3.
+3. die Materialien gemessen vom tiefsten Punkt der Auf- oder Einbringung in einem Abstand von mindestens 1 Meter zum höchsten aus Messdaten ermittelten oder abgeleiteten sowie jeweils von nicht dauerhafter, künstlicher Grundwasserabsenkung unbeeinflussten Grundwasserstand am Auf- und Einbringungsort zuzüglich eines Sicherheitsabstands von 0,5 Meter auf- oder eingebracht werden und
 
-4.
+4. oberhalb der auf- oder eingebrachten Materialien eine mindestens 2 Meter mächtige durchwurzelbare Bodenschicht gemäß den Anforderungen der §§ 6 und 7 aufgebracht wird, soweit auf der betreffenden Fläche nicht ein technisches Bauwerk errichtet werden soll. Die zuständige Behörde kann im Einzelfall geringere Mächtigkeiten gestatten, wenn nachgewiesen ist, dass eine schädliche Bodenveränderung nicht zu besorgen ist.
 
 (4) Sind die Anforderungen nach Absatz 2 oder 3 erfüllt, bedarf das Auf- oder Einbringen keiner Erlaubnis nach § 8 Absatz 1 des Wasserhaushaltsgesetzes.
 
-(5) Bei Vorliegen der Voraussetzungen nach Absatz 2 ist das Auf- und Einbringen von Materialien abweichend von Absatz 2 nicht zulässig in Wasserschutzgebieten der Zone I und Heilquellenschutzgebieten der Zone I. Bei Vorliegen der Voraussetzungen nach Absatz 3 ist das Auf- und Einbringen von Materialien abweichend von Absatz 3 nicht zulässig in Die für den Schutz der in den Sätzen 1 und 2 genannten Flächen zuständige Behörde kann im Benehmen mit der für den Bodenschutz zuständigen Behörde Abweichungen von den Sätzen 1 und 2 zulassen, wenn das Auf- oder Einbringen zum Schutz des Grundwassers erforderlich ist. In empfindlichen Gebieten nach Satz 2 Nummer 3 kann das Auf- oder Einbringen von Materialien bis zur Höhe der Vorsorgewerte für die Bodenart Ton nach Anlage 1 Tabelle 1 und 2 auch zugelassen werden, wenn günstige Materialeigenschaften und Standortbedingungen vorliegen. Regelungen aufgrund der §§ 51 bis 53 des Wasserhaushaltsgesetzes bleiben unberührt.
+(5) Bei Vorliegen der Voraussetzungen nach Absatz 2 ist das Auf- und Einbringen von Materialien abweichend von Absatz 2 nicht zulässig in Wasserschutzgebieten der Zone I und Heilquellenschutzgebieten der Zone I. Bei Vorliegen der Voraussetzungen nach Absatz 3 ist das Auf- und Einbringen von Materialien abweichend von Absatz 3 nicht zulässig in
 
-1.
+1. Wasserschutzgebieten der Zonen I und II,
 
-2.
+2. Heilquellenschutzgebieten der Zonen I und II,
 
-3.
+3. empfindlichen Gebieten, wie insbesondere Karstgebieten und Gebieten mit stark klüftigem, besonders wasserwegsamem Untergrund.
 
 (6) Die für die Zulassung der Verfüllung einer Abgrabung oder eines Tagebaus zuständige Behörde kann im Einvernehmen mit der für den Bodenschutz zuständigen Behörde das Auf- oder Einbringen anderer als der in Absatz 1 genannten mineralischen Materialien gestatten, wenn sie die Anforderungen nach Absatz 2 oder 3 erfüllen und die Werte nach Anlage 1 Tabelle 5 einhalten, dies bau- oder betriebstechnisch erforderlich ist und der Anteil der Materialien 5 Prozent des im Rahmen des Vorhabens jährlich verfüllten Volumens nicht überschreitet.
 
@@ -252,11 +248,11 @@ b)
 
 ### § 9 — Gefahrenabwehr bei Bodenerosion durch Wasser oder Wind
 
-(1) Von dem Vorliegen einer schädlichen Bodenveränderung auf Grund von Bodenerosion durch Wasser oder Wind ist insbesondere auszugehen, wenn erhebliche Mengen Bodenmaterial von einer Erosionsfläche durch Oberflächenabfluss oder Abwehung abgetragen wurden und weitere erhebliche Bodenabträge zu erwarten sind. Weitere Bodenabträge nach einem Erosionsereignis sind im Sinne des Satzes 1 zu erwarten, wenn
+(1) Von dem Vorliegen einer schädlichen Bodenveränderung auf Grund von Bodenerosion durch Wasser oder Wind ist insbesondere auszugehen, wenn erhebliche Mengen Bodenmaterial von einer Erosionsfläche durch Oberflächenabfluss oder Abwehung abgetragen wurden und weitere erhebliche Bodenabträge zu erwarten sind.
 
-1.
+1. in den zurückliegenden zehn Jahren bereits mindestens in einem weiteren Fall erhebliche Mengen Bodenmaterial von derselben Erosionsfläche abgetragen wurden oder
 
-2.
+2. sich aus den Standortdaten und den Daten über die langjährigen Niederschlags- oder Wind- und Witterungsverhältnisse des Gebietes ergibt, dass in einem Zeitraum von zehn Jahren mit hinreichender Wahrscheinlichkeit erneut mit Bodenabträgen gemäß Satz 1 zu rechnen ist.
 
 (2) Anhaltspunkte für das Vorliegen einer schädlichen Bodenveränderung auf Grund von Bodenerosion durch Wasser oder Wind ergeben sich insbesondere, wenn sich auf einer Fläche Erosionsformen oder -schäden in erheblichem Ausmaß zeigen oder außerhalb einer möglichen Erosionsfläche gelegene Bereiche durch erhebliche Mengen abgetragenen Bodenmaterials befrachtet wurden.
 
@@ -272,15 +268,15 @@ b)
 
 (1) Anhaltspunkte im Sinne des § 9 Absatz 1 Satz 1 des Bundes-Bodenschutzgesetzes für das Vorliegen einer Altlast bestehen bei einem Altstandort insbesondere, wenn auf Grundstücken über einen längeren Zeitraum oder in erheblicher Menge mit Schadstoffen umgegangen wurde und die jeweilige Betriebs-, Bewirtschaftungs- oder Verfahrensweise oder Störungen des bestimmungsgemäßen Betriebs nicht unerhebliche Einträge solcher Stoffe in den Boden vermuten lassen. Die jeweilige Betriebsweise lässt einen solchen Eintrag insbesondere vermuten, wenn die angewendeten Sicherheitsmaßnahmen erheblich vom heutigen Stand der Technik abweichen. Bei Altablagerungen sind diese Anhaltspunkte insbesondere dann gegeben, wenn die Art des Betriebs oder der Zeitpunkt der Stilllegung den Verdacht nahelegen, dass Abfälle nicht sachgerecht behandelt, gelagert oder abgelagert wurden.
 
-(2) Absatz 1 Satz 1 gilt für schädliche Bodenveränderungen durch Schadstoffe entsprechend. Anhaltspunkte für das Vorliegen einer schädlichen Bodenveränderung ergeben sich auch durch Hinweise auf sowie aus Erkenntnissen auf Grund allgemeiner Untersuchungen oder von Erfahrungswerten aus Vergleichssituationen insbesondere zur Ausbreitung von Schadstoffen.
+(2) Absatz 1 Satz 1 gilt für schädliche Bodenveränderungen durch Schadstoffe entsprechend. Anhaltspunkte für das Vorliegen einer schädlichen Bodenveränderung ergeben sich auch durch Hinweise auf
 
-1.
+1. den Eintrag von Schadstoffen über einen längeren Zeitraum oder in erheblicher Menge über die Luft oder Gewässer oder durch eine Aufbringung erheblicher Frachten an Abfällen oder Abwässern auf Böden,
 
-2.
+2. eine erhebliche Freisetzung von Schadstoffen aus Böden mit naturbedingt höheren Gehalten,
 
-3.
+3. erhöhte Schadstoffgehalte in Nahrungs- oder Futterpflanzen am Standort oder
 
-4.
+4. das Austreten von Wasser mit erheblichen Frachten an Schadstoffen aus Böden oder Altablagerungen
 
 (3) Bestehen Anhaltspunkte für das Vorliegen einer Altlast oder einer schädlichen Bodenveränderung, soll die altlastverdächtige Fläche oder die Verdachtsfläche zunächst einer orientierenden Untersuchung nach § 12 unterzogen werden.
 
@@ -298,19 +294,19 @@ b)
 
 (2) Bei der Untersuchung zum Wirkungspfad Boden-Mensch sind als Nutzungen zu unterscheiden:
 
-1.
+1. Kinderspielflächen,
 
-2.
+2. Wohngebiete,
 
-3.
+3. Park- und Freizeitanlagen sowie
 
-4.
+4. Industrie- und Gewerbegrundstücke.
 
 (3) Bei der Untersuchung zum Wirkungspfad Boden-Nutzpflanze sind als Nutzungen zu unterscheiden:
 
-1.
+1. Ackerflächen und Nutzgärten sowie
 
-2.
+2. Grünlandflächen.
 
 (4) Probennahme und -analyse sind nach Abschnitt 4 durchzuführen.
 
@@ -340,29 +336,29 @@ b)
 
 (1) Die Prognose der Stoffkonzentration für einen Prüfwertvergleich am Ort der Beurteilung kann, auch unter Anwendung von Stofftransportmodellen, vorgenommen werden
 
-1.
+1. auf der Grundlage von Materialuntersuchungen durch Elution mit Wasser in Verbindung mit einer Transportprognose,
 
-2.
+2. durch Rückschlüsse oder Rückrechnungen aus Untersuchungen im Grundwasserabstrom unter Berücksichtigung der Stoffkonzentration im Grundwasseranstrom, der Verdünnung, des Schadstoffverhaltens in der wasserungesättigten und der wassergesättigten Bodenzone sowie des Schadstoffinventars im Boden oder
 
-3.
+3. auf der Grundlage von in situ-Untersuchungen.
 
 (2) Wenn im Einzelfall ein Eindringen von sauren Sickerwässern, ein Eindringen von Lösevermittlern oder eine Änderung des Reduktions- und Oxidations-Potentials zu erwarten ist, sollen entsprechende weitere Extraktions-, Elutions- oder Perkolationsverfahren angewendet werden.
 
 (3) Bei der Prognose ist insbesondere die Abbau- und Rückhaltewirkung der wasserungesättigten Zone zu berücksichtigen. Hierbei sind insbesondere folgende Kriterien maßgebend:
 
-1.
+1. Länge der Sickerstrecke,
 
-2.
+2. Bodenart,
 
-3.
+3. Gehalt an organischer Substanz,
 
-4.
+4. pH-Wert,
 
-5.
+5. Sickerwasserrate,
 
-6.
+6. Grundwasserneubildungsrate sowie
 
-7.
+7. Mobilität, Mobilisierbarkeit und Abbaubarkeit der Stoffe.
 
 (4) Bei direkter Beprobung und Untersuchung von Sickerwasser und Grundwasser ist bei der Bewertung die witterungsbedingte Variabilität der ermittelten Stoffkonzentrationen zu berücksichtigen.
 
@@ -396,25 +392,25 @@ b)
 
 (4) Über die in § 13 Absatz 1 Satz 1 des Bundes-Bodenschutzgesetzes aufgeführten Angaben hinaus soll ein Sanierungsplan Angaben enthalten zu
 
-1.
+1. den Standortverhältnissen,
 
-2.
+2. der äußeren Abgrenzung des Sanierungsplans sowie dem Einwirkungsbereich, der durch die Altlast und die Schadstoffausbreitung bereits betroffen ist oder der durch die vorgesehenen Maßnahmen zu prognostizieren ist,
 
-3.
+3. der technischen Ausgestaltung von Sanierungsmaßnahmen sowie Art und Umfang sonstiger Maßnahmen, den Elementen und dem Ablauf der Sanierung,
 
-4.
+4. fachspezifischen Berechnungen zu den Maßnahmenkomponenten,
 
-5.
+5. den Eigenkontrollmaßnahmen zur Überprüfung der sachgerechten Ausführung und Wirksamkeit der vorgesehenen Maßnahmen,
 
-6.
+6. den zu behandelnden Mengen und den Transport-, Verwertungs- und Entsorgungswegen,
 
-7.
+7. den getroffenen behördlichen Entscheidungen und den geschlossenen öffentlich-rechtlichen Verträgen, die sich auf die Erfüllung der Pflichten nach § 4 des Bundes-Bodenschutzgesetzes auswirken,
 
-8.
+8. den behördlichen Zulassungserfordernissen für die durchzuführenden Maßnahmen,
 
-9.
+9. den für eine Verbindlichkeitserklärung nach § 13 Absatz 6 des Bundes-Bodenschutzgesetzes durch die zuständige Behörde geforderten Angaben und Unterlagen sowie
 
-10.
+10. dem Zeitplan und den Kosten.
 
 (5) Soll Bodenmaterial im Rahmen der Sanierung im Bereich derselben schädlichen Bodenveränderung oder Altlast oder innerhalb des Gebietes eines für verbindlich erklärten Sanierungsplans umgelagert werden, sind die Anforderungen nach § 4 Absatz 3 des Bundes-Bodenschutzgesetzes zu erfüllen.
 
@@ -428,13 +424,13 @@ b)
 
 (4) Im Rahmen der Entscheidung über Sanierungsmaßnahmen kann die natürliche Schadstoffminderung berücksichtigt werden, wenn
 
-1.
+1. die Schadstoffminderungsprozesse identifiziert und hinreichend quantifizierbar sind,
 
-2.
+2. die voraussichtliche Zeitdauer sowie Prognoseunsicherheiten beachtet werden,
 
-3.
+3. Zwischenziele und Überwachungsmaßnahmen festgelegt werden und
 
-4.
+4. Verdünnungsprozesse im Gesamtkonzept nur eine untergeordnete Rolle spielen.
 
 (5) Auf land- oder forstwirtschaftlich genutzten Flächen kommen bei schädlichen Bodenveränderungen oder Altlasten insbesondere Schutz- und Beschränkungsmaßnahmen durch Anpassungen der Nutzung und der Bewirtschaftung von Böden sowie Maßnahmen zur Veränderungen der Bodenbeschaffenheit in Betracht. Über Art und Umfang der Maßnahmen ist zwischen den zuständigen Behörden Einvernehmen herzustellen. Über die Durchführung der getroffenen Schutz- und Beschränkungsmaßnahmen sind von den nach § 4 Absatz 3, 5 oder 6 des Bundes-Bodenschutzgesetzes Pflichtigen Aufzeichnungen zu führen, zehn Jahre lang aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen. § 17 Absatz 3 des Bundes-Bodenschutzgesetzes bleibt unberührt.
 
@@ -446,11 +442,11 @@ b)
 
 (1) Die Vorerkundung von Böden in situ und von Materialien in Haufwerken dient
 
-1.
+1. einer Einschätzung der Beschaffenheit der Böden und Materialien, insbesondere zur Ermittlung des erforderlichen Untersuchungsumfangs und analytischen Untersuchungsbedarfs,
 
-2.
+2. als Grundlage einer repräsentativen Probennahme, insbesondere zur Entwicklung einer geeigneten Probennahmestrategie und
 
-3.
+3. der Bewertung der Ergebnisse analytischer Untersuchungen, insbesondere bei deren Übertragung auf den Untersuchungsraum.
 
 (2) Im Rahmen der Vorerkundung sind vorhandene Hintergrundinformationen zu ermitteln und auszuwerten. Hierzu zählen aktuelle und historische Unterlagen, Luftbilder und Karten sowie Auskünfte und Stellungnahmen zuständiger Behörden.
 
@@ -498,21 +494,21 @@ b)
 
 (1) Beim Wirkungspfad Boden-Mensch sind im Rahmen der Festlegung der Probennahmestellen und der Beprobungstiefe auch Ermittlungen zu den im Einzelfall vorliegenden Expositionsbedingungen vorzunehmen, insbesondere über die
 
-1.
+1. tatsächliche Nutzung der Fläche nach Art, Häufigkeit und Dauer,
 
-2.
+2. Zugänglichkeit der Fläche,
 
-3.
+3. Versiegelung der Fläche und über den Aufwuchs,
 
-4.
+4. Möglichkeit der inhalativen Aufnahme von Bodenpartikeln und
 
-5.
+5. Relevanz weiterer Wirkungspfade.
 
 (2) Beim Wirkungspfad Boden-Mensch gilt für die Beurteilung der Gefahren durch orale und dermale Aufnahme die Beprobungstiefe nach Anlage 3 Tabelle 3. Werden leichtflüchtige Schadstoffe untersucht, um gemäß § 10 Absatz 6 Anhaltspunkte für die Ausbreitung dieser Stoffe in Gebäude hinein zu ermitteln, richten sich die Beprobungstiefen nach dem dazu verwendeten Expositionsszenario (Boden-Bodenluft-Innenraumluft). Für die inhalative Aufnahme von Bodenpartikeln sind in der Regel die obersten 2 Zentimeter des Bodens maßgebend. Bei Überschreitung der Prüfwerte ist zur Bewertung der inhalativen Wirkung die Feinkornfraktion bis 63 Mikrometer heranzuziehen.
 
-(3) Beim Wirkungspfad Boden-Mensch kann bei Flächen unter 500 Quadratmetern sowie in Hausgärten oder sonstigen Gärten entsprechender Nutzung auf eine Teilung verzichtet werden. Für Flächen über 10 000 Quadratmetern sollen mindestens jedoch zehn Teilflächen beprobt werden.
+(3) Beim Wirkungspfad Boden-Mensch kann bei Flächen unter 500 Quadratmetern sowie in Hausgärten oder sonstigen Gärten entsprechender Nutzung auf eine Teilung verzichtet werden. Für Flächen über 10 000 Quadratmetern sollen mindestens jedoch zehn Teilflächen beprobt werden.
 
-(4) Beim Wirkungspfad Boden-Nutzpflanze ist bei Ackerflächen oder Grünlandflächen mit annähernd gleichmäßiger Bodenbeschaffenheit und Schadstoffverteilung auf Flächen bis 10 Hektar in der Regel für jeweils 1 Hektar, mindestens aber von drei Teilflächen, je eine Mischprobe nach § 19 Absatz 6 entsprechend den Beprobungstiefen zu entnehmen. Bei Flächen unter 5 000 Quadratmetern kann auf eine Teilung verzichtet werden. Für Flächen über 10 Hektar sollen mindestens jedoch zehn Teilflächen beprobt werden. In Nutzgärten soll die Probennahme in der Regel durch Entnahme einer grundstücksbezogenen Mischprobe nach § 19 Absatz 6 für jede Beprobungstiefe erfolgen.
+(4) Beim Wirkungspfad Boden-Nutzpflanze ist bei Ackerflächen oder Grünlandflächen mit annähernd gleichmäßiger Bodenbeschaffenheit und Schadstoffverteilung auf Flächen bis 10 Hektar in der Regel für jeweils 1 Hektar, mindestens aber von drei Teilflächen, je eine Mischprobe nach § 19 Absatz 6 entsprechend den Beprobungstiefen zu entnehmen. Bei Flächen unter 5 000 Quadratmetern kann auf eine Teilung verzichtet werden. Für Flächen über 10 Hektar sollen mindestens jedoch zehn Teilflächen beprobt werden. In Nutzgärten soll die Probennahme in der Regel durch Entnahme einer grundstücksbezogenen Mischprobe nach § 19 Absatz 6 für jede Beprobungstiefe erfolgen.
 
 (5) Beim Wirkungspfad Boden-Grundwasser ist zur Feststellung der vertikalen Schadstoffverteilung die wasserungesättigte Bodenzone bis unterhalb einer mutmaßlichen Schadstoffanreicherung unter besonderer Berücksichtigung der Zone schwankender Grundwasserstände zu beproben. Im Untergrund dürfen abweichend von § 20 Absatz 1 Satz 1 Proben aus Tiefenintervallen bis zu 1 Meter entnommen werden. In begründeten Fällen ist die Zusammenfassung engräumiger Bodenhorizonte oder -schichten bis zu 1 Meter Tiefenintervall zulässig. Die Beprobungstiefe ist zu verringern, wenn erkennbar wird, dass bei Durchbohrung von Wasser stauenden Schichten im Untergrund eine hierdurch entstehende Verunreinigung des Grundwassers zu besorgen ist. Ist das Durchbohren von Wasser stauenden Schichten erforderlich, sind besondere Sicherungsmaßnahmen zu ergreifen.
 
@@ -526,59 +522,57 @@ b)
 
 ### § 24 — Physikalisch-chemische und chemische Analyse
 
-(1) Die physikalisch-chemische und chemische Analyse der Proben ist durch eine nach DIN EN ISO/IEC 17025 akkreditierte Untersuchungsstelle durchzuführen.
-
 (2) Die Bestimmung der physikalisch-chemischen Eigenschaften hat nach Anlage 3 Tabelle 1 zu erfolgen.
 
 (3) Zur Bestimmung der Schadstoffgehalte sind aus den nach § 23 vorbehandelten, vorbereiteten und aufgearbeiteten Proben gemäß den nachfolgenden Absätzen Extrakte und Eluate herzustellen und zu analysieren. Die Schadstoffgehalte sind auf Trockenmasse zu beziehen, die bei 105 °C nach der DIN EN 14346 Methode A gewonnen wurde. Bei summarischen Messgrößen, wie etwa PCB, LHKW, BTEX und PAK, sind neben der Summe auch die zugrunde gelegten Einzelergebnisse anzugeben. Für die Summenbildung bleiben Ergebnisse unterhalb der Bestimmungsgrenze unberücksichtigt.
 
-(4) Die Bestimmung der Gehalte an anorganischen Schadstoffen hinsichtlich hat aus dem Königswasser-Extrakt nach der mit den Verfahren nach Nummer 9.2 der DIN EN 13657 oder nach der DIN EN 16174 mit den in Anlage 3 Tabelle 4 angegebenen Verfahren zu erfolgen.
+(4) Die Bestimmung der Gehalte an anorganischen Schadstoffen hinsichtlich
 
-1.
+1. der Vorsorgewerte nach Anlage 1 Tabelle 1,
 
-2.
+2. der Feststoffwerte nach Anlage 1 Tabelle 4,
 
-3.
+3. der Prüfwerte für den Wirkungspfad Boden-Mensch nach Anlage 2 Tabelle 4, mit Ausnahme der Cyanide und von Chrom VI,
 
-4.
+4. der Prüf- und Maßnahmenwerte für Arsen und Quecksilber für den Wirkungspfad Boden-Nutzpflanze auf Ackerflächen und in Nutzgärten im Hinblick auf die Pflanzenqualität nach Anlage 2 Tabelle 6 und
 
-5.
+5. der Prüf- und Maßnahmenwerte für den Wirkungspfad Boden-Nutzpflanze auf Grünlandflächen im Hinblick auf die Pflanzenqualität nach Anlage 2 Tabelle 7
 
 (5) Die Bestimmung der Gehalte an Cyaniden und Chrom VI hinsichtlich der Prüfwerte für den Wirkungspfad Boden-Mensch nach Anlage 2 Tabelle 4 hat mit den in Anlage 3 Tabelle 4 angegebenen Verfahren zu erfolgen.
 
-(6) Die Bestimmung der Gehalte an anorganischen Schadstoffen hinsichtlich hat aus dem Ammoniumnitrat-Extrakt nach der DIN ISO 19730 mit den in Anlage 3 Tabelle 4 angegebenen Verfahren zu erfolgen.
+(6) Die Bestimmung der Gehalte an anorganischen Schadstoffen hinsichtlich
 
-1.
+1. der Prüf- und Maßnahmenwerte für Blei, Cadmium und Thallium für den Wirkungspfad Boden-Nutzpflanze auf Ackerflächen und in Nutzgärten im Hinblick auf die Pflanzenqualität nach Anlage 2 Tabelle 6 und
 
-2.
+2. der Prüfwerte auf Ackerflächen im Hinblick auf Wachstumsbeeinträchtigungen bei Kulturpflanzen nach Anlage 2 Tabelle 8
 
-(7) Die Bestimmung der Gehalte an organischen Schadstoffen hinsichtlich hat mit den in Anlage 3 Tabelle 5 angegebenen Verfahren zu erfolgen.
+(7) Die Bestimmung der Gehalte an organischen Schadstoffen hinsichtlich
 
-1.
+1. der Vorsorgewerte nach Anlage 1 Tabelle 2,
 
-2.
+2. der Prüf- und Maßnahmenwerte für den Wirkungspfad Boden-Mensch nach Anlage 2 Tabelle 4 und 5 sowie
 
-3.
+3. der Prüf- und Maßnahmenwerte für den Wirkungspfad Boden-Nutzpflanze nach Anlage 2 Tabelle 6 und 7
 
 (8) Die Bestimmung der flüchtigen Schadstoffe in der Bodenluft hat mit den in Anlage 3 Tabelle 8 angegebenen Analyseverfahren zu erfolgen.
 
-(9) Die Bestimmung der Konzentration anorganischer Schadstoffe hinsichtlich hat mit den in Anlage 3 Tabelle 6 angegebenen Verfahren zu erfolgen. Für die Herstellung von Eluaten mit Wasser sind die in Anlage 3 Tabelle 2 angegebenen Verfahren anzuwenden.
+(9) Die Bestimmung der Konzentration anorganischer Schadstoffe hinsichtlich
 
-1.
+1. der Eluatwerte nach Anlage 1 Tabelle 4 und 5 sowie
 
-2.
+2. der Prüfwerte für den Wirkungspfad Boden-Grundwasser am Ort der Probennahme nach Anlage 2 Tabelle 1 und im Sickerwasser am Ort der Beurteilung nach Anlage 2 Tabelle 2
 
-(10) Die Bestimmung der Konzentration organischer Schadstoffe hinsichtlich hat mit den in Anlage 3 Tabelle 7 angegebenen Verfahren zu erfolgen. Absatz 9 Satz 2 gilt entsprechend.
+(10) Die Bestimmung der Konzentration organischer Schadstoffe hinsichtlich
 
-1.
+1. der Eluatwerte nach Anlage 1 Tabelle 4 und
 
-2.
+2. der Prüfwerte für den Wirkungspfad Boden-Grundwasser am Ort der Probennahme und im Sickerwasser am Ort der Beurteilung nach Anlage 2 Tabelle 3
 
 (11) Abweichend von § 23 und den vorstehenden Absätzen dürfen auch andere Verfahren und Methoden zur Probennahme, -vorbehandlung, -vorbereitung und -aufarbeitung sowie zur physikalisch-chemischen und chemischen Analyse angewendet werden, wenn deren Gleichwertigkeit und praktische Eignung
 
-1.
+1. durch den Fachbeirat Bodenuntersuchungen allgemein festgestellt und die Feststellung durch das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit im Bundesanzeiger veröffentlicht wurde oder
 
-2.
+2. vom Anwender im Einzelfall gegenüber der zuständigen Behörde nachgewiesen wird.
 
 ## Abschnitt 5: Gemeinsame Bestimmungen
 
@@ -586,11 +580,11 @@ b)
 
 (1) Beim Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ein Fachbeirat Bodenuntersuchungen (FBU) eingerichtet. Er hat die Aufgabe, Erkenntnisse über fortschrittliche Verfahren und Methoden, deren praktische Eignung zur Erfüllung der Anforderungen der §§ 10 bis 15 und des Abschnitts 4 gesichert erscheint, sowie über deren Anwendung zusammenzustellen. Zu diesem Zweck kann der Fachbeirat insbesondere
 
-1.
+1. Maßstäbe zur Beurteilung der Gleichwertigkeit und praktischen Eignung von Verfahren und Methoden zur Probennahme, -vorbehandlung, -vorbereitung und -aufarbeitung sowie zur physikalisch-chemischen und chemischen Analyse aufstellen,
 
-2.
+2. die Gleichwertigkeit und praktische Eignung von Verfahren und Methoden zur Probennahme, -vorbehandlung, -vorbereitung und -aufarbeitung sowie zur physikalisch-chemischen und chemischen Analyse allgemein feststellen und
 
-3.
+3. Empfehlungen zur Eignung von Qualitätssicherungsmaßnahmen einschließlich der zulässigen Ergebnisunsicherheit von Verfahren und Methoden im Sinne der Nummern 1 und 2 abgeben.
 
 (2) In den Fachbeirat sind fachlich qualifizierte und erfahrene Personen aus Bundes- und Landesbehörden, aus der Wissenschaft sowie aus Wirtschaftsbereichen, die vom Vollzug dieser Verordnung berührt sind, zu berufen. Der Fachbeirat soll nicht mehr als zwölf Mitglieder umfassen. Die Mitglieder des Fachbeirats sind nicht weisungsgebunden und nehmen zu den ihnen vorgelegten Fragen auf Grund ihrer fachlichen Qualifikation und Erfahrung Stellung. Die Mitgliedschaft ist ehrenamtlich.
 
@@ -600,17 +594,17 @@ b)
 
 Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 1 des Bundes-Bodenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 6 Absatz 2, § 7 Absatz 6 Satz 1, auch in Verbindung mit Satz 2, oder § 8 Absatz 5 Satz 1 oder 2 Material aufbringt oder einbringt,
 
-2.
+2. entgegen § 6 Absatz 5 Satz 1 eine Untersuchung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig durchführt und nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig durchführen lässt,
 
-3.
+3. entgegen § 6 Absatz 7 Satz 1 eine Dokumentation nicht, nicht richtig oder nicht rechtzeitig erstellt,
 
-4.
+4. entgegen § 6 Absatz 7 Satz 2 ein Dokument nicht oder nicht mindestens zehn Jahre aufbewahrt oder nicht oder nicht rechtzeitig vorlegt,
 
-5.
+5. entgegen § 6 Absatz 8 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet oder
 
-6.
+6. entgegen § 7 Absatz 1 Satz 1 oder § 8 Absatz 1 Satz 1 ein Material oder ein Gemisch verwendet.
 
 ### § 27 — Zugänglichkeit technischer Regeln und Normen
 
@@ -628,53 +622,9 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 1 des Bundes-Bodenschutzgesetz
 
 ### Anlage 1 — (zu § 3 Absatz 1 Satz 1 Nummer 1 und Absatz 2,
 
-Tabelle 1: Vorsorgewerte für anorganische Stoffe
-
-Tabelle 2: Vorsorgewerte für organische Stoffe
-
-Tabelle 3: Zulässige zusätzliche jährliche Frachten an Schadstoffen über alle Eintragspfade
-
-Tabelle 4: Werte zur Beurteilung von Materialien für das Auf- oder Einbringen unterhalb oder außerhalb einer durchwurzelbaren Bodenschicht
-
-Hinweis: Die Eluatwerte sind mit Ausnahme des Eluatwertes für Sulfat nur maßgeblich, wenn für den betreffenden Stoff der jeweilige Vorsorgewert nach Tabelle 1 oder 2 überschritten wird.
-
-Tabelle 5: Werte für zusätzlich zu untersuchende Stoffe beim Auf- oder Einbringen von Materialien mit mehr als 10 % Volumenprozent mineralischer Fremdbestandteile unterhalb oder außerhalb einer durchwurzelbaren Bodenschicht
-
 ### Anlage 2 — (zu § 10 Absatz 4, § 12 Absatz 3, § 15 Absatz 1 Satz 1 und Absatz 2,
 
-Tabelle 1: Prüfwerte für anorganische Stoffe für den Wirkungspfad Boden-Grundwasser am Ort der Probennahme
-
-Tabelle 2: Prüfwerte für anorganische Stoffe für den Wirkungspfad Boden-Grundwasser im Sickerwasser am Ort der Beurteilung
-
-Tabelle 3: Prüfwerte für organische Stoffe für den Wirkungspfad Boden-Grundwasser am Ort der Probennahme und im Sickerwasser am Ort der Beurteilung
-
-Tabelle 4: Prüfwerte für den Wirkungspfad Boden-Mensch
-
-Tabelle 5: Maßnahmenwerte für den Wirkungspfad Boden-Mensch
-
-Tabelle 6: Prüf- und Maßnahmenwerte für den Wirkungspfad Boden-Nutzpflanze auf Ackerflächen und in Nutzgärten im Hinblick auf die Pflanzenqualität
-
-Tabelle 7: Prüf- und Maßnahmenwerte für den Wirkungspfad Boden-Nutzpflanze auf Grünlandflächen im Hinblick auf die Pflanzenqualität
-
-Tabelle 8: Prüfwerte für den Wirkungspfad Boden-Nutzpflanze auf Ackerflächen im Hinblick auf Wachstumsbeeinträchtigungen bei Kulturpflanzen
-
 ### Anlage 3 — (zu § 6 Absatz 11 Satz 1, § 15 Absatz 1 Satz 2, § 19 Absatz 9,
-
-Tabelle 1: Verfahren zur Bestimmung der physikalisch-chemischen Eigenschaften
-
-Tabelle 2: Verfahren zur Herstellung von Eluaten mit Wasser
-
-Tabelle 3: Nutzungsorientierte Beprobungstiefe bei Untersuchungen zu den Wirkungspfaden Boden-Mensch und Boden-Nutzpflanze
-
-Tabelle 4: Verfahren zur Bestimmung anorganischer Stoffgehalte
-
-Tabelle 5: Verfahren zur Bestimmung organischer Stoffgehalte
-
-Tabelle 6: Verfahren zur Bestimmung der Konzentration anorganischer Stoffe
-
-Tabelle 7: Verfahren zur Bestimmung der Konzentration organischer Stoffe
-
-Tabelle 8: Bodenluft- und Deponiegasuntersuchung
 
 > Tabelle 6 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Atomfluoreszenz-spektrometrie" durch das Wort "Atomfluoreszenzspektrometrie" ersetzt.
 
@@ -842,8 +792,6 @@ Boden, behandelter Bioabfall und Schlamm – Bestimmung von Dioxinen und Furanen
 
 DIN EN ISO 5667-3:2019-07
 
-Wasserbeschaffenheit – Probenahme – Teil 3: Konservierung und Handhabung von Wasserproben (ISO 5667-3:2018); Deutsche Fassung EN ISO 5667-3:2018
-
 DIN EN ISO 9377-2:2001-07
 
 Wasserbeschaffenheit – Bestimmung des Kohlenwasserstoff-Index – Teil 2: Verfahren nach Lösemittelextraktion und Gaschromatographie (ISO 9377-2:2000); Deutsche Fassung EN ISO 9377-2:2000
@@ -929,8 +877,6 @@ DIN EN ISO 22478:2006-07
 Wasserbeschaffenheit – Bestimmung ausgewählter Explosivstoffe und verwandter Verbindungen – Verfahren mittels Hochleistungs-Flüssigkeitschromatographie (HPLC) mit UV-Detektion (ISO 22478:2006); Deutsche Fassung EN ISO 22478:2006
 
 DIN ISO 10381-1:2003-08
-
-Bodenbeschaffenheit – Probenahme – Teil 1: Anleitung zur Aufstellung von Probenahmeprogrammen (ISO 10381-1:2002)
 
 DIN ISO 10381-2:2003-08
 

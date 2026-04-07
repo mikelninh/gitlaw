@@ -34,17 +34,17 @@ Das Sondervermögen soll in seinem Bestand erhalten bleiben. Es ist nach wirtsch
 
 (2) Über das in die Kreditanstalt für Wiederaufbau als Eigenkapital einzubringende und das als Nachrangdarlehen gewährte Vermögen wird zwischen dem Sondervermögen und der Kreditanstalt für Wiederaufbau ein Vertrag geschlossen, der insbesondere zum Inhalt hat:
 
-a)
+a) Vergütung durch die Kreditanstalt für Wiederaufbau in einer Höhe, die es erlaubt, gemeinsam mit den übrigen Erträgen des Sondervermögens Substanz und Förderung in vollem Umfang sicher zu stellen;
 
-b)
+b) Verpflichtung zu jährlichem Bericht über die Verwendung des in die Kreditanstalt für Wiederaufbau eingebrachten Eigenkapitals, des gewährten Nachrangdarlehens und der Erträge;
 
-c)
+c) Wert der Vermögensgegenstände zum Zeitpunkt des Vermögensübergangs;
 
-d)
+d) Sicherung der Verwendung der Erträge entsprechend den Rahmenvorgaben des Sondervermögens;
 
-e)
+e) Regelung zu den Förderlasten einschließlich der Bearbeitungskosten;
 
-f)
+f) Verzicht der Kreditanstalt für Wiederaufbau auf Eigenkapitalkosten, soweit das einzusetzende Unterlegungskapital durch das eingebrachte haftende Eigenkapital und das gewährte Nachrangdarlehen abgedeckt ist.
 
 (3) Der Vertrag nach Absatz 2 sowie seine Änderungen und Ergänzungen stehen unter dem Vorbehalt der Zustimmung des Deutschen Bundestages.
 

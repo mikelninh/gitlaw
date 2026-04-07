@@ -22,5 +22,3 @@ Die Bestimmungen über die Dienstkleidung der übrigen Beamtinnen und Beamten de
 Diese Anordnung tritt am Tag nach der Veröffentlichung in Kraft. Gleichzeitig tritt die Anordnung des Bundespräsidenten über den Erlass von Bestimmungen für die Dienstkleidung von Beamtinnen und Beamten des Bundesministeriums des Innern vom 22. August 2005 (BGBl. I S. 2511), die durch die Anordnung vom 23. September 2007 (BGBl. I S. 2314) geändert worden ist, außer Kraft.
 
 ### Schlussformel
-
-Der Bundespräsident

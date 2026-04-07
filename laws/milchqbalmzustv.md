@@ -21,5 +21,3 @@ Zuständig für die Durchführung von Rechtsakten des Rates und der Kommission d
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Ernährung, Landwirtschaft und Forsten

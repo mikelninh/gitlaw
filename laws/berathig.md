@@ -11,11 +11,11 @@ Einkommen
 
 (1) Hilfe für die Wahrnehmung von Rechten außerhalb eines gerichtlichen Verfahrens und im obligatorischen Güteverfahren nach § 15a des Gesetzes betreffend die Einführung der Zivilprozessordnung (Beratungshilfe) wird auf Antrag gewährt, wenn
 
-1.
+1. Rechtsuchende die erforderlichen Mittel nach ihren persönlichen und wirtschaftlichen Verhältnissen nicht aufbringen können,
 
-2.
+2. keine anderen Möglichkeiten für eine Hilfe zur Verfügung stehen, deren Inanspruchnahme den Rechtsuchenden zuzumuten ist,
 
-3.
+3. die Inanspruchnahme der Beratungshilfe nicht mutwillig erscheint.
 
 (2) Die Voraussetzungen des Absatzes 1 Nummer 1 sind gegeben, wenn den Rechtsuchenden Prozeßkostenhilfe nach den Vorschriften der Zivilprozeßordnung ohne einen eigenen Beitrag zu den Kosten zu gewähren wäre. Die Möglichkeit, sich durch einen Rechtsanwalt unentgeltlich oder gegen Vereinbarung eines Erfolgshonorars beraten oder vertreten zu lassen, ist keine andere Möglichkeit der Hilfe im Sinne des Absatzes 1 Nummer 2.
 
@@ -31,13 +31,13 @@ Einkommen
 
 ### § 3 — Gewährung von Beratungshilfe
 
-(1) Die Beratungshilfe wird durch Rechtsanwälte und durch Rechtsbeistände, die Mitglied einer Rechtsanwaltskammer sind, gewährt. Im Umfang ihrer jeweiligen Befugnis zur Rechtsberatung wird sie auch gewährt durch Sie kann durch die in den Sätzen 1 und 2 genannten Personen (Beratungspersonen) auch in Beratungsstellen gewährt werden, die auf Grund einer Vereinbarung mit der Landesjustizverwaltung eingerichtet sind.
+(1) Die Beratungshilfe wird durch Rechtsanwälte und durch Rechtsbeistände, die Mitglied einer Rechtsanwaltskammer sind, gewährt. Im Umfang ihrer jeweiligen Befugnis zur Rechtsberatung wird sie auch gewährt durch
 
-1.
+1. Steuerberater und Steuerbevollmächtigte,
 
-2.
+2. Wirtschaftsprüfer und vereidigte Buchprüfer sowie
 
-3.
+3. Rentenberater.
 
 (2) Die Beratungshilfe kann auch durch das Amtsgericht gewährt werden, soweit dem Anliegen durch eine sofortige Auskunft, einen Hinweis auf andere Möglichkeiten für Hilfe oder die Aufnahme eines Antrags oder einer Erklärung entsprochen werden kann.
 
@@ -47,11 +47,11 @@ Einkommen
 
 (2) Der Antrag kann vor der Geschäftsstelle zu Protokoll erklärt oder schriftlich gestellt werden; § 130a der Zivilprozessordnung und auf dessen Grundlage erlassene Rechtsverordnungen gelten entsprechend. Der Sachverhalt, für den Beratungshilfe beantragt wird, ist anzugeben.
 
-(3) Dem Antrag sind beizufügen: In geeigneten Fällen kann die Geschäftsstelle Erklärungen und Versicherungen nach Satz 1 auch zu Protokoll aufnehmen.
+(3) Dem Antrag sind beizufügen:
 
-1.
+1. eine Erklärung der Rechtsuchenden über ihre persönlichen und wirtschaftlichen Verhältnisse, insbesondere Angaben zu Familienstand, Beruf, Vermögen, Einkommen und Lasten, sowie entsprechende Belege und
 
-2.
+2. eine Versicherung der Rechtsuchenden, dass ihnen in derselben Angelegenheit Beratungshilfe bisher weder gewährt noch durch das Gericht versagt worden ist, und dass in derselben Angelegenheit kein gerichtliches Verfahren anhängig ist oder war.
 
 (4) Das Gericht kann verlangen, dass Rechtsuchende ihre tatsächlichen Angaben glaubhaft machen, und kann insbesondere auch die Abgabe einer Versicherung an Eides statt fordern. Es kann Erhebungen anstellen, insbesondere die Vorlegung von Urkunden anordnen und Auskünfte einholen. Zeugen und Sachverständige werden nicht vernommen.
 
@@ -73,11 +73,11 @@ Für das Verfahren gelten die Vorschriften des Gesetzes über das Verfahren in F
 
 (1) Das Gericht kann die Bewilligung von Amts wegen aufheben, wenn die Voraussetzungen für die Beratungshilfe zum Zeitpunkt der Bewilligung nicht vorgelegen haben und seit der Bewilligung nicht mehr als ein Jahr vergangen ist.
 
-(2) Beratungspersonen können die Aufhebung der Bewilligung beantragen, wenn Rechtsuchende auf Grund der Beratung oder Vertretung, für die ihnen Beratungshilfe bewilligt wurde, etwas erlangt haben. Der Antrag kann nur gestellt werden, wenn die Beratungspersonen Das Gericht hebt den Beschluss über die Bewilligung von Beratungshilfe nach Anhörung der Rechtsuchenden auf, wenn diese auf Grund des Erlangten die Voraussetzungen hinsichtlich der persönlichen und wirtschaftlichen Verhältnisse für die Bewilligung von Beratungshilfe nicht mehr erfüllen.
+(2) Beratungspersonen können die Aufhebung der Bewilligung beantragen, wenn Rechtsuchende auf Grund der Beratung oder Vertretung, für die ihnen Beratungshilfe bewilligt wurde, etwas erlangt haben. Der Antrag kann nur gestellt werden, wenn die Beratungspersonen
 
-1.
+1. noch keine Beratungshilfevergütung nach § 44 Satz 1 des Rechtsanwaltsvergütungsgesetzes beantragt haben und
 
-2.
+2. die Rechtsuchenden bei der Mandatsübernahme auf die Möglichkeit der Antragstellung und der Aufhebung der Bewilligung sowie auf die sich für die Vergütung nach § 8a Absatz 2 ergebenden Folgen in Textform hingewiesen haben.
 
 ### § 7 — Rechtsbehelf
 
@@ -93,15 +93,15 @@ Gegen den Beschluss, durch den der Antrag auf Bewilligung von Beratungshilfe zur
 
 (1) Wird die Beratungshilfebewilligung aufgehoben, bleibt der Vergütungsanspruch der Beratungsperson gegen die Staatskasse unberührt. Dies gilt nicht, wenn die Beratungsperson
 
-1.
+1. Kenntnis oder grob fahrlässige Unkenntnis davon hatte, dass die Bewilligungsvoraussetzungen im Zeitpunkt der Beratungshilfeleistung nicht vorlagen, oder
 
-2.
+2. die Aufhebung der Beratungshilfe selbst beantragt hat (§ 6a Absatz 2).
 
-(2) Die Beratungsperson kann von Rechtsuchenden Vergütung nach den allgemeinen Vorschriften verlangen, wenn sie Soweit Rechtsuchende die Beratungshilfegebühr (Nummer 2500 der Anlage 1 des Rechtsanwaltsvergütungsgesetzes) bereits geleistet haben, ist sie auf den Vergütungsanspruch anzurechnen.
+(2) Die Beratungsperson kann von Rechtsuchenden Vergütung nach den allgemeinen Vorschriften verlangen, wenn sie
 
-1.
+1. keine Vergütung aus der Staatskasse fordert oder einbehält und
 
-2.
+2. die Rechtsuchenden bei der Mandatsübernahme auf die Möglichkeit der Aufhebung der Bewilligung sowie auf die sich für die Vergütung ergebenden Folgen hingewiesen hat.
 
 (3) Wird die Bewilligung der Beratungshilfe aufgehoben, weil die persönlichen und wirtschaftlichen Voraussetzungen hierfür nicht vorgelegen haben, kann die Staatskasse von den Rechtsuchenden Erstattung des von ihr an die Beratungsperson geleisteten und von dieser einbehaltenen Betrages verlangen.
 
@@ -115,9 +115,9 @@ Ist der Gegner verpflichtet, Rechtsuchenden die Kosten der Wahrnehmung ihrer Rec
 
 (1) Bei Streitsachen mit grenzüberschreitendem Bezug nach der Richtlinie 2003/8/EG des Rates vom 27. Januar 2003 zur Verbesserung des Zugangs zum Recht bei Streitsachen mit grenzüberschreitendem Bezug durch Festlegung gemeinsamer Mindestvorschriften für die Prozesskostenhilfe in derartigen Streitsachen (ABl. EG Nr. L 26 S. 41, ABl. EU Nr. L 32 S. 15) wird Beratungshilfe gewährt
 
-1.
+1. für die vorprozessuale Rechtsberatung im Hinblick auf eine außergerichtliche Streitbeilegung,
 
-2.
+2. für die Unterstützung bei einem Antrag nach § 1077 der Zivilprozessordnung, bis das Ersuchen im Mitgliedstaat des Gerichtsstands eingegangen ist.
 
 (2) § 2 Absatz 3 findet keine Anwendung.
 

@@ -16,4 +16,6 @@ Die Forderung kann nicht abgetreten und nur im eigenen Namen geltend gemacht wer
 
 ### § 3
 
-(1) Weisungen, die das Ob, die Art oder das Ausmaß der Erbringung sexueller Dienstleistungen vorschreiben, sind unzulässig.(2) Bei Prostituierten steht das eingeschränkte Weisungsrecht im Rahmen einer abhängigen Tätigkeit nicht der Annahme einer Beschäftigung im Sinne des Sozialversicherungsrechts entgegen.
+(1) Weisungen, die das Ob, die Art oder das Ausmaß der Erbringung sexueller Dienstleistungen vorschreiben, sind unzulässig.
+
+(2) Bei Prostituierten steht das eingeschränkte Weisungsrecht im Rahmen einer abhängigen Tätigkeit nicht der Annahme einer Beschäftigung im Sinne des Sozialversicherungsrechts entgegen.

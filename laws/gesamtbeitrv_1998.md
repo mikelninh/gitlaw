@@ -16,7 +16,9 @@ Der Bund entrichtet für die versicherungspflichtigen Wehrdienstleistenden und f
 
 ### § 2 — Berechnungsgrundlage
 
-(1) Für die Berechnung des Gesamtbeitrages sind zugrunde zu legen: 1.als Beitragssatz die Hälfte des Beitragssatzes im BS Durchschnitt des Kalenderjahres (----) 1002.als beitragspflichtige Einnahme (BE) ein Betrag in Höhe von 40 Prozent der monatlichen Bezugsgröße der Sozialversicherung sowie3.die Summe der Diensttage (DT) der versicherungspflichtigen Wehrdienstleistenden und Zivildienstleistenden im Beitragsjahr.(2) Der Gesamtbeitrag der versicherungspflichtigen Wehrdienstleistenden und Zivildienstleistenden wird nach folgender Formel berechnet: BE BS -- x --- DT = Euro. 30 100
+(1) Für die Berechnung des Gesamtbeitrages sind zugrunde zu legen:
+
+1. als Beitragssatz die Hälfte des Beitragssatzes im
 
 ### § 3
 
@@ -24,7 +26,9 @@ Der Bund entrichtet für die versicherungspflichtigen Wehrdienstleistenden und f
 
 ### § 4 — Zahlung und Fälligkeit
 
-(1) Der Gesamtbeitrag für das Beitragsjahr ist jeweils bis zum 31. März des folgenden Kalenderjahres an die von der Bundesagentur für Arbeit bestimmte Dienststelle zu zahlen. Bis zum Fünfzehnten des zweiten Monats eines jeden Beitragsvierteljahres sind angemessene Abschläge auf den Gesamtbeitrag zu leisten.(2) Abweichend von Absatz 1 Satz 1 ist der Gesamtbeitrag für das Beitragsjahr 2002 bis zum 31. März 2004 zu zahlen.
+(1) Der Gesamtbeitrag für das Beitragsjahr ist jeweils bis zum 31. März des folgenden Kalenderjahres an die von der Bundesagentur für Arbeit bestimmte Dienststelle zu zahlen. Bis zum Fünfzehnten des zweiten Monats eines jeden Beitragsvierteljahres sind angemessene Abschläge auf den Gesamtbeitrag zu leisten.
+
+(2) Abweichend von Absatz 1 Satz 1 ist der Gesamtbeitrag für das Beitragsjahr 2002 bis zum 31. März 2004 zu zahlen.
 
 ### § 5 — Inkrafttreten
 

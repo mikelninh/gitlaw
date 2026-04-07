@@ -20,17 +20,11 @@
 
 (1) Lärm im Sinne dieser Verordnung ist jeder Schall, der zu einer Beeinträchtigung des Hörvermögens oder zu einer sonstigen mittelbaren oder unmittelbaren Gefährdung von Sicherheit und Gesundheit der Beschäftigten führen kann.
 
-(2) Der Tages-Lärmexpositionspegel (L (tief) EX,8h ) ist der über die Zeit gemittelte Lärmexpositionspegel bezogen auf eine Achtstundenschicht. Er umfasst alle am Arbeitsplatz auftretenden Schallereignisse.
-
-(3) Der Wochen-Lärmexpositionspegel (L (tief) EX,40h ) ist der über die Zeit gemittelte Tages-Lärmexpositionspegel bezogen auf eine 40-Stundenwoche.
-
-(4) Der Spitzenschalldruckpegel (L (tief) pC,peak ) ist der Höchstwert des momentanen Schalldruckpegels.
-
 (5) Vibrationen sind alle mechanischen Schwingungen, die durch Gegenstände auf den menschlichen Körper übertragen werden und zu einer mittelbaren oder unmittelbaren Gefährdung von Sicherheit und Gesundheit der Beschäftigten führen können. Dazu gehören insbesondere
 
-1.
+1. mechanische Schwingungen, die bei Übertragung auf das Hand-Arm-System des Menschen Gefährdungen für die Gesundheit und Sicherheit der Beschäftigten verursachen oder verursachen können (Hand-Arm-Vibrationen), insbesondere Knochen- oder Gelenkschäden, Durchblutungsstörungen oder neurologische Erkrankungen, und
 
-2.
+2. mechanische Schwingungen, die bei Übertragung auf den gesamten Körper Gefährdungen für die Gesundheit und Sicherheit der Beschäftigten verursachen oder verursachen können (Ganzkörper-Vibrationen), insbesondere Rückenschmerzen und Schädigungen der Wirbelsäule.
 
 (6) Der Tages-Vibrationsexpositionswert A(8) ist der über die Zeit nach Nummer 1.1 des Anhangs für Hand-Arm-Vibrationen und nach Nummer 2.1 des Anhangs für Ganzkörper-Vibrationen gemittelte Vibrationsexpositionswert bezogen auf eine Achtstundenschicht.
 
@@ -49,39 +43,9 @@ Messungen
 
 (2) Die Gefährdungsbeurteilung nach Absatz 1 umfasst insbesondere
 
-1.
+1. bei Exposition der Beschäftigten durch Lärma)Art, Ausmaß und Dauer der Exposition durch Lärm,b)die Auslösewerte nach § 6 Satz 1 und die Expositionswerte nach § 8 Abs. 2,c)die Verfügbarkeit alternativer Arbeitsmittel und Ausrüstungen, die zu einer geringeren Exposition der Beschäftigten führen (Substitutionsprüfung),d)Erkenntnisse aus der arbeitsmedizinischen Vorsorge sowie allgemein zugängliche, veröffentlichte Informationen hierzu,e)die zeitliche Ausdehnung der beruflichen Exposition über eine Achtstundenschicht hinaus,f)die Verfügbarkeit und Wirksamkeit von Gehörschutzmitteln,g)Auswirkungen auf die Gesundheit und Sicherheit von Beschäftigten, die besonders gefährdeten Gruppen angehören, undh)Herstellerangaben zu Lärmemissionen sowie Art, Ausmaß und Dauer der Exposition durch Lärm, die Auslösewerte nach § 6 Satz 1 und die Expositionswerte nach § 8 Abs. 2, die Verfügbarkeit alternativer Arbeitsmittel und Ausrüstungen, die zu einer geringeren Exposition der Beschäftigten führen (Substitutionsprüfung), Erkenntnisse aus der arbeitsmedizinischen Vorsorge sowie allgemein zugängliche, veröffentlichte Informationen hierzu, die zeitliche Ausdehnung der beruflichen Exposition über eine Achtstundenschicht hinaus, die Verfügbarkeit und Wirksamkeit von Gehörschutzmitteln, Auswirkungen auf die Gesundheit und Sicherheit von Beschäftigten, die besonders gefährdeten Gruppen angehören, und Herstellerangaben zu Lärmemissionen sowie
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
+2. bei Exposition der Beschäftigten durch Vibrationena)Art, Ausmaß und Dauer der Exposition durch Vibrationen, einschließlich besonderer Arbeitsbedingungen, wie zum Beispiel Tätigkeiten bei niedrigen Temperaturen,b)die Expositionsgrenzwerte und Auslösewerte nach § 9 Abs. 1 und 2,c)die Verfügbarkeit und die Möglichkeit des Einsatzes alternativer Arbeitsmittel und Ausrüstungen, die zu einer geringeren Exposition der Beschäftigten führen (Substitutionsprüfung),d)Erkenntnisse aus der arbeitsmedizinischen Vorsorge sowie allgemein zugängliche, veröffentlichte Informationen hierzu,e)die zeitliche Ausdehnung der beruflichen Exposition über eine Achtstundenschicht hinaus,f)Auswirkungen auf die Gesundheit und Sicherheit von Beschäftigten, die besonders gefährdeten Gruppen angehören, undg)Herstellerangaben zu Vibrationsemissionen. Art, Ausmaß und Dauer der Exposition durch Vibrationen, einschließlich besonderer Arbeitsbedingungen, wie zum Beispiel Tätigkeiten bei niedrigen Temperaturen, die Expositionsgrenzwerte und Auslösewerte nach § 9 Abs. 1 und 2, die Verfügbarkeit und die Möglichkeit des Einsatzes alternativer Arbeitsmittel und Ausrüstungen, die zu einer geringeren Exposition der Beschäftigten führen (Substitutionsprüfung), Erkenntnisse aus der arbeitsmedizinischen Vorsorge sowie allgemein zugängliche, veröffentlichte Informationen hierzu, die zeitliche Ausdehnung der beruflichen Exposition über eine Achtstundenschicht hinaus, Auswirkungen auf die Gesundheit und Sicherheit von Beschäftigten, die besonders gefährdeten Gruppen angehören, und Herstellerangaben zu Vibrationsemissionen.
 
 (3) Die mit der Exposition durch Lärm oder Vibrationen verbundenen Gefährdungen sind unabhängig voneinander zu beurteilen und in der Gefährdungsbeurteilung zusammenzuführen. Mögliche Wechsel- oder Kombinationswirkungen sind bei der Gefährdungsbeurteilung zu berücksichtigen. Dies gilt insbesondere bei Tätigkeiten mit gleichzeitiger Belastung durch Lärm, arbeitsbedingten ototoxischen Substanzen oder Vibrationen, soweit dies technisch durchführbar ist. Zu berücksichtigen sind auch mittelbare Auswirkungen auf die Gesundheit und Sicherheit der Beschäftigten, zum Beispiel durch Wechselwirkungen zwischen Lärm und Warnsignalen oder anderen Geräuschen, deren Wahrnehmung zur Vermeidung von Gefährdungen erforderlich ist. Bei Tätigkeiten, die eine hohe Konzentration und Aufmerksamkeit erfordern, sind störende und negative Einflüsse infolge einer Exposition durch Lärm oder Vibrationen zu berücksichtigen.
 
@@ -89,11 +53,11 @@ g)
 
 ### § 4 — Messungen
 
-(1) Der Arbeitgeber hat sicherzustellen, dass Messungen nach dem Stand der Technik durchgeführt werden. Dazu müssen Die durchzuführenden Messungen können auch eine Stichprobenerhebung umfassen, die für die persönliche Exposition eines Beschäftigten repräsentativ ist. Der Arbeitgeber hat die Dokumentation über die ermittelten Messergebnisse mindestens 30 Jahre in einer Form aufzubewahren, die eine spätere Einsichtnahme ermöglicht.
+(1) Der Arbeitgeber hat sicherzustellen, dass Messungen nach dem Stand der Technik durchgeführt werden. Dazu müssen
 
-1.
+1. Messverfahren und -geräte den vorhandenen Arbeitsplatz- und Expositionsbedingungen angepasst sein; dies betrifft insbesondere die Eigenschaften des zu messenden Lärms oder der zu messenden Vibrationen, die Dauer der Einwirkung und die Umgebungsbedingungen und
 
-2.
+2. die Messverfahren und -geräte geeignet sein, die jeweiligen physikalischen Größen zu bestimmen, und die Entscheidung erlauben, ob die in den §§ 6 und 9 festgesetzten Auslöse- und Expositionsgrenzwerte eingehalten werden.
 
 (2) Messungen zur Ermittlung der Exposition durch Vibrationen sind zusätzlich zu den Anforderungen nach Absatz 1 entsprechend den Nummern 1.2 und 2.2 des Anhangs durchzuführen.
 
@@ -105,45 +69,41 @@ Der Arbeitgeber hat sicherzustellen, dass die Gefährdungsbeurteilung nur von fa
 
 ### § 6 — Auslösewerte bei Lärm
 
-Die Auslösewerte in Bezug auf den Tages-Lärmexpositionspegel und den Spitzenschalldruckpegel betragen: Bei der Anwendung der Auslösewerte wird die dämmende Wirkung eines persönlichen Gehörschutzes der Beschäftigten nicht berücksichtigt.
+Die Auslösewerte in Bezug auf den Tages-Lärmexpositionspegel und den Spitzenschalldruckpegel betragen:
 
-1.
+1. Obere Auslösewerte: L (tief) EX,8h = 85 dB(A) beziehungsweise L (tief) pC,peak = 137 dB(C),
 
-2.
+2. Untere Auslösewerte: L (tief) EX,8h = 80 dB(A) beziehungsweise L (tief) pC,peak = 135 dB(C).
 
 ### § 7 — Maßnahmen zur Vermeidung und Verringerung der Lärmexposition
 
 (1) Der Arbeitgeber hat die nach § 3 Abs. 1 Satz 6 festgelegten Schutzmaßnahmen nach dem Stand der Technik durchzuführen, um die Gefährdung der Beschäftigten auszuschließen oder so weit wie möglich zu verringern. Dabei ist folgende Rangfolge zu berücksichtigen:
 
-1.
+1. Die Lärmemission muss am Entstehungsort verhindert oder so weit wie möglich verringert werden. Technische Maßnahmen haben Vorrang vor organisatorischen Maßnahmen.
 
-2.
+2. Die Maßnahmen nach Nummer 1 haben Vorrang vor der Verwendung von Gehörschutz nach § 8.
 
 (2) Zu den Maßnahmen nach Absatz 1 gehören insbesondere:
 
-1.
+1. alternative Arbeitsverfahren, welche die Exposition der Beschäftigten durch Lärm verringern,
 
-2.
+2. Auswahl und Einsatz neuer oder bereits vorhandener Arbeitsmittel unter dem vorrangigen Gesichtspunkt der Lärmminderung,
 
-3.
+3. die lärmmindernde Gestaltung und Einrichtung der Arbeitsstätten und Arbeitsplätze,
 
-4.
+4. technische Maßnahmen zur Luftschallminderung, beispielsweise durch Abschirmungen oder Kapselungen, und zur Körperschallminderung, beispielsweise durch Körperschalldämpfung oder -dämmung oder durch Körperschallisolierung,
 
-5.
+5. Wartungsprogramme für Arbeitsmittel, Arbeitsplätze und Anlagen,
 
-6.
+6. arbeitsorganisatorische Maßnahmen zur Lärmminderung durch Begrenzung von Dauer und Ausmaß der Exposition und Arbeitszeitpläne mit ausreichenden Zeiten ohne belastende Exposition.
 
 (3) In Ruheräumen ist unter Berücksichtigung ihres Zweckes und ihrer Nutzungsbedingungen die Lärmexposition so weit wie möglich zu verringern.
-
-(4) Der Arbeitgeber hat Arbeitsbereiche, in denen einer  der  oberen  Auslösewerte  für  Lärm  (LEX,8h, LpC,peak) überschritten werden kann, als Lärmbereiche zu kennzeichnen und, falls technisch möglich, abzugrenzen. In diesen Bereichen dürfen sich Beschäftigte nur aufhalten, wenn das Arbeitsverfahren dies erfordert und die Beschäftigten eine geeignete persönliche Schutzausrüstung verwenden; Absatz 1 bleibt unberührt.
 
 (5) Wird einer der oberen Auslösewerte überschritten, hat der Arbeitgeber ein Programm mit technischen und organisatorischen Maßnahmen zur Verringerung der Lärmexposition auszuarbeiten und durchzuführen. Dabei sind insbesondere die Absätze 1 und 2 zu berücksichtigen.
 
 ### § 8 — Gehörschutz
 
 (1) Werden die unteren Auslösewerte nach § 6 Satz 1 Nr. 2 trotz Durchführung der Maßnahmen nach § 7 Abs. 1 nicht eingehalten, hat der Arbeitgeber den Beschäftigten einen geeigneten persönlichen Gehörschutz zur Verfügung zu stellen, der den Anforderungen nach Absatz 2 genügt.
-
-(2) Der persönliche Gehörschutz ist vom Arbeitgeber so auszuwählen, dass durch seine Anwendung die Gefährdung des Gehörs beseitigt oder auf ein Minimum verringert wird. Dabei muss unter Einbeziehung der dämmenden Wirkung des Gehörschutzes sichergestellt werden, dass der auf das Gehör des Beschäftigten einwirkende Lärm die maximal zulässigen Expositionswerte L (tief) EX,8h = 85 dB(A) beziehungsweise L (tief) pC,peak = 137 dB(C) nicht überschreitet.
 
 (3) Erreicht oder überschreitet die Lärmexposition am Arbeitsplatz einen der oberen Auslösewerte nach § 6 Satz 1 Nr. 1, hat der Arbeitgeber dafür Sorge zu tragen, dass die Beschäftigten den persönlichen Gehörschutz bestimmungsgemäß verwenden.
 
@@ -154,17 +114,17 @@ Schutzmaßnahmen bei Vibrationen
 
 ### § 9 — Expositionsgrenzwerte und Auslösewerte für Vibrationen
 
-(1) Für Hand-Arm-Vibrationen beträgt Die Exposition der Beschäftigten gegenüber Hand-Arm-Vibrationen wird nach Nummer 1 des Anhangs ermittelt und bewertet.
+(1) Für Hand-Arm-Vibrationen beträgt
 
-1.
+1. der Expositionsgrenzwert A(8) = 5 m/s (hoch) 2 und
 
-2.
+2. der Auslösewert A(8) = 2,5 m/s (hoch) 2.
 
-(2) Für Ganzkörper-Vibrationen beträgt Die Exposition der Beschäftigten gegenüber Ganzkörper-Vibrationen wird nach Nummer 2 des Anhangs ermittelt und bewertet.
+(2) Für Ganzkörper-Vibrationen beträgt
 
-1.
+1. der Expositionsgrenzwert A(8) = 1,15 m/s (hoch) 2 in X- und Y-Richtung und A(8) = 0,8 m/s (hoch) 2 in Z-Richtung und
 
-2.
+2. der Auslösewert A(8) = 0,5 m/s (hoch) 2.
 
 ### § 10 — Maßnahmen zur Vermeidung und Verringerung der Exposition durch
 Vibrationen
@@ -173,23 +133,23 @@ Vibrationen
 
 (2) Zu den Maßnahmen nach Absatz 1 gehören insbesondere
 
-1.
+1. alternative Arbeitsverfahren, welche die Exposition gegenüber Vibrationen verringern,
 
-2.
+2. Auswahl und Einsatz neuer oder bereits vorhandener Arbeitsmittel, die nach ergonomischen Gesichtspunkten ausgelegt sind und unter Berücksichtigung der auszuführenden Tätigkeit möglichst geringe Vibrationen verursachen, beispielsweise schwingungsgedämpfte handgehaltene oder handgeführte Arbeitsmaschinen, welche die auf den Hand-Arm-Bereich übertragene Vibration verringern,
 
-3.
+3. die Bereitstellung von Zusatzausrüstungen, welche die Gesundheitsgefährdung auf Grund von Vibrationen verringern, beispielsweise Sitze, die Ganzkörper-Vibrationen wirkungsvoll dämpfen,
 
-4.
+4. Wartungsprogramme für Arbeitsmittel, Arbeitsplätze und Anlagen sowie Fahrbahnen,
 
-5.
+5. die Gestaltung und Einrichtung der Arbeitsstätten und Arbeitsplätze,
 
-6.
+6. die Schulung der Beschäftigten im bestimmungsgemäßen Einsatz und in der sicheren und vibrationsarmen Bedienung von Arbeitsmitteln,
 
-7.
+7. die Begrenzung der Dauer und Intensität der Exposition,
 
-8.
+8. Arbeitszeitpläne mit ausreichenden Zeiten ohne belastende Exposition und
 
-9.
+9. die Bereitstellung von Kleidung für gefährdete Beschäftigte zum Schutz vor Kälte und Nässe.
 
 (3) Der Arbeitgeber hat, insbesondere durch die Maßnahmen nach Absatz 1, dafür Sorge zu tragen, dass bei der Exposition der Beschäftigten die Expositionsgrenzwerte nach § 9 Abs. 1 Satz 1 Nr. 1 und § 9 Abs. 2 Satz 1 Nr. 1 nicht überschritten werden. Werden die Expositionsgrenzwerte trotz der durchgeführten Maßnahmen überschritten, hat der Arbeitgeber unverzüglich die Gründe zu ermitteln und weitere Maßnahmen zu ergreifen, um die Exposition auf einen Wert unterhalb der Expositionsgrenzwerte zu senken und ein erneutes Überschreiten der Grenzwerte zu verhindern.
 
@@ -203,21 +163,21 @@ Vibrationen
 
 (2) Der Arbeitgeber stellt sicher, dass die Unterweisung nach Absatz 1 in einer für die Beschäftigten verständlichen Form und Sprache erfolgt und mindestens folgende Informationen enthält:
 
-1.
+1. die Art der Gefährdung,
 
-2.
+2. die durchgeführten Maßnahmen zur Beseitigung oder zur Minimierung der Gefährdung unter Berücksichtigung der Arbeitsplatzbedingungen,
 
-3.
+3. die Expositionsgrenzwerte und Auslösewerte,
 
-4.
+4. die Ergebnisse der Ermittlungen zur Exposition zusammen mit einer Erläuterung ihrer Bedeutung und der Bewertung der damit verbundenen möglichen Gefährdungen und gesundheitlichen Folgen,
 
-5.
+5. die sachgerechte Verwendung der persönlichen Schutzausrüstung,
 
-6.
+6. die Voraussetzungen, unter denen die Beschäftigten Anspruch auf arbeitsmedizinische Vorsorge haben, und deren Zweck,
 
-7.
+7. die ordnungsgemäße Handhabung der Arbeitsmittel und sichere Arbeitsverfahren zur Minimierung der Expositionen,
 
-8.
+8. Hinweise zur Erkennung und Meldung möglicher Gesundheitsschäden.
 
 (3) Um frühzeitig Gesundheitsstörungen durch Lärm oder Vibrationen erkennen zu können, hat der Arbeitgeber sicherzustellen, dass ab dem Überschreiten der unteren Auslösewerte für Lärm und dem Überschreiten der Auslösewerte für Vibrationen die betroffenen Beschäftigten eine allgemeine arbeitsmedizinische Beratung erhalten. Die Beratung ist unter Beteiligung des in § 7 Abs. 1 der Verordnung zur arbeitsmedizinischen Vorsorge genannten Arztes durchzuführen, falls dies aus arbeitsmedizinischen Gründen erforderlich sein sollte. Die arbeitsmedizinische Beratung kann im Rahmen der Unterweisung nach Absatz 1 erfolgen.
 
@@ -236,55 +196,55 @@ Der Ausschuss nach § 21 der Betriebssicherheitsverordnung vom 3. Februar 2015 (
 
 ### § 15 — Ausnahmen
 
-(1) Die zuständige Behörde kann auf schriftlichen oder elektronischen Antrag des Arbeitgebers Ausnahmen von den Vorschriften der §§ 7 und 10 zulassen, wenn die Durchführung der Vorschrift im Einzelfall zu einer unverhältnismäßigen Härte führen würde und die Abweichung mit dem Schutz der Beschäftigten vereinbar ist. Diese Ausnahmen können mit Nebenbestimmungen verbunden werden, die unter Berücksichtigung der besonderen Umstände gewährleisten, dass die sich daraus ergebenden Gefährdungen auf ein Minimum reduziert werden. Diese Ausnahmen sind spätestens nach vier Jahren zu überprüfen; sie sind aufzuheben, sobald die Umstände, die sie gerechtfertigt haben, nicht mehr gegeben sind. Der Antrag des Arbeitgebers muss Angaben enthalten zu Die Ausnahme nach Satz 1 kann auch im Zusammenhang mit Verwaltungsverfahren nach anderen Rechtsvorschriften beantragt werden.
+(1) Die zuständige Behörde kann auf schriftlichen oder elektronischen Antrag des Arbeitgebers Ausnahmen von den Vorschriften der §§ 7 und 10 zulassen, wenn die Durchführung der Vorschrift im Einzelfall zu einer unverhältnismäßigen Härte führen würde und die Abweichung mit dem Schutz der Beschäftigten vereinbar ist. Diese Ausnahmen können mit Nebenbestimmungen verbunden werden, die unter Berücksichtigung der besonderen Umstände gewährleisten, dass die sich daraus ergebenden Gefährdungen auf ein Minimum reduziert werden. Diese Ausnahmen sind spätestens nach vier Jahren zu überprüfen; sie sind aufzuheben, sobald die Umstände, die sie gerechtfertigt haben, nicht mehr gegeben sind. Der Antrag des Arbeitgebers muss Angaben enthalten zu
 
-1.
+1. der Gefährdungsbeurteilung einschließlich deren Dokumentation,
 
-2.
+2. Art, Ausmaß und Dauer der ermittelten Exposition,
 
-3.
+3. den Messergebnissen,
 
-4.
+4. dem Stand der Technik bezüglich der Tätigkeiten und der Arbeitsverfahren sowie den technischen, organisatorischen und persönlichen Schutzmaßnahmen,
 
-5.
+5. Lösungsvorschlägen und einem Zeitplan, wie die Exposition der Beschäftigten reduziert werden kann, um die Expositions- und Auslösewerte einzuhalten.
 
-6.
+6. (weggefallen)
 
 (2) In besonderen Fällen kann die zuständige Behörde auf Antrag des Arbeitgebers zulassen, dass für Tätigkeiten, bei denen die Lärmexposition von einem Arbeitstag zum anderen erheblich schwankt, für die Anwendung der Auslösewerte zur Bewertung der Lärmpegel, denen die Beschäftigten ausgesetzt sind, anstatt des Tages-Lärmexpositionspegels der Wochen-Lärmexpositionspegel verwendet wird, sofern
 
-1.
+1. der Wochen-Lärmexpositionspegel den Expositionswert L (tief) EX,40h = 85 dB(A) nicht überschreitet und dies durch eine geeignete Messung nachgewiesen wird und
 
-2.
+2. geeignete Maßnahmen getroffen werden, um die mit diesen Tätigkeiten verbundenen Gefährdungen auf ein Minimum zu verringern.
 
 ### § 16 — Straftaten und Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 25 Abs. 1 Nr. 1 des Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 3 Abs. 1 Satz 2 die auftretende Exposition nicht in dem in Absatz 2 genannten Umfang ermittelt und bewertet,
 
-2.
+2. entgegen § 3 Abs. 4 Satz 1 eine Gefährdungsbeurteilung nicht dokumentiert oder in der Dokumentation entgegen § 3 Abs. 4 Satz 2 die dort genannten Angaben nicht macht,
 
-3.
+3. entgegen § 4 Abs. 1 Satz 1 in Verbindung mit Satz 2 nicht sicherstellt, dass Messungen nach dem Stand der Technik durchgeführt werden, oder entgegen § 4 Abs. 1 Satz 4 die Messergebnisse nicht speichert,
 
-4.
+4. entgegen § 5 Satz 1 nicht sicherstellt, dass die Gefährdungsbeurteilung von fachkundigen Personen durchgeführt wird, oder entgegen § 5 Satz 4 nicht die dort genannten Personen mit der Durchführung der Messungen beauftragt,
 
-5.
+5. entgegen § 7 Abs. 4 Satz 1 Arbeitsbereiche nicht kennzeichnet oder abgrenzt,
 
-6.
+6. entgegen § 7 Abs. 5 Satz 1 ein Programm mit technischen und organisatorischen Maßnahmen zur Verringerung der Lärmexposition nicht durchführt,
 
-7.
+7. entgegen § 8 Abs. 1 in Verbindung mit Abs. 2 den dort genannten Gehörschutz nicht zur Verfügung stellt,
 
-8.
+8. entgegen § 8 Abs. 3 nicht dafür Sorge trägt, dass die Beschäftigten den dort genannten Gehörschutz bestimmungsgemäß verwenden,
 
-9.
+9. entgegen § 10 Abs. 3 Satz 1 nicht dafür sorgt, dass die in § 9 Abs. 1 Satz 1 Nr. 1 oder § 9 Abs. 2 Satz 1 Nr. 1 genannten Expositionsgrenzwerte nicht überschritten werden,
 
-10.
+10. entgegen § 10 Abs. 4 Satz 1 ein Programm mit technischen und organisatorischen Maßnahmen zur Verringerung der Exposition durch Vibrationen nicht durchführt oder
 
-11.
+11. entgegen § 11 Abs. 1 nicht sicherstellt, dass die Beschäftigten eine Unterweisung erhalten, die auf den Ergebnissen der Gefährdungsbeurteilung beruht und die in § 11 Abs. 2 genannten Informationen enthält.
 
-12.
+12. (weggefallen)
 
-13.
+13. (weggefallen)
 
 (2) Wer durch eine in Absatz 1 bezeichnete vorsätzliche Handlung das Leben oder die Gesundheit eines Beschäftigten gefährdet, ist nach § 26 Nr. 2 des Arbeitsschutzgesetzes strafbar.
 
@@ -292,32 +252,28 @@ Der Ausschuss nach § 21 der Betriebssicherheitsverordnung vom 3. Februar 2015 (
 
 (1) Für den Bereich des Musik- und Unterhaltungssektors ist diese Verordnung erst ab dem 15. Februar 2008 anzuwenden.
 
-(2) Für Wehrmaterial der Bundeswehr, das vor dem 1. Juli 2007 erstmals in Betrieb genommen wurde, gilt bis zum 1. Juli 2011 abweichend von § 9 Abs. 2 Nr. 1 für Ganzkörper-Vibrationen in Z-Richtung ein Expositionsgrenzwert von A(8) = 1,15 m/s (hoch) 2.
-
-(3) Abweichend von § 9 Abs. 2 Nr. 1 darf bis zum 31. Dezember 2011 bei Tätigkeiten mit Baumaschinen und Baugeräten, die vor dem Jahr 1997 hergestellt worden sind und bei deren Verwendung trotz Durchführung aller in Betracht kommenden Maßnahmen nach dieser Verordnung die Einhaltung des Expositionsgrenzwertes für Ganzkörper-Vibrationen nach § 9 Abs. 2 Nr. 1 nicht möglich ist, an höchstens 30 Tagen im Jahr der Expositionsgrenzwert für Ganzkörper-Vibrationen in Z-Richtung von A(8) = 0,8 m/s (hoch) 2 bis höchstens 1,15 m/s (hoch) 2 überschritten werden.
-
 ### Anhang — Vibrationen
 
-1.1
+1. Hand-Arm-Vibrationen
 
-1.2
+1.1 Ermittlung und Bewertung der Exposition Die Bewertung des Ausmaßes der Exposition gegenüber Hand-Arm-Vibrationen erfolgt nach dem Stand der Technik anhand der Berechnung des auf einen Bezugszeitraum von acht Stunden normierten Tagesexpositionswertes A(8); dieser wird ausgedrückt als die Quadratwurzel aus der Summe der Quadrate (Gesamtwert) der Effektivwerte der frequenzbewerteten Beschleunigung in den drei orthogonalen Richtungen a (tief) hwx, a (tief) hwy, a (tief) hwz. Die Bewertung des Ausmaßes der Exposition kann mittels einer Schätzung anhand der Herstellerangaben zum Ausmaß der von den verwendeten Arbeitsmitteln verursachten Vibrationen und mittels Beobachtung der spezifischen Arbeitsweisen oder durch Messung vorgenommen werden.
 
-a)
+1.2 Messung Im Falle von Messungen gemäß § 4 Abs. 2a)können Stichprobenverfahren verwendet werden, wenn sie für die fraglichen Vibrationen, denen der einzelne Beschäftigte ausgesetzt ist, repräsentativ sind; die eingesetzten Verfahren und Vorrichtungen müssen hierbei den besonderen Merkmalen der zu messenden Vibrationen, den Umweltfaktoren und den technischen Merkmalen des Messgeräts angepasst sein;b)an Geräten, die beidhändig gehalten oder geführt werden müssen, sind die Messungen an jeder Hand vorzunehmen. Die Exposition wird unter Bezug auf den höheren der beiden Werte ermittelt; der Wert für die andere Hand wird ebenfalls angegeben. können Stichprobenverfahren verwendet werden, wenn sie für die fraglichen Vibrationen, denen der einzelne Beschäftigte ausgesetzt ist, repräsentativ sind; die eingesetzten Verfahren und Vorrichtungen müssen hierbei den besonderen Merkmalen der zu messenden Vibrationen, den Umweltfaktoren und den technischen Merkmalen des Messgeräts angepasst sein; an Geräten, die beidhändig gehalten oder geführt werden müssen, sind die Messungen an jeder Hand vorzunehmen. Die Exposition wird unter Bezug auf den höheren der beiden Werte ermittelt; der Wert für die andere Hand wird ebenfalls angegeben.
 
-b)
+1.3 Interferenzen § 3 Abs. 3 Satz 2 ist insbesondere dann zu berücksichtigen, wenn sich Vibrationen auf das korrekte Handhaben von Bedienungselementen oder das Ablesen von Anzeigen störend auswirken.
 
-1.3
+1.4 Indirekte Gefährdung § 3 Abs. 3 Satz 2 ist insbesondere dann zu berücksichtigen, wenn sich Vibrationen auf die Stabilität der Strukturen oder die Festigkeit von Verbindungen nachteilig auswirken.
 
-1.4
+1.5 Persönliche Schutzausrüstungen Persönliche Schutzausrüstungen gegen Hand-Arm-Vibrationen können Teil des Maßnahmenprogramms gemäß § 10 Abs. 4 sein.
 
-1.5
+2. Ganzkörper-Vibrationen
 
-2.1
+2.1 Bewertung der Exposition Die Bewertung des Ausmaßes der Exposition gegenüber Ganzkörper-Vibrationen erfolgt nach dem Stand der Technik anhand der Berechnung des auf einen Bezugszeitraum von acht Stunden normierten Tages-Vibrationsexpositionswertes A(8); dieser wird ermittelt aus demjenigen korrigierten Effektivwert der frequenzbewerteten Beschleunigung 1,4 awx, 1,4 awy oder awz der drei zueinander orthogonalen Richtungen x, y oder z, bei dem der Zeitraum, der zu einer Überschreitung des Auslösewertes beziehungsweise des Expositionsgrenzwertes führt, am geringsten ist. Die Bewertung des Ausmaßes der Exposition kann mittels einer Schätzung anhand der Herstellerangaben zum Ausmaß der von den verwendeten Arbeitsmitteln verursachten Vibrationen und mittels Beobachtung der spezifischen Arbeitsweisen oder durch Messung vorgenommen werden.
 
-2.2
+2.2 Messung Im Falle von Messungen gemäß § 4 Abs. 2 können Stichprobenverfahren verwendet werden, wenn sie für die betreffenden Vibrationen, denen der einzelne Beschäftigte ausgesetzt ist, repräsentativ sind. Die eingesetzten Verfahren müssen den besonderen Merkmalen der zu messenden Vibrationen, den Umweltfaktoren und den technischen Merkmalen des Messgeräts angepasst sein.
 
-2.3
+2.3 Interferenzen § 3 Abs. 3 Satz 2 ist insbesondere dann zu berücksichtigen, wenn sich Vibrationen auf das korrekte Handhaben von Bedienungselementen oder das Ablesen von Anzeigen störend auswirken.
 
-2.4
+2.4 Indirekte Gefährdungen § 3 Abs. 3 Satz 2 ist insbesondere dann zu berücksichtigen, wenn sich Vibrationen auf die Stabilität der Strukturen oder die Festigkeit von Verbindungen nachteilig auswirken.
 
-2.5
+2.5 Ausdehnungen der Exposition Wenn die Ausdehnung der beruflichen Exposition über eine Achtstundenschicht hinaus dazu führt, dass Beschäftigte vom Arbeitgeber überwachte Ruheräume benutzen, müssen in diesen die Ganzkörper-Vibrationen auf ein mit dem Zweck und den Nutzungsbedingungen der Räume zu vereinbarendes Niveau gesenkt werden. Fälle höherer Gewalt sind ausgenommen.

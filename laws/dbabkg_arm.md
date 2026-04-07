@@ -17,9 +17,9 @@ Dem in Eriwan am 29. Juni 2016 unterzeichneten Abkommen zwischen der Bundesrepub
 
 Das Bundesministerium der Finanzen wird ermächtigt, mit Zustimmung des Bundesrates Rechtsverordnungen zu erlassen, um die folgenden, im Abkommen vorgesehenen späteren Bestimmungen zu treffen über
 
-1.
+1. den Zeitpunkt der Anwendung der Amtshilfe bei der Steuererhebung aufgrund einer Vereinbarung nach Artikel 31 Absatz 2 Buchstabe c des Abkommens und
 
-2.
+2. im Alleineigentum der Regierung der Republik Armenien stehende Finanzinstitute, für die aufgrund einer Verständigung nach Nummer 6 des Protokolls zum Abkommen der Artikel 11 Absatz 3 des Abkommens Anwendung finden soll.
 
 ### Art 3
 

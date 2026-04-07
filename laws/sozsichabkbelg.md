@@ -19,7 +19,11 @@ dem Zusatzprotokoll zu dem Abkommen
 
 ### Art 3
 
-Der Bundesminister für Arbeit und Sozialordnung kann durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung des Abkommens, des Schlußprotokolls zu dem Abkommen und der Zusatzvereinbarungen a)Träger der Sozialversicherung oder Verbände solcher Träger als Verbindungsstellen bestimmen, ihre Aufgaben abgrenzen und die Aufsicht regeln, b)den Personen, auf die das Abkommen und die Zusatzvereinbarungen anzuwenden sind, die Vorlage von Formblättern, ärztlichen Bescheinigungen und anderen Schriftstücken sowie die Einhaltung von Fristen und die Beachtung von Meldevorschriften auferlegen.
+Der Bundesminister für Arbeit und Sozialordnung kann durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung des Abkommens, des Schlußprotokolls zu dem Abkommen und der Zusatzvereinbarungen
+
+a) Träger der Sozialversicherung oder Verbände solcher Träger als Verbindungsstellen bestimmen, ihre Aufgaben abgrenzen und die Aufsicht regeln,
+
+b) den Personen, auf die das Abkommen und die Zusatzvereinbarungen anzuwenden sind, die Vorlage von Formblättern, ärztlichen Bescheinigungen und anderen Schriftstücken sowie die Einhaltung von Fristen und die Beachtung von Meldevorschriften auferlegen.
 
 ### Art 4
 
@@ -27,4 +31,6 @@ Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung die
 
 ### Art 5
 
-(1) Dieses Gesetz tritt mit Wirkung vom 1. Januar 1959 in Kraft.(2)
+(1) Dieses Gesetz tritt mit Wirkung vom 1. Januar 1959 in Kraft.
+
+(2)

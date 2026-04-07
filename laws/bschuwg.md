@@ -11,15 +11,15 @@ Bundes und parlamentarische Kontrolle
 
 ### § 1 — Ermächtigung zur Übertragung von Aufgaben des Schuldenwesens
 
-(1) Zur Verbesserung der Wirtschaftlichkeit des Schuldenwesens des Bundes wird das Bundesministerium der Finanzen ermächtigt, durch Rechtsverordnung der Bundesrepublik Deutschland - Finanzagentur GmbH die folgenden Aufgaben des Schuldenwesens zur Wahrnehmung im Namen des Bundes und seiner Sondervermögen zu übertragen: Aus den in Satz 1 genannten Rechtsgeschäften werden ausschließlich der Bund oder seine Sondervermögen berechtigt und verpflichtet. Über die Emissionsbedingungen und allgemeinen vertraglichen Bedingungen entscheidet das Bundesministerium der Finanzen.
+(1) Zur Verbesserung der Wirtschaftlichkeit des Schuldenwesens des Bundes wird das Bundesministerium der Finanzen ermächtigt, durch Rechtsverordnung der Bundesrepublik Deutschland - Finanzagentur GmbH die folgenden Aufgaben des Schuldenwesens zur Wahrnehmung im Namen des Bundes und seiner Sondervermögen zu übertragen:
 
-1.
+1. Aufnahme von Krediten für den Bund und seine Sondervermögen nach Maßgabe des § 4 sowie Maßnahmen zur Portfoliosteuerung und zur Marktpflege;
 
-2.
+2. Verwaltung der Schulden und Finanzierungsinstrumente des Bundes und seiner Sondervermögen sowie der von der Deutschen Ausgleichsbank begebenen Schuldverschreibungen;
 
-3.
+3. Führung des Bundesschuldbuchs nach Maßgabe der §§ 5 bis 8;
 
-4.
+4. Abschluss von Geschäften zur Steuerung der Liquidität, einschließlich Geschäften zur Geldanlage.
 
 (2) Soweit dies für die Erfüllung der nach Absatz 1 übertragenen Aufgaben erforderlich ist, kann die Bundesrepublik Deutschland - Finanzagentur GmbH Anordnungen zur Annahme oder Leistung von Zahlungen nach § 70 der Bundeshaushaltsordnung erteilen, die von den Kassen des Bundes ausgeführt werden. Das Bundesministerium der Finanzen kann der Bundesrepublik Deutschland - Finanzagentur GmbH zur Erfüllung der übertragenen Aufgaben außerdem die Wahrnehmung des Zahlungsverkehrs als für Zahlungen zuständige Stelle und insoweit als Zahlstelle übertragen. Die Bestimmungen der Bundeshaushaltsordnung und die dazu erlassenen Ausführungsbestimmungen sind insoweit entsprechend anzuwenden.
 
@@ -55,93 +55,77 @@ Bundes und parlamentarische Kontrolle
 
 (1) Die Aufnahme von Krediten durch den Bund und seine Sondervermögen erfolgt im Rahmen des jeweiligen Haushaltsgesetzes durch
 
-1.
+1. Ausgabe von Schuldverschreibungen, insbesondere durch Begebung von Schuldbuchforderungen,
 
-2.
+2. Aufnahme von Darlehen gegen Schuldschein,
 
-3.
+3. Eingehung von Wechselverbindlichkeiten,
 
-4.
+4. Bankkredite oder
 
-5.
+5. sonstige an den Finanzmärkten übliche Finanzierungsinstrumente.
 
 (2) Im Rahmen des jeweiligen Haushaltsgesetzes können an den Finanzmärkten eingeführte derivative Finanzierungsinstrumente eingesetzt werden.
 
 ### § 4a — Einführung von Umschuldungsklauseln
 
-Die Emissionsbedingungen der vom Bund begebenen Schuldverschreibungen mit einer ursprünglichen Laufzeit von über einem Jahr können Klauseln enthalten, die zum Zwecke der Umschuldung eine Änderung der Emissionsbedingungen durch Mehrheitsbeschluss der Gläubiger mit Zustimmung des Bundes ermöglichen (Umschuldungsklauseln). Die Umschuldungsklauseln können auch die Möglichkeit zur einheitlichen Beschlussfassung für Schuldverschreibungen verschiedener Anleihen vorsehen (anleiheübergreifende Änderung). Die Umschuldungsklauseln können folgende Formen von Mehrheitserfordernissen vorsehen: Für die Umschuldung gelten die §§ 4b bis 4k. Die Emissionsbedingungen können von den §§ 4b bis 4d Absatz 1 bis 3 und §§ 4e bis 4k abweichende Regelungen vorsehen.
+Die Emissionsbedingungen der vom Bund begebenen Schuldverschreibungen mit einer ursprünglichen Laufzeit von über einem Jahr können Klauseln enthalten, die zum Zwecke der Umschuldung eine Änderung der Emissionsbedingungen durch Mehrheitsbeschluss der Gläubiger mit Zustimmung des Bundes ermöglichen (Umschuldungsklauseln). Die Umschuldungsklauseln können auch die Möglichkeit zur einheitlichen Beschlussfassung für Schuldverschreibungen verschiedener Anleihen vorsehen (anleiheübergreifende Änderung). Die Umschuldungsklauseln können folgende Formen von Mehrheitserfordernissen vorsehen:
 
-1.
+1. einen Mehrheitsbeschluss für alle betroffenen Anleihen gemeinsam (einstufiges Mehrheitserfordernis) oder
 
-2.
+2. neben einem Mehrheitsbeschluss für alle betroffenen Anleihen gemeinsam zusätzlich einen Mehrheitsbeschluss in jeder betroffenen Anleihe (zweistufiges Mehrheitserfordernis).
 
 ### § 4b — Mehrheitsbeschlüsse der Gläubiger
 
 (1) Die Gläubiger können insbesondere folgende Umschuldungsmaßnahmen beschließen (wesentliche Beschlüsse):
 
-1.
+1. die Verringerung der Zinsen, die Veränderung ihrer Fälligkeit, die Verringerung oder die Veränderung des Verfahrens zu ihrer Berechnung;
 
-2.
+2. die Verringerung der Hauptforderung, die Veränderung ihrer Fälligkeit oder die Veränderung des Verfahrens zu ihrer Berechnung;
 
-3.
+3. die Änderung der Währung der Schuldverschreibungen;
 
-4.
+4. die Änderung des Zahlungsortes;
 
-5.
+5. die sonstige Änderung einer Zahlungsverpflichtung des Bundes;
 
-6.
+6. die Freigabe oder die Änderung einer Garantie oder einer sonstigen Sicherheit, sofern die Freigabe oder die Änderung der Bedingungen nicht bereits ausdrücklich vertraglich vorgesehen sind;
 
-7.
+7. die Änderung der Umstände, bei deren Vorliegen die Schuldverschreibungen vorzeitig gekündigt werden können;
 
-8.
+8. die Änderung der Rangfolge der Forderungen aus den Schuldverschreibungen;
 
-9.
+9. die Änderung des anwendbaren Rechts, sofern die Schuldverschreibungen nicht dem deutschen Recht unterliegen;
 
-10.
+10. die Änderung des Gerichtsstands, sofern in den Emissionsbedingungen ein ausländischer Gerichtsstand vereinbart wurde.
 
 (2) Die Gläubiger beschließen entweder in einer Gläubigerversammlung oder im Wege einer schriftlichen Abstimmung.
 
-(3) Wesentliche Beschlüsse im Sinne des Absatzes 1, die eine einzelne Anleihe betreffen, bedürfen Wesentliche Beschlüsse im Sinne des Absatzes 1, die eine anleiheübergreifende Änderung im Sinne von § 4a Satz 2 betreffen und für die in den Emissionsbedingungen ein einstufiges Mehrheitserfordernis im Sinne von § 4a Satz 3 Nummer 1 vorgesehen ist, bedürfen einer Mehrheit von mindestens zwei Dritteln des Nennwerts der ausstehenden Schuldverschreibungen hinsichtlich aller von der Änderung betroffenen Anleihen. Wesentliche Beschlüsse im Sinne des Absatzes 1, die eine anleiheübergreifende Änderung im Sinne von § 4a Satz 2 betreffen und für die in den Emissionsbedingungen ein zweistufiges Mehrheitserfordernis im Sinne von § 4a Satz 3 Nummer 2 vorgesehen ist, bedürfen
+(3) Wesentliche Beschlüsse im Sinne des Absatzes 1, die eine einzelne Anleihe betreffen, bedürfen
 
-1.
+1. bei Beschlussfassung in einer Gläubigerversammlung, einer Mehrheit von mindestens 75 Prozent des bei der Beschlussfassung vertretenen Nennwertes der ausstehenden Schuldverschreibungen, und
 
-2.
+2. bei Beschlussfassung im Wege einer schriftlichen Abstimmung, einer Mehrheit von mindestens zwei Dritteln des Nennwertes der ausstehenden Schuldverschreibungen.
 
-1.
+(4) Beschlüsse, die keine wesentlichen Beschlüsse im Sinne des § 4b Absatz 1 darstellen (einfache Beschlüsse) und eine einzelne Anleihe betreffen, bedürfen
 
-a)
+1. bei Beschlussfassung in einer Gläubigerversammlung einer Mehrheit von mehr als 50 Prozent des bei der Beschlussfassung vertretenen Nennwertes der ausstehenden Schuldverschreibungen,
 
-b)
-
-2.
-
-a)
-
-b)
-
-(4) Beschlüsse, die keine wesentlichen Beschlüsse im Sinne des § 4b Absatz 1 darstellen (einfache Beschlüsse) und eine einzelne Anleihe betreffen, bedürfen Sofern nach den Bestimmungen der Emissionsbedingungen auch für einfache Beschlüsse anleiheübergreifende Änderungen mit einem einstufigen Mehrheitserfordernis im Sinne von § 4a Satz 3 Nummer 1 herbeigeführt werden können, bedürfen diese Beschlüsse einer Mehrheit von mehr als 50 Prozent des Nennwerts der ausstehenden Schuldverschreibungen hinsichtlich aller von der Änderung betroffenen Anleihen.
-
-1.
-
-2.
+2. bei Beschlussfassung im Wege einer schriftlichen Abstimmung einer Mehrheit von mehr als 50 Prozent des Nennwertes der ausstehenden Schuldverschreibungen.
 
 (5) Die Gläubiger können den Inhalt wesentlicher Beschlüsse und den für eine Mehrheit erforderlichen Nennwert der ausstehenden Schuldverschreibungen abweichend von den Absätzen 1, 3 und 4 festlegen; eine Beschlussfassung hierüber gilt als wesentlicher Beschluss.
 
-(6) Sehen die Emissionsbedingungen ein einstufiges Mehrheitserfordernis im Sinne von § 4a Satz 3 Nummer 1 vor, müssen anleiheübergreifende Änderungen einheitlich vorgenommen werden. Bei einer Änderung der Emissionsbedingungen oder einem Umtausch, einer Umwandlung oder einer Ersetzung der Schuldverschreibungen liegt eine einheitliche Änderung vor, wenn Bei einem Umtausch, einer Umwandlung oder einer Ersetzung gemäß Satz 2 Nummer 3 Buchstabe a oder einer Änderung der Emissionsbedingungen gemäß Satz 2 Nummer 4 liegt eine einheitliche Änderung nur vor, wenn den Gläubigern aller betroffenen Anleihen eine Gegenleistung in gleicher Höhe je Nennwert, je aufgelaufenem und je überfälligem Zinsbetrag angeboten wird. Bei einem Umtausch, einer Umwandlung oder einer Ersetzung gemäß Satz 2 Nummer 3 Buchstabe b liegt eine einheitliche Änderung nur vor, wenn den Gläubigern aller betroffenen Anleihen für den Fall, dass sie dieselbe Auswahl treffen, eine Gegenleistung in gleicher Höhe je Nennwert, je aufgelaufenem und je überfälligem Zinsbetrag angeboten wird.
+(6) Sehen die Emissionsbedingungen ein einstufiges Mehrheitserfordernis im Sinne von § 4a Satz 3 Nummer 1 vor, müssen anleiheübergreifende Änderungen einheitlich vorgenommen werden. Bei einer Änderung der Emissionsbedingungen oder einem Umtausch, einer Umwandlung oder einer Ersetzung der Schuldverschreibungen liegt eine einheitliche Änderung vor, wenn
 
-1.
+1. die Hauptforderung oder die Verzinsung in allen betroffenen Anleihen im selben Verhältnis verringert werden,
 
-2.
+2. der Fälligkeitstermin von Zahlungen in allen betroffenen Anleihen um denselben Zeitraum oder im selben Verhältnis verschoben wird,
 
-3.
+3. der Umtausch, die Umwandlung oder die Ersetzung a)für alle Gläubiger aller betroffenen Anleihen in dasselbe neue Instrument oder dieselbe neue sonstige Gegenleistung erfolgt oderb)in ein neues Instrument, in neue Instrumente oder in eine neue sonstige Gegenleistung nach Auswahl des Gläubigers aus einem allen Gläubigern aller betroffenen Anleihen angebotenen identischen Katalog verschiedener Instrumente oder sonstiger Gegenleistungen erfolgt, für alle Gläubiger aller betroffenen Anleihen in dasselbe neue Instrument oder dieselbe neue sonstige Gegenleistung erfolgt oder in ein neues Instrument, in neue Instrumente oder in eine neue sonstige Gegenleistung nach Auswahl des Gläubigers aus einem allen Gläubigern aller betroffenen Anleihen angebotenen identischen Katalog verschiedener Instrumente oder sonstiger Gegenleistungen erfolgt,
 
-a)
+4. die Emissionsbedingungen aller betroffenen Anleihen so geändert werden, dass für die geänderten Schuldverschreibungen die gleichen Bestimmungen gelten mit Ausnahme derjenigen Bedingungen, die auf unterschiedlichen Ausgabewährungen beruhen, oder
 
-b)
-
-4.
-
-5.
+5. die Emissionsbedingungen aller betroffenen Anleihen in Bezug auf Änderungen gemäß Absatz 1 Nummer 4 und 6 bis 10 oder Absatz 5 so geändert werden, dass die geänderten Schuldverschreibungen nach Umsetzung der Änderungen Gegenstand einer identischen Änderung sind.
 
 (7) Die Mehrheitsbeschlüsse der Gläubiger sind für alle Gläubiger derselben Schuldverschreibung und bei einer anleiheübergreifenden Änderung für alle Gläubiger der von der Änderung betroffenen Anleihen gleichermaßen verbindlich. Soweit die Emissionsbedingungen ein zweistufiges Mehrheitserfordernis im Sinne von § 4a Satz 3 Nummer 2 vorsehen, sind wesentliche Beschlüsse, die eine anleiheübergreifende Änderung betreffen und bei denen die erforderlichen Mehrheiten nur hinsichtlich einiger der von der Änderung betroffenen Anleihen erreicht werden, für die Gläubiger dieser Schuldverschreibungen verbindlich, wenn der Bund die Voraussetzungen, die hierfür gegeben sein müssen, vor einem von ihm bestimmten Termin (Stichtag), der höchstens fünf Geschäftstage vor der Gläubigerversammlung oder dem Beginn der schriftlichen Abstimmung liegen darf, bekannt macht und wenn diese Voraussetzungen auch tatsächlich vorliegen.
 
@@ -153,17 +137,11 @@ b)
 
 (1) An Beschlussfassungen der Gläubiger nimmt jeder Gläubiger nach Maßgabe des Nennwertes der ausstehenden Schuldverschreibungen teil, die er am Stichtag hält.
 
-(2) Eine Schuldverschreibung gilt insbesondere dann als nicht ausstehend, wenn sie Ein Rechtsträger ist als vom Bund beherrscht anzusehen, wenn der Bund unmittelbar oder mittelbar berechtigt ist, der Geschäftsleitung des Rechtsträgers Weisungen zu erteilen oder wenn der Bund die Mehrheit der Mitglieder eines Aufsichtsrats oder vergleichbaren Aufsichtsorgans des Rechtsträgers wählen oder sonst berufen kann. Ein Gläubiger kann frei abstimmen, wenn er bei der Abstimmung
+(2) Eine Schuldverschreibung gilt insbesondere dann als nicht ausstehend, wenn sie
 
-1.
+1. der Bund hält oder
 
-2.
-
-1.
-
-2.
-
-3.
+2. ein vom Bund beherrschter Rechtsträger hält und dieser Rechtsträger bei einer Beschlussfassung nicht frei abstimmen kann.
 
 (3) Die Gläubiger können abweichend von Absatz 2 festlegen, unter welchen Voraussetzungen eine Schuldverschreibung als ausstehend gilt; eine Beschlussfassung hierüber gilt als wesentlicher Beschluss.
 
@@ -173,13 +151,13 @@ b)
 
 (1) Der Bund benennt eine zuständige Stelle, die feststellt, ob die für die Beschlussfassung der Gläubiger erforderlichen Mehrheiten erreicht sind (Berechnungsstelle).
 
-(2) Der Bund übergibt der Berechnungsstelle vor einer Beschlussfassung der Gläubiger eine Bescheinigung, aus der ersichtlich sind:Der Bund macht die Bescheinigung so rechtzeitig vor einer Beschlussfassung der Gläubiger bekannt, dass ein angemessen verständiger und sachkundiger Gläubiger die Richtigkeit der Angaben bis zur Beschlussfassung prüfen kann.
+(2) Der Bund übergibt der Berechnungsstelle vor einer Beschlussfassung der Gläubiger eine Bescheinigung, aus der ersichtlich sind:
 
-1.
+1. der Nennwert der am Stichtag ausstehenden Schuldverschreibungen,
 
-2.
+2. der Nennwert der am Stichtag als nicht ausstehend im Sinne von § 4c Absatz 2 Satz 1 geltenden Schuldverschreibungen und
 
-3.
+3. die Gläubiger der am Stichtag als nicht ausstehend im Sinne von § 4c Absatz 2 Satz 1 geltenden Schuldverschreibungen.
 
 (3) Die Angaben in der Bescheinigung nach Absatz 2 sind für alle Gläubiger und den Bund verbindlich, sofern nicht ein betroffener Gläubiger vor der Beschlussfassung der Gläubiger schriftlich und unter Mitteilung von Gründen der Richtigkeit der Angaben widerspricht und sofern nicht dieser Gläubiger einen Beschluss der Gläubiger, der auf einer unrichtigen Angabe beruht, binnen 15 Tagen nach Bekanntmachung des Beschlusses durch Klage nach Maßgabe des § 4i anficht.
 
@@ -193,23 +171,19 @@ b)
 
 (2) Die Gläubigerversammlung ist mindestens 21 Tage vor dem Tag der Versammlung einzuberufen. Eine vertagte Gläubigerversammlung ist mindestens 14 Tage vor dem Tag der Versammlung einzuberufen.
 
-(3) In der Einberufung sind anzugeben:Sind anleiheübergreifende Änderungen Gegenstand der Tagesordnung einer Gläubigerversammlung, sind die Angaben gemäß Satz 1 Nummer 2 um folgende weitere Angaben zu ergänzen:
+(3) In der Einberufung sind anzugeben:
 
-1.
+1. die Zeit und der Ort der Gläubigerversammlung,
 
-2.
+2. die Tagesordnung, die Vorschläge zur Beschlussfassung, einschließlich der Angabe, ob eine anleiheübergreifende Änderung vorgeschlagen wird, und die Voraussetzungen der Beschlussfähigkeit,
 
-3.
+3. der Stichtag sowie die Bedingungen, von denen die Teilnahme an der Gläubigerversammlung abhängen,
 
-4.
+4. die Bedingungen, die erfüllt sein müssen, um eine wirksame Vertretung zu gewährleisten,
 
-5.
+5. die Voraussetzungen, von denen die Verbindlichkeit von Gläubigerbeschlüssen bei einer anleiheübergreifenden Änderung abhängt, bei der die erforderlichen Mehrheiten nur hinsichtlich einiger der von der Änderung betroffenen Anleihen erreicht werden, und
 
-6.
-
-1.
-
-2.
+6. die Berechnungsstelle.
 
 (4) Die Einberufung ist unverzüglich bekannt zu machen.
 
@@ -257,11 +231,11 @@ Die Bekanntmachungen nach § 4b Absatz 7 Satz 2 und Absatz 9, § 4c Absatz 4, §
 
 (2) Das Bundesschuldbuch besteht aus Abteilungen. Jeweils in eine Abteilung werden eingetragen:
 
-1.
+1. Sammelschuldbuchforderungen nach Maßgabe des § 6,
 
-2.
+2. Einzelschuldbuchforderungen nach Maßgabe des § 7,
 
-3.
+3. sonstige Verbindlichkeiten im Sinne des § 4, soweit hierfür Abteilungen eingerichtet worden sind; über die Einrichtung dieser Abteilungen entscheidet das Bundesministerium der Finanzen.
 
 (3) Eine Schuldbuchforderung wird als Sammelschuldbuchforderung oder Einzelschuldbuchforderung durch die Eintragung in die jeweilige Abteilung begründet; durch die Eintragung in das Bundesschuldbuch gilt eine gesetzlich vorgeschriebene Form als beachtet.
 
@@ -289,9 +263,9 @@ Die Bekanntmachungen nach § 4b Absatz 7 Satz 2 und Absatz 9, § 4c Absatz 4, §
 
 (2) Sofern nicht in den Emissionsbedingungen die Begründung einer Einzelschuldbuchforderung ausgeschlossen ist, kann eine Einzelschuldbuchforderung auch dadurch begründet werden, dass
 
-1.
+1. für den Gläubiger, der dem Bund den Kaufpreis zur Verfügung stellt, der entsprechende Nennbetrag unmittelbar als Einzelschuldbuchforderung eingetragen wird,
 
-2.
+2. für den Gläubiger, der der das Bundesschuldbuch führenden Stelle Bundeswertpapiere zur Umwandlung in eine Buchforderung einliefert, eine Einzelschuldbuchforderung in Höhe des Nennbetrages der eingelieferten Wertpapiere eingetragen wird; hierdurch erlöschen seine Rechte an den eingelieferten Wertpapieren. Das durch das Wertpapier begründete Rechtsverhältnis zwischen Schuldner und Gläubiger gilt auch für die Einzelschuldbuchforderung.
 
 (3) Eine Einzelschuldbuchforderung kann auch zur Erfüllung eines gesetzlich begründeten Leistungsanspruchs als dem Gläubiger zustehende Forderung in das Bundesschuldbuch eingetragen werden, wenn Schuldner der Bund oder eines seiner Sondervermögen ist.
 
@@ -317,11 +291,11 @@ Die Bekanntmachungen nach § 4b Absatz 7 Satz 2 und Absatz 9, § 4c Absatz 4, §
 
 (1) Die Bundesrepublik Deutschland – Finanzagentur GmbH hat für die Erfüllung der ihr nach § 1 Absatz 1 übertragenen Aufgaben sowie bei der Erfüllung der Aufgaben, die ihr nach § 1 Absatz 4 gesetzlich übertragen oder durch Beschluss der Gesellschafterversammlung zugewiesen werden oder die ihr durch ein anderes Gesetz übertragen werden, die zum Schutz des Vermögens des Bundes und seiner Sondervermögen erforderlichen Maßnahmen zu treffen. Sie muss über angemessene interne Sicherungsmaßnahmen verfügen, die der Verhinderung von Geldwäsche, Terrorismusfinanzierung und sonstigen strafbaren Handlungen dienen. Interne Sicherungsmaßnahmen können insbesondere sein
 
-1.
+1. die Überprüfung von Mitarbeitern und Mitarbeiterinnen auf ihre Zuverlässigkeit durch geeignete Maßnahmen,
 
-2.
+2. die erstmalige und laufende Unterrichtung der Mitarbeiter und Mitarbeiterinnen insbesondere in Bezug auf Typologien und Methoden der Geldwäsche und der Terrorismusfinanzierung einschließlich der Datenschutzbestimmungen und
 
-3.
+3. die Einholung von geeigneten Informationen zu Geschäftspartnern und Dienstleistern.
 
 (2) Die Bundesrepublik Deutschland – Finanzagentur GmbH ist befugt, dafür risikobasiert angemessene geschäfts- und kundenbezogene Sicherungssysteme zu schaffen und zu aktualisieren sowie Kontrollen zur Minderung der Risiken von Geldwäsche, Terrorismusfinanzierung und sonstigen strafbaren Handlungen im Sinne von Absatz 1 durchzuführen. Zudem ist sie befugt, Datenverarbeitungssysteme zu betreiben und zu aktualisieren, mittels derer sie in der Lage ist, auffällige Geschäftsbeziehungen und einzelne Transaktionen zu erkennen, die auf Grund des öffentlich und in der Bundesrepublik Deutschland – Finanzagentur GmbH verfügbaren Erfahrungswissens über die Methoden der Geldwäsche, der Terrorismusfinanzierung und über die sonstigen strafbaren Handlungen im Sinne von Absatz 1 im Vergleich zu anderen Geschäftsbeziehungen und Transaktionen als zweifelhaft oder ungewöhnlich anzusehen sind.
 
@@ -339,11 +313,11 @@ Die Bekanntmachungen nach § 4b Absatz 7 Satz 2 und Absatz 9, § 4c Absatz 4, §
 
 (1) Die Bundesrepublik Deutschland – Finanzagentur GmbH darf die Sicherungsmaßnahmen nach diesem Gesetz auf Grundlage von vertraglichen Vereinbarungen durch einen Dritten durchführen lassen, wenn sie zuvor die Zustimmung des Bundesministeriums der Finanzen eingeholt hat. Die Zustimmung ist insbesondere zu versagen, wenn
 
-1.
+1. der Dritte nicht die Gewähr dafür bietet, dass die Sicherungsmaßnahmen ordnungsgemäß durchgeführt werden,
 
-2.
+2. die Steuerungsmöglichkeiten der Bundesrepublik Deutschland – Finanzagentur GmbH beeinträchtigt werden oder
 
-3.
+3. die Gesellschafterrechte des Bundes und ihre Ausübung durch das Bundesministerium der Finanzen beeinträchtigt werden.
 
 (2) Das Bundesministerium der Finanzen kann die Rückübertragung auf die Bundesrepublik Deutschland – Finanzagentur GmbH jederzeit, insbesondere dann verlangen, wenn der Dritte nicht die Gewähr dafür bietet, dass die Sicherungsmaßnahmen ordnungsgemäß durchgeführt werden.
 
@@ -351,13 +325,13 @@ Die Bekanntmachungen nach § 4b Absatz 7 Satz 2 und Absatz 9, § 4c Absatz 4, §
 
 ### § 12 — Private Finanzgeschäfte der Beschäftigten der Bundesrepublik Deutschland – Finanzagentur GmbH
 
-(1) Der Bundesrepublik Deutschland – Finanzagentur GmbH wird die Befugnis eingeräumt, durch betriebsinterne Weisung oder Vereinbarung § 6 Absatz 15 des Wertpapierhandelsgesetzes ist entsprechend anzuwenden. Das Auskunftsverweigerungsrecht besteht nicht für Unterlagen, deren Vorlage die Bundesrepublik Deutschland – Finanzagentur GmbH verlangen kann.
+(1) Der Bundesrepublik Deutschland – Finanzagentur GmbH wird die Befugnis eingeräumt, durch betriebsinterne Weisung oder Vereinbarung
 
-1.
+1. ihren Beschäftigten und für sie tätigen freien Mitarbeiterinnen und Mitarbeitern unter Berücksichtigung ihrer ausgeübten Funktion den privaten Handel für eigene oder fremde Rechnung oder im Namen anderer Personen, einschließlich Familienangehöriger, in Finanzinstrumenten im Sinne des § 2 Absatz 4 des Wertpapierhandelsgesetzes zu verbieten, soweit auf Grund der Art der Geschäfte, der Transaktionen oder der Tätigkeit ein Interessenkonflikt zu befürchten ist,
 
-2.
+2. für Beschäftigte und für sie tätige freie Mitarbeiterinnen und Mitarbeiter unter Berücksichtigung ihrer ausgeübten Funktion Anzeigepflichten für private Geschäfte für eigene oder fremde Rechnung oder im Namen anderer Personen, einschließlich Familienangehöriger, in Finanzinstrumenten im Sinne des § 2 Absatz 4 des Wertpapierhandelsgesetzes vorzusehen und den Abschluss solcher Geschäfte nur unter dem Vorbehalt der Zustimmung oder Genehmigung zu erlauben sowie
 
-3.
+3. ihren Beschäftigten und für sie tätigen freien Mitarbeiterinnen und Mitarbeitern unter Berücksichtigung ihrer ausgeübten Funktion zu verbieten, Familienangehörigen zu empfehlen, mit Finanzinstrumenten im Sinne des § 2 Absatz 4 des Wertpapierhandelsgesetzes zu handeln, deren Handel ihnen selbst nach Nummer 1 verboten wurde.
 
 (2) Der Bundesrepublik Deutschland – Finanzagentur GmbH wird die Befugnis eingeräumt, risikobasierte und geschäftsbezogene Sicherungssysteme einzuführen, zu aktualisieren sowie Kontrollen durchzuführen und Insiderlisten zu erstellen, die geeignet sind, Verstöße oder Zuwiderhandlungen der bei der Bundesrepublik Deutschland – Finanzagentur GmbH Beschäftigten gegen die Verbote nach Absatz 1 Nummer 1 oder Artikel 14 der Verordnung (EU) Nr. 596/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über Marktmissbrauch (Marktmissbrauchsverordnung) und zur Aufhebung der Richtlinie 2003/6/EG des Europäischen Parlaments und des Rates und der Richtlinien 2003/124/EG, 2003/125/EG und 2004/72/EG der Kommission (ABl. L 173 vom 12.6.2014, S. 1; L 287 vom 21.10.2016, S. 320; L 306 vom 15.11.2016, S. 43; L 348 vom 21.12.2016, S. 83), die zuletzt durch die Verordnung (EU) 2019/2115 (ABl. L 320 vom 11.12.2019, S. 1) geändert worden ist, zu verhindern oder aufzuklären.
 
@@ -365,23 +339,23 @@ Die Bekanntmachungen nach § 4b Absatz 7 Satz 2 und Absatz 9, § 4c Absatz 4, §
 
 (1) Die Bundesrepublik Deutschland – Finanzagentur GmbH darf personenbezogene Daten der in § 12 Absatz 1 Satz 1 genannten Personen zur Durchsetzung der nach § 12 Absatz 1 Satz 1 erlassenen betriebsinternen Weisungen oder Vereinbarungen sowie zu den in § 12 Absatz 1 und 2 genannten Zwecken nur verarbeiten, soweit dies erforderlich ist. Dies umfasst
 
-1.
+1. den oder die Vornamen und den Nachnamen,
 
-2.
+2. den Geburtsort,
 
-3.
+3. das Geburtsdatum,
 
-4.
+4. die Staatsangehörigkeit,
 
-5.
+5. die Wohnanschrift,
 
-6.
+6. die Kontoverbindung einschließlich der Depotnummer und der bestehenden Depot- und Vollmachtsanzeigen,
 
-7.
+7. die Wertpapierkennnummer sowie die Internationale Wertpapierkennnummer des zu meldenden Finanzinstruments,
 
-8.
+8. den Handelsplatz und
 
-9.
+9. das Datum sowie die Uhrzeit der Auftragserteilung und der Ausführung.
 
 (2) Die Bundesrepublik Deutschland – Finanzagentur GmbH darf personenbezogene Daten im Sinne von Absatz 1 Satz 2 Nummer 1 bis 5 von Dritten nur verarbeiten, soweit dies für die in § 12 Absatz 1 und 2 genannten Zwecke erforderlich ist.
 
@@ -391,79 +365,55 @@ Die Bekanntmachungen nach § 4b Absatz 7 Satz 2 und Absatz 9, § 4c Absatz 4, §
 
 Die Bundesrepublik Deutschland – Finanzagentur GmbH ist befugt, insbesondere die folgenden allgemeinen Sorgfaltspflichten risikobasiert umzusetzen:
 
-1.
+1. die Identifizierung des Vertragspartners, Verfügungsberechtigten und gegebenenfalls der für diese auftretenden Personen sowie der gesetzlichen Vertreter nach § 15 Absatz 1 bis 3,
 
-2.
+2. die Klärung, ob der Vertragspartner oder Verfügungsberechtigte für einen wirtschaftlich Berechtigten handelt, und, soweit einschlägig, die Identifizierung des wirtschaftlich Berechtigten nach § 15 Absatz 4; dies umfasst in Fällen, in denen der Vertragspartner oder Verfügungsberechtigte keine natürliche Person ist, die Befugnis, die Eigentums- und Kontrollstruktur des Vertragspartners oder Verfügungsberechtigten in Erfahrung zu bringen,
 
-3.
+3. die Feststellung mit Hilfe risikobasierter Verfahren, ob es sich bei dem Vertragspartner oder Verfügungsberechtigten oder dem wirtschaftlich Berechtigten um eine politisch exponierte Person, um ein Familienmitglied oder um eine bekanntermaßen nahestehende Person handelt,
 
-4.
+4. die Einholung von Informationen über Herkunft der Zahlungen, die im Rahmen der Geschäftsbeziehung oder Transaktion eingesetzt werden, die Herkunft der Vermögenswerte sowie des Vermögens des Vertragspartners oder Verfügungsberechtigten und eines gegebenenfalls wirtschaftlich Berechtigten,
 
-5.
+5. die Einholung von Informationen über die Gründe für eine geplante oder durchgeführte Transaktion,
 
-6.
+6. die Einholung von Informationen über die geplante Verwendung der Zahlungen und Vermögenswerte, die im Rahmen der Transaktion oder Geschäftsbeziehung eingesetzt werden,
 
-7.
+7. die kontinuierliche Überwachung der Geschäftsbeziehung einschließlich der Transaktionen, die in ihrem Verlauf durchgeführt werden,
 
-8.
+8. die risikobasierte Aktualisierung der zu einer Geschäftsbeziehung eingeholten Daten,
 
-9.
+9. die Risikoklassifizierung von Geschäftsbeziehungen.
 
 ### § 15 — Identifizierung; Erhebung von Angaben zum Zweck der Identifizierung
 
 (1) Die Bundesrepublik Deutschland – Finanzagentur GmbH ist befugt, Vertragspartner, Verfügungsberechtigte und die gegebenenfalls für diese auftretenden Personen sowie gesetzliche Vertreter und wirtschaftlich Berechtigte anlässlich der Begründung einer Geschäftsbeziehung oder der Durchführung einer Transaktion oder im Rahmen von Aktualisierungen zu identifizieren, indem sie die Angaben nach den Absätzen 3 und 4 erhebt und diese nach § 16 überprüft.
 
-(2) Von einer Identifizierung kann abgesehen werden, wenn die Bundesrepublik Deutschland – Finanzagentur GmbH die zu identifizierende Person bereits bei früherer Gelegenheit im Rahmen der Erfüllung ihrer Sorgfaltspflichten identifiziert hat und die dabei erhobenen Angaben nach § 19 aufgezeichnet hat. Eine erneute Identifizierung ist durchzuführen, wenn die Bundesrepublik Deutschland – Finanzagentur GmbH auf Grund der äußeren Umstände Zweifel hegen muss, ob die bei der früheren Identifizierung erhobenen Angaben weiterhin zutreffend sind.
+(2) Von einer Identifizierung kann abgesehen werden, wenn die Bundesrepublik Deutschland – Finanzagentur GmbH die zu identifizierende Person bereits bei früherer Gelegenheit im Rahmen der Erfüllung ihrer Sorgfaltspflichten identifiziert hat und die dabei erhobenen Angaben nach § 19 aufgezeichnet hat. Eine erneute Identifizierung ist durchzuführen, wenn die Bundesrepublik Deutschland – Finanzagentur GmbH auf Grund der äußeren Umstände Zweifel hegen muss, ob die bei der früheren Identifizierung erhobenen Angaben weiterhin zutreffend sind.
 
 (3) In Bezug auf Vertragspartner, Verfügungsberechtigte sowie gesetzliche Vertreter und gegebenenfalls jeweils für diese auftretende Personen darf die Bundesrepublik Deutschland – Finanzagentur GmbH zum Zweck der Identifizierung folgende Angaben verarbeiten:
 
-1.
+1. bei einer natürlichen Person: a)den oder die Vornamen und den Nachnamen,b)den Geburtsort,c)das Geburtsdatum,d)die Staatsangehörigkeit,e)die Wohnanschrift oder, sofern kein fester Wohnsitz mit rechtmäßigem Aufenthalt in der Europäischen Union besteht, die postalische Anschrift, unter der der Vertragspartner sowie die gegenüber der Bundesrepublik Deutschland – Finanzagentur GmbH auftretende Person erreichbar ist,f)vollständige Kopien von Ausweisdokumenten undg)den Nachweis der Berechtigung bei auftretenden Personen, den oder die Vornamen und den Nachnamen, den Geburtsort, das Geburtsdatum, die Staatsangehörigkeit, die Wohnanschrift oder, sofern kein fester Wohnsitz mit rechtmäßigem Aufenthalt in der Europäischen Union besteht, die postalische Anschrift, unter der der Vertragspartner sowie die gegenüber der Bundesrepublik Deutschland – Finanzagentur GmbH auftretende Person erreichbar ist, vollständige Kopien von Ausweisdokumenten und den Nachweis der Berechtigung bei auftretenden Personen,
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+2. bei einer juristischen Person oder bei einer Personengesellschaft: a)die Firma, den Namen oder die Bezeichnung,b)die Rechtsform,c)die Registernummer, falls vorhanden,d)die Anschrift des Sitzes oder der Hauptniederlassung unde)die Namen der Mitglieder des Vertretungsorgans oder die Namen der gesetzlichen Vertreter und, sofern ein Mitglied des Vertretungsorgans oder der gesetzliche Vertreter eine juristische Person ist, von dieser juristischen Person die Daten nach den Buchstaben a bis d. die Firma, den Namen oder die Bezeichnung, die Rechtsform, die Registernummer, falls vorhanden, die Anschrift des Sitzes oder der Hauptniederlassung und die Namen der Mitglieder des Vertretungsorgans oder die Namen der gesetzlichen Vertreter und, sofern ein Mitglied des Vertretungsorgans oder der gesetzliche Vertreter eine juristische Person ist, von dieser juristischen Person die Daten nach den Buchstaben a bis d.
 
 (4) In Bezug auf einen wirtschaftlich Berechtigten darf die Bundesrepublik Deutschland – Finanzagentur GmbH zum Zweck der Identifizierung dessen Vor- und Nachnamen, das Geburtsdatum, den Geburtsort und die Anschrift des wirtschaftlich Berechtigten verarbeiten.
 
-(5) Vertragspartner oder Verfügungsberechtigte der Bundesrepublik Deutschland – Finanzagentur GmbH sowie des Bundes und seiner Sondervermögen im Rahmen der Aufgaben der Bundesrepublik Deutschland – Finanzagentur GmbH haben ihr die Informationen und Unterlagen zur Verfügung zu stellen, die zur Identifizierung nach den §§ 15 und 16 erforderlich sind. Ergeben sich im Laufe der Geschäftsbeziehung Änderungen, haben die Vertragspartner oder Verfügungsberechtigten diese Änderungen unverzüglich der Bundesrepublik Deutschland – Finanzagentur GmbH anzuzeigen. Vertragspartner oder Verfügungsberechtigte haben gegenüber der Bundesrepublik Deutschland – Finanzagentur GmbH offenzulegen, ob sie die Geschäftsbeziehung oder die Transaktion für einen wirtschaftlich Berechtigten aufnehmen, fortsetzen oder abwickeln wollen. Mit der Offenlegung haben sie der Bundesrepublik Deutschland – Finanzagentur GmbH auch die Identität des wirtschaftlich Berechtigten nachzuweisen.
+(5) Vertragspartner oder Verfügungsberechtigte der Bundesrepublik Deutschland – Finanzagentur GmbH sowie des Bundes und seiner Sondervermögen im Rahmen der Aufgaben der Bundesrepublik Deutschland – Finanzagentur GmbH haben ihr die Informationen und Unterlagen zur Verfügung zu stellen, die zur Identifizierung nach den §§ 15 und 16 erforderlich sind. Ergeben sich im Laufe der Geschäftsbeziehung Änderungen, haben die Vertragspartner oder Verfügungsberechtigten diese Änderungen unverzüglich der Bundesrepublik Deutschland – Finanzagentur GmbH anzuzeigen. Vertragspartner oder Verfügungsberechtigte haben gegenüber der Bundesrepublik Deutschland – Finanzagentur GmbH offenzulegen, ob sie die Geschäftsbeziehung oder die Transaktion für einen wirtschaftlich Berechtigten aufnehmen, fortsetzen oder abwickeln wollen. Mit der Offenlegung haben sie der Bundesrepublik Deutschland – Finanzagentur GmbH auch die Identität des wirtschaftlich Berechtigten nachzuweisen.
 
 ### § 16 — Überprüfung von Angaben zum Zweck der Identifizierung
 
-(1) Die Überprüfung der nach § 15 Absatz 3 verarbeiteten Angaben zum Vertragspartner oder Verfügungsberechtigten oder gesetzlichen Vertreter und die gegebenenfalls für diese jeweils auftretenden Personen darf bei natürlichen Personen erfolgen anhand
+(1) Die Überprüfung der nach § 15 Absatz 3 verarbeiteten Angaben zum Vertragspartner oder Verfügungsberechtigten oder gesetzlichen Vertreter und die gegebenenfalls für diese jeweils auftretenden Personen darf bei natürlichen Personen erfolgen anhand
 
-1.
+1. eines gültigen amtlichen Ausweises, der ein Lichtbild des Inhabers enthält und mit dem die Pass- und Ausweispflicht im Inland erfüllt wird, insbesondere eines inländischen oder nach ausländerrechtlichen Bestimmungen anerkannten oder zugelassenen Passes, Personalausweises oder Pass- oder Ausweisersatzes oder
 
-2.
+2. weiterer nach § 12 Absatz 1 des Geldwäschegesetzes vorgesehener Identifizierungsverfahren.
 
-(2) Die Überprüfung der nach § 15 Absatz 3 verarbeiteten Angaben zum Vertragspartner oder Verfügungsberechtigten und den gegebenenfalls für diese auftretenden Personen sowie gesetzlichen Vertreter kann bei juristischen Personen oder bei Personengesellschaften erfolgen anhand
+(2) Die Überprüfung der nach § 15 Absatz 3 verarbeiteten Angaben zum Vertragspartner oder Verfügungsberechtigten und den gegebenenfalls für diese auftretenden Personen sowie gesetzlichen Vertreter kann bei juristischen Personen oder bei Personengesellschaften erfolgen anhand
 
-1.
+1. eines Auszuges aus dem Handels- oder Genossenschaftsregister oder aus einem vergleichbaren amtlichen Register oder Verzeichnis,
 
-2.
+2. von Gründungsdokumenten oder von gleichwertigen beweiskräftigen Dokumenten oder
 
-3.
+3. einer eigenen dokumentierten Einsichtnahme des Verpflichteten in die Register- oder Verzeichnisdaten.
 
 (3) Zur Überprüfung der nach § 15 Absatz 4 verarbeiteten Angaben zu wirtschaftlich Berechtigten ist die Bundesrepublik Deutschland – Finanzagentur GmbH befugt, Angaben aus dem Transparenzregister einzuholen und zu verarbeiten, um sich zu vergewissern, dass die Angaben zutreffend sind.
 
@@ -471,21 +421,21 @@ e)
 
 (1) Zur Erfüllung der allgemeinen Sorgfaltspflichten nach § 14 kann die Bundesrepublik Deutschland – Finanzagentur GmbH mit vorheriger Zustimmung des Bundesministeriums der Finanzen auf Dritte zurückgreifen.
 
-(2) Wenn die Bundesrepublik Deutschland – Finanzagentur GmbH auf Dritte zurückgreift, muss sie sicherstellen, dass die Dritten Die Bundesrepublik Deutschland – Finanzagentur GmbH ist befugt, angemessene Schritte zu unternehmen, um zu gewährleisten, dass die Dritten ihr auf ihre Anforderung hin unverzüglich Kopien derjenigen Dokumente zur Verfügung stellen, die zur Feststellung und Überprüfung der Identität des Vertragspartners oder Verfügungsberechtigten und der gegebenenfalls für diese auftretenden Personen sowie gesetzlichen Vertreter und eines etwaigen wirtschaftlich Berechtigten erforderlich sind. Dies umfasst, soweit verfügbar, die Vorlage von Informationen, die mittels elektronischer Identifizierungsverfahren nach § 16 Absatz 1 Nummer 2 eingeholt wurden, sowie von anderen für die Identitätsprüfung erforderlichen Unterlagen. Die Dritten sind befugt, zu diesem Zweck Kopien von Ausweisdokumenten zu erstellen und an die Bundesrepublik Deutschland – Finanzagentur GmbH weiterzuleiten.
+(2) Wenn die Bundesrepublik Deutschland – Finanzagentur GmbH auf Dritte zurückgreift, muss sie sicherstellen, dass die Dritten
 
-1.
+1. bei der Identifizierung von im Inland ansässigen Personen den Vorschriften des Geldwäschegesetzes entsprechen,
 
-2.
+2. die Informationen einholen, die für die Durchführung der Sorgfaltspflichten nach § 14 notwendig sind, und
 
-3.
+3. ihr diese Informationen unverzüglich und unmittelbar übermitteln.
 
 (3) Durch die Übertragung der allgemeinen Sorgfaltspflichten nach Absatz 1 dürfen nicht beeinträchtigt werden
 
-1.
+1. die Erfüllung der Pflichten nach diesem Gesetz durch die Bundesrepublik Deutschland – Finanzagentur GmbH,
 
-2.
+2. die Steuerungs- oder Kontrollmöglichkeiten der Geschäftsführung der Bundesrepublik Deutschland – Finanzagentur GmbH und
 
-3.
+3. die Gesellschafterstellung des Bundes und die Aufsicht des Bundesministeriums der Finanzen über die Bundesrepublik Deutschland – Finanzagentur GmbH.
 
 (4) Die Verantwortung für die Erfüllung der Sorgfaltspflichten trägt die Bundesrepublik Deutschland – Finanzagentur GmbH.
 
@@ -495,21 +445,13 @@ e)
 
 (2) Das Grundrecht des Fernmeldegeheimnisses nach Artikel 10 des Grundgesetzes wird durch Absatz 1 Satz 2 und 3 eingeschränkt.
 
-(3) Die gespeicherten Aufzeichnungen sind durch geeignete technische und organisatorische Maßnahmen gegen nachträgliche Verfälschung, unberechtigten Zugriff und unbefugte Verwendung zu sichern. Sie dürfen durch die Bundesrepublik Deutschland – Finanzagentur GmbH nur für folgende Zwecke ausgewertet und verwendet werden: Die Aufzeichnungen dürfen insbesondere nicht über die in Satz 2 genannten Zwecke hinaus zur Leistungs- und Verhaltenskontrolle der Mitarbeiterinnen und Mitarbeiter durch die Bundesrepublik Deutschland – Finanzagentur GmbH verwendet werden. Die Auswertung der Aufzeichnungen darf nur durch von der Bundesrepublik Deutschland – Finanzagentur GmbH gesondert zu benennende Mitarbeiterinnen oder Mitarbeiter erfolgen. Anlass, Zweck, Datum und Uhrzeit, die die Auswertung durchführenden Mitarbeiterinnen oder Mitarbeiter und die Ergebnisse der Auswertung sind zu dokumentieren.
+(3) Die gespeicherten Aufzeichnungen sind durch geeignete technische und organisatorische Maßnahmen gegen nachträgliche Verfälschung, unberechtigten Zugriff und unbefugte Verwendung zu sichern. Sie dürfen durch die Bundesrepublik Deutschland – Finanzagentur GmbH nur für folgende Zwecke ausgewertet und verwendet werden:
 
-1.
+1. zur Aufklärung des Sachverhalts a)im Falle von Unklarheiten über das Zustandekommen eines Handelsgeschäfts oder über dessen Inhalt oderb)bei Anhaltspunkten für das Vorliegen strafbaren Verhaltens, das insbesondere geeignet ist, das Vermögen des Bundes und seiner Sondervermögen zu schädigen, im Falle von Unklarheiten über das Zustandekommen eines Handelsgeschäfts oder über dessen Inhalt oder bei Anhaltspunkten für das Vorliegen strafbaren Verhaltens, das insbesondere geeignet ist, das Vermögen des Bundes und seiner Sondervermögen zu schädigen,
 
-a)
+2. soweit sich bei der Auswertung der Aufzeichnungen der Verdacht strafbaren Verhaltens bestätigt hat, a)zur Weitergabe zur Durchführung weiterer interner Untersuchungen undb)zur Weitergabe an die zuständigen Strafverfolgungsbehörden sowie zur Weitergabe zur Durchführung weiterer interner Untersuchungen und zur Weitergabe an die zuständigen Strafverfolgungsbehörden sowie
 
-b)
-
-2.
-
-a)
-
-b)
-
-3.
+3. zu Beweiszwecken bei der Verfolgung und Durchsetzung zivilrechtlicher Ansprüche.
 
 (4) Für die zur Dokumentation der Auswertung nach Absatz 3 Satz 5 erstellten Unterlagen gilt Absatz 3 Satz 1 und 2 Nummer 2 und 3 entsprechend. Zum Zweck der Verfolgung und Durchsetzung zivilrechtlicher Ansprüche des Bundes dürfen die Unterlagen durch die Bundesrepublik Deutschland – Finanzagentur GmbH an die jeweils zuständigen öffentlichen Stellen des Bundes übermittelt und von diesen verarbeitet werden.
 
@@ -527,6 +469,6 @@ b)
 
 (2) Absatz 1 gilt auch, wenn
 
-1.
+1. Mitarbeiterinnen und Mitarbeiter sowie Mitglieder der Geschäftsführung einen Sachverhalt dem Bundesministerium der Finanzen oder einer Stelle melden, die unternehmensintern für die Entgegennahme einer solchen Meldung zuständig ist, und
 
-2.
+2. Mitarbeiterinnen und Mitarbeiter oder Mitglieder der Geschäftsführung oder die Bundesrepublik Deutschland – Finanzagentur GmbH einem Auskunftsverlangen von zuständigen Strafverfolgungsbehörden oder anderen zuständigen staatlichen Stellen nachkommen.

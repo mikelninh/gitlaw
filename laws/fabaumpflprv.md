@@ -22,111 +22,33 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und Absatz 3 Nummer 1 un
 
 ### § 2 — Qualifizierungsbereiche
 
-(1) Durch die Prüfung ist festzustellen, ob der Prüfling in der Lage ist, die den Qualifizierungsbereichen nach Absatz 2 Nummer 1 bis 3 jeweils zugeordneten Fach- und Führungsfunktionen in unterschiedlich strukturierten Unternehmen, in Behörden und in Einrichtungen des Naturschutzes und der Landschaftspflege zu übernehmen, in denen zu verantwortende Leitungsprozesse eigenständig gesteuert werden, eigenständig ausgeführt werden und dafür Mitarbeiter und Mitarbeiterinnen geführt werden. Der Fachagrarwirt oder die Fachagrarwirtin soll auch die in Satz 1 bezeichneten Unternehmen, Behörden und Einrichtungen oder Teile von ihnen eigenverantwortlich führen können sowie auf sich verändernde Anforderungen und Rahmenbedingungen reagieren können.
+(1) Durch die Prüfung ist festzustellen, ob der Prüfling in der Lage ist, die den Qualifizierungsbereichen
 
-1.
+1. Baumpflege,
 
-2.
+2. Betriebswirtschaft sowie
 
-3.
+3. Personal und Qualifizierung
 
 (2) Die Qualifizierungsbereiche umfassen jeweils folgende Fach- und Führungsfunktionen:
 
-1.
+1. Baumpflege: a)Bäume botanisch sowie hinsichtlich ihres Alters und ihrer Entwicklung erfassen und ihren Zustand einschließlich des Umfeldes unter Berücksichtigung der Verkehrssicherheit beurteilen und dokumentieren,b)Schaderreger, Krankheiten, Schäden und deren Ursachen analysieren, bewerten und dokumentieren,c)natur- und artenschutzrechtliche sowie planungsrechtliche Aspekte prüfen und beurteilen,d)Sachwerte von Bäumen ermitteln,e)Bäume und Pflanzen des Baumumfeldes unter Berücksichtigung der Standort- und Pflegeansprüche, der Funktionen sowie der klimatischen Anforderungen verwenden,f)baumpflegerische Maßnahmen unter Berücksichtigung der Nachhaltigkeit und der anerkannten Regeln der Technik und des Umweltrechts, insbesondere des Natur- und Artenschutzes, planen, umsetzen und bewerten,g)Maßnahmen des Arbeits- und Gesundheitsschutzes und der Verkehrssicherheit von Baustellen vorbereiten und durchführen,h)Pflanzungen beurteilen und Maßnahmen zur Baumumfeldverbesserung planen, umsetzen und bewerten,i)betriebliche Qualitätsstandards umsetzen,j)Möglichkeiten der Digitalisierung in betrieblichen Abläufen nutzen,k)Produkte und Dienstleistungen kalkulieren und vermarkten,l)Auftraggeber informieren und beraten sowiem)Öffentlichkeitsarbeit im Zusammenhang mit baumpflegerischen Vorhaben und Maßnahmen planen und durchführen; Bäume botanisch sowie hinsichtlich ihres Alters und ihrer Entwicklung erfassen und ihren Zustand einschließlich des Umfeldes unter Berücksichtigung der Verkehrssicherheit beurteilen und dokumentieren, Schaderreger, Krankheiten, Schäden und deren Ursachen analysieren, bewerten und dokumentieren, natur- und artenschutzrechtliche sowie planungsrechtliche Aspekte prüfen und beurteilen, Sachwerte von Bäumen ermitteln, Bäume und Pflanzen des Baumumfeldes unter Berücksichtigung der Standort- und Pflegeansprüche, der Funktionen sowie der klimatischen Anforderungen verwenden, baumpflegerische Maßnahmen unter Berücksichtigung der Nachhaltigkeit und der anerkannten Regeln der Technik und des Umweltrechts, insbesondere des Natur- und Artenschutzes, planen, umsetzen und bewerten, Maßnahmen des Arbeits- und Gesundheitsschutzes und der Verkehrssicherheit von Baustellen vorbereiten und durchführen, Pflanzungen beurteilen und Maßnahmen zur Baumumfeldverbesserung planen, umsetzen und bewerten, betriebliche Qualitätsstandards umsetzen, Möglichkeiten der Digitalisierung in betrieblichen Abläufen nutzen, Produkte und Dienstleistungen kalkulieren und vermarkten, Auftraggeber informieren und beraten sowie Öffentlichkeitsarbeit im Zusammenhang mit baumpflegerischen Vorhaben und Maßnahmen planen und durchführen;
 
-a)
+2. Betriebswirtschaft: a)Einordnen und Beurteilen der Rahmenbedingungen und Strukturen von Unternehmen sowie von Behörden und Einrichtungen des Naturschutzes und der Landschaftspflege, die baumpflegerische Arbeiten durchführen, vergeben und überwachen,b)Märkte beobachten, bewerten und erschließen,c)Unternehmensziele formulieren,d)Marketingkonzepte entwickeln und umsetzen,e)Maßnahmen des Qualitätsmanagements planen und umsetzen,f)Betriebs- und Arbeitsorganisation planen, bewerten und fortschreiben,g)Möglichkeiten der Digitalisierung betriebswirtschaftlicher Prozesse prüfen und umsetzen,h)Vorschriften zum Datenschutz und zur Datensicherheit anwenden,i)betriebswirtschaftliche Kalkulationen durchführen,j)Betriebsergebnisse erfassen, analysieren und bewerten,k)Betriebsentwicklung, Investitionen, Finanzierung und Liquidität planen,l)Steuerarten und Steuerverfahren unterscheiden, steuerliche Buchführung anwenden,m)Ausschreibungs- und Vergabearten unterscheiden, Ausschreibungen und Angebote erstellen und prüfen,n)Verträge unter Beachtung des Vertrags- und Haftungsrechts abschließen sowieo)Abnahme von Dienstleistungen durchführen und Mängelansprüche abwickeln; Einordnen und Beurteilen der Rahmenbedingungen und Strukturen von Unternehmen sowie von Behörden und Einrichtungen des Naturschutzes und der Landschaftspflege, die baumpflegerische Arbeiten durchführen, vergeben und überwachen, Märkte beobachten, bewerten und erschließen, Unternehmensziele formulieren, Marketingkonzepte entwickeln und umsetzen, Maßnahmen des Qualitätsmanagements planen und umsetzen, Betriebs- und Arbeitsorganisation planen, bewerten und fortschreiben, Möglichkeiten der Digitalisierung betriebswirtschaftlicher Prozesse prüfen und umsetzen, Vorschriften zum Datenschutz und zur Datensicherheit anwenden, betriebswirtschaftliche Kalkulationen durchführen, Betriebsergebnisse erfassen, analysieren und bewerten, Betriebsentwicklung, Investitionen, Finanzierung und Liquidität planen, Steuerarten und Steuerverfahren unterscheiden, steuerliche Buchführung anwenden, Ausschreibungs- und Vergabearten unterscheiden, Ausschreibungen und Angebote erstellen und prüfen, Verträge unter Beachtung des Vertrags- und Haftungsrechts abschließen sowie Abnahme von Dienstleistungen durchführen und Mängelansprüche abwickeln;
 
-b)
+3. Personal und Qualifizierung: a)Vorgaben des Arbeitsrechts, insbesondere des Tarifrechts, und des Sozialrechts umsetzen,b)Konzepte der Mitarbeiterführung und der Personalplanung anwenden sowie Führungsverhalten reflektieren,c)Mitarbeiter und Mitarbeiterinnen auswählen, einstellen und einarbeiten,d)Eignung, Leistungsfähigkeit und Qualifikation von Mitarbeitern und Mitarbeiterinnen beurteilen und diese entsprechend einsetzen,e)Mitarbeiter und Mitarbeiterinnen anleiten und motivieren,f)Teamarbeit unterstützen und fördern,g)Leistungen und Verhalten von Mitarbeitern und Mitarbeiterinnen feststellen und beurteilen,h)Mitarbeitergespräche führen und den Mitarbeitern und Mitarbeiterinnen Entwicklungsmöglichkeiten aufzeigen,i)Mitarbeiter und Mitarbeiterinnen qualifizieren und fördern,j)Konflikte erkennen und gezielt lösen sowiek)Konzepte und Maßnahmen zur Arbeitssicherheit und zum Gesundheitsschutz in Abstimmung mit den hierfür zuständigen Stellen planen und umsetzen. Vorgaben des Arbeitsrechts, insbesondere des Tarifrechts, und des Sozialrechts umsetzen, Konzepte der Mitarbeiterführung und der Personalplanung anwenden sowie Führungsverhalten reflektieren, Mitarbeiter und Mitarbeiterinnen auswählen, einstellen und einarbeiten, Eignung, Leistungsfähigkeit und Qualifikation von Mitarbeitern und Mitarbeiterinnen beurteilen und diese entsprechend einsetzen, Mitarbeiter und Mitarbeiterinnen anleiten und motivieren, Teamarbeit unterstützen und fördern, Leistungen und Verhalten von Mitarbeitern und Mitarbeiterinnen feststellen und beurteilen, Mitarbeitergespräche führen und den Mitarbeitern und Mitarbeiterinnen Entwicklungsmöglichkeiten aufzeigen, Mitarbeiter und Mitarbeiterinnen qualifizieren und fördern, Konflikte erkennen und gezielt lösen sowie Konzepte und Maßnahmen zur Arbeitssicherheit und zum Gesundheitsschutz in Abstimmung mit den hierfür zuständigen Stellen planen und umsetzen.
 
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-(3) Für den Erwerb der in Absatz 2 bezeichneten Fertigkeiten, Kenntnisse und Fähigkeiten bedarf es in der Regel eines Lernumfangs von insgesamt mindestens 1 200 Stunden. Der Lerninhalt bestimmt sich nach den Anforderungen der jeweiligen Prüfungsteile nach § 4 in Verbindung mit den Anforderungen und Prüfungsinhalten der §§ 6, 11 und 15.
+(3) Für den Erwerb der in Absatz 2 bezeichneten Fertigkeiten, Kenntnisse und Fähigkeiten bedarf es in der Regel eines Lernumfangs von insgesamt mindestens 1 200 Stunden. Der Lerninhalt bestimmt sich nach den Anforderungen der jeweiligen Prüfungsteile nach § 4 in Verbindung mit den Anforderungen und Prüfungsinhalten der §§ 6, 11 und 15.
 
 ### § 3 — Voraussetzungen für die Zulassung zur Prüfung
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53c des Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
 
-1.
+1. eine erfolgreich abgelegte Abschlussprüfung in den anerkannten Ausbildungsberufen Forstwirt/Forstwirtin, Gärtner/Gärtnerin oder Landwirt/Landwirtin,
 
-2.
+2. eine erfolgreich abgelegte Abschlussprüfung in einem anderen anerkannten Ausbildungsberuf und eine auf die Berufsausbildung folgende, mindestens dreijährige Berufspraxis oder
 
-3.
+3. eine mindestens fünfjährige Berufspraxis.
 
 (2) Die Berufspraxis nach Absatz 1 Nummer 2 und 3 muss in Unternehmen, Behörden, Einrichtungen oder Teilen von diesen abgeleistet worden sein, die überwiegend Arbeiten in der Baumpflege durchführen. Die Berufspraxis muss in Bezug auf baumpflegerische Tätigkeiten einschlägig sein. Die Dauer und der Inhalt der Berufspraxis ist durch eine Bescheinigung der beschäftigenden Stelle nachzuweisen.
 
@@ -136,11 +58,11 @@ k)
 
 Die Prüfung umfasst die folgenden Prüfungsteile:
 
-1.
+1. Baumdiagnose und Baumpflegemaßnahmen,
 
-2.
+2. Betriebs- und Unternehmensführung und
 
-3.
+3. Mitarbeiterführung und Personalmanagement.
 
 ### § 5 — Bewerten der Prüfung
 
@@ -152,67 +74,67 @@ Für die Bewertung der Leistungen in der Prüfung ist der in Anlage 1 dargestell
 
 (1) Im Prüfungsteil Baumdiagnose und Baumpflegemaßnahmen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. Bäume botanisch sowie hinsichtlich ihres Alters und ihrer Entwicklung zu erfassen und ihren Zustand einschließlich des Umfeldes unter Berücksichtigung anerkannter Methoden und Parameter der Baumkontrolle, der Baumdiagnose und der Verkehrssicherheit zu beurteilen und zu dokumentieren,
 
-2.
+2. die ökologische Bedeutung von Bäumen unter Berücksichtigung naturschutz-, artenschutz- und planungsrechtlicher Aspekte zu erfassen und zu beurteilen,
 
-3.
+3. Sachwerte von Bäumen zu ermitteln,
 
-4.
+4. Bäume und Pflanzen des Baumumfeldes unter Berücksichtigung rechtlicher, funktionaler, gestalterischer und ökologischer Aspekte sowie der Klima-, Standort- und Pflegeansprüche zu verwenden,
 
-5.
+5. baumpflegerische Maßnahmen unter Berücksichtigung der Nachhaltigkeit, des Naturschutz-, des Artenschutz- und des Umweltrechts, der anerkannten Regeln der Technik, betrieblicher Qualitätsstandards und wirtschaftlicher Gesichtspunkte sowie der erforderlichen Maßnahmen des Arbeits- und Gesundheitsschutzes zu planen, umzusetzen und zu bewerten,
 
-6.
+6. Pflanzungen unter Berücksichtigung der Gütebestimmungen, der anerkannten Regeln der Technik und der jeweils anzuwendenden Qualitätsstandards zu beurteilen,
 
-7.
+7. Maßnahmen am Baum sowie zur Baumumfeldverbesserung zu planen, umzusetzen und zu bewerten,
 
-8.
+8. Produkte und Dienstleistungen der Baumpflege unter Berücksichtigung von Arbeitskräften, Maschinen, Geräten und Betriebseinrichtungen sowie von Betriebsstoffen und Arbeitsmitteln zu kalkulieren und zu vermarkten sowie
 
-9.
+9. Maßnahmen der Öffentlichkeitsarbeit projektbezogen zu planen und umzusetzen.
 
 (2) Die Prüfung erstreckt sich auf folgende Inhalte:
 
-1.
+1. botanische Systematik, Funktion, Aufbau, insbesondere Kronenarchitektur, Entwicklung und Altersphasen von Bäumen einschließlich baumbiologischer Prozesse,
 
-2.
+2. biotische und abiotische Standortfaktoren sowie ihre Auswirkungen auf Wachstum und Entwicklung von Bäumen,
 
-3.
+3. fachliche und rechtliche Grundlagen zur Beurteilung der Verkehrssicherheit von Bäumen,
 
-4.
+4. Methoden, Techniken und Parameter der Baumkontrolle und der Baumdiagnose,
 
-5.
+5. Sachwerte von Bäumen,
 
-6.
+6. naturschutz-, artenschutz- und planungsrechtliche Aspekte der Erfassung, der Pflege und der Erhaltung von Bäumen,
 
-7.
+7. Aufgaben und Ziele sowie Techniken, Maschinen, Geräte und Arbeitsprozesse der Baumpflege,
 
-8.
+8. Baumschutz auf Baustellen,
 
-9.
+9. Pflanzensortimente, Pflanzenauswahl und -qualität für Baumpflanzungen unter besonderer Berücksichtigung des Klimawandels,
 
-10.
+10. Pflanzensortimente, Pflanzenauswahl und -qualität für die Gestaltung von Baumpflanzungen, insbesondere die Begrünung des Baumumfeldes unter besonderer Berücksichtigung des Klimawandels und des Artenschutzes,
 
-11.
+11. bau- und vegetationstechnische Anforderungen an Baumpflanzungen und an das Baumumfeld,
 
-12.
+12. Maßnahmen zur Standortverbesserung,
 
-13.
+13. Vorschriften und Maßnahmen des Arbeits- und Gesundheitsschutzes und der Verkehrssicherung auf Baustellen,
 
-14.
+14. Leistungsverzeichnisse und Angebotskalkulationen,
 
-15.
+15. Erfassung, Dokumentation und Bewertung von Bau-, Schutz- und Pflegemaßnahmen am Baum und im Baumumfeld sowie
 
-16.
+16. Öffentlichkeitsarbeit im Zusammenhang mit baumpflegerischen Vorhaben und Maßnahmen.
 
 ### § 7 — Prüfungsbestandteile
 
 Die Prüfung besteht aus
 
-1.
+1. einem Arbeitsprojekt nach § 8,
 
-2.
+2. einer Arbeitsprobe nach § 9 sowie
 
-3.
+3. einer schriftlichen Prüfung nach § 10.
 
 ### § 8 — Arbeitsprojekt
 
@@ -244,45 +166,45 @@ Die Prüfung besteht aus
 
 (2) Die Prüfung erstreckt sich auf folgende Inhalte:
 
-1.
+1. Unternehmensformen,
 
-2.
+2. Rahmenbedingungen und Strukturen eines Baumpflegebetriebes,
 
-3.
+3. Marketing einschließlich Kommunikation und Öffentlichkeitsarbeit,
 
-4.
+4. Qualitätsmanagement und Controlling,
 
-5.
+5. Betriebs- und Arbeitsorganisation,
 
-6.
+6. Ausschreibungs- und Vergabewesen,
 
-7.
+7. Angebotserstellung, Auftragserfassung und -abwicklung,
 
-8.
+8. Abnahme von Dienstleistungen, Mängelansprüche,
 
-9.
+9. betriebswirtschaftliche Kalkulationen und Auswertungen,
 
-10.
+10. Betriebsentwicklung, insbesondere Investition und Finanzierung, Liquidität, Rentabilität und Stabilität,
 
-11.
+11. Digitalisierung,
 
-12.
+12. Datenschutz und Datenmanagement,
 
-13.
+13. berufsbezogene Rechtsvorschriften, insbesondere Vertragsrecht und Haftungsrecht, Arbeitsrecht und Sozialrecht,
 
-14.
+14. steuerliche Buchführung unter Beachtung von Steuerarten und -verfahren,
 
-15.
+15. Unternehmensgründung sowie
 
-16.
+16. Unternehmensabsicherung und Versicherungen.
 
 ### § 12 — Prüfungsbestandteile
 
 Die Prüfung besteht aus
 
-1.
+1. einer Fallstudie nach § 13 und
 
-2.
+2. einer schriftlichen Prüfung nach § 14.
 
 ### § 13 — Fallstudie
 
@@ -304,71 +226,69 @@ Die Prüfung besteht aus
 
 (1) Im Prüfungsteil Mitarbeiterführung und Personalmanagement hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. Vorgaben des Arbeits-, Tarif- und Sozialrechts im Betrieb umzusetzen,
 
-2.
+2. Vorschriften zum personenbezogenen Datenschutz und zur Datensicherheit umzusetzen,
 
-3.
+3. Personalplanung durchzuführen,
 
-4.
+4. Mitarbeiter und Mitarbeiterinnen zu gewinnen, auszuwählen, einzustellen und einzuarbeiten,
 
-5.
+5. Leistungsfähigkeit, Qualifikation und Eignung von Mitarbeitern und Mitarbeiterinnen zu beurteilen und Aufgaben auf diese entsprechend der Beurteilung zu übertragen,
 
-6.
+6. Mitarbeiter und Mitarbeiterinnen zur Arbeitssicherheit und zum Gesundheitsschutz anzuleiten und entsprechende Maßnahmen zu organisieren,
 
-7.
+7. Mitarbeiter und Mitarbeiterinnen anzuleiten,
 
-8.
+8. Leistungen und Verhalten von Mitarbeitern und Mitarbeiterinnen festzustellen und zu bewerten, soweit erforderlich unter Hinzuziehung von Leistungsbeurteilungen Dritter,
 
-9.
+9. Personal- und Beurteilungsgespräche zu führen und Entwicklungsmöglichkeiten aufzuzeigen,
 
-10.
+10. Mitarbeiter und Mitarbeiterinnen zu motivieren und zu fördern,
 
-11.
+11. Mitarbeiter und Mitarbeiterinnen zu qualifizieren und bei der Weiterbildung zu unterstützen,
 
-12.
+12. soziale Zusammenhänge und Konflikte zu erkennen und zu bewerten, Maßnahmen zur Lösung von Konflikten anzuwenden,
 
-13.
+13. Kommunikation und Teamarbeit zu organisieren und zu unterstützen,
 
-14.
+14. Führungsstile zu kennen und das eigene Führungsverhalten kritisch zu beurteilen sowie
 
-15.
+15. Arbeitsverhältnisse zu begründen und zu beenden.
 
 (2) Die Prüfung erstreckt sich auf folgende Inhalte:
 
-1.
+1. Gewinnen, Einarbeiten und Anleiten von Mitarbeitern und Mitarbeiterinnen,
 
-2.
+2. Weiterbilden von Mitarbeitern und Mitarbeiterinnen,
 
-3.
+3. Motivation und betriebliche Bindung von Mitarbeitern und Mitarbeiterinnen,
 
-4.
+4. betriebliche Kommunikation und Unternehmenskultur,
 
-5.
+5. Konfliktlösungsstrategien,
 
-6.
+6. Führungsstile und Führungsverhalten,
 
-7.
+7. Personalentwicklung,
 
-8.
+8. Gesundheitsschutz und Arbeitssicherheit sowie
 
-9.
+9. einschlägige Rechtsvorschriften, insbesondere aus dem Arbeitsrecht, einschließlich dem Tarifrecht, und dem Sozialrecht.
 
 ### § 16 — Prüfungsbestandteile
 
 Die Prüfung besteht aus
 
-1.
+1. einer Fallstudie nach § 17 und
 
-2.
+2. einer schriftlichen Prüfung nach § 18.
 
 ### § 17 — Fallstudie
 
 (1) In der Fallstudie hat der Prüfling eine Situation der Mitarbeiterführung zu bearbeiten. Die Situation wird vom Prüfungsausschuss vorgegeben und muss sich auf die in § 15 Absatz 2 beschriebenen Inhalte beziehen.
 
 (2) Der Prüfling hat die vorgegebene Situation zu analysieren, Handlungsoptionen zu entwickeln, diese schriftlich zu dokumentieren und in einem Fachgespräch zu erläutern.
-
-(3) Für die Bearbeitung der Fallstudie stehen 180 Minuten zur Verfügung. Das Fachgespräch soll nicht länger als 30 Minuten dauern.
 
 ### § 18 — Schriftliche Prüfung
 
@@ -382,31 +302,23 @@ Die Prüfung besteht aus
 
 (1) Jede Leistung in den sieben Prüfungsbestandteilen nach § 7 Nummer 1 bis 3, § 12 Nummer 1 und 2 sowie § 16 Nummer 1 und 2 ist gesondert mit einer Note als Dezimalzahl nach Anlage 1 zu bewerten.
 
-(2) Die Bewertung der Leistung des Prüfungsteils „Baumdiagnose und Baumpflegemaßnahmen“ errechnet sich aus den Noten der Prüfungsbestandteile Arbeitsprojekt (§ 8), Arbeitsprobe (§ 9) und schriftliche Prüfung (§ 10) nach folgender Formel:
-
-(3) Die Bewertung der Leistung des Prüfungsteils „Betriebs- und Unternehmensführung“ errechnet sich aus den Noten der Prüfungsbestandteile Fallstudie (§ 13) und schriftliche Prüfung (§ 14) nach folgender Formel:
-
-(4) Die Bewertung der Leistung des Prüfungsteils „Mitarbeiterführung und Personalmanagement“ errechnet sich aus den Noten der Prüfungsbestandteile Fallstudie (§ 17) und schriftliche Prüfung (§ 18) nach folgender Formel:
-
-(5) Die Bewertung der Gesamtleistung in der Prüfung errechnet sich aus den Bewertungen der Prüfungsteile „Baumdiagnose und Baumpflegemaßnahmen“ (Absatz 2), „Betriebs- und Unternehmensführung“ (Absatz 3) und „Mitarbeiterführung und Personalmanagement“ (Absatz 4) nach folgender Formel:
-
 ### § 20 — Befreiung von Prüfungsbestandteilen
 
-(1) Für die Befreiung von einzelnen Prüfungsbestandteilen nach ist § 56 Absatz 2 des Berufsbildungsgesetzes anzuwenden.
+(1) Für die Befreiung von einzelnen Prüfungsbestandteilen nach
 
-1.
+1. § 7 Nummer 1, 2 oder 3,
 
-2.
+2. § 12 Nummer 1 oder 2 sowie
 
-3.
+3. § 16 Nummer 1 oder 2
 
-(2) Wird der Prüfling nach § 56 Absatz 2 des Berufsbildungsgesetzes befreit von der Ablegung einzelner Prüfungsbestandteile nach bleiben diese Prüfungsbestandteile für die Anwendung des § 19 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 19 Absatz 2 bis 5 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zu Grunde zu legen.
+(2) Wird der Prüfling nach § 56 Absatz 2 des Berufsbildungsgesetzes befreit von der Ablegung einzelner Prüfungsbestandteile nach
 
-1.
+1. § 7 Nummer 1, 2 oder 3,
 
-2.
+2. § 12 Nummer 1 oder 2 sowie
 
-3.
+3. § 16 Nummer 1 oder 2
 
 ### § 21 — Bestehen der Prüfung
 
@@ -414,27 +326,27 @@ Die Prüfung besteht aus
 
 (2) Die Prüfung ist nicht bestanden, wenn
 
-1.
+1. eine der Leistungen in den einzelnen Prüfungsbestandteilen nach den §§ 7, 12 und 16 mit „ungenügend“ nach Anlage 1 bewertet worden ist oder
 
-2.
+2. mehr als eine der in Nummer 1 genannten Leistungen mit „mangelhaft“ nach Anlage 1 bewertet worden ist.
 
 ### § 22 — Zeugnisse
 
 (1) Wer die Prüfung bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2.
 
-(2) Auf dem Zeugnis mit den Inhalten nach Anlage 2 Teil B sind die Noten als Dezimalzahlen mit einer Nachkommastelle und in Worten nach Anlage 1 anzugeben für Jede Befreiung nach § 20 Absatz 1 ist mit Ort, Datum und der Bezeichnung des Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 2 Teil B sind die Noten als Dezimalzahlen mit einer Nachkommastelle und in Worten nach Anlage 1 anzugeben für
 
-1.
+1. jeden Prüfungsteil nach § 4,
 
-2.
+2. jeden Prüfungsbestandteil nach den §§ 7, 12 und 16 sowie
 
-3.
+3. die Gesamtleistung.
 
 (3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur Information (Bemerkungen) enthalten, insbesondere
 
-1.
+1. über den erworbenen Abschluss oder
 
-2.
+2. auf Antrag des Prüflings über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 ## Abschnitt 6: Ergänzungs- und Wiederholungsprüfung
 
@@ -452,9 +364,9 @@ Die Prüfung besteht aus
 
 (2) In der Wiederholungsprüfung ist der Prüfling auf Antrag von einzelnen Prüfungsteilen nach § 4 und einzelnen Prüfungsbestandteilen nach den §§ 7, 12 und 16 zu befreien, wenn
 
-1.
+1. die entsprechenden Leistungen in einer vorangegangenen Prüfung mindestens mit „ausreichend“ nach Anlage 1 bewertet worden sind und
 
-2.
+2. der Prüfling sich innerhalb von zwei Jahren, gerechnet vom Tag der Feststellung des Ergebnisses der nicht bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
 ## Abschnitt 7: Schlussvorschriften
 
@@ -470,32 +382,26 @@ Diese Verordnung tritt am 1. Januar 2021 in Kraft. Gleichzeitig tritt die Verord
 
 ### Anlage 1 — (zu § 5)
 
-Für die Bewertung der Leistungen in der Prüfung, den Prüfungsteilen und den Prüfungsbestandteilen ist der folgende Bewertungsmaßstab anzuwenden.
-
 ### Anlage 2 — (zu § 22)
 
-Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
 
-1.
+2. Name und Geburtsdatum des Prüflings,
 
-2.
+3. Datum des Bestehens der Prüfung,
 
-3.
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 2,
 
-4.
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
 
-5.
-
-6.
-
-Teil B – Zeugnis mit Prüfungsergebnissen:
+6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
 
 Alle Angaben des Teils A sowie zusätzlich:
 
-1.
+1. Benennung und Bewertung der einzelnen Prüfungsteile nach § 4 mit Noten als Dezimalzahl und in Worten,
 
-2.
+2. Benennung und Bewertung der einzelnen Prüfungsbestandteile nach den §§ 7, 12 und 16 mit Noten als Dezimalzahl und in Worten,
 
-3.
+3. Bewertung für die Gesamtleistung nach § 19 Absatz 5 mit Note als Dezimalzahl und in Worten,
 
-4.
+4. Befreiungen nach § 20 Absatz 1.

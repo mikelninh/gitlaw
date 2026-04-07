@@ -21,13 +21,13 @@ Für Amtshandlungen nach der Verordnung über Emissionsgrenzwerte für Verbrennu
 
 (2) Zusätzlich hat der Gebührenschuldner folgende Auslagen zu tragen:
 
-1.
+1. Entgelte im Zustell-, insbesondere Einschreibverfahren,
 
-2.
+2. die bei Geschäften außerhalb der Dienststelle den Bediensteten auf Grund gesetzlicher oder tarifvertraglicher Regelungen gewährten Vergütungen (Reisekostenvergütung, Auslagenersatz) und die Kosten für die Bereitstellung von Räumen; für Personen, die weder Bundes- noch Landesbedienstete sind, gelten die Vorschriften über die Vergütung der Reisekosten der Bundesbeamten entsprechend,
 
-3.
+3. die Aufwendungen für den Einsatz von Dienstwagen bei Dienstgeschäften außerhalb der Dienststelle,
 
-4.
+4. die Kosten für Überprüfungen der Konformität der Produktion nach international vereinbartem Recht, wenn ein Verstoß gegen diese Vorschriften nachgewiesen wird.
 
 (3) Soweit die Auslagen insgesamt 2,50 Euro übersteigen, kann die Erstattung auch verlangt werden, wenn der Kostenschuldner seinerseits von den Kosten befreit ist.
 

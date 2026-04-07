@@ -22,21 +22,21 @@ Wer Bienen halten will, hat dies spätestens bei Beginn der Tätigkeit der zust�
 
 ### § 2
 
-(1) Betriebe, in denen unterliegen der Beaufsichtigung durch die zuständige Behörde.
+(1) Betriebe, in denen
 
-1.
+1. gewerbsmäßig Honig gelagert oder behandelt wird,
 
-2.
+2. Mittelwände für Bienenwaben hergestellt werden oder
 
-3.
+3. Seuchenwachs be- oder verarbeitet wird,
 
-(2) In Betrieben, in denen Honig gewerbsmäßig behandelt wird, müssen zur Aufbewahrung, Be- und Verarbeitung, zum Abfüllen und für die Beförderung von Honig benutzte Gegenstände nach Gebrauch Die Betriebsräume sind bienendicht zu halten.
+(2) In Betrieben, in denen Honig gewerbsmäßig behandelt wird, müssen zur Aufbewahrung, Be- und Verarbeitung, zum Abfüllen und für die Beförderung von Honig benutzte Gegenstände nach Gebrauch
 
-1.
+1. mit kochendem Wasser gründlich gereinigt,
 
-2.
+2. für mindestens 20 Minuten einer Temperatur von mindestens 230 Grad C ausgesetzt oder
 
-3.
+3. so aufbewahrt werden, dass sie Bienen nicht zugänglich sind.
 
 (3) Honig aus Betrieben, in denen Honig gewerbsmäßig behandelt wird, darf nur so beseitigt werden, dass er Bienen nicht zugänglich ist.
 
@@ -79,11 +79,11 @@ der Amerikanischen Faulbrut oder des Seuchenverdachts
 
 ### § 7
 
-(1) Im Falle des Ausbruchs oder des Verdachts des Ausbruchs der Amerikanischen Faulbrut dürfen vor der amtlichen Feststellung an dem Bienenstand keine Veränderungen vorgenommen werden. Insbesondere dürfen werden. Die Sätze 1 und 2 gelten nicht für Honig, der nicht zur Verfütterung von Bienen bestimmt ist.
+(1) Im Falle des Ausbruchs oder des Verdachts des Ausbruchs der Amerikanischen Faulbrut dürfen vor der amtlichen Feststellung an dem Bienenstand keine Veränderungen vorgenommen werden. Insbesondere dürfen
 
-1.
+1. Bienenvölker, lebende oder tote Bienen, Waben, Wabenteile, Wabenabfälle, Wachs und Honig sowie Futtervorräte, Bienenwohnungen und benutzte Gerätschaften nicht aus dem Bienenstand entfernt und
 
-2.
+2. Bienenvölker und Bienen nicht in den Bienenstand verbracht
 
 (2) Darüber hinaus darf der Bienenstand nur von dem Besitzer, seinem Vertreter, den mit der Beaufsichtigung, Wartung und Pflege der Bienenvölker betrauten Personen, von Tierärzten und von Personen im amtlichen Auftrag betreten werden.
 
@@ -94,29 +94,29 @@ der Amerikanischen Faulbrut
 
 (1) Ist der Ausbruch der Amerikanischen Faulbrut amtlich festgestellt, unterliegt der Bienenstand nach Maßgabe folgender Vorschriften der Sperre:
 
-1.
+1. Der Bienenstand darf nur von dem Besitzer, seinem Vertreter, den mit der Beaufsichtigung, Wartung und Pflege der Bienenvölker betrauten Personen, von Tierärzten und von Personen im amtlichen Auftrag betreten werden.
 
-2.
+2. Bienenvölker, lebende Bienen, Waben, Wabenteile, Wabenabfälle, Wachs, Honig, Futtervorräte, Bienenwohnungen und benutzte Gerätschaften, die sich in dem Bienenstand oder außerhalb des Bienenstandes auf dem Grundstück befinden, dürfen von ihrem Standort nicht entfernt werden; tote Bienen dürfen nur zur unschädlichen Beseitigung nach Anweisung des beamteten Tierarztes entfernt werden.
 
-3.
+3. Bienenvölker und Bienen dürfen nicht in den Bienenstand verbracht werden.
 
-4.
+4. Waben, Wabenteile verseuchter oder verdächtiger Bienenvölker sowie Futtervorräte aus Bienenwohnungen verseuchter oder verdächtiger Bienenvölker dürfen nicht, lebende Bienen nur nach Durchführung eines Kunstschwarmverfahrens in unverseuchte Bienenwohnungen des Bienenstandes verbracht werden.
 
-5.
+5. In dem Bienenstand gewonnener Honig darf an Bienen nicht verfüttert werden.
 
-6.
+6. Aus Bienenwohnungen entfernte Waben, Wabenteile und Wabenabfälle sowie Behältnisse, die Honig enthalten und Gerätschaften, denen Honig anhaftet, müssen so aufbewahrt werden, dass sie Bienen nicht zugänglich sind.
 
-7.
+7. Tote Bienen und tote Bienenbrut sowie die übrige Bienenbrut des seuchenkranken Bienenvolkes, ferner Abfälle aus Bienenwohnungen sind nach näherer Anweisung des beamteten Tierarztes unschädlich zu beseitigen.
 
-8.
+8. Die Bienenstände und Bienenwohnungen, außer solchen aus Stroh, sowie Gerätschaften sind nach näherer Anweisung des beamteten Tierarztes und unter amtlicher Überwachung zu reinigen und zu entseuchen; Bienenwohnungen aus Stroh sind zu verbrennen.
 
-9.
+9. Waben, Wabenteile und Wabenabfälle aus verseuchten Bienenwohnungen, Vorratswaben, Wachs und, soweit aus Gründen der Seuchenbekämpfung erforderlich, auch Futtervorräte sind nach näherer Anweisung des beamteten Tierarztes zu entseuchen oder unschädlich zu beseitigen.
 
 (2) Die Vorschrift des Absatzes 1 findet keine Anwendung auf
 
-1.
+1. Wachs, Waben, Wabenteile und Wabenabfälle, wenn sie an wachsverarbeitende Betriebe, die über die erforderliche Einrichtung zur Entseuchung des Wachses verfügen, unter der Kennzeichnung "Seuchenwachs" abgegeben werden, und
 
-2.
+2. Honig, der nicht zur Verfütterung an Bienen bestimmt ist.
 
 ### § 9
 
@@ -134,21 +134,21 @@ der Amerikanischen Faulbrut
 
 ### § 11
 
-(1) Für den Sperrbezirk gilt folgendes: Im Falle des Satzes 1 Nr. 1 findet § 9 Abs. 2 Satz 2 entsprechend Anwendung.
+(1) Für den Sperrbezirk gilt folgendes:
 
-1.
+1. Alle Bienenvölker und Bienenstände im Sperrbezirk sind unverzüglich auf Amerikanische Faulbrut amtstierärztlich zu untersuchen; diese Untersuchung ist frühestens zwei, spätestens neun Monate nach der Tötung oder Behandlung der an der Seuche erkrankten Bienenvölker des verseuchten Bienenstandes zu wiederholen.
 
-2.
+2. Bewegliche Bienenstände dürfen von ihrem Standort nicht entfernt werden.
 
-3.
+3. Bienenvölker, lebende oder tote Bienen, Waben, Wabenteile, Wabenabfälle, Wachs, Honig, Futtervorräte, Bienenwohnungen und benutzte Gerätschaften dürfen nicht aus den Bienenständen entfernt werden.
 
-4.
+4. Bienenvölker oder Bienen dürfen nicht in den Sperrbezirk verbracht werden.
 
 (2) Die Vorschrift des Absatzes 1 Nr. 3 findet keine Anwendung auf
 
-1.
+1. Wachs, Waben, Wabenteile und Wabenabfälle, wenn sie an wachsverarbeitende Betriebe, die über die erforderliche Einrichtung zur Entseuchung des Wachses verfügen, unter der Kennzeichnung "Seuchenwachs" abgegeben werden, und
 
-2.
+2. Honig, der nicht zur Verfütterung an Bienen bestimmt ist.
 
 (3) Die zuständige Behörde kann für Bienenvölker, Bienen, Bienenwohnungen und Gerätschaften sowie Futtervorräte Ausnahmen von Absatz 1 zulassen, wenn eine Verschleppung der Seuche nicht zu befürchten ist.
 
@@ -160,17 +160,11 @@ der Amerikanischen Faulbrut
 
 (2) Die Amerikanische Faulbrut im Bienenstand gilt als erloschen, wenn
 
-1.
+1. alle Bienenvölker des verseuchten Bienenstandes verendet oder getötet und unschädlich beseitigt worden sind oder
 
-2.
+2. die an der Seuche erkrankten Bienenvölker des verseuchten Bienenstandesa)verendet oder getötet und unschädlich beseitigt oder b)behandelt worden sind und c)die Untersuchung nach § 9 Abs. 2 einen negativen Befund ergeben hatund verendet oder getötet und unschädlich beseitigt oder behandelt worden sind und die Untersuchung nach § 9 Abs. 2 einen negativen Befund ergeben hat und
 
-a)
-
-b)
-
-c)
-
-3.
+3. die Entseuchung unter amtlicher Überwachung durchgeführt und vom beamteten Tierarzt abgenommen worden ist.
 
 (3) Die Amerikanische Faulbrut im Sperrbezirk gilt als erloschen, wenn die Voraussetzungen des Absatzes 2 erfüllt sind und die Untersuchungen nach § 11 Abs. 1 Nr. 1 einen negativen Befund ergeben haben.
 
@@ -209,11 +203,11 @@ Kleinen Beutenkäfer oder des Verdachts des Befalls
 
 ### § 17
 
-(1) Im Falle des Befalls oder des Verdachts des Befalls mit dem Kleinen Beutenkäfer dürfen vor der amtlichen Feststellung an dem Bienenstand und im Futtervorratslager keine Veränderungen vorgenommen werden. Insbesondere dürfen Die Sätze 1 und 2 Nr. 1 gelten nicht, soweit lebende oder tote Bienen, Waben, Wabenteile, Wabenabfälle, unbehandeltes Wachs, Futtervorräte oder Käferproben zum Zwecke der Untersuchung in einer von der zuständigen Behörde bestimmten Untersuchungseinrichtung entfernt werden.
+(1) Im Falle des Befalls oder des Verdachts des Befalls mit dem Kleinen Beutenkäfer dürfen vor der amtlichen Feststellung an dem Bienenstand und im Futtervorratslager keine Veränderungen vorgenommen werden. Insbesondere dürfen
 
-1.
+1. Bienenvölker, lebende oder tote Bienen, Waben, Wabenteile, Wabenabfälle, unbehandeltes Wachs, Bienenwohnungen und benutzte Gerätschaften nicht aus dem Bienenstand und Futtervorräte nicht aus dem Futtervorratslager entfernt und
 
-2.
+2. Bienenvölker und Bienen nicht in den Bienenstand verbracht werden.
 
 (2) Darüber hinaus dürfen der Bienenstand und das Futtervorratslager nur von dem Besitzer, seinem Vertreter, den mit der Beaufsichtigung, Wartung und Pflege der Bienenvölker betrauten Personen, von Tierärzten und von Personen im amtlichen Auftrag betreten werden.
 
@@ -222,17 +216,17 @@ Kleinen Beutenkäfer
 
 ### § 18
 
-(1) Ist der Befall mit dem Kleinen Beutenkäfer amtlich festgestellt, unterliegt der Bienenstand nach Maßgabe folgender Vorschriften der Sperre: Abweichend von Satz 1 Nr. 2 dürfen lebende oder tote Bienen, Waben, Wabenteile, Wabenabfälle, Wachs oder Futtervorräte zum Zwecke der Untersuchung in einer von der zuständigen Behörde bestimmten Untersuchungseinrichtung oder zur unschädlichen Beseitigung nach Anweisung des beamteten Tierarztes entfernt werden.
+(1) Ist der Befall mit dem Kleinen Beutenkäfer amtlich festgestellt, unterliegt der Bienenstand nach Maßgabe folgender Vorschriften der Sperre:
 
-1.
+1. Der Bienenstand darf nur von dem Besitzer, seinem Vertreter, den mit der Beaufsichtigung, Wartung und Pflege der Bienenvölker betrauten Personen, von Tierärzten und von Personen im amtlichen Auftrag betreten werden.
 
-2.
+2. Bienenvölker, lebende oder tote Bienen, Waben, Wabenteile, Wabenabfälle, Wachs, Honig, Futtervorräte, Bienenwohnungen und benutzte Gerätschaften, die sich in dem Bienenstand oder außerhalb des Bienenstandes auf dem Grundstück befinden, dürfen von ihrem Standort nicht entfernt werden.
 
-3.
+3. Bienenvölker und Bienen dürfen nicht in den Bienenstand verbracht werden.
 
-4.
+4. Waben, Wabenteile befallener oder befallsverdächtiger Bienenvölker sowie Futtervorräte aus Bienenwohnungen befallener oder befallsverdächtiger Bienenvölker dürfen in nicht befallene Bienenwohnungen des Bienenstandes nicht verbracht werden.
 
-5.
+5. In dem Bienenstand gewonnener Honig darf an Bienen nicht verfüttert werden.
 
 (2) Absatz 1 Satz 1 Nr. 2 findet keine Anwendung auf Honig, der nicht zur Verfütterung an Bienen bestimmt ist.
 
@@ -242,25 +236,15 @@ Kleinen Beutenkäfer
 
 (1) Die zuständige Behörde führt unverzüglich epidemiologische Untersuchungen durch, um
 
-1.
+1. die Ursache der Einschleppung zu ermitteln und
 
-2.
+2. eine Verschleppung durch das Verbringen von Bienen, Bienenbrut, Waben, Wabenteilen, Wachs oder Futtervorräten aus dem befallenen Bienenstand festzustellen.
 
 (2) Führen die Untersuchungen nach Absatz 1 Nr. 1 zu dem Ergebnis, dass der festgestellte Befall zurückzuführen ist auf
 
-1.
+1. das Verbringen von Bienen, Bienenbrut, Waben, Wabenteilen, Wachs oder Futtervorräten aus einem anderen Mitgliedstaat oder die Einfuhr aus einem Drittland und ist das Verbringen oder die Einfuhr innerhalb des letzten Jahres vor der Feststellung des Befalls mit dem Kleinen Beutenkäfer erfolgt, ordnet die zuständige Behördea)die Tötung aller Bienenvölker des Besitzers des befallenen Bienenstandes nach Verschließen der Bienenwohnungen, b)die unschädliche Beseitigung der Bienenwohnungen, der Mittelwände, der Waben, der Wabenteile, der Wabenabfälle, des Wachses und der Futtervorräte sowie ähnlicher Gegenstände, die mit dem Kleinen Beutenkäfer in Berührung gekommen sein können, und c)die Reinigung der Gerätschaften die Tötung aller Bienenvölker des Besitzers des befallenen Bienenstandes nach Verschließen der Bienenwohnungen, die unschädliche Beseitigung der Bienenwohnungen, der Mittelwände, der Waben, der Wabenteile, der Wabenabfälle, des Wachses und der Futtervorräte sowie ähnlicher Gegenstände, die mit dem Kleinen Beutenkäfer in Berührung gekommen sein können, und die Reinigung der Gerätschaften an;
 
-a)
-
-b)
-
-c)
-
-2.
-
-a)
-
-b)
+2. eine andere Ursache als das Verbringen oder die Einfuhr nach Nummer 1 oder lässt sich die Ursache für den Befall nicht ermitteln, ordnet die zuständige Behörde unter Berücksichtigung der Befallssituationa)die Schutzmaßregeln nach Nummer 1 oder b)die Behandlung des betroffenen Bienenstandes gegen den Kleinen Beutenkäfer sowie die Reinigung und Entseuchung des Bienenstandes, der Bienenwohnungen, der Mittelwände, der Waben, der Wabenteile, der Wabenabfälle, des Wachses, des Futtervorratslagers und der Gerätschaften die Schutzmaßregeln nach Nummer 1 oder die Behandlung des betroffenen Bienenstandes gegen den Kleinen Beutenkäfer sowie die Reinigung und Entseuchung des Bienenstandes, der Bienenwohnungen, der Mittelwände, der Waben, der Wabenteile, der Wabenabfälle, des Wachses, des Futtervorratslagers und der Gerätschaften an.
 
 ### § 20
 
@@ -274,28 +258,28 @@ Die zuständige Behörde macht den Befall mit dem Kleinen Beutenkäfer öffentli
 
 (2) Bienenstände und Futtervorratslager gelten als befallsfrei, wenn
 
-1.
+1. alle Bienenvölker des Bienenstandes verendet, getötet oder nach § 19 Abs. 2 Nr. 2 Buchstabe b behandelt worden sind,
 
-2.
+2. tote Bienen und tote Bienenbrut sowie die übrige Bienenbrut des befallenen Bienenvolkes, ferner Abfälle aus Bienenwohnungen unschädlich beseitigt worden sind,
 
-3.
+3. Bienenstände und Bienenwohnungen, das Futtervorratslager sowie Gerätschaften unter amtlicher Überwachung gereinigt und entseucht worden sind,
 
-4.
+4. Waben, Wabenteile und Wabenabfälle aus befallenen Bienenwohnungen eingeschmolzen, entseucht oder unschädlich beseitigt worden sind,
 
-5.
+5. der Boden vor der Flugfront umgegraben und gegen die Puppen des Kleinen Beutenkäfers nach Anweisung der zuständigen Behörde behandelt worden ist und
 
-6.
+6. in den Fällen des § 19 Abs. 2 Nr. 2 Buchstabe b eine Untersuchung der behandelten Bienenvölker, der entseuchten Bienenstände und Bienenwohnungen sowie des Futtervorratslagers drei Wochen nach Abschluss der Behandlung durch die zuständige Behörde einen negativen Befund ergeben hat.
 
 ## 1.: Schutzmaßregeln vor amtlicher Feststellung des Befalls mit der
 Tropilaelaps-Milbe oder des Verdachts des Befalls
 
 ### § 22
 
-(1) Im Falle des Befalls oder des Verdachts des Befalls mit der Tropilaelaps-Milbe dürfen vor der amtlichen Feststellung an dem Bienenstand keine Veränderungen vorgenommen werden. Insbesondere dürfen werden. Die Sätze 1 und 2 Nr. 1 gelten nicht, soweit lebende oder tote Bienen oder Bienenbrut zum Zwecke der Untersuchung in einer von der zuständigen Behörde bestimmten Untersuchungseinrichtung entfernt werden.
+(1) Im Falle des Befalls oder des Verdachts des Befalls mit der Tropilaelaps-Milbe dürfen vor der amtlichen Feststellung an dem Bienenstand keine Veränderungen vorgenommen werden. Insbesondere dürfen
 
-1.
+1. Bienenvölker, lebende oder tote Bienen, Bienenbrut, Waben, Wabenteile, Wabenabfälle, Bienenwohnungen und benutzte Gerätschaften nicht aus dem Bienenstand entfernt und
 
-2.
+2. Bienenvölker und Bienen nicht in den Bienenstand verbracht
 
 (2) Darüber hinaus darf der Bienenstand nur von dem Besitzer, seinem Vertreter, den mit der Beaufsichtigung, Wartung und Pflege der Bienenvölker betrauten Personen, von Tierärzten und von Personen im amtlichen Auftrag betreten werden.
 
@@ -306,15 +290,15 @@ Tropilaelaps-Milbe
 
 (1) Ist der Befall mit der Tropilaelaps-Milbe amtlich festgestellt, unterliegt der Bienenstand nach Maßgabe folgender Vorschriften der Sperre:
 
-1.
+1. Bienenvölker, lebende Bienen, Waben, Wabenteile, Wabenabfälle und Bienenwohnungen sowie benutzte Gerätschaften, die sich in dem Bienenstand oder außerhalb des Bienenstandes auf dem Grundstück befinden, dürfen von ihrem Standort nicht entfernt werden.
 
-2.
+2. Bienenvölker und Bienen dürfen nicht in den Bienenstand verbracht werden.
 
-3.
+3. Tote Bienen und tote Bienenbrut sowie die übrige Bienenbrut des befallenen Bienenvolkes, ferner Abfälle aus Bienenwohnungen sind nach näherer Anweisung der zuständigen Behörde unschädlich zu beseitigen.
 
-4.
+4. Bienenstände, Bienenwohnungen und Gerätschaften sind zu entseuchen oder zu reinigen und anschließend für die Dauer von mindestens drei Wochen so zu sichern, dass sie Bienen nicht zugänglich sind.
 
-5.
+5. Waben, Wabenteile und Wabenabfälle ohne Bienenbrut aus befallenen Bienenwohnungen sind nach näherer Anweisung der zuständigen Behörde unschädlich zu beseitigen oder mindestens drei Wochen lang so zu sichern, dass sie Bienen nicht zugänglich sind.
 
 (2) Absatz 1 gilt nicht für Waben, Wabenteile und Wabenabfälle ohne Bienenbrut, sofern sichergestellt ist, dass die Waben, Wabenteile und Wabenabfälle nur an Wachs verarbeitende Betriebe abgegeben werden und nur, soweit sie zuvor mindestens drei Wochen lang für Bienen unzugänglich aufbewahrt worden sind.
 
@@ -324,17 +308,17 @@ Tropilaelaps-Milbe
 
 (1) Ist der Befall mit der Tropilaelaps-Milbe in einem Bienenstand amtlich festgestellt, erklärt die zuständige Behörde das Gebiet in einem Umkreis von mindestens einem Kilometer um den Bienenstand zum Sperrbezirk.
 
-(2) Für den Sperrbezirk gilt, dass Bienenvölker und Bienen nur mit Genehmigung der zuständigen Behörde werden dürfen.
+(2) Für den Sperrbezirk gilt, dass Bienenvölker und Bienen nur mit Genehmigung der zuständigen Behörde
 
-1.
+1. aus dem Sperrbezirk entfernt oder
 
-2.
+2. in den Sperrbezirk verbracht
 
 (3) Die zuständige Behörde kann ferner unter Berücksichtigung der Befallssituation anordnen, dass
 
-1.
+1. im Sperrbezirk oder in Teilen des Sperrbezirks alle Bienenvölker zu behandeln sind;
 
-2.
+2. Bienenbrut oder Gemüll von Bienenvölkern des Sperrbezirks zur Untersuchung an eine von ihr bestimmte Untersuchungseinrichtung einzusenden sind.
 
 ## 3.: Aufhebung der Schutzmaßregeln
 
@@ -344,17 +328,17 @@ Tropilaelaps-Milbe
 
 (2) Bienenstände gelten als befallsfrei, wenn
 
-1.
+1. alle Bienenvölker des befallenen Bienenstandes verendet und unschädlich beseitigt und die betroffenen Bienenwohnungen mindestens drei Wochen so gesichert worden sind, dass sie Bienen nicht zugänglich sind,
 
-2.
+2. die befallenen Bienenvölker des Bienenstandes verendet und unschädlich beseitigt, die betroffenen Bienenwohnungen mindestens drei Wochen so gesichert worden sind, dass sie Bienen nicht zugänglich sind, und, soweit die zuständige Behörde eine Behandlung nach § 23 Abs. 3 angeordnet hat, alle sonstigen Bienenvölker des Bienenstandes nach Anweisung der zuständigen Behörde behandelt worden sind und eine Untersuchung der behandelten Bienenvölker drei Wochen nach Abschluss der Behandlung einen negativen Befund ergeben hat oder
 
-3.
+3. in Fällen, in denen Bienenvölker nicht verendet sind, tote Bienen und die Bienenbrut des befallenen Bienenvolkes unschädlich beseitigt worden sind und, soweit die zuständige Behörde nach § 23 Abs. 3 eine Behandlung angeordnet hat, alle Bienenvölker des befallenen Bienenstandes nach Anweisung der zuständigen Behörde behandelt worden sind und eine Untersuchung der behandelten Bienenvölker drei Wochen nach Abschluss der Behandlung einen negativen Befund ergeben hat.
 
 (3) Der Sperrbezirk gilt als befallsfrei, wenn die Voraussetzungen des Absatzes 2 erfüllt sind und,
 
-1.
+1. soweit die zuständige Behörde nach § 24 Abs. 3 Nr. 1 eine Behandlung angeordnet hat, alle Bienenvölker behandelt und drei Wochen nach Abschluss der Behandlung mit einem negativen Befund untersucht worden sind oder,
 
-2.
+2. soweit die zuständige Behörde nach § 24 Abs. 3 Nr. 2 eine Untersuchung angeordnet hat, alle Bienenvölker im Sperrbezirk in einer von der zuständigen Behörde bestimmten Untersuchungseinrichtung mit einem negativen Befund auf den Befall mit der Tropilaelaps-Milbe untersucht worden sind.
 
 ## VIII.: Ordnungswidrigkeiten
 
@@ -362,41 +346,41 @@ Tropilaelaps-Milbe
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 1a Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
-2.
+2. entgegen § 2 Absatz 2 Satz 1 einen dort genannten Gegenstand nicht oder nicht rechtzeitig reinigt, nicht oder nicht rechtzeitig einer dort genannten Temperatur aussetzt und nicht oder nicht rechtzeitig aufbewahrt,
 
-3.
+3. entgegen § 2 Absatz 3 Honig beseitigt,
 
-4.
+4. entgegen § 2 Absatz 4 Honig nicht, nicht richtig oder nicht rechtzeitig behandelt,
 
-5.
+5. entgegen § 5 Absatz 1 Satz 2 eine Bescheinigung vorlegt,
 
-6.
+6. einer mit einer Zulassung nach § 5 Absatz 3 oder § 11 Absatz 3 verbundenen vollziehbaren Auflage zuwiderhandelt,
 
-7.
+7. entgegen § 6 eine Bienenwohnung nicht oder nicht richtig verschlossen hält,
 
-8.
+8. entgegen § 7 Absatz 1 Satz 2 ein Bienenvolk, eine Biene oder einen dort genannten Gegenstand entfernt oder verbringt,
 
-9.
+9. entgegen § 7 Absatz 2, § 8 Absatz 1 Nummer 1, § 17 Absatz 2, § 18 Absatz 1 Nummer 1 oder § 22 Absatz 2 einen Bienenstand oder ein Futtervorratslager betritt,
 
-10.
+10. entgegen § 8 Absatz 1 Nummer 2, § 11 Absatz 1 Nummer 3, § 17 Absatz 1 Satz 2 Nummer 1, § 18 Absatz 1 Nummer 2, § 22 Absatz 1 Satz 2 Nummer 1 oder § 23 Absatz 1 Nummer 1 ein Bienenvolk, eine Biene oder einen dort genannten Gegenstand entfernt,
 
-11.
+11. entgegen § 8 Absatz 1 Nummer 3 oder Nummer 4, § 11 Absatz 1 Nummer 4, § 17 Absatz 1 Satz 2 Nummer 2, § 18 Absatz 1 Nummer 3 oder Nummer 4, § 22 Absatz 1 Satz 2 Nummer 2 oder § 23 Absatz 1 Nummer 2 ein Bienenvolk, eine Biene oder einen dort genannten Gegenstand verbringt,
 
-12.
+12. entgegen § 8 Absatz 1 Nummer 5 oder § 18 Absatz 1 Nummer 5 Honig verfüttert,
 
-13.
+13. entgegen § 8 Absatz 1 Nummer 6 einen dort genannten Gegenstand nicht oder nicht richtig aufbewahrt,
 
-14.
+14. einer vollziehbaren Anordnung nach § 8 Absatz 1 Nummer 7, 8 oder Nummer 9, § 9 Absatz 1 Satz 1, § 19 Absatz 2, § 23 Absatz 1 Nummer 3 oder Absatz 3 oder § 24 Absatz 3 zuwiderhandelt,
 
-15.
+15. einer mit einer Genehmigung nach § 10 Absatz 2 Satz 2 verbundenen Auflage zuwiderhandelt,
 
-16.
+16. entgegen § 11 Absatz 1 Nummer 2 einen Bienenstand entfernt,
 
-17.
+17. entgegen § 16 einen dort genannten Gegenstand nicht oder nicht richtig aufbewahrt oder eine Bienenwohnung nicht oder nicht richtig sichert oder
 
-18.
+18. ohne Genehmigung nach § 24 Absatz 2 Nummer 1 ein Bienenvolk oder eine Biene entfernt.
 
 ## IX.: Schlussvorschriften
 

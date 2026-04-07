@@ -16,11 +16,11 @@
 
 (1a) Träger öffentlicher Gewalt im Sinne dieses Gesetzes sind
 
-1.
+1. Dienststellen und sonstige Einrichtungen der Bundesverwaltung einschließlich der bundesunmittelbaren Körperschaften, bundesunmittelbaren Anstalten und bundesunmittelbaren Stiftungen des öffentlichen Rechts,
 
-2.
+2. Beliehene, die unter der Aufsicht des Bundes stehen, soweit sie öffentlich-rechtliche Verwaltungsaufgaben wahrnehmen, und
 
-3.
+3. sonstige Bundesorgane, soweit sie öffentlich-rechtliche Verwaltungsaufgaben wahrnehmen.
 
 (2) Die Träger der öffentlichen Gewalt sollen im Rahmen ihres jeweiligen Aufgabenbereichs die in Absatz 1 genannten Ziele aktiv fördern und bei der Planung von Maßnahmen beachten. Das Gleiche gilt für Landesverwaltungen, einschließlich der landesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts, soweit sie Bundesrecht ausführen.
 
@@ -46,25 +46,25 @@ Barrierefrei sind bauliche und sonstige Anlagen, Verkehrsmittel, technische Gebr
 
 (1) Soweit nicht besondere gesetzliche oder verordnungsrechtliche Vorschriften entgegenstehen, sollen zur Herstellung der Barrierefreiheit Zielvereinbarungen zwischen Verbänden, die nach § 15 Absatz 3 anerkannt sind, und Unternehmen oder Unternehmensverbänden der verschiedenen Wirtschaftsbranchen für ihren jeweiligen sachlichen und räumlichen Organisations- oder Tätigkeitsbereich getroffen werden. Die anerkannten Verbände können die Aufnahme von Verhandlungen über Zielvereinbarungen verlangen.
 
-(2) Zielvereinbarungen zur Herstellung von Barrierefreiheit enthalten insbesondere Sie können ferner eine Vertragsstrafenabrede für den Fall der Nichterfüllung oder des Verzugs enthalten.
+(2) Zielvereinbarungen zur Herstellung von Barrierefreiheit enthalten insbesondere
 
-1.
+1. die Bestimmung der Vereinbarungspartner und sonstige Regelungen zum Geltungsbereich und zur Geltungsdauer,
 
-2.
+2. die Festlegung von Mindestbedingungen darüber, wie gestaltete Lebensbereiche im Sinne von § 4 künftig zu verändern sind, um dem Anspruch von Menschen mit Behinderungen auf Auffindbarkeit, Zugang und Nutzung zu genügen,
 
-3.
+3. den Zeitpunkt oder einen Zeitplan zur Erfüllung der festgelegten Mindestbedingungen.
 
 (3) Ein Verband nach Absatz 1, der die Aufnahme von Verhandlungen verlangt, hat dies gegenüber dem Zielvereinbarungsregister (Absatz 5) unter Benennung von Verhandlungsparteien und Verhandlungsgegenstand anzuzeigen. Das Bundesministerium für Arbeit und Soziales gibt diese Anzeige auf seiner Internetseite bekannt. Innerhalb von vier Wochen nach der Bekanntgabe haben andere Verbände im Sinne des Absatzes 1 das Recht, den Verhandlungen durch Erklärung gegenüber den bisherigen Verhandlungsparteien beizutreten. Nachdem die beteiligten Verbände von Menschen mit Behinderungen eine gemeinsame Verhandlungskommission gebildet haben oder feststeht, dass nur ein Verband verhandelt, sind die Verhandlungen innerhalb von vier Wochen aufzunehmen.
 
 (4) Ein Anspruch auf Verhandlungen nach Absatz 1 Satz 2 besteht nicht,
 
-1.
+1. während laufender Verhandlungen im Sinne des Absatzes 3 für die nicht beigetretenen Verbände behinderter Menschen,
 
-2.
+2. in Bezug auf diejenigen Unternehmen, die ankündigen, einer Zielvereinbarung beizutreten, über die von einem Unternehmensverband Verhandlungen geführt werden,
 
-3.
+3. für den Geltungsbereich und die Geltungsdauer einer zustande gekommenen Zielvereinbarung,
 
-4.
+4. in Bezug auf diejenigen Unternehmen, die einer zustande gekommenen Zielvereinbarung unter einschränkungsloser Übernahme aller Rechte und Pflichten beigetreten sind.
 
 (5) Das Bundesministerium für Arbeit und Soziales führt ein Zielvereinbarungsregister, in das der Abschluss, die Änderung und die Aufhebung von Zielvereinbarungen nach den Absätzen 1 und 2 eingetragen werden. Der die Zielvereinbarung abschließende Verband behinderter Menschen ist verpflichtet, innerhalb eines Monats nach Abschluss einer Zielvereinbarung dem Bundesministerium für Arbeit und Soziales diese als beglaubigte Abschrift und in informationstechnisch erfassbarer Form zu übersenden sowie eine Änderung oder Aufhebung innerhalb eines Monats mitzuteilen.
 
@@ -107,13 +107,13 @@ und Barrierefreiheit
 
 (2) Das Bundesministerium für Arbeit und Soziales bestimmt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
-1.
+1. Anlass und Umfang des Anspruchs auf Bereitstellung von geeigneten Kommunikationshilfen,
 
-2.
+2. Art und Weise der Bereitstellung von geeigneten Kommunikationshilfen,
 
-3.
+3. die Grundsätze für eine angemessene Vergütung oder eine Erstattung von notwendigen Aufwendungen für den Einsatz geeigneter Kommunikationshilfen und
 
-4.
+4. die geeigneten Kommunikationshilfen im Sinne des Absatzes 1.
 
 ### § 10 — Gestaltung von Bescheiden und Vordrucken
 
@@ -135,27 +135,13 @@ und Barrierefreiheit
 
 ### § 12 — Öffentliche Stellen des Bundes
 
-Öffentliche Stellen des Bundes sind Eine überwiegende Finanzierung durch den Bund wird angenommen, wenn er mehr als 50 Prozent der Gesamtheit der Mittel aufbringt.
+Öffentliche Stellen des Bundes sind
 
-1.
+1. die Träger öffentlicher Gewalt,
 
-2.
+2. sonstige Einrichtungen des öffentlichen Rechts, die als juristische Personen des öffentlichen oder des privaten Rechts zu dem besonderen Zweck gegründet worden sind, im Allgemeininteresse liegende Aufgaben nicht gewerblicher Art zu erfüllen, wenn sie a)überwiegend vom Bund finanziert werden,b)hinsichtlich ihrer Leitung oder Aufsicht dem Bund unterstehen oderc)ein Verwaltungs-, Leitungs- oder Aufsichtsorgan haben, das mehrheitlich aus Mitgliedern besteht, die durch den Bund ernannt worden sind, und überwiegend vom Bund finanziert werden, hinsichtlich ihrer Leitung oder Aufsicht dem Bund unterstehen oder ein Verwaltungs-, Leitungs- oder Aufsichtsorgan haben, das mehrheitlich aus Mitgliedern besteht, die durch den Bund ernannt worden sind, und
 
-a)
-
-b)
-
-c)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
+3. Vereinigungen, an denen mindestens eine öffentliche Stelle nach Nummer 1 oder Nummer 2 beteiligt ist, wenn a)die Vereinigung überwiegend vom Bund finanziert wird,b)die Vereinigung über den Bereich eines Landes hinaus tätig wird,c)dem Bund die absolute Mehrheit der Anteile an der Vereinigung gehört oderd)dem Bund die absolute Mehrheit der Stimmen an der Vereinigung zusteht. die Vereinigung überwiegend vom Bund finanziert wird, die Vereinigung über den Bereich eines Landes hinaus tätig wird, dem Bund die absolute Mehrheit der Anteile an der Vereinigung gehört oder dem Bund die absolute Mehrheit der Stimmen an der Vereinigung zusteht.
 
 ### § 12a — Barrierefreie Informationstechnik
 
@@ -181,61 +167,51 @@ d)
 
 (2) Die Erklärung zur Barrierefreiheit enthält
 
-1.
+1. für den Fall, dass ausnahmsweise keine vollständige barrierefreie Gestaltung erfolgt ist, a)die Benennung der Teile des Inhalts, die nicht vollständig barrierefrei gestaltet sind,b)die Gründe für die nicht barrierefreie Gestaltung sowiec)gegebenenfalls einen Hinweis auf barrierefrei gestaltete Alternativen, die Benennung der Teile des Inhalts, die nicht vollständig barrierefrei gestaltet sind, die Gründe für die nicht barrierefreie Gestaltung sowie gegebenenfalls einen Hinweis auf barrierefrei gestaltete Alternativen,
 
-a)
+2. eine unmittelbar zugängliche barrierefrei gestaltete Möglichkeit, elektronisch Kontakt aufzunehmen, um noch bestehende Barrieren mitzuteilen und um Informationen zur Umsetzung der Barrierefreiheit zu erfragen,
 
-b)
-
-c)
-
-2.
-
-3.
-
-a)
-
-b)
+3. einen Hinweis auf das Schlichtungsverfahren nach § 16, der a)die Möglichkeit, ein solches Schlichtungsverfahren durchzuführen, erläutert undb)die Verlinkung zur Schlichtungsstelle enthält. die Möglichkeit, ein solches Schlichtungsverfahren durchzuführen, erläutert und die Verlinkung zur Schlichtungsstelle enthält.
 
 (3) Zu veröffentlichen ist die Erklärung zur Barrierefreiheit
 
-1.
+1. auf Websites öffentlicher Stellen des Bundes, die nicht vor dem 23. September 2018 veröffentlicht wurden: ab dem 23. September 2019,
 
-2.
+2. auf Websites öffentlicher Stellen des Bundes, die nicht unter Nummer 1 fallen: ab dem 23. September 2020,
 
-3.
+3. auf mobilen Anwendungen öffentlicher Stellen des Bundes: ab dem 23. Juni 2021.
 
 (4) Die öffentliche Stelle des Bundes antwortet auf Mitteilungen oder Anfragen, die ihr aufgrund der Erklärung zur Barrierefreiheit übermittelt werden, spätestens innerhalb eines Monats.
 
 ### § 12c — Berichterstattung über den Stand der Barrierefreiheit
 
-(1) Die obersten Bundesbehörden erstatten alle drei Jahre, erstmals zum 30. Juni 2021, der Überwachungsstelle des Bundes für Barrierefreiheit von Informationstechnik (§ 13 Absatz 3) Bericht über den Stand der Barrierefreiheit Sie erstellen verbindliche und überprüfbare Maßnahmen- und Zeitpläne zum weiteren Abbau von Barrieren ihrer Informationstechnik.
+(1) Die obersten Bundesbehörden erstatten alle drei Jahre, erstmals zum 30. Juni 2021, der Überwachungsstelle des Bundes für Barrierefreiheit von Informationstechnik (§ 13 Absatz 3) Bericht über den Stand der Barrierefreiheit
 
-1.
+1. der Websites und mobilen Anwendungen, einschließlich der Intranetangebote, der obersten Bundesbehörden,
 
-2.
+2. der elektronisch unterstützten Verwaltungsabläufe.
 
-(2) Die Länder erstatten alle drei Jahre, erstmals zum 30. Juni 2021, der Überwachungsstelle des Bundes für Barrierefreiheit von Informationstechnik (§ 13 Absatz 3) Bericht über den Stand der Barrierefreiheit Zu berichten ist insbesondere über die Ergebnisse ihrer Überwachung nach Artikel 8 Absatz 1 bis 3 der Richtlinie (EU) 2016/2102. Art und Form des Berichts richten sich nach den Anforderungen, die auf der Grundlage des Artikels 8 Absatz 6 der Richtlinie (EU) 2016/2102 festgelegt werden.
+(2) Die Länder erstatten alle drei Jahre, erstmals zum 30. Juni 2021, der Überwachungsstelle des Bundes für Barrierefreiheit von Informationstechnik (§ 13 Absatz 3) Bericht über den Stand der Barrierefreiheit
 
-1.
+1. der Websites der öffentlichen Stellen der Länder und
 
-2.
+2. der mobilen Anwendungen der öffentlichen Stellen der Länder.
 
 ### § 12d — Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Bestimmungen zu erlassen über
 
-1.
+1. diejenigen Websites und mobilen Anwendungen sowie Inhalte von Websites und mobilen Anwendungen, auf die sich der Geltungsbereich der Verordnung bezieht,
 
-2.
+2. die technischen Standards, die öffentliche Stellen des Bundes bei der barrierefreien Gestaltung anzuwenden haben, und den Zeitpunkt, ab dem diese Standards anzuwenden sind,
 
-3.
+3. die Bereiche und Arten amtlicher Informationen, die barrierefrei zu gestalten sind,
 
-4.
+4. die konkreten Anforderungen der Erklärung zur Barrierefreiheit,
 
-5.
+5. die konkreten Anforderungen der Berichterstattung über den Stand der Barrierefreiheit und
 
-6.
+6. die Einzelheiten des Überwachungsverfahrens nach § 13 Absatz 3 Satz 2 Nummer 1.
 
 ## Abschnitt 2b: Assistenzhunde
 
@@ -247,17 +223,13 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt durch Rechtsvero
 
 (3) Ein Assistenzhund ist ein unter Beachtung des Tierschutzes und des individuellen Bedarfs eines Menschen mit Behinderungen speziell ausgebildeter Hund, der aufgrund seiner Fähigkeiten und erlernten Assistenzleistungen dazu bestimmt ist, diesem Menschen die selbstbestimmte Teilhabe am gesellschaftlichen Leben zu ermöglichen, zu erleichtern oder behinderungsbedingte Nachteile auszugleichen. Dies ist der Fall, wenn der Assistenzhund
 
-1.
+1. zusammen mit einem Menschen mit Behinderungen als Mensch-Assistenzhund-Gemeinschaft im Sinne des § 12g zertifiziert ist oder
 
-2.
+2. von einem Träger der gesetzlichen Sozialversicherung, einem Träger nach § 6 des Neunten Buches Sozialgesetzbuch, einem Beihilfeträger, einem Träger der Heilfürsorge oder einem privaten Versicherungsunternehmen als Hilfsmittel zur Teilhabe oder zum Behinderungsausgleich anerkannt ist oder
 
-3.
+3. im Ausland als Assistenzhund anerkannt ist und dessen Ausbildung den Anforderungen des § 12f Satz 2 entspricht oder
 
-4.
-
-a)
-
-b)
+4. zusammen mit einem Menschen mit Behinderungen als Mensch-Assistenzhund-Gemeinschaft vor dem 1. Juli 2023 a)in einer den Anforderungen des § 12f Satz 2 entsprechenden Weise ausgebildet und entsprechend § 12g Satz 2 erfolgreich geprüft wurde oderb)sich in einer den Anforderungen des § 12f Satz 2 entsprechenden Ausbildung befunden hat und innerhalb von zwölf Monaten nach dem 1. Juli 2023 diese Ausbildung beendet und mit einer § 12g Satz 2 entsprechenden Prüfung erfolgreich abgeschlossen hat. in einer den Anforderungen des § 12f Satz 2 entsprechenden Weise ausgebildet und entsprechend § 12g Satz 2 erfolgreich geprüft wurde oder sich in einer den Anforderungen des § 12f Satz 2 entsprechenden Ausbildung befunden hat und innerhalb von zwölf Monaten nach dem 1. Juli 2023 diese Ausbildung beendet und mit einer § 12g Satz 2 entsprechenden Prüfung erfolgreich abgeschlossen hat.
 
 (4) Ein Assistenzhund ist als solcher zu kennzeichnen.
 
@@ -267,7 +239,7 @@ b)
 
 ### § 12f — Ausbildung von Assistenzhunden
 
-Assistenzhund und die Gemeinschaft von Mensch und Tier (Mensch-Assistenzhund-Gemeinschaft) bedürfen einer geeigneten Ausbildung durch eine oder begleitet von einer Ausbildungsstätte für Assistenzhunde (§ 12i). Gegenstand der Ausbildung sind insbesondere die Schulung des Sozial- und Umweltverhaltens sowie des Gehorsams des Hundes, grundlegende und spezifische Hilfeleistungen des Hundes, das langfristige Funktionieren der Mensch-Assistenzhund-Gemeinschaft sowie die Vermittlung der notwendigen Kenntnisse und Fähigkeiten an den Halter, insbesondere im Hinblick auf die artgerechte Haltung des Assistenzhundes. Aufgabe der Ausbildungsstätte ist dabei nicht nur das Bereitstellen eines Assistenzhundes, sondern nach Abschluss der Ausbildung bei Bedarf auch die nachhaltige Unterstützung des Assistenzhundehalters.
+Assistenzhund und die Gemeinschaft von Mensch und Tier (Mensch-Assistenzhund-Gemeinschaft) bedürfen einer geeigneten Ausbildung durch eine oder begleitet von einer Ausbildungsstätte für Assistenzhunde (§ 12i). Gegenstand der Ausbildung sind insbesondere die Schulung des Sozial- und Umweltverhaltens sowie des Gehorsams des Hundes, grundlegende und spezifische Hilfeleistungen des Hundes, das langfristige Funktionieren der Mensch-Assistenzhund-Gemeinschaft sowie die Vermittlung der notwendigen Kenntnisse und Fähigkeiten an den Halter, insbesondere im Hinblick auf die artgerechte Haltung des Assistenzhundes. Aufgabe der Ausbildungsstätte ist dabei nicht nur das Bereitstellen eines Assistenzhundes, sondern nach Abschluss der Ausbildung bei Bedarf auch die nachhaltige Unterstützung des Assistenzhundehalters.
 
 ### § 12g — Prüfung von Assistenzhunden und der Mensch-Assistenzhund-Gemeinschaft
 
@@ -281,19 +253,17 @@ Der Abschluss der Ausbildung des Hundes und der Mensch-Assistenzhund-Gemeinschaf
 
 ### § 12i — Zulassung einer Ausbildungsstätte für Assistenzhunde
 
-Eine Ausbildungsstätte, die Assistenzhunde nach § 12f ausbildet, bedarf der Zulassung durch eine fachliche Stelle. Die Zulassung ist jährlich durch die fachliche Stelle zu überprüfen. Eine Ausbildungsstätte für Assistenzhunde ist auf Antrag zuzulassen, wenn sie Der Antrag muss alle Angaben und Nachweise erhalten, die erforderlich sind, um das Vorliegen der Voraussetzungen nach Satz 2 festzustellen. Das Zulassungsverfahren folgt dem Verfahren nach DIN EN ISO/IEC 17065:2013. Die Zulassung einer Ausbildungsstätte ist jeweils auf längstens fünf Jahre zu befristen. Die fachliche Stelle bescheinigt die Kompetenz und Leistungsfähigkeit der Ausbildungsstätte durch ein Zulassungszertifikat.
+Eine Ausbildungsstätte, die Assistenzhunde nach § 12f ausbildet, bedarf der Zulassung durch eine fachliche Stelle. Die Zulassung ist jährlich durch die fachliche Stelle zu überprüfen. Eine Ausbildungsstätte für Assistenzhunde ist auf Antrag zuzulassen, wenn sie
 
-1.
+1. über eine Erlaubnis nach § 11 Absatz 1 Satz 1 Nummer 8 Buchstabe f des Tierschutzgesetzes verfügt oder, soweit eine solche Erlaubnis nicht erforderlich ist, wenn die verantwortliche Person der Ausbildungsstätte die erforderlichen Kenntnisse und Fähigkeiten besitzt,
 
-2.
+2. über die erforderliche Sachkunde verfügt, die eine erfolgreiche Ausbildung von Assistenzhunden sowie der Mensch-Assistenzhund-Gemeinschaft erwarten lässt, und
 
-3.
+3. die Anforderungen der Verordnung gemäß § 12l erfüllt und ein System zur Qualitätssicherung anwendet.
 
 ### § 12j — Fachliche Stelle und Prüfer
 
 (1) Als fachliche Stelle dürfen nur Zertifizierungsstellen für Produkte, Prozesse und Dienstleistungen nach DIN EN ISO/IEC 17065:2013 tätig werden, die von einer nationalen Akkreditierungsstelle im Sinne der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30), die durch die Verordnung (EU) 2019/1020 (ABl. L 169 vom 25.6.2019, S. 1) geändert worden ist, in der jeweils geltenden Fassung akkreditiert worden sind. Die Akkreditierung ist jeweils auf längstens fünf Jahre zu befristen. Das Bundesministerium für Arbeit und Soziales übt im Anwendungsbereich dieses Gesetzes die Aufsicht über die nationale Akkreditierungsstelle aus.
-
-(2) Als Prüfer dürfen nur Stellen, die Personen zertifizieren, nach DIN EN ISO/IEC 17024:2012 tätig werden, die von einer nationalen Akkreditierungsstelle im Sinne der Verordnung (EG) Nr. 765/2008 in der jeweils geltenden Fassung akkreditiert worden sind. Die Akkreditierung ist jeweils auf längstens fünf Jahre zu befristen. Ist der Prüfer zugleich als Ausbildungsstätte im Sinne von § 12i tätig, kann die Akkreditierung erteilt werden, wenn die Unabhängigkeitsanforderungen durch interne organisatorische Trennung und die Anforderungen gemäß Nummer 5.2.3 der DIN EN ISO/IEC 17024:2012 erfüllt werden. Die näheren Anforderungen an das Akkreditierungsverfahren ergeben sich aus der Verordnung gemäß § 12l.
 
 ### § 12k — Studie zur Untersuchung
 
@@ -303,17 +273,17 @@ Das Bundesministerium für Arbeit und Soziales untersucht die Umsetzung und die 
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Folgendes zu regeln:
 
-1.
+1. Näheres über die erforderliche Beschaffenheit des Assistenzhundes, insbesondere Wesensmerkmale, Alter und Gesundheit des auszubildenden Hundes sowie über die vom Assistenzhund zu erbringenden Unterstützungsleistungen,
 
-2.
+2. Näheres über die Anerkennung von am 1. Juli 2023 in Ausbildung befindlichen oder bereits ausgebildeten Assistenzhunden sowie von im Ausland anerkannten Assistenzhunden einschließlich des Verfahrens,
 
-3.
+3. Näheres über die erforderliche Kennzeichnung des Assistenzhundes sowie zum Umfang des notwendigen Versicherungsschutzes,
 
-4.
+4. Näheres über den Inhalt der Ausbildung nach § 12f und der Prüfung nach § 12g sowie über die Zulassung als Prüfer jeweils einschließlich des Verfahrens sowie des zu erteilenden Zertifikats,
 
-5.
+5. Näheres über die Voraussetzungen für die Akkreditierung als fachliche Stelle einschließlich des Verfahrens,
 
-6.
+6. nähere Voraussetzungen für die Zulassung als Ausbildungsstätte für Assistenzhunde einschließlich des Verfahrens.
 
 ## Abschnitt 3: Bundesfachstelle für Barrierefreiheit
 
@@ -321,31 +291,31 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen
 
 (1) Bei der Deutschen Rentenversicherung Knappschaft-Bahn-See wird eine Bundesfachstelle für Barrierefreiheit errichtet.
 
-(2) Die Bundesfachstelle für Barrierefreiheit ist zentrale Anlaufstelle zu Fragen der Barrierefreiheit für die Träger öffentlicher Gewalt. Sie berät darüber hinaus auch die übrigen öffentlichen Stellen des Bundes, Wirtschaft, Verbände und Zivilgesellschaft auf Anfrage. Ihre Aufgaben sind: Ein Expertenkreis, dem mehrheitlich Vertreterinnen und Vertreter der Verbände von Menschen mit Behinderungen angehören, berät die Fachstelle.
+(2) Die Bundesfachstelle für Barrierefreiheit ist zentrale Anlaufstelle zu Fragen der Barrierefreiheit für die Träger öffentlicher Gewalt. Sie berät darüber hinaus auch die übrigen öffentlichen Stellen des Bundes, Wirtschaft, Verbände und Zivilgesellschaft auf Anfrage. Ihre Aufgaben sind:
 
-1.
+1. zentrale Anlaufstelle und Erstberatung,
 
-2.
+2. Bereitstellung, Bündelung und Weiterentwicklung von unterstützenden Informationen zur Herstellung von Barrierefreiheit,
 
-3.
+3. Unterstützung der Beteiligten bei Zielvereinbarungen nach § 5 im Rahmen der verfügbaren finanziellen und personellen Kapazitäten,
 
-4.
+4. Aufbau eines Netzwerks,
 
-5.
+5. Begleitung von Forschungsvorhaben zur Verbesserung der Datenlage und zur Herstellung von Barrierefreiheit und
 
-6.
+6. Bewusstseinsbildung durch Öffentlichkeitsarbeit.
 
 (3) Bei der Bundesfachstelle Barrierefreiheit wird eine Überwachungsstelle des Bundes für Barrierefreiheit von Informationstechnik eingerichtet. Ihre Aufgaben sind,
 
-1.
+1. periodisch zu überwachen, ob und inwiefern Websites und mobile Anwendungen öffentlicher Stellen des Bundes den Anforderungen an die Barrierefreiheit genügen,
 
-2.
+2. die öffentlichen Stellen anlässlich der Prüfergebnisse zu beraten,
 
-3.
+3. die Berichte der obersten Bundesbehörden und der Länder auszuwerten,
 
-4.
+4. den Bericht der Bundesrepublik Deutschland an die Kommission nach Artikel 8 Absatz 4 bis 6 der Richtlinie (EU) 2016/2102 vorzubereiten und
 
-5.
+5. als sachverständige Stelle die Schlichtungsstelle nach § 16 zu unterstützen.
 
 (4) Das Bundesministerium für Arbeit und Soziales führt die Fachaufsicht über die Durchführung der in den Absätzen 2 und 3 genannten Aufgaben.
 
@@ -357,51 +327,51 @@ Werden Menschen mit Behinderungen in ihren Rechten aus § 7 Absatz 1, § 8 Absat
 
 ### § 15 — Verbandsklagerecht
 
-(1) Ein nach Absatz 3 anerkannter Verband kann, ohne in seinen Rechten verletzt zu sein, Klage nach Maßgabe der Verwaltungsgerichtsordnung oder des Sozialgerichtsgesetzes erheben auf Feststellung eines Verstoßes gegen Satz 1 gilt nicht, wenn eine Maßnahme aufgrund einer Entscheidung in einem verwaltungs- oder sozialgerichtlichen Streitverfahren erlassen worden ist.
+(1) Ein nach Absatz 3 anerkannter Verband kann, ohne in seinen Rechten verletzt zu sein, Klage nach Maßgabe der Verwaltungsgerichtsordnung oder des Sozialgerichtsgesetzes erheben auf Feststellung eines Verstoßes gegen
 
-1.
+1. das Benachteiligungsverbot für Träger der öffentlichen Gewalt nach § 7 Absatz 1 und die Verpflichtung des Bundes zur Herstellung der Barrierefreiheit in § 8 Absatz 1, § 9 Absatz 1 und § 10 Absatz 1 Satz 2 sowie in § 12a, soweit die Verpflichtung von Trägern öffentlicher Gewalt zur barrierefreien Gestaltung von Websites und mobilen Anwendungen, die für die Öffentlichkeit bestimmt sind, betroffen ist,
 
-2.
+2. die Vorschriften des Bundesrechts zur Herstellung der Barrierefreiheit in § 46 Abs. 1 Satz 3 und 4 der Bundeswahlordnung, § 39 Abs. 1 Satz 3 und 4 der Europawahlordnung, § 43 Abs. 2 Satz 2 der Wahlordnung für die Sozialversicherung, § 17 Abs. 1 Nr. 4 des Ersten Buches Sozialgesetzbuch, § 4 Abs. 1 Nr. 2a des Gaststättengesetzes, § 3 Nr. 1 Buchstabe d des Gemeindeverkehrsfinanzierungsgesetzes, § 3 Abs. 1 Satz 2 und § 8 Abs. 1 des Bundesfernstraßengesetzes, § 8 Abs. 3 Satz 3 und 4 sowie § 13 Abs. 2a des Personenbeförderungsgesetzes, § 2 Abs. 3 der Eisenbahn-Bau- und Betriebsordnung, § 3 Abs. 5 Satz 1 der Straßenbahn-Bau- und Betriebsordnung, §§ 19d und 20b des Luftverkehrsgesetzes oder
 
-3.
+3. die Vorschriften des Bundesrechts zur Verwendung von Gebärdensprache oder anderer geeigneter Kommunikationshilfen in § 17 Abs. 2 des Ersten Buches Sozialgesetzbuch, § 82 des Neunten Buches Sozialgesetzbuch und § 19 Abs. 1 Satz 2 des Zehnten Buches Sozialgesetzbuch.
 
 (2) Eine Klage ist nur zulässig, wenn der Verband durch die Maßnahme oder das Unterlassen in seinem satzungsgemäßen Aufgabenbereich berührt wird. Soweit ein Mensch mit Behinderung selbst seine Rechte durch eine Gestaltungs- oder Leistungsklage verfolgen kann oder hätte verfolgen können, kann die Klage nach Absatz 1 nur erhoben werden, wenn der Verband geltend macht, dass es sich bei der Maßnahme oder dem Unterlassen um einen Fall von allgemeiner Bedeutung handelt. Dies ist insbesondere der Fall, wenn eine Vielzahl gleich gelagerter Fälle vorliegt. Für Klagen nach Absatz 1 Satz 1 gelten die Vorschriften des 8. Abschnitts der Verwaltungsgerichtsordnung entsprechend mit der Maßgabe, dass es eines Vorverfahrens auch dann bedarf, wenn die angegriffene Maßnahme von einer obersten Bundes- oder einer obersten Landesbehörde erlassen worden ist; Gleiches gilt bei einem Unterlassen. Vor der Erhebung einer Klage nach Absatz 1 gegen einen Träger öffentlicher Gewalt hat der nach Absatz 3 anerkannte Verband ein Schlichtungsverfahren nach § 16 durchzuführen. Diese Klage ist nur zulässig, wenn keine gütliche Einigung im Schlichtungsverfahren erzielt werden konnte und dies nach § 16 Absatz 7 bescheinigt worden ist. Das Schlichtungsverfahren ersetzt ein vor der Klageerhebung durchzuführendes Vorverfahren.
 
 (3) Auf Vorschlag der Mitglieder des Beirates für die Teilhabe behinderter Menschen, die nach § 86 Abs. 2 Satz 2, 1., 3. oder 12. Aufzählungspunkt des Neunten Buches Sozialgesetzbuch berufen sind, kann das Bundesministerium für Arbeit und Soziales die Anerkennung erteilen. Es soll die Anerkennung erteilen, wenn der vorgeschlagene Verband
 
-1.
+1. nach seiner Satzung ideell und nicht nur vorübergehend die Belange von Menschen mit Behinderungen fördert,
 
-2.
+2. nach der Zusammensetzung seiner Mitglieder oder Mitgliedsverbände dazu berufen ist, Interessen von Menschen mit Behinderungen auf Bundesebene zu vertreten,
 
-3.
+3. zum Zeitpunkt der Anerkennung mindestens drei Jahre besteht und in diesem Zeitraum im Sinne der Nummer 1 tätig gewesen ist,
 
-4.
+4. die Gewähr für eine sachgerechte Aufgabenerfüllung bietet; dabei sind Art und Umfang seiner bisherigen Tätigkeit, der Mitgliederkreis sowie die Leistungsfähigkeit des Vereines zu berücksichtigen und
 
-5.
+5. wegen Verfolgung gemeinnütziger Zwecke nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftsteuer befreit ist.
 
 ### § 16 — Schlichtungsstelle und -verfahren; Verordnungsermächtigung
 
 (1) Bei der oder dem Beauftragten der Bundesregierung für die Belange von Menschen mit Behinderungen nach Abschnitt 5 wird eine Schlichtungsstelle zur außergerichtlichen Beilegung von Streitigkeiten nach den Absätzen 2 und 3 eingerichtet. Sie wird mit neutralen schlichtenden Personen besetzt und hat eine Geschäftsstelle. Das Verfahren der Schlichtungsstelle muss insbesondere gewährleisten, dass
 
-1.
+1. die Schlichtungsstelle unabhängig ist und unparteiisch handelt,
 
-2.
+2. die Verfahrensregeln für Interessierte zugänglich sind,
 
-3.
+3. die Beteiligten des Schlichtungsverfahrens rechtliches Gehör erhalten, insbesondere Tatsachen und Bewertungen vorbringen können,
 
-4.
+4. die schlichtenden Personen und die weiteren in der Schlichtungsstelle Beschäftigten die Vertraulichkeit der Informationen gewährleisten, von denen sie im Schlichtungsverfahren Kenntnis erhalten und
 
-5.
+5. eine barrierefreie Kommunikation mit der Schlichtungsstelle möglich ist.
 
 (2) Wer der Ansicht ist, in einem Recht nach diesem Gesetz durch öffentliche Stellen des Bundes oder Eigentümer, Besitzer und Betreiber von beweglichen oder unbeweglichen Anlagen und Einrichtungen verletzt worden zu sein, kann bei der Schlichtungsstelle nach Absatz 1 einen Antrag auf Einleitung eines Schlichtungsverfahrens stellen. Kommt wegen der behaupteten Rechtsverletzung auch die Einlegung eines fristgebundenen Rechtsbehelfs in Betracht, beginnt die Rechtsbehelfsfrist erst mit Beendigung des Schlichtungsverfahrens nach Absatz 7. In den Fällen des Satzes 2 ist der Schlichtungsantrag innerhalb der Rechtsbehelfsfrist zu stellen. Ist wegen der behaupteten Rechtsverletzung bereits ein Rechtsbehelf anhängig, wird dieses Verfahren bis zur Beendigung des Schlichtungsverfahrens nach Absatz 7 unterbrochen.
 
-(3) Ein nach § 15 Absatz 3 anerkannter Verband kann bei der Schlichtungsstelle nach Absatz 1 einen Antrag auf Einleitung eines Schlichtungsverfahrens stellen, wenn er einen Verstoß eines Trägers öffentlicher Gewalt behauptet.
+(3) Ein nach § 15 Absatz 3 anerkannter Verband kann bei der Schlichtungsstelle nach Absatz 1 einen Antrag auf Einleitung eines Schlichtungsverfahrens stellen, wenn er einen Verstoß eines Trägers öffentlicher Gewalt
 
-1.
+1. gegen das Benachteiligungsverbot oder die Verpflichtung zur Herstellung von Barrierefreiheit nach § 15 Absatz 1 Satz 1 Nummer 1,
 
-2.
+2. gegen die Vorschriften des Bundesrechts zur Herstellung der Barrierefreiheit nach § 15 Absatz 1 Satz 1 Nummer 2 oder
 
-3.
+3. gegen die Vorschriften des Bundesrechts zur Verwendung von Gebärdensprache oder anderer geeigneter Kommunikationshilfen nach § 15 Absatz 1 Satz 1 Nummer 3
 
 (4) Der Antrag nach den Absätzen 2 und 3 kann in Textform oder zur Niederschrift bei der Schlichtungsstelle gestellt werden. Diese übermittelt zur Durchführung des Schlichtungsverfahrens eine Abschrift des Schlichtungsantrags an die öffentliche Stelle oder den Eigentümer, Besitzer oder Betreiber von beweglichen oder unbeweglichen Anlagen oder Einrichtungen.
 

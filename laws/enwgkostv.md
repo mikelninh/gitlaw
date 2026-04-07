@@ -34,18 +34,6 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage — (zu § 2)
 
-–
+– durch Festlegung gegenüber einem Netzbetreiber, einer Gruppe von oder gegenüber allen Netzbetreibern oder
 
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
+– durch Genehmigung gegenüber dem Antragsteller

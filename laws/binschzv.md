@@ -30,9 +30,9 @@ grenzüberschreitenden Binnenschiffsgüterverkehr)
 
 Eine Erlaubnis ist nicht erforderlich
 
-1.
+1. für die Beförderung von eigenen Gütern für eigene Zwecke des Unternehmers mit eigenen Schiffen (Werkverkehr). Betreibt ein Schiffseigner neben dem Werkverkehr Schiffahrt zu gewerblichen Zwecken, so wird der gesamte Schiffahrtsbetrieb als gewerbliche Schiffahrt angesehen;
 
-2.
+2. für Unternehmer, die ausschließlich Beförderungen auf Wasserstraßen innerhalb des Geltungsbereichs des Grundgesetzes durchführen, welche keine Verbindung mit dem Binnenwasserstraßennetz eines anderen Mitgliedstaates der Europäischen Gemeinschaften oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum haben.
 
 ### § 4
 
@@ -52,11 +52,11 @@ Eine Erlaubnis ist nicht erforderlich
 
 ### § 6
 
-(1) Bei Personen, die wird die fachliche Eignung zur Führung eines Unternehmens des Binnenschiffsgüterverkehrs von der Erlaubnisbehörde zuerkannt, wenn in geeigneter Form nachgewiesen wird, daß die erforderlichen Kenntnisse auf den in der Anlage genannten Sachgebieten Gegenstand der Prüfung waren.
+(1) Bei Personen, die
 
-1.
+1. ein Studium an einer Hochschule oder einen Lehrgang an einer Fachschule durch Prüfung erfolgreich abgeschlossen haben oder
 
-2.
+2. eine Abschlußprüfung in einem anerkannten Ausbildungsberuf oder eine Prüfung über durch berufliche Fortbildung oder durch berufliche Umschulung erworbene Kenntnisse vor der Industrie- und Handelskammer als zuständiger Stelle nach dem Berufsbildungsgesetz vom 14. August 1969 (BGBl. I S. 1112), zuletzt geändert durch Artikel 7 des Gesetzes vom 27. Juli 1992 (BGBl. I S. 1398), bestanden haben,
 
 (2) Auf Antrag wird diesen Personen eine Erlaubnisurkunde ausgestellt.
 
@@ -111,71 +111,3 @@ Bei Unternehmern, die nachweislich bis zum Zeitpunkt des Inkrafttretens dieser V
 Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig ohne Erlaubnis nach § 2 Abs. 1 eine dort genannte Tätigkeit gewerbsmäßig ausübt.
 
 ### Anlage — (zu § 4 Abs. 2, § 5 Abs. 2, § 6 Abs. 1 Nr. 2, § 9 Abs. 1 und § 10 Abs. 2)
-
-Nachzuweisen sind Kenntnisse in folgenden Sachgebieten:
-
-A.
-
-1.
-
--
-
--
-
--
-
--
-
--
-
--
-
-2.
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
-3.
-
--
-
--
-
--
-
-4.
-
--
-
--
-
--
-
--
-
-5.
-
--
-
--
-
-B.
-
-1.
-
-2.
-
-3.
-
-4.

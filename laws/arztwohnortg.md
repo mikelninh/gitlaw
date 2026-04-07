@@ -13,11 +13,11 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 ### § 1
 
-(1) Der Ausgangsbetrag für die für das Jahr 2002 erstmalig nach dem Wohnortprinzip gemäß § 83 Abs. 1 Satz 1 des Fünften Buches Sozialgesetzbuch zu vereinbarenden Gesamtvergütungen ergibt sich jeweils durch Multiplikation folgender Faktoren: Die Zahl der Mitglieder der Krankenkasse ist nach dem Vordruck KM 6 der Statistik über die Versicherten in der gesetzlichen Krankenversicherung zum 1. Juli 2001 zu bestimmen.
+(1) Der Ausgangsbetrag für die für das Jahr 2002 erstmalig nach dem Wohnortprinzip gemäß § 83 Abs. 1 Satz 1 des Fünften Buches Sozialgesetzbuch zu vereinbarenden Gesamtvergütungen ergibt sich jeweils durch Multiplikation folgender Faktoren:
 
-1.
+1. des Betrags, der sich bei einer Teilung der für das Jahr 2001 geltenden Gesamtvergütung durch die Zahl der Mitglieder der Krankenkasse ergibt,
 
-2.
+2. der Zahl der Mitglieder der Krankenkasse mit Wohnort im Bezirk der vertragschließenden Kassenärztlichen Vereinigung.
 
 (2) Für Krankenkassen, die ihre Zuständigkeit auf das in Artikel 1 Abs. 1 des Einigungsvertrages genannte Gebiet erstrecken, ist der Betrag nach Absatz 1 für dieses Gebiet und das Gebiet der Bundesrepublik Deutschland nach dem Stand vom 2. Oktober 1990 einschließlich des in Artikel 3 des Einigungsvertrages genannten Teils des Landes Berlin getrennt zu ermitteln.
 

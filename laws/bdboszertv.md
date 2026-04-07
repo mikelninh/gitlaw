@@ -18,39 +18,29 @@ Gegenstand der Zertifizierung sind Endgeräte mit bestimmten, das Endgerät iden
 
 (1) Die Erteilung eines Zertifikats durch die Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben (Bundesanstalt) erfolgt auf schriftlichen oder elektronischen Antrag des Herstellers oder Lieferanten. Ein schriftlicher Antrag ist auch in einer elektronischen Fassung zu übermitteln. Für einen solchen Antrag sind ausschließlich die von der Bundesanstalt veröffentlichten Antragsformulare zu verwenden. Der Antrag muss Folgendes enthalten:
 
-1.
+1. Name und Anschrift des Antragstellers,
 
-2.
+2. Datum der Antragstellung,
 
-3.
+3. Name und Anschrift eines Empfangsbevollmächtigten des Antragstellers in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum,
 
-4.
+4. Name und Anschrift eines Ansprechpartners des Antragstellers, der über die erforderliche Sachkunde zur Erteilung von technischen Auskünften über das zu zertifizierende Endgerät verfügt,
 
-5.
+5. genaue Bezeichnung des zu zertifizierenden Endgerätes, insbesondere a)Endgerätetyp gemäß BOS-Interoperabilitätsrichtlinien (BOS-IOP-Richtlinien) nach § 5 Absatz 2,b)Endgerätename gemäß Herstellerproduktbezeich-nung,c)Name und Anschrift des Herstellers, sofern abweichend von Nummer 1,d)Hardware-Versionsnummer,e)Software-Versionsnummer, Endgerätetyp gemäß BOS-Interoperabilitätsrichtlinien (BOS-IOP-Richtlinien) nach § 5 Absatz 2, Endgerätename gemäß Herstellerproduktbezeich-nung, Name und Anschrift des Herstellers, sofern abweichend von Nummer 1, Hardware-Versionsnummer, Software-Versionsnummer,
 
-a)
+6. Angaben zu den gemäß BOS-IOP-Richtlinien optionalen Leistungsmerkmalen, die von dem Endgerät unterstützt werden,
 
-b)
+7. Erklärung des Antragstellers, dass der Verwendung des zu zertifizierenden Endgerätes einschließlich aller Komponenten im Digitalfunk BOS keine Rechte Dritter entgegenstehen,
 
-c)
+8. Angabe, ob es sich um eine vollständige Zertifizierung nach § 15a Absatz 2 des BDBOS-Gesetzes (Zertifizierung) oder eine nach § 15a Absatz 3 Satz 2 und 3 des BDBOS-Gesetzes beschränkte Zertifizierung (Änderungszertifizierung) handelt,
 
-d)
+9. BOS-Prüfbericht nach § 7 Absatz 1 Satz 4 und sonstige Nachweise über die Einhaltung der Anforderungen gemäß § 15a Absatz 1 Satz 3 Nummer 1 und 2 des BDBOS-Gesetzes, die nach den BOS-IOP-Richtlinien vorzulegen sind, die der Überprüfung nach § 7 zugrunde gelegt wurden,
 
-e)
+10. Nachweis der Sachkunde der Prüfstelle gemäß § 7 Absatz 1 Satz 1,
 
-6.
+11. Angabe der dem BOS-Prüfbericht und den sonstigen Nachweisen zugrunde liegenden BOS-IOP-Richtlinien sowie
 
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-12.
+12. Erklärung des Antragstellers, dass die Verwendung des Endgerätes nach § 15a Absatz 1 Satz 3 Nummer 3 des BDBOS-Gesetzes nicht gegen andere öffentlich-rechtliche Vorschriften verstößt.
 
 (2) Handelt es sich bei dem Endgerät um einen Bestandteil einer Funkleitstelle im Sinne des § 1 Satz 2, so hat der Antragsteller anzugeben, woraus sich dieser Bestandteil zusammensetzt.
 
@@ -60,15 +50,15 @@ e)
 
 ### § 3 — Änderungszertifizierung
 
-(1) Eine Änderungszertifizierung kann nur erfolgen und sofern gleichzeitig sichergestellt ist, dass das Endgerät auch weiterhin die Anforderungen nach § 15a Absatz 1 Satz 3 des BDBOS-Gesetzes erfüllt. Fehlerkorrektur ist das Herstellen eines Zustands des Endgerätes, der auf Grund der Kundendokumentation des Herstellers bereits zum Zeitpunkt der Zertifizierung vom Endgerät erwartet werden konnte.
+(1) Eine Änderungszertifizierung kann nur erfolgen
 
-1.
+1. beim Deaktivieren von Schnittstellen oder optionalen Leistungsmerkmalen,
 
-2.
+2. bei der Aktivierung oder Umsetzung von optionalen Leistungsmerkmalen,
 
-3.
+3. bei einer von der Bundesanstalt geforderten Anpassung, insbesondere zur Behebung von Sicherheitsmängeln, oder
 
-4.
+4. bei einer Fehlerkorrektur
 
 (2) Neben den in § 2 genannten Angaben ist in einem Antrag auf Änderungszertifizierung zusätzlich die Angabe erforderlich, welcher Änderungstatbestand im Sinne des Absatzes 1 Satz 1 Nummer 1 bis 4 vorliegt, welche Änderung an dem Endgerät vorgenommen wurde und welche technischen Auswirkungen mit der Änderung verbunden sind. Der Antrag auf Änderungszertifizierung ist vor Durchführung der Überprüfung nach § 7 zu stellen. Es ist nicht erforderlich, dem Antrag die in § 2 Absatz 1 Satz 4 Nummer 9 bis 11 genannten Unterlagen beizufügen.
 
@@ -90,23 +80,23 @@ e)
 
 (2) Die Bundesanstalt macht in Form von BOS-IOP-Richtlinien insbesondere bekannt:
 
-1.
+1. die für die einzelnen Endgerätetypen festgelegten Leistungsmerkmale einschließlich der dazugehörigen Leistungsbeschreibungen, die sich auch auf die Bedienbarkeit beziehen können,
 
-2.
+2. die Einstufung einzelner Leistungsmerkmale als zwingend erforderlich oder optional,
 
-3.
+3. die weiteren Anforderungen nach § 15a Absatz 1 Satz 3 Nummer 2 des BDBOS-Gesetzes sowie
 
-4.
+4. die Prüfkriterien, anhand derer die Einhaltung der Anforderungen nach § 15a Absatz 1 Satz 3 Nummer 1 und 2 des BDBOS-Gesetzes nachgewiesen wird.
 
 ### § 6 — Veröffentlichung nicht allgemein zugänglicher Informationen
 
-(1) Die Bundesanstalt veröffentlicht folgende Informationen in einem geschützten Bereich auf ihrer Internetseite und stellt sie auf schriftliche Anfrage zur Verfügung: Auf die erstmalige Veröffentlichung und jede Änderung der in Satz 1 aufgeführten Informationen weist die Bundesanstalt im Bundesanzeiger und auf ihrer Internetseite hin.
+(1) Die Bundesanstalt veröffentlicht folgende Informationen in einem geschützten Bereich auf ihrer Internetseite und stellt sie auf schriftliche Anfrage zur Verfügung:
 
-1.
+1. verbindliche Vorgaben für die Gestaltung des BOS-Prüfberichts nach § 2 Absatz 1 Satz 4 Nummer 9,
 
-2.
+2. verbindliche Vorgaben für die Anzeige unwesentlicher Änderungen nach § 4 Absatz 1 und
 
-3.
+3. BOS-IOP-Richtlinien im Sinne des § 5 Absatz 2.
 
 (2) Für die Behörden und Organisationen mit Sicherheitsaufgaben, die nach § 3 Absatz 2 der Bestimmungen für Frequenzzuteilungen zur Nutzung für das Betreiben von digitalen Funkanlagen der Behörden und Organisationen mit Sicherheitsaufgaben (BOS) im Frequenzbereich 380 – 385 MHz sowie 390 – 395 MHz (Funkrichtlinie Digitalfunk BOS) in Verbindung mit § 4 Absatz 1 der Bestimmungen für Frequenzzuteilungen zur Nutzung für das Betreiben von Funkanlagen der Behörden und Organisationen mit Sicherheitsaufgaben (BOS) (BOS-Funkrichtlinie) in der jeweils geltenden Fassung zur Nutzung des Digitalfunks BOS berechtigt sind, erfolgt der Zugang zu den in Absatz 1 genannten Informationen über zuvor benannte Ansprechstellen von Bund und Ländern. Der Bund und jedes der Länder können der Bundesanstalt hierfür jeweils bis zu drei Ansprechstellen benennen. Die Bundesanstalt kann die Benennung von weiteren Ansprechstellen zulassen, wenn dies auf Grund besonderer Umstände erforderlich ist. Hersteller, Lieferanten und sachverständige Prüfstellen erhalten Zugang zu den in Absatz 1 genannten Informationen, wenn sie ein berechtigtes Interesse und die Einhaltung der notwendigen Sicherheitsvorkehrungen, insbesondere die Berechtigung zur Einsicht in Verschlusssachen, nachweisen. Ein Zugang ist ausgeschlossen, wenn ihm überwiegende öffentliche Interessen, insbesondere sicherheitspolitische Belange der Bundesrepublik Deutschland, entgegenstehen.
 
@@ -130,11 +120,11 @@ e)
 
 (2) Das Zertifikat umfasst mindestens folgende Angaben:
 
-1.
+1. Bezeichnung des Endgerätes nach § 2 Absatz 1 Satz 4 Nummer 5 Buchstabe a bis e,
 
-2.
+2. Leistungsmerkmale des Endgerätes, die Gegenstand der Zertifizierung sind,
 
-3.
+3. Version der BOS-IOP-Richtlinien und der Systemtechnik, die der Zertifizierung zugrunde liegen.
 
 (3) Dem Zertifikat für einen Bestandteil einer Funkleitstelle im Sinne des § 1 Satz 2 wird eine Auflistung beigefügt, die die Hardware- und Software-Komponenten aufführt, aus denen sich der Bestandteil zusammensetzt.
 

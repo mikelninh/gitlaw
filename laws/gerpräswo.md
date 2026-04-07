@@ -36,19 +36,19 @@ Die Wahl soll mindestens zwei Wochen vor Ablauf des Geschäftsjahres stattfinden
 
 ### § 4 — Wahlbekanntmachungen
 
-(1) Der Wahlvorstand gibt spätestens einen Monat vor dem Wahltag durch Aushang bekannt: Bestehen Zweigstellen oder auswärtige Spruchkörper, so sind die Wahlbekanntmachungen auch dort auszuhängen.
+(1) Der Wahlvorstand gibt spätestens einen Monat vor dem Wahltag durch Aushang bekannt:
 
-1.
+1. das Verzeichnis der wahlberechtigten und das Verzeichnis der wählbaren Mitglieder des Gerichts,
 
-2.
+2. das Ergebnis der Auslosung nach § 21b Abs. 4 Satz 3 und § 21d Abs. 2 und 3 des Gerichtsverfassungsgesetzes,
 
-3.
+3. den Wahltag, die Wahlzeit und den Wahlraum,
 
-4.
+4. die Anzahl der zu wählenden Richter,
 
-5.
+5. die Voraussetzungen, unter denen eine Briefwahl stattfinden kann,
 
-6.
+6. den Hinweis auf das Einspruchsrecht nach Absatz 3.
 
 (2) Auf den Wahlbekanntmachungen ist der erste Tag des Aushangs zu vermerken.
 
@@ -78,11 +78,11 @@ Die Wahl soll mindestens zwei Wochen vor Ablauf des Geschäftsjahres stattfinden
 
 ### § 7 — Briefwahl
 
-(1) Den wahlberechtigten Mitgliedern des Gerichts, die leitet der Wahlvorstand einen Stimmzettel und einen Wahlumschlag sowie einen größeren Freiumschlag zu, der die Anschrift des Wahlvorstandes und als Absender die Anschrift des wahlberechtigten Mitglieds des Gerichts sowie den Vermerk "Schriftliche Stimmabgabe zur Wahl des Präsidiums" trägt. Er übersendet außerdem eine vorgedruckte, vom Wähler abzugebende Erklärung, in der dieser dem Wahlvorstand gegenüber versichert, daß er den Stimmzettel persönlich gekennzeichnet hat. Die Absendung ist in der Wählerliste zu vermerken.
+(1) Den wahlberechtigten Mitgliedern des Gerichts, die
 
-1.
+1. einem auswärtigen Spruchkörper oder einer Zweigstelle des Gerichts angehören oder für nicht mehr als drei Monate an ein anderes Gericht abgeordnet sind,
 
-2.
+2. aus sonstigen Gründen an einer Stimmabgabe nach § 5 Abs. 3 verhindert sind und dies dem Wahlvorstand rechtzeitig anzeigen,
 
 (2) In einem besonderen Schreiben ist zugleich anzugeben, bis zu welchem Zeitpunkt spätestens der Stimmzettel bei dem Wahlvorstand eingegangen sein muß.
 
@@ -98,13 +98,13 @@ Die Wahl soll mindestens zwei Wochen vor Ablauf des Geschäftsjahres stattfinden
 
 (3) Ungültig sind Stimmzettel,
 
-1.
+1. die nicht in einem Wahlumschlag abgegeben sind,
 
-2.
+2. die nicht von dem Wahlvorstand ausgegeben sind,
 
-3.
+3. aus denen sich der Wille des Wählers nicht zweifelsfrei ergibt,
 
-4.
+4. die einen Zusatz oder Vorbehalt enthalten.
 
 (4) Bei Stimmengleichheit zwischen zwei oder mehreren wählbaren Mitgliedern des Gerichts stellt der Wahlvorstand durch Auslosung fest, wer als gewählt gilt und wer in den Fällen des § 21c Abs. 2 des Gerichtsverfassungsgesetzes als Nächstberufener nachrückt.
 
@@ -112,19 +112,19 @@ Die Wahl soll mindestens zwei Wochen vor Ablauf des Geschäftsjahres stattfinden
 
 (1) Über das Wahlergebnis fertigt der Wahlvorstand eine Niederschrift, die von sämtlichen Mitgliedern des Wahlvorstandes zu unterzeichnen ist. Die Niederschrift muß enthalten:
 
-1.
+1. die Zahl der abgegebenen Stimmzettel,
 
-2.
+2. die Zahl der gültigen Stimmzettel,
 
-3.
+3. die Zahl der ungültigen Stimmzettel,
 
-4.
+4. die für die Gültigkeit oder Ungültigkeit zweifelhafter Stimmzettel maßgebenden Gründe,
 
-5.
+5. die Angabe, wie viele Stimmen auf jeden der wählbaren Richter entfallen sind,
 
-6.
+6. die Namen der gewählten Richter,
 
-7.
+7. das Ergebnis einer etwaigen Auslosung nach § 8 Abs. 4.
 
 (2) Besondere Vorkommnisse bei der Wahlhandlung oder der Feststellung des Wahlergebnisses sind in der Niederschrift zu vermerken.
 

@@ -22,11 +22,11 @@
 
 (2) Bei der Berechnung der Ladezeit kommen folgende Zeiten nicht in Ansatz:
 
-1.
+1. Sonntage und staatlich anerkannte allgemeine Feiertage an der Ladestelle,
 
-2.
+2. an Werktagen die Zeit zwischen 20.00 Uhr und 6.00 Uhr,
 
-3.
+3. die Zeit, in der aus Gründen, die dem Risikobereich des Frachtführers zuzurechnen sind, das Verladen jeder Art von Gut unmöglich ist.
 
 (3) Absatz 2 Nummer 1 und 2 ist nicht anzuwenden, soweit der Frachtführer während der darin genannten Zeiten vereinbarungsgemäß oder auf Weisung des Absenders oder der Meldestelle ladebereit ist.
 
@@ -36,7 +36,7 @@ Für die Bestimmung des Beginns der Entladezeit (Löschzeit) sowie ihrer Dauer s
 
 ### § 4 — Liegegeld
 
-(1) Das dem Frachtführer geschuldete Standgeld (Liegegeld) beträgt bei einem Schiff mit einer Tragfähigkeit bis zu 1 500 Tonnen für jede angefangene Stunde, während der der Frachtführer nach Ablauf der Lade- oder Löschzeit wartet, 0,05 Euro je Tonne Tragfähigkeit. Bei einem Schiff mit einer Tragfähigkeit über 1 500 Tonnen beträgt das für jede angefangene Stunde anzusetzende Liegegeld 75 Euro zuzüglich 0,02 Euro für jede über 1 500 Tonnen liegende Tonne.
+(1) Das dem Frachtführer geschuldete Standgeld (Liegegeld) beträgt bei einem Schiff mit einer Tragfähigkeit bis zu 1 500 Tonnen für jede angefangene Stunde, während der der Frachtführer nach Ablauf der Lade- oder Löschzeit wartet, 0,05 Euro je Tonne Tragfähigkeit. Bei einem Schiff mit einer Tragfähigkeit über 1 500 Tonnen beträgt das für jede angefangene Stunde anzusetzende Liegegeld 75 Euro zuzüglich 0,02 Euro für jede über 1 500 Tonnen liegende Tonne.
 
 (2) Bei der Berechnung des Liegegeldes sind die Stunden nicht zu berücksichtigen, in denen aus Gründen, die dem Risikobereich des Frachtführers zuzurechnen sind, das Verladen oder Entladen jeder Art von Gut unmöglich ist.
 
@@ -52,17 +52,17 @@ Für die Bestimmung des Beginns der Entladezeit (Löschzeit) sowie ihrer Dauer s
 
 ### § 6 — Dauer der Lade- und Löschzeit
 
-(1) Die gesamte Lade- und Löschzeit beträgt in der Tankschifffahrt bei einer für ein Schiff bestimmten Sendung mit einem Gewicht Bei einer Sendung über 2 000 Tonnen erhöht sich die Lade- und Löschzeit um sechs Stunden je weitere angefangene 1 000 Tonnen. Bei einer Sendung über 5 000 Tonnen erhöht sich die Lade- und Löschzeit um vier Stunden je weitere angefangene 1 000 Tonnen. Die erforderliche Aufheizzeit wird auf die Lade- und Löschzeit angerechnet. Als ein Schiff im Sinne von Satz 1 ist auch ein Schub- oder Koppelverband anzusehen.
+(1) Die gesamte Lade- und Löschzeit beträgt in der Tankschifffahrt bei einer für ein Schiff bestimmten Sendung mit einem Gewicht
 
 (2) Beträgt die Mindestpumpenkapazität des Tankschiffs weniger als 200 Kubikmeter pro Stunde, so erhöht sich die nach Absatz 1 anzusetzende Lade- und Löschzeit um die Zeit, die der effektiven Stundenleistung während des Lade- und Löschvorgangs entspricht.
 
-(3) Bei der Berechnung der Lade- und Löschzeit ist die für das Laden und Löschen tatsächlich benötigte Zeit getrennt festzustellen; angefangene Stunden, die sich bei der Ermittlung der tatsächlich benötigten Ladezeit und der tatsächlich benötigten Löschzeit ergeben, sind auf volle Stunden aufzurunden. Nicht in Ansatz kommen folgende Zeiten: Satz 2 Nummer 1 und 2 ist nicht anzuwenden, soweit der Frachtführer während der darin genannten Zeiten vereinbarungsgemäß oder auf Weisung der Meldestelle oder des Absenders lade- oder löschbereit ist.
+(3) Bei der Berechnung der Lade- und Löschzeit ist die für das Laden und Löschen tatsächlich benötigte Zeit getrennt festzustellen; angefangene Stunden, die sich bei der Ermittlung der tatsächlich benötigten Ladezeit und der tatsächlich benötigten Löschzeit ergeben, sind auf volle Stunden aufzurunden. Nicht in Ansatz kommen folgende Zeiten:
 
-1.
+1. im Falle des Ladens Sonntage und staatlich anerkannte allgemeine Feiertage an der Ladestelle, im Falle des Löschens Sonntage und staatlich anerkannte allgemeine Feiertage an der Löschstelle,
 
-2.
+2. an Werktagen, die einem Sonntag oder einem gesetzlichen Feiertag an der Lade- oder Löschstelle nachfolgen, die Zeit zwischen 0.00 Uhr und 7.00 Uhr, an einem Samstag und am 24. und 31. Dezember zusätzlich die Zeit zwischen 13.00 Uhr und 24.00 Uhr,
 
-3.
+3. die Zeit, in der aus Gründen, die dem Risikobereich des Frachtführers zuzurechnen sind, das Verladen oder Entladen jeder Art von Gut unmöglich ist.
 
 ### § 7 — Liegegeld
 

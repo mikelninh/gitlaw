@@ -12,33 +12,29 @@ Auf Grund des § 32 Abs. 1 Satz 1 Nr. 15 und Satz 5 des Luftverkehrsgesetzes in 
 
 ### § 1 — Zeitliche Einschränkung
 
-(1) Zum Schutz der Bevölkerung vor Fluglärm an Landeplätzen, auf denen nach Erhebungen des Statistischen Bundesamtes im vorausgegangenen Kalenderjahr 15 000 oder mehr Flugbewegungen (Starts und Landungen) von Flugzeugen, Motorseglern und Drehflüglern stattgefunden haben, sind Starts und Landungen von propellergetriebenen Flugzeugen und Motorseglern bis zu 9 000 kg höchstzulässiger Startmasse untersagt:
+(1) Zum Schutz der Bevölkerung vor Fluglärm an Landeplätzen, auf denen nach Erhebungen des Statistischen Bundesamtes im vorausgegangenen Kalenderjahr 15 000 oder mehr Flugbewegungen (Starts und Landungen) von Flugzeugen, Motorseglern und Drehflüglern stattgefunden haben, sind Starts und Landungen von propellergetriebenen Flugzeugen und Motorseglern bis zu 9 000 kg höchstzulässiger Startmasse untersagt:
 
-1.
+1. montags bis freitags vor 7.00 Uhr, zwischen 13.00 und 15.00 Uhr Ortszeit und nach Sonnenuntergang,
 
-2.
+2. samstags, sonntags und an Feiertagen vor 9.00 Uhr und nach 13.00 Uhr Ortszeit.
 
 (2) Starts und Landungen von Flügen, die über den Flugplatzverkehr nach Artikel 2 Nummer 9 der Durchführungsverordnung (EU) Nr. 923/2012 der Kommission vom 26. September 2012 zur Festlegung gemeinsamer Luftverkehrsregeln und Betriebsvorschriften für Dienste und Verfahren der Flugsicherung und zur Änderung der Durchführungsverordnung (EG) Nr. 1035/2011 sowie der Verordnungen (EG) Nr. 1265/2007, (EG) Nr. 1794/2006, (EG) Nr. 730/2006, (EG) Nr. 1033/2006 und (EU) Nr. 255/2010 (ABl. L 281 vom 13.10.2012, S. 1, L 145 vom 31.5.2013, S. 38) in der jeweils geltenden Fassung hinausführen, sind während der Ruhezeiten nach Absatz 1 zulässig, wenn für das propellergetriebene Flugzeug oder den Motorsegler ein Lärmzeugnis oder eine dem Lärmzeugnis entsprechende Urkunde des Staates erteilt ist, in dem das Luftfahrzeug zum Verkehr zugelassen ist. Im Falle eines Starts gilt dies nur, wenn das Luftfahrzeug nicht vor Ablauf von 60 Minuten zum Startflugplatz zurückkehrt; diese Einschränkung gilt nicht, wenn das Luftfahrzeug aus Gründen der sicheren Flugdurchführung vorzeitig zurückkehren muß. Nicht im Inland erteilte Lärmzeugnisse oder die ihnen entsprechenden Urkunden werden als gültig anerkannt, wenn aus ihnen die Einhaltung der Lärmgrenzwerte nach Anlage 1 ersichtlich ist.
 
 ### § 2 — Regelungen durch die Landesbehörden
 
-(1) Die zuständigen Luftfahrtbehörden der Länder können, soweit zusätzliche Einschränkungen zum Schutz der Bevölkerung vor Fluglärm unter Berücksichtigung der örtlichen Gegebenheiten erforderlich sind, Starts und Landungen von propellergetriebenen Flugzeugen und Motorseglern sind untersagt, soweit Einschränkungen nach Satz 1 angeordnet sind.
+(1) Die zuständigen Luftfahrtbehörden der Länder können, soweit zusätzliche Einschränkungen zum Schutz der Bevölkerung vor Fluglärm unter Berücksichtigung der örtlichen Gegebenheiten erforderlich sind,
 
-1.
+1. weitere Landeplätze den Einschränkungen nach § 1 unterwerfen;
 
-2.
-
-a)
-
-b)
+2. zusätzliche Einschränkungen für propellergetriebene Flugzeuge und Motorsegler an den Landeplätzen einführen, insbesonderea)die zeitlichen Einschränkungen nach § 1 Abs. 1 und 2 ausdehnen, b)den Flugbetrieb von im Inland zum Verkehr zugelassenen propellergetriebenen Flugzeugen und Motorseglern auf diejenigen Luftfahrzeuge beschränken, für die ein Lärmzeugnis erteilt worden ist, aus dem die Einhaltung der Lärmgrenzwerte nach Anlage 2 ersichtlich ist. die zeitlichen Einschränkungen nach § 1 Abs. 1 und 2 ausdehnen, den Flugbetrieb von im Inland zum Verkehr zugelassenen propellergetriebenen Flugzeugen und Motorseglern auf diejenigen Luftfahrzeuge beschränken, für die ein Lärmzeugnis erteilt worden ist, aus dem die Einhaltung der Lärmgrenzwerte nach Anlage 2 ersichtlich ist.
 
 (2) Die zuständigen Luftfahrtbehörden der Länder können im Einzelfall oder allgemein Ausnahmen von den zeitlichen Einschränkungen nach § 1 erteilen für Flüge:
 
-1.
+1. von propellergetriebenen Flugzeugen im gewerblichen Verkehr zwischen küstennahen Landeplätzen und den Nordseeinseln,
 
-2.
+2. von propellergetriebenen Flugzeugen und Motorseglern, an denen ein historisches Interesse besteht,
 
-3.
+3. von propellergetriebenen Flugzeugen und Motorseglern, anläßlich von Luftfahrtveranstaltungen.
 
 (3) Die zuständigen Luftfahrtbehörden der Länder können Landeplätze von den Einschränkungen nach § 1 ausnehmen, soweit solche Einschränkungen unter Berücksichtigung der besonderen Umstände an einem Landeplatz zum Schutz der Bevölkerung vor Fluglärm nicht erforderlich sind.
 
@@ -64,27 +60,27 @@ Das Bundesministerium für Verkehr gibt die Landeplätze, die infolge der Zahl d
 
 Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 10 des Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 1 Abs. 1 oder § 2 Abs. 1 Satz 2 startet oder landet oder
 
-2.
+2. entgegen § 4 Abs. 6 Satz 2 ein propellergetriebenes Flugzeug oder einen Motorsegler besonders kennzeichnet.
 
 ### § 6 — Übergangsbestimmungen
 
-(1) Propellergetriebene Flugzeuge und Motorsegler werden für einen Zeitraum von bis zu einem Jahr nach Inkrafttreten dieser Verordnung von den zeitlichen Einschränkungen nach den §§ 1 und 2 Abs. 1 Nr. 2 Buchstabe a dieser Verordnung freigestellt, wenn für das Flugzeug oder den Motorsegler ein Lärmzeugnis oder eine ihm entsprechende Urkunde nach § 1 Abs. 2 erteilt ist.
+(1) Propellergetriebene Flugzeuge und Motorsegler
 
-1.
+1. mit einer höchstzulässigen Startmasse von mehr als 2.000 kg,
 
-2.
+2. für den gewerblichen Einsatz mit einer höchstzulässigen Startmasse von bis zu 2.000 kg,
 
-3.
+3. für den Einsatz im Segelflugzeugschlepp und im Fallschirmspringerabsatz an Samstagnachmittagen
 
-(2) Soweit innerhalb eines Zeitraumes von bis zu zwei Jahren nach Inkrafttreten dieser Verordnung Maßnahmen zur Erfüllung der erhöhten Schallschutzanforderungen nach § 4 in Auftrag gegeben und vom Halter oder Eigentümer durch Vorlage einer schriftlichen Auftragsbestätigung nachgewiesen werden, stellen die zuständigen Landesbehörden auf Antrag propellergetriebene Flugzeuge und Motorsegler für einen Zeitraum von bis zu vier Jahren nach Inkrafttreten dieser Verordnung von den zeitlichen Einschränkungen nach den §§ 1 und 2 Abs. 1 Nr. 2 Buchstabe a frei.
+(2) Soweit innerhalb eines Zeitraumes von bis zu zwei Jahren nach Inkrafttreten dieser Verordnung Maßnahmen zur Erfüllung der erhöhten Schallschutzanforderungen nach § 4 in Auftrag gegeben und vom Halter oder Eigentümer durch Vorlage einer schriftlichen Auftragsbestätigung nachgewiesen werden, stellen die zuständigen Landesbehörden auf Antrag propellergetriebene Flugzeuge und Motorsegler
 
-1.
+1. mit einer höchstzulässigen Startmasse von mehr als 2.000 kg,
 
-2.
+2. für den gewerblichen Einsatz mit einer höchstzulässigen Startmasse von bis zu 2.000 kg,
 
-3.
+3. für den Einsatz im Segelflugzeugschlepp und im Fallschirmspringerabsatz an Samstagnachmittagen
 
 (3) Eine Freistellung nach Absatz 2 kann für einen oder mehrere der unter § 1 Abs. 1 oder § 2 Abs. 1 Nr. 1 fallenden Landeplätze erfolgen.
 
@@ -98,8 +94,4 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage 1 — (zu § 1 Abs. 2 Satz 3)
 
-Start: BJNR003500999BJNE001000308_01Ende: BJNR003500999BJNE001000308_01
-
 ### Anlage 2 — (zu § 2 Abs. 1 Nr. 2 Buchstabe b, § 4 Abs. 2 und 3)
-
-Start: BJNR003500999BJNE001100308_01Ende: BJNR003500999BJNE001100308_01

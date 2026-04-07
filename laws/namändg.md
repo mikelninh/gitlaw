@@ -12,15 +12,21 @@ Der Familienname eines Deutschen im Sinne des Grundgesetzes, eines Staatenlosen 
 
 ### § 2
 
-(1) Für eine beschränkt geschäftsfähige oder geschäftsunfähige Person stellt der gesetzliche Vertreter den Antrag; ein Vormund oder Pfleger bedarf hierzu der Genehmigung des Familiengerichts, ein Betreuer der Genehmigung des Betreuungsgerichts. Für eine geschäftsfähige Person, für die in dieser Angelegenheit ein Betreuer bestellt und ein Einwilligungsvorbehalt nach § 1825 des Bürgerlichen Gesetzbuchs angeordnet ist, stellt der Betreuer den Antrag; er bedarf hierzu der Genehmigung des Betreuungsgerichts.(2) Das Gericht hat den Antragsteller in den Fällen des Absatzes 1 Satz 1, wenn er als beschränkt Geschäftsfähiger das sechzehnte Lebensjahr vollendet hat, sowie in den Fällen des Absatzes 1 Satz 2 zu dem Antrag zu hören.
+(1) Für eine beschränkt geschäftsfähige oder geschäftsunfähige Person stellt der gesetzliche Vertreter den Antrag; ein Vormund oder Pfleger bedarf hierzu der Genehmigung des Familiengerichts, ein Betreuer der Genehmigung des Betreuungsgerichts. Für eine geschäftsfähige Person, für die in dieser Angelegenheit ein Betreuer bestellt und ein Einwilligungsvorbehalt nach § 1825 des Bürgerlichen Gesetzbuchs angeordnet ist, stellt der Betreuer den Antrag; er bedarf hierzu der Genehmigung des Betreuungsgerichts.
+
+(2) Das Gericht hat den Antragsteller in den Fällen des Absatzes 1 Satz 1, wenn er als beschränkt Geschäftsfähiger das sechzehnte Lebensjahr vollendet hat, sowie in den Fällen des Absatzes 1 Satz 2 zu dem Antrag zu hören.
 
 ### § 3
 
-(1) Ein Familienname darf nur geändert werden, wenn ein wichtiger Grund die Änderung rechtfertigt.(2) Die für die Entscheidung erheblichen Umstände sind von Amts wegen festzustellen; dabei sollen insbesondere außer den unmittelbar Beteiligten die zuständige Ortspolizeibehörde und solche Personen gehört werden, deren Rechte durch die Namensänderung berührt werden.
+(1) Ein Familienname darf nur geändert werden, wenn ein wichtiger Grund die Änderung rechtfertigt.
+
+(2) Die für die Entscheidung erheblichen Umstände sind von Amts wegen festzustellen; dabei sollen insbesondere außer den unmittelbar Beteiligten die zuständige Ortspolizeibehörde und solche Personen gehört werden, deren Rechte durch die Namensänderung berührt werden.
 
 ### § 3a
 
-(1) Ist ein deutscher Staatsangehöriger, der die deutsche Staatsangehörigkeit nach dem 1. Januar 1919 erworben hat, daran gehindert, seinen früheren Familiennamen oder Vornamen zu führen, weil ihm dies vor seiner Einbürgerung durch ein Gesetz oder eine Verwaltungsmaßnahme seines früheren Heimatstaates verboten war, so liegt ein wichtiger Grund zur Änderung im Sinne des § 3 Absatz 1 vor, wenn durch das Gesetz oder die Verwaltungsmaßnahme des früheren Heimatstaates überwiegend Angehörige einer deutschen Minderheit betroffen waren.(2) Absatz 1 gilt auch für deutsche Staatsangehörige, auf die der frühere Name durch Ableitung übergegangen wäre.
+(1) Ist ein deutscher Staatsangehöriger, der die deutsche Staatsangehörigkeit nach dem 1. Januar 1919 erworben hat, daran gehindert, seinen früheren Familiennamen oder Vornamen zu führen, weil ihm dies vor seiner Einbürgerung durch ein Gesetz oder eine Verwaltungsmaßnahme seines früheren Heimatstaates verboten war, so liegt ein wichtiger Grund zur Änderung im Sinne des § 3 Absatz 1 vor, wenn durch das Gesetz oder die Verwaltungsmaßnahme des früheren Heimatstaates überwiegend Angehörige einer deutschen Minderheit betroffen waren.
+
+(2) Absatz 1 gilt auch für deutsche Staatsangehörige, auf die der frühere Name durch Ableitung übergegangen wäre.
 
 ### § 4
 
@@ -28,7 +34,9 @@ Die Änderung des Familiennamens erstreckt sich, soweit nicht bei der Entscheidu
 
 ### § 5
 
-(1) Der Antrag auf Änderung eines Familiennamens ist schriftlich oder zu Protokoll bei der nach Landesrecht zuständigen Verwaltungsbehörde zu stellen, in deren Bezirk der Antragsteller oder einer seiner Vorfahren seinen Wohnsitz oder beim Fehlen eines Wohnsitzes seinen Aufenthalt hat oder zuletzt hatte. Das Bundesministerium des Innern, für Bau und Heimat entscheidet, welches Land für die Bearbeitung des Antrags zuständig ist, wenn keine örtliche Zuständigkeit nach Satz 1 begründet wird.(2) Beantragen mehrere Angehörige einer Familie dieselbe Namensänderung und sind verschiedene Verwaltungsbehörden zuständig, so kann eine der beteiligten Behörden im Einvernehmen mit den anderen Behörden und mit dem Einverständnis der Antragsteller das Verfahren für alle Antragsteller durchführen.
+(1) Der Antrag auf Änderung eines Familiennamens ist schriftlich oder zu Protokoll bei der nach Landesrecht zuständigen Verwaltungsbehörde zu stellen, in deren Bezirk der Antragsteller oder einer seiner Vorfahren seinen Wohnsitz oder beim Fehlen eines Wohnsitzes seinen Aufenthalt hat oder zuletzt hatte. Das Bundesministerium des Innern, für Bau und Heimat entscheidet, welches Land für die Bearbeitung des Antrags zuständig ist, wenn keine örtliche Zuständigkeit nach Satz 1 begründet wird.
+
+(2) Beantragen mehrere Angehörige einer Familie dieselbe Namensänderung und sind verschiedene Verwaltungsbehörden zuständig, so kann eine der beteiligten Behörden im Einvernehmen mit den anderen Behörden und mit dem Einverständnis der Antragsteller das Verfahren für alle Antragsteller durchführen.
 
 ### § 6 — (weggefallen)
 
@@ -36,7 +44,9 @@ Die Änderung des Familiennamens erstreckt sich, soweit nicht bei der Entscheidu
 
 ### § 8
 
-(1) Ist zweifelhaft, welchen Familiennamen ein Deutscher im Sinne des Grundgesetzes, ein Staatenloser oder heimatloser Ausländer mit gewöhnlichem Aufenthalt im Inland oder ein Asylberechtigter oder ausländischer Flüchtling mit Wohnsitz im Inland zu führen berechtigt ist, kann die nach Landesrecht zuständige Behörde den zu führenden Namen auf Antrag eines Beteiligten oder von Amts wegen mit allgemein verbindlicher Wirkung feststellen. Die Vorschriften der §§ 2, 3 Absatz 2, der §§ 4 und 5 finden entsprechende Anwendung.(2) Ist in einem auf Antrag eines Beteiligten eingeleiteten Verfahren die Entscheidung von der Beurteilung einer familienrechtlichen Vorfrage abhängig, so kann die nach Landesrecht zuständige Behörde das Verfahren auf Antrag oder von Amts wegen aussetzen und den Antragsteller zur Herbeiführung einer Entscheidung über diese Vorfrage auf den Rechtsweg verweisen.
+(1) Ist zweifelhaft, welchen Familiennamen ein Deutscher im Sinne des Grundgesetzes, ein Staatenloser oder heimatloser Ausländer mit gewöhnlichem Aufenthalt im Inland oder ein Asylberechtigter oder ausländischer Flüchtling mit Wohnsitz im Inland zu führen berechtigt ist, kann die nach Landesrecht zuständige Behörde den zu führenden Namen auf Antrag eines Beteiligten oder von Amts wegen mit allgemein verbindlicher Wirkung feststellen. Die Vorschriften der §§ 2, 3 Absatz 2, der §§ 4 und 5 finden entsprechende Anwendung.
+
+(2) Ist in einem auf Antrag eines Beteiligten eingeleiteten Verfahren die Entscheidung von der Beurteilung einer familienrechtlichen Vorfrage abhängig, so kann die nach Landesrecht zuständige Behörde das Verfahren auf Antrag oder von Amts wegen aussetzen und den Antragsteller zur Herbeiführung einer Entscheidung über diese Vorfrage auf den Rechtsweg verweisen.
 
 ### § 9
 

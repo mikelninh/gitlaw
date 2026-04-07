@@ -29,7 +29,15 @@ Für die Beförderung von Kriegswaffen innerhalb des Bundesgebietes wird eine Al
 
 ### § 2
 
-(1) Die Beförderung von Kriegswaffen mit Seeschiffen, die die Bundesflagge führen, wird allgemein genehmigt, soweit a)die Kriegswaffen außerhalb des Bundesgebietes eingeladen, auf dem Seeweg ein- und ausgehend ohne Wechsel des Verfrachters durch das Bundesgebiet durchgeführt werden und b)die Seeschiffe im Bundesgebiet außer zur Abwendung unmittelbarer Gefahr für Besatzung, Schiff oder Ladung nur an Zollandungsplätzen oder in Freihäfen mit anderen Fahrzeugen oder mit dem Land in Verbindung treten und c)die Kriegswaffen in einem der in § 1 genannten Staaten oder in Irland, Island, Kanada oder den Vereinigten Staaten von Amerika ausgeladen werden. (2) Die Beförderung von Kriegswaffen mit Seeschiffen fremder Flagge wird allgemein genehmigt, soweit die Voraussetzungen des Absatzes 1 Buchstaben a und b vorliegen und die Kriegswaffen außerhalb des Bundesgebietes ausgeladen werden.
+(1) Die Beförderung von Kriegswaffen mit Seeschiffen, die die Bundesflagge führen, wird allgemein genehmigt, soweit
+
+a) die Kriegswaffen außerhalb des Bundesgebietes eingeladen, auf dem Seeweg ein- und ausgehend ohne Wechsel des Verfrachters durch das Bundesgebiet durchgeführt werden und
+
+b) die Seeschiffe im Bundesgebiet außer zur Abwendung unmittelbarer Gefahr für Besatzung, Schiff oder Ladung nur an Zollandungsplätzen oder in Freihäfen mit anderen Fahrzeugen oder mit dem Land in Verbindung treten und
+
+c) die Kriegswaffen in einem der in § 1 genannten Staaten oder in Irland, Island, Kanada oder den Vereinigten Staaten von Amerika ausgeladen werden.
+
+(2) Die Beförderung von Kriegswaffen mit Seeschiffen fremder Flagge wird allgemein genehmigt, soweit die Voraussetzungen des Absatzes 1 Buchstaben a und b vorliegen und die Kriegswaffen außerhalb des Bundesgebietes ausgeladen werden.
 
 ### § 3
 

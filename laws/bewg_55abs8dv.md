@@ -12,8 +12,6 @@ Auf Grund des § 55 Abs. 8 und des § 123 Abs. 1 des Bewertungsgesetzes in der F
 
 ### § 1
 
-(1) Die Vergleichswerte der Hauptbewertungsstützpunkte für den forstwirtschaftlichen Nutzungsteil Hochwald werden auf den 1. Januar 1964 in der nachstehenden Höhe festgesetzt:
-
 (2) Die in der Tabelle bezeichneten Bewertungsgebiete ergeben sich aus der Anlage 2 der Verordnung zur Durchführung des § 55 Abs. 3 und 4 des Bewertungsgesetzes vom 27. Juli 1967 (Bundesgesetzbl. I S. 805).
 
 ### § 2

@@ -16,13 +16,13 @@ Auf Grund des § 45 Abs. 1 der Handwerksordnung in der Fassung der Bekanntmachun
 
 Die Meisterprüfung im zulassungspflichtigen Dachdecker-Handwerk umfasst folgende selbständige Prüfungsteile:
 
-1.
+1. die Prüfung der meisterhaften Verrichtung der wesentlichen Tätigkeiten (Teil I),
 
-2.
+2. die Prüfung der erforderlichen fachtheoretischen Kenntnisse (Teil II),
 
-3.
+3. die Prüfung der erforderlichen betriebswirtschaftlichen, kaufmännischen und rechtlichen Kenntnisse (Teil III) und
 
-4.
+4. die Prüfung der erforderlichen berufs- und arbeitspädagogischen Kenntnisse (Teil IV).
 
 ### § 2 — Meisterprüfungsberufsbild
 
@@ -30,49 +30,49 @@ Die Meisterprüfung im zulassungspflichtigen Dachdecker-Handwerk umfasst folgend
 
 (2) Im Dachdecker-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeiten und Kenntnisse als ganzheitliche Qualifikationen zu berücksichtigen:
 
-1.
+1. Kundenwünsche ermitteln, Kunden beraten, Serviceleistungen anbieten, Auftragsverhandlungen führen und Auftragsziele festlegen, Leistungen kalkulieren und Angebote erstellen, Verträge schließen,
 
-2.
+2. Aufgaben der technischen, kaufmännischen und personalwirtschaftlichen Betriebsführung wahrnehmen, insbesondere unter Berücksichtigung der Betriebsorganisation, der betrieblichen Aus- und Weiterbildung, des Qualitätsmanagements, der Haftungsvorschriften des Arbeitsschutzrechtes, des Datenschutzes, des Umweltschutzes, einschließlich der Verwendung lösemittelarmer oder wasserbasierter, lösemittelfreier Produkte, sowie von Informations- und Kommunikationstechniken,
 
-3.
+3. Auftragsabwicklungsprozesse planen, organisieren, durchführen und überwachen,
 
-4.
+4. Aufträge durchführen, insbesondere unter Berücksichtigung von Fertigungs-, Montage- und Abdichtungstechniken, berufsbezogenen rechtlichen Vorschriften, Richtlinien und technischen Normen sowie der allgemein anerkannten Regeln der Technik, Personal, Material und Geräten sowie Einsatzmöglichkeiten von Auszubildenden,
 
-5.
+5. technische Arbeitspläne, Skizzen und Zeichnungen, auch unter Einsatz rechnergestützter Systeme, erstellen,
 
-6.
+6. Logistikkonzepte entwickeln und umsetzen,
 
-7.
+7. Baustelleneinrichtungen, einschließlich des Aufstellens von Arbeits- und Schutzgerüsten unter Berücksichtigung von Verbindungstechniken, planen, koordinieren, organisieren und überwachen sowie Arbeitsabläufe mit den am Bau Beteiligten abstimmen,
 
-8.
+8. Arten und Eigenschaften zu verarbeitender Werkstoffe unterscheiden und bei der Planung, Fertigung und Instandhaltung berücksichtigen,
 
-9.
+9. Materialbedarf und Materialzuschnitt sowie Wärme- und Feuchteschutz, auch rechnergestützt, ermitteln,
 
-10.
+10. Dachstühle unterschiedlicher Konstruktionsart, insbesondere aus Holz sowie aus vorgefertigten Dachstuhlelementen und vorgefertigten Gauben, herstellen und instand setzen; Verfahren für vorbeugenden Holzschutz und Holzschädlingsbekämpfung beherrschen,
 
-11.
+11. Dachdeckungen, Dachabdichtungen und Außenwandbekleidungen mit allen funktionsbedingten Schichten unter Berücksichtigung von Unterkonstruktionen, insbesondere Schalungen und Lattungen, planen, berechnen, ausführen und instand setzen,
 
-12.
+12. Bauwerksabdichtungen beurteilen, planen und ausführen sowie Dachbegrünungen vorbereiten,
 
-13.
+13. Modernisierungsmaßnahmen, auch unter Berücksichtigung energieeinsparender Aspekte, beurteilen, planen und ausführen,
 
-14.
+14. Anschlüsse, Einfassungen, Dichtungen und Dachentwässerungen planen, bemessen, herstellen und instand setzen,
 
-15.
+15. Einbauteile, insbesondere für Belichtung und Belüftung sowie Energiesammler und Energieumsetzer für Dächer und Außenwände sowie Schneefangvorrichtungen, Laufanlagen und Sicherungsvorrichtungen planen, bemessen, einbauen und instand setzen,
 
-16.
+16. äußere Blitzschutzanlagen planen, montieren, prüfen, überwachen und instand setzen,
 
-17.
+17. Fehler-, Mängel- und Schadenssuche durchführen, Fehler, Mängel und Schäden beseitigen, Ergebnisse bewerten und dokumentieren,
 
-18.
+18. Leistungen abnehmen und dokumentieren sowie Nachkalkulation durchführen; Auftragsabwicklung auswerten.
 
 ### § 3 — Gliederung des Teils I
 
 Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
-1.
+1. ein Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch,
 
-2.
+2. eine Situationsaufgabe.
 
 ### § 4 — Meisterprüfungsprojekt
 
@@ -82,15 +82,9 @@ Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
 (3) Als Meisterprüfungsprojekt ist eine der nachfolgenden Aufgaben durchzuführen:
 
-1.
+1. eine Dachdeckung auf vorgegebener Unterkonstruktiona)mit eingebundener Haupt- oder Wangenkehle oder b)als runde oder geschweifte Turmfläche oder c)mit Hauptkehle, Fledermausgaube oder geschweifter Schleppgaube mit eingebundener Haupt- oder Wangenkehle oder als runde oder geschweifte Turmfläche oder mit Hauptkehle, Fledermausgaube oder geschweifter Schleppgaube mit Schiefer, Dachplatten, Dachziegeln oder Reet;
 
-a)
-
-b)
-
-c)
-
-2.
+2. eine Dachabdichtung auf vorgegebener Unterkonstruktion mit allen funktionsbedingten Schichten, insbesondere mit Bitumen-, Kunststoff- oder Elastomerbahnen oder Flüssigabdichtungen. Die Dachabdichtung muss eine Außen- und Innenecke, einen Dachrandabschluss, eine Dachdurchdringung, einen Dacheinlauf, einen Wandanschluss und eine Dehnungsfuge umfassen.
 
 (4) Die Entwurfs-, Planungs- und Kalkulationsunterlagen werden mit 20 vom Hundert, die durchgeführten Arbeiten mit 60 vom Hundert und die Dokumentationsunterlagen mit 20 vom Hundert gewichtet.
 
@@ -102,17 +96,17 @@ Nach Durchführung des Meisterprüfungsprojekts ist hierüber das Fachgespräch 
 
 (1) Die Situationsaufgabe ist auftragsorientiert und vervollständigt den Qualifikationsnachweis für die Meisterprüfung im Dachdecker-Handwerk. Die Aufgabenstellung erfolgt durch den Meisterprüfungsausschuss.
 
-(2) Als Situationsaufgabe sind drei der nachfolgend aufgeführten Arbeiten auszuführen: Davon ist in jedem Fall die Arbeit nach Nummer 5 auszuführen, wenn der Prüfling das Meisterprüfungsprojekt nach § 4 Abs. 3 Nr. 1 und die Arbeit nach Nummer 4, wenn der Prüfling das Meisterprüfungsprojekt nach § 4 Abs. 3 Nr. 2 durchgeführt hat. Die Vorschläge des Prüflings sollen bei der Auswahl der übrigen auszuführenden Arbeiten nach Nummer 1, 2 oder 3 nach Möglichkeit berücksichtigt werden, soweit dies den Vorgaben des Absatzes 1 entspricht.
+(2) Als Situationsaufgabe sind drei der nachfolgend aufgeführten Arbeiten auszuführen:
 
-1.
+1. eine hinterlüftete Außenwandbekleidung mit Unterkonstruktion und Wärmedämmung,
 
-2.
+2. ein Bauteil zur Dachentwässerung,
 
-3.
+3. ein Bauteil eines Dachstuhls,
 
-4.
+4. eine Dachdeckung mit Kehle,
 
-5.
+5. eine Dachabdichtung mit Anschlussdetails.
 
 (3) Die Gesamtbewertung der Situationsaufgabe wird aus dem arithmetischen Mittel der Einzelbewertungen nach Absatz 2 gebildet.
 
@@ -130,65 +124,19 @@ Nach Durchführung des Meisterprüfungsprojekts ist hierüber das Fachgespräch 
 
 (2) Handlungsfelder sind:
 
-1.
+1. Dach-, Wand- und Abdichtungstechnik,
 
-2.
+2. Auftragsabwicklung,
 
-3.
+3. Betriebsführung und Betriebsorganisation.
 
 (3) In jedem Handlungsfeld ist mindestens eine Aufgabe zu bearbeiten, die fallorientiert sein muss:
 
-1.
+1. Dach-, Wand- und Abdichtungstechnik Der Prüfling soll nachweisen, dass er in der Lage ist, Aufgaben der Dach-, Wand- und Abdichtungstechnik unter Berücksichtigung wirtschaftlicher und ökologischer Aspekte in einem Dachdeckerbetrieb zu bearbeiten. Dabei soll er berufsbezogene Sachverhalte analysieren und bewerten. Bei der jeweiligen Aufgabenstellung sollen mehrere der unter Buchstabe a bis f aufgeführten Qualifikationen verknüpft werden:a)Dachstuhlkonstruktionen, Unterkonstruktionen, Deckunterlagen sowie bauphysikalische Funktionsschichten beschreiben, analysieren, berechnen und bewerten,b)Dachdeckungen, insbesondere mit Dachziegeln, Dachsteinen, Schiefer, Dachplatten, Schindeln, Reet und metallischen Werkstoffen beschreiben, berechnen und beurteilen,c)Außenwandbekleidungen als Wanddeckungen und -bekleidungen mit offenen oder hinterlegten Fugen beschreiben, berechnen und einteilen,d)Dachabdichtungen, Bauwerksabdichtungen und Dachbegrünungen mit allen funktionsbedingten Schichten planen und beschreiben sowie Werkstoffe für die Ausführung bestimmen,e)Einbauteile für Dachdeckungen, Abdichtungen und Außenwandbekleidungen beurteilen, auswählen und bemessen sowie Auswahl begründen,f)Dachentwässerungen planen, bemessen und beurteilen; Dachstuhlkonstruktionen, Unterkonstruktionen, Deckunterlagen sowie bauphysikalische Funktionsschichten beschreiben, analysieren, berechnen und bewerten, Dachdeckungen, insbesondere mit Dachziegeln, Dachsteinen, Schiefer, Dachplatten, Schindeln, Reet und metallischen Werkstoffen beschreiben, berechnen und beurteilen, Außenwandbekleidungen als Wanddeckungen und -bekleidungen mit offenen oder hinterlegten Fugen beschreiben, berechnen und einteilen, Dachabdichtungen, Bauwerksabdichtungen und Dachbegrünungen mit allen funktionsbedingten Schichten planen und beschreiben sowie Werkstoffe für die Ausführung bestimmen, Einbauteile für Dachdeckungen, Abdichtungen und Außenwandbekleidungen beurteilen, auswählen und bemessen sowie Auswahl begründen, Dachentwässerungen planen, bemessen und beurteilen;
 
-a)
+2. Auftragsabwicklung Der Prüfling soll nachweisen, dass er in der Lage ist, Auftragsabwicklungsprozesse, auch unter Anwendung branchenüblicher Software, erfolgs-, kunden- und qualitätsorientiert zu planen, deren Durchführung zu kontrollieren und sie abzuschließen. Bei der jeweiligen Aufgabenstellung sollen mehrere der unter Buchstabe a bis i aufgeführten Qualifikationen verknüpft werden:a)Möglichkeiten der Auftragsbeschaffung darstellen,b)Angebotsunterlagen erstellen und Angebote auswerten, Angebotskalkulation durchführen,c)Methoden und Verfahren der Arbeitsplanung und -organisation unter Berücksichtigung der Fertigungs-, Verarbeitungs-, Montage- und Instandsetzungstechnik, des Einsatzes von Material, Geräten und Personal bewerten, dabei qualitätssichernde Aspekte darstellen sowie Schnittstellen zwischen Arbeitsbereichen berücksichtigen,d)berufsbezogene rechtliche Vorschriften und technische Normen sowie anerkannte Regeln der Technik anwenden, insbesondere Haftung bei der Herstellung, der Instandsetzung und bei Dienstleistungen beurteilen,e)technische Arbeitspläne, Skizzen und Zeichnungen erarbeiten, bewerten und korrigieren,f)auftragsbezogenen Einsatz von Material, Werkstoffen, Maschinen und Geräten bestimmen und begründen,g)Unteraufträge vergeben und kontrollieren,h)Mängel- und Schadensaufnahme, insbesondere an Dachdeckungen und Abdichtungen sowie an Wandbekleidungen darstellen, Instandsetzungsalternativen aufzeigen sowie die erforderlichen Maßnahmen bestimmen und begründen,i)Vor- und Nachkalkulation durchführen; Möglichkeiten der Auftragsbeschaffung darstellen, Angebotsunterlagen erstellen und Angebote auswerten, Angebotskalkulation durchführen, Methoden und Verfahren der Arbeitsplanung und -organisation unter Berücksichtigung der Fertigungs-, Verarbeitungs-, Montage- und Instandsetzungstechnik, des Einsatzes von Material, Geräten und Personal bewerten, dabei qualitätssichernde Aspekte darstellen sowie Schnittstellen zwischen Arbeitsbereichen berücksichtigen, berufsbezogene rechtliche Vorschriften und technische Normen sowie anerkannte Regeln der Technik anwenden, insbesondere Haftung bei der Herstellung, der Instandsetzung und bei Dienstleistungen beurteilen, technische Arbeitspläne, Skizzen und Zeichnungen erarbeiten, bewerten und korrigieren, auftragsbezogenen Einsatz von Material, Werkstoffen, Maschinen und Geräten bestimmen und begründen, Unteraufträge vergeben und kontrollieren, Mängel- und Schadensaufnahme, insbesondere an Dachdeckungen und Abdichtungen sowie an Wandbekleidungen darstellen, Instandsetzungsalternativen aufzeigen sowie die erforderlichen Maßnahmen bestimmen und begründen, Vor- und Nachkalkulation durchführen;
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
+3. Betriebsführung und Betriebsorganisation Der Prüfling soll nachweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und Betriebsorganisation unter Berücksichtigung der rechtlichen Vorschriften, auch unter Anwendung von Informations- und Kommunikationssystemen, wahrzunehmen. Bei der jeweiligen Aufgabenstellung sollen mehrere der unter Buchstabe a bis h aufgeführten Qualifikationen verknüpft werden:a)betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen,b)betriebliche Kostenstrukturen überprüfen; betriebliche Kennzahlen ermitteln,c)Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden vor dem Hintergrund technischer und wirtschaftlicher Entwicklungen erarbeiten,d)betriebliches Qualitätsmanagement planen und darstellen,e)Aufgaben der Personalverwaltung wahrnehmen; den Zusammenhang zwischen Personalverwaltung sowie Personalführung und -entwicklung darstellen,f)betriebsspezifische Maßnahmen zur Einhaltung der arbeitsschutzrechtlichen Bestimmungen und des Umweltschutzes entwickeln; Gefahrenpotenziale beurteilen und Maßnahmen zur Gefahrenvermeidung und -beseitigung festlegen,g)Betriebs- und Lagerausstattung sowie logistische Prozesse planen und darstellen,h)Chancen und Risiken betrieblicher Kooperation darstellen und beurteilen. betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen, betriebliche Kostenstrukturen überprüfen; betriebliche Kennzahlen ermitteln, Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden vor dem Hintergrund technischer und wirtschaftlicher Entwicklungen erarbeiten, betriebliches Qualitätsmanagement planen und darstellen, Aufgaben der Personalverwaltung wahrnehmen; den Zusammenhang zwischen Personalverwaltung sowie Personalführung und -entwicklung darstellen, betriebsspezifische Maßnahmen zur Einhaltung der arbeitsschutzrechtlichen Bestimmungen und des Umweltschutzes entwickeln; Gefahrenpotenziale beurteilen und Maßnahmen zur Gefahrenvermeidung und -beseitigung festlegen, Betriebs- und Lagerausstattung sowie logistische Prozesse planen und darstellen, Chancen und Risiken betrieblicher Kooperation darstellen und beurteilen.
 
 (4) Die Prüfung in Teil II ist schriftlich durchzuführen. Sie soll in jedem Handlungsfeld nicht länger als drei Stunden dauern. Eine Prüfungsdauer von sechs Stunden täglich darf nicht überschritten werden.
 
@@ -198,9 +146,9 @@ h)
 
 (7) Mindestvoraussetzung für das Bestehen des Teils II der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung. Die Prüfung des Teils II ist nicht bestanden, wenn
 
-1.
+1. ein Handlungsfeld mit weniger als 30 Punkten bewertet worden ist oder
 
-2.
+2. nach durchgeführter Ergänzungsprüfung zwei Handlungsfelder jeweils mit weniger als 50 Punkten bewertet worden sind.
 
 > (+++ § 8 Abs. 6 u. 7: Zur Anwendung vgl. § 10 +++)
 

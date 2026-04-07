@@ -20,21 +20,9 @@ gesetzlichen Rentenversicherungen
 
 ### § 2
 
-(1) Renten, die nach den §§ 1253ff. der Reichsversicherungsordnung, §§ 30ff. des Angestelltenversicherungsgesetzes oder §§ 53ff. des Reichsknappschaftsgesetzes berechnet sind, sind so anzupassen, daß sich eine Rente ergibt, wie sie sich nach Anwendung von § 1255 Abs. 1 letzter Halbsatz der Reichsversicherungsordnung, § 32 Abs. 1 letzter Halbsatz des Angestelltenversicherungsgesetzes und § 54 Abs. 1 letzter Halbsatz des Reichsknappschaftsgesetzes sowie der Kürzungs- und Ruhensvorschriften ergeben würde, wenn die Rente ohne Änderung der übrigen Berechnungsfaktoren unter Zugrundelegung der allgemeinen Bemessungsgrundlage für das Jahr 1972 und der Beitragsbemessungsgrenze der knappschaftlichen Rentenversicherung für dieses Jahr berechnet werden würde; Abweichungen infolge Abrundungen sind zulässig. Bei Leistungen oder Leistungsanteilen aus der knappschaftlichen Rentenversicherung sind die nach Artikel 2 § 9 Abs. 1a des Knappschaftsrentenversicherungs-Neuregelungsgesetzes für Versicherungsfälle des Jahres 1972 maßgebenden Jahresbeträge zu berücksichtigen. Für Knappschaftsausgleichsleistungen gilt § 98a Abs. 2 Satz 1 des Reichsknappschaftsgesetzes. § 1282 Abs. 2 der Reichsversicherungsordnung, § 59 Abs. 2 des Angestelltenversicherungsgesetzes oder § 79 Abs. 2 des Reichsknappschaftsgesetzes gilt nicht in den Fällen, in denen die §§ 1278, 1279 der Reichsversicherungsordnung, §§ 55, 56 des Angestelltenversicherungsgesetzes oder §§ 75, 76 des Reichsknappschaftsgesetzes angewendet worden sind.
-
-(2) Absatz 1 gilt nicht für Renten, bei denen § 1253 Abs. 2 Satz 5 allein oder in Verbindung mit § 1254 Abs. 2 Satz 2, § 1268 Abs. 2 Satz 2 der Reichsversicherungsordnung, § 30 Abs. 2 Satz 5 allein oder in Verbindung mit § 31 Abs. 2 Satz 2, § 45 Abs. 2 Satz 2 des Angestelltenversicherungsgesetzes, § 53 Abs. 3 Satz 5 allein oder in Verbindung  mit § 53 Abs. 5 Satz 2, § 69 Abs. 2 Satz 2 des Reichsknappschaftsgesetzes, Artikel 2 § 38 Abs. 3 Satz 4 zweiter Halbsatz des Arbeiterrentenversicherungs-Neuregelungsgesetzes oder Artikel 2 § 37 Abs. 3 Satz 4 zweiter Halbsatz des Angestelltenversicherungs-Neuregelungsgesetzes angewendet worden ist.
-
-(3) Absatz 1 gilt entsprechend für Renten der knappschaftlichen Rentenversicherung, die nach Artikel 2 § 24 Abs. 5 des Knappschaftsrentenversicherungs-Neuregelungsgesetzes gezahlt werden.
-
-> § 2 Kursivdruck: § 1282 Abs. 2 RVO aufgeh. durch Art. 2 Nr. 27 G v. 1.12.1981 I 1205, § 59 Abs. 2 AVG aufgeh. durch Art. 3 Nr. 3 G v. 1.12.1981 I 1205 mWv 5.12.1981, § 79 Abs. 2 RKG aufgeh. durch Art. 4 Nr. 5 G v. 1.12.1981 I 1205 § 2 Kursivdruck: §§ 1253 bis 1256, §§ 1267 bis 1286 RVO aufgeh. durch Art. 6 Nr. 24 G v. 18.12.1989 I 2261 mWv 1.1.1992
-
 ### § 3
 
 (1) Renten nach Artikel 2 §§ 32 bis 35 des Arbeiterrentenversicherungs-Neuregelungsgesetzes oder Artikel 2 §§ 31 bis 34 des Angestelltenversicherungs-Neuregelungsgesetzes sind so anzupassen, daß sich eine Rente ergibt, wie sie sich nach Anwendung der Ruhensvorschriften ergeben würde, wenn die Rente erneut umgestellt und dabei vor Anwendung der Ruhensvorschriften der ungekürzte Rentenbetrag ohne Kinderzuschuß für jedes Kind und ohne Steigerungsbeträge aus Beiträgen der Höherversicherung mit 2,805 vervielfältigt und der Kinderzuschuß für jedes Kind nach der allgemeinen Bemessungsgrundlage für das Jahr 1972 berechnet werden würde; Abweichungen infolge Abrundungen sind zulässig. § 2 Abs. 1 Satz 4 dieses Artikels ist anzuwenden.
-
-(2) Artikel 2 § 34 des Arbeiterrentenversicherungs-Neuregelungsgesetzes und Artikel 2 § 33 des Angestelltenversicherungs-Neuregelungsgesetzes sind mit der Maßgabe anzuwenden, daß an Stelle der in diesen Vorschriften genannten Werte die nachstehenden Werte zugrunde zu legen sind:
-
-(3) Die Verordnung über die Anwendung der Ruhensvorschriften der Reichsversicherungsordnung und des Angestelltenversicherungsgesetzes auf umzustellende Renten der Rentenversicherungen der Arbeiter und Angestellten vom 9. Juli 1957 (Bundesgesetzbl. I S. 704) findet mit der Maßgabe Anwendung, daß in § 1 Abs. 3 und § 2 Abs. 4 der Verordnung an die Stelle des Betrages von 7.650 Deutsche Mark der Betrag von 20.413,60 Deutsche Mark, in § 3 Abs. 1 der Verordnung an die Stelle des Betrages von 171,60 Deutsche Mark der Betrag von 481,80 Deutsche Mark, an die Stelle des Betrages von 471,60 Deutsche Mark der Betrag von 1.323,30 Deutsche Mark und in § 3 Abs. 2 der Verordnung an die Stelle des Betrages von 4.281 Deutsche Mark der Betrag von 12.008 Deutsche Mark tritt.
 
 > § 3 Abs. 3 Kursivdruck: Vgl. Änderungen d. V v. 9.7.1957 durch Art. 1 V v. 29.7.1981 I 740; V v. 9.7.1957 I 704 aufgeh. durch Art. 83 Nr. 8 G v. 18.12.1989 I 2261 mWv 1.1.1992
 
@@ -42,11 +30,11 @@ gesetzlichen Rentenversicherungen
 
 (1) Die übrigen Renten sind so anzupassen, daß sich eine Rente ergibt, wie sie sich ergeben würde, wenn der nach § 5 dieses Artikels zu ermittelnde Anpassungsbetrag mit 1,095 und der Leistungszuschlag der knappschaftlichen Rentenversicherung und der nach § 75 Abs. 1 Satz 2 des Reichsknappschaftsgesetzes zu belassende Betrag mit 1,087 vervielfältigt und der Kinderzuschuß für jedes Kind nach der allgemeinen Bemessungsgrundlage des Jahres 1972 berechnet werden würde; Abweichungen infolge Abrundungen sind zulässig. Die Steigerungsbeträge aus Beiträgen der Höherversicherung bleiben unberührt. § 2 Abs. 1 Satz 4 dieses Artikels findet Anwendung.
 
-(2) Renten nach Absatz 1, die mit einer Rente aus der gesetzlichen Unfallversicherung zusammentreffen und auf die die §§ 1278, 1279 der Reichsversicherungsordnung, §§ 55, 56 des Angestelltenversicherungsgesetzes oder §§ 75, 76 des Reichsknappschaftsgesetzes anzuwenden sind, sind so anzupassen, daß sie mindestens den Betrag erreichen, der sich ergibt angepaßt werden würden. Satz 1 gilt entsprechend für Renten nach Absatz 1, auf die § 5 Abs. 1 Satz 3 dieses Artikels anzuwenden ist.
+(2) Renten nach Absatz 1, die mit einer Rente aus der gesetzlichen Unfallversicherung zusammentreffen und auf die die §§ 1278, 1279 der Reichsversicherungsordnung, §§ 55, 56 des Angestelltenversicherungsgesetzes oder §§ 75, 76 des Reichsknappschaftsgesetzes anzuwenden sind, sind so anzupassen, daß sie mindestens den Betrag erreichen, der sich ergibt
 
-a)
+a) bei Renten aus Versicherungsfällen nach dem 31. Dezember 1956 und bei Renten mit Leistungen oder Leistungsanteilen aus der knappschaftlichen Rentenversicherung, wenn sie nach § 2 dieses Artikels,
 
-b)
+b) bei den übrigen Renten aus Versicherungsfällen vor dem 1. Januar 1957, wenn sie nach § 3 dieses Artikels
 
 ### § 5
 
@@ -78,8 +66,6 @@ und des Pflegegeldes aus der gesetzlichen Unfallversicherung
 ### § 9
 
 (1) In der gesetzlichen Unfallversicherung werden aus Anlaß der Veränderung der durchschnittlichen Bruttolohn- und -gehaltssumme zwischen den Kalenderjahren 1970 und 1971 die vom Jahresarbeitsverdienst abhängigen Geldleistungen für Unfälle, die im Jahre 1970 oder früher eingetreten sind, und das Pflegegeld für Bezugszeiten vom 1. Januar 1973 an nach Maßgabe der §§ 10 und 11 dieses Artikels angepaßt.
-
-(2) Absatz 1 gilt nicht, soweit die Geldleistungen in der landwirtschaftlichen Unfallversicherung nach einem durchschnittlichen Jahresarbeitsverdienst berechnet sind, soweit die Geldleistungen auf Grund des § 12 Abs. 2 des Vierzehnten Rentenanpassungsgesetzes gewährt werden.
 
 (3) Als Geldleistung im Sinne des Absatzes 1 gilt auch eine Leistung nach § 27 des Sozialversicherungs-Angleichungsgesetzes Saar vom 15. Juni 1963 (Bundesgesetzbl. I S. 402), die von einem Träger der gesetzlichen Unfallversicherung zu gewähren ist.
 

@@ -13,7 +13,9 @@ Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den Beitritt der B
 
 ### § 1
 
-(1) Die Bestimmungen des Abkommens über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen finden sinngemäß auf die Westeuropäische Union, die nationalen Vertreter, das internationale Personal und die für die Westeuropäische Union tätigen Sachverständigen nach Maßgabe des von der Bundesrepublik Deutschland am 11. Mai 1955 unterzeichneten Übereinkommens über den Status der Westeuropäischen Union, der nationalen Vertreter und des internationalen Personals vom 11. Mai 1955 Anwendung.(2)
+(1) Die Bestimmungen des Abkommens über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen finden sinngemäß auf die Westeuropäische Union, die nationalen Vertreter, das internationale Personal und die für die Westeuropäische Union tätigen Sachverständigen nach Maßgabe des von der Bundesrepublik Deutschland am 11. Mai 1955 unterzeichneten Übereinkommens über den Status der Westeuropäischen Union, der nationalen Vertreter und des internationalen Personals vom 11. Mai 1955 Anwendung.
+
+(2)
 
 ### § 2
 
@@ -21,4 +23,6 @@ Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den Beitritt der B
 
 ### § 3
 
-(1) Diese Verordnung tritt an dem Tage in Kraft, an dem das Übereinkommen über den Status der Westeuropäischen Union, der nationalen Vertreter und des internationalen Personals vom 11. Mai 1955 gemäß seinem Artikel 28 Abs. 2 für die Bundesrepublik Deutschland in Kraft tritt.(2)
+(1) Diese Verordnung tritt an dem Tage in Kraft, an dem das Übereinkommen über den Status der Westeuropäischen Union, der nationalen Vertreter und des internationalen Personals vom 11. Mai 1955 gemäß seinem Artikel 28 Abs. 2 für die Bundesrepublik Deutschland in Kraft tritt.
+
+(2)

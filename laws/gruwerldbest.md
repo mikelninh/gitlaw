@@ -12,7 +12,11 @@ Auf Grund des § 6 des Erlasses über die Stiftung des Grubenwehr-Ehrenzeichens 
 
 ### § 1
 
-(1) Die Vorschläge für die Verleihung des Grubenwehr-Ehrenzeichens sind von den Ministerpräsidenten der Länder, dem Regierenden Bürgermeister der Stadt Berlin, dem Präsidenten des Senats der Freien Hansestadt Bremen und dem Präsidenten des Senats der Freien und Hansestadt Hamburg für den Bereich ihrer Länder in doppelter Ausfertigung nach anliegendem Vordruck alphabetisch geordnet an den Chef des Bundespräsidialamtes einzureichen. Dieser holt die Entscheidung des Bundespräsidenten ein.(2) Die Vorschläge für die Verleihung des Grubenwehr-Ehrenzeichens sind zu begründen.(3) Den Vorschlagslisten sind die vorbereiteten Verleihungsurkunden und Karteikarten beizufügen. Vordrucke werden bei der Bundesdruckerei Bonn vorrätig gehalten.
+(1) Die Vorschläge für die Verleihung des Grubenwehr-Ehrenzeichens sind von den Ministerpräsidenten der Länder, dem Regierenden Bürgermeister der Stadt Berlin, dem Präsidenten des Senats der Freien Hansestadt Bremen und dem Präsidenten des Senats der Freien und Hansestadt Hamburg für den Bereich ihrer Länder in doppelter Ausfertigung nach anliegendem Vordruck alphabetisch geordnet an den Chef des Bundespräsidialamtes einzureichen. Dieser holt die Entscheidung des Bundespräsidenten ein.
+
+(2) Die Vorschläge für die Verleihung des Grubenwehr-Ehrenzeichens sind zu begründen.
+
+(3) Den Vorschlagslisten sind die vorbereiteten Verleihungsurkunden und Karteikarten beizufügen. Vordrucke werden bei der Bundesdruckerei Bonn vorrätig gehalten.
 
 ### § 2
 
@@ -27,5 +31,3 @@ Personen, denen auf Grund der Verordnung vom 30. Januar 1938 (Reichsgesetzbl. I 
 Verlorengegangene Grubenwehr-Ehrenzeichen werden nicht ersetzt. Der Inhaber ist berechtigt, sich auf seine Kosten ein Ersatzstück zu beschaffen.
 
 ### Schlußformel
-
-Der Bundespräsident Der Bundeskanzler Der Bundesminister für Wirtschaft

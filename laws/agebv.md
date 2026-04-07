@@ -16,9 +16,9 @@ Auf Grund des § 22 Absatz 3 des Bundesgebührengesetzes vom 7. August 2013 (BGB
 
 Gegenstand dieser Verordnung sind für individuell zurechenbare öffentliche Leistungen (gebührenfähige Leistungen) im Anwendungsbereich des Bundesgebührengesetzes:
 
-1.
+1. Vorgaben zur Ermittlung der kostendeckenden Gebühr nach § 9 Absatz 1 des Bundesgebührengesetzes einschließlich der Bemessung von Zeitgebühren,
 
-2.
+2. die Festlegung von Gebühren für Beglaubigungen.
 
 ## Abschnitt 2: Ermittlung der kostendeckenden Gebühr
 
@@ -26,9 +26,9 @@ Gegenstand dieser Verordnung sind für individuell zurechenbare öffentliche Lei
 
 (1) Die kostendeckende Gebühr muss diejenigen durchschnittlichen Kosten aller an der Leistungserbringung beteiligten öffentlichen Stellen decken, die
 
-1.
+1. mit der gebührenfähigen Leistung verbunden sind und
 
-2.
+2. nach betriebswirtschaftlichen Grundsätzen ansatzfähig sind.
 
 (2) Die Gebührenberechnung soll dem Handbuch zur Kosten- und Leistungsrechnung in der Bundesverwaltung (GMBl 2013 S. 1235) entsprechen. Die Regelungen der §§ 3 bis 8 gehen vor.
 
@@ -38,19 +38,19 @@ Gegenstand dieser Verordnung sind für individuell zurechenbare öffentliche Lei
 
 (1) Mit der gebührenfähigen Leistung verbunden sind die Kosten für Tätigkeiten und Prozesse, die für die Leistungserbringung notwendig sind und
 
-1.
+1. durch die Leistungserbringung selbst verursacht werden oder
 
-2.
+2. durch Neben- und Zusatzleistungen verursacht werden, die mit der eigentlichen Leistungserbringung in einem ausreichend engen Sachzusammenhang stehen.
 
 (2) Insbesondere folgende Kosten nach Absatz 1 Nummer 2 werden als Gemeinkosten anteilig erfasst:
 
-1.
+1. Kosten für die Leitung,
 
-2.
+2. Kosten für die Bereitstellung und Bereithaltung der allgemeinen Verwaltungsbereiche,
 
-3.
+3. Kosten für die Rechts- und Fachaufsicht sowie
 
-4.
+4. Kosten für sonstige Bereiche, die die Leistungserbringung vorbereiten, nachbereiten oder sonst unterstützen.
 
 ### § 4 — Pauschalierung und Typisierung
 
@@ -60,11 +60,11 @@ Lassen sich die Kosten nach § 3 nicht oder nur mit einem unverhältnismäßig g
 
 (1) Soweit Auslagen in die Ermittlung der Gebühren einzubeziehen sind, können sie eingerechnet werden in:
 
-1.
+1. die allgemeinen pauschalen Stundensätze nach Anlage 1,
 
-2.
+2. die besonderen pauschalen Stundensätze nach Anlage 2 oder
 
-3.
+3. die Kosten, die durch eine Kosten-und-Leistungs-Rechnung ermittelt worden sind.
 
 (2) Haben die einzubeziehenden Auslagen keinen ausreichenden Bezug zur Anzahl der geleisteten Stunden oder fallen sie für die gebührenfähige Leistung nur einmal an, so sind sie zu dem Bestandteil der kostendeckenden Gebühr, der sich aus den Stundensätzen ergibt, hinzuzurechnen.
 
@@ -76,35 +76,35 @@ Lassen sich die Kosten nach § 3 nicht oder nur mit einem unverhältnismäßig g
 
 (2) Folgende Kosten dürfen bei der Gebührenkalkulation nicht berücksichtigt werden:
 
-1.
+1. Kosten, die bereits in Kostenpositionen der zu berechnenden oder einer anderen gebührenfähigen Leistung enthalten sind,
 
-2.
+2. Kosten für eine andere nicht gebührenfähige Leistung,
 
-3.
+3. Kosten in Form von Mindereinnahmen, die durch eine Gebührenbefreiung oder -ermäßigung entstehen,
 
-4.
+4. Kosten in Form von Mindereinnahmen, die durch eine nicht fristgerechte oder nicht erfolgte Zahlung, insbesondere durch eine Stundung oder einen Erlass, entstehen.
 
 ### § 7 — Kalkulatorische Kosten
 
 (1) Als kalkulatorische Kosten sind ausschließlich die folgenden Kosten ansatzfähig:
 
-1.
+1. kalkulatorische Versorgungszuschläge,
 
-2.
+2. kalkulatorische Abschreibungen,
 
-3.
+3. kalkulatorische Zinsen,
 
-4.
+4. kalkulatorische Mieten,
 
-5.
+5. kalkulatorische Wagnisse.
 
-(2) Die Versorgungskosten für Beamtinnen und Beamte sind ausschließlich als kalkulatorischer Versorgungszuschlag anzusetzen. Der Zuschlag ist auf die Durchschnittsbezüge der Beamtinnen und Beamten anzusetzen, und zwar in folgender Höhe: Abweichend von Satz 2 ist der Zuschlag auf die Durchschnittsbezüge der Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten in Höhe von 32,6 Prozent anzusetzen.
+(2) Die Versorgungskosten für Beamtinnen und Beamte sind ausschließlich als kalkulatorischer Versorgungszuschlag anzusetzen. Der Zuschlag ist auf die Durchschnittsbezüge der Beamtinnen und Beamten anzusetzen, und zwar in folgender Höhe:
 
-1.
+1. 27,9 Prozent für den einfachen und den mittleren Dienst,
 
-2.
+2. 29,3 Prozent für den gehobenen Dienst,
 
-3.
+3. 36,9 Prozent für den höheren Dienst.
 
 (3) Der Berechnung der kalkulatorischen Abschreibungen sind die Anschaffungs- und Herstellungskosten oder die Wiederbeschaffungszeitwerte zugrunde zu legen.
 
@@ -124,13 +124,9 @@ Lassen sich die Kosten nach § 3 nicht oder nur mit einem unverhältnismäßig g
 
 (1) Die Festgebühr ist wie folgt zu berechnen:
 
-1.
+1. nach dem Zeitaufwand, der für die Erbringung der gebührenfähigen Leistung durchschnittlich erforderlich ist, auf der Grundlage a)der allgemeinen pauschalen Stundensätze nach Anlage 1 oderb)der besonderen pauschalen Stundensätze nach Anlage 2 oder der allgemeinen pauschalen Stundensätze nach Anlage 1 oder der besonderen pauschalen Stundensätze nach Anlage 2 oder
 
-a)
-
-b)
-
-2.
+2. auf der Grundlage der Kosten, die durch eine Kosten-und-Leistungs-Rechnung ermittelt worden sind.
 
 (2) Die Berechnungsmethoden können miteinander kombiniert werden.
 
@@ -140,11 +136,11 @@ b)
 
 (2) Der Berechnung der Zeitgebühr sind folgende Stundensätze zugrunde zu legen:
 
-1.
+1. die allgemeinen pauschalen Stundensätze nach Anlage 1,
 
-2.
+2. die besonderen pauschalen Stundensätze nach Anlage 2 oder
 
-3.
+3. die Stundensätze, die durch eine Kosten-und-Leistungs-Rechnung ermittelt worden sind.
 
 (3) Die Berechnungsmethoden können miteinander kombiniert werden.
 
@@ -152,15 +148,11 @@ b)
 
 ### § 11 — Rahmengebühr
 
-Die Unter- und die Obergrenze der Rahmengebühr ergeben sich Für die Ermittlung der Stundensätze nach Satz 1 Nummer 1 gilt § 9 entsprechend.
+Die Unter- und die Obergrenze der Rahmengebühr ergeben sich
 
-1.
+1. durch Multiplikation des für die gebührenfähige Leistung ermittelten a)niedrigsten Stundensatzes mit dem niedrigsten Zeitaufwand, der für die Erbringung der gebührenfähigen Leistung durchschnittlich erforderlich ist, undb)höchsten Stundensatzes mit dem höchsten Zeitaufwand, der für die Erbringung der gebührenfähigen Leistung durchschnittlich erforderlich ist, oder niedrigsten Stundensatzes mit dem niedrigsten Zeitaufwand, der für die Erbringung der gebührenfähigen Leistung durchschnittlich erforderlich ist, und höchsten Stundensatzes mit dem höchsten Zeitaufwand, der für die Erbringung der gebührenfähigen Leistung durchschnittlich erforderlich ist, oder
 
-a)
-
-b)
-
-2.
+2. aus den durch eine Kosten-und-Leistungs-Rechnung ermittelten niedrigsten und höchsten Kosten.
 
 ## Abschnitt 3: Einheitliche Gebühren
 
@@ -168,15 +160,11 @@ b)
 
 (1) Die Gebühr beträgt 11,20 Euro je Beglaubigungsvermerk für die Beglaubigung von
 
-1.
+1. durch die beglaubigende Behörde selbst hergestellten a)elektronischen oder nichtelektronischen Kopien,b)Ausdrucken elektronischer Dokumente, elektronischen oder nichtelektronischen Kopien, Ausdrucken elektronischer Dokumente,
 
-a)
+2. elektronischen Dokumenten, die die beglaubigende Behörde zur Abbildung eines Schriftstücks selbst hergestellt hat,
 
-b)
-
-2.
-
-3.
+3. Unterschriften und Handzeichen.
 
 (2) Absatz 1 gilt nicht für die Vertretungen des Bundes im Ausland.
 

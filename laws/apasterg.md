@@ -58,9 +58,9 @@
 
 (2) Als übergehende Beschäftigte im Sinne des Absatzes 1 gelten
 
-1.
+1. die Referenten, die am 16. Juni 2016 zur Abschlussprüferaufsichtskommission abgeordnet und zu diesem Zeitpunkt als Wirtschaftsprüfer für diese tätig waren, und
 
-2.
+2. die Referatsleiter und Referenten, die am 16. Juni 2016 in Abstimmung zwischen der Wirtschaftsprüferkammer und der Abschlussprüferaufsichtskommission und mit Zustimmung des Bundesministeriums für Wirtschaft und Energie dem innerhalb der Abteilung Berufsaufsicht der Wirtschaftsprüferkammer gebildeten Referat „Berufsaufsicht über die Prüfer von Unternehmen von öffentlichem Interesse“ zugewiesen und zu diesem Zeitpunkt als Wirtschaftsprüfer dort tätig waren.
 
 (3) Für die übergegangenen Beschäftigten nach Absatz 2 gelten die bisherigen Arbeitsverträge fort.
 
@@ -72,21 +72,21 @@
 
 (2) Als übergehende Beschäftigte im Sinne des Absatzes 1 gelten
 
-1.
+1. die Referenten und Sekretariatskräfte, die am 16. Juni 2016 zur Abschlussprüferaufsichtskommission abgeordnet und zu diesem Zeitpunkt nicht als Wirtschaftsprüfer für diese tätig waren, und
 
-2.
+2. die Referatsleiter, Referenten, Sachbearbeiter und Sekretariatskräfte, die am 16. Juni 2016 in Abstimmung zwischen der Wirtschaftsprüferkammer und der Abschlussprüferaufsichtskommission und mit Zustimmung des Bundesministeriums für Wirtschaft und Energie dem innerhalb der Abteilung Berufsaufsicht der Wirtschaftsprüferkammer gebildeten Referat „Berufsaufsicht über die Prüfer von Unternehmen von öffentlichem Interesse“ zugewiesen und zu diesem Zeitpunkt nicht als Wirtschaftsprüfer dort tätig waren.
 
 (3) Für die übergegangenen Beschäftigten nach Absatz 2 bestimmt sich ab dem 17. Juni 2016 das Arbeitsverhältnis nach § 2 Absatz 1 sowie den beim Bundesamt für Wirtschaft und Ausfuhrkontrolle geltenden Dienstvereinbarungen in der jeweils geltenden Fassung mit folgenden Maßgaben:
 
-1.
+1. Die Überleitung der Beschäftigten erfolgt zum 17. Juni 2016 in eine Entgeltgruppe des Tarifvertrags für den öffentlichen Dienst vom 13. September 2005 in der für den Bereich des Bundes jeweils geltenden Fassung (Tarifvertrag für den öffentlichen Dienst) nach Maßgabe des § 12 des Tarifvertrags für den öffentlichen Dienst.
 
-2.
+2. Die Zuordnung zu den Stufen der Entgelttabelle des Tarifvertrags für den öffentlichen Dienst erfolgt entsprechend § 16 des Tarifvertrags für den öffentlichen Dienst. Bei der Berechnung tarifrechtlich maßgebender Zeiten nach § 16 des Tarifvertrags für den öffentlichen Dienst werden die bei der Abschlussprüferaufsichtskommission oder Wirtschaftsprüferkammer am 16. Juni 2016 erreichten Zeiten unbeschadet der übrigen Voraussetzungen so berücksichtigt, als wenn sie beim Bund zurückgelegt worden wären. Bei Eingruppierung in eine der Entgeltgruppen 2 bis 8 erfolgt die Stufenzuordnung oberhalb der Stufe 3, sofern die notwendigen Zeiten im Sinne von § 16 Absatz 4 des Tarifvertrags für den öffentlichen Dienst am 16. Juni 2016 erreicht wurden. Restzeiten, die nach der Zuordnung zu einer Stufe verbleiben, werden auf die Stufenlaufzeit zum Erreichen der jeweils nächsten Stufe beim Bund angerechnet.
 
-3.
+3. Die bei der Abschlussprüferaufsichtskommission oder Wirtschaftsprüferkammer am 16. Juni 2016 erreichte Beschäftigungszeit wird als Beschäftigungszeit im Sinne des § 34 Absatz 3 Satz 1 und 2 des Tarifvertrags für den öffentlichen Dienst fortgeführt.
 
-4.
+4. Weichen die tariflichen Regelungen des Tarifvertrags für den öffentlichen Dienst zum Entgelt gegenüber den mit der Wirtschaftsprüferkammer am 16. Juni 2016 geltenden vertraglichen Vereinbarungen zu Ungunsten der übergegangenen Beschäftigten ab, kann diesen mit Zustimmung des Bundesministeriums für Wirtschaft und Energie, die der im Einvernehmen mit dem Bundesministerium der Finanzen zu erteilenden Einwilligung des Bundesministeriums des Innern, für Bau und Heimat bedarf, eine persönliche Zulage gewährt werden. Einzelheiten der Berechnung und der grundsätzlichen Abschmelzung der Zulage werden in einer gesonderten Regelung des Bundesministeriums für Wirtschaft und Energie, die der im Einvernehmen mit dem Bundesministerium der Finanzen zu erteilenden Einwilligung des Bundesministeriums des Innern, für Bau und Heimat bedarf, geregelt.
 
-5.
+5. Für übergegangene Beschäftigte, denen vor dem Übergang zum Bund eine betriebliche Altersversorgung zugesagt worden war und die nach Maßgabe des Tarifvertrags über die betriebliche Altersversorgung der Beschäftigten des öffentlichen Dienstes nicht pflichtversichert werden können, kann der Arbeitgeber die bisherige betriebliche Altersversorgung fortsetzen, soweit die Versicherungsbedingungen dies zulassen.
 
 (4) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle unterrichtet die übergehenden Beschäftigten nach Absatz 2 vor dem Übergang über die rechtlichen, wirtschaftlichen und sozialen Folgen des Übergangs. Die Beschäftigten können dem Übergang ihrer Arbeitsverhältnisse widersprechen. Der Widerspruch kann gegenüber dem bisherigen Arbeitgeber oder dem Bundesamt für Wirtschaft und Ausfuhrkontrolle innerhalb eines Monats nach der Unterrichtung schriftlich erklärt werden.
 

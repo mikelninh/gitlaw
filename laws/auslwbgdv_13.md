@@ -17,13 +17,11 @@ Auf Grund der §§ 64, 65 des Bereinigungsgesetzes für deutsche Auslandsbonds v
 
 (2) Als Bemessungsbetrag gilt der Nennbetrag der ausgestellten Auslandsbonds unter Abzug
 
-a)
+a) der Stücke, die bei Inkrafttreten des Gesetzes nach den Anleihebedingungen bereits getilgt waren;
 
-b)
+b) der Stücke, die nach § 6 des Gesetzes als kraftlos gelten;
 
-c)
-
-(3) Der nach Absatz 2 errechnete Nennbetrag ist vorbehaltlich des Satzes 2 nach folgenden Sätzen in Deutsche Mark umzurechnen: Für Auslandsbonds, die eine auf Goldbasis beruhende oder mit Goldklausel versehene Schuld verbriefen, sind folgende Umrechnungssätze anzuwenden:
+c) der Stücke, die durch Sammelanerkennung (§§ 13, 55 bis 58 des Gesetzes) anerkannt worden sind.
 
 ### § 2 — Anrechnung früherer Leistungen
 

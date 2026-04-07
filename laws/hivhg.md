@@ -25,7 +25,9 @@ Die Mittel für die finanzielle Hilfe werden vom Bund aufgebracht.
 
 ### § 3 — Errichtung und Sitz
 
-(1) Unter dem Namen "Humanitäre Hilfe für durch Blutprodukte HIV-infizierte Personen" wird eine rechtsfähige Stiftung des öffentlichen Rechts errichtet. Die Stiftung gilt als mit dem Inkrafttreten dieses Gesetzes entstanden.(2) Der Sitz der Stiftung ist Bonn.
+(1) Unter dem Namen "Humanitäre Hilfe für durch Blutprodukte HIV-infizierte Personen" wird eine rechtsfähige Stiftung des öffentlichen Rechts errichtet. Die Stiftung gilt als mit dem Inkrafttreten dieses Gesetzes entstanden.
+
+(2) Der Sitz der Stiftung ist Bonn.
 
 ### § 4 — Stiftungszweck
 
@@ -33,7 +35,11 @@ Zweck der Stiftung ist es, die Zwecksetzung nach § 1 durch Auszahlung der Leist
 
 ### § 5 — Stifter, Stiftungsvermögen
 
-(1) Stifter sind der Bund, die pharmazeutischen Unternehmen Bayer AG, Immuno GmbH, Baxter Deutschland GmbH, Behringwerke AG, Armour Pharma GmbH, Alpha Therapeutic GmbH und die Blutspendedienste des Deutschen Roten Kreuzes.(2) Das Stiftungsvermögen beträgt 3 Millionen Deutsche Mark.(3) Die Stiftung ist berechtigt, Zuwendungen von dritter Seite anzunehmen.
+(1) Stifter sind der Bund, die pharmazeutischen Unternehmen Bayer AG, Immuno GmbH, Baxter Deutschland GmbH, Behringwerke AG, Armour Pharma GmbH, Alpha Therapeutic GmbH und die Blutspendedienste des Deutschen Roten Kreuzes.
+
+(2) Das Stiftungsvermögen beträgt 3 Millionen Deutsche Mark.
+
+(3) Die Stiftung ist berechtigt, Zuwendungen von dritter Seite anzunehmen.
 
 ### § 6 — Satzung
 
@@ -45,11 +51,29 @@ Organe der Stiftung sind der Stiftungsrat und der Stiftungsvorstand.
 
 ### § 8 — Stiftungsrat
 
-(1) Der Stiftungsrat besteht aus sieben Mitgliedern. Ein Mitglied wird vom Bundesministerium für Gesundheit benannt. Zwei Mitglieder werden vom Deutschen Bundestag benannt. Zwei Mitglieder benennt das Bundesministerium für Gesundheit auf Vorschlag der in § 5 Absatz 1 genannten pharmazeutischen Unternehmen und der Blutspendedienste des Deutschen Roten Kreuzes. Zwei weitere Mitglieder benennt das Bundesministerium für Gesundheit auf Vorschlag der überörtlichen Hämophilieverbände.(2) Der Stiftungsrat wählt aus seiner Mitte eine Person, die den Vorsitz hat.(3) Die Amtszeit der Mitglieder des Stiftungsrates beträgt fünf Jahre. Scheidet ein Mitglied vorzeitig aus, wird für den Rest seiner Amtszeit eine Nachfolge benannt. Wiederholte Bestellung ist zulässig.(4) Die Mitglieder des Stiftungsrates sind ehrenamtliche tätig; sie haben Anspruch auf Ersatz ihrer notwendigen Auslagen.(5) Der Stiftungsrat gibt sich eine Geschäftsordnung.(6) Beschlüsse faßt der Stiftungsrat mit einfacher Mehrheit; er ist beschlußfähig, wenn die Hälfte der Mitglieder anwesend ist.(7) Der Stiftungsrat beschließt über alle grundsätzlichen Fragen, die zum Aufgabenbereich der Stiftung gehören. Er überwacht die Tätigkeit des Stiftungsvorstandes. Das Nähere regelt die Satzung.
+(1) Der Stiftungsrat besteht aus sieben Mitgliedern. Ein Mitglied wird vom Bundesministerium für Gesundheit benannt. Zwei Mitglieder werden vom Deutschen Bundestag benannt. Zwei Mitglieder benennt das Bundesministerium für Gesundheit auf Vorschlag der in § 5 Absatz 1 genannten pharmazeutischen Unternehmen und der Blutspendedienste des Deutschen Roten Kreuzes. Zwei weitere Mitglieder benennt das Bundesministerium für Gesundheit auf Vorschlag der überörtlichen Hämophilieverbände.
+
+(2) Der Stiftungsrat wählt aus seiner Mitte eine Person, die den Vorsitz hat.
+
+(3) Die Amtszeit der Mitglieder des Stiftungsrates beträgt fünf Jahre. Scheidet ein Mitglied vorzeitig aus, wird für den Rest seiner Amtszeit eine Nachfolge benannt. Wiederholte Bestellung ist zulässig.
+
+(4) Die Mitglieder des Stiftungsrates sind ehrenamtliche tätig; sie haben Anspruch auf Ersatz ihrer notwendigen Auslagen.
+
+(5) Der Stiftungsrat gibt sich eine Geschäftsordnung.
+
+(6) Beschlüsse faßt der Stiftungsrat mit einfacher Mehrheit; er ist beschlußfähig, wenn die Hälfte der Mitglieder anwesend ist.
+
+(7) Der Stiftungsrat beschließt über alle grundsätzlichen Fragen, die zum Aufgabenbereich der Stiftung gehören. Er überwacht die Tätigkeit des Stiftungsvorstandes. Das Nähere regelt die Satzung.
 
 ### § 9 — Stiftungsvorstand
 
-(1) Der Stiftungsvorstand besteht aus dem vorsitzenden Mitglied und höchstens zwei weiteren Mitgliedern. § 8 Abs. 4 gilt entsprechend.(2) Die Mitglieder des Stiftungsvorstandes werden vom Bundesministerium für Gesundheit mit Zustimmung des Stiftungsrates bestellt.(3) Der Stiftungsvorstand führt die Beschlüsse des Stiftungsrates aus und führt die Geschäfte der Stiftung. Er vertritt die Stiftung gerichtlich und außergerichtlich.(4) Das Nähere regelt die Satzung.
+(1) Der Stiftungsvorstand besteht aus dem vorsitzenden Mitglied und höchstens zwei weiteren Mitgliedern. § 8 Abs. 4 gilt entsprechend.
+
+(2) Die Mitglieder des Stiftungsvorstandes werden vom Bundesministerium für Gesundheit mit Zustimmung des Stiftungsrates bestellt.
+
+(3) Der Stiftungsvorstand führt die Beschlüsse des Stiftungsrates aus und führt die Geschäfte der Stiftung. Er vertritt die Stiftung gerichtlich und außergerichtlich.
+
+(4) Das Nähere regelt die Satzung.
 
 ### § 10 — Verwaltungskosten
 
@@ -57,7 +81,13 @@ Die Kosten für die Durchführung der Aufgaben der Stiftung sind aus den Stiftun
 
 ### § 11 — Aufsicht, Haushalt, Rechnungslegung, Rechnungsprüfung
 
-(1) Die Stiftung untersteht der Aufsicht des Bundesministeriums für Gesundheit.(2) Die Stiftung hat rechtzeitig vor Beginn jedes Geschäftsjahres einen Haushaltsplan aufzustellen. Der Haushaltsplan bedarf der Genehmigung des Bundesministeriums für Gesundheit. Das Nähere regelt die Satzung.(3) Die Stiftung ist den Stiftern nach § 5 Absatz 1 rechnungslegungspflichtig. Die Einnahmen- und Ausgabenrechnung sowie die Mitteilung über die Gesamtkosten der Stiftung werden jeweils nach Abschluß des Kalenderjahres, spätestens bis zum 31. März des folgenden Jahres, vorgelegt.(4) Rechnungsprüfungsbehörde ist der Bundesrechnungshof.
+(1) Die Stiftung untersteht der Aufsicht des Bundesministeriums für Gesundheit.
+
+(2) Die Stiftung hat rechtzeitig vor Beginn jedes Geschäftsjahres einen Haushaltsplan aufzustellen. Der Haushaltsplan bedarf der Genehmigung des Bundesministeriums für Gesundheit. Das Nähere regelt die Satzung.
+
+(3) Die Stiftung ist den Stiftern nach § 5 Absatz 1 rechnungslegungspflichtig. Die Einnahmen- und Ausgabenrechnung sowie die Mitteilung über die Gesamtkosten der Stiftung werden jeweils nach Abschluß des Kalenderjahres, spätestens bis zum 31. März des folgenden Jahres, vorgelegt.
+
+(4) Rechnungsprüfungsbehörde ist der Bundesrechnungshof.
 
 ### § 12 — Verschwiegenheitspflicht
 
@@ -75,19 +105,57 @@ Die Stiftung wird aufgehoben, wenn der Stiftungszweck erfüllt ist.
 
 ### § 15 — Anspruchsberechtigte Personen
 
-(1) Einen Anspruch auf Leistungen der Stiftung haben Personen, die in dem Gebiet der heutigen Bundesrepublik Deutschland durch in diesem Gebiet in Verkehr gebrachte Blutprodukte vor dem 1. Januar 1988 unmittelbar 1.mit dem HIV infiziert worden sind oder 2.mit dem HIV infiziert worden und als Folge davon an AIDS erkrankt sind. Eine AIDS-Erkrankung ist anzunehmen, wenn entweder eine CD4-Helferzahl von weniger als 200 oder eine CD4-Helferzahl von regelmäßig weniger als 400, verbunden mit einer opportunistischen Infektion, nachgewiesen wird.(2) Leistungen aus der Stiftung erhalten auch Personen, die als Ehepartner, Verlobte oder Lebenspartner durch Personen nach Absatz 1 infiziert worden sind.(3) Wer bei der Geburt HIV-infiziert worden ist, erhält ebenfalls Leistungen, wenn die Mutter zu dem Personenkreis nach Absatz 1 oder Absatz 2 gehört.(4) Nicht infizierte Kinder und Ehepartner von Personen, die Infizierte oder Erkrankte nach den Absätzen 1 bis 3 sind, sind ebenfalls anspruchsberechtigt. Als Kinder werden auch von der infizierten oder erkrankten Person in ihrem Haushalt aufgenommene Kinder ihres Ehepartners berücksichtigt.(5) Im Falle des Absatzes 1 sind die Voraussetzungen nach Satz 1 durch ärztliche Bescheinigung nachzuweisen, aus der die Ursächlichkeit des verabreichten Blutproduktes für die vorliegende HIV-Infektion oder die dadurch bedingte AIDS-Erkrankung hervorgehen muß. Zum Nachweis der Ursächlichkeit genügt es, daß im Verlauf einer Behandlung ein Blutprodukt verwendet worden ist, das eine HIV-Infektion verursacht haben kann. Antragstellende Personen, die nicht Bluter sind, müssen darüber hinaus durch eine Bescheinigung der mit dem Blutprodukt behandelnden Einrichtung nachweisen, wann diese ihnen das Blutprodukt verabreicht hat. Anfallende Kosten für die Ausstellung der Bescheinigungen werden nicht erstattet.(6) Im Falle des Absatzes 2 ist durch ärztliche Bescheinigung nachzuweisen, daß eine HIV-Infektion oder AIDS-Erkrankung vorliegt und die Infektion mit großer Wahrscheinlichkeit durch den Ehepartner, Verlobten oder Lebenspartner übertragen worden ist. Absatz 5 gilt für den Nachweis der HIV-Infektion des Ehepartners, Verlobten oder Lebenspartners entsprechend. Es ist nachzuweisen, daß die Ehe, das Verlöbnis oder die Lebenspartnerschaft zum Zeitpunkt der Infektion bestanden hat. Die Lebenspartnerschaft ist insbesondere anzunehmen, wenn später die Ehe geschlossen worden ist, gemeinsame Kinder vorhanden sind oder durch Bescheinigung der zuständigen Meldebehörde der gemeinsame Hausstand nachgewiesen wird. In Ausnahmefällen kann der Nachweis nach Satz 2 auch durch eine eidesstattliche Erklärung erfolgen.(7) Im Falle des Absatzes 3 ist durch ärztliche Bescheinigung die HIV-Infektion oder die AIDS-Erkrankung sowie das Kindschaftsverhältnis nachzuweisen. Die Absätze 5 und 6 gelten für den Nachweis der HIV-Infektion der Mutter entsprechend.(8) Im Falle des Absatzes 4 ist das Kindschaftsverhältnis oder die Ehe durch entsprechende Urkunden nachzuweisen. Im übrigen gelten die Absätze 5 bis 7 entsprechend.
+(1) Einen Anspruch auf Leistungen der Stiftung haben Personen, die in dem Gebiet der heutigen Bundesrepublik Deutschland durch in diesem Gebiet in Verkehr gebrachte Blutprodukte vor dem 1. Januar 1988 unmittelbar
+
+1. mit dem HIV infiziert worden sind oder
+
+2. mit dem HIV infiziert worden und als Folge davon an AIDS erkrankt sind.
+
+(2) Leistungen aus der Stiftung erhalten auch Personen, die als Ehepartner, Verlobte oder Lebenspartner durch Personen nach Absatz 1 infiziert worden sind.
+
+(3) Wer bei der Geburt HIV-infiziert worden ist, erhält ebenfalls Leistungen, wenn die Mutter zu dem Personenkreis nach Absatz 1 oder Absatz 2 gehört.
+
+(4) Nicht infizierte Kinder und Ehepartner von Personen, die Infizierte oder Erkrankte nach den Absätzen 1 bis 3 sind, sind ebenfalls anspruchsberechtigt. Als Kinder werden auch von der infizierten oder erkrankten Person in ihrem Haushalt aufgenommene Kinder ihres Ehepartners berücksichtigt.
+
+(5) Im Falle des Absatzes 1 sind die Voraussetzungen nach Satz 1 durch ärztliche Bescheinigung nachzuweisen, aus der die Ursächlichkeit des verabreichten Blutproduktes für die vorliegende HIV-Infektion oder die dadurch bedingte AIDS-Erkrankung hervorgehen muß. Zum Nachweis der Ursächlichkeit genügt es, daß im Verlauf einer Behandlung ein Blutprodukt verwendet worden ist, das eine HIV-Infektion verursacht haben kann. Antragstellende Personen, die nicht Bluter sind, müssen darüber hinaus durch eine Bescheinigung der mit dem Blutprodukt behandelnden Einrichtung nachweisen, wann diese ihnen das Blutprodukt verabreicht hat. Anfallende Kosten für die Ausstellung der Bescheinigungen werden nicht erstattet.
+
+(6) Im Falle des Absatzes 2 ist durch ärztliche Bescheinigung nachzuweisen, daß eine HIV-Infektion oder AIDS-Erkrankung vorliegt und die Infektion mit großer Wahrscheinlichkeit durch den Ehepartner, Verlobten oder Lebenspartner übertragen worden ist. Absatz 5 gilt für den Nachweis der HIV-Infektion des Ehepartners, Verlobten oder Lebenspartners entsprechend. Es ist nachzuweisen, daß die Ehe, das Verlöbnis oder die Lebenspartnerschaft zum Zeitpunkt der Infektion bestanden hat. Die Lebenspartnerschaft ist insbesondere anzunehmen, wenn später die Ehe geschlossen worden ist, gemeinsame Kinder vorhanden sind oder durch Bescheinigung der zuständigen Meldebehörde der gemeinsame Hausstand nachgewiesen wird. In Ausnahmefällen kann der Nachweis nach Satz 2 auch durch eine eidesstattliche Erklärung erfolgen.
+
+(7) Im Falle des Absatzes 3 ist durch ärztliche Bescheinigung die HIV-Infektion oder die AIDS-Erkrankung sowie das Kindschaftsverhältnis nachzuweisen. Die Absätze 5 und 6 gelten für den Nachweis der HIV-Infektion der Mutter entsprechend.
+
+(8) Im Falle des Absatzes 4 ist das Kindschaftsverhältnis oder die Ehe durch entsprechende Urkunden nachzuweisen. Im übrigen gelten die Absätze 5 bis 7 entsprechend.
 
 ### § 16 — Leistungen
 
-(1) HIV-infizierte Personen erhalten eine monatliche Leistung in Höhe von 766,94 Euro, AIDS-erkrankte Personen von 1 533,88 Euro ohne Prüfung der Einkommens- oder sonstigen wirtschaftlichen Verhältnisse.(2) Kinder im Sinne des § 15 Abs. 4 erhalten nach dem Tod der infizierten Person monatlich 511,29 Euro bis zum Abschluß der Berufsausbildung, längstens bis zum Ablauf des 25. Lebensjahres.(3) Ehepartner im Sinne des § 15 Abs. 4 erhalten monatlich 511,29 Euro, wenn die infizierte Person im Zeitpunkt des Inkrafttretens des Gesetzes verstorben ist. Die Zahlungen enden mit Ablauf des fünften Jahres nach Beginn der Zahlungen.(4) Die Zahlung der Leistungen beginnt frühestens mit dem Antragsmonat. Wird der Antrag innerhalb von drei Monaten nach dem Inkrafttreten dieses Gesetzes gestellt, so werden die Leistungen im Falle des Absatzes 1 rückwirkend vom 1. Januar 1994 und im Falle der Absätze 2 und 3 vom Zeitpunkt des Inkrafttretens des Gesetzes an gewährt.(5) Die Zahlung der Leistungen endet unbeschadet der Regelungen in den Absätzen 2 und 3 mit Ablauf des Monats, in dem die anspruchsberechtigte Person stirbt. Verstirbt die antragstellende Person nach Antragseingang, so wird die auf Grund des Antrages bewilligte Leistung ihrem Ehepartner, Verlobten, Lebenspartner, ihren Kindern oder Eltern ausgezahlt, soweit sie erben.(6) Die Leistungen werden zum gleichen Zeitpunkt, zu dem die Renten der gesetzlichen Rentenversicherung angepasst werden, entsprechend dem Prozentsatz angepasst, um den sich der aktuelle Rentenwert in der gesetzlichen Rentenversicherung verändert. Die Anpassung erfolgt ab dem 1. Juli 2019.
+(1) HIV-infizierte Personen erhalten eine monatliche Leistung in Höhe von 766,94 Euro, AIDS-erkrankte Personen von 1 533,88 Euro ohne Prüfung der Einkommens- oder sonstigen wirtschaftlichen Verhältnisse.
+
+(2) Kinder im Sinne des § 15 Abs. 4 erhalten nach dem Tod der infizierten Person monatlich 511,29 Euro bis zum Abschluß der Berufsausbildung, längstens bis zum Ablauf des 25. Lebensjahres.
+
+(3) Ehepartner im Sinne des § 15 Abs. 4 erhalten monatlich 511,29 Euro, wenn die infizierte Person im Zeitpunkt des Inkrafttretens des Gesetzes verstorben ist. Die Zahlungen enden mit Ablauf des fünften Jahres nach Beginn der Zahlungen.
+
+(4) Die Zahlung der Leistungen beginnt frühestens mit dem Antragsmonat. Wird der Antrag innerhalb von drei Monaten nach dem Inkrafttreten dieses Gesetzes gestellt, so werden die Leistungen im Falle des Absatzes 1 rückwirkend vom 1. Januar 1994 und im Falle der Absätze 2 und 3 vom Zeitpunkt des Inkrafttretens des Gesetzes an gewährt.
+
+(5) Die Zahlung der Leistungen endet unbeschadet der Regelungen in den Absätzen 2 und 3 mit Ablauf des Monats, in dem die anspruchsberechtigte Person stirbt. Verstirbt die antragstellende Person nach Antragseingang, so wird die auf Grund des Antrages bewilligte Leistung ihrem Ehepartner, Verlobten, Lebenspartner, ihren Kindern oder Eltern ausgezahlt, soweit sie erben.
+
+(6) Die Leistungen werden zum gleichen Zeitpunkt, zu dem die Renten der gesetzlichen Rentenversicherung angepasst werden, entsprechend dem Prozentsatz angepasst, um den sich der aktuelle Rentenwert in der gesetzlichen Rentenversicherung verändert. Die Anpassung erfolgt ab dem 1. Juli 2019.
 
 ### § 17 — Steuerfreiheit, Anrechnung auf andere Leistungen
 
-(1) Die Leistungen der Stiftung werden nicht auf andere Leistungen aus öffentlichen Mitteln angerechnet und auch nicht bei der gesetzlich vorgesehenen Ermittlung von Einkommen und Vermögen berücksichtigt.(2) Die Ansprüche auf Leistungen der Stiftung können nicht übertragen, verpfändet oder gepfändet werden.
+(1) Die Leistungen der Stiftung werden nicht auf andere Leistungen aus öffentlichen Mitteln angerechnet und auch nicht bei der gesetzlich vorgesehenen Ermittlung von Einkommen und Vermögen berücksichtigt.
+
+(2) Die Ansprüche auf Leistungen der Stiftung können nicht übertragen, verpfändet oder gepfändet werden.
 
 ### § 18 — Verfahren
 
-(1) Der Stiftungsvorstand gewährt auf Antrag Leistungen nach diesem Gesetz durch Bescheid.(2) Sind die Voraussetzungen für die Gewährung der Leistung zweifelhaft, so werden die Antragsunterlagen einer aus drei Mitgliedern bestehenden Kommission, die beim Stiftungsvorstand einzurichten ist, zur Stellungnahme vorgelegt. Der Stiftungsvorstand entscheidet auf der Grundlage der Stellungnahme der Kommission.(3) Das vorsitzende Mitglied der Kommission muß die Befähigung zum Richteramt haben; zusätzlich besteht die Kommission aus zwei Personen mit ärztlicher Approbation. Bei Bedarf können mehrere Kommissionen eingerichtet werden.(4) Die Mitglieder der Kommission werden vom Stiftungsrat bestellt. Die Hämophilieverbände und die Hämophiliebehandlungszentren sind berechtigt, Vorschläge zu unterbreiten.(5) Im übrigen findet das Verwaltungsverfahrensgesetz des Bundes Anwendung.
+(1) Der Stiftungsvorstand gewährt auf Antrag Leistungen nach diesem Gesetz durch Bescheid.
+
+(2) Sind die Voraussetzungen für die Gewährung der Leistung zweifelhaft, so werden die Antragsunterlagen einer aus drei Mitgliedern bestehenden Kommission, die beim Stiftungsvorstand einzurichten ist, zur Stellungnahme vorgelegt. Der Stiftungsvorstand entscheidet auf der Grundlage der Stellungnahme der Kommission.
+
+(3) Das vorsitzende Mitglied der Kommission muß die Befähigung zum Richteramt haben; zusätzlich besteht die Kommission aus zwei Personen mit ärztlicher Approbation. Bei Bedarf können mehrere Kommissionen eingerichtet werden.
+
+(4) Die Mitglieder der Kommission werden vom Stiftungsrat bestellt. Die Hämophilieverbände und die Hämophiliebehandlungszentren sind berechtigt, Vorschläge zu unterbreiten.
+
+(5) Im übrigen findet das Verwaltungsverfahrensgesetz des Bundes Anwendung.
 
 ### § 19 — Rechtsweg
 
@@ -97,7 +165,9 @@ Für Rechtsstreitigkeiten in Anwendung dieses Gesetzes ist der Verwaltungsrechts
 
 ### § 20 — Ausschluß von Ansprüchen
 
-(1) Ansprüche von Personen, die nach Abschnitt 2 Leistungen erhalten, gegen die Bundesrepublik Deutschland, die Blutspendedienste des Deutschen Roten Kreuzes und die in § 5 Absatz 1 genannten pharmazeutischen Unternehmen sowie die mit ihnen verbundenen Unternehmen wegen einer von diesem Gesetz erfaßten HIV-Infektion oder AIDS-Erkrankung erlöschen. Das gilt auch, soweit Ansprüche kraft Gesetzes, kraft Überleitung oder durch Rechtsgeschäft auf andere übertragen worden sind.(2) Absatz 1 gilt nicht für Ansprüche nach dem Sechzehnten Abschnitt des Arzneimittelgesetzes, sofern hierauf nicht bereits abschließende Leistungen erbracht worden sind.
+(1) Ansprüche von Personen, die nach Abschnitt 2 Leistungen erhalten, gegen die Bundesrepublik Deutschland, die Blutspendedienste des Deutschen Roten Kreuzes und die in § 5 Absatz 1 genannten pharmazeutischen Unternehmen sowie die mit ihnen verbundenen Unternehmen wegen einer von diesem Gesetz erfaßten HIV-Infektion oder AIDS-Erkrankung erlöschen. Das gilt auch, soweit Ansprüche kraft Gesetzes, kraft Überleitung oder durch Rechtsgeschäft auf andere übertragen worden sind.
+
+(2) Absatz 1 gilt nicht für Ansprüche nach dem Sechzehnten Abschnitt des Arzneimittelgesetzes, sofern hierauf nicht bereits abschließende Leistungen erbracht worden sind.
 
 ### § 21 — Anhängige Rechtsstreitigkeiten
 

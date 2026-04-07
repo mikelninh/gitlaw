@@ -11,12 +11,12 @@ Auf Grund des § 83 Absatz 1 des Bundesdisziplinargesetzes vom 9. Juli 2001 (BGB
 
 ### I. — Übertragung von Befugnissen
 
-Gemäß § 1 Nummer 7 der Verordnung zur Durchführung des Bundesdisziplinargesetzes bei den bundesunmittelbaren Körperschaften mit Dienstherrnfähigkeit im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales wird beschlossen:Der Vorstand überträgt dem Hauptgeschäftsführer / der Hauptgeschäftsführerin die Befugnisse der obersten Dienstbehörde im Sinne des Bundesdisziplinargesetzes bis einschließlich der Besoldungsgruppe A14, und ab der Besoldungsgruppe A15 soweit ein Verweis, eine Geldbuße oder eine Gehaltskürzung in Betracht kommt. Dies gilt nicht für die Befugnis in disziplinarischen Angelegenheiten des Hauptgeschäftsführers / der Hauptgeschäftsführerin und seiner / ihrer Stellvertretung.
+Gemäß § 1 Nummer 7 der Verordnung zur Durchführung des Bundesdisziplinargesetzes bei den bundesunmittelbaren Körperschaften mit Dienstherrnfähigkeit im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales wird beschlossen:
+
+Der Vorstand überträgt dem Hauptgeschäftsführer / der Hauptgeschäftsführerin die Befugnisse der obersten Dienstbehörde im Sinne des Bundesdisziplinargesetzes bis einschließlich der Besoldungsgruppe A14, und ab der Besoldungsgruppe A15 soweit ein Verweis, eine Geldbuße oder eine Gehaltskürzung in Betracht kommt. Dies gilt nicht für die Befugnis in disziplinarischen Angelegenheiten des Hauptgeschäftsführers / der Hauptgeschäftsführerin und seiner / ihrer Stellvertretung.
 
 ### II. — Inkrafttreten
 
 Die vorstehende Anordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
 
 ### Schlussformel
-
-Verwaltungs-Berufsgenossenschaft (VBG)Der Vorsitzende des Vorstands

@@ -8,80 +8,10 @@
 
 ### (XXXX)
 
-–
+– Von der Abzweigung aus der Havel-Oder-Wasserstraße (km 0,42) bis zur Einmündung in die Spree-Oder-Wasserstraße (km 12,20)
 
-–
+– Westhafen-Verbindungskanal
 
-–
+– Westhafenkanal
 
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
+– Charlottenburger Verbindungskanal (zur Spree)

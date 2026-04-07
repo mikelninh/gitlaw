@@ -28,23 +28,15 @@ Die Vorschriften des § 2 der EBO gelten entsprechend.
 
 (1) Ausnahmen können zulassen
 
-1.
+1. von allen Vorschriften dieser Verordnung zur Berücksichtigung besonderer Verhältnisse im Einzelfalla)für Eisenbahnen des Bundes sowie für Eisenbahnverkehrsunternehmen mit Sitz im Ausland das Bundesministerium für Verkehr und digitale Infrastruktur; die zuständigen Landesbehörden sind zu unterrichten, wenn die Einheit des Eisenbahnwesens berührt wird;b)für die nichtbundeseigenen Eisenbahnen die zuständige Landesbehörde; das Benehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur ist erforderlich, wenn die Einheit des Eisenbahnwesens berührt wird; für Eisenbahnen des Bundes sowie für Eisenbahnverkehrsunternehmen mit Sitz im Ausland das Bundesministerium für Verkehr und digitale Infrastruktur; die zuständigen Landesbehörden sind zu unterrichten, wenn die Einheit des Eisenbahnwesens berührt wird; für die nichtbundeseigenen Eisenbahnen die zuständige Landesbehörde; das Benehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur ist erforderlich, wenn die Einheit des Eisenbahnwesens berührt wird;
 
-a)
-
-b)
-
-2.
-
-a)
-
-b)
+2. im übrigen, soweit Ausnahmen in den Vorschriften dieser Verordnung unter Hinweis auf diesen Absatz ausdrücklich vorgesehen sind,a)für Eisenbahnen des Bundes sowie für Eisenbahnverkehrsunternehmen mit Sitz im Ausland das Eisenbahn-Bundesamtb)für die nichtbundeseigenen Eisenbahnen die zuständige Landesbehörde. für Eisenbahnen des Bundes sowie für Eisenbahnverkehrsunternehmen mit Sitz im Ausland das Eisenbahn-Bundesamt für die nichtbundeseigenen Eisenbahnen die zuständige Landesbehörde.
 
 (2) Genehmigungen, die in den Vorschriften dieser Verordnung unter Hinweis auf diesen Absatz vorgesehen sind, erteilen
 
-1.
+1. für Eisenbahnen des Bundes sowie für Eisenbahnverkehrsunternehmen mit Sitz im Ausland das Eisenbahn-Bundesamt,
 
-2.
+2. für die nichtbundeseigenen Eisenbahnen die zuständige Landesbehörde.
 
 ### § 4 — Begriffserklärungen für Bahnanlagen
 
@@ -66,8 +58,6 @@ b)
 
 (2) Die Richtung durchgehender Hauptgleise darf sich in der Regel nur stetig ändern. Wo erforderlich, sind Übergangsbogen anzulegen.
 
-(3) In den Bogen der durchgehenden Hauptgleise muß in der Regel die äußere Schiene höher liegen als die innere (Überhöhung). Die Überhöhung darf höchstens betragen
-
 (4) Jede Änderung der Überhöhung ist durch eine Rampe zu vermitteln, deren Neigung nicht größer sein darf als 1:300.
 
 ### § 7 — Gleisneigung
@@ -88,11 +78,11 @@ Oberbau und Bauwerke müssen Fahrzeuge mit der jeweils zugelassenen Radsatzlast 
 
 (4) Die Mindestabstände nach den Absätzen 2 und 3 dürfen unterschritten werden durch
 
-1.
+1. die in § 22 Abs. 4 bis 8 und 10 bezeichneten Einrichtungen der Fahrzeuge,
 
-2.
+2. Einrichtungen am Gleis für Zahnradbetrieb, Zugbeeinflussungs-, Zugeinwirkungs- und Rangiereinrichtungen sowie Stromzuführungsteile bei Bahnen mit Stromschienen,
 
-3.
+3. Bahnsteige und Rampen.
 
 (5) In Bogen sind die halben Breitenmaße des sich nach den Absätzen 2 und 3 ergebenden lichten Raumes nach Anlage 2 Nr. 1 zu vergrößern. Auf Strecken, auf denen Fahrzeuge besonderer Bauart (z.B. Gelenkfahrzeuge) verkehren, sind in Gleisbogen und bei Neigungswechseln die Maße des freizuhaltenden lichten Raumes nach den geometrischen Verhältnissen der Fahrzeuge so zu vergrößern, daß die vorgeschriebenen Mindestabstände auch bei ungünstigster Stellung der Fahrzeuge eingehalten werden.
 
@@ -118,39 +108,29 @@ Oberbau und Bauwerke müssen Fahrzeuge mit der jeweils zugelassenen Radsatzlast 
 
 ### § 10 — Gleisabstand
 
-(1) Der Abstand von Gleisen gleicher Spurweite ohne Rollfahrzeugbetrieb muß in der Geraden und in Bogen mit Halbmessern über 5.000 m mindestens betragen Bei Schmalspurgleisen mit verschiedener Spurweite ist die Summe der halben Breiten der jeweiligen Fahrzeugbegrenzungen zugrunde zu legen.
+(1) Der Abstand von Gleisen gleicher Spurweite ohne Rollfahrzeugbetrieb muß in der Geraden und in Bogen mit Halbmessern über 5.000 m mindestens betragen
 
-1.
+1. auf freier Strecke und bei Überladegleisen: Breite der Fahrzeugbegrenzung + 400 mm,
 
-2.
+2. auf Bahnhöfen, ausgenommen Überladegleise,a)bei bestehenden Anlagen:Breite der Fahrzeugbegrenzung + 850 mm, b)bei Neubauten:Breite der Fahrzeugbegrenzung + 1.300 mm, bei bestehenden Anlagen: Breite der Fahrzeugbegrenzung + 850 mm, bei Neubauten: Breite der Fahrzeugbegrenzung + 1.300 mm,
 
-a)
-
-b)
-
-3.
+3. unter den in § 9 Abs. 3 genannten Voraussetzungen und wenn zwischen den Gleisen kein Sicherheitsraum erforderlich ist: Breite der Fahrzeugbegrenzung + 300 mm.
 
 (2) In Bogen sind die Gleisabstände nach Absatz 1 um die Maße zu vergrößern, die sich nach § 9 Abs. 5 und Anlage 2 Nr. 1 ergeben.
-
-(3) Der Abstand von Gleisen mit Rollfahrzeugbetrieb muß in der Geraden und in Bogen mit Halbmessern von 1.500 m und mehr mindestens betragen
 
 (4) In Bogen mit Halbmessern von weniger als 1.500 m sind die Gleisabstände nach Absatz 3 um die Maße zu vergrößern, die sich aus Anlage 3 ergeben.
 
 (5) Der Abstand zwischen einem Regelspurgleis und einem Schmalspurgleis ohne Rollfahrzeugbetrieb soll bei bestehenden Anlagen und muß bei Neubauten mindestens betragen
 
-1.
+1. auf freier Strecke: 2,00 m + halbe Breite der Fahrzeugbegrenzung + 200 mm,
 
-2.
+2. bei Überladegleisen: 1,85 m + halbe Breite der Fahrzeugbegrenzung + 200 mm,
 
-3.
+3. auf Bahnhöfen, ausgenommen Überladegleise: 2,00 m + halbe Breite der Fahrzeugbegrenzung + 900 mm.
 
 (6) In Bogen sind die Gleisabstände nach Absatz 5 um die Summe der Maße zu vergrößern, die sich aus Anlage 2 Nr. 1 und 2 ergeben.
 
-(7) Der Abstand zwischen einem Regelspurgleis und einem Schmalspurgleis mit Rollfahrzeugbetrieb soll bei bestehenden Anlagen und muß bei Neubauten mindestens betragen
-
 (8) In Bogen sind die Gleisabstände nach Absatz 7 um die Summe der Maße zu vergrößern, die sich aus Anlage 2 Nr. 2 und Anlage 3 ergeben.
-
-(9) Die Gleisabstände nach den Absätzen 5 bis 8 dürfen, wenn die Spurweite des Regelspurgleises das Maß von 1.445 mm nicht überschreitet, wie folgt verkleinert werden:
 
 (10) Die Vorschriften der Absätze 1 bis 9 sind bei drei- und vierschienigen Gleisen sowie für den Abstand zwischen Eisenbahngleisen und Straßenbahngleisen sinngemäß anzuwenden.
 
@@ -200,15 +180,15 @@ Die Vorschriften des § 17 der EBO gelten entsprechend.
 
 (4) Die Triebfahrzeuge werden entweder unmittelbar bedient oder direkt oder indirekt gesteuert.
 
-1.
+1. Direkte Steuerung ist die Regelung der Antriebskraft durch eine Steuereinrichtung von einem führenden Fahrzeug aus oder durch Fernsteuerung.
 
-2.
+2. Indirekte Steuerung ist die Regelung der Antriebskraft durch einen Bediener, der seine Weisungen über ein Nachrichtengerät von einem führenden Fahrzeug aus erhält.
 
 (5) Die Wagen werden eingeteilt in Reisezugwagen und Güterwagen.
 
-1.
+1. Als Reisezugwagen gelten Personen-, Gepäck- und Postwagen.
 
-2.
+2. Zu den Güterwagen zählen auch die Güterzuggepäckwagen.
 
 (6) Rollfahrzeuge sind Nebenfahrzeuge, mit denen Regelspurwagen auf Schmalspurbahnen befördert werden; sie werden in Rollböcke und Rollwagen eingeteilt.
 
@@ -252,9 +232,9 @@ Die Vorschriften des § 17 der EBO gelten entsprechend.
 
 (7) Bremsklötze, Sandstreuer und Bahnräumer aller Fahrzeuge und die unabgefederten Teile der Triebfahrzeuge dürfen die Fahrzeugbegrenzung nach unten überschreiten
 
-1.
+1. bei Triebfahrzeugen und Steuerwagen bis auf höchstens 65 mm über Schienenoberkante,
 
-2.
+2. bei Triebfahrzeugen und Wagen, wenn diese Teile auch in Gleisbogen innerhalb des durch die Radreifen bestrichenen Raumes bleiben und bei Wagen außerdem zwischen den Endradsätzen angebracht sind, bis auf höchstens 55 mm über Schienenoberkante.
 
 (8) Bremsteile, die unmittelbar auf die Schiene wirken, wie die Bremsmagnete von Schienenbremsen, dürfen in der Ruhelage das Maß von 55 mm über Schienenoberkante unterschreiten. Sie müssen innerhalb der Endradsätze des Fahrzeugs angebracht sein und auch in Gleisbogen innerhalb des durch die Radreifen bestrichenen Raumes bleiben.
 
@@ -286,8 +266,6 @@ Die Vorschriften des § 17 der EBO gelten entsprechend.
 
 (3) Wie weit die Höhen der Zug- und Stoßeinrichtungen auch bei unterschiedlicher Belastung und unterschiedlichem Verschleißzustand der zu kuppelnden Fahrzeuge voneinander abweichen dürfen, richtet sich bei einfachen Puffern nach der Größe des Puffertellers und bei Mittelpufferkupplungen nach deren Greifbereich.
 
-(4) Pufferscheiben müssen so bemessen sein, daß die Puffer beim Durchfahren von Gleisbogen mit Halbmessern von 50 m beim Grundmaß der Spurweite von 1.000 mm, 40 m beim Grundmaß der Spurweite von   750 mm nicht hintereinandergreifen können.
-
 ### § 25 — Freie Räume und vorstehende Teile an den
 Stirnseiten der Fahrzeuge
 
@@ -309,17 +287,17 @@ Stirnseiten der Fahrzeuge
 
 Triebfahrzeuge und andere führende Fahrzeuge müssen folgende Ausrüstung haben:
 
-1.
+1. Einrichtungen zum Geben hörbarer Signale,
 
-2.
+2. Bahnräumer,
 
-3.
+3. Geschwindigkeitsanzeiger,
 
-3a.
+3a. Zugbeeinflussung oder technische Einrichtung, durch die ein Zug selbsttätig zum Halten gebracht werden kann, wenn die Fahrzeuge auf Strecken mit Zugbeeinflussung oder technischen Einrichtungen verkehren, auf denen eine solche Ausrüstung nach § 15 vorgeschrieben worden ist,
 
-4.
+4. Sicherheitsfahrschaltung, die im Geschwindigkeitsbereich von 20 km/h und mehr anspricht und den Zug oder das einzeln fahrende Triebfahrzeug bei Dienstunfähigkeit des Triebfahrzeugführers selbsttätig anhält. Die Ausrüstung ist nur erforderlich, wenn das Fahrzeug in Zügen einmännig besetzt werden soll. Kleinlokomotiven brauchen nicht mit Sicherheitsfahrschaltung ausgerüstet zu sein,
 
-5.
+5. Funkenfänger und verschließbare Aschkasten, wenn feste oder flüssige Brennstoffe verfeuert werden.
 
 ### § 29 — Ausrüstung der Wagen
 
@@ -389,15 +367,11 @@ Die Vorschriften des § 33 der EBO gelten entsprechend.
 
 (3) Die Bremstafeln oder Bremswegberechnungen werden genehmigt
 
-1.
+1. für Eisenbahnen des Bundes vom Bundesministerium für Verkehr und digitale Infrastruktur,
 
-2.
+2. für die nicht bundeseigenen Eisenbahnen von der zuständigen Landesbehörde.
 
 (4) Als größter Bremsweg ist 700 m zulässig.
-
-(5) Über das Bremsen auf Strecken mit einer maßgebenden Neigung von mehr als 40v.T. sind von den in Absatz 3 genannten Behörden besondere Vorschriften zu erlassen. Die maßgebende Neigung einer Strecke ist die Neigung der Verbindungslinie der beiden 2 000 m voneinander entfernten Punkte des Streckenabschnitts mit dem größten Höhenunterschied.
-
-(6) Das letzte oder vorletzte Fahrzeug eines Zuges muß eine wirkende Bremse haben. Hat das letzte Fahrzeug keine wirkende Bremse, so soll es nicht mit Reisenden besetzt sein. Bei Rollfahrzeugbetrieb dürfen auf Strecken mit einer geringeren maßgebenden Neigung als 10v.T. hinter der letzten wirkenden Bremse bis zu acht Rollfahrzeugradsätzen mit höchstens 60 t Gesamtgewicht laufen.
 
 (7) Bevor ein mit durchgehender Bremse fahrender Zug den Anfangsbahnhof verläßt, ist eine Bremsprobe vorzunehmen. Die Bremsprobe ist zu wiederholen, so oft der Führerstand gewechselt oder der Zug ergänzt oder getrennt wird, es sei denn, daß Fahrzeuge nur am Schluß abgehängt werden. Für Züge, die während mehrerer Fahrten unverändert bleiben, sind Ausnahmen zulässig (§ 3 Abs. 1 Nr. 2).
 
@@ -406,8 +380,6 @@ Die Vorschriften des § 33 der EBO gelten entsprechend.
 (1) Die Radsatzlast und das Fahrzeuggewicht je Längeneinheit der Fahrzeuge dürfen nicht größer sein, als es für die zu befahrende Bahnstrecke zugelassen ist.
 
 (2) Schemelwagen, die durch Steifkupplung oder durch die Ladung selbst verbunden sind, müssen in den hinteren Teil des Zuges eingestellt werden. Wagenpaare, über die dieselbe Ladung reicht, und Wagen mit ungewöhnlicher Kupplung dürfen nicht unmittelbar vor oder hinter Wagen laufen, die mit Reisenden besetzt sind. Züge mit einer Geschwindigkeit bis zu 60 km/h sind von diesen Vorschriften ausgenommen.
-
-(3) Wagen, die nach der Gefahrgutverordnung Eisenbahn in der Fassung der Bekanntmachung vom 22. Juni 1983 (BGBl. I S. 827) mit dem Gefahrzettel für explosionsgefährliche Stoffe und mit einem Zettel mit rotem Ring auf weißem Grund gekennzeichnet sind, sind unter Anwendung besonderer Vorsichtsmaßnahmen in Züge einzustellen und zu befördern. Solche Maßnahmen sind auch bei anderen Wagen notwendig, wenn ihre Beförderung auf Rollfahrzeugen besondere Vorsicht erfordert.
 
 (4) Beladene Rollböcke sind mit anderen Schmalspurfahrzeugen durch Zwischenwagen (Übergangswagen) oder Kuppelstangen zu kuppeln; unter sich sind sie über die verladenen Regelspurfahrzeuge oder durch Kuppelstangen zu verbinden.
 
@@ -427,31 +399,31 @@ Die Vorschriften des § 39 der EBO gelten entsprechend.
 
 ### § 40 — Fahrgeschwindigkeit
 
-(1) Die Geschwindigkeit, mit der ein Zug höchstens fahren darf (zulässige Geschwindigkeit), ist abhängig von und von den Vorschriften der folgenden Absätze.
+(1) Die Geschwindigkeit, mit der ein Zug höchstens fahren darf (zulässige Geschwindigkeit), ist abhängig von
 
-1.
+1. der Bauart der einzelnen Fahrzeuge,
 
-2.
+2. der Art und Länge der Züge (§ 34),
 
-3.
+3. den Bremsverhältnissen (§ 35),
 
-4.
+4. den Streckenverhältnissen,
 
-5.
+5. den betrieblichen Verhältnissen
 
 (2) Die zulässige Geschwindigkeit beträgt
 
-1.
+1. für durchgehend gebremste Züge: 80 km/h auf Strecken mit dem Grundmaß der Spurweite von 1.000 mm, 60 km/h auf Strecken mit dem Grundmaß der Spurweite von 750 mm;
 
-2.
+2. für Züge ohne durchgehende Bremse: 50 km/h;
 
-3.
+3. für Züge mit Rollfahrzeugen: 30 km/h auf Strecken mit dem Grundmaß der Spurweite von 1.000 mm, 20 km/h auf Strecken mit dem Grundmaß der Spurweite von 750 mm.
 
 (3) Die zulässige Geschwindigkeit beträgt bei Zügen nach Absatz 2 Nr. 1 nur 50 km/h, wenn
 
-1.
+1. führende Triebfahrzeuge sowie Steuerwagen ausnahmsweise vom hinteren Führerstand aus bedient werden müssen und der vordere Führerstand mit einem Betriebsbeamten besetzt ist, der den Zug zum Halten bringen kann;
 
-2.
+2. bei einmännig besetzten führenden Fahrzeugen die Sicherheitsfahrschaltung gestört ist.
 
 (4) Geschobene Züge dürfen höchstens 30 km/h fahren, über Bahnübergänge ohne technische Sicherung (vgl. § 11 Abs. 3 EBO) höchstens 20 km/h.
 
@@ -459,11 +431,9 @@ Die Vorschriften des § 39 der EBO gelten entsprechend.
 
 (6) Hilfszüge dürfen auch bei Dienstruhe verkehren, wenn ihre Geschwindigkeit höchstens 50 km/h beträgt. Bahnübergänge mit offenen Schranken sowie mit fernüberwachten Blinklicht- oder Lichtzeichenanlagen dürfen dabei ohne Sicherung durch Posten höchstens mit 10 km/h befahren werden.
 
-(7) In Gleisbogen darf die Geschwindigkeit von Zügen ohne Rollfahrzeuge betragen                      R          1,5                     R           1,5
+(7) In Gleisbogen darf die Geschwindigkeit von Zügen ohne Rollfahrzeuge betragen
 
-1.
-
-2.
+1. bei dem Grundmaß der Spurweite von 1.000 mm:
 
 (8) In Gleisbogen mit Halbmessern unter 100 m darf die Geschwindigkeit von Zügen mit Rollfahrzeugen höchstens 20 km/h betragen.
 
@@ -501,21 +471,21 @@ Die Vorschriften des § 44 der EBO gelten entsprechend.
 
 (3) Sofern in den nachstehenden Absätzen nichts anderes bestimmt ist, sind außerdem zu besetzen
 
-1.
+1. Dampflokomotiven mit einem Heizer,
 
-2.
+2. andere führende Fahrzeuge mit einem Beimann, wenn sie keine Sicherheitsfahrschaltung haben.
 
 (4) Der Dienst des Beimanns darf von einem Zugbegleiter wahrgenommen werden, der in der Lage sein muß, einen Zug zum Halten zu bringen.
 
 (5) Von der Besetzung mit einem Heizer oder Beimann darf auch bei fehlender Sicherheitsfahrschaltung abgesehen werden
 
-1.
+1. bei Kleinlokomotiven, die einzeln fahren oder Züge mit einer Geschwindigkeit bis zu 50 km/h befördern,
 
-2.
+2. bei Triebfahrzeugen mit selbsttätiger Feuerung oder ohne Feuerung, wenn sie Rangierarbeiten ausführen,
 
-3.
+3. bei handgefeuerten Dampflokomotiven, wenn sie Rangierarbeiten ausführen,
 
-4.
+4. wenn in Ausnahmefällen der Heizer oder Beimann das Fahrzeug aus zwingenden Gründen verlassen muß.
 
 (6)
 
@@ -523,27 +493,27 @@ Die Vorschriften des § 44 der EBO gelten entsprechend.
 
 (1) Die Züge sind mit mindestens einem Zugbegleiter zu besetzen, soweit in den Absätzen 2 und 3 nichts anderes zugelassen ist.
 
-(2) Bei zweimänniger Besetzung des führenden Fahrzeugs oder bei zwei einmännig besetzten Triebfahrzeugen dürfen ohne Zugbegleiter verkehren Die Züge müssen gezogen oder von der Spitze aus gesteuert werden, und alle Fahrzeuge müssen an die durchgehende Bremse angeschlossen sein. Bei indirekt gesteuerten Wendezügen darf der zweite Mann das nicht führende Triebfahrzeug bedienen.
+(2) Bei zweimänniger Besetzung des führenden Fahrzeugs oder bei zwei einmännig besetzten Triebfahrzeugen dürfen ohne Zugbegleiter verkehren
 
-1.
+1. einzeln oder zu zweit fahrende Lokomotiven,
 
-2.
+2. Dienstzüge,
 
-3.
+3. Reisezüge bis zu 100 m Gesamtlänge,
 
-4.
+4. Güterzüge,
 
-5.
+5. Leerreisezüge.
 
 (3) Bei einmänniger Besetzung des führenden Fahrzeugs dürfen ohne Zugbegleiter verkehren
 
-1.
+1. Reisezüge bis zu 100 m Gesamtlänge mit Sicherheitsfahrschaltung, wenn das Schließen der Wagentüren vom Triebfahrzeugführer überwacht wird oder wenn sie vom führenden Fahrzeug aus geschlossen werden,
 
-2.
+2. Güter- und Leerreisezüge mit Sicherheitsfahrschaltung,
 
-3.
+3. einzeln fahrende Kleinlokomotiven und einzeln fahrende Nebenfahrzeuge, die wie Züge behandelt werden, bis zu einer Geschwindigkeit von 50 km/h,
 
-4.
+4. andere einzeln fahrende Triebfahrzeuge mit Sicherheitsfahrschaltung.
 
 (4) Im Falle des Absatzes 3 Nr. 3 dürfen bis zu fünf Wagen, im Falle der Nummer 4 aber bis zu 10 Fahrzeuge angehängt werden. Sie sind an die durchgehende Bremse anzuschließen und sollen nicht mit Reisenden besetzt sein.
 
@@ -557,25 +527,25 @@ Die Vorschriften der §§ 62 bis 64a der EBO gelten entsprechend.
 
 ### § 49 — Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 28 des Allgemeinen Eisenbahngesetzes handelt, wer entgegen den Vorschriften des § 48 vorsätzlich 1.
+(1) Ordnungswidrig im Sinne des § 28 des Allgemeinen Eisenbahngesetzes handelt, wer entgegen den Vorschriften des § 48 vorsätzlich
 
-2.
+2. an einer nicht dazu bestimmten Seite eines Fahrzeugs oder an einer nicht dazu bestimmten Stelle einsteigt oder aussteigt,
 
-3.
+3. einsteigt oder aussteigt, ein Trittbrett betritt oder sich ohne ausdrückliche Gestattung auf einer Plattform aufhält, solange sich das Fahrzeug bewegt, oder
 
-4.
+4. eine Bahnanlage, eine Betriebseinrichtung oder ein Fahrzeug verunreinigt.
 
 (2) Ordnungswidrig im Sinne des § 28 des Allgemeinen Eisenbahngesetzes handelt auch, wer entgegen den Vorschriften des § 48 vorsätzlich oder fahrlässig
 
-1.
+1. ohne amtliche Befugnis eine Bahnanlage oder ein Fahrzeug insoweit betritt oder benutzt, als sie nicht dem allgemeinen Verkehrsgebrauch dient oder als kein besonderes Nutzungsverhältnis dazu berechtigt,
 
-2.
+2. sich innerhalb der Gleise aufhält, ohne daß dies zur Erfüllung amtlicher Aufgaben erforderlich oder im Rahmen eines Nutzungsverhältnisses zugelassen ist,
 
-3.
+3. eine Außentür öffnet, solange sich das Fahrzeug bewegt,
 
-4.
+4. eine Sache aus dem Wagen wirft, die geeignet ist, einen anderen zu verletzen oder eine Sache zu beschädigen, oder
 
-5.
+5. eine Schranke oder eine sonstige Sicherungseinrichtung unerlaubt öffnet, ein Fahrthindernis bereitet oder eine andere betriebsstörende oder betriebsgefährdende Handlung vornimmt.
 
 (3) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach den Absätzen 1 und 2 wird im Bereich der Eisenbahnen des Bundes auf die in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde übertragen.
 
@@ -591,36 +561,16 @@ Die Vorschriften der §§ 62 bis 64a der EBO gelten entsprechend.
 
 ### Schlußformel
 
-Der Bundesminister für Verkehr
-
 ### Anlage 1 — Bild 1, 2 und 3
-
-(Inhalt: nicht darstellbare Abbildungen,
 
 ### Anlage 2 — (zu den §§ 9 und 10)
 
-Fundstelle des Originaltextes: BGBl. I 1972, 282
-
 ### Anlage 3 — (zu den §§ 9 und 10)
 
-(Fundstelle: BGBl. I 1972, 283 - 284)
-
-1.
-
-2.
-
-3.
-
-4.
+1. Wenn regelspurige Güterwagen unbeschränkt befördert werden
 
 ### Anlage 4 — (zu § 21)
 
-(Inhalt: nicht darstellbare Abbildung,
-
 ### Anlage 5 — (zu § 21)
 
-(Inhalt: nicht darstellbare Abbildungen,
-
 ### Anlage 6 — (zu § 25)
-
-(Inhalt: nicht darstellbare Abbildungen,

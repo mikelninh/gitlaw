@@ -22,41 +22,37 @@ Ziel dieses Gesetzes ist, die Auswirkungen der Einwegkunststoffprodukte nach Anl
 
 Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 
-1.
+1. Einwegkunststoffprodukt: ein ganz oder teilweise aus Kunststoff bestehendes Produkt, das nicht konzipiert, entwickelt und in Verkehr gebracht wird, um während seiner Lebensdauer mehrere Produktkreisläufe zu durchlaufen, indem es zur Wiederbefüllung an einen Hersteller oder Vertreiber zurückgegeben wird oder zu demselben Zweck wiederverwendet wird, zu dem es hergestellt worden ist;
 
-2.
+2. Kunststoff: ein Werkstoff bestehend aus einem Polymer nach Artikel 3 Nummer 5 der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission (ABl. L 396 vom 30.12.2006, S. 1), die zuletzt durch die Verordnung (EU) 2020/507 (ABl. L 110 vom 8.4.2020, S. 1) geändert worden ist, in der jeweils geltenden Fassung, dem möglicherweise Zusatzstoffe oder andere Stoffe zugesetzt wurden und der als Hauptstrukturbestandteil von Endprodukten fungieren kann; ausgenommen sind Werkstoffe aus natürlichen Polymeren, die nicht chemisch modifiziert wurden;
 
-3.
+3. Hersteller: jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die a)im Geltungsbereich dieses Gesetzes niedergelassen ist und als Produzent, Befüller, Verkäufer oder Importeur unabhängig von der Verkaufsmethode, einschließlich von Fernabsatzverträgen im Sinne des § 312c des Bürgerlichen Gesetzbuchs, gewerbsmäßig Einwegkunststoffprodukte nach Anlage 1 im Geltungsbereich dieses Gesetzes erstmals auf dem Markt bereitstellt oderb)nicht im Geltungsbereich dieses Gesetzes niedergelassen ist und gewerbsmäßig Einwegkunststoffprodukte nach Anlage 1 mittels Fernkommunikationsmitteln im Sinne von § 312c Absatz 2 des Bürgerlichen Gesetzbuchs im Geltungsbereich dieses Gesetzes unmittelbar an private Haushalte oder andere Nutzer verkauft; im Geltungsbereich dieses Gesetzes niedergelassen ist und als Produzent, Befüller, Verkäufer oder Importeur unabhängig von der Verkaufsmethode, einschließlich von Fernabsatzverträgen im Sinne des § 312c des Bürgerlichen Gesetzbuchs, gewerbsmäßig Einwegkunststoffprodukte nach Anlage 1 im Geltungsbereich dieses Gesetzes erstmals auf dem Markt bereitstellt oder nicht im Geltungsbereich dieses Gesetzes niedergelassen ist und gewerbsmäßig Einwegkunststoffprodukte nach Anlage 1 mittels Fernkommunikationsmitteln im Sinne von § 312c Absatz 2 des Bürgerlichen Gesetzbuchs im Geltungsbereich dieses Gesetzes unmittelbar an private Haushalte oder andere Nutzer verkauft;
 
-a)
+4. Bereitstellung auf dem Markt: jede entgeltliche oder unentgeltliche Abgabe eines Produkts zum Vertrieb, zum Verbrauch oder zur Verwendung auf dem Markt im Geltungsbereich dieses Gesetzes im Rahmen einer Geschäftstätigkeit;
 
-b)
+5. elektronischer Marktplatz: eine Internetseite oder jedes andere Instrument, mit dessen Hilfe Informationen über das Internet zur Verfügung gestellt werden, die oder das es Herstellern oder Dritten, die nicht Betreiber des Marktplatzes sind, ermöglicht, Einwegkunststoffprodukte nach Anlage 1 in eigenem Namen im Geltungsbereich dieses Gesetzes anzubieten oder bereitzustellen;
 
-4.
+6. Betreiber eines elektronischen Marktplatzes: jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die einen elektronischen Marktplatz unterhält und es Dritten ermöglicht, auf diesem Marktplatz Einwegkunststoffprodukte nach Anlage 1 im Geltungsbereich dieses Gesetzes anzubieten oder bereitzustellen;
 
-5.
+7. Anbieten: das im Rahmen einer gewerbsmäßigen Tätigkeit auf den Abschluss eines Kaufvertrages gerichtete Präsentieren oder öffentliche Zugänglichmachen von Einwegkunststoffprodukten nach Anlage 1 im Geltungsbereich dieses Gesetzes; das Anbieten umfasst auch die Aufforderung, ein Angebot abzugeben;
 
-6.
+8. Fulfilment-Dienstleister: jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die im Rahmen einer Geschäftstätigkeit mindestens zwei der folgenden Dienstleistungen im Geltungsbereich dieses Gesetzes anbietet: Lagerhaltung, Verpackung, Adressierung oder Versand von Einwegkunststoffprodukten nach Anlage 1, an denen sie kein Eigentumsrecht hat; Post-, Paketzustell- oder sonstige Frachtverkehrsdienstleister gelten nicht als Fulfilment-Dienstleister;
 
-7.
+9. Bevollmächtigter: jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die im Geltungsbereich dieses Gesetzes niedergelassen ist und die ein Hersteller, der nicht im Geltungsbereich dieses Gesetzes niedergelassen ist, beauftragt hat, in eigenem Namen Aufgaben wahrzunehmen, um bestimmte Herstellerpflichten nach diesem Gesetz zu erfüllen;
 
-8.
+10. Zentrale Stelle: die nach § 24 Absatz 1 des Verpackungsgesetzes vom 5. Juli 2017 (BGBl. I S. 2234), das zuletzt durch Artikel 2 des Gesetzes vom 22. September 2021 (BGBl. I S. 4363) geändert worden ist, in der jeweils geltenden Fassung, eingerichtete Stiftung „Zentrale Stelle Verpackungsregister“;
 
-9.
+11. öffentliches Sammelsystem: öffentlich ist ein Sammelsystem, das an allgemein zugänglichen Orten errichtet ist und von oder im Auftrag von einem öffentlich-rechtlichen Entsorgungsträger oder einer juristischen Person des öffentlichen Rechts betrieben wird;
 
-10.
+12. Sammlungskosten: die Kosten der Sammlung von den aus den Einwegkunststoffprodukten nach Anlage 1 entstandenen Abfällen in öffentlichen Sammelsystemen; zu den Sammlungskosten gehören die Kosten der Infrastruktur, wie Sammelbehälter, und ihres Betriebs sowie die Kosten der Beförderung und Entsorgung der Abfälle; zu den Sammlungskosten gehören auch die Kosten für die Errichtung spezifischer Infrastrukturen für die Sammlung von Abfällen aus Tabakprodukten mit kunststoffhaltigen Filtern sowie von Filtern, die zur Verwendung in Kombination mit Tabakprodukten vertrieben werden, an allgemein zugänglichen Orten mit starker Vermüllung;
 
-11.
+13. Reinigungskosten: im jeweiligen Umfang die Kosten von Reinigungsaktionen, die von oder im Auftrag von öffentlich-rechtlichen Entsorgungsträgern oder juristischen Personen des öffentlichen Rechts durchgeführt werden und die dazu dienen, die Umwelt von den aus den Einwegkunststoffprodukten nach Anlage 1 entstandenen Abfällen zu säubern; zu den Reinigungskosten gehören auch die Kosten für die Beförderung und Entsorgung der Abfälle;
 
-12.
+14. Sensibilisierungskosten: im jeweiligen Umfang die Kosten für Sensibilisierungsmaßnahmen, die von oder im Auftrag von öffentlich-rechtlichen Entsorgungsträgern im Rahmen der Abfallberatung nach § 46 Absatz 2 und 3 Nummer 2 und 3 des Kreislaufwirtschaftsgesetzes durchgeführt werden und die Einwegkunststoffprodukte nach Anlage 1 oder aus diesen entstehende Abfälle betreffen;
 
-13.
+15. Datenerhebungs- und -übermittlungskosten: die Kosten für die Erhebung und Übermittlung von Daten über die Sammlung und Entsorgung der aus den Einwegkunststoffprodukten nach Anlage 1 entstehenden Abfälle;
 
-14.
-
-15.
-
-16.
+16. Verwaltungskosten: die Kosten, die dem Umweltbundesamt für die Durchführung der Aufgaben nach diesem Gesetz entstehen und nach betriebswirtschaftlichen Grundsätzen ansatzfähig sind, insbesondere Personal- und Sachkosten, kalkulatorische Kosten, Kosten für die Errichtung und den Betrieb der elektronischen Datenerfassungs- und -verarbeitungssysteme sowie Entgelte für in Anspruch genommene Fremdleistungen.
 
 ## Teil 2: Einwegkunststofffonds
 
@@ -70,13 +66,13 @@ b)
 
 (1) Die Verwaltungskosten werden aus den Einnahmen des Einwegkunststofffonds finanziert, soweit keine anderweitige Kostenerstattung geregelt ist. Die Verwaltungskosten, die dem Umweltbundesamt im Haushaltsjahr 2023 entstanden sind, werden diesem ab dem Jahr 2025 in den darauffolgenden fünf Haushaltsjahren zu gleichen Teilen aus den Einnahmen des Einwegkunststofffonds erstattet.
 
-(2) Aus den Einnahmen des Einwegkunststofffonds können auch über das jeweilige Haushaltsjahr hinaus nach den haushaltsrechtlichen Regelungen Ausgaben vorgesehen werden Im Falle des Satzes 1 Nummer 3 dürfen von den Einnahmen eines Haushaltsjahres jedoch nicht mehr als 10 Prozent für weitere Haushaltsjahre vorgesehen werden.
+(2) Aus den Einnahmen des Einwegkunststofffonds können auch über das jeweilige Haushaltsjahr hinaus nach den haushaltsrechtlichen Regelungen Ausgaben vorgesehen werden
 
-1.
+1. zur Sicherung der Erstattung der Verwaltungskosten,
 
-2.
+2. zur Sicherung von Rechtsansprüchen aus dem Vollzug dieses Gesetzes und
 
-3.
+3. zum Ausgleich von unverhältnismäßigen Schwankungen des Punktewertes nach § 20 Absatz 1.
 
 ### § 6 — Jahresübersicht
 
@@ -90,37 +86,33 @@ b)
 
 (1) Hersteller haben sich vor der Aufnahme ihrer Tätigkeit nach Maßgabe des Absatzes 2 beim Umweltbundesamt registrieren zu lassen. Änderungen von Registrierungsdaten sowie die dauerhafte Aufgabe der Tätigkeit sind dem Umweltbundesamt unverzüglich mitzuteilen.
 
-(2) Bei der Registrierung nach Absatz 1 Satz 1 sind die folgenden Angaben zu machen: Die Angaben nach Satz 1 Nummer 1 bis 4 entfallen, wenn der Hersteller einer Nutzung dieser Daten unter Angabe seiner Registrierungsnummer aus dem Register nach § 9 des Verpackungsgesetzes zustimmt.
+(2) Bei der Registrierung nach Absatz 1 Satz 1 sind die folgenden Angaben zu machen:
 
-1.
+1. Name, Anschrift und Kontaktdaten des Herstellers, insbesondere Postleitzahl und Ort, Straße und Hausnummer, Land, Telefonnummer sowie die europäische oder nationale Steuernummer,
 
-2.
+2. im Falle einer Bevollmächtigung nach § 10 Absatz 1: a)Name, Anschrift und Kontaktdaten des Bevollmächtigten nach Nummer 1 sowieb)die schriftliche Beauftragung durch den Hersteller, Name, Anschrift und Kontaktdaten des Bevollmächtigten nach Nummer 1 sowie die schriftliche Beauftragung durch den Hersteller,
 
-a)
+3. eine vertretungsberechtigte natürliche Person,
 
-b)
+4. nationale Kennnummer und E-Mail-Adresse des Herstellers und bei einer Bevollmächtigung die gleichen Angaben zum Bevollmächtigten,
 
-3.
+5. Markennamen, unter denen der Hersteller die Einwegkunststoffprodukte nach Anlage 1 erstmals auf dem Markt bereitstellt oder verkauft,
 
-4.
+6. Arten der erstmals auf dem Markt bereitgestellten oder verkauften Einwegkunststoffprodukte nach Anlage 1 und
 
-5.
-
-6.
-
-7.
+7. Erklärung, dass sämtliche gemachten Angaben der Wahrheit entsprechen.
 
 (3) Die Registrierung sowie die Änderungsmitteilungen haben über das vom Umweltbundesamt nach § 8 Absatz 1 zur Verfügung gestellte informationstechnische System zu erfolgen.
 
 (4) Das Umweltbundesamt
 
-1.
+1. bestätigt die Registrierung,
 
-2.
+2. teilt dem Hersteller seine Registrierungsnummer mit,
 
-3.
+3. prüft die Änderungsmitteilung und
 
-4.
+4. bestätigt die Erfassung der mitgeteilten Änderung.
 
 (5) Das Umweltbundesamt veröffentlicht die registrierten Hersteller mit den in Absatz 2 Satz 1 Nummer 1 und 2 Buchstabe a sowie Nummer 5 und 6 genannten Angaben sowie mit der Registrierungsnummer und dem Registrierungsdatum auf seiner Internetseite. Bei Herstellern, deren Registrierung beendet ist, ist zusätzlich das Datum des Marktaustritts anzugeben. Die auf der Internetseite des Umweltbundesamtes veröffentlichten Daten sind dort drei Jahre nach dem Tag, an dem die Registrierung des Herstellers endet, automatisiert zu löschen.
 
@@ -204,15 +196,15 @@ Die Hersteller von Einwegkunststoffprodukten nach Anlage 1 entrichten jährlich 
 
 (2) Bei der Registrierung nach Absatz 1 sind die folgenden Angaben zu machen:
 
-1.
+1. Name, Anschrift und Kontaktdaten des Anspruchsberechtigten, insbesondere Postleitzahl und Ort, Straße und Hausnummer, Land, Telefonnummer sowie, sofern vorhanden, die europäische oder nationale Steuernummer,
 
-2.
+2. eine vertretungsberechtigte natürliche Person,
 
-3.
+3. Kontoverbindung,
 
-4.
+4. sofern sich die Zuständigkeit aus dem Landesrecht ergibt, eine von einer zuständigen Landesbehörde ausgestellte Bestätigung der Anspruchsberechtigung unter Nennung der Rechtsgrundlagen und
 
-5.
+5. örtlicher Zuständigkeitsbereich.
 
 (3) Anspruchsberechtigte nach Absatz 1 können einen anderen Anspruchsberechtigten mit der Wahrnehmung ihrer Rechte und Pflichten nach diesem Gesetz beauftragen. In diesem Fall sind bei der Registrierung zusätzlich die Angaben nach Absatz 2 Nummer 1, 4 und 5 für den beauftragenden Anspruchsberechtigten zu machen sowie die Beauftragung nachzuweisen.
 
@@ -220,15 +212,15 @@ Die Hersteller von Einwegkunststoffprodukten nach Anlage 1 entrichten jährlich 
 
 (5) Das Umweltbundesamt
 
-1.
+1. prüft die Anspruchsberechtigung,
 
-2.
+2. bestätigt die Registrierung,
 
-3.
+3. teilt dem öffentlich-rechtlichen Entsorgungsträger oder der juristischen Person des öffentlichen Rechts die Registrierungsnummer mit,
 
-4.
+4. prüft die Änderungsmitteilung und
 
-5.
+5. bestätigt die Erfassung der mitgeteilten Änderung.
 
 (6) Das Umweltbundesamt veröffentlicht die Anspruchsberechtigten mit den in Absatz 2 Nummer 1, 4 und 5 genannten Angaben sowie mit der Registrierungsnummer und dem Registrierungsdatum auf seiner Internetseite. Bei Anspruchsberechtigten, deren Registrierung beendet ist, ist zusätzlich das Datum des Endes der anspruchsberechtigenden Tätigkeit anzugeben. Die auf der Internetseite des Umweltbundesamtes veröffentlichten Daten sind dort ein Jahr nach Ablauf des Tages, an dem die Registrierung des Anspruchsberechtigten endet, automatisiert zu löschen.
 
@@ -240,13 +232,13 @@ Zur Registrierung der Anspruchsberechtigten nach § 15 richtet das Umweltbundesa
 
 (1) Die Erstattung von Kosten setzt voraus, dass der registrierte Anspruchsberechtigte dem Umweltbundesamt bis zum 15. Mai des betreffenden Jahres folgende Daten für das vorangegangene Kalenderjahr meldet:
 
-1.
+1. Angaben zu den die Sammlungskosten verursachenden Leistungen,
 
-2.
+2. Angaben zu den die Reinigungskosten verursachenden Leistungen,
 
-3.
+3. Angaben zu den die Sensibilisierungskosten verursachenden Leistungen,
 
-4.
+4. Angaben zu den die Datenerhebungs- und -übermittlungskosten verursachenden Leistungen.
 
 (2) Erfolgt keine fristgerechte Meldung nach Absatz 1, ist eine Auszahlung aus dem Einwegkunststofffonds nach § 21 für das vorangegangene Kalenderjahr ausgeschlossen.
 
@@ -258,13 +250,13 @@ Zur Registrierung der Anspruchsberechtigten nach § 15 richtet das Umweltbundesa
 
 (2) Zugelassener Sachverständiger nach Absatz 1 Satz 1 ist, wer
 
-1.
+1. nach § 36 der Gewerbeordnung in der Fassung der Bekanntmachung vom 22. Februar 1999 (BGBl. I S. 202), die zuletzt durch Artikel 21 des Gesetzes vom 19. Dezember 2022 (BGBl. I S. 2606) geändert worden ist, in der jeweils geltenden Fassung, öffentlich bestellt ist,
 
-2.
+2. als Umweltgutachter oder Umweltgutachterorganisation auf Grund einer Zulassung nach den §§ 9 und 10 oder nach § 18 des Umweltauditgesetzes in der Fassung der Bekanntmachung vom 4. September 2002 (BGBl. I S. 3490), das zuletzt durch Artikel 17 des Gesetzes vom 10. August 2021 (BGBl. I S. 3436) geändert worden ist, in der jeweils geltenden Fassung, in dem Bereich tätig werden darf, der näher bestimmt wird durch Anhang I Abschnitt E Abteilung 38 der Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 zur Aufstellung der statistischen Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der EG über bestimmte Bereiche der Statistik (ABl. L 393 vom 30.12.2006, S. 1), die zuletzt durch die Verordnung (EG) Nr. 295/2008 (ABl. L 97 vom 9.4.2008, S. 13) geändert worden ist, in der jeweils geltenden Fassung,
 
-3.
+3. eine Befähigung durch eine Akkreditierung der nationalen Akkreditierungsstelle in einem allgemein anerkannten Verfahren hat feststellen lassen oder
 
-4.
+4. in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum niedergelassen ist und eine Tätigkeit im Inland nur vorübergehend und gelegentlich ausüben will und seine Berufsqualifikation vor Aufnahme der Tätigkeit entsprechend den §§ 13a und 13b der Gewerbeordnung hat nachprüfen lassen; Verfahren nach dieser Nummer können über eine einheitliche Stelle abgewickelt werden.
 
 ## Teil 6: Auszahlung
 
@@ -284,13 +276,9 @@ Zur Registrierung der Anspruchsberechtigten nach § 15 richtet das Umweltbundesa
 
 (2) Der Gesamtauszahlungsbetrag berechnet sich aus den bis zum 31. August eingegangenen Einnahmen des Einwegkunststofffonds
 
-1.
+1. abzüglich von a)im vorangegangenen Kalenderjahr angefallenen Verwaltungskosten,b)vorgesehenen Mitteln nach § 5 Absatz 2 Satz 1 sowie im vorangegangenen Kalenderjahr angefallenen Verwaltungskosten, vorgesehenen Mitteln nach § 5 Absatz 2 Satz 1 sowie
 
-a)
-
-b)
-
-2.
+2. gegebenenfalls zuzüglich von Mitteln nach § 5 Absatz 2 Satz 1 Nummer 3.
 
 (3) Die Gesamtpunktzahl ist die Summe der Punkte aller Anspruchsberechtigten für die im vorangegangenen Kalenderjahr erbrachten Leistungen.
 
@@ -302,13 +290,13 @@ Das Umweltbundesamt setzt die auszuzahlenden Mittel aus dem Einwegkunststofffond
 
 ### § 22 — Feststellung zur Einordnung als Einwegkunststoffprodukt, Feststellung der Herstellereigenschaft
 
-(1) Das Umweltbundesamt stellt auf Antrag eines Herstellers oder Bevollmächtigten oder nach pflichtgemäßem Ermessen fest, Die Feststellung nach Satz 1 Nummer 1 und 2 kann als Allgemeinverfügung erfolgen.
+(1) Das Umweltbundesamt stellt auf Antrag eines Herstellers oder Bevollmächtigten oder nach pflichtgemäßem Ermessen fest,
 
-1.
+1. ob ein Produkt ein Einwegkunststoffprodukt nach § 3 Nummer 1 und 2 ist,
 
-2.
+2. welcher Produktart nach Anlage 1 das Einwegkunststoffprodukt zuzuordnen ist und
 
-3.
+3. ob eine natürliche oder juristische Person oder rechtsfähige Personengesellschaft Hersteller im Sinne des § 3 Nummer 3 Buchstabe a oder b ist.
 
 (2) Das Umweltbundesamt kann zu den in Absatz 1 genannten Sachverhalten Verwaltungsvorschriften erlassen.
 
@@ -320,17 +308,11 @@ Das Umweltbundesamt setzt die auszuzahlenden Mittel aus dem Einwegkunststofffond
 
 ### § 23 — Einrichtung, Aufgaben und Verfahren
 
-(1) Es wird eine Einwegkunststoffkommission eingerichtet. Sie berät Das Umweltbundesamt unterstützt die Einwegkunststoffkommission bei der Wahrnehmung ihrer Aufgaben durch eine Geschäftsstelle. Die Geschäftsstelle ist für die Einberufung und Organisation der Sitzungen verantwortlich.
+(1) Es wird eine Einwegkunststoffkommission eingerichtet. Sie berät
 
-1.
+1. das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz bei der Überprüfung und Anpassung der Abgabesätze nach § 14 Absatz 3 und des Punktesystems nach § 19 Absatz 4 und
 
-2.
-
-a)
-
-b)
-
-c)
+2. das Umweltbundesamt bei a)der Berechnung des Punktewertes nach § 20,b)der Einordnung als Einwegkunststoffprodukt nach § 22 Absatz 1 Satz 1 Nummer 1 und 2 sowiec)der Konzeption der Studien nach Absatz 2 Satz 4. der Berechnung des Punktewertes nach § 20, der Einordnung als Einwegkunststoffprodukt nach § 22 Absatz 1 Satz 1 Nummer 1 und 2 sowie der Konzeption der Studien nach Absatz 2 Satz 4.
 
 (2) Die Beratung durch die Einwegkunststoffkommission erfolgt in Form von Empfehlungen auf Grundlage vorliegender Daten und wissenschaftlicher Erkenntnisse. Die Empfehlungen werden mit der Mehrheit der abgegebenen Stimmen beschlossen. Einzelheiten hierzu werden in der Geschäftsordnung nach Absatz 4 geregelt. Zur Vorbereitung der Beratungen der Einwegkunststoffkommission nach Absatz 1 Satz 2 Nummer 1 gibt das Umweltbundesamt eine Studie oder mehrere Studien in Auftrag. Entscheidungen in den Verfahren nach Absatz 1 Satz 2 Nummer 1, die von den Empfehlungen der Einwegkunststoffkommission abweichen, sind zu begründen.
 
@@ -340,19 +322,19 @@ c)
 
 ### § 24 — Besetzung und Benennung
 
-(1) Die Einwegkunststoffkommission besteht aus 12 Mitgliedern. Die Mitglieder verteilen sich wie folgt: Die Tätigkeit der Mitglieder ist ehrenamtlich. Eine Vergütung oder Erstattung von Auslagen wird nicht gewährt.
+(1) Die Einwegkunststoffkommission besteht aus 12 Mitgliedern. Die Mitglieder verteilen sich wie folgt:
 
-1.
+1. sechs Vertreter der Hersteller,
 
-2.
+2. ein Vertreter der kommunalen Entsorgungswirtschaft,
 
-3.
+3. zwei Vertreter der kommunalen Spitzenverbände,
 
-4.
+4. ein Vertreter der sonstigen, nicht durch die Vertreter nach den Nummern 2 und 3 vertretenen Anspruchsberechtigten,
 
-5.
+5. ein Vertreter der Umweltverbände und
 
-6.
+6. ein Vertreter der Verbraucherverbände.
 
 (2) Die jeweiligen Verbände und sonstigen Interessenvertreter benennen dem Umweltbundesamt die Mitglieder und Stellvertretungen. Dazu fordert das Umweltbundesamt die Verbände und sonstigen Interessenvertreter auf, innerhalb einer Frist eine einvernehmliche Benennung der Mitglieder und Stellvertretungen vorzunehmen. Wird innerhalb dieser Frist keine einvernehmliche Benennung vorgenommen, werden die jeweiligen Mitglieder und Stellvertretungen durch das Umweltbundesamt benannt. Einzelheiten werden in der Geschäftsordnung nach § 23 Absatz 4 Satz 1 geregelt.
 
@@ -366,27 +348,23 @@ Das Umweltbundesamt untersteht hinsichtlich der ihm nach diesem Gesetz übertrag
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 7 Absatz 1 Satz 1 sich nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig registrieren lässt,
 
-2.
+2. entgegen a)§ 7 Absatz 1 Satz 2 oderb)§ 10 Absatz 2 Satz 5eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht, § 7 Absatz 1 Satz 2 oder § 10 Absatz 2 Satz 5
 
-a)
+3. entgegen § 9 Absatz 1 ein Einwegkunststoffprodukt erstmals auf dem Markt bereitstellt oder verkauft,
 
-b)
+4. entgegen § 9 Absatz 2 ein Einwegkunststoffprodukt zum Verkauf anbietet,
 
-3.
+5. entgegen § 9 Absatz 3 das Anbieten eines Einwegkunststoffproduktes ermöglicht,
 
-4.
+6. entgegen § 9 Absatz 4 eine dort genannte Dienstleistung erbringt,
 
-5.
+7. entgegen § 10 Absatz 1 Satz 1 oder Absatz 4 einen Bevollmächtigten nicht, nicht richtig oder nicht rechtzeitig beauftragt,
 
-6.
+8. entgegen § 10 Absatz 2 Satz 1 einen Bevollmächtigten nicht, nicht richtig oder nicht rechtzeitig benennt oder
 
-7.
-
-8.
-
-9.
+9. entgegen § 11 Absatz 1 Satz 1 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1, 2 Buchstabe a und Nummer 3 bis 6 mit einer Geldbuße bis zu einhunderttausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
@@ -396,23 +374,23 @@ b)
 
 ### § 27 — Einziehung
 
-Ist eine Ordnungswidrigkeit nach § 26 Absatz 1 begangen worden, so können Gegenstände eingezogen werden, § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
+Ist eine Ordnungswidrigkeit nach § 26 Absatz 1 begangen worden, so können Gegenstände eingezogen werden,
 
-1.
+1. auf die sich die Ordnungswidrigkeit bezieht oder
 
-2.
+2. die zu ihrer Begehung oder Vorbereitung gebraucht worden sind oder bestimmt gewesen sind.
 
 ### § 28 — Evaluierung
 
 Die Bundesregierung evaluiert bis zum 31. Dezember 2027 die Wirkung der in diesem Gesetz enthaltenen Regelungen im Hinblick auf die Zielerreichung. Im Rahmen der Evaluierung ist insbesondere zu überprüfen:
 
-1.
+1. die Entwicklung von nachhaltigen Produkten als Alternative zu den Einwegkunststoffprodukten nach Anlage 1,
 
-2.
+2. die Verbesserung der Sauberkeit von Städten und Landschaften im Hinblick auf die aus den Einwegkunststoffprodukten nach Anlage 1 entstehenden Abfälle,
 
-3.
+3. die Entlastung der Allgemeinheit von den bisher zu tragenden Sammlungs-, Reinigungs- und Sensibilisierungskosten,
 
-4.
+4. die Notwendigkeit einer Erweiterung des Anwendungsbereichs auf weitere Produkte unter Berücksichtigung der Ergebnisse der Überprüfung nach Artikel 15 der Richtlinie (EU) 2019/904.
 
 ### § 29 — Übergangsvorschrift
 
@@ -430,38 +408,26 @@ Die Bundesregierung evaluiert bis zum 31. Dezember 2027 die Wirkung der in diese
 
 ### § 30 — (weggefallen)
 
-leerzeile
-
 > (+++ § 30: Tritt gem. Art. 4 Abs. 4 G v. 15.5.2023 I Nr. 124 mit Ablauf des 31.12.2023 außer Kraft +++)
 
 ### Anlage 1 — (zu den §§ 1, 2 Absatz 1, zu § 3 Nummer 3, 5 bis 8 und 12 bis 15, § 7 Absatz 2 Satz 1 Nummer 5 und 6,
 
-1.
+1. Lebensmittelbehälter, das heißt, Behältnisse, wie Boxen mit oder ohne Deckel, für Lebensmittel, die a)dazu bestimmt sind, unmittelbar verzehrt zu werden, entweder vor Ort oder als Mitnahme-Gericht,b)in der Regel aus dem Behältnis heraus verzehrt werden undc)ohne weitere Zubereitung wie Kochen, Sieden oder Erhitzen verzehrt werden können;keine Lebensmittelbehälter in diesem Sinne sind Getränkebehälter, Getränkebecher, Teller sowie Tüten und Folienverpackungen, wie Wrappers, mit Lebensmittelinhalt; dazu bestimmt sind, unmittelbar verzehrt zu werden, entweder vor Ort oder als Mitnahme-Gericht, in der Regel aus dem Behältnis heraus verzehrt werden und ohne weitere Zubereitung wie Kochen, Sieden oder Erhitzen verzehrt werden können;
 
-a)
+2. aus flexiblem Material hergestellte Tüten und Folienverpackungen, wie Wrappers, mit Lebensmittelinhalt, der a)dazu bestimmt ist, unmittelbar aus der Tüte oder der Folienpackung heraus verzehrt zu werden undb)keiner weiteren Zubereitung bedarf; dazu bestimmt ist, unmittelbar aus der Tüte oder der Folienpackung heraus verzehrt zu werden und keiner weiteren Zubereitung bedarf;
 
-b)
+3. Getränkebehälter mit einem Füllvolumen von bis zu 3 Litern, das heißt, Behältnisse, die zur Aufnahme von Flüssigkeiten verwendet werden, wie bepfandete und nicht bepfandete Getränkeflaschen und Verbundgetränkeverpackungen, einschließlich ihrer Verschlüsse und Deckel; keine Getränkebehälter in diesem Sinne sind Getränkebehälter aus Glas oder Metall mit Verschlüssen, Deckeln, Etiketten, Aufklebern oder Umhüllungen aus Kunststoff;
 
-c)
+4. Getränkebecher einschließlich ihrer Verschlüsse und Deckel;
 
-2.
+5. leichte Kunststofftragetaschen, das heißt, Kunststofftragetaschen mit einer Wandstärke von weniger als 50 Mikrometern mit oder ohne Tragegriff, die den Verbrauchern in der Verkaufsstelle der Waren oder Produkte angeboten werden;
 
-a)
+6. Feuchttücher, das heißt, getränkte Tücher für Körper- und Haushaltspflege;
 
-b)
+7. Luftballons; ausgenommen sind Luftballons für industrielle oder gewerbliche Verwendungszwecke und Anwendungen, die nicht an Verbraucher abgegeben werden;
 
-3.
+8. Tabakprodukte mit Filtern sowie Filter, die zur Verwendung in Kombination mit Tabakprodukten vorgesehen sind;
 
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
+9. Feuerwerkskörper im Sinne von § 3 Absatz 1 Nummer 4 des Sprengstoffgesetzes.
 
 ### Anlage 2 — (zu den §§ 12, 14 Absatz 1 Satz 1)

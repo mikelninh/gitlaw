@@ -20,7 +20,11 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung
 
 ### § 3
 
-(1) Diese Verordnung tritt an dem Tage in Kraft, an dem die betreffende Anlage gemäß den §§ 43, 44 des Abkommens vom 21. November 1947 für die Bundesrepublik Deutschland in Kraft tritt.(2) Diese Verordnung tritt an dem Tage außer Kraft, an dem die in § 1 genannten völkerrechtlichen Vereinbarungen außer Kraft treten.(3) Der Tag des Inkrafttretens und der Tag des Außerkrafttretens sind im Bundesgesetzblatt bekanntzugeben.
+(1) Diese Verordnung tritt an dem Tage in Kraft, an dem die betreffende Anlage gemäß den §§ 43, 44 des Abkommens vom 21. November 1947 für die Bundesrepublik Deutschland in Kraft tritt.
+
+(2) Diese Verordnung tritt an dem Tage außer Kraft, an dem die in § 1 genannten völkerrechtlichen Vereinbarungen außer Kraft treten.
+
+(3) Der Tag des Inkrafttretens und der Tag des Außerkrafttretens sind im Bundesgesetzblatt bekanntzugeben.
 
 ### Schlußformel
 

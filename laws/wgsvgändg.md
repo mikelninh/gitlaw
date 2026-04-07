@@ -19,7 +19,9 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 ### § 2
 
-(1) Entsteht auf Grund dieses Gesetzes ein Anspruch auf Rente oder wird durch dieses Gesetz ein Anspruch auf eine höhere Rente begründet oder die Zahlung einer Rente zugelassen, so ist auf Antrag die Rente festzustellen oder neu festzustellen; eine Feststellung oder Neufeststellung von Amts wegen ist nicht ausgeschlossen.(2) Die Rente oder höhere Rente ist in den Fällen der §§ 8 und 10 des Gesetzes zur Regelung der Wiedergutmachung nationalsozialistischen Unrechts in der Sozialversicherung nach dem Stand vom 31. Dezember 1989 frühestens vom Ersten des Monats an, der auf die Beitragsnachentrichtung folgt, im übrigen frühestens vom Inkrafttreten dieses Gesetzes an zu zahlen.
+(1) Entsteht auf Grund dieses Gesetzes ein Anspruch auf Rente oder wird durch dieses Gesetz ein Anspruch auf eine höhere Rente begründet oder die Zahlung einer Rente zugelassen, so ist auf Antrag die Rente festzustellen oder neu festzustellen; eine Feststellung oder Neufeststellung von Amts wegen ist nicht ausgeschlossen.
+
+(2) Die Rente oder höhere Rente ist in den Fällen der §§ 8 und 10 des Gesetzes zur Regelung der Wiedergutmachung nationalsozialistischen Unrechts in der Sozialversicherung nach dem Stand vom 31. Dezember 1989 frühestens vom Ersten des Monats an, der auf die Beitragsnachentrichtung folgt, im übrigen frühestens vom Inkrafttreten dieses Gesetzes an zu zahlen.
 
 ### § 3
 
@@ -31,4 +33,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgeset
 
 ### § 5
 
-(1) Dieses Gesetz tritt mit dem Ersten des auf die Verkündung folgenden zweiten Kalendermonats in Kraft.(2) Mit dem Inkrafttreten dieses Gesetzes treten außer Kraft: ... c)alle sonstigen diesem Gesetz entgegenstehenden oder gleichlautenden Vorschriften.
+(1) Dieses Gesetz tritt mit dem Ersten des auf die Verkündung folgenden zweiten Kalendermonats in Kraft.
+
+(2) Mit dem Inkrafttreten dieses Gesetzes treten außer Kraft: ...

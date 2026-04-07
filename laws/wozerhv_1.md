@@ -12,11 +12,11 @@ Auf Grund des § 87a Abs. 5 Satz 2 des Zweiten Wohnungsbaugesetzes in der Fassun
 
 ### § 1 — Anwendungsbereich
 
-(1) Diese Verordnung ist auf Baudarlehen und auf Annuitätsdarlehen (§ 42 Abs. 1 des Zweiten Wohnungsbaugesetzes) aus Wohnungsfürsorgemitteln anzuwenden, die worden sind.
+(1) Diese Verordnung ist auf Baudarlehen und auf Annuitätsdarlehen (§ 42 Abs. 1 des Zweiten Wohnungsbaugesetzes) aus Wohnungsfürsorgemitteln anzuwenden, die
 
-1.
+1. vor dem 1. Januar 1970 bewilligt und
 
-2.
+2. für Angehörige des öffentlichen Dienstes oder ähnliche Personengruppen aus öffentlichen Haushalten des Bundes mittelbar oder unmittelbar zur Verfügung gestellt
 
 (2) Diese Verordnung gilt nicht für Wohnheime (§ 15 des Zweiten Wohnungsbaugesetzes).
 
@@ -26,35 +26,27 @@ Auf Grund des § 87a Abs. 5 Satz 2 des Zweiten Wohnungsbaugesetzes in der Fassun
 
 (2) Darlehen, die nach dem 31. Dezember 1959, jedoch vor dem 1. Januar 1970 bewilligt worden sind, sind vorbehaltlich der §§ 3 bis 5 mit einem Zinssatz von 6 vom Hundert jährlich zu verzinsen.
 
-(3) Die höhere Verzinsung beginnt bei Stimmt der Beginn eines neuen Zahlungsabschnittes (§ 18b Abs. 4 des Wohnungsbindungsgesetzes) mit diesen Zeitpunkten nicht überein, beginnt die höhere Verzinsung mit dem darauffolgenden Zahlungsabschnitt.
+(3) Die höhere Verzinsung beginnt bei
 
-1.
+1. a)Familienheimen im Sinne des § 7 des Zweiten Wohnungsbaugesetzes, b)Eigentumswohnungen, bei denen die Voraussetzungen des § 7 des Zweiten Wohnungsbaugesetzes vorliegen, Familienheimen im Sinne des § 7 des Zweiten Wohnungsbaugesetzes, Eigentumswohnungen, bei denen die Voraussetzungen des § 7 des Zweiten Wohnungsbaugesetzes vorliegen, am 1. Oktober 1982 und
 
-a)
-
-b)
-
-2.
+2. allen übrigen Wohnungen einschließlich der zweiten Wohnungen in Familienheimen am 1. April 1983.
 
 (4) Fallen auf Grund vertraglicher Vereinbarungen oder entsprechender Bewilligungsbescheide für die von der Zinserhöhung betroffenen Wohnungen Aufwendungsdarlehen, Aufwendungszuschüsse, Zinszuschüsse oder Annuitätsdarlehen aus öffentlichen Haushalten ganz oder teilweise weg und ist deswegen eine Mieterhöhung zulässig, so verschiebt sich der nach Absatz 3 maßgebende Zeitpunkt für den Beginn der Zinserhöhung bei einem Wegfall
 
-1.
+1. innerhalb von sechs Monaten vor dem maßgebenden Zeitpunkt auf den Beginn des nächsten Zahlungsabschnittes,
 
-2.
+2. innerhalb von sechs Monaten ab dem maßgebenden Zeitpunkt auf den Beginn des übernächsten Zahlungsabschnittes.
 
 ### § 3 — Begrenzung der Zinserhöhung insbesondere bei Mietwohnungen
 
 (1) Betrifft die Zinserhöhung nach § 2 Abs. 1 und 2 Wohnungen im Sinne des § 2 Abs. 3 Nr. 2, ist sie wie folgt begrenzt:
 
-1.
+1. Die monatliche Durchschnittsmiete je Quadratmeter Wohnfläche darf nach Abzug des Betriebskostenanteils folgende Beträge nicht übersteigen (Kappungsgrenzen):(Inhalt: nicht darstellbare TabelleFundstelle: BGBl I 1982, 1010) (Inhalt: nicht darstellbare Tabelle Fundstelle: BGBl I 1982, 1010) Die Kappungsgrenzen erhöhen sich um 0,75 Deutsche Mark je Quadratmeter Wohnfläche bei Einfamilienhäusern und bei Wohnungen für Alleinstehende. Sie verringern sich um die entsprechenden Kostenansätze füra)kleine Instandhaltungen nach § 28 Abs. 3 der Zweiten Berechnungsverordnung undb)Schönheitsreparaturen nach § 28 Abs. 4 der Zweiten Berechnungsverordnung, kleine Instandhaltungen nach § 28 Abs. 3 der Zweiten Berechnungsverordnung und Schönheitsreparaturen nach § 28 Abs. 4 der Zweiten Berechnungsverordnung, wenn der Mieter diese Kosten trägt. Gelten für Wohnungen in Gebäuden oder Wirtschaftseinheiten unterschiedliche Kappungsgrenzen, so sind die Kappungsgrenzen unter Zugrundelegung der Wohnflächen zu mitteln. Bauliche Änderungen, für die ein Zuschlag nach § 26 Abs. 1 Nr. 4 der Neubaumietenverordnung 1970 erhoben wird, sind bei Anwendung der Kappungsgrenzen nicht zu berücksichtigen.
 
-a)
+2. Der Anstieg der monatlichen Durchschnittsmiete darf 0,70 Deutsche Mark je Quadratmeter Wohnfläche zuzüglich des sich aus der Zinserhöhung ergebenden Mietausfallwagnisses nicht übersteigen (Kappungsbetrag).
 
-b)
-
-2.
-
-3.
+3. Die monatliche Durchschnittsmiete darf die in der Gemeinde oder in vergleichbaren Gemeinden üblichen Entgelte im Sinne des § 2 Abs. 1 Satz 1 Nr. 2 des Gesetzes zur Regelung der Miethöhe nicht übersteigen.
 
 (2) Die Begrenzung der Zinserhöhung nach Absatz 1 Nr. 3 setzt voraus, daß der Darlehnsschuldner sie nach Maßgabe des § 6 geltend macht.
 

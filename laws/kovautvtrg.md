@@ -14,10 +14,6 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetze beschlosse
 
 ### Art 1
 
-Dem in Bonn am 7. Mai 1963 unterzeichneten Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich über Kriegsopferversorgung und Beschäftigung Schwerbeschädigter wird zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
-
-> Überschrift u. Art. 1 Satz 1 Kursivdruck: "Schwerbeschädigter" jetzt "Schwerbehinderter" gem. Art. III § 4 G v. 24.4.1974 I 981
-
 ### Art 2
 
 Für die Durchführung der Heil- und Krankenbehandlung nach Artikel 3, 4, 6 und 7 Abs. 2 des Vertrags und für die Kostenerstattung an die Krankenkassen gelten die §§ 18 bis 21 des Bundesversorgungsgesetzes oder die an ihre Stelle tretenden Vorschriften entsprechend, soweit sie sich nicht auf Leistungen beziehen, die nach Artikel 3 Abs. 1 des Vertrags ausgenommen sind.
@@ -32,4 +28,6 @@ Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung die
 
 ### Art 4
 
-(1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.(2) Der Tag, an dem der Vertrag nach seinem Artikel 25 Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
+(1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
+
+(2) Der Tag, an dem der Vertrag nach seinem Artikel 25 Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.

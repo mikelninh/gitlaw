@@ -19,8 +19,6 @@ Die Deutsche Forschungsgemeinschaft ist eine dem Goethe-Institut und dem Deutsch
 
 ### § 3 — Anwendungsregelung
 
-Diese Verordnung ist erstmals auf Besteuerungssachverhalte ab dem 1. Januar 2021 anzuwenden.
-
 ### § 4 — Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

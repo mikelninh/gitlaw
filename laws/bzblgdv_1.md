@@ -22,5 +22,3 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar
 Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
 
 ### Anlage
-
-(Fundstelle des Originaltextes: BGBl. I 1971, 1967)

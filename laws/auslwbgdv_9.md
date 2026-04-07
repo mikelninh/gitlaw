@@ -16,8 +16,6 @@ Auf Grund des § 1 Abs. 2 in Verbindung mit § 76 Abs. 3 des Bereinigungsgesetze
 
 ### § 2 — Bestimmung des Stichtags
 
-Als Stichtag für die in § 1 bezeichneten Auslandsbonds wird nach § 19 Abs. 3 des Gesetzes der 1. November 1954 bestimmt.
-
 > § 2 Kursivdruck: Abschn. C I Nr. 14 bis 29 der Anlage zu § 1 Abs. 1 AuslWBG 4139-2 eingef. durch § 1 dieser V
 
 ### § 3 — Land Berlin

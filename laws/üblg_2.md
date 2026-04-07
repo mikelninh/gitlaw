@@ -11,7 +11,11 @@ Bund
 
 ### § 1
 
-(1) Die Ausgaben der Finanzbehörden, die nach § 1 Abs. 1 des Gesetzes über die Finanzverwaltung vom 6. September 1950 (Bundesgesetzbl. S. 448) Bundesfinanzbehörden geworden sind, gehen auf den Bund über, soweit die Ausgaben nicht nach § 11 des Gesetzes über die Finanzverwaltung und nach den Vorschriften dieses Gesetzes von den Ländern zu tragen sind.(2) Die Ausgaben für die Versorgung der ehemaligen Verwaltungsangehörigen der Zoll- und Verbrauchsteuerverwaltung, der Monopolverwaltungen und des Zollgrenzdienstes sowie der Hinterbliebenen dieser Verwaltungsangehörigen gehen auf den Bund über. Die Ausgaben für die Versorgung der sonstigen in den Bundesdienst übernommenen Verwaltungsangehörigen der Finanzverwaltung und ihrer Hinterbliebenen gehen vom Zeitpunkt der Übernahme in den Bundesdienst ab auf den Bund über (§ 36 Abs. 1 Satz 2 des Gesetzes über die Finanzverwaltung). Die Ausgaben für die Versorgung der ehemaligen Oberfinanzpräsidenten und der ehemaligen Leiter der Oberfinanzkassen und deren Hinterbliebenen werden vom Bund und von den Ländern je zur Hälfte getragen. Ihre Versorgung richtet sich nach den Vorschriften des Landes, das für die Zahlung der Versorgungsbezüge zuständig ist. Die übrigen Versorgungsausgaben der Finanzverwaltung werden von den Ländern getragen.(3) Die Überleitung der Ausgaben, die sich aus der Verwaltung des Vermögens der ehemaligen Reichsfinanzverwaltung ergeben, bleibt einem besonderen Gesetz vorbehalten.
+(1) Die Ausgaben der Finanzbehörden, die nach § 1 Abs. 1 des Gesetzes über die Finanzverwaltung vom 6. September 1950 (Bundesgesetzbl. S. 448) Bundesfinanzbehörden geworden sind, gehen auf den Bund über, soweit die Ausgaben nicht nach § 11 des Gesetzes über die Finanzverwaltung und nach den Vorschriften dieses Gesetzes von den Ländern zu tragen sind.
+
+(2) Die Ausgaben für die Versorgung der ehemaligen Verwaltungsangehörigen der Zoll- und Verbrauchsteuerverwaltung, der Monopolverwaltungen und des Zollgrenzdienstes sowie der Hinterbliebenen dieser Verwaltungsangehörigen gehen auf den Bund über. Die Ausgaben für die Versorgung der sonstigen in den Bundesdienst übernommenen Verwaltungsangehörigen der Finanzverwaltung und ihrer Hinterbliebenen gehen vom Zeitpunkt der Übernahme in den Bundesdienst ab auf den Bund über (§ 36 Abs. 1 Satz 2 des Gesetzes über die Finanzverwaltung). Die Ausgaben für die Versorgung der ehemaligen Oberfinanzpräsidenten und der ehemaligen Leiter der Oberfinanzkassen und deren Hinterbliebenen werden vom Bund und von den Ländern je zur Hälfte getragen. Ihre Versorgung richtet sich nach den Vorschriften des Landes, das für die Zahlung der Versorgungsbezüge zuständig ist. Die übrigen Versorgungsausgaben der Finanzverwaltung werden von den Ländern getragen.
+
+(3) Die Überleitung der Ausgaben, die sich aus der Verwaltung des Vermögens der ehemaligen Reichsfinanzverwaltung ergeben, bleibt einem besonderen Gesetz vorbehalten.
 
 ### § 2
 
@@ -26,13 +30,17 @@ Die Ausgaben (einschließlich der Versorgungsausgaben) der Verwaltungen und Einr
 
 ### § 4
 
-(1) Die Ausgaben für die Versorgung der ehemaligen Verwaltungsangehörigen der in der Anlage bezeichneten ehemaligen Reichsbehörden, Reichsbetriebe und Zonenbehörden sowie der Hinterbliebenen dieser Verwaltungsangehörigen gehen auf den Bund über.(2) § 8 Abs. 2 des Gesetzes über den Bundesfinanzhof vom 29. Juni 1950 (Bundesgesetzbl. S. 257) bleibt unberührt.(3) Erweist sich das in der Anlage enthaltene Verzeichnis der ehemaligen Reichsbehörden, Reichsbetriebe und Zonenbehörden als unvollständig, so kann die Bundesregierung das Verzeichnis nach den Grundsätzen dieses Gesetzes durch eine mit Zustimmung des Bundesrates zu erlassende Rechtsverordnung ergänzen.
+(1) Die Ausgaben für die Versorgung der ehemaligen Verwaltungsangehörigen der in der Anlage bezeichneten ehemaligen Reichsbehörden, Reichsbetriebe und Zonenbehörden sowie der Hinterbliebenen dieser Verwaltungsangehörigen gehen auf den Bund über.
+
+(3) Erweist sich das in der Anlage enthaltene Verzeichnis der ehemaligen Reichsbehörden, Reichsbetriebe und Zonenbehörden als unvollständig, so kann die Bundesregierung das Verzeichnis nach den Grundsätzen dieses Gesetzes durch eine mit Zustimmung des Bundesrates zu erlassende Rechtsverordnung ergänzen.
 
 > § 4: Kursivdruck: Aufgeh. durch § 161 Abs. 1 Nr. 2 FGO v. 6.10.1965 I 1477 mWv 1.1.1966
 
 ### § 5
 
-(1) Die Wartestandsbeamten der in der Anlage bezeichneten Zonenbehörden werden Wartestandsbeamte des Bundes.(2) Oberste Dienstbehörden der Wartestandsbeamten sind die zuständigen Obersten Bundesbehörden. Erforderlichenfalls bestimmen der Bundesminister des Innern, für Bau und Heimat und der Bundesminister der Finanzen die oberste Dienstbehörde.(3) Die obersten Dienstbehörden haben für die Unterbringung der Wartestandsbeamten zu sorgen (§ 36a Abs. 1 der Reichshaushaltsordnung).
+(1) Die Wartestandsbeamten der in der Anlage bezeichneten Zonenbehörden werden Wartestandsbeamte des Bundes.
+
+(2) Oberste Dienstbehörden der Wartestandsbeamten sind die zuständigen Obersten Bundesbehörden. Erforderlichenfalls bestimmen der Bundesminister des Innern, für Bau und Heimat und der Bundesminister der Finanzen die oberste Dienstbehörde.
 
 > § 5: Kursivdruck: Als Bundesrecht aufgeh. mit Ausnahme Abschn. V durch § 119 Abs. 2 Satz 1 Nr. 1 G v. 19.8.1969 I 1284 mWv 1.1.1970
 
@@ -53,17 +61,15 @@ Soweit die Ausgaben der in den Artikeln I und II bezeichneten Verwaltungen und E
 
 ### § 9
 
-Soweit die Bestimmungen der Artikel I und II den Übergang von Versorgungsausgaben auf den Bund regeln, sind diese Bestimmungen und die Bestimmungen des § 6 auf den Personenkreis nicht anzuwenden, der durch Kapitel I des Gesetzes zur Regelung der Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen vom 11. Mai 1951 (Bundesgesetzbl. I S. 307) erfaßt wird; die Bestimmungen des § 1 Abs. 1 Ziff. 7 und des § 2 Ziff. 7 des Ersten Gesetzes zur Überleitung von Lasten und Deckungsmitteln auf den Bund vom 28. November 1950 (Bundesgesetzbl. S. 773) bleiben unberührt.
-
 > § 9 Kursivdruck: Zeitlich überholt
 
 ### § 10
 
-Die Bundesregierung wird ermächtigt, die Versorgungsausgaben im Sinne der Artikel I und II durch eine mit Zustimmung des Bundesrates zu erlassende Rechtsverordnung näher zu bestimmen.
-
 ### § 11
 
-(1) Soweit nach den Artikeln I und II Ausgaben auf den Bund übergehen, stehen die mit den Ausgaben zusammenhängenden Einnahmen dem Bund zu.(2) Die wegen Steuervergehens im Verwaltungsstrafverfahren festgesetzten Geldstrafen stehen dem Bund zu, wenn das Verwaltungsstrafverfahren durch Bundesbehörden durchgeführt wird, dem Land zu, wenn das Verwaltungsstrafverfahren durch Landesbehörden durchgeführt wird. Entsprechendes gilt für den Erlös aus der Verwertung eingezogener Gegenstände. § 48 Abs. 1 des Soforthilfegesetzes vom 8. August 1949 (WiGBl. S. 205) und die entsprechende Vorschrift in den Soforthilfegesetzen der französischen Zone bleiben unberührt.
+(1) Soweit nach den Artikeln I und II Ausgaben auf den Bund übergehen, stehen die mit den Ausgaben zusammenhängenden Einnahmen dem Bund zu.
+
+(2) Die wegen Steuervergehens im Verwaltungsstrafverfahren festgesetzten Geldstrafen stehen dem Bund zu, wenn das Verwaltungsstrafverfahren durch Bundesbehörden durchgeführt wird, dem Land zu, wenn das Verwaltungsstrafverfahren durch Landesbehörden durchgeführt wird. Entsprechendes gilt für den Erlös aus der Verwertung eingezogener Gegenstände. § 48 Abs. 1 des Soforthilfegesetzes vom 8. August 1949 (WiGBl. S. 205) und die entsprechende Vorschrift in den Soforthilfegesetzen der französischen Zone bleiben unberührt.
 
 ### § 12
 
@@ -78,8 +84,6 @@ Die Bestimmungen der §§ 18, 20 und 22 des Ersten Überleitungsgesetzes sind en
 
 ### § 14
 
-Der Bundesminister der Finanzen wird ermächtigt, das Erste Gesetz zur Überleitung von Lasten und Deckungsmitteln auf den Bund in der ab 1. April 1951 geltenden Fassung bekanntzumachen.
-
 ## Art V: Übergangs- und Schlußbestimmungen
 
 ### § 15
@@ -92,4 +96,84 @@ Dieses Gesetz tritt mit Wirkung vom 1. April 1950 in Kraft, soweit sich nicht au
 
 ### Anlage
 
-(Fundstelle: BGBl. Teil III 603-4, S. 61)I.Ehemalige Reichsbehörden und Reichsbetriebe(§ 4 des Gesetzes)1.Deutscher Reichstag2.Die Reichsministerien mit Ausnahme des Reichsministeriums der Justiz, des Reichsministeriums für Wissenschaft, Erziehung und Volksbildung und des Reichsministeriums für kirchliche Angelegenheiten3.Die übrigen obersten Reichsbehörden mit Ausnahme der Reichsbank4.Die obersten Gerichtshöfe und Anwaltschaften des Reichs5.Der Regierungskommissar für das Saargebiet, die für die besetzten Gebiete bestellten Reichskommissare und Chefs der Zivilverwaltung und die Regierung des Generalgouvernements6.Der Reichskommissar für die Rückgliederung des Saargebiets7.Der Reichskommissar für das Wohnungswesen8.Der Reichskommissar für die Preisbildung9.Der Reichskommissar für die Ein- und Ausfuhrbewilligung10.Der Reichskommissar für Reparationsleistungen11.Rechnungshof des Deutschen Reichs einschließlich der Außenstellen12.Reichsschuldenverwaltung13.Statistisches Reichsamt14.Reichsversicherungsamt15.Reichsaufsichtsamt für Privatversicherung16.Reichspatentamt17.Reichsentschädigungsamt18.Reichsausgleichsamt19.Reichsgesundheitsamt einschließlich der Reichsanstalten für Wasser- und Luftgüte, für Lebensmittel- und Arzneimittelchemie und für Vitaminprüfung und Vitaminforschung20.Reichsverpflegungsamt21.Reichswanderungsamt22.Reichsarchiv23.Deutsche Seewarte24.Reichsanstalt für Landesaufnahme25.Reichsamt für Bodenforschung26.Chemisch-Technische Reichsanstalt27.Physikalisch-Technische Reichsanstalt (einschließlich der früheren Reichsanstalt für Maße und Gewichte)28.Biologische Reichsanstalt für Land- und Forstwirtschaft29.Zentralinstitut für Holz- und Forstwirtschaft30.Reichstreuhänder der Arbeit31.Betriebskrankenkasse des Reichs32.Reichsausführungsbehörden für Unfallversicherung33.Staatliche Ausführungsbehörde der Ostgebiete34.Elsaß-lothringische Dienststellen, soweit Versorgungslasten dem Reich oblagen35.Reichskolonialverwaltung, soweit nicht Nr. 2 in Betracht kommt36.Heeres-, Marine- und Luftfahrtverwaltung, soweit nicht Nr. 2 in Betracht kommt37.Heeres- und Marinebetriebe38.Zentralnachweisamt für Kriegsverluste und Kriegsgräber39.Propagandaämter40.Reichsdruckerei41.Kriegsmarineabwicklungsstelle KielII.Ehemalige Zonenbehörden(§§ 4 und 5 des Gesetzes)42.Zonenbeirat für die britische Zone43.Zentralhaushaltsamt für die britische Zone44.Zentralamt für Arbeit in der britischen Zone45.Zentralamt für Ernährung und Landwirtschaft in der britischen Zone46.Zentralschuldenverwaltung in der britischen Zone47.Statistisches Amt für die britische Zone48.Deutsche Planungsbehörde für Registrierung und Bestandsaufnahme der Bevölkerung49.Zonalhauptkasse50.Rechnungshof des Deutschen Reichs (Britische Zone)51.Rechnungshof für Sonderaufgaben52.Oberster Gerichtshof für die britische Zone53.Generaldirektion für Binnenwasserstraßen und Binnenschiffahrt des britischen Kontrollgebietes54.Seehäfen-Generaldirektion für das britische Kontrollgebiet55.Wasserstraßen-Generaldirektion für die amerikanische Besatzungszone56.Kriegsschädenamt für die Seeschiffahrt57.Oberseeamt für die britische Zone58.Kriminalpolizeiamt59.Aufsichtsamt für das Versicherungswesen in der britischen Zone
+1. Deutscher Reichstag
+
+2. Die Reichsministerien mit Ausnahme des Reichsministeriums der Justiz, des Reichsministeriums für Wissenschaft, Erziehung und Volksbildung und des Reichsministeriums für kirchliche Angelegenheiten
+
+3. Die übrigen obersten Reichsbehörden mit Ausnahme der Reichsbank
+
+4. Die obersten Gerichtshöfe und Anwaltschaften des Reichs
+
+5. Der Regierungskommissar für das Saargebiet, die für die besetzten Gebiete bestellten Reichskommissare und Chefs der Zivilverwaltung und die Regierung des Generalgouvernements
+
+6. Der Reichskommissar für die Rückgliederung des Saargebiets
+
+7. Der Reichskommissar für das Wohnungswesen
+
+8. Der Reichskommissar für die Preisbildung
+
+9. Der Reichskommissar für die Ein- und Ausfuhrbewilligung
+
+10. Der Reichskommissar für Reparationsleistungen
+
+11. Rechnungshof des Deutschen Reichs einschließlich der Außenstellen
+
+12. Reichsschuldenverwaltung
+
+13. Statistisches Reichsamt
+
+14. Reichsversicherungsamt
+
+15. Reichsaufsichtsamt für Privatversicherung
+
+16. Reichspatentamt
+
+17. Reichsentschädigungsamt
+
+18. Reichsausgleichsamt
+
+19. Reichsgesundheitsamt einschließlich der Reichsanstalten für Wasser- und Luftgüte, für Lebensmittel- und Arzneimittelchemie und für Vitaminprüfung und Vitaminforschung
+
+20. Reichsverpflegungsamt
+
+21. Reichswanderungsamt
+
+22. Reichsarchiv
+
+23. Deutsche Seewarte
+
+24. Reichsanstalt für Landesaufnahme
+
+25. Reichsamt für Bodenforschung
+
+26. Chemisch-Technische Reichsanstalt
+
+27. Physikalisch-Technische Reichsanstalt (einschließlich der früheren Reichsanstalt für Maße und Gewichte)
+
+28. Biologische Reichsanstalt für Land- und Forstwirtschaft
+
+29. Zentralinstitut für Holz- und Forstwirtschaft
+
+30. Reichstreuhänder der Arbeit
+
+31. Betriebskrankenkasse des Reichs
+
+32. Reichsausführungsbehörden für Unfallversicherung
+
+33. Staatliche Ausführungsbehörde der Ostgebiete
+
+34. Elsaß-lothringische Dienststellen, soweit Versorgungslasten dem Reich oblagen
+
+35. Reichskolonialverwaltung, soweit nicht Nr. 2 in Betracht kommt
+
+36. Heeres-, Marine- und Luftfahrtverwaltung, soweit nicht Nr. 2 in Betracht kommt
+
+37. Heeres- und Marinebetriebe
+
+38. Zentralnachweisamt für Kriegsverluste und Kriegsgräber
+
+39. Propagandaämter
+
+40. Reichsdruckerei
+
+41. Kriegsmarineabwicklungsstelle Kiel

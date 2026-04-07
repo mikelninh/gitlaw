@@ -12,7 +12,9 @@ Auf Grund des § 3 Abs. 8 des THW-Helferrechtsgesetzes vom 22. Januar 1990 (BGBl
 
 ### § 1 — Anwendungsbereich
 
-(1) Diese Verordnung regelt die Unfallfürsorge für Angestellte und Arbeiter der Bundesanstalt Technisches Hilfswerk (hauptamtliche Angehörige) und ehrenamtliche Helfer im Sinne des § 2 Abs. 1 des THW-Helferrechtsgesetzes (Helfer) bei Erkrankungen und Unfällen im Ausland.(2) Die Gewährung von Unfallfürsorge auf Grund anderer Bestimmungen bleibt unberührt.
+(1) Diese Verordnung regelt die Unfallfürsorge für Angestellte und Arbeiter der Bundesanstalt Technisches Hilfswerk (hauptamtliche Angehörige) und ehrenamtliche Helfer im Sinne des § 2 Abs. 1 des THW-Helferrechtsgesetzes (Helfer) bei Erkrankungen und Unfällen im Ausland.
+
+(2) Die Gewährung von Unfallfürsorge auf Grund anderer Bestimmungen bleibt unberührt.
 
 ### § 2 — Erkrankungen und Unfälle im Ausland
 
@@ -24,7 +26,9 @@ Die Unfallfürsorge ist ausgeschlossen, wenn sich der hauptamtliche Angehörige 
 
 ### § 4 — Anrechnung anderer Leistungen
 
-(1) Auf laufende und einmalige Geldleistungen, die im Rahmen der Unfallfürsorge wegen eines Körper-, Sach- oder Vermögensschadens gewährt werden, sind solche Geldleistungen anzurechnen, die wegen desselben Schadens von anderer Seite erbracht werden. Hierzu gehören insbesondere Geldleistungen, die von Drittstaaten oder von zwischenstaatlichen oder überstaatlichen Einrichtungen gewährt oder veranlaßt werden.(2) Die Leistungen der gesetzlichen Unfall- und Krankenversicherung und der privaten Krankenversicherung, zu der der Arbeitgeber einen Beitragszuschuß nach § 257 des Fünften Buches Sozialgesetzbuch - Gesetzliche Krankenversicherung - gewährt, sind in voller Höhe zu berücksichtigen. Geldleistungen auf Grund privater Versicherungsverhältnisse, die allein auf Beiträgen des Versicherten beruhen, werden nicht angerechnet.
+(1) Auf laufende und einmalige Geldleistungen, die im Rahmen der Unfallfürsorge wegen eines Körper-, Sach- oder Vermögensschadens gewährt werden, sind solche Geldleistungen anzurechnen, die wegen desselben Schadens von anderer Seite erbracht werden. Hierzu gehören insbesondere Geldleistungen, die von Drittstaaten oder von zwischenstaatlichen oder überstaatlichen Einrichtungen gewährt oder veranlaßt werden.
+
+(2) Die Leistungen der gesetzlichen Unfall- und Krankenversicherung und der privaten Krankenversicherung, zu der der Arbeitgeber einen Beitragszuschuß nach § 257 des Fünften Buches Sozialgesetzbuch - Gesetzliche Krankenversicherung - gewährt, sind in voller Höhe zu berücksichtigen. Geldleistungen auf Grund privater Versicherungsverhältnisse, die allein auf Beiträgen des Versicherten beruhen, werden nicht angerechnet.
 
 ### § 5 — Inkrafttreten
 

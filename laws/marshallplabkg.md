@@ -14,7 +14,9 @@ Dem am 15. Dezember 1949 in Bonn unterzeichneten Abkommen über Wirtschaftliche 
 
 ### Art II
 
-(1) Das Abkommen wird nachstehend mit Gesetzeskraft veröffentlicht.(2)
+(1) Das Abkommen wird nachstehend mit Gesetzeskraft veröffentlicht.
+
+(2)
 
 ### Art III
 

@@ -7,7 +7,15 @@
 
 ### Art 1 — Rechtsfähigkeit des Rates des Anpassungsfonds
 
-(1) Der Rat des Anpassungsfonds, das durch die Vertragsstaatenkonferenz des Protokolls von Kyoto vom 11. Dezember 1997 zum Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen (BGBl. 2002 II S. 966, 967) eingerichtete Steuerungsorgan des Anpassungsfonds, besitzt in der Bundesrepublik Deutschland die Rechtsfähigkeit, a)Verträge zu schließen,b)bewegliches und unbewegliches Vermögen zu erwerben und zu veräußern,c)vor Gericht zu stehen.(2) Für die Zwecke dieses Artikels wird der Rat des Anpassungsfonds durch seinen Vorsitzenden und dessen Stellvertreter vertreten.
+(1) Der Rat des Anpassungsfonds, das durch die Vertragsstaatenkonferenz des Protokolls von Kyoto vom 11. Dezember 1997 zum Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen (BGBl. 2002 II S. 966, 967) eingerichtete Steuerungsorgan des Anpassungsfonds, besitzt in der Bundesrepublik Deutschland die Rechtsfähigkeit,
+
+a) Verträge zu schließen,
+
+b) bewegliches und unbewegliches Vermögen zu erwerben und zu veräußern,
+
+c) vor Gericht zu stehen.
+
+(2) Für die Zwecke dieses Artikels wird der Rat des Anpassungsfonds durch seinen Vorsitzenden und dessen Stellvertreter vertreten.
 
 ### Art 2 — Gelder, Guthaben und sonstige Vermögenswerte des Rates des Anpassungsfonds
 

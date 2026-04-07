@@ -17,11 +17,11 @@ Grundstückseigentümer und Nutzer können von dem jeweils anderen Teil die Anna
 
 (1) Der Zinssatz beträgt jährlich vier vom Hundert des ungeteilten Bodenwerts eines entsprechenden unbebauten Grundstücks. Jeder Beteiligte kann verlangen, daß der Erbbauzins nach einem anderen Zinssatz berechnet wird, wenn der für die Nutzung übliche Zinssatz mehr oder weniger als vier vom Hundert jährlich beträgt. Der Bodenwert des Grundstücks ist nach § 19 des Sachenrechtsbereinigungsgesetzes zu ermitteln.
 
-(2) Der Erbbauzins ist vierteljährlich nachträglich am 31. März, 30. Juni, 30. September und 31. Dezember eines Jahres zu zahlen. Die Zahlungspflicht beginnt mit § 44 Abs. 2 Satz 2 und 3 des Sachenrechtsbereinigungsgesetzes ist entsprechend anzuwenden.
+(2) Der Erbbauzins ist vierteljährlich nachträglich am 31. März, 30. Juni, 30. September und 31. Dezember eines Jahres zu zahlen. Die Zahlungspflicht beginnt mit
 
-1.
+1. der Ladung des Nutzers zum Termin im notariellen Vermittlungsverfahren, wenn der Grundstückseigentümer dessen Durchführung beantragt hat oder sich auf eine Verhandlung über den Inhalt des Erbbaurechts einläßt, oder
 
-2.
+2. einem § 2 entsprechenden Verlangen des Grundstückseigentümers oder mit der Annahme eines entsprechenden Angebots des Nutzers.
 
 ### § 4 — Zinsanpassungen
 
@@ -29,13 +29,13 @@ Nutzer und Grundstückseigentümer sind verpflichtet, in den Erbbaurechtsvertrag
 
 ### § 5 — Ermäßigung des Erbbauzinses
 
-Der vom Nutzer zu entrichtende Erbbauzins ermäßigt sich des sich aus § 3 Abs. 1 ergebenden Erbbauzinses (Eingangsphase). Die Eingangsphase beginnt mit dem Eintritt der Zahlungspflicht nach diesem Gesetz, spätestens am 1. Juli 1995.
+Der vom Nutzer zu entrichtende Erbbauzins ermäßigt sich
 
-1.
+1. in den ersten zwei Jahren auf ein Viertel,
 
-2.
+2. in den folgenden zwei Jahren auf die Hälfte und
 
-3.
+3. in den darauf folgenden zwei Jahren auf drei Viertel
 
 ### § 6 — Dauer des Erbbaurechts
 

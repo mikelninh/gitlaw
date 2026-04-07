@@ -19,15 +19,31 @@ Für die Entstehung der Gebühren- und Auslagenschuld ist § 4 des Bundesgebühr
 
 ### § 3 — Gebührenschuldner
 
-(1) Zur Zahlung der Gebühren und zur Erstattung der Auslagen ist verpflichtet, 1.der Antragsteller,2.der Nutzer der Schnittstelle nach der Zulassung,3.derjenige, der die Gebührenschuld eines anderen übernommen hat oder4.derjenige, der für die Gebührenschuld eines anderen kraft Gesetzes haftet.(2) Mehrere Gebührenschuldner haften als Gesamtschuldner.
+(1) Zur Zahlung der Gebühren und zur Erstattung der Auslagen ist verpflichtet,
+
+1.
+
+2.
+
+3.
+
+4.
+
+(2) Mehrere Gebührenschuldner haften als Gesamtschuldner.
 
 ### § 4 — Fälligkeit und Säumniszuschlag
 
-(1) Die Gebühren und Auslagen werden 28 Tage nach Zugang des Bescheids über die Festsetzung fällig, soweit die Fälligkeit nicht abweichend bestimmt wird.(2) Werden Gebühren und Auslagen nicht bis zum Ablauf des Fälligkeitstags entrichtet, so ist für jeden angefangenen Monat der Säumnis ein Säumniszuschlag von einem Prozent des festgesetzten Gebühren- oder Auslagenbetrags zu entrichten. Der Säumniszuschlag wird nur erhoben, wenn der rückständige Betrag fünf Euro übersteigt. Eine wirksam geleistete Gebühr gilt als entrichtet und eine Auslage gilt als erstattet an dem Tag, an dem der festgesetzte Betrag dem dem Gebührenschuldner mitgeteilten Konto der Kassenärztlichen Bundesvereinigung gutgeschrieben wird.(3) In den Fällen der Gesamtschuld entstehen Säumniszuschläge gegenüber jedem säumigen Gesamtschuldner. Insgesamt ist jedoch kein höherer Säumniszuschlag zu entrichten, als verwirkt worden wäre, wenn die Säumnis nur bei einem Gesamtschuldner eingetreten wäre.
+(1) Die Gebühren und Auslagen werden 28 Tage nach Zugang des Bescheids über die Festsetzung fällig, soweit die Fälligkeit nicht abweichend bestimmt wird.
+
+(2) Werden Gebühren und Auslagen nicht bis zum Ablauf des Fälligkeitstags entrichtet, so ist für jeden angefangenen Monat der Säumnis ein Säumniszuschlag von einem Prozent des festgesetzten Gebühren- oder Auslagenbetrags zu entrichten. Der Säumniszuschlag wird nur erhoben, wenn der rückständige Betrag fünf Euro übersteigt. Eine wirksam geleistete Gebühr gilt als entrichtet und eine Auslage gilt als erstattet an dem Tag, an dem der festgesetzte Betrag dem dem Gebührenschuldner mitgeteilten Konto der Kassenärztlichen Bundesvereinigung gutgeschrieben wird.
+
+(3) In den Fällen der Gesamtschuld entstehen Säumniszuschläge gegenüber jedem säumigen Gesamtschuldner. Insgesamt ist jedoch kein höherer Säumniszuschlag zu entrichten, als verwirkt worden wäre, wenn die Säumnis nur bei einem Gesamtschuldner eingetreten wäre.
 
 ### § 5 — Transaktionen
 
-(1) Die Nutzung der Informationen zur Vermittlung von Behandlungsterminen und telemedizinischen Angeboten erfolgt durch die Transaktionen „Suchen“, „Buchen“, „Absagen“ sowie „Vermittlungscode anfordern“ in Form entsprechender Aufrufe der Schnittstelle durch den Nutzer.(2) Die Gebühr für die im Kalendermonat durchgeführten Transaktionen wird nach dem Ende des jeweiligen Kalendermonats festgesetzt.
+(1) Die Nutzung der Informationen zur Vermittlung von Behandlungsterminen und telemedizinischen Angeboten erfolgt durch die Transaktionen „Suchen“, „Buchen“, „Absagen“ sowie „Vermittlungscode anfordern“ in Form entsprechender Aufrufe der Schnittstelle durch den Nutzer.
+
+(2) Die Gebühr für die im Kalendermonat durchgeführten Transaktionen wird nach dem Ende des jeweiligen Kalendermonats festgesetzt.
 
 ### § 6 — Höhe der Gebühren und Auslagen
 
@@ -50,5 +66,3 @@ Die §§ 18, 19 und 21 des Bundesgebührengesetzes zur Verjährung und zur Ersta
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Anlage
-
-(Fundstelle: BGBl. 2024 I Nr. 291, S. 4)Abschnitt 1Gebühren und Auslagen für das ZertifizierungsverfahrenNummerGebühren- oder AuslagentatbestandGebühren/Auslagen1.1Einrichtung des Zugangs zum Zertifizierungsportal34,00 €1.2Ergebnisprüfung für Neu-, Re- und Erweiterungszertifizierung einschließlich der automatischen Rezertifizierung1 222,10 €1.3Sichtprüfung für Neu-, Re- und Erweiterungszertifizierung (pro Sichtprüfungstermin) einschließlich der automatischen Rezertifizierung681,04 €1.4Entzug der Zulassung4 000,00 €1.5Herstellung von Abschriften und Ausdruckenje DIN A4-Kopie Schwarz/Weiß0,10 €je DIN A3-Kopie Schwarz/Weiß0,15 €je DIN A4-Farbkopie0,50 €je DIN A3-Farbkopie0,75 €1.6Herstellung von Kopien auf sonstigen Datenträgernin voller Höhe1.7Vollständige oder teilweise Zurückweisung eines WiderspruchsBis zur Höhe der für den angefochtenen Verwaltungsakt festgesetzten Gebühr; mindestens 68,00 €, höchstens 350,00 €1.8Aufwand für besondere Verpackung und besondere Beförderungin voller HöheAbschnitt 2Gebühren und Auslagen für die Anbindung des Nutzers der Schnittstelle an den 116117 TerminserviceNummerGebühren- oder AuslagentatbestandGebühren/Auslagen2.1Einrichtung des Zugangs eines Nutzers der Schnittstelle im 116117 Terminservice811,59 €2.2Erstellung des Schlüsselmaterials67,63 €2.3Übergabe des Schlüsselmaterials67,63 €2.4Anbindung und Test nach tatsächlichem Aufwand67,63 € je angefangene Stunde2.5Sperrung des Zugangs135,27 €Abschnitt 3Gebühren und Auslagen für die Nutzung der SchnittstelleNummerGebühren- oder AuslagentatbestandGebühren/Auslagen3.1Transaktion „Suchen“, „Buchen“, „Absagen“ oder „Vermittlungscode anfordern“ nach § 5 Absatz 1Je 0,0385 €

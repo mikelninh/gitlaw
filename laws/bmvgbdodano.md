@@ -23,5 +23,3 @@ Die Disziplinarbefugnisse der obersten Dienstbehörde im Verfahren gegen Ruhesta
 Diese Anordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister der Verteidigung

@@ -16,11 +16,13 @@ Die Tierschutzkommission berät das Bundesministerium für Ernährung und Landwi
 
 ### § 2 — Zusammensetzung
 
-Die Tierschutzkommission besteht aus zwölf Mitgliedern. Ihr gehören an: vier Sachverständige überregionaler Tierschutzverbände, ein Sachverständiger eines überregionalen Tierhalterverbandes, ein Sachverständiger der Deutschen Forschungsgemeinschaft, je ein Wissenschaftler aus dem Bereich der Geisteswissenschaften,der Verhaltenskunde,der Tierhaltung,der biomedizinischen Grundlagenforschung,der Medizin undder Veterinärmedizin.
+Die Tierschutzkommission besteht aus zwölf Mitgliedern. Ihr gehören an: vier Sachverständige überregionaler Tierschutzverbände, ein Sachverständiger eines überregionalen Tierhalterverbandes, ein Sachverständiger der Deutschen Forschungsgemeinschaft, je ein Wissenschaftler aus dem Bereich
 
 ### § 3 — Berufung der Mitglieder
 
-(1) Die Mitglieder werden vom Bundesministerium für vier Jahre berufen. Wiederberufung ist zulässig.(2) Für ein Mitglied, daß vorzeitig ausscheidet, wird ein Ersatzmitglied berufen, dessen Mitgliedschaft zu dem Zeitpunkt endet, an dem die Berufung des ausgeschiedenen Mitglieds nach Absatz 1 Satz 1 geendet hätte.
+(1) Die Mitglieder werden vom Bundesministerium für vier Jahre berufen. Wiederberufung ist zulässig.
+
+(2) Für ein Mitglied, daß vorzeitig ausscheidet, wird ein Ersatzmitglied berufen, dessen Mitgliedschaft zu dem Zeitpunkt endet, an dem die Berufung des ausgeschiedenen Mitglieds nach Absatz 1 Satz 1 geendet hätte.
 
 ### § 4 — Wahl des Vorsitzenden
 
@@ -40,7 +42,9 @@ Die Tierschutzkommission kann zu ihren Beratungen weitere Sachverständige heran
 
 ### § 8 — Ehrenamtliche Tätigkeit
 
-(1) Die Mitglieder üben ihre Tätigkeit ehrenamtlich aus.(2) Die §§ 83 bis 86, 89 bis 93 des Verwaltungsverfahrensgesetzes gelten entsprechend.
+(1) Die Mitglieder üben ihre Tätigkeit ehrenamtlich aus.
+
+(2) Die §§ 83 bis 86, 89 bis 93 des Verwaltungsverfahrensgesetzes gelten entsprechend.
 
 ### § 9 — (weggefallen)
 

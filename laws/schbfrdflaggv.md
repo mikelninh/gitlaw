@@ -17,7 +17,9 @@ Diese Verordnung gilt für Schiffe unter fremder Flagge, die dem Erwerb durch di
 ### § 2 — Mindestbesatzung und ihre Mindestbefähigung
 auf Schiffen unter fremder Flagge
 
-(1) Schiffe unter fremder Flagge müssen mit Kapitänen, Schiffsoffizieren und sonstigen Besatzungsmitgliedern so besetzt sein, daß die Verkehrssicherheit der Schiffe unter Berücksichtigung der derzeitigen oder der unmittelbar bevorstehenden Reise, insbesondere ein sicherer Wachdienst auf der Brücke, im Maschinenraum und im Funkraum, gewährleistet ist.(2) Die Dienste eines Kapitäns, eines Leiters der Maschinenanlage, eines nautischen und technischen Wachoffiziers, eines Funkoffiziers und eines Sprechfunkers sowie eines Schiffsmannes, der Wachdienst auf der Brücke verrichtet, dürfen nur von Personen ausgeübt werden, die ein zur Ausübung dieser Dienste gültiges Befähigungszeugnis besitzen, das mindestens den Vorschriften des Übereinkommens vom 7. Juli 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten (BGBl. 1982 II S. 297) entspricht.
+(1) Schiffe unter fremder Flagge müssen mit Kapitänen, Schiffsoffizieren und sonstigen Besatzungsmitgliedern so besetzt sein, daß die Verkehrssicherheit der Schiffe unter Berücksichtigung der derzeitigen oder der unmittelbar bevorstehenden Reise, insbesondere ein sicherer Wachdienst auf der Brücke, im Maschinenraum und im Funkraum, gewährleistet ist.
+
+(2) Die Dienste eines Kapitäns, eines Leiters der Maschinenanlage, eines nautischen und technischen Wachoffiziers, eines Funkoffiziers und eines Sprechfunkers sowie eines Schiffsmannes, der Wachdienst auf der Brücke verrichtet, dürfen nur von Personen ausgeübt werden, die ein zur Ausübung dieser Dienste gültiges Befähigungszeugnis besitzen, das mindestens den Vorschriften des Übereinkommens vom 7. Juli 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten (BGBl. 1982 II S. 297) entspricht.
 
 ### § 3 — Sicherheit und Gesundheit von Seeleuten auf
 Schiffen unter fremder Flagge
@@ -26,11 +28,21 @@ Schiffe unter fremder Flagge müssen hinsichtlich Sicherheit und Gesundheit der 
 
 ### § 4 — Aufgaben der See-Berufsgenossenschaft
 
-(1) Die See-Berufsgenossenschaft überwacht die Einhaltung der §§ 2 und 3 nach Maßgabe des § 6 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt und führt die hierzu erforderlichen Kontrollen durch. Hierbei bedient sie sich der Wasserschutzpolizei der Länder nach Maßgabe der Vereinbarungen zwischen dem Bund und den Ländern über die Ausübung der schiffahrtpolizeilichen Vollzugsaufgaben (§ 20 Abs. 1 Nr. 5 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt) sowie der Bundespolizei und der Zollverwaltung.(2) Stellt die See-Berufsgenossenschaft fest, daß ein Schiff unter fremder Flagge den §§ 2 oder 3 nicht entspricht und dadurch die Sicherheit des Schiffes oder die Sicherheit oder Gesundheit der Seeleute gefährdet ist, trifft sie die notwendigen Anordnungen. Zur Abwehr der Gefahren kann die See-Berufsgenossenschaft auch anordnen, daß das Auslaufen oder die Weiterfahrt verboten oder von der Erfüllung bestimmter Voraussetzungen abhängig ist.
+(1) Die See-Berufsgenossenschaft überwacht die Einhaltung der §§ 2 und 3 nach Maßgabe des § 6 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt und führt die hierzu erforderlichen Kontrollen durch. Hierbei bedient sie sich der Wasserschutzpolizei der Länder nach Maßgabe der Vereinbarungen zwischen dem Bund und den Ländern über die Ausübung der schiffahrtpolizeilichen Vollzugsaufgaben (§ 20 Abs. 1 Nr. 5 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt) sowie der Bundespolizei und der Zollverwaltung.
+
+(2) Stellt die See-Berufsgenossenschaft fest, daß ein Schiff unter fremder Flagge den §§ 2 oder 3 nicht entspricht und dadurch die Sicherheit des Schiffes oder die Sicherheit oder Gesundheit der Seeleute gefährdet ist, trifft sie die notwendigen Anordnungen. Zur Abwehr der Gefahren kann die See-Berufsgenossenschaft auch anordnen, daß das Auslaufen oder die Weiterfahrt verboten oder von der Erfüllung bestimmter Voraussetzungen abhängig ist.
 
 ### § 5 — Unterrichtung über Mängel und Maßnahmen
 
-Über Mängel nach den §§ 2 oder 3 sowie über Anordnungen unterrichtet die See-Berufsgenossenschaft unverzüglich 1.den Kapitän des Schiffes,2.den nächst erreichbaren für Seeschiffahrtsfragen zuständigen konsularischen, diplomatischen oder sonstigen Vertreter des Flaggenstaates,3.die zuständige Hafenbehörde und4.das Bundesministerium für Verkehr und digitale Infrastruktur.
+Über Mängel nach den §§ 2 oder 3 sowie über Anordnungen unterrichtet die See-Berufsgenossenschaft unverzüglich
+
+1. den Kapitän des Schiffes,
+
+2. den nächst erreichbaren für Seeschiffahrtsfragen zuständigen konsularischen, diplomatischen oder sonstigen Vertreter des Flaggenstaates,
+
+3. die zuständige Hafenbehörde und
+
+4. das Bundesministerium für Verkehr und digitale Infrastruktur.
 
 ### § 6 — Verantwortlichkeit
 
@@ -38,7 +50,9 @@ Der Eigentümer, der Besitzer und der Schiffsführer eines Schiffes unter fremde
 
 ### § 7 — Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach § 4 Abs. 2 Satz 2 zuwiderhandelt.(2) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach Absatz 1 wird auf die See-Berufsgenossenschaft übertragen.
+(1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach § 4 Abs. 2 Satz 2 zuwiderhandelt.
+
+(2) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach Absatz 1 wird auf die See-Berufsgenossenschaft übertragen.
 
 ### § 8
 
@@ -53,5 +67,3 @@ Der Eigentümer, der Besitzer und der Schiffsführer eines Schiffes unter fremde
 Diese Verordnung tritt am 28. November 1981 in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Verkehr Der Bundesminister für Arbeit und Sozialordnung

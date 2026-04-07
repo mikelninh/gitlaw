@@ -14,13 +14,13 @@ Das Gesetz dient dem Schutz des Kulturgutes Buch. Die Festsetzung verbindlicher 
 
 (1) Bücher im Sinne dieses Gesetzes sind auch
 
-1.
+1. Musiknoten,
 
-2.
+2. kartographische Produkte,
 
-3.
+3. Produkte, die Bücher, Musiknoten oder kartographische Produkte reproduzieren oder substituieren, wie zum Beispiel zum dauerhaften Zugriff angebotene elektronische Bücher, und bei Würdigung der Gesamtumstände als überwiegend verlags- oder buchhandelstypisch anzusehen sind sowie
 
-4.
+4. kombinierte Objekte, bei denen eines der genannten Erzeugnisse die Hauptsache bildet.
 
 (2) Fremdsprachige Bücher fallen nur dann unter dieses Gesetz, wenn sie überwiegend für den Absatz in Deutschland bestimmt sind.
 
@@ -42,17 +42,17 @@ Wer gewerbs- oder geschäftsmäßig Bücher an Letztabnehmer in Deutschland verk
 
 (4) Verleger oder Importeure können folgende Endpreise festsetzen:
 
-1.
+1. Serienpreise,
 
-2.
+2. Mengenpreise,
 
-3.
+3. Subskriptionspreise,
 
-4.
+4. Sonderpreise für Institutionen, die bei der Herausgabe einzelner bestimmter Verlagswerke vertraglich in einer für das Zustandekommen des Werkes ausschlaggebenden Weise mitgewirkt haben,
 
-5.
+5. Sonderpreise für Abonnenten einer Zeitschrift beim Bezug eines Buches, das die Redaktion dieser Zeitschrift verfasst oder herausgegeben hat, und
 
-6.
+6. Teilzahlungszuschläge.
 
 (5) Die Festsetzung unterschiedlicher Endpreise für einen bestimmten Titel durch einen Verleger oder Importeur oder deren Lizenznehmer ist zulässig, wenn dies sachlich gerechtfertigt ist.
 
@@ -68,30 +68,27 @@ Wer gewerbs- oder geschäftsmäßig Bücher an Letztabnehmer in Deutschland verk
 
 (1) § 3 gilt nicht beim Verkauf von Büchern
 
-1.
+1. an Verleger oder Importeure von Büchern, Buchhändler oder deren Angestellte und feste Mitarbeiter für deren Eigenbedarf,
 
-2.
+2. an Autoren selbständiger Publikationen eines Verlages für deren Eigenbedarf,
 
-3.
+3. an Lehrer zum Zwecke der Prüfung einer Verwendung im Unterricht,
 
-4.
+4. die auf Grund einer Beschädigung oder eines sonstigen Fehlers als Mängelexemplare gekennzeichnet sind,
 
-5.
+5. im Rahmen eines auf einen Zeitraum von 30 Tagen begrenzten Räumungsverkaufs anlässlich der endgültigen Schließung einer Buchhandlung, sofern die Bücher aus den gewöhnlichen Beständen des schließenden Unternehmens stammen und den Lieferanten zuvor mit angemessener Frist zur Rücknahme angeboten wurden.
 
 (2) Beim Verkauf von Büchern können wissenschaftlichen Bibliotheken, die jedem auf ihrem Gebiet wissenschaftlich Arbeitenden zugänglich sind, bis zu 5 Prozent, jedermann zugänglichen kommunalen Büchereien, Landesbüchereien und Schülerbüchereien sowie konfessionellen Büchereien und Truppenbüchereien der Bundeswehr und der Bundespolizei bis zu 10 Prozent Nachlass gewährt werden.
 
-(3) Bei Sammelbestellungen von Büchern für den Schulunterricht, die zu Eigentum der öffentlichen Hand, eines Beliehenen oder allgemein bildender Privatschulen, die den Status staatlicher Ersatzschulen besitzen, angeschafft werden, gewähren die Verkäufer folgende Nachlässe: 
-	 Soweit Schulbücher von den Schulen im Rahmen eigener Budgets angeschafft werden, ist stattdessen ein genereller Nachlass von 12 Prozent für alle Sammelbestellungen zu gewähren.
-
 (4) Der Letztverkäufer verletzt seine Pflicht nach § 3 nicht, wenn er anlässlich des Verkaufs eines Buches
 
-1.
+1. Waren von geringem Wert oder Waren, die im Hinblick auf den Wert des gekauften Buches wirtschaftlich nicht ins Gewicht fallen, abgibt,
 
-2.
+2. geringwertige Kosten der Letztabnehmer für den Besuch der Verkaufsstelle übernimmt,
 
-3.
+3. Versand- oder besondere Beschaffungskosten übernimmt oder
 
-4.
+4. andere handelsübliche Nebenleistungen erbringt.
 
 ### § 8 — Dauer der Preisbindung
 
@@ -103,15 +100,15 @@ Wer gewerbs- oder geschäftsmäßig Bücher an Letztabnehmer in Deutschland verk
 
 (1) Wer den Vorschriften dieses Gesetzes zuwiderhandelt, kann auf Unterlassung in Anspruch genommen werden. Wer vorsätzlich oder fahrlässig handelt, ist zum Ersatz des durch die Zuwiderhandlung entstandenen Schadens verpflichtet.
 
-(2) Der Anspruch auf Unterlassung kann nur geltend gemacht werden Die Stellen nach Satz 1 Nr. 4 können den Anspruch auf Unterlassung nur geltend machen, soweit der Anspruch eine Handlung betrifft, durch die wesentliche Belange der Letztabnehmer berührt werden.
+(2) Der Anspruch auf Unterlassung kann nur geltend gemacht werden
 
-1.
+1. von Gewerbetreibenden, die Bücher vertreiben,
 
-2.
+2. von rechtsfähigen Verbänden zur Förderung gewerblicher oder selbstständiger beruflicher Interessen, die in der Liste der qualifizierten Wirtschaftsverbände nach § 8b des Gesetzes gegen den unlauteren Wettbewerb eingetragen sind,
 
-3.
+3. von einem Rechtsanwalt, der von Verlegern, Importeuren oder Unternehmen, die Verkäufe an Letztabnehmer tätigen, gemeinsam als Treuhänder damit beauftragt worden ist, ihre Preisbindung zu betreuen (Preisbindungstreuhänder),
 
-4.
+4. von Stellen nach § 3 Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes.
 
 (3) Für das Verfahren gelten bei den Anspruchsberechtigten nach Absatz 2 Nr. 1 bis 3 die Vorschriften des Gesetzes gegen den unlauteren Wettbewerb und bei Einrichtungen nach Absatz 2 Nr. 4 die Vorschriften des Unterlassungsklagegesetzes.
 

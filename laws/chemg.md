@@ -18,115 +18,97 @@ Zweck des Gesetzes ist es, den Menschen und die Umwelt vor schädlichen Einwirku
 
 (1) Die Vorschriften des Dritten Abschnitts, die §§ 16e, 17 Abs. 1 Nr. 2 Buchstabe a und b und § 23 Abs. 2 gelten nicht für
 
-1.
+1. kosmetische Mittel im Sinne des Artikels 2 Absatz 1 Buchstabe a auch in Verbindung mit Absatz 2 der Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S. 59; L 318 vom 15.11.2012, S. 74; L 72 vom 15.3.2013, S. 16; L 142 vom 29.5.2013, S. 10; L 254 vom 28.8.2014, S. 39; L 17 vom 21.1.2017, S. 52; L 326 vom 9.12.2017, S. 55; L 183 vom 19.7.2018, S. 27; L 324 vom 13.12.2019, S. 80; L 76 vom 12.3.2020, S. 36), die zuletzt durch die Verordnung (EU) 2019/1966 (ABl. L 307 vom 28.11.2019, S. 15) geändert worden ist, und Tabakerzeugnisse und pflanzliche Raucherzeugnisse im Sinne des § 2 Nummer 1 des Tabakerzeugnisgesetzes,
 
-2.
+2. Arzneimittel, die einem Zulassungs- oder Registrierungsverfahren nach dem Arzneimittelgesetz, nach der Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG (ABl. L 4 vom 7.1.2019, S. 43; L 163 vom 20.6.2019, S. 112; L 326 vom 8.10.2020, S. 15; L 241 vom 8.7.2021, S. 17; L 151 vom 2.6.2022, S. 74), die durch die Delegierte Verordnung (EU) 2021/805 (ABl. L 180 vom 21.5.2021, S. 3) geändert worden ist, nach dem Tierarzneimittelgesetz oder nach dem Tiergesundheitsgesetz unterliegen, sowie sonstige Arzneimittel, soweit sie nach § 21 Abs. 2 des Arzneimittelgesetzes einer Zulassung nicht bedürfen oder in einer zur Abgabe an den Verbraucher bestimmten Verpackung abgegeben werden,
 
-2a.
+2a. Medizinprodukte und ihr Zubehör im Sinne von Artikel 2 Nummer 1 und 2 der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom 27.12.2019, S. 165), die durch die Verordnung (EU) 2020/561 (ABl. L 130 vom 24.4.2020, S. 18) geändert worden ist, in der jeweils geltenden Fassung sowie im Sinne von Artikel 2 Nummer 2 und 4 der Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates vom 5. April 2017 über In-vitro-Diagnostika und zur Aufhebung der Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der Kommission (ABl. L 117 vom 5.5.2017, S. 176; L 117 vom 3.5.2019, S. 11; L 334 vom 27.12.2019, S. 167) in der jeweils geltenden Fassung; die Vorschriften des Dritten Abschnitts und § 16e gelten für Medizinprodukte mit Ausnahme von für den Endverbraucher bestimmten Fertigerzeugnissen, die invasiv oder unter Körperberührung angewendet werden,
 
-3.
+3. Abfälle zur Beseitigung im Sinne des § 3 Absatz 1 Satz 2 zweiter Halbsatz des Kreislaufwirtschaftsgesetzes,
 
-4.
+4. radioaktive Abfälle im Sinne des Atomgesetzes,
 
-5.
+5. Abwasser im Sinne des Abwasserabgabengesetzes, soweit es in Gewässer oder Abwasseranlagen eingeleitet wird.
 
-(2) Die Vorschriften des Dritten und Vierten Abschnitts, § 17 Absatz 1 Nummer 2 Buchstabe a und b und § 23 Absatz 2 gelten nicht für Die Vorschriften des Dritten Abschnitts und § 16e gelten jedoch für
+(2) Die Vorschriften des Dritten und Vierten Abschnitts, § 17 Absatz 1 Nummer 2 Buchstabe a und b und § 23 Absatz 2 gelten nicht für
 
-1.
+1. Lebensmittel im Sinne des Artikels 2 der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1), die zuletzt durch die Verordnung (EU) 2019/1381 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist,
 
-2.
+2. Einzelfuttermittel im Sinne des Artikels 3 Absatz 2 Buchstabe g der Verordnung (EG) Nr. 767/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über das Inverkehrbringen und die Verwendung von Futtermitteln, zur Änderung der Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 79/373/EWG des Rates, 80/511/EWG der Kommission, 82/471/EWG des Rates, 83/228/EWG des Rates, 93/74/EWG des Rates, 93/113/EG des Rates und 96/25/EG des Rates und der Entscheidung 2004/217/EG der Kommission (ABl. L 229 vom 1.9.2009, S. 1; L 192 vom 22.7.2011, S. 71; L 296 vom 15.11.2019, S. 64), die zuletzt durch die Verordnung (EU) 2018/1903 (ABl. L 310 vom 6.12.2018, S. 22) geändert worden ist,
 
-3.
+3. Mischfuttermittel im Sinne des Artikels 3 Absatz 2 Buchstabe h der Verordnung (EG) Nr. 767/2009 und
 
-4.
+4. Futtermittelzusatzstoffe im Sinne des Artikels 2 Absatz 2 Buchstabe a der Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des Rates vom 22. September 2003 über Zusatzstoffe zur Verwendung in der Tierernährung (ABl. L 268 vom 18.10.2003, S. 29; L 192 vom 29.5.2004, S. 34; L 98 vom 13.4.2007, S. 29), die zuletzt durch die Verordnung (EU) 2019/1381 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist.
 
-1.
+(3) Die §§ 16d und 23 Abs. 2 gelten nicht für Stoffe und Gemische,
 
-2.
+1. die ausschließlich dazu bestimmt sind, a)als Wirkstoff in zulassungs- oder registrierungspflichtigen Arzneimitteln nach dem Arzneimittelgesetz verwendet zu werden,b)als Wirkstoff in zulassungs- oder registrierungspflichtigen Tierarzneimitteln nach der Verordnung (EU) 2019/6, nach dem Tierarzneimittelgesetz oder nach dem Tiergesundheitsgesetz verwendet zu werden oderc)als Wirkstoff in Medizinprodukten im Sinne von Artikel 2 Nummer 1 der Verordnung (EU) 2017/745 verwendet zu werden oder als Wirkstoff in zulassungs- oder registrierungspflichtigen Arzneimitteln nach dem Arzneimittelgesetz verwendet zu werden, als Wirkstoff in zulassungs- oder registrierungspflichtigen Tierarzneimitteln nach der Verordnung (EU) 2019/6, nach dem Tierarzneimittelgesetz oder nach dem Tiergesundheitsgesetz verwendet zu werden oder als Wirkstoff in Medizinprodukten im Sinne von Artikel 2 Nummer 1 der Verordnung (EU) 2017/745 verwendet zu werden oder
 
-(3) Die §§ 16d und 23 Abs. 2 gelten nicht für Stoffe und Gemische, § 17 Abs. 1 Nr. 1 und 3 gilt nicht für Stoffe und Gemische nach Satz 1 Nr. 2, soweit entsprechende Regelungen aufgrund des Pflanzenschutzgesetzes getroffen werden können.
+2. soweit sie einem Zulassungsverfahren nach pflanzenschutzrechtlichen Regelungen unterliegen.
 
-1.
+(4) Die Vorschriften des Dritten Abschnitts und die §§ 16d, 17 und 23 gelten für das Herstellen, Inverkehrbringen oder Verwenden von Stoffen oder Gemischen nach Anhang I Teil 2 mit Ausnahme der Abschnitte 2.1, 2.8 Typ A und B und des Abschnitts 2.15 Typ A und B der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1; L 16 vom 20.1.2011, S. 1; L 94 vom 10.4.2015, S. 9), die zuletzt durch die Verordnung (EU) 2017/542 (ABl. L 78 vom 23.3.2017, S. 1) geändert worden ist, in ihrer jeweils geltenden Fassung, und § 3a Absatz 1 Nummer 2 sowie von Erzeugnissen, die solche Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, lediglich insoweit, als es gewerbsmäßig, im Rahmen sonstiger wirtschaftlicher Unternehmungen oder unter Beschäftigung von Arbeitnehmern erfolgt. Satz 1 gilt auch für Einrichtungen. Diese Beschränkung gilt nicht für
 
-a)
+1. Regelungen und Anordnungena)über den Verkehr mit Bedarfsgegenständen,b)über die Abfallbeseitigung und Luftreinhaltung, über den Verkehr mit Bedarfsgegenständen, über die Abfallbeseitigung und Luftreinhaltung,
 
-b)
+2. umweltgefährliche Stoffe oder Gemische, wenn Maßnahmen zum Schutz der menschlichen Gesundheit getroffen werden, und
 
-c)
-
-2.
-
-(4) Die Vorschriften des Dritten Abschnitts und die §§ 16d, 17 und 23 gelten für das Herstellen, Inverkehrbringen oder Verwenden von Stoffen oder Gemischen nach Anhang I Teil 2 mit Ausnahme der Abschnitte 2.1, 2.8 Typ A und B und des Abschnitts 2.15 Typ A und B der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1; L 16 vom 20.1.2011, S. 1; L 94 vom 10.4.2015, S. 9), die zuletzt durch die Verordnung (EU) 2017/542 (ABl. L 78 vom 23.3.2017, S. 1) geändert worden ist, in ihrer jeweils geltenden Fassung, und § 3a Absatz 1 Nummer 2 sowie von Erzeugnissen, die solche Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, lediglich insoweit, als es gewerbsmäßig, im Rahmen sonstiger wirtschaftlicher Unternehmungen oder unter Beschäftigung von Arbeitnehmern erfolgt. Satz 1 gilt auch für Einrichtungen. Diese Beschränkung gilt nicht für
-
-1.
-
-a)
-
-b)
-
-2.
-
-3.
+3. Biozid-Wirkstoffe und Biozid-Produkte.
 
 (5) Die Vorschriften des Ersten, Dritten und Vierten Abschnitts, die §§ 17 und 18 sowie die Vorschriften des Siebten und Achten Abschnitts gelten nicht für die Beförderung gefährlicher Güter im Eisenbahn-, Straßen-, Binnenschiffs-, See- und Luftverkehr, ausgenommen die innerbetriebliche Beförderung.
 
 (6) Die Vorschriften des Abschnitts 4a gelten nicht für
 
-1.
+1. Arzneimittel im Sinne des § 2 des Arzneimittelgesetzes,
 
-2.
+2. Tierarzneimittel im Sinne des Artikels 4 Nummer 1 der Verordnung (EU) 2019/6,
 
-3.
+3. Betäubungsmittel im Sinne des § 1 Absatz 1 des Betäubungsmittelgesetzes,
 
-4.
+4. alkoholische Getränke.
 
 ### § 3 — Begriffsbestimmungen
 
-Im Sinne dieses Gesetzes sind Bestimmungen der in Satz 1 aufgeführten Begriffe in Verordnungen der Europäischen Gemeinschaft oder der Europäischen Union (EG- oder EU-Verordnungen) bleiben unberührt.
+Im Sinne dieses Gesetzes sind
 
-1.
+1. Stoff: chemisches Element und seine Verbindungen in natürlicher Form oder gewonnen durch ein Herstellungsverfahren, einschließlich der zur Wahrung seiner Stabilität notwendigen Zusatzstoffe und der durch das angewandte Verfahren bedingten Verunreinigungen, aber mit Ausnahme von Lösungsmitteln, die von dem Stoff ohne Beeinträchtigung seiner Stabilität und ohne Änderung seiner Zusammensetzung abgetrennt werden können;
 
-2.
+2. (weggefallen)
 
-3.
+3. (weggefallen)
 
-3a.
+3a. (weggefallen)
 
-4.
+4. Gemische: Gemische oder Lösungen, die aus zwei oder mehr Stoffen bestehen;
 
-5.
+5. Erzeugnis: Gegenstand, der bei der Herstellung eine spezifische Form, Oberfläche oder Gestalt erhält, die in größerem Maße als die chemische Zusammensetzung seine Funktion bestimmt;
 
-6.
+6. Einstufung: eine Zuordnung zu einem Gefährlichkeitsmerkmal;
 
-7.
+7. Hersteller: eine natürliche oder juristische Person oder eine sonstige Personenvereinigung, die einen Stoff, ein Gemisch oder ein Erzeugnis herstellt oder gewinnt oder eine Einrichtung herstellt;
 
-8.
+8. Einführer: eine natürliche oder juristische Person oder eine sonstige Personenvereinigung, die einen Stoff, ein Gemisch, ein Erzeugnis oder eine Einrichtung in den Geltungsbereich dieses Gesetzes verbringt;
 
-9.
+9. Inverkehrbringen: die Abgabe an Dritte oder die Bereitstellung für Dritte; das Verbringen in den Geltungsbereich dieses Gesetzes gilt als Inverkehrbringen;
 
-10.
+10. Verwenden: Gebrauchen, Verbrauchen, Lagern, Aufbewahren, Be- und Verarbeiten, Abfüllen, Umfüllen, Mischen, Entfernen, Freisetzen, Vernichten und innerbetriebliches Befördern;
 
-11.
+11. Biozid-Produkt: ein Biozidprodukt im Sinne des Artikels 3 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 über die Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten (ABl. L 167 vom 27.6.2012, S. 1) in der jeweils geltenden Fassung;
 
-12.
+12. Biozid-Wirkstoff: Wirkstoff im Sinne des Artikels 3 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 528/2012;
 
-13.
+13. Einrichtung: stationäres oder mobiles technisches System, das gefährliche Stoffe oder Gemische enthält oder zu seinem Funktionieren benötigt, insbesondere Kälte- oder Klimaanlagen, Wärmepumpen, Schaltanlagen oder Brandschutzvorrichtungen, oder in dem gefährliche Stoffe oder Gemische hergestellt oder verwendet werden;
 
-14.
+14. überregionale chemische Bedrohungslage: eine durch Stoffe als solche, in Gemischen oder in Erzeugnissen hervorgerufene, schwerwiegende Gefährdung für die menschliche Gesundheit, bei der das Risiko besteht, dass sich diese überregional oder grenzüberschreitend auswirkt;
 
-15.
+15. Vergiftung: Erkrankung, die durch Stoffe als solche, in Gemischen oder in Erzeugnissen hervorgerufen wird.
 
 ### § 3a — Gefährliche Stoffe und gefährliche Gemische
 
 (1) Gefährliche Stoffe oder gefährliche Gemische im Sinne dieses Gesetzes sind Stoffe oder Gemische, die
 
-1.
+1. die in Anhang I Teil 2 und 3 der Verordnung (EG) Nr. 1272/2008 dargelegten Kriterien für physikalische Gefahren oder Gesundheitsgefahren erfüllen oder
 
-2.
-
-a)
-
-b)
+2. umweltgefährlich sind, indem sie a)die in Anhang I Teil 4 und 5 der Verordnung (EG) Nr. 1272/2008 dargelegten Kriterien für Umweltgefahren und weitere Gefahren erfüllen oderb)selbst oder deren Umwandlungsprodukte sonst geeignet sind, die Beschaffenheit des Naturhaushaltes, von Wasser, Boden oder Luft, Klima, Tieren, Pflanzen oder Mikroorganismen derart zu verändern, dass dadurch sofort oder später Gefahren für die Umwelt herbeigeführt werden können. die in Anhang I Teil 4 und 5 der Verordnung (EG) Nr. 1272/2008 dargelegten Kriterien für Umweltgefahren und weitere Gefahren erfüllen oder selbst oder deren Umwandlungsprodukte sonst geeignet sind, die Beschaffenheit des Naturhaushaltes, von Wasser, Boden oder Luft, Klima, Tieren, Pflanzen oder Mikroorganismen derart zu verändern, dass dadurch sofort oder später Gefahren für die Umwelt herbeigeführt werden können.
 
 (2) Die Bundesregierung wird ermächtigt, soweit unionsrechtlich zulässig durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften über die Festlegung der in Absatz 1 genannten Gefährlichkeitsmerkmale zu erlassen.
 
@@ -138,13 +120,13 @@ b)
 
 (1) Bei der Durchführung der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Chemikalienagentur, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission (ABl. EU Nr. L 396 S. 1, 2007 Nr. L 136 S. 3) in der jeweils geltenden Fassung und bei der Durchführung der Verordnung (EG) Nr. 1272/2008 wirken nach Maßgabe dieses Abschnitts mit:
 
-1.
+1. die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin, die insoweit der Fachaufsicht des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit unterliegt, als Bundesstelle für Chemikalien,
 
-2.
+2. das Umweltbundesamt als Bewertungsstelle Umwelt,
 
-3.
+3. das Bundesinstitut für Risikobewertung, das insoweit der Fachaufsicht des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit unterliegt, als Bewertungsstelle Gesundheit und Verbraucherschutz und
 
-4.
+4. die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin, die insoweit der Fachaufsicht des Bundesministeriums für Arbeit und Soziales unterliegt, als Bewertungsstelle für Sicherheit und Gesundheitsschutz der Beschäftigten.
 
 (2) Die Bundesstelle für Chemikalien beteiligt im Einzelfall weitere Bundesoberbehörden, sofern bei diesen besondere Fachkenntnisse zu Einzelaspekten der Bewertung von Stoffen, Gemischen oder Erzeugnissen zu Zwecken der Verordnung (EG) Nr. 1907/2006 und der Verordnung (EG) Nr. 1272/2008 vorhanden sind und die betreffende Fragestellung von den in Absatz 1 genannten Behörden nicht abschließend beurteilt werden kann.
 
@@ -152,31 +134,31 @@ b)
 
 (1) Bei der Durchführung der Verordnung (EG) Nr. 1907/2006 und der Verordnung (EG) Nr. 1272/2008 gelten insbesondere die folgenden Aufgaben als Mitwirkungsakte nach § 21 Absatz 2 Satz 2, für die die Bundesstelle für Chemikalien zuständig ist:
 
-1.
+1. Stellungnahmen zu Entscheidungsentwürfen der Europäischen Chemikalienagentur nach Artikel 9 Absatz 8 Satz 2 der Verordnung (EG) Nr. 1907/2006,
 
-2.
+2. die Aufgaben der zuständigen Behörde des Mitgliedstaates bei der Bewertung nach Titel VI der Verordnung (EG) Nr. 1907/2006,
 
-3.
+3. die Mitwirkung an der Ermittlung von in Artikel 57 genannten Stoffen nach Artikel 59 Absatz 3 und 5 der Verordnung (EG) Nr. 1907/2006,
 
-4.
+4. die Mitwirkung an der harmonisierten Einstufung und Kennzeichnung nach Artikel 37 Absatz 1, auch in Verbindung mit Absatz 6, der Verordnung (EG) Nr. 1272/2008.
 
 (2) Neben den ihr sonst durch dieses Gesetz übertragenen Aufgaben nimmt die Bundesstelle für Chemikalien bei der Durchführung der Verordnung (EG) Nr. 1907/2006 und der Verordnung (EG) Nr. 1272/2008 ferner die folgenden Aufgaben wahr:
 
-1.
+1. Vorbereitung von Dossiers zur Einleitung von Beschränkungsverfahren nach Artikel 69 Absatz 4 der Verordnung (EG) Nr. 1907/2006,
 
-2.
+2. Vorbereitung von Vorschlägen zur Überprüfung von bestehenden Beschränkungen nach Artikel 69 Absatz 5 Satz 3 der Verordnung (EG) Nr. 1907/2006,
 
-3.
+3. Unterstützung der deutschen Mitglieder in den Ausschüssen und dem Forum der Europäischen Chemikalienagentur in allen von diesen in den Ausschüssen und im Forum zu beurteilenden Fragen,
 
-4.
+4. Zusammenarbeit mit der Europäischen Kommission, der Europäischen Chemikalienagentur und den zuständigen Behörden anderer Mitgliedstaaten nach Artikel 121 und 122 der Verordnung (EG) Nr. 1907/2006 sowie Zusammenarbeit mit den zuständigen Behörden anderer Mitgliedstaaten nach Artikel 43 der Verordnung (EG) Nr. 1272/2008,
 
-5.
+5. Information der Öffentlichkeit nach Artikel 123 der Verordnung (EG) Nr. 1907/2006 über Risiken im Zusammenhang mit Stoffen,
 
-6.
+6. Übermittlung nach Artikel 124 Absatz 1 der Verordnung (EG) Nr. 1907/2006 aller ihr vorliegenden Informationen über registrierte Stoffe, deren Registrierungsdossiers nicht alle Informationen nach Anhang VII der Verordnung (EG) Nr. 1907/2006 enthalten, an die Europäische Chemikalienagentur,
 
-7.
+7. Wahrnehmung der Funktion der nationalen Auskunftsstelle nach Artikel 124 Absatz 2 der Verordnung (EG) Nr. 1907/2006 und der nationalen Auskunftsstelle nach Artikel 44 der Verordnung (EG) Nr. 1272/2008,
 
-8.
+8. Beratung der Bundesregierung in allen die Verordnung (EG) Nr. 1907/2006 und die Verordnung (EG) Nr. 1272/2008 und ihre Fortentwicklung betreffenden Angelegenheiten.
 
 ### § 6 — Aufgaben der Bewertungsstellen
 
@@ -202,29 +184,29 @@ Die Bundesstelle für Chemikalien erhebt für ihre Tätigkeit als nationale Ausk
 
 (1) Die Bundesstelle für Chemikalien informiert die zuständigen Landesbehörden insbesondere über Mitteilungen der Europäischen Chemikalienagentur über
 
-1.
+1. verfahrensorientierte Forschung und Entwicklung nach Artikel 9 Absatz 3 Satz 3 sowie Entscheidungsentwürfe nach Artikel 9 Absatz 8 Satz 1 der Verordnung (EG) Nr. 1907/2006,
 
-2.
+2. als registriert geltende Stoffe nach Artikel 16 Absatz 1 Satz 2 der Verordnung (EG) Nr. 1907/2006,
 
-3.
+3. Registrierungsdossiers nach Artikel 20 Absatz 4 Satz 1, 4 und 5 sowie nach Artikel 22 Absatz 1 Satz 2 und Absatz 2 Satz 2 der Verordnung (EG) Nr. 1907/2006,
 
-4.
+4. die Dossierbewertung nach Artikel 41 Absatz 2, Artikel 42 Absatz 2 Satz 1 und Artikel 43 Absatz 3 und über Folgemaßnahmen der Stoffbewertung nach Artikel 48 Satz 3 der Verordnung (EG) Nr. 1907/2006,
 
-5.
+5. die Prüfung von Zwischenprodukten in anderen Mitgliedstaaten nach Artikel 49 Satz 4 der Verordnung (EG) Nr. 1907/2006,
 
-6.
+6. die Einstellung der Herstellung, Einfuhr oder Produktion nach Artikel 50 Absatz 2 Satz 2 und Absatz 3 Satz 3 der Verordnung (EG) Nr. 1907/2006,
 
-7.
+7. die Ermittlung von in Artikel 57 genannten Stoffen nach Artikel 59 Absatz 2 Satz 3 und Artikel 59 Absatz 3 Satz 1 und 3 und das Zulassungsverfahren nach Artikel 64 Absatz 5 Satz 4 und 7 der Verordnung (EG) Nr. 1907/2006,
 
-8.
+8. das Ergebnis von Anträgen auf Verwendung einer alternativen chemischen Bezeichnung nach Artikel 24 Absatz 5 der Verordnung (EG) Nr. 1272/2008.
 
 (2) Die zuständigen Landesbehörden informieren die Bundesstelle für Chemikalien insbesondere über
 
-1.
+1. Erkenntnisse über die Verwendung von standortinternen isolierten Zwischenprodukten, aus denen sich ein Risiko für die menschliche Gesundheit oder die Umwelt nach Artikel 49 der Verordnung (EG) Nr. 1907/2006 ergeben kann,
 
-2.
+2. im Rahmen von Durchsetzungs- und Überwachungstätigkeiten gewonnene Erkenntnisse im Sinne von Artikel 124 Absatz 1 Satz 1 der Verordnung (EG) Nr. 1907/2006, aus denen sich ein Risikoverdacht ergibt,
 
-3.
+3. die Anordnung vorläufiger Maßnahmen nach § 23 Absatz 2 unter Vorlage der nach Artikel 129 Absatz 1 der Verordnung (EG) Nr. 1907/2006 oder nach Artikel 52 Absatz 1 der Verordnung (EG) Nr. 1272/2008 erforderlichen Unterlagen.
 
 (3) § 22 bleibt unberührt.
 
@@ -248,49 +230,45 @@ Die Bundesstelle für Chemikalien erhebt für ihre Tätigkeit als nationale Ausk
 
 (3) Abweichend von Absatz 1 sind für die Erteilung, Verlängerung, Überprüfung und Aufhebung von Ausnahmezulassungen nach Artikel 55 Absatz 1 der Verordnung (EU) Nr. 528/2012 einschließlich der Veranlassung der darauf bezogenen Kommissionsverfahren die folgenden Behörden zuständig:
 
-1.
+1. das Robert Koch-Institut in Bezug auf Biozid-Produkte, die nach § 18 des Infektionsschutzgesetzes bei behördlich angeordneten Entseuchungen verwendet werden dürfen,
 
-2.
+2. das Umweltbundesamt in Bezug auf Biozid-Produkte, die nach § 18 des Infektionsschutzgesetzes bei behördlich angeordneten Maßnahmen zur Bekämpfung von Gesundheitsschädlingen oder Krätzmilben verwendet werden dürfen,
 
-3.
+3. das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit in Bezug auf Biozid-Produkte, die nach einer Rechtsverordnung auf Grund des § 7 des Tiergesundheitsgesetzes bei einer tiergesundheitsrechtlich vorgeschriebenen Desinfektion, Bekämpfung von Schadnagern oder von sonstigen Schadorganismen oder bei einer sonstigen Entwesung verwendet werden dürfen.
 
 ### § 12b — Aufgaben der Bundesstelle für Chemikalien
 
 (1) Bei der Durchführung der Verordnung (EU) Nr. 528/2012 gelten insbesondere die folgenden Aufgaben als Mitwirkungsakte nach § 21 Absatz 2 Satz 2:
 
-1.
+1. die Aufgaben der bewertenden zuständigen Behörde a)bei der Genehmigung eines Wirkstoffs und bei der Verlängerung und Überprüfung der Genehmigung eines Wirkstoffs nach den Kapiteln II, III und XI der Verordnung (EU) Nr. 528/2012,b)bei der Erteilung und Verlängerung sowie der Aufhebung, Überprüfung und Änderung von Unionszulassungen nach den Kapiteln VIII und IX der Verordnung (EU) Nr. 528/2012, bei der Genehmigung eines Wirkstoffs und bei der Verlängerung und Überprüfung der Genehmigung eines Wirkstoffs nach den Kapiteln II, III und XI der Verordnung (EU) Nr. 528/2012, bei der Erteilung und Verlängerung sowie der Aufhebung, Überprüfung und Änderung von Unionszulassungen nach den Kapiteln VIII und IX der Verordnung (EU) Nr. 528/2012,
 
-a)
+2. die Mitwirkung im Rahmen des Arbeitsprogramms zur systematischen Prüfung aller alten Wirkstoffe gemäß Artikel 89 Absatz 1 der Verordnung (EU) Nr. 528/2012,
 
-b)
-
-2.
-
-3.
+3. die Mitwirkung in der Koordinierungsgruppe nach Artikel 35 und im Ausschuss für Biozidprodukte nach Artikel 75 der Verordnung (EU) Nr. 528/2012.
 
 (2) Neben den ihr sonst durch dieses Gesetz übertragenen Aufgaben nimmt die Bundesstelle für Chemikalien bei der Durchführung der Verordnung (EU) Nr. 528/2012 ferner die folgenden Aufgaben wahr:
 
-1.
+1. die Antragstellung bei der Kommission nach Artikel 3 Absatz 3 und Artikel 15 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr. 528/2012,
 
-2.
+2. die Aufgaben der bewertenden zuständigen Behörde im Rahmen des vereinfachten Zulassungsverfahrens nach Artikel 26, auch in Verbindung mit Kapitel IX, der Verordnung (EU) Nr. 528/2012,
 
-3.
+3. die Entgegennahme der Unterrichtung des Zulassungsinhabers nach Artikel 27 Absatz 1 Satz 2 und Ausübung der Befugnisse des Mitgliedstaats nach Artikel 27 Absatz 2 und Artikel 28 Absatz 4 Unterabsatz 1 der Verordnung (EU) Nr. 528/2012,
 
-4.
+4. die Aufgaben der befassten zuständigen Behörde bei der Erteilung, Verlängerung und Überprüfung nationaler Zulassungen nach Kapitel VI, auch in Verbindung mit Kapitel IX, der Verordnung (EU) Nr. 528/2012,
 
-5.
+5. die Aufgaben der zuständigen Behörde des betroffenen Mitgliedstaats oder des Referenzmitgliedstaats im Verfahren der gegenseitigen Anerkennung nach Kapitel VII, auch in Verbindung mit Kapitel IX, sowie die Ausübung der Befugnisse des Mitgliedstaats nach Artikel 37 der Verordnung (EU) Nr. 528/2012,
 
-6.
+6. die Antragstellung bei der Kommission nach Artikel 44 Absatz 5 Unterabsatz 2 der Verordnung (EU) Nr. 528/2012,
 
-7.
+7. die Aufgaben der zuständigen Behörde des Einfuhrmitgliedstaats in Bezug auf den Parallelhandel nach Kapitel X der Verordnung (EU) Nr. 528/2012,
 
-8.
+8. die Erteilung, Verlängerung, Überprüfung und Aufhebung von Ausnahmezulassungen nach Artikel 55 der Verordnung (EU) Nr. 528/2012 einschließlich der Veranlassung der darauf bezogenen Kommissionsverfahren, soweit nicht die in § 12a Absatz 3 genannten Behörden zuständig sind,
 
-9.
+9. die Aufgaben der zuständigen Behörde des Mitgliedstaats nach Artikel 56 der Verordnung (EU) Nr. 528/2012,
 
-10.
+10. die Beratung der Bundesregierung in allen die Verordnung (EU) Nr. 528/2012 und ihre Fortentwicklung betreffenden Angelegenheiten,
 
-11.
+11. die Ausstellung von Bescheinigungen über die Verkehrsfähigkeit von Biozid-Produkten, sofern eine solche Bescheinigung für die Ausfuhr in Staaten außerhalb der Europäischen Union erforderlich ist.
 
 ### § 12c — Aufgaben der Bewertungsstellen
 
@@ -300,9 +278,9 @@ b)
 
 (3) Fachlicher Zuständigkeitsbereich der Bewertungsstelle Gesundheit und Verbraucherschutz ist
 
-1.
+1. die Risikobewertung in Bezug auf die Gesundheit von Menschen und von Haus- und Nutztieren, einschließlich der Bewertung von Risikominderungsmaßnahmen, sowie
 
-2.
+2. die Erarbeitung von Vorschlägen für die Festsetzung von Höchstmengen nach Artikel 19 Absatz 1 Buchstabe e der Verordnung (EU) Nr. 528/2012.
 
 (4) Fachlicher Zuständigkeitsbereich der Bewertungsstelle für Sicherheit und Gesundheitsschutz der Beschäftigten ist die Risikobewertung in Bezug auf den Arbeitsschutz, einschließlich der Bewertung von Risikominderungsmaßnahmen.
 
@@ -310,25 +288,13 @@ b)
 
 (1) Die Bundesstelle für Chemikalien koordiniert das Zusammenwirken der in § 12a genannten Bundesoberbehörden und wirkt auf die Schlüssigkeit und Widerspruchsfreiheit der Entscheidungen und Stellungnahmen als Ganzes hin.
 
-(2) Soweit die Bundesstelle für Chemikalien im Rahmen ihrer Tätigkeiten nach § 12b das Vorliegen der Zulassungsvoraussetzungen nach Artikel 19 Absatz 1 der Verordnung (EU) Nr. 528/2012 zu beurteilen hat, entscheidet sie hinsichtlich der Voraussetzungen Die Bundesstelle für Chemikalien entscheidet ferner im Einvernehmen mit den Bewertungsstellen, soweit deren Zuständigkeitsbereich nach § 12c Absatz 2 bis 4 betroffen ist, über
+(2) Soweit die Bundesstelle für Chemikalien im Rahmen ihrer Tätigkeiten nach § 12b das Vorliegen der Zulassungsvoraussetzungen nach Artikel 19 Absatz 1 der Verordnung (EU) Nr. 528/2012 zu beurteilen hat, entscheidet sie hinsichtlich der Voraussetzungen
 
-1.
+1. nach Artikel 19 Absatz 1 Buchstabe b Ziffer iv der Verordnung (EU) Nr. 528/2012 im Einvernehmen mit der Bewertungsstelle Umwelt,
 
-2.
+2. nach Artikel 19 Absatz 1 Buchstabe b Ziffer iii der Verordnung (EU) Nr. 528/2012 bezüglich der Wirkungen auf die Gesundheit von Beschäftigten im Einvernehmen mit der Bewertungsstelle für Sicherheit und Gesundheitsschutz der Beschäftigten und
 
-3.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
+3. nach Artikel 19 Absatz 1 Buchstabe b Ziffer iii der Verordnung (EU) Nr. 528/2012 im Übrigen, auch in Verbindung mit Artikel 19 Absatz 1 Buchstabe e der Verordnung (EU) Nr. 528/2012 hinsichtlich eines Vorschlags zur Festsetzung von Rückstandshöchstgehalten für Lebens- oder Futtermittel, im Einvernehmen mit der Bewertungsstelle Gesundheit und Verbraucherschutz.
 
 (3) Mit Ausnahme der in Absatz 4 genannten Fälle vertritt die Bundesstelle für Chemikalien die Gesamtposition nach außen. Sie zieht Vertreter der anderen beteiligten Bundesoberbehörden zur Unterstützung hinzu, sofern sie es für erforderlich hält oder diese es verlangen.
 
@@ -340,11 +306,11 @@ b)
 
 (2) Die Bundesstelle für Chemikalien unterrichtet gemäß Artikel 17 Absatz 5 Unterabsatz 3 der Verordnung (EU) Nr. 528/2012 die Öffentlichkeit über
 
-1.
+1. Nutzen und Risiken des Einsatzes von Biozid-Produkten,
 
-2.
+2. physikalische, biologische, chemische und sonstige Maßnahmen als Alternative zum Einsatz von Biozid-Produkten oder als Möglichkeit, den Einsatz von Biozid-Produkten zu minimieren, sowie
 
-3.
+3. die sachkundige, ordnungsgemäße und nachhaltige Verwendung von Biozid-Produkten.
 
 (3) Die übrigen in § 12a genannten Bundesoberbehörden unterstützen die Bundesstelle für Chemikalien bei der Wahrnehmung der Aufgaben nach den Absätzen 1 und 2.
 
@@ -352,41 +318,19 @@ b)
 
 (1) Die Bundesstelle für Chemikalien informiert die zuständigen Landesbehörden insbesondere über
 
-1.
+1. die folgenden von ihr getroffenen Entscheidungen oder entgegengenommenen Meldungen: a)Meldungen nach Artikel 17 Absatz 6 Satz 1 und Artikel 27 Absatz 1 Satz 2 der Verordnung (EU) Nr. 528/2012,b)Maßnahmen nach Artikel 27 Absatz 2 Unterabsatz 2 der Verordnung (EU) Nr. 528/2012,c)die Erteilung, Verlängerung oder Aufhebung einer nationalen Zulassung nach Kapitel VI der Verordnung (EU) Nr. 528/2012,d)die Anerkennung einer Zulassung nach Kapitel VII der Verordnung (EU) Nr. 528/2012,e)die Erteilung oder Aufhebung einer Parallelhandelsgenehmigung nach Kapitel X der Verordnung (EU) Nr. 528/2012,f)die Erteilung von Ausnahmezulassungen nach Artikel 55 der Verordnung (EU) Nr. 528/2012,g)die Untersagung von Experimenten oder Versuchen oder die Erteilung von Auflagen nach Artikel 56 Absatz 3 der Verordnung (EU) Nr. 528/2012,h)Anordnungen nach § 12g Absatz 1 Satz 1 und Absatz 3, Meldungen nach Artikel 17 Absatz 6 Satz 1 und Artikel 27 Absatz 1 Satz 2 der Verordnung (EU) Nr. 528/2012, Maßnahmen nach Artikel 27 Absatz 2 Unterabsatz 2 der Verordnung (EU) Nr. 528/2012, die Erteilung, Verlängerung oder Aufhebung einer nationalen Zulassung nach Kapitel VI der Verordnung (EU) Nr. 528/2012, die Anerkennung einer Zulassung nach Kapitel VII der Verordnung (EU) Nr. 528/2012, die Erteilung oder Aufhebung einer Parallelhandelsgenehmigung nach Kapitel X der Verordnung (EU) Nr. 528/2012, die Erteilung von Ausnahmezulassungen nach Artikel 55 der Verordnung (EU) Nr. 528/2012, die Untersagung von Experimenten oder Versuchen oder die Erteilung von Auflagen nach Artikel 56 Absatz 3 der Verordnung (EU) Nr. 528/2012, Anordnungen nach § 12g Absatz 1 Satz 1 und Absatz 3,
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-2.
-
-a)
-
-b)
-
-c)
+2. Mitteilungen der Europäischen Chemikalienagentur über die folgenden von dieser oder der Europäischen Kommission getroffenen Entscheidungen oder entgegengenommenen Meldungen: a)die Annahme oder Ablehnung eines Antrags auf Genehmigung oder auf Verlängerung der Genehmigung eines Wirkstoffs sowie das Ergebnis des Genehmigungsverfahrens nach den Kapiteln II und III der Verordnung (EU) Nr. 528/2012,b)die Annahme oder Ablehnung eines Antrags auf Erteilung, Verlängerung oder Aufhebung einer Unionszulassung eines Biozid-Produkts sowie das Ergebnis des Zulassungsverfahrens sowiec)Meldungen nach Artikel 17 Absatz 6 Satz 3 der Verordnung (EU) Nr. 528/2012. die Annahme oder Ablehnung eines Antrags auf Genehmigung oder auf Verlängerung der Genehmigung eines Wirkstoffs sowie das Ergebnis des Genehmigungsverfahrens nach den Kapiteln II und III der Verordnung (EU) Nr. 528/2012, die Annahme oder Ablehnung eines Antrags auf Erteilung, Verlängerung oder Aufhebung einer Unionszulassung eines Biozid-Produkts sowie das Ergebnis des Zulassungsverfahrens sowie Meldungen nach Artikel 17 Absatz 6 Satz 3 der Verordnung (EU) Nr. 528/2012.
 
 (2) Die in § 12a Absatz 3 bezeichneten Bundesoberbehörden unterrichten die zuständigen Landesbehörden über ihre Entscheidungen sowie über Verlängerungsentscheidungen der Kommission nach Artikel 55 Absatz 1 der Verordnung (EU) Nr. 528/2012.
 
 (3) Die zuständigen Landesbehörden informieren die Bundesstelle für Chemikalien insbesondere über
 
-1.
+1. im Rahmen von Durchsetzungs- und Überwachungstätigkeiten gewonnene Erkenntnisse, die für Entscheidungen nach Artikel 27 Absatz 2, Artikel 48 Absatz 1 oder Artikel 56 Absatz 3 der Verordnung (EU) Nr. 528/2012 oder nach § 12g Absatz 1 Satz 1 von Bedeutung sein können,
 
-2.
+2. Überwachungsmaßnahmen nach § 12g Absatz 1 Satz 3,
 
-3.
+3. die Anordnung vorläufiger Maßnahmen nach § 23 Absatz 2 unter Vorlage der Unterlagen, die nach Artikel 88 Unterabsatz 1 Satz 2 der Verordnung (EU) Nr. 528/2012 erforderlich sind.
 
 (4) Die Informationen nach den Absätzen 1 bis 3 umfassen auch die Unterrichtung darüber, ob Rechtsmittel eingelegt wurden und zu welchem Ergebnis sie geführt haben.
 
@@ -402,51 +346,43 @@ c)
 
 ### § 12h — Verordnungsermächtigungen
 
-(1) Die Bundesregierung wird ermächtigt, soweit unionsrechtlich zulässig durch Rechtsverordnung mit Zustimmung des Bundesrates Voraussetzungen, Inhalt und Verfahren der Entscheidungen oder Mitwirkungsakte der in § 12a genannten Bundesoberbehörden im Rahmen der Durchführung der Verordnung (EU) Nr. 528/2012 näher zu regeln, insbesondere zu bestimmen,
+(1) Die Bundesregierung wird ermächtigt, soweit unionsrechtlich zulässig durch Rechtsverordnung mit Zustimmung des Bundesrates Voraussetzungen, Inhalt und Verfahren der Entscheidungen oder Mitwirkungsakte der in § 12a genannten Bundesoberbehörden
 
-1.
+1. dass bestimmte Biozid-Produkte a)nicht zulassungsfähig sind oderb)nur für bestimmte Verwendungszwecke, Verwendungsarten oder Einsatzorte, für die Abgabe an bestimmte Verwendergruppen oder unter bestimmten sonstigen Einschränkungen zugelassen werden dürfen, nicht zulassungsfähig sind oder nur für bestimmte Verwendungszwecke, Verwendungsarten oder Einsatzorte, für die Abgabe an bestimmte Verwendergruppen oder unter bestimmten sonstigen Einschränkungen zugelassen werden dürfen,
 
-a)
+2. dass bestimmte inhaltliche oder verfahrensmäßige Anforderungen einzuhalten sind bei a)der Beantragung und Erteilung von Ausnahmezulassungen nach Artikel 55 der Verordnung (EU) Nr. 528/2012 undb)der Meldung und behördlichen Prüfung von Experimenten und Versuchen nach Artikel 56 der Verordnung (EU) Nr. 528/2012. der Beantragung und Erteilung von Ausnahmezulassungen nach Artikel 55 der Verordnung (EU) Nr. 528/2012 und der Meldung und behördlichen Prüfung von Experimenten und Versuchen nach Artikel 56 der Verordnung (EU) Nr. 528/2012.
 
-b)
+(2) Die Bundesregierung wird ferner ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Maßnahmen zum nachhaltigen Einsatz von Biozid-
 
-2.
+1. dass Geräte, die zur Verwendung von Biozid-Produkten genutzt werden, bestimmten Kontrollverfahren unterliegen,
 
-a)
+2. wie Art und Umfang der Verwendung von Biozid-Produkten wirksam ermittelt werden können; dies kann auch die Einführung von Mitteilungspflichten über in Verkehr gebrachte und verwendete Mengen von Biozid-Produkten und die Festlegung von Rahmenbedingungen für ein bundesweites Monitoring-Programm umfassen,
 
-b)
-
-(2) Die Bundesregierung wird ferner ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Maßnahmen zum nachhaltigen Einsatz von Biozid-Produkten festzulegen, insbesondere zu bestimmen,
-
-1.
-
-2.
-
-3.
+3. dass und in welcher Form Personen, die bei der Behandlung oder Beurteilung akuter und chronischer Vergiftungsfälle von Nicht-Zielorganismen durch Biozid-Produkte hinzugezogen wurden, der Bundesstelle für Chemikalien oder einer anderen geeigneten Bundesoberbehörde derartige Fälle zu melden haben.
 
 ## Abschnitt 2b: Durchführung der Verordnung (EU) Nr. 517/2014
 
 ### § 12i — Ergänzende Pflichten zu Kapitel III der Verordnung (EU) Nr. 2024/573
 
-(1) Es ist verboten, Satz 1 gilt nicht, wenn die betreffenden Handlungen zur Rückgabe oder Entsorgung erfolgen.
+(1) Es ist verboten,
 
-1.
+1. Erzeugnisse und Einrichtungen, die unter Verstoß gegen Artikel 11 Absatz 1 in Verbindung mit Anhang IV der Verordnung (EU) 2024/573 in der Fassung vom 7. Februar 2024 in Verkehr gebracht wurden, zu erwerben oder
 
-2.
+2. Behälter, die dem Verbot nach Artikel 11 Absatz 1 in Verbindung mit Anhang IV Nummer 1 der Verordnung (EU) 2024/573 in der Fassung vom 7. Februar 2024 unterliegen, zu lagern oder zu entleeren.
 
 (2) Wer Erzeugnisse oder Einrichtungen, die einem Verbot nach Artikel 11 Absatz 1 Unterabsatz 1 in Verbindung mit Anhang IV der Verordnung (EU) 2024/573 in der Fassung vom 7. Februar 2024 nicht unterliegen, weil sie bereits vor dem in Anhang IV der Verordnung (EU) 2024/573 genannten Verbotsdatum in Verkehr gebracht wurden, an Dritte abgibt, hat dem Erwerber bei der Lieferung schriftlich oder elektronisch eine Erklärung mit folgenden Angaben zu übermitteln:
 
-1.
+1. Name und Anschrift des Abgebenden,
 
-2.
+2. eine Bestätigung, dass das Erzeugnis oder die Einrichtung bereits vor dem in Anhang IV der Verordnung (EU) 2024/573 in der Fassung vom 7. Februar 2024 genannten Verbotsdatum erstmals in den Verkehr gebracht wurde, und
 
-3.
+3. Identifikationsmerkmale des Erzeugnisses oder der Einrichtung, die eine eindeutige Zuordnung des Erzeugnisses oder der Einrichtung zu der Erklärung ermöglichen.
 
-(3) Absatz 2 gilt nicht, wenn aufgrund der Umstände, insbesondere aufgrund offensichtlich ist, dass das erstmalige Inverkehrbringen vor dem Verbotsdatum erfolgte.
+(3) Absatz 2 gilt nicht, wenn aufgrund der Umstände, insbesondere aufgrund
 
-1.
+1. der Bauart und des Zustandes des Erzeugnisses oder der Einrichtung oder
 
-2.
+2. von Herstellerkennzeichnungen auf dem Erzeugnis oder der Einrichtung,
 
 (4) Die Erklärung nach Absatz 2 ist vom Abgebenden und vom Erwerber für einen Zeitraum von mindestens fünf Jahren nach Übermittlung aufzubewahren.
 
@@ -458,31 +394,25 @@ b)
 
 (2) Wer als Hersteller oder Einführer teilfluorierte Kohlenwasserstoffe gemäß Anhang I Gruppe 1 der Verordnung (EU) 2024/573 in der Fassung vom 7. Februar 2024 an Dritte abgibt, hat bei jeder Lieferung schriftlich oder elektronisch dem Erwerber eine Erklärung mit folgenden Angaben zu übermitteln:
 
-1.
+1. der Name und die Anschrift des Herstellers oder Einführers,
 
-2.
+2. eine Bestätigung, a)dass und für welches Kalenderjahr oder welche Kalenderjahre ihm für die gelieferten Stoffe oder Gemische nach Artikel 17 oder 21 der Verordnung (EU) 2024/573 in der Fassung vom 7. Februar 2024 eine Quote für das Inverkehrbringen zugeteilt oder übertragen wurde,b)dass für die Stoffe oder Gemische eine konkret anzugebende Ausnahme von der Quotenpflicht für das Inverkehrbringen nach Artikel 16 Absatz 2 oder 4 der Verordnung (EU) 2024/573 in der Fassung vom 7. Februar 2024 vorliegt oderc)dass die Stoffe oder Gemische bereits vor dem 1. Januar 2015 in den Verkehr gebracht wurden und dass und für welches Kalenderjahr oder welche Kalenderjahre ihm für die gelieferten Stoffe oder Gemische nach Artikel 17 oder 21 der Verordnung (EU) 2024/573 in der Fassung vom 7. Februar 2024 eine Quote für das Inverkehrbringen zugeteilt oder übertragen wurde, dass für die Stoffe oder Gemische eine konkret anzugebende Ausnahme von der Quotenpflicht für das Inverkehrbringen nach Artikel 16 Absatz 2 oder 4 der Verordnung (EU) 2024/573 in der Fassung vom 7. Februar 2024 vorliegt oder dass die Stoffe oder Gemische bereits vor dem 1. Januar 2015 in den Verkehr gebracht wurden und
 
-a)
-
-b)
-
-c)
-
-3.
+3. Identifikationsmerkmale, die eine eindeutige Zuordnung der Stoffe, Gemische oder ihrer Behälter zu der Erklärung ermöglichen.
 
 (3) Wer teilfluorierte Kohlenwasserstoffe gemäß Anhang I Gruppe 1 der Verordnung (EU) 2024/573 zur Verwendung oder zur Abgabe an Dritte von einem Lieferanten aus einem anderen Mitgliedstaat der Europäischen Union bezieht, ohne von diesem eine Erklärung nach Absatz 2 zu erhalten, hat die in Absatz 2 genannten Angaben zu ermitteln. Bei Abgabe an Dritte hat er bei jeder Lieferung schriftlich oder elektronisch dem Erwerber eine Erklärung zu übermitteln, aus der sich die in Absatz 2 genannten Angaben sowie sein eigener Name und seine eigene Anschrift ergibt. Können Angaben nach Absatz 2 nicht ermittelt werden, gilt Satz 2 mit den folgenden Maßgaben: In der Erklärung
 
-1.
+1. ist für jede nicht ermittelbare Angabe glaubhaft darzulegen, warum diese nicht ermittelt werden konnte;
 
-2.
+2. sind anstelle einer nicht ermittelbaren Angabe nach Absatz 2 Nummer 1 Name und Anschrift des Lieferanten aus dem anderen Mitgliedstaat der Europäischen Union anzugeben.
 
 (4) Bei jeder weiteren Abgabe des Stoffes oder Gemisches in der Lieferkette hat der jeweilige Abgebende die die Lieferung betreffenden Angaben nach Absatz 2 Nummer 2 und 3 oder Absatz 3 sowie seinen eigenen Namen und seine eigene Anschrift schriftlich oder elektronisch dem Erwerber zu übermitteln.
 
 (5) Die Absätze 2 bis 4 gelten nicht für die Abgabe zur Rückgabe oder Entsorgung sowie die Abgabe aufgearbeiteter oder recycelter Stoffe oder Gemische, die mit den Angaben nach Artikel 12 Absatz 7 der Verordnung (EU) 2024/573 gekennzeichnet sind. Für die Abgabe von Gemischen, die aus aufgearbeiteten oder recycelten Stoffen oder Gemischen sowie ungebrauchten Stoffen oder Gemischen bestehen, gelten die Absätze 2 bis 4 mit den folgenden Maßgaben:
 
-1.
+1. für die ungebrauchten Anteile des Gemisches sind die Angaben nach den Absätzen 2 bis 4 zu übermitteln;
 
-2.
+2. für die aufgearbeiteten oder recycelten Anteile des Gemisches genügen die Angaben nach Artikel 12 Absatz 7 der Verordnung (EU) 2024/573.
 
 (6) Die Angaben nach den Absätzen 2 bis 4, jeweils auch in Verbindung mit Absatz 5, sind sowohl vom Abgebenden als auch vom Erwerber für einen Zeitraum von mindestens fünf Jahren nach Übermittlung aufzubewahren.
 
@@ -498,9 +428,9 @@ Es ist verboten, Erzeugnisse und Einrichtungen, die unter Verstoß gegen Artikel
 
 Die Bundesregierung wird ermächtigt, soweit unionsrechtlich zulässig, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
-1.
+1. nähere Regelungen zu Inhalt, Form und Übermittlung der Erklärung und der Angaben nach § 12i Absatz 2 und § 12j Absatz 2 und 3 sowie zur Aufbewahrung nach § 12i Absatz 3 und § 12j Absatz 6 zu treffen,
 
-2.
+2. vorzusehen, dass, von wem und in welcher Form die Angaben nach § 12i Absatz 2 und § 12j Absatz 2 und 3 ganz oder teilweise als Kennzeichnung auf Behältnissen, Erzeugnissen oder Einrichtungen angebracht werden müssen.
 
 ## Dritter Abschnitt: Einstufung, Kennzeichnung und Verpackung
 
@@ -518,27 +448,11 @@ Die Bundesregierung wird ermächtigt, soweit unionsrechtlich zulässig, durch Re
 
 (1) Die Bundesregierung wird ermächtigt, soweit unionsrechtlich zulässig durch Rechtsverordnung mit Zustimmung des Bundesrates
 
-1.
+1. Stoffe oder Gemische als gefährlich einzustufen,
 
-2.
+2. Berechnungsverfahren vorzuschreiben, nach denen bestimmte Gemische aufgrund der Einstufung derjenigen Stoffe, die in dem Gemisch enthalten sind, einzustufen sind,
 
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
+3. zu bestimmen, a)wie gefährliche Stoffe und Gemische und dass und wie bestimmte Erzeugnisse, die bestimmte gefährliche Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, zu verpacken oder zu kennzeichnen sind, damit bei der vorhersehbaren Verwendung Gefahren für Leben und Gesundheit des Menschen und die Umwelt vermieden werden,b)dass und wie bestimmte Angaben über gefährliche Stoffe und Gemische oder Erzeugnisse, die gefährliche Stoffe und Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, einschließlich Empfehlungen über Vorsichtsmaßnahmen beim Verwenden oder über Sofortmaßnahmen bei Unfällen von demjenigen, der die Stoffe, Gemische oder Erzeugnisse in den Verkehr bringt, insbesondere in Form eines Sicherheitsdatenblattes oder einer Gebrauchsanweisung, mitgeliefert und auf dem neuesten Stand gehalten werden müssen,c)welche Gesichtspunkte der Hersteller oder Einführer bei der Einstufung der Stoffe nach § 13 Absatz 2 mindestens zu beachten hat,d)wer die gefährlichen Stoffe, Gemische oder Erzeugnisse zu verpacken und zu kennzeichnen hat, wenn sie bereits vor Inkrafttreten der die Kennzeichnungs- oder Verpackungspflicht begründenden Rechtsverordnung in den Verkehr gebracht worden sind,e)dass und wie bestimmte Gemische und Erzeugnisse, die bestimmte näher zu bezeichnende gefährliche Stoffe nicht enthalten, zu kennzeichnen sind oder gekennzeichnet werden können,f)dass und von wem die Kennzeichnung bestimmter Stoffe, Gemische oder Erzeugnisse nach dem Inverkehrbringen zu erhalten oder erneut anzubringen ist,g)dass andere als die in § 13 Absatz 2 und 3 genannten Personen für die Einstufung, Kennzeichnung und Verpackung verantwortlich sind undh)dass und wie Einrichtungen zu kennzeichnen sind. wie gefährliche Stoffe und Gemische und dass und wie bestimmte Erzeugnisse, die bestimmte gefährliche Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, zu verpacken oder zu kennzeichnen sind, damit bei der vorhersehbaren Verwendung Gefahren für Leben und Gesundheit des Menschen und die Umwelt vermieden werden, dass und wie bestimmte Angaben über gefährliche Stoffe und Gemische oder Erzeugnisse, die gefährliche Stoffe und Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, einschließlich Empfehlungen über Vorsichtsmaßnahmen beim Verwenden oder über Sofortmaßnahmen bei Unfällen von demjenigen, der die Stoffe, Gemische oder Erzeugnisse in den Verkehr bringt, insbesondere in Form eines Sicherheitsdatenblattes oder einer Gebrauchsanweisung, mitgeliefert und auf dem neuesten Stand gehalten werden müssen, welche Gesichtspunkte der Hersteller oder Einführer bei der Einstufung der Stoffe nach § 13 Absatz 2 mindestens zu beachten hat, wer die gefährlichen Stoffe, Gemische oder Erzeugnisse zu verpacken und zu kennzeichnen hat, wenn sie bereits vor Inkrafttreten der die Kennzeichnungs- oder Verpackungspflicht begründenden Rechtsverordnung in den Verkehr gebracht worden sind, dass und wie bestimmte Gemische und Erzeugnisse, die bestimmte näher zu bezeichnende gefährliche Stoffe nicht enthalten, zu kennzeichnen sind oder gekennzeichnet werden können, dass und von wem die Kennzeichnung bestimmter Stoffe, Gemische oder Erzeugnisse nach dem Inverkehrbringen zu erhalten oder erneut anzubringen ist, dass andere als die in § 13 Absatz 2 und 3 genannten Personen für die Einstufung, Kennzeichnung und Verpackung verantwortlich sind und dass und wie Einrichtungen zu kennzeichnen sind.
 
 (2) In der Rechtsverordnung nach Absatz 1 können auch Ausnahmen von der Pflicht zur Verpackung und Kennzeichnung vorgesehen werden, soweit dadurch der Schutzzweck nach Absatz 1 Nummer 3 Buchstabe a nicht beeinträchtigt wird. In der Rechtsverordnung kann auch bestimmt werden, dass anstelle einer Kennzeichnung die entsprechenden Angaben in anderer geeigneter Weise mitzuliefern sind.
 
@@ -560,21 +474,21 @@ h)
 
 ### § 16d — Mitteilungspflichten bei Gemischen
 
-(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zum Zwecke der Ermittlung von Gefahren, die von Gemischen ausgehen können, sowie von Art und Umfang der Verwendung gefährlicher Stoffe in Gemischen den Hersteller, Einführer oder Verwender von bestimmten Gemischen zu verpflichten, der Bundesstelle für Chemikalien innerhalb einer angemessenen Frist schriftlich mitzuteilen, wenn Anhaltspunkte, insbesondere ein nach dem Stand der wissenschaftlichen Erkenntnisse begründeter Verdacht dafür vorliegen, dass von diesen Gemischen schädliche Einwirkungen auf den Menschen oder die Umwelt ausgehen.
+(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zum Zwecke der Ermittlung von Gefahren, die von Gemischen ausgehen können, sowie von Art und Umfang der Verwendung gefährlicher Stoffe in Gemischen den Hersteller, Einführer oder Verwender von bestimmten Gemischen zu verpflichten,
 
-1.
+1. die Bezeichnung dieser Gemische und ihre Handelsnamen,
 
-2.
+2. deren Kennzeichnung,
 
-3.
+3. Angaben über die Zusammensetzung dieser Gemische,
 
-4.
+4. die jährlich hergestellte, eingeführte oder verwendete Menge dieser Gemische,
 
-5.
+5. deren Verwendungsgebiete,
 
-6.
+6. ihm vorliegende oder mit vertretbarem Aufwand beschaffbare Prüfnachweise nach der Verordnung (EG) Nr. 440/2008, soweit sie zur Ermittlung gefährlicher Eigenschaften dieser Gemische erforderlich sind, die sich nicht mit Hilfe der nach diesem Gesetz oder aufgrund dieses Gesetzes vorgeschriebenen Berechnungsverfahren bestimmen lassen, sowie
 
-7.
+7. den Inhalt von Sicherheitsdatenblättern
 
 (2) Die Mitteilungspflicht kann auf bestimmte Angaben über die Zusammensetzung beschränkt, von der hergestellten, eingeführten oder verwendeten Menge abhängig gemacht und auf spätere Änderungen der Zusammensetzung erstreckt werden. In der Rechtsverordnung sind Bestimmungen darüber zu treffen, dass und wie auf Verlangen des Mitteilungspflichtigen die Vertraulichkeit der mitgeteilten Angaben sicherzustellen ist.
 
@@ -584,55 +498,55 @@ h)
 
 (2) Wer als Ärztin oder Arzt zur Behandlung oder zur Beurteilung der Folgen einer Erkrankung hinzugezogen wird, bei der zumindest der Verdacht besteht, dass sie auf Einwirkungen gefährlicher Stoffe, gefährlicher Gemische, von Erzeugnissen, die gefährliche Stoffe oder Gemische freisetzen oder enthalten, oder von Biozid-Produkten zurückgeht, hat dem Bundesinstitut für Risikobewertung den Stoff oder das Gemisch, Alter und Geschlecht des Patienten, den Expositionsweg, die aufgenommene Menge und die festgestellten Symptome mitzuteilen. Die Mitteilung hat hinsichtlich der Person des Patienten in anonymisierter Form zu erfolgen. § 8 Absatz 1 Nummer 1 zweiter Halbsatz des Infektionsschutzgesetzes vom 20. Juli 2000 (BGBl. I S. 1045) gilt entsprechend. Satz 1 gilt nicht, soweit diese Angaben einem Träger der gesetzlichen Unfallversicherung zu übermitteln sind; dieser hat die Angaben nach Satz 1 an das Bundesinstitut für Risikobewertung weiterzuleiten.
 
-(3) Das Bundesinstitut für Risikobewertung übermittelt die in den Mitteilungen nach Anhang VIII der Verordnung (EG) Nr. 1272/2008 enthaltenen Informationen den von den Ländern zu bezeichnenden medizinischen Einrichtungen, die Erkenntnisse über die gesundheitlichen Auswirkungen gefährlicher Stoffe oder gefährlicher Gemische sammeln und auswerten und bei Vergiftungen durch Beratung Hilfe leisten (Informationszentren für Vergiftungen). Die Informationszentren für Vergiftungen berichten dem Bundesinstitut für Risikobewertung In den Berichten müssen Angaben zur Person des Patienten anonymisiert sein.
+(3) Das Bundesinstitut für Risikobewertung übermittelt die in den Mitteilungen nach Anhang VIII der Verordnung (EG) Nr. 1272/2008 enthaltenen Informationen den von den Ländern zu bezeichnenden medizinischen Einrichtungen, die Erkenntnisse über die gesundheitlichen Auswirkungen gefährlicher Stoffe oder gefährlicher Gemische sammeln und auswerten und bei Vergiftungen durch Beratung Hilfe leisten (Informationszentren für Vergiftungen). Die Informationszentren für Vergiftungen berichten dem Bundesinstitut für Risikobewertung
 
-1.
+1. über im Rahmen ihrer Tätigkeit gewonnene Erkenntnisse, die für die Beratung bei Vergiftungen von allgemeiner Bedeutung sind, sowie
 
-2.
+2. auf Anforderung des Bundesinstituts für Risikobewertung über Einzelfälle aufgetretener Vergiftungen oder Vergiftungsverdachtsfälle zur Ermittlung von gesundheitsbezogenen Risiken für die Allgemeinheit.
 
 (3a) Das Bundesinstitut für Risikobewertung stellt den nach § 21 für die Überwachung zuständigen Landesbehörden aus den bei ihm eingegangenen Mitteilungen nach Anhang VIII der Verordnung (EG) Nr. 1272/2008 folgende Informationen zur Verfügung:
 
-1.
+1. die Namen und Kontaktinformationen der Mitteilungspflichtigen,
 
-2.
+2. die Handelsnamen der Gemische und
 
-3.
+3. die eindeutigen Rezepturidentifikatoren der Gemische.
 
-(4) Die in den Mitteilungen nach Anhang VIII der Verordnung (EG) Nr. 1272/2008 enthaltenen Informationen und die Angaben nach Absatz 2 sind vertraulich zu behandeln. Die in den Mitteilungen nach Anhang VIII der Verordnung (EG) Nr. 1272/2008 enthaltenen Informationen dürfen nur verwendet werden, um Die Überwachungsbefugnisse der zuständigen Landesbehörden nach § 21 bleiben unberührt.
+(4) Die in den Mitteilungen nach Anhang VIII der Verordnung (EG) Nr. 1272/2008 enthaltenen Informationen und die Angaben nach Absatz 2 sind vertraulich zu behandeln. Die in den Mitteilungen nach Anhang VIII der Verordnung (EG) Nr. 1272/2008 enthaltenen Informationen dürfen nur verwendet werden, um
 
-1.
+1. Anfragen medizinischen Inhalts mit der Angabe von vorbeugenden und heilenden Maßnahmen, insbesondere in Notfällen, zu beantworten oder
 
-2.
+2. auf Anforderung des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit anhand einer statistischen Analyse den Bedarf an verbesserten Risikomanagementmaßnahmen zu ermitteln.
 
 (5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
-1.
+1. die Pflichten nach Absatz 3 auch auf sonstige Stellen zu erstrecken, deren Aufgabe es ist, Anfragen medizinischen Inhalts mit der Angabe von vorbeugenden und heilenden Maßnahmen zu beantworten,
 
-2.
+2. ergänzende Regelungen zu den Mitteilungspflichten nach Anhang VIII der Verordnung (EG) Nr. 1272/2008 zu treffen, einschließlich der Erstreckung der Mitteilungspflichten auf weitere Gemische oder auf Erzeugnisse, die gefährliche Stoffe oder Gemische vorhersehbar freisetzen können, soweit dies für die Zwecke der gesundheitlichen Notversorgung und der Entwicklung vorbeugender Maßnahmen erforderlich und unionsrechtlich zulässig ist, und
 
-3.
+3. nähere Bestimmungen über die Informationspflichten nach den Absätzen 2 und 3 sowie die vertrauliche Behandlung und die Zweckbindung nach Absatz 4 zu treffen.
 
 ### § 16f — Informationspflicht der Lieferanten
 
-(1) Wer als Lieferant eines Erzeugnisses im Sinne des Artikels 3 Nummer 33 der Verordnung (EG) Nr. 1907/2006 Erzeugnisse im Sinne des Artikels 3 Nummer 3 der Verordnung (EG) Nr. 1907/2006 in Verkehr bringt, hat die folgenden Informationen gemäß Artikel 33 Absatz 1 der Verordnung (EG) Nr. 1907/2006 unverzüglich nach dem Inverkehrbringen der Europäischen Chemikalienagentur für die Datenbank nach Artikel 9 Absatz 2 Satz 1 der Richtlinie 2008/98/EG zur Verfügung zu stellen: Satz 1 gilt nicht für Erzeugnisse mit militärischer Zweckbestimmung.
+(1) Wer als Lieferant eines Erzeugnisses im Sinne des Artikels 3 Nummer 33 der Verordnung (EG) Nr. 1907/2006 Erzeugnisse im Sinne des Artikels 3 Nummer 3 der Verordnung (EG) Nr. 1907/2006 in Verkehr bringt, hat die folgenden Informationen gemäß Artikel 33 Absatz 1 der Verordnung (EG) Nr. 1907/2006 unverzüglich nach dem Inverkehrbringen der Europäischen Chemikalienagentur für die Datenbank nach Artikel 9 Absatz 2 Satz 1 der Richtlinie 2008/98/EG zur Verfügung zu stellen:
 
-1.
+1. den Namen des Stoffes im Sinne von Artikel 33 Absatz 1 der Verordnung (EG) Nr. 1907/2006 und, falls verfügbar, dessen EG-Nummer und CAS-Nummer,
 
-2.
+2. den Konzentrationsbereich des Stoffes im Erzeugnis,
 
-3.
+3. die Material- oder Gemischkategorie,
 
-4.
+4. die Bezeichnung des Erzeugnisses, das den Stoff enthält, oder des komplexen Gegenstandes, in dem ein solches Erzeugnis eingearbeitet ist,
 
-5.
+5. den vom Mitteilungspflichtigen zugewiesenen Erzeugnisidentifikator,
 
-6.
+6. die Erzeugniskategorie,
 
-7.
+7. die Angabe der Komponenten im Falle eines komplexen Gegenstandes,
 
-8.
+8. die Angabe, ob die Herstellung oder Zusammensetzung des Erzeugnisses oder des komplexen Gegenstandes in der Europäischen Union erfolgt ist oder nicht,
 
-9.
+9. die Anweisung zur sicheren Verwendung des Erzeugnisses oder des komplexen Gegenstandes.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates näher zu bestimmen, auf welche Art und Weise und mit welchen Maßgaben die Verpflichtung nach Absatz 1 unter Berücksichtigung der auf Unionsebene entwickelten Vorgaben für die Datenbank zu erfüllen ist.
 
@@ -642,43 +556,31 @@ h)
 
 (1) Beim Bundesinstitut für Risikobewertung wird ein Vergiftungsregister zur bundesweiten Erfassung von Vergiftungen oder Vergiftungsverdachtsfällen eingerichtet. Das Bundesinstitut für Risikobewertung führt das Register zu dem Zweck, einen Überblick über das tatsächliche Vergiftungsgeschehen zu erhalten. Die in dem Register erfassten Informationen dienen dazu,
 
-1.
+1. gesundheitsbezogene Risikofaktoren frühzeitig zu erkennen,
 
-2.
+2. das Erfordernis oder die Wirksamkeit von Risikomanagementmaßnahmen zu überprüfen,
 
-3.
+3. die Beratung durch die Informationszentren für Vergiftungen zu unterstützen und
 
-4.
+4. die Planung und Durchführung von Überwachungsmaßnahmen zu unterstützen.
 
 (2) Das Bundesinstitut für Risikobewertung hat im Zusammenhang mit der Führung des Vergiftungsregisters folgende Aufgaben:
 
-1.
+1. Prüfung, Zusammenführung und Speicherung der Mitteilungen von Ärztinnen und Ärzten sowie Trägern der gesetzlichen Unfallversicherung nach § 16e Absatz 2,
 
-2.
+2. Prüfung, Zusammenführung und Speicherung der durch die Informationszentren für Vergiftungen übermittelten Informationen nach § 16e Absatz 3 Satz 2 und § 16i Absatz 1 Satz 2 Nummer 1 bis 4, 6 bis 8 und Absatz 2,
 
-3.
+3. Auswertung der im Vergiftungsregister gespeicherten Informationen,
 
-4.
+4. Übermittlung der wesentlichen Ergebnisse oder Teilergebnisse der Auswertungen nach Nummer 3 in nicht personenbezogener Form a)an die für die Regulierung der jeweiligen Risiken zuständigen Bundesministerien oder deren anstelle des jeweiligen Bundesministeriums zuständigen nachgeordneten Behörden, soweit sich konkrete Anhaltspunkte für gesundheitsbezogene Risiken beim Umgang mit den betroffenen Stoffen, Gemischen oder Erzeugnissen ergeben, undb)auf Anfrage an ausländische staatliche Stellen, soweit sich konkrete Anhaltspunkte für allgemeine gesundheitsbezogene Risiken beim Umgang mit den betreffenden Stoffen, Gemischen oder Erzeugnissen im Zuständigkeitsbereich dieser ausländischen staatlichen Stellen ergeben, an die für die Regulierung der jeweiligen Risiken zuständigen Bundesministerien oder deren anstelle des jeweiligen Bundesministeriums zuständigen nachgeordneten Behörden, soweit sich konkrete Anhaltspunkte für gesundheitsbezogene Risiken beim Umgang mit den betroffenen Stoffen, Gemischen oder Erzeugnissen ergeben, und auf Anfrage an ausländische staatliche Stellen, soweit sich konkrete Anhaltspunkte für allgemeine gesundheitsbezogene Risiken beim Umgang mit den betreffenden Stoffen, Gemischen oder Erzeugnissen im Zuständigkeitsbereich dieser ausländischen staatlichen Stellen ergeben,
 
-a)
+5. Übermittlung der im Vergiftungsregister gespeicherten Informationen in nicht personenbezogener Form a)an das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz auf Anfrage zur Ermittlung des Bedarfs an verbesserten Risikomanagementmaßnahmen,b)an das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit aa)in allen Fällen von Vergiftungen mit Pflanzenschutzmitteln oder Vergiftungsverdachtsfällen; das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit kann diese Daten an die Pflanzenschutzdienste der Länder weiterleiten, undbb)in allen übrigen Fällen auf Anfrage, sofern die Informationen zur Abwehr von Gefahren im Bereich der Lebensmittelsicherheit, bei kosmetischen Mitteln oder Bedarfsgegenständen benötigt werden, an das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz auf Anfrage zur Ermittlung des Bedarfs an verbesserten Risikomanagementmaßnahmen, an das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit aa)in allen Fällen von Vergiftungen mit Pflanzenschutzmitteln oder Vergiftungsverdachtsfällen; das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit kann diese Daten an die Pflanzenschutzdienste der Länder weiterleiten, undbb)in allen übrigen Fällen auf Anfrage, sofern die Informationen zur Abwehr von Gefahren im Bereich der Lebensmittelsicherheit, bei kosmetischen Mitteln oder Bedarfsgegenständen benötigt werden, in allen Fällen von Vergiftungen mit Pflanzenschutzmitteln oder Vergiftungsverdachtsfällen; das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit kann diese Daten an die Pflanzenschutzdienste der Länder weiterleiten, und in allen übrigen Fällen auf Anfrage, sofern die Informationen zur Abwehr von Gefahren im Bereich der Lebensmittelsicherheit, bei kosmetischen Mitteln oder Bedarfsgegenständen benötigt werden,
 
-b)
+6. Information der Informationszentren für Vergiftungen über die wesentlichen Ergebnisse der Auswertungen nach Nummer 3 und über neu identifizierte Vergiftungsrisiken jeweils in nicht personenbezogener Form sowie Beratung der Informationszentren für Vergiftungen in den Fällen des § 16k in nicht personenbezogener Form,
 
-5.
+7. Information der Öffentlichkeit über besondere Gesundheitsrisiken beim Umgang mit den betreffenden Stoffen, Gemischen oder Erzeugnissen in nicht personenbezogener Form, die sich aus der Auswertung nach Nummer 3 ergeben,
 
-a)
-
-b)
-
-aa)
-
-bb)
-
-6.
-
-7.
-
-8.
+8. Veröffentlichung relevanter Auswertungen und Erkenntnisse nach Nummer 3 in nicht personenbezogener Form anhand von regelmäßigen Berichten über das Vergiftungsgeschehen in Deutschland.
 
 ### § 16h — Beirat
 
@@ -692,55 +594,35 @@ bb)
 
 (1) Die Informationszentren für Vergiftungen dokumentieren alle bei ihnen eingehenden Anfragen zu Vergiftungen und Vergiftungsverdachtsfällen nach Maßgabe der nachfolgenden Vorschriften. Sie sind befugt, zu dem in § 16g Absatz 1 Satz 2 und 3 genannten Zweck folgende Daten zu erheben, zu speichern und zu verwenden:
 
-1.
+1. das Datum und die Uhrzeit der Beratung, bei einer mehrmaligen Beratung das Datum der Erstberatung,
 
-2.
+2. das Datum, die Uhrzeit und den Ort der Exposition unter Angabe der Ortskategorie,
 
-3.
+3. die Information über die medizinische Qualifikation der anfragenden Person,
 
-4.
+4. die Information, ob es sich um eine tatsächliche oder vermutete Exposition eines Menschen oder eines Tieres handelt oder ob es sich um eine präventive Anfrage handelt,
 
-5.
+5. den Namen und die Telefonnummer der betroffenen oder der anfragenden Person,
 
-6.
+6. bei einer tatsächlichen oder vermuteten Exposition von Menschen: a)die Anzahl der betroffenen Personen,b)das Alter und Geschlecht der betroffenen Person oder Personen,c)die vollständige Bezeichnung der die Vergiftung oder den Vergiftungsverdacht auslösenden Stoffe, Gemische oder Erzeugnisse oder der sonstigen Quellen,d)bei einem Gemisch, das unter § 16e Absatz 1 fällt, den eindeutigen Rezepturidentifikator, in den übrigen Fällen die für die Beratung relevanten Inhaltsstoffe,e)die Dosis und die Dauer der Exposition, einschließlich des Sicherheitsgrades der Angabe über die Dosis,f)den Aufnahmeweg oder die Aufnahmewege,g)die Umstände der Exposition, insbesondere, ob es sich um eine bestimmungsgemäße Verwendung, eine nichtbestimmungsgemäße Verwendung, eine Selbst- oder Fremdbeibringung handelt,h)bei einem Biozid-Produkt oder einem Pflanzenschutzmittel, die Angabe, ob die Exposition gegenüber einem Konzentrat oder einer zur Anwendung verdünnten Lösung stattfand,i)den Schweregrad der Vergiftung zum Zeitpunkt der Anfrage sowiej)weitere für die tatsächliche oder vermutete Exposition toxikologisch relevante Informationen, einschließlich der Information, ob relevante Vorerkrankungen bestehen, die Anzahl der betroffenen Personen, das Alter und Geschlecht der betroffenen Person oder Personen, die vollständige Bezeichnung der die Vergiftung oder den Vergiftungsverdacht auslösenden Stoffe, Gemische oder Erzeugnisse oder der sonstigen Quellen, bei einem Gemisch, das unter § 16e Absatz 1 fällt, den eindeutigen Rezepturidentifikator, in den übrigen Fällen die für die Beratung relevanten Inhaltsstoffe, die Dosis und die Dauer der Exposition, einschließlich des Sicherheitsgrades der Angabe über die Dosis, den Aufnahmeweg oder die Aufnahmewege, die Umstände der Exposition, insbesondere, ob es sich um eine bestimmungsgemäße Verwendung, eine nichtbestimmungsgemäße Verwendung, eine Selbst- oder Fremdbeibringung handelt, bei einem Biozid-Produkt oder einem Pflanzenschutzmittel, die Angabe, ob die Exposition gegenüber einem Konzentrat oder einer zur Anwendung verdünnten Lösung stattfand, den Schweregrad der Vergiftung zum Zeitpunkt der Anfrage sowie weitere für die tatsächliche oder vermutete Exposition toxikologisch relevante Informationen, einschließlich der Information, ob relevante Vorerkrankungen bestehen,
 
-a)
+7. bei einer Anfrage, die keine Exposition von Menschen zum Gegenstand hat, die Daten nach Nummer 6 Buchstabe c und g sowie den wesentlichen Inhalt der Anfrage,
 
-b)
+8. den internen Fallidentifikator des Informationszentrums für Vergiftungen.
 
-c)
+(2) Bei Anfragen zu Vergiftungen oder Verdachtsfällen durch Biozid-Produkte oder Pflanzenschutzmittel oder in Fällen von besonderer Relevanz im Hinblick auf den Zweck des Vergiftungsregisters nach § 16g Absatz 1 Satz 2 und 3 ist das angefragte Informationszentrum für Vergiftungen befugt, bei den Anfragenden, sofern erforderlich auch nachträglich, folgende Daten zu erheben, zu speichern und zu verwenden:
 
-d)
+1. die Symptome, ihre Latenzzeit und Dauer,
 
-e)
+2. bei Anfragen von Ärztinnen oder Ärzten die klinischen Zeichen und medizinischen Untersuchungsbefunde, einschließlich des Zeitpunkts ihrer Erhebung,
 
-f)
+3. den Schweregrad der Vergiftung, sofern im Rahmen einer späteren Erhebung Abweichungen von der Angabe nach Absatz 1 Satz 2 Nummer 6 Buchstabe i gegeben sind,
 
-g)
+4. eine Bewertung der Kausalität zwischen der Exposition und den Symptomen,
 
-h)
+5. die Art des Behandlungsortes sowie bei allen nicht nur leichten Vergiftungen die erteilte Behandlungsempfehlung und die durchgeführte Behandlung,
 
-i)
-
-j)
-
-7.
-
-8.
-
-(2) Bei Anfragen zu Vergiftungen oder Verdachtsfällen durch Biozid-Produkte oder Pflanzenschutzmittel oder in Fällen von besonderer Relevanz im Hinblick auf den Zweck des Vergiftungsregisters nach § 16g Absatz 1 Satz 2 und 3 ist das angefragte Informationszentrum für Vergiftungen befugt, bei den Anfragenden, sofern erforderlich auch nachträglich, folgende Daten zu erheben, zu speichern und zu verwenden: Bei Anfragen zu Biozid-Produkten und Pflanzenschutzmitteln, die nicht von besonderer Relevanz für den Zweck des Vergiftungsregisters sind, ist die Befugnis des angefragten Informationszentrums für Vergiftungen nach Satz 1 auf die Daten nach Satz 1 Nummer 1 bis 4 beschränkt.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
+6. bei allen nicht nur leichten Vergiftungen den Fallausgang.
 
 (3) Die Daten nach den Absätzen 1 und 2 sind vertraulich zu behandeln. Das nach Absatz 1 angefragte Informationszentrum für Vergiftungen kann diese Daten für eigene wissenschaftliche Studien und Veröffentlichungen in nicht personenbezogener Form verwenden, soweit nicht der Schutz geistigen Eigentums entgegensteht.
 
@@ -752,23 +634,19 @@ j)
 
 ### § 16j — Datenerhebung, Datenspeicherung, Datenverwendung und Datenübermittlung durch das Bundesinstitut für Risikobewertung
 
-(1) Das Bundesinstitut für Risikobewertung ist befugt, im Vergiftungsregister zu dem in § 16g Absatz 1 Satz 2 und 3 genannten Zweck die folgenden Daten zu erheben, zu speichern und zu verwenden:
+(1) Das Bundesinstitut für Risikobewertung ist befugt, im Vergiftungsregister zu dem in § 16g Absatz 1 Satz 2 und 3 genannten Zweck die folgenden Daten zu erheben, zu speichern und zu verwenden:
 
-1.
+1. Daten, die übermittelt wurden von a)Ärztinnen und Ärzten nach § 16e Absatz 2 Satz 1 oderb)Trägern der gesetzlichen Unfallversicherung nach § 16e Absatz 2 Satz 4 zweiter Halbsatz, Ärztinnen und Ärzten nach § 16e Absatz 2 Satz 1 oder Trägern der gesetzlichen Unfallversicherung nach § 16e Absatz 2 Satz 4 zweiter Halbsatz,
 
-a)
+2. Daten nach § 16e Absatz 3 Satz 2 und § 16i Absatz 1 Satz 2 Nummer 1 bis 4, 6 bis 8 und Absatz 2, die durch die Informationszentren für Vergiftungen übermittelt wurden,
 
-b)
+3. bei einer Vergiftung oder einem Verdachtsfall mit einem Biozid-Produkt oder einem Pflanzenschutzmittel die Zulassungsnummer,
 
-2.
+4. die Produktkategorie sowie
 
-3.
+5. Daten zu Vergiftungen aus öffentlich zugänglichen Quellen.
 
-4.
-
-5.
-
-(2) Das Bundesinstitut für Risikobewertung übermittelt zur Erfüllung seiner Aufgaben nach § 16g Absatz 2 Nummer 4 die wesentlichen Ergebnisse oder Teilergebnisse der Auswertungen nach § 16g Absatz 2 Nummer 3 in nicht personenbezogener Form an die jeweils zuständigen Bundesministerien oder deren anstelle des jeweiligen Bundesministeriums zuständigen nachgeordneten Behörden, soweit sich konkrete Anhaltspunkte für gesundheitsbezogene Risiken beim Umgang mit den betroffenen Stoffen, Gemischen oder Erzeugnissen ergeben. Sofern das Bundesinstitut für Risikobewertung Daten nach § 21 Absatz 7 Satz 1 an die dort genannten Behörden im Wege der Amtshilfe übermittelt, werden nur die wesentlichen Ergebnisse der Auswertungen nach § 16g Absatz 2 Nummer 3 übermittelt. Die Übermittlung erfolgt in nicht personenbezogener Form an eine von den Ländern jeweils zu benennende zentrale Stelle mit Ausnahme der Übermittlung an die Träger der gesetzlichen Unfallversicherung.
+(2) Das Bundesinstitut für Risikobewertung übermittelt zur Erfüllung seiner Aufgaben nach § 16g Absatz 2 Nummer 4 die wesentlichen Ergebnisse oder Teilergebnisse der Auswertungen nach § 16g Absatz 2 Nummer 3 in nicht personenbezogener Form an die jeweils zuständigen Bundesministerien oder deren anstelle des jeweiligen Bundesministeriums zuständigen nachgeordneten Behörden, soweit sich konkrete Anhaltspunkte für gesundheitsbezogene Risiken beim Umgang mit den betroffenen Stoffen, Gemischen oder Erzeugnissen ergeben. Sofern das Bundesinstitut für Risikobewertung Daten nach § 21 Absatz 7 Satz 1 an die dort genannten Behörden im Wege der Amtshilfe übermittelt, werden nur die wesentlichen Ergebnisse der Auswertungen nach § 16g Absatz 2 Nummer 3 übermittelt. Die Übermittlung erfolgt in nicht personenbezogener Form an eine von den Ländern jeweils zu benennende zentrale Stelle mit Ausnahme der Übermittlung an die Träger der gesetzlichen Unfallversicherung.
 
 (3) Das Bundesinstitut für Risikobewertung gewährt einem Informationszentrum für Vergiftungen einen ausschließlich lesenden Zugriff auf die im Vergiftungsregister gespeicherten Daten, soweit dies für das Informationszentrum für Vergiftungen zur Erfüllung seiner Aufgaben nach § 16e Absatz 3, einschließlich der Durchführung eigener klinischer Risikobewertungen für den in § 16g Absatz 1 Satz 3 Nummer 3 genannten Zweck, und der Qualitätssicherung erforderlich ist. Das Informationszentrum für Vergiftungen kann die Daten auch für wissenschaftliche Veröffentlichungen in nicht personenbezogener Form nutzen.
 
@@ -776,7 +654,7 @@ b)
 
 ### § 16k — Überregionale chemische Bedrohungslage
 
-(1) Sofern der Verdacht einer überregionalen chemischen Bedrohungslage besteht, übermitteln die Informationszentren für Vergiftungen die Daten nach § 16i Absatz 1 Satz 2 Nummer 1, 2, 6 und 8 und Absatz 2 Satz 1 Nummer 1 bis 4 in nicht personenbezogener Form unverzüglich an das Bundesinstitut für Risikobewertung.
+(1) Sofern der Verdacht einer überregionalen chemischen Bedrohungslage besteht, übermitteln die Informationszentren für Vergiftungen die Daten nach § 16i Absatz 1 Satz 2 Nummer 1, 2, 6 und 8 und Absatz 2 Satz 1 Nummer 1 bis 4 in nicht personenbezogener Form unverzüglich an das Bundesinstitut für Risikobewertung.
 
 (2) Das Bundesinstitut für Risikobewertung leitet in Fällen einer überregionalen chemischen Bedrohungslage die nach Absatz 1 erhaltenen Daten unverzüglich an das Lagezentrum des Bundesministeriums des Innern und für Heimat, an das Gemeinsame Melde- und Lagezentrum von Bund und Ländern sowie an das Bundesministerium für Gesundheit in nicht personenbezogener Form weiter.
 
@@ -784,11 +662,11 @@ b)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
-1.
+1. ergänzend zu § 16g Absatz 2 weitere Aufgaben des Bundesinstituts für Risikobewertung im Zusammenhang mit der Führung des Vergiftungsregisters festzulegen,
 
-2.
+2. Einzelheiten zu dem elektronischen Format zu regeln, in dem die Informationszentren für Vergiftungen die Daten nach § 16i Absatz 5 an das Bundesinstitut für Risikobewertung zu übermitteln haben,
 
-3.
+3. weitere Details zu den Inhalten der Berichte des Bundesinstituts für Risikobewertung nach § 16g Absatz 2 Nummer 8 festzulegen.
 
 ## Fünfter Abschnitt: Ermächtigung zu Verboten und Beschränkungen sowie zu Maßnahmen zum Schutz von Beschäftigten
 
@@ -796,35 +674,11 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zu dem in § 1 genannten Zweck erforderlich und unionsrechtlich zulässig ist,
 
-1.
+1. vorzuschreiben, dass bestimmte gefährliche Stoffe, bestimmte gefährliche Gemische oder Erzeugnisse, die einen solchen Stoff oder ein solches Gemisch freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, oder Einrichtungena)nicht, nur in bestimmter Beschaffenheit oder nur für bestimmte Zwecke hergestellt, in den Verkehr gebracht oder verwendet werden dürfen,b)nur auf bestimmte Art und Weise verwendet werden dürfen oderc)nur unter bestimmten Voraussetzungen angeboten, verkauft, abgegeben oder erworben werden dürfen oder nur bestimmten Personen angeboten, nur an bestimmte Personen verkauft oder abgegeben oder nur von bestimmten Personen erworben werden dürfen, nicht, nur in bestimmter Beschaffenheit oder nur für bestimmte Zwecke hergestellt, in den Verkehr gebracht oder verwendet werden dürfen, nur auf bestimmte Art und Weise verwendet werden dürfen oder nur unter bestimmten Voraussetzungen angeboten, verkauft, abgegeben oder erworben werden dürfen oder nur bestimmten Personen angeboten, nur an bestimmte Personen verkauft oder abgegeben oder nur von bestimmten Personen erworben werden dürfen,
 
-a)
+2. vorzuschreiben, dass derjenige, der bestimmte gefährliche Stoffe, bestimmte gefährliche Gemische oder Erzeugnisse, die einen solchen Stoff oder ein solches Gemisch freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, oder Einrichtungen herstellt, in den Verkehr bringt oder verwendet, a)dies anzuzeigen hat,b)dazu einer Erlaubnis bedarf,c)bestimmten Anforderungen an seine Zuverlässigkeit und Gesundheit genügen muss oderd)die erforderlichen Fähigkeiten und Kenntnisse nachzuweisen und an Auffrischungskursen teilzunehmen hat, einschließlich insbesondere Regelungen zu treffen über aa)das Verfahren,bb)die Voraussetzungen für die Erteilung von Bescheinigungen,cc)die Zuständigkeit,dd)die Möglichkeit einer Übertragung von Zuständigkeiten und Aufgaben auf andere Körperschaften des öffentlichen Rechts und juristische Personen des Bürgerlichen Rechts oder Personenvereinigungen sowieee)die Geltungsdauer von Nachweisen, dies anzuzeigen hat, dazu einer Erlaubnis bedarf, bestimmten Anforderungen an seine Zuverlässigkeit und Gesundheit genügen muss oder die erforderlichen Fähigkeiten und Kenntnisse nachzuweisen und an Auffrischungskursen teilzunehmen hat, einschließlich insbesondere Regelungen zu treffen über aa)das Verfahren,bb)die Voraussetzungen für die Erteilung von Bescheinigungen,cc)die Zuständigkeit,dd)die Möglichkeit einer Übertragung von Zuständigkeiten und Aufgaben auf andere Körperschaften des öffentlichen Rechts und juristische Personen des Bürgerlichen Rechts oder Personenvereinigungen sowieee)die Geltungsdauer von Nachweisen, das Verfahren, die Voraussetzungen für die Erteilung von Bescheinigungen, die Zuständigkeit, die Möglichkeit einer Übertragung von Zuständigkeiten und Aufgaben auf andere Körperschaften des öffentlichen Rechts und juristische Personen des Bürgerlichen Rechts oder Personenvereinigungen sowie die Geltungsdauer von Nachweisen,
 
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-3.
+3. Herstellungs- oder Verwendungsverfahren zu verbieten, bei denen bestimmte gefährliche Stoffe anfallen.
 
 (2) Durch Verordnung nach Absatz 1 können auch Verbote und Beschränkungen unter Berücksichtigung der Entwicklung von Stoffen, Gemischen, Erzeugnissen, Einrichtungen oder Verfahren, deren Herstellung, Verwendung, Entsorgung oder Anwendung mit einem geringeren Risiko für Mensch oder Umwelt verbunden ist, festgesetzt werden.
 
@@ -840,25 +694,13 @@ ee)
 
 ### § 18 — Giftige Tiere und Pflanzen
 
-(1) Die Bundesregierung wird ermächtigt, soweit es zum Schutz von Leben oder Gesundheit des Menschen unter Berücksichtigung der Belange des Natur- und Tierschutzes erforderlich ist, durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, dass Exemplare Die Erlaubnis zur Haltung nach Satz 1 Nummer 1 Buchstabe b und c kann mit Auflagen verbunden werden.
+(1) Die Bundesregierung wird ermächtigt, soweit es zum Schutz von Leben oder Gesundheit des Menschen unter Berücksichtigung der Belange des Natur- und Tierschutzes erforderlich ist, durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, dass Exemplare
 
-1.
+1. bestimmter giftiger Tierarten a)nicht eingeführt oder nicht gehalten werden dürfen,b)nur eingeführt oder gehalten werden dürfen, wenn geeignete Gegenmittel und Behandlungsempfehlungen vom Einführer oder Tierhalter bereitgehalten werden, oderc)nur eingeführt oder gehalten werden dürfen, wenn dies der zuständigen Behörde zuvor angezeigt wird, nicht eingeführt oder nicht gehalten werden dürfen, nur eingeführt oder gehalten werden dürfen, wenn geeignete Gegenmittel und Behandlungsempfehlungen vom Einführer oder Tierhalter bereitgehalten werden, oder nur eingeführt oder gehalten werden dürfen, wenn dies der zuständigen Behörde zuvor angezeigt wird,
 
-a)
-
-b)
-
-c)
-
-2.
-
-a)
-
-b)
+2. bestimmter giftiger Pflanzenarten a)auf bestimmten Flächen nicht angepflanzt oderb)in Katalogen und Warenlisten nur mit einem Hinweis auf ihre Giftigkeit angeboten werden dürfen. auf bestimmten Flächen nicht angepflanzt oder in Katalogen und Warenlisten nur mit einem Hinweis auf ihre Giftigkeit angeboten werden dürfen.
 
 (2) Absatz 1 Nummer 1 gilt entsprechend für tote Exemplare giftiger Tierarten oder für Teile von diesen. Absatz 1 Nummer 2 Buchstabe b gilt entsprechend für giftige Samen, giftiges Pflanz- und Vermehrungsgut sowie abgestorbene Exemplare oder Teile giftiger Pflanzenarten.
-
-(3) § 17 Absatz 1 Nummer 1 und 2 Buchstabe c und d gilt entsprechend für die in Absatz 2 Satz 1 genannten Tierkörper oder deren Teile sowie für bestimmte Arten giftiger Samen und abgestorbener Exemplare oder Teile giftiger Pflanzenarten.
 
 ### § 19 — Maßnahmen zum Schutz von Beschäftigten
 
@@ -866,81 +708,57 @@ b)
 
 (2) Gefahrstoffe im Sinne dieser Vorschrift sind
 
-1.
+1. gefährliche Stoffe und Gemische nach § 3a Absatz 1,
 
-2.
+2. Stoffe, Gemische und Erzeugnisse, die explosionsfähig sind,
 
-3.
+3. Stoffe, Gemische und Erzeugnisse, aus denen bei der Herstellung oder Verwendung Stoffe nach Nummer 1 oder Nummer 2 entstehen oder freigesetzt werden,
 
-4.
+4. Stoffe und Gemische, die die Kriterien nach den Nummern 1 bis 3 nicht erfüllen, aber aufgrund ihrer physikalisch-chemischen, chemischen oder toxischen Eigenschaften und der Art und Weise, wie sie am Arbeitsplatz vorhanden sind oder verwendet werden, die Gesundheit und die Sicherheit der Beschäftigten gefährden können,
 
-5.
+5. alle Stoffe, denen ein Arbeitsplatzgrenzwert im Sinne der Rechtsverordnung nach Absatz 1 zugewiesen ist.
 
 (3) Durch Rechtsverordnung nach Absatz 1 kann insbesondere bestimmt werden,
 
-1.
+1. wie derjenige, der andere mit der Herstellung oder Verwendung von Stoffen, Gemischen oder Erzeugnissen beschäftigt, zu ermitteln hat, ob es sich im Hinblick auf die vorgesehene Herstellung oder Verwendung um einen Gefahrstoff handelt, soweit nicht bereits eine Einstufung nach den Vorschriften des Dritten Abschnitts erfolgt ist,
 
-2.
+2. dass derjenige, der andere mit der Herstellung oder Verwendung von Gefahrstoffen beschäftigt, verpflichtet wird zu prüfen, ob Stoffe, Gemische oder Erzeugnisse oder Herstellungs- oder Verwendungsverfahren mit einem geringeren Risiko für die menschliche Gesundheit verfügbar sind und dass er diese verwenden soll oder zu verwenden hat, soweit es ihm zumutbar ist,
 
-2a.
+2a. dass der Hersteller oder Einführer dem Arbeitgeber auf Verlangen die gefährlichen Inhaltsstoffe der Gefahrstoffe sowie die gültigen Grenzwerte und, falls solche noch nicht vorhanden sind, Empfehlungen für einzuhaltende Stoffkonzentrationen und die von den Gefahrstoffen ausgehenden Gefahren oder die zu ergreifenden Maßnahmen mitzuteilen hat,
 
-3.
+3. wie die Arbeitsstätte einschließlich der technischen Anlagen, die technischen Arbeitsmittel und die Arbeitsverfahren beschaffen, eingerichtet sein oder betrieben werden müssen, damit sie dem Stand der Technik, Arbeitsmedizin und Hygiene sowie den gesicherten sicherheitstechnischen, arbeitsmedizinischen, hygienischen und sonstigen arbeitswissenschaftlichen Erkenntnissen entsprechen, die zum Schutz der Beschäftigten zu beachten sind,
 
-4.
+4. wie der Betrieb geregelt sein muss, insbesondere a)dass Stoffe und Gemische bezeichnet und wie Gefahrstoffe innerbetrieblich verpackt, gekennzeichnet und erfasst sein müssen, damit die Beschäftigten durch eine ungeeignete Verpackung nicht gefährdet und durch eine Kennzeichnung über die von ihnen ausgehenden Gefahren unterrichtet werden,b)wie das Herstellungs- oder Verwendungsverfahren gestaltet sein muss, damit die Beschäftigten nicht gefährdet und die Grenzwerte oder Richtwerte über die Konzentration gefährlicher Stoffe oder Gemische am Arbeitsplatz nach dem Stand der Technik unterschritten werden,c)welche Vorkehrungen getroffen werden müssen, damit Gefahrstoffe nicht in die Hände Unbefugter gelangen oder sonst abhanden kommen,d)welche persönlichen Schutzausrüstungen zur Verfügung gestellt und von den Beschäftigten bestimmungsgemäß benutzt werden müssen,e)wie die Zahl der Beschäftigten, die Gefahrstoffen ausgesetzt werden, beschränkt und wie die Dauer einer solchen Beschäftigung begrenzt sein muss,f)wie die Beschäftigten sich verhalten müssen, damit sie sich selbst und andere nicht gefährden, und welche Voraussetzungen hierfür zu treffen sind, insbesondere welche Kenntnisse und Fähigkeiten Beschäftigte haben müssen und welche Nachweise hierüber zu erbringen sind,g)unter welchen Umständen Zugangs- und Beschäftigungsbeschränkungen zum Schutz der Beschäftigten vorgesehen werden müssen,h)dass ein Projektleiter für bestimmte Herstellungs- oder Verwendungsverfahren zu bestellen ist, welche Verantwortlichkeiten diesem zuzuweisen sind und welche Sachkunde dieser nachzuweisen hat, dass Stoffe und Gemische bezeichnet und wie Gefahrstoffe innerbetrieblich verpackt, gekennzeichnet und erfasst sein müssen, damit die Beschäftigten durch eine ungeeignete Verpackung nicht gefährdet und durch eine Kennzeichnung über die von ihnen ausgehenden Gefahren unterrichtet werden, wie das Herstellungs- oder Verwendungsverfahren gestaltet sein muss, damit die Beschäftigten nicht gefährdet und die Grenzwerte oder Richtwerte über die Konzentration gefährlicher Stoffe oder Gemische am Arbeitsplatz nach dem Stand der Technik unterschritten werden, welche Vorkehrungen getroffen werden müssen, damit Gefahrstoffe nicht in die Hände Unbefugter gelangen oder sonst abhanden kommen, welche persönlichen Schutzausrüstungen zur Verfügung gestellt und von den Beschäftigten bestimmungsgemäß benutzt werden müssen, wie die Zahl der Beschäftigten, die Gefahrstoffen ausgesetzt werden, beschränkt und wie die Dauer einer solchen Beschäftigung begrenzt sein muss, wie die Beschäftigten sich verhalten müssen, damit sie sich selbst und andere nicht gefährden, und welche Voraussetzungen hierfür zu treffen sind, insbesondere welche Kenntnisse und Fähigkeiten Beschäftigte haben müssen und welche Nachweise hierüber zu erbringen sind, unter welchen Umständen Zugangs- und Beschäftigungsbeschränkungen zum Schutz der Beschäftigten vorgesehen werden müssen, dass ein Projektleiter für bestimmte Herstellungs- oder Verwendungsverfahren zu bestellen ist, welche Verantwortlichkeiten diesem zuzuweisen sind und welche Sachkunde dieser nachzuweisen hat,
 
-a)
+5. wie den Beschäftigten die anzuwendenden Vorschriften in einer tätigkeitsbezogenen Betriebsanweisung dauerhaft zur Kenntnis zu bringen sind und in welchen Zeitabständen anhand der Betriebsanweisung über die auftretenden Gefahren und die erforderlichen Schutzmaßnahmen zu unterweisen ist,
 
-b)
+6. welche Vorkehrungen zur Verhinderung von Betriebsstörungen und zur Begrenzung ihrer Auswirkungen für die Beschäftigten und welche Maßnahmen zur Organisation der Ersten Hilfe zu treffen sind,
 
-c)
+7. dass und welche verantwortlichen Aufsichtspersonen für Bereiche, in denen Beschäftigte besonderen Gefahren ausgesetzt sind, bestellt und welche Befugnisse ihnen übertragen werden müssen, damit die Arbeitsschutzaufgaben erfüllt werden können,
 
-d)
+8. dass im Hinblick auf den Schutz der Beschäftigten eine Gefahrenbeurteilung vorzunehmen ist, welche Unterlagen hierfür zu erstellen sind und dass diese Unterlagen zur Überprüfung der Gefahrenbeurteilung von der zuständigen Landesbehörde der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin zugeleitet werden können,
 
-e)
+9. welche Unterlagen zur Abwendung von Gefahren für die Beschäftigten zur Einsicht durch die zuständige Landesbehörde bereitzuhalten und auf Verlangen vorzulegen sind,
 
-f)
+10. dass ein Herstellungs- oder Verwendungsverfahren, bei dem besondere Gefahren für die Beschäftigten bestehen oder zu besorgen sind, der zuständigen Landesbehörde angezeigt oder von der zuständigen Landesbehörde erlaubt sein muss,
 
-g)
+11. dass Arbeiten, bei denen bestimmte gefährliche Stoffe oder Gemische freigesetzt werden können, nur von dafür behördlich anerkannten Betrieben durchgeführt werden dürfen,
 
-h)
+12. dass die Beschäftigten gesundheitlich zu überwachen sind, hierüber Aufzeichnungen zu führen sind und zu diesem Zweck a)derjenige, der andere mit der Herstellung oder Verwendung von Gefahrstoffen beschäftigt, insbesondere verpflichtet werden kann, die Beschäftigten ärztlich untersuchen zu lassen,b)die Ärztin oder der Arzt, die oder der mit einer Vorsorgeuntersuchung beauftragt ist, im Zusammenhang mit dem Untersuchungsbefund bestimmte Pflichten zu erfüllen hat, insbesondere hinsichtlich des Inhalts einer von ihr oder ihm auszustellenden Bescheinigung und der Unterrichtung und Beratung über das Ergebnis der Untersuchung,c)die zuständige Behörde entscheidet, wenn Feststellungen der Ärztin oder des Arztes für unzutreffend gehalten werden,d)die in die Aufzeichnung aufzunehmenden Daten dem zuständigen Träger der gesetzlichen Unfallversicherung oder einer von ihm beauftragten Stelle zum Zwecke der Ermittlung arbeitsbedingter Gesundheitsgefahren oder Berufskrankheiten übermittelt werden, derjenige, der andere mit der Herstellung oder Verwendung von Gefahrstoffen beschäftigt, insbesondere verpflichtet werden kann, die Beschäftigten ärztlich untersuchen zu lassen, die Ärztin oder der Arzt, die oder der mit einer Vorsorgeuntersuchung beauftragt ist, im Zusammenhang mit dem Untersuchungsbefund bestimmte Pflichten zu erfüllen hat, insbesondere hinsichtlich des Inhalts einer von ihr oder ihm auszustellenden Bescheinigung und der Unterrichtung und Beratung über das Ergebnis der Untersuchung, die zuständige Behörde entscheidet, wenn Feststellungen der Ärztin oder des Arztes für unzutreffend gehalten werden, die in die Aufzeichnung aufzunehmenden Daten dem zuständigen Träger der gesetzlichen Unfallversicherung oder einer von ihm beauftragten Stelle zum Zwecke der Ermittlung arbeitsbedingter Gesundheitsgefahren oder Berufskrankheiten übermittelt werden,
 
-5.
+13. dass der Arbeitgeber dem Betriebs- oder Personalrat Vorgänge mitzuteilen hat, die er erfahren muss, um seine Aufgaben erfüllen zu können,
 
-6.
+14. dass die zuständigen Landesbehörden ermächtigt werden, zur Durchführung von Rechtsverordnungen bestimmte Anordnungen im Einzelfall zu erlassen, insbesondere bei Gefahr im Verzug auch gegen Aufsichtspersonen und sonstige Beschäftigte,
 
-7.
+15. dass die Betriebsanlagen und Arbeitsverfahren, in denen bestimmte Gefahrstoffe hergestellt oder verwendet werden, durch einen Sachkundigen oder einen Sachverständigen geprüft werden müssen,
 
-8.
-
-9.
-
-10.
-
-11.
-
-12.
-
-a)
-
-b)
-
-c)
-
-d)
-
-13.
-
-14.
-
-15.
-
-16.
+16. dass und welche Informations- und Mitwirkungspflichten derjenige hat, der Tätigkeiten an Erzeugnissen oder Bauwerken veranlasst, welche Gefahrstoffe enthalten, die durch diese Tätigkeiten freigesetzt werden können und zu besonderen Gesundheitsgefahren führen können.
 
 (4) Wegen der Anforderungen nach Absatz 3 kann auf jedermann zugängliche Bekanntmachungen sachverständiger Stellen verwiesen werden; hierbei ist
 
-1.
+1. in der Rechtsverordnung das Datum der Bekanntmachung anzugeben und die Bezugsquelle genau zu bezeichnen,
 
-2.
+2. die Bekanntmachung bei der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin archivmäßig gesichert niederzulegen und in der Rechtsverordnung darauf hinzuweisen.
 
 ## Sechster Abschnitt: Gute Laborpraxis
 
@@ -948,17 +766,15 @@ d)
 
 (1) Nicht-klinische gesundheits- und umweltrelevante Sicherheitsprüfungen von Stoffen oder Gemischen, deren Ergebnisse eine Bewertung ihrer möglichen Gefahren für Mensch und Umwelt in einem Zulassungs-, Erlaubnis-, Registrierungs-, Anmelde- oder Mitteilungsverfahren ermöglichen sollen, sind unter Einhaltung der Grundsätze der Guten Laborpraxis nach dem Anhang 1 zu diesem Gesetz durchzuführen, soweit gemeinschaftsrechtlich oder unionsrechtlich nichts anderes bestimmt ist.
 
-(2) Der Antragsteller oder der Anmelde- oder Mitteilungspflichtige, der in einem Verfahren nach Absatz 1 Prüfergebnisse vorlegt, hat nachzuweisen, dass die den Prüfergebnissen zugrunde liegenden Prüfungen den Anforderungen nach Anhang 1 entsprechen. Der Nachweis ist zu erbringen durch Wird der Nachweis nicht erbracht, gelten die Prüfergebnisse als nicht vorgelegt. Der Nachweis gilt als nicht erbracht, wenn eine zuständige Landesbehörde nach § 19b Absatz 3 Satz 2 für die Prüfung festgestellt hat, dass diese nicht den Grundsätzen der Guten Laborpraxis entsprechend durchgeführt wurde.
+(2) Der Antragsteller oder der Anmelde- oder Mitteilungspflichtige, der in einem Verfahren nach Absatz 1 Prüfergebnisse vorlegt, hat nachzuweisen, dass die den Prüfergebnissen zugrunde liegenden Prüfungen den Anforderungen nach Anhang 1 entsprechen. Der Nachweis ist zu erbringen durch
 
-1.
+1. die Bescheinigung nach § 19b und
 
-2.
+2. die schriftliche Erklärung des Prüfleiters, inwieweit die Prüfung nach den Grundsätzen der Guten Laborpraxis durchgeführt worden ist.
 
 (3) Bundesbehörden, die Prüfungen nach Absatz 1 durchführen, sind dafür verantwortlich, dass in ihrem Aufgabenbereich die Grundsätze der Guten Laborpraxis eingehalten werden. Für die Überwachung der Einhaltung der Grundsätze der Guten Laborpraxis ist im Falle des Satzes 1 die GLP-Bundesstelle im Bundesinstitut für Risikobewertung zuständig. Erlangt sie davon Kenntnis, dass eine Bundesbehörde bei Prüfungen nach Absatz 1 die Grundsätze der Guten Laborpraxis nicht einhält, so informiert sie deren vorgesetzte Behörde.
 
 (4) Die Aufbewahrungspflicht nach Nummer 10.2 des Anhangs 1 kann durch Übergabe der Unterlagen und schriftliche Vereinbarung mit dem Auftraggeber oder einem Dritten, die der zuständigen Behörde mitzuteilen sind, übertragen werden. Der Inhaber der GLP-Bescheinigung hat sicherzustellen, dass die Anforderungen nach Nummer 10 des Anhangs 1 eingehalten werden.
-
-(5) Die Absätze 1 und 2 sind nicht anzuwenden auf vor dem 1. August 1990 begonnene und bis zum 1. Januar 1995 abgeschlossene Prüfungen, wenn die zuständige Behörde im Einzelfall festgestellt hat, dass die Prüfung auch unter Berücksichtigung der Grundsätze der Guten Laborpraxis noch verwertbar ist.
 
 ### § 19b — GLP-Bescheinigung
 
@@ -968,13 +784,13 @@ d)
 
 (2) Der Bescheinigung nach Absatz 1 Satz 1 stehen gleich:
 
-1.
+1. GLP-Bescheinigungen anderer Mitgliedstaaten der Europäischen Union oder Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum aufgrund der Richtlinie 2004/9/EG des Europäischen Parlaments und des Rates vom 11. Februar 2004 über die Inspektion und Überprüfung der Guten Laborpraxis (GLP) (ABl. EU Nr. L 50 S. 28),
 
-2.
+2. GLP-Bescheinigungen von Staaten, die nicht Mitglied der Europäischen Union sind, wenn die gegenseitige Anerkennung von GLP-Bescheinigungen gewährleistet ist,
 
-3.
+3. eine Bestätigung der GLP-Bundesstelle im Bundesinstitut für Risikobewertung, dass eine Prüfeinrichtung, die in einem Staat gelegen ist, der nicht Mitgliedstaat der Europäischen Union ist und die gegenseitige Anerkennung von GLP-Bescheinigungen nicht gewährleistet, nach den der GLP-Bundesstelle im Bundesinstitut für Risikobewertung vorliegenden Erkenntnissen Prüfungen nach den Grundsätzen der Guten Laborpraxis durchführt.
 
-(3) Stellt eine zuständige Behörde bei einem Inspektionsverfahren nach Absatz 1 Satz 1 oder im Rahmen der Überwachung nach § 21 Absatz 1 fest, dass jemand zu Unrecht behauptet, die Grundsätze der Guten Laborpraxis nach Anhang 1 zu befolgen, so dass die Korrektheit oder Zuverlässigkeit der von ihm durchgeführten Prüfungen und Phasen von Prüfungen nach Absatz 1 infrage gestellt werden könnte, so unterrichtet sie hierüber unter Angabe der von dieser Prüfeinrichtung durchgeführten Prüfungen die GLP-Bundesstelle im Bundesinstitut für Risikobewertung. Gelangt eine zuständige Landesbehörde zu der Erkenntnis, dass eine bestimmte Prüfung von demjenigen, dem eine GLP-Bescheinigung nach § 19b Absatz 1 erteilt wurde, in einem Maße nicht den Grundsätzen der Guten Laborpraxis entspricht, dass die Validität der Prüfung beeinträchtigt sein könnte, kann sie die Nichtkonformität dieser Prüfung verbindlich feststellen. Sie informiert die GLP-Bundesstelle im Bundesinstitut für Risikobewertung über die festgestellte Nichtkonformität. Die GLP-Bundesstelle im Bundesinstitut für Risikobewertung stellt diese Information allen für die Entgegennahme von Prüfungen nach § 19a Absatz 1 zuständigen Bewertungsbehörden unverzüglich zur Verfügung. Der Inhaber der GLP-Bescheinigung nach § 19b Absatz 1, in dessen Prüfeinrichtung oder an dessen Prüfstandort die Prüfung durchgeführt wurde, hat den Auftraggeber der Prüfung unverzüglich über die festgestellte Nichtkonformität zu informieren.
+(3) Stellt eine zuständige Behörde bei einem Inspektionsverfahren nach Absatz 1 Satz 1 oder im Rahmen der Überwachung nach § 21 Absatz 1 fest, dass jemand zu Unrecht behauptet, die Grundsätze der Guten Laborpraxis nach Anhang 1 zu befolgen, so dass die Korrektheit oder Zuverlässigkeit der von ihm durchgeführten Prüfungen und Phasen von Prüfungen nach Absatz 1 infrage gestellt werden könnte, so unterrichtet sie hierüber unter Angabe der von dieser Prüfeinrichtung durchgeführten Prüfungen die GLP-Bundesstelle im Bundesinstitut für Risikobewertung. Gelangt eine zuständige Landesbehörde zu der Erkenntnis, dass eine bestimmte Prüfung von demjenigen, dem eine GLP-Bescheinigung nach § 19b Absatz 1 erteilt wurde, in einem Maße nicht den Grundsätzen der Guten Laborpraxis entspricht, dass die Validität der Prüfung beeinträchtigt sein könnte, kann sie die Nichtkonformität dieser Prüfung verbindlich feststellen. Sie informiert die GLP-Bundesstelle im Bundesinstitut für Risikobewertung über die festgestellte Nichtkonformität. Die GLP-Bundesstelle im Bundesinstitut für Risikobewertung stellt diese Information allen für die Entgegennahme von Prüfungen nach § 19a Absatz 1 zuständigen Bewertungsbehörden unverzüglich zur Verfügung. Der Inhaber der GLP-Bescheinigung nach § 19b Absatz 1, in dessen Prüfeinrichtung oder an dessen Prüfstandort die Prüfung durchgeführt wurde, hat den Auftraggeber der Prüfung unverzüglich über die festgestellte Nichtkonformität zu informieren.
 
 (4) Der Inhaber einer GLP-Bescheinigung nach Absatz 1 ist verpflichtet, der Behörde, die die Bescheinigung ausgestellt hat, jede Änderung von Tatsachen, die für die Erteilung der Bescheinigung relevant sind, unverzüglich mitzuteilen. Dies gilt auch, wenn eine Prüfeinrichtung keine Prüfungen oder Phasen von Prüfungen nach § 19a Absatz 1 mehr durchführt.
 
@@ -990,37 +806,19 @@ d)
 
 (1) Die GLP-Bundesstelle im Bundesinstitut für Risikobewertung hat zusätzlich folgende Aufgaben:
 
-1.
+1. Entgegennahme und Weiterleitung von Informationen oder sonstige Mitwirkungsakte der Mitgliedstaaten, sofern für die Durchführung der Richtlinie 2004/9/EG oder sonstiger Vorschriften des Unionsrechts über die Gute Laborpraxis oder im Hinblick auf Verpflichtungen aus internationalen Vereinbarungen über die Gute Laborpraxis erforderlich,
 
-2.
+2. Erstellung, Führung und Fortschreibung des Verzeichnisses nach § 19c Absatz 2,
 
-3.
+3. fachliche Beratung der Bundesregierung und der Länder, insbesondere bei der Konkretisierung der Anforderungen an a)die Sachkunde und die Zuverlässigkeit der mit der Durchführung der Prüfungen betrauten Personen,b)die Beschaffenheit und die Ausstattung der Prüfeinrichtungen und Prüfstandorte,c)die Laborpraxis, z. B. die Beschaffenheit der Prüfproben, die Durchführung und Qualitätskontrolle der Prüfungen und Phasen von Prüfungen,d)die Gewinnung und Dokumentation von Daten,e)die Überwachung der Einhaltung der Grundsätze der Guten Laborpraxis, die Sachkunde und die Zuverlässigkeit der mit der Durchführung der Prüfungen betrauten Personen, die Beschaffenheit und die Ausstattung der Prüfeinrichtungen und Prüfstandorte, die Laborpraxis, z. B. die Beschaffenheit der Prüfproben, die Durchführung und Qualitätskontrolle der Prüfungen und Phasen von Prüfungen, die Gewinnung und Dokumentation von Daten, die Überwachung der Einhaltung der Grundsätze der Guten Laborpraxis,
 
-a)
+4. fachliche Beratung der Bundesregierung im Rahmen von Konsultationsverfahren mit der Europäischen Kommission und anderer Mitgliedstaaten der Europäischen Union,
 
-b)
+5. Mitwirkung bei dem Vollzug von Vereinbarungen über die Gute Laborpraxis mit Staaten, die nicht Mitglied der Europäischen Union sind, einschließlich a)der Mitarbeit in Gremien zu diesen Vereinbarungen,b)der Durchführung von Inspektionen, der Teilnahme und Mitarbeit bei solchen Inspektionen im Geltungsbereich dieses Gesetzes und in anderen Staaten, der Mitarbeit in Gremien zu diesen Vereinbarungen, der Durchführung von Inspektionen, der Teilnahme und Mitarbeit bei solchen Inspektionen im Geltungsbereich dieses Gesetzes und in anderen Staaten,
 
-c)
+6. die Weiterleitung von Informationen nach § 19b Absatz 3 a)an die Europäische Kommission gemäß Artikel 5 Absatz 2 der Richtlinie 2004/9/EG,b)zur Durchführung internationaler Vereinbarungen über die Gute Laborpraxis an die OECD und an Staaten, die nicht Mitglied der Europäischen Union sind. an die Europäische Kommission gemäß Artikel 5 Absatz 2 der Richtlinie 2004/9/EG, zur Durchführung internationaler Vereinbarungen über die Gute Laborpraxis an die OECD und an Staaten, die nicht Mitglied der Europäischen Union sind.
 
-d)
-
-e)
-
-4.
-
-5.
-
-a)
-
-b)
-
-6.
-
-a)
-
-b)
-
-(2) Vorbehaltlich des § 19c Absatz 1 gilt für den Austausch von Informationen zwischen der GLP-Bundesstelle im Bundesinstitut für Risikobewertung und den zuständigen Behörden der Länder § 22 Satz 1 und 2 entsprechend. Die GLP-Bundesstelle im Bundesinstitut für Risikobewertung leitet die Informationen über die Nichteinhaltung der GLP-Grundsätze, die sie von ausländischen Staaten in den nach § 19b Absatz 2 einer GLP-Bescheinigung gleichgestellten Fällen erhält, unverzüglich an die zuständigen Bewertungsbehörden weiter.
+(2) Vorbehaltlich des § 19c Absatz 1 gilt für den Austausch von Informationen zwischen der GLP-Bundesstelle im Bundesinstitut für Risikobewertung und den zuständigen Behörden der Länder § 22 Satz 1 und 2 entsprechend. Die GLP-Bundesstelle im Bundesinstitut für Risikobewertung leitet die Informationen über die Nichteinhaltung der GLP-Grundsätze, die sie von ausländischen Staaten in den nach § 19b Absatz 2 einer GLP-Bescheinigung gleichgestellten Fällen erhält, unverzüglich an die zuständigen Bewertungsbehörden weiter.
 
 (3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Weiterentwicklung der Guten Laborpraxis die Anhänge 1 und 2 zu ändern.
 
@@ -1032,43 +830,27 @@ b)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
-1.
+1. Inhalt und Form von Antrags- oder Mitteilungsunterlagen, die bei der Bundesstelle für Chemikalien oder einer anderen Bundesbehörde nach diesem Gesetz, einer auf dieses Gesetz gestützten Rechtsverordnung oder einer der in § 21 Absatz 2 Satz 1 genannten EG- oder EU-Verordnung einzureichen sind, näher zu bestimmen,
 
-2.
+2. zu regeln, dass und für welchen Zeitraum derjenige, der derartige Antrags- oder Mitteilungsunterlagen bei der Bundesstelle für Chemikalien oder einer anderen Bundesbehörde einreicht, ein Doppel dieser Unterlagen zur Einsichtnahme aufzubewahren hat.
 
 (2) Die Bundesstelle für Chemikalien kann für Anträge oder Unterlagen, die bei ihr eingereicht werden,
 
-1.
+1. die Verwendung von ihr bestimmter Vordrucke oder Formate sonstiger Datenträger verlangen,
 
-2.
+2. die Übermittlung der Angaben auf einem anderen Datenträger zulassen,
 
-3.
+3. die Übermittlung weiterer Kopien vorgelegter Unterlagen verlangen, soweit dies im Hinblick auf die Beteiligung der in den §§ 4 und 12a genannten weiteren Bundesbehörden erforderlich ist.
 
 ### § 20a — (weggefallen)
 
 ### § 20b — Ausschüsse
 
-Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Ausschüsse zu bilden, denen die Aufgabe übertragen werden kann, die das zuständige Bundesministerium amtlich bekannt machen kann.
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Ausschüsse zu bilden, denen die Aufgabe übertragen werden kann,
 
-1.
+1. die Bundesregierung oder die zuständigen Bundesministerien zu beraten, insbesondere a)bei der Entwicklung von Methoden für Prüfnachweise nach diesem Gesetz,b)bei der Erarbeitung von Vorschriften für die Einstufung, Kennzeichnung und Verpackung nach den §§ 14 und 19,c)bei der Benennung von Stoffen und Gemischen, für die eine Mitteilungspflicht nach § 16d begründet werden sollte,d)beim Erlass von Verbots-, Beschränkungs- oder Schutzvorschriften nach § 17, § 18 oder § 19 unde)bei der Weiterentwicklung der Guten Laborpraxis sowie bei der Entwicklung von Methoden für Prüfnachweise nach diesem Gesetz, bei der Erarbeitung von Vorschriften für die Einstufung, Kennzeichnung und Verpackung nach den §§ 14 und 19, bei der Benennung von Stoffen und Gemischen, für die eine Mitteilungspflicht nach § 16d begründet werden sollte, beim Erlass von Verbots-, Beschränkungs- oder Schutzvorschriften nach § 17, § 18 oder § 19 und bei der Weiterentwicklung der Guten Laborpraxis sowie
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-c)
+2. a)sicherheitstechnische, arbeitsmedizinische und hygienische Regeln sowie sonstige arbeitswissenschaftliche Erkenntnisse zu ermitteln,b)zum Schutz von Mensch und Umwelt Empfehlungen zu erarbeiten sowiec)für Mensch und Umwelt nicht oder weniger gefährliche Stoffe, Gemische, Erzeugnisse und Verfahren vorzuschlagen, sicherheitstechnische, arbeitsmedizinische und hygienische Regeln sowie sonstige arbeitswissenschaftliche Erkenntnisse zu ermitteln, zum Schutz von Mensch und Umwelt Empfehlungen zu erarbeiten sowie für Mensch und Umwelt nicht oder weniger gefährliche Stoffe, Gemische, Erzeugnisse und Verfahren vorzuschlagen,
 
 ### § 21 — Überwachung
 
@@ -1078,21 +860,21 @@ c)
 
 (2a) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung dieses Gesetzes, der auf dieses Gesetz gestützten Rechtsverordnungen sowie der in Absatz 2 Satz 1 genannten EG- oder EU-Verordnungen
 
-1.
+1. die Zuständigkeit für bestimmte Genehmigungen und Einvernehmenserklärungen abweichend von den Absätzen 1 und 2 Satz 1 einer Bundesoberbehörde zu übertragen, wenn diese Genehmigungen oder Einvernehmenserklärungen bundeseinheitlich zu erfolgen haben oder die Beurteilung von Sachverhalten voraussetzen, die in der Regel räumlich über den Zuständigkeitsbereich eines Landes hinausgehen, sowie
 
-2.
+2. in den Fällen des Absatzes 2 Satz 2 eine andere Bundesoberbehörde zu bestimmen.
 
 (3) Die zuständige Landesbehörde ist befugt, von natürlichen und juristischen Personen und sonstigen Personenvereinigungen alle zur Durchführung dieses Gesetzes, der auf dieses Gesetz gestützten Rechtsverordnungen und der in Absatz 2 Satz 1 genannten EG- oder EU-Verordnungen erforderlichen Auskünfte zu verlangen. In den Fällen des Absatzes 2 Satz 2 stehen diese Befugnisse der dort bezeichneten, in den Fällen des Absatzes 2a der in der Rechtsverordnung bezeichneten Bundesoberbehörde zu.
 
-(4) Die mit der Überwachung beauftragten Personen, auch gemeinsam mit von ihnen hinzugezogenen Sachverständigen, sind befugt, Zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung können die Maßnahmen nach Satz 1 Nummer 1, 3 und 4 auch in Wohnräumen und zu jeder Tages- und Nachtzeit getroffen werden. Der Auskunftspflichtige hat die Maßnahmen nach Satz 1 Nummer 1, 3 und 4 und Satz 2 zu dulden sowie die mit der Überwachung beauftragten Personen zu unterstützen, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist, insbesondere ihnen auf Verlangen Räume, Behälter und Behältnisse zu öffnen und die Entnahme von Proben zu ermöglichen. Das Grundrecht des Artikels 13 des Grundgesetzes auf Unverletzlichkeit der Wohnung wird insoweit eingeschränkt.
+(4) Die mit der Überwachung beauftragten Personen, auch gemeinsam mit von ihnen hinzugezogenen Sachverständigen, sind befugt,
 
-1.
+1. zu den Betriebs- und Geschäftszeiten Grundstücke, Geschäftsräume, Betriebsräume zu betreten und zu besichtigen, Proben von Stoffen, Gemischen und Erzeugnissen und von sonstigem Prüf- oder Probenmaterial nach ihrer Auswahl zu fordern und zu entnehmen und in die geschäftlichen Unterlagen des Auskunftspflichtigen Einsicht zu nehmen,
 
-2.
+2. die Vorlage der Unterlagen über Anträge, Mitteilungen, Notifizierungen, Registrierungen und Zulassungen sowie sonstiger Unterlagen nach diesem Gesetz, den auf dieses Gesetz gestützten Rechtsverordnungen und den in Absatz 2 Satz 1 genannten EG- oder EU-Verordnungen zu verlangen,
 
-3.
+3. Arbeitseinrichtungen und Arbeitsschutzmittel zu prüfen,
 
-4.
+4. Herstellungs- und Verwendungsverfahren zu untersuchen und insbesondere das Vorhandensein und die Konzentration gefährlicher Stoffe und Gemische festzustellen und zu messen.
 
 (5) Der Auskunftspflichtige kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen seiner in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr der Verfolgung wegen einer Straftat oder Ordnungswidrigkeit aussetzen würde.
 
@@ -1126,19 +908,17 @@ Die Bundesstelle für Chemikalien und die zuständigen Landesbehörden unterrich
 
 (1) Die zuständige Landesbehörde kann demjenigen, der wiederholt oder in schwerem Maße gegen die Verordnung (EU) 2024/573 verstößt, vorübergehend bis zu einer Dauer von 36 Monaten untersagen, folgende Treibhausgase, Erzeugnisse oder Einrichtungen zu verwenden, herzustellen, einzuführen, auszuführen oder in Verkehr zu bringen:
 
-1.
+1. fluorierte Treibhausgase gemäß Artikel 2 Buchstabe a der Verordnung (EU) 2024/573 oder
 
-2.
+2. Erzeugnisse oder Einrichtungen, die fluorierte Treibhausgase enthalten oder zu ihrem Funktionieren benötigen.
 
 (2) Die zuständige Landesbehörde kann demjenigen, der wiederholt oder in schwerem Maße gegen die Verordnung (EU) 2024/590 verstößt, vorübergehend bis zu einer Dauer von 36 Monaten untersagen, folgende Erzeugnisse, Einrichtungen oder ozonabbauende Stoffe zu verwenden, herzustellen, einzuführen, auszuführen oder in Verkehr zu bringen:
 
-1.
+1. ozonabbauende Stoffe gemäß Artikel 2 Buchstabe a der Verordnung (EU) 2024/590 oder
 
-2.
+2. Erzeugnisse oder Einrichtungen, die ozonabbauende Stoffe enthalten oder zu ihrem Funktionieren benötigen.
 
 ### § 24 — Vollzug im Bereich der Landesverteidigung
-
-(1) Im Geschäftsbereich des Bundesministeriums der Verteidigung obliegt der Vollzug des Gesetzes, der auf dieses Gesetz gestützten Rechtsverordnungen und der in § 21 Absatz 2 Satz 1 genannten EG- oder EU-Verordnungen dem Bundesministerium der Verteidigung und den von ihm bestimmten Stellen.
 
 (2) Das Bundesministerium der Verteidigung und das Bundesministerium des Innern können für ihren Geschäftsbereich für bestimmte Stoffe, Gemische, Erzeugnisse und Einrichtungen Ausnahmen von den in Absatz 1 genannten Rechtsvorschriften zulassen, wenn dies im Interesse der Landesverteidigung erforderlich und unionsrechtlich zulässig ist.
 
@@ -1154,131 +934,73 @@ Die dem Auskunftspflichtigen durch die Entnahme von Proben von Stoffen, Gemische
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. (weggefallen)
 
-1a.
+1a. (weggefallen)
 
-1b.
+1b. (weggefallen)
 
-2.
+2. (weggefallen)
 
-3.
+3. (weggefallen)
 
-4.
+4. einer vollziehbaren Anordnung nach § 12g Absatz 1 Satz 1 zuwiderhandelt,
 
-4a.
+4a. entgegen § 12i Absatz 1 Satz 1 Nummer 1 eine Einrichtung oder ein Erzeugnis erwirbt,
 
-4b.
+4b. entgegen § 12i Absatz 1 Satz 1 Nummer 2 einen dort genannten Behälter lagert oder entleert,
 
-4c.
+4c. entgegen § 12i Absatz 2 oder § 12j Absatz 2, Absatz 3 Satz 2, auch in Verbindung mit Satz 3, oder Absatz 4, jeweils auch in Verbindung mit Absatz 5 Satz 2, eine dort genannte Erklärung oder Angabe nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt,
 
-4d.
+4d. entgegen § 12i Absatz 4 oder § 12j Absatz 6 eine dort genannte Erklärung oder Angabe nicht oder nicht mindestens fünf Jahre aufbewahrt,
 
-4e.
+4e. entgegen § 12j Absatz 1 Satz 1 teilfluorierte Kohlenwasserstoffe bereitstellt, abgibt oder erwirbt,
 
-4f.
+4f. einer vollziehbaren Anordnung nach § 12j Absatz 1 Satz 3 oder Absatz 7 Satz 2 zuwiderhandelt,
 
-4g.
+4g. entgegen § 12k Satz 1 eine Einrichtung oder ein Erzeugnis bereitstellt oder abgibt,
 
-5.
+5. a)entgegen § 13 Absatz 2 in Verbindung mit einer Rechtsverordnung nach § 14 Absatz 1 Nummer 1, 2 oder Nummer 3 Buchstabe c, jeweils auch in Verbindung mit § 14 Absatz 3, einen Stoff oder ein Gemisch nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig einstuft,b)entgegen § 13 Absatz 3 Satz 1 in Verbindung mit einer Rechtsverordnung nach § 14 Absatz 1 Nummer 3 Buchstabe a, d oder Buchstabe e, jeweils auch in Verbindung mit § 14 Absatz 3, einen Stoff oder ein Gemisch nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig kennzeichnet oder nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig verpackt oderc)einer Rechtsverordnung nach § 14 Absatz 1 Nummer 3 Buchstabe a, b, d bis f oder h oder Absatz 2 Satz 2 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist, entgegen § 13 Absatz 2 in Verbindung mit einer Rechtsverordnung nach § 14 Absatz 1 Nummer 1, 2 oder Nummer 3 Buchstabe c, jeweils auch in Verbindung mit § 14 Absatz 3, einen Stoff oder ein Gemisch nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig einstuft, entgegen § 13 Absatz 3 Satz 1 in Verbindung mit einer Rechtsverordnung nach § 14 Absatz 1 Nummer 3 Buchstabe a, d oder Buchstabe e, jeweils auch in Verbindung mit § 14 Absatz 3, einen Stoff oder ein Gemisch nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig kennzeichnet oder nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig verpackt oder einer Rechtsverordnung nach § 14 Absatz 1 Nummer 3 Buchstabe a, b, d bis f oder h oder Absatz 2 Satz 2 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
-a)
+5a. (weggefallen)
 
-b)
+6. einer Rechtsverordnung nach § 16d zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
-c)
+6a. entgegen § 16f Absatz 1 Satz 1 eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
 
-5a.
+6b. (weggefallen)
 
-6.
+7. einer Rechtsverordnung nach a)§ 17 Absatz 1 Nummer 1 Buchstabe b oder Nummer 2 Buchstabe a, c oder d, jeweils auch in Verbindung mit Absatz 3 Satz 1,b)§ 17 Absatz 1 Nummer 1 Buchstabe c, auch in Verbindung mit Absatz 3 Satz 1, oderc)§ 17 Absatz 5zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist, § 17 Absatz 1 Nummer 1 Buchstabe b oder Nummer 2 Buchstabe a, c oder d, jeweils auch in Verbindung mit Absatz 3 Satz 1, § 17 Absatz 1 Nummer 1 Buchstabe c, auch in Verbindung mit Absatz 3 Satz 1, oder § 17 Absatz 5
 
-6a.
+8. einer Rechtsverordnung nach a)§ 18 Absatz 1 über giftige Tiere und Pflanzen,b)§ 19 Absatz 1 in Verbindung mit Absatz 3 über Maßnahmen zum Schutz von Beschäftigtenzuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist, § 18 Absatz 1 über giftige Tiere und Pflanzen, § 19 Absatz 1 in Verbindung mit Absatz 3 über Maßnahmen zum Schutz von Beschäftigten
 
-6b.
+8a. entgegen § 19b Absatz 4 Satz 1, auch in Verbindung mit Satz 2, eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-7.
+8b. entgegen § 19b Absatz 5 mit der Einhaltung der GLP-Grundsätze wirbt oder eine Prüfung als mit den GLP-Grundsätzen konform bezeichnet,
 
-a)
+9. entgegen § 21 Absatz 3 eine Auskunft trotz Anmahnung nicht erteilt, entgegen § 21 Absatz 4 Satz 1 Nummer 2 Unterlagen nicht vorlegt oder einer Pflicht nach § 21 Absatz 4 Satz 3 nicht nachkommt,
 
-b)
+10. einer vollziehbaren Anordnung a)nach § 23 Absatz 1 oderb)nach § 23 Absatz 2 Satz 3 in Verbindung mit Satz 1zuwiderhandelt oder nach § 23 Absatz 1 oder nach § 23 Absatz 2 Satz 3 in Verbindung mit Satz 1
 
-c)
-
-8.
-
-a)
-
-b)
-
-8a.
-
-8b.
-
-9.
-
-10.
-
-a)
-
-b)
-
-10a.
+10a. einer Rechtsverordnung nach § 28 Absatz 11 über Zulassungs- oder Meldepflichten für bestimmte Biozid-Produkte zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Union zuwiderhandelt, die
 
-1.
+1. inhaltlich einem in Absatz 1 a)Nummer 5 Buchstabe a oder b oderb)Nummer 9bezeichneten Gebot oder Verbot entspricht, Nummer 5 Buchstabe a oder b oder Nummer 9
 
-a)
+2. inhaltlich einer Vorschrift entspricht, zu der die in Absatz 1 a)Nummer 5 Buchstabe c,b)Nummer 6,c)Nummer 7 Buchstabe a,d)Nummer 7 Buchstabe b,e)Nummer 7 Buchstabe c, Nummer 8 Buchstabe a oder Nummer 10a oderf)Nummer 8 Buchstabe bgenannten Vorschriften ermächtigen oder Nummer 5 Buchstabe c, Nummer 6, Nummer 7 Buchstabe a, Nummer 7 Buchstabe b, Nummer 7 Buchstabe c, Nummer 8 Buchstabe a oder Nummer 10a oder Nummer 8 Buchstabe b
 
-b)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
+3. bestimmt, a)dass Informationen oder Dokumente zu gefährlichen Stoffen, zu gefährlichen Gemischen, zu Erzeugnissen, die solche Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, oder zu Einrichtungen zu erstellen, zu berücksichtigen, aufzubewahren, bereitzuhalten, zu übermitteln, zu aktualisieren, zu bestätigen, aufeinander abzustimmen oder bei staatlichen Stellen oder bei sonstigen Stellen mit hoheitlichen Aufgaben einzuholen sind,b)dass staatliche Stellen oder sonstige Stellen mit hoheitlichen Aufgaben über gefährliche Stoffe, über gefährliche Gemische, über Erzeugnisse, die solche Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, oder über Einrichtungen zu unterrichten sind,c)dass bei staatlichen Stellen oder bei sonstigen Stellen mit hoheitlichen Aufgaben für die Herstellung, das Inverkehrbringen, die Verwendung oder die Entgegennahme von gefährlichen Stoffen, von gefährlichen Gemischen, von Erzeugnissen, die solche Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, oder von Einrichtungen eine Registrierung erfolgen muss,d)dass gefährliche Stoffe oder gefährliche Gemische zurückzugewinnen, zu sammeln, zurückzuhalten, aufzuarbeiten, zu recyceln oder zu zerstören sind,e)dass Erzeugnisse, die gefährliche Stoffe oder gefährliche Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, oder Einrichtungen außer Betrieb zu nehmen, zu überprüfen, zu reparieren, auszustatten, aufzuarbeiten, zu warten, zu sammeln, zu recyceln oder zu zerstören sind,f)dass wissenschaftliche Prüfungen oder Versuche mit gefährlichen Stoffen, mit gefährlichen Gemischen oder mit Erzeugnissen, die solche Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, durchzuführen sind,g)dass für gefährliche Stoffe, für gefährliche Gemische, für Erzeugnisse, die solche Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, oder für Einrichtungen nicht oder nur auf bestimmte Art und Weise geworben werden darf,h)dass gefährliche Stoffe, gefährliche Gemische oder Erzeugnisse, die solche Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, oder Einrichtungen nicht erworben oder nur auf bestimmte Art und Weise hergestellt oder in Verkehr gebracht werden dürfen oderi)dass wissenschaftliche Prüfungen oder Versuche mit gefährlichen Stoffen, mit gefährlichen Gemischen oder mit Erzeugnissen, die solche Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, nicht, nur auf bestimmte Art und Weise oder nur unter bestimmten Voraussetzungen durchgeführt werden dürfen,soweit eine Rechtsverordnung nach Absatz 5 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist. dass Informationen oder Dokumente zu gefährlichen Stoffen, zu gefährlichen Gemischen, zu Erzeugnissen, die solche Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, oder zu Einrichtungen zu erstellen, zu berücksichtigen, aufzubewahren, bereitzuhalten, zu übermitteln, zu aktualisieren, zu bestätigen, aufeinander abzustimmen oder bei staatlichen Stellen oder bei sonstigen Stellen mit hoheitlichen Aufgaben einzuholen sind, dass staatliche Stellen oder sonstige Stellen mit hoheitlichen Aufgaben über gefährliche Stoffe, über gefährliche Gemische, über Erzeugnisse, die solche Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, oder über Einrichtungen zu unterrichten sind, dass bei staatlichen Stellen oder bei sonstigen Stellen mit hoheitlichen Aufgaben für die Herstellung, das Inverkehrbringen, die Verwendung oder die Entgegennahme von gefährlichen Stoffen, von gefährlichen Gemischen, von Erzeugnissen, die solche Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, oder von Einrichtungen eine Registrierung erfolgen muss, dass gefährliche Stoffe oder gefährliche Gemische zurückzugewinnen, zu sammeln, zurückzuhalten, aufzuarbeiten, zu recyceln oder zu zerstören sind, dass Erzeugnisse, die gefährliche Stoffe oder gefährliche Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, oder Einrichtungen außer Betrieb zu nehmen, zu überprüfen, zu reparieren, auszustatten, aufzuarbeiten, zu warten, zu sammeln, zu recyceln oder zu zerstören sind, dass wissenschaftliche Prüfungen oder Versuche mit gefährlichen Stoffen, mit gefährlichen Gemischen oder mit Erzeugnissen, die solche Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, durchzuführen sind, dass für gefährliche Stoffe, für gefährliche Gemische, für Erzeugnisse, die solche Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, oder für Einrichtungen nicht oder nur auf bestimmte Art und Weise geworben werden darf, dass gefährliche Stoffe, gefährliche Gemische oder Erzeugnisse, die solche Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, oder Einrichtungen nicht erworben oder nur auf bestimmte Art und Weise hergestellt oder in Verkehr gebracht werden dürfen oder dass wissenschaftliche Prüfungen oder Versuche mit gefährlichen Stoffen, mit gefährlichen Gemischen oder mit Erzeugnissen, die solche Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, nicht, nur auf bestimmte Art und Weise oder nur unter bestimmten Voraussetzungen durchgeführt werden dürfen,
 
 (3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 4a, 4b, 4e und 7 Buchstabe b und des Absatzes 2 Nummer 2 Buchstabe d mit einer Geldbuße bis zu zweihunderttausend Euro, in den Fällen des Absatzes 1 Nummer 4, 4c, 4f, 4g, 5, 6, 7 Buchstabe a, Nummer 8 Buchstabe b und Nummer 10 und des Absatzes 2 Nummer 1 Buchstabe a, Nummer 2 Buchstabe a bis c und f und Nummer 3 Buchstabe c bis i mit einer Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist
 
-1.
+1. in den Fällen des Absatzes 1 Nummer 9 in Verbindung mit § 21 Absatz 3 Satz 2 a)die Bundesstelle für Chemikalien für ihren Geschäftsbereich gemäß § 21 Absatz 2 Satz 2 oderb)die in der Rechtsverordnung nach § 21 Absatz 2a bezeichnete Bundesbehörde, soweit ihr die in § 21 Absatz 3 Satz 1 bezeichneten Befugnisse zustehen, die Bundesstelle für Chemikalien für ihren Geschäftsbereich gemäß § 21 Absatz 2 Satz 2 oder die in der Rechtsverordnung nach § 21 Absatz 2a bezeichnete Bundesbehörde, soweit ihr die in § 21 Absatz 3 Satz 1 bezeichneten Befugnisse zustehen,
 
-a)
+2. (weggefallen)
 
-b)
-
-2.
-
-3.
+3. im Übrigen die nach Landesrecht zuständige Behörde.
 
 (5) Die Bundesregierung wird ermächtigt, soweit dies zur Durchführung der Rechtsakte der Europäischen Union erforderlich ist, durch Rechtsverordnung mit Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 2 geahndet werden können.
 
@@ -1286,11 +1008,11 @@ b)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer
 
-1.
+1. einer Rechtsverordnung nach § 17 Absatz 1 Nummer 1 Buchstabe a, Nummer 2 Buchstabe b oder Nummer 3, jeweils auch in Verbindung mit Absatz 2, 3 Satz 1, Absatz 4 oder 6 über das Herstellen, das Inverkehrbringen oder das Verwenden dort bezeichneter Stoffe, Gemische, Erzeugnisse, Biozid-Wirkstoffe oder Biozid-Produkte zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Strafvorschrift verweist,
 
-2.
+2. einer vollziehbaren Anordnung nach § 23 Absatz 2 Satz 1 über das Herstellen, das Inverkehrbringen oder das Verwenden gefährlicher Stoffe, Gemische oder Erzeugnisse zuwiderhandelt oder
 
-3.
+3. einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union zuwiderhandelt, die inhaltlich einer Regelung entspricht, zu der die in Nummer 1 genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Satz 2 für einen bestimmten Tatbestand auf diese Strafvorschrift verweist. Die Bundesregierung wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union erforderlich ist, durch Rechtsverordnung mit Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Straftat nach Satz 1 zu ahnden sind.
 
 (1a) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer eine in Absatz 1 Nummer 3 Satzteil vor Satz 2 bezeichnete Handlung dadurch begeht, dass er einen Bedarfsgegenstand im Sinne des § 2 Absatz 6 des Lebensmittel- und Futtermittelgesetzbuches herstellt oder in Verkehr bringt.
 
@@ -1300,9 +1022,9 @@ b)
 
 (4) Handelt der Täter fahrlässig, so ist die Strafe
 
-1.
+1. in den Fällen des Absatzes 1 oder Absatzes 1a Freiheitsstrafe bis zu einem Jahr oder Geldstrafe,
 
-2.
+2. in den Fällen des Absatzes 2 Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
 
 (5) Das Gericht kann von Strafe nach Absatz 2 absehen, wenn der Täter freiwillig die Gefahr abwendet, bevor ein erheblicher Schaden entsteht. Unter denselben Voraussetzungen wird der Täter nicht nach Absatz 4 Nummer 2 bestraft. Wird ohne Zutun des Täters die Gefahr abgewendet, so genügt sein freiwilliges und ernsthaftes Bemühen, dieses Ziel zu erreichen.
 
@@ -1322,13 +1044,13 @@ b)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer gegen die Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Chemikalienagentur, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission (ABl. EU Nr. L 396 S. 1, 2007 Nr. L 136 S. 3) verstößt, indem er
 
-1.
+1. entgegen Artikel 5 einen Stoff als solchen, in einem Gemisch oder in einem Erzeugnis herstellt oder in Verkehr bringt,
 
-2.
+2. in einem Registrierungsdossier nach Artikel 6 Absatz 1 oder Absatz 3 oder Artikel 7 Absatz 1 Satz 1 oder Absatz 5 Satz 1 oder in einem Zulassungsantrag nach Artikel 62 Absatz 1 in Verbindung mit Absatz 4 eine Angabe nicht richtig oder nicht vollständig macht,
 
-3.
+3. entgegen Artikel 37 Absatz 4 in Verbindung mit Artikel 39 Absatz 1 einen Stoffsicherheitsbericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt oder
 
-4.
+4. entgegen Artikel 56 Absatz 1 einen dort genannten Stoff zur Verwendung in Verkehr bringt oder selbst verwendet.
 
 (2) Der Versuch ist strafbar.
 
@@ -1366,47 +1088,15 @@ Gegenstände, auf die sich eine Straftat nach den §§ 27, 27b Absatz 1 bis 4 od
 
 (7) (weggefallen)
 
-(8) Im Geltungsbereich dieses Gesetzes darf ein Biozid-Produkt abweichend von Artikel 17 Absatz 1 der Verordnung (EU) Nr. 528/2012 nach Maßgabe des Satzes 2 auf dem Markt bereitgestellt und verwendet werden, wenn es ausschließlich aus Biozid-Wirkstoffen besteht, diese enthält oder erzeugt, Für ein Biozid-Produkt nach Satz 1 gelten für das Bereitstellen auf dem Markt und für das Verwenden die folgenden Fristen:
+(8) Im Geltungsbereich dieses Gesetzes darf ein Biozid-Produkt abweichend von Artikel 17 Absatz 1 der Verordnung (EU) Nr. 528/2012 nach Maßgabe des Satzes 2 auf dem Markt bereitgestellt und verwendet werden, wenn es ausschließlich aus Biozid-Wirkstoffen besteht, diese enthält oder erzeugt,
 
-1.
+1. die gemäß der Verordnung (EG) Nr. 1451/2007 oder der Delegierten Verordnung (EU) Nr. 1062/2014 bewertet wurden,
 
-2.
+2. die sich noch im dortigen Bewertungsverfahren befinden,
 
-3.
+3. die unter Artikel 15 Buchstabe a der Delegierten Verordnung (EU) Nr. 1062/2014 fallen oder
 
-4.
-
-1.
-
-2.
-
-a)
-
-b)
-
-3.
-
-a)
-
-b)
-
-4.
-
-a)
-
-b)
-
-5.
-
-a)
-
-b)
-
-6.
-
-a)
-
-b)
+4. für die die Europäische Chemikalienagentur eine Veröffentlichung gemäß Artikel 16 Absatz 4 der Delegierten Verordnung (EU) Nr. 1062/2014 vorgenommen hat.
 
 (9) Im Falle des Absatzes 8 Nummer 3 kann die Bundesstelle für Chemikalien im Rahmen des unionsrechtlich Zulässigen für Bestände des Biozid-Produkts, die bereits vor Erteilung der Zulassung oder parallelen Anerkennung auf dem Markt bereitgestellt wurden und den Maßgaben der Zulassungs- oder Anerkennungsentscheidung oder den auf die Zulassung oder Anerkennung bezogenen Kennzeichnungsvorschriften nicht oder nicht vollständig entsprechen, Aufbrauchfristen für die weitere Bereitstellung auf dem Markt und die weitere Verwendung festlegen.
 
@@ -1414,41 +1104,17 @@ b)
 
 (11) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise durch Rechtsverordnung mit Zustimmung des Bundesrates zu dem in § 1 genannten Zweck bis zu dem durch delegierten Rechtsakt der Europäischen Kommission nach Artikel 89 Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 528/2012 bestimmten Zeitpunkt des Endes des Arbeitsprogramms zur systematischen Prüfung aller alten Wirkstoffe, mindestens aber bis zum 31. Dezember 2024, vorzuschreiben, dass bestimmte Biozid-Produkte im Sinne des Absatzes 8 erst in den Verkehr gebracht und verwendet werden dürfen, nachdem sie von der Bundesstelle für Chemikalien zugelassen worden sind. In der Rechtsverordnung kann von Anforderungen der Verordnung (EU) Nr. 528/2012 im Rahmen des unionsrechtlich Zulässigen abgewichen werden. Statt einer Zulassung kann auch ein Meldeverfahren vorgesehen werden.
 
-(11a) Im Geltungsbereich dieses Gesetzes darf ein Biozid-Produkt abweichend von Artikel 17 Absatz 1 der Verordnung (EU) Nr. 528/2012 nach Maßgabe der Sätze 2 und 3 auf dem Markt bereitgestellt und verwendet werden, wenn es Für ein Biozid-Produkt nach Satz 1, für das bis zum 1. September 2016 ein Antrag auf Genehmigung bei der zuständigen Behörde für alle Wirkstoffe der Produktart gestellt wurde, gelten für das Bereitstellen auf dem Markt und für das Verwenden die folgenden Fristen: Im Übrigen kann ein Biozid-Produkt nach Satz 1 bis zum 1. September 2017 auf dem Markt bereitgestellt oder verwendet werden.
+(11a) Im Geltungsbereich dieses Gesetzes darf ein Biozid-Produkt abweichend von Artikel 17 Absatz 1 der Verordnung (EU) Nr. 528/2012 nach Maßgabe der Sätze 2 und 3 auf dem Markt bereitgestellt und verwendet werden, wenn es
 
-1.
+1. unter die Verordnung (EU) Nr. 528/2012 fällt und nicht unter die Richtlinie 98/8/EG des Europäischen Parlaments und des Rates vom 16. Februar 1998 über das Inverkehrbringen von Biozid-Produkten (ABl. L 123 vom 24.4.1998, S. 1) fiel und
 
-2.
+2. nur aus Wirkstoffen besteht, die bereits am 1. September 2013 auf dem Markt waren oder in Biozid-Produkten verwendet wurden, oder nur diese Wirkstoffe enthält oder erzeugt.
 
-1.
+(12) Auf Gemische im Sinne des Anhangs VIII der Verordnung (EG) Nr. 1272/2008 sind § 16e Absatz 1 und § 26 Absatz 1 Nummer 6a dieses Gesetzes in der bis zum 31. Dezember 2019 geltenden Fassung bis zu den folgenden Zeitpunkten anzuwenden:
 
-2.
+1. im Fall des Anhangs VIII Teil A Abschnitt 1.1. und 1.2 bis einschließlich des 31. Dezember 2020 und
 
-a)
-
-b)
-
-3.
-
-a)
-
-b)
-
-4.
-
-a)
-
-b)
-
-(12) Auf Gemische im Sinne des Anhangs VIII der Verordnung (EG) Nr. 1272/2008 sind § 16e Absatz 1 und § 26 Absatz 1 Nummer 6a dieses Gesetzes in der bis zum 31. Dezember 2019 geltenden Fassung bis zu den folgenden Zeitpunkten anzuwenden: Satz 1 gilt nicht für Gemische, die nicht in eine der Gefahrenklassen nach Anhang I Abschnitt 3.1 Kategorie 1, 2 und 3, Abschnitt 3.2 Kategorie 1 Unterkategorie 1 A, 1 B und 1 C, Abschnitt 3.4, 3.5, 3.6 und 3.7 der Verordnung (EG) Nr. 1272/2008 einzustufen sind oder die nicht für den Verbraucher bestimmt sind, sofern es sich bei dem Gemisch nicht um ein Biozid-Produkt handelt und sofern für das betreffende Gemisch Folgendes in einer von dem jeweiligen Institut vorgegebenen Form elektronisch übermittelt wurde und für die in § 16e Absatz 4 genannten Zwecke zur Verfügung steht: Mitteilungen nach Satz 2 oder § 28 Absatz 12 dieses Gesetzes in der bis zum 31. Dezember 2019 geltenden Fassung gelten nicht als frühere Informationen im Sinne des Anhangs VIII Teil A Abschnitt 1.4 der Verordnung (EG) Nr. 1272/2008.
-
-1.
-
-2.
-
-1.
-
-2.
+2. im Fall des Anhangs VIII Teil A Abschnitt 1.3 bis einschließlich des 31. Dezember 2023.
 
 (13) § 12j Absatz 2 bis 7 gilt nicht für Stoffe und Gemische, die vom Hersteller oder Einführer oder von demjenigen, der sie aus einem anderen Mitgliedstaat der Europäischen Union bezieht, bereits vor dem 1. August 2021 an einen Dritten abgegeben worden sind.
 
@@ -1470,433 +1136,79 @@ Diese Grundsätze der Guten Laborpraxis finden Anwendung auf sämtliche nicht-kl
 
 Diese Grundsätze der Guten Laborpraxis finden ebenfalls Anwendung auf Phasen von Prüfungen, die an einem Prüfstandort durchgeführt werden. Prüfstandorte mit eigener Leitung können auf Antrag in das nationale GLP-Überwachungsverfahren aufgenommen werden.
 
-2.1
+2.1 Gute Laborpraxis (Good Laboratory Practice, GLP) Gute Laborpraxis ist ein Qualitätssicherungssystem, das sich mit dem organisatorischen Ablauf und den Rahmenbedingungen befasst, unter denen nicht-klinische gesundheits- und umweltrelevante Sicherheitsprüfungen geplant, durchgeführt und überwacht werden sowie mit der Aufzeichnung, Archivierung und Berichterstattung der Prüfungen.
 
-2.2
+2.2 Begriffe betreffend die Organisation einer Prüfeinrichtung 1)Prüfeinrichtung umfasst die Personen, Räumlichkeiten und Arbeitseinheiten, die zur Durchführung von nicht-klinischen gesundheits- und umweltrelevanten Sicherheitsprüfungen notwendig sind. Bei Prüfungen, die in Phasen an mehr als einem Standort durchgeführt werden, so genannte Multi-Site-Prüfungen, umfasst der Begriff Prüfeinrichtung sowohl den Standort, an dem der Prüfleiter angesiedelt ist, als auch alle anderen individuellen Prüfstandorte. Die Prüfstandorte können sowohl in ihrer Gesamtheit als auch jeweils einzeln als Prüfeinrichtung definiert werden.2)Prüfstandort ist der Ort, an dem eine oder mehrere Phasen einer Prüfung durchgeführt werden. Unter Phasen von Prüfungen sind hier einzelne Teile, Abschnitte, Schritte oder Stufen von Prüfungen zu verstehen.3)Leitung der Prüfeinrichtung bezeichnet diejenige Person oder Personengruppe, die die Zuständigkeit und formale Verantwortung für die Organisation und das Funktionieren der Prüfeinrichtung gemäß diesen Grundsätzen der Guten Laborpraxis besitzt.4)Leitung eines Prüfstandortes bezeichnet diejenige Person oder Personengruppe, die sicherzustellen hat, dass diejenigen Phasen der Prüfung, für die sie die Verantwortung übernommen hat, nach diesen Grundsätzen der Guten Laborpraxis durchgeführt werden.5)Auftraggeber ist eine natürliche oder juristische Person, die eine nicht-klinische gesundheits- und umweltrelevante Sicherheitsprüfung in Auftrag gibt, unterstützt oder einreicht.6)Prüfleiter ist diejenige Person, die für die Gesamtleitung der nicht-klinischen gesundheits- und umweltrelevanten Sicherheitsprüfung verantwortlich ist.7)Örtlicher Versuchsleiter (Principal Investigator) bezeichnet diejenige Person, die, im Falle einer Multi-Site-Prüfung, im Auftrag des Prüfleiters bestimmte Verantwortlichkeiten für die ihr übertragenen Phasen von Prüfungen übernimmt. Die Verantwortung des Prüfleiters für die Gesamtleitung der Prüfung kann nicht an den Örtlichen Versuchsleiter übertragen werden; dies schließt die Genehmigung des Prüfplans sowie seiner Änderungen, die Genehmigung des Abschlussberichtes sowie die Verantwortung für die Einhaltung aller anwendbaren Grundsätze der Guten Laborpraxis ein.8)Qualitätssicherungsprogramm ist ein definiertes System, dessen Personal von der Prüfungsdurchführung unabhängig ist, und das der Leitung der Prüfeinrichtung Gewissheit gibt, dass die Grundsätze der Guten Laborpraxis eingehalten werden.9)Standardarbeitsanweisungen (Standard Operating Procedures, SOPs) sind dokumentierte Verfahrensanweisungen über die Durchführung derjenigen Untersuchungen oder Tätigkeiten, die in der Regel in Prüfplänen oder Prüfrichtlinien nicht in entsprechender Ausführlichkeit beschrieben sind.10)Verzeichnis mit Status aller Prüfungen (Master Schedule) ist eine Zusammenstellung von Informationen, die der Abschätzung der Arbeitsbelastung und der Verfolgung des Ablaufs von Prüfungen in einer Prüfeinrichtung dient. Prüfeinrichtung umfasst die Personen, Räumlichkeiten und Arbeitseinheiten, die zur Durchführung von nicht-klinischen gesundheits- und umweltrelevanten Sicherheitsprüfungen notwendig sind. Bei Prüfungen, die in Phasen an mehr als einem Standort durchgeführt werden, so genannte Multi-Site-Prüfungen, umfasst der Begriff Prüfeinrichtung sowohl den Standort, an dem der Prüfleiter angesiedelt ist, als auch alle anderen individuellen Prüfstandorte. Die Prüfstandorte können sowohl in ihrer Gesamtheit als auch jeweils einzeln als Prüfeinrichtung definiert werden. Prüfstandort ist der Ort, an dem eine oder mehrere Phasen einer Prüfung durchgeführt werden. Unter Phasen von Prüfungen sind hier einzelne Teile, Abschnitte, Schritte oder Stufen von Prüfungen zu verstehen. Leitung der Prüfeinrichtung bezeichnet diejenige Person oder Personengruppe, die die Zuständigkeit und formale Verantwortung für die Organisation und das Funktionieren der Prüfeinrichtung gemäß diesen Grundsätzen der Guten Laborpraxis besitzt. Leitung eines Prüfstandortes bezeichnet diejenige Person oder Personengruppe, die sicherzustellen hat, dass diejenigen Phasen der Prüfung, für die sie die Verantwortung übernommen hat, nach diesen Grundsätzen der Guten Laborpraxis durchgeführt werden. Auftraggeber ist eine natürliche oder juristische Person, die eine nicht-klinische gesundheits- und umweltrelevante Sicherheitsprüfung in Auftrag gibt, unterstützt oder einreicht. Prüfleiter ist diejenige Person, die für die Gesamtleitung der nicht-klinischen gesundheits- und umweltrelevanten Sicherheitsprüfung verantwortlich ist. Örtlicher Versuchsleiter (Principal Investigator) bezeichnet diejenige Person, die, im Falle einer Multi-Site-Prüfung, im Auftrag des Prüfleiters bestimmte Verantwortlichkeiten für die ihr übertragenen Phasen von Prüfungen übernimmt. Die Verantwortung des Prüfleiters für die Gesamtleitung der Prüfung kann nicht an den Örtlichen Versuchsleiter übertragen werden; dies schließt die Genehmigung des Prüfplans sowie seiner Änderungen, die Genehmigung des Abschlussberichtes sowie die Verantwortung für die Einhaltung aller anwendbaren Grundsätze der Guten Laborpraxis ein. Qualitätssicherungsprogramm ist ein definiertes System, dessen Personal von der Prüfungsdurchführung unabhängig ist, und das der Leitung der Prüfeinrichtung Gewissheit gibt, dass die Grundsätze der Guten Laborpraxis eingehalten werden. Standardarbeitsanweisungen (Standard Operating Procedures, SOPs) sind dokumentierte Verfahrensanweisungen über die Durchführung derjenigen Untersuchungen oder Tätigkeiten, die in der Regel in Prüfplänen oder Prüfrichtlinien nicht in entsprechender Ausführlichkeit beschrieben sind. Verzeichnis mit Status aller Prüfungen (Master Schedule) ist eine Zusammenstellung von Informationen, die der Abschätzung der Arbeitsbelastung und der Verfolgung des Ablaufs von Prüfungen in einer Prüfeinrichtung dient.
 
-1)
+2.3 Begriffe betreffend die nicht-klinischen gesundheits- und umweltrelevanten Sicherheitsprüfungen 1)Nicht-klinische gesundheits- und umweltrelevante Sicherheitsprüfung, nachstehend mit „Prüfung“ bezeichnet, ist eine Untersuchung oder eine Reihe von Untersuchungen, die mit einem Prüfgegenstand unter Labor- oder Umweltbedingungen durchgeführt wird, um Daten über seine Eigenschaften und über seine Unbedenklichkeit zu gewinnen, mit der Absicht, diese den zuständigen Bewertungsbehörden einzureichen.2)Kurzzeitprüfung ist eine Prüfung von kurzer Dauer, die nach weithin gebräuchlichen Routinemethoden durchgeführt wird.3)Prüfplan ist ein Dokument, das die Ziele und experimentelle Gesamtplanung zur Durchführung der Prüfung beschreibt; es schließt sämtliche Prüfplanänderungen ein.4)Prüfplanänderung ist eine geplante Veränderung des Prüfplans nach Beginn der Prüfung in Form einer Ergänzung.5)Prüfplanabweichung ist ein unbeabsichtigtes Abweichen vom Prüfplan nach Beginn der Prüfung.6)Prüfsystem ist jedes biologische, chemische oder physikalische System – oder eine Kombination daraus –, das bei einer Prüfung verwendet wird.7)Rohdaten sind alle ursprünglichen Aufzeichnungen und Unterlagen der Prüfeinrichtung oder deren überprüfte Kopien, die als Ergebnis der ursprünglichen Beobachtungen oder Tätigkeiten bei einer Prüfung anfallen. Zu den Rohdaten zählen beispielsweise Fotografien, Mikrofilm- oder Mikrofichekopien, computerlesbare Medien, diktierte Beobachtungen, aufgezeichnete Daten von automatisierten Geräten oder irgendwelche anderen Daten auf Speichermedien, die anerkanntermaßen geeignet sind, Informationen über einen, wie im Abschnitt 10 beschrieben, festgelegten Zeitraum sicher zu speichern.8)Proben sind Materialien, die zur Untersuchung, Auswertung oder Aufbewahrung aus dem Prüfsystem entnommen werden.9)Beginn der experimentellen Phase ist der Tag, an dem die ersten prüfungsspezifischen Rohdaten erhoben werden.10)Ende der experimentellen Phase ist der letzte Tag, an dem noch prüfungsspezifische Rohdaten erhoben werden.11)Beginn einer Prüfung ist der Tag, an dem der Prüfleiter den Prüfplan unterschreibt.12)Abschluss einer Prüfung ist der Tag, an dem der Prüfleiter den Abschlussbericht unterschreibt. Nicht-klinische gesundheits- und umweltrelevante Sicherheitsprüfung, nachstehend mit „Prüfung“ bezeichnet, ist eine Untersuchung oder eine Reihe von Untersuchungen, die mit einem Prüfgegenstand unter Labor- oder Umweltbedingungen durchgeführt wird, um Daten über seine Eigenschaften und über seine Unbedenklichkeit zu gewinnen, mit der Absicht, diese den zuständigen Bewertungsbehörden einzureichen. Kurzzeitprüfung ist eine Prüfung von kurzer Dauer, die nach weithin gebräuchlichen Routinemethoden durchgeführt wird. Prüfplan ist ein Dokument, das die Ziele und experimentelle Gesamtplanung zur Durchführung der Prüfung beschreibt; es schließt sämtliche Prüfplanänderungen ein. Prüfplanänderung ist eine geplante Veränderung des Prüfplans nach Beginn der Prüfung in Form einer Ergänzung. Prüfplanabweichung ist ein unbeabsichtigtes Abweichen vom Prüfplan nach Beginn der Prüfung. Prüfsystem ist jedes biologische, chemische oder physikalische System – oder eine Kombination daraus –, das bei einer Prüfung verwendet wird. Rohdaten sind alle ursprünglichen Aufzeichnungen und Unterlagen der Prüfeinrichtung oder deren überprüfte Kopien, die als Ergebnis der ursprünglichen Beobachtungen oder Tätigkeiten bei einer Prüfung anfallen. Zu den Rohdaten zählen beispielsweise Fotografien, Mikrofilm- oder Mikrofichekopien, computerlesbare Medien, diktierte Beobachtungen, aufgezeichnete Daten von automatisierten Geräten oder irgendwelche anderen Daten auf Speichermedien, die anerkanntermaßen geeignet sind, Informationen über einen, wie im Abschnitt 10 beschrieben, festgelegten Zeitraum sicher zu speichern. Proben sind Materialien, die zur Untersuchung, Auswertung oder Aufbewahrung aus dem Prüfsystem entnommen werden. Beginn der experimentellen Phase ist der Tag, an dem die ersten prüfungsspezifischen Rohdaten erhoben werden. Ende der experimentellen Phase ist der letzte Tag, an dem noch prüfungsspezifische Rohdaten erhoben werden. Beginn einer Prüfung ist der Tag, an dem der Prüfleiter den Prüfplan unterschreibt. Abschluss einer Prüfung ist der Tag, an dem der Prüfleiter den Abschlussbericht unterschreibt.
 
-2)
+2.4 Begriffe betreffend den Prüfgegenstand 1)Prüfgegenstand ist ein Objekt, das der Prüfung unterliegt.2)Referenzgegenstand (Vergleichsgegenstand) ist ein Objekt, das zum Vergleich mit dem Prüfgegenstand verwendet wird.3)Charge ist eine bestimmte Menge oder Partie eines Prüf- oder Referenzgegenstandes, die in einem bestimmten Herstellungsgang derart gefertigt wurde, dass einheitliche Eigenschaften zu erwarten sind; sie wird als solche gekennzeichnet.4)Trägerstoff ist ein Stoff, mit dem der Prüf- oder Referenzgegenstand gemischt, dispergiert oder aufgelöst wird, um die Anwendung am Prüfsystem zu erleichtern. Prüfgegenstand ist ein Objekt, das der Prüfung unterliegt. Referenzgegenstand (Vergleichsgegenstand) ist ein Objekt, das zum Vergleich mit dem Prüfgegenstand verwendet wird. Charge ist eine bestimmte Menge oder Partie eines Prüf- oder Referenzgegenstandes, die in einem bestimmten Herstellungsgang derart gefertigt wurde, dass einheitliche Eigenschaften zu erwarten sind; sie wird als solche gekennzeichnet. Trägerstoff ist ein Stoff, mit dem der Prüf- oder Referenzgegenstand gemischt, dispergiert oder aufgelöst wird, um die Anwendung am Prüfsystem zu erleichtern.
 
-3)
+1.1 Aufgaben der Leitung der Prüfeinrichtung 1)Die Leitung einer jeden Prüfeinrichtung hat sicherzustellen, dass diese Grundsätze der Guten Laborpraxis in ihrer Prüfeinrichtung eingehalten werden.2)Die Leitung hat zumindest a)sicherzustellen, dass eine Erklärung mit Angabe derjenigen Person oder Personengruppe vorliegt, welche die Aufgaben der Leitung der Prüfeinrichtung im Sinne dieser Grundsätze der Guten Laborpraxis wahrnimmt;b)sicherzustellen, dass eine ausreichende Anzahl qualifizierten Personals, geeignete Räumlichkeiten, Ausrüstung und Materialien vorhanden sind, um die rechtzeitige und korrekte Durchführung der Prüfung zu gewährleisten;c)sicherzustellen, dass Aufzeichnungen über Aus-, Fort- und Weiterbildung sowie praktische Erfahrung und die Aufgabenbeschreibung für alle wissenschaftlichen und technischen Mitarbeiter geführt werden;d)sicherzustellen, dass die Mitarbeiter mit den Aufgaben, die sie ausführen sollen, vertraut sind und, falls erforderlich, eine Einführung in diese Aufgaben vorgesehen ist;e)sicherzustellen, dass angemessene und dem Stand der Technik entsprechende Standardarbeitsanweisungen erstellt und befolgt werden, und hat sämtliche ursprüngliche Standardarbeitsanweisungen sowie deren überarbeitete Versionen zu genehmigen;f)sicherzustellen, dass ein Qualitätssicherungsprogramm und das für dessen Umsetzung erforderliche Personal vorhanden ist, sowie sicherzustellen, dass die Wahrnehmung der Qualitätssicherungsaufgaben in Übereinstimmung mit diesen Grundsätzen der Guten Laborpraxis erfolgt;g)sicherzustellen, dass vor Beginn einer jeden Prüfung ein Prüfleiter mit entsprechender Aus-, Fort- und Weiterbildung sowie praktischer Erfahrung von der Leitung benannt wird. Das Ersetzen eines Prüfleiters muss nach festgelegten Verfahren erfolgen und ist schriftlich festzuhalten;h)sicherzustellen, dass im Falle von Multi-Site-Prüfungen gegebenenfalls ein Örtlicher Versuchsleiter benannt wird, der über eine entsprechende Aus-, Fort- und Weiterbildung sowie praktische Erfahrung verfügt, um die ihm übertragenen Phasen der Prüfung leiten bzw. überwachen zu können. Das Ersetzen eines Örtlichen Versuchsleiters muss nach festgelegten Verfahren erfolgen und ist schriftlich festzuhalten;i)sicherzustellen, dass jeder Prüfplan vom Prüfleiter schriftlich genehmigt wird;j)sicherzustellen, dass der Prüfleiter den genehmigten Prüfplan rechtzeitig dem Qualitätssicherungspersonal zuleitet;k)sicherzustellen, dass eine chronologische Ablage aller Standardarbeitsanweisungen geführt wird;l)sicherzustellen, dass eine verantwortliche Person für die Führung von Archiven bestimmt wird;m)sicherzustellen, dass ein Verzeichnis mit Status aller Prüfungen (Master Schedule) geführt wird;n)sicherzustellen, dass alle Versorgungsgüter in der Prüfeinrichtung den Anforderungen hinsichtlich ihrer Verwendung in der Prüfung genügen;o)sicherzustellen, dass bei Multi-Site-Prüfungen klar definierte Kommunikationswege zwischen Prüfleiter, Örtlichem Versuchsleiter, Qualitätssicherungspersonal und prüfendem Personal existieren;p)sicherzustellen, dass Prüf- und Referenzgegenstände in geeigneter Weise charakterisiert sind;q)Verfahren einzuführen, die sicherstellen, dass computergestützte Systeme für ihre vorgesehene Anwendung geeignet sind und in Übereinstimmung mit diesen Grundsätzen der Guten Laborpraxis validiert, betrieben und gewartet werden.3)Werden bestimmte Phasen einer Prüfung an einem Prüfstandort durchgeführt, für den eine Leitung benannt wurde, so hat die Leitung dieses Prüfstandortes alle in Absatz 2 genannten Aufgaben mit Ausnahme der Aufgaben in Absatz 2 Buchstabe g, i, j und o zu übernehmen. Die Leitung einer jeden Prüfeinrichtung hat sicherzustellen, dass diese Grundsätze der Guten Laborpraxis in ihrer Prüfeinrichtung eingehalten werden. Die Leitung hat zumindest a)sicherzustellen, dass eine Erklärung mit Angabe derjenigen Person oder Personengruppe vorliegt, welche die Aufgaben der Leitung der Prüfeinrichtung im Sinne dieser Grundsätze der Guten Laborpraxis wahrnimmt;b)sicherzustellen, dass eine ausreichende Anzahl qualifizierten Personals, geeignete Räumlichkeiten, Ausrüstung und Materialien vorhanden sind, um die rechtzeitige und korrekte Durchführung der Prüfung zu gewährleisten;c)sicherzustellen, dass Aufzeichnungen über Aus-, Fort- und Weiterbildung sowie praktische Erfahrung und die Aufgabenbeschreibung für alle wissenschaftlichen und technischen Mitarbeiter geführt werden;d)sicherzustellen, dass die Mitarbeiter mit den Aufgaben, die sie ausführen sollen, vertraut sind und, falls erforderlich, eine Einführung in diese Aufgaben vorgesehen ist;e)sicherzustellen, dass angemessene und dem Stand der Technik entsprechende Standardarbeitsanweisungen erstellt und befolgt werden, und hat sämtliche ursprüngliche Standardarbeitsanweisungen sowie deren überarbeitete Versionen zu genehmigen;f)sicherzustellen, dass ein Qualitätssicherungsprogramm und das für dessen Umsetzung erforderliche Personal vorhanden ist, sowie sicherzustellen, dass die Wahrnehmung der Qualitätssicherungsaufgaben in Übereinstimmung mit diesen Grundsätzen der Guten Laborpraxis erfolgt;g)sicherzustellen, dass vor Beginn einer jeden Prüfung ein Prüfleiter mit entsprechender Aus-, Fort- und Weiterbildung sowie praktischer Erfahrung von der Leitung benannt wird. Das Ersetzen eines Prüfleiters muss nach festgelegten Verfahren erfolgen und ist schriftlich festzuhalten;h)sicherzustellen, dass im Falle von Multi-Site-Prüfungen gegebenenfalls ein Örtlicher Versuchsleiter benannt wird, der über eine entsprechende Aus-, Fort- und Weiterbildung sowie praktische Erfahrung verfügt, um die ihm übertragenen Phasen der Prüfung leiten bzw. überwachen zu können. Das Ersetzen eines Örtlichen Versuchsleiters muss nach festgelegten Verfahren erfolgen und ist schriftlich festzuhalten;i)sicherzustellen, dass jeder Prüfplan vom Prüfleiter schriftlich genehmigt wird;j)sicherzustellen, dass der Prüfleiter den genehmigten Prüfplan rechtzeitig dem Qualitätssicherungspersonal zuleitet;k)sicherzustellen, dass eine chronologische Ablage aller Standardarbeitsanweisungen geführt wird;l)sicherzustellen, dass eine verantwortliche Person für die Führung von Archiven bestimmt wird;m)sicherzustellen, dass ein Verzeichnis mit Status aller Prüfungen (Master Schedule) geführt wird;n)sicherzustellen, dass alle Versorgungsgüter in der Prüfeinrichtung den Anforderungen hinsichtlich ihrer Verwendung in der Prüfung genügen;o)sicherzustellen, dass bei Multi-Site-Prüfungen klar definierte Kommunikationswege zwischen Prüfleiter, Örtlichem Versuchsleiter, Qualitätssicherungspersonal und prüfendem Personal existieren;p)sicherzustellen, dass Prüf- und Referenzgegenstände in geeigneter Weise charakterisiert sind;q)Verfahren einzuführen, die sicherstellen, dass computergestützte Systeme für ihre vorgesehene Anwendung geeignet sind und in Übereinstimmung mit diesen Grundsätzen der Guten Laborpraxis validiert, betrieben und gewartet werden. sicherzustellen, dass eine Erklärung mit Angabe derjenigen Person oder Personengruppe vorliegt, welche die Aufgaben der Leitung der Prüfeinrichtung im Sinne dieser Grundsätze der Guten Laborpraxis wahrnimmt; sicherzustellen, dass eine ausreichende Anzahl qualifizierten Personals, geeignete Räumlichkeiten, Ausrüstung und Materialien vorhanden sind, um die rechtzeitige und korrekte Durchführung der Prüfung zu gewährleisten; sicherzustellen, dass Aufzeichnungen über Aus-, Fort- und Weiterbildung sowie praktische Erfahrung und die Aufgabenbeschreibung für alle wissenschaftlichen und technischen Mitarbeiter geführt werden; sicherzustellen, dass die Mitarbeiter mit den Aufgaben, die sie ausführen sollen, vertraut sind und, falls erforderlich, eine Einführung in diese Aufgaben vorgesehen ist; sicherzustellen, dass angemessene und dem Stand der Technik entsprechende Standardarbeitsanweisungen erstellt und befolgt werden, und hat sämtliche ursprüngliche Standardarbeitsanweisungen sowie deren überarbeitete Versionen zu genehmigen; sicherzustellen, dass ein Qualitätssicherungsprogramm und das für dessen Umsetzung erforderliche Personal vorhanden ist, sowie sicherzustellen, dass die Wahrnehmung der Qualitätssicherungsaufgaben in Übereinstimmung mit diesen Grundsätzen der Guten Laborpraxis erfolgt; sicherzustellen, dass vor Beginn einer jeden Prüfung ein Prüfleiter mit entsprechender Aus-, Fort- und Weiterbildung sowie praktischer Erfahrung von der Leitung benannt wird. Das Ersetzen eines Prüfleiters muss nach festgelegten Verfahren erfolgen und ist schriftlich festzuhalten; sicherzustellen, dass im Falle von Multi-Site-Prüfungen gegebenenfalls ein Örtlicher Versuchsleiter benannt wird, der über eine entsprechende Aus-, Fort- und Weiterbildung sowie praktische Erfahrung verfügt, um die ihm übertragenen Phasen der Prüfung leiten bzw. überwachen zu können. Das Ersetzen eines Örtlichen Versuchsleiters muss nach festgelegten Verfahren erfolgen und ist schriftlich festzuhalten; sicherzustellen, dass jeder Prüfplan vom Prüfleiter schriftlich genehmigt wird; sicherzustellen, dass der Prüfleiter den genehmigten Prüfplan rechtzeitig dem Qualitätssicherungspersonal zuleitet; sicherzustellen, dass eine chronologische Ablage aller Standardarbeitsanweisungen geführt wird; sicherzustellen, dass eine verantwortliche Person für die Führung von Archiven bestimmt wird; sicherzustellen, dass ein Verzeichnis mit Status aller Prüfungen (Master Schedule) geführt wird; sicherzustellen, dass alle Versorgungsgüter in der Prüfeinrichtung den Anforderungen hinsichtlich ihrer Verwendung in der Prüfung genügen; sicherzustellen, dass bei Multi-Site-Prüfungen klar definierte Kommunikationswege zwischen Prüfleiter, Örtlichem Versuchsleiter, Qualitätssicherungspersonal und prüfendem Personal existieren; sicherzustellen, dass Prüf- und Referenzgegenstände in geeigneter Weise charakterisiert sind; Verfahren einzuführen, die sicherstellen, dass computergestützte Systeme für ihre vorgesehene Anwendung geeignet sind und in Übereinstimmung mit diesen Grundsätzen der Guten Laborpraxis validiert, betrieben und gewartet werden. Werden bestimmte Phasen einer Prüfung an einem Prüfstandort durchgeführt, für den eine Leitung benannt wurde, so hat die Leitung dieses Prüfstandortes alle in Absatz 2 genannten Aufgaben mit Ausnahme der Aufgaben in Absatz 2 Buchstabe g, i, j und o zu übernehmen.
 
-4)
+1.2 Aufgaben des Prüfleiters 1)Der Prüfleiter ist mit der alleinigen Aufsicht über die Prüfung betraut und trägt die Verantwortung für die Gesamtdurchführung der Prüfung und für den Abschlussbericht.2)Diese Verantwortung schließt mindestens die folgenden Aufgaben ein. Der Prüfleiter hat a)den Prüfplan sowie etwaige Änderungen durch datierte Unterschrift zu genehmigen;b)sicherzustellen, dass das Qualitätssicherungspersonal jeweils rechtzeitig über eine Kopie des Prüfplans sowie etwaiger Änderungen verfügt, und er hat sich während der Durchführung der Prüfung so effektiv wie erforderlich mit dem Qualitätssicherungspersonal zu verständigen;c)sicherzustellen, dass dem prüfenden Personal Prüfpläne und etwaige Änderungen sowie Standardarbeitsanweisungen zur Verfügung stehen;d)sicherzustellen, dass der Prüfplan und der Abschlussbericht einer Multi-Site-Prüfung namentlich die an der Durchführung der Prüfung beteiligten Örtlichen Versuchsleiter und die Prüfeinrichtungen und Prüfstandorte sowie die delegierten Aufgaben beschreiben;e)sicherzustellen, dass die im Prüfplan beschriebenen Verfahren befolgt werden; er hat mögliche Auswirkungen etwaiger Prüfplanabweichungen auf die Qualität und Zuverlässigkeit der Prüfung zu bewerten und zu dokumentieren sowie gegebenenfalls Korrekturmaßnahmen zu veranlassen; etwaige Abweichungen von Standardarbeitsanweisungen bei der Durchführung der Prüfung hat er zu bestätigen;f)sicherzustellen, dass alle gewonnenen Rohdaten lückenlos festgehalten und aufgezeichnet werden;g)sicherzustellen, dass im Verlauf einer Prüfung eingesetzte computergestützte Systeme validiert sind;h)den Abschlussbericht datiert zu unterzeichnen, um damit die Verantwortung für die Zuverlässigkeit der Daten zu übernehmen und anzugeben, inwieweit die Prüfung mit diesen Grundsätzen der Guten Laborpraxis übereinstimmt;i)sicherzustellen, dass nach Abschluss der Prüfung Prüfplan, Abschlussbericht, Rohdaten und weiteres damit zusammenhängendes Material archiviert werden. Auch bei Abbruch einer Prüfung ist ein Bericht zu erstellen und hinsichtlich der Archivierung entsprechend zu verfahren. Der Prüfleiter ist mit der alleinigen Aufsicht über die Prüfung betraut und trägt die Verantwortung für die Gesamtdurchführung der Prüfung und für den Abschlussbericht. Diese Verantwortung schließt mindestens die folgenden Aufgaben ein. Der Prüfleiter hat a)den Prüfplan sowie etwaige Änderungen durch datierte Unterschrift zu genehmigen;b)sicherzustellen, dass das Qualitätssicherungspersonal jeweils rechtzeitig über eine Kopie des Prüfplans sowie etwaiger Änderungen verfügt, und er hat sich während der Durchführung der Prüfung so effektiv wie erforderlich mit dem Qualitätssicherungspersonal zu verständigen;c)sicherzustellen, dass dem prüfenden Personal Prüfpläne und etwaige Änderungen sowie Standardarbeitsanweisungen zur Verfügung stehen;d)sicherzustellen, dass der Prüfplan und der Abschlussbericht einer Multi-Site-Prüfung namentlich die an der Durchführung der Prüfung beteiligten Örtlichen Versuchsleiter und die Prüfeinrichtungen und Prüfstandorte sowie die delegierten Aufgaben beschreiben;e)sicherzustellen, dass die im Prüfplan beschriebenen Verfahren befolgt werden; er hat mögliche Auswirkungen etwaiger Prüfplanabweichungen auf die Qualität und Zuverlässigkeit der Prüfung zu bewerten und zu dokumentieren sowie gegebenenfalls Korrekturmaßnahmen zu veranlassen; etwaige Abweichungen von Standardarbeitsanweisungen bei der Durchführung der Prüfung hat er zu bestätigen;f)sicherzustellen, dass alle gewonnenen Rohdaten lückenlos festgehalten und aufgezeichnet werden;g)sicherzustellen, dass im Verlauf einer Prüfung eingesetzte computergestützte Systeme validiert sind;h)den Abschlussbericht datiert zu unterzeichnen, um damit die Verantwortung für die Zuverlässigkeit der Daten zu übernehmen und anzugeben, inwieweit die Prüfung mit diesen Grundsätzen der Guten Laborpraxis übereinstimmt;i)sicherzustellen, dass nach Abschluss der Prüfung Prüfplan, Abschlussbericht, Rohdaten und weiteres damit zusammenhängendes Material archiviert werden. Auch bei Abbruch einer Prüfung ist ein Bericht zu erstellen und hinsichtlich der Archivierung entsprechend zu verfahren. den Prüfplan sowie etwaige Änderungen durch datierte Unterschrift zu genehmigen; sicherzustellen, dass das Qualitätssicherungspersonal jeweils rechtzeitig über eine Kopie des Prüfplans sowie etwaiger Änderungen verfügt, und er hat sich während der Durchführung der Prüfung so effektiv wie erforderlich mit dem Qualitätssicherungspersonal zu verständigen; sicherzustellen, dass dem prüfenden Personal Prüfpläne und etwaige Änderungen sowie Standardarbeitsanweisungen zur Verfügung stehen; sicherzustellen, dass der Prüfplan und der Abschlussbericht einer Multi-Site-Prüfung namentlich die an der Durchführung der Prüfung beteiligten Örtlichen Versuchsleiter und die Prüfeinrichtungen und Prüfstandorte sowie die delegierten Aufgaben beschreiben; sicherzustellen, dass die im Prüfplan beschriebenen Verfahren befolgt werden; er hat mögliche Auswirkungen etwaiger Prüfplanabweichungen auf die Qualität und Zuverlässigkeit der Prüfung zu bewerten und zu dokumentieren sowie gegebenenfalls Korrekturmaßnahmen zu veranlassen; etwaige Abweichungen von Standardarbeitsanweisungen bei der Durchführung der Prüfung hat er zu bestätigen; sicherzustellen, dass alle gewonnenen Rohdaten lückenlos festgehalten und aufgezeichnet werden; sicherzustellen, dass im Verlauf einer Prüfung eingesetzte computergestützte Systeme validiert sind; den Abschlussbericht datiert zu unterzeichnen, um damit die Verantwortung für die Zuverlässigkeit der Daten zu übernehmen und anzugeben, inwieweit die Prüfung mit diesen Grundsätzen der Guten Laborpraxis übereinstimmt; sicherzustellen, dass nach Abschluss der Prüfung Prüfplan, Abschlussbericht, Rohdaten und weiteres damit zusammenhängendes Material archiviert werden. Auch bei Abbruch einer Prüfung ist ein Bericht zu erstellen und hinsichtlich der Archivierung entsprechend zu verfahren.
 
-5)
+1.3 Aufgaben des Örtlichen Versuchsleiters Der Örtliche Versuchsleiter stellt sicher, dass die an ihn übertragenen Phasen der Prüfung unter Einhaltung der anzuwendenden Grundsätze der Guten Laborpraxis durchgeführt werden.
 
-6)
+1.4 Aufgaben des prüfenden Personals 1)Das an der Durchführung einer Prüfung beteiligte Personal muss fundierte Kenntnisse über diejenigen Abschnitte der Grundsätze der Guten Laborpraxis besitzen, die seine Beteiligung an der Prüfung berühren.2)Das prüfende Personal muss direkten Zugriff auf den Prüfplan und auf die seine Beteiligung an der Prüfung betreffenden Standardarbeitsanweisungen besitzen. Die Verantwortlichkeit zur Befolgung der Anweisungen in diesen Dokumenten liegt beim prüfenden Personal. Jegliche Abweichung von den Anweisungen ist zu dokumentieren und sofort dem Prüfleiter und gegebenenfalls dem Örtlichen Versuchsleiter zu melden.3)Das prüfende Personal ist verantwortlich für die unverzügliche und genaue Erfassung von Rohdaten in Übereinstimmung mit diesen Grundsätzen der Guten Laborpraxis sowie für die Qualität dieser Daten.4)Das prüfende Personal hat Gesundheitsvorkehrungen einzuhalten, um eine Gefährdung für sich selbst auf ein Mindestmaß zu beschränken und die Zuverlässigkeit der Prüfung zu gewährleisten. Es hat relevante, ihm bekannte gesundheitliche oder medizinische Probleme der zuständigen Person mitzuteilen, um eventuell von Arbeiten ausgeschlossen werden zu können, bei denen eine Beeinträchtigung der Prüfung möglich erscheint. Das an der Durchführung einer Prüfung beteiligte Personal muss fundierte Kenntnisse über diejenigen Abschnitte der Grundsätze der Guten Laborpraxis besitzen, die seine Beteiligung an der Prüfung berühren. Das prüfende Personal muss direkten Zugriff auf den Prüfplan und auf die seine Beteiligung an der Prüfung betreffenden Standardarbeitsanweisungen besitzen. Die Verantwortlichkeit zur Befolgung der Anweisungen in diesen Dokumenten liegt beim prüfenden Personal. Jegliche Abweichung von den Anweisungen ist zu dokumentieren und sofort dem Prüfleiter und gegebenenfalls dem Örtlichen Versuchsleiter zu melden. Das prüfende Personal ist verantwortlich für die unverzügliche und genaue Erfassung von Rohdaten in Übereinstimmung mit diesen Grundsätzen der Guten Laborpraxis sowie für die Qualität dieser Daten. Das prüfende Personal hat Gesundheitsvorkehrungen einzuhalten, um eine Gefährdung für sich selbst auf ein Mindestmaß zu beschränken und die Zuverlässigkeit der Prüfung zu gewährleisten. Es hat relevante, ihm bekannte gesundheitliche oder medizinische Probleme der zuständigen Person mitzuteilen, um eventuell von Arbeiten ausgeschlossen werden zu können, bei denen eine Beeinträchtigung der Prüfung möglich erscheint.
 
-7)
+2.1 Allgemeines 1)Die Prüfeinrichtung muss über ein dokumentiertes Qualitätssicherungsprogramm verfügen, um zu gewährleisten, dass die Prüfungen in Übereinstimmung mit diesen Grundsätzen der Guten Laborpraxis durchgeführt werden.2)Das Qualitätssicherungsprogramm ist von einer oder mehreren Personen durchzuführen, die von der Leitung bestimmt werden und die ihr unmittelbar verantwortlich sind. Diese Personen müssen mit den Prüfverfahren vertraut sein.3)Diese Personen dürfen nicht an der Durchführung der Prüfung beteiligt sein, deren Qualität zu sichern ist. Die Prüfeinrichtung muss über ein dokumentiertes Qualitätssicherungsprogramm verfügen, um zu gewährleisten, dass die Prüfungen in Übereinstimmung mit diesen Grundsätzen der Guten Laborpraxis durchgeführt werden. Das Qualitätssicherungsprogramm ist von einer oder mehreren Personen durchzuführen, die von der Leitung bestimmt werden und die ihr unmittelbar verantwortlich sind. Diese Personen müssen mit den Prüfverfahren vertraut sein. Diese Personen dürfen nicht an der Durchführung der Prüfung beteiligt sein, deren Qualität zu sichern ist.
 
-8)
+2.2 Aufgaben des Qualitätssicherungspersonals Das Qualitätssicherungspersonal hat zumindest a)Kopien aller genehmigten Prüfpläne und Standardarbeitsanweisungen, die in der Prüfeinrichtung benutzt werden, bereitzuhalten und Zugriff auf das aktuelle Verzeichnis mit Status aller Prüfungen (Master Schedule) zu besitzen;b)zu überprüfen, ob der Prüfplan die nach den Grundsätzen der Guten Laborpraxis erforderlichen Informationen enthält. Diese Überprüfung ist zu dokumentieren;c)Inspektionen durchzuführen, um festzustellen, ob alle Prüfungen unter Einhaltung dieser Grundsätze der Guten Laborpraxis durchgeführt werden. Während der Inspektionen soll auch festgestellt werden, ob Prüfpläne und Standardarbeitsanweisungen dem prüfenden Personal direkt zur Verfügung stehen und befolgt werden.Es gibt drei Arten von Inspektionen, die in entsprechenden Standardarbeitsanweisungen zum Qualitätssicherungsprogramm näher zu beschreiben sind: –prüfungsbezogene Inspektionen,–einrichtungsbezogene Inspektionen,–verfahrensbezogene Inspektionen.Aufzeichnungen über diese Inspektionen sind aufzubewahren;d)die Abschlussberichte zu inspizieren und, soweit zutreffend, zu bestätigen, dass Methoden, Verfahren und Beobachtungen korrekt und umfassend beschrieben worden sind und dass die berichteten Ergebnisse die Rohdaten der Prüfungen korrekt und umfassend wiedergeben;e)sofort der Leitung und dem Prüfleiter sowie, gegebenenfalls, dem Örtlichen Versuchsleiter und dessen entsprechender Leitung Inspektionsergebnisse schriftlich zu berichten;f)eine dem Abschlussbericht beizufügende Erklärung abzufassen und zu unterzeichnen, aus der Art und Zeitpunkt der Inspektionen, die inspizierten Phasen der Prüfung sowie die Zeitpunkte, an denen der Leitung und dem Prüfleiter sowie gegebenenfalls einem Örtlichen Versuchsleiter Inspektionsergebnisse berichtet wurden, hervorgehen. Weiterhin dient diese Erklärung als Bestätigung, dass der Abschlussbericht die Rohdaten widerspiegelt. Kopien aller genehmigten Prüfpläne und Standardarbeitsanweisungen, die in der Prüfeinrichtung benutzt werden, bereitzuhalten und Zugriff auf das aktuelle Verzeichnis mit Status aller Prüfungen (Master Schedule) zu besitzen; zu überprüfen, ob der Prüfplan die nach den Grundsätzen der Guten Laborpraxis erforderlichen Informationen enthält. Diese Überprüfung ist zu dokumentieren; Inspektionen durchzuführen, um festzustellen, ob alle Prüfungen unter Einhaltung dieser Grundsätze der Guten Laborpraxis durchgeführt werden. Während der Inspektionen soll auch festgestellt werden, ob Prüfpläne und Standardarbeitsanweisungen dem prüfenden Personal direkt zur Verfügung stehen und befolgt werden. Es gibt drei Arten von Inspektionen, die in entsprechenden Standardarbeitsanweisungen zum Qualitätssicherungsprogramm näher zu beschreiben sind: –prüfungsbezogene Inspektionen,–einrichtungsbezogene Inspektionen,–verfahrensbezogene Inspektionen.Aufzeichnungen über diese Inspektionen sind aufzubewahren; prüfungsbezogene Inspektionen, einrichtungsbezogene Inspektionen, verfahrensbezogene Inspektionen. die Abschlussberichte zu inspizieren und, soweit zutreffend, zu bestätigen, dass Methoden, Verfahren und Beobachtungen korrekt und umfassend beschrieben worden sind und dass die berichteten Ergebnisse die Rohdaten der Prüfungen korrekt und umfassend wiedergeben; sofort der Leitung und dem Prüfleiter sowie, gegebenenfalls, dem Örtlichen Versuchsleiter und dessen entsprechender Leitung Inspektionsergebnisse schriftlich zu berichten; eine dem Abschlussbericht beizufügende Erklärung abzufassen und zu unterzeichnen, aus der Art und Zeitpunkt der Inspektionen, die inspizierten Phasen der Prüfung sowie die Zeitpunkte, an denen der Leitung und dem Prüfleiter sowie gegebenenfalls einem Örtlichen Versuchsleiter Inspektionsergebnisse berichtet wurden, hervorgehen. Weiterhin dient diese Erklärung als Bestätigung, dass der Abschlussbericht die Rohdaten widerspiegelt.
 
-9)
+3.1 Allgemeines 1)Die Prüfeinrichtung hat eine zweckentsprechende Größe, Konstruktion und Lage aufzuweisen, um den Anforderungen der Prüfung zu entsprechen und um Störungen, die die Zuverlässigkeit der Prüfung beeinträchtigen könnten, auf ein Mindestmaß zu beschränken.2)Die Prüfeinrichtung muss so angelegt sein, dass die einzelnen Arbeitsabläufe ausreichend voneinander getrennt werden können, um die ordnungsgemäße Durchführung jeder einzelnen Prüfung zu gewährleisten. Die Prüfeinrichtung hat eine zweckentsprechende Größe, Konstruktion und Lage aufzuweisen, um den Anforderungen der Prüfung zu entsprechen und um Störungen, die die Zuverlässigkeit der Prüfung beeinträchtigen könnten, auf ein Mindestmaß zu beschränken. Die Prüfeinrichtung muss so angelegt sein, dass die einzelnen Arbeitsabläufe ausreichend voneinander getrennt werden können, um die ordnungsgemäße Durchführung jeder einzelnen Prüfung zu gewährleisten.
 
-10)
+3.2 Räumlichkeiten und Einrichtungen für Prüfsysteme 1)Die Prüfeinrichtung muss über eine ausreichende Zahl von Räumen oder Bereichen verfügen, um die getrennte Unterbringung von Prüfsystemen und einzelnen Prüfungen für Stoffe oder Organismen, deren biologische Gefährlichkeit bekannt ist oder angenommen werden kann, zu ermöglichen.2)Geeignete Räume oder Bereiche müssen für die Diagnose, Behandlung und Bekämpfung von Krankheiten zur Verfügung stehen, um zu gewährleisten, dass keine unannehmbare Beeinträchtigung der Prüfsysteme auftritt.3)Für Versorgungsgüter und Ausrüstungsgegenstände müssen Lagerräume oder -bereiche vorhanden sein. Diese Lagerräume oder -bereiche müssen von den Unterbringungsräumen oder -bereichen für Prüfsysteme getrennt sein und angemessenen Schutz vor Ungeziefer, Verunreinigungen und Verderb gewährleisten. Die Prüfeinrichtung muss über eine ausreichende Zahl von Räumen oder Bereichen verfügen, um die getrennte Unterbringung von Prüfsystemen und einzelnen Prüfungen für Stoffe oder Organismen, deren biologische Gefährlichkeit bekannt ist oder angenommen werden kann, zu ermöglichen. Geeignete Räume oder Bereiche müssen für die Diagnose, Behandlung und Bekämpfung von Krankheiten zur Verfügung stehen, um zu gewährleisten, dass keine unannehmbare Beeinträchtigung der Prüfsysteme auftritt. Für Versorgungsgüter und Ausrüstungsgegenstände müssen Lagerräume oder -bereiche vorhanden sein. Diese Lagerräume oder -bereiche müssen von den Unterbringungsräumen oder -bereichen für Prüfsysteme getrennt sein und angemessenen Schutz vor Ungeziefer, Verunreinigungen und Verderb gewährleisten.
 
-2.3
+3.3 Räumlichkeiten und Einrichtungen für den Umgang mit Prüf- und Referenzgegenständen 1)Um Verunreinigungen und Verwechslungen zu vermeiden, müssen getrennte Räume oder Bereiche für Eingang und Lagerung der Prüf- und Referenzgegenstände und für das Mischen der Prüfgegenstände mit Trägerstoffen vorhanden sein.2)Die Lagerräume oder -bereiche für die Prüfgegenstände müssen von den Räumen oder Bereichen getrennt sein, in denen die Prüfsysteme untergebracht sind. Sie müssen geeignet sein, Identität, Konzentration, Reinheit und Stabilität der Prüfgegenstände zu wahren und die sichere Lagerung gefährlicher Stoffe zu gewährleisten. Um Verunreinigungen und Verwechslungen zu vermeiden, müssen getrennte Räume oder Bereiche für Eingang und Lagerung der Prüf- und Referenzgegenstände und für das Mischen der Prüfgegenstände mit Trägerstoffen vorhanden sein. Die Lagerräume oder -bereiche für die Prüfgegenstände müssen von den Räumen oder Bereichen getrennt sein, in denen die Prüfsysteme untergebracht sind. Sie müssen geeignet sein, Identität, Konzentration, Reinheit und Stabilität der Prüfgegenstände zu wahren und die sichere Lagerung gefährlicher Stoffe zu gewährleisten.
 
-1)
+3.4 Räumlichkeiten und Einrichtungen für Archive Räumlichkeiten für Archive müssen für eine sichere Aufbewahrung und Wiederauffindung von Prüfplänen, Rohdaten, Abschlussberichten, Rückstellmustern von Prüf- und Referenzgegenständen und Proben zur Verfügung stehen. Ausstattung und Bedingungen in den Archiven sind so zu gestalten, dass ein vorzeitiger Verderb des Archivgutes verhindert wird.
 
-2)
+3.5 Abfallbeseitigung Abfälle sind so zu handhaben und zu beseitigen, dass die Prüfungen nicht gefährdet werden. Hierzu gehören Vorkehrungen für zweckmäßige Sammlung, Lagerung, Beseitigung, Dekontaminations- und Transportverfahren.
 
-3)
+1) Geräte, einschließlich validierter computergestützter Systeme, die zur Gewinnung, Erfassung und Wiedergabe von Daten und zur Kontrolle der für die Prüfung bedeutsamen Umweltbedingungen verwendet werden, sind zweckmäßig unterzubringen und müssen eine geeignete Konstruktion und ausreichende Leistungsfähigkeit aufweisen.
 
-4)
+2) Die bei einer Prüfung verwendeten Geräte sind in regelmäßigen Zeitabständen gemäß den Standardarbeitsanweisungen zu überprüfen, zu reinigen, zu warten und zu kalibrieren. Aufzeichnungen darüber sind aufzubewahren. Kalibrierungen müssen, wo notwendig, auf nationale oder internationale Messstandards zurückgeführt werden können.
 
-5)
+3) Geräte und Materialien, die in einer Prüfung verwendet werden, dürfen die Prüfsysteme nicht beeinträchtigen.
 
-6)
+4) Chemikalien, Reagenzien und Lösungen sind so zu beschriften, dass Identität (mit Konzentration, falls nötig), Verfallsdatum sowie besondere Lagerungshinweise ersichtlich sind. Informationen zu Herkunft, Herstellungsdatum und Haltbarkeit müssen zur Verfügung stehen. Das Verfallsdatum kann auf Basis einer dokumentierten Bewertung oder Analyse verlängert werden.
 
-7)
+5.1 Physikalische und chemische Prüfsysteme 1)Geräte, mit denen physikalische und chemische Daten gewonnen werden, sind zweckmäßig unterzubringen und müssen eine geeignete Konstruktion und ausreichende Leistungsfähigkeit aufweisen.2)Die Sicherstellung der Funktion von physikalischen und chemischen Prüfsystemen muss gewährleistet sein. Geräte, mit denen physikalische und chemische Daten gewonnen werden, sind zweckmäßig unterzubringen und müssen eine geeignete Konstruktion und ausreichende Leistungsfähigkeit aufweisen. Die Sicherstellung der Funktion von physikalischen und chemischen Prüfsystemen muss gewährleistet sein.
 
-8)
+5.2 Biologische Prüfsysteme 1)Für die Aufbewahrung, Unterbringung, Handhabung und Pflege von biologischen Prüfsystemen sind geeignete Bedingungen zu schaffen, um die Qualität der Daten zu gewährleisten.2)Neu eingetroffene tierische und pflanzliche Prüfsysteme sind getrennt unterzubringen, bis ihr Gesundheitszustand festgestellt worden ist. Wenn eine ungewöhnliche Sterblichkeit oder Morbidität auftritt, darf diese Lieferung nicht bei Prüfungen benutzt werden. Pflanzliche Prüfsysteme sind gegebenenfalls auf geeignete Weise zu vernichten, tierische Prüfsysteme sind nach den Vorgaben des Tierschutzgesetzes zu behandeln. Bei Beginn der experimentellen Phase der Prüfung müssen die Prüfsysteme frei sein von allen Krankheiten oder Beeinträchtigungen, die den Zweck oder die Durchführung der Prüfung beeinflussen könnten. Prüfsysteme, die im Verlauf der Prüfung erkranken oder verletzt sind, sind, falls notwendig, zu isolieren und zu behandeln, um die Integrität der Prüfung zu gewährleisten. Über Diagnose und Behandlung etwaiger Krankheiten vor oder im Verlauf einer Prüfung sind Aufzeichnungen zu führen.3)Über Herkunft, Ankunftsdatum und Zustand bei der Ankunft der Prüfsysteme müssen Aufzeichnungen geführt werden.4)Biologische Prüfsysteme sind vor der ersten Applikation des Prüf- oder Referenzgegenstandes während eines ausreichenden Zeitraumes an die Umweltbedingungen der Prüfung zu akklimatisieren.5)Alle zur Identifizierung der Prüfsysteme erforderlichen Angaben sind auf deren Käfigen oder Behältern anzubringen. Prüfsystem-Individuen, die im Verlauf der Prüfung aus ihren Käfigen oder Behältnissen entnommen werden, müssen, soweit möglich, geeignete Identifizierungsmerkmale tragen.6)Während des Gebrauchs müssen alle Käfige oder Behälter für Prüfsysteme in angemessenen Abständen gereinigt und keimarm gemacht werden. Materialien, mit denen die Prüfsysteme in Berührung kommen, müssen frei sein von Verunreinigungen in Konzentrationen, die Auswirkungen auf die Prüfung haben könnten. Einstreu für Tiere ist so oft zu wechseln, wie es die gute Tierpflegepraxis erfordert. Die Anwendung von Schädlingsbekämpfungsmitteln ist zu dokumentieren.7)Prüfsysteme für Freilandprüfungen sind so anzulegen, dass eine Beeinflussung der Prüfung durch Sprühnebelabdrift oder früher eingesetzte Pflanzenschutzmittel vermieden wird. Für die Aufbewahrung, Unterbringung, Handhabung und Pflege von biologischen Prüfsystemen sind geeignete Bedingungen zu schaffen, um die Qualität der Daten zu gewährleisten. Neu eingetroffene tierische und pflanzliche Prüfsysteme sind getrennt unterzubringen, bis ihr Gesundheitszustand festgestellt worden ist. Wenn eine ungewöhnliche Sterblichkeit oder Morbidität auftritt, darf diese Lieferung nicht bei Prüfungen benutzt werden. Pflanzliche Prüfsysteme sind gegebenenfalls auf geeignete Weise zu vernichten, tierische Prüfsysteme sind nach den Vorgaben des Tierschutzgesetzes zu behandeln. Bei Beginn der experimentellen Phase der Prüfung müssen die Prüfsysteme frei sein von allen Krankheiten oder Beeinträchtigungen, die den Zweck oder die Durchführung der Prüfung beeinflussen könnten. Prüfsysteme, die im Verlauf der Prüfung erkranken oder verletzt sind, sind, falls notwendig, zu isolieren und zu behandeln, um die Integrität der Prüfung zu gewährleisten. Über Diagnose und Behandlung etwaiger Krankheiten vor oder im Verlauf einer Prüfung sind Aufzeichnungen zu führen. Über Herkunft, Ankunftsdatum und Zustand bei der Ankunft der Prüfsysteme müssen Aufzeichnungen geführt werden. Biologische Prüfsysteme sind vor der ersten Applikation des Prüf- oder Referenzgegenstandes während eines ausreichenden Zeitraumes an die Umweltbedingungen der Prüfung zu akklimatisieren. Alle zur Identifizierung der Prüfsysteme erforderlichen Angaben sind auf deren Käfigen oder Behältern anzubringen. Prüfsystem-Individuen, die im Verlauf der Prüfung aus ihren Käfigen oder Behältnissen entnommen werden, müssen, soweit möglich, geeignete Identifizierungsmerkmale tragen. Während des Gebrauchs müssen alle Käfige oder Behälter für Prüfsysteme in angemessenen Abständen gereinigt und keimarm gemacht werden. Materialien, mit denen die Prüfsysteme in Berührung kommen, müssen frei sein von Verunreinigungen in Konzentrationen, die Auswirkungen auf die Prüfung haben könnten. Einstreu für Tiere ist so oft zu wechseln, wie es die gute Tierpflegepraxis erfordert. Die Anwendung von Schädlingsbekämpfungsmitteln ist zu dokumentieren. Prüfsysteme für Freilandprüfungen sind so anzulegen, dass eine Beeinflussung der Prüfung durch Sprühnebelabdrift oder früher eingesetzte Pflanzenschutzmittel vermieden wird.
 
-9)
+6.1 Eingang, Handhabung, Entnahme und Lagerung 1)Aufzeichnungen sind zu führen, aus denen die Charakterisierung der Prüf- und Referenzgegenstände, das Eingangsdatum, das Verfallsdatum, die eingegangenen und die bei den Prüfungen verwendeten Mengen ersichtlich sind.2)Handhabungs-, Entnahme- und Lagerungsverfahren sind so festzulegen, dass die Homogenität und Stabilität so weit wie möglich gewährleistet und Verunreinigungen oder Verwechslungen ausgeschlossen sind.3)Auf den Lagerbehältnissen sind Kennzeichnungsangaben, Verfallsdatum und besondere Lagerungshinweise anzubringen. Aufzeichnungen sind zu führen, aus denen die Charakterisierung der Prüf- und Referenzgegenstände, das Eingangsdatum, das Verfallsdatum, die eingegangenen und die bei den Prüfungen verwendeten Mengen ersichtlich sind. Handhabungs-, Entnahme- und Lagerungsverfahren sind so festzulegen, dass die Homogenität und Stabilität so weit wie möglich gewährleistet und Verunreinigungen oder Verwechslungen ausgeschlossen sind. Auf den Lagerbehältnissen sind Kennzeichnungsangaben, Verfallsdatum und besondere Lagerungshinweise anzubringen.
 
-10)
+6.2 Charakterisierung 1)Jeder Prüf- und Referenzgegenstand ist in geeigneter Weise zu kennzeichnen (z. B. durch Code, Chemical-Abstracts-Register-Nummer (CAS-Nummer), Bezeichnung, biologische Parameter).2)Für jede Prüfung müssen Identität, einschließlich Chargennummer, Reinheit, Zusammensetzung, Konzentration oder sonstige Eigenschaften zur Charakterisierung jeder Charge der Prüf- oder Referenzgegenstände bekannt sein.3)Bei der Lieferung des Prüfgegenstandes durch einen Auftraggeber ist in Zusammenarbeit zwischen Auftraggeber und Prüfeinrichtung ein Verfahren festzulegen, auf welche Weise die Identität des Prüfgegenstandes, der in der Prüfung eingesetzt wird, eindeutig bestätigt wird.4)Die Stabilität der Prüf- und Referenzgegenstände unter Lager- und Prüfbedingungen muss für alle Prüfungen bekannt sein.5)Falls der Prüfgegenstand in einem Trägerstoff verabreicht wird, sind die Homogenität, Konzentration und Stabilität des Prüfgegenstandes in diesem Trägerstoff zu bestimmen. Bei Prüfgegenständen für Freilandprüfungen (z. B. Spritzflüssigkeiten) können diese Parameter durch getrennte Laboruntersuchungen bestimmt werden.6)Für eine eventuelle analytische Absicherung ist von jeder Charge eines Prüfgegenstandes, der in einer Prüfung, mit Ausnahme von Kurzzeitprüfungen, verwendet wird, ein Rückstellmuster aufzubewahren. Jeder Prüf- und Referenzgegenstand ist in geeigneter Weise zu kennzeichnen (z. B. durch Code, Chemical-Abstracts-Register-Nummer (CAS-Nummer), Bezeichnung, biologische Parameter). Für jede Prüfung müssen Identität, einschließlich Chargennummer, Reinheit, Zusammensetzung, Konzentration oder sonstige Eigenschaften zur Charakterisierung jeder Charge der Prüf- oder Referenzgegenstände bekannt sein. Bei der Lieferung des Prüfgegenstandes durch einen Auftraggeber ist in Zusammenarbeit zwischen Auftraggeber und Prüfeinrichtung ein Verfahren festzulegen, auf welche Weise die Identität des Prüfgegenstandes, der in der Prüfung eingesetzt wird, eindeutig bestätigt wird. Die Stabilität der Prüf- und Referenzgegenstände unter Lager- und Prüfbedingungen muss für alle Prüfungen bekannt sein. Falls der Prüfgegenstand in einem Trägerstoff verabreicht wird, sind die Homogenität, Konzentration und Stabilität des Prüfgegenstandes in diesem Trägerstoff zu bestimmen. Bei Prüfgegenständen für Freilandprüfungen (z. B. Spritzflüssigkeiten) können diese Parameter durch getrennte Laboruntersuchungen bestimmt werden. Für eine eventuelle analytische Absicherung ist von jeder Charge eines Prüfgegenstandes, der in einer Prüfung, mit Ausnahme von Kurzzeitprüfungen, verwendet wird, ein Rückstellmuster aufzubewahren.
 
-11)
+1) Eine Prüfeinrichtung muss über schriftliche Standardarbeitsanweisungen verfügen, die von ihrer Leitung genehmigt und dafür vorgesehen sind, die Qualität und Zuverlässigkeit der im Verlauf der Prüfung in der Prüfeinrichtung gewonnenen Daten zu gewährleisten. Auch die überarbeiteten Versionen der Standardarbeitsanweisungen sind von der Leitung der Prüfeinrichtung zu genehmigen.
 
-12)
+2) Jeder einzelnen Arbeitseinheit und jedem einzelnen Arbeitsbereich der Prüfeinrichtung müssen die für die dort durchgeführten Arbeiten relevanten Standardarbeitsanweisungen in aktueller Version unmittelbar zur Verfügung stehen. Veröffentlichte Fachbücher, analytische Methoden und Fachartikel sowie Bedienungsanleitungen können als Ergänzung zu diesen Standardanweisungen verwendet werden.
 
-2.4
+3) Prüfungsbedingte Abweichungen von Standardarbeitsanweisungen sind zu dokumentieren und vom Prüfleiter und gegebenenfalls vom Örtlichen Versuchsleiter zu bestätigen.
 
-1)
+4) Standardarbeitsanweisungen müssen mindestens für folgende Bereiche vorhanden sein, wobei die unter den jeweiligen Überschriften angegebenen Einzelheiten als veranschaulichende Beispiele anzusehen sind: 1.Prüf- und ReferenzgegenständeEingang, Identifizierung, Kennzeichnung, Handhabung, Entnahme und Lagerung.2.Geräte, Materialien und Reagenzien a)GeräteBedienung, Wartung, Reinigung, Kalibrierung;b)Computergestützte SystemeValidierung, Betrieb, Wartung, Sicherheit, kontrollierte Systemänderung (change control) und Datensicherung (back-up);c)Materialien, Reagenzien und LösungenZubereitung und Kennzeichnung.3.Führen von Aufzeichnungen, Berichterstattung, Aufbewahrung und WiederauffindungKodieren der Prüfungen, Datenerhebung, Erstellen von Berichten, Indexierungssysteme, Umgang mit Daten einschließlich Verwendung von computergestützten Systemen.4.Prüfsysteme, soweit für die Prüfung relevant a)Vorbereitung von Räumen und Raumumweltbedingungen für Prüfsysteme;b)Verfahren für Eingang, Umsetzung, ordnungsgemäße Unterbringung, Charakterisierung, Identifizierung und Versorgung der Prüfsysteme;c)Vorbereitung, Beobachtung und Untersuchung der Prüfsysteme vor, während und am Ende der Prüfung;d)Handhabung von Tieren, die im Verlauf der Prüfung moribund oder tot aufgefunden werden;e)Sammlung, Kennzeichnung und Handhabung von Proben einschließlich Sektion und Histopathologie;f)Anlage und Standortwahl von Prüfsystemen auf Prüfflächen.5.QualitätssicherungsverfahrenTätigkeit des Qualitätssicherungspersonals bei der organisatorischen und terminlichen Planung, Durchführung, Dokumentation und Berichterstattung von Inspektionen. Prüf- und Referenzgegenstände Eingang, Identifizierung, Kennzeichnung, Handhabung, Entnahme und Lagerung. Geräte, Materialien und Reagenzien a)GeräteBedienung, Wartung, Reinigung, Kalibrierung;b)Computergestützte SystemeValidierung, Betrieb, Wartung, Sicherheit, kontrollierte Systemänderung (change control) und Datensicherung (back-up);c)Materialien, Reagenzien und LösungenZubereitung und Kennzeichnung. Geräte Bedienung, Wartung, Reinigung, Kalibrierung; Computergestützte Systeme Validierung, Betrieb, Wartung, Sicherheit, kontrollierte Systemänderung (change control) und Datensicherung (back-up); Materialien, Reagenzien und Lösungen Zubereitung und Kennzeichnung. Führen von Aufzeichnungen, Berichterstattung, Aufbewahrung und Wiederauffindung Kodieren der Prüfungen, Datenerhebung, Erstellen von Berichten, Indexierungssysteme, Umgang mit Daten einschließlich Verwendung von computergestützten Systemen. Prüfsysteme, soweit für die Prüfung relevant a)Vorbereitung von Räumen und Raumumweltbedingungen für Prüfsysteme;b)Verfahren für Eingang, Umsetzung, ordnungsgemäße Unterbringung, Charakterisierung, Identifizierung und Versorgung der Prüfsysteme;c)Vorbereitung, Beobachtung und Untersuchung der Prüfsysteme vor, während und am Ende der Prüfung;d)Handhabung von Tieren, die im Verlauf der Prüfung moribund oder tot aufgefunden werden;e)Sammlung, Kennzeichnung und Handhabung von Proben einschließlich Sektion und Histopathologie;f)Anlage und Standortwahl von Prüfsystemen auf Prüfflächen. Vorbereitung von Räumen und Raumumweltbedingungen für Prüfsysteme; Verfahren für Eingang, Umsetzung, ordnungsgemäße Unterbringung, Charakterisierung, Identifizierung und Versorgung der Prüfsysteme; Vorbereitung, Beobachtung und Untersuchung der Prüfsysteme vor, während und am Ende der Prüfung; Handhabung von Tieren, die im Verlauf der Prüfung moribund oder tot aufgefunden werden; Sammlung, Kennzeichnung und Handhabung von Proben einschließlich Sektion und Histopathologie; Anlage und Standortwahl von Prüfsystemen auf Prüfflächen. Qualitätssicherungsverfahren Tätigkeit des Qualitätssicherungspersonals bei der organisatorischen und terminlichen Planung, Durchführung, Dokumentation und Berichterstattung von Inspektionen.
 
-2)
+8.1 Prüfplan 1)Vor Beginn jeder Prüfung muss ein schriftlicher Prüfplan vorliegen. Der Prüfplan muss vom Prüfleiter durch datierte Unterschrift genehmigt und vom Qualitätssicherungspersonal auf GLP-Konformität gemäß Abschnitt II Nummer 2.2 Buchstabe b überprüft werden.(2a)Prüfplanänderungen müssen begründet und durch datierte Unterschrift des Prüfleiters genehmigt werden und sind gemeinsam mit dem Prüfplan aufzubewahren.(2b)Prüfplanabweichungen müssen vom Prüfleiter und vom zuständigen Örtlichen Versuchsleiter umgehend beschrieben, erläutert, bestätigt und datiert sowie zusammen mit den Rohdaten aufbewahrt werden.(3)Bei Kurzzeitprüfungen kann ein Standard-Prüfplan mit prüfungsspezifischen Ergänzungen benutzt werden. Vor Beginn jeder Prüfung muss ein schriftlicher Prüfplan vorliegen. Der Prüfplan muss vom Prüfleiter durch datierte Unterschrift genehmigt und vom Qualitätssicherungspersonal auf GLP-Konformität gemäß Abschnitt II Nummer 2.2 Buchstabe b überprüft werden. Prüfplanänderungen müssen begründet und durch datierte Unterschrift des Prüfleiters genehmigt werden und sind gemeinsam mit dem Prüfplan aufzubewahren. Prüfplanabweichungen müssen vom Prüfleiter und vom zuständigen Örtlichen Versuchsleiter umgehend beschrieben, erläutert, bestätigt und datiert sowie zusammen mit den Rohdaten aufbewahrt werden. Bei Kurzzeitprüfungen kann ein Standard-Prüfplan mit prüfungsspezifischen Ergänzungen benutzt werden.
 
-3)
+8.2 Inhalt des Prüfplans Der Prüfplan muss mindestens folgende Angaben enthalten: 1)Bezeichnung der Prüfung, der Prüf- und Referenzgegenstände a)beschreibender Titel;b)Erklärung über Art und Zweck der Prüfung;c)Bezeichnung des Prüfgegenstandes durch Code oder Name (IUPAC, CAS-Nummer, biologische Parameter usw.);d)zu verwendender Referenzgegenstand.2)Angaben über den Auftraggeber und die Prüfeinrichtung a)Name und Anschrift des Auftraggebers;b)Name und Anschrift der Prüfeinrichtung sowie aller weiteren an der Prüfung beteiligten Prüfeinrichtungen und Prüfstandorte;c)Name und Anschrift des Prüfleiters;d)Name und Anschrift des Örtlichen Versuchsleiters und die Bezeichnung der Phasen der Prüfung, die vom Prüfleiter unter seine Verantwortlichkeit gestellt wurden.3)Termine a)Das Datum der Genehmigung des Prüfplans durch die Unterschrift des Prüfleiters.b)Voraussichtliche Termine für Beginn und Ende der experimentellen Phase der Prüfung.4)PrüfmethodenBezugnahme auf die anzuwendenden OECD-Prüfrichtlinien oder sonstige anzuwendende Prüfrichtlinien oder -methoden.5)Einzelangaben, soweit für die Prüfung relevant a)Begründung für die Wahl des Prüfsystems;b)Charakterisierung des Prüfsystems, wie Tierart, Stamm, Unterstamm, Herkunft, Anzahl, Körpergewichtsbereich, Geschlecht, Alter und sonstige sachdienliche Angaben;c)Applikationsmethode und Begründung für deren Wahl;d)Dosierungen und Konzentrationen, Häufigkeit und Dauer der Applikation;e)Ausführliche Angaben über die experimentelle Gesamtplanung, einschließlich der chronologischen Beschreibung des Prüfablaufs, aller Methoden, Materialien und Bedingungen, sowie Art und Häufigkeit der vorzunehmenden Analysen, Messungen, Beobachtungen und Untersuchungen und die gegebenenfalls anzuwendenden statistischen Verfahren.6)AufzeichnungenListe der aufzubewahrenden Aufzeichnungen. Bezeichnung der Prüfung, der Prüf- und Referenzgegenstände a)beschreibender Titel;b)Erklärung über Art und Zweck der Prüfung;c)Bezeichnung des Prüfgegenstandes durch Code oder Name (IUPAC, CAS-Nummer, biologische Parameter usw.);d)zu verwendender Referenzgegenstand. beschreibender Titel; Erklärung über Art und Zweck der Prüfung; Bezeichnung des Prüfgegenstandes durch Code oder Name (IUPAC, CAS-Nummer, biologische Parameter usw.); zu verwendender Referenzgegenstand. Angaben über den Auftraggeber und die Prüfeinrichtung a)Name und Anschrift des Auftraggebers;b)Name und Anschrift der Prüfeinrichtung sowie aller weiteren an der Prüfung beteiligten Prüfeinrichtungen und Prüfstandorte;c)Name und Anschrift des Prüfleiters;d)Name und Anschrift des Örtlichen Versuchsleiters und die Bezeichnung der Phasen der Prüfung, die vom Prüfleiter unter seine Verantwortlichkeit gestellt wurden. Name und Anschrift des Auftraggebers; Name und Anschrift der Prüfeinrichtung sowie aller weiteren an der Prüfung beteiligten Prüfeinrichtungen und Prüfstandorte; Name und Anschrift des Prüfleiters; Name und Anschrift des Örtlichen Versuchsleiters und die Bezeichnung der Phasen der Prüfung, die vom Prüfleiter unter seine Verantwortlichkeit gestellt wurden. Termine a)Das Datum der Genehmigung des Prüfplans durch die Unterschrift des Prüfleiters.b)Voraussichtliche Termine für Beginn und Ende der experimentellen Phase der Prüfung. Das Datum der Genehmigung des Prüfplans durch die Unterschrift des Prüfleiters. Voraussichtliche Termine für Beginn und Ende der experimentellen Phase der Prüfung. Prüfmethoden Bezugnahme auf die anzuwendenden OECD-Prüfrichtlinien oder sonstige anzuwendende Prüfrichtlinien oder -methoden. Einzelangaben, soweit für die Prüfung relevant a)Begründung für die Wahl des Prüfsystems;b)Charakterisierung des Prüfsystems, wie Tierart, Stamm, Unterstamm, Herkunft, Anzahl, Körpergewichtsbereich, Geschlecht, Alter und sonstige sachdienliche Angaben;c)Applikationsmethode und Begründung für deren Wahl;d)Dosierungen und Konzentrationen, Häufigkeit und Dauer der Applikation;e)Ausführliche Angaben über die experimentelle Gesamtplanung, einschließlich der chronologischen Beschreibung des Prüfablaufs, aller Methoden, Materialien und Bedingungen, sowie Art und Häufigkeit der vorzunehmenden Analysen, Messungen, Beobachtungen und Untersuchungen und die gegebenenfalls anzuwendenden statistischen Verfahren. Begründung für die Wahl des Prüfsystems; Charakterisierung des Prüfsystems, wie Tierart, Stamm, Unterstamm, Herkunft, Anzahl, Körpergewichtsbereich, Geschlecht, Alter und sonstige sachdienliche Angaben; Applikationsmethode und Begründung für deren Wahl; Dosierungen und Konzentrationen, Häufigkeit und Dauer der Applikation; Ausführliche Angaben über die experimentelle Gesamtplanung, einschließlich der chronologischen Beschreibung des Prüfablaufs, aller Methoden, Materialien und Bedingungen, sowie Art und Häufigkeit der vorzunehmenden Analysen, Messungen, Beobachtungen und Untersuchungen und die gegebenenfalls anzuwendenden statistischen Verfahren. Aufzeichnungen Liste der aufzubewahrenden Aufzeichnungen.
 
-4)
+8.3 Durchführung der Prüfung 1)Jede Prüfung muss eine unverwechselbare Bezeichnung erhalten. Alle diese Prüfung betreffenden Unterlagen und Materialien müssen diese Bezeichnung aufweisen. Proben aus der Prüfung sind so zu kennzeichnen, dass ihre Herkunft eindeutig nachvollziehbar ist. Eine derartige Kennzeichnung dient der Rückführbarkeit der Probe auf eine bestimmte Prüfung.2)Die Prüfung ist gemäß dem Prüfplan durchzuführen.3)Alle während der Prüfung erhobenen Daten sind durch die erhebende Person unmittelbar, unverzüglich, genau und leserlich aufzuzeichnen. Diese Aufzeichnungen sind datiert zu unterschreiben oder abzuzeichnen.4)Jede Änderung in den Rohdaten ist so vorzunehmen, dass die ursprüngliche Aufzeichnung ersichtlich bleibt; sie ist mit einer Begründung sowie mit Datum und Unterschrift oder Kürzel der die Änderung vornehmenden Person zu versehen.5)Daten, die als direkte Computereingabe entstehen, sind zur Zeit der Dateneingabe durch die dafür verantwortlichen Personen zu kennzeichnen. Computergestützte Systeme müssen so ausgelegt sein, dass jederzeit die Aufzeichnung eines vollständigen audit trails zur Verfügung steht, der sämtliche Datenänderungen anzeigt, ohne die Originaldaten unkenntlich zu machen. Alle Datenänderungen müssen mit der sie ändernden Person verknüpft werden können, z. B. durch die Verwendung von mit Datum und Uhrzeit versehenen (elektronischen) Unterschriften. Änderungen sind zu begründen. Jede Prüfung muss eine unverwechselbare Bezeichnung erhalten. Alle diese Prüfung betreffenden Unterlagen und Materialien müssen diese Bezeichnung aufweisen. Proben aus der Prüfung sind so zu kennzeichnen, dass ihre Herkunft eindeutig nachvollziehbar ist. Eine derartige Kennzeichnung dient der Rückführbarkeit der Probe auf eine bestimmte Prüfung. Die Prüfung ist gemäß dem Prüfplan durchzuführen. Alle während der Prüfung erhobenen Daten sind durch die erhebende Person unmittelbar, unverzüglich, genau und leserlich aufzuzeichnen. Diese Aufzeichnungen sind datiert zu unterschreiben oder abzuzeichnen. Jede Änderung in den Rohdaten ist so vorzunehmen, dass die ursprüngliche Aufzeichnung ersichtlich bleibt; sie ist mit einer Begründung sowie mit Datum und Unterschrift oder Kürzel der die Änderung vornehmenden Person zu versehen. Daten, die als direkte Computereingabe entstehen, sind zur Zeit der Dateneingabe durch die dafür verantwortlichen Personen zu kennzeichnen. Computergestützte Systeme müssen so ausgelegt sein, dass jederzeit die Aufzeichnung eines vollständigen audit trails zur Verfügung steht, der sämtliche Datenänderungen anzeigt, ohne die Originaldaten unkenntlich zu machen. Alle Datenänderungen müssen mit der sie ändernden Person verknüpft werden können, z. B. durch die Verwendung von mit Datum und Uhrzeit versehenen (elektronischen) Unterschriften. Änderungen sind zu begründen.
 
-1.1
+9.1 Allgemeines 1)Für jede Prüfung muss ein Abschlussbericht erstellt werden. Bei Kurzzeitprüfungen kann ein Standard-Abschlussbericht mit prüfungsspezifischen Ergänzungen erstellt werden.2)Jeder Bericht eines an der Prüfung beteiligten Örtlichen Versuchsleiters oder beteiligten Spezialisten ist von diesem datiert zu unterschreiben.3)Der Abschlussbericht muss vom Prüfleiter datiert unterschrieben werden, um die Übernahme der Verantwortung für die Zuverlässigkeit der Daten zu dokumentieren. Des Weiteren ist anzugeben, inwieweit die Prüfung mit diesen Grundsätzen der Guten Laborpraxis übereinstimmt.4)Korrekturen und Ergänzungen eines Abschlussberichts sind in Form von Nachträgen vorzunehmen. In diesen Nachträgen sind die Gründe für die Korrekturen oder Ergänzungen deutlich darzulegen und vom Prüfleiter datiert zu unterzeichnen.5)Eine Reformatierung des Abschlussberichts zur Erfüllung von Zulassungsbestimmungen einer nationalen Bewertungsbehörde stellt keine Korrektur, Ergänzung oder Änderung des Abschlussberichts im obigen Sinne dar. Für jede Prüfung muss ein Abschlussbericht erstellt werden. Bei Kurzzeitprüfungen kann ein Standard-Abschlussbericht mit prüfungsspezifischen Ergänzungen erstellt werden. Jeder Bericht eines an der Prüfung beteiligten Örtlichen Versuchsleiters oder beteiligten Spezialisten ist von diesem datiert zu unterschreiben. Der Abschlussbericht muss vom Prüfleiter datiert unterschrieben werden, um die Übernahme der Verantwortung für die Zuverlässigkeit der Daten zu dokumentieren. Des Weiteren ist anzugeben, inwieweit die Prüfung mit diesen Grundsätzen der Guten Laborpraxis übereinstimmt. Korrekturen und Ergänzungen eines Abschlussberichts sind in Form von Nachträgen vorzunehmen. In diesen Nachträgen sind die Gründe für die Korrekturen oder Ergänzungen deutlich darzulegen und vom Prüfleiter datiert zu unterzeichnen. Eine Reformatierung des Abschlussberichts zur Erfüllung von Zulassungsbestimmungen einer nationalen Bewertungsbehörde stellt keine Korrektur, Ergänzung oder Änderung des Abschlussberichts im obigen Sinne dar.
 
-1)
+9.2 Inhalt des Abschlussberichts Der Abschlussbericht muss mindestens folgende Angaben enthalten: 1)Bezeichnung der Prüfung, der Prüf- und Referenzgegenstände a)beschreibender Titel;b)Bezeichnung des Prüfgegenstandes durch Code oder Name (IUPAC, CAS-Nummer, biologische Parameter usw.);c)Bezeichnung des Referenzgegenstandes durch den Namen;d)Charakterisierung des Prüfgegenstandes einschließlich Reinheit, Stabilität und Homogenität.2)Angaben über den Auftraggeber und die Prüfeinrichtung a)Name und Anschrift des Auftraggebers;b)Name und Anschrift aller beteiligten Prüfeinrichtungen und Prüfstandorte;c)Name und Anschrift des Prüfleiters;d)Name und Anschrift des Örtlichen Versuchsleiters sowie die delegierten Phasen der Prüfung, soweit zutreffend;e)Name und Anschrift der Wissenschaftler, die Berichte zum Abschlussbericht beigetragen haben.3)TermineZeitpunkt für Beginn und Ende der experimentellen Phase der Prüfung.4)ErklärungQualitätssicherungserklärung, aus der Art und Zeitpunkt der Inspektionen, die inspizierten Phasen der Prüfung sowie die Zeitpunkte hervorgehen, an denen der Leitung und dem Prüfleiter sowie gegebenenfalls einem Örtlichen Versuchsleiter Inspektionsergebnisse berichtet wurden. Diese Erklärung dient auch als Bestätigung, dass der Abschlussbericht die Rohdaten widerspiegelt.5)Beschreibung von Materialien und Prüfmethoden a)Beschreibung der verwendeten Methoden und Materialien;b)Verweis auf OECD-Prüfrichtlinien oder sonstige Prüfrichtlinien/-methoden.6)Ergebnisse a)Zusammenfassung der Ergebnisse;b)alle im Prüfplan geforderten Informationen und Daten;c)Darlegung der Ergebnisse einschließlich der Berechnungen sowie der Bestimmungen der statistischen Signifikanz;d)Bewertung und Diskussion der Ergebnisse und gegebenenfalls Schlussfolgerungen.7)AufbewahrungAufbewahrungsorte des Prüfplans, der Rückstellmuster von Prüf- und Referenzgegenständen, Proben, Rohdaten und des Abschlussberichts. Bezeichnung der Prüfung, der Prüf- und Referenzgegenstände a)beschreibender Titel;b)Bezeichnung des Prüfgegenstandes durch Code oder Name (IUPAC, CAS-Nummer, biologische Parameter usw.);c)Bezeichnung des Referenzgegenstandes durch den Namen;d)Charakterisierung des Prüfgegenstandes einschließlich Reinheit, Stabilität und Homogenität. beschreibender Titel; Bezeichnung des Prüfgegenstandes durch Code oder Name (IUPAC, CAS-Nummer, biologische Parameter usw.); Bezeichnung des Referenzgegenstandes durch den Namen; Charakterisierung des Prüfgegenstandes einschließlich Reinheit, Stabilität und Homogenität. Angaben über den Auftraggeber und die Prüfeinrichtung a)Name und Anschrift des Auftraggebers;b)Name und Anschrift aller beteiligten Prüfeinrichtungen und Prüfstandorte;c)Name und Anschrift des Prüfleiters;d)Name und Anschrift des Örtlichen Versuchsleiters sowie die delegierten Phasen der Prüfung, soweit zutreffend;e)Name und Anschrift der Wissenschaftler, die Berichte zum Abschlussbericht beigetragen haben. Name und Anschrift des Auftraggebers; Name und Anschrift aller beteiligten Prüfeinrichtungen und Prüfstandorte; Name und Anschrift des Prüfleiters; Name und Anschrift des Örtlichen Versuchsleiters sowie die delegierten Phasen der Prüfung, soweit zutreffend; Name und Anschrift der Wissenschaftler, die Berichte zum Abschlussbericht beigetragen haben. Termine Zeitpunkt für Beginn und Ende der experimentellen Phase der Prüfung. Erklärung Qualitätssicherungserklärung, aus der Art und Zeitpunkt der Inspektionen, die inspizierten Phasen der Prüfung sowie die Zeitpunkte hervorgehen, an denen der Leitung und dem Prüfleiter sowie gegebenenfalls einem Örtlichen Versuchsleiter Inspektionsergebnisse berichtet wurden. Diese Erklärung dient auch als Bestätigung, dass der Abschlussbericht die Rohdaten widerspiegelt. Beschreibung von Materialien und Prüfmethoden a)Beschreibung der verwendeten Methoden und Materialien;b)Verweis auf OECD-Prüfrichtlinien oder sonstige Prüfrichtlinien/-methoden. Beschreibung der verwendeten Methoden und Materialien; Verweis auf OECD-Prüfrichtlinien oder sonstige Prüfrichtlinien/-methoden. Ergebnisse a)Zusammenfassung der Ergebnisse;b)alle im Prüfplan geforderten Informationen und Daten;c)Darlegung der Ergebnisse einschließlich der Berechnungen sowie der Bestimmungen der statistischen Signifikanz;d)Bewertung und Diskussion der Ergebnisse und gegebenenfalls Schlussfolgerungen. Zusammenfassung der Ergebnisse; alle im Prüfplan geforderten Informationen und Daten; Darlegung der Ergebnisse einschließlich der Berechnungen sowie der Bestimmungen der statistischen Signifikanz; Bewertung und Diskussion der Ergebnisse und gegebenenfalls Schlussfolgerungen. Aufbewahrung Aufbewahrungsorte des Prüfplans, der Rückstellmuster von Prüf- und Referenzgegenständen, Proben, Rohdaten und des Abschlussberichts.
 
-2)
+10.1 Zu den Archiven dürfen nur von der Leitung dazu befugte Personen Zutritt haben. Über Entnahme und Rückgabe sind Aufzeichnungen zu führen.
 
-a)
+10.2 Folgendes ist 15 Jahre in den Archiven aufzubewahren: a)Prüfplan, Rohdaten, Rückstellmuster von Prüf- und Referenzgegenständen, Proben und Abschlussbericht jeder Prüfung;b)Aufzeichnungen über alle nach dem Qualitätssicherungsprogramm vorgenommenen Inspektionen sowie das Verzeichnis mit Status aller Prüfungen (Master Schedule);c)Aufzeichnungen über die Aus-, Fort- und Weiterbildung sowie praktische Erfahrung des Personals, ferner die Aufgabenbeschreibungen;d)Aufzeichnungen und Berichte über die Wartung und Kalibrierung der Geräte;e)Validierungsunterlagen für computergestützte Systeme;f)chronologische Ablage aller Standardarbeitsanweisungen;g)Aufzeichnungen zur Kontrolle der Umweltbedingungen.Falls für bestimmte prüfungsrelevante Materialien kein Archivierungszeitraum in Satz 1 festgelegt wurde, ist deren Entsorgung zu dokumentieren. Falls Rückstellmuster von Prüf- und Referenzgegenständen vor Ablauf des festgelegten Archivierungszeitraums entsorgt werden, ist dies zu begründen und zu dokumentieren. Rückstellmuster von Prüf- und Referenzgegenständen sowie Proben müssen nur so lange aufbewahrt werden, wie deren Qualität eine Beurteilung zulässt. Prüfplan, Rohdaten, Rückstellmuster von Prüf- und Referenzgegenständen, Proben und Abschlussbericht jeder Prüfung; Aufzeichnungen über alle nach dem Qualitätssicherungsprogramm vorgenommenen Inspektionen sowie das Verzeichnis mit Status aller Prüfungen (Master Schedule); Aufzeichnungen über die Aus-, Fort- und Weiterbildung sowie praktische Erfahrung des Personals, ferner die Aufgabenbeschreibungen; Aufzeichnungen und Berichte über die Wartung und Kalibrierung der Geräte; Validierungsunterlagen für computergestützte Systeme; chronologische Ablage aller Standardarbeitsanweisungen; Aufzeichnungen zur Kontrolle der Umweltbedingungen.
 
-b)
+10.3 Archiviertes Material ist zu indexieren, um ein ordnungsgemäßes Aufbewahren und Wiederauffinden zu erleichtern.
 
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-p)
-
-q)
-
-3)
-
-1.2
-
-1)
-
-2)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-1.3
-
-1.4
-
-1)
-
-2)
-
-3)
-
-4)
-
-2.1
-
-1)
-
-2)
-
-3)
-
-2.2
-
-a)
-
-b)
-
-c)
-
-–
-
-–
-
-–
-
-d)
-
-e)
-
-f)
-
-3.1
-
-1)
-
-2)
-
-3.2
-
-1)
-
-2)
-
-3)
-
-3.3
-
-1)
-
-2)
-
-3.4
-
-3.5
-
-1)
-
-2)
-
-3)
-
-4)
-
-5.1
-
-1)
-
-2)
-
-5.2
-
-1)
-
-2)
-
-3)
-
-4)
-
-5)
-
-6)
-
-7)
-
-6.1
-
-1)
-
-2)
-
-3)
-
-6.2
-
-1)
-
-2)
-
-3)
-
-4)
-
-5)
-
-6)
-
-1)
-
-2)
-
-3)
-
-4)
-
-1.
-
-2.
-
-a)
-
-b)
-
-c)
-
-3.
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-5.
-
-8.1
-
-1)
-
-(2a)
-
-(2b)
-
-(3)
-
-8.2
-
-1)
-
-a)
-
-b)
-
-c)
-
-d)
-
-2)
-
-a)
-
-b)
-
-c)
-
-d)
-
-3)
-
-a)
-
-b)
-
-4)
-
-5)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-6)
-
-8.3
-
-1)
-
-2)
-
-3)
-
-4)
-
-5)
-
-9.1
-
-1)
-
-2)
-
-3)
-
-4)
-
-5)
-
-9.2
-
-1)
-
-a)
-
-b)
-
-c)
-
-d)
-
-2)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-3)
-
-4)
-
-5)
-
-a)
-
-b)
-
-6)
-
-a)
-
-b)
-
-c)
-
-d)
-
-7)
-
-10.1
-
-10.2
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-10.3
-
-10.4
+10.4 Wenn eine Prüfeinrichtung oder ein Vertragsarchiv die Tätigkeit einstellt und keinen Rechtsnachfolger hat, ist das Archiv an die Archive der Auftraggeber der Prüfungen zu überführen.
 
 ### Anhang 2 — (zu § 19b Abs. 1)
-
-□ Prüfeinrichtung/Test facility   □ Prüfstandort/Test site
 
 (Unverwechselbare Bezeichnung und Adresse/Unequivocal name and address)
 
@@ -1909,9 +1221,5 @@ Datum der Inspektion/Date of Inspection
 (Tag.Monat.Jahr/day.month.year)
 
 Unterschrift, Datum/Signature, Date
-
-(Name und Funktion der verantwortlichen Person/ Name and function of responsible person)
-
-(Name und Adresse der GLP-Überwachungsbehörde/ Name and address of the GLP Monitoring Authority)
 
 Die Bescheinigung ist befristet bis zum … [Datum der Befristung]. Sofern vor Ablauf der Befristung der Bescheinigung ein neuer Antrag nach § 19b Absatz 1 Satz 1 ChemG gestellt wird, gilt die Bescheinigung bis zur Entscheidung über den Antrag fort.

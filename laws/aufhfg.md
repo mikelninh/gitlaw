@@ -14,13 +14,13 @@ Es wird ein nationaler Solidaritätsfonds "Aufbauhilfe" als Sondervermögen des 
 
 (1) Der Fonds dient der Leistung von Hilfen in den vom Hochwasser vom August 2002 betroffenen Ländern zur Beseitigung der Hochwasserschäden und zum Wiederaufbau der zerstörten Regionen.
 
-(2) Aus den Mitteln des Fonds werden Maßnahmen finanziert.
+(2) Aus den Mitteln des Fonds werden Maßnahmen
 
-1.
+1. für geschädigte Privathaushalte und Unternehmen, soweit nicht Versicherungen oder sonstige Dritte Entschädigungen leisten,
 
-2.
+2. zur Wiederherstellung der Infrastruktur der betroffenen Länder und Gemeinden,
 
-3.
+3. zur Wiederherstellung der Infrastruktur des Bundes
 
 (3) Bei der Verteilung der Mittel und der Gewährung der Hilfen sind die unterschiedlichen Schadensbelastungen der Betroffenen zu berücksichtigen.
 
@@ -42,8 +42,6 @@ Es wird ein nationaler Solidaritätsfonds "Aufbauhilfe" als Sondervermögen des 
 
 (2) Der Bund leistet insgesamt einen Beitrag in Höhe von 3,507 Milliarden Euro; der Beitrag der Länder beträgt insgesamt 2,774 Milliarden Euro.
 
-(3) Der Beitrag der Länder gemäß Absatz 2 teilt sich wie folgt auf:
-
 (4) Bund und Länder überweisen im Jahr 2003 an den Fonds die in den Absätzen 2 und 3 festgelegten Jahresbeträge mit je einem Zwölftel zum Ende eines jeden Monats. Die Zahlungen der Länder nach Satz 1 werden ausgesetzt, solange und soweit die zum Zeitpunkt des Inkrafttretens des Artikels 1a des Gesetzes zur Änderung des Gemeindefinanzreformgesetzes und des Aufbauhilfefondsgesetzes vom 17. Juni 2003 (BGBl. I S. 862) geleisteten Zahlungen der Länder die von ihnen nach Satz 1 zu leistenden Beträge übersteigen. Darüber hinaus werden die in 2002 von Bund und Ländern im Vorgriff auf dieses Gesetz geleisteten Hilfen zu Beginn des Jahres 2003 aus dem Fonds erstattet. Die Erstattungen können mit Wirkung für das Haushaltsjahr 2002 gebucht werden.
 
 (5) Die Liquidität des Fonds wird durch den Bund sichergestellt.
@@ -62,13 +60,13 @@ Die Kosten für die Verwaltung des Fonds trägt der Bund.
 
 ### § 8 — Auflösung des Fonds und anschließende Mittelverwendung
 
-(1) Der Fonds wird mit Ablauf des Jahres 2006 aufgelöst. Das Vermögen des Fonds geht unter Beibehaltung der bisherigen Zweckbindung unverzüglich nach Aufstellung der Jahresrechnung 2006 im Jahr 2007 auf Bund und Länder als Teilgläubiger wie folgt über: Hierbei finden der in der Vereinbarung zwischen Bund und Ländern vom 25. April 2005 festgelegte Verteilerschlüssel und die Regelung zum Ausgleich von Mehr- und Minderbedarfen von Bund und Ländern Anwendung. Die Vereinbarung vom 25. April 2005 ist diesem Gesetz als Anlage beigefügt. Weitere länderübergreifende Umschichtungen über die nach in diesem Gesetz vorgesehenen Umschichtungen hinaus sind ausgeschlossen. Die Verbindlichkeiten gehen auf denjenigen über, der sie für den Fonds begründet hat. Restmittel fließen dem Freistaat Sachsen zur Verwendung nach Absatz 2 zu.
+(1) Der Fonds wird mit Ablauf des Jahres 2006 aufgelöst. Das Vermögen des Fonds geht unter Beibehaltung der bisherigen Zweckbindung unverzüglich nach Aufstellung der Jahresrechnung 2006 im Jahr 2007 auf Bund und Länder als Teilgläubiger wie folgt über:
 
-1.
+1. auf die Länder die pauschalen Mittel (Titel 612 01 und 882 01 des Wirtschaftsplans des Fonds "Aufbauhilfe" (Bundeshaushaltsplan für das Haushaltsjahr 2006, Band 2, Einzelplan 60, S. 29 ff.)), die Mittel aus den kofinanzierten Programmen (Titel 632 11, 632 12, 632 13, 632 14, 632 15, 632 16, 697 11, 882 11, 882 21, 882 22, 882 23, 882 24 und 882 25 des Wirtschaftsplans des Fonds "Aufbauhilfe"),
 
-2.
+2. auf den Bund die Mittel aus den reinen Bundesprogrammen (Titel 698 11, 683 11, 683 21, 713 21, 713 31, 713 32, 713 33 und 891 31 sowie die Mittel des kofinanzierten Programms des Titels 662 11 des Wirtschaftsplans des Fonds "Aufbauhilfe"),
 
-3.
+3. auf den Freistaat Sachsen die Mittel aus dem Reservetitel 893 01 des Wirtschaftsplans des Fonds "Aufbauhilfe".
 
 (2) Das nach Absatz 1 übergehende Vermögen ist gemäß § 2 Abs. 1 bis 3 zu verwenden. Für die Verwendung dieses Vermögens gelten § 2 Abs. 1, Abs. 2 Satz 1, Abs. 3 bis 5 sowie § 3 Abs. 1 bis 5 der Aufbauhilfefondsverordnung vom 24. Juni 2003 (BGBl. I S. 962) entsprechend. Der Bundesrechnungshof kann die ordnungsgemäße Verwendung des auf die Länder übertragenen Vermögens prüfen.
 

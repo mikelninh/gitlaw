@@ -16,11 +16,17 @@ Die durch Notenwechsel vom 17. August 2022 und 3. März 2023 geschlossene Verein
 
 ### Art 2
 
-(1) Gemäß Artikel 4 Absatz 2 des Abkommens vom 10. November 1995 zwischen der Bundesrepublik Deutschland und den Vereinten Nationen über den Sitz des Freiwilligenprogramms der Vereinten Nationen (BGBl. 1996 II S. 903, 905) gilt dieses Abkommen sinngemäß für das Büro von UNAIDS in Bonn.(2) Artikel 3 des Gesetzes zu dem Abkommen vom 10. November 1995 zwischen der Bundesrepublik Deutschland und den Vereinten Nationen über den Sitz des Freiwilligenprogramms der Vereinten Nationen (BGBl. 1996 II S. 903) ist in vollem Umfang anzuwenden.
+(1) Gemäß Artikel 4 Absatz 2 des Abkommens vom 10. November 1995 zwischen der Bundesrepublik Deutschland und den Vereinten Nationen über den Sitz des Freiwilligenprogramms der Vereinten Nationen (BGBl. 1996 II S. 903, 905) gilt dieses Abkommen sinngemäß für das Büro von UNAIDS in Bonn.
+
+(2) Artikel 3 des Gesetzes zu dem Abkommen vom 10. November 1995 zwischen der Bundesrepublik Deutschland und den Vereinten Nationen über den Sitz des Freiwilligenprogramms der Vereinten Nationen (BGBl. 1996 II S. 903) ist in vollem Umfang anzuwenden.
 
 ### Art 3
 
-(1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.(2) Der Tag, an dem die durch Notenwechsel geschlossene Vereinbarung nach der Inkrafttretensklausel derdeutschen Antwortnote in Kraft tritt, ist im Bundesgesetzblatt bekannt zu geben.(3) Diese Verordnung tritt an dem Tag außer Kraft, an dem die Vereinbarung außer Kraft tritt. Der Tag des Außerkrafttretens ist im Bundesgesetzblatt bekannt zu geben.
+(1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+
+(2) Der Tag, an dem die durch Notenwechsel geschlossene Vereinbarung nach der Inkrafttretensklausel derdeutschen Antwortnote in Kraft tritt, ist im Bundesgesetzblatt bekannt zu geben.
+
+(3) Diese Verordnung tritt an dem Tag außer Kraft, an dem die Vereinbarung außer Kraft tritt. Der Tag des Außerkrafttretens ist im Bundesgesetzblatt bekannt zu geben.
 
 ### Schlussformel
 

@@ -12,51 +12,45 @@ Auf Grund des § 21 Abs. 3 in Verbindung mit § 54 des Atomgesetzes in der Fassu
 
 ### § 1 — Anwendungsbereich
 
-Die nach den §§ 23a, 23d und 24 des Atomgesetzes zuständigen Behörden erheben Kosten (Gebühren und Auslagen) nach § 21 des Atomgesetzes und nach dieser Verordnung. Die nach § 81 Satz 3 des Strahlenschutzgesetzes und den §§ 184, 185, 186, 187, 189, 190 und 190a des Strahlenschutzgesetzes zuständigen Behörden sowie die nach § 184a des Strahlenschutzgesetzes zuständige Ethik-Kommission erheben Kosten nach § 183 des Strahlenschutzgesetzes und nach dieser Verordnung. Ergänzend gelten die Vorschriften des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung. § 8 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung gilt nicht, wenn die nach § 184a des Strahlenschutzgesetzes zuständige Ethik-Kommission oder die nach § 190a des Strahlenschutzgesetzes zuständige Behörde Kosten erhebt.
+Die nach den §§ 23a, 23d und 24 des Atomgesetzes zuständigen Behörden erheben Kosten (Gebühren und Auslagen) nach § 21 des Atomgesetzes und nach dieser Verordnung. Die nach § 81 Satz 3 des Strahlenschutzgesetzes und den §§ 184, 185, 186, 187, 189, 190 und 190a des Strahlenschutzgesetzes zuständigen Behörden sowie die nach § 184a des Strahlenschutzgesetzes zuständige Ethik-Kommission erheben Kosten nach § 183 des Strahlenschutzgesetzes und nach dieser Verordnung. Ergänzend gelten die Vorschriften des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung. § 8 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung gilt nicht, wenn die nach § 184a des Strahlenschutzgesetzes zuständige Ethik-Kommission oder die nach § 190a des Strahlenschutzgesetzes zuständige Behörde Kosten erhebt.
 
 ### § 2 — Höhe der Gebühren
 
-(1) Die Gebühr beträgt In den Fällen des Satzes 1 Nummer 1 und 7 kann für eine Teilgenehmigung bzw. einen Teilplanfeststellungsbeschluss eine anteilige Gebühr, orientiert an den Kosten der Teilerrichtung, erhoben werden.
+(1) Die Gebühr beträgt
 
-1.
+1. für Entscheidungen über Anträge auf Errichtung und Betrieb einer Anlage nach § 7 des Atomgesetzes zura)Spaltung von Kernbrennstoffen 2 vom Tausend der Kosten der Errichtung,b)Erzeugung oder Bearbeitung oder Verarbeitung von Kernbrennstoffen 4 vom Tausend der Kosten der Errichtung,c)Aufarbeitung bestrahlter Kernbrennstoffe 0,3 bis 1,7 vom Hundert der Kosten der Errichtung; Spaltung von Kernbrennstoffen 2 vom Tausend der Kosten der Errichtung, Erzeugung oder Bearbeitung oder Verarbeitung von Kernbrennstoffen 4 vom Tausend der Kosten der Errichtung, Aufarbeitung bestrahlter Kernbrennstoffe 0,3 bis 1,7 vom Hundert der Kosten der Errichtung;
 
-a)
+2. für Entscheidungen über Anträge auf andere Genehmigungen nach § 7 des Atomgesetzes und über Anträge nach § 7a des Atomgesetzes 500 bis eine Million Euro;
 
-b)
+3. für Entscheidungen über Anträge nach § 9 des Atomgesetzes 50 bis 100 000 Euro;
 
-c)
+4. für Festsetzungen nach § 4b Abs. 1 Satz 2 des Atomgesetzes und § 13 Abs. 1 Satz 2 des Atomgesetzes, für Entscheidungen nach § 9b Abs. 3 Satz 2 des Atomgesetzes, für Entscheidungen nach § 17 Abs. 1 Satz 3, Abs. 2 bis 5 des Atomgesetzes, soweit nach § 18 Abs. 2 des Atomgesetzes eine Entschädigungspflicht nicht gegeben ist, und für Entscheidungen nach § 19 Abs. 3 des Atomgesetzes 25 bis 10 000 Euro;
 
-2.
+5. für Entscheidungen über Anträge nach § 6 des Atomgesetzes 50 bis 2,5 Millionen Euro;
 
-3.
+6. für Entscheidungen über Anträge nach § 4 des Atomgesetzes und für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen des Bundesamtes für die Sicherheit der nuklearen Entsorgung, soweit es nach § 23d des Atomgesetzes zuständig ist, 50 bis 2 Millionen Euro;
 
-4.
-
-5.
-
-6.
-
-7.
+7. für Planfeststellungsbeschlüsse nach § 9b des Atomgesetzes 1,5 bis 2 vom Hundert der Kosten der Errichtung.
 
 (2) Die Gebühr beträgt
 
-1.
+1. für Aufgaben der Qualitätssicherung, zur Verfahrensentwicklung für Probenahme, Analyse und Messung sowie zur Behandlung der Daten durch Verwaltungsbehörden des Bundes nach § 81 Satz 3 des Strahlenschutzgesetzes 50 Euro bis 50 000 Euro;
 
-1a.
+1a. für die Erstellung der Stellungnahme nach § 36 des Strahlenschutzgesetzes durch die nach § 184a des Strahlenschutzgesetzes zuständige Ethik-Kommission 100 bis 18 000 Euro;
 
-1b.
+1b. für wissenschaftliche Beratungen des Bundesamtes für Strahlenschutz im Vorfeld der Stellung eines Antrags auf Genehmigung von Anwendungen radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung 1 000 bis 18 000 Euro;
 
-2.
+2. für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen des Bundesamtes für Strahlenschutz, soweit es nach § 185 Absatz 1 Nummer 1, 3 bis 6 und 8 und Absatz 2 Nummer 5 und 6 des Strahlenschutzgesetzes zuständig ist, 50 Euro bis 2 Millionen Euro;
 
-3.
+3. für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen des Bundesamtes für die Sicherheit der nuklearen Entsorgung, soweit es nach § 186 des Strahlenschutzgesetzes zuständig ist, 50 Euro bis 2 Millionen Euro;
 
-4.
+4. für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen des Luftfahrt-Bundesamtes, soweit es nach § 189 des Strahlenschutzgesetzes zuständig ist, 50 Euro bis 2 Millionen Euro;
 
-5.
+5. für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen der Physikalisch-Technischen Bundesanstalt, soweit sie nach § 187 Absatz 1 Nummer 1 oder 2 des Strahlenschutzgesetzes zuständig ist, 50 Euro bis 50 000 Euro;
 
-6.
+6. für Entscheidungen des Eisenbahn-Bundesamtes über Anträge nach § 27 Absatz 1 des Strahlenschutzgesetzes, soweit es nach § 190 Satz 1 des Strahlenschutzgesetzes zuständig ist, 50 Euro bis 25 000 Euro;
 
-7.
+7. für Amtshandlungen des Bundesinstituts für Arzneimittel und Medizinprodukte und des Paul-Ehrlich-Instituts, soweit diese nach § 190a des Strahlenschutzgesetzes zuständig sind, 100 bis 18 000 Euro.
 
 ### § 3 — Gebührenbemessung
 
@@ -72,29 +66,23 @@ c)
 
 (1) Für Maßnahmen der staatlichen Aufsicht nach § 19 des Atomgesetzes werden Kosten für folgende Tatbestände erhoben:
 
-1.
+1. Bei Anlagen nach § 7 des Atomgesetzes und Tätigkeiten nach den §§ 6 und 9 des Atomgesetzes Messungen und Untersuchungen zur Überwachunga)der Ableitung und Ausbreitung radioaktiver Stoffeb)der für die Erkennung eines Störfalls bedeutsamen Betriebszuständec)der Radioaktivität in der Umgebung einschließlich der meteorologischen Ausbreitungsverhältnisse der Ableitung und Ausbreitung radioaktiver Stoffe der für die Erkennung eines Störfalls bedeutsamen Betriebszustände der Radioaktivität in der Umgebung einschließlich der meteorologischen Ausbreitungsverhältnisse durch behördlich beauftragte Meßstellen oder durch behördeneigene Überwachungseinrichtungen; die Kostenpflicht erstreckt sich auch auf die Übermittlung und Auswertung von Meß- und Untersuchungsergebnissen;
 
-a)
+2. Prüfung nicht genehmigungsbedürftiger Änderungen von Anlagen nach § 7 des Atomgesetzes oder von Tätigkeiten nach den §§ 4, 6 und 9 des Atomgesetzes;
 
-b)
+3. Maßnahmen der Aufsichtsbehörde auf Grund sicherheitstechnisch bedeutsamer Abweichungen vom bestimmungsgemäßen Betrieb von Anlagen nach § 7 des Atomgesetzes oder bei Tätigkeiten nach den §§ 4, 6 und 9 des Atomgesetzes;
 
-c)
+3a. Prüfungen der Ergebnisse der Sicherheitsüberprüfung nach § 19a des Atomgesetzes;
 
-2.
+4. wiederkehrende Prüfungen von Anlagen nach § 7 des Atomgesetzes oder von Tätigkeiten nach den §§ 6 und 9 des Atomgesetzes;
 
-3.
+5. sonstige Überprüfungen und Kontrollen von Anlagen nach § 7 des Atomgesetzes und von Tätigkeiten nach den §§ 4, 6 und 9 des Atomgesetzes, soweit die Hinzuziehung von Sachverständigen geboten ist;
 
-3a.
+6. Überprüfung nach § 12b des Atomgesetzes hinsichtlich der Zuverlässigkeit von Personen, die bei der Errichtung und bei dem Betrieb von Anlagen nach § 7 des Atomgesetzes oder bei Tätigkeiten nach den §§ 4, 6 und 9 des Atomgesetzes tätig sind;
 
-4.
+7. die Nummern 1 bis 6 gelten auch für Anlagen des Bundes nach § 9a Absatz 3 des Atomgesetzes und die Schachtanlage Asse II.
 
-5.
-
-6.
-
-7.
-
-(2) Die Gebühr beträgt 25 bis 500 000 Euro, bei Überprüfungen im Sinne des Absatzes 1 Nr. 6 für jede überprüfte Person 25 bis 500 Euro.
+(2) Die Gebühr beträgt 25 bis 500 000 Euro, bei Überprüfungen im Sinne des Absatzes 1 Nr. 6 für jede überprüfte Person 25 bis 500 Euro.
 
 (3) Die Gebührenpflicht entsteht mit der Beendigung der gebührenpflichtigen Amtshandlung, im Falle des Absatzes 1 Nr. 1 am Ende eines Monats, in dem Messungen und Untersuchungen vorgenommen worden sind. Bei regelmäßig wiederkehrenden Amtshandlungen können abweichend von Satz 1 Abschläge erhoben werden, die bei der nachfolgenden Gebührenfestsetzung zu verrechnen sind.
 
@@ -102,11 +90,11 @@ c)
 
 ### § 5a — Kosten der staatlichen Verwahrung
 
-(1) Die Gebühr für die staatliche Verwahrung von Kernbrennstoffen nach § 5 des Atomgesetzes beträgt je Quadratmeter der Fläche, die für die Lagerung der Kernbrennstoffe eines Ablieferers in Anspruch genommen wird. Die im Einzelfall in Anspruch genommene Fläche ist unter Berücksichtigung der Verpackung des Behälters, in dem sich die aufbewahrten Kernbrennstoffe befinden, und unter Hinzurechnung eines gegebenenfalls zur Vorsorge gegen Schäden erforderlichen Sicherheitsabstands zu ermitteln; sie ist auf volle Quadratdezimeter aufzurunden. Die vom einzelnen Ablieferer zu erhebende Gebühr ist nach dem Verhältnis der in Anspruch genommenen Fläche zu der insgesamt für die staatliche Verwahrung vorgehaltenen Fläche zu berechnen.
+(1) Die Gebühr für die staatliche Verwahrung von Kernbrennstoffen nach § 5 des Atomgesetzes beträgt
 
-1.
+1. bei Kernbrennstoffen, die nicht in einem Zustand oder Behälter abgeliefert worden sind, der eine dauerhaft sichere und weitgehend wartungsfreie Verwahrung ermöglicht, für jeden angefangenen Monat 100 bis 7.500 Euro,
 
-2.
+2. bei Kernbrennstoffen, die in einem Zustand oder Behälter abgeliefert worden sind, der eine dauerhaft sichere und weitgehend wartungsfreie Verwahrung ermöglicht, für jeden angefangenen Monat 100 bis 3.000 Euro,
 
 (2) Können Kernbrennstoffe oder Behälter mit Kernbrennstoffen in gestapelter Form aufbewahrt werden, gilt für die nicht auf dem Boden gelagerten Kernbrennstoffe oder Behälter diejenige Fläche als in Anspruch genommen, die benötigt würde, wenn die Kernbrennstoffe oder Behälter auf dem Boden gelagert wären. Werden von verschiedenen Ablieferern abgegebene Kernbrennstoffe in einem Behälter gemeinsam verwahrt, ist die von dem einzelnen Ablieferer zu erhebende Gebühr anteilig nach dem Verhältnis des von ihm in Anspruch genommenen Rauminhalts zu dem Rauminhalt des gesamten Behälters zu berechnen.
 

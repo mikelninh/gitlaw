@@ -10,23 +10,17 @@
 
 ### § 1
 
-(1) Im Sinne dieser Verordnung liegen vor: Satz 1 Nr. 1 Buchstabe a sowie Nr. 2 im Falle der serologischen Untersuchung gilt bei Schweinen, die mit Impfstoffen im Sinne des § 3 Abs. 4 geimpft worden sind, nur, wenn Antikörper gegen das gl-Glykoprotein des Virus der Aujeszkyschen Krankheit nachgewiesen worden sind.
+(1) Im Sinne dieser Verordnung liegen vor:
 
-1.
+1. Aujeszkysche Krankheit, wenn diesea)durch klinische und serologische Untersuchung (Antikörpernachweis),b)durch virologische Untersuchung (Virus- oder Antigennachweis) oderc)beim Rind auch durch histologische Untersuchung in Verbindung mit klinischen Erscheinungen durch klinische und serologische Untersuchung (Antikörpernachweis), durch virologische Untersuchung (Virus- oder Antigennachweis) oder beim Rind auch durch histologische Untersuchung in Verbindung mit klinischen Erscheinungen festgestellt worden ist;
 
-a)
-
-b)
-
-c)
-
-2.
+2. Verdacht auf Aujeszkysche Krankheit, wenn dieser durch klinische, serologische oder histologische Untersuchung festgestellt worden ist.
 
 (2) Im Sinne dieser Verordnung ist ein von Aujeszkyscher Krankheit freier Schweinebestand ein Bestand mit Schweinen, der
 
-1.
+1. die Voraussetzungen der Anlage 1 erfüllt oder
 
-2.
+2. in einem Gebiet liegt, das nach einem nicht unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaft oder der Europäischen Union, der auf Grund des Artikels 10 der Richtlinie 64/432/EWG des Rates vom 26. Juni 1964 zur Regelung viehseuchenrechtlicher Fragen beim innergemeinschaftlichen Handelsverkehr mit Rindern und Schweinen (ABl. EG Nr. L 121 S. 1977) in der jeweils geltenden Fassung erlassen und vom Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) im Bundesanzeiger bekannt gemacht worden ist, als frei von Aujeszkyscher Krankheit gilt.
 
 ## Ia.: Freiheit von Aujeszkyscher Krankheit
 
@@ -40,15 +34,15 @@ Zur Aufrechterhaltung des Status als frei von Aujeszkyscher Krankheit geltendes 
 
 (1) Impfungen gegen die Aujeszkysche Krankheit sowie Heilversuche an seuchenkranken und seuchenverdächtigen Schweinen sind verboten.
 
-(2) Die zuständige Behörde kann, sofern Belange der Seuchenbekämpfung nicht entgegenstehen und vorbehaltlich des Absatzes 4, Ausnahmen genehmigen für In den Fällen der Nummern 3 und 4 kann die Ausnahme zum Zwecke der flächenhaften Durchführung der Impfung von Amts wegen und in allgemeiner Form genehmigt werden.
+(2) Die zuständige Behörde kann, sofern Belange der Seuchenbekämpfung nicht entgegenstehen und vorbehaltlich des Absatzes 4, Ausnahmen genehmigen für
 
-1.
+1. wissenschaftliche Versuche;
 
-2.
+2. (weggefallen)
 
-3.
+3. die Impfung mit Impfstoffen aus nicht vermehrungsfähigen (inaktivierten) Erregern; in Beständen, für die Ansteckungsverdacht besteht, jedoch nur mit der Maßgabe, dass geimpfte Schweine, ausgenommen zur Schlachtung, frühestens 21 Tage nach der Impfung aus dem Bestand entfernt werden dürfen;
 
-4.
+4. die Impfung mit Impfstoffen aus vermehrungsfähigen (attenuierten) Erregern mit der Maßgabe, dass geimpfte Schweine frühestens 21 Tage nach der Impfung aus dem Bestand entfernt werden dürfen.
 
 (3) Die zuständige Behörde kann vorbehaltlich des Absatzes 4 Impfungen gegen die Aujeszkysche Krankheit nach Absatz 2 Nr. 3 und 4 mit den dort genannten Maßgaben anordnen, wenn dies aus Gründen der Seuchenbekämpfung erforderlich ist. Sie kann dabei anordnen, dass Schweine aus geimpften Beständen nur zur Schlachtung oder an geimpfte Bestände abgegeben werden dürfen.
 
@@ -66,11 +60,11 @@ Die zuständige Behörde kann, wenn es aus Gründen der Seuchenbekämpfung erfor
 
 ### § 4
 
-(1) Zucht- und Nutzschweine dürfen werden, wenn sie aus einem von Aujeszkyscher Krankheit freien Schweinebestand stammen.
+(1) Zucht- und Nutzschweine dürfen
 
-1.
+1. in Schweinebestände nur verbracht oder eingestellt oder
 
-2.
+2. auf Viehmärkte, Tierschauen oder -ausstellungen oder Veranstaltungen ähnlicher Art nur verbracht
 
 (2) Gilt ein Gebiet des Inlandes nach einem nicht unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaft oder der Europäischen Union auf Grund des Artikels 10 der Richtlinie 64/432/EWG in der jeweils geltenden Fassung als frei von Aujeszkyscher Krankheit und hat das Bundesministerium diesen Rechtsakt im Bundesanzeiger bekannt gemacht, dürfen in dieses Gebiet nur Schweine verbracht werden, die von einer amtstierärztlichen Bescheinigung begleitet sind, aus der sich ergibt, dass die Tiere den Bestimmungen des Rechtsaktes genügen.
 
@@ -85,19 +79,19 @@ Krankheit oder des Seuchenverdachts
 
 Im Falle des Ausbruchs oder des Verdachts des Ausbruchs der Aujeszkyschen Krankheit bei Schweinen in einem Gehöft oder an einem sonstigen Standort gilt vor der amtlichen Feststellung Folgendes:
 
-1.
+1. Der Besitzer hat an den Eingängen des Gehöfts und der Schweineställe oder der sonstigen Standorte, in oder an denen sich Schweine befinden, Schilder mit der deutlichen und haltbaren Aufschrift "Aujeskysche Krankheit - Unbefugter Zutritt verboten" gut sichtbar anzubringen.
 
-2.
+2. Der Besitzer hat alle Schweine in ihren Ställen oder an ihren sonstigen Standorten abzusondern.
 
-3.
+3. Ställe oder sonstige Standorte, in oder an denen sich Schweine befinden, dürfen nur von dem Besitzer der Schweine, seinem Vertreter, den mit der Beaufsichtigung, Wartung und Pflege der Schweine betrauten Personen, von Tierärzten und von Personen im amtlichen Auftrag, und zwar jeweils nur in bestandseigener Schutzkleidung, betreten werden.
 
-4.
+4. Die in Nummer 3 genannten Personen haben nach Verlassen der Ställe oder Standorte sofort die Schutzkleidung abzulegen sowie die Hände zu reinigen und zu desinfizieren.
 
-5.
+5. Schweine dürfen weder in das Gehöft oder den sonstigen Standort verbracht noch aus dem Gehöft oder sonstigen Standort entfernt werden.
 
-6.
+6. Verendete oder getötete Schweine, abgestoßene oder abgestorbene Früchte, totgeborene Ferkel oder Nachgeburten sind so aufzubewahren, dass sie vor äußeren Einflüssen geschützt sind und Menschen oder Tiere nicht mit ihnen in Berührung kommen können.
 
-7.
+7. Von Schweinen stammende Teile, Erzeugnisse und Rohstoffe, ferner Futter, Einstreu, Dung und flüssige Stallabgänge sowie sonstige Gegenstände, die mit Schweinen in Berührung gekommen sind, dürfen aus dem Gehöft oder sonstigen Standort nicht entfernt werden.
 
 ## B.: Nach amtlicher Feststellung der Aujeszkyschen
 Krankheit oder des Seuchenverdachts
@@ -110,35 +104,31 @@ Die zuständige Behörde macht den Ausbruch der Seuche öffentlich bekannt.
 
 Ist der Ausbruch oder der Verdacht auf Ausbruch der Aujeszkyschen Krankheit bei Schweinen amtlich festgestellt, so unterliegen das Gehöft oder der sonstige Standort nach Maßgabe folgender Vorschriften der Sperre:
 
-1.
+1. Der Besitzer hat an den Eingängen des Gehöfts und der Schweineställe oder der sonstigen Standorte, in oder an denen sich Schweine befinden, Schilder mit der deutlichen und haltbaren Aufschrift "Aujeszkysche Krankheit - Unbefugter Zutritt verboten" gut sichtbar anzubringen.
 
-2.
+2. Der Besitzer hat alle Schweine in Ställen oder an sonstigen Standorten abzusondern.
 
-3.
+3. Schweine dürfen nur mit Genehmigung der zuständigen Behörde in das Gehöft oder den sonstigen Standort verbracht oder aus dem Gehöft oder sonstigen Standort entfernt werden; das Entfernen ist nur zulässiga)zur sofortigen Schlachtung in eine von der zuständigen Behörde bestimmte Schlachtstätte oder b)zum Zwecke der Ausmästung in einen Mastbestand, sofern die zu verbringenden Schweine und alle Scheine des aufnehmenden Bestandes mindestens zweimal gegen die Aujeszkysche Krankheit geimpft worden sind und sichergestellt ist, dass die Schweine aus diesem Bestand nur zu dem in Buchstabe a genannten Zweck entfernt werden. zur sofortigen Schlachtung in eine von der zuständigen Behörde bestimmte Schlachtstätte oder zum Zwecke der Ausmästung in einen Mastbestand, sofern die zu verbringenden Schweine und alle Scheine des aufnehmenden Bestandes mindestens zweimal gegen die Aujeszkysche Krankheit geimpft worden sind und sichergestellt ist, dass die Schweine aus diesem Bestand nur zu dem in Buchstabe a genannten Zweck entfernt werden.
 
-a)
+4. Schweine des Bestandes dürfen nur mit Genehmigung der zuständigen Behörde gedeckt werden. Samen von Ebern des Bestandes darf zur künstlichen Besamung nicht verwendet werden.
 
-b)
+5. Verendete oder getötete Schweine dürfen nur mit Genehmigung der zuständigen Behörde entfernt werden. Abgestoßene oder abgestorbene Früchte, totgeborene Ferkel oder Nachgeburten sind unverzüglich unschädlich zu beseitigen, soweit sie nicht zu Untersuchungen benötigt werden.
 
-4.
+6. In dem Gehöft, insbesondere in den Ställen, in denen sich Schweine befinden, sind nach näherer Anweisung des beamteten Tierarztes wiederholt Entwesungen durchzuführen.
 
-5.
+7. Futter und Einstreu, die Träger des Seuchenerregers sein können, sowie Dung und flüssige Stallabgänge dürfen nur nach oder zur Unschädlichmachung des Seuchenerregers nach näherer Anweisung des beamteten Tierarztes entfernt werden.
 
-6.
+8. Behälter, Gerätschaften, Fahrzeuge und sonstige Gegenstände, die mit den seuchenkranken oder verdächtigen Schweinen oder ihren Abgängen in Berührung gekommen sind, ferner die Stallgänge und die Plätze vor den Ein- und Ausgängen der Ställe sind nach näherer Anweisung des beamteten Tierarztes zu reinigen und zu desinfizieren.
 
-7.
+9. An den Ein- und Ausgängen der Ställe sind Matten oder andere geeignete Einrichtungen zur Desinfektion des Schuhwerks anzubringen, die nach näherer Anweisung des beamteten Tierarztes ständig mit einem wirksamen Desinfektionsmittel versehen sein müssen.
 
-8.
+10. Ställe oder sonstige Standorte, in oder an denen sich Schweine befinden, dürfen nur von dem Besitzer der Schweine, seinem Vertreter, den mit der Beaufsichtigung, Wartung und Pflege der Schweine betrauten Personen, von Tierärzten und von Personen im amtlichen Auftrag, und zwar jeweils nur in bestandseigener Schutzkleidung, betreten werden.
 
-9.
+11. Die in Nummer 10 genannten Personen haben nach Verlassen der Ställe oder Standorte sofort die Schutzkleidung abzulegen sowie die Hände zu reinigen und zu desinfizieren.
 
-10.
+12. Alle Personen, die das Gehöft verlassen, haben vorher ihr Schuhwerk zu desinfizieren.
 
-11.
-
-12.
-
-13.
+13. Hunde und Katzen sind von Ställen oder sonstigen Standorten, in oder an denen sich Schweine befinden, fernzuhalten.
 
 ### § 7
 
@@ -160,11 +150,11 @@ Ist der Ausbruch der Aujeszkyschen Krankheit bei Schweinen in einem Gehöft oder
 
 ### § 11
 
-Ist in einem Gehöft oder an einem sonstigen Standort der Ausbruch oder der Verdacht des Ausbruchs der Aujeszkyschen Krankheit amtlich festgestellt, so stellt die zuständige Behörde epizootiologische Nachforschungen an und unterstellt alle Schweine der Gehöfte oder sonstigen Standorte, worden sein kann, für die Dauer von drei Wochen der behördlichen Beobachtung. Die zuständige Behörde kann die Tötung der ansteckungsverdächtigen Schweine anordnen.
+Ist in einem Gehöft oder an einem sonstigen Standort der Ausbruch oder der Verdacht des Ausbruchs der Aujeszkyschen Krankheit amtlich festgestellt, so stellt die zuständige Behörde epizootiologische Nachforschungen an und unterstellt alle Schweine der Gehöfte oder sonstigen Standorte,
 
-1.
+1. von denen die Seuche eingeschleppt oder
 
-2.
+2. in die die Seuche bereits weiterverschleppt
 
 ## D.: Desinfektion
 
@@ -172,9 +162,9 @@ Ist in einem Gehöft oder an einem sonstigen Standort der Ausbruch oder der Verd
 
 (1) Nach Entfernung der seuchenkranken und -verdächtigen Schweine sind unverzüglich nach näherer Anweisung des beamteten Tierarztes
 
-1.
+1. die Ställe und sonstigen Standorte, in oder an denen kranke oder verdächtige Schweine gehalten worden sind, zu reinigen, zu desinfizieren und zu entwesen;
 
-2.
+2. Gegenstände jeder Art, die Träger des Seuchenerregers sein können, einschließlich der Fahrzeuge, die mit diesen Tieren in Berührung gekommen sind, zu reinigen und zu desinfizieren.
 
 (2) Futter und Einstreu, die Träger des Seuchenerregers sein können, sind zu verbrennen oder zusammen mit dem Dung zu packen; Futter kann auch einem Behandlungsverfahren, durch das die Abtötung des Seuchenerregers gewährleistet ist, unterworfen werden. Der Dung ist an einem für Schweine unzugänglichen Platz zu packen, nach näherer Anweisung des beamteten Tierarztes zu desinfizieren oder mindestens zwei Monate zu lagern. Flüssige Abgänge aus den Schweineställen oder sonstigen Standorten der Schweine sind nach näherer Anweisung des beamteten Tierarztes zu desinfizieren oder mindestens zwei Monate zu lagern. Die zuständige Behörde kann abweichend von den Sätzen 2 und 3 kürzere Lagerzeiten genehmigen, wenn Belange der Seuchenbekämpfung nicht entgegenstehen.
 
@@ -194,23 +184,17 @@ Wird bei Schweinen, die sich auf Schweineausstellungen, Schweinemärkten und Ver
 
 (2) Die Aujeszkysche Krankheit gilt als erloschen, wenn
 
-1.
+1. a)alle Schweine des Bestandes verendet sind oder getötet oder entfernt worden sind oder b)die seuchenkranken und seuchenverdächtigen Schweine sowie deren bis zu zwei Wochen alten Ferkel verendet sind oder getötet oder entfernt worden sind und bei den übrigen Schweinen des Bestandes keine für Aujeszkysche Krankheit verdächtigen Erscheinungen festgestellt und zwei im Abstand von mindestens vier Wochen bei allen über drei Monate alten Schweinen entnommene Blutproben mit negativem Ergebnis auf Aujeszkysche Krankheit untersucht worden sind und alle Schweine des Bestandes verendet sind oder getötet oder entfernt worden sind oder die seuchenkranken und seuchenverdächtigen Schweine sowie deren bis zu zwei Wochen alten Ferkel verendet sind oder getötet oder entfernt worden sind und bei den übrigen Schweinen des Bestandes keine für Aujeszkysche Krankheit verdächtigen Erscheinungen festgestellt und zwei im Abstand von mindestens vier Wochen bei allen über drei Monate alten Schweinen entnommene Blutproben mit negativem Ergebnis auf Aujeszkysche Krankheit untersucht worden sind und
 
-a)
-
-b)
-
-2.
+2. die Maßnahmen nach § 12 Abs. 1 und 2 nach näherer Anweisung des beamteten Tierarztes durchgeführt und von diesem abgenommen worden sind.
 
 (3) Der Verdacht auf Aujeszkysche Krankheit gilt als beseitigt, wenn
 
-1.
+1. die seuchenverdächtigen Schweine verendet sind oder getötet oder entfernt worden sind und
 
-2.
+2. bei den übrigen Schweinen des Bestandes
 
-a)
-
-b)
+a) keine auf Aujeszkysche Krankheit hindeutenden klinischen Erscheinungen festgestellt worden sind undb)frühestens 21 Tage nach Entfernen der seuchenverdächtigen Schweine eine serologische Untersuchung nach Abschnitt I Nr. 1 Buchstabe b der Anlage 1 mit negativem Ergebnis durchgeführt worden ist. frühestens 21 Tage nach Entfernen der seuchenverdächtigen Schweine eine serologische Untersuchung nach Abschnitt I Nr. 1 Buchstabe b der Anlage 1 mit negativem Ergebnis durchgeführt worden ist.
 
 ## III.: Schutzmaßregeln gegen die Aujeszkysche
 Krankheit bei anderen Tieren
@@ -225,39 +209,39 @@ Wird bei anderen für die Aujeszkysche Krankheit empfänglichen Tieren der Ausbr
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 3 Absatz 1 eine Impfung oder einen Heilversuch vornimmt,
 
-2.
+2. einer mit einer Genehmigung nach § 3 Absatz 2, § 3a Satz 2, § 6 Nummer 3 Satzteil vor dem zweiten Halbsatz, Nummer 4 Satz 1 oder Nummer 5 Satz 1 oder § 12 Absatz 2 Satz 4 verbundenen vollziehbaren Auflage zuwiderhandelt,
 
-3.
+3. einer vollziehbaren Anordnung nach § 3 Absatz 3 oder Absatz 5, § 3a Satz 1, § 3b, § 6 Nummer 6, 7, 8 oder Nummer 9, § 7, § 10 oder § 11 Satz 2, jeweils auch in Verbindung mit § 13 oder § 15, oder nach § 12 Absatz 1 oder Absatz 2 Satz 2 oder Satz 3 zuwiderhandelt,
 
-4.
+4. entgegen § 4 ein Schwein verbringt,
 
-5.
+5. entgegen § 5 Nummer 1 oder § 6 Nummer 1 ein Schild nicht, nicht richtig oder nicht rechtzeitig anbringt,
 
-6.
+6. entgegen § 5 Nummer 2 oder § 6 Nummer 2 ein Schwein nicht oder nicht rechtzeitig absondert,
 
-7.
+7. entgegen § 5 Nummer 3 oder § 6 Nummer 10 einen Stall oder einen sonstigen Standort betritt,
 
-8.
+8. entgegen § 5 Nummer 4 oder § 6 Nummer 11 oder Nummer 12 Schutzkleidung nicht oder nicht rechtzeitig ablegt oder eine Reinigung oder eine Desinfektion nicht oder nicht rechtzeitig durchführt,
 
-9.
+9. entgegen § 5 Nummer 5 oder § 6 Nummer 3 zweiter Halbsatz ein Schwein verbringt oder entfernt,
 
-10.
+10. entgegen § 5 Nummer 6 ein Schwein, eine Frucht, ein Ferkel oder eine Nachgeburt nicht oder nicht richtig aufbewahrt,
 
-11.
+11. entgegen § 5 Nummer 7 einen dort genannten Gegenstand entfernt,
 
-12.
+12. ohne Genehmigung nach § 6 Nummer 3 Satzteil vor dem zweiten Halbsatz oder Nummer 5 Satz 1 ein Schwein verbringt oder entfernt,
 
-13.
+13. ohne Genehmigung nach § 6 Nummer 4 Satz 1 ein Schwein decken lässt,
 
-14.
+14. entgegen § 6 Nummer 4 Satz 2 Samen verwendet,
 
-15.
+15. entgegen § 6 Nummer 5 Satz 2 eine Frucht, ein Ferkel oder eine Nachgeburt nicht, nicht richtig oder nicht rechtzeitig beseitigt,
 
-16.
+16. entgegen § 6 Nummer 13 einen Hund oder eine Katze nicht fernhält oder
 
-17.
+17. entgegen § 12 Absatz 3 Dung oder flüssigen Abgang ausbringt.
 
 ## V.: Schlussvorschriften
 
@@ -267,56 +251,18 @@ Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundhe
 
 ### Anlage 1 — (zu § 1 Abs. 2 Nr. 1 und § 14 Abs. 3)
 
-Fundstelle des Originaltextes: BGBl. I 2005, 3615 - 3616; 
-	 
-	 Der Status eines Bestandes als frei von Aujeszkyscher Krankheit wird aufrechterhalten, wenn die nachfolgenden Anforderungen erfüllt sind:
+1. Ein Bestand gilt als frei von Aujeszkyscher Krankheit, wenna)alle Schweine des Bestandes frei sind von klinischen Erscheinungen, die auf Aujeszkysche Krankheit hindeuten und b)eine serologische Untersuchungaa)im Falle von Zuchtbeständen bei allen Sauen, deckfähigen Jungsauen, allen Ebern und allen mindestens fünf Monate alten Jungebern, bb)im Falle gemischter Bestände bei allen Zuchtsauen, deckfähigen Jungsauen, allen Zuchtebern, allen mindestens fünf Monate alten Jungebern sowie bei den Mastschweinen entsprechend dem Stichprobenschlüssel nach Abschnitt II Nr. 4, cc)im Falle von Aufzuchtbeständen bei den Schweinen entsprechend dem Stichprobenschlüssel nach Abschnitt II Nr. 2, dd)im Falle von Mastbeständen bei den Schweinen nach dem Stichprobenschlüssel nach Abschnitt II Nr. 4 mit negativem Ergebnis gegen das Glykoprotein-I-Gen (gl-Glykoprotein) des Virus der Aujeszkyschen Krankheit durchgeführt worden ist oder c)alle Schweine des Bestandes aus von Aujeszkyscher Krankheit freien Beständen stammen und, je nach der Art der Schweinehaltung, eine Stichprobenuntersuchung entsprechend Abschnitt II Nr. 2, 3 oder 4 mit negativem Ergebnis gegen das Glykoprotein-I-Gen (gl-Glykoprotein) des Virus der Aujeszkyschen Krankheit durchgeführt worden ist. alle Schweine des Bestandes frei sind von klinischen Erscheinungen, die auf Aujeszkysche Krankheit hindeuten und eine serologische Untersuchungaa)im Falle von Zuchtbeständen bei allen Sauen, deckfähigen Jungsauen, allen Ebern und allen mindestens fünf Monate alten Jungebern, bb)im Falle gemischter Bestände bei allen Zuchtsauen, deckfähigen Jungsauen, allen Zuchtebern, allen mindestens fünf Monate alten Jungebern sowie bei den Mastschweinen entsprechend dem Stichprobenschlüssel nach Abschnitt II Nr. 4, cc)im Falle von Aufzuchtbeständen bei den Schweinen entsprechend dem Stichprobenschlüssel nach Abschnitt II Nr. 2, dd)im Falle von Mastbeständen bei den Schweinen nach dem Stichprobenschlüssel nach Abschnitt II Nr. 4 im Falle von Zuchtbeständen bei allen Sauen, deckfähigen Jungsauen, allen Ebern und allen mindestens fünf Monate alten Jungebern, im Falle gemischter Bestände bei allen Zuchtsauen, deckfähigen Jungsauen, allen Zuchtebern, allen mindestens fünf Monate alten Jungebern sowie bei den Mastschweinen entsprechend dem Stichprobenschlüssel nach Abschnitt II Nr. 4, im Falle von Aufzuchtbeständen bei den Schweinen entsprechend dem Stichprobenschlüssel nach Abschnitt II Nr. 2, im Falle von Mastbeständen bei den Schweinen nach dem Stichprobenschlüssel nach Abschnitt II Nr. 4 mit negativem Ergebnis gegen das Glykoprotein-I-Gen (gl-Glykoprotein) des Virus der Aujeszkyschen Krankheit durchgeführt worden ist oder alle Schweine des Bestandes aus von Aujeszkyscher Krankheit freien Beständen stammen und, je nach der Art der Schweinehaltung, eine Stichprobenuntersuchung entsprechend Abschnitt II Nr. 2, 3 oder 4 mit negativem Ergebnis gegen das Glykoprotein-I-Gen (gl-Glykoprotein) des Virus der Aujeszkyschen Krankheit durchgeführt worden ist.
 
-1.
+2. (weggefallen)
 
-a)
+3. Die serologische Untersuchung nach Nummer 1 Buchstabe b muss in einem Untersuchungsgang durchgeführt werden. Bei ferkelführenden Sauen kann die Untersuchung der Sau durch die Untersuchung eines gesunden, bis zu drei Wochen alten Ferkels ihres Wurfes ersetzt werden; der Untersuchungszeitraum verlängert sich in diesem Falle auf bis zu neun Monate. Während des Untersuchungszeitraumes dürfen nur von der Aujeszkyschen Krankheit freie Schweine in den Bestand eingestellt werden.
 
-b)
+4. Die Schweine des Bestandes dürfen keinen Kontakt zu Schweinen außerhalb des Bestandes haben, die nicht frei von der Aujeszkyschen Krankheit sind. Das gilt auch für die Teilnahme der Schweine des Bestandes an Märkten, Tierschauen oder ähnlichen Veranstaltungen sowie für deren Transport.
 
-aa)
+5. Die Sauen des Bestandes dürfen nur von einem bestandseigenen Eber oder von einem Eber aus einem von der Aujeszkyschen Krankheit freien Bestand gedeckt werden oder es dürfen einem Eber des Bestandes nur Sauen des eigenen Bestandes oder Sauen aus einem von der Aujeszkyschen Krankheit freien Bestand zugeführt werden. Soll künstlich besamt werden, darf nur Sperma von Ebern einer Besamungsstation verwendet werden, die frei von Aujeszkyscher Krankheit ist.
 
-bb)
-
-cc)
-
-dd)
-
-c)
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
+6. Bei Schweinebeständen, die vor Inkrafttreten dieser Verordnung landesrechtlich im Hinblick auf Aujeszkysche Krankheit als unverdächtig anerkannt worden sind, gelten die Bestimmungen der Nummern 1 bis 5 als erfüllt.
 
 ### Anlage 2 — (zu § 2)
 
-Fundstelle des Originaltextes: BGBl. I 2005, 3617
-
-1.
-
-2.
-
-3.
+1. In Zuchtbeständen werden jährlich Stichprobenuntersuchungen durchgeführt, um mit einer Wahrscheinlichkeit von 95 vom Hundert und einer angenommenen Rate (Prävalenzschwelle) von 0,2 vom Hundert befallene Bestände zu erkennen (Kontrolluntersuchungen). Die Untersuchung in den der Stichprobenuntersuchung unterfallenden Beständen ist nach folgendem Schlüssel vorzunehmen:

@@ -30,13 +30,13 @@ Schiffseigner im Sinne dieses Gesetzes ist der Eigentümer eines zur Schiffahrt 
 
 (2) Ansprüche wegen Personenschäden sind solche wegen der Tötung oder der Verletzung von Personen.
 
-(3) Ansprüche wegen Sachschäden sind Ansprüche wegen Sachschäden sind ferner Ansprüche einer anderen Person als des Schuldners wegen Maßnahmen zur Abwendung oder Verringerung von Personen- oder Sachschäden, für die der Schuldner seine Haftung nach den Absätzen 1, 2 und 3 Satz 1 beschränken kann.
+(3) Ansprüche wegen Sachschäden sind
 
-1.
+1. solche wegen des Verlusts oder der Beschädigung von Sachen einschließlich Hafenanlagen, Hafenbecken, Wasserstraßen, Schleusen, Wehren, Brücken und Navigationshilfen;
 
-2.
+2. solche wegen der Verspätung bei der Beförderung von Gütern, Reisenden oder deren Gepäck;
 
-3.
+3. sonstige Vermögensschäden wegen der Verletzung nichtvertraglicher Rechte.
 
 (4) Ansprüche aus Wrackbeseitigung sind solche auf Erstattung der Kosten für die Hebung, Beseitigung, Vernichtung oder Unschädlichmachung eines gesunkenen, havarierten, festgefahrenen oder verlassenen Schiffes samt allem, was sich an Bord befindet oder befunden hat, sowie für die Beseitigung, Vernichtung oder Unschädlichmachung der Ladung des Schiffes. Ansprüche aus Wrackbeseitigung sind ferner Ansprüche einer anderen Person als des Schuldners wegen Maßnahmen zur Abwendung oder Verringerung der in Satz 1 genannten Kosten, für die der Schuldner seine Haftung beschränken kann.
 
@@ -48,15 +48,15 @@ Schiffseigner im Sinne dieses Gesetzes ist der Eigentümer eines zur Schiffahrt 
 
 Der Haftungsbeschränkung nach § 4 unterliegen nicht
 
-1.
+1. Ansprüche aus Bergung einschließlich Ansprüchen auf Sondervergütung im Sinne von § 578 des Handelsgesetzbuchs sowie Ansprüche auf Beitragsleistung zur großen Haverei;
 
-2.
+2. Ansprüche gegen denjenigen, der nach einem anwendbaren internationalen Übereinkommen oder nach dem Atomgesetz für nukleare Schäden haftet;
 
-3.
+3. Ansprüche von Bediensteten des Schiffseigners, deren Aufgaben mit dem Schiffsbetrieb oder mit Bergungs- oder Hilfeleistungsarbeiten oder Wrackbeseitigungsmaßnahmen zusammenhängen, sowie Ansprüche ihrer Erben, Angehörigen oder sonstiger zur Geltendmachung solcher Ansprüche berechtigter Personen, wenn der Dienstvertrag deutschem Recht unterliegt oder wenn er ausländischem Recht unterliegt, nach welchem die Haftung für diese Ansprüche nicht global beschränkt werden kann;
 
-4.
+4. Ansprüche nach § 89 Wasserhaushaltsgesetz;
 
-5.
+5. Ansprüche auf Ersatz der Kosten der Rechtsverfolgung.
 
 > (+++ § 5: Zur Anwendung vgl. § 5n Abs. 1 +++)
 
@@ -74,11 +74,11 @@ Hat der Schiffseigner gegen den Gläubiger eines in § 4 aufgeführten Anspruchs
 
 (1) Bei der Anwendung der Vorschriften über die Haftungsbeschränkung stehen dem Schiffseigner gleich:
 
-1.
+1. der Eigentümer, der Mieter oder Charterer, dem ein Binnenschiff zu dessen Verwendung überlassen wird, und der Ausrüster eines Binnenschiffs;
 
-2.
+2. jede Person, die in unmittelbarem Zusammenhang mit einer Bergung oder einer Wrackbeseitigung Dienste erbringt, die sich auf ein Binnenschiff oder die Ladung eines solchen Schiffes beziehen und entweder ausschließlich auf diesem Schiff oder weder von einem Binnenschiff noch von einem Seeschiff aus erbracht werden (Berger);
 
-3.
+3. jede Person, für deren Handeln, Unterlassen oder Verschulden der Schiffseigner oder eine der in den Nummern 1 und 2 genannten Personen haftet.
 
 (2) Ist der Schuldner eine rechtsfähige Personengesellschaft, so kann auch jeder Gesellschafter seine persönliche Haftung für Ansprüche beschränken, für welche die Gesellschaft ihre Haftung beschränken kann.
 
@@ -100,19 +100,19 @@ Hat der Schiffseigner gegen den Gläubiger eines in § 4 aufgeführten Anspruchs
 
 (1) Der Haftungshöchstbetrag, auf den die Haftung für die Gesamtheit der aus demselben Ereignis entstandenen Ansprüche wegen Personenschäden beschränkt werden kann, wird, sofern es sich nicht um Ansprüche im Sinne der §§ 5h und 5k handelt, wie folgt berechnet:
 
-1.
+1. Für ein Fahrgastschiff oder ein anderes Schiff, das nach seiner Zweckbestimmung nicht der Beförderung von Gütern dient, sind, soweit sich nicht aus den Nummern 3 und 4 etwas anderes ergibt, 450 Rechnungseinheiten je Kubikmeter Wasserverdrängung bei höchstzulässigem Tiefgang des Schiffes anzusetzen, bei Schiffen mit eigener Antriebskraft vermehrt um 1 576 Rechnungseinheiten je Kilowatt Leistungsfähigkeit der Antriebsmaschinen.
 
-2.
+2. Für ein Schiff, das nach seiner Zweckbestimmung der Beförderung von Gütern dient, sind 450 Rechnungseinheiten je Tonne Tragfähigkeit des Schiffs anzusetzen, bei Schiffen mit eigener Antriebskraft vermehrt um 1 576 Rechnungseinheiten je Kilowatt Leistungsfähigkeit der Antriebsmaschinen.
 
-3.
+3. Für ein Schlepp- oder Schubboot sind 1 576 Rechnungseinheiten je Kilowatt Leistungsfähigkeit der Antriebsmaschinen anzusetzen.
 
-4.
+4. Für einen Bagger, Kran, Elevator oder eine sonstige schwimmende und bewegliche Anlage oder ein Gerät ähnlicher Art ist der Wert, den die Anlage oder das Gerät im Zeitpunkt des haftungsbegründenden Ereignisses hatte, anzusetzen.
 
 (2) Für ein Schubboot, das im Zeitpunkt des haftungsbegründenden Ereignisses starr mit einem oder mehreren Schubleichtern zu einem Schubverband verbunden war, erhöht sich der für das Schubboot nach Absatz 1 Nr. 3 anzusetzende Betrag um 225 Rechnungseinheiten je Tonne Tragfähigkeit der Schubleichter, soweit nicht das Schubboot für einen oder mehrere dieser Schubleichter Bergungsmaßnahmen erbracht hat. Erhöht sich der Haftungshöchstbetrag für das Schubboot nach Satz 1, so vermindert sich für jeden starr mit dem Schubboot verbundenen Schubleichter der Haftungshöchstbetrag für alle aus demselben Ereignis entstandenen Ansprüche um den gleichen Betrag. Satz 2 gilt jedoch nicht für einen Anspruch des für das Schubboot haftenden Schuldners gegen den für einen mit dem Schubboot starr verbundenen Schubleichter haftenden Schuldner auf Ausgleichung im Innenverhältnis.
 
 (3) Absatz 2 gilt entsprechend für ein Schiff mit eigener Antriebskraft, das im Zeitpunkt des haftungsbegründenden Ereignisses mit einem oder mehreren Schiffen fest gekoppelt war, die nicht Anlagen oder Geräte im Sinne des Absatzes 1 Nr. 4 darstellen, sowie für die gekoppelten Schiffe, jedoch mit der Maßgabe, daß sich für das fortbewegende Schiff der nach Absatz 1 anzusetzende Betrag um 225 Rechnungseinheiten je Kubikmeter Wasserverdrängung oder je Tonne Tragfähigkeit der anderen Schiffe erhöht.
 
-(4) In jedem Falle beträgt der Haftungshöchstbetrag mindestens 450 400 Rechnungseinheiten, soweit es sich nicht um Leichter handelt, die nur zum Umladen in Häfen verwendet werden.
+(4) In jedem Falle beträgt der Haftungshöchstbetrag mindestens 450 400 Rechnungseinheiten, soweit es sich nicht um Leichter handelt, die nur zum Umladen in Häfen verwendet werden.
 
 > (+++ § 5e: Zur Anwendung vgl. § 5n Abs. 1 +++)
 
@@ -134,9 +134,9 @@ Reicht der nach § 5e maßgebende Haftungshöchstbetrag für Ansprüche wegen Pe
 
 (2) Der nach Absatz 1 maßgebliche Haftungshöchstbetrag beträgt
 
-1.
+1. für die Gesamtheit der aus demselben Ereignis entstandenen Ansprüche wegen Personenschäden das Doppelte der nach § 5e maßgebenden Haftungshöchstbeträge, mindestens jedoch 11,26 Millionen Rechnungseinheiten;
 
-2.
+2. für die Gesamtheit der aus demselben Ereignis entstandenen Ansprüche wegen Sachschäden das Doppelte der nach § 5f maßgebenden Haftungshöchstbeträge, mindestens jedoch 11,26 Millionen Rechnungseinheiten.
 
 (3) Bei der Befriedigung aus dem in Absatz 2 Nr. 2 genannten Haftungshöchstbetrag haben Ansprüche wegen Beschädigung von Hafenanlagen, Hafenbecken, Wasserstraßen, Schleusen, Wehren, Brücken und Navigationshilfen den Vorrang.
 
@@ -146,7 +146,7 @@ Reicht der nach § 5e maßgebende Haftungshöchstbetrag für Ansprüche wegen Pe
 
 ### § 5i
 
-Abweichend von den §§ 5e, 5f Abs. 1 und § 5h kann ein Berger im Sinne von § 5c Abs. 1 Nr. 2 oder ein an Bord tätiger Lotse seine Haftung für die Gesamtheit der aus demselben Ereignis entstandenen Ansprüche wegen Personenschäden auf einen Haftungshöchstbetrag in Höhe von 450 400 Rechnungseinheiten sowie für Ansprüche wegen Sachschäden auf einen Haftungshöchstbetrag in Höhe von 225 200 Rechnungseinheiten beschränken. § 5f Abs. 2 und § 5g gelten entsprechend.
+Abweichend von den §§ 5e, 5f Abs. 1 und § 5h kann ein Berger im Sinne von § 5c Abs. 1 Nr. 2 oder ein an Bord tätiger Lotse seine Haftung für die Gesamtheit der aus demselben Ereignis entstandenen Ansprüche wegen Personenschäden auf einen Haftungshöchstbetrag in Höhe von 450 400 Rechnungseinheiten sowie für Ansprüche wegen Sachschäden auf einen Haftungshöchstbetrag in Höhe von 225 200 Rechnungseinheiten beschränken. § 5f Abs. 2 und § 5g gelten entsprechend.
 
 > (+++ § 5i: Zur Anwendung vgl. § 5n Abs. 1 +++)
 
@@ -156,13 +156,13 @@ Für die Gesamtheit der aus demselben Ereignis entstandenen Ansprüche aus Wrack
 
 ### § 5k
 
-(1) Für die Gesamtheit der aus demselben Ereignis entstandenen Ansprüche wegen der Tötung oder Verletzung von Personen, die mit dem Schiff befördert worden sind (Reisende), gilt ein gesonderter Haftungshöchstbetrag. Dieser steht ausschließlich zur Befriedigung von Ansprüchen der Reisenden zur Verfügung.
+(1) Für die Gesamtheit der aus demselben Ereignis entstandenen Ansprüche wegen der Tötung oder Verletzung von Personen, die
 
-1.
+1. auf Grund eines Personenbeförderungsvertrages oder
 
-2.
+2. mit Zustimmung des Beförderers in Begleitung eines auf Grund eines Güterbeförderungsvertrages mit dem Schiff beförderten Fahrzeugs oder lebenden Tieres
 
-(2) Der Haftungshöchstbetrag für Ansprüche wegen Personenschäden von Reisenden nach Absatz 1 beträgt 112 600 Rechnungseinheiten, multipliziert mit der Anzahl der Reisenden, die das Schiff nach dem Schiffszeugnis befördern darf. Ist die Anzahl der Reisenden, die befördert werden dürfen, nicht vorgegeben, so bestimmt sich der Haftungshöchstbetrag nach der Anzahl der Reisenden, die das Schiff im Zeitpunkt des haftungsbegründenden Ereignisses tatsächlich befördert hat. Der Haftungshöchstbetrag beträgt jedoch mindestens 2,252 Millionen Rechnungseinheiten.
+(2) Der Haftungshöchstbetrag für Ansprüche wegen Personenschäden von Reisenden nach Absatz 1 beträgt 112 600 Rechnungseinheiten, multipliziert mit der Anzahl der Reisenden, die das Schiff nach dem Schiffszeugnis befördern darf. Ist die Anzahl der Reisenden, die befördert werden dürfen, nicht vorgegeben, so bestimmt sich der Haftungshöchstbetrag nach der Anzahl der Reisenden, die das Schiff im Zeitpunkt des haftungsbegründenden Ereignisses tatsächlich befördert hat. Der Haftungshöchstbetrag beträgt jedoch mindestens 2,252 Millionen Rechnungseinheiten.
 
 (3) Abweichend von Absatz 2 beträgt der Haftungshöchstbetrag für einen Berger im Sinne von § 5c Abs. 1 Nr. 2 oder einen an Bord tätigen Lotsen 2,252 Millionen Rechnungseinheiten.
 
@@ -180,11 +180,11 @@ Für die Gesamtheit der aus demselben Ereignis entstandenen Ansprüche aus Wrack
 
 Die §§ 4 bis 5l sind ohne Rücksicht auf das nach Internationalen Privatrecht anzuwendende Recht anzuwenden, wenn im Zeitpunkt des haftungsbegründenden Ereignisses
 
-1.
+1. das Schiff, für das die Haftung beschränkt werden soll, ein deutsches Gewässer oder ein sonstiges dem Straßburger Übereinkommen vom 27. September 2012 über die Beschränkung der Haftung in der Binnenschifffahrt (CLNI 2012) unterliegendes Gewässer befahren hat oder
 
-2.
+2. Bergungsmaßnahmen für ein im Bereich solcher Gewässer in Gefahr befindliches Binnen- oder Seeschiff oder für die Ladung eines solchen Binnen- oder Seeschiffs erbracht worden sind oder
 
-3.
+3. ein im Bereich solcher Gewässer gesunkenes, havariertes, festgefahrenes oder verlassenes Schiff oder die Ladung eines solchen Schiffes gehoben, beseitigt, vernichtet oder unschädlich gemacht worden ist.
 
 > (+++ § 5m: Zur Anwendung vgl. § 5n Abs. 1 +++)
 
@@ -421,17 +421,17 @@ Die §§ 92 bis 92d gelten auch, wenn die beteiligten Schiffe zu demselben Schle
 
 Die nachstehenden Forderungen gewähren die Rechte eines Schiffsgläubigers:
 
-1.
+1. die öffentlichen Schiffs- und Schiffahrtsabgaben, insbesondere die Brücken-, Schleusen-, Kanal- und Hafengelder;
 
-2.
+2. die aus den Dienstverträgen herrührenden Forderungen der Schiffsbesatzung, Gehalts- und Lohnforderungen für die Vergangenheit, jedoch höchstens für den Zeitraum von sechs Monaten, gerechnet von der im Zwangsversteigerungsverfahren erfolgenden Beschlagnahme des Schiffes ab;
 
-3.
+3. die Lotsengelder sowie Bergelohn oder Sondervergütung einschließlich Bergungskosten; die Beiträge des Schiffes zur großen Haverei;
 
-4.
+4. die Forderungen wegen Personenschäden (§ 4 Abs. 2) und wegen Sachschäden (§ 4 Abs. 3), die an Bord oder in unmittelbarem Zusammenhang mit dem Betrieb des Schiffes eingetreten sind;
 
-5.
+5. die nicht unter eine der vorigen Nummern fallenden Forderungen aus Rechtsgeschäften, die der Schiffer als solcher kraft seiner gesetzlichen Befugnisse (§§ 15, 16) und nicht mit Bezug auf eine Vollmacht geschlossen hat;
 
-6.
+6. die Forderungen der Träger der Sozialversicherung einschließlich der Arbeitslosenversicherung gegen den Schiffseigner.
 
 ### § 103
 
@@ -515,19 +515,19 @@ Soweit der Schiffseigner bei der Zwangsversteigerung oder bei einer sonstigen Ve
 
 (1) Mit dem Ablauf eines Jahres verjähren:
 
-1.
+1. die öffentlichen Schiffs- und Schiffahrtsabgaben, insbesondere die Brücken-, Schleusen-, Kanal- und Hafengelder;
 
-2.
+2. die aus den Dienstverträgen herrührenden Forderungen der Schiffsbesatzung;
 
-3.
+3. die Lotsengelder;
 
-4.
+4. (weggefallen)
 
-5.
+5. die Beiträge zur großen Haverei;
 
-6.
+6. die Forderungen aus Geschäften, welche der Schiffer kraft seiner gesetzlichen Befugnisse (§§ 15 und 16) und nicht mit Bezug auf eine Vollmacht geschlossen hat;
 
-7.
+7. die Forderungen aus dem Verschulden einer Person der Schiffsbesatzung oder eines Lotsen (§§ 3, 7), soweit ihre Verjährung sich nicht nach § 118 bestimmt.
 
 (2) Die Verjährung beginnt mit dem Schluß des Jahres, in welchem die Forderung fällig geworden ist.
 
@@ -565,6 +565,4 @@ In bürgerlichen Rechtsstreitigkeiten, in welchen durch Klage oder Widerklage ei
 
 ### Anhang EV — Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt III
 
-Abschnitt III
-
-4.
+4. Binnenschiffahrtsgesetz in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4103-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 2 des Gesetzes vom 25. Juli 1986 (BGBl. I S. 1120), mit folgender Maßgabe: Durch den gesamtdeutschen Gesetzgeber sollte für die gewerbliche Binnenschiffahrt bereits vor dem völkerrechtlichen Inkrafttreten des Straßburger Übereinkommens vom 4. November 1988 über die Beschränkung der Haftung in der Binnenschiffahrt (CLNI) die summenmäßige Haftungsbeschränkung eingeführt werden.

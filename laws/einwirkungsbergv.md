@@ -16,9 +16,9 @@ Einwirkungsbereiche von untertägigen Bergbaubetrieben, von Bergbaubetrieben mit
 
 (2) Einwirkungswinkel ist:
 
-1.
+1. der Winkel, dessen Scheitelpunkt an den jeweils tiefsten Punkten des Randes eines in § 1 genannten Betriebes liegt, dessen fester Schenkel von einer Waagerechten durch den Scheitelpunkt gebildet wird, dessen freier Schenkel auf dem kürzesten Wege zur Oberfläche ansteigt und diese bei einer Bodensenkung von 10 Zentimetern durchdringen wird,
 
-2.
+2. der Winkel, der bezogen auf eine Bodenhebung von 10 Zentimetern, die von einem in § 1 genannten Betrieb verursacht wurde, vom Unternehmer nach dem Stand der Technik bestimmt wird.
 
 (3) Die Grenze des Einwirkungsbereichs ergibt sich als Verbindungslinie der Punkte, in denen die freien Schenkel der Einwirkungswinkel die Oberfläche durchdringen.
 
@@ -26,13 +26,13 @@ Einwirkungsbereiche von untertägigen Bergbaubetrieben, von Bergbaubetrieben mit
 
 ### § 3 — Andere Art der Festlegung des Einwirkungsbereichs
 
-(1) Der Unternehmer hat abweichend von § 2 Absatz 1 die Grenze des Einwirkungsbereichs im Einzelfall zu ermitteln, wenn Die Festlegung ist insbesondere durch Messungen, die ein anerkannter Markscheider nach dem Stand der Technik durchzuführen hat, nachzuweisen.
+(1) Der Unternehmer hat abweichend von § 2 Absatz 1 die Grenze des Einwirkungsbereichs im Einzelfall zu ermitteln, wenn
 
-1.
+1. Tatsachen die Annahme rechtfertigen, dass der Einwirkungsbereich auf Grund besonderer geologischer oder betrieblicher Gegebenheiten ganz oder teilweise nach einem anderen als dem in der Anlage aufgeführten Einwirkungswinkel zu bestimmen ist,
 
-2.
+2. für den betroffenen Betrieb kein Einwirkungswinkel in der Anlage vorgesehen ist, oder
 
-3.
+3. die Grenze des Einwirkungsbereichs nicht mit Hilfe eines Einwirkungswinkels zu bestimmen ist.
 
 (2) Bei der Ermittlung der Grenze des Einwirkungsbereichs nach Absatz 1 sollen die Vorgaben zum Betrag der Bodensenkung oder Bodenhebung nach § 2 grundsätzlich beachtet werden.
 
@@ -56,11 +56,11 @@ Können einzelne Anlagen oder Einrichtungen wegen ihrer Bau- oder Betriebsweise 
 
 Wenn nach Festsetzung der Grenze eines Einwirkungsbereichs Tatsachen die Annahme rechtfertigen, dass die Grenze des tatsächlichen Einwirkungsbereichs von der Grenze des festgelegten Einwirkungsbereichs erheblich abweicht,
 
-1.
+1. hat der Unternehmer im Fall des § 3 Absatz 1 die Grenze des Einwirkungsbereichs unter Beachtung der Anforderungen des § 3 Absatz 1 bis 3 erneut zu ermitteln,
 
-2.
+2. hat die zuständige Behörde im Fall des § 3 Absatz 4 den Einwirkungsbereich unter Beachtung der Anforderungen des § 3 Absatz 4 erneut festzulegen,
 
-3.
+3. erfolgt in den Fällen des § 5 die erneute Festlegung nach den Anforderungen des § 5.
 
 ### § 7 — Zeichnerische Darstellungen zum Betriebsplan
 

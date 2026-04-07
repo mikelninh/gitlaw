@@ -18,79 +18,25 @@ Auf Grund des § 58 Abs. 1 des Bundespolizeigesetzes vom 19. Oktober 1994 (BGBl.
 
 (3) Für die Wahrnehmung folgender Aufgaben und Verwendungen sind sachlich zuständig:
 
-1.
+1. das Bundespolizeipräsidium für zentral wahrzunehmende Aufgaben nach a)§ 3 Abs. 2 Satz 5, § 28 Absatz 2 Nummer 3 und 4, § 31a Abs. 1 Satz 1 und § 69a Abs. 3 Satz 1 des Bundespolizeigesetzes,b)§ 63 Abs. 2 bis 4 in Verbindung mit § 71 Abs. 3 des Aufenthaltsgesetzes sowie nach § 3 Abs. 2 und § 74a Satz 2 des Aufenthaltsgesetzes,c)§ 12d Abs. 3 des Atomgesetzes,d)§ 1 Abs. 1 des Antiterrordateigesetzes,e)§ 12 Abs. 1 Nr. 3 des Sicherheitsüberprüfungsgesetzes,f)§ 6 Abs. 1 Nr. 2 und § 32 Abs. 1 Nr. 1 des Ausländerzentralregistergesetzes sowie nach der Anlage der AZRG-Durchführungsverordnung, soweit dort jeweils auf die in dieser Rechtsverordnung bestimmte Bundespolizeibehörde verwiesen wird,g)§ 1 Absatz 1 des Rechtsextremismus-Datei-Gesetzes,h)§ 5 Absatz 5 und § 6 Absatz 1 des Waffengesetzes; § 3 Abs. 2 Satz 5, § 28 Absatz 2 Nummer 3 und 4, § 31a Abs. 1 Satz 1 und § 69a Abs. 3 Satz 1 des Bundespolizeigesetzes, § 63 Abs. 2 bis 4 in Verbindung mit § 71 Abs. 3 des Aufenthaltsgesetzes sowie nach § 3 Abs. 2 und § 74a Satz 2 des Aufenthaltsgesetzes, § 12d Abs. 3 des Atomgesetzes, § 1 Abs. 1 des Antiterrordateigesetzes, § 12 Abs. 1 Nr. 3 des Sicherheitsüberprüfungsgesetzes, § 6 Abs. 1 Nr. 2 und § 32 Abs. 1 Nr. 1 des Ausländerzentralregistergesetzes sowie nach der Anlage der AZRG-Durchführungsverordnung, soweit dort jeweils auf die in dieser Rechtsverordnung bestimmte Bundespolizeibehörde verwiesen wird, § 1 Absatz 1 des Rechtsextremismus-Datei-Gesetzes, § 5 Absatz 5 und § 6 Absatz 1 des Waffengesetzes;
 
-a)
+1a. das Bundespolizeipräsidium für die Ahndung von Ordnungswidrigkeiten nach a)§ 13 Abs. 2 des Bundespolizeigesetzes,b)§ 26 Nr. 2 des Passgesetzes,c)§ 10 Abs. 5 des Freizügigkeitsgesetzes/EU,d)§ 64b Abs. 3 der Eisenbahn-Bau- und Betriebsordnung,e)§ 49 Abs. 3 der Eisenbahn-Bau- und Betriebsordnung für Schmalspurbahnen,f)§ 78 der Aufenthaltsverordnung,g)§ 18 Absatz 1 Nummer 9 des Luftsicherheitsgesetzes; § 13 Abs. 2 des Bundespolizeigesetzes, § 26 Nr. 2 des Passgesetzes, § 10 Abs. 5 des Freizügigkeitsgesetzes/EU, § 64b Abs. 3 der Eisenbahn-Bau- und Betriebsordnung, § 49 Abs. 3 der Eisenbahn-Bau- und Betriebsordnung für Schmalspurbahnen, § 78 der Aufenthaltsverordnung, § 18 Absatz 1 Nummer 9 des Luftsicherheitsgesetzes;
 
-b)
+2. die Bundespolizeidirektion 11 für die Aufgaben nach § 4a und Verwendungen nach § 8 Absatz 2 und § 9 Absatz 1 Nummer 2 des Bundespolizeigesetzes;
 
-c)
+3. die Bundespolizeidirektion Bad Bramstedt für die Aufgaben nach § 6 des Bundespolizeigesetzes;
 
-d)
+4. die jeweils örtlich zuständige Bundespolizeidirektion für die Aufgaben nach a)§ 61 Abs. 2 des Bundespolizeigesetzes,b)§ 61 Abs. 3 des Bundespolizeigesetzes;c)§ 1 Absatz 1 des Rechtsextremismus-Datei-Gesetzes; § 61 Abs. 2 des Bundespolizeigesetzes, § 61 Abs. 3 des Bundespolizeigesetzes; § 1 Absatz 1 des Rechtsextremismus-Datei-Gesetzes;
 
-e)
-
-f)
-
-g)
-
-h)
-
-1a.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-2.
-
-3.
-
-4.
-
-a)
-
-b)
-
-c)
-
-5.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
+5. die jeweils örtlich zuständige Bundespolizeidirektion für die Verfolgung von Ordnungswidrigkeiten nach a)§ 13 Abs. 2 des Bundespolizeigesetzes,b)§ 26 Nr. 2 des Passgesetzes,c)§ 10 Abs. 5 des Freizügigkeitsgesetzes/EU,d)§ 64b Abs. 3 der Eisenbahn-Bau- und Betriebsordnung,e)§ 49 Abs. 3 der Eisenbahn-Bau- und Betriebsordnung für Schmalspurbahnen,f)§ 78 der Aufenthaltsverordnung,g)§ 18 Absatz 1 Nummer 9 des Luftsicherheitsgesetzes.Dies schließt die Zuständigkeit für die Erteilung von Verwarnungen bei geringfügigen Ordnungswidrigkeiten ein. § 13 Abs. 2 des Bundespolizeigesetzes, § 26 Nr. 2 des Passgesetzes, § 10 Abs. 5 des Freizügigkeitsgesetzes/EU, § 64b Abs. 3 der Eisenbahn-Bau- und Betriebsordnung, § 49 Abs. 3 der Eisenbahn-Bau- und Betriebsordnung für Schmalspurbahnen, § 78 der Aufenthaltsverordnung, § 18 Absatz 1 Nummer 9 des Luftsicherheitsgesetzes.
 
 (4) Zu Maßnahmen nach § 31 Abs. 7 des Bundespolizeigesetzes ist ausschließlich das Bundespolizeipräsidium befugt.
 
 (5) Es sind befugt zur Anordnung von Maßnahmen
 
-1.
+1. nach § 22a Absatz 1 Satz 2, § 28 Absatz 3 Satz 1 in Verbindung mit § 28 Absatz 2 Nummer 1 und 2, § 30 Absatz 4 und § 31 Absatz 3 Satz 1 des Bundespolizeigesetzes a)die jeweils örtlich zuständigen Bundespolizeidirektionen sowieb)das Bundespolizeipräsidium, soweit es Aufgaben nach § 1 Absatz 2 Satz 2 im Einzelfall selbst wahrnimmt, die jeweils örtlich zuständigen Bundespolizeidirektionen sowie das Bundespolizeipräsidium, soweit es Aufgaben nach § 1 Absatz 2 Satz 2 im Einzelfall selbst wahrnimmt,
 
-a)
-
-b)
-
-2.
+2. nach § 28 Absatz 3 Satz 1 in Verbindung mit § 28 Absatz 2 Nummer 3 und 4 des Bundespolizeigesetzes das Bundespolizeipräsidium, soweit sich die Zuständigkeit zur Anordnung dieser Maßnahmen nicht unmittelbar aus § 28 Absatz 3a Satz 1 oder 2 des Bundespolizeigesetzes ergibt.
 
 (6) Die Bundespolizeiakademie ist die zentrale Aus- und Fortbildungsstätte der Bundespolizei.
 
@@ -100,41 +46,37 @@ b)
 
 (1) Örtlich sind die Bundespolizeidirektionen wie folgt zuständig:
 
-1.
+1. die Bundespolizeidirektion Bad Bramstedt a)in den Ländern Schleswig-Holstein und Mecklenburg-Vorpommern sowieb)auf See innerhalb und außerhalb des deutschen Küstenmeers und darüber hinaus auf den Seeschifffahrtsstraßen auf der Ems bis zur Seeschleuse Emden und auf der Jade, auf der Weser bis Bremerhaven und auf der Elbe bis zur Einfahrt zum Nord-Ostsee-Kanal; in den Ländern Schleswig-Holstein und Mecklenburg-Vorpommern sowie auf See innerhalb und außerhalb des deutschen Küstenmeers und darüber hinaus auf den Seeschifffahrtsstraßen auf der Ems bis zur Seeschleuse Emden und auf der Jade, auf der Weser bis Bremerhaven und auf der Elbe bis zur Einfahrt zum Nord-Ostsee-Kanal;
 
-a)
+2. die Bundespolizeidirektion Hannover im Land Niedersachsen, im Land Bremen sowie in der Freien und Hansestadt Hamburg, soweit nicht die Bundespolizeidirektion Bad Bramstedt zuständig ist;
 
-b)
+3. die Bundespolizeidirektion Sankt Augustin im Land Nordrhein-Westfalen;
 
-2.
+4. die Bundespolizeidirektion Koblenz in den Ländern Rheinland-Pfalz, Saarland und Hessen, soweit nicht die Bundespolizeidirektion Flughafen Frankfurt am Main zuständig ist;
 
-3.
+5. die Bundespolizeidirektion Stuttgart im Land Baden-Württemberg;
 
-4.
+6. die Bundespolizeidirektion München im Freistaat Bayern;
 
-5.
+7. die Bundespolizeidirektion Pirna in den Freistaaten Sachsen und Thüringen sowie in dem Land Sachsen-Anhalt;
 
-6.
+8. die Bundespolizeidirektion Berlin in den Ländern Berlin und Brandenburg;
 
-7.
+9. die Bundespolizeidirektion Flughafen Frankfurt am Main auf dem Flughafen Frankfurt am Main;
 
-8.
+10. die Direktion Bundesbereitschaftspolizei im gesamten Bundesgebiet;
 
-9.
-
-10.
-
-11.
+11. die Bundespolizeidirektion 11 im gesamten Bundesgebiet.
 
 (2) Abweichend von den in Absatz 1 festgelegten Zuständigkeiten sind die Bundespolizeibehörden bundesweit zuständig
 
-1.
+1. für die Wahrnehmung bahnpolizeilicher Aufgaben nach § 3 des Bundespolizeigesetzes, soweit dafür ein Einsatz über die in Absatz 1 festgelegten Zuständigkeitsbereiche hinaus zweckmäßig ist,
 
-2.
+2. für die Zurückschiebung an der Grenze , Abschiebungen an der Grenze und die Rückführung von Ausländern aus und in andere Staaten nach § 71 Absatz 3 Nummer 1 bis 1b und 1d des Aufenthaltsgesetzes,
 
-3.
+3. auf Weisung des Bundesministeriums des Innern, für Bau und Heimat oder der jeweils vorgesetzten Bundespolizeibehörde, soweit diese auch für den vorgesehenen Einsatzbereich zuständig ist,
 
-4.
+4. für die polizeiliche Sicherung eigener Einrichtungen nach § 1 Abs. 3 des Bundespolizeigesetzes.
 
 ### § 3 — Inkrafttreten, Außerkrafttreten
 

@@ -29,45 +29,45 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 4 — Struktur der Berufsausbildung, Ausbildungsberufsbild
 
-(1) Die Berufsausbildung gliedert sich in: Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
+(1) Die Berufsausbildung gliedert sich in:
 
-1.
+1. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 (2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. Online-Vertriebskanal auswählen und einsetzen,
 
-2.
+2. Waren- oder Dienstleistungssortiment mitgestalten und online bewirtschaften,
 
-3.
+3. Beschaffung unterstützen,
 
-4.
+4. Vertragsanbahnung im Online-Vertrieb gestalten,
 
-5.
+5. Verträge aus dem Online-Vertrieb abwickeln,
 
-6.
+6. Kundenkommunikation gestalten,
 
-7.
+7. Online-Marketing entwickeln und umsetzen und
 
-8.
+8. kaufmännische Steuerung und Kontrolle nutzen.
 
 (3) Die Berufsbildpositionen der integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. Berufsbildung sowie arbeits- und sozialrechtliche Vorschriften,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-4.
+4. Umweltschutz,
 
-5.
+5. Bedeutung und Struktur des E-Commerce,
 
-6.
+6. Kommunikation und Kooperation und
 
-7.
+7. projektorientierte Arbeitsweisen im E-Commerce.
 
 ### § 5 — Ausbildungsplan
 
@@ -87,9 +87,9 @@ Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage de
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
-1.
+1. die im Ausbildungsrahmenplan für die ersten 15 Ausbildungsmonate genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 ### § 8 — Prüfungsbereich von Teil 1
 
@@ -97,13 +97,13 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 (2) Im Prüfungsbereich Sortimentsbewirtschaftung und Vertragsanbahnung soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. das Waren- oder Dienstleistungssortiment im Online-Vertrieb kunden- und serviceorientiert mitzugestalten und zu bewirtschaften,
 
-2.
+2. die Beschaffung von Waren oder Dienstleistungen für den Online-Vertrieb zu unterstützen,
 
-3.
+3. Vertragsanbahnungen im Online-Vertrieb zu gestalten und Vertragsabschlüsse herbeizuführen und
 
-4.
+4. rechtliche Regelungen bei der Sortimentsbewirtschaftung und der Vertragsanbahnung einzuhalten.
 
 (3) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
@@ -113,9 +113,9 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
-1.
+1. die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 (2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
@@ -123,35 +123,35 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
-1.
+1. Geschäftsprozesse im E-Commerce,
 
-2.
+2. Kundenkommunikation im E-Commerce,
 
-3.
+3. Fachgespräch zu einem projektbezogenen Prozess im E-Commerce sowie
 
-4.
+4. Wirtschafts- und Sozialkunde.
 
 ### § 11 — Prüfungsbereich Geschäftsprozesse im E-Commerce
 
-(1) Im Prüfungsbereich Geschäftsprozesse im E-Commerce soll der Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Geschäftsprozesse im
 
-1.
+1. komplexe Arbeitsaufträge handlungsorientiert zu bearbeiten,
 
-2.
+2. fachliche und wirtschaftliche Zusammenhänge zu analysieren, Lösungen für Aufgabenstellungen zu entwickeln und dabei Instrumente der kaufmännischen Steuerung und Kontrolle zu nutzen,
 
-3.
+3. wirtschaftliche und technische Entwicklungen im Hinblick auf ihre Relevanz für den E-Commerce einzuschätzen,
 
-4.
+4. englischsprachige Informationen und Fachbegriffe situationsbezogen zu nutzen und
 
-5.
+5. rechtliche Regelungen bei den Geschäftsprozessen im E-Commerce einzuhalten.
 
 (2) Für den Nachweis nach Absatz 1 sind folgende Gebiete zugrunde zu legen:
 
-1.
+1. Einsatz eines Online-Vertriebskanals und Optimierung der Nutzung,
 
-2.
+2. zielgruppenorientiertes und produktbezogenes Online-Marketing sowie
 
-3.
+3. sortiments-, nutzungs- und kundenbezogene und ergebnisorientierte Analyse und Steuerung der Prozesse im E-Commerce.
 
 (3) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
@@ -159,21 +159,21 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 ### § 12 — Prüfungsbereich Kundenkommunikation im E-Commerce
 
-(1) Im Prüfungsbereich Kundenkommunikation im E-Commerce soll der Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Kundenkommunikation im
 
-1.
+1. Kundenanliegen lösungsorientiert zu bearbeiten,
 
-2.
+2. bei der Vertragserfüllung entstehende Störungen zu bearbeiten,
 
-3.
+3. Rückabwicklungsprozesse zu organisieren,
 
-4.
+4. Kommunikationskanäle auszuwählen und zu steuern,
 
-5.
+5. Schnittstellen von Kommunikationskanälen zu berücksichtigen,
 
-6.
+6. Kommunikation mit Kunden und Kundinnen zielgruppenorientiert und situationsgerecht zu gestalten, auszuwerten und zu optimieren und
 
-7.
+7. rechtliche Regelungen bei der Kundenkommunikation im E-Commerce einzuhalten.
 
 (2) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
@@ -183,29 +183,29 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (1) Im Prüfungsbereich Fachgespräch zu einem projektbezogenen Prozess im E-Commerce soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. berufstypische Aufgabenstellungen zu erfassen,
 
-2.
+2. Probleme und Vorgehensweisen zu erörtern,
 
-3.
+3. Lösungswege zu entwickeln,
 
-4.
+4. kunden- und serviceorientiert zu handeln,
 
-5.
+5. praxisbezogene Aufgaben unter Berücksichtigung wirtschaftlicher, ökologischer und rechtlicher Zusammenhänge zu planen, durchzuführen und auszuwerten,
 
-6.
+6. projektorientierte Arbeitsweisen im E-Commerce anzuwenden und
 
-7.
+7. Kommunikations- und Kooperationsbedingungen zu berücksichtigen.
 
-(2) Für den Nachweis nach Absatz 1 ist eines der folgenden Gebiete zugrunde zu legen: Das Gebiet wird von dem oder der Ausbildenden festgelegt.
+(2) Für den Nachweis nach Absatz 1 ist eines der folgenden Gebiete zugrunde zu legen:
 
-1.
+1. Auswählen und Einsetzen eines Online-Vertriebskanals,
 
-2.
+2. Optimieren von Nutzungsprozessen im E-Commerce,
 
-3.
+3. Entwickeln und Umsetzen von Online-Marketing oder
 
-4.
+4. Nutzen der kaufmännischen Steuerung und Kontrolle.
 
 (3) Mit dem Prüfling wird ein fallbezogenes Fachgespräch geführt.
 
@@ -235,31 +235,31 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
-1.
+1. Sortimentsbewirtschaftung und Vertragsanbahnung mit25 Prozent,
 
-2.
+2. Geschäftsprozesse im E-Commerce mit30 Prozent,
 
-3.
+3. Kundenkommunikation im E-Commerce mit15 Prozent,
 
-4.
+4. Fachgespräch zu einem projektbezogenen Prozess im E-Commerce mit20 Prozent sowie
 
-5.
+5. Wirtschafts- und Sozialkunde mit10 Prozent.
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-1.
+1. im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
-2.
+2. im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
-3.
+3. in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
 
-4.
+4. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Geschäftsprozesse im E-Commerce“, „Kundenkommunikation im E-Commerce“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Geschäftsprozesse im E-Commerce“, „Kundenkommunikation im E-Commerce“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.
+1. der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
-2.
+2. die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 ## Abschnitt 3: Schlussvorschrift
 
@@ -268,175 +268,3 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 Diese Verordnung tritt am 1. August 2018 in Kraft.
 
 ### Anlage — (zu § 3 Absatz 1)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)

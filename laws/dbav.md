@@ -14,9 +14,9 @@
 
 (3) Ergänzend zu § 16 Absatz 2 des Erdgas-Wärme-Preisbremsengesetzes darf der Differenzbetrag nach § 16 Absatz 2 Satz 1 des Erdgas-Wärme-Preisbremsengesetzes bei Kunden von Wärmeversorgungsunternehmen, die nach § 14 des Erdgas-Wärme-Preisbremsengesetztes anspruchsberechtigt sind, die Unternehmen im Sinne von § 2 Nummer 13 des Erdgas-Wärme-Preisbremsengesetzes sind und für die § 18 Absatz 1 Satz 1 Nummer 1 oder Nummer 2 Buchstabe a des Erdgas-Wärme-Preisbremsengesetzes anzuwenden ist, die folgende Höhe nicht übersteigen:
 
-1.
+1. 8 Cent pro Kilowattstunde bei Kunden, die nach § 14 Absatz 1 des Erdgas-Wärme-Preisbremsengesetzes anspruchsberechtigt sind,
 
-2.
+2. 8 Cent pro Kilowattstunde bei Kunden, die nach § 14 Absatz 2 des Erdgas-Wärme-Preisbremsengesetzes anspruchsberechtigt sind.
 
 (4) Ergänzend zu § 5 Absatz 1 Satz 3 bis 6 des Strompreisbremsegesetzes darf der Differenzbetrag nach § 5 Absatz 1 Satz 3 bis 6 des Strompreisbremsegesetzes bei Letztverbrauchern von Strom die Höhe von 18 Cent pro Kilowattstunde nicht übersteigen, wenn der Letztverbraucher von Strom ein Unternehmen im Sinne von § 2 Nummer 25 des Strompreisbremsegesetzes ist und für diesen Letztverbraucher § 9 Absatz 1 Satz 1 Nummer 1 oder Nummer 2 Buchstabe a des Strompreisbremsegesetzes anzuwenden ist.
 

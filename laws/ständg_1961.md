@@ -30,8 +30,6 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 ### Art 23
 
-Artikel 22 gilt nicht für Personen, die ein handwerksähnliches Gewerbe betreiben.
-
 > Art. 23 Kursivdruck: § 3 Abs. 4 Satz 1 Halbsatz 2 des Gesetzes zur vorläufigen Regelung des Rechts der Industrie- und Handelskammern eingef. durch Art. 22 Nr. 2 dieses G
 
 ### Art 24
@@ -44,4 +42,6 @@ Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten Überleitungsgeset
 
 ### Art 26
 
-(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.(2) Abweichend von Absatz 1 treten Artikel 16 und Artikel 17 Nrn. 1 bis 3, 6, 11 und 14 erst mit Wirkung vom ersten Tage des auf die Verkündung dieses Gesetzes folgenden zweiten Kalendermonats in Kraft.
+(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
+
+(2) Abweichend von Absatz 1 treten Artikel 16 und Artikel 17 Nrn. 1 bis 3, 6, 11 und 14 erst mit Wirkung vom ersten Tage des auf die Verkündung dieses Gesetzes folgenden zweiten Kalendermonats in Kraft.

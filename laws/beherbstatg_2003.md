@@ -22,41 +22,33 @@
 
 (2) Die Erhebungen erstrecken sich auf
 
-1.
+1. folgende Wirtschaftsgruppen des Anhangs I der Verordnung (EG) Nr. 1893/2006 in Verbindung mit der vom Statistischen Bundesamt daraus erstellten Klassifikation der Wirtschaftszweige: a)55.1 – Hotels, Gasthöfe und Pensionen,b)55.2 – Ferienunterkünfte und ähnliche Beherbergungsstätten,c)55.3 – Campingplätze,d)55.4 – Vermittlungstätigkeiten für Beherbergungsdienstleistungen; 55.1 – Hotels, Gasthöfe und Pensionen, 55.2 – Ferienunterkünfte und ähnliche Beherbergungsstätten, 55.3 – Campingplätze, 55.4 – Vermittlungstätigkeiten für Beherbergungsdienstleistungen;
 
-a)
+2. Schulungsheime;
 
-b)
-
-c)
-
-d)
-
-2.
-
-3.
+3. Vorsorge- und Rehabilitationskliniken.
 
 ### § 4 — Erhebungsmerkmale
 
 Erhebungsmerkmale sind:
 
-1.
+1. Zahl der Ankünfte und Übernachtungen von Gästen; bei Gästen, deren Wohnsitz oder gewöhnlicher Aufenthalt außerhalb Deutschlands liegt, werden diese Angaben auch in der Unterteilung nach Herkunftsländern erfasst,
 
-2.
+2. Zahl der angebotenen Gästebetten oder bei Campingplätzen der Stellplätze,
 
-3.
+3. Datum der vorübergehenden Schließung und Wiedereröffnung sowie der gewerberechtlichen Abmeldung,
 
-4.
+4. bei Hotels, Gasthöfen, Pensionen und Hotels garnis zusätzlich Zahl der Gästezimmer,
 
-5.
+5. bei den in Nummer 4 genannten Beherbergungsbetrieben mit 25 und mehr Gästezimmern darüber hinaus die Zahl der belegten und angebotenen Zimmertage; für Letztere hilfsweise die Auslastung als Prozentangabe.
 
 ### § 5 — Hilfsmerkmale
 
 Hilfsmerkmale sind:
 
-1.
+1. Name und Anschrift des Beherbergungsbetriebs,
 
-2.
+2. Name, Rufnummern und Adressen für elektronische Post der Personen, die für Rückfragen zur Verfügung stehen.
 
 ### § 6 — Auskunftspflicht
 
@@ -64,7 +56,7 @@ Hilfsmerkmale sind:
 
 (2) Die Auskunftspflicht erstreckt sich bei erstmaliger Heranziehung auch auf abgelaufene Berichtszeiträume des Kalenderjahres.
 
-(3) Für Unternehmen, deren Inhaber oder Inhaberinnen Existenzgründer oder Existenzgründerinnen sind, besteht im Kalenderjahr der Betriebseröffnung abweichend von Absatz 1 Satz 1 und 2 keine Auskunftspflicht. In den beiden folgenden Kalenderjahren besteht dann keine Auskunftspflicht, wenn das Unternehmen im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe von weniger als 800 000 Euro erwirtschaftet hat. Gesellschaften können sich auf die Befreiung von der Auskunftspflicht berufen, wenn alle an der Gesellschaft Beteiligten Existenzgründer oder Existenzgründerinnen sind.
+(3) Für Unternehmen, deren Inhaber oder Inhaberinnen Existenzgründer oder Existenzgründerinnen sind, besteht im Kalenderjahr der Betriebseröffnung abweichend von Absatz 1 Satz 1 und 2 keine Auskunftspflicht. In den beiden folgenden Kalenderjahren besteht dann keine Auskunftspflicht, wenn das Unternehmen im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe von weniger als 800 000 Euro erwirtschaftet hat. Gesellschaften können sich auf die Befreiung von der Auskunftspflicht berufen, wenn alle an der Gesellschaft Beteiligten Existenzgründer oder Existenzgründerinnen sind.
 
 (4) Existenzgründer und Existenzgründerinnen im Sinne von Absatz 3 sind natürliche Personen, die eine gewerbliche oder freiberufliche Tätigkeit in Form einer Neugründung, einer Übernahme oder einer tätigen Beteiligung aus abhängiger Beschäftigung oder aus der Nichtbeschäftigung heraus aufnehmen.
 
@@ -76,9 +68,9 @@ An die obersten Bundes- und Landesbehörden dürfen für die Verwendung gegenüb
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
-1.
+1. die Erhebung einzelner Erhebungsmerkmale auszusetzen, die Periodizitäten zu verlängern sowie die Untergliederung von Erhebungsmerkmalen und den Kreis der zu Befragenden einzuschränken;
 
-2.
+2. einzelne neue Erhebungsmerkmale einzuführen, wenn dies zum Zweck dieses Gesetzes erforderlich ist und es sich nicht um personenbezogene Daten handelt; werden Erhebungsmerkmale eingeführt, die nicht zur Erfüllung von Berichtspflichten nach dem Recht der Europäischen Gemeinschaften erforderlich sind, so ist durch die gleichzeitige Aussetzung der Erhebung anderer Erhebungsmerkmale eine Erweiterung des Erhebungsumfangs zu vermeiden.
 
 ### § 9 — Inkrafttreten, Außerkrafttreten
 

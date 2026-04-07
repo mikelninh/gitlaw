@@ -17,8 +17,6 @@ Dem in Wien am 13. Juni 1980 von der Bundesrepublik Deutschland unterzeichneten 
 
 ### Art 2
 
-§ 311 Abs. 1 und 2 sowie § 328 Abs. 1 Nr. 1 des Strafgesetzbuches gelten mit folgender Maßgabe: Einer verwaltungsrechtlichen Pflicht im Sinne des § 311 Abs. 1 und einer Genehmigung und Untersagung im Sinne des § 328 Abs. 1 Nr. 1 stehen eine entsprechende ausländische verwaltungsrechtliche Pflicht, Genehmigung und Untersagung gleich.
-
 ### Art 3
 
 -
@@ -29,4 +27,6 @@ Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung die
 
 ### Art 5
 
-(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 19 Abs. 2 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
+(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
+
+(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 19 Abs. 2 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.

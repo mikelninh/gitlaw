@@ -11,7 +11,13 @@ Auf Grund des § 11 Absatz 2 des Luftverkehrsteuergesetzes, der zuletzt durch Ar
 
 ### § 1 — Steuersätze 2021
 
-Unter Einbeziehung des Luftverkehrs in den Handel mit Treibhausgasemissionszertifikaten werden die Steuersätze des § 11 Absatz 1 Nummer 1 bis 3 des Gesetzes für das Jahr 2021 abgesenkt. Die Steuer beträgt je Fluggast für Flüge mit einem Zielort 1.in einem Land der Anlage 1 zu dem Gesetz:12,88 Euro,2.in einem Land der Anlage 2 zu dem Gesetz:32,62 Euro,3.in anderen Ländern:58,73 Euro.
+Unter Einbeziehung des Luftverkehrs in den Handel mit Treibhausgasemissionszertifikaten werden die Steuersätze des § 11 Absatz 1 Nummer 1 bis 3 des Gesetzes für das Jahr 2021 abgesenkt. Die Steuer beträgt je Fluggast für Flüge mit einem Zielort
+
+1. in einem Land der Anlage 1 zu dem Gesetz:12,88 Euro,
+
+2. in einem Land der Anlage 2 zu dem Gesetz:32,62 Euro,
+
+3. in anderen Ländern:58,73 Euro.
 
 ### § 2 — Inkrafttreten
 

@@ -14,55 +14,27 @@ Nach § 33 Absatz 5, § 34 Absatz 2 Satz 2, § 42 Absatz 1 Satz 2 und § 84 Satz
 
 Die Befugnis zur Kürzung der Dienstbezüge bis zum Höchstmaß nach § 33 Absatz 3 Nummer 1 des Bundesdisziplinargesetzes in der bis zum 31. März 2024 geltenden Fassung und nach § 34 Absatz 2 Nummer 1 des Bundesdisziplinargesetzes in der ab dem 1. April 2024 geltenden Fassung wird für den jeweiligen Kommando- oder Geschäftsbereich übertragen:
 
-1.
+1. den Inspekteurinnen oder Inspekteuren a)des Heeres,b)der Luftwaffe,c)der Marine,d)des Cyber- und Informationsraums, des Heeres, der Luftwaffe, der Marine, des Cyber- und Informationsraums,
 
-a)
+2. der Befehlshaberin oder dem Befehlshaber a)des Unterstützungskommandos der Bundeswehr,b)des Operativen Führungskommandos der Bundeswehr, des Unterstützungskommandos der Bundeswehr, des Operativen Führungskommandos der Bundeswehr,
 
-b)
+3. den Präsidentinnen oder Präsidenten a)des Bildungszentrums der Bundeswehr,b)des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr,c)des Bundesamtes für das Personalmanagement der Bundeswehr,d)des Bundesamtes für den Militärischen Abschirmdienst,e)des Bundesamtes für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr,f)des Bundessprachenamtes,g)der Truppendienstgerichte,h)der Universitäten der Bundeswehr, des Bildungszentrums der Bundeswehr, des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr, des Bundesamtes für das Personalmanagement der Bundeswehr, des Bundesamtes für den Militärischen Abschirmdienst, des Bundesamtes für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr, des Bundessprachenamtes, der Truppendienstgerichte, der Universitäten der Bundeswehr,
 
-c)
+4. der Kommandeurin oder dem Kommandeur der Führungsakademie der Bundeswehr,
 
-d)
+5. der Kommandeurin oder dem Kommandeur des Zentrums Innere Führung,
 
-2.
+6. der Leiterin oder dem Leiter des Evangelischen Kirchenamtes für die Bundeswehr,
 
-a)
+7. dem Leiter des Katholischen Militärbischofsamtes,
 
-b)
+8. der Leiterin oder dem Leiter des Militärrabbinats,
 
-3.
+9. der Bundeswehrdisziplinaranwältin oder dem Bundeswehrdisziplinaranwalt,
 
-a)
+10. der dienstaufsichtführenden Rechtsberaterin oder dem dienstaufsichtführenden Rechtsberater in den dem Bundesministerium der Verteidigung unmittelbar nachgeordneten Dienststellen sowie
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
+11. der Leiterin oder dem Leiter des Fachbereichs Bundeswehrverwaltung der Hochschule des Bundes für öffentliche Verwaltung.
 
 ### § 2
 

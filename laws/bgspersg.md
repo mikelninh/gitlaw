@@ -36,5 +36,3 @@
 Dieses Gesetz tritt am 1. Juli 1976 in Kraft.
 
 ### Anlage — zu Artikel 2 § 2 Abs. 1
-
-Fundstelle des Originaltextes: BGBl. I 1976, 1363 - 1365

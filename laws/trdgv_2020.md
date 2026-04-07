@@ -12,15 +12,81 @@ Auf Grund des § 69 Absatz 1 und 2 Satz 2 der Wehrdisziplinarordnung vom 16. Aug
 
 ### § 1 — Truppendienstgerichte
 
-Truppendienstgerichte sind 1.das Truppendienstgericht Nord mit Sitz in Münster und2.das Truppendienstgericht Süd mit Sitz in München.
+Truppendienstgerichte sind
+
+1.
+
+2.
 
 ### § 2 — Dienstbereiche der Truppendienstgerichte
 
-(1) Der Dienstbereich des Truppendienstgerichts Nord umfasst 1.die Truppenteile und Dienststellen mit Standort oder Sitz a)in Berlin,b)in Brandenburg,c)in Bremen,d)in Hamburg,e)in Mecklenburg-Vorpommern,f)in Niedersachsen,g)in Nordrhein-Westfalen mit Ausnahme des Regierungsbezirks Köln,h)in Sachsen-Anhalt undi)in Schleswig-Holstein;2.die Schiffe und Boote im Geschäftsbereich des Bundesministeriums der Verteidigung.(2) Der Dienstbereich des Truppendienstgerichts Süd umfasst 1.die Truppenteile und Dienststellen mit Standort oder Sitz a)in Baden-Württemberg,b)in Bayern,c)in Hessen,d)im Regierungsbezirk Köln,e)in Rheinland-Pfalz,f)im Saarland,g)in Sachsen,h)in Thüringen undi)im Ausland;2.die Truppenteile und Dienststellen, die sich vorübergehend im Ausland befinden, mit Ausnahme der Schiffe und Boote im Geschäftsbereich des Bundesministeriums der Verteidigung.
+(1) Der Dienstbereich des Truppendienstgerichts Nord umfasst
+
+1.
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
+i)
+
+2.
+
+(2) Der Dienstbereich des Truppendienstgerichts Süd umfasst
+
+1.
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
+i)
+
+2.
 
 ### § 3 — Auswärtige Truppendienstkammern
 
-Neben den Truppendienstkammern an den Sitzen der Truppendienstgerichte bestehen als auswärtige Truppendienstkammern 1.beim Truppendienstgericht Nord a)zwei Truppendienstkammern mit Sitz in Hamburg,b)zwei Truppendienstkammern mit Sitz in Potsdam undc)eine Truppendienstkammer mit Sitz in Koblenz;2.beim Truppendienstgericht Süd a)zwei Truppendienstkammern mit Sitz in Koblenz,b)zwei Truppendienstkammern mit Sitz in Erfurt undc)eine Truppendienstkammer mit Sitz in Potsdam.
+Neben den Truppendienstkammern an den Sitzen der Truppendienstgerichte bestehen als auswärtige Truppendienstkammern
+
+1.
+
+a)
+
+b)
+
+c)
+
+2.
+
+a)
+
+b)
+
+c)
 
 ### § 4 — Inkrafttreten, Außerkrafttreten
 

@@ -24,11 +24,11 @@ Auf Grund des § 11 Abs. 2 des Gesetzes über die elektromagnetische Verträglic
 
 (1) Von der Zahlung der Beiträge sind befreit:
 
-1.
+1. die Bundesrepublik Deutschland und die bundesunmittelbaren juristischen Personen des öffentlichen Rechts, deren Ausgaben ganz oder teilweise auf Grund gesetzlicher Verpflichtungen aus dem Haushalt des Bundes getragen werden,
 
-2.
+2. die Länder und die juristischen Personen des öffentlichen Rechts, die nach den Haushaltsplänen eines Landes für Rechnung eines Landes verwaltet werden, und
 
-3.
+3. die Gemeinden und Gemeindeverbände, sofern die zugeteilten Frequenzen nicht von ihren wirtschaftlichen Unternehmen genutzt werden.
 
 (2) Für die Nutzung von Frequenzen, die Behörden und Organisationen mit Sicherheitsaufgaben vorbehalten ist, werden keine Beiträge erhoben.
 
@@ -68,5 +68,3 @@ Für Zeiten innerhalb eines Kalenderjahres, für die keine Beitragspflicht nach 
 (2)
 
 ### Anlage — EMV-Beiträge 1999 bis 2002
-
-Fundstelle des Originaltextes: BGBl. I 2002, 3361 - 3362

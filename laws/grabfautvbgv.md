@@ -17,4 +17,8 @@ An der deutsch-österreichischen Grenze kann an den Grenzübergängen Lindau-Zie
 
 ### § 2
 
-(1) Diese Verordnung tritt am 1. Februar 1994 in Kraft.(2) Diese Verordnung tritt an dem Tag außer Kraft, an dem die Vereinbarung vom 26. November 1993/10. Januar 1994 außer Kraft tritt.(3) Der Tag des Außerkrafttretens ist im Bundesgesetzblatt bekanntzugeben.
+(1) Diese Verordnung tritt am 1. Februar 1994 in Kraft.
+
+(2) Diese Verordnung tritt an dem Tag außer Kraft, an dem die Vereinbarung vom 26. November 1993/10. Januar 1994 außer Kraft tritt.
+
+(3) Der Tag des Außerkrafttretens ist im Bundesgesetzblatt bekanntzugeben.

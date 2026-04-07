@@ -17,9 +17,9 @@ Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artike
 
 Der Ausbildungsberuf des Edelsteinschleifers und der Edelsteinschleiferin wird staatlich anerkannt nach
 
-1.
+1. § 4 Absatz 1 des Berufsbildungsgesetzes und
 
-2.
+2. § 25 der Handwerksordnung zur Ausbildung für das Gewerbe „Edelsteinschleifer und -graveure“ nach Anlage B Abschnitt 1 Nummer 37 der Handwerksordnung.
 
 ### § 2 — Dauer der Berufsausbildung
 
@@ -33,75 +33,67 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 4 — Struktur der Berufsausbildung, Ausbildungsberufsbild
 
-(1) Die Berufsausbildung gliedert sich in: Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
+(1) Die Berufsausbildung gliedert sich in:
 
-1.
+1. fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten,
 
-2.
+2. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung a)Edelsteingravieren,b)Edelsteinschleifen,c)Industriediamantschleifen oderd)Schmuckdiamantschleifen sowie Edelsteingravieren, Edelsteinschleifen, Industriediamantschleifen oder Schmuckdiamantschleifen sowie
 
-a)
-
-b)
-
-c)
-
-d)
-
-3.
+3. fachrichtungsübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 (2) Die Berufsbildpositionen der fachrichtungsübergreifenden berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. Planen und Vorbereiten von Arbeitsabläufen,
 
-2.
+2. Erstellen und Anwenden von Unterlagen,
 
-3.
+3. Handhaben von Werkzeugen sowie Einrichten, Bedienen und Warten von Maschinen und Anlagen,
 
-4.
+4. Durchführen von betrieblicher und kundenorientierter Kommunikation,
 
-5.
+5. Prüfen und Beurteilen von Edelsteinen oder gleichartigen Werkstoffen,
 
-6.
+6. Auswählen, Vorbereiten, In-Form-Bringen und Vorschleifen von Edelsteinen oder gleichartigen Werkstoffen,
 
-7.
+7. Bearbeiten von Edelsteinen oder gleichartigen Werkstoffen und
 
-8.
+8. Durchführen von qualitätssichernden Maßnahmen.
 
 (3) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Edelsteingravieren sind:
 
-1.
+1. Anfertigen von Entwürfen und Modellen für Gravuren sowie
 
-2.
+2. Gravieren und Nachbereiten von Edelsteinen und gleichartigen Werkstoffen.
 
 (4) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Edelsteinschleifen sind:
 
-1.
+1. Schleifen und Polieren von Edelsteinen und gleichartigen Werkstoffen sowie
 
-2.
+2. Umarbeiten und Nachbehandeln von Edelsteinen und gleichartigen Werkstoffen.
 
 (5) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Industriediamantschleifen sind:
 
-1.
+1. Schleifen der Grundformen von Diamanten für technische Anwendungen,
 
-2.
+2. Schleifen und Polieren von Diamanten und
 
-3.
+3. Einbau von Diamanten in Werkzeuge.
 
 (6) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Schmuckdiamantschleifen sind:
 
-1.
+1. Schleifen und Polieren von Schmuckdiamanten sowie
 
-2.
+2. Um- und Nacharbeiten von Schmuckdiamanten.
 
 (7) Die Berufsbildpositionen der fachrichtungsübergreifenden, integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. Berufsbildung sowie Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Sicherheit und Gesundheitsschutz bei der Arbeit und
 
-4.
+4. Umweltschutz.
 
 ### § 5 — Ausbildungsplan
 
@@ -119,9 +111,9 @@ Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage de
 
 Die Zwischenprüfung erstreckt sich auf
 
-1.
+1. die im Ausbildungsrahmenplan für die ersten 18 Monate genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 ### § 8 — Prüfungsbereich
 
@@ -129,35 +121,35 @@ Die Zwischenprüfung erstreckt sich auf
 
 (2) Im Prüfungsbereich Edelsteinbearbeitung soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Arbeitsaufträge zu erfassen, Arbeitsschritte festzulegen und Arbeitsmittel auszuwählen,
 
-2.
+2. Edelsteine und gleichartige Werkstoffe nach Eigenschaften und Merkmalen zu unterscheiden,
 
-3.
+3. Zeichnungen zu lesen und nach Zeichnungen zu arbeiten,
 
-4.
+4. Schleiftechniken sowie Schleif- und Poliermittel festzulegen,
 
-5.
+5. Scheiben zum Schleifen und Polieren vorzubereiten,
 
-6.
+6. Werkzeuge, Geräte, Maschinen und Anlagen unter Berücksichtigung ihres Verwendungszweckes auszuwählen und vorzubereiten,
 
-7.
+7. Betriebsstoffe hinsichtlich ihrer Verwendung einzusetzen,
 
-8.
+8. Edelsteine oder gleichartige Werkstoffe zu befestigen,
 
-9.
+9. Edelsteine oder gleichartige Werkstoffe zu bearbeiten und dabei Maßnahmen zur Sicherheit und zum Gesundheitsschutz zu beachten und
 
-10.
+10. die Qualität von Oberflächen und Schliffformen zu prüfen.
 
-(3) Für den Nachweis nach Absatz 2 ist eines der folgenden Tätigkeitsfelder zugrunde zu legen: Der Prüfungsausschuss wählt das Tätigkeitsfeld auf der Grundlage des betrieblichen Tätigkeitsschwerpunktes aus.
+(3) Für den Nachweis nach Absatz 2 ist eines der folgenden Tätigkeitsfelder zugrunde zu legen:
 
-1.
+1. einen vertieften Steinschnitt nach Vorgaben zu gravieren und einen erhabenen oder einen vollplastischen Steinschnitt nach Vorgaben zu gravieren,
 
-2.
+2. einen Edelstein und einen gleichartigen Werkstoff nach Vorgaben zu trennen, in Form zu bringen, zu schleifen und zu polieren,
 
-3.
+3. einen Diamanten nach Zeichnung vorzuschleifen und einen Abrichtdiamanten mit Vierfachfacettenschliff anzufertigen oder
 
-4.
+4. einen getrennten Diamanten zu Grundformen zu schleifen und zu polieren und einen getrennten Diamanten auf Achtkant zu schleifen und zu polieren.
 
 (4) Der Prüfling soll zwei Prüfungsstücke anfertigen und die Arbeitsschritte mit praxisüblichen Unterlagen dokumentieren. Weiterhin soll der Prüfling Aufgaben schriftlich bearbeiten.
 
@@ -175,9 +167,9 @@ Die Zwischenprüfung erstreckt sich auf
 
 Die Abschluss- oder Gesellenprüfung erstreckt sich auf
 
-1.
+1. die in der Anlage genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 ## Unterabschnitt 1: Fachrichtung Edelsteingravieren
 
@@ -185,29 +177,29 @@ Die Abschluss- oder Gesellenprüfung erstreckt sich auf
 
 Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Edelsteingravieren in den folgenden Prüfungsbereichen statt:
 
-1.
+1. Edelsteine gravieren,
 
-2.
+2. Fertigungsplanung sowie
 
-3.
+3. Wirtschafts- und Sozialkunde.
 
 ### § 12 — Prüfungsbereich Edelsteine gravieren
 
 (1) Im Prüfungsbereich Edelsteine gravieren soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Arbeitsabläufe unter Berücksichtigung gestalterischer, wirtschaftlicher, ökologischer und zeitlicher Vorgaben zu planen und zu dokumentieren,
 
-2.
+2. Qualitätsvorgaben einzuhalten und Kundenanforderungen zu beachten,
 
-3.
+3. Vorschriften zur Arbeitssicherheit und zum Gesundheitsschutz einzuhalten und den Umweltschutz zu beachten,
 
-4.
+4. Steinschnitte unter Beachtung von Steineigenschaften und strukturellen Merkmalen anzufertigen und dabei eine der Techniken „vertieft“, „erhaben“ oder „vollplastisch“ anzuwenden,
 
-5.
+5. gravierte Edelsteine oder gleichartige Werkstoffe unter Beachtung der gestalterischen Absicht zu glätten und sie zu polieren oder zu mattieren,
 
-6.
+6. Arbeitsergebnisse zu prüfen und
 
-7.
+7. fachliche Zusammenhänge aufzuzeigen.
 
 (2) Der Prüfling soll zwei Prüfungsstücke anfertigen und die Arbeitsabläufe mit praxisüblichen Unterlagen dokumentieren. Nach der Anfertigung wird mit dem Prüfling zu jedem Prüfungsstück ein auftragsbezogenes Fachgespräch geführt.
 
@@ -219,19 +211,19 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Edelsteingravier
 
 (1) Im Prüfungsbereich Fertigungsplanung soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Schriften und Ornamente zu gestalten, Skizzen unter Beachtung anatomischer Gesetzmäßigkeiten anzufertigen und gravierfähige Entwurfszeichnungen anzufertigen,
 
-2.
+2. Vorlagen und Steinschnitte nach historischer und zeitgenössischer Formensprache einzuordnen,
 
-3.
+3. Eigenschaften und Merkmale von Edelsteinen und gleichartigen Werkstoffen hinsichtlich ihrer Verwendung zu unterscheiden,
 
-4.
+4. Schäden an Edelsteinen und gleichartigen Werkstoffen zu erkennen,
 
-5.
+5. Materialberechnungen durchzuführen,
 
-6.
+6. Wertunterschiede und Wertminderungsgründe festzustellen und
 
-7.
+7. Gestaltungsprinzipien für vertiefte, erhabene und vollplastische Steinschnitte darzustellen.
 
 (2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
 
@@ -249,25 +241,25 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Edelsteingravier
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
-1.
+1. Edelsteine gravieren mit60 Prozent,
 
-2.
+2. Fertigungsplanung mit30 Prozent sowie
 
-3.
+3. Wirtschafts- und Sozialkunde mit10 Prozent.
 
 (2) Die Abschluss- oder Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-1.
+1. im Gesamtergebnis mit mindestens „ausreichend“,
 
-2.
+2. in mindestens zwei Prüfungsbereichen mit mindestens „ausreichend“ und
 
-3.
+3. in keinem Prüfungsbereich mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Fertigungsplanung“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Fertigungsplanung“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.
+1. der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
-2.
+2. die mündliche Ergänzungsprüfung für das Bestehen der Abschluss- oder Gesellenprüfung den Ausschlag geben kann.
 
 ## Unterabschnitt 2: Fachrichtung Edelsteinschleifen
 
@@ -275,29 +267,29 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Edelsteingravier
 
 Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Edelsteinschleifen in den folgenden Prüfungsbereichen statt:
 
-1.
+1. Edelsteine schleifen,
 
-2.
+2. Fertigungsplanung sowie
 
-3.
+3. Wirtschafts- und Sozialkunde.
 
 ### § 17 — Prüfungsbereich Edelsteine schleifen
 
 (1) Im Prüfungsbereich Edelsteine schleifen soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Arbeitsabläufe unter Berücksichtigung gestalterischer, wirtschaftlicher, ökologischer und zeitlicher Vorgaben zu planen und zu dokumentieren,
 
-2.
+2. Qualitätsvorgaben einzuhalten und Kundenanforderungen zu beachten,
 
-3.
+3. Vorschriften zur Arbeitssicherheit und zum Gesundheitsschutz einzuhalten und den Umweltschutz zu beachten,
 
-4.
+4. Edelsteine oder gleichartige Werkstoffe unter Beachtung von Schliffformen, Steineigenschaften und Steinbesonderheiten zu trennen und zu ebauchieren,
 
-5.
+5. Edelsteine oder gleichartige Werkstoffe im Mugelschliff und Facettenschliff unter Einbeziehung optischer Steineigenschaften in das ästhetische Erscheinungsbild zu schleifen sowie zu polieren oder zu mattieren,
 
-6.
+6. Arbeitsergebnisse zu prüfen und
 
-7.
+7. fachliche Zusammenhänge aufzuzeigen.
 
 (2) Der Prüfling soll ein Prüfungsstück im Mugelschliff und ein Prüfungsstück im Facettenschliff anfertigen und die Arbeitsabläufe mit praxisüblichen Unterlagen dokumentieren. Nach der Anfertigung wird mit dem Prüfling zu jedem Prüfungsstück ein auftragsbezogenes Fachgespräch geführt.
 
@@ -309,17 +301,17 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Edelsteinschleif
 
 (1) Im Prüfungsbereich Fertigungsplanung soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Eigenschaften und Merkmale von Edelsteinen und gleichartigen Werkstoffen hinsichtlich ihrer Verwendung zu unterscheiden,
 
-2.
+2. Schäden an Edelsteinen und gleichartigen Werkstoffen zu erkennen,
 
-3.
+3. Materialberechnungen durchzuführen,
 
-4.
+4. Wertunterschiede und Wertminderungsgründe festzustellen,
 
-5.
+5. Edelsteine und gleichartige Werkstoffe auf ihre Eigenschaften zu prüfen und nach vorgegebenen Anforderungen auszuwählen und
 
-6.
+6. Verfahren zu strukturellen Behandlungen und Farbveränderungen auszuwählen sowie Nachbehandlungsverfahren festzulegen.
 
 (2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
 
@@ -337,25 +329,25 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Edelsteinschleif
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
-1.
+1. Edelsteine schleifen mit60 Prozent,
 
-2.
+2. Fertigungsplanung mit30 Prozent sowie
 
-3.
+3. Wirtschafts- und Sozialkunde mit10 Prozent.
 
 (2) Die Abschluss- oder Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-1.
+1. im Gesamtergebnis mit mindestens „ausreichend“,
 
-2.
+2. in mindestens zwei Prüfungsbereichen mit mindestens „ausreichend“ und
 
-3.
+3. in keinem Prüfungsbereich mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Fertigungsplanung“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Fertigungsplanung“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.
+1. der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
-2.
+2. die mündliche Ergänzungsprüfung für das Bestehen der Abschluss- oder Gesellenprüfung den Ausschlag geben kann.
 
 ## Unterabschnitt 3: Fachrichtung Industriediamantschleifen
 
@@ -363,31 +355,31 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Edelsteinschleif
 
 Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Industriediamantschleifen in den folgenden Prüfungsbereichen statt:
 
-1.
+1. Industriediamanten schleifen,
 
-2.
+2. Fertigungsplanung sowie
 
-3.
+3. Wirtschafts- und Sozialkunde.
 
 ### § 22 — Prüfungsbereich Industriediamanten schleifen
 
 (1) Im Prüfungsbereich Industriediamanten schleifen soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Arbeitsabläufe unter Berücksichtigung gestalterischer, wirtschaftlicher, ökologischer und zeitlicher Vorgaben zu planen und zu dokumentieren,
 
-2.
+2. Qualitätsvorgaben einzuhalten und Kundenanforderungen zu beachten,
 
-3.
+3. Vorschriften zur Arbeitssicherheit und zum Gesundheitsschutz einzuhalten und den Umweltschutz zu beachten,
 
-4.
+4. Diamanten unter Beachtung der Eigenschaften und Besonderheiten, insbesondere im Hinblick auf Größe und Schliffformen, in Vorrichtungen einzusetzen und in Grundformen zu schleifen,
 
-5.
+5. Diamanten für Werkzeuge nach Zeichnungen vorzuschleifen,
 
-6.
+6. vorgeschliffene, in Werkzeuge eingespannte Diamanten nach Zeichnungen fertig zu schleifen und zu polieren und eine Funktionsprüfung des Werkzeugs durchzuführen,
 
-7.
+7. Arbeitsergebnisse zu prüfen und
 
-8.
+8. fachliche Zusammenhänge aufzuzeigen.
 
 (2) Der Prüfling soll drei Prüfungsstücke anfertigen und die Arbeitsabläufe mit praxisüblichen Unterlagen dokumentieren. Nach der Anfertigung wird mit dem Prüfling zu jedem Prüfungsstück ein auftragsbezogenes Fachgespräch geführt.
 
@@ -397,15 +389,15 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Industriediamant
 
 (1) Im Prüfungsbereich Fertigungsplanung soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Eigenschaften und Merkmale von Diamanten und gleichartigen Werkstoffen hinsichtlich ihrer Verwendung zu unterscheiden,
 
-2.
+2. Schäden an Diamanten und gleichartigen Werkstoffen zu erkennen und Umschleifmöglichkeiten zu prüfen,
 
-3.
+3. Materialberechnungen durchzuführen,
 
-4.
+4. Wertunterschiede und Wertminderungsgründe festzustellen und
 
-5.
+5. Diamantprüfmethoden festzulegen und darzustellen.
 
 (2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
 
@@ -423,25 +415,25 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Industriediamant
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
-1.
+1. Industriediamanten schleifen mit60 Prozent,
 
-2.
+2. Fertigungsplanung mit30 Prozent sowie
 
-3.
+3. Wirtschafts- und Sozialkunde mit10 Prozent.
 
 (2) Die Abschluss- oder Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-1.
+1. im Gesamtergebnis mit mindestens „ausreichend“,
 
-2.
+2. in mindestens zwei Prüfungsbereichen mit mindestens „ausreichend“ und
 
-3.
+3. in keinem Prüfungsbereich mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Fertigungsplanung“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Fertigungsplanung“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.
+1. der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
-2.
+2. die mündliche Ergänzungsprüfung für das Bestehen der Abschluss- oder Gesellenprüfung den Ausschlag geben kann.
 
 ## Unterabschnitt 4: Fachrichtung Schmuckdiamantschleifen
 
@@ -449,43 +441,43 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Industriediamant
 
 Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Schmuckdiamantschleifen in den folgenden Prüfungsbereichen statt:
 
-1.
+1. Schmuckdiamanten schleifen,
 
-2.
+2. Fertigungsplanung sowie
 
-3.
+3. Wirtschafts- und Sozialkunde.
 
 ### § 27 — Prüfungsbereich Schmuckdiamanten schleifen
 
 (1) Im Prüfungsbereich Schmuckdiamanten schleifen soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Arbeitsabläufe unter Berücksichtigung gestalterischer, wirtschaftlicher, ökologischer und zeitlicher Vorgaben zu planen und zu dokumentieren,
 
-2.
+2. Qualitätsvorgaben einzuhalten und Kundenanforderungen zu beachten,
 
-3.
+3. Vorschriften zur Arbeitssicherheit und zum Gesundheitsschutz einzuhalten und den Umweltschutz zu beachten,
 
-4.
+4. einen getrennten Diamanten im Achtkantschliff zu schleifen und zu polieren,
 
-5.
+5. einen getrennten Diamanten im Brillantschliff zu schleifen und zu polieren,
 
-6.
+6. einen getrennten Diamanten im Baguetteschliff oder Caréeschliff zu schleifen und zu polieren,
 
-7.
+7. einen geschlossenen Diamanten im Brillantschliff zu schleifen und zu polieren,
 
-8.
+8. Arbeitsergebnisse zu prüfen und
 
-9.
+9. fachliche Zusammenhänge aufzuzeigen.
 
-(2) Der Prüfling soll vier Prüfungsstücke anfertigen und die Arbeitsabläufe mit praxisüblichen Unterlagen dokumentieren. Je ein Prüfungsstück ist, Nach der Anfertigung wird mit dem Prüfling ein auftragsbezogenes Fachgespräch über das in Satz 2 Nummer 4 genannte Prüfungsstück geführt.
+(2) Der Prüfling soll vier Prüfungsstücke anfertigen und die Arbeitsabläufe mit praxisüblichen Unterlagen dokumentieren. Je ein Prüfungsstück ist,
 
-1.
+1. einen getrennten Diamanten im Achtkantschliff zu schleifen und zu polieren,
 
-2.
+2. einen getrennten Diamanten im Brillantschliff zu schleifen und zu polieren,
 
-3.
+3. einen getrennten Diamanten im Baguetteschliff oder Caréeschliff zu schleifen und zu polieren und
 
-4.
+4. einen geschlossenen Diamanten im Brillantschliff zu schleifen und zu polieren.
 
 (3) Die Prüfungszeit beträgt insgesamt 16 Stunden. Das auftragsbezogene Fachgespräch dauert höchstens 10 Minuten.
 
@@ -493,15 +485,15 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Schmuckdiamantsc
 
 (1) Im Prüfungsbereich Fertigungsplanung soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Eigenschaften und Merkmale von Diamanten und gleichartigen Werkstoffen hinsichtlich ihrer Verwendung zu unterscheiden,
 
-2.
+2. Schäden an Diamanten und gleichartigen Werkstoffen zu erkennen und Umschleifmöglichkeiten zu prüfen,
 
-3.
+3. Materialberechnungen durchzuführen,
 
-4.
+4. Wertunterschiede und Wertminderungsgründe festzustellen und
 
-5.
+5. Diamantprüfmethoden festzulegen und darzustellen.
 
 (2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
 
@@ -519,25 +511,25 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Schmuckdiamantsc
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
-1.
+1. Schmuckdiamanten schleifen mit60 Prozent,
 
-2.
+2. Fertigungsplanung mit30 Prozent sowie
 
-3.
+3. Wirtschafts- und Sozialkunde mit10 Prozent.
 
 (2) Die Abschluss- oder Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-1.
+1. im Gesamtergebnis mit mindestens „ausreichend“,
 
-2.
+2. in mindestens zwei Prüfungsbereichen mit mindestens „ausreichend“ und
 
-3.
+3. in keinem Prüfungsbereich mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Fertigungsplanung“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Fertigungsplanung“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.
+1. der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
-2.
+2. die mündliche Ergänzungsprüfung für das Bestehen der Abschluss- oder Gesellenprüfung den Ausschlag geben kann.
 
 ## Abschnitt 4: Schlussvorschrift
 
@@ -545,230 +537,10 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Schmuckdiamantsc
 
 Diese Verordnung tritt am 1. August 2018 in Kraft. Gleichzeitig treten außer Kraft
 
-1.
+1. die Diamantschleifer-Ausbildungsverordnung vom 20. November 1989 (BGBl. I S. 2033),
 
-2.
+2. die Edelsteinschleifer-Ausbildungsverordnung vom 28. Januar 1992 (BGBl. I S. 183) und
 
-3.
+3. die Edelsteingraveur-Ausbildungsverordnung vom 28. Januar 1992 (BGBl. I S. 191).
 
 ### Anlage — (zu § 3 Absatz 1)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)

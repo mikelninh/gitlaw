@@ -22,8 +22,6 @@
 
 ### (XXXX) §§ 15 bis 18 — (weggefallen)
 
-> (+++ § 15 (F 25.5.2020): Zur Anwendung bis 27.5.2024 vgl. § 99 Abs. 2 Satz 2 u. § 100 Abs. 2 Satz 2 MPDG +++) (+++ § 18 (F 25.5.2020): Zur Anwendung vgl. § 96 MPDG +++)
-
 ## Vierter Abschnitt: (weggefallen)
 
 ### (XXXX) §§ 19 bis 24 — (weggefallen)
@@ -43,9 +41,21 @@ sonstige Bestimmungen
 
 ### § 33 — Datenbankgestütztes Informationssystem, Europäische Datenbank
 
-(1) Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt den für Medizinprodukte zuständigen Behörden des Bundes und der Länder die zum Vollzug dieses Gesetzes erforderlichen Informationen zur Verfügung. Es stellt die erforderlichen Daten für die Europäische Datenbank im Sinne von Artikel 10b der Richtlinie 90/385/EWG, Artikel 14a der Richtlinie 93/42/EWG und Artikel 12 der Richtlinie 98/79/EG zur Verfügung. Eine Bereitstellung dieser Informationen für nicht-öffentliche Stellen ist zulässig, soweit dies die Rechtsverordnung nach § 37 Abs. 8 vorsieht.(2) Im Sinne des Absatzes 1 hat das dort genannte Bundesinstitut insbesondere folgende Aufgaben: 1.zentrale Verarbeitung von Informationen nach § 25 Abs. 5, auch in Verbindung mit § 18 Abs. 3, §§ 22a bis 23a und 24,2.zentrale Verarbeitung von Basisinformationen der in Verkehr befindlichen Medizinprodukte,3.zentrale Verarbeitung von Daten nach § 29 Absatz 1 Satz 5 aus der Beobachtung, Sammlung, Auswertung und Bewertung von Risiken in Verbindung mit Medizinprodukten,4.Informationsbeschaffung und Übermittlung von Daten an Datenbanken anderer Mitgliedstaaten und Institutionen der Europäischen Union und anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum, insbesondere im Zusammenhang mit der Erkennung und Abwehr von Risiken in Verbindung mit Medizinprodukten,5.Aufbau und Unterhaltung von Zugängen zu Datenbanken, die einen Bezug zu Medizinprodukten haben.(3) Das in Absatz 1 genannte Bundesinstitut ergreift im Einvernehmen mit dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit die notwendigen Maßnahmen, damit Daten nur dazu befugten Personen übermittelt werden oder diese Zugang zu diesen Daten erhalten.
+(1) Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt den für Medizinprodukte zuständigen Behörden des Bundes und der Länder die zum Vollzug dieses Gesetzes erforderlichen Informationen zur Verfügung. Es stellt die erforderlichen Daten für die Europäische Datenbank im Sinne von Artikel 10b der Richtlinie 90/385/EWG, Artikel 14a der Richtlinie 93/42/EWG und Artikel 12 der Richtlinie 98/79/EG zur Verfügung. Eine Bereitstellung dieser Informationen für nicht-öffentliche Stellen ist zulässig, soweit dies die Rechtsverordnung nach § 37 Abs. 8 vorsieht.
 
-> (+++ § 33 in der bis 25.5.2021 geltenden Fassung: Zur Geltung vgl. § 96 Abs. 1 u. § 96a Abs. 1 MPDG +++) (+++ § 33 in der bis 25.5.2021 geltenden Fassung: Zur Anwendung vgl. § 96 Abs. 2 Satz 2 u. § 96a Abs. 2 Satz 2 MPDG +++)
+(2) Im Sinne des Absatzes 1 hat das dort genannte Bundesinstitut insbesondere folgende Aufgaben:
+
+1. zentrale Verarbeitung von Informationen nach § 25 Abs. 5, auch in Verbindung mit § 18 Abs. 3, §§ 22a bis 23a und 24,
+
+2. zentrale Verarbeitung von Basisinformationen der in Verkehr befindlichen Medizinprodukte,
+
+3. zentrale Verarbeitung von Daten nach § 29 Absatz 1 Satz 5 aus der Beobachtung, Sammlung, Auswertung und Bewertung von Risiken in Verbindung mit Medizinprodukten,
+
+4. Informationsbeschaffung und Übermittlung von Daten an Datenbanken anderer Mitgliedstaaten und Institutionen der Europäischen Union und anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum, insbesondere im Zusammenhang mit der Erkennung und Abwehr von Risiken in Verbindung mit Medizinprodukten,
+
+5. Aufbau und Unterhaltung von Zugängen zu Datenbanken, die einen Bezug zu Medizinprodukten haben.
+
+(3) Das in Absatz 1 genannte Bundesinstitut ergreift im Einvernehmen mit dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit die notwendigen Maßnahmen, damit Daten nur dazu befugten Personen übermittelt werden oder diese Zugang zu diesen Daten erhalten.
 
 ### (XXXX) §§ 34 bis 37a — (weggefallen)
 

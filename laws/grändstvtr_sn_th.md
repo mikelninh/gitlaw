@@ -14,11 +14,11 @@ Um den historischen und kulturellen Verflechtungen von Gemeinden zum Freistaat S
 
 (1) Die nachfolgend aufgeführten Gemeinden werden aus dem Land Thüringen ausgegliedert und in den Freistaat Sachsen eingegliedert:
 
-1.
+1. aus dem Landkreis Greiz die Gemeinden Stadt Elsterberg, Görschnitz,
 
-2.
+2. aus dem Landkreis Schleiz die Gemeinden Langenbach, Stadt Mühltroff, Thierbach,
 
-3.
+3. aus dem Landkreis Zeulenroda die Gemeinden Ebersgrün, Stadt Pausa, Ranspach, Unterreichenau.
 
 (2) Für den Gebietsstand der Gemeinden nach Absatz 1 sind die Grenzen nach dem Stand vom 3. Oktober 1990 maßgebend, soweit nicht nach diesem Zeitpunkt, aber vor Inkrafttreten dieses Vertrages Gebietsänderungen nach § 12 des Gesetzes über die Selbstverwaltung der Gemeinden und Landkreise in der DDR (Kommunalverfassung) vom 17. Mai 1990 (GBl. I Nr. 28 S. 255) erfolgt sind.
 
@@ -73,35 +73,27 @@ Die Anlagen sind Bestandteil des Vertrages. Ausfertigungen der Anlage 1 (Artikel
 ### Anlage 2 — Geschäftsbereich des Sächsischen Staatsministeriums für
 Kultus und des Thüringer Kultusministeriums
 
-1.
+1. Der Freistaat Sachsen verpflichtet sich, entsprechend den im Auftrag des Sächsischen Staatsministeriums für Kultus und des Thüringer Kultusministeriums zwischen den betroffenen Schulämtern Schleiz, Greiz und Zeulenroda für Thüringen sowie Plauen-Land für Sachsen am 8. August 1991 getroffenen Festlegungen, die in der Polytechnischen Oberschule Elsterberg, der Polytechnischen Oberschule Mühltroff und der Polytechnischen Oberschule Pausa beschäftigten Lehrer und Erzieher, die sich bis zum 31. August 1991 gegenüber den zuständigen Schulämtern schriftlich für einen Wechsel in den sächsischen Schuldienst entschieden haben, mit Inkrafttreten diese Vertrages zu übernehmen. Sachsen erhält von Thüringen eine Liste dieser Lehrer und Erzieher.
 
-2.
+2. Vom Inkrafttreten dieses Vertrages an werden die Aufwendungen bzw. Zuschüsse zu den Kosten des laufenden Schulaufwandes einschließlich technisches und Verwaltungspersonal sowie Lehr- und Lernmittel von sächsischer Seite getragen.
 
-3.
+3. Schülertransporte werden vom jeweiligen Schulträger bei Notwendigkeit eingerichtet. Anfallende Kosten für die Beförderung sowie die anteiligen Kosten für Schülerspeisung werden entsprechend der Landeszugehörigkeit der Schüler vom jeweiligen Sachträger entsprechend dem Landesrecht vom Inkrafttreten dieses Vertrages an übernommen.
 
-4.
+4. Gewachsene Schuleinzugsbezirke bleiben im Schuljahr 1991/92 erhalten. Veränderungen sind aufgrund von jährlichen Abstimmungen zwischen den betreffenden Schulämtern erstmals zum 1. Mai 1992 zu regeln. Das Recht, Schulen der bisherigen Schuleinzugsbezirke zu besuchen, bleibt im Rahmen der landesrechtlichen Bestimmungen unbenommen.
 
-5.
+5. Entsprechend bisheriger Praxis in der Bundesrepublik Deutschland werden keine Gastschulbeiträge für Schüler der vertragschließenden Länder erhoben.
 
 ### Anlage 3 — Geschäftsbereich des Sächsischen Staatsministeriums für
 Landwirtschaft, Ernährung und Forsten und des Thüringer
 Ministeriums für Landwirtschaft und Forsten
 
-Bereich Landwirtschaft Fördermaßnahmen, für die Haushaltsmittel bereits bewilligt wurden, sind vom Land Thüringen bis zur Verwendungsprüfung durchzuführen. Dies gilt auch für eine eventuelle Nachfinanzierung. Nach Abschluß der Verwendungsprüfung sind die abgeschlossenen Akten an den Freistaat Sachsen abzugeben. Das Land Thüringen verzichtet auf eine Rückforderung der Fördermittel. Bereich Forsten Der Freistaat Sachsen verpflichtet sich, die für die vom Land Thüringen an ihn abzugebenden Waldflächen anteilmäßig entfallenden forstlichen Fach- und Arbeitskräfte zu übernehmen. Grundlage für die Personalübernahme sind die Mittelwerte, die sich aus den Personalschlüsseln des Freistaates Sachsen und des Landes Thüringen für Forstpersonal ergeben. Die Festlegung der Liste des zu übernehmenden Personals bleibt einer späteren Verwaltungsvereinbarung gemäß Artikel 2 Abs. 8 des Staatsvertrages vorbehalten.
-
 ### Anlage 4 — Geschäftsbereich des Sächsischen Staatsministeriums für
 Umwelt und Landesentwicklung und des Thüringer
 Umweltministeriums
 
-1.
+1. Die Bereitstellung von Fördermitteln für wasserwirtschaftliche Maßnahmen erfolgt im Rahmen der durch Zuwendungsbescheide festgelegten Fördersummen für 1991 durch das Land Thüringen. Dies umfaßt die Bereitstellung von Mitteln aus dem Landeshaushalt sowie aus dem Gemeinschaftswerk "Aufschwung Ost". Der Freistaat Sachsen verpflichtet sich, die für 1992 zugesicherten Fördermittel im Umfang der festgelegten Verpflichtungsermächtigungen nach Maßgabe von Artikel 3 Abs. 3 des Vertrages zu übernehmen, ohne einen Haushaltsausgleich mit dem Land Thüringen durchzuführen. Die Bereitstellung und Abwicklung von Haushaltsmitteln für Vorhaben, die aus dem Gemeinschaftswerk "Aufschwung Ost" gefördert werden, übernimmt für die betreffenden Maßnahmen vom Jahr 1992 an der Freistaat Sachsen. Die vorhabenbezogene Finanzmittelbereitstellung ist durch Vereinbarung zwischen den Fachministerien beider Länder festzulegen. Der Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit ist über die Abgabe zu informieren.
 
-2.
-
--
-
--
-
--
+2. Die nachstehend aufgeführten Schutzgebiete werden vom Freistaat Sachsen übernommen, soweit umgegliederte Gebiete betroffen sind:-Landschaftsschutzgebiet "Kuhberg-Steinicht" -Naturschutzgebiet "Steinicht" - einstweilig unter Schutz gestellt Landschaftsschutzgebiet "Kuhberg-Steinicht" Naturschutzgebiet "Steinicht" - einstweilig unter Schutz gestellt Die inhaltlichen und verfahrenstechnischen Arbeiten zur endgültigen Unterschutzstellung sind von den zuständigen Fachbehörden beider Länder in eigener Zuständigkeit weiterzuführen.-Trinkwasserschutzzone III Trinkwassertalsperre Zeulenroda Trinkwasserschutzzone III Trinkwassertalsperre Zeulenroda Die sächsischen Behörden erklären die Bereitschaft zur Mitwirkung beim effektiven Trinkwasserschutz im Bereich der Talsperre Zeulenroda.
 
 ### Anlage 5 — Geschäftsbereich des Sächsischen Staatsministeriums für
 Soziales, Gesundheit und Familie und des Thüringer

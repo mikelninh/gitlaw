@@ -12,13 +12,8 @@ Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung der Bekannt
 
 ### I.
 
-Zur gerichtlichen Vertretung des Bundeseisenbahnvermögens sind je innerhalb ihres Geschäftsbereiches die nachstehenden Behörden berufen: 
-		 des Bundeseisenbahnvermögens. Dies gilt nicht für die Fälle, in denen dem Präsidenten oder der Hauptverwaltung des Bundeseisenbahnvermögens die erste Entscheidung zusteht. Ich behalte mir im Einzelfall die gerichtliche Vertretung des Bundeseisenbahnvermögens in den Fällen des Satzes 1 dieser Allgemeinen Anordnung vor.
-
 ### II.
 
 Diese Anordnung tritt mit Wirkung vom 1. April 1999 in Kraft.
 
 ### Schlußformel
-
-Bundeseisenbahnvermögen Der Präsident

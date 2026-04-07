@@ -20,7 +20,15 @@ Für die Vollstreckbarerklärung der in Artikel 1 des deutsch-italienischen Voll
 
 ### Art 2
 
-(1) Auf das Verfahren sind § 1063 Abs. 1, § 1064 Abs. 2 sowie § 794 Abs. 1 Nr. 4a der Zivilprozeßordnung entsprechend anzuwenden.(2) Dem Antrag soll die für die Zustellung erforderliche Zahl von Abschriften beigefügt werden.(3) Wird die mündliche Verhandlung angeordnet, so ist der Termin den Parteien von Amts wegen bekanntzumachen.(4) Der Beschluss unterliegt der Beschwerde. nach den §§ 567 bis 577 der Zivilprozessordnung. Die §§ 707, 717, 1065 der Zivilprozessordnung sind entsprechend anzuwenden.(5) (weggefallen)
+(1) Auf das Verfahren sind § 1063 Abs. 1, § 1064 Abs. 2 sowie § 794 Abs. 1 Nr. 4a der Zivilprozeßordnung entsprechend anzuwenden.
+
+(2) Dem Antrag soll die für die Zustellung erforderliche Zahl von Abschriften beigefügt werden.
+
+(3) Wird die mündliche Verhandlung angeordnet, so ist der Termin den Parteien von Amts wegen bekanntzumachen.
+
+(4) Der Beschluss unterliegt der Beschwerde. nach den §§ 567 bis 577 der Zivilprozessordnung. Die §§ 707, 717, 1065 der Zivilprozessordnung sind entsprechend anzuwenden.
+
+(5) (weggefallen)
 
 ### Art 3
 

@@ -49,9 +49,9 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3) Das Erklärungsrecht kann nur bis zum 31. Dezember 1979 ausgeübt werden. Der Erwerb der Staatsangehörigkeit wird wirksam, wenn die Erklärung
 
-1.
+1. vor dem 1. Januar 1978 abgegeben wird, am 1. Januar 1978;
 
-2.
+2. ab 1. Januar 1978 abgegeben wird, mit der Entgegennahme der Erklärung durch die Einbürgerungsbehörde.
 
 (4) Artikel 3 Abs. 3 Satz 2 und 3, Abs. 4, 5 Satz 1 und 4 und Abs. 7 bis 9 des Gesetzes zur Änderung des Reichs- und Staatsangehörigkeitsgesetzes vom 20. Dezember 1974 (Bundesgesetzbl. I S. 3714) gelten entsprechend.
 
@@ -75,12 +75,8 @@ Hat im Zeitpunkt des Inkrafttretens dieses Gesetzes der Annehmende oder das Kind
 
 ### § 8
 
-Wo auf Vorschriften verwiesen wird, die durch dieses Gesetz aufgehoben oder geändert werden, erhält die Verweisung ihren Inhalt aus den entsprechenden neuen Vorschriften. Einer Verweisung steht es gleich, wenn die Anwendbarkeit der in Satz 1 bezeichneten Vorschriften stillschweigend vorausgesetzt wird.
-
 ### § 9
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
 ### § 10
-
-Dieses Gesetz tritt am 1. Januar 1977 in Kraft. Folgende Vorschriften treten jedoch bereits einen Tag nach Verkündung des Gesetzes in Kraft: Artikel 1 Nr. 2 Buchstaben g bis k, Artikel 4 Nr. 4, Artikel 7 Nr. 2 Buchstaben c bis e.

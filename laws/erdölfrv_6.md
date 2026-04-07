@@ -12,7 +12,13 @@ Das Bundesministerium für Wirtschaft und Energie verordnet aufgrund des § 12 A
 
 ### § 1 — Freigabe von Vorräten
 
-Der Erdölbevorratungsverband kann vorübergehend folgende geringere Mengen an Erdöl oder an Erdölerzeugnissen, als nach dem Erdölbevorratungsgesetz vorgeschrieben ist, halten: 1.Rohöl im Umfang von 400 000 Tonnen,2.Dieselkraftstoff im Umfang von 150 000 Tonnen,3.Flugturbinenkraftstoff (Jet A1) im Umfang von 50 000 Tonnen.
+Der Erdölbevorratungsverband kann vorübergehend folgende geringere Mengen an Erdöl oder an Erdölerzeugnissen, als nach dem Erdölbevorratungsgesetz vorgeschrieben ist, halten:
+
+1. Rohöl im Umfang von 400 000 Tonnen,
+
+2. Dieselkraftstoff im Umfang von 150 000 Tonnen,
+
+3. Flugturbinenkraftstoff (Jet A1) im Umfang von 50 000 Tonnen.
 
 ### § 2 — Außerkrafttreten
 

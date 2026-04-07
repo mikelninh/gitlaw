@@ -12,7 +12,7 @@
 
 ### § 1 — Sachliche Zuständigkeit und Durchführung überörtlicher Aufgaben
 
-(1) Welche Behörde auf örtlicher Ebene in Betreuungsangelegenheiten sachlich zuständig ist, bestimmt sich nach Landesrecht. Diese Behörde ist auch in Unterbringungssachen nach § 312 Nummer 1 bis 3 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit zuständig.
+(1) Welche Behörde auf örtlicher Ebene in Betreuungsangelegenheiten sachlich zuständig ist, bestimmt sich nach Landesrecht. Diese Behörde ist auch in Unterbringungssachen nach § 312 Nummer 1 bis 3 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit zuständig.
 
 (2) Zur Durchführung überörtlicher Aufgaben oder zur Erfüllung einzelner Aufgaben der örtlichen Behörde nach Absatz 1 können nach Landesrecht weitere Behörden vorgesehen werden.
 
@@ -22,7 +22,7 @@
 
 (2) Ändern sich die für die örtliche Zuständigkeit nach Absatz 1 maßgebenden Umstände im Laufe eines gerichtlichen Betreuungs- oder Unterbringungsverfahrens, so bleibt für dieses Verfahren die zuletzt durch das Betreuungsgericht angehörte Behörde allein zuständig, bis die nunmehr nach Absatz 1 zuständige Behörde dem Betreuungsgericht den Wechsel der Zuständigkeit schriftlich anzeigt.
 
-(3) Beglaubigungen nach § 7 Absatz 1 Satz 1 kann abweichend von Absatz 1 jede nach Landesrecht in Betreuungsangelegenheiten zuständige Behörde vornehmen.
+(3) Beglaubigungen nach § 7 Absatz 1 Satz 1 kann abweichend von Absatz 1 jede nach Landesrecht in Betreuungsangelegenheiten zuständige Behörde vornehmen.
 
 (4) Für die Registrierung eines beruflichen Betreuers nach § 24 und die weiteren behördlichen Maßnahmen nach Abschnitt 3 Titel 3 ist diejenige nach Landesrecht in Betreuungsangelegenheiten zuständige Behörde örtlich zuständig, in deren Zuständigkeitsbereich sich der Sitz des beruflichen Betreuers befindet oder errichtet werden soll (Stammbehörde). Ist ein Sitz des beruflichen Betreuers nicht vorhanden und soll ein solcher auch nicht errichtet werden, so richtet sich die örtliche Zuständigkeit nach dem Wohnsitz des beruflichen Betreuers. Für einen beruflichen Betreuer, der weder seinen Sitz noch seinen Wohnsitz im Geltungsbereich dieses Gesetzes hat, ist Stammbehörde diejenige Behörde, in deren Zuständigkeitsbereich der Schwerpunkt der beruflichen Tätigkeit des Betreuers liegt. Verlegt der berufliche Betreuer seinen Sitz oder Wohnsitz in den Zuständigkeitsbereich einer anderen Behörde, so wird diese zur neuen Stammbehörde. Verlegt der berufliche Betreuer seinen Sitz oder Wohnsitz ins Ausland, bleibt die bisherige Stammbehörde örtlich zuständig.
 
@@ -32,17 +32,17 @@ Zur Durchführung der Aufgaben der Behörde werden Personen beschäftigt, die si
 
 ### § 4 — Verarbeitung personenbezogener Daten durch die Behörde
 
-(1) Die Verarbeitung personenbezogener Daten des Betroffenen und solcher Personen, auf die es bei der Aufgabenerfüllung ankommt, einschließlich besonderer Kategorien personenbezogener Daten nach Artikel 9 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) durch die Behörde ist zulässig, soweit sie zur Erfüllung der ihr nach Abschnitt 1 Titel 2 obliegenden Aufgaben erforderlich ist. Die für diesen Zweck erforderlichen Daten sind grundsätzlich bei der betroffenen Person zu erheben. Ohne ihre Mitwirkung dürfen sie nur erhoben werden, wenn keine Anhaltspunkte dafür bestehen, dass überwiegende schutzwürdige Interessen der betroffenen Person beeinträchtigt werden, und
+(1) Die Verarbeitung personenbezogener Daten des Betroffenen und solcher Personen, auf die es bei der Aufgabenerfüllung ankommt, einschließlich besonderer Kategorien personenbezogener Daten nach Artikel 9 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) durch die Behörde ist zulässig, soweit sie zur Erfüllung der ihr nach Abschnitt 1 Titel 2 obliegenden Aufgaben erforderlich ist. Die für diesen Zweck erforderlichen Daten sind grundsätzlich bei der betroffenen Person zu erheben. Ohne ihre Mitwirkung dürfen sie nur erhoben werden, wenn keine Anhaltspunkte dafür bestehen, dass überwiegende schutzwürdige Interessen der betroffenen Person beeinträchtigt werden, und
 
-1.
+1. die von der Behörde nach Abschnitt 1 Titel 2 zu erfüllenden Aufgaben ihrer Art nach eine Erhebung bei Dritten erforderlich machen oder
 
-2.
+2. die Erhebung bei der betroffenen Person einen unverhältnismäßigen Aufwand erfordern würde.
 
 (2) Die Pflicht zur Information der betroffenen Person gemäß Artikel 13 Absatz 1 bis 3 und Artikel 14 Absatz 1, 2 und 4 der Verordnung (EU) 2016/679 besteht ergänzend zu den in Artikel 13 Absatz 4 und Artikel 14 Absatz 5 der Verordnung (EU) 2016/679 genannten Ausnahmen nicht,
 
-1.
+1. soweit die Erteilung der Information die ordnungsgemäße Erfüllung der der Behörde nach Abschnitt 1 Titel 2 obliegenden Aufgaben gefährden würde oder
 
-2.
+2. soweit zum Schutz der betroffenen Person ein Absehen von der Informationserteilung erforderlich ist, was insbesondere dann der Fall ist, wenn hiervon erhebliche Nachteile für ihre Gesundheit zu besorgen sind oder die betroffene Person aufgrund einer Krankheit oder Behinderung offensichtlich nicht in der Lage ist, die Informationen zur Kenntnis zu nehmen.
 
 ## Titel 2: Aufgaben der örtlichen Behörde
 
@@ -50,7 +50,7 @@ Zur Durchführung der Aufgaben der Behörde werden Personen beschäftigt, die si
 
 (1) Die Behörde informiert und berät über allgemeine betreuungsrechtliche Fragen, über Vorsorgevollmachten und über andere Hilfen, bei denen kein gesetzlicher Vertreter bestellt wird.
 
-(2) Die Behörde berät und unterstützt Betreuer und Bevollmächtigte auf deren Wunsch bei der Wahrnehmung von deren Aufgaben. Sie unterstützt ehrenamtliche Betreuer beim Abschluss einer Vereinbarung über eine Begleitung und Unterstützung nach § 15 Absatz 1 Satz 1 Nummer 4 mit einem gemäß § 14 anerkannten Betreuungsverein. Die Behörde hat die Begleitung und Unterstützung des ehrenamtlichen Betreuers mittels einer Vereinbarung nach § 15 Absatz 1 Satz 1 Nummer 4 und Absatz 2 selbst zu gewährleisten, wenn in ihrem Zuständigkeitsbereich kein anerkannter Betreuungsverein zur Verfügung steht.
+(2) Die Behörde berät und unterstützt Betreuer und Bevollmächtigte auf deren Wunsch bei der Wahrnehmung von deren Aufgaben. Sie unterstützt ehrenamtliche Betreuer beim Abschluss einer Vereinbarung über eine Begleitung und Unterstützung nach § 15 Absatz 1 Satz 1 Nummer 4 mit einem gemäß § 14 anerkannten Betreuungsverein. Die Behörde hat die Begleitung und Unterstützung des ehrenamtlichen Betreuers mittels einer Vereinbarung nach § 15 Absatz 1 Satz 1 Nummer 4 und Absatz 2 selbst zu gewährleisten, wenn in ihrem Zuständigkeitsbereich kein anerkannter Betreuungsverein zur Verfügung steht.
 
 ### § 6 — Förderungsaufgaben
 
@@ -66,9 +66,9 @@ Zur Durchführung der Aufgaben der Behörde werden Personen beschäftigt, die si
 
 (2) Die Urkundsperson bei der Behörde darf die Beglaubigung einer Vollmacht nach Absatz 1 Satz 1 nur vornehmen, wenn diese zu dem Zweck erteilt wird, die Bestellung eines Betreuers zu vermeiden. Sie darf eine Beglaubigung nicht vornehmen:
 
-1.
+1. von Unterschriften oder Handzeichen ohne dazugehörigen Text oder
 
-2.
+2. wenn ihr in der betreffenden Angelegenheit die Vertretung eines Beteiligten obliegt.
 
 (3) Die Behörde hat geeignete Beamte und Angestellte zur Wahrnehmung der Aufgaben nach Absatz 1 Satz 1 zu ermächtigen. Die Länder können Näheres hinsichtlich der fachlichen Anforderungen an diese Personen regeln.
 
@@ -90,7 +90,7 @@ Zur Durchführung der Aufgaben der Behörde werden Personen beschäftigt, die si
 
 ### § 9 — Mitteilungen an das Betreuungsgericht und die Stammbehörde
 
-(1) Die Behörde kann dem zuständigen Betreuungsgericht Umstände mitteilen, die die Bestellung eines Betreuers oder eine andere Maßnahme in Betreuungssachen erforderlich machen, soweit dies unter Beachtung der berechtigten Interessen des Betroffenen nach den Erkenntnissen der Behörde erforderlich ist, um eine erhebliche Gefahr im Sinne des § 1821 Absatz 3 Nummer 1 des Bürgerlichen Gesetzbuchs von dem Betroffenen abzuwenden.
+(1) Die Behörde kann dem zuständigen Betreuungsgericht Umstände mitteilen, die die Bestellung eines Betreuers oder eine andere Maßnahme in Betreuungssachen erforderlich machen, soweit dies unter Beachtung der berechtigten Interessen des Betroffenen nach den Erkenntnissen der Behörde erforderlich ist, um eine erhebliche Gefahr im Sinne des § 1821 Absatz 3 Nummer 1 des Bürgerlichen Gesetzbuchs von dem Betroffenen abzuwenden.
 
 (2) Hat die Behörde Kenntnis von Umständen, die an der Eignung eines Betreuers nach § 1816 Absatz 1 des Bürgerlichen Gesetzbuchs im Rahmen einer von ihm geführten Betreuung Zweifel aufkommen lassen, hat sie das für das Betreuungsverfahren zuständige Betreuungsgericht und die zuständige Stammbehörde hierüber zu informieren. Die Behörde unterrichtet zugleich den Betreuer über die Mitteilung und deren Inhalt. Die Unterrichtung des Betreuers unterbleibt, solange der Zweck der Mitteilung hierdurch gefährdet würde. Sie ist nachzuholen, sobald die Gründe nach Satz 3 entfallen sind.
 
@@ -104,25 +104,25 @@ Die Behörde teilt Name und Anschrift der ehrenamtlichen Betreuer, von deren Bes
 
 (1) Die Behörde unterstützt das Betreuungsgericht. Dies umfasst insbesondere folgende Maßnahmen:
 
-1.
+1. die Erstellung eines Berichts im Rahmen der gerichtlichen Anhörung nach § 279 Absatz 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit (Sozialbericht),
 
-2.
+2. den Vorschlag eines geeigneten Betreuers,
 
-3.
+3. die Aufklärung, Mitteilung und gegebenenfalls fachliche Beurteilung des Sachverhalts im Rahmen sonstiger Anhörungen der Behörde durch das Betreuungsgericht oder im Rahmen eines gerichtlichen Ersuchens um eine über Nummer 1 hinausgehende Sachverhaltsklärung,
 
-4.
+4. die Prüfung der weiteren Erforderlichkeit der Betreuung in geeigneten Fällen, sobald die Behörde durch das Betreuungsgericht nach § 7 Absatz 4 Satz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit über das Verfahren zur Verlängerung einer Betreuung benachrichtigt worden ist, und
 
-5.
+5. auf Aufforderung des Betreuungsgerichts den Vorschlag eines geeigneten Verfahrenspflegers.
 
 (2) Der Sozialbericht soll sich insbesondere auf folgende Kriterien beziehen:
 
-1.
+1. die persönliche, gesundheitliche und soziale Situation des Betroffenen,
 
-2.
+2. die Erforderlichkeit der Betreuung einschließlich geeigneter anderer Hilfen (§ 1814 Absatz 3 Satz 2 Nummer 2 des Bürgerlichen Gesetzbuchs) und
 
-3.
+3. die diesbezügliche Sichtweise des Betroffenen.
 
-(3) Im Rahmen der Erstellung des Sozialberichts hat die Behörde zu prüfen, ob zur Vermeidung einer Betreuung eine erweiterte Unterstützung nach § 8 Absatz 2 in Betracht kommt. In geeigneten Fällen hat die Behörde mit Zustimmung des Betroffenen eine erweiterte Unterstützung durchzuführen; § 8 Absatz 4 gilt entsprechend. Die Behörde hat das Betreuungsgericht über die Durchführung und die voraussichtliche Dauer von Maßnahmen nach § 8 Absatz 2 zu informieren. Während der Durchführung der erweiterten Unterstützung ist die Pflicht der Behörde zur Erstellung eines Sozialberichts ausgesetzt. Das Ergebnis der Prüfung nach Satz 1 und bei Durchführung einer erweiterten Unterstützung deren Ergebnis sind im Sozialbericht darzulegen.
+(3) Im Rahmen der Erstellung des Sozialberichts hat die Behörde zu prüfen, ob zur Vermeidung einer Betreuung eine erweiterte Unterstützung nach § 8 Absatz 2 in Betracht kommt. In geeigneten Fällen hat die Behörde mit Zustimmung des Betroffenen eine erweiterte Unterstützung durchzuführen; § 8 Absatz 4 gilt entsprechend. Die Behörde hat das Betreuungsgericht über die Durchführung und die voraussichtliche Dauer von Maßnahmen nach § 8 Absatz 2 zu informieren. Während der Durchführung der erweiterten Unterstützung ist die Pflicht der Behörde zur Erstellung eines Sozialberichts ausgesetzt. Das Ergebnis der Prüfung nach Satz 1 und bei Durchführung einer erweiterten Unterstützung deren Ergebnis sind im Sozialbericht darzulegen.
 
 (4) Auf Aufforderung des Betreuungsgerichts hat die Behörde auch unabhängig von der Erstellung eines Sozialberichts zu prüfen, ob die Durchführung einer erweiterten Unterstützung zur Vermeidung einer Betreuung führen kann. Absatz 3 Satz 2, 3 und 5 gilt entsprechend.
 
@@ -130,7 +130,7 @@ Die Behörde teilt Name und Anschrift der ehrenamtlichen Betreuer, von deren Bes
 
 ### § 12 — Betreuervorschlag
 
-(1) Die Behörde schlägt mit dem Sozialbericht oder auf Anforderung des Betreuungsgerichts eine Person vor, die sich im konkreten Einzelfall zum Betreuer eignet. Die Behörde soll diesen Vorschlag begründen und die diesbezügliche Sichtweise des Betroffenen darlegen. Eine Person, die keine familiäre Beziehung oder persönliche Bindung zu dem Betroffenen hat, soll nur als ehrenamtlicher Betreuer vorgeschlagen werden, wenn sie sich zum Abschluss einer Vereinbarung über eine Begleitung und Unterstützung nach § 15 Absatz 1 Satz 1 Nummer 4 mit einem anerkannten Betreuungsverein oder einer Betreuungsbehörde nach § 5 Absatz 2 Satz 3 bereit erklärt. Steht keine geeignete Person für eine ehrenamtliche Betreuung zur Verfügung, schlägt die Behörde dem Betreuungsgericht einen beruflichen Betreuer vor. Unter den Voraussetzungen des § 1818 des Bürgerlichen Gesetzbuchs kann die Behörde auch einen anerkannten Betreuungsverein oder sich selbst als Betreuer vorschlagen. Die Behörde soll in geeigneten Fällen einen weiteren Betreuer vorschlagen, der nach § 1817 Absatz 4 des Bürgerlichen Gesetzbuchs bestellt werden kann.
+(1) Die Behörde schlägt mit dem Sozialbericht oder auf Anforderung des Betreuungsgerichts eine Person vor, die sich im konkreten Einzelfall zum Betreuer eignet. Die Behörde soll diesen Vorschlag begründen und die diesbezügliche Sichtweise des Betroffenen darlegen. Eine Person, die keine familiäre Beziehung oder persönliche Bindung zu dem Betroffenen hat, soll nur als ehrenamtlicher Betreuer vorgeschlagen werden, wenn sie sich zum Abschluss einer Vereinbarung über eine Begleitung und Unterstützung nach § 15 Absatz 1 Satz 1 Nummer 4 mit einem anerkannten Betreuungsverein oder einer Betreuungsbehörde nach § 5 Absatz 2 Satz 3 bereit erklärt. Steht keine geeignete Person für eine ehrenamtliche Betreuung zur Verfügung, schlägt die Behörde dem Betreuungsgericht einen beruflichen Betreuer vor. Unter den Voraussetzungen des § 1818 des Bürgerlichen Gesetzbuchs kann die Behörde auch einen anerkannten Betreuungsverein oder sich selbst als Betreuer vorschlagen. Die Behörde soll in geeigneten Fällen einen weiteren Betreuer vorschlagen, der nach § 1817 Absatz 4 des Bürgerlichen Gesetzbuchs bestellt werden kann.
 
 (2) Auf Wunsch des Betroffenen kann die Behörde ein persönliches Kennenlernen zwischen dem Betroffenen und dem vorgesehenen Betreuer vermitteln.
 
@@ -146,11 +146,11 @@ Die Aufgaben, die der Behörde nach anderen Vorschriften obliegen, bleiben unber
 
 (1) Ein rechtsfähiger Verein kann als Betreuungsverein anerkannt werden, wenn er gewährleistet, dass er
 
-1.
+1. die Aufgaben nach den §§ 15 und 16 wahrnehmen wird,
 
-2.
+2. eine ausreichende Zahl geeigneter Mitarbeiter hat und diese beaufsichtigen, weiterbilden und gegen Schäden, die diese anderen im Rahmen ihrer Tätigkeit zufügen können, angemessen versichern wird, und
 
-3.
+3. einen Erfahrungsaustausch zwischen den Mitarbeitern ermöglicht.
 
 (2) Die Anerkennung gilt für das jeweilige Land; sie kann auf einzelne Landesteile beschränkt werden. Sie kann unter Auflagen erteilt werden und ist widerruflich.
 
@@ -158,27 +158,27 @@ Die Aufgaben, die der Behörde nach anderen Vorschriften obliegen, bleiben unber
 
 ### § 15 — Aufgaben kraft Gesetzes
 
-(1) Ein anerkannter Betreuungsverein hat Der Betreuungsverein erteilt dem ehrenamtlichen Betreuer auf dessen Aufforderung Nachweise über die Teilnahme an Einführungs- und Fortbildungsveranstaltungen nach Satz 1 Nummer 3.
+(1) Ein anerkannter Betreuungsverein hat
 
-1.
+1. planmäßig über allgemeine betreuungsrechtliche Fragen, Vorsorgevollmachten, Betreuungsverfügungen und Patientenverfügungen zu informieren,
 
-2.
+2. sich planmäßig um die Gewinnung ehrenamtlicher Betreuer zu bemühen,
 
-3.
+3. vom Betreuungsgericht bestellte ehrenamtliche Betreuer in ihre Aufgaben einzuführen, sie fortzubilden und sie bei der Wahrnehmung ihrer Aufgaben zu beraten und zu unterstützen,
 
-4.
+4. mit ehrenamtlichen Betreuern eine Vereinbarung über eine Begleitung und Unterstützung im Sinne von Nummer 3 abzuschließen, sofern eine solche Vereinbarung nach § 22 Absatz 2 in Verbindung mit § 1816 Absatz 4 des Bürgerlichen Gesetzbuchs erforderlich ist oder von dem ehrenamtlichen Betreuer gewünscht wird, und
 
-5.
+5. Bevollmächtigte bei der Wahrnehmung ihrer Aufgaben zu beraten und zu unterstützen.
 
 (2) Eine Vereinbarung nach Absatz 1 Satz 1 Nummer 4 hat mindestens zu umfassen:
 
-1.
+1. die Verpflichtung des ehrenamtlichen Betreuers zur Teilnahme an einer Einführung über die Grundlagen der Betreuungsführung,
 
-2.
+2. die Verpflichtung des ehrenamtlichen Betreuers zur regelmäßigen Teilnahme an Fortbildungen,
 
-3.
+3. die Benennung eines Mitarbeiters des Betreuungsvereins als festen Ansprechpartner und
 
-4.
+4. die Erklärung der Bereitschaft des Betreuungsvereins zur Übernahme einer Verhinderungsbetreuung nach § 1817 Absatz 4 des Bürgerlichen Gesetzbuchs.
 
 (3) Anerkannte Betreuungsvereine können im Einzelfall Betroffene, Angehörige und sonstige Personen zu allgemeinen betreuungsrechtlichen Fragen, zu Vorsorgevollmachten und über andere Hilfen nach § 5 Absatz 1, bei denen kein Betreuer bestellt wird, beraten. Dies umfasst auch eine Beratung bei der Errichtung einer Vorsorgevollmacht oder Betreuungsverfügung.
 
@@ -188,13 +188,13 @@ Ein anerkannter Betreuungsverein ist verpflichtet, Mitarbeiter zu beschäftigen,
 
 ### § 17 — Finanzielle Ausstattung
 
-Anerkannte Betreuungsvereine haben Anspruch auf eine bedarfsgerechte finanzielle Ausstattung mit öffentlichen Mitteln zur Wahrnehmung der ihnen nach § 15 Absatz 1 obliegenden Aufgaben. Das Nähere regelt das Landesrecht.
+Anerkannte Betreuungsvereine haben Anspruch auf eine bedarfsgerechte finanzielle Ausstattung mit öffentlichen Mitteln zur Wahrnehmung der ihnen nach § 15 Absatz 1 obliegenden Aufgaben. Das Nähere regelt das Landesrecht.
 
 ### § 18 — Verarbeitung personenbezogener Daten durch den Verein
 
 (1) Die Verarbeitung personenbezogener Daten einschließlich besonderer Kategorien personenbezogener Daten nach Artikel 9 der Verordnung (EU) 2016/679 durch den anerkannten Betreuungsverein ist zulässig, soweit sie zur Erfüllung der ihm nach § 15 Absatz 1 und § 16 obliegenden Aufgaben erforderlich ist.
 
-(2) § 4 Absatz 1 Satz 2 und 3 sowie Absatz 2 gilt entsprechend.
+(2) § 4 Absatz 1 Satz 2 und 3 sowie Absatz 2 gilt entsprechend.
 
 ## Titel 1: Allgemeine Vorschriften
 
@@ -202,15 +202,15 @@ Anerkannte Betreuungsvereine haben Anspruch auf eine bedarfsgerechte finanzielle
 
 (1) Ehrenamtliche Betreuer sind natürliche Personen, die außerhalb einer beruflichen Tätigkeit rechtliche Betreuungen führen. Ehrenamtliche Betreuer können sowohl Personen, die familiäre Beziehungen oder persönliche Bindungen zum Betroffenen haben, als auch andere Personen sein.
 
-(2) Berufliche Betreuer sind natürliche Personen, die selbständig oder als Mitarbeiter eines anerkannten Betreuungsvereins rechtliche Betreuungen führen und nach § 24 registriert sind oder nach § 32 Absatz 1 Satz 6 als vorläufig registriert gelten.
+(2) Berufliche Betreuer sind natürliche Personen, die selbständig oder als Mitarbeiter eines anerkannten Betreuungsvereins rechtliche Betreuungen führen und nach § 24 registriert sind oder nach § 32 Absatz 1 Satz 6 als vorläufig registriert gelten.
 
 ### § 20 — Verarbeitung personenbezogener Daten durch den Betreuer
 
-(1) Die Verarbeitung personenbezogener Daten einschließlich besonderer Kategorien personenbezogener Daten nach Artikel 9 der Verordnung (EU) 2016/679 durch den Betreuer ist zulässig, soweit sie zur Erfüllung seiner Aufgaben nach den §§ 1814 bis 1881 des Bürgerlichen Gesetzbuchs erforderlich ist.
+(1) Die Verarbeitung personenbezogener Daten einschließlich besonderer Kategorien personenbezogener Daten nach Artikel 9 der Verordnung (EU) 2016/679 durch den Betreuer ist zulässig, soweit sie zur Erfüllung seiner Aufgaben nach den §§ 1814 bis 1881 des Bürgerlichen Gesetzbuchs erforderlich ist.
 
-(2) § 4 Absatz 1 Satz 2 und 3 sowie Absatz 2 gilt entsprechend.
+(2) § 4 Absatz 1 Satz 2 und 3 sowie Absatz 2 gilt entsprechend.
 
-(3) Die Absätze 1 und 2 gelten auch für Personen, denen der anerkannte Betreuungsverein oder die Behörde die Wahrnehmung der Betreuung nach § 1818 Absatz 2 und 4 Satz 2 des Bürgerlichen Gesetzbuchs übertragen hat.
+(3) Die Absätze 1 und 2 gelten auch für Personen, denen der anerkannte Betreuungsverein oder die Behörde die Wahrnehmung der Betreuung nach § 1818 Absatz 2 und 4 Satz 2 des Bürgerlichen Gesetzbuchs übertragen hat.
 
 ## Titel 2: Ehrenamtliche Betreuer
 
@@ -234,71 +234,71 @@ Anerkannte Betreuungsvereine haben Anspruch auf eine bedarfsgerechte finanzielle
 
 (1) Voraussetzungen für eine Registrierung als beruflicher Betreuer sind:
 
-1.
+1. die persönliche Eignung und Zuverlässigkeit,
 
-2.
+2. eine ausreichende Sachkunde für die Tätigkeit als beruflicher Betreuer und
 
-3.
+3. eine Berufshaftpflichtversicherung zur Deckung der sich aus der Berufstätigkeit ergebenden Haftpflichtgefahren für Vermögensschäden mit einer Mindestversicherungssumme von 250 000 Euro für jeden Versicherungsfall und von 1 Million Euro für alle Versicherungsfälle eines Versicherungsjahres.
 
 (2) Die nach Absatz 1 Nummer 1 erforderliche Zuverlässigkeit fehlt in der Regel, wenn
 
-1.
+1. die Person hinsichtlich der Tätigkeit als beruflicher Betreuer einem Berufsverbot nach § 70 des Strafgesetzbuchs oder einem vorläufigen Berufsverbot nach § 132a der Strafprozessordnung unterliegt,
 
-2.
+2. die Person in den letzten drei Jahren vor Stellung des Registrierungsantrags wegen eines Verbrechens oder eines vorsätzlich begangenen, für die Führung einer Betreuung relevanten Vergehens rechtskräftig verurteilt worden ist,
 
-3.
+3. in den letzten drei Jahren vor der Antragstellung eine Registrierung nach § 27 widerrufen worden ist oder
 
-4.
+4. die Vermögensverhältnisse der Person ungeordnet sind, was in der Regel der Fall ist, wenn über das Vermögen der Person das Insolvenzverfahren eröffnet worden oder sie in das vom zentralen Vollstreckungsgericht zu führende Schuldnerverzeichnis (§ 882b der Zivilprozessordnung) eingetragen ist.
 
 (3) Die nach Absatz 1 Nummer 2 erforderliche Sachkunde ist gegenüber der Stammbehörde durch Unterlagen nachzuweisen. Sie hat zu umfassen:
 
-1.
+1. Kenntnisse des Betreuungs- und Unterbringungsrechts, des dazugehörigen Verfahrensrechts sowie auf den Gebieten der Personen- und Vermögenssorge,
 
-2.
+2. Kenntnisse des sozialrechtlichen Unterstützungssystems und
 
-3.
+3. Kenntnisse der Kommunikation mit Personen mit Erkrankungen und Behinderungen und von Methoden zur Unterstützung bei der Entscheidungsfindung.
 
-(4) Ist die Person, die eine Registrierung als beruflicher Betreuer beantragt, Mitarbeiter eines nach § 14 anerkannten Betreuungsvereins oder legt sie eine Anstellungszusage eines anerkannten Betreuungsvereins vor und kann sie zum Zeitpunkt der Antragstellung das Vorliegen der Sachkunde nicht vollständig, aber in wesentlichen Teilen nachweisen, kann die Stammbehörde die Person als beruflicher Betreuer registrieren, wenn Die Sachkunde ist gegenüber der Stammbehörde bis zum Ablauf eines Jahres ab Registrierung vollständig nachzuweisen. Die Behörde kann die Frist für die Erbringung des Nachweises verlängern, wenn die registrierte Person nachweist, dass sie ohne ihr Verschulden verhindert ist, die Frist einzuhalten.
+(4) Ist die Person, die eine Registrierung als beruflicher Betreuer beantragt, Mitarbeiter eines nach § 14 anerkannten Betreuungsvereins oder legt sie eine Anstellungszusage eines anerkannten Betreuungsvereins vor und kann sie zum Zeitpunkt der Antragstellung das Vorliegen der Sachkunde nicht vollständig, aber in wesentlichen Teilen nachweisen, kann die Stammbehörde die Person als beruflicher Betreuer registrieren, wenn
 
-1.
+1. die Voraussetzungen für die Registrierung nach Absatz 1 Nummer 1 und 3 vorliegen und
 
-2.
+2. der Betreuungsverein sicherstellt, dass die Person bis zum vollständigen Nachweis ihrer Sachkunde durch einen Mitarbeiter, der als beruflicher Betreuer registriert ist, bei den von ihr geführten Betreuungen angeleitet und kontrolliert wird.
 
 (5) Das Bundesministerium der Justiz bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten zu den Voraussetzungen der Registrierung nach den Absätzen 1 bis 4, insbesondere die Anforderungen an die Sachkunde und ihren Nachweis einschließlich der Anerkennung und Zertifizierung von Anbietern von Sachkundelehrgängen und betreuungsspezifischen Studien-, Aus- oder Weiterbildungsgängen, an die Anerkennung ausländischer Berufsqualifikationen sowie, auch abweichend von den Vorschriften des Versicherungsvertragsgesetzes für die Pflichtversicherung, an Inhalt und Ausgestaltung der Berufshaftpflichtversicherung einschließlich möglicher Gründe für den Ausschluss der Haftung, die den Zweck der Haftpflichtversicherung nicht gefährden, und der Bestimmung der zuständigen Stelle im Sinne des § 117 Absatz 2 des Versicherungsvertragsgesetzes.
 
 ### § 24 — Registrierungsverfahren; Verordnungsermächtigung; Registrierungsgebühr
 
-(1) Die Registrierung erfolgt auf Antrag, der bei der Stammbehörde zu stellen ist. Mit dem Antrag sind beizubringen: Zudem hat der Antragsteller der Stammbehörde den beabsichtigten zeitlichen Gesamtumfang und die Organisationsstruktur seiner beruflichen Betreuertätigkeit mitzuteilen.
+(1) Die Registrierung erfolgt auf Antrag, der bei der Stammbehörde zu stellen ist. Mit dem Antrag sind beizubringen:
 
-1.
+1. ein Führungszeugnis nach § 30 Absatz 5 des Bundeszentralregistergesetzes, das nicht älter als drei Monate sein soll,
 
-2.
+2. eine Auskunft aus dem zentralen Schuldnerverzeichnis nach § 882b der Zivilprozessordnung, die nicht älter als drei Monate sein soll,
 
-3.
+3. eine Erklärung, ob ein Insolvenz-, Ermittlungs- oder Strafverfahren anhängig ist,
 
-4.
+4. eine Erklärung, ob in den letzten drei Jahren vor Antragstellung eine Registrierung als Berufsbetreuer versagt, zurückgenommen oder widerrufen wurde, und
 
-5.
+5. geeignete Nachweise über den Erwerb der nach § 23 Absatz 1 Nummer 2 und Absatz 3 erforderlichen Sachkunde.
 
 (2) Zur Feststellung der persönlichen Eignung nach § 23 Absatz 1 Nummer 1 hat die Stammbehörde mit dem Antragsteller ein persönliches Gespräch zu führen.
 
-(3) Über den Antrag ist innerhalb von drei Monaten durch Verwaltungsakt zu entscheiden. Die Frist beginnt mit Eingang der vollständigen Unterlagen. Sie kann einmal angemessen verlängert werden, wenn dies wegen der Schwierigkeit der Angelegenheit gerechtfertigt ist. Die Fristverlängerung ist zu begründen und dem Antragsteller rechtzeitig mitzuteilen. Wenn die Voraussetzungen des § 23 Absatz 1 Nummer 1 und 2 vorliegen, fordert die Stammbehörde den Antragsteller vor Ablauf der Frist nach Satz 1 auf, den Nachweis über die Berufshaftpflichtversicherung nach § 23 Absatz 1 Nummer 3 zu erbringen. Sobald sämtliche Voraussetzungen nach § 23 Absatz 1 nachgewiesen sind, nimmt die Stammbehörde die Registrierung vor. Die Registrierung gilt bundesweit.
+(3) Über den Antrag ist innerhalb von drei Monaten durch Verwaltungsakt zu entscheiden. Die Frist beginnt mit Eingang der vollständigen Unterlagen. Sie kann einmal angemessen verlängert werden, wenn dies wegen der Schwierigkeit der Angelegenheit gerechtfertigt ist. Die Fristverlängerung ist zu begründen und dem Antragsteller rechtzeitig mitzuteilen. Wenn die Voraussetzungen des § 23 Absatz 1 Nummer 1 und 2 vorliegen, fordert die Stammbehörde den Antragsteller vor Ablauf der Frist nach Satz 1 auf, den Nachweis über die Berufshaftpflichtversicherung nach § 23 Absatz 1 Nummer 3 zu erbringen. Sobald sämtliche Voraussetzungen nach § 23 Absatz 1 nachgewiesen sind, nimmt die Stammbehörde die Registrierung vor. Die Registrierung gilt bundesweit.
 
 (4) Das Bundesministerium der Justiz bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des Registrierungsverfahrens, darunter auch Aufbewahrungs- und Löschungsfristen.
 
 (5) Für jede Registrierung wird eine Gebühr von 200 Euro erhoben. Auslagen werden nicht gesondert erhoben. Im Einzelfall kann aus Gründen der Billigkeit von der Erhebung der Gebühr abgesehen werden. Folgende Registrierungen erfolgen immer gebührenfrei:
 
-1.
+1. Registrierungen nach § 28 Absatz 2,
 
-2.
+2. Registrierungen nach § 32 Absatz 1 Satz 1 sowie
 
-3.
+3. unbefristete Registrierungen für Antragsteller, die nach § 33 vorläufig registriert sind.
 
 ### § 25 — Mitteilungs- und Nachweispflichten beruflicher Betreuer
 
 (1) Der berufliche Betreuer teilt der Stammbehörde alle Änderungen im Bestand der von ihm geführten Betreuungen alle sechs Monate sowie alle Änderungen, die sich auf die Registrierung auswirken können, unverzüglich mit. Mitzuteilen sind auch Änderungen des zeitlichen Gesamtumfangs und der Organisationsstruktur seiner beruflichen Betreuertätigkeit sowie der Wechsel des Sitzes oder Wohnsitzes des beruflichen Betreuers.
 
-(2) Der berufliche Betreuer hat der Stammbehörde ab der Registrierung alle drei Jahre unaufgefordert ein aktuelles Führungszeugnis nach § 30 Absatz 5 des Bundeszentralregistergesetzes und eine aktuelle Auskunft aus dem zentralen Schuldnerverzeichnis nach § 882b der Zivilprozessordnung vorzulegen sowie die Erklärung nach § 24 Absatz 1 Satz 2 Nummer 3 abzugeben.
+(2) Der berufliche Betreuer hat der Stammbehörde ab der Registrierung alle drei Jahre unaufgefordert ein aktuelles Führungszeugnis nach § 30 Absatz 5 des Bundeszentralregistergesetzes und eine aktuelle Auskunft aus dem zentralen Schuldnerverzeichnis nach § 882b der Zivilprozessordnung vorzulegen sowie die Erklärung nach § 24 Absatz 1 Satz 2 Nummer 3 abzugeben.
 
 (3) Der berufliche Betreuer teilt der Stammbehörde unaufgefordert das Ergebnis des Feststellungsverfahrens nach § 8 Absatz 3 des Vormünder- und Betreuervergütungsgesetzes mit.
 
@@ -316,15 +316,15 @@ Anerkannte Betreuungsvereine haben Anspruch auf eine bedarfsgerechte finanzielle
 
 (1) Die Stammbehörde widerruft die Registrierung unbeschadet der landesrechtlichen Vorschriften, die § 49 des Verwaltungsverfahrensgesetzes entsprechen, wenn
 
-1.
+1. begründete Tatsachen die Annahme rechtfertigen, dass der berufliche Betreuer die persönliche Eignung oder Zuverlässigkeit nicht mehr besitzt; dies ist in der Regel der Fall, wenn einer der in § 23 Absatz 2 genannten Gründe nachträglich eintritt, der berufliche Betreuer gegen das Verbot nach § 30 oder beharrlich gegen die Pflichten nach § 25 verstößt,
 
-2.
+2. der berufliche Betreuer keine Berufshaftpflichtversicherung nach § 23 Absatz 1 Nummer 3 mehr unterhält,
 
-3.
+3. begründete Tatsachen die Annahme rechtfertigen, dass der berufliche Betreuer die Betreuungen dauerhaft unqualifiziert führt; dies ist in der Regel der Fall, wenn der berufliche Betreuer mehrfach wegen fehlender Eignung aus dem Betreuerverhältnis entlassen worden ist, oder
 
-4.
+4. der als Mitarbeiter eines nach § 14 anerkannten Betreuungsvereins registrierte berufliche Betreuer den vollständigen Nachweis seiner Sachkunde nicht bis zum Ablauf eines Jahres ab Registrierung oder bis zum Ablauf der verlängerten Frist erbringt (§ 23 Absatz 4 Satz 2 und 3).
 
-(2) Hat der berufliche Betreuer im Registrierungsantrag in wesentlichen Punkten vorsätzlich unrichtige Angaben gemacht oder für die Registrierung relevante Umstände pflichtwidrig verschwiegen und beruht die Registrierung auf diesen Angaben, hat die Stammbehörde die Registrierung unbeschadet der landesrechtlichen Vorschriften, die § 48 des Verwaltungsverfahrensgesetzes entsprechen, zurückzunehmen.
+(2) Hat der berufliche Betreuer im Registrierungsantrag in wesentlichen Punkten vorsätzlich unrichtige Angaben gemacht oder für die Registrierung relevante Umstände pflichtwidrig verschwiegen und beruht die Registrierung auf diesen Angaben, hat die Stammbehörde die Registrierung unbeschadet der landesrechtlichen Vorschriften, die § 48 des Verwaltungsverfahrensgesetzes entsprechen, zurückzunehmen.
 
 (3) Auf Antrag des beruflichen Betreuers oder nach seinem Tod hat die Stammbehörde seine Registrierung zu löschen.
 
@@ -346,9 +346,9 @@ Der berufliche Betreuer stellt in eigener Verantwortung seine regelmäßige beru
 
 (2) Absatz 1 Satz 1 und 2 gilt nicht, wenn
 
-1.
+1. andere als die mit der Betreuervergütung abgegoltenen Leistungen vergütet werden, insbesondere durch die Zahlung von Aufwendungsersatz nach § 1877 Absatz 3 des Bürgerlichen Gesetzbuchs, oder
 
-2.
+2. geringwertige Aufmerksamkeiten versprochen oder gewährt werden.
 
 (3) Das Betreuungsgericht kann auf Antrag des Betreuers im Einzelfall Ausnahmen von dem Verbot des Absatzes 1 Satz 1 und 2 zulassen, soweit der Schutz des Betreuten dem nicht entgegensteht. Entscheidungen nach Satz 1 sind der für den beruflichen Betreuer zuständigen Stammbehörde mitzuteilen.
 
@@ -356,15 +356,15 @@ Der berufliche Betreuer stellt in eigener Verantwortung seine regelmäßige beru
 
 ### § 31 — Beratung und Übermittlung von Informationen durch Geheimnisträger bei Gefährdung von Betreuten
 
-(1) Werden in Ausübung ihrer beruflichen Tätigkeit gewichtige Anhaltspunkte für eine Gefährdung der Person des Betreuten bekannt, so sollen sie dies mit diesem und dem Betreuer erörtern und, soweit erforderlich, auf die Inanspruchnahme von Hilfen hinwirken, soweit hierdurch der wirksame Schutz des Betreuten nicht in Frage gestellt wird.
+(1) Werden
 
-1.
+1. Ärzten oder Angehörigen eines anderen Heilberufes, der für die Berufsausübung oder die Führung der Berufsbezeichnung eine staatlich geregelte Ausbildung erfordert,
 
-2.
+2. Berufspsychologen mit staatlich anerkannter wissenschaftlicher Abschlussprüfung,
 
-3.
+3. Beratern für Suchtfragen in einer Beratungsstelle, die von einer Behörde oder Körperschaft, Anstalt oder Stiftung des öffentlichen Rechts anerkannt ist, oder
 
-4.
+4. staatlich anerkannten Sozialarbeitern oder staatlich anerkannten Sozialpädagogen
 
 (2) Die in Absatz 1 Nummer 1 bis 4 genannten Personen haben gegenüber der Betreuungsbehörde zur Einschätzung einer Gefährdung der Person des Betreuten Anspruch auf Beratung durch eine Fachkraft. Sie sind zu diesem Zweck befugt, dieser Fachkraft die zur Einschätzung einer Gefährdung erforderlichen Daten zu übermitteln; vor der Übermittlung sind diese Daten zu pseudonymisieren.
 
@@ -374,17 +374,17 @@ Der berufliche Betreuer stellt in eigener Verantwortung seine regelmäßige beru
 
 ### § 32 — Registrierung von bereits tätigen beruflichen Betreuern; vorläufige Registrierung
 
-(1) Betreuer, die bereits vor dem 1. Januar 2023 berufsmäßig Betreuungen geführt haben und weiterhin führen, werden auf ihren Antrag von der zuständigen Stammbehörde ohne Überprüfung der Voraussetzungen des § 23 Absatz 1 Nummer 1 und 2 registriert. Zum Nachweis der berufsmäßigen Führung von Betreuungen ist dem Antrag ein Beschluss nach § 286 Absatz 1 Nummer 2 oder 4 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit über eine vom Antragsteller aktuell geführte Betreuung beizufügen. Mit dem Antrag sind außerdem ein Nachweis über eine Berufshaftpflichtversicherung nach § 23 Absatz 1 Nummer 3 sowie die Unterlagen nach § 24 Absatz 1 Nummer 1 und 2 beizubringen. Zudem sind der zeitliche Gesamtumfang, die Organisationsstruktur der beruflichen Betreuertätigkeit und die Aktenzeichen der gerichtlichen Betreuungsverfahren zu den aktuell geführten Betreuungen mitzuteilen. Der Antrag ist innerhalb von sechs Monaten nach dem 1. Januar 2023 zu stellen. Ab dem 1. Januar 2023 bis zur Entscheidung über den Antrag nach Satz 5 gelten die in Satz 1 genannten Betreuer als vorläufig registriert. Wird kein Antrag nach Satz 5 gestellt, endet die vorläufige Registrierung mit Ablauf des 30. Juni 2023. § 27 Absatz 4 Satz 2 gilt entsprechend.
+(1) Betreuer, die bereits vor dem 1. Januar 2023 berufsmäßig Betreuungen geführt haben und weiterhin führen, werden auf ihren Antrag von der zuständigen Stammbehörde ohne Überprüfung der Voraussetzungen des § 23 Absatz 1 Nummer 1 und 2 registriert. Zum Nachweis der berufsmäßigen Führung von Betreuungen ist dem Antrag ein Beschluss nach § 286 Absatz 1 Nummer 2 oder 4 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit über eine vom Antragsteller aktuell geführte Betreuung beizufügen. Mit dem Antrag sind außerdem ein Nachweis über eine Berufshaftpflichtversicherung nach § 23 Absatz 1 Nummer 3 sowie die Unterlagen nach § 24 Absatz 1 Nummer 1 und 2 beizubringen. Zudem sind der zeitliche Gesamtumfang, die Organisationsstruktur der beruflichen Betreuertätigkeit und die Aktenzeichen der gerichtlichen Betreuungsverfahren zu den aktuell geführten Betreuungen mitzuteilen. Der Antrag ist innerhalb von sechs Monaten nach dem 1. Januar 2023 zu stellen. Ab dem 1. Januar 2023 bis zur Entscheidung über den Antrag nach Satz 5 gelten die in Satz 1 genannten Betreuer als vorläufig registriert. Wird kein Antrag nach Satz 5 gestellt, endet die vorläufige Registrierung mit Ablauf des 30. Juni 2023. § 27 Absatz 4 Satz 2 gilt entsprechend.
 
 (2) Bei Personen, die zum 1. Januar 2023 bereits seit mindestens drei Jahren berufsmäßig Betreuungen geführt haben, ist davon auszugehen, dass sie über die nach § 23 Absatz 1 Nummer 2 erforderliche Sachkunde verfügen. Alle übrigen bereits vor dem 1. Januar 2023 beruflich tätigen Betreuer haben bis zum 30. Juni 2025 ihre Sachkunde nach § 24 Absatz 1 Satz 2 Nummer 5 nachzuweisen. Erfolgt dieser Nachweis nicht, hat die Behörde die Registrierung entsprechend § 27 zu widerrufen.
 
 ### § 33 — Vorläufige Registrierung
 
-Antragsteller, die die Voraussetzungen für eine Registrierung nach § 23 Absatz 1 Nummer 1 und 3 erfüllen, kann die zuständige Stammbehörde vorläufig registrieren, wenn sie Mit der vorläufigen Registrierung werden die Antragsteller berufliche Betreuer. Die vorläufige Registrierung endet spätestens mit Ablauf des 30. Juni 2025. § 27 Absatz 4 Satz 2 gilt entsprechend.
+Antragsteller, die die Voraussetzungen für eine Registrierung nach § 23 Absatz 1 Nummer 1 und 3 erfüllen, kann die zuständige Stammbehörde vorläufig registrieren, wenn sie
 
-1.
+1. die nach § 23 Absatz 1 Nummer 2 erforderliche Sachkunde teilweise nachweisen können und
 
-2.
+2. den vollständigen Nachweis der Sachkunde nach § 24 Absatz 1 Satz 2 Nummer 5 nur noch nicht erbringen können, weil die hierfür notwendigen Studien-, Aus- oder Weiterbildungsangebote nicht verfügbar sind.
 
 ### § 34 — Anwendungsvorschrift zu § 7
 

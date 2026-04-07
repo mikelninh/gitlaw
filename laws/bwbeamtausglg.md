@@ -27,13 +27,13 @@ Bis zum 31. Dezember 2017 sollen Beamtinnen und Beamte für eine Weiterverwendun
 
 ### § 4 — Versetzung in den Ruhestand
 
-Bis zum 31. Dezember 2017 können bis zu 1 050 Beamtinnen und Beamte auf Antrag in den Ruhestand versetzt werden, wenn stellt das Bundesministerium der Verteidigung nach dem 30. September 2014 einen unabweisbaren Bedarf für weitere Zurruhesetzungen fest, kann es unbeschadet des § 8 zulassen, dass unter den Voraussetzungen der Nummern 1 bis 3 bis zum 31. Dezember 2017 insgesamt bis zu 1 500 Beamtinnen und Beamte auf Antrag in den Ruhestand versetzt werden.
+Bis zum 31. Dezember 2017 können bis zu 1 050 Beamtinnen und Beamte auf Antrag in den Ruhestand versetzt werden, wenn
 
-1.
+1. sie das 60. Lebensjahr vollendet haben,
 
-2.
+2. sie weder bei einer Bundesbehörde noch bei einem anderen öffentlich-rechtlichen Dienstherrn in zumutbarer Weise weiterverwendet werden können und
 
-3.
+3. sonstige dienstliche Gründe nicht entgegenstehen;
 
 ## Abschnitt 2: Finanzieller Ausgleich
 
@@ -43,11 +43,11 @@ Bis zum 31. Dezember 2017 können bis zu 1 050 Beamtinnen und Beamte auf Antrag
 
 (2) Die Einmalzahlung entspricht dem 18fachen Betrag der Verringerung nach Absatz 1. Sie erhöht sich für Beamtinnen und Beamte, die am Tag vor dem Wirksamwerden der Versetzung eine anrechnungsfähige Dienstzeit
 
-1.
+1. von 15 Jahren vollendet haben, auf das 21fache des Betrags der Verringerung,
 
-2.
+2. von 20 Jahren vollendet haben, auf das 24fache des Betrags der Verringerung,
 
-3.
+3. von 25 Jahren vollendet haben, auf das 27fache des Betrags der Verringerung.
 
 (3) Anrechnungsfähig sind die Dienstzeiten, die beim abgebenden Dienstherrn und bei früheren Dienstherren zurückgelegt worden sind, soweit sie ruhegehaltfähig sind. Anrechnungsfähig sind auch Wehrdienstzeiten und vergleichbare Zeiten nach den §§ 8 und 9 des Beamtenversorgungsgesetzes, die die Beamtin oder der Beamte vor dem 3. Oktober 1990 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet zurückgelegt hat. Die gesamte anrechnungsfähige Dienstzeit ist in Jahren und Tagen zu berechnen. Zu berücksichtigen sind nur volle Dienstjahre, wobei ein verbleibender Rest von mehr als 182 Tagen als volles Jahr gilt.
 
@@ -63,19 +63,15 @@ Im Fall des § 2 kann der Bund für die Dauer der Abordnung auf die Erstattung d
 
 Im Fall des § 4 ist das Beamtenversorgungsgesetz mit folgenden Maßgaben anzuwenden:
 
-1.
+1. Die ruhegehaltfähige Dienstzeit erhöht sich um die Zeit von der Versetzung in den Ruhestand bis zu dem Zeitpunkt, zu dem die Beamtin oder der Beamte ohne die Regelung des § 4 frühestens wegen Erreichens der für sie oder ihn jeweils geltenden Altersgrenze in den Ruhestand getreten wäre. Für jedes Jahr der Erhöhungszeit nach Satz 1 beträgt der Steigerungssatz abweichend von § 14 Absatz 1 Satz 1 des Beamtenversorgungsgesetzes 1,19583 Prozent. Satz 1 gilt nicht, soweit die Zeit bereits nach anderen Vorschriften als ruhegehaltfähig berücksichtigt wird oder bei Verbleiben im Dienst wegen Beurlaubung, des Ruhens der Rechte und Pflichten aus dem Beamtenverhältnis oder aus sonstigen Gründen nicht als ruhegehaltfähig berücksichtigt worden wäre.
 
-2.
+2. § 14 Absatz 3 des Beamtenversorgungsgesetzes ist nicht anzuwenden.
 
-3.
+3. § 14a des Beamtenversorgungsgesetzes ist mit folgenden Maßgaben entsprechend anzuwenden: a)Die Versetzung in den Ruhestand nach § 4 gilt als Eintritt in den Ruhestand wegen Erreichens einer besonderen Altersgrenze.b)Nur Erwerbseinkommen aus einer Verwendung im öffentlichen Dienst im Sinne des § 53 Absatz 8 des Beamtenversorgungsgesetzes wird berücksichtigt. Die Versetzung in den Ruhestand nach § 4 gilt als Eintritt in den Ruhestand wegen Erreichens einer besonderen Altersgrenze. Nur Erwerbseinkommen aus einer Verwendung im öffentlichen Dienst im Sinne des § 53 Absatz 8 des Beamtenversorgungsgesetzes wird berücksichtigt.
 
-a)
+4. § 48 des Beamtenversorgungsgesetzes ist auf Beamtinnen und Beamte des Einsatzdienstes der Feuerwehr, die nach § 4 in den Ruhestand versetzt worden sind, entsprechend anzuwenden.
 
-b)
-
-4.
-
-5.
+5. § 53 des Beamtenversorgungsgesetzes ist mit der Maßgabe anzuwenden, dass nur Erwerbseinkommen aus einer Verwendung im öffentlichen Dienst im Sinne des § 53 Absatz 8 des Beamtenversorgungsgesetzes berücksichtigt wird.
 
 ### § 8 — Evaluation
 

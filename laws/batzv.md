@@ -20,9 +20,9 @@ Restrukturierungs- und Stellenabbaubereiche nach § 93 Absatz 3 Satz 1 Nummer 4 
 
 (2) Die oberste Dienstbehörde kann die Quote ermitteln
 
-1.
+1. als Ressortquote für sich und ihren nachgeordneten Geschäftsbereich oder
 
-2.
+2. als Behördenquote für jede Behörde oder Dienststelle ihres Geschäftsbereichs oder für mehrere Behörden oder Dienststellen gemeinsam.
 
 (3) Ergeben sich bei der Berechnung der Zahl der Beamtinnen und Beamten, denen Altersteilzeit bewilligt werden kann, Bruchteile, so wird auf ganze Zahlen abgerundet.
 

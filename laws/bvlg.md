@@ -14,73 +14,67 @@ Im Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft (
 
 (1) Das Bundesamt wird, unbeschadet der Zuständigkeiten sonstiger Einrichtungen des Bundes für Fragen der Gesundheit des Menschen, insbesondere auf folgenden Gebieten tätig:
 
-1.
+1. Maßnahmen der Vorsorge und des Schutzes im Bereich der Lebensmittelsicherheit und des Verbraucherschutzes, vor allem im Hinblick auf Lebensmittel, Erzeugnisse im Sinne des § 2 Nummer 1 des Tabakerzeugnisgesetzes, kosmetische Mittel und sonstige Bedarfsgegenstände, Pflanzenschutzmittel und Biozidprodukte, Futtermittel und Futtermittelzusatzstoffe, tierische Nebenprodukte und Folgeprodukte, Chemikalien sowie Tierarzneimittel einschließlich deren Herstellung, Anwendung und Verkehr, und bei Tieren angewandte pharmakologisch wirksame Stoffe, ausgenommen Tierimpfstoffe, soweit dem Bund die Verwaltungszuständigkeit zusteht,
 
-2.
+2. Mitwirkung an der Vorbereitung und Begleitung von Überwachungsprogrammen und -plänen der Länder in den in Nummer 1 genannten Bereichen,
 
-3.
+3. Vorbereitung, Begleitung und Nachbereitung einschließlich Berichterstattung von Überprüfungen durch Einrichtungen der Europäischen Union oder durch Einrichtungen von Drittländern in den in Nummer 1 genannten Bereichen, sowie in den Bereichen Tierseuchen und Tierschutz,
 
-4.
+4. Aufbereitung, Zusammenfassung, Dokumentation und Berichterstattung im Hinblick auf die bei der Durchführung der Lebensmittel- und Futtermittelüberwachung und des Monitorings nach den §§ 50 bis 52 des Lebensmittel- und Futtermittelgesetzbuches sowie die im Rahmen der Mitteilungen über gesundheitlich nicht erwünschte Stoffe übermittelten oder erhaltenen Daten und Ergebnisse,
 
-5.
+5. Durchführung von Laborvergleichsuntersuchungen und Ringversuchen, soweit diese Aufgabe nicht von einer anderen Stelle wahrgenommen wird,
 
-6.
+6. Zulassung und Registrierung von Tierarzneimitteln, ausgenommen immunologische Tierarzneimittel und die weiteren in § 65 Absatz 1 Nummer 1 des Tierarzneimittelgesetzes genannten Tierarzneimittel, nach den tierarzneimittelrechtlichen Vorschriften,
 
-7.
+7. Wahrnehmung der Funktion eines gemeinschaftlichen und nationalen Referenzlabors für Rückstände nach der Richtlinie 96/23/EG des Rates vom 29. April 1996 über Kontrollmaßnahmen hinsichtlich bestimmter Stoffe und ihrer Rückstände in lebenden Tieren und tierischen Erzeugnissen und zur Aufhebung der Richtlinien 85/358/EWG und 86/469/EWG und der Entscheidungen 89/187/EWG und 91/664/EWG (ABl. EG Nr. L 125 S. 10) in ihrer jeweils geltenden Fassung, soweit für diese Tätigkeit durch Rechtsakte oder auf der Grundlage von Rechtsakten der Europäischen Gemeinschaft das Bundesgesundheitsamt oder das Bundesinstitut für gesundheitlichen Verbraucherschutz und Veterinärmedizin benannt ist, sowie Wahrnehmung der Funktion einer Zentralstelle nach Artikel 4 Abs. 1 der Richtlinie 96/23/EG,
 
-8.
+8. Wahrnehmung der Funktion eines gemeinschaftlichen oder nationalen Referenzlabors, soweit für diese Tätigkeit durch Rechtsakte oder auf der Grundlage von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union das Bundesamt benannt wird,
 
-9.
+9. Wahrnehmung der Funktion einer koordinierenden Stelle für die Datensammlung und die Berichterstattung und Mitwirkung daran, insbesondere in den Bereichen Lebensmittel, Ernährung, Produktsicherheit, Verzehrserhebungen sowie Durchführung von Datensammlungen und Berichterstattung im Bereich Antibiotikaresistenz,
 
-10.
+10. Erstellung eines Rückstandsüberwachungsplanes nach Maßgabe der Richtlinie 96/23/EG des Rates vom 29. April 1996 über Kontrollmaßnahmen hinsichtlich bestimmter Stoffe und ihrer Rückstände in lebenden Tieren und tierischen Erzeugnissen und zur Aufhebung der Richtlinien 85/358/EWG und 86/469/EWG und der Entscheidungen 89/187/EWG und 91/664/EWG (ABl. EG Nr. L 125 S. 10); die zuständigen Behörden der Länder sind zu beteiligen,
 
-11.
+11. Wahrnehmung der Funktion einer beratenden und koordinierenden Stelle bei Angelegenheiten der Ausfuhr von Tieren, tierischen Erzeugnissen und Futtermitteln in den Bereichen Lebensmittelsicherheit und Futtermittelsicherheit, Tierseuchen und Tierschutz, einschließlich der Listung von Betrieben und der Mitwirkung bei der Bearbeitung von Beanstandungen durch Drittländer,
 
-12.
+12. Unterrichtung der Öffentlichkeit über Erkenntnisse und Arbeitsergebnisse, die es im Rahmen seiner Tätigkeiten und Befugnisse gewonnen hat.
 
-(2) Zur Durchführung des sowie zur Durchführung von im Anwendungsbereich dieser Gesetze unmittelbar geltenden Rechtsakten der Europäischen Gemeinschaft, der Europäischen Union oder der Europäischen Atomgemeinschaft erforderliche allgemeine Verwaltungsvorschriften können vom Bundesamt im Rahmen seiner Aufgaben und Tätigkeiten im Benehmen mit dem nach Absatz 5 jeweils fachlich zuständigen Ausschuss vorbereitet werden.
+(2) Zur Durchführung des
 
-1.
+1. Lebensmittel- und Futtermittelgesetzbuch,
 
-2.
+2. Tierische Nebenprodukte-Beseitigungsgesetzes
 
-3.
+3. Düngemittelgesetzes,
 
-4.
+4. Tierschutzgesetzes,
 
-5.
+5. Pflanzenschutzgesetzes,
 
-6.
+6. (weggefallen)
 
-7.
+7. Weingesetzes,
 
-8.
+8. Tiergesundheitsgesetzes,
 
-9. bis 12.
+9. bis 12. (weggefallen),
 
-13.
+13. Tierarzneimittelgesetzes, soweit es den Verkehr und die Anwendung von Tierarzneimitteln betrifft und es sich dabei nicht um immunologische Tierarzneimittel oder die weiteren in § 65 Absatz 1 Nummer 1 des Tierarzneimittelgesetzes genannten Tierarzneimittel handelt,
 
-14.
+14. Produktsicherheitsgesetzes, soweit sein Anwendungsbereich sich auf Produkte erstreckt, die von den in den Nummern 1 bis 13 genannten Gesetzen erfasst werden,
 
-(3) Zur Vorbereitung allgemeiner Verwaltungsvorschriften nach Absatz 2 werden beim Bundesamt folgende Ausschüsse eingerichtet: Jedem der in Satz 1 genannten Ausschüsse gehören an:
+(3) Zur Vorbereitung allgemeiner Verwaltungsvorschriften nach Absatz 2 werden beim Bundesamt folgende Ausschüsse eingerichtet:
 
-1.
+1. Ausschuss Verbraucherschutz und Lebensmittelsicherheit; dieser Ausschuss hat die Aufgabe, gesetzesübergreifende, grundsätzliche und andere als die Überwachung betreffende Fragen im Bereich des Verbraucherschutzes und der Lebensmittelsicherheit zu behandeln,
 
-1a.
+1a. Ausschuss für tierische Nebenprodukte; dieser Ausschuss hat die Aufgabe, gesetzesübergreifende grundsätzliche und andere als die Überwachung betreffende Fragen im Bereich der tierischen Nebenprodukte und Folgeprodukte zu behandeln,
 
-2.
-
-1.
-
-2.
-
-3.
+2. Ausschuss Überwachung; dieser Ausschuss hat die Aufgabe, gesetzesübergreifende, grundsätzliche Überwachungsfragen im Bereich des gesundheitlichen Verbraucherschutzes und der Lebensmittelsicherheit sowie im Bereich der tierischen Nebenprodukte und Folgeprodukte zu behandeln.
 
 (4) Die Ausschüsse beraten unter dem Vorsitz einer Vertreterin oder eines Vertreters des Bundesamtes. Sie tagen nach Bedarf; auf Verlangen eines Landes ist
 
-1.
+1. eine Sitzung des Ausschusses einzuberufen,
 
-2.
+2. eine Angelegenheit auf die Tagesordnung einer Sitzung des Ausschusses zu nehmen.
 
 (5) Die in Absatz 3 Satz 1 genannten Ausschüsse können Unterausschüsse einsetzen. Für diese gelten die Bestimmungen des Absatzes 3 Satz 2 und des Absatzes 4 entsprechend.
 
@@ -98,11 +92,11 @@ Im Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft (
 
 ### § 4 — Bekanntmachungen im Bundesanzeiger
 
-In Rechtsverordnungen auf Grund des Lebensmittel- und Futtermittelgesetzbuches, des Milch- und Margarinegesetzes, des Tiergesundheitsgesetzes, des Tierschutzgesetzes, des Tierzuchtgesetzes oder des Pflanzenschutzgesetzes kann vorgesehen werden, dass das Bundesministerium zuständig ist, In den in Satz 1 bezeichneten Rechtsverordnungen kann die Zuständigkeit des Bundesministeriums ganz oder teilweise auf das Bundesamt übertragen werden.
+In Rechtsverordnungen auf Grund des Lebensmittel- und Futtermittelgesetzbuches, des Milch- und Margarinegesetzes, des Tiergesundheitsgesetzes, des Tierschutzgesetzes, des Tierzuchtgesetzes oder des Pflanzenschutzgesetzes kann vorgesehen werden, dass das Bundesministerium zuständig ist,
 
-1.
+1. Entscheidungen der Europäischen Gemeinschaft oder Entscheidungen oder Beschlüsse der Europäischen Union zur Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich der genannten Gesetze im Bundesanzeiger bekannt zu machen,
 
-2.
+2. sonstige Bekanntmachungen zur Durchführung der genannten Gesetze und der auf Grund dieser Gesetze erlassenen Rechtsverordnungen im Bundesanzeiger zu veröffentlichen.
 
 ### § 5 — Aufsicht im besonderen Fall
 

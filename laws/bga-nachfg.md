@@ -18,19 +18,19 @@ Arbeitnehmern
 
 (3) Dieses Bundesinstitut wird insbesondere tätig auf folgenden Gebieten:
 
-1.
+1. Zulassung von Fertigarzneimitteln im Sinne des § 4 Absatz 1 des Arzneimittelgesetzes auf der Grundlage der analytischen, pharmakologisch-toxikologischen und klinischen Prüfungen, soweit nicht das Paul-Ehrlich-Institut nach § 77 des Arzneimittelgesetzes zuständig ist,
 
-2.
+2. Registrierung homöopathischer Arzneimittel im Sinne des § 4 Absatz 26 des Arzneimittelgesetzes,
 
-3.
+3. Risikoerfassung und -bewertung sowie Durchführung von Maßnahmen nach dem Stufenplan,
 
-4.
+4. Überwachung des Verkehrs mit Betäubungsmitteln,
 
-5.
+5. Arbeiten zur medizinischen und technischen Sicherheit, Eignung und Leistung von Medizinprodukten,
 
-6.
+6. zentrale Risikoerfassung sowie Durchführung von Maßnahmen zur Risikoabwehr bei Medizinprodukten,
 
-7.
+7. Koordinierung des Datenzugangs im Gesundheitswesen für die forschungsbezogene Zusammenführung und Verknüpfung von Gesundheitsdaten.
 
 ### § 2 — Robert Koch-Institut - Bundesinstitut für
 Infektionskrankheiten und nicht übertragbare Krankheiten -
@@ -41,19 +41,19 @@ Infektionskrankheiten und nicht übertragbare Krankheiten -
 
 (3) Dieses Bundesinstitut wird insbesondere tätig auf folgenden Gebieten:
 
-1.
+1. Erkennung, Verhütung und Bekämpfung von Übertragbaren und nicht übertragbaren Krankheiten,
 
-2.
+2. epidemiologische Untersuchungen auf dem Gebiet der übertragbaren und nicht übertragbaren Krankheiten einschließlich der Erkennung und Bewertung von Risiken sowie der Dokumentation und Information,
 
-3.
+3. Sammlung und Bewertung von Erkenntnissen und Erfahrungen zu HIV-Infektionen und AIDS-Erkrankungen einschließlich der gesellschaftlichen und sozialen Folgen,
 
-4.
+4. Gesundheitsberichterstattung,
 
-5.
+5. Risikoerfassung und -bewertung bei gentechnisch veränderten Organismen und Produkten, Humangenetik,
 
-6.
+6. gesundheitliche Fragen des Transports ansteckungsgefährlicher Stoffe,
 
-7.
+7. gesundheitliche Fragen des Transports gentechnisch veränderter Organismen und Produkte.
 
 ### § 3
 

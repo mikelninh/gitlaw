@@ -13,7 +13,15 @@ Auf Grund des § 30 Abs. 4 Nr. 3 des Berufsbildungsgesetzes vom 23. März 2005 (
 
 ### § 1
 
-Die für die fachliche Eignung erforderlichen beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten besitzt für den Ausbildungsberuf 1.Rechtsanwaltsfachangestellter/Rechtsanwaltsfachangestellte, wer zur Rechtsanwaltschaft zugelassen ist oder als Rechtsbeistand Mitglied einer Rechtsanwaltskammer ist, 2.Notarfachangestellter/Notarfachangestellte, wer als Notarin oder als Notar bestellt ist, 3.Rechtsanwalts- und Notarfachangestellter/Rechtsanwalts- und Notarfachangestellte, wer zur Rechtsanwaltschaft zugelassen und als Notarin oder als Notar bestellt ist, 4.Patentanwaltsfachangestellter/Patentanwaltsfachangestellte, wer zur Patentanwaltschaft zugelassen ist.
+Die für die fachliche Eignung erforderlichen beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten besitzt für den Ausbildungsberuf
+
+1. Rechtsanwaltsfachangestellter/Rechtsanwaltsfachangestellte, wer zur Rechtsanwaltschaft zugelassen ist oder als Rechtsbeistand Mitglied einer Rechtsanwaltskammer ist,
+
+2. Notarfachangestellter/Notarfachangestellte, wer als Notarin oder als Notar bestellt ist,
+
+3. Rechtsanwalts- und Notarfachangestellter/Rechtsanwalts- und Notarfachangestellte, wer zur Rechtsanwaltschaft zugelassen und als Notarin oder als Notar bestellt ist,
+
+4. Patentanwaltsfachangestellter/Patentanwaltsfachangestellte, wer zur Patentanwaltschaft zugelassen ist.
 
 ### § 2
 

@@ -12,7 +12,11 @@ Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe a in Verbindung mit Abs. 3 des Straße
 
 ### § 1
 
-Abweichend von § 53 Abs. 2 Satz 1 der Straßenverkehrs-Zulassungs-Ordnung sind Einrichtungen und Schaltungen zulässig, die das Aufleuchten der Bremsleuchten bewirken, wenn eine Betriebsbremsung zu erwarten ist. Dies gilt nur, wenn 1.diese Einrichtungen und Schaltungen die in der Anlage aufgeführten Anforderungen erfüllen und2.für diese Einrichtungen und Schaltungen eine Betriebserlaubnis für Fahrzeugteile nach § 22 der Straßenverkehrs-Zulassungs-Ordnung erteilt worden ist.
+Abweichend von § 53 Abs. 2 Satz 1 der Straßenverkehrs-Zulassungs-Ordnung sind Einrichtungen und Schaltungen zulässig, die das Aufleuchten der Bremsleuchten bewirken, wenn eine Betriebsbremsung zu erwarten ist. Dies gilt nur, wenn
+
+1.
+
+2.
 
 ### § 2
 
@@ -24,4 +28,52 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft. § 1 tritt am 1. J
 
 ### Anlage — (zu § 1 Satz 2)
 
-1.DefinitionBremsvorwarnsysteme sind Einrichtungen und Schaltungen, die das Aufleuchten der Bremsleuchten auch bewirken, wenn eine Betriebsbremsung zu erwarten ist.2.Anforderungen an die Funktion2.1Das Bremsvorwarnsystem aktiviert die Bremsleuchten nur dann, wenn die Rückstellgeschwindigkeit der Fahrzeugbeschleunigungseinrichtung, oder die Geschwindigkeit mit der der Fahrer seinen Fuß in Richtung "lösen" (Leerlaufstellung) bewegt, 0,3 m/s oder mehr beträgt. Erfolgt die Aktivierung der Bremsleuchten über die Kraftstoffzumeßeinrichtung, so darf deren Schließzeit - Vollgas 100% bis Leerlauf - nicht mehr als 200 ms dauern.2.2Die Rückstellgeschwindigkeit wird für folgende Stellungen "A" der Fahrzeugbeschleunigungseinrichtung ermittelt:2.2.1Voller Betätigungsweg,2.2.2halber Betätigungsweg,2.2.3Betätigungsweg, der einer Fahrgeschwindigkeit von 50 km/h im mittleren Drehzahlbereich entspricht.2.3Zur Bestimmung der Rückstellgeschwindigkeit sind Geräte zu verwenden, die2.3.1eine definierte Entlastung der in Stellung "A" festgehaltenen Fahrzeugbeschleunigungseinrichtung ermöglichen,2.3.2es erlauben, die Rückstellgeschwindigkeit mit einer Genauigkeit von +- 10% zu bestimmen.2.4Das Bremsvorwarnsystem darf die normale Funktion der Fahrzeugbeschleunigungseinrichtung oder der Kraftstoffzumeßeinrichtung nicht beeinträchtigen.2.5Das Bremsvorwarnsystem darf abschaltbar sein.2.6Die vorgeschriebene Aktivierung der Bremsleuchten durch die Betätigungseinrichtung der Betriebsbremsanlage muß sichergestellt bleiben.2.7Das Bremsvorwarnsystem muß so beschaffen sein, daß bei bestimmungsgemäßer Betätigung eines handgeschalteten Getriebes oder beim Zurücknehmen bzw. Abschalten einer Geschwindigkeitsregelanlage die Bremsleuchten nicht aktiviert werden. Erfolgt die Aktivierung der Bremsleuchten über die Kraftstoffzumeßeinrichtung, so ist sicherzustellen, daß die Bremsleuchten nicht aufleuchten durch:-Schubabschaltung,-Einsetzen von Drehzahlbegrenzern,-Betrieb/Abschalten von Kaltstarteinrichtungen,-andere auf die Motorsteuerung wirkende Einrichtungen (z.B. Automatikgetriebesteuerungen).2.8Das Ausgangssignal (z.B. Spannung) des Bremsvorwarnsystems muß 1 s +- 0,25 s nach Aktivierung selbsttätig aufgehoben werden.3.Anforderungen an die Betriebssicherheit3.1Das Bremsvorwarnsystem muß ausreichend gegen Korrosion und Verschmutzung geschützt sein (insbesondere die Fahrpedalsysteme).3.2Elektromagnetische Felder dürfen das Bremsvorwarnsystem nicht beeinflussen.3.3Das Bremsvorwarnsystem darf andere elektrische, elektronische oder mechanische Systeme im Fahrzeug nicht stören.3.4Das Bremsvorwarnsystem muß gegen leichtes und nicht kontrollierbares Verändern gesichert sein.3.5Das Bremsvorwarnsystem muß von - 20 Grad C bis + 85 Grad C betriebsfähig sein.
+1.
+
+2.
+
+2.1
+
+2.2
+
+2.2.1
+
+2.2.2
+
+2.2.3
+
+2.3
+
+2.3.1
+
+2.3.2
+
+2.4
+
+2.5
+
+2.6
+
+2.7
+
+-
+
+-
+
+-
+
+-
+
+2.8
+
+3.
+
+3.1
+
+3.2
+
+3.3
+
+3.4
+
+3.5

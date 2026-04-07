@@ -12,11 +12,21 @@ Auf Grund des § 13e Absatz 5 des Urheberrechtswahrnehmungsgesetzes, der durch A
 
 ### § 1 — Antragstellung
 
-(1) Der Antrag auf Eintragung von Werken in das Register vergriffener Werke nach § 51 Absatz 1 Nummer 4 des Verwertungsgesellschaftengesetzes muss die Angaben nach § 52 Absatz 1 Satz 2 Nummer 1 bis 5 des Verwertungsgesellschaftengesetzes enthalten.(2) Die Verwertungsgesellschaft reicht den Antrag elektronisch über die vom Deutschen Patent- und Markenamt zur Verfügung gestellte Schnittstelle ein.
+(1) Der Antrag auf Eintragung von Werken in das Register vergriffener Werke nach § 51 Absatz 1 Nummer 4 des Verwertungsgesellschaftengesetzes muss die Angaben nach § 52 Absatz 1 Satz 2 Nummer 1 bis 5 des Verwertungsgesellschaftengesetzes enthalten.
+
+(2) Die Verwertungsgesellschaft reicht den Antrag elektronisch über die vom Deutschen Patent- und Markenamt zur Verfügung gestellte Schnittstelle ein.
 
 ### § 2 — Kosten
 
-(1) Für jede Eintragung in das Register wird eine Gebühr in Höhe von 1 Euro erhoben.(2) Zur Zahlung der Eintragungsgebühren ist ein gültiges SEPA-Basislastschriftmandat zu Gunsten der zuständigen Bundeskasse für das Deutsche Patent- und Markenamt zu erteilen. Mit dem SEPA-Basislastschriftmandat sind Angaben zum Verwendungszweck einzureichen. Das SEPA-Basislastschriftmandat soll für eine Vielzahl von Einzügen verwendet werden.(3) Als Zahlungstag gilt der Tag des Eingangs des SEPA-Basislastschriftmandats samt Angaben zum Verwendungszweck beim Deutschen Patent- und Markenamt. Wird das SEPA-Basislastschriftmandat durch Telefax übermittelt, ist das Original innerhalb einer Frist von einem Monat nach Eingang des Telefax nachzureichen. Andernfalls gilt als Zahlungstag der Tag des Eingangs des Originals.(4) Das Deutsche Patent- und Markenamt teilt den Verwertungsgesellschaften den Gesamtbetrag der auf sie entfallenden Eintragungsgebühren für jeden Kalendermonat mit und zieht diesen Betrag aufgrund des SEPA-Basislastschriftmandats ein.(5) Die §§ 5, 6 Absatz 1, § 8 Absatz 2, § 10 Absatz 1, § 12 Absatz 1 und 4 sowie § 13 der DPMA-Verwaltungskostenverordnung sind entsprechend anzuwenden.
+(1) Für jede Eintragung in das Register wird eine Gebühr in Höhe von 1 Euro erhoben.
+
+(2) Zur Zahlung der Eintragungsgebühren ist ein gültiges SEPA-Basislastschriftmandat zu Gunsten der zuständigen Bundeskasse für das Deutsche Patent- und Markenamt zu erteilen. Mit dem SEPA-Basislastschriftmandat sind Angaben zum Verwendungszweck einzureichen. Das SEPA-Basislastschriftmandat soll für eine Vielzahl von Einzügen verwendet werden.
+
+(3) Als Zahlungstag gilt der Tag des Eingangs des SEPA-Basislastschriftmandats samt Angaben zum Verwendungszweck beim Deutschen Patent- und Markenamt. Wird das SEPA-Basislastschriftmandat durch Telefax übermittelt, ist das Original innerhalb einer Frist von einem Monat nach Eingang des Telefax nachzureichen. Andernfalls gilt als Zahlungstag der Tag des Eingangs des Originals.
+
+(4) Das Deutsche Patent- und Markenamt teilt den Verwertungsgesellschaften den Gesamtbetrag der auf sie entfallenden Eintragungsgebühren für jeden Kalendermonat mit und zieht diesen Betrag aufgrund des SEPA-Basislastschriftmandats ein.
+
+(5) Die §§ 5, 6 Absatz 1, § 8 Absatz 2, § 10 Absatz 1, § 12 Absatz 1 und 4 sowie § 13 der DPMA-Verwaltungskostenverordnung sind entsprechend anzuwenden.
 
 ### § 3 — Inkrafttreten
 

@@ -14,177 +14,43 @@ Auf Grund des § 45 Absatz 1 der Handwerksordnung in der Fassung der Bekanntmach
 
 Diese Verordnung regelt das Meisterprüfungsberufsbild, die in der Prüfung in den Teilen I und II der Meisterprüfung zu stellenden Anforderungen sowie die Bestimmungen zur Durchführung der Meisterprüfung im Feinwerkmechaniker-Handwerk in folgenden Schwerpunkten:
 
-1.
+1. Maschinenbau, dieser umfasst die Planung, die Erstellung sowie die Instandhaltung von Maschinen oder Vorrichtungen und deren Komponenten sowie deren Steuerungstechnik,
 
-2.
+2. Werkzeugbau, dieser umfasst die Planung, die Erstellung sowie die Instandhaltung von Werkzeugen oder Vorrichtungen und deren Komponenten sowie deren Steuerungstechnik,
 
-3.
+3. Feinmechanik, diese umfasst die Planung, die Erstellung sowie die Instandhaltung von feinmechanischen Produkten oder Vorrichtungen und deren Komponenten sowie deren Steuerungstechnik,
 
-4.
+4. Zerspanungstechnik, diese umfasst die Planung sowie die Erstellung von geometrischen Bauteilen oder Vorrichtungen und deren Komponenten.
 
 ### § 2 — Meisterprüfungsberufsbild
 
-In den Teilen I und II der Meisterprüfung im Feinwerkmechaniker-Handwerk hat der Prüfling die beruflichen Handlungskompetenzen nachzuweisen, die sich auf wesentliche Tätigkeiten seines Gewerbes und die erforderlichen fachtheoretischen Kenntnisse beziehen. Grundlage dafür sind folgende Fertigkeiten und Kenntnisse: Neben den in Satz 2 Nummer 5 genannten Fertigkeiten und Kenntnissen sind bei der Leistungserbringung in den folgenden Schwerpunkten folgende Fertigkeiten und Kenntnisse zugrunde zu legen:
+In den Teilen I und II der Meisterprüfung im Feinwerkmechaniker-Handwerk hat der Prüfling die beruflichen Handlungskompetenzen nachzuweisen, die sich auf wesentliche Tätigkeiten seines Gewerbes und die erforderlichen fachtheoretischen Kenntnisse beziehen. Grundlage dafür sind folgende Fertigkeiten und Kenntnisse:
 
-1.
+1. einen Betrieb im Feinwerkmechaniker-Handwerk führen und organisieren und dabei rechnergestützt technische, kaufmännische und personalwirtschaftliche Entscheidungen treffen und begründen, insbesondere unter Berücksichtigung a)der Kostenstrukturen,b)der Wettbewerbssituation,c)der für den Betrieb wesentlichen Ausbildung, Fort- und Weiterbildung des Personals,d)der Betriebsorganisation,e)des Qualitätsmanagements,f)des Arbeitsschutzrechtes,g)des Datenschutzes, der Datensicherheit und der Datenverarbeitung,h)der ökologischen Nachhaltigkeit, der ökonomischen Nachhaltigkeit sowie der sozialen Nachhaltigkeit sowiei)technologischer Entwicklungen sowie gesellschaftlicher Entwicklungen, insbesondere digitaler Technologien, der Kostenstrukturen, der Wettbewerbssituation, der für den Betrieb wesentlichen Ausbildung, Fort- und Weiterbildung des Personals, der Betriebsorganisation, des Qualitätsmanagements, des Arbeitsschutzrechtes, des Datenschutzes, der Datensicherheit und der Datenverarbeitung, der ökologischen Nachhaltigkeit, der ökonomischen Nachhaltigkeit sowie der sozialen Nachhaltigkeit sowie technologischer Entwicklungen sowie gesellschaftlicher Entwicklungen, insbesondere digitaler Technologien,
 
-a)
+2. Konzepte für Betriebs- und Lagerausstattung sowie für logistische Geschäfts- und Arbeitsprozesse entwickeln und umsetzen,
 
-b)
+3. Kundenwünsche und jeweilige Rahmenbedingungen ermitteln, Anforderungen ableiten, Kundinnen und Kunden beraten, Serviceleistungen anbieten, Lösungen entwickeln, Verhandlungen führen und Ziele festlegen, Leistungen kalkulieren und Angebote erstellen sowie Verträge schließen,
 
-c)
+4. Geschäfts- und Arbeitsprozesse zur Leistungserbringung planen, organisieren und überwachen,
 
-d)
+5. Leistungen im Feinwerkmechaniker-Handwerk unter Berücksichtigung des gewählten Schwerpunkts erbringen, insbesondere a)Werkstücke unter Berücksichtigung von Festigkeit, von Statik sowie von Dynamik herstellen,b)Werkstoffe entsprechend ihrer Arten und Eigenschaften verarbeiten,c)Verfahren zur Oberflächenbehandlung sowie zur Stoffeigenschaftsänderung bei der Planung, Konstruktion und Fertigung berücksichtigen,d)Beurteilen und Anwenden von aa)manuellen Bearbeitungsverfahren sowie manuellen Verarbeitungsverfahren,bb)maschinellen Bearbeitungsverfahren sowie maschinellen Verarbeitungsverfahren sowiecc)programmgesteuerten Bearbeitungsverfahren sowie programmgesteuerten Verarbeitungsverfahren,e)Einsatz von neuartigen Fertigungsverfahren, insbesondere additiven Fertigungsverfahren, beurteilen und anwenden,f)auftragsbezogene Unterlagen und Bestimmungen auswerten und bei der Auftragsplanung, Auftragsdurchführung und Auftragskontrolle berücksichtigen, auch unter Berücksichtigung von Umweltvorschriften,g)Konzepte, technische Zeichnungen, Arbeitspläne und technische Dokumentationen unter Einsatz von Informations- und Kommunikationstechnologien, erarbeiten, bewerten und anpassen,h)Konstruktionen softwaregestützt erstellen, Fertigungsprozesse simulieren und Möglichkeiten der teilautomatisierten Produktion und der automatisierten Produktion prüfen sowiei)unterschiedliche Fertigungsprozesse in deren Wirtschaftlichkeit bewerten und Vorteile und Nachteile an Kundinnen und Kunden kommunizieren, Werkstücke unter Berücksichtigung von Festigkeit, von Statik sowie von Dynamik herstellen, Werkstoffe entsprechend ihrer Arten und Eigenschaften verarbeiten, Verfahren zur Oberflächenbehandlung sowie zur Stoffeigenschaftsänderung bei der Planung, Konstruktion und Fertigung berücksichtigen, Beurteilen und Anwenden von aa)manuellen Bearbeitungsverfahren sowie manuellen Verarbeitungsverfahren,bb)maschinellen Bearbeitungsverfahren sowie maschinellen Verarbeitungsverfahren sowiecc)programmgesteuerten Bearbeitungsverfahren sowie programmgesteuerten Verarbeitungsverfahren, manuellen Bearbeitungsverfahren sowie manuellen Verarbeitungsverfahren, maschinellen Bearbeitungsverfahren sowie maschinellen Verarbeitungsverfahren sowie programmgesteuerten Bearbeitungsverfahren sowie programmgesteuerten Verarbeitungsverfahren, Einsatz von neuartigen Fertigungsverfahren, insbesondere additiven Fertigungsverfahren, beurteilen und anwenden, auftragsbezogene Unterlagen und Bestimmungen auswerten und bei der Auftragsplanung, Auftragsdurchführung und Auftragskontrolle berücksichtigen, auch unter Berücksichtigung von Umweltvorschriften, Konzepte, technische Zeichnungen, Arbeitspläne und technische Dokumentationen unter Einsatz von Informations- und Kommunikationstechnologien, erarbeiten, bewerten und anpassen, Konstruktionen softwaregestützt erstellen, Fertigungsprozesse simulieren und Möglichkeiten der teilautomatisierten Produktion und der automatisierten Produktion prüfen sowie unterschiedliche Fertigungsprozesse in deren Wirtschaftlichkeit bewerten und Vorteile und Nachteile an Kundinnen und Kunden kommunizieren,
 
-e)
+6. technische Gesichtspunkte, organisatorische Gesichtspunkte sowie rechtliche Gesichtspunkte bei der Leistungserbringung berücksichtigen, insbesondere a)die datenschutzrechtlichen Vorschriften und damit verbundene Anforderungen,b)die Datensicherheit und die Datensicherung,c)die Sicherheitsrisiken, die Gesundheitsrisiken, die Umweltrisiken und die Haftungsrisiken sowie damit verbundene Hinweispflichten,d)der effiziente Einsatz von Energie sowie von Ressourcen unter Berücksichtigung von Wirtschaftlichkeit und Umweltschutz,e)die berufsbezogenen Rechtsvorschriften und technischen Normen,f)die allgemein anerkannten Regeln der Technik,g)das einzusetzende Personal sowie die Materialien, Arbeits- und Betriebsmittel sowieh)die Möglichkeiten zum Einsatz von Auszubildenden, die datenschutzrechtlichen Vorschriften und damit verbundene Anforderungen, die Datensicherheit und die Datensicherung, die Sicherheitsrisiken, die Gesundheitsrisiken, die Umweltrisiken und die Haftungsrisiken sowie damit verbundene Hinweispflichten, der effiziente Einsatz von Energie sowie von Ressourcen unter Berücksichtigung von Wirtschaftlichkeit und Umweltschutz, die berufsbezogenen Rechtsvorschriften und technischen Normen, die allgemein anerkannten Regeln der Technik, das einzusetzende Personal sowie die Materialien, Arbeits- und Betriebsmittel sowie die Möglichkeiten zum Einsatz von Auszubildenden,
 
-f)
+7. Arten und Eigenschaften von zu verwendenden Materialien berücksichtigen,
 
-g)
+8. Unteraufträge kriterienorientiert, insbesondere unter Berücksichtigung von Qualität der Leistungen und Rechtsvorschriften, vergeben und deren Ausführung kontrollieren,
 
-h)
+9. Prüf- und Messtechniken unter Berücksichtigung von Prüf- und Messplänen sowie Qualitätssicherung anwenden und Ergebnisse dokumentieren,
 
-i)
+10. Vorgaben Dritter, insbesondere Zertifizierungen und Werksnormen, beurteilen und anwenden,
 
-2.
+11. Betriebsabläufe unter Verwendung von Systemen zur Planung von unternehmerischen Ressourcen (Enterprise-Resource-Planning-Systeme) planen und steuern,
 
-3.
+12. fortlaufende Qualitätskontrollen durchführen, Störungen analysieren und beseitigen, Ergebnisse daraus bewerten und dokumentieren sowie
 
-4.
-
-5.
-
-a)
-
-b)
-
-c)
-
-d)
-
-aa)
-
-bb)
-
-cc)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-6.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-12.
-
-13.
-
-1.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-3.
-
-a)
-
-aa)
-
-bb)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+13. erbrachte Leistungen kontrollieren, Mängel beseitigen, Leistungen dokumentieren und übergeben, Abnahmeprotokolle, Prüfprotokolle sowie Messprotokolle erstellen sowie Nachkalkulationen durchführen, Auftragsabwicklung auswerten und gegebenenfalls optimieren.
 
 ### § 3 — Ziel und Gliederung der Prüfung in Teil I
 
@@ -198,19 +64,11 @@ e)
 
 (2) Als Meisterprüfungsprojekt sind folgende Arbeiten durchzuführen:
 
-1.
+1. im Rahmen der Planungsarbeiten Werkstattzeichnungen und dazugehörigen Stücklisten, eine Kalkulation sowie einen Arbeitsplan unter Verwendung von Konstruktionssoftware CAD und Enterprise-Resource-Planning-Systemen erstellen,
 
-2.
+2. auf Grundlage der Tätigkeiten nach Nummer 1 folgende Durchführungsarbeiten erbringen: a)im Schwerpunkt Maschinenbau mindestens eine Maschine, Vorrichtung oder deren Komponenten anfertigen,b)im Schwerpunkt Werkzeugbau mindestens ein Schnittwerkzeug, Stanzwerkzeug oder Umformwerkzeug, eine Form, Vorrichtung oder deren Komponenten anfertigen,c)im Schwerpunkt Feinmechanik mindestens ein Instrument, ein Feingerät oder Komponenten davon, einschließlich steuerungstechnischer Elemente, anfertigen oderd)im Schwerpunkt Zerspanungstechnik mindestens ein geometrisches Bauteil, eine Vorrichtung oder deren Komponenten anfertigen sowie im Schwerpunkt Maschinenbau mindestens eine Maschine, Vorrichtung oder deren Komponenten anfertigen, im Schwerpunkt Werkzeugbau mindestens ein Schnittwerkzeug, Stanzwerkzeug oder Umformwerkzeug, eine Form, Vorrichtung oder deren Komponenten anfertigen, im Schwerpunkt Feinmechanik mindestens ein Instrument, ein Feingerät oder Komponenten davon, einschließlich steuerungstechnischer Elemente, anfertigen oder im Schwerpunkt Zerspanungstechnik mindestens ein geometrisches Bauteil, eine Vorrichtung oder deren Komponenten anfertigen sowie
 
-a)
-
-b)
-
-c)
-
-d)
-
-3.
+3. Kontrollarbeiten und Dokumentationsarbeiten zu erbringen, bestehend aus Messprotokollen erstellen, ausfüllen und auswerten.
 
 (3) Die Anforderungen an das jeweilige Meisterprüfungsprojekt werden nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung festgelegt.
 
@@ -220,23 +78,23 @@ d)
 
 (6) Für die Bewertung des Meisterprüfungsprojekts werden die einzelnen Bestandteile wie folgt gewichtet:
 
-1.
+1. die Planungsarbeiten anhand der Planungsunterlagen, bestehend aus Werkstattzeichnungen und dazugehörigen Stücklisten, einer Kalkulation sowie einem Arbeitsplan, mit 40 Prozent,
 
-2.
+2. die Durchführungsarbeiten mit 40 Prozent und
 
-3.
+3. die Kontrollarbeiten und die Dokumentationsarbeiten anhand der Dokumentationsunterlagen mit 20 Prozent.
 
 ### § 5 — Fachgespräch
 
 (1) Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. die fachlichen Zusammenhänge aufzuzeigen, die dem Meisterprüfungsprojekt zugrunde liegen,
 
-2.
+2. Kundinnen und Kunden zu beraten und dabei den jeweiligen Kundenwunsch sowie wirtschaftliche, rechtliche und technische Gesichtspunkte in das Beratungsgespräch einzubeziehen,
 
-3.
+3. sein Vorgehen bei der Planung und Durchführung des Meisterprüfungsprojekts zu begründen sowie
 
-4.
+4. mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darzustellen und dabei aktuelle Entwicklungen im Feinwerkmechaniker-Handwerk zu berücksichtigen.
 
 (2) Das Fachgespräch soll höchstens 30 Minuten dauern.
 
@@ -246,19 +104,19 @@ d)
 
 (2) Der Prüfling hat den Teil I der Meisterprüfung bestanden, wenn
 
-1.
+1. das Meisterprüfungsprojekt und das Fachgespräch jeweils mit mindestens 30 Punkten bewertet worden ist und
 
-2.
+2. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
 
 ### § 7 — Ziel und Gliederung der Prüfung in Teil II
 
 (1) In Teil II der Meisterprüfung hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben in seinem gewählten Schwerpunkt zu lösen und dabei nachzuweisen, dass er die erforderlichen fachtheoretischen Kenntnisse im Feinwerkmechaniker-Handwerk anwenden kann. Grundlage für den Nachweis bilden die Qualifikationen in den folgenden Handlungsfeldern:
 
-1.
+1. nach Maßgabe des § 8 „Anforderungen von Kundinnen und Kunden eines Betriebs im Feinwerkmechaniker-Handwerk analysieren, Lösungen erarbeiten und anbieten“,
 
-2.
+2. nach Maßgabe des § 9 „Leistungen eines Betriebs im Feinwerkmechaniker-Handwerk erbringen, kontrollieren und übergeben“ und
 
-3.
+3. nach Maßgabe des § 10 „Einen Betrieb im Feinwerkmechaniker-Handwerk führen und organisieren“.
 
 (2) Der Prüfling hat in jedem der drei Handlungsfelder eine fallbezogene Aufgabe zu bearbeiten, die den Anforderungen des Absatzes 1 entspricht. Bei jeder Aufgabenstellung können die Qualifikationen der drei Handlungsfelder handlungsfeldübergreifend verknüpft werden.
 
@@ -272,53 +130,11 @@ d)
 
 (2) Das Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Feinwerkmechaniker-Handwerk analysieren, Lösungen erarbeiten und anbieten“ besteht aus folgenden Qualifikationen:
 
-1.
+1. Kundenwünsche und die Rahmenbedingungen zu deren Erfüllung analysieren, dokumentieren sowie bewerten und daraus Anforderungen ableiten, hierzu zählen insbesondere: a)Vorgehensweise zur strukturierten Ermittlung der Kundenwünsche und der jeweiligen Rahmenbedingungen erläutern und bewerten,b)Ausschreibungen und Angebotsanfragen öffentlicher Auftraggeber, gewerblicher Auftraggeber oder privater Auftraggeber analysieren und bewerten,c)Anforderungen der auftragsbezogenen Datensicherheit bewerten und berücksichtigen sowied)Ergebnisse der vorstehenden Handlungsschritte dokumentieren und bewerten, daraus Anforderungen für die Umsetzung ableiten, Vorgehensweise zur strukturierten Ermittlung der Kundenwünsche und der jeweiligen Rahmenbedingungen erläutern und bewerten, Ausschreibungen und Angebotsanfragen öffentlicher Auftraggeber, gewerblicher Auftraggeber oder privater Auftraggeber analysieren und bewerten, Anforderungen der auftragsbezogenen Datensicherheit bewerten und berücksichtigen sowie Ergebnisse der vorstehenden Handlungsschritte dokumentieren und bewerten, daraus Anforderungen für die Umsetzung ableiten,
 
-a)
+2. Lösungsmöglichkeiten entwickeln, erläutern und begründen, auch unter Berücksichtigung der berufsbezogenen Rechtsvorschriften und technischen Normen sowie der allgemein anerkannten Regeln der Technik, hierzu zählen insbesondere: a)Möglichkeiten und Notwendigkeiten des Einsatzes von Materialien, Bauteilen, Maschinen, Werkzeugen, Geräten und Personal, auch unter Berücksichtigung einzusetzender Verfahren, darstellen, erläutern und begründen,b)Sicherheitsrisiken, Gesundheitsrisiken, Umweltrisiken sowie Haftungsrisiken bewerten und Konsequenzen ableiten,c)Maschinen, deren Baugruppen sowie deren Bauteile, Geräte, Werkzeuge, technische Modelle sowie Versuchseinrichtungen entwerfen und berechnen,d)Konstruktionsentwürfe bewerten und korrigieren,e)Elemente der Prozessautomatisierung und -mechanisierung sowie der Transport- und Fördertechnik unterscheiden und beurteilen,f)Eigenschaften und Verhalten zu verarbeitender Werkstoffe beurteilen und Verwendungszwecken zuordnen,g)Probleme bei der Materialbearbeitung, bei der Materialverarbeitung, beim thermischen Fügen sowie beim mechanischen Fügen beschreiben, Lösungen erarbeiten, bewerten und umsetzen,h)Lösungen für Probleme im Bereich der Steuerungstechnik erarbeiten, bewerten und umsetzen,i)Prüf- und Messtechniken sowie Verfahren der Funktionsprüfungen sowie der Fehlersuche dem jeweiligen Verwendungszweck zuordnen,j)Verfahren zur Oberflächenbehandlung und zur Stoffeigenschaftsänderung dem jeweiligen Verwendungszweck zuordnen,k)Kriterien für die Vergabe von Unteraufträgen festlegen, insbesondere unter Berücksichtigung von Qualität und Rechtsvorschriften, darauf aufbauend Ausschreibungen oder Angebotsanfragen erstellen und hierauf eingehende Angebote bewerten sowiel)Vor- und Nachteile verschiedener Lösungsmöglichkeiten im Hinblick auf Anforderungen, Kostengesichtspunkte, rechtliche Gesichtspunkte sowie sicherheitstechnische Gesichtspunkte erläutern und abwägen sowie daraus eine Lösung auswählen und diese Auswahl begründen sowie Möglichkeiten und Notwendigkeiten des Einsatzes von Materialien, Bauteilen, Maschinen, Werkzeugen, Geräten und Personal, auch unter Berücksichtigung einzusetzender Verfahren, darstellen, erläutern und begründen, Sicherheitsrisiken, Gesundheitsrisiken, Umweltrisiken sowie Haftungsrisiken bewerten und Konsequenzen ableiten, Maschinen, deren Baugruppen sowie deren Bauteile, Geräte, Werkzeuge, technische Modelle sowie Versuchseinrichtungen entwerfen und berechnen, Konstruktionsentwürfe bewerten und korrigieren, Elemente der Prozessautomatisierung und -mechanisierung sowie der Transport- und Fördertechnik unterscheiden und beurteilen, Eigenschaften und Verhalten zu verarbeitender Werkstoffe beurteilen und Verwendungszwecken zuordnen, Probleme bei der Materialbearbeitung, bei der Materialverarbeitung, beim thermischen Fügen sowie beim mechanischen Fügen beschreiben, Lösungen erarbeiten, bewerten und umsetzen, Lösungen für Probleme im Bereich der Steuerungstechnik erarbeiten, bewerten und umsetzen, Prüf- und Messtechniken sowie Verfahren der Funktionsprüfungen sowie der Fehlersuche dem jeweiligen Verwendungszweck zuordnen, Verfahren zur Oberflächenbehandlung und zur Stoffeigenschaftsänderung dem jeweiligen Verwendungszweck zuordnen, Kriterien für die Vergabe von Unteraufträgen festlegen, insbesondere unter Berücksichtigung von Qualität und Rechtsvorschriften, darauf aufbauend Ausschreibungen oder Angebotsanfragen erstellen und hierauf eingehende Angebote bewerten sowie Vor- und Nachteile verschiedener Lösungsmöglichkeiten im Hinblick auf Anforderungen, Kostengesichtspunkte, rechtliche Gesichtspunkte sowie sicherheitstechnische Gesichtspunkte erläutern und abwägen sowie daraus eine Lösung auswählen und diese Auswahl begründen sowie
 
-b)
-
-c)
-
-d)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+3. Angebote kalkulieren, erstellen und erläutern sowie Leistungen vereinbaren, hierzu zählen insbesondere: a)Personalkosten, Materialkosten sowie Gerätekosten auf der Grundlage der Planungen kalkulieren,b)auf der Grundlage entwickelter Lösungsmöglichkeiten Angebotspositionen bestimmen und zu Angebotspaketen zusammenfassen sowie Preise kalkulieren,c)Vertragsbedingungen unter Berücksichtigung von Haftungsbestimmungen formulieren und beurteilen,d)Angebotsunterlagen unter Verwendung von Enterprise-Resource-Planning-Systemen vorbereiten und Angebote erstellen,e)Angebotspositionen und Vertragsbedingungen gegenüber Kundinnen und Kunden erläutern und begründen sowie Leistungen vereinbaren. Personalkosten, Materialkosten sowie Gerätekosten auf der Grundlage der Planungen kalkulieren, auf der Grundlage entwickelter Lösungsmöglichkeiten Angebotspositionen bestimmen und zu Angebotspaketen zusammenfassen sowie Preise kalkulieren, Vertragsbedingungen unter Berücksichtigung von Haftungsbestimmungen formulieren und beurteilen, Angebotsunterlagen unter Verwendung von Enterprise-Resource-Planning-Systemen vorbereiten und Angebote erstellen, Angebotspositionen und Vertragsbedingungen gegenüber Kundinnen und Kunden erläutern und begründen sowie Leistungen vereinbaren.
 
 ### § 9 — Handlungsfeld „Leistungen eines Betriebs im Feinwerkmechaniker-Handwerk erbringen, kontrollieren und übergeben“
 
@@ -326,51 +142,11 @@ e)
 
 (2) Das Handlungsfeld „Leistungen eines Betriebs im Feinwerkmechaniker-Handwerk erbringen, kontrollieren und übergeben“ besteht aus folgenden Qualifikationen:
 
-1.
+1. die Erbringung der Leistungen vorbereiten, hierzu zählen insbesondere: a)Methoden der Arbeitsplanung und Arbeitsorganisation sowie des Projektmanagements erläutern, auswählen und die Auswahl begründen sowie unter Berücksichtigung einzusetzender Herstellungsverfahren sowie einzusetzender Instandhaltungsverfahren den Einsatz von Personal, Material, Geräten, Maschinen sowie Werkzeugen planen,b)mögliche Störungen und Risiken bei der Leistungserbringung, auch in der Zusammenarbeit mit anderen an der Leistungserbringung Beteiligten, vorhersehen und Auswirkungen bewerten sowie Lösungen zu deren Vermeidung oder Behebung entwickeln,c)Auftragsabwicklungsprozesse unter Verwendung von Enterprise-Resource-Planning-Systemen planen,d)technische Arbeitspläne, insbesondere unter Anwendung von Enterprise-Resource-Planning-Systemen erarbeiten, bewerten und korrigieren,e)Entsorgung der nicht-recyclebaren Materialien und der nicht-recyclebaren Hilfsstoffe planen und dokumentieren, recyclebare Materialien und recyclebare Hilfsstoffe der Wiederverwertung zuführen sowief)Planen von steuerungstechnischen Lösungen mit aa)elektrischen Systemen,bb)elektronischen Systemen,cc)hydraulischen Systemen,dd)pneumatischen Systemen sowieee)mechanischen Systemen, Methoden der Arbeitsplanung und Arbeitsorganisation sowie des Projektmanagements erläutern, auswählen und die Auswahl begründen sowie unter Berücksichtigung einzusetzender Herstellungsverfahren sowie einzusetzender Instandhaltungsverfahren den Einsatz von Personal, Material, Geräten, Maschinen sowie Werkzeugen planen, mögliche Störungen und Risiken bei der Leistungserbringung, auch in der Zusammenarbeit mit anderen an der Leistungserbringung Beteiligten, vorhersehen und Auswirkungen bewerten sowie Lösungen zu deren Vermeidung oder Behebung entwickeln, Auftragsabwicklungsprozesse unter Verwendung von Enterprise-Resource-Planning-Systemen planen, technische Arbeitspläne, insbesondere unter Anwendung von Enterprise-Resource-Planning-Systemen erarbeiten, bewerten und korrigieren, Entsorgung der nicht-recyclebaren Materialien und der nicht-recyclebaren Hilfsstoffe planen und dokumentieren, recyclebare Materialien und recyclebare Hilfsstoffe der Wiederverwertung zuführen sowie Planen von steuerungstechnischen Lösungen mit aa)elektrischen Systemen,bb)elektronischen Systemen,cc)hydraulischen Systemen,dd)pneumatischen Systemen sowieee)mechanischen Systemen, elektrischen Systemen, elektronischen Systemen, hydraulischen Systemen, pneumatischen Systemen sowie mechanischen Systemen,
 
-a)
+2. die Leistungen erbringen, hierzu zählen insbesondere: a)berufsbezogene Rechtsvorschriften und technische Normen sowie die allgemein anerkannten Regeln der Technik anwenden,b)Maßnahmen zur Gefahrenvermeidung sowie zur Gefahrenbeseitigung erläutern sowie Konsequenzen ableiten,c)Fehler und Mängel bei der Erbringung der Leistungen erläutern sowie Maßnahmen zu deren Beseitigung ableiten sowied)Vorgehensweise zur Erbringung von Leistungen unter Berücksichtigung von Herstellungsverfahren, von Instandhaltungsverfahren sowie von datenschutzrechtlichen Vorschriften erläutern und begründen sowie berufsbezogene Rechtsvorschriften und technische Normen sowie die allgemein anerkannten Regeln der Technik anwenden, Maßnahmen zur Gefahrenvermeidung sowie zur Gefahrenbeseitigung erläutern sowie Konsequenzen ableiten, Fehler und Mängel bei der Erbringung der Leistungen erläutern sowie Maßnahmen zu deren Beseitigung ableiten sowie Vorgehensweise zur Erbringung von Leistungen unter Berücksichtigung von Herstellungsverfahren, von Instandhaltungsverfahren sowie von datenschutzrechtlichen Vorschriften erläutern und begründen sowie
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+3. die Leistungen unter Anwendung von Informations- und Kommunikationstechnologien kontrollieren, dokumentieren, übergeben sowie abrechnen, hierzu zählen insbesondere: a)Kriterien zur Feststellung der Qualität der erbrachten Leistungen erläutern,b)Prüfergebnisse, insbesondere Messungen nach Normen und rechtlichen Vorgaben, dokumentieren, bewerten und erläutern,c)Vorgehensweise bei Übergabe der Leistungen und Information der Kundinnen und Kunden über Handhabung und Wartung erläutern, dabei Überprüfungs- und Wartungspflichten und Wartungsnotwendigkeiten darstellen,d)auftragsbezogene Nachkalkulationen durchführen und Konsequenzen ableiten sowiee)Möglichkeiten der Herstellung von Kundenzufriedenheit und der Kundenbindung erläutern und beurteilen. Kriterien zur Feststellung der Qualität der erbrachten Leistungen erläutern, Prüfergebnisse, insbesondere Messungen nach Normen und rechtlichen Vorgaben, dokumentieren, bewerten und erläutern, Vorgehensweise bei Übergabe der Leistungen und Information der Kundinnen und Kunden über Handhabung und Wartung erläutern, dabei Überprüfungs- und Wartungspflichten und Wartungsnotwendigkeiten darstellen, auftragsbezogene Nachkalkulationen durchführen und Konsequenzen ableiten sowie Möglichkeiten der Herstellung von Kundenzufriedenheit und der Kundenbindung erläutern und beurteilen.
 
 ### § 10 — Handlungsfeld „Einen Betrieb im Feinwerkmechaniker-Handwerk führen und organisieren“
 
@@ -378,71 +154,15 @@ e)
 
 (2) Das Handlungsfeld „Einen Betrieb im Feinwerkmechaniker-Handwerk führen und organisieren“ besteht aus folgenden Qualifikationen:
 
-1.
+1. betriebliche Kosten analysieren und für die Preisgestaltung und Effizienzsteigerung nutzen, hierzu zählen insbesondere: a)betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen,b)betriebliche Kostenstrukturen überprüfen,c)betriebliche Kennzahlen ermitteln und vergleichen,d)Maßnahmen zur Effizienzsteigerung ableiten sowiee)betriebliche Kalkulationsmethoden anhand vorgegebener Kostenstrukturen auswählen und anwenden, betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen, betriebliche Kostenstrukturen überprüfen, betriebliche Kennzahlen ermitteln und vergleichen, Maßnahmen zur Effizienzsteigerung ableiten sowie betriebliche Kalkulationsmethoden anhand vorgegebener Kostenstrukturen auswählen und anwenden,
 
-a)
+2. Marketingmaßnahmen zur Kundengewinnung sowie zur Kundenpflege erarbeiten, hierzu zählen insbesondere: a)Auswirkungen technologischer Entwicklungen, wirtschaftlicher Entwicklungen, rechtlicher Entwicklungen, ökologischer Entwicklungen sowie gesellschaftlicher Entwicklungen und veränderter Kundenanforderungen auf das Leistungsangebot darstellen und begründen,b)Möglichkeiten der Auftragsbeschaffung darstellen und Marketingmaßnahmen zur Kundengewinnung sowie Kundenpflege entwickeln,c)Informationen über Produkte und über das Leistungsspektrum des Betriebs erstellen sowied)Vertriebswege ermitteln und bewerten, Auswirkungen technologischer Entwicklungen, wirtschaftlicher Entwicklungen, rechtlicher Entwicklungen, ökologischer Entwicklungen sowie gesellschaftlicher Entwicklungen und veränderter Kundenanforderungen auf das Leistungsangebot darstellen und begründen, Möglichkeiten der Auftragsbeschaffung darstellen und Marketingmaßnahmen zur Kundengewinnung sowie Kundenpflege entwickeln, Informationen über Produkte und über das Leistungsspektrum des Betriebs erstellen sowie Vertriebswege ermitteln und bewerten,
 
-b)
+3. betriebliches Qualitätsmanagement entwickeln, hierzu zählen insbesondere: a)Bedeutung des betrieblichen Qualitätsmanagements darstellen und beurteilen,b)Qualitätsmanagementsysteme unterscheiden und beurteilen,c)Maßnahmen zur Kontrolle und Dokumentation der Leistungen erläutern, begründen und bewerten, insbesondere unter Berücksichtigung von Qualitätsstandards, Rechtsvorschriften und technischen Normen,d)Maßnahmen zur kontinuierlichen Verbesserung von Geschäfts- und Arbeitsprozessen festlegen und bewerten sowiee)Maßnahmen zur Rückverfolgbarkeit der verwendeten Produkte und Materialien aus Gewährleistungsgründen sowie Haftungsgründen, zur Sicherstellung der Ersatzteilverfügbarkeit sowie für den Nachweis ökologischer und sozialer Nachhaltigkeit erläutern, Bedeutung des betrieblichen Qualitätsmanagements darstellen und beurteilen, Qualitätsmanagementsysteme unterscheiden und beurteilen, Maßnahmen zur Kontrolle und Dokumentation der Leistungen erläutern, begründen und bewerten, insbesondere unter Berücksichtigung von Qualitätsstandards, Rechtsvorschriften und technischen Normen, Maßnahmen zur kontinuierlichen Verbesserung von Geschäfts- und Arbeitsprozessen festlegen und bewerten sowie Maßnahmen zur Rückverfolgbarkeit der verwendeten Produkte und Materialien aus Gewährleistungsgründen sowie Haftungsgründen, zur Sicherstellung der Ersatzteilverfügbarkeit sowie für den Nachweis ökologischer und sozialer Nachhaltigkeit erläutern,
 
-c)
+4. Personal unter Berücksichtigung gewerbespezifischer Bedingungen planen und anleiten, Personalentwicklung planen, hierzu zählen insbesondere: a)Einsatz von Personal disponieren,b)Einsatz von Auszubildenden auf Grundlage des betrieblichen Ausbildungsplans disponieren,c)Methoden zur Anleitung von Personal erläutern,d)Qualifikationsbedarfe ermitteln,e)Maßnahmen zur fortlaufenden Qualifizierung, insbesondere unter Berücksichtigung des Berufslaufbahnkonzepts im Feinwerkmechaniker-Handwerk, planen,f)Maßnahmen der Personalgewinnung und -bindung entwickeln sowieg)betriebliche und außerbetriebliche Förder- und Qualifizierungsmöglichkeiten von Menschen mit erhöhtem Förderbedarf erläutern und bewerten sowie Einsatz von Personal disponieren, Einsatz von Auszubildenden auf Grundlage des betrieblichen Ausbildungsplans disponieren, Methoden zur Anleitung von Personal erläutern, Qualifikationsbedarfe ermitteln, Maßnahmen zur fortlaufenden Qualifizierung, insbesondere unter Berücksichtigung des Berufslaufbahnkonzepts im Feinwerkmechaniker-Handwerk, planen, Maßnahmen der Personalgewinnung und -bindung entwickeln sowie betriebliche und außerbetriebliche Förder- und Qualifizierungsmöglichkeiten von Menschen mit erhöhtem Förderbedarf erläutern und bewerten sowie
 
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-5.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
+5. Betriebs- und Lagerausstattung sowie Abläufe planen, hierzu zählen insbesondere: a)Durchführung der rechtlich vorgeschriebenen Gefährdungsbeurteilung erläutern, Konsequenzen aus dem Ergebnis ableiten,b)Ausstattung des Betriebes, insbesondere unter Berücksichtigung der betrieblichen Bedarfe des Gewerbes, des Arbeitsschutzes, der Gefahrguthandhabung sowie ökologischen Gesichtspunkten, ökonomischen Gesichtspunkten, sozialen Gesichtspunkten und logistischen Gesichtspunkten, planen und begründen,c)Maßnahmen zur Unfallverhütung, zum Arbeitsschutz, zur Gefahrgutlagerung, insbesondere unter Berücksichtigung ökologischer Gesichtspunkte, ökonomischer Gesichtspunkte und sozialer Gesichtspunkte, planen und begründen,d)Instandhaltung von Werkzeugen, Geräten, Maschinen sowie Fahrzeugen planen,e)Betriebsabläufe unter Berücksichtigung der Nachfrage, der betrieblichen Auslastung, des Einsatzes von Personal, Material, Werkzeugen, Geräten, Maschinen sowie Fahrzeugen planen und verbessern,f)Prozesse und Strukturen zur Wahrung der Datensicherheit und des Datenschutzes, insbesondere für Daten Dritter, entwickeln sowie umsetzen sowieg)Möglichkeiten zur Erzeugung, Gewinnung, Nutzung oder Einsparung von elektrischer Energie darstellen. Durchführung der rechtlich vorgeschriebenen Gefährdungsbeurteilung erläutern, Konsequenzen aus dem Ergebnis ableiten, Ausstattung des Betriebes, insbesondere unter Berücksichtigung der betrieblichen Bedarfe des Gewerbes, des Arbeitsschutzes, der Gefahrguthandhabung sowie ökologischen Gesichtspunkten, ökonomischen Gesichtspunkten, sozialen Gesichtspunkten und logistischen Gesichtspunkten, planen und begründen, Maßnahmen zur Unfallverhütung, zum Arbeitsschutz, zur Gefahrgutlagerung, insbesondere unter Berücksichtigung ökologischer Gesichtspunkte, ökonomischer Gesichtspunkte und sozialer Gesichtspunkte, planen und begründen, Instandhaltung von Werkzeugen, Geräten, Maschinen sowie Fahrzeugen planen, Betriebsabläufe unter Berücksichtigung der Nachfrage, der betrieblichen Auslastung, des Einsatzes von Personal, Material, Werkzeugen, Geräten, Maschinen sowie Fahrzeugen planen und verbessern, Prozesse und Strukturen zur Wahrung der Datensicherheit und des Datenschutzes, insbesondere für Daten Dritter, entwickeln sowie umsetzen sowie Möglichkeiten zur Erzeugung, Gewinnung, Nutzung oder Einsparung von elektrischer Energie darstellen.
 
 ### § 11 — Gewichtung, Bestehen der Prüfung in Teil II
 
@@ -452,11 +172,11 @@ g)
 
 (3) Der Prüfling hat den Teil II der Meisterprüfung bestanden, wenn
 
-1.
+1. jedes der drei Handlungsfelder mit mindestens 30 Punkten bewertet worden ist,
 
-2.
+2. nach durchgeführter Ergänzungsprüfung nach Absatz 2 höchstens ein Handlungsfeld mit weniger als 50 Punkten bewertet worden ist und
 
-3.
+3. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
 
 ### § 12 — Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 

@@ -19,7 +19,11 @@ der Bergleute
 
 ### § 2
 
-(1) Über die Zuständigkeit ... der besonderen Krankenkassen sowie über die Berechnung des Grundlohns bestimmt die Satzung das Nähere. Sie stellt Richtlinien auf für die Gewährung der Mehrleistungen. Diese können für Arbeiter, Angestellte und Rentner verschieden festgesetzt werden. Bestandteil der Satzung bildet auch die Krankenordnung.(2)(3) u. (4) ...
+(1) Über die Zuständigkeit ... der besonderen Krankenkassen sowie über die Berechnung des Grundlohns bestimmt die Satzung das Nähere. Sie stellt Richtlinien auf für die Gewährung der Mehrleistungen. Diese können für Arbeiter, Angestellte und Rentner verschieden festgesetzt werden. Bestandteil der Satzung bildet auch die Krankenordnung.
+
+(2)
+
+(3) u. (4) ...
 
 ### § 3
 

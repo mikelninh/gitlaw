@@ -26,33 +26,33 @@ Die Ausbildung dauert drei Jahre.
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
-1.
+1. Berufsbildung,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Arbeits- und Tarifrecht, Arbeitsschutz,
 
-4.
+4. Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung,
 
-5.
+5. Beurteilen von Pelzfellen und Leder unter Beachtung der Artenschutzbestimmungen,
 
-6.
+6. Entwerfen und Entwickeln von Arbeitsmustern,
 
-7.
+7. Planen und Vorbereiten von Arbeitsabläufen,
 
-8.
+8. Bereitstellen und Kombinieren von Werk- und Hilfsstoffen,
 
-9.
+9. Vorbereiten und Nachbehandeln von Werkstoffen,
 
-10.
+10. Schneiden und Zuschneiden von Werk- und Hilfsstoffen,
 
-11.
+11. Nähen von Werkstücken,
 
-12.
+12. Fertigen von Werkstücken,
 
-13.
+13. Pflegen und Instandhalten von Arbeitsgeräten und Maschinen,
 
-14.
+14. Qualitätssicherung.
 
 ### § 5 — Ausbildungsrahmenplan
 
@@ -76,31 +76,31 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (3) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens sechs Stunden drei Arbeitsproben durchführen. Hierfür kommen insbesondere in Betracht:
 
-1.
+1. Sortieren von Pelzfellen und Leder unter Berücksichtigung der Materialbeschaffenheit und von Verarbeitungstechniken,
 
-2.
+2. materialgerechtes Auswählen, Anlegen und Schneiden von Höhen- und Seitenverbindungen,
 
-3.
+3. Ausführen von Höhen- und Seitenverbindungen und Teilnäharbeiten für die Textil- und Lederverarbeitung,
 
-4.
+4. Ausführen von Einzelschnitten zur Formveränderung von Pelzfellen oder
 
-5.
+5. Abnehmen von Mustern für Besatz.
 
 (4) Zum Nachweis der Kenntnisse soll der Prüfling in insgesamt höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, aus folgenden Gebieten schriftlich lösen:
 
-1.
+1. Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung,
 
-2.
+2. Funktion von Werkzeugen, Geräten und Maschinen,
 
-3.
+3. Herkunft der Pelzfelle und Lederarten unter Einbeziehung des Artenschutzes und der RAL-Bezeichnungsvorschriften,
 
-4.
+4. Aufbau und Struktur von Pelzfellen und Leder,
 
-5.
+5. Funktion und Bezeichnung von Teilen des Arbeitsmusters,
 
-6.
+6. Eigenschaften und Verwendung textiler Werk- und Hilfsstoffe für die Pelzverarbeitung,
 
-7.
+7. fachbezogene Berechnungen.
 
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
@@ -108,61 +108,21 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens sieben Stunden zwei Arbeitsproben durchführen und in insgesamt höchstens 40 Stunden ein Prüfungsstück anfertigen. Hierfür kommen insbesondere in Betracht: Die Arbeitsproben zusammen sollen mit 25 vom Hundert und das Prüfungsstück soll mit 75 vom Hundert gewichtet werden.
+(2) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens sieben Stunden zwei Arbeitsproben durchführen und in insgesamt höchstens 40 Stunden ein Prüfungsstück anfertigen. Hierfür kommen insbesondere in Betracht:
 
-1.
+1. als Arbeitsproben:a)Zuschneiden und Nähen von Lederbekleidung als Kleinteil, b)Vornehmen einer Formveränderung durch eine umfassende Schnittanlage für einen Jacken- oder Mantelstreifen, c)Entwickeln eines Arbeitsmusters nach vorgegebenem Entwurf oder d)komplettes Ausfertigen eines Teilstückes aus Pelz oder eines Teilstückes aus Pelz mit anderen Werkstoffen kombiniert; Zuschneiden und Nähen von Lederbekleidung als Kleinteil, Vornehmen einer Formveränderung durch eine umfassende Schnittanlage für einen Jacken- oder Mantelstreifen, Entwickeln eines Arbeitsmusters nach vorgegebenem Entwurf oder komplettes Ausfertigen eines Teilstückes aus Pelz oder eines Teilstückes aus Pelz mit anderen Werkstoffen kombiniert;
 
-a)
-
-b)
-
-c)
-
-d)
-
-2.
-
-a)
-
-b)
+2. als Prüfungsstück:a)Herstellen von Pelzbekleidung als Großstück in Flächenarbeit mit Höhen- und Seitenverbindungen, insbesondere unter Berücksichtigung von modischen Gesichtspunkten und optischen Wirkungsgrundsätzen oder b)Herstellen von Pelzbekleidung als Großstück in Materialkombination in Flächenarbeit mit Höhen- und Seitenverbindungen, insbesondere unter Berücksichtigung von modischen Gesichtspunkten und optischen Wirkungsgrundsätzen. Herstellen von Pelzbekleidung als Großstück in Flächenarbeit mit Höhen- und Seitenverbindungen, insbesondere unter Berücksichtigung von modischen Gesichtspunkten und optischen Wirkungsgrundsätzen oder Herstellen von Pelzbekleidung als Großstück in Materialkombination in Flächenarbeit mit Höhen- und Seitenverbindungen, insbesondere unter Berücksichtigung von modischen Gesichtspunkten und optischen Wirkungsgrundsätzen.
 
 (3) Zum Nachweis der Kenntnisse soll der Prüfling in den Prüfungsfächern Technologie, Technische Mathematik, Technisches Zeichnen sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. Es kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus den folgenden Gebieten in Betracht:
 
-1.
+1. im Prüfungsfach Technologie:a)Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung, b)Herkunft der Pelzfelle und Lederarten unter Einbeziehung des Artenschutzes und der RAL-Bezeichnungsvorschriften, c)Grundlagen der Betriebsorganisation, d)Eigenschaftsveränderung durch Veredlungsverfahren, e)Funktion von Zutaten und Hilfsmittel und ihre Eigenschaftsanforderungen, f)Verwendungszweck und Verarbeitungsmöglichkeiten von Pelzfellen, Leder, textilen Flächengebilden und Materialkombinationen, g)Auswahlkriterien für Materialkombinationen, h)Qualitätssicherung; Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung, Herkunft der Pelzfelle und Lederarten unter Einbeziehung des Artenschutzes und der RAL-Bezeichnungsvorschriften, Grundlagen der Betriebsorganisation, Eigenschaftsveränderung durch Veredlungsverfahren, Funktion von Zutaten und Hilfsmittel und ihre Eigenschaftsanforderungen, Verwendungszweck und Verarbeitungsmöglichkeiten von Pelzfellen, Leder, textilen Flächengebilden und Materialkombinationen, Auswahlkriterien für Materialkombinationen, Qualitätssicherung;
 
-a)
+2. im Prüfungsfach Technische Mathematik:a)Rechnen mit fachspezifischen Kenndaten, b)produkt- und leistungsbezogene Berechnungen; Rechnen mit fachspezifischen Kenndaten, produkt- und leistungsbezogene Berechnungen;
 
-b)
+3. im Prüfungsfach Technisches Zeichnen:a)technologische Darstellungen, b)Schnittentwicklung, c)Interpretation und Darstellung modischer Tendenzen; technologische Darstellungen, Schnittentwicklung, Interpretation und Darstellung modischer Tendenzen;
 
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-2.
-
-a)
-
-b)
-
-3.
-
-a)
-
-b)
-
-c)
-
-4.
-
-(4) Für die schriftliche Kenntnisprüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
+4. im Prüfungsfach Wirtschafts- und Sozialkunde: allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
@@ -181,5 +141,3 @@ Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung best
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 ### Anlage — (zu § 5)
-
-(Fundstelle: BGBl. I 1997, 242 - 245)

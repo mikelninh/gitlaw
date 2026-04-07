@@ -20,13 +20,13 @@
 
 (2) Schlachtgewicht ist das Warmgewicht des geschlachteten ausgeweideten Tieres
 
-1.
+1. bei Rinder, die bei der Schlachtung mindestens acht Monate alt waren, ausschließlich der Haut, des zwischen Hinterhauptbein und erstem Halswirbel abgetrennten Kopfes, der im Karpal- und Tarsalgelenk abgetrennten Gliedmaßen, der Organe in der Brust- und Bauchhöhle, der Nieren, des Nierenfettgewebes sowie des Beckenfettgewebes, der Geschlechtsorgane und der dazugehörigen Muskeln, des Saumfleisches, der Nierenzapfen, des zwischen dem letzten Kreuzbein und dem ersten Schwanzwirbel rechtwinklig zum Wirbel abgetrennten Schwanzes, des Rückenmarks, des Sackfettes, des Euters, des Euterfettes, des Oberschalenkranzfettes sowie der Halsvene und des daran anhaftenden Fettgewebes,
 
-2.
+2. bei Rinder, die bei der Schlachtung jünger als acht Monate waren, ausschließlich der Haut, des zwischen Hinterhauptbein und erstem Halswirbel abgetrennten Kopfes, der im Karpal- und Tarsalgelenk abgetrennten Gliedmaßen, der Organe in der Brust- und Bauchhöhle, der Nieren, des Nierenfettgewebes sowie des Beckenfettgewebes, der Geschlechtsorgane und der dazugehörigen Muskeln, des Saumfleisches, der Nierenzapfen und des Euterfettes,
 
-3.
+3. bei Schweinen ausschließlich der Zunge, der Geschlechtsorgane, des Rückenmarks, der Organe in der Brust- und Bauchhöhle, der Flomen, der Nieren, des Zwerchfells, des Zwerchfellpfeilers, des Gehirns; bei Sauen, die mindestens einmal geferkelt haben, zur Zucht benutzten Ebern und Altschneidern zusätzlich ohne die im Karpal- und Tarsalgelenk abgetrennten Spitzbeine sowie bei Sauen, die mindestens einmal geferkelt haben, ohne die Gesäugeleiste und
 
-4.
+4. bei Schafen ausschließlich der Haut, des zwischen Hinterhauptbein und erstem Halswirbel abgetrennten Kopfes, der im Karpal- und Tarsalgelenk abgetrennten Gliedmaßen, des zwischen dem sechsten und siebten Schwanzwirbel abgetrennten Schwanzes sowie der Organe in der Brust- und Bauchhöhle, jedoch einschließlich der Nieren und des Nierenfettgewebes.
 
 (3) Andere als die nach Absatz 2 Nr. 1 bis 4 bei der Feststellung des Schlachtgewichts nicht zu berücksichtigenden Teile dürfen vor der Feststellung des Schlachtgewichts nicht vom Schlachtkörper abgetrennt werden. Die nach Landesrecht zuständige Behörde kann eine Abweichung von der Schnittführung nach Absatz 2 Nr. 1 bis 4 genehmigen oder anordnen, soweit technische Erfordernisse dies rechtfertigen. In die Genehmigung oder Anordnung ist der Korrekturfaktor aufzunehmen, der bei der Feststellung des Schlachtgewichts zu berücksichtigen ist. Bei Schlachtkörpern von mindestens 8 Monate alten Rindern ist eine Genehmigung oder Anordnung nach Satz 2 nur für die Schlachtkörperteile zulässig, die im Anhang der Durchführungsverordnung (EU) 2017/1184 der Kommission vom 20. April 2017 mit Durchführungsbestimmungen zur Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates in Bezug auf die Handelsklassenschemata der Union für Schlachtkörper von Rindern, Schweinen und Schafen und auf die Meldung der Marktpreise für bestimmte Kategorien von Schlachtkörpern und lebenden Tieren (ABl. L 171 vom 4.7.2017, S. 103) enthalten sind. Dabei sind die dort genannten Korrekturfaktoren zu verwenden. Die Bestimmungen des Lebensmittelhygienerechts und des Tierseuchenrechts bleiben unberührt.
 
@@ -56,35 +56,17 @@ Zum Zweck der Durchführung von Kontrollen verarbeitet und übermittelt die zust
 
 (1) Von der Meldepflicht nach § 4 Absatz 1 sind Betriebe ausgenommen, die pro Woche durchschnittlich höchstens 500 Schweine oder höchstens 150 Rinder oder höchstens 75 Schafe schlachten. Die durchschnittliche wöchentliche Schlachtzahl wird auf der Grundlage der im Jahresdurchschnitt des vorangegangenen Kalenderjahres geschlachteten Menge errechnet.
 
-(2) Die Landesregierungen können durch Rechtsverordnung die Meldegrenze nach Absatz 1 auf bis zu 1 000 Schweine oder 200 Rinder pro Woche erhöhen. Dabei muss sichergestellt sein, dass mindestens 60 Prozent der in diesem Land gewerblich geschlachteten Tiere der betreffenden Tierart erfasst werden.
+(2) Die Landesregierungen können durch Rechtsverordnung die Meldegrenze nach Absatz 1 auf bis zu 1 000 Schweine oder 200 Rinder pro Woche erhöhen. Dabei muss sichergestellt sein, dass mindestens 60 Prozent der in diesem Land gewerblich geschlachteten Tiere der betreffenden Tierart erfasst werden.
 
 ### § 6 — Inhalt der Preismeldung
 
-(1) Die Meldungen haben für den jeweiligen Berichtszeitraum folgende Angaben zu enthalten: Die Preismeldungen sind wie folgt zu unterteilen:
+(1) Die Meldungen haben für den jeweiligen Berichtszeitraum folgende Angaben zu enthalten:
 
-1.
+1. für die Schlachtkörper von konventionell erzeugten Rindern sowie allen Schweinen und Schafen: a)die geschlachtete Gesamtmenge nach Stückzahl und nach Schlachtgewicht undb)die mit den Schlachtgewichten gewogenen Durchschnitte der Auszahlungspreise pro 100 Kilogramm, die geschlachtete Gesamtmenge nach Stückzahl und nach Schlachtgewicht und die mit den Schlachtgewichten gewogenen Durchschnitte der Auszahlungspreise pro 100 Kilogramm,
 
-a)
+2. für die Schlachtkörper von Schweinen und Schafen, bei deren Aufzucht und Haltung die Produktionsvorschriften der Verordnung (EU) 2018/848 des europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates (ABl. L 150 vom 14.6.2018, S. 1; L 270 vom 29.10.2018, S. 37; L 305 vom 26.11.2019, S. 59; L 37 vom 10.2.2020, S. 26; L 324 vom 6.10.2020, S. 65; L 7 vom 11.1.2021, S. 53; L 204 vom 10.6.2021, S. 47; L 318 vom 9.9.2021, S. 5) in der jeweils geltenden Fassung eingehalten worden sind, zusätzlich und in separater Form die geschlachtete Gesamtmenge nach Stückzahl und nach Schlachtgewicht,
 
-b)
-
-2.
-
-3.
-
-a)
-
-b)
-
-1.
-
-a)
-
-b)
-
-2.
-
-3.
+3. für die Schlachtkörper der Rinder, bei deren Aufzucht und Haltung die Produktionsvorschriften nach der Verordnung (EU) 2018/848 eingehalten worden sind, zusätzlich und in separater Form: a)die geschlachtete Gesamtmenge nach Stückzahl und nach Schlachtgewicht sowieb)die repräsentativen Verkaufspreise nach Anhang II Nummer 9 der Durchführungsverordnung (EU) 2019/1746 der Kommission vom 1. Oktober 2019 zur Änderung der Durchführungsverordnung (EU) 2017/1185 mit Durchführungsbestimmungen zu den Verordnungen (EU) Nr. 1307/2013 und (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates in Bezug auf die Übermittlung von Informationen und Dokumenten an die Kommission (ABl. L 268 vom 22.10.2019, S. 6), wobei die repräsentativen Verkaufspreise die mit den Schlachtgewichten gewogenen Durchschnitte der Auszahlungspreise an die Lieferanten sind. die geschlachtete Gesamtmenge nach Stückzahl und nach Schlachtgewicht sowie die repräsentativen Verkaufspreise nach Anhang II Nummer 9 der Durchführungsverordnung (EU) 2019/1746 der Kommission vom 1. Oktober 2019 zur Änderung der Durchführungsverordnung (EU) 2017/1185 mit Durchführungsbestimmungen zu den Verordnungen (EU) Nr. 1307/2013 und (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates in Bezug auf die Übermittlung von Informationen und Dokumenten an die Kommission (ABl. L 268 vom 22.10.2019, S. 6), wobei die repräsentativen Verkaufspreise die mit den Schlachtgewichten gewogenen Durchschnitte der Auszahlungspreise an die Lieferanten sind.
 
 (2) Schweine mit einem Zweihälftengewicht von weniger als 80 Kilogramm und mehr als 110 Kilogramm sind bei den Meldungen nach Absatz 1 Satz 1 Nr. 2 nicht zu berücksichtigen. Satz 1 gilt nicht für die Handelsklassen M und V. Auf Verlangen der nach Landesrecht zuständigen Behörden ist der Muskelfleischanteil jedes Schweineschlachtkörpers zu übermitteln.
 
@@ -104,7 +86,7 @@ b)
 
 (3) Die Meldungen sind vorab fernmündlich oder fernschriftlich zu erstatten, wenn der Eingang der schriftlichen oder elektronischen Meldungen nach vorgeschriebenem Muster zu dem nach Absatz 2 bestimmten Zeitpunkt nicht gewährleistet ist.
 
-(4) Erhält ein Schlachtbetrieb nach Abgabe der Preismeldung Kenntnis von einer Unrichtigkeit oder Unvollständigkeit einer gemeldeten Angabe, hat er die Änderung der gemeldeten Angaben unverzüglich der Meldebehörde zu melden. Für die Korrekturmeldung ist das Muster nach § 10 Absatz 1 zu verwenden.
+(4) Erhält ein Schlachtbetrieb nach Abgabe der Preismeldung Kenntnis von einer Unrichtigkeit oder Unvollständigkeit einer gemeldeten Angabe, hat er die Änderung der gemeldeten Angaben unverzüglich der Meldebehörde zu melden. Für die Korrekturmeldung ist das Muster nach § 10 Absatz 1 zu verwenden.
 
 ### § 8 — Preisfeststellung
 
@@ -142,26 +124,26 @@ Meldegebiet ist das jeweilige Land. Die Bekanntgabe der in den einzelnen Länder
 
 Ordnungswidrig im Sinne des § 16 Abs. 1 Nr. 3 des Fleischgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 1 Schlachtkörper von Rindern, Schweinen oder Schafen nicht, nicht richtig oder nicht rechtzeitig kennzeichnet,
 
-2.
+2. entgegen § 2 Abs. 1 das Schlachtgewicht nicht, nicht richtig oder nicht rechtzeitig feststellt,
 
-3.
+3. entgegen § 2 Abs. 3 Satz 1 vor der Feststellung des Schlachtgewichts andere als die in Satz 1 genannten Teile abtrennt,
 
-4.
+4. entgegen § 3 oder § 6 Abs. 6 Unterlagen nicht oder nicht in der vorgeschriebenen Weise erstellt oder nicht für die vorgeschriebene Dauer aufbewahrt,
 
-5.
+5. entgegen § 4 Abs. 1, § 6 Abs. 1, 4 Satz 1 oder Abs. 5 Satz 1 oder 2 oder § 7 Abs. 1 Satz 1 und 2 und Abs. 2 Meldungen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet oder
 
-6.
+6. entgegen § 7 Absatz 4 Satz 1 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
 ### § 13 — Überwachung, Duldungs- und Auskunftspflichten
 
 (1) Soweit es zur Überwachung der Einhaltung der nach dieser Verordnung geltenden Vorschriften über Kennzeichnung, Verwiegung und Schnittführung von Schlachtkörpern von Rindern, Schweinen oder Schafen erforderlich ist, können die Beauftragten der zuständigen Stellen bei Betrieben, die Rinder, Schweine oder Schafe schlachten oder schlachten lassen, oder die Rind-, Schweine- oder Schaffleisch zum Verkauf vorrätig halten, anbieten, feilhalten, liefern, verkaufen oder sonst in den Verkehr bringen oder in den Geltungsbereich oder aus dem Geltungsbereich dieser Verordnung verbringen, während der Geschäftszeit
 
-1.
+1. Geschäftsräume und Grundstücke, Verkaufseinrichtungen und Transportmittel betreten und dort Besichtigungen vornehmen,
 
-2.
+2. Geschäftsunterlagen einsehen und prüfen,
 
-3.
+3. Auskunft verlangen.
 
 (2) Inhaber oder Leiter von Betrieben sowie Klassifizierungsunternehmen sind verpflichtet, das Betreten der Geschäftsräume und Grundstücke, Verkaufseinrichtungen und Transportmittel sowie die dort vorzunehmenden Besichtigungen zu gestatten, das zu besichtigende Rind-, Schweine- oder Schaffleisch selbst oder durch andere so darzulegen, dass die Besichtigung ordnungsgemäß vorgenommen werden kann, selbst oder durch andere die erforderliche Hilfe bei der Besichtigung zu leisten, die geschäftlichen Unterlagen vorzulegen, prüfen zu lassen und Auskünfte zu erteilen.

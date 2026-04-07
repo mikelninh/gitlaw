@@ -8,17 +8,13 @@
 
 ### Präambel
 
-Ausgehend davon, hat der Deutsche Bundestag das folgende Gesetz beschlossen:
+Ausgehend davon,
 
--
+- daß Berlin auf Grund des Einigungsvertrages Hauptstadt des vereinigten Deutschlands ist,
 
--
+- daß der Deutsche Bundestag seinen politischen Willen vielfach bekundet hat, daß nach der Herstellung der deutschen Einheit Parlament und Regierung wieder in der deutschen Hauptstadt Berlin, die in über 40 Jahren deutscher Teilung ein Symbol des Willens zur deutschen Einheit war, ihren Sitz haben sollen,
 
--
-
--
-
--
+- daß Bonn in Wahrnehmung der Aufgaben als provisorische Bundeshauptstadt Wesentliches zum Aufbau und zur Identifikation des demokratischen, an bundesstaatlichen Prinzipien orientierten Deutschlands geleistet hat,
 
 ### § 1 — Zweck des Gesetzes
 
@@ -26,29 +22,19 @@ Ausgehend davon, hat der Deutsche Bundestag das folgende Gesetz beschlossen:
 
 (2) Hierbei hat die Umsetzung nach folgenden Maßgaben zu erfolgen:
 
-1.
+1. Sicherstellung einer dauerhaften und fairen Arbeitsteilung zwischen der Bundeshauptstadt Berlin und der Bundesstadt Bonn.
 
-2.
+2. Ansiedlung des Kernbereichs der Regierungsfunktionen in der Bundeshauptstadt Berlin.
 
-3.
+3. Erhalt und Förderung politischer Funktionen in der Bundesstadt Bonn in folgenden Politikbereichen:a)Bildung und Wissenschaft, Kultur, Forschung und Technologie, Telekommunikation, b)Umwelt und Gesundheit, c)Ernährung, Landwirtschaft und Forsten, d)Entwicklungspolitik, nationale, internationale und supranationale Einrichtungen, e)Verteidigung. Bildung und Wissenschaft, Kultur, Forschung und Technologie, Telekommunikation, Umwelt und Gesundheit, Ernährung, Landwirtschaft und Forsten, Entwicklungspolitik, nationale, internationale und supranationale Einrichtungen, Verteidigung.
 
-a)
+4. Gewährleistung der politischen Verantwortung der Bundesregierung gegenüber dem Deutschen Bundestag und dem Bundesrat sowie der Funktionsfähigkeit der Bundesregierung und ihrer Behörden.
 
-b)
+5. Unterstützung der Bundeshauptstadt Berlin und der Bundesstadt Bonn bei den ihnen vom Bund zur Wahrnehmung der gesamtstaatlichen Repräsentation vereinbarungsgemäß übertragenen besonderen Aufgaben.
 
-c)
+6. Angemessener Ausgleich für die Region Bonn für die Verlagerung der Verfassungsorgane Deutscher Bundestag und Bundesregierung nach Berlin.
 
-d)
-
-e)
-
-4.
-
-5.
-
-6.
-
-7.
+7. Ausgleich entstehender Nachteile für die betroffenen Mitarbeiterinnen und Mitarbeiter, soweit dies erforderlich und angemessen ist.
 
 ### § 2 — Sitz des Deutschen Bundestages
 
@@ -88,13 +74,13 @@ e)
 
 (2) Insbesondere soll der Ausgleich realisiert werden in den Bereichen:
 
-1.
+1. Bonn als Wissenschaftsstandort,
 
-2.
+2. Bonn als Kulturstandort,
 
-3.
+3. Bonn als Standort für Entwicklungspolitik, nationale, internationale und supranationale Einrichtungen,
 
-4.
+4. Entwicklung Bonns zu einer Region mit zukunftsorientierter Wirtschaftsstruktur.
 
 (3) Der Bund soll darum bemüht sein, zusammen mit den betroffenen Ländern darauf hinzuwirken, daß in der Region Bonn durch die Ansiedlung ergänzender Einrichtungen Politikbereiche gebildet werden.
 
@@ -104,55 +90,55 @@ e)
 
 ### § 7 — Verlagerung von Einrichtungen des Bundes und Sitzfestlegungen
 
-(1) Die Gesetze, die die nachstehenden Bundesbehörden betreffen, werden wie folgt geändert: a) - k) ...
+(1) Die Gesetze, die die nachstehenden Bundesbehörden
 
-1.
+1. Bundeskartellamt,
 
-2.
+2. Bundesamt für Soziale Sicherung,
 
-3.
+3. Bundesaufsichtsamt für das Kreditwesen,
 
-4.
+4. Bundesaufsichtsamt für das Versicherungswesen,
 
-5.
+5. Bundesamt für Ernährung und Forstwirtschaft,
 
-6.
+6. Bundesanstalt für landwirtschaftliche Marktordnung,
 
-7.
+7. Bundesrechnungshof,
 
-8.
+8. Bundesinstitut für Berufsbildung,
 
-9.
+9. Bundesgesundheitsamt,
 
-10.
+10. Zentralstelle Postbank,
 
-11.
+11. Zentralstelle für Arbeitsvermittlung
 
 (2) Der Bund wird die Zentrale des Eisenbahn-Bundesamtes und die Hauptverwaltung des Bundeseisenbahnvermögens in der Bundesstadt Bonn ansiedeln sowie Teile folgender Bundeseinrichtungen nach Bonn verlagern:
 
-1.
+1. Bundesforschungsanstalt für Landeskunde und Raumordnung (Außenstelle Berlin),
 
-2.
+2. Bundesbaudirektion,
 
-3.
+3. Statistisches Bundesamt (Außenstelle Berlin),
 
-4.
+4. Bundesanstalt für Geowissenschaften und Rohstoffe (Außenstelle Berlin),
 
-5.
+5. Bundesamt für Strahlenschutz (Außenstelle Berlin).
 
 (3) Der Bund soll darum bemüht sein, daß folgende Einrichtungen ihren Sitz in der Bundesstadt Bonn nehmen:
 
-1.
+1. Deutsche Stiftung für internationale Entwicklung,
 
-2.
+2. Deutscher Entwicklungsdienst,
 
-3.
+3. Deutsches Institut für Entwicklungspolitik,
 
-4.
+4. Max-Planck-Institut für Bildungsforschung,
 
-5.
+5. Deutsche Gesellschaft für Ernährung,
 
-6.
+6. Pädagogische Arbeitsstelle des Deutschen Volkshochschulverbandes.
 
 (4) Die Sitzentscheidungen durch die durch Absatz 1 geänderten Gesetze sowie die Sitzfestlegungen und die Verlagerungen gemäß Absatz 2 werden mit dem Vollzug der Entscheidung über den Sitz der Bundesregierung gemäß § 3 Abs. 2 vollzogen.
 
@@ -168,11 +154,11 @@ e)
 
 Im Bundesgesetzblatt werden bekanntgegeben:
 
-1.
+1. die Feststellung nach § 2 Abs. 2 durch den Präsidenten des Deutschen Bundestages,
 
-2.
+2. der Zeitpunkt nach § 3 Abs. 2 durch den Bundeskanzler,
 
-3.
+3. der Zeitpunkt nach § 7 Abs. 4 durch das Bundesministerium für Raumordnung, Bauwesen und Städtebau.
 
 ### § 10 — Inkrafttreten
 

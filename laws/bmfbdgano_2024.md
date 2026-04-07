@@ -13,15 +13,15 @@ Auf Grund § 34 Absatz 5, § 42 Absatz 1 Satz 2 und § 84 Satz 2 des Bundesdiszi
 
 Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind außer der Bundesministerin der Finanzen oder dem Bundesminister der Finanzen
 
-1.
+1. die Präsidentin oder der Präsident der Generalzolldirektion,
 
-2.
+2. die Präsidentin oder der Präsident des Bundeszentralamtes für Steuern,
 
-3.
+3. die Direktorin oder der Direktor des Informationstechnikzentrums Bund,
 
-4.
+4. die Leiterinnen oder Leiter der Hauptzollämter,
 
-5.
+5. die Leiterinnen oder Leiter der Zollfahndungsämter.
 
 ### § 2 — Kürzung der Dienstbezüge
 

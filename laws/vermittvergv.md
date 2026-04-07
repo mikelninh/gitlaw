@@ -12,11 +12,23 @@ Auf Grund des § 301 des Dritten Buches Sozialgesetzbuch - Arbeitsförderung - (
 
 ### § 1 — Berufe und Personengruppen
 
-Für die Vermittlung in eine Tätigkeit als 1.Künstler, Artist, 2.Fotomodell, Werbetyp, Mannequin und Dressman, 3.Doppelgänger, Stuntman, Discjockey, 4.Berufssportler dürfen mit dem Arbeitnehmer Vergütungen vereinbart werden, die sich nach dem ihm zustehenden Arbeitsentgelt bemessen.
+Für die Vermittlung in eine Tätigkeit als dürfen mit dem Arbeitnehmer Vergütungen vereinbart werden, die sich nach dem ihm zustehenden Arbeitsentgelt bemessen.
+
+1.
+
+2.
+
+3.
+
+4.
 
 ### § 2 — Höhe der Vergütungen
 
-(1) Die Vergütung einschließlich der auf sie entfallenden Umsatzsteuer darf 14 vom Hundert des dem vermittelten Arbeitnehmer zustehenden Arbeitsentgelts nicht übersteigen. Bei der Vermittlung in Beschäftigungsverhältnisse mit einer Dauer von mehr als zwölf Monaten darf die Vergütung einschließlich der auf sie entfallenden Umsatzsteuer insgesamt 14 vom Hundert des dem vermittelten Arbeitnehmer zustehenden Arbeitsentgelts für zwölf Monate nicht übersteigen.(2) Bei der Vermittlung in Beschäftigungsverhältnisse bis zu einer Dauer von sieben Tagen darf die Vergütung einschließlich der auf sie entfallenden Umsatzsteuer 18 vom Hundert des dem vermittelten Arbeitnehmer zustehenden Arbeitsentgelts nicht übersteigen.(3) Die nach den Absätzen 1 und 2 zulässige Höhe der Vergütung darf auch dann nicht überschritten werden, wenn der Vermittler bei der Vermittlung mit einem anderen Vermittler zusammenarbeitet.
+(1) Die Vergütung einschließlich der auf sie entfallenden Umsatzsteuer darf 14 vom Hundert des dem vermittelten Arbeitnehmer zustehenden Arbeitsentgelts nicht übersteigen. Bei der Vermittlung in Beschäftigungsverhältnisse mit einer Dauer von mehr als zwölf Monaten darf die Vergütung einschließlich der auf sie entfallenden Umsatzsteuer insgesamt 14 vom Hundert des dem vermittelten Arbeitnehmer zustehenden Arbeitsentgelts für zwölf Monate nicht übersteigen.
+
+(2) Bei der Vermittlung in Beschäftigungsverhältnisse bis zu einer Dauer von sieben Tagen darf die Vergütung einschließlich der auf sie entfallenden Umsatzsteuer 18 vom Hundert des dem vermittelten Arbeitnehmer zustehenden Arbeitsentgelts nicht übersteigen.
+
+(3) Die nach den Absätzen 1 und 2 zulässige Höhe der Vergütung darf auch dann nicht überschritten werden, wenn der Vermittler bei der Vermittlung mit einem anderen Vermittler zusammenarbeitet.
 
 ### § 3 — Übergangsregelung
 

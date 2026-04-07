@@ -11,7 +11,9 @@ Auf Grund des § 6 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931
 
 ### § 6 — Bestehende Berufsausbildungsverhältnisse
 
-(1) (weggefallen)(2) Auf Berufsausbildungsverhältnisse, die bis zum Ablauf des 31. Juli 2015 begonnen werden, sind die Vorschriften dieser Verordnung weiter anzuwenden.
+(1) (weggefallen)
+
+(2) Auf Berufsausbildungsverhältnisse, die bis zum Ablauf des 31. Juli 2015 begonnen werden, sind die Vorschriften dieser Verordnung weiter anzuwenden.
 
 ### § 7 — Inkrafttreten, Außerkrafttreten
 

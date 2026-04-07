@@ -12,19 +12,19 @@
 
 Für dieses Gesetz gelten folgende Begriffsbestimmungen:
 
-1.
+1. Bereinigungsgesetz ist das Gesetz zur Bereinigung von deutschen Schuldverschreibungen, die auf ausländische Währung lauten (Bereinigungsgesetz für deutsche Auslandsbonds - AuslWBG) vom 25. August 1952 (Bundesgesetzbl. I S. 553);
 
-2.
+2. Entschädigungsansprüche sind die Entschädigungsansprüche aus Feststellungsbescheiden nach § 53 AuslWBG und für Tilgungsstücke nach § 54 AuslWBG;
 
-3.
+3. Entschädigungsberechtigte sind Personen, denen nach §§ 53, 54 AuslWBG Entschädigungsansprüche zustehen;
 
-4.
+4. Schuldenabkommen ist das Abkommen vom 27. Februar 1953 über deutsche Auslandsschulden (Bundesgesetzbl. II S. 331);
 
-5.
+5. Ausführungsgesetz zum Schuldenabkommen ist das Gesetz zur Ausführung des Abkommens vom 27. Februar 1953 über deutsche Auslandsschulden vom 24. August 1953 (Bundesgesetzbl. I S. 1003);
 
-6.
+6. Regelungsangebot ist ein dem Artikel 3 Buchstabe g des Schuldenabkommens entsprechendes Regelungsangebot; als Regelungsangebot im Sinne dieses Gesetzes gilt auch ein Angebot nach Anlage I des Schuldenabkommens;
 
-7.
+7. Umtauschstücke sind Wertpapiere, die im Umtausch gegen die bei Annahme des Regelungsangebotes eingereichten Auslandsbonds ausgegeben worden sind, sowie Auslandsbonds, denen die Regelungsbedingungen nach Annahme des Regelungsangebotes aufgedruckt worden sind (Artikel 15 Abs. 2 Buchstabe a Nr. i und ii des Schuldenabkommens).
 
 ### § 2 — Geltung des Bereinigungsgesetzes
 
@@ -164,8 +164,6 @@ Auf die in § 52 AuslWBG genannten Entschädigungsansprüche für kraftlos gewor
 
 ### § 20 — Vorschriften für die in den Niederlanden begebenen
 Auslandsbonds
-
-(1) Die in § 21 Abs. 1 Satz 2 AuslWBG bezeichnete Frist für Anmeldungen beim Auslandsbevollmächtigten wird für die Arten von Auslandsbonds, als deren Begebungsland im Verzeichnis der Auslandsbonds (Anlage zu § 1 Abs. 1 AuslWBG, ergänzt durch § 1 der Ersten Durchführungsverordnung zum Bereinigungsgesetz vom 21. Februar 1953 - Bundesgesetzbl. I S. 31 - und durch § 1 der Neunten Durchführungsverordnung zum Bereinigungsgesetz vom 16. August 1954 - Bundesgesetzbl. I S. 267) die Niederlande angegeben sind, bis zum Ablauf eines Monats nach dem Inkrafttreten dieses Gesetzes verlängert.
 
 (2) Die Fristverlängerung nach Absatz 1 gilt auch für Anmeldungen bei der Prüfstelle, wenn die Anerkennung eines Auslandsbonds beansprucht wird (§ 37 Abs. 1 Nr. 1 AuslWBG), nicht jedoch, wenn ein Feststellungsbescheid beansprucht wird (§ 37 Abs. 1 Nr. 2 AuslWBG).
 

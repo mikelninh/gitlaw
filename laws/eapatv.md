@@ -34,13 +34,9 @@ Für das Verfahren vor dem Deutschen Patent- und Markenamt gelten die Regelungen
 
 (3) Eine Niederschrift oder ein Beschluss des Deutschen Patent- und Markenamts wird unterzeichnet, indem
 
-1.
+1. der Name der unterzeichnenden Person oder der unterzeichnenden Personen eingefügt wird und
 
-2.
-
-a)
-
-b)
+2. das Dokument versehen wird a)mit einer fortgeschrittenen Signatur nach Artikel 3 Nummer 11 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73) oderb)mit einer qualifizierten elektronischen Signatur nach Artikel 3 Nummer 12 der Verordnung (EU) Nr. 910/2014. mit einer fortgeschrittenen Signatur nach Artikel 3 Nummer 11 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73) oder mit einer qualifizierten elektronischen Signatur nach Artikel 3 Nummer 12 der Verordnung (EU) Nr. 910/2014.
 
 ### § 6 — Form der Ausfertigungen und Abschriften
 
@@ -48,9 +44,9 @@ b)
 
 (2) Wird die Abschrift eines elektronischen Dokuments gefertigt, das mit einem Herkunftsnachweis nach § 5 Absatz 3 versehen ist, genügt es, in den Ausdruck folgende Informationen aufzunehmen:
 
-1.
+1. den Namen der Person, die das Dokument unterzeichnet hat, und
 
-2.
+2. den Tag, an dem das Dokument mit einer elektronischen Signatur versehen wurde.
 
 (3) Wird eine Ausfertigung eines elektronischen Dokuments gefertigt, ist in den Ausdruck zusätzlich zu den Angaben nach Absatz 2 der Hinweis aufzunehmen, dass die Ausfertigung elektronisch erstellt worden ist und daher nicht unterschrieben ist.
 

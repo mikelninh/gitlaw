@@ -26,9 +26,9 @@
 
 (1) Tierarten, die dem Jagdrecht unterliegen, sind:
 
-1.
+1. Haarwild: Wisent (Bison bonasus L.), Elchwild (Alces alces L.), Rotwild (Cervus elaphus L.), Damwild (Dama dama L.), Sikawild (Cervus nippon TEMMINCK), Rehwild (Capreolus capreolus L.), Gamswild (Rupicapra rupicapra L.), Steinwild (Capra ibex L.), Muffelwild (Ovis ammon musimon PALLAS), Schwarzwild (Sus scrofa L.), Feldhase (Lepus europaeus PALLAS), Schneehase (Lepus timidus L.), Wildkaninchen (Oryctolagus cuniculus L.), Murmeltier (Marmota marmota L.), Wolf (Canis lupus L.), Wildkatze (Felis silvestris SCHREBER), Luchs (Lynx lynx L.), Fuchs (Vulpes vulpes L.), Steinmarder (Martes foina ERXLEBEN), Baummarder (Martes martes L.), Iltis (Mustela putorius L.), Hermelin (Mustela erminea L.), Mauswiesel (Mustela nivalis L.), Dachs (Meles meles L.), Fischotter (Lutra lutra L.), Seehund (Phoca vitulina L.);
 
-2.
+2. Federwild: Rebhuhn (Perdix perdix L.), Fasan (Phasianus colchicus L.), Wachtel (Coturnix coturnix L.), Auerwild (Tetrao urogallus L.), Birkwild (Lyrurus tetrix L.), Rackelwild (Lyrus tetrix x Tetrao urogallus), Haselwild (Tetrastes bonasia L.), Alpenschneehuhn (Lagopus mutus MONTIN), Wildtruthuhn (Meleagris gallopavo L.), Wildtauben (Columbidae), Höckerschwan (Cygnus olor GMEL.), Wildgänse (Gattungen Anser BRISSON und Branta SCOPOLI), Wildenten (Anatinae), Säger (Gattung Mergus L.), Waldschnepfe (Scolopax rusticola L.), Bläßhuhn (Fulica atra L.), Möwen (Laridae), Haubentaucher (Podiceps cristatus L.), Großtrappe (Otis tarda L.), Graureiher (Ardea cinerea L.), Greife (Accipitridae), Falken (Falconidae), Kolkrabe (Corvus corax L.).
 
 (2) Die Länder können weitere Tierarten bestimmen, die dem Jagdrecht unterliegen.
 
@@ -62,43 +62,39 @@ Auf Grundflächen, die zu keinem Jagdbezirk gehören, und in befriedeten Bezirke
 
 ### § 6a — Befriedung von Grundflächen aus ethischen Gründen
 
-(1) Grundflächen, die zu einem gemeinschaftlichen Jagdbezirk gehören und im Eigentum einer natürlichen Person stehen, sind auf Antrag des Grundeigentümers zu befriedeten Bezirken zu erklären (Befriedung), wenn der Grundeigentümer glaubhaft macht, dass er die Jagdausübung aus ethischen Gründen ablehnt. Eine Befriedung ist zu versagen, soweit Tatsachen die Annahme rechtfertigen, dass ein Ruhen der Jagd auf der vom Antrag umfassten Fläche bezogen auf den gesamten jeweiligen Jagdbezirk die Belange gefährdet. Ethische Gründe nach Satz 1 liegen insbesondere nicht vor, wenn der Antragsteller Der Antrag ist schriftlich oder zur Niederschrift bei der zuständigen Behörde zu stellen. Der Entscheidung über den Antrag hat neben der Anhörung des Antragstellers eine Anhörung der Jagdgenossenschaft, des Jagdpächters, angrenzender Grundeigentümer, des Jagdbeirats sowie der Träger öffentlicher Belange vorauszugehen.
+(1) Grundflächen, die zu einem gemeinschaftlichen Jagdbezirk gehören und im Eigentum einer natürlichen Person stehen, sind auf Antrag des Grundeigentümers zu befriedeten Bezirken zu erklären (Befriedung), wenn der Grundeigentümer glaubhaft macht, dass er die Jagdausübung aus ethischen Gründen ablehnt. Eine Befriedung ist zu versagen, soweit Tatsachen die Annahme rechtfertigen, dass ein Ruhen der Jagd auf der vom Antrag umfassten Fläche bezogen auf den gesamten jeweiligen Jagdbezirk die Belange
 
-1.
+1. der Erhaltung eines artenreichen und gesunden Wildbestandes sowie der Pflege und Sicherung seiner Lebensgrundlagen,
 
-2.
+2. des Schutzes der Land-, Forst- und Fischereiwirtschaft vor übermäßigen Wildschäden,
 
-3.
+3. des Naturschutzes und der Landschaftspflege,
 
-4.
+4. des Schutzes vor Tierseuchen oder
 
-5.
-
-1.
-
-2.
+5. der Abwendung sonstiger Gefahren für die öffentliche Sicherheit und Ordnung
 
 (2) Die Befriedung soll mit Wirkung zum Ende des Jagdpachtvertrages erfolgen. Sofern dies dem Antragsteller unter Abwägung mit den schutzwürdigen Belangen der Jagdgenossenschaft nicht zuzumuten ist, kann die Behörde einen früheren Zeitpunkt, der jedoch nicht vor Ende des Jagdjahres liegt, bestimmen. In den Fällen des Satzes 2 kann die Jagdgenossenschaft vom Grundeigentümer den Ersatz des Schadens verlangen, der ihr durch die vorzeitige Befriedung entsteht.
 
 (3) Die Befriedung kann räumlich auf einen Teil der Antragsfläche sowie zeitlich beschränkt werden, soweit dies zur Wahrung der Belange nach Absatz 1 Satz 2 erforderlich ist.
 
-(4) Die Befriedung erlischt vorbehaltlich der Sätze 2 und 3 drei Monate nach Übergang des Eigentums an der befriedeten Grundfläche auf einen Dritten. Stellt der Dritte während des Laufs der Frist nach Satz 1 einen Antrag auf erneute Befriedung, so erlischt die bestehende Befriedung mit dem Wirksamwerden der behördlichen Entscheidung über den Antrag. Verzichtet der Dritte vor Ablauf der Frist nach Satz 1 auf einen Antrag auf erneute Befriedung, so erlischt die bestehende Befriedung mit dem Zugang der Verzichtserklärung bei der zuständigen Behörde. Der Grundeigentümer hat den Eigentumswechsel der zuständigen Behörde anzuzeigen. Die Befriedung ist zu widerrufen, wenn Die Befriedung ist in der Regel zu widerrufen, wenn Tatsachen bekannt werden, die den Anspruch auf Erklärung zum befriedeten Bezirk entfallen lassen. Die Befriedung ist unter den Vorbehalt des Widerrufs zu stellen für den Fall, dass ein oder mehrere weitere begründete Anträge auf Befriedung in demselben Jagdbezirk gestellt werden und nicht allen Anträgen insgesamt ohne Gefährdung der Belange nach Absatz 1 Satz 2 stattgegeben werden kann. Im Übrigen gelten die verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und Widerruf von Verwaltungsakten.
+(4) Die Befriedung erlischt vorbehaltlich der Sätze 2 und 3 drei Monate nach Übergang des Eigentums an der befriedeten Grundfläche auf einen Dritten. Stellt der Dritte während des Laufs der Frist nach Satz 1 einen Antrag auf erneute Befriedung, so erlischt die bestehende Befriedung mit dem Wirksamwerden der behördlichen Entscheidung über den Antrag. Verzichtet der Dritte vor Ablauf der Frist nach Satz 1 auf einen Antrag auf erneute Befriedung, so erlischt die bestehende Befriedung mit dem Zugang der Verzichtserklärung bei der zuständigen Behörde. Der Grundeigentümer hat den Eigentumswechsel der zuständigen Behörde anzuzeigen. Die Befriedung ist zu widerrufen, wenn
 
-1.
+1. der Grundeigentümer schriftlich gegenüber der zuständigen Behörde den Verzicht auf die Befriedung erklärt oder
 
-2.
+2. der Grundeigentümer die Jagd ausübt, einen Jagdschein löst oder die Ausübung der Jagd durch Dritte auf einem ihm gehörenden Grundstück duldet.
 
-(5) Die zuständige Behörde kann eine beschränkte Jagdausübung auf den für befriedet erklärten Grundflächen anordnen, soweit dies erforderlich ist  Widerspruch und Klage gegen die Anordnung haben keine aufschiebende Wirkung. Kommt der Grundeigentümer der Anordnung nicht nach, so kann die zuständige Behörde für dessen Rechnung die Jagd ausüben lassen.
+(5) Die zuständige Behörde kann eine beschränkte Jagdausübung auf den für befriedet erklärten Grundflächen anordnen, soweit dies erforderlich ist
 
-1.
+1. zur Vermeidung übermäßiger Wildschäden,
 
-2.
+2. zur Vermeidung der Gefahr von Tierseuchen,
 
-3.
+3. aus Gründen des Naturschutzes oder des Tierschutzes, der Seuchenhygiene, zur Gewährleistung der Sicherheit des Verkehrs auf öffentlichen Verkehrswegen oder zur Abwendung sonstiger Gefahren für die öffentliche Sicherheit und Ordnung,
 
-4.
+4. zur Abwendung ernster land-, forst-, fischerei- oder wasserwirtschaftlicher oder sonstiger ernster wirtschaftlicher Schäden oder
 
-5.
+5. im Interesse der Gesundheit des Menschen.
 
 (6) Wildschäden an Grundstücken, die zum gemeinschaftlichen Jagdbezirk gehören, hat der Grundeigentümer der befriedeten Grundfläche nach dem Verhältnis des Flächenanteils seiner Grundfläche an der Gesamtfläche des gemeinschaftlichen Jagdbezirks anteilig zu ersetzen. Dies gilt nicht, sofern das schädigende Wild auf der befriedeten Grundfläche nicht vorkommt oder der Schaden auch ohne die Befriedung der Grundfläche eingetreten wäre.
 
@@ -225,8 +221,6 @@ Sind mehrere Pächter an einem Jagdpachtvertrag beteiligt (Mitpächter), so blei
 
 (7) Die erste Erteilung eines Falknerjagdscheines ist davon abhängig, daß der Bewerber im Geltungsbereich dieses Gesetzes zusätzlich zur Jägerprüfung eine Falknerprüfung bestanden hat; er muß darin ausreichende Kenntnisse des Haltens, der Pflege und des Abtragens von Beizvögeln, des Greifvogelschutzes sowie der Beizjagd nachweisen. Für Bewerber, die vor dem 1. April 1977 mindestens fünf Falknerjagdscheine besessen haben, entfällt die Jägerprüfung; gleiches gilt für Bewerber, die vor diesem Zeitpunkt mindestens fünf Jahresjagdscheine besessen und während deren Geltungsdauer die Beizjagd ausgeübt haben. Das Nähere hinsichtlich der Erteilung des Falknerjagdscheines regeln die Länder. Eine vor dem Tag des Wirksamwerdens des Beitritts in der Deutschen Demokratischen Republik abgelegte Jagdprüfung für Falkner steht der Falknerprüfung im Sinne des Satzes 1 gleich.
 
-> § 15 Abs. 7 Satz 1 iVm Abs. 5 Satz 1: Nach Maßgabe der Entscheidungsformel mit GG unvereinbar und nichtig, BVerfGE v. 5.11.1980; 1981 I 41 - 1 BvR 290/78 -
-
 ### § 16 — Jugendjagdschein
 
 (1) Personen, die das sechzehnte Lebensjahr vollendet haben, aber noch nicht achtzehn Jahre alt sind, darf nur ein Jugendjagdschein erteilt werden.
@@ -239,51 +233,43 @@ Sind mehrere Pächter an einem Jagdpachtvertrag beteiligt (Mitpächter), so blei
 
 ### § 17 — Versagung des Jagdscheines
 
-(1) Der Jagdschein ist zu versagen Die zuständige Behörde hat bei der nach § 48 Absatz 1 Satz 1 und Absatz 2 des Waffengesetzes für die Ausführung des Waffengesetzes zuständigen Behörde (Waffenbehörde) eine Auskunft einzuholen, ob die Zuverlässigkeit und die persönliche Eignung im Sinne der §§ 5 und 6 des Waffengesetzes gegeben sind. Die Waffenbehörde teilt der Jagdbehörde das Ergebnis der Prüfung der Zuverlässigkeit und der persönlichen Eignung sowie tragende Gründe mit. Fehlen die Zuverlässigkeit oder die persönliche Eignung im Sinne der §§ 5 und 6 des Waffengesetzes, darf nur ein Jagdschein nach § 15 Abs. 7 erteilt werden.
+(1) Der Jagdschein ist zu versagen
 
-1.
+1. Personen, die noch nicht sechzehn Jahre alt sind;
 
-2.
+2. Personen, bei denen Tatsachen die Annahme rechtfertigen, daß sie die erforderliche Zuverlässigkeit oder körperliche Eignung nicht besitzen;
 
-3.
+3. Personen, denen der Jagdschein entzogen ist, während der Dauer der Entziehung oder einer Sperre (§§ 18, 41 Abs. 2);
 
-4.
+4. Personen, die keine ausreichende Jagdhaftpflichtversicherung (fünfhunderttausend Euro für Personenschäden und fünfzigtausend Euro für Sachschäden) nachweisen; die Versicherung kann nur bei einem Versicherungsunternehmen mit Sitz in der Europäischen Union oder mit Niederlassung im Geltungsbereich des Versicherungsaufsichtsgesetzes genommen werden; die Länder können den Abschluß einer Gemeinschaftsversicherung ohne Beteiligungszwang zulassen.
 
 (2) Der Jagdschein kann versagt werden
 
-1.
+1. Personen, die noch nicht achtzehn Jahre alt sind;
 
-2.
+2. Personen, die nicht Deutsche im Sinne des Artikels 116 des Grundgesetzes sind;
 
-3.
+3. Personen, die nicht mindestens drei Jahre ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt ununterbrochen im Geltungsbereich dieses Gesetzes haben;
 
-4.
+4. Personen, die gegen die Grundsätze des § 1 Abs. 3 schwer oder wiederholt verstoßen haben.
 
 (3) Die erforderliche Zuverlässigkeit besitzen Personen nicht, wenn Tatsachen die Annahme rechtfertigen, daß sie
 
-1.
+1. Waffen oder Munition mißbräuchlich oder leichtfertig verwenden werden;
 
-2.
+2. mit Waffen oder Munition nicht vorsichtig und sachgemäß umgehen und diese Gegenstände nicht sorgfältig verwahren werden;
 
-3.
+3. Waffen oder Munition an Personen überlassen werden, die zur Ausübung der tatsächlichen Gewalt über diese Gegenstände nicht berechtigt sind.
 
 (4) Die erforderliche Zuverlässigkeit besitzen in der Regel Personen nicht, die
 
-1.
+1. a)wegen eines Verbrechens,b)wegen eines vorsätzlichen Vergehens, das eine der Annahmen im Sinne des Absatzes 3 Nr. 1 bis 3 rechtfertigt,c)wegen einer fahrlässigen Straftat im Zusammenhang mit dem Umgang mit Waffen, Munition oder Sprengstoff,d)wegen einer Straftat gegen jagdrechtliche, tierschutzrechtliche oder naturschutzrechtliche Vorschriften, das Waffengesetz, das Gesetz über die Kontrolle von Kriegswaffen oder das Sprengstoffgesetz wegen eines Verbrechens, wegen eines vorsätzlichen Vergehens, das eine der Annahmen im Sinne des Absatzes 3 Nr. 1 bis 3 rechtfertigt, wegen einer fahrlässigen Straftat im Zusammenhang mit dem Umgang mit Waffen, Munition oder Sprengstoff, wegen einer Straftat gegen jagdrechtliche, tierschutzrechtliche oder naturschutzrechtliche Vorschriften, das Waffengesetz, das Gesetz über die Kontrolle von Kriegswaffen oder das Sprengstoffgesetz zu einer Freiheitsstrafe, Jugendstrafe, Geldstrafe von mindestens 60 Tagessätzen oder mindestens zweimal zu einer geringeren Geldstrafe rechtskräftig verurteilt worden sind, wenn seit dem Eintritt der Rechtskraft der letzten Verurteilung fünf Jahre nicht verstrichen sind; in die Frist wird die Zeit eingerechnet, die seit der Vollziehbarkeit des Widerrufs oder der Rücknahme eines Jagdscheines oder eines Waffenbesitzverbotes nach § 41 des Waffengesetzes wegen der Tat, die der letzten Verurteilung zugrunde liegt, verstrichen ist; in die Frist nicht eingerechnet wird die Zeit, in welcher der Beteiligte auf behördliche oder richterliche Anordnung in einer Anstalt verwahrt worden ist;
 
-a)
+2. wiederholt oder gröblich gegen eine in Nummer 1 Buchstabe d genannte Vorschrift verstoßen haben;
 
-b)
+3. geschäftsunfähig oder in der Geschäftsfähigkeit beschränkt sind;
 
-c)
-
-d)
-
-2.
-
-3.
-
-4.
+4. trunksüchtig, rauschmittelsüchtig, geisteskrank oder geistesschwach sind.
 
 (5) Ist ein Verfahren nach Absatz 4 Nr. 1 noch nicht abgeschlossen, so kann die zuständige Behörde die Entscheidung über den Antrag auf Erteilung des Jagdscheines bis zum rechtskräftigen Abschluß des Verfahrens aussetzen. Die Zeit der Aussetzung des Verfahrens ist in die Frist nach Absatz 4 Nr. 1 erster Halbsatz einzurechnen.
 
@@ -303,53 +289,41 @@ Die erstmalige Erteilung oder Verlängerung einer Erlaubnis nach den §§ 15 und
 
 (1) Verboten ist
 
-1.
+1. mit Schrot, Posten, gehacktem Blei, Bolzen oder Pfeilen, auch als Fangschuss, auf Schalenwild, Wölfe und Seehunde zu schießen; das Verbot umfasst nicht das Töten von in Fallen gefangenen Wölfen mit Schrot und den Fangschuss auf Wölfe mit Schrot;
 
-2.
+2. a)auf Rehwild und Seehunde mit Büchsenpatronen zu schießen, deren Auftreffenergie auf 100 m (E 100) weniger als 1 000 Joule beträgt;b)auf alles übrige Schalenwild und auf Wölfe mit Büchsenpatronen unter einem Kaliber von 6,5 mm zu schießen; im Kaliber 6,5 mm und darüber müssen die Büchsenpatronen eine Auftreffenergie auf 100 m (E 100) von mindestens 2 000 Joule haben;c)mit halbautomatischen Langwaffen, die mit insgesamt mehr als drei Patronen geladen sind, sowie mit automatischen Waffen auf Wild zu schießen;d)auf Wild mit Pistolen oder Revolvern zu schießen, ausgenommen im Falle der Bau- und Fallenjagd sowie zur Abgabe von Fangschüssen, wenn die Mündungsenergie der Geschosse mindestens 200 Joule beträgt; auf Rehwild und Seehunde mit Büchsenpatronen zu schießen, deren Auftreffenergie auf 100 m (E 100) weniger als 1 000 Joule beträgt; auf alles übrige Schalenwild und auf Wölfe mit Büchsenpatronen unter einem Kaliber von 6,5 mm zu schießen; im Kaliber 6,5 mm und darüber müssen die Büchsenpatronen eine Auftreffenergie auf 100 m (E 100) von mindestens 2 000 Joule haben; mit halbautomatischen Langwaffen, die mit insgesamt mehr als drei Patronen geladen sind, sowie mit automatischen Waffen auf Wild zu schießen; auf Wild mit Pistolen oder Revolvern zu schießen, ausgenommen im Falle der Bau- und Fallenjagd sowie zur Abgabe von Fangschüssen, wenn die Mündungsenergie der Geschosse mindestens 200 Joule beträgt;
 
-a)
+3. die Lappjagd innerhalb einer Zone von 300 Metern von der Bezirksgrenze, die Jagd durch Abklingeln der Felder und die Treibjagd bei Mondschein auszuüben;
 
-b)
+4. Schalenwild, ausgenommen Schwarzwild, sowie Federwild zur Nachtzeit zu erlegen; als Nachtzeit gilt die Zeit von eineinhalb Stunden nach Sonnenuntergang bis eineinhalb Stunden vor Sonnenaufgang; das Verbot umfaßt nicht die Jagd auf Möwen, Waldschnepfen, Auer-, Birk- und Rackelwild;
 
-c)
+5. a)künstliche Lichtquellen, Spiegel, Vorrichtungen zum Anstrahlen oder Beleuchten des Zieles, Nachtzielgeräte, die einen Bildwandler oder eine elektronische Verstärkung besitzen und für Schußwaffen bestimmt sind, Tonbandgeräte oder elektrische Schläge erteilende Geräte beim Fang oder Erlegen von Wild aller Art zu verwenden oder zu nutzen sowie zur Nachtzeit an Leuchttürmen oder Leuchtfeuern Federwild zu fangen;b)Vogelleim, Fallen, Angelhaken, Netze, Reusen oder ähnliche Einrichtungen sowie geblendete oder verstümmelte Vögel beim Fang oder Erlegen von Federwild zu verwenden; künstliche Lichtquellen, Spiegel, Vorrichtungen zum Anstrahlen oder Beleuchten des Zieles, Nachtzielgeräte, die einen Bildwandler oder eine elektronische Verstärkung besitzen und für Schußwaffen bestimmt sind, Tonbandgeräte oder elektrische Schläge erteilende Geräte beim Fang oder Erlegen von Wild aller Art zu verwenden oder zu nutzen sowie zur Nachtzeit an Leuchttürmen oder Leuchtfeuern Federwild zu fangen; Vogelleim, Fallen, Angelhaken, Netze, Reusen oder ähnliche Einrichtungen sowie geblendete oder verstümmelte Vögel beim Fang oder Erlegen von Federwild zu verwenden;
 
-d)
+6. Belohnungen für den Abschuß oder den Fang von Federwild auszusetzen, zu geben oder zu empfangen;
 
-3.
+7. Saufänge, Fang- oder Fallgruben ohne Genehmigung der zuständigen Behörde anzulegen;
 
-4.
+8. Schlingen jeder Art, in denen sich Wild fangen kann, herzustellen, feilzubieten, zu erwerben oder aufzustellen;
 
-5.
+9. Fanggeräte, die nicht unversehrt fangen oder nicht sofort töten, sowie Selbstschußgeräte zu verwenden;
 
-a)
+10. in Notzeiten Schalenwild in einem Umkreis von 200 Metern von Fütterungen zu erlegen;
 
-b)
+11. Wild aus Luftfahrzeugen, Kraftfahrzeugen oder maschinengetriebenen Wasserfahrzeugen zu erlegen; das Verbot umfaßt nicht das Erlegen von Wild aus Kraftfahrzeugen durch Körperbehinderte mit Erlaubnis der zuständigen Behörde;
 
-6.
+12. die Netzjagd auf Seehunde auszuüben;
 
-7.
+13. die Hetzjagd auf Wild auszuüben;
 
-8.
+14. die Such- und Treibjagd auf Waldschnepfen im Frühjahr auszuüben;
 
-9.
+15. Wild zu vergiften oder vergiftete oder betäubende Köder zu verwenden;
 
-10.
+16. die Brackenjagd auf einer Fläche von weniger als 1 000 Hektar auszuüben;
 
-11.
+17. Abwurfstangen ohne schriftliche Erlaubnis des Jagdausübungsberechtigten zu sammeln;
 
-12.
-
-13.
-
-14.
-
-15.
-
-16.
-
-17.
-
-18.
+18. eingefangenes oder aufgezogenes Wild später als vier Wochen vor Beginn der Jagdausübung auf dieses Wild auszusetzen.
 
 (2) Die Länder können die Vorschriften des Absatzes 1 mit Ausnahme der Nummer 16 erweitern oder aus besonderen Gründen einschränken; soweit Federwild betroffen ist, ist die Einschränkung nur aus den in Artikel 9 Absatz 1 der Richtlinie 2009/147/EG des Europäischen Parlaments und des Rates vom 30. November 2009 über die Erhaltung der wildlebenden Vogelarten (ABl. L 20 vom 26.1.2010, S. 7) in der jeweils geltenden Fassung genannten Gründen und nach den in Artikel 9 Absatz 2 der Richtlinie 2009/147/EG genannten Maßgaben zulässig.
 
@@ -375,8 +349,6 @@ Verboten ist, Wild, insbesondere soweit es in seinem Bestand gefährdet oder bed
 
 (4) Den Abschuß in den Staatsforsten regeln die Länder.
 
-> § 21 Abs. 2 idF d. Bek. v. 29.9.1976 I 2849: Baden-Württemberg - Abweichung durch § 27 Abs. 8 des Landesjagdgesetzes (LJagdG) idF d. G v. 11.10.2007 GBl. BW 2007, 473 mWv 1.4.2007 § 21 Abs. 2 idF d. Bek. v. 29.9.1976 I 2849: Nordrhein-Westfalen - Abweichung durch § 22 Abs. 14 des Landesjagdgesetzes (LJG-NRW) idF d. G v. 19.6.2007 GV. NRW 2007, 226 mWv 5.7.2007 § 21 Abs. 2 Satz 1 idF d. Bek. v. 29.9.1976 I 2849: Sachsen-Anhalt - Abweichung  durch § 26 Abs. 1 Satz 2 u. Abs. 9 des Landesjagdgesetzes für Sachsen-Anhalt (LJagdG) v. 23.7.1991 GVBl. LSA S 186, zuletzt geändert durch Art. 1 des G v. 18.1.2011 GVBl. LSA S. 6 mWv 1.2.2011 (vgl. BGBl. I 2011, 1943)
-
 ### § 22 — Jagd- und Schonzeiten
 
 (1) Nach den in § 1 Abs. 2 bestimmten Grundsätzen der Hege bestimmt das Bundesministerium durch Rechtsverordnung mit Zustimmung des Bundesrates die Zeiten, in denen die Jagd auf Wild ausgeübt werden darf (Jagdzeiten). Außerhalb der Jagdzeiten ist Wild mit der Jagd zu verschonen (Schonzeiten). Die Länder können die Jagdzeiten abkürzen oder aufheben; sie können die Schonzeiten für bestimmte Gebiete oder für einzelne Jagdbezirke aus besonderen Gründen, insbesondere aus Gründen der Wildseuchenbekämpfung und Landeskultur, zur Beseitigung kranken oder kümmernden Wildes, zur Vermeidung von übermäßigen Wildschäden, zu wissenschaftlichen, Lehr- und Forschungszwecken, bei Störung des biologischen Gleichgewichts oder der Wildhege aufheben. Für den Lebendfang von Wild können die Länder in Einzelfällen Ausnahmen von Satz 2 zulassen.
@@ -386,8 +358,6 @@ Verboten ist, Wild, insbesondere soweit es in seinem Bestand gefährdet oder bed
 (3) Aus Gründen der Landeskultur können Schonzeiten für Wild gänzlich versagt werden (Wild ohne Schonzeit).
 
 (4) In den Setz- und Brutzeiten dürfen bis zum Selbständigwerden der Jungtiere die für die Aufzucht notwendigen Elterntiere, auch die von Wild ohne Schonzeit, nicht bejagt werden. Die Länder können für Schwarzwild, Wildkaninchen, Fuchs, Ringel- und Türkentaube, Silber- und Lachmöwe sowie für nach Landesrecht dem Jagdrecht unterliegende Tierarten aus den in Absatz 2 Satz 2 und Absatz 3 genannten Gründen sowie zur Bekämpfung von Tierseuchen Ausnahmen bestimmen. Die nach Landesrecht zuständige Behörde kann im Einzelfall das Aushorsten von Nestlingen und Ästlingen der Habichte für Beizzwecke aus den in Artikel 9 Absatz 1 Buchstabe c der Richtlinie 2009/147/EG genannten Gründen und nach den in Artikel 9 Absatz 2 der Richtlinie 2009/147/EG genannten Maßgaben genehmigen. Das Ausnehmen der Gelege von Federwild ist verboten. Die Länder können zulassen, daß Gelege in Einzelfällen zu wissenschaftlichen, Lehr- und Forschungszwecken oder für Zwecke der Aufzucht ausgenommen werden. Die Länder können ferner das Sammeln der Eier von Ringel- und Türkentauben sowie von Silber- und Lachmöwen aus den in Artikel 9 Absatz 1 der Richtlinie 2009/147/EG genannten Gründen und nach den in Artikel 9 Absatz 2 der Richtlinie 2009/147/EG genannten Maßgaben erlauben.
-
-> § 22 Abs. 1 idF d. Bek. v. 29.9.1976 I 2849: Nordrhein-Westfalen - Abweichung durch § 1 der Landesjagdzeitenverordnung für Nordrhein-Westfalen (JagdzeitV NW 2015)v. 28.5.2015 GV. NRW S 468 mWv 29.5.2015 (vgl. BGBl. I 2015, 1040) § 22 Abs. 1 Satz 1 idF d. Bek. v. 29.9.1976 I 2849: Sachsen-Anhalt - Abweichung durch § 27 Abs. 1 Nr. 4 des Landesjagdgesetzes für Sachsen-Anhalt (LJagdG)v. 23.7.1991 GVBl. LSA S 186, zuletzt geändert durch Art. 1 des G v. 18.1.2011 GVBl. LSA S. 6 mWv 1.2.2011 (vgl. BGBl. I 2011, 1943)
 
 ### § 22a — Verhinderung von vermeidbaren Schmerzen oder Leiden
 des Wildes
@@ -402,31 +372,31 @@ des Wildes
 
 (1) Wenn sich die Tierart Wolf nicht in einem günstigen Erhaltungszustand im Sinne von Artikel 1 Buchstabe i der Richtlinie 92/43/EWG in der Fassung vom 17. Juni 2025 befindet (ungünstiger Erhaltungszustand), ergreift die zuständige Behörde die notwendigen Maßnahmen, um den Erhaltungszustand der Tierart Wolf so weit zu verbessern, dass deren Population künftig dauerhaft einen günstigen Erhaltungszustand erreichen kann. Als Maßnahmen nach Satz 1 können insbesondere ergriffen werden:
 
-1.
+1. eine zeitliche oder räumliche Beschränkung der Jagd auf den Wolf,
 
-2.
+2. eine Beschränkung der Anzahl der erlegbaren Wölfe,
 
-3.
+3. ein Verbot der Jagd auf den Wolf,
 
-4.
+4. die Einführung eines Genehmigungssystems für die Jagd auf den Wolf.
 
 (2) Das Bundesministerium für Landwirtschaft, Ernährung und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Näheres zur Durchführung des Absatzes 1 zu bestimmen, insbesondere hinsichtlich der Anforderungen an die zu ergreifenden Maßnahmen.
 
 ### § 22c — Zusätzliche Verbote in Bezug auf die Tierart Wolf
 
-(1) Es ist verboten, Ausgenommen von Satz 1 sind Maßnahmen der zuständigen Behörde.
+(1) Es ist verboten,
 
-1.
+1. wildlebende Wölfe zu füttern oder
 
-2.
+2. kranke oder verletzte Wölfe aufzunehmen, um sie gesundzupflegen.
 
 (2) Über § 19 Absatz 1 hinaus ist es verboten, bei der Jagd auf Wölfe Folgendes zu verwenden:
 
-1.
+1. elektronische Vorrichtungen, die töten oder betäuben können,
 
-2.
+2. Sprengstoff oder
 
-3.
+3. Fallen, die nach ihrer Bauart oder nach ihren Anwendungsbedingungen nicht selektiv sind.
 
 ### § 22d — Zusätzliche Regelungen in Bezug auf die Tierart Wolf bei Jagdzeiten, Abschussregelungen und Anzeigepflichten; Verordnungsermächtigung
 
@@ -434,43 +404,29 @@ des Wildes
 
 (2) Soweit sich die Tierart Wolf in einem günstigen Erhaltungszustand befindet, hat die zuständige Behörde einen revierübergreifenden Managementplan aufzustellen, der darauf auszurichten ist, die Vereinbarkeit der Jagd mit der Aufrechterhaltung eines günstigen Erhaltungszustands zu gewährleisten. Soweit ein revierübergreifender Managementplan nach Satz 1 eine militärisch genutzte Fläche des Bundes oder eine Fläche des Nationalen Naturerbes im Eigentum des Bundes betrifft, ist er im Einvernehmen mit den zuständigen Dienststellen der Bundeswehr und der Bundesanstalt für Immobilienaufgaben aufzustellen. Der Managementplan ist bei Bedarf von der zuständigen Behörde zu überprüfen und zu aktualisieren, wobei Satz 2 entsprechend gilt. Ist ein Managementplan nach Satz 1 erstellt worden, darf die Jagd auf den Wolf jeweils vom 1. Juli bis zum 31. Oktober ausgeübt werden; die Jagd ist nach Maßgabe des Managementplans auszuüben. In der Schonzeit und im Fall, dass ein revierübergreifender Managementplan noch nicht aufgestellt worden ist, ist Absatz 3 entsprechend anzuwenden. Widerspruch und Anfechtungsklage gegen einen revierübergreifenden Managementplan haben keine aufschiebende Wirkung.
 
-(3) Befindet sich die Tierart Wolf in einem ungünstigen Erhaltungszustand, ist die Jagd auf den Wolf unabhängig von einer Schonzeit mit Genehmigung der zuständigen Behörde zulässig Ist ein Schaden an einem nicht wildlebenden Tier eingetreten, so ist zur Abwendung der in Satz 1 Nummer 1 genannten Schäden die Jagd auf den Wolf ohne Genehmigung der zuständigen Behörde zulässig, wenn ein von der zuständigen Behörde oder dem Land bestellter Sachverständiger für Wolfsrisse festgestellt hat, dass der Schaden Die Jagd darf in den Fällen des Satzes 2 nur in einem Radius von nicht mehr als 20 Kilometern um den festgestellten Schadensort und nicht länger als sechs Wochen nach dem festgestellten Schaden erfolgen. Die Jagd endet, sobald im Radius von 20 Kilometern um den festgestellten Schadensort ein Wolf erlegt worden ist. Die zuständige Behörde kann abweichend von Satz 3 nach pflichtgemäßem Ermessen den Radius verkleinern oder erweitern oder die zulässige Dauer der Jagd verlängern oder verkürzen.
+(3) Befindet sich die Tierart Wolf in einem ungünstigen Erhaltungszustand, ist die Jagd auf den Wolf unabhängig von einer Schonzeit mit Genehmigung der zuständigen Behörde zulässig
 
-1.
+1. zur Abwendung land-, forst-, fischerei- oder wasserwirtschaftlicher oder sonstiger wirtschaftlicher Schäden,
 
-2.
+2. im Interesse der Gesundheit des Menschen oder der öffentlichen Sicherheit oder
 
-3.
+3. aus anderen zwingenden Gründen des überwiegenden öffentlichen Interesses.
 
-1.
+(4) Die zuständige Behörde kann
 
-2.
+1. anordnen, dass der Jagdausübungsberechtigte, sofern die Jagd auf den Wolf zulässig und im Rahmen der Jagdausübung mit zulässigen jagdlichen Methoden und Mitteln möglich und zumutbar ist, die Jagd auf den Wolf auszuüben hat,
 
-(4) Die zuständige Behörde kann Im Fall des Satzes 1 Nummer 1 kann der Jagdausübungsberechtigte einen Dritten mit der Ausübung der Jagd beauftragen. Kommt der Jagdausübungsberechtigte einer Anordnung nach Satz 1 Nummer 1 nicht binnen einer von der zuständigen Behörde im pflichtgemäßen Ermessen zu setzenden Frist nach, so kann die zuständige Behörde die Jagd selbst übernehmen oder einen Dritten mit der Durchführung der Jagd beauftragen.
+2. anordnen, dass ein Einzeltier, einzelne Individuen eines Rudels oder ein gesamtes Wolfsrudel auch ohne Zuordnung eines Schadens zu einem bestimmten Einzeltier unabhängig von einer Schonzeit zu erlegen ist, sofern dies erforderlich ist, a)zur Abwendung land-, forst-, fischerei- oder wasserwirtschaftlicher oder sonstiger wirtschaftlicher Schäden,b)im Interesse der Gesundheit des Menschen oder der öffentlichen Sicherheit oderc)aus anderen zwingenden Gründen des überwiegenden öffentlichen Interesses, zur Abwendung land-, forst-, fischerei- oder wasserwirtschaftlicher oder sonstiger wirtschaftlicher Schäden, im Interesse der Gesundheit des Menschen oder der öffentlichen Sicherheit oder aus anderen zwingenden Gründen des überwiegenden öffentlichen Interesses,
 
-1.
+3. Weidegebiete bestimmen, in denen eine Bejagung des Wolfs auch bei einem ungünstigen Erhaltungszustand der Tierart Wolf zulässig ist, wenn a)eine solche Bestimmung erforderlich ist zur Abwendung ernster land-, forst-, fischerei- oder wasserwirtschaftlicher oder sonstiger ernster wirtschaftlicher Schäden undb)die Weidegebiete auf Grund der Geländebedingungen nicht schützbar sind oder sie auf Grund der naturräumlichen Gegebenheiten nicht zumutbar wolfsabweisend zäunbar sind, eine solche Bestimmung erforderlich ist zur Abwendung ernster land-, forst-, fischerei- oder wasserwirtschaftlicher oder sonstiger ernster wirtschaftlicher Schäden und die Weidegebiete auf Grund der Geländebedingungen nicht schützbar sind oder sie auf Grund der naturräumlichen Gegebenheiten nicht zumutbar wolfsabweisend zäunbar sind,
 
-2.
+4. im Einzelfall für die Jagd auf den Wolf Nachtsichtvorsätze und Nachtsichtaufsätze nach Anlage 2 Abschnitt 1 Nummer 1.2.4.2 des Waffengesetzes zulassen.
 
-a)
+(5) Soweit eine Anordnung nach Absatz 4 Satz 1 Nummer 1 oder 2
 
-b)
+1. eine militärisch genutzte Fläche des Bundes betrifft, bedarf die Anordnung des Einvernehmens mit den zuständigen Dienststellen der Bundeswehr und dem für die Jagdausübung auf der betreffenden Fläche zuständigen Bundesforstbetrieb der Bundesanstalt für Immobilienaufgaben,
 
-c)
-
-3.
-
-a)
-
-b)
-
-4.
-
-(5) Soweit eine Anordnung nach Absatz 4 Satz 1 Nummer 1 oder 2 Absatz 4 Satz 1 Nummer 3 gilt nicht für militärisch genutzte Flächen des Bundes und für Flächen des nationalen Naturerbes im Eigentum des Bundes.
-
-1.
-
-2.
+2. eine Fläche des Nationalen Naturerbes im Eigentum des Bundes betrifft, bedarf die Anordnung des Einvernehmens mit dem für die Jagdausübung auf der betreffenden Fläche zuständigen Bundesforstbetrieb der Bundesanstalt für Immobilienaufgaben.
 
 (6) Das Bundesministerium für Landwirtschaft, Ernährung und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, Näheres zur Durchführung der Absätze 2 bis 4 zu bestimmen, insbesondere hinsichtlich der Anforderungen an den revierübergreifenden Managementplan nach Absatz 2 sowie der Einzelheiten der Voraussetzungen für die Zulässigkeit der Jagd nach Absatz 3 Satz 1 Nummer 1.
 
@@ -586,33 +542,25 @@ Die Länder können in Wild- und Jagdschadenssachen das Beschreiten des ordentli
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies aus Gründen der Hege, zur Bekämpfung von Wilderei und Wildhehlerei, aus wissenschaftlichen Gründen oder zur Verhütung von Gesundheitsschäden durch Fallwild erforderlich ist, Vorschriften zu erlassen über
 
-1.
+1. die Anwendung von Ursprungszeichen bei der Verbringung von erlegtem Schalenwild aus dem Erlegungsbezirk und der Verbringung von erlegtem Schalenwild in den Geltungsbereich dieses Gesetzes,
 
-2.
+2. den Besitz von a)Wild, das nach Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union aus Gründen des Erhalts der Arten streng oder besonders geschützt oder von den Mitgliedstaaten der Europäischen Union zu schützen ist, oderb)sonstigem Wild, Wild, das nach Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union aus Gründen des Erhalts der Arten streng oder besonders geschützt oder von den Mitgliedstaaten der Europäischen Union zu schützen ist, oder sonstigem Wild,
 
-a)
+2a. den gewerbsmäßigen Ankauf, Verkauf oder Tausch von a)Wild, das nach Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union aus Gründen des Erhalts der Arten streng oder besonders geschützt oder von den Mitgliedstaaten der Europäischen Union zu schützen ist, oderb)sonstigem Wild, Wild, das nach Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union aus Gründen des Erhalts der Arten streng oder besonders geschützt oder von den Mitgliedstaaten der Europäischen Union zu schützen ist, oder sonstigem Wild,
 
-b)
+2b. den sonstigen Erwerb, die Ausübung der tatsächlichen Gewalt oder das sonstige Verwenden, die Abgabe, das Anbieten zum Verkauf oder den Tausch, die Zucht, die Beförderung, das Veräußern oder das sonstige Inverkehrbringen von Wild,
 
-2a.
+3. die Ein-, Durch- und Ausfuhr sowie das sonstige Verbringen von Wild in den, durch den und aus dem Geltungsbereich dieses Gesetzes,
 
-a)
+4. die Verpflichtung zur Führung von Wildhandelsbüchern,
 
-b)
-
-2b.
-
-3.
-
-4.
-
-5.
+5. das Kennzeichnen von Wild.
 
 (2) Die Länder erlassen insbesondere Vorschriften über
 
-1.
+1. die behördliche Überwachung des gewerbsmäßigen Ankaufs, Verkaufs und Tausches sowie der gewerbsmäßigen Verarbeitung von Wildbret und die behördliche Überwachung der Wildhandelsbücher,
 
-2.
+2. das Aufnehmen, die Pflege und die Aufzucht verletzten oder kranken Wildes und dessen Verbleib.
 
 (3) Die Vorschriften nach Absatz 1 Nummer 2, 2a, 2b und 3 und Absatz 2 Nr. 2 können sich auch auf Eier oder sonstige Entwicklungsformen des Wildes, auf totes Wild, auf Teile des Wildes sowie auf die Nester und die aus Wild gewonnenen Erzeugnisse erstrecken.
 
@@ -638,11 +586,11 @@ b)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer
 
-1.
+1. einer vollziehbaren Anordnung nach § 21 Abs. 3 zuwiderhandelt,
 
-2.
+2. entgegen § 22 Abs. 2 Satz 1 Wild nicht mit der Jagd verschont oder
 
-3.
+3. entgegen § 22 Abs. 4 Satz 1 ein Elterntier bejagt.
 
 (2) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
@@ -662,65 +610,65 @@ b)
 
 (1) Ordnungswidrig handelt, wer
 
-1.
+1. in befriedeten Bezirken die Jagd ausübt oder einer Beschränkung der Jagderlaubnis (§ 6) zuwiderhandelt;
 
-2.
+2. auf vollständig eingefriedeten Grundflächen die Jagd entgegen einer nach § 7 Abs. 3 vorgeschriebenen Beschränkung ausübt;
 
-3.
+3. auf Grund eines nach § 11 Abs. 6 Satz 1 nichtigen Jagdpachtvertrages, einer nach § 11 Abs. 6 Satz 2 nichtigen entgeltlichen Jagderlaubnis oder entgegen § 12 Abs. 4 die Jagd ausübt;
 
-4.
+4. als Inhaber eines Jugendjagdscheines ohne Begleitperson die Jagd ausübt (§ 16);
 
-5.
+5. den Vorschriften des § 19 Abs. 1 Nr. 3 bis 9, 11 bis 14, 16 bis 18, § 19a oder § 20 Abs. 1 zuwiderhandelt;
 
-6.
+6. zum Verscheuchen des Wildes Mittel anwendet, durch die Wild verletzt oder gefährdet wird (§ 26);
 
-7.
+7. einer Vorschrift des § 28 Abs. 1 bis 3 über das Hegen, Aussetzen und Ansiedeln zuwiderhandelt;
 
-8.
+8. den Vorschriften des § 33 Abs. 1 zuwiderhandelt und dadurch Jagdschaden anrichtet;
 
-9.
+9. den Jagdschein auf Verlangen nicht vorzeigt (§ 15 Abs. 1).
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. die Jagd ausübt, obwohl er keinen gültigen Jagdschein mit sich führt oder obwohl ihm die Jagdausübung verboten ist (§ 41a);
 
-2.
+2. den Vorschriften des § 19 Abs. 1 Nr. 1, 2, 10 und 15 zuwiderhandelt;
 
-3.
+3. Schalenwild oder anderes Wild, das nur im Rahmen eines Abschußplanes bejagt werden darf, erlegt, bevor der Abschußplan bestätigt oder festgesetzt ist (§ 21 Abs. 2 Satz 1), oder wer den Abschußplan überschreitet;
 
-3a.
+3a. entgegen § 22 Absatz 1 Satz 2 Wild nicht mit der Jagd verschont;
 
-3b.
+3b. entgegen § 22c Absatz 2 Sprengstoff oder eine dort genannte Vorrichtung oder Falle verwendet;
 
-3c.
+3c. entgegen § 22d Absatz 1 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet;
 
-4.
+4. als Jagdausübungsberechtigter das Auftreten einer Wildseuche nicht unverzüglich der zuständigen Behörde anzeigt oder den Weisungen der zuständigen Behörde zur Bekämpfung der Wildseuche nicht Folge leistet (§ 24);
 
-5.
+5. einer Rechtsverordnung nach § 36 Absatz 1 Nummer 1, 2 Buchstabe b, auch in Verbindung mit Absatz 3, Nummer 2a Buchstabe b, auch in Verbindung mit Absatz 3, Nummer 2b, auch in Verbindung mit Absatz 3, Nummer 3, auch in Verbindung mit Absatz 3, Nummer 4 oder Nummer 5, Absatz 2 oder Absatz 5 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist, oder
 
-6.
+6. zur Jagd ausgerüstet unbefugt einen fremden Jagdbezirk außerhalb der zum allgemeinen Gebrauch bestimmten Wege betritt.
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
 ### § 40 — Einziehung
 
-(1) Ist eine Straftat nach § 38 oder eine Ordnungswidrigkeit nach § 39 Absatz 1 Nummer 5 oder Absatz 2 Nummer 2 bis 3b oder 5 begangen worden, so können eingezogen werden.
+(1) Ist eine Straftat nach § 38 oder eine Ordnungswidrigkeit nach § 39 Absatz 1 Nummer 5 oder Absatz 2 Nummer 2 bis 3b oder 5 begangen worden, so können
 
-1.
+1. Gegenstände, auf die sich die Straftat oder Ordnungswidrigkeit bezieht, und
 
-2.
+2. Gegenstände, die zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt gewesen sind,
 
 (2) § 74a des Strafgesetzbuches und § 23 des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
 ### § 41 — Anordnung der Entziehung des Jagdscheines
 
-(1) Wird jemand wegen einer rechtswidrigen Tat verurteilt oder nur deshalb nicht verurteilt, weil seine Schuldunfähigkeit erwiesen oder nicht auszuschließen ist, so ordnet das Gericht die Entziehung des Jagdscheines an, wenn sich aus der Tat ergibt, daß die Gefahr besteht, er werde bei weiterem Besitz des Jagdscheines erhebliche rechtswidrige Taten der bezeichneten Art begehen.
+(1) Wird jemand wegen einer rechtswidrigen Tat
 
-1.
+1. nach § 38 dieses Gesetzes,
 
-2.
+2. nach den §§ 113 bis 115, 223 bis 227, 231, 239, 240 des Strafgesetzbuches, sofern derjenige, gegen den sich die Tat richtete, sich in Ausübung des Forst-, Feld-, Jagd- oder Fischereischutzes befand, oder
 
-3.
+3. nach den §§ 292 bis 294 des Strafgesetzbuches
 
 (2) Ordnet das Gericht die Entziehung des Jagdscheines an, so bestimmt es zugleich, daß für die Dauer von einem Jahr bis zu fünf Jahren kein neuer Jagdschein erteilt werden darf (Sperre). Die Sperre kann für immer angeordnet werden, wenn zu erwarten ist, daß die gesetzliche Höchstfrist zur Abwehr der von dem Täter drohenden Gefahr nicht ausreicht. Hat der Täter keinen Jagdschein, so wird nur die Sperre angeordnet. Die Sperre beginnt mit der Rechtskraft des Urteils.
 
@@ -728,11 +676,11 @@ b)
 
 ### § 41a — Verbot der Jagdausübung
 
-(1) Wird gegen jemanden so kann ihm in der Entscheidung für die Dauer von einem Monat bis zu sechs Monaten verboten werden, die Jagd auszuüben.
+(1) Wird gegen jemanden
 
-1.
+1. wegen einer Straftat, die er bei oder im Zusammenhang mit der Jagdausübung begangen hat, eine Strafe verhängt oder
 
-2.
+2. wegen einer Ordnungswidrigkeit nach § 39, die er unter grober oder beharrlicher Verletzung der Pflichten bei der Jagdausübung begangen hat, eine Geldbuße festgesetzt,
 
 (2) Das Verbot der Jagdausübung wird mit der Rechtskraft der Entscheidung wirksam. Für seine Dauer wird ein erteilter Jagdschein, solange er nicht abgelaufen ist, amtlich verwahrt; das gleiche gilt für einen nach Ablauf des Jagdjahres neu erteilten Jagdschein. Wird er nicht freiwillig herausgegeben, so ist er zu beschlagnahmen.
 
@@ -767,5 +715,3 @@ Vorschriften des Lebensmittelrechts, Seuchenrechts, Fleischhygienerechts und Tie
 (1) (Inkrafttreten der ursprünglichen Fassung des Gesetzes)
 
 (2) (Aufhebung von Vorschriften)
-
-(3) Verweisungen auf Vorschriften, die nach Absatz 2 außer Kraft getreten sind, gelten als Verweisungen auf die entsprechenden Vorschriften dieses Gesetzes oder die entsprechenden landesrechtlichen Vorschriften.

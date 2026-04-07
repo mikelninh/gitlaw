@@ -25,5 +25,3 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 Der Bundesrat hat zugestimmt.
 
 ### Anlage — (zu § 1)
-
-Fundstelle des Originaltextes: BGBl. I 1997, 143

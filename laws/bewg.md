@@ -24,8 +24,6 @@
 
 (3) Die Vorschriften der Absätze 1 und 2 gelten nicht, soweit eine Bewertung der einzelnen Wirtschaftsgüter vorgeschrieben ist.
 
-> § 2 Abs. 2 idF d. Bek v. 1.2.1991 I 230: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) § 2 Abs. 2 idF d. Bek v. 1.2.1991 I 230: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl.  BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
-
 ### § 3 — Wertermittlung bei mehreren Beteiligten
 
 Steht ein Wirtschaftsgut mehreren Personen zu, so ist sein Wert im ganzen zu ermitteln. Der Wert ist auf die Beteiligten nach dem Verhältnis ihrer Anteile zu verteilen, soweit nicht nach dem maßgebenden Steuergesetz die Gemeinschaft selbständig steuerpflichtig ist.
@@ -106,27 +104,27 @@ Wirtschaftsgüter, die einem Unternehmen dienen, sind, soweit nichts anderes vor
 
 (1) Der Kapitalwert von lebenslänglichen Nutzungen und Leistungen ist mit dem Vielfachen des Jahreswerts nach Maßgabe der Sätze 2 bis 4 anzusetzen. Die Vervielfältiger sind nach der Sterbetafel des Statistischen Bundesamtes zu ermitteln und ab dem 1. Januar des auf die Veröffentlichung der Sterbetafel durch das Statistische Bundesamt folgenden Kalenderjahres anzuwenden. Der Kapitalwert ist unter Berücksichtigung von Zwischenzinsen und Zinseszinsen mit einem Zinssatz von 5,5 Prozent als Mittelwert zwischen dem Kapitalwert für jährlich vorschüssige und jährlich nachschüssige Zahlungsweise zu berechnen. Das Bundesministerium der Finanzen stellt die Vervielfältiger für den Kapitalwert einer lebenslänglichen Nutzung oder Leistung im Jahresbetrag von einem Euro nach Lebensalter und Geschlecht der Berechtigten in einer Tabelle zusammen und veröffentlicht diese zusammen mit dem Datum der Veröffentlichung der Sterbetafel im Bundessteuerblatt.
 
-(2) Hat eine nach Absatz 1 bewertete Nutzung oder Leistung bei einem Alter bestanden und beruht der Wegfall auf dem Tod des Berechtigten oder Verpflichteten, so ist die Festsetzung der nicht laufend veranlagten Steuern auf Antrag nach der wirklichen Dauer der Nutzung oder Leistung zu berichtigen. § 5 Abs. 2 Satz 2 gilt entsprechend. Ist eine Last weggefallen, so bedarf die Berichtigung keines Antrags.
+(2) Hat eine nach Absatz 1 bewertete Nutzung oder Leistung bei einem Alter
 
-1.
+1. bis zu 30 Jahren nicht mehr als 10 Jahre,
 
-2.
+2. von mehr als 30 Jahren bis zu 50 Jahren nicht mehr als 9 Jahre,
 
-3.
+3. von mehr als 50 Jahren bis zu 60 Jahren nicht mehr als 8 Jahre,
 
-4.
+4. von mehr als 60 Jahren bis zu 65 Jahren nicht mehr als 7 Jahre,
 
-5.
+5. von mehr als 65 Jahren bis zu 70 Jahren nicht mehr als 6 Jahre,
 
-6.
+6. von mehr als 70 Jahren bis zu 75 Jahren nicht mehr als 5 Jahre,
 
-7.
+7. von mehr als 75 Jahren bis zu 80 Jahren nicht mehr als 4 Jahre,
 
-8.
+8. von mehr als 80 Jahren bis zu 85 Jahren nicht mehr als 3 Jahre,
 
-9.
+9. von mehr als 85 Jahren bis zu 90 Jahren nicht mehr als 2 Jahre,
 
-10.
+10. von mehr als 90 Jahren nicht mehr als 1 Jahr
 
 (3) Hängt die Dauer der Nutzung oder Leistung von der Lebenszeit mehrerer Personen ab und erlischt das Recht mit dem Tod des zuletzt Sterbenden, so ist das Lebensalter und das Geschlecht derjenigen Person maßgebend, für die sich der höchste Vervielfältiger ergibt; erlischt das Recht mit dem Tod des zuerst Sterbenden, so ist das Lebensalter und Geschlecht derjenigen Person maßgebend, für die sich der niedrigste Vervielfältiger ergibt.
 
@@ -156,11 +154,11 @@ Bei der Ermittlung des Kapitalwerts der Nutzungen eines Wirtschaftsguts kann der
 
 Das Vermögen, das nach den Vorschriften des Zweiten Teils dieses Gesetzes zu bewerten ist, umfaßt die folgenden Vermögensarten:
 
-1.
+1. Land- und forstwirtschaftliches Vermögen,
 
-2.
+2. Grundvermögen,
 
-3.
+3. Betriebsvermögen.
 
 ## A.: Allgemeines
 
@@ -253,7 +251,7 @@ Nutzung
 
 ### § 95 — Begriff des Betriebsvermögens
 
-(1) Das Betriebsvermögen umfasst alle Teile eines Gewerbebetriebs im Sinne des § 15 Absatz 1 und 2 des Einkommensteuergesetzes, die bei der steuerlichen Gewinnermittlung zum Betriebsvermögen gehören. Als Gewerbebetrieb im Sinne des Satzes 1 gilt auch der Betrieb von Gesellschaften im Sinne des § 1 Absatz 1 des Körperschaftsteuergesetzes mit Sitz im Ausland, deren Ort der Geschäftsleitung im Inland belegen ist, und die nach inländischem Gesellschaftsrecht nicht als juristische Person zu behandeln sind, wenn dem Grunde nach eine Tätigkeit im Sinne des § 15 Absatz 1 und Absatz 2 des Einkommensteuergesetzes vorliegt.
+(1) Das Betriebsvermögen umfasst alle Teile eines Gewerbebetriebs im Sinne des § 15 Absatz 1 und 2 des Einkommensteuergesetzes, die bei der steuerlichen Gewinnermittlung zum Betriebsvermögen gehören. Als Gewerbebetrieb im Sinne des Satzes 1 gilt auch der Betrieb von Gesellschaften im Sinne des § 1 Absatz 1 des Körperschaftsteuergesetzes mit Sitz im Ausland, deren Ort der Geschäftsleitung im Inland belegen ist, und die nach inländischem Gesellschaftsrecht nicht als juristische Person zu behandeln sind, wenn dem Grunde nach eine Tätigkeit im Sinne des § 15 Absatz 1 und Absatz 2 des Einkommensteuergesetzes vorliegt.
 
 (2) Als Gewerbebetrieb gilt unbeschadet des § 97 nicht die Land- und Forstwirtschaft, wenn sie den Hauptzweck des Unternehmens bildet.
 
@@ -265,37 +263,31 @@ Dem Gewerbebetrieb steht die Ausübung eines freien Berufs im Sinne des § 18 Ab
 
 ### § 97 — Betriebsvermögen von Körperschaften, Personenvereinigungen und Vermögensmassen
 
-(1) Einen Gewerbebetrieb bilden insbesondere alle Wirtschaftsgüter, die den folgenden Körperschaften, Personenvereinigungen und Vermögensmassen gehören, wenn diese ihre Geschäftsleitung oder ihren Sitz im Inland haben: § 160 Absatz 10 bleibt unberührt.
+(1) Einen Gewerbebetrieb bilden insbesondere alle Wirtschaftsgüter, die den folgenden Körperschaften, Personenvereinigungen und Vermögensmassen gehören, wenn diese ihre Geschäftsleitung oder ihren Sitz im Inland haben:
 
-1.
+1. Kapitalgesellschaften (Aktiengesellschaften, Kommanditgesellschaften auf Aktien, Gesellschaften mit beschränkter Haftung, Europäische Gesellschaften);
 
-2.
+2. Erwerbs- und Wirtschaftsgenossenschaften;
 
-3.
+3. Versicherungsvereinen auf Gegenseitigkeit;
 
-4.
+4. Kreditanstalten des öffentlichen Rechts;
 
-5.
+5. Gesellschaften im Sinne des § 15 Absatz 1 Satz 1 Nummer 2, des § 15 Absatz 3, des § 18 Absatz 4 Satz 2 des Einkommensteuergesetzes und, wenn sie ihrer Tätigkeit nach einer Gesellschaft im Sinne des § 15 Absatz 1 Satz 1 Nummer 2, des § 15 Absatz 3 oder des § 18 Absatz 4 Satz 2 des Einkommensteuergesetzes entsprechen, Gesellschaften im Sinne des § 1a Absatz 1 des Körperschaftsteuergesetzes und Gesellschaften im Sinne des § 1 Absatz 1 des Körperschaftsteuergesetzes mit Sitz im Ausland, deren Ort der Geschäftsleitung im Inland belegen ist, und die nach inländischem Gesellschaftsrecht als Personengesellschaft zu behandeln sind. Zum Gewerbebetrieb einer solchen Gesellschaft gehören auch die Wirtschaftsgüter, die im Eigentum eines Gesellschafters, mehrerer oder aller Gesellschafter stehen, und Schulden eines Gesellschafters, mehrerer oder aller Gesellschafter, soweit die Wirtschaftsgüter und Schulden bei der steuerlichen Gewinnermittlung zum Betriebsvermögen der Gesellschaft gehören (§ 95); diese Zurechnung geht anderen Zurechnungen vor.
 
 (1a) Der gemeine Wert eines Anteils am Betriebsvermögen einer in § 97 Abs. 1 Satz 1 Nr. 5 genannten Personengesellschaft ist wie folgt zu ermitteln und aufzuteilen:
 
-1.
+1. Der nach § 109 Abs. 2 ermittelte gemeine Wert des der Personengesellschaft gehörenden Betriebsvermögens (Gesamthandsvermögen) ist wie folgt aufzuteilen: a)die Kapitalkonten aus der Gesamthandsbilanz sind dem jeweiligen Gesellschafter vorweg zuzurechnen;b)der verbleibende Wert ist nach dem für die Gesellschaft maßgebenden Gewinnverteilungsschlüssel auf die Gesellschafter aufzuteilen; Vorabgewinnanteile sind nicht zu berücksichtigen. die Kapitalkonten aus der Gesamthandsbilanz sind dem jeweiligen Gesellschafter vorweg zuzurechnen; der verbleibende Wert ist nach dem für die Gesellschaft maßgebenden Gewinnverteilungsschlüssel auf die Gesellschafter aufzuteilen; Vorabgewinnanteile sind nicht zu berücksichtigen.
 
-a)
+2. Für die Wirtschaftsgüter und Schulden des Sonderbetriebsvermögens eines Gesellschafters ist der gemeine Wert zu ermitteln. Er ist dem jeweiligen Gesellschafter zuzurechnen.
 
-b)
-
-2.
-
-3.
+3. Der Wert des Anteils eines Gesellschafters ergibt sich als Summe aus dem Anteil am Gesamthandsvermögen nach Nummer 1 und dem Wert des Sonderbetriebsvermögens nach Nummer 2.
 
 (1b) Der gemeine Wert eines Anteils an einer in § 97 Abs. 1 Satz 1 Nr. 1 genannten Kapitalgesellschaft bestimmt sich nach dem Verhältnis des Anteils am Nennkapital (Grund- oder Stammkapital) der Gesellschaft zum gemeinen Wert des Betriebsvermögens der Kapitalgesellschaft im Bewertungsstichtag. Dies gilt auch, wenn das Nennkapital noch nicht vollständig eingezahlt ist. Richtet sich die Beteiligung am Vermögen und am Gewinn der Gesellschaft auf Grund einer ausdrücklichen Vereinbarung der Gesellschafter nach der jeweiligen Höhe des eingezahlten Nennkapitals, bezieht sich der gemeine Wert nur auf das tatsächlich eingezahlte Nennkapital. Abweichend von Satz 1 sind bei der Wertermittlung des Anteils vorbehaltlich des § 9 Absatz 2 und 3 Regelungen zu berücksichtigen, die sich auf den Wert des Anteils auswirken, wie insbesondere eine vom Verhältnis des Anteils am Nennkapital (Grund- oder Stammkapital) abweichende Gewinnverteilung.
 
 (2) Einen Gewerbebetrieb bilden auch die Wirtschaftsgüter, die den sonstigen juristischen Personen des privaten Rechts, den Vereinen ohne Rechtspersönlichkeit, den nicht rechtsfähigen Anstalten, Stiftungen und anderen Zweckvermögen gehören, soweit sie einem wirtschaftlichen Geschäftsbetrieb (ausgenommen Land- und Forstwirtschaft) dienen.
 
 (3) (weggefallen)
-
-> (+++ § 97 Abs. 1 Satz 1 Nr. 1: Erstmals anzuwenden zum 1.1.2006 gem. § 152 Abs. 3 +++) (+++ § 97 Abs. 1b Satz 4: Zur Anwendung vgl. § 205 Abs. 8 +++)
 
 ### § 98 — (weggefallen)
 
@@ -305,9 +297,9 @@ b)
 
 (1) Betriebsgrundstück im Sinne dieses Gesetzes ist der zu einem Gewerbebetrieb gehörige Grundbesitz, soweit er, losgelöst von seiner Zugehörigkeit zu dem Gewerbebetrieb,
 
-1.
+1. zum Grundvermögen gehören würde oder
 
-2.
+2. einen Betrieb der Land- und Forstwirtschaft bilden würde.
 
 (2) (weggefallen)
 
@@ -345,23 +337,23 @@ b)
 
 Zum Inlandsvermögen gehören:
 
-1.
+1. das inländische land- und forstwirtschaftliche Vermögen;
 
-2.
+2. das inländische Grundvermögen;
 
-3.
+3. das inländische Betriebsvermögen. Als solches gilt das Vermögen, das einem im Inland betriebenen Gewerbe dient, wenn hierfür im Inland eine Betriebsstätte unterhalten wird oder ein ständiger Vertreter bestellt ist;
 
-4.
+4. Anteile an einer Kapitalgesellschaft, wenn die Gesellschaft Sitz oder Geschäftsleitung im Inland hat und der Gesellschafter entweder allein oder zusammen mit anderen ihm nahestehenden Personen im Sinne des § 1 Abs. 2 des Außensteuergesetzes in der jeweils geltenden Fassung, am Grund- oder Stammkapital der Gesellschaft mindestens zu einem Zehntel unmittelbar oder mittelbar beteiligt ist;
 
-5.
+5. nicht unter Nummer 3 fallende Erfindungen, Gebrauchsmuster und Topographien, die in ein inländisches Buch oder Register eingetragen sind;
 
-6.
+6. Wirtschaftsgüter, die nicht unter die Nummern 1, 2 und 5 fallen und einem inländischen Gewerbebetrieb überlassen, insbesondere an diesen vermietet oder verpachtet sind;
 
-7.
+7. Hypotheken, Grundschulden, Rentenschulden und andere Forderungen oder Rechte, wenn sie durch inländischen Grundbesitz, durch inländische grundstücksgleiche Rechte oder durch Schiffe, die in ein inländisches Schiffsregister eingetragen sind, unmittelbar oder mittelbar gesichert sind. Ausgenommen sind Anleihen und Forderungen, über die Teilschuldverschreibungen ausgegeben sind;
 
-8.
+8. Forderungen aus der Beteiligung an einem Handelsgewerbe als stiller Gesellschafter und aus partiarischen Darlehen, wenn der Schuldner Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäftsleitung im Inland hat;
 
-9.
+9. Nutzungsrechte an einem der in den Nummern 1 bis 8 genannten Vermögensgegenstände.
 
 ### § 121a — (weggefallen)
 
@@ -407,21 +399,21 @@ Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates die in § 1
 
 ### § 151 — Gesonderte Feststellungen
 
-(1) Gesondert festzustellen (§ 179 der Abgabenordnung) sind wenn die Werte für die Erbschaftsteuer oder eine andere Feststellung im Sinne dieser Vorschrift von Bedeutung sind. Die Entscheidung über eine Bedeutung für die Besteuerung trifft das für die Festsetzung der Erbschaftsteuer oder die Feststellung nach Satz 1 Nr. 2 bis 4 zuständige Finanzamt.
+(1) Gesondert festzustellen (§ 179 der Abgabenordnung) sind
 
-1.
+1. Grundbesitzwerte (§ 157),
 
-2.
+2. der Wert des Betriebsvermögens oder des Anteils am Betriebsvermögen (§§ 95, 96, 97),
 
-3.
+3. der Wert von Anteilen an Kapitalgesellschaften im Sinne des § 11 Abs. 2,
 
-4.
+4. der Anteil am Wert von anderen als in den Nummern 1 bis 3 genannten Vermögensgegenständen und von Schulden, die mehreren Personen zustehen,
 
 (2) In dem Feststellungsbescheid für Grundbesitzwerte sind auch Feststellungen zu treffen
 
-1.
+1. über die Art der wirtschaftlichen Einheit,
 
-2.
+2. über die Zurechnung der wirtschaftlichen Einheit und bei mehreren Beteiligten über die Höhe des Anteils, der für die Besteuerung oder eine andere Feststellung von Bedeutung ist; beim Erwerb durch eine Erbengemeinschaft erfolgt die Zurechnung in Vertretung der Miterben auf die Erbengemeinschaft. Entsprechendes gilt für die Feststellungen nach Absatz 1 Satz 1 Nr. 2 bis 4.
 
 (3) Gesondert festgestellte Werte im Sinne des Absatzes 1 Satz 1 Nummer 1 bis 4 sind einer innerhalb einer Jahresfrist folgenden Feststellung für dieselbe wirtschaftliche Einheit unverändert zu Grunde zu legen, wenn sich die für die erste Bewertung maßgeblichen Stichtagsverhältnisse nicht wesentlich geändert haben. Der Erklärungspflichtige kann eine von diesem Wert abweichende Feststellung nach den Verhältnissen am Bewertungsstichtag durch Abgabe einer Feststellungserklärung beantragen.
 
@@ -433,13 +425,13 @@ Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates die in § 1
 
 Für die gesonderten Feststellungen ist örtlich zuständig:
 
-1.
+1. in den Fällen des § 151 Abs. 1 Satz 1 Nr. 1 das Finanzamt, in dessen Bezirk das Grundstück, das Betriebsgrundstück oder der Betrieb der Land- und Forstwirtschaft oder, wenn sich das Grundstück, das Betriebsgrundstück oder der Betrieb der Land- und Forstwirtschaft auf die Bezirke mehrerer Finanzämter erstreckt, der wertvollste Teil liegt;
 
-2.
+2. in den Fällen des § 151 Abs. 1 Satz 1 Nr. 2 das Finanzamt, in dessen Bezirk sich die Geschäftsleitung des Gewerbebetriebs, bei Gewerbebetrieben ohne Geschäftsleitung im Inland das Finanzamt, in dessen Bezirk eine Betriebsstätte – bei mehreren Betriebsstätten die wirtschaftlich bedeutendste – unterhalten wird, und bei freiberuflicher Tätigkeit das Finanzamt, von dessen Bezirk aus die Berufstätigkeit vorwiegend ausgeübt wird;
 
-3.
+3. in den Fällen des § 151 Abs. 1 Satz 1 Nr. 3 das Finanzamt, in dessen Bezirk sich die Geschäftsleitung der Kapitalgesellschaft befindet, bei Kapitalgesellschaften ohne Geschäftsleitung im Inland oder, wenn sich der Ort der Geschäftsleitung nicht feststellen lässt, das Finanzamt, in dessen Bezirk die Kapitalgesellschaft ihren Sitz hat;
 
-4.
+4. in den Fällen des § 151 Abs. 1 Satz 1 Nr. 4 das Finanzamt, von dessen Bezirk die Verwaltung des Vermögens ausgeht, oder, wenn diese im Inland nicht feststellbar ist, das Finanzamt, in dessen Bezirk sich der wertvollste Teil des Vermögens befindet.
 
 ### § 153 — Erklärungspflicht, Verfahrensvorschriften für die gesonderte Feststellung, Feststellungsfrist
 
@@ -449,7 +441,7 @@ Für die gesonderten Feststellungen ist örtlich zuständig:
 
 (3) In den Fällen des § 151 Abs. 1 Satz 1 Nr. 3 kann das Finanzamt nur von der Kapitalgesellschaft die Abgabe einer Feststellungserklärung verlangen.
 
-(4) Der Erklärungspflichtige hat die Erklärung nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle elektronisch zu übermitteln. Auf Antrag kann das Finanzamt zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung verzichten; in diesem Fall ist die Erklärung nach amtlich vorgeschriebenem Vordruck abzugeben und vom Erklärungspflichtigen eigenhändig zu unterschreiben. Das Bundesministerium der Finanzen legt im Einvernehmen mit den obersten Finanzbehörden der Länder die Einzelheiten der elektronischen Übermittlung der Erklärungen für die Feststellungen nach § 151 Absatz 1 Satz 1 Nummer 1 bis 4 und jeweils deren Beginn in einem Schreiben fest. Dieses Schreiben ist im Bundessteuerblatt zu veröffentlichen. Hat ein Erklärungspflichtiger eine Erklärung zur gesonderten Feststellung abgegeben, sind andere Beteiligte insoweit von der Erklärungspflicht befreit.
+(4) Der Erklärungspflichtige hat die Erklärung nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle elektronisch zu übermitteln. Auf Antrag kann das Finanzamt zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung verzichten; in diesem Fall ist die Erklärung nach amtlich vorgeschriebenem Vordruck abzugeben und vom Erklärungspflichtigen eigenhändig zu unterschreiben. Das Bundesministerium der Finanzen legt im Einvernehmen mit den obersten Finanzbehörden der Länder die Einzelheiten der elektronischen Übermittlung der Erklärungen für die Feststellungen nach § 151 Absatz 1 Satz 1 Nummer 1 bis 4 und jeweils deren Beginn in einem Schreiben fest. Dieses Schreiben ist im Bundessteuerblatt zu veröffentlichen. Hat ein Erklärungspflichtiger eine Erklärung zur gesonderten Feststellung abgegeben, sind andere Beteiligte insoweit von der Erklärungspflicht befreit.
 
 (5) § 181 Abs. 1 und 5 der Abgabenordnung ist entsprechend anzuwenden.
 
@@ -457,13 +449,13 @@ Für die gesonderten Feststellungen ist örtlich zuständig:
 
 ### § 154 — Beteiligte am Feststellungsverfahren
 
-(1) Am Feststellungsverfahren sind beteiligt Gegenüber mehreren Beteiligten nach Satz 1 erfolgt eine gesonderte und einheitliche Feststellung (§ 179 Absatz 2 Satz 2 der Abgabenordnung).
+(1) Am Feststellungsverfahren sind beteiligt
 
-1.
+1. diejenigen, denen der Gegenstand der Feststellung zuzurechnen ist,
 
-2.
+2. diejenigen, die das Finanzamt zur Abgabe einer Feststellungserklärung aufgefordert hat;
 
-3.
+3. diejenigen, die eine Steuer als Schuldner oder Gesamtschuldner schulden und für deren Festsetzung die Feststellung von Bedeutung ist.
 
 (2) In den Fällen des § 151 Abs. 1 Satz 1 Nr. 3 ist der Feststellungsbescheid auch der Kapitalgesellschaft bekannt zu geben.
 
@@ -501,35 +493,35 @@ Eine Außenprüfung zur Ermittlung der Besteuerungsgrundlagen ist bei jedem Bete
 
 (2) Die wirtschaftliche Einheit des land- und forstwirtschaftlichen Vermögens ist der Betrieb der Land- und Forstwirtschaft. Wird ein Betrieb der Land- und Forstwirtschaft in Form einer Personengesellschaft oder Gemeinschaft geführt, sind in die wirtschaftliche Einheit auch die Wirtschaftsgüter einzubeziehen, die einem oder mehreren Beteiligten gehören, wenn sie dem Betrieb der Land- und Forstwirtschaft auf Dauer zu dienen bestimmt sind. Wird der Betrieb der Land- und Forstwirtschaft oder werden Teile davon einem anderen Berechtigten zur Erzeugung von Pflanzen und Tieren sowie zur Verwertung der dadurch selbst gewonnenen Erzeugnisse überlassen, so gilt dies als Fortsetzung der land- und forstwirtschaftlichen Tätigkeit des Überlassenden. Der Einordnung als Betrieb der Land- und Forstwirtschaft steht nicht entgegen, dass er aus einer oder einzelnen land- und forstwirtschaftlich genutzten Flächen gebildet wird, bei denen die Wirtschaftsgebäude oder die Betriebsmittel oder beide Arten von Wirtschaftsgütern nicht dem Eigentümer des Grund und Bodens gehören und diese anderen Betrieben der Land- und Forstwirtschaft auf Dauer zu dienen bestimmt sind.
 
-(3) Zu den Wirtschaftsgütern, die der wirtschaftlichen Einheit Betrieb der Land- und Forstwirtschaft zu dienen bestimmt sind, gehören insbesondere Als normaler Bestand an umlaufenden Betriebsmitteln gilt ein solcher, der zur gesicherten Fortführung des Betriebs erforderlich ist.
+(3) Zu den Wirtschaftsgütern, die der wirtschaftlichen Einheit Betrieb der Land- und Forstwirtschaft zu dienen bestimmt sind, gehören insbesondere
 
-1.
+1. der Grund und Boden,
 
-2.
+2. die Wirtschaftsgebäude,
 
-3.
+3. die stehenden Betriebsmittel,
 
-4.
+4. der normale Bestand an umlaufenden Betriebsmitteln,
 
-5.
+5. die immateriellen Wirtschaftsgüter,
 
-6.
+6. die Wohngebäude und der dazugehörende Grund und Boden.
 
 (4) Zum land- und forstwirtschaftlichen Vermögen gehören nicht
 
-1.
+1. Grund und Boden sowie Gebäude und Gebäudeteile, die nicht land- und forstwirtschaftlichen Zwecken dienen,
 
-2.
+2. Kleingartenland und Dauerkleingartenland,
 
-3.
+3. Geschäftsguthaben, Wertpapiere und Beteiligungen,
 
-4.
+4. über den normalen Bestand hinausgehende Bestände an umlaufenden Betriebsmitteln,
 
-5.
+5. Tierbestände oder Zweige des Tierbestands und die hiermit zusammenhängenden Wirtschaftsgüter (zum Beispiel Gebäude und abgrenzbare Gebäudeteile mit den dazugehörenden Flächen, Betriebsmittel), wenn die Tiere weder zur landwirtschaftlichen Nutzung noch nach § 175 zu den übrigen land- und forstwirtschaftlichen Nutzungen gehören. Die Zugehörigkeit der landwirtschaftlich genutzten Flächen zum land- und forstwirtschaftlichen Vermögen wird hierdurch nicht berührt,
 
-6.
+6. Geldforderungen und Zahlungsmittel,
 
-7.
+7. Pensionsverpflichtungen.
 
 (5) Verbindlichkeiten gehören zum land- und forstwirtschaftlichen Vermögen, soweit sie nicht im unmittelbaren wirtschaftlichen Zusammenhang mit den in Absatz 4 genannten Wirtschaftsgütern stehen.
 
@@ -545,35 +537,19 @@ Eine Außenprüfung zur Ermittlung der Besteuerungsgrundlagen ist bei jedem Bete
 
 (1) Ein Betrieb der Land- und Forstwirtschaft umfasst
 
-1.
+1. den Wirtschaftsteil,
 
-2.
+2. die Betriebswohnungen und
 
-3.
+3. den Wohnteil.
 
-(2) Der Wirtschaftsteil eines Betriebs der Land- und Forstwirtschaft umfasst Der Anbau von Hopfen, Tabak und Spargel gehört nur zu den Sondernutzungen, wenn keine landwirtschaftliche Nutzung im Sinne des Satzes 1 Nr. 1 Buchstabe a vorliegt.
+(2) Der Wirtschaftsteil eines Betriebs der Land- und Forstwirtschaft umfasst
 
-1.
+1. die land- und forstwirtschaftlichen Nutzungen: a)die landwirtschaftliche Nutzung,b)die forstwirtschaftliche Nutzung,c)die weinbauliche Nutzung,d)die gärtnerische Nutzung,e)die übrigen land- und forstwirtschaftlichen Nutzungen, die landwirtschaftliche Nutzung, die forstwirtschaftliche Nutzung, die weinbauliche Nutzung, die gärtnerische Nutzung, die übrigen land- und forstwirtschaftlichen Nutzungen,
 
-a)
+2. die Nebenbetriebe,
 
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-3.
-
-a)
-
-b)
-
-c)
+3. die folgenden nicht zu einer Nutzung nach den Nummern 1 und 2 gehörenden Wirtschaftsgüter: a)Abbauland,b)Geringstland,c)Unland. Abbauland, Geringstland, Unland.
 
 (3) Nebenbetriebe sind Betriebe, die dem Hauptbetrieb zu dienen bestimmt sind und nicht einen selbständigen gewerblichen Betrieb darstellen.
 
@@ -613,33 +589,25 @@ c)
 
 (2) Der Reingewinn umfasst das ordentliche Ergebnis abzüglich eines angemessenen Lohnansatzes für die Arbeitsleistung des Betriebsinhabers und der nicht entlohnten Arbeitskräfte. Die im unmittelbaren wirtschaftlichen Zusammenhang mit einem Betrieb der Land- und Forstwirtschaft stehenden Verbindlichkeiten sind durch den Ansatz der Zinsaufwendungen abgegolten. Zur Berücksichtigung der nachhaltigen Ertragsfähigkeit ist der Durchschnitt der letzten fünf abgelaufenen Wirtschaftsjahre vor dem Bewertungsstichtag zu Grunde zu legen.
 
-(3) Der Reingewinn für die landwirtschaftliche Nutzung bestimmt sich nach der Region, der maßgeblichen Nutzungsart (Betriebsform) und der Betriebsgröße nach der Europäischen Größeneinheit (EGE). Zur Ermittlung der maßgeblichen Betriebsform ist das Klassifizierungssystem nach der Entscheidung 85/377/EWG der Kommission vom 7. Juni 1985 zur Errichtung eines gemeinschaftlichen Klassifizierungssystems der landwirtschaftlichen Betriebe (ABl. EG Nr. L 220 S. 1), zuletzt geändert durch Entscheidung der Kommission vom 16. Mai 2003 (ABl. EU Nr. L 127 S. 48), in der jeweils geltenden Fassung heranzuziehen. Hierzu sind die Standarddeckungsbeiträge der selbst bewirtschafteten Flächen und der Tiereinheiten der landwirtschaftlichen Nutzung zu ermitteln und daraus die Betriebsform zu bestimmen. Die Summe der Standarddeckungsbeiträge ist durch 1 200 Euro zu dividieren, so dass sich die Betriebsgröße in EGE ergibt, die einer der folgenden Betriebsgrößenklassen zuzuordnen ist: Das Bundesministerium der Finanzen veröffentlicht die maßgeblichen Standarddeckungsbeiträge im Bundessteuerblatt. Der entsprechende Reingewinn ergibt sich aus der Spalte 4 der Anlage 14 in Euro pro Hektar landwirtschaftlich genutzter Fläche (EUR/ha LF).
+(3) Der Reingewinn für die landwirtschaftliche Nutzung bestimmt sich nach der Region, der maßgeblichen Nutzungsart (Betriebsform) und der Betriebsgröße nach der Europäischen Größeneinheit (EGE). Zur Ermittlung der maßgeblichen Betriebsform ist das Klassifizierungssystem nach der Entscheidung 85/377/EWG der Kommission vom 7. Juni 1985 zur Errichtung eines gemeinschaftlichen Klassifizierungssystems der landwirtschaftlichen Betriebe (ABl. EG Nr. L 220 S. 1), zuletzt geändert durch Entscheidung der Kommission vom 16. Mai 2003 (ABl. EU Nr. L 127 S. 48), in der jeweils geltenden Fassung heranzuziehen. Hierzu sind die Standarddeckungsbeiträge der selbst bewirtschafteten Flächen und der Tiereinheiten der landwirtschaftlichen Nutzung zu ermitteln und daraus die Betriebsform zu bestimmen. Die Summe der Standarddeckungsbeiträge ist durch 1 200 Euro zu dividieren, so dass sich die Betriebsgröße in EGE ergibt, die einer der folgenden Betriebsgrößenklassen zuzuordnen ist:
 
-1.
+1. Kleinbetriebe von 0 bis unter 40 EGE,
 
-2.
+2. Mittelbetriebe von 40 bis 100 EGE,
 
-3.
+3. Großbetriebe über 100 EGE.
 
-(4) Der Reingewinn für die forstwirtschaftliche Nutzung bestimmt sich nach den Flächen der jeweiligen Nutzungsart (Baumartengruppe) und den Ertragsklassen. Die jeweilige Nutzungsart umfasst: Die Ertragsklassen bestimmen sich für Der nach den Sätzen 2 und 3 maßgebliche Reingewinn ergibt sich aus der Spalte 4 der Anlage 15 in Euro pro Hektar (EUR/ha).
+(4) Der Reingewinn für die forstwirtschaftliche Nutzung bestimmt sich nach den Flächen der jeweiligen Nutzungsart (Baumartengruppe) und den Ertragsklassen. Die jeweilige Nutzungsart umfasst:
 
-1.
+1. Die Baumartengruppe Buche, zu der auch sonstiges Laubholz einschließlich der Roteiche gehört,
 
-2.
+2. die Baumartengruppe Eiche, zu der auch alle übrigen Eichenarten gehören,
 
-3.
+3. die Baumartengruppe Fichte, zu der auch alle übrigen Nadelholzarten mit Ausnahme der Kiefer und der Lärche gehören,
 
-4.
+4. die Baumartengruppe Kiefer und Lärchen mit Ausnahme der Weymouthskiefer,
 
-5.
-
-1.
-
-2.
-
-3.
-
-4.
+5. die übrige Fläche der forstwirtschaftlichen Nutzung.
 
 (5) Der Reingewinn für die weinbauliche Nutzung bestimmt sich nach den Flächen der jeweiligen Nutzungsart (Verwertungsform). Er ergibt sich aus der Spalte 3 der Anlage 16.
 
@@ -691,9 +659,9 @@ c)
 
 (2) Bei der Ermittlung des jeweiligen Liquidationswerts nach Absatz 1
 
-1.
+1. ist der Grund und Boden im Sinne des § 158 Abs. 3 Satz 1 Nr. 1 mit den zuletzt vor dem Bewertungsstichtag ermittelten Bodenrichtwerten zu bewerten. § 179 Satz 2 bis 4 gilt entsprechend. Zur Berücksichtigung der Liquidationskosten ist der ermittelte Bodenwert um 10 Prozent zu mindern;
 
-2.
+2. sind die übrigen Wirtschaftsgüter im Sinne des § 158 Abs. 3 Satz 1 Nr. 2 bis 5 mit ihrem gemeinen Wert zu bewerten. Zur Berücksichtigung der Liquidationskosten sind die ermittelten Werte um 10 Prozent zu mindern.
 
 > (+++ § 166 Abs. 2: Zur Anwendung vgl. § 265 Abs. 3 +++)
 
@@ -711,11 +679,11 @@ c)
 
 (1) Der Grundbesitzwert eines Betriebs der Land- und Forstwirtschaft besteht aus
 
-1.
+1. dem Wert des Wirtschaftsteils (§ 160 Abs. 2),
 
-2.
+2. dem Wert der Betriebswohnungen (§ 160 Abs. 8) abzüglich der damit im unmittelbaren wirtschaftlichen Zusammenhang stehenden Verbindlichkeiten,
 
-3.
+3. dem Wert des Wohnteils (§ 160 Abs. 9) abzüglich der damit im unmittelbaren wirtschaftlichen Zusammenhang stehenden Verbindlichkeiten.
 
 (2) Der Grundbesitzwert für Stückländereien als Betrieb der Land- und Forstwirtschaft (§ 160 Abs. 7) besteht nur aus dem Wert des Wirtschaftsteils.
 
@@ -723,11 +691,11 @@ c)
 
 (4) Der Wert des Wirtschafteils ist nach den beim Mindestwert (§ 164) zu Grunde gelegten Verhältnissen aufzuteilen. Dabei ist
 
-1.
+1. der Wert des Grund und Bodens und der Wirtschaftsgebäude oder ein Anteil daran (§ 158 Abs. 3 Satz 1 Nr. 1 und 2) dem jeweiligen Eigentümer zuzurechnen. Im Falle des Gesamthandseigentums ist der Wert des Grund und Bodens nach der Höhe der gesellschaftsrechtlichen Beteiligung aufzuteilen;
 
-2.
+2. der Wert der übrigen Wirtschaftsgüter (§ 158 Abs. 3 Satz 1 Nr. 3 bis 5) nach dem Wertverhältnis der dem Betrieb zur Verfügung gestellten Wirtschaftsgüter aufzuteilen. Im Falle des Gesamthandseigentums ist der Wert der übrigen Wirtschaftsgüter nach der Höhe der gesellschaftsrechtlichen Beteiligung aufzuteilen;
 
-3.
+3. der Wert der zu berücksichtigenden Verbindlichkeiten (§ 164 Abs. 4) dem jeweiligen Schuldner zuzurechnen. Im Falle des Gesamthandseigentums ist der Wert der zu berücksichtigenden Verbindlichkeiten nach der Höhe der gesellschaftsrechtlichen Beteiligung aufzuteilen.
 
 (5) Der Wert für die Betriebswohnungen ist dem jeweiligen Eigentümer zuzurechnen. Im Falle des Gesamthandseigentums ist der Wert nach der Höhe der gesellschaftsrechtlichen Beteiligung aufzuteilen.
 
@@ -737,19 +705,17 @@ c)
 
 ### § 169 — Tierbestände
 
-(1) Tierbestände gehören in vollem Umfang zur landwirtschaftlichen Nutzung, wenn im Wirtschaftsjahr
-
 (2) Übersteigt die Anzahl der Vieheinheiten nachhaltig die in Absatz 1 bezeichnete Grenze, so gehören nur die Zweige des Tierbestands zur landwirtschaftlichen Nutzung, deren Vieheinheiten zusammen diese Grenze nicht überschreiten. Zunächst sind mehr flächenabhängige Zweige des Tierbestands und danach weniger flächenabhängige Zweige des Tierbestands zur landwirtschaftlichen Nutzung zu rechnen. Innerhalb jeder dieser Gruppen sind zuerst Zweige des Tierbestands mit der geringeren Anzahl von Vieheinheiten und dann Zweige mit der größeren Anzahl von Vieheinheiten zur landwirtschaftlichen Nutzung zu rechnen. Der Tierbestand des einzelnen Zweiges wird nicht aufgeteilt.
 
-(3) Als Zweig des Tierbestands gilt bei jeder Tierart für sich Das Zuchtvieh einer Tierart gilt nur dann als besonderer Zweig des Tierbestands, wenn die erzeugten Jungtiere überwiegend zum Verkauf bestimmt sind. Ist das nicht der Fall, so ist das Zuchtvieh dem Zweig des Tierbestands zuzurechnen, dem es überwiegend dient.
+(3) Als Zweig des Tierbestands gilt bei jeder Tierart für sich
 
-1.
+1. das Zugvieh,
 
-2.
+2. das Zuchtvieh,
 
-3.
+3. das Mastvieh und
 
-4.
+4. das übrige Nutzvieh.
 
 (4) Die Absätze 1 bis 3 gelten nicht für Pelztiere. Pelztiere gehören nur dann zur landwirtschaftlichen Nutzung, wenn die erforderlichen Futtermittel überwiegend von den vom Inhaber des Betriebs landwirtschaftlich genutzter Flächen gewonnen werden.
 
@@ -793,57 +759,57 @@ Bei der forstwirtschaftlichen Nutzung sind abweichend von § 161 Abs. 1 für den
 
 (1) Zu den übrigen land- und forstwirtschaftlichen Nutzungen gehören
 
-1.
+1. die Sondernutzungen Hopfen, Spargel, Tabak und andere Sonderkulturen,
 
-2.
+2. die sonstigen land- und forstwirtschaftlichen Nutzungen.
 
 (2) Zu den sonstigen land- und forstwirtschaftlichen Nutzungen gehören insbesondere
 
-1.
+1. die Binnenfischerei,
 
-2.
+2. die Teichwirtschaft,
 
-3.
+3. die Fischzucht für Binnenfischerei und Teichwirtschaft,
 
-4.
+4. die Imkerei,
 
-5.
+5. die Wanderschäferei,
 
-6.
+6. die Saatzucht,
 
-7.
+7. der Pilzanbau,
 
-8.
+8. die Produktion von Nützlingen,
 
-9.
+9. die Weihnachtsbaumkulturen.
 
 ## I.: Allgemeines
 
 ### § 176 — Grundvermögen
 
-(1) Zum Grundvermögen gehören soweit es sich nicht um land- und forstwirtschaftliches Vermögen (§§ 158 und 159) oder um Betriebsgrundstücke (§ 99) handelt.
+(1) Zum Grundvermögen gehören
 
-1.
+1. der Grund und Boden, die Gebäude, die sonstigen Bestandteile und das Zubehör,
 
-2.
+2. das Erbbaurecht,
 
-3.
+3. das Wohnungseigentum, Teileigentum, Wohnungserbbaurecht und Teilerbbaurecht nach dem Wohnungseigentumsgesetz,
 
 (2) In das Grundvermögen sind nicht einzubeziehen
 
-1.
+1. Bodenschätze,
 
-2.
+2. die Maschinen und sonstigen Vorrichtungen aller Art, die zu einer Betriebsanlage gehören (Betriebsvorrichtungen), auch wenn sie wesentliche Bestandteile sind. Einzubeziehen sind jedoch die Verstärkungen von Decken und die nicht ausschließlich zu einer Betriebsanlage gehörenden Stützen und sonstigen Bauteile wie Mauervorlagen und Verstrebungen.
 
 ### § 177 — Bewertung
 
 (1) Den Bewertungen nach den §§ 179 und 182 bis 196 ist der gemeine Wert (§ 9) zu Grunde zu legen.
 
-(2) Bei den Bewertungen nach den §§ 182 bis 196 sind die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs ermittelten sonstigen für die Wertermittlung erforderlichen Daten im Sinne des § 193 Absatz 5 Satz 2 des Baugesetzbuchs anzuwenden, wenn diese Daten im Sinne des Absatzes 3 als geeignet anzusehen sind. Hat der Gutachterausschuss diese Daten auf einen Stichtag bezogen, ist der letzte Stichtag vor dem Bewertungsstichtag maßgeblich, sofern dieser nicht mehr als drei Jahre vor dem Bewertungsstichtag liegt. Liegt der Bezugsstichtag mehr als drei Jahre zurück oder ist kein Bezugsstichtag bestimmt, sind die sonstigen für die Wertermittlung erforderlichen Daten anzuwenden, die von den Gutachterausschüssen für den letzten Auswertungszeitraum abgeleitet werden, der vor dem Kalenderjahr endet, in dem der Bewertungsstichtag liegt. Diese Daten sind für längstens drei Jahre ab dem Ende des Kalenderjahres maßgeblich, in dem der vom Gutachterausschuss zugrunde gelegte Auswertungszeitraum endet. Soweit sich die maßgeblichen Wertverhältnisse nicht wesentlich geändert haben, können die Daten auch über einen längeren Zeitraum als drei Jahre hinaus angewendet werden.
+(2) Bei den Bewertungen nach den §§ 182 bis 196 sind die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs ermittelten sonstigen für die Wertermittlung erforderlichen Daten im Sinne des § 193 Absatz 5 Satz 2 des Baugesetzbuchs anzuwenden, wenn diese Daten im Sinne des Absatzes 3 als geeignet anzusehen sind. Hat der Gutachterausschuss diese Daten auf einen Stichtag bezogen, ist der letzte Stichtag vor dem Bewertungsstichtag maßgeblich, sofern dieser nicht mehr als drei Jahre vor dem Bewertungsstichtag liegt. Liegt der Bezugsstichtag mehr als drei Jahre zurück oder ist kein Bezugsstichtag bestimmt, sind die sonstigen für die Wertermittlung erforderlichen Daten anzuwenden, die von den Gutachterausschüssen für den letzten Auswertungszeitraum abgeleitet werden, der vor dem Kalenderjahr endet, in dem der Bewertungsstichtag liegt. Diese Daten sind für längstens drei Jahre ab dem Ende des Kalenderjahres maßgeblich, in dem der vom Gutachterausschuss zugrunde gelegte Auswertungszeitraum endet. Soweit sich die maßgeblichen Wertverhältnisse nicht wesentlich geändert haben, können die Daten auch über einen längeren Zeitraum als drei Jahre hinaus angewendet werden.
 
 (3) Die sonstigen für die Wertermittlung erforderlichen Daten nach Absatz 2 sind als geeignet anzusehen, wenn deren Ableitung weitgehend in demselben Modell erfolgt ist wie die Bewertung.
 
-(4) Soweit in den §§ 179 und 182 bis 196 nichts anderes bestimmt ist, werden Besonderheiten, insbesondere die den Wert beeinflussenden Belastungen privatrechtlicher und öffentlich-rechtlicher Art, nicht berücksichtigt. § 198 bleibt hiervon unberührt.
+(4) Soweit in den §§ 179 und 182 bis 196 nichts anderes bestimmt ist, werden Besonderheiten, insbesondere die den Wert beeinflussenden Belastungen privatrechtlicher und öffentlich-rechtlicher Art, nicht berücksichtigt. § 198 bleibt hiervon unberührt.
 
 > (+++ § 177: Zur Anwendung vgl. § 265 +++)
 
@@ -873,17 +839,17 @@ Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche u
 
 (1) Bei der Bewertung bebauter Grundstücke sind die folgenden Grundstücksarten zu unterscheiden:
 
-1.
+1. Ein- und Zweifamilienhäuser,
 
-2.
+2. Mietwohngrundstücke,
 
-3.
+3. Wohnungs- und Teileigentum,
 
-4.
+4. Geschäftsgrundstücke,
 
-5.
+5. gemischt genutzte Grundstücke und
 
-6.
+6. sonstige bebaute Grundstücke.
 
 (2) Ein- und Zweifamilienhäuser sind Wohngrundstücke, die bis zu zwei Wohnungen enthalten und kein Wohnungseigentum sind. Ein Grundstück gilt auch dann als Ein- oder Zweifamilienhaus, wenn es zu weniger als 50 Prozent, berechnet nach der Wohn- oder Nutzfläche, zu anderen als Wohnzwecken mitbenutzt und dadurch die Eigenart als Ein- oder Zweifamilienhaus nicht wesentlich beeinträchtigt wird.
 
@@ -909,25 +875,25 @@ Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche u
 
 (2) Im Vergleichswertverfahren sind grundsätzlich zu bewerten
 
-1.
+1. Wohnungseigentum,
 
-2.
+2. Teileigentum,
 
-3.
+3. Ein- und Zweifamilienhäuser.
 
 (3) Im Ertragswertverfahren sind zu bewerten
 
-1.
+1. Mietwohngrundstücke,
 
-2.
+2. Geschäftsgrundstücke und gemischt genutzte Grundstücke, für die sich auf dem örtlichen Grundstücksmarkt eine übliche Miete ermitteln lässt.
 
 (4) Im Sachwertverfahren sind zu bewerten
 
-1.
+1. Grundstücke im Sinne des Absatzes 2, wenn kein Vergleichswert vorliegt,
 
-2.
+2. Geschäftsgrundstücke und gemischt genutzte Grundstücke mit Ausnahme der in Absatz 3 Nr. 2 genannten Grundstücke,
 
-3.
+3. sonstige bebaute Grundstücke.
 
 ### § 183 — Bewertung im Vergleichswertverfahren
 
@@ -965,11 +931,11 @@ Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche u
 
 (1) Rohertrag ist das Entgelt, das für die Benutzung des bebauten Grundstücks nach den am Bewertungsstichtag geltenden vertraglichen Vereinbarungen für den Zeitraum von zwölf Monaten zu zahlen ist. Umlagen, die zur Deckung der Betriebskosten gezahlt werden, sind nicht anzusetzen.
 
-(2) Für Grundstücke oder Grundstücksteile, ist die übliche Miete anzusetzen. Die übliche Miete ist in Anlehnung an die Miete zu schätzen, die für Räume gleicher oder ähnlicher Art, Lage und Ausstattung regelmäßig gezahlt wird. Betriebskosten sind nicht einzubeziehen.
+(2) Für Grundstücke oder Grundstücksteile,
 
-1.
+1. die eigengenutzt, ungenutzt, zu vorübergehendem Gebrauch oder unentgeltlich überlassen sind,
 
-2.
+2. die der Eigentümer dem Mieter zu einer um mehr als 20 Prozent von der üblichen Miete abweichenden tatsächlichen Miete überlassen hat,
 
 ### § 187 — Bewirtschaftungskosten
 
@@ -985,15 +951,15 @@ Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche u
 
 (1) Liegenschaftszinssätze sind Kapitalisierungszinssätze, mit denen Verkehrswerte von Grundstücken je nach Grundstücksart im Durchschnitt marktüblich verzinst werden.
 
-(2) Anzuwenden sind die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs ermittelten Liegenschaftszinssätze nach Maßgabe des § 177 Absatz 2 und 3. Soweit derartige Liegenschaftszinssätze nicht zur Verfügung stehen, gelten die folgenden Zinssätze:
+(2) Anzuwenden sind die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs ermittelten Liegenschaftszinssätze nach Maßgabe des § 177 Absatz 2 und 3. Soweit derartige Liegenschaftszinssätze nicht zur Verfügung stehen, gelten die folgenden Zinssätze:
 
-1.
+1. 3,5 Prozent für Mietwohngrundstücke,
 
-2.
+2. 4,5 Prozent für gemischt genutzte Grundstücke mit einem gewerblichen Anteil von bis zu 50 Prozent, berechnet nach der Wohn- und Nutzfläche,
 
-3.
+3. 5,0 Prozent für gemischt genutzte Grundstücke mit einem gewerblichen Anteil von mehr als 50 Prozent, berechnet nach der Wohn- und Nutzfläche, und
 
-4.
+4. 6,0 Prozent für Geschäftsgrundstücke.
 
 > (+++ § 188: Zur Anwendung vgl. § 265 +++)
 
@@ -1027,7 +993,7 @@ Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche u
 
 ### § 191 — Wertzahlen
 
-Als Wertzahlen im Sinne des § 189 Absatz 3 sind die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs ermittelten Sachwertfaktoren nach Maßgabe des § 177 Absatz 2 und 3 anzuwenden. Soweit derartige Sachwertfaktoren nicht zur Verfügung stehen, sind die in Anlage 25 bestimmten Wertzahlen zu verwenden.
+Als Wertzahlen im Sinne des § 189 Absatz 3 sind die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs ermittelten Sachwertfaktoren nach Maßgabe des § 177 Absatz 2 und 3 anzuwenden. Soweit derartige Sachwertfaktoren nicht zur Verfügung stehen, sind die in Anlage 25 bestimmten Wertzahlen zu verwenden.
 
 > (+++ § 191: Zur Anwendung vgl. § 265 +++)
 
@@ -1041,29 +1007,29 @@ Ist das Grundstück mit einem Erbbaurecht belastet, sind die Werte für die wirt
 
 ### § 193 — Bewertung des Erbbaurechts
 
-(1) Der Wert des Erbbaurechts ist durch Multiplikation des Werts des unbelasteten Grundstücks mit einem Erbbaurechtskoeffizienten zu ermitteln. Anzuwenden sind die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs ermittelten Erbbaurechtskoeffizienten nach Maßgabe des § 177 Absatz 2 und 3. Der Wert des unbelasteten Grundstücks ist der Wert des Grundstücks, der nach den §§ 179, 182 bis 196 festzustellen wäre, wenn die Belastung mit dem Erbbaurecht nicht bestünde.
+(1) Der Wert des Erbbaurechts ist durch Multiplikation des Werts des unbelasteten Grundstücks mit einem Erbbaurechtskoeffizienten zu ermitteln. Anzuwenden sind die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs ermittelten Erbbaurechtskoeffizienten nach Maßgabe des § 177 Absatz 2 und 3. Der Wert des unbelasteten Grundstücks ist der Wert des Grundstücks, der nach den §§ 179, 182 bis 196 festzustellen wäre, wenn die Belastung mit dem Erbbaurecht nicht bestünde.
 
-(2) Der Wert des Erbbaurechts ist durch Multiplikation des nach den Absätzen 3 bis 5 ermittelten Werts mit einem Erbbaurechtsfaktor zu ermitteln, wenn für das zu bewertende Erbbaurecht kein Erbbaurechtskoeffizient nach Absatz 1 vorliegt. Anzuwenden sind die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs ermittelten Erbbaurechtsfaktoren nach Maßgabe des § 177 Absatz 2 und 3. Soweit derartige Erbbaurechtsfaktoren nicht zur Verfügung stehen, gilt der Erbbaurechtsfaktor 1,0.
+(2) Der Wert des Erbbaurechts ist durch Multiplikation des nach den Absätzen 3 bis 5 ermittelten Werts mit einem Erbbaurechtsfaktor zu ermitteln, wenn für das zu bewertende Erbbaurecht kein Erbbaurechtskoeffizient nach Absatz 1 vorliegt. Anzuwenden sind die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs ermittelten Erbbaurechtsfaktoren nach Maßgabe des § 177 Absatz 2 und 3. Soweit derartige Erbbaurechtsfaktoren nicht zur Verfügung stehen, gilt der Erbbaurechtsfaktor 1,0.
 
-(3) Zur Ermittlung des Werts des Erbbaurechts wird zunächst die Summe aus gebildet. Ein bei Ablauf des Erbbaurechts nicht zu entschädigender Wertanteil der Gebäude oder des Gebäudes nach Absatz 5 ist abzuziehen.
+(3) Zur Ermittlung des Werts des Erbbaurechts wird zunächst die Summe aus
 
-1.
+1. dem Wert des unbelasteten Grundstücks im Sinne des Absatzes 1 Satz 3 abzüglich des Bodenwerts des unbelasteten Grundstücks nach § 179 und
 
-2.
+2. der nach Absatz 4 über die Restlaufzeit des Erbbaurechts kapitalisierten Differenz aus dem angemessenen Verzinsungsbetrag des Bodenwerts des unbelasteten Grundstücks und dem vertraglich vereinbarten jährlichen Erbbauzins
 
-(4) Der Unterschiedsbetrag aus dem angemessenen Verzinsungsbetrag des Bodenwerts des unbelasteten Grundstücks und dem vertraglich vereinbarten jährlichen Erbbauzins ist über die Restlaufzeit des Erbbaurechts mit dem sich aus Anlage 21 ergebenden Vervielfältiger zu kapitalisieren. Für die Kapitalisierung sind die Zinssätze zu verwenden, die der Ermittlung des Erbbaurechtsfaktors im Sinne des Absatzes 2 Satz 2 zugrunde gelegt wurden. Soweit derartige Zinssätze nicht zur Verfügung stehen, gelten folgende Zinssätze: Der angemessene Verzinsungsbetrag des Bodenwerts des unbelasteten Grundstücks ergibt sich durch Anwendung des Zinssatzes nach Satz 2 oder 3 auf den Bodenwert nach § 179. Liegt ein immerwährendes Erbbaurecht vor, entspricht der Vervielfältiger dem Kehrwert des nach Satz 2 oder 3 anzuwendenden Zinssatzes.
+(4) Der Unterschiedsbetrag aus dem angemessenen Verzinsungsbetrag des Bodenwerts des unbelasteten Grundstücks und dem vertraglich vereinbarten jährlichen Erbbauzins ist über die Restlaufzeit des Erbbaurechts mit dem sich aus Anlage 21 ergebenden Vervielfältiger zu kapitalisieren. Für die Kapitalisierung sind die Zinssätze zu verwenden, die der Ermittlung des Erbbaurechtsfaktors im Sinne des Absatzes 2 Satz 2 zugrunde gelegt wurden. Soweit derartige Zinssätze nicht zur Verfügung stehen, gelten folgende Zinssätze:
 
-1.
+1. 2,5 Prozent für Ein- und Zweifamilienhäuser und Wohnungseigentum, das wie Ein- und Zweifamilienhäuser gestaltet ist,
 
-2.
+2. 3,5 Prozent für Mietwohngrundstücke und Wohnungseigentum, das nicht unter Nummer 1 fällt,
 
-3.
+3. 4,5 Prozent für gemischt genutzte Grundstücke mit einem gewerblichen Anteil von bis zu 50 Prozent, berechnet nach der Wohn- und Nutzfläche, sowie sonstige bebaute Grundstücke,
 
-4.
+4. 5,0 Prozent für gemischt genutzte Grundstücke mit einem gewerblichen Anteil von mehr als 50 Prozent, berechnet nach der Wohn- und Nutzfläche, und
 
-5.
+5. 6,0 Prozent für Geschäftsgrundstücke und Teileigentum.
 
-(5) Zur Ermittlung des bei Ablauf des Erbbaurechts nicht zu entschädigenden Wertanteils der Gebäude oder des Gebäudes im Sinne des Absatzes 3 Satz 2 ist auf den Zeitpunkt des Ablaufs des Erbbaurechts die Differenz aus dem Wert des Grundstücks nach den §§ 179, 182 bis 196 und dem Bodenwert nach § 179 zu ermitteln. Hierbei ist die Restnutzungsdauer des Gebäudes bei Ablauf des Erbbaurechts zugrunde zu legen. Der so ermittelte Unterschiedsbetrag ist über die Restlaufzeit des Erbbaurechts nach Maßgabe der Anlage 26 auf den Bewertungsstichtag abzuzinsen. Für die Abzinsung sind die Zinssätze im Sinne des Absatzes 4 Satz 2 oder 3 anzuwenden. Liegt ein immerwährendes Erbbaurecht vor, ist der Abzinsungsfaktor 0. Der auf den Bewertungsstichtag abgezinste Unterschiedsbetrag ist mit dem nicht zu entschädigenden Wertanteil der jeweiligen Gebäude zu multiplizieren.
+(5) Zur Ermittlung des bei Ablauf des Erbbaurechts nicht zu entschädigenden Wertanteils der Gebäude oder des Gebäudes im Sinne des Absatzes 3 Satz 2 ist auf den Zeitpunkt des Ablaufs des Erbbaurechts die Differenz aus dem Wert des Grundstücks nach den §§ 179, 182 bis 196 und dem Bodenwert nach § 179 zu ermitteln. Hierbei ist die Restnutzungsdauer des Gebäudes bei Ablauf des Erbbaurechts zugrunde zu legen. Der so ermittelte Unterschiedsbetrag ist über die Restlaufzeit des Erbbaurechts nach Maßgabe der Anlage 26 auf den Bewertungsstichtag abzuzinsen. Für die Abzinsung sind die Zinssätze im Sinne des Absatzes 4 Satz 2 oder 3 anzuwenden. Liegt ein immerwährendes Erbbaurecht vor, ist der Abzinsungsfaktor 0. Der auf den Bewertungsstichtag abgezinste Unterschiedsbetrag ist mit dem nicht zu entschädigenden Wertanteil der jeweiligen Gebäude zu multiplizieren.
 
 > (+++ § 193: Zur Anwendung vgl. § 265 +++)
 
@@ -1071,15 +1037,15 @@ Ist das Grundstück mit einem Erbbaurecht belastet, sind die Werte für die wirt
 
 (1) Der Wert des Erbbaugrundstücks ist durch Multiplikation des Bodenwerts des unbelasteten Grundstücks mit einem Erbbaugrundstückskoeffizienten zu ermitteln. Anzuwenden sind die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs ermittelten Erbbaugrundstückskoeffizienten nach Maßgabe des § 177 Absatz 2 und 3. Der Bodenwert des unbelasteten Grundstücks ist der Wert des Grundstücks, der nach § 179 festzustellen wäre, wenn die Belastung mit dem Erbbaurecht nicht bestünde.
 
-(2) Der Wert des Erbbaugrundstücks ist durch Multiplikation des Werts des Erbbaugrundstücks nach den Absätzen 3 bis 5 mit einem Erbbaugrundstücksfaktor zu ermitteln, wenn für das zu bewertende Erbbaugrundstück kein Erbbaugrundstückskoeffizient nach Absatz 1 vorliegt. Anzuwenden sind die von den Gutachterausschüssen ermittelten Erbbaugrundstücksfaktoren nach Maßgabe des § 177 Absatz 2 und 3. Soweit derartige Erbbaugrundstücksfaktoren nicht zur Verfügung stehen, gilt der Erbbaugrundstücksfaktor 1,0.
+(2) Der Wert des Erbbaugrundstücks ist durch Multiplikation des Werts des Erbbaugrundstücks nach den Absätzen 3 bis 5 mit einem Erbbaugrundstücksfaktor zu ermitteln, wenn für das zu bewertende Erbbaugrundstück kein Erbbaugrundstückskoeffizient nach Absatz 1 vorliegt. Anzuwenden sind die von den Gutachterausschüssen ermittelten Erbbaugrundstücksfaktoren nach Maßgabe des § 177 Absatz 2 und 3. Soweit derartige Erbbaugrundstücksfaktoren nicht zur Verfügung stehen, gilt der Erbbaugrundstücksfaktor 1,0.
 
-(3) Zur Ermittlung des Werts des Erbbaugrundstücks wird zunächst die Summe aus gebildet. Ein bei Ablauf des Erbbaurechts nicht zu entschädigender Wertanteil der Gebäude oder des Gebäudes nach § 193 Absatz 5 ist hinzuzurechnen.
+(3) Zur Ermittlung des Werts des Erbbaugrundstücks wird zunächst die Summe aus
 
-1.
+1. dem nach Absatz 4 über die Restlaufzeit des Erbbaurechts abgezinsten Bodenwert des unbelasteten Grundstücks im Sinne des Absatzes 1 Satz 3 und
 
-2.
+2. dem nach Absatz 5 über die Restlaufzeit des Erbbaurechts kapitalisierten vertraglich vereinbarten jährlichen Erbbauzins
 
-(4) Der Bodenwert des unbelasteten Grundstücks im Sinne des Absatzes 1 Satz 3 ist über die Restlaufzeit des Erbbaurechts mit dem sich aus der Anlage 26 ergebenden Abzinsungsfaktor abzuzinsen. Für die Abzinsung sind die Zinssätze zu verwenden, die der Ermittlung des Erbbaugrundstücksfaktors im Sinne des Absatzes 2 Satz 2 zugrunde gelegt wurden. Soweit von den Gutachterausschüssen keine derartigen Zinssätze zur Verfügung stehen, gelten die Zinssätze nach § 193 Absatz 4 Satz 3. Liegt ein immerwährendes Erbbaurecht vor, ist der Abzinsungsfaktor 0.
+(4) Der Bodenwert des unbelasteten Grundstücks im Sinne des Absatzes 1 Satz 3 ist über die Restlaufzeit des Erbbaurechts mit dem sich aus der Anlage 26 ergebenden Abzinsungsfaktor abzuzinsen. Für die Abzinsung sind die Zinssätze zu verwenden, die der Ermittlung des Erbbaugrundstücksfaktors im Sinne des Absatzes 2 Satz 2 zugrunde gelegt wurden. Soweit von den Gutachterausschüssen keine derartigen Zinssätze zur Verfügung stehen, gelten die Zinssätze nach § 193 Absatz 4 Satz 3. Liegt ein immerwährendes Erbbaurecht vor, ist der Abzinsungsfaktor 0.
 
 (5) Der vertraglich vereinbarte jährliche Erbbauzins ist über die Restlaufzeit des Erbbaurechts mit dem sich aus Anlage 21 ergebenden Vervielfältiger zu kapitalisieren. Für die Kapitalisierung sind die Zinssätze zu verwenden, die der Ermittlung des Erbbaugrundstücksfaktors im Sinne des Absatzes 2 Satz 2 zugrunde gelegt wurden. Soweit von den Gutachterausschüssen keine derartigen Zinssätze zur Verfügung stehen, gelten die Zinssätze nach § 193 Absatz 4 Satz 3. Liegt ein immerwährendes Erbbaurecht vor, entspricht der Vervielfältiger dem Kehrwert des nach Satz 2 oder 3 anzuwendenden Zinssatzes.
 
@@ -1089,23 +1055,23 @@ Ist das Grundstück mit einem Erbbaurecht belastet, sind die Werte für die wirt
 
 (1) In Fällen von Gebäuden auf fremdem Grund und Boden sind die Werte für die wirtschaftliche Einheit des Gebäudes auf fremdem Grund und Boden (Absätze 2 bis 4) und die wirtschaftliche Einheit des belasteten Grundstücks (Absätze 5 bis 7) gesondert zu ermitteln. Die ermittelten Grundbesitzwerte dürfen nicht weniger als 0 Euro betragen.
 
-(2) Der Wert des Gebäudes auf fremdem Grund und Boden wird ermittelt durch Bildung der Summe aus Ein bei Ablauf des Nutzungsrechts nicht zu entschädigender Wertanteil der Gebäude oder des Gebäudes nach Absatz 4 ist abzuziehen.
+(2) Der Wert des Gebäudes auf fremdem Grund und Boden wird ermittelt durch Bildung der Summe aus
 
-1.
+1. dem Wert des Grundstücks, der nach den §§ 179, 182 bis 196 festzustellen wäre, wenn die Belastung mit dem Nutzungsrecht nicht bestünde, abzüglich des Bodenwerts des unbelasteten Grundstücks nach § 179 und
 
-2.
+2. der nach Absatz 3 über die Restlaufzeit des Nutzungsrechts kapitalisierten Differenz aus dem angemessenen Verzinsungsbetrag des Bodenwerts des unbelasteten Grundstücks und dem vertraglich vereinbarten jährlichen Nutzungsentgelt.
 
-(3) Der Unterschiedsbetrag aus dem angemessenen Verzinsungsbetrag des Bodenwerts des unbelasteten Grundstücks und dem vertraglich vereinbarten jährlichen Nutzungsentgelt ist über die Restlaufzeit des Nutzungsrechts mit dem sich aus der Anlage 21 ergebenden Vervielfältiger zu kapitalisieren. Für die Kapitalisierung sind die von den Gutachterausschüssen ermittelten Liegenschaftszinssätze nach Maßgabe des § 177 Absatz 2 und 3 zugrunde zu legen. Soweit von den Gutachterausschüssen keine derartigen Liegenschaftszinssätze zur Verfügung stehen, gelten die Zinssätze nach § 193 Absatz 4 Satz 3 entsprechend. Der angemessene Verzinsungsbetrag des Bodenwerts des fiktiv unbelasteten Grundstücks ergibt sich durch Anwendung des Zinssatzes nach Satz 2 oder 3 auf den Bodenwert nach § 179. Liegt ein immerwährendes Nutzungsrecht vor, entspricht der Vervielfältiger dem Kehrwert des nach Satz 2 oder 3 anzuwendenden Zinssatzes.
+(3) Der Unterschiedsbetrag aus dem angemessenen Verzinsungsbetrag des Bodenwerts des unbelasteten Grundstücks und dem vertraglich vereinbarten jährlichen Nutzungsentgelt ist über die Restlaufzeit des Nutzungsrechts mit dem sich aus der Anlage 21 ergebenden Vervielfältiger zu kapitalisieren. Für die Kapitalisierung sind die von den Gutachterausschüssen ermittelten Liegenschaftszinssätze nach Maßgabe des § 177 Absatz 2 und 3 zugrunde zu legen. Soweit von den Gutachterausschüssen keine derartigen Liegenschaftszinssätze zur Verfügung stehen, gelten die Zinssätze nach § 193 Absatz 4 Satz 3 entsprechend. Der angemessene Verzinsungsbetrag des Bodenwerts des fiktiv unbelasteten Grundstücks ergibt sich durch Anwendung des Zinssatzes nach Satz 2 oder 3 auf den Bodenwert nach § 179. Liegt ein immerwährendes Nutzungsrecht vor, entspricht der Vervielfältiger dem Kehrwert des nach Satz 2 oder 3 anzuwendenden Zinssatzes.
 
-(4) Zur Ermittlung des bei Ablauf des Nutzungsrechts nicht zu entschädigenden Wertanteils der Gebäude oder des Gebäudes im Sinne des Absatzes 2 Satz 2 ist auf den Zeitpunkt des Ablaufs des Nutzungsrechts die Differenz aus dem Wert des unbelasteten Grundstücks nach den §§ 179, 182 bis 196 und dem Bodenwert nach § 179 zu ermitteln. Hierbei ist die Restnutzungsdauer des Gebäudes bei Ablauf des Nutzungsrechts zugrunde zu legen. Die so ermittelte Differenz ist über die Restlaufzeit des Nutzungsrechts nach Maßgabe der Anlage 26 auf den Bewertungsstichtag abzuzinsen. Für die Abzinsung sind die Liegenschaftszinssätze im Sinne des Absatzes 3 Satz 2 oder 3 anzuwenden. Liegt ein immerwährendes Nutzungsrecht vor, ist der Abzinsungsfaktor 0. Die auf den Bewertungsstichtag abgezinste Differenz ist mit dem nicht zu entschädigenden Wertanteil der jeweiligen Gebäude zu multiplizieren. Ist der Nutzer verpflichtet, das Gebäude bei Ablauf des Nutzungsrechts zu beseitigen, ergibt sich kein Wertanteil des Gebäudes.
+(4) Zur Ermittlung des bei Ablauf des Nutzungsrechts nicht zu entschädigenden Wertanteils der Gebäude oder des Gebäudes im Sinne des Absatzes 2 Satz 2 ist auf den Zeitpunkt des Ablaufs des Nutzungsrechts die Differenz aus dem Wert des unbelasteten Grundstücks nach den §§ 179, 182 bis 196 und dem Bodenwert nach § 179 zu ermitteln. Hierbei ist die Restnutzungsdauer des Gebäudes bei Ablauf des Nutzungsrechts zugrunde zu legen. Die so ermittelte Differenz ist über die Restlaufzeit des Nutzungsrechts nach Maßgabe der Anlage 26 auf den Bewertungsstichtag abzuzinsen. Für die Abzinsung sind die Liegenschaftszinssätze im Sinne des Absatzes 3 Satz 2 oder 3 anzuwenden. Liegt ein immerwährendes Nutzungsrecht vor, ist der Abzinsungsfaktor 0. Die auf den Bewertungsstichtag abgezinste Differenz ist mit dem nicht zu entschädigenden Wertanteil der jeweiligen Gebäude zu multiplizieren. Ist der Nutzer verpflichtet, das Gebäude bei Ablauf des Nutzungsrechts zu beseitigen, ergibt sich kein Wertanteil des Gebäudes.
 
-(5) Der Wert des mit dem Nutzungsrecht belasteten Grundstücks wird ermittelt durch Bildung der Summe aus Ein bei Ablauf des Nutzungsrechts nicht zu entschädigender Wertanteil der Gebäude oder des Gebäudes im Sinne des Absatzes 4 ist hinzuzurechnen.
+(5) Der Wert des mit dem Nutzungsrecht belasteten Grundstücks wird ermittelt durch Bildung der Summe aus
 
-1.
+1. dem nach Absatz 6 über die Restlaufzeit des Nutzungsrechts abgezinsten Wert des Grundstücks, der nach § 179 festzustellen wäre, wenn die Belastung mit dem Nutzungsrecht nicht bestünde, und
 
-2.
+2. dem nach Absatz 7 über die Restlaufzeit des Nutzungsrechts kapitalisierten vertraglich vereinbarten jährlichen Nutzungsentgelt.
 
-(6) Der Wert des unbelasteten Grundstücks nach § 179 ist über die Restlaufzeit des Nutzungsrechts mit dem sich aus der Anlage 26 ergebenden Abzinsungsfaktor abzuzinsen. Für die Abzinsung sind die Zinssätze nach Absatz 3 Satz 2 oder 3 zugrunde zu legen. Liegt ein immerwährendes Nutzungsrecht vor, ist der Abzinsungsfaktor 0.
+(6) Der Wert des unbelasteten Grundstücks nach § 179 ist über die Restlaufzeit des Nutzungsrechts mit dem sich aus der Anlage 26 ergebenden Abzinsungsfaktor abzuzinsen. Für die Abzinsung sind die Zinssätze nach Absatz 3 Satz 2 oder 3 zugrunde zu legen. Liegt ein immerwährendes Nutzungsrecht vor, ist der Abzinsungsfaktor 0.
 
 (7) Das vertraglich vereinbarte jährliche Nutzungsentgelt ist über die Restlaufzeit des Nutzungsrechts mit dem sich aus der Anlage 21 ergebenden Vervielfältiger zu kapitalisieren. Für die Kapitalisierung sind die Zinssätze nach Absatz 3 Satz 2 oder 3 zugrunde zu legen. Liegt ein immerwährendes Nutzungsrecht vor, entspricht der Vervielfältiger dem Kehrwert des nach Absatz 3 Satz 2 oder 3 anzuwendenden Zinssatzes.
 
@@ -1163,35 +1129,11 @@ Gebäude, Teile von Gebäuden und Anlagen, die wegen der in § 1 des Zivilschutz
 
 (1) Zur Ermittlung des Betriebsergebnisses ist von dem Gewinn im Sinne des § 4 Abs. 1 Satz 1 des Einkommensteuergesetzes auszugehen (Ausgangswert); dabei bleiben bei einem Anteil am Betriebsvermögen Ergebnisse aus den Sonderbilanzen und Ergänzungsbilanzen unberücksichtigt. Der Ausgangswert ist noch wie folgt zu korrigieren:
 
-1.
+1. Hinzuzurechnen sind a)Investitionsabzugsbeträge, Sonderabschreibungen oder erhöhte Absetzungen, Bewertungsabschläge, Zuführungen zu steuerfreien Rücklagen sowie Teilwertabschreibungen. Es sind nur die normalen Absetzungen für Abnutzung zu berücksichtigen. Diese sind nach den Anschaffungs- oder Herstellungskosten bei gleichmäßiger Verteilung über die gesamte betriebsgewöhnliche Nutzungsdauer zu bemessen. Die normalen Absetzungen für Abnutzung sind auch dann anzusetzen, wenn für die Absetzungen in der Steuerbilanz vom Restwert auszugehen ist, der nach Inanspruchnahme der Sonderabschreibungen oder erhöhten Absetzungen verblieben ist;b)Absetzungen auf den Geschäfts- oder Firmenwert oder auf firmenwertähnliche Wirtschaftsgüter;c)einmalige Veräußerungsverluste sowie außerordentliche Aufwendungen;d)im Gewinn nicht enthaltene Investitionszulagen, soweit in Zukunft mit weiteren zulagebegünstigten Investitionen in gleichem Umfang gerechnet werden kann;e)der Ertragsteueraufwand (Körperschaftsteuer, Zuschlagsteuern und Gewerbesteuer);f)Aufwendungen, die im Zusammenhang stehen mit Vermögen im Sinne des § 200 Abs. 2 und 4, und übernommene Verluste aus Beteiligungen im Sinne des § 200 Abs. 2 bis 4; Investitionsabzugsbeträge, Sonderabschreibungen oder erhöhte Absetzungen, Bewertungsabschläge, Zuführungen zu steuerfreien Rücklagen sowie Teilwertabschreibungen. Es sind nur die normalen Absetzungen für Abnutzung zu berücksichtigen. Diese sind nach den Anschaffungs- oder Herstellungskosten bei gleichmäßiger Verteilung über die gesamte betriebsgewöhnliche Nutzungsdauer zu bemessen. Die normalen Absetzungen für Abnutzung sind auch dann anzusetzen, wenn für die Absetzungen in der Steuerbilanz vom Restwert auszugehen ist, der nach Inanspruchnahme der Sonderabschreibungen oder erhöhten Absetzungen verblieben ist; Absetzungen auf den Geschäfts- oder Firmenwert oder auf firmenwertähnliche Wirtschaftsgüter; einmalige Veräußerungsverluste sowie außerordentliche Aufwendungen; im Gewinn nicht enthaltene Investitionszulagen, soweit in Zukunft mit weiteren zulagebegünstigten Investitionen in gleichem Umfang gerechnet werden kann; der Ertragsteueraufwand (Körperschaftsteuer, Zuschlagsteuern und Gewerbesteuer); Aufwendungen, die im Zusammenhang stehen mit Vermögen im Sinne des § 200 Abs. 2 und 4, und übernommene Verluste aus Beteiligungen im Sinne des § 200 Abs. 2 bis 4;
 
-a)
+2. abzuziehen sind a)gewinnerhöhende Auflösungsbeträge steuerfreier Rücklagen sowie Gewinne aus der Anwendung des § 6 Abs. 1 Nr. 1 Satz 4 und Nr. 2 Satz 3 des Einkommensteuergesetzes;b)einmalige Veräußerungsgewinne sowie außerordentliche Erträge;c)im Gewinn enthaltene Investitionszulagen, soweit in Zukunft nicht mit weiteren zulagebegünstigten Investitionen in gleichem Umfang gerechnet werden kann;d)ein angemessener Unternehmerlohn, soweit in der bisherigen Ergebnisrechnung kein solcher berücksichtigt worden ist. Die Höhe des Unternehmerlohns wird nach der Vergütung bestimmt, die eine nicht beteiligte Geschäftsführung erhalten würde. Neben dem Unternehmerlohn kann auch fiktiver Lohnaufwand für bislang unentgeltlich tätige Familienangehörige des Eigentümers berücksichtigt werden;e)Erträge aus der Erstattung von Ertragsteuern (Körperschaftsteuer, Zuschlagsteuern und Gewerbesteuer);f)Erträge, die im Zusammenhang stehen mit Vermögen im Sinne des § 200 Abs. 2 bis 4; gewinnerhöhende Auflösungsbeträge steuerfreier Rücklagen sowie Gewinne aus der Anwendung des § 6 Abs. 1 Nr. 1 Satz 4 und Nr. 2 Satz 3 des Einkommensteuergesetzes; einmalige Veräußerungsgewinne sowie außerordentliche Erträge; im Gewinn enthaltene Investitionszulagen, soweit in Zukunft nicht mit weiteren zulagebegünstigten Investitionen in gleichem Umfang gerechnet werden kann; ein angemessener Unternehmerlohn, soweit in der bisherigen Ergebnisrechnung kein solcher berücksichtigt worden ist. Die Höhe des Unternehmerlohns wird nach der Vergütung bestimmt, die eine nicht beteiligte Geschäftsführung erhalten würde. Neben dem Unternehmerlohn kann auch fiktiver Lohnaufwand für bislang unentgeltlich tätige Familienangehörige des Eigentümers berücksichtigt werden; Erträge aus der Erstattung von Ertragsteuern (Körperschaftsteuer, Zuschlagsteuern und Gewerbesteuer); Erträge, die im Zusammenhang stehen mit Vermögen im Sinne des § 200 Abs. 2 bis 4;
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-3.
+3. hinzuzurechnen oder abzuziehen sind auch sonstige wirtschaftlich nicht begründete Vermögensminderungen oder -erhöhungen mit Einfluss auf den zukünftig nachhaltig zu erzielenden Jahresertrag und mit gesellschaftsrechtlichem Bezug, soweit sie nicht nach den Nummern 1 und 2 berücksichtigt wurden.
 
 (2) In den Fällen des § 4 Abs. 3 des Einkommensteuergesetzes ist vom Überschuss der Betriebseinnahmen über die Betriebsausgaben auszugehen. Absatz 1 Satz 2 Nr. 1 bis 3 gilt entsprechend.
 
@@ -1209,13 +1151,11 @@ f)
 
 ### § 218 — Vermögensarten
 
-Für Vermögen, das nach diesem Abschnitt zu bewerten ist, erfolgt abweichend von § 18 eine Unterscheidung in folgende Vermögensarten: Betriebsgrundstücke im Sinne des § 99 Absatz 1 Nummer 2 werden dem land- und forstwirtschaftlichen Vermögen zugeordnet und sind wie land- und forstwirtschaftliches Vermögen zu bewerten. Betriebsgrundstücke im Sinne des § 99 Absatz 1 Nummer 1 werden dem Grundvermögen zugeordnet und sind wie Grundvermögen zu bewerten.
+Für Vermögen, das nach diesem Abschnitt zu bewerten ist, erfolgt abweichend von § 18 eine Unterscheidung in folgende Vermögensarten:
 
-1.
+1. Land- und forstwirtschaftliches Vermögen (§ 232),
 
-2.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl.  BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
+2. Grundvermögen (§ 243).
 
 ### § 219 — Feststellung von Grundsteuerwerten
 
@@ -1223,13 +1163,11 @@ Für Vermögen, das nach diesem Abschnitt zu bewerten ist, erfolgt abweichend vo
 
 (2) In dem Feststellungsbescheid (§ 179 der Abgabenordnung) sind auch Feststellungen zu treffen über:
 
-1.
+1. die Vermögensart und beim Grundvermögen auch über die Grundstücksart (§ 249) sowie
 
-2.
+2. die Zurechnung der wirtschaftlichen Einheit und bei mehreren Beteiligten über die Höhe ihrer Anteile.
 
 (3) Die Feststellungen nach den Absätzen 1 und 2 erfolgen nur, soweit sie für die Besteuerung von Bedeutung sind.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl.  BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
 
 ### § 220 — Ermittlung der Grundsteuerwerte
 
@@ -1237,19 +1175,15 @@ Für Vermögen, das nach diesem Abschnitt zu bewerten ist, erfolgt abweichend vo
 
 (2) Der niedrigere gemeine Wert ist als Grundsteuerwert anzusetzen, wenn der Steuerpflichtige nachweist, dass der nach den Vorschriften dieses Abschnitts ermittelte Grundsteuerwert erheblich von dem gemeinen Wert der wirtschaftlichen Einheit im Feststellungszeitpunkt abweicht. Davon ist auszugehen, wenn der Grundsteuerwert den nachgewiesenen gemeinen Wert um mindestens 40 Prozent übersteigt. § 198 Absatz 1 Satz 2 und Absatz 2 gilt entsprechend. Als Nachweis des niedrigeren gemeinen Werts kann auch ein im gewöhnlichen Geschäftsverkehr innerhalb eines Jahres vor oder nach dem Hauptfeststellungszeitpunkt zustande gekommener Kaufpreis über die zu bewertende wirtschaftliche Einheit dienen, wenn die maßgeblichen Verhältnisse hierfür gegenüber den Verhältnissen am Hauptfeststellungszeitpunkt unverändert sind. Nutzungsrechte und weitere grundstücksbezogene Rechte und Belastungen sind bei der Ermittlung des niedrigeren gemeinen Werts nur zu berücksichtigen, soweit sie nach Inhalt und Entstehung mit der Beschaffenheit der wirtschaftlichen Einheit zusammenhängen. Die §§ 227, 261 und 262 bleiben unberührt.
 
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl.  BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
-
 ### § 221 — Hauptfeststellung
 
 (1) Die Grundsteuerwerte werden in Zeitabständen von je sieben Jahren allgemein festgestellt (Hauptfeststellung).
 
 (2) Der Hauptfeststellung werden die Verhältnisse zu Beginn des Kalenderjahres (Hauptfeststellungszeitpunkt) zugrunde gelegt.
 
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55), durch G v. 12.9.2024 HmbGVBl. 2024 S. 554 mWv 1.1.2025 (vgl. BGBl. 2024 I Nr. 358) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
-
 ### § 222 — Fortschreibungen
 
-(1) Der Grundsteuerwert wird neu festgestellt (Wertfortschreibung), wenn der in Euro ermittelte und auf volle 100 Euro abgerundete Wert, der sich für den Beginn eines Kalenderjahres ergibt, von dem entsprechenden Wert des letzten Feststellungszeitpunkts nach oben oder unten um mehr als 15 000 Euro abweicht.
+(1) Der Grundsteuerwert wird neu festgestellt (Wertfortschreibung), wenn der in Euro ermittelte und auf volle 100 Euro abgerundete Wert, der sich für den Beginn eines Kalenderjahres ergibt, von dem entsprechenden Wert des letzten Feststellungszeitpunkts nach oben oder unten um mehr als 15 000 Euro abweicht.
 
 (2) Über die Art oder Zurechnung der wirtschaftlichen Einheit (§ 219 Absatz 2) wird eine neue Feststellung getroffen (Artfortschreibung oder Zurechnungsfortschreibung), wenn sie von der zuletzt getroffenen Feststellung abweicht und es für die Besteuerung von Bedeutung ist.
 
@@ -1257,49 +1191,41 @@ Für Vermögen, das nach diesem Abschnitt zu bewerten ist, erfolgt abweichend vo
 
 (4) Eine Fortschreibung ist vorzunehmen, wenn dem Finanzamt bekannt wird, dass die Voraussetzungen für sie vorliegen. Der Fortschreibung werden vorbehaltlich des § 227 die Verhältnisse im Fortschreibungszeitpunkt zugrunde gelegt. Fortschreibungszeitpunkt ist:
 
-1.
+1. bei einer Änderung der tatsächlichen Verhältnisse der Beginn des Kalenderjahres, das auf die Änderung folgt, und
 
-2.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl.  BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
+2. in den Fällen des Absatzes 3 der Beginn des Kalenderjahres, in dem der Fehler dem Finanzamt bekannt wird, bei einer Erhöhung des Grundsteuerwerts jedoch frühestens der Beginn des Kalenderjahres, in dem der Feststellungsbescheid erteilt wird.
 
 ### § 223 — Nachfeststellung
 
 (1) Für wirtschaftliche Einheiten, für die ein Grundsteuerwert festzustellen ist, wird der Grundsteuerwert nachträglich festgestellt (Nachfeststellung), wenn nach dem Hauptfeststellungszeitpunkt:
 
-1.
+1. die wirtschaftliche Einheit neu entsteht oder
 
-2.
+2. eine bereits bestehende wirtschaftliche Einheit erstmals zur Grundsteuer herangezogen werden soll.
 
 (2) Der Nachfeststellung werden vorbehaltlich des § 227 die Verhältnisse im Nachfeststellungszeitpunkt zugrunde gelegt. Nachfeststellungszeitpunkt ist:
 
-1.
+1. in den Fällen des Absatzes 1 Nummer 1 der Beginn des Kalenderjahres, das auf die Entstehung der wirtschaftlichen Einheit folgt, und
 
-2.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl.  BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
+2. in den Fällen des Absatzes 1 Nummer 2 der Beginn des Kalenderjahres, in dem der Grundsteuerwert erstmals der Besteuerung zugrunde gelegt wird.
 
 ### § 224 — Aufhebung des Grundsteuerwerts
 
 (1) Der Grundsteuerwert wird aufgehoben, wenn dem Finanzamt bekannt wird, dass:
 
-1.
+1. die wirtschaftliche Einheit wegfällt oder
 
-2.
+2. der Grundsteuerwert der wirtschaftlichen Einheit infolge von Befreiungsgründen der Besteuerung nicht mehr zugrunde gelegt wird.
 
 (2) Aufhebungszeitpunkt ist:
 
-1.
+1. in den Fällen des Absatzes 1 Nummer 1 der Beginn des Kalenderjahres, das auf den Wegfall der wirtschaftlichen Einheit folgt, und
 
-2.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl.  BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
+2. in den Fällen des Absatzes 1 Nummer 2 der Beginn des Kalenderjahres, in dem der Grundsteuerwert erstmals der Besteuerung nicht mehr zugrunde gelegt wird.
 
 ### § 225 — Änderung von Feststellungsbescheiden
 
 Bescheide über Fortschreibungen oder über Nachfeststellungen von Grundsteuerwerten können schon vor dem maßgeblichen Feststellungszeitpunkt erteilt werden. Sie sind zu ändern oder aufzuheben, wenn sich bis zu diesem Zeitpunkt Änderungen ergeben, die zu einer abweichenden Feststellung führen.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl.  BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
 
 ### § 226 — Nachholung einer Feststellung
 
@@ -1307,13 +1233,9 @@ Bescheide über Fortschreibungen oder über Nachfeststellungen von Grundsteuerwe
 
 (2) Absatz 1 ist bei der Aufhebung des Grundsteuerwerts (§ 224) entsprechend anzuwenden.
 
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl.  BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
-
 ### § 227 — Wertverhältnisse bei Fortschreibungen und Nachfeststellungen
 
 Bei Fortschreibungen und bei Nachfeststellungen der Grundsteuerwerte sind die Wertverhältnisse im Hauptfeststellungszeitpunkt zugrunde zu legen.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
 
 ### § 228 — Erklärungs- und Anzeigepflicht
 
@@ -1323,19 +1245,17 @@ Bei Fortschreibungen und bei Nachfeststellungen der Grundsteuerwerte sind die We
 
 (3) Die Erklärung nach Absatz 1 und die Anzeige nach Absatz 2 sind abzugeben
 
-1.
+1. von dem Steuerpflichtigen, dem die wirtschaftliche Einheit zuzurechnen ist,
 
-2.
+2. bei einem Grundstück, das mit einem Erbbaurecht belastet ist, vom Erbbauberechtigten unter Mitwirkung des Erbbauverpflichteten oder
 
-3.
+3. bei einem Gebäude auf fremdem Grund und Boden vom Eigentümer des Grund und Bodens unter Mitwirkung des Eigentümers oder des wirtschaftlichen Eigentümers des Gebäudes.
 
 (4) Die Erklärungen nach Absatz 1 und die Anzeigen nach Absatz 2 sind bei dem für die gesonderte Feststellung zuständigen Finanzamt abzugeben.
 
 (5) Die Erklärungen nach Absatz 1 und die Anzeigen nach Absatz 2 sind Steuererklärungen im Sinne der Abgabenordnung, die eigenhändig zu unterschreiben sind.
 
 (6) Die Erklärungen nach Absatz 1 und die Anzeigen nach Absatz 2 sind nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle elektronisch zu übermitteln. Auf Antrag kann die Finanzbehörde zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung über die amtlich bestimmte Schnittstelle verzichten. Für die Entscheidung über den Antrag gilt § 150 Absatz 8 der Abgabenordnung.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl.  BGBl. 2023 I Nr. 55), durch G v. 12.9.2024 HmbGVBl. 2024 S. 554 mWv 1.1.2025 (vgl. BGBl. 2024 I Nr. 358) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
 
 ### § 229 — Auskünfte, Erhebungen und Mitteilungen
 
@@ -1345,33 +1265,27 @@ Bei Fortschreibungen und bei Nachfeststellungen der Grundsteuerwerte sind die We
 
 (3) Die nach Bundes- oder Landesrecht zuständigen Behörden haben den Finanzbehörden die rechtlichen und tatsächlichen Umstände mitzuteilen, die ihnen im Rahmen ihrer Aufgabenerfüllung bekannt geworden sind und die für die Feststellung von Grundsteuerwerten oder für die Grundsteuer von Bedeutung sein können.
 
-(4) Die Grundbuchämter haben den für die Feststellung des Grundsteuerwerts zuständigen Finanzbehörden mitzuteilen: In den Fällen des Satzes 1 Nummer 2 und 3 ist gleichzeitig der Tag des Eingangs des Eintragungsantrags beim Grundbuchamt mitzuteilen. Bei einer Eintragung aufgrund Erbfolge ist das Jahr anzugeben, in dem der Erblasser verstorben ist. Die Mitteilungen sollen der Finanzbehörde über die für die Führung des Liegenschaftskatasters zuständige Behörde oder über eine sonstige Behörde, die das amtliche Verzeichnis der Grundstücke (§ 2 Absatz 2 der Grundbuchordnung) führt, zugeleitet werden.
+(4) Die Grundbuchämter haben den für die Feststellung des Grundsteuerwerts zuständigen Finanzbehörden mitzuteilen:
 
-1.
+1. die Eintragung eines neuen Eigentümers oder Erbbauberechtigten sowie bei einem anderen als einem rechtsgeschäftlichen Erwerb zusätzlich die Anschrift des neuen Eigentümers oder Erbbauberechtigten; dies gilt nicht für die Fälle des Erwerbs nach den Vorschriften des Zuordnungsrechts,
 
-2.
+2. die Eintragung der Begründung von Wohnungseigentum oder Teileigentum,
 
-3.
+3. die Eintragung der Begründung eines Erbbaurechts, Wohnungserbbaurechts oder Teilerbbaurechts.
 
 (5) Die nach den Absätzen 3 oder 4 mitteilungspflichtige Stelle hat die betroffenen Personen vom Inhalt der Mitteilung zu unterrichten. Eine Unterrichtung kann unterbleiben, soweit den Finanzbehörden Umstände aus dem Grundbuch, den Grundakten oder aus dem Liegenschaftskataster mitgeteilt werden.
 
 (6) Die nach den Absätzen 3 oder 4 mitteilungspflichtigen Stellen übermitteln die Mitteilungen den Finanzbehörden nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle. Die Grundbuchämter und die für die Führung des Liegenschaftskatasters zuständigen Behörden übermitteln die bei ihnen geführten Daten laufend, mindestens alle drei Monate. Das Bundesministerium der Finanzen legt im Einvernehmen mit den obersten Finanzbehörden der Länder und den obersten Vermessungs- und Katasterbehörden der Länder die Einzelheiten der elektronischen Übermittlung und deren Beginn in einem Schreiben fest. Dieses Schreiben ist im Bundesanzeiger und im Bundessteuerblatt zu veröffentlichen.
 
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
-
 ### § 230 — Abrundung
 
 Die ermittelten Grundsteuerwerte werden auf volle 100 Euro nach unten abgerundet.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch  G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
 
 ### § 231 — Abgrenzung von in- und ausländischem Vermögen
 
 (1) Für die Bewertung des inländischen nach diesem Abschnitt zu bewertenden Vermögens gelten die §§ 232 bis 262. Nach diesen Vorschriften sind auch die inländischen Teile einer wirtschaftlichen Einheit zu bewerten, die sich sowohl auf das Inland als auch auf das Ausland erstrecken.
 
 (2) Die ausländischen Teile einer wirtschaftlichen Einheit unterliegen nicht der gesonderten Feststellung nach § 219.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 218 bis 231 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
 
 ## I.: Allgemeines
 
@@ -1381,29 +1295,29 @@ Die ermittelten Grundsteuerwerte werden auf volle 100 Euro nach unten abgerundet
 
 (2) Die wirtschaftliche Einheit des land- und forstwirtschaftlichen Vermögens ist der Betrieb der Land- und Forstwirtschaft. Wird der Betrieb der Land- und Forstwirtschaft oder werden Teile davon einem anderen Berechtigten zur Erzeugung von Pflanzen und Tieren sowie zur Verwertung der dadurch selbst gewonnenen Erzeugnisse überlassen, so gilt dies als Fortsetzung der land- und forstwirtschaftlichen Tätigkeit des Überlassenden.
 
-(3) Zu den Wirtschaftsgütern, die dem Betrieb der Land- und Forstwirtschaft dauernd zu dienen bestimmt sind, gehören insbesondere: Als normaler Bestand an umlaufenden Betriebsmitteln gilt ein Bestand, der zur gesicherten Fortführung des Betriebs erforderlich ist.
+(3) Zu den Wirtschaftsgütern, die dem Betrieb der Land- und Forstwirtschaft dauernd zu dienen bestimmt sind, gehören insbesondere:
 
-1.
+1. der Grund und Boden,
 
-2.
+2. die Wirtschaftsgebäude,
 
-3.
+3. die stehenden Betriebsmittel,
 
-4.
+4. der normale Bestand an umlaufenden Betriebsmitteln,
 
-5.
+5. die immateriellen Wirtschaftsgüter.
 
 (4) Nicht zum land- und forstwirtschaftlichen Vermögen gehören:
 
-1.
+1. Grund und Boden sowie Gebäude und Gebäudeteile, die Wohnzwecken oder anderen nicht land- und forstwirtschaftlichen Zwecken dienen,
 
-2.
+2. Tierbestände oder Zweige des Tierbestands und die hiermit zusammenhängenden Wirtschaftsgüter (zum Beispiel Gebäude und abgrenzbare Gebäudeteile mit den dazugehörenden Flächen, stehende und umlaufende Betriebsmittel), wenn die Tiere weder nach § 241 zur landwirtschaftlichen Nutzung noch nach § 242 Absatz 2 zu den sonstigen land- und forstwirtschaftlichen Nutzungen gehören; die Zugehörigkeit der landwirtschaftlich genutzten Flächen zum land- und forstwirtschaftlichen Vermögen wird hierdurch nicht berührt,
 
-3.
+3. Zahlungsmittel, Geldforderungen, Geschäftsguthaben, Wertpapiere und Beteiligungen sowie
 
-4.
+4. Geldschulden und Pensionsverpflichtungen.
 
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313)
+> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313)
 
 ### § 233 — Abgrenzung des land- und forstwirtschaftlichen Vermögens vom Grundvermögen in Sonderfällen
 
@@ -1413,43 +1327,15 @@ Die ermittelten Grundsteuerwerte werden auf volle 100 Euro nach unten abgerundet
 
 (3) Flächen sind stets dem Grundvermögen zuzurechnen, wenn sie in einem Bebauungsplan als Bauland festgesetzt sind, ihre sofortige Bebauung möglich ist und die Bebauung innerhalb des Plangebiets in benachbarten Bereichen begonnen hat oder schon durchgeführt ist. Satz 1 gilt nicht für die Hofstelle.
 
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313)
-
 ### § 234 — Betrieb der Land- und Forstwirtschaft
 
 (1) Ein Betrieb der Land- und Forstwirtschaft umfasst:
 
-1.
+1. die land- und forstwirtschaftlichen Nutzungen: a)die landwirtschaftliche Nutzung,b)die forstwirtschaftliche Nutzung,c)die weinbauliche Nutzung,d)die gärtnerische Nutzung, aa)Nutzungsteil Gemüsebau,bb)Nutzungsteil Blumen- und Zierpflanzenbau,cc)Nutzungsteil Obstbau,dd)Nutzungsteil Baumschulen,e)die übrigen land- und forstwirtschaftlichen Nutzungen, die landwirtschaftliche Nutzung, die forstwirtschaftliche Nutzung, die weinbauliche Nutzung, die gärtnerische Nutzung, aa)Nutzungsteil Gemüsebau,bb)Nutzungsteil Blumen- und Zierpflanzenbau,cc)Nutzungsteil Obstbau,dd)Nutzungsteil Baumschulen, Nutzungsteil Gemüsebau, Nutzungsteil Blumen- und Zierpflanzenbau, Nutzungsteil Obstbau, Nutzungsteil Baumschulen, die übrigen land- und forstwirtschaftlichen Nutzungen,
 
-a)
+2. die Nutzungsarten: a)Abbauland,b)Geringstland,c)Unland,d)Hofstelle, Abbauland, Geringstland, Unland, Hofstelle,
 
-b)
-
-c)
-
-d)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-e)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-3.
+3. die Nebenbetriebe.
 
 (2) Die land- und forstwirtschaftlichen Betriebsflächen sind einer Nutzung, innerhalb der gärtnerischen Nutzung einem Nutzungsteil, oder einer Nutzungsart zuzuordnen (gesetzliche Klassifizierung).
 
@@ -1463,15 +1349,11 @@ d)
 
 (7) Als Nebenbetrieb gilt ein Betrieb, der dem Hauptbetrieb zu dienen bestimmt ist und nicht einen selbständigen gewerblichen Betrieb darstellt.
 
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) § 234 Abs. 6 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) § 234 Abs. 6 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
-
 ### § 235 — Feststellungszeitpunkt
 
 (1) Für die Größe des Betriebs sowie für den Umfang und den Zustand der Gebäude sind die Verhältnisse im Feststellungszeitpunkt maßgebend.
 
 (2) Für die stehenden und umlaufenden Betriebsmittel ist der Stand am Ende des Wirtschaftsjahres maßgebend, das dem Feststellungszeitpunkt vorangegangen ist.
-
-> (+++ § 235: Zur Anwendung vgl. § 265 +++) §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313)
 
 ### § 236 — Bewertungsgrundsätze
 
@@ -1482,8 +1364,6 @@ d)
 (3) Der Reinertrag wird aus den Erhebungen nach § 2 des Landwirtschaftsgesetzes oder aus Erhebungen der Finanzverwaltung für jede gesetzliche Klassifizierung gesondert ermittelt. Bei der Ermittlung des jeweiligen Reinertrags ist zur Berücksichtigung der nachhaltigen Ertragsfähigkeit ein Durchschnitt aus den letzten zehn vorliegenden Wirtschaftsjahren zu bilden, die vor dem Hauptfeststellungszeitpunkt geendet haben.
 
 (4) Der Ertragswert ist das 18,6fache der Summe der Reinerträge des Betriebs.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313)
 
 ### § 237 — Bewertung des Betriebs der Land- und Forstwirtschaft
 
@@ -1503,29 +1383,23 @@ d)
 
 (8) Der Reinertrag für die Hofflächen und die Nebenbetriebe ermittelt sich aus der Summe der Flächenwerte. Der Flächenwert ist das Produkt aus der jeweils als Hofstelle gesetzlich klassifizierten Eigentumsfläche des Betriebs und dem dreifachen Bewertungsfaktor gemäß Anlage 32.
 
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313)
-
 ### § 238 — Zuschläge zum Reinertrag
 
 (1) Ein Zuschlag zum Reinertrag einer Nutzung oder Nutzungsart ist vorzunehmen,
 
-1.
+1. bei der landwirtschaftlichen Nutzung gemäß Anlage 27, wenn der tatsächliche Tierbestand am maßgeblichen Bewertungsstichtag (§ 235) die in Anlage 27 genannte Grenze nachhaltig überschreitet,
 
-2.
+2. bei der gärtnerischen Nutzung gemäß Anlage 30, wenn in einem Nutzungsteil Flächen unter Glas und Kunststoffen dem Betrieb zu dienen bestimmt sind. Zu den Flächen unter Glas und Kunststoffen gehören insbesondere mit Gewächshäusern, begehbaren Folientunneln, Foliengewächshäusern und anderen Kulturräumen überbaute Bruttogrundflächen. Unerheblich ist, ob die Flächen unter Glas und Kunststoffen neben der Erzeugung auch zur Lagerung oder zum Vertrieb der Erzeugnisse zu dienen bestimmt sind,
 
-3.
+3. bei der Nutzungsart Hofstelle gemäß Anlage 32 für die weinbauliche Nutzung und für Nebenbetriebe. Der Zuschlag ermittelt sich durch Multiplikation der Bruttogrundflächen der nachhaltig genutzten Wirtschaftsgebäude mit dem Zwölffachen des jeweiligen Bewertungsfaktors. Unerheblich ist, ob die Wirtschaftsgebäude neben der Erzeugung auch zur Lagerung oder zum Vertrieb der Erzeugnisse zu dienen bestimmt sind.
 
 (2) Der Reinertrag einer Nutzung oder Nutzungsart ist um einen Zuschlag zu erhöhen, wenn die Eigentumsflächen des Betriebs zugleich der Stromerzeugung aus Windenergie dienen. Der Zuschlag ermittelt sich aus dem Produkt der abgegrenzten Standortfläche der Windenergieanlage und dem Bewertungsfaktor gemäß Anlage 33.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313)
 
 ### § 239 — Grundsteuerwert des Betriebs der Land- und Forstwirtschaft
 
 (1) Die Summe der Reinerträge des Betriebs einschließlich der Zuschläge (§§ 237, 238) ist zur Ermittlung des Ertragswerts mit dem Faktor 18,6 zu kapitalisieren und ergibt den Grundsteuerwert des Betriebs der Land- und Forstwirtschaft.
 
 (2) Die Summe der Reinerträge einschließlich der Zuschläge (§§ 237, 238) eines Betriebs der Land- und Forstwirtschaft ist für jede Gemeinde gesondert zu ermitteln, wenn sich die wirtschaftliche Einheit über mehrere Gemeinden erstreckt. Der auf eine Gemeinde entfallende Anteil am Grundsteuerwert berechnet sich aus der jeweils für eine Gemeinde gesondert ermittelten Summe der Reinerträge im Verhältnis zur Gesamtsumme der Reinerträge des Betriebs der Land- und Forstwirtschaft.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313)
 
 ### § 240 — Kleingartenland und Dauerkleingartenland
 
@@ -1537,33 +1411,29 @@ d)
 
 (4) Die Summe der Reinerträge nach den Absätzen 2 und 3 ist zur Ermittlung des Ertragswerts mit dem Faktor 18,6 zu kapitalisieren und ergibt den Grundsteuerwert des Betriebs der Land-und Forstwirtschaft.
 
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313)
-
 ## a): Landwirtschaftliche Nutzung
 
 ### § 241 — Tierbestände
-
-(1) Tierbestände gehören in vollem Umfang zur landwirtschaftlichen Nutzung, wenn im Wirtschaftsjahr
 
 je Hektar der vom Inhaber des Betriebs selbst bewirtschafteten Flächen der landwirtschaftlichen Nutzung erzeugt oder gehalten werden. Zu den selbst bewirtschafteten Flächen gehören die Eigentumsflächen und die zur Nutzung überlassenen Flächen. Die Tierbestände sind nach dem Futterbedarf in Vieheinheiten umzurechnen.
 
 (2) Übersteigt die Anzahl der Vieheinheiten nachhaltig die in Absatz 1 bezeichnete Grenze, so gehören nur die Zweige des Tierbestands zur landwirtschaftlichen Nutzung, deren Vieheinheiten zusammen diese Grenze nicht überschreiten. Zunächst sind mehr flächenabhängige Zweige des Tierbestands und danach weniger flächenabhängige Zweige des Tierbestands zur landwirtschaftlichen Nutzung zu rechnen. Innerhalb jeder dieser Gruppen sind zuerst Zweige des Tierbestands mit der geringeren Anzahl von Vieheinheiten und dann Zweige mit der größeren Anzahl von Vieheinheiten zur landwirtschaftlichen Nutzung zu rechnen. Der Tierbestand des einzelnen Zweiges wird nicht aufgeteilt.
 
-(3) Als Zweig des Tierbestands gilt bei jeder Tierart für sich: Das Zuchtvieh einer Tierart gilt nur dann als besonderer Zweig des Tierbestands, wenn die erzeugten Jungtiere überwiegend zum Verkauf bestimmt sind. Ist das nicht der Fall, so ist das Zuchtvieh dem Zweig des Tierbestands zuzurechnen, dem es überwiegend dient.
+(3) Als Zweig des Tierbestands gilt bei jeder Tierart für sich:
 
-1.
+1. das Zugvieh,
 
-2.
+2. das Zuchtvieh,
 
-3.
+3. das Mastvieh,
 
-4.
+4. das übrige Nutzvieh.
 
 (4) Die Absätze 1 bis 3 gelten nicht für Pelztiere. Pelztiere gehören nur dann zur landwirtschaftlichen Nutzung, wenn die erforderlichen Futtermittel überwiegend von den vom Inhaber des Betriebs landwirtschaftlich genutzten Flächen gewonnen werden.
 
 (5) Der Umrechnungsschlüssel für Tierbestände in Vieheinheiten sowie die Gruppen der mehr oder weniger flächenabhängigen Zweige des Tierbestands sind den Anlagen 34 und 35 zu entnehmen.
 
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313)
+> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313)
 
 ## b): Übrige land- und forstwirtschaftliche Nutzungen
 
@@ -1571,33 +1441,33 @@ je Hektar der vom Inhaber des Betriebs selbst bewirtschafteten Flächen der land
 
 (1) Zu den übrigen land- und forstwirtschaftlichen Nutzungen gehören:
 
-1.
+1. Hopfen, Spargel und andere Sonderkulturen,
 
-2.
+2. die sonstigen land- und forstwirtschaftlichen Nutzungen.
 
 (2) Zu den sonstigen land- und forstwirtschaftlichen Nutzungen gehören insbesondere:
 
-1.
+1. die Binnenfischerei,
 
-2.
+2. die Teichwirtschaft,
 
-3.
+3. die Fischzucht für Binnenfischerei und Teichwirtschaft,
 
-4.
+4. die Imkerei,
 
-5.
+5. die Wanderschäferei,
 
-6.
+6. die Saatzucht,
 
-7.
+7. der Pilzanbau,
 
-8.
+8. die Produktion von Nützlingen,
 
-9.
+9. die Weihnachtsbaumkulturen,
 
-10.
+10. die Kurzumtriebsplantagen.
 
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313)
+> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170 mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313)
 
 ## I.: Allgemeines
 
@@ -1605,23 +1475,21 @@ je Hektar der vom Inhaber des Betriebs selbst bewirtschafteten Flächen der land
 
 (1) Zum Grundvermögen gehören, soweit es sich nicht um land- und forstwirtschaftliches Vermögen (§§ 232 bis 242) handelt:
 
-1.
+1. der Grund und Boden, die Gebäude, die sonstigen Bestandteile und das Zubehör,
 
-2.
+2. das Erbbaurecht,
 
-3.
+3. das Wohnungseigentum und das Teileigentum,
 
-4.
+4. das Wohnungserbbaurecht und das Teilerbbaurecht nach § 30 Absatz 1 des Wohnungseigentumsgesetzes.
 
 (2) In das Grundvermögen sind nicht einzubeziehen:
 
-1.
+1. Bodenschätze,
 
-2.
+2. die Maschinen und sonstigen Vorrichtungen aller Art, die zu einer Betriebsanlage gehören (Betriebsvorrichtungen), auch wenn sie wesentliche Bestandteile sind.
 
 (3) Einzubeziehen sind jedoch die Verstärkungen von Decken und die nicht ausschließlich zu einer Betriebsanlage gehörenden Stützen und sonstigen Bauteile wie Mauervorlagen und Verstrebungen.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
 
 ### § 244 — Grundstück
 
@@ -1631,21 +1499,17 @@ je Hektar der vom Inhaber des Betriebs selbst bewirtschafteten Flächen der land
 
 (3) Als Grundstück gelten auch:
 
-1.
+1. das Erbbaurecht zusammen mit dem Erbbaurechtsgrundstück,
 
-2.
+2. ein Gebäude auf fremdem Grund und Boden zusammen mit dem dazugehörenden Grund und Boden,
 
-3.
+3. jedes Wohnungseigentum und Teileigentum nach dem Wohnungseigentumsgesetz sowie
 
-4.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
+4. jedes Wohnungserbbaurecht und Teilerbbaurecht zusammen mit dem anteiligen belasteten Grund und Boden.
 
 ### § 245 — Gebäude, Gebäudeteile und Anlagen für den Zivilschutz
 
 Gebäude, Gebäudeteile und Anlagen, die wegen der in § 1 des Zivilschutz- und Katastrophenhilfegesetzes bezeichneten Zwecke geschaffen worden sind und im Frieden nicht oder nur gelegentlich oder geringfügig für andere Zwecke benutzt werden, bleiben bei der Ermittlung des Grundsteuerwerts außer Betracht.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
 
 ## II.: Unbebaute Grundstücke
 
@@ -1655,21 +1519,17 @@ Gebäude, Gebäudeteile und Anlagen, die wegen der in § 1 des Zivilschutz- und 
 
 (2) Befinden sich auf dem Grundstück Gebäude, die auf Dauer keiner Nutzung zugeführt werden können, so gilt das Grundstück als unbebaut. Als unbebaut gilt auch ein Grundstück, auf dem infolge von Zerstörung oder Verfall der Gebäude auf Dauer kein benutzbarer Raum mehr vorhanden ist.
 
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
-
 ### § 247 — Bewertung der unbebauten Grundstücke
 
-(1) Der Grundsteuerwert unbebauter Grundstücke ermittelt sich regelmäßig durch Multiplikation ihrer Fläche mit dem jeweiligen Bodenrichtwert (§ 196 des Baugesetzbuchs). Soweit in den §§ 243 bis 262 sowie in den Anlagen 36 bis 43 nichts anderes bestimmt ist, werden Abweichungen zwischen den Grundstücksmerkmalen des Bodenrichtwertgrundstücks und des zu bewertenden Grundstücks mit Ausnahme unterschiedlicher nicht berücksichtigt.
+(1) Der Grundsteuerwert unbebauter Grundstücke ermittelt sich regelmäßig durch Multiplikation ihrer Fläche mit dem jeweiligen Bodenrichtwert (§ 196 des Baugesetzbuchs). Soweit in den §§ 243 bis 262 sowie in den Anlagen 36 bis 43 nichts anderes bestimmt ist, werden Abweichungen zwischen den Grundstücksmerkmalen des Bodenrichtwertgrundstücks und des zu bewertenden Grundstücks mit Ausnahme unterschiedlicher
 
-1.
+1. Entwicklungszustände und
 
-2.
+2. Arten der Nutzung bei überlagernden Bodenrichtwertzonen
 
 (2) Die Bodenrichtwerte sind von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs auf den Hauptfeststellungzeitpunkt zu ermitteln, zu veröffentlichen und nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle elektronisch an die zuständigen Finanzbehörden zu übermitteln.
 
 (3) Wird von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs kein Bodenrichtwert ermittelt, ist der Wert des unbebauten Grundstücks aus den Werten vergleichbarer Flächen abzuleiten.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
 
 ## III.: Bebaute Grundstücke
 
@@ -1677,27 +1537,25 @@ Gebäude, Gebäudeteile und Anlagen, die wegen der in § 1 des Zivilschutz- und 
 
 Bebaute Grundstücke sind Grundstücke, auf denen sich benutzbare Gebäude befinden. Wird ein Gebäude in Bauabschnitten errichtet, ist der bezugsfertige Teil als benutzbares Gebäude anzusehen.
 
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
-
 ### § 249 — Grundstücksarten
 
 (1) Bei der Bewertung bebauter Grundstücke sind die folgenden Grundstücksarten zu unterscheiden:
 
-1.
+1. Einfamilienhäuser,
 
-2.
+2. Zweifamilienhäuser,
 
-3.
+3. Mietwohngrundstücke,
 
-4.
+4. Wohnungseigentum,
 
-5.
+5. Teileigentum,
 
-6.
+6. Geschäftsgrundstücke,
 
-7.
+7. gemischt genutzte Grundstücke und
 
-8.
+8. sonstige bebaute Grundstücke.
 
 (2) Einfamilienhäuser sind Wohngrundstücke, die eine Wohnung enthalten und kein Wohnungseigentum sind. Ein Grundstück gilt auch dann als Einfamilienhaus, wenn es zu weniger als 50 Prozent der Wohn- und Nutzfläche zu anderen als Wohnzwecken mitbenutzt und dadurch die Eigenart als Einfamilienhaus nicht wesentlich beeinträchtigt wird.
 
@@ -1717,45 +1575,37 @@ Bebaute Grundstücke sind Grundstücke, auf denen sich benutzbare Gebäude befin
 
 (10) Eine Wohnung ist in der Regel die Zusammenfassung mehrerer Räume, die in ihrer Gesamtheit so beschaffen sein müssen, dass die Führung eines selbständigen Haushalts möglich ist. Die Zusammenfassung der Räume muss eine von anderen Wohnungen oder Räumen, insbesondere Wohnräumen, baulich getrennte, in sich abgeschlossene Wohneinheit bilden und einen selbständigen Zugang haben. Daneben ist erforderlich, dass die für die Führung eines selbständigen Haushalts notwendigen Nebenräume (Küche, Bad oder Dusche, Toilette) vorhanden sind. Die Wohnfläche soll mindestens 20 Quadratmeter betragen.
 
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
-
 ### § 250 — Bewertung der bebauten Grundstücke
 
 (1) Der Grundsteuerwert bebauter Grundstücke ist nach dem Ertragswertverfahren (Absatz 2) oder dem Sachwertverfahren (Absatz 3) zu ermitteln.
 
 (2) Im Ertragswertverfahren nach den §§ 252 bis 257 sind zu bewerten:
 
-1.
+1. Einfamilienhäuser,
 
-2.
+2. Zweifamilienhäuser,
 
-3.
+3. Mietwohngrundstücke,
 
-4.
+4. Wohnungseigentum.
 
 (3) Im Sachwertverfahren nach den §§ 258 bis 260 sind zu bewerten:
 
-1.
+1. Geschäftsgrundstücke,
 
-2.
+2. gemischt genutzte Grundstücke,
 
-3.
+3. Teileigentum,
 
-4.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
+4. sonstige bebaute Grundstücke.
 
 ### § 251 — Mindestwert
 
 Der für ein bebautes Grundstück anzusetzende Wert darf nicht geringer sein als 75 Prozent des Werts, mit dem der Grund und Boden allein als unbebautes Grundstück zu bewerten wäre (§ 247). Bei der Bewertung von Ein- und Zweifamilienhäusern im Sinne des § 249 Absatz 2 und 3 ist bei der Ermittlung des Mindestwerts § 257 Absatz 1 Satz 2 anzuwenden.
 
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
-
 ### § 252 — Bewertung im Ertragswertverfahren
 
 Im Ertragswertverfahren ermittelt sich der Grundsteuerwert aus der Summe des kapitalisierten Reinertrags nach § 253 (Barwert des Reinertrags) und des abgezinsten Bodenwerts nach § 257. Mit dem Grundsteuerwert sind die Werte für den Grund und Boden, die Gebäude, die baulichen Anlagen, insbesondere Außenanlagen, und die sonstigen Anlagen abgegolten.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
 
 ### § 253 — Ermittlung des kapitalisierten Reinertrags
 
@@ -1763,37 +1613,29 @@ Im Ertragswertverfahren ermittelt sich der Grundsteuerwert aus der Summe des kap
 
 (2) Der Reinertrag des Grundstücks ist mit dem sich aus Anlage 37 ergebenden Vervielfältiger zu kapitalisieren. Maßgebend für den Vervielfältiger sind der Liegenschaftszinssatz nach § 256 und die Restnutzungsdauer des Gebäudes. Die Restnutzungsdauer ist grundsätzlich der Unterschiedsbetrag zwischen der wirtschaftlichen Gesamtnutzungsdauer, die sich aus Anlage 38 ergibt, und dem Alter des Gebäudes im Hauptfeststellungszeitpunkt. Sind nach der Bezugsfertigkeit des Gebäudes Veränderungen eingetreten, die die wirtschaftliche Gesamtnutzungsdauer des Gebäudes wesentlich verlängert haben, ist von einer der Verlängerung entsprechenden Restnutzungsdauer auszugehen. Die Restnutzungsdauer eines noch nutzbaren Gebäudes beträgt mindestens 30 Prozent der wirtschaftlichen Gesamtnutzungsdauer. Bei einer bestehenden Abbruchverpflichtung für das Gebäude ist die Restnutzungsdauer abweichend von den Sätzen 3 bis 5 auf den Unterschiedsbetrag zwischen der tatsächlichen Gesamtnutzungsdauer und dem Alter des Gebäudes im Hauptfeststellungszeitpunkt begrenzt.
 
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
-
 ### § 254 — Rohertrag des Grundstücks
 
 Der jährliche Rohertrag des Grundstücks ergibt sich aus den in Anlage 39 nach Land, Gebäudeart, Wohnfläche und Baujahr des Gebäudes angegebenen monatlichen Nettokaltmieten je Quadratmeter Wohnfläche einschließlich der in Abhängigkeit der Mietniveaustufen festgelegten Zu- und Abschläge.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
 
 ### § 255 — Bewirtschaftungskosten
 
 Als Bewirtschaftungskosten werden die bei ordnungsgemäßer Bewirtschaftung und zulässiger Nutzung marktüblich entstehenden jährlichen Verwaltungskosten, Betriebskosten, Instandhaltungskosten und das Mietausfallwagnis berücksichtigt, die nicht durch Umlagen oder sonstige Kostenübernahmen gedeckt sind. Sie ergeben sich aus den pauschalierten Erfahrungssätzen nach Anlage 40.
 
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
-
 ### § 256 — Liegenschaftszinssätze
 
 (1) Liegenschaftszinssätze sind die Zinssätze, mit denen der Wert von Grundstücken abhängig von der Grundstücksart durchschnittlich und marktüblich verzinst wird. Bei der Bewertung bebauter Grundstücke gelten die folgenden Zinssätze:
 
-1.
+1. 2,5 Prozent für Ein- und Zweifamilienhäuser,
 
-2.
+2. 3,0 Prozent für Wohnungseigentum,
 
-3.
+3. 4,0 Prozent für Mietwohngrundstücke mit bis zu sechs Wohnungen,
 
-4.
+4. 4,5 Prozent für Mietwohngrundstücke mit mehr als sechs Wohnungen.
 
-(2) Bei der Bewertung von Ein- und Zweifamilienhäusern im Sinne des § 249 Absatz 2 und 3 verringert sich der Zinssatz nach Absatz 1 Satz 2 Nummer 1 um jeweils 0,1 Prozentpunkte für jede vollen 100 Euro, die der Bodenrichtwert oder der Bodenwert nach § 247 Absatz 3 je Quadratmeter den Betrag von 500 Euro je Quadratmeter übersteigt. Ab einem Bodenrichtwert oder Bodenwert nach § 247 Absatz 3 je Quadratmeter in Höhe von 1 500 Euro je Quadratmeter beträgt der Zinssatz für Ein- und Zweifamilienhäuser einheitlich 1,5 Prozent.
+(2) Bei der Bewertung von Ein- und Zweifamilienhäusern im Sinne des § 249 Absatz 2 und 3 verringert sich der Zinssatz nach Absatz 1 Satz 2 Nummer 1 um jeweils 0,1 Prozentpunkte für jede vollen 100 Euro, die der Bodenrichtwert oder der Bodenwert nach § 247 Absatz 3 je Quadratmeter den Betrag von 500 Euro je Quadratmeter übersteigt. Ab einem Bodenrichtwert oder Bodenwert nach § 247 Absatz 3 je Quadratmeter in Höhe von 1 500 Euro je Quadratmeter beträgt der Zinssatz für Ein- und Zweifamilienhäuser einheitlich 1,5 Prozent.
 
-(3) Bei der Bewertung von Wohnungseigentum im Sinne des § 249 Absatz 5 verringert sich der Zinssatz nach Absatz 1 Satz 2 Nummer 2 um jeweils 0,1 Prozentpunkte für jede vollen 100 Euro, die der Bodenrichtwert oder der Bodenwert nach § 247 Absatz 3 je Quadratmeter den Betrag von 2 000 Euro je Quadratmeter übersteigt. Ab einem Bodenrichtwert oder Bodenwert nach § 247 Absatz 3 je Quadratmeter in Höhe von 3 000 Euro je Quadratmeter beträgt der Zinssatz für Wohnungseigentum einheitlich 2 Prozent.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
+(3) Bei der Bewertung von Wohnungseigentum im Sinne des § 249 Absatz 5 verringert sich der Zinssatz nach Absatz 1 Satz 2 Nummer 2 um jeweils 0,1 Prozentpunkte für jede vollen 100 Euro, die der Bodenrichtwert oder der Bodenwert nach § 247 Absatz 3 je Quadratmeter den Betrag von 2 000 Euro je Quadratmeter übersteigt. Ab einem Bodenrichtwert oder Bodenwert nach § 247 Absatz 3 je Quadratmeter in Höhe von 3 000 Euro je Quadratmeter beträgt der Zinssatz für Wohnungseigentum einheitlich 2 Prozent.
 
 ### § 257 — Ermittlung des abgezinsten Bodenwerts
 
@@ -1803,8 +1645,6 @@ Als Bewirtschaftungskosten werden die bei ordnungsgemäßer Bewirtschaftung und 
 
 (3) Eine selbständig nutzbare Teilfläche ist ein Teil eines Grundstücks, der für die angemessene Nutzung der Gebäude nicht benötigt wird und selbständig genutzt oder verwertet werden kann.
 
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
-
 ### § 258 — Bewertung im Sachwertverfahren
 
 (1) Bei Anwendung des Sachwertverfahrens ist der Wert der Gebäude (Gebäudesachwert) getrennt vom Bodenwert zu ermitteln.
@@ -1812,8 +1652,6 @@ Als Bewirtschaftungskosten werden die bei ordnungsgemäßer Bewirtschaftung und 
 (2) Der Bodenwert ist der Wert des unbebauten Grundstücks nach § 247.
 
 (3) Die Summe aus Bodenwert (§ 247) und Gebäudesachwert (§ 259) ergibt den vorläufigen Sachwert des Grundstücks. Dieser ist zur Ermittlung des Grundsteuerwerts im Sachwertverfahren mit der Wertzahl nach § 260 zu multiplizieren. Mit dem Grundsteuerwert sind die Werte für den Grund und Boden, die Gebäude, die baulichen Anlagen, insbesondere Außenanlagen, und die sonstigen Anlagen abgegolten.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
 
 ### § 259 — Ermittlung des Gebäudesachwerts
 
@@ -1825,13 +1663,9 @@ Als Bewirtschaftungskosten werden die bei ordnungsgemäßer Bewirtschaftung und 
 
 (4) Vom Gebäudenormalherstellungswert ist eine Alterswertminderung abzuziehen. Die Alterswertminderung ergibt sich durch Multiplikation des Gebäudenormalherstellungswerts mit dem Verhältnis des Alters des Gebäudes im Hauptfeststellungszeitpunkt zur wirtschaftlichen Gesamtnutzungsdauer nach Anlage 38. Sind nach Bezugsfertigkeit des Gebäudes Veränderungen eingetreten, die die wirtschaftliche Gesamtnutzungsdauer des Gebäudes wesentlich verlängert haben, ist von einem der Verlängerung entsprechenden späteren Baujahr auszugehen. Der nach Abzug der Alterswertminderung verbleibende Gebäudewert ist mit mindestens 30 Prozent des Gebäudenormalherstellungswerts anzusetzen. Bei bestehender Abbruchverpflichtung für das Gebäude ist die Alterswertminderung abweichend von den Sätzen 2 bis 4 auf das Verhältnis des Alters des Gebäudes im Hauptfeststellungszeitpunkt zur tatsächlichen Gesamtnutzungsdauer begrenzt.
 
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
-
 ### § 260 — Wertzahlen
 
 Zur Ermittlung des Grundsteuerwerts ist der vorläufige Sachwert des Grundstücks im Sinne des § 258 Absatz 3 mit der sich aus Anlage 43 ergebenden Wertzahl zu multiplizieren.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
 
 ## IV.: Sonderfälle
 
@@ -1839,29 +1673,23 @@ Zur Ermittlung des Grundsteuerwerts ist der vorläufige Sachwert des Grundstück
 
 Bei Erbbaurechten ist für das Erbbaurecht und das Erbbaurechtsgrundstück ein Gesamtwert nach den §§ 243 bis 260 zu ermitteln, der festzustellen wäre, wenn die Belastung mit dem Erbbaurecht nicht bestünde. Der ermittelte Wert ist dem Erbbauberechtigten zuzurechnen. Für Wohnungserbbaurechte und Teilerbbaurechte gelten die Sätze 1 und 2 entsprechend.
 
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
-
 ### § 262 — Gebäude auf fremdem Grund und Boden
 
 Bei einem Gebäude auf fremdem Grund und Boden ist für den Grund und Boden sowie für das Gebäude auf fremdem Grund und Boden ein Gesamtwert nach den §§ 243 bis 260 zu ermitteln. Der ermittelte Wert ist dem Eigentümer des Grund und Bodens zuzurechnen.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
 
 ## V.: Ermächtigungen
 
 ### § 263 — Ermächtigungen
 
-(1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die folgenden Anlagen zu ändern: In der jeweiligen Rechtsverordnung kann das Bundesministerium der Finanzen zur Sicherstellung der Gleichmäßigkeit der Besteuerung, insbesondere zur Sicherstellung einer relations- und realitätsgerechten Abbildung der Grundsteuerwerte, anordnen, dass ab dem nächsten Feststellungszeitpunkt Grundsteuerwerte unter Berücksichtigung der tatsächlichen Verhältnisse und der geänderten Wertverhältnisse durch Anwendung der jeweils angepassten Anlagen 27 bis 43 festgestellt werden.
+(1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die folgenden Anlagen zu ändern:
 
-1.
+1. die Anlagen 27 bis 33 durch Anpassung der darin aufgeführten Bewertungsfaktoren und Zuschläge zum Reinertrag an die Ergebnisse der Erhebungen nach § 2 des Landwirtschaftsgesetzes oder an die Erhebungen der Finanzverwaltung zum nächsten Feststellungszeitpunkt,
 
-2.
+2. im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft die Anlagen 34 und 35 durch Anpassung des darin aufgeführten Umrechnungsschlüssels und der Gruppen der Zweige eines Tierbestands an geänderte wirtschaftliche oder technische Entwicklungen und
 
-3.
+3. die Anlagen 36 bis 43 durch Anpassung der darin aufgeführten Bewertungsfaktoren des Ertrags- und Sachwertverfahrens an geänderte wirtschaftliche oder technische Verhältnisse.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die gemeindebezogene Einordnung in die jeweilige Mietniveaustufe zur Ermittlung der Zu- und Abschläge nach § 254 in Verbindung mit Anlage 39 Teil II auf der Grundlage der Einordnung nach § 12 des Wohngeldgesetzes in Verbindung mit § 1 Absatz 3 und der Anlage der Wohngeldverordnung für steuerliche Zwecke herzuleiten und den dafür maßgeblichen Gebietsstand festzulegen.
-
-> §§ 218 bis 263 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) §§ 243 bis 263 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
 
 ## Dritter Teil: Schlussbestimmungen
 
@@ -1895,9 +1723,9 @@ Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetze
 
 (12) § 177 Absatz 1 und 2, § 179 Satz 3, § 183 Absatz 2 Satz 3, § 187 Absatz 2 Satz 2 und 3, § 188 Absatz 2 Satz 1, § 191 Absatz 1 Satz 2, § 193 Absatz 4 Satz 1 und § 198 Absatz 1 bis 3 in der Fassung des Artikels 1 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 2931) sind auf Bewertungsstichtage nach dem 22. Juli 2021 anzuwenden.
 
-(13) Bis zu dem nach § 153 Absatz 4 Satz 3 jeweils festgelegten Beginn der elektronischen Übermittlung ist § 153 Absatz 2 und 4 in der bis zum 20. Dezember 2022 gültigen Fassung weiter anzuwenden.
+(13) Bis zu dem nach § 153 Absatz 4 Satz 3 jeweils festgelegten Beginn der elektronischen Übermittlung ist § 153 Absatz 2 und 4 in der bis zum 20. Dezember 2022 gültigen Fassung weiter anzuwenden.
 
-(14) § 177 Absatz 2, 3 und 4, § 181 Absatz 9, § 183 Absatz 2 Satz 3, § 184 Absatz 3 und 4, § 185 Absatz 3 Satz 4 bis 7, § 187 Absatz 2 und 3, § 188 Absatz 1 und 2, § 189 Absatz 1 und 4, die §§ 190, 191, 193, 194 und 195 sowie die Anlagen 21, 22, 23, 24 und 25 in der Fassung des Artikels 19 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) sind auf Bewertungsstichtage nach dem 31. Dezember 2022 anzuwenden.
+(14) § 177 Absatz 2, 3 und 4, § 181 Absatz 9, § 183 Absatz 2 Satz 3, § 184 Absatz 3 und 4, § 185 Absatz 3 Satz 4 bis 7, § 187 Absatz 2 und 3, § 188 Absatz 1 und 2, § 189 Absatz 1 und 4, die §§ 190, 191, 193, 194 und 195 sowie die Anlagen 21, 22, 23, 24 und 25 in der Fassung des Artikels 19 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) sind auf Bewertungsstichtage nach dem 31. Dezember 2022 anzuwenden.
 
 (15) § 158 Absatz 2 Satz 3 und 4 in der Fassung des Artikels 35 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) sind auf Bewertungsstichtage nach dem 6. Dezember 2024 anzuwenden.
 
@@ -1915,15 +1743,11 @@ Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetze
 
 (5) Bestehende wirtschaftliche Einheiten, die für Zwecke der Einheitsbewertung unter Anwendung der §§ 26 oder 34 Absatz 4 bis 6 in der bis zum 31. Dezember 2024 gültigen Fassung gebildet wurden, können weiterhin für Zwecke der Feststellung von Grundsteuerwerten nach den Regelungen des Siebenten Abschnitts zugrunde gelegt werden.
 
-> § 266 idF d. G v. 26.11.2019 I 1794: Baden-Württemberg – Abweichung durch  das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565); dieses geändert durch G v. 22.12.2021 GBl. BW 2021, S. 1029 mWv 31.12.2021 (vgl. BGBl. I 2022, 30), durch G v. 13.6.2023 GBl. BW 2023, S. 170  mWv 17.6.2023 (vgl. BGBl. 2023 I Nr. 161) u. durch G v. 18.11.2025 GBl. BW 2020, S. 974 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 313) § 266 idF d. G v. 26.11.2019 I 1794: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087); dieses geändert  durch G v. 20.5.2022 Nds. GVBl. 2022 S. 314 mWv 1.1.2022 (vgl. BGBl. I 2022, 797) § 266 idF d. G v. 26.11.2019 I 1794: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528); dieses geändert durch G v. 22.6.2022 HmbGVBl. 2022 S. 399 mWv 1.1.2022 u. 23.6.2022 (vgl. BGBl.  I 2022, 1075), durch G v. 24.1.2023 HmbGVBl. 2023 S. 66 mWv 21.12.2022 (vgl. BGBl. 2023 I Nr. 55) u. durch G v. 19.12.2024 HmbGVBl. 2024 S. 720 mWv 6.12.2024 u. 1.1.2025 (vgl. BGBl. 2025 I Nr. 17)
-
 ### Anlage 1 bis 8 — (weggefallen)
 
 ### Anlage 9 — (weggefallen)
 
 ### Anlage 9a — (zu § 13)
-
-Der Kapitalwert ist unter Berücksichtigung von Zwischenzinsen und Zinseszinsen mit 5,5 Prozent errechnet worden. Er ist der Mittelwert zwischen dem Kapitalwert für jährlich vorschüssige und jährlich nachschüssige Zahlungsweise.
 
 > (+++ Anlage 9a F. 1993-09-13: Zur erstmaligen Anwendung vgl. § 124 Abs. 7 F. ab 1993-09-13 +++)
 
@@ -1947,29 +1771,23 @@ Der Kapitalwert ist unter Berücksichtigung von Zwischenzinsen und Zinseszinsen 
 
 ### Anlage 20 — (zu § 169 Abs. 5)
 
-1.
+1. Mehr flächenabhängige Zweige des Tierbestands Pferdehaltung, Pferdezucht, Schafzucht, Schafhaltung, Rindviehzucht, Milchviehhaltung, Rindviehmast.
 
-2.
+2. Weniger flächenabhängige Zweige des Tierbestands Schweinezucht, Schweinemast, Hühnerzucht, Entenzucht, Gänsezucht, Putenzucht, Legehennenhaltung, Junghühnermast, Entenmast, Gänsemast, Putenmast.
 
 ### Anlage 21 — (zu § 185 Absatz 3 Satz 1, § 193 Absatz 4 Satz 1, § 194 Absatz 5 Satz 1 und § 195 Absatz 3 Satz 1 und Absatz 7 Satz 1)
 
 Berechnungsformel für die der Tabelle nicht zu entnehmenden Vervielfältiger (Barwertfaktoren für die Kapitalisierung):
 
-Vervielfältiger =
+p = Zinsfuß
 
-q = 1 + Zinssatz, wobei Zinssatz =
-
-p = Zinsfuß
-
-n = Restnutzungsdauer / Restlaufzeit
+n = Restnutzungsdauer / Restlaufzeit
 
 Das jeweilige Berechnungsergebnis ist kaufmännisch auf vier Nachkommastellen zu runden.
 
 > (+++ Anlage 21: Zur Anwendung vgl. § 265 +++)
 
 ### Anlage 22 — (zu § 185 Absatz 3 Satz 3, § 190 Absatz 6 Satz 1 und 2)
-
-Teileigentum ist in Abhängigkeit von der baulichen Gestaltung den vorstehenden Gebäudearten zuzuordnen.
 
 > (+++ Anlage 22: Zur Anwendung vgl. § 265 +++)
 
@@ -1981,27 +1799,13 @@ Die Anpassung der Basiswerte nach den Nummern I.1 und I.2 erfolgt jährlich mit 
 
 ### Anlage 24 — (zu § 190 Absatz 1 Satz 3 und Absatz 2 und Anlage 23)
 
-I. Begriff der Brutto-Grundfläche (BGF)
+1. Die BGF ist die Summe der bezogen auf die jeweilige Gebäudeart marktüblich nutzbaren Grundflächen aller Grundrissebenen eines Bauwerks. In Anlehnung an die DIN 277-1:2005-02 sind bei den Grundflächen folgende Bereiche zu unterscheiden: Bereich a: überdeckt und allseitig in voller Höhe umschlossen, Bereich b: überdeckt, jedoch nicht allseitig in voller Höhe umschlossen, Bereich c: nicht überdeckt. Für die Anwendung der Regelherstellungskosten (RHK) sind im Rahmen der Ermittlung der BGF nur die Grundflächen der Bereiche a und b zugrunde zu legen. Balkone, auch wenn sie überdeckt sind, sind dem Bereich c zuzuordnen. Für die Ermittlung der BGF sind die äußeren Maße der Bauteile einschließlich Bekleidung, z. B. Putz und Außenschalen mehrschaliger Wandkonstruktionen, in Höhe der Bodenbelagsoberkanten anzusetzen.
 
-1.
-
-2.
-
-II. Regelherstellungskosten (RHK)
-
-Regelherstellungskosten
-
-auf Grundlage der Normalherstellungskosten 2010 (NHK 2010) in Euro/m2 BGF einschließlich Baunebenkosten und Umsatzsteuer für die jeweilige Gebäudeart (Kostenstand 2010)
-
-III. Beschreibung der Gebäudestandards
-
-Die Beschreibung der Gebäudestandards ist beispielhaft und dient der Orientierung. Sie kann nicht alle in der Praxis auftretenden Standardmerkmale aufführen. Es müssen nicht alle aufgeführten Merkmale zutreffen. Die in der Tabelle angegebenen Jahreszahlen beziehen sich auf die im jeweiligen Zeitraum gültigen Wärmeschutzanforderungen; in Bezug auf das konkrete Bewertungsobjekt ist zu prüfen, ob von diesen Wärmeschutzanforderungen abgewichen wird. Die Beschreibung der Gebäudestandards basiert auf dem Bezugsjahr der Normalherstellungskosten (2010).
+2. Nicht zur BGF gehören z. B. Flächen von Spitzböden und Kriechkellern, Flächen, die ausschließlich der Wartung, Inspektion und Instandsetzung von Baukonstruktionen und technischen Anlagen dienen sowie Flächen unter konstruktiven Hohlräumen, z. B. über abgehängten Decken.
 
 > (+++ Anlage 24: Zur Anwendung vgl. § 265 +++)
 
 ### Anlage 25 — (zu § 191 Satz 2)
-
-Für vorläufige Sachwerte und Bodenrichtwerte oder abgeleitete Bodenwerte zwischen den angegebenen Intervallen sind die Wertzahlen durch lineare Interpolation zu bestimmen. Über den tabellarisch aufgeführten Bereich hinaus ist keine Extrapolation durchzuführen. Für Werte außerhalb des angegebenen Bereichs gilt der nächstgelegene vorläufige Sachwert oder Bodenrichtwert oder abgeleitete Bodenwert.
 
 Für vorläufige Sachwerte und Bodenrichtwerte oder abgeleitete Bodenwerte zwischen den angegebenen Intervallen sind die Wertzahlen durch lineare Interpolation zu bestimmen. Über den tabellarisch aufgeführten Bereich hinaus ist keine Extrapolation durchzuführen. Für Werte außerhalb des angegebenen Bereichs gilt der nächstgelegene vorläufige Sachwert oder Bodenrichtwert oder abgeleitete Bodenwert.
 
@@ -2011,13 +1815,9 @@ Für vorläufige Sachwerte und Bodenrichtwerte oder abgeleitete Bodenwerte zwisc
 
 Berechnungsformel für die der Tabelle nicht zu entnehmenden Abzinsungsfaktoren (Barwertfaktoren für die Abzinsung):
 
-Abzinsungsfaktor =
+p = Zinsfuß
 
-q = 1 + Zinssatz, wobei Zinssatz =
-
-p = Zinsfuß
-
-n = Restnutzungsdauer / Restlaufzeit
+n = Restnutzungsdauer / Restlaufzeit
 
 Das jeweilige Berechnungsergebnis ist kaufmännisch auf vier Nachkommastellen zu runden.
 
@@ -2039,9 +1839,9 @@ Das jeweilige Berechnungsergebnis ist kaufmännisch auf vier Nachkommastellen zu
 
 ### Anlage 35 — (zu § 241 Absatz 5)
 
-1.
+1. Mehr flächenabhängige Zweige des Tierbestands: Pferdehaltung, Pferdezucht, Schafzucht, Schafhaltung, Rindviehzucht, Milchviehhaltung, Rindviehmast.
 
-2.
+2. Weniger flächenabhängige Zweige des Tierbestands: Schweinezucht, Schweinemast, Hühnerzucht, Entenzucht, Gänsezucht, Putenzucht, Legehennenhaltung, Junghühnermast, Entenmast, Gänsemast, Putenmast.
 
 ### Anlage 36 — (zu den §§ 251 und 257 Absatz 1)
 
@@ -2049,48 +1849,42 @@ Das jeweilige Berechnungsergebnis ist kaufmännisch auf vier Nachkommastellen zu
 
 Berechnungsvorschrift für die Vervielfältiger (Barwertfaktoren für die Kapitalisierung):
 
-q
+q = 1 + LZ wobei
 
-LZ
+LZ = Zinssatz (Liegenschaftszinssatz)
 
-n
+n = Restnutzungsdauer
 
-p
+p = Zinsfuß
 
 ### Anlage 38 — (zu § 253 Absatz 2 und § 259 Absatz 4)
-
-Teileigentum ist in Abhängigkeit von der baulichen Gestaltung den vorstehenden Gebäudearten zuzuordnen.
-
-Auffangklausel
 
 Für nicht aufgeführte Gebäudearten ist die wirtschaftliche Gesamtnutzungsdauer aus der wirtschaftlichen Gesamtnutzungsdauer vergleichbarer Gebäudearten abzuleiten.
 
 ### Anlage 39 — (zu § 254)
 
-I.
+I. Monatliche Nettokaltmieten in EUR/Quadratmeter Wohnfläche (Wertverhältnisse/Stand: 1. Januar 2022)LandGebäudeartWohnfläche (je Wohnung)Baujahr des Gebäudesbis 19481949 bis 19781979 bis 19901991 bis 2000ab 2001Baden-WürttembergEinfamilienhausunter 60 m27,136,887,018,739,40von 60 m2 bis unter 100 m26,246,416,627,587,51100 m2 und mehr5,536,106,376,617,78Zweifamilienhausunter 60 m27,638,168,158,568,89von 60 m2 bis unter 100 m25,606,066,116,557,60100 m2 und mehr5,105,385,456,207,31Mietwohngrundstückunter 60 m28,609,179,1110,1012,44von 60 m2 bis unter 100 m26,787,097,337,828,97100 m2 und mehr6,846,426,827,278,97BayernEinfamilienhausunter 60 m27,867,547,769,2810,64von 60 m2 bis unter 100 m26,897,047,348,078,50100 m2 und mehr6,096,697,067,038,80Zweifamilienhausunter 60 m26,917,357,417,488,25von 60 m2 bis unter 100 m25,065,455,575,727,07100 m2 und mehr4,614,854,965,426,79Mietwohngrundstückunter 60 m29,8210,4110,4411,1214,56von 60 m2 bis unter 100 m27,748,048,408,6110,50100 m2 und mehr7,807,297,818,0010,50BerlinEinfamilienhausunter 60 m29,047,797,2810,7014,45von 60 m2 bis unter 100 m27,927,256,899,2811,56100 m2 und mehr7,016,916,638,0911,96Zweifamilienhausunter 60 m28,958,557,839,7012,62von 60 m2 bis unter 100 m26,566,335,877,4310,79100 m2 und mehr5,975,645,237,0210,37Mietwohngrundstückunter 60 m28,478,077,349,6014,83von 60 m2 bis unter 100 m26,686,235,917,4410,70100 m2 und mehr6,735,655,506,9110,70BrandenburgEinfamilienhausunter 60 m28,347,207,2810,6612,20von 60 m2 bis unter 100 m27,316,716,889,269,75100 m2 und mehr6,476,396,628,0710,09Zweifamilienhausunter 60 m27,507,177,108,799,68von 60 m2 bis unter 100 m25,505,315,326,728,28100 m2 und mehr5,004,734,756,367,96Mietwohngrundstückunter 60 m27,457,117,009,1311,94von 60 m2 bis unter 100 m25,885,495,637,078,61100 m2 und mehr5,924,985,246,588,61BremenEinfamilienhausunter 60 m27,036,496,737,629,00von 60 m2 bis unter 100 m26,166,066,366,627,19100 m2 und mehr5,455,776,115,777,44Zweifamilienhausunter 60 m27,888,098,197,848,91von 60 m2 bis unter 100 m25,786,006,156,007,62100 m2 und mehr5,265,335,485,677,33Mietwohngrundstückunter 60 m28,088,268,338,3811,33von 60 m2 bis unter 100 m26,386,386,716,498,17100 m2 und mehr6,425,796,246,048,17HamburgEinfamilienhausunter 60 m28,697,017,529,5610,26von 60 m2 bis unter 100 m27,626,537,118,318,20100 m2 und mehr6,746,226,847,248,49Zweifamilienhausunter 60 m210,459,349,8210,5510,89von 60 m2 bis unter 100 m27,676,927,378,079,31100 m2 und mehr6,976,166,577,648,96Mietwohngrundstückunter 60 m29,188,198,579,7011,89von 60 m2 bis unter 100 m27,236,326,897,518,58100 m2 und mehr7,305,736,426,988,58HessenEinfamilienhausunter 60 m27,966,976,917,8310,02von 60 m2 bis unter 100 m26,976,506,546,808,00100 m2 und mehr6,176,186,295,938,29Zweifamilienhausunter 60 m27,457,237,026,728,27von 60 m2 bis unter 100 m25,465,365,265,157,08100 m2 und mehr4,974,774,704,876,81Mietwohngrundstückunter 60 m29,449,138,818,9013,01von 60 m2 bis unter 100 m27,457,057,106,899,39100 m2 und mehr7,506,396,606,409,39Mecklenburg-VorpommernEinfamilienhausunter 60 m27,025,755,508,128,77von 60 m2 bis unter 100 m26,155,375,207,057,01100 m2 und mehr5,445,115,016,147,26Zweifamilienhausunter 60 m27,486,806,357,928,24von 60 m2 bis unter 100 m25,485,054,776,077,05100 m2 und mehr4,994,494,255,746,78Mietwohngrundstückunter 60 m28,207,446,929,0911,22von 60 m2 bis unter 100 m26,485,745,577,048,10100 m2 und mehr6,525,215,186,558,10NiedersachsenEinfamilienhausunter 60 m26,626,366,317,728,40von 60 m2 bis unter 100 m25,805,935,976,706,71100 m2 und mehr5,135,645,745,846,95Zweifamilienhausunter 60 m26,787,217,007,237,58von 60 m2 bis unter 100 m24,985,345,255,536,48100 m2 und mehr4,524,764,685,246,24Mietwohngrundstückunter 60 m28,078,578,289,0011,22von 60 m2 bis unter 100 m26,366,626,676,988,10100 m2 und mehr6,426,016,206,488,10Nordrhein-WestfalenEinfamilienhausunter 60 m26,976,566,828,308,32von 60 m2 bis unter 100 m26,106,116,447,206,65100 m2 und mehr5,405,826,196,286,88Zweifamilienhausunter 60 m27,077,387,507,707,44von 60 m2 bis unter 100 m25,195,475,625,896,37100 m2 und mehr4,714,875,025,576,12Mietwohngrundstückunter 60 m27,838,138,238,9010,22von 60 m2 bis unter 100 m26,176,296,626,907,38100 m2 und mehr6,225,696,156,417,38Rheinland-PfalzEinfamilienhausunter 60 m27,126,816,888,139,32von 60 m2 bis unter 100 m26,236,366,507,067,45100 m2 und mehr5,526,056,256,157,72Zweifamilienhausunter 60 m27,307,777,667,648,44von 60 m2 bis unter 100 m25,355,765,755,857,22100 m2 und mehr4,875,135,135,536,94Mietwohngrundstückunter 60 m28,338,828,679,1111,95von 60 m2 bis unter 100 m26,576,816,987,068,62100 m2 und mehr6,626,186,496,578,62SaarlandEinfamilienhausunter 60 m26,076,186,138,399,03von 60 m2 bis unter 100 m25,325,765,797,297,21100 m2 und mehr4,715,485,576,357,47Zweifamilienhausunter 60 m26,337,136,938,008,30von 60 m2 bis unter 100 m24,635,285,196,137,09100 m2 und mehr4,224,714,635,806,82Mietwohngrundstückunter 60 m27,748,708,4110,2412,62von 60 m2 bis unter 100 m26,106,736,777,949,10100 m2 und mehr6,156,106,307,379,10SachsenEinfamilienhausunter 60 m26,706,215,718,238,97von 60 m2 bis unter 100 m25,875,795,397,157,17100 m2 und mehr5,195,525,196,237,43Zweifamilienhausunter 60 m25,926,095,476,677,00von 60 m2 bis unter 100 m24,344,514,115,115,99100 m2 und mehr3,944,013,674,835,75Mietwohngrundstückunter 60 m27,577,776,958,9311,12von 60 m2 bis unter 100 m25,986,015,606,928,02100 m2 und mehr6,025,445,206,428,02Sachsen-AnhaltEinfamilienhausunter 60 m26,235,785,537,437,79von 60 m2 bis unter 100 m25,455,395,226,456,23100 m2 und mehr4,835,145,025,626,45Zweifamilienhausunter 60 m26,196,375,966,756,83von 60 m2 bis unter 100 m24,544,724,475,175,85100 m2 und mehr4,134,203,984,895,62Mietwohngrundstückunter 60 m27,227,416,908,249,90von 60 m2 bis unter 100 m25,695,725,556,387,14100 m2 und mehr5,745,195,165,937,14Schleswig-HolsteinEinfamilienhausunter 60 m27,166,926,878,479,24von 60 m2 bis unter 100 m26,286,456,497,357,37100 m2 und mehr5,556,146,246,417,64Zweifamilienhausunter 60 m27,558,107,868,188,58von 60 m2 bis unter 100 m25,546,015,906,277,34100 m2 und mehr5,035,345,265,927,06Mietwohngrundstückunter 60 m27,858,398,108,8911,09von 60 m2 bis unter 100 m26,196,476,526,897,99100 m2 und mehr6,245,876,066,407,99ThüringenEinfamilienhausunter 60 m27,366,586,418,319,59von 60 m2 bis unter 100 m26,456,136,057,227,66100 m2 und mehr5,715,835,826,297,94Zweifamilienhausunter 60 m27,077,006,677,308,12von 60 m2 bis unter 100 m25,195,195,005,596,95100 m2 und mehr4,714,624,455,296,68Mietwohngrundstückunter 60 m27,707,617,228,3311,00von 60 m2 bis unter 100 m26,085,885,816,457,94100 m2 und mehr6,125,335,406,007,94
 
-II.
+II. Mietniveaustufen Zur Berücksichtigung von Mietniveauunterschieden zwischen Gemeinden eines Landes sind die Nettokaltmieten zu I. durch folgende Ab- oder Zuschläge anzupassen: Mietniveaustufe 1– 20,0 %Mietniveaustufe 2– 10,0 %Mietniveaustufe 3 +/– 0 %Mietniveaustufe 4+ 10,0 %Mietniveaustufe 5+ 20,0 %Mietniveaustufe 6+ 30,0 %Mietniveaustufe 7+ 40,0 % Die gemeindebezogene Einordnung in die Mietniveaustufen und der dafür maßgebliche Gebietsstand ergibt sich aus der Rechtsverordnung zur Durchführung des § 254 des Bewertungsgesetzes in der jeweils aktuellen Fassung; nicht aufgeführte Gemeinden sind der Mietniveaustufe 3 zuzuordnen.
 
 ### Anlage 40 — (zu § 255)
-
-Pauschalierte Bewirtschaftungskosten für Verwaltung, Instandhaltung und Mietausfallwagnis in Prozent des Rohertrags des Grundstücks nach § 254
 
 ### Anlage 41 — (zu § 257 Absatz 2)
 
 Berechnungsvorschrift für die Abzinsungsfaktoren (Barwertfaktoren für die Abzinsung):
 
-q
+q = 1 + LZ wobei
 
-LZ
+LZ = Zinssatz (Liegenschaftszinssatz)
 
-n
+n = Restnutzungsdauer
 
-p
+p = Zinsfuß
 
 ### Anlage 42 — (zu § 259 Absatz 1)
 
-1.
+I. Begriff der Brutto-Grundfläche (BGF)1.Die BGF ist die Summe der bezogen auf die jeweilige Gebäudeart marktüblich nutzbaren Grundflächen aller Grundrissebenen eines Bauwerks. In Anlehnung an die DIN 277-1:2005-02 sind bei den Grundflächen folgende Bereiche zu unterscheiden:Bereich a: überdeckt und allseitig in voller Höhe umschlossen,Bereich b: überdeckt, jedoch nicht allseitig in voller Höhe umschlossen,Bereich c: nicht überdeckt.Für die Anwendung der Normalherstellungskosten (NHK) sind im Rahmen der Ermittlung der BGF nur die Grundflächen der Bereiche a und b zugrunde zu legen. Balkone, auch wenn sie überdeckt sind, sind dem Bereich c zuzuordnen.Für die Ermittlung der BGF sind die äußeren Maße der Bauteile einschließlich Bekleidung, z. B. Putz und Außenschalen mehrschaliger Wandkonstruktionen, in Höhe der Bodenbelagsoberkanten anzusetzen.2.Nicht zur BGF gehören z. B. Flächen von Spitzböden und Kriechkellern, Flächen, die ausschließlich der Wartung, Inspektion und Instandsetzung von Baukonstruktionen und technischen Anlagen dienen, sowie Flächen unter konstruktiven Hohlräumen, z. B. über abgehängten Decken. Die BGF ist die Summe der bezogen auf die jeweilige Gebäudeart marktüblich nutzbaren Grundflächen aller Grundrissebenen eines Bauwerks. In Anlehnung an die DIN 277-1:2005-02 sind bei den Grundflächen folgende Bereiche zu unterscheiden: Bereich a: überdeckt und allseitig in voller Höhe umschlossen, Bereich b: überdeckt, jedoch nicht allseitig in voller Höhe umschlossen, Bereich c: nicht überdeckt. Für die Anwendung der Normalherstellungskosten (NHK) sind im Rahmen der Ermittlung der BGF nur die Grundflächen der Bereiche a und b zugrunde zu legen. Balkone, auch wenn sie überdeckt sind, sind dem Bereich c zuzuordnen. Für die Ermittlung der BGF sind die äußeren Maße der Bauteile einschließlich Bekleidung, z. B. Putz und Außenschalen mehrschaliger Wandkonstruktionen, in Höhe der Bodenbelagsoberkanten anzusetzen. Nicht zur BGF gehören z. B. Flächen von Spitzböden und Kriechkellern, Flächen, die ausschließlich der Wartung, Inspektion und Instandsetzung von Baukonstruktionen und technischen Anlagen dienen, sowie Flächen unter konstruktiven Hohlräumen, z. B. über abgehängten Decken.
 
-2.
+II. Normalherstellungskosten (NHK) Normalherstellungskosten in Euro/m2 BGF auf der Grundlage der Normalherstellungskosten 2010 (NHK 2010), einschließlich Baunebenkosten und Umsatzsteuer für die jeweilige Gebäudeart (Kostenstand 2010) sowie eines pauschalen Zuschlages für bauliche Anlagen, insbesondere Außenanlagen, und sonstige Anlagen (3 %) GebäudeartBaujahrgruppevor 19951995 – 2004ab 2005 1Gemischt genutzte Grundstücke (Wohnhäuser mit Mischnutzung) 695 8861 118 2Banken und ähnliche Geschäftshäuser 736 9371 494 3Bürogebäude, Verwaltungsgebäude 8391 0711 736 4Gemeindezentren, Vereinsheime, Saalbauten, Veranstaltungsgebäude1 0041 2821 555 5Kindergärten (Kindertagesstätten), allgemeinbildende Schulen, berufsbildende Schulen, Hochschulen, Sonderschulen1 1641 4881 710 6Wohnheime, Internate, Alten-, Pflegeheime 8761 1181 370 7Krankenhäuser, Kliniken, Tageskliniken, Ärztehäuser1 3341 7052 075 8Beherbergungsstätten, Hotels, Verpflegungseinrichtungen1 1181 4271 859 9.1Sporthallen1 1331 4471 777 9.2Tennishallen 8141 0401 226 9.3Freizeitbäder, Kur- und Heilbäder1 9782 5243 07510.1Verbrauchermärkte 582 742 89610.2Kauf- und Warenhäuser1 0661 3601 63310.3Autohäuser ohne Werkstatt 757 9681 27711.1Betriebs- und Werkstätten eingeschossig oder mehrgeschossig ohne Hallenanteil; industrielle Produktionsgebäude, Massivbauweise 762 9731 20011.2Betriebs- und Werkstätten, mehrgeschossig, hoher Hallenanteil; industrielle Produktionsgebäude, überwiegend Skelettbauweise 536 680 94212.1Lagergebäude ohne Mischnutzung, Kaltlager 283 361 50512.2Lagergebäude mit bis zu 25 Prozent Mischnutzung 443 567 71112.3Lagergebäude mit mehr als 25 Prozent Mischnutzung 716 9171 12813Museen, Theater, Sakralbauten1 5141 8752 39514Reithallen, ehemalige landwirtschaftliche Mehrzweckhallen, Scheunen und Ähnliches 26315Stallbauten 42216Hochgaragen, Tiefgaragen und Nutzfahrzeuggaragen 62317Einzelgaragen, Mehrfachgaragen 50018Carports und Ähnliches 19619Teileigentum Teileigentum ist in Abhängigkeit von der baulichen Gestaltung den vorstehenden Gebäudearten zuzuordnen.20Auffangklausel Normalherstellungskosten für nicht aufgeführte Gebäudearten sind aus den Normalherstellungskosten vergleichbarer Gebäudearten abzuleiten.
 
 ### Anlage 43 — (zu § 260)

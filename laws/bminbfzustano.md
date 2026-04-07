@@ -14,5 +14,3 @@ Nach § 127 Absatz 3 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 1
 Diese Anordnung tritt am Tag nach der Veröffentlichung in Kraft. Sie findet keine Anwendung auf Klagen, die vor ihrem Inkrafttreten erhoben worden sind.
 
 ### Schlussformel
-
-Die Bundesministerin für Bildung und Forschung

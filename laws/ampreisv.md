@@ -14,47 +14,43 @@ Auf Grund des § 78 des Arzneimittelgesetzes vom 24. August 1976 (BGBl. I S. 244
 
 (1) Für Arzneimittel, die im voraus hergestellt und in einer zur Abgabe an den Verbraucher bestimmten Packung in den Verkehr gebracht werden (Fertigarzneimittel) und deren Abgabe nach § 43 Abs. 1 des Arzneimittelgesetzes den Apotheken vorbehalten ist, werden durch diese Verordnung festgelegt
 
-1.
+1. die Preisspannen des Großhandels bei der Abgabe im Wiederverkauf an Apotheken oder Tierärzte (§ 2),
 
-2.
+2. die Preisspannen sowie die Preise für besondere Leistungen der Apotheken bei der Abgabe im Wiederverkauf (§§ 3, 6 und 7),
 
-3.
+3. die Preisspannen der Tierärzte bei der Abgabe im Wiederverkauf an Tierhalter (§ 10).
 
 (2) Für Arzneimittel, die in Apotheken oder von Tierärzten hergestellt werden und deren Abgabe nach § 43 Abs. 1 und 3 des Arzneimittelgesetzes den Apotheken vorbehalten ist, werden durch diese Verordnung festgelegt
 
-1.
+1. die Preisspannen sowie die Preise für besondere Leistungen der Apotheken (§§ 4 bis 7),
 
-2.
+2. die Preisspannen der Tierärzte (§ 10).
 
-(3) Ausgenommen sind die Preisspannen und Preise der Apotheken, wenn es sich um eine Abgabe handelt Im Fall von Satz 1 Nummer 1 bleibt § 129a des Fünften Buches Sozialgesetzbuch unberührt. Im Fall von Satz 1 Nr. 7 können Sozialleistungsträger, private Krankenversicherungen oder deren Verbände das Verfahren für die Berechnung der Apothekenabgabepreise für die zu ihren Lasten abgegebenen Arzneimittel mit Apotheken oder deren Verbänden vereinbaren.
+(3) Ausgenommen sind die Preisspannen und Preise der Apotheken, wenn es sich um eine Abgabe handelt
 
-1.
+1. durch Krankenhausapotheken, soweit es sich nicht um die Abgabe von parenteralen Zubereitungen aus Fertigarzneimitteln in der Onkologie zur ambulanten Versorgung handelt,
 
-2.
+2. an Krankenhäuser und diesen nach § 14 Absatz 8 Satz 2 des Apothekengesetzes gleichgestellte Einrichtungen sowie an Justizvollzugsanstalten und Jugendarrestanstalten,
 
-3.
+3. an die in § 47 Absatz 1 Satz 1 Nummer 2 bis 10 des Arzneimittelgesetzes genannten Personen und Einrichtungen unter den dort bezeichneten Voraussetzungen,
 
-3a.
+3a. von Impfstoffen, die zur Anwendung bei öffentlich empfohlenen Schutzimpfungen im Sinne des § 20 Abs. 3 des Infektionsschutzgesetzes vom 20. Juli 2000 (BGBl. I S. 1045) bestimmt sind und diese Impfstoffe an Krankenhäuser, Gesundheitsämter und Ärzte abgegeben werden, sofern es sich nicht um die Abgabe von saisonalen Grippeimpfstoffen an Ärzte handelt,
 
-4.
+4. von Impfstoffen, die zur Anwendung bei allgemeinen, insbesondere behördlichen oder betrieblichen Grippevorsorgemaßnahmen bestimmt sind,
 
-5.
+5. an Gesundheitsämter für Maßnahmen der Rachitisvorsorge,
 
-6.
+6. von Arzneimitteln, die zur Anwendung bei der Dialyse Nierenkranker bestimmt sind,
 
-7.
+7. von aus Fertigarzneimitteln auf Grund ärztlicher Verordnung entnommenen Teilmengen, soweit deren Darreichungsform, Zusammensetzung und Stärke unverändert bleibt,
 
-8.
+8. von Fertigarzneimitteln in parenteralen Zubereitungen.
 
 (4) Ausgenommen sind die Preisspannen und Preise von nicht verschreibungspflichtigen Arzneimitteln.
 
 ### § 2 — Großhandelszuschläge für Fertigarzneimittel
 
 (1) Bei der Abgabe von Fertigarzneimitteln, die zur Anwendung bei Menschen bestimmt sind, durch den Großhandel an Apotheken oder Tierärzte sind auf den Abgabepreis des pharmazeutischen Unternehmers ein Festzuschlag von 73 Cent sowie die Umsatzsteuer zu erheben; zusätzlich darf auf den Abgabepreis des pharmazeutischen Unternehmers ohne die Umsatzsteuer höchstens ein Zuschlag von 3,15 Prozent, höchstens jedoch 37,80 Euro erhoben werden. Bei der Abgabe von Fertigarzneimitteln, die zur Anwendung bei Tieren bestimmt sind, durch den Großhandel an Apotheken oder Tierärzte dürfen auf den Abgabepreis des pharmazeutischen Unternehmers ohne die Umsatzsteuer höchstens Zuschläge nach Absatz 2 oder 3 sowie die Umsatzsteuer erhoben werden. Der Berechnung der Zuschläge nach Satz 1 ist jeweils der Betrag zugrunde zu legen, zu dem der pharmazeutische Unternehmer das Arzneimittel nach § 78 Absatz 3 oder Absatz 3a des Arzneimittelgesetzes abgibt.
-
-(2) Der Höchstzuschlag nach Absatz 1 Satz 2 ist bei einem Abgabepreis des pharmazeutischen Unternehmers
-
-(3) Der Höchstzuschlag nach Absatz 1 Satz 2 ist bei einem Abgabepreis des pharmazeutischen Unternehmers
 
 ### § 3 — Apothekenzuschläge für Fertigarzneimittel
 
@@ -64,13 +60,9 @@ Auf Grund des § 78 des Arzneimittelgesetzes vom 24. August 1976 (BGBl. I S. 244
 
 (2) Der Festzuschlag ist zu erheben
 
-1.
+1. auf den Betrag, der sich aus der Zusammenrechnung des bei Belieferung des Großhandels geltenden Abgabepreises des pharmazeutischen Unternehmers ohne die Umsatzsteuer und des darauf entfallenden Großhandelshöchstzuschlags nach § 2 ergibt,
 
-2.
-
-(3) Der Höchstzuschlag nach Absatz 1 Satz 3 ist bei einem Betrag
-
-(4) Der Höchstzuschlag nach Absatz 1 Satz 3 ist bei einem Betrag
+2. bei Fertigarzneimitteln, die nach § 52b Absatz 2 Satz 3 des Arzneimittelgesetzes nur vom pharmazeutischen Unternehmer direkt zu beziehen sind, auf den bei Belieferung der Apotheke geltenden Abgabepreis des pharmazeutischen Unternehmers ohne die Umsatzsteuer; § 2 Absatz 1 Satz 3 gilt entsprechend.
 
 (5) Sofern die abzugebende Menge nicht in der Verschreibung vorgeschrieben oder gesetzlich bestimmt ist, haben die Apotheken, soweit mit den Kostenträgern nichts anderes vereinbart ist, die kleinste im Verkehr befindliche Packung zu berechnen. Satz 1 gilt auch in dem Fall, dass statt der verschriebenen Packungsgröße die verschriebene Menge des Arzneimittels als Teilmenge aus einer Packung abgegeben wird, die größer ist als die verschriebene Packungsgröße.
 
@@ -88,21 +80,19 @@ Auf Grund des § 78 des Arzneimittelgesetzes vom 24. August 1976 (BGBl. I S. 244
 
 ### § 5 — Apothekenzuschläge für Zubereitungen aus Stoffen
 
-(1) Bei der Abgabe einer Zubereitung aus einem Stoff oder mehreren Stoffen, die in Apotheken angefertigt wird, sind sowie die Umsatzsteuer zu erheben.
+(1) Bei der Abgabe einer Zubereitung aus einem Stoff oder mehreren Stoffen, die in Apotheken angefertigt wird, sind
 
-1.
+1. ein Festzuschlag von 90 Prozent auf die Apothekeneinkaufspreise ohne Umsatzsteuer für Stoffe und erforderliche Verpackung,
 
-2.
+2. ein Rezepturzuschlag nach Absatz 3,
 
-3.
+3. ein Festzuschlag von 8,35 Euro für Zubereitungen nach Absatz 3, die nicht Absatz 6 unterfallen
 
 (2) Auszugehen ist von den Apothekeneinkaufspreisen der für die Zubereitung erforderlichen Mengen an Stoffen und Fertigarzneimitteln. Maßgebend ist
 
-1.
+1. bei Stoffen der Einkaufspreis der üblichen Abpackung,
 
-2.
-
-(3) Der Rezepturzuschlag beträgt für 1.  die Herstellung eines Arzneimittels durch ZubereitungFür jede über die Grundmenge hinausgehende kleinere bis gleich große Menge erhöht sich der Rezepturzuschlag um jeweils 50 Prozent.
+2. bei Fertigarzneimitteln der Einkaufspreis nach § 3 Abs. 2 der erforderlichen Packungsgröße, höchstens jedoch der Apothekeneinkaufspreis, der für Fertigarzneimittel bei Abgabe in öffentlichen Apotheken gilt.
 
 (4) Trifft die für die Wahrnehmung der wirtschaftlichen Interessen gebildete maßgebliche Spitzenorganisation der Apotheker mit dem Spitzenverband Bund der Krankenkassen Vereinbarungen über Apothekeneinkaufspreise, die der Berechnung zugrunde gelegt werden sollen, so ist der Festzuschlag nach Absatz 1 Nr. 1 für die durch diese Vereinbarungen erfaßten Abgaben abweichend von den Absätzen 1 und 2 auf diese Preise zu erheben. Das Gleiche gilt, wenn Sozialleistungsträger, private Krankenversicherungen oder deren Verbände mit Apotheken oder deren Verbänden entsprechende Vereinbarungen treffen; liegt eine solche Vereinbarung nicht vor, kann auf die nach Satz 1 vereinbarten Preise abgestellt werden. Besteht keine Vereinbarung über abrechnungsfähige Einkaufspreise für Fertigarzneimittel in Zubereitungen nach Satz 1 oder Satz 2, ist höchstens der Apothekeneinkaufspreis zu berechnen, der bei Abgabe an Verbraucher auf Grund dieser Verordnung gilt. Bei einer umsatzsteuerfreien Abgabe von parenteralen Zubereitungen aus Fertigarzneimitteln in der Onkologie zur ambulanten Versorgung durch Krankenhausapotheken ist höchstens der Apothekeneinkaufspreis nach Satz 3 einschließlich der in diesem enthaltenen Umsatzsteuer zu berechnen.
 
@@ -110,19 +100,19 @@ Auf Grund des § 78 des Arzneimittelgesetzes vom 24. August 1976 (BGBl. I S. 244
 
 (6) Besteht keine Vereinbarung über Apothekenzuschläge für die Zubereitung von Stoffen nach Absatz 5 Satz 1 oder Satz 2, beträgt der Zuschlag für parenterale Lösungen abweichend von Absatz 1 oder Absatz 3 für
 
-1.
+1. zytostatikahaltige Lösungen 90 Euro,
 
-2.
+2. Lösungen mit monoklonalen Antikörpern 87 Euro,
 
-3.
+3. antibiotika- und virustatikahaltige Lösungen 51 Euro,
 
-4.
+4. Lösungen mit Schmerzmitteln 51 Euro,
 
-5.
+5. Ernährungslösungen 83 Euro,
 
-6.
+6. Calciumfolinatlösungen 51 Euro,
 
-7.
+7. sonstige Lösungen 70 Euro.
 
 ### § 6 — Notdienst
 
@@ -140,17 +130,15 @@ Unvermeidbare Telegrammgebühren, Fernsprechgebühren, Porti, Zölle und andere 
 
 Auf der Verschreibung sind von den Apotheken einzeln anzugeben
 
-1.
+1. bei Fertigarzneimitteln der Apothekenabgabepreis, zusätzlich berechnete Beträge und die Summe der Einzelbeträge,
 
-2.
+2. bei Arzneimitteln, die in Apotheken hergestellt werden, außerdem die Einzelbeträge des Apothekenabgabepreises,
 
-3.
+3. bei einem Betrag nach § 6 auch die Zeit der Inanspruchnahme.
 
 ### § 10 — Zuschläge der Tierärzte
 
 (1) Bei der Abgabe von Arzneimitteln durch Tierärzte an Tierhalter dürfen höchstens Zuschläge entsprechend § 3 Abs. 1 Satz 2 und 3 und Abs. 2 bis 4, § 4 Abs. 1 und 2 und § 5 Abs. 1 bis 3 sowie die Umsatzsteuer erhoben werden.
-
-(2) Liegt der für den Zuschlag entsprechend § 3 Abs. 2 maßgebliche Betrag über 51,13 Euro, so sind für den 51,13 Euro übersteigenden Betrag folgende Zuschläge zu erheben: von 51,13 Euro bis 127,82 Euro höchstens 25 Prozent, von mehr als 127,82 Euro höchstens 20 Prozent.
 
 (3) (weggefallen)
 
@@ -165,5 +153,3 @@ Bei der Abgabe von Fertigarzneimitteln in den Fällen des § 78 Abs. 4 des Arzne
 (2) (Aufhebungsvorschriften)
 
 ### Schlußformel
-
-Der Bundesminister für Wirtschaft

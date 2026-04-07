@@ -12,11 +12,9 @@ Auf Grund des § 9 Absatz 2 Nummer 2 Buchstabe b und des § 21 Absatz 3 Satz 4 N
 
 ### § 1
 
-Ein Erzeugnis, das zu einer in Spalte 3 der Anlage aufgeführten Erzeugnisgruppe gehört, darfwerden, soweit sein Gehalt an einem in Spalte 1 der Anlage genannten Wirkstoff den für diesen Wirkstoff in Spalte 4 der Anlage festgesetzten Rückstandhöchstgehalt nicht überschreitet.
+Ein Erzeugnis, das zu einer in Spalte 3 der Anlage aufgeführten Erzeugnisgruppe gehört, darf
 
-1.
-
-2.
+1. abweichend von § 9 Absatz 1 Satz 1 Nummer 3 des Lebensmittel- und Futtermittelgesetzbuches als Lebensmittel im Inland in den Verkehr gebracht oder
 
 ### § 2
 

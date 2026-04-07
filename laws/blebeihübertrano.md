@@ -15,11 +15,15 @@ Der Postbeamtenkrankenkasse wird die Zuständigkeit für die Beihilfebearbeitung
 
 ### § 2 — Erlass von Widerspruchsbescheiden
 
-(1) Der Postbeamtenkrankenkasse wird gemäß § 126 Absatz 3 Satz 2 Bundesbeamtengesetz die Zuständigkeit für die Entscheidung über Widersprüche gegen von ihr getroffenen beihilferechtlichen Maßnahmen gemäß § 1 dieser Verordnung übertragen.(2) Die Bundesanstalt für Landwirtschaft und Ernährung behält sich vor, im Einzelfall die Befugnisse nach Absatz 1 selbst auszuüben.
+(1) Der Postbeamtenkrankenkasse wird gemäß § 126 Absatz 3 Satz 2 Bundesbeamtengesetz die Zuständigkeit für die Entscheidung über Widersprüche gegen von ihr getroffenen beihilferechtlichen Maßnahmen gemäß § 1 dieser Verordnung übertragen.
+
+(2) Die Bundesanstalt für Landwirtschaft und Ernährung behält sich vor, im Einzelfall die Befugnisse nach Absatz 1 selbst auszuüben.
 
 ### § 3 — Vertretung in verwaltungsgerichtlichen Verfahren
 
-(1) Dem Vorstand der Postbeamtenkrankenkasse wird gemäß § 127 Absatz 3 Satz 1 Bundesbeamtengesetz die Befugnis zur Vertretung der Bundesanstalt für Landwirtschaft und Ernährung in verwaltungsgerichtlichen Verfahren von Beihilfeempfangenden in Beihilfeangelegenheiten übertragen, soweit die Postbeamtenkrankenkasse für den Erlass des Widerspruchsbescheids zuständig war.(2) Die Bundesanstalt für Landwirtschaft und Ernährung behält sich vor, im Einzelfall die Befugnisse nach Absatz 1 selbst auszuüben.
+(1) Dem Vorstand der Postbeamtenkrankenkasse wird gemäß § 127 Absatz 3 Satz 1 Bundesbeamtengesetz die Befugnis zur Vertretung der Bundesanstalt für Landwirtschaft und Ernährung in verwaltungsgerichtlichen Verfahren von Beihilfeempfangenden in Beihilfeangelegenheiten übertragen, soweit die Postbeamtenkrankenkasse für den Erlass des Widerspruchsbescheids zuständig war.
+
+(2) Die Bundesanstalt für Landwirtschaft und Ernährung behält sich vor, im Einzelfall die Befugnisse nach Absatz 1 selbst auszuüben.
 
 ### § 4 — Inkrafttreten
 

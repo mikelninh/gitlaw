@@ -14,61 +14,21 @@ Auf Grund des § 6a Abs. 1 Nr. 3 des Güterkraftverkehrsgesetzes (GüKG) vom 17.
 
 Als wirtschaftlich schwach und verkehrsmäßig ungünstig gelegen werden anerkannt:
 
-1.
+1. Im Land Schleswig-Holsteina)der Stadtkreis Flensburg, b)die Landkreise Eiderstedt, Husum, Südtondern, c)von den Landkreisen Flensburg, Norderdithmarschen, Oldenburg in Holstein, Rendsburg, Schleswig, Steinburg, Süderdithmarschen diejenigen Gemeinden, deren Ortsmittelpunkt außerhalb der Nahzone (§ 2 Abs. 2 GüKG) der Städte Hamburg, Kiel und Lübeck liegt. der Stadtkreis Flensburg, die Landkreise Eiderstedt, Husum, Südtondern, von den Landkreisen Flensburg, Norderdithmarschen, Oldenburg in Holstein, Rendsburg, Schleswig, Steinburg, Süderdithmarschen diejenigen Gemeinden, deren Ortsmittelpunkt außerhalb der Nahzone (§ 2 Abs. 2 GüKG) der Städte Hamburg, Kiel und Lübeck liegt.
 
-a)
+2. Im Land Niedersachsena)die Stadtkreise Cuxhaven, Emden, b)die Landkreise Aschendorf-Hümmling, Aurich, Bersenbrück, Leer, Lingen, Lüchow-Dannenberg, Melle, Meppen, Norden, Wittlage, Wittmund, c)von den Landkreisen Ammerland, Bremervörde, Celle, Cloppenburg, Duderstadt, Fallingbostel, Gandersheim, Grafschaft Diepholz, Land Hadeln, Lüneburg, Nienburg, Northeim, Osterode am Harz, Rotenburg, Soltau, Stade, Uelzen, Vechta, Wesermünde, Zellerfeld diejenigen Gemeinden, deren Ortsmittelpunkt außerhalb der Nahzone (§ 2 Abs. 2 GüKG) der Städte Braunschweig, Bremen, Hamburg, Hannover und Kassel liegt. die Stadtkreise Cuxhaven, Emden, die Landkreise Aschendorf-Hümmling, Aurich, Bersenbrück, Leer, Lingen, Lüchow-Dannenberg, Melle, Meppen, Norden, Wittlage, Wittmund, von den Landkreisen Ammerland, Bremervörde, Celle, Cloppenburg, Duderstadt, Fallingbostel, Gandersheim, Grafschaft Diepholz, Land Hadeln, Lüneburg, Nienburg, Northeim, Osterode am Harz, Rotenburg, Soltau, Stade, Uelzen, Vechta, Wesermünde, Zellerfeld diejenigen Gemeinden, deren Ortsmittelpunkt außerhalb der Nahzone (§ 2 Abs. 2 GüKG) der Städte Braunschweig, Bremen, Hamburg, Hannover und Kassel liegt.
 
-b)
+3. Im Land Nordrhein-Westfalena)die Landkreise Paderborn, Wittgenstein, b)von den Landkreisen Büren, Höxter, Monschau, Münster, Schleiden diejenigen Gemeinden, deren Ortsmittelpunkt außerhalb der Nahzone (§ 2 Abs. 2 GüKG) der Städte Dortmund, Gelsenkirchen, Kassel und Köln liegt. die Landkreise Paderborn, Wittgenstein, von den Landkreisen Büren, Höxter, Monschau, Münster, Schleiden diejenigen Gemeinden, deren Ortsmittelpunkt außerhalb der Nahzone (§ 2 Abs. 2 GüKG) der Städte Dortmund, Gelsenkirchen, Kassel und Köln liegt.
 
-c)
+4. Im Land Hessena)der Stadtkreis Marburg, b)die Landkreise Alsfeld, Biedenkopf, Hünfeld, c)von den Landkreisen Büdingen, Frankenberg (Eder), Gelnhausen, Lauterbach, Limburg, Marburg, Oberlahnkreis, Rotenburg a. d. Fulda, Schlüchtern, Waldeck, Ziegenhain diejenigen Gemeinden, deren Ortsmittelpunkt außerhalb der Nahzone (§ 2 Abs. 2 GüKG) der Städte Frankfurt, Kassel und Wiesbaden liegt. der Stadtkreis Marburg, die Landkreise Alsfeld, Biedenkopf, Hünfeld, von den Landkreisen Büdingen, Frankenberg (Eder), Gelnhausen, Lauterbach, Limburg, Marburg, Oberlahnkreis, Rotenburg a. d. Fulda, Schlüchtern, Waldeck, Ziegenhain diejenigen Gemeinden, deren Ortsmittelpunkt außerhalb der Nahzone (§ 2 Abs. 2 GüKG) der Städte Frankfurt, Kassel und Wiesbaden liegt.
 
-2.
+5. Im Land Rheinland-Pfalza)die Stadtkreise Koblenz, Trier, Zweibrücken, b)die Landkreise Bernkastel, Birkenfeld, Bitburg, Cochem, Daun, Kusel, Prüm, Saarburg, Trier, Wittlich, Zell (Mosel), Zweibrücken, c)von den Landkreisen Ahrweiler, Kaiserslautern, Koblenz, Oberwesterwaldkreis, Rockenhausen, Simmern, St. Goar diejenigen Gemeinden, deren Ortsmittelpunkt außerhalb der Nahzone (§ 2 Abs. 2 GüKG) der Städte Karlsruhe, Köln, Mannheim und Wiesbaden liegt. die Stadtkreise Koblenz, Trier, Zweibrücken, die Landkreise Bernkastel, Birkenfeld, Bitburg, Cochem, Daun, Kusel, Prüm, Saarburg, Trier, Wittlich, Zell (Mosel), Zweibrücken, von den Landkreisen Ahrweiler, Kaiserslautern, Koblenz, Oberwesterwaldkreis, Rockenhausen, Simmern, St. Goar diejenigen Gemeinden, deren Ortsmittelpunkt außerhalb der Nahzone (§ 2 Abs. 2 GüKG) der Städte Karlsruhe, Köln, Mannheim und Wiesbaden liegt.
 
-a)
+6. Im Land Baden-Württemberga)der Stadtkreis Freiburg, b)die Landkreise Crailsheim, Emmendingen, Freiburg, Hochschwarzwald, Mergentheim, Müllheim, Stockach, Tauberbischofsheim, Überlingen, c)von den Landkreisen Buchen, Horb, Kehl, Mosbach, Münsingen, Öhringen, Schwäbisch Hall diejenigen Gemeinden, deren Ortsmittelpunkt außerhalb der Nahzone (§ 2 Abs. 2 GüKG) der Städte Karlsruhe, Mannheim und Stuttgart liegt. der Stadtkreis Freiburg, die Landkreise Crailsheim, Emmendingen, Freiburg, Hochschwarzwald, Mergentheim, Müllheim, Stockach, Tauberbischofsheim, Überlingen, von den Landkreisen Buchen, Horb, Kehl, Mosbach, Münsingen, Öhringen, Schwäbisch Hall diejenigen Gemeinden, deren Ortsmittelpunkt außerhalb der Nahzone (§ 2 Abs. 2 GüKG) der Städte Karlsruhe, Mannheim und Stuttgart liegt.
 
-b)
+7. Im Land Bayerna)die Stadtkreise Amberg, Bad Kissingen, Bad Reichenhall, Deggendorf, Eichstätt, Kaufbeuren, Kitzingen, Nördlingen, Passau, Regensburg, Rothenburg ob der Tauber, Straubing, Würzburg, b)die Landkreise Bad Kissingen, Berchtesgaden, Bogen, Brückenau, Cham, Deggendorf, Dingolfing, Ebern, Eggenfelden, Füssen, Garmisch-Partenkirchen, Gemünden, Gerolzhofen, Grafenau, Griesbach i. Rottal, Hammelburg, Haßfurt, Hofheim i. Ufr., Karlstadt, Kemnath, Kitzingen, Königshofen i. Gr., Kötzting, Kronach, Landau a. d. Isar, Laufen, Mallersdorf, Marktheidenfeld, Mellrichstadt, Nabburg, Neunburg vorm Wald, Oberviechtach, Ochsenfurt, Passau, Pfarrkirchen, Regen, Regensburg, Roding, Rottenburg, Sonthofen, Stadtsteinach, Staffelstein, Straubing, Tirschenreuth, Viechtach, Vilsbiburg, Vilshofen, Vohenstrauß, Waldmünchen, Wegscheid, Wolfstein, Würzburg, c)von den Landkreisen Amberg, Ansbach, Bad Aibling, Bad Tölz, Beilngries, Dillingen a. d. Donau, Dinkelsbühl, Donauwörth, Ebermannstadt, Eichstätt, Eschenbach i. d. Opf., Feuchtwangen, Gunzenhausen, Hiltpoltstein, Kaufbeuren, Lohr a. Main, Mainburg, Miesbach, Mindelheim, Mühldorf, Neumarkt i. d. Opf., Nördlingen, Parsberg, Pegnitz, Pfaffenhofen a. d. Ilm, Riedenburg, Rosenheim, Rothenburg ob der Tauber, Scheinfeld, Schongau, Uffenheim, Wasserburg a. Inn, Weißenburg i. Bayern diejenigen Gemeinden, deren Ortsmittelpunkt außerhalb der Nahzone (§ 2 Abs. 2 GüKG) der Städte Augsburg, Frankfurt, München und Nürnberg liegt. die Stadtkreise Amberg, Bad Kissingen, Bad Reichenhall, Deggendorf, Eichstätt, Kaufbeuren, Kitzingen, Nördlingen, Passau, Regensburg, Rothenburg ob der Tauber, Straubing, Würzburg, die Landkreise Bad Kissingen, Berchtesgaden, Bogen, Brückenau, Cham, Deggendorf, Dingolfing, Ebern, Eggenfelden, Füssen, Garmisch-Partenkirchen, Gemünden, Gerolzhofen, Grafenau, Griesbach i. Rottal, Hammelburg, Haßfurt, Hofheim i. Ufr., Karlstadt, Kemnath, Kitzingen, Königshofen i. Gr., Kötzting, Kronach, Landau a. d. Isar, Laufen, Mallersdorf, Marktheidenfeld, Mellrichstadt, Nabburg, Neunburg vorm Wald, Oberviechtach, Ochsenfurt, Passau, Pfarrkirchen, Regen, Regensburg, Roding, Rottenburg, Sonthofen, Stadtsteinach, Staffelstein, Straubing, Tirschenreuth, Viechtach, Vilsbiburg, Vilshofen, Vohenstrauß, Waldmünchen, Wegscheid, Wolfstein, Würzburg, von den Landkreisen Amberg, Ansbach, Bad Aibling, Bad Tölz, Beilngries, Dillingen a. d. Donau, Dinkelsbühl, Donauwörth, Ebermannstadt, Eichstätt, Eschenbach i. d. Opf., Feuchtwangen, Gunzenhausen, Hiltpoltstein, Kaufbeuren, Lohr a. Main, Mainburg, Miesbach, Mindelheim, Mühldorf, Neumarkt i. d. Opf., Nördlingen, Parsberg, Pegnitz, Pfaffenhofen a. d. Ilm, Riedenburg, Rosenheim, Rothenburg ob der Tauber, Scheinfeld, Schongau, Uffenheim, Wasserburg a. Inn, Weißenburg i. Bayern diejenigen Gemeinden, deren Ortsmittelpunkt außerhalb der Nahzone (§ 2 Abs. 2 GüKG) der Städte Augsburg, Frankfurt, München und Nürnberg liegt.
 
-c)
-
-3.
-
-a)
-
-b)
-
-4.
-
-a)
-
-b)
-
-c)
-
-5.
-
-a)
-
-b)
-
-c)
-
-6.
-
-a)
-
-b)
-
-c)
-
-7.
-
-a)
-
-b)
-
-c)
-
-8.
+8. Im Saarland die Landkreise Homburg, Merzig-Wadern, Ottweiler, Saarlouis, St. Ingbert, St. Wendel.
 
 ### § 2
 

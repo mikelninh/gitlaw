@@ -14,13 +14,9 @@
 
 (1) Eine Versorgungskrise liegt vor, wenn die Bundesregierung festgestellt hat, dass
 
-1.
+1. die Deckung des lebensnotwendigen Bedarfs an Lebensmitteln in wesentlichen Teilen des Bundesgebietes ernsthaft gefährdet ist a)im Spannungsfall nach Artikel 80a des Grundgesetzes oder im Verteidigungsfall nach Artikel 115a des Grundgesetzes oderb)infolge einer Naturkatastrophe, eines besonders schweren Unglücksfalles, einer Sabotagehandlung, einer wirtschaftlichen Krisenlage oder eines sonstigen vergleichbaren Ereignisses und im Spannungsfall nach Artikel 80a des Grundgesetzes oder im Verteidigungsfall nach Artikel 115a des Grundgesetzes oder infolge einer Naturkatastrophe, eines besonders schweren Unglücksfalles, einer Sabotagehandlung, einer wirtschaftlichen Krisenlage oder eines sonstigen vergleichbaren Ereignisses und
 
-a)
-
-b)
-
-2.
+2. diese Gefährdung ohne hoheitliche Eingriffe in den Markt nicht, nicht rechtzeitig oder nur mit unverhältnismäßigen Mitteln zu beheben ist.
 
 (2) Die Bundesregierung hat die Versorgungskrise unverzüglich für beendet zu erklären, wenn die Voraussetzungen für ihre Feststellung nicht mehr gegeben sind.
 
@@ -28,33 +24,21 @@ b)
 
 Im Sinne dieses Gesetzes ist oder sind
 
-1.
+1. Grundversorgung: die Deckung des lebensnotwendigen Bedarfs der Bevölkerung an Lebensmitteln im Falle einer Versorgungskrise,
 
-2.
+2. Erzeugnisse: a)Lebensmittel im Sinne des Artikels 2 der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1), die zuletzt durch die Verordnung (EU) 2019/1381 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist,b)lebende Tiere, die der Gewinnung von Lebensmitteln dienen können, und Bruteier,c)Futtermittel im Sinne des Artikels 3 Nummer 4 der Verordnung (EG) Nr. 178/2002,d)Pflanzen vor dem Ernten, die der Gewinnung von Lebensmitteln oder Futtermitteln dienen können,e)Saatgut im Sinne des § 2 Absatz 1 Nummer 1 des Saatgutverkehrsgesetzes undf)Vermehrungsmaterial im Sinne des § 2 Absatz 1 Nummer 1a des Saatgutverkehrsgesetzes, Lebensmittel im Sinne des Artikels 2 der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1), die zuletzt durch die Verordnung (EU) 2019/1381 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist, lebende Tiere, die der Gewinnung von Lebensmitteln dienen können, und Bruteier, Futtermittel im Sinne des Artikels 3 Nummer 4 der Verordnung (EG) Nr. 178/2002, Pflanzen vor dem Ernten, die der Gewinnung von Lebensmitteln oder Futtermitteln dienen können, Saatgut im Sinne des § 2 Absatz 1 Nummer 1 des Saatgutverkehrsgesetzes und Vermehrungsmaterial im Sinne des § 2 Absatz 1 Nummer 1a des Saatgutverkehrsgesetzes,
 
-a)
+3. Herstellen: Herstellen im Sinne des § 3 Nummer 2 des Lebensmittel- und Futtermittelgesetzbuches,
 
-b)
+4. Behandeln: Behandeln im Sinne des § 3 Nummer 3 des Lebensmittel- und Futtermittelgesetzbuches,
 
-c)
+5. Inverkehrbringen: Inverkehrbringen im Sinne des Artikels 3 Nummer 8 der Verordnung (EG) Nr. 178/2002,
 
-d)
+6. Ernährungsunternehmen: ein Unternehmen, das eine mit der Produktion, der Verarbeitung oder dem Vertrieb von Erzeugnissen zusammenhängende Tätigkeit ausübt, unabhängig davon, ob es auf Gewinnerzielung ausgerichtet ist oder nicht,
 
-e)
+7. Bundesministerium: das Bundesministerium für Ernährung und Landwirtschaft,
 
-f)
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
+8. Bundesanstalt: die Bundesanstalt für Landwirtschaft und Ernährung.
 
 ### § 3 — Ausführung des Gesetzes
 
@@ -72,29 +56,21 @@ f)
 
 (1) Soweit es zur Sicherstellung der Grundversorgung in einer Versorgungskrise geboten ist, kann das Bundesministerium durch Rechtsverordnung Vorschriften erlassen über
 
-1.
+1. das Herstellen, Behandeln und Inverkehrbringen von Erzeugnissen,
 
-2.
+2. den Bezug, die Erfassung, die Verteilung und die Abgabe von Erzeugnissen einschließlich der Beschränkung oder des Verbots des Bezugs, der Erfassung, der Verteilung und der Abgabe,
 
-3.
+3. die Festsetzung von Preisen, Kostenansätzen, Handelsspannen, Bearbeitungs- und Verarbeitungsspannen sowie Zahlungs- und Lieferungsbedingungen für Erzeugnisse,
 
-4.
+4. die Verwendung von a)Maschinen und Geräten zum Herstellen, Behandeln oder Inverkehrbringen von Erzeugnissen,b)Treibstoffen und Brennstoffen für diese Maschinen und Geräte,c)Geräten zur Notstromversorgung zum Betrieb dieser Maschinen und Geräte sowied)sonstigen Betriebsmitteln zum Herstellen, Behandeln oder Inverkehrbringen von Erzeugnissen, Maschinen und Geräten zum Herstellen, Behandeln oder Inverkehrbringen von Erzeugnissen, Treibstoffen und Brennstoffen für diese Maschinen und Geräte, Geräten zur Notstromversorgung zum Betrieb dieser Maschinen und Geräte sowie sonstigen Betriebsmitteln zum Herstellen, Behandeln oder Inverkehrbringen von Erzeugnissen,
 
-a)
+5. die Sicherstellung von Erzeugnissen,
 
-b)
+6. die Aufrechterhaltung, Umstellung, Eröffnung oder Schließung von Ernährungsunternehmen oder einzelnen Betriebsstätten von Ernährungsunternehmen,
 
-c)
+7. die Bevorratung von Erzeugnissen durch Ernährungsunternehmen,
 
-d)
-
-5.
-
-6.
-
-7.
-
-8.
+8. Buchführungs-, Nachweis- und Meldepflichten über die in den Nummern 1 bis 4, 6 und 7 genannten wirtschaftlichen Vorgänge.
 
 (2) In Rechtsverordnungen nach Absatz 1 Nummer 1 kann auch vorgesehen werden, dass Lebensmittel unter hoheitlicher Aufsicht hergestellt oder behandelt werden. In Rechtsverordnungen nach Absatz 1 Nummer 2 kann insbesondere vorgesehen werden, dass Lebensmittel durch Behörden oder unter hoheitlicher Aufsicht abgegeben werden.
 
@@ -112,25 +88,17 @@ Soweit dieses Gesetz nach § 3 Absatz 1 Satz 1 von den Ländern als eigene Angel
 
 (1) Bis zum Erlass einer Rechtsverordnung nach § 4 Absatz 1 können die zuständigen Behörden die notwendigen Maßnahmen treffen, die zur einstweiligen Sicherstellung der Grundversorgung unmittelbar geboten sind. Sie können insbesondere
 
-1.
+1. Anordnungen über das Herstellen, Behandeln und Inverkehrbringen von Erzeugnissen treffen,
 
-2.
+2. den Bezug, die Erfassung, die Lagerung, den Transport, die Verteilung oder die Abgabe von Erzeugnissen anordnen, untersagen, beschränken oder unter hoheitliche Aufsicht stellen,
 
-3.
+3. die Verwendung von a)Maschinen und Geräten zum Herstellen, Behandeln oder Inverkehrbringen von Erzeugnissen,b)Treibstoffen und Brennstoffen für diese Maschinen und Geräte,c)Geräten zur Notstromversorgung zum Betrieb dieser Maschinen und Geräte sowied)sonstigen Betriebsmitteln zum Herstellen, Behandeln oder Inverkehrbringen von Erzeugnissenregeln, Maschinen und Geräten zum Herstellen, Behandeln oder Inverkehrbringen von Erzeugnissen, Treibstoffen und Brennstoffen für diese Maschinen und Geräte, Geräten zur Notstromversorgung zum Betrieb dieser Maschinen und Geräte sowie sonstigen Betriebsmitteln zum Herstellen, Behandeln oder Inverkehrbringen von Erzeugnissen
 
-a)
+4. Erzeugnisse sicherstellen,
 
-b)
+5. die vorübergehende Aufrechterhaltung, Umstellung, Eröffnung oder Schließung von Ernährungsunternehmen oder einzelnen Betriebsstätten von Ernährungsunternehmen anordnen oder
 
-c)
-
-d)
-
-4.
-
-5.
-
-6.
+6. Maßnahmen zur hoheitlichen Verteilung von Lebensmitteln an die Bevölkerung treffen.
 
 (2) Von mehreren geeigneten Maßnahmen haben die zuständigen Behörden diejenige zu treffen, die die einzelne Person und die Allgemeinheit voraussichtlich am wenigsten beeinträchtigt. Eine Maßnahme darf nicht zu einem Nachteil führen, der zu dem erstrebten Erfolg erkennbar außer Verhältnis steht.
 
@@ -144,11 +112,11 @@ Widerspruch und Anfechtungsklage gegen nach § 6 erlassene Verwaltungsakte oder 
 
 (1) Soweit dies zur Sicherstellung der Grundversorgung in einer Versorgungskrise erforderlich ist, können die zuständigen Behörden unter den dort genannten Voraussetzungen
 
-1.
+1. nach § 7 des Verkehrsleistungsgesetzes über die Bundesanstalt beim Bundesamt für Logistik und Mobilität Verkehrsleistungen anfordern,
 
-2.
+2. nach den §§ 10 bis 14 des Verkehrssicherstellungsgesetzes in Verbindung mit einer auf Grund des Verkehrssicherstellungsgesetzes erlassenen Rechtsverordnung Leistungen anfordern,
 
-3.
+3. nach § 2 des Bundesleistungsgesetzes Leistungen anfordern, soweit die zuständigen Behörden in einer Rechtsverordnung nach § 5 Absatz 1 des Bundesleistungsgesetzes zu Anforderungsbehörden bestimmt worden sind.
 
 (2) Soweit die Bundesregierung durch die Bundesanstalt Maßnahmen zur Vorratshaltung von Erzeugnissen durchführt, können die obersten Landesbehörden bei der Bundesanstalt Lieferungen von Erzeugnissen anfordern. Im Rahmen der verfügbaren Vorräte entscheidet die Bundesanstalt nach pflichtgemäßem Ermessen über die Verteilung der Vorräte. Die Bundesanstalt kann zur Verteilung von Erzeugnissen unterstützende Leistungen nach Absatz 1 anfordern.
 
@@ -166,21 +134,13 @@ Bei Beendigung der Versorgungskrise sind sämtliche Maßnahmen, die nach einer n
 
 (1) Soweit es zur Vorsorge für eine Versorgungskrise geboten ist, kann das Bundesministerium durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über Melde- und Auskunftspflichten für Ernährungsunternehmen, auch zur Vorbereitung von Rechtsverordnungen nach § 4 Absatz 1, erlassen.
 
-(2) Soweit es zur Vorsorge für eine Versorgungskrise geboten ist, kann die Bundesregierung durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften erlassen über In Rechtsverordnungen nach Satz 1 Nummer 2 kann auch vorgesehen werden, dass Erzeugnisse nur bis zu einer bestimmten Menge je Verbraucherin oder Verbraucher abgegeben werden dürfen. Soweit es erforderlich ist, um eine unzumutbare Belastung der betroffenen Ernährungsunternehmen durch eine Rechtsverordnung nach Satz 1 Nummer 1 auszuschließen, ist in der Rechtsverordnung vorzusehen, dass den Ernährungsunternehmen für die Kosten der Vorratshaltung Zuschüsse, Kredite, Bürgschaften oder sonstige Gewährleistungen gewährt werden.
+(2) Soweit es zur Vorsorge für eine Versorgungskrise geboten ist, kann die Bundesregierung durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften erlassen über
 
-1.
+1. die Vorratshaltung durch Ernährungsunternehmen,
 
-2.
+2. Maßnahmen zur Sicherstellung einer geordneten Abgabe von Erzeugnissen durch Ernährungsunternehmen und
 
-3.
-
-a)
-
-b)
-
-c)
-
-d)
+3. das Vorhalten und die Verwendung von a)Maschinen und Geräten zum Herstellen, Behandeln oder Inverkehrbringen von Erzeugnissen,b)Treibstoffen und Brennstoffen für diese Maschinen und Geräte,c)Geräten zur Notstromversorgung zum Betrieb dieser Maschinen und Geräte sowied)sonstigen Betriebsmitteln zum Herstellen, Behandeln oder Inverkehrbringen von Erzeugnissen. Maschinen und Geräten zum Herstellen, Behandeln oder Inverkehrbringen von Erzeugnissen, Treibstoffen und Brennstoffen für diese Maschinen und Geräte, Geräten zur Notstromversorgung zum Betrieb dieser Maschinen und Geräte sowie sonstigen Betriebsmitteln zum Herstellen, Behandeln oder Inverkehrbringen von Erzeugnissen.
 
 (3) Die Bundesregierung kann die Befugnis zum Erlass von Rechtsverordnungen nach Absatz 2 durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das Bundesministerium übertragen.
 
@@ -192,29 +152,29 @@ d)
 
 ### § 13 — Datenübermittlung zwischen den Behörden
 
-(1) Soweit es zur Ausführung der in § 12 Absatz 1 genannten Vorkehrungen erforderlich ist, sind den zuständigen Behörden auf deren Anforderung, im Fall der Nummer 5 auf Anforderung der zuständigen obersten Landesbehörde, Daten zu übermitteln, die verarbeitet worden sind nach Die Übermittlung erfolgt nach näherer Bestimmung einer Rechtsverordnung nach Absatz 3 von den jeweils zuständigen Behörden.
+(1) Soweit es zur Ausführung der in § 12 Absatz 1 genannten Vorkehrungen erforderlich ist, sind den zuständigen Behörden auf deren Anforderung, im Fall der Nummer 5 auf Anforderung der zuständigen obersten Landesbehörde, Daten zu übermitteln, die verarbeitet worden sind nach
 
-1.
+1. dem Lebensmittel- und Futtermittelgesetzbuch,
 
-2.
+2. der Verordnung (EG) Nr. 852/2004 des Europäischen Parlaments und des Rates über Lebensmittelhygiene (ABl. L 139 vom 30.4.2004, S. 1; L 226 vom 25.6.2004, S. 3; L 204 vom 4.8.2007, S. 26; L 46 vom 21.2.2008, S. 51; L 58 vom 3.3.2009, S. 3), die durch die Verordnung (EG) Nr. 219/2009 (ABl. L 87 vom 31.3.2009, S. 109) geändert worden ist,
 
-3.
+3. der Verordnung (EG) Nr. 183/2005 des Europäischen Parlaments und des Rates mit Vorschriften für die Futtermittelhygiene (ABl. L 35 vom 8.2.2005, S. 1; L 50 vom 23.2.2008, S. 71), die zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist,
 
-4.
+4. dem Tiergesundheitsgesetz und dem Tierseuchengesetz in der bis zum 30. April 2014 geltenden Fassung,
 
-5.
+5. dem Gesetz über Meldungen über Marktordnungswaren,
 
-6.
+6. dem InVeKoS-Daten-Gesetz oder
 
-7.
+7. einer auf Grund eines dieser Gesetze erlassenen Rechtsverordnung.
 
 (2) Die zuständige Behörde darf die ihr nach Absatz 1 übermittelten Daten nur für den dort genannten Zweck verwenden.
 
 (3) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
-1.
+1. die Daten zu bestimmen, deren Übermittlung nach Absatz 1 gefordert werden kann, und
 
-2.
+2. das Nähere über Zeitpunkt, Art, Form und Inhalt der Übermittlung der Daten nach Absatz 1 zu regeln.
 
 ### § 14 — Selbstschutz
 
@@ -230,11 +190,11 @@ d)
 
 (2) Die von den zuständigen Behörden mit der Einholung von Auskünften beauftragten Personen sind im Rahmen des Absatzes 1 jederzeit befugt,
 
-1.
+1. Betriebs- und Geschäftsräume sowie dazugehörige Grundstücke der auskunftspflichtigen Personen zu betreten,
 
-2.
+2. dort Prüfungen und Besichtigungen vorzunehmen und
 
-3.
+3. die geschäftlichen Unterlagen des Ernährungsunternehmens einzusehen.
 
 (3) Ernährungsunternehmen sind verpflichtet, die mit der Einholung von Auskünften beauftragten Personen zu unterstützen und ihnen die geschäftlichen Unterlagen vorzulegen.
 
@@ -276,19 +236,13 @@ Zustellungen der Verwaltungsbehörden können, soweit es zur Sicherstellung der 
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. einer Rechtsverordnung nach a)§ 4 Absatz 1 Nummer 1 bis 6 oder 7,b)§ 4 Absatz 1 Nummer 8 oderc)§ 11 Absatz 2 Satz 1oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist, § 4 Absatz 1 Nummer 1 bis 6 oder 7, § 4 Absatz 1 Nummer 8 oder § 11 Absatz 2 Satz 1
 
-a)
+2. einer vollziehbaren Anordnung nach § 6 Absatz 1 Satz 1 zuwiderhandelt,
 
-b)
+3. entgegen § 15 Absatz 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt oder
 
-c)
-
-2.
-
-3.
-
-4.
+4. entgegen § 15 Absatz 3 eine beauftragte Person nicht unterstützt.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 Buchstabe a und Nummer 2 mit einer Geldbuße bis zu hunderttausend Euro, in den Fällen des Absatzes 1 Nummer 1 Buchstabe c mit einer Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu zwanzigtausend Euro geahndet werden.
 
@@ -296,6 +250,6 @@ c)
 
 Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer eine in § 19 Absatz 1 Nummer 1 Buchstabe a oder Nummer 2 bezeichnete vorsätzliche Handlung begeht und
 
-1.
+1. dadurch die Grundversorgung schwer gefährdet oder
 
-2.
+2. dabei eine außergewöhnliche Mangellage bei der Versorgung mit Erzeugnissen zur Erzielung von bedeutenden Vermögensvorteilen ausnutzt.

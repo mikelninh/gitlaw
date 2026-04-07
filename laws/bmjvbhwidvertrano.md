@@ -31,16 +31,16 @@ Der Präsidentin oder dem Präsidenten des Bundesverwaltungsamts wird die Vertre
 
 Diese Anordnung tritt mit Wirkung vom 1. Juni 2017 in Kraft. Gleichzeitig treten außer Kraft:
 
-1.
+1. die Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Angehörigen des Bundesministeriums der Justiz in Angelegenheiten nach den Beihilfevorschriften vom 14. Oktober 2004 (BGBl. I S. 2624),
 
-2.
+2. die Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesgerichtshofs und des Generalbundesanwalts beim Bundesgerichtshof einschließlich der Dienststelle Bundeszentralregister in Angelegenheiten nach den Beihilfevorschriften vom 9. September 2004 (BGBl. I S. 2331),
 
-3.
+3. die Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesverwaltungsgerichts in Angelegenheiten nach den Beihilfevorschriften vom 25. Februar 2004 (BGBl. I S. 471),
 
-4.
+4. die Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesfinanzhofs in Angelegenheiten nach den Beihilfevorschriften vom 10. Februar 2004 (BGBl. I S. 218),
 
-5.
+5. die Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundespatentgerichts in Angelegenheiten nach den Beihilfevorschriften vom 16. Juli 2002 (BGBl. I S. 2669),
 
-6.
+6. die Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesamts für Justiz in Angelegenheiten nach den Beihilfevorschriften vom 30. November 2006 (BGBl. I S. 3227) sowie
 
-7.
+7. die Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Deutschen Patent- und Markenamts in Angelegenheiten nach den Beihilfevorschriften vom 16. Juli 2002 (BGBl. I S. 2670).

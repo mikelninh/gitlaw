@@ -18,5 +18,3 @@ Die in der Anlage bezeichneten Abschnitte von Bundesfernstraßen werden als Stre
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 ### Anlage — (zu § 1)
-
-Fundstelle des Originaltextes: BGBl. I 2005, 1686lfd Nr.BezeichnungStreckenabschnittBundesland1Warnow-Tunnel (im Stadtgebiet der Hansestadt Rostock)Bundesstraße B 103n zwischen Straßenkilometer 1+040 und Straßenkilometer 3+160Mecklenburg-Vorpommern2Herrentunnel (im Stadtgebiet der Hansestadt Lübeck)Bundesstraße B 104 zwischen Straßenkilometer 6+034,11 westlich der Trave und Straßenkilometer 8+051,08 östlich der TraveSchleswig-Holstein

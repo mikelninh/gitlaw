@@ -32,13 +32,13 @@ Bei der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation 
 
 ### § 5 — Übertragene Aufgaben, Verordnungsermächtigung
 
-(1) Der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation werden folgende weitere Aufgaben übertragen: für die in § 121 Absatz 2 Nummer 3 bis 8 des Siebten Buches Sozialgesetzbuch genannten Unternehmen; die Unternehmen haben die Kosten zu erstatten.
+(1) Der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation werden folgende weitere Aufgaben übertragen:
 
-1.
+1. die Unfallfürsorge einschließlich Prävention für die Beamten mit Ausnahme der nach den §§ 36 bis 43 des Beamtenversorgungsgesetzes zu gewährenden Leistungen,
 
-2.
+2. die Gewährung von Sachschadenersatz nach § 78 des Bundesbeamtengesetzes sowie
 
-3.
+3. die Geltendmachung eines Schadenersatzanspruchs nach § 76 des Bundesbeamtengesetzes
 
 (2) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation nimmt die Befugnisse einer obersten Dienstbehörde für die in Absatz 1 Nummer 1 und 2 genannten Angelegenheiten wahr. Das Bundesministerium der Finanzen kann sich in diesen Angelegenheiten die Entscheidung vorbehalten oder sie von seiner Zustimmung abhängig machen; auch kann es verbindliche Grundsätze für die Genehmigung aufstellen.
 
@@ -112,6 +112,6 @@ Der Haushaltsplan der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Tele
 
 Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation kann nach Maßgabe entgeltlicher Geschäftsbesorgungsverträge, die sie mit ihren in § 121 Absatz 2 Nummer 3 bis 8 des Siebten Buches Sozialgesetzbuch genannten Mitgliedsunternehmen schließt, für diese folgende weitere Aufgaben übernehmen:
 
-1.
+1. die Gewährung von Sachschadenersatz bei Arbeitsunfällen der Arbeitnehmerinnen und Arbeitnehmer der Mitgliedsunternehmen und
 
-2.
+2. die Regelung der wegen unfallbedingter Arbeitgeberleistungen übergeleiteten Schadenersatzansprüche.

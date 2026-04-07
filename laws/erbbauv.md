@@ -24,19 +24,19 @@
 
 Zum Inhalt des Erbbaurechts gehören auch Vereinbarungen des Grundstückseigentümers und des Erbbauberechtigten über:
 
-1.
+1. die Errichtung, die Instandhaltung und die Verwendung des Bauwerks;
 
-2.
+2. die Versicherung des Bauwerks und seinen Wiederaufbau im Falle der Zerstörung;
 
-3.
+3. die Tragung der öffentlichen und privatrechtlichen Lasten und Abgaben;
 
-4.
+4. eine Verpflichtung des Erbbauberechtigten, das Erbbaurecht beim Eintreten bestimmter Voraussetzungen auf den Grundstückseigentümer zu übertragen (Heimfall);
 
-5.
+5. eine Verpflichtung des Erbbauberechtigten zur Zahlung von Vertragsstrafen;
 
-6.
+6. die Einräumung eines Vorrechts für den Erbbauberechtigten auf Erneuerung des Erbbaurechts nach dessen Ablauf;
 
-7.
+7. eine Verpflichtung des Grundstückseigentümers, das Grundstück an den jeweiligen Erbbauberechtigten zu verkaufen.
 
 ### § 3
 
@@ -78,21 +78,21 @@ Verfügungen, die im Wege der Zwangsvollstreckung oder der Arrestvollziehung ode
 
 (2) Der Anspruch des Grundstückseigentümers auf Entrichtung des Erbbauzinses kann in Ansehung noch nicht fälliger Leistungen nicht von dem Eigentum an dem Grundstück getrennt werden.
 
-(3) Als Inhalt des Erbbauzinses kann vereinbart werden, daß Ist das Erbbaurecht mit dinglichen Rechten belastet, ist für die Wirksamkeit der Vereinbarung die Zustimmung der Inhaber der der Erbbauzinsreallast im Rang vorgehenden oder gleichstehenden dinglichen Rechte erforderlich.
+(3) Als Inhalt des Erbbauzinses kann vereinbart werden, daß
 
-1.
+1. die Reallast abweichend von § 52 Abs. 1 des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung mit ihrem Hauptanspruch bestehen bleibt, wenn der Grundstückseigentümer aus der Reallast oder der Inhaber eines im Range vorgehenden oder gleichstehenden dinglichen Rechts oder der Inhaber der in § 10 Abs. 1 Nr. 2 des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung genannten Ansprüche auf Zahlung der Beiträge zu den Lasten und Kosten des Wohnungserbbaurechts die Zwangsversteigerung des Erbbaurechts betreibt, und
 
-2.
+2. der jeweilige Erbbauberechtigte dem jeweiligen Inhaber der Reallast gegenüber berechtigt ist, das Erbbaurecht in einem bestimmten Umfang mit einer der Reallast im Rang vorgehenden Grundschuld, Hypothek oder Rentenschuld im Erbbaugrundbuch zu belasten.
 
 (4) Zahlungsverzug des Erbbauberechtigten kann den Heimfallanspruch nur dann begründen, wenn der Erbbauberechtigte mit dem Erbbauzinse mindestens in Höhe zweier Jahresbeträge im Rückstand ist.
 
 ### § 9a
 
-(1) Dient das auf Grund eines Erbbaurechts errichtete Bauwerk Wohnzwecken, so begründet eine Vereinbarung, daß eine Änderung des Erbbauzinses verlangt werden kann, einen Anspruch auf Erhöhung des Erbbauzinses nur, soweit diese unter Berücksichtigung aller Umstände des Einzelfalles nicht unbillig ist. Ein Erhöhungsanspruch ist regelmäßig als unbillig anzusehen, wenn und soweit die nach der vereinbarten Bemessungsgrundlage zu errechnende Erhöhung über die seit Vertragsabschluß eingetretene Änderung der allgemeinen wirtschaftlichen Verhältnisse hinausgeht. Änderungen der Grundstückswertverhältnisse bleiben außer den in Satz 4 genannten Fällen außer Betracht. Im Einzelfall kann bei Berücksichtigung aller Umstände, insbesondere ein über diese Grenze hinausgehender Erhöhungsanspruch billig sein. Ein Anspruch auf Erhöhung des Erbbauzinses darf frühestens nach Ablauf von drei Jahren seit Vertragsabschluß und, wenn eine Erhöhung des Erbbauzinses bereits erfolgt ist, frühestens nach Ablauf von drei Jahren seit der jeweils letzten Erhöhung des Erbbauzinses geltend gemacht werden.
+(1) Dient das auf Grund eines Erbbaurechts errichtete Bauwerk Wohnzwecken, so begründet eine Vereinbarung, daß eine Änderung des Erbbauzinses verlangt werden kann, einen Anspruch auf Erhöhung des Erbbauzinses nur, soweit diese unter Berücksichtigung aller Umstände des Einzelfalles nicht unbillig ist. Ein Erhöhungsanspruch ist regelmäßig als unbillig anzusehen, wenn und soweit die nach der vereinbarten Bemessungsgrundlage zu errechnende Erhöhung über die seit Vertragsabschluß eingetretene Änderung der allgemeinen wirtschaftlichen Verhältnisse hinausgeht. Änderungen der Grundstückswertverhältnisse bleiben außer den in Satz 4 genannten Fällen außer Betracht. Im Einzelfall kann bei Berücksichtigung aller Umstände, insbesondere
 
-1.
+1. einer Änderung des Grundstückswerts infolge eigener zulässigerweise bewirkter Aufwendungen des Grundstückseigentümers oder
 
-2.
+2. der Vorteile, welche eine Änderung des Grundstückswerts oder die ihr zugrunde liegenden Umstände für den Erbbauberechtigten mit sich bringen,
 
 (2) Dient ein Teil des auf Grund des Erbbaurechts errichteten Bauwerks Wohnzwecken, so gilt Absatz 1 nur für den Anspruch auf Änderung eines angemessenen Teilbetrags des Erbbauzinses.
 
@@ -172,13 +172,13 @@ Eine Hypothek an einem Erbbaurecht auf einem inländischen Grundstück ist für 
 
 (1) Die planmäßige Tilgung der Hypothek muß
 
-1.
+1. unter Zuwachs der ersparten Zinsen erfolgen,
 
-2.
+2. spätestens mit dem Anfang des vierten auf die Gewährung des Hypothekenkapitals folgenden Kalenderjahrs beginnen,
 
-3.
+3. spätestens zehn Jahre vor Ablauf des Erbbaurechts endigen und darf
 
-4.
+4. nicht länger dauern, als zur buchmäßigen Abschreibung des Bauwerks nach wirtschaftlichen Grundsätzen erforderlich ist.
 
 (2) Das Erbbaurecht muß mindestens noch so lange laufen, daß eine den Vorschriften des Absatzes 1 entsprechende Tilgung der Hypothek für jeden Erbbauberechtigten oder seine Rechtsnachfolger aus den Erträgen des Erbbaurechts möglich ist.
 
@@ -190,9 +190,9 @@ Eine Hypothek an einem Erbbaurecht auf einem inländischen Grundstück ist für 
 
 Die Landesgesetzgebung kann für die innerhalb ihres Geltungsbereichs belegenen Grundstücke
 
-1.
+1. die Mündelsicherheit der Erbbaurechtshypotheken abweichend von den Vorschriften der §§ 18 bis 20 regeln,
 
-2.
+2. bestimmen, in welcher Weise festzustellen ist, ob die Voraussetzungen für die Mündelsicherheit (§§ 19, 20) vorliegen.
 
 ## 1.: Feuerversicherung
 
@@ -307,5 +307,3 @@ Für ein Erbbaurecht, mit dem ein Grundstück am 21. Januar 1919 belastet war, b
 Erwirbt ein Erbbauberechtigter auf Grund eines Vorkaufsrechts oder einer Kaufberechtigung im Sinne des § 2 Nr. 7 das mit dem Erbbaurecht belastete Grundstück oder wird ein bestehendes Erbbaurecht erneuert, sind die Kosten und sonstigen Abgaben nicht noch einmal zu erheben, die schon bei Begründung des Erbbaurechts entrichtet worden sind.
 
 ### Schlußformel
-
-Die Reichsregierung

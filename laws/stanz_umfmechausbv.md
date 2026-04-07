@@ -19,11 +19,27 @@ Die Ausbildung dauert drei Jahre.
 
 ### § 3 — Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.(2) Die Berufsausbildung zum Stanz- und Umformmechaniker und zur Stanz- und Umformmechanikerin gliedert sich wie folgt (Ausbildungsberufsbild):Abschnitt A Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten: 1.Herstellen von Bauteilen; Montieren und Demontieren von Baugruppen,2.Vorbereiten der Produktion,3.Einrichten und Inbetriebnehmen von Stanz- und Umformmaschinen und -anlagen,4.Überwachen, Steuern und Optimieren von Produktionsprozessen,5.Anschlagen, Sichern und Transportieren;Abschnitt B Integrative Fertigkeiten, Kenntnisse und Fähigkeiten: 1.Berufsbildung, Arbeits- und Tarifrecht,2.Aufbau und Organisation des Ausbildungsbetriebes,3.Sicherheit und Gesundheitsschutz bei der Arbeit,4.Umweltschutz,5.Betriebliche und technische Kommunikation,6.Planen und Organisieren der Arbeit,7.Durchführen von qualitätssichernden Maßnahmen.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
+
+(2) Die Berufsausbildung zum Stanz- und Umformmechaniker und zur Stanz- und Umformmechanikerin gliedert sich wie folgt (Ausbildungsberufsbild):
+
+1. Herstellen von Bauteilen; Montieren und Demontieren von Baugruppen,
+
+2. Vorbereiten der Produktion,
+
+3. Einrichten und Inbetriebnehmen von Stanz- und Umformmaschinen und -anlagen,
+
+4. Überwachen, Steuern und Optimieren von Produktionsprozessen,
+
+5. Anschlagen, Sichern und Transportieren;
 
 ### § 4 — Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 5 bis 7 nachzuweisen.(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 5 bis 7 nachzuweisen.
+
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
+
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 ### § 5 — Abschlussprüfung
 
@@ -31,15 +47,95 @@ Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teile
 
 ### § 6 — Teil 1 der Abschlussprüfung
 
-(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.(3) Teil 1 der Abschlussprüfung findet in dem Prüfungsbereich Herstellen einer Werkzeuganbaukomponente statt.(4) Für den Prüfungsbereich Herstellen einer Werkzeuganbaukomponente bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er in der Lage ist, a)Arbeitsschritte zu planen, Arbeitsmittel und technische Unterlagen anzuwenden, technologische Kennwerte zu ermitteln, erforderliche Berechnungen durchzuführen,b)Sicherheit und Gesundheitsschutz bei der Arbeit und den Umweltschutz zu berücksichtigen,c)Bauteile manuell und maschinell zu bearbeiten, umzuformen und zu einer funktionierenden Werkzeuganbaukomponente zu fügen,d)Prüfmittel anzuwenden;2.der Prüfling soll ein Prüfungsstück fertigen und darauf bezogene Aufgaben schriftlich bearbeiten;3.die Prüfungszeit beträgt für das Prüfungsstück sechs Stunden und für die schriftlich zu bearbeitenden Aufgaben 60 Minuten.
+(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
+
+(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+
+(3) Teil 1 der Abschlussprüfung findet in dem Prüfungsbereich Herstellen einer Werkzeuganbaukomponente statt.
+
+(4) Für den Prüfungsbereich Herstellen einer Werkzeuganbaukomponente bestehen folgende Vorgaben:
+
+1. Der Prüfling soll nachweisen, dass er in der Lage ist, a)Arbeitsschritte zu planen, Arbeitsmittel und technische Unterlagen anzuwenden, technologische Kennwerte zu ermitteln, erforderliche Berechnungen durchzuführen,b)Sicherheit und Gesundheitsschutz bei der Arbeit und den Umweltschutz zu berücksichtigen,c)Bauteile manuell und maschinell zu bearbeiten, umzuformen und zu einer funktionierenden Werkzeuganbaukomponente zu fügen,d)Prüfmittel anzuwenden; Arbeitsschritte zu planen, Arbeitsmittel und technische Unterlagen anzuwenden, technologische Kennwerte zu ermitteln, erforderliche Berechnungen durchzuführen, Sicherheit und Gesundheitsschutz bei der Arbeit und den Umweltschutz zu berücksichtigen, Bauteile manuell und maschinell zu bearbeiten, umzuformen und zu einer funktionierenden Werkzeuganbaukomponente zu fügen, Prüfmittel anzuwenden;
+
+2. der Prüfling soll ein Prüfungsstück fertigen und darauf bezogene Aufgaben schriftlich bearbeiten;
+
+3. die Prüfungszeit beträgt für das Prüfungsstück sechs Stunden und für die schriftlich zu bearbeitenden Aufgaben 60 Minuten.
 
 ### § 7 — Teil 2 der Abschlussprüfung
 
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.(2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen: 1.Rüsten, Anfahren und Überwachen einer Produktionsanlage,2.Produktionstechnik,3.Produktionssysteme,4.Wirtschafts- und Sozialkunde.(3) Für den Prüfungsbereich Rüsten, Anfahren und Überwachen einer Produktionsanlage bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er in der Lage ist, a)Arbeitsaufträge zu analysieren, Informationen zu beschaffen, technische und organisatorische Schnittstellen zu klären,b)Produktionsanlagen unter Berücksichtigung der Sicherheit, des Gesundheits- und Umweltschutzes, einzurichten und zu betreiben,c)Produktionsergebnisse zu bewerten, Maßnahmen zur Prozessoptimierung zu ergreifen, Änderungsdaten einzupflegen,d)Normen und auftragsspezifische Anforderungen zur Produktqualität und Prozesssicherheit zu beachten,e)die Technologie- und Prozessdaten zu dokumentieren;2.der Prüfling soll einen betrieblichen Auftrag durchführen und mit praxisbezogenen Unterlagen dokumentieren sowie darüber ein auftragsbezogenes Fachgespräch führen;3.dem Prüfungsausschuss ist vor der Durchführung des betrieblichen Auftrags die Aufgabenstellung einschließlich des geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen;4.die Prüfungszeit für die Durchführung des betrieblichen Auftrags einschließlich der Dokumentation beträgt 14 Stunden und für das auftragsbezogene Fachgespräch höchstens 30 Minuten.(4) Für den Prüfungsbereich Produktionstechnik bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er in der Lage ist, a)technische Unterlagen zu ergänzen, auszuwerten und anzuwenden,b)Werkstoffeigenschaften und -zustände zu beurteilen,c)Fertigungstechniken zum Stanzen und Umformen zuzuordnen,d)Werkzeuge und Werkzeugkomponenten zu analysieren,e)Funktion von Maschinen und Anlagen zu erläutern,f)Handhabungs- und Materialflusssysteme zuzuordnen,g)Prüfverfahren und Prüfmittel auszuwählen und zu beurteilen;2.der Prüfling soll Aufgaben schriftlich bearbeiten;3.die Prüfungszeit beträgt 120 Minuten.(5) Für den Prüfungsbereich Produktionssysteme bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er in der Lage ist, a)Produktionsparameter zu ermitteln,b)Werkzeug- und Prozessüberwachungssysteme zu analysieren,c)die Funktionsfähigkeit von Stanz- und Umformanlagen durch Steuern und Regeln zu organisieren,d)Störungs- und Fehlerursachen zu beurteilen und Wartungsmaßnahmen zu erkennen,e)den Produktionsablauf für die Serienfertigung zu optimieren,f)Qualitätsmerkmale auszuwerten und Ursachen für Qualitätsabweichungen feststellen zu können;2.der Prüfling soll Aufgaben schriftlich bearbeiten;3.die Prüfungszeit beträgt 120 Minuten.(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben: 1.Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen;2.der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;3.die Prüfungszeit beträgt 60 Minuten.
+(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+
+(2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen:
+
+1. Rüsten, Anfahren und Überwachen einer Produktionsanlage,
+
+2. Produktionstechnik,
+
+3. Produktionssysteme,
+
+4. Wirtschafts- und Sozialkunde.
+
+(3) Für den Prüfungsbereich Rüsten, Anfahren und Überwachen einer Produktionsanlage bestehen folgende Vorgaben:
+
+1. Der Prüfling soll nachweisen, dass er in der Lage ist, a)Arbeitsaufträge zu analysieren, Informationen zu beschaffen, technische und organisatorische Schnittstellen zu klären,b)Produktionsanlagen unter Berücksichtigung der Sicherheit, des Gesundheits- und Umweltschutzes, einzurichten und zu betreiben,c)Produktionsergebnisse zu bewerten, Maßnahmen zur Prozessoptimierung zu ergreifen, Änderungsdaten einzupflegen,d)Normen und auftragsspezifische Anforderungen zur Produktqualität und Prozesssicherheit zu beachten,e)die Technologie- und Prozessdaten zu dokumentieren; Arbeitsaufträge zu analysieren, Informationen zu beschaffen, technische und organisatorische Schnittstellen zu klären, Produktionsanlagen unter Berücksichtigung der Sicherheit, des Gesundheits- und Umweltschutzes, einzurichten und zu betreiben, Produktionsergebnisse zu bewerten, Maßnahmen zur Prozessoptimierung zu ergreifen, Änderungsdaten einzupflegen, Normen und auftragsspezifische Anforderungen zur Produktqualität und Prozesssicherheit zu beachten, die Technologie- und Prozessdaten zu dokumentieren;
+
+2. der Prüfling soll einen betrieblichen Auftrag durchführen und mit praxisbezogenen Unterlagen dokumentieren sowie darüber ein auftragsbezogenes Fachgespräch führen;
+
+3. dem Prüfungsausschuss ist vor der Durchführung des betrieblichen Auftrags die Aufgabenstellung einschließlich des geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen;
+
+4. die Prüfungszeit für die Durchführung des betrieblichen Auftrags einschließlich der Dokumentation beträgt 14 Stunden und für das auftragsbezogene Fachgespräch höchstens 30 Minuten.
+
+(4) Für den Prüfungsbereich Produktionstechnik bestehen folgende Vorgaben:
+
+1. Der Prüfling soll nachweisen, dass er in der Lage ist, a)technische Unterlagen zu ergänzen, auszuwerten und anzuwenden,b)Werkstoffeigenschaften und -zustände zu beurteilen,c)Fertigungstechniken zum Stanzen und Umformen zuzuordnen,d)Werkzeuge und Werkzeugkomponenten zu analysieren,e)Funktion von Maschinen und Anlagen zu erläutern,f)Handhabungs- und Materialflusssysteme zuzuordnen,g)Prüfverfahren und Prüfmittel auszuwählen und zu beurteilen; technische Unterlagen zu ergänzen, auszuwerten und anzuwenden, Werkstoffeigenschaften und -zustände zu beurteilen, Fertigungstechniken zum Stanzen und Umformen zuzuordnen, Werkzeuge und Werkzeugkomponenten zu analysieren, Funktion von Maschinen und Anlagen zu erläutern, Handhabungs- und Materialflusssysteme zuzuordnen, Prüfverfahren und Prüfmittel auszuwählen und zu beurteilen;
+
+2. der Prüfling soll Aufgaben schriftlich bearbeiten;
+
+3. die Prüfungszeit beträgt 120 Minuten.
+
+(5) Für den Prüfungsbereich Produktionssysteme bestehen folgende Vorgaben:
+
+1. Der Prüfling soll nachweisen, dass er in der Lage ist, a)Produktionsparameter zu ermitteln,b)Werkzeug- und Prozessüberwachungssysteme zu analysieren,c)die Funktionsfähigkeit von Stanz- und Umformanlagen durch Steuern und Regeln zu organisieren,d)Störungs- und Fehlerursachen zu beurteilen und Wartungsmaßnahmen zu erkennen,e)den Produktionsablauf für die Serienfertigung zu optimieren,f)Qualitätsmerkmale auszuwerten und Ursachen für Qualitätsabweichungen feststellen zu können; Produktionsparameter zu ermitteln, Werkzeug- und Prozessüberwachungssysteme zu analysieren, die Funktionsfähigkeit von Stanz- und Umformanlagen durch Steuern und Regeln zu organisieren, Störungs- und Fehlerursachen zu beurteilen und Wartungsmaßnahmen zu erkennen, den Produktionsablauf für die Serienfertigung zu optimieren, Qualitätsmerkmale auszuwerten und Ursachen für Qualitätsabweichungen feststellen zu können;
+
+2. der Prüfling soll Aufgaben schriftlich bearbeiten;
+
+3. die Prüfungszeit beträgt 120 Minuten.
+
+(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
+
+1. Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen;
+
+2. der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
+
+3. die Prüfungszeit beträgt 60 Minuten.
 
 ### § 8 — Gewichtungs- und Bestehensregelungen
 
-(1) Die Prüfungsbereiche sind wie folgt zu gewichten: 1.Herstellen einer Werkzeuganbaukomponente40 Prozent,2.Rüsten, Anfahren und Überwachen einer Produktionsanlage30 Prozent,3.Produktionstechnik10 Prozent,4.Produktionssysteme10 Prozent,5.Wirtschafts- und Sozialkunde10 Prozent.(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen 1.im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,2.im Prüfungsbereich Rüsten, Anfahren und Überwachen einer Produktionsanlage mit mindestens „ausreichend“,3.im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,4.in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und5.in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“bewertet worden sind.(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche Produktionstechnik, Produktionssysteme oder Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(1) Die Prüfungsbereiche sind wie folgt zu gewichten:
+
+1. Herstellen einer Werkzeuganbaukomponente40 Prozent,
+
+2. Rüsten, Anfahren und Überwachen einer Produktionsanlage30 Prozent,
+
+3. Produktionstechnik10 Prozent,
+
+4. Produktionssysteme10 Prozent,
+
+5. Wirtschafts- und Sozialkunde10 Prozent.
+
+(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
+
+1. im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
+
+2. im Prüfungsbereich Rüsten, Anfahren und Überwachen einer Produktionsanlage mit mindestens „ausreichend“,
+
+3. im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
+
+4. in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und
+
+5. in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“
+
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche Produktionstechnik, Produktionssysteme oder Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 ### § 9 — Anrechnungsregelung
 
@@ -50,5 +146,3 @@ Die erfolgreich abgeschlossene Berufsausbildung zur Fachkraft für Metalltechnik
 Diese Verordnung tritt am 1. August 2013 in Kraft.
 
 ### Anlage — (zu § 3 Absatz 1 Satz 1)
-
-(Fundstelle: BGBl. I 2013, 644 - 647)Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und FähigkeitenLfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und FähigkeitenZeitliche Richtwerte in Wochen im1. bis 18. Monat19. bis 36. Monat12341Herstellen von Bauteilen; Montieren und Demontieren von Baugruppen (§ 3 Absatz 2 Abschnitt A Nummer 1)a)Materialien hinsichtlich ihrer Eigenschaften und Verwendung auswählenb)Werkzeuge und Spannzeuge auswählen, Werkstücke ausrichten und spannenc)Werkstücke aus unterschiedlichen Werkstoffen durch manuelle und maschinelle Fertigungsverfahren herstellend)Bauteile, auch aus unterschiedlichen Werkstoffen, zu Baugruppen fügene)Montage- und Demontagepläne anwendenf)Bauteile und Baugruppen lage- und funktionsgerecht montiereng)Baugruppen demontieren und kennzeichnen24h)Eigenschaften von Werkstoffen, insbesondere für Werkzeuge, und deren Veränderungen beurteilen42Vorbereiten der Produktion (§ 3 Absatz 2 Abschnitt A Nummer 2)a)Material auf Vollständigkeit und Qualität prüfenb)Handhabungs- und Materialflusssysteme einrichtenc)Hilfs- und Betriebsstoffe ihrer Verwendung nach zuordnen und einsetzend)Material zur Zuführeinheit transportieren und ausrichtene)Richt- und Vorschubsysteme vorbereiten und einstellen, Steuerung aktivieren63Einrichten und Inbetrieb-nehmen von Stanz- und Umformmaschinen und -anlagen (§ 3 Absatz 2 Abschnitt A Nummer 3)a)Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen Anlagen, Geräten und Betriebsmitteln beachtenb)Materialzuführ- und Abführeinrichtungen anbringen und einstellen, Material zuführenc)Stanz- und Umformwerkzeuge zum Einbau vorbereitend)Werkzeugeinbauraum und Werkzeuge reinigene)Werkzeuge, insbesondere auf Verschleiß und Beschädigung, sichtprüfenf)Werkzeuge und Werkzeugkomponenten einbauen, ausrichten, justieren und befestigen18g)Sicherheitseinrichtungen, Zusatzaggregate und Komponenten zur Prozessüberwachung montieren, justieren und erprobenh)Fertigungsdaten von Maschinen und Anlagen ermitteln, Produktionsparameter einstellen, Programmdaten eingebeni)Werkzeug- und Prozessüberwachungssysteme aktivierenj)Produktion anfahren; Probelauf durchführen, Musterteile prüfenk)Produktionsablauf für Serienfertigung optimieren184Überwachen, Steuern und Optimieren von Produktionsprozessen (§ 3 Absatz 2 Abschnitt ANummer 4)a)Materialfluss sicherstellenb)Regelungs- und Steuerungssysteme in ihren Funktionen unterscheiden6c)Funktionsfähigkeit von Stanz- und Umformmaschinen und -anlagen durch Steuern, Regeln und Überwachen der Arbeitsbewegungen und deren Zusatzfunktionen sicherstellend)Fertigungsparameter optimierene)Störungs- und Fehlerursachen feststellen, die Möglichkeit ihrer Beseitigung beurteilen und die Instandsetzung durchführen oder veranlassen165Anschlagen, Sichern undTransportieren (§ 3 Absatz 2 Abschnitt ANummer 5)a)Transportgüter anschlagen und sichernb)Schrottabführungen platzierenc)Abführungen für Fertigteile platzierend)Trägersysteme für Produkte am Band platzierene)Produkte entnehmen, reinigen und zur Weiterbearbeitung vorbereiten6f)Nachbehandlung veranlasseng)Qualitätssicherung und Nachverfolgbarkeit sicherstellenh)Produkte für den Versand kennzeichnen und vorbereiten6Abschnitt B: Integrative Fertigkeiten, Kenntnisse und FähigkeitenLfd. Nr.Teil des AusbildungsberufsbildesZu vermittelnde Fertigkeiten, Kenntnisse und FähigkeitenZeitliche Richtwerte in Wochen im1. bis 18. Monat19. bis 36. Monat12341Berufsbildung, Arbeits- und Tarifrecht (§ 3 Absatz 2 Abschnitt B Nummer 1)a)Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklärenb)gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennenc)Möglichkeiten der beruflichen Fortbildung nennend)wesentliche Teile des Arbeitsvertrages nennene)wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen2Aufbau und Organisationdes Ausbildungsbetriebes (§ 3 Absatz 2 Abschnitt B Nummer 2)a)Aufbau und Aufgaben des ausbildenden Betriebes erläuternb)Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklärenc)Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennend)Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreibenwährend der gesamten Ausbildung zu vermitteln3Sicherheit und Gesundheitsschutz bei der Arbeit (§ 3 Absatz 2 Abschnitt B Nummer 3)a)Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifenb)berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwendenc)Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleitend)Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen4Umweltschutz (§ 3 Absatz 2 Abschnitt B Nummer 4)Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere a)mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklärenb)für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwendenc)Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzend)Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen5Betriebliche und technische Kommunikation (§ 3 Absatz 2 Abschnitt B Nummer 5)a)Informationsquellen auswählen, Informationen beschaffen und bewertenb)technische Zeichnungen und Stücklisten auswerten und anwenden sowie Skizzen anfertigenc)Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden8d)Betriebsdaten-Informations-Systeme handhaben, Daten und Dokumente unter Berücksichtigung des Datenschutzes pflegen, sichern und archivierene)Gespräche mit Kunden und Vorgesetzten situationsgerecht und zielorientiert führenf)Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe in der Kommunikation anwendeng)Informationen auch aus englischsprachigen technischen Unterlagen und Dateien entnehmen und verwendenh)Teambesprechungen durchführen, Ergebnisse dokumentieren und präsentieren, kulturelle Identitäten berücksichtigeni)Konflikte erkennen, zur Konfliktlösung beitragen146Planen und Organisierender Arbeit (§ 3 Absatz 2 Abschnitt B Nummer 6)a)Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichtenb)Werkzeuge und Materialien termingerecht anfordern, prüfen, transportieren und bereitstellenc)Arbeitsabläufe und Teilaufgaben unter Beachtung technologischer, wirtschaftlicher und terminlicher Vorgaben planend)Instrumente zur Auftragsabwicklung sowie der Terminverfolgung anwendene)unterschiedliche Lerntechniken anwendenf)Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen10g)Aufgaben im Team planenh)betriebswirtschaftlich relevante Daten erfassen und bewerteni)Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleichenj)eigene Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten nutzen87Durchführen von qualitäts-sichernden Maßnahmen (§ 3 Absatz 2 Abschnitt B Nummer 7)a)Maschinendaten in betriebliche Datensysteme einpflegen und auswertenb)Ursachen von Qualitätsabweichungen feststellenc)zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragend)produktionsrelevante Daten erfassen, beurteilen und dokumentierene)Wartungsintervalle beachten, Inspektion und Wartung durchführen oder veranlassenf)betriebliches Qualitätssicherungssystem anwenden12

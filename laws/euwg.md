@@ -27,9 +27,7 @@ Auf die Bundesrepublik Deutschland entfallen 96 Abgeordnete des Europäischen Pa
 
 (6) Die auf eine Listenverbindung entfallenden Sitze werden auf die beteiligten Listen für die einzelnen Länder entsprechend Absatz 3 Satz 2 bis 7 verteilt. Absatz 5 gilt entsprechend.
 
-(7) Bei der Verteilung der Sitze auf die Wahlvorschläge werden nur Wahlvorschläge berücksichtigt, die mindestens 3 Prozent der im Wahlgebiet abgegebenen gültigen Stimmen erhalten haben.
-
-> § 2 Abs. 7: IdF d. Art. 1 Nr. 2 Buchst. d G v. 7.10.2013 I 3749 mWv 10.10.2013; verstößt gegen Art. 3 Abs. 1 GG (100-1) und ist daher nichtig gem. BVerfGE v. 18.12.2013 I 271 - 2 BvE 2/13, 2 BvE 5/13, 2 BvE 6/13, 2 BvE 7/13, 2 BvE 8/13, 2 BvE 9/13, 2 BvE 10/13, 2 BvE 12/13,  2 BvR 2220/13, 2 BvR 2221/13, 2 BvR 2238/13 -
+> § 2 Abs. 7: IdF d. Art. 1 Nr. 2 Buchst. d G v. 7.10.2013 I 3749 mWv 10.10.2013; verstößt gegen Art. 3 Abs. 1 GG (100-1) und ist daher nichtig gem. BVerfGE v. 18.12.2013 I 271 - 2 BvE 2/13, 2 BvE 5/13, 2 BvE 6/13, 2 BvE 7/13, 2 BvE 8/13, 2 BvE 9/13, 2 BvE 10/13, 2 BvE 12/13, 2 BvR 2220/13, 2 BvR 2221/13, 2 BvR 2238/13 -
 
 ### § 3 — Gliederung des Wahlgebietes
 
@@ -45,15 +43,15 @@ Soweit in diesem Gesetz nichts anderes bestimmt ist, gelten für die Wahl der Ab
 
 (1) Wahlorgane sind
 
--
+- der Bundeswahlleiter und der Bundeswahlausschuß für das Wahlgebiet,
 
--
+- ein Landeswahlleiter und ein Landeswahlausschuß für jedes Land,
 
--
+- ein Kreiswahlleiter und ein Kreiswahlausschuß für jeden Kreis und für jede kreisfreie Stadt ein Stadtwahlleiter und Stadtwahlausschuß,
 
--
+- ein Wahlvorsteher und ein Wahlvorstand für jeden Wahlbezirk und
 
--
+- mindestens ein Wahlvorsteher und ein Wahlvorstand für jeden Kreis und für jede kreisfreie Stadt zur Feststellung des Briefwahlergebnisses. Wieviel Briefwahlvorstände zu bilden sind, um das Ergebnis der Briefwahl noch am Wahltage feststellen zu können, bestimmt der Kreiswahlleiter oder der Stadtwahlleiter.
 
 (2) Zur Feststellung des Briefwahlergebnisses können Wahlvorsteher und Wahlvorstände statt für jeden Kreis für einzelne oder mehrere kreisangehörige Gemeinden eingesetzt werden; die Anordnung trifft die Landesregierung oder die von ihr bestimmte Stelle.
 
@@ -63,41 +61,33 @@ Soweit in diesem Gesetz nichts anderes bestimmt ist, gelten für die Wahl der Ab
 
 ### § 6 — Wahlrecht, Ausübung des Wahlrechts
 
-(1) Wahlberechtigt sind alle Deutschen im Sinne des Artikels 116 Abs. 1 des Grundgesetzes, die am Wahltage Die Voraussetzungen nach Satz 1 Nr. 2 sind auch bei einem dreimonatigen aufeinanderfolgenden Aufenthalt in den in Satz 1 Nr. 2 Buchstabe a und b genannten Gebieten erfüllt.
+(1) Wahlberechtigt sind alle Deutschen im Sinne des Artikels 116 Abs. 1 des Grundgesetzes, die am Wahltage
 
-1.
+1. das sechzehnte Lebensjahr vollendet haben,
 
-2.
+2. seit mindestens drei Monatena)in der Bundesrepublik Deutschland oderb)in den übrigen Mitgliedstaaten der Europäischen Union in der Bundesrepublik Deutschland oder in den übrigen Mitgliedstaaten der Europäischen Union eine Wohnung innehaben oder sich sonst gewöhnlich aufhalten,
 
-a)
-
-b)
-
-3.
+3. nicht nach § 6a Abs. 1 vom Wahlrecht ausgeschlossen sind.
 
 (2) Wahlberechtigt sind auch die nach § 12 Abs. 2 des Bundeswahlgesetzes zum Deutschen Bundestag wahlberechtigten Deutschen.
 
-(3) Wahlberechtigt sind auch alle Staatsangehörigen der übrigen Mitgliedstaaten der Europäischen Union (Unionsbürger), die in der Bundesrepublik Deutschland eine Wohnung innehaben oder sich sonst gewöhnlich aufhalten und die am Wahltage Die Voraussetzungen nach Satz 1 Nr. 2 sind auch bei einem dreimonatigen aufeinanderfolgenden Aufenthalt in den in Satz 1 Nr. 2 Buchstabe a und b genannten Gebieten erfüllt.
+(3) Wahlberechtigt sind auch alle Staatsangehörigen der übrigen Mitgliedstaaten der Europäischen Union (Unionsbürger), die in der Bundesrepublik Deutschland eine Wohnung innehaben oder sich sonst gewöhnlich aufhalten und die am Wahltage
 
-1.
+1. das sechzehnte Lebensjahr vollendet haben,
 
-2.
+2. seit mindestens drei Monatena)in der Bundesrepublik Deutschland oderb)in den übrigen Mitgliedstaaten der Europäischen Union in der Bundesrepublik Deutschland oder in den übrigen Mitgliedstaaten der Europäischen Union eine Wohnung innehaben oder sich sonst gewöhnlich aufhalten,
 
-a)
-
-b)
-
-3.
+3. nicht nach § 6a Abs. 2 vom Wahlrecht ausgeschlossen sind.
 
 (4) Das Wahlrecht darf nur einmal und nur persönlich ausgeübt werden. Das gilt auch für Wahlberechtigte, die zugleich in einem anderen Mitgliedstaat der Europäischen Union zum Europäischen Parlament wahlberechtigt sind. Eine Ausübung des Wahlrechts durch einen Vertreter anstelle des Wahlberechtigten ist unzulässig.
 
 (4a) Ein Wahlberechtigter, der des Lesens unkundig oder wegen einer Behinderung an der Abgabe seiner Stimme gehindert ist, kann sich hierzu der Hilfe einer anderen Person bedienen. Die Hilfeleistung ist auf technische Hilfe bei der Kundgabe einer vom Wahlberechtigten selbst getroffenen und geäußerten Wahlentscheidung beschränkt. Unzulässig ist eine Hilfeleistung, die unter missbräuchlicher Einflussnahme erfolgt, die selbstbestimmte Willensbildung oder Entscheidung des Wahlberechtigten ersetzt oder verändert oder wenn ein Interessenkonflikt der Hilfsperson besteht.
 
-(5) Wer einen Wahlschein hat, kann an der Wahl in dem Kreis oder in der kreisfreien Stadt, in dem der Wahlschein ausgestellt ist, teilnehmen.
+(5) Wer einen Wahlschein hat, kann an der Wahl in dem Kreis oder in der kreisfreien Stadt, in dem der Wahlschein ausgestellt ist,
 
-a)
+a) durch Stimmabgabe in einem beliebigen Wahlbezirk oder
 
-b)
+b) durch Briefwahl
 
 ### § 6a — Ausschluss vom Wahlrecht
 
@@ -105,39 +95,39 @@ b)
 
 (2) Ein Unionsbürger ist vom Wahlrecht ausgeschlossen, wenn
 
-1.
+1. er infolge Richterspruchs das Wahlrecht nicht besitzt oder
 
-2.
+2. er in dem Mitgliedstaat der Europäischen Union, dessen Staatsangehörigkeit er besitzt (Herkunfts-Mitgliedstaat), infolge einer zivil- oder strafrechtlichen Einzelfallentscheidung das Wahlrecht zum Europäischen Parlament nicht besitzt.
 
 ### § 6b — Wählbarkeit
 
 (1) Wählbar ist, wer am Wahltage
 
-1.
+1. Deutscher im Sinne des Artikels 116 Abs. 1 des Grundgesetzes ist und
 
-2.
+2. das achtzehnte Lebensjahr vollendet hat.
 
 (2) Wählbar ist auch ein Unionsbürger, der in der Bundesrepublik Deutschland eine Wohnung innehat oder sich sonst gewöhnlich aufhält und der am Wahltage
 
-1.
+1. die Staatsangehörigkeit eines Mitgliedstaates der Europäischen Union besitzt und
 
-2.
+2. das achtzehnte Lebensjahr vollendet hat.
 
 (3) Nicht wählbar ist ein Deutscher, der
 
-1.
+1. nach § 6a Abs. 1 vom Wahlrecht ausgeschlossen ist oder
 
-2.
+2. infolge Richterspruchs die Wählbarkeit oder die Fähigkeit zur Bekleidung öffentlicher Ämter nicht besitzt.
 
 (4) Nicht wählbar ist ein Unionsbürger, der
 
-1.
+1. nach § 6a Abs. 2 Nr. 1 in der Bundesrepublik Deutschland vom Wahlrecht ausgeschlossen ist,
 
-2.
+2. nach § 6a Abs. 2 Nr. 2 im Herkunfts-Mitgliedstaat vom Wahlrecht ausgeschlossen ist,
 
-3.
+3. infolge Richterspruchs in der Bundesrepublik Deutschland die Wählbarkeit oder die Fähigkeit zur Bekleidung öffentlicher Ämter nicht besitzt oder
 
-4.
+4. infolge einer Einzelfallentscheidung im Sinne von Artikel 6 Absatz 1 der Richtlinie 93/109/EG des Rates vom 6. Dezember 1993 über die Einzelheiten der Ausübung des aktiven und passiven Wahlrechts bei den Wahlen zum Europäischen Parlament für Unionsbürger mit Wohnsitz in einem Mitgliedstaat, dessen Staatsangehörigkeit sie nicht besitzen (ABl. L 329 vom 30.12.1993, S. 34), die zuletzt durch die Richtlinie 2013/1/EU (ABl. L 26 vom 26.1.2013, S. 27) geändert worden ist, im Herkunfts-Mitgliedstaat die Wählbarkeit nicht besitzt.
 
 ### § 6c — Verbot der mehrfachen Bewerbung zur Wahl
 
@@ -163,7 +153,7 @@ Die Bundesregierung bestimmt nach Maßgabe der Festsetzung des Wahlzeitpunktes d
 
 (4) Listen für einzelne Länder von Parteien müssen von den Vorständen der Landesverbände oder, wenn Landesverbände nicht bestehen, von den Vorständen der nächstniedrigen Gebietsverbände, die im Bereich des Landes liegen, unterzeichnet sein. Gemeinsame Listen für alle Länder müssen von den Vorständen der Bundesverbände der Parteien oder, wenn Bundesverbände nicht bestehen, von den Vorständen der nächstniedrigen Gebietsverbände, die im Wahlgebiet liegen, unterzeichnet sein. Sätze 1 und 2 gelten sinngemäß auch für Wahlvorschläge von sonstigen politischen Vereinigungen.
 
-(5) Listen für einzelne Länder von Parteien und sonstigen politischen Vereinigungen, die nicht im Europäischen Parlament, im Deutschen Bundestag oder einem Landtag seit deren letzter Wahl auf Grund eigener Wahlvorschläge im Wahlgebiet ununterbrochen mit mindestens fünf Abgeordneten vertreten sind, müssen außerdem von 1 vom Tausend der Wahlberechtigten des betreffenden Landes bei der letzten Wahl zum Europäischen Parlament, jedoch höchstens 2 000 Wahlberechtigten, persönlich und handschriftlich unterzeichnet sein. Gemeinsame Listen für alle Länder von Wahlvorschlagsberechtigten im Sinne des Satzes 1 müssen außerdem von 4 000 Wahlberechtigten persönlich und handschriftlich unterzeichnet sein. Die Wahlberechtigung muß im Zeitpunkt der Unterzeichnung gegeben sein und ist bei Einreichung des Wahlvorschlages nachzuweisen.
+(5) Listen für einzelne Länder von Parteien und sonstigen politischen Vereinigungen, die nicht im Europäischen Parlament, im Deutschen Bundestag oder einem Landtag seit deren letzter Wahl auf Grund eigener Wahlvorschläge im Wahlgebiet ununterbrochen mit mindestens fünf Abgeordneten vertreten sind, müssen außerdem von 1 vom Tausend der Wahlberechtigten des betreffenden Landes bei der letzten Wahl zum Europäischen Parlament, jedoch höchstens 2 000 Wahlberechtigten, persönlich und handschriftlich unterzeichnet sein. Gemeinsame Listen für alle Länder von Wahlvorschlagsberechtigten im Sinne des Satzes 1 müssen außerdem von 4 000 Wahlberechtigten persönlich und handschriftlich unterzeichnet sein. Die Wahlberechtigung muß im Zeitpunkt der Unterzeichnung gegeben sein und ist bei Einreichung des Wahlvorschlages nachzuweisen.
 
 (6) In jedem Wahlvorschlag sollen eine Vertrauensperson und eine stellvertretende Vertrauensperson bezeichnet werden. Fehlt diese Bezeichnung, so gilt die Person, die als erste unterzeichnet hat, als Vertrauensperson, und diejenige, die als zweite unterzeichnet hat, als stellvertretende Vertrauensperson.
 
@@ -187,23 +177,23 @@ Die Bundesregierung bestimmt nach Maßgabe der Festsetzung des Wahlzeitpunktes d
 
 (1) Listen für ein Land und gemeinsame Listen für alle Länder sind dem Bundeswahlleiter spätestens am dreiundachtzigsten Tage vor der Wahl bis 18 Uhr schriftlich einzureichen.
 
-(2) Mit dem Wahlvorschlag sind dem Bundeswahlleiter vorzulegen: Der Bundeswahlleiter ist zur Abnahme von Versicherungen an Eides Statt zuständig; er gilt als Behörde im Sinne des § 156 des Strafgesetzbuches. Auf die Aufnahme der Versicherungen an Eides Statt findet § 27 des Verwaltungsverfahrensgesetzes Anwendung.
+(2) Mit dem Wahlvorschlag sind dem Bundeswahlleiter vorzulegen:
 
-1.
+1. die Zustimmungserklärungen der in den Wahlvorschlag aufgenommenen Bewerber und Ersatzbewerber (§ 9 Abs. 3 Satz 4),
 
-1a.
+1a. für Deutsche die Bescheinigungen der zuständigen Gemeindebehörden über die Wählbarkeit der vorgeschlagenen Bewerber und Ersatzbewerber,
 
-1b.
+1b. für Unionsbürger die Bescheinigungen der zuständigen deutschen Gemeindebehörden, daß sie dort eine Wohnung innehaben oder ihren sonstigen gewöhnlichen Aufenthalt haben und nicht gemäß § 6b Abs. 4 Nr. 1 oder 3 von der Wählbarkeit ausgeschlossen sind,
 
-1c.
+1c. für Unionsbürger die Versicherungen an Eides statt über die Staatsangehörigkeit, das Geburtsdatum und den Geburtsort, die letzte Anschrift im Herkunfts-Mitgliedstaat, die Anschrift in der Bundesrepublik Deutschland, die Gebietskörperschaft oder den Wahlkreis des Herkunfts-Mitgliedstaates, in dem sie zuletzt eingetragen waren, sowie darüber, dass sie sich nicht gleichzeitig in einem anderen Mitgliedstaat der Europäischen Union zur Wahl bewerben und dass sie im Herkunfts-Mitgliedstaat nicht von der Wählbarkeit ausgeschlossen sind (§ 6b Absatz 4 Nummer 2 und 4),
 
-1d.
+1d. (weggefallen)
 
-2.
+2. eine Ausfertigung der Niederschrift über die Aufstellung des Wahlvorschlages (§ 10 Abs. 6), wobei der Leiter der Versammlung und zwei von dieser bestimmte Teilnehmer gegenüber dem Wahlleiter an Eides statt zu versichern haben, dass die Anforderungen gemäß § 10 Abs. 3 Satz 1 bis 3 beachtet worden sind,
 
-3.
+3. in den Fällen des § 9 Abs. 5 die erforderlichen gültigen Unterschriften mit dem Nachweis der Wahlberechtigung der Unterzeichner,
 
-4.
+4. die schriftliche Satzung, das Programm, die Namen und Anschriften der Vorstandsmitglieder (§ 9 Abs. 4) sowie der Nachweis, daß die Mitglieder des Vorstandes demokratisch gewählt sind, sofern die Partei oder die sonstige politische Vereinigung nicht im Europäischen Parlament, im Deutschen Bundestag oder in einem Landtag seit deren letzter Wahl auf Grund eigener Wahlvorschläge im Wahlgebiet ununterbrochen mit mindestens fünf Abgeordneten vertreten ist.
 
 (3) Soll eine Liste oder sollen mehrere Listen für einzelne Länder von der Listenverbindung ausgeschlossen sein (§ 2 Abs. 2 Satz 2) haben die Vertrauensperson des Wahlvorschlages und die stellvertretende Vertrauensperson dies durch gemeinsame schriftliche Erklärung dem Bundeswahlleiter spätestens am dreiundachtzigsten Tage vor der Wahl bis 18 Uhr mitzuteilen.
 
@@ -221,13 +211,13 @@ Die Bundesregierung bestimmt nach Maßgabe der Festsetzung des Wahlzeitpunktes d
 
 (2) Nach Ablauf der Einreichungsfrist können nur noch Mängel an sich gültiger Wahlvorschläge behoben werden. Ein gültiger Wahlvorschlag liegt nicht vor, wenn
 
-1.
+1. die Bezeichnung des Wahlvorschlagsberechtigten nach § 9 Abs. 1 fehlt,
 
-2.
+2. die nach § 9 Abs. 4 und 5 erforderlichen gültigen Unterschriften mit dem Nachweis der Wahlberechtigung der Unterzeichner nach Absatz 5 dieser Vorschrift fehlen, es sei denn, der Nachweis kann infolge von Umständen, die der Wahlvorschlagsberechtigte nicht zu vertreten hat, nicht rechtzeitig vorgelegt werden,
 
-3.
+3. die nach § 11 Abs. 1 erforderliche Form oder Frist nicht gewahrt ist,
 
-4.
+4. die nach § 11 Abs. 2 Nr. 1, 1a, 1b, 1c, 2 und 4 erforderlichen Niederschriften, Versicherungen oder Unterlagen nicht vorgelegt oder abgegeben sind.
 
 (3) Nach der Entscheidung über die Zulassung eines Wahlvorschlages (§ 14) ist jede Mängelbeseitigung ausgeschlossen.
 
@@ -237,11 +227,11 @@ Die Bundesregierung bestimmt nach Maßgabe der Festsetzung des Wahlzeitpunktes d
 
 (1) Der Bundeswahlausschuss entscheidet am zweiundsiebzigsten Tage vor der Wahl für alle Wahlorgane verbindlich über alle Voraussetzungen für die Zulassung der Listen für einzelne Länder und der gemeinsamen Listen für alle Länder. Zu der Sitzung sind die Vertrauenspersonen der Wahlvorschläge zu laden.
 
-(2) Der Bundeswahlausschuss hat Wahlvorschläge zurückzuweisen, wenn sie Sind die Anforderungen nur hinsichtlich einzelner Bewerber oder Ersatzbewerber nicht erfüllt, so werden ihre Namen aus dem Wahlvorschlag gestrichen. Teilt ein anderer Mitgliedstaat der Europäischen Union die Wahlbewerbung eines Deutschen in diesem Mitgliedstaat oder bezüglich eines seiner Staatsangehörigen dessen fehlendes Wahlrecht (§ 6b Absatz 4 Nummer 2) oder dessen fehlende Wählbarkeit (§ 6b Absatz 4 Nummer 4) in diesem Mitgliedstaat mit, so ist dessen Name aus dem Wahlvorschlag zu streichen. An die Stelle eines gestrichenen Bewerbers tritt dessen Ersatzbewerber, sofern ein solcher benannt ist. Vor der Entscheidung sind die erschienenen Vertrauenspersonen der betroffenen Wahlvorschläge zu hören.
+(2) Der Bundeswahlausschuss hat Wahlvorschläge zurückzuweisen, wenn sie
 
-1.
+1. verspätet eingereicht sind oder
 
-2.
+2. den Anforderungen nicht entsprechen, die durch dieses Gesetz und die dazu erlassene Wahlordnung aufgestellt sind, es sei denn, daß in diesen Vorschriften etwas anderes bestimmt ist.
 
 (3) Die Entscheidung über die Zulassung der Wahlvorschläge ist in der Sitzung des Wahlausschusses bekanntzugeben.
 
@@ -257,15 +247,15 @@ Die Bundesregierung bestimmt nach Maßgabe der Festsetzung des Wahlzeitpunktes d
 
 (1) Die Stimmzettel und die zugehörigen Umschläge für die Briefwahl werden für jedes Land amtlich hergestellt.
 
-(2) Der Stimmzettel enthält § 9 Abs. 1 Satz 3 gilt entsprechend.
+(2) Der Stimmzettel enthält
 
-1.
+1. die Überschrift "Wahl der Abgeordneten des Europäischen Parlaments",
 
-2.
+2. die Namen der Parteien und, sofern sie eine Kurzbezeichnung verwenden, auch diese, bei sonstigen politischen Vereinigungen deren Namen und, sofern sie ein Kennwort verwenden, auch dieses,
 
-3.
+3. die Bezeichnung der Wahlvorschläge als Listen für einzelne Länder oder gemeinsame Listen für alle Länder sowie bei Listen für einzelne Länder die Angabe des Landes, für das der Wahlvorschlag aufgestellt ist, und
 
-4.
+4. die ersten zehn Bewerber der zugelassenen Wahlvorschläge mit Vor- und Familiennamen, Beruf oder Stand, Ort der Wohnung (Hauptwohnung) sowie bei Bewerbern für gemeinsame Listen für alle Länder zusätzlich die Abkürzung des Landes, in dem der Ort der Wohnung liegt.
 
 (3) Die Reihenfolge der Wahlvorschläge auf den Stimmzetteln richtet sich in den einzelnen Ländern nach der Zahl der Stimmen, die die Parteien und sonstigen politischen Vereinigungen bei der letzten Wahl zum Europäischen Parlament mit ihrem Wahlvorschlag in dem betreffenden Land erreicht haben. Die übrigen Wahlvorschläge schließen sich in alphabetischer Reihenfolge der Namen der Wahlvorschlagsberechtigten an.
 
@@ -312,39 +302,39 @@ Mitgliedschaft im Europäischen Parlament
 
 (2) Ein Abgeordneter verliert die Mitgliedschaft im Europäischen Parlament bei
 
-1.
+1. Ungültigkeit des Erwerbs der Mitgliedschaft,
 
-1a.
+1a. Fehlen der Wählbarkeit eines Unionsbürgers am Wahltag im Herkunfts-Mitgliedstaat infolge einer Einzelfallentscheidung im Sinne von Artikel 6 Absatz 1 der Richtlinie 93/109/EG des Rates vom 6. Dezember 1993 über die Einzelheiten der Ausübung des aktiven und passiven Wahlrechts bei den Wahlen zum Europäischen Parlament für Unionsbürger mit Wohnsitz in einem Mitgliedstaat, dessen Staatsangehörigkeit sie nicht besitzen (ABl. L 329 vom 30.12.1993, S. 34), die zuletzt durch die Richtlinie 2013/1/EU (ABl. L 26 vom 26.1.2013, S. 27) geändert worden ist,
 
-2.
+2. Neufeststellung des Wahlergebnisses,
 
-3.
+3. Wegfall einer Voraussetzung seiner jederzeitigen Wählbarkeit,
 
-4.
+4. Verzicht,
 
-5.
+5. Feststellung der Verfassungswidrigkeit der Partei oder der Teilorganisation einer Partei, der er angehört, durch das Bundesverfassungsgericht nach Artikel 21 Abs. 2 Satz 2 des Grundgesetzes,
 
-6.
+6. rechtskräftigem Verbot der politischen Vereinigung, der er angehört, im Wahlgebiet,
 
-7.
+7. Annahme der Wahl zum Bundespräsidenten,
 
-8.
+8. Ernennung zum Richter des Bundesverfassungsgerichts,
 
-9.
+9. Ernennung zum Parlamentarischen Staatssekretär,
 
-10.
+10. Ernennung zum Wehrbeauftragten des Deutschen Bundestages,
 
-11.
+11. Ernennung zum Bundesbeauftragten für den Datenschutz,
 
-11a.
+11a. (weggefallen)
 
-12.
+12. Annahme der Wahl oder Ernennung zum Mitglied einer Landesregierung,
 
-13.
+13. Berufung in eine der in Artikel 7 Abs. 1 oder Abs. 2 des Aktes zur Einführung allgemeiner unmittelbarer Wahlen der Abgeordneten des Europäischen Parlaments (BGBl. 1977 II S. 733), zuletzt geändert durch Beschluss des Rates der Europäischen Gemeinschaften vom 25. Juni 2002 und 23. September 2002 (BGBl. 2003 II S. 810), genannten Funktionen,
 
-14.
+14. Berufung in eine Funktion, die nach anderen gesetzlichen Vorschriften mit der Mitgliedschaft im Europäischen Parlament unvereinbar ist, sowie
 
-15.
+15. Übernahme des Amtes des Staatsoberhauptes, eines Richters des Verfassungsgerichts, des Mitglieds einer mit einer deutschen Landesregierung vergleichbaren Regierung sowie Übernahme des einem Parlamentarischen Staatssekretär in der Bundesrepublik Deutschland vergleichbaren Amtes in einem anderen Mitgliedstaat der Europäischen Union.
 
 (3) Der Verzicht ist nur wirksam, wenn er zur Niederschrift des Präsidenten des Europäischen Parlaments, eines Notars, der seinen Sitz in der Bundesrepublik Deutschland hat, oder eines zur Vornahme von Beurkundungen ermächtigten Bediensteten einer Auslandsvertretung der Bundesrepublik Deutschland erklärt wird. Die notarielle oder bei einer Auslandsvertretung abgegebene Verzichtserklärung hat der Abgeordnete dem Präsidenten des Europäischen Parlaments zu übermitteln. Der Verzicht kann nicht widerrufen werden. Der Bundeswahlleiter ist vom Verzichtenden durch Übersendung einer Ausfertigung der Verzichtserklärung zu unterrichten.
 
@@ -356,15 +346,15 @@ Mitgliedschaft im Europäischen Parlament
 
 (1) Über den Verlust der Mitgliedschaft nach § 22 Abs. 2 wird entschieden
 
-1.
+1. im Falle der Nummer 1 im Wahlprüfungsverfahren,
 
-2.
+2. im Fall der Nummern 1a, 2, 5, 6, 14 und 15 durch den Ältestenrat des Deutschen Bundestages,
 
-3.
+3. im Fall der Nummer 3, wenn der Verlust der Wählbarkeit durch rechtskräftigen Richterspruch eingetreten ist, durch Beschluss des Ältestenrates des Deutschen Bundestages, im Übrigen im Wahlprüfungsverfahren,
 
-4.
+4. im Fall der Nummern 7 bis 12 durch den Präsidenten des Deutschen Bundestages,
 
-5.
+5. im Falle der Nummern 4 und 13 vom Europäischen Parlament, indem es das Freiwerden des Sitzes feststellt.
 
 (2) Wird über den Verlust der Mitgliedschaft im Wahlprüfungsverfahren entschieden, so scheidet der Abgeordnete mit der Rechtskraft der Entscheidung aus dem Europäischen Parlament aus.
 
@@ -390,29 +380,29 @@ Mitgliedschaft im Europäischen Parlament
 
 (2) Das Bundesministerium des Innern, für Bau und Heimat erläßt zur Durchführung dieses Gesetzes durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, eine Wahlordnung. Es wird ermächtigt, die Bundeswahlordnung und die Bundeswahlgeräteverordnung für entsprechend anwendbar zu erklären und in der Wahlordnung besondere Vorschriften zu treffen insbesondere über
 
-1.
+1. die Wahlorgane,
 
-2.
+2. die Vorbereitung der Wahl, einschließlich Inhalt und Form der Wahlvorschläge nebst der dazugehörigen Unterlagen, ihrer Einreichung, Überprüfung, Mängelbeseitigung und Zulassung sowie Form und Inhalt des Stimmzettels und des Wahlumschlages,
 
-3.
+3. die Wahlbeteiligung von Wahlberechtigten, die in den Gebieten der übrigen Mitgliedstaaten der Europäischen Union leben,
 
-3a.
+3a. die Vorbereitung der Wahl für Unionsbürger,
 
-4.
+4. die Briefwahl,
 
-5.
+5. die Abgabe und Aufnahme von Versicherungen an Eides Statt,
 
-6.
+6. die Wahlzeit,
 
-7.
+7. die Ermittlung und die Feststellung des Wahlergebnisses,
 
-8.
+8. die Benachrichtigung der gewählten Bewerber,
 
-9.
+9. die Überprüfung der Wahl,
 
-10.
+10. die Berufung von Listennachfolgern,
 
-11.
+11. die Durchführung von Nach- und Wiederholungswahlen.
 
 ### § 26 — Wahlprüfung und Anfechtung
 
@@ -439,8 +429,6 @@ Mitgliedschaft im Europäischen Parlament
 (4) Die Vorschriften des Parteiengesetzes über das Auszahlungsverfahren und die Abschlagszahlungen gelten entsprechend.
 
 ### § 29 — Übergangsregelung
-
-Ausschlüsse vom Wahlrecht und Ausschlüsse von der Wählbarkeit, die nicht auf einem Richterspruch im Sinne von § 6a Absatz 1 in der ab dem 1. Juli 2019 geltenden Fassung oder § 6a Absatz 2 Nummer 1 in der ab dem 1. Juli 2019 geltenden Fassung oder auf § 6a Absatz 2 Nummer 2 oder § 6b Absatz 3 Nummer 2 oder § 6b Absatz 4 Nummer 3 oder Nummer 4 beruhen, sind nicht nach § 3 Absatz 2Nummer 1a des Bundesmeldegesetzes im Melderegister zu speichern.
 
 > § 29 Kursivdruck: Die Zitierung muss richtig lauten: "Nummer 1 Buchstabe a"
 

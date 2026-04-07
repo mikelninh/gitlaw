@@ -12,7 +12,11 @@ Auf Grund des § 6 Absatz 2 des Arzneimittelgesetzes, der durch Artikel 1 Nummer
 
 ### § 1 — Frischzellen
 
-Frischzellen im Sinne dieser Verordnung sind 1.biologische Stoffe, a)die unmittelbar aus tierischen Organen oder Geweben oder tierischem Blut gewonnen werden undb)die aa)lebende oder nichtlebende tierische Zellen sind oder solche Zellen enthalten,bb)Gemische von lebenden oder nichtlebenden tierischen Zellen sind oder solche Gemische enthalten,cc)Zellbruchstücke sind oder enthalten oderdd)Zellbestandteile sind oder enthalten, oder2.Zubereitungen aus solchen biologischen Stoffen.Bei Stoffen nach Satz 1 ist es unerheblich, ob sie in unbearbeitetem oder bearbeitetem Zustand vorliegen.
+Frischzellen im Sinne dieser Verordnung sind
+
+1. biologische Stoffe, a)die unmittelbar aus tierischen Organen oder Geweben oder tierischem Blut gewonnen werden undb)die aa)lebende oder nichtlebende tierische Zellen sind oder solche Zellen enthalten,bb)Gemische von lebenden oder nichtlebenden tierischen Zellen sind oder solche Gemische enthalten,cc)Zellbruchstücke sind oder enthalten oderdd)Zellbestandteile sind oder enthalten, oder die unmittelbar aus tierischen Organen oder Geweben oder tierischem Blut gewonnen werden und die aa)lebende oder nichtlebende tierische Zellen sind oder solche Zellen enthalten,bb)Gemische von lebenden oder nichtlebenden tierischen Zellen sind oder solche Gemische enthalten,cc)Zellbruchstücke sind oder enthalten oderdd)Zellbestandteile sind oder enthalten, oder lebende oder nichtlebende tierische Zellen sind oder solche Zellen enthalten, Gemische von lebenden oder nichtlebenden tierischen Zellen sind oder solche Gemische enthalten, Zellbruchstücke sind oder enthalten oder Zellbestandteile sind oder enthalten, oder
+
+2. Zubereitungen aus solchen biologischen Stoffen.
 
 ### § 2 — Verbot der Verwendung von Frischzellen
 
@@ -20,7 +24,33 @@ Es ist verboten, bei der Herstellung von Arzneimitteln, die zur parenteralen Anw
 
 ### § 3 — Ausnahmen vom Verbot
 
-(1) Vom Verbot ausgenommen ist die Verwendung von Frischzellen bei der Herstellung 1.von Sera nach § 4 Absatz 3 des Arzneimittelgesetzes,2.von Allergenen nach § 4 Absatz 5 des Arzneimittelgesetzes,3.von Arzneimitteln für neuartige Therapien, die nach § 4b Absatz 3 des Arzneimittelgesetzes genehmigt worden sind,4.von Arzneimitteln, die nach § 21 Absatz 2 Nummer 6 des Arzneimittelgesetzes einer Zulassung nicht bedürfen,5.von Arzneimitteln, für die nach § 25 des Arzneimittelgesetzes von der zuständigen Bundesoberbehörde eine Zulassung erteilt worden ist,6.von Arzneimitteln, für die die Europäische Gemeinschaft oder die Europäische Union eine Genehmigung für das Inverkehrbringen erteilt hat nach Artikel 3 Absatz 1 oder Absatz 2 der Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung von Unionsverfahren für die Genehmigung und Überwachung von Human- und Tierarzneimitteln und zur Errichtung einer Europäischen Arzneimittel-Agentur (ABl. L 136 vom 30.4.2004, S. 1), die zuletzt durch die Verordnung (EU) 2019/5 (ABl. L 4 vom 7.1.2019, S. 24) geändert worden ist,7.von homöopathischen Arzneimitteln, die gemäß § 39 Absatz 1 oder Absatz 2a des Arzneimittelgesetzes registriert sind oder die gemäß § 1 der Verordnung über Standardregistrierungen von Arzneimitteln vom 3. Dezember 1982 (BGBl. I S. 1602), die zuletzt durch Artikel 1 der Verordnung vom 7. Juli 2007 (BGBl. I S. 1387) geändert worden ist, von der Registrierung freigestellt sind,8.von Arzneimitteln, die bei einer klinischen Prüfung angewendet werden, die a)nach Maßgabe des § 42 Absatz 1 des Arzneimittelgesetzes von der zuständigen Ethik-Kommission zustimmend bewertet worden ist undb)nach Maßgabe des § 42 Absatz 2 des Arzneimittelgesetzes von der zuständigen Bundesoberbehörde genehmigt worden ist, oder9.von Arzneimitteln, bei denen die als Wirkstoff oder Hilfsstoff verwendeten Frischzellen ausschließlich auf der Basis stoffbezogener Monographien des Europäischen Arzneibuchs hergestellt worden sind.(2) Vom Verbot ausgenommen ist auch die Verwendung von Frischzellen bei der Herstellung von Arzneimitteln, für die gestellt worden ist 1.ein Antrag auf Genehmigung für Arzneimittel für neuartige Therapien nach § 4b Absatz 3 des Arzneimittelgesetzes,2.ein Antrag nach § 22 Absatz 1 des Arzneimittelgesetzes auf Zulassung bei der zuständigen Bundesoberbehörde oder ein Antrag nach Artikel 4 der Verordnung (EG) Nr. 726/2004 auf Genehmigung bei der Europäischen Arzneimittel-Agentur, oder3.ein Antrag nach § 42 Absatz 1 Satz 1 oder Satz 2 des Arzneimittelgesetzes auf zustimmende Bewertung einer klinischen Prüfung sowie ein Antrag nach § 42 Absatz 2 Satz 1 des Arzneimittelgesetzes auf Genehmigung derselben klinischen Prüfung.Die Ausnahme vom Verbot gilt für die Zwecke der späteren Verwendung gemäß dem Antrag. Sie gilt ab dem Zeitpunkt, an dem der antragstellenden Person eine Bestätigung über den Eingang vollständiger Antragsunterlagen der Behörde vorliegt, die für die Entscheidung über die nach den Nummern 1 bis 3 gestellten Anträge zuständig ist. Sie gilt bis zu dem Zeitpunkt der Rücknahme des Antrags oder der Bekanntgabe der Versagung des Antrags.
+(1) Vom Verbot ausgenommen ist die Verwendung von Frischzellen bei der Herstellung
+
+1. von Sera nach § 4 Absatz 3 des Arzneimittelgesetzes,
+
+2. von Allergenen nach § 4 Absatz 5 des Arzneimittelgesetzes,
+
+3. von Arzneimitteln für neuartige Therapien, die nach § 4b Absatz 3 des Arzneimittelgesetzes genehmigt worden sind,
+
+4. von Arzneimitteln, die nach § 21 Absatz 2 Nummer 6 des Arzneimittelgesetzes einer Zulassung nicht bedürfen,
+
+5. von Arzneimitteln, für die nach § 25 des Arzneimittelgesetzes von der zuständigen Bundesoberbehörde eine Zulassung erteilt worden ist,
+
+6. von Arzneimitteln, für die die Europäische Gemeinschaft oder die Europäische Union eine Genehmigung für das Inverkehrbringen erteilt hat nach Artikel 3 Absatz 1 oder Absatz 2 der Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung von Unionsverfahren für die Genehmigung und Überwachung von Human- und Tierarzneimitteln und zur Errichtung einer Europäischen Arzneimittel-Agentur (ABl. L 136 vom 30.4.2004, S. 1), die zuletzt durch die Verordnung (EU) 2019/5 (ABl. L 4 vom 7.1.2019, S. 24) geändert worden ist,
+
+7. von homöopathischen Arzneimitteln, die gemäß § 39 Absatz 1 oder Absatz 2a des Arzneimittelgesetzes registriert sind oder die gemäß § 1 der Verordnung über Standardregistrierungen von Arzneimitteln vom 3. Dezember 1982 (BGBl. I S. 1602), die zuletzt durch Artikel 1 der Verordnung vom 7. Juli 2007 (BGBl. I S. 1387) geändert worden ist, von der Registrierung freigestellt sind,
+
+8. von Arzneimitteln, die bei einer klinischen Prüfung angewendet werden, die a)nach Maßgabe des § 42 Absatz 1 des Arzneimittelgesetzes von der zuständigen Ethik-Kommission zustimmend bewertet worden ist undb)nach Maßgabe des § 42 Absatz 2 des Arzneimittelgesetzes von der zuständigen Bundesoberbehörde genehmigt worden ist, oder nach Maßgabe des § 42 Absatz 1 des Arzneimittelgesetzes von der zuständigen Ethik-Kommission zustimmend bewertet worden ist und nach Maßgabe des § 42 Absatz 2 des Arzneimittelgesetzes von der zuständigen Bundesoberbehörde genehmigt worden ist, oder
+
+9. von Arzneimitteln, bei denen die als Wirkstoff oder Hilfsstoff verwendeten Frischzellen ausschließlich auf der Basis stoffbezogener Monographien des Europäischen Arzneibuchs hergestellt worden sind.
+
+(2) Vom Verbot ausgenommen ist auch die Verwendung von Frischzellen bei der Herstellung von Arzneimitteln, für die gestellt worden ist
+
+1. ein Antrag auf Genehmigung für Arzneimittel für neuartige Therapien nach § 4b Absatz 3 des Arzneimittelgesetzes,
+
+2. ein Antrag nach § 22 Absatz 1 des Arzneimittelgesetzes auf Zulassung bei der zuständigen Bundesoberbehörde oder ein Antrag nach Artikel 4 der Verordnung (EG) Nr. 726/2004 auf Genehmigung bei der Europäischen Arzneimittel-Agentur, oder
+
+3. ein Antrag nach § 42 Absatz 1 Satz 1 oder Satz 2 des Arzneimittelgesetzes auf zustimmende Bewertung einer klinischen Prüfung sowie ein Antrag nach § 42 Absatz 2 Satz 1 des Arzneimittelgesetzes auf Genehmigung derselben klinischen Prüfung.
 
 ### § 4 — Hinweis auf Strafvorschriften des Arzneimittelgesetzes
 

@@ -16,13 +16,13 @@ Der Bund wird unter dem Namen "Deutsche Bundesstiftung Umwelt" eine rechtsfähig
 
 (2) Zur Erfüllung ihrer Aufgabe soll die Stiftung insbesondere fördern:
 
--
+- Forschung, Entwicklung und Innovation im Bereich umwelt- und gesundheitsfreundlicher Verfahren und Produkte unter besonderer Berücksichtigung kleiner und mittlerer Unternehmen;
 
--
+- Austausch von Wissen über die Umwelt zwischen Wissenschaft, Wirtschaft und anderen öffentlichen oder privaten Stellen; Vorhaben zur Vermittlung von Wissen über die Umwelt;
 
--
+- innerdeutsche Kooperationsprojekte in der Anwendung von Umwelttechnik vorwiegend durch mittelständische Unternehmen einschließlich Aus- und Weiterbildungsmaßnahmen;
 
--
+- Bewahrung und Sicherung nationalen Kulturgutes im Hinblick auf schädliche Umwelteinflüsse (Modellvorhaben).
 
 (3) Die Stiftung soll jährlich einen Umweltpreis vergeben.
 

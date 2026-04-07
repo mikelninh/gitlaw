@@ -11,22 +11,14 @@ Auf Grund des § 14 des Gesetzes über Groß-Hamburg und andere Gebietsbereinigu
 
 ### § 1
 
-(1) Die nach dem Zusatzvertrag mit Hamburg (Nachtrag vom 18. Februar 1922, Reichsgesetzbl. I S. 222, in der Fassung des Zweiten Nachtrags vom 22. Dezember 1928, Reichsgesetzbl. 1929 II S. 1) zu §§ 11 und 12 dem Land Hamburg übertragene Verwaltung und Unterhaltung des Elblaufs wird von der bisherigen Grenze bei Blankenese gegenüber der Einmündung der Alten Süderelbe erweitert. Die Bestimmungen des Zusatzvertrags zu §§ 11 und 12 Ziffer 1, 2 und 3 finden auf das erweiterte Gebiet entsprechende Anwendung.
-
-(2) Die Verwaltung und Unterhaltung des Leitdamms und des Grenzstackes Nr. 81 sowie der beiden Leuchtfeuer "Tinsdahl" und "Wittenbergen" verbleibt dem Reich (Reichswasserstraßenverwaltung).
+(1) Die nach dem Zusatzvertrag mit Hamburg (Nachtrag vom 18. Februar 1922, Reichsgesetzbl. I S. 222, in der Fassung des Zweiten Nachtrags vom 22. Dezember 1928, Reichsgesetzbl. 1929 II S. 1) zu §§ 11 und 12 dem Land Hamburg übertragene Verwaltung und Unterhaltung des Elblaufs wird von der bisherigen Grenze bei Blankenese gegenüber der Einmündung der Alten Süderelbe
 
 ### § 2
 
-Der Reichsverkehrsminister kann im Einvernehmen mit dem Reichsminister der Finanzen die Übertragung der Verwaltung oder Unterhaltung der Reichswasserstraßen im Gebiet Groß-Hamburg abweichend von der Regelung des § 1 oder der sonstigen gesetzlichen Regelung anordnen oder widerrufen.
-
 ### § 3
-
-Der Reichsverkehrsminister erläßt die zur Durchführung ... dieser Verordnung erforderlichen Rechts- und Verwaltungsvorschriften.
 
 ### § 4
 
 Diese Verordnung tritt am 1. Juli 1937 in Kraft.
 
 ### Schlußformel
-
-Der Reichsminister des Innern Der Reichsverkehrsminister

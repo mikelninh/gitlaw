@@ -12,49 +12,49 @@ Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des Bundesbeamtengesetzes
 
 ### § 1 — Widerspruchsbescheid
 
-(1) Die Zuständigkeit für den Erlass des Widerspruchsbescheids wird übertragen soweit diese oder ihnen nachgeordnete Behörden die Maßnahme getroffen oder abgelehnt haben.
+(1) Die Zuständigkeit für den Erlass des Widerspruchsbescheids wird übertragen
 
-1.
+1. dem Bundesamt für Migration und Flüchtlinge,
 
-2.
+2. dem Bundesamt für Verfassungsschutz,
 
-3.
+3. dem Bundeskriminalamt,
 
-4.
+4. dem Bundespolizeipräsidium,
 
-5.
+5. dem Bundesverwaltungsamt,
 
-6.
+6. dem Statistischen Bundesamt,
 
-7.
+7. dem Bundesamt für Sicherheit in der Informationstechnik,
 
-8.
+8. dem Bundesamt für Bevölkerungsschutz und Katastrophenhilfe,
 
-9.
+9. dem Bundesamt für zentrale Dienste und offene Vermögensfragen,
 
-10.
+10. der Bundesanstalt Technisches Hilfswerk,
 
-11.
+11. dem Bundesausgleichsamt,
 
-12.
+12. den Bundespolizeidirektionen,
 
-13.
+13. der Bundeszentrale für politische Bildung,
 
-14.
+14. dem Bundesamt für Kartographie und Geodäsie,
 
-15.
+15. der Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben,
 
-16.
+16. der Hochschule des Bundes für öffentliche Verwaltung,
 
-17.
+17. der Zentralen Stelle für Informationstechnik im Sicherheitsbereich,
 
-18.
+18. der Bundespolizeiakademie,
 
-19.
+19. dem Beschaffungsamt des Bundesministeriums des Innern,
 
-20.
+20. dem Bundesinstitut für Bevölkerungsforschung,
 
-21.
+21. dem Bundesinstitut für Sportwissenschaft,
 
 (2) Ist die Behördenleiterin oder der Behördenleiter selbst betroffen, erlässt das Bundesministerium des Innern den Widerspruchsbescheid.
 
@@ -75,5 +75,3 @@ Das Bundesministerium des Innern kann im Einzelfall die Zuständigkeit nach § 1
 (2) Gleichzeitig tritt die Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und für die Vertretung der Bundesrepublik Deutschland bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums des Innern vom 27. Dezember 2016 (BGBl. I S. 3453) außer Kraft.
 
 ### Schlussformel
-
-Der Bundesminister des Innern

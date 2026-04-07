@@ -19,19 +19,19 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft und das Bundesministerium für Verkehr und digitale Infrastruktur werden ermächtigt, für den Bereich nach Artikel 8 Abs. 2 des Übereinkommens für solche Fahrzeuge oder Geräte, die wegen ihrer Größe oder Art nur in Küstengewässern verwendet werden, durch Rechtsverordnung ohne Zustimmung des Bundesrates besondere Bestimmungen zu erlassen oder Befreiungen vorzusehen (Artikel 8 Abs. 3 des Übereinkommens) in bezug auf
 
-1.
+1. die zu verwendenden Sichtzeichen und Schallsignale (Anlage III des Übereinkommens),
 
-2.
+2. die Kennzeichnung von Netzen, Leinen und sonstigen Geräten (Anlage IV des Übereinkommens),
 
-3.
+3. das Verhalten der Fahrzeuge (Anlage V des Übereinkommens).
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft und das Bundesministerium für Verkehr und digitale Infrastruktur werden ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Änderungen der Anlagen des Übereinkommens nach Maßgabe seines Artikels 11, die der Sicherstellung der Ordnung und eines geregelten Verhaltens auf den Fangplätzen dienen, in Kraft zu setzen und sie in die Bußgeldvorschriften des Artikels 6 Abs. 1 Nr. 1 bis 3 und Abs. 2 einzubeziehen.
 
-(3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung ganz oder zum Teil auf oberste Landesbehörden übertragen.
+(3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 
-1.
+1. die Registrierung der Fischereifahrzeuge, die Zuteilung der Kennzeichen und die Ausstellung der Urkunden (Artikel 3 und Anlage II des Übereinkommens) zu regeln,
 
-2.
+2. für den Bereich nach Artikel 8 Abs. 2 des Übereinkommens für solche Fahrzeuge oder Geräte, die wegen ihrer Größe oder Art nur in Küstengewässern verwendet werden, besondere Bestimmungen zu erlassen oder Befreiungen vorzusehen in bezug auf die Registrierung und Kennzeichnung von Fischereifahrzeugen (Artikel 8 Abs. 3 und Anlage II des Übereinkommens).
 
 (4) Die Landesregierungen oder die von ihnen bestimmten obersten Landesbehörden unterrichten das Bundesministerium für Ernährung und Landwirtschaft über die Zuteilung der Kennzeichen an die Fischereifahrzeuge.
 
@@ -55,31 +55,23 @@ Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) 
 
 ### Art 6
 
-(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig zuwiderhandelt.
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. als Eigentümer, Besitzer oder Führer eines Fischereifahrzeugs einer Vorschrift der Regel 1 Abs. 1, 2 oder 3 der Anlage II des Übereinkommens über das Aufmalen der Buchstaben, der Nummer und des Namens des Fischereifahrzeugs oder deren Erkennbarkeit,
 
-2.
+2. als Führer eines Fischereifahrzeugsa)der Regel 2 Abs. 1 der Anlage II des Übereinkommens über das Mitführen der Urkunde an Bord,b)einer Vorschrift der Regel 1 Abs. 2 Satz 1, Abs. 4 Satz 1, der Regel 2 Abs. 1 und 3 oder der Regel 3 Abs. 1 der Anlage III des Übereinkommens über das Führen, Zeigen oder Setzen von Lichtern, der Flagge oder eines Scheinwerfers,c)der Vorschrift der Regel 4 der Anlage III des Übereinkommens über das Benutzen von Schallsignalen,d)einer Vorschrift der Regel 1 Abs. 1, Abs. 2 Satz 1 und 2, Abs. 3 und 5 oder der Regel 2 Abs. 1 der Anlage IV des Übereinkommens über die Kennzeichnung von Netzen, Leinen und sonstigen Geräten, der Regel 2 Abs. 1 der Anlage II des Übereinkommens über das Mitführen der Urkunde an Bord, einer Vorschrift der Regel 1 Abs. 2 Satz 1, Abs. 4 Satz 1, der Regel 2 Abs. 1 und 3 oder der Regel 3 Abs. 1 der Anlage III des Übereinkommens über das Führen, Zeigen oder Setzen von Lichtern, der Flagge oder eines Scheinwerfers, der Vorschrift der Regel 4 der Anlage III des Übereinkommens über das Benutzen von Schallsignalen, einer Vorschrift der Regel 1 Abs. 1, Abs. 2 Satz 1 und 2, Abs. 3 und 5 oder der Regel 2 Abs. 1 der Anlage IV des Übereinkommens über die Kennzeichnung von Netzen, Leinen und sonstigen Geräten,
 
-a)
+3. als Führer eines Fahrzeugs einer Vorschrift der Regeln 2 bis 6 und 7 Abs. 1, 2, 1. Halbsatz, und Abs. 3 der Anlage V des Übereinkommens über das Verhalten der Fahrzeuge,
 
-b)
-
-c)
-
-d)
-
-3.
-
-4.
+4. einer Rechtsverordnung nach Artikel 2 Abs. 1 oder Abs. 3 Nr. 2, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1, 2 Buchstabe a und Nr. 4, soweit die Rechtsverordnung auf Grund des Artikels 2 Abs. 3 Nr. 2 erlassen ist, mit einer Geldbuße bis zu tausendfünfhundert Euro, in den Fällen des Absatzes 1 Nr. 2 Buchstabe b bis d, Nr. 3 und Nr. 4, soweit die Rechtsverordnung auf Grund des Artikels 2 Abs. 1 erlassen ist, mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten sind
 
-1.
+1. die nach Landesrecht zuständigen Behörden bei Ordnungswidrigkeiten nach Absatz 1 Nr. 1, 2 Buchstabe a, Nr. 3 und Nr. 4 in Verbindung mit Artikel 2 Abs. 3 Nr. 2, die binnenwärts der seewärtigen Begrenzung des Küstenmeeres begangen worden sind,
 
-2.
+2. das Bundesministerium für Verkehr und digitale Infrastruktur in den übrigen Fällen; es kann seine Zuständigkeit durch Rechtsverordnung ohne Zustimmung des Bundesrates auf nachgeordnete Behörden seines Bereiches übertragen.
 
 ### Art 7
 

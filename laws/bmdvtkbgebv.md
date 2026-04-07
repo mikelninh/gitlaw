@@ -14,23 +14,23 @@ Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des 
 
 (1) Die Bundesnetzagentur, das Bundesamt für Sicherheit in der Informationstechnik und die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit erheben in ihrem Zuständigkeitsbereich nach Maßgabe dieser Verordnung Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen, die aufgrund der folgenden Rechtsvorschriften erbracht werden:
 
-1.
+1. Telekommunikationsgesetz vom 23. Juni 2021 (BGBl. I S. 1858), das zuletzt durch Artikel 5 des Gesetzes vom 14. März 2023 (BGBl. 2023 I Nr. 71) geändert worden ist, mit Ausnahme der in § 223 Absatz 1 des Telekommunikationsgesetzes genannten Gebühren, in der jeweils geltenden Fassung,
 
-2.
+2. Verordnung (EU) 2015/2120 des Europäischen Parlaments und des Rates vom 25. November 2015 über Maßnahmen zum Zugang zum offenen Internet und zu Endkundenentgelten für regulierte intra-EU-Kommunikation sowie zur Änderung der Richtlinie 2002/22/EG und der Verordnung (EU) Nr. 531/2012, in der jeweils geltenden Fassung,
 
-3.
+3. Verordnung (EU) Nr. 2022/612 des Europäischen Parlaments und des Rates vom 6. April 2022 über das Roaming in öffentlichen Mobilfunknetzen in der Union, in der jeweils geltenden Fassung,
 
-4.
+4. Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (eIDAS-Verordnung), in der jeweils geltenden Fassung,
 
-5.
+5. Vertrauensdienstegesetz vom 18. Juli 2017 (BGBl. I S. 2745), das durch Artikel 2 des Gesetzes vom 18. Juli 2017 (BGBl. I S. 2745) geändert worden ist, in der jeweils geltenden Fassung,
 
-6.
+6. Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz vom 23. Juni 2021 (BGBl. I S. 1982; 2022 I S. 1045), das zuletzt durch Artikel 8 des Gesetzes vom 6. Mai 2024 (BGBl. 2024 I Nr. 149) geändert worden ist,
 
-7.
+7. Einwilligungsverwaltungsverordnung vom 6. Februar 2025 (BGBl. 2025 I Nr. 32),
 
-8.
+8. Amateurfunkgesetz vom 23. Juni 1997 (BGBl. I S. 1494), das zuletzt durch Artikel 53 des Gesetzes vom 23. Juni 2021 (BGBl. I S. 1858) geändert worden ist, in der jeweils geltenden Fassung,
 
-9.
+9. Amateurfunkverordnung vom 15. Februar 2005 (BGBl. I S. 242), die zuletzt durch Artikel 1 der Verordnung vom 21. Juni 2023 (BGBl. 2023 I Nr. 160) geändert worden ist, in der jeweils geltenden Fassung.
 
 (2) Die Erhebung von Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen, die von der Bundesnetzagentur, dem Bundesamt für Sicherheit in der Informationstechnik und der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit aufgrund anderer als der in Absatz 1 genannten Rechtsvorschriften erbracht werden, wird durch diese Verordnung nicht ausgeschlossen.
 
@@ -74,32 +74,12 @@ Abschnitt 1 Unterabschnitt 5 Nummer 5.8 bis 5.10 der Anlage ist auf alle dort ge
 
 ### Anlage — (zu § 2 Absatz 1)
 
-Abschnitt 1
+Abschnitt 1 Telekommunikationsgesetz (TKG) und Verordnung (EU) 2015/2120 des Europäischen Parlaments und des Rates vom 25. November 2015 über Maßnahmen zum Zugang zum offenen Internet und zu Endkundenentgelten für regulierte intra-EU-Kommunikation sowie zur Änderung der Richtlinie 2002/22/EG über den Universaldienst und der Verordnung (EU) Nr. 2022/612 vom 6. April 2022 über das Roaming in öffentlichen Mobilfunknetzen in der Union Unterabschnitt 1NummerierungUnterabschnitt 2Leistungen im Zusammenhang mit den Informationen über Infrastruktur nach § 79 TKGUnterabschnitt 3Koordinierung, Anmeldung, Übertragung und Notifizierung von Satellitensystemen nach § 95 TKGUnterabschnitt 4Entscheidung über die Übertragung von Nutzungsberechtigungen für öffentliche Verkehrswege nach § 125 Absatz 2 TKG (Wegerecht)Unterabschnitt 5Beschlusskammerentscheidungen nach TKGUnterabschnitt 6Kontrolle und Durchsetzung der Einhaltung der Vorschriften des Teils 10 Abschnitt 1 TKG (Öffentliche Sicherheit)Unterabschnitt 7Kontrolle und Durchsetzung der Einhaltung der Vorschriften des Teils 10 Abschnitt 2 TKG (Notfallvorsorge)Unterabschnitt 8NetzneutralitätUnterabschnitt 9Intra-EU-KommunikationUnterabschnitt 10Roaming Nummerierung Leistungen im Zusammenhang mit den Informationen über Infrastruktur nach § 79 TKG Koordinierung, Anmeldung, Übertragung und Notifizierung von Satellitensystemen nach § 95 TKG Entscheidung über die Übertragung von Nutzungsberechtigungen für öffentliche Verkehrswege nach § 125 Absatz 2 TKG (Wegerecht) Beschlusskammerentscheidungen nach TKG Kontrolle und Durchsetzung der Einhaltung der Vorschriften des Teils 10 Abschnitt 1 TKG (Öffentliche Sicherheit) Kontrolle und Durchsetzung der Einhaltung der Vorschriften des Teils 10 Abschnitt 2 TKG (Notfallvorsorge) Netzneutralität Intra-EU-Kommunikation Roaming
 
-Unterabschnitt 1
+Abschnitt 2 Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz (TDDDG)
 
-Unterabschnitt 2
+Abschnitt 3 Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (eIDAS-Verordnung) und Vertrauensdienstegesetz (VDG)
 
-Unterabschnitt 3
-
-Unterabschnitt 4
-
-Unterabschnitt 5
-
-Unterabschnitt 6
-
-Unterabschnitt 7
-
-Unterabschnitt 8
-
-Unterabschnitt 9
-
-Unterabschnitt 10
-
-Abschnitt 2
-
-Abschnitt 3
-
-Abschnitt 4
+Abschnitt 4 Amateurfunkgesetz (AFuG) und Amateurfunkverordnung (AFuV)
 
 > (+++ Anlage Abschnitte 1 und 2: Zur Anwendung vgl. § 6 Abs. 1 +++)

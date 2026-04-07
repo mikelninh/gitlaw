@@ -14,33 +14,33 @@ Auf Grund des § 3 Abs. 5 des Gesetzes über das Verwaltungsverfahren der Kriegs
 
 (1) Die Versorgung der Opfer des Krieges, die ihren Wohnsitz oder gewöhnlichen Aufenthalt im Ausland haben, wird durchgeführt für Personen
 
-a)
+a) in Dänemark, Finnland, Island, Norwegen und Schweden vom Versorgungsamt Schleswig,
 
-b)
+b) in Belgien und in den Niederlanden vom Versorgungsamt Aachen,
 
-c)
+c) in Luxemburg vom Versorgungsamt Trier,
 
-d)
+d) in Andorra, Frankreich und Monaco vom Versorgungsamt Saarland,
 
-e)
+e) in Portugal und Spanien vom Versorgungsamt Karlsruhe,
 
-f)
+f) in Liechtenstein und in der Schweiz vom Versorgungsamt Freiburg - Außenstelle Radolfzell -,
 
-g)
+g) in Griechenland, Italien, Österreich, San Marino und im Vatikan vom Versorgungsamt München I,
 
-h)
+h) in Albanien, Jugoslawien und der Tschechoslowakei vom Versorgungsamt Fulda,
 
-i)
+i) in Rumänien vom Versorgungsamt Gelsenkirchen,
 
-k)
+k) in Ungarn vom Versorgungsamt Münster,
 
-l)
+l) in dem Teil Polens, der nach dem Stande vom 31. Dezember 1937 zum Staatsgebiet des Deutschen Reiches gehört hat, wenn es sich um Beschädigte handelt, vom Versorgungsamt Münster, wenn es sich um Witwen, Witwer oder Waisen handelt, vom Versorgungsamt Gelsenkirchen, wenn es sich um Eltern handelt, vom Versorgungsamt Hamburg,
 
-m)
+m) in Kanada, den USA, Lateinamerika und der Karibik vom Versorgungsamt Bremen,
 
-n)
+n) in Großbritannien, Irland, Malta, der Türkei und dem übrigen außereuropäischen Ausland vom Versorgungsamt Hamburg,
 
-o)
+o) im übrigen europäischen Ausland vom Versorgungsamt Ravensburg.
 
 (2) Für die Durchführung des Vertrages vom 29. Mai 1962 zwischen der Bundesrepublik Deutschland und dem Spanischen Staat über Kriegsopferversorgung (Gesetz vom 31. März 1965 - BGBl. 1965 II S. 273) ist das Versorgungsamt Karlsruhe auch dann zuständig, wenn der Antragsteller oder Versorgungsberechtigte seinen Wohnsitz oder gewöhnlichen Aufenthalt nicht in Spanien hat.
 

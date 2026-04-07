@@ -8,7 +8,23 @@
 
 ### § 1 — Stellenbesetzungssperre
 
-(1) Bei der Bundesagentur für Arbeit, der Bundesversicherungsanstalt für Angestellte, der Bundesknappschaft, der Landesversicherungsanstalt Oldenburg-Bremen, den übrigen bundesunmittelbaren Sozialversicherungsträgern (§ 90 Abs. 1 des Vierten Buches Sozialgesetzbuch) sowie der Bundesanstalt für Güterfernverkehr dürfen Planstellen für Beamte, die durch Beendigung des Beamtenverhältnisses zum bisherigen Dienstherrn am 1. Januar 1984 frei sind oder danach frei werden, sechs Monate nach Freiwerden nicht besetzt werden (Stellenbesetzungssperre).(2) Absatz 1 gilt entsprechend für Stellen von Angestellten sowie für Arbeiter.(3) Die Besetzungssperre gilt nicht für 1.Anstellungen von Beamten auf Probe im Eingangsamt sowie für Auszubildende, die in derselben Verwaltung in ein Arbeitsverhältnis übernommen werden, 2.Einstellungen von Schwerbehinderten, 3.Behörden- (Dienststellen-) Leiter. (4) Die Dienstherrn können Ausnahmen von der Stellenbesetzungssperre zulassen. Die Zahl der Ausnahmen darf 10 vom Hundert der im Haushaltsjahr bei dem jeweiligen Dienstherrn freiwerdenden Stellen nicht übersteigen.(5) Die Absätze 1, 3 und 4 gelten entsprechend für die Deutsche Bundespost und die Deutsche Bundesbahn.(6) Die Stellenbesetzungssperre gilt nur für den Zeitraum, in dem für die Bundesverwaltung auf Grund des Haushaltsgesetzes eine Stellenbesetzungssperre besteht.
+(1) Bei der Bundesagentur für Arbeit, der Bundesversicherungsanstalt für Angestellte, der Bundesknappschaft, der Landesversicherungsanstalt Oldenburg-Bremen, den übrigen bundesunmittelbaren Sozialversicherungsträgern (§ 90 Abs. 1 des Vierten Buches Sozialgesetzbuch) sowie der Bundesanstalt für Güterfernverkehr dürfen Planstellen für Beamte, die durch Beendigung des Beamtenverhältnisses zum bisherigen Dienstherrn am 1. Januar 1984 frei sind oder danach frei werden, sechs Monate nach Freiwerden nicht besetzt werden (Stellenbesetzungssperre).
+
+(2) Absatz 1 gilt entsprechend für Stellen von Angestellten sowie für Arbeiter.
+
+(3) Die Besetzungssperre gilt nicht für
+
+1. Anstellungen von Beamten auf Probe im Eingangsamt sowie für Auszubildende, die in derselben Verwaltung in ein Arbeitsverhältnis übernommen werden,
+
+2. Einstellungen von Schwerbehinderten,
+
+3. Behörden- (Dienststellen-) Leiter.
+
+(4) Die Dienstherrn können Ausnahmen von der Stellenbesetzungssperre zulassen. Die Zahl der Ausnahmen darf 10 vom Hundert der im Haushaltsjahr bei dem jeweiligen Dienstherrn freiwerdenden Stellen nicht übersteigen.
+
+(5) Die Absätze 1, 3 und 4 gelten entsprechend für die Deutsche Bundespost und die Deutsche Bundesbahn.
+
+(6) Die Stellenbesetzungssperre gilt nur für den Zeitraum, in dem für die Bundesverwaltung auf Grund des Haushaltsgesetzes eine Stellenbesetzungssperre besteht.
 
 ### § 2 — Wegfall des Essenszuschusses
 

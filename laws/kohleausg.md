@@ -12,8 +12,6 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 ### Inhaltsübersicht
 
-Artikel 1Gesetz zur Reduzierung und zur Beendigung der Kohleverstromung (Kohleverstromungsbeendigungsgesetz – KVBG)Artikel 2Änderung des Treibhausgas-EmissionshandelsgesetzesArtikel 3Änderung des EinkommensteuergesetzesArtikel 4Änderung des EnergiewirtschaftsgesetzesArtikel 5Änderung der Kraft-Wärme-Kopplungsgesetz-GebührenverordnungArtikel 6Änderung des Erneuerbare-Energien-GesetzesArtikel 7Änderung des Kraft-Wärme-KopplungsgesetzesArtikel 8Änderung der KWK-AusschreibungsverordnungArtikel 9Änderung des Sechsten Buches SozialgesetzbuchArtikel 10Beihilferechtlicher VorbehaltArtikel 11Inkrafttreten
-
 ### Art 1 — Gesetz zur Reduzierung und zur Beendigung der Kohleverstromung (Kohleverstromungsbeendigungsgesetz - KVBG)
 
 ### (XXXX) Art 2 bis 9 — Änderungsvorschriften
@@ -24,4 +22,8 @@ Die Regelungen zur Entschädigung für die Stilllegung von Braunkohleanlagen nac
 
 ### Art 11 — Inkrafttreten
 
-(1) Dieses Gesetz tritt vorbehaltlich der Absätze 2 und 3 am Tag nach der Verkündung in Kraft.(2) Abweichend von Absatz 1 tritt Artikel 4 Nummer 5 Buchstabe a und c und Nummer 8 am 1. Januar 2021 in Kraft.(3) Abweichend von Absatz 1 tritt Artikel 7 Nummer 6 Buchstabe a Doppelbuchstabe bb und Nummer 28 zum 1. Januar 2023 in Kraft.
+(1) Dieses Gesetz tritt vorbehaltlich der Absätze 2 und 3 am Tag nach der Verkündung in Kraft.
+
+(2) Abweichend von Absatz 1 tritt Artikel 4 Nummer 5 Buchstabe a und c und Nummer 8 am 1. Januar 2021 in Kraft.
+
+(3) Abweichend von Absatz 1 tritt Artikel 7 Nummer 6 Buchstabe a Doppelbuchstabe bb und Nummer 28 zum 1. Januar 2023 in Kraft.

@@ -28,15 +28,15 @@ Die Richter stehen im Dienst des Bundes oder eines Landes.
 
 (2) Außer Aufgaben der rechtsprechenden Gewalt darf ein Richter jedoch wahrnehmen
 
-1.
+1. Aufgaben der Gerichtsverwaltung,
 
-2.
+2. andere Aufgaben, die auf Grund eines Gesetzes Gerichten oder Richtern zugewiesen sind,
 
-3.
+3. Aufgaben der Forschung und Lehre an einer wissenschaftlichen Hochschule, öffentlichen Unterrichtsanstalt oder amtlichen Unterrichtseinrichtung,
 
-4.
+4. Prüfungsangelegenheiten,
 
-5.
+5. den Vorsitz in Einigungsstellen im Sinne des § 73 Absatz 2 Satz 1 des Bundespersonalvertretungsgesetzes vom 9. Juni 2021 (BGBl. I S. 1614).
 
 ## Abschnitt 2: Befähigung zum Richteramt
 
@@ -60,15 +60,15 @@ Die Richter stehen im Dienst des Bundes oder eines Landes.
 
 (1) Der Vorbereitungsdienst dauert zwei Jahre.
 
-(2) Die Ausbildung findet bei folgenden Pflichtstationen statt: sowie bei einer oder mehreren Wahlstationen, bei denen eine sachgerechte Ausbildung gewährleistet ist.
+(2) Die Ausbildung findet bei folgenden Pflichtstationen statt:
 
-1.
+1. einem ordentlichen Gericht in Zivilsachen,
 
-2.
+2. einer Staatsanwaltschaft oder einem Gericht in Strafsachen,
 
-3.
+3. einer Verwaltungsbehörde,
 
-4.
+4. einem Rechtsanwalt
 
 (3) Die Ausbildung kann in angemessenem Umfang bei überstaatlichen, zwischenstaatlichen oder ausländischen Ausbildungsstellen oder ausländischen Rechtsanwälten stattfinden. Eine Ausbildung an einer rechtswissenschaftlichen Fakultät sowie an der Deutschen Hochschule für Verwaltungswissenschaften Speyer kann angerechnet werden. Das Landesrecht kann bestimmen, dass die Ausbildung nach Absatz 2 Nr. 1 zum Teil bei einem Gericht der Arbeitsgerichtsbarkeit, die Ausbildung nach Absatz 2 Nr. 3 zum Teil bei einem Gericht der Verwaltungs-, der Finanz- oder der Sozialgerichtsbarkeit stattfinden kann.
 
@@ -76,11 +76,11 @@ Die Richter stehen im Dienst des Bundes oder eines Landes.
 
 (5) Während der Ausbildung können Ausbildungslehrgänge bis zu einer Gesamtdauer von drei Monaten vorgesehen werden.
 
-(6) Die Ableistung des Vorbereitungsdienstes in Teilzeit ist auf Antrag zu eröffnen im Falle der tatsächlichen Betreuung oder Pflege Liegen besondere persönliche Gründe vor, die in Art und Umfang den in Satz 1 genannten Gründen vergleichbar sind und eine besondere Härte darstellen, kann auf Antrag die Ableistung des Vorbereitungsdienstes in Teilzeit eröffnet werden. Für die Ableistung in Teilzeit wird der regelmäßige Dienst um ein Fünftel reduziert. Die Dauer des Vorbereitungsdienstes in Teilzeit beträgt zweieinhalb Jahre. Die Zeit der Verlängerung des Vorbereitungsdienstes ist in angemessener Weise auf die Pflichtstationen zu verteilen.
+(6) Die Ableistung des Vorbereitungsdienstes in Teilzeit ist auf Antrag zu eröffnen im Falle der tatsächlichen Betreuung oder Pflege
 
-1.
+1. mindestens eines Kindes unter 18 Jahren oder
 
-2.
+2. eines laut ärztlichen Gutachtens pflegebedürftigen Ehegatten, Lebenspartners oder in gerader Linie Verwandten.
 
 (7) Das Nähere regelt das Landesrecht.
 
@@ -124,29 +124,29 @@ Richter können nur als Richter auf Lebenszeit, auf Zeit, auf Probe oder kraft A
 
 In das Richterverhältnis darf nur berufen werden, wer
 
-1.
+1. Deutscher im Sinne des Artikels 116 des Grundgesetzes ist,
 
-2.
+2. die Gewähr dafür bietet, dass er jederzeit für die freiheitliche demokratische Grundordnung im Sinne des Grundgesetzes eintritt,
 
-3.
+3. die Befähigung zum Richteramt besitzt (§§ 5 bis 7) und
 
-4.
+4. über die erforderliche soziale Kompetenz verfügt.
 
 ### § 10 — Ernennung auf Lebenszeit
 
 (1) Zum Richter auf Lebenszeit kann ernannt werden, wer nach Erwerb der Befähigung zum Richteramt mindestens drei Jahre im richterlichen Dienst tätig gewesen ist.
 
-(2) Auf die Zeit nach Absatz 1 können angerechnet werden Tätigkeiten Die Anrechnung von mehr als zwei Jahren dieser Tätigkeiten setzt besondere Kenntnisse und Erfahrungen des zu Ernennenden voraus.
+(2) Auf die Zeit nach Absatz 1 können angerechnet werden Tätigkeiten
 
-1.
+1. als Beamter des höheren Dienstes,
 
-2.
+2. im deutschen öffentlichen Dienst oder im Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung, wenn die Tätigkeit nach Art und Bedeutung der Tätigkeit in einem Amt des höheren Dienstes entsprochen hat,
 
-3.
+3. als habilitierter Lehrer des Rechts an einer deutschen wissenschaftlichen Hochschule,
 
-4.
+4. als Rechtsanwalt, Notar oder als Assessor bei einem Rechtsanwalt oder Notar,
 
-5.
+5. in anderen Berufen, wenn die Tätigkeit nach Art und Bedeutung wie die unter den Nummern 1 bis 4 genannten Tätigkeiten geeignet war, Kenntnisse und Erfahrungen für die Ausübung des Richteramts zu vermitteln.
 
 ### § 11 — Ernennung auf Zeit
 
@@ -186,11 +186,11 @@ Ein Richter auf Probe kann ohne seine Zustimmung nur bei einem Gericht, bei eine
 
 (2) Einer Ernennung bedarf es
 
-1.
+1. zur Begründung des Richterverhältnisses,
 
-2.
+2. zur Umwandlung des Richterverhältnisses in ein solches anderer Art (§ 8),
 
-3.
+3. zur Verleihung eines anderen Amtes mit anderem Endgrundgehalt.
 
 (3) In der Ernennungsurkunde müssen bei der Begründung des Richterverhältnisses die Worte "unter Berufung in das Richterverhältnis" mit dem Zusatz "auf Lebenszeit", "auf Zeit", "auf Probe" oder "kraft Auftrags" enthalten sein. Bei der Begründung eines Richterverhältnisses auf Zeit ist die Zeitdauer der Berufung in der Urkunde anzugeben.
 
@@ -206,11 +206,11 @@ Legt ein Richter sein Mandat nieder und bewirbt er sich zu diesem Zeitpunkt erne
 
 (2) Eine Ernennung ist ferner nichtig, wenn der Ernannte im Zeitpunkt der Ernennung
 
-1.
+1. nicht Deutscher im Sinne des Artikels 116 des Grundgesetzes war oder
 
-2.
+2. (weggefallen)
 
-3.
+3. nicht die Fähigkeit zur Bekleidung öffentlicher Ämter hatte.
 
 (3) Die Nichtigkeit einer Ernennung zum Richter auf Lebenszeit oder zum Richter auf Zeit kann erst geltend gemacht werden, nachdem ein Gericht sie rechtskräftig festgestellt hat.
 
@@ -218,13 +218,13 @@ Legt ein Richter sein Mandat nieder und bewirbt er sich zu diesem Zeitpunkt erne
 
 (1) Eine Ernennung ist zurückzunehmen,
 
-1.
+1. wenn der Ernannte nicht die Befähigung zum Richteramt besaß,
 
-2.
+2. wenn die gesetzlich vorgeschriebene Beteiligung eines Richterwahlausschusses unterblieben war und der Richterwahlausschuß die nachträgliche Bestätigung abgelehnt hat,
 
-3.
+3. wenn die Ernennung durch Zwang, arglistige Täuschung oder Bestechung herbeigeführt wurde oder
 
-4.
+4. wenn nicht bekannt war, daß der Ernannte ein Verbrechen oder Vergehen begangen hatte, das ihn der Berufung in das Richterverhältnis unwürdig erscheinen läßt, und er deswegen rechtskräftig zu einer Strafe verurteilt war oder wird.
 
 (2) Eine Ernennung kann zurückgenommen werden, wenn nicht bekannt war, daß der Ernannte in einem gerichtlichen Verfahren aus dem Dienst oder Beruf entfernt oder zum Verlust der Versorgungsbezüge verurteilt worden war.
 
@@ -248,27 +248,27 @@ Das allgemeine Dienstalter eines Richters bestimmt sich nach dem Tag, an dem ihm
 
 (1) Der Richter ist entlassen,
 
-1.
+1. wenn er die Eigenschaft als Deutscher im Sinne des Artikels 116 des Grundgesetzes verliert,
 
-2.
+2. wenn er in ein öffentlich-rechtliches Dienst- oder Amtsverhältnis zu einem anderen Dienstherrn tritt, sofern gesetzlich nicht anderes bestimmt ist, oder
 
-3.
+3. wenn er zum Berufssoldaten oder Soldaten auf Zeit ernannt wird.
 
 In den Fällen der Nummer 2 kann die oberste Dienstbehörde im Einvernehmen mit dem neuen Dienstherrn und mit Zustimmung des Richters die Fortdauer des Richterverhältnisses neben dem neuen Dienst- oder Amtsverhältnis anordnen.
 
 (2) Der Richter ist zu entlassen,
 
-1.
+1. wenn er sich weigert, den Richtereid (§ 38) zu leisten,
 
-2.
+2. wenn er zur Zeit der Ernennung Mitglied des Bundestages oder eines Landtages war und nicht innerhalb der von der obersten Dienstbehörde gesetzten angemessenen Frist sein Mandat niederlegt,
 
-3.
+3. wenn er nach Erreichen der Altersgrenze berufen worden ist,
 
-4.
+4. wenn er seine Entlassung schriftlich verlangt,
 
-5.
+5. wenn er die Altersgrenze erreicht oder dienstunfähig ist und das Dienstverhältnis nicht durch Eintritt in den Ruhestand endet oder
 
-6.
+6. wenn er ohne Genehmigung der obersten Dienstbehörde seinen Wohnsitz oder dauernden Aufenthalt im Ausland nimmt.
 
 (3) Ein Richter auf Lebenszeit oder ein Richter auf Zeit kann ohne seine schriftliche Zustimmung nur auf Grund rechtskräftiger richterlicher Entscheidung entlassen werden. Die Entlassung eines Richters auf Lebenszeit oder eines Richters auf Zeit nach Absatz 1 kann erst geltend gemacht werden, nachdem ein Gericht sie rechtskräftig festgestellt hat.
 
@@ -278,9 +278,9 @@ In den Fällen der Nummer 2 kann die oberste Dienstbehörde im Einvernehmen mit 
 
 (2) Ein Richter auf Probe kann zum Ablauf des dritten oder vierten Jahres entlassen werden,
 
-1.
+1. wenn er für das Richteramt nicht geeignet ist oder
 
-2.
+2. wenn ein Richterwahlausschuß seine Übernahme in das Richterverhältnis auf Lebenszeit oder auf Zeit ablehnt.
 
 (3) Ein Richter auf Probe kann ferner bei einem Verhalten, das bei Richtern auf Lebenszeit eine im gerichtlichen Disziplinarverfahren zu verhängende Disziplinarmaßnahme zur Folge hätte, entlassen werden.
 
@@ -294,17 +294,17 @@ Für die Beendigung des Richterverhältnisses kraft Auftrags gelten die Vorschri
 
 ### § 24 — Beendigung des Dienstverhältnisses durch richterliche Entscheidung
 
-Wird gegen einen Richter durch Urteil eines deutschen Gerichts im Geltungsbereich dieses Gesetzes erkannt auf so endet das Richterverhältnis mit der Rechtskraft dieses Urteils, ohne daß es einer weiteren gerichtlichen Entscheidung bedarf.
+Wird gegen einen Richter durch Urteil eines deutschen Gerichts im Geltungsbereich dieses Gesetzes erkannt auf
 
-1.
+1. Freiheitsstrafe von mindestens einem Jahr wegen einer vorsätzlichen Tat,
 
-1a.
+1a. Freiheitsstrafe von mindestens sechs Monaten wegen einer Tat, die nach § 130 des Strafgesetzbuchs (Volksverhetzung) strafbar ist,
 
-2.
+2. Freiheitsstrafe wegen einer vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat, Hochverrat, Gefährdung des demokratischen Rechtsstaates oder Landesverrat und Gefährdung der äußeren Sicherheit strafbar ist,
 
-3.
+3. Aberkennung der Fähigkeit zur Bekleidung öffentlicher Ämter oder
 
-4.
+4. Verwirkung eines Grundrechts gemäß Artikel 18 des Grundgesetzes,
 
 ## Abschnitt 4: Unabhängigkeit des Richters
 
@@ -342,15 +342,15 @@ Der Richter ist unabhängig und nur dem Gesetz unterworfen.
 
 ### § 30 — Versetzung und Amtsenthebung
 
-(1) Ein Richter auf Lebenszeit oder ein Richter auf Zeit kann ohne seine schriftliche Zustimmung nur in ein anderes Amt versetzt oder seines Amtes enthoben werden.
+(1) Ein Richter auf Lebenszeit oder ein Richter auf Zeit kann ohne seine schriftliche Zustimmung nur
 
-1.
+1. im Verfahren über die Richteranklage (Artikel 98 Abs. 2 und 5 des Grundgesetzes),
 
-2.
+2. im gerichtlichen Disziplinarverfahren,
 
-3.
+3. im Interesse der Rechtspflege (§ 31),
 
-4.
+4. bei Veränderung der Gerichtsorganisation (§ 32)
 
 (2) Die Versetzung oder Amtsenthebung kann - außer im Fall des Absatzes 1 Nr. 4 - nur auf Grund rechtskräftiger richterlicher Entscheidung ausgesprochen werden.
 
@@ -358,13 +358,13 @@ Der Richter ist unabhängig und nur dem Gesetz unterworfen.
 
 ### § 31 — Versetzung im Interesse der Rechtspflege
 
-Ein Richter auf Lebenszeit oder ein Richter auf Zeit kann versetzt werden, wenn Tatsachen außerhalb seiner richterlichen Tätigkeit eine Maßnahme dieser Art zwingend gebieten, um eine schwere Beeinträchtigung der Rechtspflege abzuwenden.
+Ein Richter auf Lebenszeit oder ein Richter auf Zeit kann
 
-1.
+1. in ein anderes Richteramt mit gleichem Endgrundgehalt,
 
-2.
+2. in den einstweiligen Ruhestand oder
 
-3.
+3. in den Ruhestand
 
 ### § 32 — Veränderung der Gerichtsorganisation
 
@@ -450,9 +450,9 @@ Der Richter hat über den Hergang bei der Beratung und Abstimmung auch nach Been
 
 (1) Zu dem Amt eines ehrenamtlichen Richters soll nicht berufen werden, wer
 
-1.
+1. gegen die Grundsätze der Menschlichkeit oder der Rechtsstaatlichkeit verstoßen hat oder
 
-2.
+2. wegen einer Tätigkeit als hauptamtlicher oder inoffizieller Mitarbeiter des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik im Sinne des § 6 Abs. 4 des Stasi-Unterlagen-Gesetzes vom 20. Dezember 1991 (BGBl. I S. 2272) oder als diesen Mitarbeitern nach § 6 Abs. 5 des Stasi-Unterlagen-Gesetzes gleichgestellte Person für das Amt eines ehrenamtlichen Richters nicht geeignet ist.
 
 (2) Die für die Berufung zuständige Stelle kann zu diesem Zweck von dem Vorgeschlagenen eine schriftliche Erklärung verlangen, dass bei ihm die Voraussetzungen des Absatzes 1 nicht vorliegen.
 
@@ -474,13 +474,7 @@ Der Richter hat über den Hergang bei der Beratung und Abstimmung auch nach Been
 
 (2) Der ehrenamtliche Richter ist vor seiner ersten Dienstleistung in öffentlicher Sitzung des Gerichts durch den Vorsitzenden zu vereidigen. Die Vereidigung gilt für die Dauer des Amtes, bei erneuter Bestellung auch für die sich unmittelbar anschließende Amtszeit. Der Schwörende soll bei der Eidesleistung die rechte Hand erheben.
 
-(3) Der ehrenamtliche Richter leistet den Eid, indem er die Worte spricht: "Ich schwöre, die Pflichten eines ehrenamtlichen Richters getreu dem Grundgesetz für die Bundesrepublik Deutschland und getreu dem Gesetz zu erfüllen, nach bestem Wissen und Gewissen ohne Ansehen der Person zu urteilen und nur der Wahrheit und Gerechtigkeit zu dienen, so wahr mir Gott helfe." Der Eid kann ohne die Worte "so wahr mir Gott helfe" geleistet werden. Hierüber ist der Schwörende vor der Eidesleistung durch den Vorsitzenden zu belehren.
-
-(4) Gibt ein ehrenamtlicher Richter an, daß er aus Glaubens- oder Gewissensgründen keinen Eid leisten wolle, so spricht er die Worte: "Ich gelobe, die Pflichten eines ehrenamtlichen Richters getreu dem Grundgesetz für die Bundesrepublik Deutschland und getreu dem Gesetz zu erfüllen, nach bestem Wissen und Gewissen ohne Ansehen der Person zu urteilen und nur der Wahrheit und Gerechtigkeit zu dienen." Das Gelöbnis steht dem Eid gleich.
-
 (5) Gibt ein ehrenamtlicher Richter an, daß er als Mitglied einer Religions- oder Bekenntnisgemeinschaft eine Beteuerungsformel dieser Gemeinschaft verwenden wolle, so kann er diese dem Eid oder dem Gelöbnis anfügen.
-
-(6) Die ehrenamtlichen Richter in der Finanzgerichtsbarkeit leisten den Eid dahin, die Pflichten eines ehrenamtlichen Richters getreu dem Grundgesetz für die Bundesrepublik Deutschland und getreu dem Gesetz zu erfüllen, das Steuergeheimnis zu wahren, nach bestem Wissen und Gewissen ohne Ansehen der Person zu urteilen und nur der Wahrheit und Gerechtigkeit zu dienen.Dies gilt für das Gelöbnis entsprechend.
 
 (7) Für ehrenamtliche Richter bei den Gerichten der Länder können der Eid und das Gelöbnis eine zusätzliche Verpflichtung auf die Landesverfassung enthalten.
 
@@ -508,25 +502,17 @@ In Angelegenheiten der Richter im Bundesdienst wirkt im Bundespersonalausschuß 
 
 (2) Der Eintritt in den Ruhestand kann nicht hinausgeschoben werden.
 
-(3) Richter auf Lebenszeit, die vor dem 1. Januar 1947 geboren sind, erreichen die Regelaltersgrenze mit Vollendung des 65. Lebensjahres. Für Richter auf Lebenszeit, die nach dem 31. Dezember 1946 geboren sind, wird die Regelaltersgrenze wie folgt angehoben:
-
-(4) Richter auf Lebenszeit sind auf ihren Antrag in den Ruhestand zu versetzen, wenn sie das 62. Lebensjahr vollendet haben und schwerbehindert im Sinne des § 2 Abs. 2 des Neunten Buches Sozialgesetzbuch sind. Richter auf Lebenszeit, die schwerbehindert im Sinne des § 2 Abs. 2 des Neunten Buches Sozialgesetzbuch und vor dem 1. Januar 1952 geboren sind, sind auf ihren Antrag in den Ruhestand zu versetzen, wenn sie das 60. Lebensjahr vollendet haben. Für Richter, die schwerbehindert im Sinne des § 2 Abs. 2 des Neunten Buches Sozialgesetzbuch und nach dem 31. Dezember 1951 geboren sind, wird die Altersgrenze wie folgt angehoben:
-
 (5) Richter auf Lebenszeit sind auf ihren Antrag in den Ruhestand zu versetzen, wenn sie das 63. Lebensjahr vollendet haben.
 
 (6) § 147 Absatz 2 des Bundesbeamtengesetzes gilt entsprechend.
 
 ### § 48a — Teilzeitbeschäftigung und Beurlaubung aus familiären Gründen
 
-(1) Einem Richter ist auf Antrag zu bewilligen, wenn er tatsächlich betreut oder pflegt.
+(1) Einem Richter ist auf Antrag
 
-1.
+1. Teilzeitbeschäftigung bis zur Hälfte des regelmäßigen Dienstes,
 
-2.
-
-a)
-
-b)
+2. ein Urlaub ohne Dienstbezüge bis zur Dauer von drei Jahren mit der Möglichkeit der Verlängerung
 
 (2) Die Dauer des Urlaubs im Sinne des Absatzes 1 darf auch in Verbindung mit Urlaub nach § 48b Abs. 1 zwölf Jahre nicht überschreiten. Der Antrag auf Verlängerung einer Teilzeitbeschäftigung oder eines Urlaubs ist spätestens sechs Monate vor Ablauf der genehmigten Freistellung zu stellen.
 
@@ -562,17 +548,17 @@ Teilzeitbeschäftigung und Beurlaubung nach den § 48a oder § 48c dürfen das b
 
 Bei den Gerichten des Bundes werden als Richtervertretungen errichtet
 
-1.
+1. Richterräte für die Beteiligung an allgemeinen und sozialen Angelegenheiten,
 
-2.
+2. Präsidialräte für die Beteiligung an der Ernennung eines Richters.
 
 ### § 50 — Zusammensetzung des Richterrats
 
 (1) Der Richterrat besteht bei dem
 
-1.
+1. Bundesgerichtshof und Bundespatentgericht aus je fünf gewählten Richtern,
 
-2.
+2. Bundesverwaltungsgericht, Bundesfinanzhof, Bundesarbeitsgericht und Bundessozialgericht aus je drei gewählten Richtern.
 
 (2) Für die Richter der Truppendienstgerichte wird ein Richterrat aus drei gewählten Richtern errichtet. Der Richterrat bestimmt seinen Sitz bei einem Truppendienstgericht.
 
@@ -596,11 +582,11 @@ Für die Befugnisse und Pflichten des Richterrats gelten § 2 Absatz 1, §§ 65 
 
 ### § 54 — Bildung des Präsidialrats
 
-(1) Bei jedem obersten Gerichtshof des Bundes wird ein Präsidialrat errichtet. Der Präsidialrat beim Bundesverwaltungsgericht ist zugleich für die Truppendienstgerichte zuständig. Er besteht bei Ist kein ständiger Vertreter ernannt, so wirkt an seiner Stelle der dienstälteste, bei gleichem Dienstalter der lebensälteste Vorsitzende Richter mit. Die weiteren Mitglieder werden von den Richtern des Gerichts, bei dem der Präsidialrat errichtet ist, geheim und unmittelbar gewählt. § 51 Abs. 2 gilt entsprechend.
+(1) Bei jedem obersten Gerichtshof des Bundes wird ein Präsidialrat errichtet. Der Präsidialrat beim Bundesverwaltungsgericht ist zugleich für die Truppendienstgerichte zuständig. Er besteht bei
 
-1.
+1. dem Bundesgerichtshof aus dem Präsidenten als Vorsitzendem, seinem ständigen Vertreter, zwei vom Präsidium aus seiner Mitte gewählten Mitgliedern und drei weiteren Mitgliedern,
 
-2.
+2. den anderen obersten Gerichtshöfen des Bundes aus dem Präsidenten als Vorsitzendem, seinem ständigen Vertreter, einem vom Präsidium aus seiner Mitte gewählten Mitglied und zwei weiteren Mitgliedern.
 
 (2) An die Stelle der beiden von den Richtern des Bundesverwaltungsgerichts gewählten Mitglieder treten in Angelegenheiten der Richter der Truppendienstgerichte zwei von den Richtern dieser Gerichte gewählte Mitglieder; Absatz 1 Satz 5 und 6 gilt entsprechend.
 
@@ -660,35 +646,13 @@ Für Rechtsstreitigkeiten aus der Bildung oder Tätigkeit der Richtervertretunge
 
 (1) Das Dienstgericht des Bundes entscheidet endgültig
 
-1.
+1. in Disziplinarsachen, auch der Richter im Ruhestand;
 
-2.
+2. über die Versetzung im Interesse der Rechtspflege;
 
-3.
+3. bei Richtern auf Lebenszeit oder auf Zeit über diea)Nichtigkeit einer Ernennung,b)Rücknahme einer Ernennung,c)Entlassung,d)Versetzung in den Ruhestand wegen Dienstunfähigkeit,e)eingeschränkte Verwendung wegen begrenzter Dienstfähigkeit; Nichtigkeit einer Ernennung, Rücknahme einer Ernennung, Entlassung, Versetzung in den Ruhestand wegen Dienstunfähigkeit, eingeschränkte Verwendung wegen begrenzter Dienstfähigkeit;
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
+4. bei Anfechtunga)einer Maßnahme wegen Veränderung der Gerichtsorganisation,b)der Abordnung eines Richters gemäß § 37 Abs. 3,c)einer Verfügung, durch die ein Richter auf Probe oder kraft Auftrags entlassen, durch die seine Ernennung zurückgenommen oder die Nichtigkeit seiner Ernennung festgestellt oder durch die er wegen Dienstunfähigkeit in den Ruhestand versetzt wird,d)der Heranziehung zu einer Nebentätigkeit,e)einer Maßnahme der Dienstaufsicht aus den Gründen des § 26 Abs. 3,f)einer Verfügung über Ermäßigung des Dienstes oder Beurlaubung nach §§ 48a bis 48c. einer Maßnahme wegen Veränderung der Gerichtsorganisation, der Abordnung eines Richters gemäß § 37 Abs. 3, einer Verfügung, durch die ein Richter auf Probe oder kraft Auftrags entlassen, durch die seine Ernennung zurückgenommen oder die Nichtigkeit seiner Ernennung festgestellt oder durch die er wegen Dienstunfähigkeit in den Ruhestand versetzt wird, der Heranziehung zu einer Nebentätigkeit, einer Maßnahme der Dienstaufsicht aus den Gründen des § 26 Abs. 3, einer Verfügung über Ermäßigung des Dienstes oder Beurlaubung nach §§ 48a bis 48c.
 
 (2) Das Dienstgericht des Bundes entscheidet auch über die Revision gegen Urteile der Dienstgerichte der Länder (§ 79).
 
@@ -770,9 +734,9 @@ In den Ländern sind Richterräte zu bilden. Ihre Mitglieder werden durch die Ri
 
 Der Richterrat hat mindestens folgende Aufgaben:
 
-1.
+1. Beteiligung an allgemeinen und sozialen Angelegenheiten der Richter,
 
-2.
+2. gemeinsame Beteiligung mit der Personalvertretung an allgemeinen und sozialen Angelegenheiten, die sowohl Richter als auch Bedienstete des Gerichts betreffen.
 
 ### § 74 — Bildung des Präsidialrats
 
@@ -810,35 +774,13 @@ Teilzeitbeschäftigung ist zu ermöglichen.
 
 Das Dienstgericht entscheidet
 
-1.
+1. in Disziplinarsachen, auch der Richter im Ruhestand;
 
-2.
+2. über die Versetzung im Interesse der Rechtspflege;
 
-3.
+3. bei Richtern auf Lebenszeit oder auf Zeit über diea)Nichtigkeit einer Ernennung,b)Rücknahme einer Ernennung,c)Entlassung,d)Versetzung in den Ruhestand wegen Dienstunfähigkeit,e)eingeschränkte Verwendung wegen begrenzter Dienstfähigkeit; Nichtigkeit einer Ernennung, Rücknahme einer Ernennung, Entlassung, Versetzung in den Ruhestand wegen Dienstunfähigkeit, eingeschränkte Verwendung wegen begrenzter Dienstfähigkeit;
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
+4. bei Anfechtunga)einer Maßnahme wegen Veränderung der Gerichtsorganisation,b)der Abordnung eines Richters gemäß § 37 Abs. 3,c)einer Verfügung, durch die ein Richter auf Probe oder kraft Auftrags entlassen, durch die seine Ernennung zurückgenommen oder die Nichtigkeit seiner Ernennung festgestellt oder durch die er wegen Dienstunfähigkeit in den Ruhestand versetzt wird,d)der Heranziehung zu einer Nebentätigkeit,e)einer Maßnahme der Dienstaufsicht aus den Gründen des § 26 Abs. 3,f)einer Verfügung über Ermäßigung des Dienstes oder Beurlaubung. einer Maßnahme wegen Veränderung der Gerichtsorganisation, der Abordnung eines Richters gemäß § 37 Abs. 3, einer Verfügung, durch die ein Richter auf Probe oder kraft Auftrags entlassen, durch die seine Ernennung zurückgenommen oder die Nichtigkeit seiner Ernennung festgestellt oder durch die er wegen Dienstunfähigkeit in den Ruhestand versetzt wird, der Heranziehung zu einer Nebentätigkeit, einer Maßnahme der Dienstaufsicht aus den Gründen des § 26 Abs. 3, einer Verfügung über Ermäßigung des Dienstes oder Beurlaubung.
 
 ### § 79 — Rechtszug
 
@@ -860,19 +802,19 @@ f)
 
 (1) Soweit die Landesgesetzgebung im Disziplinarverfahren die Revision an das Dienstgericht des Bundes vorgesehen hat (§ 79 Abs. 3), kann die Revision vorbehaltlich des Absatzes 3 nur eingelegt werden, wenn sie von dem Dienstgericht des Landes zugelassen worden ist. Sie ist nur zuzulassen, wenn
 
-1.
+1. die Rechtssache grundsätzliche Bedeutung hat oder
 
-2.
+2. das Urteil von einer Entscheidung des Dienstgerichts des Bundes abweicht und auf dieser Abweichung beruht.
 
 (2) Die Nichtzulassung der Revision kann selbständig durch Beschwerde innerhalb zweier Wochen nach Zustellung des Urteils angefochten werden. Die Beschwerde ist bei dem Gericht einzulegen, dessen Entscheidung angefochten werden soll. In der Beschwerdeschrift muß die grundsätzliche Bedeutung der Rechtssache dargelegt oder die Entscheidung des Dienstgerichts des Bundes, von dem das angefochtene Urteil abweicht, bezeichnet werden. Die Einlegung der Beschwerde hemmt die Rechtskraft des Urteils. Wird der Beschwerde nicht abgeholfen, so entscheidet das Dienstgericht des Bundes durch Beschluß. Der Beschluß bedarf keiner Begründung, wenn die Beschwerde einstimmig verworfen oder zurückgewiesen wird. Mit Ablehnung der Beschwerde durch das Dienstgericht des Bundes wird das Urteil rechtskräftig. Wird der Beschwerde stattgegeben, so beginnt mit Zustellung des Beschwerdebescheides die Revisionsfrist.
 
 (3) Einer Zulassung bedarf es nicht, wenn als wesentliche Mängel des Verfahrens gerügt werden, daß
 
-1.
+1. das erkennende Gericht nicht vorschriftsmäßig besetzt war,
 
-2.
+2. bei der Entscheidung ein Richter mitgewirkt hat, der von der Ausübung des Richteramts kraft Gesetzes ausgeschlossen oder wegen Besorgnis der Befangenheit mit Erfolg abgelehnt war, oder
 
-3.
+3. die Entscheidung nicht mit Gründen versehen ist.
 
 ### § 82 — Revisionsverfahren im Disziplinarverfahren
 
@@ -934,11 +876,11 @@ Wer am 1. Juli 2003 zum Richteramt befähigt ist, behält diese Befähigung.
 
 (3) Die Eignungsprüfung ist eine in deutscher Sprache abzulegende staatliche Prüfung, die die notwendigen Kenntnisse im deutschen Recht betrifft und mit der die Fähigkeit beurteilt werden soll, den juristischen Vorbereitungsdienst erfolgreich abzuschließen. Prüfungsfächer sind das Zivilrecht, das Strafrecht und das Öffentliche Recht einschließlich des jeweils dazugehörigen Verfahrensrechts. Es sind die schriftlichen Prüfungsarbeiten der staatlichen Pflichtfachprüfung in denjenigen der in Satz 2 genannten Rechtsgebieten anzufertigen, deren hinreichende Beherrschung nicht bereits im Rahmen der Prüfung nach Absatz 2 Satz 1 nachgewiesen wurde.
 
-(4) Die Eignungsprüfung ist bestanden, wenn Sofern die hinreichende Beherrschung eines der in Absatz 3 Satz 2 genannten Rechtsgebiete bereits im Rahmen der Prüfung nach Absatz 2 Satz 1 festgestellt wurde, gelten die Prüfungsarbeiten auf diesem Gebiet als bestanden.
+(4) Die Eignungsprüfung ist bestanden, wenn
 
-1.
+1. die nach dem Recht des Landes, in dem die Prüfung abgelegt wird, für das Bestehen der staatlichen Pflichtfachprüfung erforderliche Anzahl von Prüfungsarbeiten, mindestens jedoch die Hälfte der in der staatlichen Pflichtfachprüfung vorgesehenen Prüfungsarbeiten, bestanden sind und
 
-2.
+2. Prüfungsarbeiten in mindestens zwei der in Absatz 3 Satz 2 genannten Rechtsgebieten bestanden sind, davon mindestens eine Prüfungsarbeit auf dem Gebiet des Zivilrechts.
 
 (5) Eine nicht bestandene Eignungsprüfung kann einmal wiederholt werden.
 
@@ -1000,28 +942,6 @@ Dieses Gesetz tritt am 1. Juli 1962 in Kraft. Die §§ 114 und 116 treten jedoch
 
 ### Anhang EV — Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitte III und IV
 
-Abschnitt III
-
-8.
-
-a)
-
-y)
-
-aa)
-
-jj)
-
-z)
-
-aa)
-
-cc)
-
-28.
-
-3.
-
-j)
+8. Deutsches Richtergesetz in der Fassung der Bekanntmachung vom 19. April 1972 (BGBl. I S. 713), zuletzt geändert durch Artikel 4 des Gesetzes vom 26. Juni 1990 (BGBl. I S. 1206), mit folgenden Maßgaben:a)bis x) (nicht mehr anzuwenden)y)Für das in Artikel 1 Abs. 1 des Vertrages genannte Gebiet gelten folgende Überleitungsvorschriften:aa)bis ii) (nicht mehr anzuwenden)jj)Ein an der Juristischen Hochschule Potsdam-Eiche oder einer vergleichbaren Einrichtung erworbener Abschluß berechtigt nicht zur Aufnahme eines gesetzlich geregelten juristischen Berufs.z)Für Staatsanwälte gilt folgendes:aa)u. bb) (nicht mehr anzuwenden)cc)Im übrigen gelten die Maßgaben a), b), c), e), h), k), p), q), v), w), y)aa), y)bb), y)ee), y)ff) und y)jj) sinngemäß. bis x) (nicht mehr anzuwenden) Für das in Artikel 1 Abs. 1 des Vertrages genannte Gebiet gelten folgende Überleitungsvorschriften:aa)bis ii) (nicht mehr anzuwenden)jj)Ein an der Juristischen Hochschule Potsdam-Eiche oder einer vergleichbaren Einrichtung erworbener Abschluß berechtigt nicht zur Aufnahme eines gesetzlich geregelten juristischen Berufs. bis ii) (nicht mehr anzuwenden) Ein an der Juristischen Hochschule Potsdam-Eiche oder einer vergleichbaren Einrichtung erworbener Abschluß berechtigt nicht zur Aufnahme eines gesetzlich geregelten juristischen Berufs. Für Staatsanwälte gilt folgendes:aa)u. bb) (nicht mehr anzuwenden)cc)Im übrigen gelten die Maßgaben a), b), c), e), h), k), p), q), v), w), y)aa), y)bb), y)ee), y)ff) und y)jj) sinngemäß. u. bb) (nicht mehr anzuwenden) Im übrigen gelten die Maßgaben a), b), c), e), h), k), p), q), v), w), y)aa), y)bb), y)ee), y)ff) und y)jj) sinngemäß.
 
 > Abschn. III Nr. 8 Buchst. i Kursivdruck: Nicht mehr anzuwenden gem. § 17 Nr. 1 Buchst. e nach Maßgabe d. § 14 G v. 26.6.1992 I 1147 (RpflAnpG) mWv 1.7.1992

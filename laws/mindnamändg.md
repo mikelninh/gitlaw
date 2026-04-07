@@ -8,13 +8,13 @@
 
 ### § 1
 
-(1) Eine Person, auf die sowohl das Rahmenübereinkommen zum Schutz nationaler Minderheiten als auch deutsches Namensrecht Anwendung finden, kann durch Erklärung gegenüber dem Standesamt Das Standesamt, in dessen Bezirk der oder die Erklärende den Wohnsitz oder gewöhnlichen Aufenthalt hat, ist für die Entgegennahme der Erklärung zuständig. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die Zuständigkeit einem anderen Standesamt zu übertragen. Ergibt sich danach keine Zuständigkeit, ist das Standesamt I in Berlin zuständig. Der Vorname eines Kindes kann sogleich in der Sprache der nationalen Minderheit oder Volksgruppe bestimmt werden.
+(1) Eine Person, auf die sowohl das Rahmenübereinkommen zum Schutz nationaler Minderheiten als auch deutsches Namensrecht Anwendung finden, kann durch Erklärung gegenüber dem Standesamt
 
-1.
+1. eine in die Sprache der nationalen Minderheit oder Volksgruppe übersetzte Form ihres Namens annehmen, wenn ihr Name einer solchen Übersetzung zugänglich ist (begriffliche Übertragung),
 
-2.
+2. einen durch Veränderung der Schreibweise ihres Namens an eine der Sprache der Minderheit oder Volksgruppe entsprechende Lautung angeglichenen Namen annehmen (phonetische Übertragung) oder
 
-3.
+3. einen früher in der Sprache der nationalen Minderheit oder Volksgruppe geführten Namen annehmen, wenn dieser Name in eine deutsche Form übertragen oder in einen anderen Namen geändert worden ist; dabei reicht es aus, daß der oder die Erklärende die frühere Namensführung glaubhaft macht.
 
 (2) Name im Sinne dieses Gesetzes ist der Geburts- oder Vorname, den eine Person nach den Vorschriften des Bürgerlichen Gesetzbuchs sowie des Personenstandsrechts zu führen hat.
 

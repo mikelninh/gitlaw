@@ -22,8 +22,6 @@ Das Bundesverwaltungsamt ist im Verfahren nach Artikel VI des BEG-Schlußgesetze
 
 ### § 3
 
-(1) Für einen offensichtlich unbegründeten Antrag im Sinne des § 207 Abs. 1 Satz 2 BEG können dem Antragsteller eine Gebühr bis zu 100 Deutsche Mark und Ersatz der Auslagen nach den §§ 91 bis 94 des Gerichtskostengesetzes vom 26. Juli 1957 (Bundesgesetzbl. I S. 861, 941) auferlegt werden.
-
 (2) Der Kostenbescheid im Sinne des § 207 Abs. 1 Satz 3 BEG ist zurückzunehmen, wenn der geltend gemachte Anspruch durch rechtskräftiges Urteil oder durch Vergleich ganz oder teilweise zuerkannt worden ist.
 
 > § 3 Kursivdruck: Vgl. jetzt § 71 GKG 360-1 iVm §§ 136 bis 139 KostO 361-1

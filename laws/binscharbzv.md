@@ -23,55 +23,51 @@ Für die Beschäftigung von Arbeitnehmern und Arbeitnehmerinnen im Sinne des § 
 
 Im Sinne dieser Verordnung ist
 
-1.
+1. "Fahrzeug" ein Schiff oder ein schwimmendes Gerät,
 
-2.
+2. "Fahrgastschiff" ein zur Beförderung von mehr als zwölf Fahrgästen gebautes und eingerichtetes Tagesausflugs- oder Kabinenschiff,
 
-3.
+3. "Binnenschifffahrtsunternehmer" oder "Binnenschifffahrtsunternehmerin" eine Person, die weisungsunabhängig und auf eigene Rechnung zu Erwerbszwecken ein Fahrzeug betreibt,
 
-4.
+4. "Dienstplan" die im Voraus vom Arbeitgeber dem Arbeitnehmer oder der Arbeitnehmerin bekanntgegebene Planung von Arbeits- und Ruhetagen,
 
-5.
+5. "Arbeitszeit" die Zeit, während der ein Arbeitnehmer oder eine Arbeitnehmerin auf Weisung des Arbeitgebers oder seines Vertreters Arbeit auf, am und für das Fahrzeug ausübt, zur Arbeit eingeteilt ist oder sich zur Arbeit bereithalten (Bereitschaftszeit) muss,
 
-6.
+6. "Ruhezeit" die Zeit außerhalb der Arbeitszeit, unabhängig davon ob sie auf dem fahrenden Fahrzeug, auf dem stillliegenden Fahrzeug oder an Land verbracht wird, wobei Zeiten bis zu 15 Minuten nicht als Ruhezeiten gelten,
 
-7.
+7. "Ruhetag" eine ununterbrochene Ruhezeit von 24 Stunden, die der Arbeitnehmer oder die Arbeitnehmerin an einem frei gewählten Ort verbringt,
 
-8.
+8. "Nachtzeit" die Zeit zwischen 23 Uhr und 6 Uhr,
 
-9.
+9. "Nachtarbeitnehmer" oder „Nachtarbeitnehmerin“ ein Arbeitnehmer oder eine Arbeitnehmerin, der oder die während der Nachtzeit a)normalerweise mindestens drei Stunden seiner oder ihrer täglichen Arbeitszeit leistet oderb)mindestens 20 Prozent seiner oder ihrer jährlichen Arbeitszeit leistet, normalerweise mindestens drei Stunden seiner oder ihrer täglichen Arbeitszeit leistet oder mindestens 20 Prozent seiner oder ihrer jährlichen Arbeitszeit leistet,
 
-a)
+10. "Bordpersonal" die Gesamtheit aller Beschäftigten an Bord eines Fahrgastschiffes, die nicht zur Besatzung (nautisches Personal) gehören,
 
-b)
+11. "mobiler Arbeitnehmer" oder "mobile Arbeitnehmerin" jeder Arbeitnehmer und jede Arbeitnehmerin, der oder die als Mitglied des fahrenden Personals im Dienst eines Unternehmens beschäftigt ist, das Personen oder Güter in der Binnenschifffahrt befördert,
 
-10.
-
-11.
-
-12.
+12. "Saison" ein Zeitraum von höchstens neun aufeinander folgenden Monaten innerhalb von zwölf Monaten, in dem Tätigkeiten aufgrund äußerer Umstände, insbesondere wegen Witterungsverhältnissen oder touristischer Nachfrage, an bestimmte Zeiten des Jahres gebunden sind.
 
 ### § 4 — Arbeitszeit
 
 (1) Der Arbeitgeber darf einen Arbeitnehmer oder eine Arbeitnehmerin abweichend von den §§ 3, 6 Absatz 2 und § 11 Absatz 2 des Arbeitszeitgesetzes länger als acht Stunden täglich beschäftigen, wenn die Arbeitszeit in jedem Zeitraum von zwölf Monaten (Bezugszeitraum) eine durchschnittliche wöchentliche Arbeitszeit von 48 Stunden nicht überschreitet. Für Arbeitsverhältnisse, deren Dauer kürzer ist als der Bezugszeitraum, hat der Arbeitszeitausgleich auf eine durchschnittliche wöchentliche Arbeitszeit von 48 Stunden innerhalb des Beschäftigungszeitraums zu erfolgen. Bei der Berechnung des Durchschnitts bleiben die gewährten Zeiten des bezahlten Jahresurlaubs, die gesetzlichen Feiertage sowie die Krankheitszeiten unberücksichtigt.
 
-(2) Wird die tägliche Arbeitszeit nach Absatz 1 verlängert, darf die Arbeitszeit nicht überschreiten. Wenn es in einem Zeitraum von vier Monaten mehr Arbeits- als Ruhetage gibt, darf die Arbeitszeit eine durchschnittliche wöchentliche Arbeitszeit von 72 Stunden nicht überschreiten.
+(2) Wird die tägliche Arbeitszeit nach Absatz 1 verlängert, darf die Arbeitszeit
 
-1.
+1. 14 Stunden in jedem Zeitraum von 24 Stunden und
 
-2.
+2. 84 Stunden in jedem Zeitraum von sieben Tagen
 
 (3) Die Arbeitszeit während der Nachtzeit darf abweichend von § 6 Absatz 2 und § 11 Absatz 2 des Arbeitszeitgesetzes 42 Stunden in jedem Zeitraum von sieben Tagen nicht überschreiten.
 
 ### § 5 — Ruhepausen
 
-(1) Der Arbeitgeber hat dem Arbeitnehmer oder der Arbeitnehmerin im Voraus feststehende Ruhepausen zur Unterbrechung der Arbeitszeit zu gewähren, die abweichend von § 4 Satz 1 des Arbeitszeitgesetzes mindestens betragen. Spätestens nach einer ununterbrochenen Arbeitszeit von sechs Stunden hat der Arbeitgeber dem Arbeitnehmer oder der Arbeitnehmerin eine Ruhepause zu gewähren.
+(1) Der Arbeitgeber hat dem Arbeitnehmer oder der Arbeitnehmerin im Voraus feststehende Ruhepausen zur Unterbrechung der Arbeitszeit zu gewähren, die abweichend von § 4 Satz 1 des Arbeitszeitgesetzes mindestens
 
-1.
+1. 30 Minuten bei einer täglichen Arbeitszeit von mehr als sechs Stunden,
 
-2.
+2. 45 Minuten bei einer täglichen Arbeitszeit von mehr als neun Stunden und
 
-3.
+3. 60 Minuten bei einer täglichen Arbeitszeit von mehr als elf Stunden
 
 (2) Die Ruhepausen können in Zeitabschnitte von jeweils mindestens 15 Minuten aufgeteilt werden.
 
@@ -81,9 +77,9 @@ b)
 
 (2) Die Ruhezeiten betragen abweichend von den §§ 5 und 11 Absatz 2 des Arbeitszeitgesetzes mindestens:
 
-1.
+1. zehn Stunden in jedem Zeitraum von 24 Stunden, wovon mindestens sechs Stunden ununterbrochen sein müssen, und
 
-2.
+2. 84 Stunden in jedem Zeitraum von sieben Tagen.
 
 (3) Sofern Unterschiede hinsichtlich der Ruhezeiten zwischen dieser Verordnung und nationalen oder internationalen Vorschriften zur Sicherheit des Schiffsverkehrs bestehen, hat diejenige Bestimmung zur Ruhezeit Vorrang, die den Arbeitnehmern und Arbeitnehmerinnen ein höheres Maß an Gesundheitsschutz und Sicherheit gewährt.
 
@@ -95,27 +91,27 @@ b)
 
 (3) Enthält der Dienstplan mehr Arbeits- als Ruhetage, bestimmt sich die Mindestanzahl an aufeinanderfolgenden Ruhetagen, die im unmittelbaren Anschluss an die geleisteten aufeinanderfolgenden Arbeitstage zu gewähren sind, wie folgt:
 
-1.
+1. für den 1. bis 10. aufeinanderfolgenden Arbeitstag: jeweils 0,2 Ruhetage,
 
-2.
+2. für den 11. bis 20. aufeinanderfolgenden Arbeitstag: jeweils 0,3 Ruhetage,
 
-3.
+3. für den 21. bis 31. aufeinanderfolgenden Arbeitstag: jeweils 0,4 Ruhetage.
 
 (4) Enthält der Dienstplan höchstens die gleiche Anzahl von Arbeitstagen im Verhältnis zu Ruhetagen, muss der Arbeitgeber dem Arbeitnehmer oder der Arbeitnehmerin in unmittelbarem Anschluss an die geleisteten aufeinanderfolgenden Arbeitstage die gleiche Anzahl an aufeinanderfolgenden Ruhetagen gewähren. Von dieser Anzahl der unmittelbar zu gewährenden Ruhetage kann abgewichen werden, wenn:
 
-1.
+1. die in Absatz 3 genannte Mindestanzahl von aufeinanderfolgenden Ruhetagen im unmittelbaren Anschluss an die geleisteten aufeinanderfolgenden Arbeitstage gewährt wird und
 
-2.
+2. die verlängerte oder getauschte Periode von Arbeitstagen innerhalb des Bezugszeitraums nach § 4 Absatz 1 ausgeglichen wird.
 
 (5) Anteilige Ruhetage werden bei der Berechnung der Mindestanzahl von aufeinanderfolgenden Ruhetagen addiert und sind zu gewähren, wenn die Summe der anteiligen Ruhetage einen ganzen Tag ergibt.
 
 ### § 8 — Saisonarbeit in der Fahrgastschifffahrt
 
-(1) Ein Arbeitgeber, der einen Arbeitnehmer oder eine Arbeitnehmerin während der Saison an Bord eines Fahrgastschiffes beschäftigt, darf abweichend von § 7 Absatz 3 und 4 dem Arbeitnehmer oder der Arbeitnehmerin für jeden Arbeitstag 0,2 Ruhetage gewähren.
+(1) Ein Arbeitgeber, der einen Arbeitnehmer oder eine Arbeitnehmerin während der Saison an Bord eines Fahrgastschiffes
 
-1.
+1. bis zu zwölf Stunden in jedem Zeitraum von 24 Stunden und
 
-2.
+2. bis zu 72 Stunden in jedem Zeitraum von sieben Tagen
 
 (2) In jedem Zeitraum von 31 Tagen muss der Arbeitgeber dem Arbeitnehmer oder der Arbeitnehmerin mindestens zwei Ruhetage tatsächlich gewähren. Die restlichen Ruhetage sind entsprechend einer Vereinbarung innerhalb des Bezugszeitraums nach § 4 Absatz 1 zu gewähren. Die Vereinbarung ist in einem Tarifvertrag oder auf Grund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung zu treffen. Besteht keine tarifvertragliche Regelung, ist die Vereinbarung zwischen Arbeitgeber und Arbeitnehmer oder Arbeitnehmerin zu treffen.
 
@@ -131,17 +127,17 @@ b)
 
 (2) Die Aufzeichnungen nach Absatz 1 müssen mindestens folgende Angaben enthalten:
 
-1.
+1. Name des Fahrzeugs,
 
-2.
+2. Name des Arbeitnehmers oder der Arbeitnehmerin,
 
-3.
+3. Name des verantwortlichen Schiffsführers oder der verantwortlichen Schiffsführerin,
 
-4.
+4. Datum des jeweiligen Arbeits- oder Ruhetages,
 
-5.
+5. für jeden Tag der Beschäftigung, ob es sich um einen Arbeits- oder um einen Ruhetag handelt, sowie
 
-6.
+6. Beginn und Ende der täglichen Arbeitszeiten oder der täglichen Ruhezeiten.
 
 (3) Die Aufzeichnungen sind in geeigneten Zeitabständen, spätestens bis zum Ende des auf die Arbeitsleistung folgenden Monats, gemeinsam vom Arbeitgeber oder einer von ihm beauftragten Person und vom Arbeitnehmer oder von der Arbeitnehmerin auf Richtigkeit zu prüfen und zu bestätigen.
 
@@ -169,9 +165,9 @@ b)
 
 (1) In einem Tarifvertrag oder auf Grund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung kann zugelassen werden,
 
-1.
+1. abweichend von § 3 Nummer 9 Buchstabe b bei der Begriffsbestimmung „Nachtarbeitnehmer“ oder „Nachtarbeitnehmerin“ einen anderen Anteil von Nachtarbeit an der jährlichen Arbeitszeit festzulegen,
 
-2.
+2. abweichend von § 5 Regelungen zu den Voraussetzungen der Ruhepausen und eine Aufteilung in Kurzpausen von angemessener Dauer zu vereinbaren.
 
 (2) Im Geltungsbereich eines Tarifvertrags können die vereinbarten tarifvertraglichen Regelungen nach Absatz 1 im Betrieb eines nicht tarifgebundenen Arbeitgebers durch Betriebs- oder Dienstvereinbarung oder, wenn ein Betriebs- oder Personalrat nicht besteht, durch schriftliche Vereinbarung zwischen dem Arbeitgeber und dem Arbeitnehmer oder der Arbeitnehmerin übernommen werden.
 
@@ -179,13 +175,13 @@ b)
 
 Ordnungswidrig im Sinne des § 22 Absatz 1 Nummer 4 des Arbeitszeitgesetzes handelt, wer als Arbeitgeber vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 7 Absatz 1 einen Arbeitnehmer oder eine Arbeitnehmerin beschäftigt,
 
-2.
+2. entgegen § 7 Absatz 2 oder § 8 Absatz 2 einen Ruhetag nicht oder nicht rechtzeitig gewährt,
 
-3.
+3. entgegen § 10 Absatz 1 eine Aufzeichnung nicht, nicht richtig oder nicht vollständig führt oder
 
-4.
+4. entgegen § 10 Absatz 4 eine Aufzeichnung nicht oder nicht mindestens 24 Monate aufbewahrt.
 
 ### § 15 — Inkrafttreten
 

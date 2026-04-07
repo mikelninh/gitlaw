@@ -14,15 +14,11 @@ Auf Grund des § 1 Abs. 1 und 3, des § 2 Abs. 3, des § 3 Abs. 1 und 3 sowie de
 
 (1) Zur Deckung des lebenswichtigen Bedarfs an Elektrizität können die zuständigen Stellen als Lastverteiler Verfügungen erlassen
 
-1.
+1. an Unternehmen und Betriebe, die elektrische Energie erzeugen, weiterleiten oder verteilen, übera)die Erzeugung, den Bezug, die Umwandlung, Umspannung, Weiterleitung, Zuteilung, Abgabe, Verwendung, Einfuhr und Ausfuhr elektrischer Energie,b)die Lagerung, Abgabe und Verwendung von Brennstoffen; die Erzeugung, den Bezug, die Umwandlung, Umspannung, Weiterleitung, Zuteilung, Abgabe, Verwendung, Einfuhr und Ausfuhr elektrischer Energie, die Lagerung, Abgabe und Verwendung von Brennstoffen;
 
-a)
+2. an Verbraucher über die Zuteilung, den Bezug und die Verwendung elektrischer Energie sowie den Ausschluß vom Bezug elektrischer Energie und
 
-b)
-
-2.
-
-3.
+3. an Unternehmen der gewerblichen Wirtschaft über die Herstellung, die Instandhaltung, die Abgabe, die Verbringung und die Verwendung von Produktionsmitteln, soweit diese Produktionsmittel der Versorgung mit elektrischer Energie und Erdgas dienen, sowie über Werkleistungen von Unternehmen der gewerblichen Wirtschaft zur Instandhaltung, Instandsetzung, Herstellung und Veränderung von Bauwerken und technischen Anlagen, die der Versorgung mit elektrischer Energie und Erdgas dienen.
 
 (2) Die Lastverteiler können Unternehmen und Betriebe, die elektrische Energie erzeugen, weiterleiten oder verteilen, sowie Verbraucher durch Verfügung verpflichten, innerhalb einer bestimmten Frist bestehende Verträge des in Absatz 1 bezeichneten Inhalts zu ändern oder neue Verträge dieses Inhalts abzuschließen, soweit das angestrebte Verhalten durch Anwendung bestehender Verträge nicht oder nicht rechtzeitig verwirklicht werden kann. In der Verfügung ist für eine Leistung das übliche Entgelt oder, in Ermangelung eines solchen, ein angemessenes Entgelt festzusetzen; für die übrigen Vertragsbedingungen gilt Entsprechendes. Kommt ein solcher Vertrag nicht fristgemäß zustande, so können die Lastverteiler ihn durch Verfügung begründen.
 
@@ -42,9 +38,9 @@ Unternehmen und Betriebe, die über Anlagen zur Erzeugung von elektrischer Energ
 
 Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 1 des Energiesicherungsgesetzes 1975 handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. einer vollziehbaren Verfügung nach § 1 Abs. 1 zuwiderhandelt oder
 
-2.
+2. eine Meldung nach § 2 nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
 ### § 4
 
@@ -60,10 +56,8 @@ Verwaltungsbehörde im Sinne des § 16 Nr. 2 Buchstabe a des Energiesicherungsge
 
 (2) Sie darf erst dann angewandt werden, wenn die Bundesregierung
 
-1.
+1. durch Verordnung festgestellt hat, daß die Energieversorgung im Sinne des § 1 Abs. 1 oder des § 2 Abs. 3 des Energiesicherungsgesetzes 1975 gefährdet oder gestört ist, und
 
-2.
+2. die Anwendbarkeit durch Verordnung bestimmt.
 
 ### Anlage — (zu § 2)
-
-Fundstelle des Originaltextes: BGBl. I 1982, 516

@@ -22,5 +22,3 @@ Nach § 174 Abs. 3 des Bundesbeamtengesetzes in Verbindung mit § 46 des Deutsch
 Diese Anordnung wird, soweit sie das Bundessozialgericht und das Bundesversicherungsamt betrifft, am 1. Juli 2004 und, soweit sie das Robert Koch-Institut betrifft, am 15. Juli 2004 wirksam.
 
 ### Schlussformel
-
-Die Bundesministerin für Gesundheit und Soziale Sicherung

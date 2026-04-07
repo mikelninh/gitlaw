@@ -12,13 +12,13 @@
 
 (2) Es ist nur anzuwenden, wenn die ausgleichspflichtige Person
 
-1.
+1. Beamtin oder Beamter des Bundes oder einer sonstigen bundesunmittelbaren Körperschaft, Anstalt oder Stiftung des öffentlichen Rechts ist,
 
-2.
+2. Richterin oder Richter des Bundes ist,
 
-3.
+3. Versorgungsempfängerin oder Versorgungsempfänger aus einem der in Nummer 1 oder Nummer 2 genannten Dienstverhältnisse ist oder
 
-4.
+4. Anspruch auf Leistungen nach dem Altersgeldgesetz vom 28. August 2013 (BGBl. I S. 3386) hat.
 
 (3) Dieses Gesetz gilt entsprechend, wenn die ausgleichspflichtige Person in einem öffentlich-rechtlichen Amtsverhältnis des Bundes steht oder stand.
 

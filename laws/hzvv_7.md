@@ -12,7 +12,11 @@ Auf Grund des § 1 Abs. 4 Satz 1 des Hüttenknappschaftlichen Zusatzversicherung
 
 ### § 1
 
-In der hüttenknappschaftlichen Zusatzversicherung sind pflichtversichert die in der Rentenversicherung der Arbeiter oder in der Rentenversicherung der Angestellten versicherten Arbeitnehmer einschließlich der zu ihrer Berufsausbildung Beschäftigten 1.der Firma Peter Roth KG, Saarbrücken, und 2.der Firma Halberg-Guss GmbH, Saarbrücken-Brebach. Dies gilt nicht für Personen, die von der Versicherungspflicht in dieser Versicherung befreit sind.
+In der hüttenknappschaftlichen Zusatzversicherung sind pflichtversichert die in der Rentenversicherung der Arbeiter oder in der Rentenversicherung der Angestellten versicherten Arbeitnehmer einschließlich der zu ihrer Berufsausbildung Beschäftigten
+
+1. der Firma Peter Roth KG, Saarbrücken, und
+
+2. der Firma Halberg-Guss GmbH, Saarbrücken-Brebach.
 
 ### § 2
 
@@ -23,5 +27,3 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung
 Diese Verordnung tritt mit Ausnahme des § 1 Satz 1 Nr. 2 mit Wirkung vom 15. Juni 1987 in Kraft. § 1 Satz 1 Nr. 2 tritt mit Wirkung vom 15. März 1989 in Kraft.
 
 ### Schlußformel
-
-Der Bundesrat hat zugestimmt. Der Bundesminister für Arbeit und Sozialordnung

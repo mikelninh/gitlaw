@@ -19,8 +19,6 @@ Die Kontrolle über die Gesellschaft auf Grund der Verordnung Nr. 202 der Britis
 
 ### § 4
 
-Die bis zum 11. November 1959 von der Volkswagenwerk Gesellschaft mit beschränkter Haftung gezahlte Vermögensteuer und die bis zu diesem Zeitpunkt auf die Erträge aus den Geschäftsanteilen (§ 1) einbehaltene und abgeführte Kapitalertragsteuer sind nicht zu erstatten. Die bis zum 11. November 1959 entstandenen, aber noch nicht erfüllten Vermögensteuer- und Kapitalertragsteueransprüche sind nicht geltend zu machen. § 222 der Reichsabgabenordnung findet in den Fällen der Sätze 1 und 2 keine Anwendung.
-
 > § 4 Kursivdruck: Vgl. jetzt §§ 173, 176 AO 1977 610-1-3
 
 ### § 5

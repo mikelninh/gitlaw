@@ -20,31 +20,31 @@ Der Antrag auf Anerkennung als Lohnsteuerhilfeverein ist schriftlich bei der zus
 
 Dem Antrag auf Anerkennung als Lohnsteuerhilfeverein sind neben der öffentlich beglaubigten Abschrift der Satzung (§ 15 Abs. 2 des Gesetzes) beizufügen
 
-1.
+1. der Nachweis über den Erwerb der Rechtsfähigkeit,
 
-2.
+2. eine Liste mit den Namen und den Anschriften der Mitglieder des Vorstands,
 
-3.
+3. der Nachweis über das Bestehen einer Versicherung gegen die sich aus der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 des Steuerberatungsgesetzes ergebenden Haftpflichtgefahren,
 
-4.
+4. ein Verzeichnis der Beratungsstellen, deren Eröffnung im Bezirk der für die Anerkennung zuständigen Aufsichtsbehörde (§ 1) beabsichtigt ist, sowie die nach den §§ 4a und 4b erforderlichen Mitteilungen nebst Erklärungen und Nachweisen,
 
-5.
+5. eine Abschrift der nicht in der Satzung enthaltenen Regelungen über die Erhebung von Beiträgen.
 
 ### § 3 — Anerkennungsurkunde
 
 Die Anerkennungsurkunde (§ 17 des Gesetzes) enthält
 
-1.
+1. die Bezeichnung der anerkennenden Behörde,
 
-2.
+2. Ort und Datum der Anerkennung,
 
-3.
+3. Namen und Sitz des Vereins,
 
-4.
+4. die Anerkennung als Lohnsteuerhilfeverein,
 
-5.
+5. Dienstsiegel und
 
-6.
+6. Unterschrift.
 
 ### § 4 — Ablehnung der Anerkennung
 
@@ -56,31 +56,25 @@ Die Anerkennungsurkunde (§ 17 des Gesetzes) enthält
 
 Die Mitteilung über die Eröffnung oder die Verlegung einer Beratungsstelle (§ 23 Absatz 4 Nummer 1 des Gesetzes) muss folgende Angaben enthalten:
 
-1.
+1. die Anschrift der Beratungsstelle und im Fall ihrer Verlegung die bisherige und die neue Anschrift der Beratungsstelle,
 
-2.
+2. ob und gegebenenfalls welche räumlichen, personellen und organisatorischen Verflechtungen mit anderen wirtschaftlichen Unternehmen bestehen.
 
 ### § 4b — Bestellung eines Beratungsstellenleiters
 
 (1) Die Mitteilung über die Bestellung des Leiters einer Beratungsstelle (§ 23 Abs. 4 Nr. 2 des Gesetzes) muß die Anschrift der übernommenen Beratungsstelle sowie folgende Angaben über den Beratungsstellenleiter enthalten:
 
-1.
+1. Name, Anschrift und Beruf,
 
-2.
+2. ob und gegebenenfalls bei welchem Lohnsteuerhilfeverein er bereits früher Hilfe in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 des Steuerberatungsgesetzes geleistet hat,
 
-3.
+3. ob und gegebenenfalls welche andere Beratungsstelle eines Lohnsteuerhilfevereins er weiterhin leitet.
 
 (2) Der Mitteilung nach Absatz 1 sind beizufügen:
 
-1.
+1. Bescheinigungen über die bisherige berufliche Tätigkeit, insbesondere mit Angaben über Art und Umfang der Tätigkeit, als Nachweis darüber, daß die Voraussetzungen des § 23 Abs. 3 Satz 1 des Gesetzes erfüllt sind,
 
-2.
-
-a)
-
-b)
-
-c)
+2. eine Erklärung des Beratungsstellenleiters,a)daß er sich in geordneten wirtschaftlichen Verhältnissen befindet, b)ob er innerhalb der letzten zwölf Monate strafgerichtlich verurteilt worden ist und ob gegen ihn ein gerichtliches Strafverfahren oder ein Ermittlungsverfahren anhängig ist; entsprechendes gilt für berufsgerichtliche Verfahren sowie für Bußgeldverfahren nach der Abgabenordnung und dem Steuerberatungsgesetz, c)daß er bei der Meldebehörde die Erteilung eines Führungszeugnisses zur Vorlage bei der zuständigen Behörde beantragt hat. daß er sich in geordneten wirtschaftlichen Verhältnissen befindet, ob er innerhalb der letzten zwölf Monate strafgerichtlich verurteilt worden ist und ob gegen ihn ein gerichtliches Strafverfahren oder ein Ermittlungsverfahren anhängig ist; entsprechendes gilt für berufsgerichtliche Verfahren sowie für Bußgeldverfahren nach der Abgabenordnung und dem Steuerberatungsgesetz, daß er bei der Meldebehörde die Erteilung eines Führungszeugnisses zur Vorlage bei der zuständigen Behörde beantragt hat.
 
 ## Dritter Teil: Verzeichnis der Lohnsteuerhilfevereine
 
@@ -88,25 +82,9 @@ c)
 
 In das Verzeichnis der Lohnsteuerhilfevereine sind einzutragen
 
-1.
+1. Lohnsteuerhilfevereine, die im Bezirk der Aufsichtsbehörde ihren Sitz und ihre Geschäftsleitung haben, und zwara)der Name, der Sitz und die Anschrift der Geschäftsleitung des Vereins,b)der Tag der Anerkennung als Lohnsteuerhilfeverein und die Aufsichtsbehörde, die die Anerkennung ausgesprochen hat,c)die Namen und die Anschriften der Mitglieder des Vorstands,d)sämtliche Beratungsstellen des Vereins der Name, der Sitz und die Anschrift der Geschäftsleitung des Vereins, der Tag der Anerkennung als Lohnsteuerhilfeverein und die Aufsichtsbehörde, die die Anerkennung ausgesprochen hat, die Namen und die Anschriften der Mitglieder des Vorstands, sämtliche Beratungsstellen des Vereins sowie alle Veränderungen zu den Buchstaben a, c und d;
 
-a)
-
-b)
-
-c)
-
-d)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
+2. im Bezirk der Aufsichtsbehörde bestehende Beratungsstellen, und zwara)der Name, der Sitz und die Anschrift der Geschäftsleitung des Vereins,b)die Anschrift der Beratungsstelle,c)der Name und die Anschrift des Leiters der Beratungsstelle,d)(weggefallen)sowie alle Veränderungen zu den Buchstaben a bis c. der Name, der Sitz und die Anschrift der Geschäftsleitung des Vereins, die Anschrift der Beratungsstelle, der Name und die Anschrift des Leiters der Beratungsstelle, (weggefallen)
 
 ### § 5a — Ablehnung der Eintragung
 
@@ -116,15 +94,11 @@ Wird die Eintragung einer Beratungsstelle oder eines Beratungsstellenleiters in 
 
 Im Verzeichnis der Lohnsteuerhilfevereine sind zu löschen
 
-1.
+1. Lohnsteuerhilfevereine,a)wenn die Anerkennung als Lohnsteuerhilfeverein erloschen oder unanfechtbar zurückgenommen oder widerrufen ist,b)wenn der Sitz und die Geschäftsleitung aus dem Bezirk der Aufsichtsbehörde verlegt wird; wenn die Anerkennung als Lohnsteuerhilfeverein erloschen oder unanfechtbar zurückgenommen oder widerrufen ist, wenn der Sitz und die Geschäftsleitung aus dem Bezirk der Aufsichtsbehörde verlegt wird;
 
-a)
+2. Beratungsstellen, wenn die Beratungsstelle geschlossen ist;
 
-b)
-
-2.
-
-3.
+3. Beratungsstellen, wenn deren Sitz in den Bezirk einer anderen Aufsichtsbehörde verlegt wird.
 
 ### § 7 — Meldepflichten
 
@@ -146,11 +120,11 @@ Die Vertretungsberechtigten des Vereins haben der das Verzeichnis führenden Auf
 
 ### § 10 — Mindestversicherungssumme
 
-(1) Die Mindestversicherungssumme muss für den einzelnen Versicherungsfall 50 000 Euro betragen.
+(1) Die Mindestversicherungssumme muss für den einzelnen Versicherungsfall 50 000 Euro betragen.
 
 (2) Eine Selbstbeteiligung von bis zu 300 Euro ist zulässig. Die Selbstbeteiligung ist auszuschließen für den Fall, dass bei Geltendmachung des Schadens durch einen Dritten die Anerkennung als Lohnsteuerhilfeverein erloschen ist.
 
-(3) Wird eine Jahreshöchstleistung für alle im Versicherungsjahr verursachten Schäden vereinbart, muss sie mindestens 200 000 Euro betragen.
+(3) Wird eine Jahreshöchstleistung für alle im Versicherungsjahr verursachten Schäden vereinbart, muss sie mindestens 200 000 Euro betragen.
 
 ### § 11 — Sonstige Inhalte des Versicherungsvertrags
 
@@ -160,19 +134,19 @@ Die Vertretungsberechtigten des Vereins haben der das Verzeichnis führenden Auf
 
 (3) Der Versicherungsvertrag kann vorsehen, dass die Versicherungssumme den Höchstbetrag der dem Versicherer in jedem einzelnen Schadensfall obliegenden Leistung darstellt, und zwar mit der Maßgabe, dass nur eine einmalige Leistung der Versicherungssumme in Frage kommt
 
-1.
+1. gegenüber mehreren entschädigungspflichtigen Personen, auf welche sich der Versicherungsschutz erstreckt,
 
-2.
+2. bezüglich eines aus mehreren Verstößen stammenden einheitlichen Schadens,
 
-3.
+3. bezüglich sämtlicher Folgen eines Verstoßes. Dabei gilt mehrfaches, auf gleicher oder gleichartiger Fehlerquelle beruhendes Tun oder Unterlassen als einheitlicher Verstoß, wenn die betreffenden Angelegenheiten miteinander in rechtlichem oder wirtschaftlichem Zusammenhang stehen. In diesem Fall kann die Leistung des Versicherers auf das Fünffache der Mindestversicherungssumme begrenzt werden.
 
 ### § 12 — Ausschlüsse
 
 Von der Versicherung kann die Haftung ausgeschlossen werden für
 
-1.
+1. Ersatzansprüche wegen wissentlicher Pflichtverletzung und
 
-2.
+2. Ersatzansprüche wegen Schäden, die durch fehlerhafte Kassenführung, durch Verstöße beim Zahlungsakt oder durch Veruntreuung durch das Personal des Versicherungsnehmers entstehen.
 
 ### § 13 — Nachweis des Versicherungsabschlusses vor der Anerkennung
 
@@ -185,5 +159,3 @@ Der Lohnsteuerhilfeverein, der die Anerkennung beantragt, muss der anerkennenden
 (2) Die zuständige Aufsichtsbehörde ist berechtigt, Auskünfte über den Beginn und über die in Absatz 1 aufgeführten Veränderungen des Versicherungsvertrags beim Versicherer einzuholen.
 
 ### Schlussformel
-
-Der Bundesminister der Finanzen

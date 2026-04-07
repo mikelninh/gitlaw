@@ -23,7 +23,11 @@ Soweit Versicherungsunternehmen bis zum 31. Dezember 1994 allgemeine Versicherun
 
 ### § 3
 
-(1) Sind auf Versicherungsunternehmen mit Sitz in einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum in der Fassung des Anpassungsprotokolls vom 17. März 1993 (BGBl. 1993 II S. 1294), der nicht der Europäischen Gemeinschaft angehört, die Bestimmungen der Dritten Richtlinie Schadenversicherung und der Dritten Richtlinie Lebensversicherung noch nicht anzuwenden, so gelten die Vorschriften des Versicherungsaufsichtsgesetzes insoweit nicht, als sie die Erteilung der Erlaubnis zum Geschäftsbetrieb und die Aufsicht durch die Aufsichtsbehörde des Herkunftslandes für das gesamte Gebiet der Vertragsstaaten voraussetzen; insoweit ist das Versicherungsaufsichtsgesetz in der am 28. Juli 1994 geltenden Fassung anzuwenden.(2) Für die Tätigkeit inländischer Versicherungsunternehmen in einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum in der Fassung des Anpassungsprotokolls vom 17. März 1993 (BGBl. 1993 II S. 1294), der nicht der Europäischen Gemeinschaft angehört, gilt Absatz 1 entsprechend.(3) Das Bundesministerium der Finanzen gibt im Bundesanzeiger bekannt, ab welchem Zeitpunkt das Versicherungsaufsichtsgesetz in vollem Umfang in der ab 29. Juli 1994 geltenden Fassung auf die in den Absätzen 1 und 2 genannten Versicherungsunternehmen anzuwenden ist.
+(1) Sind auf Versicherungsunternehmen mit Sitz in einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum in der Fassung des Anpassungsprotokolls vom 17. März 1993 (BGBl. 1993 II S. 1294), der nicht der Europäischen Gemeinschaft angehört, die Bestimmungen der Dritten Richtlinie Schadenversicherung und der Dritten Richtlinie Lebensversicherung noch nicht anzuwenden, so gelten die Vorschriften des Versicherungsaufsichtsgesetzes insoweit nicht, als sie die Erteilung der Erlaubnis zum Geschäftsbetrieb und die Aufsicht durch die Aufsichtsbehörde des Herkunftslandes für das gesamte Gebiet der Vertragsstaaten voraussetzen; insoweit ist das Versicherungsaufsichtsgesetz in der am 28. Juli 1994 geltenden Fassung anzuwenden.
+
+(2) Für die Tätigkeit inländischer Versicherungsunternehmen in einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum in der Fassung des Anpassungsprotokolls vom 17. März 1993 (BGBl. 1993 II S. 1294), der nicht der Europäischen Gemeinschaft angehört, gilt Absatz 1 entsprechend.
+
+(3) Das Bundesministerium der Finanzen gibt im Bundesanzeiger bekannt, ab welchem Zeitpunkt das Versicherungsaufsichtsgesetz in vollem Umfang in der ab 29. Juli 1994 geltenden Fassung auf die in den Absätzen 1 und 2 genannten Versicherungsunternehmen anzuwenden ist.
 
 ### § 4
 
@@ -31,7 +35,11 @@ Auf die zur Zeit des Inkrafttretens dieses Gesetzes bestehenden Versicherungsver
 
 ### § 5
 
-(1) § 31 des Gesetzes über den Versicherungsvertrag in der Fassung dieses Gesetzes ist auf die zur Zeit des Inkrafttretens dieses Gesetzes bestehenden Versicherungsverhältnisse über Lebens-, Kranken- und Kraftfahrzeug-Haftpflichtversicherungen anzuwenden.(2) Im übrigen findet § 31 des Gesetzes über den Versicherungsvertrag in der Fassung dieses Gesetzes auf die zur Zeit des Inkrafttretens dieses Gesetzes bestehenden Versicherungsverhältnisse keine Anwendung.(3) § 8 Abs. 3 des Gesetzes über den Versicherungsvertrag in der Fassung dieses Gesetzes ist auf Versicherungsverträge anzuwenden, die nach dem 24. Juni 1994 abgeschlossen worden sind.
+(1) § 31 des Gesetzes über den Versicherungsvertrag in der Fassung dieses Gesetzes ist auf die zur Zeit des Inkrafttretens dieses Gesetzes bestehenden Versicherungsverhältnisse über Lebens-, Kranken- und Kraftfahrzeug-Haftpflichtversicherungen anzuwenden.
+
+(2) Im übrigen findet § 31 des Gesetzes über den Versicherungsvertrag in der Fassung dieses Gesetzes auf die zur Zeit des Inkrafttretens dieses Gesetzes bestehenden Versicherungsverhältnisse keine Anwendung.
+
+(3) § 8 Abs. 3 des Gesetzes über den Versicherungsvertrag in der Fassung dieses Gesetzes ist auf Versicherungsverträge anzuwenden, die nach dem 24. Juni 1994 abgeschlossen worden sind.
 
 ### § 6
 
@@ -39,7 +47,9 @@ Auf die zur Zeit des Inkrafttretens dieses Gesetzes bestehenden Lebensversicheru
 
 ### § 7
 
-(1) Auf die zur Zeit des Inkrafttretens dieses Gesetzes bestehenden Krankenversicherungsverhältnisse finden Änderungen der Tarife (Prämie und Tarifbestimmungen) nach Maßgabe dieses Gesetzes Anwendung, wenn der Versicherer dem Versicherungsnehmer die Tarifänderung unter Kenntlichmachung der Unterschiede des alten und neuen Tarifs spätestens einen Monat vor Inkrafttreten mitteilt und ihn schriftlich über sein Kündigungsrecht belehrt.(2) Ist bei einem zur Zeit des Inkrafttretens dieses Gesetzes bestehenden Krankenversicherungsverhältnis eine Vereinbarung über eine Prämienanpassung nicht getroffen und das ordentliche Kündigungsrecht des Versicherers nicht ausgeschlossen, so gilt § 178i des Gesetzes über den Versicherungsvertrag mit der Maßgabe, daß dem Versicherer das Recht zusteht, die Prämie entsprechend den berichtigten Berechnungsgrundlagen neu festzusetzen, wenn ein unabhängiger Treuhänder die Berechnungsgrundlage überprüft und der Prämienanpassung zugestimmt hat.
+(1) Auf die zur Zeit des Inkrafttretens dieses Gesetzes bestehenden Krankenversicherungsverhältnisse finden Änderungen der Tarife (Prämie und Tarifbestimmungen) nach Maßgabe dieses Gesetzes Anwendung, wenn der Versicherer dem Versicherungsnehmer die Tarifänderung unter Kenntlichmachung der Unterschiede des alten und neuen Tarifs spätestens einen Monat vor Inkrafttreten mitteilt und ihn schriftlich über sein Kündigungsrecht belehrt.
+
+(2) Ist bei einem zur Zeit des Inkrafttretens dieses Gesetzes bestehenden Krankenversicherungsverhältnis eine Vereinbarung über eine Prämienanpassung nicht getroffen und das ordentliche Kündigungsrecht des Versicherers nicht ausgeschlossen, so gilt § 178i des Gesetzes über den Versicherungsvertrag mit der Maßgabe, daß dem Versicherer das Recht zusteht, die Prämie entsprechend den berichtigten Berechnungsgrundlagen neu festzusetzen, wenn ein unabhängiger Treuhänder die Berechnungsgrundlage überprüft und der Prämienanpassung zugestimmt hat.
 
 ### § 8
 

@@ -26,5 +26,3 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Der Bundesrat hat zugestimmt.
 
 ### Anlage — (zu § 2)
-
-( Fundstelle: BGBl. I 2007, 2601 )Bezeichnung des österreichischen ZeugnissesBezeichnung des deutschen PrüfungszeugnissesJahres- und Abschlusszeugnis oder Abschlussprüfungszeugnis über das Bestehen der Werkmeisterschulen für Berufstätige fürZeugnis über das Bestehen der Prüfung zum anerkannten Abschluss1.BauwesenGeprüfter Polier2.ElektrotechnikGeprüfter Industriemeister/Geprüfte IndustriemeisterinFachrichtung Elektrotechnik3.KunststofftechnikGeprüfter Industriemeister/Geprüfte IndustriemeisterinFachrichtung Kunststoff undKautschuk4.PapierindustrieGeprüfter Industriemeister/Geprüfte IndustriemeisterinFachrichtung Papiererzeugung5.Technische Chemie und UmwelttechnikGeprüfter Industriemeister/Geprüfte IndustriemeisterinFachrichtung Chemie

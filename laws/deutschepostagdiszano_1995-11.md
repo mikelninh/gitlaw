@@ -19,5 +19,3 @@ Die Disziplinarbefugnisse der obersten Dienstbehörde in Verfahren gegen Ruhesta
 Diese Anordnung tritt am 1. Januar 1996 in Kraft.
 
 ### Schlußformel
-
-Deutsche Post AG

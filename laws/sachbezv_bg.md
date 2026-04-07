@@ -16,7 +16,11 @@ Die Sachbezugsverordnung 1991 in der Fassung der Bekanntmachung vom 18. Dezember
 
 ### § 2
 
-(1) Der Wert der freien Kost und Wohnung einschließlich Heizung und Beleuchtung wird auf monatlich 360 DM festgesetzt.(2) Der Wert der freien Wohnung einschließlich Heizung und Beleuchtung wird auf monatlich 65,70 DM festgesetzt. Werden nur Teile dieses Sachbezugs zur Verfügung gestellt, so sind für die Wohnung 45,00 DM, für Heizung 18,00 DM und für Beleuchtung 2,70 DM anzusetzen.(3) Wird freie Kost zur Verfügung gestellt, so sind die Werte anzusetzen, die sich aus § 4 der Sachbezugsverordnung 1991 in Verbindung mit § 1 Abs. 2 der Sachbezugsverordnung 1991 ergeben.
+(1) Der Wert der freien Kost und Wohnung einschließlich Heizung und Beleuchtung wird auf monatlich 360 DM festgesetzt.
+
+(2) Der Wert der freien Wohnung einschließlich Heizung und Beleuchtung wird auf monatlich 65,70 DM festgesetzt. Werden nur Teile dieses Sachbezugs zur Verfügung gestellt, so sind für die Wohnung 45,00 DM, für Heizung 18,00 DM und für Beleuchtung 2,70 DM anzusetzen.
+
+(3) Wird freie Kost zur Verfügung gestellt, so sind die Werte anzusetzen, die sich aus § 4 der Sachbezugsverordnung 1991 in Verbindung mit § 1 Abs. 2 der Sachbezugsverordnung 1991 ergeben.
 
 ### § 3
 

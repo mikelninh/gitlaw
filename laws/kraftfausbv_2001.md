@@ -23,31 +23,31 @@ Die Ausbildung dauert drei Jahre.
 
 Gegenstand der Berufsausbildung sind mindestens die Vermittlung der folgenden Fertigkeiten und Kenntnisse:
 
-1.
+1. Berufsbildung, Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-4.
+4. Umweltschutz,
 
-5.
+5. Kontrollieren, Warten und Pflegen der Fahrzeuge,
 
-6.
+6. Vorbereiten und Durchführen der Beförderung,
 
-7.
+7. Verkehrssicherheit, Führen von Fahrzeugen auf öffentlichen Straßen,
 
-8.
+8. Rechtsvorschriften im Straßenverkehr,
 
-9.
+9. Kundenorientiertes Verhalten,
 
-10.
+10. Verhalten nach Unfällen und Zwischenfällen,
 
-11.
+11. Betriebliche Planung und Logistik,
 
-12.
+12. Beförderungsbezogene Kostenrechnung und Vertragsabwicklung,
 
-13.
+13. Qualitätssichernde Maßnahmen.
 
 ### § 4 — Ausbildungsrahmenplan
 
@@ -71,55 +71,37 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (3) Der Prüfling soll in höchstens drei Stunden vier praktische Aufgaben ausführen. Dabei soll der Prüfling zeigen, dass er die Arbeitsschritte selbständig planen sowie Maßnahmen zum Umweltschutz, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zur Wirtschaftlichkeit ergreifen kann. Für die praktischen Aufgaben kommen insbesondere in Betracht:
 
-1.
+1. Kontrollieren, Warten und Pflegen der Fahrzeuge,
 
-2.
+2. Verhalten nach Unfällen und Zwischenfällen,
 
-3.
+3. Erstellen einer Fahrtenroute,
 
-4.
+4. beförderungsbezogene Kostenrechnung und Vertragsabwicklung.
 
 ### § 8 — Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt fünf Stunden eine praktische Aufgabe I sowie vier praktische Aufgaben II ausführen. Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe selbständig planen, durchführen und kontrollieren und dabei Maßnahmen zur Arbeitsorganisation, zum Umweltschutz, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zur Wirtschaftlichkeit sowie qualitätssichernde Maßnahmen ergreifen kann.Für die praktische Aufgabe I kommen insbesondere in Betracht: Verkehrssicheres Führen einer Fahrzeugkombination oder eines Sattelkraftfahrzeuges der Klasse CE mit einer Mindestlänge von 16 Metern oder eines Fahrzeuges der Klasse D mit einer Mindestlänge von 11,80 Metern auf öffentlichen Straßen.Für die vier praktischen Aufgaben II kommen insbesondere in Betracht: Bei der Aufgabenstellung ist der Ausbildungsschwerpunkt des Ausbildungsbetriebes zu berücksichtigen.
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt fünf Stunden eine praktische Aufgabe I sowie vier praktische Aufgaben II ausführen. Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe selbständig planen, durchführen und kontrollieren und dabei Maßnahmen zur Arbeitsorganisation, zum Umweltschutz, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zur Wirtschaftlichkeit sowie qualitätssichernde Maßnahmen ergreifen kann.
 
-1.
+1. Feststellen und Beschreiben von Fehlern und Mängeln am Fahrzeug sowie Ergreifen von Maßnahmen zur Fehlerbeseitigung,
 
-2.
+2. Durchführen einer Abfahrtkontrolle,
 
-3.
+3. Vorbereitung einer Beförderung, insbesondere a)Kontrollieren von Transportgütern auf Mängel und Schäden sowie Durchführen der Ladungssicherung,b)Kontrollieren von Gepäck auf Mängel und Schäden sowie Sicherstellen der Fahrgastsicherheit, Kontrollieren von Transportgütern auf Mängel und Schäden sowie Durchführen der Ladungssicherung, Kontrollieren von Gepäck auf Mängel und Schäden sowie Sicherstellen der Fahrgastsicherheit,
 
-a)
-
-b)
-
-4.
+4. Situationsbezogenes Führen eines Kundengespräches.
 
 (3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Beförderung, betriebliche Planung und Logistik sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Beförderung sowie betriebliche Planung und Logistik soll der Prüfling zeigen, dass er insbesondere durch Verknüpfung von arbeitsorganisatorischen, technologischen, wirtschaftlichen, logistischen und rechtlichen Inhalten praxisbezogene Fälle kundenorientiert lösen kann. Dabei sollen die Sicherheit und der Gesundheitsschutz bei der Arbeit, der Umweltschutz sowie qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
-1.
+1. im Prüfungsbereich Beförderung: a)Analysieren von Kundenanforderungen, Entwickeln und Festlegen von Lösungskonzepten unter Einsatz geeigneter Fahrzeuge,b)Sicherstellen der Verkehrs- und Betriebssicherheit der Fahrzeuge, der Ladung und Besetzung, Fahrzeugtechnik,c)Rechtsvorschriften im Straßenverkehr; Analysieren von Kundenanforderungen, Entwickeln und Festlegen von Lösungskonzepten unter Einsatz geeigneter Fahrzeuge, Sicherstellen der Verkehrs- und Betriebssicherheit der Fahrzeuge, der Ladung und Besetzung, Fahrzeugtechnik, Rechtsvorschriften im Straßenverkehr;
 
-a)
+2. im Prüfungsbereich betriebliche Planung und Logistik: a)Erstellen von Beförderungskonzeptionen,b)Planen des Einsatzes von Personal und Sachmitteln; Erstellen von Beförderungskonzeptionen, Planen des Einsatzes von Personal und Sachmitteln;
 
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-3.
-
-(4) Der schriftliche Teil der Prüfung dauert höchstens:
+3. im Prüfungsbereich Wirtschafts- und Sozialkunde: allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- und Arbeitswelt.
 
 (5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
-
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des praktischen Teils der Prüfung in der praktischen Aufgabe I sowie innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Beförderung oder im Prüfungsbereich betriebliche Planung und Logistik mindestens ausreichende Leistungen erbracht sind. Werden die Prüfungsleistungen in einer der praktischen Aufgaben oder in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
@@ -133,4 +115,4 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
 
 ### Anlage — (zu § 4 Abs. 1)
 
-*)
+*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.

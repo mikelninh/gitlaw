@@ -22,21 +22,17 @@ Die nach Landesrecht zuständigen Stellen gewähren die gemeinschaftsrechtlich v
 
 Den Landesregierungen wird die Befugnis übertragen, durch Rechtsverordnung
 
-1.
+1. die nach den in § 1 bezeichneten Vorschriften erforderlichen Bestimmungen über das Verfahren, einschließlich des Verfahrens bei Anwendung eines einzigen Annahmeprozentsatzes nach Maßgabe des Artikels 71 der Verordnung (EG) Nr. 555/2008, und die Frist für die Durchführung der Rodung zu erlassen sowie
 
-2.
-
-a)
-
-b)
+2. zu bestimmen, welche Nachweise von den Erzeugern zur Ermittlung des historischen Ertrages in welcher Art und Weise zu erbringen sind, insbesondere wenn der Erzeuger a)von der Abgabe einer Erntemeldung befreit ist oderb)beantragt, die Prämie auf der Grundlage des Durchschnittsertrags der Parzelle festzusetzen. von der Abgabe einer Erntemeldung befreit ist oder beantragt, die Prämie auf der Grundlage des Durchschnittsertrags der Parzelle festzusetzen.
 
 ### § 4 — Ausschluss von Rebflächen
 
 (1) In einer Rechtsverordnung nach § 3 kann die Gewährung einer Rodungsprämie ausgeschlossen werden für Rebflächen mit
 
-1.
+1. einer Hangneigung von 30 vom Hundert und mehr oder
 
-2.
+2. mit Terrassen.
 
 (2) Ferner kann in einer Rechtsverordnung nach § 3 vorgesehen werden, dass Anträge auf Rodungsprämien in einem bestimmten Anbaugebiet abzulehnen sind, soweit die in dem bestimmten Anbaugebiet beantragten und genehmigten Rodungsmaßnahmen einen Umfang von 10 vom Hundert der Rebfläche des Anbaugebiets erreicht haben. Im Falle einer Regelung nach Satz 1 sind durch geeignete Verfahrensbestimmungen Vorkehrungen für eine gleichmäßige Behandlung aller Anträge zu treffen.
 

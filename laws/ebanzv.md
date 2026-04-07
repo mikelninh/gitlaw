@@ -24,15 +24,15 @@ Die Beliehene ist berechtigt, das kleine Bundessiegel zu führen. Es wird vom Bu
 
 (2) Die Kündigung nach Absatz 1 ist nur aus wichtigem Grund zulässig. Ein wichtiger Grund liegt vor, wenn dem Kündigenden unter Berücksichtigung aller Umstände des Einzelfalls und unter Abwägung der Interessen beider Teile die Fortsetzung des Auftragsverhältnisses bis zum Ablauf des Zeitpunkts des Außerkrafttretens der Verordnung nach § 5 nicht zugemutet werden kann, insbesondere wenn
 
-1.
+1. das Verhalten der Beliehenen geeignet ist, das Ansehen der Bundesrepublik Deutschland oder eines der Länder zu schädigen;
 
-2.
+2. die personelle oder sachliche Ausstattung oder die Betriebsabläufe nicht mehr die Gewähr für einen ordnungsgemäßen Betrieb des Unternehmensregisters bieten;
 
-3.
+3. wiederholt oder grob gegen Bestimmungen zur Führung des Unternehmensregisters verstoßen wurde;
 
-4.
+4. die Überschuldung der Beliehenen droht;
 
-5.
+5. das Insolvenzverfahren über das Vermögen der Beliehenen eröffnet wurde.
 
 (3) Die Kündigung kann nur innerhalb von zwei Wochen erfolgen. Die Frist beginnt mit dem Zeitpunkt, in dem der Kündigungsberechtigte von den für die Kündigung maßgebenden Tatsachen Kenntnis erlangt. Der Kündigende muss dem anderen Teil auf Verlangen den Kündigungsgrund unverzüglich schriftlich mitteilen.
 
@@ -42,9 +42,9 @@ Die Beliehene ist berechtigt, das kleine Bundessiegel zu führen. Es wird vom Bu
 
 (1) An dem Tag, an dem die Beleihung endet, hat die Beliehene dem Bundesministerium der Justiz und für Verbraucherschutz oder einer von diesem bestimmten Stelle unverzüglich
 
-1.
+1. alle für den ordnungsgemäßen Weiterbetrieb des Unternehmensregisters erforderliche Software und Daten zur Verfügung zu stellen und
 
-2.
+2. die Rechte an dieser Software und an der für das Unternehmensregister genutzten Internetadresse zu übertragen.
 
 (2) Die Kosten für die Abwicklung nach Absatz 1 werden nicht vom Bundesministerium der Justiz und für Verbraucherschutz erstattet. Das Bundesministerium der Justiz und für Verbraucherschutz erstattet solche Kosten nur, wenn es sich um Lizenz- und Übertragungsgebühren handelt, die Dritten zustehen, die nicht mit der Beliehenen gesellschaftsrechtlich verbunden sind.
 

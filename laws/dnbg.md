@@ -16,15 +16,11 @@
 
 Die Bibliothek hat die Aufgabe,
 
-1.
+1. a)die ab 1913 in Deutschland veröffentlichten Medienwerke und b)die ab 1913 im Ausland veröffentlichten deutschsprachigen Medienwerke, Übersetzungen deutschsprachiger Medienwerke in andere Sprachen und fremdsprachigen Medienwerke über Deutschland die ab 1913 in Deutschland veröffentlichten Medienwerke und die ab 1913 im Ausland veröffentlichten deutschsprachigen Medienwerke, Übersetzungen deutschsprachiger Medienwerke in andere Sprachen und fremdsprachigen Medienwerke über Deutschland im Original zu sammeln, zu inventarisieren, zu erschließen und bibliografisch zu verzeichnen, auf Dauer zu sichern und für die Allgemeinheit nutzbar zu machen sowie zentrale bibliothekarische und nationalbibliografische Dienste zu leisten,
 
-a)
+2. das Deutsche Exilarchiv 1933 - 1945, die Anne-Frank-Shoah-Bibliothek sowie das Deutsche Buch- und Schriftmuseum zu betreiben,
 
-b)
-
-2.
-
-3.
+3. mit den Facheinrichtungen Deutschlands und des Auslands zusammenzuarbeiten sowie in nationalen und internationalen Fachorganisationen mitzuwirken.
 
 ### § 3 — Medienwerke
 
@@ -48,23 +44,23 @@ b)
 
 Organe der Bibliothek sind
 
-1.
+1. der Verwaltungsrat,
 
-2.
+2. die Generaldirektorin oder der Generaldirektor,
 
-3.
+3. die Beiräte.
 
 ### § 6 — Verwaltungsrat
 
-(1) Der Verwaltungsrat hat 13 Mitglieder. Diese werden nach Maßgabe der Nummern 1 bis 4 bestimmt. Für jedes Mitglied soll eine Stellvertreterin oder ein Stellvertreter bestellt werden.
+(1) Der Verwaltungsrat hat 13 Mitglieder. Diese werden nach Maßgabe der Nummern 1 bis 4 bestimmt.
 
-1.
+1. Der Deutsche Bundestag entsendet zwei Personen;
 
-2.
+2. die Bundesregierung entsendet drei Personen, davon mindestens zwei aus der für Kultur und Medien zuständigen obersten Bundesbehörde;
 
-3.
+3. der Börsenverein des Deutschen Buchhandels entsendet drei Personen;
 
-4.
+4. die Deutsche Forschungsgemeinschaft, der Deutsche Musikverlegerverband, der Bundesverband der Phonographischen Wirtschaft, die Stadt Frankfurt am Main sowie die Stadt Leipzig entsenden jeweils eine Person.
 
 (2) Den Vorsitz führt ein von der Bundesregierung entsandtes und der für Kultur und Medien zuständigen obersten Bundesbehörde angehörendes Mitglied.
 
@@ -158,9 +154,9 @@ Für Medienwerke in körperlicher Form gewährt die Bibliothek den Ablieferungsp
 
 (1) Ordnungswidrig handelt, wer
 
-1.
+1. entgegen § 14 Abs. 1, 2 oder 3 ein Medienwerk nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig abliefert oder
 
-2.
+2. entgegen § 17 Satz 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt.
 
 (2) Ordnungswidrig handelt, wer als gewerblich tätige Ablieferungspflichtige oder als gewerblich tätiger Ablieferungspflichtiger eine in Absatz 1 bezeichnete Handlung fahrlässig begeht.
 
@@ -172,13 +168,13 @@ Für Medienwerke in körperlicher Form gewährt die Bibliothek den Ablieferungsp
 
 Zur geordneten Durchführung der Pflichtablieferung und um einen nicht vertretbaren Aufwand der Bibliothek sowie um Unbilligkeiten zu vermeiden, wird das für Kultur und Medien zuständige Mitglied der Bundesregierung ermächtigt, durch Rechtsverordnung zu regeln:
 
-1.
+1. die Einschränkung der Ablieferungs- oder der Sammelpflicht für bestimmte Gattungen von Medienwerken, wenn für deren Sammlung, Inventarisierung, Erschließung, Sicherung und Nutzbarmachung kein öffentliches Interesse besteht,
 
-2.
+2. die Beschaffenheit der ablieferungspflichtigen Medienwerke und die Ablieferung in Fällen, in denen ein Medienwerk in verschiedenen Ausgaben oder Fassungen verbreitet oder öffentlich zugänglich gemacht wird,
 
-3.
+3. das Verfahren der Ablieferung der Medienwerke sowie
 
-4.
+4. die Voraussetzungen und das Verfahren bei der Gewährung von Zuschüssen.
 
 ### § 21 — Landesrechtliche Regelungen
 

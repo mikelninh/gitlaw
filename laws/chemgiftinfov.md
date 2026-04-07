@@ -11,9 +11,9 @@ Chemikaliengesetzes zur Vorbeugung und Information bei Vergiftungen
 
 Diese Verordnung trifft nähere Bestimmungen über Art, Umfang, Inhalt und Form von Mitteilungen an das Bundesinstitut für Risikobewertung,
 
-1.
+1. die derjenige, der bestimmte Gemische oder ein Biozid-Produkt in den Verkehr bringt, nach § 16e Abs. 1 des Chemikaliengesetzes abzugeben hat,
 
-2.
+2. die ein Arzt nach § 16e Abs. 2 des Chemikaliengesetzes bei Vergiftungsfällen abzugeben hat.
 
 ### § 2 — Mitteilungspflicht beim Inverkehrbringen von Gemischen und Biozid-Produkten
 
@@ -23,15 +23,15 @@ Diese Verordnung trifft nähere Bestimmungen über Art, Umfang, Inhalt und Form 
 
 ### § 3 — Ärztliche Mitteilungspflicht bei Vergiftungen (§ 16e Abs. 2 des Chemikaliengesetzes)
 
-(1) Die Mitteilung nach § 16e Abs. 2 des Chemikaliengesetzes hat unter Verwendung des Formblattes nach der Anlage zu erfolgen und muß zumindest die Angaben zu den Nummern 1 bis 4 des Formblattes umfassen. Sie hat unverzüglich zu erfolgen. Wenn zur Beratung ein Informations- und Behandlungszentrum für Vergiftungen hinzugezogen wird, ist eine Mitteilung nur von dem behandelnden Arzt vorzunehmen.
+(1) Die Mitteilung nach § 16e Abs. 2 des Chemikaliengesetzes hat unter Verwendung des Formblattes nach der Anlage zu erfolgen und muß zumindest die Angaben zu den Nummern 1 bis 4 des Formblattes umfassen. Sie hat
 
-1.
+1. bei akuten Erkrankungen nach Abschluß der Behandlung,
 
-2.
+2. bei chronischen Erkrankungen nach Stellung der Diagnose,
 
-3.
+3. bei einer Beratung im Zusammenhang mit einer Erkrankung nach Abschluß der Beratung,
 
-4.
+4. sofern im Falle einer Erkrankung mit Todesfolge eine Obduktion durchgeführt wird, nach deren Abschluß
 
 (2) Das Bundesinstitut für Risikobewertung kann die Übermittlung der Angaben nach Absatz 1 auch auf andere geeignete Weise zulassen.
 
@@ -48,5 +48,3 @@ Alle nach § 2 und auf dem Formblatt nach der Anlage übermittelten Daten, einsc
 (Inkrafttreten)
 
 ### Anlage — (zu § 3 Absatz 1)
-
-(Fundstelle: BGBl. I 2002, 2523;

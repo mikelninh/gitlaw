@@ -19,4 +19,8 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar
 
 ### § 3
 
-(1) Diese Verordnung tritt an dem Tage in Kraft, an dem das Weizenhandels-Übereinkommen von 1971 nach seinem Artikel 26 für die Bundesrepublik Deutschland in Kraft tritt.(2) Diese Verordnung tritt an dem Tage außer Kraft, an dem das Weizenhandels-Übereinkommen von 1971 für die Bundesrepublik Deutschland außer Kraft tritt.(3) Der Tag des Inkrafttretens und des Außerkrafttretens ist im Bundesgesetzblatt bekanntzugeben.
+(1) Diese Verordnung tritt an dem Tage in Kraft, an dem das Weizenhandels-Übereinkommen von 1971 nach seinem Artikel 26 für die Bundesrepublik Deutschland in Kraft tritt.
+
+(2) Diese Verordnung tritt an dem Tage außer Kraft, an dem das Weizenhandels-Übereinkommen von 1971 für die Bundesrepublik Deutschland außer Kraft tritt.
+
+(3) Der Tag des Inkrafttretens und des Außerkrafttretens ist im Bundesgesetzblatt bekanntzugeben.

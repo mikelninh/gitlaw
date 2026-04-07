@@ -17,39 +17,39 @@ Anforderungsbehörden gemäß § 5 Abs. 1 und § 79 Satz 1 des Bundesleistungsge
 
 ### § 2 — Besondere Anforderungsbehörden
 
-(1) Anforderungsbehörden sind für die Inanspruchnahme von Bei Schiffen und Luftfahrzeugen im Ausland sind auch die diplomatischen und konsularischen Vertretungen der Bundesrepublik Deutschland als Anforderungsbehörden zuständig. Das völkerrechtliche Erfordernis einer Zustimmung der Regierung des Gastlandes zur Wahrnehmung dieser Befugnis bleibt unberührt.
+(1) Anforderungsbehörden sind für die Inanspruchnahme von
 
-1.
+1. Seeschiffen - mit Ausnahme der Seefischereifahrzeuge - nebst Zubehördie Generaldirektion Wasserstraßen und Schifffahrt; die Generaldirektion Wasserstraßen und Schifffahrt;
 
-2.
+2. Seefischereifahrzeugen nebst Zubehördie staatlichen Fischereiämter; die staatlichen Fischereiämter; soweit es sich um Fahrzeuge der Großen Hochseefischerei handelt,die für die Fischerei zuständigen obersten Landesbehörden; die für die Fischerei zuständigen obersten Landesbehörden;
 
-3.
+3. Binnenschiffen, für die eine technische Zulassung zum Verkehr auf Bundeswasserstraßen erforderlich ist, nebst Zubehör, ausgenommen Schiffe, die ausschließlich im Hafenbetrieb verwendet werden,die Generaldirektion Wasserstraßen und Schifffahrt; die Generaldirektion Wasserstraßen und Schifffahrt;
 
-4.
+4. Luftfahrzeugen nebst Zubehörmit einer Höchstmasse bis zu 5,7 tdie für die Luftfahrt zuständigen obersten Landesbehörden,in Baden-Württemberg, Bayern, Hessen, Niedersachsen und Rheinland-Pfalzdie für die Luftfahrt zuständigen höheren Verkehrsbehörden;mit einer Höchstmasse über 5,7 tdas Bundesministerium für Verkehr und digitale Infrastruktur; mit einer Höchstmasse bis zu 5,7 tdie für die Luftfahrt zuständigen obersten Landesbehörden,in Baden-Württemberg, Bayern, Hessen, Niedersachsen und Rheinland-Pfalzdie für die Luftfahrt zuständigen höheren Verkehrsbehörden; die für die Luftfahrt zuständigen obersten Landesbehörden, in Baden-Württemberg, Bayern, Hessen, Niedersachsen und Rheinland-Pfalz die für die Luftfahrt zuständigen höheren Verkehrsbehörden; mit einer Höchstmasse über 5,7 tdas Bundesministerium für Verkehr und digitale Infrastruktur; das Bundesministerium für Verkehr und digitale Infrastruktur;
 
-5.
+5. Kraftfahrzeugen und ihren Anhängern nebst Zubehördie unteren Verkehrsbehörden der Länder; die unteren Verkehrsbehörden der Länder;
 
-6.
+6. Straßenbahnen und Oberleitungsbussen nebst Zubehördie höheren oder, wo solche nicht bestehen, die obersten Verkehrsbehörden der Länder; die höheren oder, wo solche nicht bestehen, die obersten Verkehrsbehörden der Länder;
 
-7.
+7. privaten Eisenbahnwagen nebst Zubehör auf Bahnen des öffentlichen Verkehrsdas Eisenbahn-Bundesamt; das Eisenbahn-Bundesamt;
 
-8.
+8. Wohnraumdie Gemeindebehörden. die Gemeindebehörden.
 
-(2) Für Anforderungen nach § 2 Abs. 1 Nr. 7 des Bundesleistungsgesetzes sind zuständig bei Soweit die Anforderungen Einbauten betreffen, die Unterbrechenseinrichtungen für militärische Zwecke dienen, sind bei den Nummern 2, 4 und 5 die höheren Verwaltungsbehörden zuständig.
+(2) Für Anforderungen nach § 2 Abs. 1 Nr. 7 des Bundesleistungsgesetzes sind zuständig bei
 
-1.
+1. Anlagen des Straßenbausdie höheren oder, wo solche nicht bestehen, die obersten Straßenbaubehörden der Länder,in Nordrhein-Westfalen die Landschaftsverbände; die höheren oder, wo solche nicht bestehen, die obersten Straßenbaubehörden der Länder, in Nordrhein-Westfalen die Landschaftsverbände;
 
-2.
+2. Anlagen in Bundeswasserstraßen, mit Ausnahme der Teile der Bundeswasserstraße Elbe, die vom Land Hamburg verwaltet werden,die Generaldirektion Wasserstraßen und Schifffahrt; die Generaldirektion Wasserstraßen und Schifffahrt;
 
-3.
+3. sonstigen Wasserbauanlagendie höheren oder, wo solche nicht bestehen, die obersten Wasserbehörden der Länder; die höheren oder, wo solche nicht bestehen, die obersten Wasserbehörden der Länder;
 
-4.
+4. bundeseigenen Häfendie Generaldirektion Wasserstraßen und Schifffahrt; die Generaldirektion Wasserstraßen und Schifffahrt;
 
-5.
+5. sonstigen Häfendie Hafenaufsichtsbehörden der Länder, inBaden-Württemberg, Hessen und Niedersachsen die Hafenbehörden,Bayern und Nordrhein-Westfalendie Behörden der allgemeinen Verwaltung auf der Kreisstufe,Rheinland-Pfalzdie höheren Verkehrsbehörden; die Hafenaufsichtsbehörden der Länder, in Baden-Württemberg, Hessen und Niedersachsen die Hafenbehörden, Bayern und Nordrhein-Westfalen die Behörden der allgemeinen Verwaltung auf der Kreisstufe, Rheinland-Pfalz die höheren Verkehrsbehörden;
 
-6.
+6. Flughäfendie für die Luftfahrt zuständigen obersten Landesbehörden; die für die Luftfahrt zuständigen obersten Landesbehörden;
 
-7.
+7. Flugplätzen (ausgenommen Nr. 6)die für die Luftfahrt zuständigen obersten Landesbehörden,in Baden-Württemberg, Bayern, Niedersachsen und Rheinland-Pfalzdie für die Luftfahrt zuständigen höheren Verkehrsbehörden. die für die Luftfahrt zuständigen obersten Landesbehörden, in Baden-Württemberg, Bayern, Niedersachsen und Rheinland-Pfalz die für die Luftfahrt zuständigen höheren Verkehrsbehörden.
 
 (3) Die Zuständigkeit der in Absatz 1 genannten Behörden erstreckt sich auch auf die Anforderung von Leistungen nach § 2 Abs. 1 Nr. 9 und 10 des Bundesleistungsgesetzes, die mit den in Absatz 1 genannten Verkehrsmitteln zu erbringen sind.
 
@@ -75,43 +75,43 @@ Solange Anforderungsbehörden aus tatsächlichen Gründen nicht in der Lage sind
 
 Bedarfsträger gemäß § 7 Abs. 2 des Bundesleistungsgesetzes sind
 
-1.
+1. der Bund, auch soweit es sich um den Bedarf der verbündeten Streitkräfte und der internationalen militärischen Hauptquartiere im Geltungsbereich des Bundesleistungsgesetzes handelt,
 
-2.
+2. die Länder,
 
-3.
+3. die Gemeinden und Gemeindeverbände,
 
-4.
+4. die Träger der Sozialhilfe,
 
-5.
+5. die Zweckverbände, die der öffentlichen Versorgung mit Elektrizität, Gas, Wasser oder der Abwasserbeseitigung dienen oder Krankenhäuser unterhalten.
 
 ### § 7 — Bedarfsträger für Manöver oder andere Übungen
 
 Bedarfsträger für Manöver oder andere Übungen von Truppen oder Verbänden und Einheiten des Zivilschutzes (§ 66 Abs. 1, § 80 des Bundesleistungsgesetzes) sind
 
-1.
+1. der Bund, auch soweit es sich um Manöver (Übungen) der verbündeten Streitkräfte handelt,
 
-2.
+2. die Länder,
 
-3.
+3. die Gemeinden und Gemeindeverbände.
 
 ### § 8 — Zuständigkeit in Stadtstaaten
 
 (1) Im Land Bremen sind zuständige Anforderungsbehörden
 
-1.
+1. in der Stadtgemeinde Bremender Senat; der Senat;
 
-2.
+2. in der Stadtgemeinde Bremerhavender Magistrat. der Magistrat.
 
-(2) Im Land Hamburg sind zuständig zuständige Fachbehörde.
+(2) Im Land Hamburg sind zuständig
 
-1.
+1. in den Fällen der §§ 1 und 2 Abs. 1 Nr. 8die Bezirksämter; die Bezirksämter;
 
-2.
+2. für Schiffe, die nicht die Voraussetzungen des § 2 Abs. 1 Nr. 3 erfüllen,die für die Verkehrssicherstellung zuständige Fachbehörde; die für die Verkehrssicherstellung zuständige Fachbehörde;
 
-3.
+3. für Anlagen in Bundeswasserstraßen, soweit diese vom Land Hamburg verwaltet werden,die bei Gewässern I. Ordnung für die Ausführung von Wasserbauanlagen zuständige Fachbehörde; die bei Gewässern I. Ordnung für die Ausführung von Wasserbauanlagen zuständige Fachbehörde;
 
-4.
+4. in den Fällen des § 2Abs. 1 Nr. 2die für die Fischerei, Abs. 1 Nr. 4 und Abs. 2 Satz 1 Nr. 6 und 7die für die Luftfahrt, Abs. 1 Nr. 5 und 6die für die Verkehrssicherstellung, Abs. 2 Satz 1 Nr. 1die für den Straßenbau, Abs. 2 Satz 1 Nr. 3 und Abs. 2 Satz 2 in Verbindung mit Satz 1 Nr. 2die bei Gewässern I. Ordnung für die Ausführung von Wasserbauanlagen, Abs. 2 Satz 1 Nr. 5 und Abs. 2 Satz 2 in Verbindung mit Satz 1 Nr. 4 und 5die für die Hafenaufsicht Abs. 1 Nr. 2die für die Fischerei, die für die Fischerei, Abs. 1 Nr. 4 und Abs. 2 Satz 1 Nr. 6 und 7die für die Luftfahrt, die für die Luftfahrt, Abs. 1 Nr. 5 und 6die für die Verkehrssicherstellung, die für die Verkehrssicherstellung, Abs. 2 Satz 1 Nr. 1die für den Straßenbau, die für den Straßenbau, Abs. 2 Satz 1 Nr. 3 und Abs. 2 Satz 2 in Verbindung mit Satz 1 Nr. 2die bei Gewässern I. Ordnung für die Ausführung von Wasserbauanlagen, die bei Gewässern I. Ordnung für die Ausführung von Wasserbauanlagen, Abs. 2 Satz 1 Nr. 5 und Abs. 2 Satz 2 in Verbindung mit Satz 1 Nr. 4 und 5die für die Hafenaufsicht die für die Hafenaufsicht
 
 ### § 9 — Inkrafttreten
 

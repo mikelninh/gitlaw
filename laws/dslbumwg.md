@@ -18,13 +18,13 @@
 
 ### § 2 — Wirkungen der Umwandlung für die Anteilsinhaber
 
-Die Anteilsinhaber der Deutschen Siedlungs- und Landesrentenbank übernehmen das Grundkapital der Aktiengesellschaft in Höhe von 113.750.000 Deutsche Mark, das in 56.875.000 Stückaktien eingeteilt ist. Den Anteilsinhabern steht die folgende Zahl von Aktien zu: Ferner steht der Bundesrepublik Deutschland und dem Freistaat Bayern eine Aktie in Bruchteilsgemeinschaft jeweils zur Hälfte zu.
+Die Anteilsinhaber der Deutschen Siedlungs- und Landesrentenbank übernehmen das Grundkapital der Aktiengesellschaft in Höhe von 113.750.000 Deutsche Mark, das in 56.875.000 Stückaktien eingeteilt ist. Den Anteilsinhabern steht die folgende Zahl von Aktien zu:
 
-1.
+1. Bundesrepublik Deutschland: 56.340.575
 
-2.
+2. Land Berlin: 356.283
 
-3.
+3. Freistaat Bayern: 178.141.
 
 ### § 3 — Satzung
 

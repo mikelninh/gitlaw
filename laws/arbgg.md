@@ -16,47 +16,33 @@ Die Gerichtsbarkeit in Arbeitssachen - §§ 2 bis 3 - wird ausgeübt durch die A
 
 (1) Die Gerichte für Arbeitssachen sind ausschließlich zuständig für
 
-1.
+1. bürgerliche Rechtsstreitigkeiten zwischen Tarifvertragsparteien oder zwischen diesen und Dritten aus Tarifverträgen oder über das Bestehen oder Nichtbestehen von Tarifverträgen;
 
-2.
+2. bürgerliche Rechtsstreitigkeiten zwischen tariffähigen Parteien oder zwischen diesen und Dritten aus unerlaubten Handlungen, soweit es sich um Maßnahmen zum Zwecke des Arbeitskampfs oder um Fragen der Vereinigungsfreiheit einschließlich des hiermit im Zusammenhang stehenden Betätigungsrechts der Vereinigungen handelt;
 
-3.
+3. bürgerliche Rechtsstreitigkeiten zwischen Arbeitnehmern und Arbeitgeberna)aus dem Arbeitsverhältnis;b)über das Bestehen oder Nichtbestehen eines Arbeitsverhältnisses;c)aus Verhandlungen über die Eingehung eines Arbeitsverhältnisses und aus dessen Nachwirkungen;d)aus unerlaubten Handlungen, soweit diese mit dem Arbeitsverhältnis im Zusammenhang stehen;e)über Arbeitspapiere; aus dem Arbeitsverhältnis; über das Bestehen oder Nichtbestehen eines Arbeitsverhältnisses; aus Verhandlungen über die Eingehung eines Arbeitsverhältnisses und aus dessen Nachwirkungen; aus unerlaubten Handlungen, soweit diese mit dem Arbeitsverhältnis im Zusammenhang stehen; über Arbeitspapiere;
 
-a)
+4. bürgerliche Rechtsstreitigkeiten zwischen Arbeitnehmern oder ihren Hinterbliebenen unda)Arbeitgebern über Ansprüche, die mit dem Arbeitsverhältnis in rechtlichem oder unmittelbar wirtschaftlichem Zusammenhang stehen;b)gemeinsamen Einrichtungen der Tarifvertragsparteien oder Sozialeinrichtungen des privaten Rechts oder Versorgungseinrichtungen, soweit Letztere reine Beitragszusagen nach § 1 Absatz 2 Nummer 2a des Betriebsrentengesetzes durchführen, über Ansprüche aus dem Arbeitsverhältnis oder Ansprüche, die mit dem Arbeitsverhältnis in rechtlichem oder unmittelbar wirtschaftlichem Zusammenhang stehen, Arbeitgebern über Ansprüche, die mit dem Arbeitsverhältnis in rechtlichem oder unmittelbar wirtschaftlichem Zusammenhang stehen; gemeinsamen Einrichtungen der Tarifvertragsparteien oder Sozialeinrichtungen des privaten Rechts oder Versorgungseinrichtungen, soweit Letztere reine Beitragszusagen nach § 1 Absatz 2 Nummer 2a des Betriebsrentengesetzes durchführen, über Ansprüche aus dem Arbeitsverhältnis oder Ansprüche, die mit dem Arbeitsverhältnis in rechtlichem oder unmittelbar wirtschaftlichem Zusammenhang stehen, soweit nicht die ausschließliche Zuständigkeit eines anderen Gerichts gegeben ist;
 
-b)
+5. bürgerliche Rechtsstreitigkeiten zwischen Arbeitnehmern oder ihren Hinterbliebenen und dem Träger der Insolvenzsicherung über Ansprüche auf Leistungen der Insolvenzsicherung nach dem Vierten Abschnitt des Ersten Teils des Gesetzes zur Verbesserung der betrieblichen Altersversorgung;
 
-c)
+6. bürgerliche Rechtsstreitigkeiten zwischen Arbeitgebern und Einrichtungen nach Nummer 4 Buchstabe b und Nummer 5 sowie zwischen diesen Einrichtungen, soweit nicht die ausschließliche Zuständigkeit eines anderen Gerichts gegeben ist;
 
-d)
+7. bürgerliche Rechtsstreitigkeiten zwischen Entwicklungshelfern und Trägern des Entwicklungsdienstes nach dem Entwicklungshelfergesetz;
 
-e)
+8. bürgerliche Rechtsstreitigkeiten zwischen den Trägern des freiwilligen sozialen oder ökologischen Jahres oder den Einsatzstellen und Freiwilligen nach dem Jugendfreiwilligendienstegesetz;
 
-4.
+8a. bürgerliche Rechtsstreitigkeiten zwischen dem Bund oder den Einsatzstellen des Bundesfreiwilligendienstes oder deren Trägern und Freiwilligen nach dem Bundesfreiwilligendienstgesetz;
 
-a)
+9. bürgerliche Rechtsstreitigkeiten zwischen Arbeitnehmern aus gemeinsamer Arbeit und aus unerlaubten Handlungen, soweit diese mit dem Arbeitsverhältnis im Zusammenhang stehen;
 
-b)
-
-5.
-
-6.
-
-7.
-
-8.
-
-8a.
-
-9.
-
-10.
+10. bürgerliche Rechtsstreitigkeiten zwischen behinderten Menschen im Arbeitsbereich von Werkstätten für behinderte Menschen und den Trägern der Werkstätten aus den in § 221 des Neunten Buches Sozialgesetzbuch geregelten arbeitnehmerähnlichen Rechtsverhältnissen.
 
 (2) Die Gerichte für Arbeitssachen sind auch zuständig für bürgerliche Rechtsstreitigkeiten zwischen Arbeitnehmern und Arbeitgebern,
 
-a)
+a) die ausschließlich Ansprüche auf Leistung einer festgestellten oder festgesetzten Vergütung für eine Arbeitnehmererfindung oder für einen technischen Verbesserungsvorschlag nach § 20 Abs. 1 des Gesetzes über Arbeitnehmererfindungen zum Gegenstand haben;
 
-b)
+b) die als Urheberrechtsstreitsachen aus Arbeitsverhältnissen ausschließlich Ansprüche auf Leistung einer vereinbarten Vergütung zum Gegenstand haben.
 
 (3) Vor die Gerichte für Arbeitssachen können auch nicht unter die Absätze 1 und 2 fallende Rechtsstreitigkeiten gebracht werden, wenn der Anspruch mit einer bei einem Arbeitsgericht anhängigen oder gleichzeitig anhängig werdenden bürgerlichen Rechtsstreitigkeit der in den Absätzen 1 und 2 bezeichneten Art in rechtlichem oder unmittelbar wirtschaftlichem Zusammenhang steht und für seine Geltendmachung nicht die ausschließliche Zuständigkeit eines anderen Gerichts gegeben ist.
 
@@ -68,33 +54,33 @@ b)
 
 (1) Die Gerichte für Arbeitssachen sind ferner ausschließlich zuständig für
 
-1.
+1. Angelegenheiten aus dem Betriebsverfassungsgesetz, soweit nicht für Maßnahmen nach seinen §§ 119 bis 121 die Zuständigkeit eines anderen Gerichts gegeben ist;
 
-2.
+2. Angelegenheiten aus dem Sprecherausschußgesetz, soweit nicht für Maßnahmen nach seinen §§ 34 bis 36 die Zuständigkeit eines anderen Gerichts gegeben ist;
 
-3.
+3. Angelegenheiten aus dem Mitbestimmungsgesetz, dem Mitbestimmungsergänzungsgesetz und dem Drittelbeteiligungsgesetz, soweit über die Wahl von Vertretern der Arbeitnehmer in den Aufsichtsrat und über ihre Abberufung mit Ausnahme der Abberufung nach § 103 Abs. 3 des Aktiengesetzes zu entscheiden ist;
 
-3a.
+3a. Angelegenheiten aus den §§ 177, 178 und 222 des Neunten Buches Sozialgesetzbuch,
 
-3b.
+3b. Angelegenheiten aus dem Gesetz über Europäische Betriebsräte, soweit nicht für Maßnahmen nach seinen §§ 43 bis 45 die Zuständigkeit eines anderen Gerichts gegeben ist;
 
-3c.
+3c. Angelegenheiten aus § 51 des Berufsbildungsgesetzes;
 
-3d.
+3d. Angelegenheiten aus § 10 des Bundesfreiwilligendienstgesetzes;
 
-3e.
+3e. Angelegenheiten aus dem SE-Beteiligungsgesetz vom 22. Dezember 2004 (BGBl. I S. 3675, 3686) mit Ausnahme der §§ 45 und 46 und nach den §§ 34 bis 39 nur insoweit, als über die Wahl von Vertretern der Arbeitnehmer in das Aufsichts- oder Verwaltungsorgan sowie deren Abberufung mit Ausnahme der Abberufung nach § 103 Abs. 3 des Aktiengesetzes zu entscheiden ist;
 
-3f.
+3f. Angelegenheiten aus dem SCE-Beteiligungsgesetz vom 14. August 2006 (BGBl. I S. 1911, 1917) mit Ausnahme der §§ 47 und 48 und nach den §§ 34 bis 39 nur insoweit, als über die Wahl von Vertretern der Arbeitnehmer in das Aufsichts- oder Verwaltungsorgan sowie deren Abberufung zu entscheiden ist;
 
-3g.
+3g. Angelegenheiten aus dem Gesetz über die Mitbestimmung der Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung vom 21. Dezember 2006 (BGBl. I S. 3332) in der jeweils geltenden Fassung mit Ausnahme der §§ 34 und 35 und nach den §§ 23 bis 28 nur insoweit, als über die Wahl von Vertretern der Arbeitnehmer in das Aufsichts- oder Verwaltungsorgan sowie deren Abberufung mit Ausnahme der Abberufung nach § 103 Abs. 3 des Aktiengesetzes zu entscheiden ist;
 
-3h.
+3h. Angelegenheiten aus dem Gesetz über die Mitbestimmung der Arbeitnehmer bei grenzüberschreitendem Formwechsel und grenzüberschreitender Spaltung vom 4. Januar 2023 (BGBl. 2023 I Nr. 10) in der jeweils geltenden Fassung mit Ausnahme der §§ 38 und 39 und nach den §§ 25 bis 30 nur insoweit, als über die Wahl von Vertretern der Arbeitnehmer in das Aufsichts- oder Verwaltungsorgan sowie deren Abberufung mit Ausnahme der Abberufung nach § 103 Absatz 3 des Aktiengesetzes zu entscheiden ist;
 
-4.
+4. die Entscheidung über die Tariffähigkeit und die Tarifzuständigkeit einer Vereinigung;
 
-5.
+5. die Entscheidung über die Wirksamkeit einer Allgemeinverbindlicherklärung nach § 5 des Tarifvertragsgesetzes, einer Rechtsverordnung nach § 7 oder § 7a des Arbeitnehmer-Entsendegesetzes und einer Rechtsverordnung nach § 3a des Arbeitnehmerüberlassungsgesetzes;
 
-6.
+6. die Entscheidung über den nach § 4a Absatz 2 Satz 2 des Tarifvertragsgesetzes im Betrieb anwendbaren Tarifvertrag.
 
 (2) In Streitigkeiten nach diesen Vorschriften findet das Beschlußverfahren statt.
 
@@ -125,15 +111,15 @@ Geschäftsverteilung
 
 Für die Gerichte für Arbeitssachen gelten die Vorschriften des Zweiten Titels des Gerichtsverfassungsgesetzes nach Maßgabe der folgenden Vorschriften entsprechend:
 
-1.
+1. Bei einem Arbeitsgericht mit weniger als drei Richterplanstellen werden die Aufgaben des Präsidiums durch den Vorsitzenden oder, wenn zwei Vorsitzende bestellt sind, im Einvernehmen der Vorsitzenden wahrgenommen. Einigen sich die Vorsitzenden nicht, so entscheidet das Präsidium des Landesarbeitsgerichts oder, soweit ein solches nicht besteht, der Präsident dieses Gerichts.
 
-2.
+2. Bei einem Landesarbeitsgericht mit weniger als drei Richterplanstellen werden die Aufgaben des Präsidiums durch den Präsidenten, soweit ein zweiter Vorsitzender vorhanden ist, im Benehmen mit diesem wahrgenommen.
 
-3.
+3. Der aufsichtführende Richter bestimmt, welche richterlichen Aufgaben er wahrnimmt.
 
-4.
+4. Jeder ehrenamtliche Richter kann mehreren Spruchkörpern angehören.
 
-5.
+5. Den Vorsitz in den Kammern der Arbeitsgerichte führen die Berufsrichter.
 
 ### § 7 — Geschäftsstelle, Aufbringung der Mittel
 
@@ -157,11 +143,11 @@ Für die Gerichte für Arbeitssachen gelten die Vorschriften des Zweiten Titels 
 
 (1) Das Verfahren ist in allen Rechtszügen zu beschleunigen.
 
-(2) Die Vorschriften des Gerichtsverfassungsgesetzes über Zustellungs- und Vollstreckungsbeamte, über die Aufrechterhaltung der Ordnung in der Sitzung, über die Gerichtssprache, über die Wahrnehmung richterlicher Geschäfte durch Referendare und über Beratung und Abstimmung gelten in allen Rechtszügen entsprechend. Abweichend von Satz 1 findet Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts das Landesarbeitsgericht, an die Stelle des Bundesgerichtshofs das Bundesarbeitsgericht und an die Stelle der Zivilprozessordnung das Arbeitsgerichtsgesetz tritt.
+(2) Die Vorschriften des Gerichtsverfassungsgesetzes über Zustellungs- und Vollstreckungsbeamte, über die Aufrechterhaltung der Ordnung in der Sitzung, über die Gerichtssprache, über die Wahrnehmung richterlicher Geschäfte durch Referendare und über Beratung und Abstimmung gelten in allen Rechtszügen entsprechend. Abweichend von Satz 1 findet
 
-1.
+1. § 185 Absatz 1a des Gerichtsverfassungsgesetzes mit der Maßgabe Anwendung, dass das Gericht dem Dolmetscher die Teilnahme an der Verhandlung, Anhörung oder Vernehmung per Bild- und Tonübertragung gestatten kann;
 
-2.
+2. § 193 Absatz 1 des Gerichtsverfassungsgesetzes keine Anwendung für die erstmalige gemeinsame Beratung und Abstimmung mit den ehrenamtlichen Richterinnen und Richtern bei einer Entscheidung aufgrund mündlicher Verhandlung.
 
 (3) Die Vorschriften über die Wahrnehmung der Geschäfte bei den ordentlichen Gerichten durch Rechtspfleger gelten in allen Rechtszügen entsprechend. Als Rechtspfleger können nur Beamte bestellt werden, die die Rechtspflegerprüfung oder die Prüfung für den gehobenen Dienst bei der Arbeitsgerichtsbarkeit bestanden haben.
 
@@ -177,17 +163,17 @@ Parteifähig im arbeitsgerichtlichen Verfahren sind auch Gewerkschaften und Vere
 
 (1) Die Parteien können vor dem Arbeitsgericht den Rechtsstreit selbst führen. Parteien, die eine fremde oder ihnen zum Zweck der Einziehung auf fremde Rechnung abgetretene Geldforderung geltend machen, müssen sich durch einen Rechtsanwalt als Bevollmächtigten vertreten lassen, soweit sie nicht nach Maßgabe des Absatzes 2 zur Vertretung des Gläubigers befugt wären oder eine Forderung einziehen, deren ursprünglicher Gläubiger sie sind.
 
-(2) Die Parteien können sich durch einen Rechtsanwalt als Bevollmächtigten vertreten lassen. Darüber hinaus sind als Bevollmächtigte vor dem Arbeitsgericht vertretungsbefugt nurBevollmächtigte, die keine natürlichen Personen sind, handeln durch ihre Organe und mit der Prozessvertretung beauftragten Vertreter.
+(2) Die Parteien können sich durch einen Rechtsanwalt als Bevollmächtigten vertreten lassen. Darüber hinaus sind als Bevollmächtigte vor dem Arbeitsgericht vertretungsbefugt nur
 
-1.
+1. Beschäftigte der Partei oder eines mit ihr verbundenen Unternehmens (§ 15 des Aktiengesetzes); Behörden und juristische Personen des öffentlichen Rechts einschließlich der von ihnen zur Erfüllung ihrer öffentlichen Aufgaben gebildeten Zusammenschlüsse können sich auch durch Beschäftigte anderer Behörden oder juristischer Personen des öffentlichen Rechts einschließlich der von ihnen zur Erfüllung ihrer öffentlichen Aufgaben gebildeten Zusammenschlüsse vertreten lassen,
 
-2.
+2. volljährige Familienangehörige (§ 15 der Abgabenordnung, § 11 des Lebenspartnerschaftsgesetzes), Personen mit Befähigung zum Richteramt und Streitgenossen, wenn die Vertretung nicht im Zusammenhang mit einer entgeltlichen Tätigkeit steht,
 
-3.
+3. selbständige Vereinigungen von Arbeitnehmern mit sozial- oder berufspolitischer Zwecksetzung für ihre Mitglieder,
 
-4.
+4. Gewerkschaften und Vereinigungen von Arbeitgebern sowie Zusammenschlüsse solcher Verbände für ihre Mitglieder oder für andere Verbände oder Zusammenschlüsse mit vergleichbarer Ausrichtung und deren Mitglieder,
 
-5.
+5. juristische Personen, deren Anteile sämtlich im wirtschaftlichen Eigentum einer der in Nummer 4 bezeichneten Organisationen stehen, wenn die juristische Person ausschließlich die Rechtsberatung und Prozessvertretung dieser Organisation und ihrer Mitglieder oder anderer Verbände oder Zusammenschlüsse mit vergleichbarer Ausrichtung und deren Mitglieder entsprechend deren Satzung durchführt, und wenn die Organisation für die Tätigkeit der Bevollmächtigten haftet.
 
 (3) Das Gericht weist Bevollmächtigte, die nicht nach Maßgabe des Absatzes 2 vertretungsbefugt sind, durch unanfechtbaren Beschluss zurück. Prozesshandlungen eines nicht vertretungsbefugten Bevollmächtigten und Zustellungen oder Mitteilungen an diesen Bevollmächtigten sind bis zu seiner Zurückweisung wirksam. Das Gericht kann den in Absatz 2 Satz 2 Nr. 1 bis 3 bezeichneten Bevollmächtigten durch unanfechtbaren Beschluss die weitere Vertretung untersagen, wenn sie nicht in der Lage sind, das Sach- und Streitverhältnis sachgerecht darzustellen.
 
@@ -231,17 +217,17 @@ Die Vorschriften des Buches 11 der Zivilprozessordnung über die justizielle Zus
 
 (2) Durch Gesetz werden angeordnet
 
-1.
+1. die Errichtung und Aufhebung eines Arbeitsgerichts;
 
-2.
+2. die Verlegung eines Gerichtssitzes;
 
-3.
+3. Änderungen in der Abgrenzung der Gerichtsbezirke;
 
-4.
+4. die Zuweisung einzelner Sachgebiete an ein Arbeitsgericht für die Bezirke mehrerer Arbeitsgerichte;
 
-5.
+5. die Errichtung von Kammern des Arbeitsgerichts an anderen Orten;
 
-6.
+6. der Übergang anhängiger Verfahren auf ein anderes Gericht bei Maßnahmen nach den Nummern 1, 3 und 4, wenn sich die Zuständigkeit nicht nach den bisher geltenden Vorschriften richten soll.
 
 (3) Mehrere Länder können die Errichtung eines gemeinsamen Arbeitsgerichts oder gemeinsamer Kammern eines Arbeitsgerichts oder die Ausdehnung von Gerichtsbezirken über die Landesgrenzen hinaus, auch für einzelne Sachgebiete, vereinbaren.
 
@@ -297,13 +283,13 @@ Die Vorschriften des Buches 11 der Zivilprozessordnung über die justizielle Zus
 
 (1) Als ehrenamtliche Richter sind Arbeitnehmer und Arbeitgeber zu berufen, die das 25. Lebensjahr vollendet haben und im Bezirk des Arbeitsgerichts tätig sind oder wohnen.
 
-(2) Vom Amt des ehrenamtlichen Richters ist ausgeschlossen, Personen, die in Vermögensverfall geraten sind, sollen nicht als ehrenamtliche Richter berufen werden.
+(2) Vom Amt des ehrenamtlichen Richters ist ausgeschlossen,
 
-1.
+1. wer infolge Richterspruchs die Fähigkeit zur Bekleidung öffentlicher Ämter nicht besitzt oder wegen einer vorsätzlichen Tat zu einer Freiheitsstrafe von mehr als sechs Monaten verurteilt worden ist;
 
-2.
+2. wer wegen einer Tat angeklagt ist, die den Verlust der Fähigkeit zur Bekleidung öffentlicher Ämter zur Folge haben kann;
 
-3.
+3. wer das Wahlrecht zum Deutschen Bundestag nicht besitzt.
 
 (3) Beamte und Angestellte eines Gerichts für Arbeitssachen dürfen nicht als ehrenamtliche Richter berufen werden.
 
@@ -319,13 +305,13 @@ Die Vorschriften des Buches 11 der Zivilprozessordnung über die justizielle Zus
 
 (2) Zu ehrenamtlichen Richtern aus Kreisen der Arbeitgeber können auch berufen werden
 
-1.
+1. bei Betrieben einer juristischen Person oder einer Personengesamtheit Personen, die kraft Gesetzes, Satzung oder Gesellschaftsvertrag allein oder als Mitglieder des Vertretungsorgans zur Vertretung der juristischen Person oder der Personengesamtheit berufen sind;
 
-2.
+2. Geschäftsführer, Betriebsleiter oder Personalleiter, soweit sie zur Einstellung von Arbeitnehmern in den Betrieb berechtigt sind, oder Personen, denen Prokura oder Generalvollmacht erteilt ist;
 
-3.
+3. bei dem Bund, den Ländern, den Gemeinden, den Gemeindeverbänden und anderen Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts Beamte und Angestellte nach näherer Anordnung der zuständigen obersten Bundes- oder Landesbehörde;
 
-4.
+4. Mitglieder und Angestellte von Vereinigungen von Arbeitgebern sowie Vorstandsmitglieder und Angestellte von Zusammenschlüssen solcher Vereinigungen, wenn diese Personen kraft Satzung oder Vollmacht zur Vertretung befugt sind.
 
 ### § 23 — Ehrenamtlicher Richter aus Kreisen der Arbeitnehmer
 
@@ -337,15 +323,15 @@ Die Vorschriften des Buches 11 der Zivilprozessordnung über die justizielle Zus
 
 (1) Das Amt des ehrenamtlichen Richters kann ablehnen oder niederlegen,
 
-1.
+1. wer die Regelaltersgrenze nach dem Sechsten Buch Sozialgesetzbuch erreicht hat;
 
-2.
+2. wer aus gesundheitlichen Gründen daran gehindert ist, das Amt ordnungsgemäß auszuüben;
 
-3.
+3. wer durch ehrenamtliche Tätigkeit für die Allgemeinheit so in Anspruch genommen ist, daß ihm die Übernahme des Amtes nicht zugemutet werden kann;
 
-4.
+4. wer in den zehn der Berufung vorhergehenden Jahren als ehrenamtlicher Richter bei einem Gericht für Arbeitssachen tätig gewesen ist;
 
-5.
+5. wer glaubhaft macht, daß ihm wichtige Gründe, insbesondere die Fürsorge für seine Familie, die Ausübung des Amtes in besonderem Maß erschweren.
 
 (2) Über die Berechtigung zur Ablehnung oder Niederlegung entscheidet die zuständige Stelle (§ 20). Die Entscheidung ist endgültig.
 
@@ -517,17 +503,17 @@ Die ehrenamtlichen Richter sollen zu den Sitzungen nach der Reihenfolge einer Li
 
 (3) Das elektronische Dokument muss mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg eingereicht werden. Satz 1 gilt nicht für Anlagen, die vorbereitenden Schriftsätzen beigefügt sind. Soll ein schriftlich einzureichender Antrag oder eine schriftlich einzureichende Erklärung einer Partei oder eines Dritten als elektronisches Dokument eingereicht werden, so kann der unterschriebene Antrag oder die unterschriebene Erklärung in ein elektronisches Dokument übertragen und durch den Bevollmächtigten, den Vertreter oder den Beistand nach Satz 1 übermittelt werden.
 
-(4) Sichere Übermittlungswege sind Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 2 bis 4 regelt die Rechtsverordnung nach Absatz 2 Satz 2.
+(4) Sichere Übermittlungswege sind
 
-1.
+1. der Übermittlungsweg zwischen den besonderen elektronischen Anwaltspostfächern nach den §§ 31a und 31b der Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen Postfach und der elektronischen Poststelle des Gerichts,
 
-2.
+2. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder einer juristischen Person des öffentlichen Rechts und der elektronischen Poststelle des Gerichts,
 
-3.
+3. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten elektronischen Postfach einer natürlichen oder juristischen Person oder einer sonstigen Vereinigung und der elektronischen Poststelle des Gerichts,
 
-4.
+4. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und der elektronischen Poststelle des Gerichts,
 
-5.
+5. sonstige bundeseinheitliche Übermittlungswege, die durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates festgelegt werden, bei denen die Authentizität und Integrität der Daten sowie die Barrierefreiheit gewährleistet sind.
 
 (5) Ein elektronisches Dokument ist eingegangen, sobald es auf der für den Empfang bestimmten Einrichtung des Gerichts gespeichert ist. Dem Absender ist eine automatisierte Bestätigung über den Zeitpunkt des Eingangs zu erteilen.
 
@@ -571,17 +557,17 @@ Ist eine empfangsbedürftige Willenserklärung, die der schriftlichen oder elekt
 
 (1) Für die Zulässigkeit des Rechtsweges und der Verfahrensart sowie für die sachliche und örtliche Zuständigkeit gelten die §§ 17 bis 17b des Gerichtsverfassungsgesetzes mit folgender Maßgabe entsprechend:
 
-1.
+1. Beschlüsse entsprechend § 17a Abs. 2 und 3 des Gerichtsverfassungsgesetzes über die örtliche Zuständigkeit sind unanfechtbar.
 
-2.
+2. Der Beschluß nach § 17a Abs. 4 des Gerichtsverfassungsgesetzes ergeht, sofern er nicht lediglich die örtliche Zuständigkeit zum Gegenstand hat, auch außerhalb der mündlichen Verhandlung stets durch die Kammer.
 
 (1a) Für Streitigkeiten nach § 2 Abs. 1 Nr. 3, 4a, 7, 8 und 10 sowie Abs. 2 ist auch das Arbeitsgericht zuständig, in dessen Bezirk der Arbeitnehmer gewöhnlich seine Arbeit verrichtet oder zuletzt gewöhnlich verrichtet hat. Ist ein gewöhnlicher Arbeitsort im Sinne des Satzes 1 nicht feststellbar, ist das Arbeitsgericht örtlich zuständig, von dessen Bezirk aus der Arbeitnehmer gewöhnlich seine Arbeit verrichtet oder zuletzt gewöhnlich verrichtet hat.
 
-(2) Die Tarifvertragsparteien können im Tarifvertrag die Zuständigkeit eines an sich örtlich unzuständigen Arbeitsgerichts festlegen für Im Geltungsbereich eines Tarifvertrags nach Satz 1 Nr. 1 gelten die tarifvertraglichen Bestimmungen über das örtlich zuständige Arbeitsgericht zwischen nicht tarifgebundenen Arbeitgebern und Arbeitnehmern, wenn die Anwendung des gesamten Tarifvertrags zwischen ihnen vereinbart ist. Die in § 38 Abs. 2 und 3 der Zivilprozeßordnung vorgesehenen Beschränkungen finden keine Anwendung.
+(2) Die Tarifvertragsparteien können im Tarifvertrag die Zuständigkeit eines an sich örtlich unzuständigen Arbeitsgerichts festlegen für
 
-1.
+1. bürgerliche Rechtsstreitigkeiten zwischen Arbeitnehmern und Arbeitgebern aus einem Arbeitsverhältnis und aus Verhandlungen über die Eingehung eines Arbeitsverhältnisses, das sich nach einem Tarifvertrag bestimmt,
 
-2.
+2. bürgerliche Rechtsstreitigkeiten aus dem Verhältnis einer gemeinsamen Einrichtung der Tarifvertragsparteien zu den Arbeitnehmern oder Arbeitgebern.
 
 ### § 48a
 
@@ -653,57 +639,57 @@ Die Verhandlungen vor dem erkennenden Gericht einschließlich der Beweisaufnahme
 
 (1) Der Vorsitzende entscheidet außerhalb der streitigen Verhandlung allein
 
-1.
+1. bei Zurücknahme der Klage;
 
-2.
+2. bei Verzicht auf den geltend gemachten Anspruch;
 
-3.
+3. bei Anerkenntnis des geltend gemachten Anspruchs;
 
-4.
+4. bei Säumnis einer Partei;
 
-4a.
+4a. über die Verwerfung des Einspruchs gegen ein Versäumnisurteil oder einen Vollstreckungsbescheid als unzulässig;
 
-5.
+5. bei Säumnis beider Parteien;
 
-6.
+6. über die einstweilige Einstellung der Zwangsvollstreckung;
 
-7.
+7. über die örtliche Zuständigkeit;
 
-8.
+8. über die Aussetzung und Anordnung des Ruhens des Verfahrens;
 
-9.
+9. wenn nur noch über die Kosten zu entscheiden ist;
 
-10.
+10. bei Entscheidungen über eine Berichtigung des Tatbestandes, soweit nicht eine Partei eine mündliche Verhandlung hierüber beantragt;
 
-11.
+11. im Fall des § 11 Abs. 3 über die Zurückweisung des Bevollmächtigten oder die Untersagung der weiteren Vertretung.
 
 (2) Der Vorsitzende kann in den Fällen des Absatzes 1 Nr. 1, 3 und 4a bis 10 eine Entscheidung ohne mündliche Verhandlung treffen. Dies gilt mit Zustimmung der Parteien auch in dem Fall des Absatzes 1 Nr. 2.
 
 (3) Der Vorsitzende entscheidet ferner allein, wenn in der Verhandlung, die sich unmittelbar an die Güteverhandlung anschließt, eine das Verfahren beendende Entscheidung ergehen kann und die Parteien übereinstimmend eine Entscheidung durch den Vorsitzenden beantragen; der Antrag ist in das Protokoll aufzunehmen.
 
-(4) Der Vorsitzende kann vor der streitigen Verhandlung einen Beweisbeschluß erlassen, soweit er anordnet Anordnungen nach Nummer 1 bis 3 und 5 können vor der streitigen Verhandlung ausgeführt werden.
+(4) Der Vorsitzende kann vor der streitigen Verhandlung einen Beweisbeschluß erlassen, soweit er anordnet
 
-1.
+1. eine Beweisaufnahme durch den ersuchten Richter;
 
-2.
+2. eine schriftliche Beantwortung der Beweisfrage nach § 377 Abs. 3 der Zivilprozeßordnung;
 
-3.
+3. die Einholung amtlicher Auskünfte;
 
-4.
+4. eine Parteivernehmung;
 
-5.
+5. die Einholung eines schriftlichen Sachverständigengutachtens.
 
 ### § 56 — Vorbereitung der streitigen Verhandlung
 
-(1) Der Vorsitzende hat die streitige Verhandlung so vorzubereiten, daß sie möglichst in einem Termin zu Ende geführt werden kann. Zu diesem Zweck soll er, soweit es sachdienlich erscheint, insbesondere Von diesen Maßnahmen sind die Parteien zu benachrichtigen.
+(1) Der Vorsitzende hat die streitige Verhandlung so vorzubereiten, daß sie möglichst in einem Termin zu Ende geführt werden kann. Zu diesem Zweck soll er, soweit es sachdienlich erscheint, insbesondere
 
-1.
+1. den Parteien die Ergänzung oder Erläuterung ihrer vorbereitenden Schriftsätze sowie die Vorlegung von Urkunden und von anderen zur Niederlegung bei Gericht geeigneten Gegenständen aufgeben, insbesondere eine Frist zur Erklärung über bestimmte klärungsbedürftige Punkte setzen;
 
-2.
+2. Behörden oder Träger eines öffentlichen Amtes um Mitteilung von Urkunden oder um Erteilung amtlicher Auskünfte ersuchen;
 
-3.
+3. das persönliche Erscheinen der Parteien anordnen;
 
-4.
+4. Zeugen, auf die sich eine Partei bezogen hat, und Sachverständige zur mündlichen Verhandlung laden sowie eine Anordnung nach § 378 der Zivilprozeßordnung treffen.
 
 (2) Angriffs- und Verteidigungsmittel, die erst nach Ablauf einer nach Absatz 1 Satz 2 Nr. 1 gesetzten Frist vorgebracht werden, sind nur zuzulassen, wenn nach der freien Überzeugung des Gerichts ihre Zulassung die Erledigung des Rechtsstreits nicht verzögern würde oder wenn die Partei die Verspätung genügend entschuldigt. Die Parteien sind über die Folgen der Versäumung der nach Absatz 1 Satz 2 Nr. 1 gesetzten Frist zu belehren.
 
@@ -789,27 +775,21 @@ Rechtskräftige Urteile, die in bürgerlichen Rechtsstreitigkeiten zwischen Tari
 
 (2) Die Berufung kann nur eingelegt werden,
 
-a)
+a) wenn sie in dem Urteil des Arbeitsgerichts zugelassen worden ist,
 
-b)
+b) wenn der Wert des Beschwerdegegenstandes 600 Euro übersteigt,
 
-c)
+c) in Rechtsstreitigkeiten über das Bestehen, das Nichtbestehen oder die Kündigung eines Arbeitsverhältnisses oder
 
-d)
+d) wenn es sich um ein Versäumnisurteil handelt, gegen das der Einspruch an sich nicht statthaft ist, wenn die Berufung oder Anschlussberufung darauf gestützt wird, dass der Fall der schuldhaften Versäumung nicht vorgelegen habe.
 
 (3) Das Arbeitsgericht hat die Berufung zuzulassen, wenn
 
-1.
+1. die Rechtssache grundsätzliche Bedeutung hat,
 
-2.
+2. die Rechtssache Rechtsstreitigkeiten betriffta)zwischen Tarifvertragsparteien aus Tarifverträgen oder über das Bestehen oder Nichtbestehen von Tarifverträgen,b)über die Auslegung eines Tarifvertrags, dessen Geltungsbereich sich über den Bezirk eines Arbeitsgerichts hinaus erstreckt, oderc)zwischen tariffähigen Parteien oder zwischen diesen und Dritten aus unerlaubten Handlungen, soweit es sich um Maßnahmen zum Zwecke des Arbeitskampfs oder um Fragen der Vereinigungsfreiheit einschließlich des hiermit im Zusammenhang stehenden Betätigungsrechts der Vereinigungen handelt, oder zwischen Tarifvertragsparteien aus Tarifverträgen oder über das Bestehen oder Nichtbestehen von Tarifverträgen, über die Auslegung eines Tarifvertrags, dessen Geltungsbereich sich über den Bezirk eines Arbeitsgerichts hinaus erstreckt, oder zwischen tariffähigen Parteien oder zwischen diesen und Dritten aus unerlaubten Handlungen, soweit es sich um Maßnahmen zum Zwecke des Arbeitskampfs oder um Fragen der Vereinigungsfreiheit einschließlich des hiermit im Zusammenhang stehenden Betätigungsrechts der Vereinigungen handelt, oder
 
-a)
-
-b)
-
-c)
-
-3.
+3. das Arbeitsgericht in der Auslegung einer Rechtsvorschrift von einem ihm im Verfahren vorgelegten Urteil, das für oder gegen eine Partei des Rechtsstreits ergangen ist, oder von einem Urteil des im Rechtszug übergeordneten Landesarbeitsgerichts abweicht und die Entscheidung auf dieser Abweichung beruht.
 
 (3a) Die Entscheidung des Arbeitsgerichts, ob die Berufung zugelassen oder nicht zugelassen wird, ist in den Urteilstenor aufzunehmen. Ist dies unterblieben, kann binnen zwei Wochen ab Verkündung des Urteils eine entsprechende Ergänzung beantragt werden. Über den Antrag kann die Kammer ohne mündliche Verhandlung entscheiden.
 
@@ -869,11 +849,11 @@ Wegen eines Mangels im Verfahren des Arbeitsgerichts ist die Zurückverweisung u
 
 (2) Die Revision ist zuzulassen, wenn
 
-1.
+1. eine entscheidungserhebliche Rechtsfrage grundsätzliche Bedeutung hat,
 
-2.
+2. das Urteil von einer Entscheidung des Bundesverfassungsgerichts, von einer Entscheidung des Gemeinsamen Senats der obersten Gerichtshöfe des Bundes, von einer Entscheidung des Bundesarbeitsgerichts oder, solange eine Entscheidung des Bundesarbeitsgerichts in der Rechtsfrage nicht ergangen ist, von einer Entscheidung einer anderen Kammer desselben Landesarbeitsgerichts oder eines anderen Landesarbeitsgerichts abweicht und die Entscheidung auf dieser Abweichung beruht oder
 
-3.
+3. ein absoluter Revisionsgrund gemäß § 547 Nr. 1 bis 5 der Zivilprozessordnung oder eine entscheidungserhebliche Verletzung des Anspruchs auf rechtliches Gehör geltend gemacht wird und vorliegt.
 
 (3) Das Bundesarbeitsgericht ist an die Zulassung der Revision durch das Landesarbeitsgericht gebunden.
 
@@ -891,11 +871,11 @@ Wegen eines Mangels im Verfahren des Arbeitsgerichts ist die Zurückverweisung u
 
 (3) Die Beschwerde ist innerhalb einer Notfrist von zwei Monaten nach Zustellung des in vollständiger Form abgefaßten Urteils zu begründen. Die Begründung muss enthalten:
 
-1.
+1. die Darlegung der grundsätzlichen Bedeutung einer Rechtsfrage und deren Entscheidungserheblichkeit,
 
-2.
+2. die Bezeichnung der Entscheidung, von der das Urteil des Landesarbeitsgerichts abweicht, oder
 
-3.
+3. die Darlegung eines absoluten Revisionsgrundes nach § 547 Nr. 1 bis 5 der Zivilprozessordnung oder der Verletzung des Anspruchs auf rechtliches Gehör und der Entscheidungserheblichkeit der Verletzung.
 
 (4) Die Einlegung der Beschwerde hat aufschiebende Wirkung. Die Vorschriften des § 719 Abs. 2 und 3 der Zivilprozeßordnung sind entsprechend anzuwenden.
 
@@ -939,13 +919,13 @@ Wegen eines Mangels im Verfahren des Arbeitsgerichts ist die Zurückverweisung u
 
 (1) Gegen das Urteil eines Arbeitsgerichts kann unter Übergehung der Berufungsinstanz unmittelbar die Revision eingelegt werden (Sprungrevision), wenn der Gegner schriftlich zustimmt und wenn sie vom Arbeitsgericht auf Antrag im Urteil oder nachträglich durch Beschluß zugelassen wird. Der Antrag ist innerhalb einer Notfrist von einem Monat nach Zustellung des in vollständiger Form abgefaßten Urteils schriftlich zu stellen. Die Zustimmung des Gegners ist, wenn die Revision im Urteil zugelassen ist, der Revisionsschrift, andernfalls dem Antrag beizufügen.
 
-(2) Die Sprungrevision ist nur zuzulassen, wenn die Rechtssache grundsätzliche Bedeutung hat und Rechtsstreitigkeiten betrifft Das Bundesarbeitsgericht ist an die Zulassung gebunden. Die Ablehnung der Zulassung ist unanfechtbar.
+(2) Die Sprungrevision ist nur zuzulassen, wenn die Rechtssache grundsätzliche Bedeutung hat und Rechtsstreitigkeiten betrifft
 
-1.
+1. zwischen Tarifvertragsparteien aus Tarifverträgen oder über das Bestehen oder Nichtbestehen von Tarifverträgen,
 
-2.
+2. über die Auslegung eines Tarifvertrags, dessen Geltungsbereich sich über den Bezirk des Landesarbeitsgerichts hinaus erstreckt, oder
 
-3.
+3. zwischen tariffähigen Parteien oder zwischen diesen und Dritten aus unerlaubten Handlungen, soweit es sich um Maßnahmen zum Zwecke des Arbeitskampfs oder um Fragen der Vereinigungsfreiheit einschließlich des hiermit im Zusammenhang stehenden Betätigungsrechts der Vereinigungen handelt.
 
 (3) Lehnt das Arbeitsgericht den Antrag auf Zulassung der Revision durch Beschluß ab, so beginnt mit der Zustellung dieser Entscheidung der Lauf der Berufungsfrist von neuem, sofern der Antrag in der gesetzlichen Form und Frist gestellt und die Zustimmungserklärung beigefügt war. Läßt das Arbeitsgericht die Revision durch Beschluß zu, so beginnt mit der Zustellung dieser Entscheidung der Lauf der Revisionsfrist.
 
@@ -968,11 +948,11 @@ Hinsichtlich der Beschwerde gegen Entscheidungen der Arbeitsgerichte oder ihrer 
 
 ### § 78a — Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
 
-(1) Auf die Rüge der durch die Entscheidung beschwerten Partei ist das Verfahren fortzuführen, wenn Gegen eine der Endentscheidung vorausgehende Entscheidung findet die Rüge nicht statt.
+(1) Auf die Rüge der durch die Entscheidung beschwerten Partei ist das Verfahren fortzuführen, wenn
 
-1.
+1. ein Rechtsmittel oder ein anderer Rechtsbehelf gegen die Entscheidung nicht gegeben ist und
 
-2.
+2. das Gericht den Anspruch dieser Partei auf rechtliches Gehör in entscheidungserheblicher Weise verletzt hat.
 
 (2) Die Rüge ist innerhalb einer Notfrist von zwei Wochen nach Kenntnis von der Verletzung des rechtlichen Gehörs zu erheben; der Zeitpunkt der Kenntniserlangung ist glaubhaft zu machen. Nach Ablauf eines Jahres seit Bekanntgabe der angegriffenen Entscheidung kann die Rüge nicht mehr erhoben werden. Formlos mitgeteilte Entscheidungen gelten mit dem vierten Tage nach Aufgabe zur Post als bekannt gegeben. Die Rüge ist schriftlich bei dem Gericht zu erheben, dessen Entscheidung angegriffen wird. Die Rüge muss die angegriffene Entscheidung bezeichnen und das Vorliegen der in Absatz 1 Satz 1 Nr. 2 genannten Voraussetzungen darlegen.
 
@@ -1169,11 +1149,11 @@ besonderen Fällen
 
 ### § 98 — Entscheidung über die Wirksamkeit einer Allgemeinverbindlicherklärung oder einer Rechtsverordnung
 
-(1) In den Fällen des § 2a Absatz 1 Nummer 5 wird das Verfahren eingeleitet auf Antrag die nach Bekanntmachung der Allgemeinverbindlicherklärung oder der Rechtsverordnung geltend macht, durch die Allgemeinverbindlicherklärung oder die Rechtsverordnung oder deren Anwendung in ihren Rechten verletzt zu sein oder in absehbarer Zeit verletzt zu werden.
+(1) In den Fällen des § 2a Absatz 1 Nummer 5 wird das Verfahren eingeleitet auf Antrag
 
-1.
+1. jeder natürlichen oder juristischen Person oder
 
-2.
+2. einer Gewerkschaft oder einer Vereinigung von Arbeitgebern,
 
 (2) Für Verfahren nach § 2a Absatz 1 Nummer 5 ist das Landesarbeitsgericht zuständig, in dessen Bezirk die Behörde ihren Sitz hat, die den Tarifvertrag für allgemeinverbindlich erklärt hat oder die Rechtsverordnung erlassen hat.
 
@@ -1219,13 +1199,13 @@ besonderen Fällen
 
 (2) Der Beklagte kann sich nicht auf den Schiedsvertrag berufen,
 
-1.
+1. wenn in einem Fall, in dem die Streitparteien selbst die Mitglieder des Schiedsgerichts zu ernennen haben, der Kläger dieser Pflicht nachgekommen ist, der Beklagte die Ernennung aber nicht binnen einer Woche nach der Aufforderung des Klägers vorgenommen hat;
 
-2.
+2. wenn in einem Fall, in dem nicht die Streitparteien, sondern die Parteien des Schiedsvertrags die Mitglieder des Schiedsgerichts zu ernennen haben, das Schiedsgericht nicht gebildet ist und die den Parteien des Schiedsvertrags von dem Vorsitzenden des Arbeitsgerichts gesetzte Frist zur Bildung des Schiedsgerichts fruchtlos verstrichen ist;
 
-3.
+3. wenn das nach dem Schiedsvertrag gebildete Schiedsgericht die Durchführung des Verfahrens verzögert und die ihm von dem Vorsitzenden des Arbeitsgerichts gesetzte Frist zur Durchführung des Verfahrens fruchtlos verstrichen ist;
 
-4.
+4. wenn das Schiedsgericht den Parteien des streitigen Rechtsverhältnisses anzeigt, daß die Abgabe eines Schiedsspruchs unmöglich ist.
 
 (3) In den Fällen des Absatzes 2 Nummern 2 und 3 erfolgt die Bestimmung der Frist auf Antrag des Klägers durch den Vorsitzenden des Arbeitsgerichts, das für die Geltendmachung des Anspruchs zuständig wäre.
 
@@ -1281,11 +1261,11 @@ Ein vor dem Schiedsgericht geschlossener Vergleich ist unter Angabe des Tages se
 
 (1) Auf Aufhebung des Schiedsspruchs kann geklagt werden,
 
-1.
+1. wenn das schiedsgerichtliche Verfahren unzulässig war;
 
-2.
+2. wenn der Schiedsspruch auf der Verletzung einer Rechtsnorm beruht;
 
-3.
+3. wenn die Voraussetzungen vorliegen, unter denen gegen ein gerichtliches Urteil nach § 580 Nr. 1 bis 6 der Zivilprozeßordnung die Restitutionsklage zulässig wäre.
 
 (2) Für die Klage ist das Arbeitsgericht zuständig, das für die Geltendmachung des Anspruchs zuständig wäre.
 

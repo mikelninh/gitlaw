@@ -60,9 +60,9 @@ Der Schuldner kann Ausgleichsforderungen ganz oder teilweise unter Einhaltung ei
 
 (1) Mit Mitteln des Ankaufsfonds sollen Ausgleichsforderungen angekauft werden, deren endgültige Übernahme geboten erscheint, um den Gläubigern die Erfüllung fälliger Verbindlichkeiten zu ermöglichen.
 
-(2) Soweit die Mittel des Ankaufsfonds für die in Absatz 1 bezeichneten Zwecke nicht benötigt werden, soll die Deutsche Bundesbank ankaufen: 1.
+(2) Soweit die Mittel des Ankaufsfonds für die in Absatz 1 bezeichneten Zwecke nicht benötigt werden, soll die Deutsche Bundesbank ankaufen:
 
-2.
+2. Auf den Namen von Zentralinstituten des Sparkassen- und des Genossenschaftssektors eingetragene Ausgleichsforderungen angeschlossener Kreditinstitute, die auf Grund einer nicht mehr der Berichtigung unterliegenden Rechnung gewährt worden sind und die auf einen Betrag bis zu sechzigtausend Deutsche Mark lauten.
 
 (3) Soweit die Mittel des Ankaufsfonds auch für den in Absatz 2 bezeichneten Zweck nicht benötigt werden, soll die Deutsche Bundesbank alle Gläubiger von Ausgleichsforderungen in Höhe eines einheitlichen Hundertsatzes der Ausgleichsforderungen befriedigen; Ausgleichsforderungen, die aufgrund einer nicht mehr der Berichtigung unterliegenden Rechnung gewährt worden sind und die auf einen Betrag bis zu sechzigtausend Deutsche Mark lauten, sollen dabei in voller Höhe übernommen werden. Die Deutsche Bundesbank soll die Befriedigung mindestens einen Monat vor der Zahlung im Bundesanzeiger ankündigen. Die Befriedigung kann auch durch Hinterlegung erfolgen. Soweit die Deutsche Bundesbank den Gläubiger befriedigt, geht die Ausgleichsforderung auf sie über.
 

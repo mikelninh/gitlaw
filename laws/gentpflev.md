@@ -15,11 +15,29 @@ Diese Verordnung regelt die Grundsätze der guten fachlichen Praxis im Sinne des
 
 ### § 2 — Begriffsbestimmungen
 
-Im Sinne dieser Verordnung sind 1.Anbaufläche: eine landwirtschaftlich, forstwirtschaftlich oder gartenbauwirtschaftlich genutzte Fläche, die mit gentechnisch veränderten Pflanzen bestellt worden oder dafür vorgesehen ist,2.benachbarte Fläche: eine landwirtschaftlich, forstwirtschaftlich oder gartenbauwirtschaftlich genutzte Fläche, die – ganz oder zum Teil – innerhalb des in der Anlage für die jeweilige Pflanzenart festgelegten Abstands vom Rand der Anbaufläche liegt,3.Erzeuger: ein Bewirtschafter einer Anbaufläche,4.Nachbar: ein Bewirtschafter einer benachbarten Fläche.
+Im Sinne dieser Verordnung sind
+
+1. Anbaufläche: eine landwirtschaftlich, forstwirtschaftlich oder gartenbauwirtschaftlich genutzte Fläche, die mit gentechnisch veränderten Pflanzen bestellt worden oder dafür vorgesehen ist,
+
+2. benachbarte Fläche: eine landwirtschaftlich, forstwirtschaftlich oder gartenbauwirtschaftlich genutzte Fläche, die – ganz oder zum Teil – innerhalb des in der Anlage für die jeweilige Pflanzenart festgelegten Abstands vom Rand der Anbaufläche liegt,
+
+3. Erzeuger: ein Bewirtschafter einer Anbaufläche,
+
+4. Nachbar: ein Bewirtschafter einer benachbarten Fläche.
 
 ### § 3 — Mitteilungspflicht
 
-(1) Der Erzeuger hat den Nachbarn spätestens drei Monate vor der Aussaat oder Anpflanzung folgende Angaben mitzuteilen: 1.seinen Namen und seine Anschrift,2.das Grundstück des Anbaus sowie die Größe der Anbaufläche,3.die Pflanzenart sowie die Bezeichnung und den spezifischen Erkennungsmarker der gentechnischen Veränderung.Änderungen in den Angaben sind unverzüglich mitzuteilen. In der Mitteilung ist der Nachbar auf die Regelung des Absatzes 2 hinzuweisen und aufzufordern, dem Erzeuger innerhalb eines Monats mitzuteilen, ob die benachbarten Flächen mit nicht gentechnisch veränderten Pflanzen bestellt werden, welcher Art diese Pflanzen angehören und welche Bewirtschaftungsform geplant ist.(2) Erhält der Erzeuger innerhalb eines Monats nach Zugang der Mitteilung beim Nachbarn nicht die erforderlichen Auskünfte, kann er davon ausgehen, dass der Nachbar keine Pflanzen derselben Art oder andere Auskreuzungspartner auf benachbarten Flächen anbaut.(3) Ist dem Erzeuger ein Nachbar nicht bekannt, kann er die in Absatz 1 genannte Mitteilung an den Eigentümer der betreffenden Fläche richten und diesen zugleich auffordern, die Mitteilung an den Bewirtschafter weiterzuleiten. Erhält der Erzeuger innerhalb eines Monats nach Zugang der Mitteilung beim Eigentümer keine Rückäußerung, kann er davon ausgehen, dass der Eigentümer die Fläche selbst bewirtschaftet.
+(1) Der Erzeuger hat den Nachbarn spätestens drei Monate vor der Aussaat oder Anpflanzung folgende Angaben mitzuteilen:
+
+1. seinen Namen und seine Anschrift,
+
+2. das Grundstück des Anbaus sowie die Größe der Anbaufläche,
+
+3. die Pflanzenart sowie die Bezeichnung und den spezifischen Erkennungsmarker der gentechnischen Veränderung.
+
+(2) Erhält der Erzeuger innerhalb eines Monats nach Zugang der Mitteilung beim Nachbarn nicht die erforderlichen Auskünfte, kann er davon ausgehen, dass der Nachbar keine Pflanzen derselben Art oder andere Auskreuzungspartner auf benachbarten Flächen anbaut.
+
+(3) Ist dem Erzeuger ein Nachbar nicht bekannt, kann er die in Absatz 1 genannte Mitteilung an den Eigentümer der betreffenden Fläche richten und diesen zugleich auffordern, die Mitteilung an den Bewirtschafter weiterzuleiten. Erhält der Erzeuger innerhalb eines Monats nach Zugang der Mitteilung beim Eigentümer keine Rückäußerung, kann er davon ausgehen, dass der Eigentümer die Fläche selbst bewirtschaftet.
 
 ### § 4 — Anpassungspflicht
 
@@ -31,11 +49,21 @@ Soweit eine nach § 16 Abs. 5a des Gentechnikgesetzes öffentlich bekannt gemach
 
 ### § 6 — Lagerung
 
-Der Erzeuger hat zum Schutz gegen Einträge in fremde Grundstücke, insbesondere durch Witterungseinflüsse oder Verschleppung durch Tiere, 1.gentechnisch verändertes Saat- oder Pflanzgut in geschlossenen Behältnissen oder sorgfältig abgedeckt und getrennt von nicht gentechnisch verändertem Saat- oder Pflanzgut derselben Art,2.Erntegut gentechnisch veränderter Pflanzen, soweit es vermehrungsfähige Bestandteile enthält, in geschlossenen Lagerräumen oder sorgfältig abgedecktzu lagern. Die Behältnisse und das gelagerte Erntegut sind zu kennzeichnen. Wird das Erntegut auf der Fläche gelagert, die im Standortregister gemeldet ist, so entfällt die Kennzeichnung.
+Der Erzeuger hat zum Schutz gegen Einträge in fremde Grundstücke, insbesondere durch Witterungseinflüsse oder Verschleppung durch Tiere,
+
+1. gentechnisch verändertes Saat- oder Pflanzgut in geschlossenen Behältnissen oder sorgfältig abgedeckt und getrennt von nicht gentechnisch verändertem Saat- oder Pflanzgut derselben Art,
+
+2. Erntegut gentechnisch veränderter Pflanzen, soweit es vermehrungsfähige Bestandteile enthält, in geschlossenen Lagerräumen oder sorgfältig abgedeckt
 
 ### § 7 — Beförderung
 
-(1) Der Erzeuger hat zum Schutz gegen Einträge in fremde Grundstücke, insbesondere durch Verwehen, 1.gentechnisch verändertes Saat- und Pflanzgut in geschlossenen Behältnissen,2.Erntegut gentechnisch veränderter Pflanzen, soweit es vermehrungsfähige Bestandteile enthält, in geschlossenen Fahrzeugen oder bei der Beförderung auf Fahrzeugen mit offener Ladefläche sorgfältig abgedecktzu befördern.(2) Ist gentechnisch verändertes Saat-, Pflanz- oder Erntegut bei der Beladung oder bei der Beförderung verschüttet worden, ist es dem gleichen Saat-, Pflanz- oder Erntegut wieder zuzuführen, gesondert zu verwerten oder zu vernichten.
+(1) Der Erzeuger hat zum Schutz gegen Einträge in fremde Grundstücke, insbesondere durch Verwehen,
+
+1. gentechnisch verändertes Saat- und Pflanzgut in geschlossenen Behältnissen,
+
+2. Erntegut gentechnisch veränderter Pflanzen, soweit es vermehrungsfähige Bestandteile enthält, in geschlossenen Fahrzeugen oder bei der Beförderung auf Fahrzeugen mit offener Ladefläche sorgfältig abgedeckt
+
+(2) Ist gentechnisch verändertes Saat-, Pflanz- oder Erntegut bei der Beladung oder bei der Beförderung verschüttet worden, ist es dem gleichen Saat-, Pflanz- oder Erntegut wieder zuzuführen, gesondert zu verwerten oder zu vernichten.
 
 ### § 8 — Bewirtschaftungsmaßnahmen
 
@@ -47,7 +75,13 @@ Der Erzeuger hat Einrichtungen, Maschinen und Geräte, die zur Aussaat, zur Ernt
 
 ### § 10 — Durchwuchs
 
-(1) Nach Abschluss des Anbaus von gentechnisch veränderten Pflanzen hat der Erzeuger die Anbaufläche nach Maßgabe der in der Anlage für die jeweilige Pflanzenart aufgeführten Anforderungen auf Durchwuchs zu überwachen und diesen zu beseitigen, soweit die Anbaufläche in der folgenden Vegetationsperiode nicht erneut mit gentechnisch veränderten Pflanzen derselben Art bestellt wird. In die Überwachung auf Durchwuchs sind auch landwirtschaftliche Nutzflächen einzubeziehen, 1.die bei der Ernte überfahren worden sind oder2.auf denen vermehrungsfähiges Material verschüttet worden ist.(2) Bei einem Wechsel des Bewirtschafters geht die Pflicht nach Absatz 1 auf den neuen Bewirtschafter über, soweit dieser Kenntnis von dem vorhergegangenen Anbau von gentechnisch veränderten Pflanzen hat oder haben muss.
+(1) Nach Abschluss des Anbaus von gentechnisch veränderten Pflanzen hat der Erzeuger die Anbaufläche nach Maßgabe der in der Anlage für die jeweilige Pflanzenart aufgeführten Anforderungen auf Durchwuchs zu überwachen und diesen zu beseitigen, soweit die Anbaufläche in der folgenden Vegetationsperiode nicht erneut mit gentechnisch veränderten Pflanzen derselben Art bestellt wird. In die Überwachung auf Durchwuchs sind auch landwirtschaftliche Nutzflächen einzubeziehen,
+
+1. die bei der Ernte überfahren worden sind oder
+
+2. auf denen vermehrungsfähiges Material verschüttet worden ist.
+
+(2) Bei einem Wechsel des Bewirtschafters geht die Pflicht nach Absatz 1 auf den neuen Bewirtschafter über, soweit dieser Kenntnis von dem vorhergegangenen Anbau von gentechnisch veränderten Pflanzen hat oder haben muss.
 
 ### § 11 — Aufbringen von Stoffen
 
@@ -55,7 +89,11 @@ Auf Flächen, auf denen Düngemittel oder andere Stoffe aufgebracht werden, die 
 
 ### § 12 — Aufzeichnungen
 
-(1) Der Erzeuger hat Aufzeichnungen zu führen über die Sorte des gentechnisch veränderten Saat- oder Pflanzguts, die Schläge des Betriebs, die Aufbringung von Stoffen nach § 11 und die pflanzenbaulichen Maßnahmen nach den §§ 5, 8 und 10 sowie den pflanzenartspezifischen Vorgaben der Anlage.(2) Der Erzeuger hat die Aufzeichnungen nach Absatz 1 für mindestens fünf Jahre nach Ablauf des Jahres, in dem Maßnahmen nach § 10 durchzuführen sind, im Betrieb aufzubewahren, soweit für die betreffende Pflanzenart in der Anlage nichts anderes bestimmt ist. Die Aufzeichnungen sind auf Verlangen der nach Landesrecht zuständigen Behörde vorzulegen.(3) Bei einem Wechsel des Bewirtschafters hat der frühere Bewirtschafter dem neuen Bewirtschafter eine Abschrift aller Aufzeichnungen auszuhändigen, die für die Einhaltung der guten fachlichen Praxis nach dieser Verordnung erforderlich sind.
+(1) Der Erzeuger hat Aufzeichnungen zu führen über die Sorte des gentechnisch veränderten Saat- oder Pflanzguts, die Schläge des Betriebs, die Aufbringung von Stoffen nach § 11 und die pflanzenbaulichen Maßnahmen nach den §§ 5, 8 und 10 sowie den pflanzenartspezifischen Vorgaben der Anlage.
+
+(2) Der Erzeuger hat die Aufzeichnungen nach Absatz 1 für mindestens fünf Jahre nach Ablauf des Jahres, in dem Maßnahmen nach § 10 durchzuführen sind, im Betrieb aufzubewahren, soweit für die betreffende Pflanzenart in der Anlage nichts anderes bestimmt ist. Die Aufzeichnungen sind auf Verlangen der nach Landesrecht zuständigen Behörde vorzulegen.
+
+(3) Bei einem Wechsel des Bewirtschafters hat der frühere Bewirtschafter dem neuen Bewirtschafter eine Abschrift aller Aufzeichnungen auszuhändigen, die für die Einhaltung der guten fachlichen Praxis nach dieser Verordnung erforderlich sind.
 
 ### § 13 — Übergangsregelung
 
@@ -71,4 +109,12 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage — (zu § 2 Nr. 1, § 4, § 5, § 10 Abs. 1 Satz 1, § 12 Abs. 1 Satz 1)
 
-( Fundstelle: BGBl. I 2008, 658 )Gentechnisch veränderter Mais1.Benachbarte FlächenBeim Anbau von gentechnisch verändertem Mais sind diejenigen Flächen benachbart nach § 2 Nr. 2, die – ganz oder zum Teil – innerhalb eines Abstands von 300 Metern vom Rand der Anbaufläche liegen.2.MindestabstandZwischen dem Rand einer Anbaufläche mit gentechnisch verändertem Mais und dem Rand einer benachbarten Fläche mit konventionell angebautem, nicht gentechnisch verändertem Mais hat der Erzeuger einen Mindestabstand von 150 Metern einzuhalten.Zwischen dem Rand einer Anbaufläche mit gentechnisch verändertem Mais und dem Rand einer benachbarten Fläche mit ökologisch angebautem, nicht gentechnisch verändertem Mais hat der Erzeuger einen Mindestabstand von 300 Metern einzuhalten.Der Erzeuger hat durch geeignete Maßnahmen zu vermeiden, dass Flächen, auf denen Mais angebaut wird, der nicht gentechnisch verändert ist und zur Verwendung als Saatgut bestimmt ist, wesentlich beeinträchtigt werden.3.Andere MaßnahmenDer Mindestabstand nach Nummer 2 Satz 1 und 2 darf im Falle amtlicher Versuche unterschritten werden, soweit durch andere Maßnahmen, insbesondere durch Entfernen oder Eintüten der männlichen Blütenstände (Fahnen) vor der Blüte und durch Anlage einer Mantelsaat, ein Austrag von Pollen aus der Anbaufläche verhindert wird.4.Überwachung und Beseitigung von DurchwuchsDie Überprüfung auf Durchwuchs gemäß § 10 Abs. 1 hat nach der Ernte sowie in dem auf den Anbau des gentechnisch veränderten Maises folgenden Jahr zu erfolgen. Sofern Durchwuchsmais festgestellt wird, verlängert sich der Zeitraum der Überprüfung um jeweils ein Jahr. Eventueller Durchwuchs ist unverzüglich zu beseitigen.5.FruchtfolgeEine Anbaufläche darf frühestens im zweiten auf die Ernte des gentechnisch veränderten Maises folgenden Jahr mit nicht gentechnisch verändertem Mais bestellt werden. Wenn Durchwuchsmais festgestellt wurde, darf die Anbaufläche frühestens im zweiten auf die Feststellung des Durchwuchsmaises folgenden Jahr mit nicht gentechnisch verändertem Mais bestellt werden.
+1. Benachbarte Flächen Beim Anbau von gentechnisch verändertem Mais sind diejenigen Flächen benachbart nach § 2 Nr. 2, die – ganz oder zum Teil – innerhalb eines Abstands von 300 Metern vom Rand der Anbaufläche liegen.
+
+2. Mindestabstand Zwischen dem Rand einer Anbaufläche mit gentechnisch verändertem Mais und dem Rand einer benachbarten Fläche mit konventionell angebautem, nicht gentechnisch verändertem Mais hat der Erzeuger einen Mindestabstand von 150 Metern einzuhalten. Zwischen dem Rand einer Anbaufläche mit gentechnisch verändertem Mais und dem Rand einer benachbarten Fläche mit ökologisch angebautem, nicht gentechnisch verändertem Mais hat der Erzeuger einen Mindestabstand von 300 Metern einzuhalten. Der Erzeuger hat durch geeignete Maßnahmen zu vermeiden, dass Flächen, auf denen Mais angebaut wird, der nicht gentechnisch verändert ist und zur Verwendung als Saatgut bestimmt ist, wesentlich beeinträchtigt werden.
+
+3. Andere Maßnahmen Der Mindestabstand nach Nummer 2 Satz 1 und 2 darf im Falle amtlicher Versuche unterschritten werden, soweit durch andere Maßnahmen, insbesondere durch Entfernen oder Eintüten der männlichen Blütenstände (Fahnen) vor der Blüte und durch Anlage einer Mantelsaat, ein Austrag von Pollen aus der Anbaufläche verhindert wird.
+
+4. Überwachung und Beseitigung von Durchwuchs Die Überprüfung auf Durchwuchs gemäß § 10 Abs. 1 hat nach der Ernte sowie in dem auf den Anbau des gentechnisch veränderten Maises folgenden Jahr zu erfolgen. Sofern Durchwuchsmais festgestellt wird, verlängert sich der Zeitraum der Überprüfung um jeweils ein Jahr. Eventueller Durchwuchs ist unverzüglich zu beseitigen.
+
+5. Fruchtfolge Eine Anbaufläche darf frühestens im zweiten auf die Ernte des gentechnisch veränderten Maises folgenden Jahr mit nicht gentechnisch verändertem Mais bestellt werden. Wenn Durchwuchsmais festgestellt wurde, darf die Anbaufläche frühestens im zweiten auf die Feststellung des Durchwuchsmaises folgenden Jahr mit nicht gentechnisch verändertem Mais bestellt werden.

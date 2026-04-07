@@ -48,8 +48,8 @@ Die auf Grund des Arbeitsförderungsgesetzes erlassenen und weiterhin geltenden 
 
 (4) Artikel 12 Nr. 1 tritt mit Wirkung vom 1. Januar 1995 in Kraft.
 
-(5) Die Vorschriften des Dritten Buches Sozialgesetzbuch (Artikel 1) über sowie Artikel 4 Nr. 7, Artikel 37 und Artikel 38 treten am 1. Januar 1999 in Kraft.
+(5) Die Vorschriften des Dritten Buches Sozialgesetzbuch (Artikel 1) über
 
-1.
+1. das Insolvenzgeld und mit Bezug auf das Insolvenzgeld, hier Artikel 1 § 3 Abs. 1 Nr. 10, Abs. 4, § 116 Nr. 5, §§ 183 bis 189, §§ 208, 314, 316, 320 Abs. 2, § 321 Nr. 1, 2 und 4, § 324 Abs. 3, § 327 Abs. 1 und 3, § 404 Abs. 2 Nr. 1, 19 und 20, Abs. 3, § 430 Abs. 5,
 
-2.
+2. die Umlage für das Insolvenzgeld und mit Bezug auf die Umlage für das Insolvenzgeld, hier Artikel 1 §§ 358 bis 362, § 402 Abs. 1 Nr. 10

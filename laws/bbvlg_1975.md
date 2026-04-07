@@ -10,11 +10,11 @@
 
 (1) Vermögenswirksame Leistungen nach dem Fünften Vermögensbildungsgesetz erhalten
 
-1.
+1. Bundesbeamte, Beamte der Länder, der Gemeinden, der Gemeindeverbände sowie der sonstigen der Aufsicht eines Landes unterstehenden Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts; ausgenommen sind die Ehrenbeamten und entpflichtete Hochschullehrer,
 
-2.
+2. Richter des Bundes und der Länder; ausgenommen sind die ehrenamtlichen Richter,
 
-3.
+3. Berufssoldaten und Soldaten auf Zeit mit Anspruch auf Besoldung oder Ausbildungsgeld (§ 30 Abs. 2 des Soldatengesetzes).
 
 (2) Vermögenswirksame Leistungen werden für die Kalendermonate gewährt, in denen dem Berechtigten Dienstbezüge, Anwärterbezüge oder Ausbildungsgeld nach § 30 Abs. 2 des Soldatengesetzes zustehen und er diese Bezüge erhält.
 

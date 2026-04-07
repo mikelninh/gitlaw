@@ -15,15 +15,39 @@ Diese Verordnung regelt die Voraussetzungen für die Ausstellung, die Gültigkei
 
 ### § 2 — Voraussetzungen für die Ausstellung der HNS-Pflichtversicherungsbescheinigung
 
-(1) Die Ausstellung einer HNS-Pflichtversicherungsbescheinigung setzt einen schriftlichen oder elektronischen Antrag des Eigentümers des Schiffes an das Bundesamt für Seeschifffahrt und Hydrographie voraus.(2) Der Antrag muss enthalten: 1.Name, Unterscheidungssignal, IMO-Schiffsidentifikationsnummer und Heimathafen des Schiffs,2.Name und Anschrift des Hauptgeschäftssitzes des Eigentümers einschließlich Telefonnummer und E-Mail-Adresse,3.Art und Laufzeit der Sicherheit,4.Name und Anschrift des Hauptgeschäftssitzes des Versicherers oder sonstigen Sicherheitsgebers und des Geschäftssitzes, an dem die Versicherung oder Sicherheit gewährt wird.(3) Dem Antrag sind beizufügen: 1.eine Erklärung des Versicherers oder Sicherheitsgebers, dass a)die Versicherung oder die sonstige finanzielle Sicherheit den Voraussetzungen des Artikels 12 Absatz 1 in Verbindung mit Artikel 9 Absatz 1 des HNS-Übereinkommens 2010 vom 30. April 2010 (BGBl. 2021 II S. 670, 671) entspricht,b)eine vorzeitige Beendigung oder Änderung, die dazu führt, dass die Versicherung oder sonstige finanzielle Sicherheit den Voraussetzungen des Artikels 12 Absatz 1 in Verbindung mit Artikel 9 Absatz 1 des HNS-Übereinkommens 2010 nicht mehr genügt, Dritten gegenüber erst drei Monate nach Anzeige der Beendigung oder Änderungen an das Bundesamt für Seeschifffahrt und Hydrographie wirksam wird,2.für Schiffe, die nicht zur Führung der Bundesflagge berechtigt sind, die Angabe einer zustellungsbevollmächtigten Person mit ständigem Wohnsitz im Bundesgebiet und eine schriftliche oder elektronische Vollmacht des Eigentümers für diese Person.
+(1) Die Ausstellung einer HNS-Pflichtversicherungsbescheinigung setzt einen schriftlichen oder elektronischen Antrag des Eigentümers des Schiffes an das Bundesamt für Seeschifffahrt und Hydrographie voraus.
+
+(2) Der Antrag muss enthalten:
+
+1. Name, Unterscheidungssignal, IMO-Schiffsidentifikationsnummer und Heimathafen des Schiffs,
+
+2. Name und Anschrift des Hauptgeschäftssitzes des Eigentümers einschließlich Telefonnummer und E-Mail-Adresse,
+
+3. Art und Laufzeit der Sicherheit,
+
+4. Name und Anschrift des Hauptgeschäftssitzes des Versicherers oder sonstigen Sicherheitsgebers und des Geschäftssitzes, an dem die Versicherung oder Sicherheit gewährt wird.
+
+(3) Dem Antrag sind beizufügen:
+
+1. eine Erklärung des Versicherers oder Sicherheitsgebers, dass a)die Versicherung oder die sonstige finanzielle Sicherheit den Voraussetzungen des Artikels 12 Absatz 1 in Verbindung mit Artikel 9 Absatz 1 des HNS-Übereinkommens 2010 vom 30. April 2010 (BGBl. 2021 II S. 670, 671) entspricht,b)eine vorzeitige Beendigung oder Änderung, die dazu führt, dass die Versicherung oder sonstige finanzielle Sicherheit den Voraussetzungen des Artikels 12 Absatz 1 in Verbindung mit Artikel 9 Absatz 1 des HNS-Übereinkommens 2010 nicht mehr genügt, Dritten gegenüber erst drei Monate nach Anzeige der Beendigung oder Änderungen an das Bundesamt für Seeschifffahrt und Hydrographie wirksam wird, die Versicherung oder die sonstige finanzielle Sicherheit den Voraussetzungen des Artikels 12 Absatz 1 in Verbindung mit Artikel 9 Absatz 1 des HNS-Übereinkommens 2010 vom 30. April 2010 (BGBl. 2021 II S. 670, 671) entspricht, eine vorzeitige Beendigung oder Änderung, die dazu führt, dass die Versicherung oder sonstige finanzielle Sicherheit den Voraussetzungen des Artikels 12 Absatz 1 in Verbindung mit Artikel 9 Absatz 1 des HNS-Übereinkommens 2010 nicht mehr genügt, Dritten gegenüber erst drei Monate nach Anzeige der Beendigung oder Änderungen an das Bundesamt für Seeschifffahrt und Hydrographie wirksam wird,
+
+2. für Schiffe, die nicht zur Führung der Bundesflagge berechtigt sind, die Angabe einer zustellungsbevollmächtigten Person mit ständigem Wohnsitz im Bundesgebiet und eine schriftliche oder elektronische Vollmacht des Eigentümers für diese Person.
 
 ### § 3 — Ausstellung der HNS-Pflichtversicherungsbescheinigung
 
-(1) Bei der Ausstellung der HNS-Pflichtversicherungsbescheinigung ist das Muster der Anlage zu dieser Verordnung zu verwenden.(2) Die Geltungsdauer der HNS-Pflichtversicherungsbescheinigung darf die Geltungsdauer der Versicherung oder der sonstigen Sicherheit nicht überschreiten. Die Geltungsdauer der HNS-Pflichtversicherungsbescheinigung kann auf einen kürzeren Zeitraum befristet werden.
+(1) Bei der Ausstellung der HNS-Pflichtversicherungsbescheinigung ist das Muster der Anlage zu dieser Verordnung zu verwenden.
+
+(2) Die Geltungsdauer der HNS-Pflichtversicherungsbescheinigung darf die Geltungsdauer der Versicherung oder der sonstigen Sicherheit nicht überschreiten. Die Geltungsdauer der HNS-Pflichtversicherungsbescheinigung kann auf einen kürzeren Zeitraum befristet werden.
 
 ### § 4 — Pflichten des Antragstellers
 
-Nach Ausstellung der HNS-Pflichtversicherungsbescheinigung ist der Eigentümer verpflichtet, dem Bundesamt für Seeschifffahrt und Hydrographie Folgendes unverzüglich mitzuteilen: 1.eine vorzeitige Beendigung der Versicherung oder der sonstigen Sicherheit,2.jede weitere Änderung der Versicherung oder der sonstigen Sicherheit, die dazu führt, dass die Versicherung oder die sonstige Sicherheit nicht mehr den Voraussetzungen des Artikels 12 Absatz 1 in Verbindung mit Artikel 9 Absatz 1 des HNS-Übereinkommens 2010 genügt, sowie3.jede Änderung der in § 2 Absatz 2 genannten Angaben.
+Nach Ausstellung der HNS-Pflichtversicherungsbescheinigung ist der Eigentümer verpflichtet, dem Bundesamt für Seeschifffahrt und Hydrographie Folgendes unverzüglich mitzuteilen:
+
+1. eine vorzeitige Beendigung der Versicherung oder der sonstigen Sicherheit,
+
+2. jede weitere Änderung der Versicherung oder der sonstigen Sicherheit, die dazu führt, dass die Versicherung oder die sonstige Sicherheit nicht mehr den Voraussetzungen des Artikels 12 Absatz 1 in Verbindung mit Artikel 9 Absatz 1 des HNS-Übereinkommens 2010 genügt, sowie
+
+3. jede Änderung der in § 2 Absatz 2 genannten Angaben.
 
 ### § 5 — Einziehung der HNS-Pflichtversicherungsbescheinigung
 
@@ -39,4 +63,4 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Anlage — (zu § 3)
 
-(Fundstelle: BGBl. I 2021, 4228)Bundesrepublik DeutschlandBundesamt für Seeschifffahrt und HydrographieFederal Republic of GermanyFederal Maritime and Hydrographic AgencyBescheinigung über die Versicherung oder sonstige finanzielle SicherheitFür die Haftung durch Schäden durch gefährliche und schädliche Stoffe (HNS)Certificate of Insurance or other Financial Securityin Respect of Liability for Damage Caused by Hazardous and Noxious Substances (HNS) Ausgestellt nach Artikel 12 des Internationalen Übereinkommens von 2010 über Haftung und Entschädigung für Schäden bei der Beförderung gefährlicher und schädlicher Stoffe auf SeeIssued in accordance with the provisions of Article 12 of the International Convention on Liability and Compensation for Damagein Connection with the Carriage of Hazardous and Noxious Substances by Sea, 2010Name des Schiffes Name of ShipUnterscheidungssignal Distinctive Number or lettersIMO-Schiffs-identifizierungs-nummerIMO ShipidentificationNumberHeimathafen Port of RegistryName und vollständige Anschrift des Hauptgeschäftssitzes des EigentümersName and full address of the principal place of business of the ownerHiermit wird bescheinigt, dass für das vorgenannte Schiff eine Versicherungspolice oder sonstige finanzielle Sicherheit nach Maßgabe des Artikels 12 des Internationalen Übereinkommens von 2010 über die Haftung und Entschädigung für Schäden bei der Beförderung gefährlicher und schädlicher Stoffe auf See besteht.This is to certify that there is in force in respect of the above-named ship a policy of insurance or other financial security satisfying the requirements of Article 12 of the International Convention on Liability and Compensation for Damage in Connection with the Carriage of Hazardous and Noxious Substances by Sea, 2010.Art der SicherheitType of SecurityLaufzeit der SicherheitDuration of SecurityName und Anschrift des (der) Versicherers (Versicherer) und/oder Sicherheitsgebers (Sicherheitsgeber)Name and Address of the Insurer(s) and/or Guarantor(s)NameNameAnschriftAddressDiese Bescheinigung gilt bisThis certificate is valid untilAusgestellt oder bestätigt von der Regierung der Bundesrepublik Deutschland, Bundesamt für Seeschifffahrt und HydrographieIssued or certified by the Government of the Federal Republic of Germany, Federal Maritime and Hydrographic AgencyDatum/Date in/at Hamburg am/onIm Auftrag/For the Federal Maritime and Hydrographic AgencyBundesamt für Seeschifffahrt und HydrographieTID: Verifikation/Verification:www.deutsche-flagge.de oder/or✆ +49 40 3190 7777Dieses Dokument ist schreibgeschützt und kann elektronisch oder als gedruckte Papierkopie vorgelegt werden. Es ist ohne Unterschrift oder Siegel gültig.This document is write protected and may be presented electronically or as printed paper copy. It is valid without signature or seal. BSH:[Ort und Datum der Ausfertigung]
+Hiermit wird bescheinigt, dass für das vorgenannte Schiff eine Versicherungspolice oder sonstige finanzielle Sicherheit nach Maßgabe des Artikels 12 des Internationalen Übereinkommens von 2010 über die Haftung und Entschädigung für Schäden bei der Beförderung gefährlicher und schädlicher Stoffe auf See besteht.

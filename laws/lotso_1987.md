@@ -24,8 +24,6 @@ Im Geltungsbereich des Gesetzes über das Seelotswesen werden die Seelotsreviere
 
 (4) Das Seelotsrevier Elbe umfaßt alle Fahrtstrecken zwischen Hamburg und der Lotsenversetzposition beim Feuerschiff "GB".
 
-(5) Das Seelotsrevier Nord-Ostsee-Kanal I umfaßt alle Fahrtstrecken zwischen den Schleusen Brunsbüttel und der Lotsenwechselstation in Rüsterbergen im Nord-Ostsee-Kanal sowie auf der Elbe die Fahrtstrecken zu den Schleusen Brunsbüttel auf einem Gebiet, das im Osten durch die Ostgrenze der Nord-Ost-Reede von Brunsbüttel und deren südliche Verlängerung, im Westen durch den Längengrad 09 Grad 03' 55" Ost und im Süden durch das Südufer der Elbe begrenzt wird.
-
 (6) Das Seelotsrevier Nord-Ostsee-Kanal II/Kieler Förde/Trave/Flensburger Förde umfaßt alle Fahrtstrecken zwischen der Lotsenwechselstation in Rüsterbergen im Nord-Ostsee-Kanal und dem Leuchtturm Kiel, alle übrigen Fahrtstrecken auf der Kieler Förde, alle Fahrtstrecken auf der Trave zwischen Lübeck und der Leuchttonne 1 vor Travemünde sowie alle Fahrtstrecken auf der Flensburger Förde zwischen Flensburg und der Tonne "Flensburger Förde".
 
 (7) Das Seelotsrevier Wismar/Rostock/Stralsund umfaßt alle Fahrtstrecken zwischen dem Hafen Wismar und den seewärtigen Lotsenversetzpositionen, zwischen den Rostocker Häfen und den seewärtigen Lotsenversetzpositionen, zwischen dem Hafen Stralsund, den Häfen an den Boddengewässern und der Lotsenversetzposition bei der Tonne "Gellen" sowie zwischen dem Hafen Stralsund, dem Hafen Saßnitz und den Häfen an den Boddengewässern und dem Peenestrom und den Lotsenversetzpositionen bei den Tonnen "Landtief B" und "Osttief 2".
@@ -53,15 +51,15 @@ Die Durchführung von Betrieb und Unterhaltung der Lotseinrichtungen in den Seel
 
 (1) Die Lotsenbrüderschaften haben nach näherer Bestimmung der Börtordnung Bört- und Schiffslisten zu führen. In diese sind einzutragen
 
-1.
+1. der Beginn der Lotsung,
 
-2.
+2. das Ziel der Lotsung,
 
-3.
+3. das Ende der Lotsung,
 
-4.
+4. der Antritt und die Beendigung der zur Lotsung erforderlichen An- und Abmarschwege des Seelotsen und
 
-5.
+5. die Dauer erforderlicher Wartezeiten.
 
 (2) Die Bört- und Schiffslisten sind der Aufsichtsbehörde auf Anforderung vorzulegen.
 
@@ -71,11 +69,11 @@ Die Durchführung von Betrieb und Unterhaltung der Lotseinrichtungen in den Seel
 
 (2) Der Seelotse kann eine Lotsung wegen Unzumutbarkeit ablehnen, wenn das Schiff oder dessen Ausrüstung schwerwiegende Mängel aufweist oder die Besatzung nicht ausreicht oder nicht ausreichend qualifiziert ist und dadurch die Sicherheit der Schiffahrt oder die Umwelt erheblich gefährdet wird. Ein Fall der Unzumutbarkeit kann insbesondere gegeben sein, wenn
 
-1.
+1. der Kapitän oder sein Vertreter infolge des Genusses alkoholischer Getränke nicht in der Lage ist, das Schiff sicher zu führen,
 
-2.
+2. schwerwiegende Mängel der Antriebs- oder Ruderanlage oder der Kommandoelemente vorhanden sind oder
 
-3.
+3. auf einem Tankschiff kein funktionsfähiges Radargerät und kein UKW-Sprechfunkgerät mit den für das Revier erforderlichen Sprechwegen vorhanden ist.
 
 ### § 9 — Beendigung der Lotstätigkeit
 
@@ -111,25 +109,17 @@ Geht der Seelotse, wenn ein Schiff die Fahrt unterbricht, nicht von Bord oder ka
 
 (1) Ordnungswidrig im Sinne des § 47 Abs. 1 Nr. 7 des Gesetzes über das Seelotswesen handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. als Seelotse entgegena)§ 8 Abs. 1 Satz 1 eine Lotsung nicht durchführt, b)§ 10 Unterlagen nicht bei sich führt oder keine Einsicht gewährt, c)§ 12 Abs. 1 Satz 3 eine Meldung nicht, nicht richtig nicht vollständig oder nicht rechtzeitig macht oder d)§ 12 Abs. 2 die Vollständigkeit der Ausfüllung der Prüfliste nicht oder nicht rechtzeitig überprüft, einen Hinweis nicht oder nicht rechtzeitig gibt oder eine Ausfertigung der Prüfliste nicht oder nicht rechtzeitig zuleitet, § 8 Abs. 1 Satz 1 eine Lotsung nicht durchführt, § 10 Unterlagen nicht bei sich führt oder keine Einsicht gewährt, § 12 Abs. 1 Satz 3 eine Meldung nicht, nicht richtig nicht vollständig oder nicht rechtzeitig macht oder § 12 Abs. 2 die Vollständigkeit der Ausfüllung der Prüfliste nicht oder nicht rechtzeitig überprüft, einen Hinweis nicht oder nicht rechtzeitig gibt oder eine Ausfertigung der Prüfliste nicht oder nicht rechtzeitig zuleitet,
 
-a)
+2. als Kapitän oder dessen Vertreter entgegen § 12 Abs. 1 Satz 5 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt oder
 
-b)
+3. als Kapitän, dessen Vertreter oder Seelotse einer Vorschrift des § 12 Abs. 3 Satz 1, 2 oder 4 oder Abs. 4 Satz 1 über die Lotsbescheinigung zuwiderhandelt.
 
-c)
+(2) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach
 
-d)
+1. Absatz 1,
 
-2.
-
-3.
-
-(2) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach wird auf die Aufsichtsbehörde übertragen.
-
-1.
-
-2.
+2. § 47 Abs. 1 Nr. 1 bis 6 des Gesetzes über das Seelotswesen und Verordnungen nach § 4, soweit sie auf § 47 Abs. 1 Nr. 7 des Gesetzes über das Seelotswesen verweisen,
 
 ### § 16
 
@@ -143,26 +133,12 @@ d)
 
 ### Schlußformel
 
-Der Bundesminister für Verkehr
-
 ### Anlage 1 — (zu § 2 Abs. 8)
-
-(Inhalt: Nicht darstellbare geographische Karte,
 
 ### Anlage 2 — (zu § 2 Abs. 8)
 
-(Inhalt: Nicht darstellbare geographische Karte,
-
 ### Anlage 3 — (zu § 2 Abs. 8)
-
-(Inhalt: Nicht darstellbare geographische Karte,
 
 ### Anhang EV — Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
-
-5.
-
-a)
-
-b)
+5. Allgemeine Lotsverordnung vom 21. April 1987 (BGBl. I S. 1290) mit folgenden Maßgaben:a)§ 6 findet in dem in Artikel 3 genannten Gebiet keine Anwendung. b)Während eines Zeitraums von zwei Jahren ab Wirksamwerden des Beitritts wird der Lotsversetzbetrieb von dem bisherigen Unternehmen fortgeführt. § 6 findet in dem in Artikel 3 genannten Gebiet keine Anwendung. Während eines Zeitraums von zwei Jahren ab Wirksamwerden des Beitritts wird der Lotsversetzbetrieb von dem bisherigen Unternehmen fortgeführt.

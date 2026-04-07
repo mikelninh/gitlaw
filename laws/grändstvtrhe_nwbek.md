@@ -16,5 +16,3 @@ Die in Artikel 1 Absatz 1 des Staatsvertrages genannten Kartenblätter wurden in
 Gemäß § 2 Absatz 3 des Gesetzes über das Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder nach Artikel 29 Absatz 7 des Grundgesetzes vom 30. Juli 1979 (BGBl. I S. 1325) wird der Staatsvertrag nachstehend bekannt gemacht.
 
 ### Schlussformel
-
-Bundesministerium des Innern

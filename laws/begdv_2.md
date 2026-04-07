@@ -57,23 +57,23 @@ Nachhaltig ist die Beeinträchtigung der Leistungsfähigkeit (§ 28 Abs. 3 BEG),
 
 Das Heilverfahren umfaßt
 
-1.
+1. die notwendige ärztliche Behandlung,
 
-2.
+2. die notwendige Versorgung mit Arznei- und anderen Heilmitteln sowie Ausstattung mit Körperersatzstücken, orthopädischen und anderen Hilfsmitteln, die den Erfolg der Heilbehandlung sichern oder die Folgen der Schädigung erleichtern sollen,
 
-3.
+3. die notwendige Pflege.
 
 ### § 10 — Erfüllung des Anspruchs
 
 (1) Soweit das Land das Heilverfahren nicht selbst durchführt oder durchführen läßt, wird der Anspruch des Verfolgten auf ein Heilverfahren dadurch erfüllt, daß die ihm erwachsenen notwendigen und angemessenen baren Auslagen erstattet werden.
 
-(2) Der Zustimmung der Entschädigungsbehörde vor Einleitung des Heilverfahrens bedürfen Ist dem Verfolgten eine Kur bewilligt worden, so kann der Durchführung einer weiteren Kur in der Regel frühestens nach Ablauf von zwei Jahren zugestimmt werden.
+(2) Der Zustimmung der Entschädigungsbehörde vor Einleitung des Heilverfahrens bedürfen
 
-1.
+1. Kur (Aufenthalt in einem Kurkrankenhaus oder in einem Sanatorium oder Heilkur),
 
-2.
+2. Ausstattung mit Hilfsmitteln (Körperersatzstücke, orthopädische und andere Hilfsmittel) und deren Zubehör, soweit deren Kosten 500 DM, ab dem 1. Januar 2002 den Betrag von 260 Euro übersteigen sowie die notwendige Ausbildung in ihrem Gebrauch,
 
-3.
+3. psychotherapeutische Behandlung.
 
 ### § 11 — Verfolgte mit Wohnsitz oder dauerndem Aufenthalt
 außerhalb des Geltungsbereichs des Bundesentschädigungsgesetzes
@@ -125,47 +125,39 @@ Die Rente wird unter Zugrundelegung des Diensteinkommens (Grundgehalt und Wohnun
 
 (3) Bei der Würdigung der wirtschaftlichen Verhältnisse sind insbesondere folgende Umstände zu berücksichtigen:
 
-1.
+1. gesetzliche Unterhaltsverpflichtungen,
 
-2.
+2. eigener Arbeitsverdienst und eigene Dienstbezüge aus zumutbarer Tätigkeit,
 
-3.
+3. eigener Arbeitsverdienst, den der Verfolgte zu erwerben unterläßt, obwohl ihm der Erwerb zuzumuten ist,
 
-4.
+4. Leistungen aus privaten Versicherungsverhältnissen,
 
-5.
+5. Zinsen aus der Anlage von Kapitalvermögen und Erträgnisse aus Wertpapieren, es sei denn, daß es sich nachweisbar um Zinsen oder Erträgnisse aus der Anlage von Leistungen handelt, die der Verfolgte im Zuge der Entschädigung für Opfer der nationalsozialistischen Verfolgung erhalten hat,
 
-6.
+6. sonstige Vermögenserträgnisse,
 
-7.
+7. Rentenleistungen, die der Verfolgte im Zuge der Entschädigung für Opfer der nationalsozialistischen Verfolgung erhalten hat oder erhält, sofern diese Leistungen nicht bereits nach den §§ 141d bis 141k BEG berücksichtigt werden,
 
-8.
+8. sonstige Versorgungsbezüge.
 
-(4) Nicht zumutbar ist eine Arbeit, die bei der sozialen Stellung des Verfolgten nicht üblich ist. Einer Verfolgten ist eine Erwerbstätigkeit insbesondere dann nicht zuzumuten, wenn sie Einem Verfolgten ist eine Erwerbstätigkeit insbesondere dann nicht zuzumuten, wenn er das 65. Lebensjahr vollendet hat oder in seiner Erwerbsfähigkeit um mindestens 50 vom Hundert gemindert ist.
+(4) Nicht zumutbar ist eine Arbeit, die bei der sozialen Stellung des Verfolgten nicht üblich ist. Einer Verfolgten ist eine Erwerbstätigkeit insbesondere dann nicht zuzumuten, wenn sie
 
-1.
+1. für ein Kind unter 14 Jahren zu sorgen hat,
 
-2.
+2. das 45. Lebensjahr vollendet hat,
 
-3.
+3. keine Berufsausbildung besitzt und bisher nicht erwerbstätig war,
 
-4.
-
-(5) Erzielte und erzielbare Einkünfte werden nur insoweit berücksichtigt, als sie den Betrag monatlich übersteigen.
+4. in ihrer Erwerbsfähigkeit um mindestens 50 vom Hundert gemindert ist.
 
 (6) Bei der Bewertung der im Ausland erzielten oder erzielbaren Einkünfte ist der amtliche Devisenkurs der ausländischen Währung zugrunde zu legen. Ergibt sich bei der Umrechnung der Einkünfte nach dem amtlichen Devisenkurs zuungunsten des Verfolgten eine Abweichung von mindestens 10 vom Hundert gegenüber der Umrechnung der Einkünfte nach der Kaufkraft der ausländischen Währung, so soll die Kaufkraft angemessen berücksichtigt werden. Dabei sind die Durchschnittswerte der Devisenkurse und die Kaufkraftrichtzahlen für jedes Jahr gegenüberzustellen.
 
 ### § 15a — Zuschläge und Abschläge bei der Bemessung des Hundertsatzes
 
-(1) Bei der Bemessung des Hundertsatzes nach § 15 sind im Regelfall folgende Zuschläge zu dem jeweiligen Mittelwert der in § 31 Abs. 6 BEG festgelegten Hundertsätze vorzunehmen: Der Zuschlag nach Nummer 1 entfällt, wenn der Ehegatte oder die sonstige unterhaltsberechtigte Person ein monatlich hat; der Zuschlag entfällt ferner, wenn er bereits bei der Bemessung des Hundertsatzes der Rente einer anderen unterhaltspflichtigen Person berücksichtigt worden ist.
+(1) Bei der Bemessung des Hundertsatzes nach § 15 sind im Regelfall folgende Zuschläge zu dem jeweiligen Mittelwert der in § 31 Abs. 6 BEG festgelegten Hundertsätze vorzunehmen:
 
-1.
-
-2.
-
-3.
-
-(2) Bei der Bemessung des Hundertsatzes nach § 15 sind im Regelfall folgende Abschläge von dem jeweiligen Mittelwert der in § 31 Abs. 6 BEG festgelegten Hundertsätze vorzunehmen:
+1. für Leistungen auf Grund gesetzlicher Unterhaltsverpflichtungen
 
 (3) Bei einer Ehefrau, die gemäß § 14 Abs. 6 in eine vergleichbare Beamtengruppe eingereiht worden ist, werden bei der Bemessung des Hundertsatzes 40 vom Hundert des Einkommens des Ehemannes als eigenes Einkommen berücksichtigt.
 
@@ -214,11 +206,7 @@ Verhältnisse
 
 ### § 21a — Erhöhung der monatlichen Mindestbeträge der Rente (§ 32 Abs. 1 des Bundesentschädigungsgesetzes)
 
-Der monatliche Mindestbetrag der Rente beträgt bei einer Beeinträchtigung der Erwerbsfähigkeit
-
 ### § 21b — Erhöhung der monatlichen Mindestbeträge der Rente
-
-Der monatliche Mindestbetrag der Rente beträgt
 
 ## 3.: Kapitalentschädigung
 
@@ -276,11 +264,11 @@ Verordnung
 
 (1) Es treten in Kraft
 
-1.
+1. die §§ 1, 4 bis 8 Abs. 1, §§ 9, 10 Abs. 1, 2 Satz 1 Nr. 1 bis 4, §§ 11a, 12 bis 15 Abs. 1, 2, 3 Nr. 1 bis 4, 6 bis 8, Abs. 4, §§ 16, 17, 17a Abs. 1, §§ 18, 20, 21, 22 und 24 mit Wirkung vom 1. Oktober 1953;
 
-2.
+2. die §§ 3, 8 Abs. 2, § 10 Abs. 2 Satz 1 Nr. 5 und Satz 2, §§ 11, 15 Abs. 3 Nr. 5, Abs. 5, 6, §§ 15a, 17a Abs. 2, 3, §§ 19, 23, 23a, 23b und 23c mit Wirkung vom 18. September 1965;
 
-3.
+3. die §§ 21a und 21b mit Wirkung vom 1. Januar 1966.
 
 (2) § 2 tritt mit Wirkung vom 18. September 1965 außer Kraft.
 

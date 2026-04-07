@@ -18,11 +18,11 @@ Auf Grund des § 38 Absatz 5 Satz 1, des § 106 Satz 1, des § 121 Absatz 4 Satz
 
 Diese Verordnung regelt insbesondere
 
-1.
+1. den Gegenstand der Prüfung von externen Kapitalverwaltungsgesellschaften, Investmentaktiengesellschaften, Investmentkommanditgesellschaften und Sondervermögen nach dem Kapitalanlagegesetzbuch,
 
-2.
+2. den Inhalt der Prüfungsberichte sowie
 
-3.
+3. die Art und den Umfang der Berichterstattung.
 
 ### § 2 — Risikoorientierung und Wesentlichkeit
 
@@ -32,13 +32,11 @@ Bei der Prüfung ist den Grundsätzen der risikoorientierten Prüfung und der We
 
 (1) Der Prüfungsbericht muss vollständig und übersichtlich gegliedert sein. Bei den Beurteilungen im Prüfungsbericht sind die aufsichtsrechtlichen Vorgaben zu beachten. Im Prüfungsbericht darzulegen sind für die Beurteilung der Tätigkeit der Kapitalverwaltungsgesellschaft bedeutsame Ereignisse, die nach dem Bilanzstichtag der Gesellschaft eingetreten und dem Abschlussprüfer bekannt geworden sind.
 
-(2) Wurde im Berichtszeitraum eine Prüfung gemäß § 14 Absatz 2 Satz 2 des Kapitalanlagegesetzbuches durchgeführt, so hat der Abschlussprüfer die Ergebnisse dieser Prüfung bei der Prüfung der aufsichtlichen Sachverhalte zu verwerten. Bei Sachverhalten, die Gegenstand der Prüfung gemäß § 14 Absatz 2 Satz 2 des Kapitalanlagegesetzbuches waren, kann sich die aufsichtsrechtliche Berichterstattung auf Veränderungen bis zum Bilanzstichtag der Gesellschaft beschränken.
+(2) Wurde im Berichtszeitraum eine Prüfung gemäß § 14 Absatz 2 Satz 2 des Kapitalanlagegesetzbuches durchgeführt, so hat der Abschlussprüfer die Ergebnisse dieser Prüfung bei der Prüfung der aufsichtlichen Sachverhalte zu verwerten. Bei Sachverhalten, die Gegenstand der Prüfung gemäß § 14 Absatz 2 Satz 2 des Kapitalanlagegesetzbuches waren, kann sich die aufsichtsrechtliche Berichterstattung auf Veränderungen bis zum Bilanzstichtag der Gesellschaft beschränken.
 
 (3) Soweit die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) gegenüber der Kapitalverwaltungsgesellschaft Bestimmungen über den Prüfungsinhalt getroffen oder Prüfungsschwerpunkte festgesetzt hat, sind im Prüfungsbericht die insoweit vorgenommenen Prüfungshandlungen im Überblick und die insoweit vorgenommenen Feststellungen im Einzelnen darzustellen.
 
 (4) Der Umfang der Berichterstattung unterliegt, soweit sich aus den nachfolgenden Regelungen nichts anderes ergibt, dem pflichtgemäßen Ermessen des Abschlussprüfers und hat der Bedeutung der dargestellten Vorgänge zu entsprechen. Über bedeutsame Veränderungen gegenüber dem letzten Berichtszeitraum ist stets zu berichten.
-
-(5) Der Prüfungsbericht ist vom Abschlussprüfer eigenhändig zu unterzeichnen. Eine Kopie des unterzeichneten Exemplars, die insbesondere keine weiteren Zusätze wie etwa die Lesbarkeit erschwerende Wasserzeichen oder ähnliches enthalten darf, ist der Bundesanstalt ausschließlich elektronisch über ein von ihr bereitgestelltes elektronisches Kommunikationsverfahren zu übermitteln. Berichte über die Prüfung von Spezial-AIF sind der Bundesanstalt nur einzureichen, wenn diese das verlangt.
 
 ### § 4 — Anlagen und Unzulässigkeit von Verweisungen
 
@@ -56,11 +54,11 @@ Bei der Prüfung ist den Grundsätzen der risikoorientierten Prüfung und der We
 
 (2) Der zusammenfassenden Schlussbemerkung muss auch zu entnehmen sein, ob
 
-1.
+1. die Bilanzposten ordnungsgemäß bewertet wurden, insbesondere ob die vorgenommenen Wertberichtigungen und die gebildeten Rückstellungen angemessen sind,
 
-2.
+2. die Rechnungsabgrenzungsposten richtig berechnet sind und
 
-3.
+3. die Vorschriften des Geldwäschegesetzes sowie die Anzeige- und Meldevorschriften eingehalten wurden.
 
 (3) Der Prüfungsbericht ist unter Angabe von Ort und Datum vom Abschlussprüfer eigenhändig zu unterzeichnen.
 
@@ -80,25 +78,25 @@ Der Bericht über die Prüfung der externen Kapitalverwaltungsgesellschaft ist s
 
 (1) Im Prüfungsbericht ist zu berichten
 
-1.
+1. über die Ausschöpfung und eine Überschreitung der Erlaubnis zum Betreiben des Geschäfts einer externen Kapitalverwaltungsgesellschaft und zur Erbringung von Dienst- und Nebendienstleistungen nach § 20 Absatz 2 und 3 des Kapitalanlagegesetzbuches im Berichtszeitraum und
 
-2.
+2. über die Einhaltung der damit verbundenen Auflagen im Berichtszeitraum.
 
 (2) Darzustellen sind die wesentlichen Änderungen der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen der externen Kapitalverwaltungsgesellschaft im Berichtszeitraum, wobei insbesondere zu berichten ist über
 
-1.
+1. Änderungen der Rechtsform und der Satzung oder des Gesellschaftsvertrages,
 
-2.
+2. Änderungen der Kapitalverhältnisse und der Gesellschafterverhältnisse,
 
-3.
+3. Änderungen in der personellen Zusammensetzung der Geschäftsleitung und Änderungen der Zuständigkeit der einzelnen Geschäftsleiter,
 
-4.
+4. Änderungen der Struktur des Geschäftsbetriebs einer externen Kapitalverwaltungsgesellschaft, der Struktur der erbrachten Dienstleistungen und Nebendienstleistungen nach § 20 Absatz 2 und 3 des Kapitalanlagegesetzbuches,
 
-5.
+5. die bevorstehende Aufnahme neuer Geschäftszweige,
 
-6.
+6. Änderungen der rechtlichen und geschäftlichen Beziehungen zu verbundenen Unternehmen, über wirtschaftlich bedeutsame Verträge geschäftspolitischer Natur, die die zwischenbetriebliche Zusammenarbeit regeln, wobei insbesondere Angaben über Art und Umfang der vereinbarten Leistungen zu machen sind; die Berichterstattung kann entfallen, soweit für den Berichtszeitraum ein Abhängigkeitsbericht nach § 312 des Aktiengesetzes erstellt und der Bundesanstalt eingereicht wurde,
 
-7.
+7. Änderungen im organisatorischen Aufbau der externen Kapitalverwaltungsgesellschaft und Änderungen der unter Risikoaspekten bedeutsamen Ablauforganisation; das aktuelle Organigramm ist dem Prüfungsbericht als Anlage beizufügen.
 
 (3) Über wesentliche auf andere Unternehmen ausgelagerte Aufgaben ist im Prüfungsbericht gesondert zu berichten, soweit die Berichterstattung nicht nach § 22 Absatz 5 zu erfolgen hat.
 
@@ -106,7 +104,7 @@ Der Bericht über die Prüfung der externen Kapitalverwaltungsgesellschaft ist s
 
 (5) Soweit der Abschlussprüfer nur verpflichtet ist, über Änderungen zu berichten, hat er darüber hinaus in angemessenen Abständen vollständig zu berichten. Angemessene Abstände sind in der Regel drei bis fünf Jahre.
 
-> (+++ § 8 Abs. 4, §§ 10, 11, 12, 13: Zur Anwendung vgl. § 44 Abs. 1 Satz 2  +++)
+> (+++ § 8 Abs. 4, §§ 10, 11, 12, 13: Zur Anwendung vgl. § 44 Abs. 1 Satz 2 +++)
 
 ### § 9 — Ausländische Zweigstellen und Zweigniederlassungen
 
@@ -128,13 +126,13 @@ Der Abschlussprüfer hat im Prüfungsbericht über die ausländischen Zweigstell
 
 (6) Im Prüfungsbericht aufzuführen sind die Anzahl der Fälle von operationellem Versagen sowie die Summe der erlittenen Verluste und die Anzahl der eingetretenen Schäden, die in der Verlustdatenbank im Sinne des Artikels 13 Absatz 2 der Verordnung (EU) Nr. 231/2013 im Berichtszeitraum erfasst wurden.
 
-> (+++ § 8 Abs. 4, §§ 10, 11, 12, 13: Zur Anwendung vgl. § 44 Abs. 1 Satz 2  +++)
+> (+++ § 8 Abs. 4, §§ 10, 11, 12, 13: Zur Anwendung vgl. § 44 Abs. 1 Satz 2 +++)
 
 ### § 11 — Anzeigewesen und Meldepflichten
 
 Im Prüfungsbericht ist die Organisation des Anzeigewesens der Kapitalverwaltungsgesellschaft zu beurteilen. Es ist darauf einzugehen, ob die Anzeigen, insbesondere die nach § 34 des Kapitalanlagegesetzbuches, sowie die Meldungen nach den §§ 12 und 35 des Kapitalanlagegesetzbuches vollständig und richtig sind. Wurden wesentliche Verstöße gegen die Anzeigen- und Meldepflichten festgestellt, sind diese Verstöße anzugeben.
 
-> (+++ § 8 Abs. 4, §§ 10, 11, 12, 13: Zur Anwendung vgl. § 44 Abs. 1 Satz 2  +++)
+> (+++ § 8 Abs. 4, §§ 10, 11, 12, 13: Zur Anwendung vgl. § 44 Abs. 1 Satz 2 +++)
 
 ## Unterabschnitt 2: Vorkehrungen zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung
 
@@ -146,35 +144,31 @@ Im Prüfungsbericht ist die Organisation des Anzeigewesens der Kapitalverwaltung
 
 (3) Die Prüfung hat spätestens drei Monate nach dem Abschluss des für sie maßgeblichen Berichtszeitraums zu beginnen.
 
-> (+++ § 8 Abs. 4, §§ 10, 11, 12, 13: Zur Anwendung vgl. § 44 Abs. 1 Satz 2  +++)
+> (+++ § 8 Abs. 4, §§ 10, 11, 12, 13: Zur Anwendung vgl. § 44 Abs. 1 Satz 2 +++)
 
 ### § 13 — Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung
 
 (1) Der Abschlussprüfer hat im Prüfungsbericht zu beurteilen, ob die Gefährdungsanalyse, die die externe Kapitalverwaltungsgesellschaft erstellt hat, der Risikosituation der externen Kapitalverwaltungsgesellschaft entspricht.
 
-(2) Darüber hinaus hat der Abschlussprüfer darzustellen, welche organisatorischen Maßnahmen zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung die externe Kapitalverwaltungsgesellschaft getroffen hat, und zu beurteilen, ob diese Maßnahmen angemessen sind. Dabei ist insbesondere einzugehen Bei der Prüfung hat der Abschlussprüfer die von der externen Kapitalverwaltungsgesellschaft erstellte Gefährdungsanalyse sowie die von der internen Revision im Berichtszeitraum durchgeführte Prüfung und deren Ergebnis zu berücksichtigen.
+(2) Darüber hinaus hat der Abschlussprüfer darzustellen, welche organisatorischen Maßnahmen zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung die externe Kapitalverwaltungsgesellschaft getroffen hat, und zu beurteilen, ob diese Maßnahmen angemessen sind. Dabei ist insbesondere einzugehen
 
-1.
+1. auf die von der externen Kapitalverwaltungsgesellschaft entwickelten und aktualisierten internen Grundsätze sowie auf die angemessenen geschäfts- und kundenbezogenen Sicherungssysteme und Kontrollen zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung,
 
-2.
+2. darauf, ob die Beschäftigten, die Transaktionen durchführen und Transaktionen anbahnen und begründen, angemessen über die Methoden der Geldwäsche und der Terrorismusfinanzierung sowie deren Verhinderung und die damit zusammenhängenden Pflichten unterrichtet werden.
 
 (3) Der Abschlussprüfer hat darzustellen und zu beurteilen, inwieweit die externe Kapitalverwaltungsgesellschaft den kundenbezogenen Sorgfaltspflichten nachgekommen ist, insbesondere auch den verstärkten Sorgfaltspflichten in Fällen eines erhöhten Risikos. Sofern die externe Kapitalverwaltungsgesellschaft die Durchführung von internen Sicherungsmaßnahmen oder die Wahrnehmung von kundenbezogenen Sorgfaltspflichten vertraglich auf eine dritte Person oder ein anderes Unternehmen ausgelagert hat, ist hierüber zu berichten.
 
 (4) Der Abschlussprüfer hat zu berichten, ob die Aufzeichnungs- und Aufbewahrungspflichten sowie die Pflicht, Verdachtsfälle intern zu erfassen und anzuzeigen, erfüllt wurden.
 
-(5) Bei einer externen Kapitalverwaltungsgesellschaft, die selbst nicht Tochterunternehmen eines Instituts oder eines nach dem Geldwäschegesetz verpflichteten Versicherungsunternehmens ist, aber Tochterunternehmen oder ausländische Zweigstellen oder Zweigniederlassungen besitzt, hat der Abschlussprüfer Die Darstellung nach Satz 1 Nummer 1 hat zu erfolgen, soweit sie zulässig ist nach dem Recht des betroffenen Staates, in dem das Tochterunternehmen, die Zweigstelle oder die Zweigniederlassungen ansässig ist. Soweit die nach Satz 1 zu treffenden Maßnahmen in einem Drittstaat nicht zulässig sind, hat der Abschlussprüfer ferner darzustellen, welche anderweitigen Maßnahmen die externe Kapitalverwaltungsgesellschaft stattdessen ergriffen hat, und zu beurteilen, ob diese Maßnahmen angemessen sind, um einem erhöhten Risiko der Geldwäsche und Terrorismusfinanzierung wirksam zu begegnen. Absatz 2 Satz 3 und Absatz 3 Satz 2 gelten entsprechend.
+(5) Bei einer externen Kapitalverwaltungsgesellschaft, die selbst nicht Tochterunternehmen eines Instituts oder eines nach dem Geldwäschegesetz verpflichteten Versicherungsunternehmens ist, aber Tochterunternehmen oder ausländische Zweigstellen oder Zweigniederlassungen besitzt, hat der Abschlussprüfer
 
-1.
+1. darzustellen, welche Maßnahmen die externe Kapitalverwaltungsgesellschaft getroffen hat, um a)einheitliche interne Sicherungsmaßnahmen zu schaffen undb)die Sorgfaltspflichten sowie die Aufzeichnungs- und Aufbewahrungspflichten zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung einzuhalten, und einheitliche interne Sicherungsmaßnahmen zu schaffen und die Sorgfaltspflichten sowie die Aufzeichnungs- und Aufbewahrungspflichten zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung einzuhalten, und
 
-a)
-
-b)
-
-2.
+2. zu beurteilen, ob diese Maßnahmen angemessen sind.
 
 (6) Bei einer externen Kapitalverwaltungsgesellschaft ist darzustellen, inwieweit diese ihre Verpflichtungen nach § 18 Absatz 6 des Kapitalanlagegesetzbuches in Verbindung mit § 24c Absatz 1 des Kreditwesengesetzes erfüllt hat. Insbesondere ist zu prüfen, ob die hierzu eingesetzten Verfahren eine zutreffende Erfassung der aufgenommenen Identifizierungsdaten mit richtiger Zuordnung zum Depot im Abrufsystem gewährleisten. Gegebenenfalls ist zu berichten, ob die Anordnungen der Bundesanstalt gemäß § 6a des Kreditwesengesetzes ordnungsgemäß erfüllt wurden.
 
-> (+++ § 8 Abs. 4, §§ 10, 11, 12, 13: Zur Anwendung vgl. § 44 Abs. 1 Satz 2  +++)
+> (+++ § 8 Abs. 4, §§ 10, 11, 12, 13: Zur Anwendung vgl. § 44 Abs. 1 Satz 2 +++)
 
 ## Unterabschnitt 3: Vorkehrungen zur Einhaltung der Verordnung (EU) Nr. 648/2012
 
@@ -186,9 +180,9 @@ b)
 
 (3) Der Abschlussprüfer hat die Risikominderungstechniken für OTC-Derivate-Kontrakte, die nicht einer Clearingpflicht durch eine zentrale Gegenpartei unterliegen, nach Artikel 11 der Verordnung (EU) Nr. 648/2012 auch in Verbindung mit nach Artikel 11 Absatz 14 und 15 der Verordnung (EU) Nr. 648/2012 erlassenen delegierten Rechtsverordnungen darzustellen und zu beurteilen. Dazu hat der Abschlussprüfer
 
-1.
+1. die Prozesse zur Identifizierung und Klärung bei Geschäften, die nicht von einer Gegenpartei bestätigt wurden, und die Prozesse zum Abgleich von Portfolios zu beurteilen und
 
-2.
+2. darzustellen, ob und in welchem Umfang von der Möglichkeit der Portfoliokomprimierung Gebrauch gemacht wurde.
 
 (4) Soweit die Besicherung gruppeninterner Transaktionen nach Artikel 11 Absatz 5 der Verordnung (EU) Nr. 648/2012 als nicht notwendig erachtet wurde, ist zu beurteilen, ob die Voraussetzungen für die Ausnahme von dieser Besicherungspflicht vorliegen. Wurde eine gruppeninterne Transaktion von der Besicherungspflicht durch die Bundesanstalt befreit, so ist zu beurteilen, ob die organisatorischen Maßnahmen angemessen sind zur Gewährleistung, dass die Voraussetzungen für diese Befreiung vorliegen, einschließlich der Veröffentlichungspflicht nach Artikel 11 Absatz 11 der Verordnung (EU) Nr. 648/2012 auch in Verbindung mit Artikel 20 der Delegierten Verordnung (EU) Nr. 149/2013 der Kommission vom 19. Dezember 2012 zur Ergänzung der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates im Hinblick auf technische Regulierungsstandards für indirekte Clearingvereinbarungen, die Clearingpflicht, das öffentliche Register, den Zugang zu einem Handelsplatz, nichtfinanzielle Gegenparteien und Risikominderungstechniken für nicht durch eine CCP geclearte OTC-Derivatekontrakte (ABl. L 52 vom 23.2.2013, S. 11).
 
@@ -198,11 +192,11 @@ b)
 
 ### § 14a — Einhaltung der Pflichten nach der Verordnung (EU) 2019/2088 und nach der Verordnung (EU) 2020/852
 
-Der Abschlussprüfer hat die Erfüllung der Transparenzanforderungen zu beurteilen.
+Der Abschlussprüfer hat die Erfüllung der Transparenzanforderungen
 
-1.
+1. nach den Artikeln 3 bis 13 der Verordnung (EU) 2019/2088 des Europäischen Parlaments und des Rates vom 27. November 2019 über nachhaltigkeitsbezogene Offenlegungspflichten im Finanzdienstleistungssektor (ABl. L 317 vom 9.12.2019, S. 1), die durch die Verordnung (EU) 2020/852 (ABl. L 198 vom 22.6.2020, S. 13) geändert worden ist, und
 
-2.
+2. nach den Artikeln 5 bis 7 der Verordnung (EU) 2020/852 des Europäischen Parlaments und des Rates vom 18. Juni 2020 über die Einrichtung eines Rahmens zur Erleichterung nachhaltiger Investitionen und zur Änderung der Verordnung (EU) 2019/2088 (ABl. L 198 vom 22.6.2020, S. 13),
 
 > (+++ §§ 5, 6, 14, 14a, 25 Abs. 3: Zur Anwendung vgl. § 44 Abs. 1 Satz 1 +++)
 
@@ -220,11 +214,11 @@ Im Prüfungsbericht ist die geschäftliche Entwicklung der externen Kapitalverwa
 
 (2) Die Berichterstattung hat sich auch zu erstrecken auf
 
-1.
+1. Art und Umfang stiller Reserven und stiller Lasten,
 
-2.
+2. bedeutende Verträge und schwebende Rechtsstreitigkeiten, soweit sich nachteilige Auswirkungen auf die Vermögenslage ergeben könnten, und auf die Bildung der notwendigen Rückstellungen,
 
-3.
+3. alle abgegebenen Patronatserklärungen unter Darstellung des Inhalts und auf die Beurteilung ihrer Rechtsverbindlichkeit.
 
 (3) Über die Anlage des eigenen Vermögens der externen Kapitalverwaltungsgesellschaft ist unter Berücksichtigung des § 28 Absatz 1 Satz 2 Nummer 4 des Kapitalanlagegesetzbuches zu berichten.
 
@@ -250,13 +244,13 @@ Im Prüfungsbericht ist die geschäftliche Entwicklung der externen Kapitalverwa
 
 ### § 19 — Erläuterungen
 
-Ob und inwieweit im Prüfungsbericht zu erläutern und mit den Vorjahreszahlen zu vergleichen sind, unterliegt dem pflichtgemäßen Ermessen des Abschlussprüfers unter Berücksichtigung des Grundsatzes der Wesentlichkeit.
+Ob und inwieweit im Prüfungsbericht
 
-1.
+1. die Bilanzposten einschließlich Eventualverbindlichkeiten und anderen Verbindlichkeiten,
 
-2.
+2. die Angaben unter dem Bilanzstrich und
 
-3.
+3. die Posten der Gewinn- und Verlustrechnung
 
 > (+++ §§ 15 bis 20: Zur Anwendung vgl. § 44 Abs. 1 Satz 3 +++)
 
@@ -284,13 +278,13 @@ Dem Prüfungsbericht ist das auszufüllende Formblatt mit Angaben zum Berichtsja
 
 (3) Der Abschlussprüfer hat zu beurteilen, ob das Risikomanagement gemäß § 28 Absatz 1 Satz 2 Nummer 1 des Kapitalanlagegesetzbuches angemessen ist; dabei sind die Komplexität und der Umfang der für die verwalteten Investmentvermögen eingegangenen Risiken zu berücksichtigen. Bei seiner Beurteilung hat er insbesondere einzugehen auf
 
-1.
+1. Adressenausfallrisiken,
 
-2.
+2. Zinsänderungs-, Währungs- und sonstige Marktpreisrisiken,
 
-3.
+3. operationelle Risiken und Liquiditätsrisiken sowie
 
-4.
+4. die Anforderungen der Derivateverordnung.
 
 (4) Der Abschlussprüfer hat zu beurteilen, ob das Liquiditätsmanagementsystem angemessen ist. Dazu hat er die Verfahren zur Überwachung der Liquiditätsrisiken und das Liquiditätsprofil darzustellen und über die Durchführung und das Ergebnis der Stresstests zu berichten.
 
@@ -306,45 +300,33 @@ Dem Prüfungsbericht ist das auszufüllende Formblatt mit Angaben zum Berichtsja
 
 (1) Der Abschlussprüfer hat im Prüfungsbericht die Dienstleistungen und Nebendienstleistungen im Sinne des § 20 Absatz 2 und 3 des Kapitalanlagegesetzbuches zu prüfen und festzustellen, ob die Vorschriften des Kapitalanlagegesetzbuches eingehalten wurden. Bei der Erbringung von Dienstleistungen und Nebendienstleistungen im Sinne des § 20 Absatz 2 Nummer 1 bis 3 und Absatz 3 Nummer 2 bis 5 des Kapitalanlagegesetzbuches hat er auch zu prüfen, ob die in § 5 Absatz 2 des Kapitalanlagegesetzbuches genannten Vorschriften des Wertpapierhandelsgesetzes eingehalten wurden. Die Prüfung muss den gesamten Berichtszeitraum erfassen und in einem angemessenen Verhältnis zum Umfang der jeweiligen Geschäfte und Aufgaben stehen.
 
-(2) Im Prüfungsbericht sind im Einzelnen, sofern nach der Art der erbrachten Dienstleistungen und Nebendienstleistungen im Sinne des § 20 Absatz 2 Nummer 1 bis 3 und Absatz 3 Nummer 2 bis 5 des Kapitalanlagegesetzbuches einschlägig, darzustellen: Bei der Darstellung im Prüfungsbericht ist auch, sofern nach der Art der erbrachten Dienstleistungen oder Nebendienstleistungen einschlägig, über die Erfüllung der jeweiligen Pflichten zu berichten, die sich aus der Wertpapierdienstleistungs-Verhaltens- und Organisationsverordnung und aus der Verordnung (EG) Nr. 1287/2006 in ihren jeweils geltenden Fassungen ergeben.
+(2) Im Prüfungsbericht sind im Einzelnen, sofern nach der Art der erbrachten Dienstleistungen und Nebendienstleistungen im Sinne des § 20 Absatz 2 Nummer 1 bis 3 und Absatz 3 Nummer 2 bis 5 des Kapitalanlagegesetzbuches einschlägig, darzustellen:
 
-1.
+1. Art und Umfang der im Berichtszeitraum ausgeführten Dienstleistungen und Nebendienstleistungen, insbesondere Depotvolumina, Transaktionsvolumina, Kundenzahl und Anlageformen;
 
-2.
+2. die Einhaltung der allgemeinen Verhaltensregeln nach § 31 des Wertpapierhandelsgesetzes und nach § 26 Absatz 4 des Kapitalanlagegesetzbuches;
 
-3.
+3. die Zulässigkeit der Entgegennahme oder der Gewährung von Zuwendungen und die Einhaltung der Offenlegungspflichten nach § 31d des Wertpapierhandelsgesetzes;
 
-4.
+4. die nach den §§ 31a und 33 des Wertpapierhandelsgesetzes erforderlichen Vorkehrungen und Maßnahmen sowie die Organisation der externen Kapitalverwaltungsgesellschaft, insbesondere im Hinblick auf die Kundeneinstufung, und die prüferische Beurteilung dieser Vorkehrungen und Maßnahmen sowie der Organisation; gesondert dazustellen sind der Aufbau und die Ablauforganisation der externen Kapitalverwaltungsgesellschaft sowie Geschäftsbereiche mit besonderen Anforderungen an den Aufbau;
 
-5.
+5. die Anzahl und der Umfang von Kulanzzahlungen und Gerichtsverfahren im Zusammenhang mit Dienstleistungen und Nebendienstleistungen sowie die Anzahl und die Art und Weise der Behandlung von Kundenbeschwerden und die damit zusammenhängenden personellen und organisatorischen Konsequenzen;
 
-6.
+6. die Vorkehrungen zur bestmöglichen Ausführung von Kundenaufträgen nach § 33a des Wertpapierhandelsgesetzes; die Vorkehrungen sind prüferisch zu beurteilen;
 
-7.
+7. die Mittel und Verfahren zur Einhaltung der Verpflichtungen nach § 33b des Wertpapierhandelsgesetzes für Mitarbeiter und Mitarbeitergeschäfte und deren prüferische Beurteilung;
 
-8.
+8. die Einhaltung der Aufzeichnungs- und Aufbewahrungspflichten nach § 34 des Wertpapierhandelsgesetzes und nach den Artikeln 7 und 8 der Verordnung (EG) Nr. 1287/2006 der Kommission vom 10. August 2006 zur Durchführung der Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates betreffend die Aufzeichnungspflichten für Wertpapierfirmen, die Meldung von Geschäften, die Markttransparenz, die Zulassung von Finanzinstrumenten zum Handel und bestimmte Begriffe im Sinne dieser Richtlinie (ABl. L 241 vom 2.9.2006, S. 1);
 
-9.
-
-a)
-
-b)
+9. die Erfüllung der Pflichten nach § 34a des Wertpapierhandelsgesetzes unter Angabe, a)inwieweit bei den verwahrenden Instituten oder externen Kapitalverwaltungsgesellschaften geprüft wurde, ob die den Kunden ausgewiesenen Gelder oder Wertpapiere mit den Salden der Treuhandkonten oder Depots übereinstimmen,b)ob bei den verwahrenden Instituten oder den externen Kapitalverwaltungsgesellschaften die Voraussetzungen des § 34a des Wertpapierhandelsgesetzes vorliegen. inwieweit bei den verwahrenden Instituten oder externen Kapitalverwaltungsgesellschaften geprüft wurde, ob die den Kunden ausgewiesenen Gelder oder Wertpapiere mit den Salden der Treuhandkonten oder Depots übereinstimmen, ob bei den verwahrenden Instituten oder den externen Kapitalverwaltungsgesellschaften die Voraussetzungen des § 34a des Wertpapierhandelsgesetzes vorliegen.
 
 (3) Soweit bei den Feststellungen nach Absatz 2 im Rahmen der letzten Prüfung keine Mängel festgestellt wurden und sich bei der laufenden Prüfung keine Änderungen der Prüfungsergebnisse ergeben haben, kann auf die Einzeldarstellung verzichtet werden. Ist in drei aufeinanderfolgenden Jahren keine Einzeldarstellung einzelner Bereiche erfolgt, kann die Bundesanstalt für die folgende Prüfung eine Einzeldarstellung dieser Bereiche verlangen, auch wenn keine Änderungen eingetreten sind.
 
 (4) Bei der Prüfung der Nebendienstleistungen nach § 20 Absatz 2 Nummer 3 und Absatz 3 Nummer 4 des Kapitalanlagegesetzbuches hat der Prüfungsbericht zudem Folgendes zu enthalten:
 
-1.
+1. Angaben, ob a)Investmentanteile für andere ordnungsgemäß verwahrt oder verwaltet wurden,b)das Verwahrungsbuch ordnungsgemäß geführt wurde,c)die Verfügungen über Kundenwertpapiere ordnungsgemäß durchgeführt wurden undd)Ermächtigungen ordnungsgemäß durchgeführt wurden, sowie Investmentanteile für andere ordnungsgemäß verwahrt oder verwaltet wurden, das Verwahrungsbuch ordnungsgemäß geführt wurde, die Verfügungen über Kundenwertpapiere ordnungsgemäß durchgeführt wurden und Ermächtigungen ordnungsgemäß durchgeführt wurden, sowie
 
-a)
-
-b)
-
-c)
-
-d)
-
-2.
+2. Angaben, ob bei verwahrten Aktien von Investmentaktiengesellschaften § 67a Absatz 3, § 67b, jeweils auch in Verbindung mit § 125 Absatz 1, 2 und 5 und § 135 des Aktiengesetzes eingehalten wurden.
 
 (5) Im Prüfungsbericht sind, sofern nach der Art der erbrachten Nebendienstleistungen im Sinne des § 20 Absatz 2 Nummer 6 und 7 und Absatz 3 Nummer 8 des Kapitalanlagegesetzbuches einschlägig, die Art der angebotenen Altersvorsorgeverträge und die abgegebenen Mindestzahlungszusagen darzustellen.
 
@@ -378,37 +360,37 @@ d)
 
 (1) Dem Prüfungsbericht für das Sondervermögen sind insbesondere folgende Angaben voranzustellen:
 
-1.
+1. Name des Sondervermögens,
 
-2.
+2. WKN/ISIN (Wertpapierkennnummer/International Security Identification Number),
 
-3.
+3. Geschäftsjahr,
 
-4.
+4. Art des Sondervermögens,
 
-5.
+5. Fondsprofil, insbesondere Anlageschwerpunkt nach den Anlagebedingungen, gegebenenfalls der Vergleichsmaßstab,
 
-6.
+6. Ausgestaltungsmerkmale der Anteilklassen nach § 96 Absatz 1 des Kapitalanlagegesetzbuches,
 
-7.
+7. Name und Sitz der Verwahrstelle und gegebenenfalls des oder der Primebroker,
 
-8.
+8. Name und Sitz der verwaltenden Kapitalverwaltungsgesellschaft,
 
-9.
+9. Geschäftszeichen und Datum der Genehmigung der Allgemeinen und Besonderen Anlagebedingungen sowie Datum der Auflegung,
 
-10.
+10. Änderungen der Anlagebedingungen während des Geschäftsjahres und Datum ihres Inkrafttretens,
 
-11.
+11. Name und Sitz von Unternehmen, in die die Portfolioverwaltung ausgelagert wurde,
 
-12.
+12. Zuständigkeit für die Ermittlung des Anteilwertes,
 
-13.
+13. Gesamtkostenquote sowie weitere Angaben nach § 101 Absatz 2 Nummer 1 zweiter Halbsatz des Kapitalanlagegesetzbuches,
 
-14.
+14. Portfolioumschlagsrate gemäß Anlage 2,
 
-15.
+15. Daten mit besonderer Relevanz für das Sondervermögen, zum Beispiel bei Übernahme des Rechts zur Verwaltung, bei Übernahme aller Vermögensgegenstände, bei Wechsel der Verwahrstelle,
 
-16.
+16. bei Einsatz von Derivaten Angabe, ob der einfache oder qualifizierte Ansatz angewendet wird.
 
 (2) Absatz 1 ist nicht auf Spezial-AIF anzuwenden. Absatz 1 Nummer 14 ist nicht auf Immobilien-Sondervermögen anzuwenden.
 
@@ -432,9 +414,9 @@ d)
 
 (2) Die Berichterstattung umfasst bei Verstößen insbesondere:
 
-1.
+1. die Beschreibung des Verstoßes nach Art und Auswirkungen für das Sondervermögen, für die Anteilinhaber und für die externe Kapitalverwaltungsgesellschaft,
 
-2.
+2. die Darstellung der eingeleiteten Maßnahmen zur Vermeidung zukünftiger Verstöße und die Beurteilung der Wirksamkeit dieser Maßnahmen.
 
 (3) Bei geringfügigen Verstößen gegen gesetzliche und vertragliche Bestimmungen kann von der Darstellung abgesehen werden, es sei denn, es handelt sich um wiederholte Verstöße derselben Art. Über die in § 29 Absatz 3 genannten Verstöße ist in jedem Fall zu berichten.
 
@@ -450,19 +432,19 @@ d)
 
 (3) Im Prüfungsbericht ist, soweit sich aus den Vorschriften des Kapitalanlagegesetzbuches zu der Art des Sondervermögens nichts anderes ergibt, insbesondere über die Erfüllung folgender gesetzlicher Pflichten und über Verstöße gegen folgende gesetzliche Regelungen zu berichten:
 
-1.
+1. Verbot der Gewährung von Gelddarlehen und des Abschlusses von Bürgschafts- und Garantiegeschäften nach § 93 Absatz 4 des Kapitalanlagegesetzbuches,
 
-2.
+2. Verbot der Verpfändung, Belastung, Sicherheitsabtretung und Sicherheitsübereignung von Vermögensgegenständen, die zum Sondervermögen gehören, nach § 93 Absatz 5 des Kapitalanlagegesetzbuches,
 
-3.
+3. Aufrechnungsverbot nach § 93 Absatz 6 des Kapitalanlagegesetzbuches,
 
-4.
+4. Einhaltung der Kreditaufnahmegrenzen des Kapitalanlagegesetzbuches,
 
-5.
+5. Leerverkaufsverbot nach § 205 des Kapitalanlagegesetzbuches,
 
-6.
+6. Vergabe von Wertpapier-Darlehen nach den §§ 200 bis 202 des Kapitalanlagegesetzbuches und
 
-7.
+7. Pensionsgeschäfte nach § 203 des Kapitalanlagegesetzbuches.
 
 > (+++ §§ 26 bis 33: Zur Anwendung vgl. § 44 Abs. 1 Satz 1 +++)
 
@@ -504,15 +486,15 @@ d)
 
 Folgende Pflichten des Abschlussprüfers im Prüfungsbericht beim Einsatz von Derivaten in einem Sondervermögen bleiben unberührt:
 
-1.
+1. nach § 4 Absatz 2 der Derivateverordnung (festgelegte Kontrollverfahren),
 
-2.
+2. nach § 9 Absatz 5 Satz 5 der Derivateverordnung (Vergleichsvermögen),
 
-3.
+3. nach § 10 Absatz 2 und 3 der Derivateverordnung (Risikomodelle),
 
-4.
+4. nach § 31 Absatz 2 der Derivateverordnung (Stresstests) und
 
-5.
+5. nach § 34 Absatz 1, Absatz 2 Satz 3 der Derivateverordnung (Richtliniengestaltung und -durchführung).
 
 > (+++ §§ 26 bis 33: Zur Anwendung vgl. § 44 Abs. 1 Satz 1 +++)
 
@@ -532,19 +514,9 @@ Auf Prüfungsberichte über Immobilien-Sondervermögen und offene Spezial-AIF mi
 
 Werden im Berichtsjahr Vermögensgegenstände im Sinne des § 231 Absatz 1, des § 233 Absatz 1 und des § 234 des Kapitalanlagegesetzbuches für das Sondervermögen erworben oder für Rechnung des Sondervermögens veräußert, so sind im Prüfungsbericht
 
-1.
+1. bei einem Erwerb für das Sondervermögen darzustellen, ob bei Publikums-AIF sichergestellt wurde, dass die Verfügungsbeschränkung nach § 84 Absatz 1 Nummer 3 in Verbindung mit § 246 Absatz 1 des Kapitalanlagegesetzbuches wirksam ist und ferner aufzuführen: a)der vor Erwerb nach § 231 Absatz 2 oder § 236 des Kapitalanlagegesetzbuches ermittelte Wert,b)die vertraglich vereinbarte und die tatsächlich aus dem Sondervermögen erbrachte Gegenleistung sowiec)die Anschaffungsnebenkosten; der vor Erwerb nach § 231 Absatz 2 oder § 236 des Kapitalanlagegesetzbuches ermittelte Wert, die vertraglich vereinbarte und die tatsächlich aus dem Sondervermögen erbrachte Gegenleistung sowie die Anschaffungsnebenkosten;
 
-a)
-
-b)
-
-c)
-
-2.
-
-a)
-
-b)
+2. bei einer Veräußerung für Rechnung des Sondervermögens aufzuführen: a)die in der Vermögensaufstellung der vergangenen zwei Jahre einschließlich des Berichtsjahres angesetzten Werte sowieb)die vertraglich vereinbarte und die tatsächlich dem Sondervermögen zugeflossene Gegenleistung. die in der Vermögensaufstellung der vergangenen zwei Jahre einschließlich des Berichtsjahres angesetzten Werte sowie die vertraglich vereinbarte und die tatsächlich dem Sondervermögen zugeflossene Gegenleistung.
 
 ### § 37 — Erwerb von Vermögensgegenständen im Ausland
 
@@ -566,15 +538,15 @@ Im Prüfungsbericht ist darauf einzugehen, ob die externe Kapitalverwaltungsgese
 
 ### § 40 — Berichterstattung hinsichtlich weiterer Anlagevorschriften und der Verletzung von Anlagegrenzen
 
-Ergänzend zur Berichterstattung nach § 29 Absatz 2, ansonsten gesondert ist insbesondere über die Erfüllung folgender gesetzlicher Pflichten und über Verstöße gegen folgende Regelungen zu berichten: Satz 1 Nummer 1 gilt nicht für offene Spezial-AIF mit einer Anlage in entsprechenden Vermögensgegenständen.
+Ergänzend zur Berichterstattung nach § 29 Absatz 2, ansonsten gesondert ist insbesondere über die Erfüllung folgender gesetzlicher Pflichten und über Verstöße gegen folgende Regelungen zu berichten:
 
-1.
+1. die Einhaltung des Zustimmungserfordernisses nach § 239 Absatz 2 des Kapitalanlagegesetzbuches,
 
-2.
+2. die Gewährung von Darlehen an Immobilien-Gesellschaften gemäß § 240 des Kapitalanlagegesetzbuches,
 
-3.
+3. die Einhaltung der in § 260 Absatz 3, gegebenenfalls in Verbindung mit Absatz 4, des Kapitalanlagegesetzbuches genannten Grenze für die Belastung von Grundstückswerten und
 
-4.
+4. die Einhaltung der in § 253 Absatz 1 und 2 des Kapitalanlagegesetzbuches enthaltenen Grenzen über die Höchst- und Mindestliquidität.
 
 ### § 41 — Vergabeverfahren
 
@@ -602,29 +574,29 @@ Im Prüfungsbericht ist zu beurteilen, ob die getroffenen organisatorischen Vork
 
 (2) Die in Absatz 1 genannten Vorschriften sind bei der Investmentaktiengesellschaft mit folgenden Maßgaben entsprechend anzuwenden:
 
-1.
+1. an die Stelle des Wortes „externe Kapitalverwaltungsgesellschaft“ tritt das Wort „Investmentaktiengesellschaft“;
 
-2.
+2. an die Stelle des Wortes „Anteil“ tritt das Wort „Aktie“;
 
-3.
+3. an die Stelle des Wortes „Anteilinhaber“ tritt das Wort „Aktionär“;
 
-4.
+4. an die Stelle des Wortes „Anlagebedingungen“ treten die Wörter „Satzung und Anlagebedingungen“;
 
-5.
+5. an die Stelle des Wortes „Sondervermögen“ tritt das Wort „Gesellschaftsvermögen“ oder das Wort „Teilgesellschaftsvermögen“;
 
-6.
+6. die Wörter „der wesentlichen Geschäftssparten“ bleiben außer Betracht.
 
 (3) Die in Absatz 1 genannten Vorschriften sind bei der Investmentkommanditgesellschaft mit folgenden Maßgaben entsprechend anzuwenden:
 
-1.
+1. an die Stelle des Wortes „externe Kapitalverwaltungsgesellschaft“ tritt das Wort „Investmentkommanditgesellschaft“;
 
-2.
+2. an die Stelle des Wortes „Anteilinhaber“ tritt das Wort „Anleger“;
 
-3.
+3. an die Stelle des Wortes „Anlagebedingungen“ treten die Wörter „Gesellschaftsvertrag und Anlagebedingungen“;
 
-4.
+4. an die Stelle des Wortes „Sondervermögen“ tritt das Wort „Gesellschaftsvermögen“ oder das Wort „Teilgesellschaftsvermögen“;
 
-5.
+5. die Wörter „der wesentlichen Geschäftssparten“ bleiben außer Betracht.
 
 ## Abschnitt 2: Angaben zur Investmentgesellschaft
 
@@ -632,17 +604,17 @@ Im Prüfungsbericht ist zu beurteilen, ob die getroffenen organisatorischen Vork
 
 (1) Im Prüfungsbericht sind die wesentlichen Änderungen der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen der Investmentaktiengesellschaft im Berichtszeitraum darzustellen, wobei insbesondere zu berichten ist über:
 
-1.
+1. Änderungen der Satzung,
 
-2.
+2. Änderungen in der Zusammensetzung der Unternehmensaktionäre und Änderungen ihrer Stimmverhältnisse zueinander,
 
-3.
+3. Änderungen in der personellen Zusammensetzung der Geschäftsleitung und Änderungen der Zuständigkeit der einzelnen Geschäftsleiter,
 
-4.
+4. Änderungen der rechtlichen und geschäftlichen Beziehungen zu verbundenen Unternehmen sowie Änderungen über bemerkenswerte Beziehungen zu anderen Unternehmen und über wirtschaftlich bedeutsame Verträge geschäftspolitischer Natur, die die zwischenbetriebliche Zusammenarbeit regeln, wobei insbesondere Angaben über Art und Umfang der vereinbarten Leistungen zu machen sind, insbesondere zur Kapitalverwaltungsgesellschaft, falls diese fremdverwaltet wird; die Berichterstattung kann entfallen, soweit für den Berichtszeitraum ein Abhängigkeitsbericht nach § 312 des Aktiengesetzes erstellt und der Bundesanstalt eingereicht wurde,
 
-5.
+5. Änderungen im organisatorischen Aufbau der Investmentaktiengesellschaft sowie über Änderungen der unter Risikoaspekten bedeutsamen Ablauforganisation; das aktuelle Organigramm ist dem Prüfungsbericht als Anlage beizufügen,
 
-6.
+6. Übertragungen aller Vermögensgegenstände nach § 100 Absatz 3 des Kapitalanlagegesetzbuches im Berichtszeitraum.
 
 (2) Absatz 1 ist auf die Investmentkommanditgesellschaft mit der Maßgabe anzuwenden, dass insbesondere über Nummer 1 sowie 3 bis 6 zu berichten ist.
 
@@ -654,19 +626,9 @@ Im Prüfungsbericht ist zu beurteilen, ob die getroffenen organisatorischen Vork
 
 (1) Werden im Berichtsjahr Vermögensgegenstände im Sinne des § 261 Absatz 2 des Kapitalanlagegesetzbuches für das Investmentvermögen erworben oder für Rechnung des Investmentvermögens veräußert, so sind im Prüfungsbericht
 
-1.
+1. bei einem Erwerb von Investmentvermögen aufzuführen: a)der vor dem Erwerb nach § 261 Absatz 5 und 6 des Kapitalanlagegesetzbuches ermittelte Wert,b)die vertraglich vereinbarte und die tatsächlich aus dem Investmentvermögen erbrachte Gegenleistung undc)die Anschaffungsnebenkosten; der vor dem Erwerb nach § 261 Absatz 5 und 6 des Kapitalanlagegesetzbuches ermittelte Wert, die vertraglich vereinbarte und die tatsächlich aus dem Investmentvermögen erbrachte Gegenleistung und die Anschaffungsnebenkosten;
 
-a)
-
-b)
-
-c)
-
-2.
-
-a)
-
-b)
+2. bei einer Veräußerung von Investmentvermögen aufzuführen: a)die bei der Veräußerung nach den §§ 271 und 272 des Kapitalanlagegesetzbuches ermittelten Werte der vergangenen zwei Jahre einschließlich des Berichtsjahres sowieb)die vertraglich vereinbarte und die tatsächlich dem Investmentvermögen zugeflossene Gegenleistung. die bei der Veräußerung nach den §§ 271 und 272 des Kapitalanlagegesetzbuches ermittelten Werte der vergangenen zwei Jahre einschließlich des Berichtsjahres sowie die vertraglich vereinbarte und die tatsächlich dem Investmentvermögen zugeflossene Gegenleistung.
 
 (2) Im Prüfungsbericht sind die Verkehrswerte oder Kaufpreise der Sachwerte, die für das Investmentvermögen direkt oder indirekt gehalten werden, einzeln für das Berichtsjahr und für das Vorjahr anzugeben.
 
@@ -688,133 +650,21 @@ Diese Verordnung tritt mit Wirkung vom 22. Juli 2013 in Kraft. Gleichzeitig trit
 
 ### Anlage 1 — (zu § 20)
 
-Die angegebenen Beträge (kaufmännische Rundung) lauten auf Tsd. Euro (EUR); Prozentangaben sind mit einer Nachkommastelle anzugeben (kaufmännische Rundung)._____________
+Die angegebenen Beträge (kaufmännische Rundung) lauten auf Tsd. Euro (EUR); Prozentangaben sind mit einer Nachkommastelle anzugeben (kaufmännische Rundung).
 
-1.
+1. Investmentaktiengesellschaft: ja (= 0) / nein (= 1)
 
-2.
+2. Investmentkommanditgesellschaft: ja (= 0) / nein (= 1)
 
-3.
+3. Wurden Altersvorsorgeverträge abgeschlossen oder Mindestzahlungszusagen abgegeben (§ 25 Absatz 5 KAGB): ja (= 0) / nein (= 1)
 
-4.
-
-1.
-
-2.
-
-a)
-
-b)
-
-3.
-
-a)
-
-b)
-
-4.
-
-5.
-
-1.
-
-a)
-
-b)
-
-c)
-
-aa)
-
-bb)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-aa)
-
-bb)
-
-i)
-
-j)
-
-k)
-
-2.
-
-a)
-
-b)
-
-c)
-
-3.
-
-4.
-
-5.
-
-a)
-
-b)
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-12.
-
-13.
-
-14.
-
-15.
-
-1.
-
-a)
-
-b)
-
-2.
-
-3.
-
-a)
-
-b)
-
-4.
-
-a)
-
-b)
-
-c)
+4. Personalbestand gemäß § 267 Absatz 5 HGB
 
 ### Anlage 2 — (zu § 26 Absatz 1 Nummer 14)
 
 Die Portfolioumschlagsrate eines Sondervermögens, einer Investmentaktiengesellschaft mit veränderlichem Kapital oder einer offenen Investmentkommanditgesellschaft wird folgendermaßen ermittelt: Der niedrigere Betrag des Gegenwertes der Käufe und Verkäufe der Vermögensgegenstände des betreffenden Berichtszeitraums wird durch den durchschnittlichen Nettoinventarwert dividiert. Der durchschnittliche Nettoinventarwert ist das arithmetische Mittel der ermittelten Nettoinventarwerte der Vermögensgegenstände.
 
 Die Portfolioumschlagsrate ist nach folgender Formel zu berechnen und in Prozent anzugeben:
-
-Portfolioumschlagsrate = Min(X ,Y)/M
 
 Der kleinere Wert von X oder Y = Min (X,Y)
 
@@ -823,3 +673,7 @@ Wertpapierkäufe = X
 Wertpapierverkäufe = Y
 
 durchschnittlicher Nettoinventarwert = M
+
+Vd Vermögen des Fonds am Tag d
+
+N Anzahl der Tage im jeweiligen Berichtszeitraum, an denen der Nettoinventarwert ermittelt wurde

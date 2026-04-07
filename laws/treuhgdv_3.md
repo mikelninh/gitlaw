@@ -11,7 +11,17 @@ Auf der Grundlage des § 1 Abs. 2 und 6 und des § 24 Abs. 4 des Gesetzes vom 17
 
 ### § 1
 
-Der Treuhandanstalt wird das Vermögen -der volkseigenen Güter, -der staatlichen Forstwirtschaftsbetriebe und Forsteinrichtungsämter, -der volkseigenen Binnenfischereibetriebe, -der volkseigenen Gestüte, Pferdezuchtdirektionen und Rennbetriebe sowie -der Betriebe bzw. der bereits ausgegliederten Betriebe des volkseigenen Kombinates Industrielle Tierproduktion (nachfolgend Wirtschaftseinheiten genannt) zur zeitweiligen treuhänderischen Verwaltung übergeben.
+Der Treuhandanstalt wird das Vermögen (nachfolgend Wirtschaftseinheiten genannt) zur zeitweiligen treuhänderischen Verwaltung übergeben.
+
+-
+
+-
+
+-
+
+-
+
+-
 
 ### § 2
 

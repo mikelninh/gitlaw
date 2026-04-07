@@ -12,7 +12,7 @@ Auf Grund des § 5 des Ergotherapeutengesetzes vom 25. Mai 1976 (BGBl. I S. 1246
 
 ### § 1 — Ausbildung
 
-(1) Die dreijährige Ausbildung für Ergotherapeutinnen und Ergotherapeuten umfaßt mindestens den in der Anlage 1 aufgeführten theoretischen und praktischen Unterricht von 2 700 Stunden und die aufgeführte praktische Ausbildung von 1 700 Stunden. Sie steht unter der Gesamtverantwortung einer Schule für Ergotherapeuten (Schule). Im Unterricht muß den Schülern ausreichende Möglichkeit gegeben werden, die erforderlichen praktischen Fähigkeiten und Fertigkeiten zu entwickeln und einzuüben.
+(1) Die dreijährige Ausbildung für Ergotherapeutinnen und Ergotherapeuten umfaßt mindestens den in der Anlage 1 aufgeführten theoretischen und praktischen Unterricht von 2 700 Stunden und die aufgeführte praktische Ausbildung von 1 700 Stunden. Sie steht unter der Gesamtverantwortung einer Schule für Ergotherapeuten (Schule). Im Unterricht muß den Schülern ausreichende Möglichkeit gegeben werden, die erforderlichen praktischen Fähigkeiten und Fertigkeiten zu entwickeln und einzuüben.
 
 (1a) Lehrformate, die selbstgesteuertes Lernen oder E-Learning beinhalten, können zielgerichtet bei der Konzeption des theoretischen und praktischen Unterrichts in einem angemessenen Umfang berücksichtigt werden. Die Teilnahme an Lehrformaten nach Satz 1 ist von den Auszubildenden gegenüber der Schule nachzuweisen. Das Nähere regeln die Länder.
 
@@ -28,17 +28,13 @@ Auf Grund des § 5 des Ergotherapeutengesetzes vom 25. Mai 1976 (BGBl. I S. 1246
 
 ### § 3 — Prüfungsausschuß
 
-(1) Bei jeder Schule wird ein Prüfungsausschuß gebildet. Er besteht aus mindestens vier Mitgliedern, und zwar: Als Fachprüfer sollen die Lehrkräfte bestellt werden, die den Prüfling in diesem Fachgebiet überwiegend ausgebildet haben.
+(1) Bei jeder Schule wird ein Prüfungsausschuß gebildet. Er besteht aus mindestens vier Mitgliedern, und zwar:
 
-1.
+1. einem fachlich geeigneten Vertreter der zuständigen Behörde oder einer von der zuständigen Behörde mit der Wahrnehmung dieser Aufgabe betrauten fachlich geeigneten Person als Vorsitzender,
 
-2.
+2. einer von der Schulverwaltung betrauten Person, wenn die Schule nach den Schulgesetzes eines Landes der staatlichen Aufsicht durch die Schulverwaltung untersteht, sowie
 
-3.
-
-a)
-
-b)
+3. Fachprüfern, die an der Schule unterrichten und von denen mindestensa)ein Prüfer Arzt undb)ein Prüfer Ergotherapeut, Beschäftigungs- und Arbeitstherapeut, Diplom-Medizinpädagoge oder Medizinpädagoge mit einer abgeschlossenen Ausbildung als Ergotherapeut oder Beschäftigungs- und Arbeitstherapeut sein muß. ein Prüfer Arzt und ein Prüfer Ergotherapeut, Beschäftigungs- und Arbeitstherapeut, Diplom-Medizinpädagoge oder Medizinpädagoge mit einer abgeschlossenen Ausbildung als Ergotherapeut oder Beschäftigungs- und Arbeitstherapeut sein muß.
 
 (2) Die zuständige Behörde bestellt die Mitglieder nach Absatz 1 Satz 2 Nr. 1 und 3 sowie ihre Vertreter. Für jedes Mitglied ist mindestens ein Vertreter zu bestimmen. Vor der Bestellung der Mitglieder nach Absatz 1 Satz 2 Nr. 3 und ihrer Vertreter ist die Schulleitung anzuhören.
 
@@ -52,9 +48,9 @@ b)
 
 (2) Die Zulassung zur Prüfung wird erteilt, wenn folgende Nachweise vorliegen:
 
-1.
+1. der Personalausweis oder Reisepass in amtlich beglaubigter Abschrift,
 
-2.
+2. die Bescheinigung nach § 1 Abs. 3 über die Teilnahme an den Ausbildungsveranstaltungen.
 
 (3) Die Zulassung sowie die Prüfungstermine sollen dem Prüfling spätestens zwei Wochen vor Prüfungsbeginn schriftlich mitgeteilt werden.
 
@@ -62,25 +58,25 @@ b)
 
 ### § 5 — Schriftlicher Teil der Prüfung
 
-(1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende Fächergruppen: Der Prüfling hat in den drei Fächergruppen in jeweils einer Aufsichtsarbeit schriftlich gestellte Fragen zu beantworten. Die Aufsichtsarbeiten dauern jeweils 180 Minuten. Die schriftliche Prüfung ist an drei Tagen durchzuführen. Die Aufsichtsführenden werden von der Schulleitung bestellt.
+(1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende Fächergruppen:
 
-1.
+1. Allgemeine Krankheitslehre; Spezielle Krankheitslehre einschließlich diagnostischer, therapeutischer, präventiver und rehabilitativer Maßnahmen sowie psychosoziale Aspekte; Grundlagen der Arbeitsmedizin;
 
-2.
+2. Psychologie und Pädagogik; Behindertenpädagogik; Berufs-, Gesetzes- und Staatskunde;
 
-3.
+3. Motorisch-funktionelle Behandlungsverfahren; Neurophysiologische Behandlungsverfahren; Neuropsychologische Behandlungsverfahren; Psychosoziale Behandlungsverfahren; Arbeitstherapeutische Verfahren.
 
 (2) Die Aufgaben für die Aufsichtsarbeiten werden von dem Vorsitzenden des Prüfungsausschusses auf Vorschlag der Schule ausgewählt. Jede Aufsichtsarbeit ist von zwei Fachprüfern zu benoten. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses die Note für die einzelne Aufsichtsarbeit als das arithmetische Mittel der Noten der einzelnen Fachprüfer sowie aus den Noten der drei Aufsichtsarbeiten die Prüfungsnote für den schriftlichen Teil der Prüfung als das arithmetische Mittel der Noten der einzelnen Aufsichtsarbeiten. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen. Der schriftliche Teil der Prüfung ist bestanden, wenn jede der drei Aufsichtsarbeiten mindestens mit "ausreichend" benotet wird.
 
 ### § 6 — Mündlicher Teil der Prüfung
 
-(1) Der mündliche Teil der Prüfung erstreckt sich auf folgende Fächer: Die Prüflinge werden einzeln oder in Gruppen bis zu fünf geprüft. Ein Prüfling soll in jedem Fach nicht länger als 15 Minuten geprüft werden.
+(1) Der mündliche Teil der Prüfung erstreckt sich auf folgende Fächer:
 
-1.
+1. Biologie, beschreibende und funktionelle Anatomie, Physiologie,
 
-2.
+2. Medizinsoziologie und Gerontologie,
 
-3.
+3. Grundlagen der Ergotherapie.
 
 (2) Jedes Fach wird von zwei Fachprüfern abgenommen und benotet. Der Vorsitzende des Prüfungsausschusses ist berechtigt, am mündlichen Teil der Prüfung teilzunehmen; ihm steht kein Fragerecht zu. Aus den Noten der Fachprüfer bildet der Vorsitzende die Note für das einzelne Fach als das arithmetische Mittel der Noten der einzelnen Fachprüfer sowie die Prüfungsnote für den mündlichen Teil der Prüfung als das arithmetische Mittel der Noten der einzelnen Fächer. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen. Der mündliche Teil der Prüfung ist bestanden, wenn jedes Fach mindestens mit "ausreichend" benotet wird.
 
@@ -90,9 +86,9 @@ b)
 
 (1) Im praktischen Teil der Prüfung hat der Prüfling
 
-1.
+1. gemäß eines von ihm vorher zu erstellenden Arbeitsplanes unter Aufsicht ein Werkstück, eine Schiene, ein Hilfsmittel oder einen anderen therapeutischen Gegenstand anzufertigen und die therapeutische Einsatzmöglichkeit zu analysieren und zu begründen sowie
 
-2.
+2. mit einem Patienten oder mit einer Patientengruppe eine ergotherapeutische Behandlung durchzuführen, die auf der Grundlage eines schriftlichen Prüfungsberichtes über die ergotherapeutische Befunderhebung, die Behandlungsplanung und deren Durchführung beruht.
 
 (2) Die Prüfung nach Absatz 1 Nr. 1 soll an zwei Tagen durchgeführt werden und zwölf Stunden nicht überschreiten. Für die Prüfung nach Absatz 1 Nr. 2 sind dem Prüfling die Patienten spätestens vier Tage vor der Prüfung zuzuweisen. Die Auswahl der Patienten erfolgt durch einen Fachprüfer nach § 3 Abs. 1 Satz 2 Nr. 3 im Einvernehmen mit dem Patienten und dem für den Patienten verantwortlichen Fachpersonal. Nach der ergotherapeutischen Behandlung sollen in einem Prüfungsgespräch Fragen zum Ablauf der Behandlung sowie dem Prüfungsbericht gestellt werden. Die Behandlung und das Gespräch sollen an einem Tag abgeschlossen sein und nicht länger als zwei Stunden dauern.
 
@@ -103,8 +99,6 @@ b)
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende Unregelmäßigkeiten hervorgehen.
 
 ### § 9 — Benotung von Leistungen in der staatlichen Prüfung
-
-Die in der staatlichen Prüfung erbrachten Leistungen werden wie folgt benotet:
 
 ### § 10 — Bestehen und Wiederholung der Prüfung
 
@@ -172,13 +166,13 @@ Liegen die Voraussetzungen nach § 2 des Ergotherapeutengesetzes für die Erteil
 
 (3) Bei der Kenntnisprüfung haben die Antragsteller nachzuweisen, dass sie über die zur Ausübung des Berufs des Ergotherapeuten erforderlichen Kenntnisse und Fähigkeiten verfügen. Die Kenntnisprüfung umfasst jeweils einen mündlichen und praktischen Teil. Sie ist erfolgreich abgeschlossen, wenn jeder der beiden Prüfungsteile bestanden ist.
 
-(4) Der mündliche Teil der Kenntnisprüfung erstreckt sich auf folgende Fächer: Der mündliche Teil der Prüfung soll für den einzelnen Prüfling mindestens 15 und nicht länger als 60 Minuten dauern. Er wird von zwei Fachprüfern nach § 3 Absatz 1 Satz 2 Nummer 3 abgenommen und bewertet. Der mündliche Teil der Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die Fachprüfer ihn in einer Gesamtbetrachtung übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das Bestehen. Der Vorsitzende des Prüfungsausschusses muss zu diesem Zweck während der Prüfung anwesend sein; ihm steht ein Fragerecht zu.
+(4) Der mündliche Teil der Kenntnisprüfung erstreckt sich auf folgende Fächer:
 
-1.
+1. Berufs- und Gesetzeskunde,
 
-2.
+2. Spezielle Krankheitslehre einschließlich diagnostischer, therapeutischer, präventiver und rehabilitativer Maßnahmen sowie psychosozialer Aspekte,
 
-3.
+3. Grundlagen der Ergotherapie.
 
 (5) Für den praktischen Teil der Kenntnisprüfung gilt § 16a Absatz 3 Satz 2 bis 11 entsprechend.
 
@@ -192,13 +186,13 @@ Liegen die Voraussetzungen nach § 2 des Ergotherapeutengesetzes für die Erteil
 
 (2) Über die Feststellung wesentlicher Unterschiede, die zur Auferlegung von Anpassungsmaßnahmen nach den §§ 16a oder 16b führen, ist den Antragstellern ein rechtsmittelfähiger Bescheid zu erteilen, der folgende Angaben enthält:
 
-1.
+1. das Niveau der in Deutschland verlangten Qualifikation und das Niveau der von den Antragstellern vorgelegten Qualifikation gemäß der Klassifizierung in Artikel 11 der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22, L 271 vom 16.10.2007, S. 18) in der jeweils geltenden Fassung,
 
-2.
+2. die Fächer oder Ausbildungsbestandteile, bei denen wesentliche Unterschiede festgestellt wurden,
 
-3.
+3. eine inhaltliche Erläuterung der wesentlichen Unterschiede sowie die Begründung, warum diese dazu führen, dass die Antragsteller nicht in ausreichender Form über die in Deutschland zur Ausübung des Berufs des Ergotherapeuten notwendigen Kenntnisse und Fähigkeiten verfügen, und
 
-4.
+4. eine Begründung, warum die wesentlichen Unterschiede nicht durch Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die die Antragsteller im Rahmen ihrer nachgewiesenen Berufspraxis oder durch lebenslanges Lernen im Sinne des § 2 Absatz 3 Satz 7 des Ergotherapeutengesetzes erworben haben.
 
 (3) Die Prüfungen nach § 16a Absatz 3 und § 16b Absatz 3 finden in Form einer staatlichen Prüfung vor einer staatlichen Prüfungskommission statt. Die Länder können zur Durchführung der Prüfungen die regulären Prüfungstermine der staatlichen Prüfung nach § 2 Absatz 1 nutzen; sie haben dabei sicherzustellen, dass die Antragsteller die Prüfungen innerhalb von sechs Monaten nach der Entscheidung nach Absatz 1 ablegen können. Soweit in den §§ 16a und 16b nichts anderes bestimmt ist, gelten die §§ 8, 11 bis 14 für die Durchführung der Prüfungen nach Satz 1 entsprechend.
 
@@ -216,77 +210,23 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage 1 — (zu § 1 Abs. 1)
 
-Fundstelle: BGBl. I 1999, 1735 - 1739
-
 ### Anlage 2 — (zu § 1 Abs. 3)
-
-(Fundstelle des Originaltextes: BGBl. I 1999, 1740)
-
--------------------------
 
 ### Anlage 3 — (zu § 10 Abs. 2 Satz 1)
 
-(Fundstelle des Originaltextes: BGBl. I 1999, 1741)
-
-Der Vorsitzende
-
 ### Anlage 4 — (zu § 15)
-
-(Fundstelle des Originaltextes: BGBl. I 1999, 1742)
-
-Urkunde
 
 ### Anlage 4a — (zu § 16a Absatz 2)
 
-....................................................................................(Bezeichnung der Einrichtung)
-
-Bescheinigung
-
 Name, Vorname
 
-....................................................................................................................... Geburtsdatum       Geburtsort
-
-.......................................................................................................................
-
-hat in der Zeit vom ..................... bis .....................regelmäßig an dem nach § 16a Absatz 2 der Ergotherapeuten-Ausbildungs- und Prüfungsverordnung von der zuständigen Behörde vorgeschriebenen Anpassungslehrgang teilgenommen.
-
 Ort, Datum
-
-.....................................................................  (Stempel)
-
-.....................................................................Unterschrift(en) der Einrichtung
 
 ### Anlage 4b — (zu § 16a Absatz 3)
 
-Die/Der Vorsitzende des Prüfungsausschusses
-
-Bescheinigung für .................................................................................
-
-SPLIT UMBAU : [Element: <Split/>
-][Element: 
-
-<Split/>
-][Text:  .][Element: 
-
-<Split/>
-][Element: 
-
-<Split/>
-]
-
 Name, Vorname
 
-....................................................................................................................... Geburtsdatum       Geburtsort
-
-.......................................................................................................................
-
-hat am ............................................................... die staatliche Eignungsprüfung nach § 16a Absatz 3 der Ergotherapeuten-Ausbildungs- und Prüfungsverordnung bestanden/nicht bestanden*.
-
 Ort, Datum
-
-........................................................................................ (Siegel)
-
-........................................................................................(Unterschrift(en) der/des Vorsitzenden des Prüfungsausschusses)
 
 ### Anlage 5 — (zu § 16b Absatz 2)
 

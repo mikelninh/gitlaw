@@ -17,33 +17,27 @@ Diese Anordnung gilt für alle Gebäude, Gebäudeteile und Grundstücke, die dem
 
 (1) Zutritt zu den Gebäuden, Gebäudeteilen und Grundstücken nach § 1 haben
 
-1.
+1. a)die Mitglieder des Bundesrates und die Bevollmächtigten der Länder sowie die Beauftragten der Landesregierungen, b)die Mitglieder des Deutschen Bundestages, c)die Mitglieder der Bundesregierung, die Mitglieder des Bundesrates und die Bevollmächtigten der Länder sowie die Beauftragten der Landesregierungen, die Mitglieder des Deutschen Bundestages, die Mitglieder der Bundesregierung,
 
-a)
+2. auf Grund ihres Dienstausweises die Beschäftigten des Sekretariats des Bundesrates und der Verwaltung des Deutschen Bundestages,
 
-b)
+3. auf Grund ihres Hausausweises des Deutschen Bundestages die Beschäftigten der Fraktionen des Deutschen Bundestages,
 
-c)
+4. Personen, die über einen Hausausweis des Bundesrates verfügen.
 
-2.
+(2) Zutritt aus berechtigtem Anlass ist ferner Personen gestattet, die über
 
-3.
+1. einen Dienstausweis einer obersten Bundes- oder Landesbehörde,
 
-4.
+2. einen Diplomatenpass der Gruppe D (Diplomat) oder IO (Internationale Organisationen),
 
-(2) Zutritt aus berechtigtem Anlass ist ferner Personen gestattet, die über verfügen.
+3. einen Jahrespresseausweis des Deutschen Bundestages, eine Jahresakkreditierung des Presse- und Informationsamtes der Bundesregierung oder eine Tagesakkreditierung des Bundesrates
 
-1.
+(3) Andere Einzelbesucher erhalten Zutritt auf Grund
 
-2.
+1. eines Besucherscheins, der zu einem einmaligen befristeten Zutritt berechtigt, an der Pforte ausgegeben wird und nach Beendigung des Besuches wieder dort abzugeben ist,
 
-3.
-
-(3) Andere Einzelbesucher erhalten Zutritt auf Grund Diese Personen haben ihre Identität - soweit diese nicht zweifelsfrei bekannt ist - nachzuweisen. Befinden sie sich ständig in Begleitung von Zutrittsberechtigten nach Absatz 1 Nr. 1 Buchstabe a oder von Beschäftigten des Sekretariats des Bundesrates, so kann von der Ausgabe eines Besucherscheins oder einer Besucherkarte abgesehen werden.
-
-1.
-
-2.
+2. einer Besucherkarte ("Einlasskarte") des Besucherdienstes, soweit nicht der Besucherdienst in anderer Weise den Zutritt gestattet hat.
 
 (4) Besuchergruppen erhalten Zutritt in Begleitung von mit ihrer Betreuung beauftragten Beschäftigten des Sekretariats des Bundesrates. Diese haben mit dem Pfortendienst und, sofern die Besuchergruppe geleitet wird, mit deren Leitung sicherzustellen, dass nur den Angehörigen der jeweiligen Besuchergruppe Zutritt gewährt wird.
 
@@ -53,13 +47,13 @@ c)
 
 (1) Zutritt zum Plenarsaal des Bundesrates während der Sitzungen des Bundesrates haben
 
-1.
+1. die Mitglieder des Bundesrates und die Bevollmächtigten der Länder sowie die Beauftragten der Landesregierungen,
 
-2.
+2. die Mitglieder der Bundesregierung und von ihnen Beauftragte,
 
-3.
+3. die zum Dienst im Plenarsaal eingeteilten Beschäftigten des Sekretariats des Bundesrates sowie Vertragskräfte des Stenografischen Dienstes,
 
-4.
+4. andere Personen, deren Teilnahme von der Präsidentin oder vom Präsidenten des Bundesrates zugelassen ist.
 
 (2) Zutritt zu den Pressetribünen des Plenarsaals haben während der Sitzungen des Bundesrates Personen, die über einen in § 2 Abs. 2 Nr. 3 genannten Ausweis verfügen.
 
@@ -75,13 +69,13 @@ c)
 
 (1) Im Bereich des Bundesrates nach § 1 ist jede Handlung zu unterlassen, die geeignet ist, die Tätigkeit des Bundesrates sowie seiner Organe und Einrichtungen zu beeinträchtigen. Insbesondere ist es nicht gestattet,
 
-1.
+1. Informationsmaterial zu zeigen oder zu verteilen, es sei denn, es ist zur Verteilung zugelassen,
 
-2.
+2. Spruchbänder zu entfalten,
 
-3.
+3. Sammlungen zu veranstalten oder ohne Genehmigung Waren anzubieten,
 
-4.
+4. Tiere mitzubringen.
 
 (2) Auf den Tribünen des Plenarsaals sind während der Sitzungen des Bundesrates Beifalls- und Missfallenskundgebungen, Zwischenrufe, Verletzungen von Ordnung oder Anstand sowie Handlungen, die geeignet sind, den ungestörten Ablauf der Sitzungen zu beeinträchtigen, untersagt.
 
@@ -95,19 +89,9 @@ c)
 
 (1) Zum Ordnungspersonal des Bundesrates gehören
 
-1.
+1. a)die Beschäftigten des Pfortendienstes, b)die Beschäftigten des Besucherdienstes und die zu ihrer Unterstützung eingesetzten Beschäftigten des Servicebereichs der Verwaltung, c)die Sicherheitsbeauftragte oder der Sicherheitsbeauftragte, die Beschäftigten des Pfortendienstes, die Beschäftigten des Besucherdienstes und die zu ihrer Unterstützung eingesetzten Beschäftigten des Servicebereichs der Verwaltung, die Sicherheitsbeauftragte oder der Sicherheitsbeauftragte,
 
-a)
-
-b)
-
-c)
-
-2.
-
-a)
-
-b)
+2. an Sitzungstagen des Bundesrates oder seiner Ausschüsse auch die zum Sitzungsdienst eingeteiltena)Beschäftigten des Parlamentsdienstes oder der Ausschussbüros, b)Beschäftigten des Servicebereichs der Verwaltung. Beschäftigten des Parlamentsdienstes oder der Ausschussbüros, Beschäftigten des Servicebereichs der Verwaltung.
 
 (2) Bei Gefahr im Verzug sind alle Beschäftigten des Sekretariats des Bundesrates berechtigt, die Aufgaben des Ordnungspersonals wahrzunehmen.
 
@@ -117,9 +101,9 @@ b)
 
 (2) Zur Erfüllung seiner Aufgaben nach Absatz 1 ist das Ordnungspersonal befugt,
 
-1.
+1. möglichen Störern den Zutritt zum Bereich des Bundesrates nach § 1 zu verweigern sowie Störer aus diesem Bereich zu verweisen,
 
-2.
+2. die Personalien von Störern festzustellen.
 
 (3) Soweit Maßnahmen nach Absatz 2 nicht zur Abwehr der Störung führen, hat die Leitung des Sekretariats des Bundesrates oder eine von ihr beauftragte Person die zur Abwehr der Störung erforderlichen Maßnahmen zu veranlassen.
 

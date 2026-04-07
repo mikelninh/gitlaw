@@ -19,7 +19,7 @@
 
 ### § 2 — Höhe und Anspruchszeitraum der Inflationsausgleichs-Sonderzahlung
 
-(1) Die Inflationsausgleichs-Sonderzahlung nach § 1 beträgt 7,50 Euro je geführter Betreuung und je angefangenem Monat.
+(1) Die Inflationsausgleichs-Sonderzahlung nach § 1 beträgt 7,50 Euro je geführter Betreuung und je angefangenem Monat.
 
 (2) Der Anspruch auf die Inflationsausgleichs-Sonderzahlung nach § 1 besteht für jeden in den Zeitraum vom 1. Januar 2024 bis zum 31. Dezember 2025 fallenden Monat, in dem die Betreuung an mindestens einem Tag geführt wird.
 

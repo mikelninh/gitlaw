@@ -23,7 +23,9 @@ Artikel 3 des Gesetzes vom 5. Juni 1996 zu dem Abkommen vom 10. November 1995 zw
 
 ### Art 3
 
-(1) Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.(2) Der Tag, an dem die Vereinbarung nach ihrer Inkrafttretensklausel in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
+(1) Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
+
+(2) Der Tag, an dem die Vereinbarung nach ihrer Inkrafttretensklausel in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
 
 ### Schlußformel
 

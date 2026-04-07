@@ -14,39 +14,39 @@ Auf Grund des § 32 Abs. 1 Satz 1 Nr. 17 des Luftverkehrsgesetzes in der Fassung
 
 (1) Folgende Verkehrsflughäfen sind flugplanvermittelte oder koordinierte Verkehrsflughäfen im Sinne des Artikels 2 Buchstabe g, h und i der Verordnung (EWG) Nr. 95/93, bei denen Start- und Landezeiten zu koordinieren sind:
 
-1.
+1. Berlin Brandenburg
 
-2.
+2. Bremen,
 
-3.
+3. Dresden,
 
-4.
+4. Düsseldorf,
 
-5.
+5. Erfurt,
 
-6.
+6. Frankfurt/Main,
 
-7.
+7. Hamburg,
 
-8.
+8. Hannover,
 
-9.
+9. Karlsruhe/Baden-Baden,
 
-10.
+10. Köln/Bonn,
 
-11.
+11. Leipzig/Halle,
 
-12.
+12. Memmingen,
 
-13
+13 München,
 
-14.
+14. Münster/Osnabrück,
 
-15.
+15. Nürnberg,
 
-16.
+16. Saarbrücken,
 
-17.
+17. Stuttgart.
 
 (2) Die Erklärung eines in Absatz 1 genannten Verkehrsflughafens zum koordinierten Flughafen nach Maßgabe der Verordnung (EWG) Nr. 95/93 erfolgt im Einvernehmen mit der obersten Luftfahrtbehörde des Landes, im Benehmen mit dem betroffenen Flughafenunternehmer und nach Anhörung des Koordinierungsausschusses nach § 2 durch das Bundesministerium für Verkehr; sie wird im Bundesanzeiger sowie in den Nachrichten für Luftfahrer bekanntgemacht. Das Bundesministerium für Verkehr bestimmt dabei im Einvernehmen mit der obersten Luftfahrtbehörde des Landes, ob der Verkehrsflughafen während seiner gesamten Betriebszeit oder nur für die Zeiträume, in denen Kapazitätsprobleme auftreten, für koordiniert erklärt wird.
 
@@ -68,21 +68,21 @@ Auf Grund des § 32 Abs. 1 Satz 1 Nr. 17 des Luftverkehrsgesetzes in der Fassung
 
 (2) Auf den nach § 1 Abs. 2 für koordiniert erklärten Flughäfen
 
-1.
+1. hat der Halter eines Luftfahrzeugs für alle beabsichtigten Starts und Landungen von Flügen nach Instrumentenflugregeln Slots zur Zuweisung beim Flughafenkoordinator zu beantragen;
 
-2.
+2. sind Starts und Landungen eines Fluges nach Instrumentenflugregeln ohne zugewiesenen Slot untersagt;
 
-3.
+3. ist der Halter eines Luftfahrzeugs verpflichtet, nicht genutzte Slots dem Flughafenkoordinator unverzüglich zurückzugeben. Ein Verstoß gegen diese Verpflichtung liegt auch dann vor, wenn ein vom Flughafenkoordinator auf einer durch das Gemeinschaftsrecht zugelassenen internationalen Flugplankonferenz der Luftfahrtunternehmen zugeteilter Slot, der vom Luftfahrzeughalter nicht mehr benötigt wird, zum jeweils festgesetzten Termin nicht zurückgegeben wird.
 
 ### § 4 — Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 10 des Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 3 Abs. 1 einen beabsichtigten Start oder eine beabsichtigte Landung nicht anmeldet,
 
-2.
+2. als Halter oder Führer eines Luftfahrzeugs entgegen § 3 Abs. 2 Nr. 2 einen Start oder eine Landung ohne zugewiesenen Slot durchführt oder durchführen läßt oder
 
-3.
+3. entgegen § 3 Abs. 2 Nr. 3 einen nicht genutzten Slot nicht oder nicht rechtzeitig zurückgibt.
 
 (2) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesaufsichtsamt für Flugsicherung.
 

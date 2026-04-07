@@ -8,11 +8,11 @@
 
 ### § 1 — Begriff des Hofes
 
-(1) Hof im Sinne dieses Gesetzes ist eine im Gebiet der Länder Hamburg, Niedersachsen, Nordrhein-Westfalen und Schleswig-Holstein belegene land- oder forstwirtschaftliche Besitzung mit einer zu ihrer Bewirtschaftung geeigneten Hofstelle, die im Alleineigentum einer natürlichen Person oder im gemeinschaftlichen Eigentum von Ehegatten (Ehegattenhof) steht oder zum Gesamtgut einer fortgesetzten Gütergemeinschaft gehört, sofern der für sie zuletzt festgestellte Grundsteuerwert mindestens 54 000 Euro beträgt. Eine Besitzung, die einen Grundsteuerwert von weniger als 54 000 Euro, mindestens jedoch von 27 000 Euro hat, wird Hof, wenn der Eigentümer erklärt, dass sie Hof sein soll, und wenn der Hofvermerk im Grundbuch eingetragen wird.
+(1) Hof im Sinne dieses Gesetzes ist eine im Gebiet der Länder Hamburg, Niedersachsen, Nordrhein-Westfalen und Schleswig-Holstein belegene land- oder forstwirtschaftliche Besitzung mit einer zu ihrer Bewirtschaftung geeigneten Hofstelle, die im Alleineigentum einer natürlichen Person oder im gemeinschaftlichen Eigentum von Ehegatten (Ehegattenhof) steht oder zum Gesamtgut einer fortgesetzten Gütergemeinschaft gehört, sofern der für sie zuletzt festgestellte Grundsteuerwert mindestens 54 000 Euro beträgt. Eine Besitzung, die einen Grundsteuerwert von weniger als 54 000 Euro, mindestens jedoch von 27 000 Euro hat, wird Hof, wenn der Eigentümer erklärt, dass sie Hof sein soll, und wenn der Hofvermerk im Grundbuch eingetragen wird.
 
 (2) Gehört die Besitzung Ehegatten, ohne nach Absatz 1 Ehegattenhof zu sein, so wird sie Ehegattenhof, wenn beide Ehegatten erklären, dass sie Ehegattenhof sein soll, und wenn diese Eigenschaft im Grundbuch eingetragen wird.
 
-(3) Eine Besitzung verliert die Eigenschaft als Hof, wenn keine der in Absatz 1 aufgezählten Eigentumsformen mehr besteht oder eine der übrigen Voraussetzungen auf Dauer wegfällt. Der Verlust der Hofeigenschaft tritt jedoch erst mit der Löschung des Hofvermerks im Grundbuch ein, wenn lediglich der Grundsteuerwert unter 27 000 Euro sinkt oder keine zur Bewirtschaftung geeignete Hofstelle mehr besteht.
+(3) Eine Besitzung verliert die Eigenschaft als Hof, wenn keine der in Absatz 1 aufgezählten Eigentumsformen mehr besteht oder eine der übrigen Voraussetzungen auf Dauer wegfällt. Der Verlust der Hofeigenschaft tritt jedoch erst mit der Löschung des Hofvermerks im Grundbuch ein, wenn lediglich der Grundsteuerwert unter 27 000 Euro sinkt oder keine zur Bewirtschaftung geeignete Hofstelle mehr besteht.
 
 (4) Eine Besitzung verliert die Eigenschaft als Hof auch, wenn der Eigentümer erklärt, dass sie kein Hof mehr sein soll, und wenn der Hofvermerk im Grundbuch gelöscht wird. Die Besitzung wird, wenn sie die Voraussetzungen des Absatzes 1 erfüllt, wieder Hof, wenn der Eigentümer erklärt, dass sie Hof sein soll, und wenn der Hofvermerk im Grundbuch eingetragen wird.
 
@@ -26,9 +26,9 @@
 
 Zum Hof gehören:
 
-a)
+a) alle Grundstücke des Hofeigentümers, die regelmäßig von der Hofstelle aus bewirtschaftet werden; eine zeitweilige Verpachtung oder ähnliche vorübergehende Benutzung durch andere schließt die Zugehörigkeit zum Hof nicht aus, ebensowenig die vorläufige Besitzeinweisung eines anderen in einem Flurbereinigungsverfahren oder einem ähnlichen Verfahren;
 
-b)
+b) Mitgliedschaftsrechte, Nutzungsrechte und ähnliche Rechte, die dem Hof dienen, gleichviel ob sie mit dem Eigentum am Hof verbunden sind oder dem Eigentümer persönlich zustehen, ferner dem Hof dienende Miteigentumsanteile an einem Grundstück, falls diese Anteile im Verhältnis zu dem sonstigen, den Hof bildenden Grundbesitz von untergeordneter Bedeutung sind.
 
 ### § 3 — Hofeszubehör
 
@@ -42,29 +42,29 @@ Der Hof fällt als Teil der Erbschaft kraft Gesetzes nur einem der Erben (dem Ho
 
 Wenn der Erblasser keine andere Bestimmung trifft, sind als Hoferben kraft Gesetzes in folgender Ordnung berufen:
 
-1.
+1. die Kinder des Erblassers und deren Abkömmlinge,
 
-2.
+2. der Ehegatte des Erblassers,
 
-3.
+3. die Eltern des Erblassers, wenn der Hof von ihnen oder aus ihren Familien stammt oder mit ihren Mitteln erworben worden ist,
 
-4.
+4. die Geschwister des Erblassers und deren Abkömmlinge.
 
 ### § 6 — Einzelheiten zur Hoferbenordnung
 
-(1) In der ersten Hoferbenordnung ist als Hoferbe berufen: Liegen die Voraussetzungen der Nummer 2 bei mehreren Miterben vor, ohne daß erkennbar ist, wer von ihnen den Hof übernehmen sollte, so ist unter diesen Miterben der älteste oder, wenn Jüngstenrecht Brauch ist, der jüngste als Hoferbe berufen.
+(1) In der ersten Hoferbenordnung ist als Hoferbe berufen:
 
-1.
+1. in erster Linie der Miterbe, dem vom Erblasser die Bewirtschaftung des Hofes im Zeitpunkt des Erbfalles auf Dauer übertragen ist, es sei denn, daß sich der Erblasser dabei ihm gegenüber die Bestimmung des Hoferben ausdrücklich vorbehalten hat;
 
-2.
+2. in zweiter Linie der Miterbe, hinsichtlich dessen der Erblasser durch die Ausbildung oder durch Art und Umfang der Beschäftigung auf dem Hof hat erkennen lassen, daß er den Hof übernehmen soll;
 
-3.
+3. in dritter Linie der älteste der Miterben oder, wenn in der Gegend Jüngstenrecht Brauch ist, der jüngste von ihnen.
 
 (2) In der zweiten Hoferbenordnung scheidet der Ehegatte als Hoferbe aus,
 
-1.
+1. wenn Verwandte der dritten und vierten Hoferbenordnung leben und ihr Ausschluß von der Hoferbfolge, insbesondere wegen der von ihnen für den Hof erbrachten Leistungen, grob unbillig wäre; oder
 
-2.
+2. wenn sein Erbrecht nach § 1933 des Bürgerlichen Gesetzbuchs ausgeschlossen ist.
 
 (3) In der dritten Hoferbenordnung ist nur derjenige Elternteil hoferbenberechtigt, von dem oder aus dessen Familie der Hof stammt oder mit dessen Mitteln der Hof erworben worden ist.
 
@@ -137,11 +137,11 @@ Zwecks
 
 (3) Macht der Verpflichtete glaubhaft, daß er sich um einen Ersatzerwerb bemüht, so kann das Gericht den Anspruch bis zum Ablauf der in Absatz 2 Satz 1 bestimmten Frist stunden; § 12 Abs. 5 Satz 2 und 3 gilt entsprechend. Hat der Verpflichtete einen notariellen Vertrag über den Erwerb eines Ersatzbetriebes oder im Falle des Absatzes 1 Satz 2 über den Erwerb von Ersatzgrundstücken abgeschlossen, so ist die Frist nach Absatz 2 Satz 1 auch gewahrt, wenn der Antrag auf Eintragung des Eigentumsübergangs oder einer den Anspruch auf Übereignung sichernden Vormerkung bis zum Ablauf der Frist beim Grundbuchamt eingegangen ist.
 
-(4) Absatz 1 Satz 1 gilt entsprechend, wenn der Hoferbe innerhalb von zwanzig Jahren nach dem Erbfall und dadurch erhebliche Gewinne erzielt.
+(4) Absatz 1 Satz 1 gilt entsprechend, wenn der Hoferbe innerhalb von zwanzig Jahren nach dem Erbfall
 
-a)
+a) wesentliche Teile des Hofeszubehörs veräußert oder verwertet, es sei denn, daß dies im Rahmen einer ordnungsmäßigen Bewirtschaftung liegt, oder
 
-b)
+b) den Hof oder Teile davon auf andere Weise als land- oder forstwirtschaftlich nutzt
 
 (5) Von dem Erlös sind die durch die Veräußerung oder Verwertung entstehenden öffentlichen Abgaben, die vom Hoferben zu tragen sind, abzusetzen. Erlösminderungen, die auf einer vom Hoferben aufgenommenen dinglichen Belastung des Hofes beruhen, sind dem erzielten Erlös hinzuzurechnen, es sei denn, daß die Aufnahme der Belastung im Rahmen einer ordnungsmäßigen Bewirtschaftung lag. Ein Erlös, den zu erzielen der Hoferbe wider Treu und Glauben unterlassen hat, wird hinzugerechnet. Von dem Erlös ist der Teil abzusetzen, der bei wirtschaftlicher Betrachtungsweise auf eigenen Leistungen des Hoferben beruht oder dessen Herausgabe aus anderen Gründen nicht der Billigkeit entsprechen würde. Von dem Erlös ist abzusetzen ein Viertel des Erlöses, wenn die Veräußerung oder Verwertung später als zehn Jahre, die Hälfte des Erlöses, wenn sie später als fünfzehn Jahre nach dem Erbfall erfolgt.
 
@@ -157,11 +157,11 @@ b)
 
 ### § 14 — Stellung des überlebenden Ehegatten
 
-(1) Dem überlebenden Ehegatten des Erblassers steht, wenn der Hoferbe ein Abkömmling des Erblassers ist, bis zur Vollendung des fünfundzwanzigsten Lebensjahres des Hoferben die Verwaltung und Nutznießung am Hof zu. Dieses Recht kann verlängern, beschränken oder aufheben.
+(1) Dem überlebenden Ehegatten des Erblassers steht, wenn der Hoferbe ein Abkömmling des Erblassers ist, bis zur Vollendung des fünfundzwanzigsten Lebensjahres des Hoferben die Verwaltung und Nutznießung am Hof zu. Dieses Recht kann
 
-a)
+a) der Eigentümer durch Ehevertrag oder Verfügung von Todes wegen,
 
-b)
+b) das Gericht auf Antrag eines Beteiligten aus wichtigem Grunde
 
 (2) Steht dem überlebenden Ehegatten die Verwaltung und Nutznießung nicht zu oder endet sie, so kann er, wenn er Miterbe oder pflichtteilsberechtigt ist und auf ihm nach § 12 zustehende Ansprüche sowie auf alle Ansprüche aus der Verwendung eigenen Vermögens für den Hof verzichtet, vom Hoferben auf Lebenszeit den in solchen Verhältnissen üblichen Altenteil verlangen. Der Altenteilsanspruch erlischt, wenn der überlebende Ehegatte eine neue Ehe eingeht. Er kann in diesem Fall vom Hoferben die Zahlung eines Kapitals verlangen, das dem Wert des Altenteils entspricht, jedoch nicht mehr als den Betrag, der ihm ohne Verzicht bei der Erbauseinandersetzung zugekommen sein würde.
 
@@ -194,8 +194,6 @@ b)
 (3) Soweit nach den Vorschriften des Grundstücksverkehrsgesetzes eine Genehmigung erforderlich ist, wird sie durch das Gericht erteilt.
 
 ### § 18 — Zuständigkeit der Gerichte
-
-(1) Für die Entscheidung über alle Anträge und Streitigkeiten, die sich bei Anwendung der Höfeordnung ergeben, sowie aus Abmachungen der Beteiligten hierüber sind die im Gesetz über das gerichtliche Verfahren in Landwirtschaftssachen vom 21. Juli 1953 (Bundesgesetzbl. I S. 667), zuletzt geändert durch Artikel 2 des Gesetzes vom 8. Juli 1975 (Bundesgesetzbl. I S. 1863), genannten Gerichte ausschließlich zuständig.
 
 (2) Diese Gerichte sind auch zuständig für die Entscheidung der Frage, wer kraft Gesetzes oder kraft Verfügung von Todes wegen Hoferbe eines Hofes geworden ist, und für die Ausstellung eines Erbscheins oder eines Europäischen Nachlasszeugnisses. In dem Erbschein oder dem Europäischen Nachlasszeugnis ist der Hoferbe als solcher aufzuführen. Auf Antrag eines Beteiligten ist in dem Erbschein lediglich die Hoferbfolge zu bescheinigen.
 

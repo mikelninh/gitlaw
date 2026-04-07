@@ -16,11 +16,25 @@ Auf Grund des § 9 Abs. 2 Satz 2 in Verbindung mit Satz 3 der Insolvenzordnung v
 
 ### § 2 — Datensicherheit, Schutz vor Missbrauch
 
-(1) Durch geeignete technische und organisatorische Maßnahmen ist sicherzustellen, dass die Daten 1.bei der elektronischen Übermittlung von dem Insolvenzgericht oder dem Insolvenzverwalter an die für die Veröffentlichung zuständige Stelle mindestens fortgeschritten elektronisch signiert werden,2.während der Veröffentlichung unversehrt, vollständig und aktuell bleiben,3.der Insolvenzverfahren, in denen der Schuldner eine natürliche Person ist, die keine selbständige wirtschaftliche Tätigkeit ausübt oder ausgeübt hat, spätestens nach dem Ablauf von zwei Wochen nach dem ersten Tag der Veröffentlichung nur noch abgerufen werden können, wenn die Abfrage den Sitz des Insolvenzgerichts und mindestens eine der folgenden Angaben enthält: a)den Familiennamen,b)den Wohnsitz des Schuldners oderc)das Aktenzeichen des Insolvenzgerichts.Die Angaben nach Satz 1 Nummer 3 Buchstabe a bis c können unvollständig sein, sofern sie Unterscheidungskraft besitzen.(2) Als Ergebnis der Abfrage nach Absatz 1 Satz 2 darf zunächst nur eine Übersicht über die ermittelten Datensätze übermittelt werden, die nur die vollständigen Daten nach Absatz 1 Satz 1 Nummer 3 Buchstabe a bis c enthalten darf. Die übrigen nach der Insolvenzordnung zu veröffentlichenden Daten dürfen erst übermittelt werden, wenn der Nutzer den entsprechenden Datensatz aus der Übersicht ausgewählt hat.
+(1) Durch geeignete technische und organisatorische Maßnahmen ist sicherzustellen, dass die Daten
+
+1. bei der elektronischen Übermittlung von dem Insolvenzgericht oder dem Insolvenzverwalter an die für die Veröffentlichung zuständige Stelle mindestens fortgeschritten elektronisch signiert werden,
+
+2. während der Veröffentlichung unversehrt, vollständig und aktuell bleiben,
+
+3. der Insolvenzverfahren, in denen der Schuldner eine natürliche Person ist, die keine selbständige wirtschaftliche Tätigkeit ausübt oder ausgeübt hat, spätestens nach dem Ablauf von zwei Wochen nach dem ersten Tag der Veröffentlichung nur noch abgerufen werden können, wenn die Abfrage den Sitz des Insolvenzgerichts und mindestens eine der folgenden Angaben enthält: a)den Familiennamen,b)den Wohnsitz des Schuldners oderc)das Aktenzeichen des Insolvenzgerichts. den Familiennamen, den Wohnsitz des Schuldners oder das Aktenzeichen des Insolvenzgerichts.
+
+(2) Als Ergebnis der Abfrage nach Absatz 1 Satz 2 darf zunächst nur eine Übersicht über die ermittelten Datensätze übermittelt werden, die nur die vollständigen Daten nach Absatz 1 Satz 1 Nummer 3 Buchstabe a bis c enthalten darf. Die übrigen nach der Insolvenzordnung zu veröffentlichenden Daten dürfen erst übermittelt werden, wenn der Nutzer den entsprechenden Datensatz aus der Übersicht ausgewählt hat.
 
 ### § 3 — Löschungsfristen
 
-(1) Die in einem elektronischen Informations- und Kommunikationssystem erfolgte Veröffentlichung von Daten aus einem Insolvenzverfahren einschließlich des Eröffnungsverfahrens wird spätestens sechs Monate nach der Aufhebung oder der Rechtskraft der Einstellung des Insolvenzverfahrens gelöscht. Wird das Verfahren nicht eröffnet, beginnt die Frist mit der Aufhebung der veröffentlichten Sicherungsmaßnahmen.(2) Für die Veröffentlichungen im Restschuldbefreiungsverfahren einschließlich des Beschlusses nach § 289 der Insolvenzordnung gilt Absatz 1 Satz 1 mit der Maßgabe, dass die Frist mit Rechtskraft der Entscheidung über die Restschuldbefreiung zu laufen beginnt.(3) Sonstige Veröffentlichungen nach der Insolvenzordnung werden einen Monat nach dem ersten Tag der Veröffentlichung gelöscht.(4) Die in einem elektronischen Informations- und Kommunikationssystem erfolgte Veröffentlichung von Daten aus einer Restrukturierungssache wird spätestens sechs Monate nach der Anordnung des jeweiligen Stabilisierungs- oder Restrukturierungsinstruments, bei Stabilisierungsanordnungen nach dem Ende ihrer Wirkungsdauer gelöscht.
+(1) Die in einem elektronischen Informations- und Kommunikationssystem erfolgte Veröffentlichung von Daten aus einem Insolvenzverfahren einschließlich des Eröffnungsverfahrens wird spätestens sechs Monate nach der Aufhebung oder der Rechtskraft der Einstellung des Insolvenzverfahrens gelöscht. Wird das Verfahren nicht eröffnet, beginnt die Frist mit der Aufhebung der veröffentlichten Sicherungsmaßnahmen.
+
+(2) Für die Veröffentlichungen im Restschuldbefreiungsverfahren einschließlich des Beschlusses nach § 289 der Insolvenzordnung gilt Absatz 1 Satz 1 mit der Maßgabe, dass die Frist mit Rechtskraft der Entscheidung über die Restschuldbefreiung zu laufen beginnt.
+
+(3) Sonstige Veröffentlichungen nach der Insolvenzordnung werden einen Monat nach dem ersten Tag der Veröffentlichung gelöscht.
+
+(4) Die in einem elektronischen Informations- und Kommunikationssystem erfolgte Veröffentlichung von Daten aus einer Restrukturierungssache wird spätestens sechs Monate nach der Anordnung des jeweiligen Stabilisierungs- oder Restrukturierungsinstruments, bei Stabilisierungsanordnungen nach dem Ende ihrer Wirkungsdauer gelöscht.
 
 ### § 4 — Einsichtsrecht
 

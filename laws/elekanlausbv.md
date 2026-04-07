@@ -31,39 +31,39 @@ Berufsausbildung
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
-1.
+1. Berufsbildung, Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-4.
+4. Umweltschutz,
 
-5.
+5. technische Kommunikation,
 
-6.
+6. betriebliche Kommunikation,
 
-7.
+7. Planen der Auftragsabwicklung,
 
-8.
+8. Vorbereiten der Auftragsausführung,
 
-9.
+9. Einrichten und Abräumen der Montagestelle,
 
-10.
+10. Bearbeiten und Verbinden von mechanischen Teilen,
 
-11.
+11. Zusammenbauen und Verdrahten von Baugruppen und Schaltschränken,
 
-12.
+12. Montieren von elektrischen Maschinen, Geräten und sonstigen Betriebsmitteln,
 
-13.
+13. Montieren von Leitungsführungssystemen und Verlegen von Leitungen,
 
-14.
+14. Installieren von elektrischen Anlagen,
 
-15.
+15. Prüfen, Messen, Einstellen und Inbetriebnehmen,
 
-16.
+16. Beseitigen von Fehlern in elektrischen Anlagen,
 
-17.
+17. Dokumentation.
 
 ### § 5 — Ausbildungsrahmenplan
 
@@ -83,19 +83,17 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens fünf Stunden ein funktionsfähiges Anlagenteil nach Unterlagen als Prüfungsstück fertigen. Hierfür kommen insbesondere in Betracht: Installieren eines elektrischen Anlagenteils einschließlich Aufstellen eines Arbeitsplanes, Prüfen der Funktion und Messen von Betriebswerten sowie Anfertigen eines Prüf- und Meßprotokolls.
-
 (4) Der Prüfling soll im schriftlichen Teil der Prüfung in insgesamt höchstens 120 Minuten Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, aus folgenden Gebieten lösen:
 
-1.
+1. Werkstoffe und Werkstoffbearbeitung,
 
-2.
+2. Grundlagen der Elektrotechnik,
 
-3.
+3. Grundlagen der Schaltungstechnik,
 
-4.
+4. Grundlagen des elektrischen Messens,
 
-5.
+5. Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz.
 
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit der schriftliche Teil der Prüfung in programmierter Form durchgeführt wird.
 
@@ -103,27 +101,21 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens sieben Stunden ein Prüfungsstück anfertigen und in insgesamt höchstens zwei Stunden zwei Arbeitsproben durchführen. Hierfür kommen insbesondere in Betracht: Dabei sollen das Prüfungsstück mit 70 vom Hundert und die Arbeitsproben zusammen mit 30 vom Hundert gewichtet werden.
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens sieben Stunden ein Prüfungsstück anfertigen und in insgesamt höchstens zwei Stunden zwei Arbeitsproben durchführen. Hierfür kommen insbesondere in Betracht:
 
-1.
+1. als Prüfungsstück: Installieren, Montieren, Einstellen und Prüfen eines Anlagenteils nach Unterlagen einschließlich Planen und Kontrollieren der Arbeit und Dokumentieren der Veränderungen;
 
-2.
-
-a)
-
-b)
+2. als Arbeitsproben:a)Inbetriebnehmen eines Anlagenteils einschließlich Prüfen der Funktionen, Schutzmaßnahmen, Sicherheits- und Schutzeinrichtungen, b)Feststellen, Eingrenzen, Beheben und Dokumentieren von Fehlern oder Störungen in einem Anlagenteil unter Berücksichtigung der Sicherheitsvorschriften. Inbetriebnehmen eines Anlagenteils einschließlich Prüfen der Funktionen, Schutzmaßnahmen, Sicherheits- und Schutzeinrichtungen, Feststellen, Eingrenzen, Beheben und Dokumentieren von Fehlern oder Störungen in einem Anlagenteil unter Berücksichtigung der Sicherheitsvorschriften.
 
 (3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Anlagenplanung, Arbeitsplanung und Arbeitsorganisation, Schaltungstechnik und Funktionsanalyse sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Anlagenplanung, Arbeitsplanung und Arbeitsorganisation sowie Schaltungstechnik und Funktionsanalyse sind insbesondere durch Verknüpfung informationstechnischer, technologischer und mathematischer Sachverhalte fachliche Probleme zu analysieren, zu bewerten und geeignete Lösungswege darzustellen. Die Anforderungen in den Prüfungsbereichen sind:
 
-1.
+1. im Prüfungsbereich Anlagenplanung: Der Prüfling soll anhand von Auftragsunterlagen eine Anlage oder eine Anlagenänderung planen. Er soll dabei zeigen, daß er technische Unterlagen auswerten, mechanische Konstruktionsteile, Leitungen, elektrische Betriebsmittel und sonstige Materialien auswählen sowie Anordnungs- und Installationspläne, Stücklisten und sonstige Planungsunterlagen unter Beachtung von technischen Regeln erstellen und ändern kann;
 
-2.
+2. im Prüfungsbereich Arbeitsplanung und Arbeitsorganisation: Der Prüfling soll anhand von Auftragsunterlagen eine Anlagenmontage, einschließlich Inbetriebnahme und Übergabe, planen. Er soll dabei zeigen, daß er technische Unterlagen auswerten sowie Arbeitstechniken und Arbeitsabläufe unter Beachtung der Arbeitssicherheit und des Umweltschutzes planen kann;
 
-3.
+3. im Prüfungsbereich Schaltungstechnik und Funktionsanalyse: Der Prüfling soll anhand von technischen Unterlagen, Datenblättern und Fehlerbeschreibungen Schaltungen analysieren, Abläufe und Verknüpfungen darstellen, Vorgehensweisen zur systematischen Eingrenzung von Fehlern beschreiben und Änderungen dokumentieren;
 
-4.
-
-(4) Für den schriftlichen Teil der Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
+4. im Prüfungsbereich Wirtschafts- und Sozialkunde: Der Prüfling soll Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, aus dem Gebiet allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt bearbeiten.
 
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit der schriftliche Teil der Prüfung in programmierter Form durchgeführt wird.
 
@@ -139,202 +131,12 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 ### Anlage — (zu § 5)
 
-(Fundstelle: BGBl. I 1997, S. 1365 - 1370)
+a) Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
-a)
+b) gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
 
-b)
+c) Möglichkeiten der beruflichen Fortbildung nennen
 
-c)
+d) wesentliche Teile des Arbeitsvertrages nennen
 
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-l)
-
-m)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-1)
-
-2)
-
-3)
+e) wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen

@@ -25,9 +25,9 @@ Krankheitsfall
 
 (1) Wird ein Arbeitnehmer durch Arbeitsunfähigkeit infolge Krankheit an seiner Arbeitsleistung verhindert, ohne daß ihn ein Verschulden trifft, so hat er Anspruch auf Entgeltfortzahlung im Krankheitsfall durch den Arbeitgeber für die Zeit der Arbeitsunfähigkeit bis zur Dauer von sechs Wochen. Wird der Arbeitnehmer infolge derselben Krankheit erneut arbeitsunfähig, so verliert er wegen der erneuten Arbeitsunfähigkeit den Anspruch nach Satz 1 für einen weiteren Zeitraum von höchstens sechs Wochen nicht, wenn
 
-1.
+1. er vor der erneuten Arbeitsunfähigkeit mindestens sechs Monate nicht infolge derselben Krankheit arbeitsunfähig war oder
 
-2.
+2. seit Beginn der ersten Arbeitsunfähigkeit infolge derselben Krankheit eine Frist von zwölf Monaten abgelaufen ist.
 
 (2) Als unverschuldete Arbeitsunfähigkeit im Sinne des Absatzes 1 gilt auch eine Arbeitsverhinderung, die infolge einer nicht rechtswidrigen Sterilisation oder eines nicht rechtswidrigen Abbruchs der Schwangerschaft eintritt. Dasselbe gilt für einen Abbruch der Schwangerschaft, wenn die Schwangerschaft innerhalb von zwölf Wochen nach der Empfängnis durch einen Arzt abgebrochen wird, die schwangere Frau den Abbruch verlangt und dem Arzt durch eine Bescheinigung nachgewiesen hat, daß sie sich mindestens drei Tage vor dem Eingriff von einer anerkannten Beratungsstelle hat beraten lassen.
 
@@ -61,9 +61,9 @@ Eine Vereinbarung über die Kürzung von Leistungen, die der Arbeitgeber zusätz
 
 (1a) Absatz 1 Satz 2 bis 5 gilt nicht für Arbeitnehmer, die Versicherte einer gesetzlichen Krankenkasse sind. Diese sind verpflichtet, zu den in Absatz 1 Satz 2 bis 4 genannten Zeitpunkten das Bestehen einer Arbeitsunfähigkeit sowie deren voraussichtliche Dauer feststellen und sich eine ärztliche Bescheinigung nach Absatz 1 Satz 2 oder 4 aushändigen zu lassen. Die Sätze 1 und 2 gelten nicht
 
-1.
+1. für Personen, die eine geringfügige Beschäftigung in Privathaushalten ausüben (§ 8a des Vierten Buches Sozialgesetzbuch), und
 
-2.
+2. in Fällen der Feststellung der Arbeitsunfähigkeit durch einen Arzt, der nicht an der vertragsärztlichen Versorgung teilnimmt.
 
 (2) Hält sich der Arbeitnehmer bei Beginn der Arbeitsunfähigkeit im Ausland auf, so ist er verpflichtet, dem Arbeitgeber die Arbeitsunfähigkeit, deren voraussichtliche Dauer und die Adresse am Aufenthaltsort in der schnellstmöglichen Art der Übermittlung mitzuteilen. Die durch die Mitteilung entstehenden Kosten hat der Arbeitgeber zu tragen. Darüber hinaus ist der Arbeitnehmer, wenn er Mitglied einer gesetzlichen Krankenkasse ist, verpflichtet, auch dieser die Arbeitsunfähigkeit und deren voraussichtliche Dauer unverzüglich anzuzeigen. Dauert die Arbeitsunfähigkeit länger als angezeigt, so ist der Arbeitnehmer verpflichtet, der gesetzlichen Krankenkasse die voraussichtliche Fortdauer der Arbeitsunfähigkeit mitzuteilen. Die gesetzlichen Krankenkassen können festlegen, daß der Arbeitnehmer Anzeige- und Mitteilungspflichten nach den Sätzen 3 und 4 auch gegenüber einem ausländischen Sozialversicherungsträger erfüllen kann. Absatz 1 Satz 5 gilt nicht. Kehrt ein arbeitsunfähig erkrankter Arbeitnehmer in das Inland zurück, so ist er verpflichtet, dem Arbeitgeber und der Krankenkasse seine Rückkehr unverzüglich anzuzeigen.
 
@@ -79,9 +79,9 @@ Eine Vereinbarung über die Kürzung von Leistungen, die der Arbeitgeber zusätz
 
 (1) Der Arbeitgeber ist berechtigt, die Fortzahlung des Arbeitsentgelts zu verweigern,
 
-1.
+1. solange der Arbeitnehmer die von ihm nach § 5 Abs. 1 vorzulegende ärztliche Bescheinigung nicht vorlegt oder den ihm nach § 5 Abs. 2 obliegenden Verpflichtungen nicht nachkommt;
 
-2.
+2. wenn der Arbeitnehmer den Übergang eines Schadensersatzanspruchs gegen einen Dritten auf den Arbeitgeber (§ 6) verhindert.
 
 (2) Absatz 1 gilt nicht, wenn der Arbeitnehmer die Verletzung dieser ihm obliegenden Verpflichtungen nicht zu vertreten hat.
 
@@ -95,20 +95,20 @@ Eine Vereinbarung über die Kürzung von Leistungen, die der Arbeitgeber zusätz
 
 (1) Die Vorschriften der §§ 3 bis 4a und 6 bis 8 gelten entsprechend für die Arbeitsverhinderung infolge einer Maßnahme der medizinischen Vorsorge oder Rehabilitation, die ein Träger der gesetzlichen Renten-, Kranken- oder Unfallversicherung, eine Verwaltungsbehörde der Kriegsopferversorgung oder ein sonstiger Sozialleistungsträger bewilligt hat und die in einer Einrichtung der medizinischen Vorsorge oder Rehabilitation durchgeführt wird. Ist der Arbeitnehmer nicht Mitglied einer gesetzlichen Krankenkasse oder nicht in der gesetzlichen Rentenversicherung versichert, gelten die §§ 3 bis 4a und 6 bis 8 entsprechend, wenn eine Maßnahme der medizinischen Vorsorge oder Rehabilitation ärztlich verordnet worden ist und in einer Einrichtung der medizinischen Vorsorge oder Rehabilitation oder einer vergleichbaren Einrichtung durchgeführt wird.
 
-(2) Der Arbeitnehmer ist verpflichtet, dem Arbeitgeber den Zeitpunkt des Antritts der Maßnahme, die voraussichtliche Dauer und die Verlängerung der Maßnahme im Sinne des Absatzes 1 unverzüglich mitzuteilen und ihm unverzüglich vorzulegen.
+(2) Der Arbeitnehmer ist verpflichtet, dem Arbeitgeber den Zeitpunkt des Antritts der Maßnahme, die voraussichtliche Dauer und die Verlängerung der Maßnahme im Sinne des Absatzes 1 unverzüglich mitzuteilen und ihm
 
-a)
+a) eine Bescheinigung über die Bewilligung der Maßnahme durch einen Sozialleistungsträger nach Absatz 1 Satz 1 oder
 
-b)
+b) eine ärztliche Bescheinigung über die Erforderlichkeit der Maßnahme im Sinne des Absatzes 1 Satz 2
 
 ### § 10 — Wirtschaftliche Sicherung für den Krankheitsfall
 im Bereich der Heimarbeit
 
-(1) In Heimarbeit Beschäftigte (§ 1 Abs. 1 des Heimarbeitsgesetzes) und ihnen nach § 1 Abs. 2 Buchstabe a bis c des Heimarbeitsgesetzes Gleichgestellte haben gegen ihren Auftraggeber oder, falls sie von einem Zwischenmeister beschäftigt werden, gegen diesen Anspruch auf Zahlung eines Zuschlags zum Arbeitsentgelt. Der Zuschlag beträgt des Arbeitsentgelts vor Abzug der Steuern, des Beitrags zur Bundesagentur für Arbeit und der Sozialversicherungsbeiträge ohne Unkostenzuschlag und ohne die für den Lohnausfall an gesetzlichen Feiertagen, den Urlaub und den Arbeitsausfall infolge Krankheit zu leistenden Zahlungen. Der Zuschlag für die unter Nummer 2 aufgeführten Personen dient zugleich zur Sicherung der Ansprüche der von ihnen Beschäftigten.
+(1) In Heimarbeit Beschäftigte (§ 1 Abs. 1 des Heimarbeitsgesetzes) und ihnen nach § 1 Abs. 2 Buchstabe a bis c des Heimarbeitsgesetzes Gleichgestellte haben gegen ihren Auftraggeber oder, falls sie von einem Zwischenmeister beschäftigt werden, gegen diesen Anspruch auf Zahlung eines Zuschlags zum Arbeitsentgelt. Der Zuschlag beträgt
 
-1.
+1. für Heimarbeiter, für Hausgewerbetreibende ohne fremde Hilfskräfte und die nach § 1 Abs. 2 Buchstabe a des Heimarbeitsgesetzes Gleichgestellten 3,4 vom Hundert,
 
-2.
+2. für Hausgewerbetreibende mit nicht mehr als zwei fremden Hilfskräften und die nach § 1 Abs. 2 Buchstabe b und c des Heimarbeitsgesetzes Gleichgestellten 6,4 vom Hundert
 
 (2) Zwischenmeister, die den in Heimarbeit Beschäftigten nach § 1 Abs. 2 Buchstabe d des Heimarbeitsgesetzes gleichgestellt sind, haben gegen ihren Auftraggeber Anspruch auf Vergütung der von ihnen nach Absatz 1 nachweislich zu zahlenden Zuschläge.
 

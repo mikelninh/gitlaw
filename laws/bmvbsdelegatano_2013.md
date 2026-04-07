@@ -14,27 +14,15 @@ Nach § 33 Absatz 5, § 34 Absatz 2 Satz 2, § 42 Absatz 1 Satz 2 und § 84 Satz
 
 (1) Der Leiterin oder dem Leiter des Deutschen Wetterdienstes werden für ihren oder seinen Geschäftsbereich übertragen:
 
-1.
+1. gegenüber Beamtinnen und Beamten der Besoldungsgruppen A 2 bis A 16, C 2, C 3 und W 2: a)die Befugnis, Kürzungen der Dienstbezüge bis zum Höchstmaß festzusetzen,b)die Befugnis, Disziplinarklage zu erheben, undc)die Zuständigkeit für den Erlass des Widerspruchsbescheids, die Befugnis, Kürzungen der Dienstbezüge bis zum Höchstmaß festzusetzen, die Befugnis, Disziplinarklage zu erheben, und die Zuständigkeit für den Erlass des Widerspruchsbescheids,
 
-a)
+2. die Disziplinarbefugnisse gegenüber Ruhestandsbeamtinnen und Ruhestandsbeamten der Besoldungsgruppen A 2 bis A 16, C 2, C 3 und W 2.
 
-b)
+(2) Den Leiterinnen und Leitern der übrigen nachgeordneten Behörden werden für den jeweiligen Geschäftsbereich übertragen:
 
-c)
+1. gegenüber Beamtinnen und Beamten der Besoldungsgruppen A 2 bis A 16: a)die Befugnis, Kürzungen der Dienstbezüge bis zum Höchstmaß festzusetzen,b)die Befugnis, Disziplinarklage zu erheben, undc)die Zuständigkeit für den Erlass des Widerspruchsbescheids, die Befugnis, Kürzungen der Dienstbezüge bis zum Höchstmaß festzusetzen, die Befugnis, Disziplinarklage zu erheben, und die Zuständigkeit für den Erlass des Widerspruchsbescheids,
 
-2.
-
-(2) Den Leiterinnen und Leitern der übrigen nachgeordneten Behörden werden für den jeweiligen Geschäftsbereich übertragen: Satz 1 gilt nicht für die DFS Deutsche Flugsicherung GmbH.
-
-1.
-
-a)
-
-b)
-
-c)
-
-2.
+2. die Disziplinarbefugnisse gegenüber Ruhestandsbeamtinnen und Ruhestandsbeamten der Besoldungsgruppen A 2 bis A 16.
 
 ### § 2 — Übertragung von Zuständigkeiten in Widerspruchsverfahren in beamtenrechtlichen Angelegenheiten
 

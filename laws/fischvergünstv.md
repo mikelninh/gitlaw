@@ -23,17 +23,17 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte 
 
 ### § 3 — Voraussetzungen für die Gewährung der Vergünstigungen
 
-(1) Finanzieller Ausgleich und Übertragungsprämie werden nur gewährt, wenn die Erzeugerorganisation, die Rücknahmepreise anwenden will, der Bundesanstalt schriftlich angezeigt hat und die Einhaltung der Verpflichtungen nach § 6 nachweist.
+(1) Finanzieller Ausgleich und Übertragungsprämie werden nur gewährt, wenn die Erzeugerorganisation, die Rücknahmepreise anwenden will, der Bundesanstalt schriftlich angezeigt hat
 
-1.
+1. die Absicht, die Rücknahmepreise während ihrer gesamten Geltungsdauer anzuwenden,
 
-2.
+2. die Erzeugnisse oder Erzeugnisklassen, die sie aus dem Handel nehmen will, wenn der Rücknahmepreis unterschritten wird,
 
-3.
+3. den Ort, wo sie die Erzeugnisse oder Erzeugnisklassen aus dem Handel nehmen will,
 
-4.
+4. Name und Anschrift der Personen, die sie mit der Klassifizierung der Erzeugnisse beauftragt hat,
 
-5.
+5. ihr Tätigkeitsgebiet
 
 (2) Eine gegenüber der Bundesanstalt mündlich oder fernmündlich abgegebene Erklärung über die Anwendung einer nach den in § 1 genannten Rechtsakten zulässigen Toleranzspanne ist unverzüglich schriftlich zu bestätigen.
 
@@ -55,21 +55,21 @@ Die Bundesanstalt kann für Anträge, Meldungen und Erklärungen, die zur Durchf
 
 ### § 6 — Anzeigepflicht gegenüber der Landesstelle
 
-(1) Nimmt die Erzeugerorganisation Erzeugnisse aus dem Handel, so hat sie vorab unverzüglich mündlich oder fernmündlich der zuständigen Landesstelle innerhalb der von dieser festgelegten Zeiten anzuzeigen: Die Angaben sind der zuständigen Landesstelle spätestens am folgenden Tage schriftlich zu bestätigen.
+(1) Nimmt die Erzeugerorganisation Erzeugnisse aus dem Handel, so hat sie vorab unverzüglich mündlich oder fernmündlich der zuständigen Landesstelle innerhalb der von dieser festgelegten Zeiten anzuzeigen:
 
-1.
+1. Fischart, Merkmale (Frischeklasse, Größenklasse, Aufmachung) und Menge in Kilogramm Eigengewicht,
 
-2.
+2. Ort und Zeit der Klassifizierung,
 
-3.
+3. Ort und Zeit des erfolglosen Anbietens,
 
-4.
+4. Preis je Kilogramm Eigengewicht, zu dem die Erzeugnisse angeboten worden sind,
 
-5.
+5. Lagerort der Erzeugnisse,
 
-6.
+6. Art der vorgesehenen Verwendung,
 
-7.
+7. Ort und Zeit der Übergabe zur vorgesehenen Verwendung.
 
 (2) Die Übergabe zur vorgesehenen Verwendung darf erst erfolgen, wenn die zuständige Landesstelle die Erzeugnisse hierzu freigegeben hat. Die Freigabe gilt als erteilt, wenn die zuständige Landesstelle zwei Stunden nach Abgabe der mündlichen oder fernmündlichen Anzeige nach Absatz 1 keine Entscheidung getroffen hat.
 
@@ -96,5 +96,3 @@ Wer als Lohnverarbeiter aus dem Handel genommene Fischereierzeugnisse verarbeite
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Ernährung, Landwirtschaft und Forsten

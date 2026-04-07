@@ -25,11 +25,11 @@ Auslandsbonds bleiben nur gültig, wenn sie nach diesem Gesetz anerkannt werden.
 
 (1) Ein Auslandsbond wird vorbehaltlich des § 6 im Prüfungsverfahren anerkannt, wenn er nach §§ 7, 10 zur Prüfung angemeldet und nach näherer Vorschrift der §§ 23, 40 vorgelegt wird und wenn
 
-1.
+1. der Auslandsbond ein Auslandsstück im Sinne des Absatzes 2 ist oder
 
-2.
+2. der Anmelder rechtmäßiger Erwerber im Sinne des § 38 Abs. 1, 2 ist (rechtmäßig erworbenes Stück) oder
 
-3.
+3. der Auslandsbond dem Anmelder wegen einer im Inland oder Ausland bis zum 8. Mai 1945 einschließlich begangenen Entziehung auf Grund einer nicht mehr anfechtbaren Entscheidung einer für den Geltungsbereich dieses Gesetzes zuständigen Behörde oder anderen Stelle zurückgewährt worden ist (Rückerstattungsstück).
 
 (2) Ein Auslandsbond ist ein Auslandsstück, wenn er sich am 1. Januar 1945 außerhalb der Grenzen Deutschlands nach dem Stande vom 31. Dezember 1937 (Ausland) sowie außerhalb Danzigs, Memels, Österreichs und der am 1. Januar 1945 von Deutschland in seine Verwaltung einbezogenen Teile Polens und der Tschechoslowakei einschließlich des ehemaligen Protektorats Böhmen und Mähren befunden hat. Als Auslandsstück gilt ferner ein Auslandsbond der in Absatz 1 Nr. 3 bezeichneten Art, wenn die Entscheidung über die Rückgewähr wegen einer im Ausland begangenen Entziehung ergangen ist und der Inhaber seinen Wohnsitz, gewöhnlichen Aufenthalt, Sitz oder seine Hauptniederlassung zur Zeit der Anmeldung im Ausland hat.
 
@@ -49,13 +49,13 @@ Für einen Auslandsbond, der vernichtet ist oder der aus einem anderen Grunde vo
 
 ### § 6 — Tilgungsstücke
 
-(1) Auslandsbonds, die gelten für die Zwecke dieses Gesetzes als zu Tilgungszwecken erworben und als kraftlos (Tilgungsstücke). Diese Auslandsbonds werden weder anerkannt noch wird für sie ein Feststellungsbescheid erteilt; sie berechtigen nur zu Entschädigungsansprüchen nach § 54.
+(1) Auslandsbonds, die
 
-1.
+1. vom Aussteller zurückerworben oder für seine Rechnung erworben worden sind oder
 
-2.
+2. von anderen Personen oder für Rechnung anderer Personen, die als Schuldner für die Ansprüche aus den Bonds unmittelbar haften, zur Befreiung von ihrer Schuld erworben worden sind oder
 
-3.
+3. vom Deutschen Reich, der Reichsbank, der Konversionskasse für deutsche Auslandsschulden, der Deutschen Golddiskontbank oder für Rechnung dieser Körperschaften erworben worden sind,
 
 (2) Absatz 1 gilt nicht für Auslandsbonds, die bis zum 8. Mai 1945 einschließlich mit Rechten Dritter belastet worden, als Sicherheit für Dritte hinterlegt worden oder sonst wieder in den Verkehr gelangt sind. Absatz 1 gilt ferner nicht für Auslandsbonds, die bis zum 8. Mai 1945 einschließlich im Inland oder Ausland entzogen worden sind.
 
@@ -103,8 +103,6 @@ Für einen Auslandsbond, der vernichtet ist oder der aus einem anderen Grunde vo
 
 ### § 11 — Prüfstellen
 
-(1) Die Aussteller von Auslandsbonds haben der Bankaufsichtsbehörde, in deren Bezirk sie ihren Sitz haben, innerhalb dreier Monate nach dem Inkrafttreten dieses Gesetzes, in den Fällen des § 1 Abs. 2 innerhalb eines Monats nach Inkrafttreten der das Verzeichnis ergänzenden Verordnung, ein Kreditinstitut im Geltungsbereich dieses Gesetzes als Prüfstelle zu benennen. Ist ein Kreditinstitut Aussteller, so kann es sich selbst als Prüfstelle benennen.
-
 (2) Die Prüfstelle bedarf der Bestätigung durch die Bankaufsichtsbehörde.
 
 (3) Die Bankaufsichtsbehörde hat die Prüfstelle alsbald nach der Bestätigung im Bundesanzeiger bekanntzumachen.
@@ -149,8 +147,6 @@ Aussteller, Treuhänder und Zahlungsagenten dürfen auf Grund nicht anerkannter 
 
 (1) Die nach diesem Gesetz zuständigen Behörden und anderen Stellen haben sich Amtshilfe zu leisten. Gebühren und Auslagen für die Gewährung von Amtshilfe werden nicht erstattet.
 
-(2) Die Auslandsbevollmächtigten können die Gerichte um die Vernehmung von Zeugen und Sachverständigen sowie die Erhebung sonstiger Beweise ersuchen. Die §§ 157, 158, 159 Abs. 1 Satz 1, Abs. 2, §§ 160, 164, 165 des Gerichtsverfassungsgesetzes gelten sinngemäß; das Ersuchen kann auch an die Kammer für Wertpapierbereinigung gerichtet werden, in deren Bezirk der Aussteller seinen Sitz hat oder die Amtshandlung vorgenommen werden soll. Für die Beweisaufnahme gelten die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend; das ersuchte Gericht entscheidet über die Fragen, deren Entscheidung sonst dem ersuchenden Gericht vorbehalten ist.
-
 (3) In einem Verfahren nach diesem Gesetz können die Gerichte Ersuchen um Rechtshilfe auch an die Kammer für Wertpapierbereinigung richten, in deren Bezirk der Aussteller seinen Sitz hat oder die Amtshandlung vorgenommen werden soll.
 
 ### § 18 — Entgegennahme von Anmeldungen und Erklärungen
@@ -159,15 +155,11 @@ Aussteller, Treuhänder und Zahlungsagenten dürfen auf Grund nicht anerkannter 
 
 (2) Die in Absatz 1 genannten Stellen haben die bei ihnen eingegangenen Erklärungen unverzüglich nach den Weisungen des Anmelders weiterzuleiten. Fehlt eine solche Weisung, so ist eine bei einer konsularischen Behörde eingegangene Erklärung an den zuständigen Auslandsbevollmächtigten oder die zuständige Prüfstelle weiterzuleiten; eine bei einem unzuständigen Auslandsbevollmächtigten eingegangene Erklärung ist nach § 25, eine bei der Prüfstelle eingegangene Erklärung nach § 42 zu behandeln.
 
-(3) Fristen, die der Anmelder bei der Abgabe einer Erklärung gegenüber einem Auslandsbevollmächtigten oder einer Prüfstelle zu beobachten hat, sind gewahrt, wenn sie gegenüber einer nach Absatz 1 zuständigen Stelle eingehalten worden sind. Ist eine Anmeldung innerhalb der für sie geltenden Anmeldefristen (§ 21 Abs. 1, 2, § 37 Abs. 2) an eine nach Absatz 1 Satz 3 zuständige Stelle abgesandt worden, so sind diese Fristen auch dann gewahrt, wenn die Anmeldung innerhalb dreier Monate nach ihrem Ablauf bei dieser Stelle eingegangen ist.
-
 (4) Absatz 3 gilt nicht für die Einlegung von Rechtsmitteln oder anderen Rechtsbehelfen und für erneute Anmeldungen nach § 21 Abs. 3, 4, § 37 Abs. 3.
 
 > § 18 Abs. 3 Satz 2 Kursivdruck: Gegenstandslose Ermächtigung
 
 ### § 19 — Stichtag
-
-(1) Als Stichtag im Sinne dieses Gesetzes gilt für die im Verzeichnis der Auslandsbonds aufgeführten Arten von Auslandsbonds der erste Tag nach dem Ablauf von sechs Monaten seit Inkrafttreten des Gesetzes.
 
 (2) und (3) ...
 
@@ -180,8 +172,6 @@ Das Bundesministerium der Finanzen ergreift die erforderlichen Maßnahmen, um di
 ## Abschnitt II: Anmeldung bei dem Auslandsbevollmächtigten
 
 ### § 21 — Anmeldung, Anmeldefristen
-
-(1) Ein Auslandsbond, dessen Anerkennung mit der Begründung beansprucht wird, daß er ein Auslandsstück (§ 3 Abs. 1 Nr. 1) sei, ist zur Durchführung des Prüfungsverfahrens innerhalb eines Jahres nach dem Stichtag (§ 19) bei dem zuständigen Auslandsbevollmächtigten (§ 8 Abs. 1) schriftlich anzumelden. Die Anmeldung kann innerhalb weiterer zweier Jahre nach Ablauf der in Satz 1 bezeichneten Frist vorgenommen werden, wenn der Anmelder glaubhaft macht, daß eine frühere Anmeldung ohne eigene grobe Fahrlässigkeit unterblieben ist.
 
 (2) ...
 
@@ -283,13 +273,13 @@ Der Anmelder kann, wenn er neue Tatsachen oder Beweismittel vorbringt, innerhalb
 
 (1) Kann der Anmelder nach dem anzuwendenden ausländischen Recht ein Gericht des Begebungslandes zur Entscheidung darüber anrufen, ob die in diesem Gesetz geforderten Voraussetzungen für die Anerkennung eines angemeldeten Auslandsbonds durch den Auslandsbevollmächtigten vorliegen, so ist § 32 auf die über diese Frage ergehende Entscheidung anzuwenden, wenn
 
-1.
+1. das Gericht innerhalb der in § 31 Abs. 2 Satz 1 bezeichneten Fristen angerufen worden ist,
 
-2.
+2. das Verfahren gegen den Aussteller als Beteiligten gerichtet worden ist,
 
-3.
+3. außer dem Aussteller auch den Treuhändern und Zahlungsagenten Gelegenheit gegeben worden ist, sich zu äußern und Beweismittel beizubringen, und
 
-4.
+4. § 24 Abs. 1 über die den Anmelder treffende Beweislast mindestens sinngemäß angewendet worden ist.
 
 (2) Der Auslandsbevollmächtigte ist ermächtigt und verpflichtet, in dem Verfahren Zustellungen für den Aussteller entgegenzunehmen, solange dieser keinen Zustellungsbevollmächtigten im Begebungsland bestellt hat.
 
@@ -325,13 +315,11 @@ Für ein schiedsrichterliches Verfahren, dem der Anmelder und der Aussteller sic
 
 ### § 37 — Anmeldung, Anmeldefristen
 
-(1) Ein Auslandsbond, ist zur Durchführung des Prüfungsverfahrens bei der Prüfstelle (§ 11) schriftlich anzumelden.
+(1) Ein Auslandsbond,
 
-1.
+1. dessen Anerkennung mit der Begründung beansprucht wird, daß er ein rechtmäßig erworbenes Stück (§ 3 Abs. 1 Nr. 2) oder ein Rückerstattungsstück (§ 3 Abs. 1 Nr. 3) sei, oder
 
-2.
-
-(2) Für die Anmeldung gelten die in § 21 Abs. 1, 2 bezeichneten Fristen. Eine Fristverlängerung nach § 21 Abs. 2 gilt nur für Anmeldungen nach Absatz 1 Nr. 1.
+2. für den ein Feststellungsbescheid (§ 4) beansprucht wird,
 
 (3) Ist die Anerkennung eines Auslandsbonds, der bei einem Auslandsbevollmächtigten angemeldet worden war, durch eine nicht mehr anfechtbare Entscheidung abgelehnt worden, so kann dieser Bond bei der Prüfstelle erneut zur Anerkennung angemeldet werden, wenn nunmehr die Anerkennung nach Absatz 1 Nr. 1 beansprucht wird. Diese Anmeldung ist nur innerhalb dreier Monate nach dem Zeitpunkt zulässig, in dem die Ablehnung verbindlich geworden ist. Der Ablauf der in Absatz 2 bezeichneten Fristen schließt die erneute Anmeldung nur aus, wenn die Anerkennung in dem früheren Verfahren bereits wegen verspäteter Anmeldung abgelehnt worden war.
 
@@ -341,13 +329,13 @@ Für ein schiedsrichterliches Verfahren, dem der Anmelder und der Aussteller sic
 
 (1) Rechtmäßiger Erwerber eines Auslandsbonds, dessen Anerkennung nach § 3 Abs. 1 Nr. 2 beansprucht wird, ist der Eigentümer oder Miteigentümer, wenn er das Eigentum oder Miteigentum an dem Bond erworben hat
 
-1.
+1. spätestens am 1. Januar 1945 oder
 
-2.
+2. infolge eines in der Zeit vom 1. Januar 1945 bis zum 8. Mai 1945 einschließlich an einer Börse oder im Bankverkehr abgeschlossenen Rechtsgeschäfts oder
 
-3.
+3. infolge von rechtswirksamen Maßnahmen der Behörden des Geltungsbereichs dieses Gesetzes oder der Besatzungsmächte der Bundesrepublik Deutschland nach dem 1. Januar 1945 oder
 
-4.
+4. auf Grund einer ununterbrochenen Reihe von bürgerlich-rechtlichen Rechtserwerben nach einer Person, die am 1. Januar 1945 Eigentümer oder Miteigentümer war oder die auf Grund von Nummer 2 oder 3 Eigentümer oder Miteigentümer geworden ist; die Reihe gilt als unterbrochen, wenn ein Erwerb auf den Vorschriften über den rechtsgeschäftlichen Erwerb vom Nichtberechtigten beruht.
 
 (2) Als rechtmäßiger Erwerber eines Auslandsbonds, dessen Anerkennung nach § 3 Abs. 1 Nr. 2 beansprucht wird, gilt auch der, für den oder dessen Rechtsvorgänger der Auslandsbond ununterbrochen mindestens seit dem 1. Januar 1945 bis zur Anmeldung bei Kreditinstituten im Geltungsbereich dieses Gesetzes verwahrt worden ist. Ist der Auslandsbond für mehrere verwahrt worden, so gilt jeder von ihnen als rechtmäßiger Erwerber.
 
@@ -403,17 +391,17 @@ Der Anmelder hat zu beweisen, daß die Voraussetzungen für die Anerkennung des 
 
 Die Prüfstelle legt die Anmeldung nach Vornahme der erforderlichen Ermittlungen mit ihrer Stellungnahme der für den Sitz des Ausstellers zuständigen Kammer für Wertpapierbereinigung vor,
 
-1.
+1. wenn sie die Voraussetzungen für eine Anerkennung nach § 44 Abs. 1 nicht für gegeben hält oder
 
-2.
+2. wenn sie im Falle des § 44 Abs. 1 nicht selbst anerkennt oder
 
-3.
+3. wenn ein Feststellungsbescheid beansprucht wird oder
 
-4.
+4. wenn wegen desselben Auslandsbonds mehrere Anmeldungen vorliegen oder für den angemeldeten Auslandsbond bereits ein Feststellungsbescheid erteilt ist oder
 
-5.
+5. wenn die Bankaufsichtsbehörde die Vorlage angeordnet hat oder
 
-6.
+6. wenn die Anmeldung eigene Bestände des als Prüfstelle tätigen Kreditinstituts betrifft.
 
 ### § 46 — Einspruch des Ausstellers
 
@@ -457,11 +445,11 @@ Die Prüfstelle legt die Anmeldung nach Vornahme der erforderlichen Ermittlungen
 
 (1) Werden für denselben Auslandsbond sowohl die Anerkennung als auch die Erteilung eines Feststellungsbescheides beansprucht, so gilt folgendes:
 
-1.
+1. Sind beide Anmeldungen bei derselben Stelle anhängig, so sollen sie zu gemeinsamer Entscheidung verbunden werden.
 
-2.
+2. Sind die Anmeldungen bei verschiedenen Stellen anhängig, so soll die Anmeldung, mit der ein Feststellungsbescheid beansprucht wird, bis zur rechtskräftigen Entscheidung über die Anmeldung, mit der die Anerkennung beansprucht wird, ausgesetzt werden.
 
-3.
+3. Ein Feststellungsbescheid darf nicht mehr erteilt werden, wenn der Auslandsbond bereits durch eine unanfechtbare Entscheidung anerkannt oder wenn durch eine solche Entscheidung nach §§ 31, 33 bis 35 festgestellt worden ist, daß die Voraussetzungen für die Anerkennung des Bonds gegeben sind.
 
 (2) Wird die Entscheidung über eine Anmeldung, mit der ein Feststellungsbescheid beansprucht wird, nach Absatz 1 Nr. 2 ausgesetzt, so ist der Anmelder an dem Verfahren auf Anerkennung zu beteiligen, wenn er dies beantragt.
 
@@ -469,9 +457,9 @@ Die Prüfstelle legt die Anmeldung nach Vornahme der erforderlichen Ermittlungen
 
 (4) Unberührt bleiben
 
-1.
+1. die zwischen mehreren Anmeldern nach den Vorschriften des allgemeinen Rechts bestehenden Ansprüche sowie
 
-2.
+2. die Befugnis der nach diesem Gesetz zuständigen Stellen, das Verfahren auszusetzen, bis durch eine rechtskräftige Entscheidung des sonst zuständigen Gerichts festgestellt ist, welchem der Anmelder im Verhältnis zueinander der in Anspruch genommene Auslandsbond zusteht.
 
 ## Abschnitt V: Nicht anerkannte Auslandsbonds,
 Entschädigungsansprüche
@@ -501,8 +489,6 @@ Entschädigungsansprüche
 (3) Die Aussteller und die in Absatz 1 bezeichneten Dritten sind zu angemessenen Rückstellungen für den Fall einer Inanspruchnahme nach Absatz 1 verpflichtet.
 
 ### § 53 — Entschädigungsansprüche aus Feststellungsbescheiden
-
-(1) Auf Grund eines Feststellungsbescheides (§§ 4, 47 Abs. 5) steht dem Anmelder gegen den Aussteller und solche Dritte, die als Schuldner für die Ansprüche aus Auslandsbonds der betreffenden Art unmittelbar haften, ein Entschädigungsanspruch zu. Für den Entschädigungsanspruch gilt § 52 Abs. 1 Satz 2 und 3. Er kann nur geltend gemacht werden, nachdem der Auslandsbond, auf den sich der Feststellungsbescheid bezieht, nach § 50 kraftlos geworden ist oder, wenn in dem Bescheid kein bestimmter Auslandsbond bezeichnet ist, die für Auslandsbonds der betreffenden Art geltenden Anmeldefristen (§ 21 Abs. 1 Satz 2, Abs. 2, § 37 Abs. 2) abgelaufen sind.
 
 (2) Der Aussteller und die in Absatz 1 Satz 1 bezeichneten Dritten können verlangen, daß ihre sich aus Absatz 1 ergebenden Verpflichtungen um die Beträge gekürzt werden, die sie an Inhaber von Auslandsbonds zahlen müssen, obwohl für die Bonds Feststellungsbescheide erteilt worden sind. Die Kürzungen sind zunächst an Entschädigungsansprüchen aus solchen Feststellungsbescheiden vorzunehmen, in denen der in Verlust geratene Auslandsbond nur nach seinen allgemeinen Merkmalen bezeichnet ist, im übrigen im gleichen Verhältnis. Kürzungen sind insoweit unzulässig, als der Aussteller oder die Dritten durch die Auswirkungen dieses Gesetzes bereichert sind.
 
@@ -556,9 +542,9 @@ Die Bundesregierung kann das in den Fällen der §§ 55 bis 57 zu beobachtende V
 
 (1) Kann nach den Bedingungen, die für Auslandsbonds einer bestimmten Art gelten, bei Zahlung oder Hinterlegung des vom Aussteller geschuldeten Betrags oder eines Teilbetrags davon die völlige oder teilweise Freigabe der Rechte verlangt werden, die zur Sicherung der Ansprüche aus den Bonds begründet worden sind, so sind bei der Berechnung des zu zahlenden oder zu hinterlegenden Betrags nicht zu berücksichtigen
 
-1.
+1. Auslandsbonds, die nach § 50 kraftlos geworden sind,
 
-2.
+2. Auslandsbonds, die nach § 6 als kraftlos gelten.
 
 (2) Absatz 1 gilt insbesondere für die Löschung oder Freigabe von Grund- und Schiffspfandrechten, die Rückübertragung zur Sicherung übereigneter Sachen und die Entlassung von Bürgen. Er gilt sinngemäß, wenn sich der Aussteller oder ein Dritter verpflichtet hat, sein Vermögen oder einzelne Vermögensgegenstände vor der völligen oder teilweisen Tilgung der Auslandsbonds nicht oder nur unter bestimmten Voraussetzungen zu belasten.
 
@@ -590,13 +576,13 @@ Wenn einem Antrag nach § 60 ganz oder teilweise stattgegeben worden ist, ersetz
 
 (2) Im Verfahren vor der Kammer für Wertpapierbereinigung nach § 31 ist der Anmelder zur Zahlung von Kosten nur verpflichtet, wenn der Antrag auf gerichtliche Entscheidung zurückgewiesen oder das Verfahren wegen Zurücknahme des Antrags eingestellt wird.
 
-(3) Im Verfahren vor der Kammer für Wertpapierbereinigung nach § 47 ist der Anmelder zur Zahlung von Kosten nur verpflichtet, Der Aussteller ist in diesem Verfahren zur Zahlung von Kosten nur verpflichtet, wenn ein von ihm eingelegter Einspruch zurückgewiesen wird oder wenn das Verfahren wegen Zurücknahme des Einspruchs eingestellt wird.
+(3) Im Verfahren vor der Kammer für Wertpapierbereinigung nach § 47 ist der Anmelder zur Zahlung von Kosten nur verpflichtet,
 
-1.
+1. wenn die Anerkennung abgelehnt und dabei festgestellt wird, daß die Anmeldung offensichtlich unbegründet war, oder
 
-2.
+2. wenn die Erteilung eines Feststellungsbescheids abgelehnt wird oder
 
-3.
+3. wenn das Verfahren wegen Zurücknahme der Anmeldung eingestellt wird.
 
 (4) Absatz 3 Satz 1 Nr. 1, 3 gilt sinngemäß für das Verfahren vor der Kammer für Wertpapierbereinigung nach § 52 Abs. 2.
 
@@ -622,13 +608,13 @@ Wenn einem Antrag nach § 60 ganz oder teilweise stattgegeben worden ist, ersetz
 
 (4) Der Anspruch des Anmelders auf Erstattung von Aufwendungen nach Absatz 3 ist ausgeschlossen,
 
-1.
+1. wenn der Anmelder die Anmeldung zurückgenommen hat oder
 
-2.
+2. wenn der Anmelder nach § 62 Abs. 3 zur Zahlung von Kosten verpflichtet ist oder ohne Berücksichtigung von § 62 Abs. 8 wäre oder
 
-3.
+3. wenn der Auslandsbevollmächtigte in einer verbindlich gewordenen ablehnenden Entscheidung festgestellt hat, daß die Anmeldung offensichtlich unbegründet war, oder
 
-4.
+4. wenn die in Nummer 3 bezeichnete Feststellung in einer Entscheidung getroffen worden ist, mit der ein Rechtsbehelf des Anmelders endgültig abgelehnt worden ist.
 
 (5) Die zuständigen Auslandsbevollmächtigten können Zahlungen, zu denen der Aussteller nach den Absätzen 3, 4 verpflichtet ist, für Rechnung des Ausstellers leisten und von dem Aussteller zu diesem Zweck angemessene Vorschüsse fordern. Der Aussteller kann die von dem Auslandsbevollmächtigten geleisteten Zahlungen nicht beanstanden, falls er sich allgemein mit ihrer Höhe einverstanden erklärt hat oder wenn sie Richtsätzen entsprechen, die durch eine nach § 65 erlassene Verordnung festgesetzt worden sind.
 
@@ -670,9 +656,9 @@ Die in diesem Gesetz begründeten Zuständigkeiten sind ausschließlich.
 
 (2) Ferner gelten sinngemäß folgende Vorschriften des Wertpapierbereinigungsgesetzes vom 19. August 1949 (WiGBl. S. 295):
 
-1.
+1. § 53 Abs. 1, 2 über das Recht auf Auskunft. Ist ein Auslandsbond, dessen Besitz der frühere Besitzer gegen seinen Willen verloren hat, anerkannt worden, so kann der frühere Besitzer von dem Aussteller Auskunft darüber verlangen, für wen und von welcher Stelle der Bond anerkannt worden ist; § 53 Abs. 4 des Wertpapierbereinigungsgesetzes gilt sinngemäß. Die Ansprüche nach Satz 2 verjähren ein Jahr nach der Veröffentlichung des anerkannten Auslandsbonds in der amtlichen Liste (§ 12);
 
-2.
+2. §§ 54 bis 58 über die Überwachung der den Ausstellern und Prüfstellen obliegenden Pflichten durch die Bankaufsichtsbehörden und deren Befugnisse im Prüfungsverfahren, § 59 Abs. 7 über die im Verfahren nach § 57 des Wertpapierbereinigungsgesetzes zu erhebenden Gebühren sowie § 34 Abs. 1, 2, 5 für die sofortige Beschwerde gegen eine nach § 57 des Wertpapierbereinigungsgesetzes ergangene Entscheidung. Die Fristen für die Einlegung von Rechtsmitteln durch die Bankaufsichtsbehörden (§ 54 Abs. 3 des Wertpapierbereinigungsgesetzes) beginnen mit der Zustellung der Entscheidung an den Aussteller, falls sich die Bankaufsichtsbehörde nicht schon vor Erlaß der Entscheidung an dem Verfahren beteiligt hatte.
 
 ### § 70 — Zustellungen
 
@@ -691,11 +677,11 @@ Wertpapierbereinigung
 
 (1) Der Vorsitzende der Kammer für Wertpapierbereinigung kann ohne Zuziehung von Beisitzern
 
-1.
+1. Entscheidungen und andere Anordnungen nach § 31 Abs. 4 Satz 4, § 47 Abs. 3, § 49 Abs. 1 Nr. 1, 2 und § 70 treffen,
 
-2.
+2. die Erhebung von Beweisen anordnen und
 
-3.
+3. einen nach § 40 vorgelegten Auslandsbond anerkennen.
 
 (2) Ob nach Absatz 1 von der Zuziehung der Beisitzer abgesehen werden soll, entscheidet der Vorsitzende nach pflichtmäßigem Ermessen.
 
@@ -724,13 +710,9 @@ In- und ausländische Vorschriften, nach denen Zahlungen oder die Einfuhr, Ausfu
 
 (2) Durch Vorschriften nach Absatz 1 dürfen weder die Voraussetzungen für die Anerkennung eines Auslandsbonds oder die Erteilung eines Feststellungsbescheides geändert noch die von den Beteiligten nach diesem Gesetz zu ergreifenden Maßnahmen erschwert oder nach diesem Gesetz gegebene Rechtsbehelfe ausgeschlossen oder eingeschränkt werden.
 
-(3) Rechtsverordnungen nach § 1 Abs. 2, § 5 Abs. 3, 4, § 8 Abs. 1 Satz 3, Abs. 6, § 9 Abs. 1, 4 und 5, § 21 Abs. 2, § 23 Abs. 5, § 24 Abs. 4, § 35 Abs. 2, § 58, § 76 Abs. 1 bedürfen nicht der Zustimmung des Bundesrates.
-
 > § 76 Abs. 3 Kursivdruck: Vgl. Fußnoten zu diesen Vorschriften
 
 ### § 77 — Mitwirkung des Begebungslands
-
-(1) Verordnungen nach § 5 Abs. 3, 4, § 8 Abs. 1 Satz 3, § 9 Abs. 1, 4 und 5, § 21 Abs. 2, § 23 Abs. 5, § 24 Abs. 4, § 35 Abs. 2, § 76 Abs. 1 sollen nur erlassen werden, nachdem das beteiligte Begebungsland sich mit der beabsichtigten Regelung einverstanden erklärt hat. Dasselbe gilt von einer Änderung oder Aufhebung der bezeichneten Verordnungen. Weitergehende Verpflichtungen aus einem Abkommen mit dem Begebungsland über den Erlaß und Inhalt der Verordnungen bleiben unberührt.
 
 (2) Für Maßnahmen, die nach diesem Gesetz der Mitwirkung des Begebungslandes bedürfen, genügt die Mitwirkung von Vereinigungen des Begebungslandes, welche die Interessen der Gläubiger von deutschen Auslandsbonds wahrnehmen, wenn die Regierung des als Begebungsland geltenden Staates zustimmt. Die Zustimmung kann als erteilt angesehen werden, wenn die Regierung innerhalb dreier Monate nach Mitteilung der beabsichtigten Maßnahmen nicht widerspricht.
 

@@ -14,9 +14,9 @@ Zur Sicherstellung des Vollzugs des Gesetzes zu dem Übereinkommen vom 18. Novem
 
 (1) Meldepflichtig ist, wer gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen
 
-1.
+1. Erdöl im Geltungsbereich dieses Gesetzes fördert oder ein- oder ausführt oder
 
-2.
+2. Erdölerzeugnisse im Geltungsbereich dieses Gesetzes für eigene Rechnung herstellt oder herstellen läßt oder ein- oder ausführt.
 
 (2) Der Einfuhr oder Ausfuhr steht das sonstige Verbringen in den oder aus dem Geltungsbereich dieses Gesetzes gleich.
 
@@ -26,27 +26,23 @@ Zur Sicherstellung des Vollzugs des Gesetzes zu dem Übereinkommen vom 18. Novem
 
 ### § 3 — Meldepflichten
 
-(1) Zu melden sind für jeden Kalendermonat (Meldezeitraum) nach Art und Menge Als Erdölerzeugnisse gelten auch die aus anderen Rohstoffen gewonnenen, den Erdölerzeugnissen nach Art ihrer Verwendbarkeit gleichstehenden Produkte.
+(1) Zu melden sind für jeden Kalendermonat (Meldezeitraum) nach Art und Menge
 
-1.
+1. die Erdölförderung im Geltungsbereich des Gesetzes,
 
-2.
+2. die Ein- und Ausfuhr von Erdöl und Erdölerzeugnissen nach Ursprungs- und Bestimmungsländern,
 
-3.
+3. die Zugänge von Erdöl und Erdölerzeugnissen aus dem Geltungsbereich des Gesetzes,
 
-4.
+4. der Absatz von Erdöl und Erdölerzeugnissen im Geltungsbereich des Gesetzes nach Abnehmergruppen; gesondert auszuweisen sind die Ablieferungen an Hochseebunker, an die Binnenschiffahrt, die Luftfahrt, die chemische Industrie, an die deutschen und ausländischen Streitkräfte,
 
-5.
+5. der Einsatz von Erdöl, von zur Verarbeitung bestimmten Erdölerzeugnissen und sonstigen Einsatzstoffen in Verarbeitungsanlagen,
 
-6.
+6. der zur Herstellung von Erdölerzeugnissen benötigte Eigenverbrauch,
 
-7.
+7. die Herstellung von Erdölerzeugnissen und
 
-8.
-
-a)
-
-b)
+8. die Bestände an Erdöl und Erdölerzeugnissena)im Geltungsbereich des Gesetzes undb)außerhalb des Geltungsbereichs des Gesetzes, soweit sie für die Versorgung innerhalb seines Geltungsbereichs bestimmt sind. im Geltungsbereich des Gesetzes und außerhalb des Geltungsbereichs des Gesetzes, soweit sie für die Versorgung innerhalb seines Geltungsbereichs bestimmt sind.
 
 (2) Meldepflichtige nach § 2 Absatz 4 Satz 4 haben zusätzlich zu den Angaben nach Absatz 1 Nummer 8 Buchstabe a zu melden, ob es sich um spezifische Vorräte im Sinne des Artikels 9 der Richtlinie 2009/119/EG des Rates vom 14. September 2009 zur Verpflichtung der Mitgliedstaaten, Mindestvorräte an Erdöl und/oder Erdölerzeugnissen zu halten (ABl. L 265 vom 9.10.2009, S. 9), handelt.
 
@@ -66,11 +62,11 @@ Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechts
 
 (2) Einzelangaben können an das Bundesministerium für Wirtschaft und Energie, das Bundesministerium der Finanzen, das Bundesministerium für Verkehr und digitale Infrastruktur, das Bundesministerium für Ernährung und Landwirtschaft, das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, die für die gewerbliche Wirtschaft zuständigen obersten Landesbehörden, die Dienststellen der Europäischen Union und die Internationale Energie-Agentur weitergeleitet werden, soweit dies zur Erfüllung dieses Gesetzes erforderlich ist.
 
-(3) In § 3 Absatz 1 genannte Daten sind zum Zwecke der Energie- und Treibhausgasbilanzierung auf Antrag an das jeweilige statistische Landesamt für dessen Erhebungsbereich und nach Kalenderjahren zusammengefasst zu übermitteln, sofern Einzelangaben dürfen an das jeweilige statistische Landesamt zu den in Satz 1 genannten Zwecken nur übermittelt werden, sofern die Einzelangaben dort einem gesetzlichen Geheimhaltungsschutz unterliegen, der § 16 des Bundesstatistikgesetzes entspricht.
+(3) In § 3 Absatz 1 genannte Daten sind zum Zwecke der Energie- und Treibhausgasbilanzierung auf Antrag an das jeweilige statistische Landesamt für dessen Erhebungsbereich und nach Kalenderjahren zusammengefasst zu übermitteln, sofern
 
-1.
+1. die Daten einem Bundesland zuordenbar sind und
 
-2.
+2. die zusammengefassten Angaben keinen Rückschluss auf Einzelangaben erlauben.
 
 ### § 6 — Bußgeldvorschrift
 

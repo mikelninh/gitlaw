@@ -16,13 +16,13 @@ Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 2
 
 Die Meisterprüfung im Gerüstbauer-Handwerk umfasst folgende selbständige Prüfungsteile:
 
-1.
+1. die Prüfung der meisterhaften Verrichtung der gebräuchlichen Arbeiten (Teil I),
 
-2.
+2. die Prüfung der erforderlichen fachtheoretischen Kenntnisse (Teil II),
 
-3.
+3. die Prüfung der erforderlichen betriebswirtschaftlichen, kaufmännischen und rechtlichen Kenntnisse (Teil III) und
 
-4.
+4. die Prüfung der erforderlichen berufs- und arbeitspädagogischen Kenntnisse (Teil IV).
 
 ### § 2 — Meisterprüfungsberufsbild
 
@@ -30,35 +30,35 @@ Die Meisterprüfung im Gerüstbauer-Handwerk umfasst folgende selbständige Prü
 
 (2) Dem Gerüstbauer-Handwerk werden zum Zwecke der Meisterprüfung folgende Tätigkeiten, Kenntnisse und Fertigkeiten als ganzheitliche Qualifikationen zugerechnet:
 
-1.
+1. Kundenwünsche ermitteln, Kunden beraten, Auftragsverhandlungen führen und Auftragsziele festlegen,
 
-2.
+2. Leistungen kalkulieren und Angebote erstellen,
 
-3.
+3. Aufgaben der technischen und kaufmännischen Betriebsführung, der Betriebsorganisation, der Personalplanung und des Personaleinsatzes wahrnehmen, insbesondere unter Berücksichtigung der betrieblichen Aus- und Weiterbildung, des Qualitätsmanagements, der Haftung sowie des Arbeits- und Umweltschutzes; Informationssysteme nutzen,
 
-4.
+4. Aufträge durchführen unter Berücksichtigung von Montagetechniken, Normen, Vorschriften, Genehmigungsvoraussetzungen sowie des Personalbedarfs und der Ausbildung, Auftragsbearbeitung und Auftragsabwicklung organisieren, planen und überwachen,
 
-5.
+5. Konstruktionen und Gerüstausführungen nach statistischen Berechnungen oder fachlicher Erfahrung festlegen, entsprechende technische Zeichnungen und Ausführungspläne unter Beachtung der Grundlagen der Statik erstellen sowie Montageanweisungen und Verwendungsanleitungen anfertigen,
 
-6.
+6. betriebliche Logistik planen und organisieren,
 
-7.
+7. Baustelleneinrichtungen unter Beachtung des Baustellenablaufs planen, koordinieren und organisieren,
 
-8.
+8. Gerüste, insbesondere Arbeitsgerüste, Schutzgerüste und Traggerüste einschließlich zugehöriger Schalung und Sonderkonstruktionen unter Berücksichtigung von Verbindungstechniken aufbauen, unterhalten, umbauen, abbauen, prüfen, beurteilen und übergeben sowie die erforderliche Dokumentation erstellen,
 
-9.
+9. bewegliche Arbeitsplattformen, insbesondere fahrbare Arbeitsbühnen, Hubarbeitsbühnen, Hebebühnen und Aufzüge, montieren, prüfen, beurteilen, übergeben, unterhalten, bedienen und demontieren sowie die erforderliche Dokumentation erstellen,
 
-10.
+10. Wetterschutzhallen, Einhausungen, Bühnen und Tribünen aufbauen, prüfen, beurteilen, übergeben, unterhalten, umbauen und abbauen sowie die erforderliche Dokumentation erstellen,
 
-11.
+11. erbrachte Leistungen aufmessen, ermitteln und abrechnen, Auftragsabwicklung auswerten.
 
 ### § 3 — Gliederung, Prüfungsdauer und Bestehen des Teils I
 
 (1) Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
-1.
+1. ein Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch,
 
-2.
+2. eine Situationsaufgabe.
 
 (2) Die Anfertigung des Meisterprüfungsprojekts soll nicht länger als drei Arbeitstage, das Fachgespräch nicht länger als 30 Minuten dauern. Die Ausführung der Situationsaufgabe soll vier Stunden nicht überschreiten.
 
@@ -72,27 +72,27 @@ Die Meisterprüfung im Gerüstbauer-Handwerk umfasst folgende selbständige Prü
 
 (2) Der Prüfling hat anhand des vorgegebenen Kundenauftrags die Gerüstarbeiten zu planen. Der vorgegebene Kundenauftrag ist so zu gestalten, dass er wesentliche Konstruktionsmerkmale von mindestens drei Gerüstbauarten enthält, darunter auf jeden Fall ein Traggerüst. Als weitere Gerüstbauarten kommen in Betracht:
 
-1.
+1. ein Arbeitsgerüst, ein Schutzgerüst oder ein Arbeits- und Schutzgerüst als Standgerüst, als Konsolgerüst oder als fahrbares Gerüst,
 
-2.
+2. ein Arbeitsgerüst als Hängegerüst,
 
-3.
+3. eine Wetterschutzeinhausung.
 
 (3) Das Meisterprüfungsprojekt nach Absatz 2 besteht aus:
 
-1.
+1. Entwurfszeichnung,
 
-2.
+2. Kalkulation,
 
-3.
+3. Detailzeichnungen,
 
-4.
+4. Lastannahmen und Bemessungen,
 
-5.
+5. Materialauszug,
 
-6.
+6. Montageanweisung oder Aufbau- und Verwendungsanleitung sowie
 
-7.
+7. Aufmaß und Abrechnung.
 
 ### § 5 — Fachgespräch
 
@@ -102,13 +102,13 @@ Auf der Grundlage der Prüfungsleistungen im Meisterprüfungsprojekt wird ein Fa
 
 (1) In der Situationsaufgabe sind die wesentlichen Kenntnisse und Fertigkeiten zu prüfen, die im Meisterprüfungsprojekt nicht oder nur unzureichend nachgewiesen werden konnten.
 
-(2) Der Prüfling hat als Situationsaufgabe zwei vom Meisterprüfungsausschuss vorgegebene fehlerhafte Gerüstkonstruktionen zu überprüfen und zu protokollieren, davon auf jeden Fall ein Traggerüst. Als weitere Gerüstbauarten kommen in Betracht: Für die vorgegebenen fehlerhaften Gerüstkonstruktionen sind Lösungsmöglichkeiten aufzuzeigen, die Mängel sind zu beseitigen. Die Überprüfung erfolgt auf der Grundlage der einschlägigen Normen und Vorschriften anhand der statischen Berechnungen dieser Einrüstungen, die der Meisterprüfungsausschuss zur Verfügung stellt.
+(2) Der Prüfling hat als Situationsaufgabe zwei vom Meisterprüfungsausschuss vorgegebene fehlerhafte Gerüstkonstruktionen zu überprüfen und zu protokollieren, davon auf jeden Fall ein Traggerüst. Als weitere Gerüstbauarten kommen in Betracht:
 
-1.
+1. ein Arbeitsgerüst, ein Schutzgerüst oder ein Arbeits- und Schutzgerüst als Standgerüst, als Konsolgerüst oder als fahrbares Gerüst,
 
-2.
+2. ein Arbeitsgerüst als Hängegerüst,
 
-3.
+3. eine Wetterschutzeinhausung.
 
 ### § 7 — Gliederung, Prüfungsdauer und Bestehen des Teils II
 
@@ -116,63 +116,19 @@ Auf der Grundlage der Prüfungsleistungen im Meisterprüfungsprojekt wird ein Fa
 
 (2) Prüfungsfächer sind:
 
-1.
+1. Gerüstbautechnik,
 
-2.
+2. Auftragsabwicklung,
 
-3.
+3. Betriebsführung und Betriebsorganisation.
 
 (3) In jedem der Prüfungsfächer ist mindestens eine Aufgabe zu bearbeiten, die fallorientiert sein muss. Dabei sind im Einzelnen folgende Qualifikationen nachzuweisen:
 
-1.
+1. Gerüstbautechnik: Der Prüfling soll nachweisen, dass er in der Lage ist, Gerüstkonstruktionen unter Beachtung der einschlägigen Normen und Vorschriften zu planen, zu entwerfen und zu berechnen. Hierfür kommen in Betracht:a)Gerüstbauarten, Ausführungsarten, Verwendungsarten, Verbindungsarten, Belagarten, Überbrückungsarten oder Gerüstgruppen beschreiben, analysieren und bewerten,b)Lasteinleitung und Lastabtragung, Tragverhalten von Gerüstkonstruktionen und Gerüstbauteilen berechnen,c)Untergründe und Aufhängepunkte beurteilen, Auswirkungen von konstruktiven und ausführungstechnischen Mängeln auf die Funktion darstellen. Gerüstbauarten, Ausführungsarten, Verwendungsarten, Verbindungsarten, Belagarten, Überbrückungsarten oder Gerüstgruppen beschreiben, analysieren und bewerten, Lasteinleitung und Lastabtragung, Tragverhalten von Gerüstkonstruktionen und Gerüstbauteilen berechnen, Untergründe und Aufhängepunkte beurteilen, Auswirkungen von konstruktiven und ausführungstechnischen Mängeln auf die Funktion darstellen. Als Gerüstbauarten für die Buchstaben a bis c kommen in Betracht:aa)Traggerüste,bb)Arbeitsgerüste,cc)Schutzgerüste einschließlich Schutzmaßnahmen,dd)Sonderkonstruktionen,ee)horizontal oder vertikal bewegliche Arbeitsplattformen. Traggerüste, Arbeitsgerüste, Schutzgerüste einschließlich Schutzmaßnahmen, Sonderkonstruktionen, horizontal oder vertikal bewegliche Arbeitsplattformen.
 
-a)
+2. Auftragsabwicklung: Der Prüfling soll nachweisen, dass er in der Lage ist, bei der Auftragsabwicklung die ablauftechnischen Maßnahmen, die für den technischen und wirtschaftlichen Erfolg in einem Gerüstbaubetrieb notwendig sind, kundenorientiert einzuleiten und abzuschließen. Hierfür kommen in Betracht:a)Vor- und Nachkalkulation durchführen,b)Einsatz von Material, Geräten und Personal planen,c)Vermessungstechniken darstellen,d)Montageanweisungen erstellen,e)Brauchbarkeitsnachweise darstellen,f)Prüfung und Freigabe von Gerüstbauleistungen darstellen,g)Gerüstbauleistungen aufmessen und abrechnen. Vor- und Nachkalkulation durchführen, Einsatz von Material, Geräten und Personal planen, Vermessungstechniken darstellen, Montageanweisungen erstellen, Brauchbarkeitsnachweise darstellen, Prüfung und Freigabe von Gerüstbauleistungen darstellen, Gerüstbauleistungen aufmessen und abrechnen.
 
-b)
-
-c)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
+3. Betriebsführung und Betriebsorganisation: Der Prüfling soll nachweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und Betriebsorganisation in einem Gerüstbaubetrieb wahrzunehmen. Hierfür kommen in Betracht:a)Rechtsvorschriften für die Vergabe von Bauleistungen sowie sonstige berufsbezogene Gesetze, Normen, Regeln und Vorschriften anwenden,b)betriebliche Kosten ermitteln,c)Erfordernisse der Arbeitssicherheit, des Gesundheitsschutzes und des Umweltschutzes darstellen; Gefährdung beurteilen und Maßnahmen zur Gefährdungsabwehr festlegen,d)betriebliches Qualitätsmanagement darstellen,e)Informations- und Kommunikationssysteme in Bezug auf ihre betrieblichen Einsatzmöglichkeiten beschreiben und beurteilen,f)Betriebs-, Lager- und Baustellenausstattung sowie Logistik planen,g)Erfordernisse der Wartung von Gerüsten, Bauteilen, Sicherheitseinrichtungen und Maschinen beschreiben. Rechtsvorschriften für die Vergabe von Bauleistungen sowie sonstige berufsbezogene Gesetze, Normen, Regeln und Vorschriften anwenden, betriebliche Kosten ermitteln, Erfordernisse der Arbeitssicherheit, des Gesundheitsschutzes und des Umweltschutzes darstellen; Gefährdung beurteilen und Maßnahmen zur Gefährdungsabwehr festlegen, betriebliches Qualitätsmanagement darstellen, Informations- und Kommunikationssysteme in Bezug auf ihre betrieblichen Einsatzmöglichkeiten beschreiben und beurteilen, Betriebs-, Lager- und Baustellenausstattung sowie Logistik planen, Erfordernisse der Wartung von Gerüsten, Bauteilen, Sicherheitseinrichtungen und Maschinen beschreiben.
 
 (4) Die Prüfung im Teil II ist schriftlich durchzuführen. Sie soll insgesamt nicht länger als neun Stunden dauern. Eine Prüfungsdauer von sechs Stunden täglich darf nicht überschritten werden.
 
@@ -180,9 +136,9 @@ g)
 
 (6) Mindestvoraussetzung für das Bestehen des Teils II der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung. Die Prüfung des Teils II ist nicht bestanden, wenn
 
-1.
+1. ein Prüfungsfach mit weniger als 30 Punkten bewertet worden ist oder
 
-2.
+2. nach durchgeführter Ergänzungsprüfung zwei Prüfungsfächer jeweils mit weniger als 50 Punkten bewertet worden sind.
 
 > (+++ § 7 Abs. 5 u. 6: Zur Anwendung vgl. § 9 +++)
 

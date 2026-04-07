@@ -16,15 +16,15 @@ Auf Grund des § 5 Abs. 5 des Allgemeinen Eisenbahngesetzes vom 27. Dezember 199
 
 (2) Anlagen im Sinne des Absatzes 1 sind
 
-1.
+1. Propanweichenheizungen einschließlich der Versorgungsbehälter,
 
-2.
+2. Gasbeleuchtungseinrichtungen für Signale,
 
-3.
+3. Druckluftbehälter in Schaltanlagen des Bahnstromnetzes,
 
-4.
+4. Anlagen zur Abwicklung des Eisenbahnbetriebes wie Gleise, Rangiereinrichtungen, Signalanlagen, Stellwerke, Eisenbahnbrücken, Eisenbahntunnel,
 
-5.
+5. Anlagen der Bahnstromversorgung (Umspann- und Umformerwerke einschließlich Schaltanlagen), Fernleitungen, Fahrleitungen und Fahrschienen.
 
 (3) Die Aufgaben, Zuständigkeiten und Befugnisse der Träger der gesetzlichen Unfallversicherung im Arbeitsschutz bleiben unberührt.
 

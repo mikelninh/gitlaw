@@ -22,17 +22,17 @@ Unter dem Namen "Akademie der Künste" wird mit Sitz in Berlin eine bundesunmitt
 
 (1) Die Akademie der Künste gibt sich eine Satzung, die der Genehmigung im Rahmen der Rechtsaufsicht bedarf. Das Gleiche gilt für Änderungen der Satzung.
 
-(2) In der Satzung ist die Einrichtung eines Verwaltungsbeirates vorzusehen. Diesem gehören an: Der Verwaltungsbeirat ist mit den Wirtschafts- und Personalangelegenheiten der Akademie der Künste zu befassen.
+(2) In der Satzung ist die Einrichtung eines Verwaltungsbeirates vorzusehen. Diesem gehören an:
 
-a)
+a) der Bund als Zuschussgeber mit der Mehrheit der Stimmen,
 
-b)
+b) ein Vertreter des Landes Brandenburg,
 
-c)
+c) ein Vertreter des Landes Berlin,
 
-d)
+d) der Präsident oder die Präsidentin,
 
-e)
+e) die Geschäftsführung.
 
 ### § 4 — Organe
 
@@ -73,8 +73,6 @@ Die Organe der Akademie der Künste sind die Mitgliederversammlung, der Senat, d
 (3) Der Präsident oder die Präsidentin und der Vizepräsident oder die Vizepräsidentin werden von der Mitgliederversammlung in geheimer Abstimmung aus dem Kreis der Mitglieder gewählt. Die Amtszeit beträgt jeweils drei Jahre. Ihre Wiederwahl ist möglich.
 
 ### § 9 — Sektionen
-
-(1) Die Akademie der Künste hat sechs Sektionen: Bildende Kunst Baukunst Musik Literatur Darstellende Kunst Film- und Medienkunst.
 
 (2) Jede Sektion hat höchstens 75 Mitglieder. Die Sektionen werden von einem Sektionsdirektor oder einer Sektionsdirektorin geleitet und im Senat vertreten. Die Sektionsdirektoren oder Sektionsdirektorinnen werden aus der Mitte der jeweiligen Sektion vorgeschlagen und von der Mitgliederversammlung für eine Amtszeit von drei Jahren gewählt. Ihre Wiederwahl ist möglich.
 

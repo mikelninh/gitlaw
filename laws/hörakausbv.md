@@ -30,47 +30,47 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 4 — Struktur der Berufsausbildung, Ausbildungsberufsbild
 
-(1) Die Berufsausbildung gliedert sich in: Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
+(1) Die Berufsausbildung gliedert sich in:
 
-1.
+1. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 (2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. individuelle Hörprofile bestimmen und beurteilen,
 
-2.
+2. berufsspezifische audiologische und otoskopische Befunde erheben und bewerten,
 
-3.
+3. Patientinnen und Patienten hinsichtlich der Versorgungsmöglichkeiten mit Hörsystemen, Hörassistenzsystemen und Sonderversorgungen sowie Zubehör beraten und dabei individuelle Hörerwartungen einbeziehen,
 
-4.
+4. dreidimensionale Abbilder des äußeren Ohres erstellen,
 
-5.
+5. Otoplastiken, individuellen Gehörschutz und Sonderotoplastiken herstellen,
 
-6.
+6. Hörsysteme und Hörassistenzsysteme entsprechend dem individuellen Hörprofil anpassen,
 
-7.
+7. Patientinnen und Patienten betreuen und Rehabilitationsmaßnahmen durchführen,
 
-8.
+8. Service- und Instandhaltungsmaßnahmen an Hörsystemen, Hörassistenzsystemen und Sonderversorgungen sowie Zubehör durchführen und
 
-9.
+9. Geschäfts- und Abrechnungsprozesse des Hörakustikbetriebes organisieren und ausführen.
 
 (3) Die Berufsbildpositionen der integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. Berufsbildung, Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-4.
+4. Umweltschutz,
 
-5.
+5. betriebliche und technische Kommunikation sowie Patientendatenschutz,
 
-6.
+6. Planen und Organisieren von Arbeitsabläufen und
 
-7.
+7. Durchführen qualitätssichernder Maßnahmen.
 
 ### § 5 — Ausbildungsplan
 
@@ -94,31 +94,31 @@ Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage de
 
 Die Zwischenprüfung erstreckt sich auf
 
-1.
+1. die im Ausbildungsrahmenplan für die ersten 18 Monate genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 ### § 9 — Prüfungsbereiche
 
 Die Zwischenprüfung findet in folgenden Prüfungsbereichen statt:
 
-1.
+1. Dreidimensionale Abbilder und
 
-2.
+2. Audiologische Kenndaten.
 
 ### § 10 — Prüfungsbereich Dreidimensionale Abbilder
 
 (1) Im Prüfungsbereich Dreidimensionale Abbilder soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. das äußere Ohr zu otoskopieren,
 
-2.
+2. Ohrmuschel, Gehörgang und Trommelfell zu beurteilen,
 
-3.
+3. Maßnahmen zum Schutz des Ohres während der Abbilderstellung vorzunehmen,
 
-4.
+4. dreidimensionale Abbilder des äußeren Ohres einschließlich der zweiten Gehörgangskrümmung zu erstellen und
 
-5.
+5. das Ergebnis der eigenen Arbeit auf Grundlage vorgegebener schriftlicher Kriterien zu bewerten.
 
 (2) Der Prüfling soll eine Arbeitsprobe durchführen.
 
@@ -128,19 +128,19 @@ Die Zwischenprüfung findet in folgenden Prüfungsbereichen statt:
 
 (1) Die Prüfung im Prüfungsbereich Audiologische Kenndaten besteht aus zwei Teilen.
 
-(2) Im ersten Teil soll der Prüfling nachweisen, dass er in der Lage ist, Der Prüfling soll eine Arbeitsprobe durchführen. Die Prüfungszeit beträgt 15 Minuten.
+(2) Im ersten Teil soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Patientinnen und Patienten in audiometrische Messverfahren und in die Abläufe der audiometrischen Messverfahren einzuweisen und
 
-2.
+2. audiometrische Messverfahren durchzuführen.
 
-(3) Im zweiten Teil soll der Prüfling nachweisen, dass er in der Lage ist, Der Prüfling soll Aufgaben schriftlich bearbeiten. Die Prüfungszeit beträgt 60 Minuten.
+(3) Im zweiten Teil soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Vertäubungsregeln anzuwenden,
 
-2.
+2. Messverfahren auszuwählen und
 
-3.
+3. audiometrische Messergebnisse zu klassifizieren.
 
 ## Abschnitt 3: Gesellenprüfung
 
@@ -154,61 +154,59 @@ Die Zwischenprüfung findet in folgenden Prüfungsbereichen statt:
 
 Die Gesellenprüfung erstreckt sich auf
 
-1.
+1. die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 ### § 14 — Prüfungsbereiche
 
 Die Gesellenprüfung findet in folgenden Prüfungsbereichen statt:
 
-1.
+1. Audiologische Kenndaten von Patientinnen und Patienten,
 
-2.
+2. Dreidimensionale Abbilder des äußeren Ohres und Otoplastiken,
 
-3.
+3. Hörsystemanpassung und Patientenberatung,
 
-4.
+4. Servicemaßnahmen sowie
 
-5.
+5. Wirtschafts- und Sozialkunde.
 
 ### § 15 — Prüfungsbereich Audiologische Kenndaten von Patientinnen und Patienten
 
 (1) Die Prüfung im Prüfungsbereich Audiologische Kenndaten von Patientinnen und Patienten besteht aus zwei Teilen.
 
-(2) Im ersten Teil soll der Prüfling nachweisen, dass er in der Lage ist, Der Prüfling soll Aufgaben schriftlich bearbeiten. Die Prüfungszeit beträgt 90 Minuten.
+(2) Im ersten Teil soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Audiogramme zu interpretieren,
 
-2.
+2. audiologische Mess- und Testverfahren zu beschreiben und
 
-3.
+3. Aufbau und Funktion des Hörorgans unter Verwendung von Fachbegriffen zu erläutern.
 
-(3) Im zweiten Teil soll der Prüfling nachweisen, dass er in der Lage ist, Der Prüfling soll eine Arbeitsprobe durchführen. Die Prüfungszeit beträgt 15 Minuten.
+(3) Im zweiten Teil soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Patientinnen und Patienten in Testverfahren einzuweisen,
 
-2.
+2. audiometrische und psychoakustische Messverfahren durchzuführen und
 
-3.
-
-(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind die Bewertungen wie folgt zu gewichten:
+3. Sicherheit und Gesundheitsschutz bei der Arbeit zu beachten.
 
 ### § 16 — Prüfungsbereich Dreidimensionale Abbilder des äußeren Ohres und Otoplastiken
 
 (1) Im Prüfungsbereich Dreidimensionale Abbilder des äußeren Ohres und Otoplastiken soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Arbeitsabläufe zu planen,
 
-2.
+2. Maßnahmen zum Schutz des Ohres auf Grundlage der Otoskopie während der Abbilderstellung zu treffen,
 
-3.
+3. dreidimensionale Abbilder des äußeren Ohres einschließlich der zweiten Gehörgangskrümmung zu erstellen und zu modellieren,
 
-4.
+4. die Nutzbarkeit von Abbildern zu bewerten und zu dokumentieren,
 
-5.
+5. ein vorgegebenes Abbild für den nächsten Fertigungsschritt vorzubereiten und
 
-6.
+6. Otoplastiken auf der Basis eines vorgegebenen Abbildes unter Berücksichtigung der patientenspezifischen Gegebenheiten anzufertigen.
 
 (2) Der Prüfling soll eine Arbeitsaufgabe durchführen.
 
@@ -218,59 +216,55 @@ Die Gesellenprüfung findet in folgenden Prüfungsbereichen statt:
 
 (1) Die Prüfung im Prüfungsbereich Hörsystemanpassung und Patientenberatung besteht aus zwei Teilen.
 
-(2) Im ersten Teil soll der Prüfling nachweisen, dass er in der Lage ist, Der Prüfling soll Aufgaben schriftlich bearbeiten. Die Prüfungszeit beträgt 90 Minuten.
+(2) Im ersten Teil soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Versorgungsabläufe unter Berücksichtigung der rechtlichen Vorgaben und Rahmenbedingungen umzusetzen und zu dokumentieren,
 
-2.
+2. kommunikationspsychologische Strategien zu unterscheiden und adressatengerecht anzuwenden,
 
-3.
+3. pathophysiologische Vorgänge im Hörorgan zu beschreiben und bei der Hörsystemversorgung zu berücksichtigen und
 
-4.
+4. auf Grundlage des vorliegenden Hörbedarfs eine Vorauswahl der Hörsysteme und Hörassistenzsysteme zur vergleichenden Anpassung für Patientinnen und Patienten zu treffen.
 
-(3) Im zweiten Teil soll der Prüfling nachweisen, dass er in der Lage ist, Der Prüfling soll eine Arbeitsprobe durchführen. Während der Arbeitsprobe wird mit ihm ein situatives Fachgespräch geführt. Die Prüfungszeit beträgt insgesamt 30 Minuten. Das situative Fachgespräch dauert höchstens 15 Minuten.
+(3) Im zweiten Teil soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Versorgungsabläufe, rechtliche Vorgaben und Rahmenbedingungen den Patientinnen und Patienten zu erklären,
 
-2.
+2. Patientinnen und Patienten auf Grundlage des vorliegenden Hörbedarfs bei der Auswahl der Hörsysteme, Hörassistenzsysteme und Sonderversorgungen zu beraten,
 
-3.
+3. die psychosoziale Situation von Patientinnen und Patienten zu erkennen und im Beratungskontext zu berücksichtigen,
 
-4.
+4. Hörsysteme für die vergleichende Anpassung unter Berücksichtigung des Hörprofils, der audiologischen Gegebenheiten und der Wünsche von Patientinnen und Patienten auszuwählen,
 
-5.
+5. Anpassverfahren auszuwählen und Hörsysteme voreinzustellen,
 
-6.
+6. Hörsystemeinstellungen im Rahmen der Feinanpassung zu modifizieren und
 
-7.
-
-(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind die Bewertungen wie folgt zu gewichten:
+7. Hörassistenzsysteme und Zubehör nach patientenspezifischen Bedürfnissen auszuwählen und voreinzustellen.
 
 ### § 18 — Prüfungsbereich Servicemaßnahmen
 
 (1) Die Prüfung im Prüfungsbereich Servicemaßnahmen besteht aus zwei Teilen.
 
-(2) Im ersten Teil der Prüfung soll der Prüfling nachweisen, dass er in der Lage ist, Der Prüfling soll eine Arbeitsaufgabe durchführen und mit praxisbezogenen Unterlagen dokumentieren. Die Prüfungszeit beträgt 60 Minuten.
+(2) Im ersten Teil der Prüfung soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Fehlfunktionen an von Patientinnen und Patienten genutzten Hörsystemen und Hörassistenzsystemen zu erkennen,
 
-2.
+2. Fehlerdiagnosen durchzuführen,
 
-3.
+3. die Ursachen zu benennen,
 
-4.
+4. Maßnahmen zur Behebung von Fehlfunktionen einzuleiten sowie
 
-5.
+5. Hörsysteme akustisch zu messen und zu modifizieren.
 
-(3) Im zweiten Teil der Prüfung soll der Prüfling nachweisen, dass er in der Lage ist, Der Prüfling soll Aufgaben schriftlich bearbeiten. Die Prüfungszeit beträgt 40 Minuten.
+(3) Im zweiten Teil der Prüfung soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. Kaufvertragsstörungen zu bearbeiten,
 
-2.
+2. Reklamationen unter Berücksichtigung rechtlicher Vorgaben und Rahmenbedingungen zu bearbeiten und
 
-3.
-
-(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind die Bewertungen wie folgt zu gewichten:
+3. die Geschäftskorrespondenz zu führen.
 
 ### § 19 — Prüfungsbereich Wirtschafts- und Sozialkunde
 
@@ -282,21 +276,19 @@ Die Gesellenprüfung findet in folgenden Prüfungsbereichen statt:
 
 ### § 20 — Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
-
 (2) Die Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-1.
+1. im Gesamtergebnis mit mindestens „ausreichend“,
 
-2.
+2. in mindestens vier Prüfungsbereichen mit mindestens „ausreichend“ und
 
-3.
+3. in keinem Prüfungsbereich mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung entweder in dem Prüfungsbereich nach § 19 oder in einem der Teilprüfungsbereiche nach § 15 Absatz 2, § 17 Absatz 2 oder § 18 Absatz 3 durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich oder diesen Teilprüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung entweder in dem Prüfungsbereich nach § 19 oder in einem der Teilprüfungsbereiche nach § 15 Absatz 2, § 17 Absatz 2 oder § 18 Absatz 3 durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.
+1. der Prüfungsbereich oder der Teilprüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
-2.
+2. die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
 
 ## Abschnitt 4: Schlussvorschriften
 
@@ -310,288 +302,18 @@ Diese Verordnung tritt am 1. August 2016 in Kraft. Gleichzeitig tritt die Verord
 
 ### Anlage — (zu § 3 Absatz 1)
 
-Abschnitt A: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
+a) ärztliche Verordnungen auswerten und Indikationsstellungen für Hörsystemversorgungen aus berufsspezifischer Sicht prüfen
 
-a)
+b) berufsspezifische Anamnesen im Hinblick auf Art, Grad und Verlauf der Hörschädigung, Kommunikation und Hörbeeinträchtigungen durchführen und dabei den medizinischen Verlauf, insbesondere Allergien, Medikationen, feinmotorische Fähigkeiten und Sehbeeinträchtigungen, berücksichtigen
 
-b)
+c) psychosoziale Situation von Patientinnen und Patienten erfassen
 
-c)
+a) Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss, Dauer und Beendigung
 
-d)
+b) gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
 
-e)
+c) Möglichkeiten der beruflichen Fortbildung nennen
 
-f)
+d) wesentliche Teile des Arbeitsvertrages nennen
 
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-p)
-
-q)
-
-r)
-
-s)
-
-t)
-
-u)
-
-v)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-p)
-
-q)
-
-r)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-p)
-
-Abschnitt B: integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
+e) wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen

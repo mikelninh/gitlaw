@@ -22,9 +22,9 @@ Dieses Gesetz regelt das Statusrecht der Beamtinnen und Beamten der Länder, Gem
 
 Das Recht, Beamtinnen und Beamte zu haben, besitzen
 
-1.
+1. Länder, Gemeinden und Gemeindeverbände,
 
-2.
+2. sonstige Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts, die dieses Recht im Zeitpunkt des Inkrafttretens dieses Gesetzes besitzen oder denen es durch ein Landesgesetz oder aufgrund eines Landesgesetzes verliehen wird.
 
 ## Abschnitt 2: Beamtenverhältnis
 
@@ -34,31 +34,31 @@ Das Recht, Beamtinnen und Beamte zu haben, besitzen
 
 (2) Die Berufung in das Beamtenverhältnis ist nur zulässig zur Wahrnehmung
 
-1.
+1. hoheitsrechtlicher Aufgaben oder
 
-2.
+2. solcher Aufgaben, die aus Gründen der Sicherung des Staates oder des öffentlichen Lebens nicht ausschließlich Personen übertragen werden dürfen, die in einem privatrechtlichen Arbeitsverhältnis stehen.
 
 ### § 4 — Arten des Beamtenverhältnisses
 
-(1) Das Beamtenverhältnis auf Lebenszeit dient der dauernden Wahrnehmung von Aufgaben nach § 3 Abs. 2. Es bildet die Regel.
+(1) Das Beamtenverhältnis auf Lebenszeit dient der dauernden Wahrnehmung von Aufgaben nach § 3 Abs. 2. Es bildet die Regel.
 
 (2) Das Beamtenverhältnis auf Zeit dient
 
-a)
+a) der befristeten Wahrnehmung von Aufgaben nach § 3 Abs. 2 oder
 
-b)
+b) der zunächst befristeten Übertragung eines Amtes mit leitender Funktion.
 
 (3) Das Beamtenverhältnis auf Probe dient der Ableistung einer Probezeit
 
-a)
+a) zur späteren Verwendung auf Lebenszeit oder
 
-b)
+b) zur Übertragung eines Amtes mit leitender Funktion.
 
 (4) Das Beamtenverhältnis auf Widerruf dient
 
-a)
+a) der Ableistung eines Vorbereitungsdienstes oder
 
-b)
+b) der nur vorübergehenden Wahrnehmung von Aufgaben nach § 3 Abs. 2.
 
 ### § 5 — Ehrenbeamtinnen und Ehrenbeamte
 
@@ -74,47 +74,41 @@ Für die Rechtsverhältnisse der Beamtinnen auf Zeit und Beamten auf Zeit gelten
 
 ### § 7 — Voraussetzungen des Beamtenverhältnisses
 
-(1) In das Beamtenverhältnis darf nur berufen werden, wer In das Beamtenverhältnis darf nicht berufen werden, wer unveränderliche Merkmale des Erscheinungsbilds aufweist, die mit der Erfüllung der Pflichten nach § 34 Absatz 2 nicht vereinbar sind.
+(1) In das Beamtenverhältnis darf nur berufen werden, wer
 
-1.
+1. Deutsche oder Deutscher im Sinne des Artikels 116 Absatz 1 des Grundgesetzes ist oder die Staatsangehörigkeit a)eines anderen Mitgliedstaates der Europäischen Union oderb)eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oderc)eines Drittstaates, dem die Bundesrepublik Deutschland und die Europäische Union vertraglich einen entsprechenden Anspruch auf Anerkennung von Berufsqualifikationen eingeräumt haben,besitzt, eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder eines Drittstaates, dem die Bundesrepublik Deutschland und die Europäische Union vertraglich einen entsprechenden Anspruch auf Anerkennung von Berufsqualifikationen eingeräumt haben,
 
-a)
+2. die Gewähr dafür bietet, jederzeit für die freiheitliche demokratische Grundordnung im Sinne des Grundgesetzes einzutreten, und
 
-b)
-
-c)
-
-2.
-
-3.
+3. die nach Landesrecht vorgeschriebene Befähigung besitzt.
 
 (2) Wenn die Aufgaben es erfordern, darf nur eine Deutsche oder ein Deutscher im Sinne des Artikels 116 Absatz 1 des Grundgesetzes in ein Beamtenverhältnis berufen werden.
 
 (3) Ausnahmen von Absatz 1 Nr. 1 und Absatz 2 können nur zugelassen werden, wenn
 
-1.
+1. für die Gewinnung der Beamtin oder des Beamten ein dringendes dienstliches Interesse besteht oder
 
-2.
+2. bei der Berufung von Hochschullehrerinnen und Hochschullehrern und anderen Mitarbeiterinnen und Mitarbeitern des wissenschaftlichen und künstlerischen Personals in das Beamtenverhältnis andere wichtige Gründe vorliegen.
 
 ### § 8 — Ernennung
 
 (1) Einer Ernennung bedarf es zur
 
-1.
+1. Begründung des Beamtenverhältnisses,
 
-2.
+2. Umwandlung des Beamtenverhältnisses in ein solches anderer Art (§ 4),
 
-3.
+3. Verleihung eines anderen Amtes mit anderem Grundgehalt oder
 
-4.
+4. Verleihung eines anderen Amtes mit anderer Amtsbezeichnung, soweit das Landesrecht dies bestimmt.
 
 (2) Die Ernennung erfolgt durch Aushändigung einer Ernennungsurkunde. In der Urkunde müssen enthalten sein
 
-1.
+1. bei der Begründung des Beamtenverhältnisses die Wörter „unter Berufung in das Beamtenverhältnis“ mit dem die Art des Beamtenverhältnisses bestimmenden Zusatz „auf Lebenszeit“, „auf Probe“, „auf Widerruf“, „als Ehrenbeamtin“ oder „als Ehrenbeamter“ oder „auf Zeit“ mit der Angabe der Zeitdauer der Berufung,
 
-2.
+2. bei der Umwandlung des Beamtenverhältnisses in ein solches anderer Art die diese Art bestimmenden Wörter nach Nummer 1 und
 
-3.
+3. bei der Verleihung eines Amtes die Amtsbezeichnung.
 
 (3) Mit der Begründung eines Beamtenverhältnisses auf Probe, auf Lebenszeit und auf Zeit wird gleichzeitig ein Amt verliehen.
 
@@ -132,37 +126,31 @@ Die Ernennung zur Beamtin auf Lebenszeit oder zum Beamten auf Lebenszeit ist nur
 
 (1) Die Ernennung ist nichtig, wenn
 
-1.
+1. sie nicht der in § 8 Abs. 2 vorgeschriebenen Form entspricht,
 
-2.
+2. sie von einer sachlich unzuständigen Behörde ausgesprochen wurde oder
 
-3.
-
-a)
-
-b)
-
-c)
+3. zum Zeitpunkt der Ernennung a)nach § 7 Absatz 1 Satz 1 Nummer 1 keine Ernennung erfolgen durfte und keine Ausnahme nach § 7 Abs. 3 zugelassen war,b)nicht die Fähigkeit zur Bekleidung öffentlicher Ämter vorlag oderc)eine ihr zu Grunde liegende Wahl unwirksam ist. nach § 7 Absatz 1 Satz 1 Nummer 1 keine Ernennung erfolgen durfte und keine Ausnahme nach § 7 Abs. 3 zugelassen war, nicht die Fähigkeit zur Bekleidung öffentlicher Ämter vorlag oder eine ihr zu Grunde liegende Wahl unwirksam ist.
 
 (2) Die Ernennung ist von Anfang an als wirksam anzusehen, wenn
 
-1.
+1. im Fall des Absatzes 1 Nr. 1 aus der Urkunde oder aus dem Akteninhalt eindeutig hervorgeht, dass die für die Ernennung zuständige Stelle ein bestimmtes Beamtenverhältnis begründen oder ein bestehendes Beamtenverhältnis in ein solches anderer Art umwandeln wollte, für das die sonstigen Voraussetzungen vorliegen, und die für die Ernennung zuständige Stelle die Wirksamkeit schriftlich bestätigt; das Gleiche gilt, wenn die Angabe der Zeitdauer fehlt, durch Landesrecht aber die Zeitdauer bestimmt ist,
 
-2.
+2. im Fall des Absatzes 1 Nr. 2 die sachlich zuständige Behörde die Ernennung bestätigt oder
 
-3.
+3. im Fall des Absatzes 1 Nr. 3 Buchstabe a eine Ausnahme nach § 7 Abs. 3 nachträglich zugelassen wird.
 
 ### § 12 — Rücknahme der Ernennung
 
 (1) Die Ernennung ist mit Wirkung für die Vergangenheit zurückzunehmen, wenn
 
-1.
+1. sie durch Zwang, arglistige Täuschung oder Bestechung herbeigeführt wurde,
 
-2.
+2. dem Dienstherrn zum Zeitpunkt der Ernennung nicht bekannt war, dass die ernannte Person vor ihrer Ernennung ein Verbrechen oder Vergehen begangen hat, aufgrund dessen sie vor oder nach ihrer Ernennung rechtskräftig zu einer Strafe verurteilt worden ist und das sie für die Berufung in das Beamtenverhältnis als unwürdig erscheinen lässt,
 
-3.
+3. die Ernennung nach § 7 Abs. 2 nicht erfolgen durfte und eine Ausnahme nach § 7 Abs. 3 nicht zugelassen war und die Ausnahme nicht nachträglich erteilt wird oder
 
-4.
+4. eine durch Landesrecht vorgeschriebene Mitwirkung einer unabhängigen Stelle oder einer Aufsichtsbehörde unterblieben ist und nicht nachgeholt wurde.
 
 (2) Die Ernennung soll zurückgenommen werden, wenn nicht bekannt war, dass gegen die ernannte Person in einem Disziplinarverfahren auf Entfernung aus dem Beamtenverhältnis oder auf Aberkennung des Ruhegehalts erkannt worden war. Dies gilt auch, wenn die Entscheidung gegen eine Beamtin oder einen Beamten der Europäischen Union oder eines Staates nach § 7 Absatz 1 Satz 1 Nummer 1 ergangen ist.
 
@@ -230,9 +218,9 @@ Die Vorschriften dieses Abschnitts gelten nur bei landesübergreifender Abordnun
 
 (1) Beamtinnen und Beamten kann mit ihrer Zustimmung vorübergehend ganz oder teilweise eine ihrem Amt entsprechende Tätigkeit zugewiesen werden
 
-1.
+1. bei einer öffentlichen Einrichtung ohne Dienstherrneigenschaft oder bei einer öffentlich-rechtlichen Religionsgemeinschaft im dienstlichen oder öffentlichen Interesse oder
 
-2.
+2. bei einer anderen Einrichtung, wenn öffentliche Interessen es erfordern.
 
 (2) Beamtinnen und Beamten einer Dienststelle, die ganz oder teilweise in eine öffentlich-rechtlich organisierte Einrichtung ohne Dienstherrneigenschaft oder eine privatrechtlich organisierte Einrichtung der öffentlichen Hand umgewandelt wird, kann auch ohne ihre Zustimmung ganz oder teilweise eine ihrem Amt entsprechende Tätigkeit bei dieser Einrichtung zugewiesen werden, wenn öffentliche Interessen es erfordern.
 
@@ -244,21 +232,21 @@ Die Vorschriften dieses Abschnitts gelten nur bei landesübergreifender Abordnun
 
 Das Beamtenverhältnis endet durch
 
-1.
+1. Entlassung,
 
-2.
+2. Verlust der Beamtenrechte,
 
-3.
+3. Entfernung aus dem Beamtenverhältnis nach den Disziplinargesetzen oder
 
-4.
+4. Eintritt oder Versetzung in den Ruhestand.
 
 ### § 22 — Entlassung kraft Gesetzes
 
 (1) Beamtinnen und Beamte sind entlassen, wenn
 
-1.
+1. die Voraussetzungen des § 7 Absatz 1 Satz 1 Nummer 1 nicht mehr vorliegen und eine Ausnahme nach § 7 Absatz 3 auch nachträglich nicht zugelassen wird oder
 
-2.
+2. sie die Altersgrenze erreichen und das Beamtenverhältnis nicht durch Eintritt in den Ruhestand endet.
 
 (2) Die Beamtin oder der Beamte ist entlassen, wenn ein öffentlich-rechtliches Dienst- oder Amtsverhältnis zu einem anderen Dienstherrn oder zu einer Einrichtung ohne Dienstherrneigenschaft begründet wird, sofern nicht im Einvernehmen mit dem neuen Dienstherrn oder der Einrichtung die Fortdauer des Beamtenverhältnisses neben dem neuen Dienst- oder Amtsverhältnis angeordnet oder durch Landesrecht etwas anderes bestimmt wird. Dies gilt nicht für den Eintritt in ein Beamtenverhältnis auf Widerruf oder als Ehrenbeamtin oder Ehrenbeamter.
 
@@ -270,37 +258,37 @@ Das Beamtenverhältnis endet durch
 
 ### § 23 — Entlassung durch Verwaltungsakt
 
-(1) Beamtinnen und Beamte sind zu entlassen, wenn sie Im Fall des Satzes 1 Nr. 3 ist § 26 Abs. 2 entsprechend anzuwenden.
+(1) Beamtinnen und Beamte sind zu entlassen, wenn sie
 
-1.
+1. den Diensteid oder ein an dessen Stelle vorgeschriebenes Gelöbnis verweigern,
 
-2.
+2. nicht in den Ruhestand oder einstweiligen Ruhestand versetzt werden können, weil eine versorgungsrechtliche Wartezeit nicht erfüllt ist,
 
-3.
+3. dauernd dienstunfähig sind und das Beamtenverhältnis nicht durch Versetzung in den Ruhestand endet,
 
-4.
+4. die Entlassung in schriftlicher Form verlangen oder
 
-5.
+5. nach Erreichen der Altersgrenze berufen worden sind.
 
 (2) Beamtinnen und Beamte können entlassen werden, wenn sie in Fällen des § 7 Abs. 2 die Eigenschaft als Deutsche oder Deutscher im Sinne des Artikels 116 Absatz 1 des Grundgesetzes verlieren.
 
-(3) Beamtinnen auf Probe und Beamte auf Probe können entlassen werden, Im Fall des Satzes 1 Nr. 2 ist § 26 Abs. 2 bei allein mangelnder gesundheitlicher Eignung entsprechend anzuwenden.
+(3) Beamtinnen auf Probe und Beamte auf Probe können entlassen werden,
 
-1.
+1. wenn sie eine Handlung begehen, die im Beamtenverhältnis auf Lebenszeit mindestens eine Kürzung der Dienstbezüge zur Folge hätte,
 
-2.
+2. wenn sie sich in der Probezeit nicht bewährt haben oder
 
-3.
+3. wenn ihr Aufgabengebiet bei einer Behörde von der Auflösung dieser Behörde oder einer auf landesrechtlicher Vorschrift beruhenden wesentlichen Änderung des Aufbaus oder Verschmelzung dieser Behörde mit einer anderen oder von der Umbildung einer Körperschaft berührt wird und eine andere Verwendung nicht möglich ist.
 
 (4) Beamtinnen auf Widerruf und Beamte auf Widerruf können jederzeit entlassen werden. Die Gelegenheit zur Beendigung des Vorbereitungsdienstes und zur Ablegung der Prüfung soll gegeben werden.
 
 ### § 24 — Verlust der Beamtenrechte
 
-(1) Wenn eine Beamtin oder ein Beamter im ordentlichen Strafverfahren durch das Urteil eines deutschen Gerichts verurteilt wird, endet das Beamtenverhältnis mit der Rechtskraft des Urteils. Entsprechendes gilt, wenn die Fähigkeit zur Bekleidung öffentlicher Ämter aberkannt wird oder wenn die Beamtin oder der Beamte aufgrund einer Entscheidung des Bundesverfassungsgerichts nach Artikel 18 des Grundgesetzes ein Grundrecht verwirkt hat.
+(1) Wenn eine Beamtin oder ein Beamter im ordentlichen Strafverfahren durch das Urteil eines deutschen Gerichts
 
-1.
+1. wegen einer vorsätzlichen Tat zu einer Freiheitsstrafe von mindestens einem Jahr oder
 
-2.
+2. wegen einer vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat, Hochverrat und Gefährdung des demokratischen Rechtsstaates, Landesverrat und Gefährdung der äußeren Sicherheit, Volksverhetzung oder, soweit sich die Tat auf eine Diensthandlung im Hauptamt bezieht, Bestechlichkeit, strafbar ist, zu einer Freiheitsstrafe von mindestens sechs Monaten
 
 (2) Wird eine Entscheidung, die den Verlust der Beamtenrechte zur Folge hat, in einem Wiederaufnahmeverfahren aufgehoben, gilt das Beamtenverhältnis als nicht unterbrochen.
 
@@ -398,15 +386,15 @@ Die Versetzung in den Ruhestand setzt die Erfüllung einer versorgungsrechtliche
 
 (1) Beamtinnen und Beamte haben über die ihnen bei oder bei Gelegenheit ihrer amtlichen Tätigkeit bekannt gewordenen dienstlichen Angelegenheiten Verschwiegenheit zu bewahren. Dies gilt auch über den Bereich eines Dienstherrn hinaus sowie nach Beendigung des Beamtenverhältnisses.
 
-(2) Absatz 1 gilt nicht, soweit Im Übrigen bleiben die gesetzlich begründeten Pflichten, geplante Straftaten anzuzeigen und für die Erhaltung der freiheitlichen demokratischen Grundordnung einzutreten, von Absatz 1 unberührt.
+(2) Absatz 1 gilt nicht, soweit
 
-1.
+1. Mitteilungen im dienstlichen Verkehr geboten sind,
 
-2.
+2. Tatsachen mitgeteilt werden, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen,
 
-3.
+3. gegenüber der zuständigen obersten Dienstbehörde, einer Strafverfolgungsbehörde oder einer durch Landesrecht bestimmten weiteren Behörde oder außerdienstlichen Stelle ein durch Tatsachen begründeter Verdacht einer Korruptionsstraftat nach den §§ 331 bis 337 des Strafgesetzbuches angezeigt wird oder
 
-4.
+4. Informationen unter den Voraussetzungen des Hinweisgeberschutzgesetzes an eine zuständige Meldestelle weitergegeben oder offengelegt werden.
 
 (3) Beamtinnen und Beamte dürfen ohne Genehmigung über Angelegenheiten, für die Absatz 1 gilt, weder vor Gericht noch außergerichtlich aussagen oder Erklärungen abgeben. Die Genehmigung erteilt der Dienstherr oder, wenn das Beamtenverhältnis beendet ist, der letzte Dienstherr. Hat sich der Vorgang, der den Gegenstand der Äußerung bildet, bei einem früheren Dienstherrn ereignet, darf die Genehmigung nur mit dessen Zustimmung erteilt werden. Durch Landesrecht kann bestimmt werden, dass an die Stelle des in den Sätzen 2 und 3 genannten jeweiligen Dienstherrn eine andere Stelle tritt.
 
@@ -474,19 +462,19 @@ Beamtinnen und Beamte, die vorsätzlich oder grob fahrlässig die ihnen obliegen
 
 ### § 49 — Übermittlungen bei Strafverfahren
 
-(1) Das Gericht, die Strafverfolgungs- oder die Strafvollstreckungsbehörde hat in Strafverfahren gegen Beamtinnen und Beamte zur Sicherstellung der erforderlichen dienstrechtlichen Maßnahmen im Fall der Erhebung der öffentlichen Klage zu übermitteln. Ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, ist die Entscheidung unter Hinweis auf das eingelegte Rechtsmittel zu übermitteln. Der Erlass und der Vollzug eines Haftbefehls oder eines Unterbringungsbefehls sind mitzuteilen.
+(1) Das Gericht, die Strafverfolgungs- oder die Strafvollstreckungsbehörde hat in Strafverfahren gegen Beamtinnen und Beamte zur Sicherstellung der erforderlichen dienstrechtlichen Maßnahmen im Fall der Erhebung der öffentlichen Klage
 
-1.
+1. die Anklageschrift oder eine an ihre Stelle tretende Antragsschrift,
 
-2.
+2. den Antrag auf Erlass eines Strafbefehls und
 
-3.
+3. die einen Rechtszug abschließende Entscheidung mit Begründung
 
 (2) In Verfahren wegen fahrlässig begangener Straftaten werden die in Absatz 1 Satz 1 bestimmten Übermittlungen nur vorgenommen, wenn
 
-1.
+1. es sich um schwere Verstöße handelt, namentlich Vergehen der Trunkenheit im Straßenverkehr oder der fahrlässigen Tötung, oder
 
-2.
+2. in sonstigen Fällen die Kenntnis der Daten aufgrund der Umstände des Einzelfalls erforderlich ist, um zu prüfen, ob dienstrechtliche Maßnahmen zu ergreifen sind.
 
 (3) Entscheidungen über Verfahrenseinstellungen, die nicht bereits nach Absatz 1 oder 2 zu übermitteln sind, sollen übermittelt werden, wenn die in Absatz 2 Nr. 2 genannten Voraussetzungen erfüllt sind. Dabei ist zu berücksichtigen, wie gesichert die zu übermittelnden Erkenntnisse sind.
 
@@ -558,15 +546,15 @@ Ruhestandsbeamtinnen und Ruhestandsbeamte, die die für Bundesbeamtinnen und Bun
 
 ### § 60 — Verwendungen im Ausland
 
-(1) Beamtinnen und Beamte, die zur Wahrnehmung des ihnen übertragenen Amtes im Ausland oder außerhalb des Deutschen Hoheitsgebiets auf Schiffen oder in Luftfahrzeugen verwendet werden und dabei wegen vom Inland wesentlich abweichender Verhältnisse erhöhten Gefahren ausgesetzt sind, können aus dienstlichen Gründen verpflichtet werden, In den Fällen des Satzes 1 Nr. 4 wird für die Mehrbeanspruchung ein Freizeitausgleich nur gewährt, soweit es die dienstlichen Erfordernisse gestatten.
+(1) Beamtinnen und Beamte, die zur Wahrnehmung des ihnen übertragenen Amtes im Ausland oder außerhalb des Deutschen Hoheitsgebiets auf Schiffen oder in Luftfahrzeugen verwendet werden und dabei wegen vom Inland wesentlich abweichender Verhältnisse erhöhten Gefahren ausgesetzt sind, können aus dienstlichen Gründen verpflichtet werden,
 
-1.
+1. vorübergehend in einer Gemeinschaftsunterkunft zu wohnen und an einer Gemeinschaftsverpflegung teilzunehmen,
 
-2.
+2. Schutzkleidung zu tragen,
 
-3.
+3. Dienstkleidung zu tragen und
 
-4.
+4. über die regelmäßige Arbeitszeit hinaus ohne besondere Vergütung Dienst zu tun.
 
 (2) Sind nach Absatz 1 verwendete Beamtinnen und Beamte zum Zeitpunkt des vorgesehenen Eintritts in den Ruhestand nach den §§ 25 und 26 oder des vorgesehenen Ablaufs ihrer Amtszeit wegen Verschleppung, Gefangenschaft oder aus sonstigen mit dem Dienst zusammenhängenden Gründen, die sie nicht zu vertreten haben, dem Einflussbereich des Dienstherrn entzogen, verlängert sich das Dienstverhältnis bis zum Ablauf des auf die Beendigung dieses Zustands folgenden Monats.
 

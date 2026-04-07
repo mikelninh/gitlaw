@@ -16,25 +16,25 @@
 
 Das Zentrum für Krebsregisterdaten hat folgende Aufgaben:
 
-1.
+1. die Zusammenführung und die Prüfung der von den Krebsregistern nach § 5 Absatz 1 übermittelten Daten nach Maßgabe des § 6 Absatz 2 Nummer 1,
 
-2.
+2. die Erstellung eines Datensatzes nach Maßgabe des § 6 Absatz 2 Nummer 2,
 
-3.
+3. die Durchführung von Studien und Analysen nach Maßgabe des § 6 Absatz 2 Nummer 3 zu wesentlichen Fragen des bundesweiten Krebsgeschehens,
 
-4.
+4. die Mitarbeit in Gremien und Organisationen nach Maßgabe des § 6 Absatz 2 Nummer 4,
 
-5.
+5. die Zusammenarbeit mit den Krebsregistern nach Maßgabe des § 7,
 
-6.
+6. die Förderung der wissenschaftlichen Nutzung der beim Zentrum für Krebsregisterdaten vorliegenden Daten nach Maßgabe des § 8,
 
-7.
+7. den Aufbau und die Pflege eines öffentlichen Verzeichnisses nach Maßgabe des § 9,
 
-8.
+8. die Einrichtung einer zentralen Antrags- und Registerstelle nach Maßgabe des § 10,
 
-9.
+9. die Berichterstattung zum Krebsgeschehen nach Maßgabe des § 11,
 
-10.
+10. die Erstellung eines Berichts über die Erfahrungen mit der bundesweiten Erfassung von Krebsregisterdaten nach Maßgabe des § 12.
 
 ### § 3 — Beirat
 
@@ -44,31 +44,31 @@ Das Zentrum für Krebsregisterdaten hat folgende Aufgaben:
 
 (3) Das Bundesministerium für Gesundheit beruft für den Beirat unter Berücksichtigung des Bundesgremienbesetzungsgesetzes und nach Unterrichtung des Bundesministeriums für Bildung und Forschung sach- und fachkundige Mitglieder. Die Berufung erfolgt für die Dauer von fünf Jahren. Die mehrmalige Berufung eines Mitglieds ist zulässig. Die Mitglieder des Beirats sind ehrenamtlich tätig. Das Bundesministerium für Gesundheit stellt sicher, dass im Beirat vertreten sind:
 
-1.
+1. an der Krebsregistrierung beteiligte Einrichtungen und Verbände,
 
-2.
+2. auf dem Gebiet der Krebsforschung und der Krebsbehandlung tätige einschlägige wissenschaftliche medizinische Fachgesellschaften,
 
-3.
+3. in der Krebsforschung tätige Forschungseinrichtungen,
 
-4.
+4. die Bundesärztekammer,
 
-5.
+5. der Gemeinsame Bundesausschuss,
 
-6.
+6. der Spitzenverband Bund der Krankenkassen,
 
-7.
+7. der Verband der Privaten Krankenversicherung,
 
-8.
+8. die Deutsche Krankenhausgesellschaft,
 
-9.
+9. die Kassenärztliche Bundesvereinigung,
 
-10.
+10. die Kassenzahnärztliche Bundesvereinigung,
 
-11.
+11. die Patientenorganisationen, die in der Verordnung nach § 140g des Fünften Buches Sozialgesetzbuch genannt oder nach der Verordnung anerkannt sind,
 
-12.
+12. die Länder und
 
-13.
+13. weitere Einzelsachverständige.
 
 (4) Zu den Beratungen des Beirats können neben dessen Mitgliedern nach Abstimmung zwischen dem Beirat und dem Zentrum für Krebsregisterdaten weitere fach- und sachkundige Personen hinzugezogen werden. Das Bundesministerium für Gesundheit und das Bundesministerium für Bildung und Forschung sind berechtigt, als Gäste an den Beratungen des Beirats teilzunehmen.
 
@@ -92,113 +92,15 @@ Das Zentrum für Krebsregisterdaten hat folgende Aufgaben:
 
 (1) Die Krebsregister übermitteln jährlich an das Zentrum für Krebsregisterdaten zur Erfüllung seiner Aufgaben nach § 2 zu allen bis zum Ende eines Kalenderjahres erfassten Erkrankungsfällen von Personen, die ihren Wohnort in dem Erfassungsgebiet des Krebsregisters haben, folgende Daten:
 
-1.
+1. Angaben zur Person: a)Geschlecht,b)Monat und Jahr der Geburt,c)die ersten fünf Ziffern des amtlichen Gemeindeschlüssels des Wohnortes zum Zeitpunkt der Erstdiagnose eines Tumors,d)eine einmalig für die Übermittlung von dem Krebsregister zu vergebende Kennzeichnung der Person, die ausschließlich eine Zuordnung weiterer gemeldeter Tumordiagnosen dieser Person ermöglicht und eine Wiederherstellung des Personenbezugs durch den Empfänger ausschließt, Geschlecht, Monat und Jahr der Geburt, die ersten fünf Ziffern des amtlichen Gemeindeschlüssels des Wohnortes zum Zeitpunkt der Erstdiagnose eines Tumors, eine einmalig für die Übermittlung von dem Krebsregister zu vergebende Kennzeichnung der Person, die ausschließlich eine Zuordnung weiterer gemeldeter Tumordiagnosen dieser Person ermöglicht und eine Wiederherstellung des Personenbezugs durch den Empfänger ausschließt,
 
-a)
+2. Angaben mit Bezug zur Tumordiagnose: a)Tumordiagnose nach dem Schlüssel der Internationalen Klassifikation der Krankheiten in der jeweiligen vom Bundesinstitut für Arzneimittel und Medizinprodukte im Auftrag des Bundesministeriums für Gesundheit herausgegebenen und vom Bundesministerium für Gesundheit in Kraft gesetzten Fassung,b)Monat und Jahr der Erstdiagnose eines Tumors,c)Pathologiebefund: aa)Histologiebefund nach dem Schlüssel der aktuellen Internationalen Klassifikation der onkologischen Krankheiten,bb)Differenzierungsgrad,cc)Anzahl der untersuchten und befallenen Lymphknoten,d)Lokalisation des Tumors einschließlich der Angabe der Seite bei paarigen Organen nach dem Schlüssel der aktuellen Internationalen Klassifikation der onkologischen Krankheiten,e)Art der Diagnosesicherung: aa)ausschließlich über die Todesursache,bb)klinisch,cc)zytologisch,dd)histologisch,ee)durch Obduktion oderff)sonstige Art der Diagnosesicherung einschließlich der Information, ob der Erkrankungsfall initial über die Todesbescheinigung dem Krebsregister bekannt geworden ist,f)Stadium der Erkrankung und tumorspezifische prognostisch und therapeutisch relevante Charakteristika, insbesondere aa)nach der aktuellen Klassifikation maligner Tumore nach dem TNM-Schlüssel zur Darstellung der Größe und des Metastasierungsgrades des Tumors einschließlich der nach dem TNM-Schlüssel vorgesehenen Kennzeichen oderbb)nach der diagnosespezifischen Klassifikation für Tumorformen, für die der TNM-Schlüssel keine Anwendung findet, Tumordiagnose nach dem Schlüssel der Internationalen Klassifikation der Krankheiten in der jeweiligen vom Bundesinstitut für Arzneimittel und Medizinprodukte im Auftrag des Bundesministeriums für Gesundheit herausgegebenen und vom Bundesministerium für Gesundheit in Kraft gesetzten Fassung, Monat und Jahr der Erstdiagnose eines Tumors, Pathologiebefund: aa)Histologiebefund nach dem Schlüssel der aktuellen Internationalen Klassifikation der onkologischen Krankheiten,bb)Differenzierungsgrad,cc)Anzahl der untersuchten und befallenen Lymphknoten, Histologiebefund nach dem Schlüssel der aktuellen Internationalen Klassifikation der onkologischen Krankheiten, Differenzierungsgrad, Anzahl der untersuchten und befallenen Lymphknoten, Lokalisation des Tumors einschließlich der Angabe der Seite bei paarigen Organen nach dem Schlüssel der aktuellen Internationalen Klassifikation der onkologischen Krankheiten, Art der Diagnosesicherung: aa)ausschließlich über die Todesursache,bb)klinisch,cc)zytologisch,dd)histologisch,ee)durch Obduktion oderff)sonstige Art der Diagnosesicherung einschließlich der Information, ob der Erkrankungsfall initial über die Todesbescheinigung dem Krebsregister bekannt geworden ist, ausschließlich über die Todesursache, klinisch, zytologisch, histologisch, durch Obduktion oder sonstige Art der Diagnosesicherung einschließlich der Information, ob der Erkrankungsfall initial über die Todesbescheinigung dem Krebsregister bekannt geworden ist, Stadium der Erkrankung und tumorspezifische prognostisch und therapeutisch relevante Charakteristika, insbesondere aa)nach der aktuellen Klassifikation maligner Tumore nach dem TNM-Schlüssel zur Darstellung der Größe und des Metastasierungsgrades des Tumors einschließlich der nach dem TNM-Schlüssel vorgesehenen Kennzeichen oderbb)nach der diagnosespezifischen Klassifikation für Tumorformen, für die der TNM-Schlüssel keine Anwendung findet, nach der aktuellen Klassifikation maligner Tumore nach dem TNM-Schlüssel zur Darstellung der Größe und des Metastasierungsgrades des Tumors einschließlich der nach dem TNM-Schlüssel vorgesehenen Kennzeichen oder nach der diagnosespezifischen Klassifikation für Tumorformen, für die der TNM-Schlüssel keine Anwendung findet,
 
-b)
+3. Angaben mit Bezug zur Therapie: a)Operation: aa)Monat und Jahr der Operation,bb)Anzahl der Tage zwischen dem Tag der Diagnose und dem Tag der Operation,cc)Intention,dd)Art der Operation nach dem Operationen- und Prozedurenschlüssel,ee)lokaler Residualstatus nach Abschluss der Operation,b)Strahlentherapie: aa)Monat und Jahr des Beginns,bb)Anzahl der Tage zwischen dem Tag der Diagnose und dem Tag des Beginns der Therapie,cc)Dauer der Therapie in Tagen,dd)Intention und Stellung zur operativen Therapie,ee)Zielgebiet,ff)Applikationsart,c)systemische oder abwartende Therapie: aa)Monat und Jahr des Beginns,bb)Anzahl der Tage zwischen dem Tag der Diagnose und dem Tag des Beginns der Therapie,cc)Dauer der Therapie in Tagen,dd)Intention und Stellung zur operativen Therapie,ee)Art der Therapie,ff)weitere Angaben zu aaa)den verwendeten Substanzen oderbbb)dem Protokoll,d)Residualstatus nach Abschluss der Primärtherapie, Operation: aa)Monat und Jahr der Operation,bb)Anzahl der Tage zwischen dem Tag der Diagnose und dem Tag der Operation,cc)Intention,dd)Art der Operation nach dem Operationen- und Prozedurenschlüssel,ee)lokaler Residualstatus nach Abschluss der Operation, Monat und Jahr der Operation, Anzahl der Tage zwischen dem Tag der Diagnose und dem Tag der Operation, Intention, Art der Operation nach dem Operationen- und Prozedurenschlüssel, lokaler Residualstatus nach Abschluss der Operation, Strahlentherapie: aa)Monat und Jahr des Beginns,bb)Anzahl der Tage zwischen dem Tag der Diagnose und dem Tag des Beginns der Therapie,cc)Dauer der Therapie in Tagen,dd)Intention und Stellung zur operativen Therapie,ee)Zielgebiet,ff)Applikationsart, Monat und Jahr des Beginns, Anzahl der Tage zwischen dem Tag der Diagnose und dem Tag des Beginns der Therapie, Dauer der Therapie in Tagen, Intention und Stellung zur operativen Therapie, Zielgebiet, Applikationsart, systemische oder abwartende Therapie: aa)Monat und Jahr des Beginns,bb)Anzahl der Tage zwischen dem Tag der Diagnose und dem Tag des Beginns der Therapie,cc)Dauer der Therapie in Tagen,dd)Intention und Stellung zur operativen Therapie,ee)Art der Therapie,ff)weitere Angaben zu aaa)den verwendeten Substanzen oderbbb)dem Protokoll, Monat und Jahr des Beginns, Anzahl der Tage zwischen dem Tag der Diagnose und dem Tag des Beginns der Therapie, Dauer der Therapie in Tagen, Intention und Stellung zur operativen Therapie, Art der Therapie, weitere Angaben zu aaa)den verwendeten Substanzen oderbbb)dem Protokoll, den verwendeten Substanzen oder dem Protokoll, Residualstatus nach Abschluss der Primärtherapie,
 
-c)
+4. Angaben mit Bezug zum Verlauf der Erkrankung: a)Angaben zu Rezidiven und Remissionen einschließlich Angaben zum Monat und Jahr der Feststellung,b)Angaben zur neu aufgetretenen Metastasierung und zum Ort dieser Metastasierung einschließlich Angaben zu Monat und Jahr der Feststellung, Angaben zu Rezidiven und Remissionen einschließlich Angaben zum Monat und Jahr der Feststellung, Angaben zur neu aufgetretenen Metastasierung und zum Ort dieser Metastasierung einschließlich Angaben zu Monat und Jahr der Feststellung,
 
-d)
-
-2.
-
-a)
-
-b)
-
-c)
-
-aa)
-
-bb)
-
-cc)
-
-d)
-
-e)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-ff)
-
-f)
-
-aa)
-
-bb)
-
-3.
-
-a)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-b)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-ff)
-
-c)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-ff)
-
-aaa)
-
-bbb)
-
-d)
-
-4.
-
-a)
-
-b)
-
-5.
-
-a)
-
-b)
-
-c)
+5. Angaben im Sterbefall: a)Sterbemonat und Sterbejahr,b)Todesursachen,c)Anzahl der Tage zwischen dem Tag der Diagnose und dem Sterbetag. Sterbemonat und Sterbejahr, Todesursachen, Anzahl der Tage zwischen dem Tag der Diagnose und dem Sterbetag.
 
 (2) Die Übermittlung der Daten hat spätestens bis zum 31. Dezember des nächsten Kalenderjahres zu erfolgen; dabei sind die Daten nach Absatz 1 möglichst vollständig zu übermitteln. Die Übermittlung nach Absatz 1 erfolgt erstmals bis zum 31. Dezember 2022.
 
@@ -208,23 +110,11 @@ c)
 
 (5) Das Zentrum für Krebsregisterdaten hat den jährlich von den Krebsregistern nach Absatz 2 übermittelten Datensatz spätestens nach zwei Jahren nach der Übermittlung zu löschen.
 
-(6) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Folgendes festzulegen: In der Rechtsverordnung darf nicht festgelegt werden, dass die Krebsregister verpflichtet sind, an das Zentrum für Krebsregisterdaten andere als die in Absatz 1 Nummer 1 genannten Angaben zur Person oder Angaben zu den Leistungserbringern zu übermitteln.
+(6) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Folgendes festzulegen:
 
-1.
+1. die Pflicht der Krebsregister, weitere Angaben mit folgendem Bezug nach Absatz 1 an das Zentrum für Krebsregisterdaten zu übermitteln: a)Angaben mit Bezug zur Tumordiagnose einschließlich Angaben aa)zum Pathologiebefund,bb)zu spezifischen tumordiagnostischen Charakteristika undcc)zu genetischen Varianten, sobald diese Angaben von den Krebsregistern qualitätsgesichert erhoben werden,b)Angaben mit Bezug zur Therapie undc)Angaben mit Bezug zum Verlauf der Erkrankung, Angaben mit Bezug zur Tumordiagnose einschließlich Angaben aa)zum Pathologiebefund,bb)zu spezifischen tumordiagnostischen Charakteristika undcc)zu genetischen Varianten, sobald diese Angaben von den Krebsregistern qualitätsgesichert erhoben werden, zum Pathologiebefund, zu spezifischen tumordiagnostischen Charakteristika und zu genetischen Varianten, sobald diese Angaben von den Krebsregistern qualitätsgesichert erhoben werden, Angaben mit Bezug zur Therapie und Angaben mit Bezug zum Verlauf der Erkrankung,
 
-a)
-
-aa)
-
-bb)
-
-cc)
-
-b)
-
-c)
-
-2.
+2. die Fristen zur Übermittlung der Angaben.
 
 ### § 6 — Datenverarbeitung und Datenübermittlung, Mitarbeit in Organisationen
 
@@ -232,23 +122,13 @@ c)
 
 (2) Das Zentrum für Krebsregisterdaten
 
-1.
+1. führt die von den Krebsregistern nach § 5 Absatz 1 übermittelten qualitätsgesicherten Daten zusammen und prüft diese auf Einheitlichkeit, Vollständigkeit und Vollzähligkeit,
 
-2.
+2. erstellt einen bundesweit einheitlichen Datensatz aus den von den Krebsregistern übermittelten Daten,
 
-3.
+3. führt Studien und Analysen zu wesentlichen Fragen des bundesweiten Krebsgeschehens einschließlich der Analyse regionaler Unterschiede durch, insbesondere zu a)den jährlichen Krebsneuerkrankungszahlen und Krebssterberaten,b)dem Verlauf der Erkrankungen,c)der Stadienverteilung bei Diagnose der Krebskrankheit,d)weiteren Indikatoren des Krebsgeschehens, insbesondere Prävalenz, Erkrankungsrisiken und Sterberisiken,e)dem Versorgungsgeschehen und den jährlichen Krebsneuerkrankungszahlen und Krebssterberaten, dem Verlauf der Erkrankungen, der Stadienverteilung bei Diagnose der Krebskrankheit, weiteren Indikatoren des Krebsgeschehens, insbesondere Prävalenz, Erkrankungsrisiken und Sterberisiken, dem Versorgungsgeschehen und
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-4.
+4. arbeitet in wissenschaftlichen Gremien, europäischen und internationalen Organisationen mit Bezug zur Krebsregistrierung und Krebsepidemiologie mit.
 
 ### § 7 — Zusammenarbeit mit den Krebsregistern
 
@@ -266,11 +146,11 @@ e)
 
 ### § 8 — Datenübermittlung und Datenbereitstellung zu Forschungszwecken
 
-(1) Das Zentrum für Krebsregisterdaten soll grundsätzlich öffentlichen und privaten Einrichtungen und Personen auf Antrag Daten zu wissenschaftlichen Forschungszwecken übermitteln, soweit Das Zentrum für Krebsregisterdaten kann einem Antragsteller nach Satz 1 auch aggregierte Daten, die entsprechend den Anforderungen des Antragstellers ausgewählt worden sind, übermitteln. Die in den Sätzen 1 und 2 genannten Daten sind den Datenempfängern in anonymisierter Form zu übermitteln.
+(1) Das Zentrum für Krebsregisterdaten soll grundsätzlich öffentlichen und privaten Einrichtungen und Personen auf Antrag Daten zu wissenschaftlichen Forschungszwecken übermitteln, soweit
 
-1.
+1. im Antrag nachvollziehbar dargelegt ist, dass der Umfang und die Struktur der beantragten Daten geeignet und erforderlich sind, um die zu untersuchenden Fragen zu beantworten, und
 
-2.
+2. das im Antrag angegebene Vorhaben mit den beim Zentrum für Krebsregisterdaten vorliegenden Daten bearbeitet werden kann und eine länderübergreifende Auswertung erfordert.
 
 (2) Im Antrag sind insbesondere Zweck und Umfang der Nutzung der beantragten Daten sowie der methodische Ansatz der Datenverarbeitung zu begründen. Der Antrag hat Angaben zu den an der Datenverarbeitung beteiligten Personen und dazu zu enthalten, ob und gegebenenfalls mit welchen anderen Datenbeständen eine Zusammenführung der beantragten Daten vorgesehen ist.
 
@@ -284,11 +164,11 @@ e)
 
 (7) Die Bereitstellung der pseudonymisierten Einzeldatensätze nach Absatz 6 ist nur zulässig, sofern gewährleistet ist, dass diese Daten nur solchen Personen bereitgestellt werden, die einer beruflichen Geheimhaltungspflicht im Sinne des § 203 des Strafgesetzbuches unterliegen. Personen, die keiner Geheimhaltungspflicht im Sinne des § 203 des Strafgesetzbuches unterliegen, können pseudonymisierte Einzeldatensätze nach Absatz 6 bereitgestellt werden, wenn sie vor dem Zugang zur Geheimhaltung verpflichtet wurden. § 1 Absatz 2, 3 und 4 Nummer 2 des Verpflichtungsgesetzes gilt entsprechend.
 
-(8) Die Datenempfänger dürfen die nach Absatz 1 Satz 1 oder Satz 2 übermittelten Daten und die nach Absatz 6 Satz 1 bereitgestellten pseudonymisierten Einzeldatensätze Die Datenempfänger haben bei der Verarbeitung der nach Absatz 1 übermittelten Daten oder der nach Absatz 6 bereitgestellten pseudonymisierten Einzeldatensätze darauf zu achten, keinen Bezug zu Personen herzustellen. Wird ein Bezug zu Personen unbeabsichtigt hergestellt, so ist dies dem Zentrum für Krebsregisterdaten zu melden. Die Verarbeitung der übermittelten oder bereitgestellten Daten zum Zweck der Herstellung eines Personenbezugs ist untersagt.
+(8) Die Datenempfänger dürfen die nach Absatz 1 Satz 1 oder Satz 2 übermittelten Daten und die nach Absatz 6 Satz 1 bereitgestellten pseudonymisierten Einzeldatensätze
 
-1.
+1. nur für die Zwecke nutzen, für die sie übermittelt oder bereitgestellt werden,
 
-2.
+2. nicht an Dritte weitergeben, es sei denn, das Zentrum für Krebsregisterdaten hat auf Antrag des Datenempfängers der Weitergabe zugestimmt.
 
 (9) Wenn die zuständige Datenschutzaufsichtsbehörde feststellt, dass Datenempfänger die vom Zentrum für Krebsregisterdaten nach Absatz 1 übermittelten Daten oder nach Absatz 6 bereitgestellten pseudonymisierten Einzeldatensätze in einer Art und Weise verarbeitet haben, die nicht den geltenden datenschutzrechtlichen Vorschriften oder den Auflagen des Zentrums für Krebsregisterdaten entspricht, und die zuständige Datenaufsichtsbehörde wegen eines solchen Verstoßes eine Maßnahme nach Artikel 58 Absatz 2 Buchstabe b bis j der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) gegenüber den Datenempfängern ergriffen hat, informiert sie das Zentrum für Krebsregisterdaten darüber. In diesem Fall schließt das Zentrum für Krebsregisterdaten die Datenempfänger für einen Zeitraum von bis zu zwei Jahren vom Datenzugang aus.
 
@@ -300,23 +180,23 @@ e)
 
 (1) Das Zentrum für Krebsregisterdaten führt ein öffentliches Verzeichnis über die nach § 8 bewilligten Anträge. In dem Verzeichnis ist für jeden bewilligten Antrag Folgendes anzugeben:
 
-1.
+1. Name und Anschrift des Datenempfängers,
 
-2.
+2. Titel des Forschungsvorhabens sowie eine kurze Beschreibung des Forschungsvorhabens und des mit dem Forschungsvorhaben verfolgten Forschungsziels,
 
-3.
+3. nach der Veröffentlichung von Ergebnissen eine kurze Ergebnisdarstellung oder Verweise auf die Publikationen, die auf den Ergebnissen des Forschungsvorhabens beruhen,
 
-4.
+4. Kalenderjahr der Entscheidung über den Antrag.
 
 (2) Mit Zustimmung der Datenempfänger können weitere sachliche Angaben zum Forschungsvorhaben in das Verzeichnis aufgenommen werden. Weitere personenbezogene Angaben dürfen nur mit Einwilligung der betroffenen Personen in das Verzeichnis aufgenommen werden.
 
 ### § 10 — Zentrale Antrags- und Registerstelle, Schaffung einer Plattform
 
-Beim Zentrum für Krebsregisterdaten wird eine zentrale Antrags- und Registerstelle eingerichtet. Aufgabe der zentralen Antrags- und Registerstelle ist die Das Zentrum für Krebsregisterdaten, die Arbeitsgemeinschaft Deutscher Tumorzentren, die Deutsche Krebsgesellschaft, die Deutsche Krebshilfe und die Krebsregister erarbeiten gemeinsam mit Vertretern von Patientenorganisationen, die in der Verordnung nach § 140g des Fünften Buches Sozialgesetzbuch genannt oder nach der Verordnung anerkannt sind, bis zum 31. Dezember 2024 ein Konzept zur Schaffung einer Plattform, die eine bundesweite anlassbezogene Datenzusammenführung und Analyse der Krebsregisterdaten aus den Ländern sowie eine Verknüpfung von Krebsregisterdaten mit anderen Daten ermöglicht und die klinisch-wissenschaftliche Auswertung der Krebsregisterdaten fördert. Die Belange des Datenschutzes und der Informationssicherheit sind bei der Konzepterstellung zu berücksichtigen.
+Beim Zentrum für Krebsregisterdaten wird eine zentrale Antrags- und Registerstelle eingerichtet. Aufgabe der zentralen Antrags- und Registerstelle ist die
 
-1.
+1. Entgegennahme der Anträge auf Nutzung von Krebsregisterdaten mehrerer Krebsregister zu wissenschaftlichen Forschungszwecken und die Weiterleitung dieser Anträge an die Krebsregister und
 
-2.
+2. Registrierung der an das Zentrum für Krebsregisterdaten gemeldeten Entscheidungen der Krebsregister über die Anträge nach Nummer 1 und die Weiterleitung der Entscheidung an die Antragsteller.
 
 ### § 11 — Berichterstattung zum Krebsgeschehen
 
@@ -332,21 +212,21 @@ Beim Zentrum für Krebsregisterdaten wird eine zentrale Antrags- und Registerste
 
 ### § 12 — Bericht über die Erfahrungen mit der bundesweiten Erfassung von Krebsregisterdaten
 
-Das Zentrum für Krebsregisterdaten berichtet dem Bundesministerium für Gesundheit zum 31. Dezember 2025 im Einvernehmen mit den Krebsregistern über die Erfahrungen mit der bundesweiten Erfassung von Krebsregisterdaten. Der Bericht soll die folgenden Angaben enthalten: Das Zentrum für Krebsregisterdaten veröffentlicht den Bericht auf seiner Internetseite.
+Das Zentrum für Krebsregisterdaten berichtet dem Bundesministerium für Gesundheit zum 31. Dezember 2025 im Einvernehmen mit den Krebsregistern über die Erfahrungen mit der bundesweiten Erfassung von Krebsregisterdaten. Der Bericht soll die folgenden Angaben enthalten:
 
-1.
+1. Angaben über die Datenqualität,
 
-2.
+2. Erfahrungen mit der Art und mit dem Umfang der von den Krebsregistern übermittelten Daten und Erfahrungen aus der Zusammenarbeit mit den Krebsregistern sowie
 
-3.
+3. Angaben über die Antragsbearbeitung und die Datenbereitstellung, einschließlich einer Statistik über die nachgefragten Datensätze.
 
 ### § 13 — Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
-1.
+1. entgegen § 8 Absatz 8 Satz 1 Nummer 2 die dort genannten Daten weitergibt oder
 
-2.
+2. entgegen § 8 Absatz 8 Satz 4 die dort genannten Daten verarbeitet.
 
 (2) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder einen Anderen zu bereichern oder einen Anderen zu schädigen, so ist die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
 

@@ -9,15 +9,11 @@ Rechengrößen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 
 ### Eingangsformel
 
-Auf Grund der verordnet der Bundesminister für Arbeit und Sozialordnung und auf Grund der verordnet die Bundesregierung:
+Auf Grund der
 
--
+- Anlage I Kapitel VIII Sachgebiet F Abschnitt III Nr. 1 Buchstabe c Satz 2 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1046) und der
 
--
-
--
-
--
+- Anlage II Kapitel VIII Sachgebiet F Abschnitt III Nr. 1 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1213) und § 42 Abs. 2 des Gesetzes über die Sozialversicherung vom 28. Juni 1990 (GBl. I Nr. 38 S. 486)
 
 ### § 1 — Bezugsgröße
 
@@ -51,8 +47,6 @@ Die sich nach den §§ 4 und 5 ergebenden Erhöhungsbeträge werden auf den Sozi
 
 (1) Anpassungsbeträge nach den §§ 4 und 5 werden auf gleichartige zusätzliche Versorgungen in Höhe des Betrages angerechnet, um den sie zusammen mit den bisherigen Zahlbeträgen der Rente und der gleichartigen zusätzlichen Versorgung den nach Absatz 2 maßgebenden Grenzwert überschreiten.
 
-(2) Die Grenzwerte betragen für
-
 ### § 9 — Renten mit Sonderversorgung
 
 (1) Renten, die wegen Bezugs einer Sonderversorgung nicht anzugleichen waren, werden nach den Bestimmungen des Ersten und Zweiten Abschnitts des Rentenangleichungsgesetzes angeglichen und nach den Bestimmungen der 1. Rentenanpassungsverordnung sowie dieser Verordnung angepaßt.
@@ -62,8 +56,6 @@ Die sich nach den §§ 4 und 5 ergebenden Erhöhungsbeträge werden auf den Sozi
 ### § 10 — Berechnung der in der Zeit vom 1. Juli 1991
 bis 31. Dezember 1991 entstehenden Rentenansprüche
 aus der Rentenversicherung
-
-In der Zeit vom 1. Juli 1991 bis 31. Dezember 1991 entstehende Rentenansprüche sind nach den sonst maßgebenden Vorschriften zu ermitteln und nach der 1. Rentenanpassungsverordnung sowie dieser Verordnung anzupassen. Für sie gelten anstelle der in der Anlage zum Rentenangleichungsgesetz enthaltenen Prozentsätze folgende Prozentsätze:
 
 ### § 11 — Inkrafttreten
 

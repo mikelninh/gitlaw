@@ -12,7 +12,11 @@ Dem in Straßburg am 6. Dezember 1965 von der Bundesrepublik Deutschland unterze
 
 ### Art 2
 
-(1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer eine Rundfunksendestelle errichtet oder betreibt, wenn die Tat nicht nach § 15 Abs. 1 Satz 1 des Gesetzes über Fernmeldeanlagen mit schwererer Strafe bedroht ist. Ebenso wird bestraft, wer eine Sendung einer Rundfunksendestelle bestellt oder durchführt.(2) Der Versuch ist strafbar.(3) Rundfunksendestellen im Sinne dieses Artikels sind die in den Artikeln 1 und 4 Buchstabe b des Übereinkommens bezeichneten Sendestellen.
+(1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer eine Rundfunksendestelle errichtet oder betreibt, wenn die Tat nicht nach § 15 Abs. 1 Satz 1 des Gesetzes über Fernmeldeanlagen mit schwererer Strafe bedroht ist. Ebenso wird bestraft, wer eine Sendung einer Rundfunksendestelle bestellt oder durchführt.
+
+(2) Der Versuch ist strafbar.
+
+(3) Rundfunksendestellen im Sinne dieses Artikels sind die in den Artikeln 1 und 4 Buchstabe b des Übereinkommens bezeichneten Sendestellen.
 
 ### Art 3
 
@@ -28,4 +32,6 @@ Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung die
 
 ### Art 6
 
-(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 9 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
+(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
+
+(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 9 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.

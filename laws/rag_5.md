@@ -17,17 +17,9 @@ Bemessungsgrundlage für das Jahr 1962
 
 ### § 2
 
-(1) Renten, die nach §§ 1253ff. der Reichsversicherungsordnung, §§ 30ff. des Angestelltenversicherungsgesetzes oder §§ 53ff. des Reichsknappschaftsgesetzes berechnet sind, sind so anzupassen, daß sich eine Rente ergibt, wie sie sich nach Anwendung der Kürzungs- und Ruhensvorschriften ergeben würde, wenn die Rente ohne Änderung der übrigen Berechnungsfaktoren unter Zugrundelegung der allgemeinen Bemessungsgrundlage für das Jahr 1962 und der Beitragsbemessungsgrenze für dieses Jahr berechnet werden würde; Abweichungen infolge Abrundungen sind zulässig. § 1282 Abs. 2 der Reichsversicherungsordnung, § 59 Abs. 2 des Angestelltenversicherungsgesetzes und § 79 Abs. 2 des Reichsknappschaftsgesetzes gelten nicht. In den Fällen, in denen § 1280 der Reichsversicherungsordnung, § 57 des Angestelltenversicherungsgesetzes, § 77 des Reichsknappschaftsgesetzes, Artikel 2 § 38 Abs. 3 Satz 2 zweiter Halbsatz des Arbeiterrentenversicherungs-Neuregelungsgesetzes oder Artikel 2 § 37 Abs. 3 Satz 2 zweiter Halbsatz des Angestelltenversicherungs-Neuregelungsgesetzes angewendet worden ist, findet Satz 1 keine Anwendung.
-
-(2) Absatz 1 Satz 1 und 2 gelten entsprechend für Renten der knappschaftlichen Rentenversicherung, die nach Artikel 2 § 24 Abs. 5 des Knappschaftsrentenversicherungs-Neuregelungsgesetzes gezahlt werden.
-
-> § 2 Kursivdruck: § 1282 Abs. 2 RVO aufgeh. durch Art. 2 Nr. 27, § 59 Abs. 2 AVG aufgeh. durch Art. 3 Nr. 3 u. § 79 Abs. 2 RKG aufgeh. durch Art. 4 Nr. 5 G v. 1.12.1981 I 1205 mWv 5.12.1981 § 2 Kursivdruck: §§ 1253 bis 1256, §§ 1267 bis 1286 RVO aufgeh. durch Art. 6 Nr. 24 G v. 18.12.1989 I 2261 mWv 1.1.1992
-
 ### § 3
 
 (1) Renten nach Artikel 2 §§ 32 bis 35 des Arbeiterrentenversicherungs-Neuregelungsgesetzes oder Artikel 2 §§ 31 bis 34 des Angestelltenversicherungs-Neuregelungsgesetzes sind so anzupassen, daß sich eine Rente ergibt, wie sie sich nach Anwendung der Ruhensvorschriften ergeben würde, wenn die Rente erneut umgestellt und dabei vor Anwendung der Ruhensvorschriften der ungekürzte Rentenbetrag ohne Kinderzuschuß für jedes Kind und ohne Steigerungsbeträge aus Beiträgen der Höherversicherung mit 1,3263 vervielfältigt und der Kinderzuschuß für jedes Kind nach der allgemeinen Bemessungsgrundlage für das Jahr 1962 berechnet werden würde; Abweichungen infolge Abrundungen sind zulässig. § 2 Abs. 1 Satz 2 ist anzuwenden. In den Fällen, in denen § 1280 der Reichsversicherungsordnung oder § 57 des Angestelltenversicherungsgesetzes angewendet worden ist, findet Satz 1 keine Anwendung.
-
-(2) Artikel 2 § 34 des Arbeiterrentenversicherungs-Neuregelungsgesetzes und Artikel 2 § 33 des Angestelltenversicherungs-Neuregelungsgesetzes sind mit der Maßgabe anzuwenden, daß an Stelle der in diesen Vorschriften genannten Werte die nachstehenden Werte zugrunde zu legen sind:
 
 (3) Die Verordnung über die Anwendung der Ruhensvorschriften der Reichsversicherungsordnung und des Angestelltenversicherungsgesetzes auf umzustellende Renten der Rentenversicherungen der Arbeiter und der Angestellten vom 9. Juli 1957 (Bundesgesetzbl. I S. 704) findet mit der Maßgabe Anwendung, daß in § 1 Abs. 3 und § 2 Abs. 4 der Verordnung an die Stelle des Betrags von 7.650 Deutsche Mark der Betrag von 9.690 Deutsche Mark, in § 3 Abs. 1 der Verordnung an die Stelle des Betrags von 171,60 Deutsche Mark der Betrag von 227 Deutsche Mark und an die Stelle des Betrags von 471,60 Deutsche Mark der Betrag von 624,90 Deutsche Mark, in § 3 Abs. 2 der Verordnung an die Stelle des Betrags von 4.281 Deutsche Mark der Betrag von 5.678 Deutsche Mark und in § 4 Abs. 2 Satz 4 der Verordnung an die Stelle des Betrags von 750 Deutsche Mark der Betrag von 950 Deutsche Mark tritt.
 
@@ -35,11 +27,11 @@ Bemessungsgrundlage für das Jahr 1962
 
 (1) Die übrigen Renten werden in der Weise angepaßt, daß der nach § 5 zu ermittelnde Anpassungsbetrag mit 1,066 vervielfältigt wird; dem sich dadurch ergebenden Betrag sind der Kinderzuschuß und die der Anpassung nicht unterliegenden Rententeile wieder hinzuzufügen. Der Kinderzuschuß für jedes Kind ist nach der allgemeinen Bemessungsgrundlage des Jahres 1962 zu berechnen.
 
-(2) Renten nach Absatz 1, die mit einer Rente aus der gesetzlichen Unfallversicherung zusammentreffen und auf die §§ 1278, 1279 der Reichsversicherungsordnung, §§ 55, 56 des Angestelltenversicherungsgesetzes oder §§ 75, 76 des Reichsknappschaftsgesetzes anzuwenden sind, sind so anzupassen, daß sie mindestens den Betrag erreichen, der sich ergibt, angepaßt werden würden.
+(2) Renten nach Absatz 1, die mit einer Rente aus der gesetzlichen Unfallversicherung zusammentreffen und auf die §§ 1278, 1279 der Reichsversicherungsordnung, §§ 55, 56 des Angestelltenversicherungsgesetzes oder §§ 75, 76 des Reichsknappschaftsgesetzes anzuwenden sind, sind so anzupassen, daß sie mindestens den Betrag erreichen, der sich ergibt,
 
-a)
+a) bei Renten aus Versicherungsfällen nach dem 31. Dezember 1956 und bei Renten mit Leistungen oder Leistungsanteilen aus der knappschaftlichen Rentenversicherung, wenn sie nach § 2,
 
-b)
+b) bei den übrigen Renten aus Versicherungsfällen vor dem 1. Januar 1957, wenn sie nach § 3
 
 ### § 5
 
@@ -72,8 +64,6 @@ Soweit bei Versorgungsbezügen nach dem Bundesversorgungsgesetz und den Gesetzen
 (1) Jedem Rentenempfänger ist eine schriftliche Mitteilung über die Höhe seiner Rente, die ihm vom 1. Januar 1963 an zusteht, zu geben.
 
 (2) Ergibt eine spätere Überprüfung, daß die Anpassung fehlerhaft ist, so ist sie zu berichtigen. Die Rente ist in ihrer bisherigen Höhe bis zum Ablauf des Monats zu gewähren, in dem der Berichtigungsbescheid zugestellt wird. Eine Rückforderung überzahlter Beträge findet nicht statt. Die Berichtigung ist nur bis zum 31. Dezember 1963 zulässig.
-
-(3) § 1300 der Reichsversicherungsordnung, § 79 des Angestelltenversicherungsgesetzes und § 93 Abs. 1 des Reichsknappschaftsgesetzes bleiben unberührt.
 
 > § 9 Abs. 3 Kursivdruck: § 1300 RVO aufgeh. durch Art. II § 4 Nr. 1, § 79 AVG aufgeh. durch Art. II § 6 Nr. 1 u. § 93 Abs. 1 RKG aufgeh. durch Art. II § 8 Nr. 1 G v. 18.8.1980 I 1469 mWv 1.1.1981
 

@@ -36,19 +36,17 @@ gesetzlichen Rentenversicherungen
 
 (1) Renten nach Artikel 2 §§ 32 bis 35 des Arbeiterrentenversicherungs-Neuregelungsgesetzes und Artikel 2 §§ 31 bis 34 des Angestelltenversicherungs-Neuregelungsgesetzes sind so anzupassen, daß sich eine Rente ergibt, wie sie sich nach Anwendung der Ruhensvorschriften ergeben würde, wenn die Rente erneut umgestellt und dabei vor Anwendung der Ruhensvorschriften der ungekürzte Rentenbetrag ohne Kinderzuschuß für jedes Kind und ohne Steigerungsbeträge aus Beiträgen der Höherversicherung mit 4,283 vervielfältigt und der Kinderzuschuß für jedes Kind nach der allgemeinen Bemessungsgrundlage für das Jahr 1976 berechnet würde; Abweichungen infolge Abrundungen sind zulässig. § 2 Abs. 1 Satz 2 ist anzuwenden.
 
-(2) Artikel 2 § 34 des Arbeiterrentenversicherungs-Neuregelungsgesetzes und Artikel 2 § 33 des Angestelltenversicherungs-Neuregelungsgesetzes sind mit der Maßgabe anzuwenden, daß an Stelle der in diesen Vorschriften genannten Werte die nachstehenden Werte zugrunde zu legen sind:
-
 (3) Die Verordnung über die Anwendung der Ruhensvorschriften der Reichsversicherungsordnung und des Angestelltenversicherungsgesetzes auf umzustellende Renten der Rentenversicherung der Arbeiter und Angestellten vom 9. Juli 1957 (Bundesgesetzbl. I S. 704) findet mit der Maßgabe Anwendung, daß in § 1 Abs. 3 und § 2 Abs. 4 der Verordnung an die Stelle des Betrags von 7.650 Deutsche Mark der Betrag von 31.172,90 Deutsche Mark, in § 3 Abs. 1 der Verordnung an die Stelle des Betrags von 171,60 Deutsche Mark der Betrag von 735,00 Deutsche Mark, an die Stelle des Betrags von 471,60 Deutsche Mark der Betrag von 2.019,90 Deutsche Mark und in § 3 Abs. 2 der Verordnung an die Stelle des Betrags von 4.281 Deutsche Mark der Betrag von 18.337 Deutsche Mark tritt.
 
 ### § 4
 
 (1) Die übrigen Renten sind so anzupassen, daß sich eine Rente ergibt, wie sie sich ergeben würde, wenn der nach § 5 zu ermittelnde Anpassungsbetrag mit 1,11 und der Leistungszuschlag der knappschaftlichen Rentenversicherung und der nach § 75 Abs. 1 Satz 2 des Reichsknappschaftsgesetzes zu belassende Betrag mit 1,118 vervielfältigt und der Kinderzuschuß für jedes Kind nach der allgemeinen Bemessungsgrundlage des Jahres 1976 berechnet würde; Abweichungen infolge Abrundungen sind zulässig. Die Steigerungsbeträge aus Beiträgen der Höherversicherung bleiben unberührt. § 2 Abs. 1 Satz 2 findet Anwendung.
 
-(2) Renten nach Absatz 1, die mit einer Rente aus der gesetzlichen Unfallversicherung zusammentreffen und auf die die §§ 1278 und 1279 der Reichsversicherungsordnung, §§ 55 und 56 des Angestelltenversicherungsgesetzes oder §§ 75 und 76 des Reichsknappschaftsgesetzes anzuwenden sind, sind so anzupassen, daß sie mindestens den Betrag erreichen, der sich ergibt angepaßt würden.
+(2) Renten nach Absatz 1, die mit einer Rente aus der gesetzlichen Unfallversicherung zusammentreffen und auf die die §§ 1278 und 1279 der Reichsversicherungsordnung, §§ 55 und 56 des Angestelltenversicherungsgesetzes oder §§ 75 und 76 des Reichsknappschaftsgesetzes anzuwenden sind, sind so anzupassen, daß sie mindestens den Betrag erreichen, der sich ergibt
 
-a)
+a) bei Renten aus Versicherungsfällen nach dem 31. Dezember 1956 und bei Renten mit Leistungen oder Leistungsanteilen aus der knappschaftlichen Rentenversicherung, wenn sie nach § 2,
 
-b)
+b) bei den übrigen Renten aus Versicherungsfällen vor dem 1. Januar 1957, wenn sie nach § 3
 
 ### § 5
 
@@ -80,8 +78,6 @@ und des Pflegegeldes aus der gesetzlichen Unfallversicherung
 ### § 9
 
 (1) In der gesetzlichen Unfallversicherung werden aus Anlaß der Veränderung der durchschnittlichen Bruttolohn- und -gehaltssumme zwischen den Kalenderjahren 1974 und 1975 die vom Jahresarbeitsverdienst abhängigen Geldleistungen für Unfälle, die im Jahre 1974 oder früher eingetreten sind, und das Pflegegeld für Bezugszeiten vom 1. Januar 1977 an nach Maßgabe der §§ 10 und 11 angepaßt.
-
-(2) Absatz 1 gilt nicht, soweit die Geldleistungen in der landwirtschaftlichen Unfallversicherung nach einem durchschnittlichen Jahresarbeitsverdienst berechnet sind, soweit die Geldleistungen auf Grund des § 13 Abs. 2 des Achtzehnten Rentenanpassungsgesetzes gewährt werden.
 
 (3) Als Geldleistung im Sinne des Absatzes 1 gilt auch eine Leistung nach § 27 des Sozialversicherungs-Angleichungsgesetzes Saar vom 15. Juni 1963 (Bundesgesetzbl. I S. 402), die von einem Träger der gesetzlichen Unfallversicherung zu gewähren ist.
 
@@ -118,8 +114,6 @@ In der Altershilfe für Landwirte werden wegen der Veränderung der allgemeinen 
 
 (2) Ergibt eine spätere Überprüfung, daß die Anpassung fehlerhaft ist, so ist sie zu berichtigen. Die Leistung ist in ihrer bisherigen Höhe bis zum Ablauf des Monats zu gewähren, in dem der Berichtigungsbescheid zugestellt wird. Eine Rückforderung überzahlter Beträge findet nicht statt. Die Berichtigung ist nur innerhalb eines Jahres nach dem Zeitpunkt, von dem an die Anpassung der Leistung nach diesem Gesetz wirksam wird, zulässig.
 
-(3) Die §§ 627 und 1300 der Reichsversicherungsordnung, § 79 des Angestelltenversicherungsgesetzes und § 93 Abs. 1 des Reichsknappschaftsgesetzes bleiben unberührt.
-
 ### (XXXX) §§ 15 bis 26
 
 ## Sechster Abschnitt: Übergangs- und Schlußvorschriften
@@ -143,7 +137,5 @@ Die Erhöhungsbeträge auf Grund dieses Gesetzes bleiben vom 1. Juli bis 31. Dez
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
 ### § 32
-
-(1) Es treten in Kraft: § 25 mit Wirkung vom 4. August 1974, § 15 Nr. 4 mit Wirkung vom 1. Oktober 1974, §§ 18, 19 Nr. 1, §§ 20 und 21, §§ 24 und 29 mit Wirkung vom 1. Dezember 1974, § 15 Nr. 5 bis 7 mit Wirkung vom 1. Januar 1976, § 15 Nr. 2, 3, 10 und 11, § 16 Nr. 2 und 3, § 17 Nr. 2 und 3, § 23 Nr. 1 und § 28 am 1. Juli 1976, § 15 Nr. 1 und § 23 Nr. 2 am 1. Januar 1977, die übrigen Vorschriften am Tag nach der Verkündung.
 
 (2) Soweit auf Grund des § 29 Leistungen vor dem 1. Dezember 1974 beginnen, gelten die durch dieses Gesetz vorgenommenen Änderungen auch für die Zeit vor dem 1. Dezember 1974.

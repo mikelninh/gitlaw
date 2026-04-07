@@ -25,5 +25,3 @@ Für die in der Anlage mit den Teilen A, B und C aufgeführten Arzneimittelgrupp
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft. Die nach § 1 angepassten und nach § 2 angeglichenen Festbeträge werden mit Wirkung vom 1. Januar 2002 angewendet; bis zu diesem Zeitpunkt werden die bisherigen Festbeträge angewendet.
 
 ### Anlage — (zu § 1)
-
-(Inhalt: nicht darstellbare Anlage,

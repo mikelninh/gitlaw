@@ -31,4 +31,6 @@ Artikel 3 des Gesetzes vom 5. Juni 1996 zum Abkommen vom 10. November 1995 zwisc
 
 ### Art 5
 
-(1) Die Artikel 1 bis 3 dieses Gesetzes treten am Tage nach der Verkündung in Kraft. Der Tag, an dem das in Artikel 1 genannte Abkommen nach seinem Artikel 6 Abs. 6 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.(2)
+(1) Die Artikel 1 bis 3 dieses Gesetzes treten am Tage nach der Verkündung in Kraft. Der Tag, an dem das in Artikel 1 genannte Abkommen nach seinem Artikel 6 Abs. 6 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
+
+(2)

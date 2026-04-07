@@ -64,9 +64,9 @@ Auf das zusätzliche Darlehen sind die §§ 6 bis 9 entsprechend anzuwenden.
 
 (1) Dem Ehegatten im Sinne des § 73 Abs. 1 BEG sind gleichgestellt
 
-1.
+1. Personen, deren Verbindung mit dem Verfolgten auf Grund des Bundesgesetzes über die Anerkennung freier Ehen rassisch und politisch Verfolgter oder auf Grund von Rechtsvorschriften der Länder die Rechtswirkungen einer gesetzlichen Ehe zuerkannt worden sind;
 
-2.
+2. die Frau, deren Ehe mit dem Verfolgten nachträglich durch eine Anordnung auf Grund des Bundesgesetzes über die Rechtswirkungen des Ausspruchs einer nachträglichen Eheschließung geschlossen worden ist.
 
 (2) Kinder im Sinne des § 73 Abs. 1 BEG sind die ehelichen Kinder und die diesen nach den Vorschriften des bürgerlichen Rechts gleichgestellten Kinder.
 
@@ -144,8 +144,6 @@ Der der Berechnung der Kapitalentschädigung zugrunde gelegte Jahresbetrag wird 
 
 ### § 22a — Erhöhung des monatlichen Höchstbetrages der Rente
 
-Der monatliche Höchstbetrag der Rente beträgt
-
 ### § 22b — Zahlung der Rente
 
 Die Rente wird in monatlich vorauszahlbaren Beträgen vom Ersten des Monats an gezahlt, in dem die Voraussetzungen für den Rentenanspruch erfüllt sind, frühestens jedoch vom 1. November 1953 an.
@@ -162,19 +160,17 @@ Die Rente wird in monatlich vorauszahlbaren Beträgen vom Ersten des Monats an g
 
 (2) Versorgungsbezüge aus deutschen öffentlichen Mitteln im Sinne des § 85 Abs. 2 Satz 2 BEG sind insbesondere
 
-1.
+1. Hinterbliebenenversorgung nach beamtenrechtlichen Vorschriften oder Grundsätzen,
 
-2.
+2. Hinterbliebenenrenten aus der gesetzlichen Rentenversicherung, sofern diese nicht ausschließlich auf eigenen Geldleistungen des Verfolgten beruhen,
 
-3.
+3. Hinterbliebenenrenten nach dem Bundesversorgungsgesetz,
 
-4.
+4. Rentenleistungen nach dem BEG für Schaden im wirtschaftlichen Fortkommen, sofern diese wegen des Todes des Verfolgten gezahlt werden,
 
-5.
+5. Entschädigungszahlungen nach Kapitel 9 des Vierzehnten Buches Sozialgesetzbuch.
 
 (3) Die §§ 141d bis 141k BEG bleiben unberührt.
-
-(4) Der monatliche Freibetrag nach § 85 Abs. 2 Satz 2 des Bundesentschädigungsgesetzes beträgt
 
 (5) Steht mehreren Berechtigten eine Rente zu, so wird die Rente des einzelnen Berechtigten nach § 85 Abs. 2 BEG nur insoweit gekürzt, als seine eigenen Versorgungsbezüge die Freibeträge nach § 85 Abs. 2 Satz 2 BEG und nach Absatz 4 übersteigen.
 
@@ -202,11 +198,11 @@ Ehegatten und die Kinder
 
 Die Rente erlischt
 
-1.
+1. für jeden Berechtigten mit dem Ende des Monats, in dem er stirbt,
 
-2.
+2. für die Witwe und den Witwer in den Fällen der §§ 85, 85a und 86 Bundesentschädigungsgesetz auch mit dem Ende des Monats, in dem die Witwe oder der Witwer wieder heiratet,
 
-3.
+3. für jedes Kind in den Fällen der §§ 85, 85a und 86 BEG auch mit dem Ende des Monats, der dem Monat folgt, in dem das Kind das 18. Lebensjahr vollendet, es sei denn, daß die Voraussetzungen des § 7 Abs. 1 und 2 der Ersten Verordnung zur Durchführung des Bundesentschädigungsgesetzes in der Fassung der Verordnung vom 13. April 1966 (Bundesgesetzbl. I S. 292) vorliegen.
 
 ### § 26 — Anzeigepflicht
 
@@ -258,35 +254,29 @@ Für die Berücksichtigung des durch anderweitige Verwertung der Arbeitskraft er
 
 (1) Die Rente, die der Verfolgte an Stelle einer Kapitalentschädigung wählen kann, wird als Jahresrente durch Teilung der festgesetzten Kapitalentschädigung unter Anwendung der in Absatz 2 für die jeweilige Lebensaltersstufe bestimmten Teilungszahl errechnet.
 
-(2)
-
 (3) Für die Einreihung in die Lebensaltersstufen ist das Lebensalter des Verfolgten in dem Zeitpunkt maßgebend, in dem die Voraussetzungen für den Anspruch auf Rente erfüllt waren.
 
-(4) Die monatlichen Rentenbeträge, die sich nach Maßgabe der Absätze 1 bis 3 errechnen, werden ab 1. Januar 1966 um 4 vom Hundert erhöht. Die sich danach ergebenden Rentenbeträge bis 750 Deutsche Mark monatlich werden ab 1. Oktober 1966 um weitere 4 vom Hundert erhöht; Rentenbeträge ab 751 Deutsche Mark monatlich werden ab 1. Oktober 1966 um 3 vom Hundert, mindestens jedoch um einen monatlichen Betrag von 30 Deutsche Mark erhöht. Die sich nach Satz 2 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Juli 1968 um weitere 4 vom Hundert erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Juli 1968 um 3,5 vom Hundert, mindestens jedoch um einen monatlichen Betrag von 36 Deutsche Mark erhöht. Die sich nach Satz 3 ergebenden Rentenbeträge bis 1 000 Deutsche Mark monatlich werden ab 1. April 1969 um weitere 4,8 v.H. erhöht; Rentenbeträge ab 1 001 Deutsche Mark monatlich werden ab 1. April 1969 um 4,3 v.H., mindestens jedoch um einen monatlichen Betrag von 46 Deutsche Mark erhöht. Die sich nach Satz 4 ergebenden Rentenbeträge bis 1 100 Deutsche Mark monatlich werden ab 1. September 1969 um weitere 8 v.H. erhöht; Rentenbeträge ab 1 101 Deutsche Mark monatlich werden ab 1. September 1969 um 7 v.H., mindestens jedoch um einen monatlichen Betrag von 78 Deutsche Mark erhöht. Die sich nach Satz 5 ergebenden Rentenbeträge bis 1 100 Deutsche Mark monatlich werden ab 1. Januar 1971 um weitere 12 v.H. erhöht; Rentenbeträge ab 1 101 Deutsche Mark monatlich werden ab 1. Januar 1971 um 10 v.H., mindestens jedoch um einen monatlichen Betrag von 132 Deutsche Mark erhöht. Die sich nach Satz 6 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Januar 1972 um weitere 8 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Januar 1972 um 5 v.H., mindestens jedoch um einen monatlichen Betrag von 72 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 374 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 7 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Januar 1973 um weitere 9,5 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Januar 1973 um 7 v.H., mindestens jedoch um einen monatlichen Betrag von 86 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 471 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 8 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Januar 1974 um weitere 12 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Januar 1974 um 9 v.H., mindestens jedoch um einen monatlichen Betrag von 108 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 605 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 9 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Januar 1975 um weitere 6 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Januar 1975 um 5 v.H., mindestens jedoch um einen monatlichen Betrag von 54 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 686 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 10 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Februar 1976 um weitere 5 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Februar 1976 um 4 v.H., mindestens jedoch um einen monatlichen Betrag von 45 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 750 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 11 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Februar 1977 um weitere 5 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Februar 1977 um 4 v.H., mindestens jedoch um einen monatlichen Betrag von 45 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 821 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 12 ergebenden Rentenbeträge bis 1 200 Deutsche Mark monatlich werden ab 1. März 1978 um weitere 4,2 v.H. erhöht; Rentenbeträge ab 1 201 Deutsche Mark monatlich werden ab 1. März 1978 um 3,7 v.H., mindestens jedoch um einen monatlichen Betrag von 50 Deutsche Mark erhöht, wobei der Höchstbetrag von 1 888 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 13 ergebenden Rentenbeträge bis 1 200 Deutsche Mark monatlich werden ab 1. März 1979 um weitere 4 v.H. erhöht; Rentenbeträge ab 1 201 Deutsche Mark monatlich werden ab 1. März 1979 um 3,4 v.H., mindestens jedoch um einen monatlichen Betrag von 48 Deutsche Mark erhöht, wobei der Höchstbetrag von 1 949 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 14 ergebenden Rentenbeträge bis 1 300 Deutsche Mark monatlich werden ab 1. März 1980 um weitere 6 v.H. erhöht; Rentenbeträge ab 1 301 Deutsche Mark monatlich werden ab 1. März 1980 um 5,5 v.H., mindestens jedoch um einen monatlichen Betrag von 78 Deutsche Mark erhöht, wobei der Höchstbetrag von 2 055 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 15 ergebenden Rentenbeträge bis 1 300 Deutsche Mark monatlich werden ab 1. März 1981 um weitere 4,3 v.H. erhöht; Rentenbeträge ab 1 301 Deutsche Mark monatlich werden ab 1. März 1981 um 4 v.H., mindestens jedoch um einen monatlichen Betrag von 56 Deutsche Mark erhöht, wobei der Höchstbetrag von 2 131 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 16 ergebenden Rentenbeträge bis 1 300 Deutsche Mark monatlich werden ab 1. Juli 1982 um weitere 3,4 v.H. erhöht; Rentenbeträge ab 1 301 Deutsche Mark monatlich werden ab 1. Juli 1982 um 3,2 v.H., mindestens jedoch um einen monatlichen Betrag von 45 Deutsche Mark erhöht, wobei der Höchstbetrag von 2 200 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 17 ergebenden Rentenbeträge bis 1 400 Deutsche Mark monatlich werden ab 1. Juli 1983 um weitere 1,8 v.H. erhöht, Rentenbeträge ab 1 401 Deutsche Mark monatlich werden ab 1. Juli 1983 um 1,7 v.H., mindestens jedoch um einen monatlichen Betrag von 25 Deutsche Mark erhöht, wobei der Höchstbetrag von 2 237 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 18 ergebenden Rentenbeträge bis 1 300 Deutsche Mark monatlich werden ab 1. Januar 1985 um weitere 4 v.H. erhöht, Rentenbeträge ab 1 301 Deutsche Mark monatlich werden ab 1. Januar 1985 um 3,6 v.H., mindestens jedoch um einen monatlichen Betrag von 52 Deutsche Mark erhöht, wobei der Höchstbetrag von 2 317 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Januar 1985 geltenden Rentenbeträge werden ab 1. Januar 1986 um weitere 3 v.H. erhöht, wobei der Höchstbetrag von 2 390 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Januar 1986 geltenden Rentenbeträge werden ab 1. Januar 1987 um 3,3 v.H. erhöht, wobei der Höchstbetrag von 2 471 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Januar 1987 geltenden Rentenbeträge werden ab 1. März 1988 um 2,3 v.H., ab 1. Januar 1989 um weitere 1,4 v.H. und ab 1. Januar 1990 um weitere 4,2 v.H. erhöht, wobei der jeweils geltende Höchstbetrag gemäß § 33a nicht überschritten werden darf. Die seit dem 1. Januar 1990 geltenden Rentenbeträge werden ab 1. März 1991 um weitere 5,8 v.H. erhöht, wobei der Höchstbetrag von 2 780 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. März 1991 geltenden Rentenbeträge werden ab 1. Mai 1992 um weitere 7,5 v.H. erhöht, wobei der Höchstbetrag von 2 913 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Mai 1992 geltenden Rentenbeträge werden ab 1. Mai 1993 um weitere 1,5 v.H. erhöht, wobei der Höchstbetrag von 3 019 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Mai 1993 geltenden Rentenbeträge bis einschließlich 1 650 DM werden ab 1. Oktober 1994, Rentenbeträge ab 1 651 DM aufwärts ab 1. Januar 1995 um weitere 2 v.H. erhöht, wobei der Höchstbetrag von 3 080 DM nicht überschritten werden darf. Die bisher geltenden Rentenbeträge werden ab 1. April 1995 um weitere 3,2 v.H. erhöht, wobei der Höchstbetrag von 3 178 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. April 1995 geltenden Rentenbeträge werden ab 1. März 1997 um weitere 1,9 v.H. erhöht, wobei der Höchstbetrag vn 3 230 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. März 1997 geltenden Rentenbeträge werden ab 1. Januar 1998 um weitere 0,9 v.H. erhöht, wobei der Höchstbetrag von 3 268 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Januar 1998 geltenden Rentenbeträge werden ab 1. März 1999 um weitere 2,9 v.H. erhöht, wobei der Höchstbetrag von 3 363 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. März 1999 geltenden Rentenbeträge werden ab dem 1. Januar 2001 um weitere 1,8 vom Hundert erhöht, wobei der Höchstbetrag von 3 424 Deutsche Mark nicht überschritten werden darf. Ab dem 1. Januar 2002 werden die Rentenbeträge um weitere 2,2 vom Hundert erhöht, wobei der Höchstbetrag von 1 789 Euro nicht überschritten werden darf. Die seit dem 1. Januar 2002 geltenden Rentenbeträge werden ab dem 1. Februar 2003 um weitere 2,4 vom Hundert erhöht, wobei der Höchstbetrag von 1 832 Euro nicht überschritten werden darf. Ab dem 1. April 2004 werden die Rentenbeträge um weitere 1 vom Hundert erhöht, wobei der Höchstbetrag von 1 850 Euro nicht überschritten werden darf. Ab dem 1. August 2004 werden die Rentenbeträge um weitere 1 vom Hundert erhöht, wobei der Höchstbetrag von 1 869 Euro nicht überschritten werden darf. Die seit dem 1. August 2004 geltenden Rentenbeträge werden ab dem 1. Juni 2008 um weitere 7,8 vom Hundert erhöht, wobei der Höchstbetrag von 2 014 Euro nicht überschritten werden darf. Die seit dem 1. Juni 2008 geltenden Rentenbeträge werden ab dem 1. Juli 2010 um weitere 2,1 vom Hundert erhöht, wobei der Höchstbetrag von 2 057 Euro nicht überschritten werden darf. Die seit dem 1. Juli 2010 geltenden Rentenbeträge werden ab dem 1. Oktober 2012 um weitere 5,7 Prozent erhöht, wobei der Höchstbetrag von 2 174 Euro nicht überschritten werden darf. Die seit dem 1. Oktober 2012 geltenden Rentenbeträge werden ab dem 1. August 2014 um 5 Prozent erhöht, wobei der Höchstbetrag von 2 283 Euro nicht überschritten werden darf. Die seit dem 1. August 2014 geltenden Rentenbeträge werden ab dem 1. September 2016 um 4,6 Prozent erhöht, wobei der Höchstbetrag von 2 388 Euro nicht überschritten werden darf. Die seit dem 1. September 2016 geltenden Rentenbeträge werden ab dem 1. Januar 2019 um 7,3 Prozent erhöht, wobei der Höchstbetrag von 2 562 Euro nicht überschritten werden darf. Die seit dem 1. Januar 2019 geltenden Rentenbeträge werden ab dem 1. September 2021 um 3,1 Prozent erhöht, wobei der Höchstbetrag von 2 641 Euro nicht überschritten werden darf. Die seit dem 1. September 2021 geltenden Rentenbeträge werden ab dem 1. Dezember 2023 um 11,3 Prozent erhöht, wobei der Höchstbetrag von 2 939 Euro nicht überschritten werden darf.
+(4) Die monatlichen Rentenbeträge, die sich nach Maßgabe der Absätze 1 bis 3 errechnen, werden ab 1. Januar 1966 um 4 vom Hundert erhöht. Die sich danach ergebenden Rentenbeträge bis 750 Deutsche Mark monatlich werden ab 1. Oktober 1966 um weitere 4 vom Hundert erhöht; Rentenbeträge ab 751 Deutsche Mark monatlich werden ab 1. Oktober 1966 um 3 vom Hundert, mindestens jedoch um einen monatlichen Betrag von 30 Deutsche Mark erhöht. Die sich nach Satz 2 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Juli 1968 um weitere 4 vom Hundert erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Juli 1968 um 3,5 vom Hundert, mindestens jedoch um einen monatlichen Betrag von 36 Deutsche Mark erhöht. Die sich nach Satz 3 ergebenden Rentenbeträge bis 1 000 Deutsche Mark monatlich werden ab 1. April 1969 um weitere 4,8 v.H. erhöht; Rentenbeträge ab 1 001 Deutsche Mark monatlich werden ab 1. April 1969 um 4,3 v.H., mindestens jedoch um einen monatlichen Betrag von 46 Deutsche Mark erhöht. Die sich nach Satz 4 ergebenden Rentenbeträge bis 1 100 Deutsche Mark monatlich werden ab 1. September 1969 um weitere 8 v.H. erhöht; Rentenbeträge ab 1 101 Deutsche Mark monatlich werden ab 1. September 1969 um 7 v.H., mindestens jedoch um einen monatlichen Betrag von 78 Deutsche Mark erhöht. Die sich nach Satz 5 ergebenden Rentenbeträge bis 1 100 Deutsche Mark monatlich werden ab 1. Januar 1971 um weitere 12 v.H. erhöht; Rentenbeträge ab 1 101 Deutsche Mark monatlich werden ab 1. Januar 1971 um 10 v.H., mindestens jedoch um einen monatlichen Betrag von 132 Deutsche Mark erhöht. Die sich nach Satz 6 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Januar 1972 um weitere 8 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Januar 1972 um 5 v.H., mindestens jedoch um einen monatlichen Betrag von 72 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 374 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 7 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Januar 1973 um weitere 9,5 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Januar 1973 um 7 v.H., mindestens jedoch um einen monatlichen Betrag von 86 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 471 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 8 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Januar 1974 um weitere 12 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Januar 1974 um 9 v.H., mindestens jedoch um einen monatlichen Betrag von 108 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 605 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 9 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Januar 1975 um weitere 6 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Januar 1975 um 5 v.H., mindestens jedoch um einen monatlichen Betrag von 54 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 686 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 10 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Februar 1976 um weitere 5 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Februar 1976 um 4 v.H., mindestens jedoch um einen monatlichen Betrag von 45 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 750 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 11 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Februar 1977 um weitere 5 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Februar 1977 um 4 v.H., mindestens jedoch um einen monatlichen Betrag von 45 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 821 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 12 ergebenden Rentenbeträge bis 1 200 Deutsche Mark monatlich werden ab 1. März 1978 um weitere 4,2 v.H. erhöht; Rentenbeträge ab 1 201 Deutsche Mark monatlich werden ab 1. März 1978 um 3,7 v.H., mindestens jedoch um einen monatlichen Betrag von 50 Deutsche Mark erhöht, wobei der Höchstbetrag von 1 888 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 13 ergebenden Rentenbeträge bis 1 200 Deutsche Mark monatlich werden ab 1. März 1979 um weitere 4 v.H. erhöht; Rentenbeträge ab 1 201 Deutsche Mark monatlich werden ab 1. März 1979 um 3,4 v.H., mindestens jedoch um einen monatlichen Betrag von 48 Deutsche Mark erhöht, wobei der Höchstbetrag von 1 949 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 14 ergebenden Rentenbeträge bis 1 300 Deutsche Mark monatlich werden ab 1. März 1980 um weitere 6 v.H. erhöht; Rentenbeträge ab 1 301 Deutsche Mark monatlich werden ab 1. März 1980 um 5,5 v.H., mindestens jedoch um einen monatlichen Betrag von 78 Deutsche Mark erhöht, wobei der Höchstbetrag von 2 055 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 15 ergebenden Rentenbeträge bis 1 300 Deutsche Mark monatlich werden ab 1. März 1981 um weitere 4,3 v.H. erhöht; Rentenbeträge ab 1 301 Deutsche Mark monatlich werden ab 1. März 1981 um 4 v.H., mindestens jedoch um einen monatlichen Betrag von 56 Deutsche Mark erhöht, wobei der Höchstbetrag von 2 131 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 16 ergebenden Rentenbeträge bis 1 300 Deutsche Mark monatlich werden ab 1. Juli 1982 um weitere 3,4 v.H. erhöht; Rentenbeträge ab 1 301 Deutsche Mark monatlich werden ab 1. Juli 1982 um 3,2 v.H., mindestens jedoch um einen monatlichen Betrag von 45 Deutsche Mark erhöht, wobei der Höchstbetrag von 2 200 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 17 ergebenden Rentenbeträge bis 1 400 Deutsche Mark monatlich werden ab 1. Juli 1983 um weitere 1,8 v.H. erhöht, Rentenbeträge ab 1 401 Deutsche Mark monatlich werden ab 1. Juli 1983 um 1,7 v.H., mindestens jedoch um einen monatlichen Betrag von 25 Deutsche Mark erhöht, wobei der Höchstbetrag von 2 237 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 18 ergebenden Rentenbeträge bis 1 300 Deutsche Mark monatlich werden ab 1. Januar 1985 um weitere 4 v.H. erhöht, Rentenbeträge ab 1 301 Deutsche Mark monatlich werden ab 1. Januar 1985 um 3,6 v.H., mindestens jedoch um einen monatlichen Betrag von 52 Deutsche Mark erhöht, wobei der Höchstbetrag von 2 317 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Januar 1985 geltenden Rentenbeträge werden ab 1. Januar 1986 um weitere 3 v.H. erhöht, wobei der Höchstbetrag von 2 390 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Januar 1986 geltenden Rentenbeträge werden ab 1. Januar 1987 um 3,3 v.H. erhöht, wobei der Höchstbetrag von 2 471 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Januar 1987 geltenden Rentenbeträge werden ab 1. März 1988 um 2,3 v.H., ab 1. Januar 1989 um weitere 1,4 v.H. und ab 1. Januar 1990 um weitere 4,2 v.H. erhöht, wobei der jeweils geltende Höchstbetrag gemäß § 33a nicht überschritten werden darf. Die seit dem 1. Januar 1990 geltenden Rentenbeträge werden ab 1. März 1991 um weitere 5,8 v.H. erhöht, wobei der Höchstbetrag von 2 780 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. März 1991 geltenden Rentenbeträge werden ab 1. Mai 1992 um weitere 7,5 v.H. erhöht, wobei der Höchstbetrag von 2 913 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Mai 1992 geltenden Rentenbeträge werden ab 1. Mai 1993 um weitere 1,5 v.H. erhöht, wobei der Höchstbetrag von 3 019 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Mai 1993 geltenden Rentenbeträge bis einschließlich 1 650 DM werden ab 1. Oktober 1994, Rentenbeträge ab 1 651 DM aufwärts ab 1. Januar 1995 um weitere 2 v.H. erhöht, wobei der Höchstbetrag von 3 080 DM nicht überschritten werden darf. Die bisher geltenden Rentenbeträge werden ab 1. April 1995 um weitere 3,2 v.H. erhöht, wobei der Höchstbetrag von 3 178 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. April 1995 geltenden Rentenbeträge werden ab 1. März 1997 um weitere 1,9 v.H. erhöht, wobei der Höchstbetrag vn 3 230 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. März 1997 geltenden Rentenbeträge werden ab 1. Januar 1998 um weitere 0,9 v.H. erhöht, wobei der Höchstbetrag von 3 268 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Januar 1998 geltenden Rentenbeträge werden ab 1. März 1999 um weitere 2,9 v.H. erhöht, wobei der Höchstbetrag von 3 363 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. März 1999 geltenden Rentenbeträge werden ab dem 1. Januar 2001 um weitere 1,8 vom Hundert erhöht, wobei der Höchstbetrag von 3 424 Deutsche Mark nicht überschritten werden darf. Ab dem 1. Januar 2002 werden die Rentenbeträge um weitere 2,2 vom Hundert erhöht, wobei der Höchstbetrag von 1 789 Euro nicht überschritten werden darf. Die seit dem 1. Januar 2002 geltenden Rentenbeträge werden ab dem 1. Februar 2003 um weitere 2,4 vom Hundert erhöht, wobei der Höchstbetrag von 1 832 Euro nicht überschritten werden darf. Ab dem 1. April 2004 werden die Rentenbeträge um weitere 1 vom Hundert erhöht, wobei der Höchstbetrag von 1 850 Euro nicht überschritten werden darf. Ab dem 1. August 2004 werden die Rentenbeträge um weitere 1 vom Hundert erhöht, wobei der Höchstbetrag von 1 869 Euro nicht überschritten werden darf. Die seit dem 1. August 2004 geltenden Rentenbeträge werden ab dem 1. Juni 2008 um weitere 7,8 vom Hundert erhöht, wobei der Höchstbetrag von 2 014 Euro nicht überschritten werden darf. Die seit dem 1. Juni 2008 geltenden Rentenbeträge werden ab dem 1. Juli 2010 um weitere 2,1 vom Hundert erhöht, wobei der Höchstbetrag von 2 057 Euro nicht überschritten werden darf. Die seit dem 1. Juli 2010 geltenden Rentenbeträge werden ab dem 1. Oktober 2012 um weitere 5,7 Prozent erhöht, wobei der Höchstbetrag von 2 174 Euro nicht überschritten werden darf. Die seit dem 1. Oktober 2012 geltenden Rentenbeträge werden ab dem 1. August 2014 um 5 Prozent erhöht, wobei der Höchstbetrag von 2 283 Euro nicht überschritten werden darf. Die seit dem 1. August 2014 geltenden Rentenbeträge werden ab dem 1. September 2016 um 4,6 Prozent erhöht, wobei der Höchstbetrag von 2 388 Euro nicht überschritten werden darf. Die seit dem 1. September 2016 geltenden Rentenbeträge werden ab dem 1. Januar 2019 um 7,3 Prozent erhöht, wobei der Höchstbetrag von 2 562 Euro nicht überschritten werden darf. Die seit dem 1. Januar 2019 geltenden Rentenbeträge werden ab dem 1. September 2021 um 3,1 Prozent erhöht, wobei der Höchstbetrag von 2 641 Euro nicht überschritten werden darf. Die seit dem 1. September 2021 geltenden Rentenbeträge werden ab dem 1. Dezember 2023 um 11,3 Prozent erhöht, wobei der Höchstbetrag von 2 939 Euro nicht überschritten werden darf.
 
 (5) Die Rente wird mit Wirkung vom Ersten des Monats an gezahlt, in dem der Verfolgte das 65. Lebensjahr vollendet hat oder in seinem Beruf nicht mehr als 50 vom Hundert arbeitsfähig ist, frühestens jedoch vom 1. November 1953 an. Bei Frauen tritt an Stelle des 65. das 60. Lebensjahr.
 
 ### § 33a — Erhöhung des monatlichen Höchstbetrages der Rente
 
-Der monatliche Höchstbetrag der Rente beträgt
-
 ### § 34 — Mindestrente
 
 (1) Versorgungsbezüge aus deutschen öffentlichen Mitteln im Sinne des § 95 Abs. 3 Satz 1 BEG sind insbesondere
 
-1.
+1. Versorgungsbezüge nach beamtenrechtlichen Vorschriften oder Grundsätzen oder Ruhelohn,
 
-2.
+2. Leistungen aus der gesetzlichen Rentenversicherung, sofern diese nicht ausschließlich auf eigenen Geldleistungen des Verfolgten beruhen,
 
-3.
+3. Leistungen nach dem Bundesversorgungsgesetz,
 
-4.
+4. Rentenleistungen nach BEG für Schaden im wirtschaftlichen Fortkommen,
 
-5.
+5. laufende Zahlungen auf Grund des Vierzehnten Buches Sozialgesetzbuch.
 
 (2) Die §§ 141d bis 141k BEG bleiben unberührt.
-
-(3) Die monatlichen Freibeträge nach § 95 Abs. 3 des Bundesentschädigungsgesetzes betragen für
 
 (4) Die §§ 26 und 27 finden entsprechende Anwendung.
 
@@ -295,12 +285,6 @@ Der monatliche Höchstbetrag der Rente beträgt
 (1) Auf die Rente nach den §§ 97, 97a und 98 BEG finden die §§ 24 bis 27 entsprechende Anwendung.
 
 (2) In den Fällen der §§ 97a und 98 BEG ist das Erfordernis, daß vor dem Tode des Verfolgten die Voraussetzungen für das Wahlrecht nach § 94 BEG vorlagen, als gegeben anzusehen, wenn der Verfolgte vor seinem Tode das 65. Lebensjahr vollendet hatte oder während eines längeren Zeitraums in seinem Beruf nicht mehr als 50 vom Hundert arbeitsfähig gewesen ist. Bei Frauen tritt an Stelle des 65. das 60. Lebensjahr.
-
-(3) Im Falle des § 97 Abs. 2 des Bundesentschädigungsgesetzes werden die in § 95 Abs. 3 des Bundesentschädigungsgesetzes genannten Beträge für die Witwe oder den Witwer durch folgende Beträge ersetzt: Diese Beträge erhöhen sich für jedes Kind, für das nach dem bis zum 31. Dezember 1974 geltenden Beamtenrecht Kinderzuschläge gewährt werden können,
-
-(4) Haben neben der Witwe oder dem Witwer auch Kinder Anspruch auf Rente, so treten für jedes Kind an die Stelle der in § 95 Abs. 3 des Bundesentschädigungsgesetzes genannten Beträge folgende Beträge:
-
-(5) Haben nur die Kinder Anspruch auf Rente, so treten für jedes Kind an die Stelle der in Absatz 4 genannten Beträge folgende Beträge:
 
 ### § 35a — Entschädigung in Höhe der Rentenbezüge eines Jahres
 im Falle des § 98 BEG
@@ -354,12 +338,6 @@ Erwerbstätigkeit
 
 ### § 38a
 
-(1) Der Monatsbetrag der Rente nach § 156 Abs. 3 des Bundesentschädigungsgesetzes beträgt
-
-(2) Der Monatsbetrag der Rente nach § 157 Abs. 2 Satz 1 des Bundesentschädigungsgesetzes beträgt
-
-(3) Der Monatsbetrag der Rente nach § 157 Abs. 2 Satz 2 des Bundesentschädigungsgesetzes beträgt
-
 ## VI.: Bewertung der im Ausland erzielten Einkünfte
 
 ### § 39
@@ -400,34 +378,22 @@ Renten, die auf Grund des Bundesentschädigungsgesetzes oder dieser Verordnung v
 
 (1) Es treten in Kraft
 
-1.
+1. §§ 1 bis 15, 17, 19 bis 22, 22b, 23, 24 Abs. 1, 3, 5 und 7, §§ 25, 25a, 27, 28, 30, 32, 33 Abs. 1 bis 3 und 5, § 34 Abs. 1, 2 und 4, §§ 35a, 35c, 36 bis 38, 39, 40 und 42 mit Wirkung vom 1. Oktober 1953;
 
-2.
+2. § 24 Abs. 2 und 6, §§ 24a, 26, 29, 35, 35b, 41 und 41a mit Wirkung vom 18. September 1965;
 
-3.
-
-(2) Es treten außer Kraft §§ 16, 18 und 31 mit Wirkung vom 18. September 1965.
+3. §§ 22a, 24 Abs. 4, § 33 Abs. 4, §§ 33a, 34 Abs. 3 und § 38a mit Wirkung vom 1. Januar 1966.
 
 ### Anlage 1 — zu den §§ 12 und 21 der 3.DV-BEG
 
-(Inhalt: nicht darstellbare Tabelle
-
 ### Anlage 2 — zu § 13 der 3.DV-BEG
 
-Fundstelle des Originaltextes: BGBl. I 1966, 309
-
 ### Anlage 3 — zu § 14 der 3.DV-BEG
-
-Fundstelle des Originaltextes: BGBl. I 1966, 310
 
 ### Anlage 4 — zu den §§ 15 und 17 der 3. DV-BEG Besoldungsübersicht
 
 ### Anlage 5a — (zu § 22 der 3. DV-BEG)
 
-(Fundstelle des Originaltextes: BGBl. I 1966, 313 bis 315)
-
 ### Anlage 5b — (zu § 22 der 3.DV-BEG)
-
-Fundstelle des Originaltextes: BGBl. I 1970, 1089 bis 1090
 
 ### Anlage 5c — zu § 22 der 3. DV-BEG Besoldungsübersicht Rente

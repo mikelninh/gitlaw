@@ -14,25 +14,15 @@
 
 (1) Werden Einkünfte eines Steuerpflichtigen aus einer Geschäftsbeziehung zum Ausland mit einer ihm nahestehenden Person dadurch gemindert, dass er seiner Einkünfteermittlung andere Bedingungen, insbesondere Preise (Verrechnungspreise), zugrunde legt, als sie voneinander unabhängige Dritte unter gleichen oder vergleichbaren Verhältnissen vereinbart hätten (Fremdvergleichsgrundsatz), sind seine Einkünfte unbeschadet anderer Vorschriften so anzusetzen, wie sie unter den zwischen voneinander unabhängigen Dritten vereinbarten Bedingungen angefallen wären. Steuerpflichtiger im Sinne dieser Vorschrift sowie im Sinne des § 1a ist auch eine Personengesellschaft oder eine Mitunternehmerschaft; eine Personengesellschaft oder Mitunternehmerschaft ist selbst nahestehende Person, wenn sie die Voraussetzungen des Absatzes 2 erfüllt. Für die Anwendung des Fremdvergleichsgrundsatzes ist davon auszugehen, dass die voneinander unabhängigen Dritten alle wesentlichen Umstände der Geschäftsbeziehung kennen und nach den Grundsätzen ordentlicher und gewissenhafter Geschäftsleiter handeln. Führt die Anwendung des Fremdvergleichsgrundsatzes zu weitergehenden Berichtigungen als die anderen Vorschriften, sind die weitergehenden Berichtigungen neben den Rechtsfolgen der anderen Vorschriften durchzuführen.
 
-(2) Dem Steuerpflichtigen ist eine Person nahestehend, wenn Satz 1 Nummer 3 Buchstabe a bis c gilt auch, soweit im Verhältnis der dritten Person zu der Person und dem Steuerpflichtigen jeweils eines der in Satz 1 Nummer 3 Buchstabe a bis c genannten Merkmale erfüllt ist.
+(2) Dem Steuerpflichtigen ist eine Person nahestehend, wenn
 
-1.
+1. die Person a)an dem Steuerpflichtigen oder der Steuerpflichtige an dieser Person mindestens zu einem Viertel unmittelbar oder mittelbar an dem gezeichneten Kapital, den Mitgliedschaftsrechten, den Beteiligungsrechten, den Stimmrechten oder dem Gesellschaftsvermögen beteiligt (wesentlich beteiligt) ist oderb)gegenüber dem Steuerpflichtigen oder der Steuerpflichtige gegenüber dieser Person Anspruch auf mindestens ein Viertel des Gewinns oder des Liquidationserlöses hat; oder an dem Steuerpflichtigen oder der Steuerpflichtige an dieser Person mindestens zu einem Viertel unmittelbar oder mittelbar an dem gezeichneten Kapital, den Mitgliedschaftsrechten, den Beteiligungsrechten, den Stimmrechten oder dem Gesellschaftsvermögen beteiligt (wesentlich beteiligt) ist oder gegenüber dem Steuerpflichtigen oder der Steuerpflichtige gegenüber dieser Person Anspruch auf mindestens ein Viertel des Gewinns oder des Liquidationserlöses hat; oder
 
-a)
+2. die Person auf den Steuerpflichtigen oder der Steuerpflichtige auf diese Person unmittelbar oder mittelbar beherrschenden Einfluss ausüben kann; oder
 
-b)
+3. eine dritte Person a)sowohl an der Person als auch an dem Steuerpflichtigen wesentlich beteiligt ist,b)sowohl gegenüber der Person als auch gegenüber dem Steuerpflichtigen Anspruch auf mindestens ein Viertel des Gewinns oder des Liquidationserlöses hat oderc)auf die Person als auch auf den Steuerpflichtigen unmittelbar oder mittelbar beherrschenden Einfluss ausüben kann; oder sowohl an der Person als auch an dem Steuerpflichtigen wesentlich beteiligt ist, sowohl gegenüber der Person als auch gegenüber dem Steuerpflichtigen Anspruch auf mindestens ein Viertel des Gewinns oder des Liquidationserlöses hat oder auf die Person als auch auf den Steuerpflichtigen unmittelbar oder mittelbar beherrschenden Einfluss ausüben kann; oder
 
-2.
-
-3.
-
-a)
-
-b)
-
-c)
-
-4.
+4. die Person oder der Steuerpflichtige imstande ist, bei der Vereinbarung der Bedingungen einer Geschäftsbeziehung auf den Steuerpflichtigen oder die Person einen außerhalb dieser Geschäftsbeziehung begründeten Einfluss auszuüben oder wenn einer von ihnen ein eigenes Interesse an der Erzielung der Einkünfte des anderen hat.
 
 (3) Für die Bestimmung der dem Fremdvergleichsgrundsatz entsprechenden Verrechnungspreise (Fremdvergleichspreise) für eine Geschäftsbeziehung im Sinne des Absatzes 1 Satz 1 sind die tatsächlichen Verhältnisse maßgebend, die dem jeweiligen Geschäftsvorfall zugrunde liegen. Insbesondere ist zu berücksichtigen, von welcher an dem Geschäftsvorfall beteiligten Person welche Funktionen in Bezug auf den jeweiligen Geschäftsvorfall ausgeübt, welche Risiken diesbezüglich jeweils übernommen und welche Vermögenswerte hierfür eingesetzt werden (Funktions- und Risikoanalyse). Die Verhältnisse im Sinne der Sätze 1 und 2 bilden den Maßstab für die Feststellung der Vergleichbarkeit des zu untersuchenden Geschäftsvorfalls mit Geschäftsvorfällen zwischen voneinander unabhängigen Dritten (Vergleichbarkeitsanalyse); die diesen Geschäftsvorfällen zugrunde liegenden Verhältnisse sind in entsprechender Anwendung der Sätze 1 und 2 maßgebend, soweit dies möglich ist. Abzustellen ist auf die Verhältnisse zum Zeitpunkt der Vereinbarung des Geschäftsvorfalls. Der Fremdvergleichspreis ist grundsätzlich nach der im Hinblick auf die Vergleichbarkeitsanalyse und die Verfügbarkeit von Werten zu vergleichbaren Geschäftsvorfällen voneinander unabhängiger Dritter am besten geeigneten Verrechnungspreismethode zu bestimmen. Unterschiede zwischen den Verhältnissen der zum Vergleich herangezogenen Geschäftsvorfälle zwischen voneinander unabhängigen Dritten und den dem zu untersuchenden Geschäftsvorfall zugrunde liegenden Verhältnissen, die die Anwendung der Verrechnungspreismethode beeinflussen können, sind durch sachgerechte Anpassungen zu beseitigen, sofern dies möglich ist; dies gilt nur, wenn dadurch die Vergleichbarkeit erhöht wird. Können keine Vergleichswerte festgestellt werden, ist für die Bestimmung des Fremdvergleichspreises ein hypothetischer Fremdvergleich unter Beachtung des Absatzes 1 Satz 3 aus Sicht des Leistenden und des jeweiligen Leistungsempfängers anhand ökonomisch anerkannter Bewertungsmethoden durchzuführen.
 
@@ -40,51 +30,41 @@ c)
 
 (3b) Wird eine Funktion einschließlich der dazugehörigen Chancen und Risiken sowie der mitübertragenen oder mitüberlassenen Wirtschaftsgüter oder sonstigen Vorteile verlagert und ist auf die verlagerte Funktion Absatz 3 Satz 7 anzuwenden, weil für die Verlagerung der Funktion als Ganzes (Transferpaket) keine Vergleichsdaten festgestellt werden können, ist der Einigungsbereich auf der Grundlage des Transferpakets zu bestimmen. Hiervon kann abgesehen werden, wenn der Steuerpflichtige glaubhaft macht, dass weder wesentliche immaterielle Wirtschaftsgüter noch sonstige Vorteile Gegenstand der Funktionsverlagerung waren. Dies gilt dann, wenn das übernehmende Unternehmen die übergehende Funktion ausschließlich gegenüber dem verlagernden Unternehmen ausübt und das Entgelt, das für die Ausübung der Funktion und die Erbringung der entsprechenden Leistungen anzusetzen ist, nach der Kostenaufschlagsmethode zu ermitteln ist.
 
-(3c) Die Übertragung oder Überlassung zur Nutzung eines immateriellen Werts ist zu vergüten, wenn diese auf der Grundlage einer Geschäftsbeziehung im Sinne des Absatzes 4 erfolgt und hiermit eine finanzielle Auswirkung für den Übernehmer, den Nutzenden, den Übertragenden oder den Überlassenden verbunden ist. Immaterielle Werte sind Vermögenswerte, Die Feststellung des Eigentums oder der Inhaberschaft an einem immateriellen Wert, einschließlich aus einem solchen abgeleiteter Rechte, ist Ausgangspunkt für die Bestimmung, welchem an dem Geschäftsvorfall beteiligten Unternehmen der Ertrag zusteht, der sich aus jedweder Art der Verwertung dieses immateriellen Werts ergibt. Soweit eine dem Eigentümer oder dem Inhaber des immateriellen Werts nahestehende Person Funktionen im Zusammenhang mit der Entwicklung oder Erschaffung, der Verbesserung, dem Erhalt, dem Schutz oder jedweder Art der Verwertung des immateriellen Werts ausübt, hierzu Vermögenswerte einsetzt und Risiken übernimmt, sind diese Funktionen vom Eigentümer oder Inhaber der nahestehenden Person angemessen zu vergüten. Die Finanzierung der Entwicklung oder Erschaffung, des Erhalts oder des Schutzes eines immateriellen Werts ist angemessen zu vergüten und berechtigt nicht zum Ertrag aus dem finanzierten immateriellen Wert.
+(3c) Die Übertragung oder Überlassung zur Nutzung eines immateriellen Werts ist zu vergüten, wenn diese auf der Grundlage einer Geschäftsbeziehung im Sinne des Absatzes 4 erfolgt und hiermit eine finanzielle Auswirkung für den Übernehmer, den Nutzenden, den Übertragenden oder den Überlassenden verbunden ist. Immaterielle Werte sind Vermögenswerte,
 
-1.
+1. die weder materielle Wirtschaftsgüter oder Beteiligungen noch Finanzanlagen sind,
 
-2.
+2. die Gegenstand eines Geschäftsvorfalls sein können, ohne einzeln übertragbar sein zu müssen, und
 
-3.
+3. die einer Person eine tatsächliche oder rechtliche Position über diesen Vermögenswert vermitteln können.
 
-(3d) Es entspricht nicht dem Fremdvergleichsgrundsatz, wenn ein aus einer grenzüberschreitenden Finanzierungsbeziehung innerhalb einer multinationalen Unternehmensgruppe resultierender Aufwand die Einkünfte des Steuerpflichtigen gemindert hat und oder
+(3d) Es entspricht nicht dem Fremdvergleichsgrundsatz, wenn ein aus einer grenzüberschreitenden Finanzierungsbeziehung innerhalb einer multinationalen Unternehmensgruppe resultierender Aufwand die Einkünfte des Steuerpflichtigen gemindert hat und
 
-1.
-
-a)
-
-b)
-
-2.
+1. der Steuerpflichtige nicht glaubhaft machen kann, dass er a)den Kapitaldienst für die gesamte Laufzeit dieser Finanzierungsbeziehung von Anfang an hätte erbringen können undb)die Finanzierung wirtschaftlich benötigt und für den Unternehmenszweck verwendet den Kapitaldienst für die gesamte Laufzeit dieser Finanzierungsbeziehung von Anfang an hätte erbringen können und die Finanzierung wirtschaftlich benötigt und für den Unternehmenszweck verwendet
 
 Als Finanzierungsbeziehung gelten insbesondere ein Darlehensverhältnis sowie die Nutzung oder die Bereitstellung von Fremdkapital und fremdkapitalähnlichen Instrumenten.
 
-(3e) Es handelt sich regelmäßig um eine funktions- und risikoarme Dienstleistung, wenn Hiervon ist auch regelmäßig dann auszugehen, wenn ein Unternehmen in der Unternehmensgruppe für ein oder mehrere Unternehmen der Unternehmensgruppe die Steuerung von Finanzmitteln, wie etwa ein Liquiditätsmanagement, ein Finanzrisikomanagement, ein Währungsrisikomanagement oder die Tätigkeit als Finanzierungsgesellschaft, übernimmt. Die Sätze 1 und 2 gelten nicht, wenn anhand einer Funktions- und Risikoanalyse nachgewiesen wird, dass es sich nicht um eine funktions- und risikoarme Dienstleistung handelt.
+(3e) Es handelt sich regelmäßig um eine funktions- und risikoarme Dienstleistung, wenn
 
-1.
+1. eine Finanzierungsbeziehung von einem Unternehmen gegenüber einem anderen Unternehmen innerhalb einer multinationalen Unternehmensgruppe vermittelt wird oder
 
-2.
+2. eine Finanzierungsbeziehung von einem Unternehmen an ein anderes Unternehmen innerhalb einer multinationalen Unternehmensgruppe weitergeleitet wird.
 
-(4) Geschäftsbeziehungen im Sinne dieser Vorschrift sind Liegt einem Geschäftsvorfall keine schuldrechtliche Vereinbarung zugrunde, ist davon auszugehen, dass voneinander unabhängige ordentliche und gewissenhafte Geschäftsleiter eine schuldrechtliche Vereinbarung getroffen hätten oder eine bestehende Rechtsposition geltend machen würden, die der Besteuerung zugrunde zu legen ist, es sei denn, der Steuerpflichtige macht im Einzelfall etwas anderes glaubhaft.
+(4) Geschäftsbeziehungen im Sinne dieser Vorschrift sind
 
-1.
+1. einzelne oder mehrere zusammenhängende wirtschaftliche Vorgänge (Geschäftsvorfälle) zwischen einem Steuerpflichtigen und einer ihm nahestehenden Person, a)die Teil einer Tätigkeit des Steuerpflichtigen oder der nahestehenden Person sind, auf die die §§ 13, 15, 18 oder 21 des Einkommensteuergesetzes anzuwenden sind oder anzuwenden wären, wenn sich der Geschäftsvorfall im Inland unter Beteiligung eines unbeschränkt Steuerpflichtigen und einer inländischen nahestehenden Person ereignet hätte, undb)denen keine gesellschaftsvertragliche Vereinbarung zugrunde liegt; eine gesellschaftsvertragliche Vereinbarung ist eine Vereinbarung, die unmittelbar zu einer rechtlichen Änderung der Gesellschafterstellung führt; die Teil einer Tätigkeit des Steuerpflichtigen oder der nahestehenden Person sind, auf die die §§ 13, 15, 18 oder 21 des Einkommensteuergesetzes anzuwenden sind oder anzuwenden wären, wenn sich der Geschäftsvorfall im Inland unter Beteiligung eines unbeschränkt Steuerpflichtigen und einer inländischen nahestehenden Person ereignet hätte, und denen keine gesellschaftsvertragliche Vereinbarung zugrunde liegt; eine gesellschaftsvertragliche Vereinbarung ist eine Vereinbarung, die unmittelbar zu einer rechtlichen Änderung der Gesellschafterstellung führt;
 
-a)
+2. Geschäftsvorfälle zwischen einem Unternehmen eines Steuerpflichtigen und seiner in einem anderen Staat gelegenen Betriebsstätte (anzunehmende schuldrechtliche Beziehungen).
 
-b)
+(5) Die Absätze 1, 3 bis 4 sind entsprechend anzuwenden, wenn für eine Geschäftsbeziehung im Sinne des Absatzes 4 Satz 1 Nummer 2 die Bedingungen, insbesondere die Verrechnungspreise, die der Aufteilung der Einkünfte zwischen einem inländischen Unternehmen und seiner ausländischen Betriebsstätte oder der Ermittlung der Einkünfte der inländischen Betriebsstätte eines ausländischen Unternehmens steuerlich zugrunde gelegt werden, nicht dem Fremdvergleichsgrundsatz entsprechen und dadurch die inländischen Einkünfte eines beschränkt Steuerpflichtigen gemindert oder die ausländischen Einkünfte eines unbeschränkt Steuerpflichtigen erhöht werden. Zur Anwendung des Fremdvergleichsgrundsatzes ist eine Betriebsstätte wie ein eigenständiges und unabhängiges Unternehmen zu behandeln, es sei denn, die Zugehörigkeit der Betriebsstätte zum Unternehmen erfordert eine andere Behandlung. Um die Betriebsstätte wie ein eigenständiges und unabhängiges Unternehmen zu behandeln, sind ihr in einem ersten Schritt zuzuordnen:
 
-2.
+1. die Funktionen des Unternehmens, die durch ihr Personal ausgeübt werden (Personalfunktionen),
 
-(5) Die Absätze 1, 3 bis 4 sind entsprechend anzuwenden, wenn für eine Geschäftsbeziehung im Sinne des Absatzes 4 Satz 1 Nummer 2 die Bedingungen, insbesondere die Verrechnungspreise, die der Aufteilung der Einkünfte zwischen einem inländischen Unternehmen und seiner ausländischen Betriebsstätte oder der Ermittlung der Einkünfte der inländischen Betriebsstätte eines ausländischen Unternehmens steuerlich zugrunde gelegt werden, nicht dem Fremdvergleichsgrundsatz entsprechen und dadurch die inländischen Einkünfte eines beschränkt Steuerpflichtigen gemindert oder die ausländischen Einkünfte eines unbeschränkt Steuerpflichtigen erhöht werden. Zur Anwendung des Fremdvergleichsgrundsatzes ist eine Betriebsstätte wie ein eigenständiges und unabhängiges Unternehmen zu behandeln, es sei denn, die Zugehörigkeit der Betriebsstätte zum Unternehmen erfordert eine andere Behandlung. Um die Betriebsstätte wie ein eigenständiges und unabhängiges Unternehmen zu behandeln, sind ihr in einem ersten Schritt zuzuordnen: Auf der Grundlage dieser Zuordnung sind in einem zweiten Schritt die Art der Geschäftsbeziehungen zwischen dem Unternehmen und seiner Betriebsstätte und die Verrechnungspreise für diese Geschäftsbeziehungen zu bestimmen. Die Sätze 1 bis 4 sind entsprechend auf ständige Vertreter anzuwenden. Die Möglichkeit, einen Ausgleichsposten nach § 4g des Einkommensteuergesetzes zu bilden, wird nicht eingeschränkt. Auf Geschäftsbeziehungen zwischen einem Gesellschafter und seiner Personengesellschaft oder zwischen einem Mitunternehmer und seiner Mitunternehmerschaft sind die Sätze 1 bis 4 nicht anzuwenden, unabhängig davon, ob die Beteiligung unmittelbar besteht oder ob sie nach § 15 Absatz 1 Satz 1 Nummer 2 Satz 2 des Einkommensteuergesetzes mittelbar besteht; für diese Geschäftsbeziehungen gilt Absatz 1. Ist ein Abkommen zur Vermeidung der Doppelbesteuerung anzuwenden und macht der Steuerpflichtige geltend, dass dessen Regelungen den Sätzen 1 bis 7 widersprechen, so hat das Abkommen nur Vorrang, soweit der Steuerpflichtige nachweist, dass der andere Staat sein Besteuerungsrecht entsprechend diesem Abkommen ausübt und deshalb die Anwendung der Sätze 1 bis 7 zu einer Doppelbesteuerung führen würde.
+2. die Vermögenswerte des Unternehmens, die sie zur Ausübung der ihr zugeordneten Funktionen benötigt,
 
-1.
+3. die Chancen und Risiken des Unternehmens, die sie auf Grund der ausgeübten Funktionen und zugeordneten Vermögenswerte übernimmt, sowie
 
-2.
-
-3.
-
-4.
+4. ein angemessenes Eigenkapital (Dotationskapital).
 
 (6) Das Bundesministerium der Finanzen wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Einzelheiten des Fremdvergleichsgrundsatzes im Sinne der Absätze 1, 3 bis 3e und 5 und Einzelheiten zu dessen einheitlicher Anwendung zu regeln sowie Grundsätze zur Bestimmung des Dotationskapitals im Sinne des Absatzes 5 Satz 3 Nummer 4 festzulegen.
 
@@ -94,11 +74,11 @@ b)
 
 Sind wesentliche immaterielle Werte oder Vorteile Gegenstand einer Geschäftsbeziehung und weicht die tatsächliche spätere Gewinnentwicklung erheblich von der Gewinnerwartung ab, die der Verrechnungspreisbestimmung zugrunde lag, ist widerlegbar zu vermuten, dass zum Zeitpunkt des Geschäftsabschlusses Unsicherheiten im Hinblick auf die Verrechnungspreisvereinbarung bestanden und unabhängige Dritte eine sachgerechte Anpassungsregelung vereinbart hätten. Wurde eine solche Regelung nicht vereinbart und tritt bezogen auf die ersten sieben Jahre nach Geschäftsabschluss eine erhebliche Abweichung im Sinne des Satzes 1 ein, ist für eine deshalb vorzunehmende Berichtigung nach § 1 Absatz 1 Satz 1 ein angemessener Anpassungsbetrag auf den Verrechnungspreis im achten Jahr nach Geschäftsabschluss der Besteuerung zugrunde zu legen. Eine erhebliche Abweichung im Sinne des Satzes 1 liegt vor, wenn der unter Zugrundelegung der tatsächlichen Gewinnentwicklung zutreffende Fremdvergleichspreis um mehr als 20 Prozent von diesem Verrechnungspreis abweicht. Für die Bestimmung des unter Zugrundelegung der tatsächlichen Gewinnentwicklung zutreffenden Fremdvergleichspreises ist von denselben Grundsätzen auszugehen wie für die Bestimmung des Verrechnungspreises. Eine Anpassung des Verrechnungspreises ist im Sinne des Satzes 2 angemessen, wenn sie dem Unterschiedsbetrag zwischen dem Verrechnungspreis und dem unter Zugrundelegung der tatsächlichen Gewinnentwicklung zutreffenden Fremdvergleichspreis entspricht. Eine Anpassung erfolgt insbesondere dann nicht, wenn
 
-1.
+1. der Steuerpflichtige glaubhaft macht, dass die tatsächliche Entwicklung auf Umständen basiert, die zum Zeitpunkt des Geschäftsvorfalls nicht vorhersehbar waren, oder
 
-2.
+2. der Steuerpflichtige nachweist, dass er bei der Bestimmung des Verrechnungspreises die aus der künftigen Entwicklung resultierenden Unsicherheiten angemessen berücksichtigt hat, oder
 
-3.
+3. im Hinblick auf immaterielle Werte und Vorteile Lizenzvereinbarungen getroffen werden, die die zu zahlende Lizenz vom Umsatz oder Gewinn des Lizenznehmers abhängig machen oder für die Höhe der Lizenz Umsatz und Gewinn berücksichtigen.
 
 > (+++ § 1a: Zur Anwendung vgl. § 21 Abs. 25 +++)
 
@@ -107,33 +87,31 @@ Gebiete
 
 ### § 2 — Einkommensteuer
 
-(1) Eine natürliche Person, die in den letzten zehn Jahren vor dem Ende ihrer unbeschränkten Steuerpflicht nach § 1 Abs. 1 Satz 1 des Einkommensteuergesetzes als Deutscher insgesamt mindestens fünf Jahre unbeschränkt einkommensteuerpflichtig war und ist bis zum Ablauf von zehn Jahren nach Ende des Jahres, in dem ihre unbeschränkte Steuerpflicht geendet hat, über die beschränkte Steuerpflicht im Sinne des Einkommensteuergesetzes hinaus beschränkt einkommensteuerpflichtig mit allen Einkünften im Sinne des § 2 Abs. 1 Satz 1 erster Halbsatz des Einkommensteuergesetzes, die bei unbeschränkter Einkommensteuerpflicht nicht ausländische Einkünfte im Sinne des § 34d des Einkommensteuergesetzes sind. Für Einkünfte der natürlichen Person, die weder durch deren ausländische Betriebsstätte noch durch deren in einem ausländischen Staat tätigen ständigen Vertreter erzielt werden, ist für die Anwendung dieser Vorschrift das Bestehen einer inländischen Geschäftsleitungsbetriebsstätte der natürlichen Person anzunehmen, der solche Einkünfte zuzuordnen sind. Satz 1 findet nur Anwendung für Veranlagungszeiträume, in denen die hiernach insgesamt beschränkt steuerpflichtigen Einkünfte mehr als 16 500 Euro betragen.
+(1) Eine natürliche Person, die in den letzten zehn Jahren vor dem Ende ihrer unbeschränkten Steuerpflicht nach § 1 Abs. 1 Satz 1 des Einkommensteuergesetzes als Deutscher insgesamt mindestens fünf Jahre unbeschränkt einkommensteuerpflichtig war und
 
-1.
+1. in einem ausländischen Gebiet ansässig ist, in dem sie mit ihrem Einkommen nur einer niedrigen Besteuerung unterliegt, oder in keinem ausländischen Gebiet ansässig ist und
 
-2.
+2. wesentliche wirtschaftliche Interessen im Geltungsbereich dieses Gesetzes hat,
 
 (2) Eine niedrige Besteuerung im Sinne des Absatzes 1 Nr. 1 liegt vor, wenn
 
-1.
+1. die Belastung durch die in dem ausländischen Gebiet erhobene Einkommensteuer - nach dem Tarif unter Einbeziehung von tariflichen Freibeträgen - bei einer in diesem Gebiet ansässigen unverheirateten natürlichen Person, die ein steuerpflichtiges Einkommen von 77 000 Euro bezieht, um mehr als ein Drittel geringer ist als die Belastung einer im Geltungsbereich dieses Gesetzes ansässigen natürlichen Person durch die deutsche Einkommensteuer unter sonst gleichen Bedingungen, es sei denn, die Person weist nach, daß die von ihrem Einkommen insgesamt zu entrichtenden Steuern mindestens zwei Drittel der Einkommensteuer betragen, die sie bei unbeschränkter Steuerpflicht nach § 1 Abs. 1 des Einkommensteuergesetzes zu entrichten hätte, oder
 
-2.
+2. die Belastung der Person durch die in dem ausländischen Gebiet erhobene Einkommensteuer auf Grund einer gegenüber der allgemeinen Besteuerung eingeräumten Vorzugsbesteuerung erheblich gemindert sein kann, es sei denn, die Person weist nach, daß die von ihrem Einkommen insgesamt zu entrichtenden Steuern mindestens zwei Drittel der Einkommensteuer betragen, die sie bei unbeschränkter Steuerpflicht nach § 1 Abs. 1 des Einkommensteuergesetzes zu entrichten hätte.
 
 (3) Eine Person hat im Sinne des Absatzes 1 Nr. 2 wesentliche wirtschaftliche Interessen im Geltungsbereich dieses Gesetzes, wenn
 
-1.
+1. sie zu Beginn des Veranlagungszeitraums Unternehmer oder Mitunternehmer eines im Geltungsbereich dieses Gesetzes belegenen Gewerbebetriebs ist oder, sofern sie Kommanditist ist, mehr als 25 Prozent der Einkünfte im Sinne des § 15 Abs. 1 Satz 1 Nr. 2 des Einkommensteuergesetzes aus der Gesellschaft auf sie entfallen oder ihr eine Beteiligung im Sinne des § 17 Abs. 1 des Einkommensteuergesetzes an einer inländischen Kapitalgesellschaft gehört oder
 
-2.
+2. ihre Einkünfte, die bei unbeschränkter Einkommensteuerpflicht nicht ausländische Einkünfte im Sinne des § 34d des Einkommensteuergesetzes sind, im Veranlagungszeitraum mehr als 30 Prozent ihrer sämtlichen Einkünfte betragen oder 62 000 Euro übersteigen oder
 
-3.
+3. zu Beginn des Veranlagungszeitraums ihr Vermögen, dessen Erträge bei unbeschränkter Einkommensteuerpflicht nicht ausländische Einkünfte im Sinne des § 34d des Einkommensteuergesetzes wären, mehr als 30 Prozent ihres Gesamtvermögens beträgt oder 154 000 Euro übersteigt.
 
 (4) Bei der Anwendung der Absätze 1 und 3 sind bei einer Person Gewerbebetriebe, Beteiligungen, Einkünfte und Vermögen einer ausländischen Gesellschaft im Sinne des § 5, an der die Person unter den dort genannten Voraussetzungen beteiligt ist, entsprechend ihrer Beteiligung zu berücksichtigen.
 
 (5) Ist Absatz 1 anzuwenden, kommt der Steuersatz zur Anwendung, der sich für sämtliche Einkünfte der Person ergibt; für die Ermittlung des Steuersatzes bleiben Einkünfte aus Kapitalvermögen außer Betracht, die dem gesonderten Steuersatz nach § 32d Absatz 1 des Einkommensteuergesetzes unterliegen. Auf Einkünfte, die dem Steuerabzug auf Grund des § 50a des Einkommensteuergesetzes unterliegen, ist § 50 Absatz 2 des Einkommensteuergesetzes nicht anzuwenden. § 43 Absatz 5 des Einkommensteuergesetzes bleibt unberührt.
 
 (6) Weist die Person nach, daß die auf Grund der Absätze 1 und 5 zusätzlich zu entrichtende Steuer insgesamt zu einer höheren inländischen Steuer führt, als sie sie bei unbeschränkter Steuerpflicht und Wohnsitz ausschließlich im Geltungsbereich dieses Gesetzes zu entrichten hätte, so wird der übersteigende Betrag insoweit nicht erhoben, als er die Steuer überschreitet, die sich ohne Anwendung der Absätze 1 und 5 ergäbe.
-
-> (+++ § 2 Abs. 1: Zur erstmaligen Anwendung vgl. § 21 Abs. 18 +++) (+++ § 2 Abs. 5: Zur Anwendung vgl. § 21 Abs. 21 +++) § 2 Abs. 1: Vgl. hierzu Fußnote zu § 20 Abs. 1 Buchst. a; BVerfGE v. 14.5.1986 I 1030 - 2 BvL 2/83 -
 
 ### § 3
 
@@ -160,41 +138,35 @@ Gebiete
 
 ### § 6 — Besteuerung des Vermögenszuwachses
 
-(1) Vorbehaltlich der Vorschriften des Einkommensteuergesetzes, Körperschaftsteuergesetzes und Umwandlungssteuergesetzes stehen bei unbeschränkt Steuerpflichtigen der Veräußerung von Anteilen im Sinne des § 17 Absatz 1 Satz 1 des Einkommensteuergesetzes zum gemeinen Wert gleich Die Veräußerung im Sinne des Satzes 1 erfolgt im Fall des Im Fall des Satzes 1 gelten die Anteile vom Steuerpflichtigen oder, bei unentgeltlicher Übertragung, von dessen Rechtsnachfolger als zum gemeinen Wert erworben, soweit die auf den Veräußerungsgewinn entfallende Steuer entrichtet worden ist; andernfalls gelten diese weiterhin als zu den ursprünglichen Anschaffungskosten erworben.
+(1) Vorbehaltlich der Vorschriften des Einkommensteuergesetzes, Körperschaftsteuergesetzes und Umwandlungssteuergesetzes stehen bei unbeschränkt Steuerpflichtigen der Veräußerung von Anteilen im Sinne des § 17 Absatz 1 Satz 1 des Einkommensteuergesetzes zum gemeinen Wert gleich
 
-1.
+1. die Beendigung der unbeschränkten Steuerpflicht infolge der Aufgabe des Wohnsitzes oder des gewöhnlichen Aufenthalts,
 
-2.
+2. die unentgeltliche Übertragung auf eine nicht unbeschränkt steuerpflichtige Person sowie,
 
-3.
-
-1.
-
-2.
-
-3.
+3. vorbehaltlich der Nummern 1 und 2, der Ausschluss oder die Beschränkung des Besteuerungsrechts der Bundesrepublik Deutschland hinsichtlich des Gewinns aus der Veräußerung der Anteile.
 
 (2) Unbeschränkt Steuerpflichtige im Sinne des Absatzes 1 sind natürliche Personen, die innerhalb der letzten zwölf Jahre vor den in Absatz 1 Satz 1 Nummer 1 bis 3 genannten Tatbeständen insgesamt mindestens sieben Jahre unbeschränkt steuerpflichtig im Sinne des § 1 Absatz 1 des Einkommensteuergesetzes gewesen sind. Bei unentgeltlichem Erwerb von Anteilen ist für die Berechnung der nach Satz 1 maßgebenden Dauer der Steuerpflicht auch die unbeschränkte Steuerpflicht des Rechtsvorgängers oder, sofern der betreffende Anteil nacheinander unentgeltlich übertragen wurde, auch die unbeschränkte Steuerpflicht des jeweiligen Rechtsvorgängers einzubeziehen. Zeiträume, in denen die natürliche Person und der oder die Rechtsvorgänger gleichzeitig unbeschränkt steuerpflichtig waren, werden dabei nur einmal angesetzt. Entfällt der Steueranspruch nach Absatz 3 in der jeweils geltenden Fassung oder einer bis zum 30. Juni 2021 geltenden Fassung, gelten der Steuerpflichtige sowie dessen unmittelbarer oder mittelbarer Rechtsnachfolger abweichend von den Sätzen 1 bis 3 als unbeschränkt Steuerpflichtige im Sinne des Absatzes 1.
 
-(3) Beruht die Beendigung der unbeschränkten Steuerpflicht im Sinne des Absatzes 1 Satz 1 Nummer 1 auf einer nur vorübergehenden Abwesenheit des Steuerpflichtigen und wird der Steuerpflichtige innerhalb von sieben Jahren seit Beendigung der unbeschränkten Steuerpflicht wieder unbeschränkt steuerpflichtig, entfällt der Steueranspruch nach Absatz 1, soweit Abweichend von Satz 1 Nummer 1 ist eine unentgeltliche Übertragung durch den Steuerpflichtigen auf eine natürliche Person von Todes wegen unbeachtlich, wenn die Voraussetzungen des Satzes 1 durch die betreffende Person oder, infolge aufeinanderfolgender unentgeltlicher Weiterübertragung zwischen natürlichen Personen von Todes wegen, durch deren unmittelbaren oder mittelbaren Rechtsnachfolger erfüllt werden. Das Finanzamt, das im Zeitpunkt der Beendigung der unbeschränkten Steuerpflicht nach § 19 der Abgabenordnung zuständig ist, kann die Frist auf Antrag des Steuerpflichtigen oder im Fall des Satzes 2 dessen Rechtsnachfolgers insgesamt um höchstens fünf Jahre verlängern, wenn die Absicht zur Rückkehr unverändert fortbesteht. Beruht ein Ausschluss des Besteuerungsrechts im Sinne des Absatzes 1 Satz 1 Nummer 3 auf einer nur vorübergehenden Abwesenheit des Steuerpflichtigen, gelten die Sätze 1 bis 3 entsprechend. Wird im Fall der unentgeltlichen Übertragung im Sinne des Absatzes 1 Satz 1 Nummer 2 auf eine natürliche Person die betreffende Person innerhalb von sieben Jahren seit der Übertragung unbeschränkt steuerpflichtig, gelten die Sätze 1 bis 3 entsprechend.
+(3) Beruht die Beendigung der unbeschränkten Steuerpflicht im Sinne des Absatzes 1 Satz 1 Nummer 1 auf einer nur vorübergehenden Abwesenheit des Steuerpflichtigen und wird der Steuerpflichtige innerhalb von sieben Jahren seit Beendigung der unbeschränkten Steuerpflicht wieder unbeschränkt steuerpflichtig, entfällt der Steueranspruch nach Absatz 1, soweit
 
-1.
+1. die Anteile in der Zwischenzeit weder veräußert, übertragen noch in ein Betriebsvermögen eingelegt wurden,
 
-2.
+2. keine Gewinnausschüttungen oder keine Einlagenrückgewähr erfolgt sind, deren gemeiner Wert insgesamt mehr als ein Viertel des Werts im Sinne des Absatzes 1 beträgt, und
 
-3.
+3. das Besteuerungsrecht der Bundesrepublik Deutschland hinsichtlich des Gewinns aus der Veräußerung der Anteile mindestens in dem Umfang wieder begründet wird, wie es im Zeitpunkt der Beendigung der Steuerpflicht bestand.
 
-(4) Die festgesetzte Steuer, die auf die nach Absatz 1 realisierten Einkünfte entfällt, kann auf Antrag des Steuerpflichtigen in sieben gleichen Jahresraten entrichtet werden. Dem Antrag ist in der Regel nur gegen Sicherheitsleistung stattzugeben. Die erste Jahresrate ist innerhalb eines Monats nach Bekanntgabe des Steuerbescheids zu entrichten; die übrigen Jahresraten sind jeweils am 31. Juli der Folgejahre fällig. Die Jahresraten sind nicht zu verzinsen. Die noch nicht entrichtete Steuer ist innerhalb eines Monats nach Eintritt der nachfolgenden Ereignisse fällig, Abweichend von Satz 5 Nummer 4 ist eine unentgeltliche Übertragung durch den Steuerpflichtigen auf eine natürliche Person von Todes wegen unbeachtlich; insofern ist für Zwecke des Satzes 5 auf die betreffende Person oder, infolge aufeinanderfolgender unentgeltlicher Weiterübertragung zwischen natürlichen Personen von Todes wegen, auf deren unmittelbaren oder mittelbaren Rechtsnachfolger abzustellen. In den Fällen des Absatzes 3 gelten die vorstehenden Sätze entsprechend; der Stundungszeitraum richtet sich nach der vom Finanzamt eingeräumten Frist; die Erhebung von Jahresraten entfällt auf Antrag des Steuerpflichtigen; über Satz 5 hinaus wird die noch nicht entrichtete Steuer auch innerhalb eines Monats nach Eintritt des Ereignisses fällig, wonach der Steueranspruch nicht mehr nach Absatz 3 entfallen kann oder der Wegfall der Rückkehrabsicht gegenüber dem Finanzamt mitgeteilt wird. Soweit die Steuer nicht nach Absatz 3 entfällt und der Steuerpflichtige auf die Leistung von Jahresraten verzichtet hat, sind für die Dauer des gewährten Zahlungsaufschubs Zinsen in entsprechender Anwendung des § 234 der Abgabenordnung zu erheben.
+(4) Die festgesetzte Steuer, die auf die nach Absatz 1 realisierten Einkünfte entfällt, kann auf Antrag des Steuerpflichtigen in sieben gleichen Jahresraten entrichtet werden. Dem Antrag ist in der Regel nur gegen Sicherheitsleistung stattzugeben. Die erste Jahresrate ist innerhalb eines Monats nach Bekanntgabe des Steuerbescheids zu entrichten; die übrigen Jahresraten sind jeweils am 31. Juli der Folgejahre fällig. Die Jahresraten sind nicht zu verzinsen. Die noch nicht entrichtete Steuer ist innerhalb eines Monats nach Eintritt der nachfolgenden Ereignisse fällig,
 
-1.
+1. wenn die Jahresrate nicht fristgemäß entrichtet wird,
 
-2.
+2. wenn der Steuerpflichtige seine Mitwirkungspflichten nach Absatz 5 nicht erfüllt,
 
-3.
+3. wenn der Steuerpflichtige Insolvenz anmeldet,
 
-4.
+4. soweit die Anteile veräußert oder übertragen werden oder
 
-5.
+5. soweit Gewinnausschüttungen oder eine Einlagenrückgewähr erfolgen und soweit deren gemeiner Wert insgesamt mehr als ein Viertel des Werts im Sinne des Absatzes 1 beträgt.
 
 (5) Der Steuerpflichtige oder sein Gesamtrechtsnachfolger hat dem Finanzamt, das in den in Absatz 1 genannten Zeitpunkten nach § 19 der Abgabenordnung zuständig ist, nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle elektronisch die Verwirklichung eines der Tatbestände des Absatzes 4 Satz 5 oder 7 mitzuteilen. Die Mitteilung ist innerhalb eines Monats nach dem meldepflichtigen Ereignis zu erstatten. Der Steuerpflichtige oder sein Gesamtrechtsnachfolger hat dem nach Satz 1 zuständigen Finanzamt jährlich bis zum 31. Juli nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle elektronisch seine aktuelle Anschrift mitzuteilen und zu bestätigen, dass die Anteile ihm oder im Fall des Absatzes 1 Satz 1 Nummer 2 seinem Rechtsnachfolger weiterhin zuzurechnen sind. Auf Antrag kann die Finanzbehörde zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung verzichten; in diesem Fall ist die Mitteilung nach amtlich vorgeschriebenem Vordruck abzugeben und vom Steuerpflichtigen eigenhändig zu unterschreiben.
 
@@ -214,53 +186,27 @@ Gebiete
 
 (5) Die Absätze 1 bis 4 sind nicht anzuwenden, wenn auf die Einkünfte, für die die ausländische Gesellschaft Zwischengesellschaft ist, die Vorschriften des Investmentsteuergesetzes in der jeweils geltenden Fassung anzuwenden sind. Satz 1 gilt nicht, wenn die den Einkünften zugrunde liegenden Geschäfte zu mehr als einem Drittel mit dem Steuerpflichtigen oder ihm nahestehenden Personen betrieben werden.
 
-> (+++ § 7: Zur Anwendung vgl. § 21 +++) (+++ § 7 Abs. 6: Zur erstmaligen Anwendung vgl. § 21 Abs. 17 +++) (+++ § 7 Abs. 8: Zur erstmaligen Anwendung vgl. § 21 Abs. 15 +++)
-
 ### § 8 — Einkünfte von Zwischengesellschaften
 
 (1) Eine ausländische Gesellschaft ist Zwischengesellschaft für Einkünfte, einschließlich Veräußerungsgewinnen, die einer niedrigen Besteuerung im Sinne des Absatzes 5 unterliegen und nicht stammen aus:
 
-1.
+1. der Land- und Forstwirtschaft,
 
-2.
+2. der Herstellung, Bearbeitung, Verarbeitung oder Montage von Sachen, der Erzeugung von Energie sowie dem Aufsuchen und der Gewinnung von Bodenschätzen,
 
-3.
+3. dem Betrieb von Versicherungsunternehmen, Kreditinstituten und Finanzdienstleistungsinstituten, die einer wesentlichen wirtschaftlichen Tätigkeit im Sinne des Absatzes 2 nachgehen; es sei denn, die diesen Einkünften zugrunde liegenden Geschäfte werden zu mehr als einem Drittel mit dem Steuerpflichtigen oder ihm nahestehenden Personen betrieben. Gleiches gilt für Finanzunternehmen im Sinne des Kreditwesengesetzes, an denen Kreditinstitute oder Finanzdienstleistungsinstitute unmittelbar oder mittelbar zu mehr als 50 Prozent beteiligt sind,
 
-4.
+4. dem Handel, soweit nicht a)ein Steuerpflichtiger, der gemäß § 7 an der ausländischen Gesellschaft beteiligt ist, oder eine einem solchen Steuerpflichtigen im Sinne des § 1 Absatz 2 nahestehende Person, die mit ihren Einkünften hieraus im Geltungsbereich dieses Gesetzes steuerpflichtig ist, der ausländischen Gesellschaft die Verfügungsmacht an den gehandelten Gütern oder Waren verschafft, oderb)die ausländische Gesellschaft einem solchen Steuerpflichtigen oder einer solchen nahestehenden Person die Verfügungsmacht an den Gütern oder Waren verschafft,es sei denn, der Steuerpflichtige weist nach, dass die ausländische Gesellschaft einen für derartige Handelsgeschäfte in kaufmännischer Weise eingerichteten Geschäftsbetrieb unter Teilnahme am allgemeinen wirtschaftlichen Verkehr unterhält und die zur Vorbereitung, dem Abschluss und der Ausführung der Geschäfte gehörenden Tätigkeiten ohne Mitwirkung eines solchen Steuerpflichtigen oder einer solchen nahestehenden Person ausübt, ein Steuerpflichtiger, der gemäß § 7 an der ausländischen Gesellschaft beteiligt ist, oder eine einem solchen Steuerpflichtigen im Sinne des § 1 Absatz 2 nahestehende Person, die mit ihren Einkünften hieraus im Geltungsbereich dieses Gesetzes steuerpflichtig ist, der ausländischen Gesellschaft die Verfügungsmacht an den gehandelten Gütern oder Waren verschafft, oder die ausländische Gesellschaft einem solchen Steuerpflichtigen oder einer solchen nahestehenden Person die Verfügungsmacht an den Gütern oder Waren verschafft,
 
-a)
+5. Dienstleistungen, soweit nicht a)die ausländische Gesellschaft für die Dienstleistung sich eines Steuerpflichtigen, der gemäß § 7 an ihr beteiligt ist, oder einer einem solchen Steuerpflichtigen im Sinne des § 1 Absatz 2 nahestehenden Person bedient, die mit ihren Einkünften aus der von ihr beigetragenen Leistung im Geltungsbereich dieses Gesetzes steuerpflichtig ist, oderb)die ausländische Gesellschaft die Dienstleistung einem solchen Steuerpflichtigen oder einer solchen nahestehenden Person erbringt, es sei denn, der Steuerpflichtige weist nach, dass die ausländische Gesellschaft einen für das Bewirken derartiger Dienstleistungen eingerichteten Geschäftsbetrieb unter Teilnahme am allgemeinen wirtschaftlichen Verkehr unterhält und die zu der Dienstleistung gehörenden Tätigkeiten ohne Mitwirkung eines solchen Steuerpflichtigen oder einer solchen nahestehenden Person ausübt, die ausländische Gesellschaft für die Dienstleistung sich eines Steuerpflichtigen, der gemäß § 7 an ihr beteiligt ist, oder einer einem solchen Steuerpflichtigen im Sinne des § 1 Absatz 2 nahestehenden Person bedient, die mit ihren Einkünften aus der von ihr beigetragenen Leistung im Geltungsbereich dieses Gesetzes steuerpflichtig ist, oder die ausländische Gesellschaft die Dienstleistung einem solchen Steuerpflichtigen oder einer solchen nahestehenden Person erbringt, es sei denn, der Steuerpflichtige weist nach, dass die ausländische Gesellschaft einen für das Bewirken derartiger Dienstleistungen eingerichteten Geschäftsbetrieb unter Teilnahme am allgemeinen wirtschaftlichen Verkehr unterhält und die zu der Dienstleistung gehörenden Tätigkeiten ohne Mitwirkung eines solchen Steuerpflichtigen oder einer solchen nahestehenden Person ausübt,
 
-b)
+6. der Vermietung und Verpachtung, ausgenommen a)die Überlassung der Nutzung von Rechten, Plänen, Mustern, Verfahren, Erfahrungen und Kenntnissen, es sei denn, der Steuerpflichtige weist nach, dass die ausländische Gesellschaft die Ergebnisse eigener Forschungs- oder Entwicklungsarbeit auswertet, die ohne Mitwirkung eines Steuerpflichtigen, der gemäß § 7 an der Gesellschaft beteiligt ist, oder einer einem solchen Steuerpflichtigen im Sinne des § 1 Absatz 2 nahestehenden Person unternommen worden ist,b)die Vermietung oder Verpachtung von Grundstücken, es sei denn, der Steuerpflichtige weist nach, dass die Einkünfte daraus nach einem Abkommen zur Vermeidung der Doppelbesteuerung steuerbefreit wären, wenn sie von den unbeschränkt Steuerpflichtigen, die gemäß § 7 an der ausländischen Gesellschaft beteiligt sind, unmittelbar bezogen worden wären, undc)die Vermietung oder Verpachtung von beweglichen Sachen, es sei denn, der Steuerpflichtige weist nach, dass die ausländische Gesellschaft einen Geschäftsbetrieb gewerbsmäßiger Vermietung oder Verpachtung unter Teilnahme am allgemeinen wirtschaftlichen Verkehr unterhält und alle zu einer solchen gewerbsmäßigen Vermietung oder Verpachtung gehörenden Tätigkeiten ohne Mitwirkung eines unbeschränkt Steuerpflichtigen, der gemäß § 7 an ihr beteiligt ist, oder einer einem solchen Steuerpflichtigen im Sinne des § 1 Absatz 2 nahestehenden Person ausübt, die Überlassung der Nutzung von Rechten, Plänen, Mustern, Verfahren, Erfahrungen und Kenntnissen, es sei denn, der Steuerpflichtige weist nach, dass die ausländische Gesellschaft die Ergebnisse eigener Forschungs- oder Entwicklungsarbeit auswertet, die ohne Mitwirkung eines Steuerpflichtigen, der gemäß § 7 an der Gesellschaft beteiligt ist, oder einer einem solchen Steuerpflichtigen im Sinne des § 1 Absatz 2 nahestehenden Person unternommen worden ist, die Vermietung oder Verpachtung von Grundstücken, es sei denn, der Steuerpflichtige weist nach, dass die Einkünfte daraus nach einem Abkommen zur Vermeidung der Doppelbesteuerung steuerbefreit wären, wenn sie von den unbeschränkt Steuerpflichtigen, die gemäß § 7 an der ausländischen Gesellschaft beteiligt sind, unmittelbar bezogen worden wären, und die Vermietung oder Verpachtung von beweglichen Sachen, es sei denn, der Steuerpflichtige weist nach, dass die ausländische Gesellschaft einen Geschäftsbetrieb gewerbsmäßiger Vermietung oder Verpachtung unter Teilnahme am allgemeinen wirtschaftlichen Verkehr unterhält und alle zu einer solchen gewerbsmäßigen Vermietung oder Verpachtung gehörenden Tätigkeiten ohne Mitwirkung eines unbeschränkt Steuerpflichtigen, der gemäß § 7 an ihr beteiligt ist, oder einer einem solchen Steuerpflichtigen im Sinne des § 1 Absatz 2 nahestehenden Person ausübt,
 
-5.
+7. Bezügen im Sinne des § 8b Absatz 1 des Körperschaftsteuergesetzes, ausgenommen a)Bezüge, soweit diese das Einkommen der leistenden Körperschaft gemindert haben; dies gilt auch dann, wenn die ausländische Gesellschaft hinsichtlich dieser Bezüge gemäß den Nummern 1 bis 6 nicht Zwischengesellschaft ist. Dies gilt nicht, soweit aa)die leistende Körperschaft mit den diesen Bezügen zugrunde liegenden Einkünften Zwischengesellschaft ist oderbb)eine verdeckte Gewinnausschüttung das Einkommen der ausländischen Gesellschaft oder einer ihr nahestehenden Person erhöht hat und dieses Einkommen keiner niedrigen Besteuerung im Sinne des Absatzes 5 unterliegt,b)Bezüge, die bei der ausländischen Gesellschaft nach § 8b Absatz 4 des Körperschaftsteuergesetzes zu berücksichtigen wären, wenn diese unbeschränkt körperschaftsteuerpflichtig wäre; dies gilt auch dann, wenn die ausländische Gesellschaft hinsichtlich dieser Bezüge gemäß den Nummern 1 bis 6 oder 7 Buchstabe a Doppelbuchstabe aa und bb nicht Zwischengesellschaft ist, undc)Bezüge, die bei der ausländischen Gesellschaft nach § 8b Absatz 7 des Körperschaftsteuergesetzes nicht steuerbefreit wären, wenn diese unbeschränkt körperschaftsteuerpflichtig wäre; dies gilt auch dann, wenn die ausländische Gesellschaft hinsichtlich dieser Bezüge gemäß den Nummern 1 bis 6 oder 7 Buchstabe a Doppelbuchstabe aa und bb nicht Zwischengesellschaft ist, Bezüge, soweit diese das Einkommen der leistenden Körperschaft gemindert haben; dies gilt auch dann, wenn die ausländische Gesellschaft hinsichtlich dieser Bezüge gemäß den Nummern 1 bis 6 nicht Zwischengesellschaft ist. Dies gilt nicht, soweit aa)die leistende Körperschaft mit den diesen Bezügen zugrunde liegenden Einkünften Zwischengesellschaft ist oderbb)eine verdeckte Gewinnausschüttung das Einkommen der ausländischen Gesellschaft oder einer ihr nahestehenden Person erhöht hat und dieses Einkommen keiner niedrigen Besteuerung im Sinne des Absatzes 5 unterliegt, die leistende Körperschaft mit den diesen Bezügen zugrunde liegenden Einkünften Zwischengesellschaft ist oder eine verdeckte Gewinnausschüttung das Einkommen der ausländischen Gesellschaft oder einer ihr nahestehenden Person erhöht hat und dieses Einkommen keiner niedrigen Besteuerung im Sinne des Absatzes 5 unterliegt, Bezüge, die bei der ausländischen Gesellschaft nach § 8b Absatz 4 des Körperschaftsteuergesetzes zu berücksichtigen wären, wenn diese unbeschränkt körperschaftsteuerpflichtig wäre; dies gilt auch dann, wenn die ausländische Gesellschaft hinsichtlich dieser Bezüge gemäß den Nummern 1 bis 6 oder 7 Buchstabe a Doppelbuchstabe aa und bb nicht Zwischengesellschaft ist, und Bezüge, die bei der ausländischen Gesellschaft nach § 8b Absatz 7 des Körperschaftsteuergesetzes nicht steuerbefreit wären, wenn diese unbeschränkt körperschaftsteuerpflichtig wäre; dies gilt auch dann, wenn die ausländische Gesellschaft hinsichtlich dieser Bezüge gemäß den Nummern 1 bis 6 oder 7 Buchstabe a Doppelbuchstabe aa und bb nicht Zwischengesellschaft ist,
 
-a)
+8. der Veräußerung eines Anteils an einer anderen Gesellschaft sowie aus deren Auflösung oder der Herabsetzung ihres Kapitals, ausgenommen Veräußerungsgewinne, die bei der ausländischen Gesellschaft nach § 8b Absatz 7 des Körperschaftsteuergesetzes nicht steuerbefreit wären, wenn diese unbeschränkt körperschaftsteuerpflichtig wäre; dies gilt auch dann, wenn die ausländische Gesellschaft hinsichtlich dieser Veräußerungsgewinne gemäß Nummer 3 nicht Zwischengesellschaft ist,
 
-b)
-
-6.
-
-a)
-
-b)
-
-c)
-
-7.
-
-a)
-
-aa)
-
-bb)
-
-b)
-
-c)
-
-8.
-
-9.
+9. Umwandlungen; dies gilt nicht, soweit die Einkünfte auf der Übertragung von Wirtschaftsgütern beruhen, die nicht der Erzielung von Einkünften im Sinne der Nummern 1 bis 8 dienen, es sei denn, der Steuerpflichtige weist nach, dass die Umwandlung im Inland ungeachtet des § 1 Absatz 4 des Umwandlungssteuergesetzes zu Buchwerten hätte erfolgen können und im Ausland tatsächlich zu Buchwerten erfolgt ist.
 
 (2) Ungeachtet des Absatzes 1 ist eine ausländische Gesellschaft nicht Zwischengesellschaft für Einkünfte, für die nachgewiesen wird, dass die Gesellschaft in dem Staat, in dem sie ihren Sitz oder ihre Geschäftsleitung hat, insoweit einer wesentlichen wirtschaftlichen Tätigkeit nachgeht. Dies setzt insbesondere den Einsatz der für die Ausübung der Tätigkeit erforderlichen sachlichen und personellen Ausstattung in diesem Staat voraus. Die Tätigkeit muss durch hinreichend qualifiziertes Personal selbständig und eigenverantwortlich ausgeübt werden. Der wesentlichen wirtschaftlichen Tätigkeit der Gesellschaft sind nur Einkünfte der Gesellschaft zuzuordnen, die durch diese Tätigkeit erzielt werden und dies nur insoweit, als der Fremdvergleichsgrundsatz (§ 1) beachtet worden ist. Die Sätze 1 bis 3 gelten nicht, wenn die Gesellschaft ihre wesentliche wirtschaftliche Tätigkeit überwiegend durch Dritte besorgen lässt.
 
@@ -270,11 +216,9 @@ c)
 
 (5) Eine niedrige Besteuerung liegt vor, wenn die nach Maßgabe des § 10 Absatz 3 ermittelten Einkünfte, für die die ausländische Gesellschaft Zwischengesellschaft ist, einer Belastung durch Ertragsteuern von weniger als 15 Prozent unterliegen, ohne dass dies auf einem Ausgleich mit Einkünften aus anderen Quellen beruht. In die Belastungsberechnung sind Ansprüche einzubeziehen, die der Staat oder das Gebiet der ausländischen Gesellschaft im Fall einer Gewinnausschüttung der ausländischen Gesellschaft dem Steuerpflichtigen oder einer anderen Gesellschaft, an der der Steuerpflichtige unmittelbar oder mittelbar beteiligt ist, gewährt. Einkünfte unterliegen im Sinne des Satzes 1 auch dann einer Belastung durch Ertragsteuern von weniger als 15 Prozent, wenn Ertragsteuern von mindestens 15 Prozent zwar rechtlich geschuldet, jedoch nicht tatsächlich erhoben werden.
 
-> (+++ § 8: Zur Anwendung vgl. § 21 +++) (+++ § 8 Abs. 3 Satz 2, 3: Zur Anwendung vgl. § 4j EStG +++)
-
 ### § 9 — Freigrenze bei gemischten Einkünften
 
-Für die Anwendung des § 7 Absatz 1 sind Einkünfte eines maßgebenden Wirtschaftsjahres im Sinne des § 7 Absatz 2, für die eine ausländische Gesellschaft Zwischengesellschaft ist, außer Ansatz zu lassen, wenn die Einkünfte nicht mehr als ein Drittel der gesamten Einkünfte der ausländischen Gesellschaft betragen und die bei einer Zwischengesellschaft hiernach außer Ansatz zu lassenden Beträge insgesamt 100 000 Euro nicht übersteigen.
+Für die Anwendung des § 7 Absatz 1 sind Einkünfte eines maßgebenden Wirtschaftsjahres im Sinne des § 7 Absatz 2, für die eine ausländische Gesellschaft Zwischengesellschaft ist, außer Ansatz zu lassen, wenn die Einkünfte nicht mehr als ein Drittel der gesamten Einkünfte der ausländischen Gesellschaft betragen und die bei einer Zwischengesellschaft hiernach außer Ansatz zu lassenden Beträge insgesamt 100 000 Euro nicht übersteigen.
 
 > (+++ § 9: Zur Anwendung vgl. § 21 +++)
 
@@ -296,13 +240,13 @@ Für die Anwendung des § 7 Absatz 1 sind Einkünfte eines maßgebenden Wirtscha
 
 ### § 11 — Kürzungsbetrag bei Beteiligung an ausländischer Gesellschaft
 
-(1) Erhält der Steuerpflichtige aus der Beteiligung an einer ausländischen Gesellschaft, für die Hinzurechnungsbeträge nach § 10 Absatz 2 bei ihm der Einkommen- oder Körperschaftsteuer unterlegen haben, Bezüge im Sinne des ist bei der Ermittlung der Summe der Einkünfte ein Kürzungsbetrag nach Absatz 2 abzuziehen; im Rahmen des § 32d des Einkommensteuergesetzes ist dieser bei der Ermittlung der Summe der Kapitalerträge abzuziehen. Entsprechendes gilt für Bezüge des Steuerpflichtigen im Sinne des Satzes 1 von Gesellschaften, die an der Zwischengesellschaft unmittelbar oder mittelbar beteiligt sind.
+(1) Erhält der Steuerpflichtige aus der Beteiligung an einer ausländischen Gesellschaft, für die Hinzurechnungsbeträge nach § 10 Absatz 2 bei ihm der Einkommen- oder Körperschaftsteuer unterlegen haben, Bezüge im Sinne des
 
-1.
+1. § 20 Absatz 1 Nummer 1 des Einkommensteuergesetzes,
 
-2.
+2. § 20 Absatz 1 Nummer 3 des Einkommensteuergesetzes in Verbindung mit § 16 Absatz 1 Nummer 1 des Investmentsteuergesetzes oder
 
-3.
+3. § 20 Absatz 1 Nummer 3a des Einkommensteuergesetzes in Verbindung mit § 34 Absatz 1 Nummer 1 des Investmentsteuergesetzes,
 
 (2) Der Kürzungsbetrag entspricht dem Betrag, der als Bezug im Sinne der unter Absatz 1 bezeichneten Vorschriften bei dem Steuerpflichtigen steuerpflichtig ist. Er ist begrenzt auf den Betrag, der als Bezug im Sinne der unter Absatz 1 bezeichneten Vorschriften bei dem Steuerpflichtigen steuerpflichtig wäre, wenn das auf den Schluss des vorangegangenen Veranlagungszeitraums festgestellte Hinzurechnungskorrekturvolumen zuzüglich des im laufenden Veranlagungszeitraum zu besteuernden Hinzurechnungsbetrags in vollem Umfang ausgeschüttet würde.
 
@@ -322,11 +266,9 @@ Für die Anwendung des § 7 Absatz 1 sind Einkünfte eines maßgebenden Wirtscha
 
 (3) Bei der Anrechnung sind die Vorschriften des § 34c Absatz 1 des Einkommensteuergesetzes und des § 26 Absatz 1 und 2 Satz 1 des Körperschaftsteuergesetzes auf den Gesamtbetrag der Anrechnungsbeträge nach den Absätzen 1 und 2 entsprechend anzuwenden.
 
-> (+++ § 12: Zur Anwendung vgl. § 21 +++) (+++ § 12 Abs. 3: Zur erstmaligen Anwendung vgl. § 21 Abs. 17 +++)
-
 ### § 13 — Beteiligung an Kapitalanlagegesellschaften
 
-(1) Sind einem unbeschränkt Steuerpflichtigen allein oder zusammen mit ihm nach § 7 Absatz 3 und 4 Satz 1 nahestehenden Personen am Ende des Wirtschaftsjahres der ausländischen Gesellschaft, in dem diese Einkünfte nach dieser Vorschrift erzielt hat, mindestens 10 Prozent der Stimmrechte oder mindestens 10 Prozent der Anteile am Nennkapital unmittelbar oder mittelbar zuzurechnen und bestehen die Einkünfte der Gesellschaft aus Einkünften mit Kapitalanlagecharakter, die einer niedrigen Besteuerung unterliegen (§ 8 Absatz 5), sind diese Einkünfte bei dem unbeschränkt Steuerpflichtigen entsprechend seiner unmittelbaren und mittelbaren Beteiligung am Nennkapital dieser Gesellschaft steuerpflichtig, wenn die Voraussetzungen des § 7 Absatz 1 Satz 1 im Übrigen nicht erfüllt sind. § 7 Absatz 1 Satz 2 und 3 gilt entsprechend. Satz 1 ist nicht anzuwenden, wenn die Einkünfte mit Kapitalanlagecharakter nicht mehr als ein Drittel der gesamten Einkünfte, für die die ausländische Gesellschaft Zwischengesellschaft ist, betragen und die bei einer Zwischengesellschaft hiernach außer Ansatz zu lassenden Beträge insgesamt 100 000 Euro nicht übersteigen.
+(1) Sind einem unbeschränkt Steuerpflichtigen allein oder zusammen mit ihm nach § 7 Absatz 3 und 4 Satz 1 nahestehenden Personen am Ende des Wirtschaftsjahres der ausländischen Gesellschaft, in dem diese Einkünfte nach dieser Vorschrift erzielt hat, mindestens 10 Prozent der Stimmrechte oder mindestens 10 Prozent der Anteile am Nennkapital unmittelbar oder mittelbar zuzurechnen und bestehen die Einkünfte der Gesellschaft aus Einkünften mit Kapitalanlagecharakter, die einer niedrigen Besteuerung unterliegen (§ 8 Absatz 5), sind diese Einkünfte bei dem unbeschränkt Steuerpflichtigen entsprechend seiner unmittelbaren und mittelbaren Beteiligung am Nennkapital dieser Gesellschaft steuerpflichtig, wenn die Voraussetzungen des § 7 Absatz 1 Satz 1 im Übrigen nicht erfüllt sind. § 7 Absatz 1 Satz 2 und 3 gilt entsprechend. Satz 1 ist nicht anzuwenden, wenn die Einkünfte mit Kapitalanlagecharakter nicht mehr als ein Drittel der gesamten Einkünfte, für die die ausländische Gesellschaft Zwischengesellschaft ist, betragen und die bei einer Zwischengesellschaft hiernach außer Ansatz zu lassenden Beträge insgesamt 100 000 Euro nicht übersteigen.
 
 (2) Einkünfte mit Kapitalanlagecharakter sind Einkünfte, einschließlich Veräußerungsgewinne, die aus dem Halten, der Verwaltung, der Werterhaltung oder der Werterhöhung von Zahlungsmitteln, Forderungen, Wertpapieren, Beteiligungen (ausgenommen Einkünfte im Sinne des § 8 Absatz 1 Nummer 7 und 8) oder ähnlichen Vermögenswerten stammen, es sei denn, der Steuerpflichtige weist nach, dass sie aus einer Tätigkeit stammen, die einer unter § 8 Absatz 1 Nummer 1 bis 6 fallenden eigenen Tätigkeit der ausländischen Gesellschaft dient.
 
@@ -356,9 +298,9 @@ Für die Anwendung des § 7 Absatz 1 sind Einkünfte eines maßgebenden Wirtscha
 
 (6) Hat eine Familienstiftung Geschäftsleitung oder Sitz in einem Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des EWR-Abkommens, ist Absatz 1 nicht anzuwenden, wenn
 
-1.
+1. nachgewiesen wird, dass das Stiftungsvermögen der Verfügungsmacht der in den Absätzen 2 und 3 genannten Personen rechtlich und tatsächlich entzogen ist und
 
-2.
+2. zwischen der Bundesrepublik Deutschland und dem Staat, in dem die Familienstiftung Geschäftsleitung oder Sitz hat, auf Grund der Amtshilferichtlinie gemäß § 2 Absatz 11 des EU-Amtshilfegesetzes oder einer vergleichbaren zwei- oder mehrseitigen Vereinbarung, Auskünfte erteilt werden, die erforderlich sind, um die Besteuerung durchzuführen.
 
 (7) Die Einkünfte der Stiftung nach Absatz 1 werden in entsprechender Anwendung der Vorschriften des Körperschaftsteuergesetzes und des Einkommensteuergesetzes ermittelt. Bei der Ermittlung der Einkünfte gilt § 10 Absatz 3 Satz 3 bis 6 entsprechend; § 8b des Körperschaftsteuergesetzes bleibt unberücksichtigt. Ergibt sich ein negativer Betrag, entfällt die Zurechnung.
 
@@ -384,9 +326,9 @@ Für die Anwendung des § 7 Absatz 1 sind Einkünfte eines maßgebenden Wirtscha
 
 (1) Zur Anwendung der Vorschriften der §§ 5 und 7 bis 15 haben Steuerpflichtige für sich selbst und im Zusammenwirken mit anderen die dafür notwendigen Auskünfte zu erteilen. Auf Verlangen sind insbesondere
 
-1.
+1. die Geschäftsbeziehungen zu offenbaren, die zwischen der Gesellschaft und einem so beteiligten unbeschränkt Steuerpflichtigen oder einer einem solchen im Sinne des § 7 Absatz 3 oder 4 nahestehenden Person bestehen,
 
-2.
+2. die für die Anwendung der §§ 7 bis 15 sachdienlichen Unterlagen einschließlich der Bilanzen und der Erfolgsrechnungen, einer Darstellung der Beteiligungsverhältnisse sowie der Steuererklärungen und Steuerbescheide vorzulegen. Auf Verlangen sind diese Unterlagen mit dem im Staat der Geschäftsleitung oder des Sitzes vorgeschriebenen oder üblichen Prüfungsvermerk einer behördlich anerkannten Wirtschaftsprüfungsstelle oder vergleichbaren Stelle vorzulegen.
 
 (2) Ist für die Ermittlung der Einkünfte, für die eine ausländische Gesellschaft Zwischengesellschaft ist, eine Schätzung nach § 162 der Abgabenordnung vorzunehmen, so ist mangels anderer geeigneter Anhaltspunkte bei der Schätzung als Anhaltspunkt von mindestens 20 Prozent des gemeinen Werts der von den unbeschränkt Steuerpflichtigen gehaltenen Anteile auszugehen; Zinsen und Nutzungsentgelte, die die Gesellschaft für überlassene Wirtschaftsgüter an die unbeschränkt Steuerpflichtigen zahlt, sind abzuziehen.
 
@@ -394,7 +336,7 @@ Für die Anwendung des § 7 Absatz 1 sind Einkünfte eines maßgebenden Wirtscha
 
 ### § 18 — Gesonderte Feststellung von Besteuerungsgrundlagen
 
-(1) Die Besteuerungsgrundlagen für die Anwendung der §§ 7 bis 13, insbesondere der Hinzurechnungsbetrag (§ 10), die anrechenbaren Steuern (§ 12), das Hinzurechnungskorrekturvolumen (§ 11) und der Verlustvortrag werden gesondert festgestellt. Ist ein Steuerpflichtiger an der ausländischen Gesellschaft über andere vermittelnde Gesellschaften beteiligt, so ist auch festzustellen, wie sich das Hinzurechnungskorrekturvolumen für Zwecke des § 11 Absatz 1 Satz 2 auf die vermittelnden Gesellschaften aufteilt. Sind an der ausländischen Gesellschaft mehrere Steuerpflichtige unmittelbar oder mittelbar beteiligt, so wird die gesonderte Feststellung ihnen gegenüber einheitlich vorgenommen; dabei ist auch festzustellen, wie sich die Besteuerungsgrundlagen auf die einzelnen Beteiligten verteilen. Die Vorschriften der Abgabenordnung, mit Ausnahme des § 180 Absatz 3 und des § 183, und der Finanzgerichtsordnung über die gesonderte Feststellung von Besteuerungsgrundlagen sind entsprechend anzuwenden.
+(1) Die Besteuerungsgrundlagen für die Anwendung der §§ 7 bis 13, insbesondere der Hinzurechnungsbetrag (§ 10), die anrechenbaren Steuern (§ 12), das Hinzurechnungskorrekturvolumen (§ 11) und der Verlustvortrag werden gesondert festgestellt. Ist ein Steuerpflichtiger an der ausländischen Gesellschaft über andere vermittelnde Gesellschaften beteiligt, so ist auch festzustellen, wie sich das Hinzurechnungskorrekturvolumen für Zwecke des § 11 Absatz 1 Satz 2 auf die vermittelnden Gesellschaften aufteilt. Sind an der ausländischen Gesellschaft mehrere Steuerpflichtige unmittelbar oder mittelbar beteiligt, so wird die gesonderte Feststellung ihnen gegenüber einheitlich vorgenommen; dabei ist auch festzustellen, wie sich die Besteuerungsgrundlagen auf die einzelnen Beteiligten verteilen. Die Vorschriften der Abgabenordnung, mit Ausnahme des § 180 Absatz 3 und des § 183, und der Finanzgerichtsordnung über die gesonderte Feststellung von Besteuerungsgrundlagen sind entsprechend anzuwenden.
 
 (2) Für die gesonderte Feststellung ist das Finanzamt zuständig, das bei dem Steuerpflichtigen für die Ermittlung der aus der unmittelbaren und mittelbaren Beteiligung bezogenen Einkünfte örtlich zuständig ist. Ist die gesonderte Feststellung gegenüber mehreren Personen einheitlich vorzunehmen, ist das Finanzamt zuständig, das nach Satz 1 für den Beteiligten zuständig ist, dem die höchste Beteiligung an der ausländischen Gesellschaft zuzurechnen ist. Lässt sich das zuständige Finanzamt nach den Sätzen 1 und 2 nicht feststellen, ist das Finanzamt zuständig, das zuerst mit der Sache befasst wird. Soweit in den Fällen des § 7 Absatz 1 Satz 2 mittelbare Beteiligungen für die Steuerpflicht unbeachtlich sind, sind diese auch für die Ermittlung der Zuständigkeit nach den Sätzen 1 und 2 unbeachtlich.
 
@@ -426,37 +368,37 @@ Für die Anwendung des § 7 Absatz 1 sind Einkünfte eines maßgebenden Wirtscha
 
 (1) Diese Fassung des Gesetzes gilt, sofern in den folgenden Absätzen nichts anderes bestimmt ist,
 
-1.
+1. für die Einkommen- und Körperschaftsteuer erstmals für den Veranlagungszeitraum 2022,
 
-2.
+2. für die Gewerbesteuer erstmals für den Erhebungszeitraum 2022,
 
-3.
+3. für die Erbschaftsteuer auf Erwerbe, bei denen die Steuerschuld nach dem Inkrafttreten dieses Gesetzes entstanden ist.
 
-(1a) § 1 Absatz 3d und 3e in der Fassung des Artikels 10 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) ist erstmals anzuwenden Dabei ist § 1 Absatz 3d nicht auf bis zum 31. Dezember 2024 entstehende Aufwendungen anzuwenden, die auf Finanzierungsbeziehungen beruhen, die vor dem 1. Januar 2024 zivilrechtlich vereinbart wurden und deren tatsächliche Durchführung vor dem 1. Januar 2024 begonnen hat. Werden betroffene Finanzierungsbeziehungen nach dem 31. Dezember 2023 und vor dem 1. Januar 2025 wesentlich geändert, ist § 1 Absatz 3d nicht auf Aufwendungen anzuwenden, die vor der wesentlichen Änderung entstehen.
+(1a) § 1 Absatz 3d und 3e in der Fassung des Artikels 10 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) ist erstmals anzuwenden
 
-1.
+1. für die Einkommensteuer und für die Körperschaftsteuer für den Veranlagungszeitraum 2024;
 
-2.
+2. für die Gewerbesteuer für den Erhebungszeitraum 2024.
 
 (2) § 1 Absatz 2 in der Fassung des Artikels 5 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2035) ist für Zwecke der Anwendung des § 4k Absatz 6 des Einkommensteuergesetzes in der Fassung des Artikels 1 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2035) bereits für den Veranlagungs- und Erhebungszeitraum 2020 anzuwenden.
 
-(3) Wurde ein Tatbestand des § 6 Absatz 1 in einer bis zum 30. Juni 2021 geltenden Fassung vor dem 1. Januar 2022 verwirklicht, ist § 6 in der am 30. Juni 2021 geltenden Fassung für die Abwicklung dieses Falles über den 31. Dezember 2021 hinaus anzuwenden. Abweichend von Satz 1 gilt das Folgende: Satz 2 Nummer 2 und 3 gilt nur für Gewinnausschüttungen oder eine Einlagenrückgewähr, die nach dem 16. August 2023 erfolgen.
+(3) Wurde ein Tatbestand des § 6 Absatz 1 in einer bis zum 30. Juni 2021 geltenden Fassung vor dem 1. Januar 2022 verwirklicht, ist § 6 in der am 30. Juni 2021 geltenden Fassung für die Abwicklung dieses Falles über den 31. Dezember 2021 hinaus anzuwenden. Abweichend von Satz 1 gilt das Folgende:
 
-1.
+1. Minderungen des Vermögenszuwachses im Sinne des § 6 Absatz 6 in der am 30. Juni 2021 geltenden Fassung auf Veräußerungen nach dem 24. März 2021 sind nicht mehr zu berücksichtigen.
 
-2.
+2. Stundungen nach § 6 Absatz 4 oder 5 in einer bis zum 30. Juni 2021 geltenden Fassung sind auch zu widerrufen, soweit Gewinnausschüttungen erfolgen oder eine Einlagenrückgewähr erfolgt und soweit deren gemeiner Wert insgesamt mehr als ein Viertel des gemeinen Werts des Anteils zum Zeitpunkt der Verwirklichung des Tatbestands im Sinne des Satzes 1 beträgt; § 6 Absatz 7 Satz 1 und 2 in der am 30. Juni 2021 geltenden Fassung ist entsprechend anzuwenden.
 
-3.
+3. § 6 Absatz 3 in einer bis zum 30. Juni 2021 geltenden Fassung ist mit der Maßgabe anzuwenden, dass der Steueranspruch auch nicht entfällt, soweit Gewinnausschüttungen erfolgen oder eine Einlagenrückgewähr erfolgt und soweit deren gemeiner Wert insgesamt mehr als ein Viertel des gemeinen Werts des Anteils zum Zeitpunkt der Verwirklichung des Tatbestands im Sinne des Satzes 1 beträgt.
 
-(4) Die §§ 7 bis 10, 12, 13, 16 bis 18 und 20 in der am 1. Juli 2021 geltenden Fassung und § 15 in der am 21. Dezember 2022 geltenden Fassung sind erstmals anzuwenden für den Zwischeneinkünfte hinzuzurechnen sind, die in einem Wirtschaftsjahr der Zwischengesellschaft oder der Betriebsstätte entstanden sind, das nach dem 31. Dezember 2021 beginnt; § 11 in der am 6. Dezember 2024 geltenden Fassung ist erstmals für die Einkommen- und Körperschaftsteuer für den Veranlagungszeitraum 2022 und für die Gewerbesteuer für den Erhebungszeitraum 2022 anzuwenden. Verluste, die für Veranlagungszeiträume oder Erhebungszeiträume vor dem 1. Januar 2022 bei Einkünften entstanden sind, für die die ausländische Gesellschaft Zwischengesellschaft ist, können in entsprechender Anwendung des § 10d des Einkommensteuergesetzes, soweit sie die nach § 9 außer Ansatz zu lassenden Einkünfte übersteigen, abgezogen werden. Für Steuern der ausländischen Gesellschaft für Wirtschaftsjahre, die vor dem 1. Januar 2022 enden, gelten § 10 Absatz 1 Satz 2, § 10 Absatz 3 Satz 6 und § 12 Absatz 1 in der am 30. Juni 2021 geltenden Fassung fort. Als Anfangsbestand des Hinzurechnungskorrekturvolumens zum 31. Dezember 2021 wird die Summe der Hinzurechnungsbeträge erfasst, die beim Steuerpflichtigen gemäß § 10 Absatz 2 in der am 30. Juni 2021 geltenden Fassung für die Veranlagungszeiträume 2015 bis 2022 der Besteuerung unterliegen, soweit sie nicht für eine Steuerbefreiung nach § 3 Nummer 41 des Einkommensteuergesetzes in der am 30. Juni 2021 geltenden Fassung zu berücksichtigen sind. Soweit Verluste im Sinne des Satzes 2 durch Anwendung des § 14 in der am 30. Juni 2021 geltenden Fassung einer anderen Gesellschaft zugerechnet worden und noch nicht verrechnet worden sind, können sie auf bis zum 31. Juli 2023 zu stellenden Antrag denjenigen nachgeordneten Zwischengesellschaften im Sinne des § 14 in der am 30. Juni 2021 geltenden Fassung zugeordnet werden, durch deren Tätigkeit sie wirtschaftlich verursacht sind; bei mehreren Steuerpflichtigen ist der Antrag einheitlich zu stellen.
+(4) Die §§ 7 bis 10, 12, 13, 16 bis 18 und 20 in der am 1. Juli 2021 geltenden Fassung und § 15 in der am 21. Dezember 2022 geltenden Fassung sind erstmals anzuwenden
 
-1.
+1. für die Einkommen- und Körperschaftsteuer für den Veranlagungszeitraum,
 
-2.
+2. für die Gewerbesteuer für den Erhebungszeitraum,
 
 (5) Für Zwischeneinkünfte, die in einem Wirtschaftsjahr der Zwischengesellschaft oder der Betriebsstätte entstanden sind, das vor dem 1. Januar 2022 beginnt, ist § 8 Absatz 1 Nummer 10 in der am 30. Juni 2021 geltenden Fassung auf Umwandlungen und Einbringungen, deren steuerlicher Übertragungsstichtag nach dem 31. Dezember 2021 liegt, in der folgenden Fassung anzuwenden:
 
-„10.
+„10. Umwandlungen, die ungeachtet des § 1 Absatz 4 des Umwandlungssteuergesetzes zu Buchwerten erfolgen könnten; dies gilt nicht, soweit eine Umwandlung den Anteil an einer Kapitalgesellschaft erfasst, dessen Veräußerung nicht die Voraussetzungen der Nummer 9 erfüllen würde.“
 
 (6) § 8 Absatz 5 in der am 28. Dezember 2023 geltenden Fassung ist erstmals anzuwenden für die Einkommen- und Körperschaftsteuer für den Veranlagungszeitraum und für die Gewerbesteuer für den Erhebungszeitraum, für den Zwischeneinkünfte hinzuzurechnen sind, die in einem Wirtschaftsjahr der Zwischengesellschaft oder der Betriebsstätte entstanden sind, das nach dem 31. Dezember 2023 endet.
 

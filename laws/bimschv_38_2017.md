@@ -30,19 +30,19 @@ Diese Verordnung regelt Modalitäten zur Erfüllung der Verpflichtung zur Minder
 
 (5) Erneuerbare Energien sind Energien aus erneuerbaren, nichtfossilen Energiequellen in Form von
 
-1.
+1. Wind,
 
-2.
+2. Sonne,
 
-3.
+3. geothermischer Energie,
 
-4.
+4. Umgebungsenergie,
 
-5.
+5. Gezeiten-, Wellen- und sonstiger Meeresenergie,
 
-6.
+6. Wasserkraft,
 
-7.
+7. Energie aus Biomasse, Deponiegas, Klärgas und Biogas.
 
 (6) (weggefallen)
 
@@ -56,29 +56,29 @@ Diese Verordnung regelt Modalitäten zur Erfüllung der Verpflichtung zur Minder
 
 (11) Konventionelles Rohöl ist jeder Raffinerierohstoff, der
 
-1.
+1. in einer Lagerstättenformation am Ursprungsort einen API-Grad von mehr als 10 aufweist, und
 
-2.
+2. nicht unter die Definition des KN-Codes 2714 gemäß Anhang I der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 256 vom 7.9.1987, S. 1; L 341 vom 3.12.1987, S. 38; L 378 vom 31.12.1987, S. 120; L 130 vom 26.5.1988, S. 42; L 151 vom 8.6.2016, S. 22), die zuletzt durch die Durchführungsverordnung (EU) 2017/1344 (ABl. L 186 vom 19.7.2017, S. 3) geändert worden ist, fällt.
 
 (12) Naturbitumen ist jede Quelle für Raffinerierohstoffe,
 
-1.
+1. die in einer Lagerstättenformation am Förderort einen API-Grad von höchstens 10 aufweist,
 
-2.
+2. die eine Viskosität im jährlichen Durchschnitt bei Lagerstättentemperatur hat, die höher ist als die durch die Gleichung Viskosität (in Centipoise) = 518,98*e-0,038*T berechnete Viskosität; wobei T die Temperatur in Grad Celsius ist,
 
-3.
+3. die unter die Definition für bituminöse Sande des KN-Codes 2714 gemäß der Verordnung (EWG) Nr. 2658/87 fällt und
 
-4.
+4. die durch Bergbau oder thermisch unterstützte Schwerkraftdrainage erschlossen wird, wobei die Wärmeenergie hauptsächlich aus anderen Quellen als der Rohstoffquelle selbst gewonnen wird.
 
 (13) Ölschiefer ist jede Quelle für Raffinerierohstoffe,
 
-1.
+1. die sich am Förderort innerhalb einer Felsformation befand,
 
-2.
+2. die festes Kerogen enthält,
 
-3.
+3. die unter die Definition für ölhaltigen Schiefer des KN-Codes 2714 gemäß der Verordnung (EWG) Nr. 2658/87 fällt und
 
-4.
+4. die durch Bergbau oder thermisch unterstützte Schwerkraftdrainage erschlossen wird.
 
 ## Abschnitt 1: Allgemeine Bestimmungen zur Berechnung
 
@@ -114,31 +114,31 @@ Der Basiswert nach § 37a Absatz 4 Satz 4 des Bundes-Immissionsschutzgesetzes wi
 
 (1) Elektrischer Strom, der im Verpflichtungsjahr von Letztverbrauchern nachweislich zur Verwendung in Straßenfahrzeugen mit Elektroantrieb aus dem Netz entnommen wurde, kann auf die Erfüllung der Verpflichtung zur Minderung der Treibhausgasemissionen angerechnet werden, sofern die Entnahme im Steuergebiet des Stromsteuergesetzes erfolgte. Dritter im Sinne des § 37a Absatz 6 des Bundes-Immissionsschutzgesetzes ist der Betreiber eines Ladepunktes im Sinne des Artikel 2 Nummer 39 der Verordnung (EU) 2023/1804 oder eine von ihm bestimmte Person.
 
-(2) Die Bestimmung der Person als Dritter, die nicht der Betreiber des Ladepunktes ist, erfolgt durch eine Vereinbarung in Textform. In jedem Verpflichtungsjahr kann von jedem Betreiber nur ein einziger Dritter bestimmt werden. Bestimmt der Betreiber eines Ladepunktes entgegen Satz 2 mehrere Dritte, stellt die zuständige Stelle nach § 20 Absatz 1 die Bescheinigung nach § 8 Absatz 2 Satz 1 nur an denjenigen Dritten aus, der die Angaben zu den energetischen Mengen des elektrischen Stroms nach § 8 Absatz 1 Satz 1 im jeweiligen Verpflichtungsjahr zuerst mitgeteilt hat. Die zuständige Stelle nach § 20 Absatz 1 kann die Vorlage der Vereinbarung nach Satz 1 verlangen. Eine Änderung des Dritten ist nach dem Zeitpunkt der Mitteilung nach § 8 Absatz 1 Satz 1 ausgeschlossen.
+(2) Die Bestimmung der Person als Dritter, die nicht der Betreiber des Ladepunktes ist, erfolgt durch eine Vereinbarung in Textform. In jedem Verpflichtungsjahr kann von jedem Betreiber nur ein einziger Dritter bestimmt werden. Bestimmt der Betreiber eines Ladepunktes entgegen Satz 2 mehrere Dritte, stellt die zuständige Stelle nach § 20 Absatz 1 die Bescheinigung nach § 8 Absatz 2 Satz 1 nur an denjenigen Dritten aus, der die Angaben zu den energetischen Mengen des elektrischen Stroms nach § 8 Absatz 1 Satz 1 im jeweiligen Verpflichtungsjahr zuerst mitgeteilt hat. Die zuständige Stelle nach § 20 Absatz 1 kann die Vorlage der Vereinbarung nach Satz 1 verlangen. Eine Änderung des Dritten ist nach dem Zeitpunkt der Mitteilung nach § 8 Absatz 1 Satz 1 ausgeschlossen.
 
 (3) Bei der Berechnung des Referenzwertes nach § 37a Absatz 4 Satz 3 des Bundes-Immissionsschutzgesetzes wird die energetische Menge elektrischen Stroms nach Absatz 1 mit dem Faktor 3 multipliziert. Die Treibhausgasemissionen des elektrischen Stroms nach Absatz 1 werden berechnet durch die Multiplikation der energetischen Menge des zur Verwendung in den Straßenfahrzeugen mit Elektroantrieb entnommenen Stroms
 
-1.
+1. mit dem Faktor 3 sowie
 
-2.
+2. mit dem Wert der für die durchschnittlichen Treibhausgasemissionen pro Energieeinheit des Stroms in Deutschland und dem Anpassungsfaktor für die Antriebseffizienz nach Anlage 3.
 
 (4) Der Wert der durchschnittlichen Treibhausgasemissionen pro Energieeinheit des Stroms in Deutschland wird von der nach § 20 Absatz 1 zuständigen Stelle jährlich auf Basis geeigneter internationaler Normen ermittelt und bis zum Ablauf des 31. Oktober für das darauffolgende Verpflichtungsjahr im Bundesanzeiger bekannt gegeben.
 
-(5) Zur Berechnung der Treibhausgasemissionen des elektrischen Stroms nach Absatz 3 wird ab dem Verpflichtungsjahr 2024 der Wert der durchschnittlichen Treibhausgasemissionen pro Energieeinheit Strom der jeweiligen erneuerbaren Energie in Deutschland verwendet, wenn im Fall des § 6 Als Nachweis nach Satz 1 Nummer 2 gelten Messwerte des Messstellenbetreibers von Messeinrichtungen nach § 2 Satz 1 Nummer 10, 12 und 14 des Messstellenbetriebsgesetzes vom 29. August 2016 (BGBl. I S. 2034), das zuletzt durch Artikel 2 des Gesetzes vom 22. Mai 2023 (BGBl. 2023 I Nr. 133) geändert worden ist, des zeitgleichen Verbrauchs bezogen auf jedes 15-Minuten-Intervall. Die Werte der durchschnittlichen Treibhausgasemissionen pro Energieeinheit Strom der erneuerbaren Energien in Deutschland werden von der zuständigen Stelle nach § 20 Absatz 1 jährlich auf Basis geeigneter internationaler Normen ermittelt und bis zum Ablauf des 31. Oktober für das darauffolgende Verpflichtungsjahr im Bundesanzeiger bekannt gegeben. Für Strommengen, die nur anteilig die Voraussetzungen nach Satz 1 erfüllen, gilt Satz 1 nur für den entsprechenden Anteil. Der Dritte im Sinne des Absatz 1 Satz 2 führt Aufzeichnungen über den Standort und die Art der Stromerzeugungsanlage und fügt die Aufzeichnungen sowie den Nachweis nach Satz 2 der Mitteilung der energetischen Menge nach § 8 Absatz 1 Satz 1 bei. Wird der Nachweis nach Satz 2 nicht oder nicht vollständig erbracht, wird zur Berechnung der Treibhausgasemissionen der Wert nach Absatz 4 verwendet.
+(5) Zur Berechnung der Treibhausgasemissionen des elektrischen Stroms nach Absatz 3 wird ab dem Verpflichtungsjahr 2024 der Wert der durchschnittlichen Treibhausgasemissionen pro Energieeinheit Strom der jeweiligen erneuerbaren Energie in Deutschland verwendet, wenn im Fall des § 6
 
-1.
+1. ausschließlich Strom aus erneuerbaren Energien in Form von Wind oder Sonne (§ 2 Absatz 5 Nummer 1 oder 2) eingesetzt wird und
 
-2.
+2. der Strom nicht aus dem Netz im Sinne des § 3 Nummer 35 des Erneuerbare-Energien-Gesetzes entnommen wird, sondern nachweislich direkt von einer Stromerzeugungsanlage hinter demselben Netzverknüpfungspunkt bezogen wird.
 
 ### § 6 — Energetische Menge des elektrischen Stroms aus öffentlich zugänglichen Ladepunkten
 
-(1) Der Dritte führt für jedes Verpflichtungsjahr Aufzeichnungen über die einzelnen öffentlich zugänglichen Ladepunkte im Sinne von § 2 Nummer 2 der Ladesäulenverordnung vom 23. Dezember 2025 (BGBl. 2025 I Nr. 367) in der jeweils geltenden Fassung unter Angabe Die zuständige Stelle nach § 20 Absatz 1 kann im Bundesanzeiger bekannt geben, welche weitere Angaben den Aufzeichnungen beizufügen sind, um nachzuweisen, dass es sich um einen öffentlich zugänglichen Ladepunkt im Sinne des § 2 Nummer 2 der Ladesäulenverordnung handelt.
+(1) Der Dritte führt für jedes Verpflichtungsjahr Aufzeichnungen über die einzelnen öffentlich zugänglichen Ladepunkte im Sinne von § 2 Nummer 2 der Ladesäulenverordnung vom 23. Dezember 2025 (BGBl. 2025 I Nr. 367) in der jeweils geltenden Fassung unter Angabe
 
-1.
+1. des genauen Standortes, an dem sich der Ladepunkt befindet,
 
-2.
+2. der energetischen Menge des zur Verwendung in Straßenfahrzeugen mit Elektroantrieb entnommenen Stroms in Megawattstunden und
 
-3.
+3. des Zeitraums, in dem die Strommenge entnommen wurde, sofern der Zeitraum nicht das gesamte Verpflichtungsjahr umfasst.
 
 (2) Der Dritte fügt bei Aufbau und Außerbetriebnahme von Ladepunkten den Aufzeichnungen die Anzeige des Ladepunktbetreibers gegenüber der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen gemäß § 4 Absatz 1 der Ladesäulenverordnung bei. Für bereits bestehende Ladepunkte ist die Anzeige, die zum Zeitpunkt des Aufbaus gegenüber der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen abgegeben wurde, beizufügen.
 
@@ -146,25 +146,23 @@ Der Basiswert nach § 37a Absatz 4 Satz 4 des Bundes-Immissionsschutzgesetzes wi
 
 ### § 7 — Energetische Menge des elektrischen Stroms in anderen Fällen
 
-(1) Die Anrechnung von Strom, der nicht über öffentlich zugängliche Ladepunkte entnommen wurde, auf die Erfüllung der Verpflichtung zur Minderung der Treibhausgasemissionen ist nur dann möglich, sofern dieser Strom für reine Batterieelektrofahrzeuge genutzt wurde und ein Schätzwert nach Absatz 3 bekanntgegeben wurde. Ladepunktbetreiber ist in diesen Fällen die Person, auf die nachweislich das reine Batterieelektrofahrzeug zugelassen ist. Elektrischer Strom zur Verwendung in zulassungsfreien Fahrzeugen gemäß § 3 Absatz 3 der Fahrzeug-Zulassungsverordnung vom 20. Juli 2023 (BGBl. 2023 I Nr. 199, S. 2) kann nur auf die Erfüllung der Verpflichtung zur Minderung der Treibhausgasemissionen angerechnet werden, wenn für die entsprechende Fahrzeugklasse ein eigener Schätzwert nach Absatz 3 bekannt gegeben wurde.
+(1) Die Anrechnung von Strom, der nicht über öffentlich zugängliche Ladepunkte entnommen wurde, auf die Erfüllung der Verpflichtung zur Minderung der Treibhausgasemissionen ist nur dann möglich, sofern dieser Strom für reine Batterieelektrofahrzeuge genutzt wurde und ein Schätzwert nach Absatz 3 bekanntgegeben wurde. Ladepunktbetreiber ist in diesen Fällen die Person, auf die nachweislich das reine Batterieelektrofahrzeug zugelassen ist. Elektrischer Strom zur Verwendung in zulassungsfreien Fahrzeugen gemäß § 3 Absatz 3 der Fahrzeug-Zulassungsverordnung vom 20. Juli 2023 (BGBl. 2023 I Nr. 199, S. 2) kann nur auf die Erfüllung der Verpflichtung zur Minderung der Treibhausgasemissionen angerechnet werden, wenn für die entsprechende Fahrzeugklasse ein eigener Schätzwert nach Absatz 3 bekannt gegeben wurde.
 
-(2) Der Dritte nach § 5 Absatz 1 Satz 2 führt Aufzeichnungen über die Personen, auf die nachweislich ein reines Batterieelektrofahrzeug, für das eine Zulassungspflicht nach § 3 der Fahrzeug-Zulassungsverordnung besteht, zugelassen ist, sowie über das reine Batterieelektrofahrzeug selbst. Als Nachweis gilt eine Zulassungsbescheinigung Teil I des reinen Batterieelektrofahrzeugs, die gemäß § 13 Absatz 1 Satz 1 der Fahrzeug-Zulassungsverordnung ausgefertigt worden ist und als Kopie vorgelegt wird. Spätestens nach Ablauf eines Jahres ist eine Kopie der aktuellen Zulassungsbescheinigung Teil I als Nachweis erforderlich. Der Dritte bewahrt die Kopien der Zulassungsbescheinigungen Teil I für die Dauer von drei Jahren auf. Für Fahrzeuge nach § 3 Absatz 3 der Fahrzeug-Zulassungsverordnung gilt als Nachweis die Übereinstimmungsbescheinigung im Sinne des § 2 Satz 1 Nummer 7 der Fahrzeug-Zulassungsverordnung. Bei der Mitteilung nach § 8 fügt der Dritte die Aufzeichnungen bei. Die nach § 20 Absatz 1 zuständige Stelle kann Näheres zum Format und dem Inhalt der Aufzeichnungen nach Satz 3 im Bundesanzeiger bekannt geben.
+(2) Der Dritte nach § 5 Absatz 1 Satz 2 führt Aufzeichnungen über die Personen, auf die nachweislich ein reines Batterieelektrofahrzeug, für das eine Zulassungspflicht nach § 3 der Fahrzeug-Zulassungsverordnung besteht, zugelassen ist, sowie über das reine Batterieelektrofahrzeug selbst. Als Nachweis gilt eine Zulassungsbescheinigung Teil I des reinen Batterieelektrofahrzeugs, die gemäß § 13 Absatz 1 Satz 1 der Fahrzeug-Zulassungsverordnung ausgefertigt worden ist und als Kopie vorgelegt wird. Spätestens nach Ablauf eines Jahres ist eine Kopie der aktuellen Zulassungsbescheinigung Teil I als Nachweis erforderlich. Der Dritte bewahrt die Kopien der Zulassungsbescheinigungen Teil I für die Dauer von drei Jahren auf. Für Fahrzeuge nach § 3 Absatz 3 der Fahrzeug-Zulassungsverordnung gilt als Nachweis die Übereinstimmungsbescheinigung im Sinne des § 2 Satz 1 Nummer 7 der Fahrzeug-Zulassungsverordnung. Bei der Mitteilung nach § 8 fügt der Dritte die Aufzeichnungen bei. Die nach § 20 Absatz 1 zuständige Stelle kann Näheres zum Format und dem Inhalt der Aufzeichnungen nach Satz 3 im Bundesanzeiger bekannt geben.
 
 (3) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit gibt die Schätzwerte der anrechenbaren energetischen Mengen elektrischen Stroms für reine Batterieelektrofahrzeuge im Bundesanzeiger bekannt. Der Schätzwert basiert auf aktuellen Daten über den durchschnittlichen Stromverbrauch von reinen Batterieelektrofahrzeugen in Deutschland.
 
 (4) Die energetische Menge des im jeweiligen Verpflichtungsjahr nach § 5 anrechenbaren elektrischen Stroms ergibt sich durch die Multiplikation der Zahl der reinen Batterieelektrofahrzeuge, die nach Absatz 2 zu den Dritten gerechnet werden, mit dem Schätzwert. Die Anrechnung der dem jeweiligen Schätzwert entsprechenden Strommenge kann pro reinem Batterieelektrofahrzeug und pro Verpflichtungsjahr nur einmal erfolgen.
 
-(5) Wird in einem Verpflichtungsjahr ein reines Batterieelektrofahrzeug, für dessen Strommenge bereits eine Mitteilung über die energetische Menge des elektrischen Stroms nach § 8 Absatz 1 Satz 1 erfolgte, auf eine andere Person zugelassen, hat die Person, auf die das Fahrzeug bisher zugelassen war, die andere Person über diese Mitteilung zu informieren. Ein Hinweis auf diese Informationspflicht ist in die Vereinbarung nach § 5 Absatz 2 Satz 1 aufzunehmen.
+(5) Wird in einem Verpflichtungsjahr ein reines Batterieelektrofahrzeug, für dessen Strommenge bereits eine Mitteilung über die energetische Menge des elektrischen Stroms nach § 8 Absatz 1 Satz 1 erfolgte, auf eine andere Person zugelassen, hat die Person, auf die das Fahrzeug bisher zugelassen war, die andere Person über diese Mitteilung zu informieren. Ein Hinweis auf diese Informationspflicht ist in die Vereinbarung nach § 5 Absatz 2 Satz 1 aufzunehmen.
 
 ### § 8 — Mitteilung der energetischen Menge
 
-(1) Der Dritte teilt der zuständigen Stelle nach § 20 Absatz 1 die energetischen Mengen des elektrischen Stroms mit, die Die nach § 20 Absatz 1 zuständige Stelle kann verlangen, dass der Dritte innerhalb einer angemessenen Frist die in den §§ 6 und 7 genannten Unterlagen zur Prüfung vorlegt. Sie prüft anhand dieser Unterlagen, ob die Voraussetzungen für die Anrechnung erfüllt sind. Erfolgt die Mitteilung nach Satz 1 Nummer 2 nicht durch den Ladepunktbetreiber selbst, sondern durch eine vom Ladepunktbetreiber bestimmte Person, dürfen mehrere Mitteilungen einer energetischen Menge des elektrischen Stroms in einem Verpflichtungsjahr nur abgegeben werden, wenn die jeweils vorhergehende Mitteilung mindestens 500 Megawattstunden umfasst hat.
+(1) Der Dritte teilt der zuständigen Stelle nach § 20 Absatz 1 die energetischen Mengen des elektrischen Stroms mit, die
 
-1.
+1. nach § 6 zur Verwendung in Straßenfahrzeugen mit Elektroantrieb im jeweiligen Verpflichtungsjahr entnommen wurde, bis zum Ablauf des 28. Februar des Folgejahres oder
 
-2.
-
-(2) Die nach § 20 Absatz 1 zuständige Stelle stellt dem Dritten eine Bescheinigung über die mitgeteilte energetische Menge elektrischen Stroms aus. In der Bescheinigung sind die energetische Menge des elektrischen Stroms in Megawattstunden und die nach § 5 Absatz 3 errechneten Treibhausgasemissionen in Kilogramm CO2-Äquivalent angegeben. Die Bescheinigung kann auf Antrag des Dritten in mehrere Teilbescheinigungen aufgeteilt werden. Alle Teilbescheinigungen werden nur an den Dritten ausgestellt, der die Mitteilung nach Absatz 1 Satz 1 vornimmt. Die nach § 20 Absatz 1 zuständige Stelle übersendet der nach § 20 Absatz 2 zuständigen Stelle auf Verlangen Informationen über die erteilten Bescheinigungen.
+2. nach § 7 zur Verwendung in reinen Batterieelektrofahrzeugen im jeweiligen Verpflichtungsjahr entnommen wurde, bis zum Ablauf des 15. November des jeweiligen Verpflichtungsjahres.
 
 (3) Die nach § 20 Absatz 1 zuständige Stelle kann Näheres zum Format und zur Art und Weise der Datenübermittlung im Bundesanzeiger bekanntgeben.
 
@@ -172,11 +170,11 @@ Der Basiswert nach § 37a Absatz 4 Satz 4 des Bundes-Immissionsschutzgesetzes wi
 
 ### § 9 — Nachweis durch den Verpflichteten
 
-(1) Im Zusammenhang mit der Mitteilung nach § 37c Absatz 1 des Bundes-Immissionsschutzgesetzes sind vom Verpflichteten folgende Unterlagen vorzulegen: § 37c Absatz 3 Satz 4 und 5 des Bundes-Immissionsschutzgesetzes gilt entsprechend.
+(1) Im Zusammenhang mit der Mitteilung nach § 37c Absatz 1 des Bundes-Immissionsschutzgesetzes sind vom Verpflichteten folgende Unterlagen vorzulegen:
 
-1.
+1. Bescheinigungen über die mitgeteilte Strommenge nach § 8 Absatz 2 und
 
-2.
+2. eine Erklärung des Dritten, der den elektrischen Strom abgegeben hat, dass die jeweilige Strommenge nicht anderweitig zur Erfüllung der Verpflichtung zur Minderung der Treibhausgasemissionen verwendet wurde.
 
 (2) Die Anrechnung elektrischen Stroms auf die Erfüllung der Verpflichtung zur Minderung der Treibhausgasemissionen setzt voraus, dass die entsprechenden Mengen in der Mitteilung nach § 37c Absatz 1 des Bundes-Immissionsschutzgesetzes enthalten sind. § 37c Absatz 3 Satz 1 bis 3 des Bundes-Immissionsschutzgesetzes ist nicht anzuwenden.
 
@@ -204,9 +202,9 @@ Der Basiswert nach § 37a Absatz 4 Satz 4 des Bundes-Immissionsschutzgesetzes wi
 
 (1) Die Verpflichtung zur Minderung der Treibhausgasemissionen kann auch erfüllt werden durch Inverkehrbringen von nach § 2 Absatz 1 Nummer 8 oder Absatz 2 Nummer 2 des Energiesteuergesetzes versteuerten Flüssiggasen,
 
-1.
+1. die ganz oder anteilig aus Biomasse im Sinne der Biomasseverordnung vom 21. Juni 2001 (BGBl. I S. 1234), die zuletzt durch Artikel 8 des Gesetzes vom 13. Oktober 2016 (BGBl. I S. 2258) geändert worden ist, in der jeweils geltenden Fassung, in Verbindung mit § 4, hergestellt wurden und
 
-2.
+2. deren Eigenschaften mindestens den Anforderungen an Flüssiggaskraftstoff nach § 7 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen vom 8. Dezember 2010 (BGBl. I S. 1849), die zuletzt durch Artikel 1 der Verordnung vom 1. Dezember 2014 (BGBl. I S. 1890) geändert worden ist, in der jeweils geltenden Fassung, entsprechen.
 
 (2) Flüssiggaskraftstoff, der anteilig aus Biomasse hergestellt wurde, gilt in Höhe dieses Anteils als Biokraftstoff.
 
@@ -214,9 +212,9 @@ Der Basiswert nach § 37a Absatz 4 Satz 4 des Bundes-Immissionsschutzgesetzes wi
 
 (1) Die Verpflichtung zur Minderung der Treibhausgasemissionen kann auch erfüllt werden durch Inverkehrbringen von nach § 2 Absatz 1 Nummer 7 oder Absatz 2 Nummer 1 des Energiesteuergesetzes versteuertem verflüssigtem Biomethan,
 
-1.
+1. das ganz oder anteilig aus Biomasse im Sinne der Biomasseverordnung in Verbindung mit § 4 hergestellt wurde und
 
-2.
+2. wenn dessen Eigenschaften mindestens den Anforderungen an Erdgas und Biogas als Kraftstoffe nach § 8 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen vom 8. Dezember 2010 (BGBl. I S. 1849), die durch Artikel 8 Absatz 1 der Verordnung vom 2. Mai 2013 (BGBl. I S. 1021) geändert worden ist, in der jeweils geltenden Fassung entsprechen.
 
 (2) Verflüssigtes Biomethan, das anteilig aus Biomasse hergestellt wurde, gilt in Höhe dieses Anteils als Biokraftstoff.
 
@@ -238,11 +236,11 @@ Der Basiswert nach § 37a Absatz 4 Satz 4 des Bundes-Immissionsschutzgesetzes wi
 
 ### § 13b — Obergrenze für die Anrechenbarkeit von Biokraftstoffen aus Rohstoffen mit hohem Risiko indirekter Landnutzungsänderung
 
-(1) Übersteigt in einem Verpflichtungsjahr der energetische Anteil der Biokraftstoffe aus Rohstoffen mit hohen Risiko indirekter Landnutzungsänderung nach Artikel 3 der Verordnung (EU) 2019/807 so wird für die Treibhausgasemissionen der diesen Anteil übersteigenden Biokraftstoffe aus Rohstoffen mit hohem Risiko indirekter Landnutzungsänderung nach Artikel 3 der Verordnung (EU) 2019/807 der Basiswert zugrunde gelegt. § 13 Absatz 1 Satz 2, 3 und 4 sowie § 13 Absatz 2 bis 4 gelten entsprechend.
+(1) Übersteigt in einem Verpflichtungsjahr der energetische Anteil der Biokraftstoffe aus Rohstoffen mit hohen Risiko indirekter Landnutzungsänderung nach Artikel 3 der Verordnung (EU) 2019/807
 
-1.
+1. ab dem Kalenderjahr 2022 0,9 Prozent,
 
-2.
+2. ab dem Kalenderjahr 2023 0 Prozent,
 
 (2) Absatz 1 gilt nicht für Biokraftstoffe, die nach Artikel 4 der Verordnung (EU) 2019/807 zertifiziert sind.
 
@@ -250,37 +248,37 @@ Der Basiswert nach § 37a Absatz 4 Satz 4 des Bundes-Immissionsschutzgesetzes wi
 
 (1) Der Verpflichtete nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit Absatz 4 Satz 1 bis 3 des Bundes-Immissionsschutzgesetzes hat jährlich einen Mindestanteil Kraftstoffe, die aus den in Anlage 1 genannten Rohstoffen hergestellt wurden (fortschrittliche Biokraftstoffe), in Verkehr zu bringen. Als Inverkehrbringen gilt die Versteuerung nach § 2 Absatz 1 Nummer 1, 4, 7 oder 8 oder Absatz 2 des Energiesteuergesetzes. Soweit Kraftstoffe nach Satz 1 keine Energieerzeugnisse nach § 1 Absatz 2 und 3 des Energiesteuergesetzes sind, gelten sie durch Abgabe an den Letztverbraucher zur Verwendung im Straßenverkehr im Sinne des § 37a Absatz 1 Satz 1 und 2 des Bundes-Immissionsschutzgesetzes als in den Verkehr gebracht. In diesem Fall ist Verpflichteter oder Dritter im Sinne des § 37a Absatz 6 des Bundes-Immissionsschutzgesetzes die Person, in deren Name und auf deren Rechnung die Abgabe an den Letztverbraucher erfolgt. Die Höhe des Mindestanteils beträgt
 
-1.
+1. 0,1 Prozent ab dem Kalenderjahr 2021 für Unternehmen, die im vorangegangenen Verpflichtungsjahr mehr als 10 Petajoule Kraftstoffe im Sinne von § 37a Absatz 1 Satz 1 und 2 des Bundes-Immissionsschutzgesetzes in Verkehr gebracht haben,
 
-2.
+2. 0,2 Prozent ab dem Kalenderjahr 2022 für Unternehmen, die im vorangegangenen Verpflichtungsjahr mehr als 10 Petajoule Kraftstoffe im Sinne von § 37a Absatz 1 Satz 1 und 2 des Bundes-Immissionsschutzgesetzes in Verkehr gebracht haben,
 
-3.
+3. 0,3 Prozent ab dem Kalenderjahr 2023 für Unternehmen, die im vorangegangenen Verpflichtungsjahr mehr als zwei Petajoule Kraftstoffe im Sinne von § 37a Absatz 1 Satz 1 und 2 des Bundes-Immissionsschutzgesetzes in Verkehr gebracht haben,
 
-4.
+4. 0,4 Prozent ab dem Kalenderjahr 2024 für Unternehmen, die im vorangegangenen Verpflichtungsjahr mehr als zwei Petajoule Kraftstoffe im Sinne von § 37a Absatz 1 Satz 1 und 2 des Bundes-Immissionsschutzgesetzes in Verkehr gebracht haben,
 
-5.
+5. 0,7 Prozent ab dem Kalenderjahr 2025,
 
-6.
+6. 1,0 Prozent ab dem Kalenderjahr 2026,
 
-7.
+7. 1,7 Prozent ab dem Kalenderjahr 2028 und
 
-8.
+8. 2,6 Prozent ab dem Kalenderjahr 2030.
 
 (2) Der Mindestanteil bezieht sich auf die energetische Menge der bei der Berechnung des Referenzwertes nach § 37a Absatz 4 Satz 3 des Bundes-Immissionsschutzgesetzes zu berücksichtigenden Kraftstoffe zuzüglich der energetischen Menge der eingesetzten Erfüllungsoptionen. Absatz 5 bleibt hierbei unberücksichtigt.
 
 (3) Für den Mindestanteil gelten § 37a Absatz 4 Satz 7 bis 10, Absatz 6 und 7 und § 37b des Bundes-Immissionsschutzgesetzes entsprechend. Soweit Verpflichtete der Verpflichtung nach Absatz 1 nicht nachkommen, setzt die zuständige Stelle für die nach dem Energiegehalt berechnete Fehlmenge eine Abgabe fest. § 37c Absatz 2 Satz 2 und 7 des Bundes-Immissionsschutzgesetzes gilt entsprechend. Die Höhe der Abgabe ergibt sich aus § 37c Absatz 2 Satz 3 des Bundes-Immissionsschutzgesetzes. Weiterhin gilt § 37c Absatz 3 Satz 4 und 5 und Absatz 5 des Bundes-Immissionsschutzgesetzes entsprechend, soweit sich aus den Regelungen der Absätze 1 und 2 nichts anderes ergibt.
 
-(4) Übersteigen in einem Verpflichtungsjahr Mengen an fortschrittlichen Biokraftstoffen den Mindestanteil nach Absatz 1 in Verbindung mit Absatz 2, kann der Verpflichtete beantragen, dass angerechnet wird. Satz 1 Nummer 1 gilt nicht für Biokraftstoffe aus den Rohstoffen nach Anlage 1 Nummer 7.
+(4) Übersteigen in einem Verpflichtungsjahr Mengen an fortschrittlichen Biokraftstoffen den Mindestanteil nach Absatz 1 in Verbindung mit Absatz 2, kann der Verpflichtete beantragen, dass
 
-1.
+1. die übersteigende Menge mit dem Doppelten ihres Energiegehalts auf die Erfüllung der Verpflichtung zur Minderung der Treibhausgasemissionen in dem Verpflichtungsjahr, in dem sie in Verkehr gebracht wurden, oder
 
-2.
+2. ihre energetische Menge auf den Mindestanteil des folgenden Verpflichtungsjahres
 
-(5) Im Fall des Absatzes 4 Satz 1 Nummer 1 wird Treibhausgasminderungsmengen, die den nach § 37a Absatz 4 vorgeschriebenen Prozentsatz übersteigen, werden auf Antrag des Verpflichteten auf den Prozentsatz des folgenden Kalenderjahres angerechnet. Die Reihenfolge, in der die Nachweise nach § 8 der Biokraftstoff-Nachhaltigkeitsverordnung berücksichtigt werden, ist durch den Verpflichteten nach § 37a Absatz 1 Satz 1 und 2 mit Absatz 4 Satz 1 bis 3 des Bundes-Immissionsschutzgesetzes festzulegen.
+(5) Im Fall des Absatzes 4 Satz 1 Nummer 1 wird
 
-1.
+1. zur Berechnung des Referenzwertes nach § 37a Absatz 4 Satz 3 des Bundes-Immissionsschutzgesetzes die energetische Menge mit dem Faktor 2 multipliziert und
 
-2.
+2. zur Berechnung der Treibhausgasemissionen die energetische Menge mit dem Faktor 2 sowie mit dem Wert der in den anerkannten Nachweisen nach § 8 der Biokraftstoff-Nachhaltigkeitsverordnung ausgewiesenen Treibhausgasemissionen in Kilogramm Kohlenstoffdioxid-Äquivalent pro Gigajoule multipliziert.
 
 ### § 15 — Nachweis der Einhaltung der Regelungen zu indirekten Landnutzungsänderungen
 
@@ -290,11 +288,11 @@ Als Nachweis für die Einhaltung der Voraussetzungen nach den §§ 13, 13a, 13b 
 
 ### § 16 — Berichte über in Verkehr gebrachte Kraftstoffe und Energieerzeugnisse
 
-Die nach § 20 Absatz 2 zuständige Stelle übermittelt der nach § 20 Absatz 1 zuständigen Stelle jährlich bis zum Ablauf des 1. November Die Daten nach Satz 1 sind erstmals für das Verpflichtungsjahr 2021 zu übermitteln.
+Die nach § 20 Absatz 2 zuständige Stelle übermittelt der nach § 20 Absatz 1 zuständigen Stelle jährlich bis zum Ablauf des 1. November
 
-1.
+1. die von Verpflichteten nach § 37c Absatz 1 des Bundes-Immissionsschutzgesetzes mitgeteilten Mengen und Treibhausgasemissionen sowie
 
-2.
+2. die Schätzungen nach § 37c Absatz 3 des Bundes-Immissionsschutzgesetzes.
 
 ### (XXXX) §§ 17 bis 19 — (weggefallen)
 
@@ -304,33 +302,33 @@ Die nach § 20 Absatz 2 zuständige Stelle übermittelt der nach § 20 Absatz 1 
 
 (1) Das Umweltbundesamt ist zuständig für
 
-1.
+1. die Ermittlung und Bekanntgabe der Werte der durchschnittlichen Treibhausgasemissionen nach § 5 Absatz 4 und 5,
 
-2.
+2. die Prüfung der nach § 8 Absatz 1 mitgeteilten energetischen Menge elektrischen Stroms,
 
-3.
+3. die Ausstellung von Bescheinigungen über die nach § 8 Absatz 2 mitgeteilte energetische Menge elektrischen Stroms und
 
-4.
+4. die Bekanntgabe nach § 7 Absatz 2 und § 8 Absatz 3.
 
 (2) Das Hauptzollamt Frankfurt (Oder) ist zuständig für
 
-1.
+1. eine Anrechnung von in Straßenfahrzeugen mit Elektroantrieb genutztem elektrischem Strom nach § 5 Absatz 1,
 
-2.
+2. die Anrechnung von fossilen Kraftstoffen nach § 11,
 
-3.
+3. die Anrechnung von biogenem Flüssiggas nach § 12,
 
-4.
+4. die Anrechnung von verflüssigtem Biomethan nach § 12a,
 
-5.
+5. die Überwachung der Einhaltung der Obergrenze für Biokraftstoffe aus Nahrungs- und Futtermittelpflanzen nach § 13,
 
-6.
+6. die Überwachung der Einhaltung der Obergrenze für abfallbasierte Biokraftstoffe nach § 13a,
 
-7.
+7. die Überwachung der Einhaltung der Obergrenze für Biokraftstoffe mit hohem Risiko indirekter Landnutzungsänderung nach § 13b,
 
-8.
+8. die Überwachung der Erfüllung des Mindestanteils an fortschrittlichen Kraftstoffen nach § 14 und
 
-9.
+9. die Übermittlung der Daten nach § 16.
 
 ## Teil 6: Übergangs- und Schlussbestimmungen
 
@@ -346,52 +344,48 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Rohstoffe für die Herstellung fortschrittlicher Biokraftstoffe nach § 14 Absatz 1 sind:
 
-1.
+1. Algen, die an Land in Becken oder Photobioreaktoren kultiviert worden sind,
 
-2.
+2. Biomasse-Anteil an gemischten Siedlungsabfällen, nicht jedoch getrennte Haushaltsabfälle, für die Recycling-Ziele gemäß Artikel 11 Absatz 2 Buchstabe a der Richtlinie 2008/98/EG des Europäischen Parlaments und des Rates vom 19. November 2008 über Abfälle und zur Aufhebung bestimmter Richtlinien (ABl. L 312 vom 22.11.2008, S. 3), die zuletzt durch die Verordnung (EU) 2017/997 (ABl. L 150 vom 14.6.2017, S. 1) geändert worden ist, in der jeweils geltenden Fassung, gelten,
 
-3.
+3. Bioabfall im Sinne des Artikels 3 Absatz 4 der Richtlinie 2008/98/EG aus privaten Haushaltungen, der einer getrennten Sammlung im Sinne des Artikels 3 Absatz 11 der Richtlinie 2008/98/EG unterliegt,
 
-4.
+4. Biomasse-Anteil von Industrieabfällen, der ungeeignet zur Verwendung in der Nahrungs- oder Futtermittelkette ist, einschließlich Material aus Groß- und Einzelhandel, Agrar- und Ernährungsindustrie sowie Fischwirtschaft und Aquakulturindustrie; nicht jedoch die Rohstoffe, die in Anlage 4 aufgeführt sind,
 
-5.
+5. Stroh,
 
-6.
+6. Mist, Gülle und Klärschlamm,
 
-7.
+7. Abwasser aus Palmölmühlen und leere Palmfruchtbündel,
 
-8.
+8. Tallölpech,
 
-9.
+9. Rohglyzerin,
 
-10.
+10. Bagasse,
 
-11.
+11. Traubentrester und Weintrub,
 
-12.
+12. Nussschalen,
 
-13.
+13. Hülsen,
 
-14.
+14. entkernte Maiskolben,
 
-15.
+15. Biomasse-Anteile von Abfällen und Reststoffen aus der Forstwirtschaft und forstbasierten Industrien, insbesondere Rinde, Zweige, vorkommerzielles Durchforstungsholz, Blätter, Nadeln, Baumspitzen, Sägemehl, Sägespäne, Schwarzlauge, Braunlauge, Faserschlämme, Lignin und Tallöl,
 
-16.
+16. anderes zellulosehaltiges Non-Food-Material im Sinne des Artikels 2 Nummer 42 der Richtlinie 2018/2001/EU in der jeweils geltenden Fassung,
 
-17.
+17. anderes lignozellulosehaltiges Material im Sinne des Artikels 2 Nummer 41 der Richtlinie 2018/2001/EU in der jeweils geltenden Fassung mit Ausnahme von Säge- und Furnierrundholz.
 
 ### Anlage 2 — (zu den §§ 11 und 13)
 
-Für die Treibhausgasemissionen fossiler Kraftstoffe gelten folgende Werte:
-
 ### Anlage 3 — (zu § 5 Absatz 3 und § 11 Absatz 2)
-
-Die Anpassungsfaktoren für die Antriebseffizienz sind:
 
 ### Anlage 4 — (zu § 13a)
 
 Rohstoffe für die Herstellung von Biokraftstoffen, deren Beitrag zu dem in Artikel 3 Absatz 4 Unterabsatz 1 der Richtlinie 2009/28/EG genannten Ziel mit dem Doppelten ihres Energiegehalts angesetzt wird:
 
-1.
+1. Gebrauchtes Speiseöl,
 
-2.
+2. tierische Fette, die in den Kategorien 1 und 2 der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische Nebenprodukte) (ABl. L 300 vom 14.11.2009, S. 1) eingestuft sind.

@@ -14,5 +14,3 @@ Der Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung des Deutschen 
 „Zur Vollstreckung der Haft zur Erzwingung der Vermögensauskunft des Schuldners (§ 802g ZPO).”
 
 ### Schlussformel
-
-Der Direktor beim Deutschen Bundestag

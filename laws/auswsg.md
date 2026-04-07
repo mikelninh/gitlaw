@@ -18,11 +18,11 @@
 
 (5) Das Bundesministerium für Familie, Senioren, Frauen und Jugend wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
-1.
+1. Ausnahmen von Absatz 1 Satz 1 zuzulassen, soweit dies zur Durchsetzung zwischenstaatlicher Vereinbarungen erforderlich ist,
 
-2.
+2. näher zu bestimmen, welche Voraussetzungen geeignet sind, die Zuverlässigkeit und Sachkunde nach Absatz 1 Satz 2 zu begründen,
 
-3.
+3. die Verwendung von Vordrucken zur Beantragung der Erlaubnis anzuordnen, die Gestaltung der Vordrucke durch Muster festzulegen und Vorgaben zu treffen, wie und in welcher Anzahl die Vordrucke auszufüllen sind.
 
 ### § 2 — Werbungsverbot
 
@@ -62,11 +62,11 @@
 
 (1) Ordnungswidrig handelt, wer
 
-1.
+1. entgegen § 1 Absatz 1 Satz 1 ohne Erlaubnis geschäftsmäßig Auskunft oder Rat erteilt oder einer vollziehbaren Auflage nach § 1 Absatz 1 Satz 4 zuwiderhandelt,
 
-2.
+2. einem vollziehbaren Verbot nach § 1 Absatz 3 zuwiderhandelt,
 
-3.
+3. entgegen § 2 Absatz 1 geschäftsmäßig für die Auswanderung wirbt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zwanzigtausend Euro geahndet werden.
 

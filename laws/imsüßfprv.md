@@ -22,59 +22,11 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (3) Durch die Erweiterung der beruflichen Handlungsfähigkeit soll der Geprüfte Industriemeister – Fachrichtung Süßwaren oder die Geprüfte Industriemeisterin – Fachrichtung Süßwaren in der Lage sein, in Betrieben unterschiedlicher Größe sowie in verschiedenen Bereichen und Tätigkeitsfeldern eines Betriebes Sach-, Organisations- und Führungsaufgaben wahrzunehmen und sich auf Änderungen von Methoden und Systemen in der Produktion, auf neue Strukturen der Arbeitsorganisation und auf neue Methoden der Organisationsentwicklung, der Personalführung und -entwicklung einzustellen sowie den technisch-organisatorischen Wandel im Betrieb mitzugestalten. Zur erweiterten beruflichen Handlungsfähigkeit gehören im Einzelnen folgende Aufgaben:
 
-1.
+1. Sachaufgaben: a)die süßwarenspezifischen Produktionsprozesse überwachen und optimieren,b)die In- und Außerbetriebnahme von Produktionsanlagen organisieren und überwachen,c)den Einsatz von Betriebs- und Produktionsmitteln koordinieren und deren Erhaltung und Betriebsbereitschaft sowie deren Werterhalt bei Transport und Lagerung sicherstellen,d)den Werterhalt von Rohwaren, Zusatz- und Hilfsstoffen sowie von Halbfabrikaten und Süßwaren bei Transport und Lagerung sicherstellen,e)Maßnahmen zur Vermeidung und Behebung von Betriebsstörungen einleiten und die Energieversorgung für die Produktionsabläufe sichern,f)bei der Einrichtung von Arbeitsstätten und der Gestaltung von Arbeitsplätzen unter Beachtung ergonomischer Gesichtspunkte und entsprechender Vorschriften mitwirken,g)technologische Weiterentwicklungen im Unternehmen umsetzen undh)bei der Entwicklung von Vorschlägen für neue technische Konzepte und Spezifikationen mitarbeiten und den kontinuierlichen Verbesserungsprozess mitgestalten, die süßwarenspezifischen Produktionsprozesse überwachen und optimieren, die In- und Außerbetriebnahme von Produktionsanlagen organisieren und überwachen, den Einsatz von Betriebs- und Produktionsmitteln koordinieren und deren Erhaltung und Betriebsbereitschaft sowie deren Werterhalt bei Transport und Lagerung sicherstellen, den Werterhalt von Rohwaren, Zusatz- und Hilfsstoffen sowie von Halbfabrikaten und Süßwaren bei Transport und Lagerung sicherstellen, Maßnahmen zur Vermeidung und Behebung von Betriebsstörungen einleiten und die Energieversorgung für die Produktionsabläufe sichern, bei der Einrichtung von Arbeitsstätten und der Gestaltung von Arbeitsplätzen unter Beachtung ergonomischer Gesichtspunkte und entsprechender Vorschriften mitwirken, technologische Weiterentwicklungen im Unternehmen umsetzen und bei der Entwicklung von Vorschlägen für neue technische Konzepte und Spezifikationen mitarbeiten und den kontinuierlichen Verbesserungsprozess mitgestalten,
 
-a)
+2. Organisationsaufgaben: a)die Arbeitsabläufe zur Herstellung von Süßwaren einschließlich des Einsatzes von Rohwaren sowie von Zusatz- und Hilfsstoffen planen und überwachen sowie sich an der Planung und Umsetzung neuer Produktionsprozesse beteiligen,b)die Kontrollen der ein- und ausgehenden Produkte sowie die Dokumentationen der Produktionsprozesse sicherstellen,c)Kostenpläne aufstellen sowie die Kostenentwicklung überwachen und auf einen wirtschaftlichen Ablauf achten,d)bei der Auswahl und Beschaffung von Geräten, Maschinen und Produktionsanlagen mitwirken,e)Qualitäts- und Quantitätsvorgaben planen und deren fristgemäße Einhaltung gewährleisten,f)die Rückverfolgbarkeit von Produkten und Prozessen sicherstellen,g)die Instandhaltung in Abstimmung mit den zuständigen Mitarbeiterinnen und Mitarbeitern sowie mit den beteiligten betrieblichen Bereichen koordinieren und überwachen,h)die Einhaltung der Arbeitssicherheits-, Umwelt-, Gesundheits- und Hygienevorschriften sicherstellen undi)Reklamationen bearbeiten, die Arbeitsabläufe zur Herstellung von Süßwaren einschließlich des Einsatzes von Rohwaren sowie von Zusatz- und Hilfsstoffen planen und überwachen sowie sich an der Planung und Umsetzung neuer Produktionsprozesse beteiligen, die Kontrollen der ein- und ausgehenden Produkte sowie die Dokumentationen der Produktionsprozesse sicherstellen, Kostenpläne aufstellen sowie die Kostenentwicklung überwachen und auf einen wirtschaftlichen Ablauf achten, bei der Auswahl und Beschaffung von Geräten, Maschinen und Produktionsanlagen mitwirken, Qualitäts- und Quantitätsvorgaben planen und deren fristgemäße Einhaltung gewährleisten, die Rückverfolgbarkeit von Produkten und Prozessen sicherstellen, die Instandhaltung in Abstimmung mit den zuständigen Mitarbeiterinnen und Mitarbeitern sowie mit den beteiligten betrieblichen Bereichen koordinieren und überwachen, die Einhaltung der Arbeitssicherheits-, Umwelt-, Gesundheits- und Hygienevorschriften sicherstellen und Reklamationen bearbeiten,
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
+3. Führungsaufgaben: a)die Mitarbeiterinnen und Mitarbeiter im Sinne der Unternehmensziele führen und ihnen Aufgaben unter Berücksichtigung betrieblicher Vorgaben, nach betriebswirtschaftlichen und arbeitsrechtlichen Gesichtspunkten und unter Berücksichtigung ihrer individuellen Eignung, ihrer Kompetenzen und ihrer Interessen zuordnen, sie zu selbstständigem, verantwortlichem Handeln anleiten, ihre Motivation fördern und sie an Entscheidungsprozessen beteiligen,b)bei der Planung des Personalbedarfs und bei Stellenbesetzungen mitwirken,c)Arbeitsgruppen betreuen und moderieren,d)die zielorientierte Kooperation und Kommunikation zwischen und mit den Mitarbeiterinnen und Mitarbeitern sowie mit den Führungskräften fördern; Unterweisungen veranlassen,e)die Innovationsbereitschaft der Mitarbeiterinnen und Mitarbeiter fördern; neue Mitarbeiterinnen und Mitarbeiter in ihre Arbeitsbereiche einführen,f)die Ausbildung der zugeteilten Auszubildenden verantworten undg)Qualitätsmanagementziele umsetzen sowie das qualitätsbewusste Handeln und die Kundenorientierung der Mitarbeiterinnen und Mitarbeiter fördern. die Mitarbeiterinnen und Mitarbeiter im Sinne der Unternehmensziele führen und ihnen Aufgaben unter Berücksichtigung betrieblicher Vorgaben, nach betriebswirtschaftlichen und arbeitsrechtlichen Gesichtspunkten und unter Berücksichtigung ihrer individuellen Eignung, ihrer Kompetenzen und ihrer Interessen zuordnen, sie zu selbstständigem, verantwortlichem Handeln anleiten, ihre Motivation fördern und sie an Entscheidungsprozessen beteiligen, bei der Planung des Personalbedarfs und bei Stellenbesetzungen mitwirken, Arbeitsgruppen betreuen und moderieren, die zielorientierte Kooperation und Kommunikation zwischen und mit den Mitarbeiterinnen und Mitarbeitern sowie mit den Führungskräften fördern; Unterweisungen veranlassen, die Innovationsbereitschaft der Mitarbeiterinnen und Mitarbeiter fördern; neue Mitarbeiterinnen und Mitarbeiter in ihre Arbeitsbereiche einführen, die Ausbildung der zugeteilten Auszubildenden verantworten und Qualitätsmanagementziele umsetzen sowie das qualitätsbewusste Handeln und die Kundenorientierung der Mitarbeiterinnen und Mitarbeiter fördern.
 
 (4) Die erfolgreich abgelegte Prüfung nach § 2 Absatz 1 Nummer 1 führt zusammen mit dem erbrachten Nachweis nach § 2 Absatz 1 Nummer 2 zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Süßwaren oder Geprüfte Industriemeisterin – Fachrichtung Süßwaren.
 
@@ -82,23 +34,23 @@ g)
 
 (1) Für den Fortbildungsabschluss zum Geprüften Industriemeister – Fachrichtung Süßwaren und zur Geprüften Industriemeisterin – Fachrichtung Süßwaren ist Folgendes erforderlich:
 
-1.
+1. das erfolgreiche Ablegen der im Rahmen dieser Verordnung geregelten Prüfung zum Geprüften Industriemeister – Fachrichtung Süßwaren und zur Geprüften Industriemeisterin – Fachrichtung Süßwaren,
 
-2.
+2. der Nachweis des Erwerbs der berufs- und arbeitspädagogischen Qualifikationen nach § 3.
 
 (2) Die Prüfung nach Absatz 1 Nummer 1 gliedert sich in zwei aufeinander aufbauende Prüfungsteile:
 
-1.
+1. Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“ nach § 5 und
 
-2.
+2. Prüfungsteil „Handlungsspezifische Qualifikationen“ nach § 7.
 
 ### § 3 — Nachweis des Erwerbs der berufs- und arbeitspädagogischen Qualifikationen
 
 (1) Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prüfende Person nachzuweisen durch
 
-1.
+1. eine erfolgreich abgelegte Prüfung nach § 4 der nach dem Berufsbildungsgesetz erlassenen Ausbilder-Eignungsverordnung oder
 
-2.
+2. eine andere erfolgreich abgelegte vergleichbare Prüfung vor einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss.
 
 (2) Der Nachweis des Erwerbs der berufs- und arbeitspädagogischen Qualifikationen ist vor Beginn der letzten Prüfungsleistung vorzulegen.
 
@@ -108,19 +60,19 @@ g)
 
 (1) Zur Prüfung im Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“ ist zuzulassen, wer Folgendes nachweist:
 
-1.
+1. eine erfolgreich abgelegte Abschlussprüfung in dem anerkannten Ausbildungsberuf Süßwarentechnologe und Süßwarentechnologin,
 
-2.
+2. eine erfolgreich abgelegte Abschluss- oder Gesellenprüfung in einem anerkannten Ausbildungsberuf, der den Ernährungsberufen zugeordnet ist, und eine auf die Berufsausbildung folgende mindestens sechsmonatige Berufspraxis,
 
-3.
+3. eine erfolgreich abgelegte Abschluss- oder Gesellenprüfung in einem sonstigen anerkannten Ausbildungsberuf und eine auf die Berufsausbildung folgende mindestens einjährige Berufspraxis oder
 
-4.
+4. eine mindestens vierjährige Berufspraxis.
 
 (2) Zur Prüfung im Prüfungsteil „Handlungsspezifische Qualifikationen“ ist zuzulassen, wer Folgendes nachweist:
 
-1.
+1. das Ablegen des Prüfungsteils „Fachrichtungsübergreifende Basisqualifikationen“, das nicht länger als fünf Jahre zurückliegt, und
 
-2.
+2. über die in Absatz 1 Nummer 1 genannte Voraussetzung hinaus mindestens ein Jahr Berufspraxis und über die in Absatz 1 Nummer 2 bis 4 genannten Voraussetzungen hinaus mindestens ein weiteres Jahr Berufspraxis.
 
 (3) Die Berufspraxis nach den Absätzen 1 und 2 soll wesentliche Bezüge zu den Aufgaben eines Geprüften Industriemeisters – Fachrichtung Süßwaren und einer Geprüften Industriemeisterin – Fachrichtung Süßwaren nach § 1 Absatz 3 aufweisen.
 
@@ -130,15 +82,15 @@ g)
 
 (1) Im Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“ werden folgende Prüfungsbereiche geprüft:
 
-1.
+1. Rechtsbewusstes Handeln,
 
-2.
+2. Betriebswirtschaftliches Handeln,
 
-3.
+3. Anwenden von Methoden der Information, Kommunikation und Planung,
 
-4.
+4. Zusammenarbeit im Betrieb und
 
-5.
+5. Berücksichtigung naturwissenschaftlicher und technischer Gesetzmäßigkeiten.
 
 (2) Der zu prüfenden Person werden anwendungsbezogene Aufgaben gestellt. Sie hat die Aufgaben schriftlich unter Aufsicht zu bearbeiten.
 
@@ -152,67 +104,67 @@ g)
 
 (1) Im Prüfungsbereich „Rechtsbewusstes Handeln“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, einschlägige Rechtsvorschriften zu berücksichtigen. Dazu gehört, die Arbeitsbedingungen der Mitarbeiterinnen und Mitarbeiter unter arbeitsrechtlichen Aspekten zu gestalten sowie die Arbeitssicherheit, den Gesundheitsschutz und den Umweltschutz nach rechtlichen Grundlagen zu gewährleisten und die Zusammenarbeit mit den entsprechenden Institutionen sicherzustellen. ln diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Berücksichtigen arbeitsrechtlicher Vorschriften und Bestimmungen bei der Gestaltung individueller Arbeitsverhältnisse und bei Fehlverhalten von Mitarbeiterinnen und Mitarbeitern, insbesondere unter Berücksichtigung des Arbeitsvertragsrechts, des Tarifvertragsrechts und betrieblicher Vereinbarungen,
 
-2.
+2. Berücksichtigen der Vorschriften des Betriebsverfassungsgesetzes, insbesondere der Beteiligungsrechte betriebsverfassungsrechtlicher Organe,
 
-3.
+3. Berücksichtigen rechtlicher Bestimmungen hinsichtlich der Sozialversicherung, der Entgeltfindung sowie der Arbeitsförderung,
 
-4.
+4. Berücksichtigen von arbeitsschutz- und arbeitssicherheitsrechtlichen Vorschriften und Bestimmungen in Abstimmung mit betrieblichen und außerbetrieblichen Institutionen,
 
-5.
+5. Berücksichtigen der Vorschriften des Umweltrechts, insbesondere hinsichtlich des Gewässer- und Bodenschutzes, der Kreislaufwirtschaft, der Luftreinhaltung, der Lärmvermeidung und des Lärmschutzes, des Strahlenschutzes und des Schutzes vor gefährlichen Stoffen und
 
-6.
+6. Berücksichtigen einschlägiger wirtschaftsrechtlicher Vorschriften und Bestimmungen, insbesondere hinsichtlich der Produktverantwortung, der Produkthaftung sowie des Datenschutzes.
 
 (2) Im Prüfungsbereich „Betriebswirtschaftliches Handeln“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, betriebswirtschaftliche Gesichtspunkte im Rahmen praxisbezogener Handlungen zu berücksichtigen und volkswirtschaftliche Zusammenhänge aufzuzeigen sowie Unternehmensformen darzustellen. Weiterhin sollen die Fähigkeiten nachgewiesen werden, betriebliche Abläufe nach wirtschaftlichen Gesichtspunkten planen, beurteilen und beeinflussen zu können. ln diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Berücksichtigen der ökonomischen Handlungsprinzipien von Unternehmen unter Einbeziehung volkswirtschaftlicher Zusammenhänge und sozialer Wirkungen,
 
-2.
+2. Berücksichtigen der Grundsätze betrieblicher Aufbau- und Ablauforganisation,
 
-3.
+3. Anwenden von Methoden der Organisationsentwicklung,
 
-4.
+4. Berücksichtigen von Methoden der Entgeltfindung und der kontinuierlichen betrieblichen Verbesserung und
 
-5.
+5. Unterscheiden von Kostenarten-, Kostenstellen- und Kostenträgerrechnung sowie Durchführen von Kalkulationsverfahren.
 
 (3) Im Prüfungsbereich „Anwenden von Methoden der Information, Kommunikation und Planung“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, Projekte und Prozesse zu analysieren, zu planen und transparent zu machen. Dazu gehört, Daten aufbereiten, technische Unterlagen erstellen sowie entsprechende Planungstechniken einsetzen zu können. Weiterhin soll die Fähigkeit nachgewiesen werden, angemessene Präsentationstechniken anwenden zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Erfassen, Analysieren und Aufbereiten von Prozess- und Produktionsdaten mittels EDV-Systemen und Bewerten visualisierter Daten,
 
-2.
+2. Bewerten von Planungstechniken und Analysemethoden sowie Bewerten ihrer Anwendungsmöglichkeiten,
 
-3.
+3. Anwenden von Präsentationstechniken,
 
-4.
+4. Erstellen von technischen Unterlagen, Entwürfen, Statistiken, Tabellen und Diagrammen,
 
-5.
+5. Anwenden von Projektmanagementmethoden und
 
-6.
+6. Auswählen und Anwenden von Informations- und Kommunikationsformen sowie von Informations- und Kommunikationsmitteln.
 
 (4) Im Prüfungsbereich „Zusammenarbeit im Betrieb“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, Zusammenhänge des Sozialverhaltens zu erkennen, ihre Auswirkungen auf die Zusammenarbeit zu beurteilen und durch angemessene Maßnahmen auf eine zielorientierte, effiziente und vertrauensvolle Zusammenarbeit hinzuwirken. Dazu gehört, die Leistungsbereitschaft der Mitarbeiterinnen und Mitarbeiter fördern sowie betriebliche Probleme und soziale Konflikte lösen zu können. Es soll ferner die Fähigkeit nachgewiesen werden, Führungsgrundsätze berücksichtigen und angemessene Führungstechniken anwenden zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Beurteilen und Fördern der beruflichen Entwicklung des Einzelnen unter Beachtung des bisherigen Berufsweges und unter Berücksichtigung persönlicher und sozialer Gegebenheiten,
 
-2.
+2. Beurteilen und Berücksichtigen des Einflusses der Arbeitsorganisation und des Arbeitsplatzes auf das Sozialverhalten des Einzelnen und auf das Betriebsklima sowie Ergreifen von Maßnahmen zu deren Verbesserung,
 
-3.
+3. Beurteilen von Einflüssen der Gruppenstruktur auf das Gruppenverhalten und auf die Zusammenarbeit sowie Entwickeln und Umsetzen von Alternativen,
 
-4.
+4. Auseinandersetzen mit eigenem und fremdem Führungsverhalten, Umsetzen von Führungsgrundsätzen,
 
-5.
+5. Anwenden von Führungsmethoden und -techniken einschließlich Vereinbaren entsprechender Handlungsspielräume, um Leistungsbereitschaft und Zusammenarbeit der Mitarbeiterinnen und Mitarbeiter zu fördern und
 
-6.
+6. Fördern der Kommunikation und Kooperation durch Anwenden von Methoden zur Lösung betrieblicher Probleme und sozialer Konflikte.
 
 (5) Im Prüfungsbereich „Berücksichtigung naturwissenschaftlicher und technischer Gesetzmäßigkeiten“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, einschlägige naturwissenschaftliche und technische Gesetzmäßigkeiten zur Lösung technischer Probleme einzubeziehen sowie mathematische, physikalische, chemische und technische Kenntnisse und Fertigkeiten zur Lösung von Aufgaben aus der betrieblichen Praxis anzuwenden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Berücksichtigen der Auswirkungen naturwissenschaftlicher und technischer Gesetzmäßigkeiten auf Materialien, Maschinen und Prozesse sowie auf Mensch und Umwelt,
 
-2.
+2. Verwenden unterschiedlicher Energieformen im Betrieb sowie Beachten der damit zusammenhängenden Auswirkungen auf Mensch und Umwelt,
 
-3.
+3. Berechnen betriebs- und fertigungstechnischer Größen bei Belastungen und Bewegungen und
 
-4.
+4. Anwenden von statistischen Verfahren und Durchführen von einfachen statistischen Berechnungen sowie die graphische Darstellung dieser Verfahren und Berechnungen.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -220,37 +172,19 @@ g)
 
 Der Prüfungsteil „Handlungsspezifische Qualifikationen“ umfasst die folgenden Handlungsbereiche und Qualifikationsschwerpunkte:
 
-1.
+1. Handlungsbereich „Technik“ mit den Qualifikationsschwerpunkten a)Süßwarentechnologie,b)Betriebstechnik undc)Rohwarenmanagement, Süßwarentechnologie, Betriebstechnik und Rohwarenmanagement,
 
-a)
+2. Handlungsbereich „Organisation“ mit den Qualifikationsschwerpunkten a)Betriebliches Kostenwesen,b)Planung, Steuerung und Kommunikation undc)Arbeits-, Umwelt- und Gesundheitsschutz sowie Lebensmittelsicherheit, Betriebliches Kostenwesen, Planung, Steuerung und Kommunikation und Arbeits-, Umwelt- und Gesundheitsschutz sowie Lebensmittelsicherheit,
 
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-c)
-
-3.
-
-a)
-
-b)
-
-c)
+3. Handlungsbereich „Führung und Personal“ mit den Qualifikationsschwerpunkten a)Personalführung,b)Personalentwicklung undc)Qualitätsmanagement. Personalführung, Personalentwicklung und Qualitätsmanagement.
 
 ### § 8 — Gliederung des Prüfungsteils
 
 Der Prüfungsteil besteht aus
 
-1.
+1. einem schriftlichen Teil nach den §§ 9 bis 11 und
 
-2.
+2. einem Fachgespräch nach § 12.
 
 ### § 9 — Situationsaufgaben im schriftlichen Teil, Bearbeitungsdauer
 
@@ -258,9 +192,9 @@ Der Prüfungsteil besteht aus
 
 (2) Die Bearbeitungsdauer beträgt
 
-1.
+1. für die Situationsaufgabe aus dem Handlungsbereich „Technik“ mindestens 270 Minuten und
 
-2.
+2. für die Situationsaufgabe aus dem Handlungsbereich „Organisation“ mindestens 240 Minuten.
 
 (3) Für beide Situationsaufgaben sollen insgesamt nicht mehr als 10 Stunden veranschlagt werden.
 
@@ -278,41 +212,41 @@ Der Prüfungsteil besteht aus
 
 (4) Im Qualifikationsschwerpunkt „Süßwarentechnologie“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, Herstellungsprozesse von Süßwaren zu planen, zu organisieren und zu steuern. Dazu gehört, Zusammenhänge und Optimierungsmöglichkeiten erkennen und entsprechende Maßnahmen einleiten zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Bewerten, Auswählen, Einsetzen und Optimieren von Fertigungstechnologien im Bereich Schokoladewaren und Konfekt, Bonbons und Zuckerwaren, feine Backwaren, Knabberartikel und Speiseeis,
 
-2.
+2. Bewerten, Auswählen, Einsetzen und Optimieren von Verpackungstechnologien und -materialien,
 
-3.
+3. Durchführen von verfahrensspezifischen Berechnungen,
 
-4.
+4. Berücksichtigen von biochemischen und chemischen Prozessen und
 
-5.
+5. Umsetzen von Produktentwicklungen vom Labor- in den Produktionsmaßstab unter Berücksichtigung von Wirtschaftlichkeit, Spezifikationen, Rohstoffen, Rezepturen und Arbeitsabläufen sowie Prüfen, Bewerten und Dokumentieren von Produktionsversuchen, Produkten und Prozessen.
 
 (5) Im Qualifikationsschwerpunkt „Betriebstechnik“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, Anlagen, Maschinen und Einrichtungen unter Berücksichtigung von rohwaren- und produktspezifischen Eigenschaften funktionsgerecht einzusetzen und deren Instandhaltung zu planen, zu organisieren und zu steuern. Weiterhin soll die Fähigkeit nachgewiesen werden, Störungsanalysen durchführen und entsprechende Maßnahmen einleiten und Energie effizient einzusetzen zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Analysieren von Prozessen auf der Basis von verfahrenstechnischen Grundoperationen,
 
-2.
+2. Vermeiden, Erkennen und Beheben von Störungen,
 
-3.
+3. Anwenden und Überwachen von Mess-, Steuer- und Regelungseinrichtungen sowie Beurteilen des Einsatzes der Energiearten, deren Nutzung und Verteilung im Prozess unter Berücksichtigung von Energieeinsparmöglichkeiten und den damit zusammenhängenden Auswirkungen auf Mensch und Umwelt,
 
-4.
+4. Mitwirken bei der Sicherstellung einer effizienten Energienutzung im Rahmen des Energiemanagements,
 
-5.
+5. Mitwirken bei der Sicherstellung eines effektiven Managements von Betriebsstoffen und
 
-6.
+6. Mitwirken bei der Auswahl und beim Funktionserhalt von Fertigungsmaschinen und -anlagen, Transport- und Fördermitteln.
 
 (6) Im Qualifikationsschwerpunkt „Rohwarenmanagement“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, die prozess- und produktgerechte Verwendung von Roh-, Zusatz- und Hilfsstoffen sicherzustellen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Mitwirken bei der Erstellung von Spezifikationen und bei der Beschaffung von Rohwaren,
 
-2.
+2. Mitwirken bei der Festlegung von Verfahren sowie Veranlassen der Eingangskontrolle, Auswerten der Ergebnisse und Ableiten von Konsequenzen,
 
-3.
+3. Festlegen der Lagerbedingungen und Methoden der Weiterbehandlung von Roh-, Zusatz- und Hilfsstoffen unter Berücksichtigung der Produkteigenschaften sowie Sicherstellen der Einhaltung der spezifischen Bedingungen,
 
-4.
+4. Festlegen des Einsatzes von Roh-, Zusatz- und Hilfsstoffen vor und während der Fertigung sowie Beurteilen von Auswirkungen auf den Fertigungsprozess beim Einsatz von neuen Rohwaren und Technologien und
 
-5.
+5. Einschätzen von Alternativen bei Rohstoffmangel und Entscheiden über deren Einsatz sowie über Prozessanpassungen.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -324,47 +258,47 @@ Der Prüfungsteil besteht aus
 
 (3) Im Qualifikationsschwerpunkt „Betriebliches Kostenwesen“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, betriebswirtschaftliche Zusammenhänge und kostenrelevante Einflussfaktoren zu erfassen und zu beurteilen. Dazu gehört Möglichkeiten der Kostenbeeinflussung aufzeigen und Maßnahmen zum kostenbewussten Handeln planen, organisieren, einleiten und überwachen zu können. Ferner soll die Fähigkeit nachgewiesen werden, Kalkulationsverfahren und Methoden der Zeitwirtschaft anwenden und organisatorische sowie personelle Maßnahmen auch in ihrer Bedeutung als Kostenfaktoren beurteilen und berücksichtigen zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Planen, Erfassen, Analysieren und Bewerten der Kosten nach vorgegebenen Plandaten,
 
-2.
+2. Überwachen und Einhalten des zugeteilten Budgets,
 
-3.
+3. Beeinflussen der Kosten, insbesondere unter Berücksichtigung alternativer Fertigungskonzepte und bedarfsgerechter Lagerwirtschaft,
 
-4.
+4. Fördern des kostenbewussten Handelns der Mitarbeiterinnen und Mitarbeiter bei unterschiedlichen Formen der Arbeitsorganisation,
 
-5.
+5. Erstellen und Auswerten der Betriebsabrechnung durch die Kostenarten-, Kostenstellen- und Kostenträgerrechnung,
 
-6.
+6. Anwenden von Kalkulationsverfahren einschließlich der Deckungsbeitragsrechnung und
 
-7.
+7. Anwenden von Methoden der Zeitwirtschaft.
 
 (4) Im Qualifikationsschwerpunkt „Planung, Steuerung und Kommunikation“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, die Bedeutung von Planungs-, Steuerungs- und Kommunikationssystemen zu erkennen und anforderungsgerecht auszuwählen sowie entsprechende Systeme zur Überwachung von Planungszielen und Prozessen anzuwenden. Weiterhin soll die Fähigkeit nachgewiesen werden, Methoden der Kommunikation im Betrieb anwenden zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Optimieren von Aufbau- und Ablaufstrukturen von Planungs-, Steuerungs- und Kommunikationssystemen sowie Aktualisieren der Stammdaten für diese Systeme,
 
-2.
+2. Erstellen, Anpassen und Umsetzen von Produktions-, Mengen-, Termin-, Kapazitäts- und Personaleinsatzplanungen,
 
-3.
+3. Anwenden der Systeme für die Arbeitsablaufplanung, die Materialflussgestaltung, die Produktionsprogrammplanung und die Auftragsdisposition einschließlich der dazugehörigen Zeit- und Datenermittlung,
 
-4.
+4. Anwenden von Informations- und Kommunikationssystemen,
 
-5.
+5. Anwenden von Logistiksystemen, insbesondere im Rahmen der Produkt- und Materialdisposition und
 
-6.
+6. Durchführen von zielgruppen- und situationsgerechter Kommunikation mit Kunden und Lieferanten sowie mit Behörden und Institutionen.
 
 (5) Im Qualifikationsschwerpunkt „Arbeits-, Umwelt- und Gesundheitsschutz sowie Lebensmittelsicherheit“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, einschlägige Gesetze, Vorschriften und Bestimmungen in ihrer Bedeutung zu erkennen und ihre Einhaltung sicherzustellen. Die zu prüfende Person soll auch nachweisen, in der Lage zu sein, Gefahren vorbeugen und Störungen erkennen und analysieren zu können sowie Maßnahmen zur Vermeidung von Gefahren und zur Beseitigung von Störungen einleiten zu können. Weiterhin soll die Fähigkeit nachgewiesen werden, sicherstellen zu können, dass sich die Mitarbeiterinnen und Mitarbeiter arbeits-, umwelt-, gesundheits- und verbraucherschutzbewusst verhalten und entsprechend handeln können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Überprüfen und Gewährleisten der Arbeitssicherheit, des Umwelt- und Gesundheitsschutzes sowie der Lebensmittelsicherheit im Betrieb,
 
-2.
+2. Fördern der Bereitschaft der Mitarbeiterinnen und Mitarbeiter zur Gewährleistung der Arbeitssicherheit und des betrieblichen Umwelt- und Gesundheitsschutzes sowie der Lebensmittelsicherheit,
 
-3.
+3. Planen und Durchführen von Unterweisungen in Arbeitssicherheit, in Umwelt- und Gesundheitsschutz sowie in Lebensmittelsicherheit,
 
-4.
+4. Überwachen der Lagerung von und des Umgangs mit umweltbelastenden und gesundheitsgefährdenden Betriebsmitteln, Einrichtungen, Werk- und Hilfsstoffen,
 
-5.
+5. Planen, Vorschlagen, Einleiten und Überprüfen von Maßnahmen zur Verbesserung der Arbeitssicherheit sowie zur Reduzierung und Vermeidung von Unfällen und von Umwelt- und Gesundheitsbelastungen und
 
-6.
+6. Planen, Vorschlagen, Einleiten und Überprüfen von Maßnahmen zur Einhaltung und Verbesserung der Vorgaben zur Lebensmittelsicherheit.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -380,51 +314,51 @@ Der Prüfungsteil besteht aus
 
 (5) Im Qualifikationsschwerpunkt „Personalführung“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, den Personalbedarf zu ermitteln und den Personaleinsatz entsprechend den Anforderungen sicherzustellen. Dazu gehört, die Mitarbeiterinnen und Mitarbeiter zielgerichtet durch die Anwendung geeigneter Methoden zu verantwortlichem Handeln hinführen zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Ermitteln und Bestimmen des qualitativen und quantitativen Personalbedarfs unter Berücksichtigung technischer und organisatorischer Veränderungen,
 
-2.
+2. Auswählen und Einsetzen der Mitarbeiterinnen und Mitarbeiter unter Berücksichtigung ihrer persönlichen Daten, ihrer Eignung und ihrer Interessen sowie der betrieblichen Anforderungen,
 
-3.
+3. Erstellen und Umsetzen von Einarbeitungsplänen,
 
-4.
+4. Erstellen von Anforderungsprofilen, Stellenplanungen und -beschreibungen sowie von Funktionsbeschreibungen,
 
-5.
+5. Delegieren von Aufgaben und der damit verbundenen Verantwortung,
 
-6.
+6. Fördern der Kommunikations- und Kooperationsbereitschaft,
 
-7.
+7. Anwenden von Führungsmethoden und -mitteln zur Bewältigung betrieblicher Aufgaben und zum Lösen von Problemen und Konflikten,
 
-8.
+8. Beteiligen der Mitarbeiterinnen und Mitarbeiter am kontinuierlichen Verbesserungsprozess und
 
-9.
+9. Einrichten, Moderieren und Steuern von Arbeits- und Projektgruppen.
 
 (6) Im Qualifikationsschwerpunkt „Personalentwicklung“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, auf der Grundlage einer qualitativen und quantitativen Personalplanung eine systematische Personalentwicklung durchführen zu können. Dazu gehören die Fähigkeiten, Personalentwicklungspotentiale einschätzen und Personalentwicklungs- und Qualifizierungsziele festlegen zu können. Weiterhin soll die Fähigkeit nachgewiesen werden, entsprechende Maßnahmen planen, realisieren, hinsichtlich ihrer Ergebnisse überprüfen und die Umsetzung im Betrieb fördern zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Ermitteln des quantitativen und des qualitativen Personalentwicklungsbedarfs,
 
-2.
+2. Festlegen von Personalentwicklungszielen,
 
-3.
+3. Durchführen von Potenzialeinschätzungen nach vorgegebenen Kriterien,
 
-4.
+4. Planen, Durchführen und Veranlassen von Maßnahmen der Personalentwicklung unter Berücksichtigung des betrieblichen Bedarfs und der Mitarbeiterinteressen,
 
-5.
+5. Überprüfen der Ergebnisse aus Maßnahmen der Personalentwicklung und
 
-6.
+6. Beraten, Fördern und Unterstützen von Mitarbeiterinnen und Mitarbeitern hinsichtlich ihrer beruflichen Entwicklung.
 
 (7) Im Qualifikationsschwerpunkt „Qualitätsmanagement“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, die Qualitätsziele durch Anwendung entsprechender Methoden und durch Förderung des qualitätsbewussten Handelns der Mitarbeiterinnen und Mitarbeiter sichern zu können. Dazu gehören die Fähigkeiten, bei der Realisierung eines Qualitätsmanagementsystems mitwirken und zu dessen Verbesserung und Weiterentwicklung beitragen zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Berücksichtigen des Einflusses von Qualitätsmanagementsystemen auf Unternehmen,
 
-2.
+2. Beschreiben betrieblicher Prozesse und Definieren von Anforderungen im Rahmen des Qualitätsmanagements,
 
-3.
+3. Fördern des qualitätsbewussten Handelns der Mitarbeiterinnen und Mitarbeiter,
 
-4.
+4. Anwenden von Methoden zur Sicherung und kontinuierlichen Verbesserung der Qualität, insbesondere der Produktqualität, und zur Steigerung der Kundenzufriedenheit,
 
-5.
+5. Umsetzen der Qualitätsmanagementziele und
 
-6.
+6. Vor- und Nachbereiten sowie Begleiten von Audits.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -450,37 +384,23 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
-1.
+1. in jedem Prüfungsbereich der Teilprüfung „Fachrichtungsübergreifende Basisqualifikationen“,
 
-2.
-
-a)
-
-b)
+2. in der Teilprüfung „Handlungsspezifische Qualifikationen“ a)in den schriftlichen Situationsaufgaben,b)im situationsbezogenen Fachgespräch. in den schriftlichen Situationsaufgaben, im situationsbezogenen Fachgespräch.
 
 (2) Ist die Prüfung bestanden, werden die folgenden Bewertungen jeweils kaufmännisch auf eine ganze Zahl gerundet:
 
-1.
+1. die Bewertung für die Teilprüfung „Fachrichtungsübergreifende Basisqualifikationen“,
 
-2.
-
-a)
-
-b)
-
-c)
+2. in der Teilprüfung „Handlungsspezifische Qualifikationen“ a)die Bewertungen der schriftlichen Situationsaufgaben,b)die Bewertung des situationsbezogenen Fachgesprächs sowiec)die Bewertung der Situationsaufgabe, in der eine mündliche Ergänzungsprüfung durchgeführt wurde. die Bewertungen der schriftlichen Situationsaufgaben, die Bewertung des situationsbezogenen Fachgesprächs sowie die Bewertung der Situationsaufgabe, in der eine mündliche Ergänzungsprüfung durchgeführt wurde.
 
 (3) Der Bewertung für die Teilprüfung „Fachrichtungsübergreifende Basisqualifikationen“, der Bewertung für die schriftlichen Situationsaufgaben der Teilprüfung „Handlungsspezifische Qualifikationen“ sowie der Bewertung für das Fachgespräch in der Teilprüfung „Handlungsspezifische Qualifikationen“ ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
 
-(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das arithmetische Mittel zu berechnen aus: Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl ist nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das arithmetische Mittel zu berechnen aus:
 
-1.
+1. dem arithmetischen Mittel der Bewertungen aller Prüfungsleistungen für die Teilprüfung „Fachrichtungsübergreifende Basisqualifikationen“,
 
-2.
-
-a)
-
-b)
+2. in der Teilprüfung „Handlungsspezifische Qualifikationen“ a)den Bewertungen der schriftlichen Situationsaufgaben undb)der Bewertung für das situationsbezogene Fachgespräch. den Bewertungen der schriftlichen Situationsaufgaben und der Bewertung für das situationsbezogene Fachgespräch.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -492,9 +412,9 @@ b)
 
 (3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur Information (Bemerkungen) enthalten, insbesondere
 
-1.
+1. über den erworbenen Abschluss oder
 
-2.
+2. auf Antrag der geprüften Person über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -528,38 +448,34 @@ Diese Verordnung tritt am 1. Juli 2016 in Kraft. Gleichzeitig tritt die Verordnu
 
 ### Anlage 2 — (zu § 16)
 
-Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
 
-1.
+2. Name und Geburtsdatum der geprüften Person,
 
-2.
+3. Datum des Bestehens der Prüfung,
 
-3.
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 4,
 
-4.
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
 
-5.
-
-6.
-
-Teil B – Zeugnis mit Prüfungsergebnissen:
+6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
 
 Alle Angaben des Teils A sowie zusätzlich:
 
-1.
+1. Benennung und Bewertung der Prüfungsbereiche nach § 5 Absatz 1 zur Teilprüfung „Fachrichtungsübergreifende Basisqualifikationen“ in Punkten,
 
-2.
+2. die zusammengefasste Bewertung der Teilprüfung „Fachrichtungsübergreifende Basisqualifikationen“ in Punkten und als Note,
 
-3.
+3. Benennung der Handlungsbereiche und Bewertung der schriftlichen Situationsaufgaben und des situationsbezogenen Fachgesprächs zur Teilprüfung „Handlungsspezifische Qualifikationen“ in Punkten und als Note,
 
-4.
+4. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
 
-5.
+5. die Gesamtnote als Dezimalzahl,
 
-6.
+6. die Gesamtnote in Worten,
 
-7.
+7. Befreiungen nach § 13,
 
-8.
+8. Vorliegen des Nachweises über den Erwerb der berufs- und arbeitspädagogischen Qualifikationen nach § 3 Absatz 1.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)

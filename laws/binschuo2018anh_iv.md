@@ -19,9 +19,9 @@ Für Anker genügen zwei Drittel des nach Artikel 13.01 ES-TRIN errechneten Gesa
 
 ### § 1.03 — Geschwindigkeit
 
-1.
+1. Fahrzeuge und Verbände müssen eine Geschwindigkeit gegen Wasser von mindestens 10 km/h erreichen. Dies gilt nicht für Schubboote, wenn sie allein fahren.
 
-2.
+2. Bei Rückwärtsfahrt muss eine Geschwindigkeit gegen Wasser von mindestens 5 km/h erreicht werden.
 
 ## Kapitel 2: Sonderbestimmungen für Fahrgastschiffe
 
@@ -41,11 +41,11 @@ Auf Wasserstraßen der Zone 4 ist ES-TRIN mit den sich aus den nachfolgenden Vor
 
 ### § 3.02 — Sicherheitsabstand
 
-Der Sicherheitsabstand für Türen und andere Öffnungen als die Luken der Laderäume kann, verringert werden.
+Der Sicherheitsabstand für Türen und andere Öffnungen als die Luken der Laderäume kann,
 
-a)
+a) wenn sie sprühwasser- und wetterdicht abgeschlossen werden können, auf 0,15 m,
 
-b)
+b) wenn sie nicht sprühwasser- und wetterdicht abgeschlossen werden können, auf 0,20 m
 
 > (+++ § 3.02: Zur Nichtanwendung vgl. § 1.02 Nr. 6 BinSchUO2018Anh II +++)
 
@@ -61,9 +61,9 @@ Für Anker genügen zwei Drittel des nach Artikel 13.01 ES-TRIN errechneten Gesa
 
 ### § 3.05 — Geschwindigkeit
 
-1.
+1. Fahrzeuge und Verbände müssen eine Geschwindigkeit gegen Wasser von mindestens 10 km/h erreichen. Dies gilt nicht für Schubboote, wenn sie allein fahren.
 
-2.
+2. Bei Rückwärtsfahrt muss eine Geschwindigkeit von mindestens 5 km/h gegen Wasser erreicht werden.
 
 ## Kapitel 4: Sonderbestimmungen für Fahrgastschiffe
 
@@ -87,16 +87,12 @@ Fahrgastschiffe müssen auf Wasserstraßen der Zone 4 nicht mit einem zweiten un
 
 ### § 5.01 — Anwendung der Übergangsbestimmungen für Fahrzeuge, die schon in Betrieb sind
 
-1.
+1. Die nachstehenden Bestimmungen gelten für Fahrzeuge, für die ein zusätzliches Gemeinschaftszeugnis für Binnenschiffe erstmals vor dem 30. Dezember 2008 erteilt wurde.
 
-2.
+2. Für die Fahrzeuge muss nachgewiesen werden, dass sie am Tage der Erteilung oder letzten Erneuerung ihres Gemeinschaftszeugnisses oder der anderen Verkehrszulassung den technischen Vorschriften der Binnenschiffs-Untersuchungsordnung in der Fassung vom 30. Dezember 2008 entsprochen haben.
 
 ### § 5.02 — Übergangsbestimmungen für Fahrzeuge, die schon in Betrieb sind
 
-1.
+1. Fahrzeuge, die den Vorschriften dieses Anhangs nicht vollständig entsprechen, müssen den in nachstehender Tabelle aufgeführten Übergangsbestimmungen angepasst werden. Im Fall der Erteilung eines neuen zusätzlichen Unionszeugnisses für Binnenschiffe nach § 5.01 Nummer 1 ist das zusätzliche Gemeinschaftszeugnis oder eine Anlage zum Gemeinschaftszeugnis für Binnenschiffe als Nachweis vorzulegen und einzuziehen.
 
-2.
-
-–
-
-–
+2. In der Tabelle bedeuten –„N.E.U.“:Die Vorschrift gilt nicht für Fahrzeuge, die schon in Betrieb sind, es sei denn, die betroffenen Teile werden ersetzt oder umgebaut, d. h., die Vorschrift gilt nur für Neubauten sowie bei Ersatz oder bei Umbau der betroffenen Teile oder Bereiche. Werden bestehende Teile durch Austauschteile in gleicher Technik und Machart ersetzt, bedeutet dies keinen Ersatz „E“ im Sinne dieser Übergangsbestimmungen.–„Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe“:Die Vorschrift muss bei der nächsten auf das angegebene Datum folgenden Erteilung oder Erneuerung der Gültigkeitsdauer des zusätzlichen Unionszeugnisses für Binnenschiffe oder der Anlage zum Unionszeugnis für Binnenschiffe erfüllt sein.§InhaltFrist oder Bemerkungen1.02AnkerausrüstungN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20491.03GeschwindigkeitN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20493.02SicherheitsabstandN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20493.03FreibordN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20493.04AnkerausrüstungN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20493.05GeschwindigkeitN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049 „N.E.U.“: Die Vorschrift gilt nicht für Fahrzeuge, die schon in Betrieb sind, es sei denn, die betroffenen Teile werden ersetzt oder umgebaut, d. h., die Vorschrift gilt nur für Neubauten sowie bei Ersatz oder bei Umbau der betroffenen Teile oder Bereiche. Werden bestehende Teile durch Austauschteile in gleicher Technik und Machart ersetzt, bedeutet dies keinen Ersatz „E“ im Sinne dieser Übergangsbestimmungen. „Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe“: Die Vorschrift muss bei der nächsten auf das angegebene Datum folgenden Erteilung oder Erneuerung der Gültigkeitsdauer des zusätzlichen Unionszeugnisses für Binnenschiffe oder der Anlage zum Unionszeugnis für Binnenschiffe erfüllt sein.§InhaltFrist oder Bemerkungen1.02AnkerausrüstungN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20491.03GeschwindigkeitN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20493.02SicherheitsabstandN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20493.03FreibordN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20493.04AnkerausrüstungN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.20493.05GeschwindigkeitN.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049

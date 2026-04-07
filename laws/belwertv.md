@@ -28,13 +28,13 @@ Gegenstand der Beleihungswertermittlung ist das Grundstück, grundstücksgleiche
 
 ### § 4 — Verfahren zur Ermittlung des Beleihungswerts
 
-(1) Zur Ermittlung des Beleihungswerts sind der Ertragswert (§§ 8 bis 13) und der Sachwert (§§ 14 bis 17) des Beleihungsobjekts getrennt zu ermitteln; anstelle des Sachwerts kann bei Ein- und Zweifamilienhäusern sowie Wohnungs- und Teileigentum auch der Vergleichswert (§ 19) ermittelt werden. Maßgeblich für die Ableitung des Beleihungswerts ist regelmäßig der Ertragswert, der nicht überschritten werden darf. Bleibt der Sachwert und in den Fällen von Satz 1 zweiter Halbsatz alternativ der Vergleichswert um mehr als 20 Prozent hinter dem Ertragswert zurück, bedarf es einer besonderen Überprüfung der Nachhaltigkeit der zugrunde gelegten Erträge und ihrer Kapitalisierung; hierbei sind im Rahmen der Kontrollbetrachtung für die Kosten- und Ertragsansätze die gleichen Annahmen, insbesondere in steuerlicher Hinsicht, zu berücksichtigen. Bestätigt sich der anfangs ermittelte Ertragswert, bedarf das Ergebnis der Überprüfung einer nachvollziehbaren Begründung, andernfalls ist der Ertragswert entsprechend zu mindern.
+(1) Zur Ermittlung des Beleihungswerts sind der Ertragswert (§§ 8 bis 13) und der Sachwert (§§ 14 bis 17) des Beleihungsobjekts getrennt zu ermitteln; anstelle des Sachwerts kann bei Ein- und Zweifamilienhäusern sowie Wohnungs- und Teileigentum auch der Vergleichswert (§ 19) ermittelt werden. Maßgeblich für die Ableitung des Beleihungswerts ist regelmäßig der Ertragswert, der nicht überschritten werden darf. Bleibt der Sachwert und in den Fällen von Satz 1 zweiter Halbsatz alternativ der Vergleichswert um mehr als 20 Prozent hinter dem Ertragswert zurück, bedarf es einer besonderen Überprüfung der Nachhaltigkeit der zugrunde gelegten Erträge und ihrer Kapitalisierung; hierbei sind im Rahmen der Kontrollbetrachtung für die Kosten- und Ertragsansätze die gleichen Annahmen, insbesondere in steuerlicher Hinsicht, zu berücksichtigen. Bestätigt sich der anfangs ermittelte Ertragswert, bedarf das Ergebnis der Überprüfung einer nachvollziehbaren Begründung, andernfalls ist der Ertragswert entsprechend zu mindern.
 
-(2) Bei Ein- und Zweifamilienhäusern sowie Wohnungseigentum kann der Beleihungswert am Sachwert oder Vergleichswert orientiert werden und eine Ertragswertermittlung entfallen, wenn das zu bewertende Objekt nach Objekt- und Standortqualität zweifelsfrei zur Eigennutzung geeignet ist und von potenziellen Erwerbern für die eigene Nutzung dauerhaft nachgefragt wird. Ist das Objekt noch vermietet, ist die hiermit verbundene Wertminderung nachvollziehbar zu ermitteln und vom Beleihungswert abzuziehen. Bei Ein- und Zweifamilienhäusern darf eine Orientierung am Vergleichswert vorbehaltlich des § 19 Absatz 2 jedoch nur dann erfolgen, wenn der Ermittlung aktuelle Vergleichspreise von mindestens fünf Objekten zugrunde liegen, die auch hinsichtlich der Wohnfläche mit dem zu bewertenden Objekt hinreichend übereinstimmen. Bei der Ableitung des Beleihungswerts aus dem Sachwert ist regelmäßig zu prüfen, ob aufgrund der Merkmale des Objekts und der regionalen Marktgegebenheiten unter besonderer Berücksichtigung der Nachhaltigkeit ein Abschlag vom Sachwert erforderlich ist.
+(2) Bei Ein- und Zweifamilienhäusern sowie Wohnungseigentum kann der Beleihungswert am Sachwert oder Vergleichswert orientiert werden und eine Ertragswertermittlung entfallen, wenn das zu bewertende Objekt nach Objekt- und Standortqualität zweifelsfrei zur Eigennutzung geeignet ist und von potenziellen Erwerbern für die eigene Nutzung dauerhaft nachgefragt wird. Ist das Objekt noch vermietet, ist die hiermit verbundene Wertminderung nachvollziehbar zu ermitteln und vom Beleihungswert abzuziehen. Bei Ein- und Zweifamilienhäusern darf eine Orientierung am Vergleichswert vorbehaltlich des § 19 Absatz 2 jedoch nur dann erfolgen, wenn der Ermittlung aktuelle Vergleichspreise von mindestens fünf Objekten zugrunde liegen, die auch hinsichtlich der Wohnfläche mit dem zu bewertenden Objekt hinreichend übereinstimmen. Bei der Ableitung des Beleihungswerts aus dem Sachwert ist regelmäßig zu prüfen, ob aufgrund der Merkmale des Objekts und der regionalen Marktgegebenheiten unter besonderer Berücksichtigung der Nachhaltigkeit ein Abschlag vom Sachwert erforderlich ist.
 
 (3) Sind im Rahmen der Wertermittlung ein Instandhaltungsrückstau, Baumängel oder Bauschäden erkennbar, die noch nicht in geeigneter Weise in die Ermittlung von Ertragswert, Sachwert und Vergleichswert eingeflossen sind, so sind die auf der Grundlage der für ihre Beseitigung am Wertermittlungsstichtag bekannten oder vorsichtig geschätzten Aufwendungen als gesonderter Abschlag vom Beleihungswert zu berücksichtigen. Vorgenanntes gilt auch für sonstige bauliche Aufwände, insbesondere für Maßnahmen zur Ertüchtigung des zu bewertenden Objekts bei Nutzungsänderungen.
 
-(4) Bei im Bau befindlichen Objekten kann der Beleihungswert aus dem Zustandswert abgeleitet werden. Dieser ist die Summe aus dem Bodenwert (§ 15) und dem anteiligen Wert der baulichen Anlage. Der anteilige Wert der baulichen Anlage errechnet sich aus dem Wert der baulichen Anlage des fertig gestellten Objekts (§ 16) und dem erreichten Bautenstand. Der in Ansatz gebrachte Bautenstand ist von einer von der Pfandbriefbank auszuwählenden, besonders fachkundigen, von Bauplanung und Bauausführung unabhängigen Person festzustellen; § 7 Absatz 1 Satz 1 gilt entsprechend. In den Fällen, in denen der Ertragswert des planmäßig fertig gestellten Objekts unter dessen Sachwert liegt, darf der Zustandswert die Summe aus dem Bodenwert und dem anteiligen Ertragswert der baulichen Anlage, der prozentual dem jeweiligen Bautenstand entspricht, nicht überschreiten. Es ist zu prüfen, ob insbesondere zur Berücksichtigung der Lage auf dem Grundstücksmarkt auf den ermittelten Zustandswert ein besonderer Nachhaltigkeitsabschlag, der die Verkäuflichkeit des noch nicht fertiggestellten Objekts berücksichtigt, vorgenommen werden muss.
+(4) Bei im Bau befindlichen Objekten kann der Beleihungswert aus dem Zustandswert abgeleitet werden. Dieser ist die Summe aus dem Bodenwert (§ 15) und dem anteiligen Wert der baulichen Anlage. Der anteilige Wert der baulichen Anlage errechnet sich aus dem Wert der baulichen Anlage des fertig gestellten Objekts (§ 16) und dem erreichten Bautenstand. Der in Ansatz gebrachte Bautenstand ist von einer von der Pfandbriefbank auszuwählenden, besonders fachkundigen, von Bauplanung und Bauausführung unabhängigen Person festzustellen; § 7 Absatz 1 Satz 1 gilt entsprechend. In den Fällen, in denen der Ertragswert des planmäßig fertig gestellten Objekts unter dessen Sachwert liegt, darf der Zustandswert die Summe aus dem Bodenwert und dem anteiligen Ertragswert der baulichen Anlage, der prozentual dem jeweiligen Bautenstand entspricht, nicht überschreiten. Es ist zu prüfen, ob insbesondere zur Berücksichtigung der Lage auf dem Grundstücksmarkt auf den ermittelten Zustandswert ein besonderer Nachhaltigkeitsabschlag, der die Verkäuflichkeit des noch nicht fertiggestellten Objekts berücksichtigt, vorgenommen werden muss.
 
 ## Teil 2: Gutachten und Gutachter
 
@@ -42,13 +42,13 @@ Gegenstand der Beleihungswertermittlung ist das Grundstück, grundstücksgleiche
 
 (1) Der Beleihungswert ist mittels eines Gutachtens zu ermitteln. Das zu bewertende Objekt ist im Rahmen der Wertermittlung zu besichtigen.
 
-(2) Das Gutachten muss durch einen oder mehrere Gutachter erstellt werden, die von der Pfandbriefbank allgemein oder von Fall zu Fall bestimmt werden. In besonderen Fällen, etwa im Rahmen von Kooperationen oder bei Portfoliokäufen, können für andere Kreditinstitute oder Versicherungsunternehmen erstellte Gutachten zugrunde gelegt werden, wenn Gutachten, die vom Darlehensnehmer vorgelegt oder in Auftrag gegeben worden sind, dürfen nicht zugrunde gelegt werden.
+(2) Das Gutachten muss durch einen oder mehrere Gutachter erstellt werden, die von der Pfandbriefbank allgemein oder von Fall zu Fall bestimmt werden. In besonderen Fällen, etwa im Rahmen von Kooperationen oder bei Portfoliokäufen, können für andere Kreditinstitute oder Versicherungsunternehmen erstellte Gutachten zugrunde gelegt werden, wenn
 
-1.
+1. diese Gutachten den Bestimmungen dieser Verordnung entsprechen,
 
-2.
+2. ein nicht mit der Kreditentscheidung befasster, fachkundiger Mitarbeiter der Pfandbriefbank eine Plausibilitätsprüfung, auch im Hinblick auf die einzelnen angesetzten Bewertungsparameter, durchführt und
 
-3.
+3. das Ergebnis der Plausibilitätsprüfung dokumentiert wird.
 
 (3) Das Gutachten muss zur Objekt- und Standortqualität, zum regionalen Immobilienmarkt, zu den rechtlichen und tatsächlichen Objekteigenschaften und zur Beleihungsfähigkeit des Objekts, seiner Verwertbarkeit und Vermietbarkeit Stellung nehmen. Das Gutachten hat sich auch damit auseinander zu setzen, ob für die begutachtete Immobilie ein genügend großer potenzieller Käufer- und Nutzerkreis besteht und somit die nachhaltige Ertragsfähigkeit der Immobilie oder die dauerhafte Nachfrage von Eigennutzern anhand ihrer vielseitigen Verwendbarkeit und ihrer ausreichenden Nutzbarkeit durch Dritte gewährleistet ist; ein im Zeitablauf zu erwartender Wertverlust ist darzustellen und insbesondere bei der Bemessung des Modernisierungsrisikos (§ 11 Abs. 7) und der Restnutzungsdauer (§ 12 Abs. 2) zu berücksichtigen. Die wesentlichen Objektdaten, Bewertungsparameter und getroffenen Annahmen sind nachvollziehbar darzulegen und zu begründen.
 
@@ -100,11 +100,11 @@ Der Gutachter muss nach seiner Ausbildung und beruflichen Tätigkeit über beson
 
 (3) Verwaltungskosten im Sinne des Absatzes 1 Satz 2 sind
 
-1.
+1. die Kosten der zur Verwaltung des Grundstücks erforderlichen Arbeitskräfte und Einrichtungen sowie der Aufsicht,
 
-2.
+2. die Kosten für Buchhaltung, Rechnungsprüfung, Zahlungsverkehr und Jahresabschluss sowie
 
-3.
+3. die Kosten für Abschluss und Änderung von Mietverträgen und die Bearbeitung von Versicherungsfällen.
 
 (4) Instandhaltungskosten im Sinne des Absatzes 1 Satz 2 sind Kosten, die infolge Abnutzung, Alterung und Witterung zur Erhaltung des bestimmungsgemäßen Gebrauchs der baulichen Anlage während ihrer Nutzungsdauer aufgewendet werden müssen. Sie umfassen die laufende Instandhaltung und regelmäßige Instandsetzung der baulichen Anlage, nicht jedoch deren Modernisierung.
 
@@ -116,31 +116,29 @@ Der Gutachter muss nach seiner Ausbildung und beruflichen Tätigkeit über beson
 
 ### § 12 — Kapitalisierung der Reinerträge
 
-(1) Der um den Verzinsungsbetrag des Bodenwerts nach § 9 Abs. 2 verminderte Reinertrag ist in Abhängigkeit von der Restnutzungsdauer der baulichen Anlage und dem Kapitalisierungszinssatz mit dem sich daraus ergebenden Vervielfältiger zu kapitalisieren. Der Vervielfältiger V errechnet sich gemäß V = (qn – 1) / (qn · z), mit n = Restnutzungsdauer, q = 1 + z und z = Kapitalisierungszinssatz.
-
 (2) Bei der Bemessung der Restnutzungsdauer ist im Gegensatz zur technischen Lebensdauer ausschließlich auf den Zeitraum abzustellen, in dem die bauliche Anlage bei ordnungsgemäßer Unterhaltung und Bewirtschaftung noch wirtschaftlich betrieben werden kann. Die wirtschaftliche Restnutzungsdauer ist unter Berücksichtigung der sich in zunehmend kürzer werdenden zeitlichen Abständen wandelnden Nutzeranforderungen objektspezifisch anhand der Fragestellung, wie lange die wirtschaftliche Nutzung des Objekts zu den angenommenen Erträgen gesichert erscheint, einzuschätzen. Bei im Inland belegenen Objekten sind die in Anlage 2 genannten Maximalsätze für die Nutzungsdauer baulicher Anlagen zu berücksichtigen.
 
 (3) Der Kapitalisierungszinssatz entspricht dem angenommenen Zinssatz, mit dem die künftig erzielbaren nachhaltigen Reinerträge eines Grundstücks auf den Zeitraum ihrer angenommenen Zahlung nach vorsichtiger Schätzung erfahrungsgemäß diskontiert werden. Er muss aus der regional maßgeblichen langfristigen und nutzungsspezifischen Marktentwicklung abgeleitet werden. Verschiedene Nutzungsarten sind jeweils gesondert zu betrachten.
 
-(4) Der bei im Inland belegenen Objekten in Ansatz zu bringende Kapitalisierungszinssatz beträgt vorbehaltlich des Satzes 3 und des Absatzes 5 bei wohnwirtschaftlicher Nutzung mindestens 3 Prozentpunkte, bei gewerblicher Nutzung mindestens 4 Prozentpunkte über der nach DIN 1333 auf die erste Nachkommastelle gerundeten von der Deutschen Bundesbank veröffentlichten Rendite 30-jähriger Bundesanleihen zuzüglich etwaiger für einzelne Nutzungsarten nach Anlage 3 zu berücksichtigender Aufschläge. Ist am 30. November eines Jahres die von der Deutschen Bundesbank veröffentlichte Rendite 30-jähriger Bundesanleihen mindestens 0,5 Prozentpunkte höher oder niedriger als zu Beginn des der letzten Veränderung der Mindestkapitalisierungszinssätze vorhergehenden Monats, so verändert er sich zum 1. Januar des Folgejahres um die entsprechenden nach DIN 1333 auf die erste Nachkommastelle gerundeten Prozentpunkte. Vorbehaltlich des Absatzes 5 beträgt der Mindestkapitalisierungszinssatz bei wohnwirtschaftlicher Nutzung mindestens 3,5 Prozent und höchstens 5,5 Prozent, bei gewerblicher Nutzung mindestens 4,5 Prozent und höchstens 6,5 Prozent, jeweils zuzüglich etwaiger für einzelne Nutzungsarten nach Anlage 3 zu berücksichtigender Aufschläge. Die Bundesanstalt gibt die geänderten Mindestkapitalisierungszinssätze unverzüglich nach dem in Satz 2 genannten Zeitpunkt auf ihrer Internetseite bekannt.
+(4) Der bei im Inland belegenen Objekten in Ansatz zu bringende Kapitalisierungszinssatz beträgt vorbehaltlich des Satzes 3 und des Absatzes 5 bei wohnwirtschaftlicher Nutzung mindestens 3 Prozentpunkte, bei gewerblicher Nutzung mindestens 4 Prozentpunkte über der nach DIN 1333 auf die erste Nachkommastelle gerundeten von der Deutschen Bundesbank veröffentlichten Rendite 30-jähriger Bundesanleihen zuzüglich etwaiger für einzelne Nutzungsarten nach Anlage 3 zu berücksichtigender Aufschläge. Ist am 30. November eines Jahres die von der Deutschen Bundesbank veröffentlichte Rendite 30-jähriger Bundesanleihen mindestens 0,5 Prozentpunkte höher oder niedriger als zu Beginn des der letzten Veränderung der Mindestkapitalisierungszinssätze vorhergehenden Monats, so verändert er sich zum 1. Januar des Folgejahres um die entsprechenden nach DIN 1333 auf die erste Nachkommastelle gerundeten Prozentpunkte. Vorbehaltlich des Absatzes 5 beträgt der Mindestkapitalisierungszinssatz bei wohnwirtschaftlicher Nutzung mindestens 3,5 Prozent und höchstens 5,5 Prozent, bei gewerblicher Nutzung mindestens 4,5 Prozent und höchstens 6,5 Prozent, jeweils zuzüglich etwaiger für einzelne Nutzungsarten nach Anlage 3 zu berücksichtigender Aufschläge. Die Bundesanstalt gibt die geänderten Mindestkapitalisierungszinssätze unverzüglich nach dem in Satz 2 genannten Zeitpunkt auf ihrer Internetseite bekannt.
 
-(5) Die in Absatz 4 Satz 1 und 3 genannten Mindestkapitalisierungszinssätze dürfen für die Nutzungsarten Wohnen, Handel, Büro sowie Lager und Logistik um höchstens 0,5 Prozentpunkte unterschritten werden, wenn es sich um erstklassige Immobilien handelt. Dies ist dann der Fall, wenn mindestens folgende Kriterien erfüllt sind: Ein Unterschreiten bedarf einer nachvollziehbaren, im Gutachten dokumentierten Begründung.
+(5) Die in Absatz 4 Satz 1 und 3 genannten Mindestkapitalisierungszinssätze dürfen für die Nutzungsarten Wohnen, Handel, Büro sowie Lager und Logistik um höchstens 0,5 Prozentpunkte unterschritten werden, wenn es sich um erstklassige Immobilien handelt. Dies ist dann der Fall, wenn mindestens folgende Kriterien erfüllt sind:
 
-1.
+1. eine sehr gute Lage im Verdichtungsraum,
 
-2.
+2. ein entsprechend der jeweiligen Objektart bevorzugter Standort,
 
-3.
+3. eine gute Infrastruktur,
 
-4.
+4. eine gute Konzeption,
 
-5.
+5. eine hochwertige Ausstattung,
 
-6.
+6. eine hochwertige Bauweise,
 
-7.
+7. eine besonders hohe Marktgängigkeit und
 
-8.
+8. ein sehr guter Objektzustand.
 
 ### § 13 — Ermittlung des Ertragswerts in besonderen Fällen
 
@@ -160,33 +158,33 @@ Der Sachwert des Beleihungsobjekts setzt sich aus dem Bodenwert und dem nach § 
 
 (1) Zur Ermittlung des Bodenwerts sind Erhebungen anzustellen über
 
-1.
+1. die örtliche Lage, die Größe und den Zuschnitt des Grundstücks,
 
-2.
+2. die Art und das Maß der baurechtlich festgesetzten Nutzungsmöglichkeiten und die tatsächliche Nutzung,
 
-3.
+3. die Art und Beschaffenheit der Zuwegungen,
 
-4.
+4. die wichtigsten wirtschaftlichen und verkehrstechnischen Verbindungen,
 
-5.
+5. die Anschlussmöglichkeiten an Ver- und Entsorgungsnetze,
 
-6.
+6. die noch anfallenden Erschließungsbeiträge und
 
-7.
+7. vorhandene Richtwerte und Vergleichspreise.
 
 (2) Der Bodenwert ist nach Quadratmetern der Grundstücksfläche anzusetzen. Bei der Ermittlung des Bodenwerts darf keine höherwertige Nutzung als zulässig zugrunde gelegt werden.
 
 ### § 16 — Wert der baulichen Anlage
 
-(1) Zur Ermittlung des Werts der baulichen Anlage sind die aus Erfahrungssätzen abzuleitenden Herstellungskosten je Raum- oder Flächeneinheit mit der Anzahl der entsprechenden Bezugseinheit des zu bewertenden Gebäudes zu vervielfachen (Herstellungswert). Die angesetzten Herstellungskosten müssen regional und objektspezifisch angemessen sein. Wertmäßig zu berücksichtigen sind dabei insbesondere Die Kosten für Außenanlagen dürfen im Regelfall mit nicht mehr als 5 Prozent des Herstellungswerts angesetzt werden.
+(1) Zur Ermittlung des Werts der baulichen Anlage sind die aus Erfahrungssätzen abzuleitenden Herstellungskosten je Raum- oder Flächeneinheit mit der Anzahl der entsprechenden Bezugseinheit des zu bewertenden Gebäudes zu vervielfachen (Herstellungswert). Die angesetzten Herstellungskosten müssen regional und objektspezifisch angemessen sein. Wertmäßig zu berücksichtigen sind dabei insbesondere
 
-1.
+1. die beabsichtigte und mögliche Verwendung,
 
-2.
+2. der Umfang und die Raumaufteilung,
 
-3.
+3. die Bauweise und die für den Rohbau verwendeten Materialien,
 
-4.
+4. die Ausstattung und die wertbeeinflussenden Nebenanlagen.
 
 (2) Um eventuellen Baupreissenkungen und damit der nachhaltigen Gültigkeit der Ansätze Rechnung zu tragen, ist der nach Absatz 1 ermittelte Herstellungswert um einen Sicherheitsabschlag von mindestens 10 Prozent zu kürzen. Aus allen Bewertungen müssen der Ausgangswert je Raum- oder Flächeneinheit, der Sicherheitsabschlag sowie gegebenenfalls die Wertminderung wegen Alters ersichtlich sein.
 
@@ -232,41 +230,35 @@ Maschinen und Betriebseinrichtungen sind bei der Ermittlung des Sachwerts grunds
 
 ### § 24 — Wohnwirtschaftlich genutzte Objekte bei Vergabe von Kleindarlehen
 
-(1) Bei der Beleihung eines im Inland gelegenen wohnwirtschaftlich genutzten Objekts kann auf die Erstellung eines Gutachtens nach § 5 verzichtet werden, wenn der auf dem Objekt abzusichernde Darlehensbetrag unter Einbeziehung aller Vorlasten den Betrag von 600 000 Euro nicht übersteigt. Bei einer teilweise gewerblichen Nutzung des Objekts darf jedoch der darauf entfallende Ertragsanteil ein Drittel des Rohertrags nicht überschreiten. Anstelle des Gutachtens ist eine vereinfachte Wertermittlung zu erstellen oder erstellen zu lassen, die den übrigen Anforderungen dieser Verordnung genügen muss.
+(1) Bei der Beleihung eines im Inland gelegenen wohnwirtschaftlich genutzten Objekts kann auf die Erstellung eines Gutachtens nach § 5 verzichtet werden, wenn der auf dem Objekt abzusichernde Darlehensbetrag unter Einbeziehung aller Vorlasten den Betrag von 600 000 Euro nicht übersteigt. Bei einer teilweise gewerblichen Nutzung des Objekts darf jedoch der darauf entfallende Ertragsanteil ein Drittel des Rohertrags nicht überschreiten. Anstelle des Gutachtens ist eine vereinfachte Wertermittlung zu erstellen oder erstellen zu lassen, die den übrigen Anforderungen dieser Verordnung genügen muss.
 
 (2) Die Person, die im Falle des Absatzes 1 die Wertermittlung durchführt und erstellt, muss für die Beleihungswertermittlung der dort genannten Objekte ausreichend geschult und qualifiziert sein. Sie darf nicht identisch sein mit der Person, die die abschließende Kreditentscheidung trifft oder den Beleihungswert festsetzt; § 7 Abs. 1 Satz 2 gilt entsprechend. Die Pfandbriefbank hat die Ordnungsmäßigkeit der Wertermittlungen mittels einer in regelmäßigen Abständen durch Gutachter vorzunehmenden Überprüfung einer hinreichend großen Zahl repräsentativer Stichproben sicherzustellen; § 19 Absatz 2 Satz 3 und die §§ 6 und 7 sind entsprechend anzuwenden.
 
-(3) Abweichend von § 5 Absatz 1 Satz 2 kann in Fällen des Absatzes 1 eine Besichtigung des zu bewertenden Objekts dann unterbleiben, wenn Die Gründe für das Unterbleiben der Besichtigung sind in nachvollziehbarer Weise zu dokumentieren.
+(3) Abweichend von § 5 Absatz 1 Satz 2 kann in Fällen des Absatzes 1 eine Besichtigung des zu bewertenden Objekts dann unterbleiben, wenn
 
-1.
+1. das Objekt der Pfandbriefbank oder dem mit der Pfandbriefbank kooperierenden Kreditinstitut oder Versicherungsunternehmen bereits bekannt ist, wobei Bekanntheit nur dann angenommen werden kann, wenn das Objekt in den letzten beiden Jahren von einem Mitarbeiter der Pfandbriefbank oder des kooperierenden Kreditinstituts oder Versicherungsunternehmens oder im Auftrag der Pfandbriefbank oder des kooperierenden Kreditinstituts oder Versicherungsunternehmens besichtigt worden ist,
 
-2.
+2. es sich um die Beleihung einer Eigentumswohnung handelt, die in einem Gebäude belegen ist, in dem die Pfandbriefbank bereits zumindest eine gleichartige Wohnung innerhalb der letzten zwei Jahre besichtigt hat,
 
-3.
+3. bei Beleihung eines in einer Siedlung von gleichartigen Einfamilienhäusern belegenen Einfamilienhauses die Pfandbriefbank zumindest ein gleichartiges Objekt in dieser Siedlung innerhalb der letzten zwei Jahre besichtigt hat,
 
-4.
+4. bei Beleihung eines neu errichteten Fertighauses der Pfandbriefbank oder dem kooperierenden Kreditinstitut oder Versicherungsunternehmen der Bauplatz bekannt ist und das Fertighaus nach Art und Typus anhand des Katalogs des Herstellers eindeutig bestimmt werden kann oder
 
-5.
+5. stattdessen eine Ansicht des zu bewertenden Objekts, für das eine Restnutzungsdauer von mindestens 40 Jahren zu erwarten sein muss, per Videoübertragung vorgenommen wird, sofern a)der Wertermittler dabei einen zumindest annähernd vollständigen Einblick der gesamten Immobilie, ihres Zustands und ihres Umfelds erhält,b)die per Videoübertragung durchgeführte Ansicht der Immobilie hinsichtlich Umfang und Erkenntnissen sowie mittels einer Fotosammlung (Bildschirmfotos) dokumentiert wird undc)auf das Ergebnis der Beleihungswertermittlung ein Abschlag in Höhe von mindestens 5 Prozent vorgenommen wird. der Wertermittler dabei einen zumindest annähernd vollständigen Einblick der gesamten Immobilie, ihres Zustands und ihres Umfelds erhält, die per Videoübertragung durchgeführte Ansicht der Immobilie hinsichtlich Umfang und Erkenntnissen sowie mittels einer Fotosammlung (Bildschirmfotos) dokumentiert wird und auf das Ergebnis der Beleihungswertermittlung ein Abschlag in Höhe von mindestens 5 Prozent vorgenommen wird.
 
-a)
+(3a) Abweichend von § 5 Absatz 1 Satz 2 kann in den Fällen des Absatzes 1 auf eine Innenbesichtigung des zu bewertenden Objekts verzichtet werden, wenn der Person, die die Wertermittlung durchführt, die wesentlichen Bewertungsparameter hinreichend bekannt sind und
 
-b)
+1. die Immobilie innerhalb der letzten zehn Jahre fertiggestellt worden ist, oder
 
-c)
+2. ein Abschlag in Höhe von mindestens 10 Prozent auf das Ergebnis der Beleihungswertermittlung vorgenommen wird.
 
-(3a) Abweichend von § 5 Absatz 1 Satz 2 kann in den Fällen des Absatzes 1 auf eine Innenbesichtigung des zu bewertenden Objekts verzichtet werden, wenn der Person, die die Wertermittlung durchführt, die wesentlichen Bewertungsparameter hinreichend bekannt sind und Die Gründe für den Verzicht auf die Innenbesichtigung sind nachvollziehbar zu dokumentieren.
+(4) Bei Erwerb einer Vielzahl von Darlehensforderungen im Sinne des Absatzes 1 von anderen Kreditinstituten oder Versicherungsunternehmen können von diesen oder für diese erstellte vereinfachte Wertermittlungen zugrunde gelegt werden, wenn
 
-1.
+1. diese Wertermittlungen den Bestimmungen des Absatzes 1 Satz 3 und des Absatzes 2 Satz 1 und 2 entsprechen,
 
-2.
+2. ein nicht mit der Kreditentscheidung befasster, fachkundiger Mitarbeiter der Pfandbriefbank eine Plausibilitätsprüfung, auch im Hinblick auf die einzelnen angesetzten Bewertungsparameter, durchführt und
 
-(4) Bei Erwerb einer Vielzahl von Darlehensforderungen im Sinne des Absatzes 1 von anderen Kreditinstituten oder Versicherungsunternehmen können von diesen oder für diese erstellte vereinfachte Wertermittlungen zugrunde gelegt werden, wenn Die nach Satz 1 Nr. 2 erforderliche Plausibilitätsprüfung kann auf eine repräsentative, das erworbene Portfolio regional und objektmäßig abbildende Anzahl von Bewertungen beschränkt werden. Ergibt sich hierbei, dass die seinerzeit ermittelten Werte der Beleihungsobjekte nicht nur in Einzelfällen zu hoch angesetzt worden sind oder ergeben sich sonstige Zweifel bezüglich der Angemessenheit der ermittelten Werte, so ist in Abhängigkeit vom Ergebnis der Überprüfung die Stichprobe angemessen auszuweiten oder eine Einzelprüfung aller Bewertungen für bestimmte Regionen oder Objekttypen oder eine vollständige Neubewertung bestimmter oder aller Beleihungsobjekte nach Absatz 1 Satz 3 in Verbindung mit Absatz 2 Satz 1 und 2 durchzuführen. Die Wertermittlungen nach Satz 1 sind in die nach Absatz 2 Satz 3 vorzunehmende Überprüfung einzubeziehen.
-
-1.
-
-2.
-
-3.
+3. das Ergebnis der Plausibilitätsprüfung dokumentiert wird.
 
 ## Abschnitt 5: Im Ausland belegene Objekte
 
@@ -300,15 +292,15 @@ Die in § 6 Satz 1 genannte DIN-Norm ist im Beuth Verlag GmbH, Berlin erschienen
 
 (1) Diese Verordnung tritt am 1. August 2006 in Kraft.
 
-(2) Für Beleihungswertermittlungen, die auf Grundlage der bis zum 7. Oktober 2022 geltenden Fassung dieser Verordnung erfolgt sind, dürfen auch nach diesem Zeitpunkt die Vorschriften der vorbezeichneten Fassung dieser Verordnung, ab 9. Oktober 2022 mit Ausnahme des § 26 Absatz 1, weiterhin zugrunde gelegt werden. Die Bundesanstalt gibt auf ihrer Internetseite unverzüglich nach dem 8. Oktober 2022 die bis zu einer Anpassung nach § 12 Absatz 4 Satz 2 maßgeblichen Mindestkapitalisierungszinssätze nach § 12 Absatz 4 Satz 1 auf der Grundlage der für den 30. September 2022 von der Deutschen Bundesbank veröffentlichten Rendite 30-jähriger Bundesanleihen bekannt.
+(2) Für Beleihungswertermittlungen, die auf Grundlage der bis zum 7. Oktober 2022 geltenden Fassung dieser Verordnung erfolgt sind, dürfen auch nach diesem Zeitpunkt die Vorschriften der vorbezeichneten Fassung dieser Verordnung, ab 9. Oktober 2022 mit Ausnahme des § 26 Absatz 1, weiterhin zugrunde gelegt werden. Die Bundesanstalt gibt auf ihrer Internetseite unverzüglich nach dem 8. Oktober 2022 die bis zu einer Anpassung nach § 12 Absatz 4 Satz 2 maßgeblichen Mindestkapitalisierungszinssätze nach § 12 Absatz 4 Satz 1 auf der Grundlage der für den 30. September 2022 von der Deutschen Bundesbank veröffentlichten Rendite 30-jähriger Bundesanleihen bekannt.
 
 ### Anlage 1 — (zu § 11 Absatz 2)
 
 Verwaltungskosten
 
-a)
+a) Wohnungsbau Für Wohnungen, Ein- und Zweifamilienhäuser, Eigentumswohnungen, Garagen und Tiefgaragenstellplätze: die in Anlage 3 (zu § 12 Absatz 5 Satz 2) der Immobilienwertermittlungsverordnung in der jeweils geltenden Fassung genannten Beträge
 
-b)
+b) Gewerbliche Objekte 1 Prozent des Jahresrohertrags
 
 In jedem Einzelfall ist darauf zu achten, dass der ausgewiesene absolute Betrag unzweifelhaft für eine ordnungsgemäße Verwaltung angemessen ist.
 
@@ -316,42 +308,36 @@ Instandhaltungskosten
 
 Kalkulationsbasis: Herstellungskosten pro Quadratmeter Wohn- oder Nutzfläche (ohne Baunebenkosten und Außenanlagen). Objektzustand, Ausstattungsgrad und Alter sind bei der Bemessung der Instandhaltungskosten zu berücksichtigen.
 
-a)
+a) Lager- und Produktionshallen, gewerbliche Objekte einfachen Standards und Selbstbedienungs-Verbrauchermärkte: 0,8 Prozent
 
-b)
+b) Wohngebäude und gewerbliche Gebäude mit mittlerem Standard: 0,5 Prozent
 
-c)
+c) Hochwertige Büro- und Handels- und andere gewerbliche Objekte: 0,4 Prozent
 
 Mietausfallwagnis
 
-a)
+a) Wohnungsbau: 2 Prozent
 
-b)
+b) Gewerbliche Objekte: 4 Prozent
 
 Modernisierungsrisiko
 
 Berechnungsbasis sind die Herstellungskosten (ohne Baunebenkosten und Außenanlagen).
 
-a)
+a) Geringes Modernisierungsrisiko (zum Beispiel größere Bürogebäude, Wohn-, Büro- und Geschäftshäuser mit besonderen Ausstattungsmerkmalen, Einzelhandel mit einfachem Standard): 0,2 Prozent
 
-b)
+b) Mittleres Modernisierungsrisiko (zum Beispiel innerstädtische Hotels, Einzelhandel mit höherem Standard, Freizeitimmobilien mit einfachem Standard): 0,5 Prozent
 
-c)
+c) Hohes Modernisierungsrisiko (zum Beispiel Rehabilitationseinrichtungen, Kliniken, Freizeitimmobilien mit höherem Standard, Hotels und Einzelhandelsobjekte mit besonders hohem Standard): 0,75 Prozent.
 
 ### Anlage 2 — (zu § 12 Absatz 2)
 
-A)
+A) Wohnwirtschaftliche Nutzung: Wohnhäuser: 80 Jahre
 
-B)
-
-a)
-
-b)
-
-c)
+B) Gewerbliche Nutzung: a)Geschäftshäuser und Bürohäuser:60 Jahreb)Warenhäuser, Einkaufszentren, Hotels, landwirtschaftlich genutzte Objekte, Kliniken, Rehabilitationseinrichtungen, Pflegeheime, Lager- und Logistikimmobilien, Produktionsimmobilien und Parkhäuser:40 Jahrec)Freizeitimmobilien (zum Beispiel Sportanlagen), Selbstbedienungs- und Fachmärkte, Verbrauchermärkte und Tankstellen:30 Jahre. Geschäftshäuser und Bürohäuser: 60 Jahre Warenhäuser, Einkaufszentren, Hotels, landwirtschaftlich genutzte Objekte, Kliniken, Rehabilitationseinrichtungen, Pflegeheime, Lager- und Logistikimmobilien, Produktionsimmobilien und Parkhäuser: 40 Jahre Freizeitimmobilien (zum Beispiel Sportanlagen), Selbstbedienungs- und Fachmärkte, Verbrauchermärkte und Tankstellen: 30 Jahre.
 
 ### Anlage 3 — (zu § 12 Absatz 4)
 
-A)
+A) Warenhäuser, Selbstbedienungs- und Fachmärkte, Hotels, Kliniken, Rehabilitationseinrichtungen, Pflegeheime, landwirtschaftlich genutzte Objekte, Verbrauchermärkte, Einkaufszentren, Freizeitimmobilien, Parkhäuser, Tankstellen sowie Lager- und Logistikimmobilien: 0,5 Prozentpunkte
 
-B)
+B) Produktionsimmobilien: 1,0 Prozentpunkte.

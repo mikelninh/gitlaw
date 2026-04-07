@@ -12,17 +12,17 @@ Die auf der Grundlage des Zehnten Teils des Telekommunikationsgesetzes vom 25. J
 
 ### § 2 — Tätigkeiten, Aufgabendurchführung
 
-(1) Die Bundesnetzagentur ist auf den Gebieten tätig.
+(1) Die Bundesnetzagentur ist auf den Gebieten
 
-1.
+1. des Rechts der leitungsgebundenen Versorgung mit Elektrizität, Gas und Wasserstoff, einschließlich des Rechts der erneuerbaren Energien im Strombereich,
 
-2.
+2. des Telekommunikationsrechts,
 
-3.
+3. des Postrechts,
 
-4.
+4. des Rechts des Zuganges zur Eisenbahninfrastruktur nach Maßgabe des Bundeseisenbahnverkehrsverwaltungsgesetzes sowie
 
-5.
+5. des Rechts der digitalen Dienste nach Maßgabe des Digitale-Dienste-Gesetzes
 
 (2) Die Bundesnetzagentur nimmt im Rahmen der ihr nach Absatz 1 zugewiesenen Tätigkeiten die Verwaltungsaufgaben des Bundes wahr, die ihr durch Gesetz oder auf Grund eines Gesetzes zugewiesen sind.
 
@@ -42,7 +42,7 @@ Die auf der Grundlage des Zehnten Teils des Telekommunikationsgesetzes vom 25. J
 
 (1) Der Präsident oder die Präsidentin der Bundesnetzagentur steht in einem öffentlich-rechtlichen Amtsverhältnis zum Bund, das auf fünf Jahre befristet ist; eine einmalige Verlängerung ist zulässig.
 
-(2) Der Präsident oder die Präsidentin leistet vor dem Bundesminister für Wirtschaft und Energie folgenden Eid: Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
+(2) Der Präsident oder die Präsidentin leistet vor dem Bundesminister für Wirtschaft und Energie folgenden Eid:
 
 (3) Der Präsident oder die Präsidentin darf neben seinem oder ihrem Amt kein anderes besoldetes Amt, kein Gewerbe und keinen Beruf ausüben und weder der Leitung eines auf Erwerb gerichteten Unternehmens noch einer Regierung oder einer gesetzgebenden Körperschaft des Bundes oder eines Landes angehören. Er oder sie darf nicht gegen Entgelt außergerichtliche Gutachten abgeben. Für die Zugehörigkeit zu einem Aufsichtsrat, Verwaltungsrat oder Beirat eines auf Erwerb gerichteten Unternehmens ist die Einwilligung des Bundesministeriums für Wirtschaft und Energie erforderlich; dieses entscheidet, inwieweit eine Vergütung abzuführen ist. In Firmen, die Dienstleistungen im Sinne des Artikels 87f des Grundgesetzes erbringen, ist seine oder ihre Zugehörigkeit zu den genannten Gremien untersagt. Der Präsident oder die Präsidentin hat dem Bundesministerium für Wirtschaft und Energie über Geschenke Mitteilung zu machen, die er oder sie in Bezug auf das Amt erhält. Entsprechendes gilt für andere Vorteile, die ihm oder ihr in Bezug auf das Amt gewährt werden. Das Bundesministerium für Wirtschaft und Energie entscheidet über die Verwendung der Geschenke und den Ausgleich der Vorteile.
 

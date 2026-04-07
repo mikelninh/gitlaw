@@ -12,7 +12,7 @@ Auf Grund des § 49 des Bundesbesoldungsgesetzes, der durch Artikel 1 Nummer 23 
 
 ### § 1 — Vergütung
 
-Beamtinnen und Beamte des mittleren Dienstes, die dauerhaft als Vollziehungsbeamtinnen oder  ‑beamte im Sinne des § 285 der Abgabenordnung verwendet werden, erhalten für Vollstreckungshandlungen eine Vergütung nach dieser Verordnung.
+Beamtinnen und Beamte des mittleren Dienstes, die dauerhaft als Vollziehungsbeamtinnen oder ‑beamte im Sinne des § 285 der Abgabenordnung verwendet werden, erhalten für Vollstreckungshandlungen eine Vergütung nach dieser Verordnung.
 
 ### § 2 — Entstehen und Höhe des Vergütungsanspruchs
 
@@ -20,41 +20,23 @@ Beamtinnen und Beamte des mittleren Dienstes, die dauerhaft als Vollziehungsbeam
 
 (2) Vergütet wird
 
-1.
+1. die Vereinnahmung von Zahlungsmitteln a)bis 200 Euro mit 2 Euro,b)bis 600 Euro mit 3 Euro,c)von mehr als 600 Euro mit 5 Euro, bis 200 Euro mit 2 Euro, bis 600 Euro mit 3 Euro, von mehr als 600 Euro mit 5 Euro,
 
-a)
+2. die Pfändung beweglicher Sachen mit Ausnahme von Zahlungsmitteln mit insgesamt 3 Euro,
 
-b)
+3. eine fruchtlos verlaufene Pfändung mit 1,50 Euro.
 
-c)
+(3) Die Vereinnahmung von Zahlungsmitteln erfolgt, indem
 
-2.
+1. die Vollstreckungsschuldnerin oder der Vollstreckungsschuldner oder eine dritte Person zugunsten der Vollstreckungsschuldnerin oder des Vollstreckungsschuldners, um die Vollstreckung abzuwenden, a)der Vollziehungsbeamtin oder dem Vollziehungsbeamten Zahlungsmittel aushändigt oderb)eine bargeldlose Zahlung leistet oder der Vollziehungsbeamtin oder dem Vollziehungsbeamten Zahlungsmittel aushändigt oder eine bargeldlose Zahlung leistet oder
 
-3.
+2. die Vollziehungsbeamtin oder der Vollziehungsbeamte Zahlungsmittel pfändet.
 
-(3) Die Vereinnahmung von Zahlungsmitteln erfolgt, indem Die Zahlungsmittel sind vereinnahmt, wenn
+(4) Werden mehrere Vollstreckungsaufträge gegen dieselbe Vollstreckungsschuldnerin oder denselben Vollstreckungsschuldner in einem Termin erledigt, so entsteht der Vergütungsanspruch nur einmal. Vergütungen nach Absatz 2 Nummer 1 und 2 werden jedoch nebeneinander gewährt. Neben einer Vergütung nach Absatz 2 Nummer 3 wird eine Vergütung nach Absatz 2 Nummer 1 nur dann gewährt, wenn
 
-1.
+1. zur Abwendung der Vollstreckung Zahlungsmittel ausgehändigt worden sind oder eine bargeldlose Zahlung geleistet worden ist oder
 
-a)
-
-b)
-
-2.
-
-1.
-
-2.
-
-3.
-
-4.
-
-(4) Werden mehrere Vollstreckungsaufträge gegen dieselbe Vollstreckungsschuldnerin oder denselben Vollstreckungsschuldner in einem Termin erledigt, so entsteht der Vergütungsanspruch nur einmal. Vergütungen nach Absatz 2 Nummer 1 und 2 werden jedoch nebeneinander gewährt. Neben einer Vergütung nach Absatz 2 Nummer 3 wird eine Vergütung nach Absatz 2 Nummer 1 nur dann gewährt, wenn Sind mehrere bewegliche Sachen gepfändet worden, so entsteht die Vergütung nach Absatz 2 Nummer 2 nur einmal.
-
-1.
-
-2.
+2. ausschließlich Geldbeträge gepfändet worden sind.
 
 (5) Der monatliche Höchstbetrag der Vergütung beträgt 210 Euro.
 
@@ -64,7 +46,7 @@ Die Vergütung wird spätestens mit den Bezügen für den vierten Monat, der auf
 
 ### § 4 — Aufwendungsersatz
 
-Der Ersatz der Fahrtkosten und der sonstigen Reisekosten, die mit dem Außendienst der Vollziehungsbeamtinnen und  ‑beamten verbunden sind, richtet sich nach dem Bundesreisekostengesetz. Sonstige besondere, für die Vollziehungstätigkeit typische Aufwendungen sind mit der Vergütung abgegolten.
+Der Ersatz der Fahrtkosten und der sonstigen Reisekosten, die mit dem Außendienst der Vollziehungsbeamtinnen und ‑beamten verbunden sind, richtet sich nach dem Bundesreisekostengesetz. Sonstige besondere, für die Vollziehungstätigkeit typische Aufwendungen sind mit der Vergütung abgegolten.
 
 ### § 5 — Inkrafttreten, Außerkrafttreten
 

@@ -12,43 +12,37 @@
 
 Diese Verordnung gilt für das Inverkehrbringen bestimmter gefährlicher Stoffe und Gemische sowie bestimmter Erzeugnisse, die diese freisetzen können oder enthalten, nach dem Chemikaliengesetz. Sie regelt zum Schutz des Menschen und der Umwelt vor stoffbedingten Schädigungen
 
-1.
+1. Verbote und Beschränkungen des Inverkehrbringens bestimmter gefährlicher Stoffe und Gemische sowie bestimmter Erzeugnisse, die diese freisetzen können oder enthalten,
 
-2.
+2. Anforderungen, die in Bezug auf die Abgabe bestimmter gefährlicher Stoffe und Gemische einzuhalten sind.
 
 ### § 2 — Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist
 
-1.
+1. Abgabe: die Übergabe oder der Versand an den Erwerber oder die Empfangsperson,
 
-2.
+2. gewerbsmäßige Abgabe: eine Abgabe, die a)im Rahmen einer wirtschaftlichen Unternehmung erfolgt oderb)mit der Absicht zur Gewinnerzielung im Rahmen einer nicht nur im Einzelfall durchgeführten Tätigkeit erfolgt, im Rahmen einer wirtschaftlichen Unternehmung erfolgt oder mit der Absicht zur Gewinnerzielung im Rahmen einer nicht nur im Einzelfall durchgeführten Tätigkeit erfolgt,
 
-a)
+3. abgebende Person: eine natürliche Person, die eine Abgabe durchführt,
 
-b)
+4. Erwerber: eine natürliche oder juristische Person, in deren Eigentum oder Verfügungsgewalt die Ware durch die Abgabe übergeht,
 
-3.
-
-4.
-
-5.
+5. Empfangsperson: eine vom Erwerber beauftragte natürliche Person, die die Ware bei der Abgabe entgegennimmt.
 
 ## Abschnitt 2: Verbote und Beschränkungen
 
 ### § 3 — Verbote und Beschränkungen des Inverkehrbringens
 
-(1) Beschränkungen des Inverkehrbringens bestimmter Stoffe, Gemische und Erzeugnisse ergeben sich insbesondere aus Artikel 67 in Verbindung mit Anhang XVII der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Chemikalienagentur, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission (ABl. L 396 vom 30.12.2006, S. 1, L 136 vom 29.5.2007, S. 3, L 141 vom 31.5.2008, S. 22, L 36 vom 5.2.2009, S. 84) in ihrer jeweils geltenden Fassung.
-
 (2) Darüber hinaus ist das Inverkehrbringen von Stoffen und Gemischen, die in Anlage 1 Spalte 1 bezeichnet sind, sowie von Stoffen, Gemischen und Erzeugnissen, die diese freisetzen können oder enthalten, in dem in Anlage 1 Spalte 2 genannten Umfang nach Maßgabe der in Anlage 1 Spalte 3 aufgeführten Ausnahmen verboten.
 
 (3) Sofern in Anlage 1 Spalte 3 nicht etwas anderes bestimmt ist, gilt Absatz 2 nicht für das Inverkehrbringen
 
-1.
+1. von Stoffen, Gemischen oder Erzeugnissen, soweit es sich lediglich um einen Transitverkehr unter zollamtlicher Überwachung, bei dem keine Be- oder Verarbeitung erfolgt, handelt oder die den Ausnahmen nach § 2 Absatz 1 Nummer 1 und 2 und Absatz 2 Satz 1 des Chemikaliengesetzes unterliegen,
 
-2.
+2. zu Forschungs-, wissenschaftlichen Lehr- und Ausbildungszwecken sowie Analysezwecken in den dafür erforderlichen Mengen oder
 
-3.
+3. zur ordnungsgemäßen und schadlosen Abfallverwertung in einer dafür zugelassenen Anlage oder zur gemeinwohlverträglichen Abfallbeseitigung.
 
 (4) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit gibt im Bundesanzeiger für die in Anlage 1 genannten Stoffe und Stoffgruppen den Wortlaut derjenigen geeigneten analytischen Verfahren für Probenahmen und Untersuchungen bekannt, die wissenschaftlich anerkannten Prüfverfahren entsprechen. Stehen geeignete Verfahren zur Verfügung, die (C)EN-Normen entsprechen, ist im Zusammenhang mit der spezifischen Vorschrift zur Probeentnahme ein Verweis auf diese Normen ausreichend.
 
@@ -56,11 +50,11 @@ b)
 
 (1) Die Beschränkungen nach Artikel 67 in Verbindung mit Anhang XVII Eintrag 6 der Verordnung (EG) Nr. 1907/2006 gelten nicht für das Inverkehrbringen
 
-1.
+1. chrysotilhaltiger Diaphragmen einschließlich der zu ihrer Herstellung benötigten chrysotilhaltigen Rohstoffe zum Zweck einer nach § 17 Absatz 1 der Gefahrstoffverordnung zulässigen Verwendung in bestehenden Anlagen zur Chloralkalielektrolyse,
 
-2.
+2. von Verkehrsmitteln, die vor dem 31. Dezember 1994 hergestellt worden sind und die aufgrund ihres Originalherstellungsprozesses die in Anhang XVII Eintrag 6 Spalte 1 der Verordnung (EG) Nr. 1907/2006 bezeichneten Asbestfasern enthalten, und
 
-3.
+3. von kulturhistorischen Gegenständen, die vor dem 31. Dezember 1994 hergestellt worden sind, für Sammlungs- oder Ausstellungszwecke.
 
 (2) Das Verbot des Inverkehrbringens nach Artikel 67 in Verbindung mit Anhang XVII Eintrag 16 und 17 der Verordnung (EG) Nr. 1907/2006 gilt nicht für die dort genannten Bleiverbindungen in oder für Farben, die zur Erhaltung oder originalgetreuen Wiederherstellung von Kunstwerken und historischen Bestandteilen oder von Einrichtungen denkmalgeschützter Gebäude bestimmt sind, wenn die Verwendung von Ersatzstoffen nicht möglich ist.
 
@@ -76,45 +70,41 @@ b)
 
 (4) Die Anforderungen dieses Abschnitts gelten nicht für die Abgabe von
 
-1.
+1. Kraftstoffen gemäß §§ 3, 4 Absatz 1 und 2, §§ 5 bis 9 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen vom 8. Dezember 2010 (BGBl. I S. 1849), die durch Artikel 1 der Verordnung vom 1. Dezember 2014 (BGBl. I S. 1890) geändert worden ist, in der jeweils geltenden Fassung, an Tankstellen oder sonstigen Betankungseinrichtungen,
 
-2.
+2. Kraftstoffen an Tankstellen oder sonstigen Betankungseinrichtungen, die unter die Unterpositionen 2710 12 31, 2710 12 41, 2710 12 45, 2710 12 49, 2710 12 50, 2710 12 70 und 2710 19 21 der Kombinierten Warennomenklatur nach Artikel 1 in Verbindung mit Anhang I der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 256 vom 7.9.1987, S. 1; L 341 vom 3.12.1987, S. 38; L 378 vom 31.12.1987, S. 120; L 130 vom 26.5.1988, S. 42; L 151 vom 8.6.2016, S. 22), die zuletzt durch die Verordnung (EU) 2022/2465 (ABl. L 322 vom 16.12.2022, S. 81) geändert worden ist, fallen, sofern diese zur Verwendung in Luftfahrzeugen bestimmt sind,
 
-3.
+3. Methanol oder methanolhaltigen Gemischen zur Verwendung in Brennstoffzellen, sofern aufgrund der sicherheitstechnischen Konstruktionsmerkmale des Behälters eine Freisetzung des Brennstoffes nur in Verbindung mit der Brennstoffzelle in einem geschlossenen System erfolgen kann,
 
-4.
+4. Heizöl gemäß § 10 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen in der jeweils geltenden Fassung,
 
-5.
+5. folgenden Stoffen und Gemischen, soweit sie nach der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1, L 16 vom 20.1.2011, S. 1, L 94 vom 10.4.2015, S. 9) in ihrer jeweils geltenden Fassung mit den Gefahrenpiktogrammen GHS02 (Flamme) oder GHS03 (Flamme über einem Kreis) zu kennzeichnen sind und ausschließlich aus diesem Grund der Anlage 2 unterfallen: a)Gase der Klasse 2 nach Anlage A Unterabschnitt 2.2.2.1 des Europäischen Übereinkommens vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Straße (ADR) in der Fassung der Bekanntmachung vom 17. April 2015 (BGBl. 2015 II S. 504),b)Klebstoffe, Härter, Mehrkomponentenkleber oder Mehrkomponenten-Reparaturspachtel, Gase der Klasse 2 nach Anlage A Unterabschnitt 2.2.2.1 des Europäischen Übereinkommens vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Straße (ADR) in der Fassung der Bekanntmachung vom 17. April 2015 (BGBl. 2015 II S. 504), Klebstoffe, Härter, Mehrkomponentenkleber oder Mehrkomponenten-Reparaturspachtel,
 
-a)
+6. Mineralien für Sammlerzwecke,
 
-b)
+7. Experimentierkästen für chemische oder ähnliche Versuche, die in Übereinstimmung mit DIN EN 71 Teil 4, Ausgabe Mai 2013, hergestellt worden sind, sofern sie an Personen abgegeben werden, die über 18 Jahre alt sind,
 
-6.
+8. pyrotechnischen Gegenständen im Sinne des § 4 Absatz 2 der Ersten Verordnung zum Sprengstoffgesetz in der Fassung der Bekanntmachung vom 31. Januar 1991 (BGBl. I S. 169), die zuletzt durch Artikel 13 der Verordnung vom 2. Juni 2016 (BGBl. I S. 1257) geändert worden ist,
 
-7.
+9. Sonderkraftstoffen, die nach der Verordnung (EG) Nr. 1272/2008 in ihrer jeweils geltenden Fassung mit dem Gefahrenpiktogramm GHS02 (Flamme) und dem Gefahrenhinweis H224 (Flüssigkeit und Dampf extrem entzündbar) zu kennzeichnen sind und die für den Einsatz in solchen Verbrennungsmotoren bestimmt sind, die in Artikel 2 Absatz 1 der Verordnung (EU) 2016/1628 des Europäischen Parlaments und des Rates vom 14. September 2016 über die Anforderungen in Bezug auf die Emissionsgrenzwerte für gasförmige Schadstoffe und luftverunreinigende Partikel und die Typgenehmigung für Verbrennungsmotoren für nicht für den Straßenverkehr bestimmte mobile Maschinen und Geräte, zur Änderung der Verordnungen (EU) Nr. 1024/2012 und (EU) Nr. 167/2013 und zur Änderung und Aufhebung der Richtlinie 97/68/EG (ABl. L 252 vom 16.9.2016, S. 53) genannt sind, und
 
-8.
-
-9.
-
-10.
+10. elektronischen Zigaretten und Nachfüllbehältern im Sinne von § 2 Nummer 2 des Tabakerzeugnisgesetzes vom 4. April 2016 (BGBl. I S. 569).
 
 ### § 6 — Erlaubnispflicht
 
 (1) Wer Stoffe oder Gemische, für die in Anlage 2 auf diese Vorschrift verwiesen wird, abgibt oder für Dritte bereitstellt, bedarf der Erlaubnis der zuständigen Behörde. Satz 1 gilt nicht
 
-1.
+1. für natürliche oder juristische Personen, die die betreffenden Stoffe und Gemische ausschließlich an den in § 5 Absatz 2 genannten Empfängerkreis abgeben,
 
-2.
+2. für Apotheken.
 
 (2) Eine Erlaubnis erhält auf Antrag, wer
 
-1.
+1. die Sachkunde nach § 11 Absatz 1 nachgewiesen hat,
 
-2.
+2. die erforderliche Zuverlässigkeit besitzt und
 
-3.
+3. mindestens 18 Jahre alt ist.
 
 (3) Unternehmen erhalten die Erlaubnis, wenn sie in jeder Betriebsstätte, in der Stoffe oder Gemische nach Absatz 1 abgegeben oder bereitgestellt werden, Personen beschäftigen, die die Anforderungen nach Absatz 2 erfüllen. Jeder Wechsel einer solchen Person ist der zuständigen Behörde unverzüglich schriftlich anzuzeigen.
 
@@ -122,17 +112,17 @@ b)
 
 (5) Die Erlaubnis kann unter Auflagen erteilt werden. Auflagen können auch nachträglich angeordnet werden. Die Erlaubnis kann widerrufen werden, wenn
 
-1.
+1. die Voraussetzungen für eine Erlaubniserteilung nicht mehr gegeben sind oder
 
-2.
+2. die mit der Erlaubnis verbundenen Auflagen nicht eingehalten wurden.
 
 ### § 7 — Anzeigepflicht
 
 (1) Wer Stoffe oder Gemische, für die in Anlage 2 Spalte 3 auf diese Vorschrift verwiesen wird, an den in § 5 Absatz 2 genannten Empfängerkreis abgibt oder für diesen bereitstellt, hat der zuständigen Behörde die erstmalige Abgabe oder Bereitstellung der Stoffe oder Gemische vor Aufnahme dieser Tätigkeit schriftlich anzuzeigen. Satz 1 gilt nicht für
 
-1.
+1. Inhaber einer Erlaubnis nach § 6,
 
-2.
+2. Apotheken.
 
 (2) In der Anzeige ist mindestens eine Person zu benennen, die die Anforderungen nach § 6 Absatz 2 erfüllt. Jeder Wechsel dieser Person sowie die endgültige Aufgabe der Tätigkeit nach Absatz 1 Satz 1 ist der zuständigen Behörde unverzüglich schriftlich anzuzeigen.
 
@@ -140,27 +130,21 @@ b)
 
 (1) Die Abgabe von Stoffen oder Gemischen, für die in Anlage 2 auf diese Vorschrift verwiesen wird, darf nur von einer im Betrieb beschäftigten Person durchgeführt werden, die die Anforderungen nach § 6 Absatz 2 erfüllt.
 
-(2) Soweit in Anlage 2 Spalte 3 auf diesen Absatz verwiesen wird, darf die Abgabe abweichend von Absatz 1 an den in § 5 Absatz 2 genannten Empfängerkreis auch durch eine beauftragte Person erfolgen, die Die Belehrung muss jährlich wiederholt werden und ist jeweils schriftlich zu bestätigen.
+(2) Soweit in Anlage 2 Spalte 3 auf diesen Absatz verwiesen wird, darf die Abgabe abweichend von Absatz 1 an den in § 5 Absatz 2 genannten Empfängerkreis auch durch eine beauftragte Person erfolgen, die
 
-1.
+1. zuverlässig ist,
 
-2.
+2. mindestens 18 Jahre alt ist und
 
-3.
+3. von einer Person, die die Anforderungen nach § 6 Absatz 2 erfüllt, über die wesentlichen Eigenschaften der abzugebenden Stoffe und Gemische, über die mit ihrer Verwendung verbundenen Gefahren und über die einschlägigen Vorschriften belehrt worden ist.
 
 (3) Die Abgabe darf nur durchgeführt werden, wenn
 
-1.
+1. der abgebenden Person bekannt ist oder sie sich vom Erwerber hat bestätigen oder durch Vorlage entsprechender Unterlagen nachweisen lassen, dass dieser die Stoffe oder Gemische in erlaubter Weise verwenden oder weiterveräußern will und die rechtlichen Voraussetzungen hierfür erfüllt, und keine Anhaltspunkte für eine unerlaubte Verwendung oder Weiterveräußerung vorliegen,
 
-2.
+2. die abgebende Person den Erwerber unterrichtet hat über a)die mit dem Verwenden des Stoffes oder des Gemisches verbundenen Gefahren,b)die notwendigen Vorsichtsmaßnahmen beim bestimmungsgemäßen Gebrauch und für den Fall des unvorhergesehenen Verschüttens oder Freisetzens sowiec)die ordnungsgemäße Entsorgung und die mit dem Verwenden des Stoffes oder des Gemisches verbundenen Gefahren, die notwendigen Vorsichtsmaßnahmen beim bestimmungsgemäßen Gebrauch und für den Fall des unvorhergesehenen Verschüttens oder Freisetzens sowie die ordnungsgemäße Entsorgung und
 
-a)
-
-b)
-
-c)
-
-3.
+3. im Fall der Abgabe an eine natürliche Person diese mindestens 18 Jahre alt ist.
 
 (4) Im Einzelhandel darf die Abgabe oder die Bereitstellung für Dritte nicht durch Automaten oder durch andere Formen der Selbstbedienung erfolgen. Das Selbstbedienungsverbot nach § 23 Absatz 2 des Pflanzenschutzgesetzes bleibt unberührt.
 
@@ -172,25 +156,11 @@ c)
 
 (2) Die abgebende Person hat bei der Abgabe
 
-1.
+1. die Identität des Erwerbers, im Falle der Entgegennahme durch eine Empfangsperson die Identität der Empfangsperson und das Vorhandensein der Auftragsbestätigung, aus der der Verwendungszweck und die Identität des Erwerbers hervorgehen, festzustellen,
 
-2.
+2. in dem Abgabebuch für jede Abgabe zu dokumentieren: a)die Art und Menge der abgegebenen Stoffe oder Gemische,b)das Datum der Abgabe,c)den Verwendungszweck,d)den Namen der abgebenden Person,e)den Namen und die Anschrift des Erwerbers,f)im Fall der Entgegennahme durch eine Empfangsperson zusätzlich den Namen und die Anschrift der Empfangsperson undg)im Fall der Abgabe an öffentliche Forschungs-, Untersuchungs- oder Lehranstalten zusätzlich die Angabe, ob die Abgabe zu Forschungs-, Analyse- oder Lehrzwecken erfolgt, und die Art und Menge der abgegebenen Stoffe oder Gemische, das Datum der Abgabe, den Verwendungszweck, den Namen der abgebenden Person, den Namen und die Anschrift des Erwerbers, im Fall der Entgegennahme durch eine Empfangsperson zusätzlich den Namen und die Anschrift der Empfangsperson und im Fall der Abgabe an öffentliche Forschungs-, Untersuchungs- oder Lehranstalten zusätzlich die Angabe, ob die Abgabe zu Forschungs-, Analyse- oder Lehrzwecken erfolgt, und
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-3.
+3. dafür zu sorgen, dass der Erwerber oder die Empfangsperson den Empfang des Stoffes oder Gemisches im Abgabebuch oder auf einem gesonderten Empfangsschein durch Unterschrift oder durch eine handschriftliche elektronische Unterschrift bestätigt.
 
 (3) Das Abgabebuch und die Empfangsscheine sind vom Betriebsinhaber mindestens fünf Jahre nach der letzten Eintragung aufzubewahren.
 
@@ -206,25 +176,25 @@ g)
 
 (1) Die erforderliche Sachkunde nach § 6 Absatz 2 Nummer 1 hat nachgewiesen, wer
 
-1.
+1. eine von der zuständigen Behörde oder eine von der zuständigen Behörde hierfür anerkannten Einrichtung durchgeführte Prüfung nach Absatz 2 bestanden oder eine anderweitige Qualifikation nach Absatz 3 erworben hat und
 
-2.
+2. sofern die Prüfung oder der Erwerb der anderweitigen Qualifikation länger als sechs Jahre zurückliegt, eine Bescheinigung über die Teilnahme an einer vor längstens sechs Jahren durchgeführten eintägigen oder vor längstens drei Jahren durchgeführten halbtägigen Fortbildungsveranstaltung einer zuständigen Behörde oder einer von der zuständigen Behörde hierfür anerkannten Einrichtung über die einschlägigen Inhalte des Absatzes 2 vorweisen kann.
 
 (2) Die Prüfung der Sachkunde nach Absatz 1 Nummer 1 erstreckt sich auf die allgemeinen Kenntnisse über die wesentlichen Eigenschaften der in Anlage 2 aufgeführten Stoffe und Gemische, über die mit ihrer Verwendung verbundenen Gefahren und auf die Kenntnis der sie betreffenden Vorschriften. Sie kann auf einzelne gefährliche Stoffe und Gemische, die einzelne gefährliche Stoffe enthalten, beschränkt werden. Sie kann auch unter Berücksichtigung nachgewiesener fachlicher Vorkenntnisse auf die Kenntnis der Vorschriften beschränkt werden. Eine Anerkennung oder ein Zeugnis nach der Pflanzenschutz-Sachkundeverordnung vom 27. Juni 2013 (BGBl. I S. 1953), die zuletzt durch Artikel 376 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, kann als Nachweis der Sachkunde für die Abgabe von Pflanzenschutzmitteln anerkannt werden, die von Anlage 2 erfasst sind. Über die Prüfung wird ein Zeugnis ausgestellt.
 
 (3) Anderweitige Qualifikationen nach Absatz 1 Nummer 1 sind
 
-1.
+1. die Approbation als Apotheker,
 
-2.
+2. die Berechtigung, die Berufsbezeichnung Apothekerassistent oder Pharmazieingenieur zu führen,
 
-3.
+3. die Erlaubnis zur Ausübung der Tätigkeit unter der Berufsbezeichnung pharmazeutisch-technischer Assistent oder Apothekenassistent,
 
-4.
+4. die bestandene Abschlussprüfung nach der Verordnung über die Berufsausbildung zum Drogist/zur Drogistin vom 30. Juni 1992 (BGBl. I S. 1197), die zuletzt durch Artikel 2 Absatz 2 des Gesetzes vom 23. Juli 2001 (BGBl. I S. 1663) geändert worden ist, sofern die Abschlussprüfung der Prüfung der Sachkunde nach Absatz 2 entspricht,
 
-5.
+5. die bestandene Prüfung zum anerkannten Abschluss Geprüfter Schädlingsbekämpfer/Geprüfte Schädlingsbekämpferin oder
 
-6.
+6. die bestandene Abschlussprüfung nach der Verordnung über die Berufsausbildung zum Schädlingsbekämpfer/zur Schädlingsbekämpferin vom 15. Juli 2004 (BGBl. I S. 1638).
 
 (4) Der Nachweis der Qualifikation nach Absatz 1 Nummer 1 gilt als erbracht für Personen aus den Mitgliedstaaten der Europäischen Union oder anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum, wenn sie der zuständigen Behörde nachgewiesen haben, dass sie die Voraussetzungen des Artikels 2 der Richtlinie 74/556/EWG des Rates vom 4. Juni 1974 über die Einzelheiten der Übergangsmaßnahmen auf dem Gebiet der Tätigkeiten des Handels mit und der Verteilung von Giftstoffen und der Tätigkeiten, die die berufliche Verwendung dieser Stoffe umfassen, einschließlich der Vermittlertätigkeiten (ABl. L 307 vom 18.11.1974, S. 1) erfüllen.
 
@@ -240,29 +210,29 @@ g)
 
 (2) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 7 Buchstabe b des Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 8 Absatz 1, 3 Nummer 1 oder 3 oder Absatz 4 Satz 1 einen Stoff oder ein Gemisch abgibt oder
 
-2.
+2. entgegen § 10 Absatz 1, auch in Verbindung mit Absatz 2, einen Stoff oder ein Gemisch abgibt oder anbietet.
 
 (3) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 7 Buchstabe c des Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 6 Absatz 3 Satz 2 eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
 
-2.
+2. entgegen § 9 Absatz 1 Satz 1 ein Abgabebuch nicht führt,
 
-3.
+3. entgegen § 9 Absatz 2 abgibt,
 
-4.
+4. entgegen § 9 Absatz 3 das Abgabebuch oder einen Empfangsschein nicht oder nicht mindestens fünf Jahre aufbewahrt oder
 
-5.
+5. entgegen § 9 Absatz 4 die Angaben nicht oder nicht mindestens fünf Jahre nachweisen kann.
 
 ### § 13 — Straftaten
 
 (1) Nach § 27 Absatz 1 Nummer 1, Absatz 2 bis 4 des Chemikaliengesetzes wird bestraft, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 3 Absatz 2 einen Stoff, ein Gemisch oder ein Erzeugnis in den Verkehr bringt oder
 
-2.
+2. ohne Erlaubnis nach § 6 Absatz 1 Satz 1 einen Stoff oder ein Gemisch abgibt oder bereitstellt.
 
 (2) Nach § 27 Absatz 2, 3, 4 Nummer 2 des Chemikaliengesetzes ist strafbar, wer durch eine in § 12 Absatz 2 bezeichnete vorsätzliche Handlung das Leben oder die Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert gefährdet.
 
@@ -278,138 +248,26 @@ g)
 
 (3) Der Nachweis der Qualifikation nach § 11 Absatz 1 Nummer 1 gilt als erbracht für Personen, die
 
-1.
+1. nach früheren Vorschriften eine Prüfung bestanden haben, die der Prüfung nach § 11 Absatz 2 entspricht, oder
 
-2.
+2. in einer Anzeige nach § 11 Absatz 7 der Gefahrstoffverordnung in der bis zum 31. Oktober 1993 geltenden Fassung benannt wurden.
 
 (4) § 11 Absatz 1 Nummer 2 ist erst ab dem 1. Juni 2019 anzuwenden.
 
 ### Anlage 1 — (zu § 3)
 
-1.
+1. a)2,3,7,8-Tetrachlor- dibenzo-p-dioxinb)1,2,3,7,8-Pentachlor- dibenzo-p-dioxinc)2,3,7,8-Tetrachlor- dibenzofurand)2,3,4,7,8-Pentachlor- dibenzofuran 2,3,7,8-Tetrachlor- dibenzo-p-dioxin 1,2,3,7,8-Pentachlor- dibenzo-p-dioxin 2,3,7,8-Tetrachlor- dibenzofuran 2,3,4,7,8-Pentachlor- dibenzofuran
 
-a)
+2. a)1,2,3,4,7,8-Hexachlor- dibenzo-p-dioxinb)1,2,3,7,8,9-Hexachlor- dibenzo-p-dioxinc)1,2,3,6,7,8-Hexachlor- dibenzo-p-dioxind)1,2,3,7,8-Pentachlor- dibenzofurane)1,2,3,4,7,8-Hexachlor- dibenzofuranf)1,2,3,7,8,9-Hexachlor- dibenzofurang)1,2,3,6,7,8-Hexachlor- dibenzofuranh)2,3,4,6,7,8-Hexachlor- dibenzofuran 1,2,3,4,7,8-Hexachlor- dibenzo-p-dioxin 1,2,3,7,8,9-Hexachlor- dibenzo-p-dioxin 1,2,3,6,7,8-Hexachlor- dibenzo-p-dioxin 1,2,3,7,8-Pentachlor- dibenzofuran 1,2,3,4,7,8-Hexachlor- dibenzofuran 1,2,3,7,8,9-Hexachlor- dibenzofuran 1,2,3,6,7,8-Hexachlor- dibenzofuran 2,3,4,6,7,8-Hexachlor- dibenzofuran
 
-b)
+3. a)1,2,3,4,6,7,8-Hepta-chlordibenzo-p-dioxinb)1,2,3,4,6,7,8,9-Octa-chlordibenzo-p-dioxinc)1,2,3,4,6,7,8-Hepta-chlordibenzofurand)1,2,3,4,7,8,9-Hepta-chlordibenzofurane)1,2,3,4,6,7,8,9-Octa-chlordibenzofuran 1,2,3,4,6,7,8-Hepta-chlordibenzo-p-dioxin 1,2,3,4,6,7,8,9-Octa-chlordibenzo-p-dioxin 1,2,3,4,6,7,8-Hepta-chlordibenzofuran 1,2,3,4,7,8,9-Hepta-chlordibenzofuran 1,2,3,4,6,7,8,9-Octa-chlordibenzofuran
 
-c)
+4. a)2,3,7,8-Tetrabrom- dibenzo-p-dioxinb)1,2,3,7,8-Penta-bromdibenzo-p-dioxinc)2,3,7,8-Tetrabrom- dibenzofurand)2,3,4,7,8-Penta-bromdibenzofuran 2,3,7,8-Tetrabrom- dibenzo-p-dioxin 1,2,3,7,8-Penta-bromdibenzo-p-dioxin 2,3,7,8-Tetrabrom- dibenzofuran 2,3,4,7,8-Penta-bromdibenzofuran
 
-d)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-5.
-
-a)
-
-b)
-
-c)
-
-d)
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-1.
-
-a)
-
-b)
-
-2.
-
-a)
-
-b)
+5. a)1,2,3,4,7,8-Hexa-bromdibenzo-p-dioxinb)1,2,3,7,8,9-Hexa-bromdibenzo-p-dioxinc)1,2,3,6,7,8-Hexa-bromdibenzo-p-dioxind)1,2,3,7,8-Penta-bromdibenzofuran 1,2,3,4,7,8-Hexa-bromdibenzo-p-dioxin 1,2,3,7,8,9-Hexa-bromdibenzo-p-dioxin 1,2,3,6,7,8-Hexa-bromdibenzo-p-dioxin 1,2,3,7,8-Penta-bromdibenzofuran
 
 ### Anlage 2 — (zu §§ 5 bis 11)
 
-1.
+1. dem Gefahrenpiktogramm GHS06 (Totenkopf mit gekreuzten Knochen) oder
 
-2.
-
-1.
-
-2.
-
-3.
-
-4.
-
-1.
-
-2.
-
-3.
-
-1.
-
-a)
-
-b)
-
-i)
-
-ii)
-
-iii)
-
-2.
+2. dem Gefahrenpiktogramm GHS08 (Gesundheitsgefahr) und dem Signalwort Gefahr, und einem der Gefahrenhinweise H340, H350, H350i, H360, H360F, H360D, H360FD, H360Fd, H360Df, H370 oder H372.

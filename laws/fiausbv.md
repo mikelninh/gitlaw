@@ -30,143 +30,135 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 4 — Struktur der Berufsausbildung, Ausbildungsberufsbild
 
-(1) Die Berufsausbildung gliedert sich in: Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
+(1) Die Berufsausbildung gliedert sich in:
 
-1.
+1. fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten,
 
-2.
+2. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung a)Anwendungsentwicklung,b)Systemintegration,c)Daten- und Prozessanalyse undd)Digitale Vernetzung sowie Anwendungsentwicklung, Systemintegration, Daten- und Prozessanalyse und Digitale Vernetzung sowie
 
-a)
-
-b)
-
-c)
-
-d)
-
-3.
+3. fachrichtungsübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 (2) Die Berufsbildpositionen der fachrichtungsübergreifenden berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. Planen, Vorbereiten und Durchführen von Arbeitsaufgaben in Abstimmung mit den kundenspezifischen Geschäfts- und Leistungsprozessen,
 
-2.
+2. Informieren und Beraten von Kunden und Kundinnen,
 
-3.
+3. Beurteilen marktgängiger IT-Systeme und kundenspezifischer Lösungen,
 
-4.
+4. Entwickeln, Erstellen und Betreuen von IT-Lösungen,
 
-5.
+5. Durchführen und Dokumentieren von qualitätssichernden Maßnahmen,
 
-6.
+6. Umsetzen, Integrieren und Prüfen von Maßnahmen zur IT-Sicherheit und zum Datenschutz,
 
-7.
+7. Erbringen der Leistungen und Auftragsabschluss,
 
-8.
+8. Betreiben von IT-Systemen,
 
-9.
+9. Inbetriebnehmen von Speicherlösungen und
 
-10.
+10. Programmieren von Softwarelösungen.
 
 (3) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Anwendungsentwicklung sind:
 
-1.
+1. Konzipieren und Umsetzen von kundenspezifischen Softwareanwendungen und
 
-2.
+2. Sicherstellen der Qualität von Softwareanwendungen.
 
 (4) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Systemintegration sind:
 
-1.
+1. Konzipieren und Realisieren von IT-Systemen,
 
-2.
+2. Installieren und Konfigurieren von Netzwerken und
 
-3.
+3. Administrieren von IT-Systemen.
 
 (5) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Daten- und Prozessanalyse sind:
 
-1.
+1. Analysieren von Arbeits- und Geschäftsprozessen,
 
-2.
+2. Analysieren von Datenquellen und Bereitstellen von Daten,
 
-3.
+3. Nutzen der Daten zur Optimierung von Arbeits- und Geschäftsprozessen sowie zur Optimierung digitaler Geschäftsmodelle und
 
-4.
+4. Umsetzen des Datenschutzes und der Schutzziele der Datensicherheit.
 
 (6) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Digitale Vernetzung sind:
 
-1.
+1. Analysieren und Planen von Systemen zur Vernetzung von Prozessen und Produkten,
 
-2.
+2. Errichten, Ändern und Prüfen von vernetzten Systemen und
 
-3.
+3. Betreiben von vernetzten Systemen und Sicherstellen der Systemverfügbarkeit.
 
 (7) Die Berufsbildpositionen der integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.
+1. Berufsbildung sowie Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-4.
+4. Umweltschutz und
 
-5.
+5. vernetztes Zusammenarbeiten unter Nutzung digitaler Medien.
 
 (8) Die Fertigkeiten, Kenntnisse und Fähigkeiten der in Absatz 2 Nummer 1 bis 7 genannten Berufsbildpositionen sind im Bereich der IT-Berufe berufsübergreifend und werden in gleicher Weise auch in den folgenden Berufsausbildungen vermittelt:
 
-1.
+1. in der Berufsausbildung zum Kaufmann für Digitalisierungsmanagement und zur Kauffrau für Digitalisierungsmanagement nach der Digitalisierungsmanagement-Kaufleute-Ausbildungsverordnung vom 28. Februar 2020 (BGBl. I S. 290),
 
-2.
+2. in der Berufsausbildung zum IT-System-Elektroniker und zur IT-System-Elektronikerin nach der IT-System-Elektroniker-Ausbildungsverordnung vom 28. Februar 2020 (BGBl. I S. 268) und
 
-3.
+3. in der Berufsausbildung zum Kaufmann für IT-System-Management und zur Kauffrau für IT-System-Management nach der IT-System-Management-Kaufleute-Ausbildungsverordnung vom 28. Februar 2020 (BGBl. I S. 280).
 
 ### § 5 — Einsatzgebiet
 
 (1) In der Fachrichtung Anwendungsentwicklung sind die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen nach § 4 Absatz 2, 3 und 7 in einem der folgenden Einsatzgebiete zu vermitteln:
 
-1.
+1. kaufmännische Systeme,
 
-2.
+2. technische Systeme,
 
-3.
+3. Expertensysteme,
 
-4.
+4. mathematisch-wissenschaftliche Systeme und
 
-5.
+5. Multimedia-Systeme.
 
 (2) In der Fachrichtung Systemintegration sind die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen nach § 4 Absatz 2, 4 und 7 in einem der folgenden Einsatzgebiete zu vermitteln:
 
-1.
+1. Rechenzentren,
 
-2.
+2. Netzwerke,
 
-3.
+3. Client-Server-Architekturen,
 
-4.
+4. Festnetze und
 
-5.
+5. Funknetze.
 
 (3) In der Fachrichtung Daten- und Prozessanalyse sind die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen nach § 4 Absatz 2, 5 und 7 in einem der folgenden Einsatzgebiete zu vermitteln:
 
-1.
+1. Prozessoptimierung,
 
-2.
+2. Prozessmodellierung,
 
-3.
+3. Qualitätssicherung,
 
-4.
+4. Medienanalyse und
 
-5.
+5. Suchdienste.
 
 (4) In der Fachrichtung Digitale Vernetzung sind die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen nach § 4 Absatz 2, 6 und 7 in einem der folgenden Einsatzgebiete zu vermitteln:
 
-1.
+1. produktionstechnische Systeme,
 
-2.
+2. prozesstechnische Systeme,
 
-3.
+3. autonome Assistenz- und Transportsysteme und
 
-4.
+4. Logistiksysteme.
 
 (5) Der Ausbildungsbetrieb legt fest, in welchem Einsatzgebiet die Vermittlung erfolgt. Der Ausbildungsbetrieb darf mit Zustimmung der zuständigen Stelle jedoch auch ein anderes Einsatzgebiet festlegen, wenn in diesem Einsatzgebiet die gleichen Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt werden.
 
@@ -188,9 +180,9 @@ Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage de
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
-1.
+1. die im Ausbildungsrahmenplan für die ersten 18 Monate genannten Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen nach § 4 Absatz 2 Nummer 1 bis 7 sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 ### § 9 — Prüfungsbereich von Teil 1
 
@@ -198,15 +190,15 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 (2) Im Prüfungsbereich Einrichten eines IT-gestützten Arbeitsplatzes hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. Kundenbedarfe zielgruppengerecht zu ermitteln,
 
-2.
+2. Hard- und Software auszuwählen und ihre Beschaffung einzuleiten,
 
-3.
+3. einen IT-Arbeitsplatz zu konfigurieren und zu testen und dabei die Bestimmungen und die betrieblichen Vorgaben zum Datenschutz, zur IT-Sicherheit und zur Qualitätssicherung einzuhalten,
 
-4.
+4. Kunden und Kundinnen in die Nutzung des Arbeitsplatzes einzuweisen und
 
-5.
+5. die Leistungserbringung zu kontrollieren und zu protokollieren.
 
 (3) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
@@ -218,9 +210,9 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich in der Fachrichtung Anwendungsentwicklung auf
 
-1.
+1. die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 (2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
@@ -228,55 +220,55 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 Teil 2 der Abschlussprüfung findet in der Fachrichtung Anwendungsentwicklung in den folgenden Prüfungsbereichen statt:
 
-1.
+1. Planen und Umsetzen eines Softwareprojektes,
 
-2.
+2. Planen eines Softwareproduktes,
 
-3.
+3. Entwicklung und Umsetzung von Algorithmen sowie
 
-4.
+4. Wirtschafts- und Sozialkunde.
 
 ### § 12 — Prüfungsbereich Planen und Umsetzen eines Softwareprojektes
 
 (1) Im Prüfungsbereich Planen und Umsetzen eines Softwareprojektes besteht die Prüfung aus zwei Teilen.
 
-(2) Im ersten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist, Der Prüfling hat eine betriebliche Projektarbeit durchzuführen und mit praxisbezogenen Unterlagen zu dokumentieren. Vor der Durchführung der betrieblichen Projektarbeit hat er dem Prüfungsausschuss eine Projektbeschreibung zur Genehmigung vorzulegen. In der Projektbeschreibung hat er die Ausgangssituation und das Projektziel zu beschreiben und eine Zeitplanung aufzustellen. Die Prüfungszeit beträgt für die betriebliche Projektarbeit und für die Dokumentation mit praxisbezogenen Unterlagen höchstens 80 Stunden.
+(2) Im ersten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. kundenspezifische Anforderungen zu analysieren,
 
-2.
+2. eine Projektplanung durchzuführen,
 
-3.
+3. eine wirtschaftliche Betrachtung des Projektes vorzunehmen,
 
-4.
+4. eine Softwareanwendung zu erstellen oder anzupassen,
 
-5.
+5. die erstellte oder angepasste Softwareanwendung zu testen und ihre Einführung vorzubereiten und
 
-6.
+6. die Planung und Durchführung des Projektes anforderungsgerecht zu dokumentieren.
 
-(3) Im zweiten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist, Der Prüfling hat die betriebliche Projektarbeit zu präsentieren. Nach der Präsentation wird mit ihm ein Fachgespräch über die betriebliche Projektarbeit und die präsentierten Arbeitsergebnisse geführt. Die Prüfungszeit beträgt insgesamt höchstens 30 Minuten. Die Präsentation soll höchstens 15 Minuten dauern.
+(3) Im zweiten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. die Arbeitsergebnisse adressatengerecht zu präsentieren und
 
-2.
+2. seine Vorgehensweise bei der Durchführung der betrieblichen Projektarbeit zu begründen.
 
 (4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind die Bewertungen wie folgt zu gewichten:
 
-1.
+1. die Bewertung für den ersten Teil mit 50 Prozent und
 
-2.
+2. die Bewertung für den zweiten Teil mit 50 Prozent.
 
 ### § 13 — Prüfungsbereich Planen eines Softwareproduktes
 
 (1) Im Prüfungsbereich Planen eines Softwareproduktes hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. Entwicklungsumgebungen und -bibliotheken auszuwählen und einzusetzen,
 
-2.
+2. Programmspezifikationen anwendungsgerecht festzulegen,
 
-3.
+3. Bedienoberflächen funktionsgerecht und ergonomisch zu konzipieren sowie
 
-4.
+4. Maßnahmen zur Qualitätskontrolle zu planen und durchzuführen.
 
 (2) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
@@ -286,13 +278,13 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Anwendungsentwicklung in
 
 (1) Im Prüfungsbereich Entwicklung und Umsetzung von Algorithmen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. einen Programmcode zu interpretieren und eine Lösung in einer Programmiersprache zu erstellen,
 
-2.
+2. Algorithmen in eine Programmierlogik zu übertragen und grafisch darzustellen,
 
-3.
+3. Testszenarien auszuwählen und Testdaten zu generieren sowie
 
-4.
+4. Abfragen zur Gewinnung und Manipulation von Daten zu erstellen.
 
 (2) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
@@ -310,43 +302,37 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Anwendungsentwicklung in
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Anwendungsentwicklung wie folgt zu gewichten:
 
-1.
+1. Einrichten eines IT-gestützten Arbeitsplatzes mit20 Prozent,
 
-2.
+2. Planen und Umsetzen eines Softwareprojektes mit50 Prozent,
 
-3.
+3. Planen eines Softwareproduktes mit10 Prozent,
 
-4.
+4. Entwicklung und Umsetzung von Algorithmen mit10 Prozent sowie
 
-5.
+5. Wirtschafts- und Sozialkunde mit10 Prozent.
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen – auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 17 – wie folgt bewertet worden sind:
 
-1.
+1. im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
-2.
+2. im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
-3.
+3. in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
 
-4.
+4. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
 ### § 17 — Mündliche Ergänzungsprüfung
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
-(2) Dem Antrag ist stattzugeben, Die mündliche Ergänzungsprüfung darf nur in einem einzigen Prüfungsbereich durchgeführt werden.
+(2) Dem Antrag ist stattzugeben,
 
-1.
+1. wenn er für einen der folgenden Prüfungsbereiche gestellt worden ist: a)Planen eines Softwareproduktes,b)Entwicklung und Umsetzung von Algorithmen oderc)Wirtschafts- und Sozialkunde, Planen eines Softwareproduktes, Entwicklung und Umsetzung von Algorithmen oder Wirtschafts- und Sozialkunde,
 
-a)
+2. wenn der benannte Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
-b)
-
-c)
-
-2.
-
-3.
+3. wenn die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 (3) Die mündliche Ergänzungsprüfung soll 15 Minuten dauern.
 
@@ -358,9 +344,9 @@ c)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich in der Fachrichtung Systemintegration auf
 
-1.
+1. die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 (2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
@@ -368,55 +354,55 @@ c)
 
 Teil 2 der Abschlussprüfung findet in der Fachrichtung Systemintegration in den folgenden Prüfungsbereichen statt:
 
-1.
+1. Planen und Umsetzen eines Projektes der Systemintegration,
 
-2.
+2. Konzeption und Administration von IT-Systemen,
 
-3.
+3. Analyse und Entwicklung von Netzwerken sowie
 
-4.
+4. Wirtschafts- und Sozialkunde.
 
 ### § 20 — Prüfungsbereich Planen und Umsetzen eines Projektes der Systemintegration
 
 (1) Im Prüfungsbereich Planen und Umsetzen eines Projektes der Systemintegration besteht die Prüfung aus zwei Teilen.
 
-(2) Im ersten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist, Der Prüfling hat eine betriebliche Projektarbeit durchzuführen und mit praxisbezogenen Unterlagen zu dokumentieren. Vor der Durchführung der Projektarbeit hat er dem Prüfungsausschuss eine Projektbeschreibung zur Genehmigung vorzulegen. In der Projektbeschreibung hat er die Ausgangssituation und das Projektziel zu beschreiben und eine Zeitplanung aufzustellen. Die Prüfungszeit beträgt für die betriebliche Projektarbeit und für die Dokumentation mit praxisbezogenen Unterlagen höchstens 40 Stunden.
+(2) Im ersten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. auftragsbezogene Anforderungen zu analysieren,
 
-2.
+2. Lösungsalternativen unter Berücksichtigung technischer, wirtschaftlicher und qualitativer Aspekte vorzuschlagen,
 
-3.
+3. Systemänderungen und -erweiterungen durchzuführen und zu übergeben,
 
-4.
+4. IT-Systeme einzuführen und zu pflegen,
 
-5.
+5. Schwachstellen von IT-Systemen zu analysieren und Schutzmaßnahmen vorzuschlagen und umzusetzen sowie
 
-6.
+6. Projekte der Systemintegration anforderungsgerecht zu dokumentieren.
 
-(3) Im zweiten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist, Der Prüfling hat die betriebliche Projektarbeit zu präsentieren. Nach der Präsentation wird mit ihm ein Fachgespräch über die betriebliche Projektarbeit und die präsentierten Arbeitsergebnisse geführt. Die Prüfungszeit beträgt insgesamt höchstens 30 Minuten. Die Präsentation soll höchstens 15 Minuten dauern.
+(3) Im zweiten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. die Arbeitsergebnisse adressatengerecht zu präsentieren und
 
-2.
+2. seine Vorgehensweise bei der Durchführung der betrieblichen Projektarbeit zu begründen.
 
 (4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind die Bewertungen wie folgt zu gewichten:
 
-1.
+1. die Bewertung für den ersten Teil mit 50 Prozent und
 
-2.
+2. die Bewertung für den zweiten Teil mit 50 Prozent.
 
 ### § 21 — Prüfungsbereich Konzeption und Administration von IT-Systemen
 
 (1) Im Prüfungsbereich Konzeption und Administration von IT-Systemen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. IT-Systeme für unterschiedliche Anforderungen zu planen und zu konfigurieren,
 
-2.
+2. IT-Systeme zu administrieren und zu betreiben,
 
-3.
+3. Speicherlösungen zu integrieren und zu verwalten und
 
-4.
+4. Programme zur automatisierten Systemverwaltung zu erstellen.
 
 (2) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
@@ -426,13 +412,13 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Systemintegration in den
 
 (1) Im Prüfungsbereich Analyse und Entwicklung von Netzwerken hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. Netzwerkprotokolle anwendungsbezogen auszuwählen und einzusetzen,
 
-2.
+2. Netzwerkkomponenten bedarfsgerecht auszuwählen und zu konfigurieren,
 
-3.
+3. die IT-Sicherheit in Netzwerken sicherzustellen und
 
-4.
+4. den Betrieb und die Verfügbarkeit von Netzwerken zu überwachen und zu gewährleisten.
 
 (2) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
@@ -450,43 +436,37 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Systemintegration in den
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Systemintegration wie folgt zu gewichten:
 
-1.
+1. Einrichten eines IT-gestützten Arbeitsplatzes mit20 Prozent,
 
-2.
+2. Planen und Umsetzen eines Projektes der Systemintegration mit50 Prozent,
 
-3.
+3. Konzeption und Administration von IT-Systemen mit10 Prozent,
 
-4.
+4. Analyse und Entwicklung von Netzwerken mit10 Prozent sowie
 
-5.
+5. Wirtschafts- und Sozialkunde mit10 Prozent.
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen – auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 25 – wie folgt bewertet worden sind:
 
-1.
+1. im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
-2.
+2. im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
-3.
+3. in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
 
-4.
+4. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
 ### § 25 — Mündliche Ergänzungsprüfung
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
-(2) Dem Antrag ist stattzugeben, Die mündliche Ergänzungsprüfung darf nur in einem einzigen Prüfungsbereich durchgeführt werden.
+(2) Dem Antrag ist stattzugeben,
 
-1.
+1. wenn er für einen der folgenden Prüfungsbereiche gestellt worden ist: a)Konzeption und Administration von IT-Systemen,b)Analyse und Entwicklung von Netzwerken oderc)Wirtschafts- und Sozialkunde, Konzeption und Administration von IT-Systemen, Analyse und Entwicklung von Netzwerken oder Wirtschafts- und Sozialkunde,
 
-a)
+2. wenn der benannte Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
-b)
-
-c)
-
-2.
-
-3.
+3. wenn die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 (3) Die mündliche Ergänzungsprüfung soll 15 Minuten dauern.
 
@@ -498,9 +478,9 @@ c)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich in der Fachrichtung Daten- und Prozessanalyse auf
 
-1.
+1. die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 (2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
@@ -508,53 +488,53 @@ c)
 
 Teil 2 der Abschlussprüfung findet in der Fachrichtung Daten- und Prozessanalyse in den folgenden Prüfungsbereichen statt:
 
-1.
+1. Planen und Durchführen eines Projektes der Datenanalyse,
 
-2.
+2. Durchführen einer Prozessanalyse,
 
-3.
+3. Sicherstellen der Datenqualität sowie
 
-4.
+4. Wirtschafts- und Sozialkunde.
 
 ### § 28 — Prüfungsbereich Planen und Durchführen eines Projektes der Datenanalyse
 
 (1) Im Prüfungsbereich Planen und Durchführen eines Projektes der Datenanalyse besteht die Prüfung aus zwei Teilen.
 
-(2) Im ersten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist, Der Prüfling hat eine betriebliche Projektarbeit durchzuführen und mit praxisbezogenen Unterlagen zu dokumentieren. Vor der Durchführung der Projektarbeit hat er dem Prüfungsausschuss eine Projektbeschreibung zur Genehmigung vorzulegen. In der Projektbeschreibung hat er die Ausgangssituation und das Projektziel zu beschreiben und eine Zeitplanung aufzustellen. Die Prüfungszeit beträgt für die betriebliche Projektarbeit und für die Dokumentation mit praxisbezogenen Unterlagen höchstens 40 Stunden.
+(2) Im ersten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. kundenspezifische Anforderungen zu analysieren,
 
-2.
+2. die Projektumsetzung zu planen und dabei die zugehörigen betrieblichen Prozesse zu berücksichtigen und die bestehenden Regeln einzuhalten,
 
-3.
+3. Daten zu identifizieren, zu klassifizieren, zu modellieren, unter Nutzung mathematischer Vorhersagemodelle und statistischer Verfahren zu analysieren und die Datenqualität sicherzustellen,
 
-4.
+4. die Analyseergebnisse aufzubereiten und Optimierungsmöglichkeiten aufzuzeigen sowie
 
-5.
+5. Projekte der Datenanalyse anforderungsgerecht zu dokumentieren.
 
-(3) Im zweiten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist, Der Prüfling hat die betriebliche Projektarbeit zu präsentieren. Nach der Präsentation wird mit ihm ein Fachgespräch über die betriebliche Projektarbeit und die präsentierten Arbeitsergebnisse geführt. Die Prüfungszeit beträgt insgesamt höchstens 30 Minuten. Die Präsentation soll höchstens 15 Minuten dauern.
+(3) Im zweiten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. die Arbeitsergebnisse adressatengerecht zu präsentieren und
 
-2.
+2. seine Vorgehensweisen bei der Durchführung der betrieblichen Projektarbeit zu begründen.
 
 (4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind die Bewertungen wie folgt zu gewichten:
 
-1.
+1. die Bewertung für den ersten Teil mit 50 Prozent und
 
-2.
+2. die Bewertung für den zweiten Teil mit 50 Prozent.
 
 ### § 29 — Prüfungsbereich Durchführen einer Prozessanalyse
 
 (1) Im Prüfungsbereich Durchführen einer Prozessanalyse hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. einen Prozess darzustellen und Anforderungen im Prozess abzubilden,
 
-2.
+2. Analysewerkzeuge auszuwählen und anzuwenden,
 
-3.
+3. Maßnahmen zur Prozessoptimierung vorzuschlagen und deren rechtliche Auswirkungen, insbesondere auf die betrieblichen Abläufe, einzuschätzen und
 
-4.
+4. Maßnahmen zur Qualitäts- und Wirtschaftlichkeitskontrolle zu planen und durchzuführen.
 
 (2) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
@@ -564,13 +544,13 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Daten- und Prozessanalys
 
 (1) Im Prüfungsbereich Sicherstellen der Datenqualität hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. Daten zu identifizieren, zu klassifizieren und bereitzustellen,
 
-2.
+2. die Datenqualität zu prüfen und sicherzustellen,
 
-3.
+3. den Zugriff auf Daten und deren Verfügbarkeit zu gewährleisten sowie
 
-4.
+4. anwendungsbezogen sicherzustellen, dass die Bestimmungen des Datenschutzes und zur Datensicherheit eingehalten werden.
 
 (2) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
@@ -588,43 +568,37 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Daten- und Prozessanalys
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Daten- und Prozessanalyse wie folgt zu gewichten:
 
-1.
+1. Einrichten eines IT-gestützten Arbeitsplatzes mit20 Prozent,
 
-2.
+2. Planen und Durchführen eines Projektes der Datenanalyse mit50 Prozent,
 
-3.
+3. Durchführen einer Prozessanalyse mit10 Prozent,
 
-4.
+4. Sicherstellen der Datenqualität mit10 Prozent sowie
 
-5.
+5. Wirtschafts- und Sozialkunde mit10 Prozent.
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen – auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 33 – wie folgt bewertet worden sind:
 
-1.
+1. im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
-2.
+2. im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
-3.
+3. in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
 
-4.
+4. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
 ### § 33 — Mündliche Ergänzungsprüfung
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
-(2) Dem Antrag ist stattzugeben, Die mündliche Ergänzungsprüfung darf nur in einem einzigen Prüfungsbereich durchgeführt werden.
+(2) Dem Antrag ist stattzugeben,
 
-1.
+1. wenn er für einen der folgenden Prüfungsbereiche gestellt worden ist: a)Durchführen einer Prozessanalyse,b)Sicherstellen der Datenqualität oderc)Wirtschafts- und Sozialkunde, Durchführen einer Prozessanalyse, Sicherstellen der Datenqualität oder Wirtschafts- und Sozialkunde,
 
-a)
+2. wenn der benannte Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
-b)
-
-c)
-
-2.
-
-3.
+3. wenn die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 (3) Die mündliche Ergänzungsprüfung soll 15 Minuten dauern.
 
@@ -636,9 +610,9 @@ c)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich in der Fachrichtung Digitale Vernetzung auf
 
-1.
+1. die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 (2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
@@ -646,53 +620,53 @@ c)
 
 Teil 2 der Abschlussprüfung findet in der Fachrichtung Digitale Vernetzung in den folgenden Prüfungsbereichen statt:
 
-1.
+1. Planen und Umsetzen eines Projektes der digitalen Vernetzung,
 
-2.
+2. Diagnose und Störungsbeseitigung in vernetzten Systemen,
 
-3.
+3. Betrieb und Erweiterung von vernetzten Systemen sowie
 
-4.
+4. Wirtschafts- und Sozialkunde.
 
 ### § 36 — Prüfungsbereich Planen und Umsetzen eines Projektes der digitalen Vernetzung
 
 (1) Im Prüfungsbereich Planen und Umsetzen eines Projektes der digitalen Vernetzung besteht die Prüfung aus zwei Teilen.
 
-(2) Im ersten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist, Der Prüfling hat eine betriebliche Projektarbeit durchzuführen und mit praxisbezogenen Unterlagen zu dokumentieren. Vor der Durchführung der Projektarbeit hat er dem Prüfungsausschuss eine Projektbeschreibung zur Genehmigung vorzulegen. In der Projektbeschreibung hat er die Ausgangssituation und das Projektziel zu beschreiben und eine Zeitplanung aufzustellen. Die Prüfungszeit beträgt für die betriebliche Projektarbeit und für die Dokumentation mit praxisbezogenen Unterlagen höchstens 40 Stunden.
+(2) Im ersten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. hardware- und softwarebasierte Schnittstellen und Komponenten in bestehende Infrastrukturen einzubinden und dabei die Anforderungen an die Informationssicherheit zu erfüllen,
 
-2.
+2. eine vorhandene Systemarchitektur über mehrere Prozessebenen und über deren Prozessabläufe zu bewerten, zu dokumentieren und zu visualisieren,
 
-3.
+3. Schnittstellen unterschiedlicher Prozesse und Systeme zu implementieren, zu konfigurieren und in Betrieb zu nehmen,
 
-4.
+4. Gesamtzusammenhänge in heterogenen IT-Landschaften zu bewerten und zu beschreiben sowie
 
-5.
+5. Übertragungssysteme anforderungsgerecht auszuwählen, zu konfigurieren und in die Gesamtinfrastruktur zu integrieren.
 
-(3) Im zweiten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist, Der Prüfling hat die betriebliche Projektarbeit zu präsentieren. Nach der Präsentation wird mit ihm über die betriebliche Projektarbeit und die präsentierten Arbeitsergebnisse ein Fachgespräch geführt. Die Prüfungszeit beträgt insgesamt höchstens 30 Minuten. Die Präsentation soll höchstens 15 Minuten dauern.
+(3) Im zweiten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. die Arbeitsergebnisse adressatengerecht zu präsentieren und
 
-2.
+2. seine Vorgehensweisen bei der Durchführung der betrieblichen Projektarbeit zu begründen.
 
 (4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind die Bewertungen wie folgt zu gewichten:
 
-1.
+1. die Bewertung für den ersten Teil mit 50 Prozent und
 
-2.
+2. die Bewertung für den zweiten Teil mit 50 Prozent.
 
 ### § 37 — Prüfungsbereich Diagnose und Störungsbeseitigung in vernetzten Systemen
 
 (1) Im Prüfungsbereich Diagnose und Störungsbeseitigung in vernetzten Systemen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. Soft- und Hardware zur Sicherstellung des Betriebes der Gesamtinfrastruktur und zur Störungsbeseitigung einzusetzen und Testergebnisse auszuwerten,
 
-2.
+2. Störungen in der Gesamtinfrastruktur zu lokalisieren und einzugrenzen sowie Lösungsmaßnahmen einzuleiten und umzusetzen,
 
-3.
+3. Diagnose- und Prozessdaten auszuwerten, zu analysieren und Maßnahmen abzuleiten und
 
-4.
+4. kunden- und anwendungsspezifische IT-Sicherheitsmaßnahmen im Gesamtsystem zu konfigurieren und zu implementieren, Schwachstellen zu bewerten und Maßnahmen einzuleiten.
 
 (2) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
@@ -702,13 +676,13 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Digitale Vernetzung in d
 
 (1) Im Prüfungsbereich Betrieb und Erweiterung von vernetzten Systemen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. technische Lösungskonzepte zur Einbindung von heterogenen Systemen sowie Protokollen in das Gesamtsystem zu bewerten und umzusetzen,
 
-2.
+2. die Kommunikation der unterschiedlichen Prozesse und Ebenen der Informationsverarbeitung zu prüfen und zu dokumentieren sowie deren Betrieb sicherzustellen,
 
-3.
+3. Systemressourcen zu überwachen, deren Kennzahlen zu bewerten und Maßnahmen zur Sicherstellung des Betriebes der vernetzten Systeme zu ergreifen und
 
-4.
+4. anwendungsspezifische Netzwerkinfrastrukturen und Protokolle zu beurteilen, anzupassen sowie zu erweitern.
 
 (2) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
@@ -726,43 +700,37 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Digitale Vernetzung in d
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Digitale Vernetzung wie folgt zu gewichten:
 
-1.
+1. Einrichten eines IT-gestützten Arbeitsplatzes mit20 Prozent,
 
-2.
+2. Planen und Umsetzen eines Projektes der digitalen Vernetzung mit50 Prozent,
 
-3.
+3. Diagnose und Störungsbeseitigung in vernetzten Systemen mit10 Prozent,
 
-4.
+4. Betrieb und Erweiterung von vernetzten Systemen mit10 Prozent sowie
 
-5.
+5. Wirtschafts- und Sozialkunde mit10 Prozent.
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen – auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 41 – wie folgt bewertet worden sind:
 
-1.
+1. im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
-2.
+2. im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
-3.
+3. in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
 
-4.
+4. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
 ### § 41 — Mündliche Ergänzungsprüfung
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
-(2) Dem Antrag ist stattzugeben, Die mündliche Ergänzungsprüfung darf nur in einem einzigen Prüfungsbereich durchgeführt werden.
+(2) Dem Antrag ist stattzugeben,
 
-1.
+1. wenn er für einen der folgenden Prüfungsbereiche gestellt worden ist: a)Diagnose und Störungsbeseitigung in vernetzten Systemen,b)Betrieb und Erweiterung von vernetzten Systemen oderc)Wirtschafts- und Sozialkunde, Diagnose und Störungsbeseitigung in vernetzten Systemen, Betrieb und Erweiterung von vernetzten Systemen oder Wirtschafts- und Sozialkunde,
 
-a)
+2. wenn der benannte Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
-b)
-
-c)
-
-2.
-
-3.
+3. wenn die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 (3) Die mündliche Ergänzungsprüfung soll 15 Minuten dauern.
 
@@ -779,291 +747,3 @@ Berufsausbildungsverhältnisse zum Fachinformatiker/zur Fachinformatikerin, die 
 Diese Verordnung tritt am 1. August 2020 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung im Bereich der Informations- und Telekommunikationstechnik vom 10. Juli 1997 (BGBl. I S. 1741), die durch Artikel 1 der Verordnung vom 28. Mai 2018 (BGBl. I S. 654) geändert worden ist, außer Kraft.
 
 ### Anlage — (zu § 3 Absatz 1)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)

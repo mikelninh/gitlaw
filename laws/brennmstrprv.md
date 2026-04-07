@@ -14,23 +14,23 @@ Auf Grund des § 53 Abs. 3 in Verbindung mit Abs. 1 des Berufsbildungsgesetzes v
 
 (1) Die Meisterprüfung für den Beruf Brenner/Brennerin ist eine berufliche Fortbildungsprüfung nach § 1 Abs. 4 des Berufsbildungsgesetzes. Durch sie ist festzustellen, ob der Prüfungsteilnehmer oder die Prüfungsteilnehmerin die auf einen beruflichen Aufstieg abzielende erweiterte berufliche Handlungsfähigkeit besitzt, folgende Aufgaben eines landwirtschaftlichen Brennmeisters/einer landwirtschaftlichen Brennmeisterin in Brennereibetrieben unterschiedlicher Strukturen wirtschaftlich und nachhaltig wahrzunehmen sowie auf sich verändernde Anforderungen und Rahmenbedingungen zu reagieren:
 
-1.
+1. Brennereitechnologie, Betriebs- und Verfahrenstechnik, Vermarktung: Analysieren unterschiedlicher Verfahrenstechniken im Brennereibetrieb; Durchführen, Steuern und Optimieren der Prozesse im Brennereibetrieb unter Beachtung der Anforderungen an die Produktqualität, des Marktes und der Belange des Umweltschutzes; Herstellen, Kontrollieren und Beurteilen von Rohstoffen, Maischen und Brennereierzeugnissen; Entwickeln und Umsetzen von Qualitäts- und Quantitätsvorgaben; Vermarkten von Erzeugnissen; Durchführen der erforderlichen Maßnahmen des Arbeitsschutzes und der Unfallverhütung;
 
-2.
+2. Betriebs- und Unternehmensführung: Entwicklung von Zielen, Konzepten und Maßnahmen für Produktion und Vermarktung unter Beachtung der Betriebsverhältnisse und der Anforderungen des Marktes; Analysieren und Planen der betrieblichen Abläufe und der Betriebsorganisation nach wirtschaftlichen Gesichtspunkten und unter Beachtung sozialer, ökologischer und rechtlicher Erfordernisse; Entscheiden über Art und Zeitpunkt der Maßnahmen in Produktion und Vermarktung; kaufmännische Disposition beim Beschaffen von Betriebsmitteln, beim Arbeits-, Material- und Maschineneinsatz sowie beim Absatz der Erzeugnisse; ökonomische Kontrolle der Betriebsteile und des Gesamtbetriebes; Planen, Kalkulieren und Beurteilen von Investitionen; Anwenden von Instrumenten des Qualitäts- und Kostenmanagements sowie des Marketings; Zusammenarbeiten mit Marktpartnern und anderen Betrieben; Nutzen der Möglichkeiten von Information und Beratung;
 
-3.
+3. Berufsausbildung und Mitarbeiterführung: Prüfen der betrieblichen und persönlichen Ausbildungsvoraussetzungen; Planen der Ausbildung unter inhaltlichen, methodischen und zeitlichen Aspekten entsprechend der Vorgaben der Ausbildungsordnung; Auswählen und Einstellen von Auszubildenden; Durchführen der Ausbildung unter Anwenden geeigneter Methoden bei der Vermittlung von Ausbildungsinhalten; Hinführen der Auszubildenden zu selbständigem Handeln, Vorbereiten auf Prüfungen, Informieren und Beraten über Fortbildungsmöglichkeiten; Auswählen und Einstellen von Mitarbeitern; Übertragen von Aufgaben auf Mitarbeiter entsprechend ihrer Leistungsfähigkeit, Qualifikation und Eignung; Anleiten und Kontrollieren von Mitarbeitern in Arbeitsprozessen, kooperatives Führen, Fördern und Motivieren; Unterstützen der beruflichen Weiterbildung von Mitarbeitern.
 
 (2) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss „Landwirtschaftlicher Brennmeister/Landwirtschaftliche Brennmeisterin“.
 
 ### § 2 — Zulassungsvoraussetzungen
 
-(1) Zur Meisterprüfung ist zuzulassen, wer nachweist.
+(1) Zur Meisterprüfung ist zuzulassen, wer
 
-1.
+1. eine Abschlussprüfung in dem anerkannten Ausbildungsberuf Brenner/Brennerin und danach eine mindestens zweijährige Berufspraxis oder
 
-2.
+2. eine mit Erfolg abgelegte Abschlussprüfung in einem anerkannten landwirtschaftlichen Ausbildungsberuf und danach eine mindestens dreijährige Berufspraxis oder
 
-3.
+3. eine mindestens fünfjährige Berufspraxis
 
 (2) Die Berufspraxis nach Absatz 1 muss im Bereich der Brennereiwirtschaft nachgewiesen werden.
 
@@ -40,11 +40,11 @@ Auf Grund des § 53 Abs. 3 in Verbindung mit Abs. 1 des Berufsbildungsgesetzes v
 
 (1) Die Meisterprüfung beinhaltet die Prüfungsteile
 
-1.
+1. Brennereitechnologie, Betriebs- und Verfahrenstechnik, Vermarktung,
 
-2.
+2. Betriebs- und Unternehmensführung,
 
-3.
+3. Berufsausbildung und Mitarbeiterführung.
 
 (2) Die Meisterprüfung ist nach den §§ 4 bis 6 durchzuführen.
 
@@ -54,25 +54,25 @@ Auf Grund des § 53 Abs. 3 in Verbindung mit Abs. 1 des Berufsbildungsgesetzes v
 
 (2) Die Prüfung erstreckt sich auf folgende Inhalte:
 
-1.
+1. Eignung von Rohstoffen für die Brennerei; Einfluss der Erzeugung auf die Rohstoffqualität,
 
-2.
+2. Technologie der Rohalkohol- und Destillaterzeugung,
 
-3.
+3. Fertigstellung zu Bränden, Geisten, Likören und sonstigen Spirituosen,
 
-4.
+4. brennereitechnische Betriebskontrolle und Qualitätssicherung,
 
-5.
+5. sensorische Prüfung und Beschreibung von Bränden, Geisten, Likören und sonstigen Spirituosen,
 
-6.
+6. Präsentation, Kundenberatung und Marketing; Vermarktung der Erzeugnisse aus der Brennerei,
 
-7.
+7. Organisation der Arbeit sowie des Arbeitskräfte- und Maschineneinsatzes; Arbeitsschutz und Arbeitssicherheit,
 
-8.
+8. Preiskalkulation; ökonomische Kontrolle und Beurteilung der Produktionsverfahren und der Vermarktung,
 
-9.
+9. Berücksichtigung der Wechselbeziehungen zwischen Betrieb und Umwelt; Anwendung umweltschonender Maßnahmen bei Beschaffung, Produktion, Vermarktung und Entsorgung,
 
-10.
+10. rechtliche Bestimmungen für Produktion, Umweltschutz, Verbraucherschutz und Vermarktung.
 
 (3) Die Prüfung besteht aus einem Arbeitsprojekt nach Absatz 4 und einer Beschreibung von Brennereierzeugnissen nach Absatz 5.
 
@@ -86,27 +86,27 @@ Auf Grund des § 53 Abs. 3 in Verbindung mit Abs. 1 des Berufsbildungsgesetzes v
 
 (2) Die Prüfung erstreckt sich auf folgende Inhalte:
 
-1.
+1. nationale und internationale Rahmenbedingungen für Brennerei und Vermarktung; Wirtschafts- und Agrarpolitik,
 
-2.
+2. betriebliche Bedingungen der Produktion von Brennereierzeugnissen sowie deren Vermarktung,
 
-3.
+3. Struktur und Funktion des Brennereibetriebes oder des Betriebszweiges Brennerei; Unternehmensformen; Kooperation,
 
-4.
+4. Betriebs- und Arbeitsorganisation; Arbeitsgestaltung,
 
-5.
+5. ökonomische Kontrolle und Bewertung der Produktion und Vermarktung; Erfassen und Bewerten des Betriebserfolgs,
 
-6.
+6. Betriebsentwicklungsplanung, Investition und Finanzierung,
 
-7.
+7. Markt und Marketing, insbesondere Angebot, Nachfrage, Preisgestaltung und Werbung; Vermarktungsformen,
 
-8.
+8. berufsbezogene Rechtsvorschriften,
 
-9.
+9. Sozialversicherungen, Privatversicherungen und betriebliche Versicherungen,
 
-10.
+10. Grundsätze steuerlicher Buchführung, Steuerarten, Steuerverfahren,
 
-11.
+11. Information, Kommunikation und Beratung.
 
 (3) Die Prüfung besteht aus einem betriebswirtschaftlichen Arbeitsprojekt nach Absatz 4 und einer Betriebsbeurteilung nach Absatz 5.
 
@@ -120,107 +120,107 @@ Auf Grund des § 53 Abs. 3 in Verbindung mit Abs. 1 des Berufsbildungsgesetzes v
 
 (2) Der Nachweis der Qualifikation nach Absatz 1 ist in folgenden Handlungsfeldern zu führen:
 
-1.
+1. Ausbildungsvoraussetzungen prüfen und Ausbildung planen,
 
-2.
+2. Ausbildung vorbereiten und Auszubildende einstellen,
 
-3.
+3. Ausbildung durchführen,
 
-4.
+4. Ausbildung abschließen,
 
-5.
+5. Personalbedarf ermitteln, Mitarbeiter auswählen, einstellen und Aufgaben auf diese übertragen sowie
 
-6.
+6. Mitarbeiter anleiten, führen, fördern und motivieren sowie deren berufliche Weiterbildung unterstützen.
 
 (3) Das Handlungsfeld nach Absatz 2 Nummer 1 umfasst die Kompetenzen:
 
-1.
+1. die Vorteile und den Nutzen betrieblicher Ausbildung darstellen und begründen zu können,
 
-2.
+2. Planungen hinsichtlich des betrieblichen Ausbildungsbedarfs auf der Grundlage der rechtlichen, tarifvertraglichen und betrieblichen Rahmenbedingungen durchzuführen und Entscheidungen zu treffen,
 
-3.
+3. die Strukturen des Berufsbildungssystems und seine Schnittstellen darzustellen,
 
-4.
+4. Ausbildungsberufe für den Betrieb auszuwählen und dies zu begründen,
 
-5.
+5. die Eignung des Betriebs für die Ausbildung in dem angestrebten Ausbildungsberuf zu prüfen sowie zu prüfen, ob und inwieweit Ausbildungsinhalte durch Maßnahmen außerhalb der Ausbildungsstätte, insbesondere durch Ausbildung im Verbund sowie durch überbetriebliche und außerbetriebliche Ausbildung, vermittelt werden müssen,
 
-6.
+6. die Möglichkeiten des Einsatzes von auf die Berufsausbildung vorbereitenden Maßnahmen einzuschätzen sowie
 
-7.
+7. die Aufgaben der an der Ausbildung Mitwirkenden unter Berücksichtigung ihrer Funktionen und Qualifikationen im Betrieb abzustimmen.
 
 (4) Das Handlungsfeld nach Absatz 2 Nummer 2 umfasst die Kompetenzen:
 
-1.
+1. auf der Grundlage einer Ausbildungsordnung einen betrieblichen Ausbildungsplan zu erstellen, der sich insbesondere an berufstypischen Arbeits- und Geschäftsprozessen orientiert,
 
-2.
+2. die Möglichkeiten der Mitwirkung und Mitbestimmung der betrieblichen Interessenvertretungen in der Berufsbildung zu berücksichtigen,
 
-3.
+3. den Kooperationsbedarf zu ermitteln und sich inhaltlich sowie organisatorisch mit den Kooperationspartnern, insbesondere der Berufsschule, abzustimmen,
 
-4.
+4. Kriterien und Verfahren zur Auswahl von Auszubildenden, auch unter Berücksichtigung ihrer Verschiedenartigkeit, anzuwenden,
 
-5.
+5. den Berufsausbildungsvertrag vorzubereiten und die Eintragung des Vertrags bei der zuständigen Stelle zu veranlassen sowie
 
-6.
+6. die Möglichkeiten zu prüfen, ob Teile der Berufsausbildung im Ausland durchgeführt werden können.
 
 (5) Das Handlungsfeld nach Absatz 2 Nummer 3 umfasst die Kompetenzen:
 
-1.
+1. lernförderliche Bedingungen und eine motivierende Lernkultur zu schaffen, Rückmeldungen zu geben und zu empfangen,
 
-2.
+2. die Probezeit zu organisieren, zu gestalten und zu bewerten,
 
-3.
+3. aus dem betrieblichen Ausbildungsplan und den berufstypischen Arbeits- und Geschäftsprozessen betriebliche Lern- und Arbeitsaufgaben zu entwickeln und zu gestalten,
 
-4.
+4. Ausbildungsmethoden und -medien zielgruppengerecht auszuwählen und situationsspezifisch einzusetzen,
 
-5.
+5. Auszubildende bei Lernschwierigkeiten durch individuelle Gestaltung der Ausbildung und Lernberatung zu unterstützen, bei Bedarf ausbildungsunterstützende Hilfen einzusetzen und die Möglichkeit zur Verlängerung der Ausbildungszeit zu prüfen,
 
-6.
+6. Auszubildenden zusätzliche Ausbildungsangebote, insbesondere in Form von Zusatzqualifikationen, zu machen und die Möglichkeit der Verkürzung der Ausbildungsdauer und die der vorzeitigen Zulassung zur Abschlussprüfung zu prüfen,
 
-7.
+7. die soziale und persönliche Entwicklung von Auszubildenden zu fördern, Probleme und Konflikte rechtzeitig zu erkennen sowie auf Lösungen hinzuwirken,
 
-8.
+8. Leistungen festzustellen und zu bewerten, Leistungsbeurteilungen Dritter und Prüfungsergebnisse auszuwerten, Beurteilungsgespräche zu führen, Rückschlüsse für den weiteren Ausbildungsverlauf zu ziehen sowie
 
-9.
+9. interkulturelle Kompetenzen zu fördern.
 
 (6) Das Handlungsfeld nach Absatz 2 Nummer 4 umfasst die Kompetenzen:
 
-1.
+1. Auszubildende auf die Abschlussprüfung unter Berücksichtigung der Prüfungstermine vorzubereiten und die Ausbildung zu einem erfolgreichen Abschluss zu führen,
 
-2.
+2. für die Anmeldung der Auszubildenden zu Prüfungen bei der zuständigen Stelle zu sorgen und diese auf durchführungsrelevante Besonderheiten hinzuweisen,
 
-3.
+3. an der Erstellung eines schriftlichen Zeugnisses auf der Grundlage von Leistungsbeurteilungen mitzuwirken sowie
 
-4.
+4. Auszubildende über betriebliche Entwicklungswege und berufliche Weiterbildungsmöglichkeiten zu informieren und zu beraten.
 
 (7) Das Handlungsfeld nach Absatz 2 Nummer 5 umfasst die Kompetenzen:
 
-1.
+1. rechtliche Grundlagen des Arbeits-, Tarif- und Sozialrechts im Betrieb umzusetzen,
 
-2.
+2. Konzepte der Personalplanung anzuwenden,
 
-3.
+3. Mitarbeiter auszuwählen, einzustellen und einzuarbeiten,
 
-4.
+4. Leistungsfähigkeit, Qualifikation und Eignung von Mitarbeitern zu beurteilen und Aufgaben auf diese entsprechend der Beurteilung zu übertragen,
 
-5.
+5. zur Krankheitsprävention anzuleiten und Maßnahmen organisieren sowie
 
-6.
+6. Beendigung von Arbeitsverhältnissen durchzuführen.
 
 (8) Das Handlungsfeld nach Absatz 2 Nummer 6 umfasst die Kompetenzen:
 
-1.
+1. Mitarbeiter anzuleiten, Leistungen und Verhalten gegebenenfalls unter Hinzuziehung von Leistungsbeurteilungen Dritter festzustellen und zu bewerten,
 
-2.
+2. Mitarbeiter- und Beurteilungsgespräche zu führen und Entwicklungsmöglichkeiten aufzeigen,
 
-3.
+3. Mitarbeiter zu motivieren und zu fördern,
 
-4.
+4. Mitarbeiter zu qualifizieren und bei der Weiterbildung zu unterstützen,
 
-5.
+5. soziale Zusammenhänge und Konflikte zu erkennen,
 
-6.
+6. Maßnahmen zur Konfliktbewältigung anzuwenden, Teamarbeit zu organisieren und zu unterstützen sowie
 
-7.
+7. Führungsstile zu kennen und das eigene Führungsverhalten kritisch zu reflektieren.
 
 (9) Die Prüfung gliedert sich in die Abschnitte Berufsausbildung und Mitarbeiterführung. Der Abschnitt Berufsausbildung besteht aus einem praktischen Teil nach Absatz 10 und einem schriftlichen Teil nach Absatz 11. Der Abschnitt Mitarbeiterführung besteht aus einer Fallstudie nach Absatz 12.
 

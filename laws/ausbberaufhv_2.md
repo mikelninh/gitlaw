@@ -13,9 +13,9 @@ Auf Grund des § 4 Abs. 1 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I
 
 Die Anerkennung folgender Ausbildungsberufe wird aufgehoben:
 
-1.
+1. Schirmmacher,
 
-2.
+2. Wagner.
 
 ### § 2 — Besitzstandswahrung
 

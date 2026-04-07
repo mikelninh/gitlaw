@@ -34,14 +34,8 @@ Das Grundrecht der Versammlungsfreiheit (Artikel 8 des Grundgesetzes) wird durch
 
 ### Anlage — (zu § 1 Satz 2)
 
-(Fundstelle: BGBl. I 2008, 2368)1. Deutscher Bundestag
-
 Die Abgrenzung des befriedeten Bezirks für den Deutschen Bundestag umfasst das Gebiet der Bundeshauptstadt Berlin, das umgrenzt wird durch die Wilhelmstraße bis zur Straße Unter den Linden, die Straße Unter den Linden bis zum Pariser Platz, den Pariser Platz, den Platz des 18. März bis zur Straße des 17. Juni, die Straße des 17. Juni bis zur Yitzhak-Rabin-Straße, die Yitzhak-Rabin-Straße, die Heinrich-von-Gagern-Straße, die öffentliche Grünanlage zwischen dem Bundeskanzleramt und dem Paul-Löbe-Haus, die Willy-Brandt-Straße, die Moltkebrücke, das nördliche Spreeufer bis zur Reinhardtstraße, die Reinhardtstraße bis zur Stadtbahntrasse, die Stadtbahntrasse bis zur Luisenstraße, die Luisenstraße und die Marschallbrücke. Soweit die genannten Straßen, Plätze und Brücken den befriedeten Bezirk umgrenzen, gehören sie nicht zu dem befriedeten Bezirk. Dies gilt nicht für die Wilhelmstraße, die öffentliche Grünanlage zwischen dem Bundeskanzleramt und dem Paul-Löbe-Haus und die Willy-Brandt-Straße.
 
-2. Bundesrat
-
 Die Abgrenzung des befriedeten Bezirks für den Bundesrat umfasst das Gebiet der Bundeshauptstadt Berlin, das umgrenzt wird durch den Potsdamer Platz, den Leipziger Platz und die Leipziger Straße vom Potsdamer Platz bis zur Wilhelmstraße, die Wilhelmstraße von der Leipziger Straße bis zur Niederkirchnerstraße, die Niederkirchnerstraße von der Wilhelmstraße bis zur Stresemannstraße und die Stresemannstraße von der Niederkirchnerstraße bis zum Potsdamer Platz. Soweit die genannten Straßen und Plätze den befriedeten Bezirk umgrenzen, gehören sie nicht zu dem befriedeten Bezirk. Dies gilt nicht für den Leipziger Platz, die Leipziger Straße und die Niederkirchnerstraße.
-
-3. Bundesverfassungsgericht
 
 Die Abgrenzung des befriedeten Bezirks für das Bundesverfassungsgericht umfasst das Gebiet der Stadt Karlsruhe, das umgrenzt wird durch den Zirkel von der Herrenstraße bis zur Hans-Thoma-Straße, die Hans-Thoma-Straße bis zur Bismarckstraße, die Gebäudenordseiten der Gebäude der Orangerie, der Schauhäuser des Botanischen Gartens, des Torbogengebäudes, der Badischen Weinstuben, die Schloßgartenmauer mit dem Mühlburger Tor von den Badischen Weinstuben zum Durmflügel des Schlosses, die Nordostseite des Durmflügels des Schlosses bis zum Südwestflügel des Schlosses, den Weg parallel zur verlängerten Waldstraße vom Südwestflügel des Schlosses bis zur Straße Unterführung Schloßplatz, die Straße Unterführung Schloßplatz bis zur Herrenstraße, die Herrenstraße bis zum Zirkel. Die genannten Straßen und Wege gehören zum befriedeten Bezirk, soweit sie ihn umgrenzen.

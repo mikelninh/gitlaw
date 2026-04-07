@@ -21,11 +21,11 @@ Die Befugnis zur Vertretung der Bundesrepublik Deutschland bei Rechtsstreitigkei
 
 Das Bundesministerium der Verteidigung behält sich vor, in Einzelfällen
 
-1.
+1. die nach §§ 1 und 2 übertragenen Aufgaben und Befugnisse selbst auszuüben,
 
-2.
+2. die Ausübung der nach §§ 1 und 2 übertragenen Aufgaben und Befugnisse unter Zustimmungsvorbehalt zu stellen,
 
-3.
+3. Entscheidungen von grundsätzlicher Bedeutung selbst zu treffen.
 
 ### § 4 — Inkrafttreten
 

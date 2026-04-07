@@ -12,9 +12,9 @@ Vorschriften
 
 Es treten außer Kraft:
 
-1.
+1. das Heimkehrergesetz in der im Bundesgesetzblatt Teil III, Gliederungsnummer 84-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Anlage I Kapitel VIII Sachgebiet E Abschnitt II Nr. 5 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1038),
 
-2.
+2. die Verordnung zur Durchführung des Gesetzes über Hilfsmaßnahmen für Heimkehrer in der im Bundesgesetzblatt Teil III Gliederungsnummer 84-1-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch die Verordnung vom 13. Februar 1975 (BGBl. I S. 498).
 
 ### § 2
 

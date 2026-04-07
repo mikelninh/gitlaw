@@ -28,25 +28,25 @@ Die zuständige Behörde soll bei EMAS-Anlagen Messungen nach § 28 Satz 1 Nr. 2
 
 ### § 5 — Wiederkehrende Messungen, Funktionsprüfungen
 
-(1) Die zuständige Behörde soll dem Betreiber einer EMAS-Anlage auf Antrag gestatten, für diese Anlage wiederkehrende mit eigenem Personal durchzuführen, wenn der Betreiber, Immissionsschutzbeauftragte oder ein sonstiger geeigneter Betriebsangehöriger die hierfür erforderliche Fachkunde und Zuverlässigkeit besitzt und sichergestellt ist, dass geeignete Geräte und Einrichtungen eingesetzt werden.
+(1) Die zuständige Behörde soll dem Betreiber einer EMAS-Anlage auf Antrag gestatten, für diese Anlage wiederkehrende
 
-1.
+1. Messungen nach § 12 Absatz 3 der Verordnung zur Emissionsbegrenzung von leichtflüchtigen halogenierten organischen Verbindungen vom 10. Dezember 1990 (BGBl. I S. 2694), die zuletzt durch Artikel 1 der Verordnung vom 2. Mai 2013 (BGBl. I S. 1021) geändert worden ist, in der jeweils geltenden Fassung,
 
-2.
+2. Wiederholungsmessungen nach § 20 Absatz 2 der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen,
 
-3.
+3. Wiederholungsmessungen nach § 18 Absatz 3 der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen,
 
-4.
+4. Messungen nach § 8 Absatz 3 der Verordnung zur Begrenzung der Emissionen flüchtiger organischer Verbindungen beim Umfüllen oder Lagern von Ottokraftstoffen, Kraftstoffgemischen oder Rohbenzin vom 27. Mai 1998 (BGBl. I S. 1174), die zuletzt durch Artikel 7 der Verordnung vom 2. Mai 2013 (BGBl. I S. 1021) geändert worden ist, in der jeweils geltenden Fassung
 
-(2) Unter den gleichen Voraussetzungen soll die zuständige Behörde dem Betreiber einer EMAS-Anlage auf Antrag gestatten, für diese Anlage Funktionsprüfungen nach mit eigenem Personal durchzuführen. Satz 1 gilt nicht für die erstmalige Funktionsprüfung.
+(2) Unter den gleichen Voraussetzungen soll die zuständige Behörde dem Betreiber einer EMAS-Anlage auf Antrag gestatten, für diese Anlage Funktionsprüfungen nach
 
-1.
+1. § 12 Absatz 7 Satz 2 der Verordnung zur Emissionsbegrenzung von leichtflüchtigen halogenierten organischen Verbindungen,
 
-2.
+2. § 16 Absatz 4 Nummer 2 der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen,
 
-3.
+3. § 15 Absatz 4 Nummer 2 der Verordnung über Verbrennung und die Mitverbrennung von Abfällen,
 
-4.
+4. § 7 Absatz 3 der Verordnung über Anlagen zur Feuerbestattung vom 19. März 1997 (BGBl. I S. 545), die durch Artikel 11 des Gesetzes vom 3. Mai 2000 (BGBl. I S. 632) geändert worden ist, in der jeweils geltenden Fassung
 
 ### § 6 — Sicherheitstechnische Prüfungen
 
@@ -56,15 +56,15 @@ Die zuständige Behörde soll dem Betreiber einer EMAS-Anlage auf Antrag gestatt
 
 (1) Betreiber von EMAS-Anlagen können der zuständigen Behörde anstelle einer Emissionserklärung gemäß der Verordnung über Emissionserklärungen eine vom Umweltgutachter validierte Umwelterklärung vorlegen, die den Anforderungen des § 27 Abs. 1 des Bundes-Immissionsschutzgesetzes sowie der Verordnung über Emissionserklärungen genügt. In der Umwelterklärung ist zu erklären, dass die Voraussetzungen nach Satz 1 eingehalten sind.
 
-(2) Der Betreiber einer EMAS-Anlage hat der zuständigen Behörde nur auf deren Verlangen vorzulegen; sind nach den Berichten die zu erfüllenden Anforderungen nicht eingehalten, so sind die Berichte unaufgefordert der zuständigen Behörde vorzulegen. Satz 1 gilt nicht für Anlagen, die dem Anwendungsbereich der Verordnung zur Emissionsbegrenzung von leichtflüchtigen halogenierten organischen Verbindungen unterliegen und der Genehmigung in einem Verfahren nach § 4 Abs. 1 des Bundes-Immissionsschutzgesetzes unter Einbeziehung der Öffentlichkeit bedürfen.
+(2) Der Betreiber einer EMAS-Anlage hat
 
-1.
+1. eine Durchschrift des Berichts nach § 12 Abs. 6 der Verordnung zur Emissionsbegrenzung von leichtflüchtigen halogenierten organischen Verbindungen in der jeweils geltenden Fassung,
 
-2.
+2. eine Durchschrift des Berichts nach § 8 Abs. 5 Satz 3 der Verordnung zur Begrenzung der Emissionen flüchtiger organischer Verbindungen beim Umfüllen oder Lagern von Ottokraftstoffen, Kraftstoffgemischen oder Rohbenzin in der jeweils geltenden Fassung,
 
-3.
+3. eine Durchschrift des Berichts nach § 5 Absatz 5 Satz 3 der Verordnung zur Begrenzung der Kohlenwasserstoffemissionen bei der Betankung von Kraftfahrzeugen vom 7. Oktober 1992 (BGBl. I S. 1730) in der jeweils geltenden Fassung,
 
-4.
+4. die Bescheinigung und die Berichte nach § 7 Abs. 3 Satz 3, § 8 Abs. 2, § 10 Abs. 1 der Verordnung über Anlagen zur Feuerbestattung in der jeweils geltenden Fassung
 
 ### § 8 — Verlängerung von Messintervallen
 
@@ -78,8 +78,8 @@ Der Verpflichtete nach § 18 der Verordnung über Verbrennungsanlagen für Abfä
 
 (1) Die zuständige Behörde kann die nach dieser Verordnung von ihr gestatteten Überwachungserleichterungen auch dann ganz oder teilweise widerrufen, wenn
 
-1.
+1. der Betreiber Rechts- oder Strafvorschriften zum Schutz der Umwelt, einer genehmigungsrechtlichen Auflage oder einer nachträglichen Anordnung zuwiderhandelt oder
 
-2.
+2. nachträglich Tatsachen bekannt werden, die geeignet sind, die Eintragung einer Organisation in das EMAS-Register zu verweigern, zu streichen oder auszusetzen.
 
 (2) Soweit die zuständige Behörde von der Möglichkeit des Widerrufs gemäß Absatz 1 Gebrauch macht, hat sie die zuständige Register führende Stelle gemäß § 34 des Umweltauditgesetzes darüber zu unterrichten.

@@ -8,35 +8,27 @@
 
 ### § 1 — Anwendungsbereich
 
-Mit diesem Gesetz werden Maßnahmen zur Bevorrechtigung der Teilnahme elektrisch betriebener Fahrzeuge am Straßenverkehr ermöglicht, um deren Verwendung zur Verringerung insbesondere klima- und umweltschädlicher Auswirkungen des motorisierten Individualverkehrs zu fördern. Satz 1 gilt auch für ein elektrisch betriebenes Fahrzeug der Klasse N2 im Sinne des Anhangs II Teil A der Richtlinie 2007/46/EG, soweit es im Inland mit der Fahrerlaubnis der Klasse B geführt werden darf.
+Mit diesem Gesetz werden Maßnahmen zur Bevorrechtigung der Teilnahme elektrisch betriebener Fahrzeuge
 
-1.
+1. der Klassen M1 und N1 im Sinne des Anhangs II Teil A der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (ABl. L 263 vom 9.10.2007, S. 1), die zuletzt durch die Richtlinie 2013/15/EU (ABl. L 158 vom 10.6.2013, S. 172) geändert worden ist, und
 
-2.
+2. der Klassen L3e, L4e, L5e und L7e im Sinne des Anhangs I der Verordnung (EU) Nr. 168/2013 des Europäischen Parlaments und des Rates vom 15. Januar 2013 über die Genehmigung und Marktüberwachung von zwei- oder dreirädrigen und vierrädrigen Fahrzeugen (ABl. L 60 vom 2.3.2013, S. 52)
 
 ### § 2 — Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind
 
-1.
+1. ein elektrisch betriebenes Fahrzeug: ein reines Batterieelektrofahrzeug, ein von außen aufladbares Hybridelektrofahrzeug oder ein Brennstoffzellenfahrzeug,
 
-2.
+2. ein reines Batterieelektrofahrzeug: ein Kraftfahrzeug mit einem Antrieb, a)dessen Energiewandler ausschließlich elektrische Maschinen sind undb)dessen Energiespeicher zumindest von außerhalb des Fahrzeuges wieder aufladbar sind, dessen Energiewandler ausschließlich elektrische Maschinen sind und dessen Energiespeicher zumindest von außerhalb des Fahrzeuges wieder aufladbar sind,
 
-a)
+3. ein von außen aufladbares Hybridelektrofahrzeug: ein Kraftfahrzeug mit einem Antrieb, der über mindestens zwei verschiedene Arten von a)Energiewandlern, davon mindestens ein Energiewandler als elektrische Antriebsmaschine, undb)Energiespeichern, davon mindestens einer von einer außerhalb des Fahrzeuges befindlichen Energiequelle elektrisch wieder aufladbar,verfügt, Energiewandlern, davon mindestens ein Energiewandler als elektrische Antriebsmaschine, und Energiespeichern, davon mindestens einer von einer außerhalb des Fahrzeuges befindlichen Energiequelle elektrisch wieder aufladbar,
 
-b)
+4. ein Brennstoffzellenfahrzeug: ein Kraftfahrzeug mit einem Antrieb, dessen Energiewandler ausschließlich aus den Brennstoffzellen und mindestens einer elektrischen Antriebsmaschine bestehen,
 
-3.
+5. Energiewandler: die Bauteile des Kraftfahrzeugantriebes, die dauerhaft oder zeitweise Energie von einer Form in eine andere umwandeln, welche zur Fortbewegung des Kraftfahrzeuges genutzt werden,
 
-a)
-
-b)
-
-4.
-
-5.
-
-6.
+6. Energiespeicher: die Bauteile des Kraftfahrzeugantriebes, die die jeweiligen Formen von Energie speichern, welche zur Fortbewegung des Kraftfahrzeuges genutzt werden.
 
 ### § 3 — Bevorrechtigungen
 
@@ -44,29 +36,29 @@ b)
 
 (2) Im Falle eines von außen aufladbaren Hybridelektrofahrzeuges dürfen Bevorrechtigungen nur für ein Fahrzeug in Anspruch genommen werden, wenn sich aus der Übereinstimmungsbescheinigung nach Anhang IX der Richtlinie 2007/46/EG oder aus der Übereinstimmungsbescheinigung nach Artikel 38 der Verordnung (EU) Nr. 168/2013 ergibt, dass das Fahrzeug
 
-1.
+1. eine Kohlendioxidemission von höchstens 50 Gramm je gefahrenen Kilometer hat oder
 
-2.
+2. dessen Reichweite unter ausschließlicher Nutzung der elektrischen Antriebsmaschine mindestens 40 Kilometer beträgt.
 
 (3) Kann das Vorliegen der Anforderungen des Absatzes 2 nicht über die Übereinstimmungsbescheinigung nachgewiesen werden oder gibt es für ein Fahrzeug keine Übereinstimmungsbescheinigung, kann der Nachweis auch in anderer geeigneter Weise erbracht werden.
 
 (4) Bevorrechtigungen sind möglich
 
-1.
+1. für das Parken auf öffentlichen Straßen oder Wegen,
 
-2.
+2. bei der Nutzung von für besondere Zwecke bestimmten öffentlichen Straßen oder Wegen oder Teilen von diesen,
 
-3.
+3. durch das Zulassen von Ausnahmen von Zufahrtbeschränkungen oder Durchfahrtverboten,
 
-4.
+4. im Hinblick auf das Erheben von Gebühren für das Parken auf öffentlichen Straßen oder Wegen.
 
-(5) In Rechtsverordnungen nach § 6 Absatz 1, auch in Verbindung mit Absatz 3, des Straßenverkehrsgesetzes können Rechtsverordnungen mit Regelungen nach Satz 1 erlässt das Bundesministerium für Verkehr und digitale Infrastruktur gemeinsam mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit. § 6 Absatz 7 des Straßenverkehrsgesetzes ist auf eine Rechtsverordnung mit Regelungen nach Satz 1 nicht anzuwenden.
+(5) In Rechtsverordnungen nach § 6 Absatz 1, auch in Verbindung mit Absatz 3, des Straßenverkehrsgesetzes können
 
-1.
+1. die Bevorrechtigungen näher bestimmt werden,
 
-2.
+2. die Einzelheiten der Anforderungen an deren Inanspruchnahme festgelegt werden,
 
-3.
+3. die erforderlichen straßenverkehrsrechtlichen Anordnungen, insbesondere Verkehrszeichen und Verkehrseinrichtungen, bestimmt werden.
 
 (6) In Rechtsverordnungen nach § 6a Absatz 6 Satz 2, auch in Verbindung mit Satz 4, des Straßenverkehrsgesetzes können als Bevorrechtigungen Ermäßigungen der Gebühren oder Befreiungen von der Gebührenpflicht vorgesehen werden.
 
@@ -74,13 +66,13 @@ b)
 
 (1) Bevorrechtigungen nach § 3 dürfen nur für Fahrzeuge gewährt werden, die mit einer deutlich sichtbaren Kennzeichnung versehen sind.
 
-(2) In Rechtsverordnungen nach § 6 Absatz 1 Satz 1 Nummer 6 oder 11 des Straßenverkehrsgesetzes können die Art und Weise der Kennzeichnung im Sinne des Absatzes 1 näher bestimmt werden, insbesondere können geregelt werden. In Rechtsverordnungen nach Satz 1 kann die Kennzeichnung im Inland gehaltener Fahrzeuge durch das Zuteilen eines für den Betrieb des Fahrzeuges auf öffentlichen Straßen erforderlichen Kennzeichens geregelt werden. Rechtsverordnungen mit Regelungen nach Satz 1 erlässt das Bundesministerium für Verkehr und digitale Infrastruktur gemeinsam mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit. § 6 Absatz 7 des Straßenverkehrsgesetzes ist auf Rechtsverordnungen mit Regelungen nach Satz 1 nicht anzuwenden.
+(2) In Rechtsverordnungen nach § 6 Absatz 1 Satz 1 Nummer 6 oder 11 des Straßenverkehrsgesetzes können die Art und Weise der Kennzeichnung im Sinne des Absatzes 1 näher bestimmt werden, insbesondere können
 
-1.
+1. die für das Erteilen der Kennzeichnung erforderlichen Angaben,
 
-2.
+2. die Art und Weise der Anbringung der Kennzeichnung und
 
-3.
+3. das Verfahren für das Erteilen der Kennzeichnung
 
 (3) Für individuell zurechenbare öffentliche Leistungen nach Absatz 1 in Verbindung mit Rechtsverordnungen nach Absatz 2 werden Gebühren und Auslagen erhoben. § 6a Absatz 2 bis 5 und 8 des Straßenverkehrsgesetzes gilt entsprechend.
 

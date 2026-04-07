@@ -26,8 +26,4 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Schlußformel
 
-Der Bundesminister für Jugend, Familie und Gesundheit
-
 ### Anlage — (zu § 1)
-
-(Inhalt: Nicht erfasster Anlageband, Fundstelle: Anlageband I zu BGBl I Nr. 47 v. 8.12.1982, bzgl. der einzelnen Änderungen vgl. Fußnote)

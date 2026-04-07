@@ -16,7 +16,13 @@ Der Bund gewährt dem Saarland Finanzhilfen für besonders bedeutsame Investitio
 
 ### § 2
 
-Durch die Finanzhilfen des § 1 werden folgende Arten von Investitionen gefördert: 1.Maßnahmen zur Verbesserung der Verkehrsinfrastruktur, 2.Maßnahmen zur Schaffung neuer Arbeitsplätze oder zum Ersatz von Arbeitsplatzverlusten in der Stahlindustrie, insbesondere durch Zuschüsse zu Sachinvestitionen an Unternehmen, 3.sonstige Maßnahmen zur Verbesserung der Infrastruktur, insbesondere die Erschließung von Gewerbeflächen.
+Durch die Finanzhilfen des § 1 werden folgende Arten von Investitionen gefördert:
+
+1. Maßnahmen zur Verbesserung der Verkehrsinfrastruktur,
+
+2. Maßnahmen zur Schaffung neuer Arbeitsplätze oder zum Ersatz von Arbeitsplatzverlusten in der Stahlindustrie, insbesondere durch Zuschüsse zu Sachinvestitionen an Unternehmen,
+
+3. sonstige Maßnahmen zur Verbesserung der Infrastruktur, insbesondere die Erschließung von Gewerbeflächen.
 
 ### § 3
 
@@ -24,15 +30,23 @@ Begleit- und Folgemaßnahmen werden nur gefördert, wenn sie in unmittelbar urs�
 
 ### § 4
 
-(1) Die Finanzhilfen werden nach Maßgabe einer jährlich fortzuschreibenden Förderungsliste des Landes gewährt. Die Förderungsliste enthält die einzelnen vorgesehenen Maßnahmen, die Höhe der förderungsfähigen Ausgaben, den Finanzierungsplan, den voraussichtlichen Durchführungszeitraum und eine Kurzbeschreibung der Maßnahmen.(2) Das Land übersendet dem Bund jährlich bis 1. Oktober seine Förderungsliste für das nächste Jahr mit dem Antrag auf Gewährung der Finanzhilfen.(3) Der Bund ist berechtigt, einzelne Maßnahmen von der Förderung auszuschließen, wenn sie ihrer Art nach den in diesem Gesetz festgelegten Zweckbindungen nicht entsprechen.
+(1) Die Finanzhilfen werden nach Maßgabe einer jährlich fortzuschreibenden Förderungsliste des Landes gewährt. Die Förderungsliste enthält die einzelnen vorgesehenen Maßnahmen, die Höhe der förderungsfähigen Ausgaben, den Finanzierungsplan, den voraussichtlichen Durchführungszeitraum und eine Kurzbeschreibung der Maßnahmen.
+
+(2) Das Land übersendet dem Bund jährlich bis 1. Oktober seine Förderungsliste für das nächste Jahr mit dem Antrag auf Gewährung der Finanzhilfen.
+
+(3) Der Bund ist berechtigt, einzelne Maßnahmen von der Förderung auszuschließen, wenn sie ihrer Art nach den in diesem Gesetz festgelegten Zweckbindungen nicht entsprechen.
 
 ### § 5
 
-(1) Die Finanzhilfen des Bundes betragen 90 vom Hundert der förderungsfähigen Ausgaben.(2) Die Haushaltsmittel des Bundes werden an das Land zur selbständigen Bewirtschaftung gegeben. Der Minister der Finanzen des Saarlandes ist ermächtigt, die zuständige Bundeskasse zur Auszahlung der benötigten Kassenmittel an die zuständige Landeskasse anzuweisen.
+(1) Die Finanzhilfen des Bundes betragen 90 vom Hundert der förderungsfähigen Ausgaben.
+
+(2) Die Haushaltsmittel des Bundes werden an das Land zur selbständigen Bewirtschaftung gegeben. Der Minister der Finanzen des Saarlandes ist ermächtigt, die zuständige Bundeskasse zur Auszahlung der benötigten Kassenmittel an die zuständige Landeskasse anzuweisen.
 
 ### § 6
 
-(1) Das Land übersendet dem Bund innerhalb von fünf Monaten nach Abschluß des Haushaltsjahres einen Bericht über die Durchführung und den Stand der Maßnahmen. Es berichtet weiter über die Höhe der bewilligten, der an das Land ausgezahlten und der verausgabten Bundesmittel sowie der verausgabten Landesmittel.(2) Das Land berichtet auch über den jeweiligen Abschluß einer Maßnahme. Der Bericht muß einen zahlenmäßigen Nachweis und eine Sachdarstellung enthalten.
+(1) Das Land übersendet dem Bund innerhalb von fünf Monaten nach Abschluß des Haushaltsjahres einen Bericht über die Durchführung und den Stand der Maßnahmen. Es berichtet weiter über die Höhe der bewilligten, der an das Land ausgezahlten und der verausgabten Bundesmittel sowie der verausgabten Landesmittel.
+
+(2) Das Land berichtet auch über den jeweiligen Abschluß einer Maßnahme. Der Bericht muß einen zahlenmäßigen Nachweis und eine Sachdarstellung enthalten.
 
 ### § 7
 

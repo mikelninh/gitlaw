@@ -32,17 +32,17 @@ Deckungsregister sind vor unberechtigtem Zugriff sowie vor Beschädigung oder Ze
 
 (1) Für jede Pfandbriefgattung im Sinne von § 1 Abs. 1 Satz 2 Nr. 1 bis 4 des Pfandbriefgesetzes ist ein gesondertes Deckungsregister zu führen. Macht die Pfandbriefbank von der Möglichkeit des § 51 des Pfandbriefgesetzes Gebrauch, ist das bisherige für die betroffene Pfandbriefgattung geführte Deckungsregister neben dem nach Satz 1 zu führenden Deckungsregister zu führen. Jedes Deckungsregister muss die Bezeichnung der Pfandbriefbank und die Überschrift "Deckungsregister", verbunden mit der Angabe der Pfandbriefgattung, tragen. Wird ein in Papierform geführtes Deckungsregister in körperlich nicht dauerhaft verbundener Form geführt, hat jede Seite des Deckungsregisters die in Satz 3 genannten Angaben zu enthalten und ist fortlaufend zu nummerieren. Im Fall des Satzes 4 hat der Treuhänder zudem eigenhändig jede Seite mit zumindest seinem Namenskürzel zu versehen.
 
-(2) Neben dem jeweiligen Hauptregister ist für Derivategeschäfte im Sinne des § 4b des Pfandbriefgesetzes ein Unterregister nach § 13 zu führen. Für Deckungswerte im Sinne des § 4 Absatz 1 Satz 3, des § 18 Absatz 1 zweite Alternative (ausländische Sicherungsrechte), des § 19 Absatz 1 Satz 1 Nummer 2 Buchstabe a und b, auch in Verbindung mit § 20 Absatz 2 Satz 1 Nummer 2, mit § 26 Absatz 1 Satz 1 Nummer 3 und mit § 26f Absatz 1 Satz 1 Nummer 3, des § 19 Absatz 1 Satz 1 Nummer 3 Buchstabe a bis c, auch in Verbindung mit § 26 Absatz 1 Satz 1 Nummer 4 und mit § 26f Absatz 1 Satz 1 Nummer 4, des § 19 Absatz 1 Satz 1 Nummer 4, auch in Verbindung mit § 26 Absatz 1 Satz 1 Nummer 5 und mit § 26f Absatz 1 Satz 1 Nummer 5, des § 20 Absatz 2 Satz 1 Nummer 3 Buchstabe a und b und der Nummer 4 des Pfandbriefgesetzes können weitere Unterregister geführt werden. Die Zugehörigkeit der Unterregister zum jeweiligen Deckungsregister ist durch die Überschrift "Unterregister zum Deckungsregister" unter Zusatz der Pfandbriefgattung kenntlich zu machen. Absatz 1 Satz 4 und 5 gilt entsprechend. Im Hauptregister ist anzugeben, welche Unterregister als Bestandteile des Deckungsregisters geführt werden.
+(2) Neben dem jeweiligen Hauptregister ist für Derivategeschäfte im Sinne des § 4b des Pfandbriefgesetzes ein Unterregister nach § 13 zu führen. Für Deckungswerte im Sinne des § 4 Absatz 1 Satz 3, des § 18 Absatz 1 zweite Alternative (ausländische Sicherungsrechte), des § 19 Absatz 1 Satz 1 Nummer 2 Buchstabe a und b, auch in Verbindung mit § 20 Absatz 2 Satz 1 Nummer 2, mit § 26 Absatz 1 Satz 1 Nummer 3 und mit § 26f Absatz 1 Satz 1 Nummer 3, des § 19 Absatz 1 Satz 1 Nummer 3 Buchstabe a bis c, auch in Verbindung mit § 26 Absatz 1 Satz 1 Nummer 4 und mit § 26f Absatz 1 Satz 1 Nummer 4, des § 19 Absatz 1 Satz 1 Nummer 4, auch in Verbindung mit § 26 Absatz 1 Satz 1 Nummer 5 und mit § 26f Absatz 1 Satz 1 Nummer 5, des § 20 Absatz 2 Satz 1 Nummer 3 Buchstabe a und b und der Nummer 4 des Pfandbriefgesetzes können weitere Unterregister geführt werden. Die Zugehörigkeit der Unterregister zum jeweiligen Deckungsregister ist durch die Überschrift "Unterregister zum Deckungsregister" unter Zusatz der Pfandbriefgattung kenntlich zu machen. Absatz 1 Satz 4 und 5 gilt entsprechend. Im Hauptregister ist anzugeben, welche Unterregister als Bestandteile des Deckungsregisters geführt werden.
 
 (3) Werden Unterregister nach § 5 Abs. 1 Satz 4 des Pfandbriefgesetzes angelegt, ist durch eine Eintragung im Deckungsregister auf das Unterregister hinzuweisen. Der Hinweis muss die Art der im Unterregister eingetragenen Deckungswerte bezeichnen. Die in das Unterregister eingetragenen Deckungswerte sind mit laufenden Nummern innerhalb des Unterregisters zu versehen. Die Eintragungen müssen die Informationen nach den §§ 9 bis 14 enthalten und sollen die in den Anlagen 1 bis 3 vorgesehenen Inhalte der Formulare DR 1, DR 2 und DR 3 in übersichtlicher Form wiedergeben. Absatz 1 Satz 4 und 5 gilt entsprechend.
 
-(4) Werden Eintragungen aus einem Unterregister in das Hauptregister übertragen, so Nach vollständiger Übertragung der Eintragungen eines Unterregisters ist der Hinweis auf dieses Unterregister im Hauptregister zu löschen. Das Unterregister zum Stand der Übertragung in das Hauptregister ist dann als Anlage zum Deckungsregister zu den Akten zu nehmen und mindestens für zehn Jahre aufzubewahren.
+(4) Werden Eintragungen aus einem Unterregister in das Hauptregister übertragen, so
 
-1.
+1. sind diese dort mit der fortlaufenden Nummer des Hauptregisters und dem Datum der Übertragung zu verzeichnen,
 
-2.
+2. sind die weiteren nach den §§ 9 bis 14 erforderlichen Angaben aus dem Unterregister in das Hauptregister zu übertragen und
 
-3.
+3. ist in der nach § 8 Absatz 3 für Bemerkungen vorzusehenden Spalte zu vermerken, dass es sich um einen Übertrag aus dem bezeichneten Unterregister handelt; hierbei sind laufende Nummern und Datumsangaben sämtlicher Eintragungen des Unterregisters anzugeben, anhand derer sich der Bestand des eingetragenen Deckungswerts zum Zeitpunkt der Übertragung in das Hauptregister nachvollziehen lässt.
 
 ### § 5 — Vollständigkeit des Deckungsregisters
 
@@ -63,21 +63,21 @@ Registerführung
 
 (1) Die eingesetzten Datenverarbeitungssysteme müssen dem Stand der Technik sowie den Anforderungen des Datenschutzes und der Datensicherheit entsprechen. Insbesondere müssen sie gewährleisten, dass
 
-1.
+1. ihre Funktionen nur genutzt werden können, wenn sich der Benutzer dem System gegenüber sicher ausweist (Identifikation und Authentisierung),
 
-2.
+2. die eingeräumten Benutzungsrechte im System verwaltet werden (Berechtigungsverwaltung),
 
-3.
+3. die eingeräumten Benutzungsrechte vom System geprüft werden (Berechtigungsprüfung),
 
-4.
+4. sämtliche Zugriffe (Eingeben, Lesen, Kopieren, Ändern, Löschen, Sperren) revisionssicher protokolliert werden (Revisionsfähigkeit),
 
-5.
+5. eingesetzte Systeme ohne Sicherheitsrisiken wiederhergestellt werden können (Wiederaufbereitung),
 
-6.
+6. etwaige Verfälschungen der gespeicherten Daten durch technische Prüfmechanismen unverzüglich bemerkt werden können (Unverfälschtheit),
 
-7.
+7. auftretende Fehlfunktionen unverzüglich gemeldet werden (Verlässlichkeit) und
 
-8.
+8. der Austausch von Daten aus dem oder für das Deckungsregister im System und bei Einsatz öffentlicher Netze sicher erfolgen kann (Übertragungssicherheit).
 
 (2) Die Pfandbriefbank hat mindestens eine vollständige Sicherungskopie jedes elektronisch geführten Deckungsregisters aufzubewahren. Die Sicherungskopie ist auf einem anderen Datenträger zu speichern als das Deckungsregister und mindestens am Ende eines jeden Arbeitstages auf den Stand zu bringen, den das Deckungsregister zu diesem Zeitpunkt hat. Das Original und mindestens eine Sicherungskopie des Deckungsregisters müssen auf Datenträgern gespeichert werden, die sich innerhalb des Geltungsbereichs des Pfandbriefgesetzes befinden. Im Falle einer technischen Auslagerung ist zudem sicherzustellen, dass das Auslagerungsunternehmen im Fall der Insolvenz der Pfandbriefbank verpflichtet ist, die Datensätze in einer Form, die elektronisch mit standardisierten Datenbankanwendungen verarbeitet werden kann, an den Sachwalter zu übermitteln.
 
@@ -95,21 +95,21 @@ Registerführung
 
 Eintragungen im Inland belegener Hypotheken und Grundschulden sind entsprechend des in Anlage 1 dargestellten Formulars DR 1 in folgender Weise vorzunehmen:
 
-1.
+1. Die Spalten 1 bis 4 sind mit "Bezeichnung des Deckungswerts" zu überschreiben. In Spalte 1 sind unter Buchstabe a die laufende Nummer innerhalb des Deckungsregisters, unter Buchstabe b das von der Pfandbriefbank vergebene Aktenzeichen und unter Buchstabe c das Eintragungsdatum anzugeben.
 
-2.
+2. In Spalte 2a ist das belastete Grundstück oder grundstücksgleiche Recht einzutragen. Es kann entweder die Bezeichnung aus dem Bestandsverzeichnis des Grundbuchs (Gemarkung, Flur, Flurstück) übernommen oder auf das Grundbuchblatt verwiesen werden. In letzterem Falle sind hierzu das Amtsgericht, der Grundbuchbezirk und die Nummer des Grundbuchblatts sowie zusätzlich die Postadresse oder eine sonstige ortsübliche Lagebezeichnung des Grundstücks anzugeben. In Spalte 2b ist der bei der Indeckungnahme angenommene Beleihungswert einzutragen.
 
-3.
+3. In Spalte 3 ist das Grundpfandrecht einzutragen. Anzugeben sind die laufende Nummer, unter der das Grundpfandrecht in das Grundbuch eingetragen ist, die Währung und der im Grundbuch eingetragene Nennbetrag.
 
-4.
+4. Sofern es sich nicht um eine Hypothek handelt, ist in Spalte 4 zusätzlich die gesicherte persönliche Forderung einzutragen. Anzugeben sind der Schuldner, die Währung, der Nominalbetrag und, sofern abweichend vom Aktenzeichen in Spalte 1 Buchstabe b, die Darlehensnummer.
 
-5.
+5. Löschungsvermerke sind in Spalte 5 einzutragen. Anzugeben sind die Spaltennummer und gegebenenfalls der Betrag der zu löschenden Eintragung sowie das Datum der Löschung. Sofern die Löschung an gesonderter Stelle im Register vermerkt wird, sind hierzu neben dem Löschungsvermerk in Spalte 5 die Angaben des zu löschenden Deckungswerts in Spalte 1 zu wiederholen. Die Unterschrift des Treuhänders nach § 8 Abs. 4 Satz 2 Halbsatz 2 des Pfandbriefgesetzes muss dem jeweiligen Löschungsvermerk der Pfandbriefbank eindeutig zugeordnet sein. Bei eindeutiger Bezeichnung des zu löschenden Deckungswerts kann die Zustimmung des Treuhänders auch auf einem gesonderten Blatt, das nicht Bestandteil des Deckungsregisters ist, erfolgen. Im Falle eines elektronisch geführten Deckungsregisters kann die Zustimmung zur Löschung auch mittels geeigneten Authentifizierungsinstruments nach § 8 Absatz 4 Satz 3 des Pfandbriefgesetzes erteilt werden. Ein geeignetes Authentifizierungsinstrument ist ein Verfahren, das den Anforderungen an eine starke Kundenauthentifizierung im Sinne des Artikels 4 Nummer 30 der Richtlinie (EU) 2015/2366 des Europäischen Parlaments und des Rates vom 25. November 2015 über Zahlungsdienste im Binnenmarkt, zur Änderung der Richtlinien 2002/65/EG, 2009/110/EG und 2013/36/EU und der Verordnung (EU) Nr. 1093/2010 sowie zur Aufhebung der Richtlinie 2007/64/EG (ABl. L 337 vom 23.12.2015, S. 35; L 169 vom 28.6.2016, S. 18; L 102 vom 23.4.2018, S. 97; L 126 vom 23.5.2018, S. 10) genügt, wobei die Freigabe der elektronischen Zustimmungserklärung durch den Treuhänder stets mindestens eines Authentifizierungselements bedarf. Die elektronische Löschungszustimmung muss beweissicher dokumentiert werden.
 
-6.
+6. Ist der Deckungswert zugunsten der Pfandbriefbank in ein Refinanzierungsregister nach § 22a oder § 22b des Kreditwesengesetzes eingetragen, ist dies in Spalte 6 zu vermerken. Das registerführende Unternehmen und der Zeitpunkt (Datum, Uhrzeit) der Eintragung in das Refinanzierungsregister sowie in den Fällen des § 22b des Kreditwesengesetzes der zur Übertragung Verpflichtete sind anzugeben.
 
-7.
+7. Sind eingetragene Werte nach § 5 Abs. 1a Satz 1 des Pfandbriefgesetzes nur teilweise zur Deckung der Pfandbriefe bestimmt, sind genaue Angaben über den Umfang des zur Deckung bestimmten Teils und seines Rangs gegenüber dem nicht zur Deckung bestimmten Teil in Spalte 6 zu vermerken.
 
-8.
+8. Werden eingetragene Werte nach § 5 Abs. 1a Satz 4 des Pfandbriefgesetzes ganz oder teilweise von der Pfandbriefbank als Treuhänder verwaltet, sind genaue Angaben über den Gläubiger des Übertragungsanspruchs in Spalte 6 zu vermerken; bei teilweiser treuhänderischer Verwaltung gilt Nummer 7 entsprechend.
 
 ### § 10 — Eintragung ausländischer Sicherungsrechte
 
@@ -123,19 +123,19 @@ Eintragungen im Inland belegener Hypotheken und Grundschulden sind entsprechend 
 
 Eintragungen von Deckungswerten nach § 20 Abs. 1 des Pfandbriefgesetzes sind entsprechend des in Anlage 2 dargestellten Formulars DR 2 in folgender Weise vorzunehmen:
 
-1.
+1. Die Spalten 1 bis 3 sind mit "Bezeichnung des Deckungswerts" zu überschreiben. In Spalte 1 sind unter Buchstabe a die laufende Nummer der Eintragung im Deckungsregister, unter Buchstabe b das institutsinterne Aktenzeichen und unter Buchstabe c das Eintragungsdatum einzutragen.
 
-2.
+2. In Spalte 2 ist der Schuldner unter Angabe der Darlehensnummer, im Fall von Wertpapieren der Wertpapierkennnummer, einzutragen.
 
-3.
+3. In Spalte 3 sind die Währung und der Nennbetrag der Forderung sowie in Fällen der Gewährleistung die Stelle, welche die Gewährleistung ausgesprochen hat, anzugeben.
 
-4.
+4. Löschungsvermerke sind unter Angabe des Datums in Spalte 4 einzutragen. Sofern die Löschung an gesonderter Stelle im Register vermerkt wird, sind hierzu neben dem Löschungsvermerk in Spalte 4 die Angaben des zu löschenden Werts in Spalte 1 zu wiederholen. § 9 Nummer 5 Satz 4 bis 8 gilt entsprechend.
 
-5.
+5. Ansprüche auf Schadlosstellung nach § 20 Absatz 3 Satz 3 des Pfandbriefgesetzes sind bei der betreffenden Forderung unter Benennung des zur Schadlosstellung Verpflichteten (Name, Anschrift) in Spalte 5 einzutragen.
 
 ### § 12 — Eintragung von Deckungswerten nach § 21 und § 26 Absatz 1 Satz 1 Nummer 1 des Pfandbriefgesetzes
 
-(1) Eintragungen von Deckungswerten nach § 21 und § 26 Absatz 1 Satz 1 Nummer 1 des Pfandbriefgesetzes sind vorbehaltlich des Absatzes 2 entsprechend den §§ 9 und 10 vorzunehmen.
+(1) Eintragungen von Deckungswerten nach § 21 und § 26 Absatz 1 Satz 1 Nummer 1 des Pfandbriefgesetzes sind vorbehaltlich des Absatzes 2 entsprechend den §§ 9 und 10 vorzunehmen.
 
 (2) In der Überschrift tritt anstelle des Zusatzes (Hypotheken) der Zusatz (Schiffshypotheken). In Spalte 2a tritt an die Stelle der Bezeichnung des belasteten Grundstücks die Bezeichnung des beliehenen Schiffes oder Schiffsbauwerks im öffentlichen Register sowie die Bezeichnung des Registers und der Registerstelle. Im Fall von dinglichen Sicherungsrechten nach § 22 Abs. 5 des Pfandbriefgesetzes, die nicht zur Sicherung einer persönlichen Forderung dienen, sowie im Fall von abstrakten Schuldversprechen oder Schuldanerkenntnissen, die durch Schiffshypotheken gesichert sind, sind die zugrunde liegenden Darlehensforderungen in Spalte 4 einzutragen. § 9 Nr. 4 Satz 2 gilt entsprechend. In den Fällen des § 23 Absatz 4 des Pfandbriefgesetzes ist das Sicherungsverhältnis über Ansprüche aus der Schiffsversicherung in Spalte 6 einzutragen.
 
@@ -143,33 +143,33 @@ Eintragungen von Deckungswerten nach § 20 Abs. 1 des Pfandbriefgesetzes sind en
 
 (1) Die Eintragung von Deckungswerten nach den §§ 26a und 26f Absatz 1 Satz 1 Nummer 1 des Pfandbriefgesetzes ist vorbehaltlich Absatz 2 entsprechend den §§ 9 und 10 vorzunehmen.
 
-(2) In der Überschrift tritt anstelle des Zusatzes (Hypotheken) der Zusatz (Flugzeughypotheken). In Spalte 2a tritt an die Stelle der Bezeichnung des belasteten Grundstücks die Bezeichnung des beliehenen Flugzeuges im öffentlichen Register sowie die Bezeichnung des Registers und der Registerstelle. Im Falle von dinglichen Rechten nach § 26b Abs. 5 des Pfandbriefgesetzes, die nicht zur Sicherung einer persönlichen Forderung dienen, sowie im Falle von abstrakten Schuldversprechen oder Schuldanerkenntnissen, die durch Registerpfandrechte nach § 1 des Gesetzes über Rechte an Luftfahrzeugen oder durch ausländische Flugzeughypotheken gesichert sind, sind die zugrunde liegenden Darlehensforderungen in Spalte 4 einzutragen. § 9 Nr. 4 Satz 2 gilt entsprechend. In den Fällen des § 26c Absatz 4 des Pfandbriefgesetzes ist das Sicherungsverhältnis über Ansprüche aus der Flugzeugversicherung in Spalte 6 einzutragen.
+(2) In der Überschrift tritt anstelle des Zusatzes (Hypotheken) der Zusatz (Flugzeughypotheken). In Spalte 2a tritt an die Stelle der Bezeichnung des belasteten Grundstücks die Bezeichnung des beliehenen Flugzeuges im öffentlichen Register sowie die Bezeichnung des Registers und der Registerstelle. Im Falle von dinglichen Rechten nach § 26b Abs. 5 des Pfandbriefgesetzes, die nicht zur Sicherung einer persönlichen Forderung dienen, sowie im Falle von abstrakten Schuldversprechen oder Schuldanerkenntnissen, die durch Registerpfandrechte nach § 1 des Gesetzes über Rechte an Luftfahrzeugen oder durch ausländische Flugzeughypotheken gesichert sind, sind die zugrunde liegenden Darlehensforderungen in Spalte 4 einzutragen. § 9 Nr. 4 Satz 2 gilt entsprechend. In den Fällen des § 26c Absatz 4 des Pfandbriefgesetzes ist das Sicherungsverhältnis über Ansprüche aus der Flugzeugversicherung in Spalte 6 einzutragen.
 
 ### § 13 — Eintragung von Derivategeschäften
 
 Die Eintragung von Derivategeschäften in das jeweilige Unterregister ist entsprechend des in Anlage 3 dargestellten Formulars DR 3 durch Eintragung der einbezogenen Derivate in folgender Weise vorzunehmen:
 
-1.
+1. Die Spalten 1 bis 8 sind mit "Bezeichnung des Deckungswerts" zu überschreiben. Spalte 1 enthält unter Buchstabe a die laufende Nummer innerhalb des Deckungsregisters und unter Buchstabe b das Eintragungsdatum, Spalte 2 die bankinterne Registrierungsnummer bei der Pfandbriefbank.
 
-2.
+2. In Spalte 3 sind Name und Anschrift des Vertragspartners einzutragen.
 
-3.
+3. Spalte 4 enthält die Bezeichnung des Produktes sowie produktspezifische Angaben wie die Beträge und Währungen des Kapitaltausches, die vereinbarten Zinssätze oder Referenzzinssätze nebst Auf- oder Abschlägen sowie gegebenenfalls weitere Angaben, die zur eindeutigen Identifizierung des Vertrages erforderlich sind.
 
-4.
+4. In Spalte 5 wird die interne Registrierungsnummer beim Vertragspartner der Pfandbriefbank eingetragen.
 
-5.
+5. Spalte 6 enthält unter Buchstabe a das Abschlussdatum des Rahmenvertrags, der das Derivategeschäft regelt, unter Buchstabe b das Abschlussdatum des Einzelabschlusses, unter Buchstabe c die Ursprungslaufzeit des Einzelabschlusses und unter Buchstabe d das Fälligkeitsdatum des Einzelabschlusses.
 
-6.
+6. In Spalte 7 sind die Vermögenswerte einzutragen, die der Pfandbriefbank vom Vertragspartner als Sicherheit für Ansprüche aus dem Derivategeschäft gestellt worden sind.
 
-7.
+7. In Spalte 8 kann der Treuhänder bei einem in Papierform geführten Deckungsregister seine nach § 5 Abs. 1 Satz 2 des Pfandbriefgesetzes erforderliche Zustimmung durch Namensunterschrift erteilen. Bei eindeutiger Bezeichnung des Derivats kann die Zustimmung des Treuhänders auch auf einem gesonderten Blatt, das nicht Bestandteil des Deckungsregisters ist, erfolgen. § 8 Absatz 4 Satz 3 des Pfandbriefgesetzes und § 9 Nummer 5 Satz 6 bis 8 gelten entsprechend.
 
-8.
+8. Löschungsvermerke sind unter Angabe des Datums in Spalte 9 einzutragen. Sofern die Löschung an gesonderter Stelle im Register vermerkt wird, sind hierzu neben dem Löschungsvermerk in Spalte 9 die Angaben des zu löschenden Werts in Spalte 1 zu wiederholen. § 9 Nummer 5 Satz 4 bis 8 gilt entsprechend.
 
-9.
+9. Ansprüche auf Schadlosstellung nach § 20 Absatz 3 Satz 3 des Pfandbriefgesetzes sind bei dem betreffenden Derivategeschäft unter Benennung des zur Schadlosstellung Verpflichteten (Name, Anschrift) in Spalte 10 einzutragen.
 
 ### § 14 — Eintragung von Deckungswerten der barwertigen sichernden Überdeckung sowie anderer weiterer Deckungswerte
 
-Eintragungen von Deckungswerten nach § 4 Absatz 1 Satz 3, § 19 Absatz 1 Satz 1 Nummer 2 Buchstabe a und b, auch in Verbindung mit § 20 Absatz 2 Satz 1 Nummer 2, mit § 26 Absatz 1 Satz 1 Nummer 3 und mit § 26f Absatz 1 Satz 1 Nummer 3, des § 19 Absatz 1 Satz 1 Nummer 3 Buchstabe a bis c, auch in Verbindung mit § 26 Absatz 1 Satz 1 Nummer 4 und mit § 26f Absatz 1 Satz 1 Nummer 4, des § 19 Absatz 1 Satz 1 Nummer 4, auch in Verbindung mit § 26 Absatz 1 Satz 1 Nummer 5 und mit § 26f Absatz 1 Satz 1 Nummer 5, des § 20 Absatz 2 Satz 1 Nummer 3 Buchstabe a und b und der Nummer 4 des Pfandbriefgesetzes sind grundsätzlich entsprechend § 11 vorzunehmen, soweit nicht die eindeutige Identifizierung der Deckungswerte anderweitige oder zusätzliche Angaben erfordert. Im Fall von Deckungswerten nach § 4 Absatz 1 Satz 3 Nummer 1 des Pfandbriefgesetzes ist zusätzlich die besondere Schuldform kenntlich zu machen. Im Fall des § 4 Absatz 1 Satz 3 Nummer 2a und 3 des Pfandbriefgesetzes sind in Spalte 2 die kontoführende Stelle und die IBAN im Sinne des Artikels 2 Nummer 15 der Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22), die durch die Verordnung (EU) Nr. 248/2014 (ABl. L 84 vom 20.3.2014, S. 1) geändert worden ist, anzugeben. Satz 3 gilt entsprechend, soweit es sich bei anderen zur Deckung verwendeten Geldforderungen ebenfalls um Guthaben handelt. Handelt es sich bei den Geldforderungen um jeweilige Guthaben aus Kontoverbindungen nach § 19 Absatz 1 Satz 1 Nummer 2 Buchstabe b, auch in Verbindung mit § 20 Absatz 2 Satz 1 Nummer 2, mit § 26 Absatz 1 Satz 1 Nummer 3 und mit § 26f Absatz 1 Satz 1 Nummer 3, nach § 19 Absatz 1 Satz 1 Nummer 3 Buchstabe c, auch in Verbindung mit § 26 Absatz 1 Satz 1 Nummer 4 und mit § 26f Absatz 1 Satz 1 Nummer 4, sowie nach § 20 Absatz 2 Satz 1 Nummer 3 Buchstabe b und Nummer 4 des Pfandbriefgesetzes, so kann in Spalte 3 die Betragsangabe unterbleiben. Ansprüche auf Schadlosstellung nach § 20 Absatz 3 Satz 3 des Pfandbriefgesetzes sind bei der betreffenden Forderung unter Benennung des zur Schadlosstellung Verpflichteten (Name, Anschrift) in Spalte 5 einzutragen.
+Eintragungen von Deckungswerten nach § 4 Absatz 1 Satz 3, § 19 Absatz 1 Satz 1 Nummer 2 Buchstabe a und b, auch in Verbindung mit § 20 Absatz 2 Satz 1 Nummer 2, mit § 26 Absatz 1 Satz 1 Nummer 3 und mit § 26f Absatz 1 Satz 1 Nummer 3, des § 19 Absatz 1 Satz 1 Nummer 3 Buchstabe a bis c, auch in Verbindung mit § 26 Absatz 1 Satz 1 Nummer 4 und mit § 26f Absatz 1 Satz 1 Nummer 4, des § 19 Absatz 1 Satz 1 Nummer 4, auch in Verbindung mit § 26 Absatz 1 Satz 1 Nummer 5 und mit § 26f Absatz 1 Satz 1 Nummer 5, des § 20 Absatz 2 Satz 1 Nummer 3 Buchstabe a und b und der Nummer 4 des Pfandbriefgesetzes sind grundsätzlich entsprechend § 11 vorzunehmen, soweit nicht die eindeutige Identifizierung der Deckungswerte anderweitige oder zusätzliche Angaben erfordert. Im Fall von Deckungswerten nach § 4 Absatz 1 Satz 3 Nummer 1 des Pfandbriefgesetzes ist zusätzlich die besondere Schuldform kenntlich zu machen. Im Fall des § 4 Absatz 1 Satz 3 Nummer 2a und 3 des Pfandbriefgesetzes sind in Spalte 2 die kontoführende Stelle und die IBAN im Sinne des Artikels 2 Nummer 15 der Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22), die durch die Verordnung (EU) Nr. 248/2014 (ABl. L 84 vom 20.3.2014, S. 1) geändert worden ist, anzugeben. Satz 3 gilt entsprechend, soweit es sich bei anderen zur Deckung verwendeten Geldforderungen ebenfalls um Guthaben handelt. Handelt es sich bei den Geldforderungen um jeweilige Guthaben aus Kontoverbindungen nach § 19 Absatz 1 Satz 1 Nummer 2 Buchstabe b, auch in Verbindung mit § 20 Absatz 2 Satz 1 Nummer 2, mit § 26 Absatz 1 Satz 1 Nummer 3 und mit § 26f Absatz 1 Satz 1 Nummer 3, nach § 19 Absatz 1 Satz 1 Nummer 3 Buchstabe c, auch in Verbindung mit § 26 Absatz 1 Satz 1 Nummer 4 und mit § 26f Absatz 1 Satz 1 Nummer 4, sowie nach § 20 Absatz 2 Satz 1 Nummer 3 Buchstabe b und Nummer 4 des Pfandbriefgesetzes, so kann in Spalte 3 die Betragsangabe unterbleiben. Ansprüche auf Schadlosstellung nach § 20 Absatz 3 Satz 3 des Pfandbriefgesetzes sind bei der betreffenden Forderung unter Benennung des zur Schadlosstellung Verpflichteten (Name, Anschrift) in Spalte 5 einzutragen.
 
 ## Teil 4: (weggefallen)
 
@@ -195,40 +195,12 @@ Diese Verordnung tritt am Tag nach Verkündung in Kraft.
 
 ### Anlage 1 — (zu § 9)
 
-a)
+a) lfd. Nr.
 
-b)
+b) AZ
 
-c)
+c) Datum
 
 ### Anlage 2 — (zu § 11)
 
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
 ### Anlage 3 — (zu § 13)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-d)
-
-*
-
-*
-
-*

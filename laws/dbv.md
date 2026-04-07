@@ -51,9 +51,9 @@ Die Umsetzung der Verwaltung des Beratungsangebots wird auf die Deutsche Rentenv
 
 Antragsberechtigt für einen Zuschuss nach § 7 sind
 
-1.
+1. juristische Personen des privaten und des öffentlichen Rechts mit Sitz und Arbeitsstätte in Deutschland sowie
 
-2.
+2. rechtsfähige Personengesellschaften mit Sitz und Arbeitsstätte in Deutschland.
 
 ### § 6 — Voraussetzungen für die Gewährung des Zuschusses
 
@@ -61,11 +61,11 @@ Antragsberechtigt für einen Zuschuss nach § 7 sind
 
 (2) Ein Träger ist zuverlässig, wenn er die Gewähr dafür bietet, das Beratungsangebot ordnungsgemäß auszuüben. Ein Mangel der Zuverlässigkeit liegt in der Regel vor, wenn beim Träger mangelnde wirtschaftliche Leistungsfähigkeit besteht oder der Träger oder eine Person, deren Verhalten dem Träger aufgrund einer leitenden Stellung zuzurechnen ist,
 
-1.
+1. sozialversicherungsrechtliche oder arbeitsrechtliche Pflichten verletzt,
 
-2.
+2. der Verpflichtung zur Zahlung von Steuern und Abgaben nicht nachgekommen ist oder
 
-3.
+3. keine ordnungsgemäße Buchführung gewährleistet.
 
 (3) Ein Träger ist insbesondere fachlich geeignet, wenn Erfahrungen im Bereich der Beratung zum Sozial- und Arbeitsrecht sowie interkulturelle Kompetenzen der Mitarbeitenden nachgewiesen werden. Besonders zu berücksichtigen ist die Erfahrung, wenn sie sich auf die Rechte von Drittstaatsangehörigen bezieht.
 
@@ -75,19 +75,19 @@ Antragsberechtigt für einen Zuschuss nach § 7 sind
 
 (1) Der Zuschuss wird für interne Personal-, Verwaltungs- und Sachausgaben des Trägers gewährt. Für Ausgaben, für die dem Träger ein Zuschuss gewährt worden ist, darf der Träger keinen weiteren Zuschuss und keine weitere Zuwendung von anderer Seite erhalten.
 
-(2) Über die genaue Höhe des Zuschusses ist im Einzelfall unter Beachtung der Grundsätze der Wirtschaftlichkeit und Sparsamkeit zu entscheiden. Der Zuschuss ist begrenzt auf den jährlichen Höchstbetrag von Die Bewilligungsstelle kann im begründeten Einzelfall und mit Zustimmung des Bundesministeriums für Arbeit und Soziales Abweichungen vom Höchstbetrag festlegen. Ermäßigen sich nach der Bewilligung des Zuschusses die veranschlagten Gesamtausgaben eines Trägers, so ermäßigen sich auch der Zuschuss und die Eigenbeteiligung des Trägers.
+(2) Über die genaue Höhe des Zuschusses ist im Einzelfall unter Beachtung der Grundsätze der Wirtschaftlichkeit und Sparsamkeit zu entscheiden. Der Zuschuss ist begrenzt auf den jährlichen Höchstbetrag von
 
-1.
+1. 300 000 Euro pro Träger einer Beratungsstelle und
 
-2.
+2. 900 000 Euro für den Träger der Fachstelle.
 
 (3) Bei der Höhe des Zuschusses sind insbesondere folgende Faktoren zu berücksichtigen:
 
-1.
+1. Anzahl der Drittstaatsangehörigen mit Wohnsitz im jeweiligen Land,
 
-2.
+2. aktuelle Beratungszahlen zu arbeits- und sozialrechtlichen Fragen von Drittstaatsangehörigen im jeweiligen Land und
 
-3.
+3. prognostizierte Beratungszahlen zu arbeits- und sozialrechtlichen Fragen von Drittstaatsangehörigen im jeweiligen Land.
 
 (4) Für Personalausgaben für sozialversicherungspflichtig Beschäftigte der Träger der Beratungsstellen kann ein Zuschuss unter Berücksichtigung ihrer Qualifikation und Tätigkeit bis zur Höhe der Entgeltgruppe 13 des Tarifvertrags für den öffentlichen Dienst Bund in seiner jeweils gültigen Fassung gewährt werden. Für Personalausgaben für sozialversicherungspflichtig Beschäftigte des Trägers der Fachstelle kann ein Zuschuss bis zur Höhe der Entgeltgruppe 14 des Tarifvertrags für den öffentlichen Dienst Bund in seiner jeweils gültigen Fassung gewährt werden. Die Träger dürfen ihre Beschäftigten nicht besserstellen als vergleichbare Bundesbedienstete. Bei unvorhergesehenen deutlich steigenden Personalausgaben innerhalb des Bewilligungszeitraums kann die Bewilligungsstelle auf Antrag eines Trägers und unter Berücksichtigung der Sätze 1 und 2 einen Änderungsbescheid erlassen. Der Mehrbedarf ist nachzuweisen.
 
@@ -95,9 +95,9 @@ Antragsberechtigt für einen Zuschuss nach § 7 sind
 
 (6) Die Träger müssen eine Eigenbeteiligung in Höhe von zehn Prozent des bewilligten Zuschusses erbringen. Die Eigenbeteiligung kann geleistet werden
 
-1.
+1. in Form von Barmitteln und Personalgestellungen des Trägers und
 
-2.
+2. in Form von Barmitteln durch Dritte.
 
 ### § 8 — Entscheidung; Auszahlung des Zuschusses; Rechtsweg
 
@@ -105,11 +105,11 @@ Antragsberechtigt für einen Zuschuss nach § 7 sind
 
 (2) Die Bewilligungsstelle soll bis spätestens zwölf Wochen vor Beginn einer jeden Bewilligungsperiode über den Antrag auf Zuschuss entscheiden, sofern das Verfahren zur Aufstellung des Bundeshaushalts dem nicht entgegensteht.
 
-(3) Die Auszahlung des Zuschusses an einen Träger erfolgt Die zu erbringende Eigenbeteiligung ist bei der Anforderung der Vorschusszahlung zu berücksichtigen. Die Auszahlung eines Vorschusses setzt die Unanfechtbarkeit des Verwaltungsaktes nach Absatz 1 Satz 1 voraus. Vor Eintritt der Unanfechtbarkeit kann der Vorschuss nur nach Erklärung eines Verzichts auf Rechtsbehelfe gegen den Verwaltungsakt ausgezahlt werden.
+(3) Die Auszahlung des Zuschusses an einen Träger erfolgt
 
-1.
+1. auf Anforderung des Trägers als Vorschuss zum jeweiligen Quartalsbeginn eines Jahres am 1. Januar, 1. April, 1. Juli und 1. Oktober oder
 
-2.
+2. auf begründete Sonderanforderung des jeweiligen Trägers.
 
 (4) Sonderanforderungen dürfen nur für Zahlungen beantragt werden, die in den nächsten drei Monaten nach der Auszahlung fällig sind. Jeder Antrag auf Sonderanforderung muss die zur Beurteilung des Bedarfs erforderlichen Angaben enthalten.
 

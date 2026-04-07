@@ -28,9 +28,9 @@ Technische Verbesserungsvorschläge im Sinne dieses Gesetzes sind Vorschläge f�
 
 (2) Gebundene Erfindungen (Diensterfindungen) sind während der Dauer des Arbeitsverhältnisses gemachte Erfindungen, die entweder
 
-1.
+1. aus der dem Arbeitnehmer im Betrieb oder in der öffentlichen Verwaltung obliegenden Tätigkeit entstanden sind oder
 
-2.
+2. maßgeblich auf Erfahrungen oder Arbeiten des Betriebes oder der öffentlichen Verwaltung beruhen.
 
 (3) Sonstige Erfindungen von Arbeitnehmern sind freie Erfindungen. Sie unterliegen jedoch den Beschränkungen der §§ 18 und 19.
 
@@ -96,11 +96,11 @@ Das Bundesministerium für Arbeit und Soziales erläßt nach Anhörung der Spitz
 
 (2) Die Verpflichtung des Arbeitgebers zur Anmeldung entfällt,
 
-1.
+1. wenn die Diensterfindung frei geworden ist (§ 8);
 
-2.
+2. wenn der Arbeitnehmer der Nichtanmeldung zustimmt;
 
-3.
+3. wenn die Voraussetzungen des § 17 vorliegen.
 
 (3) Genügt der Arbeitgeber nach Inanspruchnahme der Diensterfindung seiner Anmeldepflicht nicht und bewirkt er die Anmeldung auch nicht innerhalb einer ihm vom Arbeitnehmer gesetzten angemessenen Nachfrist, so kann der Arbeitnehmer die Anmeldung der Diensterfindung für den Arbeitgeber auf dessen Namen und Kosten bewirken.
 
@@ -200,13 +200,13 @@ Die Rechte und Pflichten aus diesem Gesetz werden durch die Auflösung des Arbei
 
 Wird nach Inanspruchnahme der Diensterfindung das Insolvenzverfahren über das Vermögen des Arbeitgebers eröffnet, so gilt folgendes:
 
-1.
+1. Veräußert der Insolvenzverwalter die Diensterfindung mit dem Geschäftsbetrieb, so tritt der Erwerber für die Zeit von der Eröffnung des Insolvenzverfahrens an in die Vergütungspflicht des Arbeitgebers ein.
 
-2.
+2. Verwertet der Insolvenzverwalter die Diensterfindung im Unternehmen des Schuldners, so hat er dem Arbeitnehmer eine angemessene Vergütung für die Verwertung aus der Insolvenzmasse zu zahlen.
 
-3.
+3. In allen anderen Fällen hat der Insolvenzverwalter dem Arbeitnehmer die Diensterfindung sowie darauf bezogene Schutzrechtspositionen spätestens nach Ablauf eines Jahres nach Eröffnung des Insolvenzverfahrens anzubieten; im Übrigen gilt § 16 entsprechend. Nimmt der Arbeitnehmer das Angebot innerhalb von zwei Monaten nach dessen Zugang nicht an, kann der Insolvenzverwalter die Erfindung ohne Geschäftsbetrieb veräußern oder das Recht aufgeben. Im Fall der Veräußerung kann der Insolvenzverwalter mit dem Erwerber vereinbaren, dass sich dieser verpflichtet, dem Arbeitnehmer die Vergütung nach § 9 zu zahlen. Wird eine solche Vereinbarung nicht getroffen, hat der Insolvenzverwalter dem Arbeitnehmer die Vergütung aus dem Veräußerungserlös zu zahlen.
 
-4.
+4. Im Übrigen kann der Arbeitnehmer seine Vergütungsansprüche nach den §§ 9 bis 12 nur als Insolvenzgläubiger geltend machen.
 
 ## 5.: Schiedsverfahren
 
@@ -246,8 +246,6 @@ Der Antrag auf Erweiterung der Besetzung der Schiedsstelle ist von demjenigen, d
 
 ### § 33 — Verfahren vor der Schiedsstelle
 
-(1) Auf das Verfahren vor der Schiedsstelle sind §§ 41 bis 48, 1042 Abs. 1 und § 1050 der Zivilprozeßordnung sinngemäß anzuwenden. § 1042 Abs. 2 der Zivilprozeßordnung ist mit der Maßgabe sinngemäß anzuwenden, daß auch Patentanwälte und Erlaubnisscheininhaber (Artikel 3 des Zweiten Gesetzes zur Änderung und Überleitung von Vorschriften auf dem Gebiet des gewerblichen Rechtsschutzes vom 2. Juli 1949 - WiGBl. S. 179) sowie Verbandsvertreter im Sinne des § 11 des Arbeitsgerichtsgesetzes von der Schiedsstelle nicht zurückgewiesen werden dürfen.
-
 (2) Im übrigen bestimmt die Schiedsstelle das Verfahren selbst.
 
 > § 33 Abs. 1 Kursivdruck: Aufgeh. durch § 188 Nr. 2 G v. 7.9.1966 I 557 mWv 1.1.1967. Wegen der Fortgeltung von Erlaubnisscheinen vgl. § 177 G v. 7.9.1966 424-5-1
@@ -268,11 +266,11 @@ Der Antrag auf Erweiterung der Besetzung der Schiedsstelle ist von demjenigen, d
 
 (1) Das Verfahren vor der Schiedsstelle ist erfolglos beendet,
 
-1.
+1. wenn sich der andere Beteiligte innerhalb der ihm nach § 31 Abs. 2 gesetzten Frist nicht geäußert hat;
 
-2.
+2. wenn er es abgelehnt hat, sich auf das Verfahren vor der Schiedsstelle einzulassen;
 
-3.
+3. wenn innerhalb der Frist des § 34 Abs. 3 ein schriftlicher Widerspruch eines der Beteiligten bei der Schiedsstelle eingegangen ist.
 
 (2) Der Vorsitzende der Schiedsstelle teilt die erfolglose Beendigung des Schiedsverfahrens den Beteiligten mit.
 
@@ -288,13 +286,13 @@ Im Verfahren vor der Schiedsstelle werden keine Gebühren oder Auslagen erhoben.
 
 (2) Dies gilt nicht,
 
-1.
+1. wenn mit der Klage Rechte aus einer Vereinbarung (§§ 12, 19, 22, 34) geltend gemacht werden oder die Klage darauf gestützt wird, daß die Vereinbarung nicht rechtswirksam sei;
 
-2.
+2. wenn seit der Anrufung der Schiedsstelle sechs Monate verstrichen sind;
 
-3.
+3. wenn der Arbeitnehmer aus dem Betrieb des Arbeitgebers ausgeschieden ist;
 
-4.
+4. wenn die Parteien vereinbart haben, von der Anrufung der Schiedsstelle abzusehen. Diese Vereinbarung kann erst getroffen werden, nachdem der Streitfall (§ 28) eingetreten ist. Sie bedarf der Schriftform.
 
 (3) Einer Vereinbarung nach Absatz 2 Nr. 4 steht es gleich, wenn beide Parteien zur Hauptsache mündlich verhandelt haben, ohne geltend zu machen, daß die Schiedsstelle nicht angerufen worden ist.
 
@@ -320,15 +318,15 @@ von Beamten und Soldaten
 
 Auf Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern, die in Betrieben und Verwaltungen des Bundes, der Länder, der Gemeinden und sonstigen Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts beschäftigt sind, sind die Vorschriften für Arbeitnehmer im privaten Dienst mit folgender Maßgabe anzuwenden:
 
-1.
+1. An Stelle der Inanspruchnahme der Diensterfindung kann der Arbeitgeber eine angemessene Beteiligung an dem Ertrag der Diensterfindung in Anspruch nehmen, wenn dies vorher vereinbart worden ist. Über die Höhe der Beteiligung können im voraus bindende Abmachungen getroffen werden. Kommt eine Vereinbarung über die Höhe der Beteiligung nicht zustande, so hat der Arbeitgeber sie festzusetzen. § 12 Abs. 3 bis 6 ist entsprechend anzuwenden.
 
-2.
+2. Die Behandlung von technischen Verbesserungsvorschlägen nach § 20 Abs. 2 kann auch durch Dienstvereinbarung geregelt werden; Vorschriften, nach denen die Einigung über die Dienstvereinbarung durch die Entscheidung einer höheren Dienststelle oder einer dritten Stelle ersetzt werden kann, finden keine Anwendung.
 
-3.
+3. Dem Arbeitnehmer können im öffentlichen Interesse durch allgemeine Anordnung der zuständigen obersten Dienstbehörde Beschränkungen hinsichtlich der Art der Verwertung der Diensterfindung auferlegt werden.
 
-4.
+4. Zur Einreichung von Vorschlagslisten für Arbeitgeberbeisitzer (§ 30 Abs. 4) sind auch die Bundesregierung und die Landesregierungen berechtigt.
 
-5.
+5. Soweit öffentliche Verwaltungen eigene Schiedsstellen zur Beilegung von Streitigkeiten auf Grund dieses Gesetzes errichtet haben, finden die Vorschriften der §§ 29 bis 32 keine Anwendung.
 
 ### § 41 — Beamte, Soldaten
 
@@ -338,15 +336,15 @@ Auf Erfindungen und technische Verbesserungsvorschläge von Beamten und Soldaten
 
 Für Erfindungen der an einer Hochschule Beschäftigten gelten folgende besonderen Bestimmungen:
 
-1.
+1. Der Erfinder ist berechtigt, die Diensterfindung im Rahmen seiner Lehr- und Forschungstätigkeit zu offenbaren, wenn er dies dem Dienstherrn rechtzeitig, in der Regel zwei Monate zuvor, angezeigt hat. § 24 Abs. 2 findet insoweit keine Anwendung.
 
-2.
+2. Lehnt ein Erfinder aufgrund seiner Lehr- und Forschungsfreiheit die Offenbarung seiner Diensterfindung ab, so ist er nicht verpflichtet, die Erfindung dem Dienstherrn zu melden. Will der Erfinder seine Erfindung zu einem späteren Zeitpunkt offenbaren, so hat er dem Dienstherrn die Erfindung unverzüglich zu melden.
 
-3.
+3. Dem Erfinder bleibt im Fall der Inanspruchnahme der Diensterfindung ein nichtausschließliches Recht zur Benutzung der Diensterfindung im Rahmen seiner Lehr- und Forschungstätigkeit.
 
-4.
+4. Verwertet der Dienstherr die Erfindung, beträgt die Höhe der Vergütung 30 vom Hundert der durch die Verwertung erzielten Einnahmen.
 
-5.
+5. § 40 Nr. 1 findet keine Anwendung.
 
 ## Vierter Abschnitt: Übergangs- und Schlußbestimmungen
 
@@ -364,13 +362,15 @@ Für Erfindungen der an einer Hochschule Beschäftigten gelten folgende besonder
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales die für die Erweiterung der Besetzung der Schiedsstelle (§ 30 Abs. 4 und 5) erforderlichen Durchführungsbestimmungen zu erlassen. Insbesondere kann es bestimmen,
 
-1.
+1. welche persönlichen Voraussetzungen Personen erfüllen müssen, die als Beisitzer aus Kreisen der Arbeitgeber oder der Arbeitnehmer vorgeschlagen werden;
 
-2.
+2. wie die auf Grund der Vorschlagslisten ausgewählten Beisitzer für ihre Tätigkeit zu entschädigen sind.
 
 ### § 46 — Außerkrafttreten von Vorschriften
 
-Mit dem Inkrafttreten dieses Gesetzes werden folgende Vorschriften aufgehoben, soweit sie nicht bereits außer Kraft getreten sind:
+1. die Verordnung über die Behandlung von Erfindungen von Gefolgschaftsmitgliedern vom 12. Juli 1942 (Reichsgesetzbl. I S. 466);
+
+2. die Durchführungsverordnung zur Verordnung über die Behandlung von Erfindungen von Gefolgschaftsmitgliedern vom 20. März 1943 (Reichsgesetzbl. I S. 257).
 
 ### § 47 — (weggefallen)
 

@@ -7,6 +7,6 @@
 
 ### (XXXX)
 
-Auf Grund des § 1 Abs. 2 des Auslandsunterhaltsgesetzes vom 19. Dezember 1986 (BGBl. I S. 2563) wird bekannt gemacht, dass die Gegenseitigkeit im Sinne dieses Gesetzes, beschränkt auf den Kindesunterhalt, verbürgt ist im Verhältnis zu dem US-Bundesstaat Diese Bekanntmachung ergeht im Anschluss an die Bekanntmachung vom 7. Januar 1997 (BGBl. I S. 155).
+Auf Grund des § 1 Abs. 2 des Auslandsunterhaltsgesetzes vom 19. Dezember 1986 (BGBl. I S. 2563) wird bekannt gemacht, dass die Gegenseitigkeit im Sinne dieses Gesetzes, beschränkt auf den Kindesunterhalt, verbürgt ist im Verhältnis zu dem US-Bundesstaat
 
 Bundesministerium der Justiz

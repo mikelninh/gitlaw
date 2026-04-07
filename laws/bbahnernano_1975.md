@@ -8,8 +8,6 @@ Bundesbahn
 
 ### I.
 
-Auf Grund der Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Bundesbeamten und Richter im Bundesdienst vom 14. Juli 1975 (Bundesgesetzbl. I S. 1915) und der Anordnung des Bundesministers für Verkehr über die Ernennung und Entlassung der Bundesbeamten im Geschäftsbereich des Bundesministers für Verkehr vom 7. August 1975 (Bundesgesetzbl. I S. 2185) übertragen wir die Ausübung des Rechtes zur Ernennung und Entlassung der Beamten der Besoldungsgruppen A 1 bis A 13 (gehobener Dienst) und der entsprechenden Beamten bis zur Anstellung - je für ihren Geschäftsbereich - auf
-
 ### II.
 
 Wir behalten uns im Einzelfall die Ernennung und Entlassung der in Abschnitt I genannten Bundesbahnbeamten vor.
@@ -19,5 +17,3 @@ Wir behalten uns im Einzelfall die Ernennung und Entlassung der in Abschnitt I g
 Die Anordnung tritt mit Wirkung vom 1. September 1975 in Kraft.
 
 ### Schlußformel
-
-Deutsche Bundesbahn

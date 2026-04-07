@@ -18,35 +18,17 @@ Auf Grund des § 11 Abs. 2 des Betäubungsmittelgesetzes vom 28. Juli 1981 (BGBl
 
 (2) Der Antragsteller hat auf dem Einfuhrantrag folgende Angaben zu machen:
 
-1.
+1. BtM-Nummer, Name oder Firma und Anschrift des Einführers; bei einem Einführer mit mehreren Betriebsstätten BtM-Nummer und Anschrift der einführenden Betriebsstätte,
 
-2.
+2. Name oder Firma und Anschrift des gebietsfremden Ausführers sowie BtM-Nummer und Name des Ausfuhrlandes,
 
-3.
+3. für jedes einzuführende Betäubungsmittel:a)Pharmazentralnummer, soweit bekanntgemacht, b)Anzahl der Packungseinheiten, c)Packungseinheit (bei Stoffen und nicht abgeteilten Zubereitungen die Gewichtsmenge, bei abgeteilten Zubereitungen die Stückzahl), d)Bezeichnung des Betäubungsmittels; zusätzlich:-bei abgeteilten Zubereitungen die Darreichungsform und das Gewicht des enthaltenen reinen Stoffes in Milligramm je abgeteilte Form, -bei nicht abgeteilten Zubereitungen die Darreichungsform und das Gewicht des enthaltenen reinen Stoffes je Packungseinheit, -bei rohen, ungereinigten und nicht abgeteilten Betäubungsmitteln den Gewichtsvomhundertsatz des enthaltenen reinen Stoffes, Pharmazentralnummer, soweit bekanntgemacht, Anzahl der Packungseinheiten, Packungseinheit (bei Stoffen und nicht abgeteilten Zubereitungen die Gewichtsmenge, bei abgeteilten Zubereitungen die Stückzahl), Bezeichnung des Betäubungsmittels; zusätzlich:-bei abgeteilten Zubereitungen die Darreichungsform und das Gewicht des enthaltenen reinen Stoffes in Milligramm je abgeteilte Form, -bei nicht abgeteilten Zubereitungen die Darreichungsform und das Gewicht des enthaltenen reinen Stoffes je Packungseinheit, -bei rohen, ungereinigten und nicht abgeteilten Betäubungsmitteln den Gewichtsvomhundertsatz des enthaltenen reinen Stoffes, bei abgeteilten Zubereitungen die Darreichungsform und das Gewicht des enthaltenen reinen Stoffes in Milligramm je abgeteilte Form, bei nicht abgeteilten Zubereitungen die Darreichungsform und das Gewicht des enthaltenen reinen Stoffes je Packungseinheit, bei rohen, ungereinigten und nicht abgeteilten Betäubungsmitteln den Gewichtsvomhundertsatz des enthaltenen reinen Stoffes,
 
-a)
+4. den vorgesehenen Beförderungsweg sowie Namen und Anschriften der Beförderer,
 
-b)
+5. a)bei der Einfuhr aus einem Staat, der nicht Mitglied der Europäischen Union ist, Bezeichnung und Anschrift derjenigen Zollstelle, über die gemäß § 4 Satz 1 eingeführt werden soll, b)bei der Einfuhr aus einem Mitgliedstaat der Europäischen Union der Vermerk "EU-Warenverkehr", bei der Einfuhr aus einem Staat, der nicht Mitglied der Europäischen Union ist, Bezeichnung und Anschrift derjenigen Zollstelle, über die gemäß § 4 Satz 1 eingeführt werden soll, bei der Einfuhr aus einem Mitgliedstaat der Europäischen Union der Vermerk "EU-Warenverkehr",
 
-c)
-
-d)
-
--
-
--
-
--
-
-4.
-
-5.
-
-a)
-
-b)
-
-6.
+6. sofern die Betäubungsmittel unter zollamtlicher Überwachung gelagert werden sollen, Bezeichnung und Anschrift des Lagers sowie Name und Anschrift des Lagerhalters oder Lagerinhabers.
 
 (3) Sollen zur Durchfuhr bestimmte und abgefertigte Betäubungsmittel eingeführt werden, so ist dem Einfuhrantrag die Ausfuhrgenehmigung oder Ausfuhrerklärung des Ausfuhrlandes, die die Betäubungsmittel begleitet hat, beizufügen. Das Bundesinstitut für Arzneimittel und Medizinprodukte gibt diese der für die Betäubungsmittelkontrolle zuständigen Behörde des Ausfuhrlandes zurück.
 
@@ -76,11 +58,11 @@ Ist in der Einfuhrgenehmigung nur die Lagerung unter zollamtlicher Überwachung 
 
 (1) Der Einführer hat die erfolgte Einfuhr dem Bundesinstitut für Arzneimittel und Medizinprodukte unverzüglich anzuzeigen und die Anzeige mit den der tatsächlichen Einfuhr entsprechenden Angaben nach § 1 Abs. 2, der Nummer und dem Ausstellungsdatum der Einfuhrgenehmigung und dem Einfuhrdatum zu versehen. Der Einfuhranzeige ist die mit einem zollamtlichen Abfertigungsvermerk versehene Einfuhrgenehmigung beizufügen. Für die Anzeige ist ein amtliches Formblatt zu verwenden.
 
-(2) Absatz 1 Satz 2 gilt nicht bei der Einfuhr aus einem Mitgliedstaat der Europäischen Union. In diesem Falle hat der Einführer auf der Rückseite der beizufügenden Einfuhrgenehmigung in dem für den zollamtlichen Abfertigungsvermerk vorgesehenen Feld folgende Angaben zu machen: und die Handelsrechnung oder Packliste der Einfuhrgenehmigung in Kopie beizufügen.
+(2) Absatz 1 Satz 2 gilt nicht bei der Einfuhr aus einem Mitgliedstaat der Europäischen Union. In diesem Falle hat der Einführer auf der Rückseite der beizufügenden Einfuhrgenehmigung in dem für den zollamtlichen Abfertigungsvermerk vorgesehenen Feld folgende Angaben zu machen:
 
-a)
+a) Nummer und Ausstellungsdatum der Handelsrechnung oder Packliste und
 
-b)
+b) Nummer und Ausstellungsdatum des Frachtdokumentes mit Angabe des Frachtführers
 
 (3) Werden die Betäubungsmittel nicht innerhalb der in der Einfuhrgenehmigung angegebenen Frist eingeführt, ist dies dem Bundesinstitut für Arzneimittel und Medizinprodukte unverzüglich anzuzeigen. Der Anzeige ist die Einfuhrgenehmigung beizufügen.
 
@@ -92,39 +74,21 @@ b)
 
 (2) Der Antragsteller hat auf dem Ausfuhrantrag folgende Angaben zu machen:
 
-1.
+1. BtM-Nummer, Name oder Firma und Anschrift des Ausführers; bei einem Ausführer mit mehreren Betriebsstätten BGA-Nummer und Anschrift der ausführenden Betriebsstätte,
 
-2.
+2. Name oder Firma und Anschrift des gebietsfremden Einführers, die Versandanschrift sowie BtM-Nummer und Name des Einfuhrlandes,
 
-3.
+3. Nummer und Ausstellungsdatum der Einfuhrgenehmigung sowie Bezeichnung und Anschrift der ausstellenden Behörde des Einfuhrlandes,
 
-4.
+4. für jedes auszuführende Betäubungsmittel:a)Pharmazentralnummer, soweit bekanntgemacht, b)Anzahl der Packungseinheiten, c)Packungseinheit (bei Stoffen und nicht abgeteilten Zubereitungen die Gewichtsmenge, bei abgeteilten Zubereitungen die Stückzahl), d)Bezeichnung des Betäubungsmittels; zusätzlich:-bei abgeteilten Zubereitungen die Darreichungsform und das Gewicht des enthaltenen reines Stoffes in Milligramm je abgeteilte Form, -bei nicht abgeteilten Zubereitungen die Darreichungsform und das Gewicht des enthaltenen reinen Stoffes je Packungseinheit, -bei rohen, ungereinigten und nicht abgeteilten Betäubungsmitteln den Gewichtsvomhundertsatz des enthaltenen reinen Stoffes, Pharmazentralnummer, soweit bekanntgemacht, Anzahl der Packungseinheiten, Packungseinheit (bei Stoffen und nicht abgeteilten Zubereitungen die Gewichtsmenge, bei abgeteilten Zubereitungen die Stückzahl), Bezeichnung des Betäubungsmittels; zusätzlich:-bei abgeteilten Zubereitungen die Darreichungsform und das Gewicht des enthaltenen reines Stoffes in Milligramm je abgeteilte Form, -bei nicht abgeteilten Zubereitungen die Darreichungsform und das Gewicht des enthaltenen reinen Stoffes je Packungseinheit, -bei rohen, ungereinigten und nicht abgeteilten Betäubungsmitteln den Gewichtsvomhundertsatz des enthaltenen reinen Stoffes, bei abgeteilten Zubereitungen die Darreichungsform und das Gewicht des enthaltenen reines Stoffes in Milligramm je abgeteilte Form, bei nicht abgeteilten Zubereitungen die Darreichungsform und das Gewicht des enthaltenen reinen Stoffes je Packungseinheit, bei rohen, ungereinigten und nicht abgeteilten Betäubungsmitteln den Gewichtsvomhundertsatz des enthaltenen reinen Stoffes,
 
-a)
+5. Anzahl und Art der Packstücke, in denen die Betäubungsmittel ausgeführt werden sollen und die auf diesen angebrachten Markierungen,
 
-b)
+6. Beförderungsweg sowie Namen und Anschriften der Beförderer,
 
-c)
+7. a)bei der Ausfuhr in einen Staat, der nicht Mitglied der Europäischen Union ist, Bezeichnung und Anschrift derjenigen Zollstelle, über die gemäß § 11 Abs. 1 Satz 1 ausgeführt werden soll, b)bei der Ausfuhr in einen Mitgliedstaat der Europäischen Union der Vermerk "EU-Warenverkehr", bei der Ausfuhr in einen Staat, der nicht Mitglied der Europäischen Union ist, Bezeichnung und Anschrift derjenigen Zollstelle, über die gemäß § 11 Abs. 1 Satz 1 ausgeführt werden soll, bei der Ausfuhr in einen Mitgliedstaat der Europäischen Union der Vermerk "EU-Warenverkehr",
 
-d)
-
--
-
--
-
--
-
-5.
-
-6.
-
-7.
-
-a)
-
-b)
-
-8.
+8. sofern die Betäubungsmittel unter zollamtlicher Überwachung lagern, Bezeichnung und Anschrift des Lagers sowie Name und Anschrift des Lagerhalters oder Lagerinhabers.
 
 (3) Dem Ausfuhrantrag ist die Einfuhrgenehmigung der für die Betäubungsmittelkontrolle zuständigen Behörde des Einfuhrlandes beizufügen. Diese muß den Formvorschriften der internationalen Suchtstoffübereinkommen auch dann entsprechen, wenn das Einfuhrland diesen Übereinkommen nicht beigetreten ist.
 
@@ -134,15 +98,15 @@ b)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte hat die Ausfuhrgenehmigung zu versagen, wenn
 
-1.
+1. die Ausfuhr der Betäubungsmittel an ein Geldinstitut zur Verfügung einer anderen Person als der des gebietsfremden Empfängers oder an ein Postfach erfolgen soll,
 
-2.
+2. es sich um Betäubungsmittel der Anlage I des Betäubungsmittelgesetzes handelt, die zur Lagerung in einem Zollager des Einfuhrlandes ausgeführt werden sollen,
 
-3.
+3. die Betäubungsmittel zur Lagerung in einem Zollager des Einfuhrlandes ausgeführt werden sollen und in der Einfuhrgenehmigung die Lagerung der Sendung in einem Zollager nicht genehmigt ist,
 
-4.
+4. dem Ausfuhrantrag keine oder keine den Formvorschriften der internationalen Suchtstoffübereinkommen entsprechende ausländische Einfuhrgenehmigung beigefügt ist,
 
-5.
+5. das Einfuhrland der Bundesrepublik Deutschland über den Generalsekretär der Vereinten Nationen mitgeteilt hat, daß es die Einfuhr der Betäubungsmittel verbietet.
 
 (2) Das Bundesinstitut für Arzneimittel und Medizinprodukte hat die Ausfuhrgenehmigung ferner zu versagen oder die auszuführende Menge des Betäubungsmittels zu beschränken, wenn die Ausfuhr nicht im Rahmen der vom Internationalen Suchtstoffkontrollamt bekanntgegebenen Schätzung des Einfuhrlandes für dieses Betäubungsmittel abgewickelt werden kann, sofern nicht in der Einfuhrgenehmigung angegeben ist, daß das Betäubungsmittel zur Wiederausfuhr vorgesehen ist, oder der Ausführende den Nachweis erbringt, daß das Betäubungsmittel für eine Krankenbehandlung unerläßlich ist.
 
@@ -168,11 +132,11 @@ Zur Ausfuhr bestimmte Betäubungsmittel sind in den Handelsrechnungen, Liefersch
 
 (1) Der Ausführer hat die erfolgte Ausfuhr dem Bundesinstitut für Arzneimittel und Medizinprodukte unverzüglich anzuzeigen und die Anzeige mit den der tatsächlichen Ausfuhr entsprechenden Angaben nach § 7 Abs. 2 Nr. 1 bis 7, der Nummer und dem Ausstellungsdatum der Ausfuhrgenehmigung und dem Ausfuhrdatum zu versehen. Der Ausfuhranzeige ist die mit einem zollamtlichen Abfertigungsvermerk versehene Ausfuhrgenehmigung beizufügen. Für die Anzeige ist ein amtliches Formblatt zu verwenden.
 
-(2) Absatz 1 Satz 2 gilt nicht bei der Ausfuhr in einen Mitgliedstaat der Europäischen Union. In diesem Falle hat der Ausführer auf der Rückseite der beizufügenden Ausfuhrgenehmigung in dem für den zollamtlichen Abfertigungsvermerk vorgesehenen Feld folgende Angaben zu machen: und die Handelsrechnung oder Packliste der Ausfuhrgenehmigung in Kopie beizufügen.
+(2) Absatz 1 Satz 2 gilt nicht bei der Ausfuhr in einen Mitgliedstaat der Europäischen Union. In diesem Falle hat der Ausführer auf der Rückseite der beizufügenden Ausfuhrgenehmigung in dem für den zollamtlichen Abfertigungsvermerk vorgesehenen Feld folgende Angaben zu machen:
 
-a)
+a) Nummer und Ausstellungsdatum der Handelsrechnung oder Packliste und
 
-b)
+b) Nummer und Ausstellungsdatum des Frachtdokumentes mit Angabe des Frachtführers
 
 (3) Werden die Betäubungsmittel nicht innerhalb der in der Ausfuhrgenehmigung angegebenen Frist ausgeführt, ist dies dem Bundesinstitut für Arzneimittel und Medizinprodukte unverzüglich anzuzeigen. Der Anzeige sind beide Ausfertigungen der Ausfuhrgenehmigung beizufügen.
 
@@ -188,9 +152,9 @@ b)
 
 (4) Zur Durchfuhr abgefertigte Betäubungsmittel dürfen in Abänderung dieser Zweckbestimmung nur
 
-1.
+1. nach den Vorschriften der §§ 1 bis 6 eingeführt oder
 
-2.
+2. nach den Vorschriften der §§ 7 bis 12 in ein anderes als das in der Ausfuhrgenehmigung oder Ausfuhrerklärung genannte Bestimmungsland umgeleitet oder in das Ausfuhrland zurückgeleitet werden.
 
 (5) Die Absätze 2 bis 4 finden keine Anwendung auf die Durchfuhr von Betäubungsmitteln bei Zwischenlandung im Luftverkehr oder bei Anlandung im Seeschiffsverkehr, wenn die Betäubungsmittel nicht aus dem Flugzeug oder dem Seeschiff entladen werden.
 
@@ -204,27 +168,27 @@ b)
 
 (3) Zur Ausfuhr der Betäubungsmittel hat der Ausführer eine Ausfuhrerklärung unter Verwendung eines amtlichen Formblatts in fünffacher Ausfertigung abzugeben. In der Ausfuhrerklärung sind folgende Angaben zu machen:
 
-1.
+1. Name und Anschrift des Ausführers,
 
-2.
+2. Name und Anschrift des gebietsfremden Einführers sowie Name des Einfuhrlandes,
 
-3.
+3. Menge und Bezeichnung der Betäubungsmittel,
 
-4.
+4. Zweckbestimmung der Ausfuhr,
 
-5.
+5. Beförderungsweg und Beförderer,
 
-6.
+6. Name und Anschrift der für die Betäubungsmittelkontrolle zuständigen Behörde des Einfuhrlandes.
 
 (4) Von den in Absatz 3 genannten Ausfertigungen begleitet die erste Ausfertigung die Betäubungsmittel in das Einfuhrland. Die zweite und dritte Ausfertigung sind mit dem Absendedatum zu versehen und unverzüglich dem Bundesinstitut für Arzneimittel und Medizinprodukte zu übersenden, das eine Ausfertigung der in Absatz 3 Nr. 6 bezeichneten Behörde zuleitet. Die vierte Ausfertigung übersendet der Ausführer dem gebietsfremden Einführer. Die fünfte Ausfertigung hat der Ausführer mit dem Absendedatum zu versehen und drei Jahre, vom Ausstellungsdatum an gerechnet, aufzubewahren.
 
 ### § 15 — Vereinfachter grenzüberschreitender Verkehr
 
-(1) Die Vorschriften der §§ 1 bis 12 finden keine Anwendung auf Zubereitungen der in den Anlagen II und III des Betäubungsmittelgesetzes aufgeführten Stoffe, die entweder im grenzüberschreitenden Verkehr mitgeführt werden.
+(1) Die Vorschriften der §§ 1 bis 12 finden keine Anwendung auf Zubereitungen der in den Anlagen II und III des Betäubungsmittelgesetzes aufgeführten Stoffe, die entweder
 
-1.
+1. durch Ärzte, Zahnärzte oder Tierärzte zur zulässigen ärztlichen, zahnärztlichen oder tierärztlichen Berufsausübung oder zur ersten Hilfeleistung in angemessenen Mengen oder
 
-2.
+2. durch andere Personen in der Dauer der Reise angemessenen Mengen auf Grund ärztlicher Verschreibung oder Bescheinigung für den eigenen Bedarf
 
 (2) Die Vorschriften der §§ 1 bis 12 finden ferner keine Anwendung auf Betäubungsmittel, wenn diese in angemessenen Mengen als Ausrüstungen für die erste Hilfeleistung oder für sonstige dringende Fälle in Autobussen, Eisenbahnzügen, Luftfahrzeugen oder Schiffen im internationalen Verkehr mitgeführt werden.
 
@@ -236,9 +200,9 @@ b)
 
 Ordnungswidrig im Sinne des § 32 Abs. 1 Nr. 6 des Betäubungsmittelgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 1 Abs. 2 oder § 7 Abs. 2 im Einfuhr- oder Ausfuhrantrag unrichtige oder unvollständige Angaben macht oder
 
-2.
+2. entgegen § 6 Abs. 1 Satz 1 oder Abs. 2 Satz 2 oder § 12 Abs. 1 Satz 1 oder Abs. 2 Satz 2 die Ein- oder Ausfuhranzeige oder die Ein- oder Ausfuhrgenehmigung nicht, nicht richtig oder nicht vollständig mit den dort bezeichneten Angaben versieht.
 
 ## VI.: Schlußvorschriften
 

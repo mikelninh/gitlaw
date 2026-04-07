@@ -10,97 +10,45 @@
 
 (1) Ein Altersvorsorgevertrag im Sinne dieses Gesetzes liegt vor, wenn zwischen dem Anbieter und einer natürlichen Person (Vertragspartner) eine Vereinbarung in deutscher Sprache geschlossen wird,
 
-1.
+1. (weggefallen)
 
-2.
+2. die für den Vertragspartner eine lebenslange und unabhängig vom Geschlecht berechnete Altersversorgung vorsieht, die nicht vor Vollendung des 62. Lebensjahres oder einer vor Vollendung des 62. Lebensjahres beginnenden Leistung aus einem gesetzlichen Alterssicherungssystem des Vertragspartners (Beginn der Auszahlungsphase) gezahlt werden darf; Leistungen aus einer ergänzenden Absicherung der verminderten Erwerbsfähigkeit oder Dienstunfähigkeit und einer zusätzlichen Absicherung der Hinterbliebenen können vereinbart werden; Hinterbliebene in diesem Sinne sind der Ehegatte, der Lebenspartner und die Kinder, für die dem Vertragspartner zum Zeitpunkt des Eintritts des Versorgungsfalles ein Anspruch auf Kindergeld oder ein Freibetrag nach § 32 Abs. 6 des Einkommensteuergesetzes zugestanden hätte; der Anspruch auf Waisenrente oder Waisengeld darf längstens für den Zeitraum bestehen, in dem der Rentenberechtigte die Voraussetzungen für die Berücksichtigung als Kind im Sinne des § 32 des Einkommensteuergesetzes erfüllt;
 
-3.
+3. in welcher der Anbieter zusagt, dass zu Beginn der Auszahlungsphase zumindest die eingezahlten Altersvorsorgebeiträge für die Auszahlungsphase zur Verfügung stehen und für die Leistungserbringung genutzt werden; sofern Beitragsanteile zur Absicherung der verminderten Erwerbsfähigkeit oder Dienstunfähigkeit oder zur Hinterbliebenenabsicherung verwendet werden, sind bis zu 20 Prozent der Gesamtbeiträge in diesem Zusammenhang nicht zu berücksichtigen; das gilt auch für den Fall, dass das gebildete Kapital zu Beginn der Auszahlungsphase nach Nummer 10 Buchstabe b auf einen anderen Altersvorsorgevertrag übertragen wird;
 
-4.
+4. die monatliche Leistungen für den Vertragspartner in Form einer a)lebenslangen Leibrente oder Ratenzahlungen im Rahmen eines Auszahlungsplans mit einer anschließenden Teilkapitalverrentung ab spätestens dem 85. Lebensjahr vorsieht; die Leistungen müssen während der gesamten Auszahlungsphase gleich bleiben oder steigen; Anbieter und Vertragspartner können vereinbaren, dass bis zu zwölf Monatsleistungen in einer Auszahlung zusammengefasst werden oder eine Kleinbetragsrente nach § 93 Abs. 3 des Einkommensteuergesetzes abgefunden wird, wenn die Vereinbarungen vorsehen, dass der Vertragspartner bis vier Wochen nach der Mitteilung des Anbieters darüber, dass die Auszahlung in Form einer Kleinbetragsrentenabfindung erfolgen wird, den Beginn der Auszahlungsphase auf den 1. Januar des darauffolgenden Jahres verschieben kann; bis zu 30 Prozent des zu Beginn der Auszahlungsphase zur Verfügung stehenden Kapitals kann an den Vertragspartner außerhalb der monatlichen Leistungen ausgezahlt werden; die gesonderte Auszahlung der in der Auszahlungsphase anfallenden Zinsen und Erträge ist zulässig;b)lebenslangen Verminderung des monatlichen Nutzungsentgelts für eine vom Vertragspartner selbst genutzte Genossenschaftswohnung vorsieht oder eine zeitlich befristete Verminderung mit einer anschließenden Teilkapitalverrentung ab spätestens dem 85. Lebensjahr vorsieht; die Leistungen müssen während der gesamten Auszahlungsphase gleich bleiben oder steigen; die Ansparleistung muss in diesem Fall durch die Einzahlung auf weitere Geschäftsanteile an einer eingetragenen Genossenschaft erfolgen; die weiteren Geschäftsanteile gelten mit Beginn der Auszahlungsphase als gekündigt; Buchstabe a Teilsatz 3 bis 5 gilt entsprechend;5.die einen Erwerb weiterer Geschäftsanteile an einer eingetragenen Genossenschaft nur zulässt, wenn der Vertragspartner im Zeitpunkt des Abschlusses des Altersvorsorgevertrags sowie in den neun Monaten davor eine Genossenschaftswohnung des Anbieters durchgehend selbst genutzt hat und bei Erwerb weiterer Geschäftsanteile an einer eingetragenen Genossenschaft vorsieht, dass a)im Fall der Aufgabe der Selbstnutzung der Genossenschaftswohnung, des Ausschlusses, des Ausscheidens des Mitglieds oder der Auflösung der Genossenschaft die Möglichkeit eingeräumt wird, dass mindestens die eingezahlten Altersvorsorgebeiträge und die gutgeschriebenen Erträge auf einen vom Vertragspartner zu bestimmenden Altersvorsorgevertrag übertragen werden, undb)die auf die weiteren Geschäftsanteile entfallenden Erträge nicht ausgezahlt, sondern für den Erwerb weiterer Geschäftsanteile verwendet werden;6. und 7.(weggefallen)8.die vorsieht, dass die angesetzten Abschluss- und Vertriebskosten gleichmäßig mindestens auf die ersten fünf Vertragsjahre verteilt werden, soweit sie nicht als Prozentsatz von den Altersvorsorgebeiträgen abgezogen werden;9.(weggefallen)10.die dem Vertragspartner bis zum Beginn der Auszahlungsphase einen Anspruch gewährt, a)den Vertrag ruhen zu lassen,b)den Vertrag mit einer Frist von drei Monaten zum Ende eines Kalendervierteljahres oder zum Beginn der Auszahlungsphase zu kündigen, um das gebildete Kapital auf einen anderen auf seinen Namen lautenden Altersvorsorgevertrag mit einer Vertragsgestaltung nach diesem Absatz desselben oder eines anderen Anbieters übertragen zu lassen, oderc)mit einer Frist von drei Monaten zum Ende eines Kalendervierteljahres eine Auszahlung des gebildeten Kapitals für eine Verwendung im Sinne des § 92a des Einkommensteuergesetzes zu verlangen;soweit es sich um den Erwerb weiterer Geschäftsanteile an einer Genossenschaft handelt, gilt der erste Halbsatz mit der Maßgabe, dass die weiteren Geschäftsanteile mit einer Frist von drei Monaten zum Ende des Geschäftsjahres gekündigt werden können und die Auszahlung des auf die weiteren Geschäftsanteile entfallenden Geschäftsguthabens binnen sechs Monaten nach Wirksamwerden der Kündigung verlangt werden kann;11.die im Fall der Verminderung des monatlichen Nutzungsentgelts für eine vom Vertragspartner selbst genutzte Genossenschaftswohnung dem Vertragspartner bei Aufgabe der Selbstnutzung der Genossenschaftswohnung in der Auszahlungsphase einen Anspruch gewährt, den Vertrag mit einer Frist von nicht mehr als drei Monaten zum Ende des Geschäftsjahres zu kündigen, um spätestens binnen sechs Monaten nach Wirksamwerden der Kündigung das noch nicht verbrauchte Kapital auf einen anderen auf seinen Namen lautenden Altersvorsorgevertrag desselben oder eines anderen Anbieters übertragen zu lassen.Ein Altersvorsorgevertrag im Sinne dieses Gesetzes kann zwischen dem Anbieter und dem Vertragspartner auch auf Grundlage einer rahmenvertraglichen Vereinbarung mit einer Vereinigung geschlossen werden, wenn der begünstigte Personenkreis die Voraussetzungen des § 10a des Einkommensteuergesetzes erfüllt. Bei einer Übertragung des nach Satz 1 Nummer 10 Buchstabe b gekündigten Kapitals ist es unzulässig, dass der Anbieter des bisherigen Altersvorsorgevertrags dem Vertragspartner Kosten in Höhe von mehr als 150 Euro in Rechnung stellt. Bei der Berechnung der Abschluss- und Vertriebskosten sind vom Anbieter des neuen Altersvorsorgevertrags maximal 50 Prozent des übertragenen, im Zeitpunkt der Übertragung nach § 10a oder Abschnitt XI des Einkommensteuergesetzes geförderten Kapitals zu berücksichtigen. lebenslangen Leibrente oder Ratenzahlungen im Rahmen eines Auszahlungsplans mit einer anschließenden Teilkapitalverrentung ab spätestens dem 85. Lebensjahr vorsieht; die Leistungen müssen während der gesamten Auszahlungsphase gleich bleiben oder steigen; Anbieter und Vertragspartner können vereinbaren, dass bis zu zwölf Monatsleistungen in einer Auszahlung zusammengefasst werden oder eine Kleinbetragsrente nach § 93 Abs. 3 des Einkommensteuergesetzes abgefunden wird, wenn die Vereinbarungen vorsehen, dass der Vertragspartner bis vier Wochen nach der Mitteilung des Anbieters darüber, dass die Auszahlung in Form einer Kleinbetragsrentenabfindung erfolgen wird, den Beginn der Auszahlungsphase auf den 1. Januar des darauffolgenden Jahres verschieben kann; bis zu 30 Prozent des zu Beginn der Auszahlungsphase zur Verfügung stehenden Kapitals kann an den Vertragspartner außerhalb der monatlichen Leistungen ausgezahlt werden; die gesonderte Auszahlung der in der Auszahlungsphase anfallenden Zinsen und Erträge ist zulässig; lebenslangen Verminderung des monatlichen Nutzungsentgelts für eine vom Vertragspartner selbst genutzte Genossenschaftswohnung vorsieht oder eine zeitlich befristete Verminderung mit einer anschließenden Teilkapitalverrentung ab spätestens dem 85. Lebensjahr vorsieht; die Leistungen müssen während der gesamten Auszahlungsphase gleich bleiben oder steigen; die Ansparleistung muss in diesem Fall durch die Einzahlung auf weitere Geschäftsanteile an einer eingetragenen Genossenschaft erfolgen; die weiteren Geschäftsanteile gelten mit Beginn der Auszahlungsphase als gekündigt; Buchstabe a Teilsatz 3 bis 5 gilt entsprechend; die einen Erwerb weiterer Geschäftsanteile an einer eingetragenen Genossenschaft nur zulässt, wenn der Vertragspartner im Zeitpunkt des Abschlusses des Altersvorsorgevertrags sowie in den neun Monaten davor eine Genossenschaftswohnung des Anbieters durchgehend selbst genutzt hat und bei Erwerb weiterer Geschäftsanteile an einer eingetragenen Genossenschaft vorsieht, dass a)im Fall der Aufgabe der Selbstnutzung der Genossenschaftswohnung, des Ausschlusses, des Ausscheidens des Mitglieds oder der Auflösung der Genossenschaft die Möglichkeit eingeräumt wird, dass mindestens die eingezahlten Altersvorsorgebeiträge und die gutgeschriebenen Erträge auf einen vom Vertragspartner zu bestimmenden Altersvorsorgevertrag übertragen werden, undb)die auf die weiteren Geschäftsanteile entfallenden Erträge nicht ausgezahlt, sondern für den Erwerb weiterer Geschäftsanteile verwendet werden; im Fall der Aufgabe der Selbstnutzung der Genossenschaftswohnung, des Ausschlusses, des Ausscheidens des Mitglieds oder der Auflösung der Genossenschaft die Möglichkeit eingeräumt wird, dass mindestens die eingezahlten Altersvorsorgebeiträge und die gutgeschriebenen Erträge auf einen vom Vertragspartner zu bestimmenden Altersvorsorgevertrag übertragen werden, und die auf die weiteren Geschäftsanteile entfallenden Erträge nicht ausgezahlt, sondern für den Erwerb weiterer Geschäftsanteile verwendet werden; (weggefallen) die vorsieht, dass die angesetzten Abschluss- und Vertriebskosten gleichmäßig mindestens auf die ersten fünf Vertragsjahre verteilt werden, soweit sie nicht als Prozentsatz von den Altersvorsorgebeiträgen abgezogen werden; (weggefallen) die dem Vertragspartner bis zum Beginn der Auszahlungsphase einen Anspruch gewährt, a)den Vertrag ruhen zu lassen,b)den Vertrag mit einer Frist von drei Monaten zum Ende eines Kalendervierteljahres oder zum Beginn der Auszahlungsphase zu kündigen, um das gebildete Kapital auf einen anderen auf seinen Namen lautenden Altersvorsorgevertrag mit einer Vertragsgestaltung nach diesem Absatz desselben oder eines anderen Anbieters übertragen zu lassen, oderc)mit einer Frist von drei Monaten zum Ende eines Kalendervierteljahres eine Auszahlung des gebildeten Kapitals für eine Verwendung im Sinne des § 92a des Einkommensteuergesetzes zu verlangen;soweit es sich um den Erwerb weiterer Geschäftsanteile an einer Genossenschaft handelt, gilt der erste Halbsatz mit der Maßgabe, dass die weiteren Geschäftsanteile mit einer Frist von drei Monaten zum Ende des Geschäftsjahres gekündigt werden können und die Auszahlung des auf die weiteren Geschäftsanteile entfallenden Geschäftsguthabens binnen sechs Monaten nach Wirksamwerden der Kündigung verlangt werden kann; den Vertrag ruhen zu lassen, den Vertrag mit einer Frist von drei Monaten zum Ende eines Kalendervierteljahres oder zum Beginn der Auszahlungsphase zu kündigen, um das gebildete Kapital auf einen anderen auf seinen Namen lautenden Altersvorsorgevertrag mit einer Vertragsgestaltung nach diesem Absatz desselben oder eines anderen Anbieters übertragen zu lassen, oder mit einer Frist von drei Monaten zum Ende eines Kalendervierteljahres eine Auszahlung des gebildeten Kapitals für eine Verwendung im Sinne des § 92a des Einkommensteuergesetzes zu verlangen; die im Fall der Verminderung des monatlichen Nutzungsentgelts für eine vom Vertragspartner selbst genutzte Genossenschaftswohnung dem Vertragspartner bei Aufgabe der Selbstnutzung der Genossenschaftswohnung in der Auszahlungsphase einen Anspruch gewährt, den Vertrag mit einer Frist von nicht mehr als drei Monaten zum Ende des Geschäftsjahres zu kündigen, um spätestens binnen sechs Monaten nach Wirksamwerden der Kündigung das noch nicht verbrauchte Kapital auf einen anderen auf seinen Namen lautenden Altersvorsorgevertrag desselben oder eines anderen Anbieters übertragen zu lassen.
 
-a)
+(1a) Als Altersvorsorgevertrag gilt auch ein Vertrag,
 
-b)
+1. der für den Vertragspartner einen Rechtsanspruch auf Gewährung eines Darlehens vorsieht,
 
-5.
+2. der dem Vertragspartner einen Rechtsanspruch auf Gewährung eines Darlehens einräumt, sowie der darauf beruhende Darlehensvertrag; der Vertrag kann auch mit einer Vertragsgestaltung nach Absatz 1 zu einem einheitlichen Vertrag zusammengefasst werden,
 
-a)
+3. der dem Vertragspartner einen Rechtsanspruch auf Gewährung eines Darlehens einräumt und bei dem unwiderruflich vereinbart wird, dass dieses Darlehen durch Altersvorsorgevermögen getilgt wird, welches in einem Altersvorsorgevertrag nach Absatz 1 oder Nummer 2 gebildet wird; beide Vertragsbestandteile (Darlehensvertrag und Altersvorsorgevertrag nach Absatz 1 oder Nummer 2) gelten als einheitlicher Vertrag.
 
-b)
+(2) Anbieter eines Altersvorsorgevertrages im Sinne dieses Gesetzes sind
 
-6. und 7.
+1. mit Sitz im Inland: a)Lebensversicherungsunternehmen, soweit ihnen hierfür eine Erlaubnis nach dem Versicherungsaufsichtsgesetz vom 1. April 2015 (BGBl. I S. 434), in der jeweils geltenden Fassung erteilt worden ist,b)Kreditinstitute, die eine Erlaubnis zum Betreiben des Einlagengeschäfts im Sinne des § 1 Abs. 1 Satz 2 Nr. 1 des Kreditwesengesetzes haben,c)Bausparkassen im Sinne des Gesetzes über Bausparkassen in der Fassung der Bekanntmachung vom 15. Februar 1991 (BGBl. I S. 454), zuletzt geändert durch Artikel 13a Nr. 3 des Gesetzes vom 16. Juli 2007 (BGBl. I S. 1330), in der jeweils geltenden Fassung,d)externe Kapitalverwaltungsgesellschaften im Sinne des § 17 Absatz 2 Nummer 1 des Kapitalanlagegesetzbuchs; Lebensversicherungsunternehmen, soweit ihnen hierfür eine Erlaubnis nach dem Versicherungsaufsichtsgesetz vom 1. April 2015 (BGBl. I S. 434), in der jeweils geltenden Fassung erteilt worden ist, Kreditinstitute, die eine Erlaubnis zum Betreiben des Einlagengeschäfts im Sinne des § 1 Abs. 1 Satz 2 Nr. 1 des Kreditwesengesetzes haben, Bausparkassen im Sinne des Gesetzes über Bausparkassen in der Fassung der Bekanntmachung vom 15. Februar 1991 (BGBl. I S. 454), zuletzt geändert durch Artikel 13a Nr. 3 des Gesetzes vom 16. Juli 2007 (BGBl. I S. 1330), in der jeweils geltenden Fassung, externe Kapitalverwaltungsgesellschaften im Sinne des § 17 Absatz 2 Nummer 1 des Kapitalanlagegesetzbuchs;
 
-8.
+2. mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums: a)Lebensversicherungsunternehmen im Sinne der Richtlinie 2009/138/EG des Europäischen Parlaments und des Rates vom 25. November 2009 betreffend die Aufnahme und Ausübung der Versicherungs- und der Rückversicherungstätigkeit (Solvabilität II) (ABl. L 335 vom 17.12.2009, S. 1), die zuletzt durch die Richtlinie 2014/51/EU (ABl. L 153 vom 22.5.2014, S. 1) geändert worden ist, in der jeweils geltenden Fassung, soweit sie nach § 61 Absatz 2 und 3 des Versicherungsaufsichtsgesetzes entsprechende Geschäfte im Inland betreiben dürfen,b)Kreditinstitute im Sinne der Richtlinie 2006/48/EG des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die Aufnahme und Ausübung der Tätigkeit der Kreditinstitute (ABl. EU Nr. L 177 S. 1), zuletzt geändert durch die Richtlinie 2007/64/EG des Europäischen Parlaments und des Rates vom 13. November 2007 (ABl. EU Nr. L 319 S. 1), soweit sie nach § 53b Abs. 1 Satz 1 des Kreditwesengesetzes entsprechende Geschäfte im Inland betreiben dürfen,c)Verwaltungs- oder Investmentgesellschaften im Sinne der Richtlinie 85/611/EWG des Rates vom 20. Dezember 1985 zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) (ABl. EG Nr. L 375 S. 3), zuletzt geändert durch die Richtlinie 2005/1/EG des Europäischen Parlaments und des Rates vom 9. März 2005 (ABl. EU Nr. L 79 S. 9); Lebensversicherungsunternehmen im Sinne der Richtlinie 2009/138/EG des Europäischen Parlaments und des Rates vom 25. November 2009 betreffend die Aufnahme und Ausübung der Versicherungs- und der Rückversicherungstätigkeit (Solvabilität II) (ABl. L 335 vom 17.12.2009, S. 1), die zuletzt durch die Richtlinie 2014/51/EU (ABl. L 153 vom 22.5.2014, S. 1) geändert worden ist, in der jeweils geltenden Fassung, soweit sie nach § 61 Absatz 2 und 3 des Versicherungsaufsichtsgesetzes entsprechende Geschäfte im Inland betreiben dürfen, Kreditinstitute im Sinne der Richtlinie 2006/48/EG des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die Aufnahme und Ausübung der Tätigkeit der Kreditinstitute (ABl. EU Nr. L 177 S. 1), zuletzt geändert durch die Richtlinie 2007/64/EG des Europäischen Parlaments und des Rates vom 13. November 2007 (ABl. EU Nr. L 319 S. 1), soweit sie nach § 53b Abs. 1 Satz 1 des Kreditwesengesetzes entsprechende Geschäfte im Inland betreiben dürfen, Verwaltungs- oder Investmentgesellschaften im Sinne der Richtlinie 85/611/EWG des Rates vom 20. Dezember 1985 zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) (ABl. EG Nr. L 375 S. 3), zuletzt geändert durch die Richtlinie 2005/1/EG des Europäischen Parlaments und des Rates vom 9. März 2005 (ABl. EU Nr. L 79 S. 9);
 
-9.
+3. mit Sitz außerhalb des Europäischen Wirtschaftsraums, soweit die Zweigstellen die Voraussetzungen des § 67 des Versicherungsaufsichtsgesetzes oder des § 53, auch in Verbindung mit § 53c, des Kreditwesengesetzes erfüllen, inländische Zweigstellen von Lebensversicherungsunternehmen oder Kreditinstituten, die eine Erlaubnis zum Betreiben des Einlagengeschäfts im Sinne von § 1 Abs. 1 Satz 2 Nr. 1 des Kreditwesengesetzes haben;
 
-10.
-
-a)
-
-b)
-
-c)
-
-11.
-
-(1a) Als Altersvorsorgevertrag gilt auch ein Vertrag, Das Darlehen ist für eine wohnungswirtschaftliche Verwendung im Sinne des § 92a Abs. 1 Satz 1 des Einkommensteuergesetzes einzusetzen und ist spätestens bis zur Vollendung des 68. Lebensjahres des Vertragspartners zu tilgen. Absatz 1 Satz 1 Nr. 8 gilt entsprechend.
-
-1.
-
-2.
-
-3.
-
-(2) Anbieter eines Altersvorsorgevertrages im Sinne dieses Gesetzes sind Finanzdienstleistungsinstitute, Wertpapierinstitute sowie Kreditinstitute mit Sitz im Inland, die keine Erlaubnis zum Betreiben des Einlagengeschäfts im Sinne des § 1 Abs. 1 Satz 2 Nr. 1 des Kreditwesengesetzes haben, und Wertpapierdienstleistungsunternehmen im Sinne der Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates vom 21. April 2004 über Märkte für Finanzinstrumente, zur Änderung der Richtlinien 85/611/EWG und 93/6/EWG des Rates und der Richtlinie 2000/12/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 93/22/EWG des Rates (ABl. EU Nr. L 145 S. 1, 2005 Nr. L 45 S. 18), zuletzt geändert durch die Richtlinie 2007/44/EG des Europäischen Parlaments und des Rates vom 5. September 2007 (ABl. EU Nr. L 247 S. 1), mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums können Anbieter sein, wenn sie
-
-1.
-
-a)
-
-b)
-
-c)
-
-d)
-
-2.
-
-a)
-
-b)
-
-c)
-
-3.
-
-4.
-
-a)
-
-b)
-
-c)
-
-1.
-
-2.
-
-3.
+4. in das Genossenschaftsregister eingetragene Genossenschaften, a)bei denen nach einer gutachterlichen Äußerung des Prüfungsverbands, von dem die Genossenschaft geprüft wird, keine Feststellungen zur Einschränkung der Ordnungsmäßigkeit der Geschäftsführung zu treffen sind, keine Tatsachen vorliegen, die den Bestand der Genossenschaft gefährden oder ihre Entwicklung wesentlich beeinträchtigen könnten und keine Anhaltspunkte dafür vorliegen, dass die von der Genossenschaft abgeschlossenen Altersvorsorgeverträge nicht ordnungsgemäß erfüllt werden,b)die entweder eine Erlaubnis nach dem Kreditwesengesetz besitzen oder wenn sie Leistungen nach Absatz 1 Satz 1 Nr. 4 Buchstabe b anbieten, deren Satzungszweck ist, ihren Mitgliedern Wohnraum zur Verfügung zu stellen, und die Erfüllung der Verpflichtungen nach Absatz 1 Satz 1 Nr. 3 und 10 durch eine Versicherung bei einem im Geltungsbereich dieses Gesetzes zum Geschäftsbetrieb befugten Versicherungsunternehmen oder durch ein Zahlungsversprechen eines im Geltungsbereich dieses Gesetzes zum Geschäftsbetrieb befugten Kreditinstituts oder durch eine Sicherung nach § 7d Satz 5 gesichert ist; die Sicherung kann auf 20 000 Euro pro Vertrag begrenzt werden; undc)deren Satzung zum einen eine Beteiligung mit mehreren Geschäftsanteilen erlaubt und zum anderen für Mitglieder, die weitere Geschäftsanteile zum Zwecke der Durchführung eines Altersvorsorgevertrages angeschafft haben, hinsichtlich dieser weiteren Geschäftsanteile keine Verpflichtung zu Nachschüssen zur Insolvenzmasse oder zu weiteren Einzahlungen nach § 87a Abs. 2 des Genossenschaftsgesetzes oder zur Verlustzuschreibung im Sinne des § 19 Absatz 1 des Genossenschaftsgesetzes sowie keine längere Kündigungsfrist als die des § 65 Abs. 2 Satz 1 des Genossenschaftsgesetzes und keine abweichenden Regelungen für die Auszahlung des Auseinandersetzungsguthabens im Sinne des § 73 Abs. 4 des Genossenschaftsgesetzes vorsieht; das Vorliegen dieser Voraussetzungen ist durch den Prüfungsverband, von dem die Genossenschaft geprüft wird, zu bestätigen. bei denen nach einer gutachterlichen Äußerung des Prüfungsverbands, von dem die Genossenschaft geprüft wird, keine Feststellungen zur Einschränkung der Ordnungsmäßigkeit der Geschäftsführung zu treffen sind, keine Tatsachen vorliegen, die den Bestand der Genossenschaft gefährden oder ihre Entwicklung wesentlich beeinträchtigen könnten und keine Anhaltspunkte dafür vorliegen, dass die von der Genossenschaft abgeschlossenen Altersvorsorgeverträge nicht ordnungsgemäß erfüllt werden, die entweder eine Erlaubnis nach dem Kreditwesengesetz besitzen oder wenn sie Leistungen nach Absatz 1 Satz 1 Nr. 4 Buchstabe b anbieten, deren Satzungszweck ist, ihren Mitgliedern Wohnraum zur Verfügung zu stellen, und die Erfüllung der Verpflichtungen nach Absatz 1 Satz 1 Nr. 3 und 10 durch eine Versicherung bei einem im Geltungsbereich dieses Gesetzes zum Geschäftsbetrieb befugten Versicherungsunternehmen oder durch ein Zahlungsversprechen eines im Geltungsbereich dieses Gesetzes zum Geschäftsbetrieb befugten Kreditinstituts oder durch eine Sicherung nach § 7d Satz 5 gesichert ist; die Sicherung kann auf 20 000 Euro pro Vertrag begrenzt werden; und deren Satzung zum einen eine Beteiligung mit mehreren Geschäftsanteilen erlaubt und zum anderen für Mitglieder, die weitere Geschäftsanteile zum Zwecke der Durchführung eines Altersvorsorgevertrages angeschafft haben, hinsichtlich dieser weiteren Geschäftsanteile keine Verpflichtung zu Nachschüssen zur Insolvenzmasse oder zu weiteren Einzahlungen nach § 87a Abs. 2 des Genossenschaftsgesetzes oder zur Verlustzuschreibung im Sinne des § 19 Absatz 1 des Genossenschaftsgesetzes sowie keine längere Kündigungsfrist als die des § 65 Abs. 2 Satz 1 des Genossenschaftsgesetzes und keine abweichenden Regelungen für die Auszahlung des Auseinandersetzungsguthabens im Sinne des § 73 Abs. 4 des Genossenschaftsgesetzes vorsieht; das Vorliegen dieser Voraussetzungen ist durch den Prüfungsverband, von dem die Genossenschaft geprüft wird, zu bestätigen.
 
 (3) Die Zertifizierung eines Altersvorsorgevertrages nach diesem Gesetz ist die Feststellung, dass die Vertragsbedingungen des Altersvorsorgevertrages dem Absatz 1, 1a oder beiden Absätzen sowie dem § 2a entsprechen und der Anbieter den Anforderungen des Absatzes 2 entspricht. Eine Zertifizierung im Sinne des § 4 Abs. 2 Satz 1 stellt ausschließlich die Übereinstimmung des Vertrages mit den Anforderungen des Absatzes 1 oder 1a oder beiden sowie des § 2a fest.
 
 (4) (weggefallen)
 
-(5) Gebildetes Kapital im Sinne dieses Gesetzes ist Abzüge, soweit sie nicht in diesem Gesetz vorgesehen sind, sind nicht zulässig. In Bezug auf § 2a Satz 1 Nummer 1 Buchstabe b ist nur das für die Leistungserbringung unwiderruflich zugeteilte Kapital zu berücksichtigen.
+(5) Gebildetes Kapital im Sinne dieses Gesetzes ist
 
-a)
+a) bei Versicherungsverträgen das nach den anerkannten Regeln der Versicherungsmathematik mit den Rechnungsgrundlagen der Beitragskalkulation berechnete Deckungskapital der Versicherung zuzüglich bereits zugeteilter Überschussanteile, des übertragungsfähigen Werts aus Schlussüberschussanteilen sowie der nach § 153 Abs. 1 und 3 des Versicherungsvertragsgesetzes zuzuteilenden Bewertungsreserven, § 169 Abs. 6 des Versicherungsvertragsgesetzes gilt entsprechend; bei fondsgebundenen Versicherungen und anderen Versicherungen, die Leistungen der in § 124 Absatz 2 des Versicherungsaufsichtsgesetzes bezeichneten Art vorsehen, abweichend hiervon die Summe aus dem vorhandenen Wert der Anteilseinheiten und der im sonstigen Vermögen angelegten verzinsten Beitrags- und Zulagenteile, abzüglich der tariflichen Kosten, zuzüglich zugeteilter Überschussanteile, des übertragungsfähigen Werts aus Schlussüberschussanteilen und der nach § 153 Abs. 1 und 3 des Versicherungsvertragsgesetzes zuzuteilenden Bewertungsreserven,
 
-b)
+b) bei Investmentsparverträgen der Wert der Fondsanteile zum Stichtag,
 
-c)
+c) bei Sparverträgen der Wert des Guthabens einschließlich der bis zum Stichtag entstandenen, aber noch nicht fälligen Zinsen,
 
-d)
+d) bei Geschäftsanteilen an einer Genossenschaft der jeweilige Anschaffungspreis; bei Verträgen nach Absatz 1a Satz 1 Nummer 3 jeweils abzüglich des Darlehens, soweit es noch nicht getilgt ist.
 
 > (+++ § 1: Zur Anwendung d. Änderungen d. Art. 2 Nr. 1 G v. 24.6.2013 I 1667 vgl. § 14 Abs. 6 +++)
 
@@ -110,15 +58,15 @@ d)
 
 (1a) Ein Basisrentenvertrag im Sinne dieses Gesetzes liegt auch vor, wenn zwischen dem Anbieter und einer natürlichen Person (Vertragspartner) eine Vereinbarung in deutscher Sprache geschlossen wird, die die Voraussetzungen des § 10 Absatz 1 Nummer 2 Buchstabe b Doppelbuchstabe bb des Einkommensteuergesetzes erfüllt und bei der vorgesehen ist, dass der Anbieter
 
-1.
+1. eine teilweise Erwerbsminderung anerkennt, wenn ärztlich prognostiziert wird, dass der Vertragspartner wegen Krankheit, Körperverletzung oder Behinderung voraussichtlich für mindestens zwölf Monate außerstande ist, unter den üblichen Bedingungen des allgemeinen Arbeitsmarktes mindestens sechs Stunden täglich erwerbstätig zu sein oder eine volle Erwerbsminderung anerkennt, wenn ärztlich prognostiziert wird, dass der Vertragspartner wegen Krankheit, Körperverletzung oder Behinderung voraussichtlich für mindestens zwölf Monate außerstande ist, unter den üblichen Bedingungen des allgemeinen Arbeitsmarktes mindestens drei Stunden täglich erwerbstätig zu sein; die versicherte Leistung ist bei einer teilweisen Erwerbsminderung mindestens zur Hälfte und bei voller Erwerbsminderung in voller Höhe zu erbringen;
 
-2.
+2. von dem Kalendermonat an leistet, zu dessen Beginn die teilweise oder volle Erwerbsminderung eingetreten ist, wenn die Leistung bis zum Ende des 36. Kalendermonats nach Ablauf des Monats des Eintritts der teilweisen oder vollen Erwerbsminderung beantragt wird; wird der Antrag zu einem späteren Zeitpunkt gestellt, ist die Leistung ab dem Kalendermonat zu gewähren, der 36 Monate vor dem Monat der Beantragung liegt;
 
-3.
+3. auf Antrag des Vertragspartners die Beiträge für die Absicherung der teilweisen oder vollen Erwerbsminderung ab dem Zeitpunkt der Geltendmachung der Ansprüche auf eine teilweise oder volle Erwerbsminderung bis zur endgültigen Entscheidung über die Leistungspflicht zinslos und ohne andere Auflagen stundet;
 
-4.
+4. für die Absicherung der teilweisen oder vollen Erwerbsminderung auf das Kündigungsrecht nach § 19 Absatz 3 Satz 2 und das Abänderungsrecht nach § 19 Absatz 4 des Versicherungsvertragsgesetzes verzichtet, wenn der Vertragspartner seine Anzeigepflicht schuldlos verletzt hat; und
 
-5.
+5. die medizinische Mitwirkungspflicht des Vertragspartners zur Feststellung und nach der Feststellung der teilweisen oder vollen Erwerbsminderung auf zumutbare und medizinisch indizierte ärztliche Untersuchungs- und Behandlungsleistungen beschränkt.
 
 (2) Anbieter eines Basisrentenvertrags im Sinne dieses Gesetzes sind die Anbieter im Sinne des § 1 Abs. 2, einschließlich der Pensionskassen im Sinne des § 232 des Versicherungsaufsichtsgesetzes, sowie der Pensionsfonds im Sinne des § 236 des Versicherungsaufsichtsgesetzes.
 
@@ -130,35 +78,11 @@ d)
 
 ### § 2a — Kostenstruktur
 
-Ein Altersvorsorgevertrag oder ein Basisrentenvertrag darf ausschließlich die nachfolgend genannten Kostenarten vorsehen: Von Satz 1 bleiben unberührt § 125 des Investmentgesetzes ist für Altersvorsorgeverträge nicht anzuwenden.
+Ein Altersvorsorgevertrag oder ein Basisrentenvertrag darf ausschließlich die nachfolgend genannten Kostenarten vorsehen:
 
-1.
+1. Abschluss- und Vertriebskosten sowie Verwaltungskosten nebeneinander in den folgenden Formen: a)als jährlich oder monatlich anfallende Kosten in Euro;b)als Prozentsatz des gebildeten Kapitals;c)als Prozentsatz der vereinbarten Bausparsumme oder des vereinbarten Darlehensbetrags;d)als Prozentsatz der eingezahlten oder vereinbarten Beiträge oder Tilgungsleistungen;e)als Prozentsatz des Stands des Wohnförderkontos;f)ab Beginn der Auszahlungsphase als Prozentsatz der gezahlten Leistung; als jährlich oder monatlich anfallende Kosten in Euro; als Prozentsatz des gebildeten Kapitals; als Prozentsatz der vereinbarten Bausparsumme oder des vereinbarten Darlehensbetrags; als Prozentsatz der eingezahlten oder vereinbarten Beiträge oder Tilgungsleistungen; als Prozentsatz des Stands des Wohnförderkontos; ab Beginn der Auszahlungsphase als Prozentsatz der gezahlten Leistung;
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-2.
-
-a)
-
-b)
-
-c)
-
-1.
-
-2.
-
-3.
+2. folgende anlassbezogene Kosten: a)für eine Vertragskündigung mit Vertragswechsel oder Auszahlung;b)für eine Verwendung des gebildeten Kapitals im Sinne des § 92a des Einkommensteuergesetzes;c)für Aufgaben im Zusammenhang mit dem Versorgungsausgleich des Vertragspartners. für eine Vertragskündigung mit Vertragswechsel oder Auszahlung; für eine Verwendung des gebildeten Kapitals im Sinne des § 92a des Einkommensteuergesetzes; für Aufgaben im Zusammenhang mit dem Versorgungsausgleich des Vertragspartners.
 
 > (+++ § 2a: Zur Anwendung vgl. § 14 Abs. 6 +++)
 
@@ -184,17 +108,17 @@ c)
 
 (1) Die Zertifizierung erfolgt auf Antrag des Anbieters. Mit dem Antrag sind vorzulegen:
 
-1.
+1. Unterlagen, die belegen, dass die Vertragsbedingungen nach § 1 Abs. 3 oder § 2 Abs. 3 zertifizierbar sind;
 
-2.
+2. eine Bescheinigung der zuständigen Aufsichtsbehörde über den Umfang der Erlaubnis und bei Unternehmen im Sinne des § 1 Absatz 2 Satz 2 zusätzlich über den Umfang der Aufsicht und die Höhe des Anfangskapitals (§ 1 Absatz 2 Satz 2 Nr. 1 und 2); bei einem Anbieter im Sinne des § 1 Abs. 2 Satz 1 Nr. 4 sind anstelle der Bescheinigung ein Registerauszug, die Satzung und die gutachterliche Äußerung des Prüfungsverbands nach § 1 Abs. 2 Satz 1 Nr. 4 beizufügen.
 
 (2) Auf Antrag eines Spitzenverbandes der in § 1 Abs. 2 genannten Anbieter kann die Zertifizierung eines ausschließlich als Muster verwendbaren Vertrages erfolgen. Mit dem Antrag sind die Unterlagen vorzulegen, die belegen, dass die Vertragsbedingungen des Mustervertrags nach § 1 Abs. 3 oder § 2 Abs. 3 zertifizierbar sind.
 
-(3) Ein Spitzenverband der in § 1 Abs. 2 genannten Anbieter kann als Bevollmächtigter seiner Mitgliedsunternehmen für diese die Anträge nach Absatz 1 stellen. Von der Vorlage der Unterlagen nach Der Bevollmächtigte hat auf Verlangen der Zertifizierungsstelle seine Vollmacht schriftlich nachzuweisen sowie die Unterlagen nach Absatz 1 Satz 2 Nr. 1 und 2 vorzulegen.
+(3) Ein Spitzenverband der in § 1 Abs. 2 genannten Anbieter kann als Bevollmächtigter seiner Mitgliedsunternehmen für diese die Anträge nach Absatz 1 stellen. Von der Vorlage der Unterlagen nach
 
-1.
+1. Absatz 1 Satz 2 Nr. 1 kann abgesehen werden, wenn es sich bei dem Vertrag um einen bereits zertifizierten Mustervertrag nach Absatz 2 handelt;
 
-2.
+2. Absatz 1 Satz 2 Nr. 2 kann abgesehen werden, wenn der Spitzenverband schriftlich versichert, dass ihm für sein Mitgliedsunternehmen die dort genannte Bescheinigung vorliegt.
 
 (4) Die Gebühr nach § 12 ist bei Stellung des Antrags zu entrichten.
 
@@ -218,47 +142,37 @@ Zum Schutz der Verbraucher, insbesondere zur besseren Vergleichbarkeit der Produ
 
 ### § 7 — Informationspflichten im Produktinformationsblatt
 
-(1) Der Anbieter eines Altersvorsorge- oder Basisrentenvertrags hat den Vertragspartner rechtzeitig durch ein individuelles Produktinformationsblatt zu informieren, spätestens jedoch, bevor dieser seine Vertragserklärung abgibt. Das individuelle Produktinformationsblatt muss folgende Angaben enthalten: Sieht der Vertrag eine ergänzende Absicherung der Berufsunfähigkeit, der verminderten Erwerbsfähigkeit oder Dienstunfähigkeit oder eine zusätzliche Absicherung von Hinterbliebenen vor, muss das individuelle Produktinformationsblatt zusätzlich folgende Angaben enthalten: Satz 2 Nummer 7 und 10 bis 13 gilt nicht für Satz 2 Nummer 7, 8, 10 und 13 gilt nicht für Basisrentenverträge nach § 10 Absatz 1 Nummer 2 Buchstabe b Doppelbuchstabe bb des Einkommensteuergesetzes. Die nach diesem Absatz notwendigen Kostenangaben treten bei Versicherungsverträgen an die Stelle der Kostenangaben gemäß § 2 Absatz 1 Nummer 1 und 2 der VVG-Informationspflichtenverordnung. Erfolgt der Vertragsabschluss nicht zeitnah zur Information durch das individuelle Produktinformationsblatt, muss der Anbieter den Vertragspartner nur auf dessen Antrag oder bei einer zwischenzeitlichen Änderung der im Produktinformationsblatt ausgewiesenen Kosten durch ein neues individuelles Produktinformationsblatt informieren.
+(1) Der Anbieter eines Altersvorsorge- oder Basisrentenvertrags hat den Vertragspartner rechtzeitig durch ein individuelles Produktinformationsblatt zu informieren, spätestens jedoch, bevor dieser seine Vertragserklärung abgibt. Das individuelle Produktinformationsblatt muss folgende Angaben enthalten:
 
-1.
+1. die Produktbezeichnung;
 
-2.
+2. die Benennung des Produkttyps und eine kurze Produktbeschreibung;
 
-3.
+3. die Zertifizierungsnummer;
 
-4.
+4. bei Altersvorsorgeverträgen die Empfehlung, vor Abschluss des Vertrags die Förderberechtigung zu prüfen;
 
-5.
+5. den vollständigen Namen des Anbieters nach § 1 Absatz 2 oder § 2 Absatz 2;
 
-6.
+6. die wesentlichen Bestandteile des Vertrags;
 
-7.
+7. die auf Wahrscheinlichkeitsrechnungen beruhende Einordnung in Chancen-Risiko-Klassen;
 
-8.
+8. bei Altersvorsorgeverträgen in Form eines Darlehens und bei Altersvorsorgeverträgen im Sinne des § 1 Absatz 1a Nummer 3 die die Angabe des Nettodarlehensbetrags, der Gesamtkosten, ausgedrückt als jährlicher Prozentsatz des Nettodarlehensbetrags nach § 16 Absatz 1 der Preisangabenverordnung, und des Gesamtdarlehensbetrags;
 
-9.
+9. eine Aufstellung der Kosten nach § 2a Satz 1 Nummer 1 Buchstabe a bis f sowie § 2a Satz 1 Nummer 2 Buchstabe a bis c, getrennt für jeden Gliederungspunkt; soweit die Angaben zu § 2a Satz 1 Nummer 1 Buchstabe f noch nicht feststehen, muss ein Hinweis hierauf erfolgen. Auf Kosten nach § 2a Satz 2, die vertragstypisch sind, muss hingewiesen werden. Kosten nach § 2a Satz 1, die im individuellen Produktinformationsblatt nicht ausgewiesen sind oder auf die nicht hingewiesen wurde, sind vom Vertragspartner nicht geschuldet;
 
-10.
+10. Angaben zum Preis-Leistungs-Verhältnis;
 
-11.
+11. bei Basisrentenverträgen nach § 10 Absatz 1 Nummer 2 Buchstabe b Doppelbuchstabe bb des Einkommensteuergesetzes die garantierte monatliche Leistung;
 
-12.
+12. einen Hinweis auf die einschlägige Einrichtung der Insolvenzsicherung und den Umfang des insoweit gewährten Schutzes;
 
-13.
+13. Informationen zum Anbieterwechsel und zur Kündigung des Vertrags;
 
-14.
+14. Hinweise zu den Möglichkeiten und Folgen einer Beitragsfreistellung oder Tilgungsaussetzung und
 
-15.
-
-1.
-
-2.
-
-3.
-
-1.
-
-2.
+15. den Stand des Produktinformationsblatts.
 
 (2) Das individuelle Produktinformationsblatt ersetzt das Informationsblatt zu Versicherungsprodukten nach § 4 der VVG-Informationspflichtenverordnung in der jeweils geltenden Fassung. Eine Modellrechnung nach § 154 des Versicherungsvertragsgesetzes ist für zertifizierte Altersvorsorgeverträge und für zertifizierte Basisrentenverträge nicht durchzuführen. Diese darf dem individuellen Produktinformationsblatt auch nicht zusätzlich beigefügt werden. Der rechtzeitige Zugang des individuellen Produktinformationsblatts muss nachgewiesen werden können. Das Produktinformationsblatt ist dem Vertragspartner kostenlos bereitzustellen.
 
@@ -274,37 +188,37 @@ Zum Schutz der Verbraucher, insbesondere zur besseren Vergleichbarkeit der Produ
 
 ### § 7a — Jährliche Informationspflicht
 
-(1) Der Anbieter eines Altersvorsorge- oder Basisrentenvertrags ist verpflichtet, den Vertragspartner jährlich bis zum Ablauf des auf das Beitragsjahr folgenden Jahres schriftlich über folgende Punkte zu informieren: Im Rahmen der jährlichen Informationspflicht muss der Anbieter eines Altersvorsorge- oder Basisrentenvertrags auch darüber schriftlich informieren, ob und wie ethische, soziale und ökologische Belange bei der Verwendung der eingezahlten Beiträge berücksichtigt werden. Der Anbieter kann dem Vertragspartner mit dessen Einverständnis die Informationen nach den Sätzen 1 und 2 elektronisch bereitstellen.
+(1) Der Anbieter eines Altersvorsorge- oder Basisrentenvertrags ist verpflichtet, den Vertragspartner jährlich bis zum Ablauf des auf das Beitragsjahr folgenden Jahres schriftlich über folgende Punkte zu informieren:
 
-1.
+1. die Verwendung der eingezahlten Beiträge;
 
-2.
+2. die Höhe des gebildeten Kapitals;
 
-3.
+3. die im abgelaufenen Beitragsjahr angefallenen tatsächlichen Kosten;
 
-4.
+4. die erwirtschafteten Erträge;
 
-5.
+5. bis zum Beginn der Auszahlungsphase das nach Abzug der Kosten zu Beginn der Auszahlungsphase voraussichtlich zur Verfügung stehende Kapital; für die Berechnung sind die in der Vergangenheit tatsächlich gezahlten Beiträge und die in dem vor Vertragsabschluss zur Verfügung gestellten individuellen Produktinformationsblatt genannten Wertentwicklungen nach § 7 Absatz 1 Satz 2 Nummer 10 zugrunde zu legen; bei Altersvorsorge- und Basisrentenverträgen, die abgeschlossen wurden, um Anrechte auf Grund einer internen Teilung nach § 10 des Versorgungsausgleichsgesetzes zu übertragen, sind die in dem vor Vertragsabschluss zur Verfügung gestellten individuellen Produktinformationsblatt der ausgleichspflichtigen Person genannten Wertentwicklungen nach § 7 Absatz 1 Satz 2 Nummer 10 zugrunde zu legen.
 
-(2) Absatz 1 Nummer 2, 4 und 5 gilt nicht Absatz 1 Satz 1 Nummer 5 gilt nicht für Verträge, die vor dem in § 14 Absatz 6 Satz 2 genannten Anwendungszeitpunkt abgeschlossen wurden.
+(2) Absatz 1 Nummer 2, 4 und 5 gilt nicht
 
-1.
+1. für Basisrentenverträge nach § 10 Absatz 1 Nummer 2 Buchstabe b Doppelbuchstabe bb des Einkommensteuergesetzes,
 
-2.
+2. für Altersvorsorgeverträge in Form eines Darlehens,
 
-3.
+3. für Altersvorsorgeverträge im Sinne des § 1 Absatz 1a Nummer 3 oder,
 
-4.
+4. sofern bereits eine Zuteilung des Bausparvertrags erfolgt ist.
 
 > (+++ § 7a: Zur Anwendung vgl. § 14 Abs. 6 +++)
 
 ### § 7b — Information vor der Auszahlungsphase des Altersvorsorgevertrags
 
-(1) Sind aus einem Altersvorsorgevertrag Leistungen nach § 1 Absatz 1 Satz 1 Nummer 4 zu erbringen, hat ein Anbieter von Altersvorsorgeverträgen den Vertragspartner frühestens zwei Jahre vor Beginn der vertraglich vereinbarten Auszahlungsphase schriftlich über folgende Punkte zu informieren: Ist kein Beginn der Auszahlungsphase vereinbart, so gilt für Altersvorsorgeverträge, die nach dem 31. Dezember 2011 abgeschlossen wurden, die Vollendung des 62. Lebensjahres als Beginn der Auszahlungsphase, im Übrigen die Vollendung des 60. Lebensjahres. Der Vertragspartner ist dann vom Anbieter im Rahmen der Mitteilung nach Satz 1 darüber zu informieren, dass ein tatsächlicher Beginn der Auszahlungsphase nicht vereinbart wurde. Sofern ein Anbieter von Altersvorsorgeverträgen bereit ist, nach § 1 Absatz 1 Satz 1 Nummer 10 Buchstabe b übertragenes Altersvorsorgevermögen anzunehmen, muss er dem Anleger auf Verlangen die Information nach Satz 1 und gegebenenfalls Satz 3 zur Verfügung stellen, wenn bis zum Beginn der Auszahlungsphase weniger als zwei Jahre verbleiben. Dieser Information sind der vom Anleger angegebene Übertragungswert und Übertragungszeitpunkt zugrunde zu legen. Der Anbieter kann dem Vertragspartner mit dessen Einverständnis die Informationen nach den Sätzen 1 und 3 elektronisch bereitstellen.
+(1) Sind aus einem Altersvorsorgevertrag Leistungen nach § 1 Absatz 1 Satz 1 Nummer 4 zu erbringen, hat ein Anbieter von Altersvorsorgeverträgen den Vertragspartner frühestens zwei Jahre vor Beginn der vertraglich vereinbarten Auszahlungsphase schriftlich über folgende Punkte zu informieren:
 
-1.
+1. die Form und Höhe der vorgesehenen Auszahlungen einschließlich Aussagen zu einer Dynamisierung der monatlichen Leistungen sowie
 
-2.
+2. die in der Auszahlungsphase anfallenden Kosten; Kosten nach § 2a Satz 1, die im Rahmen dieser Information nicht ausgewiesen sind oder auf die nicht hingewiesen wurde, sind vom Vertragspartner nicht geschuldet.
 
 (2) Die Information durch den Anbieter muss spätestens drei Monate vor Beginn der vertraglich vereinbarten Auszahlungsphase erfolgen. Sofern ein Anbieter von Altersvorsorgeverträgen den Vertragspartner nicht spätestens neun Monate vor Beginn der vertraglich vereinbarten Auszahlungsphase gemäß Absatz 1 informiert, hat der Vertragspartner das Recht, den Altersvorsorgevertrag zum Beginn der Auszahlungsphase bis spätestens drei Monate vor dem Beginn zu kündigen, um das gebildete Kapital nach § 1 Absatz 1 Satz 1 Nummer 10 Buchstabe b übertragen zu lassen. Erfolgt sie später als sechs Monate vor Beginn der Auszahlungsphase, hat der Vertragspartner das Recht, den Altersvorsorgevertrag zum Beginn der Auszahlungsphase mit einer Frist von 14 Tagen zu kündigen, um das gebildete Kapital nach § 1 Absatz 1 Satz 1 Nummer 10 Buchstabe b übertragen zu lassen. Absatz 1 Satz 2 und 3 gilt entsprechend. Abweichend von den Sätzen 1 bis 4 muss die Information für Verträge, die längstens drei Monate vor Beginn der vertraglich vereinbarten Auszahlungsphase beginnen, spätestens zu Beginn der vertraglich vereinbarten Auszahlungsphase erfolgen. Die vertraglich vereinbarten Kündigungsfristen bleiben in diesen Fällen unberührt.
 
@@ -360,25 +274,25 @@ Die Zertifizierungsstelle macht die Zertifizierung sowie den Widerruf, die Rück
 
 (1) Die bei der Zertifizierungsbehörde beschäftigten oder von ihr beauftragen Personen dürfen bei ihrer Tätigkeit erhaltene vertrauliche Informationen nicht unbefugt offenbaren oder verwerten, auch wenn sie nicht mehr im Dienst sind oder ihre Tätigkeit beendet ist (Schweigepflicht). Dies gilt auch für andere Personen, die durch dienstliche Berichterstattung Kenntnis von den in Satz 1 bezeichneten Tatsachen erhalten.
 
-(2) Ein unbefugtes Offenbaren oder Verwerten im Sinne des Absatzes 1 liegt insbesondere nicht vor, wenn Tatsachen weitergegeben werden an soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen. Für die bei diesen Stellen beschäftigten Personen gilt die Verschwiegenheitspflicht nach Absatz 1 Satz 1 entsprechend.
+(2) Ein unbefugtes Offenbaren oder Verwerten im Sinne des Absatzes 1 liegt insbesondere nicht vor, wenn Tatsachen weitergegeben werden an
 
-1.
+1. kraft Gesetzes oder im öffentlichen Auftrag mit der Überwachung oder Prüfung von Versicherungsunternehmen, Kreditinstituten, Finanzdienstleistungsinstituten, Wertpapierinstitute, Investmentgesellschaften, Genossenschaften oder Bausparkassen betraute Stellen sowie von diesen beauftragte Personen,
 
-2.
+2. andere Finanzbehörden oder
 
-3.
+3. den Prüfungsverband, der die Genossenschaft prüft, bei einem Anbieter im Sinne des § 1 Abs. 2 Satz 1 Nr. 4,
 
 (3) (weggefallen)
 
-(4) Sofern personenbezogene Daten verarbeitet werden, gelten vorbehaltlich des Rechts der Europäischen Union, insbesondere der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung, die Vorschriften der Abgabenordnung.
+(4) Sofern personenbezogene Daten verarbeitet werden, gelten vorbehaltlich des Rechts der Europäischen Union, insbesondere der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung, die Vorschriften der Abgabenordnung.
 
 ### § 12 — Gebühren
 
-(1) Die Zertifizierungsstelle erhebt für die Bearbeitung eines Antrags, einen Altersvorsorgevertrag oder einen Basisrentenvertrag zu zertifizieren, Gebühren in Höhe von 5 000 Euro. Für Anbieter, die ihrem Antrag nach § 4 Absatz 1 einen zertifizierten Vertrag eines Spitzenverbands zugrunde legen, beträgt die Gebühr 500 Euro, wenn Für Anträge nach § 4 Abs. 3 Satz 1 und 2 beträgt die Gebühr 250 Euro.
+(1) Die Zertifizierungsstelle erhebt für die Bearbeitung eines Antrags, einen Altersvorsorgevertrag oder einen Basisrentenvertrag zu zertifizieren, Gebühren in Höhe von 5 000 Euro. Für Anbieter, die ihrem Antrag nach § 4 Absatz 1 einen zertifizierten Vertrag eines Spitzenverbands zugrunde legen, beträgt die Gebühr 500 Euro, wenn
 
-1.
+1. der Vertrag des Anbieters hinsichtlich der Anforderungen des § 1 Absatz 1 oder Absatz 1a oder des § 2 Absatz 1 oder Absatz 1a sowie des § 2a von dem zertifizierten Muster in Reihenfolge und Inhalt nicht abweicht und
 
-2.
+2. der Anbieter bei seinem Antrag zusätzlich die Zertifizierungsstelle mit ihrer Postanschrift, die Zertifizierungsnummer und das Datum, zu dem die Zertifizierung wirksam geworden ist, mitteilt.
 
 (2) Die Gebühr ist durch schriftlichen Bescheid gegenüber dem Antragsteller festzusetzen; Bekanntgabevollmachten sind zu beachten. Der Antragsteller hat die Gebühr innerhalb eines Monats nach Bekanntgabe dieses Bescheides zu entrichten. Auf die Gebühr sind die Vorschriften der Abgabenordnung sinngemäß anzuwenden. Die Gebührenfestsetzung kann nach den §§ 129 bis 131 der Abgabenordnung korrigiert werden. Gegen die Gebührenfestsetzung ist der Einspruch gegeben.
 
@@ -388,11 +302,11 @@ Die Zertifizierungsstelle macht die Zertifizierung sowie den Widerruf, die Rück
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 7 Absatz 1 Satz 1, § 7a Absatz 1 oder § 7b Absatz 1 Satz 1, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 6 Satz 1, eine Information nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig gibt,
 
-2.
+2. entgegen § 7 Absatz 4 Satz 1, auch in Verbindung mit einer Rechtsverordnung nach § 6 Satz 1, ein Muster-Produktinformationsblatt nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstellt oder
 
-3.
+3. entgegen § 7c Satz 1 erster Halbsatz, auch in Verbindung mit einer Rechtsverordnung nach § 6 Satz 1, eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 2 mit einer Geldbuße bis zu zehntausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 

@@ -25,17 +25,17 @@ der Berufsausbildung
 
 (1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach dieser Verordnung und die Ausbildung in der Berufsschule nach den landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr erfolgen.
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die  insbesondere selbständiges Planen, Durchführen und Kontrollieren an seinem Arbeitsplatz einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 9 und 10 nachzuweisen.
+(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren an seinem Arbeitsplatz einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 9 und 10 nachzuweisen.
 
 ### § 4 — Gliederung der Berufsausbildung
 
 (1) In der Berufsausbildung sind in überbetrieblichen oder in geeigneten betrieblichen Ausbildungsstätten zu vermitteln:
 
-1.
+1. im ersten Ausbildungsjahr in fünf Wochen insbesondere die in der Anlage Abschnitt I unter den laufenden Nummern 6, 7, 10 und 11 aufgeführten Fertigkeiten und Kenntnisse,
 
-2.
+2. im zweiten Ausbildungsjahr in sieben Wochen insbesondere die in der Anlage Abschnitt II unter den laufenden Nummern 3, 4 und 5 Buchstabe a bis h sowie der laufenden Nummer 6 Buchstabe a bis c aufgeführten Fertigkeiten und Kenntnisse,
 
-3.
+3. im dritten Ausbildungsjahr in sechs Wochen insbesondere die in der Anlage Abschnitt II unter den laufenden Nummern 2 und 5 Buchstabe l bis n, der laufenden Nummer 6 Buchstabe d bis m sowie der laufenden Nummer 7 aufgeführten Fertigkeiten und Kenntnisse.
 
 (2) Der Urlaub ist jeweils auf die Dauer der Berufsausbildung in der betrieblichen Ausbildungsstätte anzurechnen.
 
@@ -43,39 +43,39 @@ der Berufsausbildung
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
-1.
+1. Berufsbildung,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Arbeits- und Tarifrecht,
 
-4.
+4. Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Energieverwendung,
 
-5.
+5. Planen und Vorbereiten von Arbeitsabläufen, Einrichten von Baustellen, Kontrollieren der Arbeitsergebnisse,
 
-6.
+6. Aufstellen und Prüfen von Arbeits- und Schutzgerüsten, Prüfen von Baugruben und Gräben,
 
-7.
+7. Lesen und Anfertigen von Skizzen, Zeichnungen und Verlegeplänen, Durchführen von Messungen,
 
-8.
+8. Prüfen von Bau- und Bauhilfsstoffen nach Art und Menge, Lagern und Transportieren,
 
-9.
+9. Bereitstellen von Bau- und Bauhilfsstoffen, Werkzeugen und Baugeräten, Inbetriebnehmen und Warten,
 
-10.
+10. Ausführen von Holzarbeiten,
 
-11.
+11. Ausführen von Mauer-, Putz-, Beton- und Stemmarbeiten,
 
-12.
+12. Verarbeiten von Abdichtungs- und Dämmstoffen,
 
-13.
+13. Vorbereiten der Abdichtungsarbeiten auf der Baustelle,
 
-14.
+14. Abdichten gegen Bodenfeuchtigkeit, gegen nichtdrückendes und gegen drückendes Wasser,
 
-15.
+15. Abdichten von Dächern,
 
-16.
+16. Abdichten von Verkehrsflächen, insbesondere von Brückentafeln,
 
-17.
+17. Anfertigen von Bauberichten und Aufmaßskizzen, Qualitätskontrolle.
 
 ### § 6 — Ausbildungsrahmenplan
 
@@ -95,25 +95,23 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (2) Die Zwischenprüfung erstreckt sich auf die in der Anlage in Abschnitt I für das erste Ausbildungsjahr sowie in Abschnitt II für das dritte Ausbildungshalbjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens fünf Stunden eine Arbeitsprobe durchführen. Hierfür kommt insbesondere in Betracht: Herstellen einer mehrlagigen Abdichtung mit Bitumenbahnen oder einer einlagigen Abdichtung mit Kunststoffbahnen an waagerechten, lotrechten, geneigten und geformten Flächen mit Ecken, Kanten, Vor- und Rücksprüngen sowie Herstellen der erforderlichen An- und Abschlüsse.
-
 (4) Der Prüfling soll in der schriftlichen Prüfung in insgesamt höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, aus folgenden Gebieten lösen:
 
-1.
+1. Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz sowie rationelle Energie- und Materialverwendung,
 
-2.
+2. Skizzen und Stücklisten,
 
-3.
+3. Arbeits- und Schutzgerüste,
 
-4.
+4. Kleingeräte, Werkzeuge und Baugeräte,
 
-5.
+5. Bau- und Bauhilfsstoffe,
 
-6.
+6. Baukörper aus Holz, Kunststoffen, Steinen, Beton und Metallen als Abdichtungsuntergründe,
 
-7.
+7. Abdichtungsstoffe und deren Verarbeitung,
 
-8.
+8. arbeitsbezogene Berechnungen.
 
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
@@ -123,55 +121,21 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (2) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens sieben Stunden drei Arbeitsproben durchführen. Hierfür kommen insbesondere in Betracht:
 
-1.
+1. Herstellen einer mindestens dreilagigen Abdichtung mit Bitumenbahnen gegen drückendes Wasser an waagerechten, lotrechten, geneigten und geformten Flächen mit Ecken, Kanten, Vor- und Rücksprüngen sowie Herstellen von Kehranschlüssen, rückläufigen Stößen, umgelegten Stößen oder Bewegungsfugen,
 
-2.
+2. Herstellen einer einlagigen Abdichtung mit mechanisch befestigten Kunststoffbahnen einschließlich Einbauen einer Wärmedämmung und Dampfsperre an waagerechten, lotrechten, geneigten und geformten Flächen mit Ecken, Kanten, Vor- und Rücksprüngen sowie Einbauen und Abdichten von Durchdringungen und
 
-3.
+3. Durchführen und Bewerten eines Abreißversuches zur Beurteilung einer Betonoberfläche im Hinblick auf Abdichtungsarbeiten einschließlich Ausfüllen eines Prüfprotokolls.
 
 (3) Der Prüfling soll in der schriftlichen Prüfung in den Prüfungsfächern Technologie, Technische Mathematik, Arbeitsplanung sowie Wirtschafts- und Sozialkunde geprüft werden. Es kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
-1.
+1. im Prüfungsfach Technologie:a)Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz sowie rationelle Energie- und Materialverwendung, b)Bau- und Bauhilfsstoffe, c)Handelsformen, Eigenschaften und Anwendung von Abdichtungsstoffen, d)Abdichten von Bauwerken gegen Bodenfeuchtigkeit, gegen nichtdrückendes und gegen drückendes Wasser, e)Abdichten von Dächern, f)Abdichten von Verkehrsflächen, insbesondere von Brückentafeln, g)Prüfen und Ausbessern von Betonoberflächen, h)Qualitätskontrolle; Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz sowie rationelle Energie- und Materialverwendung, Bau- und Bauhilfsstoffe, Handelsformen, Eigenschaften und Anwendung von Abdichtungsstoffen, Abdichten von Bauwerken gegen Bodenfeuchtigkeit, gegen nichtdrückendes und gegen drückendes Wasser, Abdichten von Dächern, Abdichten von Verkehrsflächen, insbesondere von Brückentafeln, Prüfen und Ausbessern von Betonoberflächen, Qualitätskontrolle;
 
-a)
+2. im Prüfungsfach Technische Mathematik:a)Flächen- und Massenberechnungen, b)Berechnen des Bedarfs an Abdichtungsstoffen, c)Aufmaß und Abrechnung von Abdichtungsarbeiten; Flächen- und Massenberechnungen, Berechnen des Bedarfs an Abdichtungsstoffen, Aufmaß und Abrechnung von Abdichtungsarbeiten;
 
-b)
+3. im Prüfungsfach Arbeitsplanung:a)Skizzen, insbesondere Aufmaßskizzen, Verlegepläne und Stücklisten, b)technische Tabellen, Handbücher, Normen, Richtlinien und Merkblätter, c)Einsatz von Werkzeugen, Maschinen und Geräten, d)Einrichten eines Arbeitsplatzes, e)Arbeits- und Schutzgerüste; Skizzen, insbesondere Aufmaßskizzen, Verlegepläne und Stücklisten, technische Tabellen, Handbücher, Normen, Richtlinien und Merkblätter, Einsatz von Werkzeugen, Maschinen und Geräten, Einrichten eines Arbeitsplatzes, Arbeits- und Schutzgerüste;
 
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-2.
-
-a)
-
-b)
-
-c)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-4.
-
-(4) Für die schriftliche Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
+4. im Prüfungsfach Wirtschafts- und Sozialkunde: allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge in der Berufs- und Arbeitswelt.
 
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
@@ -194,5 +158,3 @@ Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung best
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 ### Anlage — (zu § 6)
-
-(Fundstelle: BGBl. I 1997, 949 - 954)

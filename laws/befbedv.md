@@ -24,11 +24,11 @@ Anspruch auf Beförderung besteht, soweit nach den Vorschriften des Personenbef�
 
 (1) Personen, die eine Gefahr für die Sicherheit oder Ordnung des Betriebs oder für die Fahrgäste darstellen, sind von der Beförderung ausgeschlossen. Soweit diese Voraussetzungen vorliegen, sind insbesondere ausgeschlossen
 
-1.
+1. Personen, die unter dem Einfluß geistiger Getränke oder anderer berauschender Mittel stehen,
 
-2.
+2. Personen mit ansteckenden Krankheiten,
 
-3.
+3. Personen mit geladenen Schußwaffen, es sei denn, daß sie zum Führen von Schußwaffen berechtigt sind.
 
 (2) Nicht schulpflichtige Kinder vor Vollendung des 6. Lebensjahrs können von der Beförderung ausgeschlossen werden, sofern sie nicht auf der ganzen Fahrstrecke von Personen begleitet werden, die mindestens das 6. Lebensjahr vollendet haben; die Vorschriften des Absatzes 1 bleiben unberührt.
 
@@ -38,21 +38,21 @@ Anspruch auf Beförderung besteht, soweit nach den Vorschriften des Personenbef�
 
 (2) Fahrgästen ist insbesondere untersagt,
 
-1.
+1. sich mit dem Fahrzeugführer während der Fahrt zu unterhalten,
 
-2.
+2. die Türen während der Fahrt eigenmächtig zu öffnen,
 
-3.
+3. Gegenstände aus den Fahrzeugen zu werfen oder hinausragen zu lassen,
 
-4.
+4. während der Fahrt auf- oder abzuspringen,
 
-5.
+5. ein als besetzt bezeichnetes Fahrzeug zu betreten,
 
-6.
+6. die Benutzbarkeit der Betriebseinrichtungen, der Durchgänge und der Ein- und Ausstiege durch sperrige Gegenstände zu beeinträchtigen,
 
-7.
+7. auf unterirdischen Bahnsteiganlagen zu rauchen,
 
-8.
+8. Tonwiedergabegeräte oder Tonrundfunkempfänger zu benutzen.
 
 (3) Die Fahrgäste dürfen die Fahrzeuge nur an den Haltestellen betreten und verlassen; Ausnahmen bedürfen der Zustimmung des Betriebspersonals. Soweit besonders gekennzeichnete Eingänge oder Ausgänge vorhanden sind, sind diese beim Betreten oder Verlassen der Fahrzeuge zu benutzen. Es ist zügig ein- und auszusteigen sowie in das Wageninnere aufzurücken. Wird die bevorstehende Abfahrt angekündigt oder schließt sich eine Tür, darf das Fahrzeug nicht mehr betreten oder verlassen werden. Jeder Fahrgast ist verpflichtet, sich im Fahrzeug stets einen festen Halt zu verschaffen.
 
@@ -100,37 +100,37 @@ Anspruch auf Beförderung besteht, soweit nach den Vorschriften des Personenbef�
 
 ### § 8 — Ungültige Fahrausweise
 
-(1) Fahrausweise, die entgegen den Vorschriften der Beförderungsbedingungen oder des Beförderungstarifs benutzt werden, sind ungültig und werden eingezogen; dies gilt auch für Fahrausweise, die Fahrgeld wird nicht erstattet.
+(1) Fahrausweise, die entgegen den Vorschriften der Beförderungsbedingungen oder des Beförderungstarifs benutzt werden, sind ungültig und werden eingezogen; dies gilt auch für Fahrausweise, die
 
-1.
+1. nicht vorschriftsmäßig ausgefüllt sind und trotz Aufforderung nicht sofort ausgefüllt werden,
 
-2.
+2. nicht mit aufgeklebter Wertmarke versehen sind,
 
-3.
+3. zerrissen, zerschnitten oder sonst stark beschädigt, stark beschmutzt oder unleserlich sind, so daß sie nicht mehr geprüft werden können,
 
-4.
+4. eigenmächtig geändert sind,
 
-5.
+5. von Nichtberechtigten benutzt werden,
 
-6.
+6. zu anderen als den zulässigen Fahrten benutzt werden,
 
-7.
+7. wegen Zeitablaufs oder aus anderen Gründen verfallen sind,
 
-8.
+8. ohne das erforderliche Lichtbild benutzt werden.
 
 (2) Ein Fahrausweis, der nur in Verbindung mit einem Antrag oder einem im Beförderungstarif vorgesehenen Personenausweis zur Beförderung berechtigt, gilt als ungültig und kann eingezogen werden, wenn der Antrag oder Personenausweis auf Verlangen nicht vorgezeigt wird.
 
 ### § 9 — Erhöhtes Beförderungsentgelt
 
-(1) Ein Fahrgast ist zur Zahlung eines erhöhten Beförderungsentgelts verpflichtet, wenn er Eine Verfolgung im Straf- oder Bußgeldverfahren bleibt unberührt. Die Vorschriften unter den Nummern 1 und 3 werden nicht angewendet, wenn das Beschaffen oder die Entwertung des Fahrausweises aus Gründen unterblieben ist, die der Fahrgast nicht zu vertreten hat.
+(1) Ein Fahrgast ist zur Zahlung eines erhöhten Beförderungsentgelts verpflichtet, wenn er
 
-1.
+1. sich keinen gültigen Fahrausweis beschafft hat,
 
-2.
+2. sich einen gültigen Fahrausweis beschafft hat, diesen jedoch bei einer Überprüfung nicht vorzeigen kann,
 
-3.
+3. den Fahrausweis nicht oder nicht unverzüglich im Sinne des § 6 Abs. 3 entwertet hat oder entwerten ließ oder
 
-4.
+4. den Fahrausweis auf Verlangen nicht zur Prüfung vorzeigt oder aushändigt.
 
 (2) In den Fällen des Absatzes 1 kann der Unternehmer ein erhöhtes Beförderungsentgelt bis zu 60 Euro erheben. Er kann jedoch das Doppelte des Beförderungsentgelts für einfache Fahrt auf der vom Fahrgast zurückgelegten Strecke erheben, sofern sich hiernach ein höherer Betrag als nach Satz 1 ergibt; hierbei kann das erhöhte Beförderungsentgelt nach dem Ausgangspunkt der Linie berechnet werden, wenn der Fahrgast die zurückgelegte Strecke nicht nachweisen kann.
 
@@ -158,11 +158,11 @@ Anspruch auf Beförderung besteht, soweit nach den Vorschriften des Personenbef�
 
 (2) Von der Beförderung sind gefährliche Stoffe und gefährliche Gegenstände ausgeschlossen, insbesondere
 
-1.
+1. explosionsfähige, leicht entzündliche, radioaktive, übelriechende oder ätzende Stoffe,
 
-2.
+2. unverpackte oder ungeschützte Sachen, durch die Fahrgäste verletzt werden können,
 
-3.
+3. Gegenstände, die über die Wagenumgrenzung hinausragen.
 
 (3) Die Pflicht zur Beförderung von Kleinkindern in Kinderwagen richtet sich nach den Vorschriften des § 2 Satz 1. Nach Möglichkeit soll das Betriebspersonal dafür sorgen, daß Fahrgäste mit Kind im Kinderwagen nicht zurückgewiesen werden. Die Entscheidung über die Mitnahme liegt beim Betriebspersonal.
 
@@ -207,5 +207,3 @@ Der Gerichtsstand für alle Streitigkeiten, die sich aus dem Beförderungsvertra
 Diese Verordnung tritt 6 Monate nach ihrer Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Verkehr

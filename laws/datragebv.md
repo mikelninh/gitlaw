@@ -24,11 +24,11 @@ Das Bundesinstitut für Arzneimittel und Medizinprodukte erhebt als Forschungsda
 
 (1) Zur Zahlung der Gebühren und zur Erstattung der Auslagen ist verpflichtet,
 
-1.
+1. wer die gebührenpflichtige Leistung durch einen Antrag auf Datenverarbeitung veranlasst,
 
-2.
+2. wer die Gebührenschuld eines anderen übernommen hat oder
 
-3.
+3. wer für die Gebührenschuld eines anderen kraft Gesetzes haftet.
 
 (2) Wer die Gebührenschuld eines anderen übernimmt, hat dem Forschungsdatenzentrum dies schriftlich oder elektronisch mitzuteilen.
 
@@ -40,19 +40,19 @@ Von der Zahlung der Gebühren und von der Erstattung der Auslagen nach dieser Ve
 
 ### § 5 — Höhe der Grundgebühr
 
-Die Grundgebühr für die Bearbeitung eines Antrags beträgt 4 000 Euro.
+Die Grundgebühr für die Bearbeitung eines Antrags beträgt 4 000 Euro.
 
 ### § 6 — Höhe der Zusatzgebühr für Datenauswertung und Datenbereitstellung
 
-(1) Für die Bereitstellung von standardisierten Datensätzen beträgt die Zusatzgebühr 1 000 Euro pro ausgewerteten Jahrgang.
+(1) Für die Bereitstellung von standardisierten Datensätzen beträgt die Zusatzgebühr 1 000 Euro pro ausgewerteten Jahrgang.
 
 (2) Für die Auswertung und die Bereitstellung der Datenbestände mittels einer vom Nutzungsberechtigten vorformulierten Abfrage beträgt die Zusatzgebühr 1 000 Euro pro ausgewerteten Jahrgang.
 
-(3) Für die Bereitstellung von Daten in einer gesicherten virtuellen Umgebung des Forschungsdatenzentrums wird zusätzlich eine Gebühr für die Nutzung der Umgebung von 1 000 Euro pro Tag berechnet.
+(3) Für die Bereitstellung von Daten in einer gesicherten virtuellen Umgebung des Forschungsdatenzentrums wird zusätzlich eine Gebühr für die Nutzung der Umgebung von 1 000 Euro pro Tag berechnet.
 
 ### § 7 — Höhe der Gebühr für Beratung, Erstellung vorläufiger Auswertungen und Zwischenergebnisse
 
-Für jede Beratung, jede Erstellung vorläufiger Auswertungen und für Zwischenergebnisse wird abhängig von Umfang und Komplexität der Anfrage und der damit verbundenen Inanspruchnahme von Personal- und Sachleistungen eine Gebühr von 100 bis 3 000 Euro berechnet.
+Für jede Beratung, jede Erstellung vorläufiger Auswertungen und für Zwischenergebnisse wird abhängig von Umfang und Komplexität der Anfrage und der damit verbundenen Inanspruchnahme von Personal- und Sachleistungen eine Gebühr von 100 bis 3 000 Euro berechnet.
 
 ### § 8 — Höhe der Gebühr bei Rücknahme des Antrags
 
@@ -66,7 +66,7 @@ Das Forschungsdatenzentrum verlangt die Erstattung von Auslagen, die nicht berei
 
 ### § 10 — Höhe der Gebühr für Schulungen
 
-Die Grundgebühr für eine Schulung beträgt 1 000 Euro. Das Forschungsdatenzentrum kann für zusätzliche Module eine Zusatzgebühr von jeweils 600 Euro verlangen. Das Forschungsdatenzentrum informiert die Antragsteller im Vorfeld über die Art der Schulungen und die Höhe der entsprechenden Gebühren.
+Die Grundgebühr für eine Schulung beträgt 1 000 Euro. Das Forschungsdatenzentrum kann für zusätzliche Module eine Zusatzgebühr von jeweils 600 Euro verlangen. Das Forschungsdatenzentrum informiert die Antragsteller im Vorfeld über die Art der Schulungen und die Höhe der entsprechenden Gebühren.
 
 ### § 11 — Gebührenerhöhung und -ermäßigung
 
@@ -76,43 +76,43 @@ Die Grundgebühr für eine Schulung beträgt 1 000 Euro. Das Forschungsdatenzen
 
 (3) Auf Antrag kann das Forschungsdatenzentrum die Gebühren nach dieser Verordnung für die folgenden Institutionen auf ein Zehntel der in dieser Verordnung genannten Höhe ermäßigen:
 
-1.
+1. Die Kassenärztlichen Bundesvereinigungen und Kassenärztlichen Vereinigungen,
 
-2.
+2. die für die Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen Spitzenorganisationen der Leistungserbringer auf Bundesebene,
 
-3.
+3. die Institutionen der Gesundheitsberichterstattung des Bundes, der Länder und der Kommunen,
 
-4.
+4. die öffentlichen Institutionen der Gesundheitsversorgungsforschung,
 
-5.
+5. Hochschulen, nach landesrechtlichen Vorschriften anerkannte Hochschulkliniken sowie öffentlich finanzierte außeruniversitäre Forschungseinrichtungen und sonstige Einrichtungen mit der Aufgabe unabhängiger wissenschaftlicher Forschung, sofern die Daten wissenschaftlichen Vorhaben dienen,
 
-6.
+6. der Gemeinsame Bundesausschuss,
 
-7.
+7. das Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen,
 
-8.
+8. das Institut des Bewertungsausschusses,
 
-9.
+9. der oder die Beauftragten der Bundesregierung und der Landesregierungen für die Belange der Patientinnen und Patienten,
 
-10.
+10. die für die Wahrnehmung der Interessen der Patientinnen und Patienten und der Selbsthilfe chronisch kranker und behinderter Menschen maßgeblichen Organisationen auf Bundesebene,
 
-11.
+11. das Institut für Qualitätssicherung und Transparenz im Gesundheitswesen,
 
-12.
+12. das Institut für das Entgeltsystem im Krankenhaus,
 
-13.
+13. die für die gesetzliche Krankenversicherung zuständigen obersten Bundes- und Landesbehörden und deren jeweilige nachgeordnete Bereiche sowie die übrigen obersten Bundesbehörden,
 
-14.
+14. die Bundesärztekammer, die Bundeszahnärztekammer, die Bundespsychotherapeutenkammer sowie die Bundesapothekerkammer,
 
-15.
+15. die Deutsche Krankenhausgesellschaft und die Landeskrankenhausgesellschaften,
 
-16.
+16. die Deutsche Rentenversicherung Bund,
 
-17.
+17. die Medizinischen Dienste und der Medizinische Dienst Bund,
 
-18.
+18. die gesetzlich geregelten medizinischen Register,
 
-19.
+19. die wissenschaftlich-medizinischen Fachgesellschaften, soweit sie Mitglied der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften e. V. sind.
 
 (4) Abweichend von Absatz 3 sind die Gebühren für die in Absatz 3 genannten Institutionen nicht zu ermäßigen, wenn ein Datenzugang gemeinsam mit weiteren, nicht in Absatz 3 genannten Institutionen begehrt wird oder der Datenzugang im Rahmen eines Auftragsforschungsvorhabens für eine nicht in Absatz 3 genannte Institution erfolgt.
 

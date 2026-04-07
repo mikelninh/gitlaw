@@ -18,9 +18,9 @@ Zur Sicherstellung der Elektrizitätsversorgung wird eine Lastverteilung für di
 
 Die Lastverteilung obliegt
 
-1.
+1. den obersten Wirtschaftsbehörden der Länder als Gebietslastverteilern; durch Landesrecht können höheren und unteren Verwaltungsbehörden sowie den Gemeinden als Gruppen-, Bezirks- und Bereichslastverteilern Aufgaben der Lastverteilung übertragen werden;
 
-2.
+2. dem Bundesministerium für Wirtschaft und Energie als Bundeslastverteiler.
 
 ### § 3
 
@@ -38,15 +38,9 @@ Die Lastverteilung obliegt
 
 (1) Die Lastverteiler können Verfügungen erlassen
 
-1.
+1. an Unternehmen und Betriebe, die elektrische Energie erzeugen, weiterleiten oder verteilen, übera)die Erzeugung, Weiterleitung, Umwandlung, Umspannung, Zuteilung, Abgabe, den Bezug und die Verwendung elektrischer Energie; b)die Herstellung, Instandhaltung, Abgabe, Verbringung, Verwendung, Instandsetzung und Veränderung von ortsfesten und beweglichen Anlagen und Produktionsmitteln, die für die Versorgung mit elektrischer Energie erforderlich sind; c)die Lagerung, Vorratshaltung, Abgabe und Verwendung von Waren der gewerblichen Wirtschaft, die für eine Versorgung mit elektrischer Energie erforderlich sind; die Erzeugung, Weiterleitung, Umwandlung, Umspannung, Zuteilung, Abgabe, den Bezug und die Verwendung elektrischer Energie; die Herstellung, Instandhaltung, Abgabe, Verbringung, Verwendung, Instandsetzung und Veränderung von ortsfesten und beweglichen Anlagen und Produktionsmitteln, die für die Versorgung mit elektrischer Energie erforderlich sind; die Lagerung, Vorratshaltung, Abgabe und Verwendung von Waren der gewerblichen Wirtschaft, die für eine Versorgung mit elektrischer Energie erforderlich sind;
 
-a)
-
-b)
-
-c)
-
-2.
+2. an Verbraucher über die Zuteilung, den Bezug und die Verwendung elektrischer Energie sowie den Ausschluß vom Bezug elektrischer Energie.
 
 (2) Die Lastverteiler können Unternehmen und Betriebe, die elektrische Energie erzeugen, weiterleiten oder verteilen, sowie Verbraucher durch Verfügung verpflichten, innerhalb einer bestimmten Frist bestehende Verträge des in Absatz 1 bezeichneten Inhalts zu ändern oder neue Verträge dieses Inhalts abzuschließen, soweit das angestrebte Verhalten durch Anwendung bestehender Verträge nicht oder nicht rechtzeitig verwirklicht werden kann. In der Verfügung ist für eine Leistung das übliche Entgelt oder, in Ermangelung eines solchen, ein angemessenes Entgelt festzusetzen; für die übrigen Vertragsbedingungen gilt Entsprechendes. Kommt ein solcher Vertrag nicht fristgemäß zustande, so können die Lastverteiler ihn durch Verfügung begründen.
 
@@ -62,9 +56,9 @@ c)
 
 Örtlich zuständig ist der Lastverteiler, in dessen Bezirk
 
-1.
+1. die von einer Verfügung nach § 5 Abs. 1 Nr. 1 betroffene Betriebsstätte eines Unternehmens oder Betriebes liegt; zu den Betriebsstätten gehören auch die nicht mit Betriebspersonal besetzten, der Versorgung von Verbrauchern mit elektrischer Energie dienenden Anlagen;
 
-2.
+2. die Elektrizitätsübergabestelle der von einer Verfügung nach § 5 Abs. 1 Nr. 2 betroffenen Betriebsstätte eines Verbrauchers liegt.
 
 ### § 6a
 
@@ -101,7 +95,3 @@ Die Senate der Länder Bremen und Hamburg werden ermächtigt, die Vorschriften d
 (3) Die §§ 2 und 4 sind mit dem Inkrafttreten anwendbar.
 
 ### Anlage — zu § 4 Abs. 1 Satz 1 der Elektrizitätslastverteilungs-Verordnung
-
-Fundstelle des Originaltextes: BGBl. I 2002, 381 - 390
-
-Die aus versorgungstechnischen Gründen gebildeten Lastverteilungsgebiete I bis X (Gebietsstand 31. Dezember 1998) umfassen:

@@ -14,7 +14,9 @@ Führt eine in § 21 Abs. 1 des Umwandlungssteuergesetzes bezeichnete Einbringun
 
 ### § 2
 
-(1) § 1 gilt nicht, wenn das eingebrachte Betriebsvermögen oder die an seine Stelle tretenden Anteile steuerrechtlich mit dem tatsächlichen Wert des eingebrachten Betriebsvermögens angesetzt werden.(2) § 1 gilt ferner nicht, wenn die im Zeitpunkt des Vorgangs auf das Unternehmen angewandten Vorschriften über die Vertretung der Arbeitnehmer in dessen Organen eines Mindestzahl von Arbeitnehmern dieses Unternehmens voraussetzen und die nach diesen Vorschriften berechnete Zahl der Arbeitnehmer des Unternehmens auf weniger als in der Regel ein Viertel dieser Mindestzahl sinkt.
+(1) § 1 gilt nicht, wenn das eingebrachte Betriebsvermögen oder die an seine Stelle tretenden Anteile steuerrechtlich mit dem tatsächlichen Wert des eingebrachten Betriebsvermögens angesetzt werden.
+
+(2) § 1 gilt ferner nicht, wenn die im Zeitpunkt des Vorgangs auf das Unternehmen angewandten Vorschriften über die Vertretung der Arbeitnehmer in dessen Organen eines Mindestzahl von Arbeitnehmern dieses Unternehmens voraussetzen und die nach diesen Vorschriften berechnete Zahl der Arbeitnehmer des Unternehmens auf weniger als in der Regel ein Viertel dieser Mindestzahl sinkt.
 
 ### § 3
 

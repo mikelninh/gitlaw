@@ -73,7 +73,7 @@ Das Gesetz über die Entschädigung für Strafverfolgungsmaßnahmen ist nicht an
 
 ### § 10 — Strafvollstreckung
 
-(1) Aufgaben der Staatsanwaltschaft im Vollstreckungsverfahren nimmt abweichend von § 142b Absatz 1 des Gerichtsverfassungsgesetzes die Staatsanwaltschaft am Sitz des Gerichts des ersten Rechtszuges wahr.
+(1) Aufgaben der Staatsanwaltschaft im Vollstreckungsverfahren nimmt abweichend von § 142b Absatz 1 des Gerichtsverfassungsgesetzes die Staatsanwaltschaft am Sitz des Gerichts des ersten Rechtszuges wahr.
 
 (2) Im Rahmen der Anhörung gemäß § 453 Absatz 1 Satz 2, § 454 Absatz 1 Satz 2 und Absatz 2 Satz 3 sowie § 462 Absatz 2 Satz 1 der Strafprozessordnung und gemäß § 57 Absatz 1 Satz 2, § 58 Absatz 1 Satz 2, § 65 Absatz 1 Satz 1, § 87 Absatz 3 Satz 4 und § 88 Absatz 4 Satz 1 des Jugendgerichtsgesetzes soll die nach Absatz 1 zuständige Staatsanwaltschaft dem mit den Ermittlungen betrauten Delegierten Europäischen Staatsanwalt Gelegenheit zur Stellungnahme geben.
 
@@ -93,7 +93,7 @@ Das Gesetz über die Entschädigung für Strafverfolgungsmaßnahmen ist nicht an
 
 ### § 13 — Amtshilfe
 
-Soweit erforderlich, können die Delegierten Europäischen Staatsanwälte die in § 142 Absatz 1 Nummer 2 und 3 des Gerichtsverfassungsgesetzes genannten Staatsanwaltschaften um Amtshilfe bei der Durchführung einzelner Ermittlungsmaßnahmen und anderer Maßnahmen nach Artikel 30 der Verordnung (EU) 2017/1939 ersuchen.
+Soweit erforderlich, können die Delegierten Europäischen Staatsanwälte die in § 142 Absatz 1 Nummer 2 und 3 des Gerichtsverfassungsgesetzes genannten Staatsanwaltschaften um Amtshilfe bei der Durchführung einzelner Ermittlungsmaßnahmen und anderer Maßnahmen nach Artikel 30 der Verordnung (EU) 2017/1939 ersuchen.
 
 ### § 14 — Gleichstellung mit Amtsträgern
 

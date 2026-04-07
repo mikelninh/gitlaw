@@ -18,37 +18,27 @@
 
 (1) Leistungen werden für Arbeitnehmer gewährt, die
 
-1.
+1. das 55. Lebensjahr vollendet haben,
 
-2.
+2. nach dem 14. Februar 1996 auf Grund einer Vereinbarung mit ihrem Arbeitgeber, die sich zumindest auf die Zeit erstrecken muß, bis eine Rente wegen Alters beansprucht werden kann, ihre Arbeitszeit auf die Hälfte der bisherigen wöchentlichen Arbeitszeit vermindert haben, und versicherungspflichtig beschäftigt im Sinne des Dritten Buches Sozialgesetzbuch sind (Altersteilzeitarbeit) und
 
-3.
+3. innerhalb der letzten fünf Jahre vor Beginn der Altersteilzeitarbeit mindestens 1 080 Kalendertage in einer versicherungspflichtigen Beschäftigung nach dem Dritten Buch Sozialgesetzbuch oder nach den Vorschriften eines Mitgliedstaates der Europäischen Union, eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz gestanden haben. Zeiten mit Anspruch auf Arbeitslosengeld oder Arbeitslosenhilfe, Zeiten des Bezuges von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches Sozialgesetzbuch sowie Zeiten, in denen Versicherungspflicht nach § 26 Abs. 2 des Dritten Buches Sozialgesetzbuch bestand, stehen der versicherungspflichtigen Beschäftigung gleich.
 
-(2) Sieht die Vereinbarung über die Altersteilzeitarbeit unterschiedliche wöchentliche Arbeitszeiten oder eine unterschiedliche Verteilung der wöchentlichen Arbeitszeit vor, ist die Voraussetzung nach Absatz 1 Nr. 2 auch erfüllt, wenn Im Geltungsbereich eines Tarifvertrages nach Satz 1 Nr. 1 kann die tarifvertragliche Regelung im Betrieb eines nicht tarifgebundenen Arbeitgebers durch Betriebsvereinbarung oder, wenn ein Betriebsrat nicht besteht, durch schriftliche Vereinbarung zwischen dem Arbeitgeber und dem Arbeitnehmer übernommen werden. Können auf Grund eines solchen Tarifvertrages abweichende Regelungen in einer Betriebsvereinbarung getroffen werden, kann auch in Betrieben eines nicht tarifgebundenen Arbeitgebers davon Gebrauch gemacht werden. Satz 1 Nr. 1, 2. Alternative gilt entsprechend. In einem Bereich, in dem tarifvertragliche Regelungen zur Verteilung der Arbeitszeit nicht getroffen sind oder üblicherweise nicht getroffen werden, kann eine Regelung im Sinne des Satzes 1 Nr. 1, 2. Alternative auch durch Betriebsvereinbarung oder, wenn ein Betriebsrat nicht besteht, durch schriftliche Vereinbarung zwischen Arbeitgeber und Arbeitnehmer getroffen werden.
+(2) Sieht die Vereinbarung über die Altersteilzeitarbeit unterschiedliche wöchentliche Arbeitszeiten oder eine unterschiedliche Verteilung der wöchentlichen Arbeitszeit vor, ist die Voraussetzung nach Absatz 1 Nr. 2 auch erfüllt, wenn
 
-1.
+1. die wöchentliche Arbeitszeit im Durchschnitt eines Zeitraums von bis zu drei Jahren oder bei Regelung in einem Tarifvertrag, auf Grund eines Tarifvertrages in einer Betriebsvereinbarung oder in einer Regelung der Kirchen und der öffentlich-rechtlichen Religionsgesellschaften im Durchschnitt eines Zeitraums von bis zu sechs Jahren die Hälfte der bisherigen wöchentlichen Arbeitszeit nicht überschreitet und der Arbeitnehmer versicherungspflichtig beschäftigt im Sinne des Dritten Buches Sozialgesetzbuch ist und
 
-2.
+2. das Arbeitsentgelt für die Altersteilzeitarbeit sowie der Aufstockungsbetrag nach § 3 Abs. 1 Nr. 1 Buchstabe a fortlaufend gezahlt werden.
 
 (3) Sieht die Vereinbarung über die Altersteilzeitarbeit unterschiedliche wöchentliche Arbeitszeiten oder eine unterschiedliche Verteilung der wöchentlichen Arbeitszeit über einen Zeitraum von mehr als sechs Jahren vor, ist die Voraussetzung nach Absatz 1 Nr. 2 auch erfüllt, wenn die wöchentliche Arbeitszeit im Durchschnitt eines Zeitraums von sechs Jahren, der innerhalb des Gesamtzeitraums der vereinbarten Altersteilzeitarbeit liegt, die Hälfte der bisherigen wöchentlichen Arbeitszeit nicht überschreitet, der Arbeitnehmer versicherungspflichtig beschäftigt im Sinne des Dritten Buches Sozialgesetzbuch ist und die weiteren Voraussetzungen des Absatzes 2 vorliegen. Die Leistungen nach § 3 Abs. 1 Nr. 1 sind nur in dem in Satz 1 genannten Zeitraum von sechs Jahren zu erbringen.
 
 ### § 3 — Anspruchsvoraussetzungen
 
-(1) Der Anspruch auf die Leistungen nach § 4 setzt voraus, daß und
+(1) Der Anspruch auf die Leistungen nach § 4 setzt voraus, daß
 
-1.
+1. der Arbeitgeber auf Grund eines Tarifvertrages, einer Regelung der Kirchen und der öffentlich-rechtlichen Religionsgesellschaften, einer Betriebsvereinbarung oder einer Vereinbarung mit dem Arbeitnehmera)das Regelarbeitsentgelt für die Altersteilzeitarbeit um mindestens 20 vom Hundert aufgestockt hat, wobei die Aufstockung auch weitere Entgeltbestandteile umfassen kann, undb)für den Arbeitnehmer zusätzlich Beiträge zur gesetzlichen Rentenversicherung mindestens in Höhe des Beitrags entrichtet hat, der auf 80 vom Hundert des Regelarbeitsentgelts für die Altersteilzeitarbeit, begrenzt auf den Unterschiedsbetrag zwischen 90 vom Hundert der monatlichen Beitragsbemessungsgrenze und dem Regelarbeitsentgelt, entfällt, höchstens bis zur Beitragsbemessungsgrenze, sowie das Regelarbeitsentgelt für die Altersteilzeitarbeit um mindestens 20 vom Hundert aufgestockt hat, wobei die Aufstockung auch weitere Entgeltbestandteile umfassen kann, und für den Arbeitnehmer zusätzlich Beiträge zur gesetzlichen Rentenversicherung mindestens in Höhe des Beitrags entrichtet hat, der auf 80 vom Hundert des Regelarbeitsentgelts für die Altersteilzeitarbeit, begrenzt auf den Unterschiedsbetrag zwischen 90 vom Hundert der monatlichen Beitragsbemessungsgrenze und dem Regelarbeitsentgelt, entfällt, höchstens bis zur Beitragsbemessungsgrenze, sowie
 
-a)
-
-b)
-
-2.
-
-a)
-
-b)
-
-3.
+2. der Arbeitgeber aus Anlass des Übergangs des Arbeitnehmers in die Altersteilzeitarbeita)einen bei einer Agentur für Arbeit arbeitslos gemeldeten Arbeitnehmer, einen Bezieher von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches Sozialgesetzbuch oder einen Arbeitnehmer nach Abschluss der Ausbildung auf dem freigemachten oder auf einem in diesem Zusammenhang durch Umsetzung frei gewordenen Arbeitsplatz versicherungspflichtig im Sinne des Dritten Buches Sozialgesetzbuch beschäftigt; bei Arbeitgebern, die in der Regel nicht mehr als 50 Arbeitnehmer beschäftigen, wird unwiderleglich vermutet, dass der Arbeitnehmer auf dem freigemachten oder auf einem in diesem Zusammenhang durch Umsetzung frei gewordenen Arbeitsplatz beschäftigt wird, oderb)einen Auszubildenden versicherungspflichtig im Sinne des Dritten Buches Sozialgesetzbuch beschäftigt, wenn der Arbeitgeber in der Regel nicht mehr als 50 Arbeitnehmer beschäftigt einen bei einer Agentur für Arbeit arbeitslos gemeldeten Arbeitnehmer, einen Bezieher von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches Sozialgesetzbuch oder einen Arbeitnehmer nach Abschluss der Ausbildung auf dem freigemachten oder auf einem in diesem Zusammenhang durch Umsetzung frei gewordenen Arbeitsplatz versicherungspflichtig im Sinne des Dritten Buches Sozialgesetzbuch beschäftigt; bei Arbeitgebern, die in der Regel nicht mehr als 50 Arbeitnehmer beschäftigen, wird unwiderleglich vermutet, dass der Arbeitnehmer auf dem freigemachten oder auf einem in diesem Zusammenhang durch Umsetzung frei gewordenen Arbeitsplatz beschäftigt wird, oder einen Auszubildenden versicherungspflichtig im Sinne des Dritten Buches Sozialgesetzbuch beschäftigt, wenn der Arbeitgeber in der Regel nicht mehr als 50 Arbeitnehmer beschäftigt
 
 (1a) Die Voraussetzungen des Absatzes 1 Nr. 1 Buchstabe a sind auch erfüllt, wenn Bestandteile des Arbeitsentgelts, die für den Zeitraum der vereinbarten Altersteilzeitarbeit nicht vermindert worden sind, bei der Aufstockung außer Betracht bleiben.
 
@@ -60,9 +50,9 @@ b)
 
 (1) Die Bundesagentur erstattet dem Arbeitgeber für längstens sechs Jahre
 
-1.
+1. den Aufstockungsbetrag nach § 3 Abs. 1 Nr. 1 Buchstabe a in Höhe von 20 vom Hundert des für die Altersteilzeitarbeit gezahlten Regelarbeitsentgelts und
 
-2.
+2. den Betrag, der nach § 3 Abs. 1 Nr. 1 Buchstabe b in Höhe des Beitrags geleistet worden ist, der auf den Betrag entfällt, der sich aus 80 vom Hundert des Regelarbeitsentgelts für die Altersteilzeitarbeit ergibt, jedoch höchstens des auf den Unterschiedsbetrag zwischen 90 vom Hundert der monatlichen Beitragsbemessungsgrenze und dem Regelarbeitsentgelt entfallenden Beitrags.
 
 (2) Bei Arbeitnehmern, die nach § 6 Abs. 1 Satz 1 Nr. 1 oder § 231 Abs. 1 und 2 des Sechsten Buches Sozialgesetzbuch von der Versicherungspflicht befreit sind, werden Leistungen nach Absatz 1 auch erbracht, wenn die Voraussetzung des § 3 Abs. 1 Nr. 1 Buchstabe b nicht erfüllt ist. Dem Betrag nach Absatz 1 Nr. 2 stehen in diesem Fall vergleichbare Aufwendungen des Arbeitgebers bis zur Höhe des Beitrags gleich, den die Bundesagentur nach Absatz 1 Nr. 2 zu tragen hätte, wenn der Arbeitnehmer nicht von der Versicherungspflicht befreit wäre.
 
@@ -70,11 +60,11 @@ b)
 
 (1) Der Anspruch auf die Leistungen nach § 4 erlischt
 
-1.
+1. mit Ablauf des Kalendermonats, in dem der Arbeitnehmer die Altersteilzeitarbeit beendet hat,
 
-2.
+2. mit Ablauf des Kalendermonats vor dem Kalendermonat, für den der Arbeitnehmer eine Rente wegen Alters oder, wenn er von der Versicherungspflicht in der gesetzlichen Rentenversicherung befreit ist, das 65. Lebensjahr vollendet hat oder eine der Rente vergleichbare Leistung einer Versicherungs- oder Versorgungseinrichtung oder eines Versicherungsunternehmens beanspruchen kann; dies gilt nicht für Renten, die vor dem für den Versicherten maßgebenden Rentenalter in Anspruch genommen werden können oder
 
-3.
+3. mit Beginn des Kalendermonats, für den der Arbeitnehmer eine Rente wegen Alters, eine Knappschaftsausgleichsleistung, eine ähnliche Leistung öffentlich-rechtlicher Art oder, wenn er von der Versicherungspflicht in der gesetzlichen Rentenversicherung befreit ist, eine vergleichbare Leistung einer Versicherungs- oder Versorgungseinrichtung oder eines Versicherungsunternehmens bezieht.
 
 (2) Der Anspruch auf die Leistungen besteht nicht, solange der Arbeitgeber auf dem freigemachten oder durch Umsetzung freigewordenen Arbeitsplatz keinen Arbeitnehmer mehr beschäftigt, der bei Beginn der Beschäftigung die Voraussetzungen des § 3 Abs. 1 Nr. 2 erfüllt hat. Dies gilt nicht, wenn der Arbeitsplatz mit einem Arbeitnehmer, der diese Voraussetzungen erfüllt, innerhalb von drei Monaten erneut wiederbesetzt wird oder der Arbeitgeber insgesamt für vier Jahre die Leistungen erhalten hat.
 
@@ -146,11 +136,11 @@ b)
 
 (1) Der Arbeitnehmer hat Änderungen der ihn betreffenden Verhältnisse, die für die Leistungen nach § 4 erheblich sind, dem Arbeitgeber unverzüglich mitzuteilen. Werden im Fall des § 9 die Leistungen von der Ausgleichskasse der Arbeitgeber oder der gemeinsamen Einrichtung der Tarifvertragsparteien erbracht, hat der Arbeitnehmer Änderungen nach Satz 1 diesen gegenüber unverzüglich mitzuteilen.
 
-(2) Der Arbeitnehmer hat der Bundesagentur die dem Arbeitgeber zu Unrecht gezahlten Leistungen zu erstatten, wenn der Arbeitnehmer die unrechtmäßige Zahlung dadurch bewirkt hat, daß er vorsätzlich oder grob fahrlässig Die zu erstattende Leistung ist durch schriftlichen Verwaltungsakt festzusetzen. Eine Erstattung durch den Arbeitgeber kommt insoweit nicht in Betracht.
+(2) Der Arbeitnehmer hat der Bundesagentur die dem Arbeitgeber zu Unrecht gezahlten Leistungen zu erstatten, wenn der Arbeitnehmer die unrechtmäßige Zahlung dadurch bewirkt hat, daß er vorsätzlich oder grob fahrlässig
 
-1.
+1. Angaben gemacht hat, die unrichtig oder unvollständig sind, oder
 
-2.
+2. der Mitteilungspflicht nach Absatz 1 nicht nachgekommen ist.
 
 ### § 12 — Verfahren
 
@@ -170,13 +160,13 @@ Die §§ 315 und 319 des Dritten Buches und das Zweite Kapitel des Zehnten Buche
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 11 Abs. 1 oder als Arbeitgeber entgegen § 60 Abs. 1 Nr. 2 des Ersten Buches Sozialgesetzbuch eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-2.
+2. entgegen § 13 Satz 1 in Verbindung mit § 315 Abs. 1, 2 Satz 1, Abs. 3 oder 5 Satz 1 und 2 des Dritten Buches Sozialgesetzbuch eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt,
 
-3.
+3. entgegen § 13 Satz 1 in Verbindung mit § 319 Abs. 1 Satz 1 des Dritten Buches Sozialgesetzbuch Einsicht oder Zutritt nicht gewährt oder
 
-4.
+4. entgegen § 13 Satz 1 in Verbindung mit § 319 Abs. 2 Satz 1 des Dritten Buches Sozialgesetzbuch Daten nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zur Verfügung stellt.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 4 mit einer Geldbuße bis zu dreißigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu tausend Euro geahndet werden.
 
@@ -232,13 +222,13 @@ Wurde mit der Altersteilzeit vor dem 1. Januar 2013 begonnen, gelten Arbeitnehme
 
 ### § 15j — Übergangsregelungen zum Gesetz zur Erhöhung des Schutzes durch den gesetzlichen Mindestlohn und zu Änderungen im Bereich der geringfügigen Beschäftigung
 
-Erhöht sich durch eine Anpassung des Mindestlohnes die Geringfügigkeitsgrenze nach § 8 Absatz 1a des Vierten Buches Sozialgesetzbuch, so gilt eine Person, die mit der Altersteilzeit vor der Anhebung des Mindestlohnes begonnen hat, weiterhin als versicherungspflichtig beschäftigt, wenn Mindestlohn ist der Mindestlohn nach § 1 Absatz 2 Satz 1 des Mindestlohngesetzes in Verbindung mit der auf der Grundlage des § 11 Absatz 1 Satz 1 des Mindestlohngesetzes jeweils erlassenen Verordnung.
+Erhöht sich durch eine Anpassung des Mindestlohnes die Geringfügigkeitsgrenze nach § 8 Absatz 1a des Vierten Buches Sozialgesetzbuch, so gilt eine Person, die mit der Altersteilzeit vor der Anhebung des Mindestlohnes begonnen hat, weiterhin als versicherungspflichtig beschäftigt, wenn
 
-1.
+1. sie bis zu dem Tag, an dem die Anhebung des Mindestlohnes in Kraft tritt, in einer versicherungspflichtigen Beschäftigung gestanden hat,
 
-2.
+2. sie die Voraussetzungen für eine versicherungspflichtige Beschäftigung nach der Anhebung des Mindestlohnes nicht mehr erfüllt und
 
-3.
+3. die am Tag vor dem Inkrafttreten der Anhebung des Mindestlohnes geltenden Voraussetzungen für eine versicherungspflichtige Beschäftigung weiterhin vorliegen.
 
 ### § 16 — Befristung der Förderungsfähigkeit
 

@@ -16,8 +16,6 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung von Titel II Ka
 
 ### § 2
 
-Die nach Landesrecht zuständigen Behörden genehmigen die Neuanpflanzung von Rebflächen nach Maßgabe der in § 1 genannten Bestimmungen im Rahmen der sich aus folgender Tabelle für jedes Land ergebenden Höchstfläche: LandNeuanpflanzung (ha)Baden-Württemberg525Bayern118Brandenburg24Hessen48Mecklenburg-Vorpommern5Nordrhein-Westfalen4Rheinland-Pfalz595Saarland14Sachsen80Sachsen-Anhalt40Schleswig-Holstein10Thüringen71
-
 ### § 3
 
 Die Landesregierungen regeln, soweit bundesrechtliche Vorschriften nicht entgegenstehen, in Rechtsverordnungen die näheren Voraussetzungen und das Verfahren für die Erteilung der Genehmigungen, insbesondere um zu gewährleisten, dass die in den § 2 vorgesehenen Höchstflächen nicht überschritten werden.

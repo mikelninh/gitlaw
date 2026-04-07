@@ -9,35 +9,17 @@
 
 Das Meer ist ein besonderer Raum, der vielfältige Funktionen in sich vereint. Gesunde Meere bieten Raum für Artenvielfalt, leisten einen wichtigen Beitrag für den Klimaschutz und bieten eine Vielzahl von Ökosystemleistungen. Die verantwortungsvolle Nutzung der maritimen Ressourcen ist die Grundlage einer nachhaltigen Meereswirtschaft, die zum Wohlstand für heutige und künftige Generationen beiträgt. Das Meer mit seinen vielfältigen Nutzungen verbindet Menschen, Lebensräume und Märkte und schafft Möglichkeiten für einen weltoffenen Austausch zwischen Ländern und Kulturen. Der grundsätzliche Einsatz klimafreundlicher Technologien, insbesondere der Windenergie auf See und weiterer erneuerbarer Energien, unterstützt die Energiesicherheit und das Erreichen nationaler und internationaler Klimaziele. Gleichzeitig bietet das Meer Raum für traditionelle Nutzungen wie Schifffahrt, Fischerei, Erholung und Freizeit und birgt menschliche Spuren, die kulturgeschichtliche Bedeutung haben können.
 
-Die maritime Raumordnung bewahrt die natürlichen Strukturen und Funktionen der Meere und trifft Vorsorge für die vielfältigen aktuellen und künftigen Nutzungen des Meeresraums und dessen Schutz im europäischen Kontext. Sie gleicht unterschiedliche Ansprüche und Interessen durch umsichtige Abwägung ökologischer, wirtschaftlicher und sozialer Belange im Einklang mit den Zielen der Vereinten Nationen für nachhaltige Entwicklung aus.Das Leitbild konkretisiert sich in folgenden Leitlinien:
+Die maritime Raumordnung bewahrt die natürlichen Strukturen und Funktionen der Meere und trifft Vorsorge für die vielfältigen aktuellen und künftigen Nutzungen des Meeresraums und dessen Schutz im europäischen Kontext. Sie gleicht unterschiedliche Ansprüche und Interessen durch umsichtige Abwägung ökologischer, wirtschaftlicher und sozialer Belange im Einklang mit den Zielen der Vereinten Nationen für nachhaltige Entwicklung aus.
 
--
+- Unterstützung einer kohärenten internationalen Meeresraumplanung und territorialen Kooperation durch die Zusammenarbeit mit anderen Ländern und auf der Ebene der Regionalmeere.
 
--
+- Berücksichtigung von Land-Meer-Beziehungen sowie von Transport- und Wertschöpfungsketten durch enge Abstimmungen mit den Küstenländern für eine kohärente Planung.
 
--
+- Grundlage für eine Meereswirtschaft im Einklang mit den Zielen einer nachhaltigen Entwicklung durch:•Sicherung einer geordneten Raumentwicklung durch Koordinierung der aktuellen und zukünftigen räumlichen Nutzungsansprüche,•Priorisierung meeresspezifischer Nutzungen sowie Maxime einer sparsamen und optimierten Flächeninanspruchnahme sowie der Reversibilität von ortsfesten Anlagen,•Gründung auf das Vorsorgeprinzip und auf den Ökosystemansatz, der eine ganzheitliche Betrachtung der unterschiedlichen Aktivitäten im Meer mit ihren Aus- und Wechselwirkungen sowie kumulativen Wirkungen ermöglicht. Sicherung einer geordneten Raumentwicklung durch Koordinierung der aktuellen und zukünftigen räumlichen Nutzungsansprüche, Priorisierung meeresspezifischer Nutzungen sowie Maxime einer sparsamen und optimierten Flächeninanspruchnahme sowie der Reversibilität von ortsfesten Anlagen, Gründung auf das Vorsorgeprinzip und auf den Ökosystemansatz, der eine ganzheitliche Betrachtung der unterschiedlichen Aktivitäten im Meer mit ihren Aus- und Wechselwirkungen sowie kumulativen Wirkungen ermöglicht.
 
-•
+- Die maritime Raumordnung koordiniert unterschiedliche Nutzungs- und Schutzkomponenten. Sie unterstützt entsprechend § 17 Absatz 1 Satz 2 ROG•die Sicherheit und Leichtigkeit des Schiffsverkehrs,•die weiteren wirtschaftlichen Nutzungen, insbesondere die erneuerbaren Energien,•die wissenschaftlichen Nutzungen, insbesondere die Meeresforschung, sowie•Sicherheitsaspekte, insbesondere die Landes- und Bündnisverteidigung. die Sicherheit und Leichtigkeit des Schiffsverkehrs, die weiteren wirtschaftlichen Nutzungen, insbesondere die erneuerbaren Energien, die wissenschaftlichen Nutzungen, insbesondere die Meeresforschung, sowie Sicherheitsaspekte, insbesondere die Landes- und Bündnisverteidigung.
 
-•
-
-•
-
--
-
-•
-
-•
-
-•
-
-•
-
--
-
-•
-
-•
+- Gleichzeitig leistet sie entsprechend § 17 Absatz 1 Satz 2 ROG einen Beitrag zum Schutz und zur Verbesserung der Meeresumwelt einschließlich der Erreichung eines guten Zustands der Meeresgewässer unter Berücksichtigung des Klimaschutzes durch•entsprechende räumliche Festlegungen für die Meeresumwelt und•Festlegungen zur Vermeidung oder Verminderung von Störungen und Verschmutzungen bei den vorgenannten Nutzungen. entsprechende räumliche Festlegungen für die Meeresumwelt und Festlegungen zur Vermeidung oder Verminderung von Störungen und Verschmutzungen bei den vorgenannten Nutzungen.
 
 Die folgenden Festlegungen finden im europa- und völkerrechtlichen Rahmen Anwendung, insbesondere unter Berücksichtigung des SRÜ.
 
@@ -47,19 +29,11 @@ Ziele der Raumordnung sind mit (Z), Grundsätze der Raumordnung mit (G) markiert
 
 Vorranggebiete haben den Rechtscharakter von Zielen der Raumordnung, Vorbehaltsgebiete den von Grundsätzen der Raumordnung.
 
-Begründung
-
-Vorbemerkung
-
 In der AWZ übt die Bundesrepublik Deutschland als Küstenstaat nach dem SRÜ keine Hoheitsgewalt aus, ihr stehen nur funktionale Hoheitsrechte zu. In der AWZ gilt grundsätzlich die Freiheit der Schifffahrt nach Artikel 58 Absatz 1 SRÜ. Die Schifffahrtsfreiheit ist daher bei der Ordnung der Funktionen der AWZ, über die der Küstenstaat Hoheitsrechte ausübt, besonders zu beachten. Insbesondere dürfen nach Artikel 60 Absatz 7 SRÜ künstliche Inseln, Anlagen und Bauwerke und die sie umgebenden Sicherheitszonen dort nicht errichtet werden, wo dies die Benutzung anerkannter und für die internationale Schifffahrt wichtiger Schifffahrtswege behindern kann. Entsprechend räumen das ROG wie auch verschiedene Fachgesetze der Sicherheit und Leichtigkeit des Seeverkehrs bei der Nutzung der AWZ einen hohen Stellenwert ein. Zweck ist vor allem die Freihaltung wichtiger Schifffahrtsrouten von sie gefährdenden Nutzungen.
 
 Bei der fortlaufenden Evaluierung sowie einer etwaigen Fortschreibung des Plans werden die Entwicklungen der Raumordnungspläne der Nachbarländer sowie deren Auswirkungen auf die deutsche AWZ besonders berücksichtigt, um eine bedarfsgerechte verkehrliche Anbindung des Verkehrsraums Deutsche Bucht zu gewährleisten und die durch die AWZ verlaufenden Transitverkehre zu ermöglichen. Dabei werden voraussichtlich die Belange der Schifffahrt sowohl hinsichtlich der nordgehenden Routen (eventuell eisfreier Nordpol und damit zusammenhängende Verkehrsverlagerungen) als auch hinsichtlich der west-östlich verlaufenden Anbindungen ins Skagerrak von besonderem Interesse sein.
 
 Zu berücksichtigen sind vor allem die von der IMO festgelegten Verkehrstrennungsgebiete in Nord- und Ostsee. Darüber hinaus finden die anhand von AIS-Verkehrsanalysen festgestellten tatsächlichen Schifffahrtsrouten sowie die zukünftig als bedeutend identifizierten Verkehrswege Berücksichtigung.
-
-Begründung der Ziele und Grundsätze
-
-Zu (1) Vorranggebiete Schifffahrt:Der Seeverkehr zu den deutschen Seehäfen an der Nordsee- und der Ostseeküste stellt für die Bundesrepublik Deutschland als Außenhandelsnation einen bedeutenden verkehrswirtschaftlichen Faktor dar. Ohne funktionierenden und sicheren Schiffsverkehr ist kein florierender Welthandel denkbar.
 
 Die raumordnerischen Festlegungen zur Schifffahrt dienen insbesondere der zusätzlichen raumordnerischen Sicherung nautischer Grundanforderungen im Bereich wichtiger Routen. Etwaige darüber hinaus gehende Anforderungen (nautisch erforderliche Ausdehnung von Schifffahrtswegen/Manövrierraum etc.) bleiben unberührt.
 
@@ -77,99 +51,43 @@ Die aktuelle Verkehrsbetrachtung aufgrund von AIS-Daten bestätigt im Wesentlich
 
 Durch die Beachtung bestehender Verkehrsströme wird auch das operative Ziel UZ2-03 der Meeresstrategie-Rahmenrichtlinie (MSRL) „Verhütung und Bekämpfung von Meeresverschmutzungen – Verbesserung der maritimen Notfallvorsorge und des Notfallmanagements“ unterstützt.
 
-Zu (2) Befristetes Vorranggebiet Schifffahrt:Der international anerkannte Schifffahrtsweg Den Helder – Skagen (SN10) wird mit weiterhin steigender Tendenz von mehr als 16 000 Schiffen im Jahr befahren und weist eine hohe Lateralverteilung auf, mit einem hohen Anteil von Tankerverkehren im westlichen und einem hohen Anteil von Frachtverkehren im östlichen Bereich von SN10. Aufgrund der Zunahme des Schiffsverkehrs bedarf es zur Gewährleistung von dessen Sicherheit und Leichtigkeit entsprechender der Schifffahrt gewidmeter Flächen. Daher wird die Schifffahrtsroute SN10 als Vorranggebiet festgelegt.
-
 Jedoch prüft die Bundesregierung zurzeit gemeinsam mit den Niederlanden und Dänemark verkehrslenkende Maßnahmen wie z. B. ein Verkehrstrennungsgebiet im Bereich des jetzigen Schifffahrtsweges SN10. Bei positivem Ergebnis dieser Prüfung sollen entsprechende internationale Initiativen, z. B. Verhandlungen in der IMO, eingeleitet werden. Verlaufen diese positiv, würden die verkehrslenkenden Maßnahmen, da sie unter anderem den Begegnungsverkehr entzerren könnten, sicherheitserhöhend wirken und damit ggf. einen geringeren Platzbedarf für die Schifffahrt nach sich ziehen. In diesem Fall könnten in einer weiteren Fortschreibung des Raumordnungsplans für die Schifffahrt nicht mehr notwendige Flächen mit anderweitigen Nutzungen überplant werden. In Betracht kommt hier eine Flächeninanspruchnahme durch Windenergie auf See, um die Klimaziele auf nationaler und europäischer Ebene erreichen zu können. Entsprechend werden in Festlegung (2) die später eventuell nicht mehr notwendigen Flächen innerhalb des SN10 als bis 2035 befristetes Vorranggebiet ausgewiesen. Um jedoch zu gewährleisten, dass im Falle des Nichterfolgens international abgestimmter verkehrslenkender Maßnahmen die Sicherheit und Leichtigkeit des Verkehrs weiterhin gewährleistet bleibt, wird für diese Flächen zugleich ein Vorbehalt für die Schifffahrt ab dem 31.12.2035 festgelegt.
 
-Zu (3) Befristete Vorbehaltsgebiete Schifffahrt:Die Schifffahrtsrouten SN19 und SO5 werden als befristete Vorbehaltsgebiete festgelegt. Dies stellt sicher, dass ausreichend Zeit besteht, die Verkehrssituation in den Gebieten zu analysieren und die Erforderlichkeit der Festlegung zu prüfen. Als Grundlage für den Nachweis des für Schifffahrt zuständigen Bundesministeriums, ob die Gebiete über die Befristung hinaus für die Sicherheit und Leichtigkeit des Schiffverkehrs erforderlich sind, soll das BSH in Abstimmung mit dem für Schifffahrt zuständigen Bundesministerium und der Generaldirektion Wasserstraßen und Schifffahrt (GDWS) entsprechende Gutachten (numerische Auswertungen, Simulationen von Risikoszenarien, etc.) beauftragen. An der Untersuchung und Auswertung werden die betroffenen Anrainerstaaten von Nordsee und Ostsee beteiligt.
-
-Zu (4) Nachhaltigkeit, Schutz der Meeresumwelt:Internationale Vereinbarungen zur Verhütung von Beeinträchtigungen der Meeresumwelt, wie insbesondere die Internationalen Übereinkommen MARPOL, OSPAR und HELCOM, zielen darauf ab, dass von der Schifffahrt eine möglichst geringe Beeinträchtigung der Meeresumwelt erfolgt. Neben den verbindlichen Regelungen der IMO sollen die beste Umweltpraxis („best environmental practice“) gemäß OSPAR-Übereinkommen sowie die Helsinki-Konvention von 1992 mit ihren Aktualisierungen (letztmalig am 01.07.2014) und der jeweilige Stand der Technik berücksichtigt werden.
-
 Die Einhaltung der Grenzwerte für Schwefeloxid- und Stickstoffoxid-Emissionen als Teil des Internationalen Übereinkommens MARPOL unterstützt dabei auch das von Deutschland gemäß Artikel 10 MSRL für Nord- und Ostsee entwickelte Umweltziel 1: Meere ohne Beeinträchtigung durch anthropogene Eutrophierung.
-
-Ziele und Grundsätze
-
-–
-
-–
-
-–
-
-–
-
-–
-
-Begründung
-
-Begründung der Ziele und Grundsätze
-
-Zu (1) Nachhaltigkeit und Flächensparsamkeit:Die nachhaltige Entwicklung des Raums ist Leitvorstellung der Raumordnung, vgl. § 1 Absatz 2 ROG. Hierzu gehört es auch, dass die begrenzte Ressource Raum so effizient wie möglich genutzt wird. Bei Nutzungskonkurrenzen heißt dies, dass die einzelnen Nutzungen möglichst nachhaltig und flächensparsam erfolgen müssen. Die deutsche AWZ ist in ihrer Fläche sehr beschränkt, gleichzeitig hat sie für verschiedene Nutzungen und die Meeresumwelt eine hohe Bedeutung. Dem Flächenverbrauch wird daher ein großes Gewicht beigemessen. Dies gilt gleichermaßen für alle Nutzungen.
 
 Die Bewahrung der natürlichen Ressourcen ist Voraussetzung für ihre Nutzung. Wirtschaftliche Nutzungen sollen daher nachhaltig im Sinne einer generationengerechten Nutzung erfolgen.
 
 So sollen insbesondere auch Fischbestände zur dauerhaften Sicherung der fischereilichen Nutzung nachhaltig bewirtschaftet werden.
 
-Zu (2) Rückbau:Zur Flächensparsamkeit gehört es auch, dass Flächen nach dem jeweiligen Ende einer bestimmten Nutzung etwaigen nachfolgenden Nutzungen und Schutzfunktionen wieder zur Verfügung stehen müssen. Dieser Grundgedanke findet bereits in verschiedenen fachgesetzlichen Regelungen sowie im SRÜ seinen Ausdruck. Die fachgesetzlichen Regelungen und ihre Belange bleiben unberührt.
-
 Durch den Rückbau von Anlagen und Leitungen soll neuer Platz für die Nachnutzung geschaffen werden. Eine Nachnutzung in diesem Sinne sind auch die erneute Nutzung durch die Windenergie auf See und sonstige Energiegewinnungsanlagen.
 
-Zu (3) Minimierung von Beeinträchtigungen anderer Nutzungen:Zur nachhaltigen Entwicklung des Raumes gehört es auch, dass bei Nutzungskonkurrenzen die Raumordnung darauf hinwirkt, dass sich die einzelnen Nutzungen einerseits möglichst gut entfalten können, andererseits dies in einem Rahmen geschieht, dass eine Beeinträchtigung der übrigen Nutzungen so wenig wie möglich erfolgt.
-
 Aufgrund der Vielzahl der in der AWZ bestehenden und geplanten wirtschaftlichen Nutzungen, der teilweise großen Rauminanspruchnahme und des dadurch entstehenden Nutzungsdrucks ist es erforderlich, die wirtschaftlichen Nutzungen so zu planen, dass diese sich gegenseitig möglichst wenig beeinträchtigen. Dieser Grundsatz erstreckt sich grundsätzlich auf alle Nutzungen und verlangt gegenseitige Rücksichtnahme und Koordination. Dies kann etwa durch zeitliche Koordination oder durch Abstandhalten umgesetzt werden. So geht in diesem allgemeinen Grundsatz das Erfordernis aus dem Raumordnungsplan 2009 auf, dass bei Maßnahmen der Rohstoffgewinnung und bei der Errichtung von Windenergieanlagen zu vorhandenen Rohrleitungen und Seekabeln ein für sicheren Betrieb und Wartung ausreichender Abstand eingehalten werden muss. Dabei ist die Festlegung eines angemessenen Abstandes Gegenstand der Fachplanung (etwa des FEP) oder des Einzelzulassungsverfahrens.
-
-Sicherheit und Leichtigkeit des Schiffsverkehrs:Für den Seeverkehr trägt die Festlegung den völkerrechtlichen Vorgaben insbesondere aus Artikel 58 Absatz 1 und Artikel 60 Absatz 7 SRÜ Rechnung, ebenso wie der hohen Bedeutung des Schiffsverkehrs für die Bundesrepublik Deutschland und der Bedeutung der deutschen AWZ für den internationalen Schiffsverkehr. Diese Vorgaben sind bereits in einigen Fachgesetzen konkretisiert, so etwa in § 48 Absatz 4 Nummer 2 WindSeeG und § 5 Absatz 3 Nummer 2 SeeAnlG.
-
-Andere wirtschaftliche Nutzungen:Der Ausbau der Windenergie auf See in der AWZ ist von herausragender Bedeutung für das Erreichen der deutschen und europäischen Ziele zum Klimaschutz. Ohne den Ausbau der Windenergie auf See, der künftig durch grenzüberschreitende Projekte ergänzt wird, sind diese Ziele unerreichbar. Dieser besonderen Bedeutung trägt der Raumordnungsplan besonders Rechnung. Aufgrund der langen Planungs- und Genehmigungszeiträume für Windenergieanlagen auf See und für Offshore-Anbindungsleitungen ist es bereits auf Ebene des Raumordnungsplans notwendig, langfristig Flächen für Windenergie auf See zu sichern und eine Ko-Nutzung mit anderen Nutzungen anzustreben.
-
-Wissenschaftliche Forschung:Verschiedene Forschungsinstitute für Meeres- und Fischereiforschung, aber z. B. auch das BSH, führen in der AWZ umfangreiche Forschungshandlungen auf wiederkehrenden Routen und an gleichen Standorten durch, oft regelmäßig und über längere Zeiträume. Durch wirtschaftliche Nutzungen sollen diese Aktivitäten so wenig wie möglich beeinträchtigt werden, und bei möglichen Konflikten sollen frühzeitig Abstimmungen zu Lösungsmöglichkeiten mit den betroffenen Forschungseinrichtungen erfolgen.
 
 An stationären Messstationen mit fest installierten Messeinrichtungen von Behörden und Forschungsinstituten werden in der Regel fortlaufende Langzeitmessungen durchgeführt. Um die Untersuchungsreihen zur Grundlagenforschung sowie zur Umweltüberwachung nicht zu gefährden, sollen Nutzungen, die diese Messungen beeinträchtigen könnten, einen angemessenen Abstand einhalten.
 
 In Gebieten für Windenergie soll auch eine wissenschaftliche Meeresforschung, die nicht direkt im Zusammenhang mit der Planung, der Errichtung und dem Betrieb von Windparks steht, weiterhin ermöglicht werden. Dazu sollen die Belange der forschenden Einrichtungen möglichst frühzeitig während der Konzeptionierung der Vorhaben berücksichtigt werden, und zwar möglichst, ohne dass dies zu Beeinträchtigungen oder Verzögerungen des Betriebs der Windparks führt. Auf den nachgelagerten Planungs- und Entscheidungsebenen sollen die Belange der Forschung, z. B. die Befahrbarkeit von Windparks mit Forschungsfahrzeugen, weitgehende Berücksichtigung finden. Aus Sicht der Raumordnung wäre es wünschenswert, wenn auf nachgelagerter Ebene entsprechende Befahrensregelungen erlassen würden.
 
-Landes- und Bündnisverteidigung:Die militärischen Interessen und die Funktionsfähigkeit der Bundeswehr sollen gewahrt bleiben.
-
 Eine fachgesetzliche Konkretisierung findet sich bereits in § 48 Absatz 4 Nr. 3 WindSeeG und § 5 Absatz 3 Nr. 3 SeeAnlG.
-
-Kulturelles Erbe:Das Unterwasserkulturerbe umfasst alle Spuren menschlicher Existenz, die einen kulturellen, historischen oder archäologischen Charakter haben und entweder auf dem Meeresboden oder im Meeresuntergrund liegen. Dazu zählen untergegangene Siedlungslandschaften mit Artefakten, baulichen Strukturen und menschlichen und tierischen Überresten, sowie pflanzliche und geologische/geomorphologische Zeugnisse, welche im Zusammenhang menschlichen Wirkens zu sehen sind. Ebenso zählen zum Unterwasserkulturerbe Wracks von Wasserfahrzeugen, Luftfahrzeugen und Fahrzeugen, Wrackteile und assoziierte Ausrüstungsgegenstände, Ladungen und Inventare.
 
 Der allgemeine Grundsatz zur Minimierung von Beeinträchtigungen des kulturellen Erbes unter Wasser durch wirtschaftliche Nutzungen zielt darauf, dass in Abstimmung mit den Fachbehörden frühzeitig geeignete Maßnahmen getroffen werden, um negative Auswirkungen zu vermeiden oder so gering wie möglich zu halten.
 
 Bei einer frühzeitigen Einbeziehung der für Denkmalpflege und Archäologie zuständigen Fachbehörden im Rahmen von Vorhaben in der AWZ soll sichergestellt werden, dass die fachliche Einordnung und angemessene Bewertung und Sicherung von Kulturgütern rechtzeitig erfolgen kann und gegebenenfalls vorhandene Erkenntnisse der Fachbehörden bei der Planung von Untersuchungen im Rahmen der Vorhaben berücksichtigt werden können. Dies gilt besonders für solche Nutzungen, die unmittelbar Erkenntnisse oder Beeinträchtigungen des Kulturerbes nach sich ziehen können, wie etwa Erkundungen des Meeresbodens für wirtschaftliche Nutzungen. Neben Fundstellen von Kulturgütern, zu denen bereits Erkenntnisse vorliegen, sollen auch bisher nicht bekannte und im Rahmen der wirtschaftlichen Nutzung neu aufgefundene Stellen berücksichtigt werden.
 
-Zu (4.1) Vermeidung einer Gefährdung der Meeresumwelt:Gemäß § 17 Absatz 1 Satz 1 Nummer 4 ROG soll der Raumordnungsplan Festlegungen treffen, die dem Schutz und der Verbesserung der Meeresumwelt dienen. Eine Gefährdung der Meeresumwelt soll so weit wie möglich vermieden werden. Unvermeidbare Belastungen sollen soweit wie möglich reduziert werden. Dieser Grundsatz greift ebenfalls bereits bestehende fachgesetzliche Regelungen auf und verallgemeinert sie im Sinne einer nachhaltigen Nutzung der AWZ unter Anwendung des Ökosystemansatzes.
-
 So ist bei der Windenergie auf See und bei Stromkabeln die Vermeidung der Gefährdung der Meeresumwelt in der Fachplanung und im Einzelzulassungsverfahren bereits ein Prüfungsmaßstab. Gemäß § 48 Absatz 4 WindSeeG darf der Plan nur festgestellt werden, wenn die Meeresumwelt nicht gefährdet wird. Für die Aufsuchung von bergfreien und grundeigenen Bodenschätzen findet sich eine ähnliche Regelung in § 49 BBergG. Gemäß § 3 OffshoreBergV muss dafür gesorgt werden, dass bei bergbaulichen Tätigkeiten nachteilige Auswirkungen auf die Meeresumwelt unterbleiben oder so gering wie möglich gehalten werden.
 
 Die Beeinträchtigung von Vorkommen gesetzlich geschützter Biotope nach § 30 BNatSchG soll bei der Planung, der Errichtung und dem Betrieb von Anlagen zur Energiegewinnung und von Leitungen vermieden werden. Zur Vermeidung von negativen Auswirkungen auf sensible Lebensräume sollten die Leitungen möglichst außerhalb von Naturschutzgebieten geplant und verlegt werden. Weitergehende fach- und naturschutzrechtliche Vorschriften bleiben unberührt.
 
-Beste Umweltpraxis:Bei der konkreten wirtschaftlichen Nutzung sind nicht alle negativen Auswirkungen auf die Umwelt vermeidbar. Im Sinne einer Minimierung sollen daher die bestehende beste Umweltpraxis gemäß OSPAR- und Helsinki-Übereinkommen, weiterer maßgeblicher internationaler Übereinkommen und der Stand von Wissenschaft und Technik berücksichtigt werden. Die konkrete Umsetzung, etwa die Berücksichtigung von artspezifisch besonders störanfälligen Zeiträumen, ist, soweit vorhanden, in nachgelagerten Planungsebenen, insbesondere Einzelzulassungsverfahren unter Berücksichtigung der Besonderheiten des Vorhabengebietes, zu regeln. Dabei werden keine Maßnahmen gefordert, deren Anwendung technisch nicht umsetzbar oder unter Berücksichtigung von Kosten-Nutzen-Verhältnissen nicht vertretbar ist.
-
 Der Rückgriff auf den Stand von Wissenschaft und Technik als Maßstab erfolgt, um der bestehenden Unsicherheit und der an vielen Stellen lückenhaften Erkenntnisgrundlage auf See im Sinne des Vorsorgeprinzips und des Ökosystemansatzes Rechnung zu tragen. Fachrechtliche Regelungen, etwa in der OffshoreBergV, bleiben davon unberührt. Dort, wo noch kein Stand der Technik besteht, soll auch der Stand von Wissenschaft und Technik Berücksichtigung finden. Dies war etwa bei der Minimierung von Rammschall durch die Empfehlungen im BMUKonzept für den Schutz der Schweinswale (Phocoena phocoena) vor Schallbelastung bei der Errichtung von Offshore-Windparks in der deutschen Nordsee (Schallschutzkonzept von 2013) lange Zeit der Fall. Dort, wo sich anerkannte Regeln der Technik oder ein Stand der Technik herausgebildet haben, soll auf diese zurückgegriffen werden.
 
-Zu (4.2) Monitoring:Um eine möglichst umweltverträgliche Nutzung der AWZ zu gewährleisten, sollen Daten und Erkenntnisse zu den Auswirkungen wirtschaftlicher Nutzungen auf die Meeresumwelt, die im Rahmen eines vorhabenbezogenen Monitorings gewonnen werden, dem BSH zur Verfügung gestellt werden. Das angestrebte Monitoring kann durch entsprechende Vorgaben der Zulassungsbehörde geregelt werden und entspricht der bestehenden Zulassungspraxis der Fachbehörden. Für die Untersuchung und Überwachung der Auswirkungen von Windenergieanlagen regelt etwa das Standarduntersuchungskonzept des BSH Art und Umfang der erforderlichen vorhabenbezogenen Untersuchungen. Die auf Vorhabenebene gewonnenen Ergebnisse werden für das Monitoring der Durchführung des Raumordnungsplans herangezogen.
-
 Gleichzeitig dient das Monitoring einem weiteren Erkenntnisgewinn und ermöglicht so eine zukünftige nachhaltige Nutzung unter Anwendung des Ökosystemansatzes.
-
-Begründung
-
-Vorbemerkung
 
 Die Raumordnungsplanung führt als räumliche Gesamtplanung die Nutzungsinteressen verschiedener Nutzungen zusammen und trifft Vorsorge für Nutzungen und die vielfältigen Funktionen des Meeres. Der Raumordnungsplan regelt auf einer übergeordneten Planungsebene die Gebietskategorien (Vorrang- und Vorbehaltsgebiete) sowie weitere Ziele und Grundsätze für verschiedene Nutzungen. Für den Bereich der Windenergie besteht daneben ein gestufter Planungs- und Zulassungsprozess. Die Energiefachplanung umfasst hier die Flächenentwicklungsplanung, die Eignungsfeststellung und die konkrete Zulassung von Windenergieanlagen.
 
 Als fachplanerisches Instrument für die Windenergie dient der Flächenentwicklungsplan (FEP), der durch das BSH aufgestellt und fortgeschrieben wird. Der FEP wurde am 28.06.2019 erstmalig veröffentlicht und dient der Umsetzung des Ausbauziels für Windenergie auf See gemäß dem WindSeeG. In dem Plan werden überwiegend Festlegungen zu Gebieten und Flächen für Windenergieanlagen, zur voraussichtlich zu installierenden Leistung auf den Flächen sowie zur Reihenfolge, in der die Flächen zur Ausschreibung kommen sollen, getroffen. Darüber hinaus legt der FEP Trassen, Trassenkorridore, Standorte sowie Planungs- und Technikgrundsätze fest. Gemäß § 5 Absatz 3 Nr. 1 WindSeeG sind Festlegungen des FEP insbesondere unzulässig, wenn sie mit den Erfordernissen der Raumordnung nach § 17 Absatz 1 des ROG nicht übereinstimmen. Insofern bedarf es eines Austausches und Abgleiches der Festlegungen in Fach- und Gesamtplanung.
 
-Begründung der Ziele und Grundsätze
-
-Zu (1) Vorranggebiete Windenergie:Die räumliche Sicherung von Flächen zur Windenergiegewinnung ist Ausdruck des raumordnerischen Leitbildes einer nachhaltigen, klimaschützenden Entwicklung. Sie ermöglicht insbesondere die Umsetzung der Gedanken des Leitbildes zum Einsatz klimafreundlicher Energien, zur Unterstützung der Energiesicherheit sowie zum Erreichen nationaler und internationaler Klimaziele und zur Erreichung des Treibhausgasneutralitätsziels 2045 (Klimaschutzgesetz) und 2050 (European Green Deal).
-
 Ausgangspunkt für die Festlegung von Vorranggebieten Windenergie sind zunächst die im FEP 2020 festgelegten Gebiete O-1 und O-3 (Ostsee), N-1 bis N-3 sowie N-6 bis N-13 (Nordsee). Diese Gebiete werden als Vorranggebiete EN1 bis EN3 sowie EN6 bis EN13 (Nordsee) und EO1 bis EO3 (Ostsee) festgelegt.
 
 Die Festlegung des Gebietes EN13-Nord als Vorranggebiet Windenergie auf See ab 01.01.2030 steht unter dem Vorbehalt, dass das für Schifffahrt zuständige Bundesministerium nicht bis zum 31.12.2025 gegenüber dem für Raumordnung zuständigen Bundesministerium nachweist, dass dieses Gebiet aus zwingenden Gründen der Sicherheit und Leichtigkeit des Schiffsverkehrs für die Schifffahrt benötigt wird. Dies stellt sicher, dass ausreichend Zeit besteht, die Verkehrssituation in den Gebieten zu analysieren und die Erforderlichkeit des Gebietes für die Schifffahrt zu prüfen.
-
-Durch den Umfang der festgelegten Vorranggebiete Windenergie auf See soll die Umsetzung eines erhöhten Ausbauziels der Bundesregierung bis 2030 gewährleistet werden. Die festgelegten Vorranggebiete Windenergie auf See dienen damit ebenfalls der Erreichung des im Integrierten Nationalen Energie- und Klimaplan angegebenen Ausbauziels für die Windenergie auf See in Höhe von 20 GW bis 2030 und als Beitrag zur Dekarbonisierung des Stromsektors vor dem Jahr 2045. Das EEG enthält das Ziel, dass vor dem Jahr 2050 der gesamte Strom, der im Staatsgebiet der Bundesrepublik Deutschland einschließlich der deutschen ausschließlichen Wirtschaftszone erzeugt oder verbraucht wird, treibhausgasneutral erzeugt wird.
-
-Zu (2) Vorbehaltsgebiete Windenergie:Die Festlegung von Vorbehaltsgebieten Windenergie dient der Sicherung von Flächen zum weiteren Ausbau der Windenergie auf See. Gleichermaßen dient die Festlegung der Vorbehaltsgebiete der Hebung küstennaher Potentiale und der Sicherung eines weiteren Ausbaupfades auf der bestmöglichen Datenlage insbesondere hinsichtlich konkurrierender Nutzungen.
 
 Das WindSeeG legt ein Ausbauziel von 40 GW bis 2040 fest.
 
@@ -179,19 +97,7 @@ Die Festlegung des Gebietes EO2-West als Vorbehaltsgebiet Windenergie auf See ab
 
 Die Festlegung des Gebietes EN20 als Vorbehaltsgebiet Windenergie auf See ab dem 01.01.2027 steht unter dem Vorbehalt, dass das für Fischereiforschung zuständige Bundesministerium bis zum 31.12.2026 gegenüber dem für Raumordnung zuständigen Bundesministerium nachweist, dass der Flächenzuschnitt von FoN3 in Abbildung 10 für die Forschung geeignet ist. Dies stellt sicher, dass analysiert werden kann, ob die Voraussetzungen für eine mögliche Mehrfachnutzung des Gebietes EN20 gegeben sind.
 
-Zu (3) Mehrfach-Nutzung:Die Überlagerung der Windenergiegebiete EN20 und EO2 mit den Vorbehaltsgebieten für die Forschung FoN3 und FoO3 trägt sowohl der Erreichung der Ausbauziele für Erneuerbare Energien als auch der Fischereiforschung Rechnung. Um hier eine praktische Mehrfachnutzung zu ermöglichen, soll bei der Errichtung von Windenergieanlagen gewährleistet sein, dass die Fischereiforschung in der bislang üblichen Art und Weise (einschließlich der erforderlichen grundberührenden Fischereiforschung) fortgeführt werden kann.
-
-Zu (4) Fischerei:Durch die großräumige Inanspruchnahme weiterer Gebiete für die Energiegewinnung und geplante fischereiliche Managementmaßnahmen in den Naturschutzgebieten in der AWZ werden der Fischerei voraussichtlich weitere Flächen entzogen. Vor diesem Hintergrund wird das für Raumordnung zuständige Bundesministerium mit den für Fischerei und Schifffahrt zuständigen Bundesministerien ein Forschungsvorhaben durchführen. In diesem wird wissenschaftlich untersucht und anhand konkreter Fallkonstellationen geprüft, ob und inwieweit eine gemeinsame Nutzung von Flächen durch die Windenergie auf See und die Fischerei im Hinblick auf Sicherheitsbelange ermöglicht werden kann, und zwar sowohl in Bezug auf die passive als auch die aktive Fischerei. Der Forschungsrahmen, der die Frage der Sicherheit bezüglich einer möglichen Fischerei in den betroffenen Flächen zum Inhalt hat, wird zuvor mit den für Umwelt und Energie zuständigen Bundesministerien abgestimmt.
-
-Zu (5.1) Verteidigung:Mit der Zunahme fester Installationen in der AWZ ist eine Einschränkung der Bewegungsfreiheit der Fahrzeuge der Bundeswehr verbunden; gleichzeitig ist zu erwarten, dass bebaute Flächen im Verteidigungsfall Operationsraum werden. Um eine effektive Landes- und Bündnisverteidigung zu gewährleisten, ist bereits im Friedensfall die Befahrung von Windparks erforderlich. Dem darf die raumordnerische Ausweisung von Windenergiegebieten grundsätzlich nicht entgegenstehen. Dabei soll das Befahren der Windparks nach den Grundsätzen der guten Seemannschaft erfolgen, d. h., dass in der Regel die Windparks zur Erreichung eines außerhalb der Windparks gelegenen Ziels durchquert werden, und dass insbesondere innerhalb der Windparks keine Übungstätigkeiten erfolgen, die den Windpark im sicheren und wirtschaftlichen Betrieb beeinträchtigen.
-
 Die militärischen Interessen und die Funktionsfähigkeit der Bundeswehr sollen gewahrt bleiben.
-
-Zu (5.2) Verteidigung:Weiterhin erschwert eine Vielzahl von neu zu installierenden Windenergieanlagen die Aufklärung, allerdings bieten die Windparks und ihre Nebenanlagen umfassende Möglichkeiten zur Installation von technischen Geräten. Um eine weitere Beeinträchtigung der Landes- und Bündnisverteidigung zu vermeiden, soll daher die Installation insbesondere von Geräten möglich sein, die der Aufklärung dienen. Zur Sicherung der Landes- und Bündnisverteidigung sind ausreichend große, für den jeweiligen Zweck geeignete und ohne Einschränkung der Funktionsfähigkeit der Bundeswehr erreichbare Gebiete für militärische Nutzungen erforderlich. Diese umfassen Gebiete (vgl. Kapitel 2.5) auf und über See, d. h. vom Luftraum bis zum Meeresgrund.
-
-Zu (6) Schutz der Meeresumwelt:Der Grundsatz dient einer geordneten und nachhaltigen Raumentwicklung durch Minimierung von Schallbeeinträchtigungen sowie durch Koordinierung der aktuellen und zukünftigen räumlichen Nutzungsansprüche. Hierdurch werden der Ökosystemansatz, das Vorsorgeprinzip und die Aus- und Wechselwirkungen sowie kumulative Wirkungen der Nutzungen berücksichtigt.
-
-Durch die Anwendung von Lärmminderungsmaßnahmen nach dem Stand der Wissenschaft und Technik werden Schallimmissionen in die Meeresumwelt reduziert, die mit der Errichtung von Energiegewinnungsanlagen häufig einhergehen. Der Grundsatz entspricht der ständigen Verwaltungspraxis des BSH und den Festlegungen des FEP 2020. Bereits jetzt wird auf der konkreten Vorhabenebene während der Installation von Windenergieanlagen der Einsatz von wirksamen technischen Schallminderungssystemen zur Wahrung artenschutz- und gebietsschutzrechtlicher Belange regelmäßig vorgesehen. Dabei sollte das Schallschutzkonzept des BMU für die Nordsee von 2013berücksichtigt werden.
 
 So werden gleichzeitig das MSRL-Umweltziel 6 „Meere ohne Beeinträchtigung durch anthropogene Energieeinträge“ und das operative Ziel UZ6-04 „Entwicklung und Anwendung von Lärmminderungsmaßnahmen für die Nord- und Ostsee“ unterstützt.
 
@@ -201,39 +107,9 @@ Einzelheiten sollten im Rahmen der Fachplanung des FEP und der Einzelzulassungsv
 
 Die folgenden Ziele und Grundsätze gelten nicht für die stromführenden Seekabel, die der Verbindung innerhalb eines Windparks dienen (parkinterne Verkabelung).
 
-Ziele und Grundsätze
-
-Begründung
-
-Begründung der Ziele und Grundsätze
-
-Zu (1) und (2) Vorbehaltsgebiete Leitungen:Mit der Festlegung von Vorbehaltsgebieten Leitungen wird sichergestellt, dass andere Nutzungen auf die speziellen Schutzerfordernisse von Leitungen Rücksicht nehmen. Küstenferne Gebiete zur Nutzung der Windenergie auf See erfordern Anbindungen an Land. Zudem ist ein weiterer Ausbau grenzüberschreitender Leitungen absehbar. Die Festlegung unterstützt die Sicherung entsprechender Trassenkorridore. Der Breite bzw. Dimensionierung der Vorbehaltsgebiete liegt eine vorausschauende Planung zugrunde. Unter anderem soll dadurch die Abführung der erzeugten Energie sichergestellt werden.
-
-Zu (3) Grenzkorridore Küstenmeer:Mit dieser Festlegung wird die Führung der Leitungen durch bestimmte Grenzkorridore zum Küstenmeer sichergestellt. Hierdurch werden die Leitungen an diesen Stellen so weit wie möglich konzentriert und zur weiteren Ableitung in Richtung Land gebündelt. Die genaue Trassen- und Standortplanung der Netzanbindungen für Windenergieanlagen auf See ist Gegenstand der Fachplanung. Das Gleiche gilt für grenzüberschreitende Stromleitungen.
-
-Zu (4) Geeignete Übergangsstellen am Küstenmeer:Durch den Grundsatz wird sichergestellt, dass flexibel auf eine mögliche, zurzeit nicht absehbare veränderte Sachlage reagiert werden kann.
-
-Grenzkorridore zu angrenzenden Staaten:Der Leitungsverlauf soll gebündelt und in Abstimmung mit dem betroffenen angrenzenden Staat zu den Grenzkorridoren GN8 bis GN19 und GO6 bis GO12 an der AWZ-Grenze erfolgen, um die kohärente Planung mit den Nachbarstaaten sicherzustellen.
-
-Zu (5) Minimierung von Beeinträchtigungen:Um im Sinne einer nachhaltigen Raumentwicklung Auswirkungen auf andere Nutzungen und den Koordinierungsbedarf untereinander sowie mit anderen Nutzungen so weit wie möglich zu minimieren, sollen Leitungen möglichst gebündelt werden. Eine Bündelung im Sinne der Parallelführung reduziert zudem Zerschneidungseffekte. Entsprechend der Leitlinie einer sparsamen Flächeninanspruchnahme sowie im Sinne der Minimierung von Eingriffen sollen Leitungen möglichst flächensparend geplant werden. Die technisch mögliche Übertragungskapazität sollte bei der Planung berücksichtigt und möglichst vollständig ausgenutzt werden.
-
-Kreuzungen:Durch die Vermeidung von Kreuzungsbauwerken sollen die damit verbundenen Umweltauswirkungen, die Gefährdung von Fischereifahrzeugen und -gerät sowie der Flächenverbrauch reduziert werden. Zudem weisen Kreuzungsbauwerke eine erhöhte Störanfälligkeit und damit einen erhöhten Wartungsaufwand auf.
-
-Überdeckung:Bei der Wahl der Überdeckung und der notwendigen Verlegetiefe von Strom- und Datenkabeln sollen die Belange der Schifffahrt, der Landes- und Bündnisverteidigung, der Fischereifahrzeuge sowie des Meeresumweltschutzes besonders berücksichtigt werden. Mit ausreichender Überdeckung kann das Konfliktpotenzial mit anderen Nutzungen wie z. B. die Gefahr der Beschädigung durch Ankerwurf oder durch Schleppnetze/Scherbretter reduziert werden, und die Ausschlusswirkung für die Kabeltrassen für die Fischerei kann gemindert werden. Die Koexistenz von Strom- und Datenkabeln und Schifffahrt gelingt nur bei einer angemessenen Überdeckung. Die Gefahr des Freispülens von Strom und Datenkabeln und ihrer Beschädigung wird gesenkt, womit die mit Reparaturarbeiten möglicherweise einhergehenden Beeinträchtigungen für Verkehr und Umwelt erheblich reduziert werden können. Bei einer ausreichenden Überdeckung können zudem eine mögliche Temperaturerhöhung in den oberen Sedimentbereichen begrenzt sowie die Auswirkungen elektromagnetischer Felder reduziert werden. Als Grundsatz der Raumordnung ist die Festlegung der Abwägung zugänglich. Ein Abwägungskriterium ist hierbei die Verhältnismäßigkeit mit der Folge, dass die Verpflichtung zur Umsetzung der Festlegung auf Projektebene ihre Grenze findet, wenn die Überdeckung einen unverhältnismäßigen Aufwand erfordern würde.
-
-Kreuzung von Schifffahrtsrouten:In der deutschen AWZ befinden sich hochfrequentierte Schifffahrtsrouten. Diese sind in der Nordsee im Wesentlichen als Verkehrstrennungsgebiete ausgestaltet, in der Ostsee nur zum Teil. Aufgrund der hohen Bedeutung für die internationale Seeschifffahrt soll ein Nutzungskonflikt zwischen Leitungen und Schifffahrt durch eine möglichst geringe Überschneidung von Leitungen mit diesen hochfrequentierten Schifffahrtsrouten gewährleistet werden. Dies minimiert mögliche Konflikte während der Verlegung, des Betriebs und eines möglichen Rückbaus.
-
-Zu (6) Meeresumwelt:Bei der Verlegung von Leitungen sollen mögliche Beeinträchtigungen der Meeresumwelt minimiert werden, u. a. durch die Begrenzung der kabelinduzierten Sedimenterwärmung.
-
 Für die Verlegearbeiten benachbarter Leitungen soll eine zeitliche Gesamtkoordination angestrebt werden. Somit können die Anzahl der störenden Eingriffe reduziert und mögliche kumulative Auswirkungen so weit wie möglich vermieden bzw. vermindert werden.
 
 Um mögliche negative Auswirkungen auf die Meeresumwelt durch die Verlegung von Leitungen zu minimieren, soll das Verlegeverfahren gewählt werden, welches die geringsten Eingriffe und Auswirkungen auf die Meeresumwelt erwarten lässt. Ein unverhältnismäßiger Mehraufwand beim Ausbau der erneuerbaren Energien soll aus dem Erfordernis der zeitlichen Gesamtkoordination nicht erwachsen.
-
-Begründung
-
-Begründung der Ziele und Grundsätze
-
-Zu (1) Vorbehaltsgebiete Rohstoffgewinnung:Die räumliche Festlegung der Vorbehaltsgebiete dient der Flächensicherung für die Rohstoffgewinnung und unterstützt die mineralische Rohstoffsicherung gemäß der Rohstoffstrategie der Bundesrepublik Deutschland von 2010 und in der Fortschreibung von 2020.
 
 Die landseitigen Vorkommen von Sand und Kies stehen dem Bedarf für die Industrie, v. a. der Bauindustrie, nicht in ausreichendem Maß zur Verfügung. In Deutschland treten bereits Versorgungsengpässe auf, da durch konkurrierende Nutzungen wie nationale und europäische Wasser-, Natur- und Landschaftsschutzgebiete sowie überbaute Flächen, Landwirtschaft und Grundwassergewinnung die Rohstoffgewinnung eingeschränkt ist.
 
@@ -249,25 +125,9 @@ Die Lage im Vorranggebiet Naturschutz Doggerbank schließt den Rohstoffabbau aus
 
 Die räumlichen Festlegungen zur Gewinnung von Kohlenwasserstoffen unterstützen die Rohstoffsicherung der Bundesrepublik Deutschland.
 
-Begründung
-
-Begründung der Ziele und Grundsätze
-
-Zu (1) Vorbehaltsgebiet Fischerei Kaisergranat:Fischerei wird in der gesamten AWZ der Nordsee und Ostsee ausgeübt. Daten zum Fischereiaufwand zeigen Schwerpunktbereiche, aber auch oft eine von Jahr zu Jahr zum Teil starke räumliche Variabilität je nach Zielart, Fanggerät oder der Fahrzeugherkunft. Eine räumliche Gebietsfestlegung zur Berücksichtigung der Belange für bestimmte Fischereien erscheint vor diesem Hintergrund nicht sinnvoll.
-
 Eine Ausnahme ist die Fischerei des Kaisergranats (Nephrops norvegicus) in der deutschen AWZ der Nordsee. Im Bereich des Südlichen Schlickgrundes bestimmt das dortige Sediment ein besonders geeignetes Habitat für diese Spezies, das sich räumlich abgrenzen lässt.
 
 Mit der Festlegung des dortigen Vorbehaltsgebietes wird die Kaisergranat-Fischerei räumlich gesichert; ihr wird bei der Abwägung mit anderen raumbedeutsamen Planungen, Maßnahmen und Vorhaben ein besonderes Gewicht beigemessen.
-
-Zu (2) Standortkombination mit anderen Anlagen:Im Sinne einer effizienten Nutzung des vorhandenen Raums soll ein Rahmen für mögliche zukünftige Vorhaben zur Anlage von marinen Aquakulturen gegeben werden. Zur Schaffung von Synergieeffekten bietet sich bei der Errichtung von Anlagen für marine Aquakulturen die Nähe zu vorhandenen Installationen wie z. B. Fundamenten von Windenergieanlagen an. Diese sind zur Befestigung etwa von Langleinen oder Käfigen notwendig. Dabei sollen die reibungslose Wartung und der Betrieb der vorhandenen Installationen gewährleistet sowie möglichst umweltschonende Formen der Aquakultur verwendet werden, um mögliche Umweltbeeinträchtigungen zu vermeiden oder zu minimieren. Als Ergebnis von Forschungsprojekten erscheinen insbesondere küstennahe Standorte, z. B. nördlich Borkum, als besonders geeignet für marine Aquakulturen.
-
-Begründung
-
-Begründung der Ziele und Grundsätze
-
-Zu (1) Vorbehaltsgebiete Forschung:In den festgelegten Vorbehaltsgebieten wird der Forschung ein besonderes Gewicht gegenüber anderen Nutzungen eingeräumt, um eine Fortführung der Forschungsaktivitäten sicherzustellen. Die Gebiete entsprechen in ihrer Ausdehnung den ganz oder anteilig in der AWZ gelegenen GSBTS-Boxen (Nordsee) und den aktualisierten BALTBOX-Gebieten (Ostsee) des Thünen-Institutes, in denen in Langzeitforschungsreihen großflächige Untersuchungen zu Abundanzen und zur Zusammensetzung der bodennahen Fischfauna durchgeführt werden. Die Ergebnisse der durchgeführten Trawl-Surveys fließen in die jährliche Bestandserhebung des ICES ein, aber auch in das Monitoring für die MSRL. Diese Forschungshandlungen könnten durch unverträgliche Nutzungen, insbesondere durch bauliche Installationen, in ihrer Fortführung gefährdet werden.
-
-Zu (2) Minimierung von Beeinträchtigungen anderer Nutzungen:Grundsätzlich genießt die Forschung in der AWZ die gemäß Artikel 238 SRÜ garantierte Freiheit, jedoch unter der Prämisse, dass andere zulässige Nutzungen nicht ungerechtfertigt beeinträchtigt werden dürfen (Artikel 240 SRÜ). Dies entspricht der Leitvorstellung einer nachhaltigen Raumentwicklung und wird daher durch diesen Grundsatz unterstützt.
 
 Im Hinblick auf den See- und Luftverkehr sollen Forschungshandlungen so durchgeführt werden, dass die Sicherheit und Leichtigkeit des Verkehrs so wenig wie möglich beeinträchtigt werden.
 
@@ -277,17 +137,7 @@ Mit einer frühzeitigen Einbeziehung der für Denkmalpflege und Archäologie zus
 
 Im Übrigen wird auf die Begründung für Festlegung 2.2.1 (3) verwiesen.
 
-Zu (3) Nachhaltigkeit, Schutz der Meeresumwelt:Bei der konkreten Ausgestaltung wissenschaftlicher Meeresforschung sollen nachteilige Auswirkungen auf die Meeresumwelt und insbesondere auf die natürlichen Funktionen des Gebietes so weit wie möglich vermieden werden. Die beste Umweltpraxis gemäß OSPAR- und Helsinki-Übereinkommen sowie weiterer maßgeblicher internationaler Übereinkommen und der Stand von Wissenschaft und Technik sollen dabei berücksichtigt werden.
-
-Begründung
-
-Vorbemerkung
-
 Beim Meeresnaturschutz handelt es sich im Gegensatz zu den anderen Nutzungsarten nicht um eine Nutzung im engeren Sinne, sondern um eine grundlegende flächendeckende Raumfunktion, die die besondere Bedeutung der Meeresnatur und des Ökosystems Meer verdeutlicht und die es bei der Inanspruchnahme durch andere Nutzungen zu berücksichtigen gilt. Die Umweltziele einschlägiger internationaler Abkommen und Richtlinien sowie nationaler Vorschriften werden zugrunde gelegt. Der europarechtliche Rahmen zum Meeresumwelt- und Naturschutz, insbesondere die Richtlinie zur maritimen Raumplanung und die Meeresstrategie-Rahmenrichtlinie, wird in den Umweltberichten näher erläutert. Hervorzuheben ist zudem der grenzüberschreitende Charakter der Meeresnatur. Da die an Land übliche Landschaftsplanung in der AWZ fehlt, kommt der Raumordnung hier eine besondere Verantwortung für den Meeresnaturschutz zu.
-
-Begründung der Ziele und Grundsätze
-
-Zu (1) Vorranggebiete Naturschutz und Vorranggebiet Seetaucher:Die Festlegung der Naturschutzgebiete als Vorranggebiete Naturschutz erfolgt zur Unterstützung der Schutzzwecke der Meeresnaturschutzgebiete und zu deren Sicherung durch die Raumordnung. Den Naturschutzgebieten Borkum-Riffgrund, Doggerbank, Sylter Außenriff – Östliche Deutsche Bucht, Fehmarnbelt, Kadetrinne und Pommersche Bucht – Rönnebank kommt eine herausragende naturschutzfachliche Bedeutung zu, insbesondere zum Schutz von Meeressäugetieren, Seevögeln und FFH-Lebensraumtypen.
 
 Durch das auf 2045 vorgezogene Ziel der Klimaneutralität in Deutschland wird ein deutlich erhöhter Zubau an Erneuerbaren Energien erforderlich. Deshalb werden auch in der AWZ weitere Flächen für die Nutzung durch Offshore-Windenergie benötigt. Die Doggerbank ist für die Windenergienutzung gut geeignet und soll ein zusätzliches Potential von 4 bis 6 GW liefern, wenn dies naturverträglich möglich ist. Die Bundesregierung wird deshalb Studien zur Windkraftnutzung auf der Doggerbank im Einklang mit den Zielen des Naturschutzes in Auftrag geben. Dazu werden die für Umwelt und Energie zuständigen Bundesministerien bis zum 31.12.2024 dem Kabinett einen Bericht vorlegen. Für die anderen Naturschutzgebiete ist seitens der Raumordnung festzustellen, dass die Windenergienutzung mit dem Schutzzweck der Vorranggebiete Naturschutz generell nicht vereinbar sein dürfte. Diese Einschätzung findet sich auch in den fachrechtlichen Vorgaben: Gemäß WindSeeG sind Festlegungen von Gebieten und Flächen für Windenergie auf See im Flächenentwicklungsplan unzulässig, wenn diese in einem nach § 57 BNatSchG ausgewiesenen Schutzgebiet liegen. Dies berührt allerdings nicht die in ausgewiesenen Naturschutzgebieten bereits genehmigten Windenergieanlagen auf See für die bereits genehmigte Laufzeit.
 
@@ -303,13 +153,7 @@ In den Bereichen, in denen es zu einer Überlagerung der Vorranggebiete Natursch
 
 Mit der Ausweisung der Vorranggebiete Naturschutz wird auch das MSRL-Umweltziel 3 „Meere ohne Beeinträchtigung der marinen Arten und Lebensräume durch die Auswirkungen menschlicher Aktivitäten“ unterstützt.
 
-Zu (2) Vorbehaltsgebiete Seetaucher:Die in Abbildung 14 im Anhang dargestellten Gebiete StN1 bis StN3 werden als Vorbehaltsgebiete Seetaucher festgelegt. Der kombinierte Ansatz von Vorrang- und Vorbehaltsgebieten Seetaucher gewährleistet den vorrangigen Schutz des Seetauchers in weiten Teilen des Gebietes, sichert die besondere Bedeutung des Vorranggebietes für den Seetaucher und trägt gleichzeitig der nachhaltigen Nutzung der Vorbehaltsgebiete EN4 und EN5 durch den Ausbau und die Nutzung der Windenergie auf See Rechnung. Die Einzelheiten regelt der Flächenentwicklungsplan.
-
-Zu (3) Mehrfachnutzung Vorranggebiet Seetaucher:Das Vorranggebiet Seetaucher überschneidet sich zu einem großen Teil mit Vorbehaltsgebieten Verteidigung. Um militärische Interessen und die Funktionsfähigkeit der Bundeswehr zu wahren, sollen sich für den Zeitraum vom 1. März bis 15. Mai eines Jahres, in dem das Vorkommen der störempfindlichen Seetaucher besonders hoch ist, die Bundeswehrbehörden und die zuständige Naturschutzbehörde hinsichtlich der Nutzung einigen.
-
 In diesem Zeitraum sollen auch keine Beeinträchtigungen durch den Sand- und Kiesabbau erfolgen. Die abschließende Entscheidung über die Zulässigkeit einer Rohstoffgewinnung erfolgt auf Projektebene.
-
-Zu (4) Jahreszeitlich befristetes Vorbehaltsgebiet Schweinswale:Dem im Schallschutzkonzept des Bundesumweltministeriums (2013) abgegrenzten Hauptkonzentrationsgebiet der Schweinswale in der deutschen AWZ der Nordsee von Mai bis August kommt eine herausragende naturschutzfachliche Bedeutung zum Schutz des Schweinswals zu. Schweinswale nutzen das Gebiet in den Sommermonaten intensiv.
 
 Durch die raumordnerische Gebietsausweisung soll sichergestellt werden, dass den Schweinswalen ausreichend geeignete Habitate zur Verfügung stehen. Die Festlegung des Gebietes ist saisonal auf die für Schweinswale sensible Zeit begrenzt.
 
@@ -317,67 +161,25 @@ Zur Vermeidung und Verminderung möglicher erheblicher kumulativer Auswirkungen 
 
 Mit der Ausweisung des Vorbehaltsgebietes für Schweinswale wird auch das MSRL-Umweltziel 3 „Meere ohne Beeinträchtigung der marinen Arten und Lebensräume durch die Auswirkungen menschlicher Aktivitäten“ unterstützt.
 
-Zu (5) Befristeter Ausschluss von Anlagen:Die Freihaltung der Fläche dient der Sicherung der Durchführung von Maßnahmen zur Sicherung des Zusammenhangs des Netzes Natura 2000 (Kohärenzmaßnahmen) hinsichtlich Beeinträchtigungen, die von bestehenden Windenergieanlagen in den Vorrang- und Vorbehaltsgebieten Seetaucher ausgehen. Um der Naturschutzfachplanung die Entwicklung einer diesbezüglichen eigenen Ausgleichsregelung zu ermöglichen, wird als raumordnerische Unterstützung die befristete Festlegung 2.4 (5) getroffen, durch welche die in Rede stehende Fläche vorübergehend vor entgegenstehenden Nutzungen über der Wasseroberfläche geschützt wird. Dies steht im Einklang mit der Leitvorstellung einer nachhaltigen Raumentwicklung: Die Freihaltung der Fläche ist Teil des dem Raumordnungsplan zugrundeliegenden räumlichen Gesamtkonzepts, welches hinsichtlich der nachhaltigen Entwicklung des Meeresraums sowohl die Offshore-Windenergie als Teil des Klimaschutzes als auch Flächen für den Naturschutz als notwendig erachtet.
-
-Zu (6) Vogelzugkorridore:Die Festlegung der Vogelzugkorridore „Fehmarn-Lolland“ und „Rügen-Schonen“ berücksichtigt die besondere Bedeutung des Vogelzugs über den Fehmarnbelt, der sog. Vogelfluglinie, und über Rügen nach Schweden.
-
 Der Grundsatz stellt einen zielführenden Schutz des Vogelzugs als wesentlichen Bestandteil der Meeresumwelt sicher, indem er den Konflikt mit der Nutzung Windenergie sachgerecht auflöst. Er folgt damit dem Vorsorgegedanken und dem Ökosystemansatz.
 
 Das Erfordernis von Vermeidungs- und Minderungsmaßnahmen – dies könnte etwa die Abschaltung bei Massenzugereignissen sein – in den Vogelzugkorridoren „Fehmarn-Lolland“ und „Rügen-Schonen“ unterstützt das MSRL-Umweltziel 3 „Meere ohne Beeinträchtigung der marinen Arten und Lebensräume durch die Auswirkungen menschlicher Aktivitäten“ und leistet einen Beitrag zur Umsetzung des operativen Ziels UZ3-02 „Maßnahmen zum Schutz wandernder Arten im marinen Bereich“.
 
 Es bedarf klarer und operativer Vorgaben für Mess- und Abschaltsysteme und für das Vorliegen eines Massenzugereignisses während des Frühjahrs- und Herbstzuges. Sobald nach diesen Messsystemen und Vorgaben Massenzug im Bereich von Windenergieanlagen auf See stattfindet, sind unverzüglich Maßnahmen zum Schutz des Vogelzuges einzuleiten, insbesondere solche, die eine Kollision von Vögeln mit Windenergieanlagen ausschließen, wenn ein erhöhtes Kollisionsrisiko vorliegt.
 
-Zu (7) Erhaltung der AWZ als Naturraum:§ 2 Absatz 2 Nummer 6 ROG formuliert Grundsätze der Raumordnung, welche sich angepasst an die Verhältnisse in der AWZ in diesem Grundsatz wiederfinden:
+- Natur und Landschaft einschließlich Meeresgebiete sind dauerhaft zu schützen, zu pflegen, zu entwickeln und – soweit erforderlich, möglich und angemessen – wiederherzustellen.
 
--
+- Naturgüter sind sparsam und schonend in Anspruch zu nehmen.
 
--
-
--
+- Bei dauerhaft nicht mehr genutzten Flächen soll der Boden in seiner Leistungsfähigkeit erhalten oder wiederhergestellt werden.
 
 Darüber hinaus gehört der Erhalt der biologischen Vielfalt und der sie bestimmenden charakteristischen Lebensräume und -funktionen ebenso zu einer nachhaltigen Planung im Sinne des Grundsatzes der Raumordnung gemäß § 2 Absatz 2 Nummer 6 ROG und zu dem gebotenen ökosystemaren Ansatz mit seiner ganzheitlichen Betrachtungsweise wie die Berücksichtigung negativer kumulativer Auswirkungen, Wechselwirkungen und Austauschbeziehungen.
 
-Zu (8) Wandernde Arten:Nach § 2 Absatz 2 Nummer 2 ROG ist der Freiraum zu schützen; es ist ein großräumig übergreifendes, ökologisch wirksames Freiraumverbundsystem zu schaffen.
-
 Die Durchlässigkeit des Meeresraums für großräumig wandernde Arten ist erforderlich, um für sie funktional bedeutsame Gebiete erreichen und nutzen zu können, dies gilt insbesondere auch für den westlichen Teil der deutschen AWZ in der Ostsee bis zum Längengrad 13,5° Ost. Daher soll die Verbindung zwischen funktional relevanten Gebieten erhalten werden. Durch die Gebietsfestlegungen für die Meeresumwelt ist eine solche Durchlässigkeit gewährleistet.
-
-Der Grundsatz unterstützt zudem das Umweltziel 3.4 MSRL „Menschliche Bauwerke und Nutzungen gefährden die natürliche Ausbreitung (inkl. Wanderung) von Arten nicht, für die ökologisch durchlässige Migrationskorridore wesentliche Habitate darstellen“ und die Maßnahme M 3.5 „Sicherstellung der Vernetzung des NSG mit Funktionsräumen seiner Schutzgüter“ der Managementpläne Nordsee zur Sicherstellung der Vernetzung des Naturschutzgebietes mit Funktionsräumen seiner Schutzgüter.
-
-Zu (9) Sicherung und Erhaltung der Meereslandschaft:Nach § 2 Absatz 2 Nummer 2 ROG ist der Freiraum zu schützen; es ist ein großräumig übergreifendes, ökologisch wirksames Freiraumverbundsystem zu schaffen. Die weitere Zerschneidung der freien Landschaft ist dabei so weit wie möglich zu vermeiden; die Flächeninanspruchnahme im Freiraum ist zu begrenzen.
 
 Der dies konkretisierende planerische Grundsatz zielt im Wesentlichen auf die Bewahrung des Charakters der AWZ der Nordsee als großflächiger Freiraum ab.
 
 Vor diesem Hintergrund werden weite Teile der AWZ von Gebietsfestlegungen für Nutzungen, die den Freiraum beeinträchtigen können, freigehalten. Neben den Vorranggebieten Schifffahrt tragen auch die Vorranggebiete Naturschutz zur Freiraumsicherung bei, da in ihnen mit dem Naturschutz nicht vereinbare Nutzungen ausgeschlossen sind. Wirtschaftliche Nutzungen sollen möglichst flächensparend durchgeführt werden (vgl. Grundsatz 2.2.1 (1) Flächensparsamkeit).
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-Begründung
-
-Begründung der Ziele und Grundsätze
-
-Zu (1) Vorbehaltsgebiete Verteidigung:Vorbehaltsgebiete Verteidigung sind zur Sicherung der Funktionsfähigkeit der Bundeswehr notwendig.
 
 Gemäß § 2 Absatz 2 Nummer 7 ROG ist den räumlichen Erfordernissen der Verteidigung und des Zivilschutzes Rechnung zu tragen. Bei raumordnerischen Festlegungen sind nach § 17 Absatz 1 ROG Sicherheitsaspekte und damit die Belange der Verteidigung zu berücksichtigen. Dadurch soll sichergestellt werden, dass der Bundeswehr ausreichend räumliche und rechtliche Möglichkeiten für militärische Zwecke (z. B. zur Ausbildung, Übung oder Einsatzvorbereitung) zur Verfügung stehen, die im Rahmen der Landes- und Bündnisverteidigung sowie weiterer mandatierter Einsätze erforderlich sind.
 
@@ -387,41 +189,21 @@ Die Nutzung militärischer Gebiete zu Übungszwecken erfolgt im Einklang mit den
 
 Die bezeichneten U-Boottauchgebiete sind als sog. „Safe-Bottoming-Areas“ ausgewiesen; dort werden Übungen zum Aufgrundlegen der U-Boote durchgeführt. Im Sinne einer nachhaltigen Raumentwicklung, insbesondere der effizienten Ko-Nutzung des Raums und dem damit einhergehenden Erfordernis der Minimierung von gegenseitigen Beeinträchtigungen, sollen in den U-Boottauchgebieten in der Ostsee Bravo 2, Bravo 3 und Bravo 4 keine Leitungen verlegt werden, um eine Beschädigung der Leitungsinfrastruktur oder der U-Boote zu vermeiden. Weiter soll so weit wie möglich vermieden werden, dass durch die Leitungsinfrastruktur eine Aufklärung der in diesen Übungsgebieten befindlichen Unterwasserfahrzeuge erfolgen kann.
 
-Zu (2) Nachhaltigkeit, kulturelles Erbe:Bestimmte Aktivitäten der Landes- und Bündnisverteidigung sind grundsätzlich geeignet, Kulturgüter im Planungsraum aufzufinden oder zu beschädigen. Es sollte daher bei der Gestaltung der Aktivitäten darauf hingewirkt werden, mögliche Beeinträchtigungen zu minimieren und aufgefundene Kulturgüter zu sichern (s. a. die Begründung zur Festlegung 2.2.1 (3) Kulturelles Erbe).
-
-Begründung
-
-Begründung der Ziele und Grundsätze
-
-Zu (1) Luftverkehr:Zum einen wirken Anlagen in der AWZ, insbesondere Windturbinen, als Luftfahrthindernisse, zum anderen ergeben sich vor allem durch den OWP-induzierten Luftverkehr weitere luftfahrtspezifische Anforderungen.
-
 Bei der Planung und der Durchführung von wirtschaftlichen und wissenschaftlichen Aktivitäten sollen daher die Anforderungen an einen sicheren Luftverkehr einschließlich des SAR-Luftverkehrs berücksichtigt werden.
-
-Begründung
-
-VorbemerkungFür den privaten und gewerblichen touristischen Verkehr in der AWZ gelten die Regeln des SRÜ. Wo aus Gründen der Anlagensicherheit die Befahrbarkeit von Gebieten im Rahmen der Genehmigung für Windparks auf See eingeschränkt wird, können Ausnahmen, die auch auf den Freizeit- und Wassersportverkehr anzuwenden sind, nur als Allgemeinverfügungen der Wasser- und Schifffahrtsverwaltung geregelt werden.
-
-Begründung der Ziele und Grundsätze
-
-Zu (1) Freizeit- und Wassersportverkehr:Freizeitnutzung in der AWZ ist in der Regel mit dem Befahren mit Freizeit- und Sportbooten verbunden. Wirtschaftliche und wissenschaftliche Nutzungen, die zu einer Einschränkung der Nutzung durch Freizeit- und Sportboote führen können, sollen diese bei der Planung und der Durchführung berücksichtigen.
 
 Durch die Errichtung von Windenergieanlagen in den festgelegten Gebieten für die Windenergie verringert sich der für die allgemeine Schifffahrt zur Verfügung stehende Raum, und der Schiffsverkehr wird sich in der Folge insbesondere in den dafür freigehaltenen Routen zwischen den einzelnen Gebieten konzentrieren. Um für kleinere Fahrzeuge unter 24 m Länge die Durchfahrt durch Windparkgebiete zu ermöglichen und Umwege über dicht befahrene Schifffahrtsrouten zu vermeiden, sollen bei der Planung der Windparks Anforderungen für die Belange des Freizeit- und Wassersportverkehrs, z. B. eine sichere Durchfahrt, berücksichtigt werden.
 
 In Abbildung 20 ist die Feste Fehmarnbeltquerung nachrichtlich dargestellt.
 
-ErläuterungDie Feste Fehmarnbeltquerung ist eine Verkehrsverbindung von internationaler Bedeutung im Sinne von § 2 Absatz 2 Nr. 8 ROG und stellt ein Kernnetzvorhaben nach Anhang I Ziff. 5.3 Eisenbahnstrecke, Ziff. 5.4 Straßenverbindung gemäß Verordnung (EU) Nr. 1315/2013 des Europäischen Parlaments und des Rates dar. Ihr liegt der Staatsvertrag vom 3. September 2008 zwischen der Bundesrepublik Deutschland und dem Königreich Dänemark über eine Feste Fehmarnbeltquerung zugrunde. Das planfestgestellte Vorhaben befindet sich seit 2020/2021 im Bau und sollte daher bei raumbedeutsamen wirtschaftlichen, wissenschaftlichen und sonstigen Planungen, Nutzungen und Maßnahmen in der AWZ berücksichtigt werden.
-
-Abbildung 1: Festlegungen für Schifffahrt in der Nordsee.Abbildung 2: Festlegungen für Schifffahrt in der Ostsee.Abbildung 3: Festlegungen für Windenergie auf See in der Nordsee.Abbildung 4: Festlegungen für Windenergie auf See in der Ostsee.Abbildung 5: Festlegungen für Leitungen und Grenzkorridore in der Nordsee.Abbildung 6: Festlegungen für Leitungen und Grenzkorridore in der Ostsee.Abbildung 7: Festlegungen für Rohstoffgewinnung in der Nordsee.Abbildung 8: Festlegung für Rohstoffgewinnung in der Ostsee.Abbildung 9: Festlegung für Fischerei auf Kaisergranat in der Nordsee.Abbildung 10: Festlegungen für Forschung in der Nordsee.Abbildung 11: Festlegungen für Forschung in der Ostsee.Abbildung 12: Festlegungen für Naturschutz in der Nordsee.Abbildung 13: Festlegungen für Naturschutz in der Ostsee.Abbildung 14: Festlegungen für Seetaucher in der Nordsee.Abbildung 15: Festlegung für Schweinswale in der Nordsee.Abbildung 16: Ausschluss von Anlagen über der Wasseroberfläche in der Nordsee.Abbildung 17: Vogelzugkorridore „Fehmarn-Lolland“ und „Rügen-Schonen“ in der Ostsee.Abbildung 18: Festlegungen für Landes- und Bündnisverteidigung in der Nordsee.Abbildung 19: Festlegungen für Landes- und Bündnisverteidigung in der Ostsee.Abbildung 20: Feste Fehmarnbeltquerung in der Ostsee.
-
 Nach § 10 Absatz 3 Raumordnungsgesetz (ROG) ist dem Raumordnungsplan (im Folgenden: Plan) eine zusammenfassende Erklärung beizufügen
 
-1.
+1. über die Art und Weise, wie die Umweltbelange im Fortschreibungsverfahren berücksichtigt wurden,
 
-2.
+2. über die Art und Weise, wie die Ergebnisse der Öffentlichkeits- und Behördenbeteiligung im Fortschreibungsverfahren berücksichtigt wurden,
 
-3.
+3. aus welchen Gründen der Plan nach Abwägung mit den geprüften in Betracht kommenden anderweitigen Planungsmöglichkeiten gewählt wurde,
 
-4.
+4. über die im Rahmen der Überwachung der Auswirkungen auf die Umwelt nach § 8 Absatz 4 Satz 1 ROG durchzuführenden Maßnahmen.
 
 Begleitend zur Fortschreibung der bislang geltenden Raumordnungspläne für die deutsche AWZ in der Nordsee und in der Ostsee wurde eine Strategische Umweltprüfung (im Folgenden: SUP) nach § 8 ROG durchgeführt.
 
@@ -445,17 +227,17 @@ Mögliche kumulative Auswirkungen auf den Meeresboden und das Schutzgut Benthos 
 
 Zur Vermeidung und Verminderung der Beeinträchtigungen auf die Schutzgüter Boden, Benthos und Biotoptypen wurden folgende Grundsätze in den Raumordnungsplan aufgenommen:
 
-–
+– Grundsatz 2.2.2 (6) Es soll eine zeitliche Gesamtkoordination der Errichtungsarbeiten von Anlagen zur Energiegewinnung und damit in räumlichem Zusammenhang stehender Anlagen erfolgen. (G)
 
-–
+– Grundsatz 2.2.3 (5) Leitungen sollen, soweit möglich, gebündelt werden. […] Strom- und Datenkabel sollen mit einer dauerhaften Überdeckung versehen werden, die zur Sicherung der anderen Nutzungen und Funktionen erforderlich ist. (G)
 
-–
+– Grundsatz 2.2.3 (6) Bei der Verlegung von Leitungen sollen eine zeitliche Gesamtkoordination erfolgen und ein möglichst schonendes Verlegeverfahren gewählt werden. (G)
 
 Die Auswirkungen auf die Fischfauna durch die Festlegungen im Plan sind am stärksten durch die Realisierung von Windparks in den Vorranggebieten Windenergie beeinflusst. Die weitgehend fischereifreien Zonen innerhalb der Windparkflächen könnten sich durch den Entfall der negativen Fischereieffekte positiv auf die Fischzönose auswirken. Zusammen mit den Festlegungen der Vorranggebiete Naturschutz könnten Windparkflächen zu positiven Bestandsentwicklungen und damit zur Erholung von Fischbeständen in der Nordsee und Ostsee beitragen.
 
 Folgender raumordnerischer Grundsatz regelt die Fischereinutzung in Windparks:
 
-–
+– 2.2.2 (4) Fischereifahrzeuge sollen Windparks auf dem Weg zu ihren Fanggründen durchfahren können. Die passive Fischerei mit Reusen und Körben soll in den Sicherheitszonen der Windparks möglich sein […].
 
 Kumulative Auswirkungen auf marine Säuger, insbesondere Schweinswale, können vor allem durch die Lärmbelastung während der Installation von tiefgegründeten Fundamenten auftreten.
 
@@ -463,23 +245,23 @@ Zur Vermeidung und Verminderung von kumulativen Auswirkungen auf den Bestand des
 
 Zur Vermeidung und Verminderung der Beeinträchtigungen auf das Schutzgut marine Säuger wurden folgende Grundsätze in den Raumordnungsplan aufgenommen:
 
-–
+– Grundsatz 2.2.2 (6) Der Eintrag von Schall in die Meeresumwelt bei der Errichtung von Anlagen zur Energiegewinnung soll entsprechend dem Stand von Wissenschaft und Technik so weit wie möglich vermieden werden. (G)
 
-–
+– Grundsatz 2.4 (4) Das im Schallschutzkonzept des BMU von 2013 identifizierte Hauptverbreitungsgebiet der Schweinswale im Sommer in der AWZ der Nordsee wird als zeitlich befristetes Vorbehaltsgebiet Schweinswale (Mai bis August) festgelegt.
 
 Von den im Plan berücksichtigten Nutzungen können insbesondere von der Nutzung Windenergie unterschiedliche Auswirkungen auf See- und Rastvögel ausgehen, wie Habitatverlust, erhöhtes Kollisionsrisiko oder Scheuch- und Störwirkung.
 
 Im Ergebnis der SUP sind unter Berücksichtigung der Gesamtplanbewertung erhebliche kumulative Auswirkungen der raumordnerischen Festlegungen auf das Schutzgut See- und Rastvögel nach derzeitigem Kenntnisstand nicht zu erwarten. Zur Vermeidung und Verminderung der Beeinträchtigungen auf das Schutzgut See- und Rastvögel wurden folgende Ziele und Grundsätze in den Raumordnungsplan aufgenommen:
 
-–
+– Ziel 2.4 (1) Die […] nationalen Meeresschutzgebiete in der AWZ […] werden als Vorranggebiete Naturschutz entsprechend ihrer Schutzzwecke festgelegt. Das […] im Anhang dargestellte Gebiet wird als Vorranggebiet Seetaucher festgelegt. (Z)
 
-–
+– Grundsatz 2.4 (3) Die militärische Nutzung soll den Schutzzweck der Vorrang- und Vorbehaltsgebiete Seetaucher so wenig wie möglich beeinträchtigen. Für den Zeitraum vom 1. März bis 15. Mai eines Jahres gilt, dass in den Vorrang- und Vorbehaltsgebieten Seetaucher keine Beeinträchtigungen durch den Sand- und Kiesabbau erfolgen sollen, und dass sich die Bundeswehrbehörden und die zuständige Naturschutzbehörde hinsichtlich der militärischen Nutzung einigen sollen. (G)
 
 Von den im Raumordnungsplan berücksichtigten Nutzungen können insbesondere von der Nutzung Windenergie unterschiedliche Auswirkungen auf Zugvögel wie Barrierewirkung und Kollisionsrisiko ausgehen.
 
-Durch die Festlegungen von Gebieten für Windenergie in räumlichem Zusammenhang werden unter Anwendung von Vermeidungs- und Minderungsmaßnahmen Barrierewirkungen und Kollisionsrisiken in wichtigen Nahrungsund Rasthabitaten reduziert.Vor dem Hintergrund des aktuellen Kenntnisstandes und unter Berücksichtigung der Festlegung 2.4 (6) des Plans können erhebliche kumulative Auswirkungen durch die Festlegungen auf Zugvögel mit der erforderlichen Sicherheit ausgeschlossen werden.
+Durch die Festlegungen von Gebieten für Windenergie in räumlichem Zusammenhang werden unter Anwendung von Vermeidungs- und Minderungsmaßnahmen Barrierewirkungen und Kollisionsrisiken in wichtigen Nahrungsund Rasthabitaten reduziert.
 
-–
+– Grundsatz 2.4 (6) Die […] Gebiete der Vogelzugkorridore „Fehmarn-Lolland“ und „Rügen-Schonen“ können grundsätzlich durch die Windenergie genutzt werden, soweit sie als Vorrang- oder Vorbehaltsgebiete für die Windenergie festgelegt sind. In den Zeiträumen der Massenzugereignisse soll in den Vogelzugkorridoren der Betrieb von Windenergieanlagen nicht stattfinden, wenn andere Maßnahmen nicht ausreichend sind, um ein nachgewiesenes signifikant erhöhtes Kollisionsrisiko von Vögeln mit Windenergieanlagen auszuschließen. Unter den gleichen Voraussetzungen sollen Bau- und Wartungsarbeiten nicht stattfinden. (G)
 
 Die Sicherung der rechtsverbindlich festgelegten Naturschutzgebiete als Vorranggebiete Naturschutz dient der Wahrung der Schutzzwecke und der Freiraumsicherung. In den Vorranggebieten Naturschutz werden keine Vorrang- oder Vorbehaltsgebiete für Windenergie festgelegt. Auch die Vorbehaltsgebiete für Leitungen verlaufen überwiegend außerhalb von ökologisch bedeutenden Gebieten.
 
@@ -561,10 +343,6 @@ Im ehemaligen Kapitel 2.5.1 wurde mit dem Grundsatz (1) und in Kapitel 2.2.1 wur
 
 Die geforderte Verlegung von militärischen Übungsgebieten zugunsten der Windenergie erschien nicht möglich, da z. B. der sichere Übungsbetrieb zur Aufrechterhaltung der Verteidigungsfähigkeit nicht in gleicher Weise hätte sichergestellt werden können.
 
-UnterwasserkulturerbeFür alle wirtschaftlichen Nutzungen, abgesehen von der Schifffahrt, wurde im Plan der Grundsatz aufgestellt, dass das Unterwasserkulturerbe, das hier im Sinne der von der Fachseite formulierten Definition verstanden wird, die Forschung hierzu sowie bekannte und ggf. aufgefundene Kulturgüter so wenig wie möglich beeinträchtigt werden sollen.
-
-UmweltprüfungIm Rahmen der SUP wurden Auswirkungen von einzelnen Nutzungen auch in der kumulativen Wirkung auf die nächstgelegenen Natura2000-Gebiete geprüft, und zwar unter Berücksichtigung der Grundsätze und Ziele des Plans sowie von Vermeidungs- und Minderungsmaßnahmen, die in nachgeordneten Zulassungsverfahren festgelegt werden. Anschließend wurde anhand der Ergebnisse die mögliche Beeinträchtigung der Erhaltungsziele der übrigen Natura2000-Gebiete auch in den Gewässern der Anrainerstaaten geprüft. Die Schlussfolgerung, dass eine erhebliche Beeinträchtigung der Erhaltungsziele mit der erforderlichen Sicherheit ausgeschlossen werden kann, ergibt sich aus der Reichweite der Wirkungen und der räumlichen Entfernung der Gebiete.
-
 Am 17. September 2020 wurde der Untersuchungsrahmen für die SUP zur Fortschreibung der Pläne unter Berücksichtigung der bis zu diesem Zeitpunkt eingegangenen Stellungnahmen festgelegt.
 
 Unter Berücksichtigung der Ergebnisse aus der Konsultation zur Konzeption und zum Entwurf des Untersuchungsrahmens wurden der erste Entwurf des Raumordnungsplans und die Umweltberichte erarbeitet.
@@ -572,8 +350,6 @@ Unter Berücksichtigung der Ergebnisse aus der Konsultation zur Konzeption und z
 Es bestand für öffentliche Stellen und die Öffentlichkeit die Möglichkeit, zum ersten Entwurf des Raumordnungsplans und zu den Umweltberichten Stellung zu nehmen. Es gingen insgesamt 67 Stellungnahmen vor allem von Bundesbehörden, Landesbehörden, Instituten, Übertragungsnetzbetreibern, Umwelt- Windenergie-, Fischereiverbänden und Privaten ein.
 
 Der zusätzlich angebotene Erörterungstermin fand am 24. und 25. November 2020 als Online-Konferenz statt. In dem Termin wurden der erste Planentwurf und wesentliche Punkte aus den Umweltberichten umfassend vorgestellt und anhand der eingegangenen Stellungnahmen besprochen.
-
-Mit Schreiben vom 4. Dezember 2020 wurden die Anrainerstaaten zum 1. Planentwurf und den Umweltberichten beteiligt. Es bestand die Gelegenheit, bis zum 15. Januar 2021 zu den Konsultationsdokumenten Stellung zu nehmen. Es gingen 17 Stellungnahmen ein. Am 27. Januar 2021 fand ein internationaler Konsultationstermin statt.Zu den Ergebnissen der Beteiligung nach § 9 Absatz 2 ROG im Einzelnen:
 
 Im 2. Planentwurf wurden Forderungen zum Leitbild aufgenommen. Alle Sektoren werden genannt. Aufgrund der koordinierenden und ausgleichenden Aufgabe der Raumordnung wird kein Sektor besonders hervorgehoben. Da eine Vielzahl an Rechtsgrundlagen für die einzelnen Sektoren bestehen, wird im Leitbild ausschließlich das Seerechtsübereinkommen genannt. Das Leitbild soll kompakt die wesentlichen Leitgedanken der Raumentwicklung und Prinzipien darstellen, daher wurde von einer zu ausführlichen Beschreibung bzw. Konkretisierung abgesehen. Da derzeit keine fundierten, anerkannten Methoden zur Bestimmung insbesondere von kumulativen Belastungsgrenzen vorliegen, wurde der Forderung nach Konkretisierung nicht entsprochen.
 
@@ -641,15 +417,11 @@ Mit Schreiben vom 4. Juni 2021 wurden die Anrainerstaaten zum 2. Planentwurf und
 
 Nach Auswertung der Stellungnahmen fand im Juli 2021 die abschließende Ressortabstimmung zur Rechtsverordnung und zum Raumordnungsplan nach § 50 GGO statt.
 
-Im Ergebnis dieser Verfahrensschritte wurde der 2. Planentwurf wie folgt geändert:Im Leitbild wurde die Unterstützung zur Erreichung des guten Umweltzustands der Meeresgewässer aufgenommen. Während sich in den Festlegungen keine Änderungen ergaben, wurden in diversen Begründungstexten Änderungen und Ergänzungen vorgenommen, die überwiegend redaktioneller Natur sind.
-
 Im Übrigen wurden keine neuen Forderungen eingebracht, die nicht bereits im Prozess berücksichtigt oder aus den oben dargestellten Gründen nicht übernommen worden waren.
 
 Für den Raumordnungsplan wurde grundsätzlich eine abgestufte Alternativenprüfung durchgeführt. Insgesamt spielten vor allem die konzeptionelle/strategische Ausgestaltung der Planung und mögliche räumliche Alternativen eine Rolle.
 
 Wie oben bereits erläutert, wurden frühzeitig im Planungsprozess drei Planungsmöglichkeiten erarbeitet. Eine vorläufige Einschätzung ausgewählter Umweltaspekte der drei Planungsmöglichkeiten erfolgte im Vorfeld der eigentlichen Umweltprüfung und konzentrierte sich auf diejenigen Auswirkungen, die sich auf die räumlichen Festlegungen und Unterschiede zwischen den drei Optionen bezogen.
-
-Aus umweltfachlicher Sicht konnte keine eindeutige Präferenz für eine der drei Planungsmöglichkeiten ermittelt werden. Die deutlichsten Unterschiede zwischen den Planungsoptionen ergaben sich für die Windenergie auf See, da der Umfang der Flächenfestlegungen stark variierte, was unter Klimaschutzaspekten zu einem unterschiedlich hohen CO2-Einsparpotenzial führte.
 
 Die Erstellung des 1. Planentwurfs erfolgte auf der Basis der drei Planungsmöglichkeiten, den hierzu erhaltenen Stellungnahmen und weiteren Erkenntnissen und Anforderungen aus informellen Fach- sowie Ressortgesprächen. Dieser Entwurf wurde im Laufe des Planungsprozesses auf Grundlage der eingegangenen Stellungnahmen überarbeitet und in Ressortgesprächen bis hin zum vorliegenden Plan abgestimmt. Die zu prüfenden Alternativen reduzierten sich im Zuge der Überarbeitung des Planentwurfs und wurden zunehmend (räumlich) konkreter.
 
@@ -661,27 +433,15 @@ Die Art der Nutzung in räumlichen Festlegungen wurde weitestmöglich so festgel
 
 Gegenüber der Nullvariante, d. h. dem Verzicht auf eine Fortschreibung der Pläne von 2009, kommt die SUP zu dem Ergebnis, dass eine übergeordnete und vorausschauende Planung unter Berücksichtigung einer Vielzahl von Raumansprüchen voraussichtlich zu einer insgesamt geringeren Flächeninanspruchnahme und damit zu geringeren Umweltauswirkungen als bei Nichtdurchführung des Plans führt.
 
-Die geplanten Maßnahmen zur Überwachung der erheblichen Auswirkungen der Durchführung des Plans lassen sich zusammengefasst wie folgt darstellen:Folgende Daten und Informationen sind für die Bewertung der möglichen Auswirkungen des Plans erforderlich:
+Die geplanten Maßnahmen zur Überwachung der erheblichen Auswirkungen der Durchführung des Plans lassen sich zusammengefasst wie folgt darstellen:
 
-•
+• Zusammenführung von Daten und Informationen, die für die Beschreibung und Bewertung des Zustands von Gebieten und Schutzgütern genutzt werden können,
 
-•
+• Weiterentwicklung von bestehenden Fachinformationsnetzwerken für die Bewertung der möglichen Auswirkungen aus der Entwicklung von einzelnen Vorhaben sowie der kumulativen Auswirkungen auf das marine Ökosystem,-MarinEARS (Marine Explorer and Registry of Sound) und Nationales Schallregister,-MARLIN (Marine Life Investigator), MarinEARS (Marine Explorer and Registry of Sound) und Nationales Schallregister, MARLIN (Marine Life Investigator),
 
--
+• Entwicklung bzw. Anwendung von Verfahren und Kriterien für die Evaluierung des Plans und Anpassung oder ggf. Optimierung im Rahmen der Fortschreibung,
 
--
-
-•
-
-•
-
-1.
-
-2.
-
-3.
-
-4.
+• Evaluierung von Maßnahmen zur Vermeidung und Verminderung von erheblichen Auswirkungen auf die Meeresumwelt unter Berücksichtigung von möglichen kumulativen Effekten.
 
 Das BSH wird aus Gründen der Praktikabilität und der angemessenen Umsetzung von Vorgaben aus der SUP bei der Durchführung des Monitorings der möglichen Auswirkungen des Plans einen ökosystemorientierten Betrachtungsansatz verfolgen, der auf die fachübergreifende Zusammenführung von Meeresumweltinformationen abhebt. Um die Ursachen von planbedingten Veränderungen in Teilen eines Ökosystems beurteilen zu können, müssen auch die anthropogenen Größen aus der Raumbeobachtung (z. B. Fachinformationen zu Schiffsverkehren aus den AIS-Datenbeständen) betrachtet und in die Bewertung einbezogen werden.
 

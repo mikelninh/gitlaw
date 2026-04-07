@@ -26,45 +26,45 @@ Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen bezogen au
 
 Die Berufsausbildung ist entsprechend dem Ausbildungsrahmenplan (Anlage) während einer Dauer von acht Wochen wie folgt in überbetrieblichen Ausbildungsstätten zu ergänzen und zu vertiefen, sofern dies nicht im Ausbildungsbetrieb erfolgen kann:
 
-1.
+1. in den ersten 18 Monaten der Berufsausbildung während drei Wochen Fertigkeiten und Kenntnisse aus Abschnitt I laufende Nummer 8, 11 und 12 sowie
 
-2.
+2. in den zweiten 18 Monaten der Berufsausbildung während fünf Wochen Fertigkeiten und Kenntnisse aus Abschnitt I laufende Nummer 12 und 14.
 
 ### § 5 — Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
-1.
+1. Berufsbildung, Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-4.
+4. Umweltschutz,
 
-5.
+5. Anwenden von Informationssystemen und Kommunikationstechniken,
 
-6.
+6. Planen, Vorbereiten und Steuern von Arbeitsabläufen, Arbeiten im Team,
 
-7.
+7. Lesen und Anwenden von technischen Unterlagen,
 
-8.
+8. Anwenden von Arbeitsstoffen, Baurohstoffen, Bindemitteln, Mischungen und Recyclingmaterialien,
 
-9.
+9. Durchführen von Probenahmen und Herstellen von Proben,
 
-10.
+10. Anwenden von Regelwerken,
 
-11.
+11. Anwenden von Labortechnik,
 
-12.
+12. Durchführen von Messungen und Prüfungen,
 
-13.
+13. Kontrollieren und Bewerten von Arbeitsergebnissen,
 
-14.
+14. Verarbeiten, Auswerten, Aufbereiten und Dokumentieren von Daten,
 
-15.
+15. Betriebswirtschaft, Kundenorientierung,
 
-16.
+16. Durchführen von qualitätssichernden Maßnahmen.
 
 ### § 6 — Ausbildungsrahmenplan
 
@@ -86,25 +86,25 @@ Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu
 
 (3) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens fünf Stunden drei Arbeitsaufgaben durchführen. Für die Arbeitsaufgaben kommen insbesondere in Betracht:
 
-1.
+1. Durchführen einer Probenahme einschließlich Herstellen einer Probe,
 
-2.
+2. Bestimmen physikalischer Kenngrößen einer Probe,
 
-3.
+3. Bestimmen chemischer Kenngrößen einer Probe,
 
-4.
+4. Messen und Skizzieren eines Probekörpers oder
 
-5.
+5. Auswerten von Messergebnissen und Erstellen eines Ergebnisprotokolls.
 
 (4) Im schriftlichen Teil der Prüfung soll der Prüfling in insgesamt höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, aus folgenden Gebieten lösen:
 
-1.
+1. Herstellung, Eigenschaften und Verwendung von Arbeits-, Bauroh- und Baustoffen sowie Mischungen,
 
-2.
+2. Probenahmen und Probenherstellung,
 
-3.
+3. Anwendung von Labortechnik, technischen Unterlagen und Regelwerken,
 
-4.
+4. chemische und physikalische Grundlagen, Prüfungen und Berechnungen.
 
 (5) In der Prüfung soll der Prüfling zeigen, dass er Arbeitsschritte und Arbeitsmittel festlegen, technische Unterlagen nutzen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung berücksichtigen kann.
 
@@ -112,43 +112,27 @@ Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im Teil A der Prüfung in insgesamt höchstens sieben Stunden drei Arbeitsaufgaben durchführen und innerhalb dieser Zeit in insgesamt höchstens 15 Minuten hierüber ein Fachgespräch führen, das aus mehreren Gesprächsphasen bestehen kann. Für die Arbeitsaufgaben kommen insbesondere in Betracht: Bei der Aufgabenerstellung ist der Schwerpunkt der Ausbildung zu berücksichtigen. Bei der Durchführung soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer, organisatorischer und zeitlicher Vorgaben selbstständig planen, Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz sowie zur Qualitätssicherung ergreifen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann.
+(2) Der Prüfling soll im Teil A der Prüfung in insgesamt höchstens sieben Stunden drei Arbeitsaufgaben durchführen und innerhalb dieser Zeit in insgesamt höchstens 15 Minuten hierüber ein Fachgespräch führen, das aus mehreren Gesprächsphasen bestehen kann. Für die Arbeitsaufgaben kommen insbesondere in Betracht:
 
-1.
+1. Durchführen physikalischer Prüfungen an einer Probe einschließlich der Bewertung der Prüfergebnisse,
 
-2.
+2. Durchführen chemischer Prüfungen an einer Probe einschließlich der Bewertung der Prüfergebnisse,
 
-3.
+3. Durchführen einer Probenahme sowie Vorbereiten und Herstellen einer Probe einschließlich Verfahrensanalyse,
 
-4.
+4. rechnergestütztes Auswerten, Aufbereiten und Darstellen von Untersuchungsergebnissen einer Probe oder
 
-5.
+5. Durchführen einer Rezepturberechnung und Herstellen einer Mischung.
 
 (3) Der Prüfling soll im Teil B der Prüfung in den Prüfungsbereichen Baustofftechnologie, Prüftechnik und Labortechnologie sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. In den Prüfungsbereichen Baustofftechnologie sowie Prüftechnik und Labortechnologie sind insbesondere praxisbezogene Aufgaben mit verknüpften informationstechnischen, technologischen und mathematischen Sachverhalten zu analysieren, zu bewerten und zu lösen. Dabei soll der Prüfling zeigen, dass er Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen berücksichtigen, die Anwendung von Arbeits- und Baurohstoffen, Bauprodukten, Bindemitteln, Mischungen und Recyclingmaterialien planen sowie der Labortechnik zuordnen, Regelwerke und Herstellerangaben beachten sowie qualitätssichernde Maßnahmen einbeziehen kann. Hierfür kommen insbesondere in Betracht:
 
-1.
+1. für den Prüfungsbereich Baustofftechnologie:a)Herstellung, Eigenschaften, Einflussfaktoren, Anforderungen und Verwendung von Arbeits-, Bauroh- und Baustoffen, Bauprodukten und Mischungen, b)chemische und physikalische Eigenschaften und Kenngrößen; Herstellung, Eigenschaften, Einflussfaktoren, Anforderungen und Verwendung von Arbeits-, Bauroh- und Baustoffen, Bauprodukten und Mischungen, chemische und physikalische Eigenschaften und Kenngrößen;
 
-a)
+2. für den Prüfungsbereich Prüftechnik und Labortechnologie:a)Labortechnik, technische Unterlagen und Regelwerke, b)Prüfmethoden und Prüfgeräte, c)Vorbereiten, Durchführen, Berechnen und Bewerten von Messungen und Prüfungen, d)fachspezifische und wirtschaftliche Berechnungen; Labortechnik, technische Unterlagen und Regelwerke, Prüfmethoden und Prüfgeräte, Vorbereiten, Durchführen, Berechnen und Bewerten von Messungen und Prüfungen, fachspezifische und wirtschaftliche Berechnungen;
 
-b)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-3.
-
-(4) Für den Teil B der Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
+3. für den Prüfungsbereich Wirtschafts- und Sozialkunde: allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 (5) Teil B der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
-
-(6) Innerhalb des Teils B der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 (7) Die Prüfung ist bestanden, wenn im Prüfungsteil A und Prüfungsteil B jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche des Prüfungsteils B müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich des Prüfungsteils B dürfen keine ungenügenden Leistungen erbracht worden sein.
 
@@ -162,414 +146,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 ### Anlage — (zu § 6)
 
-(Fundstelle: BGBl. I 2005, 974 - 982)
+a) Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
-a)
+b) gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
 
-b)
+c) Möglichkeiten der beruflichen Fortbildung nennen
 
-c)
+d) wesentliche Teile des Arbeitsvertrages nennen
 
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-p)
-
-q)
-
-r)
-
-s)
-
-t)
-
-u)
-
-v)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-*)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-p)
-
-q)
-
-r)
-
-s)
-
-t)
-
-u)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
+e) wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen

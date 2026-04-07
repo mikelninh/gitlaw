@@ -16,45 +16,45 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (2) Ziel der Prüfung ist der Nachweis der Qualifikation, folgende in Zusammenhang stehende Aufgaben eines Geprüften Küchenmeisters/einer Geprüften Küchenmeisterin als Fach- und Führungskraft beim Planen, Herstellen und Vermarkten gastronomischer Produkte und Dienstleistungen gästeorientiert wahrnehmen und sich dabei auf sich verändernde Anforderungen und Systeme unter Beachtung der Nachhaltigkeit einstellen zu können:
 
-1.
+1. Disponieren, Einkaufen, Verwalten und Einsetzen von Produkten; Beachten von Qualitätsanforderungen und einschlägigen Rechtsvorschriften; Veranlassen der sachgerechten Lagerung von Waren, Werkstoffen und Hilfsmitteln; Überprüfen des Bestandes; Veranlassen der Instandhaltung von Einrichtungen, Maschinen, Geräten und Gebrauchsgütern;
 
-2.
+2. Selbstständiges Planen, Ausführen und Kontrollieren von gastorientierten Dienstleistungen; Durchführen von Kostenrechnung und Preiskalkulation; Überwachen der Kostenentwicklung sowie der Arbeitsleistung; Herstellen von gastronomischen Produkten unter Berücksichtigung ernährungsphysiologischer Aspekte;
 
-3.
+3. Erstellen von Marketingkonzepten; Planen und Durchführen von verkaufsfördernden Aktionen; Beraten von Gästen und Führen von Verkaufsgesprächen;
 
-4.
+4. Einsetzen des Personals zur Gewährleistung eines termingerechten und wirtschaftlichen Arbeitens unter Beachtung der Lebensmittel- und Hygienevorschriften; Hinwirken auf eine reibungslose Zusammenarbeit im Betriebsablauf; Zusammenarbeit mit anderen Betriebsbereichen, Betrieben und Institutionen;
 
-5.
+5. Übertragen von Aufgaben unter Berücksichtigung fachspezifischer, wirtschaftlicher und sozialer Aspekte auf die Mitarbeiter entsprechend ihrer Qualifikation, Leistungsfähigkeit und Eignung; Motivieren, Führen und Fördern der Mitarbeiter; Fördern der beruflichen Aus- und Weiterbildung der Mitarbeiter; Zusammenarbeiten mit der Geschäftsführung und dem Betriebsrat;
 
-6.
+6. Durchführen erforderlicher Maßnahmen des Infektionsschutzes, des Arbeitsschutzes, insbesondere der sicherheitstechnischen und arbeitsmedizinischen Betreuung und der Unfallverhütung in Abstimmung mit den mit Arbeitssicherheit befassten Stellen und Personen innerhalb und außerhalb des Betriebes; Erkennen betriebsbedingter Umweltbelastungen und Beachten der Umweltschutzbestimmungen.
 
 (3) Die erfolgreich abgelegte Prüfung führt zu dem anerkannten Abschluss "Geprüfter Küchenmeister/Geprüfte Küchenmeisterin".
 
 ### § 2 — Zulassungsvoraussetzungen
 
-(1) Zur Prüfung im Prüfungsteil "Wirtschaftsbezogene Qualifikationen" ist zuzulassen, wer nachweist.
+(1) Zur Prüfung im Prüfungsteil "Wirtschaftsbezogene Qualifikationen" ist zuzulassen, wer
 
-1.
+1. eine mit Erfolg abgelegte Abschlussprüfung in einem dreijährigen anerkannten Ausbildungsberuf und danach eine mindestens einjährige Berufspraxis oder
 
-2.
+2. eine mit Erfolg abgelegte Abschlussprüfung in einem zweijährigen anerkannten Ausbildungsberuf und danach eine mindestens zweijährige Berufspraxis oder
 
-3.
+3. eine mindestens vierjährige Berufspraxis
 
-(2) Zur Prüfung im Prüfungsteil "Handlungsspezifische Qualifikationen" ist zuzulassen, wer nachweist.
+(2) Zur Prüfung im Prüfungsteil "Handlungsspezifische Qualifikationen" ist zuzulassen, wer
 
-1.
+1. die abgelegte Prüfung im Prüfungsteil "Wirtschaftsbezogene Qualifikationen" und
 
-2.
+2. in den in Absatz 1 Nr. 1 und 2 genannten Fällen zu den dort genannten Praxiszeiten mindestens ein weiteres Jahr Berufspraxis oder
 
-3.
+3. in dem in Absatz 1 Nr. 3 genannten Fall zu den dort genannten Praxiszeiten mindestens eine weitere zweijährige Berufspraxis
 
-(3) Zur Prüfung im Prüfungsteil "Praktische Prüfung" ist zuzulassen, wer nachweist.
+(3) Zur Prüfung im Prüfungsteil "Praktische Prüfung" ist zuzulassen, wer
 
-1.
+1. den Prüfungsteil "Wirtschaftsbezogene Qualifikationen" und den Prüfungsteil "Handlungsspezifische Qualifikationen" abgelegt hat und
 
-2.
+2. in den in Absatz 1 Nr. 1 und 2 genannten Fällen zu den dort genannten Praxiszeiten mindestens zwei weitere Jahre Berufspraxis oder
 
-3.
+3. in dem in Absatz 1 Nr. 3 genannten Fall zu den dort genannten Praxiszeiten mindestens vier weitere Jahre Berufspraxis
 
 (4) Der Prüfungsteil "Berufs- und arbeitspädagogische Qualifikationen" ist durch eine Prüfung gemäß der Ausbilder-Eignungsverordnung nachzuweisen. Die Aneignung der berufs- und arbeitspädagogischen Kenntnisse soll in der Regel vor Zulassung zum Prüfungsteil "Grundlegende Qualifikationen" erfolgen. Der Nachweis ist vor Beginn der letzten Prüfungsleistung zu erbringen.
 
@@ -66,33 +66,23 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (1) Die Prüfung gliedert sich in die Prüfungsteile:
 
-1.
+1. Berufs- und arbeitspädagogische Qualifikationen,
 
-2.
+2. Wirtschaftsbezogene Qualifikationen,
 
-3.
+3. Handlungsspezifische Qualifikationen,
 
-4.
+4. Praktische Prüfung.
 
-(2) Der Prüfungsteil „Wirtschaftsbezogene Qualifikationen“ gliedert sich in folgende Qualifikationsbereiche: (3) Der Prüfungsteil "Handlungsspezifische Qualifikationen" gliedert sich in folgende Qualifikationsschwerpunkte:
+(2) Der Prüfungsteil „Wirtschaftsbezogene Qualifikationen“ gliedert sich in folgende Qualifikationsbereiche:
 
-1.
+1. Volks- und Betriebswirtschaft,
 
-2.
+2. Rechnungswesen,
 
-3.
+3. Recht und Steuern,
 
-4.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
+4. Unternehmensführung.
 
 (4) Die „Wirtschaftsbezogenen Qualifikationen“ nach Absatz 2 Nummer 1 bis 4 sowie die „Handlungsspezifischen Qualifikationen“ nach Absatz 3 Nummer 1 bis 5 sind schriftlich in Form von anwendungsbezogenen Aufgabenstellungen nach den §§ 4 und 5 zu prüfen.
 
@@ -104,41 +94,39 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (1) Im Qualifikationsbereich „Volks- und Betriebswirtschaft“ sollen zum einen grundlegende volkswirtschaftliche Zusammenhänge und ihre Bedeutung für die betriebliche Praxis beurteilt werden können. Zum anderen müssen grundlegende betriebliche Funktionen und Funktionsbereiche und deren Zusammenwirken im Betrieb verstanden werden. Weiterhin soll der Vorgang einer Existenzgründung erfasst und in seiner Gesamtheit strukturiert werden können. In diesem Rahmen können geprüft werden:
 
-1.
+1. Volkswirtschaftliche Grundlagen,
 
-2.
+2. Betriebliche Funktionen und deren Zusammenwirken,
 
-3.
+3. Existenzgründung und Unternehmensrechtsformen,
 
-4.
+4. Unternehmenszusammenschlüsse.
 
 (2) Im Qualifikationsbereich „Rechnungswesen“ soll die Fähigkeit nachgewiesen werden, die Bedeutung des Rechnungswesens als Dokumentations-, Entscheidungs- und Kontrollinstrument für die Unternehmensführung darstellen und begründen zu können. Dazu gehören insbesondere, die bilanziellen Zusammenhänge sowie die Kostenrechnung in Grundzügen erläutern und anwenden zu können. Außerdem sollen die erarbeiteten Zahlen für eine Aussage über die Unternehmenssituation ausgewertet werden können. In diesem Rahmen können geprüft werden:
 
-1.
+1. Grundlegende Aspekte des Rechnungswesens,
 
-2.
+2. Finanzbuchhaltung,
 
-3.
+3. Kosten- und Leistungsrechnung,
 
-4.
+4. Auswertung der betriebswirtschaftlichen Zahlen,
 
-5.
+5. Planungsrechnung.
 
 (3) Im Qualifikationsbereich „Recht und Steuern“ sollen allgemeine Kenntnisse des Bürgerlichen Rechts und des Handelsrechts sowie Kenntnisse des Arbeitsrechts nachgewiesen werden. Weiterhin sollen an unternehmenstypischen Beispielen und Situationen mögliche Vertragsgestaltungen vorbereitet und deren Auswirkungen bewertet werden können. Es müssen außerdem die Grundzüge des unternehmensrelevanten Steuerrechts verstanden werden. In diesem Rahmen können geprüft werden:
 
-1.
+1. Rechtliche Zusammenhänge,
 
-2.
+2. Steuerrechtliche Bestimmungen.
 
 (4) Im Qualifikationsbereich „Unternehmensführung“ soll die Fähigkeit nachgewiesen werden, die Inhalte der Betriebsorganisation, der Personalführung und -entwicklung sowie der Planungs- und Analysemethoden im betrieblichen Umfeld zu kennen, deren Auswirkungen auf die Unternehmensführung erläutern und in Teilumfängen anwenden zu können. In diesem Rahmen können geprüft werden:
 
-1.
+1. Betriebsorganisation,
 
-2.
+2. Personalführung,
 
-3.
-
-(5) Die schriftliche Prüfung besteht für jeden Qualifikationsbereich aus einer unter Aufsicht anzufertigenden Arbeit, deren Mindestbearbeitungszeiten jeweils betragen: Die Gesamtdauer der Prüfung soll 330 Minuten nicht überschreiten.
+3. Personalentwicklung.
 
 (6) Wurden in nicht mehr als einem Qualifikationsbereich mangelhafte Prüfungsleistungen erbracht, ist in diesem Qualifikationsbereich eine mündliche Ergänzungsprüfung anzubieten. Bei einer oder mehreren ungenügenden Leistungen besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll anwendungsbezogen durchgeführt werden und in der Regel nicht länger als 20 Minuten dauern. Die Bewertungen der schriftlichen Prüfungsleistung und der mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
@@ -146,65 +134,65 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (1) Im Qualifikationsschwerpunkt "Mitarbeiter führen und fördern" soll die Fähigkeit nachgewiesen werden, den Personalbedarf ermitteln und den Personaleinsatz den Anforderungen entsprechend sicherstellen zu können. Dazu gehört insbesondere, Mitarbeiter durch die Anwendung geeigneter Führungsmethoden zielgerichtet zu eigenverantwortlichem Handeln führen zu können. Weiterhin gehört dazu die Fähigkeit, auf der Basis einer quantitativen und qualitativen Personalplanung eine systematische Personalentwicklung durchführen zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Quantitativen und qualitativen Personalbedarf bestimmen,
 
-2.
+2. Anforderungsprofile, Stellenplanungen und -beschreibungen erstellen,
 
-3.
+3. Mitarbeiter unter Berücksichtigung ihrer Eignung sowie der betrieblichen Anforderungen auswählen, einsetzen und motivieren,
 
-4.
+4. Mitarbeiter in deren Aufgabenbereich einführen, Arbeitsaufträge und Anweisungen erteilen und deren sachgerechte Ausführung überwachen,
 
-5.
+5. Maßnahmen der Personalentwicklung zur Qualifizierung und zielgerichteten Motivation unter Berücksichtigung des betrieblichen Bedarfs und der Mitarbeiterinteressen planen und veranlassen,
 
-6.
+6. Mitarbeiter bezüglich Leistung und Verhalten beurteilen und qualifizierte Zeugnisse ausstellen.
 
 (2) Im Qualifikationsschwerpunkt "Abläufe planen, durchführen und kontrollieren" soll die Fähigkeit nachgewiesen werden, Speisen und gastronomische Dienstleistungen konzipieren sowie betriebliche Abläufe planen, organisieren, kontrollieren und analysieren sowie Kalkulationen erstellen zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Konzepte für Speisenangebote und gastronomische Dienstleistungen entwickeln,
 
-2.
+2. Betriebs- und Arbeitsplatzorganisation auch unter Berücksichtigung der Möglichkeiten der Fremdvergabe entwickeln,
 
-3.
+3. Arbeits- und Zeitplanung erstellen,
 
-4.
+4. Kosten kalkulieren und Preise bilden,
 
-5.
+5. Arbeitssicherheit sowie Hygiene- und Umweltschutzmaßnahmen gewährleisten.
 
 (3) Im Qualifikationsschwerpunkt "Produkte beschaffen und pflegen" soll die Fähigkeit nachgewiesen werden, Lebensmittel, Arbeitsmittel, Geräte und Dienstleistungen sowie Gebrauchsgüter in erforderlicher Qualität und Quantität kostenbewusst beschaffen zu können. Es soll unter Beachtung einschlägiger Rechtsvorschriften die sachgerechte Versorgung, Pflege, Lagerung und Vorbereitung der Waren und Geräte sichergestellt werden können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Bezugsquellen erschließen und nutzen,
 
-2.
+2. Angebote vergleichen und beurteilen,
 
-3.
+3. Lebensmittel sachgerecht lagern,
 
-4.
+4. Gebrauchsgüter sachgerecht für den Arbeitseinsatz vorbereiten und pflegen,
 
-5.
+5. Hygiene- und Umweltschutzmaßnahmen anwenden und Energie wirtschaftlich einsetzen,
 
-6.
+6. Erforderliche Investitionen begründen.
 
 (4) Im Qualifikationsschwerpunkt "Speisentechnologie und ernährungswissenschaftliche Kenntnisse anwenden" soll die Fähigkeit nachgewiesen werden, auf der Grundlage eines gastronomischen Konzeptes Speisen herstellen zu können. Dabei sind ökonomische, ökologische und ernährungsphysiologische Grundsätze und Hygienevorschriften zu beachten. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Rohstoff-, jahreszeit-, gast-, preis- und anlassbezogene Speisen planen und erläutern,
 
-2.
+2. Speisen nach Wareneinsatz und Arbeitsaufwand bewerten,
 
-3.
+3. Quantitativen und qualitativen Nährstoffgehalt von Lebensmitteln beurteilen,
 
-4.
+4. Methoden zur Nährwerterhaltung anwenden,
 
-5.
+5. Speisenangebote für eine nachhaltig gesundheitsbewusste Ernährung sowie die häufigsten ernährungsbedingten Krankheiten kennen.
 
 (5) Im Qualifikationsschwerpunkt "Gäste beraten und Produkte vermarkten" soll die Fähigkeit nachgewiesen werden, die Vermarktung und die Präsentation von Speisen und Dienstleistungen entwickeln sowie Gäste ziel- und sachgerecht beraten zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Verkaufsfördernde Maßnahmen entwickeln,
 
-2.
+2. Individuelle Angebote für besondere Anlässe erstellen,
 
-3.
+3. Präsentationstechniken beherrschen,
 
-4.
+4. Beratungs- und Verkaufsgespräche vorbereiten.
 
 (6) Die Qualifikationsschwerpunkte gemäß den Absätzen 1 bis 5 sind jeweils in Form einer anwendungsbezogenen Aufgabe zu prüfen. Die Aufgaben sind so zu gestalten, dass alle Qualifikationsinhalte des jeweiligen Qualifikationsschwerpunkts mindestens einmal thematisiert werden. Die Prüfungsdauer für die Bearbeitung der Aufgaben soll für den Qualifikationsschwerpunkt gemäß Absatz 1 mindestens 60 Minuten, für den Qualifikationsschwerpunkt gemäß Absatz 2 mindestens 60 Minuten, für den Qualifikationsschwerpunkt gemäß Absatz 3 mindestens 90 Minuten, für den Qualifikationsschwerpunkt gemäß Absatz 4 mindestens 90 Minuten und für den Qualifikationsschwerpunkt gemäß Absatz 5 mindestens 60 Minuten betragen. Insgesamt soll die Prüfungsdauer 390 Minuten nicht überschreiten.
 
@@ -218,19 +206,19 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (3) Im Rahmen der Situationsaufgabe sind folgende Qualifikationsinhalte zu prüfen:
 
-1.
+1. Ausarbeiten eines Menüs unter Einhaltung vorgegebener Kriterien, Erstellen eines Arbeitsablaufplanes,
 
-2.
+2. Beachten und Anwenden von Lebensmittel-, Hygiene-, Arbeitsschutz- und Umweltschutzgesetzen,
 
-3.
+3. Wirtschaftliches Einsetzen von Material und Energie sowie umweltschonendes Arbeiten,
 
-4.
+4. Anwenden und Beherrschen von Arbeitstechniken,
 
-5.
+5. Anwenden von Verfahren der Qualitätssicherung,
 
-6.
+6. Präsentieren der Speisen,
 
-7.
+7. Geschmack und Beschaffenheit der Speisen.
 
 ### § 7 — Berufs- und arbeitspädagogische Qualifikationen
 
@@ -250,11 +238,11 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (3) Im Prüfungsteil „Handlungsspezifische Qualifikationen“ sind die Prüfungsleistungen für jeden Qualifikationsschwerpunkt und für das situationsbezogene gastorientierte Fachgespräch einzeln zu bewerten. Aus den einzelnen Bewertungen wird als Bewertung des Prüfungsteils das arithmetische Mittel berechnet.
 
-(4) Im Prüfungsteil „Praktische Prüfung“ ist als Prüfungsleistung die Situationsaufgabe zu bewerten. Dabei müssen die Qualifikationsinhalte nach § 6 Absatz 3 Nummer 4, 6 und 7 sowie die Qualifikationsinhalte nach § 6 Absatz 3 Nummer 1, 2, 3 und 5 jeweils gemeinschaftlich bewertet und wie folgt gewichtet werden: Bei der Bewertung der einzelnen Menübestandteile ist die Schwierigkeit der Herstellung und Präsentation zu berücksichtigen.
+(4) Im Prüfungsteil „Praktische Prüfung“ ist als Prüfungsleistung die Situationsaufgabe zu bewerten. Dabei müssen die Qualifikationsinhalte nach § 6 Absatz 3 Nummer 4, 6 und 7 sowie die Qualifikationsinhalte nach § 6 Absatz 3 Nummer 1, 2, 3 und 5 jeweils gemeinschaftlich bewertet und wie folgt gewichtet werden:
 
-1.
+1. die Qualifikationsinhalte nach § 6 Absatz 3 Nummer 4, 6 und 7 mit zwei Dritteln
 
-2.
+2. die Qualifikationsinhalte nach § 6 Absatz 3 Nummer 1, 2, 3 und 5 mit einem Drittel.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -262,11 +250,11 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
-1.
+1. in jedem Qualifikationsbereich des Prüfungsteils „Wirtschaftsbezogene Qualifikationen“,
 
-2.
+2. in jedem Qualifikationsschwerpunkt und im situationsbezogenen gastorientierten Fachgespräch des Prüfungsteils „Handlungsspezifische Qualifikationen“ und
 
-3.
+3. in der integrativen Situationsaufgabe des Prüfungsteils „Praktische Prüfung“.
 
 (2) Ist die Prüfung bestanden, werden die Bewertungen der Prüfungsteile „Wirtschaftsbezogene Qualifikationen“, „Handlungsspezifische Qualifikationen“ und „Praktische Prüfung“ jeweils kaufmännisch auf eine ganze Zahl gerundet.
 
@@ -284,9 +272,9 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur Information (Bemerkungen) enthalten, insbesondere
 
-1.
+1. über den erworbenen Abschluss oder
 
-2.
+2. auf Antrag der geprüften Person über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -316,46 +304,34 @@ Diese Verordnung tritt am 1. Oktober 2003 in Kraft. Gleichzeitig tritt die Gastg
 
 ### Anlage 2 — (zu § 11)
 
-Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
 
-1.
+2. Name und Geburtsdatum der geprüften Person,
 
-2.
+3. Datum des Bestehens der Prüfung,
 
-3.
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
 
-4.
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
 
-5.
-
-6.
-
-Teil B – Zeugnis mit Prüfungsergebnissen:
+6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
 
 Alle Angaben des Teils A sowie zusätzlich:
 
-1.
+1. zum Prüfungsteil „Wirtschaftsbezogene Qualifikationen“ a)Benennung dieses Prüfungsteils mit Note,b)Benennung und Bewertung der vier Qualifikationsbereiche dieses Prüfungsteils mit Punkten, Benennung dieses Prüfungsteils mit Note, Benennung und Bewertung der vier Qualifikationsbereiche dieses Prüfungsteils mit Punkten,
 
-a)
+2. zum Prüfungsteil „Handlungsspezifische Qualifikationen“ a)Benennung dieses Prüfungsteils mit Note,b)Benennung und Bewertung der fünf Qualifikationsschwerpunkte und des situationsbezogenen gastorientierten Fachgesprächs dieses Prüfungsteils mit Punkten, Benennung dieses Prüfungsteils mit Note, Benennung und Bewertung der fünf Qualifikationsschwerpunkte und des situationsbezogenen gastorientierten Fachgesprächs dieses Prüfungsteils mit Punkten,
 
-b)
+3. zum Prüfungsteil „Praktische Prüfung“ die Benennung dieses Prüfungsteils mit Note,
 
-2.
+4. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
 
-a)
+5. die Gesamtnote als Dezimalzahl,
 
-b)
+6. die Gesamtnote in Worten,
 
-3.
+7. Befreiungen nach § 8,
 
-4.
-
-5.
-
-6.
-
-7.
-
-8.
+8. Vorliegen des Nachweises über den Erwerb der berufs- und arbeitspädagogischen Qualifikationen nach § 2 Absatz 4.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)

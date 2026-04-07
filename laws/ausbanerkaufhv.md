@@ -12,15 +12,15 @@ Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1
 
 ### § 1 — Aufhebung der staatlichen Anerkennung von Ausbildungsberufen
 
-Die staatliche Anerkennung der Ausbildungsberufe wird aufgehoben.
+Die staatliche Anerkennung der Ausbildungsberufe
 
-a)
+a) Pflanzenschutzlaborant/Pflanzenschutzlaborantin entsprechend der Richtlinie des Landes Schleswig-Holstein vom 22. Oktober 1962 (ABl. S. 522), zuletzt geändert am 11. November 1966 (ABl. S. 597);
 
-b)
+b) Veterinärmedizinischer Laborant/Veterinärmedizinische Laborantin entsprechend der Ausbildungsordnung der Landwirtschaftskammer Schleswig-Holstein vom 1. August 1968;
 
-c)
+c) Zeichner/Zeichnerin in der Wasserwirtschaftsverwaltung entsprechend der Bekanntmachung des Ministers für Ernährung, Landwirtschaft und Forsten des Landes Schleswig-Holstein vom 6. Juli 1959 (ABl. S. 366), zuletzt geändert am 11. November 1966 (ABl. S. 597);
 
-d)
+d) Zeichner/Zeichnerin in der Wasserwirtschaftsverwaltung entsprechend dem Runderlaß des Ministers für Landwirtschaft, Weinbau und Forsten des Landes Rheinland-Pfalz vom 28. März 1963, geändert durch Erlaß vom 12. März 1973 (StAnz. Nr. 13 vom 2. April 1973),
 
 ### § 2 — Übergangsregelung
 

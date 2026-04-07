@@ -16,17 +16,17 @@ Die Stiftung führt den Namen "Stiftung Demokratische Jugend". Sie ist eine selb
 
 (2) Gefördert werden soll insbesondere
 
--
+- die politische Bildung und politische Mitverantwortung,
 
--
+- die wirtschaftliche Initiative Jugendlicher sowie deren Mitwirkung in Gewerkschaften und Berufsorganisationen,
 
--
+- die Interessenvertretung während der Ausbildung,
 
--
+- das Engagement zum Schutz der Umwelt, der Gesundheit, des Friedens, der Menschenrechte u.a. gemeinnütziger Ziele,
 
--
+- der kulturelle Nachwuchs und das Angebot nichtkommerzieller Kulturveranstaltungen,
 
--
+- Jugendaustausch und internationale Begegnung.
 
 (3) Die Förderung erfolgt nach dem Grundsatz der Hilfe zur Selbsthilfe, soweit geeignete Träger zur Durchführung vorhanden sind. Im übrigen entscheidet der Vorstand, auf welche Weise der Zweck der Stiftung zu verwirklichen ist.
 
@@ -68,8 +68,6 @@ Die Stiftung ist selbstlos tätig; sie verfolgt ausschließlich und unmittelbar 
 
 ### § 7 — Kuratorium
 
-Das Kuratorium berät den Vorstand und überwacht die Einhaltung des Stiftungszwecks. Es besteht aus zehn Vertretern verschiedener gesellschaftlicher Gruppierungen, die Jugendarbeit betreiben. Die Mitglieder des Kuratoriums werden vom Vorstand persönlich für drei Jahre berufen. Das Kuratorium wählt mit Zweidrittelmehrheit einen Sprecher. Dieser kann vom Vorstand Einsicht in alle Unterlagen der Stiftung verlangen. Das Kuratorium tagt mindestens einmal im Jahr. Außerordentliche Tagungen können vom Kuratorium mit Zweidrittelmehrheit beschlossen oder vom Vorstand einberufen werden. Das Kuratorium kann Empfehlungen an den Vorstand mit einfacher Mehrheit beschließen. Der Vorstand kann Aufgaben an das Kuratorium delegieren, wenn dieses zustimmt.
-
 ### § 8 — Geschäftsführung
 
 Der Vorstand kann zur Führung der Stiftungsgeschäfte Geschäftsführer bestellen, die an die Beschlüsse des Vorstandes gebunden sind. Geschäftsjahr ist das Kalenderjahr.
@@ -79,5 +77,3 @@ Der Vorstand kann zur Führung der Stiftungsgeschäfte Geschäftsführer bestell
 Vorbehaltlich einer künftigen gesetzlichen Regelung übt das Ministerium für Jugend und Sport die Fach- und Rechtsaufsicht aus.
 
 ### § 10 — Satzungsänderung, Auflösung
-
-Satzungsänderungen können vom Vorstand nur einstimmig im Sinne des Stiftungszwecks beschlossen werden und bedürfen der Zustimmung der Stiftungsaufsichtsbehörde. Satzungsänderungen, die aufgrund künftigen Stiftungsrechts notwendig werden, fügt der Vorstand unter Wahrung des Stifterwillens in die Satzung ein. Bei Auflösung der Stiftung fällt das Vermögen zu gleichen Teilen an die Länder, in denen die Stiftung gemäß § 2 tätig ist. Es ist von den obersten Jugendbehörden dieser Länder im Sinne der unter § 2 genannten Zweckbindung zu verwenden.

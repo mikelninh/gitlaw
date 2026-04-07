@@ -7,7 +7,9 @@
 
 ### Art 1
 
-(1) Dem in Brüssel am 13. November 1991 von der Bundesrepublik Deutschland unterzeichneten Übereinkommen zwischen den Mitgliedstaaten der Europäischen Gemeinschaften über die Vollstreckung ausländischer strafrechtlicher Verurteilungen wird zugestimmt. Das Übereinkommen wird nachstehend veröffentlicht.(2) Die Bundesregierung kann bei der Hinterlegung der Ratifikationsurkunde eine Erklärung nach Artikel 21 Abs. 3 des Übereinkommens abgeben.
+(1) Dem in Brüssel am 13. November 1991 von der Bundesrepublik Deutschland unterzeichneten Übereinkommen zwischen den Mitgliedstaaten der Europäischen Gemeinschaften über die Vollstreckung ausländischer strafrechtlicher Verurteilungen wird zugestimmt. Das Übereinkommen wird nachstehend veröffentlicht.
+
+(2) Die Bundesregierung kann bei der Hinterlegung der Ratifikationsurkunde eine Erklärung nach Artikel 21 Abs. 3 des Übereinkommens abgeben.
 
 ### Art 2
 
@@ -15,4 +17,6 @@ Bei Ersuchen um Übertragung der Vollstreckung einer Verurteilung nach dem Über
 
 ### Art 3
 
-(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 21 Abs. 2 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben. Das gleiche gilt für den Tag, von dem an das Übereinkommen nach seinem Artikel 21 Abs. 3 vorzeitige Anwendung findet.
+(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
+
+(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 21 Abs. 2 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben. Das gleiche gilt für den Tag, von dem an das Übereinkommen nach seinem Artikel 21 Abs. 3 vorzeitige Anwendung findet.

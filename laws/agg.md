@@ -16,21 +16,21 @@ Ziel des Gesetzes ist, Benachteiligungen aus Gründen der Rasse oder wegen der e
 
 (1) Benachteiligungen aus einem in § 1 genannten Grund sind nach Maßgabe dieses Gesetzes unzulässig in Bezug auf:
 
-1.
+1. die Bedingungen, einschließlich Auswahlkriterien und Einstellungsbedingungen, für den Zugang zu unselbstständiger und selbstständiger Erwerbstätigkeit, unabhängig von Tätigkeitsfeld und beruflicher Position, sowie für den beruflichen Aufstieg,
 
-2.
+2. die Beschäftigungs- und Arbeitsbedingungen einschließlich Arbeitsentgelt und Entlassungsbedingungen, insbesondere in individual- und kollektivrechtlichen Vereinbarungen und Maßnahmen bei der Durchführung und Beendigung eines Beschäftigungsverhältnisses sowie beim beruflichen Aufstieg,
 
-3.
+3. den Zugang zu allen Formen und allen Ebenen der Berufsberatung, der Berufsbildung einschließlich der Berufsausbildung, der beruflichen Weiterbildung und der Umschulung sowie der praktischen Berufserfahrung,
 
-4.
+4. die Mitgliedschaft und Mitwirkung in einer Beschäftigten- oder Arbeitgebervereinigung oder einer Vereinigung, deren Mitglieder einer bestimmten Berufsgruppe angehören, einschließlich der Inanspruchnahme der Leistungen solcher Vereinigungen,
 
-5.
+5. den Sozialschutz, einschließlich der sozialen Sicherheit und der Gesundheitsdienste,
 
-6.
+6. die sozialen Vergünstigungen,
 
-7.
+7. die Bildung,
 
-8.
+8. den Zugang zu und die Versorgung mit Gütern und Dienstleistungen, die der Öffentlichkeit zur Verfügung stehen, einschließlich von Wohnraum.
 
 (2) Für Leistungen nach dem Sozialgesetzbuch gelten § 33c des Ersten Buches Sozialgesetzbuch und § 19a des Vierten Buches Sozialgesetzbuch. Für die betriebliche Altersvorsorge gilt das Betriebsrentengesetz.
 
@@ -62,13 +62,13 @@ Ungeachtet der in den §§ 8 bis 10 sowie in § 20 benannten Gründe ist eine un
 
 ### § 6 — Persönlicher Anwendungsbereich
 
-(1) Beschäftigte im Sinne dieses Gesetzes sind Als Beschäftigte gelten auch die Bewerberinnen und Bewerber für ein Beschäftigungsverhältnis sowie die Personen, deren Beschäftigungsverhältnis beendet ist.
+(1) Beschäftigte im Sinne dieses Gesetzes sind
 
-1.
+1. Arbeitnehmerinnen und Arbeitnehmer,
 
-2.
+2. die zu ihrer Berufsbildung Beschäftigten,
 
-3.
+3. Personen, die wegen ihrer wirtschaftlichen Unselbstständigkeit als arbeitnehmerähnliche Personen anzusehen sind; zu diesen gehören auch die in Heimarbeit Beschäftigten und die ihnen Gleichgestellten.
 
 (2) Arbeitgeber (Arbeitgeber und Arbeitgeberinnen) im Sinne dieses Abschnitts sind natürliche und juristische Personen sowie rechtsfähige Personengesellschaften, die Personen nach Absatz 1 beschäftigen. Werden Beschäftigte einem Dritten zur Arbeitsleistung überlassen, so gilt auch dieser als Arbeitgeber im Sinne dieses Abschnitts. Für die in Heimarbeit Beschäftigten und die ihnen Gleichgestellten tritt an die Stelle des Arbeitgebers der Auftraggeber oder Zwischenmeister.
 
@@ -99,17 +99,17 @@ Weltanschauung
 
 Ungeachtet des § 8 ist eine unterschiedliche Behandlung wegen des Alters auch zulässig, wenn sie objektiv und angemessen und durch ein legitimes Ziel gerechtfertigt ist. Die Mittel zur Erreichung dieses Ziels müssen angemessen und erforderlich sein. Derartige unterschiedliche Behandlungen können insbesondere Folgendes einschließen:
 
-1.
+1. die Festlegung besonderer Bedingungen für den Zugang zur Beschäftigung und zur beruflichen Bildung sowie besonderer Beschäftigungs- und Arbeitsbedingungen, einschließlich der Bedingungen für Entlohnung und Beendigung des Beschäftigungsverhältnisses, um die berufliche Eingliederung von Jugendlichen, älteren Beschäftigten und Personen mit Fürsorgepflichten zu fördern oder ihren Schutz sicherzustellen,
 
-2.
+2. die Festlegung von Mindestanforderungen an das Alter, die Berufserfahrung oder das Dienstalter für den Zugang zur Beschäftigung oder für bestimmte mit der Beschäftigung verbundene Vorteile,
 
-3.
+3. die Festsetzung eines Höchstalters für die Einstellung auf Grund der spezifischen Ausbildungsanforderungen eines bestimmten Arbeitsplatzes oder auf Grund der Notwendigkeit einer angemessenen Beschäftigungszeit vor dem Eintritt in den Ruhestand,
 
-4.
+4. die Festsetzung von Altersgrenzen bei den betrieblichen Systemen der sozialen Sicherheit als Voraussetzung für die Mitgliedschaft oder den Bezug von Altersrente oder von Leistungen bei Invalidität einschließlich der Festsetzung unterschiedlicher Altersgrenzen im Rahmen dieser Systeme für bestimmte Beschäftigte oder Gruppen von Beschäftigten und die Verwendung von Alterskriterien im Rahmen dieser Systeme für versicherungsmathematische Berechnungen,
 
-5.
+5. eine Vereinbarung, die die Beendigung des Beschäftigungsverhältnisses ohne Kündigung zu einem Zeitpunkt vorsieht, zu dem der oder die Beschäftigte eine Rente wegen Alters beantragen kann; § 41 des Sechsten Buches Sozialgesetzbuch bleibt unberührt,
 
-6.
+6. Differenzierungen von Leistungen in Sozialplänen im Sinne des Betriebsverfassungsgesetzes, wenn die Parteien eine nach Alter oder Betriebszugehörigkeit gestaffelte Abfindungsregelung geschaffen haben, in der die wesentlich vom Alter abhängenden Chancen auf dem Arbeitsmarkt durch eine verhältnismäßig starke Betonung des Lebensalters erkennbar berücksichtigt worden sind, oder Beschäftigte von den Leistungen des Sozialplans ausgeschlossen haben, die wirtschaftlich abgesichert sind, weil sie, gegebenenfalls nach Bezug von Arbeitslosengeld, rentenberechtigt sind.
 
 ## Unterabschnitt 2: Organisationspflichten des
 Arbeitgebers
@@ -174,11 +174,11 @@ Ergreift der Arbeitgeber keine oder offensichtlich ungeeignete Maßnahmen zur Un
 
 ### § 18 — Mitgliedschaft in Vereinigungen
 
-(1) Die Vorschriften dieses Abschnitts gelten entsprechend für die Mitgliedschaft oder die Mitwirkung in einer sowie deren jeweiligen Zusammenschlüssen.
+(1) Die Vorschriften dieses Abschnitts gelten entsprechend für die Mitgliedschaft oder die Mitwirkung in einer
 
-1.
+1. Tarifvertragspartei,
 
-2.
+2. Vereinigung, deren Mitglieder einer bestimmten Berufsgruppe angehören oder die eine überragende Machtstellung im wirtschaftlichen oder sozialen Bereich innehat, wenn ein grundlegendes Interesse am Erwerb der Mitgliedschaft besteht,
 
 (2) Wenn die Ablehnung einen Verstoß gegen das Benachteiligungsverbot des § 7 Abs. 1 darstellt, besteht ein Anspruch auf Mitgliedschaft oder Mitwirkung in den in Absatz 1 genannten Vereinigungen.
 
@@ -186,11 +186,11 @@ Ergreift der Arbeitgeber keine oder offensichtlich ungeeignete Maßnahmen zur Un
 
 ### § 19 — Zivilrechtliches Benachteiligungsverbot
 
-(1) Eine Benachteiligung aus Gründen der Rasse oder wegen der ethnischen Herkunft, wegen des Geschlechts, der Religion, einer Behinderung, des Alters oder der sexuellen Identität bei der Begründung, Durchführung und Beendigung zivilrechtlicher Schuldverhältnisse, die ist unzulässig.
+(1) Eine Benachteiligung aus Gründen der Rasse oder wegen der ethnischen Herkunft, wegen des Geschlechts, der Religion, einer Behinderung, des Alters oder der sexuellen Identität bei der Begründung, Durchführung und Beendigung zivilrechtlicher Schuldverhältnisse, die
 
-1.
+1. typischerweise ohne Ansehen der Person zu vergleichbaren Bedingungen in einer Vielzahl von Fällen zustande kommen (Massengeschäfte) oder bei denen das Ansehen der Person nach der Art des Schuldverhältnisses eine nachrangige Bedeutung hat und die zu vergleichbaren Bedingungen in einer Vielzahl von Fällen zustande kommen oder
 
-2.
+2. eine privatrechtliche Versicherung zum Gegenstand haben,
 
 (2) Eine Benachteiligung aus Gründen der Rasse oder wegen der ethnischen Herkunft ist darüber hinaus auch bei der Begründung, Durchführung und Beendigung sonstiger zivilrechtlicher Schuldverhältnisse im Sinne des § 2 Abs. 1 Nr. 5 bis 8 unzulässig.
 
@@ -204,13 +204,13 @@ Ergreift der Arbeitgeber keine oder offensichtlich ungeeignete Maßnahmen zur Un
 
 (1) Eine Verletzung des Benachteiligungsverbots ist nicht gegeben, wenn für eine unterschiedliche Behandlung wegen der Religion, einer Behinderung, des Alters, der sexuellen Identität oder des Geschlechts ein sachlicher Grund vorliegt. Das kann insbesondere der Fall sein, wenn die unterschiedliche Behandlung
 
-1.
+1. der Vermeidung von Gefahren, der Verhütung von Schäden oder anderen Zwecken vergleichbarer Art dient,
 
-2.
+2. dem Bedürfnis nach Schutz der Intimsphäre oder der persönlichen Sicherheit Rechnung trägt,
 
-3.
+3. besondere Vorteile gewährt und ein Interesse an der Durchsetzung der Gleichbehandlung fehlt,
 
-4.
+4. an die Religion eines Menschen anknüpft und im Hinblick auf die Ausübung der Religionsfreiheit oder auf das Selbstbestimmungsrecht der Religionsgemeinschaften, der ihnen zugeordneten Einrichtungen ohne Rücksicht auf ihre Rechtsform sowie der Vereinigungen, die sich die gemeinschaftliche Pflege einer Religion zur Aufgabe machen, unter Beachtung des jeweiligen Selbstverständnisses gerechtfertigt ist.
 
 (2) Kosten im Zusammenhang mit Schwangerschaft und Mutterschaft dürfen auf keinen Fall zu unterschiedlichen Prämien oder Leistungen führen. Eine unterschiedliche Behandlung wegen der Religion, einer Behinderung, des Alters oder der sexuellen Identität ist im Falle des § 19 Abs. 1 Nr. 2 nur zulässig, wenn diese auf anerkannten Prinzipien risikoadäquater Kalkulation beruht, insbesondere auf einer versicherungsmathematisch ermittelten Risikobewertung unter Heranziehung statistischer Erhebungen.
 
@@ -249,11 +249,11 @@ Dienstverhältnisse
 
 Die Vorschriften dieses Gesetzes gelten unter Berücksichtigung ihrer besonderen Rechtsstellung entsprechend für
 
-1.
+1. Beamtinnen und Beamte des Bundes, der Länder, der Gemeinden, der Gemeindeverbände sowie der sonstigen der Aufsicht des Bundes oder eines Landes unterstehenden Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts,
 
-2.
+2. Richterinnen und Richter des Bundes und der Länder,
 
-3.
+3. Zivildienstleistende sowie anerkannte Kriegsdienstverweigerer, soweit ihre Heranziehung zum Zivildienst betroffen ist.
 
 ## Abschnitt 6: Antidiskriminierungsstelle des Bundes und Unabhängige Bundesbeauftragte oder Unabhängiger Bundesbeauftragter für Antidiskriminierung
 
@@ -297,15 +297,15 @@ Die Vorschriften dieses Gesetzes gelten unter Berücksichtigung ihrer besonderen
 
 (3) Das Amtsverhältnis endet
 
-1.
+1. regulär mit dem Ablauf der Amtszeit oder
 
-2.
+2. wenn die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung vorzeitig aus dem Amt entlassen wird.
 
-(4) Entlassen wird die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung Die Entlassung erfolgt durch die Bundespräsidentin oder den Bundespräsidenten.
+(4) Entlassen wird die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung
 
-1.
+1. auf eigenes Verlangen oder
 
-2.
+2. auf Vorschlag der Bundesregierung, wenn die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung eine schwere Verfehlung begangen hat oder die Voraussetzungen für die Wahrnehmung ihrer oder seiner Aufgaben nicht mehr erfüllt.
 
 (5) Im Fall der Beendigung des Amtsverhältnisses vollzieht die Bundespräsidentin oder der Bundespräsident eine Urkunde. Die Entlassung wird mit der Aushändigung der Urkunde wirksam.
 
@@ -315,11 +315,11 @@ Die Vorschriften dieses Gesetzes gelten unter Berücksichtigung ihrer besonderen
 
 (2) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung darf während der Amtszeit und während einer anschließenden Geschäftsführung keine anderen Tätigkeiten ausüben, die mit dem Amt nicht zu vereinbaren sind, unabhängig davon, ob es entgeltliche oder unentgeltliche Tätigkeiten sind. Insbesondere darf sie oder er
 
-1.
+1. kein besoldetes Amt, kein Gewerbe und keinen Beruf ausüben,
 
-2.
+2. nicht dem Vorstand, Aufsichtsrat oder Verwaltungsrat eines auf Erwerb gerichteten Unternehmens, nicht einer Regierung oder einer gesetzgebenden Körperschaft des Bundes oder eines Landes angehören und
 
-3.
+3. nicht gegen Entgelt außergerichtliche Gutachten abgeben.
 
 ### § 26e — Verschwiegenheitspflicht der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung
 
@@ -361,27 +361,27 @@ Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung ist verpfli
 
 (1) Wer der Ansicht ist, wegen eines in § 1 genannten Grundes benachteiligt worden zu sein, kann sich an die Antidiskriminierungsstelle des Bundes wenden. An die Antidiskriminierungsstelle des Bundes können sich auch Beschäftigte wenden, die der Ansicht sind, benachteiligt worden zu sein auf Grund
 
-1.
+1. der Beantragung oder Inanspruchnahme einer Freistellung von der Arbeitsleistung oder der Anpassung der Arbeitszeit als Eltern oder pflegende Angehörige nach dem Bundeselterngeld- und Elternzeitgesetz, dem Pflegezeitgesetz oder dem Familienpflegezeitgesetz,
 
-2.
+2. des Fernbleibens von der Arbeit nach § 2 des Pflegezeitgesetzes oder
 
-3.
+3. der Verweigerung ihrer persönlich zu erbringenden Arbeitsleistung aus dringenden familiären Gründen nach § 275 Absatz 3 des Bürgerlichen Gesetzbuchs, wenn eine Erkrankung oder ein Unfall ihre unmittelbare Anwesenheit erforderten.
 
-(2) Die Antidiskriminierungsstelle des Bundes unterstützt auf unabhängige Weise Personen, die sich nach Absatz 1 an sie wenden, bei der Durchsetzung ihrer Rechte zum Schutz vor Benachteiligungen. Hierbei kann sie insbesondere Soweit Beauftragte des Deutschen Bundestages oder der Bundesregierung zuständig sind, leitet die Antidiskriminierungsstelle des Bundes die Anliegen der in Absatz 1 genannten Personen mit deren Einverständnis unverzüglich an diese weiter.
+(2) Die Antidiskriminierungsstelle des Bundes unterstützt auf unabhängige Weise Personen, die sich nach Absatz 1 an sie wenden, bei der Durchsetzung ihrer Rechte zum Schutz vor Benachteiligungen. Hierbei kann sie insbesondere
 
-1.
+1. über Ansprüche und die Möglichkeiten des rechtlichen Vorgehens im Rahmen gesetzlicher Regelungen zum Schutz vor Benachteiligungen informieren,
 
-2.
+2. Beratung durch andere Stellen vermitteln,
 
-3.
+3. eine gütliche Beilegung zwischen den Beteiligten anstreben.
 
 (3) Die Antidiskriminierungsstelle des Bundes nimmt auf unabhängige Weise folgende Aufgaben wahr, soweit nicht die Zuständigkeit der Beauftragten der Bundesregierung oder des Deutschen Bundestages berührt ist:
 
-1.
+1. Öffentlichkeitsarbeit,
 
-2.
+2. Maßnahmen zur Verhinderung von Benachteiligungen aus den in § 1 genannten Gründen sowie von Benachteiligungen von Beschäftigten gemäß Absatz 1 Satz 2,
 
-3.
+3. Durchführung wissenschaftlicher Untersuchungen zu diesen Benachteiligungen.
 
 (4) Die Antidiskriminierungsstelle des Bundes und die in ihrem Zuständigkeitsbereich betroffenen Beauftragten der Bundesregierung und des Deutschen Bundestages legen gemeinsam dem Deutschen Bundestag alle vier Jahre Berichte über Benachteiligungen aus den in § 1 genannten Gründen sowie über Benachteiligungen von Beschäftigten gemäß Absatz 1 Satz 2 vor und geben Empfehlungen zur Beseitigung und Vermeidung dieser Benachteiligungen. Sie können gemeinsam wissenschaftliche Untersuchungen zu Benachteiligungen durchführen.
 

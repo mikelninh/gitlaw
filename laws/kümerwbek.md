@@ -9,4 +9,4 @@ von Tankerunfällen in der Deutschen Bucht
 
 ### (XXXX)
 
-Der Beschluß der Bundesregierung über die "Erweiterung des Küstenmeeres der Bundesrepublik Deutschland in der Nordsee zur Verhinderung von Tankerunfällen in der Deutschen Bucht" wird hiermit bekanntgemacht: Dieser Beschluß tritt am 16. März 1985 in Kraft.Der Bundesminister des Innern
+Der Beschluß der Bundesregierung über die "Erweiterung des Küstenmeeres der Bundesrepublik Deutschland in der Nordsee zur Verhinderung von Tankerunfällen in der Deutschen Bucht" wird hiermit bekanntgemacht:

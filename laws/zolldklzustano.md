@@ -19,5 +19,3 @@ Die Bestimmungen über die Dienstkleidung der Beamtinnen und Beamten der Zollver
 Diese Anordnung tritt am 1. Januar 2016 in Kraft. Gleichzeitig tritt die Anordnung des Bundespräsidenten über den Erlass von Bestimmungen für die Dienstkleidung von Beamten der Bundeszollverwaltung vom 4. April 1957 (BGBl. I S. 369) außer Kraft.
 
 ### Schlussformel
-
-Der Bundespräsident

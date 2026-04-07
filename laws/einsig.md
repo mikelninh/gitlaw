@@ -18,23 +18,17 @@ Die CRR-Kreditinstitute im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetz
 
 (1) Einlagensicherungssysteme im Sinne dieses Gesetzes sind
 
-1.
+1. gesetzliche Entschädigungseinrichtungen nach § 22 Absatz 2 und
 
-2.
+2. institutsbezogene Sicherungssysteme, die nach § 43 als Einlagensicherungssystem anerkannt sind.
 
 (2) Ein institutsbezogenes Sicherungssystem im Sinne dieses Gesetzes ist eine Haftungsvereinbarung im Sinne des Artikels 113 Absatz 7 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1).
 
-(3) Einlagen im Sinne dieses Gesetzes sind Guthaben, einschließlich Festgeld und Spareinlagen, die Von Einlagen nach Satz 1 ausgenommen ist ein Guthaben, wenn Als Einlagen im Sinne dieses Gesetzes gelten auch Verbindlichkeiten aus Wertpapiergeschäften eines CRR-Kreditinstituts, das auch die Erlaubnis zum Betreiben von Bankgeschäften nach § 1 Absatz 1 Satz 2 Nummer 4 und 10 des Kreditwesengesetzes oder zur Erbringung von Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 1 bis 4 des Kreditwesengesetzes besitzt, sofern die Verbindlichkeiten des CRR-Kreditinstituts darin bestehen, den Kunden Besitz oder Eigentum an Geld zu verschaffen.
+(3) Einlagen im Sinne dieses Gesetzes sind Guthaben, einschließlich Festgeld und Spareinlagen, die
 
-1.
+1. sich aus Beträgen, die auf einem Konto verblieben sind, oder aus Zwischenpositionen im Rahmen von Bankgeschäften ergeben und
 
-2.
-
-1.
-
-2.
-
-3.
+2. vom CRR-Kreditinstitut nach den geltenden gesetzlichen und vertraglichen Bedingungen zurückzuzahlen sind.
 
 (4) Entschädigungsfähige Einlagen eines CRR-Kreditinstituts im Sinne dieses Gesetzes sind alle Einlagen mit Ausnahme der nicht entschädigungsfähigen Einlagen gemäß § 6.
 
@@ -68,27 +62,27 @@ Die CRR-Kreditinstitute im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetz
 
 Nicht nach § 5 werden folgende Einlagen entschädigt:
 
-1.
+1. Einlagen, die andere CRR-Kreditinstitute im eigenen Namen und auf eigene Rechnung getätigt haben,
 
-2.
+2. Eigenmittel im Sinne des Artikels 4 Absatz 1 Nummer 118 der Verordnung (EU) Nr. 575/2013,
 
-3.
+3. Einlagen, die entstanden sind im Zusammenhang mit Transaktionen, auf Grund derer Personen in einem Strafverfahren wegen Geldwäsche im Sinne des Artikels 1 Absatz 2 der Richtlinie 2005/60/EG des Europäischen Parlaments und des Rates vom 26. Oktober 2005 zur Verhinderung der Nutzung des Finanzsystems zum Zwecke der Geldwäsche und der Terrorismusfinanzierung (ABl. L 309 vom 25.11.2005, S. 15) verurteilt worden sind,
 
-4.
+4. Einlagen von Finanzinstituten im Sinne des Artikels 4 Absatz 1 Nummer 26 der Verordnung (EU) Nr. 575/2013,
 
-5.
+5. Einlagen von Wertpapierfirmen im Sinne des Artikels 4 Absatz 1 Nummer 1 der Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates vom 21. April 2004 über Märkte für Finanzinstrumente, zur Änderung der Richtlinien 85/611/EWG und 93/6/EWG des Rates und der Richtlinie 2000/12/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 93/22/EWG des Rates (ABl. L 145 vom 30.4.2004, S. 1),
 
-6.
+6. Einlagen, die nicht mehr verfügbar sind und bei denen die Identität ihres Inhabers niemals nach Artikel 9 Absatz 1 der Richtlinie 2005/60/EG festgestellt wurde,
 
-7.
+7. Einlagen von Versicherungsunternehmen und von Rückversicherungsunternehmen im Sinne des Artikels 13 Nummer 1 bis 6 der Richtlinie 2009/138/EG des Europäischen Parlaments und des Rates vom 25. November 2009 betreffend die Aufnahme und Ausübung der Versicherungs- und der Rückversicherungstätigkeit (Solvabilität II) (ABl. L 335 vom 17.12.2009, S. 1),
 
-8.
+8. Einlagen von Organismen für gemeinsame Anlagen im Sinne des Artikels 4 Absatz 1 Nummer 7 der Verordnung (EU) Nr. 575/2013,
 
-9.
+9. Einlagen von Pensions- und Rentenfonds, insbesondere von Einrichtungen der betrieblichen Altersversorgung im Sinne des Artikels 6 Buchstabe a der Richtlinie 2003/41/EG des Europäischen Parlaments und des Rates vom 3. Juni 2003 über die Tätigkeiten und die Beaufsichtigung von Einrichtungen der betrieblichen Altersversorgung (ABl. L 235 vom 23.9.2003, S. 10),
 
-10.
+10. Einlagen staatlicher Stellen, insbesondere staatlicher Stellen des Bundes, eines Landes, eines rechtlich unselbständigen Sondervermögens des Bundes oder eines Landes, einer kommunalen Gebietskörperschaft, eines anderen Staats oder einer Regionalregierung oder einer örtlichen Gebietskörperschaft eines anderen Staats,
 
-11.
+11. Schuldverschreibungen eines CRR-Kreditinstituts und Verbindlichkeiten aus eigenen Akzepten und Solawechseln außer Namensschuldscheine und Namensschuldverschreibungen, die Einlagen im Sinne des § 2 Absatz 3 sind.
 
 ### § 7 — Umfang und Berechnung des Entschädigungsanspruchs
 
@@ -112,55 +106,43 @@ Nicht nach § 5 werden folgende Einlagen entschädigt:
 
 ### § 8 — Deckungssumme
 
-(1) Der Entschädigungsanspruch ist der Höhe nach begrenzt auf den Gegenwert von 100 000 Euro (Deckungssumme).
+(1) Der Entschädigungsanspruch ist der Höhe nach begrenzt auf den Gegenwert von 100 000 Euro (Deckungssumme).
 
-(2) Abweichend von Absatz 1 beträgt die Deckungssumme den Gegenwert von bis zu 500 000 Euro, wenn und soweit
+(2) Abweichend von Absatz 1 beträgt die Deckungssumme den Gegenwert von bis zu 500 000 Euro, wenn und soweit
 
-1.
+1. die Gesamtforderung des Einlegers gegen das CRR-Kreditinstitut den in Absatz 1 genannten Betrag übersteigt durch die Gutschrift folgender nicht regelmäßig ausgezahlter Beträge: a)Beträge, die aus Immobilientransaktionen im Zusammenhang mit privat genutzten Wohnimmobilien resultieren,b)Beträge, die soziale, gesetzlich vorgesehene Zwecke erfüllen und an bestimmte Lebensereignisse eines Einlegers geknüpft sind, wie Heirat, Scheidung, Renteneintritt, Ruhestand, Kündigung, Entlassung, Geburt, Krankheit, Pflegebedürftigkeit, Invalidität, Behinderung oder Tod,c)Beträge, die bestimmte Zwecke erfüllen und auf der Auszahlung von Versicherungsleistungen oder Entschädigungszahlungen für aus Gewalttaten verursachte gesundheitliche Schädigungen oder für durch nicht zu Recht erlittene Strafverfolgungsmaßnahmen verursachte Schäden beruhen,d)Beträge aus Zahlungen nach dem Recht anderer Staaten, die den in den Buchstaben a bis c genannten Leistungen und Zahlungen vergleichbar sind, und Beträge, die aus Immobilientransaktionen im Zusammenhang mit privat genutzten Wohnimmobilien resultieren, Beträge, die soziale, gesetzlich vorgesehene Zwecke erfüllen und an bestimmte Lebensereignisse eines Einlegers geknüpft sind, wie Heirat, Scheidung, Renteneintritt, Ruhestand, Kündigung, Entlassung, Geburt, Krankheit, Pflegebedürftigkeit, Invalidität, Behinderung oder Tod, Beträge, die bestimmte Zwecke erfüllen und auf der Auszahlung von Versicherungsleistungen oder Entschädigungszahlungen für aus Gewalttaten verursachte gesundheitliche Schädigungen oder für durch nicht zu Recht erlittene Strafverfolgungsmaßnahmen verursachte Schäden beruhen, Beträge aus Zahlungen nach dem Recht anderer Staaten, die den in den Buchstaben a bis c genannten Leistungen und Zahlungen vergleichbar sind, und
 
-a)
-
-b)
-
-c)
-
-d)
-
-2.
-
-a)
-
-b)
+2. der Entschädigungsfall eingetreten ist a)in einem Zeitraum von bis zu sechs Monaten nach Gutschrift der Beträge nach Nummer 1, sofern diese Beträge ab Gutschrift auf rechtlich zulässige Weise übertragen werden können, oderb)in einem Zeitraum ab Gutschrift der Beträge nach Nummer 1 bis zu sechs Monaten nach dem Tag, ab dem diese Beträge nach ihrer Gutschrift erstmalig auf rechtlich zulässige Weise übertragen werden können. in einem Zeitraum von bis zu sechs Monaten nach Gutschrift der Beträge nach Nummer 1, sofern diese Beträge ab Gutschrift auf rechtlich zulässige Weise übertragen werden können, oder in einem Zeitraum ab Gutschrift der Beträge nach Nummer 1 bis zu sechs Monaten nach dem Tag, ab dem diese Beträge nach ihrer Gutschrift erstmalig auf rechtlich zulässige Weise übertragen werden können.
 
 (3) Beträge im Sinne des Absatzes 2 Nummer 1 Buchstabe b sind insbesondere:
 
-1.
+1. Leistungen auf Grund des Sozialgesetzbuches;
 
-2.
+2. Auszahlungen von Wertguthaben im Sinne des Vierten Buches Sozialgesetzbuch;
 
-3.
+3. Leistungen auf Grund des Beamtenversorgungsgesetzes, der entsprechenden Regelungen der Länder, des Soldatenversorgungsgesetzes, des Gesetzes über den Auswärtigen Dienst sowie auf Grund von beamtenrechtlichen Vorschriften bezüglich Beihilfe in Krankheits-, Pflege- und Geburtsfällen;
 
-4.
+4. Kapitalauszahlungen und Kapitalabfindungen aus betrieblicher Altersversorgung, aus nach § 10a oder Abschnitt XI des Einkommensteuergesetzes geförderter Altersvorsorge sowie von berufsständischen Versorgungswerken;
 
-5.
+5. Leistungen auf Grund von Sozialplänen im Sinne des § 112 des Betriebsverfassungsgesetzes, des § 32 Absatz 2 Satz 2 des Sprecherausschussgesetzes, auf Grund personalvertretungsrechtlicher Vorschriften oder kirchenrechtlicher Vorschriften nach dem Mitarbeitervertretungsgesetz der Evangelischen Kirche in Deutschland und der Mitarbeitervertretungsordnungen;
 
-6.
+6. Abfindungen auf Grund der §§ 1a, 9, 13, 14 des Kündigungsschutzgesetzes, des § 113 des Betriebsverfassungsgesetzes sowie Abfindungen für den Verlust des Arbeitsplatzes oder auf Grund eines Aufhebungsvertrages oder auf Grund von Tarifverträgen;
 
-7.
+7. schuldrechtliche Ausgleichszahlungen zur Durchführung des Versorgungsausgleichs gemäß § 22 des Versorgungsausgleichsgesetzes;
 
-8.
+8. Erstattungen eines Versicherungsunternehmens, die Gegenstand einer substitutiven Krankenversicherung im Sinne des § 12 des Versicherungsaufsichtsgesetzes sind;
 
-9.
+9. Leistungen auf Grund eines Vergleichs über die von den Nummern 1 bis 8 erfassten Leistungen.
 
 (4) Beträge im Sinne des Absatzes 2 Nummer 1 Buchstabe c sind insbesondere:
 
-1.
+1. Leistungen auf Grund von Ansprüchen nach den Vorschriften des 27. Titels des Achten Abschnitts des Zweiten Buchs des Bürgerlichen Gesetzbuchs;
 
-2.
+2. Leistungen nach dem Gesetz über die Entschädigung für Strafverfolgungsmaßnahmen;
 
-3.
+3. Leistungen nach dem Gesetz über die Entschädigung für Opfer von Gewalttaten;
 
-4.
+4. Leistungen nach Artikel 5 Absatz 5 der Konvention zum Schutze der Menschenrechte und Grundfreiheiten.
 
 (5) Ein die Deckungssumme nach Absatz 1 übersteigender Rechtsanspruch auf Entschädigung gemäß § 5 in Verbindung mit Absatz 2 ist vom Einleger gesondert schriftlich unter Nachweis der anspruchsbegründenden Tatsachen glaubhaft zu machen.
 
@@ -176,9 +158,9 @@ b)
 
 (1) Ein Entschädigungsfall im Sinne dieses Gesetzes tritt ein, wenn die Bundesanstalt feststellt, dass
 
-1.
+1. ein CRR-Kreditinstitut aus Gründen, die mit seiner Finanzlage unmittelbar zusammenhängen, vorerst nicht in der Lage ist, fällige Einlagen zurückzuzahlen, und
 
-2.
+2. gegenwärtig keine Aussicht besteht, dass das CRR-Kreditinstitut dazu zukünftig in der Lage sein wird.
 
 (2) Die Bundesanstalt hat den Entschädigungsfall unverzüglich festzustellen, spätestens jedoch innerhalb von fünf Arbeitstagen, nachdem sie davon Kenntnis erlangt hat, dass ein CRR-Kreditinstitut nicht in der Lage ist, fällige Einlagen zurückzuzahlen. Sie hat den Entschädigungsfall auch festzustellen, wenn sie gegenüber dem CRR-Kreditinstitut Maßnahmen nach § 46 Absatz 1 Satz 2 Nummer 4 bis 6 des Kreditwesengesetzes angeordnet hat und diese Maßnahmen länger als sechs Wochen andauern.
 
@@ -200,9 +182,9 @@ Das Einlagensicherungssystem hat die Einleger des CRR-Kreditinstituts unverzügl
 
 (1) Jeder Schriftwechsel zwischen dem Einlagensicherungssystem und dem Einleger ist in einer der folgenden Sprachen abzufassen:
 
-1.
+1. in der Amtssprache der Organe der Union, die das CRR-Kreditinstitut, das die gedeckte Einlage hält, in seinem Schriftverkehr mit dem Einleger verwendet, oder
 
-2.
+2. in der oder den Amtssprachen des Mitgliedstaats, in dem sich die gedeckte Einlage befindet.
 
 (2) Ist ein CRR-Kreditinstitut unmittelbar in einem anderen Mitgliedstaat tätig, ohne Zweigstellen errichtet zu haben, so ist die Sprache zu verwenden, die der Einleger bei Kontoeröffnung gewählt hat.
 
@@ -218,23 +200,23 @@ Das Einlagensicherungssystem hat die Einleger des CRR-Kreditinstituts unverzügl
 
 (1) Eine Entschädigung ist ausgeschlossen, wenn in den letzten 24 Monaten keine Transaktion in Verbindung mit der Einlage stattgefunden hat und der Wert dieser Einlage geringer ist als die Verwaltungskosten, die dem Einlagensicherungssystem bei einer Entschädigung durchschnittlich entstehen.
 
-(2) Die Erfüllung des Entschädigungsanspruchs kann abweichend von § 14 Absatz 3 aufgeschoben werden, wenn Der Entschädigungsanspruch ist im Fall von Satz 1 Nummer 4 innerhalb von drei Monaten nach der Feststellung des Entschädigungsfalls durch die Bundesanstalt, in den übrigen Fällen binnen angemessener Frist zu erfüllen.
+(2) Die Erfüllung des Entschädigungsanspruchs kann abweichend von § 14 Absatz 3 aufgeschoben werden, wenn
 
-1.
+1. der Anspruch des Einlegers auf Entschädigung streitig ist,
 
-2.
+2. in den letzten 24 Monaten keine Transaktionen in Verbindung mit der Einlage stattgefunden haben,
 
-3.
+3. der zu entschädigende Betrag Bestandteil einer vorübergehend höheren Deckungssumme gemäß § 8 Absatz 2 ist oder
 
-4.
+4. der Einleger nicht uneingeschränkt über die Einlage verfügen kann.
 
 (3) Die Erfüllung des Entschädigungsanspruchs kann ausgesetzt werden, wenn
 
-1.
+1. die Einlage Gegenstand einer Rechtsstreitigkeit ist, bis zur rechtskräftigen Entscheidung über die Rechtsstreitigkeit,
 
-2.
+2. die Einlage restriktiven Maßnahmen unterliegt, die von einer zuständigen deutschen Behörde oder der Europäischen Union oder von einem anderen Staat oder einer internationalen Organisation verhängt worden sind und die für die Bundesrepublik Deutschland rechtlich verbindlich sind, bis zur Aufhebung der betreffenden Maßnahmen,
 
-3.
+3. Tatsachen darauf hindeuten, dass der Entschädigungsanspruch sich auf Vermögenswerte bezieht, die im Zusammenhang mit Geldwäsche oder Terrorismusfinanzierung stehen und aus diesem Grund ein Ermittlungsverfahren gegen Personen eingeleitet worden ist, bis zur Beendigung dieses Verfahrens.
 
 ### § 16 — Forderungsübergang bei Entschädigung
 
@@ -260,15 +242,9 @@ Soweit das Einlagensicherungssystem den Entschädigungsanspruch eines Berechtigt
 
 (2) Als verfügbare Finanzmittel können abweichend von Absatz 1 auch Zahlungsverpflichtungen eines CRR-Kreditinstituts gegenüber einem Einlagensicherungssystem berücksichtigt werden, wenn
 
-1.
+1. diese Zahlungsverpflichtungen vollständig besichert sind und
 
-2.
-
-a)
-
-b)
-
-c)
+2. die Sicherheiten für diese Zahlungsverpflichtungen a)für das Einlagensicherungssystem verfügbar sind,b)aus risikoarmen Schuldtiteln bestehen undc)nicht mit Rechten Dritter belastet sind. für das Einlagensicherungssystem verfügbar sind, aus risikoarmen Schuldtiteln bestehen und nicht mit Rechten Dritter belastet sind.
 
 (3) Der Gesamtanteil der Zahlungsverpflichtungen nach Absatz 2 an den verfügbaren Finanzmitteln ist im Hinblick auf die Anerkennung der Zielausstattung auf höchstens 30 Prozent der verfügbaren Finanzmittel des jeweiligen Einlagensicherungssystems begrenzt.
 
@@ -290,9 +266,9 @@ c)
 
 (1) Die verfügbaren Finanzmittel der Einlagensicherungssysteme sind für folgende Zwecke zu verwenden:
 
-1.
+1. zur Entschädigung der Einleger und zur Finanzierung der Entschädigung der Einleger nach Maßgabe dieses Gesetzes,
 
-2.
+2. für Ausgleichsbeiträge gemäß § 145 des Sanierungs- und Abwicklungsgesetzes im Rahmen einer Abwicklung von CRR-Kreditinstituten.
 
 (2) Anerkannte institutsbezogene Sicherungssysteme können ihre verfügbaren Finanzmittel auch für Maßnahmen nach Maßgabe des § 49 verwenden.
 
@@ -304,15 +280,15 @@ c)
 
 (3) Die Einlagensicherungssysteme gewährleisten die Vertraulichkeit und den Schutz der mit den Konten der Einleger zusammenhängenden Daten. Für die Verarbeitung solcher Daten gelten die allgemeinen datenschutzrechtlichen Vorschriften.
 
-(4) Die Einlagensicherungssysteme sind befugt, personenbezogene Daten zu verarbeiten, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist. Verarbeiten die Einlagensicherungssysteme personenbezogene Daten im Zuge einer Maßnahme zur Durchführung ihrer Aufgaben nach diesem Gesetz, stehen den betroffenen Personen die Rechte aus den Artikeln 15 bis 18 und 20 bis 22 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung nicht zu, soweit die Erfüllung der Rechte der betroffenen Personen Folgendes gefährden würde: Unter diesen Voraussetzungen sind die Einlagensicherungssysteme auch von den Pflichten nach den Artikeln 5, 12 bis 14, 19 und 34 der Verordnung (EU) 2016/679 befreit.
+(4) Die Einlagensicherungssysteme sind befugt, personenbezogene Daten zu verarbeiten, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist. Verarbeiten die Einlagensicherungssysteme personenbezogene Daten im Zuge einer Maßnahme zur Durchführung ihrer Aufgaben nach diesem Gesetz, stehen den betroffenen Personen die Rechte aus den Artikeln 15 bis 18 und 20 bis 22 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung nicht zu, soweit die Erfüllung der Rechte der betroffenen Personen Folgendes gefährden würde:
 
-1.
+1. die Stabilität und Integrität der Finanzmärkte der Bundesrepublik Deutschland oder eines oder mehrerer Mitgliedstaaten des Europäischen Wirtschaftsraums,
 
-2.
+2. den Zweck der Maßnahme,
 
-3.
+3. ein sonstiges wichtiges Ziel des allgemeinen öffentlichen Interesses der Bundesrepublik Deutschland oder eines oder mehrerer Mitgliedstaaten des Europäischen Wirtschaftsraums, insbesondere ein wichtiges wirtschaftliches oder finanzielles Interesse, oder
 
-4.
+4. die Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder die Strafvollstreckung, einschließlich des Schutzes vor und der Abwehr von Gefahren für die öffentliche Sicherheit.
 
 (5) Die jeweils betroffene Person ist über das Ende der Beschränkung in geeigneter Form zu unterrichten, sofern dies nicht dem Zweck der Beschränkung abträglich ist.
 
@@ -328,9 +304,9 @@ c)
 
 (2) Gesetzliche Entschädigungseinrichtungen sind
 
-1.
+1. juristische Personen des Privatrechts, denen die Aufgaben und Befugnisse einer gesetzlichen Entschädigungseinrichtung nach diesem Gesetz durch Rechtsverordnung nach § 23 Absatz 1 zugewiesen sind (beliehene Entschädigungseinrichtungen),
 
-2.
+2. Entschädigungseinrichtungen, die durch Rechtsverordnung nach § 23 Absatz 2 bei der Kreditanstalt für Wiederaufbau errichtet werden.
 
 (3) Über den Widerspruch gegen Verwaltungsakte der gesetzlichen Entschädigungseinrichtungen entscheidet die Bundesanstalt.
 
@@ -338,11 +314,11 @@ c)
 
 ### § 23 — Verordnungsermächtigung
 
-(1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, einer juristischen Person des Privatrechts die Aufgaben und Befugnisse einer gesetzlichen Entschädigungseinrichtung zuzuweisen (Beleihung), wenn diese juristische Person bereit ist, die Aufgaben der Entschädigungseinrichtung zu übernehmen, und hinreichende Gewähr für die Erfüllung der Ansprüche der Entschädigungsberechtigten bietet. Eine juristische Person bietet hinreichende Gewähr, wenn Durch die Rechtsverordnung nach Satz 1 kann sich das Bundesministerium der Finanzen die Genehmigung der Satzung und von Änderungen der Satzung der juristischen Person vorbehalten und nähere Bestimmungen über die Auflösung und Abwicklung der Entschädigungseinrichtung erlassen.
+(1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, einer juristischen Person des Privatrechts die Aufgaben und Befugnisse einer gesetzlichen Entschädigungseinrichtung zuzuweisen (Beleihung), wenn diese juristische Person bereit ist, die Aufgaben der Entschädigungseinrichtung zu übernehmen, und hinreichende Gewähr für die Erfüllung der Ansprüche der Entschädigungsberechtigten bietet. Eine juristische Person bietet hinreichende Gewähr, wenn
 
-1.
+1. die Personen, die nach Gesetz oder Satzung die Geschäftsführung und Vertretung der juristischen Person ausüben, zuverlässig und geeignet sind und
 
-2.
+2. sie über die zur Erfüllung ihrer Aufgaben notwendige Ausstattung und Organisation, insbesondere für die Beitragserhebung, die Verwaltung der Mittel und die Auszahlung der Entschädigungen, verfügt und dafür eigene Mittel im Gegenwert von mindestens einer Million Euro vorhält.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, gesetzliche Entschädigungseinrichtungen bei der Kreditanstalt für Wiederaufbau zu errichten und nähere Bestimmungen zur Verwaltung der gesetzlichen Entschädigungseinrichtungen und zur angemessenen Vergütung der Verwaltung zu erlassen, wenn gesetzliche Entschädigungseinrichtungen nach § 22 Absatz 2 Nummer 1 nicht zur Verfügung stehen, insbesondere wenn eine solche Entschädigungseinrichtung aufgelöst oder abgewickelt wird.
 
@@ -350,9 +326,9 @@ c)
 
 (1) Den gesetzlichen Entschädigungseinrichtungen wird jeweils eine der folgenden Institutsgruppen zugeordnet:
 
-1.
+1. Institutsgruppe der privatrechtlichen CRR-Kreditinstitute oder
 
-2.
+2. Institutsgruppe der öffentlich-rechtlichen CRR-Kreditinstitute.
 
 (2) Besteht nur eine gesetzliche Entschädigungseinrichtung, so sind die CRR-Kreditinstitute dieser Entschädigungseinrichtung zugeordnet.
 
@@ -360,17 +336,17 @@ c)
 
 (4) Die Bundesanstalt kann ein CRR-Kreditinstitut auf Antrag einer anderen gesetzlichen Entschädigungseinrichtung zuordnen, wenn
 
-1.
+1. das CRR-Kreditinstitut ein berechtigtes Interesse an der beantragten Zuordnung darlegt,
 
-2.
+2. die Erfüllung der Aufgabe der Entschädigungseinrichtung, der das CRR-Kreditinstitut angehört, nicht gefährdet wird und
 
-3.
+3. die andere Entschädigungseinrichtung der beantragten Zuordnung zustimmt.
 
 (5) Die Bundesanstalt kann CRR-Kreditinstitute auch dann einer anderen gesetzlichen Entschädigungseinrichtung zuordnen, wenn alle CRR-Kreditinstitute, die einer Entschädigungseinrichtung angehören,
 
-1.
+1. die Zuordnung zu einer anderen Entschädigungseinrichtung beantragt haben und
 
-2.
+2. die andere Entschädigungseinrichtung der beantragten Zuordnung zustimmt.
 
 (6) Ein Antrag nach Absatz 2 oder Absatz 3 ist mindestens sechs Monate vor dem beabsichtigten Wechsel der Entschädigungseinrichtung zu stellen.
 
@@ -390,9 +366,9 @@ c)
 
 (1) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
-1.
+1. die Beleihung einer Entschädigungseinrichtung nach § 23 Absatz 1 Satz 1 aufheben oder
 
-2.
+2. die Errichtung einer Entschädigungseinrichtung bei der Kreditanstalt für Wiederaufbau nach § 23 Absatz 2 rückgängig machen.
 
 (2) In der Verordnung nach Absatz 1 legt das Bundesministerium der Finanzen fest, welche gesetzliche Entschädigungseinrichtung (nachfolgende Entschädigungseinrichtung) derjenigen gesetzlichen Entschädigungseinrichtung nach den Vorgaben der Absätze 3 bis 7 nachfolgt, deren Beleihung aufgehoben oder deren Errichtung rückgängig gemacht wird (ehemalige Entschädigungseinrichtung). Die betroffenen Entschädigungseinrichtungen sind vor Erlass der Verordnung nach Absatz 1 anzuhören.
 
@@ -418,9 +394,9 @@ c)
 
 (1) Reichen die verfügbaren Finanzmittel einer gesetzlichen Entschädigungseinrichtung nicht aus, um die Einleger eines der Entschädigungseinrichtung zugeordneten CRR-Kreditinstituts im Entschädigungsfall zu entschädigen, sind die dieser gesetzlichen Entschädigungseinrichtung zugeordneten CRR-Kreditinstitute verpflichtet,
 
-1.
+1. Sonderbeiträge als Vorausleistung zur Deckung des Mittelbedarfs in einem Entschädigungsfall gemäß § 29 zu leisten oder
 
-2.
+2. Sonderzahlungen zur Rückführung von Krediten zur Deckung des Mittelbedarfs in einem Entschädigungsfall gemäß § 30 zu leisten.
 
 (2) Die Pflicht zur Leistung von Sonderbeiträgen und Sonderzahlungen besteht nur für CRR-Kreditinstitute, die der gesetzlichen Entschädigungseinrichtung bereits zu Beginn des Abrechnungsjahres, in dem ein Sonderbeitrag oder eine Sonderzahlung erhoben wird, zugeordnet waren und zum Zeitpunkt der Feststellung des Entschädigungsfalls der gesetzlichen Entschädigungseinrichtung noch angehörten.
 
@@ -440,11 +416,11 @@ c)
 
 (3) Die Gesamtentschädigung ist von der Entschädigungseinrichtung anhand der Unterlagen zu bestimmen, die von den CRR-Kreditinstituten nach § 14 Absatz 2 zu übermitteln sind. Lässt sich die Gesamtentschädigung anhand dieser Unterlagen nicht hinreichend bestimmen, hat die Entschädigungseinrichtung die Gesamtentschädigung insbesondere auf Grund folgender Daten zu schätzen:
 
-1.
+1. der ihr vorliegenden Daten über den Entschädigungsfall,
 
-2.
+2. der durchschnittlichen Entschädigungsleistung und
 
-3.
+3. der Kosten aus den bisherigen Entschädigungsfällen bei den ihr zugeordneten CRR-Kreditinstituten.
 
 > (+++ §§ 27 bis 32: Zur Anwendung vgl. § 32a +++)
 
@@ -492,19 +468,19 @@ Die §§ 27 bis 32 sind im Falle der Inanspruchnahme einer gesetzlichen Entschä
 
 ### § 33 — Verordnungsermächtigung
 
-(1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu treffen über Vor Erlass der Rechtsverordnung sind die gesetzlichen Entschädigungseinrichtungen zu hören.
+(1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu treffen über
 
-1.
+1. die Methoden der Beitragsbemessung nach Maßgabe des § 19 Absatz 2 bis 4,
 
-2.
+2. die Berechnung und Erhebung der Jahresbeiträge, einschließlich der Deckung der Verwaltungskosten und sonstigen Kosten und der Erhebung von Mindestbeiträgen nach Maßgabe des § 26 Absatz 1 Satz 3 und 4, der einmaligen Zahlungen, der Sonderbeiträge und der Sonderzahlungen,
 
-3.
+3. die Erhebung von Verzugszinsen für verspätet geleistete Beiträge,
 
-4.
+4. die Modalitäten der Kreditaufnahme,
 
-5.
+5. die Anforderungen an die Anlage der verfügbaren Finanzmittel,
 
-6.
+6. die Voraussetzungen für die Berücksichtigung von Zahlungsverpflichtungen nach § 18 Absatz 2 und 3 als verfügbare Finanzmittel.
 
 (2) Die Europäische Bankenaufsichtsbehörde wird über den Inhalt der Rechtsverordnung unterrichtet.
 
@@ -578,7 +554,7 @@ Erhält die gesetzliche Entschädigungseinrichtung im Rahmen einer Prüfung nach
 
 (1) Die Befolgung der Verfügungen, die die gesetzliche Entschädigungseinrichtung innerhalb ihrer gesetzlichen Befugnisse trifft, ist mit Zwangsmitteln nach den Bestimmungen des Verwaltungsvollstreckungsgesetzes durchzusetzen.
 
-(2) Das Zwangsgeld beträgt bei Maßnahmen gemäß § 26 Absatz 1 Satz 1, § 34 Satz 1 und 2, § 35 Absatz 2, § 36 Absatz 3 Satz 1 und Absatz 4 Satz 1 und 2 bis zu 50 000 Euro, bei Maßnahmen nach § 35 Absatz 1 Satz 1 bis zu 100 000 Euro.
+(2) Das Zwangsgeld beträgt bei Maßnahmen gemäß § 26 Absatz 1 Satz 1, § 34 Satz 1 und 2, § 35 Absatz 2, § 36 Absatz 3 Satz 1 und Absatz 4 Satz 1 und 2 bis zu 50 000 Euro, bei Maßnahmen nach § 35 Absatz 1 Satz 1 bis zu 100 000 Euro.
 
 ## Abschnitt 1: Anerkennung institutsbezogener Sicherungssysteme und laufende Pflichten
 
@@ -586,65 +562,65 @@ Erhält die gesetzliche Entschädigungseinrichtung im Rahmen einer Prüfung nach
 
 (1) Ein institutsbezogenes Sicherungssystem kann auf Antrag von der Bundesanstalt als Einlagensicherungssystem anerkannt werden, wenn das System
 
-1.
+1. die Entschädigung der Einleger der dem System angehörenden CRR-Kreditinstitute nach Maßgabe der §§ 5 bis 16 übernimmt,
 
-2.
+2. die Voraussetzungen des Artikels 113 Absatz 7 der Verordnung (EU) Nr. 575/2013 erfüllt und
 
-3.
+3. hinreichende Gewähr für die ordnungsgemäße Erfüllung seiner Aufgaben nach diesem Gesetz bietet.
 
 (2) Ein institutsbezogenes Sicherungssystem bietet hinreichende Gewähr für die ordnungsgemäße Erfüllung seiner Aufgaben nach diesem Gesetz, wenn
 
-1.
+1. das System über mindestens zwei Personen verfügt, die nach Gesetz oder Satzung die Geschäftsführung und Vertretung des Systems ausüben und zuverlässig und fachlich geeignet sind,
 
-2.
+2. die Geschäftsführung des Systems von einem Kontrollorgan überwacht wird und die Mitglieder dieses Kontrollorgans entsprechend § 25d Absatz 1 des Kreditwesengesetzes zuverlässig sind und über die erforderliche Sachkunde zur Wahrnehmung ihrer Kontrollfunktion verfügen,
 
-3.
+3. das System über die zur Erfüllung der Aufgaben eines Einlagensicherungssystems nach diesem Gesetz notwendige sachliche und personelle Ausstattung sowie über eine Organisation und Entscheidungsstruktur verfügt, die insbesondere die Entschädigung der Einleger sowie die Beitragserhebung und Verwaltung der Mittel sicherstellen,
 
-4.
+4. die verfügbaren Finanzmittel nach § 18 getrennt vom sonstigen Vermögen des Systems verwaltet und angelegt werden und
 
-5.
+5. die Satzung des institutsbezogenen Sicherungssystems den Mindestanforderungen des § 47 Absatz 1 und 2 entspricht.
 
 ### § 44 — Anerkennungsantrag
 
 (1) Der Anerkennungsantrag muss insbesondere folgende Unterlagen und Angaben enthalten:
 
-1.
+1. einen Ansparplan nach Maßgabe von Absatz 2;
 
-2.
+2. das Statut oder die Satzung sowie die vertraglichen Grundlagen des institutsbezogenen Sicherungssystems;
 
-3.
+3. die Namen der Personen nach § 43 Absatz 2 Nummer 1 und der Mitglieder des Kontrollorgans nach § 43 Absatz 2 Nummer 2 sowie Angaben zu den Tatsachen, die für die Beurteilung der Zuverlässigkeit und fachlichen Eignung erforderlich sind;
 
-4.
+4. die Leitlinien und Rechtsgrundlagen für die Prüfung der dem institutsbezogenen Sicherungssystem angehörenden CRR-Kreditinstitute im Hinblick auf entschädigungsrelevante Risiken;
 
-5.
+5. einen Organisationsplan, aus dem sich die Entscheidungsstruktur des institutsbezogenen Sicherungssystems ergibt;
 
-6.
+6. Angaben zu den Pflichten der dem institutsbezogenen Sicherungssystem angehörenden CRR-Kreditinstitute gegenüber dem institutsbezogenen Sicherungssystem, insbesondere zu den Pflichten zur Einreichung des festgestellten Jahresabschlusses mit dem dazugehörenden Prüfungsbericht sowie den Informations- und Auskunftspflichten entsprechend § 34 Absatz 1.
 
-(2) Ein Ansparplan hat folgende Angaben zu enthalten: Der Ansparplan hat zudem Schätzungen zu enthalten, wie sich Maßnahmen nach § 49 in der Zukunft auf die Länge der Ansparphase auswirken können, und die Auswirkungen zu berücksichtigen. Soweit die Zielausstattung durch Zahlungsverpflichtungen gemäß § 18 Absatz 2 erreicht werden soll, sind Angaben zur Einhaltung der Voraussetzungen des § 18 Absatz 2 zu machen.
+(2) Ein Ansparplan hat folgende Angaben zu enthalten:
 
-1.
+1. Angaben zur aktuellen finanziellen Ausstattung des Systems und der voraussichtlichen Entwicklung der finanziellen Ausstattung;
 
-2.
+2. Angaben zu den Einzelheiten der Erhebung von Jahres- und Sonderbeiträgen bei den dem institutsbezogenen Sicherungssystem angehörenden CRR-Kreditinstituten;
 
-3.
+3. Angaben zur risikoorientierten Beitragserhebung nach § 19 und
 
-4.
+4. Angaben zu den bei dem institutsbezogenen Sicherungssystem angehörenden CRR-Kreditinstituten vorhandenen gedeckten Einlagen.
 
 ### § 45 — Anzeigepflichten
 
 (1) Die anerkannten institutsbezogenen Sicherungssysteme haben der Bundesanstalt unverzüglich anzuzeigen:
 
-1.
+1. ein Beschluss über die Änderung ihrer Satzung;
 
-2.
+2. die Bestellung einer Person nach § 43 Absatz 2 Nummer 1 unter Angabe der Tatsachen, die für die Beurteilung ihrer Zuverlässigkeit und fachlichen Eignung für die Wahrnehmung der jeweiligen Aufgaben wesentlich sind;
 
-3.
+3. das Ausscheiden einer Person nach § 43 Absatz 2 Nummer 1;
 
-4.
+4. die Bestellung eines Mitglieds des Kontrollorgans nach § 43 Absatz 2 Nummer 2 unter Angabe der Tatsachen, die für die Beurteilung seiner Zuverlässigkeit und Sachkunde notwendig sind;
 
-5.
+5. das Ausscheiden eines Mitglieds des Kontrollorgans nach § 43 Absatz 2 Nummer 2;
 
-6.
+6. die Absicht der Organe des Systems, eine Entscheidung über die Aufgabe der Anerkennung nach § 43 oder die Auflösung des institutsbezogenen Sicherungssystems herbeizuführen.
 
 (2) Der Ansparplan nach § 44 Absatz 2 ist jährlich zu aktualisieren und der Bundesanstalt zum 10. Februar jeden Jahres vorzulegen.
 
@@ -664,19 +640,19 @@ Erhält die gesetzliche Entschädigungseinrichtung im Rahmen einer Prüfung nach
 
 (1) Die Satzung eines anerkannten institutsbezogenen Sicherungssystems muss mindestens Folgendes regeln:
 
-1.
+1. die Beitragserhebung nach Maßgabe von § 48;
 
-2.
+2. Bedingungen zur Durchführung von Maßnahmen nach Maßgabe von § 49;
 
-3.
+3. Prüfungs-, Informations- und Auskunftsrechte gegenüber den dem anerkannten institutsbezogenen Sicherungssystem angehörenden CRR-Kreditinstituten entsprechend den §§ 34 und 35 sowie Regelungen zu geeigneten Maßnahmen, mit denen diese Rechte durchgesetzt werden können;
 
-4.
+4. Voraussetzung und Umfang der Weitergabe von eigenen und fremden Geheimnissen, insbesondere von Betriebs- und Geschäftsgeheimnissen des Systems und der ihm angehörenden CRR-Kreditinstitute, an die Bundesanstalt entsprechend den Regelungen für ein Einlagensicherungssystem nach diesem Gesetz oder dem Kreditwesengesetz;
 
-5.
+5. Regelungen zur Ermächtigung des anerkannten institutsbezogenen Sicherungssystems zur Kreditaufnahme;
 
-6.
+6. für den Fall des Widerrufs Vorschriften zu einer Übertragung des Vermögens gemäß § 46 Absatz 3 auf ein anderes von der Bundesanstalt zu benennendes Einlagensicherungssystem;
 
-7.
+7. Regelungen zum Ausschluss von CRR-Kreditinstituten aus dem System entsprechend § 41, wobei § 41 Absatz 2 mit der Maßgabe umzusetzen ist, dass Maßnahmen gegenüber dem CRR-Kreditinstitut von dem anerkannten institutsbezogenen Sicherungssystem mit Zustimmung der Bundesanstalt vorgenommen werden.
 
 (2) Eine Änderung der Satzung eines anerkannten institutsbezogenen Sicherungssystems wird erst drei Monate nach der Anzeige gemäß § 45 Absatz 1 wirksam, wenn die Bundesanstalt nicht vorher die Unbedenklichkeit feststellt.
 
@@ -690,15 +666,15 @@ Erhält die gesetzliche Entschädigungseinrichtung im Rahmen einer Prüfung nach
 
 (2) In der Satzung ist mindestens vorzusehen, dass
 
-1.
+1. die zur Erreichung der Zielausstattung nach § 17 Absatz 2 notwendigen Finanzmittel mindestens einmal jährlich durch Beiträge an das Sicherungssystem aufgebracht werden;
 
-2.
+2. Sonderbeiträge für den Fall zu erheben sind, dass die verfügbaren Finanzmittel nicht ausreichen, um im Entschädigungsfall die Einleger zu entschädigen oder im Abwicklungsfall die Pflichten aus der Haftung nach § 145 des Sanierungs- und Abwicklungsgesetzes zu erfüllen;
 
-3.
+3. in einem Beitragsjahr mehrere Sonderbeiträge und Sonderzahlungen nur unter den Voraussetzungen des § 27 Absatz 4 Satz 2 und 3 erhoben werden dürfen;
 
-4.
+4. die Erhebung eines Sonderbeitrags oder einer Sonderzahlung entsprechend § 27 Absatz 5 zurückgestellt werden kann, wenn die Gefahr besteht, dass ein CRR-Kreditinstitut auf Grund der Gesamtheit der an das anerkannte institutsbezogene Sicherungssystem zu leistenden Zahlungen seine Verpflichtungen gegenüber seinen Gläubigern nicht mehr erfüllen kann;
 
-5.
+5. die dem System angehörenden CRR-Kreditinstitute verpflichtet werden, ihre Beiträge auf erstes Anfordern hin zu leisten und eine entsprechende Garantieerklärung abzugeben.
 
 (3) In der Satzung kann die Erhebung von Mindestbeiträgen von den CRR-Kreditinstituten vorgesehen werden. Das Nähere über die Bemessung und Erhebung der Jahresbeiträge und Sonderbeiträge regelt das anerkannte institutsbezogene Sicherungssystem in seiner Satzung. Werden nach § 18 Absatz 2 und 3 Zahlungsverpflichtungen eines CRR-Kreditinstituts gegenüber dem institutsbezogenen Sicherungssystem berücksichtigt, sind die Anforderungen an diese Zahlungsverpflichtungen in der Satzung zu regeln.
 
@@ -708,27 +684,27 @@ Erhält die gesetzliche Entschädigungseinrichtung im Rahmen einer Prüfung nach
 
 ### § 49 — Stützungsmaßnahmen anerkannter institutsbezogener Sicherungssysteme
 
-(1) Ein anerkanntes institutsbezogenes Sicherungssystem ist, um die Bestandsgefährdung eines ihm angehörenden CRR-Kreditinstituts zu verhindern, berechtigt, Maßnahmen zur Abwendung einer Bestandsgefährdung, insbesondere zur Sicherstellung der Liquidität und Solvenz dieses CRR-Kreditinstituts durchzuführen, sofern Das Nähere regelt das System in seiner Satzung. Es setzt sich mit der Bundesanstalt über die Maßnahmen und die Auflagen für das CRR-Kreditinstitut ins Benehmen.
+(1) Ein anerkanntes institutsbezogenes Sicherungssystem ist, um die Bestandsgefährdung eines ihm angehörenden CRR-Kreditinstituts zu verhindern, berechtigt, Maßnahmen zur Abwendung einer Bestandsgefährdung, insbesondere zur Sicherstellung der Liquidität und Solvenz dieses CRR-Kreditinstituts durchzuführen, sofern
 
-1.
+1. das Sicherungssystem über geeignete Mechanismen und Verfahren für die Auswahl und Durchführung solcher Maßnahmen und für die Überwachung der damit verbundenen Risiken verfügt,
 
-2.
+2. die Abwicklungsanstalt keine Abwicklungsmaßnahme gemäß § 62 des Sanierungs- und Abwicklungsgesetzes getroffen hat,
 
-3.
+3. die Kosten dieser Maßnahme nicht die notwendigen Kosten zur Erfüllung der Aufgaben des institutsbezogenen Sicherungssystems übersteigen,
 
-4.
+4. diese Maßnahme mit Auflagen gegenüber dem gestützten CRR-Kreditinstitut verbunden ist, die im Vergleich zu den bestehenden Bestimmungen mindestens eine strengere Risikoüberwachung und weitergehende Prüfungsrechte für das anerkannte institutsbezogene Sicherungssystem umfassen,
 
-5.
+5. diese Maßnahme mit der Zusage seitens des gestützten CRR-Kreditinstituts im Hinblick auf die Gewährleistung des Zugangs des Einlegers zu gedeckten Einlagen verbunden ist und
 
-6.
+6. die Bundesanstalt auf Grund einer Bewertung bestätigt, dass die dem institutsbezogenen Sicherungssystem angehörenden CRR-Kreditinstitute in der Lage sind, die nach Absatz 3 zu erhebenden Sonderbeiträge zu zahlen.
 
 (2) Wenn die Bundesanstalt nach Abstimmung mit der Abwicklungsbehörde feststellt, dass die Voraussetzungen für eine Abwicklungsmaßnahme gemäß § 62 des Sanierungs- und Abwicklungsgesetzes erfüllt sind, werden die in Absatz 1 genannten Maßnahmen nicht durchgeführt.
 
 (3) Verwendet das anerkannte institutsbezogene Sicherungssystem die verfügbaren Finanzmittel für Maßnahmen nach Absatz 1, hat es sicherzustellen, dass die ihm angehörenden CRR-Kreditinstitute, erforderlichenfalls durch Sonderbeiträge, die Mittel, die für die Maßnahmen verwendet wurden, unverzüglich wieder zur Verfügung stellen, falls
 
-1.
+1. Einleger entschädigt werden müssen und die verfügbaren Finanzmittel weniger als zwei Drittel der Zielausstattung nach § 17 Absatz 2 betragen oder
 
-2.
+2. die verfügbaren Finanzmittel 25 Prozent der Zielausstattung nach § 17 Absatz 2 unterschreiten.
 
 > (+++ § 49 Abs. 3: Zur Anwendung vgl. § 63 Abs. 2 +++)
 
@@ -754,13 +730,13 @@ Erhält die Bundesanstalt von einem Einlagensicherungssystem Kenntnis von Umstä
 
 (2) Der Geschäftsbericht muss folgende Angaben enthalten:
 
-1.
+1. Angaben zur Tätigkeit und zu den finanziellen Verhältnissen des Einlagensicherungssystems, insbesondere zur Höhe und Anlage der verfügbaren Finanzmittel sowie zu deren Verwendung für Entschädigungsfälle,
 
-2.
+2. Angaben zur Höhe der Beiträge,
 
-3.
+3. Angaben zu den Kosten der Verwaltung sowie
 
-4.
+4. eine Aktualisierung des Ansparplans gemäß § 45 Absatz 2.
 
 ### § 53 — Prüfungsbericht
 
@@ -822,9 +798,9 @@ Wenn ein Teil der Tätigkeiten eines CRR-Kreditinstituts auf ein anderes CRR-Kre
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 34 Absatz 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt oder eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt oder
 
-2.
+2. entgegen § 41 Absatz 4 eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gibt.
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu hunderttausend Euro geahndet werden.
 

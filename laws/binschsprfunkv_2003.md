@@ -10,9 +10,9 @@
 
 Das Bundesministerium für Verkehr, Bau- und Wohnungswesen verordnet auf Grund
 
--
+- des § 3 Abs. 1 Nr. 4 und 6 und Abs. 4 auch in Verbindung mit Abs. 6 des Binnenschifffahrtsaufgabengesetzes in der Fassung der Bekanntmachung vom 5. Juli 2001 (BGBl. I S. 2026),
 
--
+- des § 4 Abs. 2 des Binnenschifffahrtsaufgabengesetzes in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) im Einvernehmen mit dem Bundesministerium der Finanzen:
 
 ## 1. Abschnitt: Gemeinsame
 Vorschriften
@@ -21,39 +21,29 @@ Vorschriften
 
 Diese Verordnung regelt
 
-1.
+1. den mobilen UKW-Sprechfunkdienst bei Schiffsfunkstellen auf Wasserstraßen der Zonen 1 bis 4;
 
-2.
+2. den Erwerb eines UKW-Sprechfunkzeugnisses für den Binnenschifffahrtsfunk (UKW-Sprechfunkzeugnis (UBI)).
 
 ### § 2 — Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind
 
-1.
+1. Wasserstraßen der Zonen 1 bis 4: die Bundeswasserstraßen nach dem Anhang I der Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden und anzuwendenden Fassung;
 
-2.
+2. Fahrzeuge: Binnenschiffe einschließlich Kleinfahrzeuge und Fähren sowie schwimmende Geräte, Schwimmkörper und Seeschiffe;
 
-3.
+3. Binnenschifffahrtsfunk: Internationaler mobiler UKW-Sprechfunkdienst zwischen Landfunkstellen und Schiffsfunkstellen oder zwischen Schiffsfunkstellen auf Binnenschifffahrtsstraßen, der folgende Verkehrskreise umfasst:a)Schiff - Schiff,b)Nautische Information,c)Schiff - Hafenbehörde,d)Funkverkehr an Bord,e)Öffentlicher Nachrichtenaustausch; Schiff - Schiff, Nautische Information, Schiff - Hafenbehörde, Funkverkehr an Bord, Öffentlicher Nachrichtenaustausch;
 
-a)
+4. Funkanlage: Schiffsfunkstelle an Bord eines Fahrzeuges; sie kann aus mehreren Funkgeräten bestehen;
 
-b)
+5. Regionale Vereinbarung: die Regionale Vereinbarung über den Binnenschifffahrtsfunk vom 6. April 2000 (BGBl. II S. 1213);
 
-c)
+6. Handbuch Binnenschifffahrtsfunk: das von der Zentralkommission für die Rheinschifffahrt in Straßburg und von der Donaukommission in Budapest gemeinsam nach der Entschließung Nr. 1 der Regionalen Vereinbarung herausgegebene und dort niedergelegte Handbuch Binnenschifffahrtsfunk einschließlich der Regionalen Teile in der vom Bundesministerium für Verkehr und digitale Infrastruktur jeweils bekannt gemachten aktuellen Fassung;
 
-d)
+7. Landfunkstelle: ortsfeste Funkstelle des Binnenschifffahrtsfunks;
 
-e)
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
+8. Schiffsfunkstelle: mobile Funkstelle des Binnenschifffahrtsfunks, die sich an Bord eines Fahrzeuges befindet, das nicht ständig festgemacht ist.
 
 ## 2. Abschnitt: Betriebsvorschriften
 
@@ -63,23 +53,19 @@ e)
 
 (2) Die UKW-Kanäle der Verkehrskreise Schiff - Schiff, Schiff - Hafenbehörde und Funkverkehr an Bord dürfen nur benutzt werden, wenn dabei die Ausgangsleistung des Senders automatisch auf einen Wert zwischen 0,5 Watt und 1 Watt begrenzt wird. In den UKW-Kanälen im Verkehrskreis Nautische Information muss die Ausgangsleistung auf einen Wert zwischen 6 Watt und 25 Watt eingestellt sein.
 
-(3) Alle festen und tragbaren Funkanlagen müssen über ein Automatisches Senderidentifizierungssystem in der Binnenschifffahrt (Automatic Transmitter Identification System (ATIS)) verfügen.
-
 ### § 4 — Erlaubnis
 
 (1) Wer auf Wasserstraßen der Zonen 1 bis 4 eine Schiffsfunkstelle bedienen oder beaufsichtigen will, bedarf einer Erlaubnis der zuständigen Behörde nach dieser Verordnung. Sie gilt unbefristet. Zuständige Behörde ist die vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachte Stelle.
 
-(2) Diese Erlaubnis wird durch ein UKW-Sprechfunkzeugnis (UBI (Anlage 1)) nachgewiesen.
-
 (3) Keiner Erlaubnis bedarf der Inhaber eines
 
-1.
+1. amtlich anerkannten UKW-Sprechfunkzeugnisses (UBI (Anlage 2)),
 
-2.
+2. von einer Vertragsverwaltung der Regionalen Vereinbarung auf Grund dieser Vereinbarung ausgestellten UKW-Sprechfunkzeugnisses für den Binnenschifffahrtsfunk,
 
-3.
+3. von der zuständigen Behörde anerkannten und gültigen Funkzeugnisses,
 
-4.
+4. Funkzeugnisses, das vor Inkrafttreten dieser Verordnung erteilt worden ist und zur Teilnahme am Binnenschifffahrtsfunk berechtigt.
 
 ### § 5 — Besondere Pflichten
 
@@ -95,27 +81,27 @@ Der Bewerber muss für die Erteilung der Erlaubnis das 15. Lebensjahr vollendet 
 
 (1) Der Bewerber hat den Antrag auf Zulassung zur Prüfung und Erteilung der Erlaubnis mit folgenden Angaben an die zuständige Behörde über den Prüfungsausschuss zu richten:
 
-1.
+1. Familienname,
 
-2.
+2. Geburtsname,
 
-3.
+3. Vornamen,
 
-4.
+4. Tag und Ort der Geburt,
 
-5.
+5. Anschrift.
 
 (2) Dem Antrag sind beizufügen:
 
-1.
+1. eine Kopie des gültigen Reisepasses oder Personalausweises,
 
-2.
+2. zwei gleiche Passbilder aus neuerer Zeit.
 
-(3) Der Bewerber wird zur Prüfung zugelassen, wenn Abweichend von Satz 1 Nr. 1 darf ein Bewerber zur Prüfung auch drei Monate vor Erreichen des Mindestalters zugelassen werden.
+(3) Der Bewerber wird zur Prüfung zugelassen, wenn
 
-1.
+1. das Mindestalter (§ 6) nachgewiesen und
 
-2.
+2. die Gebühren (§ 16) eingegangen sind.
 
 ### § 8 — Prüfungsausschüsse
 
@@ -129,9 +115,9 @@ Der Bewerber muss für die Erteilung der Erlaubnis das 15. Lebensjahr vollendet 
 
 (1) Der Bewerber hat in einer Prüfung nach Maßgabe des Prüfungsprogramms (Anlage 3) nachzuweisen, dass er
 
-1.
+1. über ausreichende Kenntnisse der für die Teilnahme am Binnenschifffahrtsfunk maßgebenden Vorschriften sowie die zur ordnungsgemäßen Bedienung der Funkanlage erforderlichen betrieblichen und technischen Kenntnisse verfügt (theoretischer Teil) und
 
-2.
+2. zu ihrer praktischen Anwendung fähig ist (praktischer Teil).
 
 (2) Der Vorsitzende des Prüfungsausschusses oder sein Stellvertreter bestimmt den Prüfungstermin und beruft die Prüfungskommission, die aus drei Prüfern besteht. Die Prüfungskommission nimmt die Prüfung ab.
 
@@ -141,17 +127,17 @@ Der Bewerber muss für die Erteilung der Erlaubnis das 15. Lebensjahr vollendet 
 
 (5) Besteht der Bewerber einen Teil der Prüfung nicht, kann er diesen Teil der Prüfung frühestens nach zwei Wochen und spätestens nach sechs Monaten wiederholen.
 
-(6) Inhaber eines nach Inkrafttreten dieser Verordnung ausgestellten sind beim Erwerb der Erlaubnis von der Prüfung der Kenntnisse und Fertigkeiten befreit, die sie mit dem Zeugnis bereits nachgewiesen haben.
+(6) Inhaber eines nach Inkrafttreten dieser Verordnung ausgestellten
 
-1.
+1. Allgemeinen Betriebszeugnisses für Funker (General Operator's Certificate (GOC)),
 
-2.
+2. Beschränkt Gültigen Betriebszeugnisses für Funker (Restricted Operator's Certificate (ROC)),
 
-3.
+3. UKW-Betriebszeugnisses für Funker (UBZ),
 
-4.
+4. Allgemeinen Funkbetriebszeugnisses (Long Range Certificate (LRC)),
 
-5.
+5. Beschränkt Gültigen Funkbetriebszeugnisses (Short Range Certificate (SRC))
 
 (7) (weggefallen)
 
@@ -167,15 +153,15 @@ Ist ein UKW-Sprechfunkzeugnis (UBI) oder ein Funkzeugnis nach § 4 Abs. 3 Nr. 4 
 
 (1) Die zuständige Behörde muss eine Erlaubnis entziehen, wenn der Inhaber nachweislich
 
-1.
+1. in gefährdender Weise gegen Bestimmungen über den Binnenschifffahrtsfunk verstoßen hat oder
 
-2.
+2. zur ordnungsgemäßen Teilnahme am Binnenschifffahrtsfunk nicht mehr in der Lage ist, insbesondere nicht mehr über ausreichendes Hör- oder Kommunikationsvermögen oder ausreichende Sehschärfe verfügt; die zuständige Behörde kann in Zweifelsfällen die Vorlage fachärztlicher Zeugnisse verlangen.
 
-(2) Die zuständige Behörde kann eine Erlaubnis entziehen, wenn In diesen Fällen kann die zuständige Behörde von der Entziehung absehen, wenn der Betroffene erneut eine Prüfung erfolgreich ablegt. Diese Prüfung ist auf die Kenntnisse und Fertigkeiten nach Anlage 3 beschränkt, die beanstandet worden sind.
+(2) Die zuständige Behörde kann eine Erlaubnis entziehen, wenn
 
-1.
+1. der Inhaber nachweislich in grober Weise gegen Bestimmungen über den Binnenschifffahrtsfunk verstoßen hat,
 
-2.
+2. bei dem Inhaber Anhaltspunkte dafür festgestellt worden sind, dass er zur ordnungsgemäßen Teilnahme am Binnenschifffahrtsfunk nicht mehr in der Lage ist.
 
 (3) Die Erlaubnis erlischt mit der Entziehung. Das UKW-Sprechfunkzeugnis (UBI) ist unverzüglich bei der zuständigen Behörde abzuliefern; das gilt auch dann, wenn die Entziehung der Erlaubnis angefochten und der sofortige Vollzug der Entziehung angeordnet worden ist.
 
@@ -191,13 +177,13 @@ Ist ein UKW-Sprechfunkzeugnis (UBI) oder ein Funkzeugnis nach § 4 Abs. 3 Nr. 4 
 
 ### § 13 — Auskünfte
 
-Die zuständige Behörde darf die gespeicherten personenbezogenen Daten aus dem durch sie geführten Verzeichnis über die erteilten Erlaubnisse, soweit dies erforderlich ist, zum Zwecke der übermitteln.
+Die zuständige Behörde darf die gespeicherten personenbezogenen Daten aus dem durch sie geführten Verzeichnis über die erteilten Erlaubnisse, soweit dies erforderlich ist, zum Zwecke der
 
-1.
+1. Durchführung von Verwaltungsaufgaben nach dem Binnenschifffahrtsaufgabengesetz oder auf Grund dieses Gesetzes oder des Seeaufgabengesetzes erlassener Rechtsvorschriften an Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Wasserschutzpolizeien der Länder und der Regulierungsbehörde für Post und Telekommunikation sowie an die Prüfungsausschüsse,
 
-2.
+2. Verfolgung von Straftaten, die im Zusammenhang mit dem Schiffsverkehr stehen, an Gerichte, Staatsanwaltschaften, Dienststellen der Polizeien der Länder und das Bundeskriminalamt als Strafverfolgungsbehörde,
 
-3.
+3. Verfolgung von Ordnungswidrigkeiten auf dem Gebiet der Schifffahrt an Gerichte, Staatsanwaltschaften, Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes und der Polizeien der Länder
 
 ### § 14 — Amtlich anerkanntes UKW-Sprechfunkzeugnis (UBI)
 
@@ -209,15 +195,15 @@ Das amtlich anerkannte UKW-Sprechfunkzeugnis (UBI) wird nach dem Muster der Anla
 
 Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 3 Abs. 2 Satz 1 oder 2 einen UKW-Kanal benutzt,
 
-2.
+2. ohne Erlaubnis nach § 4 Abs. 1 eine Schiffsfunkstelle oder Seefunkstelle bedient,
 
-3.
+3. entgegen § 5 andere Nachrichten übermittelt,
 
-4.
+4. entgegen § 11 Satz 2 oder entgegen § 12 Abs. 3 Satz 2, jeweils auch in Verbindung mit § 14 Satz 2, ein Zeugnis nicht oder nicht rechtzeitig abliefert oder
 
-5.
+5. entgegen einem vollziehbaren Verbot nach § 12 Abs. 8 Satz 1 eine Schiffsfunkstelle oder Seefunkstelle bedient.
 
 ### § 16
 
@@ -233,28 +219,20 @@ Diese Verordnung tritt am 1. Januar 2003 in Kraft.
 
 ### Anlage 1 — (zu § 4 Abs. 2, § 9 Abs. 4)
 
-Fundstelle des Originaltextes: BGBl. I 2002, 4575   (Inhalt: nicht darstellbares Muster eines UKW-Sprechfunkzeugnisses)
-
 ### Anlage 2 — (zu § 4 Abs. 3 Nr. 1, § 14)
-
-Fundstelle des Originaltextes: BGBl. I 2002, 4576   (Inhalt: nicht darstellbares Muster eines UKW-Sprechfunkzeugnisses)
 
 ### Anlage 3 — (zu § 9 Abs. 1)
 
-Fundstelle des Originaltextes: BGBl. I 2002, 4577 - 4578
-
 ### Anlage 4 — (zu § 9 Abs. 3)
 
-Fundstelle des Originaltextes: BGBl. I 2002, 4579
+1. Der Bewerber muss sich auf Verlangen vor Beginn der Prüfung durch Vorlage des gültigen Personalausweises oder Reisepasses ausweisen.
 
-1.
+2. Tritt der Bewerber während der Prüfung aus anderen als zwingenden gesundheitlichen Gründen zurück, so gilt die Prüfung als nicht bestanden.
 
-2.
+3. Unerlaubte Hilfsmittel, wie z. B. Bücher, Taschenrechner u. ä. oder fremde Hilfe dürfen bei der Prüfung nicht benutzt werden. Bei einem Täuschungsversuch gilt die Prüfung als nicht bestanden; das gilt auch für bereits erfolgreich durchgeführte Prüfungsteile. Der Vorsitzende hat vor Beginn der Prüfung die Bewerber über die Folgen eines Täuschungsversuchs zu belehren.
 
-3.
+4. Schriftlicher Prüfungsteil Nachweis ausreichender Kenntnisse der für die Teilnahme am Binnenschifffahrtsfunk maßgebenden Vorschriften sowie die zur ordnungsgemäßen Bedienung der Funkanlage erforderlichen betrieblichen und technischen Kenntnisse durch Beantwortung eines Fragebogens, wobei mindestens 80 Prozent der möglichen Punktzahl erreicht werden muss. Die Bearbeitungszeit für einen Fragebogen aus dem Fragenkatalog, der im Verkehrsblatt bekannt gemacht wird, beträgt 60 Minuten.
 
-4.
+5. Praktischer Prüfungsteil Fehlerfreie Abgabe von Not- und Dringlichkeits- oder Sicherheitsmeldungen nach Vorgabe eines Textes in deutscher Sprache unter Anwendung der Buchstabiertafel in höchstens 5 Minuten. Fehlerfreie Aufnahme von Not- und Dringlichkeits- oder Sicherheitsmeldungen in deutscher Sprache in höchstens 5 Minuten. Praktische Übungen im Binnenschifffahrtsfunk unter der Anwendung der Buchstabiertafel; Verfahren in Not-, Dringlichkeits- und Sicherheitsfällen. Bedienung der Sprechfunkgeräte einer Schiffsfunkstelle. Die Prüfungsdauer soll je Bewerber 15 Minuten - 2 bis 3 Aufgaben - nicht überschreiten.
 
-5.
-
-6.
+6. Die Prüfung ist bestanden, wenn der Bewerber in allen Prüfungsteilen Fertigkeiten und Kenntnisse nachgewiesen hat, die in Anlage 3 genannt sind.

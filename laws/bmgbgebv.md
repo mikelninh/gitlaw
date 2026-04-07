@@ -14,47 +14,47 @@ Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des 
 
 Im Zuständigkeitsbereich des Bundesministeriums für Gesundheit werden Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen (gebührenfähige Leistungen) erhoben, die auf Grund der folgenden Vorschriften erbracht werden:
 
-1.
+1. Betäubungsmittelgesetz,
 
-2.
+2. Betäubungsmittel-Außenhandelsverordnung,
 
-3.
+3. Grundstoffüberwachungsgesetz,
 
-4.
+4. Verordnung (EG) Nr. 273/2004 des Europäischen Parlamentes und des Rates vom 11. Februar 2004 betreffend Drogenausgangsstoffe (ABl. L 47 vom 18.2.2004, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2020/1737 (ABl. L 392 vom 23.11.2020, S. 1) geändert worden ist, in der jeweils geltenden Fassung,
 
-5.
+5. Verordnung (EG) Nr. 111/2005 des Rates vom 22. Dezember 2004 zur Festlegung von Vorschriften für die Überwachung des Handels mit Drogenausgangsstoffen zwischen der Union und Drittländern (ABl. L 22 vom 26.1.2005, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2020/1737 (ABl. L 392 vom 23.11.2020, S. 1) geändert worden ist, in der jeweils geltenden Fassung,
 
-6.
+6. Delegierte Verordnung (EU) 2015/1011 der Kommission vom 24. April 2015 zur Ergänzung der Verordnung (EG) Nr. 273/2004 des Europäischen Parlaments und des Rates und der Verordnung (EG) Nr. 111/2005 des Rates zur Festlegung von Vorschriften für die Überwachung des Handels mit Drogenausgangsstoffen zwischen der Gemeinschaft und Drittländern sowie zur Aufhebung der Verordnung (EG) Nr. 1277/2005 der Kommission (ABl. L 162 vom 27.6.2015, S. 12; L 185 vom 14.7.2015, S. 31; L 125 vom 18.5.2017, S. 75) in der jeweils geltenden Fassung,
 
-7.
+7. Arzneimittelgesetz,
 
-8.
+8. Verordnung (EG) Nr. 1234/2008 der Kommission vom 24. November 2008 über die Prüfung von Änderungen der Zulassungen von Human- und Tierarzneimitteln (ABl. L 334 vom 12.12.2008, S. 7), die zuletzt durch die Verordnung (EU) Nr. 712/2012 (ABl. L 209 vom 4.8.2012, S. 4) geändert worden ist, in der jeweils geltenden Fassung,
 
-9.
+9. Verordnung (EU) Nr. 536/2014 des Europäischen Parlamentes und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1), in der jeweils geltenden Fassung,
 
-10.
+10. Richtlinie 2001/83/EG des Europäischen Parlamentes und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Humanarzneimittel (ABl. L 311 vom 28.11.2001, S. 67), die zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist, in der jeweils geltenden Fassung,
 
-10a.
+10a. Tierarzneimittelgesetz,
 
-10b.
+10b. Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG (ABl. L 4 vom 7.1.2019, S. 43; L 163 vom 20.6.2019, S. 112; L 326 vom 8.10.2020, S. 15; L 241 vom 8.7.2021, S. 17) in der jeweils geltenden Fassung,
 
-11.
+11. Hämophilieregister-Verordnung,
 
-12.
+12. Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1), die zuletzt durch die Verordnung (EU) 2020/561 (ABl. 130 vom 24.4.2020, S. 18) geändert worden ist, in der jeweils geltenden Fassung,
 
-13.
+13. Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates vom 5. April 2017 über In-vitro-Diagnostika und zur Aufhebung der Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der Kommission (ABl. L 117 vom 5.5.2017, S. 176; L 117 vom 3.5.2019, S. 11; L 334 vom 27.12.2019, S. 167; L 233 vom 1.7.2021, S. 9), die zuletzt durch die Verordnung (EU) 2022/112 (ABl. L 19 vom 28.1.2022, S. 3) geändert worden ist, in der jeweils geltenden Fassung,
 
-14.
+14. Medizinprodukterecht-Durchführungsgesetz,
 
-15.
+15. Infektionsschutzgesetz,
 
-16.
+16. Gendiagnostikgesetz,
 
-17.
+17. Stammzellgesetz,
 
-18.
+18. Bundeskrebsregisterdatengesetz,
 
-19.
+19. Medizinal-Cannabisgesetz.
 
 ### § 2 — Höhe der Gebühren und Auslagen
 
@@ -79,20 +79,6 @@ Sofern im Gebühren- und Auslagenverzeichnis in der Anlage nichts Anderes bestim
 Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
 ### Anlage — (zu § 2 Absatz 1)
-
-a)
-
-b)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
 
 Vorbemerkung:
 
@@ -130,156 +116,6 @@ Gleichartige Serie:
 
 Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlängerungen: desselben Zulassungsinhabers oder Registrierungsinhabers) für ein identisches Arzneimittel.
 
-a)
-
-a)
-
-b)
-
-b)
-
-c)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-a)
-
-b)
-
-b)
-
-c)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-a)
-
-b)
-
-b)
-
-a)
-
-a)
-
-b)
-
-b)
-
-c)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-a)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-ff)
-
-gg)
-
-hh)
-
-b)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
 Vorbemerkung
 
 In der nachstehenden Tabelle bedeuten:
@@ -292,86 +128,28 @@ Gleichartige Serie:
 
 Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlängerungen: desselben Zulassungsinhabers oder Registrierungsinhabers) für ein identisches Arzneimittel.
 
-a)
-
-b)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
 Vorbemerkung:
 
 In der nachstehenden Tabelle bedeuten:
 
-1.
+1. Bekannter Stoff Tierarzneimittel, bei dem die Voraussetzungen des Artikels 42 Absatz 2 Buchstabe c der Verordnung (EU) 2019/6 nicht vorliegen.
 
-2.
+2. Neuer Stoff: Tierarzneimittel, bei dem die Voraussetzungen des Artikels 42 Absatz 2 Buchstabe c der Verordnung (EU) 2019/6 vorliegen.
 
-3.
+3. Vollständige Bezugnahme: Bezugnahme eines Zweitantragstellers auf Unterlagen eines Vorantragstellers gemäß Artikel 18 der Verordnung (EU) 2019/6.
 
-4.
+4. Teilweise Bezugnahme: Bezugnahme eines Zweitantragstellers auf Teile der Unterlagen eines Vorantragstellers (mit Ausnahme der Qualitätsunterlagen) und Einreichung eigener Unterlagen gemäß Artikel 19 der Verordnung (EU) 2019/6.
 
-5.
+5. Dublette: Vollständige Bezugnahme eines Antragstellers auf ein identisches Tierarzneimittel desselben Antragstellers, dessen Zulassung oder Registrierung zum Zeitpunkt der Antragstellung nicht länger als fünf Jahre zurückliegt.
 
-6.
+6. Serie: Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlängerungen: desselben Zulassungsinhabers oder Registrierungsinhabers) für nach dem Wirkstoff identische Arzneimittel, die sich in der Darreichungsform, Stärke und ggf. Indikation unterscheiden.
 
-7.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
+7. Gleichartige Serie: Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlängerungen: desselben Zulassungsinhabers oder Registrierungsinhabers) für ein identisches Tierarzneimittel.
 
 Vorbemerkung:
 
 Die nachstehende Tabelle gilt für individuell zurechenbare öffentliche Leistungen des Paul-Ehrlich-Instituts in Bezug auf Tierarzneimittel und veterinärmedizintechnische Produkte im Anwendungsbereich des Tierarzneimittelgesetzes. Für individuell zurechenbare öffentliche Leistungen des Paul-Ehrlich-Instituts in Bezug auf immunologische Tierarzneimittel im Sinne des § 11 Absatz 1 Satz 1 des Tiergesundheitsgesetzes, die gemäß § 3 Absatz 4 Nummer 1 des Tierarzneimittelgesetzes vom Anwendungsbereich des Tierarzneimittelgesetzes ausgenommen sind, gilt die Besondere Gebührenverordnung BMEL.
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
 Vorbemerkung:
 
 In der nachstehenden Tabelle bedeuten:
@@ -380,18 +158,6 @@ Bekannter Stoff: Arzneimittel, bei dem die Voraussetzungen des § 22 Absatz 3 Sa
 
 Neuer Stoff: Arzneimittel, bei dem keine der Voraussetzungen des § 22 Absatz 3 Satz 1 AMG vorliegt.
 
-a)
-
-b)
-
-a)
-
-a)
-
-b)
-
-b)
-
 Vorbemerkung:
 
 In der nachstehenden Tabelle bedeuten:
@@ -399,179 +165,3 @@ In der nachstehenden Tabelle bedeuten:
 Bekannter Stoff: Arzneimittel, bei dem die Voraussetzungen des § 22 Absatz 3 Satz 1 AMG vorliegen.
 
 Neuer Stoff: Arzneimittel, bei dem keine der Voraussetzungen des § 22 Absatz 3 Satz 1 AMG vorliegt.
-
-a)
-
-a)
-
-b)
-
-b)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-a)
-
-b)
-
-b)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-a)
-
-b)
-
-b)
-
-a)
-
-b)
-
-c)
-
-a)
-
-a)
-
-b)
-
-b)
-
-a)
-
-aa)
-
-bb)
-
-cc)
-
-a)
-
-b)
-
-b)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-a)
-
-a)
-
-b)
-
-b)
-
-a)
-
-aa)
-
-bb)
-
-cc)
-
-a)
-
-b)
-
-b)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)

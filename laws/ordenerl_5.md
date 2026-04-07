@@ -8,7 +8,7 @@ und Ehrenzeichen
 
 ### Art 1
 
-Auf Grund des § 3 Abs. 1 des Gesetzes über Titel, Orden und Ehrenzeichen vom 26. Juli 1957 (Bundesgesetzbl. I S. 844), zuletzt geändert durch Artikel 33 des Einführungsgesetzes zum Strafgesetzbuch vom 2. März 1974 (Bundesgesetzbl. I S. 469), genehmige ich die Stiftung und Verleihung des Ehrenzeichensdes Technischen Hilfswerks in zwei Klassen.
+Auf Grund des § 3 Abs. 1 des Gesetzes über Titel, Orden und Ehrenzeichen vom 26. Juli 1957 (Bundesgesetzbl. I S. 844), zuletzt geändert durch Artikel 33 des Einführungsgesetzes zum Strafgesetzbuch vom 2. März 1974 (Bundesgesetzbl. I S. 469), genehmige ich die Stiftung und Verleihung des
 
 ### Art 2
 
@@ -23,5 +23,3 @@ Die Stiftungsbestimmungen und die Verleihungsbedingungen sowie die Abbildung und
 Jede Änderung der Stiftungsbestimmungen und der Verleihungsbedingungen des nach Artikel 1 genehmigten Ehrenzeichens und jede Änderung seiner Form und seiner Benennung bedarf meiner Genehmigung.
 
 ### Schlußformel
-
-Der Bundespräsident Der Bundesminister des Innern

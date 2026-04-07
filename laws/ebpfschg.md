@@ -9,8 +9,6 @@ Eisenbahnfahrbetriebsmitteln
 
 ### Eingangsformel
 
-Wir ... verordnen im Namen des Reichs, nach erfolgter Zustimmung des Bundesrats und des Reichstags, was folgt:
-
 ### (XXXX)
 
 (1) Die Fahrbetriebsmittel der Eisenbahnen, welche Personen oder Güter im öffentlichen Verkehr befördern, sind von der ersten Einstellung in den Betrieb bis zur endgültigen Ausscheidung aus den Beständen der Pfändung nicht unterworfen.

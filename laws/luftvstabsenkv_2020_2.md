@@ -12,7 +12,13 @@ Auf Grund des § 11 Absatz 2 des Luftverkehrsteuergesetzes, der zuletzt durch Ar
 
 ### § 1 — Steuersätze 2020
 
-Unter Einbeziehung des Luftverkehrs in den Handel mit Treibhausgasemissionszertifikaten werden die Steuersätze des § 11 Absatz 1 Nummer 1 bis 3 des Gesetzes für die Zeit vom 1. April 2020 bis 31. Dezember 2020 abgesenkt. Die Steuer beträgt je Fluggast für Flüge mit einem Zielort 1.in einem Land der Anlage 1 zu dem Gesetz:12,90 Euro,2.in einem Land der Anlage 2 zu dem Gesetz:32,67 Euro,3.in anderen Ländern:58,82 Euro.
+Unter Einbeziehung des Luftverkehrs in den Handel mit Treibhausgasemissionszertifikaten werden die Steuersätze des § 11 Absatz 1 Nummer 1 bis 3 des Gesetzes für die Zeit vom 1. April 2020 bis 31. Dezember 2020 abgesenkt. Die Steuer beträgt je Fluggast für Flüge mit einem Zielort
+
+1. in einem Land der Anlage 1 zu dem Gesetz:12,90 Euro,
+
+2. in einem Land der Anlage 2 zu dem Gesetz:32,67 Euro,
+
+3. in anderen Ländern:58,82 Euro.
 
 ### § 2 — Inkrafttreten, Außerkrafttreten
 

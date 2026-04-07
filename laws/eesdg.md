@@ -16,51 +16,51 @@
 
 (4) Das Bundesverwaltungsamt ist
 
-1.
+1. nationale Behörde im Sinne des Artikels 38 Absatz 2 der Verordnung (EU) 2017/2226 und
 
-2.
+2. zuständige Behörde nach Artikel 39 Absatz 1 der Verordnung (EU) 2017/2226.
 
 ### § 2 — Zugang zum EES zum Zwecke der Verhütung, Aufdeckung und Untersuchung terroristischer und sonstiger schwerer Straftaten; Verordnungsermächtigung
 
 (1) Zugriffsberechtigte Behörden im Sinne des Artikels 32 der Verordnung (EU) 2017/2226 sind
 
-1.
+1. die Bundespolizei,
 
-2.
+2. die sonstigen mit der Wahrnehmung grenzpolizeilicher Aufgaben betrauten Behörden,
 
-3.
+3. das Bundeskriminalamt und die Landeskriminalämter,
 
-4.
+4. die Zollfahndungsämter,
 
-5.
+5. das Zollkriminalamt,
 
-6.
+6. die mit der Steuerfahndung betrauten Dienststellen der Landesfinanzbehörden,
 
-7.
+7. die Verfassungsschutzbehörden des Bundes und der Länder,
 
-8.
+8. der Bundesnachrichtendienst,
 
-9.
+9. der Militärische Abschirmdienst,
 
-10.
+10. der Generalbundesanwalt,
 
-11.
+11. die Generalstaatsanwaltschaften der Länder,
 
-12.
+12. die Staatsanwaltschaften der Länder,
 
-13.
+13. die mit der Verhütung, Aufdeckung und Untersuchung terroristischer oder sonstiger schwerer Straftaten betrauten Dienststellen der Landespolizeibehörden, soweit sie nicht bereits von Nummer 3 erfasst sind.
 
 (2) Das Bundesministerium des Innern und für Heimat wird ermächtigt, weitere Behörden der Länder, die zum Einreise- /Ausreisesystem zum Zwecke der Verhütung, Aufdeckung und Untersuchung von terroristischen Straftaten oder sonstigen schweren Straftaten nach Kapitel IV der Verordnung (EU) 2017/2226 zugangsberechtigt sind, auf Ersuchen des jeweils zuständigen Landes durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, zu bestimmen.
 
 (3) Zentrale Zugangsstellen können beim Bund und bei den Ländern eingerichtet werden.
 
-(4) Das Bundesministerium des Innern und für Heimat erstellt in Abstimmung mit den Ländern Die Länder teilen die erforderlichen Angaben sowie jede nachträgliche Änderung dem Bundesministerium des Innern und für Heimat mit. Das Bundesministerium des Innern und für Heimat übermittelt die Listen der zugangsberechtigten Behörden und der zentralen Zugangsstellen sowie jede nachträgliche Änderung an die Europäische Agentur für das Betriebsmanagement von IT-Großsystemen im Raum der Freiheit, der Sicherheit und des Rechts (eu-LISA) und an die Europäische Kommission.
+(4) Das Bundesministerium des Innern und für Heimat erstellt in Abstimmung mit den Ländern
 
-1.
+1. eine Liste der zentralen Zugangsstellen,
 
-2.
+2. eine Liste der zugangsberechtigten Polizeibehörden, Strafverfolgungsbehörden und Nachrichtendienste sowie
 
-3.
+3. eine Liste der Organisationseinheiten, die innerhalb der zugangsberechtigten Behörden zum Zugang zum Einreise- /Ausreisesystem ermächtigt sind.
 
 ### § 3 — Sicherheits- und Qualitätsniveau der EES-Registrierung und der EES-Abfrage
 
@@ -68,29 +68,29 @@
 
 (2) Öffentliche Stellen, die Daten zum Zwecke der Eingabe, Änderung, Löschung oder Abfrage von Daten im Einreise- /Ausreisesystem erheben, haben durch geeignete technische und organisatorische Maßnahmen sicherzustellen, dass folgende Prozesse nach dem Stand der Technik erfolgen:
 
-1.
+1. die Erfassung des Lichtbilds und der Fingerabdrücke,
 
-2.
+2. die Qualitätssicherung des Lichtbilds und der Fingerabdrücke,
 
-3.
+3. die maschinelle Echtheitsprüfung von Reisedokumenten und
 
-4.
+4. die Erhebung von anonymisierten Einzeldaten zur Sicherung des Sicherheits- und Qualitätsniveaus der Fachprozesse des Einreise- /Ausreisesystems.
 
 (3) Die Einhaltung des Stands der Technik wird vermutet, wenn die Prozesse nach den Technischen Richtlinien des Bundesamts für Sicherheit in der Informationstechnik in der jeweils zuletzt im Bundesanzeiger veröffentlichten Fassung durchgeführt wurden.
 
 (4) Soweit die jeweils zuletzt im Bundesanzeiger veröffentlichte Technische Richtlinie eine Zertifizierung beim Bundesamt für Sicherheit in der Informationstechnik vorsieht, ist diese ab dem 1. Januar 2025 für folgende Systemkomponenten erforderlich:
 
-1.
+1. Hardware zur Erfassung des Lichtbilds,
 
-2.
+2. Hardware zur Erfassung der Fingerabdrücke,
 
-3.
+3. Software zur Erfassung und Qualitätssicherung des Lichtbilds,
 
-4.
+4. Software zur Erfassung und Qualitätssicherung der Fingerabdruckdaten,
 
-5.
+5. Hardware zur Prüfung von Dokumenten und
 
-6.
+6. Software zur Prüfung von Dokumenten.
 
 ### § 4 — Nationale Sicherheits- und Qualitätsstatistik für das Einreise-/Ausreisesystem und Bewältigung von Sicherheitsvorfällen
 

@@ -18,19 +18,19 @@ Auf Grund des § 24 Nummer 2 des Elektro- und Elektronikgerätegesetzes vom 20. 
 
 (1) Diese Verordnung regelt die Anforderungen an die Behandlung von Altgeräten im Sinne des § 3 Nummer 3 des Elektro- und Elektronikgerätegesetzes. Sie gilt für die folgenden Tätigkeiten nach der Übergabe von Altgeräten an eine Erstbehandlungsanlage:
 
-1.
+1. Entfrachtung von Schadstoffen,
 
-2.
+2. Separierung von Wertstoffen,
 
-3.
+3. Demontage,
 
-4.
+4. Zerkleinern,
 
-5.
+5. Recycling,
 
-6.
+6. sonstige Verwertung und
 
-7.
+7. Vorbereitung zur Beseitigung.
 
 (2) Diese Verordnung gilt nicht für die Tätigkeit der Vorbereitung zur Wiederverwendung ganzer Altgeräte.
 
@@ -50,63 +50,63 @@ Auf Grund des § 24 Nummer 2 des Elektro- und Elektronikgerätegesetzes vom 20. 
 
 (1) Vor einer mechanischen Zerkleinerung von getrennt erfassten Altgeräten müssen aus diesen Altgeräten mindestens folgende Bauteile, Gemische und Stoffe entfernt werden:
 
-1.
+1. Tonerkartuschen für flüssige oder pastöse Toner und Tintenpatronen, Farbtoner und Resttonerauffangbehälter;
 
-2.
+2. cadmium- oder selenhaltige Fotoleitertrommeln;
 
-3.
+3. berylliumoxidhaltige Bauteile;
 
-4.
+4. Batterien und Akkumulatoren, wenn diese mit allgemein verfügbaren Werkzeugen entfernt werden können;
 
-5.
+5. Leiterplatten mit besonders hohen Wertstoffgehalten, insbesondere aus den in der Anlage aufgeführten Altgeräten;
 
-6.
+6. quecksilberhaltige Bauteile, wenn diese ohne Zerstörung des Altgerätes zugänglich sind und der Zustand des Altgeräts nicht auf eine Zerstörung der quecksilberhaltigen Bauteile schließen lässt;
 
-7.
+7. quecksilberhaltige Lampen für die Hintergrundbeleuchtung und quecksilberhaltige Gasentladungslampen, wenn der Zustand des Altgeräts nicht auf eine Zerstörung der quecksilberhaltigen Lampen schließen lässt;
 
-8.
+8. mit Quecksilber verunreinigte Bauteile aus dentalmedizinischen Geräten;
 
-9.
+9. Kältemittel, die Fluorchlorkohlenwasserstoffe (FCKW), teilhalogenierte Fluorchlorkohlenwasserstoffe (H-FCKW) oder teilhalogenierte Fluorkohlenwasserstoffe (HFKW) oder Kohlenwasserstoffe (KW) enthalten;
 
-10.
+10. Chrom-VI-haltige Ammoniaklösung bei Absorberkühlgeräten;
 
-11.
+11. Polymethylmethacrylat- und Polycarbonat-Scheiben aus Flachbildschirmgeräten;
 
-12.
+12. Flüssigkeiten und Gase;
 
-13.
+13. Asbest und Bauteile, die Asbest enthalten;
 
-14.
+14. Kathodenstrahlröhren;
 
-15.
+15. Bauteile, die radioaktive Stoffe enthalten, ausgenommen Bauteile, die die Freigrenzen gemäß Anlage 4 Tabelle 1 Spalte 2 und 3 der Verordnung zum Schutz vor der schädlichen Wirkung ionisierender Strahlung (Strahlenschutzverordnung – StrlSchV) vom 29. November 2018 (BGBl. I S. 2034, 2036), die zuletzt durch Artikel 1 der Verordnung vom 20. November 2020 (BGBl. I S. 2502) geändert worden ist, unterschreiten.
 
 (2) Nach einer mechanischen Zerkleinerung von getrennt erfassten Altgeräten müssen mindestens folgende Bauteile, Gemische und Stoffe aus getrennt erfassten Altgeräten entfernt werden:
 
-1.
+1. quecksilberhaltige Bauteile, wenn diese nicht bereits nach Absatz 1 Nummer 6 entfernt wurden;
 
-2.
+2. quecksilberhaltige Lampen für die Hintergrundbeleuchtung und quecksilberhaltige Gasentladungslampen, wenn diese nicht bereits nach Absatz 1 Nummer 7 entfernt wurden;
 
-3.
+3. Batterien und Akkumulatoren, wenn diese nicht bereits nach Absatz 1 Nummer 4 entfernt wurden;
 
-4.
+4. Leiterplatten mit einer Oberfläche von mehr als zehn Quadratzentimetern, wenn die Leiterplatten nicht bereits nach Absatz 1 Nummer 5 entfernt wurden;
 
-5.
+5. Kunststoffe, die bromierte Flammschutzmittel enthalten;
 
-6.
+6. Fluorchlorkohlenwasserstoffe (FCKW), teilhalogenierte Fluorchlorkohlenwasserstoffe (H-FCKW) oder teilhalogenierte Fluorkohlenwasserstoffe (HFKW), Kohlenwasserstoffe (KW), wenn diese nicht bereits nach Absatz 1 Nummer 9 entfernt wurden;
 
-7.
+7. Flüssigkristallanzeigen, gegebenenfalls zusammen mit dem Gehäuse, mit einer Oberfläche von mehr als 100 Quadratzentimetern sowie hintergrundbeleuchtete Anzeigen mit Gasentladungslampen;
 
-8.
+8. externe elektrische Leitungen;
 
-9.
+9. Bauteile, die feuerfeste Keramikfasern gemäß Anhang VI der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1), die zuletzt durch die Delegierte Verordnung (EU) Nr. 2020/217 (ABl. L 44 vom 18.2.2020, S. 1) geändert worden ist, enthalten;
 
-10.
+10. Elektrolyt-Kondensatoren, die bedenkliche Stoffe enthalten und eine Höhe größer als 25 Millimeter oder einen Durchmesser größer als 25 Millimeter oder ein proportional ähnliches Volumen haben;
 
-11.
+11. Kondensatoren, die polychlorierte Biphenyle enthalten.
 
 (3) Batterien und Akkumulatoren sind so zu entfernen, dass sie nicht beschädigt werden und nach der Entfernung identifizierbar sind, so dass eine anschließende Untergliederung nach chemischen Systemen und Typengruppen möglich ist. In der feinsten nichtmetallischen Restfraktion von mechanisch zerkleinerten Altgeräten darf ein Gehalt von 100 Milligramm Cadmium je Kilogramm nicht überschritten werden.
 
-(4) Bei der Entfernung von Elektrolyt-Kondensatoren und Kondensatoren, die polychlorierte Biphenyle enthalten, ist sicherzustellen, dass keine Flüssigkeiten austreten. Bei der Behandlung von gemäß Absatz 2 Nummer 11 entnommenen Kondensatoren darf ein Gehalt an polychlorierten Biphenylen von 50 Milligramm je Kilogramm in der feinsten nichtmetallischen Restfraktion der Altgeräte und in der Staubfraktion nicht überschritten werden. Für Kondensatoren, die polychlorierte Biphenyle enthalten, gilt § 2 Absatz 2 Nummer 2 der PCB/PCT-Abfallverordnung.
+(4) Bei der Entfernung von Elektrolyt-Kondensatoren und Kondensatoren, die polychlorierte Biphenyle enthalten, ist sicherzustellen, dass keine Flüssigkeiten austreten. Bei der Behandlung von gemäß Absatz 2 Nummer 11 entnommenen Kondensatoren darf ein Gehalt an polychlorierten Biphenylen von 50 Milligramm je Kilogramm in der feinsten nichtmetallischen Restfraktion der Altgeräte und in der Staubfraktion nicht überschritten werden. Für Kondensatoren, die polychlorierte Biphenyle enthalten, gilt § 2 Absatz 2 Nummer 2 der PCB/PCT-Abfallverordnung.
 
 (5) Es ist sicherzustellen, dass schadstoffhaltige Bauteile und Materialien bei der Behandlung nicht in einer Weise beschädigt werden, dass Schadstoffe in die zu verwertenden Materialströme eingetragen werden oder wertstoffhaltige Materialien mit den Restfraktionen verloren gehen. Die Vermischung, einschließlich der Verdünnung von gefährlichen Bauteilen, Gemischen und Stoffen aus Altgeräten mit anderen Bauteilen, Gemischen und Stoffen ist nicht zulässig. Bei Behandlungsprozessen mit erhöhter Staubentwicklung oder Schadstofffreisetzungsgefahr ist die Freisetzung und diffuse Verteilung von staubförmigen Emissionen zu vermeiden.
 
@@ -122,11 +122,11 @@ Auf Grund des § 24 Nummer 2 des Elektro- und Elektronikgerätegesetzes vom 20. 
 
 ### § 5 — Anforderungen an die Behandlung von radioaktiven Bauteilen
 
-(1) Bauteile aus Konsumgütern, die radioaktive Stoffe enthalten und dürfen ohne weitere selektive Behandlung gemäß § 15 Absatz 2 des Kreislaufwirtschaftsgesetzes beseitigt oder verwertet werden.
+(1) Bauteile aus Konsumgütern, die radioaktive Stoffe enthalten und
 
-1.
+1. die unter einer Genehmigung nach § 40 Absatz 1 des Strahlenschutzgesetzes hergestellt oder nach § 42 des Strahlenschutzgesetzes verbracht wurden und
 
-2.
+2. für die kein Rücknahmekonzept nach § 41 Absatz 1 Nummer 3 des Strahlenschutzgesetzes und entsprechend § 43 des Strahlenschutzgesetzes erforderlich ist,
 
 (2) Bauteile nach Absatz 1, für die ein Rücknahmekonzept nach § 41 Absatz 1 Nummer 3 des Strahlenschutzgesetzes und nach § 43 des Strahlenschutzgesetzes gefordert ist, sind vom Letztverbraucher nach § 44 Satz 2 des Strahlenschutzgesetzes an die in der Information nach § 41 Absatz 1 Nummer 5 des Strahlenschutzgesetzes angegebene Stelle zurückzugeben.
 
@@ -150,11 +150,11 @@ Aluminium-Kühlkörper ab einer Masse von 100 Gramm aus den gemäß § 3 Absatz 
 
 (3) Bei der Aufbereitung der getrennten Lampenfraktionen und der entfernten Gasentladungslampen zur Verwertung darf folgender Quecksilbergehalt nicht überschritten werden:
 
-1.
+1. für Altglas ein Quecksilbergehalt von höchstens fünf Milligramm je Kilogramm Altglas,
 
-2.
+2. für Aluminium-Endkappen ein Quecksilbergehalt von 20 Milligramm je Kilogramm Aluminium-Endkappen sowie
 
-3.
+3. für die sonstigen Fraktionen zur Verwertung ein Quecksilbergehalt von 80 Milligramm je Kilogramm Fraktion.
 
 ### § 9 — Anforderungen an die Behandlung von Kathodenstrahlröhren
 
@@ -170,29 +170,21 @@ Aluminium-Kühlkörper ab einer Masse von 100 Gramm aus den gemäß § 3 Absatz 
 
 (2) Bei der Behandlung von siliziumbasierten Photovoltaikmodulen dürfen folgende Schadstoffgehalte in den Fraktionen nicht überschritten werden:
 
-1.
+1. in der Glasfraktion: a)ein Bleigehalt von 100 Milligramm je Kilogramm sowieb)ein Selen- und Cadmiumgehalt von jeweils einem Milligramm je Kilogramm; ein Bleigehalt von 100 Milligramm je Kilogramm sowie ein Selen- und Cadmiumgehalt von jeweils einem Milligramm je Kilogramm;
 
-a)
+2. in den weiteren Fraktionen zur Verwertung: a)ein Bleigehalt von 200 Milligramm je Kilogramm sowieb)ein Selen- und Cadmiumgehalt von jeweils einem Milligramm je Kilogramm. ein Bleigehalt von 200 Milligramm je Kilogramm sowie ein Selen- und Cadmiumgehalt von jeweils einem Milligramm je Kilogramm.
 
-b)
+(3) Bei der Behandlung von nicht-siliziumbasierten Photovoltaikmodulen darf folgender Schadstoffgehalt in der Glasfraktion sowie in den weiteren Fraktionen zur Verwertung nicht überschritten werden:
 
-2.
+1. ein Bleigehalt von zehn Milligramm je Kilogramm sowie
 
-a)
+2. ein Selen- und Cadmiumgehalt von jeweils einem Milligramm je Kilogramm.
 
-b)
+(4) Abweichend von Absatz 1 Satz 1 sind Verfahren für die gemeinsame Behandlung von siliziumbasierten und nicht-siliziumbasierten Photovoltaikmodulen zulässig, wenn folgender Schadstoffgehalt in der Glasfraktion sowie in den weiteren Fraktionen zur Verwertung nicht überschritten wird:
 
-(3) Bei der Behandlung von nicht-siliziumbasierten Photovoltaikmodulen darf folgender Schadstoffgehalt in der Glasfraktion sowie in den weiteren Fraktionen zur Verwertung nicht überschritten werden: Satz 1 gilt nicht für die Halbleiterfraktion.
+1. ein Bleigehalt von zehn Milligramm je Kilogramm sowie
 
-1.
-
-2.
-
-(4) Abweichend von Absatz 1 Satz 1 sind Verfahren für die gemeinsame Behandlung von siliziumbasierten und nicht-siliziumbasierten Photovoltaikmodulen zulässig, wenn folgender Schadstoffgehalt in der Glasfraktion sowie in den weiteren Fraktionen zur Verwertung nicht überschritten wird: Satz 1 gilt nicht für die Halbleiterfraktion.
-
-1.
-
-2.
+2. ein Selen- und Cadmiumgehalt von jeweils einem Milligramm je Kilogramm.
 
 (5) Bei der Behandlung von Photovoltaikmodulen sind Aluminium und Cadmium-Tellurid zu trennen und einem Recycling zuzuführen.
 
@@ -208,17 +200,17 @@ b)
 
 (1) Der Betreiber einer Erstbehandlungsanlage ist verpflichtet,
 
-1.
+1. eine Eigenüberwachung durchzuführen, die der Einhaltung des Kontrollplans dient, insbesondere der Wirksamkeit des Behandlungskonzepts, seiner Anwendung in der betrieblichen Praxis, sowie der Einhaltung von Grenzwerten und Zielvorgaben,
 
-2.
+2. einen Kontrollplan zu erstellen, anhand dessen sich die Einhaltung der maximal zulässigen Werte nach § 3 Absatz 3 Satz 2 und Absatz 4 Satz 2, § 7 Absatz 1 Satz 1, § 8 Absatz 1 Satz 3 und Absatz 3 sowie § 10 Absatz 2, 3 und 4 überprüfen lässt, und
 
-3.
+3. die Ergebnisse der Überprüfung im Betriebstagebuch gemäß Anlage 5a des Elektro- und Elektronikgerätegesetzes zu dokumentieren.
 
 (2) Bei einer Überschreitung der maximal zulässigen Werte nach § 3 Absatz 3 Satz 2 und Absatz 4 Satz 2, § 7 Absatz 1 Satz 1, § 8 Absatz 1 Satz 3 und Absatz 3 sowie § 10 Absatz 2, 3 und 4 hat der Betreiber einer Erstbehandlungsanlage
 
-1.
+1. unverzüglich eine Defizitanalyse durchzuführen und einen Maßnahmenplan zu erstellen sowie
 
-2.
+2. die Arbeitsanweisungen im Behandlungskonzept gemäß Anlage 5 des Elektro- und Elektronikgerätegesetzes entsprechend anzupassen.
 
 ### § 13 — Inkrafttreten
 
@@ -230,36 +222,28 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage — (zu § 3 Absatz 1 Nummer 5)
 
-Kategorie 1 (Wärmeüberträger), Kategorie 4 (Großgeräte)
+– Wärmeüberträger und Großgeräte mit kabelgebundenem oder kabellosem Internet- oder Netzwerkanschluss
 
-–
+– Flachbildschirme
 
-Kategorie 2 (Bildschirme, Monitore und Geräte, die Bildschirme mit einer Oberfläche von mehr als 100 Quadratzentimetern enthalten)
+– Laptops, Notebooks, Tablets und Tablet-PCs
 
-–
+– Server
 
-–
+– PCs
 
-Kategorie 4 (Großgeräte), Kategorie 6 (kleine IT- und Telekommunikationsgeräte)
+– Laserdrucker
 
-–
+– Mobiltelefone, Smartphones
 
-–
+– Digital-/Videokameras
 
-–
+– mobile DVD/CD-Player
 
-Kategorie 5 (Kleingeräte), Kategorie 6 (kleine IT- und Telekommunikationsgeräte)
+– Videospielkonsolen
 
-–
+– Navigationssysteme
 
-–
+– Router
 
-–
-
-–
-
-–
-
-–
-
-–
+– Festplatten (auch in PCs oder Servern), wenn nicht aus Datenschutzgründen komplett zerkleinert

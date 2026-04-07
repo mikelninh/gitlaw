@@ -13,13 +13,13 @@ Auf Grund des § 23 des Gesetzes über Hilfsmaßnahmen für Deutsche aus der sow
 
 ### § 1 — Personenkreis
 
-(1) Leistungen nach Maßgabe des § 2 erhalten auf Antrag deutsche Staatsangehörige und deutsche Volkszugehörige, die Für den sowjetisch besetzten Sektor von Berlin und die an Berlin unmittelbar angrenzenden Gemeinden gilt der Gebietsstand im Zeitpunkt des Inkrafttretens dieser Verordnung.
+(1) Leistungen nach Maßgabe des § 2 erhalten auf Antrag deutsche Staatsangehörige und deutsche Volkszugehörige, die
 
-1.
+1. im sowjetisch besetzten Sektor von Berlin oder in einer Gemeinde, die an Berlin unmittelbar angrenzt, Schäden im Sinne der §§ 3, 10 oder 18 des Gesetzes erlitten haben,
 
-2.
+2. im Zeitpunkt des Schadenseintritts ihren Wohnsitz oder ständigen Aufenthalt in Berlin (West) hatten und
 
-3.
+3. sich ständig im Geltungsbereich des Gesetzes aufhalten.
 
 (2) § 1 Abs. 1 Satz 2 und § 2 des Gesetzes sowie § 6 des Bundesvertriebenengesetzes sind anzuwenden.
 

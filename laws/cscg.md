@@ -68,13 +68,7 @@ Dem in Genf am 5. Dezember 1972 von der Bundesrepublik Deutschland unterzeichnet
 
 ### Art 6
 
-(1) Für das CSC-Sicherheits-Zulassungsschild (Anhang zur Regel 1 der Anlage I des Übereinkommens) teilen die Zulassungsbehörden dem Antragsteller eine Zulassungsbezeichnung zu, die wie folgt beginnt:
-
-(2) Ist bei der Zulassung vorhandener Container (Artikel II Abs. 9 und Regel 9 der Anlage I des Übereinkommens) die Hersteller-Identifizierungsnummer nicht bekannt (Nummer 3 des Anhangs zur Anlage I des Übereinkommens), so teilen die Zulassungsbehörden eine solche Nummer mit folgenden Anfangsbuchstaben zu:
-
 (3) Ist ein Tankcontainer für die Beförderung gefährlicher Güter bestimmt, erteilt die nach Artikel 3 Abs. 9 dieses Gesetzes zuständige Behörde eine Zulassungsbezeichnung, die mit dem Buchstaben "D" beginnt. Ist bei derartigen vorhandenen Tankcontainern (Artikel II Abs. 9 und Regel 9 der Anlage I des Übereinkommens) die Hersteller-Identifizierungsnummer nicht bekannt (Nummer 3 des Anhangs zur Anlage I des Übereinkommens), so teilt die Zulassungsbehörde eine solche Nummer zu.
-
-(4) Auf dem CSC-Sicherheits-Zulassungsschild lauten, sofern dies nach Regel 1 Abs. 3 der Anlage I des Übereinkommens erforderlich ist, die Zeile 7 in englischer Sprache: "END WALL STRENGTH ... P", in französischer Sprache: "RESISTANCE DE LA PAROI D'EXTREMITE ... P", Zeile 8 in englischer Sprache: "SIDE WALL STRENGTH ... P", in französischer Sprache: "RESISTANCE DE LA PAROI LATERALE ... P".
 
 (5) Auf dem CSC-Sicherheits-Zulassungsschild entfällt die Angabe in Zeile 9 (Monat, Jahr der erneuten Überprüfungen), wenn diese Daten möglichst nahe des CSC-Sicherheits-Zulassungsschildes angegeben sind (Regel 2 Abs. 3 der Anlage I des Übereinkommens).
 
@@ -82,17 +76,17 @@ Dem in Genf am 5. Dezember 1972 von der Bundesrepublik Deutschland unterzeichnet
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen Artikel 2 Abs. 3 einen Container ohne gültiges CSC-Sicherheits-Zulassungsschild in den oder aus dem Geltungsbereich dieses Gesetzes befördert,
 
-2.
+2. entgegen Artikel 5 Abs. 1 einen Container nicht oder nicht vorschriftsmäßig überprüft oder nicht überprüfen läßt,
 
-3.
+3. als Eigentümer oder Beförderer entgegen Artikel 5 Abs. 2 den Container verwendet,
 
-4.
+4. als Eigentümer oder von ihm beauftragte Person entgegen Artikel 5 Abs. 3 das Datum der erneuten Prüfung nicht vorschriftsmäßig angibt,
 
-5.
+5. als Eigentümer oder von ihm beauftragte Person an einem Container die Kennzeichnung "ACEP-D" anbringt, ohne dazu nach Artikel 5 Abs. 4 Satz 3 berechtigt zu sein, oder
 
-6.
+6. einer Rechtsverordnung nach Artikel 5 Abs. 6 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zweitausendfünfhunder Euro geahndet werden.
 

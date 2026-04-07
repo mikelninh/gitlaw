@@ -14,179 +14,115 @@
 
 (1) Die Vorschriften dieser Verordnung regeln im Hinblick auf mineralische Ersatzbaustoffe im Sinne des § 2 Nummer 1 die
 
-1.
+1. Anforderungen an die Herstellung dieser mineralischen Ersatzbaustoffe in mobilen und stationären Anlagen und an das Inverkehrbringen von mineralischen Ersatzbaustoffen,
 
-2.
+2. Anforderungen an die Probenahme und Untersuchung von nicht aufbereitetem Bodenmaterial und nicht aufbereitetem Baggergut, das ausgehoben oder abgeschoben werden soll,
 
-3.
+3. Anforderungen an den Einbau dieser mineralischen Ersatzbaustoffe in technische Bauwerke sowie
 
-4.
+4. Anforderungen an die getrennte Sammlung von mineralischen Abfällen aus technischen Bauwerken.
 
 (2) Die Vorschriften dieser Verordnung gelten nicht für
 
-1.
+1. Bodenschätze, wie Minerale, Steine, Kiese, Sande und Tone, die in Trocken- oder Nassabgrabungen, Tagebauen oder Brüchen gewonnen werden,
 
-2.
+2. die Verwendung mineralischer Ersatzbaustoffe im Sinne des § 2 Nummer 1 a)auf oder in einer durchwurzelbaren Bodenschicht, auch dann nicht, wenn die durchwurzelbare Bodenschicht im Zusammenhang mit der Errichtung eines technischen Bauwerkes auf- oder eingebracht oder hergestellt wird,b)unterhalb oder außerhalb einer durchwurzelbaren Bodenschicht, ausgenommen in technischen Bauwerken,c)als Deponieersatzbaustoffe nach Teil 3 der Deponieverordnung,d)auf Halden oder in Absetzteichen des Bergbaus,e)in bergbaulichen Hohlräumen gemäß der Versatzverordnung,f)im Deichbau,g)in Gewässern,h)als Ausbauasphalt der Verwertungsklasse A im Straßenbau, sofern die „Richtlinien für die umweltverträgliche Verwertung von Ausbaustoffen mit teer-/pechtypischen Bestandteilen sowie für die Verwertung von Ausbauasphalt im Straßenbau – RuVA-StB 01, Ausgabe 2001, Fassung 2005“ der Forschungsgesellschaft für Straßen- und Verkehrswesen (FGSV) und die „Technischen Lieferbedingungen für Asphaltgranulat – TL AG-StB, Ausgabe 2009“ der Forschungsgesellschaft für Straßen- und Verkehrswesen (FGSV) angewendet werden,i)in Anlagen des Bundes gemäß § 9a Absatz 3 des Atomgesetzes in der Fassung der Bekanntmachung vom 15. Juli 1985 (BGBl. I S. 1565), das zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2022 (BGBl. I S. 2153) geändert worden ist, auf oder in einer durchwurzelbaren Bodenschicht, auch dann nicht, wenn die durchwurzelbare Bodenschicht im Zusammenhang mit der Errichtung eines technischen Bauwerkes auf- oder eingebracht oder hergestellt wird, unterhalb oder außerhalb einer durchwurzelbaren Bodenschicht, ausgenommen in technischen Bauwerken, als Deponieersatzbaustoffe nach Teil 3 der Deponieverordnung, auf Halden oder in Absetzteichen des Bergbaus, in bergbaulichen Hohlräumen gemäß der Versatzverordnung, im Deichbau, in Gewässern, als Ausbauasphalt der Verwertungsklasse A im Straßenbau, sofern die „Richtlinien für die umweltverträgliche Verwertung von Ausbaustoffen mit teer-/pechtypischen Bestandteilen sowie für die Verwertung von Ausbauasphalt im Straßenbau – RuVA-StB 01, Ausgabe 2001, Fassung 2005“ der Forschungsgesellschaft für Straßen- und Verkehrswesen (FGSV) und die „Technischen Lieferbedingungen für Asphaltgranulat – TL AG-StB, Ausgabe 2009“ der Forschungsgesellschaft für Straßen- und Verkehrswesen (FGSV) angewendet werden, in Anlagen des Bundes gemäß § 9a Absatz 3 des Atomgesetzes in der Fassung der Bekanntmachung vom 15. Juli 1985 (BGBl. I S. 1565), das zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2022 (BGBl. I S. 2153) geändert worden ist,
 
-a)
+3. die Zwischen- oder Umlagerung mineralischer Ersatzbaustoffe im Sinne des § 2 Nummer 1 a)im Rahmen der Errichtung, der Änderung oder der Unterhaltung von baulichen und betrieblichen Anlagen, einschließlich der Seitenentnahme von Bodenmaterial und Baggergut,b)im Tagebau unter vergleichbaren Bodenverhältnissen und geologischen und hydrogeologischen Bedingungen,c)im Rahmen der Sanierung einer schädlichen Bodenveränderung oder Altlast oder innerhalb des Gebietes eines für verbindlich erklärten Sanierungsplans, und im Rahmen der Errichtung, der Änderung oder der Unterhaltung von baulichen und betrieblichen Anlagen, einschließlich der Seitenentnahme von Bodenmaterial und Baggergut, im Tagebau unter vergleichbaren Bodenverhältnissen und geologischen und hydrogeologischen Bedingungen, im Rahmen der Sanierung einer schädlichen Bodenveränderung oder Altlast oder innerhalb des Gebietes eines für verbindlich erklärten Sanierungsplans, und
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-3.
-
-a)
-
-b)
-
-c)
-
-4.
+4. hydraulisch gebundene Gemische einschließlich ihrer Ausgangs-, Zuschlags- und Zusatzstoffe im Geltungsbereich der Landesbauordnungen sowie im Bereich der Bundesverkehrswege, der Verkehrswege der Länder, Kreise und Kommunen sowie der jeweiligen Nebenanlagen, soweit diese Gemische nicht von den Einbauweisen 1, 3 und 5 der Anlage 2 erfasst sind.
 
 ### § 2 — Begriffsbestimmungen
 
 Für diese Verordnung gelten folgende Begriffsbestimmungen:
 
-1.
+1. mineralischer Ersatzbaustoff: mineralischer Baustoff, der a)als Abfall oder als Nebenprodukt aa)in Aufbereitungsanlagen hergestellt wird oderbb)bei Baumaßnahmen, beispielsweise Rückbau, Abriss, Umbau, Ausbau, Neubau und Erhaltung anfällt,b)unmittelbar oder nach Aufbereitung für den Einbau in technische Bauwerke geeignet und bestimmt ist undc)unmittelbar oder nach Aufbereitung unter die in den Nummern 18 bis 33 bezeichneten Stoffe fällt; als Abfall oder als Nebenprodukt aa)in Aufbereitungsanlagen hergestellt wird oderbb)bei Baumaßnahmen, beispielsweise Rückbau, Abriss, Umbau, Ausbau, Neubau und Erhaltung anfällt, in Aufbereitungsanlagen hergestellt wird oder bei Baumaßnahmen, beispielsweise Rückbau, Abriss, Umbau, Ausbau, Neubau und Erhaltung anfällt, unmittelbar oder nach Aufbereitung für den Einbau in technische Bauwerke geeignet und bestimmt ist und unmittelbar oder nach Aufbereitung unter die in den Nummern 18 bis 33 bezeichneten Stoffe fällt;
 
-a)
+2. Gemisch: ein mineralischer Baustoff, der hergestellt ist aus a)einem mineralischen Ersatzbaustoff und mindestens einem sonstigen mineralischen Stoff oderb)aus mehreren mineralischen Ersatzbaustoffen mit oder ohne Zumischung von sonstigen mineralischen Stoffen; einem mineralischen Ersatzbaustoff und mindestens einem sonstigen mineralischen Stoff oder aus mehreren mineralischen Ersatzbaustoffen mit oder ohne Zumischung von sonstigen mineralischen Stoffen;
 
-aa)
+3. technisches Bauwerk: jede mit dem Boden verbundene Anlage oder Einrichtung, die nach einer Einbauweise der Anlage 2 oder 3 errichtet wird; hierzu gehören insbesondere a)Straßen, Wege und Parkplätze,b)Baustraßen,c)Schienenverkehrswege,d)Lager-, Stell- und sonstige befestigte Flächen,e)Leitungsgräben und Baugruben, Hinterfüllungen und Erdbaumaßnahmen, beispielsweise Lärm- und Sichtschutzwälle undf)Aufschüttungen zur Stabilisierung von Böschungen und Bermen; Straßen, Wege und Parkplätze, Baustraßen, Schienenverkehrswege, Lager-, Stell- und sonstige befestigte Flächen, Leitungsgräben und Baugruben, Hinterfüllungen und Erdbaumaßnahmen, beispielsweise Lärm- und Sichtschutzwälle und Aufschüttungen zur Stabilisierung von Böschungen und Bermen;
 
-bb)
+4. Inverkehrbringen von mineralischen Ersatzbaustoffen: Abgabe eines mineralischen Ersatzbaustoffs an Dritte;
 
-b)
+5. Aufbereitungsanlage: Anlage, in der mineralische Stoffe behandelt, insbesondere sortiert, getrennt, zerkleinert, gesiebt, gereinigt oder abgekühlt werden; als Aufbereitungsanlage gilt auch eine Anlage, in der mineralische Stoffe in einer für den Einbau in technische Bauwerke gemäß dieser Vorschrift geeigneten Form unmittelbar anfallen, sowie eine Anlage, in der durch thermische Behandlungsverfahren der Bindemittelanteil aus Ausbauasphalt oder aus teer- oder pechhaltigen Straßenausbaustoffen entfernt wird und mineralische Stoffe gewonnen werden;
 
-c)
+6. mobile Aufbereitungsanlage: an wechselnden Standorten betriebene Aufbereitungsanlage;
 
-2.
+7. stationäre Aufbereitungsanlage: dauerhaft an demselben Standort betriebene Aufbereitungsanlage;
 
-a)
+8. Zwischenlager: Anlagen zum Lagern von Bodenmaterial oder Baggergut, die in Anhang 1 Nummern 8.12 und 8.14 der Verordnung über genehmigungsbedürftige Anlagen (4. BImSchV) in der Fassung der Bekanntmachung vom 31. Mai 2017 (BGBl. I S. 1440), die durch Artikel 1 der Verordnung vom 12. Januar 2021 (BGBl. I S. 69) geändert worden ist, aufgeführt sind;
 
-b)
+9. Überwachungsstelle: Die beauftragte Überwachungsstelle, die a)nach den „Richtlinien für die Anerkennung von Prüfstellen für Baustoffe und Baustoffgemische im Straßenbau“, Ausgabe 2015, – RAP Stra 15 – der Forschungsgesellschaft für Straßen- und Verkehrswesen (FGSV) für die Fachgebiete D (Gesteinskörnungen) oder I (Baustoffgemische für Schichten ohne Bindemittel und für den Erdbau) anerkannt ist oderb)nach der DIN EN ISO/IEC 17020 „Konformitätsbewertung – Anforderungen an den Betrieb verschiedener Typen von Stellen, die Inspektionen durchführen“, Ausgabe Juli 2012 oder der DIN EN ISO/IEC 17065 „Konformitätsbewertung – Anforderungen an Stellen, die Produkte, Prozesse und Dienstleistungen zertifizieren“, Ausgabe Januar 2013, für die Konformitätsbewertung von mineralischen Ersatzbaustoffen akkreditiert ist; nach den „Richtlinien für die Anerkennung von Prüfstellen für Baustoffe und Baustoffgemische im Straßenbau“, Ausgabe 2015, – RAP Stra 15 – der Forschungsgesellschaft für Straßen- und Verkehrswesen (FGSV) für die Fachgebiete D (Gesteinskörnungen) oder I (Baustoffgemische für Schichten ohne Bindemittel und für den Erdbau) anerkannt ist oder nach der DIN EN ISO/IEC 17020 „Konformitätsbewertung – Anforderungen an den Betrieb verschiedener Typen von Stellen, die Inspektionen durchführen“, Ausgabe Juli 2012 oder der DIN EN ISO/IEC 17065 „Konformitätsbewertung – Anforderungen an Stellen, die Produkte, Prozesse und Dienstleistungen zertifizieren“, Ausgabe Januar 2013, für die Konformitätsbewertung von mineralischen Ersatzbaustoffen akkreditiert ist;
 
-3.
+10. Untersuchungsstelle: Die beauftragte Untersuchungsstelle, die nach der DIN EN ISO/IEC 17025 „Allgemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien“, Ausgabe März 2018, akkreditiert ist;
 
-a)
+10a. Güteüberwachungsgemeinschaft: Ein rechtsfähiger Zusammenschluss von Betreibern von Aufbereitungsanlagen im Sinne des § 2 Nummer 5, deren durch Satzung oder sonstige Regelung festgelegtes Ziel es ist, die Betreiber bei der Sicherstellung der Anforderungen an die Güteüberwachung zu unterstützen. Überwachungsstellen im Sinne des § 2 Nummer 9 und Untersuchungsstellen im Sinne des § 2 Nummer 10 können der Güteüberwachungsgemeinschaft beitreten. Die Güteüberwachungsgemeinschaft bedarf der Anerkennung der zuständigen Behörde.
 
-b)
+11. Materialwerte: Grenzwerte und Orientierungswerte eines mineralischen Ersatzbaustoffs oder einer Materialklasse eines mineralischen Ersatzbaustoffs; die Materialwerte für bestimmte Parameter sind in Anlage 1 festgesetzt;
 
-c)
+12. Eluat: wässrige Lösung, die durch eine im Labor durchgeführte Auslaugung gewonnen wird;
 
-d)
+13. Materialklasse: Kategorien eines mineralischen Ersatzbaustoffs derselben Art und Herkunft, die sich in ihrer Materialqualität auf Grund unterschiedlicher Materialwerte unterscheiden; für bestimmte Kategorien sind in Anlage 1 Materialklassen festgelegt;
 
-e)
+14. Verwender: jede natürliche oder juristische Person oder Personenvereinigung, die mineralische Ersatzbaustoffe in technische Bauwerke einbaut;
 
-f)
+15. Einbau: Verwendung von mineralischen Ersatzbaustoffen in technischen Bauwerken;
 
-4.
+16. Einbauweisen: die jeweils in der ersten Spalte der Tabellen der Anlagen 2 und 3 bezeichneten Bauweisen;
 
-5.
+17. Wasserschutzbereiche: Wasserschutzgebiete der Klassen I, II, III, III A und III B, Heilquellenschutzgebiete der Klassen I, II, III und IV sowie Wasservorranggebiete;
 
-6.
+18. Hochofenstückschlacke: Gesteinskörnung, die aus der im Hochofenprozess entstehenden Hochofenschlacke durch Abkühlung und nachfolgende Zerkleinerung und Sortierung gewonnen wird;
 
-7.
+19. Hüttensand: glasiger feinkörniger Mineralstoff, der durch schockartige Abkühlung flüssiger Hochofenschlacke gewonnen wird;
 
-8.
+20. Stahlwerksschlacke: Schlacke, die bei der Verarbeitung von Roheisen, Eisenschwamm und aufbereitetem Stahlschrott zu Stahl im Linz-Donawitz-Konverter oder im Elektroofen anfällt, mit Ausnahme von Schlacken aus der Edelstahlherstellung sowie der im früher verwendeten Siemens-Martin-Verfahren angefallenen Schlacken;
 
-9.
+21. Gießerei-Kupolofenschlacke: Schlacke, die in Eisengießereien beim Schmelzen von Gusseisen in Kupolöfen anfällt;
 
-a)
+22. Kupferhüttenmaterial: Schlacke, die bei der Herstellung von Kupfer als Stückschlacke oder als Schlackegranulat anfällt;
 
-b)
+23. Gießereirestsand: rieselfähiger Sand, der in Eisen-, Stahl-, Temper- und Nichteisenmetall-Gießereien anfällt;
 
-10.
+24. Schmelzkammergranulat aus der Schmelzfeuerung von Steinkohle: glasiges Granulat, das durch schockartige Abkühlung des bei der Verbrennung von Steinkohle oder Steinkohle mit anteiliger Mitverbrennung von Abfällen in Kohlenstaubfeuerungen mit flüssigem Ascheabzug anfallenden Mineralstoffs entsteht;
 
-10a.
+25. Steinkohlenkesselasche: Asche, die bei der Trockenfeuerung von Steinkohle oder Steinkohle mit anteiliger Mitverbrennung von Abfällen am Kesselboden über eine Rinne nass oder trocken abgezogen wurde;
 
-11.
+26. Steinkohlenflugasche: Mineralstoffpartikel, die aus der Trocken- oder Schmelzfeuerung mit Steinkohle oder Steinkohle mit anteiliger Mitverbrennung von Abfällen im Rauchgasstrom mitgeführt und mit Elektrofiltern abgeschieden wurden;
 
-12.
+27. Braunkohlenflugasche: Mineralstoffpartikel, die aus der Feuerung mit Braunkohle oder Braunkohle mit anteiliger Mitverbrennung von Abfällen im Rauchgasstrom mitgeführt und mit Elektrofiltern abgeschieden wurden;
 
-13.
+28. Hausmüllverbrennungsasche: aufbereitete und gealterte Rost- und Kesselasche aus Anlagen zur Verbrennung von Haushaltsabfällen und ähnlichen gewerblichen und industriellen Abfällen sowie Abfällen aus privaten und öffentlichen Einrichtungen;
 
-14.
+29. Recycling-Baustoff: mineralischer Baustoff, der durch die Aufbereitung von mineralischen Abfällen hergestellt wird, die a)bei Baumaßnahmen, beispielsweise Rückbau, Abriss, Umbau, Ausbau, Neubau und Erhaltung,b)bei der Herstellung mineralischer Bauprodukte oderc)durch thermische Behandlung von Ausbauasphalt oder teer- oder pechhaltigen Straßenausbaustoffenangefallen sind; bei Baumaßnahmen, beispielsweise Rückbau, Abriss, Umbau, Ausbau, Neubau und Erhaltung, bei der Herstellung mineralischer Bauprodukte oder durch thermische Behandlung von Ausbauasphalt oder teer- oder pechhaltigen Straßenausbaustoffen
 
-15.
+30. Baggergut: Material, das im Rahmen von Unterhaltungs-, Neu- oder Ausbaumaßnahmen aus oder an Gewässern entnommen oder aufbereitet wird oder wurde; Baggergut kann bestehen aus Sedimenten und subhydrischen Böden der Gewässersohle, aus dem Oberboden, dem Unterboden oder dem Untergrund im unmittelbaren Umfeld des Gewässerbettes oder aus Oberböden im Ufer- und Überschwemmungsbereich des Gewässers;
 
-16.
+31. Gleisschotter: Bettungsmaterial aus Naturstein, das bei Baumaßnahmen an Schienenverkehrswegen oberhalb der Tragschicht oder des Planums anfällt oder in einer Aufbereitungsanlage behandelt wurde;
 
-17.
+32. Ziegelmaterial: Ziegelsand, Ziegelsplitt und Ziegelbruch aus sortenrein erfassten und in einer Aufbereitungsanlage behandelten Abfällen aus Ziegel aus dem thermischen Produktionsprozess (Brennbruch) oder aus sortenrein erfasstem und in einer Aufbereitungsanlage behandeltem Ziegelabbruch aus Abfällen, die bei Baumaßnahmen wie Rückbau, Abriss, Umbau, Ausbau, Neubau und Erhaltung anfallen;
 
-18.
+33. Bodenmaterial: Bodenmaterial im Sinne von § 2 Nummer 6 der Bundes-Bodenschutz- und Altlastenverordnung, das nach dem Aushub nicht mit anderen Ersatzbaustoffen als Bodenmaterial vermischt wurde;
 
-19.
+34. Grundwasserfreie Sickerstrecke: der Abstand zwischen der Unterkante des unteren Einbauhorizontes des mineralischen Ersatzbaustoffs und dem höchsten zu erwartenden Grundwasserstand. Bei der Einstufung in die nach Anlage 2 festgelegten Konfigurationen der Grundwasserdeckschicht wird der grundwasserfreien Sickerstrecke ein Sicherheitsabstand von 0,5 Meter zugeschlagen;
 
-20.
-
-21.
-
-22.
-
-23.
-
-24.
-
-25.
-
-26.
-
-27.
-
-28.
-
-29.
-
-a)
-
-b)
-
-c)
-
-30.
-
-31.
-
-32.
-
-33.
-
-34.
-
-35.
+35. Höchster zu erwartender Grundwasserstand: der höchste gemessene oder aus Messdaten abgeleitete sowie von nicht dauerhafter Grundwasserabsenkung unbeeinflusste Grundwasserstand.
 
 ## Abschnitt 2: Annahme von mineralischen Abfällen
 
 ### § 3 — Annahmekontrolle
 
-(1) Der Betreiber einer Aufbereitungsanlage, in der Recycling-Baustoffe hergestellt werden, hat bei der Anlieferung von mineralischen Abfällen unverzüglich eine Annahmekontrolle durchzuführen und deren Ergebnis zu dokumentieren. Die Annahmekontrolle umfasst eine Sichtkontrolle und Feststellungen zur Charakterisierung, insbesondere die Feststellung Die Annahmekontrolle kann auch weitere Feststellungen zur Charakterisierung umfassen, insbesondere bezüglich der Für ausgebaute mineralische Ersatzbaustoffe, die nach Art und Materialklasse eindeutig bestimmt werden können, gelten die jeweils stoffspezifischen Materialwerte nach Anlage 1 Tabelle 1. Für die Ermittlung der Schadstoffgehalte in mineralischen Abfällen wesentliche, vorliegende Untersuchungsergebnisse oder aus der Vorerkundung von Bauwerken oder Böden vorliegende Hinweise auf Schadstoffe sind vom Abfallerzeuger oder -besitzer dem Betreiber der Anlage bei der Anlieferung vorzulegen. Im Rahmen der Vorerkundung sind In-situ-Untersuchungen, insbesondere nach DIN 19698 „Untersuchung von Feststoffen – Probenahme von festen und stichfesten Materialien“, Teile 5 (2018-06) und 6 (2019-01), zulässig.
+(1) Der Betreiber einer Aufbereitungsanlage, in der Recycling-Baustoffe hergestellt werden, hat bei der Anlieferung von mineralischen Abfällen unverzüglich eine Annahmekontrolle durchzuführen und deren Ergebnis zu dokumentieren. Die Annahmekontrolle umfasst eine Sichtkontrolle und Feststellungen zur Charakterisierung, insbesondere die Feststellung
 
-1.
+1. des Namens und der Anschrift des Sammlers oder Beförderers,
 
-2.
+2. der Masse und des Herkunftsbereichs des angelieferten Abfalls,
 
-3.
+3. des Abfallschlüssels gemäß der Anlage der Abfallverzeichnis-Verordnung,
 
-4.
+4. der Bezeichnung der Baumaßnahme oder von Angaben zur Anfallstelle,
 
-5.
-
-1.
-
-2.
+5. der Zusammensetzung, der Verschmutzung, der Konsistenz, des Aussehens, der Farbe und des Geruchs.
 
 (2) Besteht bei der Anlieferung von mineralischen Abfällen in eine Aufbereitungsanlage auf Grund der Feststellungen zur Charakterisierung der Verdacht, dass Materialwerte für Recycling-Baustoffe der Klasse 3 – RC-3 – nach Anlage 1 Tabelle 1 oder Materialwerte, die als Feststoffwerte für Bodenmaterial der Klasse F3 – BM-F3 – der Anlage 1 Tabelle 4 angegeben werden, überschritten werden, sind diese Abfälle getrennt zu lagern und vor der Behandlung von einer Untersuchungsstelle getrennt zu beproben und zu untersuchen. Gleiches gilt, wenn der Verdacht besteht, dass Überwachungswerte nach Anlage 4 Tabelle 2.2, oder, soweit es sich um nicht aufbereitetes Bodenmaterial handelt, Materialwerte für Bodenmaterial der Klasse F3 – BM-F3 – nach Anlage 1 Tabelle 3 oder 4 überschritten werden. Die §§ 8 und 9 gelten entsprechend. Liegen Anhaltspunkte vor, dass die angelieferten mineralischen Abfälle erhöhte Gehalte weiterer, durch die Materialwerte nicht begrenzter Stoffe aufweisen, ist auf diese Stoffe zusätzlich analytisch zu untersuchen.
 
@@ -198,55 +134,53 @@ c)
 
 (1) Der Betreiber einer Aufbereitungsanlage, in der mineralische Ersatzbaustoffe hergestellt werden, hat eine Güteüberwachung durchzuführen. Die Güteüberwachung besteht aus:
 
-1.
+1. dem Eignungsnachweis,
 
-2.
+2. der werkseigenen Produktionskontrolle und
 
-3.
+3. der Fremdüberwachung.
 
 (2) Der Betreiber der Aufbereitungsanlage hat den Eignungsnachweis und die Fremdüberwachung von einer Überwachungsstelle durchführen zu lassen.
 
-(2a) Der Betreiber einer stationären Aufbereitungsanlage kann eine nach § 13a anerkannte Güteüberwachungsgemeinschaft mit der Güteüberwachung im Sinne der Absätze 1 und 2 beauftragen. Seine Verantwortung für die Erfüllung der Pflicht nach Absatz 1 bleibt hiervon unberührt.
-
-(3) Abweichend von Absatz 1 bedarf Gleisschotter in einer Körnung ab 31,5 Millimeter keiner Güteüberwachung, sofern er nach organoleptischem Befund nicht belastet ist und ausschließlich als Schotteroberbau nach den Einbauweisen B1 bis B4 der Anlage 3 in Gleisbauwerken wieder eingebaut wird. Der Wiedereinbau als Schotteroberbau nach den Einbauweisen B1 bis B4 der Anlage 3 im Gleisbauwerk bedarf keiner Erlaubnis nach § 8 Absatz 1 des Wasserhaushaltsgesetzes.
+(2a) Der Betreiber einer stationären Aufbereitungsanlage kann eine nach § 13a anerkannte Güteüberwachungsgemeinschaft mit der Güteüberwachung im Sinne der Absätze 1 und 2 beauftragen. Seine Verantwortung für die Erfüllung der Pflicht nach Absatz 1 bleibt hiervon unberührt.
 
 (4) Anforderungen an die Überprüfung der bautechnischen Eigenschaften von mineralischen Ersatzbaustoffen nach anderen Vorschriften bleiben unberührt.
 
-> § 4 Abs. 3 Satz 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wird das Wort "Wasserhaushaltgesetzes" durch das Wort "Wasserhaushaltsgesetzes"  ersetzt.
+> § 4 Abs. 3 Satz 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wird das Wort "Wasserhaushaltgesetzes" durch das Wort "Wasserhaushaltsgesetzes" ersetzt.
 
 ### § 5 — Eignungsnachweis
 
-(1) Der Betreiber der Aufbereitungsanlage hat einen Eignungsnachweis zu erbringen oder einen vorhandenen Eignungsnachweis nach Maßgabe der Absätze 2 und 3 zu aktualisieren Der Eignungsnachweis besteht aus der Erstprüfung und der Betriebsbeurteilung.
+(1) Der Betreiber der Aufbereitungsanlage hat einen Eignungsnachweis zu erbringen oder einen vorhandenen Eignungsnachweis nach Maßgabe der Absätze 2 und 3 zu aktualisieren
 
-1.
+1. bei der erstmaligen Inbetriebnahme einer mobilen oder stationären Anlage,
 
-2.
+2. nach einer Änderung an einer genehmigungsbedürftigen Anlage gemäß den §§ 15 und 16 des Bundes-Immissionsschutzgesetzes,
 
-3.
+3. bei nicht genehmigungsbedürftigen Anlagen nach einem Wechsel der Baumaßnahme, ausgenommen mobile Aufbereitungsanlagen, die auf dem Betriebsgelände einer stationären Aufbereitungsanlage in einem einheitlichen Betriebsablauf betrieben werden, oder
 
-4.
+4. wenn andere, nicht vom Eignungsnachweis erfasste mineralische Ersatzbaustoffe in der Anlage hergestellt werden.
 
 (2) Im Rahmen der Erstprüfung ist von der Überwachungsstelle festzustellen, ob die hergestellten mineralischen Ersatzbaustoffe die geltenden Materialwerte der Anlage 1 nach Maßgabe des § 10 Absatz 1 und 2 einhalten und ob sie Schadstoffe nach Anlage 4 Tabelle 2.1 enthalten, für die keine Materialwerte festgesetzt sind. Die Erstprüfung umfasst auch die Ermittlung der in § 10 Absatz 5 genannten Materialwerte. Die Erstprüfung einer Aufbereitungsanlage zur Herstellung von Recycling-Baustoffen umfasst zusätzlich die Feststellung, ob die Überwachungswerte nach Anlage 4 Tabelle 2.2. eingehalten werden. Der Eignungsnachweis für Stahlwerksschlacken, die für einen Einbau nach Anlage 2, Einbauweise 12 vorgesehen sind, umfasst zusätzlich den CBR-Versuch nach Anlage 4 Tabelle 2.3. Die Überwachungsstelle entnimmt alle die nach diesem Absatz notwendigen Proben des in der Anlage hergestellten mineralischen Ersatzbaustoffs nach Maßgabe des § 8 Absatz 1. Die Proben sollen in Gegenwart eines Vertreters des Betreibers der Aufbereitungsanlage entnommen werden. Die Analytik der Proben nach Maßgabe des § 9 hat eine Untersuchungsstelle durchzuführen.
 
 (3) Die Betriebsbeurteilung hat durch dieselbe Überwachungsstelle zu erfolgen, die auch die Erstprüfung durchführt. Die Betriebsbeurteilung ist bestanden, wenn die Anlage aufgrund ihrer technischen Anlagenkomponenten, ihrer Betriebsorganisation und personellen Ausstattung geeignet ist und der Betreiber der Aufbereitungsanlage die Gewähr dafür bietet, dass die Anforderungen der Abschnitte 2 und 3 Unterabschnitt 1 erfüllt werden.
 
-(4) Die Überwachungsstelle hat dem Betreiber der Aufbereitungsanlage ein Prüfzeugnis über den erbrachten Eignungsnachweis auszustellen. Das Prüfzeugnis muss folgende Angaben enthalten: Sind für Parameter aus der Anlage 4 Tabelle 2.1 und 2.2, die keine Materialwerte sind, Gehalte nachweisbar, sind diese Parameter mit den gemessenen Konzentrationswerten ebenfalls im Prüfzeugnis zu dokumentieren.
+(4) Die Überwachungsstelle hat dem Betreiber der Aufbereitungsanlage ein Prüfzeugnis über den erbrachten Eignungsnachweis auszustellen. Das Prüfzeugnis muss folgende Angaben enthalten:
 
-1.
+1. die Durchführung der Erstprüfung einschließlich der Probenahme und der Analyseergebnisse der untersuchten Parameter,
 
-2.
+2. eine abschließende Bewertung darüber, ob die Materialwerte nach Maßgabe des § 10 eingehalten werden, und
 
-3.
+3. das Ergebnis der Betriebsbeurteilung.
 
 (5) Der Betreiber der Aufbereitungsanlage darf mineralische Ersatzbaustoffe erst dann in Verkehr bringen, wenn er das Prüfzeugnis über den erbrachten Eignungsnachweis von der Überwachungsstelle erhalten hat.
 
 (6) Der Betreiber der Aufbereitungsanlage, der mineralische Ersatzbaustoffe in einer mobilen Aufbereitungsanlage herstellt, ausgenommen mobile Aufbereitungsanlagen, die auf dem Betriebsgelände einer stationären Aufbereitungsanlage in einem einheitlichen Betriebsablauf betrieben werden, hat der zuständigen Behörde bei jeder neuen Baumaßnahme oder bei jedem sonstigen Wechsel des Einsatzortes unverzüglich Folgendes zu übermitteln:
 
-1.
+1. den Namen des Betreibers der Aufbereitungsanlage,
 
-2.
+2. den Einsatzort, an dem die Aufbereitungsanlage betrieben wird, und
 
-3.
+3. eine Kopie des Prüfzeugnisses.
 
 ### § 6 — Werkseigene Produktionskontrolle
 
@@ -254,9 +188,9 @@ c)
 
 (2) Der Betreiber der Aufbereitungsanlage hat die für die jeweiligen mineralischen Ersatzbaustoffe geltenden Materialwerte der Anlage 1 durch die werkseigene Produktionskontrolle in eigener Verantwortung nach dem in der Anlage 4 Tabelle 1 angegebenen Überwachungsturnus zu überwachen. Die Probenahme nach Maßgabe von § 8 Absatz 2 und die Analytik der Proben nach Maßgabe von § 9 hat eine Untersuchungsstelle durchzuführen. Ergibt die werkseigene Produktionskontrolle, dass die Materialwerte nicht eingehalten werden, hat der Betreiber der Aufbereitungsanlage die Ursachen zu ermitteln und unverzüglich Maßnahmen zur Abhilfe zu ergreifen. Die betreffende Charge des mineralischen Ersatzbaustoffs ist
 
-1.
+1. der nächst höheren Materialklasse zuzuordnen, für die die Materialwerte eingehalten werden, oder
 
-2.
+2. sofern keine Materialklasse in Anlage 1 definiert ist oder eingehalten wird, vorrangig ordnungsgemäß und schadlos zu verwerten oder gemeinwohlverträglich zu beseitigen.
 
 (3) Wird im Auftrag eines Betreibers einer stationären Aufbereitungsanlage eine mobile Aufbereitungsanlage auf dem Betriebsgelände der stationären Aufbereitungsanlage in einem einheitlichen Betriebsablauf betrieben, ist für die Berechnung der festgelegten Mengen nach Anlage 4 Tabelle 1 zur Durchführung einer werkseigenen Produktionskontrolle die von der mobilen Aufbereitungsanlage hergestellte Menge eines mineralischen Ersatzbaustoffs zu der von der stationären Aufbereitungsanlage hergestellten Menge des gleichen Ersatzbaustoffs zu addieren. In diesen Fällen entfällt eine separate werkseigene Produktionskontrolle für die mobile Anlage.
 
@@ -272,27 +206,23 @@ c)
 
 (4) Über die durchgeführte Fremdüberwachung stellt die Überwachungsstelle ein Prüfzeugnis aus. Dieses Prüfzeugnis muss folgende Angaben enthalten:
 
-1.
+1. die Durchführung der Fremdüberwachung einschließlich der Probenahme und der Analyseergebnisse der untersuchten Parameter,
 
-2.
+2. die Bewertung der werkseigenen Produktionskontrolle,
 
-3.
+3. eine abschließende Bewertung darüber, ob die Materialwerte nach Maßgabe des § 10 Absatz 1 und 3 eingehalten werden,
 
-4.
+4. die Ermittlung der in § 10 Absatz 5 angegebenen Materialwerte und
 
-5.
+5. die Kontrolle der Angaben aus der Betriebsbeurteilung für mobile Aufbereitungsanlagen.
 
 (5) Wird im Auftrag eines Betreibers einer stationären Aufbereitungsanlage eine mobile Aufbereitungsanlage auf dem Betriebsgelände der stationären Aufbereitungsanlage in einem einheitlichen Betriebsablauf betrieben, ist für die Berechnung der festgelegten Mengen nach Anlage 4 Tabelle 1 zur Durchführung einer Fremdüberwachung die von der mobilen Aufbereitungsanlage hergestellte Menge eines mineralischen Ersatzbaustoffs zu der von der stationären Aufbereitungsanlage hergestellten Menge des gleichen Ersatzbaustoffs zu addieren. In diesen Fällen entfällt für die mobile Anlage die Fremdüberwachung.
 
 ### § 8 — Probenahme und Probenaufbereitung
 
-(1) Die Probenahme für die Erstprüfung im Rahmen des Eignungsnachweises nach § 5 Absatz 2 hat nach der PN 98 – Richtlinie für das Vorgehen bei physikalischen, chemischen und biologischen Untersuchungen im Zusammenhang mit der Verwertung/Beseitigung von Abfällen, Stand Mai 2019, der Bund/Länder Arbeitsgemeinschaft Abfall (LAGA), zu erfolgen. Die Probenahme ist zu protokollieren. Die Probenahmeprotokolle sind fünf Jahre aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen. Die Probenahme ist von Personen durchzuführen, die über die für die Durchführung der Probenahme erforderliche Fachkunde verfügen. Die Fachkunde kann durch qualifizierte Ausbildung oder langjährige praktische Erfahrung jeweils in Verbindung mit einer erfolgreichen Teilnahme an einem Probenehmerlehrgang nach LAGA PN 98 nachgewiesen werden. Die Kenntnisse zur Probenahme von Haufwerken sind mindestens alle fünf Jahre durch eine Teilnahme an geeigneten Lehrgängen zu aktualisieren. Bei der Probenahme ist aus der jeweils ersten Produktionscharge von 200 Kubikmeter bis 500 Kubikmeter des mineralischen Ersatzbaustoffs die in der Norm angegebene Zahl an Laborproben zu entnehmen. Im Labor ist aus den entnommenen Laborproben und nach vorheriger Aliquotierung und Abtrennung von entsprechenden Rückstellproben durch Mischen und Homogenisieren jeweils eine Prüfprobe mit dem Charakter einer Durchschnittsprobe zu erstellen. Die Rückstellproben sind mindestens sechs Monate aufzubewahren. Ergänzend kann die DIN 19698 Untersuchung von Feststoffen – Probenahme von festen und stichfesten Materialien – Teile 1 (2014-05) und 2 (2016-12) herangezogen werden.
-
 (2) Absatz 1 gilt für die Probenahme im Rahmen der werkseigenen Produktionskontrolle und der Fremdüberwachung nach den §§ 6 und 7 entsprechend. Zusätzlich sind im Rahmen der Fremdüberwachung die Laborproben aus der Charge zu entnehmen, die als erste in Verkehr gebracht werden soll; im Rahmen der werkseigenen Produktionskontrolle sind die Laborproben aus der jeweils aktuellen Produktionscharge zu entnehmen. Abweichend von Absatz 1 kann die Probenahme im Rahmen der werkseigenen Produktionskontrolle durch einen sachkundigen Probenehmer erfolgen, wenn eine Einweisung durch die Untersuchungsstelle erfolgt ist und ein Fachkundiger die ordnungsgemäße Probenahme bestätigt.
 
 (3) Der mineralische Ersatzbaustoff ist in der Korngrößenverteilung zu untersuchen, in der er in Verkehr gebracht werden soll. Soll der mineralische Ersatzbaustoff in mehreren Körnungen in Verkehr gebracht werden, kann abweichend von Satz 1 für die Überwachungsverfahren nach § 4 Absatz 1 Satz 2 Nummer 1 bis 3 im Einvernehmen mit der Überwachungsstelle auch eine den Ersatzbaustoff charakterisierende Prüfkörnung in der Korngröße von null Millimeter bis 22,4 Millimeter mit einem Massenanteil der Kornfraktion kleiner als vier Millimeter von mindestens 45 Masseprozent für den zu untersuchenden mineralischen Ersatzbaustoff herangezogen werden.
-
-(4) Zur Bestimmung der Feststoff- und Eluatkonzentrationen ist die Probenaufbereitung nach der DIN 19747 „Untersuchung von Feststoffen – Probenvorbehandlung, -vorbereitung und -aufarbeitung für chemische, biologische und physikalische Untersuchungen“, Ausgabe Juli 2009, in Verbindung mit der DIN EN 932-2 „Prüfverfahren für allgemeine Eigenschaften von Gesteinskörnungen – Teil 2: Verfahren zum Einengen von Laboratoriumsproben“, Ausgabe März 1999, vorzunehmen. Abweichend von Satz 1 sind zur Bestimmung der Eluatkonzentrationen mineralische Ersatzbaustoffe mit einem Größtkorn von mehr als 32 Millimeter nach der DIN 19528, „Elution von Feststoffen – Perkolationsverfahren zur gemeinsamen Untersuchung des Elutionsverhaltens von anorganischen und organischen Stoffen“, Ausgabe Januar 2009 oder der DIN 19529 „Elution von Feststoffen – Schüttelverfahren zur Untersuchung des Elutionsverhaltens von anorganischen Stoffen und organischen Stoffen mit einem Wasser/Feststoff-Verhältnis von 2 l/kg“, Ausgabe Dezember 2015 aufzubereiten.
 
 ### § 9 — Analytik der Proben
 
@@ -326,7 +256,7 @@ Der Betreiber der Aufbereitungsanlage hat den mineralischen Ersatzbaustoff in ei
 
 ### § 12 — Dokumentation der Güteüberwachung
 
-(1) Der Betreiber der Aufbereitungsanlage hat die Prüfzeugnisse aus der Güteüberwachung nach § 4 Absatz 1 Satz 1, die Probenahmeprotokolle nach § 8 Absatz 1 Satz 2 und die Bewertung der Untersuchungsergebnisse nach § 10 Absatz 1 Satz 1 sowie die Klassifizierung nach § 11 Satz 1 unverzüglich nach Erhalt und fortlaufend zu dokumentieren und ab dem Tag ihrer Ausstellung fünf Jahre aufzubewahren. Das Prüfzeugnis über den Eignungsnachweis nach § 5 Absatz 4 ist abweichend von Satz 1 für die Dauer des Anlagenbetriebs aufzubewahren.
+(1) Der Betreiber der Aufbereitungsanlage hat die Prüfzeugnisse aus der Güteüberwachung nach § 4 Absatz 1 Satz 1, die Probenahmeprotokolle nach § 8 Absatz 1 Satz 2 und die Bewertung der Untersuchungsergebnisse nach § 10 Absatz 1 Satz 1 sowie die Klassifizierung nach § 11 Satz 1 unverzüglich nach Erhalt und fortlaufend zu dokumentieren und ab dem Tag ihrer Ausstellung fünf Jahre aufzubewahren. Das Prüfzeugnis über den Eignungsnachweis nach § 5 Absatz 4 ist abweichend von Satz 1 für die Dauer des Anlagenbetriebs aufzubewahren.
 
 (2) Der Betreiber einer Aufbereitungsanlage hat eine Ausfertigung des Prüfzeugnisses über den Eignungsnachweis gemäß § 5 Absatz 4 der zuständigen Behörde unverzüglich nach Erhalt schriftlich oder elektronisch vorzulegen. Die zuständige Behörde kann die Aufbereitungsanlagen, die über das Prüfzeugnis nach Satz 1 verfügen, auf ihrer Internetseite bekannt geben. Die übrigen Dokumente nach Absatz 1 sind auf Verlangen der zuständigen Behörde vorzulegen.
 
@@ -334,9 +264,9 @@ Der Betreiber der Aufbereitungsanlage hat den mineralischen Ersatzbaustoff in ei
 
 (1) Stellt die Überwachungsstelle im Rahmen der Fremdüberwachung fest, dass die Materialwerte nicht eingehalten werden, wiederholt die Überwachungsstelle unverzüglich die Prüfung. Werden bei der Wiederholungsprüfung erneut Überschreitungen der Materialwerte festgestellt, hat die Überwachungsstelle dem Betreiber der Aufbereitungsanlage eine angemessene Frist zur Behebung der Mängel zu setzen und die zuständige Behörde hierüber schriftlich oder elektronisch zu unterrichten. Nach Ablauf der gesetzten Frist hat die Überwachungsstelle eine erneute Prüfung durchzuführen. Sofern die Materialwerte bei dieser Prüfung überschritten werden, ist die betreffende Charge des mineralischen Ersatzbaustoffs
 
-1.
+1. der nächst höheren Materialklasse zuzuordnen, für die die Materialwerte eingehalten werden, oder
 
-2.
+2. sofern keine Materialklasse in Anlage 1 definiert ist oder eingehalten wird, vorrangig ordnungsgemäß und schadlos zu verwerten oder gemeinwohlverträglich zu beseitigen.
 
 (2) Stellt die Überwachungsstelle im Rahmen der Fremdüberwachung Mängel in der Durchführung oder der Dokumentation der werkseigenen Produktionskontrolle fest, hat die Überwachungsstelle dem Betreiber der Aufbereitungsanlage eine angemessene Frist zur Behebung der Mängel zu setzen. Die Überwachungsstelle hat die zuständige Behörde hierüber schriftlich oder elektronisch zu unterrichten. Nach Ablauf der gesetzten Frist hat die Überwachungsstelle eine erneute Überwachung durchzuführen. Stellt die Überwachungsstelle erneut Mängel fest, so stellt sie die Fremdüberwachung ein und teilt dies schriftlich oder elektronisch unter Angabe der Gründe dem Betreiber der Aufbereitungsanlage und der zuständigen Behörde mit. Der Betreiber der Aufbereitungsanlage darf die mineralischen Ersatzbaustoffe, für die die Fremdüberwachung eingestellt ist, nur mit Zustimmung der zuständigen Behörde zum Zwecke einer ordnungsgemäßen und schadlosen Verwertung oder gemeinwohlverträglichen Beseitigung in Verkehr bringen.
 
@@ -352,9 +282,9 @@ Der Betreiber der Aufbereitungsanlage hat den mineralischen Ersatzbaustoff in ei
 
 (2) Die Anerkennung wird erteilt, wenn nachgewiesen wurde, dass
 
-1.
+1. der Güteüberwachungsgemeinschaft für mineralische Ersatzbaustoffe eine oder mehrere Überwachungsstellen und eine oder mehrere Untersuchungsstellen zugehörig sind und
 
-2.
+2. die Einhaltung der Anforderungen über die Tätigkeit der Güteüberwachungsgemeinschaft für mineralische Ersatzbaustoffe gemäß § 13b sichergestellt ist.
 
 (3) Das Personal der Güteüberwachungsgemeinschaft für mineralische Ersatzbaustoffe darf nicht von Mitgliedsbetrieben abhängig sein. Eine Abhängigkeit besteht, wenn das Personal außerhalb der Belange der Güteüberwachungsgemeinschaft mit einem Mitgliedsbetrieb wirtschaftliche, finanzielle oder persönliche Beziehungen unterhält.
 
@@ -362,29 +292,29 @@ Der Betreiber der Aufbereitungsanlage hat den mineralischen Ersatzbaustoff in ei
 
 (5) Die Anerkennung der Güteüberwachungsgemeinschaft für mineralische Ersatzbaustoffe kann widerrufen werden, wenn
 
-1.
+1. mit der Anerkennung eine Bedingung oder Auflage verbunden ist und die Güteüberwachungsgemeinschaft diese Bedingung oder Auflage nicht oder nicht innerhalb einer ihr gesetzten Frist erfüllt hat oder
 
-2.
+2. die Anerkennungsbehörde auf Grund nachträglich eingetretener Tatsachen berechtigt wäre, die Anerkennung nicht zu erteilen.
 
 ### § 13b — Tätigkeit der Güteüberwachungsgemeinschaft, Organisation und Betrieb
 
 (1) Die Güteüberwachungsgemeinschaft für mineralische Ersatzbaustoffe gibt sich eine Satzung oder sonstige Regelung. Die Satzung oder sonstige Regelung bedarf der Schriftform. Die Güteüberwachungsgemeinschaft wird folgendermaßen tätig:
 
-1.
+1. Die Güteüberwachungsgemeinschaft für mineralische Ersatzbaustoffe hat ergänzend zum Eignungsnachweis durch die Überwachungsstelle nach § 5 eine Vorprüfung des Betriebes der Aufbereitungsanlage vor Aufnahme in die Güteüberwachungsgemeinschaft durchzuführen, die insbesondere aus einer Vor-Ort-Begehung der Aufbereitungsanlage, aus der Feststellung der zu überwachenden mineralischen Ersatzbaustoffe und der Bestimmung ihrer Materialklasse besteht.
 
-2.
+2. Die Güteüberwachungsgemeinschaft für mineralische Ersatzbaustoffe nimmt den Betreiber einer Aufbereitungsanlage nur dann als Mitglied auf, wenn die Vorprüfung ergibt, dass die Voraussetzungen vorliegen, um die in den §§ 3 bis 13 dieser Verordnung festgelegten Anforderungen an die Herstellung mineralischer Ersatzbaustoffe erfüllen zu können.
 
-3.
+3. Die Güteüberwachungsgemeinschaft für mineralische Ersatzbaustoffe konkretisiert für ihre Mitglieder die Anforderungen an ein betriebliches System der werkseigenen Produktionskontrolle, das gemäß dieser Verordnung vom Betreiber einer Aufbereitungsanlage auf der Grundlage des Anhangs A der TL SoB-StB 20, Ausgabe 2020 (FGSV) innerhalb von sechs Monaten ab Aufnahme des Mitglieds in die Güteüberwachungsgemeinschaft einzuführen und aufrecht zu erhalten ist. Die konkretisierten Anforderungen sind für die Mitglieder der Güteüberwachungsgemeinschaft für mineralische Ersatzbaustoffe verbindlich. Die der Güteüberwachungsgemeinschaft für mineralische Ersatzbaustoffe zugehörige Überwachungsstelle oder die zugehörigen Überwachungsstellen überprüfen die Einhaltung dieser Vorgaben durch den Anlagenbetreiber im Rahmen der Fremdüberwachung.
 
-4.
+4. Die Güteüberwachungsgemeinschaft für mineralische Ersatzbaustoffe überprüft die Zuverlässigkeit des Betreibers. Für die Anforderungen an die Zuverlässigkeit gilt § 8 Absatz 1 und 2 der Entsorgungsfachbetriebeverordnung vom 2. Dezember 2016 (BGBl. I S. 2770), die zuletzt durch Artikel 2 des Gesetzes vom 8. Dezember 2022 (BGBl. I S. 2240) geändert worden ist, entsprechend.
 
-5.
+5. Die Güteüberwachungsgemeinschaft für mineralische Ersatzbaustoffe überprüft die Fachkunde des Betreibers. Für die Anforderungen an die Fachkunde gilt § 9 Absatz 1 Satz 1 und 2 Nummer 1 und 2 sowie Absatz 2 der Entsorgungsfachbetriebeverordnung entsprechend.
 
-6.
+6. Die Mitglieder einer Güteüberwachungsgemeinschaft für mineralische Ersatzbaustoffe haben sich für die in Anlage 4 Tabelle 1 genannten Teilschritte der Güteüberwachung und für die Untersuchungsverfahren einer der Güteüberwachungsgemeinschaft zugehörigen Überwachungsstelle und einer der Güteüberwachungsgemeinschaft für mineralische Ersatzbaustoffe zugehörigen Untersuchungsstelle zu bedienen. Die Überwachungsstelle legt das Prüfzeugnis des Eignungsnachweises nach § 5 Absatz 4 und der Fremdüberwachung nach § 7 Absatz 4 der Güteüberwachungsgemeinschaft für mineralische Ersatzbaustoffe vor. Die Pflichten nach § 12 bleiben unberührt. Die Überwachungsstelle informiert die Güteüberwachungsgemeinschaft für mineralische Ersatzbaustoffe auch im Falle von § 13 Absatz 1 Satz 4 bei der erneuten Überschreitung von Materialwerten sowie im Falle von § 13 Absatz 2 Satz 4 bei Einstellung der Fremdüberwachung aufgrund der erneuten Feststellung von Mängeln in der Durchführung oder Dokumentation der werkseigenen Produktionskontrolle. Die Pflichten zur Information der zuständigen Behörde nach § 13 Absatz 1 Satz 2 und Absatz 2 Satz 2 und 4 bleiben unberührt.
 
-7.
+7. Die Güteüberwachungsgemeinschaft für mineralische Ersatzbaustoffe hält ein jederzeit zugängliches elektronisches System vor, das ihr zum Nachweis, zur Sammlung und zur Auswertung der Ergebnisse aus den Prüfungen der Material- und Überwachungswerte dient, die im Rahmen sowohl des Eignungsnachweises als auch der werkseigenen Produktionskontrolle und der Fremdüberwachung erzielt werden.
 
-8.
+8. Die Güteüberwachungsgemeinschaft für mineralische Ersatzbaustoffe informiert ihre Mitgliedsbetriebe in regelmäßigen Abständen über ihre Pflichten nach den §§ 3 bis 13 dieser Verordnung, zur Umsetzung des betrieblichen Systems zur Durchführung der werkseigenen Produktionskontrolle gemäß Nummer 3 sowie zur Nutzung des von ihr bereitgestellten elektronischen Systems gemäß Nummer 7.
 
 (2) Die Mitgliedschaft in einer Güteüberwachungsgemeinschaft für mineralische Ersatzbaustoffe darf nicht von der Zugehörigkeit zu einem Verband oder einer sonstigen Organisation abhängig gemacht werden.
 
@@ -426,7 +356,7 @@ Die Materialwerte nach Anlage 1 Tabelle 3 und 4 mit Ausnahme der Materialwerte �
 
 (2) Der Betreiber eines Zwischenlagers ist verpflichtet, eine Annahmekontrolle entsprechend § 3 durchzuführen, mit der Maßgabe, dass die Eluat- und Feststoffwerte für Bodenmaterial anzuwenden sind.
 
-(3) Der Betreiber eines Zwischenlagers hat Bodenmaterial oder Baggergut, das in Verkehr gebracht werden soll, von einer Untersuchungsstelle untersuchen zu lassen. Hierbei gelten für die Pflichten und Anforderungen an die Probenahme und Untersuchung § 8 Absatz 1 Satz 1 bis 6 und Satz 8 und 9, § 8 Absatz 4 und § 9 Absatz 1 und 3 bis 5, an die Bewertung der Untersuchungsergebnisse, an die Klassifizierung sowie an die Dokumentation § 14 Absatz 1, §§ 15, 16 Absatz 1 und § 17 entsprechend. Die Menge des jeweils auf Grundlage einer Untersuchung in Verkehr gebrachten Bodenmaterials oder Baggerguts darf 3 000 Kubikmeter nicht überschreiten.
+(3) Der Betreiber eines Zwischenlagers hat Bodenmaterial oder Baggergut, das in Verkehr gebracht werden soll, von einer Untersuchungsstelle untersuchen zu lassen. Hierbei gelten für die Pflichten und Anforderungen an die Probenahme und Untersuchung § 8 Absatz 1 Satz 1 bis 6 und Satz 8 und 9, § 8 Absatz 4 und § 9 Absatz 1 und 3 bis 5, an die Bewertung der Untersuchungsergebnisse, an die Klassifizierung sowie an die Dokumentation § 14 Absatz 1, §§ 15, 16 Absatz 1 und § 17 entsprechend. Die Menge des jeweils auf Grundlage einer Untersuchung in Verkehr gebrachten Bodenmaterials oder Baggerguts darf 3 000 Kubikmeter nicht überschreiten.
 
 ## Abschnitt 4: Einbau von mineralischen Ersatzbaustoffen
 
@@ -436,31 +366,31 @@ Die Materialwerte nach Anlage 1 Tabelle 3 und 4 mit Ausnahme der Materialwerte �
 
 (2) Bei mineralischen Ersatzbaustoffen sind nachteilige Veränderungen der Grundwasserbeschaffenheit und schädliche Bodenveränderungen nicht zu besorgen, wenn die einzubauenden mineralischen Ersatzbaustoffe die Anforderungen nach Abschnitt 3 Unterabschnitt 1 oder 3 einhalten und
 
-1.
+1. der Einbau der mineralischen Ersatzbaustoffe nur in den für sie jeweils zulässigen Einbauweisen nach Anlage 2 oder 3 erfolgt oder
 
-2.
+2. Bodenmaterial der Klasse 0 – BM-0 – oder Baggergut der Klasse 0 – BG-0 – eingebaut wird.
 
 (3) Bei Gemischen sind nachteilige Veränderungen der Grundwasserbeschaffenheit und schädliche Bodenveränderungen nicht zu besorgen, wenn
 
-1.
+1. alle im Gemisch enthaltenen mineralischen Ersatzbaustoffe jeweils die Anforderungen nach Abschnitt 3 Unterabschnitt 1 oder 3 einhalten und
 
-2.
+2. unbeschadet des Absatzes 2 Nummer 2 der Einbau nur in einer Einbauweise erfolgt, die für jeden einzelnen mineralischen Ersatzbaustoff nach Anlage 2 oder 3 zulässig ist.
 
 (4) Der Einbau von mineralischen Ersatzbaustoffen oder Gemischen in technische Bauwerke darf nur in dem für den jeweiligen bautechnischen Zweck erforderlichen Umfang erfolgen.
 
 (5) Gemische dürfen nur zur Verbesserung der bautechnischen Eigenschaften hergestellt werden.
 
-(6) In Wasserschutzgebieten der Zone I sowie in Heilquellenschutzgebieten der Zone I ist der Einbau von mineralischen Ersatzbaustoffen oder Gemischen in technische Bauwerke unzulässig. In Wasserschutzgebieten der Zone II sowie in Heilquellenschutzgebieten der Zone II dürfen nur die nachstehenden mineralischen Ersatzbaustoffe in technische Bauwerke eingebaut werden: Ist in einem Wasserschutzgebiet keine Zone II ausgewiesen, gelten in einem Radius von 1 000 Metern um die Wasserfassung die Regelungen des Satzes 2. Der Einbau von mineralischen Ersatzbaustoffen in Wasserschutzgebieten der Zone III A und Zone III B, in Heilquellenschutzgebieten der Zone III und Zone IV sowie in Wasservorranggebieten darf nur in der jeweils zulässigen Einbauweise nach den Anlagen 2 und 3 erfolgen. Ist in einem Wasserschutzgebiet nur eine Zone III ausgewiesen, sind die Regelungen der Zone III A anzuwenden. Regelungen aufgrund der §§ 51 bis 53 des Wasserhaushaltsgesetzes haben Vorrang. Sofern Regelungen nach Satz 6 keine Bestimmungen zu mineralischen Ersatzbaustoffen im Sinne von § 2 Absatz 1 enthalten, sind die Regelungen dieser Verordnung anzuwenden.
+(6) In Wasserschutzgebieten der Zone I sowie in Heilquellenschutzgebieten der Zone I ist der Einbau von mineralischen Ersatzbaustoffen oder Gemischen in technische Bauwerke unzulässig. In Wasserschutzgebieten der Zone II sowie in Heilquellenschutzgebieten der Zone II dürfen nur die nachstehenden mineralischen Ersatzbaustoffe in technische Bauwerke eingebaut werden:
 
-1.
+1. Bodenmaterial der Klasse 0 – BM-0 –,
 
-2.
+2. Baggergut der Klasse 0 – BG-0 –,
 
-3.
+3. Schmelzkammergranulat – SKG –,
 
-4.
+4. Gleisschotter der Klasse 0 – GS-0 – sowie
 
-5.
+5. Gemische mit den unter Nummer 1 bis 4 genannten mineralischen Ersatzbaustoffen.
 
 (7) Sofern nach Landesrecht besonders empfindliche Gebiete, wie insbesondere Karstgebiete oder Gebiete mit stark klüftigem, besonders wasserwegsamen Untergrund, per Rechtsverordnung ausgewiesen sind, ist in diesen Gebieten der Einbau von Recycling-Baustoff der Klasse 3 – RC-3, Bodenmaterial der Klasse F3 – BM-F3, Baggergut der Klasse F 3 – BG-F3 und Gleisschotter der Klasse 3 – GS-3 oder Gemischen, die diese Ersatzbaustoffe enthalten, in technische Bauwerke unzulässig.
 
@@ -470,35 +400,11 @@ Die Materialwerte nach Anlage 1 Tabelle 3 und 4 mit Ausnahme der Materialwerte �
 
 ### § 20 — Zusätzliche Einbaubeschränkungen bei bestimmten Schlacken und Aschen
 
-(1) Die nachstehend genannten mineralischen Ersatzbaustoffe dürfen in technischen Bauwerken nur in Mindesteinbaumengen verwendet werden. Einzuhalten ist eine Mindesteinbaumenge Sind diese mineralischen Ersatzbaustoffe Teil eines Gemisches, ist für jeden mineralischen Ersatzbaustoff die jeweilige Mindesteinbaumenge einzuhalten.
+(1) Die nachstehend genannten mineralischen Ersatzbaustoffe dürfen in technischen Bauwerken nur in Mindesteinbaumengen verwendet werden. Einzuhalten ist eine Mindesteinbaumenge
 
-1.
+1. von mindestens 250 Kubikmetern für a)Hausmüllverbrennungsasche der Klasse 2 – HMVA-2,b)Stahlwerksschlacke der Klasse 2 – SWS-2,c)Kupferhüttenmaterial der Klasse 2 – CUM-2, Hausmüllverbrennungsasche der Klasse 2 – HMVA-2, Stahlwerksschlacke der Klasse 2 – SWS-2, Kupferhüttenmaterial der Klasse 2 – CUM-2,
 
-a)
-
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
+2. von mindestens 50 Kubikmetern für a)Braunkohlenflugasche – BFA,b)Steinkohlenkesselasche – SKA,c)Steinkohlenflugasche – SFA,d)Hausmüllverbrennungsasche der Klasse 1 – HMVA-1,e)Stahlwerksschlacke der Klasse 1 – SWS-1,f)Hochofenstückschlacke der Klasse 2 – HOS-2,g)Kupferhüttenmaterial der Klasse 1 – CUM-1,h)Gießereirestsand – GRS sowiei)Gießerei-Kupolofenschlacke – GKOS. Braunkohlenflugasche – BFA, Steinkohlenkesselasche – SKA, Steinkohlenflugasche – SFA, Hausmüllverbrennungsasche der Klasse 1 – HMVA-1, Stahlwerksschlacke der Klasse 1 – SWS-1, Hochofenstückschlacke der Klasse 2 – HOS-2, Kupferhüttenmaterial der Klasse 1 – CUM-1, Gießereirestsand – GRS sowie Gießerei-Kupolofenschlacke – GKOS.
 
 (2) Die in Absatz 1 festgelegten Mindesteinbaumengen gelten nicht für Instandsetzungs- oder Ergänzungsmaßnahmen an technischen Bauwerken, wenn der jeweilige mineralische Ersatzbaustoff am Einbauort bereits verwendet wurde.
 
@@ -518,35 +424,35 @@ i)
 
 (1) Der Einbau der in § 20 Absatz 1 genannten mineralischen Ersatzbaustoffe oder ihrer Gemische ist der zuständigen Behörde vom Verwender vier Wochen vor Beginn des Einbaus schriftlich oder elektronisch anzuzeigen, wenn das vorgesehene Gesamtvolumen der in § 20 Absatz 1 genannten mineralischen Ersatzbaustoffe mindestens 250 Kubikmeter beträgt. Die Anzeige hat nach dem Muster in Anlage 8 – Voranzeige – zu erfolgen. Satz 1 gilt entsprechend, wenn das Gesamtvolumen von mindestens 250 Kubikmeter bei der Verwendung folgender mineralischer Ersatzbaustoffe erreicht wird:
 
-1.
+1. Baggergut der Klasse F3 – BG-F3,
 
-2.
+2. Bodenmaterial der Klasse F3 – BM-F3,
 
-3.
+3. Recycling-Baustoff der Klasse 3 – RC-3.
 
 (2) Der Einbau von mineralischen Ersatzbaustoffen und ihrer Gemische, mit Ausnahme der in § 19 Absatz 6 Nummer 1 bis 5 genannten Stoffe, in festgesetzten Wasserschutzgebieten und Heilquellenschutzgebieten ist der zuständigen Behörde vom Verwender vier Wochen vor Beginn des Einbaus schriftlich oder elektronisch anzuzeigen. Die Anzeige hat nach dem Muster in Anlage 8 zu erfolgen. Regelungen aufgrund der §§ 51 bis 53 des Wasserhaushaltsgesetzes haben Vorrang.
 
-(3) In der Voranzeige sind folgende Angaben zu machen: Der Voranzeige sind geeignete Nachweise über die Angaben nach Satz 1 Nummer 7 bis 9 beizufügen.
+(3) In der Voranzeige sind folgende Angaben zu machen:
 
-1.
+1. die Bezeichnung und Lage der Baumaßnahme,
 
-2.
+2. den Verwender, sofern dieser nicht selbst Bauherr ist,
 
-3.
+3. den Bauherrn,
 
-4.
+4. die Bezeichnung des mineralischen Ersatzbaustoffs sowie der Materialklasse und bei Gemischen die Benennung der einzelnen in dem Gemisch enthaltenen mineralischen Ersatzbaustoffe sowie deren Materialklassen,
 
-5.
+5. Masse und Volumen des einzubauenden mineralischen Ersatzbaustoffes oder der in einem Gemisch enthaltenen mineralischen Ersatzbaustoffe,
 
-6.
+6. Nummer und Bezeichnung der Einbauweise nach Anlage 2 oder 3 und bei den Einbauweisen 9, 10 und 16 der Anlage 2 die Beschreibung der geplanten Deckschichten oder technischen Sicherungsmaßnahmen,
 
-7.
+7. Angaben zu dem höchsten zu erwartenden Grundwasserstand,
 
-8.
+8. Mächtigkeit und Bodenart der Grundwasserdeckschicht,
 
-9.
+9. Lage der Baumaßnahme im Hinblick auf Wasserschutz-, Heilquellenschutz- oder Wasservorranggebiete nach den Spalten 4 bis 6 der Anlage 2 oder 3 und
 
-10.
+10. Lageskizze des geplanten Einbauortes.
 
 (4) Für mineralische Ersatzbaustoffe, die nach Absatz 1 oder 2 einer Voranzeige bedürfen, ermittelt der Verwender innerhalb von zwei Wochen nach Abschluss der Baumaßnahme anhand der zusammengefassten Lieferscheine nach § 25 Absatz 1 die tatsächlich eingebauten Mengen und Materialklassen der verwendeten mineralischen Ersatzbaustoffe und übermittelt die Angaben nach dem Muster in Anlage 8 – Abschlussanzeige – unverzüglich schriftlich oder elektronisch an die zuständige Behörde.
 
@@ -570,13 +476,13 @@ Die Verwendung anzeigepflichtiger mineralischer Ersatzbaustoffe wird von der zus
 
 (4) Die Pflichten nach Absatz 1 Satz 1 entfallen, soweit die getrennte Sammlung der jeweiligen Abfallfraktion technisch nicht möglich oder wirtschaftlich nicht zumutbar ist. Technisch nicht möglich ist die getrennte Sammlung insbesondere dann, wenn für eine Aufstellung der Abfallbehälter für die getrennte Sammlung nicht genug Platz zur Verfügung steht. Die getrennte Sammlung der in Absatz 1 Satz 1 genannten Abfallfraktionen ist dann wirtschaftlich nicht zumutbar, wenn die Kosten für die getrennte Sammlung, insbesondere auf Grund einer hohen Verschmutzung oder einer sehr geringen Menge der jeweiligen Abfallfraktion, außer Verhältnis zu den Kosten für eine gemischte Sammlung stehen. Kosten, die durch technisch mögliche und wirtschaftlich zumutbare Maßnahmen des selektiven Rückbaus hätten vermieden werden können, sind bei der Prüfung der wirtschaftlichen Zumutbarkeit nicht zu berücksichtigen.
 
-(5) Die Erzeuger und Besitzer haben die Erfüllung der Pflichten nach Absatz 1 oder, im Falle der Abweichung von diesen Pflichten, das Vorliegen der Voraussetzungen nach Absatz 4 zu dokumentieren. Die Dokumentation ist wie folgt vorzunehmen: Die Dokumentation ist für einen Zeitraum von fünf Jahren aufzubewahren und auf Verlangen der zuständigen Behörde vorzulegen. Die Pflichten nach den Sätzen 1 bis 3 gelten nicht für Bau- und Abbruchmaßnahmen, bei denen das Volumen der insgesamt anfallenden Abfälle 50 Kubikmeter nicht überschreitet.
+(5) Die Erzeuger und Besitzer haben die Erfüllung der Pflichten nach Absatz 1 oder, im Falle der Abweichung von diesen Pflichten, das Vorliegen der Voraussetzungen nach Absatz 4 zu dokumentieren. Die Dokumentation ist wie folgt vorzunehmen:
 
-1.
+1. für die getrennte Sammlung durch Lagepläne, Lichtbilder, Praxisbelege, wie Liefer- oder Wiegescheine oder ähnliche Dokumente;
 
-2.
+2. für die Zuführung sowohl der getrennt als auch der gemischt erfassten Abfälle zur Vorbereitung zur Wiederverwendung oder zur Aufbereitung durch eine Erklärung desjenigen, der die Abfälle übernimmt, wobei die Erklärung dessen Namen und Anschrift sowie die Masse und den beabsichtigten Verbleib des Abfalls zu enthalten hat;
 
-3.
+3. für das Abweichen von der Pflicht zur getrennten Sammlung durch eine Darlegung der technischen Unmöglichkeit oder der wirtschaftlichen Unzumutbarkeit.
 
 ## Abschnitt 6: Gemeinsame Bestimmungen
 
@@ -584,41 +490,41 @@ Die Verwendung anzeigepflichtiger mineralischer Ersatzbaustoffe wird von der zus
 
 (1) Der Verbleib eines mineralischen Ersatzbaustoffs oder eines Gemisches ist vom erstmaligen Inverkehrbringen bis zum Einbau in ein technisches Bauwerk vom Inverkehrbringer und Verwender zu dokumentieren. Hierzu hat der Betreiber der Aufbereitungsanlage oder derjenige, der nicht aufbereitetes Bodenmaterial oder nicht aufbereitetes Baggergut in Verkehr bringt, spätestens bei der Anlieferung einen Lieferschein nach dem Muster in Anlage 7 auszustellen, der folgende Angaben enthalten muss:
 
-1.
+1. den Inverkehrbringer,
 
-2.
+2. Bezeichnung des mineralischen Ersatzbaustoffs sowie der Materialklasse und bei Gemischen die Benennung der einzelnen in dem Gemisch enthaltenen mineralischen Ersatzbaustoffe sowie deren Materialklassen,
 
-3.
+3. bei Abfällen die Abfallschlüssel gemäß Abfallverzeichnisverordnung,
 
-4.
+4. die Überwachungsstelle oder Untersuchungsstelle,
 
-5.
+5. Angaben über die Einhaltung von in den Fußnoten der jeweiligen Einbautabelle für bestimmte Einbauweisen nach Anlage 2 oder 3 genannten Anforderungen,
 
-6.
+6. die Liefermenge in Tonnen und Abgabedatum,
 
-7.
+7. die Lieferkörnung oder Bodengruppe und
 
-8.
+8. den Beförderer.
 
 (2) Der Betreiber der Aufbereitungsanlage oder derjenige, der nicht aufbereitetes Bodenmaterial oder nicht aufbereitetes Baggergut in Verkehr bringt, hat den ausgefüllten Lieferschein zu unterschreiben und dem Beförderer zu übergeben. Der Beförderer hat den ausgefüllten und unterschriebenen Lieferschein dem Verwender zu übergeben.
 
-(3) Der Verwender hat die im Rahmen einer Baumaßnahme erhaltenen Lieferscheine unverzüglich nach Erhalt zusammenzufügen und mit einem Deckblatt nach dem Muster in Anlage 8 zu dokumentieren. Das Deckblatt hat folgende Angaben zu enthalten: Der Lieferschein kann für Bodenmaterial der Klasse 0 – BM-0, Bodenmaterial der Klasse 0* – BM-0*, Bodenmaterial der Klasse F0* – BM-F0*, Baggergut der Klasse 0 – BG-0, Baggergut der Klasse 0* – BG-0*, Baggergut der Klasse F0* – BG-F0*, Gleisschotter der Klasse 0 – GS-0 und Schmelzkammergranulat – SKG entfallen, wenn die Gesamtmenge des Einbaus in ein technisches Bauwerk 200 Tonnen nicht überschreitet. Der Verwender hat das Deckblatt unverzüglich nach Abschluss der Einbaumaßnahme zu unterschreiben und, sofern er nicht selbst Bauherr ist, dieses zusammen mit den Lieferscheinen dem Bauherrn zu übergeben. Der Bauherr hat, sofern er nicht selbst Grundstückseigentümer ist, das Deckblatt und die Lieferscheine unverzüglich nach Abschluss der gesamten Baumaßnahme dem Grundstückseigentümer zu übergeben. Sofern es sich bei der Baumaßnahme um eine Errichtung, Erweiterung oder Instandhaltung einer Kritischen Infrastruktur, insbesondere um die Verlegung eines Erdkabels handelt, gilt Satz 5 mit der Maßgabe, dass das Deckblatt und die Lieferscheine dem Betreiber der Kritischen Infrastruktur zu übergeben sind.
+(3) Der Verwender hat die im Rahmen einer Baumaßnahme erhaltenen Lieferscheine unverzüglich nach Erhalt zusammenzufügen und mit einem Deckblatt nach dem Muster in Anlage 8 zu dokumentieren. Das Deckblatt hat folgende Angaben zu enthalten:
 
-1.
+1. den Verwender,
 
-2.
+2. den Bauherrn, sofern dieser nicht selbst Verwender ist,
 
-3.
+3. das Datum der Anlieferungen,
 
-4.
+4. die Lageskizze des Einbauortes, Baumaßnahme,
 
-5.
+5. die Bezeichnung der Einbauweisen nach Anlage 2 oder 3 unter Angabe der jeweiligen Nummer,
 
-6.
+6. die Bodenart der Grundwasserdeckschicht wie „Sand“ oder „Lehm, Schluff oder Ton“,
 
-7.
+7. Angaben zu dem höchsten zu erwartenden Grundwasserstand im Hinblick auf die Eigenschaft „günstig“ oder „ungünstig“ nach Anlage 2 oder 3 und
 
-8.
+8. die Lage der Baumaßnahme im Hinblick auf Wasserschutzgebiete, Heilquellenschutzgebiete oder Wasservorranggebiete nach den Spalten 4 bis 6 der Anlage 2 oder 3.
 
 (4) Der Betreiber der Aufbereitungsanlage oder derjenige, der nicht aufbereitetes Bodenmaterial oder nicht aufbereitetes Baggergut in Verkehr bringt, hat den Lieferschein als Durchschrift oder Kopie ab dem Zeitpunkt der Ausstellung fünf Jahre lang aufzubewahren. Der Grundstückseigentümer hat das Deckblatt und die Lieferscheine ab Erhalt so lange aufzubewahren, wie der jeweilige Ersatzbaustoff eingebaut ist. Absatz 3 Satz 6 gilt entsprechend. Diese Unterlagen sind der zuständigen Behörde auf deren Verlangen vorzulegen.
 
@@ -626,31 +532,31 @@ Die Verwendung anzeigepflichtiger mineralischer Ersatzbaustoffe wird von der zus
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 5 Absatz 5 einen mineralischen Ersatzbaustoff in Verkehr bringt,
 
-2.
+2. entgegen § 6 Absatz 2 Satz 1 oder § 7 Absatz 1 Satz 1 eine Überwachung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig durchführt oder nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig durchführen lässt,
 
-3.
+3. entgegen § 11 Satz 1 oder § 16 Absatz 1 Satz 1, auch in Verbindung mit Satz 3, eine Einteilung nicht richtig vornimmt,
 
-3a.
+3a. ohne Anerkennung nach § 13a Absatz 1 Satz 1 eine Güteüberwachungsgemeinschaft betreibt,
 
-3b.
+3b. einer vollziehbaren Auflage nach § 13a Absatz 4 zuwiderhandelt,
 
-4.
+4. entgegen § 22 Absatz 1 Satz 1, auch in Verbindung mit Satz 3, oder § 22 Absatz 2 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet oder
 
-5.
+5. entgegen § 24 Absatz 1 Satz 1 dort genannte Abfälle nicht richtig sammelt oder nicht richtig befördert.
 
 (2) Ordnungswidrig im Sinne des § 69 Absatz 2 Nummer 15 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 3 Absatz 1 Satz 1 eine Annahmekontrolle nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig durchführt oder eine Dokumentation nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt,
 
-2.
+2. entgegen § 3 Absatz 1 Satz 5 ein Untersuchungsergebnis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
-3.
+3. entgegen § 12 Absatz 1 Satz 1, § 17 Absatz 1 oder 2 oder § 25 Absatz 1 Satz 1 eine Dokumentation nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt, oder
 
-3a.
+3a. entgegen § 13b Absatz 3 Satz 2 eine Aufbereitungsanlage nicht oder nicht rechtzeitig von der Internetseite löscht, oder
 
-4.
+4. entgegen § 14 Absatz 1 Satz 1 eine dort genannte Untersuchung nicht, nicht richtig oder nicht rechtzeitig durchführen lässt.
 
 (3) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 1 des Bundes-Bodenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 19 Absatz 1 oder 6 Satz 1 oder 2 oder § 20 Absatz 1 Satz 1 einen mineralischen Ersatzbaustoff einbaut oder verwendet.
 
@@ -662,39 +568,21 @@ Die Verwendung anzeigepflichtiger mineralischer Ersatzbaustoffe wird von der zus
 
 (3) Diese Verordnung findet keine Anwendung auf den Einbau von nicht aufbereitetem Bodenmaterial oder nicht aufbereitetem Baggergut in ein technisches Bauwerk, soweit
 
-1.
+1. der Einbau auf der Grundlage einer Zulassung erfolgt, die vor dem 16. Juli 2021 erteilt wurde und die Anforderungen an den Einbau festlegt, oder
 
-2.
+2. der Einbau im Rahmen eines UVP-pflichtigen Vorhabens erfolgt, bei dem der Träger des Vorhabens die Unterlagen nach § 5 Absatz 1 des Gesetzes über die Umweltverträglichkeitsprüfung oder entsprechenden Vorschriften des Landesrechts der zuständigen Behörde vor dem 16. Juli 2021 vorgelegt hat und diese Unterlagen Anforderungen an den Einbau vorsahen.
 
 (4) Solange keine Möglichkeit besteht, ein elektronisches Kataster zu führen, ist die zuständige Behörde verpflichtet, die angezeigten Verwendungen mineralischer Ersatzbaustoffe aufzubewahren.
 
 ### Anlage 1 — (zu § 2 Nummer 11 und 13, § 3 Absatz 1 Satz 3 Nummer 1 und 2 und Absatz 2 und 3,
 
-Tabelle 1:
-
 Materialwerte für geregelte Ersatzbaustoffe ohne Gleisschotter, Bodenmaterial und Baggergut
-
-Fortsetzung Tabelle 1:
-
-Tabelle 2:
-
-Materialwerte für Gleisschotter
-
-Tabelle 3:
-
-Materialwerte für Bodenmaterial und Baggergut
-
-Tabelle 4:
-
-Zusätzliche Materialwerte für spezifische Belastungsparameter von Bodenmaterial und Baggergut. Zusätzliche Materialwerte für nicht aufbereiteten Bauschutt (zu § 3 Absatz 1 Satz 3 Nummer 1, bei Hinweisen auf diese Schadstoffe anzuwenden).
 
 ### Anlage 2 — (zu § 1 Absatz 2 Nummer 3, § 2 Nummer 3 und 16,
 
 Erläuterungen
 
 In den Einbautabellen werden die Konfigurationen der Grundwasserdeckschichten unterschieden in „ungünstig“, „günstig – Sand“ und „günstig – Lehm, Schluff, Ton“.
-
-Die Konfigurationen der natürlich vorliegenden oder herzustellenden Grundwasserdeckschichten werden wie folgt festgelegt: Innerhalb von Wasserschutzbereichen sind die Einsatzmöglichkeiten von mineralischen Ersatzbaustoffen auf günstige Eigenschaften der Grundwasserdeckschichten (Sand oder Lehm, Schluff, Ton, grundwasserfreie Sickerstrecke > 1 Meter) beschränkt.
 
 Bei der Beurteilung der Zulässigkeit von mineralischen Ersatzbaustoffen bei nicht gedeckten Baustraßen in Verfüllungen sowie bei der Böschungsstabilisierung ist § 8 Absatz 6 Bundes-Bodenschutz- und Altlastenverordnung zu beachten.
 
@@ -704,33 +592,9 @@ Bei allen Einbauweisen der Tabellen ist berücksichtigt, dass bei Straßen im Ba
 
 Eintragungen oder Bezeichnungen in den Tabellen:
 
-gebundene Deckschicht: wasserundurchlässige Schicht oder Bauweise mit „Zusätzliche Technische Vertragsbedingungen und Richtlinien für den Bau von Verkehrsflächenbefestigungen aus Asphalt“ – ZTV Asphalt-StB – (FGSV, Ausgabe 2007, Fassung 2013) oder „Zusätzliche Technische Vertragsbedingungen und Richtlinien für den Bau von Tragschichten mit hydraulischen Bindemitteln und Fahrbahndecken aus Beton“ – ZTV Beton-StB – (FGSV, Ausgabe 2007) oder in vergleichbarer Ausführung oder „Zusätzliche Technische Vertragsbedingungen und Richtlinien für Fugen in Verkehrsflächen“ – ZTV Fug-StB – (FGSV, Ausgabe 2015)Werden bestimmte Einbauweisen mit mehreren Buchstaben gekennzeichnet, so gelten die Anforderungen kumulativ.Die Bauweisen A – D und die Bauweise E beziehen sich auf das „Merkblatt über Bauweisen für technische Sicherungsmaßnahmen beim Einsatz von Böden und Baustoffen mit umweltrelevanten Inhaltsstoffen im Erdbau“ – MTSE (FGSV, Ausgabe 2017).
+gebundene Deckschicht: wasserundurchlässige Schicht oder Bauweise mit
 
-a)
-
-b)
-
-c)
-
-ToB
-
-K
-
-M
-
-/
-
-+
-
-–
-
-WSG III A
-
-WSG III B
-
-HSG III
-
-HSG IV
+a) Asphalt nach den Anforderungen
 
 Fußnotenregelungen
 
@@ -738,65 +602,9 @@ Mit Fußnoten werden zusätzlich zu den Materialwerten der Anlage 1 einzelne Kon
 
 Einzelne Fußnoten bezeichnen Einschränkungen der Einsatzmöglichkeiten.
 
-Tabelle 1: Recycling-Baustoff der Klasse 1 (RC-1)
-
-Tabelle 2: Recycling-Baustoff der Klasse 2 (RC-2)
-
-Tabelle 3: Recycling Baustoff der Klasse 3 (RC-3)
-
-Tabelle 4: Ziegelmaterial (ZM)
-
-Tabelle 5: Bodenmaterial der Klassen 0* (BM-0*), F0* (BM-F0*) Baggergut der Klassen 0* (BG-0*),
-
-Tabelle 6: Bodenmaterial der Klasse F1 (BM-F1), Baggergut der Klasse F1 (BG-F1)
-
-Tabelle 7: Bodenmaterial der Klasse F2 (BM-F2), Baggergut der Klasse F2 (BG-F2)
-
-Tabelle 8: Bodenmaterial der Klasse F3 (BM-F3), Baggergut der Klasse F3 (BG-3)
-
-Tabelle 9: Gleisschotter der Klasse 0 (GS-0)
-
-Tabelle 10: Gleisschotter der Klasse 1 (GS-1)
-
-Tabelle 11: Gleisschotter der Klasse 2 (GS-2)
-
-Tabelle 12: Gleisschotter der Klasse 3 (GS-3)
-
-Tabelle 13: Hochofenstückschlacke der Klasse 1 (HOS-1)
-
-Tabelle 14: Hochofenstückschlacke der Klasse 2 (HOS-2)
-
-Tabelle 15: Hüttensand (HS)
-
-Tabelle 16: Stahlwerksschlacke der Klasse 1 (SWS-1)
-
-Tabelle 17: Stahlwerksschlacke der Klasse 2 (SWS-2)
-
-Tabelle 18: Gießerei-Kupolofenschlacke (GKOS)
-
-Tabelle 19: Kupferhüttenmaterial der Klasse 1 (CUM-1)
-
-Tabelle 20: Kupferhüttenmaterial der Klasse 2 (CUM-2)
-
-Tabelle 21: Gießereirestsand (GRS)
-
-Tabelle 22: Schmelzkammergranulat aus der Feuerung von Steinkohle (SKG)
-
-Tabelle 23: Steinkohlenkesselasche (SKA)
-
-Tabelle 24: Steinkohlenflugasche (SFA)
-
-Tabelle 25: Braunkohlenflugasche (BFA)
-
-Tabelle 26: Hausmüllverbrennungsasche der Klasse 1 (HMVA-1)
-
-Tabelle 27: Hausmüllverbrennungsasche der Klasse 2 (HMVA-2)
-
 ### Anlage 3 — (zu § 2 Nummer 3 und 16, § 4 Absatz 3,
 
 Erläuterungen
-
-Die in diesem Anhang bezeichneten Bahnbauweisen beziehen sich auf die Richtlinie 836.4108 der Deutschen Bahn AG „Erdbauwerke und sonstige geotechnische Bauwerke; Bauweisen für den Einsatz mineralischer Ersatzbaustoffe“, Ausgabe 2020.
 
 Die Beurteilung der Zulässigkeit von mineralischen Ersatzbaustoffen bei der „Hydraulisch gebundenen Tragschicht der Bahnbauweise Feste Fahrbahn“ nach Richtlinie 836.4108 (Bild 5 in der Richtlinie) erfolgt analog zur Einbauweise „Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht“ nach Anlage 2 Nummer 3 der jeweiligen Tabellen für die betreffenden mineralischen Ersatzbaustoffe.
 
@@ -806,23 +614,23 @@ Außerhalb von Wasserschutzbereichen werden in den Einbautabellen die Konfigurat
 
 Die Konfigurationen der natürlich vorliegenden oder herzustellenden Grundwasserdeckschichten werden gemäß den Erläuterungen zu Anlage 2 festgelegt.
 
-Innerhalb von Wasserschutzbereichen sind die Einsatzmöglichkeiten von mineralischen Ersatzbaustoffen auf günstige Eigenschaften der Grundwasserdeckschichten (Sand oder Lehm, Schluff, Ton, grundwasserfreie Sickerstrecke > 1 m) beschränkt.
+Innerhalb von Wasserschutzbereichen sind die Einsatzmöglichkeiten von mineralischen Ersatzbaustoffen auf günstige Eigenschaften der Grundwasserdeckschichten (Sand oder Lehm, Schluff, Ton, grundwasserfreie Sickerstrecke > 1 m) beschränkt.
 
 Eintragungen oder Bezeichnungen in den Tabellen:
 
-/
+/ nicht relevant
 
-+
++ Einbau zulässig
 
-–
+– Einbau unzulässig
 
-WSG III A
+WSG III A Wasserschutzgebiet Zone III A
 
-WSG III B
+WSG III B Wasserschutzgebiet Zone III B
 
-HSG III
+HSG III Heilquellenschutzgebiet der Zone III
 
-HSG IV
+HSG IV Heilquellenschutzgebiet der Zone IV
 
 Fußnotenregelungen
 
@@ -830,88 +638,14 @@ Mit Fußnoten werden zusätzlich zu den Materialwerten der Anlage 1 einzelne Kon
 
 Einzelne Fußnoten bezeichnen Einschränkungen der Einsatzmöglichkeiten.
 
-Tabelle 1: Bodenmaterial der Klassen 0* (BM-0*), F0* (BM-F0)*, Baggergut der Klassen 0* (BG-0*),
-
-Tabelle 2: Bodenmaterial der Klasse F1 (BM-F1), Baggergut der Klasse F1 (BG-F1)
-
-Tabelle 3: Bodenmaterial der Klasse 2 (BM-F2), Baggergut der Klasse F2 (BG-F2)
-
-Tabelle 4: Bodenmaterial der Klasse F3 (BM-F3), Baggergut der Klasse F3 (BG-F3)
-
-Tabelle 5: Gleisschotter der Klasse 1 (GS-1)
-
-Tabelle 6: Gleisschotter der Klasse 2 (GS-2)
-
-Tabelle 7: Gleisschotter der Klasse 3 (GS-3)
-
-Tabelle 8: Recycling-Baustoff der Klasse 1 (RC-1)
-
-Tabelle 9: Recycling-Baustoff der Klasse 2 (RC-2)
-
-Tabelle 10: Recycling-Baustoff der Klasse 3 (RC-3)
-
-Tabelle 11: Stahlwerksschlacke der Klasse 1 (SWS-1)
-
-Tabelle 12: Stahlwerksschlacke der Klasse 2 (SWS-2)
-
-Tabelle 13: Hochofenstückschlacke der Klasse 1 (HOS-1)
-
 ### Anlage 4 — (zu § 3 Absatz 1 Satz 3 und Absatz 2,
-
-Tabelle 1: Untersuchungsverfahren und Turnus
-
-1 Für Mitglieder einer durch die zuständige Behörde anerkannten Güteüberwachungsgemeinschaft.
-
-Tabelle 2: Im Rahmen des Eignungsnachweises zu untersuchende Parameter
-
-2.1 Eluatwerte im ausführlichen Säulenversuch nach DIN 19528, Ausgabe Januar 2009
-
-2.2 Überwachungswerte (Feststoffwerte) bei RC-Baustoffen
-
-2.3 CBR-Versuch, zu § 5 Absatz 2 Satz 4
 
 ### Anlage 5 — (zu § 9 Absatz 5)
 
 Die Auswahl des Untersuchungsverfahrens zur Messung der zu bestimmenden Parameter nach Anlage 1 erfolgt anhand der nachfolgenden Tabelle. In begründeten Fällen sind gleichwertige Verfahren nach dem Stand der Technik zulässig, sofern die Gleichwertigkeit durch erfolgreiche Teilnahme an Ringversuchen oder nach DIN 38402-71, „Deutsche Einheitsverfahren zur Wasser-, Abwasser-, und Schlammuntersuchung – Allgemeine Angaben (Gruppe A) – Teil 71: Gleichwertigkeit von zwei Analyseverfahren aufgrund des Vergleiches von Analyseergebnissen und deren statistischer Auswertung; Vorgehensweise für quantitative Merkmale mit kontinuierlichem Wertespektrum“, Ausgabe November 2002, nachgewiesen werden kann.
 
-Die Bestimmungsgrenze eines gewählten Analysenverfahrens muss um mindestens einen Faktor von drei kleiner sein als der Materialwert des entsprechenden Parameters. Die Ermittlung der Nachweis- und Bestimmungsgrenze erfolgt nach ISO/TS 13530 (Wasserbeschaffenheit – Anleitung zur analytischen Qualitätssicherung für die chemische und physikalisch-chemische Wasseruntersuchung, Ausgabe März 2009) oder nach DIN 32645 „Chemische Analytik, Nachweis-, Erfassungs- und Bestimmungsgrenze, Ermittlung unter Wiederholbedingungen, Begriffe, Verfahren, Auswertung“, Ausgabe November 2008.
-
 ### Anlage 6 — (zu § 10 Absatz 3 Satz 3)
 
 ### Anlage 7 — (zu § 25 Absatz 1 Satz 2)
 
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
 ### Anlage 8 — (zu § 22 Absatz 1 Satz 1, § 22 Absatz 2, § 22 Absatz 4 und § 25 Absatz 3)
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.

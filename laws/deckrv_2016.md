@@ -10,19 +10,19 @@
 
 Das Bundesministerium der Finanzen verordnet auf Grund
 
-–
+– des § 88 Absatz 3 Satz 1 und 2 in Verbindung mit Satz 4 und des § 217 Satz 1 Nummer 7 bis 10 in Verbindung mit Satz 3 und 4 des Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl. I S. 434) im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz,
 
-–
+– des § 235 Absatz 1 Satz 1 Nummer 4 bis 7 in Verbindung mit Absatz 2 Satz 2 des Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl. I S. 434):
 
 ### § 1 — Geltungsbereich
 
 (1) Diese Verordnung gilt für
 
-1.
+1. Lebensversicherungsunternehmen einschließlich der Pensionskassen, mit Ausnahme der Sterbekassen,
 
-2.
+2. Unfallversicherungsunternehmen, die Versicherungen mit Rückgewähr der Prämien betreiben, und
 
-3.
+3. Versicherungsunternehmen, die Rentenleistungen der Allgemeinen Haftpflichtversicherung, der Kraftfahrzeug-Haftpflichtversicherung, der Kraftfahrt-Unfallversicherung sowie der Allgemeinen Unfallversicherung erbringen.
 
 (2) Diese Verordnung gilt für Verträge, denen keine aufsichtsbehördlich genehmigten Tarife zugrunde liegen.
 
@@ -46,11 +46,11 @@ Das Bundesministerium der Finanzen verordnet auf Grund
 
 (2) Die höchstmöglichen Prämienteile im Sinne von Absatz 1 werden in dem Umfang, in dem sie die geleisteten, einmaligen Abschlusskosten in Höhe des Zillmersatzes noch nicht gedeckt haben und folglich der Höhe nach mit den nach § 15 Absatz 1 der Versicherungsunternehmens-Rechnungslegungsverordnung höchstens zu aktivierenden Forderungen gegenüber den Versicherungsnehmern übereinstimmen, von dem bei der Berechnung der einzelvertraglichen Deckungsrückstellung anzusetzenden Barwert der künftigen Prämien abgezogen.
 
-(3) Für Lebensversicherungsverträge, bei denen aufgrund gesetzlich vorgeschriebener Rückkaufswerte gegenüber der nach § 341f des Handelsgesetzbuchs berechneten Deckungsrückstellung eine nach § 25 Absatz 2 der Versicherungsunternehmens-Rechnungslegungsverordnung erhöhte Deckungsrückstellung zu stellen ist, gelten als höchstmögliche Prämienteile gemäß Absatz 1 die Prämienteile, die Für Unfallversicherungen der in § 161 des Versicherungsaufsichtsgesetzes genannten Art gilt Satz 1 entsprechend, soweit in Anlehnung an die für die Lebensversicherung gesetzlich vorgeschriebenen Regelungen erhöhte Rückkaufswerte vertraglich garantiert werden.
+(3) Für Lebensversicherungsverträge, bei denen aufgrund gesetzlich vorgeschriebener Rückkaufswerte gegenüber der nach § 341f des Handelsgesetzbuchs berechneten Deckungsrückstellung eine nach § 25 Absatz 2 der Versicherungsunternehmens-Rechnungslegungsverordnung erhöhte Deckungsrückstellung zu stellen ist, gelten als höchstmögliche Prämienteile gemäß Absatz 1 die Prämienteile, die
 
-1.
+1. nicht zur Bildung der erhöhten Deckungsrückstellung benötigt werden und
 
-2.
+2. nach den verwendeten Berechnungsgrundsätzen in dem Zeitraum, für den die Prämie gezahlt wird, weder für Leistungen im Versicherungsfall noch zur Deckung von Kosten für den Versicherungsbetrieb bestimmt sind.
 
 (4) Der von einem Versicherungsunternehmen zum Zeitpunkt des Vertragsabschlusses verwendete Zillmersatz für die Berechnung der Deckungsrückstellung gilt für die gesamte Laufzeit des Vertrages.
 
@@ -60,17 +60,17 @@ Das Bundesministerium der Finanzen verordnet auf Grund
 
 (2) Im Fall von Verträgen mit Überschussbeteiligung kann die Bewertungsmethode zukünftige Überschussanteile aller Art explizit oder implizit in einer Weise berücksichtigen, die mit den anderen Annahmen über die zukünftige Entwicklung und mit der aktuellen Überschussverteilungsmethode vereinbar ist.
 
-(3) Bei einer gemäß § 341f Absatz 2 des Handelsgesetzbuchs erforderlichen Berechnung der zu erwartenden Erträge des Unternehmens ist als Rendite zugrunde zu legen ein Referenzzins, der kalenderjährlich nach Maßgabe der folgenden Sätze ermittelt wird. Verwendet werden die von der Deutschen Bundesbank gemäß § 7 der Rückstellungsabzinsungsverordnung veröffentlichten Monatsendstände derjenigen Null-Kupon-Euro-Zinsswapsätze, die eine Laufzeit von 10 Jahren haben. Für die neun vorangegangenen Kalenderjahre wird jeweils der auf die zweite Nachkommastelle aufgerundete Jahresmittelwert der Monatsendstände bestimmt; dabei werden für die Jahre 2009 bis 2013 als Jahresmittelwerte 3,81, 3,13, 3,15, 2,14 und 1,96 Prozent angesetzt. Für das laufende Kalenderjahr wird der auf die zweite Nachkommastelle aufgerundete Mittelwert der Monatsendstände der ersten neun Monate bestimmt. Die Summe der neun Jahresmittelwerte aus Satz 3 und des Mittelwerts aus Satz 4 wird durch 10 geteilt. Es werden die folgenden, auf die nächsthöhere zweite Nachkommastelle gerundeten Differenzen gebildet:Haben die Differenzen aus Satz 6 Nummer 1 und 2 das gleiche Vorzeichen, ergibt sich der Referenzzins des Kalenderjahres dadurch, dass der Referenzzins des vorherigen Kalenderjahres um die Differenz, die den kleineren Absolutbetrag hat, angepasst wird. Andernfalls bleibt der Referenzzins gegenüber dem vorherigen Kalenderjahr unverändert. Der Referenzzins des Kalenderjahres 2017 beträgt 2,21 Prozent.
+(3) Bei einer gemäß § 341f Absatz 2 des Handelsgesetzbuchs erforderlichen Berechnung der zu erwartenden Erträge des Unternehmens ist als Rendite zugrunde zu legen ein Referenzzins, der kalenderjährlich nach Maßgabe der folgenden Sätze ermittelt wird. Verwendet werden die von der Deutschen Bundesbank gemäß § 7 der Rückstellungsabzinsungsverordnung veröffentlichten Monatsendstände derjenigen Null-Kupon-Euro-Zinsswapsätze, die eine Laufzeit von 10 Jahren haben. Für die neun vorangegangenen Kalenderjahre wird jeweils der auf die zweite Nachkommastelle aufgerundete Jahresmittelwert der Monatsendstände bestimmt; dabei werden für die Jahre 2009 bis 2013 als Jahresmittelwerte 3,81, 3,13, 3,15, 2,14 und 1,96 Prozent angesetzt. Für das laufende Kalenderjahr wird der auf die zweite Nachkommastelle aufgerundete Mittelwert der Monatsendstände der ersten neun Monate bestimmt. Die Summe der neun Jahresmittelwerte aus Satz 3 und des Mittelwerts aus Satz 4 wird durch 10 geteilt. Es werden die folgenden, auf die nächsthöhere zweite Nachkommastelle gerundeten Differenzen gebildet:
 
-1.
+1. der in Satz 5 erhaltene Wert abzüglich des Referenzzinses des vorherigen Kalenderjahres,
 
-2.
+2. 9 Prozent des in Satz 4 erhaltenen Werts abzüglich 9 Prozent des Referenzzinses des vorherigen Kalenderjahres.
 
-(4) Zu jedem Bilanzstichtag ist der gemäß Absatz 3 ermittelte Referenzzins des Kalenderjahres, in dem das Geschäftsjahr begonnen hat, mit dem höchsten in den nächsten 15 Jahren für einen Vertrag maßgeblichen Rechnungszins zu vergleichen. Ist der Referenzzins kleiner als der höchste maßgebliche Rechnungszins, so ist der einzelvertraglichen Berechnung der Deckungsrückstellung Folgendes zugrunde zu legen:  Andernfalls ist für die gesamte Restlaufzeit der jeweils maßgebliche Rechnungszins zu verwenden.
+(4) Zu jedem Bilanzstichtag ist der gemäß Absatz 3 ermittelte Referenzzins des Kalenderjahres, in dem das Geschäftsjahr begonnen hat, mit dem höchsten in den nächsten 15 Jahren für einen Vertrag maßgeblichen Rechnungszins zu vergleichen. Ist der Referenzzins kleiner als der höchste maßgebliche Rechnungszins, so ist der einzelvertraglichen Berechnung der Deckungsrückstellung Folgendes zugrunde zu legen:
 
-1.
+1. für den Zeitraum der nächsten 15 Jahre jeweils das Minimum aus dem für das jeweilige Jahr maßgeblichen Rechnungszins und dem Referenzzins und
 
-2.
+2. für den Zeitraum nach Ablauf von 15 Jahren der jeweils maßgebliche Rechnungszins.
 
 > (+++ § 5 Abs. 3 u. 4: Zur Anwendung vgl. § 5a +++)
 

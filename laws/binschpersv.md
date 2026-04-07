@@ -16,169 +16,167 @@
 
 (2) Unberührt bleiben
 
-1.
+1. die Rheinschiffspersonalverordnung,
 
-2.
+2. die Talsperrenverordnung vom 15. März 2013 (VkBl. S. 331), die zuletzt durch Artikel 2 Absatz 1 der Verordnung vom 26. November 2021 (BGBl. I S. 4982) geändert worden ist,
 
-3.
+3. die Sportbootführerscheinverordnung vom 3. Mai 2017 (BGBl. I S. 1016, 4043), die zuletzt durch Artikel 2 Absatz 7 der Verordnung vom 26. November 2021 (BGBl. I S. 4982) geändert worden ist,
 
-4.
+4. die Seeleute-Befähigungsverordnung vom 8. Mai 2014 (BGBl. I S. 460), die durch Artikel 1 der Verordnung vom 28. Juli 2021 (BGBl. I S. 3236) geändert worden ist, und
 
-5.
+5. alle Vorschriften über die Besatzung und über die Befähigung der Besatzung der Fahrzeuge, die ausschließlich zur Verwendung im Hamburger Hafen bestimmt sind.
 
 ### § 2 — Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist oder sind
 
-1.
+1. „Binnenwasserstraße“ eine für die in § 25 Absatz 3 bis 5 genannten Fahrzeuge befahrbare Wasserstraße der Zonen 1 bis 4;
 
-2.
+2. „Fahrzeug“ ein Binnenschiff, einschließlich Fähre, schwimmendes Gerät oder ein Seeschiff;
 
-3.
+3. „Binnenschiff“ ein Schiff, das ausschließlich oder vorwiegend für die Fahrt auf Binnenwasserstraßen bestimmt ist;
 
-4.
+4. „Seeschiff“ ein Schiff, das zur See- oder Küstenfahrt zugelassen und vorwiegend dafür bestimmt ist;
 
-5.
+5. „Motorschiff“ ein zur Güterbeförderung bestimmtes Schiff, das mit eigener Triebkraft allein fahren kann;
 
-6.
+6. „Fähre“ ein Fahrzeug, das dem Übersetzverkehr von einem Ufer zum anderen auf der Wasserstraße dient und von der zuständigen Behörde als Fähre behandelt wird;
 
-7.
+7. „Kahnfähre“ eine zur Beförderung von Personen gebaute, offene Fähre, die durch Muskelkraft fortbewegt wird; auch mit einem – zur Beherrschung besonderer Betriebslagen – Hilfsantrieb ausgestattet;
 
-8.
+8. „Behördenfahrzeug“ ein Fahrzeug, das von einer Behörde im Rahmen ihrer gesetzlichen Aufgaben eingesetzt wird;
 
-9.
+9. „Feuerlöschboot“ ein Fahrzeug, das ausschließlich oder überwiegend zum Feuerlöschen eingesetzt wird;
 
-10.
+10. „Schleppboot“ ein eigens zum Schleppen gebautes Schiff;
 
-11.
+11. „Schubboot“ ein eigens zur Fortbewegung eines Schubverbandes gebautes Schiff;
 
-12.
+12. „Schleppkahn“ ein zur Güterbeförderung bestimmtes und zur Fortbewegung durch Schleppen gebautes Schiff ohne eigene Triebkraft oder mit eigener Triebkraft, die nur erlaubt, kleine Ortsveränderungen vorzunehmen;
 
-13.
+13. „Schubleichter“ ein zur Güterbeförderung bestimmtes und zur Fortbewegung durch Schieben gebautes oder eigens eingerichtetes Schiff ohne eigene Triebkraft oder mit eigener Triebkraft, die nur erlaubt, außerhalb des Schubverbandes kleine Ortsveränderungen vorzunehmen;
 
-14.
+14. „Verband“ ein starrer Verband oder ein Schleppverband;
 
-15.
+15. „starrer Verband“ ein Schubverband oder gekuppelte Fahrzeuge;
 
-16.
+16. „Schubverband“ eine starre Verbindung von Fahrzeugen, von denen sich mindestens eines vor dem oder den beiden Fahrzeugen mit Maschinenantrieb befindet, das oder die den Verband fortbewegt oder fortbewegen und als „schiebendes Fahrzeug“ oder „schiebende Fahrzeuge“ bezeichnet werden; als starr gilt auch ein Verband aus einem schiebenden und einem geschobenen Fahrzeug, deren Kupplungen ein gesteuertes Knicken ermöglichen;
 
-17.
+17. „gekuppelte Fahrzeuge“ eine Zusammenstellung von längsseits starr gekuppelten Fahrzeugen, von denen sich keines vor dem Fahrzeug mit Maschinenantrieb befindet, das die Zusammenstellung fortbewegt;
 
-18.
+18. „Schleppverband“ eine Zusammenstellung von einem oder mehreren Fahrzeugen, schwimmenden Anlagen oder Schwimmkörpern, die von einem oder mehreren zum Verband gehörigen Fahrzeugen mit Maschinenantrieb geschleppt wird;
 
-19.
+19. „Großverband“ ein Schubverband, bei dem das Produkt aus Gesamtlänge und Gesamtbreite der geschobenen Fahrzeuge 7 000 Quadratmeter oder mehr beträgt;
 
-20.
+20. „Fahrgastschiff“ ein zur Beförderung von mehr als 12 Fahrgästen gebautes und eingerichtetes Tagesausflugs- oder Kabinenschiff;
 
-21.
+21. „Fahrgastboot“ ein zur Beförderung von Fahrgästen zugelassenes Fahrzeug, das kein Fahrgastschiff ist;
 
-22.
+22. „Tagesausflugsschiff“ ein Fahrgastschiff ohne Kabinen für die Übernachtung von Fahrgästen;
 
-23.
+23. „Kabinenschiff“ ein Fahrgastschiff mit Kabinen für die Übernachtung von Fahrgästen;
 
-24.
+24. „Sportfahrzeug“ ein für Sport- oder Freizeitzwecke bestimmtes Schiff, das kein Fahrgastschiff oder Fahrgastboot ist;
 
-25.
+25. „schwimmendes Gerät“ eine schwimmende Konstruktion mit auf ihr vorhandenen Arbeitseinrichtungen wie Krane, Bagger, Rammen, Elevatoren;
 
-26.
+26. „schwimmende Anlage“ eine schwimmende Einrichtung, die in der Regel nicht zur Fortbewegung bestimmt ist, wie eine Badeanstalt, ein Dock, eine Landebrücke oder ein Bootshaus;
 
-27.
+27. „Schwimmkörper“ ein Floß sowie andere einzeln oder in Verbindungen fahrtauglich gemachte Gegenstände, soweit es sich nicht um ein Schiff, ein schwimmendes Gerät oder eine schwimmende Anlage handelt;
 
-28.
+28. „Länge“ oder „L“ die größte Länge eines Fahrzeugkörpers in Metern, ohne Ruder und Bugspriet;
 
-29.
+29. „Breite“ oder „B“ die größte Breite eines Fahrzeugkörpers in Metern, gemessen an der Außenseite der Beplattung, ohne Schaufelräder, Scheuerleisten und Ähnliches;
 
-30.
+30. „Tiefgang“ oder „T“ der senkrechte Abstand vom tiefsten Punkt eines Fahrzeugkörpers in Metern, ohne Berücksichtigung des Kiels oder anderer fester Anbauten, bis zur Ebene der größten Einsenkung des Schiffskörpers, in Metern;
 
-31.
+31. „Besatzung“ die Decksmannschaft und das Maschinenpersonal;
 
-32.
+32. „Decksmannschaft“ Personen, die Funktionen auf Einstiegs-, Betriebs- und Führungsebene überwiegend an Deck ausüben;
 
-33.
+33. „Maschinenpersonal“ die Maschinisten und Maschinistinnen im Sinne der Rheinschiffspersonalverordnung und die Maschinenkundigen nach dieser Verordnung;
 
-34.
+34. „Einstiegsebene“ der Verantwortungsbereich, der mit den Funktionen des Decksmannes und der Decksfrau (Decksleute) sowie des Leichtmatrosen und der Leichtmatrosin verbunden ist;
 
-35.
+35. „Betriebsebene“ der Verantwortungsbereich, der mit den Funktionen des Matrosen und der Matrosin, des Bootsmanns und der Bootsfrau (Bootsleute) sowie des Steuermannes und der Steuerfrau (Steuerleute) verbunden ist;
 
-36.
+36. „Führungsebene“ der Verantwortungsbereich, der mit der Funktion des Schiffsführers und der Schiffsführerin (Schiffsführung) verbunden ist;
 
-37.
+37. „Bordpersonal“ alle an Bord eines Fahrgastschiffes Beschäftigten, die nicht zur Besatzung gehören;
 
-38.
+38. „Sicherheitspersonal“ die Sachkundigen für Flüssigerdgas (LNG), die Sachkundigen für die Fahrgastschifffahrt, die Ersthelfer und die Ersthelferinnen sowie die atemschutzgerättragenden Personen;
 
-39.
+39. „Sicherheitspersonal für Fahrgastschiffe“ die Sachkundigen für die Fahrgastschifffahrt, die Ersthelfer und die Ersthelferinnen sowie die atemschutzgerättragenden Personen;
 
-40.
+40. „Sachkundiger für die Fahrgastschifffahrt“ eine an Bord tätige Person, die befähigt ist, in Notsituationen an Bord von Fahrgastschiffen Maßnahmen zu ergreifen;
 
-41.
+41. „Sachkundiger für Flüssigerdgas“ eine Person, die befähigt ist, am Bunkervorgang von Fahrzeugen, die Flüssigerdgas als Brennstoff nutzen, beteiligt zu sein oder der Schiffsführer eines solchen Fahrzeugs zu sein;
 
-42.
+42. „Fährführer“ wer berechtigt ist, eine Fähre zu führen;
 
-43.
+43. „Decksmann 180“ ein Decksmann oder eine Decksfrau mit 180 Tagen nachgewiesener und bestätigter Fahrzeit nach § 27 Absatz 1;
 
-44.
+44. „Radarfahrt“ eine Fahrt bei unsichtigem Wetter mit Radar;
 
-44a.
+44a. „Befähigungszeugnis“ ein Zeugnis, das dem Inhaber oder der Inhaberin die nötigen Kenntnisse und Fertigkeiten für eine bestimmte Funktion beim Betrieb eines Fahrzeuges bestätigt;
 
-45.
+45. „Unionsbefähigungszeugnis“ das Befähigungszeugnis der Europäischen Union für Funktionen auf der Einstiegsebene und Betriebsebene sowie für Sachkundige nach Artikel 3 Nummer 7 der Richtlinie (EU) 2017/2397 des Europäischen Parlaments und des Rates vom 12. Dezember 2017 über die Anerkennung von Berufsqualifikationen in der Binnenschifffahrt und zur Aufhebung der Richtlinien 91/672/EWG und 96/50/EG des Rates (ABl. L 345 vom 27.12.2017, S. 53);
 
-46.
+46. „Unionspatent“ das Befähigungszeugnis der Europäischen Union für Schiffsführer und Schiffsführerinnen nach Artikel 4 Absatz 1 in Verbindung mit Artikel 11 Absatz 5 der Richtlinie (EU) 2017/2397 ;
 
-47.
+47. „Schifferzeugnis“ das Fährschifferzeugnis, das Behördenschifferzeugnis, das Sportschifferzeugnis und das Kleinschifferzeugnis;
 
-48.
+48. „Sprechfunkzeugnis“ ein auf der Grundlage der Anlage 5 der Regionalen Vereinbarung über den Binnenschifffahrtsfunk (Bekanntmachung vom 28. August 2000, BGBl. II S. 1213) erteiltes Sprechfunkzeugnis;
 
-49.
+49. „Rheinpatent“ ein Befähigungszeugnis für Schiffsführer und Schiffsführerinnen nach § 11.02 Satz 1 Buchstabe a der Rheinschiffspersonalverordnung;
 
-50.
+50. „Schifferdienstbuch“ eine persönliche Aufzeichnung der Berufserfahrung eines Besatzungsmitglieds, insbesondere Einzelheiten zu seinen Fahrzeiten und Reisen;
 
-51.
+51. „aktives Schifferdienstbuch“ ein für Eintragungen offenes Schifferdienstbuch;
 
-52.
+52. „Bordbuch“ eine zum Zwecke der Überwachung geführte Aufzeichnung der von einem Fahrzeug und seiner Besatzung durchgeführten Reisen;
 
-53.
+53. „aktives Bordbuch“ ein für Eintragungen offenes Bordbuch;
 
-54.
+54. „Prüfling“ eine Person, die eine Prüfung zum Erwerb eines Befähigungszeugnisses ablegt;
 
-55.
+55. „Untersuchungskommission“ die nach § 4 der Binnenschiffsuntersuchungsordnung gebildete Einrichtung;
 
-56.
+56. „ausstellende Behörde“ diejenige zuständige Behörde, die das Befähigungszeugnis ausstellt;
 
-57.
+57. „Mitgliedsstaat der Zentralkommission für die Rheinschifffahrt“ die Bundesrepublik Deutschland, die Niederlande, die Französische Republik, die Schweizerische Eidgenossenschaft und das Königreich Belgien;
 
-58.
+58. „Flüssigerdgas“ (LNG) Erdgas, das durch Abkühlung auf eine Temperatur von –161 °C verflüssigt wurde;
 
-59.
+59. „ES-TRIN“ der Europäische Standard der technischen Vorschriften für Binnenschiffe in der jeweils nach § 2 Absatz 1 Nummer 2 der Binnenschiffsuntersuchungsordnung geltenden Fassung;
 
-60.
+60. „STCW-Übereinkommen“ das Internationale Übereinkommen vom 7. Juli 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten (BGBl. 1982 II S. 297, 298) in der jeweils geltenden Fassung;
 
-61.
+61. „Rheinschiffspersonalverordnung“ Anlage 1 zu § 1 Absatz 2 Nummer 1 der Rheinschiffspersonaleinführungsverordnung vom 5. April 2023 (BGBl. 2023 II Nr. 105, Anlageband) in der jeweils geltenden und anzuwendenden Fassung;
 
-62.
+62. „Berufsgenossenschaft“ die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation.
 
 ### § 3 — Vorübergehende Abweichungen; Verordnungsermächtigung
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt, durch Rechtsverordnung von dieser Verordnung abweichende Vorschriften bis zur Dauer von drei Jahren zu erlassen
 
-1.
+1. zur Anpassung an die technische Entwicklung der Binnenschifffahrt oder
 
-2.
+2. zu Versuchszwecken.
 
 (2) Die abweichenden Vorschriften
 
-1.
+1. müssen mit den Vorgaben der Richtlinie (EU) 2017/2397 und den aufgrund dieser Richtlinie erlassenen Rechtsakten der Europäischen Union vereinbar sein,
 
-2.
+2. dürfen den Jugendarbeitsschutz, den Arbeitsschutz sowie die Sicherheit und den Gesundheitsschutz von Besatzung nicht gefährden und
 
-3.
+3. dürfen die Sicherheit und Leichtigkeit des Schiffsverkehrs nicht gefährden.
 
 ### § 4 — Zuständige Behörde
 
 Zuständige Behörde für die Wahrnehmung der Aufgaben nach dieser Verordnung ist die Generaldirektion Wasserstraßen und Schifffahrt, soweit in dieser Verordnung nichts Abweichendes bestimmt ist.
 
 ### § 5 — Identitätsnachweis
-
-Ist für die Erteilung oder die Verlängerung von Befähigungszeugnissen nach dieser Verordnung der Nachweis der Identität des die Erteilung oder die Verlängerung Beantragenden erforderlich, kann diese durch Vorlage des Personalausweises, des Reisepasses oder eines anderen amtlichen Identitätsdokuments nachgewiesen werden. Zudem kann die Identität nach Maßgabe des § 18 des Personalausweisgesetzes, des § 12 des eID-Karte-Gesetzes oder des § 78 Absatz 5 des Aufenthaltsgesetzes elektronisch nachgewiesen werden.
 
 ### § 6 — Handlungsfähigkeit von Minderjährigen
 
@@ -196,23 +194,15 @@ Die Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen
 
 ### § 9 — Befähigungszeugnisse für Besatzungsmitglieder auf Einstiegsebene und Betriebsebene
 
-(1) Wer als Mitglied der Besatzung eines Fahrzeugs auf der Einstiegsebene oder der Betriebsebene tätig ist, bedarf für die von ihm wahrzunehmende Funktion an Bord eines im Schifferdienstbuch eingetragenen Unionsbefähigungszeugnisses, das nach § 61 erteilt worden ist.
+(1) Wer als Mitglied der Besatzung eines Fahrzeugs auf der Einstiegsebene oder der Betriebsebene tätig ist, bedarf für die von ihm wahrzunehmende Funktion an Bord eines im Schifferdienstbuch eingetragenen Unionsbefähigungszeugnisses, das nach § 61 erteilt worden ist.
 
 (2) Dem Zeugnis nach Absatz 1 ist gleichgestellt
 
-1.
-
-a)
-
-b)
-
-2.
+1. ein im Schifferdienstbuch eingetragenes Unionsbefähigungszeugnis, das erteilt worden ista)von einem Land oderb)von einem anderen Mitgliedstaat der Europäischen Union, von einem Land oder von einem anderen Mitgliedstaat der Europäischen Union,
 
 (3) Die Unionsbefähigungszeugnisse werden erteilt für die Befähigung als Decksmann oder Decksfrau, Leichtmatrose oder Leichtmatrosin, Matrose oder Matrosin, Bootsmann oder Bootsfrau, Steuermann oder Steuerfrau.
 
 (4) Für Besatzungsmitglieder von Seeschiffen ist bei Fahrten auf Wasserstraßen der Zonen 3 und 4 ausreichend ein Zeugnis, das nach dem STCW-Übereinkommen erteilt oder nach dem STCW-Übereinkommen anerkannt ist. Dies gilt nicht für Befähigungszeugnisse für GMDSS-Funker, die nach dem STCW-Übereinkommen erteilt oder anerkannt worden sind.
-
-(5) Statt eines Unionsbefähigungszeugnisses nach Absatz 1 ist ausreichend ein Befähigungszeugnis für die Einstiegsebene oder Betriebsebene eines Staates, der nicht der Europäischen Union angehört, soweit das Zeugnis nach der Richtlinie (EU) 2017/2397 von der Kommission der Europäischen Union anerkannt worden ist.
 
 ### § 10 — Befähigungszeugnisse für das Maschinenpersonal
 
@@ -220,13 +210,7 @@ b)
 
 (2) Dem Zeugnis nach Absatz 1 ist gleichgestellt ein im Schifferdienstbuch eingetragenes Befähigungszeugnis
 
-1.
-
-a)
-
-b)
-
-2.
+1. für maschinenkundiges Personal, das erteilt worden ista)von einem Land oderb)von einem anderen Mitgliedstaat der Europäischen Union, von einem Land oder von einem anderen Mitgliedstaat der Europäischen Union,
 
 (3) Bei Fahrten auf Seeschiffen, die auf Wasserstraßen der Zonen 3 und 4 fahren, ist ausreichend ein Zeugnis, das nach den Anforderungen des STCW-Übereinkommens erteilt oder anerkannt ist.
 
@@ -236,19 +220,15 @@ b)
 
 (1) Wer ein Schiff führt, bedarf eines nach
 
-1.
+1. § 78 Absatz 3 Nummer 1 erteilten Unionspatentes oder
 
-2.
+2. § 78 Absatz 3 Nummer 2 bis 5 erteilten Fährschifferzeugnisses, Behördenschifferzeugnisses, Sportschifferzeugnisses oder Kleinschifferzeugnisses für die entsprechende Fahrzeugkategorie.
 
 (2) Dem Patent nach Absatz 1 Nummer 1 ist gleichgestellt
 
-1.
+1. ein Unionspatent, das erteilt worden ista)von einem Land oderb)von einem anderen Mitgliedstaat der Europäischen Union, oder von einem Land oder von einem anderen Mitgliedstaat der Europäischen Union, oder
 
-a)
-
-b)
-
-2.
+2. ein Rheinpatent.
 
 (3) Wer eine frei fahrende Fähre führt, benötigt zusätzlich zum Fährschifferzeugnis ein Unionsbefähigungszeugnis mindestens für die Einstiegsebene.
 
@@ -262,17 +242,13 @@ b)
 
 ### § 12 — Ausnahme von der Pflicht zum Besitz eines Befähigungszeugnisses für die Besatzungsmitglieder auf Führungsebene
 
-Keines Befähigungszeugnisses für Schiffsführer und Schiffsführerinnen bedarf nach dieser Verordnung, wer Satz 1 gilt nicht für Fahrgastboote.
+Keines Befähigungszeugnisses für Schiffsführer und Schiffsführerinnen bedarf nach dieser Verordnung, wer
 
-1.
+1. ein Fahrzeug führt, das a)nur mit Muskelkraft oder unter Segel angetrieben wird oderb)mit einer Antriebsmaschine ausgerüstet ist, deren effektive Nutzleistung bei einem Verbrennungsmotor nicht mehr als 11,03 Kilowatt oder bei einem Elektromotor höchstens 7,5 Kilowatt in der Betriebsart S1 (Dauerbetrieb) nach DIN EN 60034-1: Ausgabe Februar 2011 beträgt, nur mit Muskelkraft oder unter Segel angetrieben wird oder mit einer Antriebsmaschine ausgerüstet ist, deren effektive Nutzleistung bei einem Verbrennungsmotor nicht mehr als 11,03 Kilowatt oder bei einem Elektromotor höchstens 7,5 Kilowatt in der Betriebsart S1 (Dauerbetrieb) nach DIN EN 60034-1: Ausgabe Februar 2011 beträgt,
 
-a)
+2. ein nicht in Fahrt befindliches schwimmendes Gerät ohne eigenen Antrieb auf den Wasserstraßen der Zonen 3 und 4 sowie außerhalb des Fahrwassers der Wasserstraßen der Anlage 1 führt,
 
-b)
-
-2.
-
-3.
+3. das 16. Lebensjahr vollendet hat und als Mitglied der Besatzung eines schwimmenden Gerätes ein dazugehöriges Hilfsfahrzeug mit einer Länge von weniger als 20 Metern und einer effektiven Nutzleistung von nicht mehr als 25 Kilowatt führt.
 
 > § 12 (früher Abs. 1) Satz 1 Nr. 2 (früher Nr. 3) Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Anlage 1²" durch das Wort "Anlage 1" ersetzt
 
@@ -280,11 +256,11 @@ b)
 
 (1) Wer eines der folgenden Fahrzeuge führt, kann seine Befähigung auch durch einen amtlichen Berechtigungsschein nachweisen:
 
-1.
+1. Dienstfahrzeuge der Bundeswehr, der Bundeszollverwaltung, der Bundespolizei, der Bereitschaftspolizei und der Wasserschutzpolizei der Länder, jeweils mit einer Länge von nicht mehr als 25 Metern,
 
-2.
+2. Dienstfahrzeuge des Zivil- und Katastrophenschutzes, der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Wasserstraßen-, Wasserwirtschafts-, Schifffahrts- oder Fischereiverwaltung eines Landes, eines Landeskriminalamtes und der Feuerwehr, jeweils mit einer Länge von weniger als 20 Metern,
 
-3.
+3. Wasserrettungsfahrzeuge einer als gemeinnützig anerkannten Körperschaft mit einer Länge von weniger als 20 Metern.
 
 (2) Der amtliche Berechtigungsschein muss von der Dienst- oder Ausbildungsstelle des Betreffenden nach deren Vorgaben ausgestellt sein.
 
@@ -292,9 +268,9 @@ b)
 
 Das örtlich zuständige Wasserstraßen- und Schifffahrtsamt kann erlauben, dass
 
-1.
+1. Personen ohne Fährschifferzeugnis Kahnfähren mit einem Hilfsantrieb mit einer effektiven Nutzleistung von mehr als 11,03 Kilowatt auf Wasserstraßen mit geringem Verkehr führen,
 
-2.
+2. Personen ohne besondere Berechtigung für Risikostrecken Fahrzeuge im Baustellenbetrieb auf der Teilstrecke einer Risikostrecke nach Anlage 2 führen.
 
 ### § 15 — Geltungsbereich der Befähigungszeugnisse auf Führungsebene
 
@@ -306,85 +282,37 @@ Das örtlich zuständige Wasserstraßen- und Schifffahrtsamt kann erlauben, dass
 
 (4) Das Behördenschifferzeugnis berechtigt zum Führen von Behördenfahrzeugen, Feuerlöschbooten und Fahrzeugen des Katastrophenschutzes auf den Wasserstraßen der Zonen 3 und 4.
 
-(5) Das Kleinschifferzeugnis berechtigt dazu, Fahrzeuge zu führen, Keine entgeltliche oder anderweitig geschäfts- oder erwerbsmäßige Beförderung von Personen liegt vor bei Die Fahrzeugart und das Fahrtgebiet, für die das jeweilige Kleinschifferzeugnis gilt, ist durch die zuständige Behörde bei seiner Erteilung festzulegen und auf dem Befähigungszeugnis zu vermerken. Zur Vermeidung unbilliger Härten kann die zuständige Behörde auf Antrag genehmigen, dass das Kleinschifferzeugnis vorübergehend auch zum Führen von Fahrzeugen berechtigt, die in den Anwendungsbereich der Richtlinie (EU) 2017/2397 fallen.
+(5) Das Kleinschifferzeugnis berechtigt dazu, Fahrzeuge zu führen,
 
-1.
+1. auf denen entgeltlich oder anderweitig geschäfts- oder erwerbsmäßig Personen befördert werden,
 
-2.
+2. die nicht in den Anwendungsbereich der Richtlinie (EU) 2017/2397 fallen und
 
-3.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
+3. für die nach anderen Vorschriften kein Schifferzeugnis erforderlich ist.
 
 ### § 15a — Erweiterung des Geltungsbereichs der Befähigungszeugnisse auf Führungsebene
 
 (1) Die in § 15 genannten Befähigungszeugnisse gelten auch auf den Wasserstraßen der Zonen 1 und 2, wenn zusätzlich eine besondere Berechtigung für maritime Wasserstraßen vorliegt. Abweichend von Satz 1 gilt das Kleinschifferzeugnis im Falle des § 39 Absatz 1 Nummer 5 Buchstabe a Doppelbuchstabe aa nur für Wasserstraßen der Zonen 1 und 2.
 
-(2) Zum Führen von Fahrzeugen mit einer Länge von weniger als 20 Metern berechtigen auch Satz 1 gilt nicht für
+(2) Zum Führen von Fahrzeugen mit einer Länge von weniger als 20 Metern berechtigen auch
 
-1.
+1. auf Wasserstraßen der Zonen 1 und 2 a)ein Fährschifferzeugnis, wenn es für mindestens eine Fährstelle dieser Zonen gilt und nicht auf seil- oder kettengebundene Fähren beschränkt ist,b)ein Sportschifferzeugnis mit einer besonderen Berechtigung für maritime Wasserstraßen,c)ein Behördenschifferzeugnis mit einer besonderen Berechtigung für maritime Wasserstraßen,d)ein amtlicher Berechtigungsschein mit dem Geltungsbereich Seeschifffahrtsstraßen odere)eine Fahrerlaubnis mit dem Geltungsbereich Seeschifffahrtsstraßen nach der Sportbootführerscheinverordnung, ein Fährschifferzeugnis, wenn es für mindestens eine Fährstelle dieser Zonen gilt und nicht auf seil- oder kettengebundene Fähren beschränkt ist, ein Sportschifferzeugnis mit einer besonderen Berechtigung für maritime Wasserstraßen, ein Behördenschifferzeugnis mit einer besonderen Berechtigung für maritime Wasserstraßen, ein amtlicher Berechtigungsschein mit dem Geltungsbereich Seeschifffahrtsstraßen oder eine Fahrerlaubnis mit dem Geltungsbereich Seeschifffahrtsstraßen nach der Sportbootführerscheinverordnung,
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
+2. auf Wasserstraßen der Zonen 3 und 4 a)ein Fährschifferzeugnis, wenn es für mindestens eine Fährstelle dieser Zonen gilt und nicht auf seil- oder kettengebundene Fähren beschränkt ist,b)ein Sportschifferzeugnis,c)ein Behördenschifferzeugnis,d)ein amtlicher Berechtigungsschein mit dem Geltungsbereich Binnenschifffahrtsstraßen odere)eine Fahrerlaubnis für Sportboote unter Antriebsmaschine mit dem Geltungsbereich Binnenschifffahrtsstraßen nach § 3 Absatz 1 oder ein Befähigungszeugnis nach § 3 Absatz 4 der Sportbootführerscheinverordnung. ein Fährschifferzeugnis, wenn es für mindestens eine Fährstelle dieser Zonen gilt und nicht auf seil- oder kettengebundene Fähren beschränkt ist, ein Sportschifferzeugnis, ein Behördenschifferzeugnis, ein amtlicher Berechtigungsschein mit dem Geltungsbereich Binnenschifffahrtsstraßen oder eine Fahrerlaubnis für Sportboote unter Antriebsmaschine mit dem Geltungsbereich Binnenschifffahrtsstraßen nach § 3 Absatz 1 oder ein Befähigungszeugnis nach § 3 Absatz 4 der Sportbootführerscheinverordnung.
 
 ### § 16 — Besondere Berechtigungen für das Führen von Fahrzeugen
 
-(1) Wer als Schiffsführer oder Schiffsführerin ein Fahrzeug führt, bedarf zusätzlich zu dem nach § 11 Absatz 1, auch in Verbindung mit den Absätzen 2 und 4, erforderlichen Befähigungszeugnis folgender besonderer Berechtigungen: Satz 1 Nummer 2 gilt nur für
+(1) Wer als Schiffsführer oder Schiffsführerin ein Fahrzeug führt, bedarf zusätzlich zu dem nach § 11 Absatz 1, auch in Verbindung mit den Absätzen 2 und 4, erforderlichen Befähigungszeugnis folgender besonderer Berechtigungen:
 
-1.
+1. einer besonderen Berechtigung für Radar, wenn nach der Binnenschifffahrtsstraßenordnung, der Rheinschifffahrtspolizeiverordnung oder der Moselschifffahrtspolizeiverordnung nur unter Verwendung des Radars gefahren werden darf;
 
-2.
+2. einer besonderen Berechtigung für Risikostrecken, wenn Wasserstraßen befahren werden, die nach der Anlage 2 als Binnenwasserstraßenabschnitte mit besonderen Risiken (Risikostrecken) ausgewiesen wurden;
 
-3.
+3. einer besonderen Berechtigung für maritime Wasserstraßen, wenn Wasserstraßen der Zonen 1 und 2 (Binnenwasserstraßen mit maritimem Charakter) befahren werden;
 
-4.
+4. einer besonderen Berechtigung für Flüssigerdgas, wenn ein Fahrzeug geführt wird, das mit Flüssigerdgas betrieben wird;
 
-5.
-
-1.
-
-2.
-
-3.
+5. einer besonderen Berechtigung für Großverbände, wenn ein Großverband geführt wird.
 
 (2) Eine besondere Berechtigung nach Absatz 1 Satz 1 Nummer 1, 2, 3 oder 5 wird durch einen entsprechenden Eintrag in dem Befähigungszeugnis nachgewiesen. Die Berechtigung nach Absatz 1 Satz 1 Nummer 4 wird durch ein Unionsbefähigungszeugnis für Sachkundige für Flüssigerdgas nachgewiesen.
 
@@ -402,9 +330,9 @@ e)
 
 (2) Dem Zeugnis nach Absatz 1 ist gleichgestellt
 
-1.
+1. ein Unionsbefähigungszeugnis, das von einem anderen Mitgliedstaat der Europäischen Union erteilt worden ist,
 
-2.
+2. ein entsprechendes Befähigungszeugnis, das von einem Mitgliedstaat der Zentralkommission für die Rheinschifffahrt nach der Rheinschiffspersonalverordnung erteilt worden ist.
 
 (3) Für Sachkundige für die Fahrgastschifffahrt oder Sachkundige für Flüssigerdgas auf Seeschiffen ist bei Fahrten auf Wasserstraßen der Zonen 3 und 4 ausreichend ein den Anforderungen eines Befähigungszeugnisses nach Absatz 1 genügendes Zeugnis, das nach dem STCW-Übereinkommen erteilt oder nach dem STCW-Übereinkommen anerkannt ist.
 
@@ -412,19 +340,15 @@ e)
 
 (5) Ersthelfer oder Ersthelferinnen bedürfen
 
-1.
+1. einer Bescheinigung einer von der Deutschen Gesetzlichen Unfallversicherung auf der Grundlage arbeitsschutzrechtlicher Vorschriften ermächtigten Ausbildungsstelle oder
 
-2.
+2. eines dieser Bescheinigung entsprechenden Dokuments der nationalen oder regionalen Organisationen eines anderen Mitgliedstaates der Zentralkommission für die Rheinschifffahrt, die von dieser bekannt gemacht worden sind.
 
 (6) Atemschutzgerättragende Personen bedürfen
 
-1.
+1. einer Bescheinigung a)eines Anbieters eines nach § 58 zugelassenen Lehrgangs über die Teilnahme an einem Grundlehrgang sowieb)im Falle des § 88 Absatz 3 zusätzlich einer Bescheinigung über die Teilnahme an einem Wiederholungslehrgang,jeweils nach dem Muster in Anlage 3, oder eines Anbieters eines nach § 58 zugelassenen Lehrgangs über die Teilnahme an einem Grundlehrgang sowie im Falle des § 88 Absatz 3 zusätzlich einer Bescheinigung über die Teilnahme an einem Wiederholungslehrgang,
 
-a)
-
-b)
-
-2.
+2. eines Schulungsnachweises für atemschutzgerättragende Personen einer anerkannten Ausbildungsstelle eines anderen Mitgliedstaates der Zentralkommission für die Rheinschifffahrt, die von dieser bekannt gemacht worden ist.
 
 ### § 18 — Erfassung der Befähigungszeugnisse und Schifferdienstbücher im Befähigungsregister
 
@@ -432,23 +356,21 @@ b)
 
 (2) Ein erstmals erteiltes Befähigungszeugnis sowie ein erstmals ausgestelltes Schifferdienstbuch ist mit dem Status „aktiv“ in das jeweilige Register einzutragen. Ein Folgezeugnis ist als weiteres, neues Zeugnis mit einer entsprechenden Folgenummer in das Register einzutragen.
 
-(3) Das jeweilige Register ist nach den Vorgaben der Delegierten Verordnung (EU) 2020/473 der Kommission vom 20. Januar 2020 zur Ergänzung der Richtlinie (EU) 2017/2397 des Europäischen Parlaments und des Rates in Bezug auf die Standards der Datenbanken für Unionsbefähigungszeugnisse, Schifferdienstbücher und Bordbücher (ABl. L 100 vom 1.4.2020, S. 1) an die Unionsdatenbank der EU-Kommission anzubinden.
-
 ### § 19 — Abhandengekommene Befähigungszeugnisse, Schifferdienstbücher und Bordbücher
 
 (1) Ist ein Befähigungszeugnis, ein Schifferdienstbuch oder ein Bordbuch zerstört oder, insbesondere durch Diebstahl oder Verlust, abhandengekommen, so hat der Inhaber oder die Inhaberin
 
-1.
+1. den Verlust der ausstellenden Behörde unverzüglich anzuzeigen und ihr gegenüber die Zerstörung oder das Abhandenkommen glaubhaft zu machen und
 
-2.
+2. das Befähigungszeugnis, Schifferdienstbuch oder Bordbuch unverzüglich der zuständigen Behörde auszuhändigen, wenn es noch vorhanden ist oder sobald es nachträglich wieder aufgefunden wird.
 
 (2) Im Falle des Absatzes 1 ist die ausstellende Behörde befugt, den Status des betroffenen Befähigungszeugnisses oder Schifferdienstbuches im jeweiligen Register auf „zerstört“, „gestohlen“ oder „verloren“ zu ändern. Bei Bordbüchern ist die ausstellende Behörde befugt, dies in der zentralen Binnenschiffsbestandsdatei nach § 9 des Binnenschifffahrtsaufgabengesetzes zu vermerken oder dies zu veranlassen.
 
-(3) Zudem stellt die ausstellende Behörde auf Antrag des Inhabers oder der Inhaberin Die neuen Dokumente werden mit einer neuen Dokumentennummer und dem Datum der erneuten Ausstellung als Ausstellungsdatum ausgestellt. Darüber hinaus sind in dem neuen Dokument die Daten des vorherigen Dokumentes eingetragen, bei Befähigungszeugnissen einschließlich des Gültigkeitsdatums des vorherigen Dokuments. Für die Berechnung von Gültigkeitszeiten ist das Gültigkeitsdatum des vorherigen Dokuments maßgeblich.
+(3) Zudem stellt die ausstellende Behörde auf Antrag des Inhabers oder der Inhaberin
 
-1.
+1. bei Nachweis der Identität ein neues Befähigungszeugnis oder ein neues Schifferdienstbuch oder
 
-2.
+2. bei Vorlage einer Fahrtauglichkeitsbescheinigung ein neues Bordbuch aus.
 
 ## Abschnitt 1: Allgemeine Voraussetzungen für den Erwerb
 
@@ -462,11 +384,11 @@ Alle Mitglieder der Besatzung müssen medizinisch tauglich sein. Das ist der Fal
 
 (2) Bestehen Zweifel an der medizinischen Tauglichkeit, kann die zuständige Behörde oder, auf Einstiegs- und Betriebsebene und für das Maschinenpersonal, ein Wasserstraßen- und Schifffahrtsamt eine Tauglichkeitsuntersuchung durch einen anderen Arzt verlangen, deren Ergebnis vom Besatzungsmitglied durch einen Tauglichkeitsnachweis nach Absatz 1 Satz 1 nachzuweisen ist.
 
-(3) Wird in dem Tauglichkeitsnachweis nach Absatz 1 Satz 1 bescheinigt, so ordnet die ausstellende Behörde Risikominderungsmaßnahmen und Beschränkungen nach Maßgabe der Angaben in dem Tauglichkeitsnachweis durch Eintrag im Befähigungszeugnis an. Wird nachträglich ein Tauglichkeitsnachweis nach Absatz 1 Satz 1 vorgelegt, der dem Besatzungsmitglied eine unbeschränkte medizinische Tauglichkeit bescheinigt, hat die ausstellende Behörde die eingetragenen Risikominderungsmaßnahmen und Beschränkungen nach Satz 1 im Befähigungszeugnis ungültig zu machen.
+(3) Wird in dem Tauglichkeitsnachweis nach Absatz 1 Satz 1
 
-1.
+1. eine dauerhaft eingeschränkte medizinische Tauglichkeit oder
 
-2.
+2. eine vorübergehend eingeschränkte medizinische Tauglichkeit
 
 (4) Tritt eine Einschränkung der medizinischen Tauglichkeit nach Erteilung des Befähigungszeugnisses ein, so ordnet die ausstellende Behörde Risikominderungsmaßnahmen und Beschränkungen nach Maßgabe der Angaben im Tauglichkeitsnachweis nach Absatz 1 Satz 1 durch Eintrag im Befähigungszeugnis an. Hierzu hat der Inhaber oder die Inhaberin der ausstellenden Behörde das Befähigungszeugnis auszuhändigen. Wird danach ein Tauglichkeitsnachweis im Sinne des Absatzes 1 Satz 1 vorgelegt, das dem Besatzungsmitglied eine unbeschränkte medizinische Tauglichkeit bescheinigt, hat die ausstellende Behörde die eingetragenen Risikominderungsmaßnahmen und Beschränkungen nach Satz 1 aus dem Befähigungszeugnis ungültig zu machen.
 
@@ -476,19 +398,19 @@ Alle Mitglieder der Besatzung müssen medizinisch tauglich sein. Das ist der Fal
 
 (1) Die medizinische Tauglichkeit ist ab Vollendung des 60. Lebensjahres alle fünf Jahre und ab Vollendung des 70. Lebensjahres alle zwei Jahre durch einen in § 21 Absatz 1 Satz 1 genannten Tauglichkeitsnachweis nachzuweisen, der nicht älter als drei Monate sein darf.
 
-(2) Schiffsführer und Schiffsführerinnen haben den Tauglichkeitsnachweis nach § 21 Absatz 1 Satz 1 der ausstellenden Behörde vorzulegen. Besatzungsmitglieder auf Einstiegsebene und auf Betriebsebene und das Maschinenpersonal haben den Tauglichkeitsnachweis nach § 21 Absatz 1 Satz 1 einem Wasserstraßen- und Schifffahrtsamt vorzulegen. § 21 Absatz 2, 3 und 4 gilt entsprechend.
+(2) Schiffsführer und Schiffsführerinnen haben den Tauglichkeitsnachweis nach § 21 Absatz 1 Satz 1 der ausstellenden Behörde vorzulegen. Besatzungsmitglieder auf Einstiegsebene und auf Betriebsebene und das Maschinenpersonal haben den Tauglichkeitsnachweis nach § 21 Absatz 1 Satz 1 einem Wasserstraßen- und Schifffahrtsamt vorzulegen. § 21 Absatz 2, 3 und 4 gilt entsprechend.
 
 (3) Hat das Besatzungsmitglied Anhaltspunkte dafür, dass seine Tauglichkeit eingeschränkt sein könnte, muss es auch außerhalb der in Absatz 1 genannten Zeiträume seine Tauglichkeit untersuchen lassen. Erweist es sich dabei als eingeschränkt tauglich oder untauglich, hat es den Tauglichkeitsnachweis nach § 21 Absatz 1 Satz 1 hierüber unverzüglich der ausstellenden Behörde zu übermitteln.
 
-(4) Rechtfertigen Tatsachen die Annahme, dass die medizinische Tauglichkeit eines Besatzungsmitglieds nicht mehr besteht, können die folgenden Stellen von ihm die Vorlage eines aktuellen Tauglichkeitsnachweises im Sinne des § 21 Absatz 1 Satz 1 verlangen: In den Fällen des Satzes 1 Nummer 1 und 2 hat das Besatzungsmitglied den aktuellen Tauglichkeitsnachweis zudem der ausstellenden Behörde vorzulegen. In der behördlichen Anordnung kann vorgegeben werden, dass die Untersuchung auf bestimmte Krankheitsbilder zu erstrecken ist. Erweist sich die Annahme als ungerechtfertigt, trägt die anordnende Behörde die Kosten für den Tauglichkeitsnachweis nach § 21 Absatz 1 Satz 1.
+(4) Rechtfertigen Tatsachen die Annahme, dass die medizinische Tauglichkeit eines Besatzungsmitglieds nicht mehr besteht, können die folgenden Stellen von ihm die Vorlage eines aktuellen Tauglichkeitsnachweises im Sinne des § 21 Absatz 1 Satz 1 verlangen:
 
-1.
+1. sein Arbeitgeber,
 
-2.
+2. der Schiffsführer,
 
-3.
+3. die zuständige Behörde oder
 
-4.
+4. jedes Wasserstraßen- und Schifffahrtsamt für Zeugnisse auf Einstiegs- und Betriebsebene.
 
 ### § 23 — Medizinische Tauglichkeit der Maschinenkundigen
 
@@ -510,57 +432,51 @@ Abweichend von § 20 gelten für die medizinische Tauglichkeit der Maschinenkund
 
 (3) Fahrzeiten können auf folgenden Fahrzeugen erworben werden:
 
-1.
+1. Schiffen mit einer Länge von 20 Metern oder mehr;
 
-2.
+2. Schiffen, deren Produkt aus Länge, Breite und Tiefgang ein Volumen von 100 Kubikmetern oder mehr ergibt;
 
-3.
+3. Schlepp- oder Schubbooten, die ausgelegt sind zum a)Schleppen oder Schieben von Schiffen nach den Nummern 1 und 2,b)Schleppen oder Schieben von schwimmendem Gerät,c)längsseitigen Fortbewegen von Schiffen nach den Nummern 1 und 2 oder von schwimmendem Gerät; Schleppen oder Schieben von Schiffen nach den Nummern 1 und 2, Schleppen oder Schieben von schwimmendem Gerät, längsseitigen Fortbewegen von Schiffen nach den Nummern 1 und 2 oder von schwimmendem Gerät;
 
-a)
+4. Fahrgastschiffen;
 
-b)
+5. Schiffen, für die ein Zulassungszeugnis nach dem Europäischen Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen oder nach der Richtlinie 2008/68/EG des Europäischen Parlaments und des Rates vom 24. September 2008 über die Beförderung gefährlicher Güter im Binnenland (ABl. L 260 vom 30.9.2008, S. 13) verlangt wird;
 
-c)
+6. schwimmendem Gerät mit eigenem Antrieb.
 
-4.
+(4) Fahrzeiten können auch auf Fähren erworben werden. Dabei werden für das Unionspatent nur Fahrzeiten anerkannt, die erworben wurden auf frei fahrenden Fähren
 
-5.
+1. mit einer Länge von 20 Metern oder mehr,
 
-6.
+2. deren Produkt aus Länge, Breite und Tiefgang ein Volumen von 100 Kubikmetern oder mehr ergibt oder
 
-(4) Fahrzeiten können auch auf Fähren erworben werden. Dabei werden für das Unionspatent nur Fahrzeiten anerkannt, die erworben wurden auf frei fahrenden Fähren Fahrzeiten auf seil- oder kettengebundenen Fähren werden nur für das Fährschifferzeugnis anerkannt.
-
-1.
-
-2.
-
-3.
+3. die zur Beförderung von mehr als zwölf Fahrgästen gebaut und eingerichtet sind.
 
 (5) Auf Behördenfahrzeugen können unabhängig von ihrer Länge Fahrzeiten für Schifferzeugnisse erworben werden, sofern es sich um Fahrzeuge mit umschlossenem Steuerstand handelt.
 
-(6) Fahrzeiten auf den in den Absätzen 3 bis 5 genannten Fahrzeugen können auch erworben werden Dies gilt auch dann, wenn die in Satz 1 genannten Wasserstraßen keine schiffbare Verbindung zu einer anderen Wasserstraße aufweisen.
+(6) Fahrzeiten auf den in den Absätzen 3 bis 5 genannten Fahrzeugen können auch erworben werden
 
-1.
+1. auf Landeswasserstraßen sowie
 
-2.
+2. auf jenen ausländischen Wasserstraßen, die ganz oder zum Teil auf dem Gebiet der Europäischen Union verlaufen.
 
 (7) Fahrzeiten können bis zum Ablauf der Übergangsfrist nach § 34 der Binnenschiffsuntersuchungsordnung auch auf einem Sportboot erworben werden, das den Anforderungen des § 34 Absatz 1 Satz 1 Nummer 1 und 2 der Binnenschiffsuntersuchungsordnung genügt.
 
 ### § 26 — Nachweis der Fahrzeiten
 
-(1) Fahrzeiten werden durch ein den Anforderungen des § 27 Absatz 1 Satz 1 genügendes Schifferdienstbuch nachgewiesen.
+(1) Fahrzeiten werden durch ein den Anforderungen des § 27 Absatz 1 Satz 1 genügendes Schifferdienstbuch nachgewiesen.
 
 (2) Für den Erwerb eines Behördenschifferzeugnisses oder hierzu erforderlicher besonderer Berechtigungen kann die Fahrzeit abweichend von Absatz 1 auch durch eine amtliche Urkunde des Wohnsitzstaates oder durch ein amtliches Schreiben insbesondere einer Gebietskörperschaft nachgewiesen werden. Die Urkunde oder das Schreiben muss folgende Angaben enthalten:
 
-1.
+1. Art, Größe und Name der Fahrzeuge, auf denen die Person gefahren ist, sowie im Falle der Verwendung des Fahrzeuges zur Personenbeförderung jeweils die Anzahl der Fahrgäste für jede einzelne Fahrt;
 
-2.
+2. Namen der Schiffsführer oder Schiffsführerinnen;
 
-3.
+3. Zeitpunkt des Beginns und des Endes jeder Fahrt;
 
-4.
+4. Art der Beschäftigung;
 
-5.
+5. genaue Bezeichnung der jeweils befahrenen Strecke mit Anfangs- und Endpunkt.
 
 (3) Die Fahrzeit kann auch durch ein Befähigungszeugnis für Schiffsführer und Schiffsführerinnen nach § 11 Absatz 1, auch in Verbindung mit den Absätzen 2 und 4, nachgewiesen werden. Die Fahrzeit wird dabei in dem Umfang anerkannt, in dem sie für die Erteilung dieses Zeugnisses bereits nachgewiesen worden ist.
 
@@ -568,25 +484,19 @@ c)
 
 (5) Die Fahrzeit sowie die Streckenfahrten auf einem Sportboot nach § 25 Absatz 7 können bis zum Ablauf der dort bezeichneten Übergangsfrist auch durch die Arbeitsverträge, Bescheinigungen des Arbeitgebers oder eidesstattliche Versicherung nachgewiesen werden. Wird der Nachweis durch Arbeitsverträge oder Bescheinigungen des Arbeitgebers erbracht, müssen diese die folgenden Angaben enthalten:
 
-1.
+1. die Namen der Fahrzeuge, auf denen die Fahrten durchgeführt wurden,
 
-2.
+2. die konkreten Fahrzeiten und
 
-3.
+3. die Art der Beschäftigung.
 
 ### § 27 — Anerkennung von Fahrzeit
 
-(1) Sind für den Erwerb eines Befähigungszeugnisses Fahrzeiten vorgeschrieben, müssen diese von einer der nachfolgend genannten Behörden im Schifferdienstbuch geprüft und mit einem Kontrollvermerk versehen (validiert) worden sein: Im Falle des § 26 Absatz 2 oder 5 sind die dort genannten Dokumente ausreichend.
+(1) Sind für den Erwerb eines Befähigungszeugnisses Fahrzeiten vorgeschrieben, müssen diese von einer der nachfolgend genannten Behörden im Schifferdienstbuch geprüft und mit einem Kontrollvermerk versehen (validiert) worden sein:
 
-1.
+1. von einem Wasserstraßen- und Schifffahrtsamt,
 
-2.
-
-a)
-
-b)
-
-c)
+2. von der zuständigen Behörde a)eines anderen Mitgliedstaates der Europäischen Union,b)eines anderen Mitgliedstaates der Zentralkommission für die Rheinschifffahrt oderc)eines Staates, der nicht der Europäischen Union angehört und dessen Schifferdienstbuch nach der Richtlinie (EU) 2017/2397 von der Kommission der Europäischen Union anerkannt worden ist. eines anderen Mitgliedstaates der Europäischen Union, eines anderen Mitgliedstaates der Zentralkommission für die Rheinschifffahrt oder eines Staates, der nicht der Europäischen Union angehört und dessen Schifferdienstbuch nach der Richtlinie (EU) 2017/2397 von der Kommission der Europäischen Union anerkannt worden ist.
 
 (2) Das Wasserstraßen- und Schifffahrtsamt darf nur solche Reisen validieren, die nicht länger als 15 Monate zurückliegen. Es darf zur Prüfung der ausgeführten Reisen die Vorlage von Bordbüchern oder von anderen geeigneten Belegen verlangen.
 
@@ -602,135 +512,93 @@ c)
 
 (5) Wer über ein Schifferdienstbuch verfügen muss, hat dies bei erstmaliger Aufnahme des Dienst-, Arbeits- oder sonstigen Verhältnisses an Bord der Schiffsführung auszuhändigen.
 
-(6) Für die Eintragung der Angaben zu den durchgeführten Reisen im Schifferdienstbuch ist die Schiffsführung verantwortlich. Hierzu hat sie Satz 2 Nummer 1 gilt nicht, wenn der Inhaber des Schifferdienstbuches Steuermann oder Steuerfrau ist und im Schifferdienstbuch Folgendes vermerkt ist: „beabsichtigt nicht den Erwerb eines Befähigungszeugnisses als Schiffsführer oder Schiffsführerin“. Der Vermerk muss von dem Inhaber oder der Inhaberin des Schifferdienstbuches unterzeichnet sein.
+(6) Für die Eintragung der Angaben zu den durchgeführten Reisen im Schifferdienstbuch ist die Schiffsführung verantwortlich. Hierzu hat sie
 
-1.
+1. vorbehaltlich des Satzes 3 im Schifferdienstbuch regelmäßig alle Eintragungen vorzunehmen,
 
-2.
+2. das Schifferdienstbuch bis zur Beendigung des Dienst-, Arbeits- oder sonstigen Verhältnisses sicher zu verwahren und
 
-3.
+3. das Schifferdienstbuch auf Verlangen den kontrollierenden Behörden oder auf Wunsch dem Inhaber oder der Inhaberin jederzeit und unverzüglich auszuhändigen.
 
 ## Abschnitt 2: Einstiegsebene, Betriebsebene und Maschinenpersonal
 
 ### § 29 — Decksleute
 
-Wer ein Unionsbefähigungszeugnis als Decksmann oder Decksfrau erwerben will, muss Satz 1 Nummer 2 gilt nicht für Personen, die über ein Befähigungszeugnis oder einen Befähigungsnachweis nach den Teilen 2 bis 5 der Seeleute-Befähigungsverordnung oder ein entsprechendes, in Deutschland anerkanntes, ausländisches Zeugnis verfügen.
+Wer ein Unionsbefähigungszeugnis als Decksmann oder Decksfrau erwerben will, muss
 
-1.
+1. mindestens 16 Jahre alt sein und
 
-2.
+2. an einer grundlegenden Sicherheitsausbildung nach Anlage 7 teilgenommen haben, die nach § 53 zugelassen wurde.
 
 ### § 30 — Leichtmatrose und Leichtmatrosin
 
 Wer ein Unionsbefähigungszeugnis als Leichtmatrose oder Leichtmatrosin erwerben will, muss
 
-1.
+1. mindestens 15 Jahre alt sein und
 
-2.
-
-a)
-
-b)
+2. Folgendes vorweisen können: a)einen Ausbildungsvertrag im Rahmen eines nach § 55 Absatz 1 Nummer 1 oder 3 oder Absatz 2 zugelassenen Ausbildungsprogramms oderb)einen Arbeitsvertrag im Rahmen eines nach § 55 Absatz 3 zugelassenen Weiterbildungsprogramms für die Betriebsebene. einen Ausbildungsvertrag im Rahmen eines nach § 55 Absatz 1 Nummer 1 oder 3 oder Absatz 2 zugelassenen Ausbildungsprogramms oder einen Arbeitsvertrag im Rahmen eines nach § 55 Absatz 3 zugelassenen Weiterbildungsprogramms für die Betriebsebene.
 
 ### § 31 — Matrose und Matrosin
 
 Wer ein Unionsbefähigungszeugnis als Matrose oder Matrosin erwerben will, muss
 
-1.
+1. entweder a)mindestens 17 Jahre alt sein,b)ein nach § 55 Absatz 1 zugelassenes Ausbildungsprogramm oder ein entsprechendes, von einem anderen Mitgliedstaat der Europäischen Union zugelassenes Ausbildungsprogramm erfolgreich abgeschlossen haben undc)eine Fahrzeit von mindestens 90 Tagen als Teil dieses Ausbildungsprogramms nachweisen mindestens 17 Jahre alt sein, ein nach § 55 Absatz 1 zugelassenes Ausbildungsprogramm oder ein entsprechendes, von einem anderen Mitgliedstaat der Europäischen Union zugelassenes Ausbildungsprogramm erfolgreich abgeschlossen haben und eine Fahrzeit von mindestens 90 Tagen als Teil dieses Ausbildungsprogramms nachweisen
 
-a)
+2. oder a)mindestens 18 Jahre alt sein,b)eine behördliche Befähigungsprüfung zur Betriebsebene bestanden haben undc)eine Fahrzeit als Mitglied der Decksmannschaft von mindestens 360 Tagen nachweisen können mindestens 18 Jahre alt sein, eine behördliche Befähigungsprüfung zur Betriebsebene bestanden haben und eine Fahrzeit als Mitglied der Decksmannschaft von mindestens 360 Tagen nachweisen können
 
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-c)
-
-3.
-
-a)
-
-b)
-
-c)
+3. oder a)ein nach § 55 Absatz 3 zugelassenes, mindestens neun Monate umfassendes Weiterbildungsprogramm für die Betriebsebene oder ein entsprechendes, von einem anderen Mitgliedstaat der Europäischen Union zugelassenes Weiterbildungsprogramm erfolgreich abgeschlossen haben,b)eine Fahrzeit von mindestens 90 Tagen als Teil dieses Weiterbildungsprogramms nachweisen undc)vor Beginn des Weiterbildungsprogramms über eine Berufserfahrung von mindestens fünf Jahren, eine Fahrzeit von 500 Tagen als Mitglied der Decksmannschaft auf einem Seeschiff oder über eine abgeschlossene, mindestens dreijährige Berufsausbildung verfügen.Im Falle des Satzes 1 Nummer 2 Buchstabe c können bis zu 180 Tage Fahrzeit durch 250 Tage Berufserfahrung als Mitglied der Decksmannschaft auf einem Seeschiff ersetzt werden. ein nach § 55 Absatz 3 zugelassenes, mindestens neun Monate umfassendes Weiterbildungsprogramm für die Betriebsebene oder ein entsprechendes, von einem anderen Mitgliedstaat der Europäischen Union zugelassenes Weiterbildungsprogramm erfolgreich abgeschlossen haben, eine Fahrzeit von mindestens 90 Tagen als Teil dieses Weiterbildungsprogramms nachweisen und vor Beginn des Weiterbildungsprogramms über eine Berufserfahrung von mindestens fünf Jahren, eine Fahrzeit von 500 Tagen als Mitglied der Decksmannschaft auf einem Seeschiff oder über eine abgeschlossene, mindestens dreijährige Berufsausbildung verfügen.
 
 ### § 32 — Bootsleute
 
 Wer ein Unionsbefähigungszeugnis als Bootsmann oder Bootsfrau erwerben will, muss
 
-1.
+1. entweder eine Fahrzeit in der Binnenschifffahrt von mindestens 180 Tagen als Matrose oder Matrosin nachweisen
 
-2.
-
-a)
-
-b)
+2. oder a)ein nach § 55 Absatz 1 zugelassenes Ausbildungsprogramm für die Betriebsebene oder ein entsprechendes, von einem anderen Mitgliedstaat der Europäischen Union zugelassenes Ausbildungsprogramm erfolgreich abgeschlossen haben undb)eine Fahrzeit von mindestens 270 Tagen als Teil dieses Ausbildungsprogramms nachweisen. ein nach § 55 Absatz 1 zugelassenes Ausbildungsprogramm für die Betriebsebene oder ein entsprechendes, von einem anderen Mitgliedstaat der Europäischen Union zugelassenes Ausbildungsprogramm erfolgreich abgeschlossen haben und eine Fahrzeit von mindestens 270 Tagen als Teil dieses Ausbildungsprogramms nachweisen.
 
 ### § 33 — Steuerleute
 
 Wer ein Unionsbefähigungszeugnis als Steuermann oder Steuerfrau erwerben will, muss
 
-1.
+1. entweder a)eine Fahrzeit in der Binnenschifffahrt von mindestens 180 Tagen als Bootsmann oder Bootsfrau nachweisen undb)ein Sprechfunkzeugnis besitzen eine Fahrzeit in der Binnenschifffahrt von mindestens 180 Tagen als Bootsmann oder Bootsfrau nachweisen und ein Sprechfunkzeugnis besitzen
 
-a)
+2. oder a)ein nach § 55 Absatz 1 oder 2 zugelassenes Ausbildungsprogramm oder ein entsprechendes, von einem anderen Mitgliedstaat der Europäischen Union zugelassenes Ausbildungsprogramm erfolgreich abgeschlossen haben,b)eine Fahrzeit von mindestens 360 Tagen als Teil dieses Ausbildungsprogramms nachweisen undc)ein Sprechfunkzeugnis besitzen ein nach § 55 Absatz 1 oder 2 zugelassenes Ausbildungsprogramm oder ein entsprechendes, von einem anderen Mitgliedstaat der Europäischen Union zugelassenes Ausbildungsprogramm erfolgreich abgeschlossen haben, eine Fahrzeit von mindestens 360 Tagen als Teil dieses Ausbildungsprogramms nachweisen und ein Sprechfunkzeugnis besitzen
 
-b)
-
-2.
-
-a)
-
-b)
-
-c)
-
-3.
-
-a)
-
-b)
-
-c)
+3. oder a)eine Berufserfahrung von mindestens 500 Tagen als Kapitän oder Kapitänin auf einem Seeschiff nachweisen,b)eine behördliche Befähigungsprüfung für die Betriebsebene bestanden haben undc)ein Sprechfunkzeugnis besitzen. eine Berufserfahrung von mindestens 500 Tagen als Kapitän oder Kapitänin auf einem Seeschiff nachweisen, eine behördliche Befähigungsprüfung für die Betriebsebene bestanden haben und ein Sprechfunkzeugnis besitzen.
 
 ### § 34 — Maschinenkundige
 
 (1) Wer ein Befähigungszeugnis als Maschinenkundiger oder Maschinenkundige erwerben will, muss
 
-1.
+1. mindestens 18 Jahre alt sein und
 
-2.
+2. die zur Bedienung der Maschinenanlage erforderlichen Kenntnisse besitzen.
 
 (2) Erforderlich sind Kenntnisse
 
-1.
+1. der Fachausdrücke im Schiffsmaschinenbau, Maschinenbau und der Elektrotechnik,
 
-2.
+2. der Maschinenelemente, insbesondere Lager, Kupplungen, Getriebe und Armaturen, sowie Pumpen und Verdichter,
 
-3.
+3. der Arten und Verwendung von Schiffsantriebsmaschinen, Decks- und Arbeitsmaschinen,
 
-4.
+4. der zum Betrieb von Verbrennungs- oder Elektromotoren notwendigen Systeme und Betriebsstoffe oder Energiequellen sowie
 
-5.
+5. der Bedeutung der Überwachung der Einsatzbereitschaft von Maschinen, Systemen, Einrichtungen und Ausrüstungen für einen sicheren Schiffsbetrieb.
 
 (3) Die erforderlichen Kenntnisse werden nachgewiesen durch
 
-1.
+1. eine schriftliche oder elektronische Bestätigung des Herstellers der zu bedienenden Maschinenanlage, dass die betreffende Person eine Unterweisung in die Maschinenanlage erhalten hat,
 
-2.
+2. einen Nachweis über die Teilnahme an einem nach § 54 zugelassenen Lehrgang für Maschinenkundige in der Binnenschifffahrt,
 
-3.
+3. einen Berufsbildungsabschluss im Kraftfahrzeug-, Maschinen- oder Elektronikgewerbe oder als Schiffsmechaniker oder als Schiffsmechanikerin oder
 
-4.
+4. eine Berechtigung der Vollzugsbehörden zum Umgang mit Maschinenanlagen auf dienstlichen Fahrzeugen,
 
-5.
+5. den erfolgreichen Abschluss eines nach § 55 Absatz 1 Nummer 1 zugelassenen Ausbildungsprogramms mit dem Schwerpunkt Güterschifffahrt oder
 
-6.
+6. ein Befähigungszeugnis als Maschinist oder Maschinistin in der Seeschifffahrt.
 
 ### § 35 — Behördliche Befähigungsprüfung für die Betriebsebene
 
@@ -746,41 +614,11 @@ c)
 
 Wer ein Unionspatent erwerben will, muss
 
-1.
+1. entweder a)mindestens 18 Jahre alt sein,b)ein nach § 55 Absatz 2 zugelassenes Ausbildungsprogramm für die Führungsebene oder ein entsprechendes, von einem anderen Mitgliedstaat der Europäischen Union zugelassenes Ausbildungsprogramm erfolgreich abgeschlossen haben,c)eine Fahrzeit von mindestens 360 Tagen als Teil dieses Ausbildungsprogramms oder danach nachweisen undd)ein Sprechfunkzeugnis besitzen mindestens 18 Jahre alt sein, ein nach § 55 Absatz 2 zugelassenes Ausbildungsprogramm für die Führungsebene oder ein entsprechendes, von einem anderen Mitgliedstaat der Europäischen Union zugelassenes Ausbildungsprogramm erfolgreich abgeschlossen haben, eine Fahrzeit von mindestens 360 Tagen als Teil dieses Ausbildungsprogramms oder danach nachweisen und ein Sprechfunkzeugnis besitzen
 
-a)
+2. oder a)mindestens 18 Jahre alt sein,b)ein Unionsbefähigungszeugnis für Steuerleute nach dieser Verordnung oder nach den Rechtsvorschriften der anderen Mitgliedstaaten der Europäischen Union zur Umsetzung der Richtlinie (EU) 2017/2397 besitzen,c)eine Fahrzeit von mindestens 180 Tagen als Steuermann oder Steuerfrau nachweisen,d)eine behördliche Befähigungsprüfung zum Unionspatent bestanden haben unde)ein Sprechfunkzeugnis besitzen mindestens 18 Jahre alt sein, ein Unionsbefähigungszeugnis für Steuerleute nach dieser Verordnung oder nach den Rechtsvorschriften der anderen Mitgliedstaaten der Europäischen Union zur Umsetzung der Richtlinie (EU) 2017/2397 besitzen, eine Fahrzeit von mindestens 180 Tagen als Steuermann oder Steuerfrau nachweisen, eine behördliche Befähigungsprüfung zum Unionspatent bestanden haben und ein Sprechfunkzeugnis besitzen
 
-b)
-
-c)
-
-d)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-3.
-
-a)
-
-b)
-
-aa)
-
-bb)
-
-c)
-
-d)
+3. oder a)mindestens 18 Jahre alt sein,b)eine Fahrzeit aa)von mindestens 540 Tagen nachweisen, oderbb)von mindestens 180 Tagen nachweisen, wenn zusätzlich eine als Mitglied einer Decksmannschaft auf einem Seeschiff erworbene Berufserfahrung von mindestens 500 Tagen nachgewiesen werden kann,c)eine behördliche Befähigungsprüfung zum Unionspatent bestanden haben undd)ein Sprechfunkzeugnis besitzen. mindestens 18 Jahre alt sein, eine Fahrzeit aa)von mindestens 540 Tagen nachweisen, oderbb)von mindestens 180 Tagen nachweisen, wenn zusätzlich eine als Mitglied einer Decksmannschaft auf einem Seeschiff erworbene Berufserfahrung von mindestens 500 Tagen nachgewiesen werden kann, von mindestens 540 Tagen nachweisen, oder von mindestens 180 Tagen nachweisen, wenn zusätzlich eine als Mitglied einer Decksmannschaft auf einem Seeschiff erworbene Berufserfahrung von mindestens 500 Tagen nachgewiesen werden kann, eine behördliche Befähigungsprüfung zum Unionspatent bestanden haben und ein Sprechfunkzeugnis besitzen.
 
 ### § 38 — Behördliche Befähigungsprüfung zum Unionspatent
 
@@ -788,51 +626,41 @@ d)
 
 (2) Die theoretische Prüfung wird in schriftlicher oder digitaler Form durchgeführt und besteht aus Antwort-Wahl-Aufgaben. Jeder Prüfling eines Prüfungstermins erhält andere Prüfungsfragen als die übrigen Teilnehmenden der Prüfung.
 
-(3) Die praktische Prüfung wird entsprechend den Vorgaben der Anlage 10 durchgeführt. Sie umfasst die Prüfungsteile Reiseplanung und Reisedurchführung. Der Prüfungsteil Reiseplanung wird als mündliche Prüfung durchgeführt. Der Prüfungsteil Reisedurchführung wird an einem Simulator abgenommen, der nach § 89 zugelassen ist. Auf Wunsch des Prüflings wird ihm ein Zeugnis über das Bestehen der praktischen Prüfung am Simulator nach dem Muster des Anhangs III der Durchführungsverordnung (EU) 2020/182 ausgestellt, wenn er das Unionspatent im Ausland erwerben möchte. Der Prüfungsteil Reisedurchführung kann zur Vermeidung unbilliger Härten auch an Bord eines Schiffes abgenommen werden.
+(3) Die praktische Prüfung wird entsprechend den Vorgaben der Anlage 10 durchgeführt. Sie umfasst die Prüfungsteile Reiseplanung und Reisedurchführung. Der Prüfungsteil Reiseplanung wird als mündliche Prüfung durchgeführt. Der Prüfungsteil Reisedurchführung wird an einem Simulator abgenommen, der nach § 89 zugelassen ist. Auf Wunsch des Prüflings wird ihm ein Zeugnis über das Bestehen der praktischen Prüfung am Simulator nach dem Muster des Anhangs III der Durchführungsverordnung (EU) 2020/182 ausgestellt, wenn er das Unionspatent im Ausland erwerben möchte. Der Prüfungsteil Reisedurchführung kann zur Vermeidung unbilliger Härten auch an Bord eines Schiffes abgenommen werden.
 
-(4) Wer weder ein zugelassenes Ausbildungsprogramm oder Weiterbildungsprogramm abgeschlossen hat, das jeweils auf den Befähigungsstandards für die Betriebsebene beruht, noch eine behördliche Befähigungsprüfung bestanden hat, in deren Rahmen überprüft wurde, dass die Befähigungsstandards für die Betriebsebene erfüllt sind, muss ergänzend zu der Prüfung zum Unionspatent nach Absatz 1 eine Zusatzprüfung nach Maßgabe des Satzes 2 ablegen. Die Zusatzprüfung umfasstSatz 1 gilt nicht für Personen, die das Befähigungszeugnis als Matrose oder Matrosin vor dem 18. Januar 2022 erworben haben.
+(4) Wer weder ein zugelassenes Ausbildungsprogramm oder Weiterbildungsprogramm abgeschlossen hat, das jeweils auf den Befähigungsstandards für die Betriebsebene beruht, noch eine behördliche Befähigungsprüfung bestanden hat, in deren Rahmen überprüft wurde, dass die Befähigungsstandards für die Betriebsebene erfüllt sind, muss ergänzend zu der Prüfung zum Unionspatent nach Absatz 1 eine Zusatzprüfung nach Maßgabe des Satzes 2 ablegen. Die Zusatzprüfung umfasst
 
-1.
+1. einen praktischen Prüfungsteil mit den besonderen Anforderungen, die in den Standards in Anlage 11 festgelegt sind, und
 
-2.
+2. einen theoretischen Prüfungsteil mit den besonderen Anforderungen, die im Abschnitt 0 des Standards in Anlage 9 festgelegt sind.
 
 ### § 39 — Erwerb des Schifferzeugnisses
 
-(1) Wer ein Schifferzeugnis erwerben möchte, muss Sofern Fahrzeiten überwiegend oder ganz auf seil- oder kettengebundenen Fähren nachgewiesen werden, wird das Fährschifferzeugnis auf diesen Fährtyp beschränkt.
+(1) Wer ein Schifferzeugnis erwerben möchte, muss
 
-1.
+1. mindestens das 18. Lebensjahr vollendet haben,
 
-2.
+2. eine behördliche Befähigungsprüfung zum Erwerb des jeweiligen Schifferzeugnisses erfolgreich abgelegt haben,
 
-3.
+3. für das Fährschifferzeugnis, das Behördenschifferzeugnis, das Sportschifferzeugnis oder, im Falle des § 15 Absatz 5 Satz 4, für das Kleinschifferzeugnis ein Sprechfunkzeugnis besitzen,
 
-4.
+4. für das Fährschifferzeugnis oder für das Behördenschifferzeugnis eine Fahrzeit von 180 Tagen nachweisen und
 
-5.
-
-a)
-
-aa)
-
-bb)
-
-cc)
-
-b)
+5. füra)das Kleinschifferzeugnis für Wasserstraßen der Zonen 1 und 2aa)ein in § 40 Absatz 4 Nummer 1 oder 2 genanntes Befähigungszeugnis,bb)einen in § 40 Absatz 4 Nummer 5 genannten Berechtigungsschein odercc)ein in § 40 Absatz 4 Nummer 4 genanntes Befähigungszeugnis, soweit es mit einer besonderen Berechtigung für maritime Wasserstraßen verbunden ist,b)das Kleinschifferzeugnis für Wasserstraßen der Zonen 3 und 4 ein in § 40 Absatz 4 Nummer 3 bis 6 genanntes Befähigungszeugnisbesitzen. das Kleinschifferzeugnis für Wasserstraßen der Zonen 1 und 2aa)ein in § 40 Absatz 4 Nummer 1 oder 2 genanntes Befähigungszeugnis,bb)einen in § 40 Absatz 4 Nummer 5 genannten Berechtigungsschein odercc)ein in § 40 Absatz 4 Nummer 4 genanntes Befähigungszeugnis, soweit es mit einer besonderen Berechtigung für maritime Wasserstraßen verbunden ist, ein in § 40 Absatz 4 Nummer 1 oder 2 genanntes Befähigungszeugnis, einen in § 40 Absatz 4 Nummer 5 genannten Berechtigungsschein oder ein in § 40 Absatz 4 Nummer 4 genanntes Befähigungszeugnis, soweit es mit einer besonderen Berechtigung für maritime Wasserstraßen verbunden ist, das Kleinschifferzeugnis für Wasserstraßen der Zonen 3 und 4 ein in § 40 Absatz 4 Nummer 3 bis 6 genanntes Befähigungszeugnis
 
 (2) Die zuständige Behörde kann zur Vermeidung unbilliger Härten für die Erteilung eines Schifferzeugnisses Ausnahmen von dem Besitz eines Sprechfunkzeugnisses oder von den Anforderungen an die Fahrzeit zulassen. Die zuständige Behörde kann die Erteilung mit Auflagen verbinden. Ausnahmen sind insbesondere möglich bei Personen, die
 
-1.
+1. in einem geografisch abgegrenzten Gebiet Fahrten unternehmen oder
 
-2.
+2. im Saisonbetrieb fahren.
 
 (3) Zudem muss die das Schifferzeugnis beantragende Person die notwendige Zuverlässigkeit zum Führen eines Fahrzeugs besitzen. Unzuverlässig ist insbesondere,
 
-1.
+1. wer erheblich gegen eine verkehrsstrafrechtliche Vorschrift verstoßen hat und deswegen rechtskräftig verurteilt worden ist,
 
-2.
+2. wer wiederholt mit Geldbuße geahndete Zuwiderhandlungen gegen Schifffahrtspolizeivorschriften begangen hat oder
 
-3.
+3. wer nach seinem bisherigen Verhalten nicht erwarten lässt, die sichere Führung eines Fahrzeuges sowie die Vorgesetztenfunktion an Bord zu übernehmen zu können.
 
 ### § 40 — Behördliche Befähigungsprüfung zum Erwerb des Schifferzeugnisses
 
@@ -844,17 +672,17 @@ b)
 
 (4) Abweichend von Absatz 1 besteht die Prüfung zum Sportschifferzeugnis nur aus einem theoretischen Teil, wenn der Prüfling über Folgendes verfügt:
 
-1.
+1. eine Fahrerlaubnis mit dem Geltungsbereich Seeschifffahrtsstraßen nach der Sportbootführerscheinverordnung,
 
-2.
+2. ein Befähigungszeugnis als Kapitän oder als Nautischer Schiffsoffizier oder einen Befähigungsnachweis als Schiffsmechaniker nach seeverkehrsrechtlichen Vorschriften,
 
-3.
+3. eine Fahrerlaubnis für Sportboote unter Antriebsmaschine mit dem Geltungsbereich Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung,
 
-4.
+4. einen Fährführerschein oder ein Fährschifferzeugnis für frei fahrende Fähren,
 
-5.
+5. einen amtlichen Berechtigungsschein oder
 
-6.
+6. mindestens ein Befähigungszeugnis als Steuermann.
 
 (5) Abweichend von Absatz 1 besteht die Prüfung für das Kleinschifferzeugnis nur aus einem theoretischen Teil, der abweichend von Absatz 2 die Prüfungsteile „Navigation und Verkehrsvorschriften“, „Betrieb des Fahrzeugs“, „Wartung und Instandhaltung“ und „Gesundheit, Sicherheit und Umweltschutz“ der Prüfung zum Unionspatent umfasst. Die Prüfung kann durch Fragen bezogen auf den jeweiligen Einsatzbereich des Kleinschifferzeugnisses ergänzt werden. Wenn das Kleinschifferzeugnis für das Führen von Fahrzeugen erworben werden soll, die in den Anwendungsbereich der Richtlinie (EU) 2017/2397 fallen, ist abweichend von Satz 1 zusätzlich eine praktische Prüfung nach Absatz 3 sowie eine theoretische Prüfung erforderlich, die alle Prüfungsteile der theoretischen Prüfung zum Unionspatent umfasst. Wenn das Kleinschifferzeugnis unter Gewährung von Ausnahmen nach § 39 Absatz 2 erworben wird, kann die zuständige Behörde abweichend von Satz 1 das Ablegen einer praktischen Prüfung nach Absatz 3 verlangen.
 
@@ -866,45 +694,31 @@ b)
 
 (1) Wer eine besondere Berechtigung für Radar erwerben will, muss
 
-1.
+1. verfügen über a)ein Befähigungszeugnis als Schiffsführer oder Schiffsführerin oderb)einen amtlichen Berechtigungsschein oderc)einen Sportbootführerschein und ein Befähigungszeugnis als Schiffsführer oder Schiffsführerin oder einen amtlichen Berechtigungsschein oder einen Sportbootführerschein und
 
-a)
-
-b)
-
-c)
-
-2.
+2. die behördliche Befähigungsprüfung für Radar bestanden haben.
 
 (2) Gegenstand der behördlichen Befähigungsprüfung sind die Kenntnisse und Fertigkeiten nach Anlage 13. Die Prüfung besteht aus einem theoretischen und einem praktischen Prüfungsteil.
 
 (3) Die praktische Prüfung wird nach Maßgabe der Anlage 14 durchgeführt. Sie wird entweder an einem hierfür nach § 89 zugelassenen Simulator oder an Bord eines hierfür geeigneten Fahrzeuges abgenommen.
 
-(4) Inhaber oder Inhaberinnen eines Fährschifferzeugnisses können statt einer besonderen Berechtigung für Radar eine besondere Berechtigung für Radar auf Fähren unter folgenden Bedingungen erwerben: Die besondere Berechtigung für Radar auf Fähren ist auf die jeweilige Fährstelle begrenzt.
+(4) Inhaber oder Inhaberinnen eines Fährschifferzeugnisses können statt einer besonderen Berechtigung für Radar eine besondere Berechtigung für Radar auf Fähren unter folgenden Bedingungen erwerben:
 
-1.
+1. Der praktische Teil beschränkt sich auf Prüfungsinhalte, die der Prüfling zum Führen von Fähren auf derjenigen Fährstrecke beherrschen muss, für die er die besondere Berechtigung für Radar beantragt hat. Dabei sind die jeweiligen örtlichen Verhältnisse zu berücksichtigen.
 
-2.
+2. Der praktische Teil ist an der betreffenden Fährstelle durchzuführen.
 
-3.
+3. Soll eine besondere Berechtigung für Radar für Fähren auf eine andere Fährstelle erweitert werden, kann die Prüfungskommission Befreiungen und Erleichterungen gewähren oder von einer Prüfung ganz absehen; dabei sind die örtlichen Verhältnisse der Fährstrecke und das jeweilige Fährgefäß bei der Prüfung zu berücksichtigen.
 
 ### § 42 — Erwerb der besonderen Berechtigung für Risikostrecken
 
-(1) Wer eine besondere Berechtigung für Risikostrecken erwerben will, muss Die Fahrten auf dem Risikostreckenabschnitt werden anhand des Schifferdienstbuches nachgewiesen. Die Fahrten müssen nach § 27 Absatz 1 validiert worden sein.
+(1) Wer eine besondere Berechtigung für Risikostrecken erwerben will, muss
 
-1.
+1. verfügen über a)ein Befähigungszeugnis als Schiffsführer oder Schiffsführerin oderb)einen amtlichen Berechtigungsschein, ein Befähigungszeugnis als Schiffsführer oder Schiffsführerin oder einen amtlichen Berechtigungsschein,
 
-a)
+2. den betroffenen Abschnitt der Risikostrecke innerhalb der letzten drei Jahre mindestens drei Mal zu Berg und drei Mal zu Tal durchfahren haben und während dieser Fahrten a)im Steuerhaus anwesend gewesen sein sowieb)mindestens je einmal zu Berg und zu Tal selbstständig Kurs und Geschwindigkeit bestimmt haben und im Steuerhaus anwesend gewesen sein sowie mindestens je einmal zu Berg und zu Tal selbstständig Kurs und Geschwindigkeit bestimmt haben und
 
-b)
-
-2.
-
-a)
-
-b)
-
-3.
+3. die behördliche Befähigungsprüfung für Risikostrecken bestanden haben.
 
 (2) Gegenstand der behördlichen Befähigungsprüfung für Risikostrecken sind die Kenntnisse und Fertigkeiten nach Anlage 15. Die Prüfung ist mündlich abzunehmen.
 
@@ -914,13 +728,9 @@ b)
 
 (1) Wer eine besondere Berechtigung für maritime Wasserstraßen erwerben will, muss
 
-1.
+1. verfügen über a)ein Befähigungszeugnis als Schiffsführer oder Schiffsführerin oderb)einen amtlichen Berechtigungsschein und ein Befähigungszeugnis als Schiffsführer oder Schiffsführerin oder einen amtlichen Berechtigungsschein und
 
-a)
-
-b)
-
-2.
+2. die behördliche Befähigungsprüfung für maritime Wasserstraßen bestanden haben.
 
 (2) Gegenstand der behördlichen Befähigungsprüfung für maritime Wasserstraßen sind die Kenntnisse und Fertigkeiten nach Anlage 16. Die Prüfung ist mündlich abzunehmen.
 
@@ -930,11 +740,11 @@ b)
 
 Wer die besondere Berechtigung für Großverbände erwerben will, muss
 
-1.
+1. verfügen über ein Unionspatent,
 
-2.
+2. eine Fahrzeit von mindestens 720 Tagen vorweisen können, davon mindestens 540 Tage als Schiffsführer oder Schiffsführerin und
 
-3.
+3. mindestens 180 Tage Kurs und Geschwindigkeit eines Großverbandes selbstständig bestimmt haben.
 
 ### § 45 — Zeitpunkt der Prüfungen für besondere Berechtigungen für Radar, maritime Wasserstraßen und Risikostrecken
 
@@ -948,17 +758,17 @@ Wer die besondere Berechtigung für Großverbände erwerben will, muss
 
 Wer ein Unionsbefähigungszeugnis für Sachkundige für Flüssigerdgas erwerben möchte, muss
 
-1.
+1. mindestens 18 Jahre alt sein und
 
-2.
+2. den Lehrgang für Sachkundige für Flüssigerdgas erfolgreich absolviert haben.
 
 ### § 47 — Lehrgang zur Sachkunde für Flüssigerdgas
 
 (1) Der Lehrgang zur Sachkunde für Flüssigerdgas muss nach § 56 zugelassen sein und enthalten:
 
-1.
+1. eine theoretische Ausbildung, die das Erlangen der in Anlage 17 aufgeführten Kenntnisse ermöglicht;
 
-2.
+2. eine praktische Ausbildung, die das Erlangen der in Anlage 17 aufgeführten Fertigkeiten ermöglicht.
 
 (2) Der Lehrgang ist erfolgreich abgeschlossen, wenn die Abschlussprüfung bestanden ist. Die Abschlussprüfung besteht aus einem theoretischen und einem praktischen Teil. Der Lehrgangsanbieter stellt über den erfolgreich abgeschlossenen Lehrgang einen Nachweis aus.
 
@@ -972,17 +782,17 @@ Wer ein Unionsbefähigungszeugnis für Sachkundige für Flüssigerdgas erwerben 
 
 Wer ein Unionsbefähigungszeugnis für Sachkundige für die Fahrgastschifffahrt erwerben will, muss
 
-1.
+1. mindestens 18 Jahre alt sein und
 
-2.
+2. den Basislehrgang für Sachkundige für die Fahrgastschifffahrt oder das nach § 55 Absatz 1 Nummer 1 zugelassene Ausbildungsprogramm mit dem Schwerpunkt Personenschifffahrt erfolgreich absolviert haben.
 
 ### § 49 — Basislehrgang für Sachkundige für die Fahrgastschifffahrt
 
 (1) Der Basislehrgang muss nach § 56 zugelassen sein und enthalten:
 
-1.
+1. eine theoretische Ausbildung, die das Erlangen der in Anlage 19 aufgeführten Kenntnisse ermöglicht;
 
-2.
+2. eine praktische Ausbildung, die das Erlangen der in Anlage 19 aufgeführten Fertigkeiten ermöglicht.
 
 (2) Der Lehrgang ist erfolgreich abgeschlossen, wenn die Abschlussprüfung bestanden ist. Die Abschlussprüfung besteht aus einem theoretischen und einem praktischen Teil. Der Lehrgangsanbieter hat über den erfolgreich abgeschlossenen Lehrgang einen Nachweis auszustellen.
 
@@ -1000,9 +810,9 @@ Der Auffrischungslehrgang muss nach § 56 zugelassen sein und aus der Anlage 19 
 
 (1) Wer eine Bescheinigung als atemschutzgerättragende Person erwerben will, muss
 
-1.
+1. mindestens 18 Jahre alt sein und
 
-2.
+2. die erforderliche Eignung besitzen, um Atemschutzgeräte nach Artikel 19.12 Nummer 10 Buchstabe a des ES-TRIN zur Rettung von Personen benutzen zu können.
 
 (2) Die erforderliche Eignung ist vorhanden, wenn die betreffende Person ihre Tauglichkeit und Befähigung mit einer Teilnahmebescheinigung eines nach § 58 zugelassenen Lehrgangs nachweist.
 
@@ -1024,35 +834,35 @@ Lehrgänge für Maschinenkundige lässt das Bundesministerium für Verkehr zu. D
 
 (1) Zugelassenes Ausbildungsprogramm für die Betriebsebene sind
 
-1.
+1. die Berufsausbildung nach der Verordnung über die Berufsausbildung zum Binnenschiffer und zur Binnenschifferin vom 2. März 2022 (BGBl. I S. 257),
 
-2.
+2. der mit Teil 1 der Abschlussprüfung endende Abschnitt einer Berufsausbildung nach Nummer 1 oder Absatz 2,
 
-3.
+3. die Berufsausbildung nach der Verordnung über die Berufsausbildung zum Binnenschiffer/zur Binnenschifferin vom 20. Januar 2005 (BGBl. I S. 121, 925).
 
 (2) Zugelassenes Ausbildungsprogramm für die Führungsebene ist die Berufsausbildung nach der Verordnung über die Berufsausbildung zum Binnenschifffahrtskapitän und zur Binnenschifffahrtskapitänin vom 2. März 2022 (BGBl. I S. 271).
 
 (3) Ein Weiterbildungsprogramm wird zugelassen, wenn folgende Voraussetzungen erfüllt sind:
 
-1.
+1. Weiterbildungsziele, Lerninhalte, Methoden, eingesetzte Medien, Verfahren, auch unter Einsatz von Simulatoren, und Lernmaterialien sind ordnungsgemäß dokumentiert und ermöglichen den Teilnehmenden das Erreichen der jeweiligen Befähigungsstandards;
 
-2.
+2. das Programm zur Vermittlung der jeweiligen Befähigungen wird von befähigten Personen durchgeführt, die über sichere Kenntnisse des Weiterbildungsprogramms verfügen;
 
-3.
+3. die Prüfung zur Feststellung der Erfüllung der jeweiligen Befähigungsstandards wird von befähigten Prüfenden durchgeführt, die nicht von Interessenskonflikten betroffen sind.
 
 (4) Der Antrag auf Zulassung nach Absatz 3 muss Folgendes enthalten:
 
-1.
+1. einen ausführlichen Lehrgangsplan mit Angabe des Inhalts und der Dauer der unterrichteten Fächer sowie der Lehrmethode;
 
-2.
+2. ein Verzeichnis der Lehrkräfte, einschließlich des Nachweises ihrer Fachkenntnisse und der Angabe der jeweiligen Unterrichtsfächer;
 
-3.
+3. Informationen über den Standort der Weiterbildung, das Lehrmaterial und die Einrichtungen, die für Übungen zur Verfügung stehen;
 
-4.
+4. die Teilnahmebedingungen für die Weiterbildung, insbesondere die Anzahl der Teilnehmenden;
 
-5.
+5. eine Beschreibung des Prüfungsprogramms und der für das Bestehen der Prüfung erforderlichen Ergebnisse;
 
-6.
+6. die Erklärung, dass die Weiterbildungsstätte sich dazu verpflichtet, die zulassende Behörde unverzüglich über jede Änderung der im Zulassungsantrag enthaltenen Informationen zu informieren, sobald ein Antrag auf Zulassung gestellt oder eine Zulassung erteilt wurde.
 
 (5) Zuständig für die Zulassung nach Absatz 3 ist das Bundesministerium für Verkehr. Es veröffentlicht die danach zugelassenen Weiterbildungsprogramme im Bundesanzeiger. § 57 Absatz 2, 4 und 5 gilt entsprechend.
 
@@ -1060,17 +870,13 @@ Lehrgänge für Maschinenkundige lässt das Bundesministerium für Verkehr zu. D
 
 Basislehrgänge oder Auffrischungslehrgänge lässt die zuständige Behörde unter den folgenden Voraussetzungen zu:
 
-1.
+1. die Lehrgänge und Prüfungen entsprechen a)bei Sachkundigen für Flüssigerdgas den Vorgaben nach § 47,b)bei Sachkundigen für die Fahrgastschifffahrt den Vorgaben nach § 49; bei Sachkundigen für Flüssigerdgas den Vorgaben nach § 47, bei Sachkundigen für die Fahrgastschifffahrt den Vorgaben nach § 49;
 
-a)
+2. die Ausbildungsziele, Lerninhalte, Methoden, eingesetzte Medien, Verfahren, auch unter Einsatz von Simulatoren, und Lernmaterialien sind ordnungsgemäß dokumentiert und ermöglichen den Teilnehmenden das Erreichen des jeweiligen Befähigungsstandards;
 
-b)
+3. die Programme zur Vermittlung der jeweiligen Befähigungen werden von befähigten Personen durchgeführt, die über sichere Kenntnisse des Lehrgangs verfügen;
 
-2.
-
-3.
-
-4.
+4. die Prüfungen zur Feststellung der Erfüllung der jeweiligen Befähigungsstandards werden von befähigten Prüfenden durchgeführt, die nicht von Interessenskonflikten betroffen sind.
 
 ### § 57 — Verfahren zur Zulassung von Lehrgängen für Sachkundige
 
@@ -1080,11 +886,11 @@ b)
 
 (3) Das Verzeichnis der zugelassenen Lehrgänge wird von der zuständigen Behörde im Bundesanzeiger veröffentlicht.
 
-(4) Erfüllt ein Lehrgang die Voraussetzungen des § 56 nicht mehr, so kann die zuständige Behörde die Zulassung Ab dem Zeitpunkt des Widerrufes oder der Aussetzung dürfen die im Rahmen des Lehrgangs ausgestellten Zeugnisse von den Wasserstraßen- und Schifffahrtsämtern nicht mehr zur Ausstellung eines Befähigungszeugnisses berücksichtigt werden.
+(4) Erfüllt ein Lehrgang die Voraussetzungen des § 56 nicht mehr, so kann die zuständige Behörde die Zulassung
 
-1.
+1. widerrufen oder
 
-2.
+2. aussetzen, soweit anzunehmen ist, dass die Voraussetzungen in angemessener Frist wieder erfüllt werden.
 
 (5) Die zuständige Behörde überwacht die Lehrgänge und die Durchführung der Prüfungen. Hierzu sind die zuständige Behörde und die von ihr beauftragten natürlichen Personen während der üblichen Betriebs- und Geschäftszeiten berechtigt, Ausbildungsräume, Ausbildungseinrichtungen, Unterrichtsmittel sowie die Durchführung der Ausbildungsprogramme sowie der entsprechenden Prüfungen zu prüfen.
 
@@ -1114,17 +920,13 @@ Ein Wasserstraßen- und Schifffahrtsamt erteilt auf Antrag ein Unionsbefähigung
 
 (1) Wer in einem Ausbildungsprogramm oder Weiterbildungsprogramm die nötigen Kenntnisse und Fertigkeiten für die Betriebsebene erworben hat, kann die Erteilung eines Unionsbefähigungszeugnisses bei einem Wasserstraßen- und Schifffahrtsamt beantragen.
 
-(2) Das Unionsbefähigungszeugnis ist vom Wasserstraßen- und Schifffahrtsamt nach § 61 zu erteilen, wenn die antragstellende Person
+(2) Das Unionsbefähigungszeugnis ist vom Wasserstraßen- und Schifffahrtsamt nach § 61 zu erteilen, wenn die antragstellende Person
 
-1.
+1. die entsprechenden Voraussetzungen des § 31 Nummer 1, § 32 Nummer 2 oder § 33 Nummer 2 erfüllt,
 
-2.
+2. ihre Identität nachweist und
 
-3.
-
-a)
-
-b)
+3. den Nachweis erbringt über den erfolgreichen Abschluss a)eines nach § 55 Absatz 1 Nummer 1 oder 3 oder Absatz 2 zugelassenen Ausbildungsprogramms oder eines nach § 55 Absatz 3 zugelassenen Weiterbildungsprogramms oder eines entsprechenden, von einem anderen Mitgliedstaat der Europäischen Union zugelassenen Ausbildungsprogramms oder Weiterbildungsprogramms durch ein Abschlusszeugnis oderb)eines nach § 55 Absatz 1 Nummer 2 zugelassenen Ausbildungsprogramms durch die schriftliche Mitteilung einer Industrie- und Handelskammer über die Teilnahme an Teil 1 der Abschlussprüfung einer Berufsausbildung nach § 55 Absatz 1 Nummer 1 oder Absatz 2 mit mindestens ausreichenden Leistungen. eines nach § 55 Absatz 1 Nummer 1 oder 3 oder Absatz 2 zugelassenen Ausbildungsprogramms oder eines nach § 55 Absatz 3 zugelassenen Weiterbildungsprogramms oder eines entsprechenden, von einem anderen Mitgliedstaat der Europäischen Union zugelassenen Ausbildungsprogramms oder Weiterbildungsprogramms durch ein Abschlusszeugnis oder eines nach § 55 Absatz 1 Nummer 2 zugelassenen Ausbildungsprogramms durch die schriftliche Mitteilung einer Industrie- und Handelskammer über die Teilnahme an Teil 1 der Abschlussprüfung einer Berufsausbildung nach § 55 Absatz 1 Nummer 1 oder Absatz 2 mit mindestens ausreichenden Leistungen.
 
 ### § 63 — Ablaufen und Verlängerung der Unionsbefähigungszeugnisse für die Einstiegsebene und die Betriebsebene
 
@@ -1174,11 +976,11 @@ b)
 
 ### § 68 — Prüfungskommissionen
 
-(1) Die zuständige Behörde hat zu jeder Prüfung eine Prüfungskommission zu bilden, die die Prüfung abnimmt. Diese besteht jeweils aus In besonderen Fällen, insbesondere bei kurzfristigem Ausfall eines beisitzenden Mitglieds, kann die Prüfung mit nur einem beisitzenden Mitglied durchgeführt werden, wenn der Prüfling vor Beginn der Prüfung zustimmt.
+(1) Die zuständige Behörde hat zu jeder Prüfung eine Prüfungskommission zu bilden, die die Prüfung abnimmt. Diese besteht jeweils aus
 
-1.
+1. einem vorsitzenden Mitglied, das der Wasserstraßen- und Schifffahrtsverwaltung des Bundes angehört, sowie
 
-2.
+2. zwei beisitzenden Mitgliedern.
 
 (2) Die Aufsicht in den Prüfungen führt die Prüfungskommission. Bei schriftlichen oder in digitaler Form durchgeführten Prüfungen kann eine Aufsichtsperson statt der Prüfungskommission die Aufsicht führen.
 
@@ -1190,15 +992,11 @@ b)
 
 ### § 69 — Bestellung der beisitzenden Mitglieder
 
-(1) Die beisitzenden Mitglieder müssen Die Anforderung des Satzes 1 Nummer 2 ist erfüllt, wenn eine Person
+(1) Die beisitzenden Mitglieder müssen
 
-1.
+1. für die Prüfertätigkeit geeignet und zuverlässig sein sowie
 
-2.
-
-1.
-
-2.
+2. über ausreichende Kenntnisse über den Prüfungsgegenstand verfügen.
 
 (2) Die zuständige Behörde bestellt die beisitzenden Mitglieder schriftlich. In der Bestellung werden sie auf die Rechte und Pflichten in ihrer Funktion hingewiesen; sie sind dabei zur Verschwiegenheit zu verpflichten.
 
@@ -1220,15 +1018,15 @@ b)
 
 (3) Soll sich das beantragte Schifferzeugnis auf eine bestimmte Zone, Strecke oder Fahrzeugart beschränken, kann der Prüfungsausschuss bei der Prüfung Erleichterungen gewähren.
 
-(4) Von einer Prüfung über die besondere Berechtigung für Risikostrecken kann im Einzelfall abgesehen werden, wenn Von dieser Ausnahmeregelung kann jede antragstellende Person je Risikostrecke nur einmal Gebrauch machen.
+(4) Von einer Prüfung über die besondere Berechtigung für Risikostrecken kann im Einzelfall abgesehen werden, wenn
 
-1.
+1. die antragstellende Person mindestens fünf Jahre Erfahrung als Schiffsführer oder Schiffsführerin in der Binnenschifffahrt hat,
 
-2.
+2. die Länge der Strecke, für die die besondere Berechtigung beantragt wird, fünf Kilometer oder eine Ortslage nicht übersteigt,
 
-3.
+3. die Strecke unmittelbar an einen Risikostreckenabschnitt anschließt, für den eine besondere Berechtigung bereits nachgewiesen wurde und
 
-4.
+4. die entsprechenden Streckenfahrten nachgewiesen wurden.
 
 ### § 71 — Nachteilsausgleich
 
@@ -1252,9 +1050,9 @@ Bei der Durchführung der Prüfung sollen die besonderen Verhältnisse von Mensc
 
 (2) Die Zulassung zur Wiederholungsprüfung kann mit Auflagen oder Bedingungen versehen werden mit dem Ziel, dass der Prüfling die Wiederholungsprüfung besteht, insbesondere durch
 
-1.
+1. das Festlegen von Sperrfristen von bis zu sechs Monaten, binnen derer eine Prüfung nicht durchgeführt werden darf, oder
 
-2.
+2. das Verlangen eines Nachweises über die Inanspruchnahme von verfügbaren Schulungsangeboten oder über zusätzliche Streckenfahrten.
 
 (3) Die Wiederholungsprüfung kann auch von einer anderen Prüfungskommission durchgeführt werden.
 
@@ -1264,15 +1062,15 @@ Bei der Durchführung der Prüfung sollen die besonderen Verhältnisse von Mensc
 
 (1) Prüflinge, deren Identität nicht eindeutig festgestellt werden kann, sind durch das vorsitzende Mitglied der Prüfungskommission von der Prüfung auszuschließen.
 
-(2) Das vorsitzende Mitglied der Prüfungskommission kann einen Prüfling, der nicht rechtzeitig zum Prüfungsbeginn erscheint, gegen die Prüfungsordnung nach § 76 verstößt oder die Prüfung stört, von der Teilnahme oder der weiteren Teilnahme an der Prüfung ausschließen. Die Prüfungsleistung ist für den betreffenden Prüfungsteil als „nicht bestanden“ zu werten.
+(2) Das vorsitzende Mitglied der Prüfungskommission kann einen Prüfling, der nicht rechtzeitig zum Prüfungsbeginn erscheint, gegen die Prüfungsordnung nach § 76 verstößt oder die Prüfung stört, von der Teilnahme oder der weiteren Teilnahme an der Prüfung ausschließen. Die Prüfungsleistung ist für den betreffenden Prüfungsteil als „nicht bestanden“ zu werten.
 
 (3) Versucht der Prüfling, das Ergebnis seiner Prüfungsleistung durch Täuschung zu beeinflussen, insbesondere durch das Mitführen nicht zugelassener Arbeits- und Hilfsmittel, so ist der betreffende Prüfungsteil als „nicht bestanden“ zu werten.
 
-(4) Wenn sich die Täuschung nach Absatz 3 erst nach Ablauf der Prüfung erweist, hat die zuständige Behörde die Prüfung für nicht bestanden zu erklären und Im Falle des Satzes 1 Nummer 2 hat der Inhaber oder die Inhaberin des Befähigungszeugnisses dieses nach Aufforderung unverzüglich der zuständigen Behörde zurückzugeben.
+(4) Wenn sich die Täuschung nach Absatz 3 erst nach Ablauf der Prüfung erweist, hat die zuständige Behörde die Prüfung für nicht bestanden zu erklären und
 
-1.
+1. darf sie dem Prüfling das Befähigungszeugnis nicht aushändigen oder
 
-2.
+2. hat sie ein bereits ausgehändigtes Befähigungszeugnis für ungültig zu erklären und das Befähigungszeugnis zurückzufordern.
 
 ### § 75 — Bewertung der Prüfungsleistung, Gültigkeit der Prüfungsleistungen
 
@@ -1282,15 +1080,11 @@ Bei der Durchführung der Prüfung sollen die besonderen Verhältnisse von Mensc
 
 (3) Die Prüfungsleistung im Teil Reiseplanung sowie in allen übrigen mündlichen Prüfungen bewertet die Prüfungskommission. Musterantworten dienen der Prüfungskommission als Orientierung.
 
-(4) Der Prüfungsteil Reiseplanung ist bestanden, wenn der Prüfling Alle übrigen mündlichen Prüfungen sind bestanden, wenn der Prüfling
+(4) Der Prüfungsteil Reiseplanung ist bestanden, wenn der Prüfling
 
-1.
+1. die in Anlage 10 Anhang 1 vorgeschriebenen Mindestpunktzahlen für die dort genannten Kategorien erreicht hat und
 
-2.
-
-1.
-
-2.
+2. keine Fehler gemacht hat, die erkennen lassen, dass ihm unabdingbare Kenntnisse fehlen.
 
 (5) Die Prüfungsleistung im Prüfungsteil Reisedurchführung wird bewertet von der Prüfungskommission. Die Prüfung ist bestanden, wenn der Prüfling die in Anlage 10 Anhang 2 vorgeschriebene Mindestpunktzahl erreicht hat. Die Prüfung wird sofort beendet, wenn bei der Simulatorprüfung eine Kollision erfolgt ist oder wenn bei der Prüfung auf einem Schiff der Schiffsführer oder die Schiffsführerin eingreifen musste, um eine Kollision zu vermeiden. Dies gilt nicht, wenn die Kollision oder die Beinahe-Kollision auf einem außerhalb der Person des Prüflings liegenden Umstand beruhte, insbesondere auf einer falschen oder unklaren Anweisung der Prüfungskommission oder einem Programmierfehler.
 
@@ -1302,31 +1096,21 @@ Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt, durch Rech
 
 (1) Die zuständige Behörde stellt vorbehaltlich des Absatzes 2 Nummer 1 und des Absatzes 3 auf Anfrage der zuständigen Behörde eines anderen Mitgliedstaates der Europäischen Union die Prüfungsfragen und -antworten für die Prüfung für die besondere Berechtigung für Risikostrecken der zuständigen Behörde des anderen Staates zur Verfügung, wenn sich der andere Staat verpflichtet hat, dass
 
-1.
+1. zur Prüfung nur zugelassen wird, wer über ein Befähigungszeugnis für Schiffsführer verfügt und die nötigen Streckenfahrten nachgewiesen hat,
 
-2.
+2. die antragstellende Person für die Berechtigung den Streckenabschnitt frei wählen kann, für den die besondere Berechtigung erworben werden soll,
 
-3.
+3. bei einer mündlichen Prüfung a)diese abhängig von der Länge des zu prüfenden Abschnitts zwischen 30 bis 90 Minuten dauert,b)die Prüfungskommission aus mindestens drei Personen besteht, davon zwei Personen, die geeignet und zuverlässig sind und über ausreichende Kenntnisse über den Prüfungsinhalt verfügen, undc)70 Prozent der Fragen richtig beantwortet werden müssen, um die Prüfung zu bestehen, diese abhängig von der Länge des zu prüfenden Abschnitts zwischen 30 bis 90 Minuten dauert, die Prüfungskommission aus mindestens drei Personen besteht, davon zwei Personen, die geeignet und zuverlässig sind und über ausreichende Kenntnisse über den Prüfungsinhalt verfügen, und 70 Prozent der Fragen richtig beantwortet werden müssen, um die Prüfung zu bestehen,
 
-a)
+4. bei einer schriftlichen oder digitalen Prüfung im Antwort-Wahl-Verfahren a)80 Prozent der Prüfungsfragen richtig beantwortet werden müssen, um die Prüfung zu bestehen undb)statt von einer Prüfungskommission die Prüfung von einem oder einer Beschäftigten der Prüfungsbehörde abgenommen werden kann, und 80 Prozent der Prüfungsfragen richtig beantwortet werden müssen, um die Prüfung zu bestehen und statt von einer Prüfungskommission die Prüfung von einem oder einer Beschäftigten der Prüfungsbehörde abgenommen werden kann, und
 
-b)
-
-c)
-
-4.
-
-a)
-
-b)
-
-5.
+5. die Fragen und Antworten vertraulich behandelt werden.
 
 (2) Absatz 1 gilt
 
-1.
+1. nicht für Mitgliedstaaten der Zentralkommission für die Rheinschifffahrt hinsichtlich des Rheins,
 
-2.
+2. entsprechend auch für Staaten, deren Befähigungszeugnis für Schiffsführer nach § 11 Absatz 4 von der Kommission der Europäischen Union anerkannt worden ist.
 
 (3) Für Mitgliedstaaten der Donaukommission kann die zuständige Behörde hinsichtlich der Donau Ausnahmen von den Voraussetzungen des Absatzes 1 zulassen.
 
@@ -1340,17 +1124,17 @@ b)
 
 (3) Erteilt werden
 
-1.
+1. das Unionspatent nach dem Muster des Anhangs I Nummer 1 oder 2 der Durchführungsverordnung (EU) 2020/182,
 
-2.
+2. das Fährschifferzeugnis nach dem Muster in Anlage 24,
 
-3.
+3. das Behördenschifferzeugnis nach dem Muster in Anlage 25,
 
-4.
+4. das Sportschifferzeugnis nach dem Muster in Anlage 26,
 
-5.
+5. das Kleinschifferzeugnis nach dem Muster in Anlage 27.
 
-(4) Bis zum Erhalt des endgültigen Zeugnisses nach Absatz 3 Nummer 1 bis 5 wird das jeweilige Zeugnis durch einen Ausdruck der entsprechenden Eintragung des Zeugnisses im nationalen Befähigungsregister nach § 18 nachgewiesen. Der Ausdruck muss mit der Unterschrift und dem Stempel der ausstellenden Behörde versehen sein und gilt befristet, längstens bis zum Erhalt des Zeugnisses.
+(4) Bis zum Erhalt des endgültigen Zeugnisses nach Absatz 3 Nummer 1 bis 5 wird das jeweilige Zeugnis durch einen Ausdruck der entsprechenden Eintragung des Zeugnisses im nationalen Befähigungsregister nach § 18 nachgewiesen. Der Ausdruck muss mit der Unterschrift und dem Stempel der ausstellenden Behörde versehen sein und gilt befristet, längstens bis zum Erhalt des Zeugnisses.
 
 ### § 79 — Erteilung der besonderen Berechtigung
 
@@ -1358,25 +1142,23 @@ b)
 
 (2) Die besondere Berechtigung wird auf dem Unionspatent oder dem Schifferzeugnis vermerkt. Bei der nachträglichen Erteilung einer besonderen Berechtigung wird eine neue Patentkarte oder eine neue digitale Version des Patentes oder ein neues Schifferzeugnis erteilt.
 
-(3) Die besondere Berechtigung für Radar für Fährschifferzeugnisse nach § 41 Absatz 4 wird mit einem „R-F“ gekennzeichnet.
-
 (4) Ergänzt die besondere Berechtigung
 
-1.
+1. einen amtlichen Berechtigungsschein, wird sie als gesonderte Karte nach dem Muster in Anlage 28 ausgegeben,
 
-2.
+2. einen Sportbootführerschein, wird sie als gesonderte Karte nach dem Muster in Anlage 29 ausgegeben.
 
 ### § 80 — Erteilung des Unionspatentes nach Abschluss eines zugelassenen Ausbildungsprogramms
 
 (1) Wer ein zugelassenes Ausbildungsprogramm auf Führungsebene erfolgreich abgeschlossen hat, kann die Erteilung eines Unionspatentes bei der zuständigen Behörde beantragen.
 
-(2) Das Unionspatent ist von der zuständigen Behörde nach § 78 zu erteilen, wenn die antragstellende PersonZusätzlich dürfen keine Tatsachen die Annahme rechtfertigen, dass bei einer Erteilung des Zeugnisses sogleich die Voraussetzungen für seine Aussetzung nach § 91 oder für seinen Entzug nach § 94 vorlägen.
+(2) Das Unionspatent ist von der zuständigen Behörde nach § 78 zu erteilen, wenn die antragstellende Person
 
-1.
+1. die Voraussetzungen des Kapitels 2 Abschnitt 1 und des § 37 Nummer 1 erfüllt,
 
-2.
+2. ihre Identität nachweist,
 
-3.
+3. den Nachweis über den erfolgreichen Abschluss eines nach § 55 Absatz 2 zugelassenen Ausbildungsprogramms oder eines entsprechenden, von einem anderen Mitgliedstaat der Europäischen Union zugelassenen Ausbildungsprogramms durch ein Abschlusszeugnis erbringt.
 
 ### § 81 — Ablaufen und Verlängerung des Unionspatentes
 
@@ -1384,15 +1166,15 @@ b)
 
 (2) Vor Vollendung des 60. Lebensjahres verlängert die zuständige Behörde auf Antrag das Unionspatent, wenn der Inhaber oder die Inhaberin die Identität nachweist. Für die Gültigkeit des verlängerten Unionspatentes gilt Absatz 1.
 
-(3) Ab Vollendung des 60. Lebensjahres verlängert die zuständige Behörde auf Antrag das Unionspatent, wenn der Inhaber oder die Inhaberin die Tauglichkeit nach den §§ 20 und 22 und die Identität nachweist. Das verlängerte Zeugnis läuft an dem Tag ab, an dem die nächste Tauglichkeitsuntersuchung nach § 22 Absatz 1 erforderlich ist. Das Unionspatent kann erneut, frühestens drei Monate vor den in § 22 Absatz 1 genannten Zeitpunkten verlängert werden.
+(3) Ab Vollendung des 60. Lebensjahres verlängert die zuständige Behörde auf Antrag das Unionspatent, wenn der Inhaber oder die Inhaberin die Tauglichkeit nach den §§ 20 und 22 und die Identität nachweist. Das verlängerte Zeugnis läuft an dem Tag ab, an dem die nächste Tauglichkeitsuntersuchung nach § 22 Absatz 1 erforderlich ist. Das Unionspatent kann erneut, frühestens drei Monate vor den in § 22 Absatz 1 genannten Zeitpunkten verlängert werden.
 
-(4) Für die Ausstellung des verlängerten Unionspatentes gilt § 78 Absatz 2 und 4 entsprechend.
+(4) Für die Ausstellung des verlängerten Unionspatentes gilt § 78 Absatz 2 und 4 entsprechend.
 
 ### § 82 — Ablaufen und Verlängerung des Schifferzeugnisses
 
 (1) Das Schifferzeugnis läuft mit Vollendung des 60. Lebensjahres ab.
 
-(2) Für die Verlängerung gelten § 78 Absatz 4 und § 81 Absatz 3 entsprechend.
+(2) Für die Verlängerung gelten § 78 Absatz 4 und § 81 Absatz 3 entsprechend.
 
 ### § 83 — Ablaufen und Verlängerung der besonderen Berechtigungen
 
@@ -1410,19 +1192,15 @@ Das Schifferdienstbuch für die Führungsebene wird von einem Wasserstraßen- un
 
 (1) Das Wasserstraßen- und Schifffahrtsamt erteilt auf Antrag ein Unionsbefähigungszeugnis für Sachkundige für Flüssigerdgas nach Satz 2, wenn die antragstellende Person die Abschlussprüfung des Lehrgangs nach § 47 Absatz 2 Satz 1 bestanden hat, die Schulungsnachweise vorlegt und ihre Identität nachweist. Das Zeugnis wird nach dem Muster des Anhangs I Nummer 1 der Durchführungsverordnung (EU) 2020/182 im elektronischen Format erteilt.
 
-(2) Das Wasserstraßen- und Schifffahrtsamt erteilt auf Antrag ein Unionsbefähigungszeugnis für Sachkundige für die Fahrgastschifffahrt nach Satz 2, wenn Das Zeugnis wird nach dem Muster des Anhangs I Nummer 1 der Durchführungsverordnung (EU) 2020/182 im elektronischen Format erteilt.
+(2) Das Wasserstraßen- und Schifffahrtsamt erteilt auf Antrag ein Unionsbefähigungszeugnis für Sachkundige für die Fahrgastschifffahrt nach Satz 2, wenn
 
-1.
+1. die antragstellende Person a)die Abschlussprüfung des Lehrgangs nach § 49 Absatz 2 Satz 1 bestanden hat oderb)das nach § 55 Absatz 1 Nummer 1 zugelassene Ausbildungsprogramm mit dem Schwerpunkt Personenschifffahrt erfolgreich abgeschlossen hat, die Abschlussprüfung des Lehrgangs nach § 49 Absatz 2 Satz 1 bestanden hat oder das nach § 55 Absatz 1 Nummer 1 zugelassene Ausbildungsprogramm mit dem Schwerpunkt Personenschifffahrt erfolgreich abgeschlossen hat,
 
-a)
+2. die antragstellende Person die Schulungsnachweise oder das Abschlusszeugnis vorlegt und
 
-b)
+3. die antragstellende Person ihre Identität nachweist.
 
-2.
-
-3.
-
-(3) Bis zum Erhalt des endgültigen Zeugnisses nach den Absätzen 1 und 2 ist ausreichend ein Ausdruck der entsprechenden Eintragung des Zeugnisses im nationalen Befähigungsregister nach § 18. Der Ausdruck muss mit der Unterschrift und dem Stempel der ausstellenden Behörde versehen werden.
+(3) Bis zum Erhalt des endgültigen Zeugnisses nach den Absätzen 1 und 2 ist ausreichend ein Ausdruck der entsprechenden Eintragung des Zeugnisses im nationalen Befähigungsregister nach § 18. Der Ausdruck muss mit der Unterschrift und dem Stempel der ausstellenden Behörde versehen werden.
 
 ### § 86 — Ablaufen und Verlängerung des Unionsbefähigungszeugnisses für Sachkundige für Flüssigerdgas
 
@@ -1430,13 +1208,9 @@ b)
 
 (2) Auf Antrag wird das Unionsbefähigungszeugnis von einem Wasserstraßen- und Schifffahrtsamt um fünf Jahre ab Antragstellung verlängert. Hierfür müssen die Sachkundigen neben ihrer Identität nachweisen können, dass sie
 
-1.
+1. auf einem Fahrzeug, das mit Flüssigerdgas betrieben wird, folgende Fahrzeit abgeleistet haben: a)innerhalb der letzten fünf Jahre mindestens 180 Tage oderb)innerhalb des letzten Jahres mindestens 90 Tage oder innerhalb der letzten fünf Jahre mindestens 180 Tage oder innerhalb des letzten Jahres mindestens 90 Tage oder
 
-a)
-
-b)
-
-2.
+2. im Rahmen eines nach § 56 zugelassenen Auffrischungslehrgangs eine neue Prüfung nach § 47 Absatz 2 mit Erfolg abgelegt haben.
 
 (3) § 85 Absatz 3 gilt entsprechend.
 
@@ -1444,17 +1218,17 @@ b)
 
 (1) Das Unionsbefähigungszeugnis für Sachkundige für die Fahrgastschifffahrt ist fünf Jahre ab Ausstellungsdatum gültig.
 
-(2) Auf Antrag wird das Unionsbefähigungszeugnis von einem Wasserstraßen- und Schifffahrtsamt um fünf Jahre ab Antragstellung verlängert. Hierfür müssen die Sachkundigen neben ihrer Identität nachweisen können, dass sie im Rahmen eines nach § 56 zugelassenen Auffrischungslehrgangs eine neue Prüfung nach § 50 Satz 2 mit Erfolg abgelegt haben. Dies gilt auch für bereits einmal oder mehrmals verlängerte Zeugnisse.
+(2) Auf Antrag wird das Unionsbefähigungszeugnis von einem Wasserstraßen- und Schifffahrtsamt um fünf Jahre ab Antragstellung verlängert. Hierfür müssen die Sachkundigen neben ihrer Identität nachweisen können, dass sie im Rahmen eines nach § 56 zugelassenen Auffrischungslehrgangs eine neue Prüfung nach § 50 Satz 2 mit Erfolg abgelegt haben. Dies gilt auch für bereits einmal oder mehrmals verlängerte Zeugnisse.
 
 (3) § 85 Absatz 3 gilt entsprechend.
 
 ### § 88 — Ablaufen der Befähigungszeugnisse für atemschutzgerättragende Personen; Wiederholungslehrgang
 
-(1) Die Bescheinigung für atemschutzgerättragende Personen nach § 17 Absatz 6 Nummer 1 über die Teilnahme am Grundlehrgang ist zwei Jahre ab dem Ausstellungsdatum gültig.
+(1) Die Bescheinigung für atemschutzgerättragende Personen nach § 17 Absatz 6 Nummer 1 über die Teilnahme am Grundlehrgang ist zwei Jahre ab dem Ausstellungsdatum gültig.
 
-(2) Der Anbieter eines nach § 58 zugelassenen Lehrgangs hat die Bescheinigung über die Teilnahme am Grundlehrgang auf Antrag zu erneuern, sofern der Inhaber oder die Inhaberin der Bescheinigung erneut an einem nach § 58 zugelassenen Grundlehrgang teilgenommen hat.
+(2) Der Anbieter eines nach § 58 zugelassenen Lehrgangs hat die Bescheinigung über die Teilnahme am Grundlehrgang auf Antrag zu erneuern, sofern der Inhaber oder die Inhaberin der Bescheinigung erneut an einem nach § 58 zugelassenen Grundlehrgang teilgenommen hat.
 
-(3) Der Inhaber oder die Inhaberin einer Bescheinigung für atemschutzgerättragende Personen hat jährlich an einem nach § 58 zugelassenen Wiederholungslehrgang teilzunehmen. Der Anbieter dieses Lehrgangs hat hierüber eine Bescheinigung nach dem Muster in Anlage 3 auszustellen.
+(3) Der Inhaber oder die Inhaberin einer Bescheinigung für atemschutzgerättragende Personen hat jährlich an einem nach § 58 zugelassenen Wiederholungslehrgang teilzunehmen. Der Anbieter dieses Lehrgangs hat hierüber eine Bescheinigung nach dem Muster in Anlage 3 auszustellen.
 
 ## Abschnitt 4: Zulassung von Simulatoren
 
@@ -1474,7 +1248,7 @@ b)
 
 ### § 91 — Aussetzung der Befähigungszeugnisse als Schiffsführer und Schiffsführerinnen
 
-(1) Die zuständige Behörde kann das Gebrauchmachen eines Befähigungszeugnisses als Schiffsführer und Schiffsführerinnen, das nach dieser Verordnung erteilt worden ist oder weitergilt, für einen bestimmten Zeitraum untersagen (aussetzen), soweit dies aus Gründen der Sicherheit des Schiffsverkehrs erforderlich ist oder die Unzuverlässigkeit nach § 98 Absatz 10 festgestellt worden ist. Dies ist insbesondere dann erforderlich, wenn der Schiffsführer oder die Schiffsführerin wiederholt oder erheblich gegen Regelungen der Binnenschifffahrtsstraßen-Ordnung, der Seeschifffahrtsstraßen-Ordnung, der Rheinschifffahrtspolizeiverordnung oder der Moselschifffahrtspolizeiverordnung, insbesondere gegen § 1.02 Nummer 7 der Binnenschifffahrtsstraßen-Ordnung oder gegen § 3 Nummer 3 und 4 der Seeschifffahrtsstraßen-Ordnung verstoßen hat.
+(1) Die zuständige Behörde kann das Gebrauchmachen eines Befähigungszeugnisses als Schiffsführer und Schiffsführerinnen, das nach dieser Verordnung erteilt worden ist oder weitergilt, für einen bestimmten Zeitraum untersagen (aussetzen), soweit dies aus Gründen der Sicherheit des Schiffsverkehrs erforderlich ist oder die Unzuverlässigkeit nach § 98 Absatz 10 festgestellt worden ist. Dies ist insbesondere dann erforderlich, wenn der Schiffsführer oder die Schiffsführerin wiederholt oder erheblich gegen Regelungen der Binnenschifffahrtsstraßen-Ordnung, der Seeschifffahrtsstraßen-Ordnung, der Rheinschifffahrtspolizeiverordnung oder der Moselschifffahrtspolizeiverordnung, insbesondere gegen § 1.02 Nummer 7 der Binnenschifffahrtsstraßen-Ordnung oder gegen § 3 Nummer 3 und 4 der Seeschifffahrtsstraßen-Ordnung verstoßen hat.
 
 (2) Wird im Falle des § 22 Absatz 4 Satz 1 das Zeugnis nicht innerhalb einer von der zuständigen Behörde zu bestimmenden Frist vorgelegt, ordnet sie die Aussetzung der Gültigkeit des Befähigungszeugnisses an. Werden die Zweifel an der medizinischen Tauglichkeit vor Ablauf der Aussetzung ausgeräumt, so ist die Aussetzung aufzuheben.
 
@@ -1486,29 +1260,25 @@ b)
 
 ### § 92 — Aussetzung ausländischer Unionspatente
 
-(1) Die zuständige Behörde kann die Gültigkeit eines von der zuständigen Behörde eines anderen Mitgliedstaates der Europäischen Union erteilten Unionspatentes für einen bestimmten Zeitraum aussetzen, soweit dies aus Gründen der Sicherheit des Schiffsverkehrs erforderlich ist. Satz 1 gilt entsprechend für Befähigungszeugnisse für Schiffsführer eines Staates, der nicht der Europäischen Union angehört, soweit das Zeugnis nach der Richtlinie (EU) 2017/2397 von der Kommission der Europäischen Union anerkannt worden ist. § 91 Absatz 1 Satz 2 gilt entsprechend.
-
 (2) Im Falle des Absatzes 1 ändert die zuständige Behörde den Status des entsprechenden Befähigungszeugnisses im betroffenen Register. Liegt das Zeugnis der Behörde vor, übersendet sie es unverzüglich an die ausstellende ausländische Behörde.
 
 ### § 93 — Aussetzung anderer Befähigungszeugnisse
 
-(1) In entsprechender Anwendung des § 91 kann ein Wasserstraßen- und Schifffahrtsamt die Gültigkeit eines nach dieser Verordnung erteilten Unionsbefähigungszeugnisses für die Einstiegsebene oder die Betriebsebene, für Sachkundige für Flüssigerdgas oder für Sachkundige für die Fahrgastschifffahrt aussetzen. Sind aussetzende und ausstellende Behörde nicht identisch, dann unterrichtet die aussetzende die ausstellende Behörde von der Aussetzung, der Dauer der Aussetzung sowie deren Begründung.
-
-(2) Ein Wasserstraßen- und Schifffahrtsamt kann die Gültigkeit eines von einem anderen Mitgliedstaat der Europäischen Union erteilten Unionsbefähigungszeugnisses für die Einstiegsebene oder die Betriebsebene, für Sachkundige für Flüssigerdgas oder für Sachkundige für die Fahrgastschifffahrt vorübergehend aussetzen, wenn dies aus Gründen der Sicherheit des Schiffsverkehrs erforderlich ist. Satz 1 gilt entsprechend für Befähigungszeugnisse für die Einstiegsebene oder die Betriebsebene eines Staates, der nicht der Europäischen Union angehört, soweit die Zeugnisse nach der Richtlinie (EU) 2017/2397 von der Kommission der Europäischen Union anerkannt worden sind. § 92 Absatz 2 gilt entsprechend.
+(1) In entsprechender Anwendung des § 91 kann ein Wasserstraßen- und Schifffahrtsamt die Gültigkeit eines nach dieser Verordnung erteilten Unionsbefähigungszeugnisses für die Einstiegsebene oder die Betriebsebene, für Sachkundige für Flüssigerdgas oder für Sachkundige für die Fahrgastschifffahrt aussetzen. Sind aussetzende und ausstellende Behörde nicht identisch, dann unterrichtet die aussetzende die ausstellende Behörde von der Aussetzung, der Dauer der Aussetzung sowie deren Begründung.
 
 ### § 94 — Entzug des Befähigungszeugnisses
 
-(1) Entfällt nachträglich eine Voraussetzung für die Erteilung eines Befähigungszeugnisses oder für eine besondere Berechtigung, das oder die nach dieser Verordnung erteilt worden ist oder weitergilt, hat die ausstellende Behörde das Befähigungszeugnis oder die besondere Berechtigung zu entziehen. Das gilt in Hinblick auf die Tauglichkeit nur, wenn sich der Inhaber oder die Inhaberin dauerhaft als medizinisch untauglich erwiesen hat oder wenn er oder sie wiederholt den angeforderten Tauglichkeitsnachweis nach § 22 Absatz 4 Satz 1 nicht innerhalb der gesetzten Frist beigebracht hat.
+(1) Entfällt nachträglich eine Voraussetzung für die Erteilung eines Befähigungszeugnisses oder für eine besondere Berechtigung, das oder die nach dieser Verordnung erteilt worden ist oder weitergilt, hat die ausstellende Behörde das Befähigungszeugnis oder die besondere Berechtigung zu entziehen. Das gilt in Hinblick auf die Tauglichkeit nur, wenn sich der Inhaber oder die Inhaberin dauerhaft als medizinisch untauglich erwiesen hat oder wenn er oder sie wiederholt den angeforderten Tauglichkeitsnachweis nach § 22 Absatz 4 Satz 1 nicht innerhalb der gesetzten Frist beigebracht hat.
 
-(2) Verstößt der Inhaber oder die Inhaberin eines Befähigungszeugnisses gegen eine Risikominderungsmaßnahme oder Beschränkung nach § 21 Absatz 3 Satz 1 oder Absatz 4 Satz 1, auch in Verbindung mit § 22 Absatz 2 Satz 3, so kann die ausstellende Behörde ihm oder ihr das Befähigungszeugnis entziehen.
+(2) Verstößt der Inhaber oder die Inhaberin eines Befähigungszeugnisses gegen eine Risikominderungsmaßnahme oder Beschränkung nach § 21 Absatz 3 Satz 1 oder Absatz 4 Satz 1, auch in Verbindung mit § 22 Absatz 2 Satz 3, so kann die ausstellende Behörde ihm oder ihr das Befähigungszeugnis entziehen.
 
 (3) Das Befähigungszeugnis oder die besondere Berechtigung erlischt mit dem Entzug.
 
 (4) Die ausstellende Behörde kann beim Entzug bestimmen, dass
 
-1.
+1. ein neues Befähigungszeugnis oder eine neue besondere Berechtigung nicht vor Ablauf einer bestimmten Frist erteilt werden darf oder
 
-2.
+2. die die Zulassung zu einer erneuten Prüfung beantragende Person bestimmte Auflagen erfüllen muss.
 
 (5) Die ausstellende Behörde trägt den Entzug eines Befähigungszeugnisses oder der besonderen Berechtigung in das betroffene Register ein.
 
@@ -1532,13 +1302,13 @@ b)
 
 ### § 96 — Allgemeines zu den Besatzungsvorschriften
 
-(1) Die Besatzung, die sich während der Fahrt an Bord von Fahrzeugen im Sinne des § 1 Absatz 5 und 6 der Binnenschiffsuntersuchungsordnung befinden muss (Mindestbesatzung), ergibt sich nach Maßgabe des Satzes 2 aus den nachfolgenden Vorschriften. Sie wird von der zuständigen Behörde in einer der folgenden Bescheinigungen festgelegt: Die Festlegung der Besatzung gilt bis zum Ablauf der jeweiligen Bescheinigung.
+(1) Die Besatzung, die sich während der Fahrt an Bord von Fahrzeugen im Sinne des § 1 Absatz 5 und 6 der Binnenschiffsuntersuchungsordnung befinden muss (Mindestbesatzung), ergibt sich nach Maßgabe des Satzes 2 aus den nachfolgenden Vorschriften. Sie wird von der zuständigen Behörde in einer der folgenden Bescheinigungen festgelegt:
 
-1.
+1. in einer Fahrtauglichkeitsbescheinigung nach Anlage 3 des ES-TRIN,
 
-2.
+2. in der Bescheinigung über die Besatzung für Binnenschiffe nach Muster 2 des Anhangs V der Binnenschiffsuntersuchungsordnung oder
 
-3.
+3. im Fährzeugnis nach Muster 3 des Anhangs V der Binnenschiffsuntersuchungsordnung.
 
 (2) Wer über ein Befähigungszeugnis für die Betriebsebene, ein Unionspatent, ein nach § 126 Absatz 1 ausreichendes Zeugnis oder ein Fährschifferzeugnis verfügt, kann für jede niedrigere Funktion auf Einstiegs- oder Betriebsebene eingesetzt werden. Ein Leichtmatrose oder eine Leichtmatrosin ohne Fahrzeiterfordernis kann durch ein Mitglied der Decksmannschaft ersetzt werden, das mindestens 17 Jahre alt ist. Im Übrigen kann ein Leichtmatrose oder eine Leichtmatrosin nur ersetzt werden, wo diese Verordnung es ausdrücklich zulässt. Maschinisten im Sinne der Rheinschiffspersonalverordnung können als Maschinenkundige eingesetzt werden.
 
@@ -1546,9 +1316,9 @@ b)
 
 (1) Unbeschadet der übrigen Bestimmungen dieser Verordnung und in Anwendung des § 19.01 der Rheinschiffspersonalverordnung müssen Motorschiffe, Schubboote, Schubverbände und Fahrgastschiffe, die mit der Mindestbesatzung gefahren werden sollen, für die Fahrt auf dem Rhein folgendem Ausrüstungsstandard genügen:
 
-1.
+1. S1 nach Artikel 31.02 des ES-TRIN oder
 
-2.
+2. S2 nach Artikel 31.03 des ES-TRIN.
 
 (2) Für Fahrgastschiffe, die zur Beförderung von nicht mehr als zwölf Fahrgästen verwendet werden, gilt für die Fahrt auf dem Rhein § 19.06 der Rheinschiffspersonalverordnung. Für Fähren gelten die §§ 112, 113 und 118 entsprechend.
 
@@ -1558,11 +1328,11 @@ b)
 
 (2) Abweichend von Absatz 1 kann der Schiffsführer oder die Schiffsführerin oder der Eigentümer oder der Ausrüster oder deren Bevollmächtigte an Stelle der Besatzung nach diesem Teil die Besatzung nach der Rheinschiffspersonalverordnung wählen. In diesem Falle müssen die Bestimmungen nach Teil III Kapitel 17 bis 19 der Rheinschiffspersonalverordnung mit folgenden Maßgaben eingehalten werden:
 
-1.
+1. soweit ein Besatzungsmitglied über ein Rheinpatent verfügen muss, genügt ein Befähigungszeugnis nach § 11 Absatz 1, auch in Verbindung mit den Absätzen 2 und 4,
 
-2.
+2. soweit ein Besatzungsmitglied über ein Schifferdienstbuch nach § 5.01 der Rheinschiffspersonalverordnung verfügen muss, genügt ein entsprechendes Befähigungszeugnis nach § 9 Absatz 1 auch in Verbindung mit den Absätzen 2, 4 und 5 und nach § 10 Absatz 1 auch in Verbindung mit den Absätzen 2, 3 und 4,
 
-3.
+3. statt eines Bordbuches nach der Rheinschiffspersonalverordnung genügt ein Bordbuch nach § 102.
 
 (3) Den Besatzungsmitgliedern muss es ermöglicht werden, ihre Aufgaben an Bord unter Voraussetzungen zu erfüllen, die eine Übermüdung ausschließen.
 
@@ -1574,27 +1344,23 @@ b)
 
 (7) Der Schiffsführer oder die Schiffsführerin hat den Nachweis, dass ein zur Besatzung gehörender Leichtmatrose oder Leichtmatrosin in einem ordnungsmäßigen Berufsausbildungsverhältnis steht, an Bord mitzuführen und den zuständigen Bediensteten der zuständigen Behörde, der Wasserstraßen- und Schifffahrtsämter oder der Wasserschutzpolizeien der Länder auf Verlangen zur Prüfung auszuhändigen.
 
-(8) Ein Besatzungsmitglied muss zu Beginn seiner Tätigkeit an Bord an einer grundlegenden Sicherheitsausbildung nach Anlage 7 teilnehmen, die  Im Falle des Satzes 1 Nummer 2 ist eine Teilnahmebescheinigung auszustellen, aus der sich Datum, Ort, Dauer und Inhalt der Sicherheitsausbildung, der Name der ausbildenden Person sowie der Name und das Geburtsdatum der teilnehmenden Person ergibt. Das Besatzungsmitglied hat die Teilnahmebescheinigung an Bord mitzuführen und den zuständigen Bediensteten der zuständigen Behörde, der Wasserstraßen- und Schifffahrtsämter oder der Wasserschutzpolizeien der Länder auf Verlangen zur Prüfung auszuhändigen. Satz 1 gilt nicht für Personen, die
+(8) Ein Besatzungsmitglied muss zu Beginn seiner Tätigkeit an Bord an einer grundlegenden Sicherheitsausbildung nach Anlage 7 teilnehmen, die
 
-1.
+1. nach § 53 zugelassen wurde oder
 
-2.
-
-a)
-
-b)
+2. durchgeführt wird von einer Person, die als Ausbilder oder Ausbilderin in einem für die Berufsausbildung für Berufe der Binnenschifffahrt geeigneten Ausbildungsbetrieb arbeitet und die Voraussetzungen nach Abschnitt 2 Nummer 1.6 der Anlage 21 erfüllt.
 
 (9) Die Funktion als Schiffsführer oder Schiffsführerin kann nur ausüben, wer zuverlässig ist. Unzuverlässig ist insbesondere,
 
-1.
+1. wer erheblich gegen eine verkehrsstrafrechtliche Vorschrift verstoßen hat und deswegen rechtskräftig verurteilt worden ist,
 
-2.
+2. wer wiederholt mit einer Geldbuße geahndete Zuwiderhandlungen gegen Schifffahrtspolizeivorschriften begangen hat,
 
-3.
+3. wessen Befähigungszeugnis als Schiffsführer oder Schiffsführerin wiederholt ausgesetzt worden ist,
 
-4.
+4. wer nach seinem bisherigen Verhalten nicht die sichere Führung eines Fahrzeuges erwarten lässt oder
 
-5.
+5. wer nicht die Eignung zum Vorgesetzten einer Schiffsmannschaft erwarten lässt.
 
 (10) Die Unzuverlässigkeit wird von der zuständigen Behörde festgestellt. Im Falle festgestellter Unzuverlässigkeit hat sie der betreffenden Person die Ausübung der Funktion als Schiffsführer zu untersagen. Ein Entzug des Unionspatentes nur aufgrund der Unzuverlässigkeit ist nicht zulässig. Stellt ein Wasserstraßen- und Schifffahrtsamt oder die Wasserschutzpolizei eines Landes Tatsachen fest, die eine Unzuverlässigkeit nach Absatz 9 vermuten lassen, teilt sie dies der zuständigen Behörde mit.
 
@@ -1610,23 +1376,23 @@ b)
 
 (1) Über die Bestimmungen der Binnenschifffahrtsstraßen-Ordnung hinaus hat der Schiffsführer
 
-1.
+1. den Sachkundigen für die Fahrgastschifffahrt mit der Sicherheitsrolle und dem Sicherheitsplan nach Artikel 19.13 des ES-TRIN vertraut zu machen, sofern diese in der Fahrtauglichkeitsbescheinigung aufgeführt sind;
 
-2.
+2. für die Einweisung des Sicherheitspersonals in das Fahrgastschiff zu sorgen;
 
-3.
+3. die erforderliche Befähigung des Sicherheitspersonals nach § 17 jederzeit an Bord durch die entsprechenden Bescheinigungen nachweisen zu können;
 
-4.
+4. für den Nachweis über die Durchführung von Kontrollgängen zu sorgen.
 
 (2) Die Sachkundigen für die Fahrgastschifffahrt haben für die Überwachung der Sicherheitseinrichtungen und -ausrüstungen nach der Sicherheitsrolle und für die Sicherheit der Fahrgäste bei Gefahr und in Notsituationen an Bord zu sorgen. Sie müssen die Sicherheitsrolle und den Sicherheitsplan im Einzelnen kennen und nach Maßgabe erteilter Weisungen des Schiffsführers
 
-1.
+1. den Mitgliedern der Besatzung und des Bordpersonals, die Aufgaben in der Sicherheitsrolle haben, die dort beschriebenen Aufgaben für Notsituationen zuteilen;
 
-2.
+2. diese Mitglieder der Besatzung und des Bordpersonals regelmäßig in ihren zugeteilten Aufgaben unterweisen;
 
-3.
+3. die Fahrgäste auf Kabinenschiffen bei Antritt der Fahrt auf die Verhaltensmaßregeln und den Sicherheitsplan hinweisen;
 
-4.
+4. Fahrgästen in Bezug auf Fahrgastrechte Hilfe leisten.
 
 (3) Solange sich Fahrgäste an Bord befinden, muss zwischen 23 und 6 Uhr stündlich ein Kontrollgang durchgeführt werden. Die Durchführung muss für zwei Jahre auf geeignete Weise nachweisbar sein.
 
@@ -1634,21 +1400,19 @@ b)
 
 (1) Die zuständige Behörde setzt die Mindestbesatzung entsprechend der Betriebsform fest.
 
-(2) Es werden folgende Betriebsformen unterschieden: jeweils innerhalb eines Zeitraums von 24 Stunden.
+(2) Es werden folgende Betriebsformen unterschieden:
 
-1.
+1. Betriebsform A: Tagesfahrt von höchstens 16 Stunden,
 
-2.
+2. Betriebsform B: verkürzte halbständige Fahrt von höchstens 18 Stunden,
 
-3.
+3. Betriebsform C: halbständige Fahrt von höchstens 20 Stunden,
 
-4.
+4. Betriebsform D: ständige Fahrt von höchstens 24 Stunden,
 
 (3) Wechselt die Besatzung während der Fahrt, so ist für die Betriebsform die Zahl der Stunden maßgebend, während der sich die jeweilige Besatzung an Bord befindet, sofern nicht die Besatzung auf einem anderen Fahrzeug weiterfährt. Bei wechselnder Besatzung hat der Eigentümer, Ausrüster oder Bevollmächtigte den Nachweis über die Arbeitszeit des einzelnen Besatzungsmitglieds durch besondere Anschreibung außerhalb des Bordbuches zu führen, die sechs Monate nach der letzten Eintragung aufzubewahren ist. Die besonderen Anschreibungen des Nachweises über die Arbeitszeit des einzelnen Besatzungsmitglieds außerhalb des Bordbuches durch den Eigentümer, Ausrüster oder Bevollmächtigten sind zur Wahrung des Datenschutzes nach dem Ende der Aufbewahrungsfrist nach Satz 2 vom jeweils besonders Anschreibenden unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen.
 
 ### § 102 — Bordbuch
-
-(1) Auf jedem Fahrzeug, ausgenommen auf einem Fahrzeug des öffentlichen Dienstes, einem Schubleichter ohne Besatzung, einem Sportfahrzeug und einem schwimmenden Gerät ohne eigenen Antrieb, hat der Schiffsführer ein Bordbuch nach dem Muster des Anhangs V der Durchführungsverordnung (EU) 2020/182 zu führen. Die Eintragungen in das Bordbuch sind nach den Anweisungen zur Führung des Bordbuches auf Seite 2 des genannten Musters vorzunehmen. Statt eines Bordbuches nach Satz 1 ist ausreichend das Bordbuch eines Staates, der nicht der Europäischen Union angehört, soweit es nach der Richtlinie (EU) 2017/2397 von der Kommission der Europäischen Union anerkannt worden ist.
 
 (2) Das erste Bordbuch wird von der zuständigen Behörde unter Vorlage einer Fahrtauglichkeitsbescheinigung ausgestellt. Jedes weitere Bordbuch wird von einem Wasserstraßen- und Schifffahrtsamt unter Vorlage des vorangehenden Bordbuches oder, nach Maßgabe des Absatzes 5, unter Vorlage der Bescheinigung nach Absatz 4 ausgestellt. Die nach den Sätzen 1 und 2 zuständigen Behörden sind befugt, die Daten aus dem Bordbuch umgehend in der nationalen Schiffsdatenbank nach § 9 des Binnenschifffahrtsaufgabengesetzes zu erheben, zu speichern und zu verwenden, soweit dies für die Führung der nationalen Schiffsdatenbank erforderlich ist.
 
@@ -1660,11 +1424,11 @@ b)
 
 ### § 103 — Dienst- und Ruhezeiten
 
-(1) Dienstzeit ist die Zeit, in der ein Besatzungsmitglied Zeiten, die nicht Dienstzeiten sind, sind Ruhezeiten.
+(1) Dienstzeit ist die Zeit, in der ein Besatzungsmitglied
 
-1.
+1. Dienst auf dem fahrenden Schiff oder beim Laden und Löschen leistet oder
 
-2.
+2. zur Aufnahme der Fahrt oder der Lade- oder Löschtätigkeit zur Verfügung stehen muss.
 
 (2) Die Dienstzeit eines selbstständigen Besatzungsmitglieds darf nicht mehr als 16 aufeinander folgende Stunden betragen. Die Dienstzeit eines Besatzungsmitglieds, das als Arbeitnehmer oder Arbeitnehmerin beschäftigt ist, darf nicht mehr als 14 aufeinander folgende Stunden betragen.
 
@@ -1672,11 +1436,11 @@ b)
 
 (4) Für alle Besatzungsmitglieder soll die Ruhezeit
 
-1.
+1. in der Betriebsform A zwischen 20 und 6 Uhr liegen,
 
-2.
+2. in der Betriebsform B die Zeit zwischen 22 und 5 Uhr einschließen,
 
-3.
+3. in der Betriebsform C die Zeit zwischen 23 und 3 Uhr einschließen.
 
 (5) Die Einhaltung der Ruhezeiten kann zusätzlich durch einen Fahrtenschreiber nachgewiesen werden, der den Anforderungen der Anlage 5 Abschnitt V des ES-TRIN betreffend die Mindestanforderungen, Vorschriften für den Einbau und die Funktionsprüfung von Fahrtenschreibern in der Binnenschifffahrt entspricht und ordnungsgemäß funktioniert. Die Aufzeichnungen der Fahrtenschreiber sind sechs Monate ab dem Tag der jeweiligen Aufzeichnung an Bord aufzubewahren und nach jeweiligem Ablauf dieses Zeitraums vom Schiffsführer unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen. Pflichten zur Aufzeichnung von Arbeits- und Ruhezeiten von Besatzungsmitgliedern, die als Arbeitnehmer und Arbeitnehmerinnen beschäftigt sind, bleiben unberührt.
 
@@ -1686,15 +1450,15 @@ b)
 
 ### § 104 — Mindestbesatzung auf geschleppten Fahrzeugen ohne Antriebsmaschine
 
-(1) Wenn auf einem geschleppten Fahrzeug ohne eigene Antriebsmaschine so beträgt die Mindestbesatzung:
+(1) Wenn auf einem geschleppten Fahrzeug ohne eigene Antriebsmaschine
 
-1.
+1. die Steuereinrichtung auch bei höchstzulässiger Einsenkung von einer Person ohne besonderen Kraftaufwand gehandhabt werden kann,
 
-2.
+2. mit über 40 m Länge eine Wechselsprechanlage zwischen Steuerstand und Vorschiff vorhanden ist,
 
-3.
+3. mit über 350 t Tragfähigkeit die Lenz- und Deckwaschpumpen motorisiert sind sowie
 
-4.
+4. mit über 350 t Tragfähigkeit die Bugankerwinde, auf Fahrzeugen mit über 750 t Tragfähigkeit auch die Heckankerwinde motorisiert ist,
 
 (2) Sind eine oder mehrere der in Absatz 1 genannten Voraussetzungen nicht erfüllt, so erhöht sich in allen Betriebsformen die Besatzung für die Stufen 1 bis 4 um einen Leichtmatrosen, für die Stufe 5 um einen Matrosen.
 
@@ -1704,11 +1468,11 @@ b)
 
 (5) Auf Strecken bis 20 km gelten für Güterschleppkähne mit einer Tragfähigkeit bis 150 t in der Betriebsform A im Pendelverkehr folgende Erleichterungen, die nicht in die Fahrtauglichkeitsbescheinigung einzutragen sind:
 
-1.
+1. es genügt die Besetzung mit dem Schiffsführer;
 
-2.
+2. für je zwei längsseits gekuppelte Anhänge hinter dem Schlepper genügt die Besetzung mit einem gemeinsamen Schiffsführer;
 
-3.
+3. längsseits des Schleppers gekuppelte Anhänge bedürfen keiner Besatzung.
 
 (6) Die zuständige Behörde kann auf Antrag des Eigentümers oder Ausrüsters genehmigen, dass Güterschleppkähne mit einer Tragfähigkeit bis 500 t, die zwischen der Eisenbahnbrücke in Bremen und den Mittelsbürener Häfen verkehren und nicht bereits unter die Regelung nach Satz 1 fallen, in der Betriebsform A nur mit einem Schiffsführer zu besetzen sind.
 
@@ -1716,33 +1480,27 @@ b)
 
 ### § 105 — Mindestbesatzung auf Gütermotorschiffen und Tankmotorschiffen
 
-(1) Wenn auf einem Gütermotorschiff oder einem Tankmotorschiff so beträgt die Mindestbesatzung:
+(1) Wenn auf einem Gütermotorschiff oder einem Tankmotorschiff
 
-1.
+1. die Steuereinrichtung auch bei höchstzulässiger Einsenkung von einer Person ohne besonderen Kraftaufwand gehandhabt werden kann,
 
-2.
+2. Sicht- und Schallzeichen während der Fahrt vom Steuerstand aus gegeben werden können,
 
-3.
+3. mit über 40 m Länge eine Wechselsprechanlage zwischen Steuerstand und Vorschiff vorhanden ist,
 
-4.
+4. die Antriebsanlagen vom Steuerstand aus bedient werden können,
 
-5.
+5. zur Überwachung der Antriebsanlagen in den Gefahrenbereichen a)der Temperatur des Kühlwassers und des Drucks des Schmieröls von Hauptmotoren und Getrieben sowieb)des Öl- oder Luftdrucks der Umsteueranlage des Antriebs oder der Schraubeim Steuerstand Alarmgeräte ausgelöst werden, der Temperatur des Kühlwassers und des Drucks des Schmieröls von Hauptmotoren und Getrieben sowie des Öl- oder Luftdrucks der Umsteueranlage des Antriebs oder der Schraube
 
-a)
+6. die Geräte nach Nummer 5 in Gefahrenbereichen durch Schall- und durch Sichtzeichen Alarm geben und so beschaffen sind, dass sie während des Betriebs der Antriebsanlage wirksam sind und unter allen Umständen die Aufmerksamkeit des Schiffsführers auf sich lenken,
 
-b)
+7. die maschinellen Anlagen so eingerichtet sind, dass die regelmäßig anfallenden Wartungsarbeiten während der Fahrt jederzeit unterbrochen werden können,
 
-6.
+8. mit über 350 t Tragfähigkeit die Lenz- und Deckwaschpumpen motorisiert sind,
 
-7.
+9. mit über 350 t Tragfähigkeit die Bugankerwinde, auf einem Schiff mit einer Länge über 86 m auch die Heckankerwinde motorisiert ist,
 
-8.
-
-9.
-
-10.
-
-(2) Die Voraussetzungen des Absatzes 1 gelten als erfüllt, wenn der Standard S1 nach Artikel 31.02 des ES-TRIN nachgewiesen ist.
+10. der Stufen 3 und 4 die Schleppstrangwinden motorisiert und von einer Person zu handhaben sind,
 
 (3) Auf einem Schiff der Stufe 1 mit mehr als 300 t Tragfähigkeit und auf Fahrzeugen der Stufe 4 müssen die Leichtmatrosen eine Fahrzeit von mindestens zwei Jahren haben und mindestens 17 Jahre alt sein.
 
@@ -1752,15 +1510,13 @@ b)
 
 (6) Sofern der Motor nur zur Vornahme kleinerer Ortsveränderungen in Häfen und an Lade- oder Löschplätzen oder zur Erhöhung der Steuerfähigkeit des Fahrzeugs im Schleppverband verwendet wird, gilt das Schiff hinsichtlich der Besatzung als Schiff ohne Antriebsmaschine. Die Beschränkung der Verwendung ist in die Fahrtauglichkeitsbescheinigung einzutragen.
 
-(7) Schleppt ein Gütermotorschiff oder ein Tankmotorschiff mehr als ein Fahrzeug, so erhöht sich die Besatzung in allen Stufen und Betriebsformen Schleppt jedoch ein Gütermotorschiff oder ein Tankmotorschiff in der Talfahrt nicht mehr als zwei leere Fahrzeuge ohne eigene Triebkraft, die untereinander längsseits gekuppelt sind, so erhöht sich die Besatzung nicht. Schleppt ein Gütermotorschiff oder ein Tankmotorschiff als Vorspann auf einem einzigen Schleppstrang, so erhöht sich seine Besatzung nicht.
+(7) Schleppt ein Gütermotorschiff oder ein Tankmotorschiff mehr als ein Fahrzeug, so erhöht sich die Besatzung in allen Stufen und Betriebsformen
 
-1.
+1. bei zwei oder drei geschleppten Fahrzeugen um einen Leichtmatrosen,
 
-2.
+2. bei vier oder mehr geschleppten Fahrzeugen um einen Matrosen.
 
 ### § 106 — Mindestbesatzung auf Schubverbänden
-
-(1) Auf Schubverbänden, gekuppelten Fahrzeugen und anderen starren Zusammenstellungen beträgt die Mindestbesatzung
 
 (2) Die nach Absatz 1 vorgeschriebene Mindestbesatzung setzt die Ausrüstung nach Standard S1 nach Artikel 31.02 des ES-TRIN voraus. Hiervon abweichend setzt die Mindestbesatzung in der Betriebsform D Teilspalte 2 die Ausrüstung nach Standard S2 nach Artikel 31.03 des ES-TRIN voraus. Erfüllt das Fahrzeug im Falle des Satzes 1 nicht den Standard S1 oder im Falle des Satzes 2 nicht den Standard S2, so erhöht sich in allen Betriebsformen die Besatzung für die Stufen 1 bis 2a um einen Leichtmatrosen, für die Stufen 3 bis 5 um einen Matrosen. Die zuständige Behörde kann die Qualifikation des zusätzlichen Besatzungsmitglieds abweichend von Satz 3 festsetzen, wenn dies aus technischen oder Sicherheitsgründen notwendig ist.
 
@@ -1768,73 +1524,61 @@ b)
 
 (4) Für Schubleichter gelten folgende Gleichwertigkeiten:
 
-1.
+1. ein Schubleichter entspricht zwei Leichtern mit jeweils einer Länge zwischen 25,50 m und 38,25 m;
 
-2.
+2. ein Schubleichter entspricht drei Leichtern mit jeweils einer Länge zwischen 19,12 m und 25,50 m;
 
-3.
+3. ein Schubleichter entspricht vier Leichtern mit jeweils einer Länge von bis zu 19,12 m.
 
 (5) Schubleichter im Sinne der Tabelle des Absatzes 1 sowie im Sinne des Absatzes 4 sind auch Motorschiffe ohne eigene in Tätigkeit gesetzte Antriebsmaschine und Schleppkähne.
 
 ### § 107 — Mindestbesatzung auf Schleppbooten
 
-(1) Wenn auf einem Schleppboot, ausgenommen einem Bugsierschleppboot, so beträgt die Mindestbesatzung: Sind eine oder mehrere der in Satz 1 genannten Voraussetzungen nicht erfüllt, so erhöht sich die Besatzung um einen Bootsmann.
+(1) Wenn auf einem Schleppboot, ausgenommen einem Bugsierschleppboot,
 
-1.
+1. die Antriebsanlagen vom Steuerstand aus bedient werden können,
 
-2.
+2. zur Überwachung der Antriebsanlage in den Gefahrenbereichen a)der Temperatur des Kühlwassers und des Drucks des Schmieröls von Hauptmotoren und Getrieben sowieb)des Öl- oder Luftdrucks der Umsteueranlage des Antriebs oder der Schraubeim Steuerstand Alarmgeräte ausgelöst werden, der Temperatur des Kühlwassers und des Drucks des Schmieröls von Hauptmotoren und Getrieben sowie des Öl- oder Luftdrucks der Umsteueranlage des Antriebs oder der Schraube
 
-a)
+3. die Geräte nach Nummer 2 durch Schall- und durch Sichtzeichen Alarm geben und so beschaffen sind, dass sie während des Betriebs der Antriebsanlagen wirksam sind und unter allen Umständen die Aufmerksamkeit des Schiffsführers auf sich lenken,
 
-b)
+4. die Winden zur Handhabung der Schleppstränge und der Anker mit mehr als 300 kg Normalgewicht motorisiert sind sowie,
 
-3.
+5. die Schleppstrangwinden von einer Person bedient werden können,
 
-4.
+(3) Wenn auf einem Bugsierschleppboot
 
-5.
+1. die Antriebsmaschine vom Steuerstand aus bedient werden kann,
 
-(2) Die Voraussetzungen des Absatzes 1 gelten als erfüllt, wenn der Standard S1 nach Artikel 31.02 des ES-TRIN nachgewiesen ist.
+2. die zur Überwachung der Antriebsanlage dienenden Alarmgeräte für alle Gefahrenbereiche vom Steuerstand, vom Maschinenleitstand und vom Deck aus bedient werden können,
 
-(3) Wenn auf einem Bugsierschleppboot so beträgt die Besatzung 1 Schiffsführer, 1 Matrose und 1 Bootsmann. Sind eine oder mehrere Voraussetzungen des Satzes 1 nicht erfüllt, so erhöht sich die Besatzung um einen Matrosen.
+3. alle Geräte nach Nummer 2 durch Schall- und Sichtzeichen Alarm geben können und so beschaffen sind, dass sie während des Betriebs der Antriebsanlage wirksam sind und unter allen Umständen die Aufmerksamkeit des Rudergängers auf sich lenken,
 
-1.
+4. die Winden zur Handhabung der Schleppstränge und der Anker mit mehr als 300 kg Normalgewicht motorisiert sind und
 
-2.
-
-3.
-
-4.
-
-5.
+5. die Schleppstrangwinden vom Steuerstand oder von Deck aus von einer Person bedient werden können,
 
 ### § 108 — Mindestbesatzung auf Tagesausflugsschiffen
 
-(1) Wenn auf einem Tagesausflugsschiff so beträgt die Mindestbesatzung:
+(1) Wenn auf einem Tagesausflugsschiff
 
-1.
+1. die Steuereinrichtung auch bei höchstzulässiger Einsenkung von einer Person ohne besonderen Kraftaufwand gehandhabt werden kann,
 
-2.
+2. Sicht- und Schallzeichen während der Fahrt vom Steuerstand aus gegeben werden können,
 
-3.
+3. im Falle der Stufen 3 bis 7 der nachstehenden Tabelle eine Wechselsprechanlage zwischen Steuerstand und Vorschiff sowie eine Lautsprecheranlage, mit welcher der Schiffsführer den Fahrgästen Weisungen erteilen kann, vorhanden sind,
 
-4.
+4. die Antriebsanlagen vom Steuerstand aus bedient werden können,
 
-5.
+5. zur Überwachung der Antriebsanlagen in den Gefahrenbereichen a)der Temperatur des Kühlwassers und des Drucks des Schmieröls von Hauptmotoren und Getrieben sowieb)des Öl- oder Luftdrucks der Umsteueranlage des Antriebs oder der Schraubeim Steuerstand Alarmgeräte ausgelöst werden, der Temperatur des Kühlwassers und des Drucks des Schmieröls von Hauptmotoren und Getrieben sowie des Öl- oder Luftdrucks der Umsteueranlage des Antriebs oder der Schraube
 
-a)
+6. die Geräte nach Nummer 5 entweder durch Schall- oder Sichtzeichen Alarm geben und so beschaffen sind, dass sie während des Betriebs der Antriebsanlagen wirksam sind und unter allen Umständen die Aufmerksamkeit des Schiffsführers auf sich lenken,
 
-b)
+7. die maschinellen Anlagen so eingerichtet sind, dass die regelmäßig anfallenden Wartungsarbeiten während der Fahrt jederzeit unterbrochen werden können,
 
-6.
+8. die Lenz- und Deckwaschpumpen motorisiert sind,
 
-7.
-
-8.
-
-9.
-
-(2) Die Voraussetzungen des Absatzes 1 gelten als erfüllt, wenn der Standard S1 nach Artikel 31.02 des ES-TRIN nachgewiesen ist.
+9. im Falle der Stufen 4 bis 7 der nachstehenden Tabelle die Bugankerwinde motorisiert ist,
 
 (3) Ein Bootsmann kann durch einen Maschinenkundigen ersetzt werden, sofern mindestens ein Matrose zur Besatzung gehört.
 
@@ -1846,13 +1590,11 @@ b)
 
 ### § 109 — Mindestbesatzung auf Kabinenschiffen
 
-(1) Die Mindestbesatzung auf Kabinenschiffen beträgt:
-
 (2) Maschinist im Sinne des Absatzes 1 ist, wer über eine Befähigung als Maschinist nach der Rheinschiffspersonalverordnung verfügt.
 
 (3) Die nach Absatz 1 vorgeschriebene Mindestbesatzung setzt die Ausrüstung nach Standard S2 nach Artikel 31.03 des ES-TRIN voraus. Erfüllt das Fahrzeug nicht den Standard S2, so erhöht sich die Besatzung in allen Betriebsformen für die Stufe 1 um einen Leichtmatrosen, für die Stufen 2 und 3 um einen Matrosen. Die zuständige Behörde kann die Befähigung des zusätzlichen Besatzungsmitglieds abweichend von Satz 2 festsetzen, wenn dies aus technischen oder Sicherheitsgründen notwendig ist.
 
-(4) Für Kabinenschiffe, die ohne Fahrgäste an Bord fahren, richtet sich die Mindestbesatzung nach § 105 Absatz 1 bis 6 wobei anstelle der Tragfähigkeit die Wasserverdrängung anzuwenden ist.
+(4) Für Kabinenschiffe, die ohne Fahrgäste an Bord fahren, richtet sich die Mindestbesatzung nach § 105 Absatz 1 bis 6 wobei anstelle der Tragfähigkeit die Wasserverdrängung anzuwenden ist.
 
 (5) In der Betriebsform D kann der dritte Schiffsführer durch einen Steuermann ersetzt werden, wenn sichergestellt ist, dass den Schiffsführern ausreichend Ruhezeit während der Reise gewährt wird.
 
@@ -1864,13 +1606,9 @@ b)
 
 (2) Die Personen in Funktion des Sachkundigen für die Fahrgastschifffahrt, des Ersthelfers und der atemschutzgerättragenden Person müssen mindestens in folgender Anzahl vorhanden sein:
 
-1.
+1. während der Fahrt an Bord: a)Tagesausflugsschiffe StufeVorhandene PersonenzahlSachkundige für die FahrgastschifffahrtErsthelfer1bis 250112über 25012b)Kabinenschiffe StufeAnzahl der belegten BettenSachkundige für die FahrgastschifffahrtErsthelferatemschutzgerättragende Personen1bis 1001122über 100122 Tagesausflugsschiffe StufeVorhandene PersonenzahlSachkundige für die FahrgastschifffahrtErsthelfer1bis 250112über 25012 Kabinenschiffe StufeAnzahl der belegten BettenSachkundige für die FahrgastschifffahrtErsthelferatemschutzgerättragende Personen1bis 1001122über 100122
 
-a)
-
-b)
-
-2.
+2. beim Stillliegen ständig verfügbar: das nach Nummer 1 jeweils vorgeschriebene Sicherheitspersonal der Stufe 1.
 
 (3) Atemschutzgerättragende Personen sind nicht erforderlich auf Kabinenschiffen, die eine Länge von 45 m nicht überschreiten und in deren Kabinen so viele Fluchthauben griffbereit vorhanden sind, wie es dort Betten gibt.
 
@@ -1880,35 +1618,33 @@ b)
 
 (1) Fahrgastboote sind mindestens mit einem Schiffsführer sowie einem Decksmann zu besetzen.
 
-(2) Die zuständige Behörde kann auf Antrag des Eigentümers oder Ausrüsters genehmigen, dass auf Fahrgastbooten, die für die Wasserstraßen der Zone 3 (außer der Wasserstraße Rhein) und Zone 4 zugelassen werden sollen, der Decksmann entfällt, wenn Wird dem Antrag stattgegeben, so sind die einzuhaltenden Bedingungen nach Satz 1 Nummer 1 bis 6 in die Fahrtauglichkeitsbescheinigung einzutragen.
+(2) Die zuständige Behörde kann auf Antrag des Eigentümers oder Ausrüsters genehmigen, dass auf Fahrgastbooten, die für die Wasserstraßen der Zone 3 (außer der Wasserstraße Rhein) und Zone 4 zugelassen werden sollen, der Decksmann entfällt, wenn
 
-1.
+1. das Fahrgastboot nur bei Tag und gutsichtigem Wetter fährt,
 
-2.
+2. der Steuerstand vom Fahrgastbereich abgetrennt ist,
 
-3.
+3. der Schiffsführer das Steuerhaus oder den Steuerstand für das Festmachen nicht verlassen muss,
 
-4.
+4. die Beschaffenheit der Anlegestelle sicherstellt, dass das festgemachte Fahrgastboot bezogen auf die Anlegestelle ruhig liegt und keine gefährlichen vertikalen und horizontalen Eigenbewegungen ausführt,
 
-5.
+5. die Anker vom Steuerhaus oder Steuerstand fallen gelassen werden können und
 
-6.
+6. das Ein- und Ausschalten der Lenzpumpe vom Steuerhaus oder Steuerstand oder automatisch über einen Geber erfolgt.
 
 (3) Absatz 2 gilt nicht für Fahrgastboote, die so gebaut und eingerichtet sind, dass sie auch durch Segel fortbewegt werden können.
 
 ### § 112 — Mindestbesatzung auf Personenfähren
 
-(1) Die Mindestbesatzung einer Personenfähre beträgt:
-
 (2) Die nach Absatz 1 vorgeschriebene Mindestbesatzung setzt die Ausrüstung nach Standard S1 nach Artikel 31.02 des ES-TRIN voraus. Die Anforderungen an die Ausrüstung nach Satz 1 gilt nicht für eine seil- oder kettengebundene Fähre oder eine Kahnfähre.
 
-(3) Die Mindestbesatzung nach Absatz 1 für eine Fähre der Stufe 2 kann um den Decksmann vermindert werden, wenn Verfügt eine Fähre nur über eine Hauptantriebsmaschine, muss der Anker bei schlechter Zugänglichkeit der Ankereinrichtung vom Steuerhaus fernbetätigt fallen gelassen werden können.
+(3) Die Mindestbesatzung nach Absatz 1 für eine Fähre der Stufe 2 kann um den Decksmann vermindert werden, wenn
 
-1.
+1. die Fahrzeit zwischen zwei Fährstellen 10 Minuten nicht übersteigt,
 
-2.
+2. die Fähre neben den Anforderungen nach Absatz 2 über eine betriebssichere Sprechfunkanlage verfügt und
 
-3.
+3. sichergestellt ist, dass das Festmachen an der Fährstelle kein Verlassen des Steuerstandes erfordert.
 
 (4) Erfüllt eine Fähre die in Absatz 2 Satz 1, auch in Verbindung mit Satz 2, genannten Voraussetzungen nicht, bestimmt sich die Mindestbesatzung nach der nächsthöheren Stufe. Bei einer Fähre der Stufe 5 erhöht sich die Mindestbesatzung um einen Decksmann 180.
 
@@ -1916,17 +1652,15 @@ b)
 
 ### § 113 — Mindestbesatzung auf Wagenfähren
 
-(1) Die Mindestbesatzung einer Wagenfähre beträgt: Dabei ist die jeweilige Stufe nach den für die Fähre ungünstigeren Grenzwerten der Tragfähigkeit oder der Anzahl der Fahrgäste zu bestimmen.
-
 (2) Die nach Absatz 1 vorgeschriebene Mindestbesatzung setzt die Ausrüstung nach Standard S1 nach Artikel 31.02 des ES-TRIN voraus. Die Anforderungen an die Ausrüstung nach Satz 1 gilt nicht für eine seil- oder kettengebundene Fähre. Eine Fähre der Stufen 2 bis 5 muss zudem über eine Vorrichtung verfügen, durch die das Festmachen der Fähre an der Fährstelle ohne Verlassen des Steuerstandes möglich ist.
 
 (3) Die Mindestbesatzung nach Absatz 1 für eine Fähre der Stufe 1 kann um den Decksmann vermindert werden, wenn
 
-1.
+1. die Fahrzeit zwischen zwei Fährstellen 10 Minuten nicht übersteigt,
 
-2.
+2. die Fähre neben den Anforderungen nach Absatz 2 über eine betriebssichere Sprechfunkanlage verfügt und
 
-3.
+3. sichergestellt ist, dass das Festmachen der Fähre an der Fährstelle kein Verlassen des Steuerstandes erfordert.
 
 (4) Zusätzlich zu den in Absatz 2 genannten Voraussetzungen müssen bei einer Fähre der Stufen 3 bis 5 die Landeklappen und Schlagbäume vom Steuerstand aus fernbetätigt bedient werden können. Eine Fähre der Stufe 4 oder 5 muss über mindestens zwei getrennte Maschinenräume verfügen. Die zuständige Behörde kann auf Antrag des Eigentümers oder Ausrüsters eine von Satz 1 abweichende Lage der Bedieneinrichtungen von Landeklappen und Schlagbäumen genehmigen, wenn eine Einrichtung für interne Sprechverbindungen zwischen Steuerstand und Ort der Bedieneinrichtung vorhanden ist.
 
@@ -1938,9 +1672,9 @@ b)
 
 Bei Fahrzeugen, die mit Flüssigerdgas betrieben werden, muss über ein Befähigungszeugnis für Sachkundige für Flüssigerdgas verfügen, wer
 
-1.
+1. Schiffsführer dieses Fahrzeugs ist oder
 
-2.
+2. als Besatzungsmitglied am Bunkervorgang dieses Fahrzeugs beteiligt ist.
 
 ### § 115 — Mindestbesatzung auf übrigen Fahrzeugen
 
@@ -1952,19 +1686,19 @@ Die zuständige Behörde setzt für Fahrzeuge, die nicht unter die §§ 104 bis 
 
 (2) Bei allen Fahrzeugen kann die Untersuchungskommission oder die zuständige Behörde eine höhere Besatzungsstärke festsetzen, wenn nach Größe, Bauart, Ausrüstung und Zweckbestimmung des Fahrzeugs anzunehmen ist, dass die Besatzung nach den §§ 104 bis 114 nicht unter allen Umständen für seinen sicheren Betrieb ausreicht.
 
-(3) Bei einem Schleppboot, das nach der Fahrtauglichkeitsbescheinigung nur zur Fahrt in Häfen, auf Reeden oder auf kurzen Strecken bestimmt ist, kann die Untersuchungskommission oder die zuständige Behörde eine andere Besatzung Satz 1 gilt nicht für Schleppboote, die zum Bugsieren oder zum Assistieren von Seeschiffen auf den Wasserstraßen der Zonen 1, 2 oder 3 zugelassen sind und dort verwendet werden.
+(3) Bei einem Schleppboot, das nach der Fahrtauglichkeitsbescheinigung nur zur Fahrt in Häfen, auf Reeden oder auf kurzen Strecken bestimmt ist, kann die Untersuchungskommission oder die zuständige Behörde eine andere Besatzung
 
-1.
+1. festsetzen, wenn die Umstände dies erfordern oder
 
-2.
+2. auf Antrag des Eigentümers oder Ausrüsters genehmigen, soweit der sichere Betrieb des Fahrzeugs gewährleistet ist.
 
 ### § 117 — Ausnahmebewilligungen
 
 (1) Die Untersuchungskommission oder die zuständige Behörde kann für die Betriebsform A die Besatzung eines Fahrzeugs auf Antrag des Eigentümers oder Ausrüsters für eine Fahrt zum Bestimmungsort um eine Person herabsetzen, wenn
 
-1.
+1. es dem Schiffsführer trotz glaubhaft gemachter Bemühungen nicht möglich ist, die Besatzung zu vervollständigen, und
 
-2.
+2. auf dem Fahrzeug neben dem Schiffsführer noch ein Matrose vorhanden ist.
 
 (2) Auf einem Fahrzeug, dessen Besatzung aus mehr als einem Schiffsführer und einem Matrosen besteht, kann die Besatzung um einen Leichtmatrosen herabgesetzt werden, wenn dieser eine Schifferberufsschule besucht und dies durch eine an Bord befindliche Bescheinigung bestätigt wird. Diese Herabsetzung wird für eine ununterbrochene Dauer von höchstens drei Monaten im Kalenderjahr gewährt.
 
@@ -1980,35 +1714,35 @@ Die zuständige Behörde setzt für Fahrzeuge, die nicht unter die §§ 104 bis 
 
 (1) Die Eigentümer oder, sofern ein Ausrüsterverhältnis besteht, die Ausrüster eines Fahrzeugs dürfen nicht anordnen oder zulassen, dass jemand das Fahrzeug führt,
 
-1.
+1. der hierfür über kein Befähigungszeugnis nach § 11 Absatz 1 verfügt oder
 
-2.
+2. gegen den die Aussetzung nach § 91 Absatz 1 Satz 1 oder Absatz 2 Satz 1, auch in Verbindung mit Absatz 5 Satz 1, vollziehbar angeordnet wurde.
 
 (2) Die Eigentümer, Ausrüster und ihre Bevollmächtigten dürfen nicht anordnen oder zulassen, dass
 
-1.
+1. die für die jeweilige Betriebsform festgesetzte Fahrzeit eines Fahrzeugs nach § 101 Absatz 2 Satz 1, auch in Verbindung mit Anhang II Teil III Kapitel 7 § 7.02 Nummer 2 und § 7.03 Nummer 2 der Binnenschiffsuntersuchungsordnung, nicht eingehalten oder die Fahrt nicht entsprechend eingestellt wird,
 
-2.
+2. ein Mitglied der Besatzung entgegen § 103 Absatz 3 Satz 1 oder 2 während seiner Mindestruhezeit eingesetzt wird.
 
 (3) Die Eigentümer, Ausrüster, ihre Bevollmächtigten und der Schiffsführer oder die Schiffsführerin haben dafür zu sorgen, dass
 
-1.
+1. die für die jeweilige Betriebsform und Fahrzeit des Fahrzeugs, der schwimmenden Anlage, der Fähre oder des Schwimmkörpers vorgeschriebene Besatzung nach § 104 Absatz 1, 2, 3 und 4, § 105 Absatz 1, 3 bis 6 Satz 1, Absatz 7 Satz 1, § 106 Absatz 1, 2 Satz 3 und 4, § 107 Absatz 1 und 3, § 108 Absatz 1, 5 und 6, § 109 Absatz 1, 3 Satz 2 und 3 und Absatz 6 Satz 1, § 111 Absatz 1, § 112 Absatz 1 und 4, § 113 Absatz 1 Satz 1 und Absatz 5, § 114, § 115 und § 116 Absatz 1 und 2 während der Fahrt ständig an Bord ist,
 
-2.
+2. das für Tagesausflugsschiffe und Kabinenschiffe nach § 110 Absatz 1 Satz 1, Absatz 2 und 4 Satz 2 jeweils vorgeschriebene Sicherheitspersonal während der Fahrt und beim Stillliegen ständig an Bord verfügbar ist sowie der nach § 100 Absatz 3 Satz 1 vorgeschriebene Kontrollgang nachts stündlich durchgeführt wird.
 
-3.
+3. nur Personen als Besatzungsmitglieder eingesetzt werden, die über das für die auszuübende Funktion jeweils vorgeschriebene Befähigungszeugnis verfügen,
 
 (4) Der Schiffsführer oder die Schiffsführerin
 
-1.
+1. hat die für die jeweilige Betriebsform festgesetzte höchstzulässige Fahrzeit eines Fahrzeugs nach § 101 Absatz 2, auch in Verbindung mit Anhang II Teil III Kapitel 7 § 7.03 Nummer 2 der Binnenschiffsuntersuchungsordnung, einzuhalten und die Fahrt spätestens bei deren Ablauf zu beenden,
 
-2.
+2. darf kein Mitglied der Besatzung während seiner Mindestruhezeit nach § 103 Absatz 3 Satz 1 und 2 einsetzen,
 
-3.
+3. hat das Bordbuch nach § 102 Absatz 1 Satz 1 fünfzehn Monate nach der letzten Eintragung an Bord aufzubewahren,
 
-4.
+4. hat das Bordbuch nach § 102 Absatz 1 Satz 1 nach Maßgabe der Anweisungen zur Führung des Bordbuchs auf Seite 2 des Musters des Anhangs V der Durchführungsverordnung (EU) 2020/182 zu führen,
 
-5.
+5. hat dafür zu sorgen, dass die Eintragungen nach § 28 Absatz 6 Satz 2 nach Fahrtantritt vorgenommen werden.
 
 ## Teil 5: Ordnungswidrigkeiten
 
@@ -2016,39 +1750,39 @@ Die zuständige Behörde setzt für Fahrzeuge, die nicht unter die §§ 104 bis 
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. ohne Befähigungszeugnis nach § 9 Absatz 1, § 10 Absatz 1 oder § 17 Absatz 1, 5 oder 6 tätig ist,
 
-2.
+2. ohne Unionspatent nach § 11 Absatz 1 Nummer 1, ohne Zeugnis nach § 11 Absatz 1 Nummer 2, auch in Verbindung mit Absatz 3, oder ohne Berechtigung nach § 16 Absatz 1 ein Fahrzeug führt,
 
-3.
+3. entgegen § 19 Absatz 1 Nummer 2 das Befähigungszeugnis, das Schifferdienstbuch oder das Bordbuch nicht oder nicht rechtzeitig aushändigt,
 
-4.
+4. einer vollziehbaren Anordnung nach § 21 Absatz 3 Satz 1 oder Absatz 4 Satz 1, jeweils auch in Verbindung mit § 22 Absatz 2 Satz 3, oder nach § 98 Absatz 10 Satz 2 zuwiderhandelt,
 
-5.
+5. entgegen § 91 Absatz 4 Satz 1 einen Schiffsführer oder eine Schiffsführerin einsetzt,
 
-6.
+6. entgegen § 91 Absatz 4 Satz 2 oder § 94 Absatz 6 Satz 1 ein Befähigungszeugnis nicht oder nicht rechtzeitig abliefert,
 
-7.
+7. einer vollziehbaren Anordnung nach § 98 Absatz 10 Satz 2 zuwiderhandelt,
 
-8.
+8. entgegen § 119 Absatz 1 das Führen eines Fahrzeugs anordnet oder zulässt,
 
-9.
+9. entgegen § 119 Absatz 2 eine Fahrzeit oder einen Einsatz anordnet oder zulässt,
 
-10.
+10. entgegen § 119 Absatz 3 Nummer 1 nicht dafür sorgt, dass die vorgeschriebene Besatzung an Bord ist,
 
-11.
+11. entgegen § 119 Absatz 3 Nummer 2 nicht dafür sorgt, dass das vorgeschriebene Sicherheitspersonal ständig an Bord verfügbar ist oder dass der vorgeschriebene Kontrollgang durchgeführt wird,
 
-12.
+12. entgegen § 119 Absatz 3 Nummer 3 nicht dafür sorgt, dass nur dort genannte Personen eingesetzt werden,
 
-13.
+13. entgegen § 119 Absatz 4 Nummer 1 eine Fahrt nicht oder nicht rechtzeitig beendet,
 
-14.
+14. entgegen § 119 Absatz 4 Nummer 2 ein Mitglied der Besatzung einsetzt,
 
-15.
+15. entgegen § 119 Absatz 4 Nummer 3 ein Bordbuch nicht oder nicht mindestens fünfzehn Monate aufbewahrt,
 
-16.
+16. entgegen § 119 Absatz 4 Nummer 4 ein Bordbuch nicht, nicht richtig oder nicht vollständig führt oder
 
-17.
+17. entgegen § 119 Absatz 4 Nummer 5 nicht dafür sorgt, dass eine Eintragung vorgenommen wird.
 
 ## Teil 6: Qualitätssicherung und Evaluierung
 
@@ -2074,7 +1808,7 @@ Das Bundesministerium für Verkehr evaluiert die Regelungen dieser Verordnung un
 
 (5) Ein Wasserstraßen- und Schifffahrtsamt stellt das Schifferdienstbuch nach § 60 aus und erteilt das entsprechende Unionsbefähigungszeugnis nach § 61, wenn die antragstellende Person das Schifferdienstbuch nach Absatz 1 Satz 1 vorlegt und ihre Identität nachweist. Wer das 60. Lebensjahr vollendet hat, hat zudem einen Tauglichkeitsnachweis nach § 22 Absatz 1 vorzulegen.
 
-(6) Wer über ein bis zum Ablauf des 17. Januar 2022 von einem Wasserstraßen- und Schifffahrtsamt ausgestelltes Schifferdienstbuch verfügt und eine weitere Befähigung oder eine Ersatzausfertigung nach § 19 Absatz 3 beantragt, dem stellt die zuständige Behörde von Amts wegen ein neues Schifferdienstbuch nach den §§ 60 und 61 aus.
+(6) Wer über ein bis zum Ablauf des 17. Januar 2022 von einem Wasserstraßen- und Schifffahrtsamt ausgestelltes Schifferdienstbuch verfügt und eine weitere Befähigung oder eine Ersatzausfertigung nach § 19 Absatz 3 beantragt, dem stellt die zuständige Behörde von Amts wegen ein neues Schifferdienstbuch nach den §§ 60 und 61 aus.
 
 (7) Ausländische Nachweise über Befähigungen, die in einem Schifferdienstbuch eingetragen sind, werden nicht umgetauscht. Das gilt nicht für Nachweise der Zentralkommission für die Rheinschifffahrt.
 
@@ -2082,39 +1816,35 @@ Das Bundesministerium für Verkehr evaluiert die Regelungen dieser Verordnung un
 
 (1) Für den Umtausch der bisherigen in eine neue Befähigung nach § 123 Absatz 4 sowie für die Besatzungsvorschriften nach Teil 3 dieser Verordnung gilt Folgendes: Der bis zum Ablauf des 17. Januar 2022 nach Binnenschiffsuntersuchungsordnung erteilten Befähigung
 
-1.
+1. als Fährjunge entspricht die neue Befähigung als Decksmann,
 
-2.
+2. als Fährgehilfe entspricht die neue Befähigung als Decksmann 180,
 
-3.
+3. als Fährführer von frei oder nicht frei fahrenden Fähren entspricht die neue Befähigung als Steuermann oder Steuerfrau,
 
-4.
+4. als Decksmann entspricht die neue Befähigung als Decksmann oder als Decksfrau,
 
-5.
+5. als Schiffsjunge entspricht die neue Befähigung als Leichtmatrose oder Leichtmatrosin,
 
-6.
+6. als Matrose entspricht die neue Befähigung als Matrose oder Matrosin,
 
-7.
+7. als Bootsmann entspricht die neue Befähigung als Bootsmann oder Bootsfrau,
 
-8.
+8. als Steuermann entspricht die neue Befähigung als Steuermann oder Steuerfrau, auch dann, wenn er kein Sprechfunkzeugnis nachweisen kann,
 
-9.
+9. als Matrosen-Motorenwart entspricht die neue Befähigung als Bootsmann oder Bootsfrau,
 
-10.
+10. als Maschinist entspricht die neue Befähigung als Maschinenkundiger oder Maschinenkundige,
 
-11.
-
-a)
-
-b)
+11. als Maschinist nach der Schiffspersonalverordnung-Rhein entspricht die neue Befähigung a)als Maschinenkundiger oder Maschinenkundige, wenn die Befähigung ohne Fahrzeit erlangt wurde,b)als Bootsmann oder Bootsfrau, wenn die Befähigung über Fahrzeit erworben wurde. als Maschinenkundiger oder Maschinenkundige, wenn die Befähigung ohne Fahrzeit erlangt wurde, als Bootsmann oder Bootsfrau, wenn die Befähigung über Fahrzeit erworben wurde.
 
 (2) Wird Fahrzeit nachgewiesen, kann statt der nach Absatz 1 entsprechenden Befähigung auch eine höhere Befähigung eingetragen werden:
 
-1.
+1. als Matrose bei 540 Tagen Fahrzeit, davon mindestens 180 Tage in der Binnenschifffahrt;
 
-2.
+2. als Bootsmann bei 900 Tagen Fahrzeit, davon mindestens 540 Tage in der Binnenschifffahrt;
 
-3.
+3. als Steuermann bei 1 080 Tagen Fahrzeit, davon mindestens 720 Tage in der Binnenschifffahrt, wenn zusätzlich ein Sprechfunkzeugnis nachgewiesen werden kann.
 
 (3) Die Mindestdauer der Fahrzeiten nach Absatz 2 kann um höchstens 360 Tage Fahrzeit verkürzt werden, wenn die antragstellende Person Inhaber oder Inhaberin eines vom Bundesministerium für Verkehr anerkannten Zeugnisses über eine Fachausbildung auf dem Gebiet der Binnenschifffahrt ist, die eine praktische Ausbildung im Führen von Schiffen umfasst. Die Verkürzung der Mindestdauer darf die Dauer der Fachausbildung nicht überschreiten.
 
@@ -2126,11 +1856,11 @@ b)
 
 ### § 126 — Gültigkeit der bisherigen Befähigungszeugnisse für Schiffsführer und Schiffsführerinnen
 
-(1) Statt eines Befähigungszeugnisses nach § 11 Absatz 1, auch in Verbindung mit den Absätzen 2 oder 4, ist ausreichend ein Schifferpatent, auch mit zusätzlicher Gültigkeit für die Seeschifffahrtsstraßen, nach der Binnenschifferpatentverordnung vom 7. Dezember 1981 (BGBl. I S. 1333), die zuletzt durch § 7 Nummer 2 der Verordnung vom 27. Mai 1993 (BGBl. I S. 741) geändert worden ist, eine nach der Binnenschifferpatentverordnung vom 15. Dezember 1997 (BGBl. I S. 3066), die zuletzt durch Artikel 2 § 1 der Verordnung vom 21. September 2018 (BGBl. I S. 1398) geändert worden ist, bis zum Ablauf des 17. Januar 2022 erteilte Fahrerlaubnis der Klassen A, B und C sowie ein bis zum Ablauf des 17. Januar 2022 nach der Schiffspersonalverordnung-Rhein erteiltes Rheinpatent. Satz 1 gilt entsprechend für ein von einem anderen Mitgliedstaat der Europäischen Union nach den Anforderungen der Richtlinie 96/50/EG des Rates vom 23. Juli 1996 über die Harmonisierung der Bedingungen für den Erwerb einzelstaatlicher Schifferpatente für den Binnenschiffsgüter- und ‑personenverkehr in der Gemeinschaft (ABl. L 235 vom 17.9.1996, S. 31), die zuletzt durch Artikel 1 in Verbindung mit Anhang Nummer 9.3 der Verordnung (EG) Nr. 1137/2008 vom 22. Oktober 2008 (ABl. L 311 vom 21.11.2008, S. 1) geändert worden ist, ausgestelltes Schiffsführerpatent sowie ein in Artikel 1 Absatz 6 der Richtlinie 96/50/EG bezeichnetes Patent.
+(1) Statt eines Befähigungszeugnisses nach § 11 Absatz 1, auch in Verbindung mit den Absätzen 2 oder 4, ist ausreichend ein Schifferpatent, auch mit zusätzlicher Gültigkeit für die Seeschifffahrtsstraßen, nach der Binnenschifferpatentverordnung vom 7. Dezember 1981 (BGBl. I S. 1333), die zuletzt durch § 7 Nummer 2 der Verordnung vom 27. Mai 1993 (BGBl. I S. 741) geändert worden ist, eine nach der Binnenschifferpatentverordnung vom 15. Dezember 1997 (BGBl. I S. 3066), die zuletzt durch Artikel 2 § 1 der Verordnung vom 21. September 2018 (BGBl. I S. 1398) geändert worden ist, bis zum Ablauf des 17. Januar 2022 erteilte Fahrerlaubnis der Klassen A, B und C sowie ein bis zum Ablauf des 17. Januar 2022 nach der Schiffspersonalverordnung-Rhein erteiltes Rheinpatent. Satz 1 gilt entsprechend für ein von einem anderen Mitgliedstaat der Europäischen Union nach den Anforderungen der Richtlinie 96/50/EG des Rates vom 23. Juli 1996 über die Harmonisierung der Bedingungen für den Erwerb einzelstaatlicher Schifferpatente für den Binnenschiffsgüter- und ‑personenverkehr in der Gemeinschaft (ABl. L 235 vom 17.9.1996, S. 31), die zuletzt durch Artikel 1 in Verbindung mit Anhang Nummer 9.3 der Verordnung (EG) Nr. 1137/2008 vom 22. Oktober 2008 (ABl. L 311 vom 21.11.2008, S. 1) geändert worden ist, ausgestelltes Schiffsführerpatent sowie ein in Artikel 1 Absatz 6 der Richtlinie 96/50/EG bezeichnetes Patent.
 
 (2) Die nach Absatz 1 ausreichenden Befähigungszeugnisse bleiben bis zu ihrem Ablaufdatum, längstens jedoch bis zum Ablauf des 17. Januar 2032, gültig.
 
-(3) Eine nach der Binnenschifferpatentverordnung vom 15. Dezember 1997 (BGBl. I S. 3066), die zuletzt durch Artikel 2 § 1 der Verordnung vom 21. September 2018 (BGBl. I S. 1398) geändert worden ist, bis zum Ablauf des 17. Januar 2022 erteilte Fahrerlaubnis der Klasse F bleibt bis zum Ablauf des 17. Januar 2042 gültig, wenn der Tauglichkeitsnachweis zu den nach § 22 vorgesehenen Zeitpunkten unter Anwendung der Tauglichkeitskriterien des § 20 erneuert wird.
+(3) Eine nach der Binnenschifferpatentverordnung vom 15. Dezember 1997 (BGBl. I S. 3066), die zuletzt durch Artikel 2 § 1 der Verordnung vom 21. September 2018 (BGBl. I S. 1398) geändert worden ist, bis zum Ablauf des 17. Januar 2022 erteilte Fahrerlaubnis der Klasse F bleibt bis zum Ablauf des 17. Januar 2042 gültig, wenn der Tauglichkeitsnachweis zu den nach § 22 vorgesehenen Zeitpunkten unter Anwendung der Tauglichkeitskriterien des § 20 erneuert wird.
 
 (4) Die nach der Binnenschifferpatentverordnung vom 15. Dezember 1997 (BGBl. I S. 3066), die zuletzt durch Artikel 2 § 1 der Verordnung vom 21. September 2018 (BGBl. I S. 1398) geändert worden ist, erteilten Fahrerlaubnisse der Klasse D (Feuerlöschbootpatente) bleiben bis zu dem auf dem Patent vermerkten Ungültigkeitsdatum gültig.
 
@@ -2138,11 +1868,11 @@ b)
 
 ### § 127 — Anerkennung von Befähigungszeugnissen nach dem STCW-Übereinkommen
 
-Bis zum Ablauf des 17. Januar 2038 gilt abweichend von § 11 Absatz 1, auch in Verbindung mit den Absätzen 2 und 4, als Befähigungsnachweis für das Führen eines Fahrzeugs auf den Wasserstraßen der Zonen 1 und 2 auch ein Befähigungszeugnis für Kapitäne oder Kapitäninnen, das im Einklang mit den Bestimmungen des STCW-Übereinkommens erteilt wurde. Dies gilt auch für das Führen eines Fahrzeugs unter Verwendung des Radars.
+Bis zum Ablauf des 17. Januar 2038 gilt abweichend von § 11 Absatz 1, auch in Verbindung mit den Absätzen 2 und 4, als Befähigungsnachweis für das Führen eines Fahrzeugs auf den Wasserstraßen der Zonen 1 und 2 auch ein Befähigungszeugnis für Kapitäne oder Kapitäninnen, das im Einklang mit den Bestimmungen des STCW-Übereinkommens erteilt wurde. Dies gilt auch für das Führen eines Fahrzeugs unter Verwendung des Radars.
 
 ### § 128 — Anerkennung von Befähigungszeugnissen, Schifferdienstbüchern und Bordbüchern aus Drittstaaten
 
-Auf der Donau bleiben vorbehaltlich des § 10 Absatz 4 Befähigungszeugnisse, Schifferdienstbücher und Bordbücher, die von der Ukraine oder Serbien bis zum Ablauf des 17. Januar 2024 ausgestellt worden sind, bis zum Ablauf ihrer Gültigkeit, längstens bis zum Ablauf des 17. Januar 2032 anerkannt. Auf den Bundeswasserstraßen der Zonen 1 bis 4 bleiben bis zum Ablauf des 17. Januar 2024 von der Schweiz ausgestellte Befähigungszeugnisse, Schifferdienstbücher und Bordbücher nach der Schiffspersonalverordnung-Rhein sowie Hochrheinpatente bis zum Ablauf des 17. Januar 2032 anerkannt.
+Auf der Donau bleiben vorbehaltlich des § 10 Absatz 4 Befähigungszeugnisse, Schifferdienstbücher und Bordbücher, die von der Ukraine oder Serbien bis zum Ablauf des 17. Januar 2024 ausgestellt worden sind, bis zum Ablauf ihrer Gültigkeit, längstens bis zum Ablauf des 17. Januar 2032 anerkannt. Auf den Bundeswasserstraßen der Zonen 1 bis 4 bleiben bis zum Ablauf des 17. Januar 2024 von der Schweiz ausgestellte Befähigungszeugnisse, Schifferdienstbücher und Bordbücher nach der Schiffspersonalverordnung-Rhein sowie Hochrheinpatente bis zum Ablauf des 17. Januar 2032 anerkannt.
 
 ### § 129 — Umtausch in ein neues Befähigungszeugnis für Schiffsführer und Schiffsführerinnen
 
@@ -2164,19 +1894,19 @@ Auf der Donau bleiben vorbehaltlich des § 10 Absatz 4 Befähigungszeugnisse, S
 
 ### § 130 — Übergangsbestimmungen für Sportfahrzeuge und für Fahrzeuge unter 20 Metern Länge
 
-(1) § 34 der Binnenschiffsuntersuchungsordnung bleibt unberührt.
+(1) § 34 der Binnenschiffsuntersuchungsordnung bleibt unberührt.
 
-(2) Die in § 15 Absatz 5 Satz 1 genannten Fahrzeuge können bis zum Ablauf des 17. Januar 2028 abweichend von § 15 Absatz 1 Satz 1 auch mit folgenden Fahrerlaubnissen geführt werden: Für das Führen der in § 15 Absatz 5 Satz 1 genannten Fahrzeuge hat die zuständige Behörde ein Kleinschifferzeugnis mit dem entsprechenden Geltungsbereich auszustellen, wenn der Inhaber der Fahrerlaubnis nach Absatz 2 bis zum Ablauf des 17. Januar 2027 einen entsprechenden Antrag stellt, die Fahrerlaubnis und einen Nachweis der Tätigkeit in der Personenbeförderung im Sinne des § 15 Absatz 5 Satz 1 Nummer 1 zusammen mit dem Antrag vorlegt und zugleich seine Identität nachweist. Ein Tauglichkeitsnachweis ist nicht erforderlich, auch wenn die antragstellende Person zum Zeitpunkt der Antragstellung das 60. Lebensjahr vollendet hat.
+(2) Die in § 15 Absatz 5 Satz 1 genannten Fahrzeuge können bis zum Ablauf des 17. Januar 2028 abweichend von § 15 Absatz 1 Satz 1 auch mit folgenden Fahrerlaubnissen geführt werden:
 
-1.
+1. auf Wasserstraßen der Zonen 1 und 2 mit einer Fahrerlaubnis für Sportboote unter Antriebsmaschine mit dem Geltungsbereich Seeschifffahrtsstraßen nach der Sportbootführerscheinverordnung,
 
-2.
+2. auf Wasserstraßen der Zonen 3 und 4 mit einer Fahrerlaubnis für Sportboote unter Antriebsmaschine mit dem Geltungsbereich Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung.
 
-(3) Gewerblich, beruflich oder dienstlich genutzte Fahrzeuge mit einer Länge von weniger als 20 Metern, ausgenommen Fahrgastschiffe, Fahrgastboote, Sportfahrzeuge, die nach § 34 der Binnenschiffsuntersuchungsordnung zur Beförderung von Fahrgästen eingesetzt werden, Schub- und Schleppboote, schwimmende Geräte sowie Fähren, können bis zum Ablauf des 30. Dezember 2025 auch mit folgenden Fahrerlaubnissen geführt werden: Für das Führen der in Satz 1 genannten Fahrzeuge hat die zuständige Behörde ein Kleinschifferzeugnis mit dem entsprechenden Geltungsbereich auszustellen, wenn der Inhaber der Fahrerlaubnis nach Satz 1 bis zum Ablauf des 30. Dezember 2025 einen entsprechenden Antrag gestellt hat, die Fahrerlaubnis und einen Nachweis der gewerblichen, beruflichen oder dienstlichen Tätigkeit zusammen mit dem Antrag vorgelegt und zugleich seine Identität nachgewiesen hat. Ein Tauglichkeitsnachweis ist nicht erforderlich, auch wenn die antragstellende Person zum Zeitpunkt der Antragstellung das 60. Lebensjahr vollendet hat.
+(3) Gewerblich, beruflich oder dienstlich genutzte Fahrzeuge mit einer Länge von weniger als 20 Metern, ausgenommen Fahrgastschiffe, Fahrgastboote, Sportfahrzeuge, die nach § 34 der Binnenschiffsuntersuchungsordnung zur Beförderung von Fahrgästen eingesetzt werden, Schub- und Schleppboote, schwimmende Geräte sowie Fähren, können bis zum Ablauf des 30. Dezember 2025 auch mit folgenden Fahrerlaubnissen geführt werden:
 
-1.
+1. auf Wasserstraßen der Zonen 1 und 2 mit einer Fahrerlaubnis mit dem Geltungsbereich Seeschifffahrtsstraßen nach der Sportbootführerscheinverordnung,
 
-2.
+2. auf Wasserstraßen der Zonen 3 und 4 mit einer Fahrerlaubnis für Sportboote unter Antriebsmaschine mit dem Geltungsbereich Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung.
 
 ### § 131 — Gültigkeit und Umtausch der Radarpatente und Radarbescheinigungen
 
@@ -2188,7 +1918,7 @@ Auf der Donau bleiben vorbehaltlich des § 10 Absatz 4 Befähigungszeugnisse, S
 
 ### § 132 — Gültigkeit der bisherigen Streckenkunde
 
-(1) Statt einer besonderen Berechtigung nach § 16 Absatz 1 Satz 1 Nummer 2 ist ausreichend der Nachweis über die Streckenkunde nach der Binnenschifferpatentverordnung oder ein bis zum Ablauf des 17. Januar 2022 nach der Schiffspersonalverordnung-Rhein ausgestellter Nachweis über die Streckenkunde.
+(1) Statt einer besonderen Berechtigung nach § 16 Absatz 1 Satz 1 Nummer 2 ist ausreichend der Nachweis über die Streckenkunde nach der Binnenschifferpatentverordnung oder ein bis zum Ablauf des 17. Januar 2022 nach der Schiffspersonalverordnung-Rhein ausgestellter Nachweis über die Streckenkunde.
 
 (2) Die in Absatz 1 genannten Nachweise sind bis zum Ablauf des 17. Januar 2032 gültig.
 
@@ -2196,7 +1926,7 @@ Auf der Donau bleiben vorbehaltlich des § 10 Absatz 4 Befähigungszeugnisse, S
 
 ### § 133 — Gültigkeit der besonderen Berechtigung für Binnenwasserstraßen mit maritimem Charakter
 
-(1) Statt einer besonderen Berechtigung nach § 16 Absatz 1 Satz 1 Nummer 3 ist ausreichend eine Fahrerlaubnis der Klassen A, C1 oder D1 nach der Binnenschifferpatentverordnung oder ein bis zum Ablauf des 17. Januar 2022 nach der Schiffspersonalverordnung-Rhein erteiltes Großes oder Kleines Rheinpatent.
+(1) Statt einer besonderen Berechtigung nach § 16 Absatz 1 Satz 1 Nummer 3 ist ausreichend eine Fahrerlaubnis der Klassen A, C1 oder D1 nach der Binnenschifferpatentverordnung oder ein bis zum Ablauf des 17. Januar 2022 nach der Schiffspersonalverordnung-Rhein erteiltes Großes oder Kleines Rheinpatent.
 
 (2) Die in Absatz 1 genannten Nachweise sind bis zum Ablauf des 17. Januar 2032 gültig.
 
@@ -2214,9 +1944,9 @@ Auf der Donau bleiben vorbehaltlich des § 10 Absatz 4 Befähigungszeugnisse, S
 
 ### § 135 — Gültigkeit der Nachweise der Befähigung für Ersthelfer und Ersthelferinnen und atemschutzgerättragende Personen
 
-(1) Statt einer Bescheinigung nach § 17 Absatz 5 ist ausreichend eine nach der Schiffspersonalverordnung-Rhein ausgestellte Bescheinigung oder ein ihr gleichgestellter Schulungsnachweis für Ersthelfer und Ersthelferinnen.
+(1) Statt einer Bescheinigung nach § 17 Absatz 5 ist ausreichend eine nach der Schiffspersonalverordnung-Rhein ausgestellte Bescheinigung oder ein ihr gleichgestellter Schulungsnachweis für Ersthelfer und Ersthelferinnen.
 
-(2) Statt einer Bescheinigung nach § 17 Absatz 6 ist ausreichend einer nach der Schiffspersonalverordnung-Rhein ausgestellte Bescheinigung oder ein ihr gleichgestellter Schulungsnachweis für atemschutzgerättragende Personen.
+(2) Statt einer Bescheinigung nach § 17 Absatz 6 ist ausreichend einer nach der Schiffspersonalverordnung-Rhein ausgestellte Bescheinigung oder ein ihr gleichgestellter Schulungsnachweis für atemschutzgerättragende Personen.
 
 (3) Die nach der Schiffspersonalverordnung-Rhein ausgestellten Bescheinigungen und ihnen gleichgestellte Schulungsnachweise für Ersthelfer und Ersthelferinnen und atemschutzgerättragende Personen bleiben bis zu ihrem bisherigen Gültigkeitsdatum gültig.
 
@@ -2238,7 +1968,7 @@ Für Kabinenschiffe werden die Festlegungen zur Besatzung in der Fahrtauglichkei
 
 ### § 139 — Umtausch von Radarbescheinigungen
 
-Bescheinigungen über eine bestandene Radarbefähigungsprüfung können nach § 16 Absatz 4 Satz 2 auch dann umgetauscht werden, wenn die Prüfung an dem bisher genutzten Radarsimulator der Wasserschutzpolizei-Schule in Hamburg durchgeführt worden ist.
+Bescheinigungen über eine bestandene Radarbefähigungsprüfung können nach § 16 Absatz 4 Satz 2 auch dann umgetauscht werden, wenn die Prüfung an dem bisher genutzten Radarsimulator der Wasserschutzpolizei-Schule in Hamburg durchgeführt worden ist.
 
 ### § 140 — Befahren der Elbe; Befahren von maritimen Wasserstraßen mit Fähren
 
@@ -2256,39 +1986,33 @@ Mit dem Umtausch einer Fahrerlaubnis der Klasse A oder B nach der Binnenschiffer
 
 ### Anlage 1 — (zu § 12 Absatz 1 Satz 1 Nummer 2)
 
-1.
+1. Kieler Förde
 
-2.
+2. Nord-Ostsee-Kanal
 
-3.
+3. Elbe unterhalb des Hamburger Hafens
 
-4.
+4. Weser
 
-5.
+5. Jade
 
-6.
+6. Ems unterhalb des Emder Hafens
 
-7.
+7. Hunte (insoweit kann das die Wasserstraße verwaltende Wasserstraßen- und Schifffahrtsamt Ausnahmen zulassen)
 
-8.
+8. Unterwarnow
 
-9.
+9. Gewässer, die vom Festland und den Halbinseln Darß und Zingst sowie den Inseln Hiddensee und Rügen eingeschlossen sind (einschließlich Stralsunder Hafengebiet), seewärts begrenzt zwischen 9.1Halbinsel Zingst und Insel Bock durch das Breitenparallel 54 Grad 26' 42" Nord9.2Insel Bock und Insel Hiddensee durch die Verbindungslinie von der Nordspitze der Insel Bock zur Südspitze der Insel Hiddensee9.3Insel Hiddensee und Insel Rügen (Bug) durch die Verbindungslinie von der Südostspitze Neubessin zum Buger Haken Halbinsel Zingst und Insel Bock durch das Breitenparallel 54 Grad 26' 42" Nord Insel Bock und Insel Hiddensee durch die Verbindungslinie von der Nordspitze der Insel Bock zur Südspitze der Insel Hiddensee Insel Hiddensee und Insel Rügen (Bug) durch die Verbindungslinie von der Südostspitze Neubessin zum Buger Haken
 
-9.1
-
-9.2
-
-9.3
-
-10.
+10. Peenestrom (insoweit kann das die Wasserstraße verwaltende Wasserstraßen- und Schifffahrtsamt Ausnahmen zulassen)
 
 ### Anlage 2 — (zu § 16 Absatz 1 Satz 1 Nummer 2)
 
-1.
+1. Donau: von km 2 249,00 (Liegestelle Vilshofen) bis km 2 322,02 (Unterwasser Schleuse Straubing)
 
-2.
+2. Elbe: von km 50,00 (Anlegestellen Fahrgastschifffahrt) bis km 60,60 (oberhalb der Hafenmündung Alberthafen), von km 322,90 (Abzweig Alte Elbe) bis km 329,85 (oberhalb Einfahrt Handelshafen) und von km 502,25 (Mündung der Alten Löcknitz) bis km 568,90 (Hohnstorfer Brücke)
 
-3.
+3. Weser: von km 000,00 (Hann. Münden) bis km 204,47 (Minden)
 
 ### Anlage 3 — (zu § 17 Absatz 6 Nummer 1)
 
@@ -2300,73 +2024,37 @@ hat an dem XX* Unterrichtseinheiten umfassenden o. g. Lehrgang
 
 vom TT.MM.JJJJ bis TT.MM.JJJJ/ am TT.MM.JJJJ
 
-unter der Leitung von ................................................................................... [Name, Vorname] erfolgreich teilgenommen.
-
 ### Anlage 4 — (zu § 20)
 
 Der untersuchende Arzt sollte bedenken, dass es nicht möglich ist, eine umfassende Liste von Tauglichkeitskriterien zu erstellen, die alle möglichen Gesundheitsstörungen sowie deren Verschiedenartigkeit bei Auftreten und Prognose abdeckt.
 
-Die Grundsätze, die dem in der Tabelle angewandten Ansatz zugrunde liegen, können häufig auf Gesundheitsstörungen übertragen werden, die nicht von dieser Tabelle abgedeckt werden. Die Tauglichkeitsentscheidungen bei Vorliegen einer Gesundheitsstörung hängen von einer sorgfältigen klinischen Beurteilung und Analyse ab, wobei bei jeder Tauglichkeitsentscheidung die folgenden Punkte zu berücksichtigen sind:
+Die Grundsätze, die dem in der Tabelle angewandten Ansatz zugrunde liegen, können häufig auf Gesundheitsstörungen übertragen werden, die nicht von dieser Tabelle abgedeckt werden. Die Tauglichkeitsentscheidungen bei Vorliegen einer Gesundheitsstörung hängen von einer sorgfältigen klinischen Beurteilung und Analyse ab, wobei bei jeder
 
-1.
+1. Medizinische Tauglichkeit, die die körperliche und psychische Tauglichkeit umfasst, bedeutet, dass die an Bord eines Fahrzeugs auf Binnenwasserstraßen tätige Person nicht an einer Krankheit oder Behinderung leidet, aufgrund deren sie nicht in der Lage ist, die folgenden Tätigkeiten zu verrichten: a)die für den Betrieb des Fahrzeugs notwendigen Aufgaben auszuführen;b)die ihr zugewiesenen Aufgaben jederzeit zu erfüllen;c)die Umgebung korrekt wahrzunehmen. die für den Betrieb des Fahrzeugs notwendigen Aufgaben auszuführen; die ihr zugewiesenen Aufgaben jederzeit zu erfüllen; die Umgebung korrekt wahrzunehmen.
 
-a)
+2. Die aufgeführten Gesundheitsstörungen sind übliche Beispiele für Gesundheitsstörungen, die zu einer Untauglichkeit von Besatzungsmitgliedern führen können. Anhand dieser Liste können auch entsprechende Tauglichkeitsbeschränkungen festgelegt werden. Die angegebenen Kriterien sind lediglich als Anhaltspunkte für Mediziner gedacht und ersetzen eine fundierte ärztliche Beurteilung nicht.
 
-b)
+3. Die Auswirkungen auf die Arbeit und das Leben auf in Binnengewässern verkehrenden Fahrzeugen variieren je nach Verlauf der jeweiligen Gesundheitsstörung und je nach Behandlungsumfang erheblich. Tauglichkeitsentscheidungen beruhen auf Kenntnissen der Gesundheitsstörung und der Beurteilung der Merkmale, die sich bei der untersuchten Person zeigen.
 
-c)
-
-2.
-
-3.
-
-4.
+4. Kann die medizinische Tauglichkeit nicht in vollem Umfang nachgewiesen werden, können Risikominderungsmaßnahmen und Beschränkungen zur Gewährleistung einer gleichwertigen Sicherheit der Schifffahrt auferlegt werden. Die Risikominderungsmaßnahmen und Beschränkungen werden im vorliegenden Text in den Bemerkungen aufgeführt. In der Beschreibung der medizinischen Tauglichkeitskriterien wird gegebenenfalls auf die betreffenden Risikominderungsmaßnahmen und Beschränkungen verwiesen.
 
 Die Tabelle ist wie folgt aufgebaut:
 
-Spalte 1:
+Spalte 1: Internationale Klassifikation der Krankheiten der WHO, 10. Revision (ICD-10). Die Codes werden als Hilfe für die Analyse und insbesondere für die internationale Sammlung und Aufbereitung der Daten angeführt.
 
-Spalte 2:
+Spalte 2: Der allgemeine Name einer Krankheit oder einer Gruppe von Krankheiten mit einer kurzen Angabe zu deren Bedeutung für die Arbeit auf Binnenwasserstraßen.
 
-Spalte 3:
+Spalte 3: Die medizinischen Tauglichkeitskriterien, die zu folgender Entscheidung führen: Unvereinbarkeit.
 
-Spalte 4:
+Spalte 4: Die medizinischen Tauglichkeitskriterien, die zu folgender Entscheidung führen: Kann die zugewiesenen Aufgaben jederzeit erfüllen.
 
 Das Dokument umfasst zwei Anhänge:
 
-Anhang 1:
+Anhang 1: Relevante Kriterien in Bezug auf das Sehvermögen gemäß Diagnosecode H 00–59.
 
-Anhang 2:
+Anhang 2: Relevante Kriterien in Bezug auf das Hörvermögen gemäß Diagnosecode H 68–95.
 
-–
-
-–
-
-1.
-
-2.
-
-3.
-
-1.
-
-2.
-
-3.
-
-1.
-
-2.
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
+– einschließlich Lymphome, Leukämien und begleitende Erkrankungen
 
 > Satz 3 Eingangssatz Kursivdruck: Fehlschreibung des Wortes "Tauglichkeitsententscheidung" in "Tauglichkeitsentscheidung" korrigiert
 
@@ -2374,25 +2062,19 @@ d)
 
 Mindestkriterien in Bezug auf das Sehvermögen:
 
-a)
+1. Tagessehschärfe: Die Sehschärfe auf beiden Augen gemeinsam oder auf dem besseren Auge muss mit oder ohne Sehhilfe größer oder gleich 0,8 sein. Einäugiges Sehen ist erlaubt.Offenkundiges Doppelsehen (Motilität), das nicht korrigiert werden kann, ist nicht erlaubt. Bei Einäugigkeit: normale Beweglichkeit des funktionstüchtigen Auges. Offenkundiges Doppelsehen (Motilität), das nicht korrigiert werden kann, ist nicht erlaubt. Bei Einäugigkeit: normale Beweglichkeit des funktionstüchtigen Auges. Beschränkung 01*** kann angezeigt sein.
 
-b)
+2. Dämmerungssehvermögen: Zu testen bei Glaukom, Netzhauterkrankungen oder Medientrübungen (z. B. Katarakt). Kontrastsehen bei 0,032 cd/m2 ohne Blendung; Testergebnis 1:2,7 oder besser, mit dem Mesotest überprüft. ohne Blendung; Testergebnis 1:2,7 oder besser, mit dem Mesotest überprüft.
 
-c)
+3. Gesichtsfeld: Das horizontale Gesichtsfeld beträgt mindestens 120 Grad. Die Erweiterung nach links und rechts beträgt mindestens 50 Grad und die Erweiterung nach oben und unten mindestens 20 Grad. Im gesamten Radius des zentralen Gesichtsfelds von 20 Grad sind keine Defekte vorhanden.Mindestens ein Auge erfüllt den Sehschärfen-Standard und weist ein Gesichtsfeld ohne pathologische Skotome auf. Bei Glaukom oder Netzhautdystrophie oder wenn bei der Erstuntersuchung Anomalien erkannt werden, ist ein formeller Test durch einen Augenarzt erforderlich. Mindestens ein Auge erfüllt den Sehschärfen-Standard und weist ein Gesichtsfeld ohne pathologische Skotome auf. Bei Glaukom oder Netzhautdystrophie oder wenn bei der Erstuntersuchung Anomalien erkannt werden, ist ein formeller Test durch einen Augenarzt erforderlich.
 
-d)
-
-e)
-
-f)
-
-g)
+4. Farbunterscheidungsvermögen von Mitgliedern einer Decksmannschaft, die Navigationsaufgaben wahrnehmen: Das Farbunterscheidungsvermögen ist als ausreichend anzusehen, wenn der Bewerber den Test mittels 24 Ishihara-Farbtafeln mit maximal zwei Fehlern besteht. Ist dies nicht der Fall, muss einer der genannten anerkannten alternativen Tests durchgeführt werden. Im Zweifelsfall ist eine Prüfung mit dem Anomaloskop durchzuführen. Der mit dem Anomaloskop gemessene Anomal-Quotient muss zwischen 0,7 und 1,4 liegen und somit auf eine normale Trichromasie hindeuten.Anerkannte, zu den Ishihara-Farbtafeln alternative Tests sind: a)Velhagen/Broschmann (Ergebnis mit maximal zwei Fehlern);b)Kuchenbecker-Broschmann (maximal zwei Fehler);c)HRR (Ergebnis mindestens „leicht“);d)TMC (Ergebnis mindestens „second degree“);e)Holmer-Wright B (Ergebnis höchstens 8 Fehler bei „small“);f)Farnsworth-Panel-D-15-Test (mindestens zu erreichendes Ergebnis: maximal eine diametrale Überschneidung im Diagramm der Anordnung der Farben);g)Colour Assessment and Diagnostic Test (CAD) (Ergebnis mit maximal vier CAD-Einheiten).Inhaber oder Inhaberinnen eines gemäß der Richtlinie 96/50/EG des Rates ausgestellten Schifferpatents, deren mit dem Anomaloskop gemessener Anomal-Quotient für das Farbsehen zwischen 0,7 und 3,0 liegt, gelten als tauglich, wenn ihr Patent vor dem 1. April 2004 ausgestellt wurde. Anerkannte, zu den Ishihara-Farbtafeln alternative Tests sind: a)Velhagen/Broschmann (Ergebnis mit maximal zwei Fehlern);b)Kuchenbecker-Broschmann (maximal zwei Fehler);c)HRR (Ergebnis mindestens „leicht“);d)TMC (Ergebnis mindestens „second degree“);e)Holmer-Wright B (Ergebnis höchstens 8 Fehler bei „small“);f)Farnsworth-Panel-D-15-Test (mindestens zu erreichendes Ergebnis: maximal eine diametrale Überschneidung im Diagramm der Anordnung der Farben);g)Colour Assessment and Diagnostic Test (CAD) (Ergebnis mit maximal vier CAD-Einheiten). Velhagen/Broschmann (Ergebnis mit maximal zwei Fehlern); Kuchenbecker-Broschmann (maximal zwei Fehler); HRR (Ergebnis mindestens „leicht“); TMC (Ergebnis mindestens „second degree“); Holmer-Wright B (Ergebnis höchstens 8 Fehler bei „small“); Farnsworth-Panel-D-15-Test (mindestens zu erreichendes Ergebnis: maximal eine diametrale Überschneidung im Diagramm der Anordnung der Farben); Colour Assessment and Diagnostic Test (CAD) (Ergebnis mit maximal vier CAD-Einheiten). Der Gebrauch von Filtergläsern als Sehhilfen für das Farbunterscheidungsvermögen, z. B. getönte Kontaktlinsen und Brille, ist nicht zulässig.
 
 ### Anhang 2 zu Anlage 4
 
 Mindestkriterien in Bezug auf das Hörvermögen:
 
-Das Hörvermögen ist als ausreichend anzusehen, wenn der Mittelwert der Hörverluste der beiden Ohren, mit oder ohne Hörhilfe, bei den Frequenzen 500 Hz, 1000 Hz, 2000 Hz und 3000 Hz den Wert von 40 dB nicht überschreitet. Wird der Wert von 40 dB überschritten, ist das Hörvermögen dennoch als ausreichend anzusehen, wenn ein Hörtest mit einem Audiometer nach ISO 8253-1:2010 oder ein gleichwertiger Test bestanden wird.
+Das Hörvermögen ist als ausreichend anzusehen, wenn der Mittelwert der Hörverluste der beiden Ohren, mit oder ohne Hörhilfe, bei den Frequenzen 500 Hz, 1000 Hz, 2000 Hz und 3000 Hz den Wert von 40 dB nicht überschreitet. Wird der Wert von 40 dB überschritten, ist das Hörvermögen dennoch als ausreichend anzusehen, wenn ein Hörtest mit einem Audiometer nach ISO 8253-1:2010 oder ein gleichwertiger Test bestanden wird.
 
 Beschränkung 02*** kann angezeigt sein.
 
@@ -2424,23 +2106,17 @@ Schweres Asthma: – häufige Episoden asthmatischer Beschwerden, häufige stati
 
 *** Risikominderungsmaßnahmen und Beschränkungen
 
-01 Sehhilfe (Brille und/oder Kontaktlinsen) erforderlich
+01 Sehhilfe (Brille und/oder Kontaktlinsen) erforderlich
 
-02 Hörhilfe erforderlich
+02 Hörhilfe erforderlich
 
-03 Prothesen der Gliedmaßen erforderlich
+03 Prothesen der Gliedmaßen erforderlich
 
-04 Kein Alleindienst im Steuerhaus
+04 Kein Alleindienst im Steuerhaus
 
-05 Nur bei Tageslicht
+05 Nur bei Tageslicht
 
-06 Keine Navigationsaufgaben zulässig
-
-07 Beschränkt auf ein einzelnes Fahrzeug namens ........................................................................................................................................................................................................................................................
-
-08 Beschränkter Bereich: ...................................................................................................................................................................................................................................................................................................
-
-09 Beschränkte Aufgabe: ...................................................................................................................................................................................................................................................................................................
+06 Keine Navigationsaufgaben zulässig
 
 Die Risikominderungsmaßnahmen und Beschränkungen können kombiniert werden. Bei Bedarf werden sie kombiniert.
 
@@ -2448,9 +2124,31 @@ Die Risikominderungsmaßnahmen und Beschränkungen können kombiniert werden. Be
 
 Die untersuchte Person wurde hinsichtlich ihrer körperlichen und psychischen Tauglichkeit nach den Vorgaben in Anlage 4 der Binnenschiffspersonalverordnung über medizinische Tauglichkeitskriterien (allgemein, in Bezug auf das Sehvermögen, in Bezug auf das Hörvermögen) mit den folgenden Ergebnissen untersucht:
 
+☐ Dauerhaft untauglich
+
+☐ Vorübergehend untauglich, voraussichtlich bis ____________
+
+☐ Tauglich ohne Einschränkungen
+
+☐ Tauglichkeit befristet bis ____________
+
+☐ Tauglich unter der Voraussetzung, dass das Patent der untersuchten Person vor dem 1. April 2004 erteilt worden ist
+
+☐ Tauglich mit einer oder mehrerer der folgenden Beschränkungen ☐01 Sehhilfe (Brille und/oder Kontaktlinsen) erforderlich☐02 Hörhilfe erforderlich☐03 Prothesen der Gliedmaßen erforderlich☐04 Kein Alleindienst im Steuerhaus☐05 Nur bei Tageslicht☐06 Keine Navigationsaufgaben zulässig☐07 Beschränkt auf ein einzelnes Fahrzeug namens __________________________☐08 Beschränkter Bereich __________________________☐09 Beschränkte Aufgabe __________________________ 01 Sehhilfe (Brille und/oder Kontaktlinsen) erforderlich 02 Hörhilfe erforderlich 03 Prothesen der Gliedmaßen erforderlich 04 Kein Alleindienst im Steuerhaus 05 Nur bei Tageslicht 06 Keine Navigationsaufgaben zulässig 07 Beschränkt auf ein einzelnes Fahrzeug namens __________________________ 08 Beschränkter Bereich __________________________ 09 Beschränkte Aufgabe __________________________
+
 ### Anlage 6 — (zu § 21 Absatz 1)
 
 Die untersuchte Person wurde hinsichtlich ihrer körperlichen und psychischen Tauglichkeit nach den Vorgaben in Anlage 4 der Binnenschiffspersonalverordnung über medizinische Tauglichkeitskriterien (allgemein und in Bezug auf das Hörvermögen) und in Bezug auf das Sehvermögen nach § 23 der Binnenschiffspersonalverordnung mit den folgenden Ergebnissen untersucht:
+
+☐ Dauerhaft untauglich
+
+☐ Vorübergehend untauglich, voraussichtlich bis ____________
+
+☐ Tauglich ohne Einschränkungen
+
+☐ Tauglichkeit befristet bis ____________
+
+☐ Tauglich mit einer oder mehrerer der folgenden Beschränkungen ☐01 Sehhilfe (Brille und/oder Kontaktlinsen) erforderlich☐02 Hörhilfe erforderlich☐03 Prothesen der Gliedmaßen erforderlich☐04 Kein Alleindienst im Steuerhaus☐05 Nur bei Tageslicht☐06 Keine Navigationsaufgaben zulässig☐07 Beschränkt auf ein einzelnes Fahrzeug namens __________________________☐08 Beschränkter Bereich __________________________☐09 Beschränkte Aufgabe __________________________ 01 Sehhilfe (Brille und/oder Kontaktlinsen) erforderlich 02 Hörhilfe erforderlich 03 Prothesen der Gliedmaßen erforderlich 04 Kein Alleindienst im Steuerhaus 05 Nur bei Tageslicht 06 Keine Navigationsaufgaben zulässig 07 Beschränkt auf ein einzelnes Fahrzeug namens __________________________ 08 Beschränkter Bereich __________________________ 09 Beschränkte Aufgabe __________________________
 
 ### Anlage 6a — (zu § 24 Absatz 2)
 
@@ -2459,8 +2157,6 @@ Die untersuchte Person wurde hinsichtlich ihrer körperlichen und psychischen Ta
 Antrag auf Zulassung nach § 24 Abs. 2 der Binnenschiffspersonalverordnung (BinSchPersV) und § 5 Abs. 1 der Rheinschiffspersonaleinführungsverordnung (RheinSchPersEV)
 
 Im Verwaltungsverfahren zur Erteilung eines Befähigungszeugnisses in der Binnenschifffahrt werden von der Generaldirektion Wasserstraßen und Schifffahrt (GDWS) ausschließlich Tauglichkeitsnachweise von zugelassenen Ärztinnen/Ärzten akzeptiert. Die Liste der zugelassenen Ärztinnen/Ärzte wird regelmäßig aktualisiert und auf Grundlage des § 24 Abs. 3 BinSchPersV im Internet unter www.bg-verkehr.de und auf den Internetseiten der GWDS veröffentlicht.
-
-Hinweis auf ein Auskunftsrecht der Betroffenen:
 
 Sie sind gemäß Artikel 15 DSGVO jederzeit berechtigt, gegenüber der verantwortlichen Stelle um umfangreiche Auskunftserteilung zu den zu Ihrer Person gespeicherten Daten zu ersuchen.
 
@@ -2476,2073 +2172,121 @@ __________
 
 Der Lehrgang vermittelt die nachstehend genannten theoretischen und praktischen Inhalte. Das geschieht durch eine enge Verzahnung von Praxis und Theorie, die das Erreichen der notwendigen Handlungskompetenz sicherstellt. Die Dauer des Lehrgangs sollte mindestens drei Tage betragen, darf diese Dauer aber auch nicht erheblich überschreiten.
 
-1.
+I. Verwendung der Rettungsmittel gegen das Ertrinken Zeitrahmen: ca. 6 Stunden 1.Rettungsmittel an Bord eines FahrzeugsInhalte: Zusammenfassende Darstellung möglicher Rettungsmittel an Bord und ihrer Funktion2.Gefahren nach einem Sturz ins WasserInhalte: Gefahren der Strömung, der Wassertemperatur und des Schiffsverkehrs beim Überbordgehen; Gefahr der Unterkühlung; Gefahr des Kälteschocks; Probleme bei der Rettung aus dem Wasser; Erste-Hilfe-Maßnahmen bei Unterkühlung3.RettungswesteInhalte: Aufbau und Funktion der Rettungsweste, Prüfung auf Einsatzbereitschaft; korrektes Anlegen der RettungswesteArt der Vermittlung: Praktische Unterweisung mit Auseinanderfalten und anschließendem Zusammenlegen der Rettungsweste; zudem möglichst mit Auslösung der Rettungsweste im Wasser Rettungsmittel an Bord eines Fahrzeugs Inhalte: Zusammenfassende Darstellung möglicher Rettungsmittel an Bord und ihrer Funktion Gefahren nach einem Sturz ins Wasser Inhalte: Gefahren der Strömung, der Wassertemperatur und des Schiffsverkehrs beim Überbordgehen; Gefahr der Unterkühlung; Gefahr des Kälteschocks; Probleme bei der Rettung aus dem Wasser; Erste-Hilfe-Maßnahmen bei Unterkühlung Rettungsweste Inhalte: Aufbau und Funktion der Rettungsweste, Prüfung auf Einsatzbereitschaft; korrektes Anlegen der Rettungsweste Art der Vermittlung: Praktische Unterweisung mit Auseinanderfalten und anschließendem Zusammenlegen der Rettungsweste; zudem möglichst mit Auslösung der Rettungsweste im Wasser
 
-2.
+II. Die besondere Arbeitsumgebung an Bord eines Fahrzeugs Zeitrahmen: ca. 3 Stunden 1.Sicheres Bewegen an Bord eines FahrzeugsInhalte: Persönliche Schutzausrüstung: Auswahl des korrekten Sicherheitsschuhs, Benutzung steiler Treppen/Leitern, Umgang mit den beengten räumlichen Verhältnissen an Bord, Gefahren beim Begehen von Gangborden, Gefahren beim Betreten von abgeschlossenen Bereichen (z. B. Wallgängen), Gefahren sich bewegender Teile (z. B. in Maschinen, Steuerhaus oder Radarantenne)2.Umgang mit Notsituationen an Bord eines FahrzeugsInhalte: Lesen und Umsetzung der Sicherheitsrolle des Schiffes; Rettungswege an Bord; Umgang mit den beengten Verhältnissen an Bord beim Retten und Bergen; Verhalten bei personellen Ausfällen: Notmaßnahmen der Schiffsführung; Absetzen von Notrufen und sonstige Kommunikation in Notfällen unter Verwendung der unten aufgeführten Standardredewendungen auf Englisch3.Arbeiten mit Tauen und DrähtenInhalte: Gefahren beim Festmachen und beim Umgang mit Winden, Persönliche Schutzausrüstung: Auswahl des korrekten HandschuhsArt der Vermittlung: Praktischer Umgang mit Tauen oder Drähten Sicheres Bewegen an Bord eines Fahrzeugs Inhalte: Persönliche Schutzausrüstung: Auswahl des korrekten Sicherheitsschuhs, Benutzung steiler Treppen/Leitern, Umgang mit den beengten räumlichen Verhältnissen an Bord, Gefahren beim Begehen von Gangborden, Gefahren beim Betreten von abgeschlossenen Bereichen (z. B. Wallgängen), Gefahren sich bewegender Teile (z. B. in Maschinen, Steuerhaus oder Radarantenne) Umgang mit Notsituationen an Bord eines Fahrzeugs Inhalte: Lesen und Umsetzung der Sicherheitsrolle des Schiffes; Rettungswege an Bord; Umgang mit den beengten Verhältnissen an Bord beim Retten und Bergen; Verhalten bei personellen Ausfällen: Notmaßnahmen der Schiffsführung; Absetzen von Notrufen und sonstige Kommunikation in Notfällen unter Verwendung der unten aufgeführten Standardredewendungen auf Englisch Arbeiten mit Tauen und Drähten Inhalte: Gefahren beim Festmachen und beim Umgang mit Winden, Persönliche Schutzausrüstung: Auswahl des korrekten Handschuhs Art der Vermittlung: Praktischer Umgang mit Tauen oder Drähten
 
-3.
+III. Brandbekämpfung an Bord eines Fahrzeugs Zeitrahmen: ca. 3 Stunden 1.Einrichtungen zur Brandbekämpfung an Bord eines FahrzeugsInhalte: Darstellung der Einrichtungen zur Brandbekämpfung an Bord eines Fahrzeugs und deren Einsatzbereiche2.Umgang mit tragbaren FeuerlöschernInhalte: Einsatz von Feuerlöschern zur lokalen Brandbekämpfung Einrichtungen zur Brandbekämpfung an Bord eines Fahrzeugs Inhalte: Darstellung der Einrichtungen zur Brandbekämpfung an Bord eines Fahrzeugs und deren Einsatzbereiche Umgang mit tragbaren Feuerlöschern Inhalte: Einsatz von Feuerlöschern zur lokalen Brandbekämpfung
 
-1.
+IV. Gefahren an Bord durch Lärm Zeitrahmen: ca. 2 Stunden 1.Lärmquellen an Bord eines FahrzeugsInhalte: Darstellung der Lärmquellen an Bord eines Fahrzeugs und deren Lautstärke2.Gefahren von LärmInhalte: Auswirkungen kurz- oder langfristigen Lärms auf die Gesundheit (z. B. im Maschinenraum, Ladepumpen oder Werkzeuge)3.GehörschutzInhalte: Arten von Gehörschutz; richtiges Anlegen Lärmquellen an Bord eines Fahrzeugs Inhalte: Darstellung der Lärmquellen an Bord eines Fahrzeugs und deren Lautstärke Gefahren von Lärm Inhalte: Auswirkungen kurz- oder langfristigen Lärms auf die Gesundheit (z. B. im Maschinenraum, Ladepumpen oder Werkzeuge) Gehörschutz Inhalte: Arten von Gehörschutz; richtiges Anlegen
 
-2.
+V. Umgang mit Gefahrstoffen an Bord eines Fahrzeugs Zeitrahmen: ca. 3,5 Stunden 1.Arten von Gefahrstoffen an Bord eines Fahrzeugs und bei der BordarbeitInhalte: Überblick über die Gefahrstoffe an Bord: Arbeiten mit, Lagern und Entsorgung von Farben/Lacken, Reinigungsmittel, Gefahrgut (als Ladegut)2.Gesundheitsgefahren beim Umgang mit GefahrstoffenInhalte: Wirkungen der Gefahrstoffe an Bord auf den menschlichen Körper3.Schutz gegen diese GefahrenInhalte: Darstellung der möglichen Maßnahmen: Be- und Entlüftung, geeigneter Atemschutz, geeigneter Hautschutz, wie z. B. Schutzanzüge und HandschuheArt der Vermittlung: praktische Verwendung der persönlichen Schutzausrüstung Arten von Gefahrstoffen an Bord eines Fahrzeugs und bei der Bordarbeit Inhalte: Überblick über die Gefahrstoffe an Bord: Arbeiten mit, Lagern und Entsorgung von Farben/Lacken, Reinigungsmittel, Gefahrgut (als Ladegut) Gesundheitsgefahren beim Umgang mit Gefahrstoffen Inhalte: Wirkungen der Gefahrstoffe an Bord auf den menschlichen Körper Schutz gegen diese Gefahren Inhalte: Darstellung der möglichen Maßnahmen: Be- und Entlüftung, geeigneter Atemschutz, geeigneter Hautschutz, wie z. B. Schutzanzüge und Handschuhe Art der Vermittlung: praktische Verwendung der persönlichen Schutzausrüstung
 
-3.
-
-1.
-
-2.
-
-1.
-
-2.
-
-3.
-
-1.
-
-2.
-
-3.
-
-Zu II.2: Standardredewendungen
+VI. Grundlegende Maßnahmen der Ersten Hilfe Zeitrahmen: mindestens 3 Stunden Inhalte: Lebenserhaltende Maßnahmen; Wundversorgung; Maßnahmen bei Akuterkrankungen (z. B. Herzinfarkt, Schlaganfall, Schock) Art der Vermittlung: praktische Übungen (wie z. B. Herz-Lungen-Wiederbelebung oder Anlegen eines Verbandes)
 
 Die Decksleute müssen in der Lage sein, die folgenden Sätze in englischer Sprache zu verwenden:
 
-1.
+1. There is a dangerous situation.
 
-2.
+2. The ship is on fire.
 
-3.
+3. The ship is aground.
 
-4.
+4. The ship has collided.
 
-5.
+5. The ship is flooding.
 
-6.
+6. Someone has fallen overboard.
 
-7.
+7. I need assistance.
 
-8.
+8. There is a medical emergency.
 
 ### Anlage 8 — (zu § 35 Absatz 1)
 
-1.1
+1. Navigation1.1Der Matrose muss in der Lage sein, die Führung des Fahrzeugs beim Manövrieren und Steuern des Fahrzeugs auf allen Arten von Binnenwasserstraßen und in allen Arten von Häfen zu unterstützen.Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Unterstützung beim Festmachen, Ablegen und Verholen (Schleppen) zu leisten;1.Kenntnis der an Bord eingesetzten Ausrüstung, Materialien und Verfahren für das Festmachen, Ablegen und Verholen (Schleppen).2.Fähigkeit, die erforderliche Ausrüstung an Bord, z. B. Poller und Winden, für Festmach-, Ablege- und Verholmanöver zu nutzen.3.Fähigkeit, die an Bord verfügbaren Materialien wie Seile und Drähte unter Berücksichtigung der relevanten Sicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen.4.Fähigkeit, mit dem Steuerhaus unter Verwendung von internen Wechselsprechanlagen sowie Handzeichen zu kommunizieren.5.Kenntnis der Auswirkungen der Wasserbewegungen um das Fahrzeug und lokaler Effekte auf die Fahrbedingungen, einschließlich der Auswirkungen von Trimmung und flachem Wasser im Zusammenhang mit dem Tiefgang des Fahrzeugs.6.Kenntnis der beim Manövrieren auf das Fahrzeug einwirkenden Wasserbewegungen, einschließlich der Wechselwirkungen zwischen zwei Fahrzeugen beim Vorbeifahren oder Überholen in engem Fahrwasser sowie der Wechselwirkungen zwischen einem längsseits festgemachten Fahrzeug und einem anderen in geringem Abstand im Fahrwasser vorbeifahrenden Fahrzeug.2.Unterstützung beim Kuppeln von Schubverbänden zu leisten;1.Kenntnis der für das Kuppeln eingesetzten Ausrüstung, Materialien und Verfahren.2.Fähigkeit, Schubverbände unter Einsatz der erforderlichen Ausrüstung und Materialien zu kuppeln und zu entkuppeln.3.Kenntnis der sicherheitsbezogenen Arbeitsvorschriften, einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung.4.Fähigkeit, sicherheitsbezogene Arbeitsvorschriften anzuwenden und mit den beteiligten Besatzungsmitgliedern zu kommunizieren.3.Unterstützung beim Ankern zu leisten;1.Kenntnis der beim Ankern unter verschiedenen Umständen eingesetzten Ausrüstung, Materialien und Verfahren.2.Fähigkeit, bei Ankermanövern Unterstützung zu leisten, z. B. die Ankerausrüstung für das Ankern vorzubereiten, den Anker fallen zu lassen, ausreichend Trosse oder Kette zu geben, um zunächst zu fieren, zu bestimmen, wann der Anker das Fahrzeug in seiner Position hält (Ankerpeilung), die Anker nach Abschluss des Ankervorgangs zu sichern, in verschiedenen Manövern Treibanker zu benutzen und mit den Ankerzeichen umzugehen.3.Kenntnis der sicherheitsbezogenen Arbeitsvorschriften, einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung.4.das Fahrzeug unter korrektem Einsatz der Ruderanlage nach Ruderkommandos zu steuern;1.Kenntnis der Funktionen und Arten verschiedener Antriebs- und Steuerungssysteme.2.Fähigkeit, das Fahrzeug unter Aufsicht und Einhaltung der Ruderkommandos zu steuern.5.das Fahrzeug unter Berücksichtigung des Wind- und Strömungseinflusses nach Ruderkommandos zu steuern;1.Kenntnis des Einflusses von Wind und Strömung auf das Führen und Manövrieren des Fahrzeugs.2.Fähigkeit, das Fahrzeug unter Aufsicht und unter Berücksichtigung des Windeinflusses auf das Fahren und Manövrieren auf Wasserstraßen mit oder ohne Strömung bei verschiedenen Windverhältnissen zu steuern.6.Navigationshilfen und -instrumente unter Aufsicht zu nutzen;1.Kenntnis der Navigationshilfen und -instrumente wie Ruderlageanzeiger, Radar, Wendegeschwindigkeitsanzeiger, Fahrgeschwindigkeitsanzeiger.2.Fähigkeit, die von Navigationshilfen wie Leuchtfeuer- und Betonnungssystemen und -karten ausgehenden Informationen zu nutzen.3.Fähigkeit, Navigationsinstrumente wie Kompass, Wendegeschwindigkeitsanzeiger und Fahrgeschwindigkeitsanzeiger zu nutzen.7.die notwendigen Maßnahmen für die Sicherheit des Schiffsverkehrs zu ergreifen;1.Kenntnis der in Gefahr- und Notsituationen zu befolgenden Sicherheitsvorschriften und Prüflisten.2.Fähigkeit, unsichere Situationen zu erkennen und Gegenmaßnahmen gemäß den Sicherheitsvorschriften zu ergreifen.3.Fähigkeit, die Führung des Fahrzeugs umgehend zu warnen.4.Fähigkeit, persönliche Schutz- und Rettungsausrüstung zu benutzen.5.Kenntnis der vom Vorgesetzten beauftragten Überprüfung der Verfügbarkeit, Brauchbarkeit, Wasserdichtigkeit und Sicherung des Fahrzeugs und seiner Ausrüstung.6.Fähigkeit, Arbeiten gemäß der Prüfliste an Deck und in den Aufenthaltsräumen durchzuführen, wie Abdichten und Sichern von Luken und Laderäumen.7.Fähigkeit, Arbeiten gemäß der Prüfliste im Maschinenraum durchzuführen; lose Gegenstände zu verstauen und zu sichern, die Tagesdiensttanks zu befüllen und die Lüftungsöffnungen zu überprüfen.8.die Merkmale der wichtigsten europäischen Binnenwasserstraßen, Häfen und Terminals zur Vorbereitung der Fahrt und zur Steuerung des Fahrzeugs zu beschreiben;1.Kenntnis der wichtigsten nationalen und internationalen Binnenwasserstraßen.2.Kenntnis der wichtigsten Häfen und Terminals des europäischen Binnenwasserstraßennetzes.3.Kenntnis des Einflusses von Wasserbauwerken, Wasserstraßenprofilen und Schutzbauten auf die Navigation.4.Kenntnis der Klassifizierungsmerkmale von Flüssen, Kanälen und Binnenwasserstraßen mit maritimem Charakter: Sohlenbreite, Uferart, Uferschutz, Wasserstand, Wasserbewegung, Brückendurchfahrtshöhe und -breite und Tiefe.5.Kenntnis der für die Fahrt auf Binnenwasserstraßen mit maritimem Charakter erforderlichen Navigationshilfen und -instrumente.6.Fähigkeit, die Merkmale der verschiedenen Arten von Binnenwasserstraßen zur Vorbereitung der Fahrt und zur Steuerung des Fahrzeugs zu erläutern.9.die allgemeinen Bestimmungen, Signale, Zeichen und Kennzeichnungssysteme zu beachten;1.Kenntnis der geltenden vereinbarten Regeln im Bereich der Binnenschifffahrt und der für die jeweilige Binnenwasserstraße geltenden Polizeivorschriften.2.Fähigkeit, das Tag- und Nachtkennzeichnungssystem, die Zeichen und die Schallzeichen des Fahrzeugs zu bedienen und zu warten.3.Kenntnis des Kennzeichnungssystems SIGNI (Signalisation de voies de Navigation Intérieure) und IALA (International Association of Marine Aids to Navigation and Lighthouse Authorities) Teil A.10.die Verfahren beim Durchfahren von Schleusen und Brücken zu beachten;1.Kenntnis der Form, Anordnung und Einrichtung von Schleusen und Brücken, Schleusung, Arten von Schleusen, Pollern und Stufen usw.2.Fähigkeit, die Verfahren beim Heranfahren, Einfahren, Schleusen und Ausfahren aus der Schleuse oder Brücke anzuwenden.11.Verkehrsleitsysteme zu nutzen.1.Kenntnis der verschiedenen im Einsatz befindlichen Verkehrsleitsysteme wie Tag- und Nachtzeichen an Schleusen, Wehren und Brücken.2.Fähigkeit, die Tag- und Nachtzeichen an Schleusen, Wehren und Brücken zu erkennen und Anweisungen der zuständigen Stellen, wie Brücken- und Schleusenwärtern und Betreibern von Verkehrsleitsystemen, zu befolgen.3.Fähigkeit, in Notsituationen Funkgeräte zu benutzen.4.Kenntnis des Automatischen Identifikationssystems Inland AIS (Automatic Identification System) und des Elektronischen Kartendarstellungs- und Informationssystems Inland ECDIS (Electronic Chart and Display Information System). Der Matrose muss in der Lage sein, die Führung des Fahrzeugs beim Manövrieren und Steuern des Fahrzeugs auf allen Arten von Binnenwasserstraßen und in allen Arten von Häfen zu unterstützen. Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Unterstützung beim Festmachen, Ablegen und Verholen (Schleppen) zu leisten;1.Kenntnis der an Bord eingesetzten Ausrüstung, Materialien und Verfahren für das Festmachen, Ablegen und Verholen (Schleppen).2.Fähigkeit, die erforderliche Ausrüstung an Bord, z. B. Poller und Winden, für Festmach-, Ablege- und Verholmanöver zu nutzen.3.Fähigkeit, die an Bord verfügbaren Materialien wie Seile und Drähte unter Berücksichtigung der relevanten Sicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen.4.Fähigkeit, mit dem Steuerhaus unter Verwendung von internen Wechselsprechanlagen sowie Handzeichen zu kommunizieren.5.Kenntnis der Auswirkungen der Wasserbewegungen um das Fahrzeug und lokaler Effekte auf die Fahrbedingungen, einschließlich der Auswirkungen von Trimmung und flachem Wasser im Zusammenhang mit dem Tiefgang des Fahrzeugs.6.Kenntnis der beim Manövrieren auf das Fahrzeug einwirkenden Wasserbewegungen, einschließlich der Wechselwirkungen zwischen zwei Fahrzeugen beim Vorbeifahren oder Überholen in engem Fahrwasser sowie der Wechselwirkungen zwischen einem längsseits festgemachten Fahrzeug und einem anderen in geringem Abstand im Fahrwasser vorbeifahrenden Fahrzeug.2.Unterstützung beim Kuppeln von Schubverbänden zu leisten;1.Kenntnis der für das Kuppeln eingesetzten Ausrüstung, Materialien und Verfahren.2.Fähigkeit, Schubverbände unter Einsatz der erforderlichen Ausrüstung und Materialien zu kuppeln und zu entkuppeln.3.Kenntnis der sicherheitsbezogenen Arbeitsvorschriften, einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung.4.Fähigkeit, sicherheitsbezogene Arbeitsvorschriften anzuwenden und mit den beteiligten Besatzungsmitgliedern zu kommunizieren.3.Unterstützung beim Ankern zu leisten;1.Kenntnis der beim Ankern unter verschiedenen Umständen eingesetzten Ausrüstung, Materialien und Verfahren.2.Fähigkeit, bei Ankermanövern Unterstützung zu leisten, z. B. die Ankerausrüstung für das Ankern vorzubereiten, den Anker fallen zu lassen, ausreichend Trosse oder Kette zu geben, um zunächst zu fieren, zu bestimmen, wann der Anker das Fahrzeug in seiner Position hält (Ankerpeilung), die Anker nach Abschluss des Ankervorgangs zu sichern, in verschiedenen Manövern Treibanker zu benutzen und mit den Ankerzeichen umzugehen.3.Kenntnis der sicherheitsbezogenen Arbeitsvorschriften, einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung.4.das Fahrzeug unter korrektem Einsatz der Ruderanlage nach Ruderkommandos zu steuern;1.Kenntnis der Funktionen und Arten verschiedener Antriebs- und Steuerungssysteme.2.Fähigkeit, das Fahrzeug unter Aufsicht und Einhaltung der Ruderkommandos zu steuern.5.das Fahrzeug unter Berücksichtigung des Wind- und Strömungseinflusses nach Ruderkommandos zu steuern;1.Kenntnis des Einflusses von Wind und Strömung auf das Führen und Manövrieren des Fahrzeugs.2.Fähigkeit, das Fahrzeug unter Aufsicht und unter Berücksichtigung des Windeinflusses auf das Fahren und Manövrieren auf Wasserstraßen mit oder ohne Strömung bei verschiedenen Windverhältnissen zu steuern.6.Navigationshilfen und -instrumente unter Aufsicht zu nutzen;1.Kenntnis der Navigationshilfen und -instrumente wie Ruderlageanzeiger, Radar, Wendegeschwindigkeitsanzeiger, Fahrgeschwindigkeitsanzeiger.2.Fähigkeit, die von Navigationshilfen wie Leuchtfeuer- und Betonnungssystemen und -karten ausgehenden Informationen zu nutzen.3.Fähigkeit, Navigationsinstrumente wie Kompass, Wendegeschwindigkeitsanzeiger und Fahrgeschwindigkeitsanzeiger zu nutzen.7.die notwendigen Maßnahmen für die Sicherheit des Schiffsverkehrs zu ergreifen;1.Kenntnis der in Gefahr- und Notsituationen zu befolgenden Sicherheitsvorschriften und Prüflisten.2.Fähigkeit, unsichere Situationen zu erkennen und Gegenmaßnahmen gemäß den Sicherheitsvorschriften zu ergreifen.3.Fähigkeit, die Führung des Fahrzeugs umgehend zu warnen.4.Fähigkeit, persönliche Schutz- und Rettungsausrüstung zu benutzen.5.Kenntnis der vom Vorgesetzten beauftragten Überprüfung der Verfügbarkeit, Brauchbarkeit, Wasserdichtigkeit und Sicherung des Fahrzeugs und seiner Ausrüstung.6.Fähigkeit, Arbeiten gemäß der Prüfliste an Deck und in den Aufenthaltsräumen durchzuführen, wie Abdichten und Sichern von Luken und Laderäumen.7.Fähigkeit, Arbeiten gemäß der Prüfliste im Maschinenraum durchzuführen; lose Gegenstände zu verstauen und zu sichern, die Tagesdiensttanks zu befüllen und die Lüftungsöffnungen zu überprüfen.8.die Merkmale der wichtigsten europäischen Binnenwasserstraßen, Häfen und Terminals zur Vorbereitung der Fahrt und zur Steuerung des Fahrzeugs zu beschreiben;1.Kenntnis der wichtigsten nationalen und internationalen Binnenwasserstraßen.2.Kenntnis der wichtigsten Häfen und Terminals des europäischen Binnenwasserstraßennetzes.3.Kenntnis des Einflusses von Wasserbauwerken, Wasserstraßenprofilen und Schutzbauten auf die Navigation.4.Kenntnis der Klassifizierungsmerkmale von Flüssen, Kanälen und Binnenwasserstraßen mit maritimem Charakter: Sohlenbreite, Uferart, Uferschutz, Wasserstand, Wasserbewegung, Brückendurchfahrtshöhe und -breite und Tiefe.5.Kenntnis der für die Fahrt auf Binnenwasserstraßen mit maritimem Charakter erforderlichen Navigationshilfen und -instrumente.6.Fähigkeit, die Merkmale der verschiedenen Arten von Binnenwasserstraßen zur Vorbereitung der Fahrt und zur Steuerung des Fahrzeugs zu erläutern.9.die allgemeinen Bestimmungen, Signale, Zeichen und Kennzeichnungssysteme zu beachten;1.Kenntnis der geltenden vereinbarten Regeln im Bereich der Binnenschifffahrt und der für die jeweilige Binnenwasserstraße geltenden Polizeivorschriften.2.Fähigkeit, das Tag- und Nachtkennzeichnungssystem, die Zeichen und die Schallzeichen des Fahrzeugs zu bedienen und zu warten.3.Kenntnis des Kennzeichnungssystems SIGNI (Signalisation de voies de Navigation Intérieure) und IALA (International Association of Marine Aids to Navigation and Lighthouse Authorities) Teil A.10.die Verfahren beim Durchfahren von Schleusen und Brücken zu beachten;1.Kenntnis der Form, Anordnung und Einrichtung von Schleusen und Brücken, Schleusung, Arten von Schleusen, Pollern und Stufen usw.2.Fähigkeit, die Verfahren beim Heranfahren, Einfahren, Schleusen und Ausfahren aus der Schleuse oder Brücke anzuwenden.11.Verkehrsleitsysteme zu nutzen.1.Kenntnis der verschiedenen im Einsatz befindlichen Verkehrsleitsysteme wie Tag- und Nachtzeichen an Schleusen, Wehren und Brücken.2.Fähigkeit, die Tag- und Nachtzeichen an Schleusen, Wehren und Brücken zu erkennen und Anweisungen der zuständigen Stellen, wie Brücken- und Schleusenwärtern und Betreibern von Verkehrsleitsystemen, zu befolgen.3.Fähigkeit, in Notsituationen Funkgeräte zu benutzen.4.Kenntnis des Automatischen Identifikationssystems Inland AIS (Automatic Identification System) und des Elektronischen Kartendarstellungs- und Informationssystems Inland ECDIS (Electronic Chart and Display Information System). Unterstützung beim Festmachen, Ablegen und Verholen (Schleppen) zu leisten; Kenntnis der an Bord eingesetzten Ausrüstung, Materialien und Verfahren für das Festmachen, Ablegen und Verholen (Schleppen). Fähigkeit, die erforderliche Ausrüstung an Bord, z. B. Poller und Winden, für Festmach-, Ablege- und Verholmanöver zu nutzen. Fähigkeit, die an Bord verfügbaren Materialien wie Seile und Drähte unter Berücksichtigung der relevanten Sicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen. Fähigkeit, mit dem Steuerhaus unter Verwendung von internen Wechselsprechanlagen sowie Handzeichen zu kommunizieren. Kenntnis der Auswirkungen der Wasserbewegungen um das Fahrzeug und lokaler Effekte auf die Fahrbedingungen, einschließlich der Auswirkungen von Trimmung und flachem Wasser im Zusammenhang mit dem Tiefgang des Fahrzeugs. Kenntnis der beim Manövrieren auf das Fahrzeug einwirkenden Wasserbewegungen, einschließlich der Wechselwirkungen zwischen zwei Fahrzeugen beim Vorbeifahren oder Überholen in engem Fahrwasser sowie der Wechselwirkungen zwischen einem längsseits festgemachten Fahrzeug und einem anderen in geringem Abstand im Fahrwasser vorbeifahrenden Fahrzeug. Unterstützung beim Kuppeln von Schubverbänden zu leisten; Kenntnis der für das Kuppeln eingesetzten Ausrüstung, Materialien und Verfahren. Fähigkeit, Schubverbände unter Einsatz der erforderlichen Ausrüstung und Materialien zu kuppeln und zu entkuppeln. Kenntnis der sicherheitsbezogenen Arbeitsvorschriften, einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung. Fähigkeit, sicherheitsbezogene Arbeitsvorschriften anzuwenden und mit den beteiligten Besatzungsmitgliedern zu kommunizieren. Unterstützung beim Ankern zu leisten; Kenntnis der beim Ankern unter verschiedenen Umständen eingesetzten Ausrüstung, Materialien und Verfahren. Fähigkeit, bei Ankermanövern Unterstützung zu leisten, z. B. die Ankerausrüstung für das Ankern vorzubereiten, den Anker fallen zu lassen, ausreichend Trosse oder Kette zu geben, um zunächst zu fieren, zu bestimmen, wann der Anker das Fahrzeug in seiner Position hält (Ankerpeilung), die Anker nach Abschluss des Ankervorgangs zu sichern, in verschiedenen Manövern Treibanker zu benutzen und mit den Ankerzeichen umzugehen. Kenntnis der sicherheitsbezogenen Arbeitsvorschriften, einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung. das Fahrzeug unter korrektem Einsatz der Ruderanlage nach Ruderkommandos zu steuern; Kenntnis der Funktionen und Arten verschiedener Antriebs- und Steuerungssysteme. Fähigkeit, das Fahrzeug unter Aufsicht und Einhaltung der Ruderkommandos zu steuern. das Fahrzeug unter Berücksichtigung des Wind- und Strömungseinflusses nach Ruderkommandos zu steuern; Kenntnis des Einflusses von Wind und Strömung auf das Führen und Manövrieren des Fahrzeugs. Fähigkeit, das Fahrzeug unter Aufsicht und unter Berücksichtigung des Windeinflusses auf das Fahren und Manövrieren auf Wasserstraßen mit oder ohne Strömung bei verschiedenen Windverhältnissen zu steuern. Navigationshilfen und -instrumente unter Aufsicht zu nutzen; Kenntnis der Navigationshilfen und -instrumente wie Ruderlageanzeiger, Radar, Wendegeschwindigkeitsanzeiger, Fahrgeschwindigkeitsanzeiger. Fähigkeit, die von Navigationshilfen wie Leuchtfeuer- und Betonnungssystemen und -karten ausgehenden Informationen zu nutzen. Fähigkeit, Navigationsinstrumente wie Kompass, Wendegeschwindigkeitsanzeiger und Fahrgeschwindigkeitsanzeiger zu nutzen. die notwendigen Maßnahmen für die Sicherheit des Schiffsverkehrs zu ergreifen; Kenntnis der in Gefahr- und Notsituationen zu befolgenden Sicherheitsvorschriften und Prüflisten. Fähigkeit, unsichere Situationen zu erkennen und Gegenmaßnahmen gemäß den Sicherheitsvorschriften zu ergreifen. Fähigkeit, die Führung des Fahrzeugs umgehend zu warnen. Fähigkeit, persönliche Schutz- und Rettungsausrüstung zu benutzen. Kenntnis der vom Vorgesetzten beauftragten Überprüfung der Verfügbarkeit, Brauchbarkeit, Wasserdichtigkeit und Sicherung des Fahrzeugs und seiner Ausrüstung. Fähigkeit, Arbeiten gemäß der Prüfliste an Deck und in den Aufenthaltsräumen durchzuführen, wie Abdichten und Sichern von Luken und Laderäumen. Fähigkeit, Arbeiten gemäß der Prüfliste im Maschinenraum durchzuführen; lose Gegenstände zu verstauen und zu sichern, die Tagesdiensttanks zu befüllen und die Lüftungsöffnungen zu überprüfen. die Merkmale der wichtigsten europäischen Binnenwasserstraßen, Häfen und Terminals zur Vorbereitung der Fahrt und zur Steuerung des Fahrzeugs zu beschreiben; Kenntnis der wichtigsten nationalen und internationalen Binnenwasserstraßen. Kenntnis der wichtigsten Häfen und Terminals des europäischen Binnenwasserstraßennetzes. Kenntnis des Einflusses von Wasserbauwerken, Wasserstraßenprofilen und Schutzbauten auf die Navigation. Kenntnis der Klassifizierungsmerkmale von Flüssen, Kanälen und Binnenwasserstraßen mit maritimem Charakter: Sohlenbreite, Uferart, Uferschutz, Wasserstand, Wasserbewegung, Brückendurchfahrtshöhe und -breite und Tiefe. Kenntnis der für die Fahrt auf Binnenwasserstraßen mit maritimem Charakter erforderlichen Navigationshilfen und -instrumente. Fähigkeit, die Merkmale der verschiedenen Arten von Binnenwasserstraßen zur Vorbereitung der Fahrt und zur Steuerung des Fahrzeugs zu erläutern. die allgemeinen Bestimmungen, Signale, Zeichen und Kennzeichnungssysteme zu beachten; Kenntnis der geltenden vereinbarten Regeln im Bereich der Binnenschifffahrt und der für die jeweilige Binnenwasserstraße geltenden Polizeivorschriften. Fähigkeit, das Tag- und Nachtkennzeichnungssystem, die Zeichen und die Schallzeichen des Fahrzeugs zu bedienen und zu warten. Kenntnis des Kennzeichnungssystems SIGNI (Signalisation de voies de Navigation Intérieure) und IALA (International Association of Marine Aids to Navigation and Lighthouse Authorities) Teil A. die Verfahren beim Durchfahren von Schleusen und Brücken zu beachten; Kenntnis der Form, Anordnung und Einrichtung von Schleusen und Brücken, Schleusung, Arten von Schleusen, Pollern und Stufen usw. Fähigkeit, die Verfahren beim Heranfahren, Einfahren, Schleusen und Ausfahren aus der Schleuse oder Brücke anzuwenden. Verkehrsleitsysteme zu nutzen. Kenntnis der verschiedenen im Einsatz befindlichen Verkehrsleitsysteme wie Tag- und Nachtzeichen an Schleusen, Wehren und Brücken. Fähigkeit, die Tag- und Nachtzeichen an Schleusen, Wehren und Brücken zu erkennen und Anweisungen der zuständigen Stellen, wie Brücken- und Schleusenwärtern und Betreibern von Verkehrsleitsystemen, zu befolgen. Fähigkeit, in Notsituationen Funkgeräte zu benutzen. Kenntnis des Automatischen Identifikationssystems Inland AIS (Automatic Identification System) und des Elektronischen Kartendarstellungs- und Informationssystems Inland ECDIS (Electronic Chart and Display Information System).
 
-1.
+2. Betrieb des Fahrzeugs2.1Der Matrose muss in der Lage sein, die Führung des Fahrzeugs bei der Überwachung des Fahrzeugbetriebs und der Fürsorge für die an Bord befindlichen Personen zu unterstützen.Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.verschiedene Arten von Fahrzeugen zu unterscheiden;1.Kenntnis der häufigsten Arten der in der europäischen Binnenschifffahrt eingesetzten Fahrzeuge, einschließlich Verbände, und ihrer jeweiligen Konstruktion, Abmessungen und Tragfähigkeit.2.Fähigkeit, die Merkmale der häufigsten Arten der in der europäischen Binnenschifffahrt verkehrenden Fahrzeuge, einschließlich Verbände, zu erläutern.2.die Kenntnis der Konstruktion von Fahrzeugen auf Binnenwasserstraßen und ihres Verhaltens im Wasser, insbesondere im Hinblick auf Stabilität und Festigkeit, anzuwenden;1.Kenntnis der Auswirkungen der Fahrzeugbewegungen unter verschiedenen Umständen, die durch Längs- und Querspannungen verursacht werden, und verschiedener Ladebedingungen.2.Fähigkeit, das Verhalten des Fahrzeugs bei verschiedenen Beladungsbedingungen im Hinblick auf die Fahrzeugstabilität und -festigkeit zu erläutern.3.die Kenntnisse über Bauteile des Fahrzeugs anzuwenden und die Bezeichnung und Funktion der Teile zu nennen;1.Kenntnis der Bauteile des Fahrzeugs im Hinblick auf die Beförderung verschiedener Arten von Ladung und Fahrgästen, einschließlich der Längs- und Querstruktur und örtlicher Verstärkungen.2.Fähigkeit, die Bauteile des Fahrzeugs zu benennen und ihre Funktionen zu beschreiben.4.die Kenntnisse über die Wasserdichtigkeit des Fahrzeugs anzuwenden;1.Kenntnisse über die Wasserdichtigkeit des Fahrzeugs auf Binnenwasserstraßen.2.Fähigkeit zur Überprüfung der Wasserdichtigkeit.5.die Kenntnisse über die für den Fahrzeugbetrieb erforderlichen Dokumente anzuwenden.1.Kenntnis der vorgeschriebenen Fahrzeugdokumente.2.Fähigkeit, deren Bedeutung im Zusammenhang mit (inter)nationalen Anforderungen und Rechtsvorschriften zu erläutern.2.2Der Matrose muss in der Lage sein, die Ausrüstung des Fahrzeugs zu verwenden.Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Anker zu verwenden und Ankerwinden zu bedienen;1.Kenntnis der verschiedenen an Bord von Fahrzeugen eingesetzten Anker und Ankerwinden.2.Fähigkeit, die verschiedenen an Bord von Fahrzeugen eingesetzten Anker und Ankerwinden zu erkennen und zu benennen und ihren speziellen Einsatz zu erläutern.3.Fähigkeit, die verschiedenen Anker und Ankerwinden in verschiedenen Situationen und Bedingungen sicher einzusetzen.2.Deckausrüstung und Hebegeräte zu nutzen;1.Kenntnis der auf Deck eines Fahrzeugs verwendeten Ausrüstung wie (Kupplungs-) Winden, Luken, Hebegeräte, Autokrane, Leitungssysteme, Feuerlöschschläuche usw.2.Fähigkeit, die Deckausrüstung und Hebegeräte zu erkennen und zu benennen und ihren speziellen Einsatz zu erläutern.3.Fähigkeit, die Deckausrüstung und Hebegeräte sicher einzusetzen.3.spezielle Ausrüstung für Fahrgastschiffe zu nutzen.1.Kenntnis der speziellen Konstruktionsanforderungen, Ausrüstung und Geräte für Fahrgastschiffe.2.Fähigkeit, die ausschließlich an Bord von Fahrgastschiffen verwendete Ausrüstung zu erkennen und zu benennen und ihren speziellen Einsatz zu erläutern.3.Fähigkeit, die an Bord von Fahrgastschiffen verwendete Ausrüstung sicher einzusetzen. Der Matrose muss in der Lage sein, die Führung des Fahrzeugs bei der Überwachung des Fahrzeugbetriebs und der Fürsorge für die an Bord befindlichen Personen zu unterstützen. Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.verschiedene Arten von Fahrzeugen zu unterscheiden;1.Kenntnis der häufigsten Arten der in der europäischen Binnenschifffahrt eingesetzten Fahrzeuge, einschließlich Verbände, und ihrer jeweiligen Konstruktion, Abmessungen und Tragfähigkeit.2.Fähigkeit, die Merkmale der häufigsten Arten der in der europäischen Binnenschifffahrt verkehrenden Fahrzeuge, einschließlich Verbände, zu erläutern.2.die Kenntnis der Konstruktion von Fahrzeugen auf Binnenwasserstraßen und ihres Verhaltens im Wasser, insbesondere im Hinblick auf Stabilität und Festigkeit, anzuwenden;1.Kenntnis der Auswirkungen der Fahrzeugbewegungen unter verschiedenen Umständen, die durch Längs- und Querspannungen verursacht werden, und verschiedener Ladebedingungen.2.Fähigkeit, das Verhalten des Fahrzeugs bei verschiedenen Beladungsbedingungen im Hinblick auf die Fahrzeugstabilität und -festigkeit zu erläutern.3.die Kenntnisse über Bauteile des Fahrzeugs anzuwenden und die Bezeichnung und Funktion der Teile zu nennen;1.Kenntnis der Bauteile des Fahrzeugs im Hinblick auf die Beförderung verschiedener Arten von Ladung und Fahrgästen, einschließlich der Längs- und Querstruktur und örtlicher Verstärkungen.2.Fähigkeit, die Bauteile des Fahrzeugs zu benennen und ihre Funktionen zu beschreiben.4.die Kenntnisse über die Wasserdichtigkeit des Fahrzeugs anzuwenden;1.Kenntnisse über die Wasserdichtigkeit des Fahrzeugs auf Binnenwasserstraßen.2.Fähigkeit zur Überprüfung der Wasserdichtigkeit.5.die Kenntnisse über die für den Fahrzeugbetrieb erforderlichen Dokumente anzuwenden.1.Kenntnis der vorgeschriebenen Fahrzeugdokumente.2.Fähigkeit, deren Bedeutung im Zusammenhang mit (inter)nationalen Anforderungen und Rechtsvorschriften zu erläutern. verschiedene Arten von Fahrzeugen zu unterscheiden; Kenntnis der häufigsten Arten der in der europäischen Binnenschifffahrt eingesetzten Fahrzeuge, einschließlich Verbände, und ihrer jeweiligen Konstruktion, Abmessungen und Tragfähigkeit. Fähigkeit, die Merkmale der häufigsten Arten der in der europäischen Binnenschifffahrt verkehrenden Fahrzeuge, einschließlich Verbände, zu erläutern. die Kenntnis der Konstruktion von Fahrzeugen auf Binnenwasserstraßen und ihres Verhaltens im Wasser, insbesondere im Hinblick auf Stabilität und Festigkeit, anzuwenden; Kenntnis der Auswirkungen der Fahrzeugbewegungen unter verschiedenen Umständen, die durch Längs- und Querspannungen verursacht werden, und verschiedener Ladebedingungen. Fähigkeit, das Verhalten des Fahrzeugs bei verschiedenen Beladungsbedingungen im Hinblick auf die Fahrzeugstabilität und -festigkeit zu erläutern. die Kenntnisse über Bauteile des Fahrzeugs anzuwenden und die Bezeichnung und Funktion der Teile zu nennen; Kenntnis der Bauteile des Fahrzeugs im Hinblick auf die Beförderung verschiedener Arten von Ladung und Fahrgästen, einschließlich der Längs- und Querstruktur und örtlicher Verstärkungen. Fähigkeit, die Bauteile des Fahrzeugs zu benennen und ihre Funktionen zu beschreiben. die Kenntnisse über die Wasserdichtigkeit des Fahrzeugs anzuwenden; Kenntnisse über die Wasserdichtigkeit des Fahrzeugs auf Binnenwasserstraßen. Fähigkeit zur Überprüfung der Wasserdichtigkeit. die Kenntnisse über die für den Fahrzeugbetrieb erforderlichen Dokumente anzuwenden. Kenntnis der vorgeschriebenen Fahrzeugdokumente. Fähigkeit, deren Bedeutung im Zusammenhang mit (inter)nationalen Anforderungen und Rechtsvorschriften zu erläutern. Der Matrose muss in der Lage sein, die Ausrüstung des Fahrzeugs zu verwenden. Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Anker zu verwenden und Ankerwinden zu bedienen;1.Kenntnis der verschiedenen an Bord von Fahrzeugen eingesetzten Anker und Ankerwinden.2.Fähigkeit, die verschiedenen an Bord von Fahrzeugen eingesetzten Anker und Ankerwinden zu erkennen und zu benennen und ihren speziellen Einsatz zu erläutern.3.Fähigkeit, die verschiedenen Anker und Ankerwinden in verschiedenen Situationen und Bedingungen sicher einzusetzen.2.Deckausrüstung und Hebegeräte zu nutzen;1.Kenntnis der auf Deck eines Fahrzeugs verwendeten Ausrüstung wie (Kupplungs-) Winden, Luken, Hebegeräte, Autokrane, Leitungssysteme, Feuerlöschschläuche usw.2.Fähigkeit, die Deckausrüstung und Hebegeräte zu erkennen und zu benennen und ihren speziellen Einsatz zu erläutern.3.Fähigkeit, die Deckausrüstung und Hebegeräte sicher einzusetzen.3.spezielle Ausrüstung für Fahrgastschiffe zu nutzen.1.Kenntnis der speziellen Konstruktionsanforderungen, Ausrüstung und Geräte für Fahrgastschiffe.2.Fähigkeit, die ausschließlich an Bord von Fahrgastschiffen verwendete Ausrüstung zu erkennen und zu benennen und ihren speziellen Einsatz zu erläutern.3.Fähigkeit, die an Bord von Fahrgastschiffen verwendete Ausrüstung sicher einzusetzen. Anker zu verwenden und Ankerwinden zu bedienen; Kenntnis der verschiedenen an Bord von Fahrzeugen eingesetzten Anker und Ankerwinden. Fähigkeit, die verschiedenen an Bord von Fahrzeugen eingesetzten Anker und Ankerwinden zu erkennen und zu benennen und ihren speziellen Einsatz zu erläutern. Fähigkeit, die verschiedenen Anker und Ankerwinden in verschiedenen Situationen und Bedingungen sicher einzusetzen. Deckausrüstung und Hebegeräte zu nutzen; Kenntnis der auf Deck eines Fahrzeugs verwendeten Ausrüstung wie (Kupplungs-) Winden, Luken, Hebegeräte, Autokrane, Leitungssysteme, Feuerlöschschläuche usw. Fähigkeit, die Deckausrüstung und Hebegeräte zu erkennen und zu benennen und ihren speziellen Einsatz zu erläutern. Fähigkeit, die Deckausrüstung und Hebegeräte sicher einzusetzen. spezielle Ausrüstung für Fahrgastschiffe zu nutzen. Kenntnis der speziellen Konstruktionsanforderungen, Ausrüstung und Geräte für Fahrgastschiffe. Fähigkeit, die ausschließlich an Bord von Fahrgastschiffen verwendete Ausrüstung zu erkennen und zu benennen und ihren speziellen Einsatz zu erläutern. Fähigkeit, die an Bord von Fahrgastschiffen verwendete Ausrüstung sicher einzusetzen.
 
-1.
+3. Ladungsumschlag, Ladungsstauung und Fahrgastbeförderung3.1Der Matrose muss in der Lage sein, die Führung des Fahrzeugs bei der Vorbereitung, Stauung und Überwachung der Ladung während des Be- und Entladens zu unterstützen.Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Stau- und Stabilitätspläne zu lesen;1.Kenntnis der Auswirkungen von Ladungsarten auf Stau- und Stabilitätspläne.2.Kenntnis der Stau- und Stabilitätspläne.3.Fähigkeit, Staupläne zu verstehen.4.Kenntnis der Nummerierung und Unterteilung der Laderäume von Trockengüterschiffen und der Tanks von Tankschiffen (N, C oder G) und Kenntnisse zur Stauung verschiedener Arten von Ladung.5.Fähigkeit, die Kennzeichnung gefährlicher Güter gemäß dem Europäischen Übereinkommen über die internationale Beförderung gefährlicher Güter auf Binnenwasserstraßen (ADN) zu identifizieren.2.die Stauung und Sicherung von Ladung zu überwachen;1.Kenntnis der Methoden für die Stauung verschiedener Ladungen auf Fahrzeugen, um eine sichere und effiziente Beförderung zu gewährleisten.2.Kenntnis der Verfahren zur Vorbereitung des Fahrzeugs für das Be- und Entladen.3.Fähigkeit, Be- und Entladeverfahren sicher anzuwenden, d. h. durch Öffnen und Schließen der Laderäume, und eine Deckwache während des Be- und Entladens durchzuführen.4.Fähigkeit, während des Be- und Entladens eine wirksame Kommunikation aufzubauen und aufrechtzuerhalten.5.Kenntnis der Auswirkung von Ladung auf die Stabilität des Fahrzeugs.6.Fähigkeit, die Ladung zu überwachen und Schäden zu melden.3.verschiedene Arten von Ladung und ihre Eigenschaften zu unterscheiden;1.Kenntnis der verschiedenen Arten von Ladung, z. B. loses Stückgut, flüssiges Massengut, Schwergut usw.2.Kenntnis der Logistikkette und des multimodalen Verkehrs.3.Fähigkeit, den Fahrzeugbetrieb im Zusammenhang mit den Be- und Entladevorgängen vorzubereiten, z. B. mit der Landseite zu kommunizieren und den Laderaum vorzubereiten.4.Ballastsysteme einzusetzen;1.Kenntnis der Funktion und des Einsatzes von Ballastsystemen.2.Fähigkeit, Ballastsysteme einzusetzen, z. B. durch die Befüllung oder Entleerung der Ballasttanks.5.die Ladungsmenge zu überprüfen;1.Kenntnis der manuellen und technischen Verfahren zur Bestimmung des Ladungsgewichts auf verschiedenen Arten von Fahrzeugen.2.Kenntnis der Methoden zur Bestimmung der Menge geladener oder gelöschter Ladung.3.Kenntnis der Berechnung der Menge flüssiger Ladung unter Verwendung von Sondierungen und/oder Tanktabellen.4.Fähigkeit, Einsenkungsmarken und Tiefgangsanzeiger abzulesen.6.gemäß den Regelungen und sicherheitsbezogenen Arbeitsvorschriften zu arbeiten.1.Kenntnis der während der Vorbereitung, Be- und Entladung von Fahrzeugen mit verschiedenen Arten von Ladung anwendbaren sicherheitsbezogenen Arbeitsvorschriften und -verfahren.2.Fähigkeit, die während der Be- und Entladung anwendbaren sicherheitsbezogenen Arbeitsvorschriften und -verfahren einzuhalten und persönliche Schutz- und Rettungsausrüstung zu benutzen.3.Fähigkeit, mit allen an den Be- und Entladevorgängen beteiligten Partnern eine wirksame verbale und nonverbale Kommunikation aufzubauen und aufrechtzuerhalten.4.Kenntnis der technischen Mittel für den Ladungsumschlag auf Fahrzeugen und in Häfen und der Arbeitssicherheitsmaßnahmen während deren Gebrauch.3.2Der Matrose muss in der Lage sein, die Führung des Fahrzeugs bei der Bereitstellung von Dienstleistungen für die Fahrgäste zu unterstützen und Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität gemäß der Unterweisung und den Instruktionen nach Anhang IV der Verordnung (EU) Nr. 1177/2010 des Europäischen Parlaments und des Rates unmittelbar Hilfe zu leisten.Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Vorschriften und Übereinkommen zur Fahrgastbeförderung zu beachten;1.Kenntnis der geltenden Vorschriften und Übereinkommen zur Fahrgastbeförderung.2.Fähigkeit, Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität gemäß der Unterweisung und den Instruktionen nach Anhang IV der Verordnung (EU) Nr. 1177/2010 unmittelbar Hilfe zu leisten.2.beim sicheren Ein- und Ausstieg von Fahrgästen Unterstützung zu leisten;1.Kenntnis der vor und während des Ein- und Ausstiegs von Fahrgästen geltenden Verfahren.2.Fähigkeit, die Ausrüstung für den Ein- und Ausstieg zu platzieren und auszurichten und die Sicherheitsmaßnahmen anzuwenden.3.bei der Aufsicht über die Fahrgäste in Notsituationen Unterstützung zu leisten;1.Kenntnis der vorhandenen Rettungsmittel für Notsituationen und der im Falle eines Lecks, eines Brandes, einer über Bord gegangenen Person und einer Evakuierung zu beachtenden Verfahren, einschließlich Krisenbewältigung und Führung von Menschenmengen, sowie der Erste-Hilfe-Maßnahmen an Bord von Fahrzeugen.2.Fähigkeit, im Falle eines Lecks, eines Brandes, einer über Bord gegangenen Person, eines Zusammenstoßes und einer Evakuierung Unterstützung zu leisten, einschließlich Krisenbewältigung und Führung von Menschenmengen, sowie Fähigkeit zum Gebrauch von Rettungsmitteln in Notsituationen und zum Leisten von Erster Hilfe an Bord des Fahrzeugs.4.mit Fahrgästen wirksam zu kommunizieren.1.Kenntnis der Standardredewendungen bei der Evakuierung von Fahrgästen in Notfällen.2.Fähigkeit zu dienstleistungsorientiertem Verhalten und Sprachgebrauch. Der Matrose muss in der Lage sein, die Führung des Fahrzeugs bei der Vorbereitung, Stauung und Überwachung der Ladung während des Be- und Entladens zu unterstützen. Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Stau- und Stabilitätspläne zu lesen;1.Kenntnis der Auswirkungen von Ladungsarten auf Stau- und Stabilitätspläne.2.Kenntnis der Stau- und Stabilitätspläne.3.Fähigkeit, Staupläne zu verstehen.4.Kenntnis der Nummerierung und Unterteilung der Laderäume von Trockengüterschiffen und der Tanks von Tankschiffen (N, C oder G) und Kenntnisse zur Stauung verschiedener Arten von Ladung.5.Fähigkeit, die Kennzeichnung gefährlicher Güter gemäß dem Europäischen Übereinkommen über die internationale Beförderung gefährlicher Güter auf Binnenwasserstraßen (ADN) zu identifizieren.2.die Stauung und Sicherung von Ladung zu überwachen;1.Kenntnis der Methoden für die Stauung verschiedener Ladungen auf Fahrzeugen, um eine sichere und effiziente Beförderung zu gewährleisten.2.Kenntnis der Verfahren zur Vorbereitung des Fahrzeugs für das Be- und Entladen.3.Fähigkeit, Be- und Entladeverfahren sicher anzuwenden, d. h. durch Öffnen und Schließen der Laderäume, und eine Deckwache während des Be- und Entladens durchzuführen.4.Fähigkeit, während des Be- und Entladens eine wirksame Kommunikation aufzubauen und aufrechtzuerhalten.5.Kenntnis der Auswirkung von Ladung auf die Stabilität des Fahrzeugs.6.Fähigkeit, die Ladung zu überwachen und Schäden zu melden.3.verschiedene Arten von Ladung und ihre Eigenschaften zu unterscheiden;1.Kenntnis der verschiedenen Arten von Ladung, z. B. loses Stückgut, flüssiges Massengut, Schwergut usw.2.Kenntnis der Logistikkette und des multimodalen Verkehrs.3.Fähigkeit, den Fahrzeugbetrieb im Zusammenhang mit den Be- und Entladevorgängen vorzubereiten, z. B. mit der Landseite zu kommunizieren und den Laderaum vorzubereiten.4.Ballastsysteme einzusetzen;1.Kenntnis der Funktion und des Einsatzes von Ballastsystemen.2.Fähigkeit, Ballastsysteme einzusetzen, z. B. durch die Befüllung oder Entleerung der Ballasttanks.5.die Ladungsmenge zu überprüfen;1.Kenntnis der manuellen und technischen Verfahren zur Bestimmung des Ladungsgewichts auf verschiedenen Arten von Fahrzeugen.2.Kenntnis der Methoden zur Bestimmung der Menge geladener oder gelöschter Ladung.3.Kenntnis der Berechnung der Menge flüssiger Ladung unter Verwendung von Sondierungen und/oder Tanktabellen.4.Fähigkeit, Einsenkungsmarken und Tiefgangsanzeiger abzulesen.6.gemäß den Regelungen und sicherheitsbezogenen Arbeitsvorschriften zu arbeiten.1.Kenntnis der während der Vorbereitung, Be- und Entladung von Fahrzeugen mit verschiedenen Arten von Ladung anwendbaren sicherheitsbezogenen Arbeitsvorschriften und -verfahren.2.Fähigkeit, die während der Be- und Entladung anwendbaren sicherheitsbezogenen Arbeitsvorschriften und -verfahren einzuhalten und persönliche Schutz- und Rettungsausrüstung zu benutzen.3.Fähigkeit, mit allen an den Be- und Entladevorgängen beteiligten Partnern eine wirksame verbale und nonverbale Kommunikation aufzubauen und aufrechtzuerhalten.4.Kenntnis der technischen Mittel für den Ladungsumschlag auf Fahrzeugen und in Häfen und der Arbeitssicherheitsmaßnahmen während deren Gebrauch. Stau- und Stabilitätspläne zu lesen; Kenntnis der Auswirkungen von Ladungsarten auf Stau- und Stabilitätspläne. Kenntnis der Stau- und Stabilitätspläne. Fähigkeit, Staupläne zu verstehen. Kenntnis der Nummerierung und Unterteilung der Laderäume von Trockengüterschiffen und der Tanks von Tankschiffen (N, C oder G) und Kenntnisse zur Stauung verschiedener Arten von Ladung. Fähigkeit, die Kennzeichnung gefährlicher Güter gemäß dem Europäischen Übereinkommen über die internationale Beförderung gefährlicher Güter auf Binnenwasserstraßen (ADN) zu identifizieren. die Stauung und Sicherung von Ladung zu überwachen; Kenntnis der Methoden für die Stauung verschiedener Ladungen auf Fahrzeugen, um eine sichere und effiziente Beförderung zu gewährleisten. Kenntnis der Verfahren zur Vorbereitung des Fahrzeugs für das Be- und Entladen. Fähigkeit, Be- und Entladeverfahren sicher anzuwenden, d. h. durch Öffnen und Schließen der Laderäume, und eine Deckwache während des Be- und Entladens durchzuführen. Fähigkeit, während des Be- und Entladens eine wirksame Kommunikation aufzubauen und aufrechtzuerhalten. Kenntnis der Auswirkung von Ladung auf die Stabilität des Fahrzeugs. Fähigkeit, die Ladung zu überwachen und Schäden zu melden. verschiedene Arten von Ladung und ihre Eigenschaften zu unterscheiden; Kenntnis der verschiedenen Arten von Ladung, z. B. loses Stückgut, flüssiges Massengut, Schwergut usw. Kenntnis der Logistikkette und des multimodalen Verkehrs. Fähigkeit, den Fahrzeugbetrieb im Zusammenhang mit den Be- und Entladevorgängen vorzubereiten, z. B. mit der Landseite zu kommunizieren und den Laderaum vorzubereiten. Ballastsysteme einzusetzen; Kenntnis der Funktion und des Einsatzes von Ballastsystemen. Fähigkeit, Ballastsysteme einzusetzen, z. B. durch die Befüllung oder Entleerung der Ballasttanks. die Ladungsmenge zu überprüfen; Kenntnis der manuellen und technischen Verfahren zur Bestimmung des Ladungsgewichts auf verschiedenen Arten von Fahrzeugen. Kenntnis der Methoden zur Bestimmung der Menge geladener oder gelöschter Ladung. Kenntnis der Berechnung der Menge flüssiger Ladung unter Verwendung von Sondierungen und/oder Tanktabellen. Fähigkeit, Einsenkungsmarken und Tiefgangsanzeiger abzulesen. gemäß den Regelungen und sicherheitsbezogenen Arbeitsvorschriften zu arbeiten. Kenntnis der während der Vorbereitung, Be- und Entladung von Fahrzeugen mit verschiedenen Arten von Ladung anwendbaren sicherheitsbezogenen Arbeitsvorschriften und -verfahren. Fähigkeit, die während der Be- und Entladung anwendbaren sicherheitsbezogenen Arbeitsvorschriften und -verfahren einzuhalten und persönliche Schutz- und Rettungsausrüstung zu benutzen. Fähigkeit, mit allen an den Be- und Entladevorgängen beteiligten Partnern eine wirksame verbale und nonverbale Kommunikation aufzubauen und aufrechtzuerhalten. Kenntnis der technischen Mittel für den Ladungsumschlag auf Fahrzeugen und in Häfen und der Arbeitssicherheitsmaßnahmen während deren Gebrauch. Der Matrose muss in der Lage sein, die Führung des Fahrzeugs bei der Bereitstellung von Dienstleistungen für die Fahrgäste zu unterstützen und Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität gemäß der Unterweisung und den Instruktionen nach Anhang IV der Verordnung (EU) Nr. 1177/2010 des Europäischen Parlaments und des Rates unmittelbar Hilfe zu leisten. Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Vorschriften und Übereinkommen zur Fahrgastbeförderung zu beachten;1.Kenntnis der geltenden Vorschriften und Übereinkommen zur Fahrgastbeförderung.2.Fähigkeit, Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität gemäß der Unterweisung und den Instruktionen nach Anhang IV der Verordnung (EU) Nr. 1177/2010 unmittelbar Hilfe zu leisten.2.beim sicheren Ein- und Ausstieg von Fahrgästen Unterstützung zu leisten;1.Kenntnis der vor und während des Ein- und Ausstiegs von Fahrgästen geltenden Verfahren.2.Fähigkeit, die Ausrüstung für den Ein- und Ausstieg zu platzieren und auszurichten und die Sicherheitsmaßnahmen anzuwenden.3.bei der Aufsicht über die Fahrgäste in Notsituationen Unterstützung zu leisten;1.Kenntnis der vorhandenen Rettungsmittel für Notsituationen und der im Falle eines Lecks, eines Brandes, einer über Bord gegangenen Person und einer Evakuierung zu beachtenden Verfahren, einschließlich Krisenbewältigung und Führung von Menschenmengen, sowie der Erste-Hilfe-Maßnahmen an Bord von Fahrzeugen.2.Fähigkeit, im Falle eines Lecks, eines Brandes, einer über Bord gegangenen Person, eines Zusammenstoßes und einer Evakuierung Unterstützung zu leisten, einschließlich Krisenbewältigung und Führung von Menschenmengen, sowie Fähigkeit zum Gebrauch von Rettungsmitteln in Notsituationen und zum Leisten von Erster Hilfe an Bord des Fahrzeugs.4.mit Fahrgästen wirksam zu kommunizieren.1.Kenntnis der Standardredewendungen bei der Evakuierung von Fahrgästen in Notfällen.2.Fähigkeit zu dienstleistungsorientiertem Verhalten und Sprachgebrauch. Vorschriften und Übereinkommen zur Fahrgastbeförderung zu beachten; Kenntnis der geltenden Vorschriften und Übereinkommen zur Fahrgastbeförderung. Fähigkeit, Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität gemäß der Unterweisung und den Instruktionen nach Anhang IV der Verordnung (EU) Nr. 1177/2010 unmittelbar Hilfe zu leisten. beim sicheren Ein- und Ausstieg von Fahrgästen Unterstützung zu leisten; Kenntnis der vor und während des Ein- und Ausstiegs von Fahrgästen geltenden Verfahren. Fähigkeit, die Ausrüstung für den Ein- und Ausstieg zu platzieren und auszurichten und die Sicherheitsmaßnahmen anzuwenden. bei der Aufsicht über die Fahrgäste in Notsituationen Unterstützung zu leisten; Kenntnis der vorhandenen Rettungsmittel für Notsituationen und der im Falle eines Lecks, eines Brandes, einer über Bord gegangenen Person und einer Evakuierung zu beachtenden Verfahren, einschließlich Krisenbewältigung und Führung von Menschenmengen, sowie der Erste-Hilfe-Maßnahmen an Bord von Fahrzeugen. Fähigkeit, im Falle eines Lecks, eines Brandes, einer über Bord gegangenen Person, eines Zusammenstoßes und einer Evakuierung Unterstützung zu leisten, einschließlich Krisenbewältigung und Führung von Menschenmengen, sowie Fähigkeit zum Gebrauch von Rettungsmitteln in Notsituationen und zum Leisten von Erster Hilfe an Bord des Fahrzeugs. mit Fahrgästen wirksam zu kommunizieren. Kenntnis der Standardredewendungen bei der Evakuierung von Fahrgästen in Notfällen. Fähigkeit zu dienstleistungsorientiertem Verhalten und Sprachgebrauch.
 
-2.
+4. Schiffsbetriebstechnik und Elektrotechnik, Elektronik und Leittechnik4.1Der Matrose muss in der Lage sein, die Führung des Fahrzeugs in Fragen der Schiffsbetriebstechnik, Elektrotechnik, Elektronik und Leittechnik zu unterstützen, um die allgemeine technische Sicherheit zu gewährleisten.Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.bei der Überwachung der Antriebsmaschinen und Antriebssysteme Unterstützung zu leisten;1.Kenntnis der Grundsätze von Antriebssystemen.2.Kenntnis der verschiedenen Arten von Antriebsmaschinen sowie ihrer Konstruktion, Leistung und Terminologie.3.Kenntnis von Funktion und Betrieb der Luftzufuhr, Kraftstoffzufuhr, Schmiermittel, Kühlung und des Abgassystems.4.Kenntnis der Haupt- und Hilfsmaschinen.5.Fähigkeit, grundlegende Prüfungen durchzuführen und ein ordnungsgemäßes Funktionieren der Antriebsmaschinen sicherzustellen.2.die Hauptmaschinen und die Hilfseinrichtungen für den Betrieb vorzubereiten;1.Kenntnis der Anlasssysteme der Hauptmaschinen, Hilfseinrichtungen und der hydraulischen und pneumatischen Systeme gemäß Anweisungen.2.Kenntnis der Grundsätze des Umsteuerns des Antriebes.3.Fähigkeit, die Maschinen im Maschinenraum gemäß der Prüfliste für die Abfahrt vorzubereiten.4.Fähigkeit, das Anlasssystem und die Hilfseinrichtungen gemäß Anweisungen zu verwenden, z. B. die Steuerungsausrüstung.5.Fähigkeit, die Hauptmaschinen gemäß den Anlassverfahren anzulassen.6.Fähigkeit, die hydraulischen und pneumatischen Systeme zu benutzen.3.angemessen auf Funktionsstörungen der Antriebsmaschinen zu reagieren;1.Kenntnis der Steuerungs- und Überwachungsanlagen im Maschinenraum und der Meldeverfahren für Funktionsstörungen.2.Fähigkeit, Funktionsstörungen zu erkennen und geeignete Maßnahmen im Falle von Funktionsstörungen zu ergreifen, einschließlich der Meldung an die Führung des Fahrzeugs.4.die Maschinen, einschließlich Pumpen, Rohrleitungssystemen, Bilge- und Ballastsystemen, zu bedienen;1.Kenntnis des sicheren Betriebs und der Steuerung der Maschinen im Maschinenraum, in Ballastzellen und Bilgen entsprechend den Verfahren.2.Fähigkeit, die sichere Funktion und den Betrieb der Maschinen im Maschinenraum zu kontrollieren und das Bilge- und Ballastsystem instand zu halten, einschließlich: Meldung von Zwischenfällen im Zusammenhang mit Umpumpvorgängen und Fähigkeit, Tankfüllstände korrekt zu messen und zu melden.3.Fähigkeit, das Abschalten der Maschinen nach dem Einsatz vorzubereiten und durchzuführen.4.Fähigkeit, Bilge-, Ballast- und Ladungspumpensysteme zu bedienen.5.Unterstützung bei der Überwachung elektronischer und elektrischer Geräte zu leisten;1.Kenntnis elektronischer und elektrischer Systeme und Komponenten.2.Kenntnis von Gleich- und Wechselstrom.3.Fähigkeit, Kontrollinstrumente zu überwachen und auszuwerten.4.Kenntnis des Magnetismus und des Unterschieds zwischen natürlichen und künstlichen Magneten.5.Kenntnis des elektrohydraulischen Systems.6.die Generatoren vorzubereiten, einzuschalten, anzuschließen und zu wechseln und ihre Systeme und den Landanschluss zu überprüfen;1.Kenntnis der Kraftanlage.2.Fähigkeit, die Schalttafel zu benutzen.3.Fähigkeit, den Landanschluss zu benutzen.7.Funktionsstörungen und häufige Fehler zu definieren und Maßnahmen zur Schadensverhütung zu beschreiben;1.Kenntnis der Maßnahmen bei Funktionsstörungen außerhalb des Maschinenraums und der Maßnahmen zur Schadensverhütung.2.Fähigkeit, häufige Fehler zu erkennen und Maßnahmen zur Schadensverhütung an mechanischen, elektrischen, elektronischen, hydraulischen und pneumatischen Systemen zu ergreifen.8.die erforderlichen Werkzeuge zur Gewährleistung der allgemeinen technischen Sicherheit einzusetzen.1.Kenntnis der Eigenschaften und Grenzen der zur Wartung und Instandsetzung von Maschinen und Ausrüstung eingesetzten Prozesse und Materialien.2.Fähigkeit, bei der Wartung und Instandsetzung von Maschinen und Ausrüstung sichere Arbeitsmethoden anzuwenden.4.2Der Matrose muss in der Lage sein, Wartungsarbeiten an der Ausrüstung in den Bereichen Schiffsbetriebstechnik, Elektrotechnik, Elektronik und Leittechnik durchzuführen, um die allgemeine technische Sicherheit zu gewährleisten.Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die täglichen Wartungsarbeiten an den Hauptmotoren, Hilfsmaschinen und Regelungs- und Steuerungsanlagen durchzuführen;1.Kenntnis der für die Wartung und Instandhaltung des Maschinenraums, des Hauptmotors, der Hauptmaschinen, der Hilfseinrichtungen und der Regelungs- und Steuerungsanlagen zu befolgenden Verfahren.2.Fähigkeit, Hauptmotoren, Hilfseinrichtungen und Regelungs- und Steuerungsanlagen zu warten.2.die täglichen Wartungsarbeiten an den Maschinen, einschließlich Pumpen, Rohrleitungssystemen, Bilge- und Ballastsystemen, durchzuführen;1.Kenntnis der täglichen Wartungsverfahren.2.Fähigkeit, Pumpen, Rohrleitungssysteme, Bilge- und Ballastsysteme zu warten und instand zu halten.3.die erforderlichen Werkzeuge zur Gewährleistung der allgemeinen technischen Sicherheit einzusetzen;1.Kenntnis des Einsatzes der an Bord befindlichen Wartungsmaterialien und Instandsetzungsausrüstungen, einschließlich ihrer Eigenschaften und Grenzen.2.Fähigkeit, die an Bord befindlichen Wartungsmaterialien und Instandsetzungsausrüstungen auszuwählen und einzusetzen.4.die Wartungs- und Instandsetzungsverfahren zu befolgen;1.Kenntnis der Handbücher und Anweisungen für Wartung und Instandsetzung.2.Fähigkeit, Wartungs- und Instandsetzungsverfahren gemäß den geltenden Handbüchern und Anweisungen durchzuführen.5.technische Informationen zu nutzen und technische Verfahren zu dokumentieren.1.Kenntnis der technischen Dokumentation und Handbücher.2.Fähigkeit, Wartungsarbeiten zu dokumentieren. Der Matrose muss in der Lage sein, die Führung des Fahrzeugs in Fragen der Schiffsbetriebstechnik, Elektrotechnik, Elektronik und Leittechnik zu unterstützen, um die allgemeine technische Sicherheit zu gewährleisten. Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.bei der Überwachung der Antriebsmaschinen und Antriebssysteme Unterstützung zu leisten;1.Kenntnis der Grundsätze von Antriebssystemen.2.Kenntnis der verschiedenen Arten von Antriebsmaschinen sowie ihrer Konstruktion, Leistung und Terminologie.3.Kenntnis von Funktion und Betrieb der Luftzufuhr, Kraftstoffzufuhr, Schmiermittel, Kühlung und des Abgassystems.4.Kenntnis der Haupt- und Hilfsmaschinen.5.Fähigkeit, grundlegende Prüfungen durchzuführen und ein ordnungsgemäßes Funktionieren der Antriebsmaschinen sicherzustellen.2.die Hauptmaschinen und die Hilfseinrichtungen für den Betrieb vorzubereiten;1.Kenntnis der Anlasssysteme der Hauptmaschinen, Hilfseinrichtungen und der hydraulischen und pneumatischen Systeme gemäß Anweisungen.2.Kenntnis der Grundsätze des Umsteuerns des Antriebes.3.Fähigkeit, die Maschinen im Maschinenraum gemäß der Prüfliste für die Abfahrt vorzubereiten.4.Fähigkeit, das Anlasssystem und die Hilfseinrichtungen gemäß Anweisungen zu verwenden, z. B. die Steuerungsausrüstung.5.Fähigkeit, die Hauptmaschinen gemäß den Anlassverfahren anzulassen.6.Fähigkeit, die hydraulischen und pneumatischen Systeme zu benutzen.3.angemessen auf Funktionsstörungen der Antriebsmaschinen zu reagieren;1.Kenntnis der Steuerungs- und Überwachungsanlagen im Maschinenraum und der Meldeverfahren für Funktionsstörungen.2.Fähigkeit, Funktionsstörungen zu erkennen und geeignete Maßnahmen im Falle von Funktionsstörungen zu ergreifen, einschließlich der Meldung an die Führung des Fahrzeugs.4.die Maschinen, einschließlich Pumpen, Rohrleitungssystemen, Bilge- und Ballastsystemen, zu bedienen;1.Kenntnis des sicheren Betriebs und der Steuerung der Maschinen im Maschinenraum, in Ballastzellen und Bilgen entsprechend den Verfahren.2.Fähigkeit, die sichere Funktion und den Betrieb der Maschinen im Maschinenraum zu kontrollieren und das Bilge- und Ballastsystem instand zu halten, einschließlich: Meldung von Zwischenfällen im Zusammenhang mit Umpumpvorgängen und Fähigkeit, Tankfüllstände korrekt zu messen und zu melden.3.Fähigkeit, das Abschalten der Maschinen nach dem Einsatz vorzubereiten und durchzuführen.4.Fähigkeit, Bilge-, Ballast- und Ladungspumpensysteme zu bedienen.5.Unterstützung bei der Überwachung elektronischer und elektrischer Geräte zu leisten;1.Kenntnis elektronischer und elektrischer Systeme und Komponenten.2.Kenntnis von Gleich- und Wechselstrom.3.Fähigkeit, Kontrollinstrumente zu überwachen und auszuwerten.4.Kenntnis des Magnetismus und des Unterschieds zwischen natürlichen und künstlichen Magneten.5.Kenntnis des elektrohydraulischen Systems.6.die Generatoren vorzubereiten, einzuschalten, anzuschließen und zu wechseln und ihre Systeme und den Landanschluss zu überprüfen;1.Kenntnis der Kraftanlage.2.Fähigkeit, die Schalttafel zu benutzen.3.Fähigkeit, den Landanschluss zu benutzen.7.Funktionsstörungen und häufige Fehler zu definieren und Maßnahmen zur Schadensverhütung zu beschreiben;1.Kenntnis der Maßnahmen bei Funktionsstörungen außerhalb des Maschinenraums und der Maßnahmen zur Schadensverhütung.2.Fähigkeit, häufige Fehler zu erkennen und Maßnahmen zur Schadensverhütung an mechanischen, elektrischen, elektronischen, hydraulischen und pneumatischen Systemen zu ergreifen.8.die erforderlichen Werkzeuge zur Gewährleistung der allgemeinen technischen Sicherheit einzusetzen.1.Kenntnis der Eigenschaften und Grenzen der zur Wartung und Instandsetzung von Maschinen und Ausrüstung eingesetzten Prozesse und Materialien.2.Fähigkeit, bei der Wartung und Instandsetzung von Maschinen und Ausrüstung sichere Arbeitsmethoden anzuwenden. bei der Überwachung der Antriebsmaschinen und Antriebssysteme Unterstützung zu leisten; Kenntnis der Grundsätze von Antriebssystemen. Kenntnis der verschiedenen Arten von Antriebsmaschinen sowie ihrer Konstruktion, Leistung und Terminologie. Kenntnis von Funktion und Betrieb der Luftzufuhr, Kraftstoffzufuhr, Schmiermittel, Kühlung und des Abgassystems. Kenntnis der Haupt- und Hilfsmaschinen. Fähigkeit, grundlegende Prüfungen durchzuführen und ein ordnungsgemäßes Funktionieren der Antriebsmaschinen sicherzustellen. die Hauptmaschinen und die Hilfseinrichtungen für den Betrieb vorzubereiten; Kenntnis der Anlasssysteme der Hauptmaschinen, Hilfseinrichtungen und der hydraulischen und pneumatischen Systeme gemäß Anweisungen. Kenntnis der Grundsätze des Umsteuerns des Antriebes. Fähigkeit, die Maschinen im Maschinenraum gemäß der Prüfliste für die Abfahrt vorzubereiten. Fähigkeit, das Anlasssystem und die Hilfseinrichtungen gemäß Anweisungen zu verwenden, z. B. die Steuerungsausrüstung. Fähigkeit, die Hauptmaschinen gemäß den Anlassverfahren anzulassen. Fähigkeit, die hydraulischen und pneumatischen Systeme zu benutzen. angemessen auf Funktionsstörungen der Antriebsmaschinen zu reagieren; Kenntnis der Steuerungs- und Überwachungsanlagen im Maschinenraum und der Meldeverfahren für Funktionsstörungen. Fähigkeit, Funktionsstörungen zu erkennen und geeignete Maßnahmen im Falle von Funktionsstörungen zu ergreifen, einschließlich der Meldung an die Führung des Fahrzeugs. die Maschinen, einschließlich Pumpen, Rohrleitungssystemen, Bilge- und Ballastsystemen, zu bedienen; Kenntnis des sicheren Betriebs und der Steuerung der Maschinen im Maschinenraum, in Ballastzellen und Bilgen entsprechend den Verfahren. Fähigkeit, die sichere Funktion und den Betrieb der Maschinen im Maschinenraum zu kontrollieren und das Bilge- und Ballastsystem instand zu halten, einschließlich: Meldung von Zwischenfällen im Zusammenhang mit Umpumpvorgängen und Fähigkeit, Tankfüllstände korrekt zu messen und zu melden. Fähigkeit, das Abschalten der Maschinen nach dem Einsatz vorzubereiten und durchzuführen. Fähigkeit, Bilge-, Ballast- und Ladungspumpensysteme zu bedienen. Unterstützung bei der Überwachung elektronischer und elektrischer Geräte zu leisten; Kenntnis elektronischer und elektrischer Systeme und Komponenten. Kenntnis von Gleich- und Wechselstrom. Fähigkeit, Kontrollinstrumente zu überwachen und auszuwerten. Kenntnis des Magnetismus und des Unterschieds zwischen natürlichen und künstlichen Magneten. Kenntnis des elektrohydraulischen Systems. die Generatoren vorzubereiten, einzuschalten, anzuschließen und zu wechseln und ihre Systeme und den Landanschluss zu überprüfen; Kenntnis der Kraftanlage. Fähigkeit, die Schalttafel zu benutzen. Fähigkeit, den Landanschluss zu benutzen. Funktionsstörungen und häufige Fehler zu definieren und Maßnahmen zur Schadensverhütung zu beschreiben; Kenntnis der Maßnahmen bei Funktionsstörungen außerhalb des Maschinenraums und der Maßnahmen zur Schadensverhütung. Fähigkeit, häufige Fehler zu erkennen und Maßnahmen zur Schadensverhütung an mechanischen, elektrischen, elektronischen, hydraulischen und pneumatischen Systemen zu ergreifen. die erforderlichen Werkzeuge zur Gewährleistung der allgemeinen technischen Sicherheit einzusetzen. Kenntnis der Eigenschaften und Grenzen der zur Wartung und Instandsetzung von Maschinen und Ausrüstung eingesetzten Prozesse und Materialien. Fähigkeit, bei der Wartung und Instandsetzung von Maschinen und Ausrüstung sichere Arbeitsmethoden anzuwenden. Der Matrose muss in der Lage sein, Wartungsarbeiten an der Ausrüstung in den Bereichen Schiffsbetriebstechnik, Elektrotechnik, Elektronik und Leittechnik durchzuführen, um die allgemeine technische Sicherheit zu gewährleisten. Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die täglichen Wartungsarbeiten an den Hauptmotoren, Hilfsmaschinen und Regelungs- und Steuerungsanlagen durchzuführen;1.Kenntnis der für die Wartung und Instandhaltung des Maschinenraums, des Hauptmotors, der Hauptmaschinen, der Hilfseinrichtungen und der Regelungs- und Steuerungsanlagen zu befolgenden Verfahren.2.Fähigkeit, Hauptmotoren, Hilfseinrichtungen und Regelungs- und Steuerungsanlagen zu warten.2.die täglichen Wartungsarbeiten an den Maschinen, einschließlich Pumpen, Rohrleitungssystemen, Bilge- und Ballastsystemen, durchzuführen;1.Kenntnis der täglichen Wartungsverfahren.2.Fähigkeit, Pumpen, Rohrleitungssysteme, Bilge- und Ballastsysteme zu warten und instand zu halten.3.die erforderlichen Werkzeuge zur Gewährleistung der allgemeinen technischen Sicherheit einzusetzen;1.Kenntnis des Einsatzes der an Bord befindlichen Wartungsmaterialien und Instandsetzungsausrüstungen, einschließlich ihrer Eigenschaften und Grenzen.2.Fähigkeit, die an Bord befindlichen Wartungsmaterialien und Instandsetzungsausrüstungen auszuwählen und einzusetzen.4.die Wartungs- und Instandsetzungsverfahren zu befolgen;1.Kenntnis der Handbücher und Anweisungen für Wartung und Instandsetzung.2.Fähigkeit, Wartungs- und Instandsetzungsverfahren gemäß den geltenden Handbüchern und Anweisungen durchzuführen.5.technische Informationen zu nutzen und technische Verfahren zu dokumentieren.1.Kenntnis der technischen Dokumentation und Handbücher.2.Fähigkeit, Wartungsarbeiten zu dokumentieren. die täglichen Wartungsarbeiten an den Hauptmotoren, Hilfsmaschinen und Regelungs- und Steuerungsanlagen durchzuführen; Kenntnis der für die Wartung und Instandhaltung des Maschinenraums, des Hauptmotors, der Hauptmaschinen, der Hilfseinrichtungen und der Regelungs- und Steuerungsanlagen zu befolgenden Verfahren. Fähigkeit, Hauptmotoren, Hilfseinrichtungen und Regelungs- und Steuerungsanlagen zu warten. die täglichen Wartungsarbeiten an den Maschinen, einschließlich Pumpen, Rohrleitungssystemen, Bilge- und Ballastsystemen, durchzuführen; Kenntnis der täglichen Wartungsverfahren. Fähigkeit, Pumpen, Rohrleitungssysteme, Bilge- und Ballastsysteme zu warten und instand zu halten. die erforderlichen Werkzeuge zur Gewährleistung der allgemeinen technischen Sicherheit einzusetzen; Kenntnis des Einsatzes der an Bord befindlichen Wartungsmaterialien und Instandsetzungsausrüstungen, einschließlich ihrer Eigenschaften und Grenzen. Fähigkeit, die an Bord befindlichen Wartungsmaterialien und Instandsetzungsausrüstungen auszuwählen und einzusetzen. die Wartungs- und Instandsetzungsverfahren zu befolgen; Kenntnis der Handbücher und Anweisungen für Wartung und Instandsetzung. Fähigkeit, Wartungs- und Instandsetzungsverfahren gemäß den geltenden Handbüchern und Anweisungen durchzuführen. technische Informationen zu nutzen und technische Verfahren zu dokumentieren. Kenntnis der technischen Dokumentation und Handbücher. Fähigkeit, Wartungsarbeiten zu dokumentieren.
 
-3.
+5. Wartung und Instandsetzung5.1Der Matrose muss in der Lage sein, die Führung des Fahrzeugs bei der Wartung und Instandsetzung des Fahrzeugs, seiner Anlagen und seiner Ausrüstung zu unterstützen.Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.mit verschiedenen Arten von Materialien und Werkzeugen für Wartungs- und Instandsetzungsvorgänge zu arbeiten;1.Kenntnis der erforderlichen Werkzeuge und der Wartung der Ausrüstung sowie der sicherheitsbezogenen Arbeitsvorschriften und der Umweltschutzvorschriften.2.Fähigkeit, einschlägige Verfahren für die Wartung des Fahrzeugs einzusetzen, einschließlich der Fähigkeit, verschiedene Materialien auszuwählen.3.Fähigkeit, Werkzeuge und Wartungsausrüstung ordnungsgemäß zu warten und zu lagern.4.Fähigkeit, Wartungsarbeiten gemäß den sicherheitsbezogenen Arbeitsvorschriften und den Umweltschutzvorschriften durchzuführen.2.Gesundheit und Umwelt bei der Durchführung von Wartungs- und Instandsetzungsarbeiten zu schützen;1.Kenntnis der anwendbaren Reinigungs- und Konservierungsverfahren sowie der Hygienevorschriften.2.Fähigkeit, unter Einhaltung der Hygienevorschriften sämtliche Wohnräume und das Steuerhaus zu reinigen sowie den Haushalt ordnungsgemäß zu führen; dies schließt die Übernahme der Verantwortung für den eigenen Wohnraum ein.3.Fähigkeit, die Maschinenräume und die Maschinen unter Einsatz der erforderlichen Reinigungsmaterialien zu reinigen.4.Fähigkeit, die äußeren Teile, den Körper und die Decks des Fahrzeugs in der korrekten Reihenfolge unter Einsatz der gemäß den Umweltschutzvorschriften erforderlichen Materialien zu reinigen und zu konservieren.5.Fähigkeit, für die Entsorgung der Fahrzeug- und Haushaltsabfälle gemäß den Umweltschutzvorschriften zu sorgen.3.die technischen Geräte gemäß den technischen Anweisungen zu warten;1.Kenntnis der technischen Anweisungen für Wartung und Wartungsprogramme.2.Fähigkeit, für sämtliche technische Ausrüstung gemäß den Anweisungen Sorge zu tragen und Wartungsprogramme (auch digitale) unter Aufsicht zu verwenden.4.sicher mit Drähten und Seilen umzugehen;1.Kenntnis der Eigenschaften der verschiedenen Arten von Seilen und Drähten.2.Fähigkeit, diese gemäß den Methoden und Vorschriften für sicheres Arbeiten zu verwenden und zu lagern.5.Knoten und Spleiße entsprechend ihrem Verwendungszweck anzufertigen und instand zu halten;1.Kenntnis der Verfahren, die für die Gewährleistung eines sicheren Schleppens und Kuppelns mit den an Bord verfügbaren Mitteln zu befolgen sind.2.Fähigkeit, Drähte und Seile zu spleißen.3.Fähigkeit, Knoten entsprechend ihrem Verwendungszweck anzuwenden.4.Fähigkeit, Drähte und Seile instand zu halten.6.Arbeitspläne im Team vorzubereiten und umzusetzen und die Ergebnisse zu kontrollieren.1.Kenntnis der Grundsätze von Teamarbeit.2.Fähigkeit, als Teammitglied eigenständig Wartungs- und einfache Instandsetzungsarbeiten durchzuführen.3.Fähigkeit, komplexere Instandsetzungsarbeiten unter Aufsicht durchzuführen.4.Fähigkeit, verschiedene Arbeitsmethoden, einschließlich Teamarbeit, gemäß den Sicherheitsanweisungen anzuwenden.5.Fähigkeit, die Qualität von Arbeiten zu beurteilen. Der Matrose muss in der Lage sein, die Führung des Fahrzeugs bei der Wartung und Instandsetzung des Fahrzeugs, seiner Anlagen und seiner Ausrüstung zu unterstützen. Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.mit verschiedenen Arten von Materialien und Werkzeugen für Wartungs- und Instandsetzungsvorgänge zu arbeiten;1.Kenntnis der erforderlichen Werkzeuge und der Wartung der Ausrüstung sowie der sicherheitsbezogenen Arbeitsvorschriften und der Umweltschutzvorschriften.2.Fähigkeit, einschlägige Verfahren für die Wartung des Fahrzeugs einzusetzen, einschließlich der Fähigkeit, verschiedene Materialien auszuwählen.3.Fähigkeit, Werkzeuge und Wartungsausrüstung ordnungsgemäß zu warten und zu lagern.4.Fähigkeit, Wartungsarbeiten gemäß den sicherheitsbezogenen Arbeitsvorschriften und den Umweltschutzvorschriften durchzuführen.2.Gesundheit und Umwelt bei der Durchführung von Wartungs- und Instandsetzungsarbeiten zu schützen;1.Kenntnis der anwendbaren Reinigungs- und Konservierungsverfahren sowie der Hygienevorschriften.2.Fähigkeit, unter Einhaltung der Hygienevorschriften sämtliche Wohnräume und das Steuerhaus zu reinigen sowie den Haushalt ordnungsgemäß zu führen; dies schließt die Übernahme der Verantwortung für den eigenen Wohnraum ein.3.Fähigkeit, die Maschinenräume und die Maschinen unter Einsatz der erforderlichen Reinigungsmaterialien zu reinigen.4.Fähigkeit, die äußeren Teile, den Körper und die Decks des Fahrzeugs in der korrekten Reihenfolge unter Einsatz der gemäß den Umweltschutzvorschriften erforderlichen Materialien zu reinigen und zu konservieren.5.Fähigkeit, für die Entsorgung der Fahrzeug- und Haushaltsabfälle gemäß den Umweltschutzvorschriften zu sorgen.3.die technischen Geräte gemäß den technischen Anweisungen zu warten;1.Kenntnis der technischen Anweisungen für Wartung und Wartungsprogramme.2.Fähigkeit, für sämtliche technische Ausrüstung gemäß den Anweisungen Sorge zu tragen und Wartungsprogramme (auch digitale) unter Aufsicht zu verwenden.4.sicher mit Drähten und Seilen umzugehen;1.Kenntnis der Eigenschaften der verschiedenen Arten von Seilen und Drähten.2.Fähigkeit, diese gemäß den Methoden und Vorschriften für sicheres Arbeiten zu verwenden und zu lagern.5.Knoten und Spleiße entsprechend ihrem Verwendungszweck anzufertigen und instand zu halten;1.Kenntnis der Verfahren, die für die Gewährleistung eines sicheren Schleppens und Kuppelns mit den an Bord verfügbaren Mitteln zu befolgen sind.2.Fähigkeit, Drähte und Seile zu spleißen.3.Fähigkeit, Knoten entsprechend ihrem Verwendungszweck anzuwenden.4.Fähigkeit, Drähte und Seile instand zu halten.6.Arbeitspläne im Team vorzubereiten und umzusetzen und die Ergebnisse zu kontrollieren.1.Kenntnis der Grundsätze von Teamarbeit.2.Fähigkeit, als Teammitglied eigenständig Wartungs- und einfache Instandsetzungsarbeiten durchzuführen.3.Fähigkeit, komplexere Instandsetzungsarbeiten unter Aufsicht durchzuführen.4.Fähigkeit, verschiedene Arbeitsmethoden, einschließlich Teamarbeit, gemäß den Sicherheitsanweisungen anzuwenden.5.Fähigkeit, die Qualität von Arbeiten zu beurteilen. mit verschiedenen Arten von Materialien und Werkzeugen für Wartungs- und Instandsetzungsvorgänge zu arbeiten; Kenntnis der erforderlichen Werkzeuge und der Wartung der Ausrüstung sowie der sicherheitsbezogenen Arbeitsvorschriften und der Umweltschutzvorschriften. Fähigkeit, einschlägige Verfahren für die Wartung des Fahrzeugs einzusetzen, einschließlich der Fähigkeit, verschiedene Materialien auszuwählen. Fähigkeit, Werkzeuge und Wartungsausrüstung ordnungsgemäß zu warten und zu lagern. Fähigkeit, Wartungsarbeiten gemäß den sicherheitsbezogenen Arbeitsvorschriften und den Umweltschutzvorschriften durchzuführen. Gesundheit und Umwelt bei der Durchführung von Wartungs- und Instandsetzungsarbeiten zu schützen; Kenntnis der anwendbaren Reinigungs- und Konservierungsverfahren sowie der Hygienevorschriften. Fähigkeit, unter Einhaltung der Hygienevorschriften sämtliche Wohnräume und das Steuerhaus zu reinigen sowie den Haushalt ordnungsgemäß zu führen; dies schließt die Übernahme der Verantwortung für den eigenen Wohnraum ein. Fähigkeit, die Maschinenräume und die Maschinen unter Einsatz der erforderlichen Reinigungsmaterialien zu reinigen. Fähigkeit, die äußeren Teile, den Körper und die Decks des Fahrzeugs in der korrekten Reihenfolge unter Einsatz der gemäß den Umweltschutzvorschriften erforderlichen Materialien zu reinigen und zu konservieren. Fähigkeit, für die Entsorgung der Fahrzeug- und Haushaltsabfälle gemäß den Umweltschutzvorschriften zu sorgen. die technischen Geräte gemäß den technischen Anweisungen zu warten; Kenntnis der technischen Anweisungen für Wartung und Wartungsprogramme. Fähigkeit, für sämtliche technische Ausrüstung gemäß den Anweisungen Sorge zu tragen und Wartungsprogramme (auch digitale) unter Aufsicht zu verwenden. sicher mit Drähten und Seilen umzugehen; Kenntnis der Eigenschaften der verschiedenen Arten von Seilen und Drähten. Fähigkeit, diese gemäß den Methoden und Vorschriften für sicheres Arbeiten zu verwenden und zu lagern. Knoten und Spleiße entsprechend ihrem Verwendungszweck anzufertigen und instand zu halten; Kenntnis der Verfahren, die für die Gewährleistung eines sicheren Schleppens und Kuppelns mit den an Bord verfügbaren Mitteln zu befolgen sind. Fähigkeit, Drähte und Seile zu spleißen. Fähigkeit, Knoten entsprechend ihrem Verwendungszweck anzuwenden. Fähigkeit, Drähte und Seile instand zu halten. Arbeitspläne im Team vorzubereiten und umzusetzen und die Ergebnisse zu kontrollieren. Kenntnis der Grundsätze von Teamarbeit. Fähigkeit, als Teammitglied eigenständig Wartungs- und einfache Instandsetzungsarbeiten durchzuführen. Fähigkeit, komplexere Instandsetzungsarbeiten unter Aufsicht durchzuführen. Fähigkeit, verschiedene Arbeitsmethoden, einschließlich Teamarbeit, gemäß den Sicherheitsanweisungen anzuwenden. Fähigkeit, die Qualität von Arbeiten zu beurteilen.
 
-4.
+6. Kommunikation6.1Der Matrose muss in der Lage sein, allgemein und fachgerecht zu kommunizieren; dazu gehört auch die Fähigkeit, im Falle von Kommunikationsproblemen Standardredewendungen zu verwenden.Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Informations- und Kommunikationssysteme zu nutzen;1.Kenntnis der Wechselsprechanlage für die fahrzeuginterne oder die Terminalkommunikation, des (Mobil-)Telefon-, Funk-, (Satelliten-)TV- und Kamerasystems des Fahrzeugs.2.Fähigkeit, das (Mobil-)Telefon-, Funk-, (Satelliten-)TV- und Kamerasystem des Fahrzeugs zu nutzen.3.Kenntnis der Bedienungsgrundlagen des Inland AIS.4.Fähigkeit, Daten des Inland AIS zu nutzen, um Kontakt zu anderen Fahrzeugen aufzunehmen.2.verschiedene Aufgaben mithilfe verschiedener Arten von informationstechnischen Geräten, Informationsdiensten (wie den Binnenschifffahrtsinformationsdiensten (RIS)) und Kommunikationssystemen zu lösen;1.Kenntnis der im Binnenschiffsverkehr verfügbaren informationstechnischen Geräte.2.Fähigkeit, die informationstechnischen Geräte des Fahrzeugs entsprechend den Anweisungen für die Durchführung einfacher Aufgaben zu verwenden.3.Daten zu erfassen und zu speichern sowie Datensicherungen und -aktualisierungen durchzuführen;1.Kenntnis des Kommunikationssystems des Fahrzeugs für die Datenerfassung, -speicherung und -aktualisierung.2.Fähigkeit, Daten unter strenger Aufsicht zu verarbeiten.4.Anweisungen für den Datenschutz zu befolgen;1.Kenntnis der Datenschutz- und Geheimhaltungsvorschriften.2.Fähigkeit, Daten gemäß den Datenschutz- und Geheimhaltungsvorschriften zu verarbeiten.5.Fakten unter Verwendung technischer Begriffe darzulegen;1.Kenntnis der erforderlichen technischen und nautischen Begriffe sowie von Begriffen im Zusammenhang mit sozialen Aspekten in Standardredewendungen.2.Fähigkeit, die erforderlichen technischen und nautischen Begriffe sowie Begriffe im Zusammenhang mit sozialen Aspekten in Standardredewendungen zu verwenden.6.nautische und technische Informationen zur Wahrung der Sicherheit des Schiffsverkehrs einzuholen.1.Kenntnis der verfügbaren Informationsquellen.2.Fähigkeit zur Nutzung von Informationsquellen für das Einholen notwendiger nautischer und technischer Informationen zur Wahrung der Sicherheit des Schiffsverkehrs.6.2Der Matrose muss in der Lage sein, umgänglich zu sein.Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Anweisungen zu befolgen und sich mit anderen über die schiffsinternen Pflichten zu verständigen;1.Kenntnis der Bedeutung von Befehlen der Führung des Fahrzeugs, formellen und informellen Anweisungen, Vorschriften und Verfahren sowie der Bedeutung der eigenen Vorbildfunktion für unerfahrene Besatzungsmitglieder.2.Fähigkeit, Befehle der Führung des Fahrzeugs sowie sonstige Anweisungen und Vorschriften weiterzuverfolgen und unerfahrene Besatzungsmitglieder zu begleiten.3.Kenntnis der Unternehmens- oder Bordvorschriften.4.Fähigkeit zur Einhaltung der Unternehmens- oder Bordvorschriften.2.zu guten sozialen Beziehungen an Bord beizutragen und mit anderen zusammenzuarbeiten;1.Kenntnis der kulturellen Vielfalt.2.Fähigkeit, verschiedene kulturelle Standards, Werte und Gepflogenheiten zu akzeptieren.3.Fähigkeit, im Team zu arbeiten und zu leben.4.Fähigkeit, an Teambesprechungen teilzunehmen und die zugewiesenen Aufgaben auszuführen.5.Wissen um die Bedeutung von Respekt bei Teamarbeit.6.Fähigkeit, geschlechtsbezogene und kulturelle Unterschiede zu respektieren und diesbezügliche Probleme, einschließlich Mobbing und (sexuelle) Belästigung, zu melden.3.soziale Verantwortung zu übernehmen, Beschäftigungsbedingungen, individuelle Rechte und Pflichten zu akzeptieren; sich der Gefahren des Missbrauchs von Alkohol und Drogen bewusst zu sein und auf Fehlverhalten und Gefahren angemessen zu reagieren;1.Fähigkeit, Fehlverhalten und mögliche Gefahren zu erkennen.2.Fähigkeit, auf Fehlverhalten und mögliche Gefahren proaktiv zu reagieren.3.Fähigkeit, eigenständig entsprechend den Anweisungen zu arbeiten.4.Kenntnis der Rechte und Pflichten der einzelnen Arbeitnehmer.5.Kenntnis der Gefahren des Alkohol- und Drogenkonsums im Arbeits- und sozialen Umfeld (Kenntnis der Polizeivorschriften zur Toxikologie).6.Fähigkeit, Gefahren für den sicheren Fahrzeugbetrieb im Zusammenhang mit Alkohol und Drogen zu erkennen.4.einfache Mahlzeiten zu planen, dafür einzukaufen und diese zuzubereiten.1.Kenntnis der Möglichkeiten der Nahrungsmittelbeschaffung und der Grundsätze gesunder Ernährung.2.Fähigkeit, einfache Mahlzeiten unter Einhaltung der Hygienevorschriften zuzubereiten. Der Matrose muss in der Lage sein, allgemein und fachgerecht zu kommunizieren; dazu gehört auch die Fähigkeit, im Falle von Kommunikationsproblemen Standardredewendungen zu verwenden. Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Informations- und Kommunikationssysteme zu nutzen;1.Kenntnis der Wechselsprechanlage für die fahrzeuginterne oder die Terminalkommunikation, des (Mobil-)Telefon-, Funk-, (Satelliten-)TV- und Kamerasystems des Fahrzeugs.2.Fähigkeit, das (Mobil-)Telefon-, Funk-, (Satelliten-)TV- und Kamerasystem des Fahrzeugs zu nutzen.3.Kenntnis der Bedienungsgrundlagen des Inland AIS.4.Fähigkeit, Daten des Inland AIS zu nutzen, um Kontakt zu anderen Fahrzeugen aufzunehmen.2.verschiedene Aufgaben mithilfe verschiedener Arten von informationstechnischen Geräten, Informationsdiensten (wie den Binnenschifffahrtsinformationsdiensten (RIS)) und Kommunikationssystemen zu lösen;1.Kenntnis der im Binnenschiffsverkehr verfügbaren informationstechnischen Geräte.2.Fähigkeit, die informationstechnischen Geräte des Fahrzeugs entsprechend den Anweisungen für die Durchführung einfacher Aufgaben zu verwenden.3.Daten zu erfassen und zu speichern sowie Datensicherungen und -aktualisierungen durchzuführen;1.Kenntnis des Kommunikationssystems des Fahrzeugs für die Datenerfassung, -speicherung und -aktualisierung.2.Fähigkeit, Daten unter strenger Aufsicht zu verarbeiten.4.Anweisungen für den Datenschutz zu befolgen;1.Kenntnis der Datenschutz- und Geheimhaltungsvorschriften.2.Fähigkeit, Daten gemäß den Datenschutz- und Geheimhaltungsvorschriften zu verarbeiten.5.Fakten unter Verwendung technischer Begriffe darzulegen;1.Kenntnis der erforderlichen technischen und nautischen Begriffe sowie von Begriffen im Zusammenhang mit sozialen Aspekten in Standardredewendungen.2.Fähigkeit, die erforderlichen technischen und nautischen Begriffe sowie Begriffe im Zusammenhang mit sozialen Aspekten in Standardredewendungen zu verwenden.6.nautische und technische Informationen zur Wahrung der Sicherheit des Schiffsverkehrs einzuholen.1.Kenntnis der verfügbaren Informationsquellen.2.Fähigkeit zur Nutzung von Informationsquellen für das Einholen notwendiger nautischer und technischer Informationen zur Wahrung der Sicherheit des Schiffsverkehrs. Informations- und Kommunikationssysteme zu nutzen; Kenntnis der Wechselsprechanlage für die fahrzeuginterne oder die Terminalkommunikation, des (Mobil-)Telefon-, Funk-, (Satelliten-)TV- und Kamerasystems des Fahrzeugs. Fähigkeit, das (Mobil-)Telefon-, Funk-, (Satelliten-)TV- und Kamerasystem des Fahrzeugs zu nutzen. Kenntnis der Bedienungsgrundlagen des Inland AIS. Fähigkeit, Daten des Inland AIS zu nutzen, um Kontakt zu anderen Fahrzeugen aufzunehmen. verschiedene Aufgaben mithilfe verschiedener Arten von informationstechnischen Geräten, Informationsdiensten (wie den Binnenschifffahrtsinformationsdiensten (RIS)) und Kommunikationssystemen zu lösen; Kenntnis der im Binnenschiffsverkehr verfügbaren informationstechnischen Geräte. Fähigkeit, die informationstechnischen Geräte des Fahrzeugs entsprechend den Anweisungen für die Durchführung einfacher Aufgaben zu verwenden. Daten zu erfassen und zu speichern sowie Datensicherungen und -aktualisierungen durchzuführen; Kenntnis des Kommunikationssystems des Fahrzeugs für die Datenerfassung, -speicherung und -aktualisierung. Fähigkeit, Daten unter strenger Aufsicht zu verarbeiten. Anweisungen für den Datenschutz zu befolgen; Kenntnis der Datenschutz- und Geheimhaltungsvorschriften. Fähigkeit, Daten gemäß den Datenschutz- und Geheimhaltungsvorschriften zu verarbeiten. Fakten unter Verwendung technischer Begriffe darzulegen; Kenntnis der erforderlichen technischen und nautischen Begriffe sowie von Begriffen im Zusammenhang mit sozialen Aspekten in Standardredewendungen. Fähigkeit, die erforderlichen technischen und nautischen Begriffe sowie Begriffe im Zusammenhang mit sozialen Aspekten in Standardredewendungen zu verwenden. nautische und technische Informationen zur Wahrung der Sicherheit des Schiffsverkehrs einzuholen. Kenntnis der verfügbaren Informationsquellen. Fähigkeit zur Nutzung von Informationsquellen für das Einholen notwendiger nautischer und technischer Informationen zur Wahrung der Sicherheit des Schiffsverkehrs. Der Matrose muss in der Lage sein, umgänglich zu sein. Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Anweisungen zu befolgen und sich mit anderen über die schiffsinternen Pflichten zu verständigen;1.Kenntnis der Bedeutung von Befehlen der Führung des Fahrzeugs, formellen und informellen Anweisungen, Vorschriften und Verfahren sowie der Bedeutung der eigenen Vorbildfunktion für unerfahrene Besatzungsmitglieder.2.Fähigkeit, Befehle der Führung des Fahrzeugs sowie sonstige Anweisungen und Vorschriften weiterzuverfolgen und unerfahrene Besatzungsmitglieder zu begleiten.3.Kenntnis der Unternehmens- oder Bordvorschriften.4.Fähigkeit zur Einhaltung der Unternehmens- oder Bordvorschriften.2.zu guten sozialen Beziehungen an Bord beizutragen und mit anderen zusammenzuarbeiten;1.Kenntnis der kulturellen Vielfalt.2.Fähigkeit, verschiedene kulturelle Standards, Werte und Gepflogenheiten zu akzeptieren.3.Fähigkeit, im Team zu arbeiten und zu leben.4.Fähigkeit, an Teambesprechungen teilzunehmen und die zugewiesenen Aufgaben auszuführen.5.Wissen um die Bedeutung von Respekt bei Teamarbeit.6.Fähigkeit, geschlechtsbezogene und kulturelle Unterschiede zu respektieren und diesbezügliche Probleme, einschließlich Mobbing und (sexuelle) Belästigung, zu melden.3.soziale Verantwortung zu übernehmen, Beschäftigungsbedingungen, individuelle Rechte und Pflichten zu akzeptieren; sich der Gefahren des Missbrauchs von Alkohol und Drogen bewusst zu sein und auf Fehlverhalten und Gefahren angemessen zu reagieren;1.Fähigkeit, Fehlverhalten und mögliche Gefahren zu erkennen.2.Fähigkeit, auf Fehlverhalten und mögliche Gefahren proaktiv zu reagieren.3.Fähigkeit, eigenständig entsprechend den Anweisungen zu arbeiten.4.Kenntnis der Rechte und Pflichten der einzelnen Arbeitnehmer.5.Kenntnis der Gefahren des Alkohol- und Drogenkonsums im Arbeits- und sozialen Umfeld (Kenntnis der Polizeivorschriften zur Toxikologie).6.Fähigkeit, Gefahren für den sicheren Fahrzeugbetrieb im Zusammenhang mit Alkohol und Drogen zu erkennen.4.einfache Mahlzeiten zu planen, dafür einzukaufen und diese zuzubereiten.1.Kenntnis der Möglichkeiten der Nahrungsmittelbeschaffung und der Grundsätze gesunder Ernährung.2.Fähigkeit, einfache Mahlzeiten unter Einhaltung der Hygienevorschriften zuzubereiten. Anweisungen zu befolgen und sich mit anderen über die schiffsinternen Pflichten zu verständigen; Kenntnis der Bedeutung von Befehlen der Führung des Fahrzeugs, formellen und informellen Anweisungen, Vorschriften und Verfahren sowie der Bedeutung der eigenen Vorbildfunktion für unerfahrene Besatzungsmitglieder. Fähigkeit, Befehle der Führung des Fahrzeugs sowie sonstige Anweisungen und Vorschriften weiterzuverfolgen und unerfahrene Besatzungsmitglieder zu begleiten. Kenntnis der Unternehmens- oder Bordvorschriften. Fähigkeit zur Einhaltung der Unternehmens- oder Bordvorschriften. zu guten sozialen Beziehungen an Bord beizutragen und mit anderen zusammenzuarbeiten; Kenntnis der kulturellen Vielfalt. Fähigkeit, verschiedene kulturelle Standards, Werte und Gepflogenheiten zu akzeptieren. Fähigkeit, im Team zu arbeiten und zu leben. Fähigkeit, an Teambesprechungen teilzunehmen und die zugewiesenen Aufgaben auszuführen. Wissen um die Bedeutung von Respekt bei Teamarbeit. Fähigkeit, geschlechtsbezogene und kulturelle Unterschiede zu respektieren und diesbezügliche Probleme, einschließlich Mobbing und (sexuelle) Belästigung, zu melden. soziale Verantwortung zu übernehmen, Beschäftigungsbedingungen, individuelle Rechte und Pflichten zu akzeptieren; sich der Gefahren des Missbrauchs von Alkohol und Drogen bewusst zu sein und auf Fehlverhalten und Gefahren angemessen zu reagieren; Fähigkeit, Fehlverhalten und mögliche Gefahren zu erkennen. Fähigkeit, auf Fehlverhalten und mögliche Gefahren proaktiv zu reagieren. Fähigkeit, eigenständig entsprechend den Anweisungen zu arbeiten. Kenntnis der Rechte und Pflichten der einzelnen Arbeitnehmer. Kenntnis der Gefahren des Alkohol- und Drogenkonsums im Arbeits- und sozialen Umfeld (Kenntnis der Polizeivorschriften zur Toxikologie). Fähigkeit, Gefahren für den sicheren Fahrzeugbetrieb im Zusammenhang mit Alkohol und Drogen zu erkennen. einfache Mahlzeiten zu planen, dafür einzukaufen und diese zuzubereiten. Kenntnis der Möglichkeiten der Nahrungsmittelbeschaffung und der Grundsätze gesunder Ernährung. Fähigkeit, einfache Mahlzeiten unter Einhaltung der Hygienevorschriften zuzubereiten.
 
-5.
-
-6.
-
-2.
-
-1.
-
-2.
-
-3.
-
-4.
-
-3.
-
-1.
-
-2.
-
-3.
-
-4.
-
-1.
-
-2.
-
-5.
-
-1.
-
-2.
-
-6.
-
-1.
-
-2.
-
-3.
-
-7.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-9.
-
-1.
-
-2.
-
-3.
-
-10.
-
-1.
-
-2.
-
-11.
-
-1.
-
-2.
-
-3.
-
-4.
-
-2.1
-
-1.
-
-1.
-
-2.
-
-2.
-
-1.
-
-2.
-
-3.
-
-1.
-
-2.
-
-4.
-
-1.
-
-2.
-
-5.
-
-1.
-
-2.
-
-2.2
-
-1.
-
-1.
-
-2.
-
-3.
-
-2.
-
-1.
-
-2.
-
-3.
-
-3.
-
-1.
-
-2.
-
-3.
-
-3.1
-
-1.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-2.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-3.
-
-1.
-
-2.
-
-3.
-
-4.
-
-1.
-
-2.
-
-5.
-
-1.
-
-2.
-
-3.
-
-4.
-
-6.
-
-1.
-
-2.
-
-3.
-
-4.
-
-3.2
-
-1.
-
-1.
-
-2.
-
-2.
-
-1.
-
-2.
-
-3.
-
-1.
-
-2.
-
-4.
-
-1.
-
-2.
-
-4.1
-
-1.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-2.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-3.
-
-1.
-
-2.
-
-4.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-1.
-
-2.
-
-3.
-
-7.
-
-1.
-
-2.
-
-8.
-
-1.
-
-2.
-
-4.2
-
-1.
-
-1.
-
-2.
-
-2.
-
-1.
-
-2.
-
-3.
-
-1.
-
-2.
-
-4.
-
-1.
-
-2.
-
-5.
-
-1.
-
-2.
-
-5.1
-
-1.
-
-1.
-
-2.
-
-3.
-
-4.
-
-2.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-3.
-
-1.
-
-2.
-
-4.
-
-1.
-
-2.
-
-5.
-
-1.
-
-2.
-
-3.
-
-4.
-
-6.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.1
-
-1.
-
-1.
-
-2.
-
-3.
-
-4.
-
-2.
-
-1.
-
-2.
-
-3.
-
-1.
-
-2.
-
-4.
-
-1.
-
-2.
-
-5.
-
-1.
-
-2.
-
-6.
-
-1.
-
-2.
-
-6.2
-
-1.
-
-1.
-
-2.
-
-3.
-
-4.
-
-2.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-3.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-4.
-
-1.
-
-2.
-
-7.1
-
-1.
-
-1.
-
-2.
-
-3.
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-4.
-
-5.
-
-6.
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-7.
-
-2.
-
-1.
-
-2.
-
-•
-
-•
-
-•
-
-•
-
-•
-
-3.
-
-1.
-
-2.
-
-3.
-
-•
-
-•
-
-•
-
-4.
-
-7.2
-
-1.
-
-1.
-
-2.
-
-3.
-
-4.
-
-2.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-6.
-
-3.
-
-1.
-
-2.
-
-3.
-
-•
-
-•
-
-4.
-
-5.
-
-4.
-
-1.
-
-2.
-
-5.
-
-6.
-
-7.3
-
-1.
-
-1.
-
-2.
-
-3.
-
-2.
-
-1.
-
-2.
-
-•
-
-•
-
-3.
-
-1.
-
-2.
-
-4.
-
-1.
-
-2.
-
-7.4
-
-1.
-
-1.
-
-2.
-
-3.
-
-4.
-
-2.
-
-1.
-
-2.
-
-3.
-
-3.
-
-1.
-
-2.
-
-4.
-
-1.
-
-2.
-
-•
-
-•
-
-•
+7. Gesundheit, Sicherheit und Umweltschutz7.1Der Matrose muss in der Lage sein, sicherheitsbezogene Arbeitsvorschriften einzuhalten und die Bedeutung der Gesundheits- und Sicherheitsvorschriften und die Bedeutung der Umwelt zu verstehen.Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.gemäß den Anweisungen und Vorschriften für Arbeitssicherheit und Unfallverhütung zu arbeiten;1.Kenntnis der Vorteile sicherer Arbeitsmethoden.2.Kenntnis der Arten von Gefahrenmomenten an Bord.3.Fähigkeit, Gefahren im Zusammenhang mit Gefahrenmomenten an Bord zu vermeiden, z. B.: •Fahrzeugbewegungen;•Vorkehrungen für den sicheren Ein- und Ausstieg (z. B. Landungssteg Beiboote);•sicheres Stauen beweglicher Gegenstände;•Arbeiten mit Maschinen;•Erkennen elektrischer Gefahren;•Brandschutz und Brandbekämpfung;•professioneller Gebrauch von Handwerkzeug;•professioneller Gebrauch von tragbarem Elektrowerkzeug;•Einhaltung der Gesundheits- und Hygienevorschriften;•Beseitigung von Rutsch-, Sturz- und Stolpergefahren.4.Kenntnis der einschlägigen gesundheits- und sicherheitsbezogenen Arbeitsanweisungen bei Tätigkeiten an Bord.5.Kenntnis der anwendbaren Vorschriften betreffend sichere und nachhaltige Arbeitsbedingungen.6.Fähigkeit, Unfälle bei für Personal oder Fahrzeug potenziell gefährlichen Tätigkeiten zu vermeiden, im Zusammenhang mit •Be- und Entladung;•Festmachen und Ablegen;•Höhenarbeiten;•Arbeiten mit Chemikalien;•Arbeiten mit Batterien;•Aufenthalt im Maschinenraum;•Heben von Lasten (manuell und mechanisch);•Betreten von und Arbeiten in geschlossenen Räumen.7.Fähigkeit, Befehle zu verstehen und sich mit anderen über die Aufgaben an Bord zu verständigen.2.persönliche Schutzausrüstung zur Unfallverhütung zu benutzen;1.Kenntnis persönlicher Schutzausrüstung.2.Fähigkeit, persönliche Schutzausrüstung zu benutzen, z. B.: •Augenschutz,•Atemschutz,•Gehörschutz,•Kopfschutz,•Schutzkleidung.3.die erforderlichen Vorsichtsmaßnahmen vor dem Betreten geschlossener Räume zu beachten.1.Kenntnis der Gefahren im Zusammenhang mit dem Betreten geschlossener Räume.2.Kenntnis der Vorsichtsmaßnahmen und Tests oder Messungen, die vor dem Betreten geschlossener Räume und bei Arbeiten in geschlossenen Räumen zu beachten bzw. durchzuführen sind.3.Fähigkeit, die Sicherheitsanweisungen vor dem Betreten bestimmter Räume an Bord anzuwenden, z. B.: •Laderäume,•Kofferdämme,•Doppelhülle.4.Fähigkeit, Vorsichtsmaßnahmen für Arbeiten in geschlossenen Räumen zu beachten.7.2Der Matrose muss in der Lage sein, die Bedeutung der Ausbildung zur Sicherheit an Bord zu würdigen und in Notfällen umgehend zu handeln.Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.in Notfällen gemäß den anwendbaren Anweisungen und Verfahren zu handeln;1.Kenntnis der verschiedenen Arten von Notfällen.2.Kenntnis der im Falle eines Alarms zu befolgenden Abläufe.3.Kenntnis der im Falle eines Unfalls anzuwendenden Verfahren.4.Fähigkeit, gemäß den Anweisungen und Verfahren zu handeln.2.Erste Hilfe zu leisten;1.Kenntnis der allgemeinen Grundsätze der Ersten Hilfe, einschließlich der Beurteilung von Körperschäden bzw. der Beeinträchtigung von Körperfunktionen, an Bord eines Fahrzeugs nach Einschätzung einer Situation.2.Fähigkeit, die körperliche und geistige Verfassung sowie die persönliche Hygiene im Falle von Erster Hilfe zu wahren.3.Kenntnis der einschlägigen Maßnahmen bei Unfällen entsprechend den anerkannten bewährten Verfahren.4.Fähigkeit, Erfordernisse der Betroffenen und Bedrohungen für die eigene Sicherheit einzuschätzen.5.Fähigkeit, die in Notfällen erforderlichen Maßnahmen durchzuführen, einschließlich: a)Betroffene in die richtige Lage zu bringen,b)Wiederbelebungstechniken anzuwenden,c)Blutungen zu stillen,d)angemessene Maßnahmen der grundlegenden Schockbehandlung anzuwenden,e)angemessene Maßnahmen im Falle von Verbrennungen und Verbrühungen anzuwenden, einschließlich von durch Strom verursachten Unfällen,f)Betroffene zu retten und zu transportieren.6.Fähigkeit, Verbände provisorisch anzulegen und Material aus der Erste-Hilfe-Ausrüstung anzuwenden.3.persönliche Schutzausrüstung und Rettungsmittel an Bord zu benutzen und instand zu halten;1.Kenntnis der regelmäßigen Überprüfungen der persönlichen Schutzausrüstung, der Fluchtwege und der Rettungsausrüstung in Bezug auf Funktion, Beschädigungen, Verschleiß und sonstige Mängel.2.Fähigkeit, im Falle festgestellter Mängel zu reagieren und dabei die relevanten Kommunikationsverfahren anzuwenden.3.Fähigkeit, persönliche Rettungsmittel zu benutzen, z. B.: •Rettungsringe, einschließlich der relevanten Ausrüstung, und•Rettungswesten, einschließlich der relevanten Ausrüstung an Rettungswesten wie feste Lichter oder Blinklichter und eine mit einer Kordel sicher befestigte Pfeife.4.Kenntnis der Funktionen des Beiboots.5.Fähigkeit, das Beiboot vorzubereiten, zu Wasser zu bringen, zu fahren, wieder an Bord zu nehmen und zu verstauen.4.bei Rettungsarbeiten Unterstützung zu leisten und zu schwimmen;1.Fähigkeit, Betroffene zu retten und zu transportieren.2.Fähigkeit, Schwimmkenntnisse für Rettungsarbeiten einzusetzen.5.Fluchtwege zu benutzen;Fähigkeit, Fluchtwege (entsprechend den lokalen Gegebenheiten an Bord) frei zu halten.6.interne Notfallkommunikations- und Alarmsysteme zu benutzen.Fähigkeit, Notfallkommunikations- und Alarmsysteme sowie -ausrüstung zu benutzen.7.3Der Matrose muss in der Lage sein, Brandschutzmaßnahmen zu ergreifen und Brandbekämpfungsgeräte ordnungsgemäß zu bedienen.Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die Bestandteile von Bränden und Zündarten und -quellen zu unterscheiden;1.Kenntnis der möglichen Brandursachen bei verschiedenen Tätigkeiten sowie der Brandklassen gemäß der europäischen EN-Norm oder einer gleichwertigen Norm.2.Kenntnis der Bestandteile des Verbrennungsprozesses.3.Fähigkeit, die Grundsätze der Brandbekämpfung anzuwenden.2.verschiedene Arten von Feuerlöschern zu benutzen;1.Kenntnis der verschiedenen Merkmale und Klassen von Feuerlöschern.2.Fähigkeit, verschiedene Methoden der Brandbekämpfung und Löschgeräte und feste Löschanlagen unter Berücksichtigung z. B. folgender Aspekte einzusetzen: •Gebrauch verschiedener Arten tragbarer Feuerlöscher und•Auswirkungen des Windes beim Annähern an das Feuer.3.gemäß den an Bord geltenden Verfahren und der Organisation der Brandbekämpfung zu handeln;1.Kenntnis der Brandbekämpfungssysteme an Bord.2.Fähigkeit, Brände zu bekämpfen und die entsprechenden Meldungen vorzunehmen.4.Anweisungen zu befolgen betreffend: persönliche Ausrüstung, Methoden, Löschmittel und Verfahren bei Brandbekämpfung und Rettungsarbeiten.1.Kenntnis der Verfahren zur Vermeidung persönlicher Gefährdungen.2.Fähigkeit, gemäß den Notfallverfahren zu handeln.7.4Der Matrose muss in der Lage sein, seine Aufgaben unter Berücksichtigung der Bedeutung des Umweltschutzes wahrzunehmen.Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die Umwelt gemäß den einschlägigen Vorschriften zu schützen;1.Kenntnis der nationalen und internationalen Umweltschutzvorschriften.2.Fähigkeit, die verfügbaren Dokumentations- und Informationssysteme zu Umweltfragen gemäß den Anweisungen zu nutzen.3.Kenntnis der Folgen eines möglichen Austritts von Ladung und Schadstoffen in die Umwelt.4.Kenntnis gefährlicher Güter und ihrer Klassifizierung in Bezug auf Umweltaspekte.2.Vorsichtsmaßnahmen zur Vermeidung von Umweltverschmutzung zu treffen;1.Kenntnis der allgemeinen Vorsichtsmaßnahmen zur Vermeidung von Umweltverschmutzung.2.Fähigkeit, allgemeine Vorsichtsmaßnahmen zu treffen und sichere Bunkerverfahren anzuwenden.3.Fähigkeit, im Falle eines Zusammenstoßes Maßnahmen gemäß den Anweisungen zu ergreifen, z. B. durch das Abdichten von Leckagen.3.Ressourcen effizient einzusetzen;1.Kenntnis des effizienten Kraftstoffverbrauchs.2.Fähigkeit, Materialien wirtschaftlich und energiesparend einzusetzen.4.Abfälle umweltfreundlich zu entsorgen.1.Kenntnis der anwendbaren Abfallvorschriften.2.Fähigkeit zur Durchführung der Sammlung, Abgabe und des Verbrauchs von: •Fahrzeugölen und -fetten,•Ladungsrückständen und•anderen Arten von Abfallprodukten. Der Matrose muss in der Lage sein, sicherheitsbezogene Arbeitsvorschriften einzuhalten und die Bedeutung der Gesundheits- und Sicherheitsvorschriften und die Bedeutung der Umwelt zu verstehen. Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.gemäß den Anweisungen und Vorschriften für Arbeitssicherheit und Unfallverhütung zu arbeiten;1.Kenntnis der Vorteile sicherer Arbeitsmethoden.2.Kenntnis der Arten von Gefahrenmomenten an Bord.3.Fähigkeit, Gefahren im Zusammenhang mit Gefahrenmomenten an Bord zu vermeiden, z. B.: •Fahrzeugbewegungen;•Vorkehrungen für den sicheren Ein- und Ausstieg (z. B. Landungssteg Beiboote);•sicheres Stauen beweglicher Gegenstände;•Arbeiten mit Maschinen;•Erkennen elektrischer Gefahren;•Brandschutz und Brandbekämpfung;•professioneller Gebrauch von Handwerkzeug;•professioneller Gebrauch von tragbarem Elektrowerkzeug;•Einhaltung der Gesundheits- und Hygienevorschriften;•Beseitigung von Rutsch-, Sturz- und Stolpergefahren.4.Kenntnis der einschlägigen gesundheits- und sicherheitsbezogenen Arbeitsanweisungen bei Tätigkeiten an Bord.5.Kenntnis der anwendbaren Vorschriften betreffend sichere und nachhaltige Arbeitsbedingungen.6.Fähigkeit, Unfälle bei für Personal oder Fahrzeug potenziell gefährlichen Tätigkeiten zu vermeiden, im Zusammenhang mit •Be- und Entladung;•Festmachen und Ablegen;•Höhenarbeiten;•Arbeiten mit Chemikalien;•Arbeiten mit Batterien;•Aufenthalt im Maschinenraum;•Heben von Lasten (manuell und mechanisch);•Betreten von und Arbeiten in geschlossenen Räumen.7.Fähigkeit, Befehle zu verstehen und sich mit anderen über die Aufgaben an Bord zu verständigen.2.persönliche Schutzausrüstung zur Unfallverhütung zu benutzen;1.Kenntnis persönlicher Schutzausrüstung.2.Fähigkeit, persönliche Schutzausrüstung zu benutzen, z. B.: •Augenschutz,•Atemschutz,•Gehörschutz,•Kopfschutz,•Schutzkleidung.3.die erforderlichen Vorsichtsmaßnahmen vor dem Betreten geschlossener Räume zu beachten.1.Kenntnis der Gefahren im Zusammenhang mit dem Betreten geschlossener Räume.2.Kenntnis der Vorsichtsmaßnahmen und Tests oder Messungen, die vor dem Betreten geschlossener Räume und bei Arbeiten in geschlossenen Räumen zu beachten bzw. durchzuführen sind.3.Fähigkeit, die Sicherheitsanweisungen vor dem Betreten bestimmter Räume an Bord anzuwenden, z. B.: •Laderäume,•Kofferdämme,•Doppelhülle.4.Fähigkeit, Vorsichtsmaßnahmen für Arbeiten in geschlossenen Räumen zu beachten. gemäß den Anweisungen und Vorschriften für Arbeitssicherheit und Unfallverhütung zu arbeiten; Kenntnis der Vorteile sicherer Arbeitsmethoden. Kenntnis der Arten von Gefahrenmomenten an Bord. Fähigkeit, Gefahren im Zusammenhang mit Gefahrenmomenten an Bord zu vermeiden, z. B.: •Fahrzeugbewegungen;•Vorkehrungen für den sicheren Ein- und Ausstieg (z. B. Landungssteg Beiboote);•sicheres Stauen beweglicher Gegenstände;•Arbeiten mit Maschinen;•Erkennen elektrischer Gefahren;•Brandschutz und Brandbekämpfung;•professioneller Gebrauch von Handwerkzeug;•professioneller Gebrauch von tragbarem Elektrowerkzeug;•Einhaltung der Gesundheits- und Hygienevorschriften;•Beseitigung von Rutsch-, Sturz- und Stolpergefahren. Fahrzeugbewegungen; Vorkehrungen für den sicheren Ein- und Ausstieg (z. B. Landungssteg Beiboote); sicheres Stauen beweglicher Gegenstände; Arbeiten mit Maschinen; Erkennen elektrischer Gefahren; Brandschutz und Brandbekämpfung; professioneller Gebrauch von Handwerkzeug; professioneller Gebrauch von tragbarem Elektrowerkzeug; Einhaltung der Gesundheits- und Hygienevorschriften; Beseitigung von Rutsch-, Sturz- und Stolpergefahren. Kenntnis der einschlägigen gesundheits- und sicherheitsbezogenen Arbeitsanweisungen bei Tätigkeiten an Bord. Kenntnis der anwendbaren Vorschriften betreffend sichere und nachhaltige Arbeitsbedingungen. Fähigkeit, Unfälle bei für Personal oder Fahrzeug potenziell gefährlichen Tätigkeiten zu vermeiden, im Zusammenhang mit •Be- und Entladung;•Festmachen und Ablegen;•Höhenarbeiten;•Arbeiten mit Chemikalien;•Arbeiten mit Batterien;•Aufenthalt im Maschinenraum;•Heben von Lasten (manuell und mechanisch);•Betreten von und Arbeiten in geschlossenen Räumen. Be- und Entladung; Festmachen und Ablegen; Höhenarbeiten; Arbeiten mit Chemikalien; Arbeiten mit Batterien; Aufenthalt im Maschinenraum; Heben von Lasten (manuell und mechanisch); Betreten von und Arbeiten in geschlossenen Räumen. Fähigkeit, Befehle zu verstehen und sich mit anderen über die Aufgaben an Bord zu verständigen. persönliche Schutzausrüstung zur Unfallverhütung zu benutzen; Kenntnis persönlicher Schutzausrüstung. Fähigkeit, persönliche Schutzausrüstung zu benutzen, z. B.: •Augenschutz,•Atemschutz,•Gehörschutz,•Kopfschutz,•Schutzkleidung. Augenschutz, Atemschutz, Gehörschutz, Kopfschutz, Schutzkleidung. die erforderlichen Vorsichtsmaßnahmen vor dem Betreten geschlossener Räume zu beachten. Kenntnis der Gefahren im Zusammenhang mit dem Betreten geschlossener Räume. Kenntnis der Vorsichtsmaßnahmen und Tests oder Messungen, die vor dem Betreten geschlossener Räume und bei Arbeiten in geschlossenen Räumen zu beachten bzw. durchzuführen sind. Fähigkeit, die Sicherheitsanweisungen vor dem Betreten bestimmter Räume an Bord anzuwenden, z. B.: •Laderäume,•Kofferdämme,•Doppelhülle. Laderäume, Kofferdämme, Doppelhülle. Fähigkeit, Vorsichtsmaßnahmen für Arbeiten in geschlossenen Räumen zu beachten. Der Matrose muss in der Lage sein, die Bedeutung der Ausbildung zur Sicherheit an Bord zu würdigen und in Notfällen umgehend zu handeln. Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.in Notfällen gemäß den anwendbaren Anweisungen und Verfahren zu handeln;1.Kenntnis der verschiedenen Arten von Notfällen.2.Kenntnis der im Falle eines Alarms zu befolgenden Abläufe.3.Kenntnis der im Falle eines Unfalls anzuwendenden Verfahren.4.Fähigkeit, gemäß den Anweisungen und Verfahren zu handeln.2.Erste Hilfe zu leisten;1.Kenntnis der allgemeinen Grundsätze der Ersten Hilfe, einschließlich der Beurteilung von Körperschäden bzw. der Beeinträchtigung von Körperfunktionen, an Bord eines Fahrzeugs nach Einschätzung einer Situation.2.Fähigkeit, die körperliche und geistige Verfassung sowie die persönliche Hygiene im Falle von Erster Hilfe zu wahren.3.Kenntnis der einschlägigen Maßnahmen bei Unfällen entsprechend den anerkannten bewährten Verfahren.4.Fähigkeit, Erfordernisse der Betroffenen und Bedrohungen für die eigene Sicherheit einzuschätzen.5.Fähigkeit, die in Notfällen erforderlichen Maßnahmen durchzuführen, einschließlich: a)Betroffene in die richtige Lage zu bringen,b)Wiederbelebungstechniken anzuwenden,c)Blutungen zu stillen,d)angemessene Maßnahmen der grundlegenden Schockbehandlung anzuwenden,e)angemessene Maßnahmen im Falle von Verbrennungen und Verbrühungen anzuwenden, einschließlich von durch Strom verursachten Unfällen,f)Betroffene zu retten und zu transportieren.6.Fähigkeit, Verbände provisorisch anzulegen und Material aus der Erste-Hilfe-Ausrüstung anzuwenden.3.persönliche Schutzausrüstung und Rettungsmittel an Bord zu benutzen und instand zu halten;1.Kenntnis der regelmäßigen Überprüfungen der persönlichen Schutzausrüstung, der Fluchtwege und der Rettungsausrüstung in Bezug auf Funktion, Beschädigungen, Verschleiß und sonstige Mängel.2.Fähigkeit, im Falle festgestellter Mängel zu reagieren und dabei die relevanten Kommunikationsverfahren anzuwenden.3.Fähigkeit, persönliche Rettungsmittel zu benutzen, z. B.: •Rettungsringe, einschließlich der relevanten Ausrüstung, und•Rettungswesten, einschließlich der relevanten Ausrüstung an Rettungswesten wie feste Lichter oder Blinklichter und eine mit einer Kordel sicher befestigte Pfeife.4.Kenntnis der Funktionen des Beiboots.5.Fähigkeit, das Beiboot vorzubereiten, zu Wasser zu bringen, zu fahren, wieder an Bord zu nehmen und zu verstauen.4.bei Rettungsarbeiten Unterstützung zu leisten und zu schwimmen;1.Fähigkeit, Betroffene zu retten und zu transportieren.2.Fähigkeit, Schwimmkenntnisse für Rettungsarbeiten einzusetzen.5.Fluchtwege zu benutzen;Fähigkeit, Fluchtwege (entsprechend den lokalen Gegebenheiten an Bord) frei zu halten.6.interne Notfallkommunikations- und Alarmsysteme zu benutzen.Fähigkeit, Notfallkommunikations- und Alarmsysteme sowie -ausrüstung zu benutzen. in Notfällen gemäß den anwendbaren Anweisungen und Verfahren zu handeln; Kenntnis der verschiedenen Arten von Notfällen. Kenntnis der im Falle eines Alarms zu befolgenden Abläufe. Kenntnis der im Falle eines Unfalls anzuwendenden Verfahren. Fähigkeit, gemäß den Anweisungen und Verfahren zu handeln. Erste Hilfe zu leisten; Kenntnis der allgemeinen Grundsätze der Ersten Hilfe, einschließlich der Beurteilung von Körperschäden bzw. der Beeinträchtigung von Körperfunktionen, an Bord eines Fahrzeugs nach Einschätzung einer Situation. Fähigkeit, die körperliche und geistige Verfassung sowie die persönliche Hygiene im Falle von Erster Hilfe zu wahren. Kenntnis der einschlägigen Maßnahmen bei Unfällen entsprechend den anerkannten bewährten Verfahren. Fähigkeit, Erfordernisse der Betroffenen und Bedrohungen für die eigene Sicherheit einzuschätzen. Fähigkeit, die in Notfällen erforderlichen Maßnahmen durchzuführen, einschließlich: a)Betroffene in die richtige Lage zu bringen,b)Wiederbelebungstechniken anzuwenden,c)Blutungen zu stillen,d)angemessene Maßnahmen der grundlegenden Schockbehandlung anzuwenden,e)angemessene Maßnahmen im Falle von Verbrennungen und Verbrühungen anzuwenden, einschließlich von durch Strom verursachten Unfällen,f)Betroffene zu retten und zu transportieren. Betroffene in die richtige Lage zu bringen, Wiederbelebungstechniken anzuwenden, Blutungen zu stillen, angemessene Maßnahmen der grundlegenden Schockbehandlung anzuwenden, angemessene Maßnahmen im Falle von Verbrennungen und Verbrühungen anzuwenden, einschließlich von durch Strom verursachten Unfällen, Betroffene zu retten und zu transportieren. Fähigkeit, Verbände provisorisch anzulegen und Material aus der Erste-Hilfe-Ausrüstung anzuwenden. persönliche Schutzausrüstung und Rettungsmittel an Bord zu benutzen und instand zu halten; Kenntnis der regelmäßigen Überprüfungen der persönlichen Schutzausrüstung, der Fluchtwege und der Rettungsausrüstung in Bezug auf Funktion, Beschädigungen, Verschleiß und sonstige Mängel. Fähigkeit, im Falle festgestellter Mängel zu reagieren und dabei die relevanten Kommunikationsverfahren anzuwenden. Fähigkeit, persönliche Rettungsmittel zu benutzen, z. B.: •Rettungsringe, einschließlich der relevanten Ausrüstung, und•Rettungswesten, einschließlich der relevanten Ausrüstung an Rettungswesten wie feste Lichter oder Blinklichter und eine mit einer Kordel sicher befestigte Pfeife. Rettungsringe, einschließlich der relevanten Ausrüstung, und Rettungswesten, einschließlich der relevanten Ausrüstung an Rettungswesten wie feste Lichter oder Blinklichter und eine mit einer Kordel sicher befestigte Pfeife. Kenntnis der Funktionen des Beiboots. Fähigkeit, das Beiboot vorzubereiten, zu Wasser zu bringen, zu fahren, wieder an Bord zu nehmen und zu verstauen. bei Rettungsarbeiten Unterstützung zu leisten und zu schwimmen; Fähigkeit, Betroffene zu retten und zu transportieren. Fähigkeit, Schwimmkenntnisse für Rettungsarbeiten einzusetzen. Fluchtwege zu benutzen; interne Notfallkommunikations- und Alarmsysteme zu benutzen. Der Matrose muss in der Lage sein, Brandschutzmaßnahmen zu ergreifen und Brandbekämpfungsgeräte ordnungsgemäß zu bedienen. Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die Bestandteile von Bränden und Zündarten und -quellen zu unterscheiden;1.Kenntnis der möglichen Brandursachen bei verschiedenen Tätigkeiten sowie der Brandklassen gemäß der europäischen EN-Norm oder einer gleichwertigen Norm.2.Kenntnis der Bestandteile des Verbrennungsprozesses.3.Fähigkeit, die Grundsätze der Brandbekämpfung anzuwenden.2.verschiedene Arten von Feuerlöschern zu benutzen;1.Kenntnis der verschiedenen Merkmale und Klassen von Feuerlöschern.2.Fähigkeit, verschiedene Methoden der Brandbekämpfung und Löschgeräte und feste Löschanlagen unter Berücksichtigung z. B. folgender Aspekte einzusetzen: •Gebrauch verschiedener Arten tragbarer Feuerlöscher und•Auswirkungen des Windes beim Annähern an das Feuer.3.gemäß den an Bord geltenden Verfahren und der Organisation der Brandbekämpfung zu handeln;1.Kenntnis der Brandbekämpfungssysteme an Bord.2.Fähigkeit, Brände zu bekämpfen und die entsprechenden Meldungen vorzunehmen.4.Anweisungen zu befolgen betreffend: persönliche Ausrüstung, Methoden, Löschmittel und Verfahren bei Brandbekämpfung und Rettungsarbeiten.1.Kenntnis der Verfahren zur Vermeidung persönlicher Gefährdungen.2.Fähigkeit, gemäß den Notfallverfahren zu handeln. die Bestandteile von Bränden und Zündarten und -quellen zu unterscheiden; Kenntnis der möglichen Brandursachen bei verschiedenen Tätigkeiten sowie der Brandklassen gemäß der europäischen EN-Norm oder einer gleichwertigen Norm. Kenntnis der Bestandteile des Verbrennungsprozesses. Fähigkeit, die Grundsätze der Brandbekämpfung anzuwenden. verschiedene Arten von Feuerlöschern zu benutzen; Kenntnis der verschiedenen Merkmale und Klassen von Feuerlöschern. Fähigkeit, verschiedene Methoden der Brandbekämpfung und Löschgeräte und feste Löschanlagen unter Berücksichtigung z. B. folgender Aspekte einzusetzen: •Gebrauch verschiedener Arten tragbarer Feuerlöscher und•Auswirkungen des Windes beim Annähern an das Feuer. Gebrauch verschiedener Arten tragbarer Feuerlöscher und Auswirkungen des Windes beim Annähern an das Feuer. gemäß den an Bord geltenden Verfahren und der Organisation der Brandbekämpfung zu handeln; Kenntnis der Brandbekämpfungssysteme an Bord. Fähigkeit, Brände zu bekämpfen und die entsprechenden Meldungen vorzunehmen. Anweisungen zu befolgen betreffend: persönliche Ausrüstung, Methoden, Löschmittel und Verfahren bei Brandbekämpfung und Rettungsarbeiten. Kenntnis der Verfahren zur Vermeidung persönlicher Gefährdungen. Fähigkeit, gemäß den Notfallverfahren zu handeln. Der Matrose muss in der Lage sein, seine Aufgaben unter Berücksichtigung der Bedeutung des Umweltschutzes wahrzunehmen. Der Matrose muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die Umwelt gemäß den einschlägigen Vorschriften zu schützen;1.Kenntnis der nationalen und internationalen Umweltschutzvorschriften.2.Fähigkeit, die verfügbaren Dokumentations- und Informationssysteme zu Umweltfragen gemäß den Anweisungen zu nutzen.3.Kenntnis der Folgen eines möglichen Austritts von Ladung und Schadstoffen in die Umwelt.4.Kenntnis gefährlicher Güter und ihrer Klassifizierung in Bezug auf Umweltaspekte.2.Vorsichtsmaßnahmen zur Vermeidung von Umweltverschmutzung zu treffen;1.Kenntnis der allgemeinen Vorsichtsmaßnahmen zur Vermeidung von Umweltverschmutzung.2.Fähigkeit, allgemeine Vorsichtsmaßnahmen zu treffen und sichere Bunkerverfahren anzuwenden.3.Fähigkeit, im Falle eines Zusammenstoßes Maßnahmen gemäß den Anweisungen zu ergreifen, z. B. durch das Abdichten von Leckagen.3.Ressourcen effizient einzusetzen;1.Kenntnis des effizienten Kraftstoffverbrauchs.2.Fähigkeit, Materialien wirtschaftlich und energiesparend einzusetzen.4.Abfälle umweltfreundlich zu entsorgen.1.Kenntnis der anwendbaren Abfallvorschriften.2.Fähigkeit zur Durchführung der Sammlung, Abgabe und des Verbrauchs von: •Fahrzeugölen und -fetten,•Ladungsrückständen und•anderen Arten von Abfallprodukten. die Umwelt gemäß den einschlägigen Vorschriften zu schützen; Kenntnis der nationalen und internationalen Umweltschutzvorschriften. Fähigkeit, die verfügbaren Dokumentations- und Informationssysteme zu Umweltfragen gemäß den Anweisungen zu nutzen. Kenntnis der Folgen eines möglichen Austritts von Ladung und Schadstoffen in die Umwelt. Kenntnis gefährlicher Güter und ihrer Klassifizierung in Bezug auf Umweltaspekte. Vorsichtsmaßnahmen zur Vermeidung von Umweltverschmutzung zu treffen; Kenntnis der allgemeinen Vorsichtsmaßnahmen zur Vermeidung von Umweltverschmutzung. Fähigkeit, allgemeine Vorsichtsmaßnahmen zu treffen und sichere Bunkerverfahren anzuwenden. Fähigkeit, im Falle eines Zusammenstoßes Maßnahmen gemäß den Anweisungen zu ergreifen, z. B. durch das Abdichten von Leckagen. Ressourcen effizient einzusetzen; Kenntnis des effizienten Kraftstoffverbrauchs. Fähigkeit, Materialien wirtschaftlich und energiesparend einzusetzen. Abfälle umweltfreundlich zu entsorgen. Kenntnis der anwendbaren Abfallvorschriften. Fähigkeit zur Durchführung der Sammlung, Abgabe und des Verbrauchs von: •Fahrzeugölen und -fetten,•Ladungsrückständen und•anderen Arten von Abfallprodukten. Fahrzeugölen und -fetten, Ladungsrückständen und anderen Arten von Abfallprodukten.
 
 ### Anlage 9 — (zu § 38 Absatz 1, Absatz 4 Satz 1 Nummer 2)
 
-–
+0. Aufsicht Der Schiffsführer muss in der Lage sein, gemäß Abschnitt 1 des Anhangs II der Richtlinie (EU) 2017/2397 anderen Mitgliedern der Decksmannschaft Anweisungen zu erteilen und die von ihnen ausgeführten Aufgaben zu überwachen, was ausreichende Fähigkeiten zur Ausführung dieser Aufgaben voraussetzt. Personen, die die Befähigung als Schiffsführer erlangen möchten, müssen die in den folgenden Abschnitten 0.1 bis 7.4 aufgeführten Befähigungen nachweisen, es sei denn, sie haben einen der folgenden Schritte durchgeführt: –ein zugelassenes Ausbildungsprogramm absolviert, das auf den Befähigungsstandards für die Betriebsebene beruht;–eine Beurteilung ihrer Befähigung bei einer Verwaltungsbehörde bestanden, in deren Rahmen überprüft wurde, dass die Befähigungsstandards für die Betriebsebene erfüllt sind. ein zugelassenes Ausbildungsprogramm absolviert, das auf den Befähigungsstandards für die Betriebsebene beruht; eine Beurteilung ihrer Befähigung bei einer Verwaltungsbehörde bestanden, in deren Rahmen überprüft wurde, dass die Befähigungsstandards für die Betriebsebene erfüllt sind. 0.1NavigationDer Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.das Festmachen, Ablegen und Verholen (Schleppen) vorzuführen;1.Kenntnis der eingesetzten Ausrüstung, Materialien und Verfahren für das Festmachen, Ablegen und Verholen (Schleppen).2.Fähigkeit, die an Bord verfügbaren Materialien wie Winden, Poller, Seile und Drähte unter Berücksichtigung der relevanten Arbeitssicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen.3.Fähigkeit, mit dem Steuerhaus unter Verwendung von internen Wechselsprechanlagen sowie Handzeichen zu kommunizieren.4.Kenntnis der Auswirkungen der Wasserbewegungen um das Fahrzeug und lokaler Effekte auf die Fahrbedingungen, einschließlich der Auswirkungen von Trimmung und flachem Wasser im Zusammenhang mit dem Tiefgang des Fahrzeugs.5.Kenntnis der beim Manövrieren auf das Fahrzeug einwirkenden Wasserbewegungen, einschließlich der Wechselwirkungen zwischen zwei Fahrzeugen beim Vorbeifahren oder Überholen in engem Fahrwasser sowie der Wechselwirkungen zwischen einem längsseits festgemachten Fahrzeug und einem anderen in geringem Abstand im Fahrwasser vorbeifahrenden Fahrzeug.2.das Kuppeln von Schubverbänden vorzuführen;1.Kenntnis der für das Kuppeln eingesetzten Ausrüstung, Materialien und Verfahren.2.Fähigkeit, Schubverbände unter Einsatz der erforderlichen Ausrüstung und Materialen zu kuppeln und zu entkuppeln.3.Fähigkeit, die an Bord für das Kuppeln verfügbare Ausrüstung und ver fügbaren Materialien unter Berücksichtigung der relevanten Arbeitssicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen.4.Fähigkeit, mit den am Kuppeln von Schubverbänden beteiligten Besatzungsmitgliedern zu kommunizieren.3.das Ankern vorzuführen;1.Kenntnis der für das Ankern eingesetzten Ausrüstung, Materialien und Verfahren.2.Fähigkeit, Ankermanöver vorzuführen: die Ankerausrüstung für das Ankern vorzubereiten, den Anker fallen zu lassen, ausreichend Trosse oder Kette zu geben, um zunächst zu fieren, zu bestimmen, wann der Anker das Fahrzeug in seiner Position hält (Ankerpeilung), die Anker nach Abschluss des Ankervorgangs zu sichern, in verschiedenen Manövern Treibanker zu benutzen und mit den Ankerzeichen umzugehen.3.Fähigkeit, die an Bord für das Ankern verfügbare Ausrüstung und verfügbaren Materialien unter Berücksichtigung der relevanten Arbeitssicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen.4.Fähigkeit, mit dem Steuerhaus unter Verwendung von internen Wechselsprechanlagen sowie Handzeichen zu kommunizieren.4.angemessene Maßnahmen für die Sicherheit des Schiffsverkehrs zu ergreifen;1.Fähigkeit, die Besatzung des Fahrzeugs umgehend zu warnen und persönliche Schutz- und Rettungsausrüstung zu benutzen.2.Fähigkeit, die Wasserdichtigkeit des Fahrzeugs sicherzustellen.3.Fähigkeit, Arbeiten gemäß der Prüfliste an Deck und in den Aufenthaltsräumen vor- und durchzuführen, wie die Wasserabdichtung und Sicherung von Luken und Laderäumen.5.die verschiedenen Arten von Schleusen und Brücken in Bezug auf ihren Betrieb zu beschreiben;1.Kenntnisse über Form, Anordnung und Einrichtungen von Schleusen und Brücken, Schleusung, Arten von Schleusentoren, Pollern und Stufen usw.2.Fähigkeit, den Mitgliedern der Decksmannschaft die anwendbaren Verfahren beim Durchfahren von Schleusen, Wehren und Brücken zu erklären und vorzuführen.6.die allgemeinen Bestimmungen, Signale, Zeichen und Kennzeichnungssysteme zu beachten.1.Kenntnis der für die jeweilige Binnenwasserstraße geltenden Polizeivorschriften.2.Fähigkeit, das Tag- und Nachtkennzeichnungssystem, die Zeichen und Schallzeichen des Fahrzeugs zu bedienen und zu warten.3.Kenntnis des Kennzeichnungssystems gemäß SIGNI (Signalisation des voies de navigation intérieure) und IALA (International Association of Marine Aids to Navigation and Lighthouse Authorities) Teil A.0.2Betrieb des FahrzeugsDer Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.verschiedene Arten von Fahrzeugen zu unterscheiden;1.Kenntnis der häufigsten Arten der in der europäischen Binnenschifffahrt eingesetzten Fahrzeuge, einschließlich Verbände, und ihrer jeweiligen Konstruktion, Abmessungen und Tonnage.2.Fähigkeit, die Merkmale der häufigsten Arten der in der europäischen Binnenschifffahrt eingesetzten Fahrzeuge, einschließlich Verbände, zu erläutern.2.die Kenntnisse über die für den Fahrzeugbetrieb erforderlichen Dokumente anzuwenden.1.Kenntnis der vorgeschriebenen Fahrzeugdokumente.2.Fähigkeit, die Bedeutung der Dokumente im Zusammenhang mit internationalen und nationalen Anforderungen und Rechtsvorschriften zu erläutern.0.3Ladungsumschlag, Ladungsstauung und FahrgastbeförderungDer Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die Kennzeichnung gemäß dem Europäischen Übereinkommen über die internationale Beförderung gefährlicher Güter auf Binnenwasserstraßen (ADN) und die Verfahren für die Sicherheit der Fahrgastbeförderung zu erklären;1.Fähigkeit, die Kennzeichnung gefährlicher Güter gemäß ADN zu erklären.2.Fähigkeit, die Verfahren für die Sicherheit der Fahrgastbeförderung zu erklären, einschließlich der Anwendung der Verordnung (EU) Nr. 1177/2010.3.Fähigkeit, mit Fahrgästen effektiv zu kommunizieren.2.den Einsatz von Ballastsystemen zu erklären und vorzuführen;1.Kenntnis der Funktion und des Einsatzes von Ballastsystemen.2.Fähigkeit, den Einsatz des Ballastsystems, z. B. durch die Befüllung oder Entleerung der Ballasttanks, zu erklären.3.die Ladungsmenge zu überprüfen.1.Kenntnis der manuellen und technischen Verfahren zur Bestimmung des Ladungsgewichts auf verschiedenen Arten von Fahrzeugen.2.Fähigkeit, Verfahren zur Bestimmung der Menge geladener oder gelöschter Ladung anzuwenden.3.Fähigkeit, die Menge flüssiger Ladung unter Verwendung von Sondierungen und/oder Tanktabellen zu berechnen.0.4Schiffsbetriebstechnik und Elektrotechnik, Elektronik und LeittechnikDer Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die Maschinen, einschließlich Pumpen, Rohrleitungssystemen, Bilge- und Ballastsystemen, zu bedienen;1.Kenntnis der für den sicheren Betrieb der Maschinen und des Bilge- und Ballastsystems zu befolgenden Verfahren sowie der ordnungsgemäßen Abfallentsorgung.2.Fähigkeit, die Maschinen im Maschinenraum entsprechend den Verfahren zu betreiben und zu steuern.3.Fähigkeit, die sichere Funktion, Betriebsweise und Instandhaltung des Bilge- und Ballastsystems zu erklären, einschließlich Meldung von Zwischenfällen im Zusammenhang mit Umpumpvorgängen und Fähigkeit, Tankfüllstände korrekt zu messen und zu melden.4.Fähigkeit, das Abschalten der Maschinen nach dem Einsatz vorzubereiten und durchzuführen.5.Fähigkeit, Bilge-, Ballast- und Ladungspumpensysteme zu bedienen.6.Fähigkeit, die Notwendigkeit einer ordnungsgemäßen und sicheren Sammlung, Lagerung und Abgabe von Abfällen zu erklären.7.Fähigkeit, die hydraulischen und pneumatischen Systeme zu benutzen.2.die Generatoren vorzubereiten, einzuschalten, anzuschließen und zu wechseln und ihre Systeme und den Landanschluss zu überprüfen;1.Kenntnis der Kraftanlage.2.Fähigkeit, die Schalttafel zu benutzen.3.Fähigkeit, den Landanschluss zu benutzen.3.die erforderlichen Werkzeuge und Materialien zu verwenden;1.Kenntnis der Eigenschaften und Grenzen der zur Wartung und Instandsetzung von Maschinen und Ausrüstung eingesetzten Prozesse, Materialien und Werkzeuge.2.Fähigkeit, sichere Arbeitsverfahren anzuwenden.4.die täglichen Wartungsarbeiten an den Hauptmotoren, Hilfsmaschinen und Regelungs- und Steuerungsanlagen durchzuführen;Fähigkeit, Maschinenraum, Hauptmotoren, Hauptmaschinen und Hilfsmaschinen und Regelungs- und Steuerungsanlagen zu warten und instand zu halten.5.die täglichen Wartungsarbeiten an den Maschinen, einschließlich Pumpen, Rohrleitungssystemen, Bilge- und Ballastsystemen, durchzuführen.Fähigkeit, Pumpen, Rohrleitungssysteme, Bilge- und Ballastsysteme zu warten und instand zu halten.0.5Wartung und InstandsetzungDer Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Gesundheit und Umwelt bei der Durchführung von Wartungs- und Instandsetzungsarbeiten zu schützen;1.Kenntnis der anwendbaren Reinigungs- und Konservierungsverfahren sowie der Hygienevorschriften.2.Fähigkeit, unter Einhaltung der Hygienevorschriften sämtliche Wohnräume und das Steuerhaus zu reinigen sowie den Haushalt ordnungsgemäß zu führen; dies schließt die Verantwortung für den eigenen Wohnraum ein.3.Fähigkeit, die Maschinenräume und die Maschinen unter Einsatz der geeigneten Reinigungsmaterialien zu reinigen.4.Fähigkeit, die äußeren Teile, den Körper und die Decks des Fahrzeugs in der korrekten Reihenfolge unter Einsatz der gemäß den Umweltvorschriften geeigneten Materialien zu reinigen und zu konservieren.5.Fähigkeit, für die Entsorgung der Fahrzeug- und Haushaltsabfälle gemäß den Umweltvorschriften zu sorgen.2.die technischen Geräte gemäß den technischen Anweisungen zu warten;1.Kenntnis der technischen Anweisungen für Wartungs- und Instandsetzungsprogramme.2.Fähigkeit, sämtliche technische Ausrüstung gemäß den technischen Anweisungen zu warten und instand zu halten.3.Fähigkeit, die Wartungsprogramme (auch digitale) unter Aufsicht zu verwenden.3.sicher mit Drähten und Seilen umzugehen;1.Kenntnis der Eigenschaften der verschiedenen Arten von Seilen und Drähten.2.Fähigkeit, diese gemäß den Methoden und Vorschriften für sicheres Arbeiten zu verwenden und zu lagern.4.Knoten und Spleiße entsprechend ihrem Verwendungszweck anzufertigen und instand zu halten.1.Kenntnis der Verfahren, die für die Gewährleistung eines sicheren Schleppens und Kuppelns mit den an Bord verfügbaren Mitteln zu befolgen sind.2.Fähigkeit, Drähte und Seile zu spleißen.3.Fähigkeit, Knoten entsprechend ihrem Verwendungszweck anzuwenden.4.Fähigkeit, Drähte und Seile instand zu halten.0.6KommunikationDer Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Fakten unter Verwendung technischer Begriffe darzulegen.1.Kenntnis der erforderlichen technischen und nautischen Begriffe sowie von Begriffen im Zusammenhang mit sozialen Aspekten in Standardredewendungen.2.Fähigkeit, die erforderlichen technischen und nautischen Begriffe sowie Begriffe im Zusammenhang mit sozialen Aspekten in Standardredewendungen zu verwenden.0.7Gesundheit, Sicherheit und UmweltschutzDer Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die Vorschriften für Arbeitssicherheit und Unfallverhütung anzuwenden;1.Kenntnis sicherer Arbeitsmethoden.2.Kenntnis der Arten von Gefahrenmomenten an Bord.3.Fähigkeit, Gefahren im Zusammenhang mit Gefahrenmomenten an Bord vermeiden, z. B.: •Fahrzeugbewegungen,•Vorkehrungen für den sicheren Ein- und Ausstieg (z. B. Landungssteg Beiboote),•sicheres Stauen beweglicher Gegenstände,•Arbeiten mit Maschinen,•Erkennen elektrischer Gefahren,•Brandschutz und Brandbekämpfung,•professioneller Gebrauch von Handwerkzeug,•professioneller Gebrauch von tragbarem Elektrowerkzeug,•Einhaltung der Gesundheits- und Hygienevorschriften,•Beseitigung von Rutsch-, Sturz- und Stolpergefahren.4.Kenntnis der einschlägigen gesundheits- und sicherheitsbezogenen Arbeitsanweisungen bei Tätigkeiten an Bord.5.Kenntnis der anwendbaren Vorschriften betreffend sichere und nachhaltige Arbeitsbedingungen.6.Fähigkeit, für Personal oder Fahrzeug potenziell gefährliche Tätigkeiten verhindern, z. B.: •Be- und Entladung,•Festmachen und Ablegen,•Höhenarbeiten,•Arbeiten mit Chemikalien,•Arbeiten mit Batterien,•während des Aufenthalts im Maschinenraum,•Heben von Lasten (manuell und mechanisch),•Betreten von und Arbeiten in geschlossenen Räumen.2.persönliche Schutzausrüstung zur Unfallverhütung zu benutzen;1.Kenntnis der Verfahren für die Benutzung der erforderlichen Ausrüstung für Arbeitssicherheit an Bord.2.Fähigkeit, persönliche Schutzausrüstung zu benutzen, z. B.: •Augenschutz,•Atemschutz,•Gehörschutz,•Kopfschutz,•Schutzkleidung.3.bei Rettungsarbeiten zu schwimmen und Unterstützung zu leisten;1.Fähigkeit, Schwimmkenntnisse für Rettungsarbeiten einzusetzen.2.Fähigkeit, Rettungsausrüstung bei Rettungsarbeiten zu benutzen.3.Fähigkeit, Betroffene zu retten und zu transportieren.4.Fluchtwege zu benutzen;1.Kenntnis der bei einer Evakuierung zu befolgenden Verfahren (entsprechend den lokalen Gegebenheiten an Bord).2.Fähigkeit, Fluchtwege frei zu halten.5.interne Notfallkommunikations- und Alarmsysteme zu benutzen;Fähigkeit, Notfallkommunikations- und Alarmsysteme sowie -ausrüstung zu benutzen.6.die Bestandteile von Bränden und Zündarten und -quellen zu unterscheiden;1.Kenntnis der möglichen Brandursachen bei verschiedenen Tätigkeiten sowie der Brandklassen gemäß der Europäischen Norm (EN) oder einer gleichwertigen Norm.2.Kenntnis der Bestandteile des Verbrennungsprozesses.3.Fähigkeit, die Grundsätze der Brandbekämpfung anzuwenden.7.verschiedene Arten von Feuerlöschern zu unterscheiden und zu benutzen;1.Kenntnis der verschiedenen Merkmale und Klassen von Feuerlöschern.2.Fähigkeit, verschiedene Methoden der Brandbekämpfung und Löschgeräte und feste Löschanlagen anzuwenden, z. B.: •Klassen von Feuerlöschern,•Gebrauch verschiedener Arten tragbarer Feuerlöscher,•Auswirkungen des Windes beim Annähern an das Feuer.8.Erste Hilfe zu leisten.1.Kenntnis der allgemeinen Grundsätze der Ersten Hilfe, einschließlich der Beurteilung von Körperschäden bzw. der Beeinträchtigung von Körperfunktionen, an Bord eines Fahrzeugs nach Einschätzung einer Situation.2.Fähigkeit, die körperliche und geistige Verfassung sowie die persönliche Hygiene im Falle von Erster Hilfe zu wahren.3.Kenntnis der einschlägigen Maßnahmen bei Unfällen entsprechend den anerkannten bewährten Verfahren.4.Fähigkeit, Erfordernisse der Betroffenen und Bedrohungen für die eigene Sicherheit einzuschätzen.5.Fähigkeit, die in Notfällen erforderlichen Maßnahmen durchzuführen, einschließlich: a)Betroffene in die richtige Lage zu bringen,b)Wiederbelebungstechniken anzuwenden,c)Blutungen zu stillen,d)angemessene Maßnahmen der grundlegenden Schockbehandlung anzuwenden,e)angemessene Maßnahmen im Falle von Verbrennungen und Verbrühungen anzuwenden, einschließlich von durch Strom verursachten Unfällen,f)Betroffene zu retten und zu transportieren.6.Fähigkeit, Verbände provisorisch anzulegen und Material aus der Erste-Hilfe-Ausrüstung anzuwenden. Navigation Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.das Festmachen, Ablegen und Verholen (Schleppen) vorzuführen;1.Kenntnis der eingesetzten Ausrüstung, Materialien und Verfahren für das Festmachen, Ablegen und Verholen (Schleppen).2.Fähigkeit, die an Bord verfügbaren Materialien wie Winden, Poller, Seile und Drähte unter Berücksichtigung der relevanten Arbeitssicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen.3.Fähigkeit, mit dem Steuerhaus unter Verwendung von internen Wechselsprechanlagen sowie Handzeichen zu kommunizieren.4.Kenntnis der Auswirkungen der Wasserbewegungen um das Fahrzeug und lokaler Effekte auf die Fahrbedingungen, einschließlich der Auswirkungen von Trimmung und flachem Wasser im Zusammenhang mit dem Tiefgang des Fahrzeugs.5.Kenntnis der beim Manövrieren auf das Fahrzeug einwirkenden Wasserbewegungen, einschließlich der Wechselwirkungen zwischen zwei Fahrzeugen beim Vorbeifahren oder Überholen in engem Fahrwasser sowie der Wechselwirkungen zwischen einem längsseits festgemachten Fahrzeug und einem anderen in geringem Abstand im Fahrwasser vorbeifahrenden Fahrzeug.2.das Kuppeln von Schubverbänden vorzuführen;1.Kenntnis der für das Kuppeln eingesetzten Ausrüstung, Materialien und Verfahren.2.Fähigkeit, Schubverbände unter Einsatz der erforderlichen Ausrüstung und Materialen zu kuppeln und zu entkuppeln.3.Fähigkeit, die an Bord für das Kuppeln verfügbare Ausrüstung und ver fügbaren Materialien unter Berücksichtigung der relevanten Arbeitssicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen.4.Fähigkeit, mit den am Kuppeln von Schubverbänden beteiligten Besatzungsmitgliedern zu kommunizieren.3.das Ankern vorzuführen;1.Kenntnis der für das Ankern eingesetzten Ausrüstung, Materialien und Verfahren.2.Fähigkeit, Ankermanöver vorzuführen: die Ankerausrüstung für das Ankern vorzubereiten, den Anker fallen zu lassen, ausreichend Trosse oder Kette zu geben, um zunächst zu fieren, zu bestimmen, wann der Anker das Fahrzeug in seiner Position hält (Ankerpeilung), die Anker nach Abschluss des Ankervorgangs zu sichern, in verschiedenen Manövern Treibanker zu benutzen und mit den Ankerzeichen umzugehen.3.Fähigkeit, die an Bord für das Ankern verfügbare Ausrüstung und verfügbaren Materialien unter Berücksichtigung der relevanten Arbeitssicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen.4.Fähigkeit, mit dem Steuerhaus unter Verwendung von internen Wechselsprechanlagen sowie Handzeichen zu kommunizieren.4.angemessene Maßnahmen für die Sicherheit des Schiffsverkehrs zu ergreifen;1.Fähigkeit, die Besatzung des Fahrzeugs umgehend zu warnen und persönliche Schutz- und Rettungsausrüstung zu benutzen.2.Fähigkeit, die Wasserdichtigkeit des Fahrzeugs sicherzustellen.3.Fähigkeit, Arbeiten gemäß der Prüfliste an Deck und in den Aufenthaltsräumen vor- und durchzuführen, wie die Wasserabdichtung und Sicherung von Luken und Laderäumen.5.die verschiedenen Arten von Schleusen und Brücken in Bezug auf ihren Betrieb zu beschreiben;1.Kenntnisse über Form, Anordnung und Einrichtungen von Schleusen und Brücken, Schleusung, Arten von Schleusentoren, Pollern und Stufen usw.2.Fähigkeit, den Mitgliedern der Decksmannschaft die anwendbaren Verfahren beim Durchfahren von Schleusen, Wehren und Brücken zu erklären und vorzuführen.6.die allgemeinen Bestimmungen, Signale, Zeichen und Kennzeichnungssysteme zu beachten.1.Kenntnis der für die jeweilige Binnenwasserstraße geltenden Polizeivorschriften.2.Fähigkeit, das Tag- und Nachtkennzeichnungssystem, die Zeichen und Schallzeichen des Fahrzeugs zu bedienen und zu warten.3.Kenntnis des Kennzeichnungssystems gemäß SIGNI (Signalisation des voies de navigation intérieure) und IALA (International Association of Marine Aids to Navigation and Lighthouse Authorities) Teil A. das Festmachen, Ablegen und Verholen (Schleppen) vorzuführen; Kenntnis der eingesetzten Ausrüstung, Materialien und Verfahren für das Festmachen, Ablegen und Verholen (Schleppen). Fähigkeit, die an Bord verfügbaren Materialien wie Winden, Poller, Seile und Drähte unter Berücksichtigung der relevanten Arbeitssicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen. Fähigkeit, mit dem Steuerhaus unter Verwendung von internen Wechselsprechanlagen sowie Handzeichen zu kommunizieren. Kenntnis der Auswirkungen der Wasserbewegungen um das Fahrzeug und lokaler Effekte auf die Fahrbedingungen, einschließlich der Auswirkungen von Trimmung und flachem Wasser im Zusammenhang mit dem Tiefgang des Fahrzeugs. Kenntnis der beim Manövrieren auf das Fahrzeug einwirkenden Wasserbewegungen, einschließlich der Wechselwirkungen zwischen zwei Fahrzeugen beim Vorbeifahren oder Überholen in engem Fahrwasser sowie der Wechselwirkungen zwischen einem längsseits festgemachten Fahrzeug und einem anderen in geringem Abstand im Fahrwasser vorbeifahrenden Fahrzeug. das Kuppeln von Schubverbänden vorzuführen; Kenntnis der für das Kuppeln eingesetzten Ausrüstung, Materialien und Verfahren. Fähigkeit, Schubverbände unter Einsatz der erforderlichen Ausrüstung und Materialen zu kuppeln und zu entkuppeln. Fähigkeit, die an Bord für das Kuppeln verfügbare Ausrüstung und ver fügbaren Materialien unter Berücksichtigung der relevanten Arbeitssicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen. Fähigkeit, mit den am Kuppeln von Schubverbänden beteiligten Besatzungsmitgliedern zu kommunizieren. das Ankern vorzuführen; Kenntnis der für das Ankern eingesetzten Ausrüstung, Materialien und Verfahren. Fähigkeit, Ankermanöver vorzuführen: die Ankerausrüstung für das Ankern vorzubereiten, den Anker fallen zu lassen, ausreichend Trosse oder Kette zu geben, um zunächst zu fieren, zu bestimmen, wann der Anker das Fahrzeug in seiner Position hält (Ankerpeilung), die Anker nach Abschluss des Ankervorgangs zu sichern, in verschiedenen Manövern Treibanker zu benutzen und mit den Ankerzeichen umzugehen. Fähigkeit, die an Bord für das Ankern verfügbare Ausrüstung und verfügbaren Materialien unter Berücksichtigung der relevanten Arbeitssicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen. Fähigkeit, mit dem Steuerhaus unter Verwendung von internen Wechselsprechanlagen sowie Handzeichen zu kommunizieren. angemessene Maßnahmen für die Sicherheit des Schiffsverkehrs zu ergreifen; Fähigkeit, die Besatzung des Fahrzeugs umgehend zu warnen und persönliche Schutz- und Rettungsausrüstung zu benutzen. Fähigkeit, die Wasserdichtigkeit des Fahrzeugs sicherzustellen. Fähigkeit, Arbeiten gemäß der Prüfliste an Deck und in den Aufenthaltsräumen vor- und durchzuführen, wie die Wasserabdichtung und Sicherung von Luken und Laderäumen. die verschiedenen Arten von Schleusen und Brücken in Bezug auf ihren Betrieb zu beschreiben; Kenntnisse über Form, Anordnung und Einrichtungen von Schleusen und Brücken, Schleusung, Arten von Schleusentoren, Pollern und Stufen usw. Fähigkeit, den Mitgliedern der Decksmannschaft die anwendbaren Verfahren beim Durchfahren von Schleusen, Wehren und Brücken zu erklären und vorzuführen. die allgemeinen Bestimmungen, Signale, Zeichen und Kennzeichnungssysteme zu beachten. Kenntnis der für die jeweilige Binnenwasserstraße geltenden Polizeivorschriften. Fähigkeit, das Tag- und Nachtkennzeichnungssystem, die Zeichen und Schallzeichen des Fahrzeugs zu bedienen und zu warten. Kenntnis des Kennzeichnungssystems gemäß SIGNI (Signalisation des voies de navigation intérieure) und IALA (International Association of Marine Aids to Navigation and Lighthouse Authorities) Teil A. Betrieb des Fahrzeugs Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.verschiedene Arten von Fahrzeugen zu unterscheiden;1.Kenntnis der häufigsten Arten der in der europäischen Binnenschifffahrt eingesetzten Fahrzeuge, einschließlich Verbände, und ihrer jeweiligen Konstruktion, Abmessungen und Tonnage.2.Fähigkeit, die Merkmale der häufigsten Arten der in der europäischen Binnenschifffahrt eingesetzten Fahrzeuge, einschließlich Verbände, zu erläutern.2.die Kenntnisse über die für den Fahrzeugbetrieb erforderlichen Dokumente anzuwenden.1.Kenntnis der vorgeschriebenen Fahrzeugdokumente.2.Fähigkeit, die Bedeutung der Dokumente im Zusammenhang mit internationalen und nationalen Anforderungen und Rechtsvorschriften zu erläutern. verschiedene Arten von Fahrzeugen zu unterscheiden; Kenntnis der häufigsten Arten der in der europäischen Binnenschifffahrt eingesetzten Fahrzeuge, einschließlich Verbände, und ihrer jeweiligen Konstruktion, Abmessungen und Tonnage. Fähigkeit, die Merkmale der häufigsten Arten der in der europäischen Binnenschifffahrt eingesetzten Fahrzeuge, einschließlich Verbände, zu erläutern. die Kenntnisse über die für den Fahrzeugbetrieb erforderlichen Dokumente anzuwenden. Kenntnis der vorgeschriebenen Fahrzeugdokumente. Fähigkeit, die Bedeutung der Dokumente im Zusammenhang mit internationalen und nationalen Anforderungen und Rechtsvorschriften zu erläutern. Ladungsumschlag, Ladungsstauung und Fahrgastbeförderung Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die Kennzeichnung gemäß dem Europäischen Übereinkommen über die internationale Beförderung gefährlicher Güter auf Binnenwasserstraßen (ADN) und die Verfahren für die Sicherheit der Fahrgastbeförderung zu erklären;1.Fähigkeit, die Kennzeichnung gefährlicher Güter gemäß ADN zu erklären.2.Fähigkeit, die Verfahren für die Sicherheit der Fahrgastbeförderung zu erklären, einschließlich der Anwendung der Verordnung (EU) Nr. 1177/2010.3.Fähigkeit, mit Fahrgästen effektiv zu kommunizieren.2.den Einsatz von Ballastsystemen zu erklären und vorzuführen;1.Kenntnis der Funktion und des Einsatzes von Ballastsystemen.2.Fähigkeit, den Einsatz des Ballastsystems, z. B. durch die Befüllung oder Entleerung der Ballasttanks, zu erklären.3.die Ladungsmenge zu überprüfen.1.Kenntnis der manuellen und technischen Verfahren zur Bestimmung des Ladungsgewichts auf verschiedenen Arten von Fahrzeugen.2.Fähigkeit, Verfahren zur Bestimmung der Menge geladener oder gelöschter Ladung anzuwenden.3.Fähigkeit, die Menge flüssiger Ladung unter Verwendung von Sondierungen und/oder Tanktabellen zu berechnen. die Kennzeichnung gemäß dem Europäischen Übereinkommen über die internationale Beförderung gefährlicher Güter auf Binnenwasserstraßen (ADN) und die Verfahren für die Sicherheit der Fahrgastbeförderung zu erklären; Fähigkeit, die Kennzeichnung gefährlicher Güter gemäß ADN zu erklären. Fähigkeit, die Verfahren für die Sicherheit der Fahrgastbeförderung zu erklären, einschließlich der Anwendung der Verordnung (EU) Nr. 1177/2010. Fähigkeit, mit Fahrgästen effektiv zu kommunizieren. den Einsatz von Ballastsystemen zu erklären und vorzuführen; Kenntnis der Funktion und des Einsatzes von Ballastsystemen. Fähigkeit, den Einsatz des Ballastsystems, z. B. durch die Befüllung oder Entleerung der Ballasttanks, zu erklären. die Ladungsmenge zu überprüfen. Kenntnis der manuellen und technischen Verfahren zur Bestimmung des Ladungsgewichts auf verschiedenen Arten von Fahrzeugen. Fähigkeit, Verfahren zur Bestimmung der Menge geladener oder gelöschter Ladung anzuwenden. Fähigkeit, die Menge flüssiger Ladung unter Verwendung von Sondierungen und/oder Tanktabellen zu berechnen. Schiffsbetriebstechnik und Elektrotechnik, Elektronik und Leittechnik Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die Maschinen, einschließlich Pumpen, Rohrleitungssystemen, Bilge- und Ballastsystemen, zu bedienen;1.Kenntnis der für den sicheren Betrieb der Maschinen und des Bilge- und Ballastsystems zu befolgenden Verfahren sowie der ordnungsgemäßen Abfallentsorgung.2.Fähigkeit, die Maschinen im Maschinenraum entsprechend den Verfahren zu betreiben und zu steuern.3.Fähigkeit, die sichere Funktion, Betriebsweise und Instandhaltung des Bilge- und Ballastsystems zu erklären, einschließlich Meldung von Zwischenfällen im Zusammenhang mit Umpumpvorgängen und Fähigkeit, Tankfüllstände korrekt zu messen und zu melden.4.Fähigkeit, das Abschalten der Maschinen nach dem Einsatz vorzubereiten und durchzuführen.5.Fähigkeit, Bilge-, Ballast- und Ladungspumpensysteme zu bedienen.6.Fähigkeit, die Notwendigkeit einer ordnungsgemäßen und sicheren Sammlung, Lagerung und Abgabe von Abfällen zu erklären.7.Fähigkeit, die hydraulischen und pneumatischen Systeme zu benutzen.2.die Generatoren vorzubereiten, einzuschalten, anzuschließen und zu wechseln und ihre Systeme und den Landanschluss zu überprüfen;1.Kenntnis der Kraftanlage.2.Fähigkeit, die Schalttafel zu benutzen.3.Fähigkeit, den Landanschluss zu benutzen.3.die erforderlichen Werkzeuge und Materialien zu verwenden;1.Kenntnis der Eigenschaften und Grenzen der zur Wartung und Instandsetzung von Maschinen und Ausrüstung eingesetzten Prozesse, Materialien und Werkzeuge.2.Fähigkeit, sichere Arbeitsverfahren anzuwenden.4.die täglichen Wartungsarbeiten an den Hauptmotoren, Hilfsmaschinen und Regelungs- und Steuerungsanlagen durchzuführen;Fähigkeit, Maschinenraum, Hauptmotoren, Hauptmaschinen und Hilfsmaschinen und Regelungs- und Steuerungsanlagen zu warten und instand zu halten.5.die täglichen Wartungsarbeiten an den Maschinen, einschließlich Pumpen, Rohrleitungssystemen, Bilge- und Ballastsystemen, durchzuführen.Fähigkeit, Pumpen, Rohrleitungssysteme, Bilge- und Ballastsysteme zu warten und instand zu halten. die Maschinen, einschließlich Pumpen, Rohrleitungssystemen, Bilge- und Ballastsystemen, zu bedienen; Kenntnis der für den sicheren Betrieb der Maschinen und des Bilge- und Ballastsystems zu befolgenden Verfahren sowie der ordnungsgemäßen Abfallentsorgung. Fähigkeit, die Maschinen im Maschinenraum entsprechend den Verfahren zu betreiben und zu steuern. Fähigkeit, die sichere Funktion, Betriebsweise und Instandhaltung des Bilge- und Ballastsystems zu erklären, einschließlich Meldung von Zwischenfällen im Zusammenhang mit Umpumpvorgängen und Fähigkeit, Tankfüllstände korrekt zu messen und zu melden. Fähigkeit, das Abschalten der Maschinen nach dem Einsatz vorzubereiten und durchzuführen. Fähigkeit, Bilge-, Ballast- und Ladungspumpensysteme zu bedienen. Fähigkeit, die Notwendigkeit einer ordnungsgemäßen und sicheren Sammlung, Lagerung und Abgabe von Abfällen zu erklären. Fähigkeit, die hydraulischen und pneumatischen Systeme zu benutzen. die Generatoren vorzubereiten, einzuschalten, anzuschließen und zu wechseln und ihre Systeme und den Landanschluss zu überprüfen; Kenntnis der Kraftanlage. Fähigkeit, die Schalttafel zu benutzen. Fähigkeit, den Landanschluss zu benutzen. die erforderlichen Werkzeuge und Materialien zu verwenden; Kenntnis der Eigenschaften und Grenzen der zur Wartung und Instandsetzung von Maschinen und Ausrüstung eingesetzten Prozesse, Materialien und Werkzeuge. Fähigkeit, sichere Arbeitsverfahren anzuwenden. die täglichen Wartungsarbeiten an den Hauptmotoren, Hilfsmaschinen und Regelungs- und Steuerungsanlagen durchzuführen; die täglichen Wartungsarbeiten an den Maschinen, einschließlich Pumpen, Rohrleitungssystemen, Bilge- und Ballastsystemen, durchzuführen. Wartung und Instandsetzung Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Gesundheit und Umwelt bei der Durchführung von Wartungs- und Instandsetzungsarbeiten zu schützen;1.Kenntnis der anwendbaren Reinigungs- und Konservierungsverfahren sowie der Hygienevorschriften.2.Fähigkeit, unter Einhaltung der Hygienevorschriften sämtliche Wohnräume und das Steuerhaus zu reinigen sowie den Haushalt ordnungsgemäß zu führen; dies schließt die Verantwortung für den eigenen Wohnraum ein.3.Fähigkeit, die Maschinenräume und die Maschinen unter Einsatz der geeigneten Reinigungsmaterialien zu reinigen.4.Fähigkeit, die äußeren Teile, den Körper und die Decks des Fahrzeugs in der korrekten Reihenfolge unter Einsatz der gemäß den Umweltvorschriften geeigneten Materialien zu reinigen und zu konservieren.5.Fähigkeit, für die Entsorgung der Fahrzeug- und Haushaltsabfälle gemäß den Umweltvorschriften zu sorgen.2.die technischen Geräte gemäß den technischen Anweisungen zu warten;1.Kenntnis der technischen Anweisungen für Wartungs- und Instandsetzungsprogramme.2.Fähigkeit, sämtliche technische Ausrüstung gemäß den technischen Anweisungen zu warten und instand zu halten.3.Fähigkeit, die Wartungsprogramme (auch digitale) unter Aufsicht zu verwenden.3.sicher mit Drähten und Seilen umzugehen;1.Kenntnis der Eigenschaften der verschiedenen Arten von Seilen und Drähten.2.Fähigkeit, diese gemäß den Methoden und Vorschriften für sicheres Arbeiten zu verwenden und zu lagern.4.Knoten und Spleiße entsprechend ihrem Verwendungszweck anzufertigen und instand zu halten.1.Kenntnis der Verfahren, die für die Gewährleistung eines sicheren Schleppens und Kuppelns mit den an Bord verfügbaren Mitteln zu befolgen sind.2.Fähigkeit, Drähte und Seile zu spleißen.3.Fähigkeit, Knoten entsprechend ihrem Verwendungszweck anzuwenden.4.Fähigkeit, Drähte und Seile instand zu halten. Gesundheit und Umwelt bei der Durchführung von Wartungs- und Instandsetzungsarbeiten zu schützen; Kenntnis der anwendbaren Reinigungs- und Konservierungsverfahren sowie der Hygienevorschriften. Fähigkeit, unter Einhaltung der Hygienevorschriften sämtliche Wohnräume und das Steuerhaus zu reinigen sowie den Haushalt ordnungsgemäß zu führen; dies schließt die Verantwortung für den eigenen Wohnraum ein. Fähigkeit, die Maschinenräume und die Maschinen unter Einsatz der geeigneten Reinigungsmaterialien zu reinigen. Fähigkeit, die äußeren Teile, den Körper und die Decks des Fahrzeugs in der korrekten Reihenfolge unter Einsatz der gemäß den Umweltvorschriften geeigneten Materialien zu reinigen und zu konservieren. Fähigkeit, für die Entsorgung der Fahrzeug- und Haushaltsabfälle gemäß den Umweltvorschriften zu sorgen. die technischen Geräte gemäß den technischen Anweisungen zu warten; Kenntnis der technischen Anweisungen für Wartungs- und Instandsetzungsprogramme. Fähigkeit, sämtliche technische Ausrüstung gemäß den technischen Anweisungen zu warten und instand zu halten. Fähigkeit, die Wartungsprogramme (auch digitale) unter Aufsicht zu verwenden. sicher mit Drähten und Seilen umzugehen; Kenntnis der Eigenschaften der verschiedenen Arten von Seilen und Drähten. Fähigkeit, diese gemäß den Methoden und Vorschriften für sicheres Arbeiten zu verwenden und zu lagern. Knoten und Spleiße entsprechend ihrem Verwendungszweck anzufertigen und instand zu halten. Kenntnis der Verfahren, die für die Gewährleistung eines sicheren Schleppens und Kuppelns mit den an Bord verfügbaren Mitteln zu befolgen sind. Fähigkeit, Drähte und Seile zu spleißen. Fähigkeit, Knoten entsprechend ihrem Verwendungszweck anzuwenden. Fähigkeit, Drähte und Seile instand zu halten. Kommunikation Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Fakten unter Verwendung technischer Begriffe darzulegen.1.Kenntnis der erforderlichen technischen und nautischen Begriffe sowie von Begriffen im Zusammenhang mit sozialen Aspekten in Standardredewendungen.2.Fähigkeit, die erforderlichen technischen und nautischen Begriffe sowie Begriffe im Zusammenhang mit sozialen Aspekten in Standardredewendungen zu verwenden. Fakten unter Verwendung technischer Begriffe darzulegen. Kenntnis der erforderlichen technischen und nautischen Begriffe sowie von Begriffen im Zusammenhang mit sozialen Aspekten in Standardredewendungen. Fähigkeit, die erforderlichen technischen und nautischen Begriffe sowie Begriffe im Zusammenhang mit sozialen Aspekten in Standardredewendungen zu verwenden. Gesundheit, Sicherheit und Umweltschutz Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die Vorschriften für Arbeitssicherheit und Unfallverhütung anzuwenden;1.Kenntnis sicherer Arbeitsmethoden.2.Kenntnis der Arten von Gefahrenmomenten an Bord.3.Fähigkeit, Gefahren im Zusammenhang mit Gefahrenmomenten an Bord vermeiden, z. B.: •Fahrzeugbewegungen,•Vorkehrungen für den sicheren Ein- und Ausstieg (z. B. Landungssteg Beiboote),•sicheres Stauen beweglicher Gegenstände,•Arbeiten mit Maschinen,•Erkennen elektrischer Gefahren,•Brandschutz und Brandbekämpfung,•professioneller Gebrauch von Handwerkzeug,•professioneller Gebrauch von tragbarem Elektrowerkzeug,•Einhaltung der Gesundheits- und Hygienevorschriften,•Beseitigung von Rutsch-, Sturz- und Stolpergefahren.4.Kenntnis der einschlägigen gesundheits- und sicherheitsbezogenen Arbeitsanweisungen bei Tätigkeiten an Bord.5.Kenntnis der anwendbaren Vorschriften betreffend sichere und nachhaltige Arbeitsbedingungen.6.Fähigkeit, für Personal oder Fahrzeug potenziell gefährliche Tätigkeiten verhindern, z. B.: •Be- und Entladung,•Festmachen und Ablegen,•Höhenarbeiten,•Arbeiten mit Chemikalien,•Arbeiten mit Batterien,•während des Aufenthalts im Maschinenraum,•Heben von Lasten (manuell und mechanisch),•Betreten von und Arbeiten in geschlossenen Räumen.2.persönliche Schutzausrüstung zur Unfallverhütung zu benutzen;1.Kenntnis der Verfahren für die Benutzung der erforderlichen Ausrüstung für Arbeitssicherheit an Bord.2.Fähigkeit, persönliche Schutzausrüstung zu benutzen, z. B.: •Augenschutz,•Atemschutz,•Gehörschutz,•Kopfschutz,•Schutzkleidung.3.bei Rettungsarbeiten zu schwimmen und Unterstützung zu leisten;1.Fähigkeit, Schwimmkenntnisse für Rettungsarbeiten einzusetzen.2.Fähigkeit, Rettungsausrüstung bei Rettungsarbeiten zu benutzen.3.Fähigkeit, Betroffene zu retten und zu transportieren.4.Fluchtwege zu benutzen;1.Kenntnis der bei einer Evakuierung zu befolgenden Verfahren (entsprechend den lokalen Gegebenheiten an Bord).2.Fähigkeit, Fluchtwege frei zu halten.5.interne Notfallkommunikations- und Alarmsysteme zu benutzen;Fähigkeit, Notfallkommunikations- und Alarmsysteme sowie -ausrüstung zu benutzen.6.die Bestandteile von Bränden und Zündarten und -quellen zu unterscheiden;1.Kenntnis der möglichen Brandursachen bei verschiedenen Tätigkeiten sowie der Brandklassen gemäß der Europäischen Norm (EN) oder einer gleichwertigen Norm.2.Kenntnis der Bestandteile des Verbrennungsprozesses.3.Fähigkeit, die Grundsätze der Brandbekämpfung anzuwenden.7.verschiedene Arten von Feuerlöschern zu unterscheiden und zu benutzen;1.Kenntnis der verschiedenen Merkmale und Klassen von Feuerlöschern.2.Fähigkeit, verschiedene Methoden der Brandbekämpfung und Löschgeräte und feste Löschanlagen anzuwenden, z. B.: •Klassen von Feuerlöschern,•Gebrauch verschiedener Arten tragbarer Feuerlöscher,•Auswirkungen des Windes beim Annähern an das Feuer.8.Erste Hilfe zu leisten.1.Kenntnis der allgemeinen Grundsätze der Ersten Hilfe, einschließlich der Beurteilung von Körperschäden bzw. der Beeinträchtigung von Körperfunktionen, an Bord eines Fahrzeugs nach Einschätzung einer Situation.2.Fähigkeit, die körperliche und geistige Verfassung sowie die persönliche Hygiene im Falle von Erster Hilfe zu wahren.3.Kenntnis der einschlägigen Maßnahmen bei Unfällen entsprechend den anerkannten bewährten Verfahren.4.Fähigkeit, Erfordernisse der Betroffenen und Bedrohungen für die eigene Sicherheit einzuschätzen.5.Fähigkeit, die in Notfällen erforderlichen Maßnahmen durchzuführen, einschließlich: a)Betroffene in die richtige Lage zu bringen,b)Wiederbelebungstechniken anzuwenden,c)Blutungen zu stillen,d)angemessene Maßnahmen der grundlegenden Schockbehandlung anzuwenden,e)angemessene Maßnahmen im Falle von Verbrennungen und Verbrühungen anzuwenden, einschließlich von durch Strom verursachten Unfällen,f)Betroffene zu retten und zu transportieren.6.Fähigkeit, Verbände provisorisch anzulegen und Material aus der Erste-Hilfe-Ausrüstung anzuwenden. die Vorschriften für Arbeitssicherheit und Unfallverhütung anzuwenden; Kenntnis sicherer Arbeitsmethoden. Kenntnis der Arten von Gefahrenmomenten an Bord. Fähigkeit, Gefahren im Zusammenhang mit Gefahrenmomenten an Bord vermeiden, z. B.: •Fahrzeugbewegungen,•Vorkehrungen für den sicheren Ein- und Ausstieg (z. B. Landungssteg Beiboote),•sicheres Stauen beweglicher Gegenstände,•Arbeiten mit Maschinen,•Erkennen elektrischer Gefahren,•Brandschutz und Brandbekämpfung,•professioneller Gebrauch von Handwerkzeug,•professioneller Gebrauch von tragbarem Elektrowerkzeug,•Einhaltung der Gesundheits- und Hygienevorschriften,•Beseitigung von Rutsch-, Sturz- und Stolpergefahren. Fahrzeugbewegungen, Vorkehrungen für den sicheren Ein- und Ausstieg (z. B. Landungssteg Beiboote), sicheres Stauen beweglicher Gegenstände, Arbeiten mit Maschinen, Erkennen elektrischer Gefahren, Brandschutz und Brandbekämpfung, professioneller Gebrauch von Handwerkzeug, professioneller Gebrauch von tragbarem Elektrowerkzeug, Einhaltung der Gesundheits- und Hygienevorschriften, Beseitigung von Rutsch-, Sturz- und Stolpergefahren. Kenntnis der einschlägigen gesundheits- und sicherheitsbezogenen Arbeitsanweisungen bei Tätigkeiten an Bord. Kenntnis der anwendbaren Vorschriften betreffend sichere und nachhaltige Arbeitsbedingungen. Fähigkeit, für Personal oder Fahrzeug potenziell gefährliche Tätigkeiten verhindern, z. B.: •Be- und Entladung,•Festmachen und Ablegen,•Höhenarbeiten,•Arbeiten mit Chemikalien,•Arbeiten mit Batterien,•während des Aufenthalts im Maschinenraum,•Heben von Lasten (manuell und mechanisch),•Betreten von und Arbeiten in geschlossenen Räumen. Be- und Entladung, Festmachen und Ablegen, Höhenarbeiten, Arbeiten mit Chemikalien, Arbeiten mit Batterien, während des Aufenthalts im Maschinenraum, Heben von Lasten (manuell und mechanisch), Betreten von und Arbeiten in geschlossenen Räumen. persönliche Schutzausrüstung zur Unfallverhütung zu benutzen; Kenntnis der Verfahren für die Benutzung der erforderlichen Ausrüstung für Arbeitssicherheit an Bord. Fähigkeit, persönliche Schutzausrüstung zu benutzen, z. B.: •Augenschutz,•Atemschutz,•Gehörschutz,•Kopfschutz,•Schutzkleidung. Augenschutz, Atemschutz, Gehörschutz, Kopfschutz, Schutzkleidung. bei Rettungsarbeiten zu schwimmen und Unterstützung zu leisten; Fähigkeit, Schwimmkenntnisse für Rettungsarbeiten einzusetzen. Fähigkeit, Rettungsausrüstung bei Rettungsarbeiten zu benutzen. Fähigkeit, Betroffene zu retten und zu transportieren. Fluchtwege zu benutzen; Kenntnis der bei einer Evakuierung zu befolgenden Verfahren (entsprechend den lokalen Gegebenheiten an Bord). Fähigkeit, Fluchtwege frei zu halten. interne Notfallkommunikations- und Alarmsysteme zu benutzen; die Bestandteile von Bränden und Zündarten und -quellen zu unterscheiden; Kenntnis der möglichen Brandursachen bei verschiedenen Tätigkeiten sowie der Brandklassen gemäß der Europäischen Norm (EN) oder einer gleichwertigen Norm. Kenntnis der Bestandteile des Verbrennungsprozesses. Fähigkeit, die Grundsätze der Brandbekämpfung anzuwenden. verschiedene Arten von Feuerlöschern zu unterscheiden und zu benutzen; Kenntnis der verschiedenen Merkmale und Klassen von Feuerlöschern. Fähigkeit, verschiedene Methoden der Brandbekämpfung und Löschgeräte und feste Löschanlagen anzuwenden, z. B.: •Klassen von Feuerlöschern,•Gebrauch verschiedener Arten tragbarer Feuerlöscher,•Auswirkungen des Windes beim Annähern an das Feuer. Klassen von Feuerlöschern, Gebrauch verschiedener Arten tragbarer Feuerlöscher, Auswirkungen des Windes beim Annähern an das Feuer. Erste Hilfe zu leisten. Kenntnis der allgemeinen Grundsätze der Ersten Hilfe, einschließlich der Beurteilung von Körperschäden bzw. der Beeinträchtigung von Körperfunktionen, an Bord eines Fahrzeugs nach Einschätzung einer Situation. Fähigkeit, die körperliche und geistige Verfassung sowie die persönliche Hygiene im Falle von Erster Hilfe zu wahren. Kenntnis der einschlägigen Maßnahmen bei Unfällen entsprechend den anerkannten bewährten Verfahren. Fähigkeit, Erfordernisse der Betroffenen und Bedrohungen für die eigene Sicherheit einzuschätzen. Fähigkeit, die in Notfällen erforderlichen Maßnahmen durchzuführen, einschließlich: a)Betroffene in die richtige Lage zu bringen,b)Wiederbelebungstechniken anzuwenden,c)Blutungen zu stillen,d)angemessene Maßnahmen der grundlegenden Schockbehandlung anzuwenden,e)angemessene Maßnahmen im Falle von Verbrennungen und Verbrühungen anzuwenden, einschließlich von durch Strom verursachten Unfällen,f)Betroffene zu retten und zu transportieren. Betroffene in die richtige Lage zu bringen, Wiederbelebungstechniken anzuwenden, Blutungen zu stillen, angemessene Maßnahmen der grundlegenden Schockbehandlung anzuwenden, angemessene Maßnahmen im Falle von Verbrennungen und Verbrühungen anzuwenden, einschließlich von durch Strom verursachten Unfällen, Betroffene zu retten und zu transportieren. Fähigkeit, Verbände provisorisch anzulegen und Material aus der Erste-Hilfe-Ausrüstung anzuwenden.
 
-–
+1. Navigation1.1Der Schiffsführer muss in der Lage sein, Reisen zu planen und auf Binnenwasserstraßen zu navigieren; dazu gehört auch die Fähigkeit, unter Berücksichtigung der geltenden Verkehrsregeln und der geltenden vereinbarten Regeln im Bereich der Binnenschifffahrt die logischste, wirtschaftlichste und umweltfreundlichste Reiseroute zum Be- bzw. Entladeziel auszuwählen.Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.auf europäischen Binnenwasserstraßen mit Schleusen und Schiffshebewerken gemäß den Frachtverträgen mit dem Spediteur zu navigieren;1.Kenntnis der durch die Binnenschifffahrt genutzten nationalen und internationalen Wasserstraßen, der geografischen Lage von Flüssen, Kanälen, Seehäfen, Binnenhäfen und des Zusammenhangs mit den Ladungsströmen.2.Kenntnis der Binnenwasserstraßenklassifizierung der CEMT (Conférence européenne des ministres des transports) und der Abmessungen der Wasserstraße im Verhältnis zu den Fahrzeugabmessungen unter Einsatz moderner Informationssysteme.3.Fähigkeit, unter Einsatz relevanter Informationsquellen Wasserstände, Tiefe sowie Tiefgang und Brückendurchfahrtshöhe zu berechnen.4.Fähigkeit, Entfernungen und Fahrzeit unter Verwendung von Informationsquellen zu Entfernungen, Schleusen, Beschränkungen, Fahrgeschwindigkeit oder Fahrzeit zu berechnen.5.Kenntnisse zu Haftung und Versicherung.6.Fähigkeit, Besatzungsmitgliedern und Bordpersonal Anweisungen für die sichere Ausführung von Aufgaben zu erteilen.2.die für die Navigation auf Binnenwasserstraßen geltenden Verkehrsregeln zu beachten und anzuwenden, um Schäden zu vermeiden;1.Kenntnis der Fahrregeln wie der geltenden vereinbarten Regeln im Bereich der Binnenschifffahrt für die befahrene Binnenwasserstraße, um Schäden zu vermeiden (z. B. durch Kollision).2.Fähigkeit, die einschlägigen für die befahrene Wasserstraße geltenden Verkehrsregeln anzuwenden.3.die ökonomischen und ökologischen Aspekte des Fahrzeugbetriebs für eine effiziente und umweltfreundliche Nutzung des Fahrzeugs zu berücksichtigen;1.Kenntnis der Umweltaspekte bei der Fahrt auf Binnenwasserstraßen.2.Fähigkeit, nachhaltige und ökonomische Schifffahrt zu treiben im Hinblick auf z. B. Kraftstoffeffizienz, Bunkervorgang, Emissionswerte, Flachwassereffekte, Anschluss an die Landstromversorgung und Abfallentsorgung.4.den technischen Bauwerken und Profilen der Wasserstraßen Rechnung zu tragen und Vorsichtsmaßnahmen zu ergreifen;1.Kenntnis des Einflusses von Wasserbauwerken, Wasserstraßenprofilen und Schutzbauten auf die Navigation.2.Fähigkeit, verschiedene Arten von Schleusen mit verschiedenen Schleusungsvorgängen, verschiedene Arten von Brücken, Kanal- und Flussprofilen zu durchfahren sowie „sichere Häfen“ und Übernachtungshäfen zu nutzen.5.mit aktuellen Karten, Nachrichten für die Binnenschifffahrt oder Seefahrer sowie anderen Veröffentlichungen zu arbeiten;1.Kenntnis der Navigationshilfen.2.Fähigkeit, gegebenenfalls Navigationshilfen zu verwenden, z. B. Satellitenpositionssystemnavigation.3.Fähigkeit, nautische Karten unter Berücksichtigung von Faktoren im Zusammenhang mit Genauigkeit und Kartenangaben, wie Kartendatum, Symbolen, Tiefeninformationen, Bodenbeschreibung, Tiefen und Datum (WGS84), und internationale Kartenstandards wie Inland ECDIS zu nutzen.4.Fähigkeit, nautische Veröffentlichungen wie Nachrichten für die Binnenschifffahrt oder Seefahrer zu nutzen, um die erforderlichen Informationen für eine sichere Navigation zu sammeln, sodass jederzeit die Gezeitenhöhe, Informationen zu Vereisung, Hochwasser oder Niedrigwasser, Liegeplätzen und Hafenverzeichnissen verfügbar sind.6.die einschlägigen Verkehrsüberwachungsinstrumente zu nutzen und anzuwenden.1.Kenntnis der Signale.2.Fähigkeit, Tag- und Nachtzeichen wie Leitfeuer zu nutzen. Kenntnis von Inland AIS, Inland ECDIS, elektronischen Meldungen und Nachrichten für die Binnenschifffahrt oder Seefahrer, Binnenschifffahrtsinformationsdiensten (river information services – RIS), überwachten und unüberwachten Schiffsverkehrsdiensten (vessel traffic services – VTS) und deren Komponenten.3.Fähigkeit, Verkehrsinformationsinstrumente zu nutzen.1.2Der Schiffsführer muss in der Lage sein, seine Kenntnisse der geltenden Besatzungsvorschriften, einschließlich seiner Kenntnisse über Ruhezeiten und die Zusammensetzung der Mitglieder einer Decksmannschaft, anzuwenden.Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die erforderlichen Qualifikationen und Besatzungsmitglieder anhand der anwendbaren Vorschriften für die Besatzung von Fahrzeugen auszuwählen; dies schließt Kenntnisse über Ruhezeiten und die Zusammensetzung der Mitglieder einer Decksmannschaft ein.1.Kenntnis der Mindestbesatzungsanforderungen und vorgeschriebenen Berufsqualifikationen von Besatzungsmitgliedern und Bordpersonal.2.Kenntnis der Anforderungen an die medizinische Tauglichkeit und die medizinischen Untersuchungen von Besatzungsmitgliedern.3.Kenntnis des administrativen Verfahrens für die Erfassung von Daten in Schifferdienstbüchern.4.Kenntnis der anwendbaren Betriebsarten und der Mindestruhezeit.5.Kenntnis des administrativen Verfahrens für die Erfassung von Daten im Bordbuch.6.Kenntnis der Vorschriften über die Arbeitszeit.7.Kenntnis der Anforderungen für besondere Berechtigungen.8.Kenntnis der speziellen Besatzungsanforderungen für Schiffe, die dem Europäischen Übereinkommen über die internationale Beförderung gefährlicher Güter auf Binnenwasserstraßen (ADN) unterliegen, Fahrgastschiffe und mit Flüssigerdgas betriebene Fahrzeuge, sofern anwendbar.9.Fähigkeit, den Besatzungsmitgliedern Anweisungen hinsichtlich Dienstantritt und Dienstende zu erteilen.1.3Der Schiffsführer muss in der Lage sein, bei Gewährleistung des sicheren Betriebs des Fahrzeugs unter allen Bedingungen auf Binnenwasserstraßen Fahrzeuge zu führen und zu manövrieren; dies gilt auch für Situationen mit hohem Verkehrsaufkommen oder Situationen, in denen andere Fahrzeuge Gefahrgut befördern, wofür Grundkenntnisse des Europäischen Übereinkommens über die internationale Beförderung gefährlicher Güter auf Binnenwasserstraßen (ADN) erforderlich sind.Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.unter Berücksichtigung der geografischen, hydrologischen, meteorologischen und morphologischen Eigenschaften der Hauptbinnenwasserstraßen auf diesen zu fahren und zu manövrieren;1.Kenntnisse zu den hydrologischen und morphologischen Eigenschaften der Hauptwasserstraßen, z. B. Einzugsgebiet und Wasserscheide, Flussarten nach Wasserquelle, Flussgefälle und -lauf, Fließgeschwindigkeit und Strömungsmuster, menschliche Eingriffe in den Flusslauf.2.Kenntnisse zu den meteorologischen Auswirkungen auf die Hauptbinnenwasserstraßen, z. B. Wetterbericht und Warndienste, Beaufort-Skala, regionale Einteilung für Wind- und Unwetterwarnungen mit Faktoren wie Luftdruck, Windstärke, Hoch- und Tiefdruckgebieten, Wolken, Nebel, Arten und Durchzug von Wetterfronten, Eiswarnungen und Hochwasserwarnungen.3.Fähigkeit, die geografischen, hydrologischen, meteorologischen und morphologischen Informationen anzuwenden.2.Anweisungen für das Festmachen und Ablegen des Fahrzeugs und das Verholen und Schleppen zu erteilen;1.Kenntnis der technischen Anforderungen und Dokumente zum Festmachen und Verholen.2.Fähigkeit, die Verfahren für Festmach- und Ablegemanöver einzuleiten und sicherzustellen, dass die Ausrüstung auf verschiedenen Arten von Fahrzeugen mit den Anforderungen des Zeugnisses des Fahrzeugs übereinstimmt.3.Fähigkeit, mit der Decksmannschaft zu kommunizieren, z. B. Kommunikationssysteme und Handzeichen zu verwenden.3.für einen sicheren Zugang zum Fahrzeug zu sorgen;1.Kenntnis der technischen Anforderungen an Einrichtungen für den Fahrzeugzugang.2.Fähigkeit, einen sicheren Zugang zum Fahrzeug im fahrenden, festgemachten Zustand und vor Anker zu organisieren und z. B. Treppen, Landungsstege, Beiboote, Absturzsicherung und Beleuchtung zu verwenden.4.moderne elektronische Navigationshilfen zu benutzen;1.Kenntnis der Funktionen und Bedienung von Navigationshilfen.2.Kenntnis der Bedienungsgrundlagen, Beschränkungen und Fehlerquellen von Navigationshilfen.3.Fähigkeit, nautische Sensoren und Anzeigen, die nautische Informationen bereitstellen, z. B. (D)GPS, Positions-, Steuerkurs-, Kurs-, Geschwindigkeits-, Abstands-, Tiefenanzeiger, Inland ECDIS, Radar, zu verwenden.4.Fähigkeit, Binnenschifffahrtsinformationsdienste (RIS) und -technologien, z. B. Inland AIS, Inland ECDIS, elektronische Meldungen und Nachrichten für die Binnenschifffahrt, Wasserstraßeninformationsdienste (Fairway Information Services – FIS), Verkehrsinformationen (Traffic Information Services – TIS), Verkehrsmanagementdienste (Traffic Management Services – TMS), Havariemanagementdienste (Calamity Abatement Services – CAS), Informationen für Transportlogistik (Information for Transport Logistics – ITL), Informationen für Strafverfolgung (Information for Law Enforcement – ILE), Statistiken, Informationen zu Schifffahrtsabgaben und Hafengeldern (Waterway Charges and Harbour Dues – WCHD), Abstand, Tiefe, auch in Verbindung mit Radar, zu verwenden.5.Fähigkeit, fehlerhafte Anzeigen zu erkennen und Methoden zur Korrektur anzuwenden.5.die technischen Anforderungen an die Binnenschifffahrt zu beachten;1.Kenntnis des Aufbaus und Inhalts der anwendbaren technischen Anforderungen und des Inhalts des Zeugnisses des Fahrzeugs.2.Fähigkeit, Prüfungen und Zertifizierungsverfahren einzuleiten.6.die Auswirkungen von Strömung, Wellengang, Wind und Wasserständen im Zusammenhang mit den Wechselwirkungen beim Kreuzen, Begegnen und Überholen von Fahrzeugen sowie zwischen Fahrzeug und Ufer (Kanalwirkung) zu berücksichtigen;1.Kenntnis des Einflusses von Wellengang, Wind und Strömung auf das fahrende, manövrierende oder stillliegende Fahrzeug, einschließlich der Auswirkungen von Wind, z. B. Seitenwind, beim Manövrieren, u. a. auf nautische Aufbauten, oder beim Einfahren in oder Ausfahren aus Häfen, Schleusen und Nebenwasserstraßen.2.Kenntnis des Einflusses der Strömung auf das fahrende, manövrierende oder stillliegende Fahrzeug auf durch die Binnenschifffahrt genutzten Wasserstraßen, wie die Auswirkungen der Strömung z. B. beim Manövrieren zu Berg und zu Tal oder im leeren oder beladenen Zustand und z. B. beim Einfahren in und Ausfahren aus Häfen, Schleusen oder Nebenwasserstraßen.3.Kenntnis des Einflusses der Wasserbewegung auf das fahrende, manövrierende oder stillliegende Fahrzeug, wie des Einflusses der Wasserbewegung auf den Tiefgang in Abhängigkeit der Wassertiefe, und der Reaktion auf Flachwassereffekte, z. B. durch eine Verringerung der Fahrgeschwindigkeit.4.Fähigkeit, die Wechselwirkungen auf das fahrende, manövrierende oder stillliegende Fahrzeug in Fahrwasserengen zu berücksichtigen und die Wechselwirkungen im Zusammenhang mit einem leeren oder beladenen Fahrzeug zu erkennen.5.Kenntnis der Auswirkungen von Ladungsumschlag und Stauungsbedingungen auf die Stabilität des fahrenden, manövrierenden oder stillliegenden Fahrzeugs.6.Fähigkeit, Trimmung, Krängung, Flutung, Hebelarm und Schwerpunkte zu berücksichtigen.7.die Antriebs- und Manövriersysteme sowie geeignete Kommunikations- und Alarmsysteme zu benutzen;1.Kenntnis der Antriebs-, Steuerungs- und Manövriersysteme und ihres Einflusses auf die Manövrierfähigkeit.2.Fähigkeit, die Antriebs-, Steuerungs- und Manövriersysteme zu benutzen.3.Kenntnis der Ankervorrichtungen.4.Fähigkeit, Anker unter verschiedenen Umständen zu benutzen.5.Kenntnis der Kommunikations- und Alarmsysteme.6.Fähigkeit, erforderlichenfalls Anweisungen im Falle eines Alarms zu erteilen.8.Fahrzeuge auch in Situationen mit hohem Verkehrsaufkommen oder Situationen, in denen andere Fahrzeuge Gefahrgut befördern, zu führen und zu manövrieren, wofür Grundkenntnisse des ADN erforderlich sind.1.Grundlegende Kenntnis des Aufbaus des ADN, der ADN-Dokumente und -Anweisungen sowie der im ADN vorgeschriebenen optischen Signalzeichen.2.Fähigkeit, Anweisungen im ADN zu finden und optische Signalzeichen für dem ADN unterliegende Fahrzeuge zu erkennen.1.4Der Schiffsführer muss in der Lage sein, auf navigatorische Notfälle auf Binnenwasserstraßen zu reagieren.Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.im Notfall beim absichtlichen Aufgrundsetzen eines Fahrzeugs Vorsichtsmaßnahmen zur Vermeidung größerer Schäden zu ergreifen;1.Kenntnis von flachen Stellen und Sandbänken, die für ein Aufgrundsetzen des Fahrzeugs genutzt werden können.2.Fähigkeit, Maschinen oder Ankervorrichtungen im Falle eines erforderlichen Aufgrundsetzens angemessen einzusetzen.2.ein auf Grund gelaufenes Fahrzeug mit und ohne Hilfe wieder in Fahrt zu bringen;1.Kenntnis der im Falle eines Auflaufens zu ergreifenden Maßnahmen, einschließlich des Abdichtens von Leckagen und der erforderlichen Maßnahmen, um das Fahrzeug wieder in die Fahrrinne zu lenken.2.Fähigkeit, Leckagen abzudichten, das Fahrzeug mithilfe anderer Fahrzeuge, z. B. Schlepp- oder Schubboote, zu bewegen.3.bei einem bevorstehenden Zusammenstoß geeignete Maßnahmen zu ergreifen;1.Kenntnis der bei einem bevorstehenden Zusammenstoß oder Unfall anwendbaren Vorschriften.2.Fähigkeit, das Fahrzeug bei einem unvermeidbaren Zusammenstoß so zu führen, dass der Schaden für Personen, z. B. Fahrgäste und Besatzungsmitglieder, das eigene Fahrzeug und das andere Fahrzeug, die Ladung und die Umwelt so gering wie möglich bleibt.4.nach einem Zusammenstoß und einer Bewertung des Schadens angemessene Maßnahmen zu ergreifen.1.Kenntnis der nach einem Zusammenstoß oder Unfall anwendbaren Vorschriften.2.Fähigkeit, die geeigneten Maßnahmen im Falle eines Schadens, Zusammenstoßes oder Auflaufens zu ergreifen, einschließlich Bewertung des Schadens, Kommunikation mit den zuständigen Behörden und Einholen der Erlaubnis, in eine sichere Position zu fahren. Der Schiffsführer muss in der Lage sein, Reisen zu planen und auf Binnenwasserstraßen zu navigieren; dazu gehört auch die Fähigkeit, unter Berücksichtigung der geltenden Verkehrsregeln und der geltenden vereinbarten Regeln im Bereich der Binnenschifffahrt die logischste, wirtschaftlichste und umweltfreundlichste Reiseroute zum Be- bzw. Entladeziel auszuwählen. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.auf europäischen Binnenwasserstraßen mit Schleusen und Schiffshebewerken gemäß den Frachtverträgen mit dem Spediteur zu navigieren;1.Kenntnis der durch die Binnenschifffahrt genutzten nationalen und internationalen Wasserstraßen, der geografischen Lage von Flüssen, Kanälen, Seehäfen, Binnenhäfen und des Zusammenhangs mit den Ladungsströmen.2.Kenntnis der Binnenwasserstraßenklassifizierung der CEMT (Conférence européenne des ministres des transports) und der Abmessungen der Wasserstraße im Verhältnis zu den Fahrzeugabmessungen unter Einsatz moderner Informationssysteme.3.Fähigkeit, unter Einsatz relevanter Informationsquellen Wasserstände, Tiefe sowie Tiefgang und Brückendurchfahrtshöhe zu berechnen.4.Fähigkeit, Entfernungen und Fahrzeit unter Verwendung von Informationsquellen zu Entfernungen, Schleusen, Beschränkungen, Fahrgeschwindigkeit oder Fahrzeit zu berechnen.5.Kenntnisse zu Haftung und Versicherung.6.Fähigkeit, Besatzungsmitgliedern und Bordpersonal Anweisungen für die sichere Ausführung von Aufgaben zu erteilen.2.die für die Navigation auf Binnenwasserstraßen geltenden Verkehrsregeln zu beachten und anzuwenden, um Schäden zu vermeiden;1.Kenntnis der Fahrregeln wie der geltenden vereinbarten Regeln im Bereich der Binnenschifffahrt für die befahrene Binnenwasserstraße, um Schäden zu vermeiden (z. B. durch Kollision).2.Fähigkeit, die einschlägigen für die befahrene Wasserstraße geltenden Verkehrsregeln anzuwenden.3.die ökonomischen und ökologischen Aspekte des Fahrzeugbetriebs für eine effiziente und umweltfreundliche Nutzung des Fahrzeugs zu berücksichtigen;1.Kenntnis der Umweltaspekte bei der Fahrt auf Binnenwasserstraßen.2.Fähigkeit, nachhaltige und ökonomische Schifffahrt zu treiben im Hinblick auf z. B. Kraftstoffeffizienz, Bunkervorgang, Emissionswerte, Flachwassereffekte, Anschluss an die Landstromversorgung und Abfallentsorgung.4.den technischen Bauwerken und Profilen der Wasserstraßen Rechnung zu tragen und Vorsichtsmaßnahmen zu ergreifen;1.Kenntnis des Einflusses von Wasserbauwerken, Wasserstraßenprofilen und Schutzbauten auf die Navigation.2.Fähigkeit, verschiedene Arten von Schleusen mit verschiedenen Schleusungsvorgängen, verschiedene Arten von Brücken, Kanal- und Flussprofilen zu durchfahren sowie „sichere Häfen“ und Übernachtungshäfen zu nutzen.5.mit aktuellen Karten, Nachrichten für die Binnenschifffahrt oder Seefahrer sowie anderen Veröffentlichungen zu arbeiten;1.Kenntnis der Navigationshilfen.2.Fähigkeit, gegebenenfalls Navigationshilfen zu verwenden, z. B. Satellitenpositionssystemnavigation.3.Fähigkeit, nautische Karten unter Berücksichtigung von Faktoren im Zusammenhang mit Genauigkeit und Kartenangaben, wie Kartendatum, Symbolen, Tiefeninformationen, Bodenbeschreibung, Tiefen und Datum (WGS84), und internationale Kartenstandards wie Inland ECDIS zu nutzen.4.Fähigkeit, nautische Veröffentlichungen wie Nachrichten für die Binnenschifffahrt oder Seefahrer zu nutzen, um die erforderlichen Informationen für eine sichere Navigation zu sammeln, sodass jederzeit die Gezeitenhöhe, Informationen zu Vereisung, Hochwasser oder Niedrigwasser, Liegeplätzen und Hafenverzeichnissen verfügbar sind.6.die einschlägigen Verkehrsüberwachungsinstrumente zu nutzen und anzuwenden.1.Kenntnis der Signale.2.Fähigkeit, Tag- und Nachtzeichen wie Leitfeuer zu nutzen. Kenntnis von Inland AIS, Inland ECDIS, elektronischen Meldungen und Nachrichten für die Binnenschifffahrt oder Seefahrer, Binnenschifffahrtsinformationsdiensten (river information services – RIS), überwachten und unüberwachten Schiffsverkehrsdiensten (vessel traffic services – VTS) und deren Komponenten.3.Fähigkeit, Verkehrsinformationsinstrumente zu nutzen. auf europäischen Binnenwasserstraßen mit Schleusen und Schiffshebewerken gemäß den Frachtverträgen mit dem Spediteur zu navigieren; Kenntnis der durch die Binnenschifffahrt genutzten nationalen und internationalen Wasserstraßen, der geografischen Lage von Flüssen, Kanälen, Seehäfen, Binnenhäfen und des Zusammenhangs mit den Ladungsströmen. Kenntnis der Binnenwasserstraßenklassifizierung der CEMT (Conférence européenne des ministres des transports) und der Abmessungen der Wasserstraße im Verhältnis zu den Fahrzeugabmessungen unter Einsatz moderner Informationssysteme. Fähigkeit, unter Einsatz relevanter Informationsquellen Wasserstände, Tiefe sowie Tiefgang und Brückendurchfahrtshöhe zu berechnen. Fähigkeit, Entfernungen und Fahrzeit unter Verwendung von Informationsquellen zu Entfernungen, Schleusen, Beschränkungen, Fahrgeschwindigkeit oder Fahrzeit zu berechnen. Kenntnisse zu Haftung und Versicherung. Fähigkeit, Besatzungsmitgliedern und Bordpersonal Anweisungen für die sichere Ausführung von Aufgaben zu erteilen. die für die Navigation auf Binnenwasserstraßen geltenden Verkehrsregeln zu beachten und anzuwenden, um Schäden zu vermeiden; Kenntnis der Fahrregeln wie der geltenden vereinbarten Regeln im Bereich der Binnenschifffahrt für die befahrene Binnenwasserstraße, um Schäden zu vermeiden (z. B. durch Kollision). Fähigkeit, die einschlägigen für die befahrene Wasserstraße geltenden Verkehrsregeln anzuwenden. die ökonomischen und ökologischen Aspekte des Fahrzeugbetriebs für eine effiziente und umweltfreundliche Nutzung des Fahrzeugs zu berücksichtigen; Kenntnis der Umweltaspekte bei der Fahrt auf Binnenwasserstraßen. Fähigkeit, nachhaltige und ökonomische Schifffahrt zu treiben im Hinblick auf z. B. Kraftstoffeffizienz, Bunkervorgang, Emissionswerte, Flachwassereffekte, Anschluss an die Landstromversorgung und Abfallentsorgung. den technischen Bauwerken und Profilen der Wasserstraßen Rechnung zu tragen und Vorsichtsmaßnahmen zu ergreifen; Kenntnis des Einflusses von Wasserbauwerken, Wasserstraßenprofilen und Schutzbauten auf die Navigation. Fähigkeit, verschiedene Arten von Schleusen mit verschiedenen Schleusungsvorgängen, verschiedene Arten von Brücken, Kanal- und Flussprofilen zu durchfahren sowie „sichere Häfen“ und Übernachtungshäfen zu nutzen. mit aktuellen Karten, Nachrichten für die Binnenschifffahrt oder Seefahrer sowie anderen Veröffentlichungen zu arbeiten; Kenntnis der Navigationshilfen. Fähigkeit, gegebenenfalls Navigationshilfen zu verwenden, z. B. Satellitenpositionssystemnavigation. Fähigkeit, nautische Karten unter Berücksichtigung von Faktoren im Zusammenhang mit Genauigkeit und Kartenangaben, wie Kartendatum, Symbolen, Tiefeninformationen, Bodenbeschreibung, Tiefen und Datum (WGS84), und internationale Kartenstandards wie Inland ECDIS zu nutzen. Fähigkeit, nautische Veröffentlichungen wie Nachrichten für die Binnenschifffahrt oder Seefahrer zu nutzen, um die erforderlichen Informationen für eine sichere Navigation zu sammeln, sodass jederzeit die Gezeitenhöhe, Informationen zu Vereisung, Hochwasser oder Niedrigwasser, Liegeplätzen und Hafenverzeichnissen verfügbar sind. die einschlägigen Verkehrsüberwachungsinstrumente zu nutzen und anzuwenden. Kenntnis der Signale. Fähigkeit, Tag- und Nachtzeichen wie Leitfeuer zu nutzen. Kenntnis von Inland AIS, Inland ECDIS, elektronischen Meldungen und Nachrichten für die Binnenschifffahrt oder Seefahrer, Binnenschifffahrtsinformationsdiensten (river information services – RIS), überwachten und unüberwachten Schiffsverkehrsdiensten (vessel traffic services – VTS) und deren Komponenten. Fähigkeit, Verkehrsinformationsinstrumente zu nutzen. Der Schiffsführer muss in der Lage sein, seine Kenntnisse der geltenden Besatzungsvorschriften, einschließlich seiner Kenntnisse über Ruhezeiten und die Zusammensetzung der Mitglieder einer Decksmannschaft, anzuwenden. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die erforderlichen Qualifikationen und Besatzungsmitglieder anhand der anwendbaren Vorschriften für die Besatzung von Fahrzeugen auszuwählen; dies schließt Kenntnisse über Ruhezeiten und die Zusammensetzung der Mitglieder einer Decksmannschaft ein.1.Kenntnis der Mindestbesatzungsanforderungen und vorgeschriebenen Berufsqualifikationen von Besatzungsmitgliedern und Bordpersonal.2.Kenntnis der Anforderungen an die medizinische Tauglichkeit und die medizinischen Untersuchungen von Besatzungsmitgliedern.3.Kenntnis des administrativen Verfahrens für die Erfassung von Daten in Schifferdienstbüchern.4.Kenntnis der anwendbaren Betriebsarten und der Mindestruhezeit.5.Kenntnis des administrativen Verfahrens für die Erfassung von Daten im Bordbuch.6.Kenntnis der Vorschriften über die Arbeitszeit.7.Kenntnis der Anforderungen für besondere Berechtigungen.8.Kenntnis der speziellen Besatzungsanforderungen für Schiffe, die dem Europäischen Übereinkommen über die internationale Beförderung gefährlicher Güter auf Binnenwasserstraßen (ADN) unterliegen, Fahrgastschiffe und mit Flüssigerdgas betriebene Fahrzeuge, sofern anwendbar.9.Fähigkeit, den Besatzungsmitgliedern Anweisungen hinsichtlich Dienstantritt und Dienstende zu erteilen. die erforderlichen Qualifikationen und Besatzungsmitglieder anhand der anwendbaren Vorschriften für die Besatzung von Fahrzeugen auszuwählen; dies schließt Kenntnisse über Ruhezeiten und die Zusammensetzung der Mitglieder einer Decksmannschaft ein. Kenntnis der Mindestbesatzungsanforderungen und vorgeschriebenen Berufsqualifikationen von Besatzungsmitgliedern und Bordpersonal. Kenntnis der Anforderungen an die medizinische Tauglichkeit und die medizinischen Untersuchungen von Besatzungsmitgliedern. Kenntnis des administrativen Verfahrens für die Erfassung von Daten in Schifferdienstbüchern. Kenntnis der anwendbaren Betriebsarten und der Mindestruhezeit. Kenntnis des administrativen Verfahrens für die Erfassung von Daten im Bordbuch. Kenntnis der Vorschriften über die Arbeitszeit. Kenntnis der Anforderungen für besondere Berechtigungen. Kenntnis der speziellen Besatzungsanforderungen für Schiffe, die dem Europäischen Übereinkommen über die internationale Beförderung gefährlicher Güter auf Binnenwasserstraßen (ADN) unterliegen, Fahrgastschiffe und mit Flüssigerdgas betriebene Fahrzeuge, sofern anwendbar. Fähigkeit, den Besatzungsmitgliedern Anweisungen hinsichtlich Dienstantritt und Dienstende zu erteilen. Der Schiffsführer muss in der Lage sein, bei Gewährleistung des sicheren Betriebs des Fahrzeugs unter allen Bedingungen auf Binnenwasserstraßen Fahrzeuge zu führen und zu manövrieren; dies gilt auch für Situationen mit hohem Verkehrsaufkommen oder Situationen, in denen andere Fahrzeuge Gefahrgut befördern, wofür Grundkenntnisse des Europäischen Übereinkommens über die internationale Beförderung gefährlicher Güter auf Binnenwasserstraßen (ADN) erforderlich sind. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.unter Berücksichtigung der geografischen, hydrologischen, meteorologischen und morphologischen Eigenschaften der Hauptbinnenwasserstraßen auf diesen zu fahren und zu manövrieren;1.Kenntnisse zu den hydrologischen und morphologischen Eigenschaften der Hauptwasserstraßen, z. B. Einzugsgebiet und Wasserscheide, Flussarten nach Wasserquelle, Flussgefälle und -lauf, Fließgeschwindigkeit und Strömungsmuster, menschliche Eingriffe in den Flusslauf.2.Kenntnisse zu den meteorologischen Auswirkungen auf die Hauptbinnenwasserstraßen, z. B. Wetterbericht und Warndienste, Beaufort-Skala, regionale Einteilung für Wind- und Unwetterwarnungen mit Faktoren wie Luftdruck, Windstärke, Hoch- und Tiefdruckgebieten, Wolken, Nebel, Arten und Durchzug von Wetterfronten, Eiswarnungen und Hochwasserwarnungen.3.Fähigkeit, die geografischen, hydrologischen, meteorologischen und morphologischen Informationen anzuwenden.2.Anweisungen für das Festmachen und Ablegen des Fahrzeugs und das Verholen und Schleppen zu erteilen;1.Kenntnis der technischen Anforderungen und Dokumente zum Festmachen und Verholen.2.Fähigkeit, die Verfahren für Festmach- und Ablegemanöver einzuleiten und sicherzustellen, dass die Ausrüstung auf verschiedenen Arten von Fahrzeugen mit den Anforderungen des Zeugnisses des Fahrzeugs übereinstimmt.3.Fähigkeit, mit der Decksmannschaft zu kommunizieren, z. B. Kommunikationssysteme und Handzeichen zu verwenden.3.für einen sicheren Zugang zum Fahrzeug zu sorgen;1.Kenntnis der technischen Anforderungen an Einrichtungen für den Fahrzeugzugang.2.Fähigkeit, einen sicheren Zugang zum Fahrzeug im fahrenden, festgemachten Zustand und vor Anker zu organisieren und z. B. Treppen, Landungsstege, Beiboote, Absturzsicherung und Beleuchtung zu verwenden.4.moderne elektronische Navigationshilfen zu benutzen;1.Kenntnis der Funktionen und Bedienung von Navigationshilfen.2.Kenntnis der Bedienungsgrundlagen, Beschränkungen und Fehlerquellen von Navigationshilfen.3.Fähigkeit, nautische Sensoren und Anzeigen, die nautische Informationen bereitstellen, z. B. (D)GPS, Positions-, Steuerkurs-, Kurs-, Geschwindigkeits-, Abstands-, Tiefenanzeiger, Inland ECDIS, Radar, zu verwenden.4.Fähigkeit, Binnenschifffahrtsinformationsdienste (RIS) und -technologien, z. B. Inland AIS, Inland ECDIS, elektronische Meldungen und Nachrichten für die Binnenschifffahrt, Wasserstraßeninformationsdienste (Fairway Information Services – FIS), Verkehrsinformationen (Traffic Information Services – TIS), Verkehrsmanagementdienste (Traffic Management Services – TMS), Havariemanagementdienste (Calamity Abatement Services – CAS), Informationen für Transportlogistik (Information for Transport Logistics – ITL), Informationen für Strafverfolgung (Information for Law Enforcement – ILE), Statistiken, Informationen zu Schifffahrtsabgaben und Hafengeldern (Waterway Charges and Harbour Dues – WCHD), Abstand, Tiefe, auch in Verbindung mit Radar, zu verwenden.5.Fähigkeit, fehlerhafte Anzeigen zu erkennen und Methoden zur Korrektur anzuwenden.5.die technischen Anforderungen an die Binnenschifffahrt zu beachten;1.Kenntnis des Aufbaus und Inhalts der anwendbaren technischen Anforderungen und des Inhalts des Zeugnisses des Fahrzeugs.2.Fähigkeit, Prüfungen und Zertifizierungsverfahren einzuleiten.6.die Auswirkungen von Strömung, Wellengang, Wind und Wasserständen im Zusammenhang mit den Wechselwirkungen beim Kreuzen, Begegnen und Überholen von Fahrzeugen sowie zwischen Fahrzeug und Ufer (Kanalwirkung) zu berücksichtigen;1.Kenntnis des Einflusses von Wellengang, Wind und Strömung auf das fahrende, manövrierende oder stillliegende Fahrzeug, einschließlich der Auswirkungen von Wind, z. B. Seitenwind, beim Manövrieren, u. a. auf nautische Aufbauten, oder beim Einfahren in oder Ausfahren aus Häfen, Schleusen und Nebenwasserstraßen.2.Kenntnis des Einflusses der Strömung auf das fahrende, manövrierende oder stillliegende Fahrzeug auf durch die Binnenschifffahrt genutzten Wasserstraßen, wie die Auswirkungen der Strömung z. B. beim Manövrieren zu Berg und zu Tal oder im leeren oder beladenen Zustand und z. B. beim Einfahren in und Ausfahren aus Häfen, Schleusen oder Nebenwasserstraßen.3.Kenntnis des Einflusses der Wasserbewegung auf das fahrende, manövrierende oder stillliegende Fahrzeug, wie des Einflusses der Wasserbewegung auf den Tiefgang in Abhängigkeit der Wassertiefe, und der Reaktion auf Flachwassereffekte, z. B. durch eine Verringerung der Fahrgeschwindigkeit.4.Fähigkeit, die Wechselwirkungen auf das fahrende, manövrierende oder stillliegende Fahrzeug in Fahrwasserengen zu berücksichtigen und die Wechselwirkungen im Zusammenhang mit einem leeren oder beladenen Fahrzeug zu erkennen.5.Kenntnis der Auswirkungen von Ladungsumschlag und Stauungsbedingungen auf die Stabilität des fahrenden, manövrierenden oder stillliegenden Fahrzeugs.6.Fähigkeit, Trimmung, Krängung, Flutung, Hebelarm und Schwerpunkte zu berücksichtigen.7.die Antriebs- und Manövriersysteme sowie geeignete Kommunikations- und Alarmsysteme zu benutzen;1.Kenntnis der Antriebs-, Steuerungs- und Manövriersysteme und ihres Einflusses auf die Manövrierfähigkeit.2.Fähigkeit, die Antriebs-, Steuerungs- und Manövriersysteme zu benutzen.3.Kenntnis der Ankervorrichtungen.4.Fähigkeit, Anker unter verschiedenen Umständen zu benutzen.5.Kenntnis der Kommunikations- und Alarmsysteme.6.Fähigkeit, erforderlichenfalls Anweisungen im Falle eines Alarms zu erteilen.8.Fahrzeuge auch in Situationen mit hohem Verkehrsaufkommen oder Situationen, in denen andere Fahrzeuge Gefahrgut befördern, zu führen und zu manövrieren, wofür Grundkenntnisse des ADN erforderlich sind.1.Grundlegende Kenntnis des Aufbaus des ADN, der ADN-Dokumente und -Anweisungen sowie der im ADN vorgeschriebenen optischen Signalzeichen.2.Fähigkeit, Anweisungen im ADN zu finden und optische Signalzeichen für dem ADN unterliegende Fahrzeuge zu erkennen. unter Berücksichtigung der geografischen, hydrologischen, meteorologischen und morphologischen Eigenschaften der Hauptbinnenwasserstraßen auf diesen zu fahren und zu manövrieren; Kenntnisse zu den hydrologischen und morphologischen Eigenschaften der Hauptwasserstraßen, z. B. Einzugsgebiet und Wasserscheide, Flussarten nach Wasserquelle, Flussgefälle und -lauf, Fließgeschwindigkeit und Strömungsmuster, menschliche Eingriffe in den Flusslauf. Kenntnisse zu den meteorologischen Auswirkungen auf die Hauptbinnenwasserstraßen, z. B. Wetterbericht und Warndienste, Beaufort-Skala, regionale Einteilung für Wind- und Unwetterwarnungen mit Faktoren wie Luftdruck, Windstärke, Hoch- und Tiefdruckgebieten, Wolken, Nebel, Arten und Durchzug von Wetterfronten, Eiswarnungen und Hochwasserwarnungen. Fähigkeit, die geografischen, hydrologischen, meteorologischen und morphologischen Informationen anzuwenden. Anweisungen für das Festmachen und Ablegen des Fahrzeugs und das Verholen und Schleppen zu erteilen; Kenntnis der technischen Anforderungen und Dokumente zum Festmachen und Verholen. Fähigkeit, die Verfahren für Festmach- und Ablegemanöver einzuleiten und sicherzustellen, dass die Ausrüstung auf verschiedenen Arten von Fahrzeugen mit den Anforderungen des Zeugnisses des Fahrzeugs übereinstimmt. Fähigkeit, mit der Decksmannschaft zu kommunizieren, z. B. Kommunikationssysteme und Handzeichen zu verwenden. für einen sicheren Zugang zum Fahrzeug zu sorgen; Kenntnis der technischen Anforderungen an Einrichtungen für den Fahrzeugzugang. Fähigkeit, einen sicheren Zugang zum Fahrzeug im fahrenden, festgemachten Zustand und vor Anker zu organisieren und z. B. Treppen, Landungsstege, Beiboote, Absturzsicherung und Beleuchtung zu verwenden. moderne elektronische Navigationshilfen zu benutzen; Kenntnis der Funktionen und Bedienung von Navigationshilfen. Kenntnis der Bedienungsgrundlagen, Beschränkungen und Fehlerquellen von Navigationshilfen. Fähigkeit, nautische Sensoren und Anzeigen, die nautische Informationen bereitstellen, z. B. (D)GPS, Positions-, Steuerkurs-, Kurs-, Geschwindigkeits-, Abstands-, Tiefenanzeiger, Inland ECDIS, Radar, zu verwenden. Fähigkeit, Binnenschifffahrtsinformationsdienste (RIS) und -technologien, z. B. Inland AIS, Inland ECDIS, elektronische Meldungen und Nachrichten für die Binnenschifffahrt, Wasserstraßeninformationsdienste (Fairway Information Services – FIS), Verkehrsinformationen (Traffic Information Services – TIS), Verkehrsmanagementdienste (Traffic Management Services – TMS), Havariemanagementdienste (Calamity Abatement Services – CAS), Informationen für Transportlogistik (Information for Transport Logistics – ITL), Informationen für Strafverfolgung (Information for Law Enforcement – ILE), Statistiken, Informationen zu Schifffahrtsabgaben und Hafengeldern (Waterway Charges and Harbour Dues – WCHD), Abstand, Tiefe, auch in Verbindung mit Radar, zu verwenden. Fähigkeit, fehlerhafte Anzeigen zu erkennen und Methoden zur Korrektur anzuwenden. die technischen Anforderungen an die Binnenschifffahrt zu beachten; Kenntnis des Aufbaus und Inhalts der anwendbaren technischen Anforderungen und des Inhalts des Zeugnisses des Fahrzeugs. Fähigkeit, Prüfungen und Zertifizierungsverfahren einzuleiten. die Auswirkungen von Strömung, Wellengang, Wind und Wasserständen im Zusammenhang mit den Wechselwirkungen beim Kreuzen, Begegnen und Überholen von Fahrzeugen sowie zwischen Fahrzeug und Ufer (Kanalwirkung) zu berücksichtigen; Kenntnis des Einflusses von Wellengang, Wind und Strömung auf das fahrende, manövrierende oder stillliegende Fahrzeug, einschließlich der Auswirkungen von Wind, z. B. Seitenwind, beim Manövrieren, u. a. auf nautische Aufbauten, oder beim Einfahren in oder Ausfahren aus Häfen, Schleusen und Nebenwasserstraßen. Kenntnis des Einflusses der Strömung auf das fahrende, manövrierende oder stillliegende Fahrzeug auf durch die Binnenschifffahrt genutzten Wasserstraßen, wie die Auswirkungen der Strömung z. B. beim Manövrieren zu Berg und zu Tal oder im leeren oder beladenen Zustand und z. B. beim Einfahren in und Ausfahren aus Häfen, Schleusen oder Nebenwasserstraßen. Kenntnis des Einflusses der Wasserbewegung auf das fahrende, manövrierende oder stillliegende Fahrzeug, wie des Einflusses der Wasserbewegung auf den Tiefgang in Abhängigkeit der Wassertiefe, und der Reaktion auf Flachwassereffekte, z. B. durch eine Verringerung der Fahrgeschwindigkeit. Fähigkeit, die Wechselwirkungen auf das fahrende, manövrierende oder stillliegende Fahrzeug in Fahrwasserengen zu berücksichtigen und die Wechselwirkungen im Zusammenhang mit einem leeren oder beladenen Fahrzeug zu erkennen. Kenntnis der Auswirkungen von Ladungsumschlag und Stauungsbedingungen auf die Stabilität des fahrenden, manövrierenden oder stillliegenden Fahrzeugs. Fähigkeit, Trimmung, Krängung, Flutung, Hebelarm und Schwerpunkte zu berücksichtigen. die Antriebs- und Manövriersysteme sowie geeignete Kommunikations- und Alarmsysteme zu benutzen; Kenntnis der Antriebs-, Steuerungs- und Manövriersysteme und ihres Einflusses auf die Manövrierfähigkeit. Fähigkeit, die Antriebs-, Steuerungs- und Manövriersysteme zu benutzen. Kenntnis der Ankervorrichtungen. Fähigkeit, Anker unter verschiedenen Umständen zu benutzen. Kenntnis der Kommunikations- und Alarmsysteme. Fähigkeit, erforderlichenfalls Anweisungen im Falle eines Alarms zu erteilen. Fahrzeuge auch in Situationen mit hohem Verkehrsaufkommen oder Situationen, in denen andere Fahrzeuge Gefahrgut befördern, zu führen und zu manövrieren, wofür Grundkenntnisse des ADN erforderlich sind. Grundlegende Kenntnis des Aufbaus des ADN, der ADN-Dokumente und -Anweisungen sowie der im ADN vorgeschriebenen optischen Signalzeichen. Fähigkeit, Anweisungen im ADN zu finden und optische Signalzeichen für dem ADN unterliegende Fahrzeuge zu erkennen. Der Schiffsführer muss in der Lage sein, auf navigatorische Notfälle auf Binnenwasserstraßen zu reagieren. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.im Notfall beim absichtlichen Aufgrundsetzen eines Fahrzeugs Vorsichtsmaßnahmen zur Vermeidung größerer Schäden zu ergreifen;1.Kenntnis von flachen Stellen und Sandbänken, die für ein Aufgrundsetzen des Fahrzeugs genutzt werden können.2.Fähigkeit, Maschinen oder Ankervorrichtungen im Falle eines erforderlichen Aufgrundsetzens angemessen einzusetzen.2.ein auf Grund gelaufenes Fahrzeug mit und ohne Hilfe wieder in Fahrt zu bringen;1.Kenntnis der im Falle eines Auflaufens zu ergreifenden Maßnahmen, einschließlich des Abdichtens von Leckagen und der erforderlichen Maßnahmen, um das Fahrzeug wieder in die Fahrrinne zu lenken.2.Fähigkeit, Leckagen abzudichten, das Fahrzeug mithilfe anderer Fahrzeuge, z. B. Schlepp- oder Schubboote, zu bewegen.3.bei einem bevorstehenden Zusammenstoß geeignete Maßnahmen zu ergreifen;1.Kenntnis der bei einem bevorstehenden Zusammenstoß oder Unfall anwendbaren Vorschriften.2.Fähigkeit, das Fahrzeug bei einem unvermeidbaren Zusammenstoß so zu führen, dass der Schaden für Personen, z. B. Fahrgäste und Besatzungsmitglieder, das eigene Fahrzeug und das andere Fahrzeug, die Ladung und die Umwelt so gering wie möglich bleibt.4.nach einem Zusammenstoß und einer Bewertung des Schadens angemessene Maßnahmen zu ergreifen.1.Kenntnis der nach einem Zusammenstoß oder Unfall anwendbaren Vorschriften.2.Fähigkeit, die geeigneten Maßnahmen im Falle eines Schadens, Zusammenstoßes oder Auflaufens zu ergreifen, einschließlich Bewertung des Schadens, Kommunikation mit den zuständigen Behörden und Einholen der Erlaubnis, in eine sichere Position zu fahren. im Notfall beim absichtlichen Aufgrundsetzen eines Fahrzeugs Vorsichtsmaßnahmen zur Vermeidung größerer Schäden zu ergreifen; Kenntnis von flachen Stellen und Sandbänken, die für ein Aufgrundsetzen des Fahrzeugs genutzt werden können. Fähigkeit, Maschinen oder Ankervorrichtungen im Falle eines erforderlichen Aufgrundsetzens angemessen einzusetzen. ein auf Grund gelaufenes Fahrzeug mit und ohne Hilfe wieder in Fahrt zu bringen; Kenntnis der im Falle eines Auflaufens zu ergreifenden Maßnahmen, einschließlich des Abdichtens von Leckagen und der erforderlichen Maßnahmen, um das Fahrzeug wieder in die Fahrrinne zu lenken. Fähigkeit, Leckagen abzudichten, das Fahrzeug mithilfe anderer Fahrzeuge, z. B. Schlepp- oder Schubboote, zu bewegen. bei einem bevorstehenden Zusammenstoß geeignete Maßnahmen zu ergreifen; Kenntnis der bei einem bevorstehenden Zusammenstoß oder Unfall anwendbaren Vorschriften. Fähigkeit, das Fahrzeug bei einem unvermeidbaren Zusammenstoß so zu führen, dass der Schaden für Personen, z. B. Fahrgäste und Besatzungsmitglieder, das eigene Fahrzeug und das andere Fahrzeug, die Ladung und die Umwelt so gering wie möglich bleibt. nach einem Zusammenstoß und einer Bewertung des Schadens angemessene Maßnahmen zu ergreifen. Kenntnis der nach einem Zusammenstoß oder Unfall anwendbaren Vorschriften. Fähigkeit, die geeigneten Maßnahmen im Falle eines Schadens, Zusammenstoßes oder Auflaufens zu ergreifen, einschließlich Bewertung des Schadens, Kommunikation mit den zuständigen Behörden und Einholen der Erlaubnis, in eine sichere Position zu fahren.
 
-0.1
+2. Betrieb des Fahrzeugs2.1Der Schiffsführer muss in der Lage sein, seine Kenntnisse der Konstruktion und des Baus von Binnenschiffen auf den Betrieb unterschiedlicher Arten von Fahrzeugen anzuwenden, und er muss über Grundkenntnisse der technischen Vorschriften für Binnenschiffe gemäß der Richtlinie (EU) 2016/1629 des Europäischen Parlaments und des Rates verfügen.Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die Grundsätze des Schiffsbaus in der Binnenschifffahrt zu beachten;1.Kenntnis der Bedeutung und der Auswirkungen der Fahrzeugabmessungen und der Abmessungen der Binnenwasserstraßen gemäß den anwendbaren Vorschriften.2.Fähigkeit, Fahrzeuge ihren Abmessungen und den anwendbaren Bauvorschriften entsprechend zu betreiben.3.Fähigkeit, die Erfüllung der anwendbaren Rechtsvorschriften durch das Fahrzeug unter Berücksichtigung der Bauarbeiten zu überwachen.2.die Konstruktion von Fahrzeugen und ihr Verhalten im Wasser, insbesondere im Hinblick auf Stabilität und Festigkeit, zu unterscheiden;1.Kenntnis der Fahrzeugmerkmale gemäß den Konstruktionszeichnungen verschiedener Arten von Fahrzeugen und der Auswirkungen der Konstruktion auf das Fahrzeugverhalten sowie auf dessen Stabilität und Festigkeit.2.Kenntnis des Fahrzeugverhaltens unter verschiedenen Bedingungen und in verschiedenen Umgebungen.3.Fähigkeit, die Stabilität des Fahrzeugs zu überwachen und entsprechende Anweisungen zu erteilen.3.die Bauteile des Fahrzeugs und die Schadenskontrolle und -analyse zu verstehen;1.Kenntnis der wichtigsten Bestandteile von Fahrzeugen und verschiedener Fahrzeugarten einschließlich der technischen Anforderungen an Binnenschiffe gemäß der Richtlinie (EU) 2016/1629.2.Fähigkeit, die Hauptbestandteile des Fahrzeugs für die verschiedenen Verkehrsarten zu überwachen und entsprechende Anweisungen zu erteilen.3.Kenntnis der Längs- und Querstruktur und örtlicher Verstärkungen zum Zwecke der Schadensverhütung und -analyse.4.Fähigkeit, die Funktionen der Ausrüstung und die Nutzung der verschiedenen Laderäume und Abteilungen zum Zwecke der Schadensverhütung und -analyse zu verstehen und zu kontrollieren.4.Maßnahmen zum Schutz der Wasserdichtigkeit des Fahrzeugs zu ergreifen.1.Kenntnisse über die Wasserdichtigkeit des Fahrzeugs.2.Fähigkeit, die Wasserdichtigkeit des Fahrzeugs zu überwachen und entsprechende Anweisungen zu erteilen.2.2Der Schiffsführer muss in der Lage sein, die vorgeschriebene Ausrüstung gemäß dem geltenden Zeugnis des Fahrzeugs zu kontrollieren und zu überwachen.Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die Funktionen der Fahrzeugausrüstung zu verstehen;1.Kenntnis der vorgeschriebenen Ausrüstung des Fahrzeugs.2.Fähigkeit, die Funktionen der gesamten Ausrüstung gemäß den anwendbaren Rechtsvorschriften zu nutzen und zu kontrollieren sowie entsprechende Anweisungen zu erteilen und zu beaufsichtigen.2.die speziellen Anforderungen bei der Beförderung von Ladung und Fahrgästen zu beachten.1.Kenntnis der speziellen Anforderungen an die Konstruktion und Ausrüstung von Fahrzeugen für die Beförderung verschiedener Ladungen und Fahrgäste mit verschiedenen Arten von Fahrzeugen gemäß den geltenden Rechtsvorschriften.2.Fähigkeit, entsprechende Anweisungen zu erteilen und zu beaufsichtigen.3.Fähigkeit, Anweisungen zur ordnungsgemäßen Anwendung der Anforderungen des Zeugnisses des Fahrzeugs zu erteilen und zu beaufsichtigen. Der Schiffsführer muss in der Lage sein, seine Kenntnisse der Konstruktion und des Baus von Binnenschiffen auf den Betrieb unterschiedlicher Arten von Fahrzeugen anzuwenden, und er muss über Grundkenntnisse der technischen Vorschriften für Binnenschiffe gemäß der Richtlinie (EU) 2016/1629 des Europäischen Parlaments und des Rates verfügen. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die Grundsätze des Schiffsbaus in der Binnenschifffahrt zu beachten;1.Kenntnis der Bedeutung und der Auswirkungen der Fahrzeugabmessungen und der Abmessungen der Binnenwasserstraßen gemäß den anwendbaren Vorschriften.2.Fähigkeit, Fahrzeuge ihren Abmessungen und den anwendbaren Bauvorschriften entsprechend zu betreiben.3.Fähigkeit, die Erfüllung der anwendbaren Rechtsvorschriften durch das Fahrzeug unter Berücksichtigung der Bauarbeiten zu überwachen.2.die Konstruktion von Fahrzeugen und ihr Verhalten im Wasser, insbesondere im Hinblick auf Stabilität und Festigkeit, zu unterscheiden;1.Kenntnis der Fahrzeugmerkmale gemäß den Konstruktionszeichnungen verschiedener Arten von Fahrzeugen und der Auswirkungen der Konstruktion auf das Fahrzeugverhalten sowie auf dessen Stabilität und Festigkeit.2.Kenntnis des Fahrzeugverhaltens unter verschiedenen Bedingungen und in verschiedenen Umgebungen.3.Fähigkeit, die Stabilität des Fahrzeugs zu überwachen und entsprechende Anweisungen zu erteilen.3.die Bauteile des Fahrzeugs und die Schadenskontrolle und -analyse zu verstehen;1.Kenntnis der wichtigsten Bestandteile von Fahrzeugen und verschiedener Fahrzeugarten einschließlich der technischen Anforderungen an Binnenschiffe gemäß der Richtlinie (EU) 2016/1629.2.Fähigkeit, die Hauptbestandteile des Fahrzeugs für die verschiedenen Verkehrsarten zu überwachen und entsprechende Anweisungen zu erteilen.3.Kenntnis der Längs- und Querstruktur und örtlicher Verstärkungen zum Zwecke der Schadensverhütung und -analyse.4.Fähigkeit, die Funktionen der Ausrüstung und die Nutzung der verschiedenen Laderäume und Abteilungen zum Zwecke der Schadensverhütung und -analyse zu verstehen und zu kontrollieren.4.Maßnahmen zum Schutz der Wasserdichtigkeit des Fahrzeugs zu ergreifen.1.Kenntnisse über die Wasserdichtigkeit des Fahrzeugs.2.Fähigkeit, die Wasserdichtigkeit des Fahrzeugs zu überwachen und entsprechende Anweisungen zu erteilen. die Grundsätze des Schiffsbaus in der Binnenschifffahrt zu beachten; Kenntnis der Bedeutung und der Auswirkungen der Fahrzeugabmessungen und der Abmessungen der Binnenwasserstraßen gemäß den anwendbaren Vorschriften. Fähigkeit, Fahrzeuge ihren Abmessungen und den anwendbaren Bauvorschriften entsprechend zu betreiben. Fähigkeit, die Erfüllung der anwendbaren Rechtsvorschriften durch das Fahrzeug unter Berücksichtigung der Bauarbeiten zu überwachen. die Konstruktion von Fahrzeugen und ihr Verhalten im Wasser, insbesondere im Hinblick auf Stabilität und Festigkeit, zu unterscheiden; Kenntnis der Fahrzeugmerkmale gemäß den Konstruktionszeichnungen verschiedener Arten von Fahrzeugen und der Auswirkungen der Konstruktion auf das Fahrzeugverhalten sowie auf dessen Stabilität und Festigkeit. Kenntnis des Fahrzeugverhaltens unter verschiedenen Bedingungen und in verschiedenen Umgebungen. Fähigkeit, die Stabilität des Fahrzeugs zu überwachen und entsprechende Anweisungen zu erteilen. die Bauteile des Fahrzeugs und die Schadenskontrolle und -analyse zu verstehen; Kenntnis der wichtigsten Bestandteile von Fahrzeugen und verschiedener Fahrzeugarten einschließlich der technischen Anforderungen an Binnenschiffe gemäß der Richtlinie (EU) 2016/1629. Fähigkeit, die Hauptbestandteile des Fahrzeugs für die verschiedenen Verkehrsarten zu überwachen und entsprechende Anweisungen zu erteilen. Kenntnis der Längs- und Querstruktur und örtlicher Verstärkungen zum Zwecke der Schadensverhütung und -analyse. Fähigkeit, die Funktionen der Ausrüstung und die Nutzung der verschiedenen Laderäume und Abteilungen zum Zwecke der Schadensverhütung und -analyse zu verstehen und zu kontrollieren. Maßnahmen zum Schutz der Wasserdichtigkeit des Fahrzeugs zu ergreifen. Kenntnisse über die Wasserdichtigkeit des Fahrzeugs. Fähigkeit, die Wasserdichtigkeit des Fahrzeugs zu überwachen und entsprechende Anweisungen zu erteilen. Der Schiffsführer muss in der Lage sein, die vorgeschriebene Ausrüstung gemäß dem geltenden Zeugnis des Fahrzeugs zu kontrollieren und zu überwachen. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die Funktionen der Fahrzeugausrüstung zu verstehen;1.Kenntnis der vorgeschriebenen Ausrüstung des Fahrzeugs.2.Fähigkeit, die Funktionen der gesamten Ausrüstung gemäß den anwendbaren Rechtsvorschriften zu nutzen und zu kontrollieren sowie entsprechende Anweisungen zu erteilen und zu beaufsichtigen.2.die speziellen Anforderungen bei der Beförderung von Ladung und Fahrgästen zu beachten.1.Kenntnis der speziellen Anforderungen an die Konstruktion und Ausrüstung von Fahrzeugen für die Beförderung verschiedener Ladungen und Fahrgäste mit verschiedenen Arten von Fahrzeugen gemäß den geltenden Rechtsvorschriften.2.Fähigkeit, entsprechende Anweisungen zu erteilen und zu beaufsichtigen.3.Fähigkeit, Anweisungen zur ordnungsgemäßen Anwendung der Anforderungen des Zeugnisses des Fahrzeugs zu erteilen und zu beaufsichtigen. die Funktionen der Fahrzeugausrüstung zu verstehen; Kenntnis der vorgeschriebenen Ausrüstung des Fahrzeugs. Fähigkeit, die Funktionen der gesamten Ausrüstung gemäß den anwendbaren Rechtsvorschriften zu nutzen und zu kontrollieren sowie entsprechende Anweisungen zu erteilen und zu beaufsichtigen. die speziellen Anforderungen bei der Beförderung von Ladung und Fahrgästen zu beachten. Kenntnis der speziellen Anforderungen an die Konstruktion und Ausrüstung von Fahrzeugen für die Beförderung verschiedener Ladungen und Fahrgäste mit verschiedenen Arten von Fahrzeugen gemäß den geltenden Rechtsvorschriften. Fähigkeit, entsprechende Anweisungen zu erteilen und zu beaufsichtigen. Fähigkeit, Anweisungen zur ordnungsgemäßen Anwendung der Anforderungen des Zeugnisses des Fahrzeugs zu erteilen und zu beaufsichtigen.
 
-1.
+3. Ladungsumschlag, Ladungsstauung und Fahrgastbeförderung3.1Der Schiffsführer muss in der Lage sein, die Sicherheit beim Beladen, Stauen, Befestigen und Entladen sowie die Ladungsfürsorge während der Reise zu planen und zu gewährleisten.Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die einschlägigen nationalen, europäischen und internationalen Vorschriften, Codes und Standards für die Beförderung von Ladung zu verstehen;1.Kenntnis der nationalen, europäischen und internationalen Vorschriften zum Be- und Entladen und zur Beförderung.2.Anwendung der einschlägigen Regeln und Standards für Logistik und multimodalen Verkehr.2.Staupläne unter Berücksichtigung von Kenntnissen über das Laden von Ladungen und Ballastsysteme zu erstellen, um die Belastung des Schiffskörpers in annehmbaren Grenzen zu halten;1.Kenntnis der Betriebs- und Konstruktionseinschränkungen von Trockengüterfahrzeugen (z. B. Containerfahrzeugen) und Tankschiffen (N, C, G).2.Fähigkeit, die Grenzwerte für Biegemomente und Scherkräfte zu interpretieren.3.Kenntnis der Nutzung von Stau- und Stabilitätssoftware.4.Fähigkeit, Staupläne unter Nutzung von Stau- und Stabilitätssoftware zu erstellen.3.die Be- und Entladevorgänge im Hinblick auf eine sichere Beförderung zu kontrollieren;1.Kenntnis der Staupläne und verfügbaren schiffsseitigen Daten und deren Umsetzung.2.Fähigkeit, Ladung zu stauen und zu sichern, unter Einsatz des notwendigen Ladegeschirrs sowie von Ausrüstung zum Sichern und Laschen der Ladung.3.Kenntnis der verschiedenen Verfahren zur Bestimmung des Ladungsgewichts auf Güterschiffen und Tankschiffen sowie anderen Fahrzeugen.4.Kenntnis der Bestimmung der Menge geladener oder gelöschter Ladung und der Berechnung der Menge trockener und flüssiger Ladung.5.Kenntnis der möglichen schädlichen Auswirkungen von unsachgemäßem Ladungsumschlag.6.Fähigkeit, die technischen Mittel für den Ladungsumschlag zwischen Fahrzeug und Hafen zu nutzen und die Arbeitssicherheitsmaßnahmen während deren Gebrauch anzuwenden.4.verschiedene Güter und deren Eigenschaften zu unterscheiden, um ein sicheres Laden der Güter nach dem Stauplan zu überwachen und zu gewährleisten.1.Fähigkeit, Verfahren für den sicheren Ladungsumschlag gemäß den Bestimmungen der einschlägigen sicherheitsbezogenen Arbeitsvorschriften einzuführen.2.Kenntnisse über effiziente Kommunikation und Arbeitsbeziehungen mit allen an den Be- und Entladevorgängen beteiligten Partnern.3.2Der Schiffsführer muss in der Lage sein, die Stabilität des Fahrzeugs zu planen und zu gewährleisten.Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die Auswirkungen von Ladung und Ladevorgängen auf Trimmlage und Stabilität zu beachten;1.Kenntnisse zur Wasserdichtigkeit und Stabilität für alle Arten von Ladung und Fahrzeugen.2.Fähigkeit, Instrumente zur Korrektur von Trimmlage und Stabilität einzusetzen.2.die effektive Tonnage des Fahrzeugs zu überprüfen, Stabilitäts- und Trimmdiagramme sowie Geräte zur Festigkeitsberechnung, einschließlich automatischer datenbasierter Ausrüstung (ADB-Ausrüstung), zur Überprüfung von Stauplänen zu verwenden.1.Kenntnis der speziellen Software zur Berechnung von Stabilität, Trimm und Belastung.2.Fähigkeit, Stabilität und Trimm zu bestimmen und Belastungstabellen, Diagramme und Geräte zur Festigkeitsberechnung zu gebrauchen.3.3Der Schiffsführer muss in der Lage sein, die sichere Beförderung von Fahrgästen und deren Fürsorge während der Fahrt zu planen und zu gewährleisten, einschließlich der unmittelbaren Hilfeleistung für Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität gemäß der Unterweisung und den Instruktionen nach Anhang IV der Verordnung (EU) Nr. 1177/2010.Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die einschlägigen nationalen, europäischen und internationalen Vorschriften, Codes und Standards für die Beförderung von Fahrgästen zu verstehen;1.Kenntnis der geltenden Vorschriften und Übereinkommen zur Fahrgastbeförderung.2.Fähigkeit, den sicheren Ein- und Ausstieg von Fahrgästen und deren Fürsorge während der Fahrt zu gewährleisten, unter besonderer Beachtung von hilfsbedürftigen Personen und unmittelbarer Hilfeleistung für Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität gemäß der Unterweisung und den Instruktionen nach Anhang IV der Verordnung (EU) Nr. 1177/2010.3.Fähigkeit, die Vorgehensweisen im Falle eines Lecks, eines Brandes, einer über Bord gegangenen Person, eines Zusammenstoßes und einer Evakuierung zu kontrollieren, einschließlich der Krisenbewältigung und der Führung von Menschenmengen.2.regelmäßige Sicherheitsübungen gemäß der Sicherheitsrolle zu organisieren und zu überwachen, um ein sicheres Verhalten in möglichen Gefahrensituation zu gewährleisten;1.Kenntnis der Verantwortlichkeiten gemäß internationalen und nationalen Vorschriften betreffend die Sicherheit des Schiffes, der Fahrgäste und der Besatzung.2.Fähigkeit, die Führung und Ausbildung des Bordpersonals in Bezug auf Sicherheit umzusetzen.3.Anwendung von Erster Hilfe an Bord des Fahrzeugs.3.die Auswirkungen der Gewichtsverteilung der Fahrgäste auf die Stabilität des Fahrgastschiffes, das Verhalten gegenüber und die Kommunikation mit Fahrgästen zu beachten;1.Kenntnis der Regeln und Vorschriften in Bezug auf Stabilität.2.Fähigkeit, die einschlägigen Maßnahmen bezüglich der Wasserdichtigkeit, einschließlich des Einflusses auf Trimmung und Stabilität von Fahrgastschiffen, anzuwenden.3.Kenntnisse über die Konstruktion des Schiffes im Zusammenhang mit Trimmung und Stabilität sowie die im Falle eines teilweisen Verlusts des Intaktauftriebs/der Leckstabilität des Fahrgastschiffes zu ergreifenden Maßnahmen.4.Fähigkeit, Standardredewendungen zu verwenden.4.eine Analyse der Gefahren an Bord bezüglich der Beschränkung des Zugangs für Fahrgäste festzulegen und zu überwachen sowie ein wirksames Bordschutzsystem zu erstellen, um unbefugten Zutritt zu verhindern;1.Kenntnis und Einhaltung der Beschränkung der Fahrgastzahl gemäß dem Zeugnis des Fahrgastschiffes.2.Kenntnis der Schutz- und Sicherheitssysteme, die einen unbefugten Zutritt verhindern.3.Fähigkeit, ein Wachdienstsystem (d. h. Nachtwache) im Hinblick auf Schutz und Sicherheit zu organisieren.5.Berichte von Fahrgästen (d. h. über unvorhergesehene Ereignisse, Beleidigungen, Vandalismus) zu analysieren, um angemessen zu reagieren.1.Kenntnisse über Fahrgastrechte und Fahrgastbeschwerden und die mit der Fahrgastbeförderung verbundenen Gefahren für die Umwelt.2.Fähigkeit, Umweltverschmutzung durch Fahrgäste und Besatzung zu verhindern.3.Fähigkeit zum Umgang mit Beschwerden und Konfliktbewältigung.4.Fähigkeit, mit dem Bordpersonal und sämtlichen beteiligten Parteien zu kommunizieren. Der Schiffsführer muss in der Lage sein, die Sicherheit beim Beladen, Stauen, Befestigen und Entladen sowie die Ladungsfürsorge während der Reise zu planen und zu gewährleisten. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die einschlägigen nationalen, europäischen und internationalen Vorschriften, Codes und Standards für die Beförderung von Ladung zu verstehen;1.Kenntnis der nationalen, europäischen und internationalen Vorschriften zum Be- und Entladen und zur Beförderung.2.Anwendung der einschlägigen Regeln und Standards für Logistik und multimodalen Verkehr.2.Staupläne unter Berücksichtigung von Kenntnissen über das Laden von Ladungen und Ballastsysteme zu erstellen, um die Belastung des Schiffskörpers in annehmbaren Grenzen zu halten;1.Kenntnis der Betriebs- und Konstruktionseinschränkungen von Trockengüterfahrzeugen (z. B. Containerfahrzeugen) und Tankschiffen (N, C, G).2.Fähigkeit, die Grenzwerte für Biegemomente und Scherkräfte zu interpretieren.3.Kenntnis der Nutzung von Stau- und Stabilitätssoftware.4.Fähigkeit, Staupläne unter Nutzung von Stau- und Stabilitätssoftware zu erstellen.3.die Be- und Entladevorgänge im Hinblick auf eine sichere Beförderung zu kontrollieren;1.Kenntnis der Staupläne und verfügbaren schiffsseitigen Daten und deren Umsetzung.2.Fähigkeit, Ladung zu stauen und zu sichern, unter Einsatz des notwendigen Ladegeschirrs sowie von Ausrüstung zum Sichern und Laschen der Ladung.3.Kenntnis der verschiedenen Verfahren zur Bestimmung des Ladungsgewichts auf Güterschiffen und Tankschiffen sowie anderen Fahrzeugen.4.Kenntnis der Bestimmung der Menge geladener oder gelöschter Ladung und der Berechnung der Menge trockener und flüssiger Ladung.5.Kenntnis der möglichen schädlichen Auswirkungen von unsachgemäßem Ladungsumschlag.6.Fähigkeit, die technischen Mittel für den Ladungsumschlag zwischen Fahrzeug und Hafen zu nutzen und die Arbeitssicherheitsmaßnahmen während deren Gebrauch anzuwenden.4.verschiedene Güter und deren Eigenschaften zu unterscheiden, um ein sicheres Laden der Güter nach dem Stauplan zu überwachen und zu gewährleisten.1.Fähigkeit, Verfahren für den sicheren Ladungsumschlag gemäß den Bestimmungen der einschlägigen sicherheitsbezogenen Arbeitsvorschriften einzuführen.2.Kenntnisse über effiziente Kommunikation und Arbeitsbeziehungen mit allen an den Be- und Entladevorgängen beteiligten Partnern. die einschlägigen nationalen, europäischen und internationalen Vorschriften, Codes und Standards für die Beförderung von Ladung zu verstehen; Kenntnis der nationalen, europäischen und internationalen Vorschriften zum Be- und Entladen und zur Beförderung. Anwendung der einschlägigen Regeln und Standards für Logistik und multimodalen Verkehr. Staupläne unter Berücksichtigung von Kenntnissen über das Laden von Ladungen und Ballastsysteme zu erstellen, um die Belastung des Schiffskörpers in annehmbaren Grenzen zu halten; Kenntnis der Betriebs- und Konstruktionseinschränkungen von Trockengüterfahrzeugen (z. B. Containerfahrzeugen) und Tankschiffen (N, C, G). Fähigkeit, die Grenzwerte für Biegemomente und Scherkräfte zu interpretieren. Kenntnis der Nutzung von Stau- und Stabilitätssoftware. Fähigkeit, Staupläne unter Nutzung von Stau- und Stabilitätssoftware zu erstellen. die Be- und Entladevorgänge im Hinblick auf eine sichere Beförderung zu kontrollieren; Kenntnis der Staupläne und verfügbaren schiffsseitigen Daten und deren Umsetzung. Fähigkeit, Ladung zu stauen und zu sichern, unter Einsatz des notwendigen Ladegeschirrs sowie von Ausrüstung zum Sichern und Laschen der Ladung. Kenntnis der verschiedenen Verfahren zur Bestimmung des Ladungsgewichts auf Güterschiffen und Tankschiffen sowie anderen Fahrzeugen. Kenntnis der Bestimmung der Menge geladener oder gelöschter Ladung und der Berechnung der Menge trockener und flüssiger Ladung. Kenntnis der möglichen schädlichen Auswirkungen von unsachgemäßem Ladungsumschlag. Fähigkeit, die technischen Mittel für den Ladungsumschlag zwischen Fahrzeug und Hafen zu nutzen und die Arbeitssicherheitsmaßnahmen während deren Gebrauch anzuwenden. verschiedene Güter und deren Eigenschaften zu unterscheiden, um ein sicheres Laden der Güter nach dem Stauplan zu überwachen und zu gewährleisten. Fähigkeit, Verfahren für den sicheren Ladungsumschlag gemäß den Bestimmungen der einschlägigen sicherheitsbezogenen Arbeitsvorschriften einzuführen. Kenntnisse über effiziente Kommunikation und Arbeitsbeziehungen mit allen an den Be- und Entladevorgängen beteiligten Partnern. Der Schiffsführer muss in der Lage sein, die Stabilität des Fahrzeugs zu planen und zu gewährleisten. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die Auswirkungen von Ladung und Ladevorgängen auf Trimmlage und Stabilität zu beachten;1.Kenntnisse zur Wasserdichtigkeit und Stabilität für alle Arten von Ladung und Fahrzeugen.2.Fähigkeit, Instrumente zur Korrektur von Trimmlage und Stabilität einzusetzen.2.die effektive Tonnage des Fahrzeugs zu überprüfen, Stabilitäts- und Trimmdiagramme sowie Geräte zur Festigkeitsberechnung, einschließlich automatischer datenbasierter Ausrüstung (ADB-Ausrüstung), zur Überprüfung von Stauplänen zu verwenden.1.Kenntnis der speziellen Software zur Berechnung von Stabilität, Trimm und Belastung.2.Fähigkeit, Stabilität und Trimm zu bestimmen und Belastungstabellen, Diagramme und Geräte zur Festigkeitsberechnung zu gebrauchen. die Auswirkungen von Ladung und Ladevorgängen auf Trimmlage und Stabilität zu beachten; Kenntnisse zur Wasserdichtigkeit und Stabilität für alle Arten von Ladung und Fahrzeugen. Fähigkeit, Instrumente zur Korrektur von Trimmlage und Stabilität einzusetzen. die effektive Tonnage des Fahrzeugs zu überprüfen, Stabilitäts- und Trimmdiagramme sowie Geräte zur Festigkeitsberechnung, einschließlich automatischer datenbasierter Ausrüstung (ADB-Ausrüstung), zur Überprüfung von Stauplänen zu verwenden. Kenntnis der speziellen Software zur Berechnung von Stabilität, Trimm und Belastung. Fähigkeit, Stabilität und Trimm zu bestimmen und Belastungstabellen, Diagramme und Geräte zur Festigkeitsberechnung zu gebrauchen. Der Schiffsführer muss in der Lage sein, die sichere Beförderung von Fahrgästen und deren Fürsorge während der Fahrt zu planen und zu gewährleisten, einschließlich der unmittelbaren Hilfeleistung für Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität gemäß der Unterweisung und den Instruktionen nach Anhang IV der Verordnung (EU) Nr. 1177/2010. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die einschlägigen nationalen, europäischen und internationalen Vorschriften, Codes und Standards für die Beförderung von Fahrgästen zu verstehen;1.Kenntnis der geltenden Vorschriften und Übereinkommen zur Fahrgastbeförderung.2.Fähigkeit, den sicheren Ein- und Ausstieg von Fahrgästen und deren Fürsorge während der Fahrt zu gewährleisten, unter besonderer Beachtung von hilfsbedürftigen Personen und unmittelbarer Hilfeleistung für Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität gemäß der Unterweisung und den Instruktionen nach Anhang IV der Verordnung (EU) Nr. 1177/2010.3.Fähigkeit, die Vorgehensweisen im Falle eines Lecks, eines Brandes, einer über Bord gegangenen Person, eines Zusammenstoßes und einer Evakuierung zu kontrollieren, einschließlich der Krisenbewältigung und der Führung von Menschenmengen.2.regelmäßige Sicherheitsübungen gemäß der Sicherheitsrolle zu organisieren und zu überwachen, um ein sicheres Verhalten in möglichen Gefahrensituation zu gewährleisten;1.Kenntnis der Verantwortlichkeiten gemäß internationalen und nationalen Vorschriften betreffend die Sicherheit des Schiffes, der Fahrgäste und der Besatzung.2.Fähigkeit, die Führung und Ausbildung des Bordpersonals in Bezug auf Sicherheit umzusetzen.3.Anwendung von Erster Hilfe an Bord des Fahrzeugs.3.die Auswirkungen der Gewichtsverteilung der Fahrgäste auf die Stabilität des Fahrgastschiffes, das Verhalten gegenüber und die Kommunikation mit Fahrgästen zu beachten;1.Kenntnis der Regeln und Vorschriften in Bezug auf Stabilität.2.Fähigkeit, die einschlägigen Maßnahmen bezüglich der Wasserdichtigkeit, einschließlich des Einflusses auf Trimmung und Stabilität von Fahrgastschiffen, anzuwenden.3.Kenntnisse über die Konstruktion des Schiffes im Zusammenhang mit Trimmung und Stabilität sowie die im Falle eines teilweisen Verlusts des Intaktauftriebs/der Leckstabilität des Fahrgastschiffes zu ergreifenden Maßnahmen.4.Fähigkeit, Standardredewendungen zu verwenden.4.eine Analyse der Gefahren an Bord bezüglich der Beschränkung des Zugangs für Fahrgäste festzulegen und zu überwachen sowie ein wirksames Bordschutzsystem zu erstellen, um unbefugten Zutritt zu verhindern;1.Kenntnis und Einhaltung der Beschränkung der Fahrgastzahl gemäß dem Zeugnis des Fahrgastschiffes.2.Kenntnis der Schutz- und Sicherheitssysteme, die einen unbefugten Zutritt verhindern.3.Fähigkeit, ein Wachdienstsystem (d. h. Nachtwache) im Hinblick auf Schutz und Sicherheit zu organisieren.5.Berichte von Fahrgästen (d. h. über unvorhergesehene Ereignisse, Beleidigungen, Vandalismus) zu analysieren, um angemessen zu reagieren.1.Kenntnisse über Fahrgastrechte und Fahrgastbeschwerden und die mit der Fahrgastbeförderung verbundenen Gefahren für die Umwelt.2.Fähigkeit, Umweltverschmutzung durch Fahrgäste und Besatzung zu verhindern.3.Fähigkeit zum Umgang mit Beschwerden und Konfliktbewältigung.4.Fähigkeit, mit dem Bordpersonal und sämtlichen beteiligten Parteien zu kommunizieren. die einschlägigen nationalen, europäischen und internationalen Vorschriften, Codes und Standards für die Beförderung von Fahrgästen zu verstehen; Kenntnis der geltenden Vorschriften und Übereinkommen zur Fahrgastbeförderung. Fähigkeit, den sicheren Ein- und Ausstieg von Fahrgästen und deren Fürsorge während der Fahrt zu gewährleisten, unter besonderer Beachtung von hilfsbedürftigen Personen und unmittelbarer Hilfeleistung für Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität gemäß der Unterweisung und den Instruktionen nach Anhang IV der Verordnung (EU) Nr. 1177/2010. Fähigkeit, die Vorgehensweisen im Falle eines Lecks, eines Brandes, einer über Bord gegangenen Person, eines Zusammenstoßes und einer Evakuierung zu kontrollieren, einschließlich der Krisenbewältigung und der Führung von Menschenmengen. regelmäßige Sicherheitsübungen gemäß der Sicherheitsrolle zu organisieren und zu überwachen, um ein sicheres Verhalten in möglichen Gefahrensituation zu gewährleisten; Kenntnis der Verantwortlichkeiten gemäß internationalen und nationalen Vorschriften betreffend die Sicherheit des Schiffes, der Fahrgäste und der Besatzung. Fähigkeit, die Führung und Ausbildung des Bordpersonals in Bezug auf Sicherheit umzusetzen. Anwendung von Erster Hilfe an Bord des Fahrzeugs. die Auswirkungen der Gewichtsverteilung der Fahrgäste auf die Stabilität des Fahrgastschiffes, das Verhalten gegenüber und die Kommunikation mit Fahrgästen zu beachten; Kenntnis der Regeln und Vorschriften in Bezug auf Stabilität. Fähigkeit, die einschlägigen Maßnahmen bezüglich der Wasserdichtigkeit, einschließlich des Einflusses auf Trimmung und Stabilität von Fahrgastschiffen, anzuwenden. Kenntnisse über die Konstruktion des Schiffes im Zusammenhang mit Trimmung und Stabilität sowie die im Falle eines teilweisen Verlusts des Intaktauftriebs/der Leckstabilität des Fahrgastschiffes zu ergreifenden Maßnahmen. Fähigkeit, Standardredewendungen zu verwenden. eine Analyse der Gefahren an Bord bezüglich der Beschränkung des Zugangs für Fahrgäste festzulegen und zu überwachen sowie ein wirksames Bordschutzsystem zu erstellen, um unbefugten Zutritt zu verhindern; Kenntnis und Einhaltung der Beschränkung der Fahrgastzahl gemäß dem Zeugnis des Fahrgastschiffes. Kenntnis der Schutz- und Sicherheitssysteme, die einen unbefugten Zutritt verhindern. Fähigkeit, ein Wachdienstsystem (d. h. Nachtwache) im Hinblick auf Schutz und Sicherheit zu organisieren. Berichte von Fahrgästen (d. h. über unvorhergesehene Ereignisse, Beleidigungen, Vandalismus) zu analysieren, um angemessen zu reagieren. Kenntnisse über Fahrgastrechte und Fahrgastbeschwerden und die mit der Fahrgastbeförderung verbundenen Gefahren für die Umwelt. Fähigkeit, Umweltverschmutzung durch Fahrgäste und Besatzung zu verhindern. Fähigkeit zum Umgang mit Beschwerden und Konfliktbewältigung. Fähigkeit, mit dem Bordpersonal und sämtlichen beteiligten Parteien zu kommunizieren.
 
-1.
+4. Schiffsbetriebstechnik und Elektrotechnik, Elektronik und Leittechnik4.1Der Schiffsführer muss in der Lage sein, den Arbeitsablauf in den Bereichen Schiffsbetriebstechnik und Elektrotechnik, Elektronik und Leittechnik zu planen.Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die Funktionen der Hauptmotoren und Hilfseinrichtungen sowie ihrer Kontrollsysteme zu nutzen;1.Kenntnis der Bedienung des Hauptmotors und der Hilfseinrichtungen.2.Kenntnis der Eigenschaften von Brennstoffen und Schmiermitteln.3.Kenntnis der Kontrollsysteme.4.Fähigkeit, verschiedene Systeme verschiedener Antriebsysteme, Hilfsmaschinen und -einrichtungen zu benutzen.2.die Besatzungsmitglieder bei Betrieb und Wartung der Hauptmotoren, Hilfsmaschinen und -einrichtungen zu überwachen und zu beaufsichtigen.1.Fähigkeit, die Besatzung in Bezug auf den Betrieb und die Wartung technischer Einrichtungen zu führen.2.Fähigkeit, die Führung beim Anfahren und Abschalten des Hauptantriebs, der Hilfsmaschinen und -einrichtungen zu übernehmen.4.2Der Schiffsführer muss in der Lage sein, die Antriebsmaschinen und die Hilfsmaschinen und -ausrüstung zu überwachen.Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Anweisungen zur Vorbereitung der Antriebsmaschinen und der Hilfsmaschinen und -ausrüstung zu erteilen;1.Fähigkeit, die Besatzung bei der Vorbereitung und Bedienung der Antriebsmaschinen und der Hilfsmaschinen und -ausrüstung anzuleiten.2.Fähigkeit, Prüflisten zu erstellen und zu überwachen und Anweisungen zum ordnungsgemäßen Gebrauch solcher Prüflisten zu erteilen.3.Fähigkeit, die Besatzung in die bei der Maschinenüberwachung zu beachtenden Grundsätze einzuweisen.2.Funktionsstörungen und häufige Fehler zu erkennen und Maßnahmen zur Schadensverhütung zu ergreifen;1.Kenntnis der Verfahren zur Erkennung von Funktionsstörungen bei Maschinen.2.Fähigkeit, Funktionsstörungen, häufige Fehlerquellen oder unsachgemäße Behandlung zu erkennen und entsprechend zu reagieren.3.Fähigkeit, Maßnahmen zur Schadensverhütung anzuordnen oder Maßnahmen zur Kontrolle des Schadens zu ergreifen.3.die physikalischen und chemischen Eigenschaften von Öl und anderen Schmiermitteln zu verstehen;1.Kenntnis der Eigenschaften der eingesetzten Materialien.2.Fähigkeit, Öl und andere Schmiermittel gemäß den Spezifikationen zu verwenden.3.Fähigkeit, Maschinenhandbücher zu verstehen.4.Kenntnis der Betriebseigenschaften der Ausrüstung und Systeme.4.die Maschinenleistung zu beurteilen.Fähigkeit, Handbücher zur Beurteilung der Maschinenleistung zu verwenden und zu deuten und die Maschinen entsprechend zu betreiben.4.3Der Schiffsführer muss in der Lage sein, in Bezug auf die Pumpe und das Pumpenkontrollsystem des Fahrzeugs zu planen und Anweisungen zu geben.Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.routinemäßige Pumpenarbeiten, Ballast- und Ladungspumpensysteme zu überwachen.1.Kenntnis der Pumpensysteme und des Pumpbetriebs.2.Fähigkeit, unter Berücksichtigung des freien Oberflächeneffekts auf die Stabilität die Überwachung des sicheren Betriebs von Bilge-, Ballast- und Ladungspumpensystemen zu gewährleisten und der Besatzung entsprechende Anweisungen zu erteilen.4.4Der Schiffsführer muss in der Lage sein, die sichere Verwendung und Bedienung, Wartung und Instandsetzung der elektrotechnischen Geräte des Fahrzeugs zu organisieren.Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.mögliche Schäden an elektrischen und elektronischen Geräten an Bord zu verhüten;1.Kenntnis der Elektrotechnik, der Elektronik, der elektrischen Anlagen und Sicherheitseinrichtungen, z. B. Betriebsautomation, Instrumentenausstattung und Regelungs- und Steuerungsanlagen zur Schadensverhütung.2.Fähigkeit, sichere Arbeitsmethoden anzuwenden.2.Regelungs- und Steuerungsanlagen und -instrumente zu testen, um Fehler zu erkennen, und gleichzeitig Maßnahmen zur Instandsetzung und Wartung der elektrischen und elektronischen Regelungs- und Steuerungseinrichtungen zu ergreifen;1.Kenntnis der elektrotechnischen Testvorrichtungen des Fahrzeugs.2.Fähigkeit, die Regelungs- und Steuerungsanlagen zu bedienen, zu testen und zu warten und entsprechende Maßnahmen zu ergreifen.3.Anweisungen vor dem Aufbauen oder Trennen von Verbindungen mit landseitigen technischen Einrichtungen zu erteilen und diese Tätigkeiten weiterzuverfolgen.1.Kenntnis der Sicherheitsanforderungen für die Arbeit mit elektrischen Systemen.2.Kenntnis der Konstruktions- und Betriebseigenschaften der elektrischen Systeme und Anlagen an Bord in Bezug auf landseitige Einrichtungen.3.Fähigkeit, Anweisungen zur Gewährleistung einer jederzeit sicheren Landverbindung zu erteilen und Gefahrensituationen im Hinblick auf landseitige Einrichtungen zu erkennen.4.5Der Schiffsführer muss in der Lage sein, die sichere Wartung und Instandsetzung der technischen Anlagen zu kontrollieren.Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die sachgemäße Verwendung der Werkzeuge zur Wartung und Instandsetzung technischer Anlagen zu gewährleisten;1.Kenntnis der Wartungs- und Instandsetzungsverfahren für technische Anlagen.2.Fähigkeit, die sichere Wartung und Instandsetzung unter Verwendung geeigneter Verfahren (Kontrolle), Ausrüstung und Software zu organisieren und anzuleiten.2.die Eigenschaften und Grenzen von Materialien sowie notwendiger Verfahren, die zur Wartung und Instandsetzung technischer Anlagen eingesetzt werden, zu beurteilen;1.Kenntnis der Eigenschaften von Wartungs- und Instandsetzungsmaterial für technische Anlagen.2.Fähigkeit, Wartungs- und Instandsetzungsverfahren gemäß den Handbüchern auf Anlagen anzuwenden.3.technische und interne Dokumentation auszuwerten.1.Kenntnis der Konstruktionsspezifikationen und technischen Dokumentation.2.Fähigkeit, Prüflisten für die Wartung und Instandsetzung technischer Anlagen zu erstellen. Der Schiffsführer muss in der Lage sein, den Arbeitsablauf in den Bereichen Schiffsbetriebstechnik und Elektrotechnik, Elektronik und Leittechnik zu planen. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die Funktionen der Hauptmotoren und Hilfseinrichtungen sowie ihrer Kontrollsysteme zu nutzen;1.Kenntnis der Bedienung des Hauptmotors und der Hilfseinrichtungen.2.Kenntnis der Eigenschaften von Brennstoffen und Schmiermitteln.3.Kenntnis der Kontrollsysteme.4.Fähigkeit, verschiedene Systeme verschiedener Antriebsysteme, Hilfsmaschinen und -einrichtungen zu benutzen.2.die Besatzungsmitglieder bei Betrieb und Wartung der Hauptmotoren, Hilfsmaschinen und -einrichtungen zu überwachen und zu beaufsichtigen.1.Fähigkeit, die Besatzung in Bezug auf den Betrieb und die Wartung technischer Einrichtungen zu führen.2.Fähigkeit, die Führung beim Anfahren und Abschalten des Hauptantriebs, der Hilfsmaschinen und -einrichtungen zu übernehmen. die Funktionen der Hauptmotoren und Hilfseinrichtungen sowie ihrer Kontrollsysteme zu nutzen; Kenntnis der Bedienung des Hauptmotors und der Hilfseinrichtungen. Kenntnis der Eigenschaften von Brennstoffen und Schmiermitteln. Kenntnis der Kontrollsysteme. Fähigkeit, verschiedene Systeme verschiedener Antriebsysteme, Hilfsmaschinen und -einrichtungen zu benutzen. die Besatzungsmitglieder bei Betrieb und Wartung der Hauptmotoren, Hilfsmaschinen und -einrichtungen zu überwachen und zu beaufsichtigen. Fähigkeit, die Besatzung in Bezug auf den Betrieb und die Wartung technischer Einrichtungen zu führen. Fähigkeit, die Führung beim Anfahren und Abschalten des Hauptantriebs, der Hilfsmaschinen und -einrichtungen zu übernehmen. Der Schiffsführer muss in der Lage sein, die Antriebsmaschinen und die Hilfsmaschinen und -ausrüstung zu überwachen. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Anweisungen zur Vorbereitung der Antriebsmaschinen und der Hilfsmaschinen und -ausrüstung zu erteilen;1.Fähigkeit, die Besatzung bei der Vorbereitung und Bedienung der Antriebsmaschinen und der Hilfsmaschinen und -ausrüstung anzuleiten.2.Fähigkeit, Prüflisten zu erstellen und zu überwachen und Anweisungen zum ordnungsgemäßen Gebrauch solcher Prüflisten zu erteilen.3.Fähigkeit, die Besatzung in die bei der Maschinenüberwachung zu beachtenden Grundsätze einzuweisen.2.Funktionsstörungen und häufige Fehler zu erkennen und Maßnahmen zur Schadensverhütung zu ergreifen;1.Kenntnis der Verfahren zur Erkennung von Funktionsstörungen bei Maschinen.2.Fähigkeit, Funktionsstörungen, häufige Fehlerquellen oder unsachgemäße Behandlung zu erkennen und entsprechend zu reagieren.3.Fähigkeit, Maßnahmen zur Schadensverhütung anzuordnen oder Maßnahmen zur Kontrolle des Schadens zu ergreifen.3.die physikalischen und chemischen Eigenschaften von Öl und anderen Schmiermitteln zu verstehen;1.Kenntnis der Eigenschaften der eingesetzten Materialien.2.Fähigkeit, Öl und andere Schmiermittel gemäß den Spezifikationen zu verwenden.3.Fähigkeit, Maschinenhandbücher zu verstehen.4.Kenntnis der Betriebseigenschaften der Ausrüstung und Systeme.4.die Maschinenleistung zu beurteilen.Fähigkeit, Handbücher zur Beurteilung der Maschinenleistung zu verwenden und zu deuten und die Maschinen entsprechend zu betreiben. Anweisungen zur Vorbereitung der Antriebsmaschinen und der Hilfsmaschinen und -ausrüstung zu erteilen; Fähigkeit, die Besatzung bei der Vorbereitung und Bedienung der Antriebsmaschinen und der Hilfsmaschinen und -ausrüstung anzuleiten. Fähigkeit, Prüflisten zu erstellen und zu überwachen und Anweisungen zum ordnungsgemäßen Gebrauch solcher Prüflisten zu erteilen. Fähigkeit, die Besatzung in die bei der Maschinenüberwachung zu beachtenden Grundsätze einzuweisen. Funktionsstörungen und häufige Fehler zu erkennen und Maßnahmen zur Schadensverhütung zu ergreifen; Kenntnis der Verfahren zur Erkennung von Funktionsstörungen bei Maschinen. Fähigkeit, Funktionsstörungen, häufige Fehlerquellen oder unsachgemäße Behandlung zu erkennen und entsprechend zu reagieren. Fähigkeit, Maßnahmen zur Schadensverhütung anzuordnen oder Maßnahmen zur Kontrolle des Schadens zu ergreifen. die physikalischen und chemischen Eigenschaften von Öl und anderen Schmiermitteln zu verstehen; Kenntnis der Eigenschaften der eingesetzten Materialien. Fähigkeit, Öl und andere Schmiermittel gemäß den Spezifikationen zu verwenden. Fähigkeit, Maschinenhandbücher zu verstehen. Kenntnis der Betriebseigenschaften der Ausrüstung und Systeme. die Maschinenleistung zu beurteilen. Der Schiffsführer muss in der Lage sein, in Bezug auf die Pumpe und das Pumpenkontrollsystem des Fahrzeugs zu planen und Anweisungen zu geben. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.routinemäßige Pumpenarbeiten, Ballast- und Ladungspumpensysteme zu überwachen.1.Kenntnis der Pumpensysteme und des Pumpbetriebs.2.Fähigkeit, unter Berücksichtigung des freien Oberflächeneffekts auf die Stabilität die Überwachung des sicheren Betriebs von Bilge-, Ballast- und Ladungspumpensystemen zu gewährleisten und der Besatzung entsprechende Anweisungen zu erteilen. routinemäßige Pumpenarbeiten, Ballast- und Ladungspumpensysteme zu überwachen. Kenntnis der Pumpensysteme und des Pumpbetriebs. Fähigkeit, unter Berücksichtigung des freien Oberflächeneffekts auf die Stabilität die Überwachung des sicheren Betriebs von Bilge-, Ballast- und Ladungspumpensystemen zu gewährleisten und der Besatzung entsprechende Anweisungen zu erteilen. Der Schiffsführer muss in der Lage sein, die sichere Verwendung und Bedienung, Wartung und Instandsetzung der elektrotechnischen Geräte des Fahrzeugs zu organisieren. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.mögliche Schäden an elektrischen und elektronischen Geräten an Bord zu verhüten;1.Kenntnis der Elektrotechnik, der Elektronik, der elektrischen Anlagen und Sicherheitseinrichtungen, z. B. Betriebsautomation, Instrumentenausstattung und Regelungs- und Steuerungsanlagen zur Schadensverhütung.2.Fähigkeit, sichere Arbeitsmethoden anzuwenden.2.Regelungs- und Steuerungsanlagen und -instrumente zu testen, um Fehler zu erkennen, und gleichzeitig Maßnahmen zur Instandsetzung und Wartung der elektrischen und elektronischen Regelungs- und Steuerungseinrichtungen zu ergreifen;1.Kenntnis der elektrotechnischen Testvorrichtungen des Fahrzeugs.2.Fähigkeit, die Regelungs- und Steuerungsanlagen zu bedienen, zu testen und zu warten und entsprechende Maßnahmen zu ergreifen.3.Anweisungen vor dem Aufbauen oder Trennen von Verbindungen mit landseitigen technischen Einrichtungen zu erteilen und diese Tätigkeiten weiterzuverfolgen.1.Kenntnis der Sicherheitsanforderungen für die Arbeit mit elektrischen Systemen.2.Kenntnis der Konstruktions- und Betriebseigenschaften der elektrischen Systeme und Anlagen an Bord in Bezug auf landseitige Einrichtungen.3.Fähigkeit, Anweisungen zur Gewährleistung einer jederzeit sicheren Landverbindung zu erteilen und Gefahrensituationen im Hinblick auf landseitige Einrichtungen zu erkennen. mögliche Schäden an elektrischen und elektronischen Geräten an Bord zu verhüten; Kenntnis der Elektrotechnik, der Elektronik, der elektrischen Anlagen und Sicherheitseinrichtungen, z. B. Betriebsautomation, Instrumentenausstattung und Regelungs- und Steuerungsanlagen zur Schadensverhütung. Fähigkeit, sichere Arbeitsmethoden anzuwenden. Regelungs- und Steuerungsanlagen und -instrumente zu testen, um Fehler zu erkennen, und gleichzeitig Maßnahmen zur Instandsetzung und Wartung der elektrischen und elektronischen Regelungs- und Steuerungseinrichtungen zu ergreifen; Kenntnis der elektrotechnischen Testvorrichtungen des Fahrzeugs. Fähigkeit, die Regelungs- und Steuerungsanlagen zu bedienen, zu testen und zu warten und entsprechende Maßnahmen zu ergreifen. Anweisungen vor dem Aufbauen oder Trennen von Verbindungen mit landseitigen technischen Einrichtungen zu erteilen und diese Tätigkeiten weiterzuverfolgen. Kenntnis der Sicherheitsanforderungen für die Arbeit mit elektrischen Systemen. Kenntnis der Konstruktions- und Betriebseigenschaften der elektrischen Systeme und Anlagen an Bord in Bezug auf landseitige Einrichtungen. Fähigkeit, Anweisungen zur Gewährleistung einer jederzeit sicheren Landverbindung zu erteilen und Gefahrensituationen im Hinblick auf landseitige Einrichtungen zu erkennen. Der Schiffsführer muss in der Lage sein, die sichere Wartung und Instandsetzung der technischen Anlagen zu kontrollieren. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die sachgemäße Verwendung der Werkzeuge zur Wartung und Instandsetzung technischer Anlagen zu gewährleisten;1.Kenntnis der Wartungs- und Instandsetzungsverfahren für technische Anlagen.2.Fähigkeit, die sichere Wartung und Instandsetzung unter Verwendung geeigneter Verfahren (Kontrolle), Ausrüstung und Software zu organisieren und anzuleiten.2.die Eigenschaften und Grenzen von Materialien sowie notwendiger Verfahren, die zur Wartung und Instandsetzung technischer Anlagen eingesetzt werden, zu beurteilen;1.Kenntnis der Eigenschaften von Wartungs- und Instandsetzungsmaterial für technische Anlagen.2.Fähigkeit, Wartungs- und Instandsetzungsverfahren gemäß den Handbüchern auf Anlagen anzuwenden.3.technische und interne Dokumentation auszuwerten.1.Kenntnis der Konstruktionsspezifikationen und technischen Dokumentation.2.Fähigkeit, Prüflisten für die Wartung und Instandsetzung technischer Anlagen zu erstellen. die sachgemäße Verwendung der Werkzeuge zur Wartung und Instandsetzung technischer Anlagen zu gewährleisten; Kenntnis der Wartungs- und Instandsetzungsverfahren für technische Anlagen. Fähigkeit, die sichere Wartung und Instandsetzung unter Verwendung geeigneter Verfahren (Kontrolle), Ausrüstung und Software zu organisieren und anzuleiten. die Eigenschaften und Grenzen von Materialien sowie notwendiger Verfahren, die zur Wartung und Instandsetzung technischer Anlagen eingesetzt werden, zu beurteilen; Kenntnis der Eigenschaften von Wartungs- und Instandsetzungsmaterial für technische Anlagen. Fähigkeit, Wartungs- und Instandsetzungsverfahren gemäß den Handbüchern auf Anlagen anzuwenden. technische und interne Dokumentation auszuwerten. Kenntnis der Konstruktionsspezifikationen und technischen Dokumentation. Fähigkeit, Prüflisten für die Wartung und Instandsetzung technischer Anlagen zu erstellen.
 
-2.
+5. Wartung und Instandsetzung5.1Der Schiffsführer muss in der Lage sein, die sichere Wartung und Instandsetzung des Fahrzeugs und seiner Ausrüstung zu organisieren.Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.ein sicheres Verhalten der Besatzungsmitglieder in Bezug auf die Verwendung von Werk- und Zusatzstoffen zu gewährleisten;1.Kenntnis der Methoden der sicheren und wirksamen Wartung und Instandsetzung.2.Fähigkeit, die Besatzung bei der Anwendung von Vorsichtsmaßnahmen und ihrem Beitrag zur Verhütung der Verschmutzung der Meeresumwelt zu überwachen und zu beaufsichtigen.3.Fähigkeit, die anwendbaren arbeitsrechtlichen Bestimmungen und sicherheitsbezogenen Arbeitsvorschriften anzuwenden und zu beachten und für deren Einhaltung zu sorgen.2.Arbeitsaufträge so festzulegen, zu überwachen und zu kontrollieren, dass die Besatzungsmitglieder in der Lage sind, Wartungs- und Instandsetzungsarbeiten eigenständig durchzuführen;1.Kenntnis kosteneffizienter und wirksamer Wartungsarbeiten sowie der anwendbaren gesetzlichen Anforderungen.2.Fähigkeit, (digitale) Wartungsplanungsprogramme effektiv einzusetzen.3.Fähigkeit, die Wartung und Instandsetzung der inneren und äußeren Teile des Fahrzeugs unter Berücksichtigung der anwendbaren gesetzlichen Anforderungen wie Sicherheitsdatenblätter zu kontrollieren.4.Fähigkeit, für die Einhaltung der Hygiene des Fahrzeugs zu sorgen.5.Fähigkeit, die Abfallentsorgung unter Berücksichtigung von Umweltvorschriften wie denen des Übereinkommens über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt (CDNI-Übereinkommens) zu organisieren.6.Fähigkeit, das regelmäßige Wartungsprogramm für das Fahrzeug zu erstellen.7.Fähigkeit, die technischen Dokumente des Fahrzeugs zu überwachen und zu kontrollieren und Wartungsnachweise zu führen.3.Materialien und Werkzeug unter Berücksichtigung des Gesundheits- und Umweltschutzes zu kaufen und zu prüfen;1.Fähigkeit, die Lagerbestände des Fahrzeugs zu verwalten.2.Fähigkeit, eine sichere Arbeitsweise an Bord zu organisieren, einschließlich der Verwendung gefährlicher Materialien für Reinigungs- und Konservierungsarbeiten.3.Fähigkeit, die Qualität von Instandsetzungsarbeiten zu prüfen.4.sicherzustellen, dass Drähte und Seile den Angaben des Herstellers und ihrem Verwendungszweck entsprechend eingesetzt werden.Fähigkeit, die Besatzung beim Einsatz von Seilen und Drähten nach Maßgabe des Zeugnisses und der Datenblätter des Fahrzeugs gemäß den Arbeitsverfahren und Sicherheitsbeschränkungen anzuleiten und zu beaufsichtigen. Der Schiffsführer muss in der Lage sein, die sichere Wartung und Instandsetzung des Fahrzeugs und seiner Ausrüstung zu organisieren. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.ein sicheres Verhalten der Besatzungsmitglieder in Bezug auf die Verwendung von Werk- und Zusatzstoffen zu gewährleisten;1.Kenntnis der Methoden der sicheren und wirksamen Wartung und Instandsetzung.2.Fähigkeit, die Besatzung bei der Anwendung von Vorsichtsmaßnahmen und ihrem Beitrag zur Verhütung der Verschmutzung der Meeresumwelt zu überwachen und zu beaufsichtigen.3.Fähigkeit, die anwendbaren arbeitsrechtlichen Bestimmungen und sicherheitsbezogenen Arbeitsvorschriften anzuwenden und zu beachten und für deren Einhaltung zu sorgen.2.Arbeitsaufträge so festzulegen, zu überwachen und zu kontrollieren, dass die Besatzungsmitglieder in der Lage sind, Wartungs- und Instandsetzungsarbeiten eigenständig durchzuführen;1.Kenntnis kosteneffizienter und wirksamer Wartungsarbeiten sowie der anwendbaren gesetzlichen Anforderungen.2.Fähigkeit, (digitale) Wartungsplanungsprogramme effektiv einzusetzen.3.Fähigkeit, die Wartung und Instandsetzung der inneren und äußeren Teile des Fahrzeugs unter Berücksichtigung der anwendbaren gesetzlichen Anforderungen wie Sicherheitsdatenblätter zu kontrollieren.4.Fähigkeit, für die Einhaltung der Hygiene des Fahrzeugs zu sorgen.5.Fähigkeit, die Abfallentsorgung unter Berücksichtigung von Umweltvorschriften wie denen des Übereinkommens über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt (CDNI-Übereinkommens) zu organisieren.6.Fähigkeit, das regelmäßige Wartungsprogramm für das Fahrzeug zu erstellen.7.Fähigkeit, die technischen Dokumente des Fahrzeugs zu überwachen und zu kontrollieren und Wartungsnachweise zu führen.3.Materialien und Werkzeug unter Berücksichtigung des Gesundheits- und Umweltschutzes zu kaufen und zu prüfen;1.Fähigkeit, die Lagerbestände des Fahrzeugs zu verwalten.2.Fähigkeit, eine sichere Arbeitsweise an Bord zu organisieren, einschließlich der Verwendung gefährlicher Materialien für Reinigungs- und Konservierungsarbeiten.3.Fähigkeit, die Qualität von Instandsetzungsarbeiten zu prüfen.4.sicherzustellen, dass Drähte und Seile den Angaben des Herstellers und ihrem Verwendungszweck entsprechend eingesetzt werden.Fähigkeit, die Besatzung beim Einsatz von Seilen und Drähten nach Maßgabe des Zeugnisses und der Datenblätter des Fahrzeugs gemäß den Arbeitsverfahren und Sicherheitsbeschränkungen anzuleiten und zu beaufsichtigen. ein sicheres Verhalten der Besatzungsmitglieder in Bezug auf die Verwendung von Werk- und Zusatzstoffen zu gewährleisten; Kenntnis der Methoden der sicheren und wirksamen Wartung und Instandsetzung. Fähigkeit, die Besatzung bei der Anwendung von Vorsichtsmaßnahmen und ihrem Beitrag zur Verhütung der Verschmutzung der Meeresumwelt zu überwachen und zu beaufsichtigen. Fähigkeit, die anwendbaren arbeitsrechtlichen Bestimmungen und sicherheitsbezogenen Arbeitsvorschriften anzuwenden und zu beachten und für deren Einhaltung zu sorgen. Arbeitsaufträge so festzulegen, zu überwachen und zu kontrollieren, dass die Besatzungsmitglieder in der Lage sind, Wartungs- und Instandsetzungsarbeiten eigenständig durchzuführen; Kenntnis kosteneffizienter und wirksamer Wartungsarbeiten sowie der anwendbaren gesetzlichen Anforderungen. Fähigkeit, (digitale) Wartungsplanungsprogramme effektiv einzusetzen. Fähigkeit, die Wartung und Instandsetzung der inneren und äußeren Teile des Fahrzeugs unter Berücksichtigung der anwendbaren gesetzlichen Anforderungen wie Sicherheitsdatenblätter zu kontrollieren. Fähigkeit, für die Einhaltung der Hygiene des Fahrzeugs zu sorgen. Fähigkeit, die Abfallentsorgung unter Berücksichtigung von Umweltvorschriften wie denen des Übereinkommens über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt (CDNI-Übereinkommens) zu organisieren. Fähigkeit, das regelmäßige Wartungsprogramm für das Fahrzeug zu erstellen. Fähigkeit, die technischen Dokumente des Fahrzeugs zu überwachen und zu kontrollieren und Wartungsnachweise zu führen. Materialien und Werkzeug unter Berücksichtigung des Gesundheits- und Umweltschutzes zu kaufen und zu prüfen; Fähigkeit, die Lagerbestände des Fahrzeugs zu verwalten. Fähigkeit, eine sichere Arbeitsweise an Bord zu organisieren, einschließlich der Verwendung gefährlicher Materialien für Reinigungs- und Konservierungsarbeiten. Fähigkeit, die Qualität von Instandsetzungsarbeiten zu prüfen. sicherzustellen, dass Drähte und Seile den Angaben des Herstellers und ihrem Verwendungszweck entsprechend eingesetzt werden.
 
-3.
+6. Kommunikation6.1Der Schiffsführer muss in der Lage sein, Personal zu führen, sich sozial verantwortlich zu verhalten sowie für die Organisation der Arbeitsabläufe und die Ausbildung an Bord des Fahrzeugs zu sorgen.Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Teamarbeit zu organisieren und zu fördern und die Besatzungsmitglieder im Hinblick auf die Aufgaben an Bord vorzubereiten sowie gegebenenfalls Disziplinarmaßnahmen zu ergreifen;1.Kenntnisse in Personalführung.2.Fähigkeit, der Besatzung angemessen und professionell Anweisungen zu erteilen.3.Fähigkeit, der Besatzung erteilte Anweisungen zu erklären.4.Fähigkeit, der Besatzung Rückmeldung zum Arbeits- und Sozialverhalten an Bord zu geben.5.Fähigkeit zur Aufgaben- und Arbeitsverwaltung, einschließlich: Planung und Koordination, Personaleinsatz, Zeit- und Ressourcenvorgaben, Priorisierung.6.Fähigkeit, Übermüdung zu erkennen und zu verhindern.2.die Besatzung in Informations- und Kommunikationssysteme einzuweisen;1.Kenntnis der an Bord verfügbaren Informations- und Kommunikationssysteme.2.Fähigkeit, die Besatzung in die Nutzung der Kommunikations-, Medien- und IT-Systeme des Fahrzeugs einzuweisen.3.Daten unter Einhaltung der Datenschutzvorschriften zu sammeln, zu speichern und zu verwalten.1.Kenntnis der Nutzung sämtlicher Systeme des Fahrzeugs, die Daten sammeln, speichern und verwalten.2.Fähigkeit, Daten im Einklang mit den anwendbaren Rechtsvorschriften zu sammeln und zu speichern.6.2Der Schiffsführer muss in der Lage sein, jederzeit eine gute Kommunikation zu gewährleisten, wozu auch die Verwendung von Standardredewendungen im Falle von Kommunikationsproblemen gehört.Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die Umstände mittels einschlägiger technischer und nautischer Begrifflichkeiten zu beschreiben;1.Kenntnis der zutreffenden technischen und nautischen Begriffe.2.Fähigkeit, die Kommunikation zu beherrschen.2.Informationen bezüglich der Sicherheit an Bord und nautisch-technischer Fragen zu gewinnen, zu bewerten und zu nutzen.1.Kenntnis der bei Notfall- und Sicherheitskommunikation zu beachtenden Verfahren.2.Fähigkeit, Standardredewendungen zu verwenden.6.3Der Schiffsführer muss in der Lage sein, ein ausgewogenes und geselliges Arbeitsumfeld an Bord zu fördern.Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.ein gutes soziales Arbeitsumfeld zu gewährleisten;1.Fähigkeit, die Führung bei der Organisation von Teamsitzungen zu übernehmen, um für ein ausgewogenes soziales Klima an Bord zu sorgen.2.Kenntnis der und Bewusstsein für die geschlechtsbezogenen und kulturellen Unterschiede.3.Kenntnis der einschlägigen Vorschriften für die Ausbildung von Studenten, Auszubildenden und Praktikanten.4.Fähigkeit, Studenten, Auszubildende und Praktikanten auf verschiedenen Niveaus anzuleiten.5.Fähigkeit, die wichtigsten Grundsätze und Verfahren der Teamarbeit einschließlich Konfliktbewältigung anzuwenden.2.die nationale, europäische und internationale Sozialgesetzgebung anzuwenden;1.Kenntnis der verschiedenen nationalen, europäischen und internationalen Sozialgesetze.2.Fähigkeit, Besatzungsmitglieder bei der Anwendung relevanter Teile der geltenden Sozialgesetzgebung anzuleiten.3.ein striktes Alkohol- und Drogenverbot durchzusetzen und bei Verstößen angemessen zu reagieren, Verantwortung zu übernehmen und die Folgen von Fehlverhalten aufzuzeigen;1.Kenntnis der anwendbaren Vorschriften zu Alkohol und Drogen.2.Fähigkeit, die anwendbaren Rechtsvorschriften zu kommunizieren und deren Einhaltung zu gewährleisten und die Kenntnis der Unternehmensvorschriften zu Alkohol und Drogen sicherzustellen.3.Fähigkeit, angemessen auf die Verletzung von Rechts- oder Unternehmensvorschriften zu reagieren.4.die Beschaffung und Zubereitung von Mahlzeiten an Bord zu organisieren.1.Kenntnis der Grundsätze gesunder Ernährung.2.Fähigkeit, die Besatzungsmitglieder in die Planung und Zubereitung von Mahlzeiten einzuweisen.3.Fähigkeit, die Besatzungsmitglieder hinsichtlich Hygienestandards einzuweisen und zu beaufsichtigen.4.Fähigkeit, die Besatzungsmitglieder in die Planung von Einkaufsmöglichkeiten einzuweisen. Der Schiffsführer muss in der Lage sein, Personal zu führen, sich sozial verantwortlich zu verhalten sowie für die Organisation der Arbeitsabläufe und die Ausbildung an Bord des Fahrzeugs zu sorgen. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Teamarbeit zu organisieren und zu fördern und die Besatzungsmitglieder im Hinblick auf die Aufgaben an Bord vorzubereiten sowie gegebenenfalls Disziplinarmaßnahmen zu ergreifen;1.Kenntnisse in Personalführung.2.Fähigkeit, der Besatzung angemessen und professionell Anweisungen zu erteilen.3.Fähigkeit, der Besatzung erteilte Anweisungen zu erklären.4.Fähigkeit, der Besatzung Rückmeldung zum Arbeits- und Sozialverhalten an Bord zu geben.5.Fähigkeit zur Aufgaben- und Arbeitsverwaltung, einschließlich: Planung und Koordination, Personaleinsatz, Zeit- und Ressourcenvorgaben, Priorisierung.6.Fähigkeit, Übermüdung zu erkennen und zu verhindern.2.die Besatzung in Informations- und Kommunikationssysteme einzuweisen;1.Kenntnis der an Bord verfügbaren Informations- und Kommunikationssysteme.2.Fähigkeit, die Besatzung in die Nutzung der Kommunikations-, Medien- und IT-Systeme des Fahrzeugs einzuweisen.3.Daten unter Einhaltung der Datenschutzvorschriften zu sammeln, zu speichern und zu verwalten.1.Kenntnis der Nutzung sämtlicher Systeme des Fahrzeugs, die Daten sammeln, speichern und verwalten.2.Fähigkeit, Daten im Einklang mit den anwendbaren Rechtsvorschriften zu sammeln und zu speichern. Teamarbeit zu organisieren und zu fördern und die Besatzungsmitglieder im Hinblick auf die Aufgaben an Bord vorzubereiten sowie gegebenenfalls Disziplinarmaßnahmen zu ergreifen; Kenntnisse in Personalführung. Fähigkeit, der Besatzung angemessen und professionell Anweisungen zu erteilen. Fähigkeit, der Besatzung erteilte Anweisungen zu erklären. Fähigkeit, der Besatzung Rückmeldung zum Arbeits- und Sozialverhalten an Bord zu geben. Fähigkeit zur Aufgaben- und Arbeitsverwaltung, einschließlich: Planung und Koordination, Personaleinsatz, Zeit- und Ressourcenvorgaben, Priorisierung. Fähigkeit, Übermüdung zu erkennen und zu verhindern. die Besatzung in Informations- und Kommunikationssysteme einzuweisen; Kenntnis der an Bord verfügbaren Informations- und Kommunikationssysteme. Fähigkeit, die Besatzung in die Nutzung der Kommunikations-, Medien- und IT-Systeme des Fahrzeugs einzuweisen. Daten unter Einhaltung der Datenschutzvorschriften zu sammeln, zu speichern und zu verwalten. Kenntnis der Nutzung sämtlicher Systeme des Fahrzeugs, die Daten sammeln, speichern und verwalten. Fähigkeit, Daten im Einklang mit den anwendbaren Rechtsvorschriften zu sammeln und zu speichern. Der Schiffsführer muss in der Lage sein, jederzeit eine gute Kommunikation zu gewährleisten, wozu auch die Verwendung von Standardredewendungen im Falle von Kommunikationsproblemen gehört. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die Umstände mittels einschlägiger technischer und nautischer Begrifflichkeiten zu beschreiben;1.Kenntnis der zutreffenden technischen und nautischen Begriffe.2.Fähigkeit, die Kommunikation zu beherrschen.2.Informationen bezüglich der Sicherheit an Bord und nautisch-technischer Fragen zu gewinnen, zu bewerten und zu nutzen.1.Kenntnis der bei Notfall- und Sicherheitskommunikation zu beachtenden Verfahren.2.Fähigkeit, Standardredewendungen zu verwenden. die Umstände mittels einschlägiger technischer und nautischer Begrifflichkeiten zu beschreiben; Kenntnis der zutreffenden technischen und nautischen Begriffe. Fähigkeit, die Kommunikation zu beherrschen. Informationen bezüglich der Sicherheit an Bord und nautisch-technischer Fragen zu gewinnen, zu bewerten und zu nutzen. Kenntnis der bei Notfall- und Sicherheitskommunikation zu beachtenden Verfahren. Fähigkeit, Standardredewendungen zu verwenden. Der Schiffsführer muss in der Lage sein, ein ausgewogenes und geselliges Arbeitsumfeld an Bord zu fördern. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.ein gutes soziales Arbeitsumfeld zu gewährleisten;1.Fähigkeit, die Führung bei der Organisation von Teamsitzungen zu übernehmen, um für ein ausgewogenes soziales Klima an Bord zu sorgen.2.Kenntnis der und Bewusstsein für die geschlechtsbezogenen und kulturellen Unterschiede.3.Kenntnis der einschlägigen Vorschriften für die Ausbildung von Studenten, Auszubildenden und Praktikanten.4.Fähigkeit, Studenten, Auszubildende und Praktikanten auf verschiedenen Niveaus anzuleiten.5.Fähigkeit, die wichtigsten Grundsätze und Verfahren der Teamarbeit einschließlich Konfliktbewältigung anzuwenden.2.die nationale, europäische und internationale Sozialgesetzgebung anzuwenden;1.Kenntnis der verschiedenen nationalen, europäischen und internationalen Sozialgesetze.2.Fähigkeit, Besatzungsmitglieder bei der Anwendung relevanter Teile der geltenden Sozialgesetzgebung anzuleiten.3.ein striktes Alkohol- und Drogenverbot durchzusetzen und bei Verstößen angemessen zu reagieren, Verantwortung zu übernehmen und die Folgen von Fehlverhalten aufzuzeigen;1.Kenntnis der anwendbaren Vorschriften zu Alkohol und Drogen.2.Fähigkeit, die anwendbaren Rechtsvorschriften zu kommunizieren und deren Einhaltung zu gewährleisten und die Kenntnis der Unternehmensvorschriften zu Alkohol und Drogen sicherzustellen.3.Fähigkeit, angemessen auf die Verletzung von Rechts- oder Unternehmensvorschriften zu reagieren.4.die Beschaffung und Zubereitung von Mahlzeiten an Bord zu organisieren.1.Kenntnis der Grundsätze gesunder Ernährung.2.Fähigkeit, die Besatzungsmitglieder in die Planung und Zubereitung von Mahlzeiten einzuweisen.3.Fähigkeit, die Besatzungsmitglieder hinsichtlich Hygienestandards einzuweisen und zu beaufsichtigen.4.Fähigkeit, die Besatzungsmitglieder in die Planung von Einkaufsmöglichkeiten einzuweisen. ein gutes soziales Arbeitsumfeld zu gewährleisten; Fähigkeit, die Führung bei der Organisation von Teamsitzungen zu übernehmen, um für ein ausgewogenes soziales Klima an Bord zu sorgen. Kenntnis der und Bewusstsein für die geschlechtsbezogenen und kulturellen Unterschiede. Kenntnis der einschlägigen Vorschriften für die Ausbildung von Studenten, Auszubildenden und Praktikanten. Fähigkeit, Studenten, Auszubildende und Praktikanten auf verschiedenen Niveaus anzuleiten. Fähigkeit, die wichtigsten Grundsätze und Verfahren der Teamarbeit einschließlich Konfliktbewältigung anzuwenden. die nationale, europäische und internationale Sozialgesetzgebung anzuwenden; Kenntnis der verschiedenen nationalen, europäischen und internationalen Sozialgesetze. Fähigkeit, Besatzungsmitglieder bei der Anwendung relevanter Teile der geltenden Sozialgesetzgebung anzuleiten. ein striktes Alkohol- und Drogenverbot durchzusetzen und bei Verstößen angemessen zu reagieren, Verantwortung zu übernehmen und die Folgen von Fehlverhalten aufzuzeigen; Kenntnis der anwendbaren Vorschriften zu Alkohol und Drogen. Fähigkeit, die anwendbaren Rechtsvorschriften zu kommunizieren und deren Einhaltung zu gewährleisten und die Kenntnis der Unternehmensvorschriften zu Alkohol und Drogen sicherzustellen. Fähigkeit, angemessen auf die Verletzung von Rechts- oder Unternehmensvorschriften zu reagieren. die Beschaffung und Zubereitung von Mahlzeiten an Bord zu organisieren. Kenntnis der Grundsätze gesunder Ernährung. Fähigkeit, die Besatzungsmitglieder in die Planung und Zubereitung von Mahlzeiten einzuweisen. Fähigkeit, die Besatzungsmitglieder hinsichtlich Hygienestandards einzuweisen und zu beaufsichtigen. Fähigkeit, die Besatzungsmitglieder in die Planung von Einkaufsmöglichkeiten einzuweisen.
 
-4.
-
-5.
-
-2.
-
-1.
-
-2.
-
-3.
-
-4.
-
-3.
-
-1.
-
-2.
-
-3.
-
-4.
-
-4.
-
-1.
-
-2.
-
-3.
-
-5.
-
-1.
-
-2.
-
-6.
-
-1.
-
-2.
-
-3.
-
-0.2
-
-1.
-
-1.
-
-2.
-
-2.
-
-1.
-
-2.
-
-0.3
-
-1.
-
-1.
-
-2.
-
-3.
-
-2.
-
-1.
-
-2.
-
-3.
-
-1.
-
-2.
-
-3.
-
-0.4
-
-1.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-2.
-
-1.
-
-2.
-
-3.
-
-3.
-
-1.
-
-2.
-
-4.
-
-5.
-
-0.5
-
-1.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-2.
-
-1.
-
-2.
-
-3.
-
-3.
-
-1.
-
-2.
-
-4.
-
-1.
-
-2.
-
-3.
-
-4.
-
-0.6
-
-1.
-
-1.
-
-2.
-
-0.7
-
-1.
-
-1.
-
-2.
-
-3.
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-4.
-
-5.
-
-6.
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-2.
-
-1.
-
-2.
-
-•
-
-•
-
-•
-
-•
-
-•
-
-3.
-
-1.
-
-2.
-
-3.
-
-4.
-
-1.
-
-2.
-
-5.
-
-6.
-
-1.
-
-2.
-
-3.
-
-7.
-
-1.
-
-2.
-
-•
-
-•
-
-•
-
-8.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-6.
-
-1.1
-
-1.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-2.
-
-1.
-
-2.
-
-3.
-
-1.
-
-2.
-
-4.
-
-1.
-
-2.
-
-5.
-
-1.
-
-2.
-
-3.
-
-4.
-
-6.
-
-1.
-
-2.
-
-3.
-
-1.2
-
-1.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-1.3
-
-1.
-
-1.
-
-2.
-
-3.
-
-2.
-
-1.
-
-2.
-
-3.
-
-3.
-
-1.
-
-2.
-
-4.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-5.
-
-1.
-
-2.
-
-6.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-8.
-
-1.
-
-2.
-
-1.4
-
-1.
-
-1.
-
-2.
-
-2.
-
-1.
-
-2.
-
-3.
-
-1.
-
-2.
-
-4.
-
-1.
-
-2.
-
-2.1
-
-1.
-
-1.
-
-2.
-
-3.
-
-2.
-
-1.
-
-2.
-
-3.
-
-3.
-
-1.
-
-2.
-
-3.
-
-4.
-
-4.
-
-1.
-
-2.
-
-2.2
-
-1.
-
-1.
-
-2.
-
-2.
-
-1.
-
-2.
-
-3.
-
-3.1
-
-1.
-
-1.
-
-2.
-
-2.
-
-1.
-
-2.
-
-3.
-
-4.
-
-3.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-4.
-
-1.
-
-2.
-
-3.2
-
-1.
-
-1.
-
-2.
-
-2.
-
-1.
-
-2.
-
-3.3
-
-1.
-
-1.
-
-2.
-
-3.
-
-2.
-
-1.
-
-2.
-
-3.
-
-3.
-
-1.
-
-2.
-
-3.
-
-4.
-
-4.
-
-1.
-
-2.
-
-3.
-
-5.
-
-1.
-
-2.
-
-3.
-
-4.
-
-4.1
-
-1.
-
-1.
-
-2.
-
-3.
-
-4.
-
-2.
-
-1.
-
-2.
-
-4.2
-
-1.
-
-1.
-
-2.
-
-3.
-
-2.
-
-1.
-
-2.
-
-3.
-
-3.
-
-1.
-
-2.
-
-3.
-
-4.
-
-4.
-
-4.3
-
-1.
-
-1.
-
-2.
-
-4.4
-
-1.
-
-1.
-
-2.
-
-2.
-
-1.
-
-2.
-
-3.
-
-1.
-
-2.
-
-3.
-
-4.5
-
-1.
-
-1.
-
-2.
-
-2.
-
-1.
-
-2.
-
-3.
-
-1.
-
-2.
-
-5.1
-
-1.
-
-1.
-
-2.
-
-3.
-
-2.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-3.
-
-1.
-
-2.
-
-3.
-
-4.
-
-6.1
-
-1.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-2.
-
-1.
-
-2.
-
-3.
-
-1.
-
-2.
-
-6.2
-
-1.
-
-1.
-
-2.
-
-2.
-
-1.
-
-2.
-
-6.3
-
-1.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-2.
-
-1.
-
-2.
-
-3.
-
-1.
-
-2.
-
-3.
-
-4.
-
-1.
-
-2.
-
-3.
-
-4.
-
-7.1
-
-1.
-
-1.
-
-2.
-
-2.
-
-1.
-
-2.
-
-3.
-
-1.
-
-2.
-
-4.
-
-1.
-
-2.
-
-3.
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-4.
-
-7.2
-
-1.
-
-1.
-
-2.
-
-2.
-
-1.
-
-2.
-
-3.
-
-3.
-
-1.
-
-2.
-
-3.
-
-4.
-
-4.
-
-1.
-
-5.
-
-1.
-
-2.
-
-3.
-
-6.
-
-1.
-
-2.
-
-7.3
-
-1.
-
-1.
-
-2.
-
-2.
-
-1.
-
-2.
-
-3.
-
-3.
-
-1.
-
-2.
-
-4.
-
-1.
-
-2.
-
-7.4
-
-1.
-
-1.
-
-2.
-
-3.
-
-4.
-
-2.
-
-1.
-
-2.
-
-3.
-
-1.
-
-2.
-
-4.
-
-1.
-
-2.
+7. Gesundheit, Sicherheit, Fahrgastrechte und Umweltschutz7.1Der Schiffsführer muss in der Lage sein, die geltenden rechtlichen Anforderungen zu verfolgen und Maßnahmen zum Schutz des menschlichen Lebens zu ergreifen.Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.nationale und internationale Rechtsvorschriften anzuwenden und geeignete Maßnahmen für Gesundheitsschutz und Unfallverhütung zu ergreifen;1.Kenntnis der Rechtsvorschriften zu Gesundheitsschutz und Unfallverhütung.2.Fähigkeit, Sicherheitsverfahren auf der Grundlage der anwendbaren Rechtsvorschriften im Bereich Sicherheits- und Arbeitsbedingungen anzuwenden.2.die Gültigkeit des Zeugnisses des Fahrzeugs und anderer für das Fahrzeug und dessen Betrieb relevanter Dokumente zu kontrollieren und zu überwachen;1.Kenntnis der Rechtsvorschriften über regelmäßige Prüfungen von Ausrüstungen und Bauteilen.2.Fähigkeit, die Gültigkeit der Zeugnisse und anderer für das Fahrzeug und dessen Betrieb relevanter Dokumente zu überprüfen.3.die Sicherheitsvorschriften bei allen Arbeitsabläufen durch entsprechende Sicherheitsmaßnahmen einzuhalten, um Unfälle zu vermeiden;1.Kenntnis sicherer Arbeitsmethoden und sicherer Arbeitsverfahren.2.Fähigkeit, sichere Arbeitsverfahren zu organisieren und die Besatzungsmitglieder zur Anwendung sicherheitsbezogener Arbeitsvorschriften zu motivieren und dabei zu überwachen.4.alle für die Reinigung geschlossener Räume erforderlichen Sicherheitsmaßnahmen vor dem Öffnen, Betreten und Reinigen dieser Räume durch andere Personen zu kontrollieren und zu überwachen.1.Fähigkeit, Sicherheitskontrollen zur organisieren und Sicherheitsverfahren zu überwachen, wenn Besatzungsmitglieder oder andere Personen geschlossene Räume (z. B. Ballasttanks, Kofferdämme, Tanks, Doppelhüllenräume) betreten, einschließlich Wachdienst.2.Fähigkeit, vor dem Betreten geschlossener Räume eine Risikobewertung durchzuführen.3.Kenntnis der vor dem Betreten geschlossener Räume und bei Arbeiten in geschlossenen Räumen zu ergreifenden Vorsichtsmaßnahmen, z. B.: •Gefahren geschlossener Räume,•Überprüfung der Atmosphäre vor dem Betreten,•Kontrolle des Zutritts zu geschlossenen Räumen,•Sicherheitsvorkehrungen für das Betreten geschlossener Räume,•Schutzausrüstung (z. B. Gurte und Atemschutzgeräte),•Arbeit in geschlossenen Räumen.4.Fähigkeit, geeignete Maßnahmen im Falle eines Notfalls zu ergreifen.7.2Der Schiffsführer muss in der Lage sein, für den Schutz und die Sicherheit der an Bord befindlichen Personen zu sorgen, einschließlich der unmittelbaren Hilfeleistung für Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität gemäß der Unterweisung und den Instruktionen nach Anhang IV der Verordnung (EU) Nr. 1177/2010.Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.für die Sicherheit der Betroffenen und die eigene Sicherheit Rettungsmittel zu verwenden und Rettungsverfahren anzuwenden;1.Kenntnis der verfügbaren Rettungsmittel.2.Fähigkeit, für die Sicherheit der Betroffenen und die eigene Sicherheit Rettungsmittel zu verwenden und Rettungsverfahren anzuwenden.2.Krisenbewältigungsübungen zum Verhalten in Notfällen, z. B. Brand, Leckwarnung, Explosion, Zusammenstoß, Mann-über-Bord-Alarm und Evakuierung, zu organisieren;1.Kenntnis der Notmaßnahmen.2.Fähigkeit, die Besatzungsmitglieder in die Notmaßnahmen einzuweisen.3.Fähigkeit, eine regelmäßige Ausbildung der Besatzungsmitglieder zur Vorbereitung auf Notsituationen zu organisieren; dazu gehört auch die Organisation von Feuerlöschübungen sowie Übungen zum Verlassen des Fahrzeugs.3.Anweisungen in Bezug auf Brandverhütung, individuelle Schutzausrüstung, Verfahren, Materialien zur Brandbekämpfung, Atemschutzgeräte und Einsatzmöglichkeiten dieser Einrichtungen in Notfällen zu erteilen;1.Kenntnis der anzuwendenden Brandverhütungsvorschriften sowie der Regelungen zur Verwendung von Tabak und möglichen Zündquellen.2.Fähigkeit zur Einhaltung der einschlägigen Vorschriften über Brandmeldeanlagen, Löschgeräte und feste Löschanlagen und die zugehörigen Einrichtungen, z. B. Pumpen, Rettungsmittel, Bergegerät, individuelle Schutzausrüstung und Kommunikationsgeräte.3.Fähigkeit, die Überwachung und Instandhaltung von Brandmelde- und Feuerlöschanlagen und -geräten zu kontrollieren.4.Fähigkeit, Besatzungsmitglieder und Bordpersonal anzuweisen, sicherheitsbezogene Arbeitsvorschriften anzuwenden und die individuelle Schutz- und Sicherheitsausrüstung instand zu halten.4.Erste Hilfe zu leisten;1.Fähigkeit, im Einklang mit Erste-Hilfe-Standards und -methoden zu handeln.5.ein wirksames System zur Kontrolle der Rettungsmittel und der korrekten Anwendung individueller Schutzausrüstung an Bord einzuführen;1.Kenntnis der anwendbaren Rechtsvorschriften für Rettungsmittel sowie der Vorschriften für sichere Arbeitsbedingungen.2.Fähigkeit, die Betriebsbereitschaft von Rettungs-, Brandbekämpfungs- und anderen Sicherheitseinrichtungen und -systemen aufrechtzuerhalten und diesbezüglich regelmäßige Prüfungen durchzuführen.3.Fähigkeit, die Besatzungsmitglieder und das Bordpersonal bezüglich der korrekten Verwendung der (individuellen) Sicherheitsausrüstung anzuleiten, zu motivieren und zu beaufsichtigen.6.Hilfeleistung für Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität zu organisieren.1.Kenntnis der Unterweisung und der Instruktionen nach Anhang IV der Verordnung (EU) Nr. 1177/2010.2.Fähigkeit, unmittelbar Hilfe zu leisten und Hilfeleistung zu organisieren für Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität.7.3Der Schiffsführer muss in der Lage sein, Notfall- und Schadensbegrenzungspläne aufzustellen und Notfallsituationen zu bewältigen.Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Vorbereitungen für Rettungspläne für verschiedene Arten von Notfällen einzuleiten;1.Kenntnis der verschiedenen Arten möglicher Notfälle, wie Zusammenstöße Feuer, Wassereinbruch, Sinken.2.Fähigkeit, Notfallpläne für das Verhalten in Notsituationen an Bord zu erstellen und Besatzungsmitgliedern spezielle Aufgaben zuzuweisen hierzu gehört auch die Überwachung und Kontrolle.2.Unterweisungen in Methoden zur Brandverhütung, Brandursachenerkennung und Brandbekämpfung entsprechend der verschiedenen Fähigkeiten der Besatzungsmitglieder durchzuführen;1.Kenntnis der Brandbekämpfungsmethoden mit besonderem Schwerpunkt auf Taktik und Führung.2.Kenntnis der Auswirkung des Einsatzes von Wasser zum Feuerlöschen auf die Stabilität des Schiffes und Fähigkeit, entsprechende Maßnahmen zu ergreifen.3.Fähigkeit, die Kommunikation und Koordination bei Brandbekämpfungseinsätzen zu übernehmen, einschließlich der Kommunikation mit externen Organisationen, und sich aktiv an den Rettungs- und Brandbekämpfungsmaßnahmen zu beteiligen.3.Unterweisungen im Einsatz von Rettungsmitteln durchzuführen;1.Kenntnis der besonderen Eigenschaften und Ausstattungen von Rettungsgeräten.2.Fähigkeit, ein Beiboot zu Wasser zu bringen und wieder an Bord zu nehmen und die Besatzungsmitglieder und das Bordpersonal in die Verwendung eines Beibootes einzuweisen.4.Anweisungen zu Rettungsplänen, Fluchtwegen und internen Kommunikations- und Alarmsystemen zu erteilen.1.Kenntnis der Rechtsvorschriften für Rettungspläne und Sicherheitsrollen.2.Fähigkeit, Anweisungen zu Rettungsplänen, Fluchtwegen und internen Kommunikations- und Alarmsystemen zu erteilen.7.4Der Schiffsführer muss in der Lage sein, für die Einhaltung der Umweltschutzanforderungen zu sorgen.Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Vorsichtsmaßnahmen gegen Umweltverschmutzung zu ergreifen und entsprechende Ausrüstung zu verwenden;1.Kenntnis der Verfahren zur Vermeidung von Umweltverschmutzung.2.Fähigkeit, Vorsichtsmaßnahmen gegen Umweltverschmutzung zu treffen.3.Fähigkeit, sichere Bunkerverfahren anzuwenden.4.Fähigkeit, im Falle eines Schadens, Zusammenstoßes und Auflaufens Maßnahmen zu ergreifen und Anweisungen zu erteilen; hierzu gehört auch das Abdichten von Leckagen.2.die Umweltschutzgesetze anzuwenden;1.Kenntnis der Umweltvorschriften.2.Fähigkeit, Besatzungsmitglieder und Bordpersonal dazu zu motivieren, einschlägige Maßnahmen für ein umweltfreundliches Verhalten zu ergreifen oder sich umweltfreundlich zu verhalten.3.Geräte und Materialien wirtschaftlich und umweltfreundlich einzusetzen;1.Kenntnis der Verfahren für eine nachhaltige Nutzung von Ressourcen.2.Fähigkeit, Besatzungsmitglieder anzuweisen, Geräte und Materialien wirtschaftlich und umweltfreundlich einzusetzen.4.eine nachhaltige Abfallentsorgung anzuordnen und zu überwachen.1.Kenntnis der Rechtsvorschriften zur Abfallentsorgung.2.Fähigkeit, eine nachhaltige Abfallentsorgung zu gewährleisten und Besatzungsmitglieder und Bordpersonal entsprechend anzuleiten. Der Schiffsführer muss in der Lage sein, die geltenden rechtlichen Anforderungen zu verfolgen und Maßnahmen zum Schutz des menschlichen Lebens zu ergreifen. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.nationale und internationale Rechtsvorschriften anzuwenden und geeignete Maßnahmen für Gesundheitsschutz und Unfallverhütung zu ergreifen;1.Kenntnis der Rechtsvorschriften zu Gesundheitsschutz und Unfallverhütung.2.Fähigkeit, Sicherheitsverfahren auf der Grundlage der anwendbaren Rechtsvorschriften im Bereich Sicherheits- und Arbeitsbedingungen anzuwenden.2.die Gültigkeit des Zeugnisses des Fahrzeugs und anderer für das Fahrzeug und dessen Betrieb relevanter Dokumente zu kontrollieren und zu überwachen;1.Kenntnis der Rechtsvorschriften über regelmäßige Prüfungen von Ausrüstungen und Bauteilen.2.Fähigkeit, die Gültigkeit der Zeugnisse und anderer für das Fahrzeug und dessen Betrieb relevanter Dokumente zu überprüfen.3.die Sicherheitsvorschriften bei allen Arbeitsabläufen durch entsprechende Sicherheitsmaßnahmen einzuhalten, um Unfälle zu vermeiden;1.Kenntnis sicherer Arbeitsmethoden und sicherer Arbeitsverfahren.2.Fähigkeit, sichere Arbeitsverfahren zu organisieren und die Besatzungsmitglieder zur Anwendung sicherheitsbezogener Arbeitsvorschriften zu motivieren und dabei zu überwachen.4.alle für die Reinigung geschlossener Räume erforderlichen Sicherheitsmaßnahmen vor dem Öffnen, Betreten und Reinigen dieser Räume durch andere Personen zu kontrollieren und zu überwachen.1.Fähigkeit, Sicherheitskontrollen zur organisieren und Sicherheitsverfahren zu überwachen, wenn Besatzungsmitglieder oder andere Personen geschlossene Räume (z. B. Ballasttanks, Kofferdämme, Tanks, Doppelhüllenräume) betreten, einschließlich Wachdienst.2.Fähigkeit, vor dem Betreten geschlossener Räume eine Risikobewertung durchzuführen.3.Kenntnis der vor dem Betreten geschlossener Räume und bei Arbeiten in geschlossenen Räumen zu ergreifenden Vorsichtsmaßnahmen, z. B.: •Gefahren geschlossener Räume,•Überprüfung der Atmosphäre vor dem Betreten,•Kontrolle des Zutritts zu geschlossenen Räumen,•Sicherheitsvorkehrungen für das Betreten geschlossener Räume,•Schutzausrüstung (z. B. Gurte und Atemschutzgeräte),•Arbeit in geschlossenen Räumen.4.Fähigkeit, geeignete Maßnahmen im Falle eines Notfalls zu ergreifen. nationale und internationale Rechtsvorschriften anzuwenden und geeignete Maßnahmen für Gesundheitsschutz und Unfallverhütung zu ergreifen; Kenntnis der Rechtsvorschriften zu Gesundheitsschutz und Unfallverhütung. Fähigkeit, Sicherheitsverfahren auf der Grundlage der anwendbaren Rechtsvorschriften im Bereich Sicherheits- und Arbeitsbedingungen anzuwenden. die Gültigkeit des Zeugnisses des Fahrzeugs und anderer für das Fahrzeug und dessen Betrieb relevanter Dokumente zu kontrollieren und zu überwachen; Kenntnis der Rechtsvorschriften über regelmäßige Prüfungen von Ausrüstungen und Bauteilen. Fähigkeit, die Gültigkeit der Zeugnisse und anderer für das Fahrzeug und dessen Betrieb relevanter Dokumente zu überprüfen. die Sicherheitsvorschriften bei allen Arbeitsabläufen durch entsprechende Sicherheitsmaßnahmen einzuhalten, um Unfälle zu vermeiden; Kenntnis sicherer Arbeitsmethoden und sicherer Arbeitsverfahren. Fähigkeit, sichere Arbeitsverfahren zu organisieren und die Besatzungsmitglieder zur Anwendung sicherheitsbezogener Arbeitsvorschriften zu motivieren und dabei zu überwachen. alle für die Reinigung geschlossener Räume erforderlichen Sicherheitsmaßnahmen vor dem Öffnen, Betreten und Reinigen dieser Räume durch andere Personen zu kontrollieren und zu überwachen. Fähigkeit, Sicherheitskontrollen zur organisieren und Sicherheitsverfahren zu überwachen, wenn Besatzungsmitglieder oder andere Personen geschlossene Räume (z. B. Ballasttanks, Kofferdämme, Tanks, Doppelhüllenräume) betreten, einschließlich Wachdienst. Fähigkeit, vor dem Betreten geschlossener Räume eine Risikobewertung durchzuführen. Kenntnis der vor dem Betreten geschlossener Räume und bei Arbeiten in geschlossenen Räumen zu ergreifenden Vorsichtsmaßnahmen, z. B.: •Gefahren geschlossener Räume,•Überprüfung der Atmosphäre vor dem Betreten,•Kontrolle des Zutritts zu geschlossenen Räumen,•Sicherheitsvorkehrungen für das Betreten geschlossener Räume,•Schutzausrüstung (z. B. Gurte und Atemschutzgeräte),•Arbeit in geschlossenen Räumen. Gefahren geschlossener Räume, Überprüfung der Atmosphäre vor dem Betreten, Kontrolle des Zutritts zu geschlossenen Räumen, Sicherheitsvorkehrungen für das Betreten geschlossener Räume, Schutzausrüstung (z. B. Gurte und Atemschutzgeräte), Arbeit in geschlossenen Räumen. Fähigkeit, geeignete Maßnahmen im Falle eines Notfalls zu ergreifen. Der Schiffsführer muss in der Lage sein, für den Schutz und die Sicherheit der an Bord befindlichen Personen zu sorgen, einschließlich der unmittelbaren Hilfeleistung für Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität gemäß der Unterweisung und den Instruktionen nach Anhang IV der Verordnung (EU) Nr. 1177/2010. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.für die Sicherheit der Betroffenen und die eigene Sicherheit Rettungsmittel zu verwenden und Rettungsverfahren anzuwenden;1.Kenntnis der verfügbaren Rettungsmittel.2.Fähigkeit, für die Sicherheit der Betroffenen und die eigene Sicherheit Rettungsmittel zu verwenden und Rettungsverfahren anzuwenden.2.Krisenbewältigungsübungen zum Verhalten in Notfällen, z. B. Brand, Leckwarnung, Explosion, Zusammenstoß, Mann-über-Bord-Alarm und Evakuierung, zu organisieren;1.Kenntnis der Notmaßnahmen.2.Fähigkeit, die Besatzungsmitglieder in die Notmaßnahmen einzuweisen.3.Fähigkeit, eine regelmäßige Ausbildung der Besatzungsmitglieder zur Vorbereitung auf Notsituationen zu organisieren; dazu gehört auch die Organisation von Feuerlöschübungen sowie Übungen zum Verlassen des Fahrzeugs.3.Anweisungen in Bezug auf Brandverhütung, individuelle Schutzausrüstung, Verfahren, Materialien zur Brandbekämpfung, Atemschutzgeräte und Einsatzmöglichkeiten dieser Einrichtungen in Notfällen zu erteilen;1.Kenntnis der anzuwendenden Brandverhütungsvorschriften sowie der Regelungen zur Verwendung von Tabak und möglichen Zündquellen.2.Fähigkeit zur Einhaltung der einschlägigen Vorschriften über Brandmeldeanlagen, Löschgeräte und feste Löschanlagen und die zugehörigen Einrichtungen, z. B. Pumpen, Rettungsmittel, Bergegerät, individuelle Schutzausrüstung und Kommunikationsgeräte.3.Fähigkeit, die Überwachung und Instandhaltung von Brandmelde- und Feuerlöschanlagen und -geräten zu kontrollieren.4.Fähigkeit, Besatzungsmitglieder und Bordpersonal anzuweisen, sicherheitsbezogene Arbeitsvorschriften anzuwenden und die individuelle Schutz- und Sicherheitsausrüstung instand zu halten.4.Erste Hilfe zu leisten;1.Fähigkeit, im Einklang mit Erste-Hilfe-Standards und -methoden zu handeln.5.ein wirksames System zur Kontrolle der Rettungsmittel und der korrekten Anwendung individueller Schutzausrüstung an Bord einzuführen;1.Kenntnis der anwendbaren Rechtsvorschriften für Rettungsmittel sowie der Vorschriften für sichere Arbeitsbedingungen.2.Fähigkeit, die Betriebsbereitschaft von Rettungs-, Brandbekämpfungs- und anderen Sicherheitseinrichtungen und -systemen aufrechtzuerhalten und diesbezüglich regelmäßige Prüfungen durchzuführen.3.Fähigkeit, die Besatzungsmitglieder und das Bordpersonal bezüglich der korrekten Verwendung der (individuellen) Sicherheitsausrüstung anzuleiten, zu motivieren und zu beaufsichtigen.6.Hilfeleistung für Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität zu organisieren.1.Kenntnis der Unterweisung und der Instruktionen nach Anhang IV der Verordnung (EU) Nr. 1177/2010.2.Fähigkeit, unmittelbar Hilfe zu leisten und Hilfeleistung zu organisieren für Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität. für die Sicherheit der Betroffenen und die eigene Sicherheit Rettungsmittel zu verwenden und Rettungsverfahren anzuwenden; Kenntnis der verfügbaren Rettungsmittel. Fähigkeit, für die Sicherheit der Betroffenen und die eigene Sicherheit Rettungsmittel zu verwenden und Rettungsverfahren anzuwenden. Krisenbewältigungsübungen zum Verhalten in Notfällen, z. B. Brand, Leckwarnung, Explosion, Zusammenstoß, Mann-über-Bord-Alarm und Evakuierung, zu organisieren; Kenntnis der Notmaßnahmen. Fähigkeit, die Besatzungsmitglieder in die Notmaßnahmen einzuweisen. Fähigkeit, eine regelmäßige Ausbildung der Besatzungsmitglieder zur Vorbereitung auf Notsituationen zu organisieren; dazu gehört auch die Organisation von Feuerlöschübungen sowie Übungen zum Verlassen des Fahrzeugs. Anweisungen in Bezug auf Brandverhütung, individuelle Schutzausrüstung, Verfahren, Materialien zur Brandbekämpfung, Atemschutzgeräte und Einsatzmöglichkeiten dieser Einrichtungen in Notfällen zu erteilen; Kenntnis der anzuwendenden Brandverhütungsvorschriften sowie der Regelungen zur Verwendung von Tabak und möglichen Zündquellen. Fähigkeit zur Einhaltung der einschlägigen Vorschriften über Brandmeldeanlagen, Löschgeräte und feste Löschanlagen und die zugehörigen Einrichtungen, z. B. Pumpen, Rettungsmittel, Bergegerät, individuelle Schutzausrüstung und Kommunikationsgeräte. Fähigkeit, die Überwachung und Instandhaltung von Brandmelde- und Feuerlöschanlagen und -geräten zu kontrollieren. Fähigkeit, Besatzungsmitglieder und Bordpersonal anzuweisen, sicherheitsbezogene Arbeitsvorschriften anzuwenden und die individuelle Schutz- und Sicherheitsausrüstung instand zu halten. Erste Hilfe zu leisten; Fähigkeit, im Einklang mit Erste-Hilfe-Standards und -methoden zu handeln. ein wirksames System zur Kontrolle der Rettungsmittel und der korrekten Anwendung individueller Schutzausrüstung an Bord einzuführen; Kenntnis der anwendbaren Rechtsvorschriften für Rettungsmittel sowie der Vorschriften für sichere Arbeitsbedingungen. Fähigkeit, die Betriebsbereitschaft von Rettungs-, Brandbekämpfungs- und anderen Sicherheitseinrichtungen und -systemen aufrechtzuerhalten und diesbezüglich regelmäßige Prüfungen durchzuführen. Fähigkeit, die Besatzungsmitglieder und das Bordpersonal bezüglich der korrekten Verwendung der (individuellen) Sicherheitsausrüstung anzuleiten, zu motivieren und zu beaufsichtigen. Hilfeleistung für Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität zu organisieren. Kenntnis der Unterweisung und der Instruktionen nach Anhang IV der Verordnung (EU) Nr. 1177/2010. Fähigkeit, unmittelbar Hilfe zu leisten und Hilfeleistung zu organisieren für Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität. Der Schiffsführer muss in der Lage sein, Notfall- und Schadensbegrenzungspläne aufzustellen und Notfallsituationen zu bewältigen. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Vorbereitungen für Rettungspläne für verschiedene Arten von Notfällen einzuleiten;1.Kenntnis der verschiedenen Arten möglicher Notfälle, wie Zusammenstöße Feuer, Wassereinbruch, Sinken.2.Fähigkeit, Notfallpläne für das Verhalten in Notsituationen an Bord zu erstellen und Besatzungsmitgliedern spezielle Aufgaben zuzuweisen hierzu gehört auch die Überwachung und Kontrolle.2.Unterweisungen in Methoden zur Brandverhütung, Brandursachenerkennung und Brandbekämpfung entsprechend der verschiedenen Fähigkeiten der Besatzungsmitglieder durchzuführen;1.Kenntnis der Brandbekämpfungsmethoden mit besonderem Schwerpunkt auf Taktik und Führung.2.Kenntnis der Auswirkung des Einsatzes von Wasser zum Feuerlöschen auf die Stabilität des Schiffes und Fähigkeit, entsprechende Maßnahmen zu ergreifen.3.Fähigkeit, die Kommunikation und Koordination bei Brandbekämpfungseinsätzen zu übernehmen, einschließlich der Kommunikation mit externen Organisationen, und sich aktiv an den Rettungs- und Brandbekämpfungsmaßnahmen zu beteiligen.3.Unterweisungen im Einsatz von Rettungsmitteln durchzuführen;1.Kenntnis der besonderen Eigenschaften und Ausstattungen von Rettungsgeräten.2.Fähigkeit, ein Beiboot zu Wasser zu bringen und wieder an Bord zu nehmen und die Besatzungsmitglieder und das Bordpersonal in die Verwendung eines Beibootes einzuweisen.4.Anweisungen zu Rettungsplänen, Fluchtwegen und internen Kommunikations- und Alarmsystemen zu erteilen.1.Kenntnis der Rechtsvorschriften für Rettungspläne und Sicherheitsrollen.2.Fähigkeit, Anweisungen zu Rettungsplänen, Fluchtwegen und internen Kommunikations- und Alarmsystemen zu erteilen. Vorbereitungen für Rettungspläne für verschiedene Arten von Notfällen einzuleiten; Kenntnis der verschiedenen Arten möglicher Notfälle, wie Zusammenstöße Feuer, Wassereinbruch, Sinken. Fähigkeit, Notfallpläne für das Verhalten in Notsituationen an Bord zu erstellen und Besatzungsmitgliedern spezielle Aufgaben zuzuweisen hierzu gehört auch die Überwachung und Kontrolle. Unterweisungen in Methoden zur Brandverhütung, Brandursachenerkennung und Brandbekämpfung entsprechend der verschiedenen Fähigkeiten der Besatzungsmitglieder durchzuführen; Kenntnis der Brandbekämpfungsmethoden mit besonderem Schwerpunkt auf Taktik und Führung. Kenntnis der Auswirkung des Einsatzes von Wasser zum Feuerlöschen auf die Stabilität des Schiffes und Fähigkeit, entsprechende Maßnahmen zu ergreifen. Fähigkeit, die Kommunikation und Koordination bei Brandbekämpfungseinsätzen zu übernehmen, einschließlich der Kommunikation mit externen Organisationen, und sich aktiv an den Rettungs- und Brandbekämpfungsmaßnahmen zu beteiligen. Unterweisungen im Einsatz von Rettungsmitteln durchzuführen; Kenntnis der besonderen Eigenschaften und Ausstattungen von Rettungsgeräten. Fähigkeit, ein Beiboot zu Wasser zu bringen und wieder an Bord zu nehmen und die Besatzungsmitglieder und das Bordpersonal in die Verwendung eines Beibootes einzuweisen. Anweisungen zu Rettungsplänen, Fluchtwegen und internen Kommunikations- und Alarmsystemen zu erteilen. Kenntnis der Rechtsvorschriften für Rettungspläne und Sicherheitsrollen. Fähigkeit, Anweisungen zu Rettungsplänen, Fluchtwegen und internen Kommunikations- und Alarmsystemen zu erteilen. Der Schiffsführer muss in der Lage sein, für die Einhaltung der Umweltschutzanforderungen zu sorgen. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Vorsichtsmaßnahmen gegen Umweltverschmutzung zu ergreifen und entsprechende Ausrüstung zu verwenden;1.Kenntnis der Verfahren zur Vermeidung von Umweltverschmutzung.2.Fähigkeit, Vorsichtsmaßnahmen gegen Umweltverschmutzung zu treffen.3.Fähigkeit, sichere Bunkerverfahren anzuwenden.4.Fähigkeit, im Falle eines Schadens, Zusammenstoßes und Auflaufens Maßnahmen zu ergreifen und Anweisungen zu erteilen; hierzu gehört auch das Abdichten von Leckagen.2.die Umweltschutzgesetze anzuwenden;1.Kenntnis der Umweltvorschriften.2.Fähigkeit, Besatzungsmitglieder und Bordpersonal dazu zu motivieren, einschlägige Maßnahmen für ein umweltfreundliches Verhalten zu ergreifen oder sich umweltfreundlich zu verhalten.3.Geräte und Materialien wirtschaftlich und umweltfreundlich einzusetzen;1.Kenntnis der Verfahren für eine nachhaltige Nutzung von Ressourcen.2.Fähigkeit, Besatzungsmitglieder anzuweisen, Geräte und Materialien wirtschaftlich und umweltfreundlich einzusetzen.4.eine nachhaltige Abfallentsorgung anzuordnen und zu überwachen.1.Kenntnis der Rechtsvorschriften zur Abfallentsorgung.2.Fähigkeit, eine nachhaltige Abfallentsorgung zu gewährleisten und Besatzungsmitglieder und Bordpersonal entsprechend anzuleiten. Vorsichtsmaßnahmen gegen Umweltverschmutzung zu ergreifen und entsprechende Ausrüstung zu verwenden; Kenntnis der Verfahren zur Vermeidung von Umweltverschmutzung. Fähigkeit, Vorsichtsmaßnahmen gegen Umweltverschmutzung zu treffen. Fähigkeit, sichere Bunkerverfahren anzuwenden. Fähigkeit, im Falle eines Schadens, Zusammenstoßes und Auflaufens Maßnahmen zu ergreifen und Anweisungen zu erteilen; hierzu gehört auch das Abdichten von Leckagen. die Umweltschutzgesetze anzuwenden; Kenntnis der Umweltvorschriften. Fähigkeit, Besatzungsmitglieder und Bordpersonal dazu zu motivieren, einschlägige Maßnahmen für ein umweltfreundliches Verhalten zu ergreifen oder sich umweltfreundlich zu verhalten. Geräte und Materialien wirtschaftlich und umweltfreundlich einzusetzen; Kenntnis der Verfahren für eine nachhaltige Nutzung von Ressourcen. Fähigkeit, Besatzungsmitglieder anzuweisen, Geräte und Materialien wirtschaftlich und umweltfreundlich einzusetzen. eine nachhaltige Abfallentsorgung anzuordnen und zu überwachen. Kenntnis der Rechtsvorschriften zur Abfallentsorgung. Fähigkeit, eine nachhaltige Abfallentsorgung zu gewährleisten und Besatzungsmitglieder und Bordpersonal entsprechend anzuleiten.
 
 ### Anlage 10 — (zu § 38 Absatz 3, § 75 Absatz 4 und 5)
+
+1. Besondere Befähigungen und Beurteilungssituationen Die Prüfung besteht aus zwei Teilen: einem Teil Reiseplanung und einem Teil Reisedurchführung. Die Prüfung zur Reisedurchführung findet in einer einzigen Sitzung statt. Jeder Teil der Prüfung besteht aus mehreren Elementen. Für Schiffsführer, die weder ein zugelassenes Ausbildungsprogramm absolviert haben, das auf den Befähigungsstandards für die Betriebsebene beruht, noch eine Beurteilung ihrer Befähigung bei einer Verwaltungsbehörde bestanden haben, in deren Rahmen überprüft wurde, dass die Befähigungsstandards für die Betriebsebene erfüllt sind, werden die Anforderungen um die besonderen Elemente ergänzt, die in den Standards in Anlage 11 (Zusatzmodul zur Aufsicht im Rahmen der praktischen Prüfung zur Erlangung eines Befähigungszeugnisses als Schiffsführer) festgelegt sind. Inhaltlich muss die Prüfung den folgenden Anforderungen entsprechen: Reiseplanung Der Prüfungsteil Reiseplanung umfasst die in der Tabelle in Anhang 1 aufgeführten Elemente. Die Elemente werden nach ihrer Bedeutung in die Kategorien I und II eingeteilt. Aus dieser Liste sind je Kategorie 10 Elemente auszuwählen und in der Prüfung abzuprüfen. Reisedurchführung Der Bewerber hat nachzuweisen, dass er in der Lage ist, eine Reise durchzuführen. Eine unabdingbare Voraussetzung hierfür ist, dass er das Fahrzeug selbst steuert. Die einzelnen zu prüfenden Elemente sind in der Tabelle in Anhang 2 aufgeführt und – im Gegensatz zum Prüfungsteil Reiseplanung – sind stets sämtliche dieser Elemente abzuprüfen. Es steht der Prüfungskommission frei, den Inhalt der einzelnen Prüfungselemente festzulegen.
+
+2. Technische Anforderungen an Fahrzeuge, die für praktische Prüfungen verwendet werden Ein für praktische Prüfungen verwendetes Fahrzeug wird von Artikel 2 der Richtlinie (EU) 2017/2397 erfasst.
 
 ### Anlage 11 — (zu § 38 Absatz 4)
 
 Bewerber, die weder ein zugelassenes Ausbildungsprogramm absolviert haben, das auf den Befähigungsstandards für die Betriebsebene beruht, noch eine Beurteilung ihrer Befähigung bei einer Verwaltungsbehörde bestanden haben, in deren Rahmen überprüft wurde, dass die Befähigungsstandards für die Betriebsebene erfüllt sind, müssen dieses Modul bestehen. Zusätzlich zu den Anforderungen, die in den Standards für die praktische Prüfung zur Erlangung eines Befähigungszeugnisses als Schiffsführer genannt sind, sind folgende Anforderungen zu erfüllen.
 
+1. Besondere Befähigungen und Beurteilungssituationen Es steht der Prüfungskommission frei, den Inhalt der einzelnen Prüfungselemente festzulegen. Die Prüfungskommission muss 20 der 25 Elemente der Kategorie I prüfen. Die Prüfungskommission muss 8 der 12 Elemente der Kategorie II prüfen. Die Bewerber können höchstens 10 Punkte für jedes Element erreichen. Für Kategorie I müssen die Bewerber für jedes Element mindestens 7 von 10 Punkten erreichen. Für Kategorie II müssen die Bewerber insgesamt mindestens 40 Punkte erreichen.Nr.BefähigungenPrüfungselementeKategorien I-II 10.1.1die an Bord verfügbaren Materialien wie Winden, Poller, Seile und Drähte unter Berücksichtigung der relevanten Arbeitssicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen;I 20.1.2Schubverbände unter Einsatz der erforderlichen Ausrüstung und Materialien zu kuppeln und zu entkuppeln;I 30.1.2die an Bord für das Kuppeln verfügbare Ausrüstung und verfügbaren Materialien unter Berücksichtigung der relevanten Arbeitssicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen;I 40.1.3Ankermanöver vorzuführen;I 50.1.3die an Bord für das Ankern verfügbare Ausrüstung und verfügbaren Materialien unter Berücksichtigung der relevanten Arbeitssicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen;I 60.1.4die Wasserdichtigkeit des Fahrzeugs sicherzustellen;I 70.1.4Arbeiten gemäß der Prüfliste an Deck und in den Aufenthaltsräumen durchzuführen, wie die Wasserabdichtung und Sicherung von Luken und Laderäumen;I 80.1.5den Mitgliedern der Decksmannschaft die anwendbaren Verfahren beim Durchfahren von Schleusen, Wehren und Brücken zu erklären und vorzuführenII 90.1.6das Tag- und Nachtkennzeichnungssystem, die Zeichen und Schallzeichen des Fahrzeugs zu bedienen und zu warten;II100.3.3Verfahren zur Bestimmung der Menge geladener oder gelöschter Ladung anzuwenden;II110.3.3die Menge flüssiger Ladung unter Verwendung von Sondierungen und/oder Tanktabellen zu berechnen;II120.4.1den Maschinenraum den Verfahren gemäß zu bedienen und zu kontrollieren;I130.4.1die sichere Funktion, Betriebsweise und Instandhaltung des Bilge- und Ballastsystems zu erklären, einschließlich Meldung von Zwischenfällen im Zusammenhang mit Umpumpvorgängen und Fähigkeit, Tankfüllstände korrekt zu messen und zu melden;II140.4.1das Abschalten der Maschinen nach dem Einsatz vorzubereiten und durchzuführen;I150.4.1Bilge-, Ballast- und Ladungspumpensysteme zu bedienen;I160.4.1die hydraulischen und pneumatischen Systeme zu benutzen;I170.4.2die Schalttafel zu benutzen;I180.4.2den Landanschluss zu benutzen;I190.4.3sichere Arbeitsverfahren bei der Wartung und Instandsetzung von Maschinen und Geräten/Anlagen anzuwenden;I200.4.5Pumpen, Rohrleitungssysteme, Bilge- und Ballastsysteme zu warten und instand zu halten;II210.5.1unter Einhaltung der Hygienevorschriften sämtliche Wohnräume und das Steuerhaus zu reinigen sowie den Haushalt ordnungsgemäß zu führen; dies schließt die Verantwortung für den eigenen Wohnraum ein;II220.5.1die Maschinenräume und die Maschinen unter Einsatz der geeigneten Reinigungsmaterialien zu reinigen;I230.5.1die äußeren Teile, den Körper und die Decks des Fahrzeugs in der korrekten Reihenfolge unter Einsatz der gemäß den Umweltvorschriften geeigneten Materialien zu reinigen und zu konservieren;II240.5.1für die Entsorgung der Fahrzeug- und Haushaltsabfälle gemäß den Umweltvorschriften zu sorgen;II250.5.2für sämtliche technische Ausrüstung gemäß den Anweisungen Sorge zu tragen und Wartungsprogramme (auch digitale) zu verwenden;I260.5.3Seile und Drähte gemäß den Methoden und Vorschriften für sicheres Arbeiten zu verwenden und zu lagern;II270.5.4Drähte und Seile zu spleißen, Knoten entsprechend ihrem Verwendungszweck anzuwenden und Drähte und Seile instand zu halten;I280.6.1die erforderlichen technischen und nautischen Begriffe sowie Begriffe im Zusammenhang mit sozialen Aspekten in Standardredewendungen zu verwenden;I290.7.1Gefahren im Zusammenhang mit Gefahrenmomenten an Bord zu vermeiden;I300.7.1für Personal oder Fahrzeug potenziell gefährliche Tätigkeiten zu verhindern;I310.7.2persönliche Schutzausrüstung zu benutzen;I320.7.3Schwimmkenntnisse für Rettungsarbeiten einzusetzen;II330.7.3Rettungsausrüstung bei Rettungsarbeiten zu benutzen und Betroffene zu retten und zu transportieren;II340.7.4Fluchtwege frei zu halten;II350.7.5Notfallkommunikations- und Alarmsysteme sowie -ausrüstung zu benutzen;I360.7.6, 0.7.7verschiedene Methoden der Brandbekämpfung und Löschgeräte und feste Löschanlagen anzuwenden;I370.7.8Erste Hilfe zu leisten.I
+
+2. Mindestanforderungen an Fahrzeuge, die für praktische Prüfungen verwendet werden Ein für praktische Prüfungen verwendetes Fahrzeug wird von Artikel 2 der Richtlinie (EU) 2017/2397 erfasst.
+
 ### Anlage 12 — (zu § 40 Absatz 2)
 
-1.
+I. Rechtskenntnisse1.Detailkenntnisse aus den folgenden Kapiteln und Anlagen der Polizeiverordnungen: a)Allgemeine Bestimmungenb)Kennzeichen und Tiefgangsanzeiger der Fahrzeuge, Schiffseichungc)Bezeichnung der Fahrzeuged)Schallzeichen der Fahrzeuge, Sprechfunk, Informations- und Navigationsgerätee)Schifffahrtszeichen und Bezeichnung der Wasserstraßef)Fahrregelng)Regeln für das Stillliegenh)Schallzeicheni)Ölkontrollbuch2.Grundkenntnisse über das Handbuch Sprechfunk3.Grundkenntnisse über das Merkblatt Abfallbeseitigung4.Grundkenntnisse über den Inhalt der Fahrtauglichkeitsbescheinigung nach der Binnenschiffsuntersuchungsordnung5.Aus der Binnenschiffspersonalverordnung a)Grundkenntnisse über die Arten von Befähigungszeugnissen für Schiffsführerb)Detailkenntnisse über die Kriterien für die Entziehung und die Aussetzung der Gültigkeit von Befähigungszeugnissen6.Grundkenntnisse der Unfallverhütungsvorschriften7.Detailkenntnisse der Fährenbetriebsverordnung Detailkenntnisse aus den folgenden Kapiteln und Anlagen der Polizeiverordnungen: a)Allgemeine Bestimmungenb)Kennzeichen und Tiefgangsanzeiger der Fahrzeuge, Schiffseichungc)Bezeichnung der Fahrzeuged)Schallzeichen der Fahrzeuge, Sprechfunk, Informations- und Navigationsgerätee)Schifffahrtszeichen und Bezeichnung der Wasserstraßef)Fahrregelng)Regeln für das Stillliegenh)Schallzeicheni)Ölkontrollbuch Allgemeine Bestimmungen Kennzeichen und Tiefgangsanzeiger der Fahrzeuge, Schiffseichung Bezeichnung der Fahrzeuge Schallzeichen der Fahrzeuge, Sprechfunk, Informations- und Navigationsgeräte Schifffahrtszeichen und Bezeichnung der Wasserstraße Fahrregeln Regeln für das Stillliegen Schallzeichen Ölkontrollbuch Grundkenntnisse über das Handbuch Sprechfunk Grundkenntnisse über das Merkblatt Abfallbeseitigung Grundkenntnisse über den Inhalt der Fahrtauglichkeitsbescheinigung nach der Binnenschiffsuntersuchungsordnung Aus der Binnenschiffspersonalverordnung a)Grundkenntnisse über die Arten von Befähigungszeugnissen für Schiffsführerb)Detailkenntnisse über die Kriterien für die Entziehung und die Aussetzung der Gültigkeit von Befähigungszeugnissen Grundkenntnisse über die Arten von Befähigungszeugnissen für Schiffsführer Detailkenntnisse über die Kriterien für die Entziehung und die Aussetzung der Gültigkeit von Befähigungszeugnissen Grundkenntnisse der Unfallverhütungsvorschriften Detailkenntnisse der Fährenbetriebsverordnung
 
-a)
+II. Wasserstraßenkenntnisse:
 
-b)
+III. Berufskenntnisse1.Fähigkeiten, das Fahrzeug zu führen, insbesondere a)Vorgänge beim Steuern, Manövriereigenschaftenb)Funktion von Steuereinrichtungen und Antriebc)Einfluss von Strömung, Wind und des Sogesd)Schwimmfähigkeit, Stabilität und ihre praktische Anwendunge)Ankern und Festmachen, auch unter schwierigen Bedingungen2.Kenntnisse über die Maschinen, insbesondere a)Bau, Arbeitsweise der Motoren, Funktion der elektrischen Einrichtungenb)Bedienung, Betriebskontrollec)Maßnahmen bei Betriebsstörungen3.Fähigkeit, sich unter besonderen Umständen richtig zu verhalten, insbesondere a)Maßnahmen bei Havarien, Erste Hilfe, Abdichtung von Lecksb)Besonderheiten der Rettung von Personen, Schiff und Ladung auf Wasserstraßen der Zonen 1 und 2c)Bedienung von Rettungsgeräten und -ausrüstungend)Abfallbehandlung und Reinhaltung der Wasserstraßene)Benachrichtigung von zuständigen Behördenf)Brandverhütung, Feuerlöschwesen Fähigkeiten, das Fahrzeug zu führen, insbesondere a)Vorgänge beim Steuern, Manövriereigenschaftenb)Funktion von Steuereinrichtungen und Antriebc)Einfluss von Strömung, Wind und des Sogesd)Schwimmfähigkeit, Stabilität und ihre praktische Anwendunge)Ankern und Festmachen, auch unter schwierigen Bedingungen Vorgänge beim Steuern, Manövriereigenschaften Funktion von Steuereinrichtungen und Antrieb Einfluss von Strömung, Wind und des Soges Schwimmfähigkeit, Stabilität und ihre praktische Anwendung Ankern und Festmachen, auch unter schwierigen Bedingungen Kenntnisse über die Maschinen, insbesondere a)Bau, Arbeitsweise der Motoren, Funktion der elektrischen Einrichtungenb)Bedienung, Betriebskontrollec)Maßnahmen bei Betriebsstörungen Bau, Arbeitsweise der Motoren, Funktion der elektrischen Einrichtungen Bedienung, Betriebskontrolle Maßnahmen bei Betriebsstörungen Fähigkeit, sich unter besonderen Umständen richtig zu verhalten, insbesondere a)Maßnahmen bei Havarien, Erste Hilfe, Abdichtung von Lecksb)Besonderheiten der Rettung von Personen, Schiff und Ladung auf Wasserstraßen der Zonen 1 und 2c)Bedienung von Rettungsgeräten und -ausrüstungend)Abfallbehandlung und Reinhaltung der Wasserstraßene)Benachrichtigung von zuständigen Behördenf)Brandverhütung, Feuerlöschwesen Maßnahmen bei Havarien, Erste Hilfe, Abdichtung von Lecks Besonderheiten der Rettung von Personen, Schiff und Ladung auf Wasserstraßen der Zonen 1 und 2 Bedienung von Rettungsgeräten und -ausrüstungen Abfallbehandlung und Reinhaltung der Wasserstraßen Benachrichtigung von zuständigen Behörden Brandverhütung, Feuerlöschwesen
 
-c)
+I. Rechtskenntnisse1.Detailkenntnisse aus den folgenden Kapiteln und Anlagen der Polizeiverordnungen: a)Allgemeine Bestimmungenb)Kennzeichen und Tiefgangsanzeiger der Fahrzeuge, Schiffseichungc)Bezeichnung der Fahrzeuged)Schallzeichen der Fahrzeuge, Sprechfunk, Informations- und Navigationsgerätee)Schifffahrtszeichen und Bezeichnung der Wasserstraßef)Fahrregelng)Regeln für das Stillliegenh)Schallzeicheni)Ölkontrollbuch2.Grundkenntnisse über das Handbuch Sprechfunk3.Grundkenntnisse über das Merkblatt Abfallbeseitigung4.Grundkenntnisse über Aufbau und Inhalt der Binnenschiffsuntersuchungsordnung (insbesondere über Sicherheit von Personen und Schiff) sowie den Inhalt der Fahrtauglichkeitsbescheinigung5.Aus der Binnenschiffspersonalverordnung a)Grundkenntnisse über die Arten von Befähigungszeugnissen für Schiffsführerb)Detailkenntnisse über die Kriterien für die Entziehung und die Aussetzung der Gültigkeit von Befähigungszeugnissen6.Grundkenntnisse der Unfallverhütungsvorschriften Detailkenntnisse aus den folgenden Kapiteln und Anlagen der Polizeiverordnungen: a)Allgemeine Bestimmungenb)Kennzeichen und Tiefgangsanzeiger der Fahrzeuge, Schiffseichungc)Bezeichnung der Fahrzeuged)Schallzeichen der Fahrzeuge, Sprechfunk, Informations- und Navigationsgerätee)Schifffahrtszeichen und Bezeichnung der Wasserstraßef)Fahrregelng)Regeln für das Stillliegenh)Schallzeicheni)Ölkontrollbuch Allgemeine Bestimmungen Kennzeichen und Tiefgangsanzeiger der Fahrzeuge, Schiffseichung Bezeichnung der Fahrzeuge Schallzeichen der Fahrzeuge, Sprechfunk, Informations- und Navigationsgeräte Schifffahrtszeichen und Bezeichnung der Wasserstraße Fahrregeln Regeln für das Stillliegen Schallzeichen Ölkontrollbuch Grundkenntnisse über das Handbuch Sprechfunk Grundkenntnisse über das Merkblatt Abfallbeseitigung Grundkenntnisse über Aufbau und Inhalt der Binnenschiffsuntersuchungsordnung (insbesondere über Sicherheit von Personen und Schiff) sowie den Inhalt der Fahrtauglichkeitsbescheinigung Aus der Binnenschiffspersonalverordnung a)Grundkenntnisse über die Arten von Befähigungszeugnissen für Schiffsführerb)Detailkenntnisse über die Kriterien für die Entziehung und die Aussetzung der Gültigkeit von Befähigungszeugnissen Grundkenntnisse über die Arten von Befähigungszeugnissen für Schiffsführer Detailkenntnisse über die Kriterien für die Entziehung und die Aussetzung der Gültigkeit von Befähigungszeugnissen Grundkenntnisse der Unfallverhütungsvorschriften
 
-d)
+II. Wasserstraßenkenntnisse Grundkenntnisse über die Wasserstraßen (wichtigste geographische, hydrologische, meteorologische und morphologische Merkmale)
 
-e)
+III. Berufskenntnisse1.Fähigkeiten, das Fahrzeug zu führen, insbesondere a)Vorgänge beim Steuern, Manövriereigenschaftenb)Funktion von Steuereinrichtungen und Antriebc)Einfluss von Strömung, Wind und Sogd)Schwimmfähigkeit, Stabilität und ihre praktische Anwendunge)Ankern und Festmachen, auch unter schwierigen Bedingungen2.Kenntnisse über die Maschinen, insbesondere a)Bau, Arbeitsweise der Motoren, Funktion der elektrischen Einrichtungenb)Bedienung, Betriebskontrollec)Maßnahmen bei Betriebsstörungen3.Grundkenntnisse über das Stauen von Ladung und Staupläne4.Fähigkeit, sich unter besonderen Umständen richtig zu verhalten, insbesondere über a)Maßnahmen bei Havarien, Erste Hilfe, Abdichtung von Lecksb)Bedienung von Rettungsgeräten und -ausrüstungenc)Abfallbehandlung und Reinhaltung der Wasserstraßend)Benachrichtigung von zuständigen Behördene)Brandverhütung, Feuerlöschwesen Fähigkeiten, das Fahrzeug zu führen, insbesondere a)Vorgänge beim Steuern, Manövriereigenschaftenb)Funktion von Steuereinrichtungen und Antriebc)Einfluss von Strömung, Wind und Sogd)Schwimmfähigkeit, Stabilität und ihre praktische Anwendunge)Ankern und Festmachen, auch unter schwierigen Bedingungen Vorgänge beim Steuern, Manövriereigenschaften Funktion von Steuereinrichtungen und Antrieb Einfluss von Strömung, Wind und Sog Schwimmfähigkeit, Stabilität und ihre praktische Anwendung Ankern und Festmachen, auch unter schwierigen Bedingungen Kenntnisse über die Maschinen, insbesondere a)Bau, Arbeitsweise der Motoren, Funktion der elektrischen Einrichtungenb)Bedienung, Betriebskontrollec)Maßnahmen bei Betriebsstörungen Bau, Arbeitsweise der Motoren, Funktion der elektrischen Einrichtungen Bedienung, Betriebskontrolle Maßnahmen bei Betriebsstörungen Grundkenntnisse über das Stauen von Ladung und Staupläne Fähigkeit, sich unter besonderen Umständen richtig zu verhalten, insbesondere über a)Maßnahmen bei Havarien, Erste Hilfe, Abdichtung von Lecksb)Bedienung von Rettungsgeräten und -ausrüstungenc)Abfallbehandlung und Reinhaltung der Wasserstraßend)Benachrichtigung von zuständigen Behördene)Brandverhütung, Feuerlöschwesen Maßnahmen bei Havarien, Erste Hilfe, Abdichtung von Lecks Bedienung von Rettungsgeräten und -ausrüstungen Abfallbehandlung und Reinhaltung der Wasserstraßen Benachrichtigung von zuständigen Behörden Brandverhütung, Feuerlöschwesen
 
-f)
+I. Rechtskenntnisse1.Detailkenntnisse aus den folgenden Kapiteln bzw. Anlagen der Polizeiverordnungen: a)Allgemeine Bestimmungenb)Kennzeichen und Tiefgangsanzeiger der Fahrzeuge, Schiffseichungc)Bezeichnung der Fahrzeuged)Schallzeichen der Fahrzeuge, Sprechfunk, Informations- und Navigationsgerätee)Schifffahrtszeichen und Bezeichnung der Wasserstraßef)Fahrregelng)Regeln für das Stillliegenh)Schallzeicheni)Ölkontrollbuch2.Grundkenntnisse über das Handbuch Sprechfunk3.Grundkenntnisse über das Merkblatt Abfallbeseitigung4.Grundkenntnisse über den Inhalt der Fahrtauglichkeitsbescheinigung nach der Binnenschiffsuntersuchungsordnung5.Aus der Binnenschiffspersonalverordnung a)Grundkenntnisse über die Arten von Befähigungszeugnissen für Schiffsführerb)Detailkenntnisse über die Kriterien für die Entziehung und die Aussetzung der Gültigkeit von Befähigungszeugnissen Detailkenntnisse aus den folgenden Kapiteln bzw. Anlagen der Polizeiverordnungen: a)Allgemeine Bestimmungenb)Kennzeichen und Tiefgangsanzeiger der Fahrzeuge, Schiffseichungc)Bezeichnung der Fahrzeuged)Schallzeichen der Fahrzeuge, Sprechfunk, Informations- und Navigationsgerätee)Schifffahrtszeichen und Bezeichnung der Wasserstraßef)Fahrregelng)Regeln für das Stillliegenh)Schallzeicheni)Ölkontrollbuch Allgemeine Bestimmungen Kennzeichen und Tiefgangsanzeiger der Fahrzeuge, Schiffseichung Bezeichnung der Fahrzeuge Schallzeichen der Fahrzeuge, Sprechfunk, Informations- und Navigationsgeräte Schifffahrtszeichen und Bezeichnung der Wasserstraße Fahrregeln Regeln für das Stillliegen Schallzeichen Ölkontrollbuch Grundkenntnisse über das Handbuch Sprechfunk Grundkenntnisse über das Merkblatt Abfallbeseitigung Grundkenntnisse über den Inhalt der Fahrtauglichkeitsbescheinigung nach der Binnenschiffsuntersuchungsordnung Aus der Binnenschiffspersonalverordnung a)Grundkenntnisse über die Arten von Befähigungszeugnissen für Schiffsführerb)Detailkenntnisse über die Kriterien für die Entziehung und die Aussetzung der Gültigkeit von Befähigungszeugnissen Grundkenntnisse über die Arten von Befähigungszeugnissen für Schiffsführer Detailkenntnisse über die Kriterien für die Entziehung und die Aussetzung der Gültigkeit von Befähigungszeugnissen
 
-g)
+II. Wasserstraßenkenntnisse Kenntnisse der Wasserstraßen (wichtigste geographische, hydrologische, meteorologische und morphologische Merkmale)
 
-h)
-
-i)
-
-2.
-
-3.
-
-4.
-
-5.
-
-a)
-
-b)
-
-6.
-
-7.
-
-1.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-c)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-1.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-2.
-
-3.
-
-4.
-
-5.
-
-a)
-
-b)
-
-6.
-
-1.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-c)
-
-3.
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-1.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-2.
-
-3.
-
-4.
-
-5.
-
-a)
-
-b)
-
-1.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-c)
-
-3.
-
-a)
-
-b)
+III. Berufskenntnisse1.Fähigkeiten, das Fahrzeug zu führen, insbesondere a)Vorgänge beim Steuern, Manövriereigenschaftenb)Funktion von Steuereinrichtungen und Antriebc)Einfluss von Strömung, Wind und des Sogesd)Schwimmfähigkeit, Stabilität und ihre praktische Anwendunge)Ankern und Festmachen, auch unter schwierigen Bedingungen2.Kenntnisse über die Maschinen, insbesondere a)Bau, Arbeitsweise der Motoren, Funktion der elektrischen Einrichtungenb)Bedienung, Betriebskontrollec)Maßnahmen bei Betriebsstörungen3.Fähigkeit, sich unter besonderen Umständen richtig zu verhalten, insbesondere a)Maßnahmen bei Havarien, Erste Hilfe, Abdichtung von Lecksb)Abfallbehandlung und Reinhaltung der Wasserstraßen Fähigkeiten, das Fahrzeug zu führen, insbesondere a)Vorgänge beim Steuern, Manövriereigenschaftenb)Funktion von Steuereinrichtungen und Antriebc)Einfluss von Strömung, Wind und des Sogesd)Schwimmfähigkeit, Stabilität und ihre praktische Anwendunge)Ankern und Festmachen, auch unter schwierigen Bedingungen Vorgänge beim Steuern, Manövriereigenschaften Funktion von Steuereinrichtungen und Antrieb Einfluss von Strömung, Wind und des Soges Schwimmfähigkeit, Stabilität und ihre praktische Anwendung Ankern und Festmachen, auch unter schwierigen Bedingungen Kenntnisse über die Maschinen, insbesondere a)Bau, Arbeitsweise der Motoren, Funktion der elektrischen Einrichtungenb)Bedienung, Betriebskontrollec)Maßnahmen bei Betriebsstörungen Bau, Arbeitsweise der Motoren, Funktion der elektrischen Einrichtungen Bedienung, Betriebskontrolle Maßnahmen bei Betriebsstörungen Fähigkeit, sich unter besonderen Umständen richtig zu verhalten, insbesondere a)Maßnahmen bei Havarien, Erste Hilfe, Abdichtung von Lecksb)Abfallbehandlung und Reinhaltung der Wasserstraßen Maßnahmen bei Havarien, Erste Hilfe, Abdichtung von Lecks Abfallbehandlung und Reinhaltung der Wasserstraßen
 
 ### Anlage 13 — (zu § 41 Absatz 2)
 
-1.
+1. Der Schiffsführer, der unter Radar fährt, muss in der Lage sein, mithilfe des Radars vor dem Ablegen geeignete Maßnahmen in Bezug auf die Navigation zu ergreifen. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.den Beginn einer Reise vorzubereiten und insbesondere bei eingeschränkten Sichtverhältnissen Navigationsradaranlagen und Wendegeschwindigkeitsanzeiger zu nutzen.1.Allgemeine Kenntnisse über Funkwellen und Kenntnisse über das Radarprinzip und insbesondere •die Ausbreitungsgeschwindigkeit von Funkwellen,•die Reflexion von Funkwellen,•die technischen Kennungsgrößen von Navigationsradaranlagen (Betriebsfrequenzbereich, Sendeleistung, Impulsdauer, Antennendrehzahl, Antennencharakteristik, Bildschirmabmessungen und Entfernungsbereiche, Mindestentfernung, radiale und azimutale Auflösung usw.).2.Allgemeine Kenntnisse über Funktionsweise und Einsatz von Wendegeschwindigkeitsanzeigern.3.Fähigkeit, Bedienungselemente von Navigationsradaranlagen wie Tune (Abstimmung), Gain (Verstärkung), Brilliance (Helligkeit), On/Standby (An/Bereitschaft), Range (Entfernung) einzuschalten, einzustellen und zu überwachen sowie Wendegeschwindigkeitsanzeiger in der Binnenschifffahrt zu nutzen und ihren ordnungsgemäßen Einsatz sicherzustellen. den Beginn einer Reise vorzubereiten und insbesondere bei eingeschränkten Sichtverhältnissen Navigationsradaranlagen und Wendegeschwindigkeitsanzeiger zu nutzen. Allgemeine Kenntnisse über Funkwellen und Kenntnisse über das Radarprinzip und insbesondere •die Ausbreitungsgeschwindigkeit von Funkwellen,•die Reflexion von Funkwellen,•die technischen Kennungsgrößen von Navigationsradaranlagen (Betriebsfrequenzbereich, Sendeleistung, Impulsdauer, Antennendrehzahl, Antennencharakteristik, Bildschirmabmessungen und Entfernungsbereiche, Mindestentfernung, radiale und azimutale Auflösung usw.). die Ausbreitungsgeschwindigkeit von Funkwellen, die Reflexion von Funkwellen, die technischen Kennungsgrößen von Navigationsradaranlagen (Betriebsfrequenzbereich, Sendeleistung, Impulsdauer, Antennendrehzahl, Antennencharakteristik, Bildschirmabmessungen und Entfernungsbereiche, Mindestentfernung, radiale und azimutale Auflösung usw.). Allgemeine Kenntnisse über Funktionsweise und Einsatz von Wendegeschwindigkeitsanzeigern. Fähigkeit, Bedienungselemente von Navigationsradaranlagen wie Tune (Abstimmung), Gain (Verstärkung), Brilliance (Helligkeit), On/Standby (An/Bereitschaft), Range (Entfernung) einzuschalten, einzustellen und zu überwachen sowie Wendegeschwindigkeitsanzeiger in der Binnenschifffahrt zu nutzen und ihren ordnungsgemäßen Einsatz sicherzustellen.
 
-1.
+2. Der Schiffsführer, der unter Radar fährt, muss in der Lage sein, Radarbilder auszuwerten und die Radarinformationen zu analysieren. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.das Radarbild in Be- zug auf die Lage des eigenen Fahrzeugs und die Lage anderer Fahrzeuge korrekt auszuwerten;1.Fähigkeit, das Radarbild auszuwerten durch korrekte Bestimmung •des Standorts der Antenne auf dem Bildschirm und der Vorauslinie,•von Lage, Kurs und Wenderichtung des eigenen Fahrzeugs,•der Abstände und Entfernungen.2.Fähigkeit, das Verhalten anderer Verkehrsteilnehmer (stillliegende Fahrzeuge, entgegenkommende Fahrzeuge, mitlaufende Fahrzeuge) zu interpretieren.2.weitere vom Radar bereitgestellte Informationen zu analysieren.1.Fähigkeit, vom Radar bereitgestellte Informationen wie Vorauslinie (HL – Heading Line), elektronische Peillinie (EBL – Electronic Bearing Line), Ringabstände, variabler Entfernungsmessring (VRM – Variable Range Marker), Zielspuren, Dezentrierung, parallele Linien (P-Linien) zu analysieren und das Radarbild zu erklären.2.Kenntnis der Grenzen der Informationsmöglichkeiten durch Navigationsradaranlagen.3.Fähigkeit, das Verhalten von ortsfesten und sich bewegenden Objekten auszuwerten. das Radarbild in Be- zug auf die Lage des eigenen Fahrzeugs und die Lage anderer Fahrzeuge korrekt auszuwerten; Fähigkeit, das Radarbild auszuwerten durch korrekte Bestimmung •des Standorts der Antenne auf dem Bildschirm und der Vorauslinie,•von Lage, Kurs und Wenderichtung des eigenen Fahrzeugs,•der Abstände und Entfernungen. des Standorts der Antenne auf dem Bildschirm und der Vorauslinie, von Lage, Kurs und Wenderichtung des eigenen Fahrzeugs, der Abstände und Entfernungen. Fähigkeit, das Verhalten anderer Verkehrsteilnehmer (stillliegende Fahrzeuge, entgegenkommende Fahrzeuge, mitlaufende Fahrzeuge) zu interpretieren. weitere vom Radar bereitgestellte Informationen zu analysieren. Fähigkeit, vom Radar bereitgestellte Informationen wie Vorauslinie (HL – Heading Line), elektronische Peillinie (EBL – Electronic Bearing Line), Ringabstände, variabler Entfernungsmessring (VRM – Variable Range Marker), Zielspuren, Dezentrierung, parallele Linien (P-Linien) zu analysieren und das Radarbild zu erklären. Kenntnis der Grenzen der Informationsmöglichkeiten durch Navigationsradaranlagen. Fähigkeit, das Verhalten von ortsfesten und sich bewegenden Objekten auszuwerten.
 
-1.
+3. Der Schiffsführer, der unter Radar fährt, muss in der Lage sein, Störungen unterschiedlichen Ursprungs zu reduzieren. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.vom eigenen Fahrzeug ausgehende Störungen zu identifizieren und zu reduzieren;1.Kenntnisse über Störungen, die durch Bruch oder Aufsplittung der Antennenkeule, durch Abschattungen (blinde Sektoren) oder durch Mehrfachreflexionen (z. B. in Laderäumen) verursacht werden können.2.Fähigkeit, Maßnahmen zur Reduzierung der vom eigenen Fahrzeug ausgehenden Störungen zu ergreifen.2.von der Umgebung ausgehende Störungen zu identifizieren und zu reduzieren;1.Kenntnisse über Störungen durch Regen oder Wellengang, Streufelder (z. B. bei Brücken), Mehrfachreflexionen, Fehl-/Geisterechos, Hochspannungsleitungen, Radarabschattungen, Mehrwegausbreitung.2.Fähigkeit, Maßnahmen zur Reduzierung der von der Umwelt ausgehenden Störungen (Regenechounterdrückung (FTC) und Seegangechounterdrückung (STC)) zu ergreifen.3.von anderen Navigationsradaranlagen ausgehende Störungen zu identifizieren und zu reduzieren.1.Kenntnis des Erscheinungsbildes der von anderen Navigationsradaranlagen verursachten Störungen.2.Fähigkeit, Maßnahmen zur Beseitigung der von anderen Navigationsradaranlagen ausgehenden Störungen (Störunterdrückung (IR)) zu ergreifen. vom eigenen Fahrzeug ausgehende Störungen zu identifizieren und zu reduzieren; Kenntnisse über Störungen, die durch Bruch oder Aufsplittung der Antennenkeule, durch Abschattungen (blinde Sektoren) oder durch Mehrfachreflexionen (z. B. in Laderäumen) verursacht werden können. Fähigkeit, Maßnahmen zur Reduzierung der vom eigenen Fahrzeug ausgehenden Störungen zu ergreifen. von der Umgebung ausgehende Störungen zu identifizieren und zu reduzieren; Kenntnisse über Störungen durch Regen oder Wellengang, Streufelder (z. B. bei Brücken), Mehrfachreflexionen, Fehl-/Geisterechos, Hochspannungsleitungen, Radarabschattungen, Mehrwegausbreitung. Fähigkeit, Maßnahmen zur Reduzierung der von der Umwelt ausgehenden Störungen (Regenechounterdrückung (FTC) und Seegangechounterdrückung (STC)) zu ergreifen. von anderen Navigationsradaranlagen ausgehende Störungen zu identifizieren und zu reduzieren. Kenntnis des Erscheinungsbildes der von anderen Navigationsradaranlagen verursachten Störungen. Fähigkeit, Maßnahmen zur Beseitigung der von anderen Navigationsradaranlagen ausgehenden Störungen (Störunterdrückung (IR)) zu ergreifen.
 
-•
+4. Der Schiffsführer, der unter Radar fährt, muss in der Lage sein, unter Berücksichtigung der geltenden vereinbarten Regeln im Bereich der Binnenschifffahrt und im Einklang mit den Bestimmungen über die Anforderungen für die Radarfahrt (Besatzungsvorschriften, technische Vorschriften für Schiffe usw.) mit Radar zu fahren. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Regeln für den Einsatz von Radar anzuwenden.1.Kenntnis der Bestimmungen für den Einsatz von Radar in den geltenden vereinbarten Regeln im Bereich der Binnenschifffahrt und in den geltenden Polizeiverordnungen (z. B. Fahrt bei eingeschränkten Sichtverhältnissen, Einsatz von Radar bei uneingeschränkter Sicht und Pflicht zum Einsatz von Radar bei der Fahrt), die Nutzung von UKW-Sprechfunk, Schallzeichen und Absprache des Steuerkurses.2.Kenntnis der technischen Anforderungen an Fahrzeuge, die Navigationsradaranlagen nutzen, nach den geltenden technischen Vorschriften wie ESTRIN (Europäischer Standard der technischen Vorschriften für Binnenschiffe).3.Fähigkeit, Navigationsradaranlagen, Wendegeschwindigkeitsanzeiger und Inland ECDIS kombiniert mit Radar zu nutzen.4.Kenntnis der Besatzungsanforderungen bei eingeschränkten Sichtverhältnissen und bei guten Sichtverhältnissen.5.Fähigkeit, Aufgaben an die Besatzungsmitglieder angemessen zu verteilen und sachgerechte Anweisungen zu erteilen. Regeln für den Einsatz von Radar anzuwenden. Kenntnis der Bestimmungen für den Einsatz von Radar in den geltenden vereinbarten Regeln im Bereich der Binnenschifffahrt und in den geltenden Polizeiverordnungen (z. B. Fahrt bei eingeschränkten Sichtverhältnissen, Einsatz von Radar bei uneingeschränkter Sicht und Pflicht zum Einsatz von Radar bei der Fahrt), die Nutzung von UKW-Sprechfunk, Schallzeichen und Absprache des Steuerkurses. Kenntnis der technischen Anforderungen an Fahrzeuge, die Navigationsradaranlagen nutzen, nach den geltenden technischen Vorschriften wie ESTRIN (Europäischer Standard der technischen Vorschriften für Binnenschiffe). Fähigkeit, Navigationsradaranlagen, Wendegeschwindigkeitsanzeiger und Inland ECDIS kombiniert mit Radar zu nutzen. Kenntnis der Besatzungsanforderungen bei eingeschränkten Sichtverhältnissen und bei guten Sichtverhältnissen. Fähigkeit, Aufgaben an die Besatzungsmitglieder angemessen zu verteilen und sachgerechte Anweisungen zu erteilen.
 
-•
-
-•
-
-2.
-
-3.
-
-2.
-
-1.
-
-1.
-
-•
-
-•
-
-•
-
-2.
-
-2.
-
-1.
-
-2.
-
-3.
-
-3.
-
-1.
-
-1.
-
-2.
-
-2.
-
-1.
-
-2.
-
-3.
-
-1.
-
-2.
-
-4.
-
-1.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-5.
-
-1.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
+5. Der Schiffsführer, der unter Radar fährt, muss in der Lage sein, besondere Umstände wie z. B. Verkehrsdichte, Anlagenausfall, gefährliche Situationen zu bewältigen. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.unter besonderen Umständen (z. B. hohe Verkehrsdichte, Anlagenausfall und andere unklare oder gefährliche Verkehrssituationen) angemessen zu reagieren.1.Kenntnis der Möglichkeiten, bei hoher Verkehrsdichte zu reagieren.2.Fähigkeit, bei hoher Verkehrsdichte angemessene Maßnahmen zu ergreifen.3.Kenntnis von Maßnahmen zur Risikominderung und angemessener Reaktionsmuster bei Anlagenausfall.4.Fähigkeit, bei Anlagenausfall zu reagieren.5.Kenntnis möglicher Maßnahmen in unklaren oder gefährlichen Verkehrssituationen.6.Fähigkeit, bei unklaren oder gefährlichen Verkehrssituationen zu reagieren. unter besonderen Umständen (z. B. hohe Verkehrsdichte, Anlagenausfall und andere unklare oder gefährliche Verkehrssituationen) angemessen zu reagieren. Kenntnis der Möglichkeiten, bei hoher Verkehrsdichte zu reagieren. Fähigkeit, bei hoher Verkehrsdichte angemessene Maßnahmen zu ergreifen. Kenntnis von Maßnahmen zur Risikominderung und angemessener Reaktionsmuster bei Anlagenausfall. Fähigkeit, bei Anlagenausfall zu reagieren. Kenntnis möglicher Maßnahmen in unklaren oder gefährlichen Verkehrssituationen. Fähigkeit, bei unklaren oder gefährlichen Verkehrssituationen zu reagieren.
 
 ### Anlage 14 — (zu § 41 Absatz 3)
+
+1. Besondere Befähigungen und Beurteilungssituationen Es steht der Prüfungskommission frei, den Inhalt der einzelnen Prüfungselemente festzulegen. Die Prüfungskommission muss die Elemente 1 bis 16 und mindestens eines der Elemente 17 bis 19 prüfen. Die Bewerber müssen für jedes Element mindestens 7 von 10 Punkten erreichen.Nr.BefähigungenPrüfungselement 11.1.Bedienungselemente von Navigationsradaranlagen einzuschalten, einzustellen und zu überwachen; 21.1.Bedienungselemente von Wendegeschwindigkeitsanzeigern einzuschalten, einzustellen und zu überwachen; 31.1.das Radarbild durch Einstellung von Entfernung, Auflösung, Helligkeit, Verstärkung, Kontrast, anderen verbundenen Geräten, Mittelpunkt und Abstimmung korrekt auszuwerten; 41.1.den Wendegeschwindigkeitsanzeiger zu verwenden, z. B. durch Einstellung der Wendegeschwindigkeit entsprechend der maximalen Wendegeschwindigkeit des Fahrzeugs; 52.1den Standort der Antenne auf dem Bildschirm und die Vorauslinie, Lage, Kurs und Wenderichtung des eigenen Fahrzeugs und Abstände und Entfernungen zu erkennen; 62.1das Verhalten anderer Verkehrsteilnehmer (stillliegende Fahrzeuge, entgegenkommende Fahrzeuge, mitlaufende Fahrzeuge) zu interpretieren; 72.2vom Radar bereitgestellte Informationen wie Vorauslinie, elektronische Peillinie, Ringabstände, variabler Entfernungsmessring, Zielspuren, Dezentrierung und parallele Linien zu analysieren und das Radarbild zu erklären; 83.1vom eigenen Fahrzeug ausgehende Störungen durch Überprüfung der Antenne, Verringerung von Abschattungen und Mehrfachreflexionen (z. B. in Laderäumen) zu reduzieren; 93.2Maßnahmen zur Reduzierung der von der Umwelt ausgehenden Störungen zu ergreifen durch Verringerung des Einflusses von Regen und Wellengang, den korrekten Umgang mit Streufeldern (z. B. an Brücken), Fehl-/Geisterechos von Hochspannungsleitungen und -kabeln sowie mit Abschattungen und Mehrwegausbreitung;103.3von anderen Navigationsradaranlagen ausgehende Störungen durch Störunterdrückung zu beseitigen;114.1den Mitgliedern einer Decksmannschaft korrekt Aufgaben zuzuweisen;124.1die Zusammenarbeit zwischen dem Rudergänger und der Person, die Navigationsradaranlagen verwendet, entsprechend der Sicht und der Ausführung des Steuerhauses sicherzustellen;134.1Wendegeschwindigkeitsanzeiger und Inland ECDIS oder ähnliche Anzeigen in Kombination mit Radar zu verwenden;144.1bei eingeschränkter und bei guter Sicht entsprechend den Polizeivorschriften zu handeln;154.1Funk und Schallzeichen zu verwenden und Kursabsprachen unter Verwendung der vom Radar bereitgestellten Informationen vorzunehmen;164.1Kommandos an den Rudergänger zu erteilen und die erforderlichen Kenntnisse und Fertigkeiten dieser Person zu überprüfen;175.1bei hoher Verkehrsdichte angemessene Maßnahmen zu ergreifen;185.1bei Anlagenausfall angemessene Maßnahmen zu ergreifen;195.1in unklaren oder gefährlichen Verkehrssituationen angemessen zu reagieren.
+
+2. Technische Anforderungen an Fahrzeuge, die für praktische Prüfungen verwendet werden Ein für praktische Prüfungen verwendetes Fahrzeug wird von Artikel 2 der Richtlinie (EU) 2017/2397 erfasst. Fahrzeuge, die für praktische Prüfungen zur Beurteilung der Befähigung eines Schiffsführers, der unter Radar fährt, verwendet werden, müssen die technischen Anforderungen nach Artikel 7.06 ES-TRIN 2017/1 erfüllen. Die Fahrzeuge müssen mit einem betriebsfähigen Inland ECDIS oder einem vergleichbaren Kartenanzeigegerät ausgestattet sein.
 
 ### Anlage 15 — (zu § 42 Absatz 2)
 
@@ -4550,501 +2294,93 @@ Zusätzliche Befähigung
 
 Der Schiffsführer, der diesen Binnenwasserstraßenabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Binnenwasserstraßenabschnitts.
 
-1.
+1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
 
-2.
+2. Er muss zusätzlich verfügen über a)detaillierte Kenntnisse der Streckencharakteristika,b)detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße; detaillierte Kenntnisse der Streckencharakteristika, detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße;
 
-a)
-
-b)
-
-3.
-
-a)
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-(6)
-
-(7)
-
-(8)
-
-(9)
-
-b)
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
+3. Zusätzlich muss der Schiffsführer a)Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Binnenwasserstraßenabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen insbesondere Kenntnisse über (1)Sonderregelungen für Schubverbände bei der Fahrt zu Tal ab bestimmten Wasserständen(2)außergewöhnliche Wirkung und Bedeutung der Isar für den gesamten Streckenbereich, sowohl unterhalb wie oberhalb von Deggendorf(3)die besonders engen Fahrwassersituationen mit den Bereichen, in denen eine Begegnung mit anderen Fahrzeugen nicht möglich ist.(4)Position der Warteplätze, um talfahrende Fahrzeuge, die sich in den Bereichen ohne Begegnungsmöglichkeit befinden, passieren zu lassen.(5)Übliche und nautisch erforderliche Festlegung der Begegnungsseite, um Havarien für den Talfahrer nach der Passage zu vermeiden(6)die auftretenden stark veränderlichen Strömungsmuster und Strömungsgeschwindigkeiten(7)die unübersichtlichen Kurvenbereiche, in denen auch eine Vielzahl von Kleinfahrzeuge verkehren(8)die Lage der Buhnen, Inseln und Einmündungen von Nebengewässern, um deren Strömungsbeeinflussung abzuschätzen(9)Bestimmung der Abladetiefe in Bezug auf Berg- und Talfahrtb)die hydromorphologischen Eigenschaften dieses Wasserstraßenabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen insbesondere Kenntnisse über (1)die veränderliche Beschaffenheit des Untergrundes von Fels bis hin zu feinem Sediment(2)starke Tendenz zur Bildung von Anlandungen mit der Entstehung von Fehlstellen in der Fahrrinne(3)die Tiefenverhältnisse an den Warteplätzen, um sich bei der Passage der talfahrenden Fahrzeuge nicht selbst festzufahren.(4)Position und Lage von Notliegeplätzen bzw. Notwendemöglichkeiten bei unvorhersehbaren Sperren.(5)die Vielzahl von Gefahrenstellen. Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Binnenwasserstraßenabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen insbesondere Kenntnisse über (1)Sonderregelungen für Schubverbände bei der Fahrt zu Tal ab bestimmten Wasserständen(2)außergewöhnliche Wirkung und Bedeutung der Isar für den gesamten Streckenbereich, sowohl unterhalb wie oberhalb von Deggendorf(3)die besonders engen Fahrwassersituationen mit den Bereichen, in denen eine Begegnung mit anderen Fahrzeugen nicht möglich ist.(4)Position der Warteplätze, um talfahrende Fahrzeuge, die sich in den Bereichen ohne Begegnungsmöglichkeit befinden, passieren zu lassen.(5)Übliche und nautisch erforderliche Festlegung der Begegnungsseite, um Havarien für den Talfahrer nach der Passage zu vermeiden(6)die auftretenden stark veränderlichen Strömungsmuster und Strömungsgeschwindigkeiten(7)die unübersichtlichen Kurvenbereiche, in denen auch eine Vielzahl von Kleinfahrzeuge verkehren(8)die Lage der Buhnen, Inseln und Einmündungen von Nebengewässern, um deren Strömungsbeeinflussung abzuschätzen(9)Bestimmung der Abladetiefe in Bezug auf Berg- und Talfahrt Sonderregelungen für Schubverbände bei der Fahrt zu Tal ab bestimmten Wasserständen außergewöhnliche Wirkung und Bedeutung der Isar für den gesamten Streckenbereich, sowohl unterhalb wie oberhalb von Deggendorf die besonders engen Fahrwassersituationen mit den Bereichen, in denen eine Begegnung mit anderen Fahrzeugen nicht möglich ist. Position der Warteplätze, um talfahrende Fahrzeuge, die sich in den Bereichen ohne Begegnungsmöglichkeit befinden, passieren zu lassen. Übliche und nautisch erforderliche Festlegung der Begegnungsseite, um Havarien für den Talfahrer nach der Passage zu vermeiden die auftretenden stark veränderlichen Strömungsmuster und Strömungsgeschwindigkeiten die unübersichtlichen Kurvenbereiche, in denen auch eine Vielzahl von Kleinfahrzeuge verkehren die Lage der Buhnen, Inseln und Einmündungen von Nebengewässern, um deren Strömungsbeeinflussung abzuschätzen Bestimmung der Abladetiefe in Bezug auf Berg- und Talfahrt die hydromorphologischen Eigenschaften dieses Wasserstraßenabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen insbesondere Kenntnisse über (1)die veränderliche Beschaffenheit des Untergrundes von Fels bis hin zu feinem Sediment(2)starke Tendenz zur Bildung von Anlandungen mit der Entstehung von Fehlstellen in der Fahrrinne(3)die Tiefenverhältnisse an den Warteplätzen, um sich bei der Passage der talfahrenden Fahrzeuge nicht selbst festzufahren.(4)Position und Lage von Notliegeplätzen bzw. Notwendemöglichkeiten bei unvorhersehbaren Sperren.(5)die Vielzahl von Gefahrenstellen. die veränderliche Beschaffenheit des Untergrundes von Fels bis hin zu feinem Sediment starke Tendenz zur Bildung von Anlandungen mit der Entstehung von Fehlstellen in der Fahrrinne die Tiefenverhältnisse an den Warteplätzen, um sich bei der Passage der talfahrenden Fahrzeuge nicht selbst festzufahren. Position und Lage von Notliegeplätzen bzw. Notwendemöglichkeiten bei unvorhersehbaren Sperren. die Vielzahl von Gefahrenstellen.
 
 Zusätzliche Befähigung
 
 Der Schiffsführer, der diesen Binnenwasserstraßenabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Binnenwasserstraßenabschnitts.
 
-1.
+1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
 
-2.
+2. Er muss zusätzlich verfügen über a)detaillierte Kenntnisse der Streckencharakteristika,b)detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße; detaillierte Kenntnisse der Streckencharakteristika, detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße;
 
-a)
-
-b)
-
-3.
-
-a)
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-(6)
-
-(7)
-
-b)
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
+3. Zusätzlich muss der Schiffsführer a)Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Binnenwasserstraßenabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen Kenntnisse über (1)starke Schwankung der Wasserstände zwischen den niedrigsten und höchsten schiffbaren Wasserständen um streckenweise fast 7 m(2)Verlauf der Fahrrinne im Strom und Lage der Buhnen bei Hochwasser(3)Lage aller Fehltiefen und -breiten bei Niedrigwasser(4)Strömungsverlauf bei Hochwasser, insbesondere unterhalb von Torgau(5)Veränderung des Fluss- und Landschaftsbildes durch stark schwankende Wasserstände, insbesondere seenartige Verbreiterung des Flusses bei Hochwasser(6)Veränderungen der Abflussmengen und -geschwindigkeiten bei Hoch- und Niedrigwasser(7)starke Querströmungen im Bereich von Km 324,5 – 327,2; Notwendigkeit einer Vorspann-Schlepperhilfe bei niedrigen Wasserständen und schwacher Motorenleistung in der Bergfahrtb)die hydromorphologischen Eigenschaften dieses Wasserstraßenabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen insbesondere Kenntnisse über (1)vielfach fehlende Begegnungs- und Überholmöglichkeiten von größeren Fahrzeugen/Verbänden(2)die geringe Wasserführung über die meiste Zeit des Jahres(3)die große Anzahl der Gierseilfähren(4)nur einschiffig durchfahrbare Brücken(5)lokale Verkehrsregelungen Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Binnenwasserstraßenabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen Kenntnisse über (1)starke Schwankung der Wasserstände zwischen den niedrigsten und höchsten schiffbaren Wasserständen um streckenweise fast 7 m(2)Verlauf der Fahrrinne im Strom und Lage der Buhnen bei Hochwasser(3)Lage aller Fehltiefen und -breiten bei Niedrigwasser(4)Strömungsverlauf bei Hochwasser, insbesondere unterhalb von Torgau(5)Veränderung des Fluss- und Landschaftsbildes durch stark schwankende Wasserstände, insbesondere seenartige Verbreiterung des Flusses bei Hochwasser(6)Veränderungen der Abflussmengen und -geschwindigkeiten bei Hoch- und Niedrigwasser(7)starke Querströmungen im Bereich von Km 324,5 – 327,2; Notwendigkeit einer Vorspann-Schlepperhilfe bei niedrigen Wasserständen und schwacher Motorenleistung in der Bergfahrt starke Schwankung der Wasserstände zwischen den niedrigsten und höchsten schiffbaren Wasserständen um streckenweise fast 7 m Verlauf der Fahrrinne im Strom und Lage der Buhnen bei Hochwasser Lage aller Fehltiefen und -breiten bei Niedrigwasser Strömungsverlauf bei Hochwasser, insbesondere unterhalb von Torgau Veränderung des Fluss- und Landschaftsbildes durch stark schwankende Wasserstände, insbesondere seenartige Verbreiterung des Flusses bei Hochwasser Veränderungen der Abflussmengen und -geschwindigkeiten bei Hoch- und Niedrigwasser starke Querströmungen im Bereich von Km 324,5 – 327,2; Notwendigkeit einer Vorspann-Schlepperhilfe bei niedrigen Wasserständen und schwacher Motorenleistung in der Bergfahrt die hydromorphologischen Eigenschaften dieses Wasserstraßenabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen insbesondere Kenntnisse über (1)vielfach fehlende Begegnungs- und Überholmöglichkeiten von größeren Fahrzeugen/Verbänden(2)die geringe Wasserführung über die meiste Zeit des Jahres(3)die große Anzahl der Gierseilfähren(4)nur einschiffig durchfahrbare Brücken(5)lokale Verkehrsregelungen vielfach fehlende Begegnungs- und Überholmöglichkeiten von größeren Fahrzeugen/Verbänden die geringe Wasserführung über die meiste Zeit des Jahres die große Anzahl der Gierseilfähren nur einschiffig durchfahrbare Brücken lokale Verkehrsregelungen
 
 Zusätzliche Befähigung
 
 Der Schiffsführer, der diesen Binnenwasserstraßenabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Binnenwasserstraßenabschnitts.
 
-1.
+1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
 
-2.
+2. Er muss zusätzlich verfügen über a)detaillierte Kenntnisse der Streckencharakteristika,b)detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße; detaillierte Kenntnisse der Streckencharakteristika, detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße;
 
-a)
-
-b)
-
-3.
-
-a)
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-b)
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
+3. Zusätzlich muss der Schiffsführer a)Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Binnenwasserstraßenabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen insbesondere Kenntnisse über •die auftretenden Strömungsmuster und -geschwindigkeiten•das besonders enge Fahrwasser•die unübersichtlichen Kurvenbereiche•die Lage der Buhnen•die häufig auftretenden hohen Fließ-/Strömungsgeschwindigkeiten•die Örtlichkeiten der Fährstellen und Engstellen (Einbahnverkehr)•die Lage der Bezugspegel und Abladetiefenb)die hydromorphologischen Eigenschaften dieses Wasserstraßenabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen insbesondere Kenntnisse über •den teils felsigen Untergrund•starke Sedimentanlandungen•das Fehlen von nautischem Informationsfunk•das Fehlen von AIS-Pflicht•das Fehlen von IENC-Karten•das Fehlen von geprüften und zugelassenen Wasserstraßenkarten•die Vielzahl von Gefahrenstellen Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Binnenwasserstraßenabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen insbesondere Kenntnisse über •die auftretenden Strömungsmuster und -geschwindigkeiten•das besonders enge Fahrwasser•die unübersichtlichen Kurvenbereiche•die Lage der Buhnen•die häufig auftretenden hohen Fließ-/Strömungsgeschwindigkeiten•die Örtlichkeiten der Fährstellen und Engstellen (Einbahnverkehr)•die Lage der Bezugspegel und Abladetiefen die auftretenden Strömungsmuster und -geschwindigkeiten das besonders enge Fahrwasser die unübersichtlichen Kurvenbereiche die Lage der Buhnen die häufig auftretenden hohen Fließ-/Strömungsgeschwindigkeiten die Örtlichkeiten der Fährstellen und Engstellen (Einbahnverkehr) die Lage der Bezugspegel und Abladetiefen die hydromorphologischen Eigenschaften dieses Wasserstraßenabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen insbesondere Kenntnisse über •den teils felsigen Untergrund•starke Sedimentanlandungen•das Fehlen von nautischem Informationsfunk•das Fehlen von AIS-Pflicht•das Fehlen von IENC-Karten•das Fehlen von geprüften und zugelassenen Wasserstraßenkarten•die Vielzahl von Gefahrenstellen den teils felsigen Untergrund starke Sedimentanlandungen das Fehlen von nautischem Informationsfunk das Fehlen von AIS-Pflicht das Fehlen von IENC-Karten das Fehlen von geprüften und zugelassenen Wasserstraßenkarten die Vielzahl von Gefahrenstellen
 
 ### Anlage 16 — (zu § 43 Absatz 2)
 
-1.
+1. Der Schiffsführer, der Binnenwasserstraßen mit maritimem Charakter befährt, muss in der Lage sein, mit aktuellem Kartenmaterial, Nachrichten für die Binnenschifffahrt und Seefahrer sowie anderen, für Wasserstraßen mit maritimem Charakter bestimmten Veröffentlichungen zu arbeiten. Der Schiffsführer muss in der Lage sein: Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Informationen aus speziellen nautischen Informationsquellen und Vorschriften für Binnenwasserstraßen mit maritimem Charakter zu nutzen.1.Kenntnis der Nutzung nautischer Karten für Binnenwasserstraßen mit maritimem Charakter.2.Fähigkeit, Karten für Binnenwasserstraßen mit maritimem Charakter zu nutzen und korrekt anzuwenden, zur Berücksichtigung von Faktoren im Zusammenhang mit der Genauigkeit der Kartenangaben, wie Kartendatum, Symbole, Tiefeninformationen, Bodenbeschreibung, Tiefen und Festpunkte, und internationalen Kartenstandards wie ECDIS.3.Kenntnis der terrestrischen und Satellitennavigation zur Bestimmung von Koppelnavigation, des Navigierens nach sichtbaren Markierungen, der Koordinaten, geodätischer Länge und Breite, des horizontalen geodätischen Bezugssystems, des Unterschieds von Breite und Länge, Entfernung und Geschwindigkeit über Grund, Himmelsrichtungen, des Kurses, des Kurses über Grund, des Kompasskurses, der um den Versatz als Ergebnis von Windrichtung und -stärke korrigiert wurde, der Vorausrichtung und der Peilung, der Kursbestimmung, der Kursbestimmung mit dem Einfluss von Wind und Strömung, der Kursbestimmung mit dem Einfluss der Strömung und des Plottens der Position beim Fahren auf Kurs und Peilung.4.Fähigkeit, Nachrichten für die Binnenschifffahrt und Seefahrer sowie sonstige Informationsdienste wie Seehandbücher, Planungshandbücher, Leuchtfeuerverzeichnisse, maritime Sicherheitsinformationen (MSI) zu nutzen.5.Kenntnis der für Binnenwasserstraßen mit maritimem Charakter geltenden Verkehrsregeln einschließlich der einschlägigen Abschnitte der Internationalen Regeln zur Verhütung von Zusammenstößen auf See.6.Kenntnis der in Notfallsituationen für Binnenwasserstraßen mit maritimem Charakter geltenden Regeln.7.Fähigkeit, die durch spezielle Vorschriften vorgesehene Schiffsausrüstung zu nutzen. Informationen aus speziellen nautischen Informationsquellen und Vorschriften für Binnenwasserstraßen mit maritimem Charakter zu nutzen. Kenntnis der Nutzung nautischer Karten für Binnenwasserstraßen mit maritimem Charakter. Fähigkeit, Karten für Binnenwasserstraßen mit maritimem Charakter zu nutzen und korrekt anzuwenden, zur Berücksichtigung von Faktoren im Zusammenhang mit der Genauigkeit der Kartenangaben, wie Kartendatum, Symbole, Tiefeninformationen, Bodenbeschreibung, Tiefen und Festpunkte, und internationalen Kartenstandards wie ECDIS. Kenntnis der terrestrischen und Satellitennavigation zur Bestimmung von Koppelnavigation, des Navigierens nach sichtbaren Markierungen, der Koordinaten, geodätischer Länge und Breite, des horizontalen geodätischen Bezugssystems, des Unterschieds von Breite und Länge, Entfernung und Geschwindigkeit über Grund, Himmelsrichtungen, des Kurses, des Kurses über Grund, des Kompasskurses, der um den Versatz als Ergebnis von Windrichtung und -stärke korrigiert wurde, der Vorausrichtung und der Peilung, der Kursbestimmung, der Kursbestimmung mit dem Einfluss von Wind und Strömung, der Kursbestimmung mit dem Einfluss der Strömung und des Plottens der Position beim Fahren auf Kurs und Peilung. Fähigkeit, Nachrichten für die Binnenschifffahrt und Seefahrer sowie sonstige Informationsdienste wie Seehandbücher, Planungshandbücher, Leuchtfeuerverzeichnisse, maritime Sicherheitsinformationen (MSI) zu nutzen. Kenntnis der für Binnenwasserstraßen mit maritimem Charakter geltenden Verkehrsregeln einschließlich der einschlägigen Abschnitte der Internationalen Regeln zur Verhütung von Zusammenstößen auf See. Kenntnis der in Notfallsituationen für Binnenwasserstraßen mit maritimem Charakter geltenden Regeln. Fähigkeit, die durch spezielle Vorschriften vorgesehene Schiffsausrüstung zu nutzen.
 
-1.
+2. Der Schiffsführer, der Binnenwasserstraßen mit maritimem Charakter befährt, muss in der Lage sein, mit Gezeitenhöhen, -strömen, -perioden und -zyklen, Zeittafeln für Gezeitenströmungen und Gezeiten sowie Abweichungen innerhalb eines Mündungsgebiets umzugehen. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Gezeiten und Gezeiten- und Wettervorhersagen und -verhältnisse vor dem Ablegen und während der Fahrt zu berücksichtigen.1.Kenntnis von Veröffentlichungen und Informationen zur Gezeiten- und Strömungsvorhersage, wie Gezeitentafeln, Gezeitenvorhersage für Anschlussorte, Informationen zu Vereisung, Hochwasser/Niederwasser, Liegeplätzen und Hafenverzeichnissen, zur Bestimmung von Wasserstand, Strömungsrichtung und -stärke und verfügbarer Tiefe.2.Kenntnis der Auswirkungen von Wetterbedingungen, Landform und sonstigen Faktoren auf die Gezeitenströmungen.3.Fähigkeit, die Auswirkungen von Gezeitenstand, Strömung, Wetterbedingungen und Wellengang auf die sichere Navigation bei der geplanten Reise zu bestimmen. Gezeiten und Gezeiten- und Wettervorhersagen und -verhältnisse vor dem Ablegen und während der Fahrt zu berücksichtigen. Kenntnis von Veröffentlichungen und Informationen zur Gezeiten- und Strömungsvorhersage, wie Gezeitentafeln, Gezeitenvorhersage für Anschlussorte, Informationen zu Vereisung, Hochwasser/Niederwasser, Liegeplätzen und Hafenverzeichnissen, zur Bestimmung von Wasserstand, Strömungsrichtung und -stärke und verfügbarer Tiefe. Kenntnis der Auswirkungen von Wetterbedingungen, Landform und sonstigen Faktoren auf die Gezeitenströmungen. Fähigkeit, die Auswirkungen von Gezeitenstand, Strömung, Wetterbedingungen und Wellengang auf die sichere Navigation bei der geplanten Reise zu bestimmen.
 
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-2.
-
-1.
-
-1.
-
-2.
-
-3.
-
-3.
-
-1.
-
-1.
-
-2.
+3. Der Schiffsführer, der Binnenwasserstraßen mit maritimem Charakter befährt, muss in der Lage sein, SIGNI (Signalisation de voies de Navigation Intérieure) und IALA (International Association of Marine Aids to Navigation and Lighthouse Authorities) zur sicheren Navigation auf Binnenwasserstraßen mit maritimem Charakter zu verwenden. Der Schiffsführer muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.SIGNI (Signalisation de voies de Navigation Intérieure), IALA (International Association of Marine Aids to Navigation and Lighthouse Authorities) und sonstige lokale Kennzeichnungs- und Signalsysteme zu nutzen.1.Kenntnisse über Betonnungssysteme, IALA, Region A, Kennzeichnungs- und Signalsysteme wie Betonnungsrichtung, -nummerierung Kennzeichnungen von Gegenständen und Aufbauten, laterale und kardinale Betonnung, Trennungstonnen, Zusatzkennzeichnungen Kennzeichnungen von Gefahrenstellen und Hindernissen Kennzeichnungen des Fahrwasserverlaufs sowie der Fahrrinne, der Hafeneinfahrten, Betonnung und Beleuchtung sowie Beleuchtungsmerkmale.2.Fähigkeit, die Kennzeichnungs- und Signalsysteme zur Bestimmung der im Hinblick auf lokale Umstände und Bedingungen angemessenen Position des Fahrzeugs auf der Wasserstraße zu nutzen. SIGNI (Signalisation de voies de Navigation Intérieure), IALA (International Association of Marine Aids to Navigation and Lighthouse Authorities) und sonstige lokale Kennzeichnungs- und Signalsysteme zu nutzen. Kenntnisse über Betonnungssysteme, IALA, Region A, Kennzeichnungs- und Signalsysteme wie Betonnungsrichtung, -nummerierung Kennzeichnungen von Gegenständen und Aufbauten, laterale und kardinale Betonnung, Trennungstonnen, Zusatzkennzeichnungen Kennzeichnungen von Gefahrenstellen und Hindernissen Kennzeichnungen des Fahrwasserverlaufs sowie der Fahrrinne, der Hafeneinfahrten, Betonnung und Beleuchtung sowie Beleuchtungsmerkmale. Fähigkeit, die Kennzeichnungs- und Signalsysteme zur Bestimmung der im Hinblick auf lokale Umstände und Bedingungen angemessenen Position des Fahrzeugs auf der Wasserstraße zu nutzen.
 
 ### Anlage 17 — (zu § 47 Absatz 1)
 
-1.
+1. Der Sachkundige muss in der Lage sein, für die Einhaltung der Rechtsvorschriften und Standards für mit Flüssigerdgas als Brennstoff betriebene Fahrzeuge sowie sonstiger relevanter Gesundheits- und Sicherheitsvorschriften zu sorgen. Der Sachkundige muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.für die Einhaltung relevanter Rechtsvorschriften und Normen für mit LNG als Brennstoff betriebene Fahrzeuge zu sorgen;1.Kenntnis der Vorschriften für mit LNG als Brennstoff betriebene Fahrzeuge wie der relevanten Polizeivorschriften, technischen Vorschriften sowie Vorschriften des ADN.2.Kenntnis der Regeln der Klassifikationsgesellschaften.3.Fähigkeit, die Besatzungsmitglieder in ihren Tätigkeiten zu unterweisen und zu überwachen, um für die Einhaltung der Rechtsvorschriften und Normen für mit LNG als Brennstoff betriebene Fahrzeuge an Bord des Fahrzeugs und insbesondere des Bunkerverfahrens zu sorgen.2.für die Einhaltung sonstiger relevanter Gesundheits- und Sicherheitsvorschriften bei Fahrt und im festgemachten Zustand zu sorgen.1.Kenntnis der relevanten Gesundheits- und Sicherheitsvorschriften einschließlich einschlägiger lokaler Vorschriften und Genehmigungen insbesondere in den Hafengebieten.2.Fähigkeit, die Besatzungsmitglieder in ihren Tätigkeiten zu unterweisen zu überwachen, um für die Einhaltung der sonstigen relevanten Gesundheits- und Sicherheitsvorschriften zu sorgen. für die Einhaltung relevanter Rechtsvorschriften und Normen für mit LNG als Brennstoff betriebene Fahrzeuge zu sorgen; Kenntnis der Vorschriften für mit LNG als Brennstoff betriebene Fahrzeuge wie der relevanten Polizeivorschriften, technischen Vorschriften sowie Vorschriften des ADN. Kenntnis der Regeln der Klassifikationsgesellschaften. Fähigkeit, die Besatzungsmitglieder in ihren Tätigkeiten zu unterweisen und zu überwachen, um für die Einhaltung der Rechtsvorschriften und Normen für mit LNG als Brennstoff betriebene Fahrzeuge an Bord des Fahrzeugs und insbesondere des Bunkerverfahrens zu sorgen. für die Einhaltung sonstiger relevanter Gesundheits- und Sicherheitsvorschriften bei Fahrt und im festgemachten Zustand zu sorgen. Kenntnis der relevanten Gesundheits- und Sicherheitsvorschriften einschließlich einschlägiger lokaler Vorschriften und Genehmigungen insbesondere in den Hafengebieten. Fähigkeit, die Besatzungsmitglieder in ihren Tätigkeiten zu unterweisen zu überwachen, um für die Einhaltung der sonstigen relevanten Gesundheits- und Sicherheitsvorschriften zu sorgen.
 
-1.
+2. Der Sachkundige muss in der Lage sein, sich der wichtigen Aspekte im Hinblick auf Flüssigerdgas bewusst zu sein und die damit verbundenen Risiken zu erkennen und zu bewältigen. Der Sachkundige muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.wichtige Aspekte hinsichtlich der besonderen Eigenschaften von LNG zu verstehen;1.Kenntnis der Definition, Zusammensetzung und Qualitätsmerkmale von LNG, Sicherheitsdatenblatt (SDB): physikalische und Produkteigenschaften sowie Umwelteigenschaften.2.Kenntnis der richtigen Lagertemperatur, des Flammpunkts, der Explosionsgrenzen und Druckeigenschaften, der kritischen Temperaturen, der entsprechenden Gefahren, der atmosphärischen Bedingungen, der kryogenen Eigenschaften, des Verhaltens von LNG in Luft, Boil-Off und Inertgas, z. B. Stickstoff.2.Risiken zu erkennen und zu beherrschen.1.Kenntnis der Sicherheitspläne, Gefahren und Risiken, einschließlich der Musterliste und der entsprechenden Sicherheitsaufgaben.2.Fähigkeit zur Durchführung eines Risikomanagements, zur Dokumentation der Sicherheit an Bord (einschließlich Sicherheitsplan und Sicherheitsanweisungen), zur Bewertung und Überwachung gefährdeter Bereiche und des Brandschutzes sowie zur Verwendung persönlicher Schutzausrüstung. wichtige Aspekte hinsichtlich der besonderen Eigenschaften von LNG zu verstehen; Kenntnis der Definition, Zusammensetzung und Qualitätsmerkmale von LNG, Sicherheitsdatenblatt (SDB): physikalische und Produkteigenschaften sowie Umwelteigenschaften. Kenntnis der richtigen Lagertemperatur, des Flammpunkts, der Explosionsgrenzen und Druckeigenschaften, der kritischen Temperaturen, der entsprechenden Gefahren, der atmosphärischen Bedingungen, der kryogenen Eigenschaften, des Verhaltens von LNG in Luft, Boil-Off und Inertgas, z. B. Stickstoff. Risiken zu erkennen und zu beherrschen. Kenntnis der Sicherheitspläne, Gefahren und Risiken, einschließlich der Musterliste und der entsprechenden Sicherheitsaufgaben. Fähigkeit zur Durchführung eines Risikomanagements, zur Dokumentation der Sicherheit an Bord (einschließlich Sicherheitsplan und Sicherheitsanweisungen), zur Bewertung und Überwachung gefährdeter Bereiche und des Brandschutzes sowie zur Verwendung persönlicher Schutzausrüstung.
 
-1.
+3. Sachkundige muss in der Lage sein, die Flüssigerdgas-spezifischen Systeme sicher zu betreiben. Der Sachkundige muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.LNG-Systeme sicher zu betreiben, die sich an Bord befinden und mit an Bord befindlichen Anlagen verbunden sind.1.Kenntnis der technischen Aspekte der LNG-Anlage wie •allgemeine Anordnung und Betriebshandbuch,•LNG-Bunkersystem,•Auffangvorrichtungen,•LNG-Behältersystem,•Gasaufbereitungssystem,•LNG-Leitungssystem,•Gasversorgungssystem,•Maschinenraumkonzept,•Belüftungssystem,•Temperatur und Druck (Lesen eines Druck- und Temperaturverteilungsplans), Ventile (insbesondere Hauptgasbrennstoffventil), Überdruckventile, Kontroll-, Überwachungs- und Sicherheitssysteme, Alarme, Gasdetektion und Abreißkupplungen.2.Fähigkeit, die Wirkungsweise von LNG darzulegen, Druck und Temperatur abzulesen, Nachlenz-, Behälter-, Gasversorgungs-, Belüftungs-, Leitungs- und Sicherheitssysteme, Ventile zu betätigen und den Boil-Off von LNG zu regeln. LNG-Systeme sicher zu betreiben, die sich an Bord befinden und mit an Bord befindlichen Anlagen verbunden sind. Kenntnis der technischen Aspekte der LNG-Anlage wie •allgemeine Anordnung und Betriebshandbuch,•LNG-Bunkersystem,•Auffangvorrichtungen,•LNG-Behältersystem, allgemeine Anordnung und Betriebshandbuch, LNG-Bunkersystem, Auffangvorrichtungen, LNG-Behältersystem, •Gasaufbereitungssystem,•LNG-Leitungssystem,•Gasversorgungssystem,•Maschinenraumkonzept,•Belüftungssystem,•Temperatur und Druck (Lesen eines Druck- und Temperaturverteilungsplans), Ventile (insbesondere Hauptgasbrennstoffventil), Überdruckventile, Kontroll-, Überwachungs- und Sicherheitssysteme, Alarme, Gasdetektion und Abreißkupplungen. Gasaufbereitungssystem, LNG-Leitungssystem, Gasversorgungssystem, Maschinenraumkonzept, Belüftungssystem, Temperatur und Druck (Lesen eines Druck- und Temperaturverteilungsplans), Ventile (insbesondere Hauptgasbrennstoffventil), Überdruckventile, Kontroll-, Überwachungs- und Sicherheitssysteme, Alarme, Gasdetektion und Abreißkupplungen. Fähigkeit, die Wirkungsweise von LNG darzulegen, Druck und Temperatur abzulesen, Nachlenz-, Behälter-, Gasversorgungs-, Belüftungs-, Leitungs- und Sicherheitssysteme, Ventile zu betätigen und den Boil-Off von LNG zu regeln.
 
-2.
+4. Der Sachkundige muss in der Lage sein, für die regelmäßige Überprüfung der Flüssigerdgas-Anlage zu sorgen. Der Sachkundige muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die regelmäßige Überprüfung der LNG-Anlage durchzuführen und zu überwachen.1.Kenntnis der Instandhaltung und Überwachung der LNG-Anlage.2.Kenntnis möglicher Funktionsstörungen und Alarme.3.Fähigkeit, die tägliche, wöchentliche und regelmäßig wiederkehrende Instandhaltung durchzuführen, Funktionsstörungen zu beheben und die Instandhaltungsarbeiten zu dokumentieren. die regelmäßige Überprüfung der LNG-Anlage durchzuführen und zu überwachen. Kenntnis der Instandhaltung und Überwachung der LNG-Anlage. Kenntnis möglicher Funktionsstörungen und Alarme. Fähigkeit, die tägliche, wöchentliche und regelmäßig wiederkehrende Instandhaltung durchzuführen, Funktionsstörungen zu beheben und die Instandhaltungsarbeiten zu dokumentieren.
 
-3.
+5. Der Sachkundige muss in der Lage sein, das Bunkern von Flüssigerdgas in sicherer und kontrollierter Weise vornehmen zu können. Der Sachkundige muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die Bunkervorgänge in sicherer Weise durchzuführen und zu überwachen.1.Kenntnis •der Kennzeichnung gemäß den einschlägigen Polizei- und Hafenvorschriften,•der Liege- und Festmachbedingungen für das Bunkern,•des Verfahrens für das Bunkern von LNG,•der Entleerung der LNG-Anlage,•der einschlägigen Prüflisten und des Auslieferungszertifikats,•der Sicherheitsmaßnahmen beim Bunkern und der Evakuierungsverfahren.2.Fähigkeit zur Einleitung und Überwachung der Bunkerverfahren, einschließlich Maßnahmen zur Sicherstellung des sicheren Festmachens, der ordnungsgemäßen Verlegung der Kabel und Leitungen zur Vermeidung von Leckagen, und zur Ergreifung von Maßnahmen, um die LNG- und Bunkerverbindung bei Bedarf jederzeit zu trennen.3.Fähigkeit, für die Einhaltung der einschlägigen Sicherheitszonenvorschriften zu sorgen.4.Fähigkeit, den Beginn des Bunkervorgangs zu melden und das Bunkern nach Handbuch sicher durchzuführen, einschließlich der Fähigkeit, Druck, Temperatur und LNG-Füllhöhe in den Tanks zu überwachen.5.Fähigkeit, das Leitungssystem zu entleeren, die Ventile zu schließen und das Fahrzeug von der Bunkeranlage zu trennen und nach dem Bunkern das Ende des Bunkervorgangs zu melden. die Bunkervorgänge in sicherer Weise durchzuführen und zu überwachen. Kenntnis •der Kennzeichnung gemäß den einschlägigen Polizei- und Hafenvorschriften,•der Liege- und Festmachbedingungen für das Bunkern,•des Verfahrens für das Bunkern von LNG,•der Entleerung der LNG-Anlage,•der einschlägigen Prüflisten und des Auslieferungszertifikats,•der Sicherheitsmaßnahmen beim Bunkern und der Evakuierungsverfahren. der Kennzeichnung gemäß den einschlägigen Polizei- und Hafenvorschriften, der Liege- und Festmachbedingungen für das Bunkern, des Verfahrens für das Bunkern von LNG, der Entleerung der LNG-Anlage, der einschlägigen Prüflisten und des Auslieferungszertifikats, der Sicherheitsmaßnahmen beim Bunkern und der Evakuierungsverfahren. Fähigkeit zur Einleitung und Überwachung der Bunkerverfahren, einschließlich Maßnahmen zur Sicherstellung des sicheren Festmachens, der ordnungsgemäßen Verlegung der Kabel und Leitungen zur Vermeidung von Leckagen, und zur Ergreifung von Maßnahmen, um die LNG- und Bunkerverbindung bei Bedarf jederzeit zu trennen. Fähigkeit, für die Einhaltung der einschlägigen Sicherheitszonenvorschriften zu sorgen. Fähigkeit, den Beginn des Bunkervorgangs zu melden und das Bunkern nach Handbuch sicher durchzuführen, einschließlich der Fähigkeit, Druck, Temperatur und LNG-Füllhöhe in den Tanks zu überwachen. Fähigkeit, das Leitungssystem zu entleeren, die Ventile zu schließen und das Fahrzeug von der Bunkeranlage zu trennen und nach dem Bunkern das Ende des Bunkervorgangs zu melden.
 
-2.
+6. Der Sachkundige muss in der Lage sein, die Flüssigerdgas-Anlage für die Wartung von Fahrzeugen vorzubereiten. Der Sachkundige muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.die LNG-Anlage für die Wartung von Fahrzeugen und den erneuten Einsatz vorzubereiten.1.Kenntnis der entsprechenden Entleerungsverfahren wie Lenzen und Spülen der LNG-Anlage vor dem Werftaufenthalt.2.Fähigkeit zur Durchführung •der Inertisierung der LNG-Anlage,•des Verfahrens zum Lenzen des LNG-Lagertanks,•der ersten Befüllung des LNG-Lagertanks (Trocknen und Abkühlung),•der Inbetriebnahme nach dem Werftaufenthalt. die LNG-Anlage für die Wartung von Fahrzeugen und den erneuten Einsatz vorzubereiten. Kenntnis der entsprechenden Entleerungsverfahren wie Lenzen und Spülen der LNG-Anlage vor dem Werftaufenthalt. Fähigkeit zur Durchführung •der Inertisierung der LNG-Anlage,•des Verfahrens zum Lenzen des LNG-Lagertanks,•der ersten Befüllung des LNG-Lagertanks (Trocknen und Abkühlung),•der Inbetriebnahme nach dem Werftaufenthalt. der Inertisierung der LNG-Anlage, des Verfahrens zum Lenzen des LNG-Lagertanks, der ersten Befüllung des LNG-Lagertanks (Trocknen und Abkühlung), der Inbetriebnahme nach dem Werftaufenthalt.
 
-1.
-
-2.
-
-2.
-
-1.
-
-1.
-
-2.
-
-2.
-
-1.
-
-2.
-
-3.
-
-1.
-
-1.
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-2.
-
-4.
-
-1.
-
-1.
-
-2.
-
-3.
-
-5.
-
-1.
-
-1.
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-1.
-
-1.
-
-2.
-
-•
-
-•
-
-•
-
-•
-
-7.
-
-1.
-
-1.
-
-2.
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-3.
-
-4.
+7. Der Sachkundige muss in der Lage sein, Krisensituationen im Zusammenhang mit Flüssigerdgas zu bewältigen. Der Sachkundige muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.in Notfallsituationen (wie Verschüttung und Leckagen von LNG, Hautkontakt mit Niedrigtemperaturmaterie, Brand, Zwischenfälle im Zusammenhang mit der Beförderung von Gefahrgütern mit spezifischen Risiken oder Auflaufen des Fahrzeugs) angemessen zu reagieren.1.Kenntnis der Notfallmaßnahmen und der Sicherheitsdokumentation an Bord (einschließlich Sicherheitsplan und Sicherheitsanweisungen).2.Fähigkeit, in Notfällen wie •Verschüttung von LNG auf dem Deck,•Hautkontakt mit LNG,•Verschüttung von LNG in geschlossenen Räumen (z. B. in den Maschinenräumen),•Verschüttung von LNG oder Erdgas in Räumen zwischen Barrieren (z. B. doppelwandige Lagertanks, doppelwandige Leitungen),•Brand in der Nähe des LNG-Lagertanks oder in den Maschinenräumen,•Druckaufbau in den Leitungssystemen nach Betätigung der Notabschaltung bei bevorstehender Freisetzung oder Entspannen angemessen zu reagieren.3.Kenntnis der spezifischen Risiken bei der Beförderung von Gefahrgütern und bei Auflaufen oder Kollision des Fahrzeugs.4.Fähigkeit, Notfallmaßnahmen, auch während der Fernüberwachung, zu ergreifen, z. B. um LNG-Brände, Lachenbrände, Strahlbrände und Verpuffungen unter Kontrolle zu halten. in Notfallsituationen (wie Verschüttung und Leckagen von LNG, Hautkontakt mit Niedrigtemperaturmaterie, Brand, Zwischenfälle im Zusammenhang mit der Beförderung von Gefahrgütern mit spezifischen Risiken oder Auflaufen des Fahrzeugs) angemessen zu reagieren. Kenntnis der Notfallmaßnahmen und der Sicherheitsdokumentation an Bord (einschließlich Sicherheitsplan und Sicherheitsanweisungen). Fähigkeit, in Notfällen wie •Verschüttung von LNG auf dem Deck,•Hautkontakt mit LNG,•Verschüttung von LNG in geschlossenen Räumen (z. B. in den Maschinenräumen),•Verschüttung von LNG oder Erdgas in Räumen zwischen Barrieren (z. B. doppelwandige Lagertanks, doppelwandige Leitungen),•Brand in der Nähe des LNG-Lagertanks oder in den Maschinenräumen,•Druckaufbau in den Leitungssystemen nach Betätigung der Notabschaltung bei bevorstehender Freisetzung oder Entspannen angemessen zu reagieren. Verschüttung von LNG auf dem Deck, Hautkontakt mit LNG, Verschüttung von LNG in geschlossenen Räumen (z. B. in den Maschinenräumen), Verschüttung von LNG oder Erdgas in Räumen zwischen Barrieren (z. B. doppelwandige Lagertanks, doppelwandige Leitungen), Brand in der Nähe des LNG-Lagertanks oder in den Maschinenräumen, Druckaufbau in den Leitungssystemen nach Betätigung der Notabschaltung bei bevorstehender Freisetzung oder Entspannen angemessen zu reagieren. Kenntnis der spezifischen Risiken bei der Beförderung von Gefahrgütern und bei Auflaufen oder Kollision des Fahrzeugs. Fähigkeit, Notfallmaßnahmen, auch während der Fernüberwachung, zu ergreifen, z. B. um LNG-Brände, Lachenbrände, Strahlbrände und Verpuffungen unter Kontrolle zu halten.
 
 ### Anlage 18 — (zu § 47 Absatz 4)
 
-1.
+1. Besondere Befähigungen und Beurteilungssituationen Es steht der Prüfungskommission frei, den Inhalt der einzelnen Prüfungselemente festzulegen. Die Prüfungskommission muss 9 der 11 Elemente der Kategorie I prüfen. Die Prüfungskommission muss 5 der 7 Elemente der Kategorie II prüfen. Die Bewerber können höchstens 10 Punkte für jedes Element erreichen. Für Kategorie I müssen die Bewerber für jedes geprüfte Element mindestens 7 von 10 Punkten erreichen. Für Kategorie II müssen die Bewerber insgesamt mindestens 30 Punkte erreichen.Nr.BefähigungenPrüfungselementeKategorie I-II 11.1die Besatzungsmitglieder in ihren Tätigkeiten zu unterweisen und zu überwachen, um für die Einhaltung der Rechtsvorschriften und Normen für mit LNG als Brennstoff betriebene Fahrzeuge an Bord des Schiffes und insbesondere des Bunkerverfahrens zu sorgen;II 21.2die Besatzungsmitglieder in ihren Tätigkeiten zu unterweisen und zu überwachen, um für die Einhaltung der sonstigen relevanten Gesundheits- und Sicherheitsvorschriften zu sorgen;II 32.2Risikomanagement durchzuführen, die Sicherheit an Bord zu dokumentieren (einschließlich Sicherheitsplan und Sicherheitsanweisungen), gefährdete Bereiche, Brandschutz zu bewerten und zu überwachen und persönliche Schutzausrüstung zu benutzen;II 43.1die Wirkungsweise von LNG darzulegen;II 53.1Druck und Temperatur abzulesen, Nachlenz-, Behälter-, Leitungs-, Gasversorgungs-, Belüftungs-, Sicherheitssysteme, Ventile zu betätigen und den Boil-Off von LNG zu regeln;I 64.1die tägliche, wöchentliche und regelmäßig wiederkehrende Instandhaltung durchzuführen;I 74.1bei der Instandhaltung festgestellte Funktionsstörungen zu beheben;I 84.1Wartungsarbeiten zu dokumentieren;II 95.1Bunkerverfahren einzuleiten und zu überwachen, einschließlich Maßnahmen zur Sicherstellung des sicheren Festmachens, der ordnungsgemäßen Verlegung der Kabel und Leitungen zur Vermeidung von Leckagen, und Maßnahmen zu ergreifen, um die LNG- und Bunkerverbindung bei Bedarf jederzeit zu trennen;I105.1für die Einhaltung der einschlägigen Sicherheitszonenvorschriften zu sorgen;II115.1den Beginn des Bunkervorgangs zu melden;I125.1das Bunkern nach Handbuch sicher durchzuführen, einschließlich der Fähigkeit, Druck, Temperatur und LNG-Füllhöhe in den Tanks zu überwachen;I135.1das Leitungssystem zu entleeren, die Ventile zu schließen und das Fahrzeug von der Bunkeranlage zu trennen und nach dem Bunkern das Ende des Bunkervorgangs zu melden;I146.1Durchführung 1.der Inertisierung der LNG-Anlage,2.des Verfahrens zum Lenzen des LNG-Lagertanks,3.der ersten Befüllung des LNG-Lagertanks (Trocknen und Abkühlung),4.der Inbetriebnahme nach dem Werftaufenthalt;I157.1angemessen zu handeln in Notfällen wie Verschüttung von LNG auf dem Deck, Hautkontakt mit LNG, Verschüttung von LNG in geschlossenen Räumen (z. B. in den Maschinenräumen), Verschüttung von LNG oder Erdgas in Räumen zwischen Barrieren (z. B. doppelwandige Lagertanks, doppelwandige Leitungen);I167.1bei einem Brand in der Nähe des LNG-Lagertanks oder in den Maschinenräumen angemessen zu reagieren;I177.1im Falle eines Druckaufbaus in den Leitungssystemen nach Betätigung der Notabschaltung bei bevorstehender Freisetzung oder Entspannen angemessen zu reagieren;I187.1Notfallmaßnahmen, auch während der Fernüberwachung, zu ergreifen, z. B. um LNG-Brände, Lachenbrände, Strahlbrände und Verpuffungen unter Kontrolle zu halten.I der Inertisierung der LNG-Anlage, des Verfahrens zum Lenzen des LNG-Lagertanks, der ersten Befüllung des LNG-Lagertanks (Trocknen und Abkühlung), der Inbetriebnahme nach dem Werftaufenthalt;
 
-2.
-
-3.
-
-4.
-
-1.
-
-1.1
-
-1.2
-
-1.3
-
-2.
-
-2.1
-
-2.2
-
-2.3
-
-2.4
-
-2.5
-
-3.
-
-3.1
-
-3.2
-
-3.3
-
-3.4
+2. Technische Anforderungen an Fahrzeuge und Landanlagen, die für praktische Prüfungen verwendet werden Das Fahrzeug und die Landanlagen müssen ausgestattet sein mit 1.Dokumenten, die für die Beurteilung verwendet werden, wie 1.1Sicherheitsrolle (einschließlich Sicherheitsplan und Sicherheitsanweisungen) nach Artikel 30.03 ES-TRIN 2017/1,1.2Risikobewertung nach Abschnitt I Nummer 1.3 der Anlage 8 zum ES-TRIN 2017/1,1.3allen sonstigen Unterlagen, die nach Artikel 30.01 Nummer 5 ES-TRIN 2017/1 erforderlich sind, einschließlich eines detaillierten Betriebshandbuchs nach Abschnitt I Nummer 1.4.9 der Anlage 8 zum ES-TRIN 2017/1,2.speziellen Systemen für die Nutzung von LNG, 2.1einem LNG-Bunkersystem einschließlich einer Bunkerstation,2.2einem LNG-Behältersystem,2.3einem LNG-Leitungssystem,2.4einem Gasversorgungssystem,2.5einem Gasaufbereitungssystem,3.einem geeigneten Maschinenraum, 3.1einem Belüftungssystem,3.2einem System zur Verhütung und Kontrolle von Leckagen,3.3einem Überwachungs- und Sicherheitssystem und3.4der zusätzlichen Feuerlöschanlage. Dokumenten, die für die Beurteilung verwendet werden, wie 1.1Sicherheitsrolle (einschließlich Sicherheitsplan und Sicherheitsanweisungen) nach Artikel 30.03 ES-TRIN 2017/1,1.2Risikobewertung nach Abschnitt I Nummer 1.3 der Anlage 8 zum ES-TRIN 2017/1,1.3allen sonstigen Unterlagen, die nach Artikel 30.01 Nummer 5 ES-TRIN 2017/1 erforderlich sind, einschließlich eines detaillierten Betriebshandbuchs nach Abschnitt I Nummer 1.4.9 der Anlage 8 zum ES-TRIN 2017/1, Sicherheitsrolle (einschließlich Sicherheitsplan und Sicherheitsanweisungen) nach Artikel 30.03 ES-TRIN 2017/1, Risikobewertung nach Abschnitt I Nummer 1.3 der Anlage 8 zum ES-TRIN 2017/1, allen sonstigen Unterlagen, die nach Artikel 30.01 Nummer 5 ES-TRIN 2017/1 erforderlich sind, einschließlich eines detaillierten Betriebshandbuchs nach Abschnitt I Nummer 1.4.9 der Anlage 8 zum ES-TRIN 2017/1, speziellen Systemen für die Nutzung von LNG, 2.1einem LNG-Bunkersystem einschließlich einer Bunkerstation,2.2einem LNG-Behältersystem,2.3einem LNG-Leitungssystem,2.4einem Gasversorgungssystem,2.5einem Gasaufbereitungssystem, einem LNG-Bunkersystem einschließlich einer Bunkerstation, einem LNG-Behältersystem, einem LNG-Leitungssystem, einem Gasversorgungssystem, einem Gasaufbereitungssystem, einem geeigneten Maschinenraum, 3.1einem Belüftungssystem,3.2einem System zur Verhütung und Kontrolle von Leckagen,3.3einem Überwachungs- und Sicherheitssystem und3.4der zusätzlichen Feuerlöschanlage. einem Belüftungssystem, einem System zur Verhütung und Kontrolle von Leckagen, einem Überwachungs- und Sicherheitssystem und der zusätzlichen Feuerlöschanlage. Ein für praktische Prüfungen verwendetes Fahrzeug wird von Artikel 2 der Richtlinie (EU) 2017/2397 erfasst.
 
 ### Anlage 19 — (zu § 49 Absatz 1)
 
-1.
+1. Der Sachkundige muss in der Lage sein, den Einsatz von Rettungsmitteln an Bord von Fahrgastschiffen zu organisieren. Der Sachkundige muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.den Einsatz von Rettungsmitteln zu organisieren.1.Kenntnis der Sicherheitspläne einschließlich: •Sicherheitsrolle und Sicherheitsplan,•Notfallpläne und -verfahren.2.Kenntnis der Rettungsmittel und ihrer Funktionen und Fähigkeit, den Gebrauch von Rettungsmitteln vorzuführen.3.Kenntnis der für Fahrgäste mit eingeschränkter Mobilität zugänglichen Bereiche.4.Fähigkeit, Fahrgästen, einschließlich Fahrgästen mit eingeschränkter Mobilität, den Gebrauch von Rettungsmitteln vorzuführen. den Einsatz von Rettungsmitteln zu organisieren. Kenntnis der Sicherheitspläne einschließlich: •Sicherheitsrolle und Sicherheitsplan,•Notfallpläne und -verfahren. Sicherheitsrolle und Sicherheitsplan, Notfallpläne und -verfahren. Kenntnis der Rettungsmittel und ihrer Funktionen und Fähigkeit, den Gebrauch von Rettungsmitteln vorzuführen. Kenntnis der für Fahrgäste mit eingeschränkter Mobilität zugänglichen Bereiche. Fähigkeit, Fahrgästen, einschließlich Fahrgästen mit eingeschränkter Mobilität, den Gebrauch von Rettungsmitteln vorzuführen.
 
-1.
+2. Der Sachkundige muss in der Lage sein, Sicherheitsanweisungen anzuwenden und die erforderlichen Maßnahmen zum Schutz der Fahrgäste im Allgemeinen sowie insbesondere in Notfällen zu ergreifen (z. B. Evakuierung, Schäden, Kollision, Auflaufen, Brand, Explosion und andere Situationen, in denen die Gefahr einer Panik besteht), einschließlich der unmittelbaren Hilfeleistung für Menschen mit Behinderung sowie Personen mit eingeschränkter Mobilität gemäß der Unterweisung und den Instruktionen nach Anhang IV der Verordnung (EU) Nr. 1177/2010. Der Sachkundige muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Sicherheitsanweisungen anzuwenden;1.Fähigkeit, die Sicherheitssysteme und -ausrüstung zu überwachen und Prüfungen und Kontrollen der Sicherheitsausrüstung von Fahrgastschiffen, einschließlich der Atemschutzgeräte, zu organisieren.2.Fähigkeit, Übungen zu Notfallsituationen durchzuführen.3.Fähigkeit, Besatzungsmitglieder und Bordpersonal, die eine Aufgabe gemäß der Sicherheitsrolle haben, in die Nutzung von Rettungsmitteln, Fluchtwegen, Sammel- und Evakuierungsflächen im Notfall einzuweisen.4.Fähigkeit, Fahrgäste zu Beginn der Fahrt über die Verhaltensregeln und die Inhalte des Sicherheitsplans zu informieren.2.die erforderlichen Maßnahmen zum Schutz der Fahrgäste im Allgemeinen sowie in Notfällen zu ergreifen;1.Fähigkeit, die Sicherheitseinsatzplanung für die Evakuierung von Teilen oder des gesamten Schiffes unter Berücksichtigung verschiedener Notfallsituationen (z. B. Rauch, Feuer, Leckage, Gefahr für die Stabilität des Schiffes, von der beförderten Ladung ausgehende Gefahren) umzusetzen.2.Kenntnis der Grundsätze der Krisenbewältigung, der Führung von Menschenmengen und der Konfliktbewältigung.3.Fähigkeit, dem Schiffsführer, den Fahrgästen und den externen Rettungskräften die notwendigen Informationen bereitzustellen.3.Hilfe zu leisten und Anweisungen zu erteilen, damit Menschen mit Behinderung und Personen mit eingeschränkter Mobilität sicher einschiffen, ausschiffen und mit dem Schiff reisen können;1.Kenntnis der Zugänglichkeit des Schiffes, der Bereiche an Bord, die für Menschen mit Behinderung und Personen mit eingeschränkter Mobilität geeignet sind, sowie ihrer speziellen Bedürfnisse im Hinblick auf z. B. Fluchtwege und korrekte Bezeichnung dieser Bereiche in den Sicherheitsplänen.2.Fähigkeit, die Vorschriften für den nichtdiskriminierenden Zugang und die Sicherheitseinsatzplanung für Menschen mit Behinderung und Personen mit eingeschränkter Mobilität sowie die Unterweisung nach Anhang IV der Verordnung (EU) Nr. 1177/2010 vollständig umzusetzen. Sicherheitsanweisungen anzuwenden; Fähigkeit, die Sicherheitssysteme und -ausrüstung zu überwachen und Prüfungen und Kontrollen der Sicherheitsausrüstung von Fahrgastschiffen, einschließlich der Atemschutzgeräte, zu organisieren. Fähigkeit, Übungen zu Notfallsituationen durchzuführen. Fähigkeit, Besatzungsmitglieder und Bordpersonal, die eine Aufgabe gemäß der Sicherheitsrolle haben, in die Nutzung von Rettungsmitteln, Fluchtwegen, Sammel- und Evakuierungsflächen im Notfall einzuweisen. Fähigkeit, Fahrgäste zu Beginn der Fahrt über die Verhaltensregeln und die Inhalte des Sicherheitsplans zu informieren. die erforderlichen Maßnahmen zum Schutz der Fahrgäste im Allgemeinen sowie in Notfällen zu ergreifen; Fähigkeit, die Sicherheitseinsatzplanung für die Evakuierung von Teilen oder des gesamten Schiffes unter Berücksichtigung verschiedener Notfallsituationen (z. B. Rauch, Feuer, Leckage, Gefahr für die Stabilität des Schiffes, von der beförderten Ladung ausgehende Gefahren) umzusetzen. Kenntnis der Grundsätze der Krisenbewältigung, der Führung von Menschenmengen und der Konfliktbewältigung. Fähigkeit, dem Schiffsführer, den Fahrgästen und den externen Rettungskräften die notwendigen Informationen bereitzustellen. Hilfe zu leisten und Anweisungen zu erteilen, damit Menschen mit Behinderung und Personen mit eingeschränkter Mobilität sicher einschiffen, ausschiffen und mit dem Schiff reisen können; Kenntnis der Zugänglichkeit des Schiffes, der Bereiche an Bord, die für Menschen mit Behinderung und Personen mit eingeschränkter Mobilität geeignet sind, sowie ihrer speziellen Bedürfnisse im Hinblick auf z. B. Fluchtwege und korrekte Bezeichnung dieser Bereiche in den Sicherheitsplänen. Fähigkeit, die Vorschriften für den nichtdiskriminierenden Zugang und die Sicherheitseinsatzplanung für Menschen mit Behinderung und Personen mit eingeschränkter Mobilität sowie die Unterweisung nach Anhang IV der Verordnung (EU) Nr. 1177/2010 vollständig umzusetzen.
 
-1.
+3. Der Sachkundige muss in der Lage sein, in einfachem Englisch zu kommunizieren. Der Sachkundige muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.über sicherheitsrelevante Themen in einfachem Englisch zu kommunizieren.1.Kenntnis eines einfachen englischen Wortschatzes und der Aussprache, um alle Personen an Bord in Standardsituationen anzuleiten und sie in Notfällen zu warnen und anzuleiten.2.Fähigkeit, einen einfachen englischen Wortschatz und die Aussprache angemessen zu nutzen, um alle Personen an Bord in Standardsituationen anzuleiten und sie in Notfällen zu warnen und anzuleiten. über sicherheitsrelevante Themen in einfachem Englisch zu kommunizieren. Kenntnis eines einfachen englischen Wortschatzes und der Aussprache, um alle Personen an Bord in Standardsituationen anzuleiten und sie in Notfällen zu warnen und anzuleiten. Fähigkeit, einen einfachen englischen Wortschatz und die Aussprache angemessen zu nutzen, um alle Personen an Bord in Standardsituationen anzuleiten und sie in Notfällen zu warnen und anzuleiten.
 
-•
-
-•
-
-2.
-
-3.
-
-4.
-
-2.
-
-1.
-
-1.
-
-2.
-
-3.
-
-4.
-
-2.
-
-1.
-
-2.
-
-3.
-
-3.
-
-1.
-
-2.
-
-3.
-
-1.
-
-1.
-
-2.
-
-4.
-
-1.
-
-1.
-
-2.
-
-3.
+4. Der Sachkundige muss in der Lage sein, die einschlägigen Anforderungen der Verordnung (EU) Nr. 1177/2010 zu erfüllen. Der Sachkundige muss in der Lage sein, Spalte 1 BefähigungSpalte 2 Kenntnisse und Fertigkeiten1.Fahrgästen in Bezug auf Fahrgastrechte Hilfe zu leisten.1.Kenntnis der Vorschriften für den Binnenschiffsverkehr gemäß der Verordnung (EU) Nr. 1177/2010, insbesondere betreffend das Verbot der Diskriminierung von Fahrgästen hinsichtlich der von Beförderern angebotenen Beförderungsbedingungen, die Rechte der Fahrgäste bei Annullierungen und bei Verspätungen, die Informationen, die den Fahrgästen mindestens verfügbar zu machen sind, den Umgang mit Beschwerden und die allgemeinen Durchsetzungsbestimmungen.2.Fähigkeit, die Fahrgäste über die geltenden Fahrgastrechte zu informieren.3.Fähigkeit, die anwendbaren Verfahren für die Gewährung des Zugangs und professioneller Hilfeleistung umzusetzen. Fahrgästen in Bezug auf Fahrgastrechte Hilfe zu leisten. Kenntnis der Vorschriften für den Binnenschiffsverkehr gemäß der Verordnung (EU) Nr. 1177/2010, insbesondere betreffend das Verbot der Diskriminierung von Fahrgästen hinsichtlich der von Beförderern angebotenen Beförderungsbedingungen, die Rechte der Fahrgäste bei Annullierungen und bei Verspätungen, die Informationen, die den Fahrgästen mindestens verfügbar zu machen sind, den Umgang mit Beschwerden und die allgemeinen Durchsetzungsbestimmungen. Fähigkeit, die Fahrgäste über die geltenden Fahrgastrechte zu informieren. Fähigkeit, die anwendbaren Verfahren für die Gewährung des Zugangs und professioneller Hilfeleistung umzusetzen.
 
 ### Anlage 20 — (zu § 49 Absatz 4 und 5)
 
+1. Besondere Befähigungen und Beurteilungssituationen Es steht der Prüfungskommission frei, den Inhalt der einzelnen Prüfungselemente festzulegen. Die Prüfungskommission muss 11 der 14 Elemente der Kategorie I prüfen, vorausgesetzt die Elemente 16 und 20 werden geprüft. Die Prüfungskommission muss 7 der 8 Elemente der Kategorie II prüfen. Die Bewerber können höchstens 10 Punkte für jedes Element erreichen. Für Kategorie I müssen die Bewerber für jedes Element mindestens 7 von 10 Punkten erreichen. Für Kategorie II müssen die Bewerber insgesamt mindestens 45 Punkte erreichen.Nr.BefähigungenPrüfungselementeKategorie I-II 11.1.Fahrgästen den Gebrauch von Rettungsringen vorzuführen;I 21.1.Fahrgästen, Mitgliedern der Decksmannschaft und Bordpersonal den Gebrauch von Rettungswesten vorzuführen, einschließlich bestimmter Einzelrettungsmittel für Personen, die keine Aufgaben nach der Sicherheitsrolle übernehmen;I 31.1.den Gebrauch geeigneter Einrichtungen für die Evakuierung in seichtes Wasser, an das Ufer oder an Bord eines anderen Fahrzeugs vorzuführen;I 41.1.den Gebrauch von Beibooten einschließlich ihres Motors und Suchscheinwerfers oder einer Plattform nach Artikel 19.15 ES-TRIN 2017/1 vorzuführen, die das Beiboot oder Sammelrettungsmittel nach Artikel 19.09 Nummer 5 bis 7 ES-TRIN 2017/1 ersetzt;I 51.1.den Gebrauch einer geeigneten Krankentrage vorzuführen;I 61.1.den Gebrauch von Verbandkästen vorzuführen;I 71.1.den Gebrauch von umluftunabhängigen Atemschutzgeräten, Ausrüstungssätzen und Fluchthauben nach Artikel 19.12 Nummer 10 ES-TRIN 2017/1 oder einer Kombination dieser Ausrüstungen vorzuführen;I 82.1.die Prüfintervalle für die unter Nummern 1 bis 7 dieser Tabelle genannte Ausrüstung zu überprüfen und überwachen;II 92.1.die erforderlichen Qualifikationen von Personen, die Verbandkästen und umluftunabhängige Atemschutzgeräte, Ausrüstungssätze sowie Fluchthauben verwenden, zu überprüfen und überwachen;II102.1.Rettungsmittel angemessen zu verstauen und zu verteilen;I112.3.für Fahrgäste mit eingeschränkter Mobilität zugängliche Bereiche zu identifizieren;II121.1.Fahrgästen mit eingeschränkter Mobilität den Gebrauch von Rettungsmitteln vorzuführen;I132.2Bestandteile der Sicherheitsrolle und des Sicherheitsplans zu erläutern;II142.1.dem Bordpersonal Aufgaben gemäß Sicherheitsrolle und Sicherheitsplan zuzuweisen;II152.3dem Bordpersonal Aufgaben in Bezug auf den nichtdiskriminierenden Zugang und die Sicherheitseinsatzplanung für Fahrgäste mit eingeschränkter Mobilität zuzuweisen;II162.3Unterweisung und Instruktionen für Personen mit eingeschränkter Mobilität gemäß Anhang IV der Verordnung (EU) Nr. 1177/2010 zu organisieren;I172.2die Evakuierung von Fahrgasträumen zu organisieren und die speziellen Maßnahmen zu erläutern, die im Falle von Kollision, Auflaufen, Rauchentwicklung und Brand zu ergreifen sind;I182.2.Entstehungsbrände zu bekämpfen und wasserdichte und feuerhemmende Türen zu bedienen;I192.2.dem Schiffsführer, den Fahrgästen und den externen Rettungskräften in einem simulierten Notfall die notwendigen Informationen bereitzustellen;II203.1einen einfachen englischen Wortschatz und die Aussprache angemessen zu nutzen, um Fahrgäste und Bordpersonal in Standardsituationen anzuleiten und in Notfällen zu warnen und anzuleiten;I214.1zu erklären, welche Fahrgastrechte gelten;I224.1die anwendbaren Verfahren für die Gewährung des Zugangs und professioneller Hilfeleistung für Fahrgäste gemäß der Verordnung (EU) Nr. 1177/2010 umzusetzen.II
+
+2. Technische Anforderungen an Fahrzeuge und Landanlagen, die für praktische Prüfungen verwendet werden Der Ort für die Beurteilung muss mit den für den Nachweis der in Prüfungselement Nr. 2 aufgeführten Befähigung erforderlichen Rettungsmitteln für Fahrgastschiffe ausgestattet sein, einschließlich spezieller Rettungsmittel für Kabinenschiffe gemäß anwendbarem ES-TRIN 2017/1. Er muss mit einer Sicherheitsrolle und einem Sicherheitsplan, die ES-TRIN 2017/1 entsprechen, sowie geeigneten Räumen und Ausrüstungen ausgestattet sein, um die Fähigkeit, eine Evakuierung zu organisieren, und das Brandbekämpfungs- und Reaktionsverhalten im Brandfall zu beurteilen. Ein für praktische Prüfungen verwendetes Fahrzeug wird von Artikel 2 der Richtlinie (EU) 2017/2397 erfasst.
+
 ### Anlage 21 — (zu § 53)
 
-1.1
+1. Verfahren zur Zulassung von Lehrgängen für die grundlegende Sicherheitsausbildung1.1Über die Zulassung von Lehrgängen zur grundlegenden Sicherheitsausbildung in der Binnenschifffahrt entscheidet die Berufsgenossenschaft.1.2Die Berufsgenossenschaft lässt einen Lehrgang zu, wenn er die nachstehenden Voraussetzungen erfüllt.1.3Der Lehrgangsanbieter trägt durch Ausstellung der Lehrgangsbescheinigung die Gewähr, dass die Teilnehmenden ausreichende Kenntnisse für sichere Arbeitsabläufe auf Schiffen vermittelt bekommen haben.1.4Bietet der Lehrgangsanbieter Lehrgänge an mehreren Örtlichkeiten an, so hat er durch innerbetriebliche Qualitätssicherung zu gewährleisten, dass an allen Örtlichkeiten die der Zulassung zu Grunde liegenden Standards eingehalten werden. Über die Zulassung von Lehrgängen zur grundlegenden Sicherheitsausbildung in der Binnenschifffahrt entscheidet die Berufsgenossenschaft. Die Berufsgenossenschaft lässt einen Lehrgang zu, wenn er die nachstehenden Voraussetzungen erfüllt. Der Lehrgangsanbieter trägt durch Ausstellung der Lehrgangsbescheinigung die Gewähr, dass die Teilnehmenden ausreichende Kenntnisse für sichere Arbeitsabläufe auf Schiffen vermittelt bekommen haben. Bietet der Lehrgangsanbieter Lehrgänge an mehreren Örtlichkeiten an, so hat er durch innerbetriebliche Qualitätssicherung zu gewährleisten, dass an allen Örtlichkeiten die der Zulassung zu Grunde liegenden Standards eingehalten werden.
 
-1.2
+2. Antrag auf Zulassung2.1Der Antrag auf Zulassung ist schriftlich oder elektronisch an die Berufsgenossenschaft zu richten.2.2War ein Lehrgang der antragstellenden Person bereits zugelassen und erfüllt sie die Voraussetzungen zur Verlängerung der Zulassung nicht mehr oder die Zulassung wurde widerrufen, so kann ein Antrag auf Wiedererteilung der Zulassung nicht vor Ablauf eines Jahres nach dem Ende der vorherigen Zulassung gestellt werden.2.3Antragsberechtigt sind natürliche und juristische Personen.2.4Dem Antrag sind anzufügen: a)ein ausführlicher Lehrgangsplan mit Angabe des Inhalts und der Dauer der unterrichteten Fächer sowie der Lehrmethode,b)ein Verzeichnis des Lehrpersonals, einschließlich ihrer nachgewiesenen Fachkenntnisse,c)Informationen über das Lehrmaterial,d)Angaben darüber, wo der Lehrgang stattfinden soll, und über die Einrichtungen, die für die praktischen Übungen zur Verfügung stehen,e)Teilnahmebedingungen für den Lehrgang,f)die Erklärung, dass der Lehrgangsanbieter sich dazu verpflichtet, der Berufsgenossenschaft unverzüglich und aus eigener Initiative über jede Änderung der im Zulassungsantrag enthaltenen Informationen schriftlich oder elektronisch anzuzeigen, sobald ein Antrag auf Zulassung gestellt oder eine Zulassung erteilt wurde. Der Antrag auf Zulassung ist schriftlich oder elektronisch an die Berufsgenossenschaft zu richten. War ein Lehrgang der antragstellenden Person bereits zugelassen und erfüllt sie die Voraussetzungen zur Verlängerung der Zulassung nicht mehr oder die Zulassung wurde widerrufen, so kann ein Antrag auf Wiedererteilung der Zulassung nicht vor Ablauf eines Jahres nach dem Ende der vorherigen Zulassung gestellt werden. Antragsberechtigt sind natürliche und juristische Personen. Dem Antrag sind anzufügen: a)ein ausführlicher Lehrgangsplan mit Angabe des Inhalts und der Dauer der unterrichteten Fächer sowie der Lehrmethode,b)ein Verzeichnis des Lehrpersonals, einschließlich ihrer nachgewiesenen Fachkenntnisse,c)Informationen über das Lehrmaterial,d)Angaben darüber, wo der Lehrgang stattfinden soll, und über die Einrichtungen, die für die praktischen Übungen zur Verfügung stehen,e)Teilnahmebedingungen für den Lehrgang,f)die Erklärung, dass der Lehrgangsanbieter sich dazu verpflichtet, der Berufsgenossenschaft unverzüglich und aus eigener Initiative über jede Änderung der im Zulassungsantrag enthaltenen Informationen schriftlich oder elektronisch anzuzeigen, sobald ein Antrag auf Zulassung gestellt oder eine Zulassung erteilt wurde. ein ausführlicher Lehrgangsplan mit Angabe des Inhalts und der Dauer der unterrichteten Fächer sowie der Lehrmethode, ein Verzeichnis des Lehrpersonals, einschließlich ihrer nachgewiesenen Fachkenntnisse, Informationen über das Lehrmaterial, Angaben darüber, wo der Lehrgang stattfinden soll, und über die Einrichtungen, die für die praktischen Übungen zur Verfügung stehen, Teilnahmebedingungen für den Lehrgang, die Erklärung, dass der Lehrgangsanbieter sich dazu verpflichtet, der Berufsgenossenschaft unverzüglich und aus eigener Initiative über jede Änderung der im Zulassungsantrag enthaltenen Informationen schriftlich oder elektronisch anzuzeigen, sobald ein Antrag auf Zulassung gestellt oder eine Zulassung erteilt wurde.
 
-1.3
+3. Prüfung Die zuständige Behörde, die Berufsgenossenschaft und jeweils von ihr beauftragte natürliche Personen sind während der üblichen Betriebs- und Geschäftszeiten berechtigt, Lehrgangsräume, Lehrgangseinrichtungen, Unterrichtsmittel sowie die Durchführung der Lehrgänge zu prüfen.
 
-1.4
+4. Befristung, Widerruf der Zulassung4.1Die Zulassung wird bei Vorliegen der personellen, sachlichen und organisatorischen Voraussetzungen nach Abschnitt 2 befristet für höchstens fünf Jahre und unter dem Vorbehalt des Widerrufs erteilt. Sie wird auf Antrag um jeweils höchstens fünf Jahre verlängert, wenn alle Voraussetzungen für die Zulassung weiterhin bestehen. Jede Änderung der oben genannten Voraussetzungen ist der Berufsgenossenschaft unverzüglich schriftlich oder elektronisch mitzuteilen. Hierauf ist die antragstellende Person bei Zulassung schriftlich hinzuweisen.4.2Die Zulassung kann widerrufen werden, wenn nachträglich eine Zulassungsvoraussetzung weggefallen ist, wenn die Schulung nicht ordnungsgemäß durchgeführt wird oder wenn gegen die Pflichten, die sich aus der Zulassung ergeben, verstoßen wird. Die sonstigen verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und Widerruf von Verwaltungsakten bleiben unberührt.4.3Eine Übertragung der Durchführung der Lehrgänge an andere Personen, die nicht Beschäftigte des zugelassenen Lehrgangsanbieters sind, ist nur zulässig, wenn die Organisation und die Sachmittelausstattung auch für diese Dienstleistungen unmittelbar durch den zugelassenen Lehrgangsanbieter erfolgt, und wenn diese Personen die personellen Voraussetzungen nach Abschnitt 2 Ziffer 1 erfüllt. Für diese übertragenen Dienstleistungen muss die Durchführung durch andere Personen, die nicht Beschäftigte des zugelassenen Lehrgangsanbieters sind, in dessen Auftrag und Namen erfolgen. Die Zulassung wird bei Vorliegen der personellen, sachlichen und organisatorischen Voraussetzungen nach Abschnitt 2 befristet für höchstens fünf Jahre und unter dem Vorbehalt des Widerrufs erteilt. Sie wird auf Antrag um jeweils höchstens fünf Jahre verlängert, wenn alle Voraussetzungen für die Zulassung weiterhin bestehen. Jede Änderung der oben genannten Voraussetzungen ist der Berufsgenossenschaft unverzüglich schriftlich oder elektronisch mitzuteilen. Hierauf ist die antragstellende Person bei Zulassung schriftlich hinzuweisen. Die Zulassung kann widerrufen werden, wenn nachträglich eine Zulassungsvoraussetzung weggefallen ist, wenn die Schulung nicht ordnungsgemäß durchgeführt wird oder wenn gegen die Pflichten, die sich aus der Zulassung ergeben, verstoßen wird. Die sonstigen verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und Widerruf von Verwaltungsakten bleiben unberührt. Eine Übertragung der Durchführung der Lehrgänge an andere Personen, die nicht Beschäftigte des zugelassenen Lehrgangsanbieters sind, ist nur zulässig, wenn die Organisation und die Sachmittelausstattung auch für diese Dienstleistungen unmittelbar durch den zugelassenen Lehrgangsanbieter erfolgt, und wenn diese Personen die personellen Voraussetzungen nach Abschnitt 2 Ziffer 1 erfüllt. Für diese übertragenen Dienstleistungen muss die Durchführung durch andere Personen, die nicht Beschäftigte des zugelassenen Lehrgangsanbieters sind, in dessen Auftrag und Namen erfolgen.
 
-2.1
+1. Personelle Voraussetzungen1.1Die antragstellende Person hat nachzuweisen, dass die eingesetzten Lehrkräfte zur Durchführung der grundlegenden Sicherheitsausbildung befähigt sind.1.2Antragstellende Person und Lehrkraft können identisch sein.1.3Die Befähigung ist gegeben, wenn die Lehrkraft die persönlichen Voraussetzungen erfüllt und durch Vorlage einer Bescheinigung nachweist, dass sie über die nachstehend aufgeführte fachliche Qualifikation verfügt.1.4Die Lehrkraft hat sich in angemessenen Zeitabständen, die vom gesetzlichen Unfallversicherungsträger für die Qualifikationen vorgegeben werden, fortzubilden. Eine Fortbildung der Lehrkräfte erfolgt beim zuständigen gesetzlichen Unfallversicherungsträger.1.5Persönliche Voraussetzungen der Lehrkraft: a)Beherrschung der deutschen Sprache in Wort und Schriftb)Zuverlässigkeit, nachgewiesen durch ein aktuelles Führungszeugnisc)Berufserfahrung in der Binnenschifffahrt von mindestens 3 Jahren als Schiffsführer/Schiffsführerin oder Fährführer/Fährführerin oder Berufserfahrung in der Seeschifffahrt von mindestens drei Jahren als Kapitän/Kapitänin1.6Fachliche Qualifikation der Lehrkraft: a)Erfolgreiche Teilnahme an einem Lehrgang des gesetzlichen Unfallversicherungsträgers, der die bereichsbezogene Ausbildung bereitstellt und durchführt. Der Lehrgang orientiert sich an Teilen der Rahmenthemen der Ausbildungsstufe III zur Ausbildung der Fachkraft für Arbeitssicherheit in der Binnenschifffahrt, oderb)Fachkraft für Arbeitssicherheit nach den §§ 5 bis 7 des Gesetzes über Betriebsärzte, Sicherheitsingenieure und andere Fachkräfte für Arbeitssicherheit (ASiG) mit einer für die Binnenschifffahrt oder für die Seeschifffahrt bereichsbezogenen Ausbildung nach § 4 Absatz 6 und 7 der Unfallverhütungsvorschrift 2 der Deutschen Gesetzlichen Unfallversicherung (DGUV Vorschrift 2) vom 1. Januar 2011, in der Fassung vom 1. Februar 2012, veröffentlicht unter https://www.bg-verkehr.de/medien/medienkatalog/unfallverhuetungsvorschriften/dguv-vorschrift-2-bisher-bgv-a2 Die antragstellende Person hat nachzuweisen, dass die eingesetzten Lehrkräfte zur Durchführung der grundlegenden Sicherheitsausbildung befähigt sind. Antragstellende Person und Lehrkraft können identisch sein. Die Befähigung ist gegeben, wenn die Lehrkraft die persönlichen Voraussetzungen erfüllt und durch Vorlage einer Bescheinigung nachweist, dass sie über die nachstehend aufgeführte fachliche Qualifikation verfügt. Die Lehrkraft hat sich in angemessenen Zeitabständen, die vom gesetzlichen Unfallversicherungsträger für die Qualifikationen vorgegeben werden, fortzubilden. Eine Fortbildung der Lehrkräfte erfolgt beim zuständigen gesetzlichen Unfallversicherungsträger. Persönliche Voraussetzungen der Lehrkraft: a)Beherrschung der deutschen Sprache in Wort und Schriftb)Zuverlässigkeit, nachgewiesen durch ein aktuelles Führungszeugnisc)Berufserfahrung in der Binnenschifffahrt von mindestens 3 Jahren als Schiffsführer/Schiffsführerin oder Fährführer/Fährführerin oder Berufserfahrung in der Seeschifffahrt von mindestens drei Jahren als Kapitän/Kapitänin Beherrschung der deutschen Sprache in Wort und Schrift Zuverlässigkeit, nachgewiesen durch ein aktuelles Führungszeugnis Berufserfahrung in der Binnenschifffahrt von mindestens 3 Jahren als Schiffsführer/Schiffsführerin oder Fährführer/Fährführerin oder Berufserfahrung in der Seeschifffahrt von mindestens drei Jahren als Kapitän/Kapitänin Fachliche Qualifikation der Lehrkraft: a)Erfolgreiche Teilnahme an einem Lehrgang des gesetzlichen Unfallversicherungsträgers, der die bereichsbezogene Ausbildung bereitstellt und durchführt. Der Lehrgang orientiert sich an Teilen der Rahmenthemen der Ausbildungsstufe III zur Ausbildung der Fachkraft für Arbeitssicherheit in der Binnenschifffahrt, oderb)Fachkraft für Arbeitssicherheit nach den §§ 5 bis 7 des Gesetzes über Betriebsärzte, Sicherheitsingenieure und andere Fachkräfte für Arbeitssicherheit (ASiG) mit einer für die Binnenschifffahrt oder für die Seeschifffahrt bereichsbezogenen Ausbildung nach § 4 Absatz 6 und 7 der Unfallverhütungsvorschrift 2 der Deutschen Gesetzlichen Unfallversicherung (DGUV Vorschrift 2) vom 1. Januar 2011, in der Fassung vom 1. Februar 2012, veröffentlicht unter https://www.bg-verkehr.de/medien/medienkatalog/unfallverhuetungsvorschriften/dguv-vorschrift-2-bisher-bgv-a2 Erfolgreiche Teilnahme an einem Lehrgang des gesetzlichen Unfallversicherungsträgers, der die bereichsbezogene Ausbildung bereitstellt und durchführt. Der Lehrgang orientiert sich an Teilen der Rahmenthemen der Ausbildungsstufe III zur Ausbildung der Fachkraft für Arbeitssicherheit in der Binnenschifffahrt, oder Fachkraft für Arbeitssicherheit nach den §§ 5 bis 7 des Gesetzes über Betriebsärzte, Sicherheitsingenieure und andere Fachkräfte für Arbeitssicherheit (ASiG) mit einer für die Binnenschifffahrt oder für die Seeschifffahrt bereichsbezogenen Ausbildung nach § 4 Absatz 6 und 7 der Unfallverhütungsvorschrift 2 der Deutschen Gesetzlichen Unfallversicherung (DGUV Vorschrift 2) vom 1. Januar 2011, in der Fassung vom 1. Februar 2012, veröffentlicht unter https://www.bg-verkehr.de/medien/medienkatalog/unfallverhuetungsvorschriften/dguv-vorschrift-2-bisher-bgv-a2
 
-2.2
+2. Sachliche Voraussetzungen2.1Die antragstellende Person hat nachzuweisen, dass der Lehrgang auf einem Wasserfahrzeug, einer schwimmenden Anlage oder einer geeigneten Landanlage durchgeführt wird, so dass insbesondere die praktischen Elemente des Lehrgangs unter realistischen Bedingungen vermittelt werden können.2.2Die antragstellende Person hat nachzuweisen, dass die aus der Anlage ersichtlichen theoretischen Unterrichtsanteile in geeigneten Räumlichkeiten stattfinden. Geeignet sind auch Fahrzeuge. Die theoretischen Unterrichtsanteile können auch durch elektronisch gestützte Konzepte vermittelt werden. Diese Konzepte bedürfen der besonderen Zustimmung durch die Berufsgenossenschaft, um das Erreichen der notwendigen Handlungskompetenz sicherzustellen. Die antragstellende Person hat nachzuweisen, dass der Lehrgang auf einem Wasserfahrzeug, einer schwimmenden Anlage oder einer geeigneten Landanlage durchgeführt wird, so dass insbesondere die praktischen Elemente des Lehrgangs unter realistischen Bedingungen vermittelt werden können. Die antragstellende Person hat nachzuweisen, dass die aus der Anlage ersichtlichen theoretischen Unterrichtsanteile in geeigneten Räumlichkeiten stattfinden. Geeignet sind auch Fahrzeuge. Die theoretischen Unterrichtsanteile können auch durch elektronisch gestützte Konzepte vermittelt werden. Diese Konzepte bedürfen der besonderen Zustimmung durch die Berufsgenossenschaft, um das Erreichen der notwendigen Handlungskompetenz sicherzustellen.
 
-2.3
-
-2.4
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-4.1
-
-4.2
-
-4.3
-
-1.1
-
-1.2
-
-1.3
-
-1.4
-
-1.5
-
-a)
-
-b)
-
-c)
-
-1.6
-
-a)
-
-b)
-
-2.1
-
-2.2
-
-3.1.1
-
-3.1.2
-
-3.1.3
-
-3.1.4
-
-3.1.5
-
-3.2.1
-
-3.2.2
-
-3.3.1
-
-a)
-
-b)
-
-c)
-
-d)
-
-3.3.2
+3. Organisatorische Voraussetzungen3.1Inhalt und Umfang der Lehrgänge3.1.1Der Unterricht hat sich nach einem Leitfaden des Lehrgangsanbieters zu richten, der für die Lehrkräfte hinsichtlich Inhalt, Durchführung der praktischen Demonstrationen und Übungen sowie Mindestzeitmaß verbindlich ist.3.1.2Im Einzelnen müssen die im Anhang 2 genannten Lernziele erreicht sowie die dort genannten theoretischen und praktischen Inhalte vermittelt werden. Das geschieht in einem Lehrgang, der eine enge Verzahnung von Praxis und Theorie als Grundlage für das Erreichen der notwendigen Handlungskompetenz sicherstellt.3.1.3Die Dauer des Lehrgangs sollte mindestens drei Tage betragen, darf diese Dauer aber auch nicht erheblich überschreiten.3.1.4Im Leitfaden sind Aussagen zum Gesamtlernziel, der zeitlichen Gestaltung, der Organisation und der Gliederung des Lehrgangs zu treffen.3.1.5Die Teilnehmenden sollen nach Abschluss des Lehrgangs in der Lage sein, unter besonderer Beachtung des Eigenschutzes sicher, verantwortungsbewusst und selbstständig auf Weisung eines Vorgesetzten ihre Tätigkeit auf einem Binnenschiff aufzunehmen.3.2Teilnahmebescheinigung3.2.1Den Teilnehmenden ist eine Teilnahmebescheinigung auszuhändigen. Die Bescheinigung über die Ausbildung darf nur erteilt werden, wenn die Lehrkraft die Überzeugung gewonnen hat, dass die Teilnehmenden die erforderlichen Kenntnisse und Fähigkeiten besitzen.3.2.2Ein Gestaltungsbeispiel einer Teilnahmebescheinigung ist im Anhang 1 wiedergegeben.3.3Dokumentation3.3.1Der zugelassene Lehrgangsanbieter hat über die durchgeführten Lehrgänge folgende Aufzeichnung zu führen: a)Art des jeweiligen Lehrgangs (praktisch-theoretisch oder praktisch-theoretisch/elektronisch)b)Ort und Dauer des Lehrgangsc)Name der Lehrkraftd)Nachweis der Teilnahme durch Name, Geburtsdatum und Unterschrift der Teilnehmenden.3.3.2Die Aufzeichnungen sind vom zugelassenen Lehrgangsanbieter fünf Jahre ab dem Tag des Endes des Lehrgangs aufzubewahren und auf Anforderung der Berufsgenossenschaft oder einer von ihr beauftragten natürlichen Person vorzulegen. Nach Ablauf dieses Zeitraums sind die Aufzeichnungen vom zugelassenen Lehrgangsanbieter unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen.3.4VersicherungsschutzDie antragstellende Person hat nachzuweisen, dass sie eine Haftpflichtversicherung abgeschlossen hat, die eventuelle Personen- und Sachschäden, die im Zusammenhang mit den Lehrgängen stehen, abdeckt. Inhalt und Umfang der Lehrgänge3.1.1Der Unterricht hat sich nach einem Leitfaden des Lehrgangsanbieters zu richten, der für die Lehrkräfte hinsichtlich Inhalt, Durchführung der praktischen Demonstrationen und Übungen sowie Mindestzeitmaß verbindlich ist.3.1.2Im Einzelnen müssen die im Anhang 2 genannten Lernziele erreicht sowie die dort genannten theoretischen und praktischen Inhalte vermittelt werden. Das geschieht in einem Lehrgang, der eine enge Verzahnung von Praxis und Theorie als Grundlage für das Erreichen der notwendigen Handlungskompetenz sicherstellt.3.1.3Die Dauer des Lehrgangs sollte mindestens drei Tage betragen, darf diese Dauer aber auch nicht erheblich überschreiten.3.1.4Im Leitfaden sind Aussagen zum Gesamtlernziel, der zeitlichen Gestaltung, der Organisation und der Gliederung des Lehrgangs zu treffen.3.1.5Die Teilnehmenden sollen nach Abschluss des Lehrgangs in der Lage sein, unter besonderer Beachtung des Eigenschutzes sicher, verantwortungsbewusst und selbstständig auf Weisung eines Vorgesetzten ihre Tätigkeit auf einem Binnenschiff aufzunehmen. Der Unterricht hat sich nach einem Leitfaden des Lehrgangsanbieters zu richten, der für die Lehrkräfte hinsichtlich Inhalt, Durchführung der praktischen Demonstrationen und Übungen sowie Mindestzeitmaß verbindlich ist. Im Einzelnen müssen die im Anhang 2 genannten Lernziele erreicht sowie die dort genannten theoretischen und praktischen Inhalte vermittelt werden. Das geschieht in einem Lehrgang, der eine enge Verzahnung von Praxis und Theorie als Grundlage für das Erreichen der notwendigen Handlungskompetenz sicherstellt. Die Dauer des Lehrgangs sollte mindestens drei Tage betragen, darf diese Dauer aber auch nicht erheblich überschreiten. Im Leitfaden sind Aussagen zum Gesamtlernziel, der zeitlichen Gestaltung, der Organisation und der Gliederung des Lehrgangs zu treffen. Die Teilnehmenden sollen nach Abschluss des Lehrgangs in der Lage sein, unter besonderer Beachtung des Eigenschutzes sicher, verantwortungsbewusst und selbstständig auf Weisung eines Vorgesetzten ihre Tätigkeit auf einem Binnenschiff aufzunehmen. Teilnahmebescheinigung3.2.1Den Teilnehmenden ist eine Teilnahmebescheinigung auszuhändigen. Die Bescheinigung über die Ausbildung darf nur erteilt werden, wenn die Lehrkraft die Überzeugung gewonnen hat, dass die Teilnehmenden die erforderlichen Kenntnisse und Fähigkeiten besitzen.3.2.2Ein Gestaltungsbeispiel einer Teilnahmebescheinigung ist im Anhang 1 wiedergegeben. Den Teilnehmenden ist eine Teilnahmebescheinigung auszuhändigen. Die Bescheinigung über die Ausbildung darf nur erteilt werden, wenn die Lehrkraft die Überzeugung gewonnen hat, dass die Teilnehmenden die erforderlichen Kenntnisse und Fähigkeiten besitzen. Ein Gestaltungsbeispiel einer Teilnahmebescheinigung ist im Anhang 1 wiedergegeben. Dokumentation3.3.1Der zugelassene Lehrgangsanbieter hat über die durchgeführten Lehrgänge folgende Aufzeichnung zu führen: a)Art des jeweiligen Lehrgangs (praktisch-theoretisch oder praktisch-theoretisch/elektronisch)b)Ort und Dauer des Lehrgangsc)Name der Lehrkraftd)Nachweis der Teilnahme durch Name, Geburtsdatum und Unterschrift der Teilnehmenden.3.3.2Die Aufzeichnungen sind vom zugelassenen Lehrgangsanbieter fünf Jahre ab dem Tag des Endes des Lehrgangs aufzubewahren und auf Anforderung der Berufsgenossenschaft oder einer von ihr beauftragten natürlichen Person vorzulegen. Nach Ablauf dieses Zeitraums sind die Aufzeichnungen vom zugelassenen Lehrgangsanbieter unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen. Der zugelassene Lehrgangsanbieter hat über die durchgeführten Lehrgänge folgende Aufzeichnung zu führen: a)Art des jeweiligen Lehrgangs (praktisch-theoretisch oder praktisch-theoretisch/elektronisch)b)Ort und Dauer des Lehrgangsc)Name der Lehrkraftd)Nachweis der Teilnahme durch Name, Geburtsdatum und Unterschrift der Teilnehmenden. Art des jeweiligen Lehrgangs (praktisch-theoretisch oder praktisch-theoretisch/elektronisch) Ort und Dauer des Lehrgangs Name der Lehrkraft Nachweis der Teilnahme durch Name, Geburtsdatum und Unterschrift der Teilnehmenden. Die Aufzeichnungen sind vom zugelassenen Lehrgangsanbieter fünf Jahre ab dem Tag des Endes des Lehrgangs aufzubewahren und auf Anforderung der Berufsgenossenschaft oder einer von ihr beauftragten natürlichen Person vorzulegen. Nach Ablauf dieses Zeitraums sind die Aufzeichnungen vom zugelassenen Lehrgangsanbieter unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen. Versicherungsschutz Die antragstellende Person hat nachzuweisen, dass sie eine Haftpflichtversicherung abgeschlossen hat, die eventuelle Personen- und Sachschäden, die im Zusammenhang mit den Lehrgängen stehen, abdeckt.
 
 ### Anhang 1 zu Anlage 21
 
@@ -5060,137 +2396,35 @@ unter der Leitung von ....................................... [Name, Vorname] er
 
 ### Anhang 2 zu Anlage 21 — Lernziele
 
-Lernziele
-
 ### Anlage 22 — (zu § 54)
 
 Das Bundesministerium für Verkehr lässt einen Lehrgang für Maschinenkundige zu, wenn er die nachstehenden Voraussetzungen erfüllt.
 
-1.
+1. Sachliche Voraussetzungen Die Ausbildungsziele, Lerninhalte, Methoden, eingesetzten Medien, Verfahren und Lernmaterialien ermöglichen den Teilnehmenden den Erwerb der nach § 34 Absatz 2 erforderlichen Kenntnisse und sind ordnungsgemäß dokumentiert.
 
-2.
+2. Personelle Voraussetzungen Die Lehrgänge werden von qualifizierten Personen durchgeführt, die über sichere Kenntnisse in den unterrichteten Fächern verfügen.
 
-3.
+3. Organisatorische Voraussetzungen a)Inhalt und Umfang des LehrgangsDer Lehrgang darf 40 Unterrichtseinheiten à 45 Minuten nicht unterschreiten. Praktische Übungen sind vorzusehen.b)TeilnahmebescheinigungDer Lehrgangsanbieter hat den Teilnehmenden eine Teilnahmebescheinigung auszustellen.c)DokumentationDer Lehrgangsanbieter hat über die durchgeführten Lehrgänge folgende Aufzeichnungen zu führen: (1)Art des jeweiligen Lehrgangs (Grund- oder Wiederholungslehrgang)(2)Ort und Dauer des Lehrgangs(3)Durchgeführte Inhalte des Lehrgangs(4)Name der Lehrkraft(5)Nachweis der Teilnahme durch Namen, Geburtsdatum und Unterschrift der Teilnehmenden.Die Aufzeichnungen sind vom zugelassenen Lehrgangsanbieter fünf Jahre ab dem Tag des Endes des Lehrgangs aufzubewahren und auf Anforderung der zuständigen Behörde oder einer von ihr beauftragten, natürlichen oder juristischen Person vorzulegen. Nach Ablauf dieses Zeitraumes sind die Aufzeichnungen vom zugelassenen Lehrgangsanbieter unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen. Inhalt und Umfang des Lehrgangs Der Lehrgang darf 40 Unterrichtseinheiten à 45 Minuten nicht unterschreiten. Praktische Übungen sind vorzusehen. Teilnahmebescheinigung Der Lehrgangsanbieter hat den Teilnehmenden eine Teilnahmebescheinigung auszustellen. Dokumentation Der Lehrgangsanbieter hat über die durchgeführten Lehrgänge folgende Aufzeichnungen zu führen: (1)Art des jeweiligen Lehrgangs (Grund- oder Wiederholungslehrgang)(2)Ort und Dauer des Lehrgangs(3)Durchgeführte Inhalte des Lehrgangs(4)Name der Lehrkraft(5)Nachweis der Teilnahme durch Namen, Geburtsdatum und Unterschrift der Teilnehmenden. Art des jeweiligen Lehrgangs (Grund- oder Wiederholungslehrgang) Ort und Dauer des Lehrgangs Durchgeführte Inhalte des Lehrgangs Name der Lehrkraft Nachweis der Teilnahme durch Namen, Geburtsdatum und Unterschrift der Teilnehmenden. Die Aufzeichnungen sind vom zugelassenen Lehrgangsanbieter fünf Jahre ab dem Tag des Endes des Lehrgangs aufzubewahren und auf Anforderung der zuständigen Behörde oder einer von ihr beauftragten, natürlichen oder juristischen Person vorzulegen. Nach Ablauf dieses Zeitraumes sind die Aufzeichnungen vom zugelassenen Lehrgangsanbieter unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen.
 
-a)
+1. Antrag auf Zulassung Der Antrag auf Zulassung des Lehrgangs ist schriftlich oder elektronisch beim Bundesministerium für Verkehr zu stellen. Der Antrag auf Zulassung muss Folgendes enthalten: a)einen ausführlichen Lehrgangsplan mit Angabe des Inhalts und der Dauer der unterrichteten Fächer sowie der Lehrmethode;b)ein Verzeichnis des Lehrpersonals, einschließlich des Nachweises ihrer Fachkenntnisse und der Angabe der jeweiligen Unterrichtsfächer;c)Informationen über den Standort der Ausbildung und über das Lehrmaterial sowie Angabe der Einrichtungen, die für die Übungen zur Verfügung stehen;d)die Teilnahmebedingungen für die Ausbildung, insbesondere die Anzahl der Teilnehmenden;e)die Erklärung, dass die Ausbildungsstätte sich dazu verpflichtet, das Bundesministerium für Verkehr unverzüglich und aus eigener Initiative über jede Änderung der im Zulassungsantrag enthaltenen Informationen zu informieren, sobald ein Antrag auf Zulassung gestellt oder eine Zulassung erteilt wurde. einen ausführlichen Lehrgangsplan mit Angabe des Inhalts und der Dauer der unterrichteten Fächer sowie der Lehrmethode; ein Verzeichnis des Lehrpersonals, einschließlich des Nachweises ihrer Fachkenntnisse und der Angabe der jeweiligen Unterrichtsfächer; Informationen über den Standort der Ausbildung und über das Lehrmaterial sowie Angabe der Einrichtungen, die für die Übungen zur Verfügung stehen; die Teilnahmebedingungen für die Ausbildung, insbesondere die Anzahl der Teilnehmenden; die Erklärung, dass die Ausbildungsstätte sich dazu verpflichtet, das Bundesministerium für Verkehr unverzüglich und aus eigener Initiative über jede Änderung der im Zulassungsantrag enthaltenen Informationen zu informieren, sobald ein Antrag auf Zulassung gestellt oder eine Zulassung erteilt wurde.
 
-b)
-
-c)
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-1.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-c)
+2. Befristung, Widerruf der Zulassung a)Die Zulassung wird befristet auf fünf Jahre erteilt. Die Zulassung wird auf Antrag jeweils um fünf Jahre verlängert, wenn die antragstellende Person nachweist, dass die unter II. genannten Voraussetzungen weiterhin vorliegen.b)Erfüllt ein Lehrgang die unter II. genannten Voraussetzungen nicht mehr, so kann das Bundesministerium für Verkehr die Zulassung unverzüglich widerrufen oder aussetzen. Ab dem Zeitpunkt des Widerrufes oder der Aussetzung ausgestellte Zeugnisse dürfen von den Wasserstraßen- und Schifffahrtsämtern nicht mehr zur Ausstellung eines Befähigungszeugnisses berücksichtigt werden.c)Das Verzeichnis der zugelassenen Lehrgänge wird vom Bundesministerium für Verkehr im Internet veröffentlicht. Die Zulassung wird befristet auf fünf Jahre erteilt. Die Zulassung wird auf Antrag jeweils um fünf Jahre verlängert, wenn die antragstellende Person nachweist, dass die unter II. genannten Voraussetzungen weiterhin vorliegen. Erfüllt ein Lehrgang die unter II. genannten Voraussetzungen nicht mehr, so kann das Bundesministerium für Verkehr die Zulassung unverzüglich widerrufen oder aussetzen. Ab dem Zeitpunkt des Widerrufes oder der Aussetzung ausgestellte Zeugnisse dürfen von den Wasserstraßen- und Schifffahrtsämtern nicht mehr zur Ausstellung eines Befähigungszeugnisses berücksichtigt werden. Das Verzeichnis der zugelassenen Lehrgänge wird vom Bundesministerium für Verkehr im Internet veröffentlicht.
 
 ### Anlage 23 — (zu § 58)
 
-1.1
+1. Verfahren zur Zulassung von Lehrgängen für atemschutzgerättragende Personen in der Binnenschifffahrt1.1Über die Zulassung von Lehrgängen für atemschutzgerättragende Personen in der Binnenschifffahrt entscheidet die Berufsgenossenschaft.1.2Die Berufsgenossenschaft lässt einen Lehrgang zu, wenn der Lehrgang die nachstehenden Voraussetzungen erfüllt.1.3Der Lehrgangsanbieter muss die Gewähr dafür bieten, dass die erforderliche Zuverlässigkeit in Zusammenarbeit mit den Unfallversicherungsträgern sichergestellt ist. Eine schriftliche oder in digitaler Form durchgeführte Lernerfolgskontrolle ist wünschenswert.1.4Bietet der Lehrgangsanbieter Lehrgänge an mehreren Örtlichkeiten an, so hat er durch innerbetriebliche Qualitätssicherung zu gewährleisten, dass an allen Örtlichkeiten die der Zulassung zugrundeliegenden Standards eingehalten werden. Über die Zulassung von Lehrgängen für atemschutzgerättragende Personen in der Binnenschifffahrt entscheidet die Berufsgenossenschaft. Die Berufsgenossenschaft lässt einen Lehrgang zu, wenn der Lehrgang die nachstehenden Voraussetzungen erfüllt. Der Lehrgangsanbieter muss die Gewähr dafür bieten, dass die erforderliche Zuverlässigkeit in Zusammenarbeit mit den Unfallversicherungsträgern sichergestellt ist. Eine schriftliche oder in digitaler Form durchgeführte Lernerfolgskontrolle ist wünschenswert. Bietet der Lehrgangsanbieter Lehrgänge an mehreren Örtlichkeiten an, so hat er durch innerbetriebliche Qualitätssicherung zu gewährleisten, dass an allen Örtlichkeiten die der Zulassung zugrundeliegenden Standards eingehalten werden.
 
-1.2
+2. Antrag auf Zulassung2.1Der Antrag auf Zulassung ist schriftlich oder elektronisch an die Berufsgenossenschaft zu richten.2.2War ein Lehrgang der antragstellenden Person bereits zugelassen und erfüllt diese die Voraussetzungen zur Verlängerung der Zulassung nicht mehr oder die Zulassung wurde widerrufen, so kann ein Antrag auf Wiedererteilung der Zulassung nicht vor Ablauf eines Jahres nach dem Ende der vorherigen Zulassung gestellt werden.2.3Antragsberechtigt sind natürliche und juristische Personen.2.4Dem Antrag sind anzufügen: a)ein ausführlicher Lehrgangsplan mit Angabe des Inhalts und der Dauer der unterrichteten Fächer sowie der Lehrmethode,b)ein Verzeichnis des Lehrpersonals, einschließlich ihrer nachgewiesenen Fachkenntnisse,c)Informationen über das Lehrmaterial,d)Angaben darüber, wo der Lehrgang stattfinden soll, und über die Einrichtungen, die für die praktischen Übungen zur Verfügung stehen,e)eine Erklärung, dass der Lehrgangsanbieter sich dazu verpflichtet, die Berufsgenossenschaft unverzüglich und aus eigener Initiative jede Änderung der im Zulassungsantrag enthaltenen Informationen schriftlich oder elektronisch anzuzeigen, sobald ein Antrag auf Zulassung gestellt oder eine Zulassung erteilt wurde. Der Antrag auf Zulassung ist schriftlich oder elektronisch an die Berufsgenossenschaft zu richten. War ein Lehrgang der antragstellenden Person bereits zugelassen und erfüllt diese die Voraussetzungen zur Verlängerung der Zulassung nicht mehr oder die Zulassung wurde widerrufen, so kann ein Antrag auf Wiedererteilung der Zulassung nicht vor Ablauf eines Jahres nach dem Ende der vorherigen Zulassung gestellt werden. Antragsberechtigt sind natürliche und juristische Personen. Dem Antrag sind anzufügen: a)ein ausführlicher Lehrgangsplan mit Angabe des Inhalts und der Dauer der unterrichteten Fächer sowie der Lehrmethode,b)ein Verzeichnis des Lehrpersonals, einschließlich ihrer nachgewiesenen Fachkenntnisse,c)Informationen über das Lehrmaterial,d)Angaben darüber, wo der Lehrgang stattfinden soll, und über die Einrichtungen, die für die praktischen Übungen zur Verfügung stehen,e)eine Erklärung, dass der Lehrgangsanbieter sich dazu verpflichtet, die Berufsgenossenschaft unverzüglich und aus eigener Initiative jede Änderung der im Zulassungsantrag enthaltenen Informationen schriftlich oder elektronisch anzuzeigen, sobald ein Antrag auf Zulassung gestellt oder eine Zulassung erteilt wurde. ein ausführlicher Lehrgangsplan mit Angabe des Inhalts und der Dauer der unterrichteten Fächer sowie der Lehrmethode, ein Verzeichnis des Lehrpersonals, einschließlich ihrer nachgewiesenen Fachkenntnisse, Informationen über das Lehrmaterial, Angaben darüber, wo der Lehrgang stattfinden soll, und über die Einrichtungen, die für die praktischen Übungen zur Verfügung stehen, eine Erklärung, dass der Lehrgangsanbieter sich dazu verpflichtet, die Berufsgenossenschaft unverzüglich und aus eigener Initiative jede Änderung der im Zulassungsantrag enthaltenen Informationen schriftlich oder elektronisch anzuzeigen, sobald ein Antrag auf Zulassung gestellt oder eine Zulassung erteilt wurde.
 
-1.3
+3. Prüfung Die zuständige Behörde, die Berufsgenossenschaft und jeweils von ihr beauftragte natürliche Personen sind während der üblichen Betriebs- und Geschäftszeiten berechtigt, Lehrgangsräume, Lehrgangseinrichtungen, Unterrichtsmittel sowie die Durchführung der Lehrgänge zu prüfen.
 
-1.4
+4. Befristung, Widerruf der Zulassung4.1Die Zulassung wird bei Vorliegen der personellen, sachlichen und organisatorischen Voraussetzungen nach Abschnitt 2 befristet für höchstens 5 Jahre und unter dem Vorbehalt des Widerrufs erteilt. Sie wird auf Antrag um jeweils höchstens 5 Jahre verlängert, wenn alle Voraussetzungen für die Zulassung weiterhin bestehen. Jede Änderung der oben genannten Voraussetzungen ist der Berufsgenossenschaft unverzüglich schriftlich oder elektronisch mitzuteilen. Hierauf ist die antragstellende Person bei Zulassung schriftlich oder elektronisch hinzuweisen.4.2Die Zulassung kann widerrufen werden, wenn nachträglich eine Zulassungsvoraussetzung weggefallen ist, wenn die Schulung nicht ordnungsgemäß durchgeführt oder gegen die Pflichten, welche sich aus der Zulassung ergeben, verstoßen wird. Die sonstigen verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und Widerruf von Verwaltungsakten bleiben unberührt.4.3Eine Übertragung der Durchführung der Lehrgänge an andere Personen, die nicht Beschäftigte des zugelassenen Lehrgangsanbieters sind, ist nur zulässig, wenn die Organisation und die Sachmittelausstattung auch für diese Dienstleistungen unmittelbar durch den zugelassenen Lehrgangsanbieter erfolgt. Für diese übertragenen Dienstleistungen muss die Durchführung durch andere Personen, die nicht Beschäftigte des zugelassenen Lehrgangsanbieters sind, im Auftrag und Namen erfolgen. Die Zulassung wird bei Vorliegen der personellen, sachlichen und organisatorischen Voraussetzungen nach Abschnitt 2 befristet für höchstens 5 Jahre und unter dem Vorbehalt des Widerrufs erteilt. Sie wird auf Antrag um jeweils höchstens 5 Jahre verlängert, wenn alle Voraussetzungen für die Zulassung weiterhin bestehen. Jede Änderung der oben genannten Voraussetzungen ist der Berufsgenossenschaft unverzüglich schriftlich oder elektronisch mitzuteilen. Hierauf ist die antragstellende Person bei Zulassung schriftlich oder elektronisch hinzuweisen. Die Zulassung kann widerrufen werden, wenn nachträglich eine Zulassungsvoraussetzung weggefallen ist, wenn die Schulung nicht ordnungsgemäß durchgeführt oder gegen die Pflichten, welche sich aus der Zulassung ergeben, verstoßen wird. Die sonstigen verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und Widerruf von Verwaltungsakten bleiben unberührt. Eine Übertragung der Durchführung der Lehrgänge an andere Personen, die nicht Beschäftigte des zugelassenen Lehrgangsanbieters sind, ist nur zulässig, wenn die Organisation und die Sachmittelausstattung auch für diese Dienstleistungen unmittelbar durch den zugelassenen Lehrgangsanbieter erfolgt. Für diese übertragenen Dienstleistungen muss die Durchführung durch andere Personen, die nicht Beschäftigte des zugelassenen Lehrgangsanbieters sind, im Auftrag und Namen erfolgen.
 
-2.1
+1. Personelle Voraussetzungen1.1Die antragstellende Person hat nachzuweisen, dass die eingesetzten Lehrkräfte zur Durchführung der Ausbildung von atemschutzgerättragenden Personen befähigt sind.1.2Antragstellende Person und Lehrkraft können identisch sein.1.3Die Befähigung der Lehrkraft ist gegeben, wenn die Lehrkraft durch Vorlage einer Bescheinigung nachweist, dass sie an einer qualifizierenden Ausbildung durch Unfallversicherungsträger, Feuerwehrschulen und/oder Herstellerfirmen von Atemschutzgeräten teilgenommen hat.1.4Die Lehrkraft hat sich in angemessenen Zeitabständen (mindestens alle 5 Jahre) fortzubilden. Dafür geeignet sind Qualifizierungen an Ausbildungsstätten der Unfallversicherungsträger, Feuerwehrschulen und/oder Herstellerfirmen von Atemschutzgeräten.1.5Damit sichergestellt ist, dass bei Unfällen während des Lehrgangs sofort Erste Hilfe geleistet werden kann, hat der Lehrgangsanbieter mindestens einen ausgebildeten Ersthelfer vorzuhalten. Die antragstellende Person hat nachzuweisen, dass die eingesetzten Lehrkräfte zur Durchführung der Ausbildung von atemschutzgerättragenden Personen befähigt sind. Antragstellende Person und Lehrkraft können identisch sein. Die Befähigung der Lehrkraft ist gegeben, wenn die Lehrkraft durch Vorlage einer Bescheinigung nachweist, dass sie an einer qualifizierenden Ausbildung durch Unfallversicherungsträger, Feuerwehrschulen und/oder Herstellerfirmen von Atemschutzgeräten teilgenommen hat. Die Lehrkraft hat sich in angemessenen Zeitabständen (mindestens alle 5 Jahre) fortzubilden. Dafür geeignet sind Qualifizierungen an Ausbildungsstätten der Unfallversicherungsträger, Feuerwehrschulen und/oder Herstellerfirmen von Atemschutzgeräten. Damit sichergestellt ist, dass bei Unfällen während des Lehrgangs sofort Erste Hilfe geleistet werden kann, hat der Lehrgangsanbieter mindestens einen ausgebildeten Ersthelfer vorzuhalten.
 
-2.2
+2. Sachliche Voraussetzungen Die antragstellende Person hat nachzuweisen, dass sie 2.1die in Anhang 2 genannten praktischen Übungen unter realen Bedingungen durchführen kann,2.2ausreichend Atemschutzgeräte für die praktischen Übungen zur Verfügung stellen kann,2.3die eingesetzten Atemschutzgeräte reinigen, desinfizieren, warten und ggf. reparieren kann,2.4über geeignete Räumlichkeiten inkl. Medientechnik zur Durchführung des theoretischen Unterrichts verfügt. die in Anhang 2 genannten praktischen Übungen unter realen Bedingungen durchführen kann, ausreichend Atemschutzgeräte für die praktischen Übungen zur Verfügung stellen kann, die eingesetzten Atemschutzgeräte reinigen, desinfizieren, warten und ggf. reparieren kann, über geeignete Räumlichkeiten inkl. Medientechnik zur Durchführung des theoretischen Unterrichts verfügt.
 
-2.3
-
-2.4
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-4.1
-
-4.2
-
-4.3
-
-1.1
-
-1.2
-
-1.3
-
-1.4
-
-1.5
-
-2.1
-
-2.2
-
-2.3
-
-2.4
-
-3.1
-
-3.1.1
-
-3.1.2
-
-3.1.3
-
-3.1.4
-
-3.1.5
-
-3.1.6
-
-3.2.1
-
-3.2.2
-
-3.3.1
-
-3.3.1.1
-
-3.3.1.2
-
-3.3.1.3
-
-3.3.1.4
-
-3.3.1.5
-
-3.3.1.6
+3. Organisatorische Voraussetzungen3.1Inhalt und Umfang eines Lehrgangs 3.1.1Der Unterricht hat sich nach Anhang 2 zu richten, der für die Lehrkräfte hinsichtlich Inhalt, Durchführung der praktischen Demonstrationen und Übungen sowie Mindestzeitmaß verbindlich ist.3.1.2Die Teilnehmenden der Erstausbildung des Grundlehrgangs dürfen nicht in einen Wiederholungslehrgang integriert werden.3.1.3Im Einzelnen müssen die im Anhang 2 genannten theoretischen und praktischen Inhalte vermittelt werden. Dies geschieht in einem Lehrgang, der eine enge Verzahnung von Praxis und Theorie als Grundlage für das Erreichen der notwendigen Handhabung und Bedienung des Atemschutzgerätes sicherstellt. Tätigkeitsbezogene Belastungsübungen sollen die atemschutzgerätetragende Person in ähnlicher Stärke beanspruchen, wie die unter Atemschutz durchzuführende Tätigkeit.3.1.4Der Grundlehrgang darf 12 Unterrichtseinheiten, wobei eine Unterrichtseinheit 45 Minuten dauert, nicht unterschreiten.3.1.5Wiederholungslehrgänge können um die erforderlichen Themenschwerpunkte entsprechend gekürzt werden, umfassen aber mindestens 4 Unterrichtseinheiten.3.1.6Die Teilnehmenden sollen nach Abschluss des Lehrgangs in der Lage sein, unter besonderer Beachtung des Eigenschutzes Personen auf einem Kabinenschiff im Brandfalle unter Verwendung von Atemschutzgeräten zu retten.3.2Teilnahmebescheinigung3.2.1Den Teilnehmenden ist eine Teilnahmebescheinigung auszuhändigen. Die Bescheinigung über die Ausbildung darf nur erteilt werden, wenn die Lehrkraft die Überzeugung gewonnen hat, dass die Teilnehmenden die erforderlichen Kenntnisse und Fähigkeiten besitzen.3.2.2Ein Gestaltungsbeispiel einer Teilnahmebescheinigung ist im Anhang 1 wiedergegeben.3.3Dokumentation3.3.1Der Lehrgangsanbieter hat über die durchgeführten Lehrgänge folgende Aufzeichnungen zu führen: 3.3.1.1Art des jeweiligen Lehrgangs (Grund- oder Wiederholungslehrgang)3.3.1.2Ort und Dauer des Lehrgangs3.3.1.3Durchgeführte Inhalte des Lehrgangs3.3.1.4Name der Lehrkraft3.3.1.5Nachweis der Teilnahme durch Namen, Geburtsdatum und Unterschrift der Teilnehmenden3.3.1.6Die Aufzeichnungen sind vom zugelassenen Lehrgangsanbieter fünf Jahre ab dem Tag des Endes des Lehrgangs aufzubewahren und auf Anforderung der Berufsgenossenschaft oder einer von ihr beauftragten, natürlichen Person vorzulegen. Nach Ablauf dieses Zeitraumes sind die Aufzeichnungen vom zugelassenen Lehrgangsanbieter unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen.3.4VersicherungsschutzDie antragstellende Person hat nachzuweisen, dass eine Haftpflichtversicherung abgeschlossen wurde, die eventuelle Personen- und Sachschäden, die im Zusammenhang mit den Lehrgängen stehen können, abdeckt. Inhalt und Umfang eines Lehrgangs 3.1.1Der Unterricht hat sich nach Anhang 2 zu richten, der für die Lehrkräfte hinsichtlich Inhalt, Durchführung der praktischen Demonstrationen und Übungen sowie Mindestzeitmaß verbindlich ist.3.1.2Die Teilnehmenden der Erstausbildung des Grundlehrgangs dürfen nicht in einen Wiederholungslehrgang integriert werden.3.1.3Im Einzelnen müssen die im Anhang 2 genannten theoretischen und praktischen Inhalte vermittelt werden. Dies geschieht in einem Lehrgang, der eine enge Verzahnung von Praxis und Theorie als Grundlage für das Erreichen der notwendigen Handhabung und Bedienung des Atemschutzgerätes sicherstellt. Tätigkeitsbezogene Belastungsübungen sollen die atemschutzgerätetragende Person in ähnlicher Stärke beanspruchen, wie die unter Atemschutz durchzuführende Tätigkeit.3.1.4Der Grundlehrgang darf 12 Unterrichtseinheiten, wobei eine Unterrichtseinheit 45 Minuten dauert, nicht unterschreiten.3.1.5Wiederholungslehrgänge können um die erforderlichen Themenschwerpunkte entsprechend gekürzt werden, umfassen aber mindestens 4 Unterrichtseinheiten.3.1.6Die Teilnehmenden sollen nach Abschluss des Lehrgangs in der Lage sein, unter besonderer Beachtung des Eigenschutzes Personen auf einem Kabinenschiff im Brandfalle unter Verwendung von Atemschutzgeräten zu retten. Der Unterricht hat sich nach Anhang 2 zu richten, der für die Lehrkräfte hinsichtlich Inhalt, Durchführung der praktischen Demonstrationen und Übungen sowie Mindestzeitmaß verbindlich ist. Die Teilnehmenden der Erstausbildung des Grundlehrgangs dürfen nicht in einen Wiederholungslehrgang integriert werden. Im Einzelnen müssen die im Anhang 2 genannten theoretischen und praktischen Inhalte vermittelt werden. Dies geschieht in einem Lehrgang, der eine enge Verzahnung von Praxis und Theorie als Grundlage für das Erreichen der notwendigen Handhabung und Bedienung des Atemschutzgerätes sicherstellt. Tätigkeitsbezogene Belastungsübungen sollen die atemschutzgerätetragende Person in ähnlicher Stärke beanspruchen, wie die unter Atemschutz durchzuführende Tätigkeit. Der Grundlehrgang darf 12 Unterrichtseinheiten, wobei eine Unterrichtseinheit 45 Minuten dauert, nicht unterschreiten. Wiederholungslehrgänge können um die erforderlichen Themenschwerpunkte entsprechend gekürzt werden, umfassen aber mindestens 4 Unterrichtseinheiten. Die Teilnehmenden sollen nach Abschluss des Lehrgangs in der Lage sein, unter besonderer Beachtung des Eigenschutzes Personen auf einem Kabinenschiff im Brandfalle unter Verwendung von Atemschutzgeräten zu retten. Teilnahmebescheinigung3.2.1Den Teilnehmenden ist eine Teilnahmebescheinigung auszuhändigen. Die Bescheinigung über die Ausbildung darf nur erteilt werden, wenn die Lehrkraft die Überzeugung gewonnen hat, dass die Teilnehmenden die erforderlichen Kenntnisse und Fähigkeiten besitzen.3.2.2Ein Gestaltungsbeispiel einer Teilnahmebescheinigung ist im Anhang 1 wiedergegeben. Den Teilnehmenden ist eine Teilnahmebescheinigung auszuhändigen. Die Bescheinigung über die Ausbildung darf nur erteilt werden, wenn die Lehrkraft die Überzeugung gewonnen hat, dass die Teilnehmenden die erforderlichen Kenntnisse und Fähigkeiten besitzen. Ein Gestaltungsbeispiel einer Teilnahmebescheinigung ist im Anhang 1 wiedergegeben. Dokumentation3.3.1Der Lehrgangsanbieter hat über die durchgeführten Lehrgänge folgende Aufzeichnungen zu führen: 3.3.1.1Art des jeweiligen Lehrgangs (Grund- oder Wiederholungslehrgang)3.3.1.2Ort und Dauer des Lehrgangs3.3.1.3Durchgeführte Inhalte des Lehrgangs3.3.1.4Name der Lehrkraft3.3.1.5Nachweis der Teilnahme durch Namen, Geburtsdatum und Unterschrift der Teilnehmenden3.3.1.6Die Aufzeichnungen sind vom zugelassenen Lehrgangsanbieter fünf Jahre ab dem Tag des Endes des Lehrgangs aufzubewahren und auf Anforderung der Berufsgenossenschaft oder einer von ihr beauftragten, natürlichen Person vorzulegen. Nach Ablauf dieses Zeitraumes sind die Aufzeichnungen vom zugelassenen Lehrgangsanbieter unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen. Der Lehrgangsanbieter hat über die durchgeführten Lehrgänge folgende Aufzeichnungen zu führen: 3.3.1.1Art des jeweiligen Lehrgangs (Grund- oder Wiederholungslehrgang)3.3.1.2Ort und Dauer des Lehrgangs3.3.1.3Durchgeführte Inhalte des Lehrgangs3.3.1.4Name der Lehrkraft3.3.1.5Nachweis der Teilnahme durch Namen, Geburtsdatum und Unterschrift der Teilnehmenden3.3.1.6Die Aufzeichnungen sind vom zugelassenen Lehrgangsanbieter fünf Jahre ab dem Tag des Endes des Lehrgangs aufzubewahren und auf Anforderung der Berufsgenossenschaft oder einer von ihr beauftragten, natürlichen Person vorzulegen. Nach Ablauf dieses Zeitraumes sind die Aufzeichnungen vom zugelassenen Lehrgangsanbieter unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen. Art des jeweiligen Lehrgangs (Grund- oder Wiederholungslehrgang) Ort und Dauer des Lehrgangs Durchgeführte Inhalte des Lehrgangs Name der Lehrkraft Nachweis der Teilnahme durch Namen, Geburtsdatum und Unterschrift der Teilnehmenden Die Aufzeichnungen sind vom zugelassenen Lehrgangsanbieter fünf Jahre ab dem Tag des Endes des Lehrgangs aufzubewahren und auf Anforderung der Berufsgenossenschaft oder einer von ihr beauftragten, natürlichen Person vorzulegen. Nach Ablauf dieses Zeitraumes sind die Aufzeichnungen vom zugelassenen Lehrgangsanbieter unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen. Versicherungsschutz Die antragstellende Person hat nachzuweisen, dass eine Haftpflichtversicherung abgeschlossen wurde, die eventuelle Personen- und Sachschäden, die im Zusammenhang mit den Lehrgängen stehen können, abdeckt.
 
 ### Anhang 1 zu Anlage 23
 
@@ -5206,51 +2440,11 @@ unter der Leitung von ....................................... [Name, Vorname] er
 
 ### Anhang 2 zu Anlage 23
 
-1.
+1. Eine atemschutzgerättragende Person ist, wer zum Schutz seiner Gesundheit in einer schadstoffhaltigen oder sauerstoffarmen Atmosphäre ein Atemschutzgerät einsetzt.
 
-2.
+2. Für die sichere Benutzung von Atemschutzgeräten sind umfangreiches Wissen und spezifische Kenntnisse in Theorie und Praxis notwendig.
 
-3.
-
-3.1.1.1
-
-3.1.1.2
-
-3.1.1.3
-
-3.1.1.4
-
-3.1.1.5
-
-3.1.1.6
-
-3.1.1.7
-
-3.1.1.8
-
-3.1.1.9
-
-3.1.1.10
-
-3.1.1.11
-
-3.1.1.12
-
-3.1.1.13
-
-3.1.1.14
-
-3.1.1.15
-
-3.1.1.16
-
-3.1.2.1
-
-3.1.2.2
-
-3.1.2.3
-
-3.1.2.4
+3. Hierfür müssen grundsätzlich die folgenden theoretischen Inhalte vermittelt werden: 3.1Grundlehrgang3.1.1Theoretische Inhalte3.1.1.1Zweck des Atemschutzes,3.1.1.2Regelwerke für den Atemschutz, Informationsbroschüre,3.1.1.3(Gebrauchsanleitung) des Herstellers,3.1.1.4Aufbau und Organisation des betrieblichen Atemschutzwesens,3.1.1.5betrieblicher Alarmplan,3.1.1.6Zusammensetzung, Einwirkung und Folgen der in Betracht kommenden Schadstoffe,3.1.1.7Folgen von Sauerstoffmangel auf den menschlichen Organismus,3.1.1.8Atmung des Menschen,3.1.1.9physiologische Gesichtspunkte, Belastung durch Atemschutzgeräte, insbesondere bei Kombination mit Schutzanzügen,3.1.1.10Einteilung, Aufbau, Wirkungsweise und Prüfung der Atemschutzgeräte,3.1.1.11Grenzen der Schutzwirkung und Benutzungsdauer (Tragezeitbegrenzung),3.1.1.12Anlegen der Atemschutzgeräte und Schutzanzüge,3.1.1.13Verhalten unter Atemschutz bei Übung, Einsatz und Flucht,3.1.1.14Maßnahmen zur Sicherung von Gerätträgern,3.1.1.15Instandhaltung (z.B. Kontrolle, Prüfung, Wartung, Reparatur, Reinigung),3.1.1.16Entsorgung.3.1.2Praktische ÜbungenNach Abschluss der theoretischen Unterweisung haben praktische Übungen zu erfolgen. Sie müssen folgendes enthalten: 3.1.2.1Anlegen des Gerätes und die Kontrolle3.1.2.2Prüfung des Dichtsitzes des Atemanschlusses3.1.2.3Prüfung der Einsatzbereitschaft des Gerätes3.1.2.4Arbeiten mit angelegtem Atemschutzgerät zur Gewöhnung (falls keine Atemschutzübungsanlage zur Verfügung steht, sind Trageübungen unter Berücksichtigung der zu erwartenden Einsatzbedingungen durchzuführen.)3.2Wiederholungslehrgang:Der Wiederholungslehrgang besteht aus den praktischen Übungen des Grundlehrgangs, während derer die theoretischen Inhalte parallel vermittelt werden. Grundlehrgang3.1.1Theoretische Inhalte3.1.1.1Zweck des Atemschutzes,3.1.1.2Regelwerke für den Atemschutz, Informationsbroschüre,3.1.1.3(Gebrauchsanleitung) des Herstellers,3.1.1.4Aufbau und Organisation des betrieblichen Atemschutzwesens,3.1.1.5betrieblicher Alarmplan,3.1.1.6Zusammensetzung, Einwirkung und Folgen der in Betracht kommenden Schadstoffe,3.1.1.7Folgen von Sauerstoffmangel auf den menschlichen Organismus,3.1.1.8Atmung des Menschen,3.1.1.9physiologische Gesichtspunkte, Belastung durch Atemschutzgeräte, insbesondere bei Kombination mit Schutzanzügen,3.1.1.10Einteilung, Aufbau, Wirkungsweise und Prüfung der Atemschutzgeräte,3.1.1.11Grenzen der Schutzwirkung und Benutzungsdauer (Tragezeitbegrenzung),3.1.1.12Anlegen der Atemschutzgeräte und Schutzanzüge,3.1.1.13Verhalten unter Atemschutz bei Übung, Einsatz und Flucht,3.1.1.14Maßnahmen zur Sicherung von Gerätträgern,3.1.1.15Instandhaltung (z.B. Kontrolle, Prüfung, Wartung, Reparatur, Reinigung),3.1.1.16Entsorgung.3.1.2Praktische ÜbungenNach Abschluss der theoretischen Unterweisung haben praktische Übungen zu erfolgen. Sie müssen folgendes enthalten: 3.1.2.1Anlegen des Gerätes und die Kontrolle3.1.2.2Prüfung des Dichtsitzes des Atemanschlusses3.1.2.3Prüfung der Einsatzbereitschaft des Gerätes3.1.2.4Arbeiten mit angelegtem Atemschutzgerät zur Gewöhnung (falls keine Atemschutzübungsanlage zur Verfügung steht, sind Trageübungen unter Berücksichtigung der zu erwartenden Einsatzbedingungen durchzuführen.) Theoretische Inhalte3.1.1.1Zweck des Atemschutzes,3.1.1.2Regelwerke für den Atemschutz, Informationsbroschüre,3.1.1.3(Gebrauchsanleitung) des Herstellers,3.1.1.4Aufbau und Organisation des betrieblichen Atemschutzwesens,3.1.1.5betrieblicher Alarmplan,3.1.1.6Zusammensetzung, Einwirkung und Folgen der in Betracht kommenden Schadstoffe,3.1.1.7Folgen von Sauerstoffmangel auf den menschlichen Organismus,3.1.1.8Atmung des Menschen,3.1.1.9physiologische Gesichtspunkte, Belastung durch Atemschutzgeräte, insbesondere bei Kombination mit Schutzanzügen,3.1.1.10Einteilung, Aufbau, Wirkungsweise und Prüfung der Atemschutzgeräte,3.1.1.11Grenzen der Schutzwirkung und Benutzungsdauer (Tragezeitbegrenzung),3.1.1.12Anlegen der Atemschutzgeräte und Schutzanzüge,3.1.1.13Verhalten unter Atemschutz bei Übung, Einsatz und Flucht,3.1.1.14Maßnahmen zur Sicherung von Gerätträgern,3.1.1.15Instandhaltung (z.B. Kontrolle, Prüfung, Wartung, Reparatur, Reinigung),3.1.1.16Entsorgung. Zweck des Atemschutzes, Regelwerke für den Atemschutz, Informationsbroschüre, (Gebrauchsanleitung) des Herstellers, Aufbau und Organisation des betrieblichen Atemschutzwesens, betrieblicher Alarmplan, Zusammensetzung, Einwirkung und Folgen der in Betracht kommenden Schadstoffe, Folgen von Sauerstoffmangel auf den menschlichen Organismus, Atmung des Menschen, physiologische Gesichtspunkte, Belastung durch Atemschutzgeräte, insbesondere bei Kombination mit Schutzanzügen, Einteilung, Aufbau, Wirkungsweise und Prüfung der Atemschutzgeräte, Grenzen der Schutzwirkung und Benutzungsdauer (Tragezeitbegrenzung), Anlegen der Atemschutzgeräte und Schutzanzüge, Verhalten unter Atemschutz bei Übung, Einsatz und Flucht, Maßnahmen zur Sicherung von Gerätträgern, Instandhaltung (z.B. Kontrolle, Prüfung, Wartung, Reparatur, Reinigung), Entsorgung. Praktische Übungen Nach Abschluss der theoretischen Unterweisung haben praktische Übungen zu erfolgen. Sie müssen folgendes enthalten: 3.1.2.1Anlegen des Gerätes und die Kontrolle3.1.2.2Prüfung des Dichtsitzes des Atemanschlusses3.1.2.3Prüfung der Einsatzbereitschaft des Gerätes3.1.2.4Arbeiten mit angelegtem Atemschutzgerät zur Gewöhnung (falls keine Atemschutzübungsanlage zur Verfügung steht, sind Trageübungen unter Berücksichtigung der zu erwartenden Einsatzbedingungen durchzuführen.) Anlegen des Gerätes und die Kontrolle Prüfung des Dichtsitzes des Atemanschlusses Prüfung der Einsatzbereitschaft des Gerätes Arbeiten mit angelegtem Atemschutzgerät zur Gewöhnung (falls keine Atemschutzübungsanlage zur Verfügung steht, sind Trageübungen unter Berücksichtigung der zu erwartenden Einsatzbedingungen durchzuführen.) Wiederholungslehrgang: Der Wiederholungslehrgang besteht aus den praktischen Übungen des Grundlehrgangs, während derer die theoretischen Inhalte parallel vermittelt werden.
 
 ### Anlage 24 — (zu § 78 Absatz 3 Nummer 2)
 
@@ -5260,31 +2454,31 @@ unter der Leitung von ....................................... [Name, Vorname] er
 
 Anweisungen:
 
-1.
+1. Aktuelle(r) Name(n) des Inhabers
 
-2.
+2. Aktuelle(r) Vorname des Inhabers Die Namen sind wie auf dem Personalausweis oder im Pass der betreffenden Person in UNICODE einzutragen. Wird ein Name in UNICODE und in ASCII unterschiedlich geschrieben, so muss auch eine Transkription in ASCII in Klammern erfolgen.
 
-3a.
+3a. Geburtsdatum (TT/MM/JJJJ)
 
-3b.
+3b. Geburtsort (Stadt)
 
-4.
+4. Besatzungsmitgliedsnummer des Inhabers (zu entnehmen aus dem SDB)
 
-5.
+5. Physische Identifizierung des Inhabers durch Import der elektronischen Bilddatei
 
-6.
+6. Seriennummer des Zeugnisses
 
-7.
+7. Ausstellungsdatum des Zeugnisses
 
-8.
+8. Ablaufdatum
 
-9.
+9. Bezeichnung der ausstellenden Behörde
 
-10.
+10. Codierte besondere Berechtigung(en): R (für das Fahren unter Radar); M (für das Befahren von Wasserstraßen mit maritimem Charakter); Abschnitte mit besonderem Risiko wie in dem Europäischen Referenzdatenmanagementsystem (ERDMS) codiert
 
-11.
+11. Tauglichkeitsbezogene Risikominderungsmaßnahme und Beschränkungen (Code 01 bis 09 wie in der Delegierten Richtlinie (EU) 2020/12 der Kommission)
 
-12.
+12. Angabe, für welche(n) Fährtyp(en) das Zeugnis gilt: seil- oder kettengebunden; frei fahrend; seil- oder kettengebunden und frei fahrend
 
 Visuelle Merkmale des Befähigungszeugnisses: Grundfarbe hellblau, nach ISO/IEC 7810
 
@@ -5296,29 +2490,29 @@ Visuelle Merkmale des Befähigungszeugnisses: Grundfarbe hellblau, nach ISO/IEC 
 
 Anweisungen:
 
-1.
+1. Aktuelle(r) Name(n) des Inhabers
 
-2.
+2. Aktuelle(r) Vorname des Inhabers Die Namen sind wie auf dem Personalausweis oder im Pass der betreffenden Person in UNICODE einzutragen. Wird ein Name in UNICODE und in ASCII unterschiedlich geschrieben, so muss auch eine Transkription in ASCII in Klammern erfolgen.
 
-3a.
+3a. Geburtsdatum (TT/MM/JJJJ)
 
-3b.
+3b. Geburtsort (Stadt)
 
-4.
+4. Besatzungsmitgliedsnummer des Inhabers (zu entnehmen aus dem SDB)
 
-5.
+5. Physische Identifizierung des Inhabers durch Import der elektronischen Bilddatei
 
-6.
+6. Seriennummer des Zeugnisses
 
-7.
+7. Ausstellungsdatum des Zeugnisses
 
-8.
+8. Ablaufdatum
 
-9.
+9. Bezeichnung der ausstellenden Behörde
 
-10.
+10. Codierte besondere Berechtigung(en): R (für das Fahren unter Radar); M (für das Befahren von Wasserstraßen mit maritimem Charakter); Abschnitte mit besonderem Risiko wie in dem Europäischen Referenzdatenmanagementsystem (ERDMS) codiert
 
-11.
+11. Tauglichkeitsbezogene Risikominderungsmaßnahme und Beschränkungen (Code 01 bis 09 wie in der Delegierten Richtlinie (EU) 2020/12 der Kommission)
 
 Visuelle Merkmale des Befähigungszeugnisses: Grundfarbe hellblau, nach ISO/IEC 7810
 
@@ -5330,29 +2524,29 @@ Visuelle Merkmale des Befähigungszeugnisses: Grundfarbe hellblau, nach ISO/IEC 
 
 Anweisungen:
 
-1.
+1. Aktuelle(r) Name(n) des Inhabers
 
-2.
+2. Aktuelle(r) Vorname des Inhabers Die Namen sind wie auf dem Personalausweis oder im Pass der betreffenden Person in UNICODE einzutragen. Wird ein Name in UNICODE und in ASCII unterschiedlich geschrieben, so muss auch eine Transkription in ASCII in Klammern erfolgen.
 
-3a.
+3a. Geburtsdatum (TT/MM/JJJJ)
 
-3b.
+3b. Geburtsort (Stadt)
 
-4.
+4. Besatzungsmitgliedsnummer des Inhabers (zu entnehmen aus dem SDB)
 
-5.
+5. Physische Identifizierung des Inhabers durch Import der elektronischen Bilddatei
 
-6.
+6. Seriennummer des Zeugnisses
 
-7.
+7. Ausstellungsdatum des Zeugnisses
 
-8.
+8. Ablaufdatum
 
-9.
+9. Bezeichnung der ausstellenden Behörde
 
-10.
+10. Codierte besondere Berechtigung(en): R (für das Fahren unter Radar); M (für das Befahren von Wasserstraßen mit maritimem Charakter); Abschnitte mit besonderem Risiko wie in dem Europäischen Referenzdatenmanagementsystem (ERDMS) codiert
 
-11.
+11. Tauglichkeitsbezogene Risikominderungsmaßnahme und Beschränkungen (Code 01 bis 09 wie in der Delegierten Richtlinie (EU) 2020/12 der Kommission)
 
 Visuelle Merkmale des Befähigungszeugnisses: Grundfarbe hellblau, nach ISO/IEC 7810
 
@@ -5364,31 +2558,31 @@ Visuelle Merkmale des Befähigungszeugnisses: Grundfarbe hellblau, nach ISO/IEC 
 
 Anweisungen:
 
-1.
+1. Aktuelle(r) Name(n) des Inhabers
 
-2.
+2. Aktuelle(r) Vorname des Inhabers Die Namen sind wie auf dem Personalausweis oder im Pass der betreffenden Person in UNICODE einzutragen. Wird ein Name in UNICODE und in ASCII unterschiedlich geschrieben, so muss auch eine Transkription in ASCII in Klammern erfolgen.
 
-3a.
+3a. Geburtsdatum (TT/MM/JJJJ)
 
-3b.
+3b. Geburtsort (Stadt)
 
-4.
+4. Besatzungsmitgliedsnummer des Inhabers (zu entnehmen aus dem SDB)
 
-5.
+5. Physische Identifizierung des Inhabers durch Import der elektronischen Bilddatei
 
-6.
+6. Seriennummer des Zeugnisses
 
-7.
+7. Ausstellungsdatum des Zeugnisses
 
-8.
+8. Ablaufdatum
 
-9.
+9. Bezeichnung der ausstellenden Behörde
 
-10.
+10. Codierte besondere Berechtigung(en): R (für das Fahren unter Radar); M (für das Befahren von Wasserstraßen mit maritimem Charakter); Abschnitte mit besonderem Risiko wie in dem Europäischen Referenzdatenmanagementsystem (ERDMS) codiert
 
-11.
+11. Tauglichkeitsbezogene Risikominderungsmaßnahme und Beschränkungen (Code 01 bis 09 wie in der Delegierten Richtlinie (EU) 2020/12 der Kommission)
 
-12.
+12. Hinweise, für welche(n) Fahrzeugtyp(en) das Zeugnis gilt, oder sonstige Anmerkungen
 
 Visuelle Merkmale des Befähigungszeugnisses: Grundfarbe hellblau, nach ISO/IEC 7810
 
@@ -5400,27 +2594,27 @@ Visuelle Merkmale des Befähigungszeugnisses: Grundfarbe hellblau, nach ISO/IEC 
 
 Anweisungen:
 
-1.
+1. Aktuelle(r) Name(n) des Inhabers
 
-2.
+2. Aktuelle(r) Vorname des Inhabers Die Namen sind wie auf dem Personalausweis oder im Pass der betreffenden Person in UNICODE einzutragen. Wird ein Name in UNICODE und in ASCII unterschiedlich geschrieben, so muss auch eine Transkription in ASCII in Klammern erfolgen.
 
-3a.
+3a. Geburtsdatum (TT/MM/JJJJ)
 
-3b.
+3b. Geburtsort (Stadt)
 
-4.
+4. Ausstellungsdatum des amtlichen Berechtigungsscheines
 
-5.
+5. ggf. Ablaufdatum des amtlichen Berechtigungsscheines, sofern vorhanden
 
-6.
+6. Bezeichnung der ausstellenden Behörde des amtlichen Berechtigungsscheines
 
-7.
+7. Codierte besondere Berechtigung(en): R (für das Fahren unter Radar); M (für das Befahren von Wasserstraßen mit maritimem Charakter); Abschnitte mit besonderem Risiko wie in dem Europäischen Referenzdatenmanagementsystem (ERDMS) codiert
 
-8.
+8. Bezeichnung der ausstellenden Behörde der besonderen Berechtigung
 
-9.
+9. Ausstellungsdatum der besonderen Berechtigung
 
-10.
+10. lfd. Nummer der besonderen Berechtigung
 
 Visuelle Merkmale des Befähigungszeugnisses: Grundfarbe hellblau, nach ISO/IEC 7810
 
@@ -5432,115 +2626,41 @@ Visuelle Merkmale des Befähigungszeugnisses: Grundfarbe hellblau, nach ISO/IEC 
 
 Anweisungen:
 
-1.
+1. Aktuelle(r) Name(n) des Inhabers
 
-2.
+2. Aktuelle(r) Vorname des Inhabers Die Namen sind wie auf dem Personalausweis oder im Pass der betreffenden Person in UNICODE einzutragen. Wird ein Name in UNICODE und in ASCII unterschiedlich geschrieben, so muss auch eine Transkription in ASCII in Klammern erfolgen.
 
-3a.
+3a. Geburtsdatum (TT/MM/JJJJ)
 
-3b.
+3b. Geburtsort (Stadt)
 
-4.
+4. Ausstellungsdatum des Sportbootführerscheins
 
-5.
+5. ggf. Ablaufdatum des Sportbootführerscheines, sofern vorhanden
 
-6.
+6. Ausstellender Verband (ausgeschrieben)
 
-7.
+7. Codierte besondere Berechtigung(en): R (für das Fahren unter Radar); M (für das Befahren von Wasserstraßen mit maritimem Charakter); Abschnitte mit besonderem Risiko wie in dem Europäischen Referenzdatenmanagementsystem (ERDMS) codiert
 
-8.
+8. Bezeichnung der ausstellenden Behörde der besonderen Berechtigung
 
-9.
+9. Ausstellungsdatum der besonderen Berechtigung
 
-10.
+10. lfd. Nummer der besonderen Berechtigung
 
 Visuelle Merkmale des Befähigungszeugnisses: Grundfarbe hellblau, nach ISO/IEC 7810
 
 ### Anlage 30 — (zu § 89 Absatz 1)
 
-–
+– einer internen Wechselsprechanlage und
 
-–
-
-1.
-
-2.
-
-3.
-
-4.
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
+– zwei unabhängigen UKW-Funkverkehrssystemen für Binnengewässer.
 
 ### Anlage 31 — (zu § 90 Absatz 2)
 
-1.
+I. Zulassungsverfahren für Simulatoren, die für die in Artikel 17 Absatz 3 Buchstabe a und b der Richtlinie (EU) 2017/2397 genannten Prüfungen eingesetzt werden1.Die Stelle, die Simulatoren zur Beurteilung von Befähigungen einsetzt, stellt bei der zuständigen Behörde des Mitgliedstaats einen Antrag auf Zulassung, a)in dem angegeben ist, für welche Beurteilung von Befähigungen der Simulator zugelassen werden soll, d. h. für die praktische Prüfung zur Erlangung eines Befähigungszeugnisses für Schiffsführer (Fahrsimulator) oder für die praktische Prüfung zur Erlangung einer besonderen Berechtigung für das Führen von Fahrzeugen unter Radar (Radarsimulator) oder für beide praktischen Prüfungen;b)aus dem hervorgeht, dass der Simulator die vollständige Erfüllung der technischen und funktionalen Mindestanforderungen gemäß dem einschlägigen Standard oder den einschlägigen Standards für Simulatoren gewährleistet.2.Die zuständige Behörde stellt sicher, dass die Mindestanforderungen gemäß dem Standard für die funktionalen und technischen Anforderungen an Simulatoren nach dem Testverfahren für jeden Gegenstand geprüft werden. Hierfür setzt die zuständige Behörde von der das Ausbildungsprogramm durchführenden Stelle unabhängige Sachverständige ein. Die Sachverständigen dokumentieren die Konformitätsprüfung für jeden Gegenstand. Bestätigen die Testverfahren die Erfüllung der Anforderungen, erteilt die zuständige Behörde eine Zulassung für den Simulator. In der Zulassung ist anzugeben, für welche Beurteilung von Befähigungen der Simulator zugelassen wird. Die Stelle, die Simulatoren zur Beurteilung von Befähigungen einsetzt, stellt bei der zuständigen Behörde des Mitgliedstaats einen Antrag auf Zulassung, a)in dem angegeben ist, für welche Beurteilung von Befähigungen der Simulator zugelassen werden soll, d. h. für die praktische Prüfung zur Erlangung eines Befähigungszeugnisses für Schiffsführer (Fahrsimulator) oder für die praktische Prüfung zur Erlangung einer besonderen Berechtigung für das Führen von Fahrzeugen unter Radar (Radarsimulator) oder für beide praktischen Prüfungen;b)aus dem hervorgeht, dass der Simulator die vollständige Erfüllung der technischen und funktionalen Mindestanforderungen gemäß dem einschlägigen Standard oder den einschlägigen Standards für Simulatoren gewährleistet. in dem angegeben ist, für welche Beurteilung von Befähigungen der Simulator zugelassen werden soll, d. h. für die praktische Prüfung zur Erlangung eines Befähigungszeugnisses für Schiffsführer (Fahrsimulator) oder für die praktische Prüfung zur Erlangung einer besonderen Berechtigung für das Führen von Fahrzeugen unter Radar (Radarsimulator) oder für beide praktischen Prüfungen; aus dem hervorgeht, dass der Simulator die vollständige Erfüllung der technischen und funktionalen Mindestanforderungen gemäß dem einschlägigen Standard oder den einschlägigen Standards für Simulatoren gewährleistet. Die zuständige Behörde stellt sicher, dass die Mindestanforderungen gemäß dem Standard für die funktionalen und technischen Anforderungen an Simulatoren nach dem Testverfahren für jeden Gegenstand geprüft werden. Hierfür setzt die zuständige Behörde von der das Ausbildungsprogramm durchführenden Stelle unabhängige Sachverständige ein. Die Sachverständigen dokumentieren die Konformitätsprüfung für jeden Gegenstand. Bestätigen die Testverfahren die Erfüllung der Anforderungen, erteilt die zuständige Behörde eine Zulassung für den Simulator. In der Zulassung ist anzugeben, für welche Beurteilung von Befähigungen der Simulator zugelassen wird.
 
-a)
-
-b)
-
-2.
-
-1.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-2.
+II. Mitteilung der Zulassung und System für Qualitätsstandards1.Die für die Zulassung von Simulatoren zuständige Behörde teilt der Europäischen Kommission und jeder betroffenen internationalen Organisation die Zulassung eines Simulators mit und gibt dabei mindestens Folgendes an: a)die Beurteilung von Befähigungen, für die der Simulator zugelassen ist, d. h. für die praktische Prüfung zur Erlangung eines Befähigungszeugnisses für Schiffsführer (Fahrsimulator) oder für die praktische Prüfung zur Erlangung einer besonderen Berechtigung für das Führen von Fahrzeugen unter Radar (Radarsimulator) oder für beide praktischen Prüfungen);b)den Namen des Betreibers des Simulators;c)ggf. die Bezeichnung des Ausbildungsprogramms;d)die Einrichtung, die die Befähigungszeugnisse, besonderen Berechtigungen oder Zeugnisse über praktische Prüfungen ausstellt;e)das Datum des Inkrafttretens, der Aufhebung oder Aussetzung der Zulassung des Simulators.2.Für die Zwecke eines Qualitätsbewertungs- und -sicherungssystems nach Artikel 27 der Richtlinie (EU) 2017/2397 werden die Anträge gemäß Abschnitt I Nummer 1 Buchstabe a und die Dokumentation gemäß Abschnitt I Nummer 2 von der zuständigen Behörde aufbewahrt. Die für die Zulassung von Simulatoren zuständige Behörde teilt der Europäischen Kommission und jeder betroffenen internationalen Organisation die Zulassung eines Simulators mit und gibt dabei mindestens Folgendes an: a)die Beurteilung von Befähigungen, für die der Simulator zugelassen ist, d. h. für die praktische Prüfung zur Erlangung eines Befähigungszeugnisses für Schiffsführer (Fahrsimulator) oder für die praktische Prüfung zur Erlangung einer besonderen Berechtigung für das Führen von Fahrzeugen unter Radar (Radarsimulator) oder für beide praktischen Prüfungen);b)den Namen des Betreibers des Simulators;c)ggf. die Bezeichnung des Ausbildungsprogramms;d)die Einrichtung, die die Befähigungszeugnisse, besonderen Berechtigungen oder Zeugnisse über praktische Prüfungen ausstellt;e)das Datum des Inkrafttretens, der Aufhebung oder Aussetzung der Zulassung des Simulators. die Beurteilung von Befähigungen, für die der Simulator zugelassen ist, d. h. für die praktische Prüfung zur Erlangung eines Befähigungszeugnisses für Schiffsführer (Fahrsimulator) oder für die praktische Prüfung zur Erlangung einer besonderen Berechtigung für das Führen von Fahrzeugen unter Radar (Radarsimulator) oder für beide praktischen Prüfungen); den Namen des Betreibers des Simulators; ggf. die Bezeichnung des Ausbildungsprogramms; die Einrichtung, die die Befähigungszeugnisse, besonderen Berechtigungen oder Zeugnisse über praktische Prüfungen ausstellt; das Datum des Inkrafttretens, der Aufhebung oder Aussetzung der Zulassung des Simulators. Für die Zwecke eines Qualitätsbewertungs- und -sicherungssystems nach Artikel 27 der Richtlinie (EU) 2017/2397 werden die Anträge gemäß Abschnitt I Nummer 1 Buchstabe a und die Dokumentation gemäß Abschnitt I Nummer 2 von der zuständigen Behörde aufbewahrt.
 
 ### Anlage 32 — (zu § 137 Absatz 2)
 

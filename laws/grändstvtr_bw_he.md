@@ -24,8 +24,6 @@ Das Land Baden-Württemberg und das Land Hessen, beide vertreten durch ihre Mini
 
 ### Art 2
 
-(1) Folgende in dem abgetretenen Gebiet belegenen Gegenstände des Verwaltungsvermögens gehen entschädigungslos über: Die Flurstücke 4373/6 und 4373/7 (Landesstraße 3110) vom Land Baden-Württemberg auf das Land Hessen, das Flurstück 4510 (Landgraben) von der Stadt Hemsbach auf die Stadt Lampertheim.
-
 (2) Die von der Abtretung betroffenen Städte werden ermächtigt, für den Steuerkraftverlust der Stadt Hemsbach eine Ausgleichszahlung zu vereinbaren.
 
 (3) Im übrigen regeln die von der Abtretung betroffenen Landkreise und Städte Rechtsfolgen der Änderung ihrer Gebiete und die Auseinandersetzung durch Vereinbarung.
@@ -49,7 +47,5 @@ Die vertragschließenden Länder gehen davon aus, daß für den durch diesen Sta
 (2) Dieser Staatsvertrag tritt am Tag der Hinterlegung der Ratifikationsurkunden in Kraft.
 
 ### Schlußformel
-
-Der Ministerpräsident des Landes Baden-Württemberg Der Hessische Ministerpräsident
 
 ### Anlage — (zu Artikel 1 Abs. 2)

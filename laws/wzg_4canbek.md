@@ -19,12 +19,6 @@ Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 2. Juni 1986 
 
 ### Schlußformel
 
-Der Bundesminister der Justiz
-
 ### Anlage 1
 
-(Inhalt: Nicht darstellbare Prüf- und Gewährzeichen,Fundstelle: BGBl I 1986, 2095)
-
 ### Anlage 2
-
-(Fundstelle: BGBl. I 1986, 2096)BezeichnungenAbkürzungenINTERGOVERNMENTAL BUREAU FOR INFORMATICS(englisch)IBIBUREAU INTERGOUVERNMENTAL POUR L'INFORMATIQUE(französisch)BIIOFICINA INTERGUBERNAMENTALPARA LA INFORMATICA(spanisch)OIIUFFICIO INTERGOVERNATIVO PER L'INFORMATICA(italienisch)UIIKennzeichenFlagge(Inhalt: nicht darstellbares Kennzeichen)(Fundstelle: BGBl. I 1986, 2096)(Inhalt: nicht darstellbare Flagge)(Fundstelle: BGBl. I 1986, 2096)

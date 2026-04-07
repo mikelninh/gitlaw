@@ -42,35 +42,31 @@ Ballone und Luftschiffe müssen eine ausreichende Betriebsstoffmenge mitführen,
 
 ### § 4 — Ergänzungsausrüstung (zu § 19 LuftBO)
 
-Die betriebliche Ergänzungsausrüstung muß mindestens bestehen aus: Für Körbe für 11 bis 19 Insassen und Luftschiffgondeln für 5 bis 9 Insassen ist
+Die betriebliche Ergänzungsausrüstung muß mindestens bestehen aus:
 
-1.
+1. 1 UKW-Sende-/Empfangsgerät mit einem Frequenzbereich von 117.975 bis 137.000 MHz
 
-2.
+2. 1 Höhenmesser
 
-3.
+3. 1 Variometer
 
-4.
+4. 1 Handfeuerlöscher nach DIN EN 3 mit einer Löschmittelmenge von mindestens 2 kg oder in Luftfahrzeugen zugelassene Handfeuerlöscher mit mindestens vergleichbarer Löschwirkung
 
-4a.
+4a. Feuerlöschdecke nach DIN 14155
 
-5.
+5. 1 Kompaß
 
-6.
+6. 1 Hüllenthermometer
 
-7.
+7. 1 Druckmesser für jede Versorgungsleitung
 
-8.
+8. 1 Erste-Hilfe-Ausrüstung nach DIN 13164 oder DIN 13157
 
-9.
+9. 1 Kappmesser
 
-10.
+10. 1 alternative Zündquelle
 
-11.
-
--
-
--
+11. 1 Paar feuerhemmende Handschuhe.
 
 ### § 5 — Körbe und Luftschiffgondeln (zu § 19 LuftBO)
 
@@ -86,15 +82,11 @@ Neben der gemäß § 21 Abs. 2 der Betriebsordnung für Luftfahrtgerät erforder
 
 ### § 6a — Wägung (zu § 10 LuftBO)
 
-Die Wägung eines Ballons oder Luftschiffs ist durchzuführen Wenn die Masse verändert worden ist und die Daten rechnerisch mit hinreichender Genauigkeit festgestellt werden können, kann eine Wägung entfallen.
+Die Wägung eines Ballons oder Luftschiffs ist durchzuführen
 
-1.
+1. in Verbindung mit der ersten Nachprüfung zum Zweck der Verkehrszulassung
 
-2.
-
-1.
-
-2.
+2. in den Fällen, in denen der Hersteller eine Wägung vorschreibt.
 
 ## 3. Abschnitt: Betrieb in Luftfahrtunternehmen
 
@@ -146,11 +138,11 @@ Am Startplatz müssen ein Windmeßgerät und ein Thermometer vorhanden sein. Fü
 
 (2) Das zusätzliche Besatzungsmitglied gemäß Absatz 1 muß
 
-1.
+1. für seine Aufgaben geeignet sein,
 
-2.
+2. an 5 Aufrüstungen mit anschließenden Fahrten mit Ballonen mit Körben ab 7 Insassen praktisch teilgenommen haben und
 
-3.
+3. alle 24 Monate die Teilnahme an einem Kurs in Erster Hilfe und der Unterweisung in den praktischen Gebrauch des Handfeuerlöschers nachweisen.
 
 ### § 15 — Anforderungen an die Besatzungsmitglieder (zu § 42 LuftBO)
 
@@ -168,15 +160,15 @@ Der verantwortliche Luftfahrzeugführer muß sicherstellen, daß die Fluggäste 
 
 Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 10 des Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. als Luftfahrzeugführer entgegen § 3 eine nicht ausreichende Betriebsstoffreserve mitführt;
 
-2.
+2. als Luftfahrzeugführer Fahrten mit Ballonen oder Luftschiffen durchführt und die in den §§ 4, 6 bzw. 12 vorgeschriebene Ausrüstung nicht mitführt;
 
-3.
+3. als Luftfahrzeugführer, Halter oder Betriebsleiter entgegen § 8 Fahrten durchführt, bei denen der Start früher als 90 Minuten vor Sonnenaufgang erfolgt;
 
-4.
+4. als Halter oder Betriebsleiter einen Ballon oder ein Luftschiff ohne die für die Flugdurchführung in den §§ 4, 6 bzw. 12 geforderte Ausrüstung betreibt;
 
-5.
+5. als verantwortlicher Luftfahrzeugführer entgegen § 16 nicht sicherstellt, daß die Fluggäste mit der Unterbringung und dem Gebrauch der Sicherheits- und Rettungsausrüstung vertraut gemacht werden.
 
 ### § 18 — Inkrafttreten
 

@@ -12,21 +12,21 @@
 
 (2) Bausparer ist, wer mit einer Bausparkasse einen Vertrag schließt, durch den er nach Leistung von Bauspareinlagen einen Rechtsanspruch auf Gewährung eines Bauspardarlehens erwirbt (Bausparvertrag). Ein Bausparvertrag kann auch als Altersvorsorgevertrag im Sinne des Altersvorsorgeverträge-Zertifizierungsgesetzes vom 26. Juni 2001 (BGBl. I S. 1310, 1322), zuletzt geändert durch Artikel 2 Absatz 8 des Gesetzes vom 1. April 2015 (BGBl. I S. 434), in der jeweils geltenden Fassung abgeschlossen werden. Jeder Bausparer einer Bausparkasse ist Mitglied einer Zweckspargemeinschaft (Kollektiv).
 
-(3) Wohnungswirtschaftliche Maßnahmen im Sinne dieses Gesetzes sind Als wohnungswirtschaftliche Maßnahmen gelten die Ablösung von Verbindlichkeiten, die zur Leistung von Bauspareinlagen eingegangen worden sind, sowie gewerbliche Bauvorhaben und der Erwerb gewerblicher Bauwerke, wenn sie dazu bestimmt sind, zur Versorgung von Wohngebieten beizutragen.
+(3) Wohnungswirtschaftliche Maßnahmen im Sinne dieses Gesetzes sind
 
-1.
+1. die Errichtung, Beschaffung, Erhaltung und Verbesserung von überwiegend zu Wohnzwecken bestimmten Gebäuden und von Wohnungen, insbesondere von Eigenheimen und Eigentumswohnungen, sowie der Erwerb von Rechten zur dauernden Nutzung von Wohnraum,
 
-2.
+2. die Errichtung, Beschaffung, Erhaltung und Verbesserung von anderen Gebäuden, soweit sie Wohnzwecken dienen,
 
-3.
+3. der Erwerb von Bauland und Erbbaurechten zur Errichtung von überwiegend zu Wohnzwecken bestimmten Gebäuden,
 
-4.
+4. der Erwerb von Bauland und Erbbaurechten zur Errichtung anderer Gebäude hinsichtlich des Anteils, der dem Verhältnis des zu Wohnzwecken bestimmten Teils des auf dem Grundstück zu errichtenden Gebäudes zum Gesamtgebäude entspricht,
 
-5.
+5. Maßnahmen zur Erschließung und zur Förderung von Wohngebieten,
 
-6.
+6. die Ablösung von Verbindlichkeiten, die zur Durchführung von Maßnahmen nach den Nummern 1 bis 5 eingegangen worden sind,
 
-7.
+7. die Ablösung von Verbindlichkeiten, die auf einem überwiegend Wohnzwecken dienenden Grundstück ruhen.
 
 (4) Die kollektiv bedingte Zinsspanne ist der Quotient aus dem kollektiv bedingten Zinsüberschuss und dem Jahresdurchschnittsbestand an Bauspareinlagen. Der kollektiv bedingte Zinsüberschuss ist die Summe der Erträge aus Bauspardarlehen und der nicht in Bauspardarlehen angelegten Bauspareinlagen abzüglich des Zinsaufwands für Bauspareinlagen.
 
@@ -44,21 +44,21 @@
 
 ### § 2 — Zulassung zum Geschäftsbetrieb; Rechtsform
 
-(1) Wer das Bauspargeschäft betreiben will, bedarf der schriftlichen oder elektronischen Erlaubnis der Aufsichtsbehörde. Zusätzlich zu den in § 32 des Kreditwesengesetzes genannten Voraussetzungen setzt die Erteilung der Erlaubnis voraus, dass eine Bausparkasse Das Vorliegen dieser Voraussetzungen ist im Erlaubnisantrag darzulegen.
+(1) Wer das Bauspargeschäft betreiben will, bedarf der schriftlichen oder elektronischen Erlaubnis der Aufsichtsbehörde. Zusätzlich zu den in § 32 des Kreditwesengesetzes genannten Voraussetzungen setzt die Erteilung der Erlaubnis voraus, dass eine Bausparkasse
 
-1.
+1. über ein Kernkapital im Sinne des Artikels 25 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1) von mindestens 20 Millionen Euro verfügt,
 
-2.
+2. geeignete Geschäftsleiter hat, die insbesondere über ausreichende Erfahrungen im Kredit- und Bauspargeschäft verfügen und nicht gleichzeitig Mitglied der Geschäftsleitung eines übergeordneten Unternehmens oder Schwesterunternehmens sind,
 
-3.
+3. Allgemeine Geschäftsgrundsätze und Allgemeine Bedingungen für Bausparverträge formuliert hat, die jeweils den Anforderungen nach § 5 entsprechen,
 
-4.
+4. geeignete Regelungen und Instrumente im Sinne des § 8 Absatz 1 zur Steuerung, Überwachung und Kontrolle der Risiken aus dem Bauspargeschäft besitzt,
 
-5.
+5. der Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) einen Geschäftsplan vorlegt, in dem sie darlegt, wie sie das Bauspargeschäft regelmäßig und nachhaltig betreiben wird,
 
-6.
+6. über den für den regelmäßigen und nachhaltigen Betrieb des Bauspargeschäfts erforderlichen organisatorischen Aufbau verfügt und
 
-7.
+7. eine nachhaltige Vertriebstätigkeit sowie deren Kontrolle und Steuerung dauerhaft gewährleistet erscheinen lässt, um durch den ausreichenden Abschluss neuer Bausparverträge (Neugeschäft) eine gleichmäßige und möglichst kurze Wartezeit sicherstellen zu können.
 
 (2) Private Bausparkassen dürfen nur in der Rechtsform der Aktiengesellschaft betrieben werden. Die Rechtsform der öffentlich-rechtlichen Bausparkassen wird von den Ländern bestimmt.
 
@@ -88,19 +88,19 @@ Verträge und Absprachen, durch die die Leitung einer Bausparkasse ganz oder tei
 
 (4) Die Bausparkasse hat die Genehmigungen der Bundesanstalt nach diesem Gesetz schriftlich oder elektronisch zu beantragen. Sie hat dem Antrag jeweils sämtliche Unterlagen und Informationen beizufügen, die zur Beurteilung des Antrags erforderlich sind. Die Bundesanstalt kann die Genehmigung versagen, wenn der Antrag keine ausreichenden Unterlagen oder Informationen enthält.
 
-(5) Bausparkassen haben der Bundesanstalt laufend, mindestens einmal jährlich, über zu berichten (kollektiver Lagebericht). Die Bausparkasse hat im Rahmen des kollektiven Lageberichts gesondert zur Erfüllbarkeit von längerfristigen Verbindlichkeiten Stellung zu nehmen. Der kollektive Lagebericht hat insbesondere Fortschreibungen über die erwartete Entwicklung des Bauspargeschäfts sowie Prognosen weiterer, im Zusammenhang mit dem Bauspargeschäft stehender betriebswirtschaftlicher Größen zu enthalten.
+(5) Bausparkassen haben der Bundesanstalt laufend, mindestens einmal jährlich, über
 
-1.
+1. die Erfüllbarkeit der von der Bausparkasse übernommenen Verpflichtungen,
 
-2.
+2. den Bestand an Bausparverträgen mit den zugehörigen Aktiva und Passiva,
 
-3.
+3. Zuführungen zur Zuteilungsmasse,
 
-4.
+4. Zwischenanlagen der Mittel der Zuteilungsmasse,
 
-5.
+5. Entnahmen aus der Zuteilungsmasse und
 
-6.
+6. die aktuellen Forderungen aus Bauspardarlehen samt ihrer Besicherung
 
 (6) Liegen nach den Ergebnissen der von den Bausparkassen nach den Regelungen des § 8 Absatz 4 zu verwendenden bauspartechnischen Simulationsmodelle die Voraussetzungen des § 2 Absatz 1 Nummer 3 in Verbindung mit § 5 Absatz 4 nicht vor, so hat die Bausparkasse dies unverzüglich der Bundesanstalt anzuzeigen. Die Bausparkasse hat der Bundesanstalt zudem auf Anforderung aktuelle Ergebnisse eines bausparspezifischen Simulationsmodells vorzulegen, sofern dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist.
 
@@ -108,73 +108,47 @@ Verträge und Absprachen, durch die die Leitung einer Bausparkasse ganz oder tei
 
 (1) Bausparkassen dürfen außer dem Bauspargeschäft nur folgende Geschäfte betreiben:
 
-1.
+1. Gelddarlehen gewähren, die der Vorfinanzierung oder der Zwischenfinanzierung von Leistungen der Bausparkasse auf Bausparverträge ihrer Bausparer dienen (Vorfinanzierungskredite oder Zwischenfinanzierungskredite);
 
-2.
+2. für wohnungswirtschaftliche Maßnahmen sonstige Gelddarlehen nach Maßgabe des Absatzes 2 gewähren (sonstige Baudarlehen);
 
-3.
+3. Gelddarlehen Dritter verwalten, vermitteln und im eigenen oder fremden Namen und für Rechnung Dritter bewilligen, wenn die Darlehen der Finanzierung wohnungswirtschaftlicher Maßnahmen dienen;
 
-4.
+4. nach Maßgabe des Absatzes 2 Gewährleistungen für Gelddarlehen Dritter übernehmen, welche die Bausparkasse selbst zu geben befugt wäre und die in der in § 7 vorgeschriebenen Weise gesichert sind;
 
-5.
+5. zur Gewährung von Bauspardarlehen und von Darlehen nach den Nummern 1 und 2, zur Erfüllung von Verpflichtungen aus Verträgen nach § 1 Abs. 2 Satz 2 sowie zur Beschaffung der darüber hinaus für den Geschäftsbetrieb erforderlichen Mittela)fremde Gelder von Kreditinstituten und sonstigen Kapitalsammelstellen aufnehmen,b)fremde Gelder von sonstigen Gläubigern entgegennehmen,c)vorbehaltlich einer Erlaubnis nach § 2 Absatz 1 Satz 1 des Pfandbriefgesetzes Hypothekenpfandbriefe im Sinne des § 1 Absatz 1 Satz 2 Nummer 1 des Pfandbriefgesetzes nach den Bestimmungen des Pfandbriefgesetzes ausgeben,d)sonstige Schuldverschreibungen ausgeben; fremde Gelder von Kreditinstituten und sonstigen Kapitalsammelstellen aufnehmen, fremde Gelder von sonstigen Gläubigern entgegennehmen, vorbehaltlich einer Erlaubnis nach § 2 Absatz 1 Satz 1 des Pfandbriefgesetzes Hypothekenpfandbriefe im Sinne des § 1 Absatz 1 Satz 2 Nummer 1 des Pfandbriefgesetzes nach den Bestimmungen des Pfandbriefgesetzes ausgeben, sonstige Schuldverschreibungen ausgeben;
 
-a)
+6. sich an Unternehmen beteiligen, wenn die Beteiligungen dazu dienen, die nach § 1 betriebenen Geschäfte zu fördern, und die Haftung der Bausparkasse aus den Beteiligungen durch die Rechtsform des Unternehmens beschränkt ist, mit der Maßgabe, daß die einzelne Beteiligung insgesamt den dritten Teil des Kapitals (Nennkapital, Summe der Kapitalanteile) des Unternehmens nicht übersteigen darf. Eine höhere Beteiligung ist zulässig, sofern der Geschäftszweck des Unternehmens gesetzlich oder satzungsmäßig im wesentlichen auf solche Geschäfte ausgerichtet ist, welche die Bausparkasse selbst betreiben darf; der Gesamtbetrag dieser Beteiligungen darf zwanzig vom Hundert des haftenden Eigenkapitals der Bausparkasse nicht übersteigen; die Regelungen des Absatzes 3 Satz 1 Nummer 8, Satz 2 und 3 bleiben hiervon unberührt;
 
-b)
+7. Gelddarlehen an Unternehmen gewähren, an denen die Bausparkasse beteiligt ist;
 
-c)
+8. die Gelegenheit zum Abschluss von Verträgen über den Erwerb, die Veräußerung oder die Nutzung von Grundstücken und Räumen nachweisen;
 
-d)
+9. Wertermittlungen und Standortanalysen sowie Finanzierungsberatungen auch unabhängig von der Gewährung von eigenen Darlehen durchführen;
 
-6.
+10. verfügbares Geld nach Maßgabe des Absatzes 3 anlegen;
 
-7.
-
-8.
-
-9.
-
-10.
-
-11.
+11. sonstige Geschäfte betreiben, die mit dem Bauspargeschäft oder mit den nach den Nummern 1 bis 10 zulässigen Geschäften in einem unmittelbaren Zusammenhang stehen, diesem nützlich und allenfalls mit einem geringen Risiko verbunden sind sowie keine neuen Geschäftskreise eröffnen.
 
 (2) Der Gesamtbetrag der Forderungen aus Darlehen nach Absatz 1 Nr. 2 und der Gewährleistungen nach Absatz 1 Nr. 4 darf den Gesamtbetrag der Bauspardarlehen und der Darlehen nach Absatz 1 Nr. 1 nicht übersteigen.
 
-(3) Verfügbares Geld dürfen die Bausparkassen anlegen in Die Anlagen nach Satz 1 Nummer 8 dürfen unter Berücksichtigung von Investmentanteilen nach Satz 1 Nummer 7 insgesamt 5 Prozent der Summe der Zuteilungsmasse gemäß § 1 Absatz 6 nicht übersteigen. Die Anlagen nach Satz 1 Nummer 8 bei demselben Unternehmen dürfen unter Berücksichtigung von Investmentanteilen nach Satz 1 Nummer 7 0,2 Prozent der Summe der Zuteilungsmasse gemäß § 1 Absatz 6 nicht übersteigen.
+(3) Verfügbares Geld dürfen die Bausparkassen anlegen in
 
-1.
+1. Guthaben bei dem einheitlichen Aufsichtsmechanismus nach Artikel 6 der Verordnung (EU) Nr. 1024/2013 oder einer staatlichen Aufsicht unterliegenden Kreditinstituten in der Europäischen Union, in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz,
 
-2.
+2. Namensschuldverschreibungen, die von den in Nummer 1 genannten Kreditinstituten ausgegeben werden,
 
-3.
+3. Einlagenzertifikate von den in Nummer 1 genannten Kreditinstituten, sofern diese Papiere eine restliche Laufzeit von höchstens zwölf Monaten haben,
 
-4.
+4. Schuldbuchforderungen, unverzinslichen Schatzanweisungen und Schatzwechseln des Bundes, seiner Sondervermögen und der Länder sowie vergleichbaren Schuldtiteln der Europäischen Union, ihrer Mitgliedstaaten oder anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum sowie der Schweiz,
 
-5.
+5. Schuldverschreibungen, a)die von einer der in Nummer 4 bezeichneten Stellen ausgegeben wurden,b)für deren Verzinsung und Rückzahlung eine der in Nummer 4 bezeichneten Stellen die Gewährleistung übernommen hat oderc)die zum Handel an einem organisierten Markt nach § 2 Absatz 11 des Wertpapierhandelsgesetzes zugelassen sind und bei denen die Erfüllung der Leistungspflichten aus der Schuldverschreibung während der gesamten Laufzeit gewährleistet erscheint, die von einer der in Nummer 4 bezeichneten Stellen ausgegeben wurden, für deren Verzinsung und Rückzahlung eine der in Nummer 4 bezeichneten Stellen die Gewährleistung übernommen hat oder die zum Handel an einem organisierten Markt nach § 2 Absatz 11 des Wertpapierhandelsgesetzes zugelassen sind und bei denen die Erfüllung der Leistungspflichten aus der Schuldverschreibung während der gesamten Laufzeit gewährleistet erscheint,
 
-a)
+6. Forderungen aus Gelddarlehen, über die ein Schuldschein ausgestellt wurde, sofern diese Forderungen nach dem Erwerb durch die Bausparkasse mindestens zweimal abgetreten werden können und das Darlehen gewährt wurde, a)einer der in Nummer 4 bezeichneten Stellen, einer anderen regionalen oder lokalen Gebietskörperschaft im Sinne des Artikels 115 der Verordnung (EU) Nr. 575/2013 eines Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz,b)geeigneten sonstigen Körperschaften oder Anstalten des öffentlichen Rechts im Inland oder in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz,c)Unternehmen, die Wertpapiere ausgegeben haben, die zum Handel an einem organisierten Markt nach § 2 Absatz 11 des Wertpapierhandelsgesetzes zugelassen sind, oderd)gegen Übernahme der Gewährleistung für die Verzinsung und Rückzahlung durch eine der in Nummer 4 bezeichneten Stellen;der Gesamtbetrag dieser Forderungen der Bausparkasse darf ihr haftendes Eigenkapital nicht übersteigen; einer der in Nummer 4 bezeichneten Stellen, einer anderen regionalen oder lokalen Gebietskörperschaft im Sinne des Artikels 115 der Verordnung (EU) Nr. 575/2013 eines Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz, geeigneten sonstigen Körperschaften oder Anstalten des öffentlichen Rechts im Inland oder in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz, Unternehmen, die Wertpapiere ausgegeben haben, die zum Handel an einem organisierten Markt nach § 2 Absatz 11 des Wertpapierhandelsgesetzes zugelassen sind, oder gegen Übernahme der Gewährleistung für die Verzinsung und Rückzahlung durch eine der in Nummer 4 bezeichneten Stellen;
 
-b)
+7. Investmentanteilen an einem nach dem Grundsatz der Risikomischung angelegten Vermögen, die von einer Kapitalverwaltungsgesellschaft oder von einer ausländischen Investmentgesellschaft, die jeweils zum Schutz der Anteilinhaber einer besonderen öffentlichen Aufsicht unterliegt, ausgegeben wurden, wenn nach den Vertragsbedingungen oder der Satzung der Kapitalverwaltungsgesellschaft oder der Investmentgesellschaft das Vermögen nur in den Schuldtiteln nach den Nummern 1 bis 6 und 8 sowie in Bankguthaben angelegt werden darf,
 
-c)
-
-6.
-
-a)
-
-b)
-
-c)
-
-d)
-
-7.
-
-8.
-
-a)
-
-b)
+8. Aktien, a)die voll eingezahlt sind undb)die zum Handel zugelassen oder an einem anderen organisierten Markt zugelassen oder in diesen einbezogen oder an einer Börse in einem Staat außerhalb des Europäischen Wirtschaftsraums zum Handel zugelassen oder dort an einem anderen organisierten Markt zugelassen oder in diesen einbezogen sind. die voll eingezahlt sind und die zum Handel zugelassen oder an einem anderen organisierten Markt zugelassen oder in diesen einbezogen oder an einer Börse in einem Staat außerhalb des Europäischen Wirtschaftsraums zum Handel zugelassen oder dort an einem anderen organisierten Markt zugelassen oder in diesen einbezogen sind.
 
 (3a) Soweit eine Bausparkasse im Rahmen der betrieblichen Altersversorgung in zulässiger Art und Weise sowie in zulässigem Umfang zur Erfüllung von Ansprüchen aus betrieblicher Altersversorgung einem Dritten Vermögensgegenstände überlässt, die ausschließlich der Erfüllung von Verbindlichkeiten aus Altersversorgungsverpflichtungen dienen und dem Zugriff aller übrigen Gläubiger entzogen sind, unterliegt der Dritte bei der Anlage dieser Vermögensgegenstände nicht den Beschränkungen des Absatzes 3. Die Vermögensgegenstände sind unter Berücksichtigung der Art und Dauer der Altersversorgungsverpflichtungen so anzulegen, dass möglichst große Sicherheit und Rentabilität unter Wahrung angemessener Mischung und Streuung sowie der Liquidität zur Erfüllung der Verbindlichkeiten erreicht wird.
 
@@ -188,69 +162,63 @@ b)
 
 (2) Die Allgemeinen Geschäftsgrundsätze müssen Bestimmungen enthalten über
 
-1.
+1. die Berechnungen für die Abwicklung der Bausparverträge unter Angabe der individuellen Sparer-Kassen-Leistungsverhältnisse (§ 5 Absatz 4 Nummer 1) und der zugehörigen Wartezeiten;
 
-2.
+2. die Zusammensetzung der Zuteilungsmasse, die Zuteilungstermine sowie die Voraussetzungen und die Ermittlung der Reihenfolge für die Zuteilung (Zuteilungsverfahren);
 
-2a.
+2a. die Berechnung der Mehrerträge aus der Anlage der Kollektivmittel nach § 1 Absatz 7 sowie die Verwendung des daraus gebildeten Sonderpostens "Fonds zur bauspartechnischen Absicherung";
 
-3.
+3. die Berechnung des Beleihungswertes der zu beleihenden Grundstücke;
 
-4.
+4. die Finanzierung von Maßnahmen zur Erschließung und zur Förderung von Wohngebieten;
 
-5.
+5. die Finanzierung von Gebäuden, die überwiegend oder ausschließlich gewerblichen Zwecken dienen, soweit dies nach § 1 zulässig ist;
 
-6.
+6. das Verfahren bei Rückzahlung der Einlagen gekündigter Bausparverträge;
 
-7.
+7. eine die Belange der Bausparer wahrende vereinfachte Abwicklung der Bausparverträge im Falle der Einstellung des Geschäftsbetriebes der Bausparkasse oder der Rücknahme der Erlaubnis zum Betrieb einer Bausparkasse durch die Aufsichtsbehörde.
 
 (3) Die Allgemeinen Bedingungen für Bausparverträge müssen Bestimmungen enthalten über
 
-1.
+1. die Höhe und Fälligkeit der Leistungen des Bausparers und der Bausparkasse sowie über die Rechtsfolgen, die bei Leistungsverzug eintreten;
 
-2.
+2. die Verzinsung der Bauspareinlagen und der Bauspardarlehen;
 
-3.
+3. die Höhe der Kosten und Gebühren, die den Bausparern berechnet werden;
 
-4.
+4. die Voraussetzungen und die Ermittlung der Reihenfolge für die Zuteilung und die Bedingungen für die Auszahlung der Bausparsumme;
 
-5.
+5. die Sicherung der Forderungen aus Bauspardarlehen;
 
-6.
+6. die Bedingungen, nach denen ein Bausparvertrag geteilt oder mit einem anderen Bausparvertrag zusammengelegt oder die Bausparsumme erhöht oder ermäßigt werden kann;
 
-7.
+7. die Bedingungen, nach denen Ansprüche aus dem Bausparvertrag abgetreten oder verpfändet werden können oder ein Bausparvertrag gekündigt werden kann, sowie die Rechtsfolgen, die sich aus der Kündigung des Bausparvertrages oder aus einer vereinfachten Abwicklung der Bausparverträge ergeben;
 
-8.
+8. das zuständige Gericht oder einen Schiedsvertrag;
 
-9.
+9. den Abschluß von Lebensversicherungen auf den Todesfall, die Höhe der Versicherungssumme und die vom Bausparer hierfür zu zahlenden Versicherungsbeiträge sowie die Möglichkeit der Anrechnung bereits bestehender Lebensversicherungen, wenn der Bausparer zum Abschluß einer solchen Versicherung verpflichtet ist.
 
 (4) Die Allgemeinen Geschäftsgrundsätze und die Allgemeinen Bedingungen für Bausparverträge
 
-1.
+1. müssen die Erfüllbarkeit der von der Bausparkasse übernommenen Verpflichtungen dauerhaft gewährleistet erscheinen lassen, insbesondere bezogen auf ihre gesamte Laufzeit ein angemessenes Verhältnis zwischen den Leistungen der Bausparer und denen der Bausparkasse (individuelles Sparer-Kassen-Leistungsverhältnis) aufweisen und
 
-2.
+2. dürfen keine Bestimmungen vorsehen, die die Zuteilung unangemessen hinausschieben, zu unangemessen langen Vertragslaufzeiten führen oder sonstige Belange der Bausparer nicht ausreichend wahren.
 
 (5) Legt eine Bausparkasse für die gleiche Zuteilungsmasse Allgemeine Geschäftsgrundsätze und Allgemeine Bedingungen für Bausparverträge unterschiedlichen Inhalts zugrunde, sind diese so zu gestalten, dass zwischen ihnen eine weitgehende Ausgewogenheit gewährleistet ist. Bei Tarifen, die eine Bausparkasse nicht mehr anbietet, kann hiervon in begründeten Ausnahmefällen abgewichen werden.
 
 ### § 6 — Zweckbindung
 
-(1) Die Zuteilungsmasse im Sinne des § 1 Absatz 6 darf nur für das Bauspargeschäft und zur Rückzahlung fremder Gelder, die der Zuteilungsmasse zugeführt worden sind, verwendet werden. Mittel aus der Zuteilungsmasse, die vorübergehend nicht für die Zuteilung verwendet werden können, darf die Bausparkasse zwischenzeitlich Die Zuteilungsmasse ist mit dem Ziel gleichmäßiger, möglichst kurzer Wartezeiten einzusetzen. Die Bundesanstalt kann eine Genehmigung nach Satz 2 Nummer 2 jederzeit widerrufen, insbesondere wenn die Voraussetzungen des Satzes 2 Nummer 2 nicht mehr vorliegen.
+(1) Die Zuteilungsmasse im Sinne des § 1 Absatz 6 darf nur für das Bauspargeschäft und zur Rückzahlung fremder Gelder, die der Zuteilungsmasse zugeführt worden sind, verwendet werden. Mittel aus der Zuteilungsmasse, die vorübergehend nicht für die Zuteilung verwendet werden können, darf die Bausparkasse zwischenzeitlich
 
-1.
+1. nach § 4 Absatz 3 anlegen sowie
 
-2.
+2. mit Genehmigung der Bundesanstalt zur Gewährung von Darlehen nach § 4 Absatz 1 Nummer 1 und 2 verwenden, wenn die Bausparkasse auf Grund einer nachhaltig gesicherten Liquidität ihrer Zuteilungsmasse ohne die Zuführung von Eigenmitteln und Fremdmitteln und ohne die Mittel des Fonds zur bauspartechnischen Absicherung jederzeit in der Lage ist, Ansprüche auf Auszahlung der Bauspardarlehen und Bauspareinlagen zu befriedigen.
 
-(2) Bausparkassen haben zur Wahrung der Belange der Bausparer einen Sonderposten „Fonds zur bauspartechnischen Absicherung“ zu bilden, der Folgendes absichert: Hierzu müssen Überschüsse aus einer Anlage der Kollektivmittel dem Sonderposten zugeführt werden, und zwar in Höhe des Unterschiedsbetrages zwischen dem erzielten Ertrag aus der Anlage der Kollektivmittel und dem Zinsertrag, der sich bei Anlage der gesamten Kollektivmittel in Bauspardarlehen ergeben hätte (Mehrerträge). Der Sonderposten ist von der Bausparkasse gemäß Satz 1 zu verwenden. Darüber hinaus kann er mit Genehmigung der Bundesanstalt unter hinreichender Wahrung der Belange der Bausparer verwendet werden, wenn dies geeignet und erforderlich erscheint, um ein bausparspezifisches Risiko für den nachhaltigen Betrieb des Bauspargeschäfts zu beseitigen. Ein bausparspezifisches Risiko für den nachhaltigen Betrieb des Bauspargeschäfts kann insbesondere vorliegen, wenn Die Bausparkasse darf am Ende eines Geschäftsjahres diesen Sonderposten auflösen, soweit er zu diesem Zeitpunkt 3 Prozent der Bauspareinlagen übersteigt.
+(2) Bausparkassen haben zur Wahrung der Belange der Bausparer einen Sonderposten „Fonds zur bauspartechnischen Absicherung“ zu bilden, der Folgendes absichert:
 
-1.
+1. die Gewährleistung gleichmäßiger, möglichst kurzer Wartezeiten und
 
-2.
-
-1.
-
-2.
-
-3.
+2. die für den nachhaltigen Betrieb des Bauspargeschäfts erforderliche kollektiv bedingte Zinsspanne.
 
 (3) Forderungen aus Bauspardarlehen und die zu ihrer Sicherheit dienenden Grundpfandrechte und sonstigen Sicherheiten dürfen nur für das Bauspargeschäft und für das Geschäft mit Vorfinanzierungs- und Zwischenfinanzierungskrediten veräußert, beliehen oder verpfändet werden. Das Gleiche gilt für Forderungen aus Vorfinanzierungs- und Zwischenfinanzierungskrediten sowie sonstigen Baudarlehen für wohnungswirtschaftliche Maßnahmen und die zu ihrer Sicherheit dienenden Grundpfandrechte und sonstigen Sicherheiten. § 4 Absatz 1 Nummer 5 Buchstabe c bleibt hiervon unberührt.
 
@@ -268,29 +236,29 @@ b)
 
 (2a) Forderungen im Sinne des Absatzes 1 Satz 1 können auch durch die Bestellung von Grundpfandrechten an einem Pfandobjekt in anderen als den in Absatz 2 erfaßten europäischen Staaten gesichert werden, sofern
 
-1.
+1. der Staat Vollmitglied der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung ist,
 
-2.
+2. das Grundpfandrecht in diesem Staat die Rückzahlung und Verzinsung der Forderungen sicherstellt und
 
-3.
+3. der Gesamtbetrag dieser Beleihungen das haftende Eigenkapital der Bausparkasse nicht übersteigt.
 
 (3) Von einer Sicherung durch Grundpfandrechte kann abgesehen werden, wenn ausreichende anderweitige Sicherheiten gestellt werden (Ersatzsicherheiten).
 
-(4) Von einer Sicherung durch Grundpfandrechte oder durch Ersatzsicherheiten kann abgesehen werden, wenn Wenn gesicherte Darlehen nach den Absätzen 1 bis 3 und Darlehen nach Nummer 1 oder 2 derselben Finanzierungsmaßnahme dienen sollen, so sind auch die Darlehen nach Nummer 1 oder Nummer 2 gemäß den Absätzen 1 bis 3 zu sichern.
+(4) Von einer Sicherung durch Grundpfandrechte oder durch Ersatzsicherheiten kann abgesehen werden, wenn
 
-1.
+1. wegen der geringen Höhe des Darlehensbetrages eine Erklärung des Darlehensnehmers als ausreichend erscheint, in der er sich gegenüber der Bausparkasse verpflichtet, eine mögliche Sicherung durch Grundpfandrechte nicht durch eine Verpfändung des als Pfandobjekt in Betracht kommenden Gegenstandes für eine andere Verbindlichkeit oder durch seine Veräußerung zu verhindern oder
 
-2.
+2. eine Sicherung wegen der geringen Höhe des Darlehensbetrages nicht erforderlich erscheint.
 
 (5) Von einer Sicherung kann abgesehen werden bei der Gewährung von Darlehen an
 
-1.
+1. inländische Körperschaften und Anstalten des öffentlichen Rechts,
 
-2.
+2. die Europäische Union, ihre Mitgliedstaaten, andere Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und die Europäische Investitionsbank,
 
-3.
+3. andere regionale und lokale Gebietskörperschaften im Sinne des Artikels 115 der Verordnung (EU) Nr. 575/2013 eines Mitgliedstaats der Europäischen Union und eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum,
 
-4.
+4. andere Darlehensnehmer, wenn für die Darlehen eine der in den Nummern 1 bis 3 bezeichneten Stellen die Gewährleistung übernommen hat.
 
 (6) Die Bundesanstalt kann zulassen, daß Pfandobjekte beliehen werden, die außerhalb der in den Absätzen 2 und 2a erfaßten Staaten belegen sind, wenn das zu bestellende Grundpfandrecht oder zusätzliche Sicherheiten eine Ausnahme gerechtfertigt erscheinen lassen.
 
@@ -316,75 +284,39 @@ b)
 
 ### § 10 — Erlaß von Rechtsverordnungen
 
-Im Interesse der Erfüllung der Verpflichtungen der Bausparkassen gegenüber ihren Gläubigern, insbesondere zur Sicherung der ihnen anvertrauten Vermögenswerte und einer ausreichenden Zahlungsbereitschaft für die Zuteilung der Bausparsummen sowie zur dauerhaften Aufrechterhaltung einer möglichst gleichmäßigen Zuteilungsfolge kann der Bundesminister der Finanzen nach Anhörung der Deutschen Bundesbank und der Spitzenverbände der Bausparkassen durch Rechtsverordnung Vorschriften erlassen über Der Bundesminister der Finanzen kann diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
+Im Interesse der Erfüllung der Verpflichtungen der Bausparkassen gegenüber ihren Gläubigern, insbesondere zur Sicherung der ihnen anvertrauten Vermögenswerte und einer ausreichenden Zahlungsbereitschaft für die Zuteilung der Bausparsummen sowie zur dauerhaften Aufrechterhaltung einer möglichst gleichmäßigen Zuteilungsfolge kann der Bundesminister der Finanzen nach Anhörung der Deutschen Bundesbank und der Spitzenverbände der Bausparkassen durch Rechtsverordnung Vorschriften erlassen über
 
-1.
+1. die näheren Voraussetzungen für die zwischenzeitliche Verwendung der Mittel der Zuteilungsmasse nach § 6 Absatz 1;
 
-2.
+2. den zulässigen Anteil von Bausparverträgen, die einen in der Rechtsverordnung festzusetzenden Betrag übersteigen, (Großbausparverträge) am gesamten nicht zugeteilten Vertragssummenbestand der Bausparverträge einer Bausparkasse und den zulässigen Anteil von Großbausparverträgen, die innerhalb eines Kalenderjahres abgeschlossen werden, an der gesamten Vertragssumme der in diesem Jahr von der Bausparkasse abgeschlossenen Bausparverträge; dabei gelten die innerhalb von zwölf Monaten abgeschlossenen Verträge eines Bausparers als ein Vertrag; auf die zulässigen Anteile von Großbausparverträgen sind die Bausparverträge, auf die der Bausparer die nach den Allgemeinen Geschäftsgrundsätzen für eine Zuteilung erforderliche Mindestansparsumme innerhalb des ersten Jahres nach Vertragsabschluß eingezahlt hat, anzurechnen;
 
-3.
+3. die Voraussetzungen für die Gewährung von Darlehen, die der Finanzierung von Bauvorhaben mit gewerblichem Charakter dienen, und den zulässigen Anteil solcher Darlehen am Gesamtbestand der Forderungen aus Darlehen einer Bausparkasse; der Anteil darf höchstens auf drei Prozent festgesetzt werden;
 
-4.
+4. Prozentsätze des haftenden Eigenkapitals der Bausparkassen, bis zu denen Darlehen nach § 4 Abs. 1 Nr. 7 insgesamt sowie an ein Unternehmen gewährt werden dürfen;
 
-4a.
+4a. Anlagen gemäß § 4 Absatz 3 Satz 1, insbesondere durch quantitative und qualitative Vorgaben, die auch Beschränkungen enthalten können, die über die Anforderungen in § 4 Absatz 3 Satz 2 und 3 hinausgehen, wenn dies zur Gewährleistung einer möglichst großen Sicherheit und Rentabilität bei jederzeitiger Liquidität unter Wahrung angemessener Mischung und Streuung erforderlich erscheint;
 
-5.
+5. taugliche Zusatzsicherheiten;
 
-6.
+6. taugliche Ersatzsicherheiten sowie den zulässigen Anteil von Darlehen, für die Ersatzsicherheiten gestellt werden, am Gesamtbestand der Forderungen aus Darlehen einer Bausparkasse;
 
-6a.
+6a. den Betrag, bis zu dem eine Bausparkasse im Einzelfall Darlehen ohne Sicherheit nach § 7 Absatz 4 Nummer 2 und Darlehen gegen Abgabe einer Verpflichtungserklärung nach § 7 Absatz 4 Nummer 1 gewähren darf, sowie den zulässigen Anteil solcher Darlehen am Gesamtbestand der Forderungen aus Darlehen einer Bausparkasse; der Anteil darf höchstens auf 30 Prozent festgesetzt werden;
 
-7.
+7. folgende Voraussetzungen und Anforderungen einschließlich der erforderlichen Begriffsbestimmungen: a)die näheren Voraussetzungen des § 5 Absatz 1 bis 3, insbesondere Festlegung von Mindestanforderungen an Bestimmungen in den Allgemeinen Geschäftsgrundsätzen und den Allgemeinen Bedingungen für Bausparverträge,b)die näheren Voraussetzungen des § 5 Absatz 4 und 5, etwa Bestimmungen zur tariflichen Zinsspanne,c)die Mindestvoraussetzungen für die Zuteilung zur Gewährleistung eines angemessenen individuellen Sparer-Kassen-Leistungsverhältnisses, insbesondere die Mindestansparung und die Bemessung einer Mindestbewertungszahl,d)die Voraussetzungen, unter denen die Bausparkasse ihre Zuteilungsvoraussetzungen anzupassen hat, sowiee)die Anforderungen an das individuelle Sparer-Kassen-Leistungsverhältnis, insbesondere die Festlegung von dessen Ober- und Untergrenzen; die näheren Voraussetzungen des § 5 Absatz 1 bis 3, insbesondere Festlegung von Mindestanforderungen an Bestimmungen in den Allgemeinen Geschäftsgrundsätzen und den Allgemeinen Bedingungen für Bausparverträge, die näheren Voraussetzungen des § 5 Absatz 4 und 5, etwa Bestimmungen zur tariflichen Zinsspanne, die Mindestvoraussetzungen für die Zuteilung zur Gewährleistung eines angemessenen individuellen Sparer-Kassen-Leistungsverhältnisses, insbesondere die Mindestansparung und die Bemessung einer Mindestbewertungszahl, die Voraussetzungen, unter denen die Bausparkasse ihre Zuteilungsvoraussetzungen anzupassen hat, sowie die Anforderungen an das individuelle Sparer-Kassen-Leistungsverhältnis, insbesondere die Festlegung von dessen Ober- und Untergrenzen;
 
-a)
+8. die Einzelheiten der Ermittlung der Mehrerträge nach § 6 Absatz 2 Satz 1 und 2 und ihrer Zuführung zum Sonderposten "Fonds zur bauspartechnischen Absicherung";
 
-b)
+9. die näheren Voraussetzungen, unter denen der Sonderposten „Fonds zur bauspartechnischen Absicherung“ gemäß § 6 Absatz 2 Satz 3 bis 5 verwendet werden kann, und wann dieser spätestens zu verwenden ist sowie die näheren Voraussetzungen, unter denen dieser Sonderposten nach § 6 Absatz 2 Satz 6 aufgelöst werden kann, und wann dieser spätestens aufzulösen ist;
 
-c)
+10. Verfahren und Methoden der Bausparkassen sowie die erforderlichen technischen Grundsätze der Bausparkassen, die zur Prüfung herangezogen werden können, ob a)im Sinne des § 5 Absatz 4 die Allgemeinen Geschäftsgrundsätze und die Allgemeinen Bedingungen für Bausparverträge die Erfüllbarkeit der von der Bausparkasse übernommenen Verpflichtungen dauerhaft gewährleistet erscheinen lassen und keine Bestimmungen vorsehen, die die Zuteilung unangemessen hinausschieben, zu unangemessen langen Vertragslaufzeiten führen oder sonstige Belange der Bausparer nicht ausreichend wahren würden,b)im Sinne des § 5 Absatz 5 Satz 1 zwischen Bauspartarifen eine weitgehende Ausgewogenheit gewährleistet ist,c)im Sinne des § 6 Absatz 1 Satz 2 Nummer 2 die Bausparkasse auf Grund einer nachhaltig gesicherten Liquidität ihrer Zuteilungsmasse ohne die Zuführung von Eigenmitteln und Fremdmitteln und ohne die Mittel des Fonds zur bauspartechnischen Absicherung jederzeit in der Lage ist, Ansprüche auf Auszahlung der Bauspardarlehen und Bauspareinlagen zu befriedigen,d)im Sinne des § 6 Absatz 2 Satz 4 die Belange der Bausparer hinreichend gewahrt werden,e)im Sinne des § 6 Absatz 2 Satz 4 ein bausparspezifisches Risiko für den nachhaltigen Betrieb des Bauspargeschäfts vorliegt,f)im Sinne des § 6 Absatz 2 Satz 5 Nummer 1 die Wartezeiten unangemessen lang sind,g)im Sinne des § 6 Absatz 2 Satz 5 Nummer 2 die Zuteilung nicht gewährleistet erscheint,h)im Sinne des § 6 Absatz 2 Satz 5 Nummer 3 die Erfüllung der von der Bausparkasse in den Bausparverträgen übernommenen Verpflichtungen nicht gewährleistet erscheint,i)im Sinne des § 9 Absatz 1 Satz 2 und § 14 Absatz 3 die Änderungen und Ergänzungen zur hinreichenden Wahrung der Belange der Bausparer erforderlich erscheinen,j)im Sinne des § 14 Absatz 1 Satz 4 durch die Übertragung die Belange der Bausparer der übertragenden oder der übernehmenden Bausparkasse gefährdet werden undk)im Sinne des § 16 Absatz 3 Satz 2 der Plan für eine geordnete Abwicklung unter Berücksichtigung der Belange der Bausparer keine Gewähr zu bieten scheint; im Sinne des § 5 Absatz 4 die Allgemeinen Geschäftsgrundsätze und die Allgemeinen Bedingungen für Bausparverträge die Erfüllbarkeit der von der Bausparkasse übernommenen Verpflichtungen dauerhaft gewährleistet erscheinen lassen und keine Bestimmungen vorsehen, die die Zuteilung unangemessen hinausschieben, zu unangemessen langen Vertragslaufzeiten führen oder sonstige Belange der Bausparer nicht ausreichend wahren würden, im Sinne des § 5 Absatz 5 Satz 1 zwischen Bauspartarifen eine weitgehende Ausgewogenheit gewährleistet ist, im Sinne des § 6 Absatz 1 Satz 2 Nummer 2 die Bausparkasse auf Grund einer nachhaltig gesicherten Liquidität ihrer Zuteilungsmasse ohne die Zuführung von Eigenmitteln und Fremdmitteln und ohne die Mittel des Fonds zur bauspartechnischen Absicherung jederzeit in der Lage ist, Ansprüche auf Auszahlung der Bauspardarlehen und Bauspareinlagen zu befriedigen, im Sinne des § 6 Absatz 2 Satz 4 die Belange der Bausparer hinreichend gewahrt werden, im Sinne des § 6 Absatz 2 Satz 4 ein bausparspezifisches Risiko für den nachhaltigen Betrieb des Bauspargeschäfts vorliegt, im Sinne des § 6 Absatz 2 Satz 5 Nummer 1 die Wartezeiten unangemessen lang sind, im Sinne des § 6 Absatz 2 Satz 5 Nummer 2 die Zuteilung nicht gewährleistet erscheint, im Sinne des § 6 Absatz 2 Satz 5 Nummer 3 die Erfüllung der von der Bausparkasse in den Bausparverträgen übernommenen Verpflichtungen nicht gewährleistet erscheint, im Sinne des § 9 Absatz 1 Satz 2 und § 14 Absatz 3 die Änderungen und Ergänzungen zur hinreichenden Wahrung der Belange der Bausparer erforderlich erscheinen, im Sinne des § 14 Absatz 1 Satz 4 durch die Übertragung die Belange der Bausparer der übertragenden oder der übernehmenden Bausparkasse gefährdet werden und im Sinne des § 16 Absatz 3 Satz 2 der Plan für eine geordnete Abwicklung unter Berücksichtigung der Belange der Bausparer keine Gewähr zu bieten scheint;
 
-d)
+11. nähere Bestimmungen über Art, Umfang, Zeitpunkt und Form der Unterlagen und Informationen, die die Bausparkasse nach § 3 Absatz 4 dem Antrag beizufügen hat;
 
-e)
+12. nähere Bestimmungen über Art, Umfang, Zeitpunkt und Form der kollektiven Lageberichte, die die Bausparkasse gemäß § 3 Absatz 5 zu erstellen hat, insbesondere die Festlegung von Szenarien, Größen, Parametern, Stichtagen und Berechnungsmethoden für den kollektiven Lagebericht einschließlich der Fortschreibungen und Prognosen, sowie die Bestimmung von Form und Frist, in der der kollektive Lagebericht vorzulegen ist;
 
-8.
+13. nähere Bestimmungen über die Anforderungen an ein bauspartechnisches Simulationsmodell nach § 8 Absatz 4 und dessen Anwendungsbereich sowie über Art, Umfang und Form der Ergebnisse eines bausparspezifischen Simulationsmodells und unbeschadet des § 3 Absatz 6 über den Zeitpunkt, zu dem diese Ergebnisse der Bundesanstalt vorzulegen sind;
 
-9.
-
-10.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-11.
-
-12.
-
-13.
-
-14.
-
-a)
-
-b)
+14. nähere Bestimmungen über a)den Gegenstand der nach § 8 Absatz 5 vorzunehmenden Prüfung sowie den Zeitpunkt ihrer Durchführung undb)den Inhalt der nach § 8 Absatz 5 zu erstellenden Prüfungsberichte und der Bestätigungsvermerke sowie über den Zeitpunkt, zu dem diese jeweils der Bundesanstalt einzureichen sind. den Gegenstand der nach § 8 Absatz 5 vorzunehmenden Prüfung sowie den Zeitpunkt ihrer Durchführung und den Inhalt der nach § 8 Absatz 5 zu erstellenden Prüfungsberichte und der Bestätigungsvermerke sowie über den Zeitpunkt, zu dem diese jeweils der Bundesanstalt einzureichen sind.
 
 ### § 11 — Abberufung von Geschäftsleitern
 
@@ -404,13 +336,13 @@ Die Bundesanstalt kann die Abberufung des Geschäftsleiters einer Bausparkasse a
 
 ### § 13 — Besondere Pflichten des Prüfers
 
-Bei der Prüfung des Jahresabschlusses einer Bausparkasse hat der Prüfer auch festzustellen, ob Das Ergebnis ist in den Prüfungsbericht aufzunehmen.
+Bei der Prüfung des Jahresabschlusses einer Bausparkasse hat der Prüfer auch festzustellen, ob
 
-1.
+1. die Bausparsummen den Allgemeinen Bedingungen für Bausparverträge entsprechend zugeteilt worden sind,
 
-2.
+2. die Bausparkasse die in § 5 Abs. 2 Nr. 2 bezeichnete Bestimmung der Allgemeinen Geschäftsgrundsätze und die in § 5 Abs. 3 Nr. 5 bezeichnete Bestimmung der Allgemeinen Bedingungen für Bausparverträge eingehalten hat und
 
-3.
+3. die Vorschriften einer nach § 10 erlassenen Rechtsverordnung beachtet worden sind.
 
 ### § 14 — Bestandsübertragung
 
@@ -432,25 +364,25 @@ Bei der Prüfung des Jahresabschlusses einer Bausparkasse hat der Prüfer auch f
 
 (2) Die Bausparkasse hat der Bundesanstalt einen Plan für die Abwicklung nach Absatz 1 vorzulegen, es sei denn, über ihr Vermögen wurde ein Insolvenzverfahren eröffnet. In dem Plan hat die Bausparkasse der Bundesanstalt insbesondere darzulegen,
 
-1.
+1. dass sie sich erfolglos um eine Übertragung ihres Bauspargeschäfts auf eine andere Bausparkasse nach § 14 Absatz 1 bemüht hat oder dass die Abwicklung keine Nachteile für die Bausparer bringt,
 
-2.
+2. ihren derzeitigen Bestand an Bausparverträgen mit den zugehörigen Aktiva und Passiva,
 
-3.
+3. wie die Bausparverträge mit den zugehörigen Aktiva und Passiva abgewickelt werden sollen, wobei sie die voraussichtlich noch erfolgenden Zuteilungen gesondert auszuweisen hat,
 
-4.
+4. in welcher Art, in welchem Umfang und zu welchem Zeitpunkt die Befriedigung ihrer Gläubiger erfolgt,
 
-5.
+5. ob und gegebenenfalls welche Verträge auf eine andere Bausparkasse übertragen werden und
 
-6.
+6. wann die Abwicklung voraussichtlich beendet sein wird.
 
 (3) Der Plan bedarf der Zustimmung der Bundesanstalt. Die Bundesanstalt kann die Zustimmung versagen, wenn der Plan für eine geordnete Abwicklung unter Berücksichtigung der Belange der Bausparer keine Gewähr zu bieten scheint. Dies kann insbesondere anzunehmen sein, wenn die Nachteile einer Abwicklung für die Bausparer durch eine Übertragung voraussichtlich vermieden werden können.
 
 (4) Die Verpflichtungen der Bausparkasse nach den Absätzen 1 und 2 sind Bestandteil der Abwicklung. Kommt die Bausparkasse diesen nicht oder nur unzureichend nach oder liegen die Voraussetzungen nach Absatz 3 Satz 2 vor und versagt die Bundesanstalt ihre Zustimmung zu dem Plan, so kann die Bundesanstalt Maßnahmen zur Sicherung einer geordneten Abwicklung unter Berücksichtigung der Belange der Bausparer treffen. Sie kann insbesondere
 
-1.
+1. nach Absatz 6 in Verbindung mit § 38 Absatz 2 des Kreditwesengesetzes Weisungen für die Abwicklung erlassen und die Bestellung von Abwicklern beantragen oder vornehmen sowie
 
-2.
+2. einen Plan für die Bausparkasse erstellen.
 
 (5) Stimmt die Bundesanstalt dem Plan zu oder erstellt sie einen Plan, so ist die Bausparkasse im Rahmen der geltenden gesetzlichen Vorschriften gemäß diesem Plan abzuwickeln. Für eine spätere Änderung des Planes gelten die Absätze 2 bis 6 entsprechend.
 

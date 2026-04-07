@@ -8,27 +8,25 @@ Luftfahrzeuge
 
 ### Eingangsformel
 
-DIE UNTERZEICHNERSTAATEN DIESES ÜBEREINKOMMENS - IN DER ERWÄGUNG, daß das in Chicago am 7. Dezember 1944 unterzeichnete Abkommen über die Internationale Zivilluftfahrt gewisse Bestimmungen über Lufttüchtigkeitszeugnisse enthält, IN DER ERWÄGUNG, daß dessenungeachtet kein mehrseitiges Übereinkommen über die Ausstellung und Gültigkeitserklärung von Lufttüchtigkeitszeugnissen für Luftfahrzeuge vorliegt, die von einem Staat in einen anderen eingeführt werden, IN DER ERWÄGUNG, daß es angebracht ist, derartige Vereinbarungen für diese Luftfahrzeuge zu treffen - HABEN FOLGENDES VEREINBART:
-
 ### Art 1
 
 Dieses Übereinkommen findet nur auf zivile Luftfahrzeuge Anwendung, die im Hoheitsgebiet eines Vertragsstaates hergestellt worden sind und von einem Vertragsstaat in einen anderen eingeführt werden, unter der Voraussetzung, daß diese Luftfahrzeuge
 
-a)
+a) in Übereinstimmung mit den im Herstellerstaat geltenden Gesetzen und sonstigen die Lufttüchtigkeit betreffenden Rechtsvorschriften hergestellt wurden,
 
-b)
+b) den anwendbaren Mindestanforderungen betreffend die Lufttüchtigkeit entsprechen, die auf Grund des Abkommens über die Internationale Zivilluftfahrt aufgestellt wurden,
 
-c)
+c) den Betriebsvorschriften des Einfuhrstaates entsprechen können und
 
-d)
+d) allen sonstigen besonderen Bedingungen genügen, die nach Maßgabe des Artikels 4 notifiziert werden.
 
 ### Art 2
 
 (1) Erhält ein Vertragsstaat einen Antrag auf Ausstellung eines Lufttüchtigkeitszeugnisses für ein Luftfahrzeug, das in sein Hoheitsgebiet eingeführt wurde oder wird und in der Folge dort eingetragen werden soll, so muß er vorbehaltlich der anderen Bestimmungen dieses Übereinkommens
 
-a)
+a) das vorliegende Lufttüchtigkeitszeugnis dieses Luftfahrzeugs für gültig erklären oder
 
-b)
+b) ein neues Lufttüchtigkeitszeugnis ausstellen.
 
 (2) Entscheidet sich der betreffende Staat für die Ausstellung eines neuen Lufttüchtigkeitszeugnisses, so kann er bis zu dessen Ausstellung das vorliegende Lufttüchtigkeitszeugnis für einen Zeitraum für gültig erklären, der sechs Monate oder die Gültigkeitsdauer des Lufttüchtigkeitszeugnisses nicht überschreitet, wobei jeweils der kürzere Zeitraum zu berücksichtigen ist.
 
@@ -40,21 +38,21 @@ Jedem Antrag auf Ausstellung oder Gültigkeitserklärung eines Lufttüchtigkeits
 
 Ein Vertragsstaat, dem ein Antrag nach Artikel 2 zugeht, kann die Gültigkeitserklärung des Lufttüchtigkeitszeugnisses von der Erfüllung besonderer Bedingungen abhängig machen, die jeweils bei der Ausstellung seiner eigenen Lufttüchtigkeitszeugnisse maßgebend und von allen Vertragsstaaten notifiziert worden sind. Die Ausübung dieses Rechts unterliegt der vorherigen Konsultation
 
-a)
+a) mit dem Staat, der das gültige Lufttüchtigkeitszeugnis des betreffenden Luftfahrzeugs ausgestellt hat, und
 
-b)
+b) auf Ersuchen dieses Staates auch mit dem Staat, in dessen Hoheitsgebiet das Luftfahrzeug hergestellt wurde.
 
 ### Art 5
 
 (1) Jeder Vertragsstaat behält sich das Recht vor, die Ausstellung oder Gültigkeitserklärung eines Lufttüchtigkeitszeugnisses für ein Luftfahrzeug, das in sein Hoheitsgebiet eingeführt wurde oder wird, aufzuschieben, wenn
 
-a)
+a) es den Anschein hat, daß das Luftfahrzeug nach weniger strengen Richtlinien als denjenigen instand gehalten wurde, die üblicherweise in diesem Staat anerkannt sind,
 
-b)
+b) es den Anschein hat, daß das Luftfahrzeug Merkmale aufweist, die für diesen Staat unannehmbar sind,
 
-c)
+c) es den Anschein hat, daß das Luftfahrzeug nicht den im Herstellerstaat geltenden Gesetzen und sonstigen die Lufttüchtigkeit betreffenden Rechtsvorschriften entspricht,
 
-d)
+d) das Luftfahrzeug unter Artikel 1 Buchstabe c fällt und gegenwärtig nicht in der Lage ist, den Betriebsvorschriften des Einfuhrstaates zu entsprechen.
 
 (2) In den in Absatz 1 Buchstabe a, b und c genannten Fällen kann ein Vertragsstaat die Ausstellung oder Gültigkeitserklärung eines Lufttüchtigkeitszeugnisses verweigern, nachdem er den Staat, der das vorliegende Lufttüchtigkeitszeugnis ausgestellt hat, und, falls dieser es verlangt, auch den Staat, in dessen Hoheitsgebiet das Luftfahrzeug hergestellt wurde, konsultiert hat.
 
@@ -70,13 +68,9 @@ Jeder Vertragsstaat unterrichtet, soweit irgend möglich, die anderen Vertragsst
 
 Ein Vertragsstaat, in dessen Hoheitsgebiet ein Luftfahrzeug hergestellt und aus dem es in einen anderen Vertragsstaat ausgeführt wurde, der in der Folge dieses Luftfahrzeug gemäß Artikel 2 mit einem gültigen Lufttüchtigkeitszeugnis versieht,
 
-a)
+a) teilt allen anderen Vertragsstaaten Einzelheiten der vorgeschriebenen Änderungen und Nachprüfungen des Luftfahrzeugs mit, die jeweils für das entsprechende Baumuster verbindlich sind und
 
-b)
-
-i)
-
-ii)
+b) übermittelt auf Ersuchen eines Vertragsstaates nach Möglichkeit Auskünfte und Stellungnahmen betreffendi)die Bedingungen für die erstmalige Ausstellung des Lufttüchtigkeitszeugnisses für dieses Luftfahrzeug und ii)größere Instandsetzungen, die nicht auf Grund der in dem Wartungshandbuch enthaltenen Instandsetzungsvorschriften für dieses Baumuster oder durch den Einbau von Ersatzteilen durchgeführt werden können. die Bedingungen für die erstmalige Ausstellung des Lufttüchtigkeitszeugnisses für dieses Luftfahrzeug und größere Instandsetzungen, die nicht auf Grund der in dem Wartungshandbuch enthaltenen Instandsetzungsvorschriften für dieses Baumuster oder durch den Einbau von Ersatzteilen durchgeführt werden können.
 
 ### Art 9
 
@@ -108,17 +102,17 @@ Das bei der Anwendung dieses Übereinkommens zu befolgende Verfahren kann Gegens
 
 (2) Die Kündigung wird am dreißigsten Tag nach Eingang dieser Notifikation bei der Internationalen Zivilluftfahrt-Organisation wirksam; sie bezieht sich nur auf den Staat, der das Übereinkommen kündigt, jedoch mit der Maßgabe,
 
-a)
+a) daß Artikel 8 nach dem Wirksamwerden der Kündigung noch fünf Jahre lang in bezug auf Luftfahrzeuge in Kraft bleibt, für die ein Lufttüchtigkeitszeugnis gemäß diesem Übereinkommen als gültig anerkannt oder ausgestellt wurde;
 
-b)
+b) daß die Artikel 1 bis 7 und 9 nach dem Wirksamwerden der Kündigung noch zwei Jahre lang in bezug auf Luftfahrzeuge in Kraft bleiben, für die vor diesem Zeitpunkt ein Antrag auf Gültigkeitserklärung oder Ausstellung eines Lufttüchtigkeitszeugnisses gemäß diesem Übereinkommen gestellt wurde.
 
 ### Art 14
 
 (1) Der Generalsekretär der Internationalen Zivilluftfahrt-Organisation macht dem Präsidenten und allen Mitgliedstaaten der Europäischen Zivilluftfahrt-Konferenz sowie allen anderen diesem Übereinkommen beigetretenen Staaten binnen 15 Tagen Mitteilung
 
-a)
+a) von der Hinterlegung jeder Ratifikations- oder Beitrittsurkunde sowie dem Zeitpunkt der Hinterlegung und
 
-b)
+b) vom Eingang jeder Kündigungsanzeige sowie dem Zeitpunkt des Eingangs.
 
 (2) Der Generalsekretär der Internationalen Zivilluftfahrt-Organisation notifiziert auch dem Präsidenten und den Mitgliedstaaten der Europäischen Zivilluftfahrt-Konferenz den Zeitpunkt des Inkrafttretens des Übereinkommens gemäß Artikel 11 Absatz 1.
 
@@ -136,18 +130,16 @@ Dieses Übereinkommen findet auf alle mutterländischen Hoheitsgebiete der Vertr
 
 ### Schlußformel
 
-ZU URKUND DESSEN haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. GESCHEHEN zu Paris am 22. April 1960 in einer Urschrift in englischer, französischer und spanischer Sprache, wobei jeder Wortlaut gleichermaßen verbindlich ist. Dieses Übereinkommen wird bei der Internationalen Zivilluftfahrt-Organisation hinterlegt; der Generalsekretär der Organisation übermittelt allen Mitgliedstaaten beglaubigte Abschriften.
-
 ### Anhang — des Übereinkommens
 
 Die Unterlagen, die in Übereinstimmung mit Artikel 3 des Übereinkommens, dem diese Liste beigefügt ist, vorgelegt werden müssen, sind
 
-a)
+a) ein Lufttüchtigkeitszeugnis, ausgestellt, erneuert oder für gültig erklärt innerhalb von sechzig Tagen unmittelbar vor dem Zeitpunkt, in dem der Antrag nach Artikel 2 des Übereinkommens gestellt wurde;
 
-b)
+b) das Flughandbuch des betreffenden Luftfahrzeugs oder ein entsprechender Ersatz, den der anwendbare Anhang zum Abkommen über die Internationale Zivilluftfahrt für bestimmte Kategorien von Luftfahrzeugen gestattet; diese Unterlagen müssen alle Angaben in einer Form enthalten, die es dem Luftfahrzeug erlaubt, den Betriebsvorschriften und etwaigen ergänzenden betrieblichen Begrenzungen nachzukommen, die in dem künftigen Eintragungsstaat in Kraft sind, es sei denn, daß dieses Erfordernis von diesem Staat ausdrücklich fallengelassen wird;
 
-c)
+c) das Wartungshandbuch für das betreffende Luftfahrzeug, das so zusammengestellt sein muß, daß es für die Aufrechterhaltung der Lufttüchtigkeit des Luftfahrzeugs hinreichende Auskunft gibt;
 
-d)
+d) eine Gewichtsliste, die das ermittelte "Leergewicht" des betreffenden Luftfahrzeugs und den entsprechenden Schwerpunkt zusammen mit den Grenzen, innerhalb derer der Schwerpunkt verlagert werden kann, enthält. Dieses "Leergewicht" umfaßt das Gewicht des festen Ballasts, des unverbrauchbaren Kraftstoffs, des nicht ablaßbaren Öls und der Gesamtmenge der Motor-Kühlstoffe und der hydraulischen Flüssigkeit und das Gewicht allen Zubehörs, aller Instrumente, Ausrüstung und Geräte (einschl. der Funkausrüstung und ihrer Gehäuse und anderer Teile, die als feststehend und unbeweglich angesehen werden). Die Gewichtsliste soll ferner enthalten eine Liste des Zubehörs, der Ausrüstung, der Geräte und anderer Teile, die als beweglich angesehen werden, zusammen mit Einzelheiten über ihr jeweiliges Gewicht und ihren Abstand zum angegebenen Schwerpunkt;
 
-e)
+e) solche Prüfungs- und Wartungsberichte, die notwendig sind, um es dem künftigen Eintragungsstaat zu ermöglichen festzustellen, ob das Luftfahrzeug den Lufttüchtigkeitsanforderungen dieses Staates genügen kann.

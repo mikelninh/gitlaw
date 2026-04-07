@@ -9,7 +9,23 @@ Vorschriften
 
 ### Inhaltsübersicht
 
-Artikel 1:Änderung des Bürgerlichen GesetzbuchsArtikel 2:Eherechtliche BestimmungenArtikel 3:Änderung der ZivilprozeßordnungArtikel 4:Änderung des Gesetzes über die Angelegenheiten der freiwilligen GerichtsbarkeitArtikel 5:Änderung der Verordnung über die Behandlung der Ehewohnung und des Hausrats nach der ScheidungArtikel 6:Änderung der KostenordnungArtikel 7:(weggefallen)Artikel 8:Änderung des RechtspflegergesetzesArtikel 9:Schlußvorschriften
+Artikel 1: Änderung des Bürgerlichen Gesetzbuchs
+
+Artikel 2: Eherechtliche Bestimmungen
+
+Artikel 3: Änderung der Zivilprozeßordnung
+
+Artikel 4: Änderung des Gesetzes über die Angelegenheiten der freiwilligen Gerichtsbarkeit
+
+Artikel 5: Änderung der Verordnung über die Behandlung der Ehewohnung und des Hausrats nach der Scheidung
+
+Artikel 6: Änderung der Kostenordnung
+
+Artikel 7: (weggefallen)
+
+Artikel 8: Änderung des Rechtspflegergesetzes
+
+Artikel 9: Schlußvorschriften
 
 ### Eingangsformel
 
@@ -27,7 +43,11 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 ### II. — Übergangsvorschriften
 
-1.bis 4 (weggefallen)5.Soweit im deutschen bürgerlichen Recht oder im deutschen Verfahrensrecht die Staatsangehörigkeit einer Person maßgebend ist, stehen den deutschen Staatsangehörigen die Personen gleich, die, ohne die deutsche Staatsangehörigkeit zu besitzen, Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes sind. Rechtskräftige gerichtliche Entscheidungen bleiben unberührt.6.(weggefallen)
+1. bis 4 (weggefallen)
+
+5. Soweit im deutschen bürgerlichen Recht oder im deutschen Verfahrensrecht die Staatsangehörigkeit einer Person maßgebend ist, stehen den deutschen Staatsangehörigen die Personen gleich, die, ohne die deutsche Staatsangehörigkeit zu besitzen, Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes sind. Rechtskräftige gerichtliche Entscheidungen bleiben unberührt.
+
+6. (weggefallen)
 
 ### III. — (weggefallen)
 

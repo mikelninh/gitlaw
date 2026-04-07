@@ -19,5 +19,3 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht erhält die anliegende Satz
 Diese Verordnung tritt am 1. Mai 2002 in Kraft.
 
 ### Anlage — (zu § 1)
-
-(Text der Satzung siehe: FinDASa)

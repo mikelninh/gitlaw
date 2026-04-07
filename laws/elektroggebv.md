@@ -12,27 +12,27 @@ Auf Grund des § 22 Absatz 1 und 4 Satz 1 des Bundesgebührengesetzes vom 7. Aug
 
 ### § 1 — Gebührenerhebung
 
-(1) Das Umweltbundesamt oder die nach § 40 Absatz 1 des Elektro- und Elektronikgerätegesetzes oder nach § 23 Absatz 1 des Batteriegesetzes beliehene Gemeinsame Stelle der Hersteller nach dem Elektro- und Elektronikgerätegesetz erhebt für gebührenfähige Leistungen des Umweltbundesamtes oder der beliehenen Gemeinsamen Stelle der Hersteller nach dem Elektro- und Elektronikgerätegesetz Gebühren nach Unterliegen die in Anlage genannten gebührenfähigen Leistungen der Umsatzsteuer, wird diese der Gebühr hinzugerechnet.
+(1) Das Umweltbundesamt oder die nach § 40 Absatz 1 des Elektro- und Elektronikgerätegesetzes oder nach § 23 Absatz 1 des Batteriegesetzes beliehene Gemeinsame Stelle der Hersteller nach dem Elektro- und Elektronikgerätegesetz erhebt für gebührenfähige Leistungen des Umweltbundesamtes oder der beliehenen Gemeinsamen Stelle der Hersteller nach dem Elektro- und Elektronikgerätegesetz Gebühren nach
 
-1.
+1. dem Bundesgebührengesetz vom 7. August 2013 (BGBl. I S. 3154), das zuletzt durch Artikel 2 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3019) geändert worden ist,
 
-2.
+2. den nachfolgenden Bestimmungen und
 
-3.
+3. dem zu dieser Verordnung als Anlage beigefügten Gebührenverzeichnis.
 
-(2) Verwaltungsakte des Umweltbundesamtes oder der nach § 40 Absatz 1 des Elektro- und Elektronikgerätegesetzes oder nach § 23 Absatz 1 des Batteriegesetzes beliehenen Gemeinsamen Stelle nach Absatz 1 Satz 1 können unbeschadet des § 24 Absatz 1 Satz 3 des Verwaltungsverfahrensgesetzes vollständig durch automatische Einrichtungen erlassen werden, sofern kein Anlass besteht, den Einzelfall durch Amtsträger zu bearbeiten.
+(2) Verwaltungsakte des Umweltbundesamtes oder der nach § 40 Absatz 1 des Elektro- und Elektronikgerätegesetzes oder nach § 23 Absatz 1 des Batteriegesetzes beliehenen Gemeinsamen Stelle nach Absatz 1 Satz 1 können unbeschadet des § 24 Absatz 1 Satz 3 des Verwaltungsverfahrensgesetzes vollständig durch automatische Einrichtungen erlassen werden, sofern kein Anlass besteht, den Einzelfall durch Amtsträger zu bearbeiten.
 
 ### § 2 — Gebührenermäßigung und Gebührenbefreiung
 
-(1) Das Umweltbundesamt oder die nach § 40 Absatz 1 des Elektro- und Elektronikgerätegesetzes oder nach § 23 Absatz 1 des Batteriegesetzes beliehene Gemeinsame Stelle der Hersteller nach dem Elektro- und Elektronikgerätegesetz kann auf Antrag die Gebühr nach den Nummern 1.1, 1.4 bis 1.6, 1.10, 2.1 und 3.1 der Anlage ermäßigen oder von der Gebühr befreien, wenn die Anwendung der Regelgebühr unter Berücksichtigung folgender Punkte unverhältnismäßig wäre: Der Antrag muss Angaben zu allen Kriterien nach Satz 1 Nummer 1 bis 4 enthalten.
+(1) Das Umweltbundesamt oder die nach § 40 Absatz 1 des Elektro- und Elektronikgerätegesetzes oder nach § 23 Absatz 1 des Batteriegesetzes beliehene Gemeinsame Stelle der Hersteller nach dem Elektro- und Elektronikgerätegesetz kann auf Antrag die Gebühr nach den Nummern 1.1, 1.4 bis 1.6, 1.10, 2.1 und 3.1 der Anlage ermäßigen oder von der Gebühr befreien, wenn die Anwendung der Regelgebühr unter Berücksichtigung folgender Punkte unverhältnismäßig wäre:
 
-1.
+1. Menge der in Verkehr gebrachten Geräte oder Batterien,
 
-2.
+2. wirtschaftlicher Wert der Registrierung für den Hersteller,
 
-3.
+3. voraussichtliche Entsorgungskosten und
 
-4.
+4. abfallwirtschaftliche Relevanz.
 
 (2) Das Umweltbundesamt oder die nach § 40 Absatz 1 des Elektro- und Elektronikgerätegesetzes oder nach § 23 Absatz 1 des Batteriegesetzes beliehene Gemeinsame Stelle der Hersteller nach dem Elektro- und Elektronikgerätegesetz kann auf Antrag die Gebühr nach der Nummer 1.14 ermäßigen oder von der Gebühr befreien, wenn der Standort der Erstbehandlungsanlage anerkannt ist als Werkstatt für behinderte Menschen nach dem Neunten Buch Sozialgesetzbuch. Dem Antrag muss eine Kopie des entsprechenden Anerkennungsbescheids der Bundesagentur für Arbeit beigefügt sein.
 
@@ -53,5 +53,3 @@ Auf Grund des § 22 Absatz 1 und 4 Satz 1 des Bundesgebührengesetzes vom 7. Aug
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Elektro- und Elektronikgerätegesetz-Kostenverordnung vom 6. Juli 2005 (BGBl. I S. 2020), die zuletzt durch Artikel 1 der Verordnung vom 28. November 2013 (BGBl. I S. 4094) geändert worden ist, außer Kraft.
 
 ### Anlage — (zu § 1 Absatz 1)
-
-> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 4.8.2025 I Nr. 187 +++) (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)

@@ -12,7 +12,17 @@ Auf Grund des § 12 Abs. 1 des Gesetzes über den Ladenschluß vom 28. November 
 
 ### § 1
 
-(1) Abweichend von der Vorschrift des § 3 Abs. 1 Nr. 1 des Gesetzes über den Ladenschluß dürfen an Sonn- und Feiertagen geöffnet sein für die Abgabe 1.von frischer Milch:Verkaufsstellen, für die Dauer von zwei Stunden, 2.von Bäcker- oder Konditorwaren:Verkaufsstellen von Betrieben, die Bäcker- oder Konditorwaren herstellen, für die Dauer von drei Stunden, 3.von Blumen:Verkaufsstellen, in denen in erheblichem Umfang Blumen feilgehalten werden, für die Dauer von zwei Stunden, jedoch am 1. November (Allerheiligen), am Volkstrauertag, am Buß- und Bettag, am Totensonntag und am 1. Adventssonntag für die Dauer von sechs Stunden, 4.von Zeitungen:Verkaufsstellen für Zeitungen für die Dauer von fünf Stunden. (2) Absatz 1 Nr. 1 bis 3 gilt nicht für die Abgabe am 2. Weihnachts-, Oster- und Pfingstfeiertag.(3) Die Vorschriften der §§ 5, 10, 11, 13 bis 15 des Gesetzes über den Ladenschluß bleiben unberührt.
+(1) Abweichend von der Vorschrift des § 3 Abs. 1 Nr. 1 des Gesetzes über den Ladenschluß dürfen an Sonn- und Feiertagen geöffnet sein für die Abgabe
+
+1. von frischer Milch: Verkaufsstellen, für die Dauer von zwei Stunden,
+
+2. von Bäcker- oder Konditorwaren: Verkaufsstellen von Betrieben, die Bäcker- oder Konditorwaren herstellen, für die Dauer von drei Stunden,
+
+3. von Blumen: Verkaufsstellen, in denen in erheblichem Umfang Blumen feilgehalten werden, für die Dauer von zwei Stunden, jedoch am 1. November (Allerheiligen), am Volkstrauertag, am Buß- und Bettag, am Totensonntag und am 1. Adventssonntag für die Dauer von sechs Stunden,
+
+4. von Zeitungen: Verkaufsstellen für Zeitungen für die Dauer von fünf Stunden.
+
+(2) Absatz 1 Nr. 1 bis 3 gilt nicht für die Abgabe am 2. Weihnachts-, Oster- und Pfingstfeiertag.
 
 > § 1 Abs. 3 Kursivdruck: § 13 aufgeh. durch Art. 1 Nr. 5 G v. 14.11.1960 I 845
 
@@ -25,5 +35,3 @@ Auf Grund des § 12 Abs. 1 des Gesetzes über den Ladenschluß vom 28. November 
 Diese Verordnung tritt am 1. Januar 1958 in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Arbeit und Sozialordnung

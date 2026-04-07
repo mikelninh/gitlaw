@@ -19,9 +19,9 @@ Der Betrieb von Bahnunternehmen des öffentlichen Verkehrs darf nur mit Genehmig
 
 Im Insolvenzverfahren über das Vermögen eines Bahneigentümers, der Bahnunternehmen des öffentlichen Verkehrs betreibt, kann die nach § 160 der Insolvenzordnung erforderliche Zustimmung des Gläubigerausschusses oder der Gläubigerversammlung auf Antrag des Insolvenzverwalters oder des Sachwalters durch die Aufsichtsbehörde ersetzt werden, wenn
 
-1.
+1. einzelne oder alle Bahnunternehmen freihändig veräußert werden sollen,
 
-2.
+2. Darlehen zur Fortführung des Betriebs aufgenommen werden sollen.
 
 ### § 3
 
@@ -54,5 +54,3 @@ Im Insolvenzverfahren über das Vermögen eines Bahneigentümers, der Bahnuntern
 ### § 7
 
 Die Bundesregierung erläßt mit Zustimmung des Bundesrates die zur Durchführung des Gesetzes erforderlichen Verwaltungsvorschriften.
-
-> §§ 5, 7: IdF d. § 9 Abs. 4 G v. 29.3.1951 I 225, 438; gelten in Berlin in der hier nicht wiedergegebenen ursprünglichen Fassung (§ 3 Abs. 2 G v. 10.7.1958 114-2)

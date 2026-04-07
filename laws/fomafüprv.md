@@ -15,21 +15,21 @@ Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 1 und 2 des Berufsbildungs
 
 (2) Ziel der Prüfung ist der Nachweis der Befähigung, fahrbare forstliche Arbeitsmaschinen und Forstspezialmaschinen fachgerecht unter Beachtung der Ansprüche einer nachhaltigen Waldwirtschaft zu führen, dabei quantitative und qualitative Anforderungen umzusetzen, den Maschineneinsatz zu organisieren, planen und kalkulieren sowie verfahrenstechnische Prozesse und Arbeitsabläufe zu steuern. Durch die Prüfung ist festzustellen, ob der Prüfling die notwendigen Fertigkeiten, Kenntnisse, Fähigkeiten und Erfahrungen besitzt, folgende Aufgaben eines Geprüften Forstmaschinenführers/einer Geprüften Forstmaschinenführerin beim Einsatz der Maschinen und in der forsttechnischen Arbeitsorganisation unter Berücksichtigung berufsbezogener Rechtsvorschriften, des Arbeits- und Gesundheitsschutzes und von Umweltaspekten sowie technischer und betriebswirtschaftlicher Zusammenhänge und von Maßnahmen zur Qualitätssicherung selbstständig wirtschaftlich und nachhaltig auszuführen und auf sich verändernde Rahmenbedingungen reagieren kann:
 
-1.
+1. Vorbereiten und Durchführen umweltverträglicher Maschineneinsätze unter besonderer Beachtung der Prozess- und Produktqualität sowie ökonomischer und ökologischer Zusammenhänge,
 
-2.
+2. Vorbereiten und Durchführen von Pflege- und Wartungsarbeiten, Erkennen und Analysieren von Fehlern, Beheben von Defekten und Einleiten von Reparaturmaßnahmen,
 
-3.
+3. Herstellen der Betriebs- und Verkehrssicherheit von Maschinen und Geräten,
 
-4.
+4. Führen der Maschinen im Straßenverkehr, Verladen und Entladen,
 
-5.
+5. Erfassen, Übermitteln, Kontrollieren und Bewerten elektronischer Daten; Anwenden von Mess- und Kontrollsystemen,
 
-6.
+6. Planen, Betreuen, Optimieren und Dokumentieren von Arbeitsprozessen beim Einsatz der Forstmaschinen,
 
-7.
+7. Leiten, Überwachen und Dokumentieren des Personal- und Maschineneinsatzes,
 
-8.
+8. Erstellen von Kalkulationen und Angeboten im Einsatzbereich.
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss „Geprüfter Forstmaschinenführer/Geprüfte Forstmaschinenführerin“.
 
@@ -37,15 +37,9 @@ Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 1 und 2 des Berufsbildungs
 
 (1) Zur Prüfung ist zuzulassen, wer
 
-1.
+1. im Besitz einer gültigen Fahrerlaubnis der Klasse T oder einer vergleichbaren Fahrerlaubnis ist und
 
-2.
-
-a)
-
-b)
-
-c)
+2. über a)eine mit Erfolg abgelegte Abschlussprüfung im staatlich anerkannten Ausbildungsberuf „Forstwirt/Forstwirtin“ oderb)eine mit Erfolg abgelegte Abschlussprüfung in einem anderen staatlich anerkannten Ausbildungsberuf und danach eine mindestens zweijährige einschlägige Berufspraxis in Betrieben und Unternehmen der Forstwirtschaft oderc)eine mindestens fünfjährige einschlägige Berufspraxis in Betrieben und Unternehmen der Forstwirtschaftverfügt. eine mit Erfolg abgelegte Abschlussprüfung im staatlich anerkannten Ausbildungsberuf „Forstwirt/Forstwirtin“ oder eine mit Erfolg abgelegte Abschlussprüfung in einem anderen staatlich anerkannten Ausbildungsberuf und danach eine mindestens zweijährige einschlägige Berufspraxis in Betrieben und Unternehmen der Forstwirtschaft oder eine mindestens fünfjährige einschlägige Berufspraxis in Betrieben und Unternehmen der Forstwirtschaft
 
 (2) Abweichend von den in Absatz 1 Nummer 2 genannten Voraussetzungen kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, dass Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben worden sind, die die Zulassung zur Prüfung rechtfertigen.
 
@@ -53,11 +47,11 @@ c)
 
 (1) Die Prüfung beinhaltet die Prüfungsteile
 
-1.
+1. Betriebsorganisation und umweltverträglicher Einsatz von Forsttechnik,
 
-2.
+2. Fällen und Aufarbeiten bei der hochmechanisierten Holzernte,
 
-3.
+3. Bringung von Holz, sonstige hochmechanisierte Verfahren.
 
 (2) Die Prüfung ist nach den §§ 4 bis 6 durchzuführen.
 
@@ -67,27 +61,27 @@ c)
 
 (2) Die Prüfung erstreckt sich auf folgende Inhalte:
 
-1.
+1. Anforderungen an den umweltverträglichen Forsttechnikeinsatz,
 
-2.
+2. verfahrenstechnische und technologische Grundlagen des Forstmaschineneinsatzes,
 
-3.
+3. Grundlagen der Forsttechnik und Einsatzplanung,
 
-4.
+4. Betriebskontrolle und Qualitätssicherung,
 
-5.
+5. Organisation der Arbeit sowie des Arbeitskräfte- und Maschineneinsatzes,
 
-6.
+6. Einsatzorganisation, Strukturieren von Arbeitsprozessen,
 
-7.
+7. Preiskalkulation und Angebotsgestaltung; ökonomische Kontrolle und Beurteilung der Produktionsverfahren,
 
-8.
+8. Arbeits- und Gesundheitsschutz,
 
-9.
+9. Wechselbeziehungen zwischen Maschineneinsatz und Umwelt sowie nachhaltiger Waldwirtschaft,
 
-10.
+10. Kundenberatung und -betreuung,
 
-11.
+11. rechtliche Bestimmungen des Maschineneinsatzes.
 
 (3) Die Prüfung besteht aus einem Arbeitsprojekt nach Absatz 4 und einer schriftlichen Prüfung nach Absatz 5.
 
@@ -101,23 +95,23 @@ c)
 
 (2) Die Prüfung erstreckt sich auf folgende Inhalte:
 
-1.
+1. Festlegen verfahrenstechnischer Abläufe,
 
-2.
+2. Herstellen der Betriebs- und Verkehrssicherheit,
 
-3.
+3. Führen der Maschinen im Straßenverkehr, Verladen und Entladen,
 
-4.
+4. Nutzen und Einsetzen von Mess- und Kontrollsystemen,
 
-5.
+5. Vorbereiten der Maschine für den Einsatz,
 
-6.
+6. Fällen und Aufarbeiten mit Vollerntern,
 
-7.
+7. Durchführen von Pflege- und Wartungsarbeiten,
 
-8.
+8. Erkennen und Beheben von Defekten,
 
-9.
+9. Analysieren von Fehlern und Einleiten von Reparaturmaßnahmen.
 
 (3) Die Prüfung besteht aus einer komplexen Arbeitsaufgabe und einem anschließenden Prüfungsgespräch. Das Prüfungsgespräch erstreckt sich auf den Verlauf und die Ergebnisse der Arbeitsaufgabe sowie auf die in Absatz 2 aufgeführten Inhalte.
 
@@ -129,21 +123,21 @@ c)
 
 (2) Die Prüfung erstreckt sich auf folgende Inhalte:
 
-1.
+1. Festlegen verfahrenstechnischer Abläufe,
 
-2.
+2. Herstellen der Betriebs- und Verkehrssicherheit von Forstmaschinen,
 
-3.
+3. Führen der Maschinen im Straßenverkehr, Verladen und Entladen,
 
-4.
+4. Vorbereiten der Maschinen für den Einsatz,
 
-5.
+5. Einsetzen von Forstmaschinen auch mit Auf- und Anbauaggregaten,
 
-6.
+6. Durchführen von Pflege- und Wartungsarbeiten an Forstmaschinen,
 
-7.
+7. Erkennen und Beheben von Defekten,
 
-8.
+8. Analysieren von Fehlern und Einleiten von Reparaturmaßnahmen.
 
 (3) Die Prüfung besteht aus zwei komplexen Arbeitsaufgaben und einem sich jeder Aufgabe anschließenden Prüfungsgespräch. Die Arbeitsaufgaben umfassen das Rücken und Poltern von Holz und die Anwendung sonstiger hochmechanisierter Verfahren unter Nutzung von fahrbaren forstlichen Arbeitsmaschinen mit Auf- oder Anbaugeräten. Alternativ können auch beide Arbeitsaufgaben die Anwendung sonstiger hochmechanisierter Verfahren umfassen. Das jeweilige Prüfungsgespräch erstreckt sich auf den Verlauf und die Ergebnisse der einzelnen Arbeitsaufgabe sowie auf die in Absatz 2 aufgeführten Inhalte.
 
@@ -182,13 +176,3 @@ bestanden.
 ### Anlage 2 — (zu § 8 Absatz 4)
 
 nach der Verordnung über die Anforderungen in der Prüfung zum anerkannten Abschluss Geprüfter Forstmaschinenführer/Geprüfte Forstmaschinenführerin vom 23. Juli 2009 (BGBl. I S. 2165) mit folgenden Ergebnissen bestanden/nicht bestanden:
-
-a)
-
-b)
-
-a)
-
-b)
-
-(Im Fall des § 7: „Herr/Frau … wurde nach § 7 der oben genannten Verordnung im Hinblick auf die am .................... in .................... vor .................... abgelegte Prüfung .................... in dem Prüfungsteil .................... freigestellt. “)

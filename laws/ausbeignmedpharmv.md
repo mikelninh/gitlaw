@@ -13,13 +13,13 @@ Auf Grund des § 30 Abs. 4 Nr. 3 des Berufsbildungsgesetzes vom 23. März 2005 (
 
 Die für die fachliche Eignung erforderlichen beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten besitzt für den Ausbildungsberuf
 
-1.
+1. Medizinischer Fachangestellter/Medizinische Fachangestellte, wer als Arzt oder als Ärztin approbiert ist,
 
-2.
+2. Zahnmedizinischer Fachangestellter/Zahnmedizinische Fachangestellte, wer als Zahnarzt oder als Zahnärztin approbiert ist,
 
-3.
+3. Tiermedizinischer Fachangestellter/Tiermedizinische Fachangestellte, wer als Tierarzt oder als Tierärztin approbiert ist,
 
-4.
+4. Pharmazeutisch-kaufmännischer Angestellter/Pharmazeutisch-kaufmännische Angestellte, wer als Apotheker oder als Apothekerin approbiert ist.
 
 ### § 2
 

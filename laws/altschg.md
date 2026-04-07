@@ -16,25 +16,25 @@ Den in diesem Gesetz bezeichneten Wohnungsunternehmen und privaten Vermietern mi
 
 ### § 2 — Antragberechtigte
 
-(1) Antragberechtigte sind: Die Antragberechtigten müssen die Altverbindlichkeiten gegenüber der kreditgebenden Bank spätestens bis zur Gewährung der Teilentlastung nach § 4 oder der Zinshilfe nach § 7 schriftlich anerkennen und hierüber einen rechtswirksamen Kreditvertrag abgeschlossen haben. Die in Satz 1 Nr. 1 bis 3 bezeichneten Antragberechtigten sind Wohnungsunternehmen im Sinne dieses Gesetzes.
+(1) Antragberechtigte sind:
 
-1.
+1. Kommunale Wohnungsunternehmen mit eigener Rechtspersönlichkeit, auf die die Wohnzwecken dienenden Grundstücke und das sonstige Wohnungsvermögen, die auf Grund des Einigungsvertrages und der zu seinem Vollzug erlassenen Gesetze auf die Gemeinden übergegangen sind, mit den zugehörigen Altverbindlichkeiten im Sinne des § 3 übertragen worden sind oder bei denen ihre Übertragung mit Sicherheit erwartet werden kann;
 
-2.
+2. Kommunen, soweit oder solange eine Übertragung ihrer Wohnzwecken dienenden Grundstücke und des sonstigen Wohnungsvermögens auf Wohnungsunternehmen, insbesondere wegen geringen Umfangs dieses Vermögens, betriebswirtschaftlich nicht vertretbar oder eine vollständige oder teilweise Übertragung, insbesondere wegen ausstehender Vermögenszuordnung und Sachenrechtsbereinigung, rechtlich noch nicht möglich ist;
 
-3.
+3. Wohnungsgenossenschaften;
 
-4.
+4. private Vermieter von Wohnraum, die die Verfügungsbefugnis über die Wohnung haben. Für Wohnungsbestände im Eigentum der Treuhandanstalt und ihrer Unternehmen sowie der Nachfolgeunternehmen der früheren landwirtschaftlichen Produktionsgenossenschaften einschließlich der ab 1. Juli 1990 bereits veräußerten Wohnungen werden Altschuldenhilfen (§§ 4 und 7) nicht gewährt.
 
 (2) Soweit ein Antragsteller Leistungen nach diesem Gesetz in Anspruch genommen hat, ist eine Rückforderung des Schuldanerkenntnisses entsprechend den Vorschriften des Bürgerlichen Gesetzbuches über die Herausgabe einer ungerechtfertigten Bereicherung ausgeschlossen.
 
 ### § 3 — Altverbindlichkeiten
 
-(1) Altverbindlichkeiten sind die Verpflichtungen der in § 2 Abs. 1 bezeichneten Wohnungsunternehmen und privaten Vermieter aus Krediten für Wohnungen, deren höchstzulässiger Mietzins sich aus § 11 Abs. 2 und 3 des Miethöhegesetzes in der bis zum 10. Juni 1995 geltenden Fassung ergibt und bei denen die Kredite Als Altverbindlichkeiten gelten auch die von den Förderinstituten der Länder nach den Vorschriften des Zweiten Wohnungsbaugesetzes bewilligten Baudarlehen, soweit diese zur Ablösung von Krediten für die in Satz 1 Nr. 2 bezeichneten Mietwohnungsbauvorhaben eingesetzt worden sind.
+(1) Altverbindlichkeiten sind die Verpflichtungen der in § 2 Abs. 1 bezeichneten Wohnungsunternehmen und privaten Vermieter aus Krediten für Wohnungen, deren höchstzulässiger Mietzins sich aus § 11 Abs. 2 und 3 des Miethöhegesetzes in der bis zum 10. Juni 1995 geltenden Fassung ergibt und bei denen die Kredite
 
-1.
+1. bis zum 30. Juni 1990 auf Grund von Rechtsvorschriften der Deutschen Demokratischen Republik für Wohnzwecke im Rahmen des volkseigenen und genossenschaftlichen Wohnungsbaus sowie zur Schaffung und Erhaltung oder Verbesserung von privatem Wohnraum in dem in Artikel 3 des Einigungsvertrages genannten Gebiet gewährt worden sind oder
 
-2.
+2. von Wohnungsunternehmen zur Finanzierung der vor dem 3. Oktober 1990 begonnenen Mietwohnungsbauvorhaben nach dem 30. Juni 1990 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet aufgenommen worden sind.
 
 (2) Zu den Altverbindlichkeiten gehören auch die den Wohnungsunternehmen bis zum 31. Dezember 1993 gestundeten Zinsen und Bürgschaftsgebühren.
 
@@ -50,13 +50,13 @@ Den in diesem Gesetz bezeichneten Wohnungsunternehmen und privaten Vermietern mi
 
 (4) Wohnflächen von Wohnungen, die nach dem Vermögensgesetz rückgegeben oder rückübertragen werden, werden bei der Ermittlung der nach Absatz 1 anzurechnenden Fläche nicht berücksichtigt. Soweit oder solange über den Antrag nach dem Vermögensgesetz nicht bestandskräftig entschieden ist, wird die nach dem Vermögensgesetz antragsbelastete Wohnfläche berücksichtigt, soweit die Wohngebäude nach dem 1. Januar 1949 errichtet wurden; der Bescheid über die Teilentlastung wird unter dem Vorbehalt der Entscheidung nach Satz 3 gewährt. Liegt bis zum 31. Dezember 1999 eine bestandskräftige Entscheidung über Anträge nach dem Vermögensgesetz vor, ergeht ein ergänzender Bescheid über die Teilentlastung unter Zugrundelegung der nach Maßgabe des Absatzes 1 zu berücksichtigenden Fläche; Entscheidungen nach dem Vermögensgesetz, die nach diesem Zeitpunkt bestandskräftig werden, haben keine Auswirkungen mehr auf die Teilentlastung. Im Falle eines nach Satz 2 bis zur Entscheidung nach Satz 3 zu hoch gewährten Teilentlastungsbetrages ist der Unterschiedsbetrag einschließlich vom Erblastentilgungsfonds hierfür gezahlter Zinsen an diesen zu erstatten; im Falle eines nach Satz 2 bis zur Entscheidung nach Satz 3 zu niedrig gewährten Teilentlastungsbetrages ist auch der erhöhte Teilentlastungsbetrag vom Erblastentilgungsfonds zu übernehmen, und die vom Wohnungsunternehmen für den Unterschiedsbetrag gezahlten Zinsen sind diesem vom Erblastentilgungsfonds zu erstatten. Die Bestimmung nach Satz 3 erfolgt von Amts wegen oder auf Antrag des Unternehmens, wenn über alle Anträge nach dem Vermögensgesetz bestandskräftig entschieden worden ist. Abweichend von Satz 5 kann nach Ablauf eines jeden Kalenderjahres ein ergänzender Teilentlastungsbescheid in entsprechender Anwendung der Sätze 3 und 4 erfolgen.
 
-(5) Die Teilentlastung wird Wohnungsunternehmen gewährt, wenn neben den Voraussetzungen der §§ 2 und 3 sowie der Absätze 1 bis 3 folgende weitere Voraussetzungen erfüllt sind: Zur Erfüllung der in Satz 1 enthaltenen Verpflichtungen hat das Wohnungsunternehmen seinem Antrag auf Teilentlastung insbesondere den letzten Jahresabschluß einschließlich Prüfungsbericht, einen Investitionsplan, eine Finanzvorschau sowie ein Privatisierungs- und Unternehmenskonzept, aus denen die beabsichtigten Privatisierungs-, Modernisierungs- und Instandsetzungsmaßnahmen ersichtlich sind, beizufügen. Die Antragberechtigung nach § 2 Abs. 1 Satz 1 Nr. 2 ist zu begründen.
+(5) Die Teilentlastung wird Wohnungsunternehmen gewährt, wenn neben den Voraussetzungen der §§ 2 und 3 sowie der Absätze 1 bis 3 folgende weitere Voraussetzungen erfüllt sind:
 
-1.
+1. Das Wohnungsunternehmen muß sich zur Veräußerung von Wohnraum und Abführung von Veräußerungserlösen nach Maßgabe des § 5 verpflichten;
 
-2.
+2. das Wohnungsunternehmen muß nach seinen rechtlichen und wirtschaftlichen Verhältnissen geeignet und in der Lage sein, seine Geschäfte ordnungsgemäß zu führen; insbesondere muß sein Unternehmenskonzept eine zügige Privatisierung, Modernisierung und Instandsetzung seiner Wohnungsbestände vorsehen;
 
-3.
+3. das Wohnungsunternehmen muß sich, sofern es nicht bereits kraft Gesetzes einer jährlichen Prüfung seiner Geschäftstätigkeit und seiner wirtschaftlichen Verhältnisse unterliegt, einer derartigen Prüfung unterwerfen.
 
 (6) Soweit dem Wohnungsunternehmen einer Ausgleichsforderung nach den §§ 24, 26 Abs. 3 des D-Markbilanzgesetzes zusteht, ist der Teilentlastungsbetrag auf die Ausgleichsforderung anzurechnen. § 36 Abs. 4 Satz 2 des D-Markbilanzgesetzes ist insoweit nicht anzuwenden.
 
@@ -71,27 +71,17 @@ von Erlösen
 
 (1) Das Wohnungsunternehmen hat mindestens 15 vom Hundert seines zahlenmäßigen Wohnungsbestandes mit mindestens 15 vom Hundert seiner Wohnfläche nach dem Stand vom 1. Januar 1993 bis 31. Dezember 1999 zu privatisieren oder im Falle der Wohnungsgenossenschaften zu veräußern; dabei sind die Mieter zur Bildung individuellen Wohneigentums vorrangig zu berücksichtigen. Der Veräußerung steht es gleich, wenn nach dem 31. Dezember 1996 Erbbaurechte oder Wohnungserbbaurechte nach § 30 des Wohnungseigentumsgesetzes mit einer Dauer von mindestens 75 Jahren begründet und übertragen werden. Privatisierungen und Veräußerungen ab dem 3. Oktober 1990 sind anzurechnen. Bei der Bestimmung des nach Satz 1 zu privatisierenden oder zu veräußernden Wohnungsbestandes werden Wohnungen, die nach dem Vermögensgesetz rückgegeben worden sind oder rückübertragen werden, nicht berücksichtigt.
 
-(2) Das Wohnungsunternehmen hat folgende Erlösanteile aus der Veräußerung von 15 vom Hundert seines zahlenmäßigen Wohnungsbestandes mit 15 vom Hundert seiner Wohnfläche nach dem Stand vom 1. Januar 1993, die 150 Deutsche Mark je Quadratmeter verkaufter Wohnfläche zuzüglich der in Verbindung mit dem Verkauf entstandenen Sanierungskosten übersteigen, bis zur Höhe des Teilentlastungsbetrages nach § 4 an den Erblastentilgungsfonds bei Veräußerung abzuführen: Veräußerungserlös im Sinne von Satz 1 ist im Fall der Erbbaurechtsbestellung der vom Erbbauberechtigten zu entrichtende Preis für das Gebäude oder den Teil eines Gebäudes zuzüglich des Barwertes des vereinbarten Erbbauzinses. Maßgebend für die Einhaltung der Frist ist der Zeitpunkt, zu dem der Eigentumsumschreibungsantrag beim Grundbuchamt gestellt worden ist, wenn es auf Grund des gestellten Antrages zur Eigentumsumschreibung kommt. Hat das Unternehmen das Fehlen der Voraussetzungen für die Antragstellung auf Eigentumsumschreibung nicht zu vertreten, so gilt als maßgeblicher Zeitpunkt für die Einhaltung der Frist für Kauf- oder Erbbaurechtsbestellungsverträge, die nach dem 31. Dezember 1996 abgeschlossen worden sind, auch der Zeitpunkt des Vertragsabschlusses, wenn
+(2) Das Wohnungsunternehmen hat folgende Erlösanteile aus der Veräußerung von 15 vom Hundert seines zahlenmäßigen Wohnungsbestandes mit 15 vom Hundert seiner Wohnfläche nach dem Stand vom 1. Januar 1993, die 150 Deutsche Mark je Quadratmeter verkaufter Wohnfläche zuzüglich der in Verbindung mit dem Verkauf entstandenen Sanierungskosten übersteigen, bis zur Höhe des Teilentlastungsbetrages nach § 4 an den Erblastentilgungsfonds bei Veräußerung abzuführen:
 
-1.
+1. bis zum 31. Dezember 1994 in Höhe von 20 vom Hundert,
 
-2.
+2. vom 1. Januar 1995 bis zum 31. Dezember 1995 in Höhe von 30 vom Hundert,
 
-3.
+3. vom 1. Januar 1996 bis zum 31. Dezember 1996 in Höhe von 40 vom Hundert,
 
-4.
+4. vom 1. Januar 1997 bis zum 31. Dezember 1998 in Höhe von 45 vom Hundert,
 
-5.
-
-1.
-
-a)
-
-b)
-
-c)
-
-2.
+5. vom 1. Januar 1999 bis zum 31. Dezember 1999 in Höhe von 50 vom Hundert.
 
 (2a) Die Verpflichtung nach Absatz 1 kann auf Antrag des Wohnungsunternehmens bis zum 31. Dezember 2003 teilweise oder vollständig durch ersatzweise Zahlungen an den Erblastentilgungsfonds abgelöst werden. Die Höhe dieser Zahlungen bestimmt sich nach der vom Wohnungsunternehmen zur Erfüllung der Verpflichtung nach Absatz 1 unter Berücksichtigung sämtlicher bisheriger Privatisierungen noch zu veräußernden Quadratmeter Wohnfläche multipliziert mit dem Betrag von 200 Deutsche Mark.
 
@@ -144,15 +134,15 @@ Wenn und soweit die Durchführung dieses Gesetzes es erfordert, sind Wohnungsunt
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über Einzelheiten der Ermittlung der Höhe des Teilentlastungsbetrages nach § 4, der Zinshilfe nach § 7, der Abführung von Erlösen nach § 5 sowie der Anordnung und Festsetzung von Erstattungsansprüchen nach § 4 Abs. 7 und § 5 Abs. 3 zu erlassen.
 
-(2) Die Länder werden ermächtigt, durch landesrechtliche Vorschriften für die Zeit nach dem Außerkrafttreten des Belegungsrechtsgesetzes Vorschriften über Belegungsbindungen für Wohnungen der Wohnungsunternehmen zu erlassen, denen Altschuldenhilfen (§§ 4 und 7) gewährt werden. Dabei sind nähere Vorschriften zu erlassen über Den Belegungsbindungen unterliegen nicht die nach § 5 privatisierten oder veräußerten und die nach dem Vermögensgesetz rückgegebenen oder rückübertragenen Wohnungen.
+(2) Die Länder werden ermächtigt, durch landesrechtliche Vorschriften für die Zeit nach dem Außerkrafttreten des Belegungsrechtsgesetzes Vorschriften über Belegungsbindungen für Wohnungen der Wohnungsunternehmen zu erlassen, denen Altschuldenhilfen (§§ 4 und 7) gewährt werden. Dabei sind nähere Vorschriften zu erlassen über
 
-1.
+1. die Geltung während der Zeit vom 1. Januar 1996 bis 31. Dezember 2003, längstens bis 31. Dezember 2013,
 
-2.
+2. die Festlegung eines nach den jeweiligen örtlichen Wohnungsmarktverhältnissen zur angemessenen Versorgung der Bevölkerung erforderlichen Anteils von bis zu 50 vom Hundert der Wohnungen nach Satz 1,
 
-3.
+3. die entsprechende Anwendung der §§ 2 bis 7, 12, 18, 19 bis 21, 24 bis 27 und 29 des Wohnungsbindungsgesetzes,
 
-4.
+4. eine zulässige Überschreitung der in § 25 Abs. 1 des Zweiten Wohnungsbaugesetzes bestimmten Einkommensgrenzen um bis zu 60 vom Hundert; für die Ermittlung des Gesamteinkommens sind die §§ 25 bis 25d des Zweitens Wohnungsbaugesetzes anzuwenden, jedoch erhöhen sich die Freibeträge nach § 25d Abs. 1 des Zweiten Wohnungsbaugesetzes um 60 vom Hundert.
 
 ### § 13 — Überleitungsvorschrift zum Wohnraumförderungsgesetz
 

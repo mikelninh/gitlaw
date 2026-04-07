@@ -12,8 +12,6 @@ Auf Grund des § 50 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artik
 
 ### § 1 — Gleichstellung von Prüfungszeugnissen
 
-Die vom 1. Januar 2018 bis zum Ablauf des 31. Juli 2026 von der Staatlichen Zeichenakademie Hanau erteilten Prüfungszeugnisse über erfolgreich abgelegte Abschlussprüfungen werden mit den Zeugnissen über das Bestehen der Abschluss- oder Gesellenprüfung in Ausbildungsberufen nach Maßgabe der nachstehenden Auflistung gleichgestellt:Bezeichnung des Prüfungszeugnissesder Zeichenakademie Hanau:Ausbildungsberuf, für den gleichgestellt wird:Abschlussprüfung als Goldschmied/Goldschmiedin Fachrichtung: – SchmuckGoldschmied und Goldschmiedin im Gewerbe der Anlage B Abschnitt 1 Nummer 11 „Gold- und Silberschmiede“ der Handwerksordnung Fachrichtung: – SchmuckAbschlussprüfung als Silberschmied/Silberschmiedin Schwerpunkt: – MetallSilberschmied und Silberschmiedin im Gewerbe der Anlage B Abschnitt 1 Nummer 11 „Gold- und Silberschmiede“ der Handwerksordnung Schwerpunkt: – MetallAbschlussprüfung als Edelsteinfasser/EdelsteinfasserinEdelsteinfasser/Edelsteinfasserin
-
 ### § 2 — Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft und am 1. August 2026 außer Kraft.

@@ -12,9 +12,9 @@
 
 Der Antrag, bei einer Hypothek einen Umstellungsbetrag, der sich auf mehr als eine Deutsche Mark für je zehn Reichsmark beläuft, in das Grundbuch einzutragen, kann nach dem Ende des Jahres 1964 nur noch gestellt werden, wenn
 
-a)
+a) ein Verfahren nach § 6 der Vierzigsten Durchführungsverordnung zum Umstellungsgesetz, in dem über die Umstellung der Hypothek zu entscheiden ist, (Umstellungsverfahren) vor dem Ende des Jahres 1964 eingeleitet, aber noch nicht durch rechtskräftige Entscheidung oder anderweitig beendet ist oder
 
-b)
+b) die Voraussetzungen, unter denen die Umstellung der Hypothek sich nach § 2 Nr. 4 der Vierzigsten Durchführungsverordnung zum Umstellungsgesetz richtet, vorliegen und seit dem Ende des Jahres, in dem sie eingetreten sind, nicht mehr als drei Jahre verstrichen sind.
 
 ### § 2
 
@@ -32,21 +32,21 @@ b)
 
 Nach dem Ende des Jahres 1965 darf bei einer Hypothek ein Umstellungsbetrag, der sich auf mehr als eine Deutsche Mark für je zehn Reichsmark beläuft, in das Grundbuch nur eingetragen werden, wenn
 
-a)
+a) zur Zeit der Eintragung bei der Hypothek ein Umstellungsschutzvermerk eingetragen ist oder
 
-b)
+b) ein nach § 1 Buchstabe b zulässiger Eintragungsantrag gestellt worden ist.
 
 ### § 4
 
 (1) Ein Umstellungsschutzvermerk wird von Amts wegen eingetragen, wenn ein Eintragungsantrag des in § 1 bezeichneten Inhalts vor dem 1. November 1965 nicht erledigt wird. Ist in einem Verfahren über einen Antrag des in § 1 bezeichneten Inhalts oder in einem vor dem Ende des Jahres 1964 eingeleiteten Umstellungsverfahren ein Rechtsmittel oder ein Antrag auf Wiedereinsetzung in den vorigen Stand anhängig und wird über das Rechtsmittel oder den Antrag vor dem 1. November 1965 nicht entschieden, so hat das Gericht das Grundbuchamt um die Eintragung eines Umstellungsschutzvermerkes für den Fall zu ersuchen, daß ein solcher Vermerk bei der Hypothek noch nicht eingetragen ist.
 
-(2) Ein Umstellungsschutzvermerk wird auf Antrag eines Beteiligten in das Grundbuch eingetragen, wenn Ein Antrag auf Eintragung eines Umstellungsschutzvermerkes darf nicht aus dem Grund zurückgewiesen werden, weil er vor Erledigung eines Eintragungsantrags des in § 1 bezeichneten Inhalts für den Fall der Zurückweisung dieses Antrags gestellt worden ist. Wird vor Erledigung eines Eintragungsantrags des in § 1 bezeichneten Inhalts ein Antrag auf Eintragung eines Umstellungsbetrages, der sich auf eine Deutsche Mark für je zehn Reichsmark beläuft, gestellt, so wird der spätere Antrag erst erledigt, wenn auf den ersten Antrag der Umstellungsbetrag eingetragen oder der erste Antrag rechtskräftig zurückgewiesen worden oder anderweitig erledigt ist.
+(2) Ein Umstellungsschutzvermerk wird auf Antrag eines Beteiligten in das Grundbuch eingetragen, wenn
 
-a)
+a) ein Eintragungsantrag des in § 1 bezeichneten Inhalts vom Grundbuchamt zurückgewiesen ist und die zurückweisende Verfügung noch nicht rechtskräftig ist oder im Falle der Versäumung der Beschwerdefrist über einen Antrag auf Wiedereinsetzung in den vorigen Stand noch nicht rechtskräftig entschieden ist oder
 
-b)
+b) ein vor dem Ende des Jahres 1964 eingeleitetes Umstellungsverfahren anhängig oder in einem solchen Verfahren die Entscheidung über die Umstellung noch nicht rechtskräftig oder im Falle der Versäumung der Beschwerdefrist über einen Antrag auf Wiedereinsetzung in den vorigen Stand noch nicht rechtskräftig entschieden ist oder
 
-c)
+c) die Voraussetzungen vorliegen oder noch eintreten können, unter denen die Umstellung der Hypothek sich nach § 2 Nr. 4 der Vierzigsten Durchführungsverordnung zum Umstellungsgesetz richtet, es sei denn, daß ein Eintragungsantrag des in § 1 bezeichneten Inhalts keinen Erfolg mehr haben könnte.
 
 (3) Zum Nachweis der Voraussetzungen des Absatzes 2 Satz 1 Buchstaben a und b genügt ein Zeugnis des Gerichts, bei dem das Verfahren anhängig ist oder war, in der Form des § 29 Abs. 3 der Grundbuchordnung. Im Falle des Absatzes 2 Satz 1 Buchstabe c bedarf es lediglich des Nachweises, daß der, dem die Hypothek bei Ablauf des 20. Juni 1948 zustand oder zur Sicherung abgetreten oder verpfändet war, Angehöriger der Vereinten Nationen im Sinne des § 13 Abs. 4 des Umstellungsgesetzes in der Fassung des Gesetzes Nr. 55 der ehemaligen Alliierten Hohen Kommission ist.
 
@@ -60,13 +60,13 @@ c)
 
 ### § 5
 
-(1) Der Umstellungsschutzvermerk wird von Amts wegen im Grundbuch gelöscht, wenn jedoch in den Fällen der Buchstaben b und c nicht, wenn der Umstellungsschutzvermerk auf Grund des § 4 Abs. 2 Satz 1 Buchstabe c eingetragen ist.
+(1) Der Umstellungsschutzvermerk wird von Amts wegen im Grundbuch gelöscht, wenn
 
-a)
+a) der Umstellungsbetrag eingetragen wird oder
 
-b)
+b) der Antrag des in § 1 bezeichneten Inhalts oder der Antrag auf Wiedereinsetzung in den vorigen Stand zurückgenommen oder rechtskräftig zurückgewiesen worden ist oder
 
-c)
+c) das Umstellungsverfahren auf andere Weise als durch die rechtskräftige Entscheidung, daß der Umstellungsbetrag sich auf mehr als eine Deutsche Mark für je zehn Reichsmark beläuft, beendet ist oder der Antrag auf Wiedereinsetzung in den vorigen Stand zurückgenommen oder rechtskräftig zurückgewiesen worden ist,
 
 (2) Sind die in Absatz 1 Buchstabe c bezeichneten Voraussetzungen eingetreten, so hat das Amtsgericht dies dem Grundbuchamt mitzuteilen.
 
@@ -112,9 +112,9 @@ Zur Eintragung oder Löschung des Umstellungsschutzvermerkes bei einer Hypothek,
 
 (1) Hat die dem Gläubiger zustehende Hypothek sich auf Grund des § 7 Abs. 1 vermindert, so kann der Gläubiger verlangen, daß der Eigentümer ihm in Höhe der Verminderung eine weitere Hypothek an nächstbereiter Rangstelle bestellt. Ist ein anderer als derjenige, der bei Eintritt der Verminderung der Hypothek Eigentümer gewesen ist, Eigentümer des Grundstücks, so kann jedoch der Anspruch nur geltend gemacht werden
 
-a)
+a) im Falle des Erwerbes durch Gesamtrechtsnachfolge oder
 
-b)
+b) im Falle des Erwerbes durch Einzelrechtsnachfolge mittels Rechtsgeschäfts, wenn in dem nach § 892 Abs. 2 des Bürgerlichen Gesetzbuches maßgebenden Zeitpunkt der Erwerber das Bestehen des Anspruchs kannte oder die Verminderung der Hypothek noch nicht eingetreten war.
 
 (2) Der Gläubiger hat dem Eigentümer die Auslagen zu erstatten, die mit der Bestellung der weiteren Hypothek verbunden sind.
 
@@ -157,7 +157,7 @@ Grundpfandrechte und Schiffshypotheken
 
 ### § 18
 
-(1) Wird die Löschung einer umgestellten Hypothek oder Grundschuld beantragt, deren Geldbetrag 3 000 Euro nicht übersteigt, so bedürfen die erforderlichen Erklärungen und Nachweise nicht der Form des § 29 der Grundbuchordnung. Bei dem Nachweis einer Erbfolge oder des Bestehens einer fortgesetzten Gütergemeinschaft kann das Grundbuchamt von den in § 35 Abs. 1 und 2 der Grundbuchordnung genannten Beweismitteln absehen und sich mit anderen Beweismitteln, für welche die Form des § 29 der Grundbuchordnung nicht erforderlich ist, begnügen, wenn die Beschaffung des Erbscheins, des Europäischen Nachlasszeugnisses oder des Zeugnisses nach § 1507 des Bürgerlichen Gesetzbuches nur mit unverhältnismäßigem Aufwand an Kosten oder Mühe möglich ist; der Antragsteller kann auch zur Versicherung an Eides Statt zugelassen werden.
+(1) Wird die Löschung einer umgestellten Hypothek oder Grundschuld beantragt, deren Geldbetrag 3 000 Euro nicht übersteigt, so bedürfen die erforderlichen Erklärungen und Nachweise nicht der Form des § 29 der Grundbuchordnung. Bei dem Nachweis einer Erbfolge oder des Bestehens einer fortgesetzten Gütergemeinschaft kann das Grundbuchamt von den in § 35 Abs. 1 und 2 der Grundbuchordnung genannten Beweismitteln absehen und sich mit anderen Beweismitteln, für welche die Form des § 29 der Grundbuchordnung nicht erforderlich ist, begnügen, wenn die Beschaffung des Erbscheins, des Europäischen Nachlasszeugnisses oder des Zeugnisses nach § 1507 des Bürgerlichen Gesetzbuches nur mit unverhältnismäßigem Aufwand an Kosten oder Mühe möglich ist; der Antragsteller kann auch zur Versicherung an Eides Statt zugelassen werden.
 
 (2) Bei Berechnung des Geldbetrags der Hypothek oder Grundschuld ist von dem im Grundbuch eingetragenen Umstellungsbetrag auszugehen. Ist der Umstellungsbetrag nicht eingetragen und liegen die Voraussetzungen vor, unter denen eine Berichtigung des Grundbuchs durch Eintragung eines Umstellungsbetrags, der sich auf eine Deutsche Mark für je zehn Reichsmark beläuft, zulässig ist, so ist von diesem Umstellungsbetrag auszugehen; liegen diese Voraussetzungen nicht vor, so ist von einem Umstellungsbetrag auszugehen, der sich auf eine Deutsche Mark für je eine Reichsmark beläuft.
 

@@ -16,11 +16,9 @@
 
 ### Art 2 — Aufhebung von Gesetzen
 
-Es werden aufgehoben:
+7. die Gesamtvollstreckungsordnung in der Fassung der Bekanntmachung vom 23. Mai 1991 (BGBl. I S. 1185), geändert durch Artikel 5 des Gesetzes vom 24. Juni 1994 (BGBl. I S. 1374);
 
-7.
-
-8.
+8. das Gesamtvollstreckungs-Unterbrechungsgesetz in der Fassung der Bekanntmachung vom 23. Mai 1991 (BGBl. I S. 1191);
 
 ### (XXXX) Art 3 bis 20
 
@@ -112,11 +110,11 @@ Angehörige eines anderen Mitgliedstaates der Europäischen Union oder Vertragss
 
 (1) Die Eröffnung des Insolvenzverfahrens hindert nicht
 
-1.
+1. die Durchführung der nach Artikel 48 Absatz 2, 4, 5 Satz 3 und Absatz 6 Satz 3 der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012 über OTC-Derivate, zentrale Gegenparteien und Transaktionsregister (ABl. L 201 vom 27.7.2012, S. 1) gebotenen Maßnahmen zur Verwaltung, Glattstellung und sonstigen Abwicklung von Kundenpositionen und Eigenhandelspositionen des Clearingmitglieds,
 
-2.
+2. die Durchführung der nach Artikel 48 Absatz 4 bis 6 der Verordnung (EU) Nr. 648/2012 gebotenen Maßnahmen der Übertragung von Kundenpositionen sowie
 
-3.
+3. die nach Artikel 48 Absatz 7 der Verordnung (EU) Nr. 648/2012 gebotene Verwendung und Rückgewähr von Kundensicherheiten.
 
 (2) Absatz 1 gilt entsprechend für die Anordnung von Sicherungsmaßnahmen nach § 21 der Insolvenzordnung.
 
@@ -154,15 +152,15 @@ Unbeschadet des § 21 Absatz 1 Satz 2 und des § 34 der Insolvenzordnung steht d
 
 ### § 5 — Zusätzliche Angaben im Eröffnungsantrag des Schuldners
 
-Bestehen Anhaltspunkte dafür, dass auch die internationale Zuständigkeit eines anderen Mitgliedstaats der Europäischen Union für die Eröffnung eines Hauptinsolvenzverfahrens nach Artikel 3 Absatz 1 der Verordnung (EU) 2015/848 begründet sein könnte, so soll der Eröffnungsantrag des Schuldners auch folgende Angaben enthalten: Satz 1 findet keine Anwendung auf die im Verbraucherinsolvenzverfahren nach § 305 Absatz 1 der Insolvenzordnung zu stellenden Anträge.
+Bestehen Anhaltspunkte dafür, dass auch die internationale Zuständigkeit eines anderen Mitgliedstaats der Europäischen Union für die Eröffnung eines Hauptinsolvenzverfahrens nach Artikel 3 Absatz 1 der Verordnung (EU) 2015/848 begründet sein könnte, so soll der Eröffnungsantrag des Schuldners auch folgende Angaben enthalten:
 
-1.
+1. seit wann der Sitz, die Hauptniederlassung oder der gewöhnliche Aufenthalt an dem im Antrag genannten Ort besteht,
 
-2.
+2. Tatsachen, aus denen sich ergibt, dass der Schuldner gewöhnlich der Verwaltung seiner Interessen in der Bundesrepublik Deutschland nachgeht,
 
-3.
+3. in welchen anderen Mitgliedstaaten sich Gläubiger oder wesentliche Teile des Vermögens befinden oder wesentliche Teile der Tätigkeit ausgeübt werden und
 
-4.
+4. ob bereits in einem anderen Mitgliedstaat ein Eröffnungsantrag gestellt oder ein Hauptinsolvenzverfahren eröffnet wurde.
 
 ### § 6 — Örtliche Zuständigkeit für Annexklagen
 
@@ -266,9 +264,9 @@ Für die Unterrichtung nach Artikel 36 Absatz 5 Satz 4 der Verordnung (EU) 2015/
 
 (1) Gehören Unternehmen einer Unternehmensgruppe im Sinne von § 3e der Insolvenzordnung auch einer Unternehmensgruppe im Sinne von Artikel 2 Nummer 13 der Verordnung (EU) 2015/848 an,
 
-1.
+1. findet § 269a der Insolvenzordnung keine Anwendung, soweit Artikel 56 der Verordnung (EU) 2015/848 anzuwenden ist,
 
-2.
+2. finden § 56b Absatz 1 und § 269b der Insolvenzordnung keine Anwendung, soweit Artikel 57 der Verordnung (EU) 2015/848 anzuwenden ist.
 
 (2) Gehören Unternehmen einer Unternehmensgruppe im Sinne von § 3e der Insolvenzordnung auch einer Unternehmensgruppe im Sinne von Artikel 2 Nummer 13 der Verordnung (EU) 2015/848 an, ist die Einleitung eines Koordinationsverfahrens nach den §§ 269d bis 269i der Insolvenzordnung ausgeschlossen, wenn die Durchführung des Koordinationsverfahrens die Wirksamkeit eines Gruppen-Koordinationsverfahrens nach den Artikeln 61 bis 77 der Verordnung (EU) 2015/848 beeinträchtigen würde.
 
@@ -278,19 +276,19 @@ Für die Unterrichtung nach Artikel 36 Absatz 5 Satz 4 der Verordnung (EU) 2015/
 
 (2) Absatz 1 gilt entsprechend
 
-1.
+1. für die Erklärung eines Einwands nach Artikel 64 Absatz 1 Buchstabe a der Verordnung (EU) 2015/848 gegen die Einbeziehung des Verfahrens in das Gruppen-Koordinationsverfahren,
 
-2.
+2. für den Antrag auf Einbeziehung des Verfahrens in ein bereits eröffnetes Gruppen-Koordinationsverfahren nach Artikel 69 Absatz 1 der Verordnung (EU) 2015/848 sowie
 
-3.
+3. für die Zustimmungserklärung zu einem entsprechenden Antrag eines Verwalters, der in einem Verfahren über das Vermögen eines anderen gruppenangehörigen Unternehmens bestellt wurde (Artikel 69 Absatz 2 Buchstabe b der Verordnung (EU) 2015/848).
 
 ### § 24 — Aussetzung der Verwertung
 
 § 16 gilt entsprechend bei der Aussetzung
 
-1.
+1. der Verwertung auf Antrag des Verwalters eines anderen gruppenangehörigen Unternehmens nach Artikel 60 Absatz 1 Buchstabe b der Verordnung (EU) 2015/848 und
 
-2.
+2. des Verfahrens auf Antrag des Koordinators nach Artikel 72 Absatz 2 Buchstabe e der Verordnung (EU) 2015/848.
 
 ### § 25 — Rechtsbehelf gegen die Entscheidung nach Artikel 69 Absatz 2 der Verordnung (EU) 2015/848
 
@@ -354,8 +352,6 @@ Auf Insolvenzverfahren, die vor dem 1. Juli 2014 beantragt worden sind, sind vor
 
 (1) Auf Insolvenzverfahren, die vor dem 1. Oktober 2020 beantragt worden sind, sind vorbehaltlich des Absatzes 2 die bis dahin geltenden Vorschriften weiter anzuwenden.
 
-(2) Auf Insolvenzverfahren, die im Zeitraum vom 17. Dezember 2019 bis einschließlich 30. September 2020 beantragt worden sind, verkürzt sich die Abtretungsfrist im Sinne des § 287 Absatz 2 der Insolvenzordnung für jeden vollen Monat, der seit dem 16. Juli 2019 bis zur Stellung des Insolvenzantrages vergangen ist, um denselben Zeitraum. Demgemäß beträgt die Abtretungsfrist: In Verfahren nach Satz 1 ist eine in der Abtretungserklärung erklärte, anderslautende Abtretungsfrist insoweit unbeachtlich.
-
 (3) Wurde dem Schuldner letztmalig nach den bis einschließlich 30. September 2020 geltenden Vorschriften eine Restschuldbefreiung erteilt, so ist § 287a Absatz 2 Satz 1 Nummer 1 der Insolvenzordnung in der bis einschließlich 30. September 2020 geltenden Fassung weiter anzuwenden.
 
 (4) Wird ein Antrag auf Eröffnung eines Verbraucherinsolvenzverfahrens zwischen dem 31. Dezember 2020 und dem 30. Juni 2021 gestellt, genügt die vom Schuldner vorzulegende Bescheinigung auch dann den in § 305 Absatz 1 Nummer 1 der Insolvenzordnung genannten Anforderungen, wenn sich aus ihr ergibt, dass eine außergerichtliche Einigung mit den Gläubigern über die Schuldenbereinigung auf der Grundlage eines Plans innerhalb der letzten zwölf Monate vor dem Eröffnungsantrag erfolglos versucht worden ist.
@@ -380,17 +376,17 @@ In einem Insolvenzverfahren, das nach dem 31. Dezember 1998 beantragt wird, gelt
 
 ### Art 105 — Finanztermingeschäfte
 
-(1) War für Finanzleistungen, die einen Markt- oder Börsenpreis haben, eine bestimmte Zeit oder eine bestimmte Frist vereinbart und tritt die Zeit oder der Ablauf der Frist erst nach der Eröffnung eines Konkursverfahrens ein, so kann nicht die Erfüllung verlangt, sondern nur eine Forderung wegen der Nichterfüllung geltend gemacht werden. Als Finanzleistungen gelten insbesondere Sind Geschäfte über Finanzleistungen in einem Rahmenvertrag zusammengefaßt, für den vereinbart ist, daß er bei Vertragsverletzungen nur einheitlich beendet werden kann, so gilt die Gesamtheit dieser Geschäfte als ein gegenseitiger Vertrag.
+(1) War für Finanzleistungen, die einen Markt- oder Börsenpreis haben, eine bestimmte Zeit oder eine bestimmte Frist vereinbart und tritt die Zeit oder der Ablauf der Frist erst nach der Eröffnung eines Konkursverfahrens ein, so kann nicht die Erfüllung verlangt, sondern nur eine Forderung wegen der Nichterfüllung geltend gemacht werden. Als Finanzleistungen gelten insbesondere
 
-1.
+1. die Lieferung von Edelmetallen,
 
-2.
+2. die Lieferung von Wertpapieren oder vergleichbaren Rechten, soweit nicht der Erwerb einer Beteiligung an einem Unternehmen zur Herstellung einer dauernden Verbindung zu diesem Unternehmen beabsichtigt ist,
 
-3.
+3. Geldleistungen, die in ausländischer Währung oder in einer Rechnungseinheit zu erbringen sind,
 
-4.
+4. Geldleistungen, deren Höhe unmittelbar oder mittelbar durch den Kurs einer ausländischen Währung oder einer Rechnungseinheit, durch den Zinssatz von Forderungen oder durch den Preis anderer Güter oder Leistungen bestimmt wird,
 
-5.
+5. Optionen und andere Rechte auf Lieferungen oder Geldleistungen im Sinne der Nummern 1 bis 4.
 
 (2) Die Forderung wegen der Nichterfüllung richtet sich auf den Unterschied zwischen dem vereinbarten Preis und dem Markt- oder Börsenpreis, der am zweiten Werktag nach der Eröffnung des Verfahrens am Erfüllungsort für einen Vertrag mit der vereinbarten Erfüllungszeit maßgeblich ist. Der andere Teil kann eine solche Forderung nur als Konkursgläubiger geltend machen.
 

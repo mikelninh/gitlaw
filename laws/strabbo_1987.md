@@ -16,17 +16,17 @@ Auf Grund des § 57 des Personenbeförderungsgesetzes in der im Bundesgesetzblat
 
 ### § 1 — Anwendungsbereich und allgemeine Begriffsbestimmungen
 
-(1) Diese Verordnung gilt für den Bau und Betrieb der Straßenbahnen im Sinne des § 4 des Personenbeförderungsgesetzes (PBefG). Das Bauordnungsrecht der Länder und die Straßenverkehrs-Ordnung bleiben unberührt. Soweit keine besonderen Harmonisierungsmaßnahmen der Europäischen Union anzuwenden sind, gelten Produkte als gleichwertig im Sinne der Anforderungen dieser Verordnung, wenn sie rechtmäßig hergestellt oder in Verkehr gebracht wurden. Das Gleiche gilt für Produkte, die in einem EFTA-Staat, der Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist, rechtmäßig hergestellt wurden. Die Sätze 3 und 4 gelten nicht für Produkte, die nicht einem Schutzniveau von Sicherheit, Ordnung oder Umweltschutz entsprechen, das durch die in Deutschland geltenden technischen Vorschriften gewährleistet ist, soweit diese technischen Vorschriften im Einklang mit der Verordnung (EG) Nr. 764/2008 des Europäischen Parlamentes und des Rates vom 9. Juli 2008 zur Festlegung von Verfahren im Zusammenhang mit der Anwendung bestimmter nationaler technischer Vorschriften für Produkte, die in einem anderen Mitgliedstaat rechtmäßig in den Verkehr gebracht worden sind, und zur Aufhebung der Entscheidung Nr. 3052/95/EG (ABl. L 218 vom 13.8.2008, S. 21) angewendet werden.
+(1) Diese Verordnung gilt für den Bau und Betrieb der Straßenbahnen im Sinne des § 4 des Personenbeförderungsgesetzes (PBefG). Das Bauordnungsrecht der Länder und die Straßenverkehrs-Ordnung bleiben unberührt. Soweit keine besonderen Harmonisierungsmaßnahmen der Europäischen Union anzuwenden sind, gelten Produkte als gleichwertig im Sinne der Anforderungen dieser Verordnung, wenn sie
 
-1.
+1. in einem anderen Mitgliedstaat der Europäischen Union oder
 
-2.
+2. in der Türkei
 
-(2) Straßenbahnen sind Unabhängige Bahnen sind durch ihre Bauart oder Lage auf der gesamten Streckenlänge vom Straßenverkehr oder anderen Verkehrssystemen getrennt.
+(2) Straßenbahnen sind
 
-1.
+1. straßenabhängige Bahnen (§ 4 Abs. 1 PBefG),
 
-2.
+2. unabhängige Bahnen (§ 4 Abs. 2 PBefG).
 
 (3) Bau ist der Neubau oder die Änderung von Betriebsanlagen und Fahrzeugen.
 
@@ -36,41 +36,41 @@ Auf Grund des § 57 des Personenbeförderungsgesetzes in der im Bundesgesetzblat
 
 (6) Betriebsbedienstete sind Beschäftigte, die tätig sind
 
-1.
+1. im Fahrbetrieb (Fahrbedienstete),
 
-2.
+2. bei der Steuerung und Überwachung des Betriebsablaufs,
 
-3.
+3. als Verantwortliche bei der Instandhaltung der Betriebsanlagen und Fahrzeuge,
 
-4.
+4. als Leitende oder Aufsichtführende über Beschäftigte nach den Nummern 1 bis 3.
 
 (7) Betriebsanlagen sind alle dem Betrieb dienenden Anlagen, insbesondere
 
-1.
+1. die bau-, maschinen- und elektrotechnischen Anlagen für den Fahrbetrieb, einschließlich der Hilfsbauwerke,
 
-2.
+2. die für den Aufenthalt und die Abfertigung der Fahrgäste bestimmten Anlagen,
 
-3.
+3. die Abstellanlagen für Fahrzeuge,
 
-4.
+4. die an das Gleisnetz angeschlossenen Werkstätten.
 
 (8) Fahrzeuge sind solche, die spurgebunden als Züge oder in Zügen verkehren können. Mehrteilige Fahrzeuge, die während des Fahrbetriebs nicht getrennt werden können, gelten als ein Fahrzeug.
 
 (9) Fahrzeuge sind
 
-1.
+1. Personenfahrzeuge, die der Beförderung von Personen im Sinne des § 1 Absatz 1 des Personenbeförderungsgesetzes dienen und
 
-2.
+2. Betriebsfahrzeuge, die insbesondere für die Ausbildung von Betriebsbediensteten, für die Instandhaltung von Betriebsanlagen oder für Maßnahmen bei Betriebsstörungen und Unfällen eingesetzt werden.
 
 (10) Züge sind auf Streckengleise übergehende Einheiten. Sie können als Personen- oder Betriebszüge verkehren und aus einem oder mehreren Fahrzeugen bestehen.
 
 ### § 2 — Grundregeln
 
-(1) Betriebsanlagen, Fahrzeuge oder Teile davon müssen so beschaffen sein, dass sie den Anforderungen der Sicherheit und Ordnung genügen. Die Anforderungen an Betriebsanlagen, Fahrzeuge oder Teile davon gelten als erfüllt, § 1 Absatz 1 Satz 3 bis 5 bleiben unberührt.
+(1) Betriebsanlagen, Fahrzeuge oder Teile davon müssen so beschaffen sein, dass sie den Anforderungen der Sicherheit und Ordnung genügen. Die Anforderungen an Betriebsanlagen, Fahrzeuge oder Teile davon gelten als erfüllt,
 
-1.
+1. wenn die Betriebsanlagen, Fahrzeuge oder Teile davon hinsichtlich ihrer Beschaffenheit den für sie unmittelbar geltenden Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union und den für sie geltenden Rechtsvorschriften, mit denen Richtlinien der Europäischen Gemeinschaft oder der Europäischen Union in deutsches Recht umgesetzt sind, entsprechen, oder
 
-2.
+2. soweit solche Rechtsvorschriften nicht bestehen, wenn die Betriebsanlagen, Fahrzeuge oder Teile davon nach den Vorschriften dieser Verordnung, nach den von der Technischen Aufsichtsbehörde und von der Genehmigungsbehörde getroffenen Anordnungen sowie nach den allgemein anerkannten Regeln der Technik gebaut sind und betrieben werden.
 
 (2) Von den allgemein anerkannten Regeln der Technik kann abgewichen werden, wenn mindestens die gleiche Sicherheit gegenüber der Technischen Aufsichtsbehörde nachgewiesen wird.
 
@@ -78,21 +78,21 @@ Auf Grund des § 57 des Personenbeförderungsgesetzes in der im Bundesgesetzblat
 
 (1) Betriebsanlagen und Fahrzeuge müssen so gebaut sein, daß ihr verkehrsüblicher Betrieb niemanden schädigt oder mehr als unvermeidbar gefährdet oder behindert. Sie müssen insbesondere so gebaut sein, daß
 
-1.
+1. die höchsten betrieblich auftretenden Beanspruchungen mechanischer, elektrischer und thermischer Art ohne Betriebsgefährdung aufgenommen werden können,
 
-2.
+2. gefahrbringende Teile und Einrichtungen nicht unbeabsichtigt berührt werden können,
 
-3.
+3. die Entstehung und Ausbreitung von Bränden durch vorbeugende Maßnahmen erschwert werden und im Brandfall die Möglichkeit zur Selbst- oder Fremdrettung von Personen oder eine Kombination von beidem sowie zur Brandbekämpfung besteht,
 
-4.
+4. bei Gleichstrombahnen mit Energieübertragung über Fahrschienen nachteilige Wirkungen der Streustromkorrosion gering sind,
 
-5.
+5. Bauteile und Einrichtungen gegen äußere Einflüsse geschützt sind, soweit es betrieblich erforderlich ist,
 
-6.
+6. das Bestehenbleiben zu hoher Berührungsspannungen durch Schutzmaßnahmen verhindert wird,
 
-7.
+7. durch elektrische Beeinflussungen die Betriebssicherheit nicht beeinträchtigt werden kann,
 
-8.
+8. Störungen im Betriebsablauf zügig beseitigt werden können.
 
 (2) Einrichtungen in Betriebsanlagen und Fahrzeugen, die für die Benutzung oder Betätigung durch Fahrgäste bestimmt sind, müssen gut erkennbar und leicht erreichbar sein. Ihre Handhabung muß sich sinnfällig erkennen lassen; Fehlbedienungen dürfen zu keiner Betriebsgefährdung führen.
 
@@ -114,13 +114,13 @@ Auf Grund des § 57 des Personenbeförderungsgesetzes in der im Bundesgesetzblat
 
 (4) Durch betriebliche Vorkehrungen ist dafür zu sorgen, dass Betriebsstörungen zügig beseitigt werden, bei Unfällen und gefährlichen Ereignissen unverzüglich Hilfe geleistet wird und insbesondere bei Brandfällen die Möglichkeit zur Selbst- oder Fremdrettung von Personen oder eine Kombination von beidem in Abhängigkeit von den lokalen Verhältnissen besteht.
 
-(5) Der Unternehmer hat Aufzeichnungen zu führen über und ist befugt, die in den Nummern 1 bis 3 genannten Daten zu erheben, zu speichern und zu verwenden, soweit dies erforderlich ist, um den Betrieb sicher führen zu können, den Zustand und die Instandhaltung der Anlagen und Fahrzeuge zu dokumentieren und die Ursachen gefährlicher Ereignisse aufklären zu können. Der Unternehmer ist außerdem befugt, der Technischen Aufsichtsbehörde aus den in Satz 1 genannten Daten die für deren Aufgabenerfüllung erforderlichen Auskünfte zu übermitteln. Soweit es sich um personenbezogene Daten handelt, sind diese nach spätestens 96 Stunden zu löschen, es sei denn, ihre Kenntnis ist für die Erfüllung des Zwecks der in Satz 1 genannten Speicherung weiterhin erforderlich.
+(5) Der Unternehmer hat Aufzeichnungen zu führen über
 
-1.
+1. die im Sechsten Abschnitt geregelten betrieblichen Sachverhalte,
 
-2.
+2. die mittels nachrichtentechnischer Anlagen nach § 23 geführte sicherheitsrelevante Kommunikation mit Betriebsstellen und
 
-3.
+3. die Fahrdaten der in § 33 Absatz 13 genannten Geräte,
 
 ### § 5 — Technische Aufsicht
 
@@ -134,9 +134,9 @@ Auf Grund des § 57 des Personenbeförderungsgesetzes in der im Bundesgesetzblat
 
 (5) Stellt die Technische Aufsichtsbehörde fest, daß der Unternehmer seinen Pflichten nach § 7 nicht nachkommt, trifft sie die erforderlichen Maßnahmen. Insbesondere kann sie
 
-1.
+1. ihm für die Beseitigung von Mängeln eine angemessene Frist setzen,
 
-2.
+2. bei unzureichender Sicherheit die Unterbrechung oder Einstellung von Bauarbeiten anordnen oder die Benutzung bestimmter Betriebsanlagen und Fahrzeuge beschränken oder untersagen.
 
 ### § 6 — Ausnahmen
 
@@ -154,25 +154,25 @@ Die Technische Aufsichtsbehörde kann von den Vorschriften dieser Verordnung in 
 
 (4) Die Bestellung des Betriebsleiters und seiner Stellvertreter bedarf der Bestätigung durch die Technische Aufsichtsbehörde.
 
-(5) Der Unternehmer hat sicherzustellen, dass der Betriebsleiter die ihm obliegenden Aufgaben ordnungsgemäß erfüllen kann, insbesondere, dass er Soll eine vom Betriebsleiter im Rahmen seiner Aufgaben nach § 8 vorgeschlagene Maßnahme nicht durchgeführt werden, so ist der Betriebsleiter vom Unternehmer umfassend und unverzüglich über die Gründe der Ablehnung in schriftlicher oder elektronischer Form zu unterrichten. Dem Betriebsleiter dürfen durch die Erfüllung der ihm in dieser Verordnung übertragenen Aufgaben im Unternehmen keine persönlichen Nachteile entstehen.
+(5) Der Unternehmer hat sicherzustellen, dass der Betriebsleiter die ihm obliegenden Aufgaben ordnungsgemäß erfüllen kann, insbesondere, dass er
 
-1.
+1. keine die Betriebssicherheit einschränkenden Weisungen erhält und
 
-2.
+2. in Angelegenheiten, die die Sicherheit des Betriebes berühren, Weisungen gegenüber den Betriebsbediensteten und sonstigen im Betrieb Beschäftigten erteilen kann.
 
 (6) Bei Entscheidungen, die die Betriebsführung beeinflussen, ist der Betriebsleiter maßgebend zu beteiligen, insbesondere bei
 
-1.
+1. Planung und Bau von Betriebsanlagen,
 
-2.
+2. Beschaffung von Fahrzeugen,
 
-3.
+3. Feststellung des Bedarfs an Betriebsbediensteten,
 
-4.
+4. Auswahl, Aus- und Fortbildung, Verwendung und Beaufsichtigung der Betriebsbediensteten,
 
-5.
+5. Untersuchungen von Dienstverfehlungen der Betriebsbediensteten und den sich daraus ergebenden Maßnahmen,
 
-6.
+6. Vereinbarungen über die Übertragung von Aufgaben, die die Verantwortung des Betriebsleiters berühren, auf Personen oder Stellen, die dem Unternehmen nicht angehören.
 
 (7) Der nach § 3 Abs. 3 des Personenbeförderungsgesetzes dem Unternehmer gleichgestellte Träger eines Vorhabens braucht keinen Betriebsleiter zu bestellen, wenn die verantwortliche Leitung beim Bau von Betriebsanlagen einem Beamten des höheren technischen Verwaltungsdienstes oder einem Angestellten im öffentlichen Dienst mit gleichwertigen Fähigkeiten und Erfahrungen übertragen worden ist.
 
@@ -192,9 +192,9 @@ Die Technische Aufsichtsbehörde kann von den Vorschriften dieser Verordnung in 
 
 (4) Der Betriebsleiter hat den Aufsichtsbehörden unverzüglich zu melden
 
-1.
+1. Unfälle, bei denen ein Mensch getötet oder schwer verletzt worden ist oder Betriebsanlagen oder Fahrzeuge erheblich beschädigt worden sind,
 
-2.
+2. Betriebsvorkommnisse, die öffentliches Aufsehen erregen.
 
 (5) Bei einem gemeinsamen Betrieb mehrerer Unternehmen auf einer Strecke obliegen die Berichtspflichten nach Absatz 4 dem für die jeweilige Strecke verantwortlichen Betriebsleiter.
 
@@ -204,23 +204,23 @@ Die Technische Aufsichtsbehörde kann von den Vorschriften dieser Verordnung in 
 
 (1) Die Technische Aufsichtsbehörde bestätigt die Bestellung des Betriebsleiters auf Antrag des Unternehmers, wenn die bestellte Person
 
-1.
+1. ihre Befähigung durch erfolgreichen Abschluss der Betriebsleiterprüfung nachgewiesen hat und
 
-2.
+2. keine Tatsachen vorliegen, die sie für die Tätigkeit eines Betriebsleiters als unzuverlässig erscheinen lassen.
 
-(2) Abweichend von Absatz 1 Nummer 1 wird die Bestellung als Betriebsleiter auch bestätigt, wenn die bestellte Person Die Tätigkeit bei Schienenbahnunternehmen auch während des Vorbereitungsdienstes vor der Großen Staatsprüfung kann ganz oder teilweise angerechnet werden.
+(2) Abweichend von Absatz 1 Nummer 1 wird die Bestellung als Betriebsleiter auch bestätigt, wenn die bestellte Person
 
-1.
+1. die Große Staatsprüfung für den höheren technischen Verwaltungsdienst in einem Fachgebiet bestanden hat, zu dem in erheblichem Umfang Planung, Bau und Betrieb spurgebundener Bahnen gehören und
 
-2.
+2. mindestens drei Jahre in Straßenbahnunternehmen in den für den Bau und Betrieb der Straßenbahn wesentlichen Fachbereichen als Ingenieur tätig gewesen ist.
 
 (3) Dem Antrag auf Bestätigung als Betriebsleiter sind beizufügen
 
-1.
+1. ein Lebenslauf mit Lichtbild,
 
-2.
+2. ein Nachweis, dass ein Führungszeugnis nach § 30 des Bundeszentralregistergesetzes zur Vorlage bei der zuständigen Behörde beantragt ist,
 
-3.
+3. das Zeugnis über die bestandene Betriebsleiterprüfung oder in Fällen nach Absatz 2 das Zeugnis über die bestandene Große Staatsprüfung und Nachweise über die Tätigkeit in Straßenbahnunternehmen.
 
 (4) Für die Bestätigung als Stellvertreter des Betriebsleiters gelten die Absätze 1 bis 3 entsprechend.
 
@@ -232,11 +232,11 @@ Die Technische Aufsichtsbehörde kann von den Vorschriften dieser Verordnung in 
 
 (1) Als Betriebsbediensteter darf nur tätig sein, wer
 
-1.
+1. mindestens 18 Jahre alt ist,
 
-2.
+2. geistig und körperlich tauglich ist und
 
-3.
+3. nicht durch Tatsachen belastet ist, die ihn für die Tätigkeit als unzuverlässig erscheinen lassen.
 
 (2) Die Tauglichkeit muss vor erstmaliger Aufnahme der Tätigkeit durch einen vom Unternehmer beauftragten Arzt festgestellt worden sein. Der Arzt muss die Gebietsbezeichnung „Arbeitsmedizin“ oder die Zusatzbezeichnung „Betriebsmedizin“ haben oder Arzt in einer amtlich anerkannten Begutachtungsstelle für Fahreignung gemäß § 11 Absatz 2 Nummer 5 der Fahrerlaubnis-Verordnung sein und über eine mindestens einjährige Berufserfahrung in seinem Fachgebiet verfügen.
 
@@ -248,11 +248,11 @@ Die Technische Aufsichtsbehörde kann von den Vorschriften dieser Verordnung in 
 
 ### § 11 — Besondere Anforderungen an Fahrbedienstete
 
-(1) Fahrbedienstete müssen mindestens 21 Jahre alt sein. Dies gilt nicht für: Im Fall des Satzes 2 Nummer 1 ist vor Erteilung der ersten Fahrerlaubnis die nach § 10 Absatz 1 Nummer 2 erforderliche geistige und körperliche Eignung durch ein Gutachten entsprechend § 10 Absatz 2 der Fahrerlaubnis-Verordnung nachzuweisen.
+(1) Fahrbedienstete müssen mindestens 21 Jahre alt sein. Dies gilt nicht für:
 
-1.
+1. Auszubildende und Absolventen des staatlich anerkannten Ausbildungsberufs der „Fachkraft im Fahrbetrieb“, die das 18. Lebensjahr vollendet haben und die Schienenfahrerlaubnis und seit mindestens einem Jahr die straßenverkehrsrechtliche Fahrerlaubnis der Klasse B besitzen und
 
-2.
+2. Zugabfertiger und Fahrbedienstete, die Fahrzeuge ausschließlich in Abstellanlagen und Werkstätten bedienen.
 
 (2) Fahrbedienstete dürfen nur eingesetzt werden, wenn die Tauglichkeit nach § 10 Abs. 2 festgestellt worden ist. Die Untersuchung ist durch den in § 10 Absatz 2 bezeichneten Arzt spätestens alle drei Jahre zu wiederholen.
 
@@ -328,9 +328,9 @@ Die Technische Aufsichtsbehörde kann von den Vorschriften dieser Verordnung in 
 
 (5) Die Längsneigungen der Gleise und die Zug- und Bremskräfte der Züge müssen so aufeinander abgestimmt sein, daß
 
-1.
+1. die Züge auch unter ungünstigen Betriebsverhältnissen sicher zum Halten gebracht werden können,
 
-2.
+2. ein liegengebliebener Zug von einem anderen fortbewegt werden kann.
 
 (6) Fernstellbare Weichen müssen gegen Umstellen gesichert sein, solange ihre beweglichen Teile von einem Zug besetzt sind.
 
@@ -378,11 +378,11 @@ Die Technische Aufsichtsbehörde kann von den Vorschriften dieser Verordnung in 
 
 (4) Bahnübergänge im Sinne des Absatzes 1 Satz 2 von Fuß- oder Radwegen mit gegebener Übersicht müssen mit Umlaufsperren, ähnlich wirkenden Einrichtungen oder mit einer Lichtzeichenanlage ausgerüstet sein. Abweichend von Satz 1 kann auf Umlaufsperren, ähnlich wirkende Einrichtungen oder eine Lichtzeichenanlage verzichtet werden, wenn nach den örtlichen Verhältnissen dafür kein Erfordernis besteht und die Technische Aufsichtsbehörde zustimmt. Umlaufsperren sind so zu gestalten, dass die Wegebenutzer der Fahrtrichtung der Straßenbahn entgegen gehen müssen.
 
-(5) Eine technische Sicherung erfordert Auf Streckenabschnitten mit Fahren auf Sicht dürfen anstelle der in Satz 1 bezeichneten Überwachungssignale auch Fahrsignale nach Anlage 4 unmittelbar vor dem Bahnübergang verwendet werden.
+(5) Eine technische Sicherung erfordert
 
-1.
+1. Lichtzeichen mit der Farbfolge Gelb – Rot nach Anlage 1 Bild 2, die mit Halbschranken nach Anlage 1 Bild 3 verbunden sein können und
 
-2.
+2. Überwachungssignale Bü 0 und Bü 1 nach Anlage 4 vor dem Bahnübergang oder eine in Zugsicherungsanlagen eingebundene Überwachung der Einrichtungen nach Nummer 1.
 
 ### § 21 — Signalanlagen
 
@@ -392,9 +392,9 @@ Die Technische Aufsichtsbehörde kann von den Vorschriften dieser Verordnung in 
 
 (3) Signalanlagen für Fahrsignale nach Anlage 4 Nr. 3 müssen im betriebsbedingt notwendigen Umfang vorhanden sein, insbesondere an Stellen, an denen
 
-1.
+1. Fahrzeugführer Aufträge erhalten sollen, die von den Anordnungen der Wechsellichtzeichen des Straßenverkehrs abweichen,
 
-2.
+2. eingleisige Streckenabschnitte im Zweirichtungsbetrieb befahren werden; dabei müssen die Fahrsignale so geschaltet sein, daß der Abschnitt jeweils nur für eine Richtung freigegeben und die freigegebene Richtung nur bei unbesetztem Abschnitt gewechselt werden kann.
 
 (4) Sind Fahrsignalanlagen in Wechsellichtzeichenanlagen nach § 37 der Straßenverkehrs-Ordnung eingebunden, muß in allen Teilen der Gesamtanlage die gleiche Sicherungsmaßnahme angewendet sein. Sind Weichen in die Signalanlage für Fahrsignale eingebunden, gehören sie zur Gesamtanlage.
 
@@ -402,19 +402,19 @@ Die Technische Aufsichtsbehörde kann von den Vorschriften dieser Verordnung in 
 
 (1) Zugsicherungsanlagen sind Anlagen zum Sichern und Steuern des Fahrbetriebes. Sie dienen dazu,
 
-1.
+1. die Fahrwege einzustellen und zu sichern,
 
-2.
+2. den Zügen Aufträge über die Fahrweise zu übermitteln,
 
-3.
+3. die Fahrweise der Züge technisch zu überwachen und bei gefährdenden Abweichungen zu beeinflussen.
 
-(2) Fahrwege gelten als gesichert, wenn Als sicherungstechnisch erfaßbare Hindernisse gelten fahrende und stehende Züge, Gleisenden sowie Fahrwege, die nicht gegen Flanken- oder Gegenfahrten gesichert sind.
+(2) Fahrwege gelten als gesichert, wenn
 
-1.
+1. mindestens der Bremswegabstand von sicherungstechnisch erfaßbaren Hindernissen frei ist und freigehalten wird,
 
-2.
+2. die zugehörigen Weichen verschlossen sind und
 
-3.
+3. die zulässigen Geschwindigkeiten bei den Aufträgen über die Fahrweise berücksichtigt sind.
 
 (3) Zugsicherungsanlagen müssen zuverlässig und, soweit sie nicht ausschließlich dem Steuern des Fahrbetriebes dienen, signaltechnisch sicher sein.
 
@@ -442,15 +442,11 @@ Die Technische Aufsichtsbehörde kann von den Vorschriften dieser Verordnung in 
 
 (4) Fahrstromversorgungsanlagen sollen die Energiezufuhr zu den Speiseabschnitten nach Abschaltung infolge kurzzeitiger Überlast selbsttätig wieder zuschalten.
 
-(5) Für die Energieversorgung von Betriebsmitteln in Betriebsanlagen müssen außer den Haupteinspeisungen zusätzlich vorhanden sein Die Einspeisungen müssen mit selbsttätigen Umschalteinrichtungen ausgestattet sein.
+(5) Für die Energieversorgung von Betriebsmitteln in Betriebsanlagen müssen außer den Haupteinspeisungen zusätzlich vorhanden sein
 
-1.
+1. Hilfseinspeisungen, soweit es die betrieblichen Verhältnisse erfordern,
 
-2.
-
-a)
-
-b)
+2. Ersatzeinspeisungen aus einer netzunabhängigen Energiequelle füra)Sicherheitsbeleuchtungen nach § 27 Abs. 4, Kennleuchten für Notausgänge nach § 30 Abs. 6 und, soweit es die Betriebssicherheit erfordert, nachrichtentechnische Anlagen nach § 23; sie müssen deren Energiebedarf bei Ausfall der netzabhängigen Einspeisungen für eine ausreichende Zeitdauer decken können,b)Zugsicherungsanlagen nach § 22, soweit betrieblich erforderlich; sie müssen deren Energiebedarf bei Ausfall der netzabhängigen Einspeisungen während des Auslaufens des Fahrbetriebes decken können. Sicherheitsbeleuchtungen nach § 27 Abs. 4, Kennleuchten für Notausgänge nach § 30 Abs. 6 und, soweit es die Betriebssicherheit erfordert, nachrichtentechnische Anlagen nach § 23; sie müssen deren Energiebedarf bei Ausfall der netzabhängigen Einspeisungen für eine ausreichende Zeitdauer decken können, Zugsicherungsanlagen nach § 22, soweit betrieblich erforderlich; sie müssen deren Energiebedarf bei Ausfall der netzabhängigen Einspeisungen während des Auslaufens des Fahrbetriebes decken können.
 
 (6) In Tunneln und in unterirdischen Haltestellen müssen in geeigneter Entfernung und Anzahl Steckdosen zur Speisung ortsveränderlicher elektrischer Betriebsmittel vorhanden sein.
 
@@ -480,35 +476,35 @@ b)
 
 ### § 27 — Beleuchtungsanlagen
 
-(1) Beleuchtungsanlagen müssen vorhanden sein Die Forderung nach Satz 1 kann auch durch die allgemeine Straßenbeleuchtung erfüllt werden.
+(1) Beleuchtungsanlagen müssen vorhanden sein
 
-1.
+1. in Bereichen von Betriebsanlagen, die für den Aufenthalt von Personen bestimmt sind, sowie in deren Zu- und Abgängen;
 
-2.
+2. in Tunneln und Unterführungen, wenn sie länger als 100 m oder nicht durchblickbar sind.
 
 (2) Beleuchtungsanlagen müssen unter Berücksichtigung der betrieblichen Erfordernisse so beschaffen und angeordnet sein, daß
 
-1.
+1. Betriebsanlagen nach Absatz 1 ohne Gefährdung benutzt werden können und insbesondere Bahnsteigkanten deutlich erkennbar sind,
 
-2.
+2. keine Signale vorgetäuscht werden,
 
-3.
+3. die Erkennbarkeit von Signalen nicht beeinträchtigt wird.
 
 (3) Die Einschaltung der Beleuchtung in Tunneln muß über nachrichtentechnische Anlagen angefordert werden können; dies gilt nicht, wenn die Beleuchtung in Abständen von höchstens 50 m direkt eingeschaltet werden kann. Außerdem müssen Einrichtungen vorhanden sein, die bei Ausfall der Fahrleitungsspannung von mehr als 60 Sekunden die Beleuchtung selbsttätig einschalten. Die Beleuchtung darf nur von Befugten ausgeschaltet werden können.
 
 (4) Eine Sicherheitsbeleuchtung ist erforderlich für
 
-1.
+1. Bahnsteige, soweit es die Verkehrsbedeutung oder die betrieblichen Verhältnisse erfordern, insbesondere bei Haltestellen in Hoch- oder Tieflage,
 
-2.
+2. Rettungswege,
 
-3.
+3. Sicherheitsräume in Tunneln, ausgenommen Sicherheitsräume unter Bahnsteigen und Laufstegen,
 
-4.
+4. Notausgänge,
 
-5.
+5. Räume, in denen Fahrgäste bedient werden,
 
-6.
+6. Zu- und Abgänge von Bahnsteigen nach Nummer 1 und von Räumen nach Nummer 5.
 
 (5) Die Sicherheitsbeleuchtung muß so beschaffen und angeordnet sein, daß die Betriebsanlagen nach Absatz 4 ausreichend beleuchtet werden können. Sie muß 0,5 Sekunden nach Ausfall der netzabhängigen Beleuchtung im betriebsnotwendigen Umfang eingeschaltet sein. Bei Tunneln und Notausgängen darf diese Zeit bis zu 15 Sekunden betragen, sofern aus Gründen des Arbeitsschutzes keine kürzeren Einschaltzeiten gefordert werden.
 
@@ -534,11 +530,11 @@ Metallene Rohrleitungen müssen vor Eintritt in Bahnbauwerke galvanisch aufgetre
 
 (1) Tunnel müssen so gebaut sein, daß
 
-1.
+1. der Auftrieb auch bei höchstem zu erwartendem Grundwasserstand die Standsicherheit nicht gefährdet,
 
-2.
+2. bei einem Brand die Standsicherheit seiner tragenden Bauteile gewährleistet bleibt,
 
-3.
+3. eindringende Feuchtigkeit den Betrieb nicht beeinträchtigt.
 
 (2) Bei der Festlegung der Lastannahmen für die Bemessung von Tunneln sind die Ergebnisse von Untersuchungen über Bodenbeschaffenheit und Wasserführung zu berücksichtigen. Sie müssen insbesondere über zu erwartende Bodenkennwerte und chemische Einflüsse Aufschluß geben.
 
@@ -546,9 +542,9 @@ Metallene Rohrleitungen müssen vor Eintritt in Bahnbauwerke galvanisch aufgetre
 
 (4) Bei Stahlbetontunneln, in denen Rückleitungen nach § 26 für Gleichstrom vorhanden sind, müssen Bewehrungen elektrisch leitend miteinander verbunden sein; an Isolierfugen sollen diese Verbindungen trennbar sein. Die Bewehrungen dürfen nicht elektrisch leitend verbunden sein mit
 
-1.
+1. den Fahrschienen,
 
-2.
+2. der Bewehrung oder Metallkonstruktion anderer Bahnbauwerke und bahnfremder Anlagen.
 
 (5) In einem Tunnel müssen ins Freie führende Notausgänge vorhanden und so angelegt sein, dass der Rettungsweg bis zum nächsten Bahnsteig, Notausgang oder bis zur Tunnelmündung jeweils nicht mehr als 300 m lang ist. Dabei dient der Rettungsweg der Rettung von Personen, soweit im Notfall ein Halt von Fahrzeugen im Haltestellenbereich nicht möglich ist. Notausgänge müssen direkt oder über sichere Bereiche auch an Tunnelenden vorhanden sein, wenn der nächste Notausgang oder der nächste Bahnsteig mehr als 100 m entfernt ist.
 
@@ -558,13 +554,13 @@ Metallene Rohrleitungen müssen vor Eintritt in Bahnbauwerke galvanisch aufgetre
 
 (8) Ins Freie führende Ausgangsöffnungen der Notausgänge müssen
 
-1.
+1. von Straßenfahrbahnen einen angemessenen Abstand haben,
 
-2.
+2. jederzeit zugänglich sein; sie dürfen insbesondere nicht durch Straßenfahrzeuge blockiert werden können,
 
-3.
+3. von innen mit mäßigem Kraftaufwand, ohne Hilfsmittel und mit einem selbsterklärenden sowie deutlich gekennzeichneten Mechanismus geöffnet werden können und
 
-4.
+4. gegen unbefugtes Öffnen von außen gesichert sein.
 
 (9) Reicht in Tunneln der Luftaustausch über Haltestellen, Tunnelmündungen und Notausgänge nicht aus oder sind Belästigungen der Fahrgäste durch Luftschwall zu erwarten, sind zusätzliche Maßnahmen zu treffen.
 
@@ -572,37 +568,37 @@ Metallene Rohrleitungen müssen vor Eintritt in Bahnbauwerke galvanisch aufgetre
 
 (11) Absperrvorrichtungen nach Absatz 10 müssen mit Zugsicherungsanlagen verbunden sein, die verhindern, daß Züge
 
-1.
+1. in abzusperrende Bereiche selbsttätig eingeschlossen werden,
 
-2.
+2. auf Absperrvorrichtungen auffahren.
 
 (12) Die Vorschriften der Absätze 1, 2 und 4 gelten entsprechend, wenn Stützmauern in Verbindung mit einer Sohle einen Trog bilden.
 
 ### § 31 — Haltestellen
 
-(1) Haltestellen müssen Haltestellen sollen Bahnsteige besitzen sowie Wetterschutz- und Sitzmöglichkeiten bieten.
+(1) Haltestellen müssen
 
-1.
+1. durch Zeichen als solche kenntlich gemacht sein; bei Haltestellen in Hoch- oder Tieflage müssen die Zugänge gekennzeichnet sein,
 
-2.
+2. den Namen der Haltestelle aufweisen und mit Einrichtungen für Fahr- und Netzpläne ausgestattet sein,
 
-3.
+3. als Doppelhaltestelle gekennzeichnet sein, wenn an einem Bahnsteig zwei Züge hintereinander halten und abgefertigt werden können.
 
 (2) Zu- und Abgänge in Haltestellen müssen sicher und bequem sein.
 
 (3) Soweit es die betrieblichen Verhältnisse erfordern, müssen Haltestellen versehen sein mit
 
-1.
+1. Einrichtungen zur Information und Abfertigung der Fahrgäste,
 
-2.
+2. Anlagen zur Überwachung des Fahrgastwechsels,
 
-3.
+3. Notrufeinrichtungen,
 
-4.
+4. Feuerlöscheinrichtungen, Löschwasserversorgung,
 
-5.
+5. Mitteln und Einrichtungen zur Ersten Hilfe und sicheren Information im Gefahrenfall und
 
-6.
+6. einer Brandmeldeanlage (BMA).
 
 (4) Bei Fahrbetrieb ohne Fahrzeugführer müssen in Haltestellen besondere Einrichtungen vorhanden sein, die einer Gefährdung von Personen durch fahrende Züge entgegenwirken.
 
@@ -626,19 +622,19 @@ An den Zugängen und Abgängen von Aufzügen, Fahrtreppen oder Fahrsteigen müss
 
 (1) Beim Bau von Fahrzeugen ist als Lastannahme von der Eigenlast und der Nutzlast, von den Kräften aus Anfahrbeschleunigung und Bremsverzögerung, Fahrzeuglauf und Auffahrstößen sowie von den sonstigen sich aus den Betriebsbedingungen ergebenden Kräften auszugehen.
 
-(2) Als Nutzlast bei Personenfahrzeugen ist anzunehmen.
+(2) Als Nutzlast bei Personenfahrzeugen ist
 
-1.
+1. je Sitzplatz eine Last von 750 N
 
-2.
+2. je qm Stehplatzfläche eine Last von 5.000 N
 
 (3) Die Baustoffe und die Konstruktion von Personenfahrzeugen müssen dem Stand der Technik im Brandschutz entsprechen. Insbesondere müssen
 
-1.
+1. die Baustoffe und Bauteile in Fahrgasträumen ausreichenden Widerstand gegen Entstehung und Ausbreitung von Bränden bieten,
 
-2.
+2. Einrichtungen mit erhöhter Brandgefahr so beschaffen oder eingebaut sein, daß mit dem Übergreifen eines Brandes auf Fahrgasträume nicht zu rechnen ist,
 
-3.
+3. im Brandfalle der Entwicklung und Ausbreitung von Hitze und Schadstoffen soweit vorgebeugt sein, daß der Zug noch verlassen werden kann.
 
 (4) Fensterscheiben und sonstige Scheiben müssen mindestens den Anforderungen an Sicherheitsglas genügen.
 
@@ -658,11 +654,11 @@ An den Zugängen und Abgängen von Aufzügen, Fahrtreppen oder Fahrsteigen müss
 
 (12) Personenfahrzeuge, die auf Strecken ohne Sicherheitsraum eingesetzt werden, müssen so beschaffen sein, daß
 
-1.
+1. im Fahrgastraum ein systemeigener Brand nicht entstehen kann,
 
-2.
+2. bei einem außerhalb des Fahrgastraumes entstehenden systemeigenen Brand Fahrgäste bis zur Fremdrettung möglichst vor Verletzungen geschützt sind,
 
-3.
+3. Fahrgäste gerettet werden können.
 
 (13) Fahrzeuge, die über einen eingerichteten Fahrzeugführerplatz verfügen, müssen mit Geräten zur Fahrdatenaufzeichnung ausgerüstet sein.
 
@@ -692,11 +688,11 @@ An den Zugängen und Abgängen von Aufzügen, Fahrtreppen oder Fahrsteigen müss
 
 (2) Die Bremsen müssen so gebaut und einschließlich ihrer Steuereinrichtungen so aufeinander abgestimmt sein, daß
 
-1.
+1. Fahrzeuge und Züge ohne Gefährdung der Fahrgäste mit möglichst geringem Ruck bis zum Stillstand verzögert werden können (Betriebsbremsung),
 
-2.
+2. der Kraftschluß zwischen Rad und Schiene im betriebsnotwendigen Umfang ausgenutzt werden kann,
 
-3.
+3. sie im Zusammenwirken Bremskräfte und Dauerleistungen aufweisen, die den Neigungsverhältnissen im Streckennetz und den betrieblichen Verhältnissen angepaßt sind.
 
 (3) Bei Ausfall einer Bremse müssen mit den übrigen Bremsen mindestens die mittleren Bremsverzögerungen nach Anlage 2 Tabelle 1 erreicht werden.
 
@@ -706,17 +702,17 @@ An den Zugängen und Abgängen von Aufzügen, Fahrtreppen oder Fahrsteigen müss
 
 (6) Bei Fahrzeugen straßenabhängiger Bahnen, ausgenommen bei Betriebsfahrzeugen nach Absatz 7, müssen
 
-1.
+1. eine Bremse vom Kraftschluß zwischen Rad und Schiene unabhängig sein,
 
-2.
+2. die anderen Bremsen durch Sandstreueinrichtungen ergänzt sein,
 
-3.
+3. mit den Bremsen mindestens die mittleren Bremsverzögerungen nach Anlage 2 Tabelle 2 erreicht werden (Gefahrbremsung).
 
-(7) Betriebsfahrzeuge, die mit nur einer Bremse ausgerüstet sind, dürfen fahren. Dabei müssen mindestens die mittleren Bremsverzögerungen nach Anlage 2 Tabelle 1 erreicht werden.
+(7) Betriebsfahrzeuge, die mit nur einer Bremse ausgerüstet sind, dürfen
 
-1.
+1. bei unabhängigen Bahnen höchstens 40 km/h und
 
-2.
+2. bei straßenabhängigen Bahnen höchstens 30 km/h
 
 (8) Die Bremsen der Fahrzeuge, die im Zugverband betrieben werden, müssen so gesteuert sein, dass der Zug die für Fahrzeuge vorgeschriebenen Bremseigenschaften nach den Absätzen 2 bis 7 erreicht.
 
@@ -728,23 +724,23 @@ An den Zugängen und Abgängen von Aufzügen, Fahrtreppen oder Fahrsteigen müss
 
 ### § 37 — Antrieb
 
-Fahrmotoren, Getriebe und sonstige Bauteile zur Kraftübertragung müssen unter Berücksichtigung der Streckenverhältnisse, der Zugzusammensetzungen und der Fahrgeschwindigkeiten für die größten betrieblich vorkommenden Antriebs- und Bremskräfte bemessen sein. Dabei sind insbesondere die Beanspruchungen zu beachten.
+Fahrmotoren, Getriebe und sonstige Bauteile zur Kraftübertragung müssen unter Berücksichtigung der Streckenverhältnisse, der Zugzusammensetzungen und der Fahrgeschwindigkeiten für die größten betrieblich vorkommenden Antriebs- und Bremskräfte bemessen sein. Dabei sind insbesondere die Beanspruchungen
 
-1.
+1. beim generatorischen Bremsen,
 
-2.
+2. beim Schleudern sowie Überbremsen,
 
-3.
+3. bei stoßartigen Änderungen der Fahrleitungsspannung
 
 ### § 38 — Fahrsteuerung
 
 (1) Die Steuerung von Antrieben und Bremsen muß so gebaut sein, daß
 
-1.
+1. Bremsbefehle gegenüber Fahrbefehlen vorrangig ausgeführt werden,
 
-2.
+2. Antriebskräfte und Bremskräfte sich mit möglichst geringem Ruck ändern,
 
-3.
+3. bei Fahrbetrieb ohne Fahrzeugführer die Ausführung der Bremsbefehle überwacht wird.
 
 (2) Personenfahrzeuge müssen eine Sicherheitsfahrschaltung haben, die bei Ausfall des Fahrzeugführers eine Bremsung bis zum Stillstand bewirkt.
 
@@ -762,19 +758,13 @@ Fahrmotoren, Getriebe und sonstige Bauteile zur Kraftübertragung müssen unter 
 
 (2) Bei Fahrzeugen straßenabhängiger Bahnen müssen vorhanden sein:
 
-1.
+1. Geber für das Zugsignal Z 1 (Spitzensignal), wobei die beiden unteren Leuchten des Zugsignals Z 1 als Scheinwerfer ausgeführt sein müssen, die a)den Gleisbereich ausreichend beleuchten können,b)sich gleichzeitig und gleichmäßig abblenden lassen,c)sich nicht unbeabsichtigt verstellen können, den Gleisbereich ausreichend beleuchten können, sich gleichzeitig und gleichmäßig abblenden lassen, sich nicht unbeabsichtigt verstellen können,
 
-a)
+2. an der Rückseite, bei Zweirichtungsfahrzeugen an beiden Seiten, Geber für das Zugsignal Z 2 (Schlusssignal), das Zugsignal Z 3 (Bremssignal) und zwei rote Rückstrahler,
 
-b)
+3. Geber für das Zugsignal Z 4 (Fahrtrichtungssignal) an beiden Längsseiten mindestens vorn und hinten,
 
-c)
-
-2.
-
-3.
-
-4.
+4. Geber für das Zugsignal Z 5 (Warnblinksignal) an beiden Längsseiten mindestens vorn und hinten, die im gleichen Takt blinken müssen.
 
 (3) Die Einschaltung der nichtabgeblendeten Scheinwerfer (Fernlicht) sowie die Funktion der Fahrtrichtungs- und der Warnblink-Signaleinrichtung müssen dem Fahrzeugführer sinnfällig angezeigt werden.
 
@@ -806,11 +796,11 @@ c)
 
 (5) In Personenfahrzeugen müssen Einrichtungen vorhanden sein, die
 
-1.
+1. dem Fahrzeugführer anzeigen, daß die Türen geschlossen sind,
 
-2.
+2. bei Türen auf beiden Längsseiten ein seitenabhängiges Öffnen zulassen,
 
-3.
+3. bei Fahrbetrieb ohne Fahrzeugführer sicherstellen, daß Züge nur bei geschlossenen Türen anfahren können.
 
 (6) Türen müssen in geschlossener Stellung festgehalten sein. Sie müssen jedoch von Fahrgästen im Notfall geöffnet werden können.
 
@@ -842,23 +832,23 @@ c)
 
 ### § 46 — Informationseinrichtungen
 
-(1) Personenfahrzeuge müssen Einrichtungen haben, die anzeigen. Die Anzeigen müssen auch bei Dunkelheit erkennbar sein.
+(1) Personenfahrzeuge müssen Einrichtungen haben, die
 
-1.
+1. an der Stirnseite des Zuges die Linienbezeichnung und den Endpunkt der Linie,
 
-2.
+2. an der Einstiegseite die Linienbezeichnung, den Endpunkt der Linie und soweit erforderlich den Linienverlauf,
 
-3.
+3. an der Rückseite des Zuges die Linienbezeichnung,
 
-4.
+4. im Fahrgastraum den Streckenplan oder den Linienverlauf und soweit erforderlich die Linienbezeichnung
 
 (2) Einrichtungen nach Absatz 1 Nr. 2 sind entbehrlich, wenn die entsprechenden Informationen in allen Haltestellen durch Zugzielanzeiger auf den Bahnsteigen gegeben werden.
 
 (3) Personenfahrzeuge müssen Einrichtungen haben
 
-1.
+1. zur Ansage der nächsten Haltestelle und sonstiger betrieblicher Hinweise,
 
-2.
+2. zur Abgabe und Bestätigung des Haltewunsches mindestens im Bereich jeder Tür, sofern an einzelnen Haltestellen nur bei Bedarf gehalten wird.
 
 (4) Fahrzeuge müssen Einrichtungen für eine Sprechverbindung zwischen Fahrzeugführer und einer Betriebsstelle haben. Notfall-Informationen müssen vorrangig durchgegeben werden können.
 
@@ -872,21 +862,21 @@ c)
 
 (1) An den Außenseiten der Fahrzeuge müssen vorhanden sein
 
-1.
+1. auf den Längsseiten Name und Betriebssitz des Unternehmers oder dessen Geschäftszeichen oder Wappen sowie die Fahrzeugnummer,
 
-2.
+2. Betätigungs- und Verhaltenshinweise für Fahrgäste,
 
-3.
+3. Zeichen an den Stellen, an denen Hebezeuge angesetzt werden dürfen,
 
-4.
+4. bei Betriebsfahrzeugen Angaben über das zulässige Ladegewicht.
 
 (2) Im Innern von Personenfahrzeugen müssen vorhanden sein
 
-1.
+1. Betätigungs- und Verhaltenshinweise für Fahrgäste,
 
-2.
+2. Sinnbilder nach Anlage 3 an den Sitzplätzen, die für in ihrer Mobilität eingeschränkte Personen und für Fahrgäste mit kleinen Kindern vorzusehen sind,
 
-3.
+3. Hinweise auf Einrichtungen und Ausrüstungen für Notfälle.
 
 (3) Beschriftungen und Sinnbilder müssen eindeutig, gut sichtbar und deutlich lesbar sein. Ihre Erkennbarkeit darf durch andere Aufschriften oder Bildzeichen nicht beeinträchtigt sein.
 
@@ -902,35 +892,31 @@ c)
 
 (1) Ein Zug darf einem anderen nur in einem solchen Abstand folgen, daß er auch bei ungünstigen Betriebsverhältnissen, insbesondere bei unvermutetem Halten des vorausfahrenden Zuges, rechtzeitig zum Halten gebracht werden kann. Dieser Abstand muß
 
-1.
+1. bei Fahren auf Sicht vom Fahrzeugführer bewirkt werden,
 
-2.
+2. bei Fahren auf Zugsicherung durch Zugsicherungsanlagen nach § 22 gewährleistet sein.
 
 (2) Auf Sicht dürfen nicht fahren
 
-1.
+1. Züge unabhängiger Bahnen,
 
-2.
-
-a)
-
-b)
+2. Züge straßenabhängiger Bahnena)bei Streckenhöchstgeschwindigkeit über 70 km/h,b)in Tunneln. bei Streckenhöchstgeschwindigkeit über 70 km/h, in Tunneln.
 
 (3) Abweichend von Absatz 2 darf auf Sicht gefahren werden
 
-1.
+1. bei Rangierbewegungen,
 
-2.
+2. in kurzen Tunneln straßenabhängiger Bahnen, wenn der Betriebsbremsweg einsehbar ist,
 
-3.
+3. bei Betriebsstörungen unter Beachtung von Dienstanweisungen.
 
 (4) Auf zweigleisigen Strecken mit besonderem oder unabhängigem Bahnkörper soll und auf zweigleisigen Strecken mit straßenbündigem Bahnkörper muss bei Zweirichtungsbetrieb rechts gefahren werden.
 
-(5) Eingleisige Streckenabschnitte dürfen nicht gleichzeitig in beiden Richtungen befahren werden. Dies muß sichergestellt sein Bei vorübergehend eingleisigem Fahrbetrieb kann diese Forderung auch durch andere Maßnahmen erfüllt werden.
+(5) Eingleisige Streckenabschnitte dürfen nicht gleichzeitig in beiden Richtungen befahren werden. Dies muß sichergestellt sein
 
-1.
+1. bei Fahren auf Sicht durch Fahrsignale nach § 21 Absatz 3 Nummer 2,
 
-2.
+2. bei Fahren auf Zugsicherung durch Zugsicherungsanlagen nach § 22.
 
 ### § 50 — Zulässige Geschwindigkeiten
 
@@ -939,8 +925,6 @@ b)
 (2) Beschränkungen der Streckenhöchstgeschwindigkeit für einzelne Streckenabschnitte sind vom Betriebsleiter nach der Bauart der Fahrzeuge und nach den Streckenverhältnissen sowie aus besonderem Anlaß festzulegen. Über ständige Beschränkungen der Streckenhöchstgeschwindigkeit ist die Technische Aufsichtsbehörde zu unterrichten.
 
 (3) Auf straßenbündigem Bahnkörper darf die für den übrigen Straßenverkehr jeweils geltende Höchstgeschwindigkeit nicht überschritten werden.
-
-(4) Folgende Geschwindigkeiten dürfen nicht überschritten werden
 
 ### § 51 — Signale
 
@@ -992,27 +976,27 @@ b)
 
 (4) Über den Dienst der Fahrbediensteten sind Aufzeichnungen zu führen. Sie müssen enthalten
 
-1.
+1. Namen der Fahrbediensteten,
 
-2.
+2. Dienstbeginn und Dienstende,
 
-3.
+3. besondere Vorkommnisse.
 
 ### § 53 — Besetzen der Züge mit Fahrbediensteten
 
 (1) Jeder Zug muß während der Fahrt mit einem streckenkundigen Fahrzeugführer besetzt sein.
 
-(2) Abweichend von Absatz 1 brauchen Züge unabhängiger Bahnen nicht mit Fahrzeugführern besetzt zu sein, wenn
+(2) Abweichend von Absatz 1 brauchen Züge unabhängiger Bahnen nicht mit Fahrzeugführern besetzt zu sein,
 
-1.
+1. Anlagen und Einrichtungen für selbsttätigen Fahrbetrieb vorhanden sind, die den Forderungen des § 22 entsprechen und nach § 52 Abs. 3 überwacht werden,
 
-2.
+2. regelmäßig überprüft wird, daß der lichte Raum des Gleises von Personen und von sicherungstechnisch nicht erfaßbaren Hindernissen frei ist,
 
-3.
+3. Entgleisungen unmittelbar im System erkannt werden und eine geeignete Beeinflussung der Zugsteuerung erfolgt,
 
-4.
+4. zwischen den Fahrgästen und einer Betriebsstelle Sprechmöglichkeit besteht und
 
-5.
+5. die Fahrgäste im Notfall unverzüglich gerettet werden können.
 
 (3) Betriebszüge müssen außer mit dem Fahrzeugführer mit mindestens einem weiteren Fahrbediensteten besetzt sein, wenn sie nicht mit einer Sicherheitsfahrschaltung nach § 38 Abs. 2 ausgerüstet sind oder ohne Zugsicherungseinrichtungen nach § 38 Abs. 3 Strecken mit Zugsicherungsanlagen befahren.
 
@@ -1060,8 +1044,6 @@ b)
 
 (2) Art und Umfang der Wartung und der Inspektionen haben sich nach Bauart und Belastung der Betriebsanlagen und der Fahrzeuge zu richten.
 
-(3) Inspektionen sind planmäßig wiederkehrend innerhalb folgender Fristen durchzuführen
-
 (4) Unbeschadet des Absatzes 3 sind Betriebsanlagen und Fahrzeuge auch nach Unfällen oder Zwischenfällen, bei denen Teile beschädigt worden sind, die die Betriebssicherheit beeinträchtigen können, einer Inspektion zu unterziehen.
 
 (5) Wenn auf Grund von Feststellungen, Berichten, Untersuchungen oder Gutachten hinreichende Anhaltspunkte dafür vorliegen, dass bei Betriebsanlagen oder Fahrzeugen die Betriebssicherheit gefährdet sein kann, kann die Technische Aufsichtsbehörde abweichend von Absatz 3 kürzere Fristen festsetzen.
@@ -1082,9 +1064,9 @@ b)
 
 Es ist verboten, Betriebsanlagen oder Fahrzeuge zu beschädigen, vorsätzlich zu verunreinigen, ihre Einrichtungen missbräuchlich zu betätigen oder zu nutzen, Fahrthindernisse zu errichten oder andere betriebsgefährdende Handlungen vorzunehmen. Dazu ist es insbesondere untersagt,
 
-1.
+1. Außentüren oder Einrichtungen zur Notbremsung von Fahrzeugen missbräuchlich zu betätigen und
 
-2.
+2. in den für den Aufenthalt und die Abfertigung der Fahrgäste bestimmten unterirdischen Anlagen sowie unter den überdachten Bereichen oberirdischer Haltestellen mit Ausnahme von Fahrgastunterständen zu rauchen, ein offenes Feuer zu entfachen oder brennende oder glimmende Gegenstände wegzuwerfen.
 
 ## Siebenter Abschnitt: Verfahrensvorschriften
 
@@ -1096,9 +1078,9 @@ Es ist verboten, Betriebsanlagen oder Fahrzeuge zu beschädigen, vorsätzlich zu
 
 (3) Die Technische Aufsichtsbehörde erteilt über das Ergebnis der Prüfung einen schriftlichen oder nach Maßgabe des § 5 Satz 3 Personenbeförderungsgesetz elektronischen Zustimmungsbescheid, wenn
 
-1.
+1. im Falle des § 28 Abs. 2 oder 3 Satz 1 des Personenbeförderungsgesetzes eine Planfeststellung unterbleibt oder
 
-2.
+2. die Prüfung der Bauunterlagen nicht bereits im Rahmen einer nach dem Personenbeförderungsgesetz erforderlichen Genehmigung oder Planfeststellung erfolgt ist.
 
 (4) Neben dem Zustimmungsbescheid bleiben die nach anderen öffentlich-rechtlichen Vorschriften erforderlichen Genehmigungen unberührt; die Technische Aufsichtsbehörde kann verlangen, daß der Unternehmer diese Genehmigungen vorlegt.
 
@@ -1120,11 +1102,11 @@ Es ist verboten, Betriebsanlagen oder Fahrzeuge zu beschädigen, vorsätzlich zu
 
 (2) Die Aufsicht umfaßt insbesondere Feststellungen über
 
-1.
+1. die Ordnungsmäßigkeit der Bauausführung,
 
-2.
+2. die Brauchbarkeit der verwendeten Baustoffe und Bauteile,
 
-3.
+3. die ausreichende Sicherung des durch den Bau berührten Fahrbetriebes.
 
 (3) Den mit der Aufsicht Beauftragten ist Zutritt zur Baustelle oder Fertigungsstelle sowie Einblick in die für die Aufsicht erforderlichen Unterlagen zu gewähren.
 
@@ -1149,19 +1131,19 @@ Schluß- und Übergangsvorschriften
 
 ### § 63 — Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 61 Abs. 1 Nr. 4 des Personenbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig als Unternehmer Nummer 2 gilt für den anderen Träger eines Vorhabens (§ 3 Abs. 3 des Personenbeförderungsgesetzes) entsprechend.
+(1) Ordnungswidrig im Sinne des § 61 Abs. 1 Nr. 4 des Personenbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig als Unternehmer
 
-1.
+1. entgegen § 7 Abs. 3 Satz 1 oder 3 einen Betriebsleiter oder einen Stellvertreter nicht bestellt,
 
-2.
+2. entgegen § 60 Abs. 1, auch in Verbindung mit Absatz 10 Satz 1, mit dem Bau von Betriebsanlagen oder sonstigen Anlagen beginnt,
 
-3.
+3. entgegen § 62 Absatz 1 Satz 1 eine Betriebsanlage oder ein Fahrzeug in Betrieb nimmt.
 
 (2) Ordnungswidrig im Sinne des § 61 Abs. 1 Nr. 4 des Personenbeförderungsgesetzes handelt auch, wer vorsätzlich oder fahrlässig
 
-1.
+1. als Person, die nicht Betriebsbedienstete ist, entgegen § 58 Abs. 1 Satz 1 Betriebsanlagen oder Fahrzeuge betritt oder sonst benutzt,
 
-2.
+2. entgegen § 59 Satz 2 Nummer 1 eine Außentür oder eine Einrichtung zur Notbremsung betätigt.
 
 ### § 64 — Übergangsvorschrift
 
@@ -1179,24 +1161,36 @@ Werden in dieser Verordnung an den Bau von Betriebsanlagen oder Fahrzeugen ander
 
 ### Schlußformel
 
-Der Bundesminister für Verkehr
-
 ### Anlage 1 — (zu § 20 Absatz 5 Nummer 1)
 
 ### Anlage 2 — (zu § 36)
 
-(Fundstelle: BGBl. I 1987, Anlageband zu Nr. 58, S. 3)Die Grenzwerte a und s der Tabellen 1 und 2 gelten für leere Fahrzeuge auf geradem, ebenem und trockenem Gleis.Start: BJNR026480987BJNE007800328_01Ende: BJNR026480987BJNE007800328_01
-
-=
-
-=
-
-=
-
-=
+= Mindestwert der mittleren Bremsverzögerung
 
 ### Anlage 3 — (zu § 47 Abs. 2 Nr. 2)
 
 ### Anlage 4 — (zu den §§ 20, 21, 40, 51)
 
-(Fundstelle: BGBl. I 1987, Nr 58, Anlageband S. 6 - 28)
+1. Hauptsignale (Fahren auf Zugsicherung) BezeichnungSignalbildBedeutungErläuterungH 0Ein rotes LichtHaltH 1Ein grünes LichtFahrtSignale H 1 und H 2 können auch in Verbindung mit Geschwindigkeitssignalen G 2 gegeben werdenH 2Ein grünes über einem gelbem LichtFahrt mit Geschwindigkeitsbeschränkung
+
+2. Vorankündigungssignale (Fahren auf Zugsicherung) BezeichnungSignalbildBedeutungErläuterungV 0Zwei gelbe Lichter nach rechts steigendAm folgenden Hauptsignal ist Halt zu erwartenV 1Zwei grüne Lichter nach rechts steigendAm folgenden Hauptsignal ist Fahrt zu erwartenV 2Ein grünes und ein gelbes Licht von links nach rechts stärker steigendAm folgenden Hauptsignal ist Fahrt mit Geschwindigkeitsbeschränkung zu erwartenBei beschränktem Raum können die Lichter senkrecht untereinander angeordnet sein, wenn keine Verwechslungen mit anderen Signalbildern zu befürchten sind.
+
+3. Fahrsignale (Fahren auf Sicht) BezeichnungSignalbildBedeutungErläuterungF 0Ein weißer waagerechter LichtbalkenHaltF 1Ein weißer senkrechter LichtbalkenFahrt freigegeben nur geradeausF 2Ein weißer schräg nach rechts oben weisender LichtbalkenFahrt freigegeben nur nach rechtsF 3Ein weißer schräg nach links oben weisender LichtbalkenFahrt freigegeben nur nach linksF 4Ein weißer LichtpunktHalt zu erwartenF 5Ein weißes Lichtdreieck mit Spitze nach untenFahrt freigegeben unter Beachtung der Abbiegeregeln nach § 9 Straßenverkehrs-Ordnung
+
+4. Abfertigungssignale BezeichnungSignalbildBedeutungErläuterungA 1ein weiß- oder gelbleuchtendes TTüren schließenA 2 aEin kurzes akustisches oder ein optisches oder ein akustisches und ein optisches ZeichenAbfahrenA 2 bEin weiß- oder grünleuchtender Ring
+
+5. Zugsignale BezeichnungSignalbildBedeutungErläuterungZ 1An der Spitze eines Zuges drei weiße LichterSpitzensignalDie Stirnleuchte des Spitzensignals kann die Linienbezeichnung enthaltenZ 2Am Zugschluß zwei rote LichterSchlußsignalZ 3Am Zugschluss zwei rote LichterBremssignalZ 4Gelbe Blinklichter an einer der beiden LängsseitenFahrtrichtungssignalZ 5Gelbe Blinklichter gleichzeitig an beiden LängsseitenWarnblinksignalZeigt an, daß der Zug liegengeblieben ist
+
+6. Geschwindigkeitssignale BezeichnungSignalbildBedeutungErläuterungG 1 aEine dreieckige, auf der Spitze stehende gelbe Tafel mit weißem Rand und schwarzer KennzifferAnkündigung der GeschwindigkeitsbeschränkungGeschwindigkeitsbeschränkung ist jede Änderung der zulässigen Geschwindigkeit nach untenBei beschränktem Raum kann eine Dreieckspitze nach oben zeigenG 1 bEine gelbleuchtende KennzifferG 2 aEine rechteckige gelbe Tafel mit weißem Rand und schwarzer KennzifferBeginn der GeschwindigkeitsbeschränkungG 2 beine weißleuchtende KennzifferG 3Eine rechteckige weiße Tafel mit schwarzem EEnde der GeschwindigkeitsbeschränkungGeschwindigkeitsbeschränkung ist jede Änderung der zulässigen Geschwindigkeit nach untenG 4Eine rechteckige weiße Tafel mit schwarzem Rand und schwarzer KennzifferBeginn der GeschwindigkeitsbegrenzungZeigt Änderungen der zulässigen Geschwindigkeit nach oben an; kann auch anstelle von Signal G 3 verwendet werdenDie Kennziffern der Signale G 1, G 2 und G 4 bedeuten, daß der angegebene Wert in km/h als Geschwindigkeit zugelassen ist; werden einstellige Kennziffern verwendet, gilt deren zehnfacher Wert als zulässige Geschwindigkeit.
+
+7. Schutzsignale BezeichnungSignalbildBedeutungErläuterungSh 1Eine quadratische gelbe Tafel mit waagerechtem grünen StreifenZwangshaltKennzeichnet Stellen, an denen bei Fahren auf Sicht an jedem Fall anzuhalten istSh 2Eine rechteckige rote Tafel mit weißem RandSchutzhaltWeiterfahrt ist unzulässigSh 3 aMindestens 3 kurze akustische Zeichen schnell hintereinanderNothaltDer Zug ist auf kürzestem Weg anzuhaltenSh 3 bEine weiß-rot-weiße Fahne oder der Arm im Kreis bewegtSh 3 cEine Laterne, möglichst rot abgeblendet, oder ein leuchtender Gegenstand im Kreis bewegtSh 3 dEin rotes Blinklicht oder mehrere rote Lichter untereinanderSh 4Eine rechteckige weiße Tafel mit schwarzem LLäutenDen örtlichen Gegebenheiten entsprechend sind akustische Warnsignale zu gebenSh 5Ein mäßig langer Ton oder LäutezeichenAchtungSignal Sh 5 wird gegeben, um Personen zu warnenSh 6Ein rot-weißes Zeichen oder entsprechende Markierung im GleisbereichGrenzzeichenKennzeichnet die Grenze, bis zu der bei zusammenlaufenden Gleisen das Gleis besetzt werden darfSh 7Eine rechteckige schwarze Tafel mit weißem H oder eine rechteckige weiße Tafel mit schwarzem H oder entsprechende Markierung im GleisbereichHaltetafelKennzeichnet die Stelle, an der die Spitze des Zuges halten soll
+
+8. Rangiersignale BezeichnungSignalbildBedeutungErläuterungR 1Ein mäßig langer Ton und senkrechte Bewegungen des Armes, bei Dunkelheit mit einer weißen LaterneWegfahrenRangierbewegung vom Signalgebenden wegR 2Zwei mäßig lange Töne und waagerechte langsame Bewegungen des Armes, bei Dunkelheit mit einer weißen LaterneHerkommenRangierbewegung zum Signalgebenden hinR 3Drei kurze Töne und kreisförmige Bewegungen des Armes, bei Dunkelheit mit einer weißen LaterneRangierhalt
+
+9. Schaltsignale BezeichnungSignalbildBedeutungErläuterungSt 1Eine quadratische blaue Tafel mit einem weißen SSignalkontaktAm Signal St 1 ist ein Signalkontakt zu betätigenSt 2Eine quadratische blaue Tafel mit einem weißen WWeichenkontaktAm Signal St 2 ist die Weichensteuerung zu betätigenSt 3Eine quadratische, auf der Spitze stehende blaue Tafel mit schwarzem und weißem Rand und einem zerlegten weißen UAusschaltenVom Signal St 3 an muß der Fahrstrom ausgeschaltet seinSt 4Eine quadratische, auf der Spitze stehende blaue Tafel mit schwarzem und weißem Rand und einem geschlossenen weißen UEinschalten erlaubtVom Signal St 4 ab darf der Fahrstrom eingeschaltet werdenSt 5Eine quadratische, auf der Spitze stehende blaue Tafel mi schwarzem und weißem Rand und einem waagerechten weißen StreifenStromabnehmer abziehenVom Signal St 5 ab muß der Stromabnehmer abgezogen seinSt 6Eine quadratische, auf der Spitze stehende blaue Tafel mit schwarzem und weißem Rand und einem senkrechten weißen StreifenStromabnehmer anlegenVom Signal St 6 ab darf der Stromabnehmer wieder angelegt seinSt 7Eine quadratische blaue Tafel mit einem weißen TStreckentrennerAm Signal St 7 ist der Fahrstrom kurz abzuschaltenSt 8Eine quadratische, auf der Spitze stehende blaue Tafel mit schwarzem und weißem Rand und einem auf der Spitze stehenden quadratischen weißen Rahmen mit innenliegendem weißen QuadratHalt für Fahrzeuge mit angelegtem StromabnehmerFahrten über Signal St 8 hinaus sind für Fahrzeuge mit angelegtem Stromabnehmer unzulässig
+
+10. Weichensignale BezeichnungSignalbildBedeutungErläuterungW 1Ein weiß leuchtender Winkel mit Spitze nach obenWeiche steht für Fahrt geradeaus mit höchstens 15 km/hKraftschlüssige Endlage der beweglichen Weichenteile (Weiche ohne Verschluß)W 2Ein weiß leuchtender Winkel mit Spitze nach rechtsWeiche steht für Fahrt nach rechts mit höchstens 15 km/hW 3Ein weiß leuchtender Winkel mit Spitze nach linksWeiche steht für Fahrt nach links mit höchstens 15 km/hW 11Ein weiß leuchtender Winkel mit Spitze nach oben und Basisbalken untenWeiche steht für Fahrt geradeaus mit zulässiger GeschwindigkeitDie beweglichen Teile der Weiche sind in der jeweiligen Endlage formschlüssig festgelegt (Weiche ist verschlossen)W 12Ein weiß leuchtender Winkel mit Spitze nach rechts und Basisbalken linksWeiche steht für Fahrt nach rechts mit zulässiger GeschwindigkeitW 13Ein weiß leuchtender Winkel mit Spitze nach links und Basisbalken rechtsWeiche steht für Fahrt nach links mit zulässiger GeschwindigkeitW 14Ein weißer Winkel mit Spitze nach unten und Basisbalken oben auf einer quadratischen schwarzen TafelWeiche darf nicht aufgefahren werden
+
+11. Überwachungssignale für Bahnübergänge BezeichnungSignalbildBedeutungErläuterungBü 0Ein schwarz-weiß schräg gestreiftes, rückstrahlendes MastschildHalt vor dem Bahnübergang; Weiterfahrt nur, wenn es die Verkehrslage erlaubtBü 0 zeigt an, daß die technische Sicherung des Bahnübergangs ausgefallen istBü 1Ein weißes Blinklicht über einem schwarz-weiß schräg gestreiften, rückstrahlenden MastschildDer Bahnübergang darf befahren werdenBü 1 zeigt an, daß die technische Sicherung des Bahnübergangs ordnungsgemäß arbeitetBü 2Eine rechteckige schwarze Tafel mit vier auf den Spitzen übereinander stehenden weißen RautenEin Überwachungssignal ist zu erwarten
+
+12. Sondersignale BezeichnungSignalbildBedeutungErläuterungSo 1Eine quadratische weiße Tafel mit zwei schwarzen Punkten untereinanderBeginn einer Strecke mit ZugsicherungÜbergang vom Fahren auf Sicht zum Fahren auf ZugsicherungSo 2Eine quadratische weiße Tafel mit zwei schwarzen Punkten untereinander und einem nach rechts steigenden roten DiagonalstreifenEnde einer Strecke mit ZugsicherungÜbergang vom Fahren auf Zugsicherung zum Fahren auf SichtSo 3Ein schwarz-weißer ErkennungsstreifenStandortkennzeichenGibt den Standort von Hauptsignalen anSo 4Ein gelb-weißes MastschildAuftragsschildGibt den Auftrag, am Signal H 0 unter Beachtung besonderer Anordnungen, die in einer Dienstanweisung festgelegt sind, vorbeizufahrenSo 5Eine quadratische gelbe Tafel mit grünem DiagonalkreuzBegegnungsverbot — Anfang —Bei Begegnungsverbot für bestimmte Fahrzeuge und Richtungen können Zusatzschilder verwendet werdenSo 6Eine quadratische gelbe Tafel mit grünem RandBegegnungsverbot — Ende —

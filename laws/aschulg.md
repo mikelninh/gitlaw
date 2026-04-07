@@ -19,11 +19,11 @@
 
 (2) Abschlüsse im Sinne dieses Gesetzes sind
 
-1.
+1. deutsche Abschlüsse zur Erlangung der deutschen allgemeinen Hochschulzugangsberechtigung (Abitur) einschließlich der von der Kultusministerkonferenz anerkannten binationalen Abschlüsse an deutschen Auslandsschulen zur Erlangung der deutschen allgemeinen Hochschulzugangsberechtigung, deutsche Abschlüsse zur Erlangung der Fachhochschulreife, deutsche mittlere Abschlüsse einschließlich Haupt- und Realschulabschlüsse und deutsche berufsbildende Abschlüsse gemäß der Anerkennung durch die Kultusministerkonferenz,
 
-2.
+2. das Gemischtsprachige International Baccalaureate an ausländischen Schulen mit Deutschunterricht gemäß der Anerkennung durch die Kultusministerkonferenz,
 
-3.
+3. das Deutsche Sprachdiplom der Kultusministerkonferenz der Stufen I und II.
 
 ### § 3 — Anspruch auf die Verleihung des Status „Deutsche Auslandsschule“ und Kündigung des Verleihungsvertrages
 
@@ -37,11 +37,11 @@
 
 (2) Der Bund nimmt die Schulaufsicht insbesondere dadurch wahr, dass er
 
-1.
+1. eigene Überprüfungen vor Ort durchführt,
 
-2.
+2. die Berichte der Schulen an die fördernden Stellen auswertet und
 
-3.
+3. prüft, ob die Förderung vertragsgemäß verwendet wird.
 
 (3) Im Rahmen der Schulaufsicht können den Deutschen Auslandsschulen Weisungen erteilt werden.
 
@@ -69,39 +69,39 @@ Die Wahrnehmung der Aufgaben, die sich aus diesem Gesetz ergeben, obliegt dem Au
 
 Eine Deutsche Auslandsschule ist förderfähig, wenn sie
 
-1.
+1. deutschsprachigen Unterricht anbietet und deutschsprachig geprägte Abschlüsse nach § 2 Absatz 2 vermittelt,
 
-2.
+2. in jedem der letzten drei Jahre vor Antragstellung Abschlüsse nach § 2 Absatz 2 Nummer 1 und 2 vergeben hat und von diesen Abschlüssen pro Jahr im Durchschnitt mindestens 12 Abschlüsse aus ein und derselben Kategorie des § 2 Absatz 2 Nummer 1 und 2 stammen,
 
-3.
+3. den demokratischen Werten Deutschlands Rechnung trägt, indem sie den Schülerinnen und Schülern, den Eltern und den Lehrkräften eine angemessene Beteiligung am Schulleben sichert,
 
-4.
+4. die Mittel selbst aufbringt, die neben der Förderung für den nachhaltigen Betrieb einer Deutschen Auslandsschule notwendig sind,
 
-5.
+5. einen ordnungsgemäßen Betrieb, insbesondere die vertragsgemäße Verwendung der Förderung, gewährleistet und
 
-6.
+6. durch die Vorlage einer Bescheinigung einer Behörde des Sitzlandes oder der Bundesrepublik Deutschland oder eines im Sitzland oder der Europäischen Union zugelassenen Wirtschaftsprüfers nachweist, dass sie entweder keine Gewinne erzielt oder die erzielten Gewinne ausschließlich für den Betrieb, den Ausbau oder die Entwicklung der Schule oder als Rücklagen oder Rückstellungen für diese Zwecke eingesetzt werden.
 
 ### § 9 — Fördervertrag
 
 (1) Durch Fördervertrag zwischen dem Bund und dem Träger der Deutschen Auslandsschule werden insbesondere vereinbart:
 
-1.
+1. der Förderzeitraum,
 
-2.
+2. die geförderten Abschlüsse nach § 2 Absatz 2,
 
-3.
+3. die Anzahl der gemäß § 7 Absatz 3 für die Förderung berücksichtigten Klassenzüge,
 
-4.
+4. die Vermittlung von Lehrkräften gemäß § 11,
 
-5.
+5. die Anforderungen an einen ordnungsgemäßen Betrieb, insbesondere die vertragsgemäße Verwendung der Förderung und deren Nachweis,
 
-6.
+6. die Verpflichtung des Schulträgers, für Kinder aus einkommensschwachen Familien eine Ermäßigung des Schulgeldes vorzusehen,
 
-7.
+7. die Frist, innerhalb derer der Schulträger eine Konzeption zur Umsetzung des inklusiven Unterrichts bzw. regelmäßige Fortschrittsberichte hierzu vorzulegen hat,
 
-8.
+8. die Sicherstellung der Förderfähigkeit nach § 8 auch während des Förderzeitraums und
 
-9.
+9. das Recht des Bundesrechnungshofes, an den Deutschen Auslandsschulen zu erheben, ob die Fördermittel des Bundes zweckentsprechend und wirtschaftlich verwendet werden.
 
 (2) Der Fördervertrag kann vom Bund aus wichtigem Grund ohne Einhaltung einer Frist gekündigt werden. Ein wichtiger Grund kann insbesondere vorliegen, wenn der Status „Deutsche Auslandsschule“ entzogen wird, die Förderung nicht vertragsgemäß verwendet wird oder Weisungen nach § 4 Absatz 3 nicht umgesetzt werden.
 
@@ -109,9 +109,9 @@ Eine Deutsche Auslandsschule ist förderfähig, wenn sie
 
 Der Bund kann die vollständige oder anteilige Erstattung der finanziellen Förderung verlangen,
 
-1.
+1. falls der Fördervertrag nach § 9 Absatz 2 fristlos gekündigt wurde oder
 
-2.
+2. soweit die Förderung vollständig oder teilweise nicht vertragsgemäß verwendet wurde.
 
 ### § 11 — Personelle Förderung
 

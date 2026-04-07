@@ -22,7 +22,7 @@
 
 ### § 4 — Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen § 5 Satz 1 einen Zustellungsbevollmächtigten nicht benennt.
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen § 5 Satz 1 einen Zustellungsbevollmächtigten nicht benennt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfhunderttausend Euro geahndet werden. § 30 Absatz 2 Satz 3 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
@@ -52,6 +52,6 @@ Anbieter sozialer Netzwerke, bei denen nach § 2 des Digitale-Dienste-Gesetzes k
 
 Die Zuständigkeit des Bundesamts für Justiz nach den Vorschriften der bis zum 16. Februar 2024 geltenden Fassung dieses Gesetzes für Bußgeldverfahren gegen folgende Anbieter bleibt bestehen:
 
-1.
+1. gegen Anbieter, an die ein oder mehrere Beschlüsse der Kommission zur Benennung einer sehr großen Online-Plattform gemäß Artikel 33 Absatz 4 der Verordnung (EU) 2022/2065 des Europäischen Parlaments und des Rates vom 19. Oktober 2022 über einen Binnenmarkt für digitale Dienste und zur Änderung der Richtlinie 2000/31/EG (Gesetz über digitale Dienste) (ABl. L 277 vom 27.10.2022, S. 1; L 310 vom 1.12.2022, S. 17) gerichtet worden sind, wenn das Bundesamt für Justiz gegen diese Anbieter vor dem nach Artikel 92 der Verordnung (EU) 2022/2065 maßgeblichen Datum ein Bußgeldverfahren nach den Vorschriften der bis zum 16. Februar 2024 geltenden Fassung dieses Gesetzes eingeleitet hat, sowie
 
-2.
+2. gegen andere als in Nummer 1 genannte Anbieter eines sozialen Netzwerks, wenn das Bundesamt für Justiz gegen diese Anbieter vor dem 17. Februar 2024 ein Bußgeldverfahren nach den Vorschriften der bis zum 16. Februar 2024 geltenden Fassung dieses Gesetzes eingeleitet hat.

@@ -20,7 +20,7 @@ Werden Güter zerstört, beschädigt oder gehen sie verloren, bestimmt sich die 
 
 ### § 3 — Umrechnung des Sonderziehungsrechts des Internationalen Währungsfonds
 
-Soweit sich aus Artikel 23 Abs. 1 des Montrealer Übereinkommens nicht etwas anderes ergibt, bestimmt sich die Umrechnung der im Montrealer Übereinkommen in Sonderziehungsrechten ausgedrückten Haftungshöchstbeträge für Schäden wegen Zerstörung, Verlust, Beschädigung oder verspäteter Ablieferung von Gütern nach § 431 Abs. 4 des Handelsgesetzbuchs, für  andere Schäden nach § 49b des Luftverkehrsgesetzes.
+Soweit sich aus Artikel 23 Abs. 1 des Montrealer Übereinkommens nicht etwas anderes ergibt, bestimmt sich die Umrechnung der im Montrealer Übereinkommen in Sonderziehungsrechten ausgedrückten Haftungshöchstbeträge für Schäden wegen Zerstörung, Verlust, Beschädigung oder verspäteter Ablieferung von Gütern nach § 431 Abs. 4 des Handelsgesetzbuchs, für andere Schäden nach § 49b des Luftverkehrsgesetzes.
 
 ### § 4 — Versicherungspflicht
 
@@ -32,11 +32,11 @@ Soweit sich aus Artikel 23 Abs. 1 des Montrealer Übereinkommens nicht etwas and
 
 ### § 5 — Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig jeweils in Verbindung mit einer Rechtsverordnung nach § 4 Abs. 3 Satz 1, eine Haftpflichtversicherung nicht unterhält.
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 4 Abs. 2 oder
 
-2.
+2. entgegen Artikel 4 Abs. 1 in Verbindung mit Artikel 6 Abs. 3 der Verordnung (EG) Nr. 785/2004 des Europäischen Parlaments und des Rates vom 21. April 2004 über Versicherungsanforderungen an Luftfahrtunternehmen und Luftfahrzeugbetreiber (ABl. EU Nr. L 138 S. 1), soweit die Versicherung zur Deckung der Haftung für die Zerstörung, die Beschädigung und den Verlust von Gütern betroffen ist,
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 

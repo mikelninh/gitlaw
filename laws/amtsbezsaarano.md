@@ -19,5 +19,3 @@ Die Bundesregierung wird ermächtigt, als Amtsbezeichnungen der in § 13 Abs. 1 
 Diese Anordnung tritt mit ihrer Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Bundespräsident

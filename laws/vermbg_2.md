@@ -14,9 +14,9 @@
 
 (3) Die Vorschriften dieses Gesetzes gelten nicht
 
-1.
+1. für vermögenswirksame Leistungen juristischer Personen an Mitglieder des Organs, das zur gesetzlichen Vertretung der juristischen Person berufen ist,
 
-2.
+2. für vermögenswirksame Leistungen von Personengesamtheiten an die durch Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung der Personengesamtheit berufenen Personen.
 
 (4) Für Beamte, Richter, Berufssoldaten und Soldaten auf Zeit gelten die nachstehenden Vorschriften dieses Gesetzes entsprechend.
 
@@ -24,59 +24,29 @@
 
 (1) Vermögenswirksame Leistungen sind Geldleistungen, die der Arbeitgeber für den Arbeitnehmer anlegt
 
-1.
+1. als Sparbeiträge des Arbeitnehmers auf Grund eines Sparvertrags über Wertpapiere oder andere Vermögensbeteiligungen (§ 4)a)zum Erwerb von Aktien, die vom Arbeitgeber ausgegeben werden oder an einer deutschen Börse zum regulierten Markt zugelassen oder in den geregelten Freiverkehr einbezogen sind,b)zum Erwerb von Wandelschuldverschreibungen, die vom Arbeitgeber ausgegeben werden oder an einer deutschen Börse zum regulierten Markt zugelassen oder in den Freiverkehr einbezogen sind, sowie von Gewinnschuldverschreibungen, die vom Arbeitgeber ausgegeben werden, zum Erwerb von Namensschuldverschreibungen des Arbeitgebers jedoch nur dann, wenn auf dessen Kosten die Ansprüche des Arbeitnehmers aus der Schuldverschreibung durch ein Kreditinstitut verbürgt oder durch ein Versicherungsunternehmen privatrechtlich gesichert sind und das Kreditinstitut oder Versicherungsunternehmen im Geltungsbereich dieses Gesetzes zum Geschäftsbetrieb befugt ist,c)zum Erwerb von Anteilen an OGAW-Sondervermögen sowie an als Sondervermögen aufgelegten offenen Publikums-AIF nach den §§ 218 und 219 des Kapitalanlagegesetzbuchs sowie von Anteilen an offenen EU-Investmentvermögen und offenen ausländischen AIF, die nach dem Kapitalanlagegesetzbuch vertrieben werden dürfen, wenn nach dem Jahresbericht für das vorletzte Geschäftsjahr, das dem Kalenderjahr des Abschlusses des Vertrags im Sinne des § 4 oder des § 5 vorausgeht, der Wert der Aktien in diesem Investmentvermögen 60 Prozent des Werts dieses Investmentvermögens nicht unterschreitet; für neu aufgelegte Investmentvermögen ist für das erste und zweite Geschäftsjahr der erste Jahresbericht oder der erste Halbjahresbericht nach Auflegung des Investmentvermögens maßgebend,d)(weggefallen)e)(weggefallen)f)zum Erwerb von Genußscheinen, die vom Arbeitgeber als Wertpapiere ausgegeben werden oder an einer deutschen Börse zum regulierten Markt zugelassen oder in den Freiverkehr einbezogen sind und von Unternehmen mit Sitz und Geschäftsleitung im Geltungsbereich dieses Gesetzes, die keine Kreditinstitute sind, ausgegeben werden, wenn mit den Genußscheinen das Recht am Gewinn eines Unternehmens verbunden ist und der Arbeitnehmer nicht als Mitunternehmer im Sinne des § 15 Abs. 1 Satz 1 Nr. 2 des Einkommensteuergesetzes anzusehen ist,g)zur Begründung oder zum Erwerb eines Geschäftsguthabens bei einer Genossenschaft mit Sitz und Geschäftsleitung im Geltungsbereich dieses Gesetzes; ist die Genossenschaft nicht der Arbeitgeber, so setzt die Anlage vermögenswirksamer Leistungen voraus, daß die Genossenschaft entweder ein Kreditinstitut oder eine Bau- oder Wohnungsgenossenschaft im Sinne des § 2 Abs. 1 Nr. 2 des Wohnungsbau-Prämiengesetzes ist, die zum Zeitpunkt der Begründung oder des Erwerbs des Geschäftsguthabens seit mindestens drei Jahren im Genossenschaftsregister ohne wesentliche Änderung ihres Unternehmensgegenstandes eingetragen und nicht aufgelöst ist oder Sitz und Geschäftsleitung in dem in Artikel 3 des Einigungsvertrages genannten Gebiet hat und dort entweder am 1. Juli 1990 als Arbeiterwohnungsbaugenossenschaft, Gemeinnützige Wohnungsbaugenossenschaft oder sonstige Wohnungsbaugenossenschaft bestanden oder einen nicht unwesentlichen Teil von Wohnungen aus dem Bestand einer solchen Bau- oder Wohnungsgenossenschaft erworben hat,h)zur Übernahme einer Stammeinlage oder zum Erwerb eines Geschäftsanteils an einer Gesellschaft mit beschränkter Haftung mit Sitz und Geschäftsleitung im Geltungsbereich dieses Gesetzes, wenn die Gesellschaft das Unternehmen des Arbeitgebers ist,i)zur Begründung oder zum Erwerb einer Beteiligung als stiller Gesellschafter im Sinne des § 230 des Handelsgesetzbuchs am Unternehmen des Arbeitgebers mit Sitz und Geschäftsleitung im Geltungsbereich dieses Gesetzes, wenn der Arbeitnehmer nicht als Mitunternehmer im Sinne des § 15 Abs. 1 Nr. 2 des Einkommensteuergesetzes anzusehen ist,k)zur Begründung oder zum Erwerb einer Darlehensforderung gegen den Arbeitgeber, wenn auf dessen Kosten die Ansprüche des Arbeitnehmers aus dem Darlehensvertrag durch ein Kreditinstitut verbürgt oder durch ein Versicherungsunternehmen privatrechtlich gesichert sind und das Kreditinstitut oder Versicherungsunternehmen im Geltungsbereich dieses Gesetzes zum Geschäftsbetrieb befugt ist,l)zur Begründung oder zum Erwerb eines Genußrechts am Unternehmen des Arbeitgebers mit Sitz und Geschäftsleitung im Geltungsbereich dieses Gesetzes, wenn damit das Recht am Gewinn dieses Unternehmens verbunden ist, der Arbeitnehmer nicht als Mitunternehmer im Sinne des § 15 Abs. 1 Nr. 2 des Einkommensteuergesetzes anzusehen ist und über das Genußrecht kein Genußschein im Sinne des Buchstaben f ausgegeben wird, zum Erwerb von Aktien, die vom Arbeitgeber ausgegeben werden oder an einer deutschen Börse zum regulierten Markt zugelassen oder in den geregelten Freiverkehr einbezogen sind, zum Erwerb von Wandelschuldverschreibungen, die vom Arbeitgeber ausgegeben werden oder an einer deutschen Börse zum regulierten Markt zugelassen oder in den Freiverkehr einbezogen sind, sowie von Gewinnschuldverschreibungen, die vom Arbeitgeber ausgegeben werden, zum Erwerb von Namensschuldverschreibungen des Arbeitgebers jedoch nur dann, wenn auf dessen Kosten die Ansprüche des Arbeitnehmers aus der Schuldverschreibung durch ein Kreditinstitut verbürgt oder durch ein Versicherungsunternehmen privatrechtlich gesichert sind und das Kreditinstitut oder Versicherungsunternehmen im Geltungsbereich dieses Gesetzes zum Geschäftsbetrieb befugt ist, zum Erwerb von Anteilen an OGAW-Sondervermögen sowie an als Sondervermögen aufgelegten offenen Publikums-AIF nach den §§ 218 und 219 des Kapitalanlagegesetzbuchs sowie von Anteilen an offenen EU-Investmentvermögen und offenen ausländischen AIF, die nach dem Kapitalanlagegesetzbuch vertrieben werden dürfen, wenn nach dem Jahresbericht für das vorletzte Geschäftsjahr, das dem Kalenderjahr des Abschlusses des Vertrags im Sinne des § 4 oder des § 5 vorausgeht, der Wert der Aktien in diesem Investmentvermögen 60 Prozent des Werts dieses Investmentvermögens nicht unterschreitet; für neu aufgelegte Investmentvermögen ist für das erste und zweite Geschäftsjahr der erste Jahresbericht oder der erste Halbjahresbericht nach Auflegung des Investmentvermögens maßgebend, (weggefallen) (weggefallen) zum Erwerb von Genußscheinen, die vom Arbeitgeber als Wertpapiere ausgegeben werden oder an einer deutschen Börse zum regulierten Markt zugelassen oder in den Freiverkehr einbezogen sind und von Unternehmen mit Sitz und Geschäftsleitung im Geltungsbereich dieses Gesetzes, die keine Kreditinstitute sind, ausgegeben werden, wenn mit den Genußscheinen das Recht am Gewinn eines Unternehmens verbunden ist und der Arbeitnehmer nicht als Mitunternehmer im Sinne des § 15 Abs. 1 Satz 1 Nr. 2 des Einkommensteuergesetzes anzusehen ist, zur Begründung oder zum Erwerb eines Geschäftsguthabens bei einer Genossenschaft mit Sitz und Geschäftsleitung im Geltungsbereich dieses Gesetzes; ist die Genossenschaft nicht der Arbeitgeber, so setzt die Anlage vermögenswirksamer Leistungen voraus, daß die Genossenschaft entweder ein Kreditinstitut oder eine Bau- oder Wohnungsgenossenschaft im Sinne des § 2 Abs. 1 Nr. 2 des Wohnungsbau-Prämiengesetzes ist, die zum Zeitpunkt der Begründung oder des Erwerbs des Geschäftsguthabens seit mindestens drei Jahren im Genossenschaftsregister ohne wesentliche Änderung ihres Unternehmensgegenstandes eingetragen und nicht aufgelöst ist oder Sitz und Geschäftsleitung in dem in Artikel 3 des Einigungsvertrages genannten Gebiet hat und dort entweder am 1. Juli 1990 als Arbeiterwohnungsbaugenossenschaft, Gemeinnützige Wohnungsbaugenossenschaft oder sonstige Wohnungsbaugenossenschaft bestanden oder einen nicht unwesentlichen Teil von Wohnungen aus dem Bestand einer solchen Bau- oder Wohnungsgenossenschaft erworben hat, zur Übernahme einer Stammeinlage oder zum Erwerb eines Geschäftsanteils an einer Gesellschaft mit beschränkter Haftung mit Sitz und Geschäftsleitung im Geltungsbereich dieses Gesetzes, wenn die Gesellschaft das Unternehmen des Arbeitgebers ist, zur Begründung oder zum Erwerb einer Beteiligung als stiller Gesellschafter im Sinne des § 230 des Handelsgesetzbuchs am Unternehmen des Arbeitgebers mit Sitz und Geschäftsleitung im Geltungsbereich dieses Gesetzes, wenn der Arbeitnehmer nicht als Mitunternehmer im Sinne des § 15 Abs. 1 Nr. 2 des Einkommensteuergesetzes anzusehen ist, zur Begründung oder zum Erwerb einer Darlehensforderung gegen den Arbeitgeber, wenn auf dessen Kosten die Ansprüche des Arbeitnehmers aus dem Darlehensvertrag durch ein Kreditinstitut verbürgt oder durch ein Versicherungsunternehmen privatrechtlich gesichert sind und das Kreditinstitut oder Versicherungsunternehmen im Geltungsbereich dieses Gesetzes zum Geschäftsbetrieb befugt ist, zur Begründung oder zum Erwerb eines Genußrechts am Unternehmen des Arbeitgebers mit Sitz und Geschäftsleitung im Geltungsbereich dieses Gesetzes, wenn damit das Recht am Gewinn dieses Unternehmens verbunden ist, der Arbeitnehmer nicht als Mitunternehmer im Sinne des § 15 Abs. 1 Nr. 2 des Einkommensteuergesetzes anzusehen ist und über das Genußrecht kein Genußschein im Sinne des Buchstaben f ausgegeben wird,
 
-a)
+2. als Aufwendungen des Arbeitnehmers auf Grund eines Wertpapier-Kaufvertrags (§ 5),
 
-b)
+3. als Aufwendungen des Arbeitnehmers auf Grund eines Beteiligungs-Vertrags (§ 6) oder eines Beteiligungs-Kaufvertrags (§ 7),
 
-c)
+4. als Aufwendungen des Arbeitnehmers nach den Vorschriften des Wohnungsbau-Prämiengesetzes; die Voraussetzungen für die Gewährung einer Prämie nach dem Wohnungsbau-Prämiengesetz brauchen nicht vorzuliegen; die Anlage vermögenswirksamer Leistungen als Aufwendungen nach § 2 Abs. 1 Nr. 2 des Wohnungsbau-Prämiengesetzes für den ersten Erwerb von Anteilen an Bau- und Wohnungsgenossenschaften setzt voraus, daß die Voraussetzungen der Nummer 1 Buchstabe g zweiter Halbsatz erfüllt sind,
 
-d)
+5. als Aufwendungen des Arbeitnehmersa)zum Bau, zum Erwerb, zum Ausbau oder zur Erweiterung eines im Inland belegenen Wohngebäudes oder einer im Inland belegenen Eigentumswohnung,b)zum Erwerb eines Dauerwohnrechts im Sinne des Wohnungseigentumsgesetzes an einer im Inland belegenen Wohnung,c)zum Erwerb eines im Inland belegenen Grundstücks zum Zwecke des Wohnungsbaus oderd)zur Erfüllung von Verpflichtungen, die im Zusammenhang mit den in den Buchstaben a bis c bezeichneten Vorhaben eingegangen sind, zum Bau, zum Erwerb, zum Ausbau oder zur Erweiterung eines im Inland belegenen Wohngebäudes oder einer im Inland belegenen Eigentumswohnung, zum Erwerb eines Dauerwohnrechts im Sinne des Wohnungseigentumsgesetzes an einer im Inland belegenen Wohnung, zum Erwerb eines im Inland belegenen Grundstücks zum Zwecke des Wohnungsbaus oder zur Erfüllung von Verpflichtungen, die im Zusammenhang mit den in den Buchstaben a bis c bezeichneten Vorhaben eingegangen sind, sofern der Anlage nicht ein von einem Dritten vorgefertigtes Konzept zu Grunde liegt, bei dem der Arbeitnehmer vermögenswirksame Leistungen zusammen mit mehr als 15 anderen Arbeitnehmern anlegen kann; die Förderung der Aufwendungen nach den Buchstaben a bis c setzt voraus, daß sie unmittelbar für die dort bezeichneten Vorhaben verwendet werden,
 
-e)
+6. als Sparbeiträge des Arbeitnehmers auf Grund eines Sparvertrags (§ 8),
 
-f)
+7. als Beiträge des Arbeitnehmers auf Grund eines Kapitalversicherungsvertrags (§ 9),
 
-g)
-
-h)
-
-i)
-
-k)
-
-l)
-
-2.
-
-3.
-
-4.
-
-5.
-
-a)
-
-b)
-
-c)
-
-d)
-
-6.
-
-7.
-
-8.
+8. als Aufwendungen des Arbeitnehmers, der nach § 18 Abs. 2 oder 3 die Mitgliedschaft in einer Genossenschaft oder Gesellschaft mit beschränkter Haftung gekündigt hat, zur Erfüllung von Verpflichtungen aus der Mitgliedschaft, die nach dem 31. Dezember 1994 fortbestehen oder entstehen.
 
 (2) Aktien, Wandelschuldverschreibungen, Gewinnschuldverschreibungen oder Genußscheine eines Unternehmens, das im Sinne des § 18 Abs. 1 des Aktiengesetzes als herrschendes Unternehmen mit dem Unternehmen des Arbeitgebers verbunden ist, stehen Aktien, Wandelschuldverschreibungen, Gewinnschuldverschreibungen oder Genußscheinen im Sinne des Absatzes 1 Nr. 1 Buchstabe a, b oder f gleich, die vom Arbeitgeber ausgegeben werden. Ein Geschäftsguthaben bei einer Genossenschaft mit Sitz und Geschäftsleitung im Geltungsbereich dieses Gesetzes, die im Sinne des § 18 Abs. 1 des Aktiengesetzes als herrschendes Unternehmen mit dem Unternehmen des Arbeitgebers verbunden ist, steht einem Geschäftsguthaben im Sinne des Absatzes 1 Nr. 1 Buchstabe g bei einer Genossenschaft, die das Unternehmen des Arbeitgebers ist, gleich. Eine Stammeinlage oder ein Geschäftsanteil an einer Gesellschaft mit beschränkter Haftung mit Sitz und Geschäftsleitung im Geltungsbereich dieses Gesetzes, die im Sinne des § 18 Abs. 1 des Aktiengesetzes als herrschendes Unternehmen mit dem Unternehmen des Arbeitgebers verbunden ist, stehen einer Stammeinlage oder einem Geschäftsanteil im Sinne des Absatzes 1 Nr. 1 Buchstabe h an einer Gesellschaft, die das Unternehmen des Arbeitgebers ist, gleich. Eine Beteiligung als stiller Gesellschafter an einem Unternehmen mit Sitz und Geschäftsleitung im Geltungsbereich dieses Gesetzes, das im Sinne des § 18 Abs. 1 des Aktiengesetzes als herrschendes Unternehmen mit dem Unternehmen des Arbeitgebers verbunden ist oder das auf Grund eines Vertrags mit dem Arbeitgeber an dessen Unternehmen gesellschaftsrechtlich beteiligt ist, steht einer Beteiligung als stiller Gesellschafter im Sinne des Absatzes 1 Nr. 1 Buchstabe i gleich. Eine Darlehensforderung gegen ein Unternehmen mit Sitz und Geschäftsleitung im Geltungsbereich dieses Gesetzes, das im Sinne des § 18 Abs. 1 des Aktiengesetzes als herrschendes Unternehmen mit dem Unternehmen des Arbeitgebers verbunden ist, oder ein Genußrecht an einem solchen Unternehmen stehen einer Darlehensforderung oder einem Genußrecht im Sinne des Absatzes 1 Nr. 1 Buchstabe k oder l gleich.
 
 (3) Die Anlage vermögenswirksamer Leistungen in Gewinnschuldverschreibungen im Sinne des Absatzes 1 Nr. 1 Buchstabe b und des Absatzes 2 Satz 1, in denen neben der gewinnabhängigen Verzinsung eine gewinnunabhängige Mindestverzinsung zugesagt ist, setzt voraus, daß
 
-1.
+1. die gewinnunabhängige Mindestverzinsung der Gewinnschuldverschreibung im Regelfall die Hälfte der Gesamtverzinsung nicht überschreitet oder
 
-2.
+2. die gewinnunabhängige Mindestverzinsung zum Zeitpunkt der Ausgabe der Gewinnschuldverschreibung die Hälfte der Emissionsrendite festverzinslicher Wertpapiere nicht überschreitet, die in den Monatsberichten der Deutschen Bundesbank für den viertletzten Kalendermonat ausgewiesen wird, der dem Kalendermonat der Ausgabe vorausgeht.
 
 (4) Die Anlage vermögenswirksamer Leistungen in Genußscheinen und Genußrechten im Sinne des Absatzes 1 Nr. 1 Buchstaben f und l und des Absatzes 2 Satz 1 und 5 setzt voraus, daß eine Rückzahlung zum Nennwert nicht zugesagt ist; ist neben dem Recht am Gewinn eine gewinnunabhängige Mindestverzinsung zugesagt, gilt Absatz 3 entsprechend.
 
@@ -88,17 +58,15 @@ d)
 
 (7) Vermögenswirksame Leistungen sind arbeitsrechtlich Bestandteil des Lohns oder Gehalts. Der Anspruch auf die vermögenswirksame Leistung ist nicht übertragbar.
 
-> (+++ § 2 Abs. 1 Nr 1 F. 2013-12-18: Zur Anwendung vgl. § 17 Abs. 15 Satz 1 +++) (+++ § 2 Abs. 1 Nr 5 F. 2011-12-07: Zur Anwendung vgl. § 17 Abs. 12 F. 2011-12-07 +++)
-
 ### § 3 — Vermögenswirksame Leistungen für Angehörige, Überweisung durch den Arbeitgeber, Kennzeichnungs-, Bestätigungs- und Mitteilungspflichten
 
-(1) Vermögenswirksame Leistungen können auch angelegt werden Dies gilt nicht für die Anlage vermögenswirksamer Leistungen auf Grund von Verträgen nach den §§ 5 bis 7.
+(1) Vermögenswirksame Leistungen können auch angelegt werden
 
-1.
+1. zugunsten des nicht dauernd getrennt lebenden Ehegatten oder Lebenspartners des Arbeitnehmers,
 
-2.
+2. zugunsten der in § 32 Abs. 1 des Einkommensteuergesetzes bezeichneten Kinder, die zu Beginn des maßgebenden Kalenderjahrs das 17. Lebensjahr noch nicht vollendet hatten oder die in diesem Kalenderjahr lebend geboren wurden oder
 
-3.
+3. zugunsten der Eltern oder eines Elternteils des Arbeitnehmers, wenn der Arbeitnehmer als Kind die Voraussetzungen der Nummer 2 erfüllt.
 
 (2) Der Arbeitgeber hat die vermögenswirksamen Leistungen für den Arbeitnehmer unmittelbar an das Unternehmen oder Institut zu überweisen, bei dem sie angelegt werden sollen. Er hat dabei gegenüber dem Unternehmen oder Institut die vermögenswirksamen Leistungen zu kennzeichnen. Das Unternehmen oder Institut hat die nach § 2 Abs. 1 Nr. 1 bis 5, Abs. 2 bis 4 angelegten vermögenswirksamen Leistungen und die Art ihrer Anlage zu kennzeichnen. Kann eine vermögenswirksame Leistung nicht oder nicht mehr die Voraussetzungen des § 2 Abs. 1 bis 4 erfüllen, so hat das Unternehmen oder Institut dies dem Arbeitgeber unverzüglich schriftlich mitzuteilen. Die Sätze 1 bis 4 gelten nicht für die Anlage vermögenswirksamer Leistungen auf Grund von Verträgen nach den §§ 5, 6 Abs. 1 und § 7 Abs. 1 mit dem Arbeitgeber.
 
@@ -112,33 +80,31 @@ d)
 
 (1) Ein Sparvertrag über Wertpapiere oder andere Vermögensbeteiligungen im Sinne des § 2 Abs. 1 Nr. 1 ist ein Sparvertrag mit einem Kreditinstitut oder einer Kapitalverwaltungsgesellschaft, in dem sich der Arbeitnehmer verpflichtet, als Sparbeiträge zum Erwerb von Wertpapieren im Sinne des § 2 Abs. 1 Nr. 1 Buchstabe a bis f, Abs. 2 Satz 1, Abs. 3 und 4 oder zur Begründung oder zum Erwerb von Rechten im Sinne des § 2 Abs. 1 Nr. 1 Buchstabe g bis l, Abs. 2 Satz 2 bis 5 und Abs. 4 einmalig oder für die Dauer von sechs Jahren seit Vertragsabschluß laufend vermögenswirksame Leistungen einzahlen zu lassen oder andere Beträge einzuzahlen.
 
-(2) Die Förderung der auf Grund eines Vertrags nach Absatz 1 angelegten vermögenswirksamen Leistungen setzt voraus, daß Die Sperrfrist gilt für alle auf Grund des Vertrags angelegten vermögenswirksamen Leistungen und beginnt am 1. Januar des Kalenderjahrs, in dem der Vertrag abgeschlossen worden ist. Als Zeitpunkt des Vertragsabschlusses gilt der Tag, an dem die vermögenswirksame Leistung, bei Verträgen über laufende Einzahlungen die erste vermögenswirksame Leistung, beim Kreditinstitut oder bei der Kapitalverwaltungsgesellschaft eingeht.
+(2) Die Förderung der auf Grund eines Vertrags nach Absatz 1 angelegten vermögenswirksamen Leistungen setzt voraus, daß
 
-1.
+1. die Leistungen eines Kalenderjahrs, vorbehaltlich des Absatzes 3, spätestens bis zum Ablauf des folgenden Kalenderjahrs zum Erwerb der Wertpapiere oder zur Begründung oder zum Erwerb der Rechte verwendet und bis zur Verwendung festgelegt werden und
 
-2.
+2. die mit den Leistungen erworbenen Wertpapiere unverzüglich nach ihrem Erwerb bis zum Ablauf einer Frist von sieben Jahren (Sperrfrist) festgelegt werden und über die Wertpapiere oder die mit den Leistungen begründeten oder erworbenen Rechte bis zum Ablauf der Sperrfrist nicht durch Rückzahlung, Abtretung, Beleihung oder in anderer Weise verfügt wird.
 
 (3) Vermögenswirksame Leistungen, die nicht bis zum Ablauf der Frist nach Absatz 2 Nr. 1 verwendet worden sind, gelten als rechtzeitig verwendet, wenn sie am Ende eines Kalenderjahrs insgesamt 150 Euro nicht übersteigen und bis zum Ablauf der Sperrfrist nach Absatz 2 verwendet oder festgelegt werden.
 
 (4) Eine vorzeitige Verfügung ist abweichend von Absatz 2 unschädlich, wenn
 
-1.
+1. der Arbeitnehmer oder sein von ihm nicht dauernd getrennt lebender Ehegatte oder Lebenspartner nach Vertragsabschluß gestorben oder völlig erwerbsunfähig geworden ist,
 
-2.
+2. der Arbeitnehmer nach Vertragsabschluß, aber vor der vorzeitigen Verfügung geheiratet oder eine Lebenspartnerschaft begründet hat und im Zeitpunkt der vorzeitigen Verfügung mindestens zwei Jahre seit Beginn der Sperrfrist vergangen sind,
 
-3.
+3. der Arbeitnehmer nach Vertragsabschluß arbeitslos geworden ist und die Arbeitslosigkeit mindestens ein Jahr lang ununterbrochen bestanden hat und im Zeitpunkt der vorzeitigen Verfügung noch besteht,
 
-4.
+4. der Arbeitnehmer den Erlös innerhalb der folgenden drei Monate unmittelbar für die eigene Weiterbildung oder für die seines von ihm nicht dauernd getrennt lebenden Ehegatten oder Lebenspartners einsetzt und die Maßnahme außerhalb des Betriebes, dem er oder der Ehegatte oder der Lebenspartner angehört, durchgeführt wird und Kenntnisse und Fertigkeiten vermittelt werden, die dem beruflichen Fortkommen dienen und über arbeitsplatzbezogene Anpassungsfortbildungen hinausgehen; für vermögenswirksame Leistungen, die der Arbeitgeber für den Arbeitnehmer nach § 2 Absatz 1 Nummer 1 Buchstabe a, b, f bis l angelegt hat und die Rechte am Unternehmen des Arbeitgebers begründen, gilt dies nur bei Zustimmung des Arbeitgebers; bei nach § 2 Abs. 2 gleichgestellten Anlagen gilt dies nur bei Zustimmung des Unternehmens, das im Sinne des § 18 Abs. 1 des Aktiengesetzes als herrschendes Unternehmen mit dem Unternehmen des Arbeitgebers verbunden ist,
 
-5.
+5. der Arbeitnehmer nach Vertragsabschluß unter Aufgabe der nichtselbständigen Arbeit eine Erwerbstätigkeit, die nach § 138 Abs. 1 der Abgabenordnung der Gemeinde mitzuteilen ist, aufgenommen hat oder
 
-6.
+6. festgelegte Wertpapiere veräußert werden und der Erlös bis zum Ablauf des Kalendermonats, der dem Kalendermonat der Veräußerung folgt, zum Erwerb von in Absatz 1 bezeichneten Wertpapieren wiederverwendet wird; der bis zum Ablauf des der Veräußerung folgenden Kalendermonats nicht wiederverwendete Erlös gilt als rechtzeitig wiederverwendet, wenn er am Ende eines Kalendermonats insgesamt 150 Euro nicht übersteigt.
 
 (5) Unschädlich ist auch, wenn in die Rechte und Pflichten des Kreditinstituts oder der Kapitalverwaltungsgesellschaft aus dem Sparvertrag an seine Stelle ein anderes Kreditinstitut oder eine andere Kapitalverwaltungsgesellschaft während der Laufzeit des Vertrags durch Rechtsgeschäft eintritt.
 
 (6) Werden auf einen Vertrag über laufend einzuzahlende vermögenswirksame Leistungen oder andere Beträge in einem Kalenderjahr, das dem Kalenderjahr des Vertragsabschlusses folgt, weder vermögenswirksame Leistungen noch andere Beträge eingezahlt, so ist der Vertrag unterbrochen und kann nicht fortgeführt werden. Das gleiche gilt, wenn mindestens alle Einzahlungen eines Kalenderjahrs zurückgezahlt oder die Rückzahlungsansprüche aus dem Vertrag abgetreten oder beliehen werden.
-
-> (+++ § 4 Abs. 4 Nr. 1 u. 2 F. 2013-06-26: Zur Anwendung vgl. § 17 Abs. 13  Satz 2 F. 2013-06-26 +++) (+++ § 4 Abs. 4 Nr. 4 F. 2013-12-18: Zur Anwendung vgl. § 17 Abs. 15 Satz 2 F. 2013-12-18 +++)
 
 ### § 5 — Wertpapier-Kaufvertrag
 
@@ -146,25 +112,25 @@ d)
 
 (2) Die Förderung der auf Grund eines Vertrags nach Absatz 1 angelegten vermögenswirksamen Leistungen setzt voraus, daß
 
-1.
+1. mit den Leistungen eines Kalenderjahrs spätestens bis zum Ablauf des folgenden Kalenderjahrs die Wertpapiere erworben werden und
 
-2.
+2. die mit den Leistungen erworbenen Wertpapiere unverzüglich nach ihrem Erwerb bis zum Ablauf einer Frist von sechs Jahren (Sperrfrist) festgelegt werden und über die Wertpapiere bis zum Ablauf der Sperrfrist nicht durch Rückzahlung, Abtretung, Beleihung oder in anderer Weise verfügt wird; die Sperrfrist beginnt am 1. Januar des Kalenderjahrs, in dem das Wertpapier erworben worden ist; § 4 Abs. 4 Nr. 1 bis 5 gilt entsprechend.
 
 ### § 6 — Beteiligungs-Vertrag
 
 (1) Ein Beteiligungs-Vertrag im Sinne des § 2 Abs. 1 Nr. 3 ist ein Vertrag zwischen dem Arbeitnehmer und dem Arbeitgeber über die Begründung von Rechten im Sinne des § 2 Abs. 1 Nr. 1 Buchstabe g bis l und Abs. 4 für den Arbeitnehmer am Unternehmen des Arbeitgebers mit der Vereinbarung, die vom Arbeitnehmer für die Begründung geschuldete Geldsumme mit vermögenswirksamen Leistungen zu verrechnen oder mit anderen Beträgen zu zahlen.
 
-(2) Ein Beteiligungs-Vertrag im Sinne des § 2 Abs. 1 Nr. 3 ist auch ein Vertrag zwischen dem Arbeitnehmer und mit der Vereinbarung, die vom Arbeitnehmer für die Begründung der Rechte oder des Geschäftsguthabens geschuldete Geldsumme mit vermögenswirksamen Leistungen zahlen zu lassen oder mit anderen Beträgen zu zahlen.
+(2) Ein Beteiligungs-Vertrag im Sinne des § 2 Abs. 1 Nr. 3 ist auch ein Vertrag zwischen dem Arbeitnehmer und
 
-1.
+1. einem Unternehmen, das nach § 2 Abs. 2 Satz 2 bis 5 mit dem Unternehmen des Arbeitgebers verbunden oder nach § 2 Abs. 2 Satz 4 an diesem Unternehmen beteiligt ist, über die Begründung von Rechten im Sinne des § 2 Abs. 1 Nr. 1 Buchstabe g bis l, Abs. 2 Satz 2 bis 5 und Abs. 4 für den Arbeitnehmer an diesem Unternehmen oder
 
-2.
+2. einer Genossenschaft mit Sitz und Geschäftsleitung im Geltungsbereich dieses Gesetzes, die ein Kreditinstitut oder eine Bau- oder Wohnungsgenossenschaft ist, die die Voraussetzungen des § 2 Abs. 1 Nr. 1 Buchstabe g zweiter Halbsatz erfüllt, über die Begründung eines Geschäftsguthabens für den Arbeitnehmer bei dieser Genossenschaft
 
 (3) Die Förderung der auf Grund eines Vertrags nach Absatz 1 oder 2 angelegten vermögenswirksamen Leistungen setzt voraus, daß
 
-1.
+1. mit den Leistungen eines Kalenderjahrs spätestens bis zum Ablauf des folgenden Kalenderjahrs die Rechte begründet werden und
 
-2.
+2. über die mit den Leistungen begründeten Rechte bis zum Ablauf einer Frist von sechs Jahren (Sperrfrist) nicht durch Rückzahlung, Abtretung, Beleihung oder in anderer Weise verfügt wird; die Sperrfrist beginnt am 1. Januar des Kalenderjahrs, in dem das Recht begründet worden ist; § 4 Abs. 4 Nr. 1 bis 5 gilt entsprechend.
 
 ### § 7 — Beteiligungs-Kaufvertrag
 
@@ -178,27 +144,27 @@ d)
 
 (1) Ein Sparvertrag im Sinne des § 2 Abs. 1 Nr. 6 ist ein Sparvertrag zwischen dem Arbeitnehmer und einem Kreditinstitut, in dem die in den Absätzen 2 bis 5 bezeichneten Vereinbarungen, mindestens aber die in den Absätzen 2 und 3 bezeichneten Vereinbarungen, getroffen sind.
 
-(2) Der Arbeitnehmer ist verpflichtet, Der Zeitpunkt des Vertragsabschlusses und der Beginn der Sperrfrist bestimmen sich nach den Regelungen des § 4 Abs. 2 Satz 2 und 3.
+(2) Der Arbeitnehmer ist verpflichtet,
 
-1.
+1. einmalig oder für die Dauer von sechs Jahren seit Vertragsabschluß laufend, mindestens aber einmal im Kalenderjahr, als Sparbeiträge vermögenswirksame Leistungen einzahlen zu lassen oder andere Beträge einzuzahlen und
 
-2.
+2. bis zum Ablauf einer Frist von sieben Jahren (Sperrfrist) die eingezahlten vermögenswirksamen Leistungen bei dem Kreditinstitut festzulegen und die Rückzahlungsansprüche aus dem Vertrag weder abzutreten noch zu beleihen.
 
 (3) Der Arbeitnehmer ist abweichend von der in Absatz 2 Satz 1 Nr. 2 bezeichneten Vereinbarung zu vorzeitiger Verfügung berechtigt, wenn eine der in § 4 Abs. 4 Nr. 1 bis 5 bezeichneten Voraussetzungen erfüllt ist.
 
-(4) Der Arbeitnehmer ist abweichend von der in Absatz 2 Satz 1 Nr. 2 bezeichneten Vereinbarung auch berechtigt, vor Ablauf der Sperrfrist mit eingezahlten vermögenswirksamen Leistungen zu erwerben Der Arbeitnehmer ist verpflichtet, bis zum Ablauf der Sperrfrist die nach Satz 1 erworbenen Wertpapiere bei dem Kreditinstitut, mit dem der Sparvertrag abgeschlossen ist, festzulegen und über die Wertpapiere nicht zu verfügen; diese Verpflichtung besteht nicht, wenn eine der in § 4 Abs. 4 Nr. 1 bis 5 bezeichneten Voraussetzungen erfüllt ist.
+(4) Der Arbeitnehmer ist abweichend von der in Absatz 2 Satz 1 Nr. 2 bezeichneten Vereinbarung auch berechtigt, vor Ablauf der Sperrfrist mit eingezahlten vermögenswirksamen Leistungen zu erwerben
 
-1.
+1. Wertpapiere im Sinne des § 2 Abs. 1 Nr. 1 Buchstabe a bis f, Abs. 2 Satz 1, Abs. 3 und 4,
 
-2.
+2. Schuldverschreibungen, die vom Bund, von den Ländern, von den Gemeinden, von anderen Körperschaften des öffentlichen Rechts, vom Arbeitgeber, von einem im Sinne des § 18 Abs. 1 des Aktiengesetzes als herrschendes Unternehmen mit dem Unternehmen des Arbeitgebers verbundenen Unternehmen oder von einem Kreditinstitut mit Sitz und Geschäftsleitung im Geltungsbereich dieses Gesetzes ausgegeben werden, Namensschuldverschreibungen des Arbeitgebers jedoch nur dann, wenn auf dessen Kosten die Ansprüche des Arbeitnehmers aus der Schuldverschreibung durch ein Kreditinstitut verbürgt oder durch ein Versicherungsunternehmen privatrechtlich gesichert sind und das Kreditinstitut oder Versicherungsunternehmen im Geltungsbereich dieses Gesetzes zum Geschäftsbetrieb befugt ist,
 
-3.
+3. Genußscheine, die von einem Kreditinstitut mit Sitz und Geschäftsleitung im Geltungsbereich dieses Gesetzes, das nicht der Arbeitgeber ist, als Wertpapiere ausgegeben werden, wenn mit den Genußscheinen das Recht am Gewinn des Kreditinstituts verbunden ist, der Arbeitnehmer nicht als Mitunternehmer im Sinne des § 15 Abs. 1 Nr. 2 des Einkommensteuergesetzes anzusehen ist und die Voraussetzungen des § 2 Abs. 4 erfüllt sind,
 
-4.
+4. Anleiheforderungen, die in ein Schuldbuch des Bundes oder eines Landes eingetragen werden,
 
-5.
+5. Anteile an einem Sondervermögen, die von Kapitalverwaltungsgesellschaften im Sinne des Kapitalanlagegesetzbuchs ausgegeben werden und nicht unter § 2 Abs. 1 Nr. 1 Buchstabe c fallen, oder
 
-6.
+6. Anteile an offenen EU-Investmentvermögen und ausländischen AIF, die nach dem Kapitalanlagegesetzbuch vertrieben werden dürfen.
 
 (5) Der Arbeitnehmer ist abweichend von der in Absatz 2 Satz 1 Nummer 2 bezeichneten Vereinbarung auch berechtigt, vor Ablauf der Sperrfrist die Überweisung eingezahlter vermögenswirksamer Leistungen auf einen von ihm oder seinem nicht dauernd getrennt lebenden Ehegatten oder Lebenspartner abgeschlossenen Bausparvertrag zu verlangen, wenn weder mit der Auszahlung der Bausparsumme begonnen worden ist noch die überwiesenen Beträge vor Ablauf der Sperrfrist ganz oder zum Teil zurückgezahlt noch Ansprüche aus dem Bausparvertrag abgetreten oder beliehen werden oder wenn eine solche vorzeitige Verfügung nach § 2 Absatz 3 Satz 2 Nummer 1 und 2 des Wohnungsbau-Prämiengesetzes in der Fassung der Bekanntmachung vom 30. Oktober 1997 (BGBl. I S. 2678), das zuletzt durch Artikel 7 des Gesetzes vom 5. April 2011 (BGBl. I S. 554) geändert worden ist, in der jeweils geltenden Fassung unschädlich ist. Satz 1 gilt für vor dem 1. Januar 2009 und nach dem 31. Dezember 2008 abgeschlossene Bausparverträge.
 
@@ -216,9 +182,9 @@ d)
 
 (5) Die Gewinnanteile werden verwendet
 
-1.
+1. zur Erhöhung der Versicherungsleistung oder
 
-2.
+2. auf Verlangen des Arbeitnehmers zur Verrechnung mit fälligen Beiträgen, wenn er nach Vertragsabschluß arbeitslos geworden ist und die Arbeitslosigkeit mindestens ein Jahr lang ununterbrochen bestanden hat und im Zeitpunkt der Verrechnung noch besteht.
 
 ### § 10 — Vereinbarung zusätzlicher vermögenswirksamer Leistungen
 
@@ -238,9 +204,9 @@ d)
 
 (4) Der Arbeitgeber kann einen Termin im Kalenderjahr bestimmen, zu dem die Arbeitnehmer des Betriebs oder Betriebsteils die einmalige Anlage von Teilen des Arbeitslohns nach Absatz 3 verlangen können. Die Bestimmung dieses Termins unterliegt der Mitbestimmung des Betriebsrats oder der zuständigen Personalvertretung; das für die Mitbestimmung in sozialen Angelegenheiten vorgeschriebene Verfahren ist einzuhalten. Der nach Satz 1 bestimmte Termin ist den Arbeitnehmern in jedem Kalenderjahr erneut in geeigneter Form bekanntzugeben. Zu einem anderen als dem nach Satz 1 bestimmten Termin kann der Arbeitnehmer eine einmalige Anlage nach Absatz 3 nur verlangen
 
-1.
+1. von Teilen des Arbeitslohns, den er im letzten Lohnzahlungszeitraum des Kalenderjahrs erzielt, oder
 
-2.
+2. von Teilen besonderer Zuwendungen, die im Zusammenhang mit dem Weihnachtsfest oder Jahresende gezahlt werden.
 
 (5) Der Arbeitnehmer kann jeweils einmal im Kalenderjahr von dem Arbeitgeber schriftlich verlangen, daß der Vertrag über die vermögenswirksame Anlage von Teilen des Arbeitslohns aufgehoben, eingeschränkt oder erweitert wird. Im Fall der Aufhebung ist der Arbeitgeber nicht verpflichtet, in demselben Kalenderjahr einen neuen Vertrag über die vermögenswirksame Anlage von Teilen des Arbeitslohns abzuschließen.
 
@@ -262,11 +228,11 @@ Vermögenswirksame Leistungen werden nur dann nach den Vorschriften dieses Geset
 
 (5) Der Anspruch auf Arbeitnehmer-Sparzulage entfällt rückwirkend, soweit die in den §§ 4 bis 7 genannten Fristen oder bei einer Anlage nach § 2 Abs. 1 Nr. 4 die in § 2 Abs. 1 Nr. 3 und 4 und Abs. 3 Satz 1 des Wohnungsbau-Prämiengesetzes vorgesehenen Voraussetzungen nicht eingehalten werden. Satz 1 gilt für vor dem 1. Januar 2009 und nach dem 31. Dezember 2008 abgeschlossene Bausparverträge. Der Anspruch entfällt nicht, wenn die Sperrfrist nicht eingehalten wird, weil
 
-1.
+1. der Arbeitnehmer das Umtausch- oder Abfindungsangebot eines Wertpapier-Emittenten angenommen hat oder Wertpapiere dem Aussteller nach Auslosung oder Kündigung durch den Aussteller zur Einlösung vorgelegt worden sind,
 
-2.
+2. die mit den vermögenswirksamen Leistungen erworbenen oder begründeten Wertpapiere oder Rechte im Sinne des § 2 Abs. 1 Nr. 1, Abs. 2 bis 4 ohne Mitwirkung des Arbeitnehmers wertlos geworden sind oder
 
-3.
+3. der Arbeitnehmer über nach § 2 Abs. 1 Nr. 4 angelegte vermögenswirksame Leistungen nach Maßgabe des § 4 Abs. 4 Nr. 4 in Höhe von mindestens 30 Euro verfügt.
 
 > (+++ § 13 F. 2013-06-26: Zur Anwendung vgl. § 17 Abs. 14 F. 2013-06-26 +++)
 
@@ -280,13 +246,13 @@ Vermögenswirksame Leistungen werden nur dann nach den Vorschriften dieses Geset
 
 (4) Die Arbeitnehmer-Sparzulage wird auf Antrag durch das für die Besteuerung des Arbeitnehmers nach dem Einkommen zuständige Finanzamt festgesetzt. Der Arbeitnehmer hat den Antrag nach amtlich vorgeschriebenem Vordruck zu stellen. Die Arbeitnehmer-Sparzulage wird fällig
 
-a)
+a) mit Ablauf der für die Anlageform vorgeschriebenen Sperrfrist nach diesem Gesetz,
 
-b)
+b) mit Ablauf der im Wohnungsbau-Prämiengesetz oder in der Verordnung zur Durchführung des Wohnungsbau-Prämiengesetzes genannten Sperr- und Rückzahlungsfristen. Bei Bausparverträgen gelten die in § 2 Abs. 3 Satz 1 des Wohnungsbau-Prämiengesetzes genannten Sperr- und Rückzahlungsfristen und zwar unabhängig davon, ob der Vertrag vor dem 1. Januar 2009 oder nach dem 31. Dezember 2008 abgeschlossen worden ist,
 
-c)
+c) mit Zuteilung des Bausparvertrags oder
 
-d)
+d) in den Fällen unschädlicher Verfügung.
 
 (5) Ein Bescheid über die Ablehnung der Festsetzung einer Arbeitnehmer-Sparzulage ist aufzuheben und die Arbeitnehmer-Sparzulage ist nachträglich festzusetzen, wenn der Einkommensteuerbescheid nach Ergehen des Ablehnungsbescheides geändert wird und dadurch erstmals festgestellt wird, dass die Einkommensgrenzen des § 13 Absatz 1 unterschritten sind. Die Frist für die Festsetzung der Arbeitnehmer-Sparzulage endet in diesem Fall nicht vor Ablauf eines Jahres nach Bekanntgabe des geänderten Steuerbescheides. Satz 2 gilt entsprechend, wenn der geänderten Einkommensteuerfestsetzung kein Bescheid über die Ablehnung der Festsetzung einer Arbeitnehmer-Sparzulage vorangegangen ist.
 
@@ -300,21 +266,21 @@ d)
 
 ### § 15 — Elektronische Vermögensbildungsbescheinigung, Verordnungsermächtigungen, Haftung, Anrufungsauskunft, Außenprüfung
 
-(1) Das Unternehmen, das Institut oder der in § 3 Absatz 3 genannte Gläubiger hat der für die Besteuerung des Arbeitnehmers nach dem Einkommen zuständigen Finanzbehörde nach Maßgabe des § 93c der Abgabenordnung neben den in § 93c Absatz 1 der Abgabenordnung genannten Daten folgende Angaben zu übermitteln (elektronische Vermögensbildungsbescheinigung), wenn der Arbeitnehmer gegenüber der mitteilungspflichtigen Stelle in die Datenübermittlung eingewilligt hat: Die Einwilligung nach Satz 1 ist spätestens bis zum Ablauf des zweiten Kalenderjahres, das auf das Kalenderjahr der Anlage der vermögenswirksamen Leistungen folgt, zu erteilen. Dabei hat der Arbeitnehmer dem Mitteilungspflichtigen die Identifikationsnummer mitzuteilen. Wird die Einwilligung nach Ablauf des Kalenderjahres der Anlage der vermögenswirksamen Leistungen abgegeben, sind die Daten bis zum Ende des folgenden Kalendervierteljahres zu übermitteln.
+(1) Das Unternehmen, das Institut oder der in § 3 Absatz 3 genannte Gläubiger hat der für die Besteuerung des Arbeitnehmers nach dem Einkommen zuständigen Finanzbehörde nach Maßgabe des § 93c der Abgabenordnung neben den in § 93c Absatz 1 der Abgabenordnung genannten Daten folgende Angaben zu übermitteln (elektronische Vermögensbildungsbescheinigung), wenn der Arbeitnehmer gegenüber der mitteilungspflichtigen Stelle in die Datenübermittlung eingewilligt hat:
 
-1.
+1. den jeweiligen Jahresbetrag der nach § 2 Abs. 1 Nr. 1 bis 5, Abs. 2 bis 4 angelegten vermögenswirksamen Leistungen sowie die Art ihrer Anlage,
 
-2.
+2. das Kalenderjahr, dem diese vermögenswirksamen Leistungen zuzuordnen sind, und
 
-3.
+3. entweder das Ende der für die Anlageform vorgeschriebenen Sperrfrist nach diesem Gesetz oder bei einer Anlage nach § 2 Abs. 1 Nr. 4 das Ende der im Wohnungsbau-Prämiengesetz oder in der Verordnung zur Durchführung des Wohnungsbau-Prämiengesetzes genannten Sperr- und Rückzahlungsfristen. Bei Bausparverträgen sind die in § 2 Abs. 3 Satz 1 des Wohnungsbau-Prämiengesetzes genannten Sperr- und Rückzahlungsfristen zu bescheinigen unabhängig davon, ob der Vertrag vor dem 1. Januar 2009 oder nach dem 31. Dezember 2008 abgeschlossen worden ist.
 
 (1a) In den Fällen des Absatzes 1 ist für die Anwendung des § 72a Absatz 4 und des § 93c Absatz 4 Satz 1 der Abgabenordnung die für die Besteuerung der mitteilungspflichtigen Stelle nach dem Einkommen zuständige Finanzbehörde zuständig. Die nach Absatz 1 übermittelten Daten können durch die nach Satz 1 zuständige Finanzbehörde zum Zweck der Anwendung des § 93c Absatz 4 Satz 1 der Abgabenordnung bei den für die Besteuerung der Arbeitnehmer nach dem Einkommen zuständigen Finanzbehörden abgerufen und verwendet werden.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Vorschriften zu erlassen über
 
-1.
+1. Aufzeichnungs- und Mitteilungspflichten des Arbeitgebers und des Unternehmens oder Instituts, bei dem die vermögenswirksamen Leistungen angelegt sind, und
 
-2.
+2. die Festlegung von Wertpapieren und die Art der Festlegung, soweit dies erforderlich ist, damit nicht die Arbeitnehmer-Sparzulage zu Unrecht gezahlt, versagt, nicht zurückgefordert oder nicht einbehalten wird.
 
 (3) Haben der Arbeitgeber, das Unternehmen, das Institut oder der in § 3 Abs. 3 genannte Gläubiger ihre Pflichten nach diesem Gesetz oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung verletzt, so haften sie für die Arbeitnehmer-Sparzulage, die wegen ihrer Pflichtverletzung zu Unrecht gezahlt, nicht zurückgefordert oder nicht einbehalten worden ist.
 
@@ -338,13 +304,13 @@ Für die Anwendung der vorstehenden Vorschriften dieses Gesetzes sind Wertpapier
 
 (2) Für vermögenswirksame Leistungen, die vor dem 1. Januar 1994 angelegt werden, gilt, soweit Absatz 5 nichts anderes bestimmt, § 17 des Fünften Vermögensbildungsgesetzes in der Fassung der Bekanntmachung vom 19. Januar 1989 (BGBl. I S. 137) - Fünftes Vermögensbildungsgesetz 1989 -, unter Berücksichtigung der Änderung durch Artikel 2 Nr. 1 des Gesetzes vom 13. Dezember 1990 (BGBl. I S. 2749).
 
-(3) Für vermögenswirksame Leistungen, die im Jahr 1994 angelegt werden auf Grund eines vor dem 1. Januar 1994 abgeschlossenen Vertrags gelten statt der vorstehenden §§ 2, 4, 6 und 7 die §§ 2, 4, 6 und 7 des Fünften Vermögensbildungsgesetzes 1989.
+(3) Für vermögenswirksame Leistungen, die im Jahr 1994 angelegt werden auf Grund eines vor dem 1. Januar 1994 abgeschlossenen Vertrags
 
-1.
+1. nach § 4 Abs. 1 oder § 5 Abs. 1 des Fünften Vermögensbildungsgesetzes 1989 zum Erwerb von Aktien oder Wandelschuldverschreibungen, die keine Aktien oder Wandelschuldverschreibungen im Sinne des vorstehenden § 2 Abs. 1 Nr. 1 Buchstabe a oder b, Abs. 2 Satz 1 sind, oder
 
-2.
+2. nach § 6 Abs. 2 des Fünften Vermögensbildungsgesetzes 1989 über die Begründung eines Geschäftsguthabens bei einer Genossenschaft, die keine Genossenschaft im Sinne des vorstehenden § 2 Abs. 1 Nr. 1 Buchstabe g, Abs. 2 Satz 2 ist, oder
 
-3.
+3. nach § 6 Abs. 2 oder § 7 Abs. 2 des Fünften Vermögensbildungsgesetzes 1989 über die Übernahme einer Stammeinlage oder zum Erwerb eines Geschäftsanteils an einer Gesellschaft mit beschränkter Haftung, die keine Gesellschaft im Sinne des vorstehenden § 2 Abs. 1 Nr. 1 Buchstabe h, Abs. 2 Satz 3 ist,
 
 (4) Für vermögenswirksame Leistungen, die nach dem 31. Dezember 1993 auf Grund eines Vertrags im Sinne des § 17 Abs. 5 Satz 1 des Fünften Vermögensbildungsgesetzes 1989 angelegt werden, gilt § 17 Abs. 5 und 6 des Fünften Vermögensbildungsgesetzes 1989.
 

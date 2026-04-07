@@ -22,25 +22,25 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 (2) Im Sinne dieses Gesetzes ist
 
-1.
+1. bürgerschaftliches Engagement der freiwillige, unentgeltliche und am Gemeinwohl orientierte Einsatz einer oder mehrerer Personen auf Basis der freiheitlichen demokratischen Grundordnung,
 
-2.
+2. Ehrenamt das bürgerschaftliche Engagement für eine Organisation, die ohne Gewinnerzielungsabsicht Aufgaben ausführt, die im öffentlichen Interesse liegen oder gemeinnützige, kirchliche beziehungsweise mildtätige Zwecke fördern.
 
 ### § 3 — Erfüllung des Stiftungszwecks
 
 (1) Der Stiftungszweck wird erfüllt durch
 
-1.
+1. bedarfsorientierte und umfassende Service-Angebote im Bereich des bürgerschaftlichen Engagements und des Ehrenamts, wie Beratung und Qualifizierung,
 
-2.
+2. Bereitstellung von Informationen bei der Organisationsentwicklung für bürgerschaftliches Engagement und Ehrenamt, insbesondere im Hinblick auf die Digitalisierung,
 
-3.
+3. Vernetzung von Bund, Ländern, Kommunen, Wirtschaft und Zivilgesellschaft,
 
-4.
+4. Förderung von Innovationen im Bereich des bürgerschaftlichen Engagements und des Ehrenamts, insbesondere von digitalen Innovationen,
 
-5.
+5. Stärkung von Strukturen im Bereich des bürgerschaftlichen Engagements und des Ehrenamts in strukturschwachen und ländlichen Räumen und
 
-6.
+6. begleitende Forschung zur Erfüllung der Aufgaben nach den Nummern 1 bis 5.
 
 (2) Die Maßnahmen zur Erfüllung des Stiftungszwecks werden unter Berücksichtigung bereits bestehender Bundesgesetze und -programme und in Abstimmung mit bestehenden Engagement- und Ehrenamtsstrukturen durchgeführt.
 
@@ -68,43 +68,43 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 (1) Der Stiftungsrat beaufsichtigt die Stiftung und entscheidet in allen Angelegenheiten, die für die Stiftung und ihre Entwicklung von grundsätzlicher oder besonderer Bedeutung sind. Von grundsätzlicher oder besonderer Bedeutung sind insbesondere
 
-1.
+1. die Bestellung und die Abberufung des Vorstands,
 
-2.
+2. die Überwachung der Tätigkeit des Vorstands,
 
-3.
+3. der Beschluss des Arbeitsprogramms und der damit verbundenen Richtlinien der Stiftung,
 
-4.
+4. die Änderung der Stiftungssatzung,
 
-5.
+5. die Genehmigung des jährlichen Haushalts- und Stellenplans,
 
-6.
+6. die Feststellung des Jahresabschlusses und die Entlastung des Vorstands,
 
-7.
+7. die Genehmigung des Geschäftsverteilungsplans der Stiftung,
 
-8.
+8. die Zustimmung zur Einleitung von Rechtsstreitigkeiten oder zum Abschluss von Vergleichen,
 
-9.
+9. die Annahme und Verwendung von Zuwendungen Dritter.
 
 (2) Der Stiftungsrat besteht aus 22 Mitgliedern.
 
 (3) Mitglieder sind
 
-1.
+1. die Staatsministerin oder der Staatsminister für Sport und Ehrenamt im Bundeskanzleramt,
 
-2.
+2. die Bundesministerin oder der Bundesminister für Landwirtschaft, Ernährung und Heimat,
 
-3.
+3. die Bundesministerin oder der Bundesminister des Innern,
 
-4.
+4. die Bundesministerin oder der Bundesminister für Bildung, Familie, Senioren, Frauen und Jugend,
 
-5.
+5. fünf Mitglieder des Deutschen Bundestages: jeweils ein Mitglied des Haushaltsausschusses, des Ausschusses für Sport und Ehrenamt, des Ausschusses für Landwirtschaft, Ernährung und Heimat, des Innenausschusses und des Ausschusses für Bildung, Familie, Senioren, Frauen und Jugend, die von ihren Ausschüssen benannt werden,
 
-6.
+6. zwei Vertreterinnen oder Vertreter der Länder, die von der Ministerpräsidentenkonferenz aus ihrer Mitte bestimmt werden,
 
-7.
+7. eine Vertreterin oder ein Vertreter der Kommunen, die oder der auf Vorschlag der Bundesvereinigung der kommunalen Spitzenverbände bestellt wird,
 
-8.
+8. zehn Vertreterinnen oder Vertreter aus dem Bereich des bürgerschaftlichen Engagements und des Ehrenamts, von denen drei von der Staatsministerin oder dem Staatsminister für Sport und Ehrenamt, drei vom Bundesministerium für Landwirtschaft, Ernährung und Heimat, zwei vom Bundesministerium des Innern und zwei vom Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend benannt werden.
 
 (4) Die Mitglieder nach Absatz 3 Nummer 2 bis 4 können sich jeweils durch ihre Staatssekretärin oder ihren Staatssekretär vertreten lassen. Hat ein Mitglied mehrere Staatssekretärinnen oder Staatssekretäre, so ist jede oder jeder einzelne vertretungsbefugt. Dies gilt auch für Parlamentarische Staatssekretärinnen und Parlamentarische Staatssekretäre. Die Mitglieder des Stiftungsrats nach Absatz 3 Nummer 6 können jeweils eine Stellvertreterin oder einen Stellvertreter benennen.
 
@@ -116,7 +116,7 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 (8) Der Stiftungsrat beschließt über alle grundsätzlichen Fragen, die zum Aufgabenbereich der Stiftung gehören. Er ist beschlussfähig, wenn die Hälfte der Mitglieder anwesend ist. Beschlüsse werden mit einfacher Mehrheit gefasst, bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. Die Mitglieder des Stiftungsrats nach Absatz 3 Nummer 1 und 2 haben bei Satzungsänderungen, bei Haushalts- sowie bei Personalangelegenheiten ein Vetorecht.
 
-(9) Sofern der Stiftungsrat gemäß § 5 Absatz 1 Satz 2 Fachbeiräte beruft, wählen die Mitglieder nach Absatz 3 Nummer 8 aus ihrer Mitte jeweils ein Mitglied in den Vorsitz. Die Mitglieder nach Absatz 3 Nummer 8 können in mehreren Fachbeiräten gleichzeitig den Vorsitz ausüben.
+(9) Sofern der Stiftungsrat gemäß § 5 Absatz 1 Satz 2 Fachbeiräte beruft, wählen die Mitglieder nach Absatz 3 Nummer 8 aus ihrer Mitte jeweils ein Mitglied in den Vorsitz. Die Mitglieder nach Absatz 3 Nummer 8 können in mehreren Fachbeiräten gleichzeitig den Vorsitz ausüben.
 
 (10) Die Mitglieder des Stiftungsrats sind ehrenamtlich für die Stiftung tätig. Sie haben Anspruch auf Ersatz der ihnen entstandenen notwendigen Auslagen und Aufwendungen entsprechend den für die unmittelbare Bundesverwaltung geltenden Bestimmungen.
 

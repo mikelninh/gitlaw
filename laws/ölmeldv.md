@@ -14,11 +14,25 @@ Auf Grund des § 5 Abs. 7 des Ölschadengesetzes vom 30. September 1988 (BGBl. I
 
 ### § 1 — Begriffsbestimmungen
 
-Im Sinne dieser Verordnung ist 1.Fondsübereinkommen das Fondsübereinkommen von 1992 (BGBl. 1996 II S. 685), 2.Fonds der Internationale Fonds zur Entschädigung für Ölverschmutzungsschäden nach dem Fondsübereinkommen, 3.Meldepflichtiger jede Person, die nach § 5 Abs. 2 des Ölschadengesetzes verpflichtet ist, Angaben über den Erhalt von Öl zu machen.
+Im Sinne dieser Verordnung ist
+
+1. Fondsübereinkommen das Fondsübereinkommen von 1992 (BGBl. 1996 II S. 685),
+
+2. Fonds der Internationale Fonds zur Entschädigung für Ölverschmutzungsschäden nach dem Fondsübereinkommen,
+
+3. Meldepflichtiger jede Person, die nach § 5 Abs. 2 des Ölschadengesetzes verpflichtet ist, Angaben über den Erhalt von Öl zu machen.
 
 ### § 2 — Inhalt der Meldepflicht
 
-(1) Der Meldepflichtige hat bis spätestens zum 28. Februar eines Jahres folgende Angaben zu machen: 1.Name und Anschrift des Meldepflichtigen, 2.die im vorangegangenen Kalenderjahr erhaltenen Mengen beitragspflichtigen Öls (Artikel 1 Nr. 3 des Fondsübereinkommens), aufgeschlüsselt nach Mengen (in Tonnen),a)die der Meldepflichtige in Häfen oder Umschlagplätzen der Bundesrepublik Deutschland unmittelbar nach ihrer Beförderung auf dem Seeweg erhalten hat, b)die nach einer Seebeförderung in einem Hafen oder Umschlagplatz eines Nichtvertragsstaates des Fondsübereinkommens gelöscht worden sind und die der Meldepflichtige in Anlagen auf dem Gebiet der Bundesrepublik Deutschland erhalten hat; hierbei sind nur solche Mengen zu berücksichtigen, die zwischen der Löschung in dem Nichtvertragsstaat und dem Erhalt durch den Meldepflichtigen nicht bereits in einem Mitgliedstaat des Fondsübereinkommens entgegengenommen worden sind, 3.im Fall der Nummer 2 Buchstabe b den Nichtvertragsstaat, in dem das beitragspflichtige Öl gelöscht worden ist. (2) Die Meldung hat auf den vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) herausgegebenen Vordrucken zu erfolgen.
+(1) Der Meldepflichtige hat bis spätestens zum 28. Februar eines Jahres folgende Angaben zu machen:
+
+1. Name und Anschrift des Meldepflichtigen,
+
+2. die im vorangegangenen Kalenderjahr erhaltenen Mengen beitragspflichtigen Öls (Artikel 1 Nr. 3 des Fondsübereinkommens), aufgeschlüsselt nach Mengen (in Tonnen),a)die der Meldepflichtige in Häfen oder Umschlagplätzen der Bundesrepublik Deutschland unmittelbar nach ihrer Beförderung auf dem Seeweg erhalten hat, b)die nach einer Seebeförderung in einem Hafen oder Umschlagplatz eines Nichtvertragsstaates des Fondsübereinkommens gelöscht worden sind und die der Meldepflichtige in Anlagen auf dem Gebiet der Bundesrepublik Deutschland erhalten hat; hierbei sind nur solche Mengen zu berücksichtigen, die zwischen der Löschung in dem Nichtvertragsstaat und dem Erhalt durch den Meldepflichtigen nicht bereits in einem Mitgliedstaat des Fondsübereinkommens entgegengenommen worden sind, die der Meldepflichtige in Häfen oder Umschlagplätzen der Bundesrepublik Deutschland unmittelbar nach ihrer Beförderung auf dem Seeweg erhalten hat, die nach einer Seebeförderung in einem Hafen oder Umschlagplatz eines Nichtvertragsstaates des Fondsübereinkommens gelöscht worden sind und die der Meldepflichtige in Anlagen auf dem Gebiet der Bundesrepublik Deutschland erhalten hat; hierbei sind nur solche Mengen zu berücksichtigen, die zwischen der Löschung in dem Nichtvertragsstaat und dem Erhalt durch den Meldepflichtigen nicht bereits in einem Mitgliedstaat des Fondsübereinkommens entgegengenommen worden sind,
+
+3. im Fall der Nummer 2 Buchstabe b den Nichtvertragsstaat, in dem das beitragspflichtige Öl gelöscht worden ist.
+
+(2) Die Meldung hat auf den vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) herausgegebenen Vordrucken zu erfolgen.
 
 ### § 3 — Assoziierungsverhältnis
 

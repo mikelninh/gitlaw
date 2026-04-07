@@ -17,7 +17,17 @@ In den Gebietsteilen, die nach Artikel 1 Abs. 1 des Vertrages auf die Bundesrepu
 
 ### Art 3
 
-(1) Die Regierung des Landes Baden-Württemberg wird ermächtigt, für die in Artikel 1 Abs. 1 des Vertrages bezeichneten Gebietsteile durch Rechtsverordnung 1.Vorschriften darüber zu treffen, in welcher Weise bis zur Anlegung von Grundbuchblättern die zu einer Rechtsänderung erforderliche Eintragung in das Grundbuch ersetzt werden soll, 2.Vorschriften über die Anlegung der Grundbuchblätter zu treffen, 3.Vorschriften darüber zu treffen, in welcher Weise Rechte, deren Inhalt sich nach schweizerischem Recht bestimmt, in das Grundbuch eingetragen und in der Zwangsvollstreckung behandelt werden, 4.Vorschriften zur Überleitung solcher Rechte an Grundstücken zu treffen, die in vergleichbare Einrichtungen des deutschen Rechts übergeleitet werden können. (2) Die Landesregierung kann die Ermächtigung auf die Landesjustizverwaltung übertragen.
+(1) Die Regierung des Landes Baden-Württemberg wird ermächtigt, für die in Artikel 1 Abs. 1 des Vertrages bezeichneten Gebietsteile durch Rechtsverordnung
+
+1. Vorschriften darüber zu treffen, in welcher Weise bis zur Anlegung von Grundbuchblättern die zu einer Rechtsänderung erforderliche Eintragung in das Grundbuch ersetzt werden soll,
+
+2. Vorschriften über die Anlegung der Grundbuchblätter zu treffen,
+
+3. Vorschriften darüber zu treffen, in welcher Weise Rechte, deren Inhalt sich nach schweizerischem Recht bestimmt, in das Grundbuch eingetragen und in der Zwangsvollstreckung behandelt werden,
+
+4. Vorschriften zur Überleitung solcher Rechte an Grundstücken zu treffen, die in vergleichbare Einrichtungen des deutschen Rechts übergeleitet werden können.
+
+(2) Die Landesregierung kann die Ermächtigung auf die Landesjustizverwaltung übertragen.
 
 ### Art 4
 
@@ -25,4 +35,6 @@ Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung die
 
 ### Art 5
 
-(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.(2) Der Tag, an dem der Vertrag nach seinem Artikel 8 Abs. 2 sowie das Schlußprotokoll in Kraft treten, ist im Bundesgesetzblatt bekanntzugeben.
+(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
+
+(2) Der Tag, an dem der Vertrag nach seinem Artikel 8 Abs. 2 sowie das Schlußprotokoll in Kraft treten, ist im Bundesgesetzblatt bekanntzugeben.

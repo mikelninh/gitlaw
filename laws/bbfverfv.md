@@ -15,25 +15,25 @@ Auf Grund des § 50e des Berufsbildungsgesetzes in der Fassung der Bekanntmachun
 
 Diese Verordnung regelt zur Feststellung und Bescheinigung der individuellen beruflichen Handlungsfähigkeit am Maßstab eines anerkannten Ausbildungsberufs nach § 1 Absatz 6 des Berufsbildungsgesetzes:
 
-1.
+1. die Festlegung und Auswahl der Feststellungsinstrumente,
 
-2.
+2. das Verfahren zur Würdigung der Leistungen,
 
-3.
+3. das Verfahren zur Dokumentation der Leistungen,
 
-4.
+4. die Maßgaben zur Ausgestaltung des Bescheides bei Feststellung der überwiegenden Vergleichbarkeit und der teilweisen Vergleichbarkeit sowie des Zeugnisses bei Feststellung der vollständigen Vergleichbarkeit der individuellen beruflichen Handlungsfähigkeit,
 
-5.
+5. die Möglichkeit einer Antragstellung für das Ergänzungsverfahren sowie einer erneuten Antragstellung zum Zweck der Wiederholung des Feststellungsverfahrens.
 
 ### § 2 — Festlegung von Feststellungsinstrumenten
 
 (1) Für Ausbildungsberufe, bei denen bundesweit mit mehr als 25 zulässigen Anträgen auf Feststellung der individuellen beruflichen Handlungsfähigkeit im Kalenderjahr zu rechnen ist, ist eine bundeseinheitliche Festlegung und Veröffentlichung von Feststellungsinstrumenten durch die Handwerkskammern oder die sonstigen nach dem Berufsbildungsgesetz zuständigen Stellen vorzunehmen. Für weitere Ausbildungsberufe kann eine bundeseinheitliche Festlegung und Veröffentlichung von Feststellungsinstrumenten erfolgen. An der Festlegung sind Fachverbände, Gewerkschaften sowie selbständige Vereinigungen von Arbeitnehmerinnen und Arbeitnehmern mit sozialpolitischer Zwecksetzung, die die Vertretung der Belange der jeweils betroffenen Berufsgruppen wahrnehmen, zu beteiligen.
 
-(2) Sind für Ausbildungsberufe mehrere Handwerkskammern oder sonstige nach dem Berufsbildungsgesetz zuständige Stellen örtlich oder sachlich zuständig, so schließen sie Verwaltungsvereinbarungen zur Gewährleistung einer bundeseinheitlichen Festlegung und Veröffentlichung von Feststellungsinstrumenten mindestens über Satz 1 gilt nicht für die nur nach § 73 Absatz 1 Nummer 1 Berufsbildungsgesetz zuständigen Stellen.
+(2) Sind für Ausbildungsberufe mehrere Handwerkskammern oder sonstige nach dem Berufsbildungsgesetz zuständige Stellen örtlich oder sachlich zuständig, so schließen sie Verwaltungsvereinbarungen zur Gewährleistung einer bundeseinheitlichen Festlegung und Veröffentlichung von Feststellungsinstrumenten mindestens über
 
-1.
+1. das Verfahren zur Bestimmung der Ausbildungsberufe, für die sie eine gemeinsame Festlegung und Veröffentlichung von Feststellungsinstrumenten vornehmen, und zur regelmäßigen Aktualisierung und Überprüfung der Liste dieser Ausbildungsberufe und
 
-2.
+2. das Verfahren für die gemeinsame Festlegung und Veröffentlichung von Feststellungsinstrumenten.
 
 (3) Das Bundesinstitut für Berufsbildung hat ein Verzeichnis der Verwaltungsvereinbarungen zu führen, um für die obersten Bundes- und Landesbehörden bei deren Aufgabenerledigung Transparenz über die Umsetzung der Verpflichtungen nach Absatz 2 herzustellen. Es hat den obersten Bundes- oder Landesbehörden auf Antrag schriftlich oder elektronisch Auskünfte aus dem Verzeichnis zu erteilen. Die Handwerkskammern oder die sonstigen nach dem Berufsbildungsgesetz zuständigen Stellen haben unverzüglich nach Abschluss einer Verwaltungsvereinbarung nach Absatz 2 die Eintragung in das Verzeichnis beim Bundesinstitut für Berufsbildung zu beantragen. Der Antrag auf Eintragung kann schriftlich oder elektronisch gestellt werden; eine Kopie der Verwaltungsvereinbarung ist beizufügen. Die Sätze 3 und 4 sind bei Änderungen der Verwaltungsvereinbarungen entsprechend anzuwenden.
 
@@ -41,43 +41,37 @@ Diese Verordnung regelt zur Feststellung und Bescheinigung der individuellen ber
 
 (5) Die Handwerkskammern und die sonstigen nach dem Berufsbildungsgesetz zuständigen Stellen veröffentlichen auf ihren Internetseiten jährlich eine Liste der Ausbildungsberufe, für die sie eine Festlegung von Feststellungsinstrumenten vorgenommen haben, sowie die jeweiligen Feststellungsinstrumente. Sind für Ausbildungsberufe mehrere Handwerkskammern oder sonstige nach dem Berufsbildungsgesetz zuständige Stellen örtlich oder sachlich zuständig, können sie in den Verwaltungsvereinbarungen nach Absatz 2 für die Veröffentlichung eine bundeseinheitliche Internetseite bestimmen. In den Fällen des Satzes 2 ist eine Veröffentlichung auf den eigenen Internetseiten nicht erforderlich.
 
-(6) In den Fällen des § 73 des Berufsbildungsgesetzes kann eine oder mehrere zuständige Stellen bestimmen, die die Aufgaben nach den Absätzen 1 bis 5 für die jeweiligen zuständigen Stellen übernehmen.
+(6) In den Fällen des § 73 des Berufsbildungsgesetzes kann
 
-1.
+1. für den Bund die oberste Bundesbehörde für ihren Geschäftsbereich oder mehrere oberste Bundesbehörden gemeinsam für ihre Geschäftsbereiche sowie
 
-2.
+2. ein Land für seinen Bereich und für die Gemeinden und Gemeindeverbände oder mehrere Länder gemeinsam für ihre Bereiche und für die Gemeinden und Gemeindeverbände
 
 (7) Liegt für einen Ausbildungsberuf eine bundeseinheitliche Festlegung und Veröffentlichung nach Absatz 1 nicht oder noch nicht vor, legt die Feststellerin oder der Feststeller selbst Feststellungsinstrumente fest. Die Handwerkskammer oder die sonstige nach dem Berufsbildungsgesetz zuständige Stelle unterstützt die Feststellerin oder den Feststeller in geeigneter Weise.
 
 ### § 3 — Feststellungsinstrumente
 
-Feststellungsinstrumente Regelt eine Ausbildungsordnung keine berufsprofilgebenden Berufsbildpositionen, ist für die Zuordnung von Feststellungsinstrumenten und das Verfahren zur Würdigung der Leistungen eine methodisch mit der Definition berufsprofilgebender Berufsbildpositionen vergleichbare Differenzierung des Berufsbildes vorzunehmen.
+Feststellungsinstrumente
 
-1.
+1. werden den berufsprofilgebenden Berufsbildpositionen der Ausbildungsordnungen unter Benennung der mit ihnen jeweils feststellbaren Fertigkeiten, Kenntnissen und Fähigkeiten des Ausbildungsrahmenplanes zugeordnet; die Zuordnung eines Feststellungsinstruments zu mehreren berufsprofilgebenden Berufsbildpositionen ist möglich,
 
-2.
+2. berücksichtigen in der Regel auch Fertigkeiten, Kenntnisse und Fähigkeiten der integrativen Berufsbildpositionen,
 
-3.
+3. bestehen in der Regel aus praktischen und mündlichen Aufgaben; sie können auch schriftliche Aufgaben umfassen, soweit dies für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist; auf schriftliche Aufgaben ist zu verzichten, wenn die Feststellung mittels anderer Instrumente mit vertretbarem Aufwand möglich ist,
 
-4.
+4. sollen die Einbeziehung von Arbeitsergebnissen aus dem Tätigkeitsbereich des Referenzberufs in den letzten beiden Jahren vor Antragstellung ermöglichen, soweit dies bei der entsprechenden Berufsbildposition grundsätzlich in Betracht kommt, und
 
-5.
+5. können in den Fällen des § 2 Absatz 1 Mindestanforderungen an die Art und den Umfang konkreter Aufgabenstellungen vorsehen.
 
 ### § 4 — Auswahl der Feststellungsinstrumente
 
-Die Feststellerin oder der Feststeller wählt die Feststellungsinstrumente für ein konkretes Feststellungsverfahren aus, indem sie oder er aus den nach § 2 Absatz 1 bundeseinheitlich festgelegten und veröffentlichten Feststellungsinstrumenten In den Fällen des § 2 Absatz 7 ist Satz 1 mit folgenden Maßgaben anzuwenden,
+Die Feststellerin oder der Feststeller wählt die Feststellungsinstrumente für ein konkretes Feststellungsverfahren aus, indem sie oder er aus den nach § 2 Absatz 1 bundeseinheitlich festgelegten und veröffentlichten Feststellungsinstrumenten
 
-1.
+1. bei mehreren möglichen Feststellungsinstrumenten die geeignetsten wählt,
 
-2.
+2. wenn sich der Antrag auf die Feststellung der überwiegenden oder in den Fällen des § 50d des Berufsbildungsgesetzes oder des § 41d der Handwerksordnung auf die Feststellung der teilweisen Vergleichbarkeit der individuellen beruflichen Handlungsfähigkeit richtet, die Feststellungsinstrumente an die im Antrag vorgetragene und somit festzustellende individuelle berufliche Handlungsfähigkeit anpasst, und
 
-3.
-
-1.
-
-2.
-
-3.
+3. diese in konkrete Aufgabenstellungen umsetzt.
 
 ### § 5 — Verfahren zur Würdigung der Leistungen
 
@@ -91,19 +85,19 @@ Die Feststellerin oder der Feststeller wählt die Feststellungsinstrumente für 
 
 Das Verfahren ist zu dokumentieren. Die Verfahrensdokumentation muss enthalten:
 
-1.
+1. die vom Feststellungsantrag umfassten berufsprofilgebenden Berufsbildpositionen des Referenzberufs,
 
-2.
+2. die von der Feststellerin oder dem Feststeller für die Berufsbildpositionen ausgewählten oder festgelegten Feststellungsinstrumente,
 
-3.
+3. die Benennung der jeweils berücksichtigten integrativen Berufsbildpositionen,
 
-4.
+4. die Benennung der konkreten Aufgabenstellungen,
 
-5.
+5. Angaben zu den jeweiligen Leistungen der Antragstellerin oder des Antragstellers,
 
-6.
+6. ein begründetes Feststellungsergebnis für die berufsprofilgebenden Berufsbildpositionen und
 
-7.
+7. eine Begründung des Gesamtergebnisses.
 
 ### § 7 — Maßgaben zur Ausgestaltung des Zeugnisses bei Feststellung der vollständigen Vergleichbarkeit und des Bescheides bei Feststellung der überwiegenden oder teilweisen Vergleichbarkeit
 
@@ -135,24 +129,4 @@ Diese Verordnung tritt am 8. November 2024 in Kraft.
 
 ### Anlage 2 — (zu § 7 Absatz 2)
 
-1.
-
-2.
-
-3.
-
 ### Anlage 3 — (zu § 7 Absatz 3)
-
-1.
-
-2.
-
-3.
-
-4.
-
-1.
-
-2.
-
-3.

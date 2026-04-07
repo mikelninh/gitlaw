@@ -25,5 +25,3 @@ Für Arbeitnehmer bei der Bundeswehr gelten § 7 Abs. 1, § 9 Abs. 1 und 2 und �
 Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister der Verteidigung

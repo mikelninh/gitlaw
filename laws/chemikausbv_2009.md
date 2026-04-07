@@ -22,105 +22,43 @@ Die Ausbildung dauert drei Jahre und sechs Monate.
 
 Die Berufsausbildung gliedert sich in:
 
-1.
+1. Pflichtqualifikationen nach § 4 Absatz 2 Abschnitt I Nummer 1 bis 14,
 
-2.
+2. vier vom Ausbildenden festzulegende Wahlqualifikationen der Auswahlliste nach § 4 Absatz 2 Abschnitt II Nummer 1 bis 20; dabei ist mindestens eine Wahlqualifikation aus Nummer 1 bis 8 zu wählen.
 
 ### § 4 — Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Chemikanten/zur Chemikantin gliedert sich wie folgt (Ausbildungsberufsbild): Abschnitt I: Pflichtqualifikationen nach § 3 Nummer 1Abschnitt II: Wahlqualifikationen nach § 3 Nummer 2
+(2) Die Berufsausbildung zum Chemikanten/zur Chemikantin gliedert sich wie folgt (Ausbildungsberufsbild):
 
-1.
+1. Berufsbildung, Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Betriebliche Maßnahmen zum verantwortlichen Handeln (Responsible Care): 3.1Sicherheit und Gesundheitsschutz bei der Arbeit,3.2Anlagensicherheit,3.3Umweltschutz,3.4Einsetzen von Energieträgern,3.5Umgehen mit Arbeitsgeräten und -mitteln einschließlich Pflege und Wartung,3.6Qualitätsmanagement, Kundenorientierung,3.7Kostenorientiertes Handeln; Sicherheit und Gesundheitsschutz bei der Arbeit, Anlagensicherheit, Umweltschutz, Einsetzen von Energieträgern, Umgehen mit Arbeitsgeräten und -mitteln einschließlich Pflege und Wartung, Qualitätsmanagement, Kundenorientierung, Kostenorientiertes Handeln;
 
-3.1
+4. Arbeitsorganisation und Kommunikation: 4.1Planen und Steuern von Prozess-, Betriebs- und Arbeitsabläufen,4.2Arbeiten im Team,4.3Informationsbeschaffung, Dokumentation,4.4Kommunikations- und Informationssysteme; Planen und Steuern von Prozess-, Betriebs- und Arbeitsabläufen, Arbeiten im Team, Informationsbeschaffung, Dokumentation, Kommunikations- und Informationssysteme;
 
-3.2
+5. Umgehen mit Arbeitsstoffen und Bestimmen von Stoffkonstanten,
 
-3.3
+6. Verfahrenstechnische Grundoperationen,
 
-3.4
+7. Installationstechnische Arbeiten,
 
-3.5
+8. Instandhaltung von Fördermitteln,
 
-3.6
+9. Messtechnik,
 
-3.7
+10. Betreiben von Produktionsanlagen,
 
-4.
+11. Thermische und mechanische Verfahrenstechnik,
 
-4.1
+12. Instandhaltung von Produktionseinrichtungen,
 
-4.2
+13. Steuer- und Regelungstechnik,
 
-4.3
-
-4.4
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-12.
-
-13.
-
-14.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-12.
-
-13.
-
-14.
-
-15.
-
-16.
-
-17.
-
-18.
-
-19.
-
-20.
+14. Optimieren von Produktionsabläufen;
 
 ### § 5 — Durchführung der Berufsausbildung
 
@@ -144,87 +82,47 @@ Die Berufsausbildung gliedert sich in:
 
 (3) Teil 1 der Abschlussprüfung besteht aus den Prüfungsbereichen
 
-1.
+1. Verfahrens- und produktionstechnische Arbeit,
 
-2.
+2. Verfahrenstechnik,
 
-3.
+3. Messtechnik,
 
-4.
+4. Anlagentechnik.
 
 (4) Für den Prüfungsbereich Verfahrens- und produktionstechnische Arbeit bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er a)eine verfahrens- und produktionstechnische Arbeit mit mindestens einer verfahrenstechnischen Grundoperation, mindestens einer messtechnischen Aufgabe sowie mindestens einer anlagentechnischen Montagearbeit durchführen,b)Aufträge analysieren und Informationen beschaffen,c)Arbeitsmittel festlegen,d)Arbeitsabläufe selbstständig und wirtschaftlich planen,e)Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen auswählen und ergreifen sowief)Arbeitsergebnisse kontrollieren und dokumentierenkann; eine verfahrens- und produktionstechnische Arbeit mit mindestens einer verfahrenstechnischen Grundoperation, mindestens einer messtechnischen Aufgabe sowie mindestens einer anlagentechnischen Montagearbeit durchführen, Aufträge analysieren und Informationen beschaffen, Arbeitsmittel festlegen, Arbeitsabläufe selbstständig und wirtschaftlich planen, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen auswählen und ergreifen sowie Arbeitsergebnisse kontrollieren und dokumentieren
 
-a)
+2. der Prüfling soll eine Arbeitsaufgabe durchführen;
 
-b)
+3. die Prüfungszeit beträgt sieben Stunden;
 
-c)
-
-d)
-
-e)
-
-f)
-
-2.
-
-3.
-
-4.
+4. bei der Bewertung der Arbeitsaufgabe ist die verfahrens- und produktionstechnische Grundoperation mit 60 Prozent, die messtechnische Aufgabe und die anlagentechnische Montagearbeit mit jeweils 20 Prozent zu gewichten.
 
 (5) Für den Prüfungsbereich Verfahrenstechnik bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er a)chemische und physikalische Eigenschaften von Stoffen und Stoffklassen, Methoden zur Analyse von Arbeitsstoffen und deren chemische und physikalische Hintergründe sowie die physikalischen Grundlagen verfahrenstechnischer Grundoperationen zuordnen,b)Produktionsverfahren beschreiben sowie die entsprechenden grafischen Darstellungen zuordnen,c)arbeitsorganisatorische und technologische Sachverhalte verknüpfen,d)berufsbezogene Berechnungen durchführen sowiee)Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehenkann; chemische und physikalische Eigenschaften von Stoffen und Stoffklassen, Methoden zur Analyse von Arbeitsstoffen und deren chemische und physikalische Hintergründe sowie die physikalischen Grundlagen verfahrenstechnischer Grundoperationen zuordnen, Produktionsverfahren beschreiben sowie die entsprechenden grafischen Darstellungen zuordnen, arbeitsorganisatorische und technologische Sachverhalte verknüpfen, berufsbezogene Berechnungen durchführen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
-a)
+2. der Prüfling soll Aufgaben schriftlich bearbeiten;
 
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt 90 Minuten.
 
 (6) Für den Prüfungsbereich Messtechnik bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er a)Messprinzipien für nicht-elektrische Größen und die entsprechenden grafischen Darstellungen zuordnen, Messverfahren für elektrische Größen unterscheiden sowie über die Elemente des Regelkreises Auskunft geben,b)arbeitsorganisatorische und technologische Sachverhalte verknüpfen,c)berufsbezogene Berechnungen durchführen,d)informationstechnische Fragestellungen berücksichtigen sowiee)Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehenkann; Messprinzipien für nicht-elektrische Größen und die entsprechenden grafischen Darstellungen zuordnen, Messverfahren für elektrische Größen unterscheiden sowie über die Elemente des Regelkreises Auskunft geben, arbeitsorganisatorische und technologische Sachverhalte verknüpfen, berufsbezogene Berechnungen durchführen, informationstechnische Fragestellungen berücksichtigen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
-a)
+2. der Prüfling soll Aufgaben schriftlich bearbeiten;
 
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt 45 Minuten.
 
 (7) Für den Prüfungsbereich Anlagentechnik bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er a)Bearbeitungsverfahren von unterschiedlichen Werkstoffen beschreiben, Werkstoffe und Bauteile unterscheiden, die Elemente der Installationstechnik zuordnen sowie über die Instandhaltung von Produktionsanlagen, insbesondere Fördersystemen, Auskunft geben,b)arbeitsorganisatorische und technologische Sachverhalte verknüpfen,c)berufsbezogene Berechnungen durchführen sowied)Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehenkann; Bearbeitungsverfahren von unterschiedlichen Werkstoffen beschreiben, Werkstoffe und Bauteile unterscheiden, die Elemente der Installationstechnik zuordnen sowie über die Instandhaltung von Produktionsanlagen, insbesondere Fördersystemen, Auskunft geben, arbeitsorganisatorische und technologische Sachverhalte verknüpfen, berufsbezogene Berechnungen durchführen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
-a)
+2. der Prüfling soll Aufgaben schriftlich bearbeiten;
 
-b)
-
-c)
-
-d)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt 60 Minuten.
 
 ### § 8 — Teil 2 der Abschlussprüfung
 
@@ -232,99 +130,65 @@ d)
 
 (2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen
 
-1.
+1. Produktions- oder Verarbeitungsprozess,
 
-2.
+2. Produktionstechnik,
 
-3.
+3. Prozessleittechnik,
 
-4.
+4. Wirtschafts- und Sozialkunde.
 
 (3) Für den Prüfungsbereich Produktions- oder Verarbeitungsprozess bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er a)einen, mindestens eine nach § 3 Nummer 2 gewählte Wahlqualifikation berücksichtigenden Produktions- oder Verarbeitungsprozess, mit mindestens zwei verfahrenstechnischen Grundoperationen, mindestens einer Regelungs- oder Steuerungsaufgabe und mit mindestens einer anlagentechnischen Inspektions- oder Wartungsarbeit durchführen,b)Aufträge analysieren und Informationen beschaffen,c)Arbeitsmittel festlegen,d)Arbeitsabläufe selbstständig und wirtschaftlich planen,e)Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen auswählen und ergreifen sowief)Arbeitsergebnisse kontrollieren und dokumentierenkann; einen, mindestens eine nach § 3 Nummer 2 gewählte Wahlqualifikation berücksichtigenden Produktions- oder Verarbeitungsprozess, mit mindestens zwei verfahrenstechnischen Grundoperationen, mindestens einer Regelungs- oder Steuerungsaufgabe und mit mindestens einer anlagentechnischen Inspektions- oder Wartungsarbeit durchführen, Aufträge analysieren und Informationen beschaffen, Arbeitsmittel festlegen, Arbeitsabläufe selbstständig und wirtschaftlich planen, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen auswählen und ergreifen sowie Arbeitsergebnisse kontrollieren und dokumentieren
 
-a)
+2. der Prüfling soll eine Arbeitsaufgabe durchführen;
 
-b)
+3. die Prüfungszeit beträgt sieben Stunden;
 
-c)
-
-d)
-
-e)
-
-f)
-
-2.
-
-3.
-
-4.
+4. bei der Bewertung der Arbeitsaufgabe sind die verfahrenstechnischen Grundoperationen mit 60 Prozent, die Regelungs- oder Steuerungsaufgabe sowie die anlagentechnische Inspektions- oder Wartungsarbeit mit jeweils 20 Prozent zu gewichten.
 
 (4) Für den Prüfungsbereich Produktionstechnik bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er a)Produktionsprozesse anhand von Fließbildern nachvollziehen und beschreiben, Störungen erkennen und eingrenzen sowie Maßnahmen zu deren Vermeidung und Behebung ableiten,b)den Einfluss von Reaktionsparametern und der Reaktionsführung auf die chemische Umsetzung beschreiben,c)berufsbezogene Berechnungen durchführen,d)arbeitsorganisatorische und technologische Sachverhalte verknüpfen sowiee)Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehenkann; Produktionsprozesse anhand von Fließbildern nachvollziehen und beschreiben, Störungen erkennen und eingrenzen sowie Maßnahmen zu deren Vermeidung und Behebung ableiten, den Einfluss von Reaktionsparametern und der Reaktionsführung auf die chemische Umsetzung beschreiben, berufsbezogene Berechnungen durchführen, arbeitsorganisatorische und technologische Sachverhalte verknüpfen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
-a)
+2. der Prüfling soll Aufgaben schriftlich bearbeiten;
 
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt 120 Minuten.
 
 (5) Für den Prüfungsbereich Prozessleittechnik bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er a)Aufbau und Wirkungsweise von Automatisierungssystemen beschreiben,b)anhand von Unterlagen Fehler in der Steuerungs- und Regelungstechnik eingrenzen,c)informationstechnische Fragestellungen berücksichtigen und berufsbezogene Berechnungen durchführen,d)arbeitsorganisatorische und technologische Sachverhalte verknüpfen sowiee)Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehenkann; Aufbau und Wirkungsweise von Automatisierungssystemen beschreiben, anhand von Unterlagen Fehler in der Steuerungs- und Regelungstechnik eingrenzen, informationstechnische Fragestellungen berücksichtigen und berufsbezogene Berechnungen durchführen, arbeitsorganisatorische und technologische Sachverhalte verknüpfen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
-a)
+2. der Prüfling soll Aufgaben schriftlich bearbeiten;
 
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-3.
+3. die Prüfungszeit beträgt 60 Minuten.
 
 (6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.
+1. Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
-2.
+2. der Prüfling soll Aufgaben schriftlich bearbeiten;
 
-3.
+3. die Prüfungszeit beträgt 60 Minuten.
 
 ### § 9 — Gewichtungs- und Bestehensregelungen
 
-(1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
+(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen bewertet worden sind.
+1. im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
 
-1.
+2. im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
 
-2.
+3. im Prüfungsbereich Produktions- oder Verarbeitungsprozess und im Prüfungsbereich Produktionstechnik jeweils mit mindestens „ausreichend“,
 
-3.
+4. in mindestens einem der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und
 
-4.
-
-5.
+5. in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“
 
 ### § 10 — Mündliche Ergänzungsprüfung
 
-Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
+Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 ### § 11 — Inkrafttreten, Außerkrafttreten
 
@@ -332,402 +196,20 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
 
 ### Anlage — (zu § 4 Absatz 1)
 
-Abschnitt I: Pflichtqualifikationen nach § 3 Nummer 1
+a) Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
-a)
+b) gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
 
-b)
+c) Möglichkeiten der beruflichen Fortbildung nennen
 
-c)
+d) wesentliche Teile des Arbeitsvertrages nennen
 
-d)
+e) wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
-e)
+a) bei der Planung von Produktionsprozessen mitwirken
 
-a)
+b) anorganische, organische, polymere oder bio- und gentechnische Produkte unter Berücksichtigung des Reaktionsverhaltens sowie gesetzlicher und betrieblicher Vorgaben herstellen
 
-b)
+c) Inprozesskontrolle durchführen
 
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-Abschnitt II: Wahlqualifikationen nach § 3 Nummer 2
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
+d) Produkte prüfen

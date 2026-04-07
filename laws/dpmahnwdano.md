@@ -18,5 +18,3 @@ Für besondere Fälle behalte ich mir die Einstellung der unter I. genannten Bea
 Diese Anordnung tritt am 1. Juni 2010 in Kraft.
 
 ### Schlussformel
-
-Die Bundesministerin der Justiz

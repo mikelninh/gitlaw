@@ -13,7 +13,17 @@ Auf Grund des § 6 Abs. 1 Nr. 3 sowie des Absatzes 3 des Straßenverkehrsgesetze
 
 ### § 1
 
-(1) Abweichend von § 19 Abs. 2 StVZO erlischt die Betriebserlaubnis nicht, wenn an Kraftfahrzeugen eine Vorrichtung zum Schutz der Fahrzeuginsassen bei seitlichem Umstürzen oder rückwärtigem Überschlagen (Umsturzschutzvorrichtung) im Sinne von Abschnitt 3.1 § 33 Absatz 2 der Vorschriften für Sicherheit und Gesundheitsschutz für die landwirtschaftliche Unfallversicherung angebracht wird.(2) Dies gilt nur, wenn 1.der Hersteller der Vorrichtung dem Halter unter Berücksichtigung des § 3 dieser Verordnung bescheinigt, daß nach dem Gutachten eines amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr die Vorrichtung und ihre Eignung für Fahrzeuge des vom Halter verwendeten Typs den Vorschriften der StVZO entspricht,2.die Anbringung vom Hersteller der Vorrichtung oder in einer von diesem ermächtigten Werkstatt vorgenommen wird,3.die Werkstatt in der Bescheinigung nach Nummer 1 den Namen des Fahrzeughalters und die Fahrgestellnummer des Fahrzeugs einträgt sowie die Bescheinigung dem Halter aushändigt und4.der Halter die Bescheinigung zuständigen Personen auf Verlangen zur Prüfung aushändigt oder die Anbringung der Vorrichtung in den Fahrzeugpapieren vermerkt ist.
+(1) Abweichend von § 19 Abs. 2 StVZO erlischt die Betriebserlaubnis nicht, wenn an Kraftfahrzeugen eine Vorrichtung zum Schutz der Fahrzeuginsassen bei seitlichem Umstürzen oder rückwärtigem Überschlagen (Umsturzschutzvorrichtung) im Sinne von Abschnitt 3.1 § 33 Absatz 2 der Vorschriften für Sicherheit und Gesundheitsschutz für die landwirtschaftliche Unfallversicherung angebracht wird.
+
+(2) Dies gilt nur, wenn
+
+1.
+
+2.
+
+3.
+
+4.
 
 ### § 2
 

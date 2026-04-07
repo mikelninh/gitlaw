@@ -19,14 +19,20 @@ Die Farbe der Amtstracht ist schwarz. Der Besatz an der Amtsrobe und am Barett b
 
 ### III.
 
-Am Barett tragen a)der Präsident des Bundespatentgerichts zwei Schnüre in Gold, b)der Vizepräsident und die Senatspräsidenten eine Schnur in Gold.
+Am Barett tragen
+
+a) der Präsident des Bundespatentgerichts zwei Schnüre in Gold,
+
+b) der Vizepräsident und die Senatspräsidenten eine Schnur in Gold.
 
 ### IV.
 
 Abgeordnete Richter tragen die für die Richter des Bundespatentgerichts vorgeschriebene Amtstracht.
 
 
-(1) Patentanwälte dürfen als Bevollmächtigte der Parteien eine Amtstracht tragen, die aus einer Amtsrobe und einem Barett mit stahlblauem Besatz aus stumpfer Seide besteht.(2) Rechtsanwälte dürfen als Bevollmächtigte der Parteien die für Patentanwälte oder die für sie bei den anderen ordentlichen Gerichten vorgeschriebene Amtstracht tragen.
+(1) Patentanwälte dürfen als Bevollmächtigte der Parteien eine Amtstracht tragen, die aus einer Amtsrobe und einem Barett mit stahlblauem Besatz aus stumpfer Seide besteht.
+
+(2) Rechtsanwälte dürfen als Bevollmächtigte der Parteien die für Patentanwälte oder die für sie bei den anderen ordentlichen Gerichten vorgeschriebene Amtstracht tragen.
 
 
 Der Bundesminister der Justiz wird ermächtigt, Ausführungsbestimmungen zu dieser Anordnung zu erlassen.

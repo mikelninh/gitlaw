@@ -16,23 +16,23 @@ Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (2) Durch die Prüfung ist festzustellen, ob der Prüfling die auf einen beruflichen Aufstieg abzielende erweiterte berufliche Handlungsfähigkeit besitzt, in Unternehmen des Agrarservice oder des Pflanzenbaus mit Serviceangeboten unterschiedlicher Strukturen folgende Aufgaben eines Agrarservicemeisters oder einer Agrarservicemeisterin wirtschaftlich und nachhaltig wahrzunehmen, diese Unternehmen eigenverantwortlich zu führen und Leitungsaufgaben auszuüben sowie auf sich verändernde Anforderungen und Rahmenbedingungen in den folgenden Bereichen zu reagieren:
 
-1.
+1. Pflanzenproduktion, Verfahrens- und Agrartechnik, Dienstleistungen: Planen, Kalkulieren und Organisieren der Pflanzenproduktion und agrarischer Dienstleistungen sowie von Maßnahmen für die Vermarktung von Produkten und agrarischen Dienstleistungen unter Beachtung der Betriebs- und Marktverhältnisse; Entwickeln und Umsetzen von betrieblichen Qualitäts- und Quantitätsvorgaben; Entscheiden über Art, Umfang, Zielsetzung und Zeitpunkt betrieblicher Maßnahmen und Abläufe; Kontrollieren und Bewerten der Arbeiten unter Beachtung der Anforderungen des Marktes, der Qualitätssicherung und der Belange des Umweltschutzes; Anbieten und Vermarkten von Produkten und Dienstleistungen; Vorbereiten und Durchführen der erforderlichen Maßnahmen des Arbeits- und Gesundheitsschutzes in Zusammenarbeit mit den mit der Arbeitssicherheit befassten Stellen;
 
-2.
+2. Betriebs- und Unternehmensführung: Entwickeln von Zielen, Konzepten und Maßnahmen für die Pflanzenproduktion, agrarische Dienstleistungen und deren Vermarktung unter Beachtung der Betriebsverhältnisse und der Anforderungen des Marktes; Analysieren und Planen der betrieblichen Abläufe und der Betriebsorganisation nach wirtschaftlichen Gesichtspunkten und unter Beachtung sozialer, ökologischer und rechtlicher Erfordernisse; kaufmännische Disposition beim Beschaffen von Betriebsmitteln, beim Arbeits-, Material- und Maschineneinsatz sowie bei der Vermarktung von agrarischen Dienstleistungen; ökonomische Kontrolle der Betriebsteile und des Gesamtbetriebes; Planen, Kalkulieren und Beurteilen von Investitionen; Zusammenarbeiten mit Marktpartnern und anderen Betrieben; Nutzen der Möglichkeiten der Information und Beratung; Anwenden von Marketing;
 
-3.
+3. Berufsausbildung und Mitarbeiterführung: Prüfen der betrieblichen und persönlichen Ausbildungsvoraussetzungen; Planen der Ausbildung unter inhaltlichen, methodischen und zeitlichen Aspekten entsprechend der Vorgaben der Ausbildungsordnung; Auswählen und Einstellen von Auszubildenden; Durchführen der Ausbildung unter Anwenden geeigneter Methoden bei der Vermittlung von Ausbildungsinhalten; Hinführen der Auszubildenden zu selbständigem Handeln, Vorbereiten auf Prüfungen, Informieren und Beraten über Fortbildungsmöglichkeiten; Auswählen und Einstellen von Mitarbeitern; Übertragen von Aufgaben auf Mitarbeiter entsprechend ihrer Leistungsfähigkeit, Qualifikation und Eignung; Anleiten und Kontrollieren von Mitarbeitern in Arbeitsprozessen, kooperatives Führen, Fördern und Motivieren; Unterstützen der beruflichen Weiterbildung von Mitarbeitern.
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss Agrarservicemeister oder Agrarservicemeisterin.
 
 ### § 2 — Zulassungsvoraussetzungen
 
-(1) Zur Meisterprüfung ist zuzulassen, wer nachweist.
+(1) Zur Meisterprüfung ist zuzulassen, wer
 
-1.
+1. eine mit Erfolg abgelegte Abschlussprüfung in dem anerkannten Ausbildungsberuf Fachkraft Agrarservice und danach eine mindestens zweijährige Berufspraxis oder
 
-2.
+2. eine mit Erfolg abgelegte Abschlussprüfung in einem anderen anerkannten landwirtschaftlichen Ausbildungsberuf und danach eine mindestens dreijährige Berufspraxis oder
 
-3.
+3. eine mindestens fünfjährige Berufspraxis
 
 (2) Die Berufspraxis nach Absatz 1 muss in Unternehmen des Agrarservice, des Pflanzenbaus mit Serviceangeboten oder vergleichbaren Unternehmen nachgewiesen werden.
 
@@ -42,11 +42,11 @@ Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (1) Die Meisterprüfung umfasst die Prüfungsteile
 
-1.
+1. Pflanzenproduktion, Verfahrens- und Agrartechnik, Dienstleistungen,
 
-2.
+2. Betriebs- und Unternehmensführung,
 
-3.
+3. Berufsausbildung und Mitarbeiterführung.
 
 (2) Die Meisterprüfung ist nach Maßgabe der §§ 4 bis 6 durchzuführen.
 
@@ -56,31 +56,31 @@ Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (2) Die Prüfung erstreckt sich auf folgende Inhalte:
 
-1.
+1. Planungen der Pflanzenproduktion und anderer agrarischer Dienstleistungen einschließlich der Landschaftspflege entsprechend den Standortverhältnissen unter Berücksichtigung der Erfordernisse einer nachhaltigen Sicherung der Bodenfruchtbarkeit sowie der betrieblichen und regionalen Erzeugungs- und Vermarktungsstrukturen,
 
-2.
+2. Auswählen und Festlegen der Produktionsverfahren,
 
-3.
+3. Durchführen der Produktion unter Anwendung von Maßnahmen der Qualitätssicherung,
 
-4.
+4. Organisieren der Arbeit sowie des Arbeitskräfte- und Technikeinsatzes,
 
-5.
+5. Organisieren der Wartung und Reparatur einschließlich des Werkstattbetriebes,
 
-6.
+6. Kontrollieren und Bewerten von Arbeitsergebnissen,
 
-7.
+7. Entwickeln von Qualitätsstandards; Betriebskontrolle und Qualitätssicherung,
 
-8.
+8. Durchführen von Präsentationen, Kundenberatung und Marketing,
 
-9.
+9. Vermarkten von Produkten und Dienstleistungen im Agrarservicebereich,
 
-10.
+10. Sicherstellen des Arbeits- und Gesundheitsschutzes,
 
-11.
+11. Kontrollieren, Beurteilen und Optimieren der Produktionsverfahren und der betrieblichen Abläufe,
 
-12.
+12. Berücksichtigen der Wechselbeziehungen zwischen Betrieb und Umwelt; Anwenden umweltschonender Maßnahmen bei Beschaffung, Produktion, Vermarktung und Entsorgung,
 
-13.
+13. Berücksichtigen der rechtlichen Bestimmungen für Produktion, Umweltschutz, Verbraucherschutz und Vermarktung.
 
 (3) Die Prüfung besteht aus einem Arbeitsprojekt nach Absatz 4 und einer schriftlichen Prüfung nach Absatz 5.
 
@@ -94,25 +94,25 @@ Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (2) Die Prüfung erstreckt sich auf folgende Inhalte:
 
-1.
+1. Einordnen und Beurteilen der Rahmenbedingungen und Struktur von Dienstleistungsbetrieben,
 
-2.
+2. Kontrollieren und Bewerten von Produktion, Produktionsverfahren und Dienstleistungen,
 
-3.
+3. Erfassen, Analysieren und Bewerten von Betriebsergebnissen,
 
-4.
+4. Durchführen von Rentabilitätsanalysen,
 
-5.
+5. Bewerten der Betriebs- und Arbeitsorganisation,
 
-6.
+6. Beurteilen von Marketingmaßnahmen,
 
-7.
+7. Kalkulieren und Erstellen von Angeboten,
 
-8.
+8. Planung der Betriebsentwicklung, insbesondere Investition, Finanzierung und Liquidität,
 
-9.
+9. Anwenden berufsbezogener Rechtsvorschriften, insbesondere Vertrags- und Haftungsrecht, Arbeits- und Sozialrecht, Umweltrecht, Verkehrsrecht,
 
-10.
+10. Anwenden der steuerlichen Buchführung unter Beachtung von Steuerarten und -verfahren.
 
 (3) Die Prüfung besteht aus einer Betriebsbeurteilung nach Absatz 4 und einer schriftlichen Prüfung nach Absatz 5.
 
@@ -126,107 +126,107 @@ Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (2) Der Nachweis der Qualifikation nach Absatz 1 ist in folgenden Handlungsfeldern zu führen:
 
-1.
+1. Ausbildungsvoraussetzungen prüfen und Ausbildung planen,
 
-2.
+2. Ausbildung vorbereiten und Auszubildende einstellen,
 
-3.
+3. Ausbildung durchführen,
 
-4.
+4. Ausbildung abschließen,
 
-5.
+5. Personalbedarf ermitteln, Mitarbeiter auswählen, einstellen und Aufgaben auf diese übertragen sowie
 
-6.
+6. Mitarbeiter anleiten, führen, fördern und motivieren sowie deren berufliche Weiterbildung unterstützen.
 
 (3) Das Handlungsfeld nach Absatz 2 Nummer 1 umfasst die Kompetenzen:
 
-1.
+1. die Vorteile und den Nutzen betrieblicher Ausbildung darstellen und begründen zu können,
 
-2.
+2. Planungen hinsichtlich des betrieblichen Ausbildungsbedarfs auf der Grundlage der rechtlichen, tarifvertraglichen und betrieblichen Rahmenbedingungen durchzuführen und Entscheidungen zu treffen,
 
-3.
+3. die Strukturen des Berufsbildungssystems und seine Schnittstellen darzustellen,
 
-4.
+4. Ausbildungsberufe für den Betrieb auszuwählen und dies zu begründen,
 
-5.
+5. die Eignung des Betriebs für die Ausbildung in dem angestrebten Ausbildungsberuf zu prüfen sowie zu prüfen, ob und inwieweit Ausbildungsinhalte durch Maßnahmen außerhalb der Ausbildungsstätte, insbesondere durch Ausbildung im Verbund sowie durch überbetriebliche und außerbetriebliche Ausbildung, vermittelt werden müssen,
 
-6.
+6. die Möglichkeiten des Einsatzes von auf die Berufsausbildung vorbereitenden Maßnahmen einzuschätzen sowie
 
-7.
+7. die Aufgaben der an der Ausbildung Mitwirkenden unter Berücksichtigung ihrer Funktionen und Qualifikationen im Betrieb abzustimmen.
 
 (4) Das Handlungsfeld nach Absatz 2 Nummer 2 umfasst die Kompetenzen:
 
-1.
+1. auf der Grundlage einer Ausbildungsordnung einen betrieblichen Ausbildungsplan zu erstellen, der sich insbesondere an berufstypischen Arbeits- und Geschäftsprozessen orientiert,
 
-2.
+2. die Möglichkeiten der Mitwirkung und Mitbestimmung der betrieblichen Interessenvertretungen in der Berufsbildung zu berücksichtigen,
 
-3.
+3. den Kooperationsbedarf zu ermitteln und sich inhaltlich sowie organisatorisch mit den Kooperationspartnern, insbesondere der Berufsschule, abzustimmen,
 
-4.
+4. Kriterien und Verfahren zur Auswahl von Auszubildenden, auch unter Berücksichtigung ihrer Verschiedenartigkeit, anzuwenden,
 
-5.
+5. den Berufsausbildungsvertrag vorzubereiten und die Eintragung des Vertrags bei der zuständigen Stelle zu veranlassen sowie
 
-6.
+6. die Möglichkeiten zu prüfen, ob Teile der Berufsausbildung im Ausland durchgeführt werden können.
 
 (5) Das Handlungsfeld nach Absatz 2 Nummer 3 umfasst die Kompetenzen:
 
-1.
+1. lernförderliche Bedingungen und eine motivierende Lernkultur zu schaffen, Rückmeldungen zu geben und zu empfangen,
 
-2.
+2. die Probezeit zu organisieren, zu gestalten und zu bewerten,
 
-3.
+3. aus dem betrieblichen Ausbildungsplan und den berufstypischen Arbeits- und Geschäftsprozessen betriebliche Lern- und Arbeitsaufgaben zu entwickeln und zu gestalten,
 
-4.
+4. Ausbildungsmethoden und -medien zielgruppengerecht auszuwählen und situationsspezifisch einzusetzen,
 
-5.
+5. Auszubildende bei Lernschwierigkeiten durch individuelle Gestaltung der Ausbildung und Lernberatung zu unterstützen, bei Bedarf ausbildungsunterstützende Hilfen einzusetzen und die Möglichkeit zur Verlängerung der Ausbildungszeit zu prüfen,
 
-6.
+6. Auszubildenden zusätzliche Ausbildungsangebote, insbesondere in Form von Zusatzqualifikationen, zu machen und die Möglichkeit der Verkürzung der Ausbildungsdauer und die der vorzeitigen Zulassung zur Abschlussprüfung zu prüfen,
 
-7.
+7. die soziale und persönliche Entwicklung von Auszubildenden zu fördern, Probleme und Konflikte rechtzeitig zu erkennen sowie auf Lösungen hinzuwirken,
 
-8.
+8. Leistungen festzustellen und zu bewerten, Leistungsbeurteilungen Dritter und Prüfungsergebnisse auszuwerten, Beurteilungsgespräche zu führen, Rückschlüsse für den weiteren Ausbildungsverlauf zu ziehen sowie
 
-9.
+9. interkulturelle Kompetenzen zu fördern.
 
 (6) Das Handlungsfeld nach Absatz 2 Nummer 4 umfasst die Kompetenzen:
 
-1.
+1. Auszubildende auf die Abschlussprüfung unter Berücksichtigung der Prüfungstermine vorzubereiten und die Ausbildung zu einem erfolgreichen Abschluss zu führen,
 
-2.
+2. für die Anmeldung der Auszubildenden zu Prüfungen bei der zuständigen Stelle zu sorgen und diese auf durchführungsrelevante Besonderheiten hinzuweisen,
 
-3.
+3. an der Erstellung eines schriftlichen Zeugnisses auf der Grundlage von Leistungsbeurteilungen mitzuwirken sowie
 
-4.
+4. Auszubildende über betriebliche Entwicklungswege und berufliche Weiterbildungsmöglichkeiten zu informieren und zu beraten.
 
 (7) Das Handlungsfeld nach Absatz 2 Nummer 5 umfasst die Kompetenzen:
 
-1.
+1. rechtliche Grundlagen des Arbeits-, Tarif- und Sozialrechts im Betrieb umzusetzen,
 
-2.
+2. Konzepte der Personalplanung anzuwenden,
 
-3.
+3. Mitarbeiter auszuwählen, einzustellen und einzuarbeiten,
 
-4.
+4. Leistungsfähigkeit, Qualifikation und Eignung von Mitarbeitern zu beurteilen und Aufgaben auf diese entsprechend der Beurteilung zu übertragen,
 
-5.
+5. zur Krankheitsprävention anzuleiten und Maßnahmen organisieren sowie
 
-6.
+6. Beendigung von Arbeitsverhältnissen durchzuführen.
 
 (8) Das Handlungsfeld nach Absatz 2 Nummer 6 umfasst die Kompetenzen:
 
-1.
+1. Mitarbeiter anzuleiten, Leistungen und Verhalten gegebenenfalls unter Hinzuziehung von Leistungsbeurteilungen Dritter festzustellen und zu bewerten,
 
-2.
+2. Mitarbeiter- und Beurteilungsgespräche zu führen und Entwicklungsmöglichkeiten aufzeigen,
 
-3.
+3. Mitarbeiter zu motivieren und zu fördern,
 
-4.
+4. Mitarbeiter zu qualifizieren und bei der Weiterbildung zu unterstützen,
 
-5.
+5. soziale Zusammenhänge und Konflikte zu erkennen,
 
-6.
+6. Maßnahmen zur Konfliktbewältigung anzuwenden, Teamarbeit zu organisieren und zu unterstützen sowie
 
-7.
+7. Führungsstile zu kennen und das eigene Führungsverhalten kritisch zu reflektieren.
 
 (9) Die Prüfung gliedert sich in die Abschnitte Berufsausbildung und Mitarbeiterführung. Der Abschnitt Berufsausbildung besteht aus einem praktischen Teil nach Absatz 10 und einem schriftlichen Teil nach Absatz 11. Der Abschnitt Mitarbeiterführung besteht aus einer Fallstudie nach Absatz 12.
 

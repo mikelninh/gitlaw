@@ -24,59 +24,23 @@ Der Ausbildungsberuf Bergbautechnologe/Bergbautechnologin wird nach § 4 Absatz 
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan (Anlage 2, Zeitliche Gliederung) abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Bergbautechnologen/zur Bergbautechnologin gliedert sich wie folgt (Ausbildungsberufsbild):Abschnitt A Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten: Abschnitt B Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Tiefbautechnik: Abschnitt C Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Tiefbohrtechnik: Abschnitt D Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
+(2) Die Berufsausbildung zum Bergbautechnologen/zur Bergbautechnologin gliedert sich wie folgt (Ausbildungsberufsbild):
 
-1.
+1. Werkstoffbearbeitung,
 
-2.
+2. Steuerungstechnik,
 
-3.
+3. Heben und Bewegen von Lasten,
 
-4.
+4. Montieren, Demontieren, Inbetriebnehmen, Bedienen und Warten von Maschinen, Systemen und Anlagen,
 
-5.
+5. Geologie und Gebirgsmechanik, Lagerstättenerschließung, Bergmännische Hohlräume,
 
-6.
+6. Gewinnung und Deponierung,
 
-7.
+7. Förderung,
 
-8.
-
-1.
-
-2.
-
-3.
-
-4.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
+8. Logistik und Transport;
 
 ### § 4 — Durchführung der Berufsausbildung
 
@@ -98,37 +62,37 @@ Der Ausbildungsberuf Bergbautechnologe/Bergbautechnologin wird nach § 4 Absatz 
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
-1.
+1. die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan aufgeführten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 ### § 7 — Prüfungsbereiche von Teil 1
 
 Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
-1.
+1. Montagetechnik und
 
-2.
+2. Lagerstätte.
 
 ### § 8 — Prüfungsbereich „Montagetechnik“
 
 (1) Im Prüfungsbereich „Montagetechnik“ soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. technische Unterlagen anzuwenden,
 
-2.
+2. montagetechnische Arbeitsabläufe zu planen und abzustimmen,
 
-3.
+3. Betriebsmittel und Werkzeuge auszuwählen und einzusetzen,
 
-4.
+4. Montageaufträge unter Beachtung von Arbeits-, Gesundheits- und Umweltschutz auszuführen,
 
-5.
+5. montierte Baugruppen auf Funktionsfähigkeit zu überprüfen,
 
-6.
+6. Prüfverfahren anzuwenden,
 
-7.
+7. Ergebnisse zu dokumentieren und
 
-8.
+8. Kommunikationsformen und -regeln anzuwenden.
 
 (2) Der Prüfling soll eine Arbeitsprobe durchführen, hierüber ein situatives Fachgespräch führen und Aufgaben schriftlich bearbeiten.
 
@@ -138,15 +102,15 @@ Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (1) Im Prüfungsbereich „Lagerstätte“ soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. geologische und gebirgsmechanische Gegebenheiten zu beschreiben,
 
-2.
+2. Verfahren zur Lagerstättenerschließung zu unterscheiden,
 
-3.
+3. Betriebsmittel zur Hohlraumerstellung auszuwählen und deren Auswahl zu begründen,
 
-4.
+4. Unterlagen für die Infrastruktur auszuwerten und
 
-5.
+5. Massen-, Druck-, Flächen- und Volumenberechnungen durchzuführen.
 
 (2) Der Prüfling soll eine ganzheitliche Aufgabe schriftlich bearbeiten.
 
@@ -156,9 +120,9 @@ Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
-1.
+1. die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-2.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan aufgeführten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 (2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
@@ -166,27 +130,25 @@ Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 Teil 2 der Abschlussprüfung in der Fachrichtung „Tiefbautechnik“ findet in folgenden Prüfungsbereichen statt:
 
-1.
+1. Bergbautechnische Prozesse,
 
-2.
+2. Bergbautechnik und Bergrecht,
 
-3.
+3. Wirtschafts- und Sozialkunde.
 
 ### § 12 — Prüfungsbereich „Bergbautechnische Prozesse“
 
 (1) Im Prüfungsbereich „Bergbautechnische Prozesse“ soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. bergbautechnische Prozesse zu analysieren, zu bewerten und unter Berücksichtigung geologischer, technischer, wirtschaftlicher, rechtlicher und ökologischer Bedingungen durchzuführen,
 
-2.
+2. bergbautechnische Prozesse zu dokumentieren,
 
-3.
+3. Störungen im Bergbauprozess zu analysieren und Maßnahmen zur Störungsbeseitigung einzuleiten.
 
-(2) Der Prüfling soll oder
+(2) Der Prüfling soll
 
-1.
-
-2.
+1. einen betrieblichen Auftrag durchführen und mit praxisbezogenen Unterlagen dokumentieren sowie darüber ein auftragsbezogenes Fachgespräch führen; dem Prüfungsausschuss ist vor der Durchführung des Auftrags die Aufgabenstellung einschließlich des geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen,
 
 (3) Die Prüfungszeit für die Durchführung des betrieblichen Auftrags einschließlich Dokumentation beträgt 18 bis 24 Stunden; für das auftragsbezogene Fachgespräch höchstens 30 Minuten.
 
@@ -196,29 +158,29 @@ Teil 2 der Abschlussprüfung in der Fachrichtung „Tiefbautechnik“ findet in 
 
 (1) Im Prüfungsbereich „Bergbautechnik und Bergrecht“ soll der Prüfling darstellen, dass er in der Lage ist,
 
-1.
+1. bergbautechnische und bergbaulogistische Arbeitsabläufe zu planen und abzustimmen,
 
-2.
+2. technische und organisatorische Schnittstellen festzulegen,
 
-3.
+3. technische Unterlagen anzuwenden,
 
-4.
+4. sicherheitstechnische Anforderungen bei der Herstellung, Unterhaltung und Verwahrung von Grubenbauen zu berücksichtigen,
 
-5.
+5. Rohstoffe zu gewinnen,
 
-6.
+6. Grubenbaue zu bewettern und zu klimatisieren,
 
-7.
+7. Arbeitsergebnisse zu kontrollieren und zu bewerten,
 
-8.
+8. Transport- und Fördermittel auszuwählen und einzusetzen,
 
-9.
+9. Fahrung unter Berücksichtigung der Arbeitssicherheit zu gestalten und durchzuführen,
 
-10.
+10. bei bergbautechnischen und bergbaulogistischen Prozessen Gefährdungen zu analysieren und zu dokumentieren,
 
-11.
+11. Maßnahmen zur Arbeitssicherheit und zum Umwelt- und Gesundheitsschutz zu ergreifen und
 
-12.
+12. Gesetze und Verordnungen des Bergrechtes anzuwenden.
 
 (2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
 
@@ -234,43 +196,41 @@ Teil 2 der Abschlussprüfung in der Fachrichtung „Tiefbautechnik“ findet in 
 
 ### § 15 — Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
-
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-1.
+1. im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
-2.
+2. im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
-3.
+3. in mindestens zwei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und
 
-4.
+4. in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Bergbautechnik und Bergrecht“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Bergbautechnik und Bergrecht“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.
+1. der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
-2.
+2. die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 ### § 16 — Prüfungsbereiche von Teil 2 in der Fachrichtung „Tiefbohrtechnik“
 
 Teil 2 der Abschlussprüfung in der Fachrichtung „Tiefbohrtechnik“ findet in folgenden Prüfungsbereichen statt:
 
-1.
+1. Bohrtechnische Prozesse,
 
-2.
+2. Bohrtechnik und Bergrecht,
 
-3.
+3. Wirtschafts- und Sozialkunde.
 
 ### § 17 — Prüfungsbereich „Bohrtechnische Prozesse“
 
 (1) Im Prüfungsbereich „Bohrtechnische Prozesse“ soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.
+1. bohrtechnische Prozesse zu analysieren, zu bewerten und unter Berücksichtigung geologischer, technischer, wirtschaftlicher, rechtlicher und ökologischer Bedingungen durchzuführen,
 
-2.
+2. bohrtechnische Prozesse zu dokumentieren,
 
-3.
+3. Störungen im Bohrprozess zu analysieren und Maßnahmen zur Störungsbeseitigung einzuleiten.
 
 (2) Der Prüfling soll einen betrieblichen Auftrag durchführen und mit praxisbezogenen Unterlagen dokumentieren sowie darüber ein auftragsbezogenes Fachgespräch führen. Das Fachgespräch wird auf der Grundlage der praxisbezogenen Unterlagen des bearbeiteten betrieblichen Auftrags geführt. Unter Berücksichtigung der praxisbezogenen Unterlagen sollen durch das Fachgespräch die Anforderungen nach Absatz 1 Nummer 1 im Bezug zur Auftragsdurchführung bewertet werden. Dem Prüfungsausschuss ist vor der Durchführung des Auftrags die Aufgabenstellung einschließlich des geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen.
 
@@ -280,27 +240,27 @@ Teil 2 der Abschlussprüfung in der Fachrichtung „Tiefbohrtechnik“ findet in
 
 (1) Im Prüfungsbereich „Bohrtechnik und Bergrecht“ soll der Prüfling darstellen, dass er in der Lage ist,
 
-1.
+1. bohrtechnische und bergbaulogistische Prozesse unter Berücksichtigung geologischer, technischer, wirtschaftlicher, rechtlicher und ökologischer Bedingungen zu analysieren und zu bewerten,
 
-2.
+2. Prozesse zu dokumentieren,
 
-3.
+3. Störungen im Bohrprozess zu analysieren und Maßnahmen zur Störungsbeseitigung einzuleiten,
 
-4.
+4. bohrtechnische und bergbaulogistische Arbeitsabläufe zu planen und abzustimmen,
 
-5.
+5. technische und organisatorische Schnittstellen festzulegen,
 
-6.
+6. technische Unterlagen anzuwenden,
 
-7.
+7. Arbeitsergebnisse zu kontrollieren und zu bewerten,
 
-8.
+8. Transport- und Fördermittel auszuwählen,
 
-9.
+9. bei bohrtechnischen und bergbaulogistischen Prozessen Gefährdungen zu analysieren und zu dokumentieren,
 
-10.
+10. Maßnahmen zur Arbeitssicherheit und zum Umwelt- und Gesundheitsschutz zu ergreifen und
 
-11.
+11. Gesetze und Verordnungen des Bergrechtes anzuwenden.
 
 (2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
 
@@ -318,31 +278,31 @@ Teil 2 der Abschlussprüfung in der Fachrichtung „Tiefbohrtechnik“ findet in
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
-1.
+1. Prüfungsbereich Montagetechnikmit 15 Prozent,
 
-2.
+2. Prüfungsbereich Lagerstättemit 15 Prozent,
 
-3.
+3. Prüfungsbereich Bohrtechnische Prozessemit 30 Prozent,
 
-4.
+4. Prüfungsbereich Bohrtechnik und Bergrechtmit 30 Prozent,
 
-5.
+5. Prüfungsbereich Wirtschafts- und Sozialkundemit 10 Prozent.
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-1.
+1. im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
-2.
+2. im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
-3.
+3. in mindestens zwei Prüfungsbereichen von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und
 
-4.
+4. in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Bohrtechnik und Bergrecht“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Bohrtechnik und Bergrecht“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.
+1. der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
-2.
+2. die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 ### § 21 — Übergangsregelung
 
@@ -350,896 +310,106 @@ Berufsausbildungsverhältnisse, die vor Ablauf des 31. Juli 2015 bestehen, werde
 
 ### Anlage 1 — (zu § 3 Absatz 1 Satz 1)
 
-(Fundstelle: BGBl. I 2009, 1244 - 1248)Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
+a) Werkstoffeigenschaften und deren Veränderungen beurteilen und Werkstoffe nach ihrer Verwendung auswählen und handhaben
 
-a)
+b) Hilfsstoffe ihrer Verwendung nach zuordnen, einsetzen und entsorgen
 
-b)
+c) Betriebsbereitschaft von Werkzeugmaschinen einschließlich der Werkzeuge sicherstellen
 
-c)
+d) Werkzeuge und Spannzeuge auswählen, Werkstücke ausrichten und spannen
 
-d)
+e) Werkstücke durch manuelle Fertigungsverfahren herstellen
 
-e)
+f) Werkstücke durch maschinelle Fertigungsverfahren, insbesondere Bohren und Sägen, herstellen
 
-f)
+g) Bauteile durch Trennen und Umformen herstellen
 
-g)
+h) Bauteile, auch aus unterschiedlichen Werkstoffen, zu Baugruppen fügen
 
-h)
+a) Wetterarten und Wirkungsweise der Grubenbewetterung erläutern
 
-a)
+b) Einrichtungen und Betriebsmittel der Grubenbewetterung unterscheiden und auf Funktionsfähigkeit überprüfen
 
-b)
+c) Bewetterungssysteme unterscheiden, Bauwerke zur Regelung und Führung von Wetterströmen ein- und ausbauen und in Stand halten
 
-c)
+d) Wetterdaten bewerten
 
-a)
+e) Aufbau und Wirkungsweise von Klimaanlagen beschreiben, Betriebswerte bewerten
 
-b)
+f) Klimaanlagen einbauen und warten
 
-c)
+a) Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären, Rechtsform und Aufbau des Ausbildungsbetriebes erläutern
 
-d)
+b) gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
 
-a)
+c) Möglichkeiten der beruflichen Fortbildung nennen
 
-b)
+d) wesentliche Teile des Arbeitsvertrages nennen
 
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Tiefbautechnik
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-Abschnitt C: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Tiefbohrtechnik
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-Abschnitt D: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
+e) wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 ### Anlage 2 — (zu § 3 Absatz 1 Satz 2)
 
-(Fundstelle: BGBl. I 2009, 1249 - 1262)
+a) Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären, Rechtsform und Aufbau des Ausbildungsbetriebes erläutern
 
-a)
+b) gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
 
-b)
+c) Möglichkeiten der beruflichen Fortbildung nennen
 
-c)
+d) wesentliche Teile des Arbeitsvertrages nennen
 
-d)
+e) wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
-e)
+Zeitrahmen 1 Fertigen von Baugruppen
 
-a)
+Zeitrahmen 2 Inbetriebnehmen
 
-b)
+a) steuerungstechnische Unterlagen erstellen und auswerten
 
-c)
+b) Steuerungstechnik der Pneumatik und Hydraulik anwenden
 
-d)
+c) programmierbare Automatisierungssysteme auf Funktionsfähigkeit überprüfen
 
-a)
+Zeitrahmen 3 Hohlräume erstellen und erschließen
 
-b)
+b) Hub- und Transporteinrichtungen auf Funktionsfähigkeit kontrollieren und einsetzen
 
-c)
+d) beim manuellen Transport Einrichtungen und Hilfsmittel ergonomisch einsetzen und einen gesundheitsbewussten Bewegungsablauf beachten
 
-d)
+Zeitrahmen 4 Montieren, Demontieren und Transportieren
 
-a)
+b) Steuerungstechnik der Pneumatik und Hydraulik anwenden
 
-b)
+Zeitrahmen 5 Anlagen, Maschinen und Systeme bedienen und warten
 
-c)
+b) Steuerungstechnik der Pneumatik und Hydraulik anwenden
 
-d)
+c) programmierbare Automatisierungssysteme auf Funktionsfähigkeit überprüfen
 
-1. bis 3. Ausbildungshalbjahr:
+Zeitrahmen 6 Rohstoffe gewinnen
 
-Zeitrahmen 1  Fertigen von Baugruppen
+b) Steuerungstechnik der Pneumatik und Hydraulik anwenden
 
-a)
+c) programmierbare Automatisierungssysteme auf Funktionsfähigkeit überprüfen
 
-b)
+Zeitrahmen 7 Grubenbaue herstellen, unterhalten und verwahren
 
-c)
+b) Steuerungstechnik der Pneumatik und Hydraulik anwenden
 
-d)
+c) programmierbare Automatisierungssysteme auf Funktionsfähigkeit überprüfen
 
-e)
+Zeitrahmen 8 Rohstoffe gewinnen und fördern
 
-f)
+b) Baugruppen und Bauteile funktionsgerecht montieren
 
-g)
+c) Baugruppen, Systeme oder Anlagen demontieren und kennzeichnen
 
-h)
+e) Maschinen, Systeme und Anlagen unter Beachtung der betrieblichen Vorschriften in Betrieb nehmen und bedienen
 
-c)
+f) Wartung zur Sicherung des Betriebsablaufes durchführen
 
-b)
+Zeitrahmen 9 Bohrlöcher herstellen, unterhalten und verwahren
 
-a)
+b) Steuerungstechnik der Pneumatik und Hydraulik anwenden
 
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-i)
-
-j)
-
-c)
-
-Zeitrahmen 2  Inbetriebnehmen
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-d)
-
-a)
-
-e)
-
-a)
-
-a)
-
-a)
-
-b)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-i)
-
-j)
-
-a)
-
-c)
-
-Zeitrahmen 3  Hohlräume erstellen und erschließen
-
-b)
-
-d)
-
-b)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-b)
-
-f)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-g)
-
-j)
-
-c)
-
-Zeitrahmen 4  Montieren, Demontieren und Transportieren
-
-b)
-
-a)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-Zeitrahmen 5  Anlagen, Maschinen und Systeme bedienen und warten
-
-b)
-
-c)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-a)
-
-d)
-
-b)
-
-c)
-
-d)
-
-e)
-
-g)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
-
-4. bis 6. Ausbildungshalbjahr:
-
-Zeitrahmen 6  Rohstoffe gewinnen
-
-b)
-
-c)
-
-b)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-g)
-
-j)
-
-c)
-
-Fachrichtung Tiefbautechnik
-
-Zeitrahmen 7  Grubenbaue herstellen, unterhalten und verwahren
-
-b)
-
-c)
-
-d)
-
-b)
-
-c)
-
-e)
-
-f)
-
-e)
-
-f)
-
-b)
-
-c)
-
-d)
-
-a)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-g)
-
-j)
-
-c)
-
-d)
-
-Zeitrahmen 8  Rohstoffe gewinnen und fördern
-
-b)
-
-c)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-c)
-
-d)
-
-a)
-
-a)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-b)
-
-e)
-
-b)
-
-c)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-g)
-
-j)
-
-c)
-
-d)
-
-Fachrichtung Tiefbohrtechnik
-
-Zeitrahmen 9  Bohrlöcher herstellen, unterhalten und verwahren
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-b)
-
-e)
-
-f)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-a)
-
-b)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-i)
-
-j)
-
-a)
-
-b)
-
-c)
-
-d)
+c) programmierbare Automatisierungssysteme auf Funktionsfähigkeit überprüfen

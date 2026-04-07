@@ -18,21 +18,21 @@
 
 (2) In den Verfahren auf Anerkennungsfeststellung gemäß § 1 Absatz 2 kann der Antrag nicht zurückgenommen werden.
 
-(3) Im Falle einer anzuerkennenden oder wirksamen Annahme ist zusätzlich festzustellen, Von der Feststellung nach Satz 1 kann abgesehen werden, wenn gleichzeitig ein Umwandlungsausspruch nach § 3 ergeht.
+(3) Im Falle einer anzuerkennenden oder wirksamen Annahme ist zusätzlich festzustellen,
 
-1.
+1. wenn das in Absatz 1 genannte Eltern-Kind-Verhältnis erloschen ist, dass das Annahmeverhältnis einem nach den deutschen Sachvorschriften begründeten Annahmeverhältnis gleichsteht,
 
-2.
+2. andernfalls, dass das Annahmeverhältnis in Ansehung der elterlichen Sorge und der Unterhaltspflicht des Annehmenden einem nach den deutschen Sachvorschriften begründeten Annahmeverhältnis gleichsteht.
 
 ### § 3 — Umwandlungsausspruch
 
-(1) In den Fällen des § 2 Absatz 3 Satz 1 Nummer 2 kann das Familiengericht auf Antrag aussprechen, dass das Kind die Rechtsstellung eines nach den deutschen Sachvorschriften angenommenen Kindes erhält, wenn Auf die Erforderlichkeit und die Erteilung der in Satz 1 Nr. 2 genannten Zustimmungen finden die für die Zustimmungen zu der Annahme maßgebenden Vorschriften sowie Artikel 6 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche entsprechende Anwendung. Auf die Zustimmung des Kindes ist zusätzlich § 1746 des Bürgerlichen Gesetzbuchs anzuwenden. Hat der Angenommene zur Zeit des Beschlusses nach Satz 1 das 18. Lebensjahr vollendet, so entfällt die Voraussetzung nach Satz 1 Nr. 1.
+(1) In den Fällen des § 2 Absatz 3 Satz 1 Nummer 2 kann das Familiengericht auf Antrag aussprechen, dass das Kind die Rechtsstellung eines nach den deutschen Sachvorschriften angenommenen Kindes erhält, wenn
 
-1.
+1. dies dem Wohl des Kindes dient,
 
-2.
+2. die erforderlichen Zustimmungen zu einer Annahme mit einer das Eltern-Kind-Verhältnis beendenden Wirkung erteilt sind und
 
-3.
+3. überwiegende Interessen des Ehegatten, des Lebenspartners oder der Kinder des Annehmenden oder des Angenommenen nicht entgegenstehen.
 
 (2) Absatz 1 gilt in den Fällen des § 2 Absatz 3 Satz 1 Nummer 1 entsprechend, wenn die Wirkungen der Annahme von den nach den deutschen Sachvorschriften vorgesehenen Wirkungen abweichen.
 
@@ -44,19 +44,11 @@
 
 ### § 5 — Antragstellung; Reichweite der Entscheidungswirkungen
 
-(1) Antragsbefugt sind Der Antrag auf Feststellung nach § 1 Absatz 2 ist unverzüglich nach dem Erlass der ausländischen Adoptionsentscheidung zu stellen. Von der Antragsbefugnis nach Satz 1 Nr. 1 Buchstabe d ist nur in Zweifelsfällen Gebrauch zu machen. Für den Antrag nach Satz 1 Nr. 2 gelten § 1752 Abs. 2 und § 1753 des Bürgerlichen Gesetzbuchs.
+(1) Antragsbefugt sind
 
-1.
+1. für eine Feststellung nach § 2 Abs. 1a)der Annehmende, im Fall der Annahme durch Ehegatten jeder von ihnen,b)das Kind,c)ein bisheriger Elternteil oderd)das Standesamt, das nach § 27 Abs. 1 des Personenstandsgesetzes für die Fortführung der Beurkundung der Geburt des Kindes im Geburtenregister oder nach § 36 des Personenstandsgesetzes für die Beurkundung der Geburt des Kindes zuständig ist; der Annehmende, im Fall der Annahme durch Ehegatten jeder von ihnen, das Kind, ein bisheriger Elternteil oder das Standesamt, das nach § 27 Abs. 1 des Personenstandsgesetzes für die Fortführung der Beurkundung der Geburt des Kindes im Geburtenregister oder nach § 36 des Personenstandsgesetzes für die Beurkundung der Geburt des Kindes zuständig ist;
 
-a)
-
-b)
-
-c)
-
-d)
-
-2.
+2. für einen Ausspruch nach § 3 Abs. 1 oder Abs. 2 der Annehmende, annehmende Ehegatten nur gemeinschaftlich.
 
 (2) Eine Feststellung nach § 2 sowie ein Ausspruch nach § 3 wirken für und gegen alle. Die Feststellung nach § 2 wirkt jedoch nicht gegenüber den bisherigen Eltern. In dem Beschluss nach § 2 ist dessen Wirkung auch gegenüber einem bisherigen Elternteil auszusprechen, sofern dieser das Verfahren eingeleitet hat oder auf Antrag eines nach Absatz 1 Satz 1 Nr. 1 Buchstabe a bis c Antragsbefugten beteiligt wurde. Die Beteiligung eines bisherigen Elternteils und der erweiterte Wirkungsausspruch nach Satz 3 können in einem gesonderten Verfahren beantragt werden.
 

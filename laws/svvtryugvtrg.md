@@ -22,15 +22,21 @@ Das Fremdrenten- und Auslandsrenten-Neuregelungsgesetz vom 25. Februar 1960 (Bun
 
 ### Art 4
 
-(1) Unfälle und Krankheiten, welche die in Artikel 1 Abs. 1 Buchstabe a des Vertrags genannten Deutschen vor dem 1. Januar 1956 während der Zugehörigkeit zu der jugoslawischen gesetzlichen Unfallversicherung erlitten oder sich zugezogen haben und die nach jugoslawischem Recht Arbeitsunfälle oder Berufskrankheiten sind, werden so behandelt, als ob sie im Bundesgebiet eingetreten oder verursacht und Arbeitsunfälle oder Berufskrankheiten im Sinne der in Artikel 2 genannten Gesetzgebung wären.(2) Die in §§ 1546 bis 1548 der Reichsversicherungsordnung vorgesehenen Fristen beginnen frühestens mit dem Tage des Inkrafttretens des Vertrags.
+(1) Unfälle und Krankheiten, welche die in Artikel 1 Abs. 1 Buchstabe a des Vertrags genannten Deutschen vor dem 1. Januar 1956 während der Zugehörigkeit zu der jugoslawischen gesetzlichen Unfallversicherung erlitten oder sich zugezogen haben und die nach jugoslawischem Recht Arbeitsunfälle oder Berufskrankheiten sind, werden so behandelt, als ob sie im Bundesgebiet eingetreten oder verursacht und Arbeitsunfälle oder Berufskrankheiten im Sinne der in Artikel 2 genannten Gesetzgebung wären.
+
+(2) Die in §§ 1546 bis 1548 der Reichsversicherungsordnung vorgesehenen Fristen beginnen frühestens mit dem Tage des Inkrafttretens des Vertrags.
 
 ### Art 5
 
-(1) Zeiten, die von den in Artikel 1 Abs. 1 Buchstabe a des Vertrags genannten Deutschen vor dem 1. Januar 1956 in einer jugoslawischen gesetzlichen Rentenversicherung zurückgelegt worden sind oder als zurückgelegt gelten und nach jugoslawischem Recht Versicherungszeiten oder ihnen gleichgestellte Zeiten sind oder wären, wenn diese Personen bis zum genannten Tage im Gebiet der Föderativen Volksrepublik Jugoslawien beschäftigt gewesen wären, werden wie Versicherungszeiten angerechnet, die in einer deutschen gesetzlichen Rentenversicherung im Bundesgebiet zurückgelegt worden sind.(2) Die Wartezeit ist auch erfüllt, wenn die nach jugoslawischem Recht für den Erwerb des Leistungsanspruchs vorgeschriebene Mindestbeitragszeit zurückgelegt worden ist.
+(1) Zeiten, die von den in Artikel 1 Abs. 1 Buchstabe a des Vertrags genannten Deutschen vor dem 1. Januar 1956 in einer jugoslawischen gesetzlichen Rentenversicherung zurückgelegt worden sind oder als zurückgelegt gelten und nach jugoslawischem Recht Versicherungszeiten oder ihnen gleichgestellte Zeiten sind oder wären, wenn diese Personen bis zum genannten Tage im Gebiet der Föderativen Volksrepublik Jugoslawien beschäftigt gewesen wären, werden wie Versicherungszeiten angerechnet, die in einer deutschen gesetzlichen Rentenversicherung im Bundesgebiet zurückgelegt worden sind.
+
+(2) Die Wartezeit ist auch erfüllt, wenn die nach jugoslawischem Recht für den Erwerb des Leistungsanspruchs vorgeschriebene Mindestbeitragszeit zurückgelegt worden ist.
 
 ### Art 6
 
-(1) Hat ein Versicherungsträger im Bundesgebiet oder im Land Berlin auf Grund der in Artikel 1 Abs. 1 Buchstabe a des Vertrags genannten Ansprüche und Anwartschaften bereits vor dem Inkrafttreten des Vertrags eine Leistung bindend festgestellt, so hat es dabei sein Bewenden. Die Leistung ist jedoch auf Antrag unter Berücksichtigung dieses Gesetzes mit Wirkung vom Inkrafttreten des Vertrags an neu festzustellen, falls der Antrag innerhalb von zwei Jahren nach Inkrafttreten des Vertrags gestellt wird. Die Rechtskraft früherer Entscheidungen steht nicht entgegen.(2) Ist der Versicherungsfall vor dem Inkrafttreten des Vertrags eingetreten, jedoch vor diesem Zeitpunkt eine Leistung auf Grund der in Artikel 1 Abs. 1 Buchstabe a des Vertrags genannten Ansprüche und Anwartschaften von einem Versicherungsträger im Bundesgebiet oder im Land Berlin noch nicht bindend festgestellt worden, so beginnt die Leistung nach diesem Gesetz mit Ablauf des Kalendermonats, in dem der Vertrag in Kraft getreten ist, falls der Antrag spätestens innerhalb von zwei Jahren nach Inkrafttreten des Vertrags gestellt wird.
+(1) Hat ein Versicherungsträger im Bundesgebiet oder im Land Berlin auf Grund der in Artikel 1 Abs. 1 Buchstabe a des Vertrags genannten Ansprüche und Anwartschaften bereits vor dem Inkrafttreten des Vertrags eine Leistung bindend festgestellt, so hat es dabei sein Bewenden. Die Leistung ist jedoch auf Antrag unter Berücksichtigung dieses Gesetzes mit Wirkung vom Inkrafttreten des Vertrags an neu festzustellen, falls der Antrag innerhalb von zwei Jahren nach Inkrafttreten des Vertrags gestellt wird. Die Rechtskraft früherer Entscheidungen steht nicht entgegen.
+
+(2) Ist der Versicherungsfall vor dem Inkrafttreten des Vertrags eingetreten, jedoch vor diesem Zeitpunkt eine Leistung auf Grund der in Artikel 1 Abs. 1 Buchstabe a des Vertrags genannten Ansprüche und Anwartschaften von einem Versicherungsträger im Bundesgebiet oder im Land Berlin noch nicht bindend festgestellt worden, so beginnt die Leistung nach diesem Gesetz mit Ablauf des Kalendermonats, in dem der Vertrag in Kraft getreten ist, falls der Antrag spätestens innerhalb von zwei Jahren nach Inkrafttreten des Vertrags gestellt wird.
 
 ### Art 7
 
@@ -46,7 +52,17 @@ Aufwendungen, die nicht nach Artikel 8 vom Bund getragen werden, sind von den ve
 
 ### Art 10
 
-Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates 1.in den Fällen, in denen die Versicherungspflicht über das Bundesrecht hinausging oder in denen die Beitragsberechnung, insbesondere in der freiwilligen Versicherung, abweichend vom Bundesrecht geregelt war, und für sonstige besondere Fälle zur Vermeidung von Härten Näheres über die Anrechnung der in Artikel 1 Abs. 1 Buchstabe a des Vertrags bezeichneten Versicherungszeiten bestimmen. In derselben Weise können auch bestimmte Beitragsklassen für die Rentenberechnung auf Grund der anzurechnenden Versicherungszeiten festgelegt werden; 2.die Steigerungsbeträge für solche nach Artikel 5 dieses Gesetzes anzurechnende Versicherungszeiten feststellen,a)bei denen das zu berücksichtigende Entgelt oder die Höhe des Beitrags nicht feststeht oder b)die nicht nachweisbar sind, aber durch Arbeitsbescheinigungen oder sonstige als zuverlässig zu erachtende Unterlagen glaubhaft gemacht werden; 3.bestimmen, welche Zeiten als Beitrags- und Ersatzzeiten der jugoslawischen gesetzlichen Rentenversicherung anzusehen sind.
+Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates
+
+1.
+
+2.
+
+a)
+
+b)
+
+3.
 
 ### Art 11
 
@@ -62,4 +78,6 @@ Dieses Gesetz gilt nicht im Saarland.
 
 ### Art 14
 
-(1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.(2)
+(1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
+
+(2)

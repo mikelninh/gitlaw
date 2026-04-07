@@ -12,13 +12,9 @@
 
 (1a) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
-1.
+1. anderen öffentlichen oder privaten Stellen die Eisenbahnaufsicht und die Erteilung von Genehmigungen, Zulassungen oder Anerkennungen, einschließlich ihrer Aussetzung, Einschränkung oder Entziehung, ganz oder teilweise zu übertragen,
 
-2.
-
-a)
-
-b)
+2. dem Eisenbahn-Bundesamt die Befugnis zu erteilen, privaten Stellen a)die Erteilung von Genehmigungen, Zulassungen oder Anerkennungen, einschließlich ihrer Aussetzung, Einschränkung oder Entziehung,b)die Registerführungganz oder teilweise zu übertragen oder die privaten Stellen daran zu beteiligen. Eine Übertragung oder Beteiligung nach Satz 1 ist nur zulässig, soweit die privaten Stellen über die zur Wahrnehmung der Aufgaben erforderliche Sachkunde, Zuverlässigkeit und Unabhängigkeit verfügen. In der Rechtsverordnung nach Satz 1 sind die näheren Voraussetzungen für die Übertragung oder Beteiligung sowie das Verfahren zu regeln. Die Stellen im Sinne des Satzes 1 unterliegen der Rechtsaufsicht durch das Eisenbahn-Bundesamt. die Erteilung von Genehmigungen, Zulassungen oder Anerkennungen, einschließlich ihrer Aussetzung, Einschränkung oder Entziehung, die Registerführung
 
 (2) Die Aufgaben des Bundeseisenbahnvermögens auf Grund des Gesetzes zur Zusammenführung und Neugliederung der Bundeseisenbahnen vom 27. Dezember 1993 (BGBl. I S. 2378) bleiben unberührt.
 
@@ -42,23 +38,23 @@ b)
 
 ### § 3 — Aufgaben des Eisenbahn-Bundesamtes
 
-(1) Dem Eisenbahn-Bundesamt obliegen folgende Aufgaben, soweit nicht die in § 4 Abs. 1 bezeichnete Behörde zuständig ist: Soweit diese Aufgaben vom Verwaltungsbereich des Bundeseisenbahnvermögens im Sinne des § 3 Abs. 1 Nr. 2 des Gesetzes zur Zusammenführung und Neugliederung der Bundeseisenbahnen wahrgenommen worden sind, gehen diese Aufgaben mit der Errichtung des Eisenbahn-Bundesamts auf dieses Amt über.
+(1) Dem Eisenbahn-Bundesamt obliegen folgende Aufgaben, soweit nicht die in § 4 Abs. 1 bezeichnete Behörde zuständig ist:
 
-1.
+1. die Planfeststellung für Betriebsanlagen der Eisenbahnen des Bundes,
 
-2.
+2. die Eisenbahnaufsicht,
 
-3.
+3. die Bauaufsicht für Betriebsanlagen der Eisenbahnen des Bundes,
 
-4.
+4. Erteilung und Widerruf einer Betriebsgenehmigung,
 
-5.
+5. die Ausübung hoheitlicher Befugnisse sowie von Aufsichts- und Mitwirkungsrechten nach Maßgabe anderer Gesetze und Verordnungen,
 
-6.
+6. die Vorbereitung und Durchführung von Vereinbarungen gemäß § 9 des Bundesschienenwegeausbaugesetzes,
 
-7.
+7. die Feststellung des Bestehens oder Nichtbestehens der Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung (UVP-Pflicht) nach § 5 Absatz 1 Satz 2 Nummer 1 des Gesetzes über die Umweltverträglichkeitsprüfung in Verbindung mit § 18 Absatz 1a Satz 5 des Allgemeinen Eisenbahngesetzes,
 
-8.
+8. die Bewilligung von Bundesmitteln zur Förderung des Schienenverkehrs und zur Förderung der Kombination des Schienenverkehrs mit anderen Verkehrsarten.
 
 (1a) Das Eisenbahn-Bundesamt ist die Sicherheitsbehörde nach § 5 Absatz 1d Satz 2 und Absatz 1e Satz 2 des Allgemeinen Eisenbahngesetzes, die mit den Aufgaben der Eisenbahnsicherheit im Sinne des Rechts der Europäischen Gemeinschaften oder der Europäischen Union betraut ist.
 
@@ -126,27 +122,27 @@ b)
 
 (2) Der Bundesstelle für Eisenbahnunfalluntersuchung obliegen folgende Aufgaben:
 
-1.
+1. Entgegennahme und Kategorisierung von Meldungen zu gefährlichen Ereignissen im Eisenbahnbetrieb,
 
-2.
+2. Untersuchung von gefährlichen Ereignissen,
 
-3.
+3. Erstellung von Untersuchungsberichten und Veröffentlichung in nicht personenbezogener Form,
 
-4.
+4. Unterrichtung der Europäischen Eisenbahnagentur über Einleitung und Ergebnis einer Unfalluntersuchung,
 
-5.
+5. Möglichkeit zur Aussprache von Sicherheitsempfehlungen,
 
-6.
+6. Erstellung von Jahresberichten über die im Vorjahr durchgeführten Untersuchungen, die ausgesprochenen Sicherheitsempfehlungen und die im Anschluss an frühere Sicherheitsempfehlungen durch die Sicherheitsbehörde und andere Behörden getroffenen Maßnahmen in nicht personenbezogener Form,
 
-7.
+7. Durchführung eines aktiven Meinungs- und Erfahrungsaustausches mit anderen Untersuchungsstellen,
 
-8.
+8. Erarbeitung und Anwendung eines Programms für die gegenseitige Begutachtung zur Überwachung ihrer Wirksamkeit und Unabhängigkeit,
 
-9.
+9. Mitwirkung bei der Untersuchung von gefährlichen Ereignissen nach Aufforderung durch eine Untersuchungsstelle,
 
-10.
+10. Abschluss von Vereinbarungen zur gegenseitigen Zusammenarbeit mit den nationalen Strafverfolgungsbehörden und Untersuchungsstellen,
 
-11.
+11. Führung einer Datenbank über die gemeldeten gefährlichen Ereignisse im Eisenbahnbetrieb in nicht personenbezogener Form.
 
 ### § 8 — Übergangsregelungen
 

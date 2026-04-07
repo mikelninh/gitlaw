@@ -13,7 +13,15 @@ Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe a in Verbindung mit Abs. 3 des Straße
 
 ### § 1
 
-Abweichend von § 53 Abs. 2 der Straßenverkehrs-Zulassungs-Ordnung darf an Kraftfahrzeugen - ausgenommen Krafträder - und ihren Anhängern eine zusätzliche zentrale Bremsleuchte angebaut sein, wenn 1.ihre Lichtstärke mindestens 25 Candela, aber nicht mehr als 80 Candela beträgt, 2.sie in einer amtlich genehmigten Bauart (§ 22a Abs. 1 Nr. 14 der Straßenverkehrs-Zulassungs-Ordnung) ausgeführt ist oder auf Grund vergleichbarer Anforderungen eines anderen Mitgliedstaates der Europäischen Gemeinschaften an Bauart und Beschaffenheit genehmigt wurde und mindestens die gleiche Schutzwirkung aufweist, 3.sie symmetrisch zur Fahrzeuglängsmittelebene innen oder außen am Fahrzeug fest angebracht ist und ihre untere Begrenzung der leuchtenden Fläche über den oberen Begrenzungen der leuchtenden Flächen der vorgeschriebenen Bremsleuchten liegt und 4.nicht bereits zusätzliche paarweise Bremsleuchten nach § 53 Abs. 2 Satz 10 der Straßenverkehrs-Zulassungs-Ordnung angebracht sind.
+Abweichend von § 53 Abs. 2 der Straßenverkehrs-Zulassungs-Ordnung darf an Kraftfahrzeugen - ausgenommen Krafträder - und ihren Anhängern eine zusätzliche zentrale Bremsleuchte angebaut sein, wenn
+
+1.
+
+2.
+
+3.
+
+4.
 
 ### § 2
 

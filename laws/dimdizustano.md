@@ -18,5 +18,3 @@ Nach § 174 Abs. 3 des Bundesbeamtengesetzes wird dem Bundesverwaltungsamt für 
 Diese Anordnung ist mit Wirkung vom 1. Januar 2008 anzuwenden.
 
 ### Schlussformel
-
-Die Bundesministerin für Gesundheit

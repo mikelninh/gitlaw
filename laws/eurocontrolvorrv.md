@@ -12,8 +12,6 @@ Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den Beitritt der B
 
 ### § 1
 
-(1) Das Bundeszentralamt für Steuern erstattet an die Europäische Organisation zur Sicherung der Luftfahrt EUROCONTROL auf Antrag aus dem Aufkommen der Umsatzsteuer die EUROCONTROL von dem Unternehmer nach § 14 Abs. 1 des Umsatzsteuergesetzes 1967 für Lieferungen oder sonstige Leistungen, die ausschließlich für den amtlichen Gebrauch bestimmt sind, in Rechnung gestellte und von EUROCONTROL bezahlte Umsatzsteuer, wenn der Steuerbetrag im Einzelfall 50,-- DM übersteigt. Satz 1 gilt nicht für den Erwerb von Lebensmitteln und Tabakerzeugnissen.
-
 (2) Der Antrag auf Erstattung ist unter Beifügung der in Betracht kommenden Rechnung innerhalb von sechs Monaten nach Erhalt einer Rechnung, spätestens jedoch bis zum Ablauf des Kalenderjahres, das auf das Kalenderjahr folgt, in dem der Umsatz an EUROCONTROL bewirkt worden ist, zu stellen.
 
 (3) Wird dem Antrag nicht entsprochen, so ist ein schriftlicher Bescheid zu erteilen.
@@ -27,8 +25,6 @@ Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den Beitritt der B
 Die Einfuhr von Gegenständen für EUROCONTROL ist einfuhrumsatzsteuerfrei. Dies gilt nicht für die Einfuhr von Lebensmitteln und Tabakerzeugnissen.
 
 ### § 3
-
-Wird ein Gegenstand veräußert, den EUROCONTROL für den amtlichen Gebrauch erworben oder eingeführt hat und für dessen Erwerb oder Einfuhr ihr Entlastungen von der Umsatzsteuer oder Einfuhrumsatzsteuer nach § 1 Abs. 1 oder § 2 gewährt worden sind, so ist der Teil der Umsatzsteuer oder Einfuhrumsatzsteuer, der dem Veräußerungspreis entspricht, an das Bundeszentralamt für Steuern abzuführen. Der abzuführende Steuerbetrag kann aus Vereinfachungsgründen durch Anwendung des im Zeitpunkt der Veräußerung für die Lieferung des Gegenstandes geltenden Steuersatzes (§ 12 des Umsatzsteuergesetzes 1967) ermittelt werden.
 
 > § 3 Satz 2 Kursivdruck: Vgl. jetzt § 12 Umsatzsteuergesetz 1980 v. 26.11.1979 I 1953
 

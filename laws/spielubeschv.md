@@ -16,11 +16,33 @@ Der Antragsteller hat dem Antrag eine Spielbeschreibung, die Spielregeln und, so
 
 ### § 3
 
-(1) Die Unbedenklichkeitsbescheinigung wird erteilt 1.dem Hersteller, wenn es sich um eine Spieleinrichtung handelt, die serienmäßig gefertigt werden soll und wenn die Übereinstimmung der Nachbauten mit dem geprüften Muster sichergestellt ist, 2.in allen übrigen Fällen dem Veranstalter. (2) Für jeden Nachbau einer Spieleinrichtung nach Absatz 1 Nr. 1 erhält der Hersteller einen Abdruck der Unbedenklichkeitsbescheinigung.
+(1) Die Unbedenklichkeitsbescheinigung wird erteilt
+
+1.
+
+2.
+
+(2) Für jeden Nachbau einer Spieleinrichtung nach Absatz 1 Nr. 1 erhält der Hersteller einen Abdruck der Unbedenklichkeitsbescheinigung.
 
 ### § 4
 
-Die Unbedenklichkeitsbescheinigung enthält 1.Bezeichnung des Spieles, 2.a)im Falle des § 3 Abs. 1 Nr. 1 Firmenbezeichnung und Sitz des Herstellers, b)im Falle des § 3 Abs. 1 Nr. 2 Namen, Geburtsdatum und -ort sowie Wohnort des Veranstalters, 3.Beschreibung des Spieles, des Spielablaufs und, soweit erforderlich, Abbildungen oder Übersichtszeichnungen, 4.Spielregeln und Gewinnplan, 5.Bezeichnung der Plätze, an denen das Spiel veranstaltet werden darf, 6.Angabe der Geltungsdauer, 7.etwaige Nebenbestimmungen.
+Die Unbedenklichkeitsbescheinigung enthält
+
+1.
+
+2.
+
+a)
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
 
 ### § 5
 

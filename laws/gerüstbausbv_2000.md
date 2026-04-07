@@ -12,11 +12,11 @@ Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsges
 
 ### § 1 — Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Gerüstbauer/Gerüstbauerin wird staatlich anerkannt.
+Der Ausbildungsberuf Gerüstbauer/Gerüstbauerin wird
 
-1.
+1. gemäß § 25 der Handwerksordnung für die Ausbildung für das Gewerbe Nummer 14, Gerüstbauer, der Anlage A der Handwerksordnung sowie
 
-2.
+2. gemäß § 25 des Berufsbildungsgesetzes
 
 ### § 2 — Ausbildungsdauer
 
@@ -26,11 +26,11 @@ Die Ausbildung dauert drei Jahre.
 
 (1) Die Berufsausbildung ist entsprechend dem Ausbildungsrahmenplan (Anlage) während einer Dauer von 25 Wochen wie folgt in überbetrieblichen Ausbildungsstätten zu ergänzen und zu vertiefen:
 
-a)
+a) im ersten Ausbildungsjahr in zehn Wochen Fertigkeiten und Kenntnisse aus den laufenden Nummern 7, 8, 10 bis 14 und 19 der Anlage,
 
-b)
+b) im zweiten Ausbildungsjahr in zehn Wochen Fertigkeiten und Kenntnisse aus den laufenden Nummern 6, 7, 9 bis 12 und 14 bis 19 der Anlage,
 
-c)
+c) im dritten Ausbildungsjahr in fünf Wochen Fertigkeiten und Kenntnisse aus den laufenden Nummern 10 und 15 bis 17 der Anlage.
 
 (2) Der Urlaub ist jeweils auf die Dauer der Berufsausbildung in der betrieblichen Ausbildungsstätte anzurechnen.
 
@@ -38,45 +38,45 @@ c)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
-1.
+1. Berufsbildung, Arbeits- und Tarifrecht,
 
-2.
+2. Aufbau und Organisation des Ausbildungsbetriebes,
 
-3.
+3. Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-4.
+4. Umweltschutz,
 
-5.
+5. Planen und Vorbereiten von Arbeitsabläufen, Beschaffen und Auswerten von Informationen, Arbeiten im Team,
 
-6.
+6. Anfertigen und Anwenden von technischen Unterlagen,
 
-7.
+7. Einrichten, Sichern und Räumen von Baustellen,
 
-8.
+8. Bearbeiten von Werkstoffen,
 
-9.
+9. Handhaben und Instandhalten von Werkzeugen, Geräten, Maschinen und technischen Einrichtungen,
 
-10.
+10. Durchführen von Vermessungsarbeiten,
 
-11.
+11. Warten, Lagern und Transportieren von Gerüstbauteilen,
 
-12.
+12. Beurteilen von Traggründen und Herstellen der Tragfähigkeit,
 
-13.
+13. Verankern von Gerüsten,
 
-14.
+14. Bauen von längen- und flächenorientierten Arbeits- und Schutzgerüsten,
 
-15.
+15. Bauen von Traggerüsten mit Unterkonstruktion einschließlich der Grundschalung,
 
-16.
+16. Arbeitsplattformen, Arbeitsbühnen und Aufzüge,
 
-17.
+17. Bauen von Hängegerüsten,
 
-18.
+18. Bauen von Wetterschutzhallen und Einhausungen,
 
-19.
+19. Bauen von Gerüsten für besondere Anforderungen,
 
-20.
+20. qualitätssichernde Maßnahmen und Berichtswesen.
 
 ### § 5 — Ausbildungsrahmenplan
 
@@ -100,15 +100,15 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (3) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens sechs Stunden eine praktische Aufgabe ausführen. Dabei soll der Prüfling zeigen, dass er die Arbeitsschritte planen, Arbeitsmittel festlegen sowie die Sicherheit und den Gesundheitsschutz bei der Arbeit beachten kann. Für die praktische Aufgabe kommt insbesondere in Betracht:
 
-1.
+1. Auf- und Abbauen eines längenorientierten Arbeits- oder Schutzgerüstes oder
 
-2.
+2. Auf- und Abbauen eines flächenorientierten Arbeits- oder Schutzgerüstes.
 
 (4) Der Prüfling soll im schriftlichen Teil der Prüfung in insgesamt höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, lösen. Dabei sollen die Arbeitsplanung und der Einsatz von Arbeitsmitteln unter Berücksichtigung der Sicherheit und des Gesundheitsschutzes bei der Arbeit einbezogen werden. Hierfür kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
-1.
+1. längenorientierte Gerüste,
 
-2.
+2. flächenorientierte Gerüste.
 
 ### § 9 — Abschlussprüfung/Gesellenprüfung
 
@@ -116,39 +116,19 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens neun Stunden zwei praktische Aufgaben ausführen. Dabei soll der Prüfling zeigen, dass er den Arbeitsablauf selbständig planen, Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz ergreifen kann. Für die praktischen Aufgaben kommen insbesondere in Betracht:
 
-1.
+1. Einrüsten eines Bauwerks oder Bauwerkteiles einschließlich Abbauen des Gerüstes und Lagern der Gerüstbauteile oder Inbetriebnehmen eines Lastenaufzuges einschließlich Funktions- und Sicherheitsprüfung und
 
-2.
+2. Auf- und Abbauen einer Gerüstbausonderkonstruktion oder Auf- und Abbauen eines Traggerüstes aus Rüststützen und Rüstbindern.
 
 (3) Der Prüfling soll im schriftlichen Teil der Prüfung in den nachfolgend genannten Prüfungsbereichen Arbeits-, Schutz- und Traggerüste, Sonderkonstruktionen und bewegliche Arbeitsplattformen sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Arbeits-, Schutz- und Traggerüste sowie Sonderkonstruktionen und bewegliche Arbeitsplattformen soll der Prüfling zeigen, dass er insbesondere durch Verknüpfung von arbeitsorganisatorischen, technologischen, mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen die Sicherheit und der Gesundheitsschutz bei der Arbeit, der Umweltschutz sowie qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
-1.
+1. im Prüfungsbereich Arbeits-, Schutz- und Traggerüste:a)längenorientierte Gerüste mit Überbrückung und Auskragung, b)flächenorientierte Gerüste, c)Hängegerüste, d)Traggerüste; längenorientierte Gerüste mit Überbrückung und Auskragung, flächenorientierte Gerüste, Hängegerüste, Traggerüste;
 
-a)
+2. im Prüfungsbereich Sonderkonstruktionen und bewegliche Arbeitsplattformen:a)Wetterschutzhallen, b)Einhausungen, c)Bühnen und Tribünen, d)Arbeitsplattformen, Arbeitsbühnen und Aufzüge; Wetterschutzhallen, Einhausungen, Bühnen und Tribünen, Arbeitsplattformen, Arbeitsbühnen und Aufzüge;
 
-b)
-
-c)
-
-d)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-3.
-
-(4) Der schriftliche Teil der Prüfung dauert höchstens:
+3. im Prüfungsbereich Wirtschafts- und Sozialkunde: allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 (5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
-
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung in mindestens zwei der Prüfungsbereiche mindestens ausreichende Leistungen erbracht sind. Werden die Prüfungsleistungen in einer der praktischen Aufgaben oder in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
@@ -162,276 +142,12 @@ Diese Verordnung tritt am 1. August 2000 in Kraft.
 
 ### Anlage — (zu § 5)
 
-(Fundstelle: BGBl. I 2000, 781 - 787)
+a) Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
-a)
+b) gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
 
-b)
+c) Möglichkeiten der beruflichen Fortbildung nennen
 
-c)
+d) wesentliche Teile des Arbeitsvertrages nennen
 
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-p)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-p)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-l)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-c)
-
-d)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-*)
+e) wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen

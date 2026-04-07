@@ -15,15 +15,15 @@ Auf Grund des § 23 Absatz 4 und des § 24 Absatz 4 des Betreuungsorganisationsg
 
 (2) Diese Verordnung regelt die Einzelheiten
 
-1.
+1. der nach § 23 Absatz 1 Nummer 1 des Betreuungsorganisationsgesetzes für die Registrierung als beruflicher Betreuer erforderlichen persönlichen Eignung,
 
-2.
+2. der nach § 23 Absatz 1 Nummer 2 des Betreuungsorganisationsgesetzes für die Registrierung als beruflicher Betreuer erforderlichen Sachkunde sowie ihren Nachweis,
 
-3.
+3. der Anforderungen an einen Sachkundelehrgang und dessen Anerkennung,
 
-4.
+4. der Anerkennung ausländischer Berufsqualifikationen und
 
-5.
+5. des Registrierungsverfahrens.
 
 ### § 2 — Persönliche Eignung
 
@@ -33,35 +33,23 @@ Der Antragsteller muss die Gewähr dafür bieten, seine Aufgaben als rechtlicher
 
 (1) Die nach § 23 Absatz 3 Satz 2 Nummer 1 des Betreuungsorganisationsgesetzes erforderliche Sachkunde umfasst folgende Kenntnisse einschließlich der Fähigkeit zu ihrer praktischen Anwendung:
 
-1.
+1. Kenntnisse über die gesetzlichen Voraussetzungen der Betreuerbestellung und der Anordnung eines Einwilligungsvorbehalts, die rechtlichen Grundlagen der Betreuungsführung, insbesondere die Pflichten des Betreuers gegenüber dem Betreuten und dem Betreuungsgericht, sowie über die gesetzlichen Voraussetzungen für Freiheitsentziehungen und ärztliche Zwangsmaßnahmen, jeweils einschließlich des dazugehörigen Verfahrensrechts,
 
-2.
+2. Kenntnisse auf dem Gebiet der Personensorge, insbesondere Grundkenntnisse über typische betreuungsrelevante Erkrankungen und Behinderungen, deren Auswirkungen, Gefahren und Behandlungsmöglichkeiten, Patientenrechte, Einwilligungsfähigkeit, Anforderungen an und Rechtsfolgen von Patientenverfügungen, Möglichkeiten der Vermeidung von Freiheitsentziehungen und ärztlichen Zwangsmaßnahmen und
 
-3.
+3. Kenntnisse auf dem Gebiet der Vermögenssorge, insbesondere über die Grundlagen der Rechtsgeschäftslehre, des Miet- und Kaufvertragsrechts, der Haftung, der Vermögensverwaltung und der Schuldenregulierung.
 
 (2) Die nach § 23 Absatz 3 Satz 2 Nummer 2 des Betreuungsorganisationsgesetzes erforderliche Sachkunde umfasst folgende Kenntnisse:
 
-1.
+1. Kenntnisse des Sozialrechts, insbesondere zu a)Grundlagen und Umfang der Leistungen zur Sicherung des Lebensunterhalts einschließlich der Kosten der Unterkunft, vor allem nach dem Zweiten und Zwölften Buch Sozialgesetzbuch,b)Sozialleistungsansprüchen nach dem Fünften, Sechsten und Elften Buch Sozialgesetzbuch,c)Ermittlung, Geltendmachung und Durchsetzung von sozialrechtlichen Ansprüchen unter Beachtung sozialrechtlicher Mitwirkungspflichten und Grundlagen und Umfang der Leistungen zur Sicherung des Lebensunterhalts einschließlich der Kosten der Unterkunft, vor allem nach dem Zweiten und Zwölften Buch Sozialgesetzbuch, Sozialleistungsansprüchen nach dem Fünften, Sechsten und Elften Buch Sozialgesetzbuch, Ermittlung, Geltendmachung und Durchsetzung von sozialrechtlichen Ansprüchen unter Beachtung sozialrechtlicher Mitwirkungspflichten und
 
-a)
-
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-c)
+2. Kenntnisse zu Sozial- und Hilfestrukturen in der Praxis, insbesondere zu a)Teilhabeleistungen vor allem nach dem Neunten Buch Sozialgesetzbuch,b)Pflegeleistungen in Kombination mit anderen Leistungen nach dem Sozialgesetzbuch undc)Methoden zur fallbezogenen Erschließung und Nutzung von Sozial- und Hilfestrukturen sowie von Netzwerken. Teilhabeleistungen vor allem nach dem Neunten Buch Sozialgesetzbuch, Pflegeleistungen in Kombination mit anderen Leistungen nach dem Sozialgesetzbuch und Methoden zur fallbezogenen Erschließung und Nutzung von Sozial- und Hilfestrukturen sowie von Netzwerken.
 
 (3) Die nach § 23 Absatz 3 Satz 2 Nummer 3 des Betreuungsorganisationsgesetzes erforderliche Sachkunde umfasst folgende Kenntnisse:
 
-1.
+1. Grundlagen der Kommunikation und Umsetzung in der Praxis und
 
-2.
+2. betreuungsspezifische Kommunikation und Methoden zur Unterstützung bei der Entscheidungsfindung.
 
 (4) Die Einzelheiten der inhaltlichen Anforderungen an die Sachkunde nach den Absätzen 1 bis 3 ergeben sich aus den in der Anlage bestimmten Modulen.
 
@@ -69,11 +57,11 @@ c)
 
 Die erforderliche Sachkunde ist wie folgt nachzuweisen:
 
-1.
+1. durch ein Zeugnis über den erfolgreichen Abschluss eines anerkannten Studien-, Aus- oder Weiterbildungsgangs nach § 5,
 
-2.
+2. durch ein Zeugnis über den erfolgreichen Abschluss eines anerkannten Sachkundelehrgangs nach § 6 oder
 
-3.
+3. durch anderweitige Nachweise nach § 7.
 
 ### § 5 — Nachweis der Sachkunde durch betreuungsspezifische Studien-, Aus- oder Weiterbildungsgänge
 
@@ -107,31 +95,27 @@ Die erforderliche Sachkunde ist wie folgt nachzuweisen:
 
 ### § 8 — Anerkennung von Sachkundelehrgängen
 
-(1) Ein Sachkundelehrgang ist auf Antrag des Anbieters von der nach Landesrecht zuständigen Behörde anzuerkennen, wenn Für die Anerkennung örtlich zuständig ist die nach Landesrecht bestimmte Behörde, in deren Zuständigkeitsbereich sich der Hauptsitz des Anbieters befindet.
+(1) Ein Sachkundelehrgang ist auf Antrag des Anbieters von der nach Landesrecht zuständigen Behörde anzuerkennen, wenn
 
-1.
+1. der Sachkundelehrgang die Voraussetzungen des § 6 Absatz 2 erfüllt,
 
-2.
+2. der Anbieter für die Vermittlung der in der Anlage vorgesehenen Inhalte Lehrkräfte einsetzt, die a)über einen Abschluss eines Hochschulstudiums oder einer Berufsausbildung verfügen undb)über die jeweils erforderlichen fachlichen Kenntnisse verfügen, um die in der Anlage aufgeführten Inhalte, für die sie jeweils eingesetzt werden, zu vermitteln, über einen Abschluss eines Hochschulstudiums oder einer Berufsausbildung verfügen und über die jeweils erforderlichen fachlichen Kenntnisse verfügen, um die in der Anlage aufgeführten Inhalte, für die sie jeweils eingesetzt werden, zu vermitteln,
 
-a)
+3. der Anbieter die Gewähr für eine ordnungsgemäße Durchführung des Lehrbetriebs und des Prüfungsverfahrens bietet,
 
-b)
+4. der Anbieter eine Prüfungsordnung zur Gewährleistung eines transparenten und nachprüfbaren Verfahrens für die Durchführung der Modulprüfungen nachweist,
 
-3.
+5. der Anbieter eine Finanzierungsplanung für den Sachkundelehrgang vorlegt, die den Bestand des Lehrgangs für die Dauer der Anerkennung finanziell gesichert erscheinen lässt, und
 
-4.
-
-5.
-
-6.
+6. der Anbieter die teilnehmerbezogenen Lehrgangskosten nachvollziehbar darlegt.
 
 (2) Die Anerkennung gilt bundesweit. Sie ist auf fünf Jahre befristet. Die Anerkennung kann auch nachträglich mit Nebenbestimmungen verbunden werden.
 
-(3) Die Anerkennung ist unbeschadet der landesrechtlichen Vorschriften, die § 48 des Verwaltungsverfahrensgesetzes entsprechen, zurückzunehmen, wenn der Anbieter die Anerkennung wie folgt erwirkt hat: Die Rücknahme hat keine Auswirkungen auf vor ihrer Bestandskraft erteilte Abschlusszeugnisse.
+(3) Die Anerkennung ist unbeschadet der landesrechtlichen Vorschriften, die § 48 des Verwaltungsverfahrensgesetzes entsprechen, zurückzunehmen, wenn der Anbieter die Anerkennung wie folgt erwirkt hat:
 
-1.
+1. durch arglistige Täuschung, Drohung oder Bestechung oder
 
-2.
+2. vorsätzlich oder grob fahrlässig durch Angaben, die im Wesentlichen unrichtig oder unvollständig waren.
 
 (4) Die Anerkennung ist unbeschadet der landesrechtlichen Vorschriften, die § 49 des Verwaltungsverfahrensgesetzes entsprechen, zu widerrufen, wenn der Anbieter die Voraussetzungen nach Absatz 1 ganz oder teilweise nicht mehr erfüllt.
 
@@ -143,31 +127,31 @@ b)
 
 (1) Als Nachweis der erforderlichen Sachkunde durch einen Staatsangehörigen eines Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum werden in einem anderen Mitgliedstaat erworbene Befähigungs- oder Ausbildungsnachweise, falls notwendig auch in Verbindung mit weiteren Unterlagen, anerkannt, sofern
 
-1.
+1. der in einem anderen Mitgliedstaat erworbene Befähigungs- oder Ausbildungsnachweis die Befähigung zu einer vergleichbaren beruflichen Tätigkeit belegt wie das entsprechende inländische Abschlusszeugnis oder der entsprechende inländische sonstige Leistungsnachweis,
 
-2.
+2. der Befähigungs- oder Ausbildungsnachweis in dem anderen Mitgliedstaat erforderlich ist, um in dessen Hoheitsgebiet die Erlaubnis zur Aufnahme und Ausübung dieses Berufs zu erhalten,
 
-3.
+3. der Antragsteller zur Ausübung dieser beruflichen Tätigkeit in dem anderen Mitgliedstaat berechtigt ist und
 
-4.
+4. zwischen den nachgewiesenen ausländischen Berufsqualifikationen und der entsprechenden inländischen Berufsbildung keine wesentlichen Unterschiede bestehen.
 
-(2) Als Nachweis der erforderlichen Sachkunde durch einen Staatsangehörigen eines Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum werden in einem anderen Mitgliedstaat erworbene Befähigungs- oder Ausbildungsnachweise, falls notwendig auch in Verbindung mit weiteren Unterlagen, auch dann anerkannt, sofern Die mindestens einjährige Berufserfahrung darf nicht verlangt werden, wenn durch den Ausbildungsnachweis, über den der Antragsteller verfügt, ein reglementierter Ausbildungsgang belegt wird.
+(2) Als Nachweis der erforderlichen Sachkunde durch einen Staatsangehörigen eines Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum werden in einem anderen Mitgliedstaat erworbene Befähigungs- oder Ausbildungsnachweise, falls notwendig auch in Verbindung mit weiteren Unterlagen, auch dann anerkannt, sofern
 
-1.
+1. die Tätigkeit des beruflichen Betreuers in dem anderen Mitgliedstaat nicht reglementiert ist,
 
-2.
+2. die Befähigungs- und Ausbildungsnachweise in dem anderen Mitgliedstaat von einer entsprechend dessen Rechts-und Verwaltungsvorschriften benannten zuständigen Behörde ausgestellt worden sind,
 
-3.
+3. diese bescheinigen, dass der Inhaber auf die Ausübung des betreffenden Berufs vorbereitet wurde und
 
-4.
+4. der Antragsteller den Beruf in diesem Mitgliedstaat in den vorangegangenen zehn Jahren mindestens ein Jahr lang in Vollzeit oder während einer entsprechenden Gesamtdauer in Teilzeit ausgeübt hat.
 
 (3) Unterscheiden sich die von einem Antragsteller nach Absatz 1 oder 2 durch ausländische Berufsqualifikationen nachgewiesenen Kenntnisse hinsichtlich der zugrundeliegenden Sachgebiete nach Inhalt und Umfang wesentlich von den in § 6 Absatz 2 vorgesehenen Anforderungen an den Sachkundelehrgang, stellt die Stammbehörde auf Grundlage der in der Anlage bestimmten Module des Sachkundelehrgangs durch gesonderten Bescheid fest, in welchen der in den Modulen aufgeführten Sachgebieten keine ausreichenden Kenntnisse nachgewiesen wurden. Die Registrierung des Antragstellers als beruflicher Betreuer kann in diesen Fällen nur erfolgen, wenn der Antragsteller ein Zeugnis über die erfolgreiche Teilnahme an den durch gesonderten Bescheid benannten Modulen (Eignungsprüfung) vorlegt.
 
 (4) Will ein Staatsangehöriger eines Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum die Tätigkeit als beruflicher Betreuer, zu deren Ausübung er in einem dieser Staaten rechtmäßig niedergelassen ist, im Inland nur vorübergehend und gelegentlich ausüben, ist § 13a der Gewerbeordnung mit den Maßgaben entsprechend anzuwenden, dass
 
-1.
+1. die nach § 2 Absatz 4 Satz 3 des Betreuungsorganisationsgesetzes örtlich zuständige Stammbehörde die für die Anerkennung der Berufsqualifikation zuständige öffentliche Stelle ist und
 
-2.
+2. der Dienstleistungserbringer den Nachweis nach § 13a Absatz 5 Satz 1 Nummer 3 der Gewerbeordnung zu übermitteln hat.
 
 ### § 10 — Berufshaftpflichtversicherung
 
@@ -183,11 +167,11 @@ b)
 
 Die Mitteilung der beabsichtigten Organisationsstruktur der beruflichen Betreuertätigkeit nach § 24 Absatz 1 Satz 3 des Betreuungsorganisationsgesetzes hat mindestens folgende Angaben zu umfassen:
 
-1.
+1. Vorhandensein, Anzahl und Beschäftigungsumfang von Mitarbeitern,
 
-2.
+2. Art und Umfang der Räumlichkeiten, in denen die Tätigkeit ausgeübt wird, und
 
-3.
+3. Art und Umfang der Erreichbarkeit.
 
 ### § 12 — Gespräch zur Feststellung der persönlichen Eignung
 
@@ -207,9 +191,9 @@ Die Mitteilung der beabsichtigten Organisationsstruktur der beruflichen Betreuer
 
 Folgende Akten und elektronische Akten sind für einen Zeitraum von zehn Jahren nach der Beendigung des Verfahrens aufzubewahren:
 
-1.
+1. Akten, in denen eine beantragte Registrierung bestandskräftig abgelehnt worden ist, und
 
-2.
+2. Akten, in denen eine Registrierung bestandskräftig widerrufen oder zurückgenommen worden ist.
 
 ### § 15 — Übergangsvorschrift zu § 32 Absatz 2 Satz 2 des Betreuungsorganisationsgesetzes
 

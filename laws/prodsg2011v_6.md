@@ -16,53 +16,27 @@
 
 (2) Diese Verordnung ist nicht anzuwenden auf
 
-1.
+1. einfache Druckbehälter, die speziell für eine Verwendung in der Kerntechnik vorgesehen sind und bei denen Schäden die Freisetzung radioaktiver Stoffe zur Folge haben können,
 
-2.
+2. einfache Druckbehälter, die speziell zur Ausstattung oder für den Antrieb von Wasserfahrzeugen oder Luftfahrzeugen bestimmt sind,
 
-3.
+3. Feuerlöscher.
 
 ### § 2 — Begriffsbestimmungen
 
-Im Sinne dieser Verordnung ist oder sind Im Übrigen sind die Begriffsbestimmungen des § 2 des Produktsicherheitsgesetzes vom 27. Juli 2021 (BGBl. I S. 3146) anzuwenden.
+Im Sinne dieser Verordnung ist oder sind
 
-1.
+1. Druckinhaltsprodukt: das Produkt aus dem maximalen Betriebsdruck des einfachen Druckbehälters und seinem Fassungsvermögen, ausgedrückt in der Einheit bar∙Liter
 
-2.
+2. einfache Druckbehälter: serienmäßig hergestellte geschweißte Behälter, a)die dazu bestimmt sind, einem relativen Überdruck von mehr als 0,5 bar ausgesetzt zu sein,b)die dazu bestimmt sind, ausschließlich Luft oder Stickstoff aufzunehmen,c)die nicht dafür bestimmt sind, einer Flammeneinwirkung ausgesetzt zu werden,d)deren drucktragende Teile und Verbindungen aus unlegiertem Qualitätsstahl, aus unlegiertem Aluminium oder aus nichtaushärtbaren Aluminiumlegierungen hergestellt sind,e)die aa)aus einem zylindrischen Teil mit rundem Querschnitt bestehen, der durch nach außen gewölbte oder flache Böden geschlossen ist, wobei die Umdrehungsachse dieser Böden der des zylindrischen Teils entspricht, oderbb)aus zwei gewölbten Böden mit gleicher Umdrehungsachse bestehen,f)deren Betriebsdruck maximal 30 bar beträgt,g)deren Druckinhaltsprodukt maximal 10 000 bar∙Liter beträgt,h)deren niedrigste Betriebstemperatur nicht unter minus 50 Grad Celsius liegt undi)deren höchste Betriebstemperatur aa)bei Behältern aus Stahl nicht über 300 Grad Celsius liegt,bb)bei Behältern aus Aluminium oder Aluminiumlegierung nicht über 100 Grad Celsius liegt, die dazu bestimmt sind, einem relativen Überdruck von mehr als 0,5 bar ausgesetzt zu sein, die dazu bestimmt sind, ausschließlich Luft oder Stickstoff aufzunehmen, die nicht dafür bestimmt sind, einer Flammeneinwirkung ausgesetzt zu werden, deren drucktragende Teile und Verbindungen aus unlegiertem Qualitätsstahl, aus unlegiertem Aluminium oder aus nichtaushärtbaren Aluminiumlegierungen hergestellt sind, die aa)aus einem zylindrischen Teil mit rundem Querschnitt bestehen, der durch nach außen gewölbte oder flache Böden geschlossen ist, wobei die Umdrehungsachse dieser Böden der des zylindrischen Teils entspricht, oderbb)aus zwei gewölbten Böden mit gleicher Umdrehungsachse bestehen, aus einem zylindrischen Teil mit rundem Querschnitt bestehen, der durch nach außen gewölbte oder flache Böden geschlossen ist, wobei die Umdrehungsachse dieser Böden der des zylindrischen Teils entspricht, oder aus zwei gewölbten Böden mit gleicher Umdrehungsachse bestehen, deren Betriebsdruck maximal 30 bar beträgt, deren Druckinhaltsprodukt maximal 10 000 bar∙Liter beträgt, deren niedrigste Betriebstemperatur nicht unter minus 50 Grad Celsius liegt und deren höchste Betriebstemperatur aa)bei Behältern aus Stahl nicht über 300 Grad Celsius liegt,bb)bei Behältern aus Aluminium oder Aluminiumlegierung nicht über 100 Grad Celsius liegt, bei Behältern aus Stahl nicht über 300 Grad Celsius liegt, bei Behältern aus Aluminium oder Aluminiumlegierung nicht über 100 Grad Celsius liegt,
 
-a)
+3. EU-Konformitätserklärung: eine Erklärung gemäß Artikel 14 der Richtlinie 2014/29/EU,
 
-b)
+4. harmonisierte Norm: eine harmonisierte Norm im Sinne des Artikels 2 Nummer 1 Buchstabe c der Verordnung (EU) Nr. 1025/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur europäischen Normung, zur Änderung der Richtlinien 89/686/EWG und 93/15/EWG des Rates sowie der Richtlinien 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG und 2009/105/EG des Europäischen Parlaments und des Rates und zur Aufhebung des Beschlusses 87/95/EWG des Rates und des Beschlusses Nr. 1673/2006/EG des Europäischen Parlaments und des Rates (ABl. L 316 vom 14.11.2012, S. 12),
 
-c)
+5. Hersteller: jede natürliche oder juristische Person, die einen einfachen Druckbehälter herstellt oder entwickeln oder herstellen lässt und diesen einfachen Druckbehälter unter ihrem eigenen Namen oder ihrer eigenen Handelsmarke vermarktet,
 
-d)
-
-e)
-
-aa)
-
-bb)
-
-f)
-
-g)
-
-h)
-
-i)
-
-aa)
-
-bb)
-
-3.
-
-4.
-
-5.
-
-6.
+6. technische Spezifikation: ein Dokument, in dem die technischen Anforderungen vorgeschrieben sind, denen ein einfacher Druckbehälter genügen muss.
 
 ### § 3 — Bereitstellung auf dem Markt
 
@@ -116,11 +90,11 @@ Bei einfachen Druckbehältern mit einem Druckinhaltsprodukt von mehr als 50 bar�
 
 (3) Ein Hersteller, der einen Bevollmächtigten einsetzt, muss diesem mindestens die folgenden Pflichten übertragen:
 
-1.
+1. die Pflicht, die technischen Unterlagen und die EU-Konformitätserklärung nach § 5 Absatz 5 bereitzuhalten,
 
-2.
+2. die Pflicht, der Marktüberwachungsbehörde die Informationen und Unterlagen nach § 6 Absatz 5 zur Verfügung zu stellen, und
 
-3.
+3. die Pflicht, mit der Marktüberwachungsbehörde auf deren Verlangen bei allen Maßnahmen zur Abwendung der Risiken, die mit den einfachen Druckbehältern verbunden sind, die zum Aufgabenbereich des Bevollmächtigten gehören, zusammenzuarbeiten.
 
 (4) Die Pflichten gemäß § 5 Absatz 1 und 2 und die Pflicht zur Erstellung der technischen Unterlagen gemäß § 5 Absatz 3 darf der Hersteller nicht auf einen Bevollmächtigten übertragen.
 
@@ -128,21 +102,21 @@ Bei einfachen Druckbehältern mit einem Druckinhaltsprodukt von mehr als 50 bar�
 
 (1) Der Einführer darf nur einfache Druckbehälter in den Verkehr bringen, die die Anforderungen dieser Verordnung erfüllen.
 
-(2) Der Einführer darf einen einfachen Druckbehälter mit einem Druckinhaltsprodukt von mehr als 50 bar∙Liter erst in den Verkehr bringen, wenn er sichergestellt hat, dass Der Einführer hat beim Inverkehrbringen seinen Namen, seinen eingetragenen Handelsnamen oder seine eingetragene Handelsmarke sowie seine Postanschrift auf dem einfachen Druckbehälter anzubringen. Falls dies aufgrund der Größe oder der Art des einfachen Druckbehälters nicht möglich ist, müssen die Kontaktdaten in den dem einfachen Druckbehälter beigefügten Unterlagen angegeben werden. § 6 Absatz 2 Satz 2 und 3 ist entsprechend anzuwenden.
+(2) Der Einführer darf einen einfachen Druckbehälter mit einem Druckinhaltsprodukt von mehr als 50 bar∙Liter erst in den Verkehr bringen, wenn er sichergestellt hat, dass
 
-1.
+1. der Hersteller das Konformitätsbewertungsverfahren nach § 12 Absatz 1 durchgeführt hat,
 
-2.
+2. dem einfachen Druckbehälter die Betriebsanleitung und die Sicherheitsinformationen in deutscher Sprache beigefügt sind und
 
-3.
+3. der Hersteller die Pflichten nach § 6 Absatz 1 und 2 erfüllt hat.
 
-(3) Der Einführer darf einen einfachen Druckbehälter mit einem Druckinhaltsprodukt von nicht mehr als 50 bar∙Liter erst in den Verkehr bringen, wenn er sichergestellt hat, dass Der Einführer hat beim Inverkehrbringen seinen Namen, seinen eingetragenen Handelsnamen oder seine eingetragene Handelsmarke sowie seine Postanschrift auf dem einfachen Druckbehälter anzubringen. Falls dies aufgrund der Größe oder der Art des einfachen Druckbehälters nicht möglich ist, müssen die Kontaktdaten in den dem einfachen Druckbehälter beigefügten Unterlagen angegeben werden. § 6 Absatz 2 Satz 2 und 3 ist entsprechend anzuwenden.
+(3) Der Einführer darf einen einfachen Druckbehälter mit einem Druckinhaltsprodukt von nicht mehr als 50 bar∙Liter erst in den Verkehr bringen, wenn er sichergestellt hat, dass
 
-1.
+1. der einfache Druckbehälter in Übereinstimmung mit der guten Ingenieurpraxis entworfen und hergestellt wurde,
 
-2.
+2. der einfache Druckbehälter die in Anhang III Nummer 1.2 der Richtlinie 2014/29/EU festgelegten Angaben trägt und
 
-3.
+3. der Hersteller die Pflichten nach § 6 Absatz 1 und 2 erfüllt hat.
 
 (4) Hat der Einführer Grund zu der Annahme, dass ein einfacher Druckbehälter mit einem Druckinhaltsprodukt von mehr als 50 bar∙Liter nicht den wesentlichen Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/29/EU entspricht, darf er diesen einfachen Druckbehälter erst in den Verkehr bringen, wenn die Konformität hergestellt ist. Ist mit dem einfachen Druckbehälter ein Risiko verbunden, so informiert der Einführer den Hersteller und die Marktüberwachungsbehörden darüber.
 
@@ -160,21 +134,21 @@ Bei einfachen Druckbehältern mit einem Druckinhaltsprodukt von mehr als 50 bar�
 
 (2) Bevor der Händler einen einfachen Druckbehälter mit einem Druckinhaltsprodukt von mehr als 50 bar∙Liter auf dem Markt bereitstellt, hat er zu überprüfen, ob
 
-1.
+1. der einfache Druckbehälter mit der CE-Kennzeichnung und den Angaben gemäß Anhang III Nummer 1.1 und 1.2 der Richtlinie 2014/29/EU versehen ist,
 
-2.
+2. dem einfachen Druckbehälter die Betriebsanleitung und die Sicherheitsinformationen in deutscher Sprache beigefügt sind und
 
-3.
+3. der Hersteller die Pflichten nach § 6 Absatz 1 und 2 und der Einführer die Pflichten nach § 8 Absatz 2 Satz 2 bis 4 erfüllt hat.
 
 (3) Hat der Händler Grund zu der Annahme, dass ein einfacher Druckbehälter mit einem Druckinhaltsprodukt von mehr als 50 bar∙Liter nicht den wesentlichen Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/29/EU entspricht, darf der Händler diesen einfachen Druckbehälter erst auf dem Markt bereitstellen, wenn die Konformität hergestellt ist. Ist mit dem einfachen Druckbehälter ein Risiko verbunden, so informiert der Händler außerdem den Hersteller oder den Einführer sowie die Marktüberwachungsbehörden darüber.
 
 (4) Bevor der Händler einen einfachen Druckbehälter mit einem Druckinhaltsprodukt von nicht mehr als 50 bar∙Liter auf dem Markt bereitstellt, hat er zu überprüfen, ob
 
-1.
+1. der einfache Druckbehälter mit den Angaben gemäß Anhang III Nummer 1.2 der Richtlinie 2014/29/EU versehen ist,
 
-2.
+2. dem einfachen Druckbehälter die Betriebsanleitung und die Sicherheitsinformationen in deutscher Sprache beigefügt sind und
 
-3.
+3. der Hersteller die Pflichten nach § 6 Absatz 1 und 2 und der Einführer die Pflichten nach § 8 Absatz 3 Satz 2 bis 4 erfüllt hat.
 
 (5) Hat der Händler Grund zu der Annahme, dass ein von ihm auf dem Markt bereitgestellter einfacher Druckbehälter nicht den Anforderungen dieser Verordnung entspricht, muss er sicherstellen, dass die erforderlichen Korrekturmaßnahmen ergriffen werden, um die Übereinstimmung dieses einfachen Druckbehälters mit den Anforderungen herzustellen, oder dass der einfache Druckbehälter zurückgenommen oder zurückgerufen wird. § 5 Absatz 8 Satz 2 und 3 ist entsprechend anzuwenden.
 
@@ -186,17 +160,17 @@ Bei einfachen Druckbehältern mit einem Druckinhaltsprodukt von mehr als 50 bar�
 
 Auf einen Einführer oder einen Händler sind die §§ 5 und 6 entsprechend anzuwenden, wenn er
 
-1.
+1. einen einfachen Druckbehälter unter eigenem Namen oder eigener Handelsmarke in den Verkehr bringt oder
 
-2.
+2. einen auf dem Markt befindlichen einfachen Druckbehälter so verändert, dass die Konformität mit den Anforderungen dieser Verordnung beeinträchtigt werden kann.
 
 ### § 11 — Angabe der Wirtschaftsakteure
 
 (1) Der Wirtschaftsakteur nennt den Marktüberwachungsbehörden auf deren Verlangen die Wirtschaftsakteure,
 
-1.
+1. von denen er einen einfachen Druckbehälter bezogen hat und
 
-2.
+2. an die er einen einfachen Druckbehälter abgegeben hat.
 
 (2) Der Wirtschaftsakteur muss die Angaben nach Absatz 1 für die Dauer von zehn Jahren nach dem Bezug des einfachen Druckbehälters sowie nach der Abgabe des einfachen Druckbehälters vorlegen können.
 
@@ -226,9 +200,9 @@ Auf einen Einführer oder einen Händler sind die §§ 5 und 6 entsprechend anzu
 
 (3) Die Informationen der Marktüberwachungsbehörde gemäß Absatz 2 Satz 1 müssen alle verfügbaren Angaben enthalten, insbesondere die Daten für die Identifizierung des betreffenden einfachen Druckbehälters, dessen Herkunft, die Art der behaupteten Nichtkonformität und des Risikos sowie die Art und Dauer der ergriffenen vorläufigen Maßnahmen sowie die Argumente des betreffenden Wirtschaftsakteurs. Die Marktüberwachungsbehörde gibt insbesondere an, ob die Nichtkonformität darauf zurückzuführen ist, dass
 
-1.
+1. der einfache Druckbehälter die Anforderungen hinsichtlich der Gesundheit oder Sicherheit von Menschen oder des Schutzes von Haus- und Nutztieren oder Gütern nicht erfüllt oder
 
-2.
+2. die harmonisierten Normen, bei deren Einhaltung gemäß § 4 eine Konformitätsvermutung gilt, mangelhaft sind.
 
 (4) Wird die Marktüberwachungsbehörde von der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin darüber informiert, dass in einem anderen Mitgliedstaat der Europäischen Union eine vorläufige Maßnahme nach Artikel 35 Absatz 4 der Richtlinie 2014/29/EU getroffen wurde, trifft die Marktüberwachungsbehörde, sofern sie diese Maßnahme für gerechtfertigt hält, alle geeigneten vorläufigen Maßnahmen nach Absatz 1. Sie informiert die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin darüber sowie über alle weiteren ihr vorliegenden Informationen hinsichtlich der Nichtkonformität des einfachen Druckbehälters. Sofern die Marktüberwachungsbehörde die von dem anderen Mitgliedstaat getroffene vorläufige Maßnahme nicht für gerechtfertigt hält, informiert sie die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin innerhalb von zwei Monaten darüber und gibt ihre Einwände an. Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin leitet die Informationen gemäß den Sätzen 2 und 3 unverzüglich der Europäischen Kommission und den übrigen Mitgliedstaaten der Europäischen Union zu.
 
@@ -248,19 +222,19 @@ Auf einen Einführer oder einen Händler sind die §§ 5 und 6 entsprechend anzu
 
 (1) Unabhängig von den Korrekturmaßnahmen nach § 13 fordert die Marktüberwachungsbehörde den betreffenden Wirtschaftsakteur dazu auf, die folgenden Fälle der Nichtkonformität zu korrigieren:
 
-1.
+1. die CE-Kennzeichnung wurde nicht oder unter Verletzung von § 7 des Produktsicherheitsgesetzes angebracht,
 
-2.
+2. die Kennnummer der notifizierten Stelle wurde nicht oder unter Verletzung von § 7 Absatz 4 des Produktsicherheitsgesetzes angebracht,
 
-3.
+3. die Angaben nach Anhang III Nummer 1 der Richtlinie 2014/29/EU wurden nicht oder unter Verletzung von Anhang III Nummer 1 der Richtlinie 2014/29/EU angebracht,
 
-4.
+4. die EU-Konformitätserklärung wurde nicht oder nicht ordnungsgemäß ausgestellt,
 
-5.
+5. die technischen Unterlagen sind nicht verfügbar oder nicht vollständig,
 
-6.
+6. die Angaben des Herstellers gemäß § 6 Absatz 2 oder des Einführers gemäß § 8 Absatz 2 Satz 2 bis 4 oder Absatz 3 Satz 2 bis 4 fehlen, sind falsch oder unvollständig oder
 
-7.
+7. eine andere formale Anforderung nach den §§ 5, 6 oder § 8 ist nicht erfüllt.
 
 (2) Besteht die Nichtkonformität gemäß Absatz 1 weiter, trifft die Marktüberwachungsbehörde alle geeigneten Maßnahmen, um die Bereitstellung des einfachen Druckbehälters auf dem Markt einzuschränken, oder sie untersagt die Bereitstellung auf dem Markt oder sorgt dafür, dass der einfache Druckbehälter zurückgerufen oder zurückgenommen wird.
 
@@ -268,25 +242,25 @@ Auf einen Einführer oder einen Händler sind die §§ 5 und 6 entsprechend anzu
 
 ### § 17 — Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
+(1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 5 Absatz 3 Satz 1 oder Absatz 4 einen einfachen Druckbehälter in den Verkehr bringt,
 
-2.
+2. entgegen § 6 Absatz 1 nicht dafür sorgt, dass ein einfacher Druckbehälter eine dort genannte Nummer oder Kennzeichnung trägt,
 
-3.
+3. entgegen § 6 Absatz 2 Satz 1 oder § 8 Absatz 2 Satz 2 oder Absatz 3 Satz 2 dort genannte Daten nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig anbringt oder
 
-4.
+4. entgegen § 6 Absatz 3 nicht dafür sorgt, dass dem einfachen Druckbehälter die Betriebsanleitung und die Sicherheitsinformationen beigefügt sind, oder
 
-5.
+5. entgegen § 8 Absatz 2 Satz 1 oder Absatz 3 Satz 1 Nummer 2 oder Nummer 3 einen einfachen Druckbehälter in den Verkehr bringt.
 
-(2) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe b des Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
+(2) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe b des Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 5 Absatz 5, auch in Verbindung mit § 7 Absatz 3 Nummer 1, oder entgegen § 8 Absatz 6 eine technische Unterlage, eine EU-Konformitätserklärung oder eine dort genannte Kopie nicht oder nicht mindestens zehn Jahre bereithält,
 
-2.
+2. entgegen § 6 Absatz 5 Satz 1, auch in Verbindung mit § 7 Absatz 3 Nummer 2 oder § 8 Absatz 7, oder entgegen § 9 Absatz 6 Satz 1 eine Information oder eine Unterlage nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zur Verfügung stellt oder
 
-3.
+3. entgegen § 11 Absatz 1 einen Wirtschaftsakteur nicht oder nicht rechtzeitig nennt.
 
 ### § 18 — Straftaten
 

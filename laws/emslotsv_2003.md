@@ -60,25 +60,25 @@ Der Lotsdienst auf dem Seelotsrevier Ems obliegt den in der Lotsenbrüderschaft 
 
 (2) Die Anforderung muss enthalten
 
-1.
+1. den Namen, die Länge, die Breite und die Bruttoraumzahl des Schiffes,
 
-2.
+2. den tatsächlichen Tiefgang des Schiffes,
 
-3.
+3. die Position der Übernahme des Seelotsen,
 
-4.
+4. den Tag (zweistellig) und die Ortszeit (vierstellig) der voraussichtlichen Auskunft oder Abfahrt bei oder von der Position der Übernahme des Seelotsen,
 
-5.
+5. die Position, bis zu der eine Lotsenberatung erfolgen soll,
 
-6.
+6. bei einer Anforderung für die Lotsenversetzposition bei der Leuchttonne "GW/TG" die Art der Übernahmemöglichkeit durch Hubschrauber oder Lotsenversetzschiff.
 
-7.
+7. Bestimmungshafen,
 
-8.
+8. letzter Abgangshafen,
 
-9.
+9. den Freibord und die Höhe des Lotseneinstiegs über der Wasserlinie,
 
-10.
+10. die sichere minimale Steuergeschwindigkeit und die maximale Manövriergeschwindigkeit für die Revierfahrt.
 
 (3) Zeit und Empfänger der Lotsenanforderung bestimmen sich nach der Anlage 1 zu dieser Verordnung.
 
@@ -88,27 +88,27 @@ Der Lotsdienst auf dem Seelotsrevier Ems obliegt den in der Lotsenbrüderschaft 
 
 (1) Führer von Seeschiffen sind zur Annahme eines Seelotsen an Bord verpflichtet,
 
-1.
+1. auf den Fahrtstrecken binnenwärts der Lotsenversetzposition „Westerems“, mit Ausnahme der Emden-Reede, mit Seeschiffen mit einer Länge ab 90 m oder einer Breite ab 13 m oder einem Tiefgang ab 6 m,
 
-2.
+2. auf den Fahrtstrecken binnenwärts der Lotsenversetzposition „Westerems“ mit Seeschiffen mit einer Länger ab 90 m, einer Breite ab 13 m oder einem Tiefgang ab 6 m, die in die Ems einlaufen, um lediglich auf einer Reede Schutz zu suchen und nicht beabsichtigten, einen Hafen oder eine Umschlagreede oder -stelle in der Emsmündung anzulaufen,
 
-3.
+3. wenn das Versetzen der Lotsen auf der Schlechtwetterposition erfolgt, auslaufend mit Seeschiffen mit einer Länge ab 170 m oder einer Breite ab 28 m sowie Autotransporter und Ro-Ro-Schiffe mit einer Länge ab 140 m oder Breite ab 23 m auf den Fahrtstrecken von Schlechtwetterposition bis zur Lotsenversetzposition "Westerems".
 
 (2) Führer von Tankschiffen sind zur Annahme eines Lotsen an Bord verpflichtet,
 
-1.
+1. auf den Fahrstrecken binnenwärts der Lotsenversetzposition „Westerems“ mit Ausnahme der Emden-Reede, mit allen Tankschiffen,
 
-2.
+2. auf den Fahrtstrecken binnenwärts der Lotsenversetzposition „Westerems“ mit allen Tankschiffen, die in die Ems einlaufen, um auf einer Reede Schutz zu suchen und nicht beabsichtigen, einen Hafen oder eine Umschlagsreede oder -stelle in der Emsmündung anzulaufen,
 
-3.
+3. auf den Fahrtstrecken zwischen der Lotsenversetzposition bei der Leuchttonne "GW/TG" und der Lotsenversetzposition „Westerems“ mit Tankschiffen mit einer Länge ab 150 m oder einer Breite ab 23 m.
 
 (3) Hinsichtlich der Länge und Breite eines Schiffes kann nach Maßgabe des § 1 Abs. 8 interpoliert werden. Dabei dürfen folgende Obergrenzen nicht überschritten werden:
 
-1.
+1. für Schiffe nach Absatz 1 Nr. 1 und 2: Länge 95 m und Breite 13,50 m,
 
-2.
+2. für Schiffe nach Absatz 1 Nr. 3: Länge 145 m und Breite 23,50 m bei Autotransportern und Ro-Ro-Schiffen sowie Länge 175 m und Breite 28,50 m bei sonstigen Seeschiffen,
 
-3.
+3. für Schiffe nach Absatz 2 Nr. 3: Länge 155 m und Breite 23,50 m.
 
 ### § 7 — Ausnahmen von der Lotsenannahmepflicht
 
@@ -119,11 +119,11 @@ Seeschiffe
 
 (1) Von der Lotsenannahmepflicht befreit sind Führer von Seeschiffen mit einer Länge bis einschließlich 120 m, einer Breite bis einschließlich 19 m und einem Tiefgang bis einschließlich 6 m
 
-1.
+1. auf einer Fahrtstrecke, wenn sie diese zuvor mit diesem Schiff innerhalb der letzten 12 Monate mindestens sechsmal unter Lotsenberatung an Bord befahren haben und sie den Nachweis darüber durch eine Bescheinigung nach der Anlage 2 erbringen,
 
-2.
+2. sie über ausreichende deutsche Sprachkenntnisse verfügen und dieses durch eine Bescheinigung nach der Anlage 2 versichern und
 
-3.
+3. solange das Schiff mit einem einwandfrei arbeitenden Radargerät sowie mit einer einwandfrei arbeitenden UKW-Sprechfunkanlage mit den für die zu befahrende Strecke erforderlichen Kanälen ausgerüstet ist.
 
 (2) Für Schiffsführer, die eine Befreiung nach Absatz 1 bereits erfahren haben, reduzieren sich beim Erwerb weiterer Befreiungen nach Absatz 1 auf dieser Fahrtstrecke die Erfahrungsreisen nach Absatz 1 Nr. 1 auf drei Fahrten unter Lotsenberatung an Bord.
 
@@ -137,25 +137,25 @@ Seeschiffe
 
 (1) Führer von Seeschiffen können auf Antrag von der Schifffahrtspolizeibehörde von der Lotsenannahmepflicht befreit werden
 
-1.
+1. auf einer Fahrtstrecke zwischen der Lotsenversetzposition „Westerems“ und Emden, wenn sie diese zuvor mit diesem Schiff innerhalb der letzten zwölf Monate mindestens 24 mal unter Lotsenberatung an Bord befahren haben und sie den Nachweis darüber durch eine Bescheinigung nach der Anlage 2 erbringen,
 
-2.
+2. sie in einer Prüfung vor der Schifffahrtspolizeibehörde ausreichende Kenntnisse der Fahrwasserverhältnisse und der Verkehrsvorschriften nachweisen und
 
-3.
+3. sie über ausreichende deutsche Sprachkenntnisse verfügen und dieses durch eine Bescheinigung nach der Anlage 2 versichern.
 
 (2) Führer von Fahrzeugen, welche auf dem Seelotsrevier mit Arbeiten beim Ausbau oder der Unterhaltung der Bundeswasserstraßen beschäftigt sind, können auf Antrag von der Schifffahrtspolizeibehörde von der Lotsenannahmepflicht befreit werden
 
-1.
+1. auf einer Fahrtstrecke, wenn sie diese zuvor mit diesem Fahrzeug innerhalb der letzten zwölf Monate seit Beginn des Auftrags mindestens sechsmal unter Lotsenberatung befahren haben und sie den Nachweis darüber durch eine Bescheinigung nach der Anlage 2 erbringen,
 
-2.
+2. sie in einer Prüfung vor der Schifffahrtspolizeibehörde ausreichende Kenntnisse der Fahrwasserverhältnisse und der Verkehrsvorschriften nachweisen und
 
-3.
+3. sie über ausreichende deutsche Sprachkenntnisse verfügen und dieses durch eine Bescheinigung nach der Anlage 2 versichern.
 
-(3) Die Befreiung nach Absatz 1 oder Absatz 2 entbindet den Führer eines Seeschiffes nur von der Pflicht zur Annahme eines Bordlotsen, Die Tiefgangsbeschränkung nach Satz 1 Nr. 2 gilt nicht für Fahrzeuge nach Absatz 2.
+(3) Die Befreiung nach Absatz 1 oder Absatz 2 entbindet den Führer eines Seeschiffes nur von der Pflicht zur Annahme eines Bordlotsen,
 
-1.
+1. solange das Schiff mit einem einwandfrei arbeitenden Radargerät sowie mit einer einwandfrei arbeitenden UKW-Sprechfunkanlage mit den für die zu befahrende Strecke erforderlichen Kanälen ausgerüstet ist und
 
-2.
+2. solange der Tiefgang unter 6 m liegt.
 
 (4) Nach bestandener Prüfung wird dem Schiffsführer eine auf seinen und den Namen des Schiffes oder Fahrzeuges lautende Bescheinigung über die Befreiung von der Lotsenannahmepflicht ausgestellt und ausgehändigt, die an Bord mitzuführen ist. Die Befreiung gilt für die Dauer von 12 Monaten.
 
@@ -167,49 +167,31 @@ Seeschiffe
 
 (1) Die Schifffahrtspolizeibehörde kann auf Antrag von der Lotsenannahmepflicht befreien:
 
-1.
+1. Führer eines See- oder Binnentankschiffes als Einhüllenoder Doppelhüllenschiff mit einer Länge bis einschließlich 60 m und einer Breite bis einschließlich 10 m,
 
-2.
-
-a)
-
-aa)
-
-bb)
-
-b)
-
-aa)
-
-bb)
+2. Führer eines See- oder Binnentankschiffes mit einer Länge bis einschließlich 90 m, einer Breite bis einschließlich 13 m und einem Tiefgang von nicht mehr als 6,00 m, welches die Voraussetzungena)als Doppelhüllenschiffaa)nach Nummer 13 F Abs. 3 der Anlage 1 des Internationalen Übereinkommens vom 2. November 1973 zur Verhütung der Meeresverschmutzung durch Schiffe mit dem Protokoll vom 17. Februar 1978 zu dem Übereinkommen (BGBl. 1982 II S. 2) in der jeweils geltenden Fassung oderbb)im Sinne der Gefahrgutverordnung Binnenschifffahrt in der jeweils geltenden Fassung oderb)als Einhüllenschiff mit einem AIS-Gerät mit graphischer Zieldarstellungaa)nach der Richtlinie 96/98 EG des Rates vom 20. Dezember 1996 über Schiffsausrüstung (ABl. EG Nr. L 46, Anhang A.1/4.32) oderbb)nach der Verordnung (EG) Nr. 415/2007 der Kommission vom 13. März 2007 zu den technischen Spezifikationen für Schiffsverfolgungs- und -aufspürungssysteme nach Artikel 5 der Richtlinie 2005/44/EG des Europäischen Parlaments und des Rates über harmonisierte Binnenschifffahrtsinformationsdienste (RIS) auf den Binnenwasserstraßen der Gemeinschaft (ABl. EU Nr. L 105 S. 35) erfüllt. als Doppelhüllenschiffaa)nach Nummer 13 F Abs. 3 der Anlage 1 des Internationalen Übereinkommens vom 2. November 1973 zur Verhütung der Meeresverschmutzung durch Schiffe mit dem Protokoll vom 17. Februar 1978 zu dem Übereinkommen (BGBl. 1982 II S. 2) in der jeweils geltenden Fassung oderbb)im Sinne der Gefahrgutverordnung Binnenschifffahrt in der jeweils geltenden Fassung oder nach Nummer 13 F Abs. 3 der Anlage 1 des Internationalen Übereinkommens vom 2. November 1973 zur Verhütung der Meeresverschmutzung durch Schiffe mit dem Protokoll vom 17. Februar 1978 zu dem Übereinkommen (BGBl. 1982 II S. 2) in der jeweils geltenden Fassung oder im Sinne der Gefahrgutverordnung Binnenschifffahrt in der jeweils geltenden Fassung oder als Einhüllenschiff mit einem AIS-Gerät mit graphischer Zieldarstellungaa)nach der Richtlinie 96/98 EG des Rates vom 20. Dezember 1996 über Schiffsausrüstung (ABl. EG Nr. L 46, Anhang A.1/4.32) oderbb)nach der Verordnung (EG) Nr. 415/2007 der Kommission vom 13. März 2007 zu den technischen Spezifikationen für Schiffsverfolgungs- und -aufspürungssysteme nach Artikel 5 der Richtlinie 2005/44/EG des Europäischen Parlaments und des Rates über harmonisierte Binnenschifffahrtsinformationsdienste (RIS) auf den Binnenwasserstraßen der Gemeinschaft (ABl. EU Nr. L 105 S. 35) erfüllt. nach der Richtlinie 96/98 EG des Rates vom 20. Dezember 1996 über Schiffsausrüstung (ABl. EG Nr. L 46, Anhang A.1/4.32) oder nach der Verordnung (EG) Nr. 415/2007 der Kommission vom 13. März 2007 zu den technischen Spezifikationen für Schiffsverfolgungs- und -aufspürungssysteme nach Artikel 5 der Richtlinie 2005/44/EG des Europäischen Parlaments und des Rates über harmonisierte Binnenschifffahrtsinformationsdienste (RIS) auf den Binnenwasserstraßen der Gemeinschaft (ABl. EU Nr. L 105 S. 35) erfüllt.
 
 (2) Hinsichtlich der Länge und Breite eines Schiffes kann nach Maßgabe des §1 Abs. 8 interpoliert werden. Dabei gelten folgende Obergrenzen:
 
-1.
+1. für Schiffe nach Absatz 1 Nr. 1: Länge 67 m und Breite 10,70 m,
 
-2.
+2. für Schiffe nach Absatz 1 Nr. 2: Länge 95 m und Breite 13,50 m,
 
-3.
+3. für Schiffe nach Absatz 1 Nr. 2 Buchstabe a mit einem Tiefgang von nicht mehr als 3,80 m: Länge 100 m und Breite 14,00 m.
 
 (3) Die Befreiung kann erteilt werden, wenn der Schiffsführer
 
-1.
+1. eine Fahrtstrecke innerhalb der letzten zwölf Monate mita)einem See- oder Binnentankschiff nach Absatz 1 Nr. 1 sechsmalb)demselben Schiff nach Absatz 1 Nr. 2 Buchstabe a mindestens zwölfmal oderc)demselben Schiff nach Absatz 1 Nr. 2 Buchstabe b mindestens sechzehnmal einem See- oder Binnentankschiff nach Absatz 1 Nr. 1 sechsmal demselben Schiff nach Absatz 1 Nr. 2 Buchstabe a mindestens zwölfmal oder demselben Schiff nach Absatz 1 Nr. 2 Buchstabe b mindestens sechzehnmal unter Lotsenberatung an Bord befahren hat und er den Nachweis darüber durch eine Bescheinigung nach der Anlage 2 erbringt,
 
-a)
+2. in einer Prüfung vor der Schifffahrtspolizeibehörde ausreichende Kenntnisse der Fahrwasserverhältnisse, der Verkehrsvorschriften und des Notfallmanagements nachweist und
 
-b)
-
-c)
-
-2.
-
-3.
+3. über ausreichende deutsche Sprachkenntnisse verfügt und dieses durch eine Bescheinigung nach der Anlage 2 versichert.
 
 (4) Die erteilte Befreiung entbindet den Führer eines Tankschiffes nur von der Pflicht zur Annahme eines Bordlotsen, solange das Schiff mit einem einwandfrei arbeitenden Radargerät sowie mit einer einwandfrei arbeitenden UKW-Sprechfunkanlage mit den für die zu befahrende Strecke erforderlichen Kanälen ausgerüstet ist.
 
 (5) Nach bestandener Prüfung wird dem Schiffsführer über die Befreiung eine Bescheinigung ausgestellt und ausgehändigt, die an Bord mitzuführen ist. Die Befreiung gilt für die Dauer von 12 Monaten. Die Bescheinigung enthält den Namen des Schiffsführers sowie Angaben über die Gültigkeitsdauer und den Umfang der Befreiung.
 
-(6) Die Befreiung kann auf Antrag von der Schifffahrtspolizeibehörde um jeweils 12 Monate verlängert werden, wenn der Schiffsführer in den vorangegangenen 12 Monaten mit einem Schiff nach Absatz 1 Nummer 1 oder Absatz 1 Nummer 2 Buchstabe a die Fahrtstrecke mindestens sechsmal oder mit demselben Schiff nach Absatz 1 Nummer 2 Buchstabe b mindestens zwölfmal befahren hat.
+(6) Die Befreiung kann auf Antrag von der Schifffahrtspolizeibehörde um jeweils 12 Monate verlängert werden, wenn der Schiffsführer in den vorangegangenen 12 Monaten mit einem Schiff nach Absatz 1 Nummer 1 oder Absatz 1 Nummer 2 Buchstabe a die Fahrtstrecke mindestens sechsmal oder mit demselben Schiff nach Absatz 1 Nummer 2 Buchstabe b mindestens zwölfmal befahren hat.
 
 (7) Die Befreiung für den Führer eines See- oder Binnentankschiffes nach Absatz 1 kann auf Antrag bei der Schifffahrtspolizeibehörde auf ein anderes Schiff nach Absatz 1 nach drei Fahrten unter Lotsenberatung auf einem solchen Schiff übertragen werden. Ausgenommen von dieser Übertragungsmöglichkeit ist die Übertragung der Befreiung für Schiffe nach Absatz 1 Nr. 1 auf Schiffe nach Absatz 1 Nr. 2.
 
@@ -228,7 +210,7 @@ Die Schifffahrtspolizeibehörde kann den Führer eines Schiffes in besonderen Ei
 
 (1) Führer von Fahrzeugen, die nach den Vorschriften der §§ 8 bis 12 von der Lotsenannahmepflicht befreit sind, haben bei Sichtweiten unter 2.000 m innerhalb der einzelnen Radarbereiche zwischen Emden und der Lotsenversetzposition "Westerems" die durch Lotsen erteilte Landradarberatung in Anspruch zu nehmen.
 
-(2) Wenn das Versetzen der Lotsen auf der Schlechtwetterposition erfolgt, haben Führer von Fahrzeugen, die auf Grund des § 6 zur Annahme eines Bordlotsen verpflichtet sind, auf den Fahrtstrecken zwischen Emden und der Lotsenversetzposition „Westerems“ die durch Lotsen erteilte Landradarberatung in Anspruch zu nehmen.
+(2) Wenn das Versetzen der Lotsen auf der Schlechtwetterposition erfolgt, haben Führer von Fahrzeugen, die auf Grund des § 6 zur Annahme eines Bordlotsen verpflichtet sind, auf den Fahrtstrecken zwischen Emden und der Lotsenversetzposition „Westerems“ die durch Lotsen erteilte Landradarberatung in Anspruch zu nehmen.
 
 (3) Über die Vorschriften der Absätze 1 und 2 hinaus kann auf den Fahrtstrecken zwischen Emden und der Lotsenversetzposition "Westerems" die durch Lotsen erteilte Landradarberatung in Anspruch genommen werden, wenn die Leuchttonnen wegen Eisgangs eingezogen sind und aus diesem Grund eine Landradarberatung erforderlich ist.
 
@@ -247,17 +229,17 @@ Gefahr/Widerruf von Befreiungen
 
 (1) Nach seiner ersten Bestallung darf ein Seelotse während einer Übergangszeit nur Schiffe bestimmter Größe lotsen, und zwar
 
-1.
+1. im ersten halben Jahr Schiffe mit einer Länge von bis zu 120 Metern und einer Breite von bis zu 20 Metern,
 
-2.
+2. im zweiten halben Jahr Schiffe mit einer Länge bis zu 140 Metern und einer Breite von bis zu 24 Metern,
 
-3.
+3. im darauffolgenden Jahr Schiffe mit einer Länge bis zu 180 Metern und einer Breite bis zu 28 Metern und einem Tiefgang bis zu 9 Metern.
 
 (2) Hinsichtlich der Länge und Breite eines Schiffes kann nach Maßgabe des § 1 Abs. 8 interpoliert werden. Für die in Absatz 1 Nr. 1 bis 3 aufgeführten Parameter gelten folgende Obergrenzen:
 
-1.
+1. der jeweils aufgeführte Längenwert zuzüglich höchstens 5,00 m und
 
-2.
+2. der jeweils aufgeführte Breitenwert zuzüglich höchstens 0,50 m.
 
 ### § 16 — Distanzlotsungen
 
@@ -267,17 +249,17 @@ Die Seelotsen der Lotsenbrüderschaft Emden dürfen über ihr Seelotsrevier hina
 
 Ordnungswidrig im Sinne des § 47 Abs. 1 Nr. 7 des Seelotsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. als Schiffsführer entgegen § 5 Abs. 1 keinen Seelotsen anfordert,
 
-2.
+2. einer Vorschrift des § 5 Abs. 4 über die Unterstützung des Seelotsen beim Versetzen oder Ausholen während der Fahrt zuwiderhandelt,
 
-3.
+3. als Schiffsführer entgegen § 6 Abs. 1 und 2 keinen Lotsen annimmt,
 
-4.
+4. als Schiffsführer entgegen § 13 Abs. 1 und 2 keine Landradarberatung in Anspruch nimmt,
 
-5.
+5. der Vorschrift des § 13 Abs. 4 Satz 2 über die Umgehung der Lotsenannahmepflicht zuwiderhandelt oder
 
-6.
+6. als Seelotse entgegen § 15 oder § 16 lotst.
 
 ### § 18 — Übergangsregelungen
 
@@ -293,38 +275,6 @@ Diese Verordnung tritt am 1. März 2003 in Kraft.
 
 ### Anlage 1 — (zu § 5 Absatz 3)
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
 Bei der Anforderung muss die Anfahrtszeit des Seelotsen mit öffentlichen Verkehrsmitteln berücksichtigt werden. Bei Abfahren in der Zeit zwischen 21 Uhr und 7 Uhr muss die beabsichtigte Anforderung des Seelotsen bis 18 Uhr angezeigt werden.
 
 ### Anlage 2 — (zu § 8 Abs. 1, § 9 Abs. 1 und 2 und § 10 Abs. 3)
-
-Fundstelle des Originaltextes: BAnz. 2008, Nr. 64, 1512

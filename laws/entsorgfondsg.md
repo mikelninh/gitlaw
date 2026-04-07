@@ -78,11 +78,11 @@ Das Kuratorium erlässt eine Satzung. In der Satzung werden die Einzelheiten der
 
 (4) Keine Kreditaufnahme des Fonds im Sinne von Absatz 3 stellt die Aufnahme von Krediten durch Dritte wie Zielfonds, Beteiligungsgesellschaften oder Zweckgesellschaften, an welchen der Fonds unmittelbar oder mittelbar beteiligt ist, dar, sofern
 
-1.
+1. der Fonds für die Dritten, an denen er beteiligt ist, keine Haftung über die investierten Mittel hinaus übernommen hat,
 
-2.
+2. die aufgenommenen Kreditmittel nicht dem Fonds zufließen und
 
-3.
+3. der Fonds den Schuldendienst nicht übernimmt.
 
 ### § 9 — Anlage der Mittel
 
@@ -90,11 +90,11 @@ Das Kuratorium erlässt eine Satzung. In der Satzung werden die Einzelheiten der
 
 (2) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit die Anlagerichtlinien des Fonds durch allgemeine Verwaltungsvorschrift erlassen. Die Anlagerichtlinien sind im Bundesanzeiger bekannt zu geben. Über die Anlagerichtlinien ist sicherzustellen, dass der Fonds bei seinen Anlageentscheidungen die allgemeinen Anlagegrundsätze für die Vermögensanlage in § 124 Absatz 1 des Versicherungsaufsichtsgesetzes achtet. Darüber hinaus können in die Anlagerichtlinien Vorgaben aufgenommen werden für
 
-1.
+1. die Gewichtung der Anlageklassen,
 
-2.
+2. die regionale Ausrichtung neuer Anlageentscheidungen und
 
-3.
+3. die maximale Höhe von Einzelanlagen.
 
 (3) Die Anlagerichtlinien und die Anlagepolitik für den Fonds richten sich hinsichtlich der zulässigen Anlageklassen nach § 215 Absatz 2 des Versicherungsaufsichtsgesetzes.
 
@@ -122,13 +122,13 @@ Das Kuratorium erlässt eine Satzung. In der Satzung werden die Einzelheiten der
 
 (6) Der Fonds erstellt für jedes Kalenderjahr einen Wirtschaftsplan nach § 110 der Bundeshaushaltsordnung. Der Wirtschaftsplan dient der Planung der Deckung des Bedarfs an Finanzmitteln, die zur Erfüllung der Aufgaben des Fonds im jeweiligen Kalenderjahr voraussichtlich notwendig sind. Der Wirtschaftsplan bildet die verbindliche Grundlage für die Wirtschaftsführung des Fonds. Der Wirtschaftsplan ermächtigt den Fonds entsprechend der Ansätze Verpflichtungen einzugehen und Ausgaben zu leisten. Durch den Wirtschaftsplan werden Ansprüche oder Verbindlichkeiten weder begründet noch aufgehoben.
 
-(7) Der Wirtschaftsplan umfasst regelmäßig Als Teil des Wirtschaftsplans sind ein Finanzplan und ein Personalplan sowie eine nach handelsrechtlichen Grundsätzen aufzustellende Plan-Gewinn-und-Verlust-Rechnung zu erstellen. Der Entwurf des Wirtschaftsplans ist insbesondere um eine auf der Grundlage der bisherigen und auf der Grundlage der zukünftigen Kosten- und Zinsentwicklung erstellte Kalkulation über die Angemessenheit der Finanzausstattung des Fonds zu ergänzen. Einzelheiten können in der Satzung geregelt werden. Auf Basis des Wirtschaftsplans ist eine Überleitungsrechnung auf einen kameralen Haushaltsplan, gegliedert nach dem Gruppierungsplan des Bundes, zu erstellen.
+(7) Der Wirtschaftsplan umfasst regelmäßig
 
-1.
+1. eine Kurzfristplanung für das jeweils folgende Kalenderjahr,
 
-2.
+2. eine Mittelfristplanung für die jeweils folgenden fünf Kalenderjahre sowie
 
-3.
+3. eine Langfristplanung für die jeweils folgenden zehn Kalenderjahre.
 
 (8) Für den gesamten Anlage- und Finanzierungszeitraum sind Szenarien zu erstellen, die alle drei Jahre zu aktualisieren sind.
 
@@ -148,17 +148,17 @@ Das Kuratorium erlässt eine Satzung. In der Satzung werden die Einzelheiten der
 
 (1) Der Fonds darf in Bezug auf den Vermögensanlagebestand
 
-1.
+1. Verträge zum Nachteil des Fonds nur in besonders begründeten Ausnahmefällen aufheben oder ändern,
 
-2.
+2. einen Vergleich nur abschließen, wenn dies für den Fonds zweckmäßig und wirtschaftlich ist.
 
 (2) Der Fonds darf in Bezug auf den Vermögensanlagebestand Ansprüche nur
 
-1.
+1. stunden, wenn die sofortige Einziehung unwirtschaftlich wäre und der Anspruch durch die Stundung nicht gefährdet wird. Die Stundung soll gegen angemessene Verzinsung und in der Regel nur gegen Sicherheitsleistung gewährt werden;
 
-2.
+2. niederschlagen, wenn feststeht, dass die Einziehung keinen Erfolg haben wird oder wenn die Kosten der Einziehung außer Verhältnis zur Höhe des Anspruchs stehen;
 
-3.
+3. erlassen, wenn die Einziehung nach Lage des Einzelfalls unwirtschaftlich oder unzweckmäßig wäre. Das Gleiche gilt für die Freigabe von Sicherheiten.
 
 (3) Maßnahmen nach den Absätzen 1 und 2 bedürfen der vorherigen Zustimmung des Beauftragten für den Haushalt und eines Vorstandsbeschlusses sowie bei Überschreitung in der Satzung festzulegender Gegenstandswerte der Zustimmung des Kuratoriums, soweit dieses nicht auf seine Mitwirkungsbefugnis verzichtet. Näheres regelt die Satzung.
 

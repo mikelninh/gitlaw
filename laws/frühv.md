@@ -17,13 +17,13 @@ Die Abgrenzung der durch interdisziplinäre Frühförderstellen und sozialpädia
 
 ### § 2 — Früherkennung und Frühförderung
 
-Leistungen nach § 1 umfassen Die erforderlichen Leistungen werden unter Inanspruchnahme von fachlich geeigneten interdisziplinären Frühförderstellen, von nach Landesrecht zugelassenen Einrichtungen mit vergleichbarem interdisziplinärem Förder-, Behandlungs- und Beratungsspektrum und von sozialpädiatrischen Zentren unter Einbeziehung des sozialen Umfelds der Kinder ausgeführt.
+Leistungen nach § 1 umfassen
 
-1.
+1. Leistungen zur medizinischen Rehabilitation (§ 5),
 
-2.
+2. heilpädagogische Leistungen (§ 6) und
 
-3.
+3. weitere Leistungen (§ 6a).
 
 ### § 3 — Interdisziplinäre Frühförderstellen
 
@@ -35,31 +35,13 @@ Sozialpädiatrische Zentren im Sinne dieser Verordnung sind die nach § 119 Abs.
 
 ### § 5 — Leistungen zur medizinischen Rehabilitation
 
-(1) Die im Rahmen von Leistungen zur medizinischen Rehabilitation nach § 46 des Neunten Buches Sozialgesetzbuch zur Früherkennung und Frühförderung zu erbringenden medizinischen Leistungen umfassen insbesondere Die Erbringung von medizinisch-therapeutischen Leistungen im Rahmen der Komplexleistung Frühförderung richtet sich grundsätzlich nicht nach den Vorgaben der Heilmittelrichtlinien des Gemeinsamen Bundesausschusses. Medizinisch-therapeutische Leistungen werden im Rahmen der Komplexleistung Frühförderung nach Maßgabe und auf der Grundlage des Förder- und Behandlungsplans erbracht.(2) Die Leistungen nach Absatz 1 umfassen auch die Beratung der Erziehungsberechtigten, insbesondere (3) Weiter gehende Vereinbarungen auf Landesebene bleiben unberührt.
+(1) Die im Rahmen von Leistungen zur medizinischen Rehabilitation nach § 46 des Neunten Buches Sozialgesetzbuch zur Früherkennung und Frühförderung zu erbringenden medizinischen Leistungen umfassen insbesondere
 
-1.
+1. ärztliche Behandlung einschließlich der zur Früherkennung und Diagnostik erforderlichen ärztlichen Tätigkeiten,
 
-2.
+2. nichtärztliche sozialpädiatrische Leistungen, psychologische, heilpädagogische und psychosoziale Leistungen, soweit und solange sie unter ärztlicher Verantwortung erbracht werden und erforderlich sind, um eine drohende oder bereits eingetretene Behinderung zum frühestmöglichen Zeitpunkt zu erkennen und einen individuellen Förder- und Behandlungsplan aufzustellen,
 
-3.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
+3. medizinisch-therapeutische Leistungen, insbesondere physikalische Therapie, Physiotherapie, Stimm-, Sprech- und Sprachtherapie sowie Ergotherapie, soweit sie auf Grund des Förder- und Behandlungsplans nach § 7 erforderlich sind.
 
 ### § 6 — Heilpädagogische Leistungen
 
@@ -67,23 +49,15 @@ Heilpädagogische Leistungen nach § 79 des Neunten Buches Sozialgesetzbuch umfa
 
 ### § 6a — Weitere Leistungen
 
-Weitere Leistungen der Komplexleistung Frühförderung sind insbesondere Für die mobile Form der Frühförderung kann es sowohl fachliche als auch organisatorische Gründe geben, etwa unzumutbare Anfahrtswege in ländlichen Gegenden. Eine medizinische Indikation ist somit nicht die notwendige Voraussetzung für die mobile Erbringung der Komplexleistung Frühförderung.
+Weitere Leistungen der Komplexleistung Frühförderung sind insbesondere
 
-1.
+1. die Beratung, Unterstützung und Begleitung der Erziehungsberechtigten als medizinisch-therapeutische Leistung nach § 5 Absatz 2,
 
-2.
+2. offene, niedrigschwellige Beratungsangebote für Eltern, die ein Entwicklungsrisiko bei ihrem Kind vermuten. Dieses Beratungsangebot soll vor der Einleitung der Eingangsdiagnostik in Anspruch genommen werden können,
 
-3.
+3. Leistungen zur Sicherstellung der Interdisziplinarität; diese sind insbesondere: a)Durchführung regelmäßiger interdisziplinärer Team- und Fallbesprechungen, auch der im Wege der Kooperation eingebundenen Mitarbeiter,b)die Dokumentation von Daten und Befunden,c)die Abstimmung und der Austausch mit anderen, das Kind betreuenden Institutionen,d)Fortbildung und Supervision, Durchführung regelmäßiger interdisziplinärer Team- und Fallbesprechungen, auch der im Wege der Kooperation eingebundenen Mitarbeiter, die Dokumentation von Daten und Befunden, die Abstimmung und der Austausch mit anderen, das Kind betreuenden Institutionen, Fortbildung und Supervision,
 
-a)
-
-b)
-
-c)
-
-d)
-
-4.
+4. mobil aufsuchende Hilfen für die Erbringung heilpädagogischer und medizinisch-therapeutischer Leistungen außerhalb von interdisziplinären Frühförderstellen, nach Landesrecht zugelassenen Einrichtungen mit vergleichbarem interdisziplinärem Förder-, Behandlungs- und Beratungsspektrum und sozialpädiatrischen Zentren.
 
 ### § 7 — Förder- und Behandlungsplan
 

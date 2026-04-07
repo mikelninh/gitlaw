@@ -22,21 +22,21 @@ Auf Grund des § 48 Abs. 3 des Telekommunikationsgesetzes vom 25. Juli 1996 (BGB
 
 (1) Von der Zahlung der Beiträge sind befreit:
 
-1.
+1. die Bundesrepublik Deutschland und die bundesunmittelbaren juristischen Personen des öffentlichen Rechts, deren Ausgaben ganz oder teilweise auf Grund gesetzlicher Verpflichtungen aus dem Haushalt des Bundes getragen werden,
 
-2.
+2. die Länder und die juristischen Personen des öffentlichen Rechts, die nach den Haushaltsplänen eines Landes für Rechnung eines Landes verwaltet werden, und
 
-3.
+3. die Gemeinden und Gemeindeverbände, sofern die zugeteilten Frequenzen nicht von ihren wirtschaftlichen Unternehmen genutzt werden.
 
-(2) Bei Zuteilungen nach § 47 des Telekommunikationsgesetzes an kann auf Antrag Beitragsbefreiung gewährt werden. Sie darf nur für solche zugeteilten Frequenzen gewährt werden, die die Begünstigten überwiegend für Aufgaben nutzen, die ihnen auf Grund eines Gesetzes oder durch öffentlich-rechtliche Vereinbarungen übertragen worden sind.
+(2) Bei Zuteilungen nach § 47 des Telekommunikationsgesetzes an
 
-1.
+1. private Organisationen, die im Zivilschutz oder im Katastrophenschutz nach Landesrecht mitwirken,
 
-2.
+2. private Organisationen, die die Aufgabe der Notfallrettung im öffentlichen Auftrag wahrnehmen,
 
-3.
+3. Werksfeuerwehren, die im öffentlichen Auftrag auch außerhalb ihrer Liegenschaften eingesetzt werden können,
 
-4.
+4. private Organisationen, die die Aufgabe Wasserrettung oder Seenotrettung im öffentlichen Auftrag erfüllen,
 
 (3) Eine Beitragsbefreiung tritt nicht ein, soweit die in Absatz 1 Genannten berechtigt sind, die Beiträge Dritten aufzuerlegen.
 
@@ -95,14 +95,8 @@ Diese Verordnung tritt mit Wirkung vom 1. Januar 2000 in Kraft.
 
 ### Anlage
 
-(Fundstelle: BGBl. I 2000, 1706 - 1708)
-
-*)
-
-++)
+*) Am Jahresende 1999 kein Bestand, daher kein Betrag.
 
 ### Anlage 2
 
-(Fundstelle: BGBl. I 2002, 2226 - 2228)
-
-*)
+*) Theoretische Versorgungsfläche: Die Theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des Frequenznutzungsbeitrags. Sie basiert für alle Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU- R P.370 sowie den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992).Auf der Basis dieser Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10 Grad-Schritt eine Entfernung R vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jede der 36 Richtungen ein Flächenelement

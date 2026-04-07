@@ -14,11 +14,11 @@ Es wird ein nationaler Fonds „Aufbauhilfe“ als Sondervermögen des Bundes er
 
 (1) Der Fonds dient der Leistung von Hilfen in den vom Hochwasser im Mai und Juni 2013 betroffenen Ländern zur Beseitigung der Hochwasserschäden und zum Wiederaufbau der zerstörten Infrastruktur.
 
-(2) Aus den Mitteln des Fonds werden als Aufbauhilfen geleistet, soweit die Schäden nicht durch Versicherungen oder sonstige Dritte abgedeckt sind: Aus den Mitteln des Fonds werden Soforthilfen, über die im Jahr 2013 Verwaltungsvereinbarungen zwischen dem Bund und den Ländern geschlossen wurden, erstattet.
+(2) Aus den Mitteln des Fonds werden als Aufbauhilfen geleistet, soweit die Schäden nicht durch Versicherungen oder sonstige Dritte abgedeckt sind:
 
-1.
+1. Maßnahmen für geschädigte Privathaushalte und Unternehmen sowie für andere Einrichtungen,
 
-2.
+2. Maßnahmen zur Wiederherstellung der Infrastruktur der betroffenen Länder und Gemeinden und weiterer öffentlich-rechtlicher Körperschaften sowie des Bundes einschließlich der Gebäude und Einrichtungen von Religionsgemeinschaften, soweit sie Körperschaften des öffentlichen Rechts sind.
 
 (3) Bei der Verteilung der Mittel auf Bund, Länder und Gemeinden sowie bei der Gewährung der Hilfen sind die unterschiedlichen Schadensbelastungen der Betroffenen zu berücksichtigen.
 

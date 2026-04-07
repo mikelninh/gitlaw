@@ -14,7 +14,9 @@ Auf Grund des Artikels 5 Buchstabe a) des Gesetzes vom 15. September 1965 (Bunde
 
 ### § 1
 
-Als Verbindungsstelle für die Familienbeihilfen nach Artikel 2 Abs. (1) Nr. 1 Buchstabe g) der Vereinbarung wird die -Hauptstelle der Bundesanstalt für Arbeitsvermittlung und Arbeitslosenversicherung (Kindergeldkasse), Nürnberg,und als zuständiger Träger für die Familienbeihilfen nach Artikel 4 Abs. (1) Nr. 7 der Vereinbarung wird die-Bundesanstalt für Arbeitsvermittlung und Arbeitslosenversicherung, Nürnberg, bestimmt.
+Als Verbindungsstelle für die Familienbeihilfen nach Artikel 2 Abs. (1) Nr. 1 Buchstabe g) der Vereinbarung wird die
+
+- Hauptstelle der Bundesanstalt für Arbeitsvermittlung und Arbeitslosenversicherung (Kindergeldkasse), Nürnberg, und als zuständiger Träger für die Familienbeihilfen nach Artikel 4 Abs. (1) Nr. 7 der Vereinbarung wird die-Bundesanstalt für Arbeitsvermittlung und Arbeitslosenversicherung, Nürnberg, Bundesanstalt für Arbeitsvermittlung und Arbeitslosenversicherung, Nürnberg, bestimmt.
 
 > § 1 Kursivdruck: Vgl. § 243 AFG
 
@@ -24,8 +26,10 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar
 
 ### § 3
 
-(1) Diese Verordnung tritt rückwirkend zum 1. März 1967 in Kraft.(2) Diese Verordnung tritt an dem Tag außer Kraft, an dem die Vereinbarung zur Durchführung des Abkommens außer Kraft tritt.(3)
+(1) Diese Verordnung tritt rückwirkend zum 1. März 1967 in Kraft.
+
+(2) Diese Verordnung tritt an dem Tag außer Kraft, an dem die Vereinbarung zur Durchführung des Abkommens außer Kraft tritt.
+
+(3)
 
 ### Schlußformel
-
-Der Bundesminister für Arbeit und Sozialordnung

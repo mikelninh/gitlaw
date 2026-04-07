@@ -8,7 +8,7 @@
 
 ### Eingangsformel
 
-Auf Grund des Artikels 40 des Grundgesetzes in Verbindung mit § 7 Absatz 2 der Geschäftsordnung des Deutschen Bundestages habe ich im Einvernehmen mit dem Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung die Hausordnung vom 7. August 2002 in der Fassung vom 27. April 2023 (BGBl. 2023 I Nr. 122) geändert und mache die geänderte Hausordnung in der Fassung vom 24. Februar 2025 bekannt:
+Auf Grund des Artikels 40 des Grundgesetzes in Verbindung mit § 7 Absatz 2 der Geschäftsordnung des Deutschen Bundestages habe ich im Einvernehmen mit dem Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung die Hausordnung vom 7. August 2002 in der Fassung vom 27. April 2023 (BGBl. 2023 I Nr. 122) geändert und mache die geänderte Hausordnung in der Fassung vom 24. Februar 2025 bekannt:
 
 ### § 1 — Geltungsbereich
 
@@ -18,61 +18,35 @@ Die Gebäude des Deutschen Bundestages (sämtliche der Verwaltung des Deutschen 
 
 (1) Zutritt zu den nicht für die Öffentlichkeit zugänglichen Gebäuden des Deutschen Bundestages haben
 
-1.
+1. a)die Mitglieder des Deutschen Bundestages,b)die Mitglieder der Bundesregierung und des Bundesrates sowie deren Beauftragte,c)die Bevollmächtigten der Länder beim Bund als Mitglieder des Ständigen Beirates des Bundesrates,d)die oder der Wehrbeauftragte des Deutschen Bundestages, die Mitglieder des Deutschen Bundestages, die Mitglieder der Bundesregierung und des Bundesrates sowie deren Beauftragte, die Bevollmächtigten der Länder beim Bund als Mitglieder des Ständigen Beirates des Bundesrates, die oder der Wehrbeauftragte des Deutschen Bundestages,
 
-a)
+2. Inhaberinnen und Inhaber eines nach Absatz 2 vom Deutschen Bundestag ausgegebenen Bundestagsausweises,
 
-b)
-
-c)
-
-d)
-
-2.
-
-3.
+3. bei berechtigtem Anlass Inhaberinnen und Inhaber eines nach den Absätzen 3 bis 6 vom Deutschen Bundestag ausgegebenen Ausweises sowie Personen nach Aufnahme in eine liegenschaftsbezogene Zutrittsliste.
 
 (2) Einen personalisierten Bundestagsausweis erhalten
 
-1.
+1. auf Grund ihres Mitgliedsausweises a)die deutschen Mitglieder des Europäischen Parlaments,b)sachverständige Mitglieder der Enquete-Kommissionen, die deutschen Mitglieder des Europäischen Parlaments, sachverständige Mitglieder der Enquete-Kommissionen,
 
-a)
+2. ehemalige Mitglieder des Deutschen Bundestages,
 
-b)
+3. auf Grund ihres Beschäftigungsverhältnisses a)die Bediensteten der Verwaltung des Deutschen Bundestages (auch in Form eines elektronischen Dienstausweises),b)die Mitarbeiterinnen und Mitarbeiter der Fraktionen,c)die mit einem Arbeitsvertrag beschäftigten Mitarbeiterinnen und Mitarbeiter der Mitglieder des Deutschen Bundestages,d)die in den Büros im Deutschen Bundestag beschäftigten Mitarbeiterinnen und Mitarbeiter der deutschen Mitglieder des Europäischen Parlaments, die Bediensteten der Verwaltung des Deutschen Bundestages (auch in Form eines elektronischen Dienstausweises), die Mitarbeiterinnen und Mitarbeiter der Fraktionen, die mit einem Arbeitsvertrag beschäftigten Mitarbeiterinnen und Mitarbeiter der Mitglieder des Deutschen Bundestages, die in den Büros im Deutschen Bundestag beschäftigten Mitarbeiterinnen und Mitarbeiter der deutschen Mitglieder des Europäischen Parlaments,
 
-2.
+4. Praktikantinnen und Praktikanten der Verwaltung des Deutschen Bundestages, der Fraktionen oder der Mitglieder des Deutschen Bundestages,
 
-3.
+5. die Mitglieder der G 10-Kommission,
 
-a)
+6. die oder der Ständige Bevollmächtigte des Parlamentarischen Kontrollgremiums,
 
-b)
+7. die oder der Bundesbeauftragte für die Opfer der SED-Diktatur beim Deutschen Bundestag,
 
-c)
+8. die oder der Polizeibeauftragte des Bundes beim Deutschen Bundestag.
 
-d)
+(3) Einen personalisierten Bundestagsausweis können ferner erhalten
 
-4.
+1. Inhaberinnen und Inhaber eines a)Dienstausweises einer obersten Bundes- oder Landesbehörde,b)Protokollausweises (Kennzeichnung „D“) des Auswärtigen Amts,c)Dienstausweises des Sekretariats des Europäischen Parlaments oder der EU-Kommission,wenn das Erfordernis nicht nur gelegentlicher Besuche besteht, Dienstausweises einer obersten Bundes- oder Landesbehörde, Protokollausweises (Kennzeichnung „D“) des Auswärtigen Amts, Dienstausweises des Sekretariats des Europäischen Parlaments oder der EU-Kommission,
 
-5.
-
-6.
-
-7.
-
-8.
-
-(3) Einen personalisierten Bundestagsausweis können ferner erhalten Für gelegentliche Besuche wird jeweils an der Pforte ein Tagesausweis zum Zutritt am jeweiligen Tage ausgegeben.
-
-1.
-
-a)
-
-b)
-
-c)
-
-2.
+2. Mitarbeiterinnen und Mitarbeiter der Medien in Form eines Bundestagspresseausweises (Kurzzeit- oder Jahresakkreditierung durch das Referat Presse und Medien).
 
 (4) Andere Personen können für einen nicht nur gelegentlich erforderlichen Zutritt aus berechtigtem Anlass einen personalisierten Bundestagsausweis mit einer Gültigkeitsdauer von regelmäßig maximal einem Jahr im Rahmen der geltenden Vorschriften erhalten. Für gelegentliche Besuche wird gegen Hinterlegung eines amtlichen Ausweises jeweils an der Pforte ein Tagesausweis zum Zutritt am jeweiligen Tage ausgegeben.
 
@@ -80,9 +54,9 @@ c)
 
 (6) Besucherinnen und Besucher sowie Gäste sind bei berechtigtem Anlass zutrittsberechtigt auf Grund
 
-1.
+1. einer Einlasskarte,
 
-2.
+2. eines Gastausweises, der an der Pforte ausgegeben wird und zu einem einmaligen befristeten Zutritt berechtigt.
 
 (6a) Die Ausstellung eines personalisierten Bundestagsausweises sowie die Aufnahme auf die Zutrittsliste erfolgen auf Antrag. Bei antragstellenden Personen im Sinne des Absatzes 2 Nummer 1 Buchstabe b, Nummer 2, 3 und 4, des Absatzes 3 Satz 1 Nummer 1 Buchstabe c und Nummer 2 (Jahresakkreditierungen) sowie des Absatzes 4 Satz 1 wird eine Zuverlässigkeitsüberprüfung durchgeführt. Die Zuverlässigkeitsüberprüfung verfolgt den Zweck, Risiken für die Sicherheit der Mitglieder des Deutschen Bundestages sowie aller im Deutschen Bundestag Anwesenden abzuwehren und die Funktions- und Arbeitsfähigkeit des Deutschen Bundestages und seiner Gremien aufrechtzuerhalten. Ein Risiko in diesem Sinne liegt vor, wenn tatsächliche Anhaltspunkte erwarten lassen, dass die Funktions- und Arbeitsfähigkeit des Deutschen Bundestages oder die Sicherheit beeinträchtigt wird. Die Zuverlässigkeitsüberprüfung erfolgt mit Einwilligung der Betroffenen insbesondere durch Einsichtnahme in das Vorgangsbearbeitungssystem der Polizei beim Deutschen Bundestag, in das Informationssystem der Polizei und in das Bundeszentralregister. Der Antrag auf Ausstellung eines personalisierten Bundestagsausweises oder Aufnahme auf die Zutrittsliste kann abgelehnt werden, wenn begründete Zweifel an der Zuverlässigkeit der antragstellenden Person bestehen oder wenn die Einwilligung in die Zuverlässigkeitsüberprüfung oder in eine gegebenenfalls im Einzelfall notwendige erweiterte Zuverlässigkeitsüberprüfung nicht erteilt wird.
 
@@ -94,15 +68,15 @@ c)
 
 (7) Die Gültigkeitsdauer ist auf dem Ausweis deutlich sichtbar vermerkt:
 
-1.
+1. Die Gültigkeitsdauer beträgt in der Regel die Zeit bis zum Ende des laufenden Kalenderjahres.
 
-2.
+2. Die Ausweise gemäß Absatz 2 Nummer 1 Buchstabe a gelten für die Dauer des Mandats, die Ausweise gemäß Absatz 2 Nummer 3 Buchstabe b bis d gelten für die Dauer des Beschäftigungsverhältnisses, längstens jedoch bis zum Ende der Wahlperiode des Deutschen Bundestages beziehungsweise des Europäischen Parlaments.
 
-3.
+3. Die Ausweise gemäß Absatz 2 Nummer 3 Buchstabe a gelten in der Regel für die Dauer des Beschäftigungsverhältnisses, längstens bis zum Ende der Gültigkeit des Dienstausweises.
 
-4.
+4. Die Ausweise nach Absatz 3 Satz 1 Nummer 2 werden mit einer Gültigkeit als Kurzzeit- oder Jahresausweise ausgegeben.
 
-5.
+5. Die Ausweise verlieren ihre Gültigkeit mit dem Tag, an dem der Antragsgrund wegfällt und sind mit Wegfall der Gültigkeit an die ausgebende Stelle zurückzugeben.
 
 (8) Alle den Zutritt berechtigenden Ausweise sind in den Gebäuden des Deutschen Bundestages grundsätzlich für jeden erkennbar offen zu tragen.
 
@@ -130,27 +104,19 @@ c)
 
 (1) Zutritt zum Plenarsaal des Deutschen Bundestages haben während der Sitzungen
 
-1.
+1. a)die Mitglieder des Bundestages,b)die Mitglieder der Bundesregierung, des Bundesrates sowie deren Beauftragte,c)die Bevollmächtigten der Länder beim Bund als Mitglieder des Ständigen Beirates des Bundesrates,d)die oder der Wehrbeauftragte des Deutschen Bundestages, die Mitglieder des Bundestages, die Mitglieder der Bundesregierung, des Bundesrates sowie deren Beauftragte, die Bevollmächtigten der Länder beim Bund als Mitglieder des Ständigen Beirates des Bundesrates, die oder der Wehrbeauftragte des Deutschen Bundestages,
 
-a)
+2. die zum Dienst im Plenarsaal eingeteilten Beschäftigten der Verwaltung des Deutschen Bundestages,
 
-b)
-
-c)
-
-d)
-
-2.
-
-3.
+3. auf Grund einer Einlasskarte zur Regierungs- oder Bundesratsbank Mitarbeiterinnen und Mitarbeiter der Regierungs- und Bundesratsmitglieder.
 
 (2) Soweit auf den Tribünen Bereiche für bestimmte Personen oder Gruppen vorgesehen sind (Presse, Diplomatinnen und Diplomaten, ausländische Delegationen und Gäste des Deutschen Bundestages), stehen sie in erster Linie diesen Personen bzw. den Angehörigen dieser Gruppen zur Verfügung. Darüber hinaus erhalten bevorzugt Zutritt:
 
-1.
+1. Mitglieder und ehemalige Mitglieder des Deutschen Bundestages, des Europäischen Parlaments und der Länderparlamente,
 
-2.
+2. Inhaberinnen und Inhaber einer Einlasskarte, die von den Fraktionen oder dem Besucherdienst der Verwaltung des Deutschen Bundestages ausgegeben wird,
 
-3.
+3. Besuchergruppen und Einzelbesucher, die vom Besucherdienst eingeladen oder zugelassen worden sind.
 
 (3) In sitzungsfreier Zeit kann der Plenarsaal unter sachkundiger Führung von den Besuchertribünen aus besichtigt werden. Kindern unter zehn Jahren ist die Teilnahme nur in Begleitung Erwachsener gestattet.
 

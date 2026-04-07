@@ -33,11 +33,11 @@ Die Entschädigung für fluglärmbedingte Beeinträchtigungen des Außenwohnbere
 
 (1) Die Intensität der Fluglärmbelastung im Sinne dieser Verordnung bestimmt sich nach der Lage des betroffenen Grundstücks in der Tag-Schutzzone 1. Innerhalb der Tag-Schutzzone 1 werden zwei Isophonen-Bänder festgelegt.
 
-(2) Das Isophonen-Band 1 umfasst Das Isophonen-Band 2 umfasst jeweils den restlichen Bereich der Tag-Schutzzone 1.
+(2) Das Isophonen-Band 1 umfasst
 
-1.
+1. bei zivilen Flugplätzen im Sinne des § 2 Absatz 2 Satz 2 Nummer 1 des Gesetzes zum Schutz gegen Fluglärm den Bereich der Tag-Schutzzone 1, in dem der fluglärmbedingte äquivalente Dauerschallpegel für den Tag (LAeq Tag) den Wert von 65 Dezibel (A) überschreitet,
 
-2.
+2. bei militärischen Flugplätzen im Sinne des § 2 Absatz 2 Satz 2 Nummer 3 des genannten Gesetzes den Bereich der Tag-Schutzzone 1, in dem der fluglärmbedingte äquivalente Dauerschallpegel für den Tag (LAeq Tag) einen Wert von 68 Dezibel (A) überschreitet.
 
 (3) Die Isophonen-Bänder 1 und 2 werden nach § 4 der Verordnung über die Datenerfassung und das Berechnungsverfahren für die Festsetzung von Lärmschutzbereichen ermittelt und in Listen und Karten gemäß § 4 Absatz 4 der genannten Verordnung dargestellt. Grundstücke, die in zwei Isophonen-Bändern liegen, werden dem Isophonen-Band 1 zugeordnet.
 
@@ -45,27 +45,27 @@ Die Entschädigung für fluglärmbedingte Beeinträchtigungen des Außenwohnbere
 
 (1) Bei einem Einfamilienhaus mit Außenwohnbereich beträgt die Höhe der Entschädigung pauschal:
 
-1.
+1. für ein im Isophonen-Band 1 gelegenes Grundstück:5 000 Euro,
 
-2.
+2. für ein im Isophonen-Band 2 gelegenes Grundstück:3 700 Euro.
 
 (2) Bei einem Zweifamilienhaus mit Außenwohnbereich beträgt die Höhe der Entschädigung pauschal:
 
-1.
+1. für ein im Isophonen-Band 1 gelegenes Grundstück:6 000 Euro,
 
-2.
+2. für ein im Isophonen-Band 2 gelegenes Grundstück:4 440 Euro.
 
 (3) Bei einem Mehrfamilienhaus mit Außenwohnbereich erhöht sich die Entschädigung pauschal gegenüber Absatz 2 mit jeder weiteren abgeschlossenen Wohnung
 
-1.
+1. für ein im Isophonen-Band 1 gelegenes Grundstück um:2 000 Euro,
 
-2.
+2. für ein im Isophonen-Band 2 gelegenes Grundstück um:1 480 Euro.
 
 (4) Bei einer Eigentumswohnung mit Außenwohnbereich beträgt die Höhe der Entschädigung pauschal:
 
-1.
+1. für ein im Isophonen-Band 1 gelegenes Grundstück:3 000 Euro,
 
-2.
+2. für ein im Isophonen-Band 2 gelegenes Grundstück:2 220 Euro.
 
 ### § 6 — Erhöhte Entschädigung aufgrund des Verkehrswertes
 
@@ -77,19 +77,11 @@ Die Entschädigung für fluglärmbedingte Beeinträchtigungen des Außenwohnbere
 
 ### § 7 — Berücksichtigung der Art der baulichen Nutzung sowie der Vorbelastung
 
-Die Entschädigung nach den §§ 5 und 6 wird um die Hälfte gemindert, sofern Grundstücke Die Art der in Satz 1 bezeichneten Gebiete ergibt sich aus den Festlegungen in den Bebauungsplänen. Gebiete, für die keine Festsetzungen bestehen, sind entsprechend ihrer Schutzbedürftigkeit zu beurteilen.
+Die Entschädigung nach den §§ 5 und 6 wird um die Hälfte gemindert, sofern Grundstücke
 
-1.
+1. in Industriegebieten im Sinne des § 9 der Baunutzungsverordnung oder in folgenden Sondergebieten im Sinne des § 11 Absatz 2 der Baunutzungsverordnung a)Ladengebiete,b)Gebiete für Einkaufszentren und großflächige Handelsbetriebe,c)Gebiete für Messen, Ausstellungen und Kongresse,d)Hafengebietegelegen sind und der fluglärmbedingte äquivalente Dauerschallpegel für den Tag (LAeq Tag) den Wert von 70 Dezibel (A) nicht erreicht, Ladengebiete, Gebiete für Einkaufszentren und großflächige Handelsbetriebe, Gebiete für Messen, Ausstellungen und Kongresse, Hafengebiete
 
-a)
-
-b)
-
-c)
-
-d)
-
-2.
+2. in Gewerbegebieten im Sinne des § 8 der Baunutzungsverordnung gelegen sind und der fluglärmbedingte äquivalente Dauerschallpegel für den Tag (LAeq Tag) den Wert von 65 Dezibel (A) nicht erreicht.
 
 ### § 8 — Entschädigung in besonderen Fällen
 
@@ -105,9 +97,9 @@ d)
 
 (2) Bei einer schutzbedürftigen Einrichtung mit Wohnnutzung erhöht sich die Entschädigung pauschal gegenüber Absatz 1
 
-1.
+1. mit jeder abgeschlossenen Wohnung um den in § 5 Absatz 3 Nummer 1 oder Nummer 2 genannten Betrag,
 
-2.
+2. mit jedem Einzel-, Doppel- oder Mehrbettzimmer um die Hälfte des in § 5 Absatz 3 Nummer 1 oder Nummer 2 genannten Betrages.
 
 (3) Bei einer schutzbedürftigen Einrichtung ohne Wohnnutzung erhöht sich die Entschädigung pauschal gegenüber Absatz 1 mit jedem dauerhaft genutzten Gruppen- oder Gemeinschaftsraum um den in § 5 Absatz 3 Nummer 1 oder Nummer 2 genannten Betrag.
 

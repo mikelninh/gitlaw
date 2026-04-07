@@ -13,19 +13,19 @@ Bundes-Immissionsschutzgesetzes
 
 ### § 1 — Anwendungsbereich
 
-(1) Diese Verordnung gilt für die Errichtung, die Beschaffenheit und den Betrieb von Anlagen, in denen Siedlungsabfälle und Abfälle, die wie Siedlungsabfälle entsorgt werden können, mit biologischen oder einer Kombination von biologischen mit physikalischen Verfahren behandelt werden, soweit werden (biologische Abfallbehandlungsanlagen) und sie nach § 4 des Bundes-Immissionsschutzgesetzes in Verbindung mit der Verordnung über genehmigungsbedürftige Anlagen genehmigungsbedürftig sind.
+(1) Diese Verordnung gilt für die Errichtung, die Beschaffenheit und den Betrieb von Anlagen, in denen Siedlungsabfälle und Abfälle, die wie Siedlungsabfälle entsorgt werden können, mit biologischen oder einer Kombination von biologischen mit physikalischen Verfahren behandelt werden, soweit
 
--
+- biologisch stabilisierte Abfälle als Vorbehandlung zur Ablagerung oder vor einer thermischen Behandlung erzeugt,
 
--
+- heizwertreiche Fraktionen oder Ersatzbrennstoffe gewonnen oder
 
--
+- Biogase zur energetischen Nutzung erzeugt
 
-(2) Diese Verordnung gilt nicht für Anlagen, die bestimmt sind.
+(2) Diese Verordnung gilt nicht für Anlagen, die
 
-1.
+1. für die Erzeugung von verwertbarem Kompost oder Biogas ausschließlich aus Bioabfällen gemäß § 2 Nr. 1 der Bioabfallverordnung vom 21. September 1998 (BGBl. I S. 2955) oder aus Erzeugnissen oder Nebenerzeugnissen aus der Land-, Forst- oder Fischwirtschaft oder aus Klärschlamm nach § 2 Absatz 2, Klärschlammgemisch nach § 2 Absatz 7 oder Klärschlammkompost nach § 2 Absatz 8 der Klärschlammverordnung vom 27. September 2017 (BGBl. I S. 3465), in der jeweils geltenden Fassung, sowie aus einem Gemisch der vorgenannten Stoffe in Kofermentationsanlagen oder
 
-2.
+2. für die Ausfaulung von Klärschlamm
 
 (3) Diese Verordnung enthält insbesondere Anforderungen, die nach § 5 Abs. 1 Nr. 2 des Bundes-Immissionsschutzgesetzes bei der Errichtung und beim Betrieb der Anlagen zur Vorsorge gegen schädliche Umwelteinwirkungen durch Luftverunreinigungen zu erfüllen sind.
 
@@ -33,59 +33,25 @@ Bundes-Immissionsschutzgesetzes
 
 Im Sinne dieser Verordnung sind:
 
-1.
+1. Abgase die Trägergase mit festen, flüssigen oder gasförmigen Emissionen;
 
-2.
+2. Abgasreinigungseinrichtung Einrichtungen zur Emissionsminderung von emissionsrelevanten Luftverunreinigungen im Abgas der biologischen Abfallbehandlungsanlage, insbesondere zur Emissionsbegrenzung für Geruchsstoffe, klimarelevante Gase, organische Stoffe und Stäube und zur Reduzierung lebens- und vermehrungsfähiger Mikroorganismen;
 
-3.
+3. Altanlagen biologische Abfallbehandlungsanlagen, für die bis zum Zeitpunkt des Inkrafttretens dieser Verordnunga)eine Anzeige nach § 67 Abs. 2 oder 7 oder § 67a Abs. 1 des Bundes-Immissionsschutzgesetzes oder vor Inkrafttreten des Bundes-Immissionsschutzgesetzes nach § 16 Abs. 4 der Gewerbeordnung erfolgen musste, b)der Planfeststellungsbeschluss nach § 7 Abs. 1 des Abfallgesetzes vom 27. August 1986 (BGBl. I S. 1410, 1501) zur Errichtung und zum Betrieb ergangen ist, c)der Planfeststellungsbeschluss nach § 31 Abs. 2 oder die Genehmigung nach § 31 Abs. 3 des Kreislaufwirtschafts- und Abfallgesetzes vom 27. September 1994 (BGBl. I S. 2705) zur Errichtung und zum Betrieb ergangen ist, d)in einem Planfeststellungsverfahren nach § 31 Abs. 2 des Kreislaufwirtschafts- und Abfallgesetzes der Beginn der Ausführung nach § 33 Abs. 1 des Kreislaufwirtschafts- und Abfallgesetzes vor Feststellung des Planes zugelassen worden ist, e)die Genehmigung nach § 4 oder § 16 des Bundes-Immissionsschutzgesetzes zur Errichtung und zum Betrieb erteilt ist oder f)eine Teilgenehmigung nach § 8, eine Zulassung vorzeitigen Beginns nach § 8a oder ein Vorbescheid nach § 9 des Bundes-Immissionsschutzgesetzes erteilt ist, soweit darin Anforderungen nach § 5 Abs. 1 Nr. 2 des Bundes-Immissionsschutzgesetzes festgelegt sind; eine Anzeige nach § 67 Abs. 2 oder 7 oder § 67a Abs. 1 des Bundes-Immissionsschutzgesetzes oder vor Inkrafttreten des Bundes-Immissionsschutzgesetzes nach § 16 Abs. 4 der Gewerbeordnung erfolgen musste, der Planfeststellungsbeschluss nach § 7 Abs. 1 des Abfallgesetzes vom 27. August 1986 (BGBl. I S. 1410, 1501) zur Errichtung und zum Betrieb ergangen ist, der Planfeststellungsbeschluss nach § 31 Abs. 2 oder die Genehmigung nach § 31 Abs. 3 des Kreislaufwirtschafts- und Abfallgesetzes vom 27. September 1994 (BGBl. I S. 2705) zur Errichtung und zum Betrieb ergangen ist, in einem Planfeststellungsverfahren nach § 31 Abs. 2 des Kreislaufwirtschafts- und Abfallgesetzes der Beginn der Ausführung nach § 33 Abs. 1 des Kreislaufwirtschafts- und Abfallgesetzes vor Feststellung des Planes zugelassen worden ist, die Genehmigung nach § 4 oder § 16 des Bundes-Immissionsschutzgesetzes zur Errichtung und zum Betrieb erteilt ist oder eine Teilgenehmigung nach § 8, eine Zulassung vorzeitigen Beginns nach § 8a oder ein Vorbescheid nach § 9 des Bundes-Immissionsschutzgesetzes erteilt ist, soweit darin Anforderungen nach § 5 Abs. 1 Nr. 2 des Bundes-Immissionsschutzgesetzes festgelegt sind;
 
-a)
+4. Anfallende Abfälle alle festen oder flüssigen Abfälle, die in der biologischen Abfallbehandlungsanlage anfallen;
 
-b)
+5. Abfälle mit biologisch abbaubaren Anteilen Abfälle mit hohem organischen Anteil im Sinne der in Anhang 1 Nr. 1 der Bioabfallverordnung genannten Abfälle sowie andere Abfälle mit hohem biologisch abbaubaren Anteil, die aufgrund ihrer Beschaffenheit oder Zusammensetzung wie Siedlungsabfälle entsorgt werden, insbesondere Klärschlämme aus Abwasserbehandlungsanlagen zur Behandlung von kommunalem Abwasser oder Abwässern mit ähnlich geringer Schadstoffbelastung, Fäkalien, Fäkalschlamm, Rückstände aus Abwasseranlagen, Wasserreinigungsschlämme, Bauabfälle und produktionsspezifische Abfälle. Hierunter fallen auch Abfälle aus der Behandlung von Siedlungsabfällen und von Abfällen nach Satz 1;
 
-c)
+6. Biologische Abfallbehandlungsanlage Abfallbehandlungsanlage, in der Siedlungsabfälle oder andere Abfälle mit biologisch abbaubaren Anteilen mit biologischen oder einer Kombination von biologischen mit physikalischen Verfahren behandelt werden, soweit biologisch stabilisierte Abfälle, heizwertreiche Fraktionen, Ersatzbrennstoffe oder Biogase erzeugt werden. Zur biologischen Abfallbehandlungsanlage gehören insbesondere-die Einrichtungen zur biologischen Behandlung der Einsatzstoffe oder der anfallenden Abfälle unter aeroben Bedingungen (Verrottung) oder unter anaeroben Bedingungen (Vergärung) mit ihren Austrags-, Eintrags-, Luft- und Abgasführungs- und Umsetzsystemen und -die Einrichtungen zur mechanischen Aufbereitung oder zur physikalischen Trennung der Einsatzstoffe oder der anfallenden Abfälle als Vorbehandlungs- und Nachbehandlungseinrichtungen vor und nach der biologischen Behandlung (wie zum Abscheiden oder Aussortieren von Metallen, Folien oder anderen Stör- oder Wertstoffen, zum Entwässern, zum Homogenisieren oder Mischen, zum Klassieren oder Sortieren durch Sieben, Windsichten oder hydraulisches Trennen, zum Pelletieren, zum Trocknen, zum Verpressen oder zum Zerkleinern), -die Einrichtungen zur Anlieferung, Eingangskontrolle und Entladung der Einsatzstoffe, zur Lagerung der Einsatzstoffe und der anfallenden Abfälle sowie zu ihrem Transport, ihrem Umschlag und ihrer Dosierung, -die Einrichtungen für die Abgaserfassung, -die Einrichtungen für die Abgasreinigung und für die Behandlung von Prozesswässern und Brüdenkondensaten, -die Einrichtungen für die Abgasableitungen in die Atmosphäre, -die Einrichtungen zur Betriebskontrolle der Behandlungsvorgänge und der Zwischenlagerung sowie zur Überwachung der Behandlungs- und Lagerungsbedingungen und -die Einrichtungen zur Überwachung der Emissionen; die Einrichtungen zur biologischen Behandlung der Einsatzstoffe oder der anfallenden Abfälle unter aeroben Bedingungen (Verrottung) oder unter anaeroben Bedingungen (Vergärung) mit ihren Austrags-, Eintrags-, Luft- und Abgasführungs- und Umsetzsystemen und die Einrichtungen zur mechanischen Aufbereitung oder zur physikalischen Trennung der Einsatzstoffe oder der anfallenden Abfälle als Vorbehandlungs- und Nachbehandlungseinrichtungen vor und nach der biologischen Behandlung (wie zum Abscheiden oder Aussortieren von Metallen, Folien oder anderen Stör- oder Wertstoffen, zum Entwässern, zum Homogenisieren oder Mischen, zum Klassieren oder Sortieren durch Sieben, Windsichten oder hydraulisches Trennen, zum Pelletieren, zum Trocknen, zum Verpressen oder zum Zerkleinern), die Einrichtungen zur Anlieferung, Eingangskontrolle und Entladung der Einsatzstoffe, zur Lagerung der Einsatzstoffe und der anfallenden Abfälle sowie zu ihrem Transport, ihrem Umschlag und ihrer Dosierung, die Einrichtungen für die Abgaserfassung, die Einrichtungen für die Abgasreinigung und für die Behandlung von Prozesswässern und Brüdenkondensaten, die Einrichtungen für die Abgasableitungen in die Atmosphäre, die Einrichtungen zur Betriebskontrolle der Behandlungsvorgänge und der Zwischenlagerung sowie zur Überwachung der Behandlungs- und Lagerungsbedingungen und die Einrichtungen zur Überwachung der Emissionen;
 
-d)
+7. Einsatzstoffe alle einer biologischen Abfallbehandlungsanlage zugeführten Siedlungsabfälle oder anderen Abfälle mit biologisch abbaubaren Anteilen;
 
-e)
+8. Emissionen die von einer biologischen Abfallbehandlungsanlage ausgehenden Luftverunreinigungen; sie werden angegeben als:a)Massenkonzentration in der Einheit Milligramm je Kubikmeter (mg/cbm), bezogen auf das Abgasvolumen im Normzustand (273 K, 1013 hPa) nach Abzug des Feuchtegehaltes an Wasserdampf, b)Massenverhältnis in der Einheit Gramm je Megagramm (g/Mg) als Verhältnis der Masse der emittierten Stoffe zu der Masse der zugeführten Einsatzstoffe im Anlieferungszustand, c)Geruchsstoffkonzentration in der Einheit Geruchseinheit je Kubikmeter (GE/cbm) als olfaktometrisch gemessenes Verhältnis der Volumenströme bei Verdünnung einer Abgasprobe mit Neutralluft bis zur Geruchsschwelle, angegeben als Vielfaches der Geruchsschwelle; Massenkonzentration in der Einheit Milligramm je Kubikmeter (mg/cbm), bezogen auf das Abgasvolumen im Normzustand (273 K, 1013 hPa) nach Abzug des Feuchtegehaltes an Wasserdampf, Massenverhältnis in der Einheit Gramm je Megagramm (g/Mg) als Verhältnis der Masse der emittierten Stoffe zu der Masse der zugeführten Einsatzstoffe im Anlieferungszustand, Geruchsstoffkonzentration in der Einheit Geruchseinheit je Kubikmeter (GE/cbm) als olfaktometrisch gemessenes Verhältnis der Volumenströme bei Verdünnung einer Abgasprobe mit Neutralluft bis zur Geruchsschwelle, angegeben als Vielfaches der Geruchsschwelle;
 
-f)
+9. Emissionsgrenzwerte zulässige Emissionen im Abgas, die nach den in § 10 Abs. 4 und § 12 Abs. 2 festgelegten Kriterien beurteilt werden;
 
-4.
-
-5.
-
-6.
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
-7.
-
-8.
-
-a)
-
-b)
-
-c)
-
-9.
-
-10.
+10. Siedlungsabfälle Abfälle aus Haushaltungen sowie Abfälle aus anderen Herkunftsbereichen, die aufgrund ihrer Beschaffenheit oder Zusammensetzung den Abfällen aus Haushaltungen ähnlich sind, insbesondere Hausmüll, Sperrmüll, hausmüllartige Gewerbeabfälle, Garten- und Parkabfälle, Marktabfälle und Straßenreinigungsabfälle.
 
 ## Zweiter Teil: Anforderungen an die Errichtung,
 die Beschaffenheit und den Betrieb
@@ -122,15 +88,7 @@ Bei der Errichtung von biologischen Abfallbehandlungsanlagen soll ein Mindestabs
 
 Der Betreiber hat die biologische Abfallbehandlungsanlage so zu errichten und zu betreiben, dass in den zur Ableitung in die Atmosphäre bestimmten Abgasströmen nach § 4 Abs. 1 Satz 2 und Abs. 2 Satz 2 und § 5 Abs. 1 Satz 2 und Abs. 2
 
-1.
-
-2.
-
-3.
-
-4.
-
-5.
+1. kein Tagesmittelwert die folgenden Emissionsgrenzwerte überschreitet:
 
 ### § 7 — Ableitbedingungen für Abgase
 
@@ -150,13 +108,13 @@ Der Betreiber hat die Abgasströme nach § 4 Abs. 1 Satz 2 und Abs. 2 Satz 2 und
 
 ### § 9 — Kontinuierliche Messungen
 
-Der Betreiber hat kontinuierlich zu ermitteln, zu registrieren und gemäß § 10 Abs. 1 und 2 auszuwerten. Messeinrichtungen für den Feuchtegehalt an Wasserdampf sind nicht notwendig, soweit das Abgas vor der Ermittlung der Massenkonzentration der Emissionen getrocknet wird.
+Der Betreiber hat
 
-1.
+1. die Massenkonzentrationen der Emissionen nach § 6 Nr. 1 und 2,
 
-2.
+2. die Massenkonzentrationen der Emissionen an Distickstoffoxid und
 
-3.
+3. die zur Auswertung und Beurteilung des ordnungsgemäßen Betriebes erforderlichen Bezugsgrößen, insbesondere Abgastemperatur, Abgasvolumenstrom, Druck, Feuchtegehalt an Wasserdampf sowie Masse der zugeführten Einsatzstoffe im Anlieferungszustand
 
 ### § 10 — Auswertung und Beurteilung von kontinuierlichen Messungen
 
@@ -208,8 +166,6 @@ Der Betreiber der biologischen Abfallbehandlungsanlage hat die Öffentlichkeit n
 
 ### § 16 — Zulassung von Ausnahmen
 
-Abweichend von der in § 5 Abs. 1 Satz 1 festgelegten Kapselung von Einrichtungen zur biologischen Behandlung oder ihrer Ausführung in geschlossenen Räumen mit Schleusen und der in § 5 Abs. 2 festgelegten vollständigen Zuführung des beim Rottevorgang entstehenden Abgases zu einer Abgasreinigung kann die zuständige Behörde auf Antrag des Betreibers bei einer mehrstufigen biologischen Behandlung eine Nachbehandlung unter aeroben Bedingungen (Nachrotte) in nicht gekapselten Einrichtungen oder in nicht geschlossenen Räumen ohne Abgaserfassung und Abgasreinigung zulassen, wenn der zur Nachrotte vorgesehene Abfall den Wert von 20 mg 02/g Trockenmasse, bestimmt als Atmungsaktivität gemäß Anhang 4 Nummer 3.3.1 der Deponieverordnung vom 27. April 2009 (BGBl. I S. 900), unterschreitet und durch sonstige betriebliche Maßnahmen sichergestellt wird, dass der Vorsorge gegen schädliche Umwelteinwirkungen auf andere Weise Genüge getan ist.
-
 ### § 17 — Weitergehende Anforderungen
 
 Die Befugnis der zuständigen Behörde, andere oder weitergehende Anforderungen, insbesondere zur Vermeidung schädlicher Umwelteinwirkungen nach § 5 Abs. 1 Nr. 1 des Bundes-Immissionsschutzgesetzes zu treffen, bleibt unberührt.
@@ -218,18 +174,18 @@ Die Befugnis der zuständigen Behörde, andere oder weitergehende Anforderungen,
 
 Ordnungswidrig im Sinne des § 62 Abs. 1 Nr. 2 des Bundes-Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 6 eine Anlage nicht richtig errichtet oder nicht richtig betreibt,
 
-2.
+2. entgegen § 8 Abs. 4 Satz 1 eine Messeinrichtung nicht oder nicht rechtzeitig kalibrieren oder nicht oder nicht rechtzeitig prüfen lässt oder die Kalibrierung nicht oder nicht rechtzeitig wiederholt,
 
-3.
+3. entgegen § 8 Abs. 4 Satz 2, § 10 Abs. 3 Satz 1 oder § 12 Abs. 1 Satz 1 einen Bericht nicht oder nicht rechtzeitig vorlegt,
 
-4.
+4. entgegen § 9 Satz 1 die Massenkonzentrationen der Emissionen oder eine dort genannte Bezugsgröße nicht, nicht richtig oder nicht vollständig auswertet,
 
-5.
+5. entgegen § 10 Abs. 3 Satz 2 eine Aufzeichnung nicht oder nicht mindestens fünf Jahre aufbewahrt,
 
-6.
+6. entgegen § 11 Abs. 1 Satz 1 oder 2 eine Messung nicht oder nicht rechtzeitig durchführen lässt,
 
-7.
+7. entgegen § 13 Abs. 1 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder
 
-8.
+8. entgegen § 15 Satz 1 die Öffentlichkeit nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig unterrichtet.

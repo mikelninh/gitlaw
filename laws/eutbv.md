@@ -34,15 +34,11 @@ Auf Grund des § 32 Absatz 7 Satz 4 des Neunten Buches Sozialgesetzbuch, der dur
 
 (1) Wird die Anzahl der dem Gebiet eines Landes zugeordneten Vollzeitäquivalente nicht ausgeschöpft, ist den antragstellenden Trägern der Beratungsangebote, die die Voraussetzungen nach § 8 erfüllen, ein Zuschuss zu gewähren.
 
-(2) Die Vollzeitäquivalente verteilen sich wie folgt:
-
-(3) Der Zuschuss wird abweichend von Absatz 1 nicht gewährt, wenn dadurch ein regionales Überangebot entsteht. Ein regionales Überangebot liegt vor, wenn der für das Land errechnete Referenzwert pro zu bewilligendem Vollzeitäquivalent die Einwohnerzahl des betreffenden Landkreises, der betreffenden kreisfreien Stadt oder des Bezirkes der Stadtstaaten pro zu bewilligendem Vollzeitäquivalent überschreitet.
-
 (4) Der Zuschuss pro Beratungsangebot umfasst mindestens ein Vollzeitäquivalent und ist auf maximal drei Vollzeitäquivalente begrenzt. Ein Vollzeitäquivalent entspricht einer wöchentlichen Arbeitszeit von 39 Stunden.
 
 ### § 4 — Gegenstand und Höhe des Zuschusses pro Vollzeitäquivalent
 
-Der Zuschuss wird für Personal- und Sachausgaben gewährt. Er ist auf jährlich 110 000 Euro pro Vollzeitäquivalent begrenzt.
+Der Zuschuss wird für Personal- und Sachausgaben gewährt. Er ist auf jährlich 110 000 Euro pro Vollzeitäquivalent begrenzt.
 
 ### § 5 — Personalausgaben
 
@@ -52,21 +48,21 @@ Für sozialversicherungspflichtig beschäftigte Beraterinnen und Berater wird ei
 
 (1) Für Sachausgaben kann ein Zuschuss gewährt werden für:
 
-1.
+1. eine Erstausstattung in Höhe einer einmaligen Pauschale bei der ersten Bewilligung nach dieser Verordnung von 1 000 Euro pro Vollzeitäquivalent und Bewilligungsperiode,
 
-2.
+2. Verwaltungsausgaben in Höhe einer Jahrespauschale von 10 750 Euro je vollem Kalenderjahr und Vollzeitäquivalent oder anteilig in Höhe eines Zwölftels der Jahrespauschale für jeden vollen Monat der Bewilligung,
 
-3.
+3. erforderliche Ausgaben für besondere Bedarfslagen der Ratsuchenden, um das Beratungsangebot in Anspruch zu nehmen, zum Beispiel Ausgaben für Gebärdensprachdolmetscherinnen und Gebärdensprachdolmetscher oder eine aufsuchende Beratung,
 
-4.
+4. erforderliche Ausgaben für Sprachdolmetscherinnen und Sprachdolmetscher,
 
-5.
+5. erforderliche Ausgaben bis zu einer Höhe von 5 Prozent des bewilligten Zuschusses für einen zusätzlichen Aufwand ehrenamtlich tätiger Mitarbeiterinnen und Mitarbeiter, zum Beispiel für Schulungen und Qualifizierungen,
 
-6.
+6. erforderliche Ausgaben im Zusammenhang mit der Qualifizierung und Weiterbildung der Beraterinnen und Berater,
 
-7.
+7. erforderliche Ausgaben für Räume zur Durchführung der Beratung,
 
-8.
+8. Ausgaben für regionale Öffentlichkeitsarbeit bis zur Höhe von 1 000 Euro pro vollem Kalenderjahr und Vollzeitäquivalent oder anteilig bis zur Höhe eines Zwölftels des Jahreshöchstbetrages für jeden vollen Monat der Bewilligung.
 
 (2) Sachausgaben nach Absatz 1 Nummer 3, 4, 6 und 7 sind bis zu einer Überschreitung von 20 Prozent gegenseitig deckungsfähig.
 
@@ -78,23 +74,23 @@ Antragsberechtigt für die Gewährung von Zuschüssen sind juristische Personen 
 
 (1) Der Antragsteller muss zuverlässig sein. Er ist zuverlässig, wenn er die Gewähr dafür bietet, das Beratungsangebot ordnungsgemäß auszuüben. Ein Mangel der Zuverlässigkeit kann insbesondere dann vorliegen, wenn der Antragsteller oder eine Person, deren Verhalten dem Antragsteller aufgrund einer leitenden Stellung zuzurechnen ist,
 
-1.
+1. der Verpflichtung zur Zahlung von Steuern und Abgaben nicht nachgekommen ist,
 
-2.
+2. sozialversicherungsrechtliche oder arbeitsrechtliche Pflichten verletzt,
 
-3.
+3. im Rahmen der beruflichen Tätigkeit nachweislich eine schwere Verfehlung begangen hat, durch die die Integrität des Antragstellers infrage gestellt wird oder
 
-4.
+4. beim Antragsteller mangelnde wirtschaftliche Leistungsfähigkeit besteht.
 
 (2) Der Antragsteller muss fachlich geeignet sein. Davon ist insbesondere auszugehen, wenn der Antragsteller oder die Beraterinnen und Berater Erfahrungen im Bereich der Teilhabe von Menschen mit Behinderungen haben.
 
 (3) Der Antragsteller muss glaubhaft machen,
 
-1.
+1. ein behinderungsübergreifendes Beratungsangebot vorzuhalten,
 
-2.
+2. die Niedrigschwelligkeit des Beratungsangebotes in seiner inhaltlichen, räumlichen, sozialen und zeitlichen Dimension zu gewährleisten und
 
-3.
+3. die Unabhängigkeit der Beraterinnen und Berater sicherzustellen.
 
 (4) Ein Zuschuss wird nicht gewährt, wenn das Beratungsangebot zum Zwecke der Gewinnerzielung erfolgt.
 
@@ -104,11 +100,11 @@ Antragsberechtigt für die Gewährung von Zuschüssen sind juristische Personen 
 
 (2) Die Verteilung des Zuschusses auf die Antragsteller erfolgt in der Rangfolge des Vorliegens der folgenden Kriterien:
 
-1.
+1. Erforderlichkeit des Beratungsangebots zur Umsetzung eines flächendeckenden, wohnortnahen Angebots,
 
-2.
+2. Einsatz von Menschen mit Behinderungen oder von Behinderung bedrohte Menschen sowie deren Angehörige als hauptamtliche Beraterinnen und Berater und
 
-3.
+3. Angemessenheit der Personalausstattung, insbesondere unter Berücksichtigung der Zusammenarbeit von Beraterinnen und Beratern unterschiedlicher Qualifikation und Erfahrungen.
 
 (3) Zwischen zwei oder mehreren Antragstellern gleichen Ranges entscheidet das Los.
 

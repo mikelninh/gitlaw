@@ -36,15 +36,15 @@ Die besonderen Vorschriften für die Dauerpflegschaft sind auf die Umgangspflegs
 
 ### § 5 — Lebenspartnerschaftssachen
 
-In Lebenspartnerschaftssachen nach § 269 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sind für entsprechend anzuwenden.
+In Lebenspartnerschaftssachen nach § 269 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sind für
 
-1.
+1. Verfahren nach Absatz 1 Nr. 1 dieser Vorschrift die Vorschriften für das Verfahren auf Scheidung der Ehe,
 
-2.
+2. Verfahren nach Absatz 1 Nr. 2 dieser Vorschrift die Vorschriften für das Verfahren auf Feststellung des Bestehens oder Nichtbestehens einer Ehe zwischen den Beteiligten,
 
-3.
+3. Verfahren nach Absatz 1 Nr. 3 bis 12 dieser Vorschrift die Vorschriften für Familiensachen nach § 111 Nr. 2, 4, 5 und 7 bis 9 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit und
 
-4.
+4. Verfahren nach den Absätzen 2 und 3 dieser Vorschrift die Vorschriften für sonstige Familiensachen nach § 111 Nr. 10 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit
 
 ### § 6 — Verweisung, Abgabe, Fortführung einer Folgesache als selbständige Familiensache
 
@@ -88,15 +88,15 @@ Bei Vormundschaften und bei Dauerpflegschaften werden die Gebühren nach den Num
 
 (1) Im Übrigen werden die Gebühren und die Auslagen fällig, wenn
 
-1.
+1. eine unbedingte Entscheidung über die Kosten ergangen ist,
 
-2.
+2. das Verfahren oder der Rechtszug durch Vergleich oder Zurücknahme beendet ist,
 
-3.
+3. das Verfahren sechs Monate ruht oder sechs Monate nicht betrieben worden ist,
 
-4.
+4. das Verfahren sechs Monate unterbrochen oder sechs Monate ausgesetzt war oder
 
-5.
+5. das Verfahren durch anderweitige Erledigung beendet ist.
 
 (2) Die Dokumentenpauschale sowie die Auslagen für die Versendung von Akten werden sofort nach ihrer Entstehung fällig.
 
@@ -122,15 +122,11 @@ In Verfahren nach dem Internationalen Familienrechtsverfahrensgesetz sind die Vo
 
 § 14 gilt nicht,
 
-1.
+1. soweit dem Antragsteller Verfahrenskostenhilfe bewilligt ist,
 
-2.
+2. wenn dem Antragsteller Gebührenfreiheit zusteht oder
 
-3.
-
-a)
-
-b)
+3. wenn die beabsichtigte Rechtsverfolgung weder aussichtslos noch mutwillig erscheint und wenn glaubhaft gemacht wird, dass a)dem Antragsteller die alsbaldige Zahlung der Kosten mit Rücksicht auf seine Vermögenslage oder aus sonstigen Gründen Schwierigkeiten bereiten würde oderb)eine Verzögerung dem Antragsteller einen nicht oder nur schwer zu ersetzenden Schaden bringen würde; zur Glaubhaftmachung genügt in diesem Fall die Erklärung des zum Bevollmächtigten bestellten Rechtsanwalts. dem Antragsteller die alsbaldige Zahlung der Kosten mit Rücksicht auf seine Vermögenslage oder aus sonstigen Gründen Schwierigkeiten bereiten würde oder eine Verzögerung dem Antragsteller einen nicht oder nur schwer zu ersetzenden Schaden bringen würde; zur Glaubhaftmachung genügt in diesem Fall die Erklärung des zum Bevollmächtigten bestellten Rechtsanwalts.
 
 ### § 16 — Auslagen
 
@@ -150,11 +146,11 @@ Die Verpflichtung zur Zahlung eines Vorschusses bleibt bestehen, auch wenn die K
 
 ### § 18 — Kostenansatz
 
-(1) Es werden angesetzt: Dies gilt auch dann, wenn die Kosten bei einem ersuchten Gericht entstanden sind.
+(1) Es werden angesetzt:
 
-1.
+1. die Kosten des ersten Rechtszugs bei dem Gericht, bei dem das Verfahren im ersten Rechtszug anhängig ist oder zuletzt anhängig war,
 
-2.
+2. die Kosten des Rechtsmittelverfahrens bei dem Rechtsmittelgericht.
 
 (2) Die Dokumentenpauschale sowie die Auslagen für die Versendung von Akten werden bei der Stelle angesetzt, bei der sie entstanden sind.
 
@@ -178,15 +174,15 @@ Die Verpflichtung zur Zahlung eines Vorschusses bleibt bestehen, auch wenn die K
 
 ### § 21 — Kostenschuldner in Antragsverfahren, Vergleich
 
-(1) In Verfahren, die nur durch Antrag eingeleitet werden, schuldet die Kosten, wer das Verfahren des Rechtszugs beantragt hat. Dies gilt nicht Im Verfahren, das gemäß § 700 Abs. 3 der Zivilprozessordnung dem Mahnverfahren folgt, schuldet die Kosten, wer den Vollstreckungsbescheid beantragt hat.
+(1) In Verfahren, die nur durch Antrag eingeleitet werden, schuldet die Kosten, wer das Verfahren des Rechtszugs beantragt hat. Dies gilt nicht
 
-1.
+1. für den ersten Rechtszug in Gewaltschutzsachen und in Verfahren nach dem EU-Gewaltschutzverfahrensgesetz,
 
-2.
+2. im Verfahren auf Erlass einer gerichtlichen Anordnung auf Rückgabe des Kindes oder über das Recht zum persönlichen Umgang nach dem Internationalen Familienrechtsverfahrensgesetz,
 
-3.
+3. für einen Minderjährigen in Verfahren, die seine Person betreffen, und
 
-4.
+4. für einen Verfahrensbeistand.
 
 (2) Die Gebühr für den Abschluss eines gerichtlichen Vergleichs schuldet jeder, der an dem Abschluss beteiligt ist.
 
@@ -202,21 +198,21 @@ Die Kosten bei einer Vormundschaft oder Dauerpflegschaft schuldet der von der Ma
 
 (3) Im Verfahren auf Bewilligung von Verfahrenskostenhilfe und im Verfahren auf Bewilligung grenzüberschreitender Prozesskostenhilfe ist der Antragsteller Schuldner der Auslagen, wenn
 
-1.
+1. der Antrag zurückgenommen oder vom Gericht abgelehnt wird oder
 
-2.
+2. die Übermittlung des Antrags von der Übermittlungsstelle oder das Ersuchen um Prozesskostenhilfe von der Empfangsstelle abgelehnt wird.
 
 ### § 24 — Weitere Fälle der Kostenhaftung
 
 Die Kosten schuldet ferner,
 
-1.
+1. wem durch gerichtliche Entscheidung die Kosten des Verfahrens auferlegt sind;
 
-2.
+2. wer sie durch eine vor Gericht abgegebene oder dem Gericht mitgeteilte Erklärung oder in einem vor Gericht abgeschlossenen oder dem Gericht mitgeteilten Vergleich übernommen hat; dies gilt auch, wenn bei einem Vergleich ohne Bestimmung über die Kosten diese als von beiden Teilen je zur Hälfte übernommen anzusehen sind;
 
-3.
+3. wer für die Kostenschuld eines anderen kraft Gesetzes haftet und
 
-4.
+4. der Verpflichtete für die Kosten der Vollstreckung; dies gilt nicht für einen Minderjährigen in Verfahren, die seine Person betreffen.
 
 ### § 25 — Erlöschen der Zahlungspflicht
 
@@ -232,11 +228,11 @@ Die durch gerichtliche Entscheidung begründete Verpflichtung zur Zahlung von Ko
 
 (4) Absatz 3 ist entsprechend anzuwenden, soweit der Kostenschuldner aufgrund des § 24 Nummer 2 haftet, wenn
 
-1.
+1. der Kostenschuldner die Kosten in einem vor Gericht abgeschlossenen, gegenüber dem Gericht angenommenen oder in einem gerichtlich gebilligten Vergleich übernommen hat,
 
-2.
+2. der Vergleich einschließlich der Verteilung der Kosten, bei einem gerichtlich gebilligten Vergleich allein die Verteilung der Kosten, von dem Gericht vorgeschlagen worden ist und
 
-3.
+3. das Gericht in seinem Vergleichsvorschlag ausdrücklich festgestellt hat, dass die Kostenregelung der sonst zu erwartenden Kostenentscheidung entspricht.
 
 ### § 27 — Haftung von Streitgenossen
 
@@ -245,8 +241,6 @@ Streitgenossen haften als Gesamtschuldner, wenn die Kosten nicht durch gerichtli
 ## Abschnitt 6: Gebührenvorschriften
 
 ### § 28 — Wertgebühren
-
-(1) Wenn sich die Gebühren nach dem Verfahrenswert richten, beträgt bei einem Verfahrenswert bis 500 Euro die Gebühr 40 Euro. Die Gebühr erhöht sich bei einem Eine Gebührentabelle für Verfahrenswerte bis 500 000 Euro ist diesem Gesetz als Anlage 2 beigefügt.
 
 (2) Der Mindestbetrag einer Gebühr ist 15 Euro. Gebühren werden auf den nächstliegenden Cent auf- oder abgerundet; 0,5 Cent werden aufgerundet.
 
@@ -334,15 +328,15 @@ Im Verfahren der einstweiligen Anordnung ist der Wert in der Regel unter Berück
 
 (1) Soweit in einer vermögensrechtlichen Angelegenheit der Verfahrenswert sich aus den Vorschriften dieses Gesetzes nicht ergibt und auch sonst nicht feststeht, ist er nach billigem Ermessen zu bestimmen.
 
-(2) Soweit in einer nichtvermögensrechtlichen Angelegenheit der Verfahrenswert sich aus den Vorschriften dieses Gesetzes nicht ergibt, ist er unter Berücksichtigung aller Umstände des Einzelfalls, insbesondere des Umfangs und der Bedeutung der Sache und der Vermögens- und Einkommensverhältnisse der Beteiligten, nach billigem Ermessen zu bestimmen, jedoch nicht über 500 000 Euro.
+(2) Soweit in einer nichtvermögensrechtlichen Angelegenheit der Verfahrenswert sich aus den Vorschriften dieses Gesetzes nicht ergibt, ist er unter Berücksichtigung aller Umstände des Einzelfalls, insbesondere des Umfangs und der Bedeutung der Sache und der Vermögens- und Einkommensverhältnisse der Beteiligten, nach billigem Ermessen zu bestimmen, jedoch nicht über 500 000 Euro.
 
-(3) Bestehen in den Fällen der Absätze 1 und 2 keine genügenden Anhaltspunkte, ist von einem Wert von 5 000 Euro auszugehen.
+(3) Bestehen in den Fällen der Absätze 1 und 2 keine genügenden Anhaltspunkte, ist von einem Wert von 5 000 Euro auszugehen.
 
 ## Unterabschnitt 2: Besondere Wertvorschriften
 
 ### § 43 — Ehesachen
 
-(1) In Ehesachen ist der Verfahrenswert unter Berücksichtigung aller Umstände des Einzelfalls, insbesondere des Umfangs und der Bedeutung der Sache und der Vermögens- und Einkommensverhältnisse der Ehegatten, nach Ermessen zu bestimmen. Der Wert darf nicht unter 3 000 Euro und nicht über 1 Million Euro angenommen werden.
+(1) In Ehesachen ist der Verfahrenswert unter Berücksichtigung aller Umstände des Einzelfalls, insbesondere des Umfangs und der Bedeutung der Sache und der Vermögens- und Einkommensverhältnisse der Ehegatten, nach Ermessen zu bestimmen. Der Wert darf nicht unter 3 000 Euro und nicht über 1 Million Euro angenommen werden.
 
 (2) Für die Einkommensverhältnisse ist das in drei Monaten erzielte Nettoeinkommen der Ehegatten einzusetzen.
 
@@ -350,23 +344,23 @@ Im Verfahren der einstweiligen Anordnung ist der Wert in der Regel unter Berück
 
 (1) Die Scheidungssache und die Folgesachen gelten als ein Verfahren.
 
-(2) Sind in § 137 Abs. 3 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit genannte Kindschaftssachen Folgesachen, erhöht sich der Verfahrenswert nach § 43 für jede Kindschaftssache um 20 Prozent, höchstens um jeweils 5 000 Euro; eine Kindschaftssache ist auch dann als ein Gegenstand zu bewerten, wenn sie mehrere Kinder betrifft. Die Werte der übrigen Folgesachen werden hinzugerechnet. § 33 Abs. 1 Satz 2 ist nicht anzuwenden.
+(2) Sind in § 137 Abs. 3 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit genannte Kindschaftssachen Folgesachen, erhöht sich der Verfahrenswert nach § 43 für jede Kindschaftssache um 20 Prozent, höchstens um jeweils 5 000 Euro; eine Kindschaftssache ist auch dann als ein Gegenstand zu bewerten, wenn sie mehrere Kinder betrifft. Die Werte der übrigen Folgesachen werden hinzugerechnet. § 33 Abs. 1 Satz 2 ist nicht anzuwenden.
 
 (3) Ist der Betrag, um den sich der Verfahrenswert der Ehesache erhöht (Absatz 2), nach den besonderen Umständen des Einzelfalls unbillig, kann das Gericht einen höheren oder einen niedrigeren Betrag berücksichtigen.
 
 ### § 45 — Bestimmte Kindschaftssachen
 
-(1) In einer Kindschaftssache, die betrifft, beträgt der Verfahrenswert 5 000 Euro.
+(1) In einer Kindschaftssache, die
 
-1.
+1. die Übertragung oder Entziehung der elterlichen Sorge oder eines Teils der elterlichen Sorge,
 
-2.
+2. das Umgangsrecht einschließlich der Umgangspflegschaft,
 
-3.
+3. das Recht auf Auskunft über die persönlichen Verhältnisse des Kindes,
 
-4.
+4. die Kindesherausgabe oder
 
-5.
+5. die Genehmigung einer Einwilligung in einen operativen Eingriff bei einem Kind mit einer Variante der Geschlechtsentwicklung (§ 1631e Absatz 3 des Bürgerlichen Gesetzbuchs)
 
 (2) Eine Kindschaftssache nach Absatz 1 ist auch dann als ein Gegenstand zu bewerten, wenn sie mehrere Kinder betrifft.
 
@@ -382,27 +376,27 @@ Im Verfahren der einstweiligen Anordnung ist der Wert in der Regel unter Berück
 
 ### § 47 — Abstammungssachen
 
-(1) In Abstammungssachen nach § 169 Nr. 1 und 4 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit beträgt der Verfahrenswert 3 000 Euro, in den übrigen Abstammungssachen 1 000 Euro.
+(1) In Abstammungssachen nach § 169 Nr. 1 und 4 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit beträgt der Verfahrenswert 3 000 Euro, in den übrigen Abstammungssachen 1 000 Euro.
 
 (2) Ist der nach Absatz 1 bestimmte Wert nach den besonderen Umständen des Einzelfalls unbillig, kann das Gericht einen höheren oder einen niedrigeren Wert festsetzen.
 
 ### § 48 — Ehewohnungs- und Haushaltssachen
 
-(1) In Ehewohnungssachen nach § 200 Absatz 1 Nummer 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit beträgt der Verfahrenswert 4 000 Euro, in Ehewohnungssachen nach § 200 Absatz 1 Nummer 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit 5 000 Euro.
+(1) In Ehewohnungssachen nach § 200 Absatz 1 Nummer 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit beträgt der Verfahrenswert 4 000 Euro, in Ehewohnungssachen nach § 200 Absatz 1 Nummer 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit 5 000 Euro.
 
-(2) In Haushaltssachen nach § 200 Absatz 2 Nummer 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit beträgt der Wert 2 000 Euro, in Haushaltssachen nach § 200 Absatz 2 Nummer 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit 3 000 Euro.
+(2) In Haushaltssachen nach § 200 Absatz 2 Nummer 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit beträgt der Wert 2 000 Euro, in Haushaltssachen nach § 200 Absatz 2 Nummer 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit 3 000 Euro.
 
 (3) Ist der nach den Absätzen 1 und 2 bestimmte Wert nach den besonderen Umständen des Einzelfalls unbillig, kann das Gericht einen höheren oder einen niedrigeren Wert festsetzen.
 
 ### § 49 — Gewaltschutzsachen
 
-(1) In Gewaltschutzsachen nach § 1 des Gewaltschutzgesetzes und in Verfahren nach dem EU-Gewaltschutzverfahrensgesetz beträgt der Verfahrenswert 3 000 Euro, in Gewaltschutzsachen nach § 2 des Gewaltschutzgesetzes 4 000 Euro.
+(1) In Gewaltschutzsachen nach § 1 des Gewaltschutzgesetzes und in Verfahren nach dem EU-Gewaltschutzverfahrensgesetz beträgt der Verfahrenswert 3 000 Euro, in Gewaltschutzsachen nach § 2 des Gewaltschutzgesetzes 4 000 Euro.
 
 (2) Ist der nach Absatz 1 bestimmte Wert nach den besonderen Umständen des Einzelfalls unbillig, kann das Gericht einen höheren oder einen niedrigeren Wert festsetzen.
 
 ### § 50 — Versorgungsausgleichssachen
 
-(1) In Versorgungsausgleichssachen beträgt der Verfahrenswert für jedes Anrecht 10 Prozent, bei Ausgleichsansprüchen nach der Scheidung für jedes Anrecht 20 Prozent des in drei Monaten erzielten Nettoeinkommens der Ehegatten. Der Wert nach Satz 1 beträgt insgesamt mindestens 1 000 Euro.
+(1) In Versorgungsausgleichssachen beträgt der Verfahrenswert für jedes Anrecht 10 Prozent, bei Ausgleichsansprüchen nach der Scheidung für jedes Anrecht 20 Prozent des in drei Monaten erzielten Nettoeinkommens der Ehegatten. Der Wert nach Satz 1 beträgt insgesamt mindestens 1 000 Euro.
 
 (2) In Verfahren über einen Auskunftsanspruch oder über die Abtretung von Versorgungsansprüchen beträgt der Verfahrenswert 500 Euro.
 
@@ -436,11 +430,11 @@ Ist der Wert für die Zulässigkeit der Beschwerde festgesetzt, ist die Festsetz
 
 (2) Soweit eine Entscheidung nach § 54 nicht ergeht oder nicht bindet, setzt das Gericht den Wert für die zu erhebenden Gebühren durch Beschluss fest, sobald eine Entscheidung über den gesamten Verfahrensgegenstand ergeht oder sich das Verfahren anderweitig erledigt.
 
-(3) Die Festsetzung kann von Amts wegen geändert werden Die Änderung ist nur innerhalb von sechs Monaten zulässig, nachdem die Entscheidung wegen des Hauptgegenstands Rechtskraft erlangt oder das Verfahren sich anderweitig erledigt hat.
+(3) Die Festsetzung kann von Amts wegen geändert werden
 
-1.
+1. von dem Gericht, das den Wert festgesetzt hat, und
 
-2.
+2. von dem Rechtsmittelgericht, wenn das Verfahren wegen des Hauptgegenstands oder wegen der Entscheidung über den Verfahrenswert, den Kostenansatz oder die Kostenfestsetzung in der Rechtsmittelinstanz schwebt.
 
 ### § 56 — Schätzung des Werts
 
@@ -488,9 +482,9 @@ Gegen den Beschluss des Familiengerichts nach § 32 findet die Beschwerde statt,
 
 (1) Auf die Rüge eines durch die Entscheidung beschwerten Beteiligten ist das Verfahren fortzuführen, wenn
 
-1.
+1. ein Rechtsmittel oder ein anderer Rechtsbehelf gegen die Entscheidung nicht gegeben ist und
 
-2.
+2. das Gericht den Anspruch dieses Beteiligten auf rechtliches Gehör in entscheidungserheblicher Weise verletzt hat.
 
 (2) Die Rüge ist innerhalb von zwei Wochen nach Kenntnis von der Verletzung des rechtlichen Gehörs zu erheben; der Zeitpunkt der Kenntniserlangung ist glaubhaft zu machen. Nach Ablauf eines Jahres seit Bekanntmachung der angegriffenen Entscheidung kann die Rüge nicht mehr erhoben werden. Formlos mitgeteilte Entscheidungen gelten mit dem vierten Tag nach Aufgabe zur Post als bekannt gemacht. Die Rüge ist bei dem Gericht zu erheben, dessen Entscheidung angegriffen wird; § 57 Abs. 4 Satz 1 und 2 gilt entsprechend. Die Rüge muss die angegriffene Entscheidung bezeichnen und das Vorliegen der in Absatz 1 Nr. 2 genannten Voraussetzungen darlegen.
 
@@ -514,11 +508,11 @@ Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, d
 
 Das Bundesministerium der Justiz kann nach Änderungen den Wortlaut des Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt machen. Die Bekanntmachung muss auf diese Vorschrift Bezug nehmen und angeben
 
-1.
+1. den Stichtag, zu dem der Wortlaut festgestellt wird,
 
-2.
+2. die Änderungen seit der letzten Veröffentlichung des vollständigen Wortlauts im Bundesgesetzblatt sowie
 
-3.
+3. das Inkrafttreten der Änderungen.
 
 ### § 63 — Übergangsvorschrift
 
@@ -538,142 +532,8 @@ Bis zum Erlass landesrechtlicher Vorschriften über die Höhe des Haftkostenbeit
 
 ### Anlage 1 — (zu § 3 Abs. 2)
 
-Teil 1 Gebühren
-
-Hauptabschnitt 1 Hauptsacheverfahren in Ehesachen einschließlich aller Folgesachen
-
-Hauptabschnitt 2 Hauptsacheverfahren in selbständigen Familienstreitsachen
-
-Hauptabschnitt 3 Hauptsacheverfahren in selbständigen Familiensachen der freiwilligen Gerichtsbarkeit
-
-Hauptabschnitt 4 Einstweiliger Rechtsschutz
-
-Hauptabschnitt 5 Besondere Gebühren
-
-Hauptabschnitt 6 Vollstreckung
-
-Hauptabschnitt 7 Verfahren mit Auslandsbezug
-
-Hauptabschnitt 8 Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör
-
-Hauptabschnitt 9 Rechtsmittel im Übrigen
-
-Teil 2 Auslagen
-
-1.
-
-a)
-
-b)
-
-c)
-
-2.
-
-3.
-
-4.
-
-1.
-
-a)
-
-b)
-
-2.
-
-3.
-
-4.
-
-1.
-
-a)
-
-b)
-
-c)
-
-2.
-
-3.
-
-4.
-
-1.
-
-a)
-
-b)
-
-2.
-
-3.
-
-4.
-
-1.
-
-2.
-
-3.
-
-1.
-
-2.
-
-3.
-
 (1) Im Verfahren zur Erwirkung eines Europäischen Beschlusses zur vorläufigen Kontenpfändung werden Gebühren nach diesem Hauptabschnitt nur im Fall des Artikels 5 Buchstabe a der Verordnung (EU) Nr. 655/2014 erhoben. In den Fällen des Artikels 5 Buchstabe b der Verordnung (EU) Nr. 655/2014 bestimmen sich die Gebühren nach den für die Zwangsvollstreckung geltenden Vorschriften des GKG.
 
 (2) Im Verfahren auf Erlass einer einstweiligen Anordnung und über deren Aufhebung oder Änderung werden die Gebühren nur einmal erhoben. Dies gilt entsprechend im Arrestverfahren und im Verfahren nach der Verordnung (EU) Nr. 655/2014.
-
-1.
-
-2.
-
-3.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-1.
-
-2.
-
-1.
-
-2.
-
-3.
-
-1.
-
-a)
-
-b)
-
-2.
-
-3.
-
-1.
-
-2.
-
-3.
-
-1.
-
-2.
 
 ### Anlage 2 — (zu § 28 Absatz 1 Satz 3)

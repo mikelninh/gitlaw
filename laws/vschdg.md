@@ -14,9 +14,9 @@
 
 (2) Unberührt von den Vorschriften dieses Gesetzes bleiben die Zuständigkeiten und Befugnisse nach
 
-1.
+1. den Rechtsvorschriften, die zur Umsetzung oder Durchführung der im Anhang der Verordnung (EU) 2017/2394 genannten Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union erlassen sind, oder
 
-2.
+2. den im Anhang der Verordnung (EU) 2017/2394 genannten unmittelbar geltenden Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union und nach den in ihrem Rahmen oder zu ihrer Durchführung erlassenen Rechtsvorschriften.
 
 (3) Die Befugnisse nach diesem Gesetz gelten nicht, soweit in anderen Rechtsvorschriften entsprechende oder weitergehende Regelungen vorgesehen sind.
 
@@ -24,45 +24,21 @@
 
 Für die Durchführung der Verordnung (EU) 2017/2394 sind bei Verstößen innerhalb der Union, weitverbreiteten Verstößen und weitverbreiteten Verstößen mit Unions-Dimension zuständig
 
-1.
+1. das Bundesamt für Justiz im Falle eines Verdachtes eines Verstoßes gegena)die in den Nummern 1, 3, 4, 6, 7, 9, 11, 14 bis 16, 20 bis 23, 25, 26 und 28 des Anhangs der Verordnung (EU) 2017/2394 genannten Rechtsakte und die zu ihrer Umsetzung oder Durchführung erlassenen Rechtsvorschriften,b)sonstige Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union und die zu ihrer Umsetzung oder Durchführung erlassenen Rechtsvorschriften, soweit die Rechtsakte in den Anwendungsbereich der Verordnung (EU) 2017/2394 einbezogen worden sind und dem Bundesamt für Justiz die Zuständigkeit durch Rechtsverordnung nach § 12 Absatz 1 übertragen worden ist, die in den Nummern 1, 3, 4, 6, 7, 9, 11, 14 bis 16, 20 bis 23, 25, 26 und 28 des Anhangs der Verordnung (EU) 2017/2394 genannten Rechtsakte und die zu ihrer Umsetzung oder Durchführung erlassenen Rechtsvorschriften, sonstige Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union und die zu ihrer Umsetzung oder Durchführung erlassenen Rechtsvorschriften, soweit die Rechtsakte in den Anwendungsbereich der Verordnung (EU) 2017/2394 einbezogen worden sind und dem Bundesamt für Justiz die Zuständigkeit durch Rechtsverordnung nach § 12 Absatz 1 übertragen worden ist,
 
-a)
+2. die Bundesanstalt für Finanzdienstleistungsaufsicht in Fällen der Nummer 1, soweit es sich um den Verdacht eines Verstoßesa)eines Unternehmens handelt, dasaa)eine Tätigkeit ausübt, die einer Erlaubnis nach § 8 Absatz 1, § 67 Absatz 1 oder § 236 Absatz 4 des Versicherungsaufsichtsgesetzes bedarf, und der Aufsicht der Bundesanstalt für Finanzdienstleistungsaufsicht untersteht oderbb)nach § 61 Absatz 1 des Versicherungsaufsichtsgesetzes im Inland eine Zweigniederlassung betreibt oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs tätig wird,b)eines Unternehmens handelt, dasaa)Bankgeschäfte betreibt oder Finanzdienstleistungen erbringt, die einer Erlaubnis nach § 32 Absatz 1 Satz 1 oder Absatz 1a des Kreditwesengesetzes bedürfen,bb)nach § 53b Absatz 1 oder Absatz 7 des Kreditwesengesetzes im Inland eine Zweigniederlassung betreibt oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs Bankgeschäfte betreibt oder Finanzdienstleistungen erbringt,cc)Wertpapierdienstleistungen oder Wertpapiernebendienstleistungen erbringt, die einer Erlaubnis nach § 15 Absatz 1, 3, 4 oder 6 des Wertpapierinstitutsgesetzes bedürfen, oderdd)nach § 73 Absatz 1 des Wertpapierinstitutsgesetzes im Inland eine Zweigniederlassung betreibt oder nach § 74 Absatz 1 des Wertpapierinstitutsgesetzes im Wege des grenzüberschreitenden Dienstleistungsverkehrs Wertpapierdienstleistungen oder Wertpapiernebendienstleistungen erbringt,und der Verdacht des Verstoßes sich auf die jeweilige Tätigkeit bezieht, eines Unternehmens handelt, dasaa)eine Tätigkeit ausübt, die einer Erlaubnis nach § 8 Absatz 1, § 67 Absatz 1 oder § 236 Absatz 4 des Versicherungsaufsichtsgesetzes bedarf, und der Aufsicht der Bundesanstalt für Finanzdienstleistungsaufsicht untersteht oderbb)nach § 61 Absatz 1 des Versicherungsaufsichtsgesetzes im Inland eine Zweigniederlassung betreibt oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs tätig wird, eine Tätigkeit ausübt, die einer Erlaubnis nach § 8 Absatz 1, § 67 Absatz 1 oder § 236 Absatz 4 des Versicherungsaufsichtsgesetzes bedarf, und der Aufsicht der Bundesanstalt für Finanzdienstleistungsaufsicht untersteht oder nach § 61 Absatz 1 des Versicherungsaufsichtsgesetzes im Inland eine Zweigniederlassung betreibt oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs tätig wird, eines Unternehmens handelt, dasaa)Bankgeschäfte betreibt oder Finanzdienstleistungen erbringt, die einer Erlaubnis nach § 32 Absatz 1 Satz 1 oder Absatz 1a des Kreditwesengesetzes bedürfen,bb)nach § 53b Absatz 1 oder Absatz 7 des Kreditwesengesetzes im Inland eine Zweigniederlassung betreibt oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs Bankgeschäfte betreibt oder Finanzdienstleistungen erbringt,cc)Wertpapierdienstleistungen oder Wertpapiernebendienstleistungen erbringt, die einer Erlaubnis nach § 15 Absatz 1, 3, 4 oder 6 des Wertpapierinstitutsgesetzes bedürfen, oderdd)nach § 73 Absatz 1 des Wertpapierinstitutsgesetzes im Inland eine Zweigniederlassung betreibt oder nach § 74 Absatz 1 des Wertpapierinstitutsgesetzes im Wege des grenzüberschreitenden Dienstleistungsverkehrs Wertpapierdienstleistungen oder Wertpapiernebendienstleistungen erbringt, Bankgeschäfte betreibt oder Finanzdienstleistungen erbringt, die einer Erlaubnis nach § 32 Absatz 1 Satz 1 oder Absatz 1a des Kreditwesengesetzes bedürfen, nach § 53b Absatz 1 oder Absatz 7 des Kreditwesengesetzes im Inland eine Zweigniederlassung betreibt oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs Bankgeschäfte betreibt oder Finanzdienstleistungen erbringt, Wertpapierdienstleistungen oder Wertpapiernebendienstleistungen erbringt, die einer Erlaubnis nach § 15 Absatz 1, 3, 4 oder 6 des Wertpapierinstitutsgesetzes bedürfen, oder nach § 73 Absatz 1 des Wertpapierinstitutsgesetzes im Inland eine Zweigniederlassung betreibt oder nach § 74 Absatz 1 des Wertpapierinstitutsgesetzes im Wege des grenzüberschreitenden Dienstleistungsverkehrs Wertpapierdienstleistungen oder Wertpapiernebendienstleistungen erbringt,
 
-b)
+2a. die Bundesanstalt für Finanzdienstleistungsaufsicht im Falle eines Verdachtes eines Verstoßes gegen die zur Umsetzung der in Nummer 24 des Anhangs der Verordnung (EU) 2017/2394 erlassenen Rechtsvorschriften,
 
-2.
+3. das Luftfahrt-Bundesamt im Falle eines Verdachtes eines Verstoßes gegen die in den Nummern 8 und 10 des Anhangs der Verordnung (EU) 2017/2394 genannten Rechtsakte und die zu ihrer Durchführung erlassenen Rechtsvorschriften,
 
-a)
+4. die nach Landesrecht zuständige Behörde in den Fällen der Nummer 1, soweit es sich um den Verdacht eines Verstoßes eines Unternehmens handelt, dasa)eine Tätigkeit ausübt, die einer Erlaubnis nach § 8 Absatz 1, § 67 Absatz 1 oder § 236 Absatz 4 des Versicherungsaufsichtsgesetzes bedarf, undb)der Aufsicht der zuständigen Landesbehörde untersteht,und der Verdacht des Verstoßes sich auf die Tätigkeit bezieht, eine Tätigkeit ausübt, die einer Erlaubnis nach § 8 Absatz 1, § 67 Absatz 1 oder § 236 Absatz 4 des Versicherungsaufsichtsgesetzes bedarf, und der Aufsicht der zuständigen Landesbehörde untersteht,
 
-aa)
+5. das Eisenbahn-Bundesamt im Fall eines Verdachts eines Verstoßes gegen die in den Nummern 13, 18 und 19 des Anhangs der Verordnung (EU) 2017/2394 genannten Rechtsakte und die zu ihrer Durchführung erlassenen Rechtsvorschriften,
 
-bb)
+6. die Bundesnetzagentur im Falle eines Verdachtes eines Verstoßes gegen die in den Nummern 12 und 27 des Anhangs der Verordnung (EU) 2017/2394 genannten Rechtsakte und die zu ihrer Durchführung erlassenen Rechtsvorschriften,
 
-b)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-2a.
-
-3.
-
-4.
-
-a)
-
-b)
-
-5.
-
-6.
-
-7.
+7. vorbehaltlich der Nummer 1 Buchstabe b die nach Landesrecht zuständige Behörde in den übrigen Fällen.
 
 ### § 3 — Zentrale Verbindungsstelle
 
@@ -87,11 +63,11 @@ Verbraucherinteressen
 
 (1) Für das Verwaltungsverfahren der Bundesbehörden gelten ergänzend die Vorschriften des Verwaltungsverfahrensgesetzes. Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-(2) Im Verwaltungsverfahren sind durch den Richter anzuordnen: Zuständig ist das Amtsgericht, in dessen Bezirk sich die zuständige Behörde befindet. Gegen die richterliche Entscheidung ist die Beschwerde zulässig; die §§ 306 bis 310 und 311a der Strafprozessordnung gelten entsprechend. Über die Durchsuchung ist eine Niederschrift zu fertigen. Sie muss Angaben zur verantwortlichen Dienststelle, zu Grund, Zeit und Ort der Durchsuchung und zu ihrem Ergebnis und, falls keine richterliche Anordnung ergangen ist, auch zu den Tatsachen, welche die Annahme einer Gefahr im Verzug begründet haben, enthalten. § 98 Absatz 2 der Strafprozessordnung gilt entsprechend.
+(2) Im Verwaltungsverfahren sind durch den Richter anzuordnen:
 
-1.
+1. Durchsuchungen von Geschäftsräumen und Personen und die Sicherstellung von Informationen, Datenträgern und Dokumenten gegen den Willen des Gewahrsaminhabers nach Artikel 9 Absatz 3 Buchstabe c der Verordnung (EU) 2017/2394 zur Verfolgung von Verstößen nach der Verordnung (EU) 2017/2394, außer bei Gefahr im Verzug,
 
-2.
+2. Durchsuchungen von Räumen, die als Wohnung dienen.
 
 (3) Bei Inanspruchnahme Dritter gilt § 23 Absatz 1 und 2 des Justizvergütungs- und ‑entschädigungsgesetzes entsprechend.
 
@@ -143,19 +119,19 @@ Die zuständige Behörde kann ihre Anordnungen nach den für die Vollstreckung v
 
 (2) Das Bundesministerium der Justiz und für Verbraucherschutz wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
-1.
+1. Verweisungen auf Vorschriften der Verordnung (EU) 2017/2394 in diesem Gesetz zu ändern, soweit es zur Anpassung an Änderungen dieser Vorschriften erforderlich ist,
 
-2.
+2. Vorschriften dieses Gesetzes zu streichen oder in ihrem Wortlaut einem verbleibenden Anwendungsbereich anzupassen, soweit sie durch den Erlass entsprechender Vorschriften in Verordnungen der Europäischen Gemeinschaft oder der Europäischen Union unanwendbar geworden sind.
 
 ## Abschnitt 5: Rechtsschutz bei bestimmten Verwaltungsmaßnahmen
 
 ### § 13 — Zulässigkeit, Zuständigkeit
 
-(1) Gegen eine Entscheidung nach der zuständigen Behörde ist die Beschwerde zulässig. Im Übrigen bleiben die Vorschriften über Rechtsbehelfe bei Verwaltungsmaßnahmen unberührt.
+(1) Gegen eine Entscheidung nach
 
-1.
+1. Artikel 9 Absatz 4 Buchstabe a, soweit es sich um die Anordnung einer Beseitigung oder Unterlassung handelt, Artikel 9 Absatz 4 Buchstabe e oder Artikel 9 Absatz 7 der Verordnung (EU) 2017/2394 oder
 
-2.
+2. § 10 oder § 11, soweit eine Entscheidung nach diesen Vorschriften in einem sachlichen Zusammenhang mit einer Entscheidung nach Nummer 1 steht,
 
 (2) Die zuständige Behörde hat einer Entscheidung im Sinne des Absatzes 1 Satz 1 eine Rechtsbehelfsbelehrung nach § 37 Absatz 6 des Verwaltungsverfahrensgesetzes beizufügen. § 58 der Verwaltungsgerichtsordnung gilt entsprechend.
 
@@ -173,11 +149,11 @@ Die zuständige Behörde kann ihre Anordnungen nach den für die Vollstreckung v
 
 (4) Auf Antrag kann das Beschwerdegericht die aufschiebende Wirkung ganz oder teilweise wiederherstellen, soweit
 
-1.
+1. die Voraussetzungen für die Anordnung nach Absatz 2 nicht vorgelegen haben oder nicht mehr vorliegen,
 
-2.
+2. ernstliche Zweifel an der Rechtmäßigkeit der angefochtenen Entscheidung bestehen oder
 
-3.
+3. die Vollziehung für den Betroffenen eine unbillige, nicht durch überwiegende öffentliche Interessen gebotene Härte zur Folge hätte.
 
 (5) Der Antrag nach Absatz 4 ist schon vor Einreichung der Beschwerde zulässig. Die Tatsachen, auf die der Antrag gestützt wird, sind vom Antragsteller glaubhaft zu machen. Ist die Entscheidung der zuständigen Behörde schon vollzogen, kann das Beschwerdegericht auch die Aufhebung der Vollziehung anordnen. Die Wiederherstellung und die Anordnung der aufschiebenden Wirkung können von der Leistung einer Sicherheit oder von anderen Auflagen abhängig gemacht werden. Sie können auch befristet werden.
 
@@ -199,9 +175,9 @@ Die zuständige Behörde kann ihre Anordnungen nach den für die Vollstreckung v
 
 (4) Die Beschwerdebegründung muss enthalten
 
-1.
+1. die Erklärung, inwieweit die Entscheidung angefochten und ihre Abänderung oder Aufhebung beantragt wird,
 
-2.
+2. die Angabe der Tatsachen und Beweismittel, auf die sich die Beschwerde stützt.
 
 (5) Die Beschwerdeschrift und die Beschwerdebegründung müssen durch einen bei einem deutschen Gericht zugelassenen Rechtsanwalt oder Rechtslehrer an einer deutschen Hochschule im Sinne des Hochschulrahmengesetzes mit Befähigung zum Richteramt unterzeichnet sein.
 
@@ -209,11 +185,11 @@ Die zuständige Behörde kann ihre Anordnungen nach den für die Vollstreckung v
 
 An dem Verfahren vor dem Beschwerdegericht sind beteiligt
 
-1.
+1. der Beschwerdeführer,
 
-2.
+2. die zuständige Behörde,
 
-3.
+3. Personen und Personenvereinigungen, deren Interessen durch die Entscheidung erheblich berührt werden und die das Beschwerdegericht auf ihren Antrag zu dem Verfahren beigeladen hat; Interessen der Verbraucherzentralen und anderer Verbraucherverbände, die mit öffentlichen Mitteln gefördert werden, werden auch dann erheblich berührt, wenn sich die Entscheidung auf eine Vielzahl von Verbrauchern auswirkt und dadurch die Interessen der Verbraucher insgesamt erheblich berührt werden.
 
 ### § 17 — Anwaltszwang
 
@@ -253,11 +229,11 @@ Vor dem Beschwerdegericht müssen die Beteiligten sich durch einen bei einem deu
 
 ### § 22 — Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung
 
-Im Verfahren vor dem Beschwerdegericht gelten ergänzend, soweit nichts anderes bestimmt ist, Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind entsprechend anzuwenden.
+Im Verfahren vor dem Beschwerdegericht gelten ergänzend, soweit nichts anderes bestimmt ist,
 
-1.
+1. die Vorschriften der §§ 169 bis 197 des Gerichtsverfassungsgesetzes über Öffentlichkeit und Sitzungspolizei, Gerichtssprache, Beratung und Abstimmung;
 
-2.
+2. die Vorschriften der Zivilprozessordnung, insbesondere über Ausschließung und Ablehnung eines Richters, über Prozessbevollmächtigte und Beistände, über die Zustellung von Amts wegen, über Ladungen, Termine und Fristen, über die Anordnung des persönlichen Erscheinens der Parteien, über die Verbindung mehrerer Prozesse, über die Erledigung des Zeugen- und Sachverständigenbeweises sowie über die sonstigen Arten des Beweisverfahrens, über die Wiedereinsetzung in den vorigen Stand gegen die Versäumung einer Frist, entsprechend.
 
 ### § 23 — Einstweilige Anordnung
 
@@ -275,25 +251,25 @@ Im Verfahren vor dem Beschwerdegericht gelten ergänzend, soweit nichts anderes 
 
 (2) Die Rechtsbeschwerde ist zuzulassen, wenn
 
-1.
+1. eine Rechtsfrage von grundsätzlicher Bedeutung zu entscheiden ist oder
 
-2.
+2. die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Bundesgerichtshofs erfordert.
 
 (3) Über die Zulassung oder Nichtzulassung der Rechtsbeschwerde ist in der Entscheidung des Landgerichts zu befinden. Die Nichtzulassung ist zu begründen.
 
 (4) Einer Zulassung zur Einlegung der Rechtsbeschwerde gegen Entscheidungen des Beschwerdegerichts bedarf es nicht, wenn einer der folgenden Mängel des Verfahrens vorliegt und gerügt wird:
 
-1.
+1. das beschließende Gericht war nicht vorschriftsmäßig besetzt,
 
-2.
+2. bei der Entscheidung hat ein Richter mitgewirkt, der von der Ausübung des Richteramtes kraft Gesetzes ausgeschlossen oder wegen Besorgnis der Befangenheit mit Erfolg abgelehnt war,
 
-3.
+3. einem Beteiligten war das rechtliche Gehör versagt,
 
-4.
+4. ein Beteiligter im Verfahren war nicht nach Vorschrift des Gesetzes vertreten, soweit er nicht der Führung des Verfahrens ausdrücklich oder stillschweigend zugestimmt hat,
 
-5.
+5. die Entscheidung ist auf Grund einer mündlichen Verhandlung ergangen, bei der die Vorschriften über die Öffentlichkeit des Verfahrens verletzt worden sind, oder
 
-6.
+6. die Entscheidung ist nicht mit Gründen versehen.
 
 ### § 25 — Nichtzulassungsbeschwerde
 
@@ -325,11 +301,11 @@ Im Beschwerdeverfahren und im Rechtsbeschwerdeverfahren kann das Gericht anordne
 
 ### § 28 — Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
 
-(1) Auf die Rüge eines durch eine gerichtliche Entscheidung beschwerten Beteiligten ist das Verfahren fortzuführen, wenn Gegen eine der Endentscheidung vorausgehende Entscheidung findet die Rüge nicht statt.
+(1) Auf die Rüge eines durch eine gerichtliche Entscheidung beschwerten Beteiligten ist das Verfahren fortzuführen, wenn
 
-1.
+1. ein Rechtsmittel oder ein anderer Rechtsbehelf gegen die Entscheidung nicht gegeben ist und
 
-2.
+2. das Gericht den Anspruch dieses Beteiligten auf rechtliches Gehör in entscheidungserheblicher Weise verletzt hat.
 
 (2) Die Rüge ist innerhalb von zwei Wochen nach Kenntnis von der Verletzung des rechtlichen Gehörs zu erheben; der Zeitpunkt der Kenntniserlangung ist glaubhaft zu machen. Nach Ablauf eines Jahres seit Bekanntgabe der angegriffenen Entscheidung kann die Rüge nicht mehr erhoben werden. Formlos mitgeteilte Entscheidungen gelten mit dem vierten Tage nach Aufgabe zur Post als bekannt gegeben. Die Rüge ist schriftlich oder zur Niederschrift des Urkundsbeamten der Geschäftsstelle bei dem Gericht zu erheben, dessen Entscheidung angegriffen wird. Die Rüge muss die angegriffene Entscheidung bezeichnen und das Vorliegen der in Absatz 1 Satz 1 Nr. 2 genannten Voraussetzungen darlegen.
 

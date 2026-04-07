@@ -20,11 +20,9 @@ Auf Grund des § 3 Abs. 1 des Allgemeinen Eisenbahngesetzes vom 29. März 1951 (
 
 (2) Die Strecken werden entsprechend ihrer Bedeutung nach Hauptbahnen und Nebenbahnen unterschieden. Die Entscheidung darüber, welche Strecken Hauptbahnen und welche Nebenbahnen sind, treffen
 
-1.
+1. für die Eisenbahnen des Bundes das jeweilige Unternehmen,
 
-2.
-
-(3) Die in voller Breite einer Seite gedruckten Vorschriften dieser Verordnung gelten für Haupt- und Nebenbahnen,
+2. für Eisenbahnen, die nicht zum Netz der Eisenbahnen des Bundes gehören (nichtbundeseigene Eisenbahnen), die zuständige Landesbehörde.
 
 (4) Die Vorschriften für Neubauten gelten auch für umfassende Umbauten bestehender Bahnanlagen und Fahrzeuge; sie sollen auch bei der Unterhaltung und Erneuerung berücksichtigt werden.
 
@@ -38,39 +36,29 @@ Auf Grund des § 3 Abs. 1 des Allgemeinen Eisenbahngesetzes vom 29. März 1951 (
 
 (4) Anweisungen zur ordnungsgemäßen Erstellung und Unterhaltung der Bahnanlagen und Fahrzeuge sowie zur Durchführung des sicheren Betriebs können erlassen
 
-1.
+1. für die Eisenbahnen des Bundes und für Eisenbahnverkehrsunternehmen mit Sitz im Ausland das Eisenbahn-Bundesamt,
 
-2.
+2. für die nichtbundeseigenen Eisenbahnen die zuständige Landesbehörde.
 
 ### § 3 — Ausnahmen, Genehmigungen
 
 (1) Ausnahmen können zulassen
 
-1.
+1. von allen Vorschriften dieser Verordnung zur Berücksichtigung besonderer Verhältnissea)für Eisenbahnen des Bundes sowie für Eisenbahnverkehrsunternehmen mit Sitz im Ausland das Bundesministerium für Verkehr und digitale Infrastruktur; die zuständigen Landesbehörden sind zu unterrichten, wenn die Einheit des Eisenbahnwesens berührt wird;b)für die nichtbundeseigenen Eisenbahnen die zuständige Landesbehörde im Benehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur, für Eisenbahnen des Bundes sowie für Eisenbahnverkehrsunternehmen mit Sitz im Ausland das Bundesministerium für Verkehr und digitale Infrastruktur; die zuständigen Landesbehörden sind zu unterrichten, wenn die Einheit des Eisenbahnwesens berührt wird; für die nichtbundeseigenen Eisenbahnen die zuständige Landesbehörde im Benehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur,
 
-a)
-
-b)
-
-2.
-
-a)
-
-b)
+2. im übrigen, soweit Ausnahmen in den Vorschriften dieser Verordnung unter Hinweis auf diesen Absatz ausdrücklich vorgesehen sind,a)für Eisenbahnen des Bundes sowie für Eisenbahnverkehrsunternehmen mit Sitz im Ausland das Eisenbahn-Bundesamt,b)für die nichtbundeseigenen Eisenbahnen die zuständige Aufsichtsbehörde. für Eisenbahnen des Bundes sowie für Eisenbahnverkehrsunternehmen mit Sitz im Ausland das Eisenbahn-Bundesamt, für die nichtbundeseigenen Eisenbahnen die zuständige Aufsichtsbehörde.
 
 (2) Genehmigungen, die in den Vorschriften dieser Verordnung unter Hinweis auf diesen Absatz vorgesehen sind, erteilen
 
-1.
+1. für Eisenbahnen des Bundes sowie für Eisenbahnverkehrsunternehmen mit Sitz im Ausland das Eisenbahn-Bundesamt,
 
-2.
+2. für die nichtbundeseigenen Eisenbahnen die zuständige Landesbehörde.
 
 ### § 3a — Grenzbetriebsstrecken und Durchgangsstrecken
 
 (1) Auf Grenzbetriebsstrecken und Durchgangsstrecken dürfen anstelle der Vorschriften des zweiten bis fünften Abschnitts mit Ausnahme des § 11 die entsprechenden Vorschriften des Nachbarstaates angewendet werden.
 
 (2) Zur Gewährleistung eines sicheren und flüssigen Eisenbahnbetriebs auf Grenzbetriebsstrecken und Durchgangsstrecken kann das Eisenbahninfrastrukturunternehmen neben Deutsch die Betriebssprache des angrenzenden ausländischen Eisenbahninfrastrukturunternehmens als zweite Betriebssprache zulassen.
-
-(3) Auf Grenzbetriebsstrecken und Durchgangsstrecken, auf denen das Eisenbahninfrastrukturunternehmen neben Deutsch eine zweite Betriebssprache zugelassen hat, müssen sich die Fahrdienstleiter in Deutsch und in der zweiten zugelassenen Betriebssprache jeweils auf dem Niveau B 1 des Gemeinsamen europäischen Referenzrahmens für Sprachen mündlich und schriftlich verständigen können.
 
 (4) Auf Grenzbetriebsstrecken und Durchgangsstrecken können abweichend von Absatz 3 die bis zum Ablauf des 2. Dezember 2015 bestehenden örtlichen, zwischen den Eisenbahnen, den zuständigen Behörden oder den Staaten abgeschlossenen Vereinbarungen zur Nutzung der Sprache eines Nachbarstaates weiter angewendet werden.
 
@@ -106,36 +94,17 @@ b)
 
 (2) Das Grundmaß der Spurweite beträgt 1.435 mm.
 
-(3) Die Spurweite darf nicht größer sein als 
-	 sie darf nicht kleiner sein als 1.430 mm.
-
-(4) In Bogen mit Radien unter 175 m darf die Spurweite folgende Werte nicht unterschreiten:
-
 ### § 6 — Gleisbogen
-
-(1) Der Bogenradius in durchgehenden Hauptgleisen soll bei Neubauten nicht weniger als 
-	 betragen.
 
 (2) Die Richtung durchgehender Hauptgleise darf sich in der Regel nur stetig ändern. Wo erforderlich, sind Übergangsbogen anzulegen.
 
 (3) In den Bogen der durchgehenden Hauptgleise muß in der Regel die äußere Schiene höher liegen als die innere (Überhöhung). Die Überhöhung ist in Abhängigkeit von der Beschaffenheit des Oberbaus, von der Bauart der Fahrzeuge sowie von der Ladung und deren Sicherung festzulegen; sie darf unter Einbeziehung der sich im Betrieb einstellenden Abweichungen 180 mm nicht überschreiten.
 
-(4) Jede Änderung der Überhöhung ist durch eine Überhöhungsrampe zu vermitteln, deren Neigung nicht größer sein darf als
-
 ### § 7 — Gleisneigung
-
-(1) Die Längsneigung auf freier Strecke soll bei Neubauten 
-		 nicht überschreiten.
-
-(2) Die Längsneigung von Bahnhofsgleisen, ausgenommen Rangiergleise und solche Bahnhofsgleise, in denen die Güterzüge durch Schwerkraft aufgelöst oder gebildet werden, soll bei Neubauten 2,5v.T. nicht überschreiten.
 
 (3) Neigungswechsel in Hauptgleisen sind auszurunden.
 
 ### § 8 — Belastbarkeit des Oberbaus und der Bauwerke
-
-(1) Oberbau und Bauwerke müssen Fahrzeuge mit der jeweils zugelassenen Radsatzlast und dem jeweils zugelassenen Fahrzeuggewicht je Längeneinheit bei der zugelassenen Geschwindigkeit aufnehmen können, mindestens aber Fahrzeuge
-
-(2) Der Oberbau muß beim Neubau und bei der Erneuerung zusammenhängender Gleisabschnitte so hergestellt werden, daß er Radsatzlasten von aufnehmen kann.
 
 (3) Bauwerke müssen beim Neubau und bei der Erneuerung mindestens für Radsatzlasten von 25 t und für Fahrzeuggewichte je Längeneinheit von 8 t/m bemessen werden. Bauwerke unter Gleisen, auf denen ausschließlich Stadtschnellbahnen verkehren, dürfen für geringere Lasten bemessen werden, mindestens jedoch für Radsatzlasten von 20 t und für Fahrzeuggewichte je Längeneinheit von 6 t/m.
 
@@ -169,55 +138,37 @@ b)
 
 (3) Auf Bahnübergängen hat der Eisenbahnverkehr Vorrang vor dem Straßenverkehr. Der Vorrang ist durch Aufstellen von Andreaskreuzen (Anlage 5 Bild 1) zu kennzeichnen. Dies ist nicht erforderlich an Bahnübergängen von
 
-1.
+1. Feld- und Waldwegen, wenn die Bahnübergänge ausreichend erkennbar sind,
 
-2.
+2. Fußwegen,
 
-3.
+3. Privatwegen ohne öffentlichen Verkehr, die als solche gekennzeichnet sind,
 
-4.
+4. anderen Straßen und Wegen über Nebengleise, wenn die Bahnübergänge für das Befahren mit Eisenbahnfahrzeugen durch Posten vom Straßenverkehr freigehalten werden.
 
 (4) Die Andreaskreuze sind an den Stellen anzubringen, vor denen Straßenfahrzeuge und Tiere angehalten werden müssen, wenn der Bahnübergang nicht überquert werden darf.
 
 (5) An Bahnübergängen in Hafen- und Industriegebieten darf auf das Aufstellen von Andreaskreuzen verzichtet werden, wenn an den Einfahrten Andreaskreuze mit dem Zusatzschild "Hafengebiet, Schienenfahrzeuge haben Vorrang" oder "Industriegebiet, Schienenfahrzeuge haben Vorrang" angebracht sind. Dies gilt nicht für Bahnübergänge, die nach Absatz 6 technisch gesichert sind.
 
-(6) Bahnübergänge sind durch technisch zu sichern, soweit nachstehend keine andere Sicherung zugelassen ist. Als neue technische Sicherungen sollen Blinklichter und Blinklichter mit Halbschranken nicht mehr verwendet werden.
+(6) Bahnübergänge sind durch
 
-1.
+1. Lichtzeichen (Anlage 5 Bild 2) oder Blinklichter (Anlage 5 Bild 4) oder
 
-2.
+2. Lichtzeichen mit Halbschranken (Anlage 5 Bild 3) oder Blinklichter mit Halbschranken (Anlage 5 Bild 5) oder
 
-3.
+3. Lichtzeichen mit Schranken (Anlage 5 Bild 3) oder
 
-4.
+4. Schranken
 
-1.
+1. bei schwachem Verkehr (Absatz 13) durch die Übersicht auf die Bahnstrecke (Absatz 12) oder bei fehlender Übersicht auf die Bahnstrecke an eingleisigen Bahnen durch hörbare Signale der Eisenbahnfahrzeuge (Absatz 18), wenn die Geschwindigkeit der Eisenbahnfahrzeuge am Bahnübergang höchstens 20 km/h - an Bahnübergängen von Feld- und Waldwegen höchstens 60 km/h - beträgt;
 
-2.
+2. bei mäßigem Verkehr (Absatz 13) und eingleisigen Bahnen durch die Übersicht auf die Bahnstrecke in Verbindung mit hörbaren Signalen der Eisenbahnfahrzeuge (Absatz 18) oder bei fehlender Übersicht auf die Bahnstrecke - mit besonderer Genehmigung (§ 3 Abs. 2) - durch hörbare Signale der Eisenbahnfahrzeuge, wenn die Geschwindigkeit der Eisenbahnfahrzeuge am Bahnübergang höchstens 20 km/h - an Bahnübergängen von Feld- und Waldwegen höchstens 60 km/h - beträgt.
 
-(9) Bahnübergänge von Fuß- und Radwegen dürfen durch die Übersicht auf die Bahnstrecke (Absatz 12) oder durch hörbare Signale der Eisenbahnfahrzeuge (Absatz 18) gesichert werden. Außerdem Umlaufsperren oder ähnlich wirkende Einrichtungen angebracht sein.
+(10) Bahnübergänge von Privatwegen
 
-(10) Bahnübergänge von Privatwegen Abschlüsse (z. B. Sperrbalken, Tore) sind von demjenigen, dem die Verkehrssicherungspflicht obliegt, verschlossen, mit besonderer Genehmigung (§ 3 Abs. 2) nur geschlossen zu halten.
+a) durch die Übersicht auf die Bahnstrecke (Absatz 12) und Abschlüsse oder
 
-a)
-
-b)
-
-1.
-
-a)
-
-b)
-
-c)
-
-d)
-
-2.
-
-a)
-
-b)
+b) durch Abschlüsse in Verbindung mit einer Sprechanlage zum zuständigen Betriebsbeamten.
 
 (11) Eine Sicherung nach den Absätzen 6 bis 10 ist nicht erforderlich, wenn der Bahnübergang durch Posten gesichert wird. Der Posten hat die Wegebenutzer so lange durch Zeichen anzuhalten, bis das erste Eisenbahnfahrzeug etwa die Straßenmitte erreicht hat.
 
@@ -225,21 +176,21 @@ b)
 
 (13) Bahnübergänge haben
 
-1.
+1. schwachen Verkehr, wenn sie neben anderem Verkehr in der Regel innerhalb eines Tages von höchstens 100 Kraftfahrzeugen überquert werden,
 
-2.
+2. mäßigen Verkehr, wenn sie neben anderem Verkehr in der Regel innerhalb eines Tages von mehr als 100 bis zu 2.500 Kraftfahrzeugen überquert werden,
 
-3.
+3. starken Verkehr, wenn sie neben anderem Verkehr in der Regel innerhalb eines Tages von mehr als 2.500 Kraftfahrzeugen überquert werden.
 
 (14) Weisen Bahnübergänge während bestimmter Jahreszeiten oder an bestimmten Tagen abweichend von der Einstufung nach Absatz 13 eine höhere Verkehrsstärke auf, so müssen sie, haben sie eine niedrigere Verkehrsstärke, so dürfen sie während dieser Zeiten entsprechend gesichert werden.
 
 (15) Das Schließen der Schranken - ausgenommen Anrufschranken (Absatz 17) - ist auf den Straßenverkehr abzustimmen
 
-1.
+1. durch Lichtzeichen oder
 
-2.
+2. durch mittelbare oder unmittelbare Sicht des Schrankenwärters oder
 
-3.
+3. bei schwachem oder mäßigem Verkehr durch hörbare Zeichen.
 
 (16) Bahnübergänge mit Schranken - ausgenommen Anrufschranken (Absatz 17) und Schranken an Fuß- und Radwegen - müssen von der Bedienungsstelle aus mittelbar oder unmittelbar eingesehen werden können. Dies ist nicht erforderlich, wenn das Schließen der Schranken durch Lichtzeichen auf den Straßenverkehr abgestimmt und das Freisein des Bahnüberganges durch technische Einrichtungen festgestellt wird.
 
@@ -255,17 +206,15 @@ b)
 
 (2) Wie bei höhengleichen Kreuzungen von Schienenbahnen der Betrieb zu führen ist, bestimmen
 
-1.
+1. für Eisenbahnen des Bundes das Eisenbahn-Bundesamt,
 
-2.
+2. für die nichtbundeseigenen Eisenbahnen die zuständige Landesbehörde.
 
 ### § 13 — Bahnsteige, Rampen
 
 (1) Bei Neubauten oder umfassenden Umbauten von Personenbahnsteigen sollen in der Regel die Bahnsteigkanten auf eine Höhe von 0,76 m über Schienenoberkante gelegt werden; Höhen von unter 0,38 m und über 0,96 m sind unzulässig. Bahnsteige, an denen ausschließlich Stadtschnellbahnen halten, sollen auf eine Höhe von 0,96 m über Schienenoberkante gelegt werden. In Gleisbogen ist auf die Überhöhung Rücksicht zu nehmen.
 
 (2) Feste Gegenstände auf Personenbahnsteigen (Säulen und dergleichen) müssen bis zu einer Höhe von 3,05 m über Schienenoberkante mindestens 3,00 m von Gleismitte entfernt sein. Bei bestehenden Anlagen mit geringem Verkehr darf das Maß von 3,00 m bis auf 2,70 m unterschritten werden; Ausnahmen von diesem Mindestmaß sind zulässig (§ 3 Abs. 1 Nr. 2).
-
-(4) Für den Schutz der Reisenden, die Übergänge (§ 11 Abs. 1 Satz 2) überschreiten müssen, ist zu sorgen.
 
 (5) Seitenrampen, an denen Güterwagen mit nach außen aufschlagenden Türen be- oder entladen werden sollen, dürfen nicht höher als 1,10 m sein. Die Höhe darf 1,00 m nicht überschreiten, wenn dort nach außen aufschlagende Einsteigetüren von Reisezugwagen geöffnet werden müssen. Andere Seitenrampen zum Be- oder Entladen von Wagen dürfen - ausgenommen an Hauptgleisen - bis zu 1,20 m über Schienenoberkante hoch sein.
 
@@ -275,59 +224,33 @@ b)
 
 (1) Ist nach den Vorschriften dieser Verordnung die Anwendung von Signalen vorgesehen, so dürfen nur die in der Eisenbahn-Signalordnung vorgeschriebenen Signale benutzt werden. Den Signalen am Fahrweg sind entsprechende Anzeigen im Führerraum gleichgestellt; sie dürfen die Signale am Fahrweg ersetzen.
 
-(2) Die Einfahrten in Bahnhöfe sind durch Hauptsignale (Einfahrsignale) zu sichern. Ausnahmen sind zulässig (§ 3 Abs. 1 Nr. 2).
-
-(3) Die Ausfahrten aus Bahnhöfen sind durch Hauptsignale (Ausfahrsignale) zu sichern. Ausnahmen sind zulässig (§ 3 Abs. 1 Nr. 2).
-
 (4) Die Grundstellung für Hauptsignale ist die Stellung "Zughalt". Eine andere Stellung ist zulässig
 
-1.
+1. für Hauptsignale in Streckenabschnitten mit selbsttätiger Streckenblockung,
 
-2.
-
-(5) Blockstellen, Abzweigstellen, Überleitstellen und Gleisverschlingungen sind durch Hauptsignale
+2. für Hauptsignale von Betriebsstellen, die für längere Dauer oder in regelmäßig wiederkehrenden Zeitabschnitten an der Regelung der Zugfolge nicht beteiligt
 
 (6) Bewegliche Brücken sind örtlich durch Signale so zu sichern, daß die Signale in der Haltstellung verschlossen sind, solange die Brücke entriegelt ist, und daß die Brücke bei Fahrtstellung der Signale nicht entriegelt werden kann.
 
 (7) Höhengleiche Kreuzungen zweier Schienenbahnen, die dieser Verordnung unterstehen, sind durch Hauptsignale in gegenseitiger Abhängigkeit zu sichern. Untersteht eine der Bahnen nicht dieser Verordnung, so ist mit der Zulassung (§ 3 Abs. 2) der Kreuzung zu bestimmen, ob und wie sie zu sichern ist.
 
-(8) Auf der freien Strecke liegende und damit zusammenhängende Gleiskreuzungen sind durch Signale zu sichern. Anschlußstellen können auch durch Signale benachbarter Zugfolgestellen gesichert werden, wenn zwischen Anschlußweichen, Flankenschutzeinrichtungen und Signalen Abhängigkeit besteht.
-
-(9) Weichen, die gegen die Spitze befahren werden, müssen von den für die Zugfahrt gültigen Signalen derart abhängig sein, daß die Signale nur dann in Fahrtstellung gebracht werden können, wenn die Weichen für den Fahrweg richtig liegen und verschlossen sind (Signalabhängigkeit). Hierbei sind ferngestellte Weichen, die von Reisezügen gegen die Spitze befahren werden, gegen Umstellen unter dem Zug festzulegen oder einzeln zu sichern.
-
-(10) Ist die Signalabhängigkeit von Weichen, die von Zügen gegen die Spitze befahren werden, vorübergehend aufgehoben oder so sind sie technisch zu sichern oder zu bewachen.
-
-(11) Für
-
-(12) Mit den Einfahrsignalen und den Hauptsignalen auf der freien Strecke sind Vorsignale Ausnahmen sind zulässig (§ 3 Abs. 1 Nr. 2).
-
 (13) Der Abstand zwischen dem Hauptsignal und dem zugehörigen Vorsignal soll mindestens so groß sein wie der zugelassene größte Bremsweg (§ 35 Abs. 4). Kürzere Vorsignalabstände sind zulässig, wenn dies aus örtlichen Gründen nicht zu umgehen ist; bei Verkürzungen um mehr als 5% müssen besondere Bremstafeln für den jeweils vorhandenen Vorsignalabstand (Bremsweg) aufgestellt sein.
 
-(14) Das Hauptsignal "Langsamfahrt" ist durch das Vorsignal "Langsamfahrt erwarten" Hiervon kann bei Ausfahrsignalen an Ausweichgleisen, auf denen keine Durchfahrten zugelassen sind, abgesehen werden.
-
 (15) Für nicht an ein Gleisbildstellwerk angeschlossene Weichen ist eine Grundstellung zu bestimmen, wenn Fahrten über diese Weichen Fahrten auf den Hauptgleisen gefährden können.
-
-(16) Weichen in Hauptgleisen müssen mit Weichensignalen versehen sein, wenn sie von den für die Zugfahrt gültigen Signalen nicht abhängig
 
 (17) Zwischen zusammenlaufenden Gleisen muß ein Grenzzeichen vorhanden sein, bis zu dem ein Gleis ohne Gefährdung von Fahrzeugen im Nachbargleis besetzt sein darf. Der Mindestgleisabstand am Grenzzeichen ergibt sich aus Anlage 4. Bei ungünstigen örtlichen Verhältnissen darf statt des Grenzzeichens eine andere Kennzeichnung verwendet werden.
 
 ### § 15 — Streckenblock, Zugbeeinflussung
 
-1.
+1. mehrere Züge gleichzeitig verkehren und
 
-2.
+2. Reisezugverkehr stattfindet oder mehr als 50 km/h zugelassen sind,
 
 (4) Für weitere Strecken können die zuständigen Eisenbahnaufsichtsbehörden die Ausrüstung mit Zugbeeinflussung oder technischen Einrichtungen vorschreiben, wenn die örtlichen Verhältnisse oder eine besondere Gefahrensituation dies erfordern.
 
 ### § 16 — Fernmeldeanlagen
 
-1.
-
-2.
-
-a)
-
-b)
+1. Strecken, auf denen mehr als 160 km/h zugelassen sind,
 
 ### § 17 — Untersuchen und Überwachen der Bahnanlagen
 
@@ -350,8 +273,6 @@ b)
 (5) Die Wagen werden eingeteilt in Reisezugwagen und Güterwagen. Zu den Reisezugwagen zählen Personen-, Reisezuggepäck-, Autoreisezug- und Postwagen. Zu den Güterwagen zählen auch die Güterzuggepäckwagen.
 
 ### § 19 — Radsatzlasten und Fahrzeuggewichte je Längeneinheit
-
-(1) Bei stillstehenden Fahrzeugen, deren Radsatzabstände 1.500 mm nicht unterschreiten, sind Radsatzlasten               bis zu 18 t     I         bis zu 16 tzulässig. Höhere Radsatzlasten und Fahrzeuggewichte je Längeneinheit sind zulässig, wenn sie vom Oberbau und von den Bauwerken sicher aufgenommen werden können. Bei Radsatzabständen unter 1.500 mm sind die zulässigen Radsatzlasten und Fahrzeuggewichte je Längeneinheit entsprechend der Belastbarkeit des Oberbaus und der Bauwerke einzuschränken.
 
 (2) Die Radsatzlast ist der auf einen Radsatz, das Fahrzeuggewicht je Längeneinheit ist der auf 1,00 m Fahrzeuglänge (Länge über Puffer gemessen) entfallende Anteil der Gesamtlast.
 
@@ -381,9 +302,9 @@ b)
 
 (4) Für gesenkte Stromabnehmer gilt die Bezugslinie, die dem Fahrzeug zugrunde liegt. Stromabnehmer in Arbeitsstellung müssen
 
-1.
+1. die Grenzlinie bei Oberleitung (Anlage 3) einhalten oder
 
-2.
+2. an Gleisen mit Stromschiene innerhalb des Raumes nach § 9 Abs. 4 bleiben.
 
 (5) Signalmittel und Rückspiegel dürfen die Fahrzeugbreite beiderseits um höchstens 50 mm überschreiten.
 
@@ -441,31 +362,27 @@ b)
 
 (1) Triebfahrzeuge und andere führende Fahrzeuge müssen folgende Ausrüstung haben:
 
-1.
+1. Einrichtungen zum Geben hörbarer Signale,
 
-2.
+2. Bahnräumer,
 
-3.
+3. Geschwindigkeitsanzeiger,
 
-4.
+4. Zugbeeinflussung, durch die ein Zug selbsttätig zum Halten gebracht und bei Fahrzeugen mit einer zulässigen Geschwindigkeit von mehr als 30 km/h ein unzulässiges Anfahren gegen Halt zeigende Signale überwacht werden kann, wenn die Fahrzeuge auf Strecken mit Zugbeeinflussung nach § 15 Absatz 2 Satz 1 verkehren,
 
-4a.
+4a. Zugbeeinflussung, durch die ein Zug selbsttätig zum Halten gebracht werden kann, wenn die Fahrzeuge auf Strecken mit Zugbeeinflussung nach § 15 Absatz 2 Satz 2 verkehren,
 
-4b.
+4b. technische Einrichtung, durch die ein Zug selbsttätig zum Halten gebracht werden kann, wenn die Fahrzeuge auf Strecken mit technischen Einrichtungen nach § 15 Absatz 2 Satz 3 verkehren,
 
-4c.
+4c. Zugbeeinflussung oder technische Einrichtung, durch die ein Zug selbsttätig zum Halten gebracht werden kann, wenn die Fahrzeuge auf Strecken mit Zugbeeinflussung oder technischen Einrichtungen verkehren, auf denen eine solche Ausrüstung nach § 15 Absatz 4 vorgeschrieben worden ist,
 
-5.
+5. Zugbeeinflussung, durch die ein Zug selbsttätig zum Halten gebracht und außerdem geführt werden kann, wenn die zulässige Geschwindigkeit der Fahrzeuge mehr als 160 km/h beträgt,
 
-6.
+6. Sicherheitsfahrschaltung, die bei Geschwindigkeiten von 20 km/h und mehr anspricht und bei Dienstunfähigkeit des Triebfahrzeugführers selbsttätig das Anhalten des Zuges oder der Rangierfahrt bewirkt. Bei vorhandenen Kleinlokomotiven ist diese Ausrüstung nur erforderlich, wenn das Fahrzeug in Zügen mit dem Triebfahrzeugführer oder Bediener allein besetzt werden soll,
 
-7.
+7. Zugfunkeinrichtungen, wenna)die zulässige Geschwindigkeit der Fahrzeuge mehr als 100 km/h beträgt oderb)die Fahrzeuge auf Strecken nach § 16 Abs. 4 Nr. 2 verkehren, die zulässige Geschwindigkeit der Fahrzeuge mehr als 100 km/h beträgt oder die Fahrzeuge auf Strecken nach § 16 Abs. 4 Nr. 2 verkehren,
 
-a)
-
-b)
-
-8.
+8. Funkenfänger und verschließbare Aschkasten, wenn feste Brennstoffe verfeuert werden.
 
 (2) Einsteigetüren der Reisezugwagen müssen sicher wirkende Verschlußeinrichtungen erhalten. Nach außen aufschlagende Einsteigetüren in den Seitenwänden der Reisezugwagen müssen Verschlußeinrichtungen haben, bei denen durch Zuschlagen der Tür ein doppelter Verschluß selbsttätig herbeigeführt wird. Der doppelte Verschluß muß durch zwei getrennte Verschlußteile herbeigeführt werden oder durch einen Verschlußteil, der in zwei Stufen schließt. Bei neu zu bauenden Reisezugwagen müssen die Verschlußeinrichtungen darüber hinaus so beschaffen sein, daß die Türen - ausgenommen im Notfall - während der Fahrt von innen nicht geöffnet werden können; Reisezugwagen, die nach dem 1. Januar 1970 erstmalig in Betrieb genommen wurden, sind mit solchen Verschlußeinrichtungen bei der nächsten Untersuchung auszurüsten.
 
@@ -513,31 +430,17 @@ b)
 
 (3) Durch Wasserdruck sind zu prüfen
 
-1.
+1. Lokomotivdampfkessela)bei der Prüfung vor Inbetriebnahme, b)bei der inneren Prüfung, c)nach Kesselarbeiten, die die Betriebssicherheit beeinflussen können, bei der Prüfung vor Inbetriebnahme, bei der inneren Prüfung, nach Kesselarbeiten, die die Betriebssicherheit beeinflussen können,
 
-a)
-
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
+2. sonstige Dampfkessela)bei der Prüfung vor Inbetriebnahme, b)mindestens alle 9 Jahre, c)nach Kesselarbeiten, die die Betriebssicherheit beeinflussen können, d)vor einer Wiederinbetriebnahme, wenn der Kessel länger als zwei Jahre außer Betrieb war. bei der Prüfung vor Inbetriebnahme, mindestens alle 9 Jahre, nach Kesselarbeiten, die die Betriebssicherheit beeinflussen können, vor einer Wiederinbetriebnahme, wenn der Kessel länger als zwei Jahre außer Betrieb war.
 
 (4) Die Prüfungen und Fristverlängerungen sind von zugelassenen Sachverständigen durchzuführen; sie dürfen in einfachen Fällen bei Druckbehältern und sonstigen überwachungsbedürftigen Anlagen von Sachkundigen durchgeführt werden.
 
 (5) Als Sachverständige sind zugelassen
 
-1.
+1. die Ingenieure, die vom Eisenbahn-Bundesamt oder von der zuständigen Landesbehörde als Sachverständige anerkannt sind,
 
-2.
+2. Sachverständige der Technischen Überwachungsvereine und der Technischen Überwachungsämter.
 
 (6) Über Prüfungen und Fristverlängerungen sind Nachweise zu führen. An Dampfkesseln ist das Datum der letzten inneren Prüfung anzubringen.
 
@@ -569,13 +472,9 @@ d)
 
 (3) Die Bremstafeln werden genehmigt
 
-1.
+1. für Eisenbahnen des Bundes vom Bundesministerium für Verkehr und digitale Infrastruktur,
 
-2.
-
-(4) Als größte Bremswege sind zulässig                    1 000 m.       I        700 m.Für bestimmte Strecken können die in Absatz 3 genannten Behörden auch Bremswege zulassen, die über 1 000 m oder 700 m hinausgehen. Für Züge, die mit Zugbeeinflussung gemäß § 15 Abs. 3 geführt werden, gelten besondere Bremswege.
-
-(5) Die Eisenbahnverwaltungen haben über das Bremsen auf Strecken mit einer Neigung von mehr als 40v.T. besondere Vorschriften aufzustellen und den in Absatz 3 genannten Aufsichtsbehörden zur Genehmigung vorzulegen.
+2. für die nichtbundeseigenen Eisenbahnen von der zuständigen Landesbehörde.
 
 (6) Das letzte oder vorletzte Fahrzeug eines Zuges muß eine wirkende Bremse haben. Hat das letzte Fahrzeug keine wirkende Bremse, so soll es nicht mit Reisenden besetzt sein.
 
@@ -599,29 +498,25 @@ Reisezüge sind mit Mitteln zur ersten Hilfeleistung auszurüsten. Ausnahmen sin
 
 Auf zweigleisigen Bahnen ist rechts zu fahren. Hiervon kann abgewichen werden
 
-1.
+1. in Bahnhöfen und bei der Einführung von Streckengleisen in Bahnhöfe,
 
-2.
+2. zwischen einem Bahnhof und einer Abzweigstelle oder Anschlußstelle oder einem benachbarten Bahnhof, der nur an eines der beiden Streckengleise angeschlossen ist,
 
-3.
+3. bei Gleiswechselbetrieb,
 
-4.
+4. bei Sperrung oder Belegung des rechten Gleises,
 
-5.
+5. bei Arbeitszügen und Arbeitswagen,
 
-6.
+6. bei Hilfszügen,
 
-7.
+7. bei zurückkehrenden Schiebelokomotiven,
 
-8.
+8. bei Nebenfahrzeugen.
 
 ### § 39 — Zugfolge
 
 (1) Die Folge der Züge wird durch Zugfolgestellen, die Reihenfolge durch Zugmeldestellen, die stets auch Zugfolgestellen sind, geregelt. Für die Zugfolge ist der Fahrdienstleiter verantwortlich. Örtlich nicht besetzte Zugfolgestellen sind einem Fahrdienstleiter zuzuordnen.
-
-(3) Züge dürfen auf Bahnen mit einer zugelassenen Geschwindigkeit von mehr als 30 km/h nur im Abstand der Zugfolgestellen einander folgen; bei eingleisigem Betrieb darf das Gleis bis zur nächsten Ausweichstelle nicht durch einen Zug der Gegenrichtung beansprucht sein. Hiervon darf abgewichen werden bei Störungen oder Gleissperrungen,
-
-(4) Die Ein-, Aus- oder Durchfahrt eines Zuges darf nur zugelassen werden, wenn sein Fahrweg frei ist. Wenn bei gestörter Gleisfreimeldeanlage das Freisein des Fahrwegs nicht durch Augenschein festgestellt werden kann oder wenn der Einfahrweg in einem Stumpfgleis oder besetzten Gleis endet, muß die Sicherheit durch betriebliche Anweisungen oder technische Einrichtungen gewährleistet sein.
 
 (5) An Haltsignalen dürfen Züge nur mit besonderem Auftrag vorbeifahren.
 
@@ -633,53 +528,41 @@ Auf zweigleisigen Bahnen ist rechts zu fahren. Hiervon kann abgewichen werden
 
 (9) Unbefahrbare Gleisabschnitte sind abzuriegeln, auch wenn kein Zug erwartet wird.
 
-(10) Regelfahrzeuge, die nicht in Zügen befördert werden, und Nebenfahrzeuge dürfen nur mit Wissen der benachbarten Zugmeldestellen, auf die freie Strecke gelassen werden. Ihre Annäherung ist den Schrankenwärtern und Posten (§ 11 Abs. 11) anzukündigen.
-
 ### § 40 — Fahrgeschwindigkeit
 
-(1) Die Geschwindigkeit, mit der ein Zug höchstens fahren darf (zulässige Geschwindigkeit), ist abhängig von und von den Vorschriften der folgenden Absätze.
+(1) Die Geschwindigkeit, mit der ein Zug höchstens fahren darf (zulässige Geschwindigkeit), ist abhängig von
 
-1.
+1. der Bauart der einzelnen Fahrzeuge,
 
-2.
+2. der Art und Länge der Züge (§ 34),
 
-3.
+3. den Bremsverhältnissen (§ 35),
 
-4.
+4. den Streckenverhältnissen,
 
-5.
+5. den betrieblichen Verhältnissen
 
 (2) Die zulässige Geschwindigkeit beträgt
 
-1.
+1. für Reisezüge mit durchgehender Bremse 250 km/h,wenn Strecke und führende Fahrzeuge mit Zugbeeinflussung (§ 15 Absatz 3, § 28 Absatz 1 Nummer 5) ausgerüstet sind und diese wirksam ist, oder 160 km/h, wenn Strecke und führende Fahrzeuge mit Zugbeeinflussung (§ 15 Absatz 2 Satz 1, § 28 Absatz 1 Nummer 4) ausgerüstet sind und diese wirksam ist, sonst 50 km/h;100 km/h,wenn die in den §§ 5, 6, 11, 15 Absatz 1, § 16 Absatz 1 und § 35 Absatz 4 genannten, für Hauptbahnen geltenden Vorschriften eingehalten sind, sonst 80 km/h; abweichend davon beträgt die zulässige Geschwindigkeit 50 km/h, wenn die Zugbeeinflussung der Strecke oder des führenden Fahrzeuges vorübergehend nicht wirksam ist oder bei Zugleitbetrieb die Sicherheit durch technische Einrichtungen vorübergehend nicht gewährleistet ist;
 
-2.
+2. für Güterzüge mit durchgehender Bremse 120 km/h,wenn Strecke und führende Fahrzeuge mit Zugbeeinflussung (§ 15 Absatz 2 Satz 1, § 28 Absatz 1 Nummer 4) ausgerüstet sind und diese wirksam ist, sonst 50 km/h;80 km/h;abweichend davon beträgt die zulässige Geschwindigkeit 50 km/h, wenn die Zugbeeinflussung der Strecke oder des führenden Fahrzeuges vorübergehend nicht wirksam ist oder bei Zugleitbetrieb die Sicherheit durch technische Einrichtungen vorübergehend nicht gewährleistet ist;
 
-3.
+3. für Züge ohne durchgehende Bremse 50 km/h.
 
 (3) Die zulässige Geschwindigkeit beträgt 50 km/h, wenn
 
-1.
+1. führende Lokomotiven mit dem Tender voran fahren; Ausnahmen sind zulässig (§ 3 Abs. 1 Nr. 2);
 
-2.
+2. andere führende Triebfahrzeuge sowie Steuerwagen ausnahmsweise vom hinteren Führerstand aus bedient werden müssen und der vordere Führerstand mit einem Betriebsbeamten besetzt ist, der den Zug zum Halten bringen kann;
 
-3.
-
-(4) Geschobene Züge dürfen höchstens 30 km/h fahren,
+3. bei einmännig besetzten führenden Fahrzeugen die Sicherheitsfahrschaltung gestört ist.
 
 (5) Nachgeschobene Züge dürfen höchstens 60 km/h fahren. Ist das nachschiebende Triebfahrzeug an die durchgehende Bremse angeschlossen, darf der Zug höchstens 80 km/h fahren.
 
 (6) Hilfszüge (z. B. Gerätewagen, Hilfslokomotiven) dürfen auch bei Dienstruhe verkehren, wenn ihre Geschwindigkeit höchstens 50 km/h beträgt. Bahnübergänge mit offenen Schranken sowie mit fernüberwachten oder nicht eingeschalteten Lichtzeichen oder Blinklichtern dürfen dabei ohne Sicherung durch Posten mit höchstens 10 km/h befahren werden.
 
-(7) In Gleisbogen darf die Geschwindigkeit betragen Der Überhöhungsfehlbetrag ist in Abhängigkeit von der Beschaffenheit des Oberbaus, von der Bauart der Fahrzeuge sowie von der Ladung und deren Sicherung festzulegen; er soll nicht größer sein als 150 mm.
-
-v =
-
-v =
-
-r =
-
-u =
+(7) In Gleisbogen darf die Geschwindigkeit betragen
 
 (8) Für Probefahrten (Versuchszüge) sind Ausnahmen von vorstehenden Vorschriften zulässig (§ 3 Abs. 1 Nr. 2), ausgenommen von der Vorschrift in Absatz 6.
 
@@ -690,8 +573,6 @@ u =
 ### § 42 — Rangieren, Hemmschuhe
 
 (1) Rangierbewegungen, die eine Zugfahrt oder eine andere Rangierfahrt gefährden können, dürfen nicht ausgeführt werden.
-
-(2) Das Rangieren auf dem Einfahrgleis über das Einfahrsignal hinaus ist in der Regel verboten. Läßt es sich im Einzelfall nicht vermeiden, so ist dazu die schriftliche Erlaubnis des Fahrdienstleiters oder Zugleiters einzuholen.
 
 (3) Die Höhe der Hemmschuhe darf das Maß von 125 mm über Schienenoberkante nicht überschreiten.
 
@@ -731,25 +612,25 @@ u =
 
 (1) Betriebsbeamte im Sinne dieser Verordnung sind Personen, die tätig sind als
 
-1.
+1. Leitende oder Aufsichtführende in der Erhaltung der Bahnanlagen und im Betrieb der Bahn,
 
-2.
+2. Betriebskontrolleure und technische Bahnkontrolleure,
 
-3.
+3. Fahrdienstleiter, Zugleiter, Aufsichtsbeamte und Zugmelder,
 
-4.
+4. Leiter von technischen Dienststellen des äußeren Eisenbahndiensts sowie andere Aufsichtführende im Außendienst dieser Stellen,
 
-5.
+5. Weichensteller und Rangierleiter,
 
-6.
+6. Wagenuntersuchungs- und Bremsbeamte,
 
-7.
+7. Strecken- und Schrankenwärter,
 
-8.
+8. Zugbegleiter,
 
-9.
+9. Triebfahrzeugführer, einschließlich Bediener von Kleinlokomotiven und Führer von Nebenfahrzeugen,
 
-10.
+10. Heizer und Triebfahrzeugbegleiter.
 
 (2) Die Betriebsbeamten sind verpflichtet, für die sichere und pünktliche Durchführung des Eisenbahnbetriebs zu sorgen. Sie haben, soweit erforderlich, eine richtigzeigende Uhr zu tragen.
 
@@ -769,9 +650,9 @@ u =
 
 (3) Die Betriebsbeamten müssen
 
-1.
+1. ohne oder mit Sehhilfen (Brillen, Kontaktlinsen) eine Sehschärfe nach Snellen von mindestens 0,5 auf dem einen Auge und mindestens 0,3 auf dem anderen Auge haben,
 
-2.
+2. die Umgangssprache auf einem Ohr mindestens auf fünf Meter und auf dem anderen Ohr mindestens auf drei Meter verstehen.
 
 (4) Triebfahrzeugführer, Bediener von Kleinlokomotiven, Führer von Nebenfahrzeugen, Heizer und Triebfahrzeugbegleiter, deren Sehschärfe ohne oder mit Sehhilfe auf einem Auge erstmals 0,5 unterschreitet, dürfen in ihrer Tätigkeit belassen werden, wenn die Minderung der Sehschärfe nicht auf ein fortschreitendes Augenleiden zurückzuführen ist.
 
@@ -830,29 +711,29 @@ Die Vorschriften der §§ 62 bis 64 gelten nicht für Bedienstete der Eisenbahne
 
 (1) Ordnungswidrig im Sinne des § 28 des Allgemeinen Eisenbahngesetzes handelt, wer vorsätzlich
 
-1.
+1. (weggefallen)
 
-2.
+2. an einer nicht dazu bestimmten Seite eines Fahrzeugs oder an einer nicht dazu bestimmten Stelle einsteigt oder aussteigt,
 
-3.
+3. einsteigt oder aussteigt, ein Trittbrett betritt oder sich ohne ausdrückliche Gestattung auf einer Plattform aufhält, solange sich das Fahrzeug bewegt,
 
-4.
+4. eine Bahnanlage, eine Betriebseinrichtung oder ein Fahrzeug verunreinigt oder
 
-5.
+5. bei einem außerplanmäßigen Halt ohne Zustimmung des Zugpersonals aussteigt oder Weisungen des Zugpersonals für das weitere Verhalten nicht Folge leistet.
 
 (2) Ordnungswidrig im Sinne des § 28 des Allgemeinen Eisenbahngesetzes handelt auch, wer vorsätzlich oder fahrlässig
 
-1.
+1. ohne amtliche Befugnis eine Bahnanlage oder ein Fahrzeug insoweit betritt oder benutzt, als sie nicht dem allgemeinen Verkehrsgebrauch dient oder als kein besonderes Nutzungsverhältnis dazu berechtigt,
 
-2.
+2. sich innerhalb der Gleise aufhält, ohne daß dies zur Erfüllung amtlicher Aufgaben erforderlich oder im Rahmen eines Nutzungsverhältnisses zugelassen ist,
 
-3.
+3. eine Außentür öffnet, solange sich das Fahrzeug bewegt,
 
-4.
+4. eine Sache aus dem Wagen wirft, die geeignet ist, einen anderen zu verletzen oder eine Sache zu beschädigen,
 
-5.
+5. eine Schranke oder eine sonstige Sicherungseinrichtung unerlaubt öffnet, ein Fahrthindernis bereitet oder eine andere betriebsstörende oder betriebsgefährdende Handlung vornimmt oder
 
-6.
+6. den Bahnübergang eines Privatwegs mit öffentlichem Verkehr anlegt und dem öffentlichen Verkehr überläßt, ohne dies mit dem Bahnunternehmer vereinbart oder ihm obliegende Sicherungsmaßnahmen durchgeführt zu haben.
 
 (3) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach den Absätzen 1 und 2 wird im Bereich der Eisenbahnen des Bundes auf die in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde übertragen.
 
@@ -864,121 +745,73 @@ Strecken, die am 1. Dezember 2012 die Voraussetzungen nach § 15 Absatz 2 nicht 
 
 (1) Diese Verordnung tritt am 28. Mai 1967 in Kraft.
 
-(2) Am gleichen Tag treten außer Kraft
+(2)
 
 1.
 
 2.
 
-3.
+3. die Eisenbahn-Befähigungsverordnung (EBefVO) vom 22. August 1957 (Bundesgesetzbl. II S. 1234). Die Befähigungsanforderungen für das Personal der unter die Eisenbahn-Bau- und Betriebsordnung für Schmalspurbahnen (BOS) vom 25. Juni 1943 (Reichsgesetzbl. II S. 285) fallenden Eisenbahnen richten sich bis zum Inkrafttreten einer Neuregelung nach den §§ 48 bis 54 und § 60 Abs. 3 dieser Verordnung.
 
 > § 66 Abs. 2 Nr. 3 Satz 2 Kursivdruck: Jetzt ESBO v. 25.2.1972 933-11
 
 ### Schlußformel
 
-Der Bundesminister für Verkehr
-
 ### Anlage 1 — (zu § 9)
 
-Zu Bild 1Bereich A:Zulässig sind Einragungen von baulichen Anlagen, wenn es der Bahnbetrieb erfordert (z. B. Bahnsteige, Rampen, Rangiereinrichtungen, Signalanlagen), sowie Einragungen bei Bauarbeiten, wenn die erforderlichen Sicherheitsmaßnahmen getroffen sind.Bereich B:Zulässig sind Einragungen bei Bauarbeiten, wenn die erforderlichen Sicherheitsmaßnahmen getroffen sind._____________________________
+Zu Bild 1
 
-1)
+1) Bei Gleisen, auf denen ausschließlich Stadtschnellbahnfahrzeuge verkehren, dürfen die Maße um 100 mm verringert werden. In Tunneln sowie unmittelbar angrenzenden Einschnittsbereichen ist die Verringerung der halben Breite des Regellichtraums auf 1900 mm zulässig, sofern besondere Fluchtwege vorhanden sind. Die Neigung der Schrägen ändert sich nicht.
 
-2)
+2) Bei Gleisen, auf denen überwiegend Stadtschnellbahnfahrzeuge verkehren, 960 mm.
 
-3)
+3) Den Grenzlinien liegen die Bezugslinie G 2, der Regelwert so= 0,4 des Neigungskoeffizienten eines Fahrzeugs und folgende bautechnische Einflußgrößen zugrunde: große Grenzlinie kleine GrenzlinieRadius (r)250 mₒₒÜberhöhung (u)160 mm50 mmÜberhöhungsfehlbetrag (uf)150 mm50 mmSpurbreite (l)1470 mm1445 mmAusrundungsradius bei Neigungswechsel (ra)2000 m2000 mHebungsreserve50 mm50 mmSchienenabnutzung10 mm10 mmBei Gleisen mit Oberleitung zusätzlich:Arbeitshöhe der Stromabnehmer5600 mm5600 mmMindestabstand von der Oberleitung (15 kV Wechselstrom)150 mm150 mm
 
-4)
+4) Den Grenzlinien bei Oberleitung liegt der Neigungskoeffizient so= 0,225 eines Triebfahrzeuges und das halbe Breitenmaß eines Stromabnehmers von 975 mm zugrunde.
 
-Zu Bild 1Tabelle 1Maße des Regellichtraums bei Oberleitung in Gleisbogen mit Radien von 250 m und mehr
+a) bei Gleisen, die von allen Fahrzeugen befahren werden dürfen
 
-Tabelle 2Vergrößerung des Regellichtraums in Gleisbogen mit Radien unter 250 m
-
-Zwischenwerte dürfen geradlinig eingeschaltet werden.
-
-a)
-
-b)
-
-a ≥ 150 mm für unbewegliche Gegenstände, die nicht fest mit der Schiene verbunden sind.a ≥ 135 mm für unbewegliche Gegenstände, die fest mit der Schiene verbunden sind.b = 41 mm für Einrichtungen, die das Rad an der inneren Stirnfläche führen.b ≥ 45 mm an Bahnübergängen und Übergängen (§ 11 Abs. 1)b ≥ 70 mm für alle übrigen Fälle.z = Ecken, die ausgerundet werden dürfen.Die Höhenmaße der Grenzlinien beziehen sich auf die Verbindungslinie der Schienenoberkanten (SO) in Istlage (Berücksichtigung der Schienenabnutzung).Bereich C:Raum für das Durchrollen der Räder. Zulässig sind Einragungen von Einrichtungen und Geräten, wenn es deren Zweck erfordert (z. B. Rangiereinrichtungen).
+b) bei Gleisen, die ausschließlich von Fahrzeugen befahren werden, die die Bezugslinie der Anlagen 7 und 8 Bilder 2 einhalten
 
 ### Anlage 2 — (zu § 9)
 
-1 Die halben Breitenmaße der Grenzlinie für feste Anlagen sind durch Addition folgender horizontal wirkender Einflußgrößen zu berechnen:1.1 Halbes Breitenmaß der Bezugslinie G 2; Vergrößerungen der Bezugslinie für Fahrzeuge gemäß § 22 Abs. 2 sind zu berücksichtigen.1.2 Überschreitungen der Bezugslinie, die sich aus der Verschiebung infolge der Stellung eines Fahrzeugs im Gleisbogen und unter Berücksichtigung der Spurweite des Gleises ergibt (Ausladung).1.3 Verschiebung aus quasistatischer Seitenneigung, die sich beim Stand eines Fahrzeugs in einem Gleis mit Überhöhung oder bei Fahrt in einem Gleisbogen mit Überhöhungsfehlbetrag ergibt, wobei nur der Wert in Ansatz gebracht wird, der den bereits in der Bezugslinie enthaltenen Anteil von 50 mm übersteigt.1.4 Zufallsbedingte Verschiebungen aus
+a) Gleislageunregelmäßigkeiten,
 
-a)
+b) Schwingungen infolge der Wechselwirkung zwischen Fahrzeug und Gleis und
 
-b)
-
-c)
-
-Hierbei darf die geringe Wahrscheinlichkeit des gleichzeitigen Auftretens aller ungünstigen Einflüsse berücksichtigt werden.2 Die Verschiebungen nach 1.2 bis 1.4 dürfen bei Geschwindigkeiten bis 160 km/h auch nach den folgenden Tabellen ermittelt werden:2.1 Ausladung (zu 1.2)2.1.1. bei Radien von 250 m und mehr
+c) dem Einfluß der Unsymmetrie bis zu 1 Grad, die sich aus den Bau- und Einstellungstoleranzen der Fahrzeuge und einer ungleichmäßigen Lastverteilung ergibt.
 
 2.1.2 bei Radien unter 250 m
 
-Für Höhen bis 400 mm über SO dürfen die Tabellenwerte um 5 mm verringert werden.Zu 2.1.1 und 2.1.2:Zwischenwerte dürfen geradlinig eingeschaltet werden.2.2 Verschiebung aus quasistatischer Seitenneigung (zu 1.3)Zwischenwerte dürfen geradlinig eingeschaltet werden.2.3 Zufallsbedingte Verschiebung (zu 1.4)
+a: Auf der Bogeninnenseite
 
-a: Auf der Bogeninnenseiteb: Auf der Bogenaußenseite und im geraden Gleis3 Die Höhenmaße der Grenzlinie sind — ausgenommen im Bereich ≤ 125 mm — aus den Höhenmaßen der Bezugslinie G 2 zu berechnen und3.1 im Bereich ≥ 3530 mm zu vergrößern um3.2 im Bereich ≤ 1170 mm zu vermindern umZu 3.1 und 3.2:Der Einfluß des Wechsels der Längsneigung wird wie folgt berechnet:4 Für die Höhenmaße der Grenzlinie im Bereich ≤ 125 mm gilt Anlage 1 Bild 2.5 Bei Geschwindigkeiten von mehr als 160 km/h sind aerodynamische Einflüsse zu berücksichtigen.
+a) den Einfluß des Wechsels der Längsneigung und
 
-a)
-
-b)
-
-a)
-
-b)
+b) die Hebungsreserve für die Unterhaltung des Gleises,
 
 ### Anlage 3 — (zu § 9)
 
-1 Die halben Breitenmaße der Grenzlinie bei Oberleitung sind durch Addition folgender horizontal wirkender Einflußgrößen zu berechnen:1.1 Halbes Breitenmaß des Stromabnehmers,1.2 Schwingung des Stromabnehmers,1.3 Auslenkung des Stromabnehmers im Gleisbogen,1.4 Verschiebung infolge der Stellung eines Fahrzeugs im Gleisbogen und unter Berücksichtigung der Spurweite des Gleises (Ausladung),1.5 Verschiebung aus quasistatischer Seitenneigung, die sich beim Stand eines Fahrzeugs in einem Gleis mit Überhöhung oder bei Fahrt in einem Gleisbogen mit Überhöhungsfehlbetrag ergibt, wobei nur der Wert in Ansatz gebracht wird, der den bereits in 1.2 enthaltenen Anteil von 66 mm überschreitet,1.6 Zufallsbedingte Verschiebungen aus Gleislageunregelmäßigkeiten; hierbei darf die geringe Wahrscheinlichkeit des gleichzeitigen Auftretens aller ungünstigen Einflüsse berücksichtigen werden.1.7 Mindestabstand von der Oberleitung
-
-2 Die Verschiebungen nach 1.2 bis 1.6 dürfen bei Geschwindigkeiten bis 160 km/h auch nach den folgenden Tabellen ermittelt werden:2.1 Schwingung und Auslenkung (zu 1.2 und 1.3)Zwischenwerte dürfen geradlinig eingeschaltet werden.2.2 Ausladung bei Radien von 100 m und mehr (zu 1.4)
-
-Zwischenwerte dürfen geradlinig eingeschaltet werden.2.3 Verschiebung aus quasistatischer Seitenneigung (zu 1.5)
-
 Zwischenwerte dürfen geradlinig eingeschaltet werden.
-
-2.4 Zufallsbedingte Verschiebungen (zu 1.6)Zwischenwerte dürfen geradlinig eingeschaltet werden.3 Mindestfahrdrahthöhe über Schienenoberkante
 
 ### Anlage 4 — (zu § 10)
 
-1 Der Mindestgleisabstand ist durch Addition der halben Breitenmaße der Grenzlinien zu berechnen.2.1 Der Mindestgleisabstand darf auch wie folgt ermittelt werden:Zwischenwerte dürfen geradlinig eingeschaltet werden.2.2 Hat das äußere Gleis eine größere Überhöhung (ua) als das innere Gleis (ui), so ist der Mindestgleisabstand zu vergrößern um3 Bei Radien unter 250 m müssen die Gleisabstände von 4,00 m und 3,80 m (§ 10 Abs. 2) sowie von 4,00 m und 4,50 m (§ 10 Abs. 3) wie folgt vergrößert werden:Zwischenwerte dürfen geradlinig eingeschaltet werden.
-
 ### Anlage 5 — (zu § 11)
 
-1.
+1. Die Schrankenbäume müssen ausreichend erkennbar sein, solange sie bewegt werden oder geschlossen sind.
 
-2.
+2. Die Schraffen sind senkrecht auszuführen; sie dürfen bis zur Erneuerung schräg sein.
 
-3.
+3. Halbschranken sperren nur die Zufahrt auf den Bahnübergang; ihre Länge ist so zu bemessen, daß der Straßenverkehrsteilnehmer ungehindert den Bahnübergang räumen kann.
 
-1.
+1. Zusätzlich zum Blinklicht dürfen Wecker oder andere hörbare Zeichen verwendet werden.
 
-2.
+2. In Ortschaften oder bei beengten Verhältnissen darf das Andreaskreuz um 90° gedreht (quer) über dem Blinklicht angebracht und vom Höhenmaß “~ 2650” abgewichen werden.
 
-3.
+3. Ein Blinklicht in Pfeilform zeigt an, daß es nur für den Straßenverkehr in Richtung des Pfeiles gilt.
 
-4.
+4. Für besondere Blinklichter an Fußwegen sind Signalschirme mit einer Höhe von 400 mm und einer Breite von 500 mm zugelassen. Auf Andreaskreuze kann gemäß § 11 Abs. 3 verzichtet werden.
 
-Siehe auch Erläuterungen zu den Bildern 1 und 2
-
-1.
-
-2.
-
-3.
-
-Siehe auch Erläuterungen zu Bild 1
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
+5. An mehrgleisigen Strecken dürfen Bahnübergänge mit schachem Verkehr durch Blinklichter in Verbindung mit einer im Signalschirm angebrachten gelben Leuchtschrift “2 Züge” und Wecker oder andere hörbare Zeichen gesichert werden. Die zusätzlichen Sicherungen werden wirksam, wenn und solange der Bahnübergang für einen weiteren Zug gesperrt bleibt.
 
 Siehe Erläuterungen zu den Bildern 1, 3 und 4
 
@@ -988,34 +821,18 @@ Siehe Erläuterungen zu den Bildern 1, 3 und 4
 
 ### Anlage 8 — (zu § 22)
 
-Bezugslinie für die unteren Teile der Fahrzeuge, die nicht über Gleise fahren dürfen, deren Einrichtungen nach der Grenzlinie für feste Anlagen gemäß Anlage 1 Bild 2 Buchstabe b bemessen sind (Ablaufberge, Rangiereinrichtungen).
-
 ### Anlage 9 — (zu § 22)
 
-1.
+1. Für die Berechnung der Fahrzeugabmessungen sind die Maße der Bezugslinien (Anlage 7 und 8) einzuschränken um die Einflüsse aus:1.1den horizontalen Verschiebungen, die sich aus den Querspielen zwischen Fahrzeugaufbau und den Radsätzen sowie aus der Stellung der Radsätze im Gleisbogen und in der Geraden ergeben,1.2der Veränderung der Fahrzeughöhe infolge Abnutzung,1.3den senkrechten Ausschlägen,1.4der senkrechten Verschiebungen, die sich aus der Stellung des Fahrzeugs in Kuppen- und Wannenausrundungen ergibt,1.5der quasistatischen Seitenneigung, die sich bei Stand in einem Gleis mit 50 mm Überhöhung oder bei Fahrt in einem Gleisbogen mit 50 mm Überhöhungsfehlbetrag ergibt und1.6der über 1 Grad hinausgehender Unsymmetrie, die sich aus den Bau- und Einstellungstoleranzen des Fahrzeugs und der vorgesehenen Belastung ergibt. den horizontalen Verschiebungen, die sich aus den Querspielen zwischen Fahrzeugaufbau und den Radsätzen sowie aus der Stellung der Radsätze im Gleisbogen und in der Geraden ergeben, der Veränderung der Fahrzeughöhe infolge Abnutzung, den senkrechten Ausschlägen, der senkrechten Verschiebungen, die sich aus der Stellung des Fahrzeugs in Kuppen- und Wannenausrundungen ergibt, der quasistatischen Seitenneigung, die sich bei Stand in einem Gleis mit 50 mm Überhöhung oder bei Fahrt in einem Gleisbogen mit 50 mm Überhöhungsfehlbetrag ergibt und der über 1 Grad hinausgehender Unsymmetrie, die sich aus den Bau- und Einstellungstoleranzen des Fahrzeugs und der vorgesehenen Belastung ergibt.
 
-1.1
-
-1.2
-
-1.3
-
-1.4
-
-1.5
-
-1.6
-
-2.
-
-l = Spurweite des Gleises; die Spurweite ist mit 1,465 m anzusetzen;für Wagen mit Drehgestellen im Gleisborgen l = 1,435 m
+2. Die vorgenannten Einschränkungen dürfen wie folgt verringert werden:
 
 ### Anlage 10 — (zu § 24)
 
-1.
+1. Die Pufferscheiben müssen so bemessen sein, daß die Puffer beim Durchfahren der in § 21 Abs. 1 genannten Gleisbogen nicht hintereinandergreifen können.
 
-2.
+2. Der in Blickrichtung auf die Stirnseite des Fahrzeugs linke Pufferteller muß gewölbt sein. Sind beide Pufferteller gewölbt, so darf der Wölbungsradius nicht kleiner als 1 500 mm sein.
 
-3.
+3. Die Pufferteller müssen einen Kreis mit dem Durchmesser von 370 mm überdecken, der oben und unten um jeweils 15 mm abgeflacht sein darf.
 
 ### Anlage 11 — (zu § 25)

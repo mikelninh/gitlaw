@@ -12,7 +12,11 @@ Auf Grund des § 137 des Markengesetzes vom 25. Oktober 1994 (BGBl. I S. 3082) v
 
 ### § 1 — Grundsatz
 
-Der Name Solingen darf im geschäftlichen Verkehr nur für solche Schneidwaren benutzt werden, die 1.in allen wesentlichen Herstellungsstufen innerhalb des Solinger Industriegebiets bearbeitet und fertiggestellt worden sind und 2.nach Rohstoff und Bearbeitung geeignet sind, ihren arteigenen Verwendungszweck zu erfüllen.
+Der Name Solingen darf im geschäftlichen Verkehr nur für solche Schneidwaren benutzt werden, die
+
+1. in allen wesentlichen Herstellungsstufen innerhalb des Solinger Industriegebiets bearbeitet und fertiggestellt worden sind und
+
+2. nach Rohstoff und Bearbeitung geeignet sind, ihren arteigenen Verwendungszweck zu erfüllen.
 
 ### § 2 — Herkunftsgebiet
 
@@ -20,7 +24,23 @@ Das Solinger Industriegebiet umfaßt das Gebiet der kreisfreien Stadt Solingen u
 
 ### § 3 — Begriff der Schneidwaren
 
-Schneidwaren im Sinne des § 1 sind insbesondere: 1.Scheren, Messer und Klingen aller Art, 2.Bestecke aller Art und Teile von solchen, 3.Tafelhilfsgeräte, wie Tortenheber, Gebäckzangen, Zuckerzangen, Traubenscheren und Vorleger, 4.Tafelwerkzeuge, wie Zigarrenabschneider, Brieföffner, Nußknacker und Korkenzieher, sowie schneidende Küchenwerkzeuge, wie Dosenöffner und Messerschärfer, 5.Rasiermesser, Rasierklingen und Rasierapparate, 6.Haarschneidemaschinen und Schermaschinen, 7.Hand- und Fußpflegegeräte, wie Nagelfeilen, Haut- und Nagelzangen, Nagelknipser und Pinzetten, 8.blanke Waffen aller Art.
+Schneidwaren im Sinne des § 1 sind insbesondere:
+
+1. Scheren, Messer und Klingen aller Art,
+
+2. Bestecke aller Art und Teile von solchen,
+
+3. Tafelhilfsgeräte, wie Tortenheber, Gebäckzangen, Zuckerzangen, Traubenscheren und Vorleger,
+
+4. Tafelwerkzeuge, wie Zigarrenabschneider, Brieföffner, Nußknacker und Korkenzieher, sowie schneidende Küchenwerkzeuge, wie Dosenöffner und Messerschärfer,
+
+5. Rasiermesser, Rasierklingen und Rasierapparate,
+
+6. Haarschneidemaschinen und Schermaschinen,
+
+7. Hand- und Fußpflegegeräte, wie Nagelfeilen, Haut- und Nagelzangen, Nagelknipser und Pinzetten,
+
+8. blanke Waffen aller Art.
 
 ### § 4 — Außerkrafttreten
 

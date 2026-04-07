@@ -46,7 +46,7 @@ und Beteiligte
 
 (4) Der Versorgungsausgleich hat grundsätzlich in Mineralölprodukten zu erfolgen. Unternehmen, welche die in den Versorgungsausgleich einbezogenen Produkte aus Rohöl herstellen, können sich darauf verständigen, den Ausgleich in Rohöl vorzunehmen. Ist ein solches Unternehmen jedoch überversorgt und kann seiner Abgabepflicht nicht durch Abgabe von Mineralölprodukten entsprechen, so erstreckt sich die Abgabepflicht auch auf Rohöl. Das abgegebene Rohöl ist dann in den Versorgungsrechnungen des abgebenden und des erhaltenden Unternehmens auf die drei in § 1 Abs. 3 genannten Produktgruppen nach dem in § 2 Abs. 4 genannten Schlüssel anzurechnen.
 
-(5) Ausgeglichen werden müssen nur Mengen, die bei Flüssiggas mindestens 500 t und bei den anderen in den Versorgungsausgleich einbezogenen Mineralölprodukten mindestens 1 000 t erreichen. Geringere Mengen sind auszugleichen, falls dies dem abgebenden Unternehmen auf technisch und wirtschaftlich vertretbare Weise möglich ist.
+(5) Ausgeglichen werden müssen nur Mengen, die bei Flüssiggas mindestens 500 t und bei den anderen in den Versorgungsausgleich einbezogenen Mineralölprodukten mindestens 1 000 t erreichen. Geringere Mengen sind auszugleichen, falls dies dem abgebenden Unternehmen auf technisch und wirtschaftlich vertretbare Weise möglich ist.
 
 (6) Die Ausgleichsmengen sind unmittelbar den unterversorgten Unternehmen anzubieten. Dabei können sich die über- oder unterversorgten Unternehmen zur Durchführung des Versorgungsausgleichs auch der Vermittlung eines aus Sachverständigen der Mineralölwirtschaft gebildeten Organs (Koordinierungsgruppe Versorgung) bedienen.
 
@@ -71,13 +71,13 @@ beim nationalen Versorgungsausgleich nach den §§ 1 bis 3
 
 (2) Anordnungen nach Absatz 1 sind jedoch nur zugunsten von unterversorgten Unternehmen zu erlassen,
 
-1.
+1. die einen entsprechenden Antrag gestellt haben,
 
-2.
+2. die zur Begründung des Antrages darlegen, daß sie sich ernsthaft um einen Versorgungsausgleich ohne Einschaltung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) bemüht haben, sei es durch Anfrage bei bisherigen Lieferanten, bei überversorgten Unternehmen sowie der Koordinierungsgruppe Versorgung,
 
-3.
+3. die die Tatsachen zur Begründung des Antrages glaubhaft machen,
 
-4.
+4. deren zum Ausgleich berechtigende Unterversorgung im laufenden Monat nicht im nächsten Monat durch eine entsprechend bessere Versorgung ausgeglichen wird und die bis dahin keine frei verfügbaren Bestände einsetzen oder Täusche vornehmen können.
 
 (3) Eine Abgabeverpflichtung zum Ausgleich einer Unterversorgung im nächsten Monat soll erst dann angeordnet werden, wenn abzusehen ist, daß ohne Anordnung eine Unterversorgung im nächsten Monat nicht zu beseitigen ist.
 
@@ -105,9 +105,9 @@ und Ausfuhrkontrolle (BAFA) im internationalen Versorgungsausgleich
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird ermächtigt, die in § 1 Abs. 1 genannten Unternehmen zur Abgabe von Rohöl oder den in § 1 Abs. 1 genannten Mineralölprodukten in andere Teilnehmerstaaten des Übereinkommens vom 18. November 1974 über ein Internationales Energieprogramm zu verpflichten, wenn folgende Voraussetzungen vorliegen:
 
-1.
+1. die Bundesrepublik Deutschland unterliegt einer Abgabepflicht nach Artikel 7 Abs. 3 des Übereinkommens vom 18. November 1974 über ein Internationales Energieprogramm,
 
-2.
+2. die Erfüllung der Abgabepflicht ist durch freiwillige Maßnahmen der Mineralölwirtschaft nicht oder nicht rechtzeitig zu erreichen.
 
 (2) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) soll zur Abgabe vorrangig überversorgte Unternehmen verpflichten. Soweit ein unterversorgtes Unternehmen in Anspruch genommen wird oder ein überversorgtes Unternehmen durch die Inanspruchnahme in eine Unterversorgungssituation gerät, wird bei einem Versorgungsausgleich nach § 3 die entsprechende Menge unabhängig von den Grenzwerten des § 3 Abs. 2 Satz 2 und 3 in den Ausgleich einbezogen.
 
@@ -127,15 +127,15 @@ Ordnungswidrigkeiten
 
 (1) In § 1 Abs. 1 genannte Unternehmen, die bei Inkrafttreten von Notstandsmaßnahmen der Internationalen Energieagentur zum Erhebungskreis des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) gehören, sind verpflichtet, dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) bis zum 10. eines jeden Monats folgendes zu melden:
 
-1.
+1. die Angaben, die auch für Zwecke der amtlichen Mineralölstatistik gemeldet werden,
 
-2.
+2. Zugang, Abgang und Bestand an Rohöl und Mineralölprodukten im In- und Ausland, unterschieden nach Ursprung und regionalem Einsatz; Mengen im Ausland müssen nur gemeldet werden, soweit sie für die Versorgung im Inland vorgesehen sind,
 
-3.
+3. inländische Verarbeitung von Rohöl und Mineralölprodukten in regionaler Gliederung,
 
-4.
+4. inländische Erzeugung von Mineralölprodukten in regionaler Gliederung,
 
-5.
+5. die für die Bevorratung nach dem Erdölbevorratungsgesetz anrechenbaren Endbestände sowie die operationellen Minimumbestände.
 
 (2) Nicht zum Erhebungskreis des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) gehörende Unternehmen haben ihre Ein- und Ausfuhren an den in § 1 Abs. 1 genannten Mineralölprodukten zu melden.
 
@@ -149,11 +149,11 @@ Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 1 des Energiesicherungsgesetzes 1975 handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. einer vollziehbaren Verfügung nach § 6 Abs. 1 Satz 1 oder Abs. 5, § 7 Satz 1 oder § 9 Abs. 1 zuwiderhandelt,
 
-2.
+2. zur Begründung eines Antrags nach § 6 Abs. 2 Nr. 2 oder Abs. 5 Satz 1 oder § 7 Satz 2 unrichtige Angaben macht,
 
-3.
+3. entgegen § 11 Abs. 1, 2, 3 oder 4 die geforderten Meldungen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
 ## 6. Abschnitt: Schlußvorschriften
 
@@ -169,6 +169,6 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung
 
 (3) Die §§ 1 bis 8 und 12 Nr. 2 werden angewendet, wenn
 
-1.
+1. nach Artikel 12 des Übereinkommens über ein Internationales Energieprogramm Notstandsmaßnahmen in Kraft gesetzt werden, weil die Mitgliedstaaten insgesamt oder die Bundesrepublik Deutschland von einem Versorgungsausfall von mindestens 7 vom Hundert betroffen sind und
 
-2.
+2. die genannten Vorschriften insgesamt oder einzeln durch eine weitere Verordnung nach dem Energiesicherungsgesetz 1975 für anwendbar erklärt werden.

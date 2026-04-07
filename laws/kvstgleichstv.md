@@ -13,7 +13,13 @@ Auf Grund des § 29 Abs. 1 Nr. 3 des Kapitalverkehrsteuergesetzes in der Fassung
 
 ### § 1
 
-Bei der Anwendung des Kapitalverkehrsteuergesetzes in der jeweils geltenden Fassung stehen folgende überstaatliche Einrichtungen dem Bund gleich: 1.Die Europäische Gemeinschaft für Kohle und Stahl, 2.die Europäische Atomgemeinschaft, 3.die auf Grund des Artikels 129 des Vertrages zur Gründung der Europäischen Wirtschaftsgemeinschaft errichtete Europäische Investitionsbank.
+Bei der Anwendung des Kapitalverkehrsteuergesetzes in der jeweils geltenden Fassung stehen folgende überstaatliche Einrichtungen dem Bund gleich:
+
+1. Die Europäische Gemeinschaft für Kohle und Stahl,
+
+2. die Europäische Atomgemeinschaft,
+
+3. die auf Grund des Artikels 129 des Vertrages zur Gründung der Europäischen Wirtschaftsgemeinschaft errichtete Europäische Investitionsbank.
 
 ### § 2
 

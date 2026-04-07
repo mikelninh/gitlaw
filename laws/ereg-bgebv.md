@@ -38,9 +38,9 @@ Die Regulierungsbehörde ist befugt, festgesetzte Gebühren gemäß § 59 der Bu
 
 (3) Keine Gebühren werden erhoben für
 
-1.
+1. Verfahren der Regulierungsbehörde, die ohne Sachentscheidung mittels Genehmigungsfiktion abgeschlossen werden, sowie
 
-2.
+2. Auskunftsbescheide in laufenden Verfahren.
 
 (4) Ausgenommen von den Gebührenbefreiungen nach den Absätzen 1 und 2 sind Gebühren nach Nummer 14 der Anlage.
 
@@ -53,7 +53,3 @@ Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige Leistung
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Anlage — (zu § 2 Absatz 1)
-
-a)
-
-b)

@@ -13,7 +13,11 @@ Auf Grund des § 3 Buchstabe b des Häftlingshilfegesetzes in der Fassung der Be
 
 ### § 1
 
-(1) Deutsche Staatsangehörige und deutsche Volkszugehörige erhalten auf Antrag Beschädigtenversorgung nach Maßgabe des § 4 des Häftlingshilfegesetzes, wenn sie aus den in § 1 Abs. 1 Nr. 1 des Häftlingshilfegesetzes genannten Gründen aus der sowjetischen Besatzungszone oder aus dem sowjetisch besetzten Sektor von Berlin geflüchtet sind oder dies versucht haben, eine gesundheitliche Schädigung infolge von Maßnahmen zur Verhinderung der Flucht erlitten haben und ihren Wohnsitz oder ständigen Aufenthalt im Geltungsbereich dieser Verordnung haben.(2) Ist der Beschädigte an den Folgen der Schädigung gestorben, so erhalten seine Hinterbliebenen, die deutsche Staatsangehörige oder deutsche Volkszugehörige sind und ihren Wohnsitz oder ständigen Aufenthalt im Geltungsbereich dieser Verordnung haben, auf Antrag Hinterbliebenenversorgung nach Maßgabe des § 5 des Häftlingshilfegesetzes.(3) Die §§ 2, 6, 10 Abs. 1, 3 bis 6, §§ 12, 13 und 18 des Häftlingshilfegesetzes sind sinngemäß anzuwenden.
+(1) Deutsche Staatsangehörige und deutsche Volkszugehörige erhalten auf Antrag Beschädigtenversorgung nach Maßgabe des § 4 des Häftlingshilfegesetzes, wenn sie aus den in § 1 Abs. 1 Nr. 1 des Häftlingshilfegesetzes genannten Gründen aus der sowjetischen Besatzungszone oder aus dem sowjetisch besetzten Sektor von Berlin geflüchtet sind oder dies versucht haben, eine gesundheitliche Schädigung infolge von Maßnahmen zur Verhinderung der Flucht erlitten haben und ihren Wohnsitz oder ständigen Aufenthalt im Geltungsbereich dieser Verordnung haben.
+
+(2) Ist der Beschädigte an den Folgen der Schädigung gestorben, so erhalten seine Hinterbliebenen, die deutsche Staatsangehörige oder deutsche Volkszugehörige sind und ihren Wohnsitz oder ständigen Aufenthalt im Geltungsbereich dieser Verordnung haben, auf Antrag Hinterbliebenenversorgung nach Maßgabe des § 5 des Häftlingshilfegesetzes.
+
+(3) Die §§ 2, 6, 10 Abs. 1, 3 bis 6, §§ 12, 13 und 18 des Häftlingshilfegesetzes sind sinngemäß anzuwenden.
 
 ### § 2
 

@@ -19,15 +19,13 @@ Auf Grund der §§ 58, 64, 65 des Bereinigungsgesetzes für deutsche Auslandsbon
 
 (2) Als vorläufiger Bemessungsbetrag gilt der Nennbetrag der ausgestellten Auslandsbonds unter Abzug
 
-a)
+a) der Stücke, die bei Inkrafttreten des Gesetzes nach den Anleihebedingungen bereits getilgt waren;
 
-b)
+b) der Stücke, die sich nach den Unterlagen der Konversionskasse für deutsche Auslandsschulden (Abwicklungsstelle) am 8. Mai 1945 im Eigenbesitz der Konversionskasse befanden oder die nach diesen Unterlagen von der Konversionskasse damals zur Tilgung bereitgestellt waren (Tilgungsdepots);
 
-c)
+c) der Stücke, die sich nach den Unterlagen der Deutschen Golddiskontbank (Treuhandverwaltung) am 8. Mai 1945 im Eigenbesitz der Deutschen Golddiskontbank befanden;
 
-d)
-
-(3) Der nach Absatz 2 errechnete Nennbetrag ist vorbehaltlich des Satzes 2 nach folgenden Sätzen in Deutsche Mark umzurechnen: Für Auslandsbonds, die eine auf Goldbasis beruhende oder mit Goldklausel versehene Schuld verbriefen, sind folgende Umrechnungssätze anzuwenden:
+d) der Stücke, die durch Sammelanerkennung (§§ 13, 55 bis 58 des Gesetzes) anerkannt worden sind.
 
 (4)
 

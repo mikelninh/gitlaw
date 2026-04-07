@@ -12,49 +12,13 @@ Auf Grund des § 19 des Gesetzes zur Förderung der Stabilität und des Wachstum
 
 ### § 1
 
-(1) Bund und Länder begrenzen die Beschaffung von Geldmitteln im Wege des Kredits im Haushaltsjahr 1971 auf einen Höchstbetrag. Der Bund vermindert seine 1971 veranschlagte Kreditaufnahme um 1,0 Mrd. DM. Die Länder vermindern ihre zum Zeitpunkt des Inkrafttretens dieser Verordnung im Rahmen der Haushaltspläne bzw. der den Parlamenten vorliegenden Haushaltsplanentwürfe für das Jahr 1971 vorgesehenen Kreditaufnahmen nach Maßgabe des Absatzes 2 um 800 Mill. DM. Bisherige Kreditaufnahmen auf Grund früherer Ermächtigungen sind auf den Höchstbetrag anzurechnen. 85 vom Hundert, in den Stadtstaaten Bremen und Hamburg 80 vom Hundert, der aus früheren Haushaltsjahren bestehenden Kreditermächtigungen dürfen nicht in Anspruch genommen werden. Die verbleibenden 15 vom Hundert, in den Stadtstaaten Bremen und Hamburg 20 vom Hundert, dürfen nur insoweit in Anspruch genommen werden, als sie zum Abbau von Ausgaberesten dienen.(2) Der auf die Länder entfallende Betrag verteilt sich wie folgt (in Mill. DM):
+(1) Bund und Länder begrenzen die Beschaffung von Geldmitteln im Wege des Kredits im Haushaltsjahr 1971 auf einen Höchstbetrag. Der Bund vermindert seine 1971 veranschlagte Kreditaufnahme um 1,0 Mrd. DM. Die Länder vermindern ihre zum Zeitpunkt des Inkrafttretens dieser Verordnung im Rahmen der Haushaltspläne bzw. der den Parlamenten vorliegenden Haushaltsplanentwürfe für das Jahr 1971 vorgesehenen Kreditaufnahmen nach Maßgabe des Absatzes 2 um 800 Mill. DM. Bisherige Kreditaufnahmen auf Grund früherer Ermächtigungen sind auf den Höchstbetrag anzurechnen. 85 vom Hundert, in den Stadtstaaten Bremen und Hamburg 80 vom Hundert, der aus früheren Haushaltsjahren bestehenden Kreditermächtigungen dürfen nicht in Anspruch genommen werden. Die verbleibenden 15 vom Hundert, in den Stadtstaaten Bremen und Hamburg 20 vom Hundert, dürfen nur insoweit in Anspruch genommen werden, als sie zum Abbau von Ausgaberesten dienen.
 
-Schleswig-Holstein
+(3) Kredit im Sinne dieser Verordnung ist jede Beschaffung von Geldmitteln durch Anleihen, Darlehen oder sonstige Rechtsgeschäfte, die einer Darlehensaufnahme wirtschaftlich gleichkommen.
 
-36
+(4) Der Berechnung des Höchstbetrages sind die Einnahmen aus Krediten vom Kreditmarkt abzüglich der Tilgungsausgaben für Kreditmarktmittel zugrunde zu legen.
 
-Niedersachsen
-
-90
-
-Nordrhein-Westfalen
-
-204
-
-Hessen
-
-78
-
-Rheinland-Pfalz
-
-52
-
-Baden-Württemberg
-
-121
-
-Bayern
-
-130
-
-Saarland
-
-15
-
-Hamburg
-
-57
-
-Bremen
-
-17.
-
-(3) Kredit im Sinne dieser Verordnung ist jede Beschaffung von Geldmitteln durch Anleihen, Darlehen oder sonstige Rechtsgeschäfte, die einer Darlehensaufnahme wirtschaftlich gleichkommen.(4) Der Berechnung des Höchstbetrages sind die Einnahmen aus Krediten vom Kreditmarkt abzüglich der Tilgungsausgaben für Kreditmarktmittel zugrunde zu legen.(5) Kassenkredite, Kreditaufnahmen bei einer der in § 19 Satz 1 des Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft bezeichneten Stellen sowie Kreditaufnahmen gemäß § 20 Abs. 3 des Gesetzes bleiben außer Betracht.
+(5) Kassenkredite, Kreditaufnahmen bei einer der in § 19 Satz 1 des Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft bezeichneten Stellen sowie Kreditaufnahmen gemäß § 20 Abs. 3 des Gesetzes bleiben außer Betracht.
 
 ### § 2
 

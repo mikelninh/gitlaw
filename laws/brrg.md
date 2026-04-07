@@ -50,9 +50,9 @@
 
 Das Recht, Beamte zu haben, besitzen außer dem Bund
 
-1.
+1. die Länder, die Gemeinden und die Gemeindeverbände,
 
-2.
+2. sonstige Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts, die dieses Recht im Zeitpunkt des Inkrafttretens dieses Gesetzes besitzen oder denen es nach diesem Zeitpunkt durch Gesetz, Rechtsverordnung oder Satzung verliehen wird; derartige Satzungen bedürfen der Genehmigung durch eine gesetzlich hierzu ermächtigte Stelle.
 
 ### § 122
 
@@ -98,19 +98,19 @@ Der Beamte ist entlassen, wenn er zum Berufssoldaten oder zum Soldaten auf Zeit 
 
 ### § 125c
 
-(1) Das Gericht, die Strafverfolgungs- oder die Strafvollstreckungsbehörde hat in Strafverfahren gegen Beamte zur Sicherstellung der erforderlichen dienstrechtlichen Maßnahmen im Falle der Erhebung der öffentlichen Klage zu übermitteln; ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, ist die Entscheidung unter Hinweis auf das eingelegte Rechtsmittel zu übermitteln. Der Erlaß und der Vollzug eines Haftbefehls oder eines Unterbringungsbefehls sind mitzuteilen.
+(1) Das Gericht, die Strafverfolgungs- oder die Strafvollstreckungsbehörde hat in Strafverfahren gegen Beamte zur Sicherstellung der erforderlichen dienstrechtlichen Maßnahmen im Falle der Erhebung der öffentlichen Klage
 
-1.
+1. die Anklageschrift oder eine an ihre Stelle tretende Antragsschrift,
 
-2.
+2. den Antrag auf Erlaß eines Strafbefehls und
 
-3.
+3. die einen Rechtszug abschließende Entscheidung mit Begründung
 
 (2) In Verfahren wegen fahrlässig begangener Straftaten werden die in Absatz 1 Satz 1 bestimmten Übermittlungen nur vorgenommen, wenn
 
-1.
+1. es sich um schwere Verstöße, namentlich Vergehen der Trunkenheit im Straßenverkehr oder der fahrlässigen Tötung, handelt oder
 
-2.
+2. in sonstigen Fällen die Kenntnis der Daten auf Grund der Umstände des Einzelfalls erforderlich ist, um zu prüfen, ob dienstrechtliche Maßnahmen zu ergreifen sind.
 
 (3) Entscheidungen über Verfahrenseinstellungen, die nicht bereits nach den Absätzen 1 oder 2 zu übermitteln sind, sollen übermittelt werden, wenn die in Absatz 2 Nr. 2 genannten Voraussetzungen erfüllt sind. Dabei ist zu berücksichtigen, wie gesichert die zu übermittelnden Erkenntnisse sind.
 
@@ -132,21 +132,21 @@ Der Beamte ist entlassen, wenn er zum Berufssoldaten oder zum Soldaten auf Zeit 
 
 (3) Für Klagen nach Absatz 1, einschließlich der Leistungs- und Feststellungsklagen, gelten die Vorschriften des 8. Abschnitts der Verwaltungsgerichtsordnung mit folgenden Maßgaben:
 
-1.
+1. Eines Vorverfahrens bedarf es auch dann, wenn die Maßnahme von der obersten Dienstbehörde getroffen worden ist.
 
-2.
+2. Den Widerspruchsbescheid erläßt die oberste Dienstbehörde. Sie kann die Entscheidung für Fälle, in denen sie die Maßnahme nicht selbst getroffen hat, durch allgemeine Anordnung auf andere Behörden übertragen; die Anordnung ist zu veröffentlichen.
 
-3.
+3. Widerspruch und Anfechtungsklage gegen die Abordnung oder die Versetzung haben keine aufschiebende Wirkung.
 
-4.
+4. Eines Vorverfahrens bedarf es nicht, wenn ein Gesetz dies bestimmt.
 
 ### § 127
 
 Für die Revision gegen das Urteil eines Oberverwaltungsgerichts über eine Klage aus dem Beamtenverhältnis gilt folgendes:
 
-1.
+1. Die Revision ist außer in den Fällen des § 132 Abs. 2 der Verwaltungsgerichtsordnung zuzulassen, wenn das Urteil von der Entscheidung eines anderen Oberverwaltungsgerichts abweicht und auf dieser Abweichung beruht, solange eine Entscheidung des Bundesverwaltungsgerichts in der Rechtsfrage nicht ergangen ist.
 
-2.
+2. Die Revision kann außer auf die Verletzung von Bundesrecht darauf gestützt werden, daß das angefochtene Urteil auf der Verletzung von Landesrecht beruht.
 
 ## Abschnitt III: Rechtsstellung der Beamten und
 Versorgungsempfänger bei der Umbildung von Körperschaften
@@ -230,15 +230,15 @@ Ein Ruhestandsbeamter, der das 65. Lebensjahr noch nicht vollendet hat, kann fü
 
 (1) Die Vorschriften dieses Abschnitts gelten für Beamte, die zur Wahrnehmung des ihnen übertragenen Amtes im Ausland oder außerhalb des Deutschen Hoheitsgebiets auf Schiffen oder in Luftfahrzeugen verwendet werden und dabei wegen vom Inland wesentlich abweichender Verhältnisse erhöhten Gefahren ausgesetzt sind.
 
-(2) Ein gemäß Absatz 1 verwendeter Beamter kann, soweit dienstliche Gründe es erfordern, verpflichtet werden, In den Fällen der Nummer 4 wird für die Mehrbeanspruchung ein Freizeitausgleich nur gewährt, soweit es die dienstlichen Erfordernisse gestatten.
+(2) Ein gemäß Absatz 1 verwendeter Beamter kann, soweit dienstliche Gründe es erfordern, verpflichtet werden,
 
-1.
+1. vorübergehend in einer Gemeinschaftsunterkunft zu wohnen und an einer Gemeinschaftsverpflegung teilzunehmen,
 
-2.
+2. Schutzkleidung zu tragen,
 
-3.
+3. Dienstkleidung zu tragen,
 
-4.
+4. über die regelmäßige Arbeitszeit hinaus ohne besondere Vergütung Dienst zu tun.
 
 (3) Der Dienstherr hat darauf hinzuwirken, daß die erforderlichen Maßnahmen zum Schutz und zur Fürsorge für die gemäß Absatz 1 verwendeten Beamten getroffen werden.
 

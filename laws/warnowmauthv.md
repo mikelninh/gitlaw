@@ -22,5 +22,3 @@ Die Mauterhebung beginnt mit dem Tag der Freigabe der in § 1 genannten Strecke 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 ### Anlage — (zu § 1)
-
-Fundstelle des Originaltextes: BGBl. I 2003, 836Mauttabelle einschließlich der gesetzlichen Umsatzsteuer von 16%KategorieGesamthöheAnzahl der AchsenSonstige MerkmaleFahrzeugart (Beispiele)1< 1,90 m>= 2 Pkw, Kraftrad2>= 1,90 m und < 2,40 m>= 2Pkw, Kleinbus, Kleintransporter3>= 2,40 m2Lkw 2 Achsen4>= 2,40 m> 2Lkw mehr als 2 Achsen5>= 2,40 m>= 2Bus > 16 SitzplätzeBusMauttabelle einschließlich der gesetzlichen Umsatzsteuer von 16%KategorieSommer (15. Juni - 15. September)Winter (1. Januar - 14. Juni/ 16. September - 31. Dezember) BGEAGEBGEAGE12,50 EUR1,50 EUR2,00 EUR1,50 EUR25,00 EUR3,00 EUR4,00 EUR3,00 EUR312,50 EUR7,50 EUR10,00 EUR7,50 EUR417,50 EUR10,50 EUR14,00 EUR10,50 EUR515,00 EUR9,00 EUR12,00 EUR9,00 EURBGE = Bargeld-Gebührenerfassung (einschließlich EC-Karte oder Kreditkarte)AGE = Automatische Gebührenerfassung (ETC - 5,8 GHz-Mikrowelle und Abonnements mit Magnetkarte)

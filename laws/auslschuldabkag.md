@@ -8,45 +8,7 @@
 
 ### Gliederung
 
-a)
-
-b)
-
-c)
-
-I.
-
-II.
-
-III.
-
-a)
-
-b)
-
-I.
-
-II.
-
-III.
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-k)
-
-l)
+a) Geltendmachung von Ansprüchen ............
 
 ## Erster Abschnitt: Begriffsbestimmungen
 
@@ -123,11 +85,11 @@ sonstigen Leistungen
 
 (1) Bis zu dem Zeitpunkt, in dem alle Verpflichtungen aus dem Abkommen und seinen Anlagen erledigt sind, darf ein Schuldner Zahlungen und sonstige Leistungen nicht bewirken, wenn
 
-1.
+1. sie die Erfüllung einer Schuld zum Gegenstand haben, die Schuld aber nicht geregelt ist;
 
-2.
+2. sie die Erfüllung einer geregelten Schuld zum Gegenstand haben, sich aber nicht innerhalb der Grenzen der festgesetzten Zahlungs- und sonstigen Bedingungen halten;
 
-3.
+3. sie die Erfüllung von Verbindlichkeiten zum Gegenstand haben, die in nichtdeutscher Währung zahlbar sind oder waren und die zwar den Voraussetzungen des Artikels 4 Abs. 1 und 2 des Abkommens entsprechen, aber die Voraussetzungen des Artikels 4 Abs. 3 Buchstaben a oder b des Abkommens hinsichtlich der Person des Gläubigers nicht erfüllen.
 
 (2) Der in Absatz 1 vorgesehene Zeitpunkt wird durch Gesetz bestimmt.
 
@@ -155,11 +117,11 @@ ergangen sind
 
 (1) Dem Antrag auf Vollstreckbarerklärung sind beizufügen
 
-1.
+1. eine vollständige Ausfertigung der Entscheidung; die Rechtskraft der Entscheidung ist, soweit sie sich nicht schon aus der Ausfertigung ergibt, durch öffentliche Urkunden nachzuweisen;
 
-2.
+2. die Unterlagen, aus denen sich ergibt, daß der Gläubiger Anspruch auf die Vorteile aus dem Abkommen und seinen Anlagen hat;
 
-3.
+3. die in § 14 Abs. 1 Satz 1 vorgesehene Erklärung oder im Falle des § 14 Abs. 1 Satz 2 der Nachweis, daß die Schuld bereits gemäß den Bestimmungen des Abkommens und seiner Anlagen geregelt ist.
 
 (2) Auf Verlangen des Gerichts ist eine Übersetzung der in Absatz 1 bezeichneten Urkunden in die deutsche Sprache beizubringen. Das Gericht kann auch verlangen, daß die Übersetzung von einem diplomatischen oder konsularischen Vertreter der Bundesrepublik Deutschland oder einem beeidigten Dolmetscher als richtig bescheinigt wird.
 
@@ -208,8 +170,6 @@ In dem Verfahren der Vollstreckbarerklärung kann der Schuldner auch die Einwend
 (2) Der Antrag auf Vollstreckbarerklärung von Entscheidungen der Schiedsinstanzen, die nach den Bestimmungen des Abkommens und seiner Anlagen errichtet sind, kann jedoch nicht aus einem der in Artikel 17 Abs. 4 des Abkommens angeführten Gründe abgelehnt werden. Dies gilt entsprechend, wenn die Entscheidung einer solchen Schiedsinstanz als inländischer Schiedsspruch für vollstreckbar zu erklären ist.
 
 ### § 24
-
-Für die Berechnung der Gerichts- ... kosten gelten § 30a Abs. 2 des Gerichtskostengesetzes ... sinngemäß.
 
 > § 24 Kursivdruck: Später § 37 Abs. 2 GKG (BGBl. III Folge 5) gem. Art. 11 § 6 G v. 26.7.1957 I 861 (935), diese Fassung aufgeh. durch Art. 1 Nr. 32 G v. 20.8.1975 I 2189; vgl. jetzt Abschnitt A Unterabschnitt IV.1 Kostenverzeichnis des GKG
 
@@ -314,8 +274,6 @@ Der Bundesbeauftragte bedient sich bei der Wahrnehmung seiner Aufgaben der Konve
 
 (1) Gerichte und Behörden haben dem Bundesbeauftragten unentgeltlich Amtshilfe zu leisten.
 
-(2) Der Bundesbeauftragte kann die Gerichte um die uneidliche Vernehmung von Zeugen und Sachverständigen sowie die Erhebung sonstiger Beweise ersuchen. Für das Ersuchen gelten die §§ 157, 158, 159 Abs. 1 Satz 1, Abs. 2, §§ 160, 164 und 165 des Gerichtsverfassungsgesetzes, für die Beweisaufnahme die Vorschriften der Zivilprozeßordnung entsprechend. Das ersuchte Gericht entscheidet über die Fragen, deren Entscheidung sonst dem ersuchenden Gericht vorbehalten ist.
-
 > § 41 Abs. 2 Satz 2 Kursivdruck: Außer Kraft getreten gem. Art. X § 2 Nr. 4 G v. 26.7.1957 I 861
 
 ### § 42
@@ -342,11 +300,11 @@ Der Bundesbeauftragte kann Vorauszahlungen auf einen Erstattungsanspruch in ange
 
 (1) Der Bundesbeauftragte kann seine Entscheidung nach § 38, durch die eine Erstattungspflicht anerkannt worden ist, oder sein Anerkenntnis nach § 39 Abs. 2 widerrufen, wenn eine neue Urkunde aufgefunden wird, die eine andere Entscheidung im Erstattungsverfahren herbeigeführt hätte, oder wenn bekannt wird, daß eine solche Urkunde beigezogen werden kann. Der Widerruf gilt als Ablehnung des Anspruchs im Sinne des § 42 Abs. 3.
 
-(2) Absatz 1 gilt entsprechend, wenn bekannt wird, daß und daß in diesen Fällen wegen der Straftat eine rechtskräftige Verurteilung ergangen ist, oder daß die Einleitung oder Durchführung eines Strafverfahrens aus anderen Gründen als wegen Mangels an Beweis nicht erfolgen kann.
+(2) Absatz 1 gilt entsprechend, wenn bekannt wird, daß
 
-a)
+a) eine Urkunde, auf welche die Entscheidung in Erstattungsverfahren gegründet ist, fälschlich angefertigt oder verfälscht war oder
 
-b)
+b) bei einem Zeugnis oder Gutachten, auf welche die Entscheidung im Erstattungsverfahren gegründet ist, der Zeuge oder Sachverständige sich einer strafbaren Verletzung der Wahrheitspflicht schuldig gemacht hat
 
 (3) In den Fällen der Absätze 1 und 2 ist ein Widerruf insoweit unzulässig, als der Schuldner gegenüber dem Gläubiger zur Leistung verpflichtet bleibt und sich von dieser Verpflichtung auch nicht befreien kann.
 
@@ -520,21 +478,17 @@ für Forderungen aus Schuldverschreibungen
 
 ### § 75
 
-(1) Sicherheiten, und zwar können nach Maßgabe der §§ 76 bis 89 dieses Gesetzes geändert, ausgetauscht oder aufgehoben und dabei auch einzelne Pfandgegenstände aus der Haftung entlassen werden (Änderung), wenn
+(1) Sicherheiten, und zwar
 
-a)
+a) Grundschulden, Hypotheken und andere Rechte, die zur Sicherung von Forderungen aus Schuldverschreibungen dienen, die unter Anlage II oder Anlage IV Artikel 34 Nr. 12 des Abkommens fallen,
 
-b)
+b) von dem Schuldner zur Sicherung von Forderungen aus Schuldverschreibungen im Sinne des Buchstaben a eingegangene Verpflichtungen, Vermögenswerte nicht oder unter bestimmten Bedingungen nicht zu veräußern oder zu belasten, einschließlich der Verpflichtung, keine solche Belastung zuzulassen (negative Sicherheitsklauseln),
 
-1.
+(2) Die für die Anleihe bestehenden Sicherheiten oder die nach der Änderung vorhandenen neuen Sicherheiten dienen der Sicherung sämtlicher Gläubiger, die das Regelungsangebot anzunehmen berechtigt sind, ohne Rücksicht darauf, ob sie es annehmen. Die Rechte an einer Sicherheit für die Forderungen der Gläubiger, die das Regelungsangebot annehmen, und die Rechte an einer Sicherheit für die Forderungen der Gläubiger, die das Regelungsangebot nicht annehmen, sind - unbeschadet der sonstigen Vorschriften dieses Gesetzes - untereinander gleichrangig. Die Rechte an den Sicherheiten können nach Maßgabe des Regelungsangebotes zustehen
 
-2.
+1. entweder für beide Gläubigergruppen demselben Treuhänder oder denselben sonst nach den Anleihebedingungen Berechtigten oder
 
-(2) Die für die Anleihe bestehenden Sicherheiten oder die nach der Änderung vorhandenen neuen Sicherheiten dienen der Sicherung sämtlicher Gläubiger, die das Regelungsangebot anzunehmen berechtigt sind, ohne Rücksicht darauf, ob sie es annehmen. Die Rechte an einer Sicherheit für die Forderungen der Gläubiger, die das Regelungsangebot annehmen, und die Rechte an einer Sicherheit für die Forderungen der Gläubiger, die das Regelungsangebot nicht annehmen, sind - unbeschadet der sonstigen Vorschriften dieses Gesetzes - untereinander gleichrangig. Die Rechte an den Sicherheiten können nach Maßgabe des Regelungsangebotes zustehen Ist in dem Regelungsangebot vorgesehen, daß für die Gläubiger, die es annehmen, die Rechte an den Sicherheiten einer anderen Person als dem bisherigen Treuhänder oder sonst nach den Anleihebedingungen Berechtigten zustehen, so gehen diese Rechte mit der Annahme des Regelungsangebotes auf die in diesem bezeichnete andere Person insoweit über, als es im Regelungsangebot vorgesehen ist; der zur Berichtigung des Grundbuchs erforderliche Nachweis der Tatsachen, aus denen sich die Rechtsänderung ergibt, kann durch eine Bescheinigung der Stelle geführt werden, bei der gemäß dem Regelungsangebot die alten Schuldverschreibungen oder Zinsscheine zum Umtausch einzureichen sind. Dies gilt entsprechend, wenn in dem Regelungsangebot vorgesehen ist, daß bei einer Hypothek der in § 1187 des Bürgerlichen Gesetzbuchs bezeichneten Art für die Gläubiger, die das Regelungsangebot annehmen, an die Stelle des bisherigen Vertreters mit den in § 1189 des Bürgerlichen Gesetzbuchs bezeichneten Befugnissen ein anderer Vertreter tritt.
-
-1.
-
-2.
+2. für die Gläubiger, die das Regelungsangebot annehmen, und für die Gläubiger, die es nicht annehmen, verschiedenen Treuhändern oder verschiedenen sonst nach den Anleihebedingungen Berechtigten.
 
 (3) Das gleiche Rangverhältnis zwischen den Rechten der beiden Gläubigergruppen bleibt auch dann bestehen, wenn die Vorschriften des § 76 Abs. 3 Nr. 1 und 2, soweit diese anwendbar sind, nicht erfüllt werden.
 
@@ -544,17 +498,17 @@ b)
 
 (2) Ist in dem Regelungsangebot die Änderung oder die Aufhebung einer Verpflichtung der in § 75 Abs. 1 Buchstabe b angeführten Art vorgesehen, so kann die Verpflichtung durch eine gerichtliche Entscheidung geändert oder aufgehoben werden, sofern die Gläubigervertreter den Gläubigern die Annahme des Regelungsangebotes empfohlen oder auf Grund einer Entscheidung des Schieds- und Vermittlungsausschusses zu empfehlen haben oder der Gläubiger auf Grund einer Entscheidung des Schieds- und Vermittlungsausschusses verpflichtet ist, diese Bedingungen als mit den Bestimmungen des Abkommens in Einklang stehend anzuerkennen.
 
-(3) Dem Antrag auf eine gerichtliche Entscheidung nach den Absätzen 1 und 2 kann erst stattgegeben werden, wenn die in Absatz 4 bestimmte Frist abgelaufen ist und folgende Voraussetzungen erfüllt sind: Die vorstehenden Vorschriften gelten nicht, falls die Änderung von Sicherheiten, die durch die gerichtliche Entscheidung herbeigeführt werden soll, nur in einer Herabsetzung des Betrages des Grundpfandrechts oder einer sonstigen Sicherheit besteht, um die Sicherheit dem in Nummer 2 genannten Gesamtbetrag der Schuld anzupassen, oder falls die Änderung nur darin besteht, daß an die Stelle einer Sicherungshypothek der in § 1187 des Bürgerlichen Gesetzbuchs bezeichneten Art, für die ein Vertreter nach § 1189 des Bürgerlichen Gesetzbuchs bestellt ist, ein Grundpfandrecht zugunsten des Treuhänders oder eines sonst nach den Anleihebedingungen Berechtigten tritt.
+(3) Dem Antrag auf eine gerichtliche Entscheidung nach den Absätzen 1 und 2 kann erst stattgegeben werden, wenn die in Absatz 4 bestimmte Frist abgelaufen ist und folgende Voraussetzungen erfüllt sind:
 
-1.
+1. Das Regelungsangebot muß von Gläubigern angenommen worden sein, deren Forderungen die Mehrheit des Gesamtbetrages derjenigen Schuldverschreibungen einer Anleihe ausmachen, die bis zum vierzehnten Tage vor Stellung des Antrages nach Maßgabe des Wertpapierbereinigungsgesetzes vom 19. August 1949 (WiGBl. S. 295) oder des Bereinigungsgesetzes für deutsche Auslandsbonds vom 25. August 1952 (Bundesgesetzbl. I S. 553) anerkannt worden oder die in anderer Weise als rechtsgültig ausstehend anzusehen sind;
 
-2.
+2. soweit Gläubiger von Schuldverschreibungen, die gemäß Nummer 1 anerkannt worden oder sonst als rechtsgültig ausstehend anzusehen sind, spätestens am vierzehnten Tage vor dem Verhandlungstermin (§ 83) schriftliche Einwendungen gegen das Regelungsangebot bei der Stelle erheben, bei der gemäß dem Regelungsangebot die alten Schuldverschreibungen oder Zinsscheine zum Umtausch einzureichen sind, dürfen die Forderungen dieser Gläubiger nicht einen Betrag von 25 vom Hundert desjenigen Gesamtbetrages erreichen, für den nach Maßgabe des Regelungsangebots Sicherheiten zu bestellen oder aufrechtzuerhalten sind.
 
 (4) Die in Absatz 3 erwähnte Frist endet, je nachdem, welcher Zeitpunkt der spätere ist,
 
-a)
+a) am 31. Dezember 1954 oder
 
-b)
+b) mit dem Ablauf eines Jahres nach dem Tage der ersten Veröffentlichung der Empfehlung des Regelungsangebotes durch die Gläubigervertreter oder der Bekanntmachung der Entscheidung des Schieds- und Vermittlungsausschusses.
 
 (5) Änderungen und Aufhebungen, bei denen die Willenserklärung des Treuhänders oder eines anderen nach den Anleihebedingungen Berechtigten durch eine Entscheidung auf Grund dieses Gesetzes ersetzt worden ist, gelten nicht als Aufgabe einer Sicherheit im Sinne des § 776 des Bürgerlichen Gesetzbuchs.
 
@@ -634,35 +588,25 @@ In den Fällen der §§ 82, 83, 85 und des § 86 Abs. 2 verlängert sich die Fri
 
 ### § 89
 
-(1) Für die Gerichtskosten gelten, soweit nichts anderes bestimmt ist, die Vorschriften der Kostenordnung vom 25. November 1935 (Reichsgesetzbl. I S. 1371).
-
-(2) Für das gerichtliche Verfahren des ersten Rechtszuges wird vom Schuldner die dreifache Gebühr (§ 26 der Kostenordnung) erhoben. Der Geschäftswert bestimmt sich nach § 24 Abs. 2 der Kostenordnung; er wird in jedem Falle von Amts wegen festgesetzt.
-
-(3) Die Gebühr für das Beschwerdeverfahren (§ 86) bestimmt sich nach § 123 der Kostenordnung, jedoch wird das Sechsfache der dort vorgesehenen Sätze erhoben.
-
 (4) Entscheidungen der Oberlandesgerichte über die Kosten können nicht angefochten werden.
 
 (5) Der Schuldner hat die Kosten (einschließlich angemessener Anwaltskosten), die dem Treuhänder und einem sonstigen nach den Anleihebedingungen Berechtigten erwachsen sind, zu erstatten, soweit sie zur Wahrnehmung der Rechte dieser Beteiligten erforderlich waren. Die Kosten werden von dem Gericht des ersten Rechtszuges festgesetzt, die Vorschriften der Zivilprozeßordnung gelten entsprechend.
 
 (6)
 
-> § 89 Abs. 1 Kursivdruck: Jetzt vom 26. Juli 1957 (Bundesgesetzbl. I S. 861, 960) gem. Art. 11 § 6 G v. 26.7.1957 I 861 (935) § 89 Abs. 2 Satz 1 Kursivdruck: Jetzt (§ 32 der Kostenordnung) gem. Art. 11 § 6 G v. 26.7.1957 I 861 (935) u. gem. Art. 2 Abs. 1 Nr. 1 G v. 9.12.1986 I 2326 mWv 1.1.1987 § 89 Abs. 2 Satz 2 Kursivdruck: Jetzt § 30 Abs. 2 der Kostenordnung gem. Art. 11 § 6 G v. 26.7.1957 I 861 (935) u. § 30 Abs. 2 Satz 1 KostO gem. Art. 4 § 4 Nr. 3 G v. 20.8.1975 I 2189 mWv 15.9.1975 § 89 Abs. 3 Kursivdruck: Jetzt § 131 der Kostenordnung gem. Art. 11 § 6 G v. 26.7.1957 I 861 (935); nachfolgende Änderungen s. Fußnote zu § 131 KostO
-
 ## d): Deutsches Kreditabkommen von 1952
 
 ### § 90
 
-(1) Der bei der Bank deutscher Länder bestehende Deutsche Ausschuß für internationale finanzielle Beziehungen nimmt die Aufgaben des Deutschen Ausschusses für Stillhalteschulden im Sinne des Deutschen Kreditabkommens 1952 wahr.
-
 (2) In diesem Unterabschnitt haben die nachgenannten Ausdrücke, soweit nicht der Zusammenhang eine andere Auslegung erfordert, die nachstehende Bedeutung:
 
-1.
+1. Kreditabkommen: das Deutsche Kreditabkommen von 1952,
 
-2.
+2. Kreditinstitute: alle Kreditinstitute mit Sitz im Gebiet der Bundesrepublik Deutschland oder im Land Berlin, sofern sie dem Kreditabkommen beigetreten sind,
 
-3.
+3. ausländische Bankgläubiger: ausländische Bankgläubiger im Sinne der Ziffer 1 des Kreditabkommens,
 
-4.
+4. deutsche Schuldner: deutsche Schuldner im Sinne der Ziffer 1 des Kreditabkommens.
 
 > § 90 Abs. 1 Kursivdruck: Jetzt Deutsche Bundesbank gem. § 1 BBankG 7620-1
 
@@ -670,9 +614,9 @@ In den Fällen der §§ 82, 83, 85 und des § 86 Abs. 2 verlängert sich die Fri
 
 (1) In den Fällen, in denen ein Kreditinstitut gemäß Nummer 3 Absatz 4 des Kreditabkommens verpflichtet ist, seinem ausländischen Bankgläubiger einen eigenen Wechsel oder ein Garantieschreiben seines Kunden zu beschaffen, ist der Kunde auf Verlangen des Kreditinstituts verpflichtet, dem Kreditinstitut nach dessen Wahl zu übergeben:
 
-1.
+1. einen von ihm ausgestellten, an das Kreditinstitut oder dessen Order zu zahlenden eigenen Wechsel auf Sicht, der nach Wechselsumme und Währung mit dem Betrag übereinstimmt, den das Kreditinstitut aus dem von diesem an den Kunden weitergegebenen Kredit an den ausländischen Bankgläubiger schuldet, oder
 
-2.
+2. ein Garantieschreiben, in dem der Kunde gegenüber dem ausländischen Bankgläubiger in Höhe des Betrages, den das Kreditinstitut aus dem von diesem an den Kunden weitergegebenen Kredit an den ausländischen Bankgläubiger schuldet, die Garantie dafür übernimmt, das Kreditinstitut werde den ausländischen Bankgläubiger wegen seiner Forderung aus dem Kredit bei Fälligkeit befriedigen; im übrigen hat das Garantieschreiben der Nummer 3 Absatz 4 des Kreditabkommens zu entsprechen.
 
 (2) Hatte der Kunde auf Grund einer ihm durch die Durchführungsvorschriften zu einem früheren Kreditabkommen auferlegten Verpflichtungen dem Kreditinstitut einen eigenen Wechsel übergeben, so ist er zur Übergabe des neuen Wechsels nur Zug um Zug gegen Rückgabe des alten Wechsels oder, sofern das Kreditinstitut zur Rückgabe außerstande ist, nur Zug um Zug gegen eine schriftliche Erklärung des Kreditinstituts verpflichtet, in der dieses sich verpflichtet, den Kunden von allen Ansprüchen freizustellen, die infolge der Nichtrückgabe des alten Wechsels gegen ihn geltend gemacht werden.
 
@@ -701,8 +645,6 @@ Die Aushändigung der in § 91 bezeichneten eigenen Wechsel an ein Kreditinstitu
 ### § 96
 
 (1) Die durch die Vorbereitung, den Abschluß und die Inkraftsetzung des Kreditabkommens entstehenden oder damit notwendig verbundenen Kosten und Auslagen einschließlich der von den ausländischen Bankenausschüssen für Rechtsberatung oder aus anderem Anlaß vor Abschluß des Kreditabkommens, jedoch nicht vor dem 1. November 1950 und während dessen Laufzeit gemachten sachgemäßen Aufwendungen fallen den deutschen Schuldnern anteilig nach dem Verhältnis ihrer unter das Kreditabkommen fallenden Schulden zur Last.
-
-(2) Die Kosten werden durch den Deutschen Ausschuß für Stillhalteschulden eingezogen. Rechtsstreitigkeiten hieraus gehören zur Zuständigkeit der ordentlichen Gerichte. Der Deutsche Ausschuß für Stillhalteschulden kann in einem solchen Rechtsstreit klagen oder verklagt werden; er wird durch seinen Vorsitzenden vertreten, der von dem Präsidenten des Direktoriums der Bank deutscher Länder ernannt wird.
 
 > § 96 Abs. 2 Kursivdruck: Jetzt Deutsche Bundesbank gem. § 1 BBankG 7620-1
 
@@ -786,17 +728,9 @@ des Geldwesens
 
 ### § 108
 
-(1) Das Bundesministerium für Wirtschaft und Energie erläßt im Einvernehmen mit dem Bundesministerium der Finanzen und im Benehmen mit der Bank deutscher Länder die im Hinblick auf die Beschränkungen der Devisenbewirtschaftungsgesetze zur Ausführung des Abkommens erforderlichen Rechtsverordnungen. Sie bedürfen nicht der Zustimmung des Bundesrates.
-
-(2) Die Bank deutscher Länder ... erteilen die nach den Devisenbewirtschaftungsgesetzen und nach den zu ihnen ergehenden Rechtsverordnungen erforderlichen Genehmigungen.
-
-> § 108 Abs. 1 Satz 1 erster Kursivdruck: Jetzt Deutsche Bundesbank gem. § 1 BBankG 7620-1 § 108 Abs. 1 Satz 1 zweiter Kursivdruck: Jetzt des Außenwirtschaftsgesetzes gem. § 50 Abs. 2 G v. 28.4.1961 I 481 § 108 Abs. 2 erster Kursivdruck: Jetzt Deutsche Bundesbank gem. § 1 BBankG 7620-1 § 108 Abs. 2 zweiter Kursivdruck: Jetzt dem Außenwirtschaftsgesetz gem. § 50 Abs. 2 G v. 28.4.1961 I 481
-
 ## k): Kostenrechtliche Bestimmungen
 
 ### § 108a
-
-(1) Für die Eintragung der Begründung, Veränderung oder Aufhebung von Hypotheken, Grundschulden oder Rentenschulden in das Grundbuch sowie für gerichtliche oder notarielle Beurkundungen, die diesen Geschäften dienen, wird nur die Hälfte der in der Kostenordnung bestimmten Gebühren erhoben, wenn diese Geschäfte durch die Regelung auf Grund des Abkommens veranlaßt werden oder mit dieser Regelung zusammenhängen. § 26 Abs. 3 der Kostenordnung bleibt unberührt.
 
 (2) In den Fällen des Absatzes 1 ist der Höchstbetrag der vollen Gebühr 5.000 Deutsche Mark. Dies gilt auch, wenn der Umstellungsbetrag in das Grundbuch eingetragen wird oder hierzu erforderliche Erklärungen beurkundet werden.
 
@@ -810,21 +744,17 @@ des Geldwesens
 
 ### § 109
 
-Für die Anwendung dieses Gesetzes in Berlin treten 6.
+Für die Anwendung dieses Gesetzes in Berlin treten
 
-1.
+1. an die Stelle des 20. Juni 1948 der 24. Juni 1948;
 
-2.
+2. an die Stelle des 21. Juni 1948a)in den Fällen der §§ 54, 67 und 99 der Stichtag der Eröffnungsbilanz in Deutscher Mark, b)im übrigen der 25. Juni 1948; in den Fällen der §§ 54, 67 und 99 der Stichtag der Eröffnungsbilanz in Deutscher Mark, im übrigen der 25. Juni 1948;
 
-a)
+3. an die Stelle von Teil II des Umstellungsgesetzes Teil II der Berliner Umstellungsverordnung vom 4. Juli 1948 in Verbindung mit §§ 5 und 6 des Gesetzes über die Umstellung von Grundpfandrechten und über Aufbaugrundschulden in der Fassung vom 15. Januar 1953 (Gesetz- und Verordnungsblatt für Berlin S. 63), an die Stelle von § 13 Abs. 3 des Umstellungsgesetzes Artikel 11 Nr. 26 der Umstellungsverordnung und an die Stelle von § 16 des Umstellungsgesetzes Artikel 14 Nr. 32 der Umstellungsverordnung;
 
-b)
+4. an die Stelle der Sechzehnten Durchführungsverordnung zum Umstellungsgesetz die Durchführungsbestimmung Nr. 13 zur Umstellungsverordnung vom 4. Juli 1948 (Verordnungsblatt für Groß-Berlin 1949 Teil I S. 163) und an die Stelle der Fünfunddreißigsten Durchführungsverordnung zum Umstellungsgesetz die entsprechenden in Berlin einzuführenden Vorschriften;
 
-3.
-
-4.
-
-5.
+5. an die Stelle des D-Markbilanzgesetzes das Berliner D-Markbilanzgesetz vom 12. August 1950 (Verordnungsblatt für Groß-Berlin Teil I S. 329) und an die Stelle von § 7 Nr. 7 des D-Markbilanzergänzungsgesetzes § 7 Nr. 12 des Berliner D-Markbilanzergänzungsgesetzes vom 24. Mai 1951 (Gesetz- und Verordnungsblatt für Berlin S. 382);
 
 ### § 110
 
@@ -834,17 +764,13 @@ Die Vorschriften der Artikel V bis VIII des Grundpfandrechtsumstellungsgesetzes 
 
 Für die Rechtsverhältnisse der neuen oder weiteren Hypothek gelten abweichend von § 53 folgende Vorschriften:
 
-1.
+1. Die neue Hypothek hat den Rang, den die dem Gläubiger zustehende umgestellte Hypothek am 25. Juni 1948 hatte. In der Höhe, in welcher die neue Hypothek die umgestellte Hypothek übersteigt, erlöschen mit der Eintragung der neuen Hypothek die rangbesten nach den Vorschriften des Grundpfandrechtsumstellungsgesetzes im Range nach der umgestellten Hypothek entstandenen Aufbaugrundschulden, soweit sie im Zeitpunkt der Eintragung der neuen Hypothek noch dem Eigentümer zustehen und nicht ein anderes Grundpfandrecht nach § 24 Abs. 1 des Grundpfandrechtsumstellungsgesetzes an ihre Stelle getreten ist. Sind diese Aufbaugrundschulden bereits im Grundbuch eingetragen, so sind sie insoweit mit der Eintragung der neuen Hypothek von Amts wegen zu löschen.
 
-2.
+2. Die weitere Hypothek tritt an die Stelle einer oder mehrerer der umgestellten Hypothek im Range nachgehenden Aufbaugrundschulden an rangbester Stelle, soweit diese im Zeitpunkt der Eintragung der weiteren Hypothek noch dem Eigentümer zustehen und nicht ein anderes Grundpfandrecht nach § 24 Abs. 1 des Grundpfandrechtsumstellungsgesetzes an ihre Stelle getreten ist. Die Aufbaugrundschulden erlöschen insoweit. Nummer 1 Satz 3 ist anzuwenden.
 
-3.
+3. Soweit die weitere Hypothek nicht nach Nummer 2 an die Stelle von Aufbaugrundschulden treten kann, kann der Gläubiger der in § 55 bezeichneten Forderung verlangen, daß der Berechtigtea)eines Rechtes, dem kein Vorrecht vor einer auf dem Grundstück ruhenden öffentlichen Last für die Hypothekengewinnabgabe nach § 150 des Lastenausgleichsgesetzes zusteht, der weiteren Hypothek den Vorrang vor seinem Recht in dem Umfang einräumt, in dem die öffentliche Last auf Grund des § 53 vermindert wird, b)eines Rechtes, das der in Nummer 1 Satz 1 bezeichneten Rangstelle nachgeht und das derjenige, der beim Inkrafttreten dieses Gesetzes der Berechtigte war, nach dem 15. Juli 1952 erworben hat, der weiteren Hypothek den Vorrang vor diesem Recht einräumt. eines Rechtes, dem kein Vorrecht vor einer auf dem Grundstück ruhenden öffentlichen Last für die Hypothekengewinnabgabe nach § 150 des Lastenausgleichsgesetzes zusteht, der weiteren Hypothek den Vorrang vor seinem Recht in dem Umfang einräumt, in dem die öffentliche Last auf Grund des § 53 vermindert wird, eines Rechtes, das der in Nummer 1 Satz 1 bezeichneten Rangstelle nachgeht und das derjenige, der beim Inkrafttreten dieses Gesetzes der Berechtigte war, nach dem 15. Juli 1952 erworben hat, der weiteren Hypothek den Vorrang vor diesem Recht einräumt.
 
-a)
-
-b)
-
-4.
+4. Steht ein Recht, das der in Nummer 1 Satz 1 bezeichneten Rangstelle nachgeht und das derjenige, der beim Inkrafttreten dieses Gesetzes der Berechtigte war, in der Zeit zwischen dem 25. Juni 1948 und dem 15. Juli 1952 erworben hat, dem Schuldner der in § 55 bezeichneten Forderung zu, so kann der Gläubiger dieser Forderung von dem Schuldner die Einräumung des Vorrangs vor dem Recht auch dann verlangen, wenn die Voraussetzungen der Nummer 3 Buchstabe a nicht vorliegen.
 
 ### § 112
 
@@ -858,11 +784,7 @@ b)
 
 § 2 Nr. 4 des Grundpfandrechtsumstellungsgesetzes erhält mit Wirkung vom 25. Juni 1948 folgende Fassung:
 
-"4
-
-a)
-
-b)
+"4 a)Hypotheken, Grundschulden und Rentenschulden, die bei Ablauf des 24. Juni 1948 Angehörigen der Vereinten Nationen (Artikel 11 Nr. 27 der Umstellungsverordnung) zustanden, sofern die durch sie gesicherte Forderung eine Schuld der in § 52 des Gesetzes zur Ausführung des Abkommens über deutsche Auslandsschulden bezeichneten Art ist; b)Hypotheken, Grundschulden und Rentenschulden, die bei Ablauf des 24. Juni 1948 an Angehörige der Vereinten Nationen zur Sicherung einer Schuld der in § 52 des Gesetzes zur Ausführung des Abkommens über deutsche Auslandsschulden bezeichneten Art abgetreten oder verpfändet waren, soweit sie aus einem Geschäft, das der Angehörige der Vereinten Nationen zu finanzieren oder zu refinanzieren beabsichtigte, herrühren und sie oder die Forderungen, zu deren Sicherung sie bestellt sind, auf Goldmark oder Reichsmark mit Goldklausel oder Goldoption lauten." Hypotheken, Grundschulden und Rentenschulden, die bei Ablauf des 24. Juni 1948 Angehörigen der Vereinten Nationen (Artikel 11 Nr. 27 der Umstellungsverordnung) zustanden, sofern die durch sie gesicherte Forderung eine Schuld der in § 52 des Gesetzes zur Ausführung des Abkommens über deutsche Auslandsschulden bezeichneten Art ist; Hypotheken, Grundschulden und Rentenschulden, die bei Ablauf des 24. Juni 1948 an Angehörige der Vereinten Nationen zur Sicherung einer Schuld der in § 52 des Gesetzes zur Ausführung des Abkommens über deutsche Auslandsschulden bezeichneten Art abgetreten oder verpfändet waren, soweit sie aus einem Geschäft, das der Angehörige der Vereinten Nationen zu finanzieren oder zu refinanzieren beabsichtigte, herrühren und sie oder die Forderungen, zu deren Sicherung sie bestellt sind, auf Goldmark oder Reichsmark mit Goldklausel oder Goldoption lauten."
 
 ### § 114
 

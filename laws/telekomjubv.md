@@ -17,7 +17,9 @@ Ergänzend zu den Vorschriften der Dienstjubiläumsverordnung vom 18. Dezember 2
 
 ### § 2 — Jubiläumszuwendung
 
-(1) Anstelle der Jubiläumszuwendung nach § 2 Absatz 2 der Dienstjubiläumsverordnung können die Beamtinnen und Beamten nach § 1 aus einem wertmäßig dieser Jubiläumszuwendung entsprechenden Angebot von Sachbezügen oder von anderen Vergünstigungen wählen, die die Deutsche Telekom AG auch für ihre Arbeitnehmerinnen und Arbeitnehmer auf Grund von Betriebsvereinbarungen mit dem Gesamtbetriebsrat oder dem Konzernbetriebsrat oder von Tarifverträgen aus gleichem Anlass bereitstellt. Die Beamtinnen und Beamten sind spätestens zwei Monate vor dem Tag des Dienstjubiläums über das Angebot zu informieren.(2) Üben die Beamtinnen und Beamten ihr Wahlrecht bis vier Wochen vor dem Jubiläumstag nicht aus oder verzichten sie bis dahin ausdrücklich auf ihr Wahlrecht, gilt § 2 Absatz 2 der Dienstjubiläumsverordnung.
+(1) Anstelle der Jubiläumszuwendung nach § 2 Absatz 2 der Dienstjubiläumsverordnung können die Beamtinnen und Beamten nach § 1 aus einem wertmäßig dieser Jubiläumszuwendung entsprechenden Angebot von Sachbezügen oder von anderen Vergünstigungen wählen, die die Deutsche Telekom AG auch für ihre Arbeitnehmerinnen und Arbeitnehmer auf Grund von Betriebsvereinbarungen mit dem Gesamtbetriebsrat oder dem Konzernbetriebsrat oder von Tarifverträgen aus gleichem Anlass bereitstellt. Die Beamtinnen und Beamten sind spätestens zwei Monate vor dem Tag des Dienstjubiläums über das Angebot zu informieren.
+
+(2) Üben die Beamtinnen und Beamten ihr Wahlrecht bis vier Wochen vor dem Jubiläumstag nicht aus oder verzichten sie bis dahin ausdrücklich auf ihr Wahlrecht, gilt § 2 Absatz 2 der Dienstjubiläumsverordnung.
 
 ### § 3 — Inkrafttreten
 

@@ -17,29 +17,29 @@ Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des Berufsbildungsgesetzes v
 
 (2) Ziel der Prüfung ist der Nachweis der notwendigen Qualifikationen, die folgenden Aufgaben eigenständig und verantwortlich wahrnehmen zu können:
 
-1.
+1. Instrumente und Techniken des Controlling gezielt zur strategischen und operativen Planung, Steuerung, Koordination und Kontrolle des betrieblichen Leistungsprozesses sowie einzelner Projekte entwickeln und einsetzen,
 
-2.
+2. die Unternehmensplanung unter Berücksichtigung betriebswirtschaftlicher Aspekte und volkswirtschaftlicher Rahmenbedingungen organisieren und steuern, die Planungsziele kontrollieren und die wichtigsten Prozess- und Steuerungsgrößen überprüfen,
 
-3.
+3. ein Berichtswesen aufbauen, die Berichterstattung ständig durchführen und das Informationsmanagement koordinieren, einschließlich der Einführung und Anwendung von Informationssystemen,
 
-4.
+4. Problemlösungen entwickeln und vorausschauende Maßnahmen zur Vermeidung von Fehlentwicklungen einleiten,
 
-5.
+5. Führungs- und Organisationsaufgaben übernehmen sowie die Leitungsebenen laufend beraten.
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss "Geprüfter Controller/Geprüfte Controllerin".
 
 ### § 2 — Zulassungsvoraussetzungen
 
-(1) Zur Prüfung ist zuzulassen, wer nachweist.
+(1) Zur Prüfung ist zuzulassen, wer
 
-1.
+1. eine mit Erfolg abgelegte Abschlussprüfung in einem anerkannten dreijährigen kaufmännischen oder verwaltenden Ausbildungsberuf und danach eine mindestens dreijährige Berufspraxis oder
 
-2.
+2. ein mit Erfolg abgelegtes wirtschaftswissenschaftliches Studium an einer Hochschule oder einen betriebswirtschaftlichen Abschluss einer staatlichen oder staatlich anerkannten Berufsakademie oder einen Bachelor-Abschluss eines akkreditierten betriebswirtschaftlichen Ausbildungsganges einer Berufsakademie und danach eine mindestens zweijährige Berufspraxis oder
 
-3.
+3. eine mit Erfolg abgelegte Abschluss- oder Gesellenprüfung in einem anderen anerkannten Ausbildungsberuf und danach eine mindestens vierjährige Berufspraxis oder
 
-4.
+4. eine mindestens sechsjährige Berufspraxis
 
 (2) Die Berufspraxis gemäß Absatz 1 muss inhaltlich wesentliche Bezüge zu den in § 1 Abs. 2 genannten Aufgaben haben.
 
@@ -49,17 +49,17 @@ Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des Berufsbildungsgesetzes v
 
 (1) Die Prüfung umfasst folgende Handlungsbereiche:
 
-1.
+1. Kostenrechnung und Kostenmanagement,
 
-2.
+2. Unternehmensplanung und Budgetierung,
 
-3.
+3. Jahresabschlussanalyse,
 
-4.
+4. Berichtswesen und Informationsmanagement,
 
-5.
+5. Betriebswirtschaftliche Beratung,
 
-6.
+6. Führungsaufgaben und Moderation.
 
 (2) Die Prüfung besteht aus vier schriftlichen Prüfungsleistungen, die sich jeweils auf die Handlungsbereiche gemäß Absatz 1 Nr. 1 bis 4 erstrecken, aus einer Projektarbeit und einer mündlichen Prüfungsleistung, die eine Präsentation und ein Fachgespräch beinhaltet.
 
@@ -81,57 +81,57 @@ Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des Berufsbildungsgesetzes v
 
 (1) Im Handlungsbereich "Kostenrechnung und Kostenmanagement" soll nachgewiesen werden, die kostentheoretischen Grundlagen beherrschen und geeignete Methoden der Kosten- und Leistungsrechnung für unterschiedliche Controllingziele einsetzen zu können. Insbesondere soll nachgewiesen werden, die relevanten Kosten- und Leistungsdaten für betriebliche Entscheidungen nutzbar machen sowie Entscheidungsprobleme und -spielräume verdeutlichen zu können. In diesem Rahmen können geprüft werden:
 
-1.
+1. Anwenden der Verfahren der Kosten- und Leistungsrechnung, einschließlich der Plankostenrechnung,
 
-2.
+2. Anwenden der Kosten- und Leistungsrechnung als Instrument zur Entscheidungsunterstützung,
 
-3.
+3. Kostenmanagement als systematische Kostenbeeinflussung beherrschen.
 
 (2) Im Handlungsbereich "Unternehmensplanung und Budgetierung" soll nachgewiesen werden, ein System der Unternehmensplanung und Budgetierung einrichten und ein vorhandenes System weiterentwickeln zu können. Es soll nachgewiesen werden, die jeweiligen Planungsansätze grundsätzlich und im konkreten Anwendungsfall unter Einsatz der entsprechenden Methoden und Instrumente entwickeln und mit den übrigen Teilplänen und der Unternehmensstrategie abstimmen zu können. In diesem Rahmen können geprüft werden:
 
-1.
+1. System der Planung als Instrument des Controlling verstehen, gestalten und organisieren,
 
-2.
+2. Zielfindungsprozess unterstützen,
 
-3.
+3. strategische Analyse- und Prognosemethoden anwenden,
 
-4.
+4. Unterstützen bei der Entwicklung und Umsetzung von Strategien,
 
-5.
+5. strategisches und operatives Controlling gestalten,
 
-6.
+6. Teil- und Gesamtbudgets entwickeln und abstimmen.
 
 (3) Im Handlungsbereich "Jahresabschlussanalyse" soll nachgewiesen werden, Informationen des externen Rechnungswesens aufbereiten zu können mit dem Ziel, die Vermögens-, Finanz- und Ertragslage einer Unternehmung zu bewerten. In diesem Rahmen können geprüft werden:
 
-1.
+1. Bilanzierungs- und Bewertungsgrundsätze nach Handelsrecht sowie wesentliche Bewertungsunterschiede gegenüber den International Financial Reporting Standards (IFRS) kennen,
 
-2.
+2. Aufbereitung und Analyse des Jahresabschlusses.
 
 (4) Im Handlungsbereich "Berichtswesen und Informationsmanagement" soll nachgewiesen werden, Controllinginformationen beschaffen, systematisch aufbereiten, auswerten sowie entscheidungsorientierte Controllingberichte für unterschiedliche Managementebenen erstellen zu können. In diesem Rahmen können geprüft werden:
 
-1.
+1. die Informationsversorgungsaufgabe des Controlling kennen,
 
-2.
+2. das Informationsumfeld des Controlling gestalten,
 
-3.
+3. controllingspezifische Informations- und Kommunikationstechniken und -werkzeuge einsetzen,
 
-4.
+4. Maßnahmen des Datenschutzes kennen.
 
 (5) Im Handlungsbereich "Betriebswirtschaftliche Beratung" soll nachgewiesen werden, auf der Grundlage der Unternehmensziele sowie betriebswirtschaftlicher und volkswirtschaftlicher Rahmenbedingungen das Management entscheidungsorientiert beraten zu können. Dabei soll nachgewiesen werden, geeignete Analyseinstrumente anwenden, Alternativvergleiche durchführen, Entscheidungsempfehlungen erstellen und überzeugend präsentieren zu können. In diesem Rahmen können geprüft werden:
 
-1.
+1. Organisations- und Prozessstrukturen analysieren,
 
-2.
+2. Entscheidungsempfehlungen im betriebs- und volkswirtschaftlichen Kontext entwickeln, formulieren und präsentieren,
 
-3.
+3. Beraten betrieblicher Führungskräfte,
 
-4.
+4. betriebliches Wissensmanagement organisieren.
 
 (6) Im Handlungsbereich "Führungsaufgaben und Moderation" soll nachgewiesen werden, fachliche Führungs- und Organisationsaufgaben übernehmen zu können. In diesem Rahmen können geprüft werden:
 
-1.
+1. Führen und Organisieren von Teams,
 
-2.
+2. Moderation, Kommunikation und Konfliktmanagement beherrschen.
 
 ### § 5 — Befreiung von einzelnen Prüfungsbestandteilen
 
@@ -153,23 +153,23 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
-1.
+1. in den vier schriftlichen Prüfungsleistungen in den Handlungsbereichen nach § 3 Absatz 1 Nummer 1 bis 4 und Absatz 2,
 
-2.
+2. in der Projektarbeit nach § 3 Absatz 4 Satz 1,
 
-3.
+3. in der mündlichen Prüfung in Form einer Präsentation und Fachgespräch nach § 3 Absatz 4.
 
 (2) Ist die Prüfung bestanden, wird das arithmetische Mittel der Bewertung für die vier schriftlichen Prüfungsleistungen in den Handlungsbereichen nach § 3 Absatz 1 Nummer 1 bis 4 kaufmännisch auf eine ganze Zahl gerundet.
 
 (3) Den Bewertungen für die vier schriftlichen Prüfungsleistungen in den Handlungsbereichen nach § 3 Absatz 1 Nummer 1 bis 4, der Projektarbeit und der mündlichen Prüfung in Form einer Präsentation und Fachgespräch ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
 
-(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das gewichtete arithmetische Mittel zu berechnen. Dabei werden die Bewertungen wie folgt gewichtet: Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl wird nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das gewichtete arithmetische Mittel zu berechnen. Dabei werden die Bewertungen wie folgt gewichtet:
 
-1.
+1. das arithmetische Mittel der Bewertungen für die vier schriftlichen Prüfungsleistungen in den Handlungsbereichen nach § 3 Absatz 1 Nummer 1 bis 4 mit 25 Prozent,
 
-2.
+2. die Bewertung der Projektarbeit mit 45 Prozent,
 
-3.
+3. die Bewertung für die mündliche Prüfung mit 30 Prozent.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -181,9 +181,9 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur Information (Bemerkungen) enthalten, insbesondere
 
-1.
+1. über den erworbenen Abschluss oder
 
-2.
+2. auf Antrag der geprüften Person über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
@@ -215,38 +215,34 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 ### Anlage 2 — (zu § 8)
 
-Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
 
-1.
+2. Name und Geburtsdatum der geprüften Person,
 
-2.
+3. Datum des Bestehens der Prüfung,
 
-3.
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
 
-4.
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
 
-5.
-
-6.
-
-Teil B – Zeugnis mit Prüfungsergebnissen:
+6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
 
 Alle Angaben des Teils A sowie zusätzlich:
 
-1.
+1. Benennung und Bewertung der Handlungsbereiche nach § 3 Absatz 1 Nummer 1 bis 4 mit Punkten und Note,
 
-2.
+2. Benennung der Projektarbeit mit Punkten und Note,
 
-3.
+3. Benennung des Themas der Projektarbeit,
 
-4.
+4. Benennung von Präsentation und Fachgespräch mit Punkten und Note,
 
-5.
+5. die errechnete Gesamtpunktzahl,
 
-6.
+6. die Gesamtnote als Dezimalzahl,
 
-7.
+7. die Gesamtnote in Worten,
 
-8.
+8. Befreiungen nach § 5.
 
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)

@@ -36,21 +36,21 @@ Das Bundesministerium für Arbeit und Soziales verordnet aufgrund des § 46 Absa
 
 (3) Der Bundesagentur für Arbeit werden für die Durchführung von überörtlich wahrzunehmenden Aufgaben, die alle Jobcenter betreffen, insgesamt 28,4815 Millionen Euro gesondert zugewiesen. Diese Aufgaben umfassen:
 
-1.
+1. die Datenerhebung und -verarbeitung sowie die Erstellung der Statistik und Übermittlung statistischer Daten nach den §§ 51b und 53 des Zweiten Buches Sozialgesetzbuch,
 
-2.
+2. die Erstattung des Aufwands für den automatisierten Datenabgleich nach § 52 Absatz 4 des Zweiten Buches Sozialgesetzbuch in Verbindung mit § 5 der Grundsicherungs-Datenabgleichsverordnung vom 27. Juli 2005 (BGBl. I S. 2273), die zuletzt durch Artikel 1 der Verordnung vom 30. November 2017 (BGBl. I S. 3826) geändert worden ist,
 
-3.
+3. die Erstattung der Kosten für Begutachtungen durch den Medizinischen Dienst der Krankenversicherung nach § 56 Absatz 3 des Zweiten Buches Sozialgesetzbuch,
 
-4.
+4. die Bereitstellung des Fachverfahrens zur internen Steuerung der Jobcenter und
 
-5.
+5. die Verarbeitung und Übermittlung von Daten für die Ausbildungsvermittlung.
 
-(4) Die Mittel nach Absatz 1 abzüglich der Mittel nach den Absätzen 2 und 3 werden auf Grundlage der Zahl der Bedarfsgemeinschaften verteilt. Dazu wird für jedes Jobcenter von den folgenden beiden Werten der höhere Wert (Maximalwert) herangezogen: Der prozentuale Anteil des Maximalwertes des Jobcenters an der Summe der Maximalwerte aller Jobcenter bildet die Grundlage für die Verteilung der Mittel auf die Bundesagentur für Arbeit und die zugelassenen kommunalen Träger. Die Verteilung der Mittel ergibt sich aus den in Anlage 5 genannten Prozentsätzen.
+(4) Die Mittel nach Absatz 1 abzüglich der Mittel nach den Absätzen 2 und 3 werden auf Grundlage der Zahl der Bedarfsgemeinschaften verteilt. Dazu wird für jedes Jobcenter von den folgenden beiden Werten der höhere Wert (Maximalwert) herangezogen:
 
-1.
+1. die durchschnittliche Zahl der im Zuständigkeitsbereich des Jobcenters zu betreuenden Bedarfsgemeinschaften nach § 7 Absatz 3 des Zweiten Buches Sozialgesetzbuch im Zeitraum Juli 2023 bis Juni 2024 oder
 
-2.
+2. die durchschnittliche Zahl der im Zuständigkeitsbereich des Jobcenters zu betreuenden Bedarfsgemeinschaften nach § 7 Absatz 3 des Zweiten Buches Sozialgesetzbuch im Zeitraum Juli 2024 bis Juni 2025.
 
 (5) Die der Bundesagentur für Arbeit nach Absatz 4 zur Verfügung gestellten Mittel werden nach dem zu erwartenden Umfang der überörtlich und örtlich wahrzunehmenden Verwaltungsaufgaben auf die Zentrale der Bundesagentur für Arbeit und auf die gemeinsamen Einrichtungen verteilt. Die Zentrale der Bundesagentur für Arbeit erhält für überörtlich wahrzunehmende Verwaltungsaufgaben einen Betrag in Höhe von 165,1 Millionen Euro. Die verbleibenden Mittel werden auf Grundlage der ermittelten Maximalwerte auf die gemeinsamen Einrichtungen verteilt. Die Verteilung ergibt sich aus den in Anlage 6 genannten Prozentsätzen. Mittel nach Satz 2, bei denen bis zum 31. August 2026 absehbar ist, dass sie nicht verausgabt werden, können unter Berücksichtigung regionaler Sonderbelastungen auf die gemeinsamen Einrichtungen verteilt werden.
 
@@ -70,44 +70,44 @@ Diese Verordnung tritt am 1. Januar 2026 in Kraft.
 
 Abkürzungen:
 
-gE
+gE gemeinsame Einrichtung
 
-zkT
+zkT zugelassener kommunaler Träger
 
 ### Anlage 2 — (zu § 1 Absatz 6 Satz 6)
 
 Abkürzungen:
 
-gE
+gE gemeinsame Einrichtung
 
-zkT
+zkT zugelassener kommunaler Träger
 
 ### Anlage 3 — (zu § 1 Absatz 8 Satz 4)
 
 Abkürzungen:
 
-gE
+gE gemeinsame Einrichtung
 
-zkT
+zkT zugelassener kommunaler Träger
 
 ### Anlage 4 — (zu § 1 Absatz 8 Satz 4)
 
 Abkürzungen:
 
-gE
+gE gemeinsame Einrichtung
 
-zkT
+zkT zugelassener kommunaler Träger
 
 ### Anlage 5 — (zu § 2 Absatz 4 Satz 4)
 
 Abkürzungen:
 
-gE
+gE gemeinsame Einrichtung
 
-zkT
+zkT zugelassener kommunaler Träger
 
 ### Anlage 6 — (zu § 2 Absatz 5 Satz 4)
 
 Abkürzungen:
 
-gE
+gE gemeinsame Einrichtung

@@ -12,33 +12,19 @@ Auf Grund des § 63c Absatz 2a in Verbindung mit Absatz 5 des Soldatenversorgung
 
 ### § 1 — Einsatzunfall als
 
-(1) Es wird vermutet, dass eine psychische Störung durch einen Einsatzunfall verursacht worden ist, wenn Psychische Störungen im Sinne von Satz 1 sind:
+(1) Es wird vermutet, dass eine psychische Störung durch einen Einsatzunfall verursacht worden ist, wenn
 
-1.
+1. eine Fachärztin oder ein Facharzt für Psychiatrie und Psychotherapie der Bundeswehr festgestellt hat, dass die psychische Störung nach Beendigung einer besonderen Auslandsverwendung aufgetreten ist, und
 
-2.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
+2. die erkrankte Person während der Auslandsverwendung der Gefahr einer psychischen Störung in besonderer Weise ausgesetzt war.
 
 (2) Der Gefahr einer psychischen Störung im Sinne des Absatzes 1 in besonderer Weise ausgesetzt waren Personen, die während der Auslandsverwendung
 
-1.
+1. von einer bewaffneten Auseinandersetzung betroffen waren (§ 2 Absatz 1),
 
-2.
+2. an einer solchen Auseinandersetzung teilgenommen haben (§ 2 Absatz 2) oder
 
-3.
+3. einer Situation ausgesetzt waren, die mit den Tatbeständen nach den Nummern 1 und 2 vergleichbar ist.
 
 ### § 2 — Bewaffnete Auseinandersetzung
 

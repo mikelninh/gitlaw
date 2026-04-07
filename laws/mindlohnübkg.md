@@ -8,8 +8,6 @@ von Verfahren zur Festsetzung von Mindestlöhnen
 
 ### § 1
 
-(1) ... Für die Durchführung des Übereinkommens ist das Hausarbeitsgesetz vom 27. Juni 1923 (Reichsgesetzbl. I S. 472 und 730) maßgebend.
-
 (2)
 
 > § 1 Abs. 1 Satz 2 Kursivdruck: HausarbeitsG aufgeh. durch § 41 G v. 23.3.1934 I 214, vgl. jetzt d. HeimarbeitsG HAG 804-1

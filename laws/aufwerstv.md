@@ -45,5 +45,3 @@ Die zu erstattenden Beträge werden nachträglich nach Einzelfällen abgerechnet
 Diese Verordnung tritt mit Wirkung vom 2. Juli 1975 in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Arbeit und Sozialordnung

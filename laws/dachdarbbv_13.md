@@ -12,7 +12,7 @@ Das Bundesministerium für Arbeit und Soziales verordnet aufgrund des § 7 Absat
 
 ### § 1 — Zwingende Arbeitsbedingungen
 
-Die in der Anlage zu dieser Verordnung aufgeführten Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 2. Oktober 2025, abgeschlossen zwischen dem Zentralverband des Deutschen Dachdeckerhandwerks e. V. – Fachverband Dach-, Wand- und Abdichtungstechnik – einerseits sowie der Industriegewerkschaft Bauen-Agrar-Umwelt andererseits, finden auf alle nicht an den TV Mindestlohn gebundenen Arbeitgeber sowie Arbeitnehmerinnen und Arbeitnehmer Anwendung, die unter den Geltungsbereich der am 1. Januar 2026 geltenden Fassung des TV Mindestlohn fallen, wenn der Betrieb oder die selbstständige Betriebsabteilung nach dem fachlichen Geltungsbereich des TV Mindestlohn überwiegend Bauleistungen im Sinne des § 101 Absatz 2 des Dritten Buches Sozialgesetzbuch erbringt.
+Die in der Anlage zu dieser Verordnung aufgeführten Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 2. Oktober 2025, abgeschlossen zwischen dem Zentralverband des Deutschen Dachdeckerhandwerks e. V. – Fachverband Dach-, Wand- und Abdichtungstechnik – einerseits sowie der Industriegewerkschaft Bauen-Agrar-Umwelt andererseits, finden auf alle nicht an den TV Mindestlohn gebundenen Arbeitgeber sowie Arbeitnehmerinnen und Arbeitnehmer Anwendung, die unter den Geltungsbereich der am 1. Januar 2026 geltenden Fassung des TV Mindestlohn fallen, wenn der Betrieb oder die selbstständige Betriebsabteilung nach dem fachlichen Geltungsbereich des TV Mindestlohn überwiegend Bauleistungen im Sinne des § 101 Absatz 2 des Dritten Buches Sozialgesetzbuch erbringt.
 
 ### § 2 — Außerkrafttreten
 
@@ -23,5 +23,3 @@ Diese Verordnung tritt mit Ablauf des 31. Dezember 2028 außer Kraft.
 Diese Verordnung tritt am 1. Januar 2026 in Kraft.
 
 ### Anlage — (zu § 1)
-
-(Text der Anlage siehe: TVMindestlohnDachd 13)

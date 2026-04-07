@@ -11,15 +11,15 @@ Auf Grund des § 15 Absatz 1 der Erneuerbare-Energien-Verordnung vom 17. Februar
 
 ### § 1 — Anwendungsbereich und Gegenstand
 
-Für die im Flächenentwicklungsplan vom 20. Januar 2023, der am 20. Januar 2023 auf der Internetseite des Bundesamtes für Seeschifffahrt und Hydrographie bekanntgemacht wurde, festgelegten Flächen N-10.1 und N-10.2 in der deutschen ausschließlichen Wirtschaftszone der Nordsee werden durch diese Verordnung
+Für die im Flächenentwicklungsplan vom 20. Januar 2023
 
-1.
+1. die Eignung zur Ausschreibung nach § 12 Absatz 5 Satz 1 des Windenergie-auf-See-Gesetzes festgestellt,
 
-2.
+2. nach § 12 Absatz 5 Satz 2 des Windenergie-auf-See-Gesetzes entsprechend § 1 Absatz 3 des Windenergie-auf-See-Gesetzes festgestellt, dass die Realisierung von Windenergieanlagen auf See auf der zentral voruntersuchten Fläche aus Gründen eines überragenden öffentlichen Interesses und im Interesse der öffentlichen Sicherheit erforderlich ist,
 
-3.
+3. Vorgaben für das spätere Vorhaben nach § 12 Absatz 5 Satz 3 und 4 des Windenergie-auf-See-Gesetzes festgelegt und
 
-4.
+4. die auf den Flächen zu installierende Leistung nach § 12 Absatz 5 Satz 1 in Verbindung mit § 10 Absatz 3 des Windenergie-auf-See-Gesetzes festgestellt.
 
 ### § 2 — Feststellung der Eignung
 

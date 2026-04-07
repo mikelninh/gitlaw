@@ -9,15 +9,15 @@
 
 Das Bundesministerium für Ernährung und Landwirtschaft verordnet, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176), auf Grund des
 
-–
+– § 9a Satz 1 in Verbindung mit § 9b Absatz 2 Satz 1 des Marktorganisationsgesetzes in der Fassung der Bekanntmachung vom 7. November 2017 (BGBl. I S. 3746) in Verbindung mit § 2 des GAP-Konditionalitäten-Gesetzes vom 16. Juli 2021 (BGBl. I S. 2996), im Einvernehmen mit dem Bundesministerium der Finanzen, dem Bundesministerium für Wirtschaft und Klimaschutz und dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz,
 
-–
+– § 6 Absatz 1 Nummer 2 in Verbindung mit Absatz 4 Satz 1 des Marktorganisationsgesetzes in der Fassung der Bekanntmachung vom 7. November 2017 (BGBl. I S. 3746) in Verbindung mit § 2 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes vom 10. August 2021 (BGBl. I S. 3523) im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Klimaschutz,
 
-–
+– § 6 Absatz 1 Nummer 2 in Verbindung mit Absatz 4 Satz 1 des Marktorganisationsgesetzes in der Fassung der Bekanntmachung vom 7. November 2017 (BGBl. I S. 3746) in Verbindung mit den §§ 2 und 20 Absatz 2 des GAP-Direktzahlungen-Gesetzes vom 16. Juli 2021 (BGBl. I S. 3003) im Einvernehmen mit dem Bundesministerium der Finanzen, dem Bundesministerium für Wirtschaft und Klimaschutz und dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz,
 
-–
+– § 23 Absatz 1 Nummer 2 in Verbindung mit § 11 Absatz 2 des GAP-Konditionalitäten-Gesetzes vom 16. Juli 2021 (BGBl. I S. 2996) im Einvernehmen mit dem Bundesministerium der Finanzen, dem Bundesministerium für Wirtschaft und Klimaschutz und dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz,
 
-–
+– § 17 Absatz 1 Satz 2 Nummer 1 und 2 Buchstabe a des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes vom 10. August 2021 (BGBl. I S. 3523) im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Klimaschutz:
 
 ### § 1 — Anwendungsbereich
 
@@ -25,11 +25,11 @@ Diese Verordnung dient der Durchführung der Durchführungsverordnung (EU) 2024/
 
 ### § 2 — Zusätzliche Anrechnungsmöglichkeit für Flächen mit stickstoffbindenden Pflanzen oder Zwischenfrüchten
 
-Zur Erfüllung der Verpflichtung nach § 11 des GAP-Konditionalitäten-Gesetzes in Verbindung mit § 19 der GAP-Konditionalitäten-Verordnung können zusätzlich zu den Anrechnungsmöglichkeiten nach § 20 Absatz 1 der GAP-Konditionalitäten-Verordnung für das Antragsjahr 2024 Flächen angerechnet werden, die genutzt werden. In allen Fällen des Satzes 1 dürfen Pflanzenschutzmittel nicht angewendet werden. In den Fällen des Satzes 1 Nummer 2 muss der nach guter fachlicher Praxis etablierte Bestand bis mindestens 31. Dezember des Antragsjahres auf der Fläche vorhanden sein.
+Zur Erfüllung der Verpflichtung nach § 11 des GAP-Konditionalitäten-Gesetzes in Verbindung mit § 19 der GAP-Konditionalitäten-Verordnung können zusätzlich zu den Anrechnungsmöglichkeiten nach § 20 Absatz 1 der GAP-Konditionalitäten-Verordnung für das Antragsjahr 2024 Flächen angerechnet werden, die
 
-1.
+1. für den Anbau von stickstoffbindenden Pflanzen als Hauptkultur oder
 
-2.
+2. für den Anbau von Zwischenfrüchten
 
 ### § 3 — Berücksichtigung bei Öko-Regelungen
 

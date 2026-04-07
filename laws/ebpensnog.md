@@ -45,12 +45,8 @@ Der Bundesminister der Finanzen bestimmt im Benehmen mit dem Bundesrechnungshof,
 
 ### § 6a
 
-Die Vorschriften des Gesetzes zur Regelung von Ansprüchen aus Lebens- und Rentenversicherungen in der Fassung vom 15. Juli 1959 (Bundesgesetzbl. I S. 433) finden auf die Versicherungsverhältnisse der Pensionskasse keine Anwendung.
-
 ### (XXXX) §§ 7 bis 9 — (weggefallen)
 
 ### Anhang EV — Auszug aus EinigVtr Anlage I Kapitel IV Sachgebiet B Abschnitt III
 
-Abschnitt III
-
-4.
+4. Das Gesetz zur Neuordnung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 7633-1, veröffentlichen bereinigten Fassung, zuletzt geändert durch Artikel 6 des Gesetzes vom 18. März 1975 (BGBl. I S. 705) mit folgender Maßgabe: Die §§ 2 bis 6a werden in dem in Artikel 3 des Vertrages genannten Gebiet nicht angewendet.

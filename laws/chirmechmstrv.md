@@ -16,13 +16,13 @@ Auf Grund des § 45 Abs. 1 der Handwerksordnung in der Fassung der Bekanntmachun
 
 Die Meisterprüfung im zulassungspflichtigen Chirurgiemechaniker-Handwerk umfasst folgende selbständige Prüfungsteile:
 
-1.
+1. die Prüfung der meisterhaften Verrichtung der wesentlichen Tätigkeiten (Teil I),
 
-2.
+2. die Prüfung der erforderlichen fachtheoretischen Kenntnisse (Teil II),
 
-3.
+3. die Prüfung der erforderlichen betriebswirtschaftlichen, kaufmännischen und rechtlichen Kenntnisse (Teil III) und
 
-4.
+4. die Prüfung der erforderlichen berufs- und arbeitspädagogischen Kenntnisse (Teil IV).
 
 ### § 2 — Meisterprüfungsberufsbild
 
@@ -30,37 +30,37 @@ Die Meisterprüfung im zulassungspflichtigen Chirurgiemechaniker-Handwerk umfass
 
 (2) Im Chirurgiemechaniker-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeiten und Kenntnisse als ganzheitliche Qualifikationen zu berücksichtigen:
 
-1.
+1. Kundenwünsche ermitteln, Kunden beraten, Serviceleistungen anbieten, Auftragsverhandlungen führen und Auftragsziele festlegen, Leistungen kalkulieren und Angebote erstellen, Verträge schließen,
 
-2.
+2. Aufgaben der technischen, kaufmännischen und personalwirtschaftlichen Betriebsführung wahrnehmen, insbesondere unter Berücksichtigung der Betriebsorganisation, der betrieblichen Aus- und Weiterbildung, des Qualitätsmanagements, der Haftungsvorschriften des Arbeitsschutzrechtes, des Datenschutzes, des Umweltschutzes, einschließlich der Verwendung lösemittelarmer oder wasserbasierter, lösemittelfreier Produkte, sowie von Informations- und Kommunikationstechniken,
 
-3.
+3. Auftragsabwicklungsprozesse planen, organisieren, durchführen und überwachen,
 
-4.
+4. Aufträge durchführen, insbesondere unter Berücksichtigung von Fertigungs- und Instandsetzungstechniken, berufsbezogenen rechtlichen Vorschriften und technischen Normen sowie der allgemein anerkannten Regeln der Technik, Personal, Material und Geräten sowie der Einsatzmöglichkeiten von Auszubildenden,
 
-5.
+5. technische Arbeitspläne und Prozessabläufe sowie Skizzen und technische Zeichnungen, insbesondere unter Einsatz von rechnergestützten Systemen, erstellen,
 
-6.
+6. Arten und Eigenschaften zu verarbeitender Werk-, Hilfs- und Betriebsstoffe, einschließlich der Verfahren zur Wärme- und Oberflächenbehandlung sowie des Korrosionsschutzes bei der Planung und Fertigung berücksichtigen,
 
-7.
+7. manuelle, maschinelle und programmgesteuerte Be- und Verarbeitungsverfahren sowie Füge- und Umformtechniken beherrschen,
 
-8.
+8. chirurgische Instrumente, Geräte und Implantate planen, berechnen und fertigen; Oberflächenbehandlung durchführen,
 
-9.
+9. chirurgische Instrumente, Geräte und Implantate aus Bauteilen und Baugruppen montieren, in Betrieb nehmen, Funktionsprüfung durchführen und instand halten,
 
-10.
+10. Logistikkonzepte für Betriebs- und Lagerausstattung entwickeln und umsetzen,
 
-11.
+11. Fehler-, Mängel- und Störungssuche durchführen, Fehler, Mängel und Störungen beseitigen, Ergebnisse bewerten und dokumentieren,
 
-12.
+12. Leistungen abnehmen, abrechnen und protokollieren sowie Nachkalkulation durchführen.
 
 ### § 3 — Gliederung des Teils I
 
 Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
-1.
+1. ein Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch,
 
-2.
+2. eine Situationsaufgabe.
 
 ### § 4 — Meisterprüfungsprojekt
 
@@ -98,71 +98,19 @@ Nach Durchführung des Meisterprüfungsprojekts ist hierüber das Fachgespräch 
 
 (2) Handlungsfelder sind:
 
-1.
+1. Fertigungstechnik,
 
-2.
+2. Auftragsabwicklung,
 
-3.
+3. Betriebsführung und Betriebsorganisation.
 
 (3) In jedem Handlungsfeld ist mindestens eine Aufgabe zu bearbeiten, die fallorientiert sein muss:
 
-1.
+1. Fertigungstechnik Der Prüfling soll nachweisen, dass er in der Lage ist, fertigungstechnische Aufgaben unter Berücksichtigung wirtschaftlicher und ökologischer Aspekte in einem Chirurgiemechanikerbetrieb zu bearbeiten; dabei soll er berufsbezogene Sachverhalte analysieren und bewerten; bei der jeweiligen Aufgabenstellung sollen mehrere der unter Buchstabe a bis i aufgeführten Qualifikationen verknüpft werden:a)Lösungen für Problemstellungen im Bereich der chirurgiemechanischen Fertigungstechnik erarbeiten, bewerten und korrigieren,b)Aufbau, Verwendung und Behandlung chirurgischer Instrumente, Geräte und Implantate unter Berücksichtigung der Anatomie unterscheiden und medizinischen Fach- und Einsatzgebieten zuordnen, insbesondere für Sterilisation, Endoskopie, Ultraschalltechnik, Hochfrequenz-Chirurgie und Lasertechnik,c)Informationen für die Fertigungsplanung und den Fertigungsprozess beurteilen, Werkstoffe, Werkzeuge und Maschinen den entsprechenden Fertigungstechniken zuordnen und auswählen,d)Skizzen und Zeichnungen erstellen, lesen und beurteilen,e)Arten, Eigenschaften und Bezeichnungen von Werk- und Hilfsstoffen unterscheiden sowie Verwendungs- und Verarbeitungsalternativen zuordnen,f)technische Prüfungen planen; Prüf- und Betriebsmittel unterschiedlichen Fertigungs-, Füge- und Prüfverfahren zuordnen sowie Anwendungsbereiche unterscheiden,g)Lösungen für Probleme der Werkstoffbe- und -verarbeitung sowie des Fügens erarbeiten und bewerten,h)Bearbeitungsprogramme für gesteuerte Maschinen erarbeiten, bewerten und optimieren,i)Verfahren der Oberflächenbehandlung, insbesondere Wärmebehandlung, sowie des Korrosionsschutzes unterscheiden und Verwendungszwecken zuordnen; Lösungen für Problemstellungen im Bereich der chirurgiemechanischen Fertigungstechnik erarbeiten, bewerten und korrigieren, Aufbau, Verwendung und Behandlung chirurgischer Instrumente, Geräte und Implantate unter Berücksichtigung der Anatomie unterscheiden und medizinischen Fach- und Einsatzgebieten zuordnen, insbesondere für Sterilisation, Endoskopie, Ultraschalltechnik, Hochfrequenz-Chirurgie und Lasertechnik, Informationen für die Fertigungsplanung und den Fertigungsprozess beurteilen, Werkstoffe, Werkzeuge und Maschinen den entsprechenden Fertigungstechniken zuordnen und auswählen, Skizzen und Zeichnungen erstellen, lesen und beurteilen, Arten, Eigenschaften und Bezeichnungen von Werk- und Hilfsstoffen unterscheiden sowie Verwendungs- und Verarbeitungsalternativen zuordnen, technische Prüfungen planen; Prüf- und Betriebsmittel unterschiedlichen Fertigungs-, Füge- und Prüfverfahren zuordnen sowie Anwendungsbereiche unterscheiden, Lösungen für Probleme der Werkstoffbe- und -verarbeitung sowie des Fügens erarbeiten und bewerten, Bearbeitungsprogramme für gesteuerte Maschinen erarbeiten, bewerten und optimieren, Verfahren der Oberflächenbehandlung, insbesondere Wärmebehandlung, sowie des Korrosionsschutzes unterscheiden und Verwendungszwecken zuordnen;
 
-a)
+2. Auftragsabwicklung Der Prüfling soll nachweisen, dass er in der Lage ist, Auftragsabwicklungsprozesse, auch unter Anwendung branchenüblicher Software, erfolgs-, kunden- und qualitätsorientiert zu planen, deren Durchführung zu kontrollieren und sie abzuschließen; bei der jeweiligen Aufgabenstellung sollen mehrere der unter Buchstabe a bis h aufgeführten Qualifikationen verknüpft werden:a)Möglichkeiten der Auftragsbeschaffung darstellen,b)Angebotsunterlagen erstellen und Angebote auswerten, Angebotskalkulation durchführen,c)Methoden und Verfahren der Arbeitsplanung und -organisation unter Berücksichtigung der Fertigungs- und Instandsetzungstechnik, des Einsatzes von Material, Geräten und Personal bewerten, dabei qualitätssichernde Aspekte darstellen sowie Schnittstellen zwischen Arbeitsbereichen berücksichtigen,d)berufsbezogene rechtliche Vorschriften und technische Normen sowie allgemein anerkannte Regeln der Technik anwenden, insbesondere Haftung bei der Herstellung, der Instandhaltung und bei Dienstleistungen beurteilen,e)technische Arbeitspläne erarbeiten sowie vorgegebene Arbeitspläne bewerten und korrigieren,f)auftragsbezogenen Einsatz von Material, Maschinen und Geräten bestimmen und begründen,g)Unteraufträge vergeben und kontrollieren,h)Mengen ermitteln und berechnen, Vor- und Nachkalkulation durchführen; Möglichkeiten der Auftragsbeschaffung darstellen, Angebotsunterlagen erstellen und Angebote auswerten, Angebotskalkulation durchführen, Methoden und Verfahren der Arbeitsplanung und -organisation unter Berücksichtigung der Fertigungs- und Instandsetzungstechnik, des Einsatzes von Material, Geräten und Personal bewerten, dabei qualitätssichernde Aspekte darstellen sowie Schnittstellen zwischen Arbeitsbereichen berücksichtigen, berufsbezogene rechtliche Vorschriften und technische Normen sowie allgemein anerkannte Regeln der Technik anwenden, insbesondere Haftung bei der Herstellung, der Instandhaltung und bei Dienstleistungen beurteilen, technische Arbeitspläne erarbeiten sowie vorgegebene Arbeitspläne bewerten und korrigieren, auftragsbezogenen Einsatz von Material, Maschinen und Geräten bestimmen und begründen, Unteraufträge vergeben und kontrollieren, Mengen ermitteln und berechnen, Vor- und Nachkalkulation durchführen;
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
+3. Betriebsführung und Betriebsorganisation Der Prüfling soll nachweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und Betriebsorganisation unter Berücksichtigung der rechtlichen Vorschriften, auch unter Anwendung von Informations- und Kommunikationssystemen, wahrzunehmen; bei der jeweiligen Aufgabenstellung sollen mehrere der unter Buchstabe a bis i aufgeführten Qualifikationen verknüpft werden:a)betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen; Arbeitspositionen zu Angebotspaketen zusammenfassen und Preise kalkulieren,b)betriebliche Kostenstrukturen überprüfen, betriebliche Kennzahlen ermitteln,c)Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden vor dem Hintergrund technischer und wirtschaftlicher Entwicklungen erarbeiten,d)betriebliche Kennzahlen anhand vorgegebener Schemata ermitteln und nutzen,e)betriebliches Qualitätsmanagement planen und darstellen,f)Aufgaben der Personalverwaltung wahrnehmen; den Zusammenhang zwischen Personalverwaltung sowie Personalführung und -entwicklung darstellen,g)betriebsspezifische Maßnahmen zur Einhaltung der arbeitsschutzrechtlichen Bestimmungen entwickeln; Gefahrenpotenziale beurteilen und Maßnahmen zur Gefahrenvermeidung und -beseitigung festlegen,h)Betriebs- und Lagerausstattung planen und darstellen,i)Chancen und Risiken betrieblicher Kooperationen darstellen und beurteilen. betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen; Arbeitspositionen zu Angebotspaketen zusammenfassen und Preise kalkulieren, betriebliche Kostenstrukturen überprüfen, betriebliche Kennzahlen ermitteln, Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden vor dem Hintergrund technischer und wirtschaftlicher Entwicklungen erarbeiten, betriebliche Kennzahlen anhand vorgegebener Schemata ermitteln und nutzen, betriebliches Qualitätsmanagement planen und darstellen, Aufgaben der Personalverwaltung wahrnehmen; den Zusammenhang zwischen Personalverwaltung sowie Personalführung und -entwicklung darstellen, betriebsspezifische Maßnahmen zur Einhaltung der arbeitsschutzrechtlichen Bestimmungen entwickeln; Gefahrenpotenziale beurteilen und Maßnahmen zur Gefahrenvermeidung und -beseitigung festlegen, Betriebs- und Lagerausstattung planen und darstellen, Chancen und Risiken betrieblicher Kooperationen darstellen und beurteilen.
 
 (4) Die Prüfung in Teil II ist schriftlich durchzuführen. Sie soll in jedem Handlungsfeld nicht länger als drei Stunden dauern. Eine Prüfungsdauer von sechs Stunden täglich darf nicht überschritten werden.
 
@@ -172,9 +120,9 @@ i)
 
 (7) Mindestvoraussetzung für das Bestehen des Teils II der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung. Die Prüfung des Teils II ist nicht bestanden, wenn
 
-1.
+1. ein Handlungsfeld mit weniger als 30 Punkten bewertet worden ist oder
 
-2.
+2. nach durchgeführter Ergänzungsprüfung zwei Handlungsfelder jeweils mit weniger als 50 Punkten bewertet worden sind.
 
 > (+++ § 8 Abs. 6 u. 7: Zur Anwendung vgl. § 10 +++)
 

@@ -23,5 +23,3 @@ Diese Verordnung gilt nach Maßgabe des § 14 des Dritten Überleitungsgesetzes 
 Diese Verordnung tritt am 1. Juli 1972 in Kraft.
 
 ### Schlußformel
-
-Der Bundesminister für Wirtschaft und Finanzen

@@ -12,37 +12,37 @@
 
 ### § 1 — Zweck, Anwendungsbereich
 
-(1) Dieses Gesetz regelt die Prüfung und Zulassung von zum Schutz der Benutzer und Dritter bei bestimmungsgemäßer Verwendung.
+(1) Dieses Gesetz regelt die Prüfung und Zulassung von
 
-1.
+1. Feuerwaffen, Böllern, Geräten, bei denen zum Antrieb Munition oder hülsenlose Treibladungen verwendet werden, einschließlich deren höchstbeanspruchten Teilen,
 
-2.
+2. Munition und
 
-3.
+3. sonstigen Waffen
 
 (2) Dieses Gesetz ist nicht anzuwenden auf
 
-1.
+1. Feuerwaffen, die zum Verschießen von Munition bestimmt sind, bei der die Ladung nicht schwerer als 15 Milligramm ist,
 
-2.
+2. veränderte Schusswaffen nach Anlage 1 Abschnitt 1 Unterabschnitt 1 Nr. 1.4 des Waffengesetzes vom 11. Oktober 2002 (BGBl. I S. 3970) in der jeweils geltenden Fassung,
 
-3.
+3. die Lagerung der in Absatz 1 bezeichneten Gegenstände in verschlossenen Zolllagern oder in Freizonen.
 
-(3) Der Bauartzulassung unterliegen Geräte nach Satz 1 Nr. 2 können außerdem der Einzelbeschussprüfung unterzogen werden.
+(3) Der Bauartzulassung unterliegen
 
-1.
+1. nicht tragbare Selbstschussgeräte,
 
-2.
+2. bei anderen nicht tragbaren Geräten, in denen zum Antrieb in Hülsen untergebrachte Treibladungen verwendet werden und die für technische Zwecke bestimmt sind, nur die Auslösevorrichtungen und die Teile des Gerätes, die dem Druck der Pulvergase unmittelbar ausgesetzt sind.
 
-(4) Auf Feuerwaffen, Böller, Geräte, Munition und sonstige Waffen im Sinne des Absatzes 1, die für in den Geltungsbereich dieses Gesetzes verbracht oder hergestellt und ihnen oder ihren Bediensteten im Rahmen ihrer dienstlichen Tätigkeit jeweils überlassen werden, sind, soweit nicht ausdrücklich etwas anderes bestimmt ist, die Vorschriften über die Prüfung und Zulassung nach diesem Gesetz nicht anzuwenden.
+(4) Auf Feuerwaffen, Böller, Geräte, Munition und sonstige Waffen im Sinne des Absatzes 1, die für
 
-1.
+1. die obersten Bundes- und Landesbehörden und die Deutsche Bundesbank,
 
-2.
+2. die Bundeswehr und die in der Bundesrepublik Deutschland stationierten ausländischen Streitkräfte,
 
-3.
+3. die Polizeien des Bundes und der Länder,
 
-4.
+4. die Zollverwaltung
 
 (5) Die Bundesregierung kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, eine dem Absatz 4 entsprechende Regelung für sonstige Behörden und Dienststellen des Bundes einschließlich deren Bediensteter im Rahmen ihrer dienstlichen Tätigkeit treffen. Die Bundesregierung kann die Befugnis nach Satz 1 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, auf eine andere Bundesbehörde übertragen.
 
@@ -52,31 +52,25 @@
 
 (1) Feuerwaffen im Sinne dieses Gesetzes sind
 
-1.
+1. Schusswaffen, bei denen ein Geschoss mittels heißer Gase durch den Lauf getrieben wird, oder
 
-2.
+2. Geräte zum Abschießen von Munition oder hülsenlosen Treibladungen, bei denen kein Geschoss durch den Lauf getrieben wird.
 
 (2) Höchstbeanspruchte Teile im Sinne dieses Gesetzes sind die Teile, die dem Gasdruck ausgesetzt sind. Dies sind insbesondere
 
-1.
+1. der Lauf; dabei sinda)Austauschläufe Läufe für ein bestimmtes Waffenmodell oder -system, die ohne Nacharbeit ausgetauscht werden können,b)Wechselläufe Läufe, die für eine bestimmte Waffe zum Austausch des vorhandenen Laufs vorgefertigt sind und die noch eingepasst werden müssen,c)Einsteckläufe Läufe ohne eigenen Verschluss, die in die Läufe von Waffen größeren Kalibers eingesteckt werden können; Austauschläufe Läufe für ein bestimmtes Waffenmodell oder -system, die ohne Nacharbeit ausgetauscht werden können, Wechselläufe Läufe, die für eine bestimmte Waffe zum Austausch des vorhandenen Laufs vorgefertigt sind und die noch eingepasst werden müssen, Einsteckläufe Läufe ohne eigenen Verschluss, die in die Läufe von Waffen größeren Kalibers eingesteckt werden können;
 
-a)
+2. der Verschluss als das unmittelbar das Patronen- oder Kartuschenlager oder den Lauf abschließende Teil;
 
-b)
+3. das Patronen- oder Kartuschenlager, wenn dieses nicht bereits Bestandteil des Laufs ist;
 
-c)
+4. bei Schusswaffen und Geräten nach § 1 Abs. 3, bei denen zum Antrieb ein entzündbares flüssiges oder gasförmiges Gemisch verwendet wird, die Verbrennungskammer und die Einrichtung zur Erzeugung des Gemisches;
 
-2.
+5. bei Schusswaffen mit anderem Antrieb und Geräten nach § 1 Abs. 3 die Antriebsvorrichtung, sofern sie fest mit der Schusswaffe oder dem Gerät verbunden ist;
 
-3.
+6. bei Kurzwaffen das Griffstück oder sonstige Waffenteile, soweit sie für die Aufnahme des Auslösemechanismus bestimmt sind;
 
-4.
-
-5.
-
-6.
-
-7.
+7. Trommeln für ein bestimmtes Revolvermodell, die ohne Nacharbeit gewechselt werden können (Wechseltrommeln).
 
 (3) Böller im Sinne dieses Gesetzes sind Geräte, die ausschließlich zur Erzeugung des Schussknalls bestimmt sind und die keine Feuerwaffen oder Geräte zum Abschießen von Munition sind. Böller sind auch nicht tragbare Geräte für Munition nach einer Rechtsverordnung nach § 14 Abs. 1 Nr. 1 *). Gasböller sind Böller, bei denen die Erzeugung des Schussknalls durch die Explosion bestimmter Gase bewirkt wird.
 
@@ -86,9 +80,9 @@ c)
 
 (6) Munition im Sinne dieses Gesetzes ist Munition nach Anlage 1 Abschnitt 1 Unterabschnitt 3 Nr. 1 des Waffengesetzes, darüber hinaus Munition, die der Definition entspricht, jedoch für technische Geräte nach Absatz 1 Nr. 2 oder nach Absatz 4 bestimmt ist.
 
-(7) Soweit dieses Gesetz waffentechnische oder waffenrechtliche Begriffe verwendet, sind die Begriffsbestimmungen des Waffengesetzes in seiner jeweils geltenden Fassung maßgeblich, soweit sie nicht in diesem Gesetz abweichend definiert werden.-----
+(7) Soweit dieses Gesetz waffentechnische oder waffenrechtliche Begriffe verwendet, sind die Begriffsbestimmungen des Waffengesetzes in seiner jeweils geltenden Fassung maßgeblich, soweit sie nicht in diesem Gesetz abweichend definiert werden.
 
-*)
+*) Tabelle 5 der Maßtafeln, veröffentlicht im Bundesanzeiger Nr. 38a vom 24. Februar 2000.
 
 ## Abschnitt 2: Prüfung und Zulassung
 
@@ -102,25 +96,13 @@ c)
 
 (1) Von der Beschusspflicht sind ausgenommen:
 
-1.
+1. Feuerwaffen und deren höchstbeanspruchte Teile, deren Bauart nach § 7 der Zulassung bedarf,
 
-2.
+2. Schusswaffen mit einem Patronen- oder Kartuschenlager mit einem Durchmesser kleiner als 6 Millimeter und einer Länge kleiner als 7 Millimeter sowie zum einmaligen Gebrauch bestimmte höchstbeanspruchte Teile von Schusswaffen nach § 2 Abs. 2 Satz 2 Nr. 1, soweit die Bauart nach § 7 oder § 8 der Zulassung bedarf,
 
-3.
+3. Feuerwaffen, diea)zu Prüf-, Mess- oder Forschungszwecken von wissenschaftlichen Einrichtungen und Behörden, Waffen- oder Munitionsherstellern bestimmt sind, b)vor dem 1. Januar 1891 hergestellt und nicht verändert worden sind, c)aa)vorübergehend nach § 32 Abs. 1 Satz 1 des Waffengesetzes oder bb)zur Lagerung in einem verschlossenen Zolllager in den Geltungsbereich dieses Gesetzes mitgenommen werden oder d)für die in § 1 Abs. 4, auch in Verbindung mit Abs. 5 oder 6, genannten Behörden in den Geltungsbereich dieses Gesetzes verbracht oder hergestellt und ihnen oder ihren Bediensteten im Rahmen ihrer dienstlichen Tätigkeit jeweils überlassen werden, soweit eine diesem Gesetz entsprechende Beschussprüfung durch die jeweils zuständige Stelle sichergestellt ist, zu Prüf-, Mess- oder Forschungszwecken von wissenschaftlichen Einrichtungen und Behörden, Waffen- oder Munitionsherstellern bestimmt sind, vor dem 1. Januar 1891 hergestellt und nicht verändert worden sind, aa)vorübergehend nach § 32 Abs. 1 Satz 1 des Waffengesetzes oder bb)zur Lagerung in einem verschlossenen Zolllager vorübergehend nach § 32 Abs. 1 Satz 1 des Waffengesetzes oder zur Lagerung in einem verschlossenen Zolllager in den Geltungsbereich dieses Gesetzes mitgenommen werden oder für die in § 1 Abs. 4, auch in Verbindung mit Abs. 5 oder 6, genannten Behörden in den Geltungsbereich dieses Gesetzes verbracht oder hergestellt und ihnen oder ihren Bediensteten im Rahmen ihrer dienstlichen Tätigkeit jeweils überlassen werden, soweit eine diesem Gesetz entsprechende Beschussprüfung durch die jeweils zuständige Stelle sichergestellt ist,
 
-a)
-
-b)
-
-c)
-
-aa)
-
-bb)
-
-d)
-
-4.
+4. höchstbeanspruchte Teile von im Fertigungsprozess befindlichen Feuerwaffen nach § 3 Abs. 1 sowie vorgearbeitete höchstbeanspruchte Teile und Laufrohlinge.
 
 (2) Eine Beschusspflicht nach § 3 besteht nicht für Feuerwaffen und höchstbeanspruchte Teile, die das Beschusszeichen eines Staates tragen, mit dem die gegenseitige Anerkennung der Beschusszeichen vereinbart ist.
 
@@ -130,25 +112,25 @@ d)
 
 (1) Bei dem Beschuss von Feuerwaffen ist zu prüfen, ob
 
-1.
+1. die höchstbeanspruchten Teile der Feuerwaffe der Beanspruchung standhalten, der sie bei der Verwendung der zugelassenen Munition oder der festgelegten Ladung ausgesetzt werden (Haltbarkeit),
 
-2.
+2. die Verschlusseinrichtung, die Sicherung und die Zündeinrichtung sowie bei halbautomatischen Schusswaffen der Lademechanismus einwandfrei arbeiten und die Waffe sicher geladen, geschlossen und abgefeuert werden kann (Funktionssicherheit),
 
-3.
+3. die Abmessungen des Patronen- oder Kartuschenlagers, der Verschlussabstand, die Maße des Übergangs, der Feld- und Zugdurchmesser oder des Laufquerschnitts bei gezogenen Läufen und der Laufinnendurchmesser bei glatten Läufen den Nenngrößen einer nach § 14 Abs. 1 Nr. 1 erlassenen Rechtsverordnung entsprechen (Maßhaltigkeit) und
 
-4.
+4. die nach § 24 Abs. 1 und 2 des Waffengesetzes vom 11. Oktober 2002 (BGBl. I S. 3970) oder die auf Grund einer Rechtsverordnung nach § 25 des Waffengesetzes vorgeschriebene Kennzeichnung auf der Waffe angebracht ist.
 
 (2) Auf Antrag ist der Beschuss von Schusswaffen mit glatten Läufen mit einem erhöhten Gasdruck (verstärkter Beschuss) oder mit Stahlschrotmunition vorzunehmen.
 
 (3) Bei dem Beschuss von Böllern ist zu prüfen, ob
 
-1.
+1. die höchstbeanspruchten Teile der Beanspruchung standhalten, der sie bei der Verwendung der vorgeschriebenen Ladung ausgesetzt werden (Haltbarkeit),
 
-2.
+2. die Verschlusseinrichtung und die Abzugseinrichtung einwandfrei arbeiten und der Böller sicher geladen, geschlossen und abgefeuert werden kann (Funktionssicherheit),
 
-3.
+3. die Rohrinnendurchmesser, Länge und Durchmesser des Kartuschenlagers, der Zündkanaldurchmesser den Bestimmungen einer nach § 14 Abs. 1 Nr. 1 erlassenen Rechtsverordnung entsprechen (Maßhaltigkeit),
 
-4.
+4. die durch eine Rechtsverordnung nach § 14 Abs. 1 Nr. 3 des Gesetzes vorgeschriebene Kennzeichnung auf dem Böller angebracht ist.
 
 ### § 6 — Prüfzeichen
 
@@ -160,53 +142,53 @@ d)
 Beschusspflicht unterliegenden Feuerwaffen, Systemprüfungen von
 Schussapparaten und der in ihnen zu verwendenden Kartuschenmunition
 
-(1) Schussapparate, Zusatzgeräte für diese Apparate, Gasböller, Einsätze für Munition mit kleinerer Abmessung sowie Einsteckläufe ohne eigenen Verschluss für Munition mit dem zulässigen höchsten Gebrauchsgasdruck dürfen als serienmäßig hergestellte Stücke nur dann in den Geltungsbereich dieses Gesetzes verbracht oder gewerbsmäßig hergestellt werden, wenn sie ihrer Bauart und Bezeichnung nach von der zuständigen Stelle zugelassen sind. Gleiches gilt für Feuerwaffen Bei Schussapparaten, die für die Verwendung magazinierter Kartuschen bestimmt sind und in denen der Gasdruck auf einen Kolben als Geräteteil wirkt, gehört zur Bauartzulassung auch eine Systemprüfung, durch die die Eignung der zu verwendenden Kartuschenmunition im Gerät festgelegt wird. Kartuschenmunition zur Verwendung in Geräten nach Satz 3 ist einer Systemprüfung zu unterziehen.
+(1) Schussapparate, Zusatzgeräte für diese Apparate, Gasböller, Einsätze für Munition mit kleinerer Abmessung sowie Einsteckläufe ohne eigenen Verschluss für Munition mit dem zulässigen höchsten Gebrauchsgasdruck dürfen als serienmäßig hergestellte Stücke nur dann in den Geltungsbereich dieses Gesetzes verbracht oder gewerbsmäßig hergestellt werden, wenn sie ihrer Bauart und Bezeichnung nach von der zuständigen Stelle zugelassen sind. Gleiches gilt für Feuerwaffen
 
-1.
+1. mit einem Patronen- oder Kartuschenlager bis zu 5 Millimeter Durchmesser und bis zu 15 Millimeter Länge oder mit einem Patronen- oder Kartuschenlager kleiner als 6 Millimeter Durchmesser und kleiner als 7 Millimeter Länge, bei denen dem Geschoss eine Bewegungsenergie von nicht mehr als 7,5 Joule (J) erteilt wird, oder
 
-2.
+2. zum einmaligen Abschießen von Munition oder eines festen oder flüssigen Treibmittels.
 
 (2) Absatz 1 gilt nicht für Schussapparate, Einsteckläufe und Feuerwaffen, die ein anerkanntes Prüfzeichen eines Staates tragen, mit dem die gegenseitige Anerkennung der Prüfzeichen vereinbart ist.
 
 (3) Die Zulassung ist zu versagen, wenn
 
-1.
+1. die Bauart nicht haltbar, nicht funktionssicher oder nicht maßhaltig ist oder
 
-2.
+2. es sich um eine Schusswaffe nach Absatz 1 Satz 2 Nr. 1 handelt, die mit allgemein gebräuchlichen Werkzeugen so verändert werden kann, dass die Bewegungsenergie auf mehr als 7,5 Joule (J) erhöht wird.
 
 (4) Die Zulassung der Bauart eines Schussapparates ist zu versagen, wenn
 
-1.
+1. aus ihm zugelassene Patronenmunition verschossen werden kann,
 
-2.
+2. er so beschaffen ist, dass Personen, die sich bei der Verwendung des Schussapparates in seinem Gefahrenbereich befinden, bei ordnungsgemäßer Verwendung mehr als unvermeidbar gefährdet oder belästigt werden,
 
-3.
+3. mit ihm entgegen seiner Bestimmung in den freien Raum gezielt geschossen werden kann oder
 
-4.
+4. der Antragsteller nicht nachweist, dass er über die für die Durchführung von Wiederholungsprüfungen erforderlichen Einrichtungen verfügt.
 
 ### § 8 — Zulassung von Schreckschuss-, Reizstoff- und Signalwaffen
 
-(1) Schusswaffen mit einem Patronen- oder Kartuschenlager bis 12,5 Millimeter Durchmesser und tragbare Geräte nach § 2 Absatz 1 Nummer 2 ohne Patronen- oder Kartuschenlager, die zum bestimmt sind, sowie Zusatzgeräte zu diesen Waffen zum Verschießen pyrotechnischer Geschosse dürfen nur dann in den Geltungsbereich dieses Gesetzes verbracht oder gewerbsmäßig hergestellt werden, wenn sie ihrer Bauart und Bezeichnung nach von der zuständigen Stelle im Geltungsbereich dieses Gesetzes zugelassen sind. Der Zulassung nach Satz 1 steht gleich, wenn sie den Rechtsvorschriften eines anderen Mitgliedstaates entsprechen, die dieser der Europäischen Kommission nach Artikel 4 Absatz 2 der Durchführungsrichtlinie (EU) 2019/69 der Kommission vom 16. Januar 2019 zur Festlegung technischer Spezifikationen für Schreckschuss- und Signalwaffen gemäß der Richtlinie 91/477/EWG des Rates über die Kontrolle des Erwerbs und des Besitzes von Waffen als Maßnahme zur Umsetzung dieser Durchführungsrichtlinie mitgeteilt hat.
+(1) Schusswaffen mit einem Patronen- oder Kartuschenlager bis 12,5 Millimeter Durchmesser und tragbare Geräte nach § 2 Absatz 1 Nummer 2 ohne Patronen- oder Kartuschenlager, die zum
 
-1.
+1. Abschießen von Kartuschenmunition,
 
-2.
+2. Verschießen von Reiz- oder anderen Wirkstoffen oder
 
-3.
+3. Verschießen von pyrotechnischer Munition
 
 (2) Die Zulassung ist zu versagen, wenn
 
-1.
+1. Patronenmunition in den freien Raum abgeschossen werden kann und die Geschosse mehr als 7,5 Joule (J) erreichen,
 
-2.
+2. vorgeladene Geschosse verschossen werden können und ihnen eine Bewegungsenergie von mehr als 7,5 Joule (J) erteilt wird,
 
-3.
+3. der Gaslauf der Waffe einen Innendurchmesser von weniger als 7 Millimeter hat,
 
-4.
+4. mit der Waffe nach Umarbeitung mit allgemein gebräuchlichen Werkzeugen die in Nummer 1 oder 2 bezeichnete Wirkung erreicht werden kann,
 
-5.
+5. die Waffe oder das Zusatzgerät den technischen Anforderungen an die Bauart nicht entspricht oder
 
-6.
+6. den Anforderungen einer Rechtsverordnung nach § 14 Abs. 3 entsprechende Patronenmunition nach den Maßtafeln in die Kartuschenlager geladen und darin abgefeuert werden kann.
 
 (3) Hat die Schusswaffe ein Patronen- oder Kartuschenlager mit einem Durchmesser kleiner als 6 Millimeter und einer Länge kleiner als 7 Millimeter, so ist die Zulassung der Bauart ferner zu versagen, wenn die Bauart nicht haltbar, nicht funktionssicher oder nicht maßhaltig ist. Das Gleiche gilt für höchstbeanspruchte Teile von Handfeuerwaffen nach § 2 Abs. 2 Satz 2 Nr. 1 bis 3, die zum einmaligen Gebrauch bestimmt sind.
 
@@ -224,21 +206,19 @@ Schussapparaten und der in ihnen zu verwendenden Kartuschenmunition
 
 (2) Wer
 
-eines bestimmten Modells gewerbsmäßig erstmals herstellen oder in den Geltungsbereich dieses Gesetzes verbringen will, hat dies der zuständigen Stelle zwei Monate vorher schriftlich anzuzeigen. Der Anzeige sind beizufügen ein Muster, eine Beschreibung der Handhabung und der Konstruktion. Die verwendeten Inhaltsstoffe sind zu benennen.
+1. Schusswaffen, die weder einer Prüfung nach § 3 noch einer Bauartzulassung nach § 7 noch der Prüfung und Zulassung nach Absatz 1 unterliegen,
 
-1.
+2. Gegenstände nach Anlage 1 Abschnitt 1 Unterabschnitt 2 Nr. 1.2.1 und 2.2.1 zum Waffengesetz,
 
-2.
+3. Gegenstände nach Anlage 1 Abschnitt 1 Unterabschnitt 2 Nr. 1.2.2 zum Waffengesetz oder
 
-3.
-
-4.
+4. Kartuschenmunition mit Reizstoffen
 
 (3) Der Anzeige nach Absatz 2 Satz 1 Nr. 1 bis 3 ist darüber hinaus eine Erklärung des Herstellers oder seines Bevollmächtigten in der Europäischen Union beizufügen,
 
-1.
+1. ob und wie der Anwender die Leistung der Waffe verändern kann,
 
-2.
+2. dass es sich im Falle des Absatzes 2 Satz 1 Nr. 2 und 3 um einen Gegenstand handelt, bei dessen Verwendung keine Gefahren für das Leben zu erwarten sind.
 
 (4) Die zuständige Stelle kann für Gegenstände nach Anlage 1 Abschnitt 1 Unterabschnitt 2 Nr. 1.2.1, 1.2.2 und 2.2.1 zum Waffengesetz, für die in § 14 Abs. 4 und 6 bezeichneten Gegenstände sowie für Geschosse, Kartuschenmunition, Stoffe und sonstige Gegenstände mit Reizstoffen die erforderlichen Maßnahmen anordnen, um sicherzustellen, dass diese Gegenstände nicht abweichend von dem geprüften Muster oder entgegen den festgelegten Anforderungen vertrieben oder anderen überlassen werden. Sie kann die nach Absatz 3 gemachten Angaben prüfen oder mit der Prüfung oder Teilprüfung andere Fachinstitute beauftragen.
 
@@ -252,13 +232,13 @@ eines bestimmten Modells gewerbsmäßig erstmals herstellen oder in den Geltungs
 
 (3) Die Zulassung ist zu versagen,
 
-1.
+1. soweit der Schutz von Leben, Gesundheit oder Sachgütern des Benutzers oder Dritter bei bestimmungsgemäßer Verwendung nicht gewährleistet ist,
 
-2.
+2. wenn die Munition den Anforderungen an die Zusammensetzung, Beschaffenheit, Maße, den höchsten Gebrauchsgasdruck und die Bezeichnung gemäß einer nach § 14 Abs. 2 Satz 1 Nr. 1 erlassenen Rechtsverordnung nicht entspricht,
 
-3.
+3. soweit die Munition in ihrer Wirkungsweise, Brauchbarkeit und Beständigkeit dem jeweiligen Stand der Technik nicht entspricht,
 
-4.
+4. wenn der Antragsteller auf Grund seiner betrieblichen Ausstattung oder wegen eines unzureichenden Qualitätssicherungssystems nicht in der Lage ist, dafür zu sorgen, dass die nachgefertigte Munition in ihrer Zusammensetzung und Beschaffenheit nach dem zugelassenen Muster hergestellt wird.
 
 (4) (weggefallen)
 
@@ -268,15 +248,15 @@ eines bestimmten Modells gewerbsmäßig erstmals herstellen oder in den Geltungs
 
 (2) Absatz 1 gilt nicht für
 
-1.
+1. Munition aus Staaten, mit denen die gegenseitige Anerkennung der Prüfzeichen vereinbart ist und deren kleinste Verpackungseinheit ein Prüfzeichen eines dieser Staaten trägt,
 
-2.
+2. Munition, die für wissenschaftliche Einrichtungen, Behörden, Waffen- Waffen- oder Munitionshersteller, als Teil einer Munitionssammlung (§ 17 Abs. 1 des Waffengesetzes) oder für eine solche bestimmt, oder in geringer Menge für gewerbliche Einführer von Munition, Händler oder behördlich anerkannte Sachverständige zu Prüf-, Mess- oder Forschungszwecken hergestellt oder ihnen zu diesem Zweck überlassen wird.
 
-(3) Die Zulassung ist zu versagen, wenn % 1. Die Zulassung wird nach Satz 1 Nr. 1 und 2 nicht versagt, wenn der Antragsteller die Überwachung der Herstellung der zuständigen Behörde übertragen hat.
+(3) Die Zulassung ist zu versagen, wenn % 1.
 
-2.
+2. der Antragsteller oder ein von ihm beauftragtes Fachinstitut nicht über das zur Bedienung der Prüfgeräte erforderliche Fachpersonal verfügt oder
 
-3.
+3. die Prüfung der Munition ergibt, dass ihre Maße, ihr Gasdruck, die in ihr enthaltenen Reiz- oder Wirkstoffe und ihre Bezeichnung nicht den Anforderungen einer Rechtsverordnung nach § 14 Abs. 3 entsprechen.
 
 ### § 12 — Überlassen und Verwenden beschuss- oder zulassungspflichtiger Gegenstände
 
@@ -292,79 +272,49 @@ Die für die Zulassung jeweils zuständige Behörde kann im Einzelfall Ausnahmen
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, zur Durchführung der §§ 3, 5 und 6 durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über
 
-1.
+1. die Maße für das Patronen- und Kartuschenlager, den Übergang, die Feld- und Zugdurchmesser oder den Laufquerschnitt, den Laufinnendurchmesser und den Verschlussabstand (Maßtafeln), höchstzulässige Gebrauchsgasdrücke, Höchst- und Mindestenergien sowie die Bezeichnung der Munition und Treibladungen,
 
-2.
+2. die Art und Durchführung der Beschussprüfung, die Gegenstände und Messmethoden sowie das Verfahren für diese Prüfung,
 
-3.
+3. die Art, Form und Aufbringung der Prüfzeichen,
 
-4.
+4. die Einführung einer freiwilligen Beschussprüfung für Feuerwaffen,
 
-5.
+5. die Einbeziehung weiterer Teile von Feuerwaffen in die Beschussprüfung.
 
-(2) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung der §§ 7 bis 11 Soweit die Rechtsverordnung Schussapparate betrifft, ergeht sie im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales.
+(2) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung der §§ 7 bis 11
 
-1.
+1. zu bestimmen, welche technischen Anforderungena)an die Bauart einer Feuerwaffe oder eines Einstecklaufes nach § 7 Abs. 1 oder § 8 Abs. 2 und 3,b)an einen Gegenstand nach § 9 Abs. 1 und 2,c)an die Zusammensetzung, Beschaffenheit, die Maße und den höchsten Gebrauchsgasdruck von pyrotechnischer Munition nach § 10 Abs. 1 und 3 Nr. 2 undd)an die Beschaffenheit der Prüfgeräte für Patronen- und Kartuschenmunition und Treibladungen nach § 11 Abs. 1 an die Bauart einer Feuerwaffe oder eines Einstecklaufes nach § 7 Abs. 1 oder § 8 Abs. 2 und 3, an einen Gegenstand nach § 9 Abs. 1 und 2, an die Zusammensetzung, Beschaffenheit, die Maße und den höchsten Gebrauchsgasdruck von pyrotechnischer Munition nach § 10 Abs. 1 und 3 Nr. 2 und an die Beschaffenheit der Prüfgeräte für Patronen- und Kartuschenmunition und Treibladungen nach § 11 Abs. 1 sowie welche Anforderungen an die Bezeichnung dieser Gegenstände zu stellen sind,
 
-a)
+2. die Art und Durchführung der Zulassungsprüfungen und das Verfahren für die Prüfung und Zulassung zu regeln,
 
-b)
+3. vorzuschreibena)periodische Kontrollen für Munition nach § 11 Abs. 1,b)Kontrollen für Schussapparate und Einsteckläufe periodische Kontrollen für Munition nach § 11 Abs. 1, Kontrollen für Schussapparate und Einsteckläufe sowie das Verfahren für diese Kontrollen zu regeln,
 
-c)
+4. weitere Feuerwaffen oder Einsteckläufe in die Bauartprüfung und -zulassung einzubeziehen,
 
-d)
-
-2.
-
-3.
-
-a)
-
-b)
-
-4.
-
-5.
-
-a)
-
-b)
-
-c)
-
-d)
-
-aa)
-
-bb)
-
-e)
-
-f)
-
-g)
+5. Vorschriften zu erlassen übera)die Verpflichtung zur Aufbringung eines Zulassungszeichens sowie dessen Art und Form,b)die Verpflichtung von Personen, die Munition im Sinne von § 11 Abs. 1 herstellen oder in den Geltungsbereich dieses Gesetzes verbringen, zur Durchführung von Fabrikationskontrollen,c)Inhalt, Führung, Aufbewahrung und Vorlage von Aufzeichnungen über die in Buchstabe b genannten Kontrollen,d)die Anordnung einer Kontrolle und die Untersagung des weiteren Vertriebs vonaa)zugelassener Munition nach § 11 Abs. 1 durch die zuständige Behörde undbb)zugelassenen Feuerwaffen, Schussapparaten, Einsteckläufen und Einsätzen durch die Physikalisch-Technische Bundesanstalt,wenn diese Gegenstände nicht den vorgeschriebenen Anforderungen entsprechen,e)Ausnahmen von der Zulassung, der Fabrikationskontrolle und der periodischen Kontrolle von Treibladungen nach § 11 Abs. 1, wiedergeladener Munition, Beschussmunition und von Munitionstypen, die für besondere Zwecke oder bestimmte Empfänger hergestellt oder in den Geltungsbereich dieses Gesetzes verbracht werden,f)Anforderungen an den Vertrieb und das Überlassen der in Buchstabe e bezeichneten Munition,g)die Durchführung von Wiederholungsprüfungen für Schussapparate und Böller, die Unterhaltung von Einrichtungen zur Durchführung dieser Prüfungen, die Aufbringung eines Prüfzeichens und dessen Art und Form sowie die Beifügung einer von der Physikalisch-Technischen Bundesanstalt gebilligten Betriebsanleitung. die Verpflichtung zur Aufbringung eines Zulassungszeichens sowie dessen Art und Form, die Verpflichtung von Personen, die Munition im Sinne von § 11 Abs. 1 herstellen oder in den Geltungsbereich dieses Gesetzes verbringen, zur Durchführung von Fabrikationskontrollen, Inhalt, Führung, Aufbewahrung und Vorlage von Aufzeichnungen über die in Buchstabe b genannten Kontrollen, die Anordnung einer Kontrolle und die Untersagung des weiteren Vertriebs vonaa)zugelassener Munition nach § 11 Abs. 1 durch die zuständige Behörde undbb)zugelassenen Feuerwaffen, Schussapparaten, Einsteckläufen und Einsätzen durch die Physikalisch-Technische Bundesanstalt, zugelassener Munition nach § 11 Abs. 1 durch die zuständige Behörde und zugelassenen Feuerwaffen, Schussapparaten, Einsteckläufen und Einsätzen durch die Physikalisch-Technische Bundesanstalt, wenn diese Gegenstände nicht den vorgeschriebenen Anforderungen entsprechen, Ausnahmen von der Zulassung, der Fabrikationskontrolle und der periodischen Kontrolle von Treibladungen nach § 11 Abs. 1, wiedergeladener Munition, Beschussmunition und von Munitionstypen, die für besondere Zwecke oder bestimmte Empfänger hergestellt oder in den Geltungsbereich dieses Gesetzes verbracht werden, Anforderungen an den Vertrieb und das Überlassen der in Buchstabe e bezeichneten Munition, die Durchführung von Wiederholungsprüfungen für Schussapparate und Böller, die Unterhaltung von Einrichtungen zur Durchführung dieser Prüfungen, die Aufbringung eines Prüfzeichens und dessen Art und Form sowie die Beifügung einer von der Physikalisch-Technischen Bundesanstalt gebilligten Betriebsanleitung.
 
 (3) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Abwehr von Gefahren für Leben oder Gesundheit von Menschen die zulässigen höchsten normalen und überhöhten Gebrauchsgasdrücke, die Mindestgasdrücke, die Höchst- und Mindestenergien und die Bezeichnung der Munition und der Treibladungen nach § 11 Abs. 1 festzulegen. Munition, die auf Grund ihrer Beschaffenheit eine schwere gesundheitliche Schädigung herbeiführt, die über die mit der üblichen mechanischen Wirkung verbundene Schädigung hinausgeht, sowie Reiz- und Wirkstoffe, die anhaltende gesundheitliche Schäden verursachen, dürfen nicht zugelassen werden.
 
-(4) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Abwehr von Gefahren für Leben oder Gesundheit von Menschen vorzuschreiben, dass bei der Verbringung in den Geltungsbereich dieses Gesetzes oder bei der Herstellung von Anzeigen zu erstatten und den Anzeigen bestimmte Unterlagen oder Muster der bezeichneten Gegenstände beizufügen sind.
+(4) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Abwehr von Gefahren für Leben oder Gesundheit von Menschen vorzuschreiben, dass bei der Verbringung in den Geltungsbereich dieses Gesetzes oder bei der Herstellung von
 
-1.
+1. Schusswaffen,
 
-2.
+2. Gegenständen, die aus wesentlichen Teilen von Schusswaffen hergestellt werden, oder
 
-3.
+3. Munition
 
 (5) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Abwehr von Gefahren für Leben oder Gesundheit von Menschen vorzuschreiben, dass
 
-1.
+1. Munition und Geschosse in bestimmter Weise zu verpacken und zu lagern sind und
 
-2.
+2. deren Bestandteile oder Ausgangsstoffe nur unter bestimmten Voraussetzungen vertrieben und anderen überlassen werden dürfen.
 
-(6) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Abwehr von Gefahren für Leben oder Gesundheit von Menschen Vorschriften über zu erlassen und die für die Prüfung zuständige Stelle zu bestimmen.
+(6) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Abwehr von Gefahren für Leben oder Gesundheit von Menschen Vorschriften über
 
-1.
+1. Gegenstände im Sinne von Anlage 1 Abschnitt 1 Unterabschnitt 2 Nr. 1.2.1, 1.2.2 und 2.2.1 zum Waffengesetz und über die Beschaffenheit und die Kennzeichnung von Geschossen, Kartuschenmunition oder sonstigen Gegenständen mit Reizstoffen und
 
-2.
+2. die Zusammensetzung und höchstzulässige Menge von Reizstoffen im Sinne von Anlage 1 Abschnitt 1 Unterabschnitt 2 Nr. 1.2.2 zum Waffengesetz
 
 ## Abschnitt 3: Sonstige beschussrechtliche Vorschriften
 
@@ -378,13 +328,13 @@ Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Re
 
 (1) Wer mit Gegenständen im Sinne dieses Gesetzes umgeht, insbesondere die Herstellung und den Vertrieb von diesen Gegenständen betreibt, hat der zuständigen Behörde auf Verlangen die für die Überwachung erforderlichen Auskünfte zu erteilen. Auskunftspflichtige Personen können die Auskunft auf solche Fragen verweigern, deren Beantwortung sie selbst oder einen ihrer in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr der Verfolgung wegen einer Straftat oder einer Ordnungswidrigkeit aussetzen würde.
 
-(2) Die mit der Überwachung beauftragten Personen sind befugt, Zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung können Maßnahmen nach Satz 1 auch in Wohnräumen und zu jeder Tages- und Nachtzeit getroffen werden. Der Betreiber ist verpflichtet, Maßnahmen nach Satz 1 Nr. 1 und 2 und nach Satz 2 zu dulden, die mit der Überwachung beauftragten Personen zu unterstützen, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist, sowie die erforderlichen Geschäftsunterlagen auf Verlangen vorzulegen. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
+(2) Die mit der Überwachung beauftragten Personen sind befugt,
 
-1.
+1. zu den Betriebs- und Geschäftszeiten die der Herstellung oder dem Vertrieb dieser Gegenstände dienenden Grundstücke, Betriebsanlagen und Geschäftsräume zu betreten und zu besichtigen,
 
-2.
+2. alle zur Erfüllung ihrer Aufgaben erforderlichen Prüfungen einschließlich der Entnahme von Proben durchzuführen,
 
-3.
+3. die zur Erfüllung ihrer Aufgaben erforderlichen Unterlagen einzusehen und hieraus Ablichtungen oder Abschriften zu fertigen.
 
 (3) Aus begründetem Anlass kann die zuständige Behörde anordnen, dass der Inhaber der tatsächlichen Gewalt über einen diesem Gesetz unterliegenden Gegenstand ihr diesen binnen angemessener, von ihr zu bestimmender Frist zur Prüfung vorzeigt.
 
@@ -394,13 +344,13 @@ Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Re
 
 (2) Die zuständige Behörde kann im Einzelfall die Anordnungen treffen, die zur Beseitigung festgestellter oder zur Verhütung künftiger Verstöße gegen dieses Gesetz oder gegen die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen notwendig sind. Sie kann insbesondere die weitere Herstellung und den Vertrieb von Gegenständen im Sinne dieses Gesetzes ganz oder teilweise untersagen, wenn
 
-1.
+1. eine erforderliche Zulassung oder andere Erlaubnis nicht vorliegt oder die hergestellten Gegenstände nicht der Zulassung oder anderen Erlaubnis entsprechen,
 
-2.
+2. ein Grund zur Rücknahme oder zum Widerruf einer Zulassung nach den Verwaltungsverfahrensgesetzen gegeben ist,
 
-3.
+3. gegen Nebenbestimmungen oder Auflagen nach Absatz 1 verstoßen wird oder
 
-4.
+4. diese Gegenstände Gefahren für Leib oder Gesundheit des Benutzers oder Dritter hervorrufen.
 
 ### § 19 — Rücknahme und Widerruf
 
@@ -410,9 +360,9 @@ Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Re
 
 (3) Eine Zulassung kann ferner widerrufen werden, wenn der Zulassungsinhaber
 
-1.
+1. pyrotechnische Munition abweichend von der in der Zulassung festgelegten Zusammensetzung oder Beschaffenheit gewerbsmäßig herstellt, in den Geltungsbereich des Gesetzes verbringt, vertreibt, anderen überlässt oder verwendet,
 
-2.
+2. die zugelassene pyrotechnische Munition nicht mehr gewerbsmäßig herstellt oder die auf Grund der Zulassung hergestellten oder in den Geltungsbereich des Gesetzes verbrachten Munitionssorten nicht mehr vertreibt, anderen überlässt oder verwendet.
 
 ### § 20 — Zuständigkeiten
 
@@ -424,47 +374,43 @@ Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Re
 
 (3) Zuständig für die Zulassung der in den §§ 7 und 8 und die Prüfung der in § 9 Abs. 4 bezeichneten Schusswaffen und technischen Gegenstände ist die Physikalisch-Technische Bundesanstalt; ihr gegenüber sind auch die Anzeigen nach § 9 Abs. 2 zu machen. Für die Prüfung und Zulassung der in § 10 bezeichneten pyrotechnischen Munition sowie der in § 11 Absatz 1 in Verbindung mit Anlage 1 Abschnitt 1 Unterabschnitt 3 Nummer 1.3 zum Waffengesetz bezeichneten hülsenlosen Munition ohne Geschoss ist die Bundesanstalt für Materialforschung und -prüfung zuständig.
 
-(4) Die Physikalisch-Technische Bundesanstalt führt eine Liste der Prüfungen und Zulassungen, die folgende Angaben enthalten soll: Soweit andere Stellen als die Physikalisch-Technische Bundesanstalt für die Prüfung oder Zulassung nach den §§ 7 bis 11 zuständig sind, haben diese die hierfür erforderlichen Meldungen über die durchgeführten Prüfungen und Zulassungen an die Physikalisch-Technische Bundesanstalt zu machen. Die Liste ist bei der Physikalisch-Technischen Bundesanstalt während der Dienststunden auszulegen. Auf Verlangen eines Dritten ist diesem gegen Kostenerstattung eine Abschrift oder Vervielfältigung zu überlassen.
+(4) Die Physikalisch-Technische Bundesanstalt führt eine Liste der Prüfungen und Zulassungen, die folgende Angaben enthalten soll:
 
-1.
+1. die Bezeichnung des Prüfgegenstandes,
 
-2.
+2. die Art der Prüfung,
 
-3.
+3. das vergebene Prüf- oder Zulassungszeichen und
 
-4.
+4. die prüfende oder zulassende Stelle.
 
 ### § 21 — Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 3 Abs. 1 Satz 1, auch in Verbindung mit Satz 3, oder Abs. 2 Satz 1, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 14 Abs. 1 Nr. 5, einen dort genannten Gegenstand nicht oder nicht rechtzeitig durch Beschuss amtlich prüfen lässt,
 
-2.
+2. entgegen § 7 Abs. 1 Satz 1, auch in Verbindung mit Satz 2, oder § 8 Abs. 1, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 14 Abs. 2 Satz 1 Nr. 4, oder entgegen § 10 Abs. 1 einen dort genannten Gegenstand in den Geltungsbereich dieses Gesetzes verbringt oder gewerbsmäßig herstellt,
 
-2a.
+2a. entgegen § 8a Absatz 1 Satz 1 eine unbrauchbar gemachte Schusswaffe nicht oder nicht rechtzeitig vorlegt,
 
-3.
+3. entgegen § 9 Abs. 1 Satz 1 oder Abs. 2 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
 
-4.
+4. entgegen § 10 Abs. 2 Satz 1 Verwendungshinweise nicht oder nicht richtig anbringt,
 
-5.
+5. entgegen § 11 Abs. 1 die dort genannte Munition anderen überlässt oder gewerbsmäßig vertreibt,
 
-6.
+6. entgegen § 12 Abs. 1 Satz 1 einen dort genannten Gegenstand oder einen Einstecklauf anderen überlässt oder entgegen § 12 Abs. 2 einen dort genannten Gegenstand gewerbsmäßig anderen überlässt,
 
-7.
+7. entgegen § 17 Abs. 1 Satz 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt,
 
-8.
+8. entgegen § 17 Abs. 2 Satz 3 eine dort genannte Maßnahme nicht duldet, eine dort genannte Person nicht unterstützt oder eine Geschäftsunterlage nicht oder nicht rechtzeitig vorlegt,
 
-9.
+9. einer vollziehbaren Anordnung nach § 17 Abs. 3 zuwiderhandelt,
 
-10.
+10. einer vollziehbaren Auflage nach § 18 Abs. 1 zuwiderhandelt, wenn diese nicht bereits nach einer anderen Vorschrift bewehrt ist, oder
 
-11.
-
-a)
-
-b)
+11. einer Rechtsverordnung nacha)§ 14 Abs. 2 Satz 1 Nr. 3 oder 5 Buchstabe a, b, d, f oder g oderb)§ 14 Abs. 2 Satz 1 Nr. 5 Buchstabe c § 14 Abs. 2 Satz 1 Nr. 3 oder 5 Buchstabe a, b, d, f oder g oder § 14 Abs. 2 Satz 1 Nr. 5 Buchstabe c oder einer auf Grund einer Rechtsverordnung erlassenen vollziehbaren Anordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 3, 4, 7, 8, 9 oder 11 Buchstabe b mit einer Geldbuße bis zu zwanzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 

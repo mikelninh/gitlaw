@@ -12,7 +12,9 @@ freiwilligen Personenversicherungen der Bürger
 
 ### § 2
 
-(1) Die bestehenden Verträge zu freiwilligen Personenversicherungen der Bürger werden auf der Grundlage der bisherigen Versicherungsbedingungen und Tarife mit den in Absatz 2 getroffenen Festlegungen weitergeführt.(2) Sofern Personenversicherungen Unfallversicherungsschutz gewähren, sind Unfälle, die unmittelbar oder mittelbar durch Kernenergie, Kriegs- oder Bürgerkriegsereignisse oder durch innere Unruhen verursacht werden, vom Versicherungsschutz ausgeschlossen. Unfälle durch innere Unruhe sind jedoch dann versichert, wenn der Versicherte nicht auf seiten der Unruhestifter teilgenommen hat.
+(1) Die bestehenden Verträge zu freiwilligen Personenversicherungen der Bürger werden auf der Grundlage der bisherigen Versicherungsbedingungen und Tarife mit den in Absatz 2 getroffenen Festlegungen weitergeführt.
+
+(2) Sofern Personenversicherungen Unfallversicherungsschutz gewähren, sind Unfälle, die unmittelbar oder mittelbar durch Kernenergie, Kriegs- oder Bürgerkriegsereignisse oder durch innere Unruhen verursacht werden, vom Versicherungsschutz ausgeschlossen. Unfälle durch innere Unruhe sind jedoch dann versichert, wenn der Versicherte nicht auf seiten der Unruhestifter teilgenommen hat.
 
 ### § 3
 
@@ -23,5 +25,3 @@ Der Versicherungsnehmer und der Versicherer können den Versicherungsvertrag zum
 -
 
 ### Schlußformel
-
-Geschäftsführender Minister der Finanzen

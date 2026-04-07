@@ -23,5 +23,3 @@ Diese Verordnung tritt mit Ablauf des 30. Juni 2027 außer Kraft.
 Diese Verordnung tritt am 1. August 2025 in Kraft.
 
 ### Anlage — (zu § 1)
-
-(Text der Anlage siehe: TVMindestlohn Maler 12)

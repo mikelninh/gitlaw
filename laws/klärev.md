@@ -29,19 +29,19 @@ des Klärschlamm-Entschädigungsfonds
 
 (3) Der Beirat besteht aus zwölf Mitgliedern:
 
-1.
+1. einem Vertreter des Bundesministeriums für Ernährung und Landwirtschaft (Bundesministerium),
 
-2.
+2. einem Vertreter des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit,
 
-3.
+3. einem Vertreter der Länder,
 
-4.
+4. zwei Vertretern der kommunalen Klärschlammabgeber,
 
-5.
+5. einem Vertreter der sonstigen beitragspflichtigen Klärschlammabgeber,
 
-6.
+6. drei Vertretern des landwirtschaftlichen Berufsstandes,
 
-7.
+7. drei Vertretern als neutrale Sachverständige.
 
 (4) Die Vertreter der kommunalen Klärschlammabgeber werden vom Bundesministerium auf Vorschlag der Bundesvereinigung der kommunalen Spitzenverbände, der Vertreter der sonstigen beitragspflichtigen Klärschlammabgeber vom Bundesministerium auf Vorschlag der Abwassertechnischen Vereinigung e. V., die Vertreter des landwirtschaftlichen Berufsstandes auf Vorschlag des Deutschen Bauernverbandes e. V. bestellt und abberufen. Die Vertreter der Bundesministerien, Länder, Klärschlammabgeber und des landwirtschaftlichen Berufsstandes wählen einstimmig die drei Sachverständigen, von denen je ein Vertreter aus dem Bereich der Abwasserbehandlung, dem Verband Deutscher Landwirtschaftlicher Untersuchungs- und Forschungsanstalten (VDLUFA) und dem Verband der Landwirtschaftskammern kommen sollte. Ihre Bestellung erfolgt auf die Dauer von vier Jahren. Eine erneute Bestellung ist zulässig. Scheidet ein Vertreter vorzeitig aus, so wird sein Nachfolger für den Rest der Amtszeit bestellt.
 

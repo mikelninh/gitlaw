@@ -7,7 +7,7 @@
 
 ### § 1
 
-Bei der Hauptfeststellung der Einheitswerte des Grundbesitzes auf den 1. Januar 1964 sowie bei Fortschreibungen und Nachfeststellungen der Einheitswerte des Grundbesitzes, bei denen die Wertverhältnisse vom 1. Januar 1964 zugrunde zu legen sind, ist § 77 des Bewertungsgesetzes in der Fassung der Bekanntmachung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861) in der folgenden Fassung anzuwenden: "§ 77Mindestwert Der für ein bebautes Grundstück anzusetzende Wert darf nicht geringer sein als 50 vom Hundert des Werts, mit dem der Grund und Boden allein als unbebautes Grundstück zu bewerten wäre."
+Bei der Hauptfeststellung der Einheitswerte des Grundbesitzes auf den 1. Januar 1964 sowie bei Fortschreibungen und Nachfeststellungen der Einheitswerte des Grundbesitzes, bei denen die Wertverhältnisse vom 1. Januar 1964 zugrunde zu legen sind, ist § 77 des Bewertungsgesetzes in der Fassung der Bekanntmachung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861) in der folgenden Fassung anzuwenden:
 
 ### § 2
 

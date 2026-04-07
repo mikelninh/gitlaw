@@ -42,11 +42,11 @@ Zweck der Stiftung ist es, die Qualität, Nachhaltigkeit und Leistungsfähigkeit
 
 Organe der Stiftung sind
 
-1.
+1. der Vorstand,
 
-2.
+2. der Stiftungsrat,
 
-3.
+3. der Beirat.
 
 ### § 6 — Vorstand
 
@@ -62,11 +62,11 @@ Organe der Stiftung sind
 
 (1) Der Stiftungsrat besteht aus 13 Mitgliedern:
 
-1.
+1. fünf Mitglieder entsendet der Deutsche Bundestag aus seiner Mitte,
 
-2.
+2. je ein Mitglied entsenden das Bundesministerium des Innern, für Bau und Heimat, das Bundesministerium der Finanzen sowie die für Angelegenheiten der Kultur und der Medien zuständige oberste Bundesbehörde,
 
-3.
+3. fünf Mitglieder entsendet der Konvent der Baukultur.
 
 (2) Die Entsendung der Mitglieder des Stiftungsrats erfolgt für vier Jahre. Die wiederholte Entsendung ist zulässig. Scheidet ein Mitglied vorzeitig aus, kann für den Rest seiner Amtszeit ein Nachfolger benannt werden.
 

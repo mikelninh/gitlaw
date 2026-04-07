@@ -16,33 +16,33 @@ Soweit nicht die Verordnung (EWG) Nr. 2137/85 des Rates vom 25. Juli 1985 über 
 
 (2) Die Anmeldung zur Eintragung der Vereinigung in das Handelsregister hat zu enthalten:
 
-1.
+1. die Firma der Vereinigung mit den voran- oder nachgestellten Worten "Europäische wirtschaftliche Interessenvereinigung" oder der Abkürzung "EWIV", es sei denn, daß diese Worte oder die Abkürzung bereits in der Firma enthalten sind;
 
-2.
+2. den Sitz der Vereinigung;
 
-3.
+3. den Unternehmensgegenstand;
 
-4.
+4. den Namen, das Geburtsdatum, die Firma, die Rechtsform, den Wohnsitz oder den Sitz sowie gegebenenfalls die Nummer und den Ort der Registereintragung eines jeden Mitglieds der Vereinigung;
 
-5.
+5. die Geschäftsführer mit Namen, Geburtsdatum und Wohnsitz sowie mit der Angabe, welche Vertretungsbefugnis sie haben;
 
-6.
+6. die Dauer der Vereinigung, sofern die Dauer nicht unbestimmt ist.
 
 (3) Zur Eintragung in das Handelsregister sind ferner anzumelden:
 
-1.
+1. Änderungen der Angaben nach Absatz 2;
 
-2.
+2. die Nichtigkeit der Vereinigung;
 
-3.
+3. die Errichtung und die Aufhebung jeder Zweigniederlassung der Vereinigung;
 
-4.
+4. die Auflösung der Vereinigung;
 
-5.
+5. die Abwickler mit den in Absatz 2 Nr. 5 genannten Angaben sowie Änderungen der Personen der Abwickler und der Angaben;
 
-6.
+6. der Schluß der Abwicklung der Vereinigung;
 
-7.
+7. eine Klausel, die ein neues Mitglied gemäß Artikel 26 Abs. 2 der Verordnung von der Haftung für Verbindlichkeiten befreit, die vor seinem Beitritt entstanden sind.
 
 (4) Die Verpflichtung zur Anmeldung weiterer Tatsachen auf Grund des § 1 bleibt unberührt.
 

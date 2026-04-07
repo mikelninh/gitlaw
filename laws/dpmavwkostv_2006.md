@@ -28,13 +28,13 @@ Der Mindestbetrag einer Gebühr ist 10 Euro. Centbeträge sind auf volle Eurobet
 
 (1) Von der Zahlung der Kosten sind befreit
 
-1.
+1. die Bundesrepublik Deutschland und die bundesunmittelbaren juristischen Personen des öffentlichen Rechts, deren Ausgaben ganz oder teilweise aufgrund gesetzlicher Verpflichtung aus dem Haushalt des Bundes getragen werden;
 
-2.
+2. die Länder und die juristischen Personen des öffentlichen Rechts, die nach den Haushaltsplänen eines Landes für Rechnung eines Landes verwaltet werden;
 
-3.
+3. die Gemeinden und Gemeindeverbände, soweit die Amtshandlungen nicht ihre wirtschaftlichen Unternehmen betreffen;
 
-4.
+4. die Weltorganisation für geistiges Eigentum nach Maßgabe von Verwaltungsvereinbarungen des Bundesministeriums der Justiz und für Verbraucherschutz im Rahmen der internationalen Zusammenarbeit auf dem Gebiet des gewerblichen Rechtsschutzes.
 
 (2) Die Befreiung tritt nicht ein, soweit die in Absatz 1 Nr. 1 bis 3 Genannten berechtigt sind, die Kosten Dritten aufzuerlegen oder sonst auf Dritte umzulegen.
 
@@ -46,13 +46,13 @@ Der Mindestbetrag einer Gebühr ist 10 Euro. Centbeträge sind auf volle Eurobet
 
 (1) Zur Zahlung der Kosten ist verpflichtet,
 
-1.
+1. wer die Amtshandlung veranlasst oder zu wessen Gunsten sie vorgenommen wird;
 
-2.
+2. wem durch Entscheidung des Deutschen Patent- und Markenamts oder des Bundespatentgerichts die Kosten auferlegt sind;
 
-3.
+3. wer die Kosten durch eine gegenüber dem Deutschen Patent- und Markenamt abgegebene oder dem Deutschen Patent- und Markenamt mitgeteilte Erklärung übernommen hat;
 
-4.
+4. wer für die Kostenschuld eines anderen kraft Gesetzes haftet.
 
 (2) Mehrere Kostenschuldner haften als Gesamtschuldner.
 
@@ -74,11 +74,11 @@ Der Mindestbetrag einer Gebühr ist 10 Euro. Centbeträge sind auf volle Eurobet
 
 (3) Bescheinigungen, Ausfertigungen, Ablichtungen und Ausdrucke sowie vom Antragsteller anlässlich der Amtshandlung eingereichte Unterlagen können zurückbehalten werden, bis die in der Angelegenheit erwachsenen Kosten bezahlt sind. Von der Zurückbehaltung ist abzusehen,
 
-1.
+1. wenn der Eingang der Kosten mit Sicherheit zu erwarten ist,
 
-2.
+2. wenn glaubhaft gemacht wird, dass die Verzögerung der Herausgabe einem Beteiligten einen nicht oder nur schwer zu ersetzenden Schaden bringen würde, und nicht anzunehmen ist, dass sich der Schuldner seiner Pflicht zur Zahlung der Kosten entziehen wird, oder
 
-3.
+3. wenn es sich um Unterlagen eines Dritten handelt, demgegenüber die Zurückbehaltung eine unbillige Härte wäre.
 
 ### § 8 — Folgen der Nichtzahlung, Antragsrücknahme
 
@@ -140,58 +140,4 @@ Diese Verordnung tritt am 1. Oktober 2006 in Kraft.
 
 ### Anlage — (zu § 2 Abs. 1)
 
--
-
--
-
-(1) Die Beglaubigung von Ablichtungen und Ausdrucken der vom Deutschen Patent- und Markenamt erlassenen Entscheidungen und Bescheide ist gebührenfrei.
-
-(2) Auslagen werden zusätzlich erhoben.
-
-(1) Gebührenfrei ist
-
--
-
--
-
-(2) Auslagen werden zusätzlich erhoben.
-
-(1) Gebührenfrei ist
-
--
-
--
-
-(2) Auslagen werden zusätzlich erhoben.
-
-1.
-
-2.
-
-1.
-
-2.
-
--
-
--
-
--
-
-1.
-
-2.
-
-3.
-
--
-
--
-
--
-
--
-
--
-
--
+- beglaubigten Registerauszügen

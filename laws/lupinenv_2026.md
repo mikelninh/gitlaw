@@ -12,7 +12,9 @@ Das Bundesministerium für Landwirtschaft, Ernährung und Heimat verordnet aufgr
 
 ### § 1 — Mindestkeimfähigkeit
 
-(1) Abweichend von § 6 Satz 2 in Verbindung mit Anlage 3 Nummer 3.1.2 Spalte 3 der Saatgutverordnung in der Fassung der Bekanntmachung vom 8. Februar 2006 (BGBl. I S. 344), die zuletzt durch Artikel 1 der Verordnung vom 23. Mai 2025 (BGBl. 2025 I Nr. 138) geändert worden ist, wird die Mindestkeimfähigkeit für Zertifiziertes Saatgut von Weißer Lupine der Sorten „Frieda“ und „Celina“ auf 70 vom Hundert der reinen Körner herabgesetzt.(2) Saatgut, das nach den Anforderungen des Absatzes 1 anerkannt worden ist, darf bis zum Ablauf des 30. Juni 2026 in den Verkehr gebracht werden.
+(1) Abweichend von § 6 Satz 2 in Verbindung mit Anlage 3 Nummer 3.1.2 Spalte 3 der Saatgutverordnung in der Fassung der Bekanntmachung vom 8. Februar 2006 (BGBl. I S. 344), die zuletzt durch Artikel 1 der Verordnung vom 23. Mai 2025 (BGBl. 2025 I Nr. 138) geändert worden ist, wird die Mindestkeimfähigkeit für Zertifiziertes Saatgut von Weißer Lupine der Sorten „Frieda“ und „Celina“ auf 70 vom Hundert der reinen Körner herabgesetzt.
+
+(2) Saatgut, das nach den Anforderungen des Absatzes 1 anerkannt worden ist, darf bis zum Ablauf des 30. Juni 2026 in den Verkehr gebracht werden.
 
 ### § 2 — Kennzeichnung
 

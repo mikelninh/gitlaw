@@ -22,9 +22,9 @@
 
 (1) Das Landwirtschaftsgericht ersucht das Grundbuchamt um Eintragung oder Löschung des die Eigenschaft als Hof oder als Ehegattenhof ausweisenden Vermerks (Hofvermerk)
 
-1.
+1. von Amts wegen, wenn für die Entstehung eines Hofes oder Ehegattenhofes oder für den Verlust der Eigenschaft als Hof oder als Ehegattenhof nach den höferechtlichen Vorschriften eine Erklärung des Eigentümers nicht vorausgesetzt ist;
 
-2.
+2. auf Grund der Erklärung des Eigentümers, wenn die Eintragung oder Löschung des Hofvermerks nach den höferechtlichen Vorschriften von einer Erklärung des Eigentümers abhängt.
 
 (2) Ersucht das Landwirtschaftsgericht um die Löschung eines die Eigenschaft als Ehegattenhof ausweisenden Vermerks, so hat es, soweit die Besitzung die Eigenschaft als Hof behält, zugleich das Grundbuchamt von Amts wegen um die Eintragung des Hofvermerks zu ersuchen.
 
@@ -34,13 +34,13 @@
 
 ### § 3a
 
-Das Finanzamt teilt dem Landwirtschaftsgericht den Grundsteuerwert für einen Betrieb der Land- und Forstwirtschaft mit, wenn dieser Die Mitteilungen erfolgen mindestens einmal jährlich.
+Das Finanzamt teilt dem Landwirtschaftsgericht den Grundsteuerwert für einen Betrieb der Land- und Forstwirtschaft mit, wenn dieser
 
-1.
+1. sich von mindestens 27 000 Euro auf weniger als 27 000 Euro verringert hat,
 
-2.
+2. sich von weniger als 54 000 Euro auf mindestens 54 000 Euro erhöht hat oder
 
-3.
+3. erstmals ermittelt worden ist und mindestens 54 000 Euro beträgt.
 
 ### § 4 — Erklärungen nach den höferechtlichen Vorschriften
 
@@ -62,7 +62,7 @@ Die Eintragung des Hofvermerks begründet die Vermutung, daß die Besitzung die 
 
 (3) Ist bei einem Ehegattenhof der Grundbesitz der Ehegatten nicht auf demselben Grundbuchblatt eingetragen, so ist im Hofvermerk wechselseitig auf den Grundbesitz des anderen Ehegatten hinzuweisen. Der Hofvermerk lautet dementsprechend:
 
-(4) Gehört zum Hof ein Miteigentumsanteil, der auf einem anderen Grundbuchblatt eingetragen ist, so ist im Grundbuch des Hofs folgender Vermerk: und im Grundbuch des Miteigentumsanteils folgender Vermerk: einzutragen.
+(4) Gehört zum Hof ein Miteigentumsanteil, der auf einem anderen Grundbuchblatt eingetragen ist, so ist im Grundbuch des Hofs folgender Vermerk:
 
 ### § 7 — Besonderes Grundbuchblatt
 
@@ -90,21 +90,21 @@ Das Ersuchen des Landwirtschaftsgerichts um Eintragung oder Löschung des Hofver
 
 (1) Auf Antrag eines Beteiligten, der ein rechtliches Interesse an der Entscheidung glaubhaft macht, entscheidet das Landwirtschaftsgericht im Wege eines besonderen Feststellungsverfahrens,
 
-a)
+a) ob ein Hof im Sinne der höferechtlichen Vorschriften vorliegt oder vorgelegen hat,
 
-b)
+b) ob ein Hof ein Ehegattenhof im Sinne der höferechtlichen Vorschriften ist oder war,
 
-c)
+c) ob ein Gegenstand Bestandteil oder Zubehör eines Hofes ist,
 
-d)
+d) ob ein Hoferbe wirtschaftsfähig ist,
 
-e)
+e) ob für die Erbfolge in einen Hof Ältesten- oder Jüngstenrecht gilt,
 
-f)
+f) von wem der Hof stammt,
 
-g)
+g) wer nach dem Tode des Eigentümers eines Hofes Hoferbe geworden ist,
 
-h)
+h) über sonstige nach den höferechtlichen Vorschriften bestehende Rechtsverhältnisse.
 
 (2) Das Gericht soll alle Personen, deren Rechte durch die Entscheidung betroffen werden können, von der Einleitung des Feststellungsverfahrens unter Hinweis auf die in § 12 Abs. 1 genannten Folgen benachrichtigen. Entscheidungen in der Hauptsache sind auch diesen Personen zuzustellen.
 

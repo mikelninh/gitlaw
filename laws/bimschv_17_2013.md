@@ -14,39 +14,31 @@
 
 (1) Diese Verordnung gilt für die Errichtung, die Beschaffenheit und den Betrieb von Abfallverbrennungs- und Abfallmitverbrennungsanlagen, die nach § 4 des Bundes-Immissionsschutzgesetzes in Verbindung mit der in Nummer 2 genannten Verordnung genehmigungsbedürftig sind und in denen folgende Abfälle und Stoffe eingesetzt werden:
 
-1.
+1. feste, flüssige oder in Behältern gefasste gasförmige Abfälle oder
 
-2.
+2. ähnliche feste oder flüssige brennbare Stoffe, die nicht in den Nummern 1.2.1, 1.2.2 oder Nummer 1.2.3 des Anhangs 1 der Verordnung über genehmigungsbedürftige Anlagen vom 2. Mai 2013 (BGBl. I S. 973) aufgeführt sind, ausgenommen ähnliche flüssige brennbare Stoffe, soweit bei ihrer Verbrennung keine anderen oder keine höheren Emissionen als bei der Verbrennung von leichtem Heizöl auftreten können, oder
 
-3.
+3. feste, flüssige oder gasförmige Stoffe, die bei der Pyrolyse oder Vergasung von Abfällen entstehen.
 
 (2) Diese Verordnung gilt weder für Abfallverbrennungs- oder -mitverbrennungsanlagen noch für einzelne Abfallverbrennungs- oder -mitverbrennungslinien, die, abgesehen vom Einsatz der in den Nummern 1.2.1, 1.2.2 und 1.2.3 des Anhangs 1 der Verordnung über genehmigungsbedürftige Anlagen aufgeführten Stoffe, ausschließlich bestimmt sind für den Einsatz von
 
-1.
+1. Biobrennstoffen gemäß § 2 Absatz 4 Nummer 2 der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 6. Juli 2021 (BGBl. I S. 2514) in der jeweils geltenden Fassung und § 2 Absatz 7 Nummer 2 der Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 13. Juni 2019 in der jeweils geltenden Fassung,
 
-2.
+2. Tierkörpern im Sinne der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische Nebenprodukte) (ABl. L 300 vom 14.11.2009, S. 1), die durch die Richtlinie 2010/63/EU (ABl. L 276 vom 20.10.2010, S. 33) geändert worden ist, oder
 
-3.
+3. Abfällen, die beim Aufsuchen von Erdöl- und Erdgasvorkommen und deren Förderung auf Bohrinseln entstehen und dort verbrannt werden.
 
 (3) Die Verordnung ist nicht anzuwenden auf
 
-1.
+1. Abfallverbrennungs- oder -mitverbrennungslinien, die für Forschungs-, Entwicklungs- und Prüfzwecke zur Verbesserung des Verbrennungsprozesses weniger als 50 Megagramm Abfälle im Jahr behandeln, und
 
-2.
+2. gasförmige Stoffe nach Absatz 1 Nummer 3, die in Abfallmitverbrennungsanlagen eingesetzt werden, wenn ihre Verbrennung auf Grund ihrer Zusammensetzung keine anderen oder höheren Emissionen verursacht als die Verbrennung von Erdgas.
 
 (4) Diese Verordnung enthält Anforderungen an Abfallverbrennungs- und Abfallmitverbrennungsanlagen,
 
-1.
+1. die nach § 5 Absatz 1 Nummer 1 bis 4 des Bundes-Immissionsschutzgesetzes zu erfüllen sind bei der Errichtung und beim Betrieb der Anlagen zur a)Bekämpfung von Brandgefahren,b)Vorsorge gegen schädliche Umwelteinwirkungen,c)Behandlung von Abfällen undd)Nutzung der entstehenden Wärme sowie Bekämpfung von Brandgefahren, Vorsorge gegen schädliche Umwelteinwirkungen, Behandlung von Abfällen und Nutzung der entstehenden Wärme sowie
 
-a)
-
-b)
-
-c)
-
-d)
-
-2.
+2. zur Erfüllung von Luftqualitätsanforderungen der Europäischen Gemeinschaften oder Europäischen Union nach § 48a Absatz 1 und 3 des Bundes-Immissionsschutzgesetzes.
 
 ### § 2 — Begriffsbestimmungen
 
@@ -56,17 +48,15 @@ d)
 
 (3) „Abfallmitverbrennende Großfeuerungsanlage“ im Sinne dieser Verordnung ist eine Abfallmitverbrennungsanlage mit einer Feuerungswärmeleistung von 50 MW oder mehr, die bei Betrieb ohne Abfallmitverbrennung im Anwendungsbereich der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 6. Juli 2021 liegt.
 
-(4) „Abfallmitverbrennungsanlage“ im Sinne dieser Verordnung ist eine Feuerungsanlage, deren Hauptzweck in der Energiebereitstellung oder der Produktion stofflicher Erzeugnisse besteht und in der Abfälle oder Stoffe nach § 1 Absatz 1, bei gemischten Siedlungsabfällen nur soweit es sich um aufbereitete gemischte Siedlungsabfälle handelt, Die Anlage in diesem Sinne erstreckt sich auf die gesamte Abfallmitverbrennungsanlage, dazu gehören alle Abfallmitverbrennungslinien, die Annahme und Lagerung der Abfälle und Stoffe nach § 1 Absatz 1, die auf dem Gelände befindlichen Vorbehandlungsanlagen, das Zufuhrsystem für Abfälle und Stoffe nach § 1 Absatz 1, für Brennstoffe und Luft, der Kessel, die Abgasbehandlungsanlagen, die auf dem Gelände befindlichen Anlagen zur Behandlung und Lagerung von Abfällen und Abwässern, die bei der Abfallmitverbrennung entstehen, der Schornstein, die Vorrichtungen und Systeme zur Kontrolle der Verbrennungsvorgänge, zur Aufzeichnung und zur Überwachung der Verbrennungsbedingungen. Falls die Abfallmitverbrennung in solch einer Weise erfolgt, dass der Hauptzweck der Anlage nicht in der Energiebereitstellung oder der Produktion stofflicher Erzeugnisse, sondern in der thermischen Behandlung von Abfällen besteht, gilt die Anlage als Abfallverbrennungsanlage im Sinne des Absatzes 5.
+(4) „Abfallmitverbrennungsanlage“ im Sinne dieser Verordnung ist eine Feuerungsanlage, deren Hauptzweck in der Energiebereitstellung oder der Produktion stofflicher Erzeugnisse besteht und in der Abfälle oder Stoffe nach § 1 Absatz 1, bei gemischten Siedlungsabfällen nur soweit es sich um aufbereitete gemischte Siedlungsabfälle handelt,
 
-1.
+1. als regelmäßige oder zusätzliche Brennstoffe verwendet werden oder
 
-2.
+2. mit dem Ziel der Beseitigung thermisch behandelt werden.
 
 (5) „Abfallverbrennungsanlage“ im Sinne dieser Verordnung ist eine Feuerungsanlage, deren Hauptzweck darin besteht, thermische Verfahren zur Behandlung von Abfällen oder Stoffen nach § 1 Absatz 1 zu verwenden. Diese Verfahren umfassen die Verbrennung durch Oxidation der oben genannten Stoffe und andere vergleichbare thermische Verfahren wie Pyrolyse, Vergasung oder Plasmaverfahren, soweit die bei den vorgenannten thermischen Verfahren aus Abfällen entstehenden festen, flüssigen oder gasförmigen Stoffe vollständig oder teilweise verbrannt werden. Die Anlage in diesem Sinne erstreckt sich auf die gesamte Abfallverbrennungsanlage, dazu gehören alle Abfallverbrennungslinien, die Annahme und Lagerung der Abfälle und Stoffe nach § 1 Absatz 1, die auf dem Gelände befindlichen Vorbehandlungsanlagen, das Zufuhrsystem für Abfälle und Stoffe nach § 1 Absatz 1, für Brennstoffe und Luft, der Kessel, die Abgasbehandlungsanlagen, die auf dem Gelände befindlichen Anlagen zur Behandlung und Lagerung von Abfällen und Abwässern, die bei der Abfallverbrennung entstehen, der Schornstein, die Vorrichtungen und Systeme zur Kontrolle der Verbrennungsvorgänge, zur Aufzeichnung und zur Überwachung der Verbrennungsbedingungen.
 
 (6) „Abfallverbrennungs- oder -mitverbrennungslinie“ im Sinne dieser Verordnung ist die jeweilige technische Einrichtung der Abfallverbrennungs- oder -mitverbrennungsanlage; dazu gehören ein Brennraum, gegebenenfalls ein Brenner, und die dazugehörige Steuerungseinheit, eine Abgasreinigungseinrichtung sowie sonstige Nebeneinrichtungen entsprechend § 1 Absatz 2 Nummer 2 der Verordnung über genehmigungsbedürftige Anlagen.
-
-(7) „Abgas“ im Sinne dieser Verordnung ist das Trägergas mit den festen, flüssigen oder gasförmigen Emissionen, angegeben als Volumenstrom in der Einheit Kubikmeter je Stunde (m3/h) und bezogen auf das Abgasvolumen im Normzustand (Temperatur 273,15 Kelvin (K), Druck 101,3 Kilopascal (kPa)) nach Abzug des Feuchtegehalts an Wasserdampf.
 
 (8) „Aufbereitete gemischte Siedlungsabfälle“ im Sinne dieser Verordnung sind gemischte Siedlungsabfälle, für die zum Zwecke der Mitverbrennung Maßnahmen ergriffen wurden, die eine Belastung mit anorganischen Schadstoffen, insbesondere Schwermetallen, deutlich reduzieren; Trocknen, Pressen oder Mischen zählen in der Regel nicht zu diesen Maßnahmen.
 
@@ -74,9 +64,9 @@ d)
 
 (10) „Bestehende abfallmitverbrennende Großfeuerungsanlage“ im Sinne dieser Verordnung ist eine abfallmitverbrennende Großfeuerungsanlage,
 
-1.
+1. die nach § 67 Absatz 2 oder § 67a Absatz 1 des Bundes-Immissionsschutzgesetzes oder vor Inkrafttreten des Bundes-Immissionsschutzgesetzes nach § 16 Absatz 4 der Gewerbeordnung anzuzeigen war oder
 
-2.
+2. für die die erste Genehmigung zur Errichtung und zum Betrieb nach § 4 oder § 16 des Bundes-Immissionsschutzgesetzes vor dem 18. August 2017 erteilt worden ist und die vor dem 18. August 2021 in Betrieb gegangen ist.
 
 (11) „Bestehende Abfallverbrennungs- oder -mitverbrennungsanlage“ im Sinne dieser Verordnung ist eine Abfallverbrennungs- oder -mitverbrennungsanlage, ausgenommen abfallmitverbrennende Feuerungs- und Großfeuerungsanlagen, die vor dem 4. Dezember 2019 genehmigt oder errichtet wurde.
 
@@ -84,25 +74,21 @@ d)
 
 (13) „Biobrennstoffe“ im Sinne dieser Verordnung sind Biobrennstoffe gemäß § 2 Absatz 4 der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen und gemäß § 2 Absatz 7 der Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen.
 
-(14) „Emissionen“ im Sinne dieser Verordnung sind die von einer Anlage ausgehenden Luftverunreinigungen; angegeben als Massenkonzentration in der Einheit Milligramm je Kubikmeter Abgas (mg/m3) oder Nanogramm je Kubikmeter Abgas (ng/m3) oder als Massenstrom in der Einheit Megagramm pro Jahr (Mg/a).
-
 (15) „Emissionsgrenzwert“ im Sinne dieser Verordnung ist die Emission einer Anlage, die zulässigerweise in die Luft abgeleitet werden darf, angegeben als Massenkonzentration und bezogen auf den jeweiligen Bezugssauerstoffgehalt.
 
 (16) „Entschwefelungsgrad der Rauchgasentschwefelungseinrichtung“ im Sinne dieser Verordnung ist das Verhältnis der von der Rauchgasentschwefelungseinrichtung abgeschiedenen Menge an Schwefeloxiden zu der der Rauchgasentschwefelungseinrichtung mit dem Abgas zugeführten Menge an Schwefeloxiden.
 
 (17) „Erdgas“ im Sinne dieser Verordnung ist
 
-1.
+1. natürlich vorkommendes Methangas mit nicht mehr als 20 Volumenprozent an Inertgasen und sonstigen Bestandteilen, das den Anforderungen des DVGW-Arbeitsblattes G 260 vom März 2013 für Gase der 2. Gasfamilie entspricht, sowie
 
-2.
+2. Klär-, Bio- und Grubengase nach DVGW-Arbeitsblatt G 262 vom September 2011, die die Bedingungen des DVGW-Arbeitsblattes G 260 als Austauschgas oder als Zusatzgas zur Konditionierung erfüllen und insoweit die Grundgase der 2. Gasfamilie in der öffentlichen Gasversorgung ersetzen oder ergänzen.
 
 (18) „Erhebliche Anlagenänderung“ im Sinne dieser Verordnung ist eine wesentliche Veränderung im Aufbau oder in der Technologie einer Anlage mit erheblichen Anpassungen oder Erneuerungen des Verfahrens oder der Minderungstechniken und der dazugehörigen Anlagenteile.
 
 (19) „Feuerungsanlage“ im Sinne dieser Verordnung ist jede Anlage, in der Brennstoff zur Nutzung der erzeugten Wärme oxidiert wird.
 
 (20) „Feuerungswärmeleistung“ im Sinne dieser Verordnung ist der auf den unteren Heizwert bezogene Wärmeinhalt der Brenn- oder Einsatzstoffe, der einer Anlage im Dauerbetrieb je Zeiteinheit zugeführt wird, angegeben in Megawatt.
-
-(21) „Gemischte Siedlungsabfälle“ im Sinne dieser Verordnung sind Abfälle aus Haushaltungen sowie gewerbliche, industrielle Abfälle und Abfälle aus Einrichtungen, die auf Grund ihrer Beschaffenheit oder Zusammensetzung den Abfällen aus Haushaltungen ähnlich sind. Zu den gemischten Siedlungsabfällen im Sinne dieser Verordnung gehören weder die unter der Abfallgruppe 20 01 der Abfallverzeichnis-Verordnung genannten Abfallfraktionen, die am Entstehungsort getrennt eingesammelt werden, noch die unter der Abfallgruppe 20 02 derselben Verordnung genannten Abfälle.
 
 (22) „Gefährliche Abfälle“ im Sinne dieser Verordnung sind gefährliche Abfälle gemäß der Abfallverzeichnis-Verordnung.
 
@@ -114,9 +100,9 @@ d)
 
 (26) „Neue Anlage“ im Sinne dieser Verordnung ist eine Anlage, die nach dem 3. Dezember 2019 genehmigt wird und
 
-1.
+1. vollständig neu errichtet wird oder
 
-2.
+2. eine bestehende Anlage vollständig ersetzt.
 
 (27) „Rauchgasentschwefelungseinrichtung“ ist eine aus einer Abgasreinigungseinrichtung oder einer Kombination von Abgasreinigungseinrichtungen bestehende Einrichtung zur Senkung der Schwefeloxid-Emissionen einer Feuerungsanlage.
 
@@ -128,53 +114,45 @@ d)
 
 (1) Der Betreiber einer Abfallverbrennungs- oder -mitverbrennungsanlage hat alle erforderlichen Vorsichtsmaßnahmen hinsichtlich der Anlieferung und Annahme der Abfälle zu ergreifen, um die Verschmutzung der Luft, des Bodens, des Oberflächenwassers und des Grundwassers, andere Belastungen der Umwelt, Geruchs- und Lärmbelästigungen sowie direkte Gefahren für die menschliche Gesundheit zu vermeiden oder, so weit wie möglich zu begrenzen. Zur Untersuchung der Abfallanlieferungen auf radioaktive Inhaltsstoffe hat der Betreiber einer in Anhang 1 der Verordnung über genehmigungsbedürftige Anlagen in Spalte d mit dem Buchstaben E gekennzeichneten Abfallverbrennungsanlage eine Radioaktivitätserkennung zu installieren. Satz 2 gilt nicht für Abfallverbrennungsanlagen, in denen
 
-1.
+1. ausschließlich Klärschlamm verbrannt wird oder
 
-2.
+2. wiederkehrend anfallende Abfälle bekannter Zusammensetzung und aus bekannter Herkunft verbrannt werden.
 
 (2) Der Betreiber trägt vor Annahme gefährlicher Abfälle in der Abfallverbrennungs- oder -mitverbrennungsanlage die verfügbaren Angaben über die Abfälle zusammen, damit festgestellt werden kann, ob die Genehmigungsbedingungen erfüllt sind. Diese Angaben müssen Folgendes umfassen:
 
-1.
+1. alle verwaltungsmäßigen Angaben über den Entstehungsprozess der Abfälle, die in den in Absatz 3 Satz 1 Nummer 1 genannten Dokumenten enthalten sind,
 
-2.
+2. die physikalische und soweit praktikabel die chemische Zusammensetzung der Abfälle,
 
-3.
+3. alle sonstigen erforderlichen Angaben zur Beurteilung der Eignung der Abfälle für den vorgesehenen Verbrennungsprozess,
 
-4.
+4. Gefahrenmerkmale der Abfälle, Stoffe, mit denen sie nicht vermischt werden dürfen, und Vorsichtsmaßnahmen beim Umgang mit diesen Abfällen.
 
-(3) Der Betreiber muss vor Annahme gefährlicher Abfälle in der Abfallverbrennungs- oder -mitverbrennungsanlage mindestens folgende Maßnahmen durchführen: Die Proben gemäß Satz 1 Nummer 2 sind nach der Verbrennung oder Mitverbrennung des betreffenden Abfalls mindestens einen Monat lang aufzubewahren. Die Verträglichkeit von flüssigen oder gasförmigen gefährlichen Abfällen ist zu überprüfen, bevor sie mit anderen flüssigen oder gasförmigen Abfällen oder mit Wasser vermischt oder vermengt werden. Die Verträglichkeit ist durch Prüfmaßnahmen und Tests sicherzustellen, um unerwünschte oder potenziell gefährliche chemische Reaktionen zwischen Abfällen, insbesondere Polymerisation, Gasentwicklung, exotherme Reaktion und Zersetzung, beim Mischen oder Vermengen auszuschließen. Die Verträglichkeitsprüfungen sind risikobasiert durchzuführen. Zu berücksichtigen sind bei Verträglichkeitsprüfungen beispielsweise
+(3) Der Betreiber muss vor Annahme gefährlicher Abfälle in der Abfallverbrennungs- oder -mitverbrennungsanlage mindestens folgende Maßnahmen durchführen:
 
-1.
+1. Prüfung der Dokumente, die in der Richtlinie 2008/98/EG des Europäischen Parlaments und des Rates vom 19. November 2008 über Abfälle und zur Aufhebung bestimmter Richtlinien (ABl. L 312 vom 22.11.2008, S. 3, L 127 vom 26.5.2009, S. 24) (Abfallrahmenrichtlinie) und gegebenenfalls in der Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die Verbringung von Abfällen (ABl. L 190 vom 12.7.2006, S. 1, L 318 vom 28.11.2008, S. 15), die zuletzt durch die Verordnung (EU) Nr. 135/2012 (ABl. L 46 vom 17.2.2012, S. 30) geändert worden ist, sowie den Rechtsvorschriften für Gefahrguttransporte vorgeschrieben sind, sowie
 
-2.
-
-1.
-
-2.
-
-3.
-
-4.
+2. Entnahme von repräsentativen Proben und Kontrolle der entnommenen Proben, um zu überprüfen, ob die Abfälle den Angaben nach Absatz 2 entsprechen und den zuständigen Behörden die Feststellung der Art der behandelten Abfälle zu ermöglichen; die Proben sind vor dem Abladen zu entnehmen, sofern dies nicht mit unverhältnismäßigem Aufwand verbunden ist.
 
 (4) Der Betreiber der Anlage hat vor der Annahme des Abfalls in der Abfallverbrennungs- oder -mitverbrennungsanlage die Masse einer jeden Abfallart gemäß der Abfallverzeichnis-Verordnung zu bestimmen.
 
 (5) Die zuständige Behörde kann auf Antrag des Betreibers für Abfallverbrennungs- oder -mitverbrennungsanlagen Ausnahmen von den Absätzen 2 bis 4 zulassen, wenn diese Anlagen
 
-1.
+1. Teil einer in Anhang 1 der Verordnung über genehmigungsbedürftige Anlagen in Spalte d mit dem Buchstaben E gekennzeichneten Anlage sind und
 
-2.
+2. nur Abfälle verbrennen oder mitverbrennen, die innerhalb der Anlage entstanden sind.
 
 (6) Flüssige Abfälle oder Stoffe nach § 1 Absatz 1 sind in geschlossenen, gegen Überdruck gesicherten Behältern zu lagern. Bei der Befüllung der Behälter ist das Gaspendelverfahren anzuwenden oder die Verdrängungsluft zu erfassen. Der Betreiber hat vor Inbetriebnahme einer Abfallverbrennungs- oder -mitverbrennungsanlage offene Übergabestellen mit einer Luftabsaugung auszurüsten. Die Verdrängungsluft aus den Behältern sowie die abgesaugte Luft sind der Feuerung zuzuführen. Bei Stillstand der Feuerung ist eine Annahme an offenen Übergabestellen oder ein Füllen von Lagertanks nur zulässig, wenn emissionsmindernde Maßnahmen, insbesondere die Gaspendelung oder eine Abgasreinigung, angewandt werden.
 
 ### § 4 — Errichtung und Beschaffenheit der Anlagen
 
-(1) Abfallverbrennungs- oder -mitverbrennungsanlagen sind so auszulegen, zu errichten und zu betreiben, dass ein unerlaubtes und unbeabsichtigtes Freisetzen von Schadstoffen in den Boden, in das Oberflächenwasser oder das Grundwasser vermieden wird. Außerdem muss für das auf dem Gelände der Abfallverbrennungs- oder -mitverbrennungsanlage anfallende verunreinigte Regenwasser und für verunreinigtes Wasser, das bei Störungen oder bei der Brandbekämpfung anfällt, eine ausreichende Speicherkapazität vorgesehen werden. Sie ist ausreichend, wenn das anfallende Wasser geprüft und erforderlichenfalls vor der Ableitung behandelt werden kann. Es ist sicherzustellen, dass das Abgasreinigungssystem, insbesondere unter Berücksichtigung des maximalen Abgasvolumenstroms und der maximalen Schadstoffkonzentrationen, Zur Verbesserung der allgemeinen Umweltleistung hat der Betreiber einer in Anhang 1 der Verordnung über genehmigungsbedürftige Anlagen in Spalte d mit dem Buchstaben E gekennzeichneten Anlage ein Umweltmanagementsystem nach Anlage 6 einzuführen, das die Anlage umfasst, und unter Berücksichtigung der Richtlinie VDI 3460 Blatt 1, Ausgabe Februar 2014, anzuwenden. Zur Verbesserung der gesamten Umweltleistung der Abfallverbrennungs- oder -mitverbrennungsanlage und zur Reduzierung der Emissionen in die Luft ist der Aufbau und die Implementierung von Betriebsverfahren zu berücksichtigen, um das An- und Abfahren auf das technisch notwendige Mindestmaß zu begrenzen.
+(1) Abfallverbrennungs- oder -mitverbrennungsanlagen sind so auszulegen, zu errichten und zu betreiben, dass ein unerlaubtes und unbeabsichtigtes Freisetzen von Schadstoffen in den Boden, in das Oberflächenwasser oder das Grundwasser vermieden wird. Außerdem muss für das auf dem Gelände der Abfallverbrennungs- oder -mitverbrennungsanlage anfallende verunreinigte Regenwasser und für verunreinigtes Wasser, das bei Störungen oder bei der Brandbekämpfung anfällt, eine ausreichende Speicherkapazität vorgesehen werden. Sie ist ausreichend, wenn das anfallende Wasser geprüft und erforderlichenfalls vor der Ableitung behandelt werden kann. Es ist sicherzustellen, dass das Abgasreinigungssystem, insbesondere unter Berücksichtigung des maximalen Abgasvolumenstroms und der maximalen Schadstoffkonzentrationen,
 
-1.
+1. ausreichend ausgelegt ist für einen störungsfreien Betrieb,
 
-2.
+2. innerhalb seines Auslegungsbereichs betrieben wird und
 
-3.
+3. so gewartet wird, dass seine optimale Verfügbarkeit gewährleistet ist.
 
 (2) Der Betreiber hat eine Abfallverbrennungsanlage für feste Abfälle oder Stoffe nach § 1 Absatz 1 vor Inbetriebnahme mit einem Bunker auszurüsten, der zur Vermeidung diffuser Emissionen mit einer Absaugung zu versehen ist und dessen abgesaugte Luft der Feuerung zuzuführen ist. Für den Fall, dass die Feuerung nicht in Betrieb ist, sind Maßnahmen zur Reinigung und Ableitung der abgesaugten Luft vorzusehen.
 
@@ -190,11 +168,11 @@ d)
 
 (8) Der Betreiber hat eine Abfallverbrennungs- oder -mitverbrennungsanlage vor der Inbetriebnahme mit automatischen Vorrichtungen auszurüsten, durch die sichergestellt wird, dass
 
-1.
+1. eine Beschickung der Anlagen mit Abfällen oder Stoffen nach § 1 Absatz 1 erst möglich ist, wenn beim Anfahren die Mindesttemperatur erreicht ist,
 
-2.
+2. eine Beschickung der Anlagen mit Abfällen oder Stoffen nach § 1 Absatz 1 nur so lange erfolgen kann, wie die Mindesttemperatur aufrechterhalten wird,
 
-3.
+3. eine Beschickung der Anlagen mit Abfällen oder Stoffen nach § 1 Absatz 1 unterbrochen wird, wenn infolge eines Ausfalls oder einer Störung von Abgasreinigungseinrichtungen eine Überschreitung eines kontinuierlich überwachten Emissionsgrenzwertes eintreten kann; dabei sind sicherheitstechnische Belange des Brand- und Explosionsschutzes zu beachten.
 
 (9) Die Abfallverbrennungs- oder -mitverbrennungsanlagen sind mit Registriereinrichtungen auszurüsten, durch die Verriegelungen oder Abschaltungen durch die automatischen Vorrichtungen nach Absatz 8 registriert werden.
 
@@ -202,11 +180,11 @@ d)
 
 ### § 5 — Betriebsbedingungen
 
-(1) Eine Abfallverbrennungsanlage ist zur Verbesserung der gesamten Umweltleistung und zur Reduzierung der Emissionen in die Luft durch Aufbau und Implementierung von Verfahren zur Anpassung der Anlageneinstellungen durch Prozesssteuerungssysteme oder Feuerleistungsregelungen, sofern erforderlich und durchführbar, basierend auf der Charakterisierung und Kontrolle der Abfälle so zu errichten und zu betreiben, dass Der Betreiber hat die Einhaltung der Anforderungen nach Nummer 2 mindestens alle drei Monate mithilfe einer Probenahme und einer Analyse in Übereinstimmung mit den hierfür geltenden internationalen oder nationalen Normen nachzuweisen und zu dokumentieren.
+(1) Eine Abfallverbrennungsanlage ist zur Verbesserung der gesamten Umweltleistung und zur Reduzierung der Emissionen in die Luft durch Aufbau und Implementierung von Verfahren zur Anpassung der Anlageneinstellungen durch Prozesssteuerungssysteme oder Feuerleistungsregelungen, sofern erforderlich und durchführbar, basierend auf der Charakterisierung und Kontrolle der Abfälle so zu errichten und zu betreiben, dass
 
-1.
+1. ein möglichst weitgehender Ausbrand der Abfälle oder der Stoffe nach § 1 Absatz 1 erreicht wird und
 
-2.
+2. in der Schlacke und in der Rostasche ein Gehalt an organisch gebundenem Gesamtkohlenstoff von weniger als 3 Prozent oder ein Glühverlust von weniger als 5 Prozent des Trockengewichtes eingehalten wird.
 
 (2) Soweit es zur Erfüllung der Anforderungen nach Absatz 1 erforderlich ist, sind die Abfälle oder Stoffe nach § 1 Absatz 1 vorzubehandeln. Die Vorbehandlung erfolgt in der Regel durch Zerkleinern oder Mischen oder durch das Öffnen von Einwegbehältnissen.
 
@@ -220,7 +198,7 @@ d)
 
 (1) Abfallverbrennungsanlagen sind so zu errichten und zu betreiben, dass für die Verbrennungsgase, die bei der Verbrennung von Abfällen oder Stoffen nach § 1 Absatz 1 entstehen, nach der letzten Verbrennungsluftzuführung eine Mindesttemperatur von 850 Grad Celsius eingehalten wird.
 
-(2) Bei der Verbrennung von gefährlichen Abfällen mit einem Halogengehalt aus halogenorganischen Stoffen von mehr als 1 Prozent des Gewichts, berechnet als Chlor, hat der Betreiber dafür zu sorgen, dass abweichend von Absatz 1 eine Mindesttemperatur von 1 100 Grad Celsius eingehalten wird.
+(2) Bei der Verbrennung von gefährlichen Abfällen mit einem Halogengehalt aus halogenorganischen Stoffen von mehr als 1 Prozent des Gewichts, berechnet als Chlor, hat der Betreiber dafür zu sorgen, dass abweichend von Absatz 1 eine Mindesttemperatur von 1 100 Grad Celsius eingehalten wird.
 
 (3) Die Mindesttemperatur muss auch unter ungünstigsten Bedingungen bei gleichmäßiger Durchmischung der Verbrennungsgase mit der Verbrennungsluft für eine Verweilzeit von mindestens zwei Sekunden eingehalten werden.
 
@@ -228,11 +206,11 @@ d)
 
 (5) Die Einhaltung der Mindesttemperatur und der Mindestverweilzeit ist zumindest einmal bei Inbetriebnahme der Anlage durch Messungen oder durch ein von der zuständigen Behörde anerkanntes Gutachten nachzuweisen.
 
-(6) Abweichend von den Absätzen 1 bis 3 können die zuständigen Behörden andere Mindesttemperaturen oder Mindestverweilzeiten (Verbrennungsbedingungen) zulassen, sofern Der Nachweis nach Satz 1 Nummer 2 ist zumindest einmal bei der Inbetriebnahme der Abfallverbrennungsanlage unter den geänderten Verbrennungsbedingungen durch Messungen oder durch ein von der zuständigen Behörde anerkanntes Gutachten zu erbringen. Die zuständigen Behörden haben Ausnahmegenehmigungen nach Satz 1 den zuständigen obersten Immissionsschutzbehörden der Länder zur Weiterleitung an die Europäische Kommission vorzulegen.
+(6) Abweichend von den Absätzen 1 bis 3 können die zuständigen Behörden andere Mindesttemperaturen oder Mindestverweilzeiten (Verbrennungsbedingungen) zulassen, sofern
 
-1.
+1. die sonstigen Anforderungen dieser Verordnung eingehalten werden und
 
-2.
+2. nachgewiesen wird, dass durch die Änderung der Verbrennungsbedingungen keine größeren Abfallmengen und keine Abfälle mit einem höheren Gehalt an organischen Schadstoffen, insbesondere an polyzyklischen aromatischen Kohlenwasserstoffen, polyhalogenierten Dibenzodioxinen, polyhalogenierten Dibenzofuranen oder polyhalogenierten Biphenylen, entstehen, als unter den in den Absätzen 1 bis 3 festgelegten Bedingungen zu erwarten wären.
 
 (7) Für bestehende Anlagen gilt der Nachweis für ausreichende Verbrennungsbedingungen auch als erbracht, sofern zumindest einmal nach der Inbetriebnahme der Anlage durch Messungen nachgewiesen wird, dass keine höheren Emissionen, insbesondere an polyzyklischen aromatischen Kohlenwasserstoffen, polyhalogenierten Dibenzodioxinen, polyhalogenierten Dibenzofuranen oder polyhalogenierten Biphenylen, entstehen als bei den jeweils nach den Absätzen 1 bis 3 festgelegten Verbrennungsbedingungen.
 
@@ -244,7 +222,7 @@ d)
 
 (1) Abfallmitverbrennungsanlagen sind so zu errichten und zu betreiben, dass für die Verbrennungsgase, die bei der Abfallmitverbrennung entstehen, eine Mindesttemperatur von 850 Grad Celsius eingehalten wird.
 
-(2) Bei der Verbrennung von gefährlichen Abfällen mit einem Halogengehalt aus halogenorganischen Stoffen von mehr als 1 Prozent des Gewichts, berechnet als Chlor, hat der Betreiber dafür zu sorgen, dass abweichend von Absatz 1 eine Mindesttemperatur von 1 100 Grad Celsius eingehalten wird.
+(2) Bei der Verbrennung von gefährlichen Abfällen mit einem Halogengehalt aus halogenorganischen Stoffen von mehr als 1 Prozent des Gewichts, berechnet als Chlor, hat der Betreiber dafür zu sorgen, dass abweichend von Absatz 1 eine Mindesttemperatur von 1 100 Grad Celsius eingehalten wird.
 
 (3) Die Mindesttemperatur muss auch unter ungünstigsten Bedingungen für eine Verweilzeit von mindestens zwei Sekunden eingehalten werden.
 
@@ -252,101 +230,55 @@ d)
 
 (5) Die Einhaltung der Mindesttemperatur und der Mindestverweilzeit ist zumindest einmal bei Inbetriebnahme der Anlage durch Messungen oder durch ein von der zuständigen Behörde anerkanntes Gutachten nachzuweisen.
 
-(6) Abweichend von den Absätzen 1 bis 3 kann die zuständige Behörde andere Verbrennungsbedingungen zulassen, sofern Die zuständigen Behörden haben Ausnahmegenehmigungen nach Satz 1 den zuständigen obersten Immissionsschutzbehörden der Länder zur Weiterleitung an die Europäische Kommission vorzulegen.
+(6) Abweichend von den Absätzen 1 bis 3 kann die zuständige Behörde andere Verbrennungsbedingungen zulassen, sofern
 
-1.
+1. die sonstigen Anforderungen dieser Verordnung eingehalten werden und
 
-2.
+2. die Emissionsgrenzwerte nach § 8 Absatz 1 für organische Stoffe, angegeben als Gesamtkohlenstoff, und für Kohlenmonoxid eingehalten werden.
 
 ### § 8 — Emissionsgrenzwerte für Abfallverbrennungsanlagen
 
 (1) Abfallverbrennungsanlagen sind so zu errichten und zu betreiben, dass
 
-1.
+1. kein Tagesmittelwert die folgenden Emissionsgrenzwerte überschreitet: a)Gesamtstaub5 mg/m3,b)organische Stoffe, angegeben als Gesamtkohlenstoff,10 mg/m3,c)gasförmige anorganische Chlorverbindungen, angegeben als Chlorwasserstoff,6 mg/m3,d)gasförmige anorganische Fluorverbindungen, angegeben als Fluorwasserstoff,0,9 mg/m3,e)Schwefeldioxid und Schwefeltrioxid, angegeben als Schwefeldioxid,30 mg/m3,f)Stickstoffmonoxid und Stickstoffdioxid, angegeben als Stickstoffdioxid,120 mg/m3,g)Quecksilber und seine Verbindungen, angegeben als Quecksilber,0,01 mg/m3,h)Kohlenmonoxid50 mg/m3,i)Ammoniak, sofern zur Minderung der Emissionen von Stickstoffoxiden ein Verfahren zur selektiven katalytischen oder nichtkatalytischen Reduktion eingesetzt wird10 mg/m3; Gesamtstaub5 mg/m3, organische Stoffe, angegeben als Gesamtkohlenstoff,10 mg/m3, gasförmige anorganische Chlorverbindungen, angegeben als Chlorwasserstoff,6 mg/m3, gasförmige anorganische Fluorverbindungen, angegeben als Fluorwasserstoff,0,9 mg/m3, Schwefeldioxid und Schwefeltrioxid, angegeben als Schwefeldioxid,30 mg/m3, Stickstoffmonoxid und Stickstoffdioxid, angegeben als Stickstoffdioxid,120 mg/m3, Quecksilber und seine Verbindungen, angegeben als Quecksilber,0,01 mg/m3, Kohlenmonoxid50 mg/m3, Ammoniak, sofern zur Minderung der Emissionen von Stickstoffoxiden ein Verfahren zur selektiven katalytischen oder nichtkatalytischen Reduktion eingesetzt wird10 mg/m3;
 
-a)
+2. kein Halbstundenmittelwert die folgenden Emissionsgrenzwerte überschreitet: a)Gesamtstaub20 mg/m3,b)organische Stoffe, angegeben als Gesamtkohlenstoff,20 mg/m3,c)gasförmige anorganische Chlorverbindungen, angegeben als Chlorwasserstoff,40 mg/m3,d)gasförmige anorganische Fluorverbindungen, angegeben als Fluorwasserstoff,4 mg/m3,e)Schwefeldioxid und Schwefeltrioxid, angegeben als Schwefeldioxid,200 mg/m3,f)Stickstoffmonoxid und Stickstoffdioxid, angegeben als Stickstoffdioxid,400 mg/m3,g)Quecksilber und seine Verbindungen, angegeben als Quecksilber,0,035 mg/m3,h)Kohlenmonoxid100 mg/m3,i)Ammoniak, sofern zur Minderung der Emissionen von Stickstoffoxiden ein Verfahren zur selektiven katalytischen oder nichtkatalytischen Reduktion eingesetzt wird15 mg/m3; Gesamtstaub20 mg/m3, organische Stoffe, angegeben als Gesamtkohlenstoff,20 mg/m3, gasförmige anorganische Chlorverbindungen, angegeben als Chlorwasserstoff,40 mg/m3, gasförmige anorganische Fluorverbindungen, angegeben als Fluorwasserstoff,4 mg/m3, Schwefeldioxid und Schwefeltrioxid, angegeben als Schwefeldioxid,200 mg/m3, Stickstoffmonoxid und Stickstoffdioxid, angegeben als Stickstoffdioxid,400 mg/m3, Quecksilber und seine Verbindungen, angegeben als Quecksilber,0,035 mg/m3, Kohlenmonoxid100 mg/m3, Ammoniak, sofern zur Minderung der Emissionen von Stickstoffoxiden ein Verfahren zur selektiven katalytischen oder nichtkatalytischen Reduktion eingesetzt wird15 mg/m3;
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-3.
+3. kein Mittelwert, der über die jeweilige Probenahmezeit gebildet ist, die Emissionsgrenzwerte nach Anlage 1 überschreitet.
 
 (2) Für bestehende Abfallverbrennungsanlagen gilt
 
-1.
+1. abweichend von Absatz 1 Nummer 1 Buchstabe c ein Emissionsgrenzwert für gasförmige anorganische Chlorverbindungen, angegeben als Chlorwasserstoff, von 8 mg/m3 für den Tagesmittelwert,
 
-2.
+2. abweichend von Absatz 1 Nummer 1 Buchstabe e ein Emissionsgrenzwert für Schwefeldioxid und Schwefeltrioxid, angegeben als Schwefeldioxid, von 40 mg/m3 für den Tagesmittelwert und
 
-3.
-
-(3) Abweichend von Absatz 1 Nummer 1 Buchstabe b sind Abfallverbrennungsanlagen, die Abgase aus Anlagen zur Herstellung von Toluoldiisocyanat (TDI) und von Methylendiphenyldiisocyanat (MDI) nach Nummer 4.1.4 des Anhangs 1 der Verordnung über genehmigungsbedürftige Anlagen oder Abgase aus Anlagen zur Herstellung von 1,2-Dichlorethan und Vinylchlorid nach Nummer 4.1.6 des Anhangs 1 der Verordnung über genehmigungsbedürftige Anlagen verbrennen, so zu errichten und zu betreiben, dass ein Emissionsgrenzwert für organische Stoffe, angegeben als Gesamtkohlenstoff, ausgenommen staubförmige organische Stoffe, von 5 mg/m3 für den Tagesmittelwert eingehalten wird. Die Anforderung nach Absatz 1 Nummer 2 Buchstabe b bleibt unberührt.
+3. abweichend von Absatz 1 Nummer 1 Buchstabe f ein Emissionsgrenzwert für Stickstoffmonoxid und Stickstoffdioxid, angegeben als Stickstoffdioxid, von 150 mg/m3 für den Tagesmittelwert, sofern Selektive katalytische Reduktion (SCR) bei Anlagen, deren Feuerungswärmeleistung weniger als 50 MW beträgt, und die die selektive nicht-katalytische Reduktion anwenden (SNCR) sowie die vor dem 2. Mai 2013 genehmigt oder errichtet wurden, nicht anwendbar ist, gilt insoweit 180 mg/m3 für den Tagesmittelwert; für bestehende Abfallmitverbrennungsanlagen mit einer Feuerungswärmeleistung von 50 MW oder weniger gilt ein Emissionsgrenzwert von 180 mg/m3 für den Tagesmittelwert, soweit eine selektive katalytische Reduktion (SCR) nicht anwendbar ist.
 
 (4) Die Emissionen an Distickstoffmonoxid im Abgas sind bei Wirbelschichtfeuerungen oder bei Abfallverbrennungsanlagen, die eine selektive nichtkatalytische Reduktion mit Harnstoff verwenden, nach dem Stand der Technik zu mindern.
 
-(5) Die Emissionsgrenzwerte nach Absatz 1 beziehen sich auf einen Bezugssauerstoffgehalt von 11 Prozent. Sofern weitere Maßnahmen durchgeführt werden, die einen Einfluss auf die Bestimmung der Emissionswerte haben, sind die Anforderungen an die Überwachung im Einzelfall mit der zuständigen Behörde abzustimmen, so dass die geänderten Bedingungen nicht zu Lasten der Betreiber gehen. Zu diesen Maßnahmen zählt insbesondere der Einsatz technischer Einrichtungen Soweit ausschließlich gasförmige Stoffe, die bei der Pyrolyse oder Vergasung von Abfällen entstehen, oder Altöle im Sinne von § 1a Absatz 1 der Altölverordnung in der Fassung der Bekanntmachung vom 16. April 2002 (BGBl. I S. 1368), die zuletzt durch Artikel 5 Absatz 14 des Gesetzes vom 24. Februar 2012 (BGBl. I S. 212) geändert worden ist, eingesetzt werden, beträgt der Bezugssauerstoffgehalt 3 Prozent.
+(5) Die Emissionsgrenzwerte nach Absatz 1 beziehen sich auf einen Bezugssauerstoffgehalt von 11 Prozent. Sofern weitere Maßnahmen durchgeführt werden, die einen Einfluss auf die Bestimmung der Emissionswerte haben, sind die Anforderungen an die Überwachung im Einzelfall mit der zuständigen Behörde abzustimmen, so dass die geänderten Bedingungen nicht zu Lasten der Betreiber gehen. Zu diesen Maßnahmen zählt insbesondere der Einsatz technischer Einrichtungen
 
-1.
+1. zur Minderung oder Abscheidung von Kohlenstoffdioxid,
 
-2.
+2. zur Steigerung der Energieeffizienz oder
 
-3.
+3. zur Abgaskondensation.
 
 ### § 9 — Emissionsgrenzwerte für Abfallmitverbrennungsanlagen
 
-(1) Abfallmitverbrennungsanlagen sind so zu errichten und zu betreiben, dass folgende Emissionsgrenzwerte in den Abgasen eingehalten werden: Mitverbrennungsstoffe sind dabei die eingesetzten Abfälle und Stoffe nach § 1 Absatz 1 sowie die für ihre Mitverbrennung zusätzlich benötigten Brennstoffe.
+(1) Abfallmitverbrennungsanlagen sind so zu errichten und zu betreiben, dass folgende Emissionsgrenzwerte in den Abgasen eingehalten werden:
 
-1.
+1. die Emissionsgrenzwerte nach Anlage 3, sofern a)die Anlage nicht mehr als 25 Prozent der jeweils gefahrenen Feuerungswärmeleistung einer Abfallmitverbrennungslinie aus Mitverbrennungsstoffen erzeugt, undb)bei Einsatz gemischter Siedlungsabfälle nur aufbereitete gemischte Siedlungsabfälle eingesetzt werden, sowie die Anlage nicht mehr als 25 Prozent der jeweils gefahrenen Feuerungswärmeleistung einer Abfallmitverbrennungslinie aus Mitverbrennungsstoffen erzeugt, und bei Einsatz gemischter Siedlungsabfälle nur aufbereitete gemischte Siedlungsabfälle eingesetzt werden, sowie
 
-a)
-
-b)
-
-2.
-
-a)
-
-b)
+2. die Emissionsgrenzwerte nach § 8 Absatz 1 und 2 und § 10 Absatz 1, sofern a)die Anlage mehr als 25 Prozent der jeweils gefahrenen Feuerungswärmeleistung einer Abfallmitverbrennungslinie aus Mitverbrennungsstoffen erzeugt oderb)bei Einsatz gemischter Siedlungsabfälle keine aufbereiteten gemischten Siedlungsabfälle eingesetzt werden. die Anlage mehr als 25 Prozent der jeweils gefahrenen Feuerungswärmeleistung einer Abfallmitverbrennungslinie aus Mitverbrennungsstoffen erzeugt oder bei Einsatz gemischter Siedlungsabfälle keine aufbereiteten gemischten Siedlungsabfälle eingesetzt werden.
 
 (2) Für Anlagen zur Herstellung von Zementklinker oder Zementen oder für Anlagen zum Brennen von Kalkstein gemäß Nummer 2.3 oder 2.4 des Anhangs 1 der Verordnung über genehmigungsbedürftige Anlagen gelten die Regelungen in der Anlage 3 Nummer 2 auch dann, wenn abweichend von Absatz 1 Satz 1 Nummer 1 Buchstabe a der Anteil der Mitverbrennungsstoffe an der jeweils gefahrenen Feuerungswärmeleistung 25 Prozent übersteigt.
 
 (3) Werden in Anlagen nach Absatz 2 mehr als 40 Prozent der jeweils gefahrenen Feuerungswärmeleistung aus gefährlichen Abfällen einschließlich des für deren Verbrennung zusätzlich benötigten Brennstoffs erzeugt, gelten abweichend von Absatz 2 die Grenzwerte nach § 8 Absatz 1 und § 10 Absatz 1. Für die Ermittlung des prozentualen Anteils nach Satz 1 unberücksichtigt bleiben flüssige brennbare Abfälle und Stoffe nach § 1 Absatz 1, wenn
 
-1.
+1. deren Massengehalt an polychlorierten aromatischen Kohlenwasserstoffen, wie zum Beispiel polychlorierte Biphenyle oder Pentachlorphenol, weniger als 10 Milligramm je Kilogramm und deren unterer Heizwert mindestens 30 Megajoule je Kilogramm beträgt oder
 
-2.
+2. auf Grund ihrer Zusammensetzung keine anderen oder keine höheren Emissionen als bei der Verbrennung von leichtem Heizöl auftreten können.
 
 (4) Die Emissionsgrenzwerte beziehen sich auf einen Volumengehalt an Sauerstoff im Abgas, wie er in Anlage 3 festgelegt oder nach dem in Anlage 3 vorgegebenen Verfahren ermittelt wurde. § 8 Absatz 5 Satz 2 und 3 gilt entsprechend. Soweit in Anlage 3 nicht anders festgelegt ist, dürfen die Halbstundenmittelwerte das Zweifache der jeweils festgelegten Tagesmittelwerte nicht überschreiten. Soweit Emissionsgrenzwerte nach Anlage 3 Nummer 3 von der Feuerungswärmeleistung abhängig sind, ist für abfallmitverbrennende Großfeuerungsanlagen die Feuerungswärmeleistung gemäß § 3 der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen und für abfallmitverbrennende Feuerungsanlagen die Feuerungswärmeleistung gemäß § 4 der Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen maßgeblich.
 
@@ -356,9 +288,9 @@ b)
 
 (1) Abfallverbrennungsanlagen sind so zu errichten und zu betreiben, dass kein Jahresmittelwert folgende Emissionsgrenzwerte überschreitet:
 
-1.
+1. Stickstoffmonoxid und Stickstoffdioxid, angegeben als Stickstoffdioxid,100 mg/m3,
 
-2.
+2. Quecksilber und seine Verbindungen, angegeben als Quecksilber,0,005 mg/m3.
 
 (2) Abfallmitverbrennungsanlagen sind so zu errichten und zu betreiben, dass kein Jahresmittelwert die Emissionsgrenzwerte gemäß Anlage 3 Nummer 2.3, 3.1, 3.4, 3.5 oder 4.3 überschreitet.
 
@@ -388,8 +320,6 @@ Die Abgase sind in kontrollierter Weise so abzuleiten, dass ein ungestörter Abt
 
 (2) Der Betreiber einer Abfallverbrennungsanlage, die in Anhang 1 der Verordnung über genehmigungsbedürftige Anlagen in Spalte d mit dem Buchstaben E gekennzeichnet ist, hat entweder den elektrischen Bruttowirkungsgrad, die Bruttoenergieeffizienz oder den Kesselwirkungsgrad für die Abfallverbrennungsanlage insgesamt oder für alle relevanten Teile der Abfallverbrennungsanlage zu bestimmen. Bei einer Abfallverbrennungsanlage, die keine bestehende Abfallverbrennungsanlage ist, oder nach jeder Änderung einer bestehenden Abfallverbrennungsanlage, die die Energieeffizienz erheblich beeinträchtigen könnte, wird der elektrische Bruttowirkungsgrad, die Bruttoenergieeffizienz oder der Kesselwirkungsgrad durch einen Leistungstest bei Volllastbetrieb bestimmt. Bei einer bestehenden Abfallverbrennungsanlage, die keinen Leistungstest durchgeführt hat, bei der eine Leistung unter Volllast aus technischen Gründen nicht erbracht werden kann, kann der elektrische Bruttowirkungsgrad, die Bruttoenergieeffizienz oder der Kesselwirkungsgrad unter Berücksichtigung der Auslegungswerte unter Leistungstestbedingungen bestimmt werden.
 
-(3) Die Einhaltung der Mindestanforderungen der Anlage 7 an die nach Absatz 2 ermittelten Energieeffizienzwerte sind der zuständigen Behörde nachzuweisen. Maßnahmen zur CO2-Abscheidung sind als energetische Nutzung bei Abfallverbrennungsanlagen anzuerkennen. Von den Mindestanforderungen der Anlage 7 kann die zuständige Behörde auf Antrag Abweichungen zulassen, wenn die technischen Möglichkeiten und die Zumutbarkeit der Wärmenutzung nach Satz 1 bei der Verbrennung von gefährlichen Abfällen oder durch die Abgaszusammensetzung eingeschränkt oder nicht gegeben sind.
-
 ## Abschnitt 3: Messung und Überwachung
 
 ### § 14 — Messplätze
@@ -406,9 +336,9 @@ Der Betreiber hat vor Inbetriebnahme einer Anlage für die Messungen zur Festste
 
 (4) Der Betreiber hat Messeinrichtungen, die zur kontinuierlichen Feststellung der Emissionen oder der Verbrennungsbedingungen sowie zur Ermittlung der Bezugs- oder Betriebsgrößen eingesetzt werden, durch eine Stelle, die von einer nach Landesrecht zuständigen Behörde nach § 29b Absatz 2 des Bundes-Immissionsschutzgesetzes bekannt gegeben wurde, gemäß Absatz 5
 
-1.
+1. kalibrieren zu lassen und
 
-2.
+2. auf Funktionsfähigkeit prüfen zu lassen.
 
 (5) Die Funktionsfähigkeit ist jährlich prüfen zu lassen. Dabei ist sie mit Ausnahme der Mindesttemperaturmessung durch Vergleichsmessung mit der Referenzmethode zu prüfen. Die Kalibrierung ist jeweils nach der Errichtung und jeder wesentlichen Änderung durchführen zu lassen. Die Kalibrierung ist mindestens alle drei Jahre, bei der Mindesttemperaturmessung mindestens alle sechs Jahre zu wiederholen.
 
@@ -416,15 +346,15 @@ Der Betreiber hat vor Inbetriebnahme einer Anlage für die Messungen zur Festste
 
 ### § 16 — Kontinuierliche Messungen
 
-(1) Der Betreiber hat unter Berücksichtigung der Anforderungen gemäß Anlage 4 folgende Parameter kontinuierlich zu ermitteln, zu registrieren und auszuwerten: Der Betreiber hat hierzu die Abfallverbrennungs- oder -mitverbrennungsanlagen vor Inbetriebnahme mit geeigneten Messeinrichtungen und Messwertrechnern auszurüsten. Satz 1 Nummer 1 in Verbindung mit Satz 2 gilt nicht, soweit Emissionen einzelner Stoffe nach § 8 Absatz 1 Nummer 1 Buchstabe d oder nach Nummer 2.1, 2.3, 3.1, 3.2, 3.4, 3.5, 3.6 sowie 4.1 der Anlage 3 nachweislich auszuschließen oder allenfalls in geringen Konzentrationen zu erwarten sind und soweit die zuständige Behörde eine entsprechende Ausnahme erteilt hat. Hiervon ausgenommen sind die Emissionsmessungen für Kohlenmonoxid und organische Stoffe, angegeben als Gesamtkohlenstoff.
+(1) Der Betreiber hat unter Berücksichtigung der Anforderungen gemäß Anlage 4 folgende Parameter kontinuierlich zu ermitteln, zu registrieren und auszuwerten:
 
-1.
+1. die Massenkonzentration der Emissionen nach § 8 Absatz 1 Nummer 1 und 2 sowie der Nummern 2.1, 2.2, 2.3, 3.1, 3.2, 3.4, 3.5, 3.6 sowie 4.1 und 4.2 gemäß Anlage 3,
 
-2.
+2. den Volumengehalt an Sauerstoff im Abgas,
 
-3.
+3. die Temperaturen nach § 6 Absatz 1 oder Absatz 2 sowie § 7 Absatz 1 oder Absatz 2 und
 
-4.
+4. die zur Beurteilung des ordnungsgemäßen Betriebs erforderlichen Betriebsgrößen, insbesondere die Abgastemperatur, das Abgasvolumen, den Feuchtegehalt und den Druck.
 
 (2) Messeinrichtungen für den Feuchtegehalt sind nicht notwendig, wenn das Abgas vor der Ermittlung der Massenkonzentration der Emissionen getrocknet wird.
 
@@ -452,9 +382,9 @@ Der Betreiber hat vor Inbetriebnahme einer Anlage für die Messungen zur Festste
 
 (3) Der Betreiber hat in den Messbericht nach Absatz 2 Folgendes aufzunehmen:
 
-1.
+1. die Häufigkeit und die Dauer einer Nichteinhaltung der Anforderungen nach § 6 Absatz 1 bis 3 oder nach § 7 Absatz 1 bis 3 und
 
-2.
+2. die Aufzeichnungen der Registriereinrichtungen nach § 4 Absatz 9.
 
 (4) Der Betreiber hat die Jahresmittelwerte gemäß § 10 auf der Grundlage der nach Anlage 4 validierten Halbstundenmittelwerte ohne Anwendung von Absatz 1 Satz 2 zu berechnen; hierzu sind die validierten Halbstundenmittelwerte eines Kalenderjahres ohne Anwendung von Absatz 1 Satz 4 zusammenzuzählen und durch die Anzahl der validierten Halbstundenmittelwerte zu teilen. Der Betreiber hat für jedes Kalenderjahr einen Nachweis über die Jahresmittelwerte zu führen und der zuständigen Behörde bis zum 31. März des Folgejahres auf Verlangen vorzulegen. Die Nachweise sind fünf Jahre nach Ende des Nachweiszeitraums aufzubewahren.
 
@@ -462,13 +392,13 @@ Der Betreiber hat vor Inbetriebnahme einer Anlage für die Messungen zur Festste
 
 (6) Die Emissionsgrenzwerte sind eingehalten, wenn
 
-1.
+1. kein Ergebnis eines nach Anlage 4 validierten Tagesmittelwertes den jeweils maßgebenden Emissionsgrenzwert nach § 8 Absatz 1 Nummer 1 und Anlage 3 Nummer 2.1, 2.3, 3.1, 3.2, 3.4, 3.5, 3.6 sowie 4.1 überschreitet,
 
-2.
+2. kein Ergebnis eines nach Anlage 4 validierten Halbstundenmittelwertes den jeweils maßgeblichen Emissionsgrenzwert nach § 8 Absatz 1 Nummer 2, § 9 Absatz 4 Satz 3 oder eines von § 9 Absatz 4 Satz 3 abweichenden Emissionsgrenzwertes in Anlage 3 Nummer 2.2 sowie 4.2 überschreitet,
 
-3.
+3. kein Ergebnis den jeweils maßgeblichen Schwefelabscheidegrad und Entschwefelungsgrad der Rauchgasreinigungseinrichtung nach Anlage 3 Nummer 3.3 unterschreitet und
 
-4.
+4. kein nach Absatz 4 ermittelter Jahresmittelwert den jeweils maßgeblichen Emissionsgrenzwert nach § 10, Anlage 3 Nummer 2.3 sowie 4.3 überschreitet und kein nach Absatz 5 ermittelter Jahresmittelwert den jeweils maßgeblichen Emissionsgrenzwert nach Anlage 3 Nummer 3.1, 3.4 und 3.5 überschreitet.
 
 (7) Bei Anwendung der Langzeitprobenahme zur Bestimmung der Emissionen an Quecksilber und seinen Verbindungen, angegeben als Quecksilber, nach § 16 Absatz 8 gilt der im Jahresmittel einzuhaltende Emissionsgrenzwert als eingehalten, wenn der arithmetische Mittelwert der im Jahr erhaltenen Messwerte den vorgeschriebenen Grenzwert nicht übersteigt.
 
@@ -478,23 +408,21 @@ Der Betreiber hat vor Inbetriebnahme einer Anlage für die Messungen zur Festste
 
 (2) Der Betreiber hat nach Errichtung oder wesentlicher Änderung einer Abfallverbrennungs- oder -mitverbrennungsanlage Messungen einer nach § 29b Absatz 2 in Verbindung mit § 26 des Bundes-Immissionsschutzgesetzes bekannt gegebenen Stelle zur Feststellung, ob die Anforderungen nach § 8 Absatz 1 Nummer 3 oder, bei Vorliegen der Voraussetzungen nach § 16 Absatz 7 bis 9, nach § 8 Absatz 1 Nummer 1 und 2 oder Anlage 3 Nummer 2.1, 2.2, 3.1, 3.2, 3.4, 3.5, 3.6 sowie 4.1 und 4.2 festgelegten Anforderungen erfüllt werden, sowie bei Wirbelschichtfeuerungen oder bei Anlagen mit selektiver nichtkatalytischer Reduktion mit Harnstoff zur Feststellung der Distickstoffmonoxid-Emissionen nach Absatz 3 und 4 durchführen zu lassen.
 
-(3) Die Messungen sind im Zeitraum von zwölf Monaten nach Inbetriebnahme alle zwei Monate mindestens an einem Tag und anschließend wiederkehrend halbjährlich an mindestens drei Tagen durchführen zu lassen. Abweichend von Satz 1 führen abfallmitverbrennende Großfeuerungsanlagen mit Feuerungswärmeleistungen von 300 MW und mehr ihre Wiederholungsmessungen der Emissionen von Anlage 1 Buchstabe a, b und c einmal vierteljährlich durch. Messungen und Wiederholungsmessungen nach den Sätzen 1 und 2 umfassen mindestens sechs einzelne Messungen über jeweils 30 Minuten. Abweichend von Satz 3 sind im Falle der Überwachung von Emissionen nach Anlage 1 mindestens drei einzelne Messungen vorgeschrieben. Abweichend von den Sätzen 1 und 2 sind die Messungen von Benzo(a)pyren und von Distickstoffmonoxid jährlich durchführen zu lassen. Sollte die periodische Messung von Stoffen nach Anlage 1 Buchstabe c halbjährlich oder vierteljährlich erfolgen, so gilt die Summenbildung nach Anlage 1 Buchstabe c ohne Benzo(a)pyren. Zusätzlich sind für Abfallverbrennungs- oder -mitverbrennungsanlagen, in denen gezielt Abfälle verbrannt werden, die bromierte Flammschutzmittel enthalten, oder für Anlagen, die kontinuierlich bromhaltige Verbindungen in den Feuerraum einbringen, einmalig bis zum 16. Februar 2025 Messungen zur Bestimmung der Emissionen von polybromierten Dibenzodioxinen und ‑furanen nach Anlage 2a durchführen zu lassen. Nach Vorliegen einer internationalen oder nationalen Norm für ein geeignetes Messverfahren sind in folgenden Abfallverbrennungs- oder -mitverbrennungsanlagen, abweichend von Satz 7, Messungen zur Bestimmung der Emissionen von polybromierten Dibenzodioxinen und ‑furanen nach Anlage 2a wiederkehrend halbjährlich an mindestens drei Tagen durchzuführen: Für den Fall, dass der Maximalwert der periodischen Messungen nach den Sätzen 1 und 2 mit einem Vertrauensniveau von 50 Prozent nach der Richtlinie VDI 2448 Blatt 2, Ausgabe Juli 1997, den jeweiligen Emissionsgrenzwert nicht überschreitet, hat der Betreiber die Wiederholungsmessungen abweichend von den Sätzen 1 und 2 einmal jährlich durchführen zu lassen.
+(3) Die Messungen sind im Zeitraum von zwölf Monaten nach Inbetriebnahme alle zwei Monate mindestens an einem Tag und anschließend wiederkehrend halbjährlich an mindestens drei Tagen durchführen zu lassen. Abweichend von Satz 1 führen abfallmitverbrennende Großfeuerungsanlagen mit Feuerungswärmeleistungen von 300 MW und mehr ihre Wiederholungsmessungen der Emissionen von Anlage 1 Buchstabe a, b und c einmal vierteljährlich durch. Messungen und Wiederholungsmessungen nach den Sätzen 1 und 2 umfassen mindestens sechs einzelne Messungen über jeweils 30 Minuten. Abweichend von Satz 3 sind im Falle der Überwachung von Emissionen nach Anlage 1 mindestens drei einzelne Messungen vorgeschrieben. Abweichend von den Sätzen 1 und 2 sind die Messungen von Benzo(a)pyren und von Distickstoffmonoxid jährlich durchführen zu lassen. Sollte die periodische Messung von Stoffen nach Anlage 1 Buchstabe c halbjährlich oder vierteljährlich erfolgen, so gilt die Summenbildung nach Anlage 1 Buchstabe c ohne Benzo(a)pyren. Zusätzlich sind für Abfallverbrennungs- oder -mitverbrennungsanlagen, in denen gezielt Abfälle verbrannt werden, die bromierte Flammschutzmittel enthalten, oder für Anlagen, die kontinuierlich bromhaltige Verbindungen in den Feuerraum einbringen, einmalig bis zum 16. Februar 2025 Messungen zur Bestimmung der Emissionen von polybromierten Dibenzodioxinen und ‑furanen nach Anlage 2a durchführen zu lassen. Nach Vorliegen einer internationalen oder nationalen Norm für ein geeignetes Messverfahren sind in folgenden Abfallverbrennungs- oder -mitverbrennungsanlagen, abweichend von Satz 7, Messungen zur Bestimmung der Emissionen von polybromierten Dibenzodioxinen und ‑furanen nach Anlage 2a wiederkehrend halbjährlich an mindestens drei Tagen durchzuführen:
 
-1.
+1. in Verbrennungsanlagen, in denen gezielt Abfälle verbrannt werden, die bromierte Flammschutzmittel enthalten, oder
 
-2.
+2. in Verbrennungsanlagen, die kontinuierlich bromhaltige Verbindungen in den Feuerraum einbringen.
 
 (4) Die Messungen sind vorzunehmen, wenn die Anlage mit der höchsten Leistung betrieben wird, für die sie bei den während der Messung verwendeten Abfällen oder Stoffen nach § 1 Absatz 1 für den Dauerbetrieb zugelassen ist.
 
-(5) Zur Überwachung der Anforderungen nach § 8 Absatz 1 Nummer 3 ist die Probenahmedauer in Abhängigkeit des Probenahmeverfahrens und des Probenahmegeräts festzulegen. Dabei ist die Dauer der Probenahme mindestens auf einen Wert festzusetzen, der garantiert, dass die jeweils maßgebliche Nachweisgrenze überschritten wird. Für die in Anlage 1 Buchstabe d und e oder Anlage 2 genannten Stoffe soll die Bestimmungsgrenze des eingesetzten Analyseverfahrens nicht über 0,0005 ng WHO-TEFi/m3 Abgas liegen.
-
 (6) Abweichend von Absatz 3 Satz 1 sind die Messungen zur Überwachung der Anforderungen nach § 8 Absatz 1 Nummer 3 in Verbindung mit Anlage 1 Buchstabe e durch Langzeitprobenahme monatlich für den Zeitraum des jeweiligen Monats durchzuführen.
 
-(7) Die Überwachung der Anforderungen nach § 8 Absatz 1 Nummer 3 in Verbindung mit Anlage 1 Buchstabe e wird nicht angewendet, wenn durch Messungen nach § 18 Absatz 3 nachgewiesen wird, dass die Emissionen eine ausreichende Stabilität aufweisen. Dies ist anzunehmen, wenn wurden. Abweichend von Satz 2 kann die ausreichende Stabilität für Anlagen, die keine bestehenden Anlagen sind, angenommen werden, wenn die Emissionsgrenzwerte gemäß Anlage 1 Buchstabe d im Zeitraum von zwölf Monaten nach Inbetriebnahme bei jeder Messung alle zwei Monate sicher eingehalten wurden.
+(7) Die Überwachung der Anforderungen nach § 8 Absatz 1 Nummer 3 in Verbindung mit Anlage 1 Buchstabe e wird nicht angewendet, wenn durch Messungen nach § 18 Absatz 3 nachgewiesen wird, dass die Emissionen eine ausreichende Stabilität aufweisen. Dies ist anzunehmen, wenn
 
-1.
+1. die Emissionsgrenzwerte gemäß Anlage 1 Buchstabe d über einen Zeitraum von drei Jahren sicher eingehalten oder
 
-2.
+2. in einem Zeitraum von sechs Jahren nicht mehr als zwei Messwerte oberhalb der Emissionsgrenzwerte festgestellt
 
 (8) Die Messungen zur Überwachung der Anforderungen nach § 16 Absatz 8 durch Langzeitprobenahme sind monatlich für den Zeitraum des jeweiligen Monats durchzuführen.
 
@@ -502,13 +430,13 @@ Der Betreiber hat vor Inbetriebnahme einer Anlage für die Messungen zur Festste
 
 (1) Der Betreiber hat über die Ergebnisse der periodischen Messungen nach § 18 einen Messbericht zu erstellen und diesen der zuständigen Behörde spätestens acht Wochen nach den Messungen vorzulegen. Der Messbericht muss Folgendes enthalten:
 
-1.
+1. Angaben über die Messplanung,
 
-2.
+2. das Ergebnis jeder periodischen Messung,
 
-3.
+3. das verwendete Messverfahren und
 
-4.
+4. die Betriebsbedingungen, die für die Beurteilung der Messergebnisse von Bedeutung sind.
 
 (2) Die Emissionsgrenzwerte gelten als eingehalten, wenn kein Ergebnis einer periodischen Messung einen Mittelwert nach § 8 Absatz 1 oder gemäß Anlage 3 überschreitet.
 
@@ -532,63 +460,45 @@ Der Betreiber hat vor Inbetriebnahme einer Anlage für die Messungen zur Festste
 
 (2) Die zuständige Behörde trägt durch entsprechende Überwachungsmaßnahmen dafür Sorge, dass der Betreiber
 
-1.
+1. seinen rechtlichen Verpflichtungen zu einem ordnungsgemäßen Betrieb nachkommt oder
 
-2.
+2. die Anlage außer Betrieb nimmt.
 
 (3) Bei Abfallverbrennungs- oder -mitverbrennungsanlagen, die aus einer oder mehreren Abfallverbrennungslinien mit gemeinsamen Abgaseinrichtungen bestehen, soll die Behörde für technisch unvermeidbare Ausfälle der Abgasreinigungseinrichtungen in der Anlagengenehmigung den Zeitraum festlegen, währenddessen von den Emissionsgrenzwerten nach § 8 und Anlage 3 unter bestimmten Voraussetzungen abgewichen werden darf. Nicht abgewichen werden darf von den Emissionsgrenzwerten für organische Stoffe, angegeben als Gesamtkohlenstoff, und für Kohlenmonoxid nach
 
-1.
+1. § 8 Absatz 1 Nummer 1 Buchstabe b und h,
 
-2.
+2. § 8 Absatz 1 Nummer 2 Buchstabe b und h und
 
-3.
+3. Anlage 3 Nummer 2.1, 3.1, 3.2, 3.4, 3.5, 3.6 und 4.1.
 
-(4) Die Anlage darf in Fällen des Absatzes 3 nicht länger weiterbetrieben werden als, Die Emissionsbegrenzung für den Gesamtstaub darf eine Massenkonzentration von 150 mg/m3 Abgas, gemessen als Halbstundenmittelwert, nicht überschreiten. § 4 Absatz 8 und 9, § 8 Absatz 5 sowie § 9 Absatz 4 gelten entsprechend.
+(4) Die Anlage darf in Fällen des Absatzes 3 nicht länger weiterbetrieben werden als,
 
-1.
+1. vier aufeinander folgende Stunden und
 
-2.
+2. innerhalb eines Kalenderjahres 60 Stunden.
 
 ### § 22 — Jährliche Berichte über Emissionen
 
 (1) Der Betreiber einer abfallmitverbrennenden Großfeuerungsanlage hat der zuständigen Behörde jährlich jeweils bis zum Ablauf des 30. April des Folgejahres für jede einzelne Anlage unter Beachtung von § 9 Absatz 4 Satz 4 Folgendes zu berichten:
 
-1.
+1. die installierte Feuerungswärmeleistung der Feuerungsanlage, in Megawatt,
 
-2.
+2. die Art der Feuerungsanlage: Kesselfeuerung, Gasturbine, Gasmotor, Dieselmotor, andere Feuerungsanlage mit genauer Angabe der Art der Feuerungsanlage,
 
-3.
+3. die Angabe, ob die Feuerungsanlage Teil einer Raffinerie ist,
 
-4.
+4. das Datum der Betriebsaufnahme und der letzten wesentlichen Änderung der Feuerungsanlage, einschließlich der Benennung der wesentlichen Änderung,
 
-5.
+5. die Jahresgesamtemissionen, in Megagramm pro Jahr, an Schwefeloxiden, angegeben als Schwefeldioxid, Stickstoffoxiden, angegeben als Stickstoffdioxid, und Staub, angegeben als Schwebstoffe insgesamt; hierbei sind die normierten Messwerte zur Berechnung heranzuziehen,
 
-6.
+6. die jährlichen Betriebsstunden der Feuerungsanlage,
 
-7.
+7. den jährlichen Gesamtenergieeinsatz, in Terajoule pro Jahr, bezogen auf den unteren Heizwert, aufgeschlüsselt in die folgenden Brennstoffkategorien: a)Steinkohle,b)Braunkohle,c)Biobrennstoffe,d)Torf,e)andere feste Brennstoffe mit genauer Angabe der Bezeichnung des festen Brennstoffs,f)flüssige Brennstoffe,g)Erdgas,h)sonstige Gase mit genauer Angabe der Bezeichnung des Gases,i)die jeweils mitverbrannten Abfälle mit genauer Angabe der Bezeichnung jeder mitverbrannten Abfallart, Steinkohle, Braunkohle, Biobrennstoffe, Torf, andere feste Brennstoffe mit genauer Angabe der Bezeichnung des festen Brennstoffs, flüssige Brennstoffe, Erdgas, sonstige Gase mit genauer Angabe der Bezeichnung des Gases, die jeweils mitverbrannten Abfälle mit genauer Angabe der Bezeichnung jeder mitverbrannten Abfallart,
 
-a)
+8. den Schwefelgehalt von Brennstoffen bei Feuerungsanlagen, die schwefelreiche einheimische feste Brennstoffe einsetzen, und den erzielten Schwefelabscheidegrad, gemittelt über jeden Monat; zusätzlich den erzielten Jahresmittelwert des Entschwefelungsgrades der Rauchgasentschwefelungseinrichtung bei Feuerungsanlagen, auf die Nummer 3.3 der Anlage 3 auch im Hinblick auf den Entschwefelungsgrad der Rauchgasentschwefelungseinrichtung anzuwenden ist, und im ersten Jahr der Anwendung von Nummer 3.3 der Anlage 3 auch die technische Begründung dafür, warum die Einhaltung der sich aus Nummer 3.1 der Anlage 3 ergebenden Regelemissionsgrenzwerte nicht durchführbar ist,
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-8.
-
-9.
+9. für Feuerungsanlagen, die im gleitenden Durchschnitt über einen Zeitraum von fünf Jahren nicht mehr als 1 500 Stunden pro Jahr in Betrieb sind, die Zahl der Betriebsstunden pro Jahr für das Berichtsjahr und die vorangegangenen vier Kalenderjahre.
 
 (2) Die nach Landesrecht zuständigen obersten Landesbehörden oder die von ihnen bestimmten Behörden prüfen den Bericht nach Absatz 1 auf Plausibilität und leiten diesen dem Umweltbundesamt bis zum 31. Oktober des auf das Berichtsjahr folgenden Jahres auf elektronischem Weg zur Erfüllung internationaler Berichtspflichten zu. Das Umweltbundesamt hat die Berichte zu Aufstellungen für jedes einzelne Berichtsjahr und Dreijahreszeiträume zusammenzustellen, wobei die Angaben zu Feuerungsanlagen in Raffinerien gesondert aufzuführen sind.
 
@@ -596,13 +506,13 @@ i)
 
 ### § 23 — Veröffentlichungspflichten
 
-(1) Der Betreiber einer Abfallverbrennungs- oder -mitverbrennungsanlage hat nach erstmaliger Kalibrierung der Messeinrichtungen und danach einmal jährlich Folgendes zu veröffentlichen: Satz 1 gilt nicht für solche Angaben, aus denen Rückschlüsse auf Betriebs- oder Geschäftsgeheimnisse gezogen werden können. Die zuständige Behörde legt Art und Form der Veröffentlichung fest.
+(1) Der Betreiber einer Abfallverbrennungs- oder -mitverbrennungsanlage hat nach erstmaliger Kalibrierung der Messeinrichtungen und danach einmal jährlich Folgendes zu veröffentlichen:
 
-1.
+1. die Ergebnisse der Emissionsmessungen,
 
-2.
+2. einen Vergleich der Ergebnisse der Emissionsmessungen mit den Emissionsgrenzwerten und
 
-3.
+3. eine Beurteilung der Verbrennungsbedingungen.
 
 (2) Die nach Landesrecht zuständigen obersten Landesbehörden oder die von ihnen bestimmten Behörden haben eine Liste von Abfallverbrennungs- und -mitverbrennungsanlagen mit einer Nennkapazität von weniger als zwei Tonnen pro Stunde zu erstellen und die Liste der Öffentlichkeit zugänglich zu machen. Zur Erfüllung der Berichtspflicht an die Europäische Kommission haben die nach Landesrecht zuständigen obersten Landesbehörden oder die von ihnen bestimmten Behörden dem Umweltbundesamt diese Liste in geeigneter elektronischer Form zu übermitteln. Das Umweltbundesamt darf Vorgaben zum Format der zu übermittelnden Daten machen.
 
@@ -610,27 +520,21 @@ i)
 
 (1) Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen von Vorschriften dieser Verordnung zulassen, soweit unter Berücksichtigung der besonderen Umstände des Einzelfalls
 
-1.
+1. einzelne Anforderungen der Verordnung nicht oder nur mit unverhältnismäßigem Aufwand erfüllbar sind,
 
-2.
+2. im Übrigen die dem Stand der Technik entsprechenden Maßnahmen zur Emissionsbegrenzung angewandt werden,
 
-3.
+3. die Ableitungshöhe nach der Technischen Anleitung zur Reinhaltung der Luft auch für den als Ausnahme zugelassenen Emissionsgrenzwert ausgelegt ist, es sei denn, auch insoweit liegen die Voraussetzungen der Nummer 1 vor, und
 
-4.
-
-a)
-
-b)
-
-c)
+4. die Anforderungen folgender Richtlinien eingehalten werden: a)Richtlinie 2008/98/EG des Europäischen Parlaments und des Rates vom 19. November 2008 über Abfälle und zur Aufhebung bestimmter Richtlinien (ABl. L 312 vom 22.11.2008, S. 3, L 127 vom 26.5.2009, S. 24) (Abfallrahmenrichtlinie),b)Richtlinie 96/59/EG des Rates vom 16. September 1996 über die Beseitigung polychlorierter Biphenyle und polychlorierter Terphenyle (PCB/PCT) (ABl. L 243 vom 24.9.1996, S. 31), die durch die Verordnung (EG) Nr. 596/2009 (ABl. L 188 vom 18.7.2009, S. 14) geändert worden ist, undc)Richtlinie 2010/75/EU des Europäischen Parlaments und des Rates vom 24. November 2010 über Industrieemissionen (integrierte Vermeidung und Verminderung der Umweltverschmutzung) (Neufassung) (ABl. L 334 vom 17.12.2010, S. 17). Richtlinie 2008/98/EG des Europäischen Parlaments und des Rates vom 19. November 2008 über Abfälle und zur Aufhebung bestimmter Richtlinien (ABl. L 312 vom 22.11.2008, S. 3, L 127 vom 26.5.2009, S. 24) (Abfallrahmenrichtlinie), Richtlinie 96/59/EG des Rates vom 16. September 1996 über die Beseitigung polychlorierter Biphenyle und polychlorierter Terphenyle (PCB/PCT) (ABl. L 243 vom 24.9.1996, S. 31), die durch die Verordnung (EG) Nr. 596/2009 (ABl. L 188 vom 18.7.2009, S. 14) geändert worden ist, und Richtlinie 2010/75/EU des Europäischen Parlaments und des Rates vom 24. November 2010 über Industrieemissionen (integrierte Vermeidung und Verminderung der Umweltverschmutzung) (Neufassung) (ABl. L 334 vom 17.12.2010, S. 17).
 
 (2) Abweichend von § 4 Absatz 2 kann die zuständige Behörde Abfallverbrennungsanlagen ohne Abfallbunker oder eine zum Teil offene Bunkerbauweise in Verbindung mit einer gezielten Luftabsaugung zulassen, wenn durch bauliche oder betriebliche Maßnahmen oder auf Grund der Beschaffenheit der Abfälle oder Stoffe nach § 1 Absatz 1 die Entstehung von Staub- und Geruchsemissionen so gering wie möglich gehalten wird.
 
-(3) Ausnahmeanträge, die nach der Beurteilung durch die zuständige Behörde zu erheblichen Änderungen der Betriebsbedingungen oder der Auswirkungen der Anlage auf die Umwelt führen können, sind entsprechend der Anforderungen von § 10 Absatz 3 und 4 Nummer 1 und 2 sowie § 19 Absatz 2 des Bundes-Immissionsschutzgesetzes öffentlich bekannt zu machen. § 10 Absatz 2 Satz 1 des Bundes-Immissionsschutzgesetzes gilt entsprechend. Einwendungsbefugt sind Gründe für die Zulassung von Ausnahmen und damit verbundener Auflagen sind im Genehmigungsbescheid oder im Zulassungsbescheid zu dokumentieren. Gründe für die Zulassung von Ausnahmen und damit verbundener Auflagen sind der Öffentlichkeit zugänglich zu machen.
+(3) Ausnahmeanträge, die nach der Beurteilung durch die zuständige Behörde zu erheblichen Änderungen der Betriebsbedingungen oder der Auswirkungen der Anlage auf die Umwelt führen können, sind entsprechend der Anforderungen von § 10 Absatz 3 und 4 Nummer 1 und 2 sowie § 19 Absatz 2 des Bundes-Immissionsschutzgesetzes öffentlich bekannt zu machen. § 10 Absatz 2 Satz 1 des Bundes-Immissionsschutzgesetzes gilt entsprechend. Einwendungsbefugt sind
 
-1.
+1. Personen, deren Belange durch die Ausnahme berührt werden, sowie
 
-2.
+2. Vereinigungen, welche die Anforderungen von § 3 Absatz 1 oder § 2 Absatz 2 des Umwelt-Rechtsbehelfsgesetzes erfüllen.
 
 (4) Soweit in Übereinstimmung mit der Richtlinie 2010/75/EU Ausnahmen zugelassen werden, die zu einer Berichtspflicht an die Europäische Kommission führen, hat die zuständige Behörde unverzüglich eine Ausfertigung der Ausnahmegenehmigung nach Absatz 1 dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz zur Weiterleitung an die Europäische Kommission zuzuleiten.
 
@@ -656,59 +560,59 @@ c)
 
 (1) Ordnungswidrig im Sinne des § 62 Absatz 1 Nummer 2 des Bundes-Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 3 Absatz 6 Satz 3, § 4 Absatz 2 Satz 1, § 4 Absatz 3 Satz 1, § 4 Absatz 7 Satz 1, § 4 Absatz 8 oder § 16 Absatz 1 Satz 2 eine dort genannte Übergabestelle oder eine dort genannte Anlage nicht, nicht richtig oder nicht rechtzeitig ausrüstet,
 
-2.
+2. entgegen § 4 Absatz 1 Satz 1, § 5 Absatz 1, § 5 Absatz 4, § 6 Absatz 1, 2, 3, 8 oder Absatz 9 Satz 1, § 7 Absatz 1, 2 oder Absatz 3, § 8 Absatz 1 oder § 9 Absatz 1 Satz 1 eine Abfallverbrennungs- oder -mitverbrennungsanlage nicht richtig errichtet oder nicht richtig betreibt,
 
-3.
+3. entgegen § 12 Absatz 2 Satz 1 nicht dafür sorgt, dass dort genannte Abfälle nicht getrennt erfasst werden,
 
-4.
+4. entgegen § 12 Absatz 4 Satz 3 nicht dafür sorgt, dass dort genannter Abfall in geschlossenen Behältnissen befördert oder zwischengelagert wird,
 
-5.
+5. entgegen § 13 Absatz 1 Satz 2 Strom nicht erzeugt,
 
-6.
+6. entgegen § 14 einen Messplatz nicht oder nicht richtig einrichtet,
 
-7.
+7. entgegen § 15 Absatz 1 Satz 1 nicht sicherstellt, dass ein dort genanntes Messverfahren angewendet oder eine dort genannte Messeinrichtung verwendet wird,
 
-8.
+8. entgegen § 15 Absatz 2 Satz 1 nicht sicherstellt, dass eine Probenahme oder Analyse oder die Qualitätssicherung nach den dort genannten Normen durchgeführt werden,
 
-9.
+9. entgegen § 15 Absatz 3 einen dort genannten Nachweis nicht oder nicht rechtzeitig vorlegt,
 
-10.
+10. entgegen § 15 Absatz 4 eine Messeinrichtung nicht oder nicht rechtzeitig kalibrieren lässt oder nicht oder nicht rechtzeitig auf Funktionsfähigkeit prüfen lässt,
 
-11.
+11. entgegen § 15 Absatz 6, § 17 Absatz 2 Satz 1, § 19 Absatz 1 Satz 1 oder § 22 Absatz 1 einen Bericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
-12.
+12. entgegen § 16 Absatz 1 Satz 1, § 16 Absatz 5 oder § 20 Absatz 1 Satz 1 eine dort genannte Massenkonzentration der Emissionen, den dort genannten Volumengehalt an Sauerstoff, eine dort genannte Temperatur oder eine dort genannte Betriebsgröße nicht, nicht richtig oder nicht rechtzeitig ermittelt, nicht, nicht richtig oder nicht rechtzeitig registriert, nicht, nicht richtig oder nicht rechtzeitig auswertet, oder nicht, nicht richtig oder nicht rechtzeitig dokumentiert,
 
-13.
+13. entgegen § 16 Absatz 3 Satz 2 oder Satz 3 einen Nachweis nicht, nicht richtig oder nicht vollständig führt, nicht oder nicht rechtzeitig vorlegt oder nicht oder nicht mindestens fünf Jahre aufbewahrt,
 
-14.
+14. (weggefallen)
 
-15.
+15. entgegen § 17 Absatz 1 Satz 2 einen Messwert für andere als die dort genannten Zeiten umrechnet,
 
-16.
+16. entgegen § 17 Absatz 2 Satz 2 einen Bericht oder eine dort genannte Aufzeichnung nicht oder nicht mindestens fünf Jahre aufbewahrt,
 
-17.
+17. entgegen § 18 Absatz 1 eine dort genannte Verbrennungsbedingung nicht oder nicht rechtzeitig überprüfen lässt,
 
-18.
+18. entgegen § 18 Absatz 2 eine dort genannte Messung nicht, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig durchführen lässt,
 
-19.
+19. entgegen § 21 Absatz 1 Satz 1 eine Mitteilung nicht, nicht richtig oder nicht rechtzeitig macht,
 
-20.
+20. entgegen § 23 Absatz 1 Satz 1 eine Veröffentlichung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
 (2) Ordnungswidrig im Sinne des § 62 Absatz 1 Nummer 7 des Bundes-Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.
+1. entgegen § 10 Absatz 1 oder Absatz 2 eine Anlage nicht richtig errichtet oder nicht richtig betreibt, oder
 
-2.
+2. entgegen § 17 Absatz 4 Satz 2 oder Satz 3 einen Nachweis nicht, nicht richtig oder nicht vollständig führt, nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt oder nicht oder nicht mindestens fünf Jahre aufbewahrt.
 
 ### § 28 — Übergangsregelungen
 
-(1) Für bestehende Anlagen, ausgenommen bestehende abfallmitverbrennende Großfeuerungsanlagen und bestehende abfallmitverbrennende Feuerungsanlagen, gelten die Anforderungen dieser Verordnung ab dem 4. Dezember 2023. Bis zu dem in Satz 1 genannten Datum gelten die Anforderungen der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen in der bis zum 16. Februar 2024 geltenden Fassung. Abweichend von Satz 1 gelten ab dem 4. Dezember 2025. Satz 2 gilt entsprechend. Abweichend von den Sätzen 1 und 3 gelten die Anforderungen des § 10 Absatz 1 für bestehende Anlagen mit einer Feuerungswärmeleistung von 50 Megawatt oder weniger ab dem 4. Dezember 2028. Satz 2 gilt entsprechend.
+(1) Für bestehende Anlagen, ausgenommen bestehende abfallmitverbrennende Großfeuerungsanlagen und bestehende abfallmitverbrennende Feuerungsanlagen, gelten die Anforderungen dieser Verordnung ab dem 4. Dezember 2023. Bis zu dem in Satz 1 genannten Datum gelten die Anforderungen der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen in der bis zum 16. Februar 2024 geltenden Fassung. Abweichend von Satz 1 gelten
 
-1.
+1. die Anforderungen dieser Verordnung für bestehende Anlagen, die in Anhang 1 der Verordnung über genehmigungsbedürftige Anlagen in Spalte d nicht mit dem Buchstaben E gekennzeichnete sind, und
 
-2.
+2. die Anforderungen aus § 3 Absatz 1 Satz 2, § 4 Absatz 1 Satz 5, § 10 Absatz 1 und § 13 Absatz 3 für bestehende Anlagen
 
 (2) Für bestehende abfallmitverbrennende Großfeuerungsanlagen gelten die Anforderungen dieser Verordnung ab dem 18. August 2021. Bis dahin gelten die Anforderungen der Verordnung über die Verbrennung und Mitverbrennung von Abfällen in der Fassung vom 2. Mai 2013. Abweichend von Satz 1 ist für Anlagen in Verbindung mit § 17 Absatz 5 die Einhaltung von jahresbezogenen Emissionsgrenzwerten erstmalig ab dem Kalenderjahr nachzuweisen, das auf den in Satz 1 festgelegten Stichtag folgt.
 
@@ -726,221 +630,61 @@ c)
 
 Für die in den Buchstaben a bis d genannten Schwermetalle und krebserzeugenden Stoffe gelten folgende Emissionsgrenzwerte:
 
-a)
+a) Cadmium und seine Verbindungen, angegeben als Cadmium, Thallium und seine Verbindungen, angegeben als Thallium,,aa)in kohlegefeuerten abfallmitverbrennenden Großfeuerungsanlagen mit einer Feuerungswärmeleistung von aaa)50 MW bis wenigerinsgesamtals 300 MW:0,012 mg/m³,bbb)300 MW oder mehr:insgesamt0,006 mg/m³,bb)in mit Biobrennstoffen gefeuertenabfallmitverbrennendenGroßfeuerungsanlagen:insgesamt0,005 mg/m³,cc)in Anlagen nach Anlage 3 Nummer 2:insgesamt0,05 mg/m³,dd)in allen anderen Verbrennungs- und Mitverbrennungsanlagen:insgesamt0,02 mg/m³, in kohlegefeuerten abfallmitverbrennenden Großfeuerungsanlagen mit einer Feuerungswärmeleistung von aaa)50 MW bis wenigerinsgesamtals 300 MW:0,012 mg/m³,bbb)300 MW oder mehr:insgesamt0,006 mg/m³, 50 MW bis wenigerinsgesamtals 300 MW:0,012 mg/m³, 300 MW oder mehr:insgesamt0,006 mg/m³, in mit Biobrennstoffen gefeuertenabfallmitverbrennendenGroßfeuerungsanlagen:insgesamt0,005 mg/m³, in Anlagen nach Anlage 3 Nummer 2:insgesamt0,05 mg/m³, in allen anderen Verbrennungs- und Mitverbrennungsanlagen:insgesamt0,02 mg/m³,
 
-aa)
+b) Antimon und seine Verbindungen, angegeben als Antimon, Arsen und seine Verbindungen, angegeben als Arsen, Blei und seine Verbindungen, angegeben als Blei, Chrom und seine Verbindungen, angegeben als Chrom, Cobalt und seine Verbindungen, angegeben als Cobalt, Kupfer und seine Verbindungen, angegeben als Kupfer, Mangan und seine Verbindungen, angegeben als Mangan, Nickel und seine Verbindungen, angegeben als Nickel, Vanadium und seine Verbindungen, angegeben als Vanadium, Zinn und seine Verbindungen, angegeben als Zinn,aa)in kohlegefeuerten abfallmit-verbrennenden Großfeue-rungsanlagen mit einerFeuerungswärmeleistungvon 300 MW oder mehr:insgesamt0,2 mg/m³,bb)in mit Biobrennstoffen gefeuerten abfallmitverbrennendenGroßfeuerungsanlagen:insgesamt0,3 mg/m³,cc)in Anlagen nach Anlage 3 Nummer 2:insgesamt0,5 mg/m³,dd)in allen anderen Verbrennungs- und Mitverbrennungsanlagen:insgesamt0,3 mg/m³, in kohlegefeuerten abfallmit-verbrennenden Großfeue-rungsanlagen mit einerFeuerungswärmeleistungvon 300 MW oder mehr:insgesamt0,2 mg/m³, in mit Biobrennstoffen gefeuerten abfallmitverbrennendenGroßfeuerungsanlagen:insgesamt0,3 mg/m³, in Anlagen nach Anlage 3 Nummer 2:insgesamt0,5 mg/m³, in allen anderen Verbrennungs- und Mitverbrennungsanlagen:insgesamt0,3 mg/m³,
 
-aaa)
+c) Arsen und seine Verbindungen (außer Arsenwasserstoff),angegeben als Arsen, Benzo(a)pyren, Cadmium und seine Verbindungen, angegeben als Cadmium, wasserlösliche Cobaltverbindungen, angegeben als Cobalt, Chrom(VI)verbindungen (außer Bariumchromat und Bleichromat), angegeben als Chrominsgesamt 0,05 mg/m3oder Arsen und seine Verbindungen, angegeben als Arsen, Benzo(a)pyren, Cadmium und seine Verbindungen, angegeben als Cadmium, Cobalt und seine Verbindungen, angegeben als Cobalt, Chrom und seine Verbindungen, angegeben als Chrom,insgesamt 0,05 mg/m3 und
 
-bbb)
+d) Dioxine, Furane und polychlorierte Biphenyle gemäß Anlage 2aa)in abfallmitverbrennendenGroßfeuerungsanlagen:insgesamt0,03 ng/m³,bb)in Anlagen nach Anlage 3 Nummer 2:insgesamt0,1 ng/m³,cc)in allen bestehenden Verbrennungs- und Mitverbrennungsanlagen, die keine abfallmitverbrennenden Großfeuerungsanlagen oder Anlagen nach Anlage 3 Nummer 2 sind:insgesamt0,08 ng/m³,dd)in allen anderen Verbrennungs- und Mitverbrennungsanlagen:insgesamt0,06 ng/m³, in abfallmitverbrennendenGroßfeuerungsanlagen:insgesamt0,03 ng/m³, in Anlagen nach Anlage 3 Nummer 2:insgesamt0,1 ng/m³, in allen bestehenden Verbrennungs- und Mitverbrennungsanlagen, die keine abfallmitverbrennenden Großfeuerungsanlagen oder Anlagen nach Anlage 3 Nummer 2 sind:insgesamt0,08 ng/m³, in allen anderen Verbrennungs- und Mitverbrennungsanlagen:insgesamt0,06 ng/m³,
 
-bb)
-
-cc)
-
-dd)
-
-b)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-c)
-
-d)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-e)
-
-aa)
-
-bb)
+e) Dioxine, Furane und polychlorierte Biphenyle gemäß Anlage 2 aa)in bestehenden Abfallverbrennungsanlagen:insgesamt0,1 ng/m³,bb)in anderen Abfallverbrennungsanlagen:insgesamt0,08 ng/m³. in bestehenden Abfallverbrennungsanlagen:insgesamt0,1 ng/m³, in anderen Abfallverbrennungsanlagen:insgesamt0,08 ng/m³.
 
 ### Anlage 2 — (zu Anlage 1 Buchstabe d und e)
-
-Für den nach Anlage 1 zu bildenden Summenwert für polychlorierte Dibenzodioxine, Dibenzofurane und dl-PCB sind die im Abgas ermittelten Konzentrationen der nachstehend genannten Dioxine, Furane und dl-PCB mit den angegebenen Äquivalenzfaktoren zu multiplizieren und zu summieren.
 
 ### Anlage 2a — (zu § 18 Absatz 3)
 
 Für die nach § 18 Absatz 3 zu ermittelnden polybromierten Dibenzodioxine und ‑furane sind die Konzentrationen der nachstehend genannten Dioxine und Furane im Abgas zu ermitteln.
 
-Polybromierte Dibenzodioxine (PBDD)
-
-Polybromierte Dibenzofurane (PBDF)
-
 ### Anlage 3 — (zu § 9, § 10 Absatz 2, § 16 Absatz 1 und 4, § 17 Absatz 1 und 5, § 18 Absatz 2, § 19 Absatz 2, § 21 Absatz 3 und § 22 Absatz 1)
 
 Die Anlage 3 dient der Festlegung von Emissionsgrenzwerten für Abfallmitverbrennungsanlagen. Wenn in dieser Anlage für bestimmte Emissionsparameter ein fester Emissionsgrenzwert oder ein fester Bezugssauerstoffgehalt bereits vorgegeben wird, ersetzt dieser Emissionsgrenzwert oder Bezugssauerstoffgehalt die rechnerische Ermittlung des Emissionsgrenzwerts oder des Bezugssauerstoffgehalts für diesen Emissionsparameter. Die in dieser Anlage vorgegebenen festen Emissionsgrenzwerte gelten für die jeweiligen Abfallmitverbrennungsanlagen unter Berücksichtigung der dort genannten Ausnahmen.
 
-V
+1. Rechnerische Festlegung der Emissionsgrenzwerte für die Mitverbrennung von Abfällen Soweit in dieser Anlage keine festen Emissionsgrenzwerte oder feste Bezugssauerstoffgehalte vorgegeben sind, ist die folgende Formel (Mischungsregel) anzuwenden. Die Mischungsregel ist zur Berechnung der Emissionsgrenzwerte für jeden unter § 8 Absatz 1 geregelten Emissionsparameter sowie zur Berechnung des Bezugssauerstoffgehalts anzuwenden. Emissionsparameter im Sinne dieser Anlage sind die in § 8 Absatz 1 aufgeführten Schadstoffe, für die Jahresmittelwerte, Tagesmittelwerte, Halbstundenmittelwerte oder Mittelwerte über die jeweilige Probenahmezeit festgelegt sind.VAbfall:Abgasstrom, der bei der Verbrennung des höchstzulässigen Anteils der Abfälle oder Stoffe nach § 1 Absatz 1 einschließlich des für die Verbrennung dieser Stoffe zusätzlich benötigten Brennstoffs entsteht. Beträgt der zulässige Anteil der Abfälle oder Stoffe nach § 1 Absatz 1 weniger als 10 Prozent an der unverändert zugrunde gelegten Gesamtfeuerungswärmeleistung einer Mitverbrennungsanlage, so ist der zugehörige Abgasstrom anhand einer angenommenen Menge von 10 Prozent dieser Abfälle oder Stoffe nach § 1 Absatz 1 zu berechnen.VVerfahren:Verbleibender Teil des normierten Abgasstroms.CAbfall:Emissionsgrenzwert für die in § 8 Absatz 1 aufgeführten Emissionsparameter oder Bezugssauerstoffgehalt für die in § 8 Absatz 5 festgelegten Bezugssauerstoffgehalte.CVerfahren:Emissionswert und Bezugssauerstoffgehalt gemäß den Tabellen in diesem Anhang. Für alle anderen Emissionsparameter, für die in diesem Anhang keine festen Emissionsgrenzwerte oder festen Bezugssauerstoffgehalte vorgegeben werden, gelten die nach den einschlägigen Vorschriften – wie 13. BImSchV oder TA Luft – bei der Verbrennung der üblicherweise zugelassenen Brennstoffe festgelegten Emissionswerte bzw. Bezugssauerstoffgehalte. Bestehen solche Vorgaben nicht, so sind die in der Genehmigung festgelegten Emissionsbegrenzungen bzw. Bezugssauerstoffgehalte zu verwenden. Fehlen derartige Festlegungen, sind die tatsächlichen Emissionen oder Sauerstoffgehalte beim Betrieb der Anlage ohne Einsatz von Abfällen oder Stoffen nach § 1 Absatz 1 zugrunde zu legen.C:Berechneter Emissionsgrenzwert oder berechneter Bezugssauerstoffgehalt für Mitverbrennungsanlagen, der sich aus der Anwendung der oben aufgeführten Formel ergibt. Abgasstrom, der bei der Verbrennung des höchstzulässigen Anteils der Abfälle oder Stoffe nach § 1 Absatz 1 einschließlich des für die Verbrennung dieser Stoffe zusätzlich benötigten Brennstoffs entsteht. Beträgt der zulässige Anteil der Abfälle oder Stoffe nach § 1 Absatz 1 weniger als 10 Prozent an der unverändert zugrunde gelegten Gesamtfeuerungswärmeleistung einer Mitverbrennungsanlage, so ist der zugehörige Abgasstrom anhand einer angenommenen Menge von 10 Prozent dieser Abfälle oder Stoffe nach § 1 Absatz 1 zu berechnen. Verbleibender Teil des normierten Abgasstroms. Emissionsgrenzwert für die in § 8 Absatz 1 aufgeführten Emissionsparameter oder Bezugssauerstoffgehalt für die in § 8 Absatz 5 festgelegten Bezugssauerstoffgehalte. Emissionswert und Bezugssauerstoffgehalt gemäß den Tabellen in diesem Anhang. Für alle anderen Emissionsparameter, für die in diesem Anhang keine festen Emissionsgrenzwerte oder festen Bezugssauerstoffgehalte vorgegeben werden, gelten die nach den einschlägigen Vorschriften – wie 13. BImSchV oder TA Luft – bei der Verbrennung der üblicherweise zugelassenen Brennstoffe festgelegten Emissionswerte bzw. Bezugssauerstoffgehalte. Bestehen solche Vorgaben nicht, so sind die in der Genehmigung festgelegten Emissionsbegrenzungen bzw. Bezugssauerstoffgehalte zu verwenden. Fehlen derartige Festlegungen, sind die tatsächlichen Emissionen oder Sauerstoffgehalte beim Betrieb der Anlage ohne Einsatz von Abfällen oder Stoffen nach § 1 Absatz 1 zugrunde zu legen. Berechneter Emissionsgrenzwert oder berechneter Bezugssauerstoffgehalt für Mitverbrennungsanlagen, der sich aus der Anwendung der oben aufgeführten Formel ergibt.
 
-V
+2. Anlagen zur Herstellung von Zementklinker oder Zementen sowie Anlagen zum Brennen von Kalk, in denen Abfälle oder Stoffe nach § 1 Absatz 1 mitverbrannt werden Die Emissionen sind zur Überprüfung, ob die Emissionsgrenzwerte eingehalten werden, auf einen festen Bezugssauerstoffgehalt von 10 Prozent zu beziehen. Die in § 8 Absatz 1 Nummer 3 festgelegten Emissionsgrenzwerte für die zu Gruppen zusammengefassten Schadstoffe (Schwermetalle, Benzo(a)pyren, polychlorierte Dibenzodioxine und Dibenzofurane) gelten unter Berücksichtigung des in Satz 1 festgelegten Bezugssauerstoffgehalts.2.1Feste Emissionsgrenzwerte (Tagesmittelwerte in mg/m3)EmissionsparameterCa)Gesamtstaub 10b)gasförmige anorganische Chlorverbindungen, angegeben als Chlorwasserstoff 10c)gasförmige anorganische Fluorverbindungen, angegeben als Fluorwasserstoff 1d)Stickstoffmonoxid und Stickstoffdioxid, angegeben als Stickstoffdioxid inaa) Anlagen zur Herstellung von Zementklinkern und Zement200bb) Anlagen zum Brennen von Kalk350e)Schwefeldioxid und Schwefeltrioxid, angegeben als Schwefeldioxid 50f)organische Stoffe, angegeben als Gesamtkohlenstoff 10g)Quecksilber und seine Verbindungen, angegeben als Quecksilber 0,03h)Ammoniak, sofern zur Minderung der Emissionen von Stickstoffoxiden ein Verfahren zur selektiven katalytischen oder nichtkatalytischen Reduktion eingesetzt wird302.1.1Bei wesentlichen Änderungen dieser Anlagen bis zum 31. Dezember 2018 ist zu prüfen, ob die Anforderungen zur Begrenzung von Stickstoffmonoxid und Stickstoffdioxid für Neuanlagen unter verhältnismäßigem Aufwand eingehalten werden können. Die Möglichkeiten, die Emissionen an Stickstoffmonoxid und Stickstoffdioxid aus dem Abgas in Anlagen durch feuerungstechnische oder andere dem Stand der Technik entsprechende Maßnahmen weiter zu vermindern, sind auszuschöpfen.2.1.2Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen für Schwefeldioxid und Gesamtkohlenstoff genehmigen, sofern diese Ausnahmen auf Grund der Zusammensetzung der natürlichen Rohstoffe erforderlich sind und ausgeschlossen werden kann, dass durch den Einsatz von Abfällen oder Stoffen nach § 1 Absatz 1 zusätzliche Emissionen an Gesamtkohlenstoff und Schwefeldioxid entstehen.2.1.3Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen für Quecksilber und seine Verbindungen genehmigen, sofern diese Ausnahmen auf Grund der Zusammensetzung der natürlichen Rohstoffe erforderlich sind und ausgeschlossen werden kann, dass durch den Einsatz von Abfällen und Stoffen nach § 1 Absatz 1 zusätzliche Emissionen an Quecksilber entstehen und ein Tagesmittelwert von bis zu 0,05 mg/m3 nicht überschritten wird. Die Möglichkeiten, die Emissionen an Quecksilber und seinen Verbindungen, angegeben als Quecksilber, aus dem Abgas durch feuerungstechnische oder andere dem Stand der Technik entsprechende Maßnahmen weiter zu vermindern, sind auszuschöpfen.2.1.4Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen für Ammoniak genehmigen, sofern diese Ausnahmen auf Grund der Zusammensetzung der natürlichen Rohstoffe erforderlich sind und ausgeschlossen werden kann, dass durch den Einsatz von Abfällen oder Stoffen nach § 1 Absatz 1 zusätzliche Emissionen an Ammoniak entstehen. In diesem Fall sind dem Ammoniakgrenzwert die durch Vergleichsmessungen zu ermittelnden rohstoffbedingten Ammoniakemissionen hinzuzurechnen; die aus Abfällen resultierenden Emissionen bleiben dabei unberücksichtigt.2.2Feste Emissionsgrenzwerte (Halbstundenmittelwerte in mg/m3)EmissionsparameterCa)Gesamtstaub 30b)gasförmige anorganische Chlorverbindungen, angegeben als Chlorwasserstoff 60c)gasförmige anorganische Fluorverbindungen, angegeben als Fluorwasserstoff 4d)Schwefeldioxid und Schwefeltrioxid, angegeben als Schwefeldioxid200e)Quecksilber und seine Verbindungen, angegeben als Quecksilber 0,052.2.1Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen für Schwefeldioxid und Gesamtkohlenstoff genehmigen, sofern diese Ausnahmen auf Grund der Zusammensetzung der natürlichen Rohstoffe erforderlich sind und ausgeschlossen werden kann, dass durch die Verbrennung von Abfällen oder Stoffen nach § 1 Absatz 1 zusätzliche Emissionen an Gesamtkohlenstoff und Schwefeldioxid entstehen.2.2.2Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen für Quecksilber und seine Verbindungen genehmigen, sofern diese Ausnahmen auf Grund der Zusammensetzung der natürlichen Rohstoffe erforderlich sind und ausgeschlossen werden kann, dass durch den Einsatz von Abfällen und Stoffen nach § 1 Absatz 1 zusätzliche Emissionen an Quecksilber entstehen und ein Halbstundenmittelwert von bis zu 0,1 mg/m3 nicht überschritten wird. Die Möglichkeiten, die Emissionen an Quecksilber und seinen Verbindungen, angegeben als Quecksilber, aus dem Abgas durch feuerungstechnische oder andere dem Stand der Technik entsprechende Maßnahmen weiter zu vermindern, sind auszuschöpfen.2.3Feste Emissionsgrenzwerte (Jahresmittelwerte in mg/m3)EmissionsparameterCStickstoffmonoxid und Stickstoffdioxid, angegeben als Stickstoffdioxid200Abweichend von dem Emissionsgrenzwert für Stickstoffmonoxid und Stickstoffdioxid, angegeben als Stickstoffdioxid, gilt für Anlagen zum Brennen von Kalk in Drehrohröfen mit Rostvorwärmer ein Emissionsgrenzwert von 350 mg/m3.2.4Emissionsgrenzwert für Kohlenmonoxid2.4.1Die zuständige Behörde hat einen Emissionsgrenzwert für Kohlenmonoxid unter Berücksichtigung der Anforderungen nach § 8 Absatz 1 festzulegen.2.4.2Die zuständige Behörde kann auf Antrag des Betreibers von dem in § 8 Absatz 1 für Kohlenmonoxid festgelegten Emissionsgrenzwert abweichen, sofern diese Ausnahmen auf Grund der Zusammensetzung der natürlichen Rohstoffe erforderlich sind und ausgeschlossen werden kann, dass durch den Einsatz von Abfällen oder sonstigen Stoffen nach § 1 Absatz 1 zusätzliche Emissionen an Kohlenmonoxid entstehen. Feste Emissionsgrenzwerte (Tagesmittelwerte in mg/m3)EmissionsparameterCa)Gesamtstaub 10b)gasförmige anorganische Chlorverbindungen, angegeben als Chlorwasserstoff 10c)gasförmige anorganische Fluorverbindungen, angegeben als Fluorwasserstoff 1d)Stickstoffmonoxid und Stickstoffdioxid, angegeben als Stickstoffdioxid inaa) Anlagen zur Herstellung von Zementklinkern und Zement200bb) Anlagen zum Brennen von Kalk350e)Schwefeldioxid und Schwefeltrioxid, angegeben als Schwefeldioxid 50f)organische Stoffe, angegeben als Gesamtkohlenstoff 10g)Quecksilber und seine Verbindungen, angegeben als Quecksilber 0,03h)Ammoniak, sofern zur Minderung der Emissionen von Stickstoffoxiden ein Verfahren zur selektiven katalytischen oder nichtkatalytischen Reduktion eingesetzt wird30 2.1.1Bei wesentlichen Änderungen dieser Anlagen bis zum 31. Dezember 2018 ist zu prüfen, ob die Anforderungen zur Begrenzung von Stickstoffmonoxid und Stickstoffdioxid für Neuanlagen unter verhältnismäßigem Aufwand eingehalten werden können. Die Möglichkeiten, die Emissionen an Stickstoffmonoxid und Stickstoffdioxid aus dem Abgas in Anlagen durch feuerungstechnische oder andere dem Stand der Technik entsprechende Maßnahmen weiter zu vermindern, sind auszuschöpfen.2.1.2Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen für Schwefeldioxid und Gesamtkohlenstoff genehmigen, sofern diese Ausnahmen auf Grund der Zusammensetzung der natürlichen Rohstoffe erforderlich sind und ausgeschlossen werden kann, dass durch den Einsatz von Abfällen oder Stoffen nach § 1 Absatz 1 zusätzliche Emissionen an Gesamtkohlenstoff und Schwefeldioxid entstehen.2.1.3Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen für Quecksilber und seine Verbindungen genehmigen, sofern diese Ausnahmen auf Grund der Zusammensetzung der natürlichen Rohstoffe erforderlich sind und ausgeschlossen werden kann, dass durch den Einsatz von Abfällen und Stoffen nach § 1 Absatz 1 zusätzliche Emissionen an Quecksilber entstehen und ein Tagesmittelwert von bis zu 0,05 mg/m3 nicht überschritten wird. Die Möglichkeiten, die Emissionen an Quecksilber und seinen Verbindungen, angegeben als Quecksilber, aus dem Abgas durch feuerungstechnische oder andere dem Stand der Technik entsprechende Maßnahmen weiter zu vermindern, sind auszuschöpfen.2.1.4Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen für Ammoniak genehmigen, sofern diese Ausnahmen auf Grund der Zusammensetzung der natürlichen Rohstoffe erforderlich sind und ausgeschlossen werden kann, dass durch den Einsatz von Abfällen oder Stoffen nach § 1 Absatz 1 zusätzliche Emissionen an Ammoniak entstehen. In diesem Fall sind dem Ammoniakgrenzwert die durch Vergleichsmessungen zu ermittelnden rohstoffbedingten Ammoniakemissionen hinzuzurechnen; die aus Abfällen resultierenden Emissionen bleiben dabei unberücksichtigt. Bei wesentlichen Änderungen dieser Anlagen bis zum 31. Dezember 2018 ist zu prüfen, ob die Anforderungen zur Begrenzung von Stickstoffmonoxid und Stickstoffdioxid für Neuanlagen unter verhältnismäßigem Aufwand eingehalten werden können. Die Möglichkeiten, die Emissionen an Stickstoffmonoxid und Stickstoffdioxid aus dem Abgas in Anlagen durch feuerungstechnische oder andere dem Stand der Technik entsprechende Maßnahmen weiter zu vermindern, sind auszuschöpfen. Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen für Schwefeldioxid und Gesamtkohlenstoff genehmigen, sofern diese Ausnahmen auf Grund der Zusammensetzung der natürlichen Rohstoffe erforderlich sind und ausgeschlossen werden kann, dass durch den Einsatz von Abfällen oder Stoffen nach § 1 Absatz 1 zusätzliche Emissionen an Gesamtkohlenstoff und Schwefeldioxid entstehen. Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen für Quecksilber und seine Verbindungen genehmigen, sofern diese Ausnahmen auf Grund der Zusammensetzung der natürlichen Rohstoffe erforderlich sind und ausgeschlossen werden kann, dass durch den Einsatz von Abfällen und Stoffen nach § 1 Absatz 1 zusätzliche Emissionen an Quecksilber entstehen und ein Tagesmittelwert von bis zu 0,05 mg/m3 nicht überschritten wird. Die Möglichkeiten, die Emissionen an Quecksilber und seinen Verbindungen, angegeben als Quecksilber, aus dem Abgas durch feuerungstechnische oder andere dem Stand der Technik entsprechende Maßnahmen weiter zu vermindern, sind auszuschöpfen. Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen für Ammoniak genehmigen, sofern diese Ausnahmen auf Grund der Zusammensetzung der natürlichen Rohstoffe erforderlich sind und ausgeschlossen werden kann, dass durch den Einsatz von Abfällen oder Stoffen nach § 1 Absatz 1 zusätzliche Emissionen an Ammoniak entstehen. In diesem Fall sind dem Ammoniakgrenzwert die durch Vergleichsmessungen zu ermittelnden rohstoffbedingten Ammoniakemissionen hinzuzurechnen; die aus Abfällen resultierenden Emissionen bleiben dabei unberücksichtigt. Feste Emissionsgrenzwerte (Halbstundenmittelwerte in mg/m3)EmissionsparameterCa)Gesamtstaub 30b)gasförmige anorganische Chlorverbindungen, angegeben als Chlorwasserstoff 60c)gasförmige anorganische Fluorverbindungen, angegeben als Fluorwasserstoff 4d)Schwefeldioxid und Schwefeltrioxid, angegeben als Schwefeldioxid200e)Quecksilber und seine Verbindungen, angegeben als Quecksilber 0,05 2.2.1Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen für Schwefeldioxid und Gesamtkohlenstoff genehmigen, sofern diese Ausnahmen auf Grund der Zusammensetzung der natürlichen Rohstoffe erforderlich sind und ausgeschlossen werden kann, dass durch die Verbrennung von Abfällen oder Stoffen nach § 1 Absatz 1 zusätzliche Emissionen an Gesamtkohlenstoff und Schwefeldioxid entstehen.2.2.2Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen für Quecksilber und seine Verbindungen genehmigen, sofern diese Ausnahmen auf Grund der Zusammensetzung der natürlichen Rohstoffe erforderlich sind und ausgeschlossen werden kann, dass durch den Einsatz von Abfällen und Stoffen nach § 1 Absatz 1 zusätzliche Emissionen an Quecksilber entstehen und ein Halbstundenmittelwert von bis zu 0,1 mg/m3 nicht überschritten wird. Die Möglichkeiten, die Emissionen an Quecksilber und seinen Verbindungen, angegeben als Quecksilber, aus dem Abgas durch feuerungstechnische oder andere dem Stand der Technik entsprechende Maßnahmen weiter zu vermindern, sind auszuschöpfen. Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen für Schwefeldioxid und Gesamtkohlenstoff genehmigen, sofern diese Ausnahmen auf Grund der Zusammensetzung der natürlichen Rohstoffe erforderlich sind und ausgeschlossen werden kann, dass durch die Verbrennung von Abfällen oder Stoffen nach § 1 Absatz 1 zusätzliche Emissionen an Gesamtkohlenstoff und Schwefeldioxid entstehen. Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen für Quecksilber und seine Verbindungen genehmigen, sofern diese Ausnahmen auf Grund der Zusammensetzung der natürlichen Rohstoffe erforderlich sind und ausgeschlossen werden kann, dass durch den Einsatz von Abfällen und Stoffen nach § 1 Absatz 1 zusätzliche Emissionen an Quecksilber entstehen und ein Halbstundenmittelwert von bis zu 0,1 mg/m3 nicht überschritten wird. Die Möglichkeiten, die Emissionen an Quecksilber und seinen Verbindungen, angegeben als Quecksilber, aus dem Abgas durch feuerungstechnische oder andere dem Stand der Technik entsprechende Maßnahmen weiter zu vermindern, sind auszuschöpfen. Feste Emissionsgrenzwerte (Jahresmittelwerte in mg/m3)EmissionsparameterCStickstoffmonoxid und Stickstoffdioxid, angegeben als Stickstoffdioxid200 Abweichend von dem Emissionsgrenzwert für Stickstoffmonoxid und Stickstoffdioxid, angegeben als Stickstoffdioxid, gilt für Anlagen zum Brennen von Kalk in Drehrohröfen mit Rostvorwärmer ein Emissionsgrenzwert von 350 mg/m3. Emissionsgrenzwert für Kohlenmonoxid2.4.1Die zuständige Behörde hat einen Emissionsgrenzwert für Kohlenmonoxid unter Berücksichtigung der Anforderungen nach § 8 Absatz 1 festzulegen.2.4.2Die zuständige Behörde kann auf Antrag des Betreibers von dem in § 8 Absatz 1 für Kohlenmonoxid festgelegten Emissionsgrenzwert abweichen, sofern diese Ausnahmen auf Grund der Zusammensetzung der natürlichen Rohstoffe erforderlich sind und ausgeschlossen werden kann, dass durch den Einsatz von Abfällen oder sonstigen Stoffen nach § 1 Absatz 1 zusätzliche Emissionen an Kohlenmonoxid entstehen. Die zuständige Behörde hat einen Emissionsgrenzwert für Kohlenmonoxid unter Berücksichtigung der Anforderungen nach § 8 Absatz 1 festzulegen. Die zuständige Behörde kann auf Antrag des Betreibers von dem in § 8 Absatz 1 für Kohlenmonoxid festgelegten Emissionsgrenzwert abweichen, sofern diese Ausnahmen auf Grund der Zusammensetzung der natürlichen Rohstoffe erforderlich sind und ausgeschlossen werden kann, dass durch den Einsatz von Abfällen oder sonstigen Stoffen nach § 1 Absatz 1 zusätzliche Emissionen an Kohlenmonoxid entstehen.
 
-C
+3. Feuerungsanlagen, in denen Abfälle oder Stoffe gemäß § 1 Absatz 1 mitverbrannt werden Die Emissionen sind zur Überprüfung, ob die Emissionsgrenzwerte eingehalten werden, auf folgende Bezugssauerstoffgehalte zu beziehen: a)bei der Verwendung von festen fossilen Brennstoffen oder Biobrennstoffen auf einen festen Bezugssauerstoffgehalt von 6 Prozentb)bei der Verwendung von flüssigen oder gasförmigen Brennstoffen auf einen festen Bezugssauerstoffgehalt von 3 Prozent oderc)für Emissionswerte nach Anlage 3 Nummer 3.1 und 3.2 auf den nach Anlage 3 Nummer 1 zu berechnenden Bezugssauerstoffgehalt. bei der Verwendung von festen fossilen Brennstoffen oder Biobrennstoffen auf einen festen Bezugssauerstoffgehalt von 6 Prozent bei der Verwendung von flüssigen oder gasförmigen Brennstoffen auf einen festen Bezugssauerstoffgehalt von 3 Prozent oder für Emissionswerte nach Anlage 3 Nummer 3.1 und 3.2 auf den nach Anlage 3 Nummer 1 zu berechnenden Bezugssauerstoffgehalt. Die in § 8 Absatz 1 Nummer 3 festgelegten Emissionsgrenzwerte für die zu Gruppen zusammengefassten Schadstoffe (Schwermetalle, Benzo(a)pyren, polychlorierte Dibenzodioxine und Dibenzofurane) gelten unter Berücksichtigung der in Satz 1 für die jeweiligen Brennstoffe festgelegten Bezugssauerstoffgehalte.3.1Emissionsgrenzwerte für Schwefeldioxid und Schwefeltrioxid, angegeben als Schwefeldioxid, Stickstoffmonoxid und Stickstoffdioxid, angegeben als Stickstoffdioxid, und Kohlenmonoxid bei Einsatz von festen fossilen Brennstoffen, Biobrennstoffen oder flüssigen Brennstoffen in abfallmitverbrennenden GroßfeuerungsanlagenEs sind im Tagesmittel einzuhaltende Emissionsgrenzwerte gemäß Nummer 1 zu bestimmen. Als Emissionswerte (CVerfahren) sind die nach der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vorgeschriebenen und im Tagesmittel einzuhaltenden Emissionsgrenzwerte einzusetzen. Soweit die Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen zusätzlich im Jahresmittel einzuhaltende Emissionsgrenzwerte vorschreibt, sind zusätzlich im Jahresmittel einzuhaltende Emissionsgrenzwerte gemäß Nummer 1 zu bestimmen. Als Emissionswerte (CVerfahren) sind die nach der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vorgeschriebenen und im Jahresmittel einzuhaltenden Emissionsgrenzwerte einzusetzen. Soweit in dieser Verordnung im Jahresmittel einzuhaltende Emissionsgrenzwerte nicht vorgeschrieben sind, sind als Emissionswerte CAbfall die im Tagesmittel einzuhaltenden Emissionsgrenzwerte einzusetzen.3.2Emissionsgrenzwerte für Schwefeldioxid und Schwefeltrioxid, angegeben als Schwefeldioxid, Stickstoffmonoxid und Stickstoffdioxid, angegeben als Stickstoffdioxid, und Kohlenmonoxid bei Einsatz von festen fossilen Brennstoffen, Biobrennstoffen oder flüssigen Brennstoffen in abfallmitverbrennenden FeuerungsanlagenEs sind im Tagesmittel einzuhaltende Emissionsgrenzwerte gemäß Nummer 1 zu bestimmen. Als Emissionswerte (CVerfahren) sind die nach der Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vorgeschriebenen Emissionsgrenzwerte einzusetzen.3.3Abfallmitverbrennende Großfeuerungsanlagen, die feste Brennstoffe, ausgenommen Biobrennstoffe, oder flüssige Brennstoffe einsetzen, unterliegen für den diesen Brennstoffen zugeordneten Teilstrom des Abgasvolumens den jeweiligen Anforderungen der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen an den Schwefelabscheidegrad und an den Entschwefelungsgrad der Rauchgasentschwefelungseinrichtung.3.4Feuerungsanlagen für gasförmige BrennstoffeBeim Einsatz von gasförmigen Stoffen aus der Pyrolyse oder Vergasung von festen oder flüssigen Abfällen in Feuerungsanlagen für gasförmige Brennstoffe hat die zuständige Behörde einen kontinuierlich zu überwachenden Emissionsgrenzwert (Jahresmittelwert, Tagesmittelwert und Halbstundenmittelwert) für SO2 und SO3 sowie für NOX unter Berücksichtigung der spezifischen Brennstoffe gemäß der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen sowie einen entsprechenden Bezugssauerstoffgehalt in der Genehmigung festzusetzen. Für alle weiteren Emissionsparameter kommen die Nummer 3.5 sowie als CVerfahren ein Emissionswert für Kohlenmonoxid als Tagesmittelwert von 80 mg/m3 oder bei Einsatz von Erdgas von 50 mg/m3 jeweils bei einem Bezugssauerstoffgehalt von 3 Prozent zur Anwendung.3.5Feste Emissionsgrenzwerte für Ammoniak, Staub, gasförmige anorganische Chlorverbindungen, angegeben als Chlorwasserstoff, gasförmige anorganische Fluorverbindungen, angegeben als Fluorwasserstoff, Gesamtkohlenstoff und Quecksilber und seine Verbindungen, angegeben als Quecksilber, alle Brennstoffe (Jahresmittelwerte, Tagesmittelwerte) in abfallmitverbrennenden GroßfeuerungsanlagenAls im Tagesmittel einzuhaltende Emissionsgrenzwerte gelten jeweils die nach der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vorgeschriebenen im Tagesmittel einzuhaltenden Emissionsgrenzwerte. Soweit die Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen nach Satz 1 keine kontinuierliche Emissionsüberwachung vorschreibt, gelten die in ihr als Mittelwert über die jeweilige Probenahmezeit festgelegten Emissionsgrenzwerte als Emissionsgrenzwerte, die im Tagesmittel einzuhalten sind. Soweit die Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen zusätzlich im Jahresmittel einzuhaltende Emissionsgrenzwerte vorschreibt, gilt für diese Satz 1 entsprechend. Die Emissionsgrenzwerte für organische Stoffe, angegeben als Gesamtkohlenstoff, werden unabhängig von der Verordnung nach Satz 1 fest vorgeschrieben und betragen 5 mg/m³ für den Jahresmittelwert und 10 mg/m³ für den Tagesmittelwert.3.6Feste Emissionsgrenzwerte für Ammoniak, Staub, gasförmige anorganische Chlorverbindungen, angegeben als Chlorwasserstoff, gasförmige anorganische Fluorverbindungen, angegeben als Fluorwasserstoff, Gesamtkohlenstoff und Quecksilber und seine Verbindungen, angegeben als Quecksilber, alle Brennstoffe (Tagesmittelwerte) in abfallmitverbrennenden FeuerungsanlagenAls im Tagesmittel einzuhaltende Emissionsgrenzwerte gelten die nach der Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vorgeschriebenen Emissionsgrenzwerte. Soweit die Verordnung nach Satz 1 keine kontinuierliche Emissionsüberwachung vorschreibt, gelten die in der Verordnung als Mittelwert über die jeweilige Probenahmezeit festgelegten Emissionsgrenzwerte als Emissionsgrenzwerte, die im Tagesmittel einzuhalten sind. Der Emissionsgrenzwert für organische Stoffe, angegeben als Gesamtkohlenstoff, wird unabhängig von der Verordnung nach Satz 1 fest vorgeschrieben und beträgt 10 mg/m³ für den Tagesmittelwert.3.7(weggefallen) Emissionsgrenzwerte für Schwefeldioxid und Schwefeltrioxid, angegeben als Schwefeldioxid, Stickstoffmonoxid und Stickstoffdioxid, angegeben als Stickstoffdioxid, und Kohlenmonoxid bei Einsatz von festen fossilen Brennstoffen, Biobrennstoffen oder flüssigen Brennstoffen in abfallmitverbrennenden Großfeuerungsanlagen Es sind im Tagesmittel einzuhaltende Emissionsgrenzwerte gemäß Nummer 1 zu bestimmen. Als Emissionswerte (CVerfahren) sind die nach der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vorgeschriebenen und im Tagesmittel einzuhaltenden Emissionsgrenzwerte einzusetzen. Soweit die Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen zusätzlich im Jahresmittel einzuhaltende Emissionsgrenzwerte vorschreibt, sind zusätzlich im Jahresmittel einzuhaltende Emissionsgrenzwerte gemäß Nummer 1 zu bestimmen. Als Emissionswerte (CVerfahren) sind die nach der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vorgeschriebenen und im Jahresmittel einzuhaltenden Emissionsgrenzwerte einzusetzen. Soweit in dieser Verordnung im Jahresmittel einzuhaltende Emissionsgrenzwerte nicht vorgeschrieben sind, sind als Emissionswerte CAbfall die im Tagesmittel einzuhaltenden Emissionsgrenzwerte einzusetzen. Emissionsgrenzwerte für Schwefeldioxid und Schwefeltrioxid, angegeben als Schwefeldioxid, Stickstoffmonoxid und Stickstoffdioxid, angegeben als Stickstoffdioxid, und Kohlenmonoxid bei Einsatz von festen fossilen Brennstoffen, Biobrennstoffen oder flüssigen Brennstoffen in abfallmitverbrennenden Feuerungsanlagen Es sind im Tagesmittel einzuhaltende Emissionsgrenzwerte gemäß Nummer 1 zu bestimmen. Als Emissionswerte (CVerfahren) sind die nach der Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vorgeschriebenen Emissionsgrenzwerte einzusetzen. Abfallmitverbrennende Großfeuerungsanlagen, die feste Brennstoffe, ausgenommen Biobrennstoffe, oder flüssige Brennstoffe einsetzen, unterliegen für den diesen Brennstoffen zugeordneten Teilstrom des Abgasvolumens den jeweiligen Anforderungen der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen an den Schwefelabscheidegrad und an den Entschwefelungsgrad der Rauchgasentschwefelungseinrichtung. Feuerungsanlagen für gasförmige Brennstoffe Beim Einsatz von gasförmigen Stoffen aus der Pyrolyse oder Vergasung von festen oder flüssigen Abfällen in Feuerungsanlagen für gasförmige Brennstoffe hat die zuständige Behörde einen kontinuierlich zu überwachenden Emissionsgrenzwert (Jahresmittelwert, Tagesmittelwert und Halbstundenmittelwert) für SO2 und SO3 sowie für NOX unter Berücksichtigung der spezifischen Brennstoffe gemäß der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen sowie einen entsprechenden Bezugssauerstoffgehalt in der Genehmigung festzusetzen. Für alle weiteren Emissionsparameter kommen die Nummer 3.5 sowie als CVerfahren ein Emissionswert für Kohlenmonoxid als Tagesmittelwert von 80 mg/m3 oder bei Einsatz von Erdgas von 50 mg/m3 jeweils bei einem Bezugssauerstoffgehalt von 3 Prozent zur Anwendung. Feste Emissionsgrenzwerte für Ammoniak, Staub, gasförmige anorganische Chlorverbindungen, angegeben als Chlorwasserstoff, gasförmige anorganische Fluorverbindungen, angegeben als Fluorwasserstoff, Gesamtkohlenstoff und Quecksilber und seine Verbindungen, angegeben als Quecksilber, alle Brennstoffe (Jahresmittelwerte, Tagesmittelwerte) in abfallmitverbrennenden Großfeuerungsanlagen Als im Tagesmittel einzuhaltende Emissionsgrenzwerte gelten jeweils die nach der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vorgeschriebenen im Tagesmittel einzuhaltenden Emissionsgrenzwerte. Soweit die Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen nach Satz 1 keine kontinuierliche Emissionsüberwachung vorschreibt, gelten die in ihr als Mittelwert über die jeweilige Probenahmezeit festgelegten Emissionsgrenzwerte als Emissionsgrenzwerte, die im Tagesmittel einzuhalten sind. Soweit die Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen zusätzlich im Jahresmittel einzuhaltende Emissionsgrenzwerte vorschreibt, gilt für diese Satz 1 entsprechend. Die Emissionsgrenzwerte für organische Stoffe, angegeben als Gesamtkohlenstoff, werden unabhängig von der Verordnung nach Satz 1 fest vorgeschrieben und betragen 5 mg/m³ für den Jahresmittelwert und 10 mg/m³ für den Tagesmittelwert. Feste Emissionsgrenzwerte für Ammoniak, Staub, gasförmige anorganische Chlorverbindungen, angegeben als Chlorwasserstoff, gasförmige anorganische Fluorverbindungen, angegeben als Fluorwasserstoff, Gesamtkohlenstoff und Quecksilber und seine Verbindungen, angegeben als Quecksilber, alle Brennstoffe (Tagesmittelwerte) in abfallmitverbrennenden Feuerungsanlagen Als im Tagesmittel einzuhaltende Emissionsgrenzwerte gelten die nach der Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vorgeschriebenen Emissionsgrenzwerte. Soweit die Verordnung nach Satz 1 keine kontinuierliche Emissionsüberwachung vorschreibt, gelten die in der Verordnung als Mittelwert über die jeweilige Probenahmezeit festgelegten Emissionsgrenzwerte als Emissionsgrenzwerte, die im Tagesmittel einzuhalten sind. Der Emissionsgrenzwert für organische Stoffe, angegeben als Gesamtkohlenstoff, wird unabhängig von der Verordnung nach Satz 1 fest vorgeschrieben und beträgt 10 mg/m³ für den Tagesmittelwert. (weggefallen)
 
-C
-
-C:
-
-2.1.1
-
-2.1.2
-
-2.1.3
-
-2.1.4
-
-2.2.1
-
-2.2.2
-
-2.4.1
-
-2.4.2
-
-a)
-
-b)
-
-c)
-
-3.1
-
-3.2
-
-3.3
-
-3.5
-
-3.6
+4. Sonstige Anlagen, d. h. Anlagen, die nicht in Nummer 2 oder 3 aufgeführt sind und in denen Abfälle oder Stoffe nach § 1 Absatz 1 mitverbrannt werden Die Emissionen sind zur Überprüfung, ob die Emissionsgrenzwerte eingehalten werden, auf einen für das jeweilige Verfahren relevanten Bezugssauerstoffgehalt, der jedoch höchstens 11 Prozent betragen darf, zu beziehen. Bei Anlagen, die mit einem überwiegenden Anteil an betriebsbedingter Nebenluft sowie im Fall der Verbrennung mit reinem Sauerstoff oder signifikant mit Sauerstoff angereicherter Luft betrieben werden, soll die Behörde auf Antrag des Betreibers die Emissionsgrenzwerte auf einen an die Verfahrensbedingungen der Anlage angepassten Bezugssauerstoffgehalt beziehen oder auf die Festlegung eines Bezugssauerstoffgehalts verzichten. Die in § 8 Absatz 1 Nummer 3 festgelegten Emissionsgrenzwerte für die zu Gruppen zusammengefassten Schadstoffe (Schwermetalle, Benzo(a)pyren, polychlorierte Dibenzodioxine und Dibenzofurane) gelten unter Berücksichtigung des nach Satz 1 oder Satz 2 festgelegten Bezugssauerstoffgehalts. 4.1Feste Emissionsgrenzwerte (Tagesmittelwert in mg/m3)EmissionsparameterCa)Gesamtstaub 10b)gasförmige anorganische Chlorverbindungen, angegeben als Chlorwasserstoff 10c)organische Stoffe, angegeben als Gesamtkohlenstoff 10d)Quecksilber und seine Verbindungen, angegeben als Quecksilber 0,034.2Feste Emissionsgrenzwerte (Halbstundenmittelwerte in mg/m3)EmissionsparameterCa)gasförmige anorganische Chlorverbindungen, angegeben als Chlorwasserstoff 60b)Quecksilber und seine Verbindungen, angegeben als Quecksilber 0,054.3Feste Emissionsgrenzwerte für feste (ausgenommen bei ausschließlichem Einsatz von Biobrennstoffen) und flüssige Brennstoffe für Anlagen mit einer Feuerungswärmeleistung von mehr als 50 MW (Jahresmittelwerte in mg/m3)EmissionsparameterCStickstoffmonoxid und Stickstoffdioxid, angegeben als Stickstoffdioxid, bei einer Feuerungswärmeleistung vona)50 MW bis 100 MW250b)mehr als 100 MW100 Feste Emissionsgrenzwerte (Tagesmittelwert in mg/m3)EmissionsparameterCa)Gesamtstaub 10b)gasförmige anorganische Chlorverbindungen, angegeben als Chlorwasserstoff 10c)organische Stoffe, angegeben als Gesamtkohlenstoff 10d)Quecksilber und seine Verbindungen, angegeben als Quecksilber 0,03 Feste Emissionsgrenzwerte (Halbstundenmittelwerte in mg/m3)EmissionsparameterCa)gasförmige anorganische Chlorverbindungen, angegeben als Chlorwasserstoff 60b)Quecksilber und seine Verbindungen, angegeben als Quecksilber 0,05 Feste Emissionsgrenzwerte für feste (ausgenommen bei ausschließlichem Einsatz von Biobrennstoffen) und flüssige Brennstoffe für Anlagen mit einer Feuerungswärmeleistung von mehr als 50 MW (Jahresmittelwerte in mg/m3)EmissionsparameterCStickstoffmonoxid und Stickstoffdioxid, angegeben als Stickstoffdioxid, bei einer Feuerungswärmeleistung vona)50 MW bis 100 MW250b)mehr als 100 MW100
 
 ### Anlage 4 — (zu § 15 Absatz 1, § 16 Absatz 1 und § 17 Absatz 5)
 
-1.
+1. Der Wert des Konfidenzintervalls von 95 Prozent eines einzelnen Messergebnisses darf an der für den Jahresmittelwert festgelegten Emissionsbegrenzung die folgenden Prozentsätze dieser Emissionsbegrenzung nicht überschreiten: a)Kohlenmonoxid10 Prozent,b)Schwefeldioxid20 Prozent,c)Stickstoffoxid20 Prozent,d)Gesamtstaub30 Prozent,e)Organisch gebundener Gesamtkohlenstoff30 Prozent,f)Chlorwasserstoff40 Prozent,g)Fluorwasserstoff40 Prozent,h)Quecksilber40 Prozent.i)Ammoniak40 Prozent.Für Quecksilber bezieht sich abweichend von Satz 1 Buchstabe h der genannte Prozentsatz auf die für den Tagesmittelwert festgelegte Emissionsbegrenzung und soweit für den kontinuierlich zu überwachenden Luftschadstoff keine für den Jahresmittelwert festgelegte Emissionsbegrenzung vorgegeben ist, bezieht sich Satz 1 insoweit auf die für den Tagesmittelwert festgelegte Emissionsbegrenzung. Kohlenmonoxid10 Prozent, Schwefeldioxid20 Prozent, Stickstoffoxid20 Prozent, Gesamtstaub30 Prozent, Organisch gebundener Gesamtkohlenstoff30 Prozent, Chlorwasserstoff40 Prozent, Fluorwasserstoff40 Prozent, Quecksilber40 Prozent. Ammoniak40 Prozent.
 
-a)
+2. Abweichend von Nummer 1 bezieht sich der in Buchstabe d festgelegte Prozentsatz für Gesamtstaub auf die für den Halbstundenmittelwert festgelegte Emissionsbegrenzung, sofern die Emissionsbegrenzung einen Tagesmittelwert von 10 mg/m³ unterschreitet.
 
-b)
+3. Die validierten Halbstunden- und Tagesmittelwerte werden auf Grund der gemessenen Halbstundenmittelwerte und nach Abzug des in der Kalibrierung ermittelten erweiterten Messunsicherheit bestimmt.
 
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-2.
-
-3.
-
-4.
+4. Die Halbstundenmittelwerte vor Abzug der in der Kalibrierung ermittelten Messunsicherheit (normierte Werte) müssen für die Zwecke der nach § 22 zu ermittelnden Jahresemissionsfrachten verfügbar sein.
 
 ### Anlage 5 — (zu § 2 Absatz 12)
 
-Soweit Emissionsgrenzwerte auf Bezugssauerstoffgehalte im Abgas bezogen sind, sind die im Abgas gemessenen Massenkonzentrationen nach folgender Gleichung umzurechnen:
+EB = Massenkonzentration, bezogen auf den Bezugssauerstoffgehalt
 
-E
+EM = gemessene Massenkonzentration
 
-E
+OB = Bezugssauerstoffgehalt
 
-O
-
-O
+OM = gemessener Sauerstoffgehalt
 
 ### Anlage 6 — (zu § 4 Absatz 1)
 
 Die Anforderungen nach § 4 Absatz 1 zur Verbesserung der allgemeinen Umweltleistungen gelten als erfüllt, wenn
 
-1.
+1. das Gemeinschaftssystem für Umweltmanagement und Umweltbetriebsprüfung (EMAS) eingeführt wird oder
 
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-p)
-
-q)
-
-r)
-
-s)
-
-t)
-
-a)
-
-b)
-
-aa)
-
-bb)
-
-cc)
-
-c)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-d)
-
-e)
-
-f)
+2. ein vergleichbares Umweltmanagementsystem eingeführt wird, das die folgenden Merkmale aufweist: a)Verpflichtung, Führung und Rechenschaftspflicht der Führungskräfte, einschließlich der leitenden Ebene, im Zusammenhang mit der Einführung eines wirksamen Umweltmanagementsystems;b)eine Analyse, die die Bestimmung des Kontextes der Organisation, die Ermittlung der Erfordernisse und Erwartungen der interessierten Parteien, die Identifizierung der Anlagencharakteristik, die mit möglichen Risiken für die Umwelt oder die menschliche Gesundheit in Verbindung stehen, sowie der geltenden Umweltvorschriften umfasst;c)Entwicklung einer Umweltpolitik, die eine kontinuierliche Verbesserung der Umweltleistung der Anlage beinhaltet;d)Festlegung von Zielen und Leistungsindikatoren in Bezug auf bedeutende Umweltaspekte, einschließlich der Gewährleistung der Einhaltung geltender Rechtsvorschriften;e)Planung und Verwirklichung der erforderlichen Verfahren und Maßnahmen, einschließlich der Korrektur- und Vorbeugungsmaßnahmen, falls notwendig, um die Umweltziele zu erreichen und Risiken für die Umwelt zu vermeiden;f)Festlegung von Strukturen, Rollen und Verantwortlichkeiten im Zusammenhang mit Umweltaspekten und -zielen und Bereitstellung der erforderlichen finanziellen und personellen Ressourcen;g)Sicherstellung der erforderlichen Kompetenz und des erforderlichen Bewusstseins des Personals, dessen Tätigkeiten sich auf die Umweltleistung der Anlage auswirken kann, insbesondere durch Informations- und Schulungsmaßnahmen;h)interne und externe Kommunikation;i)Förderung der Einbeziehung der Mitarbeitenden in bewährte Umweltmanagementpraktiken;j)Erstellen und Aufrechterhalten eines Managementhandbuchs und schriftlicher Verfahren zur Steuerung von Tätigkeiten mit bedeutender Umweltauswirkung sowie entsprechende Aufzeichnung;k)wirksame betriebliche Planung und Prozesssteuerung;l)Verwirklichung geeigneter Instandhaltungsprogramme;m)Prozesse zur Notfallvorsorge und Gefahrenabwehr, darunter die Vermeidung und Minderung der negativen (Umwelt-)Auswirkungen von Notfallsituationen;n)bei Neuplanung oder Umbau einer (neuen) Anlage oder eines Teils davon, Berücksichtigung der Umweltauswirkungen während der gesamten Lebensdauer, einschließlich Bau, Wartung, Betrieb und Stilllegung;o)Verwirklichung eines Programms zur Überwachung und Messung; Informationen dazu finden sich, falls erforderlich, im Referenzbericht über die Überwachung der Emissionen aus IED-Anlagen in die Luft und in Gewässer;p)regelmäßige Durchführung von Benchmarkings auf Branchenebene;q)regelmäßige unabhängige interne Umweltbetriebsprüfungen, wenn die internen Voraussetzungen zur Durchführung vorliegen, und regelmäßige unabhängige externe Prüfung, um die Umweltleistung zu bewerten und um festzustellen, ob das Umweltmanagementsystem den vorgesehenen Regelungen entspricht und ob es ordnungsgemäß verwirklicht und aufrechterhalten wurde;r)Bewertung der Ursachen von Abweichungen, Verwirklichung von Korrekturmaßnahmen als Reaktion auf Nichtkonformitäten, Überprüfung der Wirksamkeit von Korrekturmaßnahmen und Bestimmung, ob ähnliche Nichtkonformitäten bestehen oder potenziell auftreten könnten;s)regelmäßige Bewertung des Umweltmanagementsystems durch die oberste Leitung der Organisation auf seine fortdauernde Eignung, Angemessenheit und Wirksamkeit;t)Beobachtung und Berücksichtigung der Entwicklung von sauberen Techniken.Des Weiteren muss das Umweltmanagementsystem auch folgende Merkmale aufweisen: a)Abfallstrommanagement;b)einen Managementplan für Rückstände, einschließlich Maßnahmen, die auf Folgendes abzielen: aa)Minimierung der Entstehung von Rückständen;bb)Optimierung der Wiederverwendung, Regeneration, des Recyclings und/oder der Energierückgewinnung aus den Rückständen;cc)Sicherstellung der ordnungsgemäßen Beseitigung der Rückstände;c)für Abfallverbrennungs- oder -mitverbrennungsanlagen: einen Managementplan für Betriebszustände außerhalb des Normalbetriebs: aa)Identifizierung potenzieller Betriebszustände außerhalb des Normalbetriebs, insbesondere des Ausfalls von Anlagenkomponenten, die kritisch für den Schutz der Umwelt sind (kritische Anlagenkomponenten), ihrer Grundursachen und möglichen Folgen sowie regelmäßige Überprüfung und Aktualisierung der Liste der identifizierten Betriebszustände außerhalb des Normalbetriebs nach der nachstehend beschriebenen regelmäßigen Bewertung;bb)geeignete Auslegung kritischer Anlagenkomponenten, insbesondere die Abschottung des Gewebefilters, Techniken zur Erwärmung des Abgases und Vermeidung von Umgehungen des Gewebefilters beim An- und Abfahren;cc)Aufbau und Implementierung eines präventiven Instandhaltungsplanes für die kritische Ausrüstung;dd)Überwachung und Aufzeichnung von Emissionen während Betriebszuständen außerhalb des Normalbetriebs und der damit verbundenen Umstände gemäß § 19 Absatz 3 und § 20a;ee)regelmäßige Bewertung der Emissionen im Verlauf von Betriebszuständen außerhalb des Normalbetriebs, insbesondere der Häufigkeit von Ereignissen, der Dauer und der Menge der Schadstoffemissionen sowie, falls erforderlich, Umsetzung von Korrekturmaßnahmen;d)einen Risiko- und Sicherheitsmanagementplan;e)einen Geruchsmanagementplan für Fälle, in denen eine Geruchsbelästigung an sensiblen Standorten erwartet wird oder nachgewiesen wurde;f)einen Lärmmanagementplan für Fälle, in denen eine Lärmbelästigung an sensiblen Standorten zu erwarten ist oder nachgewiesen wurde.Sofern aufgrund fehlender Registrierung nach EMAS ein Umweltmanagementsystem nach Satz 1 Nummer 2 eingeführt werden muss, und keine Zertifizierung nach ISO 14001 vorliegt ist die Erfüllung der aufgeführten Merkmale durch einen nach § 9 des Umweltauditgesetzes zugelassenen Umweltgutachter oder eine nach § 10 des Umweltauditgesetzes zugelassene Umweltgutachterorganisation, dessen oder deren Zulassungsbereich den Wirtschaftszweig der Anlage umfasst, im Intervall von drei Jahren nachzuweisen. Verpflichtung, Führung und Rechenschaftspflicht der Führungskräfte, einschließlich der leitenden Ebene, im Zusammenhang mit der Einführung eines wirksamen Umweltmanagementsystems; eine Analyse, die die Bestimmung des Kontextes der Organisation, die Ermittlung der Erfordernisse und Erwartungen der interessierten Parteien, die Identifizierung der Anlagencharakteristik, die mit möglichen Risiken für die Umwelt oder die menschliche Gesundheit in Verbindung stehen, sowie der geltenden Umweltvorschriften umfasst; Entwicklung einer Umweltpolitik, die eine kontinuierliche Verbesserung der Umweltleistung der Anlage beinhaltet; Festlegung von Zielen und Leistungsindikatoren in Bezug auf bedeutende Umweltaspekte, einschließlich der Gewährleistung der Einhaltung geltender Rechtsvorschriften; Planung und Verwirklichung der erforderlichen Verfahren und Maßnahmen, einschließlich der Korrektur- und Vorbeugungsmaßnahmen, falls notwendig, um die Umweltziele zu erreichen und Risiken für die Umwelt zu vermeiden; Festlegung von Strukturen, Rollen und Verantwortlichkeiten im Zusammenhang mit Umweltaspekten und -zielen und Bereitstellung der erforderlichen finanziellen und personellen Ressourcen; Sicherstellung der erforderlichen Kompetenz und des erforderlichen Bewusstseins des Personals, dessen Tätigkeiten sich auf die Umweltleistung der Anlage auswirken kann, insbesondere durch Informations- und Schulungsmaßnahmen; interne und externe Kommunikation; Förderung der Einbeziehung der Mitarbeitenden in bewährte Umweltmanagementpraktiken; Erstellen und Aufrechterhalten eines Managementhandbuchs und schriftlicher Verfahren zur Steuerung von Tätigkeiten mit bedeutender Umweltauswirkung sowie entsprechende Aufzeichnung; wirksame betriebliche Planung und Prozesssteuerung; Verwirklichung geeigneter Instandhaltungsprogramme; Prozesse zur Notfallvorsorge und Gefahrenabwehr, darunter die Vermeidung und Minderung der negativen (Umwelt-)Auswirkungen von Notfallsituationen; bei Neuplanung oder Umbau einer (neuen) Anlage oder eines Teils davon, Berücksichtigung der Umweltauswirkungen während der gesamten Lebensdauer, einschließlich Bau, Wartung, Betrieb und Stilllegung; Verwirklichung eines Programms zur Überwachung und Messung; Informationen dazu finden sich, falls erforderlich, im Referenzbericht über die Überwachung der Emissionen aus IED-Anlagen in die Luft und in Gewässer; regelmäßige Durchführung von Benchmarkings auf Branchenebene; regelmäßige unabhängige interne Umweltbetriebsprüfungen, wenn die internen Voraussetzungen zur Durchführung vorliegen, und regelmäßige unabhängige externe Prüfung, um die Umweltleistung zu bewerten und um festzustellen, ob das Umweltmanagementsystem den vorgesehenen Regelungen entspricht und ob es ordnungsgemäß verwirklicht und aufrechterhalten wurde; Bewertung der Ursachen von Abweichungen, Verwirklichung von Korrekturmaßnahmen als Reaktion auf Nichtkonformitäten, Überprüfung der Wirksamkeit von Korrekturmaßnahmen und Bestimmung, ob ähnliche Nichtkonformitäten bestehen oder potenziell auftreten könnten; regelmäßige Bewertung des Umweltmanagementsystems durch die oberste Leitung der Organisation auf seine fortdauernde Eignung, Angemessenheit und Wirksamkeit; Beobachtung und Berücksichtigung der Entwicklung von sauberen Techniken. Abfallstrommanagement; einen Managementplan für Rückstände, einschließlich Maßnahmen, die auf Folgendes abzielen: aa)Minimierung der Entstehung von Rückständen;bb)Optimierung der Wiederverwendung, Regeneration, des Recyclings und/oder der Energierückgewinnung aus den Rückständen;cc)Sicherstellung der ordnungsgemäßen Beseitigung der Rückstände; Minimierung der Entstehung von Rückständen; Optimierung der Wiederverwendung, Regeneration, des Recyclings und/oder der Energierückgewinnung aus den Rückständen; Sicherstellung der ordnungsgemäßen Beseitigung der Rückstände; für Abfallverbrennungs- oder -mitverbrennungsanlagen: einen Managementplan für Betriebszustände außerhalb des Normalbetriebs: aa)Identifizierung potenzieller Betriebszustände außerhalb des Normalbetriebs, insbesondere des Ausfalls von Anlagenkomponenten, die kritisch für den Schutz der Umwelt sind (kritische Anlagenkomponenten), ihrer Grundursachen und möglichen Folgen sowie regelmäßige Überprüfung und Aktualisierung der Liste der identifizierten Betriebszustände außerhalb des Normalbetriebs nach der nachstehend beschriebenen regelmäßigen Bewertung;bb)geeignete Auslegung kritischer Anlagenkomponenten, insbesondere die Abschottung des Gewebefilters, Techniken zur Erwärmung des Abgases und Vermeidung von Umgehungen des Gewebefilters beim An- und Abfahren;cc)Aufbau und Implementierung eines präventiven Instandhaltungsplanes für die kritische Ausrüstung;dd)Überwachung und Aufzeichnung von Emissionen während Betriebszuständen außerhalb des Normalbetriebs und der damit verbundenen Umstände gemäß § 19 Absatz 3 und § 20a;ee)regelmäßige Bewertung der Emissionen im Verlauf von Betriebszuständen außerhalb des Normalbetriebs, insbesondere der Häufigkeit von Ereignissen, der Dauer und der Menge der Schadstoffemissionen sowie, falls erforderlich, Umsetzung von Korrekturmaßnahmen; Identifizierung potenzieller Betriebszustände außerhalb des Normalbetriebs, insbesondere des Ausfalls von Anlagenkomponenten, die kritisch für den Schutz der Umwelt sind (kritische Anlagenkomponenten), ihrer Grundursachen und möglichen Folgen sowie regelmäßige Überprüfung und Aktualisierung der Liste der identifizierten Betriebszustände außerhalb des Normalbetriebs nach der nachstehend beschriebenen regelmäßigen Bewertung; geeignete Auslegung kritischer Anlagenkomponenten, insbesondere die Abschottung des Gewebefilters, Techniken zur Erwärmung des Abgases und Vermeidung von Umgehungen des Gewebefilters beim An- und Abfahren; Aufbau und Implementierung eines präventiven Instandhaltungsplanes für die kritische Ausrüstung; Überwachung und Aufzeichnung von Emissionen während Betriebszuständen außerhalb des Normalbetriebs und der damit verbundenen Umstände gemäß § 19 Absatz 3 und § 20a; regelmäßige Bewertung der Emissionen im Verlauf von Betriebszuständen außerhalb des Normalbetriebs, insbesondere der Häufigkeit von Ereignissen, der Dauer und der Menge der Schadstoffemissionen sowie, falls erforderlich, Umsetzung von Korrekturmaßnahmen; einen Risiko- und Sicherheitsmanagementplan; einen Geruchsmanagementplan für Fälle, in denen eine Geruchsbelästigung an sensiblen Standorten erwartet wird oder nachgewiesen wurde; einen Lärmmanagementplan für Fälle, in denen eine Lärmbelästigung an sensiblen Standorten zu erwarten ist oder nachgewiesen wurde.
 
 ### Anlage 7 — (zu § 13 Absatz 3)
 
@@ -950,12 +694,8 @@ Die Energieeffizienzwerte für die Verbrennung von nicht gefährlichen Abfällen
 
 Elektrischer Bruttowirkungsgrad bei einer Abfallverbrennungsanlage oder einem Teil einer Abfallverbrennungsanlage, die mit einer Kondensationsturbine Strom erzeugt; Bruttoenergieeffizienz bei einer Abfallverbrennungsanlage oder einem Teil einer Abfallverbrennungsanlage, die:
 
-•
+• nur Wärme erzeugt, oder
 
-•
-
-Dies wird wie folgt ausgedrückt:
-
-Dabei ist:
+• mit einer Gegendruckturbine Strom und mit dem die Turbine verlassenden Dampf Wärme erzeugt.
 
 Die Energieeffizienzwerte für die Verbrennung von Klärschlamm und gefährlichen Abfällen (ausgenommen gefährliche Holzabfälle) werden als Kesselwirkungsgrad ausgedrückt.

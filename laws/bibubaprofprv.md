@@ -10,9 +10,9 @@
 
 Das Bundesministerium für Bildung und Forschung verordnet jeweils nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung auf Grund
 
-–
+– des § 53 Absatz 1 in Verbindung mit Absatz 2 und mit den §§ 53a und 53c sowie des § 53e Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und
 
-–
+– des § 30 Absatz 5 des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920):
 
 ### Inhaltsübersicht
 
@@ -20,9 +20,9 @@ Das Bundesministerium für Bildung und Forschung verordnet jeweils nach Anhörun
 
 Diese Verordnung regelt
 
-1.
+1. die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Bilanzbuchhalter-Bachelor Professional in Bilanzbuchhaltung oder Geprüfte Bilanzbuchhalterin-Bachelor Professional in Bilanzbuchhaltung und
 
-2.
+2. ergänzend zu dem Fortbildungsabschluss nach Nummer 1 die Prüfung zu dem anerkannten Anpassungsfortbildungsabschluss „Geprüfter Bilanzbuchhalter International oder Geprüfte Bilanzbuchhalterin International“.
 
 ### § 2 — Ziel der Prüfung zum Erwerb des Fortbildungsabschlusses und dessen Bezeichnung
 
@@ -32,43 +32,37 @@ Diese Verordnung regelt
 
 (3) Durch die Prüfung ist festzustellen, ob die zu prüfende Person in der Lage ist, Fach- und Führungsfunktionen zu übernehmen, in denen zu verantwortende Leitungsprozesse von Organisationen eigenständig gesteuert werden, eigenständig ausgeführt werden und dafür Mitarbeiter und Mitarbeiterinnen geführt werden. Die zu prüfende Person soll in der Lage sein, eigenständig und verantwortlich die Aufgaben des kaufmännischen Rechnungswesens für Unternehmen und Institutionen unterschiedlicher Art, Größe und Rechtsform zu organisieren und durchzuführen. Zu diesen Aufgaben gehören:
 
-1.
+1. Jahresabschlüsse nach nationalem Recht erstellen und dabei Rechtsformen von Unternehmen und Institutionen beachten,
 
-2.
+2. Steuerrecht in den wesentlichen betrieblich relevanten Steuerarten anwenden,
 
-3.
+3. die wesentlichen Regelungen der International Financial Reporting Standards und der International Accounting Standards mit den entsprechenden nationalen Rechtsnormen vergleichen,
 
-4.
+4. Kosten- und Leistungsrechnung zielorientiert anwenden,
 
-5.
+5. das Zahlenwerk für Planungs- und Kontrollentscheidungen auswerten und interpretieren,
 
-6.
+6. ein internes Kontrollsystem in der Organisation und im Finanz- und Rechnungswesen sicherstellen,
 
-7.
+7. finanzwirtschaftliche Vorgänge planen und abwickeln,
 
-8.
+8. Mitarbeiter und Mitarbeiterinnen führen sowie deren berufliche Entwicklung fördern, Nachwuchskräfte ausbilden, Teamarbeit und Projektmanagement umsetzen sowie
 
-9.
+9. Berufsausbildung organisieren und durchführen.
 
-(4) Für den Erwerb der in Absatz 3 bezeichneten Fertigkeiten, Kenntnisse und Fähigkeiten bedarf es in der Regel eines Lernumfangs von insgesamt mindestens 1 200 Stunden. Der Lerninhalt bestimmt sich nach den Anforderungen der in § 4 Absatz 2 in Verbindung mit § 7 genannten Handlungsbereiche.
+(4) Für den Erwerb der in Absatz 3 bezeichneten Fertigkeiten, Kenntnisse und Fähigkeiten bedarf es in der Regel eines Lernumfangs von insgesamt mindestens 1 200 Stunden. Der Lerninhalt bestimmt sich nach den Anforderungen der in § 4 Absatz 2 in Verbindung mit § 7 genannten Handlungsbereiche.
 
 (5) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss Bachelor Professional in Bilanzbuchhaltung. Der Abschlussbezeichnung wird die weitere Abschlussbezeichnung „Geprüfter Bilanzbuchhalter“ oder „Geprüfte Bilanzbuchhalterin“ vorangestellt.
 
 ### § 3 — Voraussetzung für die Zulassung zur Prüfung
 
-(1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53c des Berufsbildungsgesetzes erfüllt und Folgendes nachweist: Die Berufspraxis nach Absatz 1 Satz 1 Nummer 2 Buchstabe c und Nummer 3 muss inhaltlich wesentliche Bezüge zu den in § 2 Absatz 3 genannten Aufgaben haben und dabei überwiegend im betrieblichen Finanz- und Rechnungswesen erworben worden sein.
+(1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53c des Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
 
-1.
+1. eine erfolgreich abgelegte Abschlussprüfung in einem anerkannten kaufmännischen oder verwaltenden Ausbildungsberuf mit einer Berufsausbildungsdauer von drei Jahren,
 
-2.
+2. einen der folgenden Abschlüsse: a)einen anerkannten Fortbildungsabschluss nach einer Regelung auf Grund des Berufsbildungsgesetzes als Fachwirt oder Fachwirtin oder als Fachkaufmann oder Fachkauffrau,b)einen Abschluss als Staatlich geprüfter Betriebswirt oder als Staatlich geprüfte Betriebswirtin oderc)einen wirtschaftswissenschaftlichen Diplom- oder Bachelorabschluss einer staatlichen oder staatlich anerkannten Hochschule oder einer Berufsakademie oder eines akkreditierten betriebswirtschaftlichen Ausbildungsganges einer Berufsakademie und eine darauf folgende, mindestens einjährige Berufspraxis oder einen anerkannten Fortbildungsabschluss nach einer Regelung auf Grund des Berufsbildungsgesetzes als Fachwirt oder Fachwirtin oder als Fachkaufmann oder Fachkauffrau, einen Abschluss als Staatlich geprüfter Betriebswirt oder als Staatlich geprüfte Betriebswirtin oder einen wirtschaftswissenschaftlichen Diplom- oder Bachelorabschluss einer staatlichen oder staatlich anerkannten Hochschule oder einer Berufsakademie oder eines akkreditierten betriebswirtschaftlichen Ausbildungsganges einer Berufsakademie und eine darauf folgende, mindestens einjährige Berufspraxis oder
 
-a)
-
-b)
-
-c)
-
-3.
+3. eine mindestens fünfjährige Berufspraxis.
 
 (2) Abweichend von Absatz 1 ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten erworben zu haben, die der beruflichen Handlungsfähigkeit vergleichbar sind und die Zulassung zur Prüfung rechtfertigen.
 
@@ -78,19 +72,19 @@ c)
 
 (2) Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
-1.
+1. Geschäftsvorfälle erfassen und nach Rechnungslegungsvorschriften zu Abschlüssen führen,
 
-2.
+2. Jahresabschlüsse aufbereiten und auswerten,
 
-3.
+3. betriebliche Sachverhalte steuerlich darstellen,
 
-4.
+4. Finanzmanagement des Unternehmens wahrnehmen, gestalten und überwachen,
 
-5.
+5. Kosten- und Leistungsrechnung zielorientiert anwenden,
 
-6.
+6. ein internes Kontrollsystem sicherstellen,
 
-7.
+7. Kommunikation, Führung und Zusammenarbeit mit internen und externen Partnern sicherstellen.
 
 ### § 5 — Schriftliche Prüfung
 
@@ -100,7 +94,7 @@ c)
 
 (3) Die Bearbeitungszeit beträgt für jede Aufgabenstellung 240 Minuten.
 
-(4) Die drei Aufgabenstellungen müssen aus der Beschreibung der betrieblichen Situation abgeleitet und aufeinander abgestimmt sein sowie der zu prüfenden Person eigenständige Lösungen ohne Antwortvorgaben ermöglichen. Die Aufgabenstellungen sind so zu gestalten, dass jeweils ein anderer Handlungsbereich nach § 4 Absatz 2 Nummer 1, 2 und 3 einen Schwerpunkt bildet und die übrigen Handlungsbereiche nach § 4 Absatz 2 insgesamt mindestens einmal in den drei Aufgabenstellungen situationsbezogen thematisiert werden.
+(4) Die drei Aufgabenstellungen müssen aus der Beschreibung der betrieblichen Situation abgeleitet und aufeinander abgestimmt sein sowie der zu prüfenden Person eigenständige Lösungen ohne Antwortvorgaben ermöglichen. Die Aufgabenstellungen sind so zu gestalten, dass jeweils ein anderer Handlungsbereich nach § 4 Absatz 2 Nummer 1, 2 und 3 einen Schwerpunkt bildet und die übrigen Handlungsbereiche nach § 4 Absatz 2 insgesamt mindestens einmal in den drei Aufgabenstellungen situationsbezogen thematisiert werden.
 
 ### § 6 — Mündliche Prüfung
 
@@ -120,107 +114,107 @@ c)
 
 (1) Im Handlungsbereich „Geschäftsvorfälle erfassen und nach Rechnungslegungsvorschriften zu Abschlüssen führen“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, nach deutschem Recht eine ordnungsgemäße Buchführung durchzuführen, den Jahresabschluss zu erstellen und die wesentlichen Regelungen des internationalen Bilanzrechts nach den International Financial Reporting Standards darzustellen. In diesem Handlungsbereich können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Geschäftsvorfälle vollständig, richtig, zeitgerecht und geordnet nach nationalen handels- und steuerrechtlichen Rechnungslegungsvorschriften erfassen und daraus Buchungen ableiten,
 
-2.
+2. die Buchführung so organisieren, dass sie einem sachverständigen Dritten innerhalb angemessener Zeit einen Überblick über die Geschäftsvorfälle und die Lage des Unternehmens vermitteln kann,
 
-3.
+3. Bilanzierung dem Grunde und der Höhe nach von Vermögensgegenständen, Schulden, Eigenkapital und Rechnungsabgrenzungsposten nach nationalen handels- und steuerrechtlichen Rechnungslegungsvorschriften durchführen,
 
-4.
+4. die wesentlichen Bilanzierungs- und Bewertungsunterschiede zwischen nationalem und internationalem Recht gegenüberstellen; das umfasst den jeweiligen Geltungsbereich sowie die Unterschiede zwischen den Zielen und Grundprinzipien in der Erst- und Folgebewertung von Sachanlagen, immateriellen Vermögenswerten und Finanzinstrumenten, in der Bewertung von Vorräten, in der Behandlung von Fertigungsaufträgen, latenten Steuern, Eigenkapital, Rückstellungen und Verbindlichkeiten,
 
-5.
+5. Aufwendungen und Erträge in der Gewinn- und Verlustrechnung nach nationalen handels- und steuerrechtlichen Rechnungslegungsvorschriften sowie die Ergebnisauswirkungen der Bewertungsmaßnahmen darstellen,
 
-6.
+6. Bestandteile des Jahresabschlusses, Inhalte und Aussagen der Bilanz, der Gewinn- und Verlustrechnung, der Kapitalflussrechnung, des Eigenkapitalspiegels und des Anhanges beherrschen und den Lagebericht erstellen sowie hierzu die Regelungen nach den International Financial Reporting Standards und den International Accounting Standards zuordnen und den Segmentbericht im Überblick erläutern,
 
-7.
+7. Grundzüge der Konzernrechnungslegung nach nationalen und internationalen Rechnungslegungsvorschriften erkennen und die Buchungen für die Kapitalkonsolidierung nach nationalem Bilanzrecht durchführen und
 
-8.
+8. bilanzielle Auswirkungen unterschiedlicher Gesellschaftsformen im Handels- und Steuerrecht berücksichtigen.
 
 (2) Im Handlungsbereich „Jahresabschlüsse aufbereiten und auswerten“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, die Zusammenhänge in der Rechnungslegung zu erkennen sowie Jahresabschlüsse für unternehmerische Zwecke zu analysieren und zu interpretieren. In diesem Handlungsbereich können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Jahresabschlüsse aufbereiten,
 
-2.
+2. Jahresabschlüsse mit Hilfe von Kennzahlen und Cashflow-Rechnungen analysieren und interpretieren,
 
-3.
+3. zeitliche und betriebliche Vergleiche von Jahresabschlüssen durchführen und die Einhaltung von Plan- und Normwerten überprüfen und
 
-4.
+4. Bedeutung von Ratings erkennen und Maßnahmen zur Verbesserung für das Unternehmen vorschlagen.
 
 (3) Im Handlungsbereich „Betriebliche Sachverhalte steuerlich darstellen“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, betriebliche Sachverhalte steuerlich zu bearbeiten. In diesem Handlungsbereich können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. steuerliches Ergebnis aus dem handelsrechtlichen Ergebnis ableiten,
 
-2.
+2. Datensätze für das Verfahren zur elektronischen Übermittlung von Jahresabschlüssen nach dem Einkommensteuergesetz ableiten,
 
-3.
+3. den zu versteuernden Gewinn nach den einzelnen Gewinnermittlungsarten bestimmen,
 
-4.
+4. das körperschaftsteuerlich zu versteuernde Einkommen, die festzusetzende Körperschaftsteuer sowie die Abschlusszahlung und Erstattung der Körperschaftsteuer berechnen,
 
-5.
+5. Regelungen des Körperschaftsteuerrechts und des Einkommensteuerrechts in Abhängigkeit von der Rechtsform eines Unternehmens erläutern,
 
-6.
+6. die gewerbesteuerliche Bemessungsgrundlage entwickeln und für die Gewerbesteuererklärung aufbereiten sowie die Gewerbesteuer und die Gewerbesteuerrückstellung berechnen,
 
-7.
+7. Geschäftsvorfälle auf ihre umsatzsteuerliche Relevanz und auf ihre Vorsteuer prüfen sowie die Umsatzsteuervoranmeldungen und Umsatzsteuererklärungen vorbereiten,
 
-8.
+8. Vorschriften zum Verfahrensrecht anwenden und notwendige Anträge stellen,
 
-9.
+9. grundlegende nationale und binationale Verfahren zur Vermeidung einer Doppelbesteuerung im Ertragsteuerrecht gegenüberstellen sowie Verfahren zur Vermeidung einer Doppelbesteuerung im Ertragsteuerrecht beschreiben und
 
-10.
+10. Lohnsteuer, Grunderwerbsteuer und Grundsteuer in das betriebliche Geschehen einordnen.
 
 (4) Im Handlungsbereich „Finanzmanagement des Unternehmens wahrnehmen, gestalten und überwachen“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, die Methoden und Instrumente der Finanzierung und der Investitionsrechnungen anzuwenden. Dabei soll sie zeigen, dass sie die Bedeutung der betrieblichen Finanzwirtschaft als Erfolgsfaktor der Unternehmensführung in nationalen und internationalen Märkten erkennt. Des Weiteren soll sie Planungsrechnungen im Rahmen der Finanz- und Investitionsplanung erstellen und einsetzen. In diesem Handlungsbereich können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Ziele, Aufgaben und Instrumente des Finanzmanagements beschreiben und deren Einhaltung anhand ausgewählter Kennzahlen und Finanzierungsregeln beurteilen,
 
-2.
+2. Finanz- und Liquiditätsplanungen erstellen und Finanzkontrollen zur Sicherung der Zahlungsbereitschaft durchführen,
 
-3.
+3. Finanzierungsarten beherrschen sowie die Möglichkeiten und Methoden zur Kapitalbeschaffung unter Berücksichtigung der Rechtsform des Unternehmens auswählen und einsetzen,
 
-4.
+4. Investitionsbedarf feststellen und die optimale Investition mit Hilfe von Investitionsrechnungen ermitteln,
 
-5.
+5. Kreditrisiken erkennen sowie Instrumente zur Risikobegrenzung bewerten und einsetzen,
 
-6.
+6. Kredit- und Kreditsicherungsmöglichkeiten unter Einbeziehung einer Kreditwürdigkeitsprüfung und einer Tilgungsfähigkeitsberechnung darstellen sowie Kreditkonditionen verhandeln und
 
-7.
+7. die Formen des in- und ausländischen Zahlungsverkehrs auswählen und geschäftsvorgangsbezogen festlegen.
 
 (5) Im Handlungsbereich „Kosten- und Leistungsrechnung zielorientiert anwenden“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, die Kosten- und Leistungsrechnung zur Steuerung betrieblicher Prozesse, zur Vorbereitung unternehmerischer Entscheidungen sowie zu Bilanzierungszwecken einzusetzen. Dabei soll sie besonders den Zusammenhang zwischen Buchführung, Bilanzierung, Kosten- und Leistungsrechnung und Controlling darstellen. In diesem Handlungsbereich können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Methoden und Instrumente zur Erfassung von Kosten und Leistungen auswählen und anwenden,
 
-2.
+2. Verfahren zur Verrechnung der Kosten auf betriebliche Funktionsbereiche und auf Leistungen auswählen und anwenden,
 
-3.
+3. Methoden der kurzfristigen Erfolgsrechnung für betriebliche Analyse- und Steuerungszwecke auswählen und anwenden,
 
-4.
+4. Verfahren der Kosten- und Leistungsrechnung zur Lösung unterschiedlicher Problemstellungen und zur Entscheidungsvorbereitung zielorientiert anwenden und
 
-5.
+5. Grundzüge des Kostencontrollings und des Kostenmanagements für die Zusammenarbeit im betrieblichen Controlling erläutern.
 
 (6) Im Handlungsbereich „Ein internes Kontrollsystem sicherstellen“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, Risiken in der Unternehmung zu identifizieren, zu bewerten und Maßnahmen zur Risikominderung aufzuzeigen. In diesem Handlungsbereich können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. Arten von Risiken identifizieren und dokumentieren,
 
-2.
+2. ein internes Kontrollsystem aufbauen,
 
-3.
+3. Methoden zur Beurteilung von Risiken einsetzen und
 
-4.
+4. Maßnahmen zur Vermeidung von Risiken ableiten.
 
 (7) Im Handlungsbereich „Kommunikation, Führung und Zusammenarbeit mit internen und externen Partnern sicherstellen“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, zielorientiert mit Mitarbeitern und Mitarbeiterinnen, Auszubildenden, Geschäftspartnern sowie Kunden zu kommunizieren und zu kooperieren, Methoden der Kommunikation und des Konfliktmanagements situationsgerecht einzusetzen, ethische Grundsätze zu berücksichtigen und Mitarbeiter und Mitarbeiterinnen, Auszubildende und Projektgruppen unter Beachtung der rechtlichen und betrieblichen Rahmenbedingungen und der Unternehmensziele zu führen und zu motivieren. In diesem Handlungsbereich können folgende Qualifikationsinhalte geprüft werden:
 
-1.
+1. mit internen und externen Partnern situationsgerecht kommunizieren sowie Präsentationstechniken zielgerichtet einsetzen,
 
-2.
+2. Kriterien für die Personalauswahl festlegen und begründen sowie bei der Personalrekrutierung mitwirken,
 
-3.
+3. den Personaleinsatz planen und steuern,
 
-4.
+4. Führungsmethoden situationsgerecht anwenden,
 
-5.
+5. Berufsausbildung planen und durchführen,
 
-6.
+6. die berufliche Entwicklung und Weiterbildung von Mitarbeitern und Mitarbeiterinnen fördern und
 
-7.
+7. den Arbeits- und Gesundheitsschutz gestalten.
 
 ### § 8 — Befreiung von einzelnen Prüfungsbestandteilen
 
@@ -232,15 +226,11 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (2) In der schriftlichen Prüfung sind die drei Aufgabenstellungen nach § 5 Absatz 2 einzeln zu bewerten. Sind in den drei Aufgabenstellungen jeweils mindestens 50 Punkte erreicht worden, wird aus den einzelnen Bewertungen als Bewertung der schriftlichen Prüfung das arithmetische Mittel berechnet.
 
-(3) In der mündlichen Prüfung sind zu bewerten: Aus den beiden Bewertungen wird als Bewertung der mündlichen Prüfung das gewichtete arithmetische Mittel berechnet. Dabei werden gewichtet:
+(3) In der mündlichen Prüfung sind zu bewerten:
 
-1.
+1. die Präsentation nach § 6 Absatz 5 und
 
-2.
-
-1.
-
-2.
+2. das Fachgespräch nach § 6 Absatz 6.
 
 ### § 10 — Bestehen der Prüfung, Gesamtnote
 
@@ -248,23 +238,23 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (2) Ist die Prüfung bestanden, werden die folgenden Bewertungen jeweils kaufmännisch auf eine ganze Zahl gerundet:
 
-1.
+1. die Bewertung für die schriftliche Prüfung und
 
-2.
+2. die Bewertung für die mündliche Prüfung.
 
 (3) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl aus der Bewertung für die schriftliche Prüfung und der Bewertung für die mündliche Prüfung das arithmetische Mittel zu berechnen. Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl wird nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 
 ### § 11 — Zeugnisse
 
-(1) Wer die Prüfung nach § 10 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
+(1) Wer die Prüfung nach § 10 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
-(2) Auf dem Zeugnis mit den Inhalten nach Anlage 2 Teil B sind die Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben. Jede Befreiung nach § 8 ist mit Ort, Datum und der Bezeichnung des Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 2 Teil B sind die Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben. Jede Befreiung nach § 8 ist mit Ort, Datum und der Bezeichnung des Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
 
 (3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur Information (Bemerkungen) enthalten, insbesondere
 
-1.
+1. über den erworbenen Abschluss oder
 
-2.
+2. auf Antrag der geprüften Person über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 ### § 12 — Wiederholung der Prüfung
 
@@ -286,11 +276,11 @@ Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom schriftlichen Tei
 
 (1) Auf Antrag bei der zuständigen Stelle kann eine Prüfung zu dem Anpassungsfortbildungsabschluss „Geprüfter Bilanzbuchhalter International oder Geprüfte Bilanzbuchhalterin International“ abgelegt werden. Voraussetzung für die Zulassung zur Prüfung ist, dass der Antragsteller oder die Antragstellerin bereits
 
-1.
+1. die Prüfung zum Bilanzbuchhalter oder zur Bilanzbuchhalterin auf Grund einer Regelung einer zuständigen Stelle erfolgreich abgelegt hat,
 
-2.
+2. den anerkannten Fortbildungsabschluss Geprüfter Bilanzbuchhalter-Bachelor Professional in Bilanzbuchhaltung oder Geprüfte Bilanzbuchhalterin-Bachelor Professional in Bilanzbuchhaltung oder einen gleichwertigen Abschluss erworben hat oder
 
-3.
+3. einen wirtschaftswissenschaftlichen Abschluss an einer Hochschule erworben hat.
 
 (2) Die Prüfung wird als schriftliche Prüfung auf der Grundlage einer Beschreibung einer betrieblichen Situation durchgeführt.
 
@@ -300,39 +290,13 @@ Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom schriftlichen Tei
 
 (5) Die beiden Aufgabenstellungen müssen aus der Beschreibung der betrieblichen Situation abgeleitet und aufeinander abgestimmt sein sowie eigenständige Lösungen ermöglichen.
 
-(6) In der Prüfung hat die zu prüfende Person nachzuweisen, dass sie in der Lage ist, In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(6) In der Prüfung hat die zu prüfende Person nachzuweisen, dass sie in der Lage ist,
 
-1.
+1. die Bilanzierung und Bewertung nach den in der Europäischen Union geltenden International Financial Reporting Standards und International Accounting Standards durchzuführen,
 
-2.
+2. alle weiteren erforderlichen Teile eines Abschlusses nach den jeweils geltenden Standards zu erstellen, unter Verwendung der englischsprachigen Fachbegriffe darzustellen und die Abschlüsse nach den anerkannten Methoden zu analysieren und
 
-3.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-12.
-
-13.
+3. außensteuerliche Sachverhalte sowie Sachverhalte der internationalen Finanzierung und des internationalen Zahlungsverkehrs zu bearbeiten.
 
 (7) Jede Prüfungsleistung ist mit Punkten nach Maßgabe der Anlage 1 zu bewerten; die Prüfung ist bestanden, wenn in jeder Prüfungsleistung jeweils mindestens 50 Punkte erreicht worden sind.
 
@@ -346,46 +310,40 @@ Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom schriftlichen Tei
 
 (1) Nach der Bilanzbuchhalterprüfungsverordnung vom 26. Oktober 2015 (BGBl. I S. 1819), die durch Artikel 76 der Verordnung vom 9. Dezember 2019 (BGBl. I S. 2153) geändert worden ist, begonnene Prüfungsverfahren sind nach den Vorschriften der vorstehend bezeichneten Verordnung zu Ende zu führen. Die zuständige Stelle hat auf Antrag der zu prüfenden Person eine erforderliche Wiederholungsprüfung nach dieser Verordnung durchzuführen. § 12 Absatz 3 findet in diesem Fall Anwendung, wenn in jeder der drei Aufgabenstellungen der schriftlichen Prüfung mindestens 50 Punkte erreicht worden sind.
 
-(2) Bei einer Anmeldung zur Prüfung ab dem 1. Januar 2020 hat die zuständige Stelle auf Antrag der zu prüfenden Person die Prüfung nach dieser Verordnung durchzuführen. Nach der in Absatz 1 Satz 1 bezeichneten Bilanzbuchhalterprüfungsverordnung erfolgreich abgelegte Prüfungsbestandteile sind auf die nach dieser Verordnung erforderlichen Prüfungsbestandteile anzurechnen. Die schriftliche Prüfung wird dabei nur angerechnet, wenn in jeder der drei Aufgabenstellungen der schriftlichen Prüfung mindestens 50 Punkte erreicht worden sind.
-
 ### § 16 — Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Bilanzbuchhalterprüfungsverordnung vom 26. Oktober 2015 (BGBl. I S. 1819), die durch Artikel 76 der Verordnung vom 9. Dezember 2019 (BGBl. I S. 2153) geändert worden ist, außer Kraft.
+Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Bilanzbuchhalterprüfungsverordnung vom 26. Oktober 2015 (BGBl. I S. 1819), die durch Artikel 76 der Verordnung vom 9. Dezember 2019 (BGBl. I S. 2153) geändert worden ist, außer Kraft.
 
 ### Anlage 1 — (zu den §§ 9, 10 und 14)
 
 ### Anlage 2 — (zu den §§ 11 und 14)
 
-Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
 
-1.
+2. Name und Geburtsdatum der geprüften Person,
 
-2.
+3. Datum des Bestehens der Prüfung,
 
-3.
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 2 Absatz 5,
 
-4.
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
 
-5.
-
-6.
-
-Teil B – Zeugnis mit Prüfungsergebnissen:
+6. Datum der Ausstellung des Zeugnisses samt Faksimile oder Unterschrift einer zeichnungsberechtigten Person der zuständigen Stelle.
 
 Alle Angaben des Teils A sowie zusätzlich:
 
-1.
+1. Angabe der Handlungsbereiche nach § 4 Absatz 2,
 
-2.
+2. Angabe der Prüfungsergebnisse der drei schriftlichen Aufgabenstellungen in der schriftlichen Prüfung,
 
-3.
+3. Angabe der Prüfungsergebnisse der Präsentation und des Fachgesprächs in der mündlichen Prüfung,
 
-4.
+4. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
 
-5.
+5. die Gesamtnote als Dezimalzahl,
 
-6.
+6. die Gesamtnote in Worten,
 
-7.
+7. Befreiungen nach § 8,
 
-8.
+8. Bescheinigung der Befreiung vom schriftlichen Teil der Prüfung nach der Ausbilder-Eignungsverordnung nach § 13.

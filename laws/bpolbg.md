@@ -22,51 +22,35 @@ Auf die Polizeivollzugsbeamten finden die für Bundesbeamte allgemein geltenden 
 
 (1) Für die in § 1 bezeichneten Polizeivollzugsbeamten bestehen folgende Laufbahnen:
 
-1.
+1. in der Bundespolizei:a)die Laufbahn des mittleren Polizeivollzugsdienstes,b)die Laufbahn des gehobenen Polizeivollzugsdienstes,c)die Laufbahn des höheren Polizeivollzugsdienstes; die Laufbahn des mittleren Polizeivollzugsdienstes, die Laufbahn des gehobenen Polizeivollzugsdienstes, die Laufbahn des höheren Polizeivollzugsdienstes;
 
-a)
+2. im kriminalpolizeilichen Vollzugsdienst des Bundes:a)die Laufbahn des gehobenen Kriminaldienstes,b)die Laufbahn des höheren Kriminaldienstes; die Laufbahn des gehobenen Kriminaldienstes, die Laufbahn des höheren Kriminaldienstes;
 
-b)
-
-c)
-
-2.
-
-a)
-
-b)
-
-3.
-
-a)
-
-b)
-
-c)
+3. beim Deutschen Bundestag:a)die Laufbahn des mittleren Polizeivollzugsdienstes,b)die Laufbahn des gehobenen Polizeivollzugsdienstes,c)die Laufbahn des höheren Polizeivollzugsdienstes. die Laufbahn des mittleren Polizeivollzugsdienstes, die Laufbahn des gehobenen Polizeivollzugsdienstes, die Laufbahn des höheren Polizeivollzugsdienstes.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates allgemeine Vorschriften für die Laufbahnen zu erlassen, insbesondere Vorschriften über
 
-1.
+1. die Gestaltung der Laufbahnen, einschließlich der regelmäßig zu durchlaufenden Ämter,
 
-2.
+2. die Festlegung von Altersgrenzen,
 
-3.
+3. den Erwerb der Laufbahnbefähigung,
 
-4.
+4. die Grundsätze der Fortbildung,
 
-5.
+5. die Voraussetzungen und das Verfahren für den Aufstieg und
 
-6.
+6. die Voraussetzungen für den Laufbahnwechsel.
 
 (3) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates besondere Vorschriften für die einzelnen Laufbahnen und Vorbereitungsdienste zu erlassen, insbesondere Vorschriften über
 
-1.
+1. das Auswahlverfahren für die Einstellung in den Vorbereitungsdienst,
 
-2.
+2. den Ablauf des Vorbereitungsdienstes, insbesondere über dessen Inhalte und Dauer,
 
-3.
+3. die Prüfung und das Prüfungsverfahren, einschließlich der Prüfungsnoten, sowie
 
-4.
+4. die Folgen der Nichtteilnahme an Prüfungen und die Folgen von Ordnungsverstößen.
 
 ### § 4 — Polizeidienstunfähigkeit
 
@@ -79,8 +63,6 @@ c)
 ### § 5 — Ruhestand wegen Erreichens der Altersgrenze
 
 (1) Polizeivollzugsbeamte auf Lebenszeit treten mit dem Ende des Monats in den Ruhestand, in dem sie das 62. Lebensjahr vollenden.
-
-(2) Polizeivollzugsbeamte auf Lebenszeit, die vor dem 1. Januar 1952 geboren sind, treten mit dem Ende des Monats in den Ruhestand, in dem sie das 60. Lebensjahr vollenden. Für Polizeivollzugsbeamte, die nach dem 31. Dezember 1951 geboren sind, wird die Altersgrenze wie folgt angehoben:
 
 (3) § 147 Absatz 2 des Bundesbeamtengesetzes gilt entsprechend.
 
@@ -138,8 +120,6 @@ Hat ein Polizeivollzugsbeamter, der sich zum Eintritt in die Bundespolizei verpf
 -
 
 ### § 14 — Verweisungen und Bezeichnungen in anderen Vorschriften
-
-Wird in anderen Vorschriften auf Vorschriften und Bezeichnungen verwiesen, die durch dieses Gesetz geändert worden oder weggefallen sind, treten an ihre Stelle die Vorschriften und Bezeichnungen nach den geänderten Vorschriften.
 
 ### § 15 — Verwaltungsvorschriften
 

@@ -18,25 +18,15 @@
 
 (2) Das Bundesamt unterstützt das Bundesministerium der Justiz und für Verbraucherschutz bei der
 
-1.
+1. Durchführung der Verkündungen und Bekanntmachungen,
 
-2.
+2. Durchführung der automatisierten Normendokumentation,
 
-3.
+3. europäischen und internationalen rechtlichen Zusammenarbeit, insbesonderea)auf dem Gebiet der Rechtshilfe in Zivilsachen,b)auf dem Gebiet der Auslieferung, der Vollstreckungshilfe und sonstigen Rechtshilfe in Strafsachen,c)im Rahmen der Aufgaben als nationale Kontaktstelle im Bereich der internationalen Rechtshilfe in Strafsachen, insbesondere als eine der nationalen Kontaktstellen des Europäischen Justiziellen Netzes,d)als Vermögensabschöpfungsstelle; § 9 Absatz 6 des Bundeskriminalamtgesetzes gilt entsprechend,e)in Fragen der Vereinfachung des internationalen Rechtsverkehrs, auf dem Gebiet der Rechtshilfe in Zivilsachen, auf dem Gebiet der Auslieferung, der Vollstreckungshilfe und sonstigen Rechtshilfe in Strafsachen, im Rahmen der Aufgaben als nationale Kontaktstelle im Bereich der internationalen Rechtshilfe in Strafsachen, insbesondere als eine der nationalen Kontaktstellen des Europäischen Justiziellen Netzes, als Vermögensabschöpfungsstelle; § 9 Absatz 6 des Bundeskriminalamtgesetzes gilt entsprechend, in Fragen der Vereinfachung des internationalen Rechtsverkehrs,
 
-a)
+4. Durchführung der Justizforschung, der kriminologischen Forschung und auf dem Gebiet der Kriminalprävention,
 
-b)
-
-c)
-
-d)
-
-e)
-
-4.
-
-5.
+5. Wahrnehmung der Aufgaben des Verbraucherschutzes, insbesondere bei der Verbraucherrechtsdurchsetzung
 
 (3) Das Bundesamt erledigt weitere Aufgaben des Bundes, die mit den in den Absätzen 1 und 2 genannten Gebieten zusammenhängen und mit deren Durchführung es vom Bundesministerium der Justiz und für Verbraucherschutz oder mit dessen Zustimmung von der fachlich zuständigen Bundesbehörde beauftragt wird.
 
@@ -54,13 +44,13 @@ Soweit das Bundesamt Aufgaben aus einem anderen Geschäftsbereich als dem des Bu
 
 (3) Soweit ein Recht auf Akteneinsicht besteht, kann das Bundesamt Akteneinsicht in elektronisch geführte Akten dadurch gewähren, dass es
 
-1.
+1. einen Aktenausdruck zur Verfügung stellt,
 
-2.
+2. die elektronischen Dokumente auf einem Bildschirm wiedergibt,
 
-3.
+3. die elektronischen Dokumente übermittelt oder
 
-4.
+4. den elektronischen Zugriff auf den Inhalt der Akten gestattet.
 
 ### § 5 — Digitalisierung von Dokumenten
 
@@ -78,13 +68,13 @@ Soweit das Bundesamt Aufgaben aus einem anderen Geschäftsbereich als dem des Bu
 
 (3) Sichere Übermittlungswege sind:
 
-1.
+1. der Postfach- und Versanddienst eines De-Mail-Kontos, wenn der Absender bei Versand der Nachricht gemäß § 4 Absatz 1 Satz 2 des De-Mail-Gesetzes angemeldet ist und er sich die sichere Anmeldung gemäß § 5 Absatz 5 desDe-Mail-Gesetzes bestätigen lässt,
 
-2.
+2. der Übermittlungsweg zwischen den besonderen elektronischen Anwaltspostfächern nach den §§ 31a und 31b der Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen Postfach und der elektronischen Poststelle des Bundesamts,
 
-3.
+3. der Übermittlungsweg zwischen dem besonderen elektronischen Notarpostfach nach § 78n der Bundesnotarordnung und der elektronischen Poststelle des Bundesamts,
 
-4.
+4. der Übermittlungsweg zwischen einem besonderen elektronischen Behördenpostfach nach § 6 der Elektronischer-Rechtsverkehr-Verordnung und der elektronischen Poststelle des Bundesamts.
 
 (4) Das Bundesamt kann elektronische Dokumente versenden, wenn die empfangende Stelle hierfür einen Zugang eröffnet hat.
 
@@ -92,22 +82,16 @@ Soweit das Bundesamt Aufgaben aus einem anderen Geschäftsbereich als dem des Bu
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz kann, um die elektronische Aktenführung und die Digitalisierung von Dokumenten beim Bundesamt sowie die elektronische Kommunikation mit dem Bundesamt näher auszugestalten, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
-1.
+1. Bestimmungen zur elektronischen Aktenführung nach § 4 Absatz 1 und 2 treffen,
 
-2.
+2. Bestimmungen zur notwendigen Form der elektronischen Dokumente für die Übermittlung an das Bundesamt und für die Bearbeitung durch das Bundesamt treffen,
 
-3.
+3. andere sichere Übermittlungswege als nach § 6 Absatz 3 bestimmen,
 
-4.
+4. die Standards für die Erstellung und für die Übertragung von elektronischen Dokumenten durch das Bundesamt vorgeben,
 
-5.
+5. die Einführung elektronischer Formulare zulassen und hierbei a)bestimmen, dass die in diesen Formularen enthaltenen Angaben ganz oder teilweise in strukturierter und maschinenlesbarer Form zu übermitteln sind,b)eine Kommunikationsplattform vorgeben, auf der die Formulare im Internet zur Nutzung bereitzustellen sind, undc)bestimmen, dass für sämtliche oder einzelne elektronische Formulare eine Identifikation des Formularverwenders durch Nutzung des elektronischen Identitätsnachweises (§ 18 des Personalausweisgesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes) erfolgen kann, sowie bestimmen, dass die in diesen Formularen enthaltenen Angaben ganz oder teilweise in strukturierter und maschinenlesbarer Form zu übermitteln sind, eine Kommunikationsplattform vorgeben, auf der die Formulare im Internet zur Nutzung bereitzustellen sind, und bestimmen, dass für sämtliche oder einzelne elektronische Formulare eine Identifikation des Formularverwenders durch Nutzung des elektronischen Identitätsnachweises (§ 18 des Personalausweisgesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes) erfolgen kann, sowie
 
-a)
-
-b)
-
-c)
-
-6.
+6. Regelungen zur Erteilung von Abschriften und beglaubigten Abschriften treffen.
 
 (2) Das Bundesministerium der Justiz und für Verbraucherschutz kann die Ermächtigungen des Absatzes 1 durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das Bundesamt übertragen.

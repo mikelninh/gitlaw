@@ -15,45 +15,39 @@ Das Bundesamt für Seeschifffahrt und Hydrographie verordnet auf Grund des § 15
 
 ### § 1 — Anwendungsbereich
 
-Für die im Flächenentwicklungsplan vom 18. Dezember 2020 festgelegten Flächen N-3.5, N-3.6 und N-7.2 in der deutschen ausschließlichen Wirtschaftszone der Nordsee werden durch diese Verordnung
+Für die im Flächenentwicklungsplan vom 18. Dezember 2020
 
-1.
+1. die Eignung nach § 12 Absatz 5 Satz 1 des Windenergie-auf-See-Gesetzes vom 13. Oktober 2016 (BGBl. I S. 2258, 2310), das zuletzt durch Artikel 12a des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, festgestellt,
 
-2.
+2. Vorgaben für das spätere Vorhaben nach § 12 Absatz 5 Satz 2 und 3 des Windenergie-auf-See-Gesetzes festgelegt und
 
-3.
+3. die auf den Flächen zu installierende Leistung nach § 12 Absatz 5 Satz 1 in Verbindung mit § 10 Absatz 3 des Windenergie-auf-See-Gesetzes festgestellt.
 
 ### § 2 — Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist oder sind
 
-1.
+1. „Abfälle“ Abfälle im Sinne des § 3 Absatz 1 des Kreislaufwirtschaftsgesetzes vom 24. Februar 2012 (BGBl. I S. 212), das zuletzt durch Artikel 20 des Gesetzes vom 10. August 2021 (BGBl. I S. 3436) geändert worden ist,
 
-2.
+2. „Anlage“ eine Einrichtung im Sinne des § 44 Absatz 1 des Windenergie-auf-See-Gesetzes mit Ausnahme von Konverterplattformen und Offshore-Anbindungsleitungen,
 
-3.
+3. Basisaufnahmen die der Umweltverträglichkeitsstudie für das Planfeststellungsverfahren zur Errichtung und zum Betrieb eines Offshore-Windparks zugrundeliegenden Untersuchungen gemäß dem „Standard Untersuchung der Auswirkungen von Offshore-Windenergieanlagen auf die Meeresumwelt“,
 
-4.
+4. „Emissionen“ unmittelbar oder mittelbar der Meeresumwelt zugeführte Stoffe oder Energie, etwa Wärme, Schall, Erschütterung, Licht, elektrische oder elektromagnetische Strahlung,
 
-5.
+5. „FATO“ die festgelegte Endanflug- und Startfläche, über der das Endanflugverfahren zum Schweben oder Landen eines Luftfahrzeugs beendet wird und von der das Startverfahren eines Luftfahrzeugs begonnen wird,
 
-6.
+6. „Flugkorridor“ der Bereich des Luftraums, der für den Anflug auf und den Abflug von Offshore-Plattformen durch Hubschrauber genutzt wird,
 
-7.
+7. „Fundmunition“ Fundmunition im Sinne des § 3 Absatz 1 Nummer 16 des Sprengstoffgesetzes in der Fassung der Bekanntmachung vom 10. September 2002 (BGBl. I S. 3518), das zuletzt durch Artikel 232 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist,
 
-8.
+8. „MARPOL“ das Internationale Übereinkommen zur Verhütung der Meeresverschmutzung durch Schiffe mit seinen sechs Anlagen (BGBl. 1977 II, S. 1492),
 
-9.
+9. „Offshore-Plattform“ eine Anlage im Sinne der Nummer 2, die eine künstliche Standfläche im Meer mit allen erforderlichen Infrastrukturkomponenten und Sicherheitsausrüstungen unabhängig von ihrer Konstruktionsform und der Art ihrer Nutzung, aber keine Windenergieanlage ist,
 
-10.
+10. „TLOF“ die festgelegte Aufsetz- und Abhebefläche, auf der ein Hubschrauber aufsetzen oder von der ein Hubschrauber abheben kann; dabei sind auf einem Hubschrauberlandedeck FATO und TLOF deckungsgleich,
 
-11.
-
-a)
-
-b)
-
-c)
+11. „Träger des Vorhabens“ unbeschadet der Regelung des § 56 des Windenergie-auf-See-Gesetzes a)die natürliche oder juristische Person, die in der Ausschreibung der Bundesnetzagentur nach § 23 des Windenergie-auf-See-Gesetzes den Zuschlag und damit nach § 24 des Windenergie-auf-See-Gesetzes das Recht erhält, ein Planfeststellungsverfahren auf der jeweiligen Fläche zu führen,b)der Adressat des Planfeststellungsbeschlusses oder der Plangenehmigung im Sinne des § 56 Absatz 1 Nummer 1 des Windenergie-auf-See-Gesetzes oderc)der Rechtsnachfolger der natürlichen oder juristischen Person nach Buchstabe a oder Buchstabe b. die natürliche oder juristische Person, die in der Ausschreibung der Bundesnetzagentur nach § 23 des Windenergie-auf-See-Gesetzes den Zuschlag und damit nach § 24 des Windenergie-auf-See-Gesetzes das Recht erhält, ein Planfeststellungsverfahren auf der jeweiligen Fläche zu führen, der Adressat des Planfeststellungsbeschlusses oder der Plangenehmigung im Sinne des § 56 Absatz 1 Nummer 1 des Windenergie-auf-See-Gesetzes oder der Rechtsnachfolger der natürlichen oder juristischen Person nach Buchstabe a oder Buchstabe b.
 
 ## Kapitel 1: Eignungsfeststellung
 
@@ -65,11 +59,7 @@ Die im Flächenentwicklungsplan vom 18. Dezember 2020 festgelegten Flächen N-3.
 
 ### § 4 — Monitoring
 
-(1) Der Träger des Vorhabens hat während der Bauphase und mindestens während der drei ersten Jahre des Betriebes der Anlagen ein Monitoring zu den bau- und betriebsbedingten Auswirkungen der Anlagen als Grundlage für durch die Planfeststellungsbehörde oder das Bundesamt für Seeschifffahrt und Hydrographie als zuständige Überwachungsbehörde gegebenenfalls anzuordnenden Maßnahmen zum Schutz der Meeresumwelt nach § 48 Absatz 4 Satz 1 Nummer 1 des Windenergie-auf-See-Gesetzes oder nach § 57 Absatz 2, 3 oder Absatz 5 des Windenergie-auf-See-Gesetzes durchzuführen.
-
 (2) Als Grundlage für das Monitoring ist das Ergebnis der Basisaufnahme auf der Grundlage der Ergebnisse eines vor Baubeginn durchzuführenden dritten Untersuchungsjahres zu aktualisieren, wenn zwischen dem Ende der Basisaufnahme und dem Baubeginn nicht mehr als fünf Jahre liegen. Liegen zwischen dem Ende der Basisaufnahme und dem Baubeginn mehr als fünf Jahre, so ist die Basisaufnahme vor Baubeginn vollständig zu wiederholen. Die dazu gemäß Abschnitt 10.1 des „Standard Untersuchung der Auswirkungen von Offshore-Windenergieanlagen auf die Meeresumwelt“ bestehende Möglichkeit, einen Antrag auf Verkürzung der Untersuchungen zu stellen, bleibt unberührt.
-
-(3) Die Untersuchungen der Meeresumwelt sind nach dem Stand der Wissenschaft und Technik durchzuführen. Die Einhaltung des Stands der Wissenschaft und Technik wird vermutet, wenn die Untersuchungen unter Beachtung des „Standard Untersuchung der Auswirkungen von Offshore-Windenergieanlagen auf die Meeresumwelt“ durchgeführt werden.
 
 ### § 5 — Verlegung und Dimensionierung von parkinternen Seekabelsystemen
 
@@ -83,25 +73,23 @@ Die im Flächenentwicklungsplan vom 18. Dezember 2020 festgelegten Flächen N-3.
 
 (2) Hierfür hat der Träger des Vorhabens insbesondere
 
-1.
+1. die Anlagen in einer Weise zu planen und umzusetzen, dass weder bei der Errichtung noch bei dem Betrieb nach dem Stand der Technik vermeidbare Emissionen verursacht werden oder, soweit die Verursachung von Emissionen durch die zur Erfüllung der Sicherheitsanforderungen des Schiffs- und Luftverkehrs zwingend gebotenen Handlungen unvermeidlich ist, möglichst geringe Beeinträchtigungen der Meeresumwelt hervorgerufen werden,
 
-2.
+2. zum Betrieb der Anlage möglichst umweltverträgliche Betriebsstoffe einzusetzen und biologisch abbaubare Betriebsstoffe, soweit verfügbar, zu bevorzugen,
 
-3.
+3. sämtliche auf der Anlage eingesetzten technischen Installationen durch bauliche Sicherheitssysteme und -maßnahmen nach dem Stand der Technik so abzusichern und so zu überwachen, dass Schadstoffunfälle und Umwelteinträge vermieden werden und dass im Schadensfall sichergestellt ist, dass der Träger des Vorhabens jederzeit unmittelbar eingreifen kann, sowie
 
-4.
+4. für Betriebsstoffwechsel und Betankungsmaßnahmen organisatorische und technische Vorsichtsmaßnahmen zu treffen, um Schadstoffunfälle und Umwelteinträge zu vermeiden.
 
 ### § 7 — Vermeidung von Schallemissionen bei der Gründung, der Installation und dem Betrieb von Anlagen
 
 (1) Bei der Gründung und Installation einer Anlage hat der Träger des Vorhabens diejenige Arbeitsmethode nach dem Stand der Technik anzuwenden, die nach den vorgefundenen Umständen so geräuscharm wie möglich ist.
 
-(2) Die durch Rammarbeiten verursachten Schallemissionen dürfen für den Schalldruck den Wert von 160 Dezibel und für den Spitzenschalldruckpegel den Wert von 190 Dezibel in einer Entfernung von 750 Metern nicht überschreiten.
-
 (3) Bei Rammarbeiten ist die Dauer des Rammvorgangs einschließlich der Vergrämung auf ein Mindestmaß zu begrenzen.
 
 (4) Der Träger des Vorhabens hat diejenige Anlagenkonstruktion zu wählen, die nach dem Stand der Technik so betriebsschallarm wie möglich ist.
 
-(5) Sprengungen sind unzulässig. § 38 Absatz 2 Satz 3 und 4 bleiben unberührt.
+(5) Sprengungen sind unzulässig. § 38 Absatz 2 Satz 3 und 4 bleiben unberührt.
 
 ### § 8 — Zeitliche Koordination von Rammarbeiten
 
@@ -137,13 +125,13 @@ Zur Anlagenkühlung soll ein geschlossenes Kühlsystem eingesetzt werden, bei de
 
 (3) Auf einer dauerhaft bemannten Offshore-Plattform ist eine Abwasserbehandlungsanlage entgegen Absatz 2 im Einzelfall zulässig, insbesondere dann, wenn die mit dem Verbringen des Abwassers an Land verbundenen negativen Auswirkungen auf die Meeresumwelt die mit dem Einleiten des behandelten Abwassers verbundenen Auswirkungen übersteigen. Der Nachweis, dass ein Einzelfall nach Satz 1 vorliegt, ist durch den Träger des Vorhabens im Rahmen des Planfeststellungsverfahrens zu führen. Die Abwasserbehandlungsanlage muss dem Stand der Technik entsprechen.
 
-(4) Bei nach Absatz 3 zulässigen Abwasserbehandlungsanlagen hat der Träger des Vorhabens Die Chlorierung von Abwässern ist nicht zulässig.
+(4) Bei nach Absatz 3 zulässigen Abwasserbehandlungsanlagen hat der Träger des Vorhabens
 
-1.
+1. sämtliches Abwasser aus sanitären Einrichtungen, Sanitätseinrichtungen, Küchen und Wäschereien zu behandeln,
 
-2.
+2. geeignete Probenahmestellen an Zu- und Ablauf vorzusehen und
 
-3.
+3. das Abwasser regelmäßig zu beproben und zu analysieren.
 
 ### § 13 — Ölgehalt des Drainagewassers
 
@@ -183,11 +171,11 @@ Zur Anlagenkühlung soll ein geschlossenes Kühlsystem eingesetzt werden, bei de
 
 (1) Der Träger des Vorhabens hat die Anlagen bis zu ihrer Entfernung aus dem Seegebiet nach den geltenden Regelwerken der Wasserstraßen- und Schifffahrtsverwaltung des Bundes und nach dem Stand der Technik mit Einrichtungen auszustatten, die die Sicherheit des Schiffs- und Luftverkehrs gewährleisten. Die Einhaltung des Stands der Technik wird vermutet, wenn bei der Planung, der Realisierung und im Normalbetrieb der visuellen und funktechnischen Kennzeichnung der Einrichtungen des Offshore-Windparks die folgenden Regelwerke eingehalten werden:
 
-1.
+1. „Richtlinie Offshore-Anlagen zur Gewährleistung der Sicherheit und Leichtigkeit des Schiffsverkehrs“,
 
-2.
+2. „WSV-Rahmenvorgaben Kennzeichnung Offshore-Anlagen“ und
 
-3.
+3. Recommendation O-139 „The Marking of Man-Made Offshore Structures“ und Recommendation A-126 „The Use of the Automatic Identification System (AIS) in Marine Aids to Navigation Services“ der International Association of Marine Aids to Navigation and Lighthouse Authorities.
 
 (2) Bei der Errichtung weiterer Offshore-Windparks unmittelbar angrenzend an die Fläche hat der Träger des Vorhabens die Kennzeichnung zur Sicherung des Schiffs- und Luftverkehrs nach Absatz 1 in Abstimmung mit den Trägern der angrenzenden Vorhaben entsprechend der gesamten Bebauungssituation im Verkehrsraum anzupassen.
 
@@ -197,35 +185,23 @@ Zur Anlagenkühlung soll ein geschlossenes Kühlsystem eingesetzt werden, bei de
 
 ### § 18 — Seeraumbeobachtung
 
-Der Träger des Vorhabens hat eine Seeraumbeobachtung für die Fläche nach dem Stand der Technik durchzuführen und die erforderlichen Maßnahmen zur Vermeidung von Kollisionen zu ergreifen. Die Einhaltung des Stands der Technik wird vermutet, wenn die Vorgaben der Durchführungsrichtlinie „Seeraumbeobachtung Offshore-Windparks“ des Bundesministeriums für Verkehr und digitale Infrastruktur eingehalten werden.
-
 ### § 19 — Bauweise
-
-(1) Der Träger des Vorhabens hat die Anlage nach dem Stand der Technik in einer Weise zu konstruieren und zu errichten, dass im Fall einer Schiffskollision der Schiffskörper so wenig wie möglich beschädigt wird. Die Einhaltung des Stands der Technik wird vermutet, wenn die Anforderungen des „Standard Konstruktion – Mindestanforderungen an die konstruktive Ausführung von Offshore-Bauwerken in der ausschließlichen Wirtschaftszone (AWZ)“ erfüllt werden.
 
 (2) Die Bebauung der Fläche soll zusammenhängend erfolgen. Die zu errichtenden Anlagen sollen sich in die Bebauungssituation des Gebiets, in dem die Fläche liegt, integrieren.
 
 ### § 20 — Verkehrssicherung während der Bauphase
 
-(1) Zur Sicherung des Umfeldes der Baustelle und zur Vermeidung von Kollisionen mit Schiffen hat der Träger des Vorhabens ab Installationsbeginn und soweit zu Verkehrssicherungszwecken erforderlich, bereits ab Beginn erforderlicher bauvorbereitender Maßnahmen und während der gesamten Bauphase ein Verkehrssicherungsfahrzeug im Baustellenumfeld einzusetzen, um bei Bedarf verkehrssichernde Maßnahmen ergreifen zu können. Das Verkehrssicherungsfahrzeug ist ausschließlich für diesen Zweck einzusetzen. Das Verkehrssicherungsfahrzeug und seine Nutzung haben dem Stand der Technik zu entsprechen. Die Einhaltung des Stands der Technik wird vermutet, wenn die Anforderungen an Verkehrssicherungsfahrzeuge der „Richtlinie Offshore-Anlagen zur Gewährleistung der Sicherheit und Leichtigkeit des Schiffsverkehrs“ erfüllt werden.
-
-(2) Bis zur Inbetriebnahme der regulären Kennzeichnung hat der Träger des Vorhabens die Anlagen nach dem Stand der Technik behelfsmäßig visuell und funktechnisch zu kennzeichnen. Die Einhaltung des Stands der Technik wird vermutet, wenn die Anforderungen an die behelfsmäßige visuelle Kennzeichnung und an die Automatic Identification System (AIS)-Kennzeichnung der „Richtlinie Offshore-Anlagen zur Gewährleistung der Sicherheit und Leichtigkeit des Schiffsverkehrs“ erfüllt werden.
-
-(3) Der Träger des Vorhabens hat das Baufeld nach dem Stand der Technik durch Auslegung befeuerter Kardinaltonnen als allgemeine Gefahrenstelle zu kennzeichnen. Die Einhaltung des Stands der Technik wird vermutet, wenn die Anforderungen an die Auslegung schwimmender Schifffahrtszeichen der „Richtlinie Offshore-Anlagen zur Gewährleistung der Sicherheit und Leichtigkeit des Schiffsverkehrs“ erfüllt werden.
-
 ### § 21 — Anforderungen an Fahrzeuge und Arbeitsgeräte
 
 Alle eingesetzten Arbeitsgeräte und Fahrzeuge einschließlich des Verkehrssicherungsfahrzeugs müssen
 
-1.
+1. in Bezug auf ihre Kennzeichnung und ihr Verkehrsverhalten der Verordnung zu den Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See vom 13. Juni 1977 (BGBl. I S. 813), die zuletzt durch Artikel 1 der Verordnung vom 7. Dezember 2021 (BGBl. I S. 5188) geändert worden ist, entsprechen,
 
-2.
+2. in Bezug auf Ausrüstung und Besatzung dem für die Bundesflagge erforderlichen oder einem nachweislich gleichen Sicherheitsstandard genügen.
 
 ### § 22 — Risikomindernde Maßnahmen zur Gewährleistung der Sicherheit und Leichtigkeit des Schiffsverkehrs
 
 (1) Zur Gewährleistung der Sicherheit und Leichtigkeit des Schiffsverkehrs kann die Planfeststellungsbehörde Maßnahmen, insbesondere die Vorhaltung zusätzlicher Schleppkapazität durch den Träger des Vorhabens, anordnen, um das Risiko für die Sicherheit und Leichtigkeit des Schiffsverkehrs zu mindern.
-
-(2) Der Träger des Vorhabens hat der Planfeststellungsbehörde als Grundlage für die Zulassungsentscheidung mit den Planunterlagen ein Gutachten einzureichen, welches die der Eignungsfeststellung nach dieser Verordnung zugrundeliegende flächenbezogene quantitative Risikoanalyse auf der Grundlage aktueller Zahlen zum Aufkommen des Schiffsverkehrs sowie gegebenenfalls anderer aktueller für die Risikobewertung wesentlicher Rahmenbedingungen aktualisiert. Auf der Grundlage dieses Gutachtens ordnet die Planfeststellungsbehörde die zur Gewährleistung der Sicherheit und Leichtigkeit des Schiffsverkehrs erforderlichen risikomindernden Maßnahmen an. Anderweitige Verpflichtungen zur Erweiterung, Aktualisierung oder Vertiefung von Untersuchungen nach § 45 Absatz 3 in Verbindung mit § 48 Absatz 2 Satz 3 und Absatz 4 Satz 1 Nummer 2 oder § 57 Absatz 2, 3 und 5 des Windenergie-auf-See-Gesetzes oder nach § 57 Absatz 2 und 3 des Windenergie-auf-See-Gesetzes bleiben unberührt.
 
 ## Unterabschnitt 4: Besondere Vorschriften für die Sicherheit und Leichtigkeit des Luftverkehrs
 
@@ -233,35 +209,35 @@ Alle eingesetzten Arbeitsgeräte und Fahrzeuge einschließlich des Verkehrssiche
 
 (1) Auf einer Windenergieanlage ist die Windenbetriebsfläche durch den Träger des Vorhabens nach den folgenden Vorschriften auszugestalten, zu kennzeichnen und zu betreiben:
 
-1.
+1. bis zum Inkrafttreten des „Standard Offshore-Luftfahrt für die deutsche ausschließliche Wirtschaftszone“ des Bundesministeriums für Digitales und Verkehr gemäß den Regelungen der „Gemeinsamen Grundsätze des Bundes und der Länder über Windenbetriebsflächen auf Windenergieanlagen“ vom 18. Januar 2012 (BAnz. Nr. 16, S. 338),
 
-2.
+2. nach dem Inkrafttreten des „Standard Offshore-Luftfahrt für die deutsche ausschließliche Wirtschaftszone“ des Bundesministeriums für Digitales und Verkehr gemäß dessen Bestimmungen.
 
 (2) Auf einer Offshore-Plattform kann eine Windenbetriebsfläche für den Notfall als Rettungsfläche eingerichtet werden. Ihre Nutzung ist grundsätzlich auf die Abwehr von Gefahren für Leib und Leben von Personen (Notfall) oder auf erforderliche hoheitliche Maßnahmen beschränkt.
 
 (3) Eine über Absatz 2 hinausgehende Nutzung der Windenbetriebsfläche als Rettungsfläche auf einer Offshore-Plattform ist ausnahmsweise zulässig, wenn bei einem technischen Störfall
 
-1.
+1. das Gefahrenpotential innerhalb eines kurzen Zeitraums reduziert werden muss, um den Eintritt eines Notfalls zu verhindern,
 
-2.
+2. eine Einflussnahme von Land aus nicht möglich ist oder eingeleitete Gegenmaßnahmen ohne Erfolg geblieben sind und
 
-3.
+3. temporär keine geeigneteren Zugangsmöglichkeiten zur Offshore-Plattform zur Verfügung stehen.
 
 (4) Ein Regelzugang von Personen zur Offshore-Plattform mittels Hubschrauberwindenbetrieb ist nicht gestattet.
 
 (5) Eine Windenbetriebsfläche für den Notfall als Rettungsfläche einer Offshore-Plattform ist durch den Träger des Vorhabens nach den folgenden Vorschriften auszugestalten und zu kennzeichnen:
 
-1.
+1. bis zum Inkrafttreten des „Standard Offshore-Luftfahrt für die deutsche ausschließliche Wirtschaftszone“ des Bundesministeriums für Digitales und Verkehr gemäß Kapitel 7 des ICAO-Dokuments 9261 Leitfaden für Hubschrauberlandeplätze in der Fassung von 2021 zu Anhang 14 Band II zum Abkommen über die Internationale Zivilluftfahrt vom 7. Dezember 1944 (BGBl. 1956 II S. 411, 412), das zuletzt durch die Protokolle vom 6. Oktober 2016 (BGBl. 2018 II S. 306, 307) geändert worden ist,
 
-2.
+2. nach dem Inkrafttreten des „Standard Offshore-Luftfahrt für die deutsche ausschließliche Wirtschaftszone“ des Bundesministeriums für Digitales und Verkehr gemäß dessen Bestimmungen.
 
 ### § 24 — Hubschrauberlandedeck
 
 (1) Wenn ein Hubschrauberlandedeck auf einer Offshore-Plattform des Offshore-Windparks eingerichtet wird, sind für dessen Einrichtung und Betrieb die folgenden Vorschriften einzuhalten:
 
-1.
+1. bis zum Inkrafttreten des „Standard Offshore-Luftfahrt für die deutsche ausschließliche Wirtschaftszone“ des Bundesministeriums für Digitales und Verkehr die Regelungen des Anhangs 14 Band II zum Abkommen über die Internationale Zivilluftfahrt in seiner jeweils geltenden Fassung,
 
-2.
+2. nach dem Inkrafttreten des „Standard Offshore-Luftfahrt für die deutsche ausschließliche Wirtschaftszone“ des Bundesministeriums für Digitales und Verkehr dessen Bestimmungen.
 
 (2) Der Träger des Vorhabens hat durch bauliche und betriebliche Maßnahmen den sicheren Betrieb des Hubschrauberlandedecks zu gewährleisten.
 
@@ -271,19 +247,19 @@ Alle eingesetzten Arbeitsgeräte und Fahrzeuge einschließlich des Verkehrssiche
 
 (2) Flugkorridore sind so zu planen, dass die im Flächenentwicklungsplan festgelegten benachbarten Flächen möglichst wenig beeinträchtigt werden. Die Anzahl der Flugkorridore ist so zu bemessen, dass jeweils ein sicherer Betrieb des Hubschrauberlandedecks gewährleistet ist.
 
-(3) Der Träger des Vorhabens hat sicherzustellen, dass dem Dritten entsprechend dem Absatz 1 die Einrichtung von Flugkorridoren auf der Fläche möglich ist, wenn durch die mit dem Offshore-Windpark des Trägers des Vorhabens geschaffenen Hindernisse Der Träger des Vorhabens hat sich hinsichtlich der Ausrichtung und Dimensionierung der Flugkorridore des Dritten mit diesem abzustimmen.
+(3) Der Träger des Vorhabens hat sicherzustellen, dass dem Dritten entsprechend dem Absatz 1 die Einrichtung von Flugkorridoren auf der Fläche möglich ist, wenn durch die mit dem Offshore-Windpark des Trägers des Vorhabens geschaffenen Hindernisse
 
-1.
+1. Hindernisbegrenzungsflächen eines Hubschrauberlandedecks einer im Flächenentwicklungsplan festgelegten Konverter- oder Umspannplattform eines Dritten beeinträchtigt werden können oder
 
-2.
+2. Hindernisbegrenzungsflächen eines in den Planunterlagen eines Planfeststellungsverfahrens zum Stand der ortsüblichen Bekanntmachung der Planauslegung nach § 73 Absatz 5 Satz 1 des Verwaltungsverfahrensgesetzes festgelegten Hubschrauberlandedecks eines Dritten beeinträchtigt werden können.
 
 (4) Befinden sich bereits Flugkorridore des Hubschrauberlandedecks eines Dritten auf der jeweiligen Fläche oder sind entsprechende Vorhaben bereits planfestgestellt, hat der Träger des Vorhabens für die betreffenden Bereiche die Hindernisfreiheit nach Absatz 5 und nach den Absätzen 8 bis 11 sicherzustellen.
 
-(5) Für die Einrichtung der Flugkorridore sind die folgenden Vorschriften einzuhalten: Die Flugkorridore sind grundsätzlich von jeglicher Bebauung oberhalb der Wasseroberfläche freizuhalten. In die Flugkorridore dürfen grundsätzlich keine Teile von Bauwerken hineinragen. In begründeten Ausnahmefällen kann die Errichtung von Hindernissen im Flugkorridor oder die Einrichtung eines Flugkorridors trotz vorhandener Hindernisse durch das Bundesamt für Seeschifffahrt und Hydrographie mit Zustimmung des Bundesministeriums für Digitales und Verkehr zugelassen werden. Flugkorridore dürfen nicht über die Grenzen der deutschen ausschließlichen Wirtschaftszone hinaus angelegt werden.
+(5) Für die Einrichtung der Flugkorridore sind die folgenden Vorschriften einzuhalten:
 
-1.
+1. bis zum Inkrafttreten des „Standard Offshore-Luftfahrt für die deutsche ausschließliche Wirtschaftszone“ des Bundesministeriums für Digitales und Verkehr die Regelungen der Sätze 2 bis 5 sowie der Absätze 6 bis 11,
 
-2.
+2. nach dem Inkrafttreten des „Standard Offshore-Luftfahrt für die deutsche ausschließliche Wirtschaftszone“ des Bundesministeriums für Digitales und Verkehr dessen Bestimmungen.
 
 (6) Die Korridorachse eines Flugkorridors zu oder von einer Offshore-Plattform soll derart ausgerichtet werden, dass An- und Abflüge mit Rückenwind vermieden und Querwindbedingungen minimiert werden können sowie ein sicheres Durchstarten möglich ist. Ein Flugkorridor ist auf seiner gesamten Länge geradlinig zu planen; dabei sind Überschneidungen mit benachbarten Flugkorridoren grundsätzlich nicht zulässig. Die jeweilige Korridorachse beginnt im Mittelpunkt der FATO.
 
@@ -291,25 +267,23 @@ Alle eingesetzten Arbeitsgeräte und Fahrzeuge einschließlich des Verkehrssiche
 
 (8) Die Länge des Flugkorridors ist entlang der jeweiligen Korridorachse auf Höhe der FATO zu bestimmen. Diese Strecke beginnt am Innenrand nach Absatz 10 Nummer 1 und endet an dem Punkt, an dem eine ebenfalls an dieser Stelle beginnende und mit einer konstanten Neigung von 4,5 Prozent ansteigende Gerade einen der folgenden Vertikalabstände von der Korridorachse aufweist, der größere der beiden Überhöhungswerte ist maßgeblich:
 
-1.
+1. eine Überhöhung von 152 Metern oder
 
-2.
+2. eine Überhöhung, die der Summe aus dem höchsten Hindernis in dem für den An- oder Abflug relevanten Bereich und einem Sicherheitszuschlag von mindestens 61 Metern entspricht.
 
 (9) Flugkorridore bestehen aus jeweils einem Innenkorridor und zwei diesen flankierenden Außenkorridoren.
 
 (10) Die Begrenzungen des Innenkorridors bestehen aus
 
-1.
+1. einem horizontalen Innenrand in der Breite der FATO, der am Außenrand der FATO beginnt und rechtwinklig zur Korridorachse verläuft,
 
-2.
+2. zwei Seitenrändern, die mit einer Divergenz von 15 Prozent bis zu einer Breite von 200 Metern auseinanderlaufen,
 
-3.
+3. einem horizontalen Außenrand, der in einer festgelegten Höhe relativ zur FATO rechtwinklig zur Korridorachse verläuft.
 
 (11) Die Breite der Außenkorridore beträgt jeweils mindestens 200 Meter. Besteht die Hinderniskulisse entlang der Flugkorridore aus Windenergieanlagen, so beträgt die Breite der beiden Außenkorridore jeweils drei Rotorradien der größten an den Flugkorridor angrenzenden Windenergieanlage, unabhängig davon, an welcher Flanke des Flugkorridors diese steht.
 
 ### § 26 — Turmanstrahlung
-
-(1) Wenn das Hubschrauberlandedeck nachts betrieben werden soll, hat der Träger des Vorhabens die eigenen Windenergieanlagen entlang der Flugkorridore mit einer Turmanstrahlung gemäß den „WSV-Rahmenvorgaben Kennzeichnung Offshore-Anlagen“ zu versehen. Es sind Vorkehrungen zu treffen, die die Aktivierung und Deaktivierung der Turmanstrahlung zusammen mit der übrigen aeronautischen Befeuerung des Hubschrauberlandedecks sicherstellen.
 
 (2) Soweit Flugkorridore Dritter in der Fläche liegen oder unmittelbar an diese angrenzen, hat der Träger des Vorhabens die Installation von Turmanstrahlungen an den betroffenen Windenergieanlagen zu dulden und den Fernzugriff zum Zweck der Steuerung der Turmanstrahlung zu ermöglichen. Dem Dritten ist als Betreiber der Turmanstrahlung zum Zweck des geregelten Betriebs, zur Wartung während der üblichen Betriebs- und Geschäftszeiten und zur Störungsbehebung Zugang zu den betreffenden Windenergieanlagen zu gewähren, soweit keine anderweitigen Vereinbarungen über Wartung und Betrieb einschließlich der Störungsbehebung getroffen wurden.
 
@@ -317,15 +291,15 @@ Alle eingesetzten Arbeitsgeräte und Fahrzeuge einschließlich des Verkehrssiche
 
 Der Träger des Vorhabens hat die Anlagen als Luftfahrthindernisse sowie sonstige Hindernisse in der Umgebung des Hubschrauberlandedecks gemäß den folgenden Vorschriften zu kennzeichnen:
 
-1.
+1. bis zum Inkrafttreten des „Standard Offshore-Luftfahrt für die deutsche ausschließliche Wirtschaftszone“ des Bundesministeriums für Digitales und Verkehr gemäß dem „Standard Offshore-Luftfahrt, Teil 5: Kennzeichnung von Luftfahrthindernissen in der AWZ“ vom 17. August 2020,
 
-2.
+2. nach Inkrafttreten des „Standard Offshore-Luftfahrt für die deutsche ausschließliche Wirtschaftszone“ des Bundesministeriums für Digitales und Verkehr gemäß dessen Bestimmungen.
 
 ## Unterabschnitt 5: Sicherheit der Landes- und Bündnisverteidigung
 
 ### § 28 — Vorgaben zur Gewährleistung der Sicherheit der Landes- und Bündnisverteidigung
 
-(1) Der Träger des Vorhabens hat die errichteten Anlagen an geeigneten Eckpositionen mit Sonartranspondern zu kennzeichnen. § 17 Absatz 2 ist entsprechend anzuwenden.
+(1) Der Träger des Vorhabens hat die errichteten Anlagen an geeigneten Eckpositionen mit Sonartranspondern zu kennzeichnen. § 17 Absatz 2 ist entsprechend anzuwenden.
 
 (2) Der Träger des Vorhabens hat den Einsatz von akustischen, optischen, optronischen, magnetsensorischen, elektrischen, elektronischen, elektromagnetischen oder seismischen Sensoren in Messgeräten an unbemannten Unterwasserfahrzeugen oder an stationären Unterwasser-Messeinrichtungen auf das erforderliche Maß zu beschränken und rechtzeitig, mindestens jedoch 20 Werktage im Voraus, dem Marinekommando anzuzeigen.
 
@@ -371,8 +345,6 @@ Die Pflichten des Trägers des Vorhabens zur Gewährleistung der Sicherheit und 
 
 (3) Der Träger des Vorhabens hat die im Flächenentwicklungsplan festgelegten Trassen zur Anbindung von Konverterplattformen sowie einen Schutzbereich von 500 Metern beidseits dieser Trassen von einer Bebauung freizuhalten. Innerhalb des Schutzbereichs dürfen keine parkinternen Seekabelsysteme verlegt werden. Der Träger des Vorhabens hat sicherzustellen, dass die parkinternen Seekabelsysteme die Trasse derjenigen Anbindungsleitung des Übertragungsnetzbetreibers, die die jeweilige Fläche anbindet, nicht kreuzen.
 
-(4) In einem Schutzbereich von 1 000 Metern um den im Flächenentwicklungsplan festgelegten Standort der Konverterplattform des Netzbetreibers dürfen grundsätzlich keine Windenergieanlagen errichtet werden. Ausnahmen hiervon sind im Einvernehmen mit dem Netzbetreiber in einem Bereich von 500 bis 1 000 Metern um den Standort möglich. Arbeiten innerhalb des gesamten Schutzbereichs von 1 000 Metern dürfen nur im Einvernehmen mit dem Netzbetreiber erfolgen.
-
 ### § 35 — Abstand zu Windenergieanlagen benachbarter Flächen
 
 Die auf der Fläche zu errichtenden Windenergieanlagen müssen einen Abstand von mindestens dem Fünffachen des jeweils größeren Rotordurchmessers zu Windenergieanlagen jeder benachbarten Fläche einhalten. Die Planfeststellungsbehörde kann auf Antrag des Trägers des Vorhabens der jeweiligen Fläche einen geringeren Abstand zulassen, wenn der Träger des Vorhabens der benachbarten Fläche zustimmt und die Standsicherheit der Anlagen gewährleistet ist.
@@ -387,9 +359,9 @@ Nach § 24 Absatz 1 Nummer 3 des Windenergie-auf-See-Gesetzes besteht im Umfang 
 
 (1) Die Planung, die Errichtung, der Betrieb und der Rückbau sowie die Konstruktion und Ausstattung der Anlagen müssen dem Stand der Technik oder hilfsweise dem Stand von Wissenschaft und Technik entsprechen. Die Einhaltung des Stands der Technik oder des Stands von Wissenschaft und Technik wird für die dort geregelten Bereiche vermutet, wenn folgende Standards eingehalten werden:
 
-1.
+1. „Standard Konstruktion – Mindestanforderungen an die konstruktive Ausführung von Offshore-Bauwerken in der ausschließlichen Wirtschaftszone (AWZ)“,
 
-2.
+2. „Standard Baugrunderkundung – Mindestanforderungen an die Baugrunderkundung und -untersuchung für Offshore-Windenergieanlagen, Offshore-Stationen und Stromkabel“.
 
 (2) Der Träger des Vorhabens hat mindestens die Systeme, deren Ausfall oder Fehlfunktion die Integrität der Anlagen, die Sicherheit des Verkehrs oder die Meeresumwelt gefährden können, so auszuführen, dass bei einem Ausfall oder einer Fehlfunktion sowohl eine Überwachung als auch ein vollständiger Zugriff auch vom Land aus möglich sind.
 
@@ -406,10 +378,6 @@ Nach § 24 Absatz 1 Nummer 3 des Windenergie-auf-See-Gesetzes besteht im Umfang 
 ## Abschnitt 2: Besondere Vorgaben für die Fläche N-7.2
 
 ### § 39 — Besondere Bestimmungen zur Vereinbarkeit mit Kulturgütern
-
-(1) Um das Schiffswrack mit dem Wrackmittelpunkt 54°16.2354'N;006°18.5607'E; WGS84 ist eine Ausschlusszone mit einem Radius von 50 Metern um den Wrackmittelpunkt einzuhalten.
-
-(2) Um das Schiffswrack mit dem Wrackmittelpunkt 54°16.9768'N;006°15.8848'E; WGS84 ist eine Ausschlusszone mit einem Radius von 30 Metern um den Wrackmittelpunkt einzuhalten, bis eine nähere Einordnung der Wrackstelle möglich ist.
 
 (3) Die Planfeststellungsbehörde kann anordnen, dass der Träger des Vorhabens durch geeignete Maßnahmen und unter Einbindung von Denkmalschutz- und Denkmalfachbehörden sicherzustellen hat, dass weitere wissenschaftliche Untersuchungen und Dokumentationen der Kulturgüter und archäologischen Kulturgüter durchgeführt und die dazugehörigen Gegenstände entweder an Ort und Stelle oder durch Bergung erhalten und bewahrt werden können.
 

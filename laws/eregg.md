@@ -14,15 +14,15 @@
 
 (1) Dieses Gesetz regelt für Eisenbahnen im Sinne des Allgemeinen Eisenbahngesetzes
 
-1.
+1. die Struktur der Eisenbahnen,
 
-2.
+2. den Zugang zu den in Anlage 1 aufgeführten Eisenbahnanlagen,
 
-3.
+3. den Zugang zu Serviceeinrichtungen nach Anlage 2 Nummer 2,
 
-4.
+4. den Zugang zu Werksbahnen und
 
-5.
+5. die Erhebung von Entgelten für den Zugang zu Eisenbahnanlagen und, zu Serviceeinrichtungen und zu Werksbahnen.
 
 (2) Dieses Gesetz gilt für die Nutzung von Eisenbahnanlagen und Serviceeinrichtungen im inländischen und grenzüberschreitenden Eisenbahnverkehr.
 
@@ -34,9 +34,9 @@
 
 (4b) Wesentliche Funktionen des Betriebs von Eisenbahnanlagen sind
 
-1.
+1. Entscheidungen über die Zugtrassenzuweisung, einschließlich sowohl der Bestimmung als auch der Beurteilung der Verfügbarkeit und der Zuweisung von einzelnen Zugtrassen, und
 
-2.
+2. Entscheidungen über die Entgelte für die Nutzung von Eisenbahnanlagen, einschließlich ihrer Festlegung und Erhebung.
 
 (5) Betreiber der Personenbahnsteige ist jeder Betreiber von Eisenbahnanlagen, der für den Bau, den Betrieb, die Unterhaltung, die Instandhaltung und die Erneuerung von Personenbahnsteigen einschließlich der Zugangswege zu diesen Personenbahnsteigen zuständig ist.
 
@@ -56,15 +56,9 @@
 
 (12) Zugangsberechtigte sind
 
-1.
+1. Eisenbahnverkehrsunternehmen oder internationale Gruppierungen von Eisenbahnverkehrsunternehmen oder
 
-2.
-
-a)
-
-b)
-
-c)
+2. andere natürliche oder juristische Personen, insbesondere a)zuständige Behörden im Rahmen der Verordnung (EG) Nr. 1370/2007 des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über öffentliche Personenverkehrsdienste auf Schiene und Straße und zur Aufhebung der Verordnungen (EWG) Nr. 1191/69 und (EWG) Nr. 1107/70 des Rates (ABl. L 315 vom 3.12.2007, S. 1),b)Verlader, Spediteure und Unternehmen des kombinierten Verkehrs, die ein gemeinwirtschaftliches oder einzelwirtschaftliches Interesse am Erwerb von Schienenwegkapazität oder Kapazitäten in Serviceeinrichtungen haben; dazu gehören insbesondere Unternehmen, die Güter durch ein Eisenbahnverkehrsunternehmen befördern lassen wollen, sowiec)die nach § 1 Absatz 2 des Regionalisierungsgesetzes durch Landesrecht bestimmten Stellen. zuständige Behörden im Rahmen der Verordnung (EG) Nr. 1370/2007 des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über öffentliche Personenverkehrsdienste auf Schiene und Straße und zur Aufhebung der Verordnungen (EWG) Nr. 1191/69 und (EWG) Nr. 1107/70 des Rates (ABl. L 315 vom 3.12.2007, S. 1), Verlader, Spediteure und Unternehmen des kombinierten Verkehrs, die ein gemeinwirtschaftliches oder einzelwirtschaftliches Interesse am Erwerb von Schienenwegkapazität oder Kapazitäten in Serviceeinrichtungen haben; dazu gehören insbesondere Unternehmen, die Güter durch ein Eisenbahnverkehrsunternehmen befördern lassen wollen, sowie die nach § 1 Absatz 2 des Regionalisierungsgesetzes durch Landesrecht bestimmten Stellen.
 
 (13) Ein überlasteter Schienenweg ist ein Schienenwegabschnitt, auf dem der Nachfrage nach Zugtrassen auch nach Koordinierung der verschiedenen Anträge auf Zuweisung von Zugtrassen während bestimmter Zeitabschnitte nicht in angemessenem Umfang entsprochen werden kann.
 
@@ -88,11 +82,11 @@ c)
 
 (22a) Eine öffentlich-private Partnerschaft ist eine Vereinbarung zwischen öffentlichen Stellen und einem oder mehreren anderen Unternehmen als dem Hauptinfrastrukturbetreiber, in deren Rahmen die Unternehmen Eisenbahnanlagen
 
-1.
+1. teilweise oder ganz aufbauen,
 
-2.
+2. finanzieren oder
 
-3.
+3. das Recht erwerben, die in § 2 Absatz 7 des Allgemeinen Eisenbahngesetzes aufgelisteten Funktionen für einen vorab festgelegten Zeitraum wahrzunehmen.
 
 (22b) Vorstand ist das Leitungsorgan eines Unternehmens, das Führungs- und Verwaltungsaufgaben wahrnimmt und für das Tagesgeschäft des Unternehmens verantwortlich und rechenschaftspflichtig ist.
 
@@ -108,13 +102,13 @@ c)
 
 (24b) Regionale Schienennetze sind zusammenhängende Schienennetze mit einer Streckenlänge von bis zu 300 Kilometern.
 
-(25) Ein vertikal integriertes Unternehmen ist ein Unternehmen, bei dem im Sinne der Verordnung (EG) Nr. 139/2004 des Rates vom 20. Januar 2004 über die Kontrolle von Unternehmenszusammenschlüssen („EG-Fusionskontrollverordnung“) (ABl. L 24 vom 29.1.2004, S. 1) Ein vertikal integriertes Unternehmen ist auch ein Unternehmen, das aus voneinander getrennten Bereichen besteht, die keine eigene Rechtspersönlichkeit haben und bei denen ein Bereich den Betrieb von Eisenbahnanlagen und mindestens ein anderer Bereich die Durchführung von Verkehrsdiensten umfasst. Kein vertikal integriertes Unternehmen liegt vor, wenn ein Betreiber von Eisenbahnanlagen und ein Eisenbahnverkehrsunternehmen, die voneinander unabhängig sind, unmittelbar durch den Bund oder mindestens ein Land ohne zwischengeschaltete Stelle kontrolliert werden.
+(25) Ein vertikal integriertes Unternehmen ist ein Unternehmen, bei dem im Sinne der Verordnung (EG) Nr. 139/2004 des Rates vom 20. Januar 2004 über die Kontrolle von Unternehmenszusammenschlüssen („EG-Fusionskontrollverordnung“) (ABl. L 24 vom 29.1.2004, S. 1)
 
-1.
+1. ein Betreiber von Eisenbahnanlagen von einem Unternehmen kontrolliert wird, das gleichzeitig mindestens ein Eisenbahnverkehrsunternehmen kontrolliert, das Schienenverkehrsdienste auf dem Netz des Betreibers von Eisenbahnanlagen durchführt,
 
-2.
+2. ein Betreiber von Eisenbahnanlagen von mindestens einem Eisenbahnverkehrsunternehmen kontrolliert wird, das Schienenverkehrsdienste auf dem Netz des Betreibers von Eisenbahnanlagen durchführt oder
 
-3.
+3. mindestens ein Eisenbahnverkehrsunternehmen, das Schienenverkehrsdienste auf dem Netz des Betreibers von Eisenbahnanlagen durchführt, von diesem kontrolliert wird.
 
 (26) Personenbahnsteige sind der am Schienenweg gelegene Bereich für den Ein- und Ausstieg von Fahrgästen einschließlich aller Aufbauten und Einrichtungen, die nicht gesetzlich dem Betrieb des Personenbahnhofs zugewiesen sind.
 
@@ -130,37 +124,17 @@ c)
 
 (1) Die §§ 5 bis 9 und 12 sind nicht anzuwenden auf Eisenbahnverkehrsunternehmen, die ausschließlich tätig sind im Stadtverkehr, Vorortverkehr oder Regionalverkehr
 
-1.
+1. auf eigenständigen örtlichen und regionalen Schienennetzen für Verkehrsdienste auf Eisenbahnanlagen oder
 
-2.
+2. auf Netzen, die nur für die Durchführung von Schienenverkehrsdiensten im Stadt- oder Vorortverkehr bestimmt sind.
 
 (2) Werden Eisenbahnverkehrsunternehmen im Sinne des Absatzes 1 direkt oder indirekt von einem Dritten kontrolliert, der andere Schienenverkehrsdienste als Dienste im Stadtverkehr, Vorortverkehr oder Regionalverkehr erbringt oder durch Gesellschaften erbringt, an denen er mehrheitlich beteiligt ist, so gelten unbeschadet des Absatzes 1 die §§ 5 und 6. § 7 gilt für solche Eisenbahnverkehrsunternehmen auch hinsichtlich der Beziehung zwischen dem Eisenbahnverkehrsunternehmen und dem Dritten, der es direkt oder indirekt kontrolliert.
 
-(3) Nicht anzuwenden sind im Fall des Buchstabens c gilt dies auch, wenn die Strecke in begrenztem Umfang auch für Personenverkehrsdienste genutzt wird, dies gilt auch, wenn die Strecke in begrenztem Umfang auch für Personenverkehrsdienste genutzt wird, dies gilt auch, wenn die Strecke in begrenztem Umfang auch für Güterverkehrsdienste genutzt wird,
+(3) Nicht anzuwenden sind
 
-1.
+1. die §§ 8 bis 9 für Betreiber der Schienenwege von nicht regelspurigen Eisenbahnen,
 
-2.
-
-a)
-
-b)
-
-c)
-
-3.
-
-a)
-
-b)
-
-4.
-
-a)
-
-b)
-
-5.
+2. die §§ 8 bis 9 für Betreiber der Schienenwege von regelspurigen Eisenbahnen oder von S-Bahnen ohne besondere Bahnstromsysteme, soweit die Betreiber der Schienenwege a)eigenständige örtliche und regionale Schienennetze für Personenverkehrsdienste betreiben,b)nur für die Durchführung von Schienenpersonenverkehrsdiensten im Stadt- oder Vorortverkehr bestimmte Netze betreiben oderc)regionale Schienennetze, die ausschließlich für regionale Güterverkehrsdienste genutzt werden, bis zu dem Zeitpunkt, zu dem von einem anderen Antragsteller die Zuweisung von Fahrwegkapazität auf dem betreffenden Netz beantragt wird, betreiben; eigenständige örtliche und regionale Schienennetze für Personenverkehrsdienste betreiben, nur für die Durchführung von Schienenpersonenverkehrsdiensten im Stadt- oder Vorortverkehr bestimmte Netze betreiben oder regionale Schienennetze, die ausschließlich für regionale Güterverkehrsdienste genutzt werden, bis zu dem Zeitpunkt, zu dem von einem anderen Antragsteller die Zuweisung von Fahrwegkapazität auf dem betreffenden Netz beantragt wird, betreiben;
 
 (4) Die Regulierungsbehörde soll auf Antrag Eisenbahnen ganz oder teilweise von der Anwendung der §§ 5, 6, 7 Absatz 1, 2 und 4 Satz 1 sowie der §§ 8 bis 8d und 12 befreien, wenn eine Beeinträchtigung des Wettbewerbs nicht zu erwarten ist. Eine Beeinträchtigung ist insbesondere nicht zu erwarten, wenn ihre Schienenwege nach Streckenlänge und Betriebsleistung oder ihre Verkehrsleistung von geringer Bedeutung sind.
 
@@ -178,19 +152,11 @@ b)
 
 ### § 2a — Ausnahmen und Befreiungen von den Entgelt- und Zuweisungsvorschriften für Eisenbahnanlagen
 
-(1) Nicht anzuwenden sind im Fall des Buchstabens c gilt dies auch, wenn die Strecke in begrenztem Umfang auch für Personenverkehrsdienste genutzt wird, Für Satz 1 Nummer 2 gilt § 2 Absatz 7 bis 9 entsprechend.
+(1) Nicht anzuwenden sind
 
-1.
+1. für Betreiber der Schienenwege von nicht regelspurigen Eisenbahnen das Kapitel 3,
 
-2.
-
-a)
-
-b)
-
-c)
-
-3.
+2. für Betreiber der Schienenwege von regelspurigen Eisenbahnen oder von S-Bahnen ohne besondere Bahnstromsysteme die §§ 18 und 23 Absatz 2, §§ 24 bis 30, 31 Absatz 2, § 34 Absatz 3 und 4, §§ 35 bis 38, 39 Absatz 2 bis 5, §§ 45, 49 bis 55 und 58 bis 60, soweit die Betreiber der Schienenwege a)eigenständige örtliche und regionale Schienennetze für Personenverkehrsdienste betreiben,b)nur für die Durchführung von Schienenpersonenverkehrsdiensten im Stadt- oder Vorortverkehr bestimmte Netze betreiben oderc)regionale Schienennetze betreiben, die ausschließlich für regionale Güterverkehrsdienste genutzt werden, bis zu dem Zeitpunkt, zu dem von einem anderen Antragsteller die Zuweisung von Fahrwegkapazität auf dem betreffenden Netz beantragt wird; eigenständige örtliche und regionale Schienennetze für Personenverkehrsdienste betreiben, nur für die Durchführung von Schienenpersonenverkehrsdiensten im Stadt- oder Vorortverkehr bestimmte Netze betreiben oder regionale Schienennetze betreiben, die ausschließlich für regionale Güterverkehrsdienste genutzt werden, bis zu dem Zeitpunkt, zu dem von einem anderen Antragsteller die Zuweisung von Fahrwegkapazität auf dem betreffenden Netz beantragt wird;
 
 (2) Die Regulierungsbehörde soll Betreiber von Eisenbahnanlagen, die ausschließlich von Betreibern kulturhistorischer Eisenbahnen im Rahmen ihrer Zweckbestimmung genutzt werden, auf Antrag von den Pflichten dieses Gesetzes mit Ausnahme des § 17 Absatz 2 Nummer 1 befreien, wenn die Eisenbahnanlage ohne strategische Bedeutung für das Funktionieren des Schienenverkehrsmarktes ist.
 
@@ -206,35 +172,33 @@ c)
 
 (1) Kapitel 3 ist nicht anzuwenden für Betreiber von Serviceeinrichtungen, soweit die Serviceeinrichtungen an nicht regelspurigen Schienenwegen liegen.
 
-(2) Die Regulierungsbehörde soll Betreiber einer Serviceeinrichtung, die eine Serviceeinrichtung nach Anlage 2 Nummer 2 betreiben oder darin Leistungen erbringen, auf Antrag ganz oder teilweise von den Pflichten des § 13 und des Kapitels 3 unter Ausnahme der §§ 21 und 43 befreien, wenn Satz 1 ist nicht anzuwenden, soweit ein auf Grund des Artikels 13 Absatz 9 der Richtlinie 2012/34/EU des Europäischen Parlaments und des Rates vom 21. November 2012 zur Schaffung eines einheitlichen europäischen Eisenbahnraums (ABl. L 343 vom 14.12.2012, S. 32; L 67 vom 12.3.2015, S. 32), die zuletzt durch den Delegierten Beschluss (EU) 2017/2075 (ABl. L 295 vom 14.11.2017, S. 69) geändert worden ist, erlassener Durchführungsrechtsakt eine inhaltsgleiche oder eine entgegenstehende Regelung trifft.
+(2) Die Regulierungsbehörde soll Betreiber einer Serviceeinrichtung, die eine Serviceeinrichtung nach Anlage 2 Nummer 2 betreiben oder darin Leistungen erbringen, auf Antrag ganz oder teilweise von den Pflichten des § 13 und des Kapitels 3 unter Ausnahme der §§ 21 und 43 befreien, wenn
 
-1.
+1. die Serviceeinrichtung oder Leistung hinsichtlich der Auslastung der Serviceeinrichtung, der Art und des Umfangs des potentiell betroffenen Verkehrs sowie der Art der in der Serviceeinrichtung angebotenen Leistungen ohne strategische Bedeutung für das Funktionieren des Schienenverkehrsmarktes ist,
 
-2.
+2. die Serviceeinrichtung oder die Leistung in einem wettbewerbsorientierten Umfeld mit einer Vielzahl von Wettbewerbern, die vergleichbare Leistungen erbringen, betrieben oder erbracht wird oder
 
-3.
+3. die Anwendung dieser Vorschriften das Funktionieren des Marktes für Serviceeinrichtungen beeinträchtigen könnte.
 
 (3) Die Regulierungsbehörde soll Betreiber einer Serviceeinrichtung, die ausschließlich von Betreibern kulturhistorischer Eisenbahnen für eigene Zwecke genutzt wird, auf Antrag von den Pflichten dieses Gesetzes mit Ausnahme des § 17 Absatz 2 Nummer 1 befreien, wenn die Serviceeinrichtung oder Leistung ohne strategische Bedeutung für das Funktionieren des Schienenverkehrsmarktes ist.
 
 (4) Werden die Kriterien für die Gewährung einer Ausnahme nicht länger erfüllt, ist die Entscheidung zu widerrufen.
 
-> §§ 2a bis 2c: Eingef. durch Art. 1 Nr. 5 G v. 9.6.2021 I 1737 mWv 18.6.2021, bzgl. § 2c mWv dem Tag, an dem dem Bundesministerium für Verkehr und digitale Infrastruktur die Entscheidung der Europäischen Kommission nach Artikel 2 Absatz 4 Satz 3 der Richtlinie 2012/34/EU des Europäischen Parlaments und des Rates vom 21. November 2012 zur Schaffung eines einheitlichen europäischen Eisenbahnraums (ABl. L 343 vom 14.12.2012, S. 32; L 67 vom 12.3.2015, S. 32), die zuletzt durch den Delegierten Beschluss (EU) 2017/2075 (ABl. L 295 vom 14.11.2017, S. 69) geändert worden ist, zugeht
-
 ### § 3 — Ziele der Regulierung
 
 Ziele der Regulierung des Eisenbahnsektors sind:
 
-1.
+1. die Steigerung des Anteils des schienengebundenen Personen- und Güterverkehrs am gesamten Verkehrsaufkommen;
 
-2.
+2. die Wahrung der Interessen der Zugangsberechtigten auf dem Gebiet der Eisenbahnmärkte bei der Förderung und Sicherstellung eines wirksamen Wettbewerbs in den Eisenbahnmärkten sowie die Wahrung der Interessen der Verbraucher;
 
-3.
+3. die Förderung von Investitionen der Eisenbahninfrastruktur- und -verkehrsunternehmen und die Unterstützung von Innovationen;
 
-4.
+4. die Förderung eines einheitlichen europäischen Eisenbahnmarktes;
 
-5.
+5. die Gewährleistung eines sicheren, leistungsfähigen und zuverlässigen Betriebs der Eisenbahninfrastruktur und
 
-6.
+6. die Verkürzung der Reisezeiten im Schienenpersonenverkehr und der durchschnittlichen Transportdauer im Schienengüterverkehr.
 
 ### § 4 — Betriebs- und Geschäftsgeheimnisse
 
@@ -268,27 +232,27 @@ Die Eisenbahnverkehrsunternehmen müssen nach den betriebswirtschaftlichen Grund
 
 (1) Ein Betreiber von Eisenbahnanlagen muss rechtlich getrennt sein
 
-1.
+1. von Eisenbahnverkehrsunternehmen,
 
-2.
+2. in vertikal integrierten Unternehmen von anderen Bereichen innerhalb des Unternehmens.
 
 (2) In vertikal integrierten Unternehmen darf keiner der anderen Bereiche einen bestimmenden Einfluss auf die Entscheidungen des Betreibers von Eisenbahnanlagen hinsichtlich der wesentlichen Funktionen ausüben. Die Mitglieder des Aufsichtsrates und des Vorstands des Betreibers von Eisenbahnanlagen und die ihnen unmittelbar unterstellten Führungskräfte müssen in diskriminierungsfreier Weise handeln. Die Unparteilichkeit dieser Personen muss, insbesondere für den Fall auftretender Konflikte zwischen den Interessen von Eisenbahnverkehrsunternehmen und Eisenbahninfrastrukturunternehmen, durch unternehmensinterne Regelungen sichergestellt werden. Diese unternehmensinternen Regelungen sind zu veröffentlichen. In ihnen ist insbesondere festzulegen, welche besonderen Pflichten die Mitarbeiter zur Verhinderung solcher Einflussnahme haben. Betreiber von Eisenbahnanlagen sind zudem auf Verlangen der Regulierungsbehörde verpflichtet, dieser einen Beauftragten zu benennen, der über die Einhaltung der Regelungen wacht. Der Beauftragte hat der Regulierungsbehörde jährlich einen Bericht über die aufgetretenen Problemfälle und die getroffenen Maßnahmen vorzulegen.
 
 (3) Eine Person kann nicht zur gleichen Zeit in folgenden Positionen tätig sein:
 
-1.
+1. als Mitglied des Vorstands eines Betreibers von Eisenbahnanlagen und als Mitglied des Vorstands eines Eisenbahnverkehrsunternehmens,
 
-2.
+2. als Person, die Entscheidungen über die wesentlichen Funktionen eines Betreibers von Eisenbahnanlagen zu treffen hat, und als Mitglied des Vorstands eines Eisenbahnverkehrsunternehmens,
 
-3.
+3. als Mitglied des Aufsichtsrats eines Betreibers von Eisenbahnanlagen und als Mitglied des Aufsichtsrats eines Eisenbahnverkehrsunternehmens, sofern ein Aufsichtsrat eingesetzt worden ist, oder
 
-4.
+4. als Mitglied des Aufsichtsrats eines Unternehmens, das Teil eines vertikal integrierten Unternehmens ist und das sowohl ein Eisenbahnverkehrsunternehmen als auch einen Betreiber von Eisenbahnanlagen kontrolliert, und als Mitglied des Vorstands dieses Betreibers von Eisenbahnanlagen.
 
-(4) In vertikal integrierten Unternehmen darf den Mitgliedern des Vorstands des Betreibers von Eisenbahnanlagen und den Personen, die Entscheidungen über die wesentlichen Funktionen des Betreibers von Eisenbahnanlagen zu treffen haben, nicht gewährt werden Ihnen können jedoch Anreize geboten werden, die im Zusammenhang mit der Gesamtleistung des Eisenbahnsystems zu sehen sind. Die Gesamtleistung des Eisenbahnsystems umfasst die Gesamtleistung aller Eisenbahnverkehrsunternehmen.
+(4) In vertikal integrierten Unternehmen darf den Mitgliedern des Vorstands des Betreibers von Eisenbahnanlagen und den Personen, die Entscheidungen über die wesentlichen Funktionen des Betreibers von Eisenbahnanlagen zu treffen haben, nicht gewährt werden
 
-1.
+1. eine leistungsbezogene Vergütung von einer anderen rechtlichen Einheit im vertikal integrierten Unternehmen oder
 
-2.
+2. Bonuszahlungen, die im Wesentlichen mit der finanziellen Leistungsfähigkeit einzelner Eisenbahnverkehrsunternehmen verknüpft sind.
 
 (5) Verfügen verschiedene Einheiten in einem vertikal integrierten Unternehmen über gemeinsame Informationssysteme, so muss der Zugang zu sensiblen Informationen betreffend wesentliche Funktionen auf befugtes Personal des Betreibers von Eisenbahnanlagen beschränkt werden. Sensible Informationen dürfen nicht an andere Einheiten in einem vertikal integrierten Unternehmen weitergegeben werden.
 
@@ -306,11 +270,11 @@ Die Eisenbahnverkehrsunternehmen müssen nach den betriebswirtschaftlichen Grund
 
 (3) Im Hinblick auf Absatz 1 darf insbesondere
 
-1.
+1. ein Eisenbahnverkehrsunternehmen oder eine andere juristische Person keinen bestimmenden Einfluss auf den Betreiber von Eisenbahnanlagen hinsichtlich der wesentlichen Funktionen ausüben; die gesetzlich vorgesehenen Aufgaben und Mitwirkungen des Bundes und der Länder bleiben unberührt;
 
-2.
+2. ein Eisenbahnverkehrsunternehmen oder ein anderer Bereich in einem vertikal integrierten Unternehmen keinen bestimmenden Einfluss auf die Ernennungen und Entlassungen der Personen ausüben, die Entscheidungen über die wesentlichen Funktionen zu treffen haben; und
 
-3.
+3. die berufliche Mobilität der Personen, die mit den wesentlichen Funktionen betraut sind, nicht zu Konflikten zwischen den Interessen von Eisenbahnverkehrsunternehmen und Betreibern von Eisenbahnanlagen führen.
 
 ### § 8b — Unparteilichkeit des Betreibers von Eisenbahnanlagen hinsichtlich des Verkehrsmanagements, der Instandhaltungsplanung und der baulichen Planung
 
@@ -340,11 +304,11 @@ Die Eisenbahnverkehrsunternehmen müssen nach den betriebswirtschaftlichen Grund
 
 (5) Abweichend von den Absätzen 3 und 4 dürfen Darlehen zwischen rechtlichen Einheiten eines vertikal integrierten Unternehmens gewährt, ausgezahlt und bedient werden, wenn dies zu Marktsätzen und -bedingungen geschieht, die das individuelle Risikoprofil des betreffenden Unternehmens widerspiegeln.
 
-(6) Die dem Betreiber von Eisenbahnanlagen von anderen rechtlichen Einheiten eines vertikal integrierten Unternehmens angebotenen Dienstleistungen werden auf der Grundlage von Verträgen erbracht und bezahlt.
+(6) Die dem Betreiber von Eisenbahnanlagen von anderen rechtlichen Einheiten eines vertikal integrierten Unternehmens angebotenen Dienstleistungen werden auf der Grundlage von Verträgen erbracht und
 
-1.
+1. entweder nach Marktpreisen oder
 
-2.
+2. nach Preisen, die die Produktionskosten widerspiegeln, zuzüglich einer angemessenen Gewinnspanne
 
 (7) Verbindlichkeiten des Betreibers von Eisenbahnanlagen werden eindeutig getrennt von Verbindlichkeiten anderer rechtlicher Einheiten vertikal integrierter Unternehmen ausgewiesen. Derartige Verbindlichkeiten werden gesondert bedient. Zulässig ist jedoch, dass die abschließende Begleichung der Verbindlichkeiten über ein Unternehmen, das Teil eines vertikal integrierten Unternehmens ist und das sowohl ein Eisenbahnverkehrsunternehmen als auch einen Betreiber von Eisenbahnanlagen kontrolliert, oder über eine andere Einheit des Unternehmens erfolgt.
 
@@ -356,39 +320,39 @@ Die Eisenbahnverkehrsunternehmen müssen nach den betriebswirtschaftlichen Grund
 
 ### § 8e — Europäisches Netzwerk der Hauptinfrastrukturbetreiber
 
-Der Hauptinfrastrukturbetreiber arbeitet mit den Hauptinfrastrukturbetreibern der anderen Mitgliedstaaten in einem europäischen Netzwerk zusammen, um die Erbringung effizienter und wirksamer Eisenbahndienste in der Union zu erleichtern. Dieses Netzwerk tagt regelmäßig im Hinblick auf Für die Zwecke der Nummer 4 legt das Netzwerk gemeinsame Grundsätze und Verfahren für die Überwachung und den Vergleich der Leistung in einheitlicher Weise fest. Die Koordinierung nach Maßgabe dieses Absatzes berührt weder das Recht der Zugangsberechtigten, die Regulierungsbehörde zu befassen, noch die Befugnisse der Regulierungsbehörde gemäß den §§ 66 bis 74.
+Der Hauptinfrastrukturbetreiber arbeitet mit den Hauptinfrastrukturbetreibern der anderen Mitgliedstaaten in einem europäischen Netzwerk zusammen, um die Erbringung effizienter und wirksamer Eisenbahndienste in der Union zu erleichtern. Dieses Netzwerk tagt regelmäßig im Hinblick auf
 
-1.
+1. den Ausbau der Eisenbahninfrastruktur in der Union,
 
-2.
+2. die Förderung der zügigen und effizienten Einführung des einheitlichen europäischen Eisenbahnraums,
 
-3.
+3. den Austausch bewährter Praktiken,
 
-4.
+4. die Überwachung und den Vergleich der Leistungen,
 
-5.
+5. den Beitrag zu der Marktüberwachung gemäß Artikel 15 der Richtlinie 2012/34/EU,
 
-6.
+6. die Befassung mit grenzüberschreitenden Engpässen und
 
-7.
+7. die Erörterung der Anwendung der Zusammenarbeit im Rahmen der §§ 41 und 47.
 
 ### § 9 — Geschäftsplan des Betreibers von Eisenbahnanlagen
 
 (1) Jeder Betreiber von Eisenbahnanlagen hat einen Geschäftsplan zu beschließen, der auch die geplanten Investitions- und Finanzierungsprogramme enthält. Der Plan ist so zu entwerfen, dass eine optimale und effiziente Nutzung, Bereitstellung und Entwicklung der Infrastruktur unter gleichzeitiger Wahrung des finanziellen Gleichgewichts und Bereitstellung der zur Erreichung dieser Ziele erforderlichen Mittel gewährleistet ist. Jeder Betreiber von Eisenbahnanlagen sorgt dafür, dass Zugangsberechtigte vor der Annahme des Geschäftsplans durch den Betreiber von Eisenbahnanlagen die für das Erreichen der Ziele wesentlichen Informationen erhalten. Sie haben durch den Betreiber von Eisenbahnanlagen die Möglichkeit zu erhalten, sich zum Inhalt des Geschäftsplans im Rahmen der Koordinierung nach Absatz 2 und 3 zu äußern. Der Regulierungsbehörde und den zuständigen Aufsichtsbehörden sind der Geschäftsplan und die Hinweise der Zugangsberechtigten zur Verfügung zu stellen.
 
-(1a) Über Absatz 1 hinaus hat jeder Betreiber der Schienenwege, der einen Netzbeirat nach § 34 des Allgemeinen Eisenbahngesetzes eingerichtet hat, den Mitgliedern des Netzbeirates Gelegenheit zur Stellungnahme zu seinem Geschäftsplan zu geben. Die Zuständigkeiten des Netzbeirates nach § 34 des Allgemeinen Eisenbahngesetzes bleiben unberührt.
+(1a) Über Absatz 1 hinaus hat jeder Betreiber der Schienenwege, der einen Netzbeirat nach § 34 des Allgemeinen Eisenbahngesetzes eingerichtet hat, den Mitgliedern des Netzbeirates Gelegenheit zur Stellungnahme zu seinem Geschäftsplan zu geben. Die Zuständigkeiten des Netzbeirates nach § 34 des Allgemeinen Eisenbahngesetzes bleiben unberührt.
 
 (2) Die Koordinierung nach Absatz 1 Satz 4 bezieht sich auf
 
-1.
+1. den Bedarf der Zugangsberechtigten hinsichtlich Erhaltung und Ausbau der Infrastrukturkapazität,
 
-2.
+2. den Inhalt und die Umsetzung der nutzerorientierten Zielvorgaben der qualifizierten Regulierungsvereinbarung gemäß den §§ 29 und 30 sowie der Anreize nach § 25,
 
-3.
+3. den Inhalt und die Umsetzung der Schienennetz-Nutzungsbedingungen gemäß § 19,
 
-4.
+4. Fragen der Intermodalität und Interoperabilität,
 
-5.
+5. sonstige Fragen zu den Bedingungen für den Zugang zur Infrastruktur, zur Nutzung der Infrastruktur sowie zur Qualität der Dienstleistungen des Betreibers von Eisenbahnanlagen.
 
 (3) Der Hauptinfrastrukturbetreiber erstellt und veröffentlicht in Absprache mit den Beteiligten Leitlinien für die Koordinierung. Die Koordinierung erfolgt mindestens einmal jährlich. Der Hauptinfrastrukturbetreiber veröffentlicht auf seiner Internetseite einen Überblick über die gemäß dieser Vorschrift durchgeführten Tätigkeiten. Die Koordinierung nach Maßgabe dieses Paragrafen berührt weder das Recht der Zugangsberechtigten, die Regulierungsbehörde zu befassen, noch die Befugnisse der Regulierungsbehörde gemäß den §§ 66 bis 74.
 
@@ -410,11 +374,11 @@ Der Hauptinfrastrukturbetreiber arbeitet mit den Hauptinfrastrukturbetreibern de
 
 (3) Werden Schienenwege zusammen mit Personenbahnsteigen oder Laderampen betrieben, gelten die Vorschriften für Betreiber der Schienenwege.
 
-(4) Ist ein Betreiber im Sinne von Absatz 3 von § 34 Absatz 3 dieses Gesetzes ausgenommen oder befreit, so hat er die Wahl, ob er die Entgelte Für Betreiber, die gemäß Satz 1 Nummer 2 die Entgelte für Personenbahnsteige und Laderampen jeweils getrennt von anderen Eisenbahnanlagen ermitteln, gelten, soweit dieses Gesetz nichts anderes bestimmt, die Anforderungen des § 32; die §§ 31a und 33 sind nicht anwendbar.
+(4) Ist ein Betreiber im Sinne von Absatz 3 von § 34 Absatz 3 dieses Gesetzes ausgenommen oder befreit, so hat er die Wahl, ob er die Entgelte
 
-1.
+1. für die Gesamtheit seiner Eisenbahnanlagen nach den Vorschriften für die Betreiber der Schienenwege ermittelt oder
 
-2.
+2. für Schienenwege, Personenbahnsteige und Laderampen jeweils getrennt ermittelt.
 
 (5) Die Betreiber der Personenbahnsteige beschreiben in den Nutzungsbedingungen die für den Personenverkehr erbrachten Leistungen verbindlich mindestens hinsichtlich der zugesicherten Ausstattung, Qualität und zeitlichen Verfügbarkeit.
 
@@ -448,15 +412,15 @@ Der Hauptinfrastrukturbetreiber arbeitet mit den Hauptinfrastrukturbetreibern de
 
 (6) Leistungen, die in Serviceeinrichtungen erbracht werden, die dem Personenverkehr dienen, sind in den Nutzungsbedingungen für diese Serviceeinrichtungen mindestens hinsichtlich der zugesicherten Ausstattung, Qualität und zeitlichen Verfügbarkeit verbindlich zu beschreiben.
 
-(7) Alle Zugangsberechtigten gemäß § 1 Absatz 12 sind Antragsteller im Sinne von Artikel 1 Satz 3 der Durchführungsverordnung (EU) 2017/2177.
+(7) Alle Zugangsberechtigten gemäß § 1 Absatz 12 sind Antragsteller im Sinne von Artikel 1 Satz 3 der Durchführungsverordnung (EU) 2017/2177.
 
 ### § 14 — Zugang zu weiteren Leistungen
 
-(1) Erbringt Zusatzleistungen nach Anlage 2 Nummer 3, so muss er diese zu angemessenen, nichtdiskriminierenden und transparenten Bedingungen für alle Zugangsberechtigten erbringen, die dies beantragen. Diese Pflicht gilt nur für diejenigen Betriebsstandorte, an denen solche Leistungen angeboten werden.
+(1) Erbringt
 
-1.
+1. ein Betreiber einer Serviceeinrichtung oder
 
-2.
+2. ein Betreiber von Eisenbahnanlagen
 
 (2) Ein Zugangsberechtigter kann den Betreiber von Eisenbahnanlagen oder den Betreiber einer Serviceeinrichtung um Nebenleistungen nach Anlage 2 Nummer 4 ersuchen. Der Betreiber von Eisenbahnanlagen oder der Betreiber einer Serviceeinrichtung ist zur Erbringung dieser Leistungen nicht verpflichtet. Beschließt der Betreiber von Eisenbahnanlagen oder der Betreiber einer Serviceeinrichtung, anderen Zugangsberechtigten solche Leistungen anzubieten, so muss er diese zu angemessenen, nichtdiskriminierenden und transparenten Bedingungen für alle Zugangsberechtigten erbringen, die dies beantragen. Diese Pflicht gilt nur für diejenigen Betriebsstandorte, an denen solche Leistungen angeboten werden.
 
@@ -484,49 +448,29 @@ Die §§ 13, 14 und 15 sind insoweit nicht anzuwenden, als ein auf Grund des Art
 
 (2) Gegenstand der Marktüberwachung sind insbesondere
 
-1.
+1. die Nutzung der Schienennetze und Serviceeinrichtungen,
 
-2.
+2. die Entwicklung der Rahmenbedingungen im Eisenbahnsektor, insbesondere in Bezug auf a)die Wegeentgelte und Entgelte für Serviceeinrichtungen und Nebenleistungen,b)die Kapazitätszuweisung,c)getätigte Investitionen in die Eisenbahnanlagen,d)die Entwicklungen bei Preisen und Qualität der Schienenverkehrsdienste,e)die Schienenverkehrsdienste im Rahmen öffentlicher Dienstleistungsaufträge,f)die Erteilung von Genehmigungen,g)den Grad der Marktöffnung,h)die Entwicklung der Beschäftigungsbedingungen und der betreffenden sozialen Bedingungen im Eisenbahnsektor sowiei)den Markt für Hochgeschwindigkeits-Personenverkehrsdienste,j)die Entwicklung auf den Märkten für Serviceeinrichtungen und deren Leistungen, die Wegeentgelte und Entgelte für Serviceeinrichtungen und Nebenleistungen, die Kapazitätszuweisung, getätigte Investitionen in die Eisenbahnanlagen, die Entwicklungen bei Preisen und Qualität der Schienenverkehrsdienste, die Schienenverkehrsdienste im Rahmen öffentlicher Dienstleistungsaufträge, die Erteilung von Genehmigungen, den Grad der Marktöffnung, die Entwicklung der Beschäftigungsbedingungen und der betreffenden sozialen Bedingungen im Eisenbahnsektor sowie den Markt für Hochgeschwindigkeits-Personenverkehrsdienste, die Entwicklung auf den Märkten für Serviceeinrichtungen und deren Leistungen,
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-3.
+3. Pilotprojekte nach § 52a; die Regulierungsbehörde schlägt der Bundesregierung aufgrund der Erfahrungen mit diesen Pilotprojekten gegebenenfalls Anpassungen des Rechtsrahmens vor, um neue Fahrplankonzepte dauerhaft zu ermöglichen.
 
 (3) Zur Durchführung der Marktüberwachung und der gesonderten Erhebungen im Einzelfall kann die Regulierungsbehörde bei den Zugangsberechtigten und Eisenbahnen erforderliche Auskünfte und Daten auch außerhalb konkreter Prüfungen in einer von ihr vorgegebenen Form verlangen, insbesondere über
 
-1.
+1. die Entwicklung des Schienenverkehrsmarkts und die für die Eisenbahnverkehrsunternehmen zu erbringenden Leistungen nach Anlage 2,
 
-2.
+2. die in Absatz 2 Nummer 2 genannten Rahmenbedingungen, auch in Bezug auf den öffentlichen Schienenpersonenverkehr,
 
-3.
+3. den Zustand der Eisenbahnanlagen und der Personenbahnhöfe,
 
-4.
+4. die Nutzung der Zugangsrechte,
 
-5.
+5. Hindernisse auf dem Weg zu effizienteren Schienenverkehrsdiensten,
 
-6.
+6. Infrastrukturbeschränkungen und
 
-7.
+7. die Auskünfte und Daten, die auf Grund eines nach Artikel 15 Absatz 6 der Richtlinie 2012/34/EU erlassenen Durchführungsrechtsaktes bei den Zugangsberechtigten und Eisenbahnen gefordert werden,
 
-8.
+8. Pilotprojekte nach § 52a und deren Auswirkungen.
 
 (4) Zur Durchführung der Marktüberwachung und der gesonderten Erhebungen im Einzelfall kann die Regulierungsbehörde bei den nach § 5 Absatz 2 des Allgemeinen Eisenbahngesetzes zuständigen Genehmigungsbehörden vorliegende Informationen über die Zugangsberechtigten und Eisenbahnen verlangen. Diese stellen der Regulierungsbehörde die Informationen im erforderlichen Umfang zur Verfügung. Die Genehmigungsbehörden informieren die Regulierungsbehörde über Eisenbahninfrastrukturunternehmen, die in ihrem Zuständigkeitsbereich den Betrieb aufgenommen oder beendet haben oder die den Unternehmensnamen oder -sitz geändert haben.
 
@@ -560,11 +504,11 @@ Die Regelungen über Entgelte und Kapazitätszuweisungen für Schienenwege nach 
 
 (1) Der Betreiber der Schienenwege schließt mit jedem Zugangsberechtigten die erforderlichen Vereinbarungen über
 
-1.
+1. die Einzelheiten des Zugangs, insbesondere hinsichtlich des Zeitpunktes und der Dauer der Nutzung,
 
-2.
+2. das zu entrichtende Entgelt und
 
-3.
+3. die sonstigen Nutzungsbedingungen.
 
 (2) Die Bedingungen dieser Vereinbarungen müssen angemessen, nichtdiskriminierend und transparent sein.
 
@@ -622,13 +566,13 @@ Ein Eisenbahnverkehrsunternehmen kann zur Erfüllung seiner Verpflichtungen aus 
 
 ### § 27 — Ausnahmen im Rahmen der Anreizsetzung
 
-(1) Liegen besondere oder unvorhergesehene Mehrbelastungen für einen Betreiber der Schienenwege vor, so kann die Regulierungsbehörde auf Antrag Ausnahmen von § 25 Absatz 2 bis 5 oder § 26 Absatz 1 für den Zeitraum der betroffenen Regulierungsperiode genehmigen, um dadurch notwendige Investitionen des Betreibers der Schienenwege in die Eisenbahninfrastruktur zu ermöglichen. Besondere oder unvorhergesehene Mehrbelastungen können im Rahmen von außergewöhnlichen Neu- und Ausbaumaßnahmen und durch Instandsetzungen auf Grund von Schäden an der Eisenbahninfrastruktur durch entstehen. Besondere Mehrbelastungen liegen insbesondere dann vor, wenn die Kosten für eine Maßnahme unvorhersehbar und in hohem Umfang über die kalkulierten Kosten der Maßnahme hinausgehen.
+(1) Liegen besondere oder unvorhergesehene Mehrbelastungen für einen Betreiber der Schienenwege vor, so kann die Regulierungsbehörde auf Antrag Ausnahmen von § 25 Absatz 2 bis 5 oder § 26 Absatz 1 für den Zeitraum der betroffenen Regulierungsperiode genehmigen, um dadurch notwendige Investitionen des Betreibers der Schienenwege in die Eisenbahninfrastruktur zu ermöglichen. Besondere oder unvorhergesehene Mehrbelastungen können im Rahmen von außergewöhnlichen Neu- und Ausbaumaßnahmen und durch Instandsetzungen auf Grund von Schäden an der Eisenbahninfrastruktur durch
 
-1.
+1. schwere Unwetter,
 
-2.
+2. schwere Unfälle oder
 
-3.
+3. rechtswidrige Zerstörungen durch Dritte in erheblichem Umfang
 
 (2) Erhält der Betreiber der Schienenwege Zuwendungen zur Finanzierung der im Mindestzugangspaket zu berücksichtigenden Vermögensgegenstände des Anlagevermögens, kann die Regulierungsbehörde vom Betreiber der Schienenwege jederzeit eine Darlegung verlangen, dass die erhaltenen Zuwendungen bei der Ermittlung der Anschaffungs- und Herstellkosten des Anlagevermögens und entsprechend bei der Ermittlung der im Ausgangsniveau der Gesamtkosten zu berücksichtigenden Abschreibungen in Abzug gebracht werden. Im Falle der Gewährung von Zuwendungen, die in keinem unmittelbaren Zusammenhang mit investiven Maßnahmen stehen, ist entsprechend in Bezug auf zuwendungsgedeckte Kosten zu verfahren.
 
@@ -670,9 +614,9 @@ Die Anerkennung einer Vereinbarung als qualifizierte Regulierungsvereinbarung mu
 
 (2) Die Entgelte des Betreibers der Personenbahnsteige und des Betreibers der Laderampen für die Erbringung des Mindestzugangspakets sind von der Regulierungsbehörde zu genehmigen. Die Genehmigung ist zu erteilen, sofern die Ermittlung der Entgelte den Anforderungen des § 23 Absatz 1 und 2 Satz 1, § 24 Absatz 2 bis 4 sowie §§ 34 bis 41 entsprechen. Für das Verfahren zur Genehmigung der Entgelte gelten die Vorschriften des § 46 entsprechend mit der Maßgabe, dass
 
-1.
+1. in § 46 Absatz 1 an die Stelle der Frist zur Stellung von Anträgen auf Zuweisung von Zugtrassen eine in den Nutzungsbedingungen festgelegte Frist zur Stellung von Anträgen auf Nutzung treten kann und
 
-2.
+2. in § 46 Absatz 4 an die Stelle der Netzfahrplanperiode auch das Kalenderjahr treten kann.
 
 (3) Andere als die genehmigten Entgelte dürfen nicht vereinbart werden.
 
@@ -682,19 +626,19 @@ Die Anerkennung einer Vereinbarung als qualifizierte Regulierungsvereinbarung mu
 
 (2) Ein Betreiber einer Serviceeinrichtung nach Anlage 2 Nummer 2 ist verpflichtet, die Entgelte so zu bemessen, dass sie angemessen, nichtdiskriminierend und transparent sind. Eine Beeinträchtigung der Grundsätze des Satzes 1 liegt insbesondere vor, wenn
 
-1.
+1. Entgelte gefordert werden, welche die entstandenen Kosten für das Erbringen der Leistungen in unangemessener Weise überschreiten oder
 
-2.
+2. einzelnen Zugangsberechtigten Vorteile gegenüber anderen Zugangsberechtigten eingeräumt werden, soweit hierfür nicht ein sachlich gerechtfertigter Grund vorliegt.
 
 (3) Die Absätze 1 und 2 gelten nicht für die Betreiber von Wartungseinrichtungen.
 
 ### § 33 — Ermittlung und Genehmigung der Entgelte in Ausnahmefällen
 
-(1) Es bedürfen der Genehmigung: Die jeweilige Genehmigung ist zu erteilen, wenn die Anforderungen des § 32 erfüllt sind. Für Betreiber der Schienenwege der Eisenbahnen des Bundes und für Personenbahnhöfe der Eisenbahnen des Bundes gilt abweichend von Satz 2 für Personenverkehrsdienste nach § 36 Absatz 2 Satz 2 Nummer 2 der § 37, soweit nicht § 37 Absatz 3 Abweichendes regelt.
+(1) Es bedürfen der Genehmigung:
 
-1.
+1. Entgelte der Betreiber der Schienenwege, die von den Vorschriften zur Entgeltbildung für Schienenwege befreit sind und
 
-2.
+2. Entgelte der Betreiber von Personenbahnhöfen.
 
 (2) Andere als die genehmigten Entgelte dürfen nicht vereinbart werden. Ist in einem Vertrag eine Entgeltvereinbarung wegen Verstoßes gegen Satz 1 unwirksam, gilt das jeweils genehmigte Entgelt als vereinbart. Das genehmigte Entgelt gilt als billiges Entgelt im Sinne des § 315 des Bürgerlichen Gesetzbuches.
 
@@ -722,11 +666,11 @@ Die Anerkennung einer Vereinbarung als qualifizierte Regulierungsvereinbarung mu
 
 (6) Beinhalten Entgeltgenehmigungen die vollständige oder teilweise Genehmigung eines vertraglich bereits vereinbarten Entgelts, so wirken sie zurück auf den Zeitpunkt der erstmaligen Leistungsbereitstellung durch den Betreiber von Eisenbahnanlagen. Das Gericht kann im Verfahren nach § 123 der Verwaltungsgerichtsordnung die vorläufige Zahlung eines beantragten höheren Entgelts anordnen, wenn überwiegend wahrscheinlich ist, dass der Anspruch auf die Genehmigung des höheren Entgelts besteht; der Darlegung eines Anordnungsgrundes bedarf es nicht. Geht der Anspruch auf Genehmigung eines höheren Entgelts damit einher, dass die Entgelte in einem anderen Segment oder in mehreren anderen Segmenten abzusenken wären, ist diese Absenkung vom Gericht vorläufig mit auszusprechen. Verpflichtet das Gericht die Regulierungsbehörde zur Erteilung einer Genehmigung für ein höheres Entgelt, so entfaltet diese Genehmigung die Rückwirkung nach Satz 1 nur, wenn eine Anordnung nach Satz 2 ergangen ist. Der Antrag auf Erlass einer einstweiligen Anordnung nach § 123 Absatz 1 der Verwaltungsgerichtsordnung kann nur bis zum Ablauf von zwei Monaten nach Klageerhebung gestellt und begründet werden. Im Übrigen richten sich Anträge auf Anordnung der aufschiebenden Wirkung einer Klage gegen die Genehmigung eines Entgelts nach § 80 Absatz 5 der Verwaltungsgerichtsordnung. In diesen Fällen führt die Anordnung der aufschiebenden Wirkung der Klage nicht dazu, dass Entgelte anderer Segmente vorläufig angehoben werden.
 
-(7) Absatz 6 Satz 4 ist nicht anzuwenden, wenn Gehört der Vertragspartner zu einem vertikal integrierten Unternehmen, ist dessen Umsatz zu berücksichtigen.
+(7) Absatz 6 Satz 4 ist nicht anzuwenden, wenn
 
-1.
+1. der Vertragspartner nach Absatz 6 Satz 1 Leistungen nachfragt und
 
-2.
+2. der Vertragspartner im letzten Geschäftsjahr vor der Klageerhebung, für das ein Jahresabschluss vorliegt, einen Jahresumsatz von mehr als 500 Millionen Euro erzielt hat.
 
 (8) In dem Verfahren nach Absatz 6 in Verbindung mit § 123 der Verwaltungsgerichtsordnung kann das Gericht durch Beschluss anordnen, dass nur solche Personen beigeladen werden, die dies innerhalb einer bestimmten Frist beantragen. Der Beschluss ist unanfechtbar. Er ist im elektronischen Bundesanzeiger bekannt zu machen und auf der Internetseite der Bundesnetzagentur zu veröffentlichen. Die Bekanntmachung kann zusätzlich in einem von dem Gericht für Bekanntmachungen bestimmten Informations- und Kommunikationssystem erfolgen. Die Frist gemäß Satz 1 muss mindestens einen Monat ab der Bekanntmachung im elektronischen Bundesanzeiger betragen. In der Veröffentlichung auf der Internetseite der Bundesnetzagentur ist mitzuteilen, an welchem Tag die Frist abläuft. Für die Wiedereinsetzung in den vorigen Stand bei Versäumung der Frist gilt § 60 der Verwaltungsgerichtsordnung entsprechend. Das Gericht soll Personen, die von der Entscheidung erkennbar in besonderem Maße betroffen werden, auch ohne Antrag beiladen.
 
@@ -734,13 +678,13 @@ Die Anerkennung einer Vereinbarung als qualifizierte Regulierungsvereinbarung mu
 
 (1) Damit ein Betreiber der Schienenwege die ihm entstehenden Kosten vollständig decken kann, sind Aufschläge auf der Grundlage effizienter, transparenter und nichtdiskriminierender Grundsätze zu erheben, wobei die bestmögliche Wettbewerbsfähigkeit der Segmente des Eisenbahnmarktes zu gewährleisten ist. Die Entgeltregelung muss dem von den Eisenbahnverkehrsunternehmen erzielten Produktivitätszuwachs Rechnung tragen.
 
-(2) Ein Betreiber der Schienenwege hat zu prüfen, inwieweit die Aufschläge für bestimmte Verkehrsdienste oder Marktsegmente in Betracht kommen. Dabei hat er die in Anlage 7 Nummer 1 genannten Verkehrsdienst- oder Marktsegmentpaare zu prüfen und die zutreffenden auszuwählen, mindestens jedoch Die erhobenen Entgelte dürfen nicht die Nutzung der Schienenwege durch Verkehrsdienste oder Marktsegmente ausschließen, die mindestens die Kosten, die unmittelbar auf Grund des Zugbetriebs anfallen, sowie eine Rendite, die der Markt tragen kann, erbringen können. Aufschläge müssen so gewählt werden, dass die Verkehrsdienste Güterverkehrsdienst und Personenverkehrsdienst die dem Betreiber der Schienenwege insgesamt entstehenden Kosten decken.
+(2) Ein Betreiber der Schienenwege hat zu prüfen, inwieweit die Aufschläge für bestimmte Verkehrsdienste oder Marktsegmente in Betracht kommen. Dabei hat er die in Anlage 7 Nummer 1 genannten Verkehrsdienst- oder Marktsegmentpaare zu prüfen und die zutreffenden auszuwählen, mindestens jedoch
 
-1.
+1. Güterverkehrsdienste,
 
-2.
+2. Schienenpersonennahverkehrsdienste und sonstige Personenverkehrsdienste im Rahmen eines öffentlichen Dienstleistungsauftrags und
 
-3.
+3. Schienenpersonenfernverkehrsdienste.
 
 (3) Ein Betreiber der Schienenwege kann die Verkehrsdienste in Marktsegmente je nach Art der transportierten Güter oder der Personenbeförderung weiter untergliedern. Marktsegmente, in denen Eisenbahnverkehrsunternehmen gegenwärtig nicht tätig sind, in denen sie aber während der Laufzeit der Entgeltregelung Leistungen erbringen könnten, werden ebenfalls festgelegt. Der Betreiber der Schienenwege nimmt in die Entgeltregelung für diese Marktsegmente keine Aufschläge auf. Die Liste der Marktsegmente wird in den Schienennetz-Nutzungsbedingungen veröffentlicht und mindestens alle fünf Jahre überprüft. Die Regulierungsbehörde überwacht diese Liste nach Maßgabe des § 67.
 
@@ -758,11 +702,11 @@ Die Anerkennung einer Vereinbarung als qualifizierte Regulierungsvereinbarung mu
 
 (3a) Für einen Betreiber der Personenbahnsteige, der die Entgelte nach Absatz 1 nicht nach den Vorschriften für die Betreiber der Schienenwege ermittelt, gelten die Regelungen für Personenbahnhöfe nach den Absätzen 1 bis 3 entsprechend.
 
-(4) Die Regulierungsbehörde überprüft, ob für Verkehrsdienste nach § 36 Absatz 2 Satz 2 Nummer 2 auf Grund des § 37 eine Unterdeckung besteht oder ob in Summe höhere Entgelte eingenommen werden, als zur Deckung der Kosten erforderlich sind. Zu diesem Zweck kann die Regulierungsbehörde Sie überprüft auch, ob die Stationspreise der Eisenbahninfrastrukturunternehmen des Bundes für Halte von Verkehrsdiensten nach § 36 Absatz 2 Satz 2 Nummer 2, die sich aus den Absätzen 1 bis 3a ergeben, die diesen Halten nach § 32 zuzuordnenden Kosten decken oder ob in Summe höhere Entgelte eingenommen werden, als zur Deckung dieser Kosten erforderlich sind.
+(4) Die Regulierungsbehörde überprüft, ob für Verkehrsdienste nach § 36 Absatz 2 Satz 2 Nummer 2 auf Grund des § 37 eine Unterdeckung besteht oder ob in Summe höhere Entgelte eingenommen werden, als zur Deckung der Kosten erforderlich sind. Zu diesem Zweck kann die Regulierungsbehörde
 
-1.
+1. die Mengen- und Erlösentwicklungen untersuchen oder
 
-2.
+2. untersuchen, ob die Eisenbahninfrastrukturunternehmen des Bundes für Verkehrsdienste nach § 36 Absatz 2 Satz 2 Nummer 2 in Verbindung mit den Absätzen 1 bis 3a dieser Vorschrift die Aufschläge nach § 36 Absatz 2 Satz 4 so wählen können, dass die Kosten, die den Betreibern von Eisenbahnanlagen für diese Verkehrsdienste entstehen, gedeckt werden können.
 
 (5) Die Regulierungsbehörde hat auf Grundlage der Erkenntnisse nach Absatz 4 einen Berichtsentwurf zu erstellen. Dieser stellt die finanzielle Situation der Betreiber der Eisenbahnanlagen im Hinblick auf die Kostendeckung in den einzelnen Verkehrsdiensten nach § 36 Absatz 2 Satz 2 Nummer 2, auch im Verhältnis zu den Verkehrsdiensten nach § 36 Absatz 2 Satz 2 Nummer 3 dar. Der Berichtsentwurf hat auch die finanzielle Situation im Hinblick auf die Kostendeckung für Stationshalte des Schienenpersonennahverkehrs darzustellen. Die Eisenbahninfrastrukturunternehmen des Bundes erhalten Gelegenheit, innerhalb einer von der Regulierungsbehörde zu setzenden angemessenen Frist zu dem Berichtsentwurf Stellung zu nehmen.
 
@@ -831,8 +775,6 @@ Die Anerkennung einer Vereinbarung als qualifizierte Regulierungsvereinbarung mu
 (4) Wird das Recht auf Nutzung einer Serviceeinrichtung aus einer Vereinbarung nach § 20 Absatz 1 und 3 innerhalb eines Monats nach Beginn einer Netzfahrplanperiode oder nach dem vereinbarten Benutzungsbeginn ganz oder teilweise aus Gründen nicht wahrgenommen, die der Zugangsberechtigte zu vertreten hat, kann der Betreiber der Serviceeinrichtung insoweit die Vereinbarung mit sofortiger Wirkung kündigen. Ist die Kündigung noch nicht erfolgt und stellt ein dritter Zugangsberechtigter einen Antrag auf die Nutzung dieser Serviceeinrichtung, ist das Angebot diesem Dritten gegenüber unter der aufschiebenden Bedingung der Kündigung zu machen. Hat der Dritte das Angebot nach Satz 2 angenommen, muss der Betreiber der Serviceeinrichtung die in Satz 1 genannte Vereinbarung insoweit kündigen. Der Zugangsberechtigte, dem nach Satz 3 gekündigt wurde, bleibt zum Ersatz des durch die Beendigung des Vertrags entstehenden Schadens verpflichtet; er hat insbesondere dem Betreiber der Serviceeinrichtung das entgangene Entgelt für die Nutzung der Serviceeinrichtung zu zahlen.
 
 ### § 44 — Zuweisung von Zugtrassen und Schienenwegkapazität
-
-(1) Ein Betreiber der Schienenwege hat die Zuweisung von Zugtrassen einschließlich des Verfahrens angemessen, nichtdiskriminierend und transparent durchzuführen. Für den Fall, dass die Schienenwegkapazität durch Baumaßnahmen vorübergehend nur eingeschränkt zur Verfügung steht, kann der Betreiber der Schienenwege ein besonderes Zuweisungsverfahren von Schienenwegkapazität im Netzfahrplan anwenden. Das besondere Zuweisungsverfahren ist in den Schienennetz-Nutzungsbedingungen festzulegen. Es muss Kriterien für die Bewertung der Umleitungsfähigkeit der Verkehrsarten beinhalten und eine Veröffentlichung der beabsichtigten sowie der endgültigen Verteilung der eingeschränkten Schienenwegkapazität auf die einzelnen Verkehrsarten durch den Betreiber der Schienenwege vorsehen. Vor einer Festlegung der Verteilung der eingeschränkten Schienenwegkapazität auf die einzelnen Verkehrsarten in den Schienennetz-Nutzungsbedingungen hat eine Konsultation der Zugangsberechtigten stattzufinden. Die als Ergebnis der Konsultation beabsichtigte Verteilung der Schienenwegkapazität wird für Trassenanmeldungen zum Netzfahrplan verbindlich, wenn sie die Regulierungsbehörde nicht nach § 73 Absatz 1 Nummer 6 abgelehnt und der Betreiber der Schienenwege die endgültige Festlegung der Verteilung der Kapazität auf die Verkehrsarten veröffentlicht hat.
 
 (2) Der Betreiber der Schienenwege hat allen Anträgen auf Zuweisung von Zugtrassen stattzugeben, soweit die Zugtrassen zur Verfügung stehen.
 
@@ -916,9 +858,9 @@ Die Anerkennung einer Vereinbarung als qualifizierte Regulierungsvereinbarung mu
 
 (2) Die Regulierungsbehörde erteilt die Genehmigung, wenn
 
-1.
+1. die Anforderungen der Durchführungsverordnung (EU) 2016/545 und des § 49 erfüllt sind und
 
-2.
+2. die Vereinbarkeit mit Pilotprojekten gemäß § 52a gegeben ist.
 
 (3) Trifft die Regulierungsbehörde innerhalb einer Frist von zwei Monaten nach Vorliegen der vollständigen Unterlagen keine Entscheidung, so gilt der beantragte Rahmenvertrag oder dessen Änderung als genehmigt. Im Übrigen gilt § 42a des Verwaltungsverfahrensgesetzes.
 
@@ -950,35 +892,35 @@ Die Anerkennung einer Vereinbarung als qualifizierte Regulierungsvereinbarung mu
 
 (4) Der Betreiber der Schienenwege hat das Recht, innerhalb vertretbarer Grenzen Schienenwegkapazität anzubieten, die von der beantragten Kapazität abweicht.
 
-(5) Der Betreiber der Schienenwege hat durch Verhandlungen mit den Zugangsberechtigten auf einvernehmliche Lösungen hinzuwirken. Zu diesem Zweck hat er die folgenden Informationen den betroffenen Zugangsberechtigten innerhalb einer angemessenen Frist unentgeltlich und schriftlich oder elektronisch offenzulegen: Diese Informationen werden nach Maßgabe des § 4 bereitgestellt, ohne dass die Identität anderer Zugangsberechtigter offengelegt wird, es sei denn, die Zugangsberechtigten haben einer Offenlegung zugestimmt.
+(5) Der Betreiber der Schienenwege hat durch Verhandlungen mit den Zugangsberechtigten auf einvernehmliche Lösungen hinzuwirken. Zu diesem Zweck hat er die folgenden Informationen den betroffenen Zugangsberechtigten innerhalb einer angemessenen Frist unentgeltlich und schriftlich oder elektronisch offenzulegen:
 
-1.
+1. die von den übrigen Zugangsberechtigten auf denselben Strecken beantragten Zugtrassen;
 
-2.
+2. die den übrigen Zugangsberechtigten auf denselben Strecken vorläufig zugewiesenen Zugtrassen;
 
-3.
+3. die auf den betreffenden Strecken nach Absatz 2 vorgeschlagenen alternativen Zugtrassen und
 
-4.
+4. vollständige Angaben zu den bei der Zuweisung von Schienenwegkapazität verwendeten Kriterien.
 
-(6) Die Grundsätze des Koordinierungsverfahrens sind in die Schienennetz-Nutzungsbedingungen aufzunehmen. Sie tragen insbesondere Rechnung.
+(6) Die Grundsätze des Koordinierungsverfahrens sind in die Schienennetz-Nutzungsbedingungen aufzunehmen. Sie tragen insbesondere
 
-1.
+1. der Schwierigkeit, grenzüberschreitende Zugtrassen zu vereinbaren, und
 
-2.
+2. den Auswirkungen etwaiger Änderungen auf andere Betreiber der Schienenwege
 
-(7) Unbeschadet der bestehenden Rechtsbehelfe und des § 66 hat jeder Betreiber der Schienenwege für Streitfälle in Bezug auf die Zuweisung von Schienenwegkapazität ein Verfahren vorzusehen, das geeignet ist, Streitigkeiten rasch beilegen zu können. Danach soll der Betreiber der Schienenwege vorbehaltlich der sich aus § 49 ergebenden Rechte der Zugangsberechtigten und vorbehaltlich der Bestimmungen der §§ 55 und 57 nach Maßgabe folgender Reihenfolge entscheiden: Abweichungen von dieser Reihenfolge sind insbesondere aus Gründen der sicheren Durchführung von Zugfahrten möglich. Bei seiner Entscheidung hat der Betreiber der Schienenwege die Auswirkungen auf andere Betreiber der Schienenwege angemessen zu berücksichtigen.
+(7) Unbeschadet der bestehenden Rechtsbehelfe und des § 66 hat jeder Betreiber der Schienenwege für Streitfälle in Bezug auf die Zuweisung von Schienenwegkapazität ein Verfahren vorzusehen, das geeignet ist, Streitigkeiten rasch beilegen zu können. Danach soll der Betreiber der Schienenwege vorbehaltlich der sich aus § 49 ergebenden Rechte der Zugangsberechtigten und vorbehaltlich der Bestimmungen der §§ 55 und 57 nach Maßgabe folgender Reihenfolge entscheiden:
 
-1.
+1. vertakteter oder ins Netz eingebundener Verkehr,
 
-2.
+2. grenzüberschreitende Zugtrassen,
 
-3.
+3. Zugtrassen für den Güterverkehr.
 
-(8) Bei einer Entscheidung zwischen gleichrangigen Verkehren im Sinne des Absatzes 7 Satz 2 hat der Betreiber der Schienenwege die Entgelte für die streitigen Zugtrassen gegenüberzustellen und Ist zwischen vertaktetem Schienenpersonennahverkehr und anderem Verkehr nach Absatz 7 zu entscheiden, kann der Betreiber der Schienenwege abweichend von Satz 1 dem vertakteten Schienenpersonennahverkehr den Vorrang einräumen. Ist eine Entscheidung auf dieser Grundlage nicht möglich, muss der Betreiber der Schienenwege die Zugangsberechtigten auffordern, innerhalb von fünf Arbeitstagen ein Entgelt anzubieten, das über dem Entgelt liegt, das auf der Grundlage der Schienennetz-Nutzungsbedingungen zu zahlen wäre. Die Angebote dürfen dem Betreiber der Schienenwege ausschließlich über die Regulierungsbehörde zugeleitet werden, die die übrigen Bieter nach Ablauf der Frist von fünf Arbeitstagen über die Angebote und deren Höhe informiert. Der Betreiber der Schienenwege hat gegenüber dem Zugangsberechtigten, der das höchste Entgelt zu zahlen bereit ist, das Angebot nach § 54 zu machen. Entgeltnachlässe sind in diesen Fällen unzulässig. Ergänzungen und Abweichungen hat der Betreiber der Schienenwege in die Schienennetz-Nutzungsbedingungen aufzunehmen. Gelangt dieses System zur Anwendung, muss innerhalb von zehn Arbeitstagen eine Entscheidung getroffen werden.
+(8) Bei einer Entscheidung zwischen gleichrangigen Verkehren im Sinne des Absatzes 7 Satz 2 hat der Betreiber der Schienenwege die Entgelte für die streitigen Zugtrassen gegenüberzustellen und
 
-1.
+1. bei einem Konflikt zwischen zwei Zugtrassen der Zugtrasse den Vorrang einzuräumen, bei der das höchste Regelentgelt zu erzielen ist,
 
-2.
+2. bei einem Konflikt zwischen mehr als zwei Zugtrassen den Zugtrassen den Vorrang einzuräumen, bei denen in der Summe das höchste Regelentgelt zu erzielen ist.
 
 (9) Das Regelentgelt im Sinne von Absatz 8 beinhaltet nicht umweltbezogene Aufschläge oder Abschläge nach § 35 Absatz 2, insbesondere keine Entgeltdifferenzierung nach Lärmauswirkungen.
 
@@ -986,13 +928,13 @@ Die Anerkennung einer Vereinbarung als qualifizierte Regulierungsvereinbarung mu
 
 ### § 52a — Pilotprojekte zur Erprobung neuer Modelle der Kapazitätsnutzung und der Fahrplanerstellung sowie des Deutschlandtakts; Verordnungsermächtigung
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Schienenwege festzulegen, auf denen Pilotprojekte zur Erprobung verschiedener neuer Modelle der Kapazitätsnutzung und der Fahrplanerstellung durchgeführt werden. Dies dient insbesondere der Erprobung von Modellen im Hinblick auf den geplanten Deutschlandtakt sowie auf europäischer Ebene der Ermöglichung von Projekten im Rahmen des Projektes Redesign of the International Timetabling Process. Die Festlegung gemäß Satz 1 kann mit Vorgaben verbunden werden, insbesondere In der Verordnung können auch Vorgaben zur Laufzeit der Pilotprojekte sowie zur Berücksichtigung der Bedarfe und des gesellschaftlichen Nutzens der jeweiligen Verkehrsdienste gemäß Absatz 2 getroffen werden.
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Schienenwege festzulegen, auf denen Pilotprojekte zur Erprobung verschiedener neuer Modelle der Kapazitätsnutzung und der Fahrplanerstellung durchgeführt werden. Dies dient insbesondere der Erprobung von Modellen im Hinblick auf den geplanten Deutschlandtakt sowie auf europäischer Ebene der Ermöglichung von Projekten im Rahmen des Projektes Redesign of the International Timetabling Process. Die Festlegung gemäß Satz 1 kann mit Vorgaben verbunden werden, insbesondere
 
-1.
+1. wie das Verfahren zur Aufstellung des Kapazitätsnutzungsplans unbeschadet des § 19 nach Absatz 2 auszugestalten ist,
 
-2.
+2. wie für die ausgewählten Schienenwege eine Mittelfristperspektive für die Kapazitätsnutzung über die Laufzeit der Pilotprojekte aussehen kann und
 
-3.
+3. welchen Bedingungen die Konstruktionsparameter unbeschadet des Absatzes 2 Satz 6 zu genügen haben.
 
 (2) Für nach Absatz 1 festgelegte Schienenwege hat der Betreiber der Schienenwege jeweils einen Kapazitätsnutzungsplan aufzustellen. Der Betreiber der Schienenwege darf dabei von den Vorgaben der §§ 52, 55 und 57 abweichen. In dem Kapazitätsnutzungsplan sind die Kapazitäten auf die einzelnen Verkehrsdienste entsprechend ihren Bedarfen zu verteilen. Übersteigen die Bedarfe die Kapazitäten, ist bei der Kapazitätsverteilung zusätzlich der gesellschaftliche Nutzen der jeweiligen Verkehrsdienste zu berücksichtigen. § 56 Absatz 3 bleibt unberührt. Der Betreiber der Schienenwege hat bei der Festlegung der Konstruktionsparameter darauf zu achten, dass diese einem wirksamen Wettbewerb nicht entgegenstehen. In dem Kapazitätsnutzungsplan sind ferner unter Berücksichtigung der Ziele des § 3 die im Rahmen der Erstellung des Netzfahrplans maßgeblichen Einzelheiten des Koordinierungs- und Streitbeilegungsverfahrens zu regeln.
 
@@ -1008,11 +950,11 @@ Die Anerkennung einer Vereinbarung als qualifizierte Regulierungsvereinbarung mu
 
 ### § 54 — Nutzungsvertrag
 
-Steht der endgültige Netzfahrplanentwurf fest, hat der Betreiber der Schienenwege unverzüglich Die Erklärung erfolgt gegenüber dem Zugangsberechtigten. Das Angebot kann nur innerhalb von fünf Arbeitstagen angenommen werden.
+Steht der endgültige Netzfahrplanentwurf fest, hat der Betreiber der Schienenwege unverzüglich
 
-1.
+1. ein Angebot zum Abschluss einer Vereinbarung nach § 20 Absatz 1 und § 21 abzugeben oder
 
-2.
+2. die Ablehnung des Antrags mitzuteilen.
 
 ### § 55 — Überlastete Schienenwege
 
@@ -1056,19 +998,19 @@ Steht der endgültige Netzfahrplanentwurf fest, hat der Betreiber der Schienenwe
 
 ### § 59 — Plan zur Erhöhung der Schienenwegkapazität
 
-(1) Innerhalb von sechs Monaten nach Abschluss einer Kapazitätsanalyse hat der Betreiber der Schienenwege nach Konsultation der Nutzer der betroffenen überlasteten Schienenwege nach Absatz 2 der zuständigen Eisenbahnaufsichtsbehörde und der Regulierungsbehörde einen Plan zur Erhöhung der Schienenwegkapazität vorzulegen. Darin sind darzulegen.
+(1) Innerhalb von sechs Monaten nach Abschluss einer Kapazitätsanalyse hat der Betreiber der Schienenwege nach Konsultation der Nutzer der betroffenen überlasteten Schienenwege nach Absatz 2 der zuständigen Eisenbahnaufsichtsbehörde und der Regulierungsbehörde einen Plan zur Erhöhung der Schienenwegkapazität vorzulegen. Darin sind
 
-1.
+1. die Gründe für die Überlastung,
 
-2.
+2. die zu erwartende künftige Verkehrsentwicklung,
 
-3.
+3. den Schienenwegausbau betreffende Beschränkungen und
 
-4.
+4. die möglichen Maßnahmen und Kosten für die Erhöhung der Schienenwegkapazität, einschließlich der zu erwartenden Änderungen der Wegeentgelte,
 
-5.
+5. eine Kosten-Nutzen-Analyse der Maßnahmen nach Nummer 4 und
 
-6.
+6. ein Zeitplan für die Durchführung der Maßnahmen nach Nummer 4,
 
 (2) Beabsichtigt der Betreiber der Schienenwege einen Plan zur Erhöhung der Schienenwegkapazität vorzulegen, so ist der Plan mindestens drei Monate vor seiner Vorlage nach Absatz 1 auf der Internetseite des Betreibers der Schienenwege zu veröffentlichen. Der Veröffentlichung ist eine Darstellung der geplanten Maßnahmen in geeigneter Form beizufügen. Bei der Veröffentlichung ist darauf hinzuweisen, dass Zugangsberechtigte einen Monat lang zum Plan zur Erhöhung der Schienenwegkapazität Stellung nehmen können. Es ist anzugeben, auf welchem Weg diese Stellungnahmen erfolgen können.
 
@@ -1084,19 +1026,19 @@ Steht der endgültige Netzfahrplanentwurf fest, hat der Betreiber der Schienenwe
 
 (8) Der Betreiber der Schienenwege muss die Erhebung der Entgelte für die betreffende Infrastruktur nach § 35 Absatz 1 in den Fällen einstellen, in denen er
 
-1.
+1. keinen Plan zur Erhöhung der Schienenwegkapazität vorlegt oder
 
-2.
+2. mit den im Plan zur Erhöhung der Schienenwegkapazität aufgeführten Maßnahmen keine Fortschritte erzielt.
 
 (9) Unbeschadet des Absatzes 8 darf der Betreiber der Schienenwege vorbehaltlich der Zustimmung der Regulierungsbehörde weiterhin die Entgelte erheben, wenn
 
-1.
+1. der Plan zur Erhöhung der Schienenwegkapazität aus Gründen, die sich seinem Einfluss entziehen, nicht verwirklicht werden kann,
 
-2.
+2. die verfügbaren Optionen wirtschaftlich oder finanziell nicht tragfähig sind oder
 
-3.
+3. keine positive Entscheidung nach Absatz 6 vorliegt.
 
-(10) Die Aufsichtsbehörde überwacht die Einhaltung der Verpflichtungen aus den Regelungen zum überlasteten Schienenweg nach den Absätzen 1 bis 8 und nach § 58. Die Aufsichtsbehörde kann im Benehmen mit der Regulierungsbehörde die erforderlichen Maßnahmen zur Einhaltung der Pflichten treffen. Die Aufsichtsbehörde kann ihre Anordnungen nach den für die Vollstreckung von Verwaltungsmaßnahmen geltenden Vorschriften durchsetzen. Die Höhe des Zwangsgeldes beträgt bis zu 500 000 Euro.
+(10) Die Aufsichtsbehörde überwacht die Einhaltung der Verpflichtungen aus den Regelungen zum überlasteten Schienenweg nach den Absätzen 1 bis 8 und nach § 58. Die Aufsichtsbehörde kann im Benehmen mit der Regulierungsbehörde die erforderlichen Maßnahmen zur Einhaltung der Pflichten treffen. Die Aufsichtsbehörde kann ihre Anordnungen nach den für die Vollstreckung von Verwaltungsmaßnahmen geltenden Vorschriften durchsetzen. Die Höhe des Zwangsgeldes beträgt bis zu 500 000 Euro.
 
 ### § 60 — Nutzung von Zugtrassen
 
@@ -1130,49 +1072,43 @@ Steht der endgültige Netzfahrplanentwurf fest, hat der Betreiber der Schienenwe
 
 (1) Ist ein Zugangsberechtigter der Auffassung, durch Entscheidungen eines Eisenbahninfrastrukturunternehmens diskriminiert oder auf andere Weise in seinen Rechten verletzt worden zu sein, so hat er unabhängig von § 52 Absatz 7 das Recht, die Regulierungsbehörde anzurufen.
 
-(2) Ist ein Verband im Sinne des Satzes 2 der Auffassung, dass durch Entscheidungen eines Betreibers der Schienenwege oder eines Betreibers einer Serviceeinrichtung Rechte der Kunden im Personenverkehr oder im Güterverkehr nicht gewahrt werden, so hat er das Recht, bei der Regulierungsbehörde eine Beschwerde einzureichen, auf die ihm innerhalb einer angemessenen Frist eine Antwort erteilt werden muss. Beschwerdeberechtigt ist ein Verband nur, wenn Ein Verband, der in die Liste nach § 4 Absatz 2 Satz 1 in Verbindung mit Satz 2 des Unterlassungsklagengesetzes eingetragen ist, genügt den Anforderungen des Satzes 2.
+(2) Ist ein Verband im Sinne des Satzes 2 der Auffassung, dass durch Entscheidungen eines Betreibers der Schienenwege oder eines Betreibers einer Serviceeinrichtung Rechte der Kunden im Personenverkehr oder im Güterverkehr nicht gewahrt werden, so hat er das Recht, bei der Regulierungsbehörde eine Beschwerde einzureichen, auf die ihm innerhalb einer angemessenen Frist eine Antwort erteilt werden muss. Beschwerdeberechtigt ist ein Verband nur, wenn
 
-1.
+1. der Verband rechtsfähig ist,
 
-2.
+2. es zu den satzungsgemäßen Aufgaben des Verbandes gehört, die Interessen der Verbraucher nicht gewerbsmäßig und nicht nur vorübergehend wahrzunehmen, und
 
-3.
-
-a)
-
-b)
-
-c)
+3. der Verband a)als Mitglieder entweder in dem in Nummer 2 genannten Aufgabenbereich tätige Verbände oder mindestens 75 natürliche Personen hat,b)seit mindestens einem Jahr besteht undc)auf Grund seiner bisherigen Tätigkeit Gewähr für eine sachgerechte Aufgabenerfüllung bietet. als Mitglieder entweder in dem in Nummer 2 genannten Aufgabenbereich tätige Verbände oder mindestens 75 natürliche Personen hat, seit mindestens einem Jahr besteht und auf Grund seiner bisherigen Tätigkeit Gewähr für eine sachgerechte Aufgabenerfüllung bietet.
 
 (3) Kommt eine Vereinbarung über den Zugang oder über einen Rahmenvertrag nicht zustande, können die Entscheidungen des Eisenbahninfrastrukturunternehmens durch die Regulierungsbehörde auf Antrag des Zugangsberechtigten oder von Amts wegen überprüft werden. Der Antrag ist innerhalb der Frist zu stellen, in der das Angebot zum Abschluss von Vereinbarungen nach § 13 Absatz 1 Satz 2 oder § 54 Satz 3 angenommen werden kann.
 
 (4) Überprüft werden können auf Antrag oder von Amts wegen insbesondere
 
-1.
+1. der Entwurf und die Endfassung der Schienennetz-Nutzungsbedingungen,
 
-2.
+2. der Entwurf und die Endfassung der Nutzungsbedingungen für Serviceeinrichtungen,
 
-3.
+3. die darin festgelegten Kriterien,
 
-4.
+4. das Zuweisungsverfahren und dessen Ergebnis,
 
-5.
+5. die Entgeltregelung,
 
-6.
+6. die Höhe oder Struktur der Wegeentgelte, die der Zugangsberechtigte zu zahlen hat oder hätte,
 
-7.
+7. die Höhe und Struktur sonstiger Entgelte, die der Zugangsberechtigte zu zahlen hat oder hätte,
 
-8.
+8. die Zugangsregelungen nach den §§ 10, 11 und 13,
 
-9.
+9. Entscheidungen zum Verkehrsmanagement hinsichtlich möglicher Verstöße gegen das Eisenbahnregulierungsrecht,
 
-10.
+10. Entscheidungen über die Art und Weise der Erneuerungen und von geplanten und ungeplanten Instandhaltungen hinsichtlich möglicher Verstöße gegen das Eisenbahnregulierungsrecht, wobei die jeweiligen Planungen von der Überprüfung mit umfasst sind; § 9 des Bundeseisenbahnverkehrsverwaltungsgesetzes bleibt unberührt; und
 
-11.
+11. die Erfüllung der Anforderungen der §§ 8 bis 8d, einschließlich der Anforderungen in Hinsicht auf Konflikte zwischen den Interessen von Eisenbahnverkehrsunternehmen und Eisenbahninfrastrukturunternehmen.
 
 ### § 67 — Befugnisse der Regulierungsbehörde, Überwachung des Verkehrsmarktes, Vollstreckungsregelungen
 
-(1) Die Regulierungsbehörde kann gegenüber Eisenbahnen und den übrigen nach diesem Gesetz Verpflichteten die Maßnahmen treffen, die erforderlich sind, um Verstöße gegen dieses Gesetz oder unmittelbar geltende Rechtsakte der Europäischen Union im Anwendungsbereich dieses Gesetzes zu beseitigen oder zu verhüten. Vollstreckt die Regulierungsbehörde ihre Anordnungen, so beträgt die Höhe des Zwangsgeldes abweichend von § 11 Absatz 3 des Verwaltungs-Vollstreckungsgesetzes bis zu 500 000 Euro.
+(1) Die Regulierungsbehörde kann gegenüber Eisenbahnen und den übrigen nach diesem Gesetz Verpflichteten die Maßnahmen treffen, die erforderlich sind, um Verstöße gegen dieses Gesetz oder unmittelbar geltende Rechtsakte der Europäischen Union im Anwendungsbereich dieses Gesetzes zu beseitigen oder zu verhüten. Vollstreckt die Regulierungsbehörde ihre Anordnungen, so beträgt die Höhe des Zwangsgeldes abweichend von § 11 Absatz 3 des Verwaltungs-Vollstreckungsgesetzes bis zu 500 000 Euro.
 
 (2) Die Regulierungsbehörde kann Stellungnahmen zu den Entwürfen des Geschäftsplans nach § 9 abgeben. Sie untersucht insbesondere, ob diese Instrumente mit der Wettbewerbssituation in den Schienenverkehrsmärkten vereinbar sind.
 
@@ -1180,15 +1116,15 @@ c)
 
 (4) Die Regulierungsbehörde kann, soweit dies zur Durchführung der ihr nach diesem Gesetz übertragenen Aufgaben erforderlich ist, von den Zugangsberechtigten, den Eisenbahninfrastrukturunternehmen oder sonstigen nach diesem Gesetz Verpflichteten und den für sie tätigen Personen auch verdachtsunabhängig verlangen,
 
-1.
+1. Auskünfte über ihre wirtschaftlichen Verhältnisse zu erteilen sowie
 
-2.
+2. innerhalb der üblichen Betriebs- oder Geschäftszeiten die geschäftlichen Unterlagen einsehen, vervielfältigen und prüfen zu dürfen,
 
-3.
+3. Nachweise zu erbringen,
 
-4.
+4. Hilfsmittel zu stellen und
 
-5.
+5. Hilfsdienste zu leisten.
 
 (5) Die der Regulierungsbehörde zu erteilenden Auskünfte umfassen sämtliche Informationen, die sie in ihrer Eigenschaft als Beschwerdeinstanz und für die Überwachung des Wettbewerbs in den Schienenverkehrsmärkten benötigt. Dazu gehören auch Informationen, die für statistische und Marktüberwachungszwecke erforderlich sind. Die Regulierungsbehörde kann Vorgaben bezüglich der Form der zu erteilenden Auskünfte machen.
 
@@ -1200,11 +1136,11 @@ c)
 
 (1) Binnen eines Monats ab Erhalt einer Beschwerde prüft die Regulierungsbehörde die Beschwerde. Dazu fordert sie von den Betroffenen die für die Entscheidung erforderlichen Auskünfte an und leitet Gespräche mit allen Betroffenen ein. Innerhalb einer vorab bestimmten angemessenen Frist, in jedem Fall aber binnen sechs Wochen nach Erhalt aller erforderlichen Informationen entscheidet sie über die Beschwerde, trifft Abhilfemaßnahmen und setzt die Betroffenen von ihrer Entscheidung, die zu begründen ist, in Kenntnis. Unabhängig von den Zuständigkeiten der Kartellbehörden entscheidet sie von Amts wegen über geeignete Maßnahmen zur Verhütung von Diskriminierung und Marktverzerrung.
 
-(2) Beeinträchtigt im Fall des § 66 Absatz 1 oder 3 die Entscheidung eines Eisenbahninfrastrukturunternehmens das Recht des Zugangsberechtigten auf Zugang zur Eisenbahninfrastruktur, so Die Entscheidung nach Satz 1 kann auch Schienennetz-Nutzungsbedingungen oder Nutzungsbedingungen für Serviceeinrichtungen betreffen.
+(2) Beeinträchtigt im Fall des § 66 Absatz 1 oder 3 die Entscheidung eines Eisenbahninfrastrukturunternehmens das Recht des Zugangsberechtigten auf Zugang zur Eisenbahninfrastruktur, so
 
-1.
+1. verpflichtet die Regulierungsbehörde das Eisenbahninfrastrukturunternehmen zur Änderung der Entscheidung oder
 
-2.
+2. entscheidet die Regulierungsbehörde über die Geltung des Vertrags oder des Entgeltes, erklärt entgegenstehende Verträge für unwirksam und setzt die Vertragsbedingungen oder Entgelte fest.
 
 (3) Die Regulierungsbehörde kann mit Wirkung für die Zukunft das Eisenbahninfrastrukturunternehmen zur Änderung von Maßnahmen im Sinne des § 66 Absatz 4 verpflichten oder diese Maßnahmen für ungültig erklären, soweit diese nicht mit den Vorschriften dieses Gesetzes oder unmittelbar geltenden Rechtsakten der Europäischen Union im Anwendungsbereich dieses Gesetzes in Einklang stehen.
 
@@ -1220,17 +1156,17 @@ Die Regulierungsbehörde erhebt für individuell zurechenbare öffentliche Leist
 
 (3) Der Überprüfung durch die Regulierungsbehörde unterliegen insbesondere
 
-1.
+1. Finanzströme im Sinne des § 8d Absatz 1,
 
-2.
+2. Darlehen im Sinne des § 8d Absatz 5 und des § 80 Absatz 2,
 
-3.
+3. Preise im Sinne des § 8d Absatz 6,
 
-4.
+4. Verbindlichkeiten im Sinne des § 8d Absatz 7,
 
-5.
+5. die Führung der Konten im Sinne des § 8d Absatz 8 sowie
 
-6.
+6. die Führung der Aufzeichnungen im Sinne des § 8d Absatz 9.
 
 (4) Die in § 8c Absatz 2 genannten Kooperationsvereinbarungen unterliegen der Überprüfung durch die Regulierungsbehörde.
 
@@ -1244,55 +1180,51 @@ Die Regulierungsbehörde legt den gesetzgebenden Körperschaften des Bundes in d
 
 ### § 72 — Besondere Unterrichtungspflichten der Eisenbahninfrastrukturunternehmen
 
-Alle Eisenbahninfrastrukturunternehmen haben die Regulierungsbehörde unter Angabe der maßgeblichen Gründe unverzüglich zu unterrichten über Als teilweise Ablehnung im Sinne des Satzes 1 Nummer 1 bis 3 gelten nicht solche Veränderungen von Inhalten der Anmeldung, die im Rahmen eines Verfahrens nach § 52 oder nach Artikel 10 der Durchführungsverordnung (EU) 2017/2177 einvernehmlich erfolgen. Die Regulierungsbehörde kann Festlegungen zur Ausgestaltung der Unterrichtungen aus Satz 1 treffen. Die Unterrichtungspflicht nach Satz 1 Nummer 5 entfällt bei zu genehmigenden Entgelten und Entgeltgrundsätzen. Die Regelungen in Satz 1 Nummer 1 und 2 gelten entsprechend für die Zuweisung von Zugtrassen im Sinne des Artikels 14 Absatz 3 der Verordnung (EU) Nr. 913/2010.
+Alle Eisenbahninfrastrukturunternehmen haben die Regulierungsbehörde unter Angabe der maßgeblichen Gründe unverzüglich zu unterrichten über
 
-1.
+1. die beabsichtigte Entscheidung über die Zuweisung von Zugtrassen für den Netzfahrplan einschließlich des Mindestzugangspakets, sofern Anträge ganz oder teilweise abgelehnt werden sollen,
 
-2.
+2. die beabsichtigte Entscheidung über die Zuweisung von Zugtrassen einschließlich des Mindestzugangspakets außerhalb der Erstellung des Netzfahrplans, sofern Anträge ganz oder teilweise abgelehnt werden sollen,
 
-3.
+3. die beabsichtigte Entscheidung über den Zugang zu Serviceeinrichtungen einschließlich der damit verbundenen Leistungen, sofern Anträge ganz oder teilweise abgelehnt werden sollen,
 
-4.
+4. die beabsichtigte Entscheidung über die Ablehnung eines Rahmenvertrages,
 
-5.
+5. die beabsichtigte Neufassung oder Änderung von Schienennetz-Nutzungsbedingungen und von Nutzungsbedingungen für Serviceeinrichtungen einschließlich der jeweils vorgesehenen Entgeltgrundsätze und Entgelthöhen,
 
-6.
+6. die beabsichtigte Festlegung von Zugtrassen im Sinne des Artikels 14 Absatz 3 der Verordnung (EU) Nr. 913/2010 und
 
-7.
+7. die beabsichtigte Entscheidung über die Verteilung der eingeschränkten Schienenwegkapazität im Sinne des § 44 Absatz 1.
 
 ### § 73 — Vorabprüfung durch die Regulierungsbehörde
 
-(1) Die Regulierungsbehörde kann nach Eingang einer Unterrichtung nach § 72 innerhalb von ablehnen und die Ablehnung mit Vorgaben verbinden, soweit die beabsichtigten Entscheidungen, Neufassungen, Änderungen und Festlegungen nicht den gesetzlichen Voraussetzungen genügen.
+(1) Die Regulierungsbehörde kann nach Eingang einer Unterrichtung nach § 72 innerhalb von
 
-1.
+1. zehn Arbeitstagen die beabsichtigte Entscheidung nach § 72 Satz 1 Nummer 1 und 3,
 
-2.
+2. einem Arbeitstag die beabsichtigte Entscheidung nach § 72 Satz 1 Nummer 2,
 
-3.
+3. sechs Wochen die beabsichtigte Entscheidung nach § 72 Satz 1 Nummer 4,
 
-4.
+4. sechs Wochen die beabsichtigte Neufassung oder Änderung nach § 72 Satz 1 Nummer 5,
 
-5.
+5. sechs Wochen die beabsichtigte Festlegung nach § 72 Satz 1 Nummer 6 und
 
-6.
+6. sechs Wochen die beabsichtigte Festlegung nach § 72 Satz 1 Nummer 7
 
-(2) Vor Ablauf der Frist Die Regulierungsbehörde kann dem betreffenden Eisenbahninfrastrukturunternehmen vor Ablauf der Frist von Amts wegen mitteilen, dass sie ihr Ablehnungsrecht nicht ausüben wird. In diesem Fall kann sie bestimmen, dass § 68 bleibt unberührt.
+(2) Vor Ablauf der Frist
 
-1.
+1. kann das betreffende Eisenbahninfrastrukturunternehmen die in Absatz 1 Nummer 1 bis 3, 5 und 6 erfasste beabsichtigte Entscheidung oder Festlegung dem Zugangsberechtigten nur als rechtlich nicht bindenden Entwurf mitteilen oder die Festlegung der Kapazitätsverteilung nach § 44 Absatz 1 Satz 4 nur als rechtlich nicht bindenden Entwurf veröffentlichen und
 
-2.
-
-1.
-
-2.
+2. treten die in Absatz 1 Nummer 4 erfassten Schienennetz-Nutzungsbedingungen oder die Nutzungsbedingungen für Serviceeinrichtungen sowie Entgeltgrundsätze und die Festlegung der Entgelthöhen nicht in Kraft.
 
 (3) Übt die Regulierungsbehörde ihr Ablehnungsrecht aus,
 
-1.
+1. ist im Fall des Absatzes 1 Nummer 1 bis 3 und 6 unter Beachtung der Vorgaben der Regulierungsbehörde zu entscheiden,
 
-2.
+2. treten im Fall des Absatzes 1 Nummer 4 die Schienennetz-Nutzungsbedingungen oder die Nutzungsbedingungen für Serviceeinrichtungen einschließlich der vorgesehenen Entgeltgrundsätze oder die Festlegung der Entgelthöhen im Umfang der Ablehnung nicht in Kraft und dürfen insoweit nicht angewendet werden,
 
-3.
+3. sind die Trassen im Fall des Absatzes 1 Nummer 5 unter Beachtung der Vorgaben der Regulierungsbehörde neu festzulegen.
 
 (4) Die Regulierungsbehörde kann auf eine Unterrichtung eines Eisenbahninfrastrukturunternehmens nach § 72 ganz oder teilweise im Voraus verzichten, wenn eine Beeinträchtigung des Wettbewerbs durch die beabsichtigte Entscheidung, Neufassung, Änderung oder Festlegung nicht zu erwarten ist.
 
@@ -1338,27 +1270,27 @@ Für bürgerliche Rechtsstreitigkeiten, die sich aus diesem Gesetz ergeben, gilt
 
 ### § 77 — Beschlusskammern
 
-(1) Die Regulierungsbehörde entscheidet durch Beschlusskammern. Satz 1 ist nicht anzuwenden Die Entscheidungen der Beschlusskammern ergehen durch Verwaltungsakt.
+(1) Die Regulierungsbehörde entscheidet durch Beschlusskammern. Satz 1 ist nicht anzuwenden
 
-1.
+1. bei Entscheidungen der Marktüberwachung nach § 17,
 
-2.
+2. für die Erhebung von Gebühren und Auslagen und
 
-3.
+3. für Maßnahmen zur Erlangung von Auskünften, Nachweisen, Hilfsmitteln und Hilfeleistungen nach § 67 Absatz 4 bis 7 außerhalb von Beschlusskammerverfahren.
 
 (2) Die Beschlusskammern entscheiden in der Besetzung mit einem oder einer Vorsitzenden und zwei beisitzenden Mitgliedern. Der oder die Vorsitzende und die beisitzenden Mitglieder müssen die Befähigung für eine Laufbahn des höheren Dienstes erworben und ein rechtswissenschaftliches, wirtschaftswissenschaftliches oder ingenieurwissenschaftliches Studium abgeschlossen haben. Mindestens ein Mitglied der Beschlusskammer muss die Befähigung zum Richteramt haben. In den Fällen des § 73 Absatz 1 Nummer 2 kann der oder die Vorsitzende anstatt der Beschlusskammer entscheiden, sofern die Entscheidung ohne mündliche Verhandlung ergeht.
 
 (3) Die Beschlusskammer leitet ein Verfahren von Amts wegen oder innerhalb eines Monats nach Eingang eines entsprechenden Antrages ein. An dem Verfahren vor der Beschlusskammer sind beteiligt:
 
-1.
+1. der Zugangsberechtigte oder im Falle des § 66 Absatz 2 der beschwerdeführende Verband,
 
-2.
+2. das Unternehmen, gegen das sich das Verfahren richtet, und
 
-3.
+3. die Personen oder Personenvereinigungen, deren Interessen durch die Entscheidung erheblich berührt werden und die die Regulierungsbehörde auf deren Antrag zu dem Verfahren hinzugezogen hat,
 
-4.
+4. soweit der Zugang zu grenzüberschreitenden Zugtrassen, diesbezügliche Wegeentgelte oder der Wettbewerb im grenzüberschreitenden Schienenverkehr betroffen sind, die Regulierungsbehörden der betroffenen Staaten und,
 
-5.
+5. soweit die Beteiligung der Europäischen Kommission nach § 75 Absatz 8 beantragt wurde, die Europäische Kommission.
 
 (4) Bei einer Streitigkeit in einem unter dieses Gesetz fallenden Bereich zwischen Unternehmen in verschiedenen Mitgliedstaaten, die in die Zuständigkeit der nationalen Regulierungsbehörden von mehr als einem Mitgliedstaat fällt, kann jede Partei die Streitigkeit der Regulierungsbehörde vorlegen. Fällt die Streitigkeit in den Zuständigkeitsbereich der Regulierungsbehörde, so koordiniert sie ihre Maßnahmen mit den zuständigen nationalen Regulierungsbehörden der anderen betroffenen Mitgliedstaaten und, soweit die Beteiligung der Europäischen Kommission nach § 75 Absatz 8 beantragt wurde, mit der Europäischen Kommission. Die Beschlusskammer trifft ihre Entscheidung im Benehmen mit der betreffenden nationalen Regulierungsbehörde.
 
@@ -1366,9 +1298,9 @@ Für bürgerliche Rechtsstreitigkeiten, die sich aus diesem Gesetz ergeben, gilt
 
 (6) Die Beschlusskammer hat den Beteiligten Gelegenheit zur Stellungnahme zu geben. Den Personen, die von dem Verfahren berührte Wirtschaftskreise vertreten, kann die Beschlusskammer in geeigneten Fällen Gelegenheit zur Stellungnahme geben. Auf Antrag eines Beteiligten oder von Amts wegen kann die Beschlusskammer eine öffentliche mündliche Verhandlung durchführen. Für die Verhandlung oder Teile davon ist die Öffentlichkeit auszuschließen, wenn diese
 
-1.
+1. eine Gefährdung der öffentlichen Ordnung, insbesondere der Sicherheit des Staates, besorgen lässt oder
 
-2.
+2. die Gefährdung eines Betriebs- oder Geschäftsgeheimnisses besorgen lässt.
 
 (7) Unverzüglich nach der Vorlage von Unterlagen im Rahmen des Beschlusskammerverfahrens haben alle Beteiligten diejenigen Teile zu kennzeichnen, die Betriebs- oder Geschäftsgeheimnisse enthalten. In diesem Fall müssen sie zusätzlich eine Fassung vorlegen, die ohne Preisgabe von Betriebs- oder Geschäftsgeheimnissen eingesehen werden kann. Unterbleibt die Vorlage einer freigegebenen Fassung nach Satz 2, kann die Beschlusskammer von der Zustimmung der Beteiligten zur Einsicht ausgehen, es sei denn, ihr sind besondere Umstände bekannt, die eine solche Vermutung nicht rechtfertigen. Hält die Beschlusskammer die Kennzeichnung der Unterlagen als Betriebs- oder Geschäftsgeheimnisse für unberechtigt, so muss sie vor der Entscheidung über die Gewährung von Einsichtnahme an andere Beteiligte die vorlegenden Personen anhören.
 
@@ -1380,33 +1312,33 @@ Für bürgerliche Rechtsstreitigkeiten, die sich aus diesem Gesetz ergeben, gilt
 
 (2) Gegen Entscheidungen der Regulierungsbehörde findet außer in Verfahren über die Erhebung von Gebühren und Auslagen nach § 69 kein Vorverfahren statt.
 
-(3) Im Falle einer Entscheidung der Regulierungsbehörde, mit Ausnahme von Entscheidungen über die Erhebung von Gebühren, sind die Berufung gegen ein Urteil und die Beschwerde nach der Verwaltungsgerichtsordnung oder nach dem Gerichtsverfassungsgesetz gegen eine andere Entscheidung des Verwaltungsgerichts ausgeschlossen. Das gilt nicht für Auf die Beschwerde gegen die Beschlüsse über den Rechtsweg ist § 17a Absatz 4 Satz 4 bis 6 des Gerichtsverfassungsgesetzes entsprechend anzuwenden.
+(3) Im Falle einer Entscheidung der Regulierungsbehörde, mit Ausnahme von Entscheidungen über die Erhebung von Gebühren, sind die Berufung gegen ein Urteil und die Beschwerde nach der Verwaltungsgerichtsordnung oder nach dem Gerichtsverfassungsgesetz gegen eine andere Entscheidung des Verwaltungsgerichts ausgeschlossen. Das gilt nicht für
 
-1.
+1. die Beschwerde gegen die Nichtzulassung der Revision nach § 135 in Verbindung mit § 133 der Verwaltungsgerichtsordnung und
 
-2.
+2. die Beschwerde gegen Beschlüsse über den Rechtsweg nach § 17a Absatz 2 und 3 des Gerichtsverfassungsgesetzes.
 
 ### § 78 — Gutachten der Monopolkommission
 
-(1) Die Monopolkommission erstellt alle zwei Jahre ein Gutachten, in dem sie Das Gutachten soll in dem Jahr abgeschlossen sein, in dem kein Hauptgutachten nach § 44 des Gesetzes gegen Wettbewerbsbeschränkungen vorgelegt wird.
+(1) Die Monopolkommission erstellt alle zwei Jahre ein Gutachten, in dem sie
 
-1.
+1. den Stand und die absehbare Entwicklung des Wettbewerbs beurteilt,
 
-2.
+2. die Frage beurteilt, ob ein wirksamer Wettbewerb im Sinne des § 3 Nummer 2 besteht,
 
-3.
+3. die Anwendung der Vorschriften des Eisenbahnrechts würdigt und
 
-4.
+4. zu sonstigen aktuellen wettbewerbspolitischen Fragen im Zusammenhang mit dem Betrieb von Eisenbahnen Stellung nimmt.
 
 (2) Die Monopolkommission leitet ihr Gutachten der Bundesregierung zu. Die Bundesregierung legt das Gutachten unverzüglich den gesetzgebenden Körperschaften vor und nimmt zu den getroffenen Feststellungen innerhalb einer angemessenen Frist nach der Vorlage Stellung. Das Gutachten wird von der Monopolkommission zu dem Zeitpunkt veröffentlicht, zu dem es von der Bundesregierung den gesetzgebenden Körperschaften vorgelegt wird.
 
 ### § 79 — Eisenbahninfrastrukturbeirat
 
-(1) Der Eisenbahninfrastrukturbeirat hat die Aufgabe, Er ist gegenüber der Regulierungsbehörde berechtigt, Auskünfte und Stellungnahmen einzuholen. Die Regulierungsbehörde ist insoweit auskunftspflichtig.
+(1) Der Eisenbahninfrastrukturbeirat hat die Aufgabe,
 
-1.
+1. die Regulierungsbehörde bei der Wahrnehmung ihrer Aufgaben und der Erstellung des Berichts nach § 71 zu beraten,
 
-2.
+2. der Regulierungsbehörde Vorschläge für die Schwerpunkte ihrer Tätigkeit zu machen.
 
 (2) Stehen grundlegende Entscheidungen der Regulierungsbehörde mit erheblichen Auswirkungen auf den Eisenbahnmarkt bevor, so hört die Regulierungsbehörde den Eisenbahninfrastrukturbeirat vor Erlass der Entscheidung zu deren wesentlichen Inhalten an. Die Regulierungsbehörde kann die Anhörungen im schriftlichen Verfahren durchführen.
 
@@ -1428,119 +1360,53 @@ Für bürgerliche Rechtsstreitigkeiten, die sich aus diesem Gesetz ergeben, gilt
 
 Die Eisenbahnanlagen umfassen folgende Anlagen, sofern diese zu den Haupt- und Nebengleisen gehören, ausgenommen Gleise innerhalb der Ausbesserungswerke, Bahnbetriebswerke oder Lokomotivschuppen sowie private Gleisanschlüsse:
 
-1.
+1. Grundstücke;
 
-2.
+2. Bahnkörper und Planum, insbesondere Dämme, Einschnitte, Dränagen und Entwässerungsgräben, Öffnungen geringer Lichtweite, Futtermauern und Anpflanzungen zum Schutz der Böschungen usw., Personenbahnsteige und Laderampen, auch in Personenbahnhöfen und Güterterminals, Seitenstreifen und Seitenwege, Einfriedungsmauern, Hecken und Zäune, Feuerschutzstreifen, Heizanlagen für Weichen, Gleiskreuzungen, Schneezäune;
 
-3.
+3. Kunstbauten, insbesondere Brücken, Durchlässe und sonstige Bahnüberführungen, Tunnel, überdeckte Einschnitte und sonstige Bahnunterführungen, Stützmauern und Schutzbauten insbesondere gegen Lawinen, Steinschlag;
 
-4.
+4. schienengleiche Übergänge einschließlich der zur Sicherung des Straßenverkehrs erforderlichen Anlagen;
 
-5.
+5. Oberbau: Schienen, Rillenschienen und Leitschienen, Schwellen und Langschwellen, Kleineisen zur Schienenverbindung, Bettung einschließlich Kies und Sand, Weichen und Gleiskreuzungen, Drehscheiben und Schiebebühnen (ausgenommen diejenigen, die nur den Triebfahrzeugen dienen);
 
-6.
+6. Zugangswege für Passagiere und Güter, einschließlich der Zufahrtsstraßen und des Zugangs für Fußgänger;
 
-7.
+7. Sicherungs-, Signal- und Fernmeldeanlagen auf freier Strecke, auf Bahnhöfen und Rangierbahnhöfen, einschließlich der Anlagen zur Erzeugung, Umwandlung und Verteilung von elektrischem Strom für das Signalwesen und die Fernmeldeanlagen, die zu den vorgenannten Anlagen gehörenden Gebäude, Gleisbremsen;
 
-8.
+8. Beleuchtungsanlagen für den Ablauf und die Sicherung des Verkehrs;
 
-9.
+9. Anlagen zur Umwandlung und Zuleitung von Strom für die elektrische Zugförderung: Unterwerke, Stromversorgungsleitungen zwischen Unterwerk und Fahrdraht, Fahrleitungen mit Masten, dritte Schiene mit Tragestützen;
 
-10.
+10. Dienstgebäude des Wegedienstes, einschließlich eines Teils der Anlagen für die Erhebung von Beförderungsentgelten.
 
 ### Anlage 2 — (zu den §§ 10 bis 14)
 
-1.
+1. Das Mindestzugangspaket umfasst Folgendes: a)die Bearbeitung von Anträgen auf Zuweisung von Schienenwegkapazität der Eisenbahn;b)das Recht zur Nutzung zugewiesener Schienenwegkapazität;c)die Nutzung der Eisenbahnanlagen einschließlich Weichen und Abzweigungen;d)die Zugsteuerung einschließlich der Signalisierung, Regelung, Abfertigung und der Übermittlung und Bereitstellung von Informationen über Zugbewegungen;e)die Nutzung von Anlagen zur streckenbezogenen Versorgung mit Fahrstrom, sofern vorhanden;f)alle anderen Informationen, die zur Durchführung oder zum Betrieb des Verkehrsdienstes, für den Kapazität zugewiesen wurde, erforderlich sind. die Bearbeitung von Anträgen auf Zuweisung von Schienenwegkapazität der Eisenbahn; das Recht zur Nutzung zugewiesener Schienenwegkapazität; die Nutzung der Eisenbahnanlagen einschließlich Weichen und Abzweigungen; die Zugsteuerung einschließlich der Signalisierung, Regelung, Abfertigung und der Übermittlung und Bereitstellung von Informationen über Zugbewegungen; die Nutzung von Anlagen zur streckenbezogenen Versorgung mit Fahrstrom, sofern vorhanden; alle anderen Informationen, die zur Durchführung oder zum Betrieb des Verkehrsdienstes, für den Kapazität zugewiesen wurde, erforderlich sind.
 
-a)
+2. Der Zugang, einschließlich des Schienenzugangs, wird zu folgenden Serviceeinrichtungen, soweit vorhanden, und zu den Leistungen, die in diesen Einrichtungen erbracht werden, gewährt: a)Personenbahnhöfe, deren Gebäude und sonstige Einrichtungen, einschließlich Einrichtungen für die Anzeige von Reiseauskünften sowie geeigneter Örtlichkeiten für den Fahrscheinverkauf;b)Güterterminals;c)Rangierbahnhöfe und Zugbildungseinrichtungen einschließlich Rangiereinrichtungen;d)Abstellgleise;e)Wartungseinrichtungen, mit Ausnahme von Leistungen im Rahmen der schweren Instandhaltung, die für Hochgeschwindigkeitszüge oder andere Arten von Fahrzeugen erbracht werden, die besonderer Einrichtungen bedürfen;f)andere technische Einrichtungen einschließlich Reinigungs- und Wascheinrichtungen;g)See- und Binnenhafenanlagen mit Schienenverkehr;h)Hilfseinrichtungen; zu Hilfseinrichtungen gehören auch Zuführungsgleise und Verladeeinrichtungen für Autozugverkehre;i)Einrichtungen für die Aufnahme von Brennstoffen und alternativen Kraftstoffen und Bereitstellung von Brennstoffen und alternativen Kraftstoffen in diesen Einrichtungen, deren Preis auf der Rechnung getrennt auszuweisen ist;j)Ladeeinrichtungen, in denen die Ladung der Fahrzeuge mit Strom ausschließlich während des Fahrzeugstillstandes erfolgt, und die Bereitstellung von Ladestrom, dessen Preis auf der Rechnung getrennt von den für die Nutzung der Ladeeinrichtung erhobenen Entgelten auszuweisen ist, unbeschadet der Vorschriften des Energiewirtschaftsgesetzes. Personenbahnhöfe, deren Gebäude und sonstige Einrichtungen, einschließlich Einrichtungen für die Anzeige von Reiseauskünften sowie geeigneter Örtlichkeiten für den Fahrscheinverkauf; Güterterminals; Rangierbahnhöfe und Zugbildungseinrichtungen einschließlich Rangiereinrichtungen; Abstellgleise; Wartungseinrichtungen, mit Ausnahme von Leistungen im Rahmen der schweren Instandhaltung, die für Hochgeschwindigkeitszüge oder andere Arten von Fahrzeugen erbracht werden, die besonderer Einrichtungen bedürfen; andere technische Einrichtungen einschließlich Reinigungs- und Wascheinrichtungen; See- und Binnenhafenanlagen mit Schienenverkehr; Hilfseinrichtungen; zu Hilfseinrichtungen gehören auch Zuführungsgleise und Verladeeinrichtungen für Autozugverkehre; Einrichtungen für die Aufnahme von Brennstoffen und alternativen Kraftstoffen und Bereitstellung von Brennstoffen und alternativen Kraftstoffen in diesen Einrichtungen, deren Preis auf der Rechnung getrennt auszuweisen ist; Ladeeinrichtungen, in denen die Ladung der Fahrzeuge mit Strom ausschließlich während des Fahrzeugstillstandes erfolgt, und die Bereitstellung von Ladestrom, dessen Preis auf der Rechnung getrennt von den für die Nutzung der Ladeeinrichtung erhobenen Entgelten auszuweisen ist, unbeschadet der Vorschriften des Energiewirtschaftsgesetzes.
 
-b)
+3. Die Zusatzleistungen können Folgendes umfassen: a)Bereitstellung von Fahrstrom, dessen Preis auf der Rechnung getrennt von den für die Nutzung der Stromversorgungseinrichtungen erhobenen Entgelten auszuweisen ist, unbeschadet der Vorschriften des Energiewirtschaftsgesetzes;b)Vorheizen von Personenzügen;c)kundenspezifische Verträge über aa)die Überwachung von Gefahrguttransporten,bb)die Unterstützung beim Betrieb ungewöhnlicher Züge. Bereitstellung von Fahrstrom, dessen Preis auf der Rechnung getrennt von den für die Nutzung der Stromversorgungseinrichtungen erhobenen Entgelten auszuweisen ist, unbeschadet der Vorschriften des Energiewirtschaftsgesetzes; Vorheizen von Personenzügen; kundenspezifische Verträge über aa)die Überwachung von Gefahrguttransporten,bb)die Unterstützung beim Betrieb ungewöhnlicher Züge. die Überwachung von Gefahrguttransporten, die Unterstützung beim Betrieb ungewöhnlicher Züge.
 
-c)
-
-d)
-
-e)
-
-f)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-3.
-
-a)
-
-b)
-
-c)
-
-aa)
-
-bb)
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+4. Die Nebenleistungen können Folgendes umfassen: a)Zugang zu Telekommunikationsnetzen;b)Bereitstellung zusätzlicher Informationen;c)technische Inspektion der Fahrzeuge;d)Fahrscheinverkauf in Personenbahnhöfen;e)Leistungen im Rahmen der schweren Instandhaltung, die in Wartungseinrichtungen erbracht werden, die für Hochgeschwindigkeitszüge oder andere Arten von Fahrzeugen bestimmt sind, die besonderer Einrichtungen bedürfen. Zugang zu Telekommunikationsnetzen; Bereitstellung zusätzlicher Informationen; technische Inspektion der Fahrzeuge; Fahrscheinverkauf in Personenbahnhöfen; Leistungen im Rahmen der schweren Instandhaltung, die in Wartungseinrichtungen erbracht werden, die für Hochgeschwindigkeitszüge oder andere Arten von Fahrzeugen bestimmt sind, die besonderer Einrichtungen bedürfen.
 
 ### Anlage 3 — (zu § 19)
 
 Die Schienennetz-Nutzungsbedingungen nach § 19 müssen folgende Angaben enthalten:
 
-1.
+1. Einen Abschnitt mit Angaben zur Art des Schienenwegs, der den Eisenbahnverkehrsunternehmen zur Verfügung steht, sowie zu den Zugangsbedingungen für den betreffenden Schienenweg. Die Angaben in diesem Abschnitt müssen, auf Jahresbasis, mit den Eisenbahninfrastrukturregistern nach § 29 Absatz 3 der Eisenbahn-Inbetriebnahmegenehmigungsverordnung im Einklang stehen oder auf diese verweisen.
 
-2.
+2. Einen Abschnitt mit einer Darlegung der Entgeltgrundsätze und der Entgelte. Dieser Abschnitt umfasst hinreichende Einzelheiten der Entgeltregelung sowie ausreichende Informationen zu den Entgelten und andere für den Zugang relevante Angaben bezüglich der in Anlage 2 aufgeführten Leistungen, die nur von einem einzigen Anbieter erbracht werden. Es ist im Einzelnen aufzuführen, welche Verfahren, Regeln und gegebenenfalls Tabellen zur Durchführung der §§ 34 bis 40 in Bezug sowohl auf Kosten als auch auf Entgelte angewandt werden. Dieser Abschnitt enthält ferner Angaben zu bereits beschlossenen oder, soweit verfügbar, in den kommenden fünf Jahren vorgesehenen Entgeltänderungen.
 
-3.
+3. Einen Abschnitt über die Grundsätze und die Kriterien für die Zuweisung von Schienenwegkapazität. Es sind Angaben zu den allgemeinen Kapazitätsmerkmalen des Schienenwegs, der den Eisenbahnverkehrsunternehmen zur Verfügung steht, sowie zu etwaigen Nutzungseinschränkungen, einschließlich des zu erwartenden Kapazitätsbedarfs für Instandhaltungszwecke, zu machen. In diesem Abschnitt sind ferner die Abwicklung und die Fristen des Verfahrens der Zuweisung von Schienenwegkapazität anzugeben. Er enthält spezifische Kriterien, die für dieses Verfahren von Belang sind, insbesondere a)die Verfahren für die Stellung von Anträgen auf Zuweisung von Schienenwegkapazität durch Zugangsberechtigte beim Betreiber der Schienenwege,b)Anforderungen an Zugangsberechtigte,c)Zeitplan des Antrags- und Zuweisungsverfahrens und der Verfahren, die bei der Anforderung von Informationen zur Netzfahrplanerstellung einzuhalten sind, sowie der Verfahren zur zeitlichen Planung planmäßiger und außerplanmäßiger Instandhaltungsarbeiten,d)Grundsätze des Koordinierungsverfahrens und des in diesem Rahmen eingerichteten Streitbeilegungssystems,e)im Fall einer Schienenwegüberlastung durchzuführende Verfahren und anzuwendende Kriterien,f)Einzelheiten zur Nutzungsbeschränkung von Schienenwegen,g)Bedingungen, durch die dem Grad der bisherigen Inanspruchnahme von Schienenwegkapazität bei der Festlegung von Rangfolgen im Zuweisungsverfahren Rechnung getragen wird.In diesem Abschnitt ist im Einzelnen anzugeben, welche Maßnahmen getroffen wurden, um eine angemessene Behandlung der Güterverkehrsdienste, der grenzüberschreitenden Verkehrsdienste und der Anträge außerhalb des Netzfahrplans sicherzustellen. Er enthält ein Muster für die Beantragung von Schienenwegkapazität. Der Betreiber der Schienenwege veröffentlicht zudem genaue Angaben zu den Verfahren für die Zuweisung grenzüberschreitender Zugtrassen. die Verfahren für die Stellung von Anträgen auf Zuweisung von Schienenwegkapazität durch Zugangsberechtigte beim Betreiber der Schienenwege, Anforderungen an Zugangsberechtigte, Zeitplan des Antrags- und Zuweisungsverfahrens und der Verfahren, die bei der Anforderung von Informationen zur Netzfahrplanerstellung einzuhalten sind, sowie der Verfahren zur zeitlichen Planung planmäßiger und außerplanmäßiger Instandhaltungsarbeiten, Grundsätze des Koordinierungsverfahrens und des in diesem Rahmen eingerichteten Streitbeilegungssystems, im Fall einer Schienenwegüberlastung durchzuführende Verfahren und anzuwendende Kriterien, Einzelheiten zur Nutzungsbeschränkung von Schienenwegen, Bedingungen, durch die dem Grad der bisherigen Inanspruchnahme von Schienenwegkapazität bei der Festlegung von Rangfolgen im Zuweisungsverfahren Rechnung getragen wird.
 
-a)
+4. Einen Abschnitt mit Informationen bezüglich der Beantragung von Genehmigungen nach § 6 des Allgemeinen Eisenbahngesetzes und von nach § 7a des Allgemeinen Eisenbahngesetzes erteilten Sicherheitsbescheinigungen oder mit der Angabe einer Webseite, auf der diese Informationen unentgeltlich in elektronischer Form zur Verfügung gestellt werden.
 
-b)
+5. Einen Abschnitt mit Angaben zu den Streitbeilegungs- und Beschwerdeverfahren bezüglich des Zugangs zu Schieneninfrastruktur und Diensten sowie der leistungsabhängigen Entgeltregelung nach § 39.
 
-c)
+6. Einen Verweis auf Informationen über den Zugang zu den Serviceeinrichtungen nach Anlage 2 und die dafür erhobenen Entgelte. Die Betreiber einer Serviceeinrichtung stellen Informationen über die Entgelte, die für den Zugang zu den Einrichtungen und die erbrachten Leistungen erhoben werden, sowie über die technischen Zugangsbedingungen bereit und geben eine Webseite an, auf der diese Informationen unentgeltlich in elektronischer Form zur Verfügung gestellt werden. Die auf der Webseite angegebenen Inhalte sind nicht Bestandteil der Schienennetz-Nutzungsbedingungen.
 
-d)
-
-e)
-
-f)
-
-g)
-
-4.
-
-5.
-
-6.
-
-7.
+7. Einen Mustervertrag für den Abschluss von Rahmenverträgen zwischen dem Betreiber der Schienenwege und Zugangsberechtigten nach § 49.
 
 ### Anlage 4 — (zu den §§ 25 bis 27)
 
@@ -1548,87 +1414,63 @@ Anlage 4 verdeutlicht die grundsätzliche Vorgehensweise im Rahmen der Anreizset
 
 Durchführung der Anreizsetzung
 
-1.
+1. Grundsätze
 
-1.1
+1.1 Die für die Bestimmung des Ausgangsniveaus der Gesamtkosten nach § 25 Absatz 1 der Betreiber der Schienenwege anzusetzenden Kosten umfassen alle Kosten, die zur Erbringung des Mindestzugangspakets erforderlich sind. Diese Kosten bestehen aus den aufwandsgleichen Kosten nach Nummer 2, den Abschreibungen nach Nummer 3 und den Kapitalkosten nach Nummer 5 abzüglich sonstiger Erträge und Erlöse nach Nummer 4 nach Maßgabe einer an den Anforderungen dieses Gesetzes entsprechenden Kostenermittlung (regulatorische Kostenermittlung).
 
-1.2
+1.2 In der regulatorischen Kostenermittlung sind nur Einzelkosten, Gemeinkosten und, zur Bestimmung der Kapitalkosten nach Nummer 5, die Vermögensgegenstände zu berücksichtigen, die der Leistungsbereitstellung nach § 31 Absatz 1 oder Absatz 2 zuzurechnen sind. Kosten, Vermögensgegenstände und Passiva, die sich nicht oder nur mit unvertretbar hohem Aufwand im Sinne des Satzes 1 unmittelbar zurechnen lassen, sind über eine sachgerechte und stetige Schlüsselung der jeweiligen Eisenbahninfrastruktur zuzuordnen. Die Regulierungsbehörde kann Festlegungen zur Schlüsselung solcher Kosten und Vermögensgegenstände sowie Passiva treffen.
 
-1.3
+1.3 Die Kosten des Basisjahres sind bis zum Jahr vor Beginn der Regulierungsperiode fortzuschreiben. Hierzu werden die für das Basisjahr ermittelten Kosten, beginnend mit dem mittleren Jahr des für das Basisjahr zu Grunde gelegten Zeitraumes und endend im Jahr vor Beginn der Regulierungsperiode, um einen jährlich kumulierten Betrag auf der Grundlage einer Inflationierung nach § 28 Absatz 1 erhöht und um einen jährlich kumulierten Betrag auf der Grundlage des Produktivitätsfortschritts nach § 28 Absatz 2 reduziert. Bei einer geraden Anzahl von Jahren im Basisjahrzeitraum ist einmalig eine entsprechend anteilige Fortschreibung vorzunehmen, danach sind entsprechend jährliche Beträge zu kumulieren. Darüber hinaus ist die angemessene Berücksichtigung einer sachgerechten Fortschreibung in entsprechender Anwendung von § 25 Absatz 3 bis 5, der §§ 26 und 27 sowie eine Berücksichtigung der Regelungen des § 29 Absatz 5 möglich. Bedarf es einer Prüfung der tatsächlichen Erreichbarkeit entsprechend § 26, so sind auch gestiegene Personalkosten aufgrund von Tarifvertragsabschlüssen und gestiegene Energiekosten zu berücksichtigen, soweit sie nicht bereits durch Satz 2 erfasst sind. Die Betriebsleistung für die einzelnen Verkehrsdienste und deren Marktsegmente des Basisjahres ist bis zum Jahr vor Beginn der Regulierungsperiode fortzuschreiben.
 
-2.
+2. Aufwandsgleiche Kostenpositionen
 
-2.1
+2.1 Aufwandsgleiche Kostenpositionen sind zu berücksichtigende Einzel- und Gemeinkosten der Schienenwege, die betrieblichen, periodengerechten und ordentlichen Aufwand der Betreiber der Schienenwege eines Jahres und nach Maßgabe der Gewinn- und Verlustrechnung mit Bezug auf die zuzurechnende Leistungsbereitstellung nach § 31 darstellen.
 
-2.2
+2.2 Betriebsfremde Aufwendungen sowie außerordentliche, periodenfremde oder auf Besonderheiten des Geschäftsjahres beruhende Aufwendungen und Erträge sind in der Kostenrechnung nicht zu berücksichtigen. Aufwendungen sind stets der Periode zuzuordnen, für die sie anfallen. Die Regulierungsbehörde kann unter Berücksichtigung des § 27 Absatz 1 und der in § 3 genannten Ziele Festlegungen zur Berücksichtigung außerordentlicher, periodenfremder oder auf Besonderheiten des Geschäftsjahres beruhender Aufwendungen und Erträge sowie einer sachgerechten Verteilung dieser außerordentlichen oder periodenfremden Aufwendungen und Erträge sowohl bei der Bestimmung des Ausgangsniveaus als auch während einer laufenden Regulierungsperiode treffen, soweit diese Aufwendungen und Erträge die Kosten spürbar beeinflussen würden.
 
-3.
+3. Abschreibungen
 
-3.1
+3.1 Zur Bemessung des Ausgangsniveaus der Gesamtkosten nach § 25 Absatz 1 wird die Wertminderung der zu berücksichtigenden Vermögensgegenstände des Anlagevermögens in Ansatz gebracht. Hierbei sind die bilanziellen Abschreibungen anzusetzen. Im Falle der Gewährung von Zuwendungen zur Finanzierung dieser Vermögensgegenstände sind die erhaltenen Zuwendungen bei der Ermittlung der Anschaffungs- und Herstellkosten des Anlagevermögens und entsprechend bei der Ermittlung der im Ausgangsniveau der Gesamtkosten zu berücksichtigenden Abschreibungen in Abzug zu bringen. Dies gilt sowohl für Investitionen in das Bestandsnetz als auch für Neubau oder Ausbau von Eisenbahninfrastruktur.
 
-3.2
+3.2 Werden Zuwendungen gewährt, sind die Prüfergebnisse und die Prüfberichte der mit der Verwendungsprüfung dieser Zuwendungen beauftragten Stellen und Institutionen der Regulierungsbehörde zugänglich zu machen. Weiterhin sind der Regulierungsbehörde vollständige Übersichten und Stammdateninformationen über sämtliche Anlagen vorzulegen, die im Basisjahr aktiv waren und auf der Grundlage von Zuwendungen finanziert wurden. Aus diesen Übersichten sollen mindestens die Anschaffungs- und Herstellkosten, die Finanzierungsanteile über Zuwendungen, vertraglich vereinbarte Eigenmittel und sonstige Mittel, die Aktivierungszeitpunkte sowie die Abschreibungsdauern und Abschreibungshöhen der jeweiligen Anlagen hervorgehen. Die Systematiken der Aufteilung der vertraglich vereinbarten Mittel auf den Bereich zur Erbringung des Mindestzugangspakets sowie auf die im Basisjahr aktivierten Anlagen sind der Regulierungsbehörde darzulegen.
 
-4.
+4. Kostenmindernde Erlöse und Erträge Die Kosten mindern sich um sonstige neben der Leistungsbereitstellung nach § 25 Absatz 1 anfallende Erlöse und Erträge und aktivierte Eigenleistungen abzüglich diesen zuzuordnenden Kosten, soweit sie sachlich der Erbringung der relevanten Leistungen zuzurechnen sind. Erlöse und Erträge, die als Zuwendungen gewährt werden, sind hiervon ausgenommen.
 
-5.
+5. Kapitalkosten
 
-5.1
+5.1 Die zulässige Verzinsung für das eingesetzte Kapital bestimmt sich, vorbehaltlich der Ziffer 5.2.3, aus einer kapitalmarktüblichen Verzinsung.
 
-5.2
+5.2 Die Regulierungsbehörde legt die Zinssätze für die Betreiber der Schienenwege auf Basis der tatsächlichen Kapitalstruktur fest.
 
-5.2.1
+5.2.1 Für die Verzinsung des Fremdkapitals ist ein kalkulatorischer Zinssatz anzusetzen.
 
-5.2.2
+5.2.2 Für den anzusetzenden Eigenkapitalzinssatz für Betreiber der Schienenwege differenziert die Regulierungsbehörde in Abhängigkeit vom Anteil des Schienengüterverkehrs am Umsatz des jeweiligen Betreibers der Schienenwege.
 
-5.2.3
+5.2.3 Für die Verzinsung des Eigenkapitals eines Betreibers der Schienenwege der Eisenbahnen des Bundes ist ein Zinssatz von 1,9 Prozent anzusetzen.
 
-5.3
+5.3 Zur Ermittlung der Kapitalkosten werden die festgelegten Zinssätze auf das für das Mindestzugangspaket nach Anlage 2 Nummer 1 eingesetzte, verzinsliche Kapital nach § 25 Absatz 1 angewendet.
 
-6.
+6. Anpassung der Obergrenze der Gesamtkosten aufgrund qualifizierter Regulierungsvereinbarungen Vor einer Anpassung nach § 25 Absatz 3 prüft die Regulierungsbehörde, ob sich der Aufwand gegenüber dem Ausgangsniveau der Gesamtkosten mehr als geringfügig verändern wird. Soweit es sich um Aufwendungen handelt, die in der qualifizierten Regulierungsvereinbarung pro Jahr benannt sind, ergibt sich der Nachweis aus der Vereinbarung selbst. Für Aufwendungen, die in der qualifizierten Regulierungsvereinbarung benannt, jedoch nicht pro Jahr benannt sind, hat der Betreiber der Schienenwege Planungsaufwand und Aufwandsverlauf darzulegen. Für alle darüber hinaus gehenden Aufwendungen kommt das nachfolgende Prüfschema zur Anwendung.
 
-6.1
+6.1 Instandhaltung Für die Überprüfung nach § 25 Absatz 3 hat der Betreiber der Schienenwege insbesondere die nachfolgenden Informationen darzulegen: –den Veränderungssachverhalt im Vergleich zum Ausgangsniveau der Gesamtkosten resultierend aus einer qualifizierten Regulierungsvereinbarung,–den Planaufwand auf der Grundlage eines Instandhaltungsplans und des Instandhaltungsverlaufs nach Instandhaltungsart und Instandhaltungsobjekten über die Laufzeit der qualifizierten Regulierungsvereinbarung,–die Veränderung des Instandhaltungsaufwands und damit der Kostenhöhe im Vergleich zum Ausgangsniveau der Gesamtkosten,–den Zusammenhang zwischen der Veränderung des Instandhaltungsaufwands und der Vorgabe der qualifizierten Regulierungsvereinbarung. Der Nachweis ist erfolgt, wenn 1.der Betreiber der Schienenwege dargelegt hat, dass der Instandhaltungsaufwand in infrastrukturellen Rahmenkostenstellen nach Instandhaltungsmaßnahmen, Instandhaltungsart und Instandhaltungsobjekten erbracht wird, die durch die qualifizierte Regulierungsvereinbarung erfasst sind und2.der Betreiber der Schienenwege mit Blick auf die qualifizierte Regulierungsvereinbarung den Grund für die zusätzlichen Instandhaltungsmaßnahmen plausibel dargelegt hat. den Veränderungssachverhalt im Vergleich zum Ausgangsniveau der Gesamtkosten resultierend aus einer qualifizierten Regulierungsvereinbarung, den Planaufwand auf der Grundlage eines Instandhaltungsplans und des Instandhaltungsverlaufs nach Instandhaltungsart und Instandhaltungsobjekten über die Laufzeit der qualifizierten Regulierungsvereinbarung, die Veränderung des Instandhaltungsaufwands und damit der Kostenhöhe im Vergleich zum Ausgangsniveau der Gesamtkosten, den Zusammenhang zwischen der Veränderung des Instandhaltungsaufwands und der Vorgabe der qualifizierten Regulierungsvereinbarung. Der Nachweis ist erfolgt, wenn 1.der Betreiber der Schienenwege dargelegt hat, dass der Instandhaltungsaufwand in infrastrukturellen Rahmenkostenstellen nach Instandhaltungsmaßnahmen, Instandhaltungsart und Instandhaltungsobjekten erbracht wird, die durch die qualifizierte Regulierungsvereinbarung erfasst sind und2.der Betreiber der Schienenwege mit Blick auf die qualifizierte Regulierungsvereinbarung den Grund für die zusätzlichen Instandhaltungsmaßnahmen plausibel dargelegt hat. der Betreiber der Schienenwege dargelegt hat, dass der Instandhaltungsaufwand in infrastrukturellen Rahmenkostenstellen nach Instandhaltungsmaßnahmen, Instandhaltungsart und Instandhaltungsobjekten erbracht wird, die durch die qualifizierte Regulierungsvereinbarung erfasst sind und der Betreiber der Schienenwege mit Blick auf die qualifizierte Regulierungsvereinbarung den Grund für die zusätzlichen Instandhaltungsmaßnahmen plausibel dargelegt hat.
 
-–
-
-–
-
-–
-
-–
-
-1.
-
-2.
-
-6.2
-
-–
-
-–
-
-–
-
-–
-
-1.
-
-2.
+6.2 Ersatzinvestitionen Für die Überprüfung nach § 25 Absatz 3 hat der Betreiber der Schienenwege insbesondere die nachfolgenden Informationen darzulegen:–den Veränderungssachverhalt im Vergleich zum Ausgangsniveau der Gesamtkosten resultierend aus einer qualifizierten Regulierungsvereinbarung,–den Planaufwand auf der Grundlage eines anlagenspezifischen Investitionsplans und Investitionsverlaufs sowie eines entsprechenden Abschreibungsverlaufs über die Laufzeit der qualifizierten Regulierungsvereinbarung,–die Veränderung des Abschreibungsaufwandes und damit der Kostenhöhe im Vergleich zum Ausgangsniveau der Gesamtkosten,–den Zusammenhang zwischen der Veränderung des Abschreibungsaufwandes und der Vorgabe der qualifizierten Regulierungsvereinbarung. Der Nachweis ist erfolgt, wenn 1.der Betreiber der Schienenwege dargelegt hat, dass der anlagenspezifische Abschreibungsaufwand in Anlagenklassen erbracht wird, die durch die qualifizierte Regulierungsvereinbarung erfasst sind und2.der Betreiber der Schienenwege mit Blick auf die qualifizierte Regulierungsvereinbarung den Grund für die zusätzlichen Ersatzinvestitionen plausibel dargelegt hat.Der Abschreibungsaufwand, der zu den von der Anpassung betroffenen Ersatzinvestitionen gehört, darf nur begrenzt auf die Dauer der jeweiligen Abschreibungszeiträume in die nachfolgenden Ausgangsniveaus der Gesamtkosten eingehen. den Veränderungssachverhalt im Vergleich zum Ausgangsniveau der Gesamtkosten resultierend aus einer qualifizierten Regulierungsvereinbarung, den Planaufwand auf der Grundlage eines anlagenspezifischen Investitionsplans und Investitionsverlaufs sowie eines entsprechenden Abschreibungsverlaufs über die Laufzeit der qualifizierten Regulierungsvereinbarung, die Veränderung des Abschreibungsaufwandes und damit der Kostenhöhe im Vergleich zum Ausgangsniveau der Gesamtkosten, den Zusammenhang zwischen der Veränderung des Abschreibungsaufwandes und der Vorgabe der qualifizierten Regulierungsvereinbarung. Der Nachweis ist erfolgt, wenn 1.der Betreiber der Schienenwege dargelegt hat, dass der anlagenspezifische Abschreibungsaufwand in Anlagenklassen erbracht wird, die durch die qualifizierte Regulierungsvereinbarung erfasst sind und2.der Betreiber der Schienenwege mit Blick auf die qualifizierte Regulierungsvereinbarung den Grund für die zusätzlichen Ersatzinvestitionen plausibel dargelegt hat. der Betreiber der Schienenwege dargelegt hat, dass der anlagenspezifische Abschreibungsaufwand in Anlagenklassen erbracht wird, die durch die qualifizierte Regulierungsvereinbarung erfasst sind und der Betreiber der Schienenwege mit Blick auf die qualifizierte Regulierungsvereinbarung den Grund für die zusätzlichen Ersatzinvestitionen plausibel dargelegt hat.
 
 ### Anlage 5 — (zu § 29)
 
 Die Regulierungsvereinbarung spezifiziert die in § 29 aufgeführten Elemente, was sich mindestens auf Folgendes bezieht:
 
-1.
+1. die Eisenbahnanlagen und die Serviceeinrichtungen, auf die sich die Vereinbarung bezieht, entsprechend der Gliederung in Anlage 2;
 
-2.
+2. die Modalitäten der Zahlungen oder der Finanzierung für die in Anlage 2 aufgeführten Infrastrukturleistungen und für die Instandhaltung und die Erneuerung;
 
-3.
+3. nutzerorientierte Leistungsvorgaben in Form von Indikatoren und Qualitätskriterien;
 
-4.
+4. die Anreize nach § 29 Absatz 2;
 
-5.
+5. Mindestanforderungen an Inhalt und Häufigkeit der Berichterstattung der Betreiber der Schienenwege, einschließlich der jährlich zu veröffentlichenden Informationen;
 
-6.
+6. die vereinbarte Laufzeit der Vereinbarung.
 
 ### Anlage 6 — (zu § 34 Absatz 4)
 
@@ -1640,186 +1482,16 @@ Liegen die nach Artikel 3 Absatz 1 der Durchführungsverordnung berechneten dire
 
 ### Anlage 7 — (zu § 36 Absatz 2 und § 39)
 
-1.
+1. Die Paare, die von den Betreibern von Eisenbahnanlagen zu berücksichtigen sind, wenn sie eine Liste von Marktsegmenten im Hinblick auf die Einführung von Aufschlägen in der Entgeltregelung nach § 36 Absatz 1 festlegen, umfassen mindestens die folgenden: a)Personenverkehr/Güterverkehr;b)Gefahrgutzüge/andere Güterzüge;c)Inländischer Verkehr/grenzüberschreitender Verkehr;d)Kombinierter Verkehr/Direktverkehr;e)Personenstadt- oder -regionalverkehr/Personenfernverkehr;f)Ganzzüge/Einzelwagenverkehr;g)Netzfahrplan/Ad-hoc-Verkehr. Personenverkehr/Güterverkehr; Gefahrgutzüge/andere Güterzüge; Inländischer Verkehr/grenzüberschreitender Verkehr; Kombinierter Verkehr/Direktverkehr; Personenstadt- oder -regionalverkehr/Personenfernverkehr; Ganzzüge/Einzelwagenverkehr; Netzfahrplan/Ad-hoc-Verkehr.
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-2.
-
-a)
-
-b)
-
-c)
-
-1.
-
-1.1
-
-1.2
-
-1.3
-
-1.4
-
-1.5
-
-1.6
-
-2.
-
-2.1
-
-2.2
-
-2.3
-
-2.4
-
-2.5
-
-2.6
-
-2.7
-
-2.8
-
-3.
-
-3.1
-
-3.2
-
-3.3
-
-3.4
-
-4.
-
-4.1
-
-4.2
-
-5.
-
-5.1
-
-5.2
-
-5.3
-
-5.4
-
-5.5
-
-5.6
-
-5.7
-
-6.
-
-6.1
-
-6.2
-
-6.3
-
-6.4
-
-6.5
-
-6.6
-
-6.7
-
-7.
-
-7.1
-
-7.2
-
-8.
-
-8.1
-
-8.2
-
-8.3
-
-8.4
-
-8.5
-
-8.6
-
-9.
-
-9.1
-
-9.2
-
-9.3
-
-9.4
-
-9.5
-
-9.6
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
+2. Für leistungsabhängige Entgeltregelungen nach § 39 gelten die folgenden Grundsätze: a)Um ein vereinbartes Leistungsniveau zu erreichen und die wirtschaftliche Tragfähigkeit eines Verkehrsdienstes nicht zu gefährden, vereinbart der Betreiber von Eisenbahnanlagen mit den Zugangsberechtigten die Eckwerte der leistungsabhängigen Entgeltregelung, insbesondere die Dauer von Verspätungen und die Grenzwerte, ab denen nach Maßgabe der leistungsabhängigen Entgeltregelung Zahlungen fällig werden, und zwar sowohl für Einzelfahrten als auch für sämtliche Zugbewegungen, die ein Eisenbahnverkehrsunternehmen in einer bestimmten Zeit durchführt.b)Der Betreiber von Eisenbahnanlagen teilt den Eisenbahnverkehrsunternehmen den Netzfahrplan, anhand dessen die Verspätungen berechnet werden, mindestens fünf Tage vor der Zugfahrt mit. Im Falle höherer Gewalt oder kurzfristiger Netzfahrplanänderungen kann der Betreiber von Eisenbahnanlagen eine kürzere Mitteilungsfrist anwenden.c)Alle Verspätungen sind einer der nachstehenden Kategorien und Unterkategorien zuzuordnen:1.Betriebs-/Planungsmanagement des Betreibers von Eisenbahnanlagen1.1Fahrplanerstellung1.2Zugbildung1.3Fehler im Betriebsverfahren1.4Falsche Anwendung der Vorrangregeln1.5Personal1.6Andere Ursachen2.Infrastruktureinrichtungen des Betreibers von Eisenbahnanlagen2.1Signalanlagen2.2Signalanlagen an Bahnübergängen2.3Telekommunikationsanlagen2.4Stromversorgungseinrichtungen2.5Gleis2.6Bauwerke2.7Personal2.8Andere Ursachen3.Dem Betreiber von Eisenbahnanlagen zuzuschreibende bautechnische Ursachen3.1Geplante Bauarbeiten3.2Probleme bei der Ausführung von Bauarbeiten3.3Geschwindigkeitsbeschränkung wegen schadhafter Gleise3.4Andere Ursachen4.Anderen Betreibern von Eisenbahnanlagen zuzuschreibende Probleme4.1verursacht durch den vorgelagerten Betreiber von Eisenbahnanlagen4.2verursacht durch den nachgelagerten Betreiber von Eisenbahnanlagen5.Dem Eisenbahnverkehrsunternehmen zuzuschreibende kommerzielle Ursachen5.1Überschreitung der Haltezeit5.2Antrag des Eisenbahnverkehrsunternehmens5.3Ladevorgänge5.4Ladeprobleme5.5Zugvorbereitung5.6Personal5.7Andere Ursachen6.Fahrzeuge des Eisenbahnverkehrsunternehmens6.1Umlaufplanerstellung und -änderung6.2Zugbildung durch das Eisenbahnverkehrsunternehmen6.3Probleme mit Reisezugwagen6.4Probleme mit Güterwagen6.5Probleme mit Fahrzeugen, Lokomotiven und Triebwagen6.6Personal6.7Andere Ursachen7.Anderen Eisenbahnverkehrsunternehmen zuzuschreibende Probleme7.1verursacht durch das nachgelagerte Eisenbahnverkehrsunternehmen7.2verursacht durch das vorgelagerte Eisenbahnverkehrsunternehmen8.Externe Ursachen, die weder dem Betreiber von Eisenbahnanlagen noch dem Eisenbahnverkehrsunternehmen zuzuschreiben sind8.1Streik8.2Verwaltungsformalitäten8.3Äußere Einflüsse8.4Wetterbedingte Auswirkungen und natürliche Ursachen8.5Verspätung durch externe Ursachen im nachgelagerten Schienennetz8.6Andere Ursachen9.Sekundäre Ursachen, die weder dem Betreiber von Eisenbahnanlagen noch dem Eisenbahnverkehrsunternehmen zuzuschreiben sind9.1Gefährliche Ereignisse, Unfälle und Risiken9.2Streckenbelegung wegen Verspätung desselben Zuges9.3Streckenbelegung wegen Verspätung eines anderen Zuges9.4Umlauf9.5Anschlüsse9.6Weitere Untersuchung erforderlich.d)Verspätungen sollten nach Möglichkeit nur einer einzigen Organisation zugeschrieben werden, wobei sowohl die Verantwortung für die Störung als auch die Fähigkeit zur Wiederherstellung des normalen Verkehrsbetriebs zu berücksichtigen sind.e)Bei der Berechnung der Zahlungen ist die durchschnittliche Verspätung von Eisenbahnverkehrsdiensten zu berücksichtigen, für die ähnliche Pünktlichkeitsanforderungen gelten.f)Der Betreiber von Eisenbahnanlagen teilt den Eisenbahnverkehrsunternehmen so rasch wie möglich die Berechnung der nach der leistungsabhängigen Entgeltregelung fälligen Zahlungen mit. Die Berechnung umfasst sämtliche verspäteten Zugfahrten innerhalb eines Zeitraums von höchstens einem Monat.g)Unbeschadet der bestehenden Rechtsbehelfe und des § 66 ist für Streitfälle in Bezug auf die leistungsabhängige Entgeltregelung ein Streitbeilegungssystem einzurichten, damit solche Angelegenheiten rasch bereinigt werden können. Dieses Streitbeilegungssystem gewährleistet Unparteilichkeit gegenüber den beteiligten Parteien. Gelangt dieses System zur Anwendung, ist innerhalb von zehn Arbeitstagen eine Entscheidung zu treffen.h)Auf der Grundlage der in der leistungsabhängigen Entgeltregelung vereinbarten Eckwerte veröffentlicht der Betreiber von Eisenbahnanlagen einmal jährlich das von den Eisenbahnverkehrsunternehmen im Jahresdurchschnitt erzielte Leistungsniveau. Um ein vereinbartes Leistungsniveau zu erreichen und die wirtschaftliche Tragfähigkeit eines Verkehrsdienstes nicht zu gefährden, vereinbart der Betreiber von Eisenbahnanlagen mit den Zugangsberechtigten die Eckwerte der leistungsabhängigen Entgeltregelung, insbesondere die Dauer von Verspätungen und die Grenzwerte, ab denen nach Maßgabe der leistungsabhängigen Entgeltregelung Zahlungen fällig werden, und zwar sowohl für Einzelfahrten als auch für sämtliche Zugbewegungen, die ein Eisenbahnverkehrsunternehmen in einer bestimmten Zeit durchführt. Der Betreiber von Eisenbahnanlagen teilt den Eisenbahnverkehrsunternehmen den Netzfahrplan, anhand dessen die Verspätungen berechnet werden, mindestens fünf Tage vor der Zugfahrt mit. Im Falle höherer Gewalt oder kurzfristiger Netzfahrplanänderungen kann der Betreiber von Eisenbahnanlagen eine kürzere Mitteilungsfrist anwenden. Alle Verspätungen sind einer der nachstehenden Kategorien und Unterkategorien zuzuordnen:1.Betriebs-/Planungsmanagement des Betreibers von Eisenbahnanlagen1.1Fahrplanerstellung1.2Zugbildung1.3Fehler im Betriebsverfahren1.4Falsche Anwendung der Vorrangregeln1.5Personal1.6Andere Ursachen2.Infrastruktureinrichtungen des Betreibers von Eisenbahnanlagen2.1Signalanlagen2.2Signalanlagen an Bahnübergängen2.3Telekommunikationsanlagen2.4Stromversorgungseinrichtungen2.5Gleis2.6Bauwerke2.7Personal2.8Andere Ursachen3.Dem Betreiber von Eisenbahnanlagen zuzuschreibende bautechnische Ursachen3.1Geplante Bauarbeiten3.2Probleme bei der Ausführung von Bauarbeiten3.3Geschwindigkeitsbeschränkung wegen schadhafter Gleise3.4Andere Ursachen4.Anderen Betreibern von Eisenbahnanlagen zuzuschreibende Probleme4.1verursacht durch den vorgelagerten Betreiber von Eisenbahnanlagen4.2verursacht durch den nachgelagerten Betreiber von Eisenbahnanlagen5.Dem Eisenbahnverkehrsunternehmen zuzuschreibende kommerzielle Ursachen5.1Überschreitung der Haltezeit5.2Antrag des Eisenbahnverkehrsunternehmens5.3Ladevorgänge5.4Ladeprobleme5.5Zugvorbereitung5.6Personal5.7Andere Ursachen6.Fahrzeuge des Eisenbahnverkehrsunternehmens6.1Umlaufplanerstellung und -änderung6.2Zugbildung durch das Eisenbahnverkehrsunternehmen6.3Probleme mit Reisezugwagen6.4Probleme mit Güterwagen6.5Probleme mit Fahrzeugen, Lokomotiven und Triebwagen6.6Personal6.7Andere Ursachen7.Anderen Eisenbahnverkehrsunternehmen zuzuschreibende Probleme7.1verursacht durch das nachgelagerte Eisenbahnverkehrsunternehmen7.2verursacht durch das vorgelagerte Eisenbahnverkehrsunternehmen8.Externe Ursachen, die weder dem Betreiber von Eisenbahnanlagen noch dem Eisenbahnverkehrsunternehmen zuzuschreiben sind8.1Streik8.2Verwaltungsformalitäten8.3Äußere Einflüsse8.4Wetterbedingte Auswirkungen und natürliche Ursachen8.5Verspätung durch externe Ursachen im nachgelagerten Schienennetz8.6Andere Ursachen9.Sekundäre Ursachen, die weder dem Betreiber von Eisenbahnanlagen noch dem Eisenbahnverkehrsunternehmen zuzuschreiben sind9.1Gefährliche Ereignisse, Unfälle und Risiken9.2Streckenbelegung wegen Verspätung desselben Zuges9.3Streckenbelegung wegen Verspätung eines anderen Zuges9.4Umlauf9.5Anschlüsse9.6Weitere Untersuchung erforderlich. Betriebs-/Planungsmanagement des Betreibers von Eisenbahnanlagen Fahrplanerstellung Zugbildung Fehler im Betriebsverfahren Falsche Anwendung der Vorrangregeln Personal Andere Ursachen Infrastruktureinrichtungen des Betreibers von Eisenbahnanlagen Signalanlagen Signalanlagen an Bahnübergängen Telekommunikationsanlagen Stromversorgungseinrichtungen Gleis Bauwerke Personal Andere Ursachen Dem Betreiber von Eisenbahnanlagen zuzuschreibende bautechnische Ursachen Geplante Bauarbeiten Probleme bei der Ausführung von Bauarbeiten Geschwindigkeitsbeschränkung wegen schadhafter Gleise Andere Ursachen Anderen Betreibern von Eisenbahnanlagen zuzuschreibende Probleme verursacht durch den vorgelagerten Betreiber von Eisenbahnanlagen verursacht durch den nachgelagerten Betreiber von Eisenbahnanlagen Dem Eisenbahnverkehrsunternehmen zuzuschreibende kommerzielle Ursachen Überschreitung der Haltezeit Antrag des Eisenbahnverkehrsunternehmens Ladevorgänge Ladeprobleme Zugvorbereitung Personal Andere Ursachen Fahrzeuge des Eisenbahnverkehrsunternehmens Umlaufplanerstellung und -änderung Zugbildung durch das Eisenbahnverkehrsunternehmen Probleme mit Reisezugwagen Probleme mit Güterwagen Probleme mit Fahrzeugen, Lokomotiven und Triebwagen Personal Andere Ursachen Anderen Eisenbahnverkehrsunternehmen zuzuschreibende Probleme verursacht durch das nachgelagerte Eisenbahnverkehrsunternehmen verursacht durch das vorgelagerte Eisenbahnverkehrsunternehmen Externe Ursachen, die weder dem Betreiber von Eisenbahnanlagen noch dem Eisenbahnverkehrsunternehmen zuzuschreiben sind Streik Verwaltungsformalitäten Äußere Einflüsse Wetterbedingte Auswirkungen und natürliche Ursachen Verspätung durch externe Ursachen im nachgelagerten Schienennetz Andere Ursachen Sekundäre Ursachen, die weder dem Betreiber von Eisenbahnanlagen noch dem Eisenbahnverkehrsunternehmen zuzuschreiben sind Gefährliche Ereignisse, Unfälle und Risiken Streckenbelegung wegen Verspätung desselben Zuges Streckenbelegung wegen Verspätung eines anderen Zuges Umlauf Anschlüsse Weitere Untersuchung erforderlich. Verspätungen sollten nach Möglichkeit nur einer einzigen Organisation zugeschrieben werden, wobei sowohl die Verantwortung für die Störung als auch die Fähigkeit zur Wiederherstellung des normalen Verkehrsbetriebs zu berücksichtigen sind. Bei der Berechnung der Zahlungen ist die durchschnittliche Verspätung von Eisenbahnverkehrsdiensten zu berücksichtigen, für die ähnliche Pünktlichkeitsanforderungen gelten. Der Betreiber von Eisenbahnanlagen teilt den Eisenbahnverkehrsunternehmen so rasch wie möglich die Berechnung der nach der leistungsabhängigen Entgeltregelung fälligen Zahlungen mit. Die Berechnung umfasst sämtliche verspäteten Zugfahrten innerhalb eines Zeitraums von höchstens einem Monat. Unbeschadet der bestehenden Rechtsbehelfe und des § 66 ist für Streitfälle in Bezug auf die leistungsabhängige Entgeltregelung ein Streitbeilegungssystem einzurichten, damit solche Angelegenheiten rasch bereinigt werden können. Dieses Streitbeilegungssystem gewährleistet Unparteilichkeit gegenüber den beteiligten Parteien. Gelangt dieses System zur Anwendung, ist innerhalb von zehn Arbeitstagen eine Entscheidung zu treffen. Auf der Grundlage der in der leistungsabhängigen Entgeltregelung vereinbarten Eckwerte veröffentlicht der Betreiber von Eisenbahnanlagen einmal jährlich das von den Eisenbahnverkehrsunternehmen im Jahresdurchschnitt erzielte Leistungsniveau.
 
 ### Anlage 8 — (weggefallen)
 
 ### Anlage 9 — (zu § 70 Absatz 1)
 
-1.
+1. Getrennte Rechnungsführung: a)getrennte Gewinn- und Verlustrechnungen und Bilanzen für die Bereiche Güterverkehr, Personenverkehr und den Betrieb der Schienenwege und Serviceeinrichtungen;b)genaue und transparente Angaben über einzelne Quellen und Verwendungen von öffentlichen Geldern und Ausgleichsleistungen anderer Art. Dazu gehört auch eine detaillierte Übersicht über die Zahlungsströme der Unternehmen, damit festgestellt werden kann, wofür diese öffentlichen Mittel und Ausgleichsleistungen anderer Art verwendet wurden;c)Aufwands- und Ertragsposten, anhand derer sich nach den Anforderungen der Regulierungsbehörde feststellen lässt, ob zwischen den verschiedenen Tätigkeitsbereichen eine Quersubvention stattgefunden hat;d)das für die Aufteilung der Kosten auf die einzelnen Tätigkeitsbereiche angewendete Verfahren;e)falls das regulierte Unternehmen Teil einer Unternehmensgruppe ist, vollständige Angaben über Zahlungen zwischen den Unternehmen der Gruppe. getrennte Gewinn- und Verlustrechnungen und Bilanzen für die Bereiche Güterverkehr, Personenverkehr und den Betrieb der Schienenwege und Serviceeinrichtungen; genaue und transparente Angaben über einzelne Quellen und Verwendungen von öffentlichen Geldern und Ausgleichsleistungen anderer Art. Dazu gehört auch eine detaillierte Übersicht über die Zahlungsströme der Unternehmen, damit festgestellt werden kann, wofür diese öffentlichen Mittel und Ausgleichsleistungen anderer Art verwendet wurden; Aufwands- und Ertragsposten, anhand derer sich nach den Anforderungen der Regulierungsbehörde feststellen lässt, ob zwischen den verschiedenen Tätigkeitsbereichen eine Quersubvention stattgefunden hat; das für die Aufteilung der Kosten auf die einzelnen Tätigkeitsbereiche angewendete Verfahren; falls das regulierte Unternehmen Teil einer Unternehmensgruppe ist, vollständige Angaben über Zahlungen zwischen den Unternehmen der Gruppe.
 
-a)
+2. Kontrolle der Wegeentgelte: a)verschiedene Kostenkategorien, insbesondere hinreichende Informationen über die Grenzkosten oder direkten Kosten der einzelnen Dienste oder Gruppen von Diensten, um eine Kontrolle der Wegeentgelte zu ermöglichen;b)hinreichende Angaben, um eine Kontrolle der Einzelentgelte, die für Dienste (oder Gruppen von Diensten) entrichtet werden, zu ermöglichen. Auf Verlangen der Regulierungsbehörde gehören dazu auch Angaben zum Umfang einzelner Dienste, zu den Preisen für einzelne Dienste sowie zu den Gesamteinnahmen, die aus den von internen und externen Kunden für einzelne Dienste entrichteten Entgelten erzielt werden;c)nach der von der Regulierungsbehörde geforderten Kostenrechnungsmethode Angaben zu den Kosten einzelner Dienste (oder Gruppen von Diensten) und den daraus erzielten Einnahmen, damit eine etwaige wettbewerbswidrige Preispolitik (Quersubventionen, Verdrängungspreise und überhöhte Preise) festgestellt werden kann. verschiedene Kostenkategorien, insbesondere hinreichende Informationen über die Grenzkosten oder direkten Kosten der einzelnen Dienste oder Gruppen von Diensten, um eine Kontrolle der Wegeentgelte zu ermöglichen; hinreichende Angaben, um eine Kontrolle der Einzelentgelte, die für Dienste (oder Gruppen von Diensten) entrichtet werden, zu ermöglichen. Auf Verlangen der Regulierungsbehörde gehören dazu auch Angaben zum Umfang einzelner Dienste, zu den Preisen für einzelne Dienste sowie zu den Gesamteinnahmen, die aus den von internen und externen Kunden für einzelne Dienste entrichteten Entgelten erzielt werden; nach der von der Regulierungsbehörde geforderten Kostenrechnungsmethode Angaben zu den Kosten einzelner Dienste (oder Gruppen von Diensten) und den daraus erzielten Einnahmen, damit eine etwaige wettbewerbswidrige Preispolitik (Quersubventionen, Verdrängungspreise und überhöhte Preise) festgestellt werden kann.
 
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-c)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+3. Angaben zur finanziellen Leistungsfähigkeit: a)Erklärung zur finanziellen Leistungsfähigkeit,b)Ausgabenerklärung (Übersicht),c)Erklärung zu den Instandhaltungsausgaben,d)Erklärung zu den Betriebsausgaben,e)Gewinn- und Verlustrechnung. Erklärung zur finanziellen Leistungsfähigkeit, Ausgabenerklärung (Übersicht), Erklärung zu den Instandhaltungsausgaben, Erklärung zu den Betriebsausgaben, Gewinn- und Verlustrechnung.

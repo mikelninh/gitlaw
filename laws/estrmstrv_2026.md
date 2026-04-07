@@ -20,105 +20,41 @@ Diese Verordnung regelt das Meisterprüfungsberufsbild, die in der Prüfung in d
 
 (2) Betriebsanweisungen im Sinne dieser Verordnung sind Informationen über die auftragsunabhängige Vorgehensweise bei der Erbringung bestimmter betrieblicher Leistungen. Sie enthalten insbesondere Hinweise
 
-1.
+1. zur Art und zum Umfang der durchzuführenden Prüfungen,
 
-2.
+2. zur Ausführung der betrieblichen Leistungen,
 
-3.
+3. zum Umgang mit den Maschinen im Arbeitsprozess,
 
-4.
+4. zum Vorgehen im Falle von Abweichungen von Vorgaben sowie
 
-5.
+5. zu abschließenden Kontrollen.
 
 ### § 3 — Meisterprüfungsberufsbild
 
-In den Teilen I und II der Meisterprüfung im Estrichleger-Handwerk hat der Prüfling die beruflichen Handlungskompetenzen nachzuweisen, die sich auf wesentliche Tätigkeiten seines Gewerbes und die erforderlichen fachtheoretischen Kenntnisse beziehen. Grundlage dafür sind folgende Fertigkeiten und Kenntnisse: Die Tätigkeiten nach Satz 2 Nummer 5 Buchstabe l bis n erfolgen im Zusammenhang mit anderen Tätigkeiten im Estrichleger-Handwerk.
+In den Teilen I und II der Meisterprüfung im Estrichleger-Handwerk hat der Prüfling die beruflichen Handlungskompetenzen nachzuweisen, die sich auf wesentliche Tätigkeiten seines Gewerbes und die erforderlichen fachtheoretischen Kenntnisse beziehen. Grundlage dafür sind folgende Fertigkeiten und Kenntnisse:
 
-1.
+1. einen Betrieb im Estrichleger-Handwerk führen und organisieren und dabei technische, kaufmännische und personalwirtschaftliche Entscheidungen treffen und begründen, insbesondere unter Berücksichtigung a)der Kostenstrukturen,b)der Wettbewerbssituation,c)der für den Betrieb wesentlichen Ausbildung, Fort- und Weiterbildung des Personals,d)der Betriebsorganisation,e)des Qualitätsmanagements,f)des Arbeitsschutzrechtes,g)des Datenschutzes, der Datensicherheit und der Datenverarbeitung,h)der ökologischen Nachhaltigkeit, der ökonomischen Nachhaltigkeit sowie der sozialen Nachhaltigkeit,i)technologischer Entwicklungen sowie gesellschaftlicher Entwicklungen, insbesondere digitaler Technologien, der Kostenstrukturen, der Wettbewerbssituation, der für den Betrieb wesentlichen Ausbildung, Fort- und Weiterbildung des Personals, der Betriebsorganisation, des Qualitätsmanagements, des Arbeitsschutzrechtes, des Datenschutzes, der Datensicherheit und der Datenverarbeitung, der ökologischen Nachhaltigkeit, der ökonomischen Nachhaltigkeit sowie der sozialen Nachhaltigkeit, technologischer Entwicklungen sowie gesellschaftlicher Entwicklungen, insbesondere digitaler Technologien,
 
-a)
+2. Konzepte für Betriebsausstattung und für Lagerausstattung sowie für logistische Geschäfts- und Arbeitsprozesse entwickeln und umsetzen,
 
-b)
+3. Kundenwünsche und jeweilige Rahmenbedingungen ermitteln, Anforderungen ableiten, Kundinnen und Kunden beraten, Serviceleistungen anbieten, Lösungen entwickeln, Verhandlungen führen und Ziele festlegen, Leistungen kalkulieren und Angebote erstellen sowie Verträge schließen,
 
-c)
+4. Geschäfts- und Arbeitsprozesse zur Leistungserbringung planen, organisieren und überwachen, insbesondere Logistik für die baustellenspezifische Lieferung und die baustellenspezifische Lagerung des Materials planen sowie Gefährdungsbeurteilungen an Baustellen vornehmen,
 
-d)
+5. Leistungen im Estrichleger-Handwerk erbringen, insbesondere a)Untergründe beurteilen und vorbereiten, Aufmaß erstellen, Konstruktionshöhe prüfen und Prüfung von Abweichungen des jeweiligen Ist-Zustandes gegenüber den Vorgaben der Beteiligten vornehmen,b)angrenzende Bauteile vor Verunreinigungen sowie vor aggressiven Stoffen schützen,c)Untergründe gegen aufsteigende Feuchtigkeit abdichten,d)Ausgleichsschichten und Dämmstoffschichten verlegen und abdecken sowie Randdämmstreifen anbringen,e)Industrieböden und Sichtestriche zur direkten Nutzung herstellen und einbauen,f)Estriche als Unterlage für Bodenbeläge, Ausgleichsestriche, Schutzschichten sowie Heizestriche herstellen und einbauen,g)Hohlböden sowie Doppelböden herstellen und einbauen,h)Hohlkehlen sowie Hohlkehlsockel aus Estrichmörtel herstellen,i)Fugen herstellen und füllen, Fugenprofile, Schienen und Rahmen einbauen,j)Estrichflächen spachteln, schleifen, ölen und wachsen,k)Fertigteilestriche verlegen,l)Imprägnierungen, Versiegelungen und Beschichtungen, insbesondere durch Reaktionsharze sowie durch Kunstharzschichten, zur funktionalen Oberflächenvergütung von Estrichen sowie von Betonböden auftragen,m)textile Bodenbeläge, elastische Bodenbeläge sowie modulare Bodenbeläge verlegen undn)Estriche, textile Bodenbeläge, elastische Bodenbeläge sowie modulare Bodenbeläge schützen, nachbehandeln und pflegen, Untergründe beurteilen und vorbereiten, Aufmaß erstellen, Konstruktionshöhe prüfen und Prüfung von Abweichungen des jeweiligen Ist-Zustandes gegenüber den Vorgaben der Beteiligten vornehmen, angrenzende Bauteile vor Verunreinigungen sowie vor aggressiven Stoffen schützen, Untergründe gegen aufsteigende Feuchtigkeit abdichten, Ausgleichsschichten und Dämmstoffschichten verlegen und abdecken sowie Randdämmstreifen anbringen, Industrieböden und Sichtestriche zur direkten Nutzung herstellen und einbauen, Estriche als Unterlage für Bodenbeläge, Ausgleichsestriche, Schutzschichten sowie Heizestriche herstellen und einbauen, Hohlböden sowie Doppelböden herstellen und einbauen, Hohlkehlen sowie Hohlkehlsockel aus Estrichmörtel herstellen, Fugen herstellen und füllen, Fugenprofile, Schienen und Rahmen einbauen, Estrichflächen spachteln, schleifen, ölen und wachsen, Fertigteilestriche verlegen, Imprägnierungen, Versiegelungen und Beschichtungen, insbesondere durch Reaktionsharze sowie durch Kunstharzschichten, zur funktionalen Oberflächenvergütung von Estrichen sowie von Betonböden auftragen, textile Bodenbeläge, elastische Bodenbeläge sowie modulare Bodenbeläge verlegen und Estriche, textile Bodenbeläge, elastische Bodenbeläge sowie modulare Bodenbeläge schützen, nachbehandeln und pflegen,
 
-e)
+6. technische Gesichtspunkte, organisatorische Gesichtspunkte sowie rechtliche Gesichtspunkte bei der Leistungserbringung berücksichtigen, insbesondere a)die Eignung von Estrichen und von Bodenbelägen im Hinblick auf Nutzungsart, Rutschfestigkeit, Brandschutz, Schallschutz, Wärmedämmung, Oberflächenbeschaffenheit und der Wechselwirkung zu Baustoffen sowie Bodenbelägen,b)Erstarrungsvorgänge sowie Erhärtungsvorgänge von Estrich-Baustoffen,c)die Güteanforderungen, die Prüfverfahren sowie die Messverfahren,d)die Sicherheitsrisiken sowie die Gesundheitsrisiken,e)die rechtlichen Haftungsrisiken,f)die berufsbezogenen Rechtsvorschriften und technischen Normen,g)die allgemein anerkannten Regeln der Technik,h)das einzusetzende Personal sowie die Materialien, Arbeitsmittel und Betriebsmittel undi)die Möglichkeiten zum Einsatz von Auszubildenden, die Eignung von Estrichen und von Bodenbelägen im Hinblick auf Nutzungsart, Rutschfestigkeit, Brandschutz, Schallschutz, Wärmedämmung, Oberflächenbeschaffenheit und der Wechselwirkung zu Baustoffen sowie Bodenbelägen, Erstarrungsvorgänge sowie Erhärtungsvorgänge von Estrich-Baustoffen, die Güteanforderungen, die Prüfverfahren sowie die Messverfahren, die Sicherheitsrisiken sowie die Gesundheitsrisiken, die rechtlichen Haftungsrisiken, die berufsbezogenen Rechtsvorschriften und technischen Normen, die allgemein anerkannten Regeln der Technik, das einzusetzende Personal sowie die Materialien, Arbeitsmittel und Betriebsmittel und die Möglichkeiten zum Einsatz von Auszubildenden,
 
-f)
+7. Verlegepläne, Skizzen, Rezepturen für Estrichmischungen, Arbeitsanweisungen, auch unter Einsatz von Informations- und Kommunikationstechnologien, anfertigen, bewerten und korrigieren, Planunterlagen bewerten,
 
-g)
+8. Arten und Eigenschaften von zu bearbeitenden Materialien sowie von zu verarbeitenden Materialien berücksichtigen,
 
-h)
+9. Unteraufträge kriteriengeleitet, insbesondere unter Berücksichtigung von Rechtsvorschriften sowie der Qualität der Leistungen, vergeben und deren Ausführung kontrollieren,
 
-i)
+10. fortlaufende Qualitätskontrollen durchführen, Störungen analysieren und beseitigen, Ergebnisse daraus bewerten und dokumentieren und
 
-2.
-
-3.
-
-4.
-
-5.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-m)
-
-n)
-
-6.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
+11. erbrachte Leistungen kontrollieren, Mängel beseitigen, Leistungen dokumentieren, übergeben, Nachkalkulationen durchführen, Auftragsabwicklung auswerten sowie Abnahmeprotokolle erstellen.
 
 ### § 4 — Ziel und Gliederung der Prüfung in Teil I
 
@@ -126,35 +62,21 @@ i)
 
 (2) Die Prüfung in Teil I gliedert sich in folgende Prüfungsbereiche:
 
-1.
+1. ein Meisterprüfungsprojekt nach § 5 und ein darauf bezogenes Fachgespräch nach § 6 sowie
 
-2.
+2. eine Situationsaufgabe nach § 7.
 
 ### § 5 — Meisterprüfungsprojekt
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Das Meisterprüfungsprojekt besteht aus Planungsarbeiten, Durchführungsarbeiten, Kontroll- und Dokumentationsarbeiten.
 
-(2) Als Meisterprüfungsprojekt sind folgende Arbeiten auszuführen: Die Planung nach Satz 1 Nummer 1 muss die Dämmung für eine Fläche und ein Bodenablauf mit Gefälle enthalten und ist für folgende Beläge vorzunehmen:
+(2) Als Meisterprüfungsprojekt sind folgende Arbeiten auszuführen:
 
-1.
+1. unterschiedliche Fußbodenkonstruktionen in einem Objekt auf der Grundlage einer vorgegebenen, mit Fehlern behafteten, Leistungsbeschreibung planen, dabei a)Vorgaben des Auftrages überprüfen,b)eine Entwurfsskizze anfertigen,c)technische Berechnungen vornehmen,d)eine Baustoffbedarfsliste anfertigen sowiee)eine Kalkulation vornehmen, Vorgaben des Auftrages überprüfen, eine Entwurfsskizze anfertigen, technische Berechnungen vornehmen, eine Baustoffbedarfsliste anfertigen sowie eine Kalkulation vornehmen,
 
-a)
+2. auf Grundlage der Tätigkeiten nach Nummer 1 auf einer Fläche von mindestens 6 bis maximal 10 Quadratmetern zwei Fußbodenkonstruktionen, einschließlich des Übergangs von unterschiedlichen Belägen, ausschnittsweise herstellen und einbauen,
 
-b)
-
-c)
-
-d)
-
-e)
-
-2.
-
-3.
-
-a)
-
-b)
+3. die Tätigkeiten nach den Nummern 1 und 2 kriteriengeleitet auf Güte prüfen und dokumentieren.
 
 (3) Die Anforderungen an das jeweilige Meisterprüfungsprojekt werden nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung festgelegt.
 
@@ -162,23 +84,23 @@ b)
 
 (5) Für die Bewertung des Meisterprüfungsprojekts werden die einzelnen Bestandteile wie folgt gewichtet:
 
-1.
+1. die Planungsarbeiten anhand der Planungsunterlagen, bestehend aus der Überprüfung der Vorgaben des Auftrages, der Entwurfsskizze, den Berechnungen, der Baustoffbedarfsliste und der Kalkulation, mit 40 Prozent,
 
-2.
+2. die Durchführungsarbeiten mit 50 Prozent und
 
-3.
+3. die Kontroll- und die Dokumentationsarbeiten anhand der Dokumentationsunterlagen, bestehend aus Bautagebuch mit Ausführungsplänen, Aufmaß nach Durchführung, Klimaaufzeichnungen, Materialdokumentationen, Mess- und Prüfprotokollen, mit 10 Prozent.
 
 ### § 6 — Fachgespräch
 
 (1) Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.
+1. die fachlichen Zusammenhänge aufzuzeigen, die dem Meisterprüfungsprojekt zugrunde liegen,
 
-2.
+2. Kundinnen und Kunden zu beraten und dabei den jeweiligen Kundenwunsch sowie wirtschaftliche Gesichtspunkte, rechtliche Gesichtspunkte sowie technische Gesichtspunkte in das Beratungsgespräch einzubeziehen,
 
-3.
+3. sein Vorgehen bei der Planung und Durchführung des Meisterprüfungsprojekts zu begründen sowie
 
-4.
+4. mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darzustellen und dabei aktuelle Entwicklungen im Estrichleger-Handwerk zu berücksichtigen.
 
 (2) Das Fachgespräch soll höchstens 30 Minuten dauern.
 
@@ -186,17 +108,17 @@ b)
 
 (1) Die Situationsaufgabe orientiert sich an einem Kundenauftrag und vervollständigt für die Meisterprüfung den Nachweis der beruflichen Handlungskompetenz im Estrichleger-Handwerk.
 
-(2) Die Situationsaufgabe wird nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung festgelegt und gliedert sich wie folgt: Die Situationsaufgabe wird vom Meisterprüfungsausschuss festgelegt und umfasst die Tätigkeiten nach Satz 1 Nummer 1 sowie eine weitere Tätigkeit nach Satz 1 Nummer 2 bis 5.
+(2) Die Situationsaufgabe wird nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung festgelegt und gliedert sich wie folgt:
 
-1.
+1. Vorbereiten eines Untergrundes sowie Zuschneiden, Verlegen, Kleben von Bodenbelägen aus verschiedenen Stoffen, die nicht bereits Teil des Meisterprüfungsprojektes waren sowie
 
-2.
+2. Auftragen und Verlegen von Sperrschichten, Anbringen von Randdämmstreifen, Verlegen und Abdecken von Dämmschichten bei Rohren auf der Rohdecke,
 
-3.
+3. Auftragen von Kunstharzschichten mit vorgegebenen Rutschfestigkeitsklassen verschiedener Arten mit Hohlkehle,
 
-4.
+4. Schleifen einer Musterfläche aus Sichtestrichen zur direkten Nutzung oder
 
-5.
+5. Verlegen eines dünnschichtigen Nutzestrichs einschließlich der Oberflächenbehandlung.
 
 (3) Für die Bearbeitung der Situationsaufgabe stehen dem Prüfling 4 Stunden zur Verfügung. Zusätzlich kann der Prüfungsausschuss abhängig von den zu verwendenden Materialien Trocknungszeiten gewähren.
 
@@ -208,19 +130,19 @@ b)
 
 (2) Der Prüfling hat den Teil I der Meisterprüfung bestanden, wenn
 
-1.
+1. das Meisterprüfungsprojekt, das Fachgespräch und die Situationsaufgabe jeweils mit mindestens 30 Punkten bewertet worden ist und
 
-2.
+2. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
 
 ### § 9 — Ziel und Gliederung der Prüfung in Teil II
 
 (1) In Teil II der Meisterprüfung hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er die erforderlichen fachtheoretischen Kenntnisse im Estrichleger-Handwerk anwenden kann. Grundlage für den Nachweis bilden die Qualifikationen in den folgenden Handlungsfeldern:
 
-1.
+1. nach Maßgabe des § 10 „Anforderungen von Kundinnen und Kunden eines Betriebs im Estrichleger-Handwerk analysieren, Lösungen erarbeiten und anbieten“,
 
-2.
+2. nach Maßgabe des § 11 „Leistungen eines Betriebs im Estrichleger-Handwerk erbringen, kontrollieren und übergeben“ und
 
-3.
+3. nach Maßgabe des § 12 „Einen Betrieb im Estrichleger-Handwerk führen und organisieren“.
 
 (2) Der Prüfling hat in jedem der drei Handlungsfelder eine fallbezogene Aufgabe zu bearbeiten, die den Anforderungen des Absatzes 1 entspricht. Bei jeder Aufgabenstellung können die Qualifikationen der drei Handlungsfelder handlungsfeldübergreifend verknüpft werden.
 
@@ -234,47 +156,11 @@ b)
 
 (2) Das Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Estrichleger-Handwerk analysieren, Lösungen erarbeiten und anbieten“ besteht aus folgenden Qualifikationen:
 
-1.
+1. Kundenwünsche und die Rahmenbedingungen zu deren Erfüllung analysieren, dokumentieren sowie bewerten und daraus Anforderungen ableiten, hierzu zählen insbesondere: a)Vorgehensweise zur strukturierten Ermittlung der Kundenwünsche und der jeweiligen Rahmenbedingungen erläutern und bewerten,b)Ausschreibungen oder Angebotsanfragen öffentlicher Auftraggeber oder privater Auftraggeber analysieren und bewerten,c)Verfahren zur Feststellung der Rahmenbedingungen in Gebäuden erläutern und bewerten sowie Aufmaß erstellen,d)fehlerhafte Vorleistungen erkennen sowie Bedenken gegenüber Auftraggebern anmelden,e)Altuntergründe im Hinblick auf Tragfähigkeit, Schallschutz sowie Wärmeschutz analysieren sowie diesbezügliche Informationen über Bodenkonstruktion bei Auftraggebern anfragen,f)Hinweise auf Schadstoffe im bestehenden Untergrund erkennen und Konsequenzen daraus ableiten,g)Kundenwünsche, Nutzungsarten sowie Planungen von Architekten und Bauträgern auf Umsetzbarkeit analysieren und bewerten sowieh)Ergebnisse der vorstehenden Handlungsschritte dokumentieren und bewerten, daraus Anforderungen für die Umsetzung ableiten, Vorgehensweise zur strukturierten Ermittlung der Kundenwünsche und der jeweiligen Rahmenbedingungen erläutern und bewerten, Ausschreibungen oder Angebotsanfragen öffentlicher Auftraggeber oder privater Auftraggeber analysieren und bewerten, Verfahren zur Feststellung der Rahmenbedingungen in Gebäuden erläutern und bewerten sowie Aufmaß erstellen, fehlerhafte Vorleistungen erkennen sowie Bedenken gegenüber Auftraggebern anmelden, Altuntergründe im Hinblick auf Tragfähigkeit, Schallschutz sowie Wärmeschutz analysieren sowie diesbezügliche Informationen über Bodenkonstruktion bei Auftraggebern anfragen, Hinweise auf Schadstoffe im bestehenden Untergrund erkennen und Konsequenzen daraus ableiten, Kundenwünsche, Nutzungsarten sowie Planungen von Architekten und Bauträgern auf Umsetzbarkeit analysieren und bewerten sowie Ergebnisse der vorstehenden Handlungsschritte dokumentieren und bewerten, daraus Anforderungen für die Umsetzung ableiten,
 
-a)
+2. Lösungsmöglichkeiten entwickeln, erläutern und begründen, auch unter Berücksichtigung der berufsbezogenen Rechtsvorschriften und technischen Normen sowie der allgemein anerkannten Regeln der Technik, hierzu zählen insbesondere: a)Möglichkeiten und Notwendigkeiten des Einsatzes von Materialien, Maschinen, Werkzeugen sowie Personal, auch unter Berücksichtigung einzusetzender Verfahren, der Nutzungsart, der Rutschfestigkeit, des Brandschutzes, des Schallschutzes, der Wärmedämmung, der Oberflächenbeschaffenheit und der Wechselwirkung zu Baustoffen sowie zu Bodenbelägen, darstellen, erläutern und begründen,b)Sicherheitsrisiken sowie Gesundheitsrisiken bewerten und Konsequenzen ableiten,c)Aufmaßberechnungen, Skizzen, Verlegepläne für Böden und Rezepturen für Estrichmischungen unter Berücksichtigung von Anforderungen erstellen, bewerten und korrigieren,d)Kriterien für die Vergabe von Unteraufträgen festlegen, insbesondere unter Berücksichtigung von Qualität und von Rechtsvorschriften, darauf aufbauend Ausschreibungen oder Angebotsanfragen erstellen und hierauf eingehende Angebote bewerten sowiee)Vorteile und Nachteile verschiedener Lösungsmöglichkeiten im Hinblick auf Anforderungen, Kostengesichtspunkte, gestalterische Gesichtspunkte, rechtliche Gesichtspunkte sowie sicherheitstechnische Gesichtspunkte erläutern und abwägen sowie daraus eine Lösung auswählen und diese Auswahl begründen und Möglichkeiten und Notwendigkeiten des Einsatzes von Materialien, Maschinen, Werkzeugen sowie Personal, auch unter Berücksichtigung einzusetzender Verfahren, der Nutzungsart, der Rutschfestigkeit, des Brandschutzes, des Schallschutzes, der Wärmedämmung, der Oberflächenbeschaffenheit und der Wechselwirkung zu Baustoffen sowie zu Bodenbelägen, darstellen, erläutern und begründen, Sicherheitsrisiken sowie Gesundheitsrisiken bewerten und Konsequenzen ableiten, Aufmaßberechnungen, Skizzen, Verlegepläne für Böden und Rezepturen für Estrichmischungen unter Berücksichtigung von Anforderungen erstellen, bewerten und korrigieren, Kriterien für die Vergabe von Unteraufträgen festlegen, insbesondere unter Berücksichtigung von Qualität und von Rechtsvorschriften, darauf aufbauend Ausschreibungen oder Angebotsanfragen erstellen und hierauf eingehende Angebote bewerten sowie Vorteile und Nachteile verschiedener Lösungsmöglichkeiten im Hinblick auf Anforderungen, Kostengesichtspunkte, gestalterische Gesichtspunkte, rechtliche Gesichtspunkte sowie sicherheitstechnische Gesichtspunkte erläutern und abwägen sowie daraus eine Lösung auswählen und diese Auswahl begründen und
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+3. Angebote kalkulieren, erstellen und erläutern sowie Leistungen vereinbaren, hierzu zählen insbesondere: a)Personalkosten, Materialkosten sowie Gerätekosten auf der Grundlage der Planungen kalkulieren,b)auf der Grundlage entwickelter Lösungsmöglichkeiten Angebotspositionen bestimmen und zu Angebotspaketen zusammenfassen, Preise kalkulieren,c)Vertragsbedingungen unter Berücksichtigung von Haftungsbestimmungen formulieren und beurteilen,d)Angebotsunterlagen vorbereiten, Angebote erstellen unde)Angebotspositionen und Vertragsbedingungen gegenüber Kundinnen und Kunden erläutern und begründen sowie Leistungen vereinbaren. Personalkosten, Materialkosten sowie Gerätekosten auf der Grundlage der Planungen kalkulieren, auf der Grundlage entwickelter Lösungsmöglichkeiten Angebotspositionen bestimmen und zu Angebotspaketen zusammenfassen, Preise kalkulieren, Vertragsbedingungen unter Berücksichtigung von Haftungsbestimmungen formulieren und beurteilen, Angebotsunterlagen vorbereiten, Angebote erstellen und Angebotspositionen und Vertragsbedingungen gegenüber Kundinnen und Kunden erläutern und begründen sowie Leistungen vereinbaren.
 
 ### § 11 — Handlungsfeld „Leistungen eines Betriebs im Estrichleger-Handwerk erbringen, kontrollieren und übergeben“
 
@@ -282,89 +168,11 @@ e)
 
 (2) Das Handlungsfeld „Leistungen eines Betriebs im Estrichleger-Handwerk erbringen, kontrollieren und übergeben“ besteht aus folgenden Qualifikationen:
 
-1.
+1. die Erbringung der Leistungen vorbereiten, hierzu zählen insbesondere: a)Methoden der Arbeitsplanung und Arbeitsorganisation erläutern, auswählen und Auswahl begründen sowie unter Berücksichtigung einzusetzender Herstellungsverfahren sowie Instandsetzungsverfahren den Einsatz von Personal, Material, Geräten, Maschinen und Werkzeugen planen,b)mögliche Störungen bei der Leistungserbringung, auch in der Zusammenarbeit mit anderen an der Leistungserbringung Beteiligten, vorhersehen und Auswirkungen bewerten sowie Lösungen zu deren Vermeidung oder zu deren Behebung entwickeln,c)Gefährdungsbeurteilung der Baustelle vornehmen,d)Prüfung von Abweichungen des Ist-Zustandes gegenüber den Vorgaben vornehmen und Konsequenzen für die Anpassung der Vertragsbeziehung aufzeigen, Planunterlagen bewerten,e)Logistik für die baustellenspezifische Lieferung und für die baustellenspezifische Lagerung des Materials planen und Materialdisposition vornehmen sowief)Verlegepläne, Skizzen, Rezepturen für Estrichmischungen, Arbeitsanweisungen, auch unter Einsatz von Informations- und Kommunikationstechnologien, anfertigen, bewerten und korrigieren, Methoden der Arbeitsplanung und Arbeitsorganisation erläutern, auswählen und Auswahl begründen sowie unter Berücksichtigung einzusetzender Herstellungsverfahren sowie Instandsetzungsverfahren den Einsatz von Personal, Material, Geräten, Maschinen und Werkzeugen planen, mögliche Störungen bei der Leistungserbringung, auch in der Zusammenarbeit mit anderen an der Leistungserbringung Beteiligten, vorhersehen und Auswirkungen bewerten sowie Lösungen zu deren Vermeidung oder zu deren Behebung entwickeln, Gefährdungsbeurteilung der Baustelle vornehmen, Prüfung von Abweichungen des Ist-Zustandes gegenüber den Vorgaben vornehmen und Konsequenzen für die Anpassung der Vertragsbeziehung aufzeigen, Planunterlagen bewerten, Logistik für die baustellenspezifische Lieferung und für die baustellenspezifische Lagerung des Materials planen und Materialdisposition vornehmen sowie Verlegepläne, Skizzen, Rezepturen für Estrichmischungen, Arbeitsanweisungen, auch unter Einsatz von Informations- und Kommunikationstechnologien, anfertigen, bewerten und korrigieren,
 
-a)
+2. die Leistungen erbringen, hierzu zählen insbesondere: a)berufsbezogene Rechtsvorschriften und technische Normen sowie die allgemein anerkannten Regeln der Technik anwenden,b)Maßnahmen zur Gefahrenvermeidung sowie zur Gefahrenbeseitigung erläutern sowie Konsequenzen ableiten,c)Fehler sowie Mängel in der Erbringung der Leistungen erläutern sowie Maßnahmen zu deren Beseitigung ableiten,d)Vorgehensweise zur Erbringung von Leistungen unter Berücksichtigung unterschiedlicher Herstellungsverfahren sowie unterschiedlicher Instandsetzungsverfahren sowie Eigenschaften von Baustoffen erläutern und begründen sowiee)Auswirkungen klimatischer Bedingungen auf die Verarbeitungsmöglichkeiten der Materialien analysieren und bewerten,f)Untergründe für Estriche sowie für Bodenbeläge beurteilen und vorbereiten,g)angrenzende Bauteile vor Verunreinigungen und aggressiven Stoffen schützen,h)Untergrund gegen aufsteigende Feuchtigkeit abdichten,i)Ausgleichsschichten sowie Dämmstoffschichten verlegen und abdecken sowie Randdämmstreifen anbringen,j)Herstellen und Einbauen von aa)Industrieböden sowie Sichtestrichen zur direkten Nutzung,bb)Estrichen als Unterlage für Bodenbeläge,cc)Ausgleichsestrichen,dd)Schutzschichten,ee)Hohlböden sowie Doppelböden,ff)Heizestrichen,k)Hohlkehlen sowie Hohlkehlsockel aus Estrichmörtel herstellen,l)Fugen herstellen und füllen, Fugenprofile, Schienen sowie Rahmen einbauen,m)Estrichflächen spachteln, schleifen, ölen sowie wachsen,n)Imprägnierungen, Versiegelungen und Beschichtungen, insbesondere durch Reaktionsharze sowie durch Kunstharzschichten, zur funktionalen Oberflächenvergütung von Estrichen und Betonböden auftragen,o)Fertigteilestriche verlegen,p)textile Bodenbeläge, elastische Bodenbeläge sowie modulare Bodenbeläge verlegen undq)Estriche sowie textile Bodenbeläge, elastische Bodenbeläge sowie modulare Bodenbeläge schützen, nachbehandeln und pflegen, berufsbezogene Rechtsvorschriften und technische Normen sowie die allgemein anerkannten Regeln der Technik anwenden, Maßnahmen zur Gefahrenvermeidung sowie zur Gefahrenbeseitigung erläutern sowie Konsequenzen ableiten, Fehler sowie Mängel in der Erbringung der Leistungen erläutern sowie Maßnahmen zu deren Beseitigung ableiten, Vorgehensweise zur Erbringung von Leistungen unter Berücksichtigung unterschiedlicher Herstellungsverfahren sowie unterschiedlicher Instandsetzungsverfahren sowie Eigenschaften von Baustoffen erläutern und begründen sowie Auswirkungen klimatischer Bedingungen auf die Verarbeitungsmöglichkeiten der Materialien analysieren und bewerten, Untergründe für Estriche sowie für Bodenbeläge beurteilen und vorbereiten, angrenzende Bauteile vor Verunreinigungen und aggressiven Stoffen schützen, Untergrund gegen aufsteigende Feuchtigkeit abdichten, Ausgleichsschichten sowie Dämmstoffschichten verlegen und abdecken sowie Randdämmstreifen anbringen, Herstellen und Einbauen von aa)Industrieböden sowie Sichtestrichen zur direkten Nutzung,bb)Estrichen als Unterlage für Bodenbeläge,cc)Ausgleichsestrichen,dd)Schutzschichten,ee)Hohlböden sowie Doppelböden,ff)Heizestrichen, Industrieböden sowie Sichtestrichen zur direkten Nutzung, Estrichen als Unterlage für Bodenbeläge, Ausgleichsestrichen, Schutzschichten, Hohlböden sowie Doppelböden, Heizestrichen, Hohlkehlen sowie Hohlkehlsockel aus Estrichmörtel herstellen, Fugen herstellen und füllen, Fugenprofile, Schienen sowie Rahmen einbauen, Estrichflächen spachteln, schleifen, ölen sowie wachsen, Imprägnierungen, Versiegelungen und Beschichtungen, insbesondere durch Reaktionsharze sowie durch Kunstharzschichten, zur funktionalen Oberflächenvergütung von Estrichen und Betonböden auftragen, Fertigteilestriche verlegen, textile Bodenbeläge, elastische Bodenbeläge sowie modulare Bodenbeläge verlegen und Estriche sowie textile Bodenbeläge, elastische Bodenbeläge sowie modulare Bodenbeläge schützen, nachbehandeln und pflegen,
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-aa)
-
-bb)
-
-cc)
-
-dd)
-
-ee)
-
-ff)
-
-k)
-
-l)
-
-m)
-
-n)
-
-o)
-
-p)
-
-q)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
+3. die Leistungen kontrollieren, dokumentieren, übergeben und abrechnen, hierzu zählen insbesondere: a)Kriterien zur Feststellung der Qualität der erbrachten Leistungen erläutern,b)Leistungen dokumentieren,c)Vorgehensweise zur Prüfung der Qualität der erbrachten Leistung beschreiben, Prüfergebnisse dokumentieren und bewerten,d)prüffähiges Aufmaß erstellen,e)Vorgehensweise bei der Abnahme und der Übergabe der Leistungen und Information der Kundinnen und Kunden über Handhabung, Pflege und Wartung erläutern,f)Leistungen abrechnen,g)auftragsbezogene Nachkalkulationen durchführen und Konsequenzen ableiten,h)Möglichkeiten der Herstellung von Kundenzufriedenheit und der Kundenbindung erläutern und beurteilen,i)Serviceleistungen anlässlich der Übergabe, insbesondere Ersteinpflege und Wartungsverträge, erläutern und bewerten sowiej)Reklamationen bearbeiten. Kriterien zur Feststellung der Qualität der erbrachten Leistungen erläutern, Leistungen dokumentieren, Vorgehensweise zur Prüfung der Qualität der erbrachten Leistung beschreiben, Prüfergebnisse dokumentieren und bewerten, prüffähiges Aufmaß erstellen, Vorgehensweise bei der Abnahme und der Übergabe der Leistungen und Information der Kundinnen und Kunden über Handhabung, Pflege und Wartung erläutern, Leistungen abrechnen, auftragsbezogene Nachkalkulationen durchführen und Konsequenzen ableiten, Möglichkeiten der Herstellung von Kundenzufriedenheit und der Kundenbindung erläutern und beurteilen, Serviceleistungen anlässlich der Übergabe, insbesondere Ersteinpflege und Wartungsverträge, erläutern und bewerten sowie Reklamationen bearbeiten.
 
 ### § 12 — Handlungsfeld „Einen Betrieb im Estrichleger-Handwerk führen und organisieren“
 
@@ -372,75 +180,15 @@ j)
 
 (2) Das Handlungsfeld „Einen Betrieb im Estrichleger-Handwerk führen und organisieren“ besteht aus folgenden Qualifikationen:
 
-1.
+1. betriebliche Kosten analysieren und für die Preisgestaltung und Effizienzsteigerung nutzen, hierzu zählen insbesondere: a)betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen,b)betriebliche Kostenstrukturen überprüfen,c)betriebliche Kennzahlen ermitteln und vergleichen,d)Maßnahmen zur Effizienzsteigerung ableiten unde)Stundenverrechnungssätze anhand vorgegebener Kostenstrukturen berechnen, betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen, betriebliche Kostenstrukturen überprüfen, betriebliche Kennzahlen ermitteln und vergleichen, Maßnahmen zur Effizienzsteigerung ableiten und Stundenverrechnungssätze anhand vorgegebener Kostenstrukturen berechnen,
 
-a)
+2. Marketingmaßnahmen zur Kundengewinnung sowie zur Kundenpflege erarbeiten, hierzu zählen insbesondere: a)Auswirkungen technologischer Entwicklungen, wirtschaftlicher Entwicklungen, rechtlicher Entwicklungen sowie gesellschaftlicher Entwicklungen sowie veränderter Kundenanforderungen auf das Leistungsangebot darstellen und begründen,b)Möglichkeiten der Auftragsbeschaffung darstellen und Marketingmaßnahmen zur Kundengewinnung sowie Kundenpflege entwickeln,c)Informationen über Produkte und über das Leistungsspektrum des Betriebs sowie deren Mehrwerte für Kundinnen und Kunden erstellen,d)Vertriebswege, auch informations- und kommunikationsgestützte, ermitteln und bewerten sowiee)professionelles Reklamationsmanagement einrichten, Auswirkungen technologischer Entwicklungen, wirtschaftlicher Entwicklungen, rechtlicher Entwicklungen sowie gesellschaftlicher Entwicklungen sowie veränderter Kundenanforderungen auf das Leistungsangebot darstellen und begründen, Möglichkeiten der Auftragsbeschaffung darstellen und Marketingmaßnahmen zur Kundengewinnung sowie Kundenpflege entwickeln, Informationen über Produkte und über das Leistungsspektrum des Betriebs sowie deren Mehrwerte für Kundinnen und Kunden erstellen, Vertriebswege, auch informations- und kommunikationsgestützte, ermitteln und bewerten sowie professionelles Reklamationsmanagement einrichten,
 
-b)
+3. betriebliches Qualitätsmanagement entwickeln, hierzu zählen insbesondere: a)Bedeutung des betrieblichen Qualitätsmanagements darstellen und beurteilen,b)Qualitätsmanagementsysteme unterscheiden und beurteilen,c)Maßnahmen zur Kontrolle und Dokumentation der Leistungen erläutern, begründen und bewerten, insbesondere unter Berücksichtigung von Qualitätsstandards, Rechtsvorschriften und technischen Normen,d)Maßnahmen zur kontinuierlichen Verbesserung von Arbeits- und Geschäftsprozessen festlegen und bewerten,e)Unterstützungsmöglichkeiten bei der Qualitätssicherung in der Handwerksorganisation erläutern und bewerten,f)Möglichkeiten der Gütesicherung über Eigenüberwachung sowie über Fremdüberwachung erläutern,g)Maßnahmen zur Rückverfolgbarkeit der eingesetzten Materialen sowie Mischungen für die Baudokumentation und zur Erfüllung von Informationspflichten erläutern,h)Betriebsanweisungen, Checklisten sowie Dokumentationen erstellen undi)Prozesse sowie Stellenbeschreibungen definieren, Bedeutung des betrieblichen Qualitätsmanagements darstellen und beurteilen, Qualitätsmanagementsysteme unterscheiden und beurteilen, Maßnahmen zur Kontrolle und Dokumentation der Leistungen erläutern, begründen und bewerten, insbesondere unter Berücksichtigung von Qualitätsstandards, Rechtsvorschriften und technischen Normen, Maßnahmen zur kontinuierlichen Verbesserung von Arbeits- und Geschäftsprozessen festlegen und bewerten, Unterstützungsmöglichkeiten bei der Qualitätssicherung in der Handwerksorganisation erläutern und bewerten, Möglichkeiten der Gütesicherung über Eigenüberwachung sowie über Fremdüberwachung erläutern, Maßnahmen zur Rückverfolgbarkeit der eingesetzten Materialen sowie Mischungen für die Baudokumentation und zur Erfüllung von Informationspflichten erläutern, Betriebsanweisungen, Checklisten sowie Dokumentationen erstellen und Prozesse sowie Stellenbeschreibungen definieren,
 
-c)
+4. Personal unter Berücksichtigung gewerbespezifischer Bedingungen planen und anleiten, Personalentwicklung planen, hierzu zählen insbesondere: a)Einsatz von Personal disponieren,b)Einsatz von Auszubildenden auf Grundlage des betrieblichen Ausbildungsplans disponieren,c)Methoden zur Anleitung von Personal erläutern,d)Qualifikationsbedarfe ermitteln,e)Maßnahmen zur fortlaufenden Qualifizierung, insbesondere unter Berücksichtigung des Berufslaufbahnkonzepts im Estrichleger-Handwerk, planen sowief)Maßnahmen sowie Anreize zur Gesunderhaltung des Personals erläutern und Einsatz von Personal disponieren, Einsatz von Auszubildenden auf Grundlage des betrieblichen Ausbildungsplans disponieren, Methoden zur Anleitung von Personal erläutern, Qualifikationsbedarfe ermitteln, Maßnahmen zur fortlaufenden Qualifizierung, insbesondere unter Berücksichtigung des Berufslaufbahnkonzepts im Estrichleger-Handwerk, planen sowie Maßnahmen sowie Anreize zur Gesunderhaltung des Personals erläutern und
 
-d)
-
-e)
-
-2.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-4.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-5.
-
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+5. Betriebsausstattung sowie Lagerausstattung und Betriebsabläufe planen, hierzu zählen insbesondere: a)Durchführung der rechtlich vorgeschriebenen Gefährdungsbeurteilung erläutern, Konsequenzen aus dem Ergebnis ableiten,b)Ausstattung des Betriebes, des Lagers und der Fahrzeuge, insbesondere unter Berücksichtigung der betrieblichen Bedarfe des Gewerbes, des Arbeitsschutzes, der Gefahrstofflagerung und ökologischen Gesichtspunkten, ökonomischen Gesichtspunkten, sozialen Gesichtspunkten sowie logistischen Gesichtspunkten, planen und begründen,c)Maßnahmen zur Unfallverhütung, zum Arbeitsschutz, zur Gefahrstofflagerung, insbesondere unter Berücksichtigung ökologischer Gesichtspunkte, ökonomischer Gesichtspunkte sowie sozialer Gesichtspunkte, planen und begründen,d)Instandhaltung von Werkzeugen, Geräten, Maschinen sowie Fahrzeugen planen unde)Betriebsabläufe planen und verbessern, unter Berücksichtigung der Nachfrage, der betrieblichen Auslastung, des Einsatzes von Personal, von Material sowie von Werkzeugen, Geräten, Maschinen und Fahrzeugen. Durchführung der rechtlich vorgeschriebenen Gefährdungsbeurteilung erläutern, Konsequenzen aus dem Ergebnis ableiten, Ausstattung des Betriebes, des Lagers und der Fahrzeuge, insbesondere unter Berücksichtigung der betrieblichen Bedarfe des Gewerbes, des Arbeitsschutzes, der Gefahrstofflagerung und ökologischen Gesichtspunkten, ökonomischen Gesichtspunkten, sozialen Gesichtspunkten sowie logistischen Gesichtspunkten, planen und begründen, Maßnahmen zur Unfallverhütung, zum Arbeitsschutz, zur Gefahrstofflagerung, insbesondere unter Berücksichtigung ökologischer Gesichtspunkte, ökonomischer Gesichtspunkte sowie sozialer Gesichtspunkte, planen und begründen, Instandhaltung von Werkzeugen, Geräten, Maschinen sowie Fahrzeugen planen und Betriebsabläufe planen und verbessern, unter Berücksichtigung der Nachfrage, der betrieblichen Auslastung, des Einsatzes von Personal, von Material sowie von Werkzeugen, Geräten, Maschinen und Fahrzeugen.
 
 ### § 13 — Gewichtung, Bestehen der Prüfung in Teil II
 
@@ -450,11 +198,11 @@ e)
 
 (3) Der Prüfling hat den Teil II der Meisterprüfung bestanden, wenn
 
-1.
+1. jedes der drei Handlungsfelder mit mindestens 30 Punkten bewertet worden ist,
 
-2.
+2. nach durchgeführter Ergänzungsprüfung nach Absatz 2 höchstens ein Handlungsfeld mit weniger als 50 Punkten bewertet worden ist und
 
-3.
+3. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
 
 ### § 14 — Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 

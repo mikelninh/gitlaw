@@ -31,35 +31,35 @@ Auf Grund des § 32 Abs. 1 Satz 1 Nr. 1, Abs. 3 Satz 2, Abs. 4 Nr. 1 und Abs. 3 
 
 (2) Das Sicherheitsmanagementsystem muss:
 
-1.
+1. Gefahren identifizieren,
 
-2.
+2. die Umsetzung der zur Erreichung der angestrebten Sicherheitsziele erforderlichen Maßnahmen sicherstellen,
 
-3.
+3. eine fortlaufende Überwachung und regelmäßige Bewertung des erreichten Sicherheitsstandes (Safety Level) gewährleisten,
 
-4.
+4. darauf ausgerichtet sein, den Sicherheitsstand insgesamt fortlaufend zu verbessern,
 
-5.
+5. das Sicherheitsbewusstsein innerhalb der Organisation des Luftfahrtunternehmers fördern.
 
 (3) Um diese Ziele erreichen zu können, muss das Sicherheitsmanagementsystem mindestens die folgenden Elemente zusammenführen:
 
-1.
+1. eine Strategie des Unternehmens zur Gewährleistung und Verbesserung des Sicherheitsstandes,
 
-2.
+2. das Programm zur Gewährleistung des Gefahrenbewusstseins gemäß OPS 1.037 Abs. a Nr. 1,
 
-3.
+3. das Programm zur Meldung von betrieblichen Vorkommnissen gemäß OPS 1.037 Abs. a Nr. 2,
 
-4.
+4. die Auswertung und die Veröffentlichung der einschlägigen Informationen über Unfälle und Störungen gemäß OPS 1.037 Abs. a Nr. 3,
 
-5.
+5. das Flugdatenanalyseprogramm für Flugzeuge mit mehr als 27.000 Kilogramm höchstzulässiger Abflugmasse (MCTOM) gemäß OPS 1.037 Abs. a Nr. 4,
 
-6.
+6. die Anwendung von Verfahren zur systematischen Erfassung, Bewertung und Kontrolle von Risiken (Risk Management) einschließlich Feststellung, Bewertung und Verringerungsmaßnahmen.
 
 (4) Zuständigkeiten und Berichtswege für Fragen der Luftverkehrssicherheit müssen in der gesamten Organisation des Luftfahrtunternehmers klar definiert und dokumentiert werden. Insbesondere muss der Luftfahrtunternehmer Folgendes sicherstellen:
 
-1.
+1. Eine den behördlichen Anforderungen entsprechende Person muss für die Umsetzung und Förderung des Programms gemäß OPS 1.037 Abs. a Nr. 5 bestimmt werden. Diese Person muss direkt dem verantwortlichen Betriebsleiter berichten und ausreichend verantwortlich und zuständig sein, um zu gewährleisten, dass die in den Absätzen 2 und 3 beschriebenen Aufgaben und Funktionen ordnungsgemäß ausgeführt werden und die Wirksamkeit der ausgewählten vorsorgenden und korrigierenden Maßnahmen überprüft wird.
 
-2.
+2. Der verantwortliche Betriebsleiter muss die endgültige Verantwortlichkeit für alle Fragen der Luftverkehrssicherheit haben.
 
 (5) Alle Bestandteile und Abläufe des Sicherheitsmanagementsystems müssen im Betriebshandbuch nach OPS 1.1045 des Luftfahrtunternehmers beschrieben werden.
 
@@ -103,11 +103,11 @@ Für Luftfahrtunternehmen, die nach § 20 Abs. 1 Nr. 1 des Luftverkehrsgesetzes 
 
 (1) Folgende Dienstzeiten dürfen in ihrer Summe die zu Beginn der Dienstzeit höchstzulässige Flugdienstzeit nach OPS 1.1105 oder die höchstzulässige Flugdienstzeit nach § 10 nicht überschreiten:
 
-1.
+1. Flugdienstzeiten,
 
-2.
+2. Dienstzeiten vor Flugdiensten und
 
-3.
+3. Dienstzeiten zwischen Flugdiensten.
 
 (2) Sofern in der in Absatz 1 genannten Summe eine ununterbrochene Pause von mindestens zwei Stunden enthalten ist und dem Besatzungsmitglied in dieser Zeit ein ruhig gelegener Raum mit Schlafgelegenheit zur Verfügung steht, tritt an die Stelle der höchstzulässigen Zeit nach Absatz 1 eine Zeit von 14 Stunden.
 
@@ -115,9 +115,9 @@ Für Luftfahrtunternehmen, die nach § 20 Abs. 1 Nr. 1 des Luftverkehrsgesetzes 
 
 (4) Die Dienstzeit ist zwischen zwei Ruhezeiten auf 14 Stunden begrenzt, wenn nicht eine höhere Dienstzeit nach den §§ 11, 14 oder OPS 1.1105 oder OPS 1.1120 zulässig ist. Die höchstzulässige tägliche Dienstzeit von 14 Stunden berücksichtigt nicht:
 
-1.
+1. Positionierungszeiten nach dem letzten Flugabschnitt und
 
-2.
+2. Abschlussarbeiten nach dem letzten Flugdienst, die nicht Teil der Flugdienstzeit sind.
 
 (5) Wenn die Summe der planmäßigen Dienstzeiten zwischen zwei Ruhezeiten nach OPS 1.1110 Nr. 1 die höchstzulässigen täglichen Flugdienstzeiten nach OPS 1.1105, § 10 oder die Zeit nach Absatz 2 überschreitet, sind § 11 oder § 14 anzuwenden.
 
@@ -141,13 +141,13 @@ Für Luftfahrtunternehmen, die nach § 20 Abs. 1 Nr. 1 des Luftverkehrsgesetzes 
 
 (2) Sofern die Dienstzeiten die höchstzulässigen täglichen Flugdienstzeiten gemäß OPS 1.1105 oder § 10 überschreiten, gelten folgende Maßgaben:
 
-1.
+1. Jedes Flugbesatzungsmitglied darf nicht länger als zehn Stunden ein Luftfahrzeug führen und bedienen.
 
-2.
+2. Innerhalb des Flugdienstes dürfen nicht mehr als zwei Landungen nach der Pause geplant werden.
 
-3.
+3. Innerhalb jeweils sieben aufeinander folgender Tage dürfen nicht mehr als zwei Flugdienste gemäß Absatz 2 geleistet werden.
 
-4.
+4. Flugdienste nach § 11 Abs. 2 und § 14 dürfen nicht innerhalb von sieben aufeinander folgenden Tagen geleistet werden.
 
 ### § 12 — Ruhezeit - Berücksichtigung von Zeitzonenunterschieden *% (zu OPS 1.1110 Nr. 1.3)
 
@@ -159,25 +159,25 @@ Besteht zwischen dem Ort des Antritts des Flugdienstes und dem Ort der Beendigun
 
 (2) Wichtige Gründe für die Verkürzung der Ruhezeit können insbesondere sein:
 
-1.
+1. Undurchführbarkeit eines Fluges bei Einhaltung der vorgeschriebenen Ruhezeiten,
 
-2.
+2. Fehlen geeigneter Flugplätze für Zwischenlandungen,
 
-3.
+3. nachteilige Auswirkungen auf die Gesamtbelastung der Besatzungsmitglieder bei Einhaltung der vorgeschriebenen Ruhezeiten,
 
-4.
+4. unverhältnismäßig hoher Mehraufwand für bestimmte Flüge bei Einhaltung der vorgeschriebenen Ruhezeiten.
 
 (3) Verkürzungen der Ruhezeiten nach Absatz 1 sind nur zulässig, wenn die erhöhte Belastung der Besatzung ausgeglichen wird und eine Gefahr für die Sicherheit des Luftverkehrs ausgeschlossen ist.
 
 (4) Bei Prüfung des Antrags werden berücksichtigt:
 
-1.
+1. die Betriebsausrüstung und deren Zustand der verwendeten Luftfahrzeuge,
 
-2.
+2. die Zusammensetzung der Besatzung und deren Flug-, Strecken- und Luftfahrzeugmustererfahrung,
 
-3.
+3. die Anzahl von Zwischenlandungen,
 
-4.
+4. sonstige die Belastung der Besatzung beeinflussende Umstände.
 
 ### § 14 — Verlängerung der Flugdienstzeit aufgrund einer Ruhezeit während des Flugs *% (zu OPS 1.1115)
 
@@ -185,13 +185,13 @@ Besteht zwischen dem Ort des Antritts des Flugdienstes und dem Ort der Beendigun
 
 (2) Bei Prüfung des Antrags werden berücksichtigt:
 
-1.
+1. die Betriebsausrüstung und deren Zustand der verwendeten Luftfahrzeuge,
 
-2.
+2. die Zusammensetzung der Besatzung und deren Flug-, Strecken- und Luftfahrzeugmustererfahrung,
 
-3.
+3. die Anzahl von Zwischenlandungen,
 
-4.
+4. sonstige die Belastung der Besatzung beeinflussende Umstände.
 
 ### § 15 — Bereitschaft
 *%
@@ -199,9 +199,9 @@ Besteht zwischen dem Ort des Antritts des Flugdienstes und dem Ort der Beendigun
 
 (1) Bereitschaftszeit ist als Flugdienstzeit anzurechnen, wenn Bereitschaftszeit und Flugdienstzeit nicht durch eine Ruhezeit nach OPS 1.1110 unterbrochen werden und
 
-1.
+1. entweder dem Besatzungsmitglied während der Bereitschaftszeit kein ruhig gelegener Raum mit Schlafgelegenheit zur Verfügung steht,
 
-2.
+2. oder dem Besatzungsmitglied während der Bereitschaftszeit ein ruhig gelegener Raum mit Schlafgelegenheit zur Verfügung steht, die Bereitschaftszeit jedoch weniger als 2 Stunden beträgt, es sei denn, die Bereitschaftszeit wird im Anschluss an eine Ruhezeit abgeleistet.
 
 (2) Steht dem Besatzungsmitglied ein ruhig gelegener Raum mit Schlafgelegenheit zur Verfügung, kann die Bereitschaftszeit als Pause gewertet werden.
 
@@ -213,21 +213,21 @@ Besteht zwischen dem Ort des Antritts des Flugdienstes und dem Ort der Beendigun
 
 Die zuständige Behörde genehmigt auf Antrag ein Schulungsprogramm für die Luftsicherheit. Das Programm für die Besatzungsmitglieder muss mindestens folgende Inhalte umfassen:
 
-1.
+1. die Entwicklung von Fachkompetenz zur Beurteilung der Auswirkungen eines widerrechtlichen Eingriffs in den Luftverkehr,
 
-2.
+2. die Schulung der Verständigung und des Zusammenarbeitens der Besatzungsmitglieder untereinander,
 
-3.
+3. die Einübung geeigneter Selbstverteidigungsmaßnahmen,
 
-4.
+4. die Einübung des Umgangs mit nicht-tödlichen, für die Besatzung bestimmten und ihrem Schutz dienenden Geräten, für die eine Genehmigung gemäß § 27 Abs. 4 des Luftverkehrsgesetzes vorliegt,
 
-5.
+5. die Vermittlung von Kompetenz zur Analyse des Verhaltens von Flugzeugentführern,
 
-6.
+6. die Durchführung von realitätsnahen Übungen zum situationsbezogenen Kennenlernen unterschiedlicher Bedrohungszustände,
 
-7.
+7. die Schulung von Führerraumverfahren zum Schutz des Flugzeugs,
 
-8.
+8. die Einübung von Verfahren zur planvollen Durchsuchung des Flugzeugs einschließlich Hinweisen auf den Platz im Flugzeug, an dem aufgefundene Explosivstoffe am risikoärmsten gelagert werden können.
 
 ### § 17 — Inkrafttreten, Außerkrafttreten
 
